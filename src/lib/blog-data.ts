@@ -820,9 +820,9 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
   {
     slug: "multa-trafico-barcelona-recurrir",
     locale: "es",
-    title: "Multas en Barcelona: cómo recurrirlas gratis (2026)",
+    title: "Multas en Barcelona: cómo recurrir paso a paso",
     excerpt:
-      "Barcelona y el AMB tienen sus particularidades: ZBE, Guardia Urbana, Àrea Metropolitana. Te explicamos cómo recurrir cada tipo de multa en Barcelona.",
+      "Guardia Urbana, DGT o AMB: en Barcelona, quién te multa decide dónde recurrir. Plazos, descuento del 50 % y errores que arruinan el recurso.",
     category: "Provincias",
     date: "2026-06-18",
     readTime: 6,
@@ -836,58 +836,40 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "multa zona azul barcelona recurrir",
       "multa barcelona sede electronica",
     ],
-    content: `## Multas de tráfico en Barcelona: panorama 2026
+    content: `## Multas en Barcelona: el panorama de 2026
 
-Barcelona presenta una casuística especial por la coexistencia de varios organismos sancionadores: la **Guardia Urbana**, la **DGT** (vías interurbanas), el **Àrea Metropolitana de Barcelona (AMB)** y los **municipios metropolitanos**.
+Barcelona tiene una casuística especial porque en ella conviven varios organismos con potestad sancionadora: la **Guardia Urbana**, la **DGT** para las vías interurbanas, el **AMB (Àrea Metropolitana de Barcelona)** y los **municipios metropolitanos**.
 
-## Quién pone las multas en Barcelona
+## Quién multa en Barcelona
 
-### Guardia Urbana de Barcelona (vías urbanas)
-- Competencia: calles y vías de Barcelona ciudad
-- Recurso ante: Ayuntamiento de Barcelona
-- Portal: seu.barcelona.cat
-- Email: oia@bcn.cat (Oficina d'Atenció al Ciutadà)
+### Guardia Urbana: vías urbanas
+- Guardia Urbana: calles y vías de la ciudad; el recurso va al Ayuntamiento de Barcelona, en seu.barcelona.cat, y la Oficina d'Atenció al Ciutadà atiende en oia@bcn.cat.
 
 ### DGT (autopistas y rondas)
-- Competencia: B-10, B-20, B-23, AP-7, C-32 y accesos
-- Recurso ante: Jefatura Provincial de Tráfico de Barcelona
-- Email: jpt.barcelona@dgt.es
-- Dirección: C/ Provença, 328-330, 08037 Barcelona
+- DGT: autopistas y rondas —C-32, AP-7, B-23, B-20 y B-10, además de los accesos—; el recurso va a la Jefatura Provincial de Tráfico de Barcelona (jpt.barcelona@dgt.es), en C/ Provença, 328-330, 08037 Barcelona.
 
-### AMB (vías metropolitanas)
-- Competencia: vías de la red metropolitana fuera de Barcelona ciudad
-- Recurso ante: el municipio correspondiente
+### AMB y vías metropolitanas
+- AMB: vías de la red metropolitana fuera de la ciudad; el recurso corresponde al municipio correspondiente.
 
 <img src=/media/zbe-barcelona-camara-cuerpo.webp alt=Cámara de control de la Zona de Bajas Emisiones de Barcelona>
 
-## Zona de Bajas Emisiones (ZBE) de Barcelona
+## La Zona de Bajas Emisiones (ZBE)
 
-Barcelona tiene la **ZBE Rondes de Barcelona**, que restringe la circulación en las Rondas (B-10 y B-20) a vehículos sin etiqueta ambiental en días laborables de 7h a 20h.
+La ciudad cuenta con la **ZBE Rondes de Barcelona**, que limita el paso por las Rondas, B-10 y B-20, para vehículos carentes de etiqueta ambiental durante los días laborables de 7h a 20h.
 
-Las multas son de **100€**. Los argumentos para recurrir incluyen:
-- Error en la lectura de matrícula (especialmente matrículas de países europeos)
-- Señalización insuficiente en los accesos a las Rondas
-- Exención por ser vehículo de emergencias, transporte escolar o discapacidad
+La sanción es de **100€**, recurrible cuando la cámara lee mal la matrícula —algo frecuente con matrículas de países europeos—, cuando la señalización en los accesos a las Rondas resulta insuficiente o cuando aplica una exención por emergencias, transporte escolar o discapacidad.
 
 <img src=/media/barcelona-calle-trafico-cuerpo.webp alt=Tráfico denso en una avenida de Barcelona>
 
-## Zona Azul y Área Verde en Barcelona
+## Aparcamiento regulado: Zona Azul y Área Verde
 
-Barcelona tiene un sistema complejo de zonas de aparcamiento regulado (Àrea de Barcelona). Las multas por aparcamiento incorrecto son recurribles cuando:
-- La señalización del tipo de zona no era clara
-- El parquímetro más cercano estaba averiado
-- Había discrepancia entre la señalización vertical y las marcas en el suelo
-- Error en la lectura de la matrícula por el controlador
+El aparcamiento regulado barcelonés (Àrea de Barcelona) es un sistema complejo. Una multa por aparcar mal se puede recurrir si el tipo de zona no estaba señalizado con claridad, si el parquímetro más cercano estaba averiado, si la señal vertical contradecía las marcas del suelo o si el controlador leyó mal la matrícula.
 
-## Cómo presentar el recurso en Barcelona
+## Presentar el recurso en Barcelona
 
-1. Accede a **seu.barcelona.cat**
-2. Busca "Recursos contra sancions de trànsit"
-3. Identifícate con idCAT, Cl@ve o DNI electrónico
-4. Adjunta la notificación y el recurso
-5. Descarga el resguardo con sello de tiempo
+Entra en seu.barcelona.cat y localiza el trámite «Recursos contra sancions de trànsit»; identifícate mediante idCAT, Cl@ve o DNI electrónico, adjunta la notificación junto con el recurso y descarga el resguardo con sello de tiempo.
 
-## Quién te ha multado en Barcelona y dónde recurrir
+## Organismos y dónde recurrir
 
 | Organismo | Competencia | Dónde se recurre |
 |---|---|---|
@@ -895,19 +877,19 @@ Barcelona tiene un sistema complejo de zonas de aparcamiento regulado (Àrea de 
 | DGT | B-10, B-20, B-23, AP-7, C-32 y accesos | Jefatura Provincial de Tráfico de Barcelona |
 | AMB | Vías metropolitanas fuera de Barcelona | Municipio correspondiente |
 
-## También te puede interesar
+## Lecturas relacionadas
 
-- <a href=/blog/multa-trafico-madrid-recurrir/>cómo recurrir una multa de tráfico en Madrid</a>
-- <a href=/blog/multa-trafico-policia-local-recurrir/>recurso contra multas de la Policía Local</a>
-- <a href=/blog/zonas-bajas-emisiones-espana-turistas-extranjeros/>guía de ZBE en España para turistas</a>
+- <a href=/blog/multa-trafico-madrid-recurrir/>cómo apelar una sanción de tráfico en Madrid</a>
+- <a href=/blog/multa-trafico-policia-local-recurrir/>apelar sanciones de la Policía Local</a>
+- <a href=/blog/zonas-bajas-emisiones-espana-turistas-extranjeros/>ZBE en España: guía para turistas</a>
 
-## Antes de recurrir: identifica quién te sanciona en Barcelona
+## Antes de recurrir: identifica a quién te sanciona
 
-En Barcelona conviven varias administraciones y la notificación manda: en su encabezado constan el organismo que denuncia, el expediente y el registro al que dirigirte. Si la denuncia es de la Guàrdia Urbana por una vía urbana, tramita el Ajuntament en su sede electrónica. Si procede de vías interurbanas o metropolitanas, puede intervenir la DGT o el municipio correspondiente.
+Varias administraciones conviven en Barcelona, y lo que manda es la notificación: su encabezado indica el organismo denunciante, el expediente y el registro al que debes dirigirte. Una denuncia de la Guàrdia Urbana en una vía urbana se tramita en la sede electrónica del Ajuntament. En vías interurbanas o metropolitanas, pueden intervenir la DGT o el municipio correspondiente.
 
-## Plazos en Barcelona: pagar con descuento o alegar, pero no ambas cosas
+## Descuento o alegaciones: los plazos
 
-La normativa estatal —DGT y texto refundido de la Ley de Tráfico en el BOE— plantea una elección clara. Tienes **20 días naturales** desde el día siguiente a la notificación para pagar con una **reducción del 50 %** o para formular alegaciones. Si pagas con reducción, renuncias a alegar: las alegaciones posteriores se tendrán por no presentadas. Si alegas, pierdes el descuento y, si se desestima tu recurso, pagarás el 100 %.
+La normativa estatal —la DGT y el texto refundido de la Ley de Tráfico publicado en el BOE— deja una elección clara: dispones de **20 días naturales**, contados a partir del día siguiente a la notificación, para abonar con una **reducción del 50 %** o para presentar alegaciones. Abonar con reducción implica renunciar a alegar, y las alegaciones que lleguen después se tendrán por no presentadas. Alegar supone perder el descuento y, si el recurso se desestima, pagar el 100 %.
 
 | Opción en plazo voluntario | Plazo | Qué pagas | Efecto principal |
 |---|---|---|---|
@@ -915,42 +897,43 @@ La normativa estatal —DGT y texto refundido de la Ley de Tráfico en el BOE—
 | Presentar alegaciones | 20 días naturales | Nada en ese momento | Pierdes el descuento; si se desestima, pagas el 100 % |
 | Identificar a otro conductor | 20 días naturales desde el requerimiento | Nada en ese momento | El procedimiento se dirige contra la persona identificada |
 
-## Identificar al conductor y presentar alegaciones, paso a paso
+## Identificación del conductor y alegaciones paso a paso
 
-Si no conducías tú, responde primero al requerimiento de identificación: aporta nombre, apellidos, documento de identidad, número de permiso y domicilio de quien conducía, en el plazo indicado. Después presenta las alegaciones en este orden: cita el expediente, explica el hecho que discutes, aporta la prueba —fotografías de la señalización, tique de aparcamiento, justificante de exención o documento del vehículo— y pide la anulación o el archivo. Entrega todo por la sede que indique la notificación y descarga el resguardo. Antes de decidir, contrasta tu caso en el <a href=/#analizador>analizador gratuito de multas</a> y revisa la <a href=/guias/vicios-forma/>guía de vicios de forma</a> para detectar defectos en la notificación.
+Si no conducías tú, contesta primero al requerimiento de identificación: indica nombre, apellidos, documento de identidad, número de permiso y domicilio de quien conducía, dentro del plazo indicado. Luego presenta las alegaciones en este orden: menciona el expediente, explica el hecho que discutes, aporta la prueba —fotografías de la señalización, tique de aparcamiento, justificante de exención o documento del vehículo— y pide la anulación o el archivo. Entrega todo por la sede que señale la notificación y descarga el resguardo. Antes de decidir, contrasta tu caso en el <a href=/#analizador>analizador gratuito de multas</a> y revisa la <a href=/guias/vicios-forma/>guía sobre vicios de forma</a> para detectar defectos en la notificación.
 
-## Errores frecuentes que echan a perder un recurso en Barcelona
+## Errores que arruinan un recurso en Barcelona
 
-El fallo más habitual es pagar con el 50 % y recurrir después, cuando la ley ya tiene esas alegaciones por no presentadas. Le siguen recurrir ante el organismo equivocado, contar solo días laborables y dejar pasar los 20 días naturales, no identificar al conductor cuando había requerimiento expreso y alegar sin prueba: decir «la señal no se veía» sin fotografía suele pesar poco. 
+El error más habitual consiste en abonar con descuento del 50 % y apelar después, cuando la ley ya da esas alegaciones por no presentadas. Después vienen apelar ante el organismo equivocado, contar únicamente días laborables y dejar que pasen los 20 días naturales sin identificar al conductor pese a un requerimiento expreso y alegar sin prueba: afirmar que «la señal no se veía» sin fotografía apenas pesa. 
 
-## Si no pagas ni recurres: recargo, vía ejecutiva y embargo
+## No pagar ni recurrir: recargo, vía ejecutiva y embargo
 
-Ignorar la multa no la hace desaparecer. La ayuda de la sede del Ajuntament de Barcelona distingue el pago en periodo voluntario del de periodo ejecutivo, «con recargo e intereses, si fuera el caso», y advierte de que cuando la situación es «EMBARGO» ya no se puede generar esa copia. La deuda puede encarecerse y acabar en embargo si sigue sin atenderse. Si crees que ha prescrito, contrástalo con la <a href=/guias/prescripcion/>guía de prescripción de multas</a> antes de darlo por hecho.
+Dejar la multa sin atender no la hace desaparecer. La información de la sede del Ajuntament de Barcelona separa el abono en periodo voluntario del abono en periodo ejecutivo, con el recargo y los intereses que correspondan, si fuera el caso, y avisa de que en situación de «EMBARGO» ya no es posible generar esa copia. La deuda, eso sí, puede encarecerse y terminar en embargo cuando sigue sin atenderse. Si sospechas que ha prescrito, compruébalo con la <a href=/guias/prescripcion/>guía sobre prescripción de multas</a> antes de darla por hecha.
 
-## Veredicto: cuándo compensa recurrir y cuándo pagar con descuento
+## Veredicto: recurrir o pagar con descuento
 
-**Veredicto:** compensa recurrir cuando tienes un defecto o una prueba comprobable —matrícula mal leída, señalización contradictoria, exención aplicable, conductor distinto identificado en plazo o notificación defectuosa— y asumes que, si pierdes, pagarás el 100 %. Compensa pagar con el 50 % cuando el hecho es correcto y no tienes prueba en contra: cerrar el expediente por la mitad suele ser lo más barato y rápido. Lo que nunca compensa es no hacer nada en 20 días: pierdes el descuento y la oportunidad de alegar.
+**Veredicto:** merece la pena recurrir cuando cuentas con un defecto o con una prueba que se puede comprobar —matrícula mal leída, señalización contradictoria, exención aplicable, otro conductor identificado en plazo o notificación defectuosa— y aceptas que, si pierdes, pagarás el 100 %. Merece la pena abonar un 50 % cuando el hecho es correcto y careces de prueba en contra: cerrar el expediente a la mitad suele salir lo más económico y rápido. Lo que nunca merece la pena es no hacer nada durante 20 días: se pierden el descuento y la opción de alegar.
 
 ## Preguntas frecuentes
 
-### ¿Quién puede multarme en Barcelona?
-La Guardia Urbana (vías urbanas), la DGT (autopistas y rondas) y el Àrea Metropolitana de Barcelona (vías metropolitanas).
+### ¿Quién puede sancionarte en Barcelona?
+La Guardia Urbana en las vías urbanas, la DGT en autopistas y rondas, además del Àrea Metropolitana de Barcelona en las vías metropolitanas.
 
-### ¿Cuánto es la multa por la ZBE de Barcelona?
-200 € (260 € si hay episodio de contaminación declarado) por acceder sin etiqueta en días laborables de 7h a 20h en las Rondas (B-10 y B-20).
+### ¿De cuánto es la multa de la ZBE de Barcelona?
+200 €, o 260 € en caso de episodio de contaminación declarado, por entrar sin etiqueta durante los días laborables de 7h a 20h por las Rondas (B-10 y B-20).
 
-### ¿Dónde presento el recurso en Barcelona?
-En seu.barcelona.cat, buscando «Recursos contra sancions de trànsit», con idCAT, Cl@ve o DNI electrónico.
+### ¿En dónde se presenta el recurso en Barcelona?
+En la sede seu.barcelona.cat, localizando el trámite «Recursos contra sancions de trànsit» e identificándote con idCAT, Cl@ve o DNI electrónico en mano.
 
-### ¿Qué particularidad tienen las matrículas extranjeras?
-Los errores de lectura de matrícula por las cámaras son frecuentes con matrículas de otros países europeos, y son un argumento habitual para recurrir.
+### ¿Qué pasa con las matrículas extranjeras?
+Los fallos de lectura de matrícula por las cámaras se dan con frecuencia con matrículas de otros países europeos, y suponen un motivo habitual para recurrir.
 
-### ¿Qué hago si la zona de aparcamiento no estaba clara?
-Las multas de aparcamiento regulado son recurribles cuando la señalización del tipo de zona no era clara, el parquímetro estaba averiado o había discrepancia entre la señalización vertical y las marcas en el suelo.
+### ¿Qué hago si el tipo de zona de aparcamiento no estaba claro?
+Las multas de aparcamiento regulado se pueden recurrir cuando el tipo de zona no estaba señalizado con claridad, el parquímetro estaba averiado o la señal vertical contradecía las marcas del suelo.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.
 
-*Fuentes: DGT (dgt.es) — qué hacer si has recibido una multa, periodo voluntario de 20 días naturales y reducción del 50 %; BOE (boe.es) — texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, arts. 93 a 95; Ajuntament de Barcelona, sede electrónica (ajuntament.barcelona.cat) — documento de pago de multas en periodo voluntario y ejecutivo, con recargo e intereses y situación de embargo.*`,
+*Fuentes: DGT (dgt.es) — qué hacer si has recibido una multa, periodo voluntario de 20 días naturales y reducción del 50 %; BOE (boe.es) — texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, arts. 93 a 95; Ajuntament de Barcelona, sede electrónica (ajuntament.barcelona.cat) — documento de pago de multas en periodo voluntario y ejecutivo, con recargo e intereses y situación de embargo.*
+`,
   },
   {
     slug: "multa-sin-cinturon-seguridad-recurrir",
@@ -1487,9 +1470,9 @@ export const COUNTRY_AUTHORITY_POSTS: BlogPost[] = [
   {
     slug: "dgt-organismo-trafico-espana-como-funciona",
     locale: "es",
-    title: "DGT: qué es y cómo recurrir sus multas",
+    title: "DGT en España: funciones, trámites y recursos",
     excerpt:
-      "La DGT explicada: qué es, qué trámites gestiona y cómo recurrir tus multas gratis. Plazos, sede electrónica y vicios de forma que anulan sanciones.",
+      "Qué es la DGT, qué sanciones gestiona y cuáles no, sus 50 jefaturas, los plazos para recurrir y cómo usar la sede electrónica y miDGT.",
     category: "Guías Prácticas",
     date: "2026-09-10",
     readTime: 8,
@@ -1505,22 +1488,13 @@ export const COUNTRY_AUTHORITY_POSTS: BlogPost[] = [
       "jefatura trafico provincial contacto",
       "DGT recurso reposicion plazo",
     ],
-    content: `## ¿Qué es la DGT?
+    content: `Si conduces en España, tarde o temprano te cruzarás con estas siglas. La Dirección General de Tráfico depende del Ministerio del Interior y se ocupa de ordenar el tráfico y de velar por la seguridad en las carreteras del país. Su oficina central se encuentra en Madrid, y en cada provincia trabaja a través de su Jefatura Provincial de Tráfico.
 
-La **Dirección General de Tráfico (DGT)** es el organismo del Ministerio del Interior encargado de regular y controlar la circulación de vehículos y la seguridad vial en España. Su sede central está en Madrid, pero opera a través de las **Jefaturas Provinciales de Tráfico**, una por cada provincia española.
+Entre sus cometidos están expedir y renovar permisos de conducir, inscribir vehículos cuando se matriculan o cambian de titular, administrar el saldo de puntos —todo conductor parte de 12—, instruir expedientes por infracciones y vigilar los radares fijos cuyas denuncias luego tramita.
 
-Funciones principales de la DGT:
-- Expedición y renovación del carnet de conducir
-- Registro de vehículos (matriculaciones y transferencias)
-- Gestión del permiso por puntos (saldo inicial: 12 puntos)
-- Tramitación de los expedientes sancionadores (multas de tráfico)
-- Supervisión de los radares fijos y tramitación de sus denuncias
+## Qué sanciones gestiona y cuáles quedan fuera
 
----
-
-## ¿Qué multas tramita la DGT y cuáles NO?
-
-La DGT tramita las **infracciones detectadas en carretera nacional o autonómica** y las captadas por sus radares. No tramita:
+No toda sanción que recibes en España la firma Tráfico. La DGT se queda con las infracciones cometidas en carreteras nacionales y autonómicas y con las que captan sus propios radares; el resto pertenece a otros organismos, como resume la tabla.
 
 | Organismo | Tipo de multa |
 |---|---|
@@ -1529,24 +1503,15 @@ La DGT tramita las **infracciones detectadas en carretera nacional o autonómica
 | Guardia Civil | Algunas denuncias en carretera (delegadas en DGT) |
 | Comunidades Autónomas | Cataluña, Euskadi y Galicia tienen policía de tráfico propia (Mossos, Ertzaintza, Guardia Civil Galicia) |
 
-> **Importante:** Si tu multa viene de una Jefatura Provincial de Tráfico, el organismo que la tramita es la DGT.
+Una pista sencilla: cuando el remitente es una Jefatura Provincial de Tráfico, quien está detrás del expediente es la DGT.
 
----
+## Una jefatura por provincia
 
-## Estructura provincial de la DGT
+El mapa se organiza con 50 jefaturas provinciales, una en cada provincia, más una delegación que cubre Ceuta y Melilla. Cada jefatura resuelve los recursos de las sanciones impuestas dentro de su territorio. En 2026, las que mueven más expedientes son las de Madrid, Barcelona, Valencia, Sevilla y Málaga.
 
-La DGT opera a través de **50 Jefaturas Provinciales de Tráfico** (una por provincia) y una delegación en Ceuta y Melilla. Cada Jefatura es competente para resolver los recursos de las multas impuestas en su territorio.
+## Los plazos que no puedes dejar pasar
 
-Jefaturas de mayor volumen de expedientes (2026):
-- Madrid — Jefatura Provincial de Tráfico de Madrid
-- Barcelona — Jefatura Provincial de Tráfico de Barcelona
-- Valencia — Jefatura Provincial de Tráfico de Valencia
-- Sevilla — Jefatura Provincial de Tráfico de Sevilla
-- Málaga — Jefatura Provincial de Tráfico de Málaga
-
----
-
-## Plazos clave en el procedimiento sancionador DGT
+El calendario manda tanto como el fondo del asunto. Desde que te notifican la denuncia empieza a correr el tiempo, y cada fase tiene su propio margen, como recoge la tabla.
 
 | Momento | Plazo | Qué tienes que hacer |
 |---|---|---|
@@ -1556,45 +1521,21 @@ Jefaturas de mayor volumen de expedientes (2026):
 | Resolución de la DGT | **Hasta 1 año** | La DGT tiene hasta 1 año para resolver |
 | Recurso contencioso-administrativo | **2 meses** desde la resolución | Solo si la DGT desestima |
 
----
-
 <img src=/media/analizar-multa-ia-guia-legal.webp alt=Analizar una multa con IA antes de decidir si recurrirla>
 
-## Sede Electrónica de la DGT
+## La sede electrónica: trámites sin ir a la oficina
 
-Desde sede.dgt.gob.es puedes:
-- Consultar tus denuncias pendientes
-- Presentar alegaciones y recursos online (con Cl@ve o DNIe)
-- Pagar multas con descuento del 50%
-- Consultar el saldo de puntos de tu carnet
+La web sede.dgt.gob.es concentra buena parte de la gestión: desde allí se consultan las denuncias que tienes pendientes, se presentan alegaciones y recursos por internet con Cl@ve o DNIe, se abonan sanciones con la rebaja del 50% y se revisa cuántos puntos te quedan. Incluso sin certificado puedes entrar con el número de expediente y tu NIF para ver en qué punto está una denuncia.
 
-Acceso sin certificado: Con el número de expediente y NIF, puedes consultar el estado de cualquier denuncia.
+## Siete fallos formales que pueden tumbar la sanción
 
----
+Hay siete defectos de forma que aparecen una y otra vez: que no figure el número TIP del agente, lo que dejaría la denuncia sin validez; que falte la hora exacta, un dato esencial del boletín; que el radar carezca de verificación metrológica, lo que invalida por completo la prueba; que la señalización previa al radar móvil sea insuficiente —debe avisarse a 150 m—; que la notificación llegue con un plazo o una dirección equivocados; que la matrícula tenga algún dígito erróneo; y que la infracción se haya tipificado con un artículo de la LSV que no corresponde.
 
-## Los 7 vicios de forma más habituales en multas DGT
+## Recurrir paso a paso, sin pagar antes
 
-1. Falta del número TIP del agente — La denuncia es nula si no consta
-2. Ausencia de hora exacta — La hora es un elemento esencial del boletín
-3. Radar sin verificación metrológica — Invalidez total de la prueba
-4. Señalización previa insuficiente — Obligatoria a 150 m del radar móvil
-5. Notificación defectuosa — Plazo y dirección incorrectos abren la nulidad
-6. Matrícula errónea — Error en un dígito puede anular la sanción
-7. Infracción no tipificada correctamente — Artículo de la LSV mal citado
+Si decides recurrir, el orden importa: primero, no abones la sanción, porque pagar equivale a aceptarla; después, revisa el boletín punto por punto —el análisis gratuito de RecurreTuMulta.online te ayuda a detectar los fallos—; con esos argumentos, redacta el recurso de reposición; preséntalo en la jefatura provincial que corresponda o en la sede electrónica; y luego espera: la Administración dispone de hasta un año para resolver, y si calla, el silencio se entiende desestimatorio.
 
----
-
-## ¿Cómo recurrir una multa DGT paso a paso?
-
-1. **No pagues** la multa si vas a recurrir (pagar implica conformidad)
-2. Analiza el boletín de denuncia con **RecurreTuMulta.online** (gratuito)
-3. Redacta el recurso de reposición con los argumentos detectados
-4. Preséntalo en la Jefatura Provincial correspondiente o por la Sede Electrónica
-5. Espera la resolución (máximo 1 año; si no resuelven, silencio administrativo desestimatorio)
-
-> Dato: un recurso bien fundamentado, con vicios de forma acreditados, tiene muchas más opciones de terminar en anulación o reducción de la sanción.
-
-## Tabla: plazos para recurrir una multa DGT
+Un recurso con vicios acreditados y bien argumentado tiene muchas más posibilidades de acabar en anulación o en una rebaja de la sanción que uno genérico.
 
 | Fase | Plazo | Dónde se presenta |
 |---|---|---|
@@ -1604,22 +1545,15 @@ Acceso sin certificado: Con el número de expediente y NIF, puedes consultar el 
 
 No apures los plazos: presenta el recurso cuanto antes y guarda el justificante. ¿No sabes por dónde empezar? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> y recibe los argumentos más sólidos para tu caso.
 
----
-
 <img src=/media/dgt-reforma-agentes-cuerpo.webp alt=Agentes de tráfico de la DGT en un control en carretera>
 
-## Cataluña, Euskadi y Navarra: ¿también es la DGT?
+## Cataluña, Euskadi y Navarra van por otro lado
 
-No exactamente:
-- Cataluña: Los Mossos d'Esquadra gestionan su propia policía de tráfico. Las denuncias de autopistas y vías urbanas catalanas pasan por el Servei Català de Trànsit (SCT), no por la DGT.
-- Euskadi: La Ertzaintza es la policía de tráfico. Las multas se tramitan a través del Departamento de Seguridad del Gobierno Vasco.
-- Navarra: Policía Foral de Navarra para vías de Navarra.
+En Cataluña, Euskadi y Navarra el esquema cambia. En Cataluña, los Mossos d'Esquadra llevan la policía de tráfico y las denuncias de autopistas y calles catalanas se canalizan por el Servei Català de Trànsit, no por la DGT. En Euskadi manda la Ertzaintza y el trámite pasa por el Departamento de Seguridad del Gobierno Vasco. En Navarra, la Policía Foral se ocupa de las vías navarras. En los tres casos, el recurso hay que dirigirlo al organismo autonómico, no a Tráfico.
 
-En estos territorios, el recurso se dirige al organismo autonómico correspondiente, no a la DGT.
+## Sanción de la DGT frente a sanción municipal
 
----
-
-## Recapitulación: multa DGT vs. multa municipal
+La diferencia práctica entre una sanción y otra se ve de un vistazo en la tabla: cambia quién la impone, dónde se comete, ante quién se recurre y con qué margen.
 
 | Característica | Multa DGT | Multa municipal |
 |---|---|---|
@@ -1629,18 +1563,11 @@ En estos territorios, el recurso se dirige al organismo autonómico correspondie
 | Plazo recurso | 20 días naturales | 30 días hábiles (en muchos ayuntamientos) |
 | Pronto pago | 50% descuento | 50% descuento (en la mayoría) |
 
-Usa RecurreTuMulta.online para analizar tu multa de forma gratuita y recibir los argumentos más sólidos según el tipo de organismo que la emitió.
-## DGT 3.0 y miDGT: la DGT digital que casi nadie conoce
+Antes de pagar, comprueba gratis qué organismo firmó tu sanción y qué argumentos tienes según su tipo.
 
-Si has buscado "cómo funciona la DGT", es probable que en realidad quieras saber cómo funciona su plataforma digital: la **DGT 3.0** y la app **miDGT**. Son dos cosas distintas y conviene no confundirlas.
+## DGT 3.0 y miDGT: la parte digital
 
-DGT 3.0 es la plataforma de movilidad conectada de Tráfico: un sistema en la nube que recibe datos en tiempo real de balizas V16 conectadas, vehículos y aplicaciones de navegación para gestionar incidentes y alertar a los conductores. Desde el **1 de enero de 2026**, las balizas V16 conectadas (que sustituyen a los triángulos de emergencia) envían automáticamente su posición a esta plataforma cuando se activan.
-
-miDGT es la app oficial de la DGT para el móvil. Con ella puedes:
-- Llevar el carnet de conducir y el permiso de circulación en formato digital (válidos legalmente)
-- Consultar tu saldo de puntos del carnet
-- Recibir avisos de multas y notificaciones electrónicas
-- Pagar multas y consultar expedientes
+Queda la parte digital, que es la que más confusión genera. DGT 3.0 no es una aplicación: es la plataforma en la nube que reúne al instante datos procedentes de balizas V16 conectadas, de vehículos y de aplicaciones de navegación para gestionar incidentes y avisar a quienes conducen. Las balizas V16 conectadas, que ya sustituyen a los triángulos, mandan su posición solas en cuanto se activan, algo obligatorio desde el 1 de enero de 2026. La aplicación, en cambio, es miDGT: la app oficial donde llevas el permiso de conducir y el de circulación en el móvil con validez legal, miras tus puntos, recibes avisos de sanciones y notificaciones electrónicas, y pagas y consultas expedientes.
 
 | Herramienta | Qué es | Para qué te sirve |
 |---|---|---|
@@ -1648,8 +1575,7 @@ miDGT es la app oficial de la DGT para el móvil. Con ella puedes:
 | miDGT | App oficial del conductor | Carnet digital, puntos, avisos de multas |
 | Sede Electrónica | Web de trámites | Recursos, alegaciones, pagos |
 
-**¿Por qué te importa para recurrir?** Si recibes una multa, el aviso te puede llegar por miDGT o por notificación electrónica en la Sede Electrónica. El plazo de 20 días naturales para alegar **empieza a contar desde la notificación**, así que tener la app instalada te evita perder plazos por no enterarte.
-
+Esto afecta directamente a los recursos: el aviso de una sanción te puede entrar por miDGT o como notificación electrónica en la sede, y el margen de 20 días naturales para alegar corre desde esa notificación. Tener la aplicación instalada es, en la práctica, la forma de no perder un plazo por no haberte enterado.
 
 ## También te puede interesar
 
@@ -1657,30 +1583,34 @@ miDGT es la app oficial de la DGT para el móvil. Con ella puedes:
 - <a href=/blog/multa-trafico-policia-local-recurrir/>recurso contra multas de la Policía Local</a>
 - <a href=/blog/defectos-forma-anulan-multa-dgt/>12 vicios de forma que tumban una multa DGT</a>
 
-
-
 ## Preguntas frecuentes
 
-### ¿Qué es la DGT?
-La Dirección General de Tráfico, organismo del Ministerio del Interior encargado de regular la circulación y la seguridad vial en España, a través de las Jefaturas Provinciales de Tráfico.
+### ¿Qué organismo es la DGT?
 
-### ¿La DGT tramita las multas de aparcamiento?
-No: las multas de aparcamiento, vías urbanas y zonas ORA las tramitan los Ayuntamientos. La DGT tramita las infracciones en carretera nacional o autonómica y las captadas por sus radares.
+El organismo del Ministerio del Interior que ordena el tráfico y la seguridad vial en España, con una jefatura provincial en cada provincia.
 
-### ¿Qué puedo hacer en la Sede Electrónica de la DGT?
-Consultar denuncias pendientes, presentar alegaciones y recursos online, pagar multas con el 50% de descuento y consultar el saldo de puntos del carnet.
+### ¿Me puede multar la DGT por aparcar mal?
 
-### ¿Qué es miDGT?
-La app oficial de la DGT: carnet de conducir y permiso de circulación en formato digital, consulta de puntos y avisos de multas.
+No. Aparcar, circular por calles urbanas y las zonas ORA son competencia municipal: esas sanciones las ponen los ayuntamientos. La DGT se queda con la carretera y con sus radares.
 
-### ¿Qué es la DGT 3.0?
-La plataforma de movilidad conectada de Tráfico: recibe datos en tiempo real de balizas V16, vehículos y apps de navegación. Desde el 1 de enero de 2026, las balizas V16 conectadas envían su posición automáticamente al activarse.
+### ¿Qué gestiones resuelvo en la sede electrónica?
 
-### ¿La DGT gestiona las multas en Cataluña y Euskadi?
-No: en Cataluña es el Servei Català de Trànsit (Mossos d'Esquadra) y en Euskadi la Ertzaintza. El recurso se dirige al organismo autonómico correspondiente.
+Ver tus denuncias pendientes, presentar alegaciones y recursos con Cl@ve o DNIe, pagar con el 50% de descuento y mirar tu saldo de puntos.
 
+### ¿Para qué sirve la aplicación miDGT?
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.`,
+Es la app oficial de Tráfico: permiso de conducir y de circulación en el móvil, puntos y avisos de sanciones, todo en formato digital válido.
+
+### ¿En qué consiste DGT 3.0?
+
+En un sistema en la nube que recoge información al instante procedente de balizas V16, de coches conectados y de aplicaciones de ruta. Una baliza V16 conectada transmite dónde está nada más activarse, algo en vigor desde el primer día de 2026.
+
+### ¿Quién multa en Cataluña y en Euskadi?
+
+En Cataluña, el Servei Català de Trànsit con los Mossos d'Esquadra; en Euskadi, la Ertzaintza. El recurso va al organismo autonómico, no a la DGT.
+
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.
+`,
   },
 
   // ── FRANCIA: ONISR / ANTAI / Officiers de Police Judiciaire ──────────────
@@ -1701,9 +1631,9 @@ export const GASOLINA_POSTS: BlogPost[] = [
   {
     slug: "precio-gasolina-europa-2026-comparativa-paises",
     locale: "all",
-    title: "Precio de la gasolina en Europa 2026, país por país",
+    title: "Gasolina en Europa 2026: precios por país y dónde ahorrar",
     excerpt:
-      "Francia supera los 1,89 €/litro y Alemania roza los 2 €. Comparativa del precio de la gasolina en Europa 2026: impuestos y dónde es más barato.",
+      "Países Bajos roza los 2,12 € y España queda en 1,82 €: comparativa de gasolina en Europa en 2026, impuestos, fronteras y cómo gastar menos.",
     category: "Actualidad",
     date: "2026-09-12",
     readTime: 8,
@@ -1719,13 +1649,13 @@ export const GASOLINA_POSTS: BlogPost[] = [
       "precio diesel europa 2026",
       "combustible caro ue",
     ],
-    content: `## El mapa del combustible caro en Europa 2026
+    content: `## Europa 2026: el combustible por las nubes
 
-El precio de la gasolina en Europa ha batido máximos históricos en 2026. Lo que antes era un problema de los países nórdicos es ahora una realidad en toda la Unión Europea. Analizamos país por país, con datos actualizados de septiembre de 2026.
+Llenar el depósito en Europa se ha vuelto carísimo en 2026, con precios que marcan máximos históricos. Lo que antes afectaba sobre todo a los países nórdicos ahora alcanza a toda la Unión Europea. Repasamos país por país, con cifras actualizadas de septiembre de 2026.
 
 ---
 
-## Comparativa de precios de gasolina en Europa (septiembre 2026)
+## Tabla: gasolina en Europa en septiembre de 2026
 
 | País | Gasolina 95 | Gasóleo | Impuestos s/ precio total |
 |---|---|---|---|
@@ -1744,36 +1674,36 @@ El precio de la gasolina en Europa ha batido máximos históricos en 2026. Lo qu
 | Luxemburgo | 1,64 € | 1,49 € | 47% |
 | Noruega (no UE) | 2,20 € | 2,05 € | 67% |
 
-> Fuente: elaboración propia con datos de la Agencia Internacional de la Energía (AIE) y el Boletín Semanal de Precios de la Comisión Europea. Datos de la primera semana de septiembre 2026.
+> Nota de elaboración: cifras propias con la AIE (Agencia Internacional de la Energía) y el Boletín Semanal de Precios (Comisión Europea); corresponden a la primera semana de septiembre de 2026.
 
 ---
 
-## Alemania: casi 2 € el litro
+## Alemania, cerca de los 2 € por litro
 
-Alemania tiene la gasolina más cara de los grandes países de Europa continental. Las razones principales:
+Alemania tiene el carburante más caro entre los grandes países de la Europa continental. Los motivos principales son:
 
-- **Impuesto sobre Energía (Energiesteuer)**: 65,45 céntimos por litro de gasolina 95
-- **IVA del 19%** aplicado sobre el precio total
-- **Alta dependencia del crudo ruso** antes de 2022 y los costes de diversificación desde entonces
-- **Cierre de las últimas centrales nucleares** (2023) que aumentó el uso de gas natural
+- **Energiesteuer (impuesto sobre la energía)**: 65,45 céntimos por cada litro de gasolina 95
+- **IVA del 19%** que se aplica sobre el precio total
+- **Fuerte dependencia del crudo ruso** antes de 2022, con los costes de diversificación que llegaron después
+- **Las últimas centrales nucleares cerraron en 2023**, lo que empujó al alza el uso de gas natural.
 
-En Alemania, el **50% de los conductores** repostan en estaciones de bajo coste (freie Tankstellen) o usan apps como **Clever Tanken** o **Tank-App** para buscar el precio más barato en tiempo real.
+Un **50% de los conductores alemanes** acude a estaciones de bajo coste (freie Tankstellen) o tira de aplicaciones como **Clever Tanken** o **Tank-App** para localizar el precio más bajo en tiempo real.
 
-### Multas de tráfico en Alemania con la gasolina cara
+### Velocidad y multas en Alemania cuando el litro está caro
 
-Con el combustible caro, muchos conductores alemanes ajustan más la velocidad para ahorrar. Sin embargo, la **Bußgeldstelle** alemana es especialmente estricta con el exceso de velocidad. Si has recibido una multa en Alemania siendo residente en España:
+Con el carburante caro, muchos conductores alemanes regulan más la velocidad para gastar menos. Aun así, la **Bußgeldstelle** alemana es especialmente severa con el exceso de velocidad. Si te han multado en Alemania y resides en España:
 
-- Tienes **solo 2 semanas** para presentar el Einspruch (recurso)
-- Las multas superiores a 70 € son ejecutables en España por acuerdo UE
-- El KBA (Kraftfahrt-Bundesamt) gestiona el intercambio de datos de matrículas
+- Solo dispones de **2 semanas** para el Einspruch (recurso)
+- Las multas de más de 70 € se pueden ejecutar en España por acuerdo de la UE
+- El KBA (Kraftfahrt-Bundesamt) se encarga de cruzar los datos de matrículas
 
 ---
 
 <img src=/media/gasolina-surtidor-precio-cuerpo.webp alt=Surtidor de gasolina: los precios varían mucho entre países europeos>
 
-## Francia: 1,89 € y subiendo
+## Francia: 1,89 € y al alza
 
-Francia ha experimentado la mayor subida relativa de combustible de Europa occidental en 2026. La eliminación del **ristourne carburant** (bonificación de 10-18 céntimos que estuvo vigente en 2022-2023) dejó a los franceses con uno de los precios más altos.
+Francia ha vivido en 2026 la mayor subida relativa del combustible en Europa occidental. La supresión del **ristourne carburant** dejó uno de los precios más elevados en Francia: aquella bonificación de 10-18 céntimos estuvo vigente en 2022-2023.
 
 | Departamento | Gasolina 95 media |
 |---|---|
@@ -1783,51 +1713,51 @@ Francia ha experimentado la mayor subida relativa de combustible de Europa occid
 | Nouvelle-Aquitaine (Burdeos) | 1,86 € |
 | Normandie | 1,84 € |
 
-Las **grandes superficies** (Leclerc, Intermarché, Carrefour) siguen siendo la opción más barata en Francia, con precios hasta 0,12 €/litro inferiores a las petroleras. El Gobierno francés tiene la plataforma **prix-carburants.gouv.fr** con precios oficiales de todas las estaciones.
+Las **grandes superficies** (Leclerc, Intermarché, Carrefour) continúan siendo la opción más económica en Francia, hasta 0,12 €/litro por debajo de las petroleras. El Gobierno francés dispone de la plataforma **prix-carburants.gouv.fr** con los precios oficiales de todas las estaciones.
 
-### Multas de tráfico en Francia: lo que debes saber
+### Multas francesas: lo esencial
 
-Con la gasolina cara, más conductores van con el tiempo justo y los excesos de velocidad aumentan. En Francia, la **ANTAI** (Agence Nationale de Traitement Automatisé des Infractions) gestiona automáticamente las multas de radar. Si has recibido una multa francesa:
+Con la gasolina cara, más conductores circulan apurados y los excesos de velocidad crecen. Las multas de radar francesas las tramita de forma automática la **ANTAI**, la Agence Nationale de Traitement Automatisé des Infractions. Si te llega una multa francesa:
 
-- El plazo para la **requête en exonération** (recurso) es de **45 días**
-- El descuento por pronto pago es del **25%** en los primeros 15 días
-- Las multas superiores a 70 € llegan a España a través de EUCARIS
+- Para la **requête en exonération** (recurso) hay **45 días** de plazo
+- Pagar pronto descuenta un **25%** durante los primeros 15 días
+- A España llegan por EUCARIS las multas de más de 70 €
 
 ---
 
-## Portugal: el más barato de Europa occidental
+## Portugal, lo más barato del oeste europeo
 
-Portugal es el país de Europa occidental con la gasolina más barata, gracias a un sistema de imposición ligeramente inferior y a los márgenes menores de las distribuidoras. Aun así, el litro de **gasolina 95 supera los 1,70 €**, lo que supone una presión enorme para las rentas más bajas.
+En el oeste europeo, Portugal tiene la gasolina más económica, gracias a una imposición algo menor y a los márgenes más ajustados de las distribuidoras. El litro de **gasolina 95 pasa de 1,70 €**, un nivel que tensiona muchísimo las rentas más bajas.
 
-### Las gasolineras de la frontera: aprovechando el diferencial
+### Frontera: aprovechar la diferencia
 
-El diferencial de precio entre España y Portugal (unos 0,10-0,15 €/litro) hace que en las zonas fronterizas muchos conductores españoles reposten en Portugal. La gasolinera de Badajoz-Elvas, la de Ayamonte-Vila Real o la de Tui-Valença son puntos clásicos para ahorrar.
+Esa diferencia (unos 0,10-0,15 €/litro) empuja a muchos conductores españoles de las zonas fronterizas a llenar el depósito en Portugal. Entre los puntos clásicos para ahorrar están Badajoz-Elvas, Ayamonte-Vila Real y Tui-Valença.
 
 ---
 
 <img src=/media/gasolinera-autopista-cuerpo.webp alt=Estación de servicio en una autopista europea>
 
-## ¿Por qué en Europa la gasolina es tan cara?
+## Por qué el litro sale tan caro en Europa
 
-### La fiscalidad: el gran diferenciador
+### Impuestos: el factor que más separa
 
-La diferencia más importante entre el precio europeo y el de EE.UU. o Arabia Saudí es fiscal. En Europa, los impuestos sobre el combustible suponen entre el **45% y el 65%** del precio final. En EE.UU. representan solo el **16%**.
+Lo que más separa el precio europeo del de EE.UU. o Arabia Saudí es la fiscalidad. En Europa los impuestos pesan entre un **45% y un 65%** del precio final, frente a solo el **16%** en EE.UU.
 
-Los impuestos sobre el combustible tienen un doble objetivo en Europa:
-1. **Recaudatorio**: financiar el gasto público
-2. **Ambiental**: desincentivar el uso del coche y financiar la transición energética
+Esos impuestos sobre el combustible persiguen un doble objetivo en Europa:
+1. **Recaudatorio**: sostener el gasto público
+2. **Ambiental**: que se use menos el coche y que la transición energética tenga financiación
 
-### El CO₂ y el mercado de derechos de emisión (ETS)
+### CO₂ y el mercado ETS
 
-Desde 2024, el transporte por carretera está incluido en el sistema ETS2 (mercado de emisiones de CO₂ europeo). Esto añade un coste adicional al combustible que no existía antes y que irá aumentando hasta 2035.
+El transporte por carretera entró en 2024 en el ETS2, el mercado europeo de emisiones de CO₂. Esto suma un coste adicional al combustible que antes no existía y que seguirá subiendo hasta 2035.
 
-### La presión del calendario 2035
+### El horizonte 2035
 
-La UE tiene aprobado el **veto a los coches de combustión en 2035**. Las petroleras están invirtiendo menos en ampliar capacidad de refino para gasolina y gasóleo, lo que reduce la oferta y mantiene los precios altos.
+En 2035 llega el **veto a los coches de combustión**, ya aprobado por la UE. Las petroleras están invirtiendo menos en ampliar el refino de gasolina y gasóleo, lo que recorta la oferta y mantiene los precios altos.
 
 ---
 
-## Cuánto ahorramos conduciendo más despacio en autopista
+## Ahorro por ir más despacio en autopista
 
 | Velocidad | Consumo medio | Coste por 100 km (a 1,85 €/l) |
 |---|---|---|
@@ -1836,61 +1766,62 @@ La UE tiene aprobado el **veto a los coches de combustión en 2035**. Las petrol
 | 120 km/h | 8,3 l | 15,36 € |
 | 130 km/h | 9,5 l | 17,58 € |
 
-En un trayecto de **500 km** (ej. Madrid-Málaga), la diferencia entre ir a 90 y a 130 km/h es de casi **35 €** solo en combustible. Sin contar el riesgo de multa.
+En un viaje de **500 km** (por ejemplo, Madrid-Málaga), la diferencia entre circular a 90 o a 130 km/h ronda los **35 €** únicamente en carburante, sin sumar el riesgo de multa.
 
 ---
 
-## Multas de velocidad + gasolina cara: la ecuación que destroza el bolsillo
+## Multa de velocidad más depósito caro: el golpe al bolsillo
 
-Una multa de **300 €** por ir a 118 km/h donde está permitido 100 km/h equivale a:
-- **163 litros de gasolina** al precio actual
-- **3.270 km** a 90 km/h
-- Más de **2 meses de repostajes** para un conductor medio
+Una multa de **300 €** por circular a 118 km/h donde se permite 100 km/h equivale a:
+- **163 litros** al precio actual
+- **3.270 km** circulando a 90 km/h
+- También más de dos meses de repostajes para un conductor medio
 
-Y si es una multa grave que además lleva **puntos**, el impacto puede multiplicarse por el coste del curso de recuperación de puntos.
+Si la multa es grave y además conlleva **puntos**, el golpe puede multiplicarse con lo que cuesta el curso de recuperación de puntos.
 
 ### Analiza tu multa antes de pagar
 
-En cualquier país de la UE, las multas pueden impugnarse por **vicios de forma**. Los más comunes en los radares automáticos:
+Dentro de la UE, cualquier multa se puede impugnar por **vicios de forma**. En los radares automáticos, los más habituales son:
 
-- Radar sin **verificación metrológica** vigente (calibración)
-- **Señalización previa insuficiente** o inexistente
-- Error en la **identificación del vehículo** o la matrícula
-- **Notificación fuera de plazo**
+- Radar sin **verificación metrológica** en vigor (calibración)
+- Señal previa escasa o ausente
+- Fallo al identificar el vehículo o su matrícula
+- Aviso fuera de plazo
 
-**RecurreTuMulta.online** analiza multas de España, Francia, Alemania y Portugal. El análisis es gratuito y en menos de 60 segundos sabrás si tu multa tiene argumentos para ser anulada.
+**RecurreTuMulta.online** revisa multas españolas, francesas, alemanas y portuguesas. El análisis no cuesta nada y en menos de un minuto sabrás si hay motivos para anular tu multa.
 
 ---
 
 ## También te puede interesar
 
-- <a href=/blog/gasolina-cara-como-evitar-multas-velocidad-que-cuestan-mas-que-un-deposito/>multas de velocidad que cuestan más que un depósito</a>
-- <a href=/blog/evolucion-multas-trafico-2020-2026-espana-francia-alemania-portugal-italia/>cómo han evolucionado las multas en Europa desde 2020</a>
+- <a href=/blog/gasolina-cara-como-evitar-multas-velocidad-que-cuestan-mas-que-un-deposito/>multas de velocidad más caras que un depósito</a>
+- <a href=/blog/evolucion-multas-trafico-2020-2026-espana-francia-alemania-portugal-italia/>cómo han cambiado las multas europeas desde 2020</a>
 
-Fuente oficial: <a href=https://energy.ec.europa.eu/data-and-analysis/weekly-oil-bulletin_en>Boletín Semanal de Precios del Petróleo (Comisión Europea)</a>.
+Fuente oficial: <a href=https://energy.ec.europa.eu/data-and-analysis/weekly-oil-bulletin_en>Boletín semanal del petróleo de la Comisión Europea</a>.
 
-## Preguntas frecuentes sobre el precio de la gasolina en Europa
+## Dudas frecuentes sobre la gasolina en Europa
 
-### ¿Dónde es más barata la gasolina de Europa?
-En los países del Este (Bulgaria, Rumanía, Polonia) y en Luxemburgo (donde no se aplican las mismas tasas). En Europa occidental, Portugal y España son los más asequibles.
+### ¿Dónde sale más barata la gasolina en Europa?
+Los precios más bajos están en el Este (Bulgaria, Rumanía, Polonia) y en Luxemburgo, con tasas distintas. Dentro de Europa occidental, los más asequibles son Portugal y España.
 
-### ¿Por qué Alemania tiene la gasolina tan cara?
-Principalmente por el alto impuesto sobre la energía (Energiesteuer) y la falta de producción propia de crudo. La transición energética y el IVA del 19% completan el cóctel.
+### ¿Por qué es tan cara la gasolina en Alemania?
+Sobre todo por la Energiesteuer, el impuesto sobre la energía, y por no producir crudo propio. A eso se suman el IVA del 19% y la transición energética.
 
 ### ¿Cuándo bajará la gasolina en Europa?
-Los analistas no prevén bajadas significativas antes de 2027. La combinación de precios del crudo elevados, fiscalidad ambiental creciente y reducción de inversión en refino mantiene la tendencia alcista.
+Nadie espera un descenso importante antes de 2027: el crudo sigue alto, la fiscalidad ambiental no deja de crecer y se invierte menos en refino, así que la tendencia sigue al alza.
 
-### ¿Es mejor eléctrico o gasolina con estos precios?
-Para conductores de más de 15.000 km anuales, la transición al eléctrico ya es rentable en la mayoría de países de Europa occidental, incluso con los precios de la electricidad actuales.
+### ¿Compensa el eléctrico o la gasolina con estos precios?
+Quien supere los 15.000 km al año ya rentabiliza el eléctrico en gran parte del oeste europeo, incluso con la electricidad a los precios actuales.
 
-### ¿Qué porcentaje del precio de la gasolina son impuestos en España?
-Según la tabla de esta guía, en España los impuestos suponen el 55% del precio total, frente al 63-67% de Países Bajos, Finlandia o Noruega.
+### ¿Qué parte del precio son impuestos en España?
+La tabla de esta guía da un 55% para España, frente al 63-67% que soportan Países Bajos, Finlandia y Noruega.
 
-### ¿Qué es el ETS2 y cómo afecta al combustible?
-Desde 2024, el transporte por carretera está incluido en el sistema europeo de comercio de derechos de emisión (ETS2), lo que añade un coste adicional al combustible que irá aumentando hasta 2035.
+### ¿Qué es el ETS2 y cómo encarece el combustible?
+El transporte por carretera está dentro del ETS2 desde 2024, el sistema europeo que comercia con derechos de emisión, lo que encarece el combustible con un coste extra que seguirá subiendo hasta 2035.
 
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.`,
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.
+`,
   },
 
   {
@@ -2073,9 +2004,9 @@ export const EVOLUCION_MULTAS_POST: BlogPost[] = [
   {
     slug: "evolucion-multas-trafico-2020-2026-espana-francia-alemania-portugal-italia",
     locale: "all",
-    title: "Las multas han subido un 67% desde 2020: comparativa europea",
+    title: "Multas europeas 2020-2026: subidas de hasta el 67%",
     excerpt:
-      "Las multas han subido hasta un 67% en Europa desde 2020, muy por encima de la inflación. Comparativa de sanciones en 5 países y por qué suben.",
+      "De 2020 a 2026, las multas europeas subieron hasta un 67%, por encima de la inflación. Comparativa en España, Francia, Alemania, Portugal e Italia.",
     category: "Actualidad",
     date: "2026-09-12",
     readTime: 12,
@@ -2093,19 +2024,19 @@ export const EVOLUCION_MULTAS_POST: BlogPost[] = [
       "evolucion multas dgt",
       "multas trafico han subido",
     ],
-    content: `## Las multas de tráfico: el impuesto encubierto que no para de crecer
+    content: `## Sanciones al alza: lo que pagas hoy por la misma infracción
 
-Desde 2020, los gobiernos europeos han subido las multas de tráfico de forma sistemática, en muchos casos muy por encima de la inflación oficial. Lo que en 2020 era una sanción de 100 € en España, hoy puede costar el doble en algunos países del entorno. 
+Entre 2020 y la actualidad, los ejecutivos del continente han ido endureciendo de manera constante el coste de infringir las normas de circulación, y en bastantes ocasiones ese endurecimiento ha dejado atrás al índice de precios. Una falta que en territorio español rondaba los 100 € al inicio de la década puede suponer ahora el doble en algún estado vecino.
 
-Este es el análisis más completo publicado en español sobre la **evolución de las multas de tráfico en Europa entre 2020 y 2026**, con datos oficiales de España (DGT), Francia (ANTAI), Alemania (Bußgeldkatalog), Portugal (ANSR) e Italia (Codice della Strada).
+Este repaso reúne, en castellano y con cifras oficiales, la trayectoria de las sanciones viales en cinco estados entre 2020 y 2026: España con la DGT, Francia con la ANTAI, Alemania con su Bußgeldkatalog, Portugal con la ANSR e Italia con el Codice della Strada.
 
-> **Conclusión adelantada:** En los 6 últimos años, las multas de tráfico han subido entre un **15% y un 67%** según el país y la infracción, mientras que la inflación acumulada en la zona euro fue del **28%**. Algunos países multiplican por dos la presión sancionadora.
+> **El resumen, por adelantado:** durante estos seis años, las sanciones viales crecieron del 15% al 67% según el estado y la falta, frente a un **28%** acumulado de inflación en la zona euro. Hay estados donde la presión sancionadora prácticamente se duplica.
 
 ---
 
-## España (DGT): la reforma de 2021 y los ajustes anuales
+## España: la reforma de 2021 marcó el rumbo
 
-### Evolución de las principales multas DGT 2020-2026
+### Cuánto cuesta cada falta en España, año a año
 
 | Infracción | 2020 | 2022 | 2024 | **2026** | Subida total |
 |---|---|---|---|---|---|
@@ -2124,28 +2055,28 @@ Este es el análisis más completo publicado en español sobre la **evolución d
 | No llevar triángulos/chaleco reflectante | 200 € | 200 € | 200 € | **200 €** | 0% |
 | Circular sin seguro obligatorio | 600 € | 600 € | 600 € | **600 €** | 0% |
 
-### El gran cambio español: la reforma de 2021
+### El giro que trajo la reforma de 2021
 
-La **Ley de Tráfico reformada en 2021** fue el punto de inflexión. Las principales novedades:
+La reforma de la Ley de Tráfico que entró en vigor en 2021 supuso un antes y un después. Sus novedades principales:
 
-- Se creó el **tramo de velocidad 40-60 km/h** como nueva categoría grave (antes la escala saltaba directamente de "leve" a "muy grave")
-- Las multas por velocidad >40 km/h sobre el límite subieron de **300 a 400 €** y de **500 a 600 €**
-- Se introdujo el **sistema de puntos reforzado**: algunos excesos que antes quitaban 4 puntos ahora quitan 6
-- Se crearon nuevas infracciones relacionadas con los **vehículos de movilidad personal (VMP)**: patinetes eléctricos, etc.
+- Nació un escalón nuevo para los excesos de entre 40 y 60 km/h, catalogado como grave; antes, la escala pasaba sin parada intermedia de leve a muy grave
+- Las sanciones por rebasar el límite en más de 40 km/h pasaron de **300 a 400 €**, y las de más de 60 km/h, de **500 a 600 €**
+- El régimen de puntos se hizo más severo: excesos que restaban 4 puntos pasaron a restar 6
+- Aparecieron faltas nuevas ligadas a los **vehículos de movilidad personal (VMP)**, como los patinetes eléctricos
 
-### Lo que no cambió en España: la trampa del "congelador"
+### Por qué en España las cuantías parecen congeladas
 
-Los importes base de la DGT **no se actualizan automáticamente con el IPC**. Esto significa que cuando el Gobierno "no sube" las multas, en términos reales se produce una bajada de la recaudación por este concepto. Sin embargo, la recaudación total ha crecido porque ha aumentado el número de radares y el volumen de infracciones detectadas.
+Las cuantías base de la DGT **no se ligan de forma automática al IPC**. De ahí que, cuando el Ejecutivo «no toca» las sanciones, el ingreso real por este concepto caiga. Y sin embargo la caja total ha engordado, porque hay más radares y se detectan más infracciones.
 
-> La DGT recaudó **6,8 millones de multas** en 2020. En 2025, la cifra superó los **8,2 millones** de expedientes sancionadores. Más vigilancia, no más multa unitaria.
+> En 2020, la DGT tramitó 6,8 millones de multas. Cinco años después, los expedientes sancionadores superaron los **8,2 millones**. No subió tanto la sanción aislada como la vigilancia.
 
 ---
 
-## Francia (ANTAI): la escalada continua
+## Francia: subidas constantes año tras año
 
-Francia ha sido el país europeo que más ha subido sus multas en términos absolutos entre 2020 y 2026.
+Ningún otro estado del continente ha elevado tanto, en euros contantes, sus sanciones entre 2020 y 2026 como Francia.
 
-### Evolución de las principales multas en Francia 2020-2026
+### Las sanciones francesas, año a año
 
 | Infracción | 2020 | 2022 | 2024 | **2026** | Subida total |
 |---|---|---|---|---|---|
@@ -2162,25 +2093,25 @@ Francia ha sido el país europeo que más ha subido sus multas en términos abso
 | Sin seguro | 500 € | 500 € | 500 € | **750 €** | +50% |
 | Aparcar en carril bus/bici | 135 € | 135 € | 135 € | **135 €** | 0% |
 
-### El gran cambio francés: la reforma del baremo 2024-2026
+### Qué trajo el baremo francés de 2024-2026
 
-En Francia, las multas "forfaitaires" (importes fijos de las infractions) se revisan por decreto ministerial. Las principales subidas desde 2024:
+En Francia, los importes fijos —las «forfaitaires»— se revisan mediante decreto ministerial. Desde 2024, los cambios principales han sido estos:
 
-- Las multas por **velocidad leve en autopista** pasaron de 68 € a **90 €** (+32%)
-- Las multas **sin seguro** saltaron de 500 € a **750 €** en 2026 (+50%)
-- Se introdujeron multas específicas para la **ZFE (Zone à Faibles Émissions)**: desde 68 € hasta 450 € dependiendo del tipo de vehículo
+- La falta leve de velocidad en autopista pasó de 68 € a **90 €** (+32%)
+- Circular sin seguro saltó de 500 € a **750 €** en 2026 (+50%)
+- Llegaron sanciones propias para la **ZFE (Zone à Faibles Émissions)**: de 68 € a 450 € según el vehículo
 
-### La recaudación francesa: un modelo de negocio
+### El radar francés, una fuente de ingresos
 
-Francia gestiona sus radares automáticos a través de la **ANTAI** y tiene más de **4.200 radares** en servicio. En 2025, los radares automáticos generaron más de **1.000 millones de euros** en recaudación. El presupuesto de mantenimiento viario se financia parcialmente con estas multas, lo que crea un incentivo estructural para seguir instalando radares.
+Francia canaliza sus cinemómetros automáticos a través de la **ANTAI** y mantiene en funcionamiento más de **4.200 radares**. En 2025, esos aparatos dejaron más de **1.000 millones de euros**. Parte del presupuesto de conservación de carreteras se nutre de estas sanciones, y eso genera un estímulo permanente para seguir colocando aparatos.
 
 ---
 
-## Alemania (Bußgeldkatalog): la reforma de 2021, la más radical de Europa
+## Alemania: la reforma de 2021, la más profunda del continente
 
-Alemania realizó en noviembre de 2021 la mayor reforma de su catálogo de sanciones desde 1990.
+En noviembre de 2021, Alemania acometió la mayor revisión de su catálogo de sanciones desde 1990.
 
-### Evolución de las principales multas en Alemania 2020-2026
+### Las sanciones alemanas, año a año
 
 | Infracción | 2020 | 2021 (reforma) | 2024 | **2026** | Subida total |
 |---|---|---|---|---|---|
@@ -2199,26 +2130,26 @@ Alemania realizó en noviembre de 2021 la mayor reforma de su catálogo de sanci
 | Sin cinturón | 30 € | 30 € | 30 € | **30 €** | 0% |
 | Conducir bajo efectos del alcohol (>0,5‰) | 500 € | 500 € | 500 € | **500 €** | 0% |
 
-### La reforma alemana de 2021: doblar las sanciones de velocidad
+### En qué consistió la reforma alemana de 2021
 
-La **4ª Verordnung zur Änderung der Bußgeldkatalog-Verordnung** (4ª modificación del reglamento de sanciones), en vigor desde el 9 de noviembre de 2021, fue la más agresiva de las últimas décadas:
+La cuarta modificación del Bußgeldkatalog, vigente a partir del 9 de noviembre de 2021 y considerada la más dura de las últimas décadas:
 
-- Las multas por velocidad en ciudad se **duplicaron** en la mayoría de tramos
-- Se introdujo la **pérdida automática del carnet** (1 mes) para excesos de más de 26 km/h en ciudad
-- Se crearon **nuevas sanciones** para coches mal aparcados que bloquean carriles bici: hasta 110 €
-- El punto de Flensburg (sistema de puntos alemán) se endureció
+- En ciudad, las sanciones por velocidad crecieron al doble en la mayoría de tramos
+- Se estableció la **retirada automática del permiso** (1 mes) cuando se superan los 26 km/h en ciudad
+- Nacieron **sanciones nuevas** para coches mal estacionados que taponan carriles bici: hasta 110 €
+- El sistema de puntos de Flensburg se volvió más estricto
 
-> En Alemania, ir a 55 km/h en una calle urbana limitada a 30 km/h costaba **160 € en 2020**. En 2026 cuesta **260 €** y además pierdes el carnet durante 1 mes.
+> Circular a 55 km/h por una vía urbana con límite de 30 km/h: en 2020 costaba **160 €**; en 2026, **260 €** y, además, supone perder el permiso durante 1 mes.
 
 ---
 
 <img src=/media/cuanto-tarda-en-llegar-una-multa-de-radar.webp alt=Multa de radar: los plazos de notificación varían por país>
 
-## Portugal (ANSR): la reforma silenciosa de 2023
+## Portugal: la reforma discreta de 2023
 
-Portugal actualizó su código de la circulación en 2023, con cambios más moderados que Alemania pero relevantes.
+Portugal retocó su código de circulación en 2023, con ajustes más suaves que los alemanes pero igualmente relevantes.
 
-### Evolución de las principales multas en Portugal 2020-2026
+### Las sanciones portuguesas, año a año
 
 | Infracción | 2020 | 2023 (reforma) | **2026** | Subida total |
 |---|---|---|---|---|
@@ -2232,21 +2163,21 @@ Portugal actualizó su código de la circulación en 2023, con cambios más mode
 | Conducir con alcohol (>1,2 g/l) | 500-2.500 € | 1.000-5.000 € | **1.000-5.000 €** | +100% |
 | Sin seguro obligatorio | 500-2.500 € | 500-2.500 € | **500-2.500 €** | 0% |
 
-### El sistema portugués: multas con horquilla mínimo-máximo
+### Un sistema de horquillas, no de importes cerrados
 
-Portugal usa un sistema diferente al español o francés: las multas tienen **importes mínimos y máximos**, y el instructor del expediente puede modular según las circunstancias. En la práctica, los conductores sin antecedentes suelen recibir el importe más cercano al mínimo.
+El modelo luso no fija una cantidad única: cada sanción se mueve entre un **mínimo y un máximo**, y quien instruye el expediente la gradúa según las circunstancias. En la práctica, quien no tiene antecedentes suele quedarse cerca del mínimo.
 
-La gran subida de 2023 fue para **teléfono al volante y cinturón**: el mínimo pasó de 120 a 250 € (+108%).
+La subida grande de 2023 afectó al **teléfono al volante y al cinturón**: el mínimo subió de 120 a 250 € (+108%).
 
-> Portugal tiene el sistema de **radares de tramo más extendido de Europa**: más de 35 corredores con control de velocidad media, principalmente en el Eixo Norte-Sul y las autoestradas para Algarve.
+> Portugal presume del control de velocidad media más amplio del continente: más de 35 corredores, sobre todo en el Eixo Norte-Sul y en las autopistas hacia el Algarve.
 
 ---
 
-## Italia (Codice della Strada): la reforma de noviembre 2024, la más polémica
+## Italia: la reforma de noviembre de 2024, la más contestada
 
-Italia aprobó en noviembre de 2024 el **Nuovo Codice della Strada**, que entró en vigor el 14 de diciembre de 2024 y es considerada la reforma más severa de Europa desde la alemana de 2021.
+En noviembre de 2024, Italia dio luz verde al **Nuovo Codice della Strada**, vigente a partir del 14 de diciembre de 2024 y considerado la reforma más severa del continente desde la alemana de 2021.
 
-### Evolución de las principales multas en Italia 2020-2026
+### Las sanciones italianas, año a año
 
 | Infracción | 2020 | 2022 | 2024 (antes NCS) | **2026 (Nuovo CdS)** | Subida total |
 |---|---|---|---|---|---|
@@ -2260,22 +2191,22 @@ Italia aprobó en noviembre de 2024 el **Nuovo Codice della Strada**, que entró
 | Conducción temeraria | 430-1.731 € | 430-1.731 € | 430-1.731 € | **845-3.382 €** | +96% |
 | Uso de drogues al volante | 1.500-6.000 € | 1.500-6.000 € | 1.500-6.000 € | **2.000-8.000 €** | +33% |
 
-### El Nuovo Codice della Strada: medidas más polémicas
+### Las medidas italianas que más debate generaron
 
-El nuevo código italiano ha generado enorme controversia:
+El nuevo código italiano ha levantado una polémica enorme:
 
-1. **Tres positividades en alcohol/drogas en 10 años**: pérdida definitiva del carnet con imposibilidad de renovar durante 3 años
-2. **Teléfono al volante reincidente**: suspensión del carnet de 7 días a 2 meses desde la primera reincidencia
-3. **Novedosa sanción a conductores extranjeros**: los no residentes en Italia deben pagar la multa en el acto o dejar el coche inmovilizado
-4. **Velocidad <10 km/h**: la categoría de exceso "mínimo" triplicó su sanción mínima de 41 € a 173 €
+1. **Tres positivos en alcohol o drogas en 10 años**: pérdida definitiva del permiso, sin posibilidad de renovarlo durante 3 años
+2. **Teléfono al volante en reincidencia**: suspensión del permiso de 7 días a 2 meses ya desde la primera reincidencia
+3. **Sanción novedosa para conductores extranjeros**: quien no reside en Italia debe abonar la multa en el momento o dejar el coche inmovilizado
+4. **Velocidad por debajo de 10 km/h**: la falta «mínima» triplicó su mínimo, hasta 173 € (desde 41 €)
 
-> Italia es el único país europeo que aplica sanciones diferenciadas por **hora del día**: algunas multas nocturnas (entre las 22:00 y las 07:00) llevan un recargo del 30%.
+> Italia es el único estado del continente que distingue según la **hora del día**: algunas sanciones nocturnas (de diez de la noche a siete de la mañana) llevan un recargo del 30%.
 
 ---
 
-## El gran cuadro comparativo: ¿quién sube más las multas?
+## El cuadro general: ¿quién endurece más?
 
-### Tabla maestra: subida acumulada 2020-2026 por país e infracción clave
+### Subida acumulada 2020-2026 por país y falta clave
 
 | Infracción | España | Francia | Alemania | Portugal | Italia |
 |---|---|---|---|---|---|
@@ -2286,9 +2217,9 @@ El nuevo código italiano ha generado enorme controversia:
 | Sin seguro | **0%** | **+50%** | **0%** | **0%** | **0%** |
 | Alcohol (nivel alto) | **0%** | **0%** | **0%** | **+100%** | **+88%** |
 
-### Ranking: ¿qué país multa más duramente en 2026?
+### ¿Qué estado castiga con más dureza en 2026?
 
-Para una infracción de **exceso de velocidad de 30 km/h en ciudad**:
+Tomando como referencia un **exceso de 30 km/h en ciudad**:
 
 | País | Multa en 2026 | Equivale a |
 |---|---|---|
@@ -2298,13 +2229,13 @@ Para una infracción de **exceso de velocidad de 30 km/h en ciudad**:
 | España | 300 € | 162 litros de gasolina |
 | Portugal | 300-1.500 € | 162-811 litros de gasolina |
 
-> España tiene los importes más altos en el tramo medio, pero con mucho menos rango: el sistema de horquilla portugués puede resultar aún más caro para reincidentes.
+> España presenta las cuantías más elevadas en el tramo medio, pero con un abanico mucho más estrecho: la horquilla portuguesa puede salir todavía más cara para quien reincide.
 
 ---
 
 <img src=/media/carta-multa-extranjero-cuerpo.webp alt=Notificación de multa de tráfico de otro país europeo>
 
-## ¿Suben más las multas que la inflación? El análisis
+## ¿Las multas crecen más que los precios? Los números
 
 ### Inflación acumulada en Europa 2020-2026
 
@@ -2317,7 +2248,7 @@ Para una infracción de **exceso de velocidad de 30 km/h en ciudad**:
 | Italia | +24,3% |
 | Zona euro media | +28,0% |
 
-### Multas vs. inflación: el veredicto
+### Sanciones frente a inflación: el dictamen
 
 | País | Subida media de multas | Inflación acumulada | ¿Multas > Inflación? |
 |---|---|---|---|
@@ -2327,42 +2258,50 @@ Para una infracción de **exceso de velocidad de 30 km/h en ciudad**:
 | Portugal | **~25%** (en infracciones clave) | 25,1% | Aproximadamente igual |
 | Italia | **~60%** (promedio NCS 2024) | 24,3% | **Sí, más que dobla la inflación** |
 
-**Conclusión:** España es el único gran país europeo donde las multas han subido **por debajo** de la inflación. Alemania e Italia son los países donde las sanciones han crecido de forma más agresiva, con aumentos que superan el doble del IPC.
+**Conclusión:** España es el único gran estado del continente donde las sanciones han crecido **por debajo** del IPC. Alemania e Italia son los estados donde las sanciones han escalado con más agresividad, con alzas que superan el doble del IPC.
 
 ---
 
-## ¿Por qué suben las multas? Las razones que los gobiernos no publican
+## Los motivos que no se anuncian detrás del encarecimiento
 
-### 1. Ingresos públicos: la multa como impuesto encubierto
-Los gobiernos europeos generan cada año miles de millones de euros en multas de tráfico. Son un ingreso estable y políticamente "aceptable" porque afectan a quienes "hacen algo malo". En 2025:
-- España: ~720 millones € en multas de tráfico
-- Francia: ~1.100 millones € (solo radares automáticos)
-- Alemania: ~800 millones € (según estudios del ADAC)
-- Italia: ~1.600 millones € (cifra récord tras la reforma)
+### 1. Dinero público: la sanción como impuesto disimulado
 
-### 2. El efecto disuasorio: ¿funciona?
-Los gobiernos justifican las subidas con el argumento de la disuasión. Los datos son mixtos:
-- En Alemania, tras la reforma de 2021, los accidentes mortales bajaron un **8%** en 2022
-- En Italia, el número de fallecidos en carretera se mantuvo estable, pero el número de multas se disparó
-- En España, la siniestralidad sigue en mínimos históricos pese a que las multas no subieron
+Los ejecutivos del continente ingresan todos los años miles de millones de euros en sanciones viales. Es un ingreso estable y políticamente «aceptable», porque recae sobre quien «ha hecho algo mal». En 2025:
 
-### 3. La trampa de los radares automáticos
-Los radares automáticos no tienen coste de "factor humano": funcionan 24h, 365 días. Cada infracción detectada es ingreso puro menos el coste de mantenimiento. Esto crea un incentivo perverso para:
-- Instalar radares en zonas donde técnicamente hay límite pero no hay accidentalidad
-- Bajar los límites de velocidad en vías seguras para aumentar las infracciones detectadas
-- No revisar los límites cuando se mejoran las vías
+- España: alrededor de 720 millones € en sanciones viales
+- Francia: cerca de 1.100 millones € solo con los radares automáticos
+- Alemania: unos 800 millones € según estudios del ADAC
+- Italia: en torno a 1.600 millones €, récord tras su reforma
 
-### 4. El lobby de las aseguradoras
-Las aseguradoras presionan para que las multas relacionadas con comportamientos de riesgo (teléfono, alcohol, velocidad) sean más altas porque correlacionan con mayor siniestralidad y mayores indemnizaciones. En Francia y Portugal, los lobbies aseguradores financiaron estudios que respaldaron las subidas de 2023-2024.
+### 2. El efecto disuasorio: ¿de verdad funciona?
+
+Los ejecutivos defienden los aumentos alegando disuasión. Los datos, sin embargo, son desiguales:
+
+- Tras la reforma alemana de 2021, los fallecidos en carretera bajaron un **8%** durante 2022
+- En Italia, los fallecidos en carretera no se movieron, pero las sanciones se dispararon
+- En España, la siniestralidad continúa en mínimos históricos pese a que las sanciones no subieron
+
+### 3. La trampa de los cinemómetros automáticos
+
+Los radares automáticos no conllevan coste de «factor humano»: trabajan 24 h, 365 días. Cada infracción que detectan es ingreso casi limpio, descontado el mantenimiento. Eso genera un incentivo perverso para:
+
+- Colocar radares en puntos con límite fijado pero sin siniestralidad registrada
+- Rebajar los límites en vías seguras para elevar las infracciones detectadas
+- Dejar los límites sin revisar cuando las vías mejoran
+
+### 4. La presión de las aseguradoras
+
+Las compañías de seguros empujan para que las sanciones ligadas a conductas de riesgo (teléfono, alcohol, velocidad) sean más elevadas, porque van asociadas a mayor siniestralidad y a indemnizaciones más altas. En Francia y Portugal, los lobbies del sector financiaron estudios que avalaron las subidas de 2023-2024.
 
 ---
 
-## Cómo protegerte: la multa cara también se puede recurrir
+## Cómo defenderte: la sanción cara también admite recurso
 
-Con las multas más altas que nunca en términos absolutos, la importancia de revisar si tienen **vicios de forma** antes de pagar es máxima.
+Con las sanciones más elevadas que nunca en términos absolutos, revisar si presentan **vicios de forma** antes de pagar cobra la máxima importancia.
 
-### ¿Vale la pena recurrir con multas de hasta 800 €?
-Absolutamente. La relación coste-beneficio del recurso mejora cuanto mayor es la multa:
+### ¿Compensa recurrir con sanciones de hasta 800 €?
+
+Rotundamente sí. La relación entre coste y beneficio del recurso mejora conforme crece la sanción:
 
 | Multa | Coste del recurso (RecurreTuMulta.online) | Ahorro si se anula | ROI |
 |---|---|---|---|
@@ -2371,17 +2310,17 @@ Absolutamente. La relación coste-beneficio del recurso mejora cuanto mayor es l
 | 600 € | 4,99 € | 600 € | 12.024% |
 | 800 € | 4,99 € | 800 € | 16.032% |
 
-### Los vicios de forma más frecuentes en 2026
+### Los defectos de forma más habituales en 2026
 
-Los mismos que en 2020, pero ahora con más peso porque las multas son más caras:
+Siguen siendo los de 2020, pero pesan más ahora, porque las sanciones son más caras:
 
-1. **Radar sin verificación metrológica vigente** — el argumento más usado y efectivo
-2. **Señalización insuficiente** — especialmente en zonas de 30 km/h de nueva implantación
-3. **Falta de identificación del agente** — número TIP ausente o ilegible
-4. **Notificación fuera de plazo** — las administraciones locales son las más lentas
-5. **Error en la identificación del vehículo** — un dígito erróneo en la matrícula puede anular la multa
+1. **Falta de verificación metrológica vigente del radar** — el motivo más empleado y con más éxito
+2. **Señalización insuficiente** — sobre todo en zonas de 30 km/h de implantación reciente
+3. **Agente sin identificar** — número TIP ausente o ilegible
+4. **Plazo de notificación incumplido** — los ayuntamientos son los que más tardan
+5. **Matrícula o vehículo mal identificados** — un solo dígito equivocado en la matrícula puede dejar sin efecto la sanción
 
-> **RecurreTuMulta.online** analiza multas de España, Francia, Alemania y Portugal. El análisis de vicios de forma es gratuito. Solo pagas 4,99 € si quieres el PDF del recurso listo para presentar.
+> **RecurreTuMulta.online** revisa sanciones de España, Francia, Alemania y Portugal. El examen de los vicios de forma es gratuito. Solo se pagan 4,99 € cuando quieres el PDF del recurso ya redactado.
 
 ---
 
@@ -2393,24 +2332,29 @@ Los mismos que en 2020, pero ahora con más peso porque las multas son más cara
 
 Fuente oficial: <a href=https://www.dgt.es>DGT (datos oficiales)</a>.
 
-## Preguntas frecuentes sobre la evolución de las multas en Europa
+## Preguntas frecuentes sobre cómo han cambiado las sanciones en Europa
 
-### ¿Van a seguir subiendo las multas en España?
-El Ministerio del Interior tiene en estudio una actualización del baremo de multas para 2027, con posibles subidas del 15-20% en las infracciones relacionadas con velocidad y alcohol. No hay fecha oficial confirmada.
+### ¿Seguirán subiendo las sanciones en España?
 
-### ¿Cuál es el país europeo con las multas más altas?
-En la práctica, **Suiza** (no UE) tiene las multas más elevadas, con sanciones por velocidad que pueden llegar a varios miles de euros. En la UE, **Finlandia** usa multas proporcionales al salario (el famoso caso del millonario multado con 100.000 € por 80 km/h). En términos de importes fijos, Italia y Alemania son los más duros para infracciones en ciudad.
+El Ministerio del Interior estudia una revisión del baremo para 2027, con posibles alzas del 15-20% en las faltas de velocidad y alcohol. Todavía no hay una fecha oficial confirmada.
 
-### ¿Puedo recurrir una multa de un país extranjero desde España?
-Sí. Si recibes una multa de Francia, Alemania o Portugal siendo residente en España, puedes recurrir siguiendo el procedimiento de cada país. Los plazos son cortos (2 semanas en Alemania, 45 días en Francia, 20 días útiles en Portugal). **RecurreTuMulta.online** te ayuda con multas de todos estos países.
+### ¿Dónde son más altas las sanciones europeas?
 
-### ¿Las multas en autopista son más altas que en ciudad?
-Depende del país. En Alemania, las multas en autopista son más bajas que en ciudad para el mismo exceso (porque la velocidad de referencia es mayor). En España, el importe es el mismo independientemente del tipo de vía. En Francia e Italia, el tipo de vía afecta a la categoría de la infracción.
+En la práctica, **Suiza** (fuera de la UE) aplica las sanciones más elevadas, con castigos por velocidad que pueden alcanzar varios miles de euros. Dentro de la UE, **Finlandia** calcula la sanción en proporción al salario (el célebre caso del millonario sancionado con 100.000 € por circular a 80 km/h). Mirando solo las cantidades fijas, Italia y Alemania son los más severos en ciudad.
 
-### ¿Qué pasa si una multa extranjera llega a España?
-Las multas de la UE superiores a **70 €** son ejecutables en España mediante el mecanismo de asistencia mutua entre administraciones (Directiva 2015/413/UE y sus transposiciones). La DGT puede cobrarlas a través de la Agencia Tributaria. Por debajo de ese importe, la ejecución es técnicamente posible pero en la práctica rara.
+### ¿Se puede recurrir desde España una sanción de otro país?
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.`,
+Sí. Si te llega una sanción de Francia, Alemania o Portugal residiendo en España, puedes recurrirla siguiendo el procedimiento de cada estado. Los plazos son breves: en Francia, 45 días; en Alemania, 2 semanas; en Portugal, 20 días útiles. **RecurreTuMulta.online** te acompaña con sanciones de todos estos estados.
+
+### ¿En autopista se paga más que en ciudad?
+
+Depende del estado. En Alemania, circular por autopista sale más barato que hacerlo en ciudad ante el mismo exceso, ya que la referencia de velocidad es mayor. En España, la cuantía es la misma con independencia del tipo de vía. En Francia y en Italia, la clase de vía sí cambia la categoría de la falta.
+
+### ¿Qué ocurre si una sanción extranjera llega a España?
+
+Las sanciones comunitarias por encima de **70 €** se pueden ejecutar en España a través del mecanismo de asistencia mutua entre administraciones, previsto en la Directiva 2015/413/UE y en sus transposiciones. La DGT puede cobrarlas mediante la Agencia Tributaria. Por debajo de esa cantidad, ejecutarlas es posible en teoría, pero poco frecuente en la práctica.
+
+Si te ha llegado una sanción y sospechas que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro revisor gratuito de sanciones</a> antes de pagar.`,
   },
 ];
 

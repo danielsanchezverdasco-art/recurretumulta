@@ -118,9 +118,9 @@ Sin datos EuroNCAP. No hay prueba publicada para este modelo.
   },
   {
     slug: "ds-f3ver-concept-paris-2026",
-    title: "DS F3VER concept París 2026: 4,19 m y maletero de 400 litros",
+    title: "DS F3VER París 2026: concept eléctrico de 4,19 m",
     excerpt:
-      "El DS F3VER es el concept eléctrico con el que DS abre su nuevo capítulo de diseño en París 2026: 4,19 m, 400 litros de maletero, luz en Y y 16 paneles LED traseros. Sin precio ni fecha de venta.",
+      "El DS F3VER abre el nuevo diseño de DS en París 2026: 4,19 m, maletero de 400 litros, firma en Y y 16 paneles LED. Es un concept: sin precio ni fecha.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 8,
@@ -134,15 +134,15 @@ Sin datos EuroNCAP. No hay prueba publicada para este modelo.
     ],
     content: `<img src=/media/ds-f3ver-concept-paris-2026-hero.webp alt=DS F3VER Concept, frontal con emblema DS iluminado y firma luminosa en Y>
 
-*Foto: DS Automobiles (prensa) / MoparInsiders (distribución). Imagen de prensa distribuida por un medio tercero; no es una foto descargada del media site oficial de Stellantis/DS. Licencia desconocida.*
+*Crédito: imagen de prensa de DS Automobiles difundida por MoparInsiders; no procede de la web oficial de prensa de Stellantis/DS y su licencia no está confirmada.*
 
-El DS F3VER es el concept car con el que DS Automobiles abrió su nuevo capítulo de diseño en el Salón del Automóvil de París 2026. No es un coche que se pueda comprar, ni tiene precio, ni fecha de llegada a los concesionarios: es un laboratorio de diseño a escala real que explora tres ideas — que resulte deseable, que se pueda personalizar mucho y que sirva para el día a día.
+El DS F3VER es el prototipo con el que DS Automobiles estrenó su nueva etapa de diseño en la muestra parisina de 2026. No se puede encargar en un concesionario, no tiene tarifa y no hay fecha para verlo a la venta: es un ejercicio de diseño a tamaño real que gira en torno a tres propósitos —resultar atractivo, admitir una personalización amplia y acompañar en la vida cotidiana.
 
-Se presentó el **11 de octubre de 2026** en «The Night Before», el evento previo de Stellantis en el Hangar Y de París, junto a otros cinco concepts del grupo (<a href=/blog/alfa-romeo-cuorerosso-concept-salon-paris-2026/>Alfa Romeo Cuorerosso</a>, <a href=/blog/citroen-2cv-electrico-2026-paris/>Citroën 2 CV Concept</a>, <a href=/blog/fiat-multiplay-concept-paris-2026/>FIAT Multiplay</a>, <a href=/blog/opel-stx-concept-paris-2026/>Opel STX Concept</a> y <a href=/blog/peugeot-rcz-vision-concept-paris-2026/>PEUGEOT RCZ Vision</a>). Después se expuso en el stand de DS dentro del Salón de París, celebrado del 12 al 18 de octubre de 2026.
+La puesta de largo llegó el 11 de octubre de 2026 durante la velada «The Night Before», el acto previo de Stellantis celebrado en el Hangar Y de París, donde compartió foco con otros cinco prototipos del grupo (<a href=/blog/alfa-romeo-cuorerosso-concept-salon-paris-2026/>Alfa Romeo Cuorerosso</a>, <a href=/blog/citroen-2cv-electrico-2026-paris/>Citroën 2 CV Concept</a>, <a href=/blog/fiat-multiplay-concept-paris-2026/>FIAT Multiplay</a>, <a href=/blog/opel-stx-concept-paris-2026/>Opel STX Concept</a> y <a href=/blog/peugeot-rcz-vision-concept-paris-2026/>PEUGEOT RCZ Vision</a>). Más tarde ocupó el espacio de DS en el salón parisino, abierto entre el 12 y el 18 de octubre de 2026.
 
-> **Qué es y qué no es:** el F3VER es un **concept eléctrico de diseño**. DS lo define como una nueva expresión de diseño y un laboratorio, no como un modelo de serie. Todo lo que se diga de un futuro DS de producción a partir de él es interpretación de la prensa, no un anuncio oficial de DS.
+> **Para situarlo:** el F3VER es un prototipo eléctrico de diseño. DS lo presenta como una nueva expresión de su diseño y como un laboratorio, no como un coche de serie. Cualquier futuro DS de producción que se derive de él es, por ahora, lectura de la prensa, no un anuncio de la marca.
 
-## Lo que DS sí ha confirmado (datos oficiales)
+## Los datos que DS sí ha hecho públicos
 
 | Dato | Valor oficial |
 |---|---|
@@ -164,31 +164,27 @@ Se presentó el **11 de octubre de 2026** en «The Night Before», el evento pre
 | Autonomía | DS habla de «autonomía eléctrica líder en su categoría» **sin dar ninguna cifra** |
 | Nombre | F3VER = «fiebre»: la reacción positiva que DS quiere provocar |
 
-## Diseño exterior: lo que se ve
+## El frontal y la zaga: luz como seña de identidad
 
-### Frontal: el «tótem» y la Y
+Delante, todo gira en torno a un tótem vertical luminoso que porta el emblema DS, acompañado por la nueva firma en forma de Y en vertical, pensada para identificar al coche tanto con luz diurna como de noche. Faro y luz de día quedan unidos en una única firma continua, uno de los gestos visibles de la filosofía «Design Intelligence».
 
-El frontal se organiza alrededor de un elemento vertical iluminado que lleva el emblema DS. A su lado, la nueva firma luminosa en forma de **Y vertical** busca que el coche se reconozca de día y de noche. El conjunto de faro + luz diurna va integrado en una sola firma continua, una de las aplicaciones visibles de la filosofía «Design Intelligence».
+Detrás vuelve el eje vertical, con el emblema DS retroiluminado y digitalizado sobre el paragolpes. Los pilotos traseros suman 16 paneles LED montados sobre una estructura de magnesio muy ligera, cuya inspiración es la cubierta del Grand Palais parisino. El resultado persigue la sensación de un túnel luminoso que se adentra en el coche.
 
-### Trasera: túnel de luz de 16 paneles
+La zaga, además, suma animaciones lumínicas con tres misiones declaradas por DS: dejar que cada usuario le ponga su iluminación, facilitar un diálogo intuitivo entre el vehículo y lo que le rodea, y comunicar información de manera clara y al instante. Aquí la luz actúa como un lenguaje, no como un simple adorno.
 
-La zaga repite el elemento vertical central, con el emblema DS iluminado y digitalizado en el centro del paragolpes. Los pilotos traseros forman 16 paneles LED sobre una estructura ultraligera de magnesio inspirada en la cubierta del Grand Palais. El efecto buscado es el de un túnel de luz que parece prolongarse hacia dentro.
+## Personalizarlo por zonas: techo, bitono y color
 
-Además, la parte trasera integra **animaciones de luz** con tres funciones declaradas por DS: personalizar el coche con iluminación propia, crear interacción intuitiva entre el coche y su entorno, y transmitir información de forma clara e inmediata. La luz, en este concept, funciona como lenguaje, no solo como adorno.
-
-### Personalización: techo, bitono y color
-
-El F3VER propone personalizar alrededor de tres zonas: el color de la carrocería, el contorno del techo panorámico y la parte trasera. En el prototipo, el techo lleva un contorno personalizable, la carrocería es bitono con la línea de separación extendida a los laterales, el portón y el paragolpes, y el color es el Cosmic Blue dicróico ya descrito. Las llantas añaden detalles en champán con grabado Clous de Paris.
+El prototipo plantea la personalización en tres ámbitos: la pintura, el cerco del techo panorámico y la zona posterior. En el ejemplar de salón, el techo luce un contorno a medida, la carrocería combina dos tonos con la divisoria prolongada hacia los costados, el portón y el paragolpes; la pintura es el Cosmic Blue dicróico ya mencionado, que bascula entre un azul intenso y un violeta oscuro según cómo le dé la luz. Las llantas completan el conjunto con toques champán y grabado Clous de Paris.
 
 <img src=/media/ds-f3ver-concept-paris-2026-perfil.webp alt=DS F3VER de perfil, color Cosmic Blue, contorno de techo champán y llantas geométricas>
 
-### «Design Intelligence»: menos piezas, misma identidad
+## «Design Intelligence»: identidad con menos piezas
 
-La filosofía que DS estrena con este concept busca crear «unicidad con menos»: reducir el número de componentes, aligerar la arquitectura, optimizar la aerodinámica y mejorar la calidad percibida con superficies más refinadas y menos elementos visibles. En el F3VER se traduce en: firma luminosa delantera continua (faro + luz diurna), paragolpes de una sola pieza y eliminación de elementos innecesarios alrededor de los pasos de rueda y la parte baja de la carrocería.
+La idea que DS inaugura con este prototipo se resume en lograr singularidad restando: menos componentes, una arquitectura más ligera, una aerodinámica más trabajada y una mayor sensación de calidad gracias a superficies más cuidadas y menos elementos a la vista. En el F3VER eso se concreta en la firma delantera continua (faro más luz diurna), un paragolpes de una sola pieza y la supresión de piezas superfluas en torno a los pasos de rueda y la zona baja de la carrocería.
 
-DS también indica que el diseño usó herramientas digitales e inteligencia artificial desarrolladas por Stellantis para explorar y evaluar propuestas más rápido, y que la IA no sustituye a la creatividad sino que amplía el campo de exploración.
+DS añade que el diseño se apoyó en herramientas digitales y en inteligencia artificial propia de Stellantis para explorar y valorar propuestas con más rapidez, y que esa IA no reemplaza la creatividad, sino que abre más campo para explorarla.
 
-## Tamaño real: compacto por fuera, aprovechado por dentro
+## Medidas: compacto fuera, generoso dentro
 
 | Medida | DS F3VER (concept, oficial) | DS 3 actual (referencia, web oficial DS España) |
 |---|---|---|
@@ -197,25 +193,25 @@ DS también indica que el diseño usó herramientas digitales e inteligencia art
 | Altura | 1,46 m | 1,536 m |
 | Maletero | 400 litros | 350 l (1.050 l con respaldos abatidos) |
 
-Lectura: el F3VER es 72 mm más largo, unos 49 mm más ancho y 76 mm más bajo que un DS 3 actual, y declara 50 litros más de maletero. DS insiste en que la distancia entre ejes es generosa (2,70 m) y en que el espacio interior es «líder en su categoría».
+Puesto al lado del DS 3, el prototipo crece 72 mm a lo largo, gana unos 49 mm a lo ancho y pierde 76 mm de altura, mientras su maletero anuncia 50 litros más. DS subraya además que la distancia entre ejes es amplia (2,70 m) y que el hueco interior aspira a ser «líder en su categoría».
 
-## Qué podría llegar a serie — y qué es solo interpretación
+## Lo que podría heredar un DS de calle, y lo que es solo prensa
 
-Aquí hay que separar con cuidado lo oficial de lo que la prensa deduce:
+Conviene distinguir con nitidez lo confirmado de lo deducido:
 
-**Oficial (DS):** el F3VER «informará a los futuros diseños de la marca» y explora hacia dónde quiere llevar DS su diseño: más distintivo, más deseable y más atrevido. DS no anuncia en su nota ningún modelo de serie derivado, ni fecha, ni fábrica, ni plataforma.
+**Confirmado por DS:** el F3VER servirá de referencia para los próximos diseños de la marca y señala el rumbo que DS busca: más reconocible, más deseable y más atrevido. En su comunicado, DS no presenta ningún modelo de serie derivado, ni calendario, ni planta, ni plataforma.
 
-**Interpretación de la prensa — NO presentarla como anuncio oficial:**
+**Lectura de la prensa — que no debe presentarse como anuncio oficial:**
 
-- Varios medios especializados leen el F3VER como anticipo del futuro **DS Nº 3** (sucesor del DS 3), con llegada hacia 2028.
-- Algunas informaciones añaden que ese futuro modelo compartiría base técnica con el próximo Peugeot E-208 y se fabricaría en España, en Figueruelas (Zaragoza).
-- Otras mencionan arquitectura STLA de Stellantis y motor eléctrico delantero.
+- Parte de la prensa especializada ve en el F3VER un adelanto del próximo **DS Nº 3**, el relevo del DS 3, que podría llegar en torno a 2028.
+- Otros medios señalan que ese hipotético modelo usaría la misma base que el próximo Peugeot E-208 y se montaría en Figueruelas (Zaragoza).
+- Otras citan arquitectura STLA de Stellantis y un motor eléctrico delantero.
 
-**Ninguno de esos tres puntos (Nº 3 / 2028 / Figueruelas / STLA / motor delantero) está en la nota oficial DS del F3VER.** Se recogen como «lo que la prensa interpreta», no como hechos.
+**Ninguno de esos elementos (Nº 3, 2028, Figueruelas, STLA, motor delantero) figura en el comunicado oficial de DS sobre el F3VER.** Hay que leerlos como conjeturas de la prensa, no como datos confirmados.
 
-Lo que sí parece razonable deducir del propio concept, sin inventar: los elementos con más papeletas para llegar a un DS de serie son el lenguaje de luz (Y vertical + tótem central), la personalización por zonas (techo, bitono, animaciones) y la simplificación constructiva («Design Intelligence»). Las soluciones más de salón — como el túnel de luz de 16 paneles en magnesio o el Cosmic Blue dicróico tal cual — pueden llegar adaptadas, recortadas o no llegar.
+Lo que sí cabe esperar del propio prototipo, sin inventar nada: los elementos con más opciones de verse en un DS de calle son el idioma de la luz (Y vertical junto al tótem central), la personalización por áreas (techo, dos tonos, animaciones) y la construcción simplificada («Design Intelligence»). Las ideas más de escaparate —el túnel luminoso de 16 paneles sobre magnesio o el Cosmic Blue dicróico sin cambios— podrían aterrizar adaptadas, recortadas o no aterrizar.
 
-## Lo que DS NO ha publicado (y no hay que inventar)
+## Lo que DS no ha desvelado (y no conviene inventar)
 
 | Dato | Estado |
 |---|---|
@@ -232,50 +228,50 @@ Lo que sí parece razonable deducir del propio concept, sin inventar: los elemen
 | EuroNCAP | Sin datos (concept, sin prueba) — nunca inventar estrellas |
 | Garantía / mantenimiento | Sin datos (concept, sin versión comercial) |
 
-## Los otros cinco concepts de «The Night Before»
+## Aquella noche hubo seis prototipos, no uno
 
-El F3VER no se presentó solo. En la misma noche Stellantis mostró: <a href=/blog/alfa-romeo-cuorerosso-concept-salon-paris-2026/>Alfa Romeo Cuorerosso</a>, <a href=/blog/citroen-2cv-electrico-2026-paris/>Citroën 2 CV Concept</a>, <a href=/blog/fiat-multiplay-concept-paris-2026/>FIAT Multiplay</a>, <a href=/blog/opel-stx-concept-paris-2026/>Opel STX Concept</a> y <a href=/blog/peugeot-rcz-vision-concept-paris-2026/>PEUGEOT RCZ Vision</a>. En total, el grupo anunció para el Salón más de 60 vehículos expuestos, nueve prototipos, ocho marcas y seis estrenos.
+Aquella noche no estuvo solo: junto al F3VER, Stellantis desveló otros cinco prototipos —<a href=/blog/alfa-romeo-cuorerosso-concept-salon-paris-2026/>Alfa Romeo Cuorerosso</a>, <a href=/blog/citroen-2cv-electrico-2026-paris/>Citroën 2 CV Concept</a>, <a href=/blog/fiat-multiplay-concept-paris-2026/>FIAT Multiplay</a>, <a href=/blog/opel-stx-concept-paris-2026/>Opel STX Concept</a> y <a href=/blog/peugeot-rcz-vision-concept-paris-2026/>PEUGEOT RCZ Vision</a>—. En conjunto, el grupo llevó al salón más de 60 vehículos, ocho marcas, nueve prototipos y seis estrenos.
 
-## Para entender el F3VER en la gama DS
+## Dónde encaja en la gama DS
 
-La gama DS actual que la propia marca cita en su nota está formada por DS 3, N.º 4, N.º 7 y N.º 8. El F3VER dialoga sobre todo con el DS 3: mismo territorio de coche compacto premium, pero con una silueta más baja y tensa, sin la altura de crossover del DS 3 actual. Si te interesa un DS que sí se puede comprar hoy, la referencia natural es el <a href=/coches/ds-3-2025-precio-ficha-tecnica/>DS 3</a>; también puedes ver el <a href=/coches/ds-n4-e-tense-213-2026-precio-ficha-tecnica/>DS N.º 4</a>, el <a href=/coches/ds-7-2025-precio-ficha-tecnica/>DS 7</a> y el <a href=/coches/ds-n8-2025-precio-ficha-tecnica/>DS N.º 8</a>. Si te interesa hacia dónde va la marca, el F3VER es la pista más reciente.
+En su comunicado, la marca cita como gama actual cuatro modelos: el DS 3, el N.º 4, el N.º 7 y el N.º 8. El F3VER tiene su interlocutor principal en el primero: comparte su espacio de compacto premium, pero dibuja un perfil más bajo y afilado, sin la altura de crossover que tiene hoy el DS 3. Si buscas un DS que sí puedas comprar ahora, la referencia lógica es el <a href=/coches/ds-3-2025-precio-ficha-tecnica/>DS 3</a>; también puedes mirar el <a href=/coches/ds-n4-e-tense-213-2026-precio-ficha-tecnica/>DS N.º 4</a>, el <a href=/coches/ds-7-2025-precio-ficha-tecnica/>DS 7</a> y el <a href=/coches/ds-n8-2025-precio-ficha-tecnica/>DS N.º 8</a>. Si lo que te interesa es el rumbo de la marca, el F3VER es la muestra más actual.
 
 ## Preguntas frecuentes
 
-### ¿Qué es el DS F3VER?
+### ¿Qué es exactamente el DS F3VER?
 
-Es un concept car eléctrico de diseño presentado por DS Automobiles en el Salón del Automóvil de París 2026. Es un laboratorio de diseño a escala real, no un modelo de serie: explora deseabilidad, personalización y libertad de uso diario.
+Un prototipo eléctrico de diseño que DS Automobiles llevó a la muestra parisina de 2026. Funciona como laboratorio de diseño a tamaño real, no como modelo de serie: explora atractivo, personalización y libertad de uso diario.
 
-### ¿Cuánto mide el DS F3VER?
+### ¿Qué tamaño tiene el F3VER?
 
-Según la nota oficial DS: 4,19 m de largo, 1,84 m de ancho y 1,46 m de alto, con un maletero de 400 litros y batalla de 2,70 m.
+4,19 metros de largo, 1,84 de ancho y 1,46 de alto; maletero de 400 litros y 2,70 metros entre ejes, según el comunicado oficial de DS.
 
-### ¿El DS F3VER tiene precio o fecha de venta?
+### ¿Se sabe su precio o cuándo saldrá?
 
-No. DS no ha publicado precio, fecha de venta ni versión de serie del F3VER. Que la prensa lo lea como anticipo de un futuro DS Nº 3 es una interpretación, no un anuncio oficial de DS.
+No. Ni tarifa, ni fecha de salida, ni versión de serie: DS no ha comunicado nada de eso sobre el F3VER. Que parte de la prensa lo vea como adelanto del próximo DS Nº 3 es solo una lectura, no un anuncio oficial de la marca.
 
-### ¿Qué autonomía tiene el DS F3VER?
+### ¿Hay alguna cifra oficial de autonomía?
 
-DS afirma que apunta a una autonomía eléctrica «líder en su categoría», pero no ha dado ninguna cifra de km, ni de batería (kWh), ni de potencia, ni de carga. No hay que tomar ninguna cifra de autonomía que circule sin fuente oficial como dato del F3VER.
+No hay kilómetros, ni kWh de batería, ni potencia, ni tiempos de carga. DS solo habla de una autonomía eléctrica que aspira a encabezar su categoría, sin dar números. Y ninguna cifra que circule sin respaldo oficial debe tomarse como dato del F3VER.
 
-### ¿Qué adelanta el DS F3VER para los futuros DS?
+### ¿Qué ideas suyas veremos en DS de calle?
 
-Su lenguaje de luz (Y vertical y elemento central con el emblema), la personalización por zonas (techo, bitono, animaciones de luz) y la filosofía «Design Intelligence» (menos componentes, líneas más puras). DS dice que informará a sus futuros diseños.
+Su idioma lumínico (la Y vertical junto al elemento central del emblema), la personalización por áreas (techo, dos tonos, animaciones lumínicas) y la filosofía «Design Intelligence» (menos piezas, líneas más limpias). DS señala que servirá de referencia para sus próximos diseños.
 
-### ¿Se puede comprar el DS F3VER o reservarlo?
+### ¿Puedo encargar ya un F3VER?
 
-No. Es un concept de salón, sin versión comercial. Si buscas un DS compacto comprable hoy, la referencia es el DS 3; el F3VER solo muestra hacia dónde puede ir el diseño de la marca.
+No. Es un prototipo de salón sin versión a la venta. Si quieres un DS compacto que puedas comprar hoy, mira el DS 3; el F3VER solo anticipa por dónde puede evolucionar el diseño de la marca.
 
 **¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.
 
-
-*Fuentes: <a href=https://www.media.stellantis.com/uk-en/ds/press/a-new-design-expression-ds-automobiles-f3ver-concept1>nota oficial DS / Stellantis Media (11/10/2026)</a>, <a href=https://www.media.stellantis.com/es-es/corporate/press/stellantis-presenta-seis-concept-cars-the-night-before-del-salon-del-automovil-de-paris>nota Stellantis «The Night Before»</a>, <a href=https://dsautomobiles.es/modelos/ds3/hybrid.html>DS 3 en la web oficial DS España (referencia)</a>.*`,
+*Fuentes: <a href=https://www.media.stellantis.com/uk-en/ds/press/a-new-design-expression-ds-automobiles-f3ver-concept1>nota oficial DS / Stellantis Media (11/10/2026)</a>, <a href=https://www.media.stellantis.com/es-es/corporate/press/stellantis-presenta-seis-concept-cars-the-night-before-del-salon-del-automovil-de-paris>nota Stellantis «The Night Before»</a>, <a href=https://dsautomobiles.es/modelos/ds3/hybrid.html>DS 3 en la web oficial DS España (referencia)</a>.*
+`,
   },
   {
     slug: "fiat-multiplay-concept-paris-2026",
-    title: "FIAT Multiplay: concept 3 en 1 de 4,45 m en París 2026",
+    title: "FIAT Multiplay: el concept 3 en 1 de París 2026",
     excerpt:
-      "El FIAT Multiplay es un concept 3 en 1 de 4,45 m: familiar 6+1 que se transforma en pick-up de 4 plazas con la arquitectura Metamorfosi. Laboratorio de ideas, no coche de serie.",
+      "FIAT Multiplay, concept 3 en 1 de 4,45 m de París 2026: de familiar 6+1 a pick-up de 4 plazas con Metamorfosi. No es modelo de serie.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 7,
@@ -289,17 +285,17 @@ No. Es un concept de salón, sin versión comercial. Si buscas un DS compacto co
     ],
     content: `<img src=/media/fiat-multiplay-concept-paris-2026-hero.webp alt=FIAT Multiplay Concept, frontal tres cuartos en verde sandía con parrilla pixelada>
 
-*Foto: FIAT (prensa) / designboom (distribución). La página de origen indica «all images courtesy of Fiat». Imagen de prensa distribuida por un medio tercero; no es una foto descargada del media site oficial de Stellantis/FIAT. Licencia desconocida.*
+Imagen: material de prensa de FIAT difundido por designboom. La página de origen reconoce la cortesía de Fiat en todas las imágenes. Se trata de una imagen de prensa que difundió un medio tercero, sin descarga desde el portal oficial de medios de Stellantis/FIAT, y sin licencia confirmada.
 
-## Qué es el FIAT Multiplay
+## Un solo coche para tres usos
 
-El FIAT Multiplay es un concept car presentado por FIAT en «The Night Before», el evento de Stellantis en la víspera del Salón del Automóvil de París 2026, celebrado en el Hangar Y de París el 11 de octubre de 2026. Lo presentaron Olivier François (Company Strategic Advisor de Stellantis) y Arnaud Belloni (CEO de FIAT, Abarth y Lancia y Chief Marketing Officer para Europa). En la presentación, François entregó simbólicamente las llaves a Belloni.
+FIAT presentó el Multiplay el 11 de octubre de 2026, en el Hangar Y parisino, dentro de «The Night Before», la velada de Stellantis previa al Salón de París 2026. Presentaron el concept Olivier François y Arnaud Belloni. François es Company Strategic Advisor de Stellantis; Belloni, CEO de FIAT, Abarth y Lancia, además de Chief Marketing Officer para Europa. En el acto, François pasó simbólicamente las llaves a Belloni.
 
-La idea central es sencilla y ambiciosa a la vez: un solo vehículo que cambia de forma según lo que necesite la familia ese día. FIAT lo define como un vehículo 3 en 1: combina el espacio de un monovolumen, el carácter de un SUV y la funcionalidad de un pick-up, en 4,45 metros de longitud.
+Un único coche capaz de cambiar de forma en función de lo que la familia necesite cada día: esa es la idea central, sencilla y ambiciosa a la vez. Según FIAT, es un 3 en 1: reúne espacio de monovolumen, carácter de SUV y funcionalidad de pick-up, todo en 4,45 metros.
 
-Y aquí va el aviso importante, tal cual lo dice FIAT: **el Multiplay es un laboratorio de ideas para futuras innovaciones de la marca y NO es el anticipo de un modelo de producción específico.** No hay precio, ni motor, ni fecha de llegada anunciados. Todo lo que sigue es lo que FIAT ha mostrado del concept, no la ficha de un coche que puedas comprar.
+Aviso importante, en palabras de FIAT: el Multiplay funciona como laboratorio de ideas para innovaciones futuras de la marca, no como anticipo de un modelo de producción concreto. Ni precio, ni motor, ni fecha de llegada están anunciados. Lo que viene a continuación es lo mostrado por FIAT sobre el concept, no la ficha de un coche comprable.
 
-## Lo que FIAT sí ha confirmado: datos reales verificables
+## Datos que FIAT sí ha confirmado
 
 | Dato | Valor confirmado por FIAT / Stellantis |
 |---|---|
@@ -324,40 +320,40 @@ Y aquí va el aviso importante, tal cual lo dice FIAT: **el Multiplay es un labo
 | Inspiración / herencia | FIAT 600 Multipla (1956) y FIAT Multipla (1998) |
 | ¿Modelo de serie? | NO: laboratorio de ideas, no anticipo de un modelo de producción específico |
 
-## Cómo se transforma: la arquitectura «Metamorfosi»
+## Cómo cambia de forma
 
-La clave del Multiplay está en el pilar C, bautizado «Metamorfosi». Un módulo trasero se desplaza sobre guías longitudinales y el vehículo pasa, en unos pocos movimientos según FIAT, de familiar cerrado a pick-up abierto.
+La clave está en el pilar C, llamado «Metamorfosi»: un módulo trasero que se desliza por guías longitudinales permite pasar, con pocos movimientos —así lo describe FIAT—, de un familiar cerrado a un pick-up abierto.
 
-- **Modo familiar (6+1):** seis plazas más el «Petsenger seat». La zona trasera está pensada como zona familiar propia: los niños tienen su espacio y quedan al alcance y a la vista de los padres.
-- **Modo pick-up (4 plazas):** la parte trasera se abre y deja una caja para bicicletas, material deportivo y de exterior y objetos voluminosos. La capacidad de carga se convierte, en palabras de FIAT, en una función que se activa cuando hace falta.
+- **Familiar con 6+1:** seis plazas y el «Petsenger seat» añadido. La parte de atrás funciona como zona familiar propia, con los niños con su espacio, siempre al alcance visual de los padres.
+- **Pick-up de 4 plazas:** al abrirse la parte trasera, queda una caja donde caben bicicletas, equipo deportivo y de exterior, y bultos voluminosos. FIAT describe esa capacidad de carga como una función activable cuando hace falta.
 
-El mismo principio de «una pieza, dos usos» se aplica al alerón trasero: gira y se convierte en portabicicletas integrado para hasta 2 bicicletas en modo pick-up, sin accesorio exterior dedicado.
+El alerón trasero también tiene dos usos: al girar, hace de portabicicletas integrado, para un máximo de 2 bicicletas cuando va en modo pick-up, sin necesidad de un accesorio exterior dedicado.
 
 <img src=/media/fiat-multiplay-concept-paris-2026-pickup-perfil.webp alt=FIAT Multiplay en modo pick-up, perfil con caja trasera abierta y módulo Metamorfosi deslizado>
 
-## Por dentro: Petsenger seat, Sunseat y vida familiar
+## Dentro: mascotas, niños y descanso
 
-El 6+1 del Multiplay evoluciona la filosofía de seis plazas del Multipla. El «Petsenger seat» es una unidad modular que puede ser anclaje para silla infantil, espacio dedicado para una mascota, mesita o portaobjetos, según el viaje y los ocupantes.
+El 6+1 del Multiplay retoma la filosofía de seis plazas del Multipla, y la lleva más lejos. El «Petsenger seat» funciona como unidad modular: puede hacer de anclaje para silla infantil, de espacio para una mascota, de mesita o de portaobjetos, en función del viaje y de los ocupantes.
 
-Las soluciones para mascotas están integradas en los componentes: una sección exterior del cojín se separa y sirve como correa, y un compartimento en la puerta guarda un cuenco plegable. Bolsillos, bandas elásticas y elementos multifuncionales completan la organización.
+Las soluciones para mascotas van integradas en los componentes: una parte exterior del cojín se separa y hace de correa, y en la puerta hay un compartimento con un cuenco plegable. Bolsillos, bandas elásticas y piezas multifuncionales completan la organización.
 
-FIAT también ataca un compromiso clásico de los familiares: la tercera fila poco aprovechable. Según la marca, la arquitectura del Multiplay permite que el compartimento trasero acoja hasta dos niños e incluso un adulto cuando sea necesario.
+FIAT también resuelve un compromiso clásico de los familiares: una tercera fila poco aprovechable. La marca asegura que su arquitectura permite que la parte trasera acoja a dos niños, e incluso a un adulto, si hace falta.
 
-El «Sunseat» es el guiño más lúdico: el asiento del acompañante se transforma en una chaise longue tipo lounge para usar con el coche estacionado. Orientado hacia atrás, usa el salpicadero como respaldo y queda bajo el techo panorámico, como sitio para leer, relajarse o disfrutar del entorno.
+Lo más lúdico es el «Sunseat»: el asiento del acompañante se convierte en chaise longue tipo lounge, lista para usar con el coche parado. Girado hacia atrás, toma el salpicadero de respaldo y queda bajo el techo panorámico, ideal para leer, relajarse o disfrutar del paisaje.
 
-La pantalla oculta va en la misma línea: integrada en el salpicadero, desaparece cuando el coche está apagado y deja un entorno visualmente despejado. La tecnología se incorpora al diseño interior sin saturar el espacio.
+La pantalla oculta sigue esa línea: integrada en el salpicadero, se esconde con el coche apagado y deja despejado el entorno visual. La tecnología entra en el diseño interior sin saturar el espacio.
 
-## Diseño y materiales: el verano italiano
+## Color y materiales del verano italiano
 
-El color del Multiplay se inspira en la sandía y en el verano italiano. Carrocería verde brillante que recuerda a la corteza; interior en rojos y rosas que evocan el interior de la fruta; suelo rosa suave y degradado pixelado turquesa entre el «Petsenger seat» y la zona infantil.
+La sandía y el verano italiano inspiran el color del Multiplay. La carrocería, verde brillante, recuerda a la corteza; el interior, en rojos y rosas, evoca el interior de la fruta; el suelo es rosa suave y el degradado pixelado turquesa va del «Petsenger seat» a la zona infantil.
 
-En materiales, FIAT prioriza sencillez y funcionalidad: la mayoría de los componentes blandos usan tejido monomaterial con punto 3D sin costuras, que según la marca reduce residuos y crea superficies suaves y adaptables. En las zonas de niños y mascotas, los acabados impermeables también son monomaterial, pensados para el uso diario.
+FIAT apuesta por la sencillez y la funcionalidad en los materiales: casi todos los componentes blandos emplean tejido monomaterial con punto 3D sin costuras, una solución que, según la marca, recorta residuos y genera superficies suaves y adaptables. Para zonas infantiles y de mascotas, los acabados impermeables también recurren al monomaterial, pensados para el día a día.
 
-La franja horizontal del salpicadero se inspira en el horizonte mediterráneo, donde cielo y mar parecen fundirse. El diálogo entre colores exterior e interior reinterpreta la filosofía histórica de FIAT de llevar el color de la carrocería al interior.
+La franja horizontal del salpicadero toma como referencia ese horizonte mediterráneo en el que cielo y mar parecen fundirse. Ese diálogo entre el color exterior y el interior reinterpreta la filosofía histórica de FIAT: trasladar al interior el color de la carrocería.
 
-## Herencia Multipla: por qué se llama Multiplay
+## De Multipla a Multiplay
 
-El nombre es un juego con Multipla, y FIAT lo conecta explícitamente con dos proyectos:
+El nombre juega con Multipla, y FIAT lo vincula de forma explícita a dos proyectos:
 
 | Modelo | Año | Dato confirmado por FIAT |
 |---|---|---|
@@ -365,71 +361,70 @@ El nombre es un juego con Multipla, y FIAT lo conecta explícitamente con dos pr
 | FIAT Multipla | 1998 | Seis plazas en dos filas en un vehículo de menos de 4 m de largo |
 | FIAT Multiplay | 2026 (concept) | 4,45 m; 6+1 familiar o 4 plazas pick-up |
 
-El Multipla original exprimía un espacio fijo; el Multiplay quiere que el espacio cambie de forma según el día. Esa es la diferencia clave: no es un Multipla nuevo, es una exploración de cómo el espacio puede adaptarse.
+El Multipla original aprovechaba al máximo un espacio fijo; el Multiplay, en cambio, busca un espacio que cambie de forma según el día. Ahí está la diferencia clave: no se trata de un Multipla nuevo, sino de explorar cómo puede adaptarse el espacio.
 
-## Qué adelanta y qué podría llegar a serie
+## Lo que podría heredar la serie, y lo que no
 
-**INTERPRETACIÓN — no es un anuncio de FIAT.** FIAT dice que el Multiplay es un laboratorio de ideas, no el anticipo de un modelo concreto. Por tanto, nada de lo siguiente está confirmado como equipamiento de serie:
+Aclaración: lo que sigue es interpretación, no un anuncio de FIAT. La marca presenta el Multiplay como laboratorio de ideas, no como anticipo de un modelo concreto. Así que nada de lo que viene a continuación cuenta con confirmación como equipamiento de serie:
 
-- **Ideas que podrían filtrarse a futuros FIAT familiares:** arquitectura interior reconfigurable, asientos y componentes multifunción (tipo «Petsenger seat»), portabicicletas integrado sin accesorio externo, pantalla oculta / tecnología discreta, materiales monomaterial y punto 3D sin costuras, tercera fila más usable en coches compactos.
-- **Lo que NO hay que dar por hecho:** que vaya a existir un «Multiplay de producción», ni con qué motor, ni a qué precio, ni cuándo. FIAT no ha anunciado ninguno de esos datos.
-- **Contexto Stellantis:** el Multiplay se presentó junto a otros cinco concepts en «The Night Before» (<a href=/blog/alfa-romeo-cuorerosso-concept-salon-paris-2026/>Alfa Romeo Cuorerosso</a>, <a href=/blog/citroen-2cv-electrico-2026-paris/>Citroën 2 CV Concept</a>, <a href=/blog/ds-f3ver-concept-paris-2026/>DS F3VER</a>, <a href=/blog/opel-stx-concept-paris-2026/>Opel STX Concept</a> y <a href=/blog/peugeot-rcz-vision-concept-paris-2026/>PEUGEOT RCZ Vision</a>), dentro del plan FaSTLAne 2030 y con más de 50 productos lanzados hasta 2030 anunciados por Stellantis a nivel de grupo. Eso es contexto de grupo, no una promesa sobre el Multiplay.
+- **Qué podría llegar a los familiares venideros de FIAT:** un interior que se reconfigura, asientos y piezas con varios usos (al estilo del «Petsenger seat»), un portabicicletas integrado que no necesita accesorio externo, tecnología discreta con pantalla oculta, tejidos monomaterial con punto 3D sin costuras, y una tercera fila más aprovechable en coches compactos.
+- **Lo que NO cabe dar por hecho:** la existencia de un «Multiplay de producción», ni su motor, ni su precio, ni su fecha. De esos datos, FIAT no ha anunciado ninguno.
+- **Contexto Stellantis:** junto al Multiplay, en «The Night Before» se presentaron otros cinco concepts (<a href=/blog/alfa-romeo-cuorerosso-concept-salon-paris-2026/>Alfa Romeo Cuorerosso</a>, <a href=/blog/citroen-2cv-electrico-2026-paris/>Citroën 2 CV Concept</a>, <a href=/blog/ds-f3ver-concept-paris-2026/>DS F3VER</a>, <a href=/blog/opel-stx-concept-paris-2026/>Opel STX Concept</a> y <a href=/blog/peugeot-rcz-vision-concept-paris-2026/>PEUGEOT RCZ Vision</a>), en el marco del plan FaSTLAne 2030, y más de 50 lanzamientos hasta 2030 anunciados por Stellantis en todo el grupo. Se trata de contexto de grupo, no de una promesa sobre el Multiplay.
 
-Si FIAT anuncia más adelante un familiar inspirado en el Multiplay, este artículo se actualizará con los datos oficiales y con enlace a su ficha.
+Si más adelante FIAT anuncia un familiar inspirado en el Multiplay, actualizaremos este artículo con los datos oficiales y con un enlace a su ficha.
 
-## Qué NO es el Multiplay (para no confundir)
+## Para no confundir el concept
 
-- **No es un Multipla nuevo a la venta.** Es un concept.
-- **No tiene precio anunciado.** No pongas en el titular ni en la meta un precio: no existe.
-- **No tiene motor, potencia, autonomía, batería ni consumo anunciados.** FIAT no ha publicado ninguno de esos datos para el concept.
-- **No tiene dimensiones completas publicadas.** Solo la longitud: 4,45 m. Anchura, altura, batalla, peso y maletero: **no publicados por FIAT**.
-- **No tiene EuroNCAP, garantía ni mantenimiento.** Es un concept sin versión de serie; esos apartados no aplican y no se inventan.
+- **Venta, ninguna: se trata de un concept, no de un Multipla nuevo a la venta.**
+- **Precio, ninguno anunciado: ni en el titular ni en la meta cabe un precio, porque no existe.**
+- **Motor, potencia, autonomía, batería y consumo: ninguno anunciado por FIAT para el concept.**
+- **Dimensiones completas, tampoco: solo se conoce una medida: 4,45 m de longitud. Anchura, altura, batalla, peso y maletero siguen sin publicarse por FIAT.**
+- **Euro NCAP, garantía y mantenimiento: no aplican a un concept sin versión de serie, y no se inventan. Euro NCAP no evalúa prototipos sin versión de serie, así que el Multiplay no tiene valoración en estrellas.**
 
-## FIAT en vivo: si buscas un FIAT que sí puedes comprar
+## FIAT que sí puedes comprar hoy
 
-Mientras el Multiplay es solo un laboratorio de ideas, estos FIAT sí están en el comparador con ficha y precio:
+Mientras el Multiplay sigue siendo solo un laboratorio de ideas, estos FIAT ya figuran en el comparador con ficha y precio:
 
-- <a href=/coches/fiat-grande-panda-electrico-precio-ficha-tecnica/>Fiat Grande Panda eléctrico</a> — el urbano eléctrico de FIAT.
-- <a href=/coches/fiat-500e-2025-precio-ficha-tecnica/>Fiat 500e 2025</a> — el urbano eléctrico clásico de la marca.
+- <a href=/coches/fiat-grande-panda-electrico-precio-ficha-tecnica/>Fiat Grande Panda eléctrico</a> — un urbano eléctrico de la marca.
+- <a href=/coches/fiat-500e-2025-precio-ficha-tecnica/>Fiat 500e 2025</a> — el urbano eléctrico clásico de la firma.
 
-## Antes de recurrir, analiza tu multa
+## Revisa tu multa antes de pagar
 
 ¿Te ha llegado una multa y no sabes si puedes recurrirla? Antes de pagar, pásala por el analizador: <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis aquí</a>.
 
+## Preguntas habituales
 
-## Preguntas frecuentes
+### ¿Qué es, en realidad, el FIAT Multiplay?
 
-### ¿Qué es el FIAT Multiplay?
+Un coche concepto de FIAT que se presentó en «The Night Before», el 11 de octubre de 2026, la velada previa al Salón de París 2026. Es un 3 en 1 de 4,45 m: reúne monovolumen, SUV y pick-up, y su arquitectura «Metamorfosi» lo convierte de familiar 6+1 en pick-up de 4 plazas.
 
-Un concept car de FIAT presentado el 11 de octubre de 2026 en «The Night Before», en la víspera del Salón del Automóvil de París 2026. Es un vehículo 3 en 1 de 4,45 m que combina monovolumen, SUV y pick-up, con una arquitectura «Metamorfosi» que lo transforma de familiar 6+1 a pick-up de 4 plazas.
+### ¿Se venderá el FIAT Multiplay?
 
-### ¿El FIAT Multiplay se va a vender?
+Como modelo de producción, no está anunciado. FIAT lo presenta como laboratorio de ideas para innovaciones futuras de la marca, no como anticipo de un modelo de producción concreto. Ni precio, ni motor, ni fecha de llegada anunciadas.
 
-No está anunciado como modelo de producción. FIAT lo define como un laboratorio de ideas para futuras innovaciones de la marca, no como el anticipo de un modelo de producción específico. No hay precio, motor ni fecha de llegada.
+### ¿Qué longitud tiene el FIAT Multiplay?
 
-### ¿Cuánto mide el FIAT Multiplay?
+Mide 4,45 metros de longitud, según FIAT. Solo esa dimensión ha publicado la marca para el concept. De anchura, altura, batalla, peso y maletero no hay datos publicados.
 
-4,45 metros de longitud, según FIAT. Es la única dimensión publicada por la marca para el concept. Anchura, altura, batalla, peso y maletero no han sido publicados.
+### ¿Cómo se convierte de familiar en pick-up?
 
-### ¿Cómo pasa el Multiplay de familiar a pick-up?
+Gracias al pilar C, con su arquitectura «Metamorfosi»: un módulo trasero que se desliza por guías longitudinales permite pasar de un familiar cerrado 6+1 a un pick-up abierto de 4 plazas, con su caja. Al girar, el alerón trasero hace de portabicicletas integrado, para un máximo de 2 bicicletas cuando va en modo pick-up.
 
-Con la arquitectura «Metamorfosi» del pilar C: un módulo trasero se desliza longitudinalmente sobre guías y el vehículo pasa de familiar cerrado 6+1 a pick-up abierto de 4 plazas con caja. El alerón trasero gira y se convierte en portabicicletas integrado para hasta 2 bicicletas.
+### ¿Qué hacen el «Petsenger seat» y el «Sunseat»?
 
-### ¿Qué son el «Petsenger seat» y el «Sunseat»?
+Dicho asiento, el «Petsenger seat», funciona como unidad modular del Multiplay: puede hacer de anclaje para silla infantil, de espacio para una mascota, de mesita o de portaobjetos. El «Sunseat», por su parte, es el asiento del acompañante convertido en chaise longue tipo lounge, lista para usar con el coche parado, girado hacia atrás y bajo el techo panorámico.
 
-El «Petsenger seat» es una unidad modular del Multiplay que puede ser anclaje para silla infantil, espacio para mascota, mesita o portaobjetos. El «Sunseat» es el asiento del acompañante transformado en chaise longue tipo lounge para usar con el coche estacionado, orientado hacia atrás y bajo el techo panorámico.
+### ¿Tiene motor, precio o autonomía el FIAT Multiplay?
 
-### ¿Qué motor, precio o autonomía tiene el FIAT Multiplay?
-
-Ninguno anunciado. FIAT no ha publicado motor, potencia, batería, autonomía, consumo, precio, fecha de lanzamiento ni EuroNCAP para el Multiplay, porque es un concept y no un modelo de producción. Cualquier cifra de ese tipo que veas en otro sitio es inventada o especulación: no la damos por buena aquí.
+Ninguno anunciado. Ni motor, ni potencia, ni batería, ni autonomía, ni consumo, ni precio, ni fecha de lanzamiento, ni Euro NCAP ha publicado FIAT para el Multiplay, porque se trata de un concept y no de un modelo de producción. Si ves en otro sitio una cifra de ese tipo, es inventada o especulación: aquí no la damos por buena.
 
 *Fuentes: <a href=https://www.media.stellantis.com/em-en/fiat/press/fiat-multiplay-makes-his-debuts-in-paris-3-in-1-vehicle>nota oficial FIAT / Stellantis Media (11/10/2026)</a>, <a href=https://www.media.stellantis.com/es-es/corporate/press/stellantis-presenta-seis-concept-cars-the-night-before-del-salon-del-automovil-de-paris>nota Stellantis «The Night Before»</a>.*`,
   },
   {
     slug: "opel-stx-concept-paris-2026",
-    title: "Opel STX Concept: familiar eléctrico total y más de 200 km/h",
+    title: "Opel STX Concept: familiar eléctrico de más de 200 km/h",
     excerpt:
-      "El Opel STX Concept es la visión de Opel para el familiar eléctrico: tracción total, más de 200 km/h, nuevo Vizor y aerodinámica activa. Concept de París 2026, sin precio ni fecha de serie.",
+      "El STX Concept anticipa el familiar eléctrico de Opel: tracción total, más de 200 km/h y aerodinámica activa, sin precio ni fecha de serie.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 7,
@@ -443,51 +438,51 @@ Ninguno anunciado. FIAT no ha publicado motor, potencia, batería, autonomía, c
     ],
     content: `<img src=/media/opel-stx-concept-paris-2026-hero.webp alt=Opel STX Concept, frontal tres cuartos con Vizor de lamelas, Blitz iluminado y detalles azules>
 
-*Foto: Opel / Stellantis (prensa) / Carscoops (distribución). Imagen de prensa distribuida por un medio tercero; no es una foto descargada del media site oficial de Stellantis/Opel. Licencia desconocida.*
+*Crédito de la foto: material de prensa de Opel y Stellantis distribuido por Carscoops; no procede de una descarga directa del sitio oficial de medios de Stellantis u Opel. Licencia sin confirmar.*
 
-El Opel STX Concept es la visión de Opel para el familiar del futuro: un prototipo eléctrico, con tracción total y una velocidad máxima superior a 200 km/h, presentado en el Salón del Automóvil de París 2026. No es un coche a la venta ni un modelo de serie anunciado: es un estudio de diseño y de aerodinámica que adelanta cómo serán los próximos Opel por dentro y por fuera.
+El STX Concept de Opel es la apuesta de la marca por el familiar venidero: prototipo eléctrico de tracción total que supera los 200 km/h de velocidad máxima y que se presentó en París en 2026, en el Salón del Automóvil. No es un coche en venta ni un modelo de serie anunciado: se trata de un estudio de diseño y aerodinámica que anticipa el Opel venidero por dentro y por fuera.
 
-Su nombre lo resume. STX son las siglas de **Sports Tourer eXperimental Concept**: ST remite a los Sports Tourer de Opel y la X marca su carácter experimental. Opel lo presentó como su visión de los futuros familiares y como la siguiente etapa de su filosofía de diseño: más atrevido, más puro, más emocional y más eficiente.
+El nombre ya lo explica. STX corresponde a **Sports Tourer eXperimental Concept**: ST alude a los Sports Tourer de Opel; la X señala su carácter experimental. Opel lo mostró como su visión de los familiares venideros y como la etapa siguiente de su diseño: más atrevido, más puro y más emocional, además de más eficiente.
 
-## Qué es y dónde se presentó
+## Presentación en París 2026
 
-Opel desveló el STX Concept en el marco del Salón del Automóvil de París 2026 (Mondial de l'Auto, del 12 al 18 de octubre). El grupo Stellantis lo había adelantado la víspera, el 11 de octubre de 2026, en su evento «The Night Before» en el Hangar Y de París, junto a otros cinco concepts de Alfa Romeo, Citroën, DS Automobiles, FIAT y PEUGEOT. En el salón, Opel lo expuso en su stand A42 del pabellón 4, con conferencia de prensa el lunes 12 de octubre a las 11:00 CEST.
+Opel dio a conocer el STX Concept dentro del salón parisino de 2026 (Mondial de l'Auto, celebrado del 12 al 18 de octubre). Stellantis lo había anticipado el día anterior, 11 de octubre de 2026, en el evento «The Night Before» del Hangar Y de París, acompañado de otros cinco concepts: Alfa Romeo, Citroën y DS Automobiles, además de FIAT y PEUGEOT. Opel lo mostró en el salón, en el stand A42 del pabellón 4, con rueda de prensa programada a las 11:00 CEST del lunes día 12 de octubre.
 
-El contexto importa: Stellantis enmarcó los seis concepts en su plan estratégico FaSTLAne 2030 y en una presencia con más de 60 vehículos en el salón. El STX era la aportación de Opel a esa puesta en escena: el familiar eléctrico como formato con futuro, no como reliquia.
+Ese contexto ayuda a entenderlo: Stellantis situó los seis concepts dentro de su plan estratégico FaSTLAne 2030 y de una presencia con más de 60 vehículos expuestos en el salón. El STX era la contribución de Opel a esa puesta en escena: un familiar eléctrico entendido como formato con futuro, no como una reliquia.
 
-## Diseño: nuevo Vizor y Compass más marcado
+## Diseño: Vizor nuevo y Compass reforzado
 
-El STX Concept estrena la siguiente evolución del frontal Opel Vizor. A diferencia de muchos eléctricos actuales, que apuestan por un frontal ultrafino, el Vizor del STX es más alto y más prominente, en proporción con el tamaño del vehículo.
+El STX Concept inaugura la siguiente evolución del frontal Opel Vizor. Frente a muchos eléctricos actuales, que optan por frontales ultrafinos, el Vizor del STX resulta más alto y más prominente, acorde con el tamaño del vehículo.
 
-Los elementos confirmados por Opel:
+Los elementos que confirma Opel:
 
-- **Nueva firma luminosa:** láminas (lamelas) verticales inclinadas y precisas que delimitan el Vizor por fuera y se difuminan hacia el centro, con animaciones de luz en forma de láminas.
-- **Opel Compass más destacado:** el Blitz (rayo) iluminado de Opel sigue en el centro del Compass, y el pliegue característico del capó queda reforzado por el diseño frontal, afilado y deportivo.
-- **Trasera de caída pronunciada:** la zaga cae con fuerza y, según Opel, esa forma suma espacio en el maletero además de dar carácter al diseño. Detrás, el Compass es aún más preciso: ejes luminosos finos y la palabra OPEL iluminada en el centro.
-- **Pilotos traseros horizontales** a izquierda y derecha, que retoman el aspecto de láminas del frontal.
-- **Superficies enrasadas y precisas**, con aspecto técnico. Los pilares C destacan: unas tiras luminosas de cristal salen de la línea de ventanilla hacia atrás y continúan en el techo.
-- **Letras «STX» iluminadas** en los laterales, que se estrechan hacia el frontal.
-- **Cámaras en lugar de retrovisores:** unas cámaras geométricas, precisas y afiladas, en el lado del conductor y del acompañante.
-- **Color plata y azul**, silueta baja y aerodinámica, voladizos cortos y pasos de rueda anchos y marcados.
+- **Firma luminosa nueva:** láminas verticales inclinadas y precisas que acotan el Vizor por fuera y se desvanecen hacia el centro, con animaciones lumínicas en forma de láminas.
+- **Compass de Opel más destacado:** el Blitz iluminado (el rayo) de Opel continúa en el centro del Compass, con el pliegue del capó reforzado por un frontal afilado y deportivo.
+- **Zaga de caída pronunciada:** la parte trasera cae con fuerza y, en palabras de Opel, esa forma añade espacio para el maletero y carácter al diseño. Atrás, el Compass resulta aún más preciso: haces luminosos finos y OPEL iluminado en el centro.
+- **Pilotos horizontales traseros**, a izquierda y derecha, que recuperan el aspecto laminar del frontal.
+- **Superficies enrasadas, precisas** y de aspecto técnico. Los pilares C sobresalen: unas tiras luminosas de cristal parten de la ventanilla hacia atrás y siguen en el techo.
+- **Siglas «STX» iluminadas** en los laterales, que se afinan hacia el frontal.
+- **Cámaras en vez de espejos:** cámaras geométricas, precisas y afiladas, tanto en el lado del conductor como en el del acompañante.
+- **Plata y azul en la carrocería**, silueta baja y aerodinámica, con voladizos cortos y pasos de rueda anchos, muy marcados.
 
-El conjunto es deliberadamente escultural: Opel presenta el STX como una reinterpretación del familiar, con funcionalidad máxima y eficiencia, pero sin renunciar a la emoción.
+El conjunto busca deliberadamente lo escultural: Opel muestra el STX como una nueva lectura del familiar, con la máxima funcionalidad y eficiencia, pero sin perder la emoción.
 
 <img src=/media/opel-stx-concept-paris-2026-trasera.webp alt=Opel STX Concept, trasera tres cuartos con OPEL iluminado, pilotos horizontales y difusor azul extensible>
 
-## Aerodinámica: la otra mitad del proyecto
+## Eficiencia a alta velocidad: aerodinámica
 
-El STX Concept no es solo un ejercicio de estilo. Opel lo plantea como un familiar pensado para la eficiencia a alta velocidad, incluida la Autobahn alemana: menos consumo, más autonomía, estabilidad direccional y placer de conducción.
+El STX Concept no es únicamente un ejercicio de estilo. Opel lo concibe como un familiar orientado a rendir a alta velocidad, también en la Autobahn alemana: menor consumo, mayor autonomía, estabilidad direccional y placer al volante.
 
-Las soluciones confirmadas:
+Las soluciones que confirma Opel:
 
-- **Llantas de aleación de tres secciones**, optimizadas aerodinámicamente, con neumáticos **Goodyear 285/35 R22** (22 pulgadas).
-- **Sistema de aerodinámica activa** que se adapta de forma continua a la situación de conducción, con elementos móviles en la parte trasera que optimizan el flujo de aire, reducen la resistencia y mejoran la estabilidad.
-- **Difusores azules extensibles:** a la velocidad adecuada, unos difusores de color azul sobresalen por debajo de la parte trasera.
-- **Elementos verticales del parachoques** detrás de las ruedas, que se extienden lateralmente hacia atrás para apoyar la postura aerodinámica.
+- **Llantas de aleación en tres secciones**, optimizadas para la aerodinámica, con gomas **Goodyear 285/35 R22** de 22 pulgadas.
+- **Aerodinámica activa** que se adapta sin parar a la situación de conducción, con piezas móviles traseras que optimizan el flujo de aire, recortan la resistencia y mejoran la estabilidad general.
+- **Difusores azules extensibles:** cuando la velocidad lo pide, unos difusores de color azul emergen por debajo de la zaga.
+- **Elementos verticales del parachoques** tras las ruedas, que se despliegan lateralmente hacia atrás para favorecer la postura aerodinámica.
 
-Opel no ha publicado un coeficiente aerodinámico (Cx) del STX. Cualquier cifra de Cx que circule debe tratarse como a verificar, no como dato oficial.
+Opel no ha difundido ningún Cx del STX, así que cualquier cifra de Cx que circule debe tomarse como pendiente de verificación, no como dato oficial.
 
-## Lo verificado (únicos datos oficiales del STX)
+## Solo lo verificado por Opel y Stellantis
 
 | Dato | Valor confirmado por Opel / Stellantis |
 |---|---|
@@ -504,7 +499,7 @@ Opel no ha publicado un coeficiente aerodinámico (Cx) del STX. Cualquier cifra 
 | Presentación | «The Night Before», Hangar Y, París, 11/10/2026; Salón de París 12–18/10/2026 |
 | Papel | Estudio de diseño; elementos que llegarán a futuros modelos de serie |
 
-## Lo que Opel NO ha confirmado (no inventar)
+## Sin confirmar por Opel: no inventar
 
 | Dato | Estado |
 |---|---|
@@ -522,69 +517,69 @@ Opel no ha publicado un coeficiente aerodinámico (Cx) del STX. Cualquier cifra 
 | EuroNCAP | Sin datos (concept, sin prueba) |
 | Coeficiente Cx | No publicado |
 
-Aviso importante: la cifra de **hasta 1.634 litros de maletero** que aparece en la prensa de Opel corresponde al **Astra Sports Tourer actual**, no al STX Concept. No atribuirla al STX.
+Aviso importante: esos **hasta 1.634 litros de maletero** que circulan en la prensa de Opel pertenecen al **Astra Sports Tourer de ahora**, no al STX. No se los atribuyas al STX.
 
-## Qué adelanta y qué podría llegar a serie
+## Qué adelanta para los Opel futuros
 
-Opel dice que el STX muestra rasgos característicos que se encontrarán en futuros modelos de la marca y que sus elementos se incorporarán a los modelos de serie venideros. Eso es lo que el concept adelanta de forma oficial:
+Según Opel, el STX muestra rasgos característicos que aparecerán en futuros modelos de la marca y pasarán a los modelos de serie venideros. Esto es lo que adelanta oficialmente el concept:
 
-- La **próxima generación del lenguaje de diseño Opel**, con el Vizor más atrevido y el Compass vertical más destacado.
-- La idea de que la tecnología no debe quitar emoción al coche, sino amplificarla.
-- Una dirección de interior que continúa la idea «Painting with Light», ya explorada en el Opel Experimental de 2023 y en el Opel Corsa GSE Vision Gran Turismo de 2025, con iluminación inmersiva y asientos especiales ligeros, llevada a un nuevo nivel de desarrollo.
+- La **siguiente generación del lenguaje de diseño Opel**, con un Vizor más atrevido y un Compass vertical más destacado.
+- Que la tecnología no debe restar emoción al coche, sino amplificarla.
+- Una línea interior que retoma la idea «Painting with Light» —ya vista en el Opel Experimental (2023) y en el Corsa GSE Vision Gran Turismo de Opel (2025)— y que lleva la iluminación inmersiva y los asientos especiales ligeros a un nivel de desarrollo nuevo.
 
-Lo que **no** está confirmado:
+Lo que **tampoco** está confirmado:
 
-- Que exista un **STX de producción** como tal, con ese nombre, esa carrocería o esa fecha.
-- **Qué modelo de serie** estrenará primero el nuevo Vizor, ni cuándo.
-- Que las soluciones más espectaculares (cámaras, difusores extensibles, llantas de 22 pulgadas con ese diseño) lleguen tal cual a un coche de calle.
+- Que un **STX de producción** con ese nombre, esa carrocería y esa fecha llegue a fabricarse.
+- **Qué modelo de serie** será el primero en estrenar el nuevo Vizor, y cuándo.
+- Que las soluciones más llamativas (cámaras, difusores extensibles y llantas de 22 pulgadas con ese diseño) pasen tal cual a un coche de serie.
 
-En resumen: el STX es un anticipo de lenguaje de diseño y de dirección técnica, no el anuncio de un modelo concreto.
+En definitiva: el STX anticipa un lenguaje de diseño y una dirección técnica, sin anunciar ningún modelo concreto.
 
-## Herencia: Opel y el familiar
+## El legado Opel en el familiar
 
-Opel reivindica un papel pionero en el familiar en Europa. La marca sitúa el origen en el **Olympia Rekord Caravan de 1953**, seguido por el Kadett Caravan y muchos otros modelos hasta el actual Astra Sports Tourer. El STX Concept se presenta como la continuación de esa tradición, pero en clave eléctrica y aerodinámica.
+Opel reclama un papel pionero en el familiar europeo. Su origen, según la marca, está en el **Olympia Rekord Caravan de 1953**, al que siguieron el Kadett Caravan y muchos otros modelos antes del actual Astra Sports Tourer. El STX Concept continúa esa tradición, pero con un enfoque eléctrico y aerodinámico.
 
-Esa herencia es también la referencia práctica para el lector: si busca hoy un familiar Opel de serie, el modelo real es el Astra Sports Tourer, no el STX. El concept muestra hacia dónde puede ir el formato; el Astra es lo que se puede comprar ahora.
+Esa herencia también orienta en la práctica al lector: quien busque hoy un familiar Opel de serie encontrará como modelo real el Astra Sports Tourer, no el STX. Ese prototipo apunta a dónde puede llegar el formato; el Astra es lo que hoy se puede comprar.
 
-## Interior: luz y ligereza, sin ficha completa
+## Interior: luz y ligereza, sin datos completos
 
-Opel describe el interior del STX como diseñado para esa misma experiencia de eficiencia y emoción, con la idea «Painting with Light» y asientos ligeros especiales. No ha publicado una especificación interior completa de producción (materiales definitivos, pantallas, equipamiento, plazas exactas, maletero). Todo lo que vaya más allá de «iluminación inmersiva + asientos ligeros» es a verificar.
+Opel presenta el interior del STX como pensado para esa experiencia de eficiencia y emoción, bajo la idea «Painting with Light», y con asientos ligeros especiales. No ha difundido una especificación interior completa de producción (plazas exactas, maletero, materiales definitivos, pantallas, equipamiento). Todo lo que supere «iluminación inmersiva + asientos ligeros» queda pendiente de verificación.
 
-## El STX dentro de los seis concepts de Stellantis en París
+## El STX con los otros cinco concepts
 
-El STX se presentó junto a otros cinco prototipos en «The Night Before»: <a href=/blog/alfa-romeo-cuorerosso-concept-salon-paris-2026/>Alfa Romeo Cuorerosso</a>, <a href=/blog/citroen-2cv-electrico-2026-paris/>Citroën 2 CV Concept</a>, <a href=/blog/ds-f3ver-concept-paris-2026/>DS F3VER</a>, <a href=/blog/fiat-multiplay-concept-paris-2026/>FIAT Multiplay</a> y <a href=/blog/peugeot-rcz-vision-concept-paris-2026/>PEUGEOT RCZ Vision</a>. Cada uno exploraba una vía distinta. El de Opel era la del familiar eléctrico eficiente y emocional.
+El STX se mostró en «The Night Before» junto a otros cinco prototipos: <a href=/blog/alfa-romeo-cuorerosso-concept-salon-paris-2026/>Cuorerosso de Alfa Romeo</a>, <a href=/blog/citroen-2cv-electrico-2026-paris/>2 CV Concept de Citroën</a>, <a href=/blog/ds-f3ver-concept-paris-2026/>F3VER de DS</a>, <a href=/blog/fiat-multiplay-concept-paris-2026/>Multiplay de FIAT</a> y <a href=/blog/peugeot-rcz-vision-concept-paris-2026/>RCZ Vision de PEUGEOT</a>. Cada uno exploraba un camino distinto. El de Opel apostaba por el familiar eléctrico eficiente y emocional.
 
-No mezclar los datos de los otros concepts con el STX. Por ejemplo, el precio de 15.000 € es del 2 CV Concept de Citroën, no del STX; la plataforma STLA One y el steer-by-wire son del RCZ Vision de PEUGEOT, no del STX.
+No hay que mezclar con el STX los datos de los otros concepts. Por ejemplo, esos 15.000 € de precio son del 2 CV Concept de Citroën y no del STX. La plataforma STLA One, con la dirección steer-by-wire, corresponde al RCZ Vision de PEUGEOT, no al STX.
 
-## Opel en vivo: si buscas un Opel que sí puedes comprar
+## Opel de serie que sí puedes comprar
 
-Mientras el STX es solo un estudio de diseño, estos Opel sí están en el comparador con ficha y precio: <a href=/coches/opel-astra-sports-tourer-electrico-2025-precio-ficha-tecnica/>Astra Sports Tourer eléctrico</a>, <a href=/coches/opel-corsa-gse-2026-precio-ficha-tecnica/>Corsa GSE</a>, <a href=/coches/opel-mokka-gse-2025-precio-ficha-tecnica/>Mokka GSE</a> y <a href=/coches/opel-grandland-electrico-2025-precio-ficha-tecnica/>Grandland eléctrico</a>.
+Mientras el STX sigue siendo un mero estudio de diseño, estos Opel sí figuran en el comparador, con su ficha y su precio: <a href=/coches/opel-astra-sports-tourer-electrico-2025-precio-ficha-tecnica/>el eléctrico Sports Tourer de Astra</a>, <a href=/coches/opel-corsa-gse-2026-precio-ficha-tecnica/>el GSE de Corsa</a>, <a href=/coches/opel-mokka-gse-2025-precio-ficha-tecnica/>el GSE de Mokka</a> y <a href=/coches/opel-grandland-electrico-2025-precio-ficha-tecnica/>el eléctrico Grandland</a>.
 
-## Preguntas frecuentes
+## Dudas frecuentes
 
-### ¿Qué es el Opel STX Concept?
+### ¿Qué representa el Opel STX Concept?
 
-Es un prototipo (concept car) de Opel: su visión del familiar eléctrico del futuro, con el nombre completo Sports Tourer eXperimental Concept. Se presentó en el Salón del Automóvil de París 2026. No está a la venta.
+Es un concept car, un prototipo de Opel: su visión del familiar eléctrico venidero, denominado en completo Sports Tourer eXperimental Concept. Se dio a conocer en el salón parisino de 2026. No está en venta.
 
-### ¿El Opel STX Concept es eléctrico?
+### ¿Es eléctrico el Opel STX Concept?
 
-Sí. Opel lo describe como un coche eléctrico con arquitectura eléctrica innovadora y tracción total. No ha publicado potencia, batería ni autonomía.
+Sí. Según Opel, es un coche eléctrico de arquitectura innovadora y tracción total. No ha difundido potencia, batería ni autonomía.
 
-### ¿Cuánto corre el Opel STX Concept?
+### ¿Qué velocidad máxima tiene el Opel STX Concept?
 
-Opel confirma una velocidad máxima de más de 200 km/h, con tracción total y aerodinámica activa. No ha publicado aceleración 0–100 km/h ni potencia.
+Opel confirma más de 200 km/h de velocidad máxima, tracción total y aerodinámica activa. No ha difundido aceleración 0–100 km/h ni potencia.
 
-### ¿Se va a vender el Opel STX Concept? ¿Cuándo llega a serie?
+### ¿Llegará a venderse el STX Concept? ¿Cuándo?
 
-No está confirmado. Opel dice que elementos del STX llegarán a futuros modelos de serie, pero no ha anunciado un STX de producción, ni modelo concreto, ni fecha. Cualquier fecha de llegada a serie es especulación hasta que Opel la confirme.
+No está confirmado. Opel señala que rasgos del STX pasarán a modelos de serie venideros, pero no ha anunciado ni modelo concreto, ni fecha, ni ningún STX de producción. Sobre la llegada a serie, cualquier fecha, hasta que Opel la confirme, es pura especulación.
 
-### ¿Qué adelanta el STX para los próximos Opel?
+### ¿Qué anticipa el STX para los Opel venideros?
 
-La próxima generación del lenguaje de diseño Opel: un Vizor más alto y atrevido con láminas luminosas, un Compass vertical más destacado con el Blitz iluminado, trasera de caída pronunciada, superficies enrasadas y soluciones de aerodinámica activa. También una dirección de interior con iluminación inmersiva («Painting with Light») y asientos ligeros.
+La siguiente generación del lenguaje de diseño Opel: Vizor más alto, más atrevido y con láminas luminosas, Compass vertical destacado, con el Blitz iluminado, zaga de caída pronunciada, superficies enrasadas y aerodinámica activa. También una línea interior con luz inmersiva («Painting with Light») y asientos ligeros.
 
-### ¿Cuánto cuesta el Opel STX Concept y qué autonomía tiene?
+### ¿Tiene precio o autonomía publicada el STX Concept?
 
-No tiene precio ni autonomía publicada: es un concept, no un coche a la venta. Opel no ha comunicado batería, autonomía, carga, medidas ni maletero. No fiarse de cifras que no vengan de Opel o Stellantis.
+Carece de precio y de autonomía publicada, porque es un concept, no un coche en venta. Opel no ha comunicado ni batería, ni autonomía, ni carga, ni medidas, ni maletero. Desconfía de cualquier cifra que no venga de Opel o Stellantis.
 
 **¿Te han puesto una multa y no sabes si se puede recurrir?** Antes de pagarla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a>.
 
@@ -592,9 +587,9 @@ No tiene precio ni autonomía publicada: es un concept, no un coche a la venta. 
   },
   {
     slug: "peugeot-rcz-vision-concept-paris-2026",
-    title: "Peugeot RCZ Vision: 500 CV, 600 km y carga en 10 minutos",
+    title: "Peugeot RCZ Vision: el concept de 500 CV que no se vende",
     excerpt:
-      "El Peugeot RCZ Vision es el concept eléctrico de París 2026 con 500 CV, hasta 600 km, batería de estado sólido y mando Hypersquare. Manifiesto de marca, no coche a la venta.",
+      "El RCZ Vision es el manifiesto eléctrico de Peugeot para París 2026: 500 CV, 600 km, batería sólida e Hypersquare, sin versión de serie.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 8,
@@ -608,15 +603,15 @@ No tiene precio ni autonomía publicada: es un concept, no un coche a la venta. 
     ],
     content: `<img src=/media/peugeot-rcz-vision-concept-paris-2026-hero.webp alt=Peugeot RCZ Vision, frontal con tres garras luminosas horizontales, emblema del león y gráfico RCZ>
 
-*Foto: PEUGEOT (prensa) / AutoBuzz.my (distribución). Imagen de prensa distribuida por un medio tercero; no es una foto descargada del media site oficial de Stellantis/PEUGEOT. Licencia desconocida.*
+*Foto: PEUGEOT (prensa) / AutoBuzz.my (distribución). Foto de prensa repartida por un medio tercero; no se descargó del portal oficial de medios de Stellantis/PEUGEOT. Licencia sin confirmar.*
 
-## Qué es el Peugeot RCZ Vision
+## Un manifiesto, no un coche
 
-El Peugeot RCZ Vision es un concept eléctrico presentado por PEUGEOT el 11 de octubre de 2026 en «The Night Before», el evento previo al Salón del Automóvil de París 2026 celebrado en el Hangar Y de París. Fue uno de los seis concept cars que Stellantis desveló esa noche (<a href=/blog/alfa-romeo-cuorerosso-concept-salon-paris-2026/>Alfa Romeo Cuorerosso</a>, <a href=/blog/citroen-2cv-electrico-2026-paris/>Citroën 2 CV Concept</a>, <a href=/blog/ds-f3ver-concept-paris-2026/>DS F3VER</a>, <a href=/blog/fiat-multiplay-concept-paris-2026/>FIAT Multiplay</a>, <a href=/blog/opel-stx-concept-paris-2026/>Opel STX Concept</a> y PEUGEOT RCZ Vision), dentro de una presencia en el salón con más de 60 vehículos, nueve prototipos, ocho marcas y seis estrenos (Salón del Automóvil de París, 12–18 de octubre de 2026).
+El nombre no es nuevo: entre 2009 y 2015 PEUGEOT vendió un cupé llamado RCZ, que la propia marca presenta hoy como un modelo convertido en objeto de coleccionista. El RCZ Vision retoma ese nombre para otra cosa: un concept eléctrico desvelado en «The Night Before» el 11 de octubre de 2026, la cita que Stellantis organizó en el Hangar Y de París en la víspera del certamen parisino de 2026. Aquella noche se desvelaron seis concepts (<a href=/blog/alfa-romeo-cuorerosso-concept-salon-paris-2026/>Alfa Romeo Cuorerosso</a>, <a href=/blog/citroen-2cv-electrico-2026-paris/>Citroën 2 CV Concept</a>, <a href=/blog/ds-f3ver-concept-paris-2026/>DS F3VER</a>, <a href=/blog/fiat-multiplay-concept-paris-2026/>FIAT Multiplay</a>, <a href=/blog/opel-stx-concept-paris-2026/>Opel STX Concept</a> y PEUGEOT RCZ Vision), dentro de un despliegue en el salón que sumó más de sesenta vehículos, nueve prototipos de ocho marcas y seis estrenos, entre el 12 y el 18 de octubre de 2026 en París.
 
-PEUGEOT lo define como un **manifiesto de marca**: no es un coche a la venta ni el anuncio de un modelo de producción, sino la visión más avanzada hasta la fecha de hacia dónde van el diseño y la tecnología de la marca. Recupera el nombre del RCZ, el cupé que PEUGEOT vendió entre 2009 y 2015 y que la propia marca describe hoy como un modelo que se ha convertido en objeto de coleccionista.
+Para PEUGEOT es un **manifiesto de marca**: ni un coche en venta ni el anticipo de un modelo de producción, sino la imagen más avanzada hasta hoy de hacia dónde se dirigen el diseño y la tecnología de PEUGEOT.
 
-La idea en una frase: **el RCZ Vision enseña cómo serán los próximos Peugeot por dentro y por fuera, sin ser él mismo un coche que puedas comprar.**
+Dicho en una frase: **el RCZ Vision muestra cómo serán por dentro y por fuera los próximos Peugeot, sin ser él mismo un coche comprable.**
 
 ## Qué adelanta (y qué no)
 
@@ -628,9 +623,9 @@ La idea en una frase: **el RCZ Vision enseña cómo serán los próximos Peugeot
 | Arquitectura basada en STLA One + batería de estado sólido + 1.000 V | Dirección tecnológica; sin modelo de serie ni fecha asociados al RCZ Vision |
 | Un RCZ de producción | **NO anunciado.** PEUGEOT no ha confirmado ninguna versión de producción del RCZ Vision |
 
-## Datos verificados (fuente: nota oficial de PEUGEOT / Stellantis)
+## Datos confirmados por la nota oficial
 
-Todos los datos de esta tabla proceden de la nota oficial de PEUGEOT «PEUGEOT RCZ VISION: EMOTION AT THE HEART OF THE FUTURE OF PEUGEOT» (11/10/2026) y de la nota de Stellantis sobre los seis concept cars. Donde la propia nota oficial matiza («objetivo», «a confirmar»), se indica.
+Esta tabla recoge lo publicado en las notas oficiales de PEUGEOT y Stellantis sobre los seis concepts. Donde la nota matiza («objetivo», «a confirmar»), se indica.
 
 | Dato | Valor oficial |
 |---|---|
@@ -659,7 +654,7 @@ Todos los datos de esta tabla proceden de la nota oficial de PEUGEOT «PEUGEOT R
 | Lenguaje de diseño | «Feline Future»: cinco principios — Libertad, Coraje, Elegancia, Fuerza interior e Instinto |
 | Predecesor | RCZ cupé (2009–2015) |
 
-## A verificar / NO publicado por PEUGEOT (no inventar)
+## Pendiente de confirmar: no publicado por PEUGEOT
 
 | Dato | Estado |
 |---|---|
@@ -678,85 +673,78 @@ Todos los datos de esta tabla proceden de la nota oficial de PEUGEOT «PEUGEOT R
 | Producción del RCZ Vision | No anunciada |
 | Garantía / mantenimiento | No aplicables: no es un modelo de producción |
 
-## Diseño: «Feline Future», el felino vuelve a ser el argumento
+## Felino por fuera
 
-El RCZ Vision es la primera expresión del nuevo lenguaje de diseño de PEUGEOT, «Feline Future», articulado en cinco principios: Libertad, Coraje, Elegancia, Fuerza interior e Instinto. La silueta es baja y espectacular, con hombros muy marcados delante y detrás, flancos profundamente esculpidos y formas suaves y redondeadas. PEUGEOT describe una presencia felina: ligeramente inclinada hacia adelante, lista para saltar, con fuerza visible sin agresividad.
+Míralo de frente: las tres garras de PEUGEOT aparecen reinventadas en horizontal y ultrafinas, junto a un faro Thin Lens LED ultracompacto que dibuja «la mirada del León». El frontal suma emblema iluminado y gráfico «RCZ» microperforado en el paragolpes, además de tomas de aire con rejillas que llevan motivos «RCZ» microesculpidos. Atrás, las tres garras horizontales concentran todas las funciones de iluminación.
 
-Tres herencias del RCZ original se reinterpretan:
+La silueta resulta baja y espectacular, con hombros muy marcados en ambos extremos, flancos con un esculpido profundo y formas suaves y redondeadas. PEUGEOT habla de una presencia felina: algo inclinada hacia adelante, preparada para saltar, con fuerza visible y sin agresividad. Es la primera expresión de «Feline Future», el nuevo lenguaje de diseño de la marca, organizado en torno a cinco ideas: Libertad, Coraje, Elegancia, Fuerza interior e Instinto.
 
-- **El techo de doble burbuja**, ahora como burbuja de cristal que se extiende del capó a la parte trasera, con la doble burbuja acentuada para ganar espacio en las plazas traseras. Los arcos son más finos y parecen flotantes.
-- **El alerón activo**, invisible en parado, que solo se despliega en marcha.
-- **Los detalles triangulares de las llantas**, guiño a las del primer RCZ.
-
-La firma luminosa también cambia: las tres garras de PEUGEOT se reinventan en horizontal, ultrafinas, con un faro Thin Lens LED ultracompacto que forma «la mirada del León». Delante hay emblema iluminado, gráfico «RCZ» microperforado en el paragolpes y entradas de aire con rejillas de motivos «RCZ» microesculpidos. Detrás, las tres garras horizontales integran todas las funciones de iluminación.
+Del RCZ original se reinterpretan tres herencias. Primero, el techo de doble burbuja, ahora una burbuja de cristal que recorre desde el capó hasta la parte trasera, con la doble burbuja remarcada para dar más espacio atrás; los arcos, más finos, parecen flotantes. Segundo, el alerón activo, invisible en parado, que únicamente se despliega en marcha. Tercero, unos detalles triangulares en las llantas que recuerdan a las del primer RCZ.
 
 <img src=/media/peugeot-rcz-vision-concept-paris-2026-trasera.webp alt=Peugeot RCZ Vision, trasera tres cuartos con barra luminosa roja, insignia RCZ VISION y techo de doble burbuja de cristal>
 
-## Interior: Hypersquare, i-Cockpit y pantallas que desaparecen
+## El puesto de conducción que viene
 
-El interior es, probablemente, la parte del concept más cercana a la serie. PEUGEOT lleva casi 15 años con el i-Cockpit y el RCZ Vision abre su siguiente capítulo.
+Siéntate dentro y lo primero que falta es el volante. Aparcar sin mover las manos de sitio se vuelve posible porque para girar a tope basta algo menos de una vuelta, frente a las cerca de tres de un volante convencional. El mando que lo permite es rectangular, el Hypersquare, y concentra los mandos principales en sus cuatro anillos, al alcance de los dedos. Su dirección es 100% electrónica, sin conexión mecánica con las ruedas: opera con steer-by-wire y la relación cambia con la velocidad, acortándose a alta velocidad para mayor aplomo. PEUGEOT añade que el sistema deja fuera las vibraciones no deseadas del firme. Y hay algo importante: el Hypersquare de producción que montará la próxima generación del PEUGEOT E-208 es este mismo. Esta parte del concept es real y acabará en la serie.
 
-**Hypersquare.** En lugar de volante, un mando rectangular con las funciones principales al alcance de los dedos en sus cuatro anillos. Funciona con steer-by-wire: no hay conexión mecánica con las ruedas; la dirección es 100% electrónica y la relación varía con la velocidad. A baja velocidad, el giro máximo es ligeramente inferior a una vuelta completa (frente a unas tres de un volante convencional), lo que facilita las maniobras sin mover las manos; a alta velocidad, la relación se reduce para mayor aplomo. Según PEUGEOT, el sistema filtra vibraciones no deseadas del firme. Es la **misma versión de producción de Hypersquare que llevará la próxima generación del PEUGEOT E-208**: esta parte del concept es real y tiene destino de serie.
+El freno sigue la misma lógica: el RCZ Vision inaugura en PEUGEOT el freno por cable, es decir, la tecnología brake-by-wire. La conexión hidráulica entre pedal y frenos deja paso al control electrónico, que modula con más precisión e integra con fluidez el frenado regenerativo.
 
-**Brake-by-wire.** El RCZ Vision es el primer PEUGEOT con freno por cable: la conexión hidráulica entre pedal y frenos se sustituye por control electrónico, con modulación más precisa e integración fluida del frenado regenerativo.
+En pantallas, PEUGEOT apuesta por «mejor antes que más». El salpicadero se reduce al mínimo: las salidas de aire móviles se esconden en desuso y la consola flotante reúne mandos de aluminio para modos de conducción y climatización, sobre cristal esmerilado. Sobre Hypersquare, una pantalla transparente presenta los datos esenciales dentro del campo visual del conductor. La central, flotante y vertical, algo orientada hacia el conductor, puede apagarse del todo y casi desaparecer gracias a su estructura transparente.
 
-**Pantallas Micro LED transparentes.** PEUGEOT elige «mejor antes que más»: en lugar de sumar pantallas, la pantalla transparente sobre Hypersquare muestra la información esencial en el campo de visión del conductor, y la pantalla central flotante, vertical y ligeramente orientada al conductor, puede apagarse por completo y prácticamente desaparecer gracias a su estructura transparente. El salpicadero se esculpe al mínimo, con salidas de aire móviles que se ocultan cuando no se usan, y la consola flotante reúne mandos físicos de aluminio (modos de conducción, climatización) sobre cristal esmerilado.
+Todo esto se enmarca en la siguiente generación del i-Cockpit, un puesto que PEUGEOT lleva casi 15 años desarrollando y que el RCZ Vision inaugura en su siguiente capítulo.
 
 <img src=/media/peugeot-rcz-vision-concept-paris-2026-interior.webp alt=Interior del Peugeot RCZ Vision con mando Hypersquare, pantalla Micro LED transparente y techo de cristal>
 
-**Cabina GT de 4 plazas.** A diferencia del 2+2 del RCZ original, el Vision ofrece cuatro plazas reales, con dos adultos atrás con comodidad y respaldos traseros abatibles para el equipaje. Los asientos, de arquitectura asimétrica con apoyo reforzado hacia el centro, se tapizan en Alcantara y cuero reciclado PELINOVA, en una gama azul claro que refuerza la sensación de amplitud. El reloj del salpicadero es un Parade diseñado con el relojero francés SERICA.
+Detrás también hay sitio de verdad. Los asientos combinan Alcantara con cuero reciclado PELINOVA, en azul claro, una gama que acentúa la sensación de amplitud, con arquitectura asimétrica y apoyo reforzado hacia el centro. Frente al 2+2 del RCZ original, el Vision brinda cuatro plazas reales: dos adultos detrás cómodamente y respaldos traseros que se abaten para el equipaje. El reloj del salpicadero es un Parade, obra del relojero francés SERICA. Y para la carretera, el RCZ Vision ofrece automatización de nivel 2++ que funciona bajo demanda tanto en ciudad como en carretera, con manos libres.
 
-**Nivel 2++.** El RCZ Vision incorpora conducción automatizada de nivel 2++, disponible bajo demanda en ciudad y en carretera, con función manos libres.
+## La batería, con prudencia
 
-## Batería de estado sólido: la cifra que hay que leer con calma
+Empecemos por lo que no se sabe. De este concept no hay precio, ni fecha de venta, ni versión de producción, ni valoración Euro NCAP —al no existir versión de serie, no hay estrellas que inventar—. PEUGEOT tampoco difunde su capacidad en kWh, su número de motores, su tracción, su peso ni sus prestaciones de aceleración o velocidad máxima.
 
-La parte más llamativa de la ficha del concept es la batería: celdas de estado sólido desarrolladas con Factorial Energy, con solo 110 mm de grosor, sobre una arquitectura de 1.000 V. PEUGEOT declara 500 CV, hasta 600 km de autonomía, consumo objetivo de 11,5 kWh/100 km (WLTP, pendiente de confirmación) y carga del 10 al 80% en 10 minutos.
+Lo que sí anuncia la marca es llamativo, empezando por la carga: del 10 al 80% en solo 10 minutos, sobre una arquitectura de 1.000 V y con celdas de estado sólido de Factorial Energy, de apenas 110 mm de grosor. PEUGEOT anuncia además 500 CV, hasta 600 km de autonomía y un consumo previsto de 11,5 kWh cada 100 km (WLTP, pendiente de confirmación).
 
-Lectura honesta: son **cifras declaradas para un concept, no cifras homologadas de un coche de producción**. La batería de estado sólido es una tecnología real en desarrollo, pero PEUGEOT no publica capacidad en kWh, ni número de motores, ni tracción, ni peso, ni prestaciones de aceleración o velocidad máxima. La plataforma STLA One, en la que se basa la arquitectura del concept, está pensada para soportar las tecnologías X-by-Wire y para facilitar la reutilización y el reciclaje de componentes, según la nota oficial.
+Lectura honesta: se trata de **cifras anunciadas para un concept, no de cifras de un coche de producción homologado**. La batería de estado sólido, eso sí, es una tecnología real en desarrollo. Y la plataforma STLA One, sobre la que se apoya la arquitectura del concept, está concebida para acoger las tecnologías X-by-Wire y para hacer más fácil reutilizar y reciclar componentes, según la nota oficial.
 
-## Qué significa para quien está pensando en comprar un PEUGEOT hoy
+## Si quieres un Peugeot hoy
 
-El RCZ Vision no se puede comprar ni reservar. Si te gusta lo que adelanta, lo tangible es esto:
-
-- El **Hypersquare** llegará a la próxima generación del E-208 (versión de producción confirmada por PEUGEOT, fecha a verificar).
-- El lenguaje **Feline Future** marcará los próximos modelos de la marca.
-- La tecnología **X-by-Wire** (dirección y freno por cable) y el i-Cockpit con pantallas Micro LED transparentes son la dirección del puesto de conducción de PEUGEOT.
-
-Mientras tanto, los PEUGEOT que sí puedes comprar y ver con ficha completa son otros. Dos ejemplos en vivo:
+El RCZ Vision no puede comprarse ni reservarse. Mientras tanto, hay PEUGEOT que sí puedes comprar y consultar con ficha completa. Dos ejemplos en vivo:
 
 - <a href=/coches/peugeot-2008-2024-precio-ficha-tecnica/>Peugeot 2008 2024: ficha técnica, 136 CV y 4,9 l/100 km</a>
 - <a href=/coches/peugeot-3008-hibrido-145-2026-precio-ficha-tecnica/>Peugeot 3008 Hybrid 145 2026: ficha técnica, 145 CV</a>
 - <a href=/fichas-tecnicas/>Todas las fichas técnicas de coches, motos y patinetes</a>
 
-## Preguntas frecuentes
+Y si te atrae lo que adelanta, lo tangible es esto: los próximos modelos de la marca llevarán el lenguaje **Feline Future**; el puesto de conducción de PEUGEOT seguirá el rumbo de la tecnología **X-by-Wire**, con dirección y freno, los dos por cable y del i-Cockpit con pantallas Micro LED transparentes; y la próxima generación del E-208 montará el **Hypersquare** (versión de producción confirmada por PEUGEOT, sin fecha aún).
 
-### ¿El Peugeot RCZ Vision está a la venta?
+## Dudas habituales
 
-No. Es un concept / manifiesto de marca presentado el 11 de octubre de 2026 en «The Night Before», en la víspera del Salón del Automóvil de París. PEUGEOT no ha anunciado precio, fecha de venta ni versión de producción.
+### ¿Se puede comprar el RCZ Vision?
 
-### ¿Cuántos caballos y cuánta autonomía tiene el RCZ Vision?
+No. Es un concept / manifiesto de marca desvelado en «The Night Before» el 11 de octubre de 2026, en la víspera del certamen parisino. PEUGEOT no ha difundido ni precio, ni fecha de venta, ni versión de producción.
 
-PEUGEOT declara 500 CV (≈ 368 kW) y hasta 600 km de autonomía para el concept, con un consumo objetivo de 11,5 kWh/100 km en ciclo WLTP combinado, cifra pendiente de confirmación según la propia nota oficial. Son cifras declaradas para un concept, no datos homologados de un coche de producción.
+### ¿Potencia y autonomía?
 
-### ¿Qué es el Hypersquare del RCZ Vision?
+Para el concept, PEUGEOT anuncia 500 CV (≈ 368 kW) con hasta 600 km de autonomía, con un consumo previsto de 11,5 kWh cada 100 km en ciclo WLTP combinado, una cifra aún pendiente de confirmación, según dice la propia nota oficial. Hablamos de cifras anunciadas para un concept, no datos de un coche de producción homologado.
 
-Es el mando rectangular que sustituye al volante, con las funciones principales en sus cuatro anillos. Funciona con steer-by-wire (sin conexión mecánica con las ruedas) y gira ligeramente menos de una vuelta completa de tope a tope. La versión de producción de Hypersquare llegará a la próxima generación del PEUGEOT E-208, según la nota oficial.
+### ¿Qué es el Hypersquare?
 
-### ¿Qué es la batería de estado sólido del RCZ Vision?
+Un mando rectangular que reemplaza al volante y concentra los mandos principales en sus cuatro anillos, al alcance de los dedos. Opera mediante steer-by-wire, sin unión mecánica con las ruedas, y de tope a tope gira algo menos de una vuelta completa. Según la nota oficial, la próxima generación del PEUGEOT E-208 montará su versión de producción.
 
-Una batería con celdas de estado sólido desarrolladas con Factorial Energy, de solo 110 mm de grosor, sobre arquitectura de 1.000 V. PEUGEOT declara carga del 10 al 80% en 10 minutos. PEUGEOT no publica su capacidad en kWh, ni el número de motores ni la tracción.
+### ¿Y la batería de estado sólido?
 
-### ¿El RCZ Vision llegará a producción?
+Celdas de estado sólido de Factorial Energy, de apenas 110 mm de grosor, en una arquitectura de 1.000 V. PEUGEOT anuncia pasar del 10 al 80% en 10 minutos. Su capacidad en kWh, su número de motores y su tracción no los difunde PEUGEOT.
 
-PEUGEOT no ha confirmado ninguna versión de producción del RCZ Vision. Lo que sí llegará a serie son tecnologías y rasgos que adelanta: el Hypersquare en el próximo E-208, el lenguaje de diseño «Feline Future» y la evolución del i-Cockpit.
+### ¿Llegará a producción?
 
-### ¿Qué tiene que ver el RCZ Vision con el RCZ original?
+Ninguna versión de producción del RCZ Vision la ha confirmado PEUGEOT. A la serie sí pasarán tecnologías y rasgos que adelanta. Empieza por el Hypersquare en el próximo E-208, sigue por el lenguaje de diseño «Feline Future» y por la evolución del i-Cockpit.
 
-Es su sucesor conceptual: recupera el nombre y los rasgos icónicos del cupé RCZ (2009–2015) —techo de doble burbuja, alerón activo, detalles triangulares en las llantas— reinterpretados con propulsión eléctrica, plataforma basada en STLA One y cabina de 4 plazas reales.
+### ¿Qué hereda del RCZ original?
+
+Su condición de heredero conceptual: nombre y rasgos icónicos del cupé RCZ (2009–2015), con techo de doble burbuja, alerón activo y detalles triangulares en las llantas, todo reinterpretado con propulsión eléctrica sobre la plataforma STLA One y con cabina de 4 plazas reales.
 
 **¿Te han multado?** Antes de pagar, <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con la IA</a> y comprueba si se puede recurrir.
 
-*Fuentes: <a href=https://www.media.stellantis.com/em-en/peugeot/press/peugeot-rcz-vision-emotion-at-the-heart-of-the-future-of-peugeot>nota oficial PEUGEOT / Stellantis Media (11/10/2026)</a>, <a href=https://www.media.stellantis.com/es-es/corporate/press/stellantis-presenta-seis-concept-cars-the-night-before-del-salon-del-automovil-de-paris>nota Stellantis «The Night Before»</a>.*`,
+*Fuentes: <a href=https://www.media.stellantis.com/em-en/peugeot/press/peugeot-rcz-vision-emotion-at-the-heart-of-the-future-of-peugeot>nota oficial PEUGEOT / Stellantis Media (11/10/2026)</a>, <a href=https://www.media.stellantis.com/es-es/corporate/press/stellantis-presenta-seis-concept-cars-the-night-before-del-salon-del-automovil-de-paris>nota Stellantis «The Night Before»</a>.*
+`,
   },
   {
     slug: "cuotas-hibridos-chinos-ue-china-2026",
@@ -6472,9 +6460,9 @@ Sin datos EuroNCAP. No hay prueba publicada para este modelo.
   },
   {
     slug: "ds-f3ver-concept-paris-2026",
-    title: "DS F3VER concept París 2026: 4,19 m y maletero de 400 litros",
+    title: "DS F3VER París 2026: concept eléctrico de 4,19 m",
     excerpt:
-      "El DS F3VER es el concept eléctrico con el que DS abre su nuevo capítulo de diseño en París 2026: 4,19 m, 400 litros de maletero, luz en Y y 16 paneles LED traseros. Sin precio ni fecha de venta.",
+      "El DS F3VER abre el nuevo diseño de DS en París 2026: 4,19 m, maletero de 400 litros, firma en Y y 16 paneles LED. Es un concept: sin precio ni fecha.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 8,
@@ -6488,15 +6476,15 @@ Sin datos EuroNCAP. No hay prueba publicada para este modelo.
     ],
     content: `<img src=/media/ds-f3ver-concept-paris-2026-hero.webp alt=DS F3VER Concept, frontal con emblema DS iluminado y firma luminosa en Y>
 
-*Foto: DS Automobiles (prensa) / MoparInsiders (distribución). Imagen de prensa distribuida por un medio tercero; no es una foto descargada del media site oficial de Stellantis/DS. Licencia desconocida.*
+*Crédito: imagen de prensa de DS Automobiles difundida por MoparInsiders; no procede de la web oficial de prensa de Stellantis/DS y su licencia no está confirmada.*
 
-El DS F3VER es el concept car con el que DS Automobiles abrió su nuevo capítulo de diseño en el Salón del Automóvil de París 2026. No es un coche que se pueda comprar, ni tiene precio, ni fecha de llegada a los concesionarios: es un laboratorio de diseño a escala real que explora tres ideas — que resulte deseable, que se pueda personalizar mucho y que sirva para el día a día.
+El DS F3VER es el prototipo con el que DS Automobiles estrenó su nueva etapa de diseño en la muestra parisina de 2026. No se puede encargar en un concesionario, no tiene tarifa y no hay fecha para verlo a la venta: es un ejercicio de diseño a tamaño real que gira en torno a tres propósitos —resultar atractivo, admitir una personalización amplia y acompañar en la vida cotidiana.
 
-Se presentó el **11 de octubre de 2026** en «The Night Before», el evento previo de Stellantis en el Hangar Y de París, junto a otros cinco concepts del grupo (<a href=/blog/alfa-romeo-cuorerosso-concept-salon-paris-2026/>Alfa Romeo Cuorerosso</a>, <a href=/blog/citroen-2cv-electrico-2026-paris/>Citroën 2 CV Concept</a>, <a href=/blog/fiat-multiplay-concept-paris-2026/>FIAT Multiplay</a>, <a href=/blog/opel-stx-concept-paris-2026/>Opel STX Concept</a> y <a href=/blog/peugeot-rcz-vision-concept-paris-2026/>PEUGEOT RCZ Vision</a>). Después se expuso en el stand de DS dentro del Salón de París, celebrado del 12 al 18 de octubre de 2026.
+La puesta de largo llegó el 11 de octubre de 2026 durante la velada «The Night Before», el acto previo de Stellantis celebrado en el Hangar Y de París, donde compartió foco con otros cinco prototipos del grupo (<a href=/blog/alfa-romeo-cuorerosso-concept-salon-paris-2026/>Alfa Romeo Cuorerosso</a>, <a href=/blog/citroen-2cv-electrico-2026-paris/>Citroën 2 CV Concept</a>, <a href=/blog/fiat-multiplay-concept-paris-2026/>FIAT Multiplay</a>, <a href=/blog/opel-stx-concept-paris-2026/>Opel STX Concept</a> y <a href=/blog/peugeot-rcz-vision-concept-paris-2026/>PEUGEOT RCZ Vision</a>). Más tarde ocupó el espacio de DS en el salón parisino, abierto entre el 12 y el 18 de octubre de 2026.
 
-> **Qué es y qué no es:** el F3VER es un **concept eléctrico de diseño**. DS lo define como una nueva expresión de diseño y un laboratorio, no como un modelo de serie. Todo lo que se diga de un futuro DS de producción a partir de él es interpretación de la prensa, no un anuncio oficial de DS.
+> **Para situarlo:** el F3VER es un prototipo eléctrico de diseño. DS lo presenta como una nueva expresión de su diseño y como un laboratorio, no como un coche de serie. Cualquier futuro DS de producción que se derive de él es, por ahora, lectura de la prensa, no un anuncio de la marca.
 
-## Lo que DS sí ha confirmado (datos oficiales)
+## Los datos que DS sí ha hecho públicos
 
 | Dato | Valor oficial |
 |---|---|
@@ -6518,31 +6506,27 @@ Se presentó el **11 de octubre de 2026** en «The Night Before», el evento pre
 | Autonomía | DS habla de «autonomía eléctrica líder en su categoría» **sin dar ninguna cifra** |
 | Nombre | F3VER = «fiebre»: la reacción positiva que DS quiere provocar |
 
-## Diseño exterior: lo que se ve
+## El frontal y la zaga: luz como seña de identidad
 
-### Frontal: el «tótem» y la Y
+Delante, todo gira en torno a un tótem vertical luminoso que porta el emblema DS, acompañado por la nueva firma en forma de Y en vertical, pensada para identificar al coche tanto con luz diurna como de noche. Faro y luz de día quedan unidos en una única firma continua, uno de los gestos visibles de la filosofía «Design Intelligence».
 
-El frontal se organiza alrededor de un elemento vertical iluminado que lleva el emblema DS. A su lado, la nueva firma luminosa en forma de **Y vertical** busca que el coche se reconozca de día y de noche. El conjunto de faro + luz diurna va integrado en una sola firma continua, una de las aplicaciones visibles de la filosofía «Design Intelligence».
+Detrás vuelve el eje vertical, con el emblema DS retroiluminado y digitalizado sobre el paragolpes. Los pilotos traseros suman 16 paneles LED montados sobre una estructura de magnesio muy ligera, cuya inspiración es la cubierta del Grand Palais parisino. El resultado persigue la sensación de un túnel luminoso que se adentra en el coche.
 
-### Trasera: túnel de luz de 16 paneles
+La zaga, además, suma animaciones lumínicas con tres misiones declaradas por DS: dejar que cada usuario le ponga su iluminación, facilitar un diálogo intuitivo entre el vehículo y lo que le rodea, y comunicar información de manera clara y al instante. Aquí la luz actúa como un lenguaje, no como un simple adorno.
 
-La zaga repite el elemento vertical central, con el emblema DS iluminado y digitalizado en el centro del paragolpes. Los pilotos traseros forman 16 paneles LED sobre una estructura ultraligera de magnesio inspirada en la cubierta del Grand Palais. El efecto buscado es el de un túnel de luz que parece prolongarse hacia dentro.
+## Personalizarlo por zonas: techo, bitono y color
 
-Además, la parte trasera integra **animaciones de luz** con tres funciones declaradas por DS: personalizar el coche con iluminación propia, crear interacción intuitiva entre el coche y su entorno, y transmitir información de forma clara e inmediata. La luz, en este concept, funciona como lenguaje, no solo como adorno.
-
-### Personalización: techo, bitono y color
-
-El F3VER propone personalizar alrededor de tres zonas: el color de la carrocería, el contorno del techo panorámico y la parte trasera. En el prototipo, el techo lleva un contorno personalizable, la carrocería es bitono con la línea de separación extendida a los laterales, el portón y el paragolpes, y el color es el Cosmic Blue dicróico ya descrito. Las llantas añaden detalles en champán con grabado Clous de Paris.
+El prototipo plantea la personalización en tres ámbitos: la pintura, el cerco del techo panorámico y la zona posterior. En el ejemplar de salón, el techo luce un contorno a medida, la carrocería combina dos tonos con la divisoria prolongada hacia los costados, el portón y el paragolpes; la pintura es el Cosmic Blue dicróico ya mencionado, que bascula entre un azul intenso y un violeta oscuro según cómo le dé la luz. Las llantas completan el conjunto con toques champán y grabado Clous de Paris.
 
 <img src=/media/ds-f3ver-concept-paris-2026-perfil.webp alt=DS F3VER de perfil, color Cosmic Blue, contorno de techo champán y llantas geométricas>
 
-### «Design Intelligence»: menos piezas, misma identidad
+## «Design Intelligence»: identidad con menos piezas
 
-La filosofía que DS estrena con este concept busca crear «unicidad con menos»: reducir el número de componentes, aligerar la arquitectura, optimizar la aerodinámica y mejorar la calidad percibida con superficies más refinadas y menos elementos visibles. En el F3VER se traduce en: firma luminosa delantera continua (faro + luz diurna), paragolpes de una sola pieza y eliminación de elementos innecesarios alrededor de los pasos de rueda y la parte baja de la carrocería.
+La idea que DS inaugura con este prototipo se resume en lograr singularidad restando: menos componentes, una arquitectura más ligera, una aerodinámica más trabajada y una mayor sensación de calidad gracias a superficies más cuidadas y menos elementos a la vista. En el F3VER eso se concreta en la firma delantera continua (faro más luz diurna), un paragolpes de una sola pieza y la supresión de piezas superfluas en torno a los pasos de rueda y la zona baja de la carrocería.
 
-DS también indica que el diseño usó herramientas digitales e inteligencia artificial desarrolladas por Stellantis para explorar y evaluar propuestas más rápido, y que la IA no sustituye a la creatividad sino que amplía el campo de exploración.
+DS añade que el diseño se apoyó en herramientas digitales y en inteligencia artificial propia de Stellantis para explorar y valorar propuestas con más rapidez, y que esa IA no reemplaza la creatividad, sino que abre más campo para explorarla.
 
-## Tamaño real: compacto por fuera, aprovechado por dentro
+## Medidas: compacto fuera, generoso dentro
 
 | Medida | DS F3VER (concept, oficial) | DS 3 actual (referencia, web oficial DS España) |
 |---|---|---|
@@ -6551,25 +6535,25 @@ DS también indica que el diseño usó herramientas digitales e inteligencia art
 | Altura | 1,46 m | 1,536 m |
 | Maletero | 400 litros | 350 l (1.050 l con respaldos abatidos) |
 
-Lectura: el F3VER es 72 mm más largo, unos 49 mm más ancho y 76 mm más bajo que un DS 3 actual, y declara 50 litros más de maletero. DS insiste en que la distancia entre ejes es generosa (2,70 m) y en que el espacio interior es «líder en su categoría».
+Puesto al lado del DS 3, el prototipo crece 72 mm a lo largo, gana unos 49 mm a lo ancho y pierde 76 mm de altura, mientras su maletero anuncia 50 litros más. DS subraya además que la distancia entre ejes es amplia (2,70 m) y que el hueco interior aspira a ser «líder en su categoría».
 
-## Qué podría llegar a serie — y qué es solo interpretación
+## Lo que podría heredar un DS de calle, y lo que es solo prensa
 
-Aquí hay que separar con cuidado lo oficial de lo que la prensa deduce:
+Conviene distinguir con nitidez lo confirmado de lo deducido:
 
-**Oficial (DS):** el F3VER «informará a los futuros diseños de la marca» y explora hacia dónde quiere llevar DS su diseño: más distintivo, más deseable y más atrevido. DS no anuncia en su nota ningún modelo de serie derivado, ni fecha, ni fábrica, ni plataforma.
+**Confirmado por DS:** el F3VER servirá de referencia para los próximos diseños de la marca y señala el rumbo que DS busca: más reconocible, más deseable y más atrevido. En su comunicado, DS no presenta ningún modelo de serie derivado, ni calendario, ni planta, ni plataforma.
 
-**Interpretación de la prensa — NO presentarla como anuncio oficial:**
+**Lectura de la prensa — que no debe presentarse como anuncio oficial:**
 
-- Varios medios especializados leen el F3VER como anticipo del futuro **DS Nº 3** (sucesor del DS 3), con llegada hacia 2028.
-- Algunas informaciones añaden que ese futuro modelo compartiría base técnica con el próximo Peugeot E-208 y se fabricaría en España, en Figueruelas (Zaragoza).
-- Otras mencionan arquitectura STLA de Stellantis y motor eléctrico delantero.
+- Parte de la prensa especializada ve en el F3VER un adelanto del próximo **DS Nº 3**, el relevo del DS 3, que podría llegar en torno a 2028.
+- Otros medios señalan que ese hipotético modelo usaría la misma base que el próximo Peugeot E-208 y se montaría en Figueruelas (Zaragoza).
+- Otras citan arquitectura STLA de Stellantis y un motor eléctrico delantero.
 
-**Ninguno de esos tres puntos (Nº 3 / 2028 / Figueruelas / STLA / motor delantero) está en la nota oficial DS del F3VER.** Se recogen como «lo que la prensa interpreta», no como hechos.
+**Ninguno de esos elementos (Nº 3, 2028, Figueruelas, STLA, motor delantero) figura en el comunicado oficial de DS sobre el F3VER.** Hay que leerlos como conjeturas de la prensa, no como datos confirmados.
 
-Lo que sí parece razonable deducir del propio concept, sin inventar: los elementos con más papeletas para llegar a un DS de serie son el lenguaje de luz (Y vertical + tótem central), la personalización por zonas (techo, bitono, animaciones) y la simplificación constructiva («Design Intelligence»). Las soluciones más de salón — como el túnel de luz de 16 paneles en magnesio o el Cosmic Blue dicróico tal cual — pueden llegar adaptadas, recortadas o no llegar.
+Lo que sí cabe esperar del propio prototipo, sin inventar nada: los elementos con más opciones de verse en un DS de calle son el idioma de la luz (Y vertical junto al tótem central), la personalización por áreas (techo, dos tonos, animaciones) y la construcción simplificada («Design Intelligence»). Las ideas más de escaparate —el túnel luminoso de 16 paneles sobre magnesio o el Cosmic Blue dicróico sin cambios— podrían aterrizar adaptadas, recortadas o no aterrizar.
 
-## Lo que DS NO ha publicado (y no hay que inventar)
+## Lo que DS no ha desvelado (y no conviene inventar)
 
 | Dato | Estado |
 |---|---|
@@ -6586,50 +6570,50 @@ Lo que sí parece razonable deducir del propio concept, sin inventar: los elemen
 | EuroNCAP | Sin datos (concept, sin prueba) — nunca inventar estrellas |
 | Garantía / mantenimiento | Sin datos (concept, sin versión comercial) |
 
-## Los otros cinco concepts de «The Night Before»
+## Aquella noche hubo seis prototipos, no uno
 
-El F3VER no se presentó solo. En la misma noche Stellantis mostró: <a href=/blog/alfa-romeo-cuorerosso-concept-salon-paris-2026/>Alfa Romeo Cuorerosso</a>, <a href=/blog/citroen-2cv-electrico-2026-paris/>Citroën 2 CV Concept</a>, <a href=/blog/fiat-multiplay-concept-paris-2026/>FIAT Multiplay</a>, <a href=/blog/opel-stx-concept-paris-2026/>Opel STX Concept</a> y <a href=/blog/peugeot-rcz-vision-concept-paris-2026/>PEUGEOT RCZ Vision</a>. En total, el grupo anunció para el Salón más de 60 vehículos expuestos, nueve prototipos, ocho marcas y seis estrenos.
+Aquella noche no estuvo solo: junto al F3VER, Stellantis desveló otros cinco prototipos —<a href=/blog/alfa-romeo-cuorerosso-concept-salon-paris-2026/>Alfa Romeo Cuorerosso</a>, <a href=/blog/citroen-2cv-electrico-2026-paris/>Citroën 2 CV Concept</a>, <a href=/blog/fiat-multiplay-concept-paris-2026/>FIAT Multiplay</a>, <a href=/blog/opel-stx-concept-paris-2026/>Opel STX Concept</a> y <a href=/blog/peugeot-rcz-vision-concept-paris-2026/>PEUGEOT RCZ Vision</a>—. En conjunto, el grupo llevó al salón más de 60 vehículos, ocho marcas, nueve prototipos y seis estrenos.
 
-## Para entender el F3VER en la gama DS
+## Dónde encaja en la gama DS
 
-La gama DS actual que la propia marca cita en su nota está formada por DS 3, N.º 4, N.º 7 y N.º 8. El F3VER dialoga sobre todo con el DS 3: mismo territorio de coche compacto premium, pero con una silueta más baja y tensa, sin la altura de crossover del DS 3 actual. Si te interesa un DS que sí se puede comprar hoy, la referencia natural es el <a href=/coches/ds-3-2025-precio-ficha-tecnica/>DS 3</a>; también puedes ver el <a href=/coches/ds-n4-e-tense-213-2026-precio-ficha-tecnica/>DS N.º 4</a>, el <a href=/coches/ds-7-2025-precio-ficha-tecnica/>DS 7</a> y el <a href=/coches/ds-n8-2025-precio-ficha-tecnica/>DS N.º 8</a>. Si te interesa hacia dónde va la marca, el F3VER es la pista más reciente.
+En su comunicado, la marca cita como gama actual cuatro modelos: el DS 3, el N.º 4, el N.º 7 y el N.º 8. El F3VER tiene su interlocutor principal en el primero: comparte su espacio de compacto premium, pero dibuja un perfil más bajo y afilado, sin la altura de crossover que tiene hoy el DS 3. Si buscas un DS que sí puedas comprar ahora, la referencia lógica es el <a href=/coches/ds-3-2025-precio-ficha-tecnica/>DS 3</a>; también puedes mirar el <a href=/coches/ds-n4-e-tense-213-2026-precio-ficha-tecnica/>DS N.º 4</a>, el <a href=/coches/ds-7-2025-precio-ficha-tecnica/>DS 7</a> y el <a href=/coches/ds-n8-2025-precio-ficha-tecnica/>DS N.º 8</a>. Si lo que te interesa es el rumbo de la marca, el F3VER es la muestra más actual.
 
 ## Preguntas frecuentes
 
-### ¿Qué es el DS F3VER?
+### ¿Qué es exactamente el DS F3VER?
 
-Es un concept car eléctrico de diseño presentado por DS Automobiles en el Salón del Automóvil de París 2026. Es un laboratorio de diseño a escala real, no un modelo de serie: explora deseabilidad, personalización y libertad de uso diario.
+Un prototipo eléctrico de diseño que DS Automobiles llevó a la muestra parisina de 2026. Funciona como laboratorio de diseño a tamaño real, no como modelo de serie: explora atractivo, personalización y libertad de uso diario.
 
-### ¿Cuánto mide el DS F3VER?
+### ¿Qué tamaño tiene el F3VER?
 
-Según la nota oficial DS: 4,19 m de largo, 1,84 m de ancho y 1,46 m de alto, con un maletero de 400 litros y batalla de 2,70 m.
+4,19 metros de largo, 1,84 de ancho y 1,46 de alto; maletero de 400 litros y 2,70 metros entre ejes, según el comunicado oficial de DS.
 
-### ¿El DS F3VER tiene precio o fecha de venta?
+### ¿Se sabe su precio o cuándo saldrá?
 
-No. DS no ha publicado precio, fecha de venta ni versión de serie del F3VER. Que la prensa lo lea como anticipo de un futuro DS Nº 3 es una interpretación, no un anuncio oficial de DS.
+No. Ni tarifa, ni fecha de salida, ni versión de serie: DS no ha comunicado nada de eso sobre el F3VER. Que parte de la prensa lo vea como adelanto del próximo DS Nº 3 es solo una lectura, no un anuncio oficial de la marca.
 
-### ¿Qué autonomía tiene el DS F3VER?
+### ¿Hay alguna cifra oficial de autonomía?
 
-DS afirma que apunta a una autonomía eléctrica «líder en su categoría», pero no ha dado ninguna cifra de km, ni de batería (kWh), ni de potencia, ni de carga. No hay que tomar ninguna cifra de autonomía que circule sin fuente oficial como dato del F3VER.
+No hay kilómetros, ni kWh de batería, ni potencia, ni tiempos de carga. DS solo habla de una autonomía eléctrica que aspira a encabezar su categoría, sin dar números. Y ninguna cifra que circule sin respaldo oficial debe tomarse como dato del F3VER.
 
-### ¿Qué adelanta el DS F3VER para los futuros DS?
+### ¿Qué ideas suyas veremos en DS de calle?
 
-Su lenguaje de luz (Y vertical y elemento central con el emblema), la personalización por zonas (techo, bitono, animaciones de luz) y la filosofía «Design Intelligence» (menos componentes, líneas más puras). DS dice que informará a sus futuros diseños.
+Su idioma lumínico (la Y vertical junto al elemento central del emblema), la personalización por áreas (techo, dos tonos, animaciones lumínicas) y la filosofía «Design Intelligence» (menos piezas, líneas más limpias). DS señala que servirá de referencia para sus próximos diseños.
 
-### ¿Se puede comprar el DS F3VER o reservarlo?
+### ¿Puedo encargar ya un F3VER?
 
-No. Es un concept de salón, sin versión comercial. Si buscas un DS compacto comprable hoy, la referencia es el DS 3; el F3VER solo muestra hacia dónde puede ir el diseño de la marca.
+No. Es un prototipo de salón sin versión a la venta. Si quieres un DS compacto que puedas comprar hoy, mira el DS 3; el F3VER solo anticipa por dónde puede evolucionar el diseño de la marca.
 
 **¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.
 
-
-*Fuentes: <a href=https://www.media.stellantis.com/uk-en/ds/press/a-new-design-expression-ds-automobiles-f3ver-concept1>nota oficial DS / Stellantis Media (11/10/2026)</a>, <a href=https://www.media.stellantis.com/es-es/corporate/press/stellantis-presenta-seis-concept-cars-the-night-before-del-salon-del-automovil-de-paris>nota Stellantis «The Night Before»</a>, <a href=https://dsautomobiles.es/modelos/ds3/hybrid.html>DS 3 en la web oficial DS España (referencia)</a>.*`,
+*Fuentes: <a href=https://www.media.stellantis.com/uk-en/ds/press/a-new-design-expression-ds-automobiles-f3ver-concept1>nota oficial DS / Stellantis Media (11/10/2026)</a>, <a href=https://www.media.stellantis.com/es-es/corporate/press/stellantis-presenta-seis-concept-cars-the-night-before-del-salon-del-automovil-de-paris>nota Stellantis «The Night Before»</a>, <a href=https://dsautomobiles.es/modelos/ds3/hybrid.html>DS 3 en la web oficial DS España (referencia)</a>.*
+`,
   },
   {
     slug: "fiat-multiplay-concept-paris-2026",
-    title: "FIAT Multiplay: concept 3 en 1 de 4,45 m en París 2026",
+    title: "FIAT Multiplay: el concept 3 en 1 de París 2026",
     excerpt:
-      "El FIAT Multiplay es un concept 3 en 1 de 4,45 m: familiar 6+1 que se transforma en pick-up de 4 plazas con la arquitectura Metamorfosi. Laboratorio de ideas, no coche de serie.",
+      "FIAT Multiplay, concept 3 en 1 de 4,45 m de París 2026: de familiar 6+1 a pick-up de 4 plazas con Metamorfosi. No es modelo de serie.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 7,
@@ -6643,17 +6627,17 @@ No. Es un concept de salón, sin versión comercial. Si buscas un DS compacto co
     ],
     content: `<img src=/media/fiat-multiplay-concept-paris-2026-hero.webp alt=FIAT Multiplay Concept, frontal tres cuartos en verde sandía con parrilla pixelada>
 
-*Foto: FIAT (prensa) / designboom (distribución). La página de origen indica «all images courtesy of Fiat». Imagen de prensa distribuida por un medio tercero; no es una foto descargada del media site oficial de Stellantis/FIAT. Licencia desconocida.*
+Imagen: material de prensa de FIAT difundido por designboom. La página de origen reconoce la cortesía de Fiat en todas las imágenes. Se trata de una imagen de prensa que difundió un medio tercero, sin descarga desde el portal oficial de medios de Stellantis/FIAT, y sin licencia confirmada.
 
-## Qué es el FIAT Multiplay
+## Un solo coche para tres usos
 
-El FIAT Multiplay es un concept car presentado por FIAT en «The Night Before», el evento de Stellantis en la víspera del Salón del Automóvil de París 2026, celebrado en el Hangar Y de París el 11 de octubre de 2026. Lo presentaron Olivier François (Company Strategic Advisor de Stellantis) y Arnaud Belloni (CEO de FIAT, Abarth y Lancia y Chief Marketing Officer para Europa). En la presentación, François entregó simbólicamente las llaves a Belloni.
+FIAT presentó el Multiplay el 11 de octubre de 2026, en el Hangar Y parisino, dentro de «The Night Before», la velada de Stellantis previa al Salón de París 2026. Presentaron el concept Olivier François y Arnaud Belloni. François es Company Strategic Advisor de Stellantis; Belloni, CEO de FIAT, Abarth y Lancia, además de Chief Marketing Officer para Europa. En el acto, François pasó simbólicamente las llaves a Belloni.
 
-La idea central es sencilla y ambiciosa a la vez: un solo vehículo que cambia de forma según lo que necesite la familia ese día. FIAT lo define como un vehículo 3 en 1: combina el espacio de un monovolumen, el carácter de un SUV y la funcionalidad de un pick-up, en 4,45 metros de longitud.
+Un único coche capaz de cambiar de forma en función de lo que la familia necesite cada día: esa es la idea central, sencilla y ambiciosa a la vez. Según FIAT, es un 3 en 1: reúne espacio de monovolumen, carácter de SUV y funcionalidad de pick-up, todo en 4,45 metros.
 
-Y aquí va el aviso importante, tal cual lo dice FIAT: **el Multiplay es un laboratorio de ideas para futuras innovaciones de la marca y NO es el anticipo de un modelo de producción específico.** No hay precio, ni motor, ni fecha de llegada anunciados. Todo lo que sigue es lo que FIAT ha mostrado del concept, no la ficha de un coche que puedas comprar.
+Aviso importante, en palabras de FIAT: el Multiplay funciona como laboratorio de ideas para innovaciones futuras de la marca, no como anticipo de un modelo de producción concreto. Ni precio, ni motor, ni fecha de llegada están anunciados. Lo que viene a continuación es lo mostrado por FIAT sobre el concept, no la ficha de un coche comprable.
 
-## Lo que FIAT sí ha confirmado: datos reales verificables
+## Datos que FIAT sí ha confirmado
 
 | Dato | Valor confirmado por FIAT / Stellantis |
 |---|---|
@@ -6678,40 +6662,40 @@ Y aquí va el aviso importante, tal cual lo dice FIAT: **el Multiplay es un labo
 | Inspiración / herencia | FIAT 600 Multipla (1956) y FIAT Multipla (1998) |
 | ¿Modelo de serie? | NO: laboratorio de ideas, no anticipo de un modelo de producción específico |
 
-## Cómo se transforma: la arquitectura «Metamorfosi»
+## Cómo cambia de forma
 
-La clave del Multiplay está en el pilar C, bautizado «Metamorfosi». Un módulo trasero se desplaza sobre guías longitudinales y el vehículo pasa, en unos pocos movimientos según FIAT, de familiar cerrado a pick-up abierto.
+La clave está en el pilar C, llamado «Metamorfosi»: un módulo trasero que se desliza por guías longitudinales permite pasar, con pocos movimientos —así lo describe FIAT—, de un familiar cerrado a un pick-up abierto.
 
-- **Modo familiar (6+1):** seis plazas más el «Petsenger seat». La zona trasera está pensada como zona familiar propia: los niños tienen su espacio y quedan al alcance y a la vista de los padres.
-- **Modo pick-up (4 plazas):** la parte trasera se abre y deja una caja para bicicletas, material deportivo y de exterior y objetos voluminosos. La capacidad de carga se convierte, en palabras de FIAT, en una función que se activa cuando hace falta.
+- **Familiar con 6+1:** seis plazas y el «Petsenger seat» añadido. La parte de atrás funciona como zona familiar propia, con los niños con su espacio, siempre al alcance visual de los padres.
+- **Pick-up de 4 plazas:** al abrirse la parte trasera, queda una caja donde caben bicicletas, equipo deportivo y de exterior, y bultos voluminosos. FIAT describe esa capacidad de carga como una función activable cuando hace falta.
 
-El mismo principio de «una pieza, dos usos» se aplica al alerón trasero: gira y se convierte en portabicicletas integrado para hasta 2 bicicletas en modo pick-up, sin accesorio exterior dedicado.
+El alerón trasero también tiene dos usos: al girar, hace de portabicicletas integrado, para un máximo de 2 bicicletas cuando va en modo pick-up, sin necesidad de un accesorio exterior dedicado.
 
 <img src=/media/fiat-multiplay-concept-paris-2026-pickup-perfil.webp alt=FIAT Multiplay en modo pick-up, perfil con caja trasera abierta y módulo Metamorfosi deslizado>
 
-## Por dentro: Petsenger seat, Sunseat y vida familiar
+## Dentro: mascotas, niños y descanso
 
-El 6+1 del Multiplay evoluciona la filosofía de seis plazas del Multipla. El «Petsenger seat» es una unidad modular que puede ser anclaje para silla infantil, espacio dedicado para una mascota, mesita o portaobjetos, según el viaje y los ocupantes.
+El 6+1 del Multiplay retoma la filosofía de seis plazas del Multipla, y la lleva más lejos. El «Petsenger seat» funciona como unidad modular: puede hacer de anclaje para silla infantil, de espacio para una mascota, de mesita o de portaobjetos, en función del viaje y de los ocupantes.
 
-Las soluciones para mascotas están integradas en los componentes: una sección exterior del cojín se separa y sirve como correa, y un compartimento en la puerta guarda un cuenco plegable. Bolsillos, bandas elásticas y elementos multifuncionales completan la organización.
+Las soluciones para mascotas van integradas en los componentes: una parte exterior del cojín se separa y hace de correa, y en la puerta hay un compartimento con un cuenco plegable. Bolsillos, bandas elásticas y piezas multifuncionales completan la organización.
 
-FIAT también ataca un compromiso clásico de los familiares: la tercera fila poco aprovechable. Según la marca, la arquitectura del Multiplay permite que el compartimento trasero acoja hasta dos niños e incluso un adulto cuando sea necesario.
+FIAT también resuelve un compromiso clásico de los familiares: una tercera fila poco aprovechable. La marca asegura que su arquitectura permite que la parte trasera acoja a dos niños, e incluso a un adulto, si hace falta.
 
-El «Sunseat» es el guiño más lúdico: el asiento del acompañante se transforma en una chaise longue tipo lounge para usar con el coche estacionado. Orientado hacia atrás, usa el salpicadero como respaldo y queda bajo el techo panorámico, como sitio para leer, relajarse o disfrutar del entorno.
+Lo más lúdico es el «Sunseat»: el asiento del acompañante se convierte en chaise longue tipo lounge, lista para usar con el coche parado. Girado hacia atrás, toma el salpicadero de respaldo y queda bajo el techo panorámico, ideal para leer, relajarse o disfrutar del paisaje.
 
-La pantalla oculta va en la misma línea: integrada en el salpicadero, desaparece cuando el coche está apagado y deja un entorno visualmente despejado. La tecnología se incorpora al diseño interior sin saturar el espacio.
+La pantalla oculta sigue esa línea: integrada en el salpicadero, se esconde con el coche apagado y deja despejado el entorno visual. La tecnología entra en el diseño interior sin saturar el espacio.
 
-## Diseño y materiales: el verano italiano
+## Color y materiales del verano italiano
 
-El color del Multiplay se inspira en la sandía y en el verano italiano. Carrocería verde brillante que recuerda a la corteza; interior en rojos y rosas que evocan el interior de la fruta; suelo rosa suave y degradado pixelado turquesa entre el «Petsenger seat» y la zona infantil.
+La sandía y el verano italiano inspiran el color del Multiplay. La carrocería, verde brillante, recuerda a la corteza; el interior, en rojos y rosas, evoca el interior de la fruta; el suelo es rosa suave y el degradado pixelado turquesa va del «Petsenger seat» a la zona infantil.
 
-En materiales, FIAT prioriza sencillez y funcionalidad: la mayoría de los componentes blandos usan tejido monomaterial con punto 3D sin costuras, que según la marca reduce residuos y crea superficies suaves y adaptables. En las zonas de niños y mascotas, los acabados impermeables también son monomaterial, pensados para el uso diario.
+FIAT apuesta por la sencillez y la funcionalidad en los materiales: casi todos los componentes blandos emplean tejido monomaterial con punto 3D sin costuras, una solución que, según la marca, recorta residuos y genera superficies suaves y adaptables. Para zonas infantiles y de mascotas, los acabados impermeables también recurren al monomaterial, pensados para el día a día.
 
-La franja horizontal del salpicadero se inspira en el horizonte mediterráneo, donde cielo y mar parecen fundirse. El diálogo entre colores exterior e interior reinterpreta la filosofía histórica de FIAT de llevar el color de la carrocería al interior.
+La franja horizontal del salpicadero toma como referencia ese horizonte mediterráneo en el que cielo y mar parecen fundirse. Ese diálogo entre el color exterior y el interior reinterpreta la filosofía histórica de FIAT: trasladar al interior el color de la carrocería.
 
-## Herencia Multipla: por qué se llama Multiplay
+## De Multipla a Multiplay
 
-El nombre es un juego con Multipla, y FIAT lo conecta explícitamente con dos proyectos:
+El nombre juega con Multipla, y FIAT lo vincula de forma explícita a dos proyectos:
 
 | Modelo | Año | Dato confirmado por FIAT |
 |---|---|---|
@@ -6719,71 +6703,70 @@ El nombre es un juego con Multipla, y FIAT lo conecta explícitamente con dos pr
 | FIAT Multipla | 1998 | Seis plazas en dos filas en un vehículo de menos de 4 m de largo |
 | FIAT Multiplay | 2026 (concept) | 4,45 m; 6+1 familiar o 4 plazas pick-up |
 
-El Multipla original exprimía un espacio fijo; el Multiplay quiere que el espacio cambie de forma según el día. Esa es la diferencia clave: no es un Multipla nuevo, es una exploración de cómo el espacio puede adaptarse.
+El Multipla original aprovechaba al máximo un espacio fijo; el Multiplay, en cambio, busca un espacio que cambie de forma según el día. Ahí está la diferencia clave: no se trata de un Multipla nuevo, sino de explorar cómo puede adaptarse el espacio.
 
-## Qué adelanta y qué podría llegar a serie
+## Lo que podría heredar la serie, y lo que no
 
-**INTERPRETACIÓN — no es un anuncio de FIAT.** FIAT dice que el Multiplay es un laboratorio de ideas, no el anticipo de un modelo concreto. Por tanto, nada de lo siguiente está confirmado como equipamiento de serie:
+Aclaración: lo que sigue es interpretación, no un anuncio de FIAT. La marca presenta el Multiplay como laboratorio de ideas, no como anticipo de un modelo concreto. Así que nada de lo que viene a continuación cuenta con confirmación como equipamiento de serie:
 
-- **Ideas que podrían filtrarse a futuros FIAT familiares:** arquitectura interior reconfigurable, asientos y componentes multifunción (tipo «Petsenger seat»), portabicicletas integrado sin accesorio externo, pantalla oculta / tecnología discreta, materiales monomaterial y punto 3D sin costuras, tercera fila más usable en coches compactos.
-- **Lo que NO hay que dar por hecho:** que vaya a existir un «Multiplay de producción», ni con qué motor, ni a qué precio, ni cuándo. FIAT no ha anunciado ninguno de esos datos.
-- **Contexto Stellantis:** el Multiplay se presentó junto a otros cinco concepts en «The Night Before» (<a href=/blog/alfa-romeo-cuorerosso-concept-salon-paris-2026/>Alfa Romeo Cuorerosso</a>, <a href=/blog/citroen-2cv-electrico-2026-paris/>Citroën 2 CV Concept</a>, <a href=/blog/ds-f3ver-concept-paris-2026/>DS F3VER</a>, <a href=/blog/opel-stx-concept-paris-2026/>Opel STX Concept</a> y <a href=/blog/peugeot-rcz-vision-concept-paris-2026/>PEUGEOT RCZ Vision</a>), dentro del plan FaSTLAne 2030 y con más de 50 productos lanzados hasta 2030 anunciados por Stellantis a nivel de grupo. Eso es contexto de grupo, no una promesa sobre el Multiplay.
+- **Qué podría llegar a los familiares venideros de FIAT:** un interior que se reconfigura, asientos y piezas con varios usos (al estilo del «Petsenger seat»), un portabicicletas integrado que no necesita accesorio externo, tecnología discreta con pantalla oculta, tejidos monomaterial con punto 3D sin costuras, y una tercera fila más aprovechable en coches compactos.
+- **Lo que NO cabe dar por hecho:** la existencia de un «Multiplay de producción», ni su motor, ni su precio, ni su fecha. De esos datos, FIAT no ha anunciado ninguno.
+- **Contexto Stellantis:** junto al Multiplay, en «The Night Before» se presentaron otros cinco concepts (<a href=/blog/alfa-romeo-cuorerosso-concept-salon-paris-2026/>Alfa Romeo Cuorerosso</a>, <a href=/blog/citroen-2cv-electrico-2026-paris/>Citroën 2 CV Concept</a>, <a href=/blog/ds-f3ver-concept-paris-2026/>DS F3VER</a>, <a href=/blog/opel-stx-concept-paris-2026/>Opel STX Concept</a> y <a href=/blog/peugeot-rcz-vision-concept-paris-2026/>PEUGEOT RCZ Vision</a>), en el marco del plan FaSTLAne 2030, y más de 50 lanzamientos hasta 2030 anunciados por Stellantis en todo el grupo. Se trata de contexto de grupo, no de una promesa sobre el Multiplay.
 
-Si FIAT anuncia más adelante un familiar inspirado en el Multiplay, este artículo se actualizará con los datos oficiales y con enlace a su ficha.
+Si más adelante FIAT anuncia un familiar inspirado en el Multiplay, actualizaremos este artículo con los datos oficiales y con un enlace a su ficha.
 
-## Qué NO es el Multiplay (para no confundir)
+## Para no confundir el concept
 
-- **No es un Multipla nuevo a la venta.** Es un concept.
-- **No tiene precio anunciado.** No pongas en el titular ni en la meta un precio: no existe.
-- **No tiene motor, potencia, autonomía, batería ni consumo anunciados.** FIAT no ha publicado ninguno de esos datos para el concept.
-- **No tiene dimensiones completas publicadas.** Solo la longitud: 4,45 m. Anchura, altura, batalla, peso y maletero: **no publicados por FIAT**.
-- **No tiene EuroNCAP, garantía ni mantenimiento.** Es un concept sin versión de serie; esos apartados no aplican y no se inventan.
+- **Venta, ninguna: se trata de un concept, no de un Multipla nuevo a la venta.**
+- **Precio, ninguno anunciado: ni en el titular ni en la meta cabe un precio, porque no existe.**
+- **Motor, potencia, autonomía, batería y consumo: ninguno anunciado por FIAT para el concept.**
+- **Dimensiones completas, tampoco: solo se conoce una medida: 4,45 m de longitud. Anchura, altura, batalla, peso y maletero siguen sin publicarse por FIAT.**
+- **Euro NCAP, garantía y mantenimiento: no aplican a un concept sin versión de serie, y no se inventan. Euro NCAP no evalúa prototipos sin versión de serie, así que el Multiplay no tiene valoración en estrellas.**
 
-## FIAT en vivo: si buscas un FIAT que sí puedes comprar
+## FIAT que sí puedes comprar hoy
 
-Mientras el Multiplay es solo un laboratorio de ideas, estos FIAT sí están en el comparador con ficha y precio:
+Mientras el Multiplay sigue siendo solo un laboratorio de ideas, estos FIAT ya figuran en el comparador con ficha y precio:
 
-- <a href=/coches/fiat-grande-panda-electrico-precio-ficha-tecnica/>Fiat Grande Panda eléctrico</a> — el urbano eléctrico de FIAT.
-- <a href=/coches/fiat-500e-2025-precio-ficha-tecnica/>Fiat 500e 2025</a> — el urbano eléctrico clásico de la marca.
+- <a href=/coches/fiat-grande-panda-electrico-precio-ficha-tecnica/>Fiat Grande Panda eléctrico</a> — un urbano eléctrico de la marca.
+- <a href=/coches/fiat-500e-2025-precio-ficha-tecnica/>Fiat 500e 2025</a> — el urbano eléctrico clásico de la firma.
 
-## Antes de recurrir, analiza tu multa
+## Revisa tu multa antes de pagar
 
 ¿Te ha llegado una multa y no sabes si puedes recurrirla? Antes de pagar, pásala por el analizador: <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis aquí</a>.
 
+## Preguntas habituales
 
-## Preguntas frecuentes
+### ¿Qué es, en realidad, el FIAT Multiplay?
 
-### ¿Qué es el FIAT Multiplay?
+Un coche concepto de FIAT que se presentó en «The Night Before», el 11 de octubre de 2026, la velada previa al Salón de París 2026. Es un 3 en 1 de 4,45 m: reúne monovolumen, SUV y pick-up, y su arquitectura «Metamorfosi» lo convierte de familiar 6+1 en pick-up de 4 plazas.
 
-Un concept car de FIAT presentado el 11 de octubre de 2026 en «The Night Before», en la víspera del Salón del Automóvil de París 2026. Es un vehículo 3 en 1 de 4,45 m que combina monovolumen, SUV y pick-up, con una arquitectura «Metamorfosi» que lo transforma de familiar 6+1 a pick-up de 4 plazas.
+### ¿Se venderá el FIAT Multiplay?
 
-### ¿El FIAT Multiplay se va a vender?
+Como modelo de producción, no está anunciado. FIAT lo presenta como laboratorio de ideas para innovaciones futuras de la marca, no como anticipo de un modelo de producción concreto. Ni precio, ni motor, ni fecha de llegada anunciadas.
 
-No está anunciado como modelo de producción. FIAT lo define como un laboratorio de ideas para futuras innovaciones de la marca, no como el anticipo de un modelo de producción específico. No hay precio, motor ni fecha de llegada.
+### ¿Qué longitud tiene el FIAT Multiplay?
 
-### ¿Cuánto mide el FIAT Multiplay?
+Mide 4,45 metros de longitud, según FIAT. Solo esa dimensión ha publicado la marca para el concept. De anchura, altura, batalla, peso y maletero no hay datos publicados.
 
-4,45 metros de longitud, según FIAT. Es la única dimensión publicada por la marca para el concept. Anchura, altura, batalla, peso y maletero no han sido publicados.
+### ¿Cómo se convierte de familiar en pick-up?
 
-### ¿Cómo pasa el Multiplay de familiar a pick-up?
+Gracias al pilar C, con su arquitectura «Metamorfosi»: un módulo trasero que se desliza por guías longitudinales permite pasar de un familiar cerrado 6+1 a un pick-up abierto de 4 plazas, con su caja. Al girar, el alerón trasero hace de portabicicletas integrado, para un máximo de 2 bicicletas cuando va en modo pick-up.
 
-Con la arquitectura «Metamorfosi» del pilar C: un módulo trasero se desliza longitudinalmente sobre guías y el vehículo pasa de familiar cerrado 6+1 a pick-up abierto de 4 plazas con caja. El alerón trasero gira y se convierte en portabicicletas integrado para hasta 2 bicicletas.
+### ¿Qué hacen el «Petsenger seat» y el «Sunseat»?
 
-### ¿Qué son el «Petsenger seat» y el «Sunseat»?
+Dicho asiento, el «Petsenger seat», funciona como unidad modular del Multiplay: puede hacer de anclaje para silla infantil, de espacio para una mascota, de mesita o de portaobjetos. El «Sunseat», por su parte, es el asiento del acompañante convertido en chaise longue tipo lounge, lista para usar con el coche parado, girado hacia atrás y bajo el techo panorámico.
 
-El «Petsenger seat» es una unidad modular del Multiplay que puede ser anclaje para silla infantil, espacio para mascota, mesita o portaobjetos. El «Sunseat» es el asiento del acompañante transformado en chaise longue tipo lounge para usar con el coche estacionado, orientado hacia atrás y bajo el techo panorámico.
+### ¿Tiene motor, precio o autonomía el FIAT Multiplay?
 
-### ¿Qué motor, precio o autonomía tiene el FIAT Multiplay?
-
-Ninguno anunciado. FIAT no ha publicado motor, potencia, batería, autonomía, consumo, precio, fecha de lanzamiento ni EuroNCAP para el Multiplay, porque es un concept y no un modelo de producción. Cualquier cifra de ese tipo que veas en otro sitio es inventada o especulación: no la damos por buena aquí.
+Ninguno anunciado. Ni motor, ni potencia, ni batería, ni autonomía, ni consumo, ni precio, ni fecha de lanzamiento, ni Euro NCAP ha publicado FIAT para el Multiplay, porque se trata de un concept y no de un modelo de producción. Si ves en otro sitio una cifra de ese tipo, es inventada o especulación: aquí no la damos por buena.
 
 *Fuentes: <a href=https://www.media.stellantis.com/em-en/fiat/press/fiat-multiplay-makes-his-debuts-in-paris-3-in-1-vehicle>nota oficial FIAT / Stellantis Media (11/10/2026)</a>, <a href=https://www.media.stellantis.com/es-es/corporate/press/stellantis-presenta-seis-concept-cars-the-night-before-del-salon-del-automovil-de-paris>nota Stellantis «The Night Before»</a>.*`,
   },
   {
     slug: "opel-stx-concept-paris-2026",
-    title: "Opel STX Concept: familiar eléctrico total y más de 200 km/h",
+    title: "Opel STX Concept: familiar eléctrico de más de 200 km/h",
     excerpt:
-      "El Opel STX Concept es la visión de Opel para el familiar eléctrico: tracción total, más de 200 km/h, nuevo Vizor y aerodinámica activa. Concept de París 2026, sin precio ni fecha de serie.",
+      "El STX Concept anticipa el familiar eléctrico de Opel: tracción total, más de 200 km/h y aerodinámica activa, sin precio ni fecha de serie.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 7,
@@ -6797,51 +6780,51 @@ Ninguno anunciado. FIAT no ha publicado motor, potencia, batería, autonomía, c
     ],
     content: `<img src=/media/opel-stx-concept-paris-2026-hero.webp alt=Opel STX Concept, frontal tres cuartos con Vizor de lamelas, Blitz iluminado y detalles azules>
 
-*Foto: Opel / Stellantis (prensa) / Carscoops (distribución). Imagen de prensa distribuida por un medio tercero; no es una foto descargada del media site oficial de Stellantis/Opel. Licencia desconocida.*
+*Crédito de la foto: material de prensa de Opel y Stellantis distribuido por Carscoops; no procede de una descarga directa del sitio oficial de medios de Stellantis u Opel. Licencia sin confirmar.*
 
-El Opel STX Concept es la visión de Opel para el familiar del futuro: un prototipo eléctrico, con tracción total y una velocidad máxima superior a 200 km/h, presentado en el Salón del Automóvil de París 2026. No es un coche a la venta ni un modelo de serie anunciado: es un estudio de diseño y de aerodinámica que adelanta cómo serán los próximos Opel por dentro y por fuera.
+El STX Concept de Opel es la apuesta de la marca por el familiar venidero: prototipo eléctrico de tracción total que supera los 200 km/h de velocidad máxima y que se presentó en París en 2026, en el Salón del Automóvil. No es un coche en venta ni un modelo de serie anunciado: se trata de un estudio de diseño y aerodinámica que anticipa el Opel venidero por dentro y por fuera.
 
-Su nombre lo resume. STX son las siglas de **Sports Tourer eXperimental Concept**: ST remite a los Sports Tourer de Opel y la X marca su carácter experimental. Opel lo presentó como su visión de los futuros familiares y como la siguiente etapa de su filosofía de diseño: más atrevido, más puro, más emocional y más eficiente.
+El nombre ya lo explica. STX corresponde a **Sports Tourer eXperimental Concept**: ST alude a los Sports Tourer de Opel; la X señala su carácter experimental. Opel lo mostró como su visión de los familiares venideros y como la etapa siguiente de su diseño: más atrevido, más puro y más emocional, además de más eficiente.
 
-## Qué es y dónde se presentó
+## Presentación en París 2026
 
-Opel desveló el STX Concept en el marco del Salón del Automóvil de París 2026 (Mondial de l'Auto, del 12 al 18 de octubre). El grupo Stellantis lo había adelantado la víspera, el 11 de octubre de 2026, en su evento «The Night Before» en el Hangar Y de París, junto a otros cinco concepts de Alfa Romeo, Citroën, DS Automobiles, FIAT y PEUGEOT. En el salón, Opel lo expuso en su stand A42 del pabellón 4, con conferencia de prensa el lunes 12 de octubre a las 11:00 CEST.
+Opel dio a conocer el STX Concept dentro del salón parisino de 2026 (Mondial de l'Auto, celebrado del 12 al 18 de octubre). Stellantis lo había anticipado el día anterior, 11 de octubre de 2026, en el evento «The Night Before» del Hangar Y de París, acompañado de otros cinco concepts: Alfa Romeo, Citroën y DS Automobiles, además de FIAT y PEUGEOT. Opel lo mostró en el salón, en el stand A42 del pabellón 4, con rueda de prensa programada a las 11:00 CEST del lunes día 12 de octubre.
 
-El contexto importa: Stellantis enmarcó los seis concepts en su plan estratégico FaSTLAne 2030 y en una presencia con más de 60 vehículos en el salón. El STX era la aportación de Opel a esa puesta en escena: el familiar eléctrico como formato con futuro, no como reliquia.
+Ese contexto ayuda a entenderlo: Stellantis situó los seis concepts dentro de su plan estratégico FaSTLAne 2030 y de una presencia con más de 60 vehículos expuestos en el salón. El STX era la contribución de Opel a esa puesta en escena: un familiar eléctrico entendido como formato con futuro, no como una reliquia.
 
-## Diseño: nuevo Vizor y Compass más marcado
+## Diseño: Vizor nuevo y Compass reforzado
 
-El STX Concept estrena la siguiente evolución del frontal Opel Vizor. A diferencia de muchos eléctricos actuales, que apuestan por un frontal ultrafino, el Vizor del STX es más alto y más prominente, en proporción con el tamaño del vehículo.
+El STX Concept inaugura la siguiente evolución del frontal Opel Vizor. Frente a muchos eléctricos actuales, que optan por frontales ultrafinos, el Vizor del STX resulta más alto y más prominente, acorde con el tamaño del vehículo.
 
-Los elementos confirmados por Opel:
+Los elementos que confirma Opel:
 
-- **Nueva firma luminosa:** láminas (lamelas) verticales inclinadas y precisas que delimitan el Vizor por fuera y se difuminan hacia el centro, con animaciones de luz en forma de láminas.
-- **Opel Compass más destacado:** el Blitz (rayo) iluminado de Opel sigue en el centro del Compass, y el pliegue característico del capó queda reforzado por el diseño frontal, afilado y deportivo.
-- **Trasera de caída pronunciada:** la zaga cae con fuerza y, según Opel, esa forma suma espacio en el maletero además de dar carácter al diseño. Detrás, el Compass es aún más preciso: ejes luminosos finos y la palabra OPEL iluminada en el centro.
-- **Pilotos traseros horizontales** a izquierda y derecha, que retoman el aspecto de láminas del frontal.
-- **Superficies enrasadas y precisas**, con aspecto técnico. Los pilares C destacan: unas tiras luminosas de cristal salen de la línea de ventanilla hacia atrás y continúan en el techo.
-- **Letras «STX» iluminadas** en los laterales, que se estrechan hacia el frontal.
-- **Cámaras en lugar de retrovisores:** unas cámaras geométricas, precisas y afiladas, en el lado del conductor y del acompañante.
-- **Color plata y azul**, silueta baja y aerodinámica, voladizos cortos y pasos de rueda anchos y marcados.
+- **Firma luminosa nueva:** láminas verticales inclinadas y precisas que acotan el Vizor por fuera y se desvanecen hacia el centro, con animaciones lumínicas en forma de láminas.
+- **Compass de Opel más destacado:** el Blitz iluminado (el rayo) de Opel continúa en el centro del Compass, con el pliegue del capó reforzado por un frontal afilado y deportivo.
+- **Zaga de caída pronunciada:** la parte trasera cae con fuerza y, en palabras de Opel, esa forma añade espacio para el maletero y carácter al diseño. Atrás, el Compass resulta aún más preciso: haces luminosos finos y OPEL iluminado en el centro.
+- **Pilotos horizontales traseros**, a izquierda y derecha, que recuperan el aspecto laminar del frontal.
+- **Superficies enrasadas, precisas** y de aspecto técnico. Los pilares C sobresalen: unas tiras luminosas de cristal parten de la ventanilla hacia atrás y siguen en el techo.
+- **Siglas «STX» iluminadas** en los laterales, que se afinan hacia el frontal.
+- **Cámaras en vez de espejos:** cámaras geométricas, precisas y afiladas, tanto en el lado del conductor como en el del acompañante.
+- **Plata y azul en la carrocería**, silueta baja y aerodinámica, con voladizos cortos y pasos de rueda anchos, muy marcados.
 
-El conjunto es deliberadamente escultural: Opel presenta el STX como una reinterpretación del familiar, con funcionalidad máxima y eficiencia, pero sin renunciar a la emoción.
+El conjunto busca deliberadamente lo escultural: Opel muestra el STX como una nueva lectura del familiar, con la máxima funcionalidad y eficiencia, pero sin perder la emoción.
 
 <img src=/media/opel-stx-concept-paris-2026-trasera.webp alt=Opel STX Concept, trasera tres cuartos con OPEL iluminado, pilotos horizontales y difusor azul extensible>
 
-## Aerodinámica: la otra mitad del proyecto
+## Eficiencia a alta velocidad: aerodinámica
 
-El STX Concept no es solo un ejercicio de estilo. Opel lo plantea como un familiar pensado para la eficiencia a alta velocidad, incluida la Autobahn alemana: menos consumo, más autonomía, estabilidad direccional y placer de conducción.
+El STX Concept no es únicamente un ejercicio de estilo. Opel lo concibe como un familiar orientado a rendir a alta velocidad, también en la Autobahn alemana: menor consumo, mayor autonomía, estabilidad direccional y placer al volante.
 
-Las soluciones confirmadas:
+Las soluciones que confirma Opel:
 
-- **Llantas de aleación de tres secciones**, optimizadas aerodinámicamente, con neumáticos **Goodyear 285/35 R22** (22 pulgadas).
-- **Sistema de aerodinámica activa** que se adapta de forma continua a la situación de conducción, con elementos móviles en la parte trasera que optimizan el flujo de aire, reducen la resistencia y mejoran la estabilidad.
-- **Difusores azules extensibles:** a la velocidad adecuada, unos difusores de color azul sobresalen por debajo de la parte trasera.
-- **Elementos verticales del parachoques** detrás de las ruedas, que se extienden lateralmente hacia atrás para apoyar la postura aerodinámica.
+- **Llantas de aleación en tres secciones**, optimizadas para la aerodinámica, con gomas **Goodyear 285/35 R22** de 22 pulgadas.
+- **Aerodinámica activa** que se adapta sin parar a la situación de conducción, con piezas móviles traseras que optimizan el flujo de aire, recortan la resistencia y mejoran la estabilidad general.
+- **Difusores azules extensibles:** cuando la velocidad lo pide, unos difusores de color azul emergen por debajo de la zaga.
+- **Elementos verticales del parachoques** tras las ruedas, que se despliegan lateralmente hacia atrás para favorecer la postura aerodinámica.
 
-Opel no ha publicado un coeficiente aerodinámico (Cx) del STX. Cualquier cifra de Cx que circule debe tratarse como a verificar, no como dato oficial.
+Opel no ha difundido ningún Cx del STX, así que cualquier cifra de Cx que circule debe tomarse como pendiente de verificación, no como dato oficial.
 
-## Lo verificado (únicos datos oficiales del STX)
+## Solo lo verificado por Opel y Stellantis
 
 | Dato | Valor confirmado por Opel / Stellantis |
 |---|---|
@@ -6858,7 +6841,7 @@ Opel no ha publicado un coeficiente aerodinámico (Cx) del STX. Cualquier cifra 
 | Presentación | «The Night Before», Hangar Y, París, 11/10/2026; Salón de París 12–18/10/2026 |
 | Papel | Estudio de diseño; elementos que llegarán a futuros modelos de serie |
 
-## Lo que Opel NO ha confirmado (no inventar)
+## Sin confirmar por Opel: no inventar
 
 | Dato | Estado |
 |---|---|
@@ -6876,69 +6859,69 @@ Opel no ha publicado un coeficiente aerodinámico (Cx) del STX. Cualquier cifra 
 | EuroNCAP | Sin datos (concept, sin prueba) |
 | Coeficiente Cx | No publicado |
 
-Aviso importante: la cifra de **hasta 1.634 litros de maletero** que aparece en la prensa de Opel corresponde al **Astra Sports Tourer actual**, no al STX Concept. No atribuirla al STX.
+Aviso importante: esos **hasta 1.634 litros de maletero** que circulan en la prensa de Opel pertenecen al **Astra Sports Tourer de ahora**, no al STX. No se los atribuyas al STX.
 
-## Qué adelanta y qué podría llegar a serie
+## Qué adelanta para los Opel futuros
 
-Opel dice que el STX muestra rasgos característicos que se encontrarán en futuros modelos de la marca y que sus elementos se incorporarán a los modelos de serie venideros. Eso es lo que el concept adelanta de forma oficial:
+Según Opel, el STX muestra rasgos característicos que aparecerán en futuros modelos de la marca y pasarán a los modelos de serie venideros. Esto es lo que adelanta oficialmente el concept:
 
-- La **próxima generación del lenguaje de diseño Opel**, con el Vizor más atrevido y el Compass vertical más destacado.
-- La idea de que la tecnología no debe quitar emoción al coche, sino amplificarla.
-- Una dirección de interior que continúa la idea «Painting with Light», ya explorada en el Opel Experimental de 2023 y en el Opel Corsa GSE Vision Gran Turismo de 2025, con iluminación inmersiva y asientos especiales ligeros, llevada a un nuevo nivel de desarrollo.
+- La **siguiente generación del lenguaje de diseño Opel**, con un Vizor más atrevido y un Compass vertical más destacado.
+- Que la tecnología no debe restar emoción al coche, sino amplificarla.
+- Una línea interior que retoma la idea «Painting with Light» —ya vista en el Opel Experimental (2023) y en el Corsa GSE Vision Gran Turismo de Opel (2025)— y que lleva la iluminación inmersiva y los asientos especiales ligeros a un nivel de desarrollo nuevo.
 
-Lo que **no** está confirmado:
+Lo que **tampoco** está confirmado:
 
-- Que exista un **STX de producción** como tal, con ese nombre, esa carrocería o esa fecha.
-- **Qué modelo de serie** estrenará primero el nuevo Vizor, ni cuándo.
-- Que las soluciones más espectaculares (cámaras, difusores extensibles, llantas de 22 pulgadas con ese diseño) lleguen tal cual a un coche de calle.
+- Que un **STX de producción** con ese nombre, esa carrocería y esa fecha llegue a fabricarse.
+- **Qué modelo de serie** será el primero en estrenar el nuevo Vizor, y cuándo.
+- Que las soluciones más llamativas (cámaras, difusores extensibles y llantas de 22 pulgadas con ese diseño) pasen tal cual a un coche de serie.
 
-En resumen: el STX es un anticipo de lenguaje de diseño y de dirección técnica, no el anuncio de un modelo concreto.
+En definitiva: el STX anticipa un lenguaje de diseño y una dirección técnica, sin anunciar ningún modelo concreto.
 
-## Herencia: Opel y el familiar
+## El legado Opel en el familiar
 
-Opel reivindica un papel pionero en el familiar en Europa. La marca sitúa el origen en el **Olympia Rekord Caravan de 1953**, seguido por el Kadett Caravan y muchos otros modelos hasta el actual Astra Sports Tourer. El STX Concept se presenta como la continuación de esa tradición, pero en clave eléctrica y aerodinámica.
+Opel reclama un papel pionero en el familiar europeo. Su origen, según la marca, está en el **Olympia Rekord Caravan de 1953**, al que siguieron el Kadett Caravan y muchos otros modelos antes del actual Astra Sports Tourer. El STX Concept continúa esa tradición, pero con un enfoque eléctrico y aerodinámico.
 
-Esa herencia es también la referencia práctica para el lector: si busca hoy un familiar Opel de serie, el modelo real es el Astra Sports Tourer, no el STX. El concept muestra hacia dónde puede ir el formato; el Astra es lo que se puede comprar ahora.
+Esa herencia también orienta en la práctica al lector: quien busque hoy un familiar Opel de serie encontrará como modelo real el Astra Sports Tourer, no el STX. Ese prototipo apunta a dónde puede llegar el formato; el Astra es lo que hoy se puede comprar.
 
-## Interior: luz y ligereza, sin ficha completa
+## Interior: luz y ligereza, sin datos completos
 
-Opel describe el interior del STX como diseñado para esa misma experiencia de eficiencia y emoción, con la idea «Painting with Light» y asientos ligeros especiales. No ha publicado una especificación interior completa de producción (materiales definitivos, pantallas, equipamiento, plazas exactas, maletero). Todo lo que vaya más allá de «iluminación inmersiva + asientos ligeros» es a verificar.
+Opel presenta el interior del STX como pensado para esa experiencia de eficiencia y emoción, bajo la idea «Painting with Light», y con asientos ligeros especiales. No ha difundido una especificación interior completa de producción (plazas exactas, maletero, materiales definitivos, pantallas, equipamiento). Todo lo que supere «iluminación inmersiva + asientos ligeros» queda pendiente de verificación.
 
-## El STX dentro de los seis concepts de Stellantis en París
+## El STX con los otros cinco concepts
 
-El STX se presentó junto a otros cinco prototipos en «The Night Before»: <a href=/blog/alfa-romeo-cuorerosso-concept-salon-paris-2026/>Alfa Romeo Cuorerosso</a>, <a href=/blog/citroen-2cv-electrico-2026-paris/>Citroën 2 CV Concept</a>, <a href=/blog/ds-f3ver-concept-paris-2026/>DS F3VER</a>, <a href=/blog/fiat-multiplay-concept-paris-2026/>FIAT Multiplay</a> y <a href=/blog/peugeot-rcz-vision-concept-paris-2026/>PEUGEOT RCZ Vision</a>. Cada uno exploraba una vía distinta. El de Opel era la del familiar eléctrico eficiente y emocional.
+El STX se mostró en «The Night Before» junto a otros cinco prototipos: <a href=/blog/alfa-romeo-cuorerosso-concept-salon-paris-2026/>Cuorerosso de Alfa Romeo</a>, <a href=/blog/citroen-2cv-electrico-2026-paris/>2 CV Concept de Citroën</a>, <a href=/blog/ds-f3ver-concept-paris-2026/>F3VER de DS</a>, <a href=/blog/fiat-multiplay-concept-paris-2026/>Multiplay de FIAT</a> y <a href=/blog/peugeot-rcz-vision-concept-paris-2026/>RCZ Vision de PEUGEOT</a>. Cada uno exploraba un camino distinto. El de Opel apostaba por el familiar eléctrico eficiente y emocional.
 
-No mezclar los datos de los otros concepts con el STX. Por ejemplo, el precio de 15.000 € es del 2 CV Concept de Citroën, no del STX; la plataforma STLA One y el steer-by-wire son del RCZ Vision de PEUGEOT, no del STX.
+No hay que mezclar con el STX los datos de los otros concepts. Por ejemplo, esos 15.000 € de precio son del 2 CV Concept de Citroën y no del STX. La plataforma STLA One, con la dirección steer-by-wire, corresponde al RCZ Vision de PEUGEOT, no al STX.
 
-## Opel en vivo: si buscas un Opel que sí puedes comprar
+## Opel de serie que sí puedes comprar
 
-Mientras el STX es solo un estudio de diseño, estos Opel sí están en el comparador con ficha y precio: <a href=/coches/opel-astra-sports-tourer-electrico-2025-precio-ficha-tecnica/>Astra Sports Tourer eléctrico</a>, <a href=/coches/opel-corsa-gse-2026-precio-ficha-tecnica/>Corsa GSE</a>, <a href=/coches/opel-mokka-gse-2025-precio-ficha-tecnica/>Mokka GSE</a> y <a href=/coches/opel-grandland-electrico-2025-precio-ficha-tecnica/>Grandland eléctrico</a>.
+Mientras el STX sigue siendo un mero estudio de diseño, estos Opel sí figuran en el comparador, con su ficha y su precio: <a href=/coches/opel-astra-sports-tourer-electrico-2025-precio-ficha-tecnica/>el eléctrico Sports Tourer de Astra</a>, <a href=/coches/opel-corsa-gse-2026-precio-ficha-tecnica/>el GSE de Corsa</a>, <a href=/coches/opel-mokka-gse-2025-precio-ficha-tecnica/>el GSE de Mokka</a> y <a href=/coches/opel-grandland-electrico-2025-precio-ficha-tecnica/>el eléctrico Grandland</a>.
 
-## Preguntas frecuentes
+## Dudas frecuentes
 
-### ¿Qué es el Opel STX Concept?
+### ¿Qué representa el Opel STX Concept?
 
-Es un prototipo (concept car) de Opel: su visión del familiar eléctrico del futuro, con el nombre completo Sports Tourer eXperimental Concept. Se presentó en el Salón del Automóvil de París 2026. No está a la venta.
+Es un concept car, un prototipo de Opel: su visión del familiar eléctrico venidero, denominado en completo Sports Tourer eXperimental Concept. Se dio a conocer en el salón parisino de 2026. No está en venta.
 
-### ¿El Opel STX Concept es eléctrico?
+### ¿Es eléctrico el Opel STX Concept?
 
-Sí. Opel lo describe como un coche eléctrico con arquitectura eléctrica innovadora y tracción total. No ha publicado potencia, batería ni autonomía.
+Sí. Según Opel, es un coche eléctrico de arquitectura innovadora y tracción total. No ha difundido potencia, batería ni autonomía.
 
-### ¿Cuánto corre el Opel STX Concept?
+### ¿Qué velocidad máxima tiene el Opel STX Concept?
 
-Opel confirma una velocidad máxima de más de 200 km/h, con tracción total y aerodinámica activa. No ha publicado aceleración 0–100 km/h ni potencia.
+Opel confirma más de 200 km/h de velocidad máxima, tracción total y aerodinámica activa. No ha difundido aceleración 0–100 km/h ni potencia.
 
-### ¿Se va a vender el Opel STX Concept? ¿Cuándo llega a serie?
+### ¿Llegará a venderse el STX Concept? ¿Cuándo?
 
-No está confirmado. Opel dice que elementos del STX llegarán a futuros modelos de serie, pero no ha anunciado un STX de producción, ni modelo concreto, ni fecha. Cualquier fecha de llegada a serie es especulación hasta que Opel la confirme.
+No está confirmado. Opel señala que rasgos del STX pasarán a modelos de serie venideros, pero no ha anunciado ni modelo concreto, ni fecha, ni ningún STX de producción. Sobre la llegada a serie, cualquier fecha, hasta que Opel la confirme, es pura especulación.
 
-### ¿Qué adelanta el STX para los próximos Opel?
+### ¿Qué anticipa el STX para los Opel venideros?
 
-La próxima generación del lenguaje de diseño Opel: un Vizor más alto y atrevido con láminas luminosas, un Compass vertical más destacado con el Blitz iluminado, trasera de caída pronunciada, superficies enrasadas y soluciones de aerodinámica activa. También una dirección de interior con iluminación inmersiva («Painting with Light») y asientos ligeros.
+La siguiente generación del lenguaje de diseño Opel: Vizor más alto, más atrevido y con láminas luminosas, Compass vertical destacado, con el Blitz iluminado, zaga de caída pronunciada, superficies enrasadas y aerodinámica activa. También una línea interior con luz inmersiva («Painting with Light») y asientos ligeros.
 
-### ¿Cuánto cuesta el Opel STX Concept y qué autonomía tiene?
+### ¿Tiene precio o autonomía publicada el STX Concept?
 
-No tiene precio ni autonomía publicada: es un concept, no un coche a la venta. Opel no ha comunicado batería, autonomía, carga, medidas ni maletero. No fiarse de cifras que no vengan de Opel o Stellantis.
+Carece de precio y de autonomía publicada, porque es un concept, no un coche en venta. Opel no ha comunicado ni batería, ni autonomía, ni carga, ni medidas, ni maletero. Desconfía de cualquier cifra que no venga de Opel o Stellantis.
 
 **¿Te han puesto una multa y no sabes si se puede recurrir?** Antes de pagarla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a>.
 
@@ -6946,9 +6929,9 @@ No tiene precio ni autonomía publicada: es un concept, no un coche a la venta. 
   },
   {
     slug: "peugeot-rcz-vision-concept-paris-2026",
-    title: "Peugeot RCZ Vision: 500 CV, 600 km y carga en 10 minutos",
+    title: "Peugeot RCZ Vision: el concept de 500 CV que no se vende",
     excerpt:
-      "El Peugeot RCZ Vision es el concept eléctrico de París 2026 con 500 CV, hasta 600 km, batería de estado sólido y mando Hypersquare. Manifiesto de marca, no coche a la venta.",
+      "El RCZ Vision es el manifiesto eléctrico de Peugeot para París 2026: 500 CV, 600 km, batería sólida e Hypersquare, sin versión de serie.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 8,
@@ -6962,15 +6945,15 @@ No tiene precio ni autonomía publicada: es un concept, no un coche a la venta. 
     ],
     content: `<img src=/media/peugeot-rcz-vision-concept-paris-2026-hero.webp alt=Peugeot RCZ Vision, frontal con tres garras luminosas horizontales, emblema del león y gráfico RCZ>
 
-*Foto: PEUGEOT (prensa) / AutoBuzz.my (distribución). Imagen de prensa distribuida por un medio tercero; no es una foto descargada del media site oficial de Stellantis/PEUGEOT. Licencia desconocida.*
+*Foto: PEUGEOT (prensa) / AutoBuzz.my (distribución). Foto de prensa repartida por un medio tercero; no se descargó del portal oficial de medios de Stellantis/PEUGEOT. Licencia sin confirmar.*
 
-## Qué es el Peugeot RCZ Vision
+## Un manifiesto, no un coche
 
-El Peugeot RCZ Vision es un concept eléctrico presentado por PEUGEOT el 11 de octubre de 2026 en «The Night Before», el evento previo al Salón del Automóvil de París 2026 celebrado en el Hangar Y de París. Fue uno de los seis concept cars que Stellantis desveló esa noche (<a href=/blog/alfa-romeo-cuorerosso-concept-salon-paris-2026/>Alfa Romeo Cuorerosso</a>, <a href=/blog/citroen-2cv-electrico-2026-paris/>Citroën 2 CV Concept</a>, <a href=/blog/ds-f3ver-concept-paris-2026/>DS F3VER</a>, <a href=/blog/fiat-multiplay-concept-paris-2026/>FIAT Multiplay</a>, <a href=/blog/opel-stx-concept-paris-2026/>Opel STX Concept</a> y PEUGEOT RCZ Vision), dentro de una presencia en el salón con más de 60 vehículos, nueve prototipos, ocho marcas y seis estrenos (Salón del Automóvil de París, 12–18 de octubre de 2026).
+El nombre no es nuevo: entre 2009 y 2015 PEUGEOT vendió un cupé llamado RCZ, que la propia marca presenta hoy como un modelo convertido en objeto de coleccionista. El RCZ Vision retoma ese nombre para otra cosa: un concept eléctrico desvelado en «The Night Before» el 11 de octubre de 2026, la cita que Stellantis organizó en el Hangar Y de París en la víspera del certamen parisino de 2026. Aquella noche se desvelaron seis concepts (<a href=/blog/alfa-romeo-cuorerosso-concept-salon-paris-2026/>Alfa Romeo Cuorerosso</a>, <a href=/blog/citroen-2cv-electrico-2026-paris/>Citroën 2 CV Concept</a>, <a href=/blog/ds-f3ver-concept-paris-2026/>DS F3VER</a>, <a href=/blog/fiat-multiplay-concept-paris-2026/>FIAT Multiplay</a>, <a href=/blog/opel-stx-concept-paris-2026/>Opel STX Concept</a> y PEUGEOT RCZ Vision), dentro de un despliegue en el salón que sumó más de sesenta vehículos, nueve prototipos de ocho marcas y seis estrenos, entre el 12 y el 18 de octubre de 2026 en París.
 
-PEUGEOT lo define como un **manifiesto de marca**: no es un coche a la venta ni el anuncio de un modelo de producción, sino la visión más avanzada hasta la fecha de hacia dónde van el diseño y la tecnología de la marca. Recupera el nombre del RCZ, el cupé que PEUGEOT vendió entre 2009 y 2015 y que la propia marca describe hoy como un modelo que se ha convertido en objeto de coleccionista.
+Para PEUGEOT es un **manifiesto de marca**: ni un coche en venta ni el anticipo de un modelo de producción, sino la imagen más avanzada hasta hoy de hacia dónde se dirigen el diseño y la tecnología de PEUGEOT.
 
-La idea en una frase: **el RCZ Vision enseña cómo serán los próximos Peugeot por dentro y por fuera, sin ser él mismo un coche que puedas comprar.**
+Dicho en una frase: **el RCZ Vision muestra cómo serán por dentro y por fuera los próximos Peugeot, sin ser él mismo un coche comprable.**
 
 ## Qué adelanta (y qué no)
 
@@ -6982,9 +6965,9 @@ La idea en una frase: **el RCZ Vision enseña cómo serán los próximos Peugeot
 | Arquitectura basada en STLA One + batería de estado sólido + 1.000 V | Dirección tecnológica; sin modelo de serie ni fecha asociados al RCZ Vision |
 | Un RCZ de producción | **NO anunciado.** PEUGEOT no ha confirmado ninguna versión de producción del RCZ Vision |
 
-## Datos verificados (fuente: nota oficial de PEUGEOT / Stellantis)
+## Datos confirmados por la nota oficial
 
-Todos los datos de esta tabla proceden de la nota oficial de PEUGEOT «PEUGEOT RCZ VISION: EMOTION AT THE HEART OF THE FUTURE OF PEUGEOT» (11/10/2026) y de la nota de Stellantis sobre los seis concept cars. Donde la propia nota oficial matiza («objetivo», «a confirmar»), se indica.
+Esta tabla recoge lo publicado en las notas oficiales de PEUGEOT y Stellantis sobre los seis concepts. Donde la nota matiza («objetivo», «a confirmar»), se indica.
 
 | Dato | Valor oficial |
 |---|---|
@@ -7013,7 +6996,7 @@ Todos los datos de esta tabla proceden de la nota oficial de PEUGEOT «PEUGEOT R
 | Lenguaje de diseño | «Feline Future»: cinco principios — Libertad, Coraje, Elegancia, Fuerza interior e Instinto |
 | Predecesor | RCZ cupé (2009–2015) |
 
-## A verificar / NO publicado por PEUGEOT (no inventar)
+## Pendiente de confirmar: no publicado por PEUGEOT
 
 | Dato | Estado |
 |---|---|
@@ -7032,85 +7015,78 @@ Todos los datos de esta tabla proceden de la nota oficial de PEUGEOT «PEUGEOT R
 | Producción del RCZ Vision | No anunciada |
 | Garantía / mantenimiento | No aplicables: no es un modelo de producción |
 
-## Diseño: «Feline Future», el felino vuelve a ser el argumento
+## Felino por fuera
 
-El RCZ Vision es la primera expresión del nuevo lenguaje de diseño de PEUGEOT, «Feline Future», articulado en cinco principios: Libertad, Coraje, Elegancia, Fuerza interior e Instinto. La silueta es baja y espectacular, con hombros muy marcados delante y detrás, flancos profundamente esculpidos y formas suaves y redondeadas. PEUGEOT describe una presencia felina: ligeramente inclinada hacia adelante, lista para saltar, con fuerza visible sin agresividad.
+Míralo de frente: las tres garras de PEUGEOT aparecen reinventadas en horizontal y ultrafinas, junto a un faro Thin Lens LED ultracompacto que dibuja «la mirada del León». El frontal suma emblema iluminado y gráfico «RCZ» microperforado en el paragolpes, además de tomas de aire con rejillas que llevan motivos «RCZ» microesculpidos. Atrás, las tres garras horizontales concentran todas las funciones de iluminación.
 
-Tres herencias del RCZ original se reinterpretan:
+La silueta resulta baja y espectacular, con hombros muy marcados en ambos extremos, flancos con un esculpido profundo y formas suaves y redondeadas. PEUGEOT habla de una presencia felina: algo inclinada hacia adelante, preparada para saltar, con fuerza visible y sin agresividad. Es la primera expresión de «Feline Future», el nuevo lenguaje de diseño de la marca, organizado en torno a cinco ideas: Libertad, Coraje, Elegancia, Fuerza interior e Instinto.
 
-- **El techo de doble burbuja**, ahora como burbuja de cristal que se extiende del capó a la parte trasera, con la doble burbuja acentuada para ganar espacio en las plazas traseras. Los arcos son más finos y parecen flotantes.
-- **El alerón activo**, invisible en parado, que solo se despliega en marcha.
-- **Los detalles triangulares de las llantas**, guiño a las del primer RCZ.
-
-La firma luminosa también cambia: las tres garras de PEUGEOT se reinventan en horizontal, ultrafinas, con un faro Thin Lens LED ultracompacto que forma «la mirada del León». Delante hay emblema iluminado, gráfico «RCZ» microperforado en el paragolpes y entradas de aire con rejillas de motivos «RCZ» microesculpidos. Detrás, las tres garras horizontales integran todas las funciones de iluminación.
+Del RCZ original se reinterpretan tres herencias. Primero, el techo de doble burbuja, ahora una burbuja de cristal que recorre desde el capó hasta la parte trasera, con la doble burbuja remarcada para dar más espacio atrás; los arcos, más finos, parecen flotantes. Segundo, el alerón activo, invisible en parado, que únicamente se despliega en marcha. Tercero, unos detalles triangulares en las llantas que recuerdan a las del primer RCZ.
 
 <img src=/media/peugeot-rcz-vision-concept-paris-2026-trasera.webp alt=Peugeot RCZ Vision, trasera tres cuartos con barra luminosa roja, insignia RCZ VISION y techo de doble burbuja de cristal>
 
-## Interior: Hypersquare, i-Cockpit y pantallas que desaparecen
+## El puesto de conducción que viene
 
-El interior es, probablemente, la parte del concept más cercana a la serie. PEUGEOT lleva casi 15 años con el i-Cockpit y el RCZ Vision abre su siguiente capítulo.
+Siéntate dentro y lo primero que falta es el volante. Aparcar sin mover las manos de sitio se vuelve posible porque para girar a tope basta algo menos de una vuelta, frente a las cerca de tres de un volante convencional. El mando que lo permite es rectangular, el Hypersquare, y concentra los mandos principales en sus cuatro anillos, al alcance de los dedos. Su dirección es 100% electrónica, sin conexión mecánica con las ruedas: opera con steer-by-wire y la relación cambia con la velocidad, acortándose a alta velocidad para mayor aplomo. PEUGEOT añade que el sistema deja fuera las vibraciones no deseadas del firme. Y hay algo importante: el Hypersquare de producción que montará la próxima generación del PEUGEOT E-208 es este mismo. Esta parte del concept es real y acabará en la serie.
 
-**Hypersquare.** En lugar de volante, un mando rectangular con las funciones principales al alcance de los dedos en sus cuatro anillos. Funciona con steer-by-wire: no hay conexión mecánica con las ruedas; la dirección es 100% electrónica y la relación varía con la velocidad. A baja velocidad, el giro máximo es ligeramente inferior a una vuelta completa (frente a unas tres de un volante convencional), lo que facilita las maniobras sin mover las manos; a alta velocidad, la relación se reduce para mayor aplomo. Según PEUGEOT, el sistema filtra vibraciones no deseadas del firme. Es la **misma versión de producción de Hypersquare que llevará la próxima generación del PEUGEOT E-208**: esta parte del concept es real y tiene destino de serie.
+El freno sigue la misma lógica: el RCZ Vision inaugura en PEUGEOT el freno por cable, es decir, la tecnología brake-by-wire. La conexión hidráulica entre pedal y frenos deja paso al control electrónico, que modula con más precisión e integra con fluidez el frenado regenerativo.
 
-**Brake-by-wire.** El RCZ Vision es el primer PEUGEOT con freno por cable: la conexión hidráulica entre pedal y frenos se sustituye por control electrónico, con modulación más precisa e integración fluida del frenado regenerativo.
+En pantallas, PEUGEOT apuesta por «mejor antes que más». El salpicadero se reduce al mínimo: las salidas de aire móviles se esconden en desuso y la consola flotante reúne mandos de aluminio para modos de conducción y climatización, sobre cristal esmerilado. Sobre Hypersquare, una pantalla transparente presenta los datos esenciales dentro del campo visual del conductor. La central, flotante y vertical, algo orientada hacia el conductor, puede apagarse del todo y casi desaparecer gracias a su estructura transparente.
 
-**Pantallas Micro LED transparentes.** PEUGEOT elige «mejor antes que más»: en lugar de sumar pantallas, la pantalla transparente sobre Hypersquare muestra la información esencial en el campo de visión del conductor, y la pantalla central flotante, vertical y ligeramente orientada al conductor, puede apagarse por completo y prácticamente desaparecer gracias a su estructura transparente. El salpicadero se esculpe al mínimo, con salidas de aire móviles que se ocultan cuando no se usan, y la consola flotante reúne mandos físicos de aluminio (modos de conducción, climatización) sobre cristal esmerilado.
+Todo esto se enmarca en la siguiente generación del i-Cockpit, un puesto que PEUGEOT lleva casi 15 años desarrollando y que el RCZ Vision inaugura en su siguiente capítulo.
 
 <img src=/media/peugeot-rcz-vision-concept-paris-2026-interior.webp alt=Interior del Peugeot RCZ Vision con mando Hypersquare, pantalla Micro LED transparente y techo de cristal>
 
-**Cabina GT de 4 plazas.** A diferencia del 2+2 del RCZ original, el Vision ofrece cuatro plazas reales, con dos adultos atrás con comodidad y respaldos traseros abatibles para el equipaje. Los asientos, de arquitectura asimétrica con apoyo reforzado hacia el centro, se tapizan en Alcantara y cuero reciclado PELINOVA, en una gama azul claro que refuerza la sensación de amplitud. El reloj del salpicadero es un Parade diseñado con el relojero francés SERICA.
+Detrás también hay sitio de verdad. Los asientos combinan Alcantara con cuero reciclado PELINOVA, en azul claro, una gama que acentúa la sensación de amplitud, con arquitectura asimétrica y apoyo reforzado hacia el centro. Frente al 2+2 del RCZ original, el Vision brinda cuatro plazas reales: dos adultos detrás cómodamente y respaldos traseros que se abaten para el equipaje. El reloj del salpicadero es un Parade, obra del relojero francés SERICA. Y para la carretera, el RCZ Vision ofrece automatización de nivel 2++ que funciona bajo demanda tanto en ciudad como en carretera, con manos libres.
 
-**Nivel 2++.** El RCZ Vision incorpora conducción automatizada de nivel 2++, disponible bajo demanda en ciudad y en carretera, con función manos libres.
+## La batería, con prudencia
 
-## Batería de estado sólido: la cifra que hay que leer con calma
+Empecemos por lo que no se sabe. De este concept no hay precio, ni fecha de venta, ni versión de producción, ni valoración Euro NCAP —al no existir versión de serie, no hay estrellas que inventar—. PEUGEOT tampoco difunde su capacidad en kWh, su número de motores, su tracción, su peso ni sus prestaciones de aceleración o velocidad máxima.
 
-La parte más llamativa de la ficha del concept es la batería: celdas de estado sólido desarrolladas con Factorial Energy, con solo 110 mm de grosor, sobre una arquitectura de 1.000 V. PEUGEOT declara 500 CV, hasta 600 km de autonomía, consumo objetivo de 11,5 kWh/100 km (WLTP, pendiente de confirmación) y carga del 10 al 80% en 10 minutos.
+Lo que sí anuncia la marca es llamativo, empezando por la carga: del 10 al 80% en solo 10 minutos, sobre una arquitectura de 1.000 V y con celdas de estado sólido de Factorial Energy, de apenas 110 mm de grosor. PEUGEOT anuncia además 500 CV, hasta 600 km de autonomía y un consumo previsto de 11,5 kWh cada 100 km (WLTP, pendiente de confirmación).
 
-Lectura honesta: son **cifras declaradas para un concept, no cifras homologadas de un coche de producción**. La batería de estado sólido es una tecnología real en desarrollo, pero PEUGEOT no publica capacidad en kWh, ni número de motores, ni tracción, ni peso, ni prestaciones de aceleración o velocidad máxima. La plataforma STLA One, en la que se basa la arquitectura del concept, está pensada para soportar las tecnologías X-by-Wire y para facilitar la reutilización y el reciclaje de componentes, según la nota oficial.
+Lectura honesta: se trata de **cifras anunciadas para un concept, no de cifras de un coche de producción homologado**. La batería de estado sólido, eso sí, es una tecnología real en desarrollo. Y la plataforma STLA One, sobre la que se apoya la arquitectura del concept, está concebida para acoger las tecnologías X-by-Wire y para hacer más fácil reutilizar y reciclar componentes, según la nota oficial.
 
-## Qué significa para quien está pensando en comprar un PEUGEOT hoy
+## Si quieres un Peugeot hoy
 
-El RCZ Vision no se puede comprar ni reservar. Si te gusta lo que adelanta, lo tangible es esto:
-
-- El **Hypersquare** llegará a la próxima generación del E-208 (versión de producción confirmada por PEUGEOT, fecha a verificar).
-- El lenguaje **Feline Future** marcará los próximos modelos de la marca.
-- La tecnología **X-by-Wire** (dirección y freno por cable) y el i-Cockpit con pantallas Micro LED transparentes son la dirección del puesto de conducción de PEUGEOT.
-
-Mientras tanto, los PEUGEOT que sí puedes comprar y ver con ficha completa son otros. Dos ejemplos en vivo:
+El RCZ Vision no puede comprarse ni reservarse. Mientras tanto, hay PEUGEOT que sí puedes comprar y consultar con ficha completa. Dos ejemplos en vivo:
 
 - <a href=/coches/peugeot-2008-2024-precio-ficha-tecnica/>Peugeot 2008 2024: ficha técnica, 136 CV y 4,9 l/100 km</a>
 - <a href=/coches/peugeot-3008-hibrido-145-2026-precio-ficha-tecnica/>Peugeot 3008 Hybrid 145 2026: ficha técnica, 145 CV</a>
 - <a href=/fichas-tecnicas/>Todas las fichas técnicas de coches, motos y patinetes</a>
 
-## Preguntas frecuentes
+Y si te atrae lo que adelanta, lo tangible es esto: los próximos modelos de la marca llevarán el lenguaje **Feline Future**; el puesto de conducción de PEUGEOT seguirá el rumbo de la tecnología **X-by-Wire**, con dirección y freno, los dos por cable y del i-Cockpit con pantallas Micro LED transparentes; y la próxima generación del E-208 montará el **Hypersquare** (versión de producción confirmada por PEUGEOT, sin fecha aún).
 
-### ¿El Peugeot RCZ Vision está a la venta?
+## Dudas habituales
 
-No. Es un concept / manifiesto de marca presentado el 11 de octubre de 2026 en «The Night Before», en la víspera del Salón del Automóvil de París. PEUGEOT no ha anunciado precio, fecha de venta ni versión de producción.
+### ¿Se puede comprar el RCZ Vision?
 
-### ¿Cuántos caballos y cuánta autonomía tiene el RCZ Vision?
+No. Es un concept / manifiesto de marca desvelado en «The Night Before» el 11 de octubre de 2026, en la víspera del certamen parisino. PEUGEOT no ha difundido ni precio, ni fecha de venta, ni versión de producción.
 
-PEUGEOT declara 500 CV (≈ 368 kW) y hasta 600 km de autonomía para el concept, con un consumo objetivo de 11,5 kWh/100 km en ciclo WLTP combinado, cifra pendiente de confirmación según la propia nota oficial. Son cifras declaradas para un concept, no datos homologados de un coche de producción.
+### ¿Potencia y autonomía?
 
-### ¿Qué es el Hypersquare del RCZ Vision?
+Para el concept, PEUGEOT anuncia 500 CV (≈ 368 kW) con hasta 600 km de autonomía, con un consumo previsto de 11,5 kWh cada 100 km en ciclo WLTP combinado, una cifra aún pendiente de confirmación, según dice la propia nota oficial. Hablamos de cifras anunciadas para un concept, no datos de un coche de producción homologado.
 
-Es el mando rectangular que sustituye al volante, con las funciones principales en sus cuatro anillos. Funciona con steer-by-wire (sin conexión mecánica con las ruedas) y gira ligeramente menos de una vuelta completa de tope a tope. La versión de producción de Hypersquare llegará a la próxima generación del PEUGEOT E-208, según la nota oficial.
+### ¿Qué es el Hypersquare?
 
-### ¿Qué es la batería de estado sólido del RCZ Vision?
+Un mando rectangular que reemplaza al volante y concentra los mandos principales en sus cuatro anillos, al alcance de los dedos. Opera mediante steer-by-wire, sin unión mecánica con las ruedas, y de tope a tope gira algo menos de una vuelta completa. Según la nota oficial, la próxima generación del PEUGEOT E-208 montará su versión de producción.
 
-Una batería con celdas de estado sólido desarrolladas con Factorial Energy, de solo 110 mm de grosor, sobre arquitectura de 1.000 V. PEUGEOT declara carga del 10 al 80% en 10 minutos. PEUGEOT no publica su capacidad en kWh, ni el número de motores ni la tracción.
+### ¿Y la batería de estado sólido?
 
-### ¿El RCZ Vision llegará a producción?
+Celdas de estado sólido de Factorial Energy, de apenas 110 mm de grosor, en una arquitectura de 1.000 V. PEUGEOT anuncia pasar del 10 al 80% en 10 minutos. Su capacidad en kWh, su número de motores y su tracción no los difunde PEUGEOT.
 
-PEUGEOT no ha confirmado ninguna versión de producción del RCZ Vision. Lo que sí llegará a serie son tecnologías y rasgos que adelanta: el Hypersquare en el próximo E-208, el lenguaje de diseño «Feline Future» y la evolución del i-Cockpit.
+### ¿Llegará a producción?
 
-### ¿Qué tiene que ver el RCZ Vision con el RCZ original?
+Ninguna versión de producción del RCZ Vision la ha confirmado PEUGEOT. A la serie sí pasarán tecnologías y rasgos que adelanta. Empieza por el Hypersquare en el próximo E-208, sigue por el lenguaje de diseño «Feline Future» y por la evolución del i-Cockpit.
 
-Es su sucesor conceptual: recupera el nombre y los rasgos icónicos del cupé RCZ (2009–2015) —techo de doble burbuja, alerón activo, detalles triangulares en las llantas— reinterpretados con propulsión eléctrica, plataforma basada en STLA One y cabina de 4 plazas reales.
+### ¿Qué hereda del RCZ original?
+
+Su condición de heredero conceptual: nombre y rasgos icónicos del cupé RCZ (2009–2015), con techo de doble burbuja, alerón activo y detalles triangulares en las llantas, todo reinterpretado con propulsión eléctrica sobre la plataforma STLA One y con cabina de 4 plazas reales.
 
 **¿Te han multado?** Antes de pagar, <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con la IA</a> y comprueba si se puede recurrir.
 
-*Fuentes: <a href=https://www.media.stellantis.com/em-en/peugeot/press/peugeot-rcz-vision-emotion-at-the-heart-of-the-future-of-peugeot>nota oficial PEUGEOT / Stellantis Media (11/10/2026)</a>, <a href=https://www.media.stellantis.com/es-es/corporate/press/stellantis-presenta-seis-concept-cars-the-night-before-del-salon-del-automovil-de-paris>nota Stellantis «The Night Before»</a>.*`,
+*Fuentes: <a href=https://www.media.stellantis.com/em-en/peugeot/press/peugeot-rcz-vision-emotion-at-the-heart-of-the-future-of-peugeot>nota oficial PEUGEOT / Stellantis Media (11/10/2026)</a>, <a href=https://www.media.stellantis.com/es-es/corporate/press/stellantis-presenta-seis-concept-cars-the-night-before-del-salon-del-automovil-de-paris>nota Stellantis «The Night Before»</a>.*
+`,
   },
   {
     slug: "cuotas-hibridos-chinos-ue-china-2026",

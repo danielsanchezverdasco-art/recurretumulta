@@ -2061,9 +2061,9 @@ Sí, como VMP **limitado a 25 km/h**.
   // ─────────────────────────── HIBOY (7) ──────────────────────────
   {
     slug: "hiboy-s2-lite",
-    title: "Hiboy S2 Lite: 9,9 kg para el último kilómetro",
+    title: "Hiboy S2 Lite: el patinete de 9,9 kg para ir al metro",
     excerpt:
-      "El Hiboy S2 Lite pesa 9,9 kg: motor de 250 W, 17 km y formato pluma para combinar con transporte público. Ficha técnica completa.",
+      "El Hiboy S2 Lite pesa 9,9 kg, rinde 250 W y promete 17 km: el patinete ultraligero pensado para combinar con metro, bus o tren.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -2082,11 +2082,11 @@ Sí, como VMP **limitado a 25 km/h**.
     ],
     content: `<img src=/media/patinetes/hiboy-s2-lite-1.webp alt=Hiboy S2 Lite, vista lateral del patinete ultraligero>
 
-**¿Quieres solo las cifras?** <a href=/patinetes/hiboy-s2-lite/>Ficha técnica del Hiboy S2 Lite</a>: 9,9 kg, 250 W y 17 km declarados. Y si dudas entre varios, <a href=/comparador-patinetes/>míralo frente a sus rivales</a>.
+**¿Vas directo a los datos?** <a href=/patinetes/hiboy-s2-lite/>Ficha técnica del Hiboy S2 Lite</a> resume peso, potencia y alcance. Y si comparas varios modelos, <a href=/comparador-patinetes/>míralo frente a sus rivales</a>.
 
-**¿Merece la pena el Hiboy S2 Lite?** Sí, si tu prioridad es el peso: con unos 9,9 kg es de los patinetes con motor más livianos que se venden, pensado para combinarlo con el transporte público. No sirve como único vehículo si haces rutas largas.
+**¿Vale lo que cuesta el Hiboy S2 Lite?** Vale si tu prioridad absoluta es cargar poco peso: con alrededor de 9,9 kg, está entre los patinetes con motor más livianos del mercado, y su terreno natural es enlazar con el transporte público. Para rutas largas como único vehículo, en cambio, se queda corto.
 
-## Ficha técnica del Hiboy S2 Lite
+## Datos del Hiboy S2 Lite
 
 | Especificación | Cifra |
 |---|---|
@@ -2101,51 +2101,51 @@ Sí, como VMP **limitado a 25 km/h**.
 | **Frenos** | Electrónico delantero + freno de pie trasero |
 | **Iluminación** | Cuatro puntos de luz LED |
 
-¿Quieres todo el detalle? <a href=/patinetes/hiboy-s2-lite/>Ficha técnica completa del S2 Lite</a>.
+¿Necesitas la ficha entera? <a href=/patinetes/hiboy-s2-lite/>Ficha técnica completa del S2 Lite</a>.
 
-## El patinete que pesa como una bicicleta plegable
+## Levantarlo ya dice casi todo
 
-Lo primero que notas al coger el Hiboy S2 Lite es que no parece un patinete eléctrico: **entre 9,5 y 9,9 kg**, según la fuente que consultes. Para ponerlo en contexto, un Xiaomi típico ronda los 14 kg y un dual motor supera los 25. Esa diferencia se nota en el hombro cuando bajas al metro, lo metes en el maletero o lo subes al ascensor.
+La primera impresión al coger este Hiboy es que no parece eléctrico: su masa oscila **entre 9,5 y 9,9 kg** dependiendo de la fuente consultada. Un Xiaomi corriente ronda 14 kg; un doble motor pasa holgadamente de 25. Al bajar al metro, meterlo en un maletero o subirlo en ascensor, esa diferencia se nota en el hombro desde el primer día.
 
-Hiboy lo consiguió con un chasis de aluminio minimalista y una batería pequeña: **36 V y 5 Ah, es decir, 180 Wh**. Es la batería más pequeña que verás en un patinete de adulto, y explica todo lo demás: la autonomía corta, el precio de acceso y la ligereza extrema. No es un defecto de diseño, es el concepto: este patinete existe para el **último kilómetro**.
+El secreto está en un bastidor de aluminio minimalista y en un acumulador diminuto: **36 V con 5 Ah, es decir, 180 Wh**. Ningún otro patinete para adultos monta una batería tan pequeña, y de esa decisión salen las demás características: alcance breve, precio de acceso y una ligereza extrema. Lejos de ser un error de diseño, responde al concepto: un vehículo pensado para el **tramo final del trayecto**.
 
-## Diseño y plegado: pensado para el transporte público
+## Plegarlo y llevarlo: su razón de ser
 
-### Plegado en segundos
+### Un pliegue rápido
 
-El mástil se abate hacia atrás y queda sujeto sobre el guardabarros trasero con el sistema clásico de gancho. Una vez plegado, el conjunto mide lo suficiente para meterlo entre los asientos del tren o apoyarlo en un rincón de la oficina sin molestar. El propio manillar sirve de asa para llevarlo con una mano.
+El mástil se abate hacia atrás y se fija al guardabarros trasero mediante un gancho clásico. Ya doblado, entra entre asientos de tren o en una esquina de la oficina sin molestar a nadie. Además, el propio manillar funciona como asa para portarlo con una mano.
 
-### Ruedas macizas de 6,5 pulgadas
+### Gomas sólidas de 6,5 pulgadas
 
-Las ruedas son **macizas (sólidas) de 6,5 pulgadas**: imposibles de pinchar, lo cual tiene sentido en un aparato que va a rodar por carril bici urbano y aceras bacheadas. El precio de las ruedas sólidas es la comodidad: absorben peor los baches que una neumática. Con el S2 Lite aprendes enseguida a levantar ligeramente el peso del cuerpo al pasar por tapas de alcantarilla y bordillos bajos.
+Equipa gomas **macizas de 6,5 pulgadas, sólidas**, que no pinchan nunca: algo lógico en un aparato que rodará por carril bici y calles con baches. El coste de esa solidez es el confort: filtran peor los impactos que una cubierta neumática. Quien lo use aprenderá pronto a descargar un poco el peso corporal al pasar sobre tapas de alcantarilla y bordillos bajos.
 
-### Cuatro luces, cero preocupaciones
+### Alumbrado en cuatro puntos
 
-Hiboy equipa al S2 Lite con un sistema de iluminación de cuatro puntos: luz delantera en el manillar, luz ambiental en la columna, piloto trasero rojo y tira LED bajo la plataforma. No es iluminación para ver el camino de noche (eso exige una luz potente aparte), sino para **ser visto**: en ciudad, de noche, el deck iluminado te hace muy visible entre el tráfico.
+El equipo de luz consta de cuatro focos: delantero en el manillar, ambiental en la columna, trasero rojo, más una tira LED bajo la plataforma. No vale para ver el camino por la noche —para eso haría falta una luz potente aparte—, sino para **que los demás te vean**: en ciudad y de noche, la plataforma iluminada hace muy visible al usuario entre el tráfico.
 
-## Motor y autonomía: lo justo para su misión
+## Motor y alcance: lo justo para su misión
 
-### 250 W nominales, 350 de pico
+### Potencia contenida
 
-El motor de buje entrega **250 W nominales con picos de 350 W**. Traducido a sensaciones: en llano acelera con soltura hasta sus 20,9 km/h y mantiene el ritmo sin quejarse; en una cuesta del 15 % (el máximo que anuncia la marca) sube, pero notarás que le cuesta si pesas más de 70 kg. No es un motor para rampas de garaje pronunciadas ni para riders de 100 kg: con una carga máxima declarada de **81 kg**, el S2 Lite apunta a usuarios ligeros.
+El buje rinde **250 W nominales, con picos de hasta 350 W**. En terreno plano, arranca con soltura y alcanza sus 20,9 km/h sin quejarse; en una pendiente del 15 % —el máximo anunciado por la marca— asciende, aunque el esfuerzo se nota si el conductor supera los 70 kg. Olvídate de rampas de garaje empinadas o de usuarios de 100 kg: la carga máxima declarada es de **81 kg**, así que el S2 Lite apunta a gente ligera.
 
-### Autonomía: 17 km teóricos, 10–12 reales
+### Alcance real frente al anunciado
 
-Los **17 km declarados** (10,6 millas) se miden en condiciones ideales: rider ligero, llano, modo económico. En la práctica, con un adulto de 70–80 kg en ciudad, espera **entre 10 y 12 km**. Es suficiente para trayectos de 3–5 km combinados con metro o cercanías, que es exactamente su hábitat. Si tu recorrido diario supera los 15 km, este no es tu patinete: mira el <a href=/blog/hiboy-max-pro/>Hiboy Max Pro</a> o cualquier modelo con 350 Wh o más.
+La cifra oficial, **17 km (10,6 millas)**, corresponde a condiciones ideales: conductor ligero, terreno llano y modo económico. Con un adulto de 70–80 kg moviéndose por ciudad, lo razonable es contar **entre 10 y 12 km**. Basta para desplazamientos de 3–5 km enlazados con metro o cercanías, justo su entorno natural. Si el recorrido diario supera los 15 km, busca otro modelo: el <a href=/blog/hiboy-max-pro/>Hiboy Max Pro</a> o cualquiera con 350 Wh o más.
 
-## Precio: la otra mitad del argumento
+## Precio: el otro gran argumento
 
-Hiboy lo posiciona en la **gama de entrada**: es uno de los patinetes eléctricos de marca conocida más baratos que puedes comprar. El argumento comercial completo es "casi 10 kg por poco más de lo que cuesta una bicicleta urbana básica". Frente a un patinete de 400–500 € con el doble de batería, el S2 Lite te ahorra dinero y te quita 5 kg de encima, a cambio de la mitad de autonomía.
+Hiboy lo coloca en la **gama de entrada**: es de lo más asequible entre patinetes eléctricos con marca conocida que se pueden comprar. El mensaje comercial completo viene a ser "casi 10 kg por algo más que una bicicleta urbana básica". Comparado con un patinete de 400–500 € y doble batería, el S2 Lite ahorra dinero y resta 5 kg de carga, a cambio de la mitad de autonomía.
 
-Su rival natural en concepto es el Xiaomi Essential o cualquier patinete de 250 W y batería pequeña; la diferencia es que el S2 Lite es notablemente más ligero que casi todos ellos.
+Como alternativa comparable, el Essential de Xiaomi o cualquier patinete de 250 W y acumulador pequeño; lo que distingue al S2 Lite es que pesa sensiblemente menos que casi todos ellos.
 
-## Normativa VMP en España: qué dice la DGT
+## Circular con él en España: la norma VMP
 
-Con **20,9 km/h de máxima**, el S2 Lite cumple de sobra el tope de 25 km/h que la norma pone a los VMP en España. Eso significa: **prohibido circular por aceras**, permitido por carril bici y por calzadas donde lo autorice la ordenanza municipal. La normativa de la <a href=https://www.dgt.es/>DGT</a> exige además luces y elementos reflectantes de noche, y desde 2024 los VMP nuevos necesitan certificado de circulación: comprueba que la unidad que compres lo incluya.
+Su velocidad punta, **20,9 km/h**, queda holgadamente por debajo del tope de 25 km/h fijado para los VMP en España. Consecuencias: **nada de aceras**, y sí carril bici o calzada donde la ordenanza municipal lo permita. La normativa de la <a href=https://www.dgt.es/>DGT</a> pide además luces y reflectantes por la noche, y desde 2024 los VMP nuevos requieren certificado de circulación: verifica que la unidad comprada lo traiga.
 
-Un apunte de seguridad: con ruedas de 6,5" y 250 W, este patinete pide prudencia en firmes mojados y baches. Casco, siempre.
+Ojo con la seguridad: ruedas de 6,5" y 250 W exigen prudencia sobre firmes mojados y baches. Casco, siempre.
 
-## Puntos fuertes y puntos débiles del S2 Lite
+## Ventajas e inconvenientes del S2 Lite
 
 | 👍 A favor | 👎 En contra |
 |---|---|
@@ -2158,18 +2158,18 @@ Un apunte de seguridad: con ruedas de 6,5" y 250 W, este patinete pide prudencia
 
 <img src=/media/patinetes/hiboy-s2-lite-2.webp alt=Detalle del Hiboy S2 Lite plegado>
 
-## Veredicto: ¿para quién es el S2 Lite?
+## Veredicto: ¿a quién le encaja el S2 Lite?
 
-El Hiboy S2 Lite es **el patinete del último kilómetro**: para quien vive a 3–5 km de la estación, sube escaleras a diario y odia cargar con 15 kg. A cambio de aceptar una autonomía modesta y unas prestaciones justas, te llevas el aparato más portable del mercado a precio de entrada.
+Este Hiboy es **el patinete del tramo final**: pensado para quien reside a entre 3 y 5 km de la estación y sube escaleras cada día y no soporta cargar 15 kg. A cambio de un alcance modesto y unas prestaciones justas, da el modelo más portable del mercado a un precio de entrada.
 
-No lo compres si: pesas más de 80 kg, tu ruta tiene cuestas serias, o quieres un único patinete que valga para todo. En esos casos, el salto a un 350 W con 300+ Wh (como el <a href=/blog/xiaomi-electric-scooter-4-pro-plus/>Xiaomi Electric Scooter 4 Pro Plus</a>) se nota en cada kilómetro.
+No es para ti si pesas más de 80 kg, si tu ruta tiene pendientes serias o si buscas un único patinete válido para todo. En esos casos, subir a un 350 W con más de 300 Wh —por ejemplo, el <a href=/blog/xiaomi-electric-scooter-4-pro-plus/>Xiaomi Electric Scooter 4 Pro Plus</a>— cambia la experiencia en cada kilómetro.
 
-¿Te pica el gusanillo de los juegos? 
+¿Te apetece jugar un rato? 
 
 <img src=/media/patinetes/hiboy-s2-lite-3.webp alt=Hiboy S2 Lite en el metro>
 
 
-## El S2 Lite frente a sus rivales ultraligeros
+## Contra otros ultraligeros
 
 | Patinete | Peso | Propulsor | Energía | Alcance anunciado |
 |---|---|---|---|---|
@@ -2178,55 +2178,55 @@ No lo compres si: pesas más de 80 kg, tu ruta tiene cuestas serias, o quieres u
 | Ninebot E22E | ≈ 13,5 kg | 300 W | 184 Wh | 22 km |
 | TurboAnt M10 Lite | ≈ 14 kg | 350 W | 270 Wh | 30 km |
 
-La tabla lo dice todo: el S2 Lite juega en otra división de peso. Sus rivales le sacan 3–5 kg, que es muchísimo cuando hablamos de llevarlo en la mano. A cambio, ellos ofrecen algo más de autonomía y, en algún caso, más potencia.
+La comparativa deja claro que el S2 Lite compite en otra liga de peso. Sus rivales pesan 3–5 kg más, una barbaridad si hay que portarlo en la mano. Ellos, a cambio, aportan un poco más de alcance y, en algún caso, mayor potencia.
 
-## Mantenimiento: casi no tiene
+## Mantenimiento: casi inexistente
 
-### Batería de 180 Wh
+### Acumulador de 180 Wh
 
-Una batería pequeña se degrada antes si la maltratas: evita dejarla meses al 0 % o al 100 %, y guárdala en interior. Con 180 Wh, un reemplazo (si Hiboy lo vende como repuesto) es barato comparado con baterías de 500+ Wh.
+Una batería pequeña sufre antes si se maltrata: no la dejes meses al 0 % ni al 100 %, y guárdala bajo techo. Con 180 Wh, una sustitución (si Hiboy la vende como repuesto) sale barata frente a baterías de más de 500 Wh.
 
-### Ruedas macizas: olvidar el pinchazo
+### Gomas sólidas: sin pinchazos posibles
 
-Las ruedas sólidas de 6,5" no necesitan mantenimiento de presión. Revisa visualmente el desgaste cada pocos meses; cuando el dibujo desaparezca, toca cambiar la rueda completa, una operación sencilla y barata.
+Las gomas sólidas de 6,5" no piden control de presión. Vigila el desgaste visualmente cada pocos meses; al desaparecer el dibujo, habrá que cambiar la rueda entera, una operación sencilla y económica.
 
-### Frenos y tornillería
+### Frenos y tornillos
 
-El freno electrónico no se desgasta; el freno de pie trasero sí (es una zapata que roza la rueda). Revisa su grosor de vez en cuando. Y como en todo patinete, aprieta la tornillería del mástil cada mes: las vibraciones aflojan todo.
+El freno electrónico no se desgasta; el de pie trasero sí, porque una zapata roza la rueda. Comprueba su grosor cada cierto tiempo. Y, como en cualquier patinete, aprieta los tornillos del mástil cada mes: la vibración lo afloja todo.
 
-## Accesorios que sí merecen la pena
+## Accesorios recomendables
 
-Con un patinete tan básico, los accesorios cuentan: un **candado en U ligero** (el S2 Lite invita a dejarlo atado fuera de tiendas), una **luz delantera potente** si circulas de noche por vías sin iluminar, y un **timbre** (obligatorio en muchas ordenanzas). Un soporte de móvil ayuda si usas el GPS.
+En un patinete tan básico, los complementos importan: un **candado en U ligero** (con el S2 Lite apetece atarlo fuera de las tiendas), una **luz delantera potente** para vías sin iluminar de noche y un **timbre** (exigido en muchas ordenanzas). Un soporte para el móvil ayuda si usas GPS.
 
-## Para quién NO es, sin matices
+## Para quién NO es, dicho sin matices
 
-Repitámoslo claro porque es importante: si pesas **más de 80 kg**, sus 250 W y su carga máxima de 81 kg lo dejan fuera. Si tu trayecto incluye una cuesta seria a diario, también. Y si solo vas a tener un patinete y quieres que sirva para todo —ciudad, ocio, escapadas—, necesitas más batería. El S2 Lite es un especialista, y los especialistas no sirven para todo uso.
+Insistimos porque importa: con más de 80 kg encima, sus 250 W y su tope de 81 kg lo descartan. Si el trayecto diario incluye una pendiente seria, también. Y si solo tendrás un patinete y quieres que valga para todo —ciudad, ocio, escapadas—, necesitarás más batería. Este modelo es un especialista, y un especialista no cubre todos los usos.
 
 ## Preguntas frecuentes sobre el Hiboy S2 Lite
 
-### ¿Cuánto pesa exactamente el Hiboy S2 Lite?
+### ¿Cuál es el peso de verdad del Hiboy S2 Lite?
 
-La marca y los análisis lo sitúan **entre 9,5 y 9,9 kg**. Sea como sea, poquísimos patinetes de adulto bajan de los 10 kg.
+Según marca y análisis, **entre 9,5 y 9,9 kg**. En cualquier caso, poquísimos patinetes de adulto bajan de 10 kg.
 
-### ¿Qué autonomía real tiene?
+### ¿Qué autonomía real da?
 
-Unos **10–12 km** con un adulto en ciudad. Los 17 km declarados son en condiciones ideales con rider ligero.
+Alrededor de **10–12 km** para un adulto en ciudad. La cifra oficial de 17 km corresponde a condiciones ideales con un conductor ligero.
 
 ### ¿Sube cuestas?
 
-Cuestas suaves (hasta un 15 %) sí, aunque con esfuerzo si el rider pesa más de 70 kg. Rampas de garaje pronunciadas, mejor evitarlas.
+Las suaves (hasta un 15 %) sí, aunque costará si el conductor pesa más de 70 kg. Las rampas de garaje pronunciadas, mejor evitarlas.
 
-### ¿Se puede pinchar?
+### ¿Pincha alguna vez?
 
-No: lleva **ruedas macizas de 6,5 pulgadas**. A cambio, son menos cómodas que las neumáticas en firmes rotos.
+No: equipa **gomas sólidas de 6,5 pulgadas**. Eso sí, en firmes rotos resultan menos confortables que las neumáticas.
 
 ### ¿Es legal en España?
 
-Sí: su máxima de **20,9 km/h** está dentro del límite de 25 km/h de los VMP. Prohibido en aceras; carril bici o calzada según ordenanza.
+Sí: su tope de **20,9 km/h** no supera el tope de 25 km/h fijado para los VMP. Nada de aceras; carril bici o calzada según la ordenanza.
 
 ### ¿Para quién NO es?
 
-Para riders de más de 80 kg, rutas de más de 12 km al día o quien quiera un único patinete polivalente. Es un segundo patinete o un complemento del transporte público, no un sustituto del coche.
+Para usuarios de más de 80 kg, trayectos de más de 12 km diarios o quien busque un único patinete polivalente. Sirve como segundo patinete o como apoyo al transporte público, no como sustituto del coche.
 
 ¿Te han puesto una multa circulando en patinete? <a href=https://recurretumulta.online/#analizador>Comprueba gratis con nuestra IA si la puedes recurrir</a> antes de pagarla.
 
@@ -3050,9 +3050,9 @@ El iX5S tiene más motor (1.000 W), más carga máxima y mejor suspensión. Si e
   },
   {
     slug: "iscooter-ix5s",
-    title: "iScooter iX5S: 1.000 W por 486 €",
+    title: "iScooter iX5S: fuerza todoterreno por menos de 500 €",
     excerpt:
-      "El iScooter iX5S es el caballo de batalla: 1.000 W, 720 Wh, 64 km, 150 kg de carga y doble suspensión por 486 €. Ficha y vídeo.",
+      "El iX5S une motor de 1.000 W, batería de 720 Wh y 150 kg de carga por unos 430 €, con doble suspensión y ruedas de taco de 11 pulgadas.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -3071,11 +3071,11 @@ El iX5S tiene más motor (1.000 W), más carga máxima y mejor suspensión. Si e
     ],
     content: `<img src=/media/patinetes/iscooter-ix5s-1.webp alt=iScooter iX5S, vista lateral del patinete robusto>
 
-**¿Solo quieres los números?** <a href=/patinetes/iscooter-ix5s/>Ficha técnica del iScooter iX5S</a>: 1.000 W, 720 Wh, 150 kg de carga. <a href=/comparador-patinetes/>Enfréntalo a sus rivales aquí</a>.
+**¿Vas directo a las cifras?** <a href=/patinetes/iscooter-ix5s/>Ficha técnica del iScooter iX5S</a>: 150 kg de carga, 720 Wh y 1.000 W. <a href=/comparador-patinetes/>Enfréntalo a sus rivales aquí</a>.
 
-**¿Vale lo que cuesta el iScooter iX5S?** Sí: por unos 430 € en la tienda europea oficial te llevas 1.000 W, 720 Wh de batería y 150 kg de carga máxima, una combinación que casi nadie ofrece a ese precio. Eso sí, con 27 kg no es un patinete para subir escaleras a diario.
+**¿Merece su precio el iScooter iX5S?** Desde luego: por alrededor de 430 € en el comercio oficial europeo te llevas un motor de 1.000 W, un acumulador de 720 Wh y una capacidad de carga de 150 kg, un conjunto que casi ningún competidor ofrece por ese dinero. Eso sí, sus 27 kg lo dejan fuera como patinete para subir escaleras todos los días.
 
-## Datos técnicos del iScooter iX5S
+## Cifras clave del iX5S
 
 | Característica | Valor |
 |---|---|
@@ -3094,43 +3094,43 @@ El iX5S tiene más motor (1.000 W), más carga máxima y mejor suspensión. Si e
 
 <a href=/patinetes/iscooter-ix5s/>Ver la ficha técnica completa del iX5S</a>.
 
-## Potencia bruta a precio de risa
+## Fuerza bruta por muy poco dinero
 
-El iScooter iX5S pertenece a la serie iX de la marca, la de los modelos "de pie" orientados al campo. Su carta de presentación es el **motor de 1.000 W**: el doble de lo que monta un patinete urbano normal. Con esa potencia, las cuestas del 25 % que anuncia la ficha dejan de ser un problema: sube rampas donde otros patinetes se quedan clavados, y acelera con una contundencia que se nota desde el primer metro.
+La gama iX agrupa los modelos de la marca que se conducen de pie y se orientan al campo; ahí el iX5S destaca con su **motor de 1.000 W**, el doble que el de un patinete urbano corriente. Con esa potencia, las pendientes del 25 % que promete la ficha dejan de ser un obstáculo: sube rampas donde otros se quedan clavados y acelera con una fuerza que se nota desde el primer metro.
 
-La batería acompaña: **48 V y 15 Ah, es decir, 720 Wh**. Es una de las baterías más generosas por debajo de los 500 €. iScooter declara **64 km de autonomía**; en uso mixto real (rider de 80 kg, algo de cuesta, velocidad legal) lo razonable es esperar **entre 40 y 45 km**, que sigue siendo una barbaridad para su precio.
+El acumulador no desentona: **48 V y 15 Ah, lo que equivale a 720 Wh**, uno de los más generosos por debajo de 500 €. La marca declara **64 km de autonomía**; en un uso mixto real (conductor de 80 kilos, alguna pendiente, velocidad permitida) conviene contar con **40–45 km**, que siguen siendo muchísimo para lo que cuesta.
 
-## Un chasis pensado para durar
+## Un bastidor construido para aguantar
 
-### Suspensión de verdad
+### Amortiguación en ambos ejes
 
-El iX5S lleva **doble suspensión** (delantera y trasera), algo poco habitual en este rango de precio. La combinación de horquilla delantera y amortiguador central trasero se nota en firmes rotos, caminos de tierra y adoquines: donde un patinete rígido te sacude los brazos, este filtra. No es una suspensión de gama alta, pero funciona.
+El iX5S equipa **doble suspensión** (delantera y trasera), un equipamiento raro en esta franja de precio. La pareja formada por la horquilla delantera y el amortiguador central trasero se deja notar en pavimentos en mal estado, pistas de tierra y adoquinado: allí donde un modelo rígido transmite cada bache a los brazos, este los absorbe. Sin ser una suspensión de gama alta, funciona bien.
 
-### Ruedas de 11 pulgadas todoterreno
+### Neumáticos de taco de 11 pulgadas
 
-Los **neumáticos de 11" con taco** son otra rareza a este precio. En asfalto agarran bien y en tierra o grava permiten salirse del carril bici sin dramas. El inconveniente: a 25 km/h en asfalto liso hacen algo más de ruido y rozamiento que una rueda de carretera.
+Las **cubiertas de 11" con taco** son otra rareza por este precio. Sobre asfalto, el agarre es bueno, y en tierra o grava permiten abandonar el carril bici sin problemas. La pega: rodando a 25 km/h sobre asfalto liso generan algo más de sonido y fricción que una cubierta de carretera.
 
-### 150 kg de carga máxima
+### Un tope de carga de 150 kg
 
-Aquí el iX5S juega en otra liga: **150 kg de carga máxima** cuando la mayoría de patinetes se queda en 100–120 kg. Para riders corpulentos o para quien lleva mochila pesada a diario, es un argumento de peso (nunca mejor dicho). El chasis de 27,3 kg no es ligero, pero es el precio de la robustez.
+En carga, el iX5S juega aparte: **150 kg como máximo** frente a los 100–120 kg habituales. Para conductores corpulentos o para quien lleva una mochila pesada cada día, es un argumento decisivo. Su bastidor, de 27,3 kg, no resulta precisamente ligero, pero esa solidez tiene un precio.
 
 <img src=/media/patinetes/iscooter-ix5s-2.webp alt=Detalle de la suspensión del iScooter iX5S>
 
-## Precio del iScooter iX5S: qué pagas y dónde
+## Cuánto cuesta y dónde se compra
 
-La tienda europea oficial de iScooter lo lista por **429,99 €**; en marketplaces se ha visto en torno a los 486 € según promociones. En ambos casos, la ecuación es la misma: 1.000 W + 720 Wh + 150 kg de carga por menos de 500 € no tiene rival directo. Los competidores con cifras parecidas (KuKirin G2 Max y similares) suelen costar más o recortar en batería.
+En la tienda oficial europea de iScooter cuesta **429,99 €**; en marketplaces se ha visto cerca de los 486 € según la promoción. En ambos casos la cuenta es la misma: 720 Wh + 1.000 W + 150 kg de carga por debajo de 500 € carece de rival directo. Los rivales con números similares (KuKirin G2 Max y parecidos) acostumbran a salir más caros o a reducir batería.
 
-## Frenos, luces y protección
+## Frenada, alumbrado y resistencia al agua
 
-El equipo de frenado combina **freno de disco y freno electrónico**: el disco aporta la mordida y el electrónico ayuda a retener en bajadas prolongadas. Las luces son LED delantera y trasera más dos faros redondos delanteros, suficientes para ser visto de noche en ciudad.
+La frenada combina **disco y freno electrónico**: el primero aporta mordida y el segundo ayuda a retener en bajadas largas. El alumbrado lo forman LED delante y detrás más dos faros redondos delanteros, que bastan para que te vean circulando de noche por ciudad.
 
-La protección **IPX4** lo defiende de salpicaduras y lluvia ligera. No es un patinete para vadear charcos, pero aguanta un chaparrón urbano sin dramas.
+La certificación **IPX4** lo resguarda de salpicaduras y lluvia ligera. No sirve para cruzar charcos profundos, aunque un chaparrón urbano lo soporta sin problemas.
 
-## Legalidad en España: el matiz importante
+## Circular legal en España: el detalle clave
 
-El iX5S declara **45 km/h** de máxima. La norma española es tajante: ningún VMP puede pasar de 25 km/h en la calle, así que el iX5S debe rodar con el limitador puesto. Deslimitarlo para vía pública no solo es ilegal, sino que además invalida cualquier certificado. Aceras vetadas; carril bici o calzada en función de lo que diga tu ayuntamiento. Tienes la norma al día en la <a href=https://www.dgt.es/>página de la DGT</a>.
+El iX5S anuncia **45 km/h** de máxima. La normativa española fija un tope claro: ningún VMP puede rebasar los 25 km/h en la calle, por lo que el iX5S ha de circular con el limitador activado. Quitar el límite para rodar por vía pública no solo infringe la ley, sino que anula cualquier certificado. Las aceras quedan vetadas; entre carril bici y calzada decide lo que establezca tu ayuntamiento. Consulta la norma vigente en la <a href=https://www.dgt.es/>página de la DGT</a>.
 
-## Ventajas e inconvenientes del iX5S
+## Lo bueno y lo menos bueno del iX5S
 
 | ✔ Ventajas | ✘ Inconvenientes |
 |---|---|
@@ -3145,16 +3145,16 @@ El iX5S declara **45 km/h** de máxima. La norma española es tajante: ningún V
 
 <img src=/media/patinetes/iscooter-ix5s-3.webp alt=iScooter iX5S en pista forestal>
 
-## Veredicto: el patinete de los que pesan y suben cuestas
+## Veredicto: pensado para peso y pendientes
 
-El iScooter iX5S es la compra racional para dos perfiles muy concretos: **riders pesados** (esa capacidad de carga no la iguala ningún rival de este precio) y **gente con cuestas** en su ruta diaria. A cambio aceptas 27 kg de chasis y un tamaño considerable.
+El iScooter iX5S es la compra sensata para dos perfiles muy claros: **conductores de mucho peso** (ningún rival de este precio iguala esa capacidad de carga) y **gente con pendientes** en su ruta diaria. A cambio, toca asumir un chasis de 27 kg y un volumen considerable.
 
-Si pesas 70 kg y tu ruta es llana, te sobra la mitad de la potencia: un <a href=/blog/iscooter-ix7-pro/>iScooter iX7 Pro</a> es otra filosofía, y un urbano ligero te dará más agilidad. Pero si necesitas fuerza bruta barata, el iX5S es difícil de batir.
+Si pesas 70 kg y tu recorrido es llano, la mitad de la potencia te sobra: un <a href=/blog/iscooter-ix7-pro/>iScooter iX7 Pro</a> sigue otra filosofía, y un urbano ligero resultará más ágil. Pero si lo que buscas es potencia bruta a bajo precio, el iX5S resulta casi imbatible.
 
-¿Un rato de desconexión mientras lo decides? 
+¿Te lo estás pensando?
 
 
-## La familia iX: iX5S frente a sus hermanos
+## La gama iX: el iX5S junto a sus hermanos
 
 | Versión | Potencia | Acumulador | Autonomía | Carga límite | Precio orientativo |
 |---|---|---|---|---|---|
@@ -3163,72 +3163,72 @@ Si pesas 70 kg y tu ruta es llana, te sobra la mitad de la potencia: un <a href=
 | iX7 Pro | 2 × 1.000 W | 960 Wh | 80 km | 150 kg | ~700 € |
 | iX3 | 800 W | 480 Wh | 40 km | 120 kg | ~330 € |
 
-El iX5S es el punto dulce: el iX4 es más barato pero con menos motor; el iX7 Pro es doble motor para quien quiere tracción total. Si no necesitas dos motores, el iX5S da el 90 % por mucho menos dinero.
+El iX5S ocupa el punto ideal: el iX4 cuesta menos pero entrega menos motor; el iX7 Pro recurre al doble motor para quien desea tracción total. Si no precisas dos motores, el iX5S entrega el 90 % por bastante menos dinero.
 
-## Guía de compra: qué revisar al recibirlo
+## Al abrir la caja: qué comprobar primero
 
-Los patinetes de este precio llegan en caja y los montas tú: comprueba que la **doble suspensión** no tenga holguras, que los **discos no rocen**, que la **presión de los neumáticos de 11"** sea la correcta (suelen venir bajos) y que el **limitador de 25 km/h** esté activo si vas a usarlo en vía pública. Aprieta toda la tornillería tras los primeros 50 km: es cuando todo se asienta.
+En esta franja, el patinete llega desmontado en su caja: revisa la **presión de los neumáticos de 11"** (suelen llegar bajos), que los **discos no rocen**, que la **doble suspensión** no presente holguras y comprobar que el **limitador de 25 km/h** viene activado si vas a rodar por vía pública. Tras los primeros 50 km, aprieta toda la tornillería: es entonces cuando todo termina de asentarse.
 
-## Mantenimiento de un 1.000 W
+## Cuidar un motor de 1.000 W
 
-Un motor de 1.000 W con 720 Wh pide un mínimo de cuidado: mantén la **batería entre el 20 % y el 80 %** si no la vas a usar en días, revisa el desgaste de las **pastillas del freno de disco** cada 500 km (un 1.000 W castiga más los frenos que un 250 W) y vigila la presión de las ruedas de taco: con poca presión consumen mucho más y se desgastan por los flancos.
+Con 1.000 W y 720 Wh, el cuidado mínimo pasa por procurar que la **batería se mantenga entre el 20 % y el 80 %** cuando preveas días sin usarla, revisar cada 500 km las **pastillas de freno** (la frenada de un 1.000 W sufre más que la de un 250 W) y controlar la presión de las ruedas de taco: si van bajas, el consumo sube mucho y se deterioran por los laterales.
 
-El **IPX4** protege de la lluvia, pero no laves el patinete con agua a presión: un trapo húmedo basta.
+El **IPX4** resguarda de la lluvia, pero no lo limpies con agua a presión: un trapo húmedo es suficiente.
 
-## En campo: cómo sacarle partido
+## Fuera del asfalto: cómo aprovecharlo
 
-El iX5S brilla fuera del asfalto: baja la presión de los neumáticos un poco para tierra, usa el modo de velocidad intermedia en senderos (el modo rápido en tierra suelta es para expertos) y aprovecha el **control de crucero** en pistas largas. Lleva siempre el cargador si la ruta supera los 30 km: 720 Wh dan para mucho, pero no para todo.
+Fuera del asfalto es donde el iX5S destaca: baja un poco la presión de los neumáticos para tierra; en senderos, opta por el modo intermedio (el rápido, en tierra suelta, mejor dejarlo a expertos) y saca partido al **control de crucero** en pistas largas. No olvides el cargador si el recorrido supera los 30 km: 720 Wh rinden mucho, pero no infinitamente.
 
-## Preguntas frecuentes sobre el iScooter iX5S
+## Dudas frecuentes sobre el iX5S
 
-### ¿Cuánto cuesta el iScooter iX5S?
+### ¿Qué precio tiene el iX5S?
 
-**429,99 €** en la tienda europea oficial; en marketplaces ha llegado a verse por 486 € en marketplaces según la época.
+Ronda los **429,99 €** en el comercio oficial europeo; en marketplaces se ha visto por 486 € según la época.
 
-### ¿Cuántos kilómetros reales hace por carga?
+### ¿Cuántos kilómetros reales recorre con una carga?
 
-Entre **40 y 45 km** en uso mixto. Los 64 km declarados son en condiciones ideales.
+Con un uso mixto, **entre 40 y 45 km**. Los 64 km anunciados corresponden a condiciones ideales.
 
-### ¿Cuánto peso aguanta?
+### ¿Cuánta carga admite?
 
-**150 kg**, de las cifras más altas del mercado para su rango de precio.
+**150 kg**, una de las cifras más elevadas del mercado para su franja de precio.
 
-### ¿Es legal en España?
+### ¿Se puede circular legal con él en España?
 
-Sí, siempre que circule **limitado a 25 km/h**. Sus 45 km/h de máxima quedan para circuito privado.
+Sí, siempre que ruede **limitado a 25 km/h**. Los 45 km/h de máxima quedan reservados al circuito privado.
 
-### ¿Pesa mucho?
+### ¿Resulta pesado?
 
-**27,3 kg**: no es un patinete para subirlo al tercer piso sin ascensor a diario.
+Pesa **27,3 kg**: para un tercer piso sin ascensor, todos los días, no es la opción.
 
-### ¿Sirve para campo?
+### ¿Vale para salir al campo?
 
-Sí: ruedas de **11" con taco**, doble suspensión y 1.000 W lo hacen apto para pistas de tierra y caminos.
+Sí: las ruedas de **11" con taco**, la doble suspensión y los 1.000 W lo capacitan para pistas de tierra y caminos.
 
-### ¿iX5S o iX7 Pro?
+### ¿Mejor el iX5S o el iX7 Pro?
 
-El iX5S es monomotor de 1.000 W enfocado a fuerza y carga; el <a href=/blog/iscooter-ix7-pro/>iX7 Pro</a> es doble motor (2 × 1.000 W) para quien quiere tracción total. Para la mayoría, el iX5S basta y sobra.
+El primero es monomotor de 1.000 W orientado a fuerza y carga; el <a href=/blog/iscooter-ix7-pro/>iX7 Pro</a> recurre a dos motores (2 × 1.000 W) pensando en la tracción total. Para la mayoría de usuarios, el iX5S cubre de sobra.
 
 ¿Una multa con el patinete? <a href=https://recurretumulta.online/#analizador>Échale un vistazo con el analizador sin coste de nuestra IA</a> y decide con criterio antes de pagar.
 
 
-## Colores, versiones y qué incluye la caja
+## Color, versiones y contenido de la caja
 
-El iX5S se vende normalmente en negro, el color que mejor disimula el polvo del campo. En la caja encontrarás el patinete semimontado, el cargador, un juego básico de herramientas, el manual y los reflectantes. El montaje (manillar y poco más) lleva unos 15 minutos.
+El color habitual es el negro, que camufla muy bien el polvo del campo. La caja incluye los reflectantes, el manual, un juego básico de herramientas, el cargador y el patinete semimontado. Montarlo lleva unos 15 minutos: solo hay que colocar el manillar y poco más.
 
-## Otras preguntas habituales
+## Más dudas habituales
 
-### ¿Lleva app el iScooter iX5S?
+### ¿Tiene app el iX5S?
 
-No de forma destacada: es un patinete de filosofía sencilla, sin app propietaria relevante. Todo se controla desde la pantalla y los botones del manillar.
+No de manera destacada: se trata de un modelo de planteamiento simple, sin aplicación propia destacable. Todo se maneja desde el manillar, con su pantalla y sus botones.
 
-### ¿Se puede poner sillín?
+### ¿Admite sillín?
 
-No es su filosofía: el iX5S es un patinete "de pie" todoterreno. iScooter tiene la serie F para modelos con asiento.
+No encaja con su planteamiento: el iX5S está pensado para ir de pie y para el campo. Para modelos con asiento, iScooter tiene la serie F.
 
-### ¿Qué garantía tiene?
+### ¿Qué garantía ofrece?
 
-La tienda europea oficial ofrece **12 meses** de garantía y 30 días de devolución, con soporte técnico propio. Guarda la factura: sin ella, reclamar es complicado.
+El comercio oficial europeo da **12 meses** de garantía, 30 días para devolverlo y asistencia técnica propia. Sin factura, reclamar resulta complicado.
 
 *Fuentes: <a href=https://www.iscooterglobal.eu/es/products/scooter-electrico-todoterreno-iscooter-ix5s-1000w>ficha oficial en iScooter EU</a>.*
 `,
@@ -4191,9 +4191,9 @@ Para **ruteros largos** que quieren autonomía por encima de todo.
   },
   {
     slug: "joyor-lr10",
-    title: "Joyor LR10: doble motor y 92 km declarados",
+    title: "Joyor LR10: tracción total, 1.080 Wh y compra de ocasión",
     excerpt:
-      "El Joyor LR10: doble motor 2x1.000 W, 1.080 Wh y hasta 92 km declarados (60–75 km reales). Ruedas off-road de 10 pulgadas.",
+      "Doble motor de 2.000 W, batería de 1.080 Wh y hasta 92 km anunciados: qué daba el LR10, por qué ya no se vende nuevo y cómo acertar si lo buscas usado.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -4212,9 +4212,9 @@ Para **ruteros largos** que quieren autonomía por encima de todo.
     ],
     content: `<img src=/media/patinetes/joyor-lr10-1.webp alt=Joyor LR10, vista lateral del doble motor>
 
-**¿Directo a los datos?** <a href=/patinetes/joyor-lr10/>Ficha técnica del Joyor LR10</a>: 2.000 W, 1.080 Wh y tracción total. <a href=/comparador-patinetes/>Mídelo frente a otros de doble motor</a>.
+**¿Vas a por los números?** <a href=/patinetes/joyor-lr10/>Ficha técnica del Joyor LR10</a> — tracción en las dos ruedas, 2.000 W y 1.080 Wh — <a href=/comparador-patinetes/>Mídelo frente a otros con doble motor</a>.
 
-**¿Qué es el Joyor LR10?** El tope de la serie LR de Joyor: **doble propulsor de 1.000 W por rueda** (2.000 W en total) y acumulador de **60 V y 18 Ah (1.080 Wh)** y ruedas todoterreno de 10". Se vendió en España; hoy la gama la continúa el S10-S-Z. Es un patinete de campo, no un urbano: en vía pública debe ir limitado a 25 km/h.
+**¿Qué es el Joyor LR10?** Un patinete de campo, no urbano, que ocupaba el escalón superior de la serie LR: **un propulsor de 1.000 W en cada rueda** (2.000 W sumados), acumulador de **1.080 Wh (60 V con 18 Ah)** y neumáticos todoterreno de 10". Se vendió en España y su relevo actual es el S10-S-Z; en vía pública, su uso exige el límite de 25 km/h, así que no es un urbano.
 
 ## Ficha técnica del Joyor LR10
 
@@ -4230,37 +4230,37 @@ Para **ruteros largos** que quieren autonomía por encima de todo.
 | **Ángulo de subida** | 35° |
 | **Frenos** | Disco delantero y trasero |
 
-<a href=/patinetes/joyor-lr10/>Ficha técnica completa del LR10</a>.
+<a href=/patinetes/joyor-lr10/>Ficha completa del LR10</a>.
 
-## Tracción total: qué cambia llevar dos motores
+## Dos motores: qué cambia la tracción total
 
-El LR10 es, en esencia, el LR8 con un segundo motor. Llevar **un motor en cada rueda** cambia por completo el comportamiento: la aceleración es brutal comparada con cualquier monomotor, y en subidas el reparto de par entre los dos ejes hace que trepe pendientes del **35 %** sin despeinarse. En tierra suelta o barro, la tracción total evita que la rueda trasera patine sin control.
+Básicamente, el LR10 es el LR8 con un segundo motor. Que **cada rueda tenga su propio propulsor** cambia radicalmente la respuesta: frente a cualquier monomotor, la aceleración impresiona, y en rampas el par repartido entre ambos ejes permite afrontar pendientes del **35 %** sin apuros. Sobre tierra suelta o barro, que traccionen las dos ruedas impide que la trasera pierda adherencia sin control.
 
-El reverso: dos motores consumen el doble. Por eso Joyor le puso una batería enorme.
+La contrapartida es el consumo: dos motores gastan el doble. De ahí que Joyor le montara una batería tan grande.
 
-## La batería: 1.080 Wh para alimentar la bestia
+## La batería: energía de sobra para dos motores
 
-Con **60 V y 18 Ah**, la batería del LR10 suma **1.080 Wh**, entre las más grandes que se han montado en un patinete de esta época. Joyor llegó a anunciar **92 km de autonomía** en sus materiales; los distribuidores son más prudentes y hablan de **60–75 km**. Con los dos propulsores empujando en condiciones reales, lo prudente es calcular **45–60 km**: sigue siendo muchísimo, y más que suficiente para una jornada entera de rutas.
+Joyor llegó a publicar en sus materiales hasta **92 km de autonomía**; los distribuidores, más cautos, citan **60–75 km**. En uso real, tirando de los dos propulsores, lo sensato es contar con **45–60 km**: aun así es una barbaridad, y basta de sobra para una jornada completa de rutas.
 
-El precio de tanta energía es el tiempo de carga: una batería así no se llena en dos horas. Cuenta con una noche entera enchufado.
+El acumulador de **60 V y 18 Ah** totaliza **1.080 Wh**, una de las capacidades mayores que se vieron en un patinete de su época. Tanta energía tiene un coste en tiempo de carga: un acumulador así no se completa en un par de horas. Hay que contar con dejarlo enchufado toda la noche.
 
 <img src=/media/patinetes/joyor-lr10-2.webp alt=Detalle del Joyor LR10>
 
 ## Chasis y equipamiento de campo
 
-El LR10 monta **ruedas todoterreno de 10 pulgadas** con taco, pensadas para salirse del asfalto: pistas forestales, caminos de grava y senderos son su hábitat natural. Los frenos de disco en ambas ruedas muerden bien incluso con el peso del conjunto, y la carga máxima de **150 kg** deja margen para riders corpulentos con mochila.
+El alumbrado viene completo, intermitentes incluidos: un equipamiento que en 2024-2025 empezaba a exigirse con seriedad y que, en un aparato capaz de 65 km/h, resulta más que aconsejable.
 
-La iluminación es completa, con intermitentes: un detalle que en 2024-2025 empezaba a ser exigible en serio y que en un aparato de 65 km/h es más que recomendable.
+Las **ruedas de taco de 10 pulgadas** están pensadas para abandonar el asfalto: senderos, caminos de grava y pistas forestales forman su terreno natural. Los discos de freno en las dos ruedas frenan con solvencia pese al peso total, y el límite de **150 kg** admite pilotos corpulentos con mochila.
 
 ## Precio y situación actual: descatalogado
 
-El LR10 llegó a España mediante la red comercial de Joyor, posicionado como el tope de la serie LR. Hoy ya no se fabrica con ese nombre: Joyor ha reorganizado su gama y el equivalente actual es el **S10-S-Z** (también 2 × 1.000 W y 60 V 18 Ah), que se mueve en torno a los 580–700 € en distribuidores europeos.
+En la actualidad ya no se produce bajo ese nombre: la marca ha reordenado su catálogo y el equivalente vigente es el **S10-S-Z** (igualmente con 2 × 1.000 W y un acumulador de 60 V con 18 Ah), que ronda los 580–700 € en distribuidores europeos. Joyor lo trajo a España por su red comercial como buque insignia de la serie LR.
 
-¿Qué significa esto si buscas un LR10? Solo lo encontrarás **de segunda mano o en stock residual**. En el mercado de ocasión, su valor depende del estado de la batería: con 1.080 Wh, una batería degradada cuesta un dineral reemplazarla. Pide siempre una prueba de autonomía antes de pagar.
+¿Qué implica eso para quien busca un LR10? Que solo aparecerá en ocasión o en stock residual. En ese mercado, el precio depende del estado del acumulador: con 1.080 Wh, sustituir una batería degradada sale por un dineral. Antes de pagar, exige siempre una prueba de autonomía.
 
-## Legalidad: un aparato de circuito
+## Legalidad: solo para circuito
 
-Con **60–65 km/h** de máxima, el LR10 **no es un VMP legal en vía pública española** tal cual sale de fábrica: tiene que rodar **capado a 25 km/h** para no incumplir la normativa. Todo lo que dé por encima queda reservado a circuito privado. La <a href=https://www.dgt.es/>DGT</a> es clara al respecto, y con un aparato de 2.000 W la prudencia no es opcional: casco integral, protecciones y cabeza fría.
+Ante semejante aparato de 2.000 W, actuar con prudencia no admite discusión: casco integral, protecciones y cabeza fría. La <a href=https://www.dgt.es/>DGT</a> lo deja claro: con una punta de **60–65 km/h**, el LR10 **no encaja como VMP legal en calles españolas** tal cual sale de fábrica. Debe circular **capado a 25 km/h** para respetar la normativa, y cualquier uso por encima queda reservado al circuito privado.
 
 ## Balance final del LR10
 
@@ -4272,16 +4272,16 @@ Con **60–65 km/h** de máxima, el LR10 **no es un VMP legal en vía pública e
 | Ruedas off-road de 10" | Batería cara de reemplazar si está degradada |
 | Intermitentes de serie | Para ciudad es excesivo |
 
-## Veredicto: ¿merece la pena hoy?
+## Veredicto: ¿compensa hoy?
 
-El LR10 fue un gran doble motor en su momento, pero **hoy no lo comprarías nuevo porque no existe nuevo**. Su interés está en el mercado de ocasión: si encuentras una unidad con batería sana por 600–800 €, tienes un 2.000 W con 1.080 Wh por la mitad de lo que costaba. Si no, el <a href=/blog/joyor-s5-pro/>Joyor S5 Pro</a> o el actual S10-S-Z te dan la misma filosofía con garantía y repuestos.
+Su atractivo vive en la ocasión: si localizas un ejemplar con la batería sana por 600–800 €, te llevas 2.000 W y 1.080 Wh por la mitad de su coste original. En su momento, el LR10 fue un doble motor excelente, pero **hoy no lo comprarías nuevo porque ya no existe nuevo**. En caso contrario, el <a href=/blog/joyor-s5-pro/>Joyor S5 Pro</a> o el S10-S-Z actual ofrecen la misma filosofía con garantía y repuestos.
 
-¿Necesitas despejarte? 
+¿Un rato de desconexión?
 
 <img src=/media/patinetes/joyor-lr10-3.webp alt=Joyor LR10 en pista de tierra>
 
 
-## LR10, S10-S-Z y T10: la familia doble motor de Joyor
+## LR10, S10-S-Z y T10: la saga doble motor
 
 | Variante | Propulsión | Pila | Punta | Situación |
 |---|---|---|---|---|
@@ -4289,70 +4289,70 @@ El LR10 fue un gran doble motor en su momento, pero **hoy no lo comprarías nuev
 | S10-S-Z | 2 × 1.000 W | 60 V 18 Ah | 65 km/h | En venta (~600 €) |
 | T10 | 2 × 1.000 W | 60 V 18 Ah | 60–65 km/h | En venta (~700 €) |
 
-Los tres comparten la misma base técnica: doble motor de 1.000 W y 60 V 18 Ah. El LR10 fue el primero de la saga; los actuales S10-S-Z y T10 son su evolución con mejor plegado e iluminación. Si buscas esta experiencia nueva, mira esos dos.
+El LR10 abrió la saga; los S10-S-Z y T10 actuales la continúan con mejor plegado e iluminación. La base técnica es común a los tres: dos motores de 1.000 W y un acumulador de 60 V con 18 Ah. Si quieres esa experiencia en nuevo, apunta a esos dos.
 
-## Comprar un LR10 de ocasión: lista de comprobación
+## Comprar un LR10 usado: qué comprobar
 
-1. **Batería**: pide una prueba de autonomía real. Con 1.080 Wh degradados al 70 %, el patinete pierde su gracia y la batería nueva cuesta una fortuna.
-2. **Doble motor**: acelera fuerte y escucha: ruidos metálicos o vibraciones raras en una rueda delatan un motor tocado.
-3. **Neumáticos de taco**: con tanto par, se gastan rápido. Calcula el coste de un juego nuevo en tu oferta.
-4. **Frenos de disco**: con 65 km/h de potencial, los discos deben estar rectos y las pastillas con vida.
-5. **Cargador original**: los cargadores genéricos cargan mal un acumulador de 60 V y 18 Ah.
+1. **Cargador original**: los genéricos no cargan bien un acumulador de 60 V con 18 Ah.
+2. **Batería**: exige una prueba de autonomía real. Unos 1.080 Wh degradados al 70 % le quitan la gracia al patinete, y un acumulador nuevo cuesta una fortuna.
+3. **Frenos de disco**: ante 65 km/h de potencial, los discos han de estar rectos y las pastillas con vida.
+4. **Doble motor**: acelera con fuerza y escucha: ruidos metálicos o vibraciones extrañas en una rueda avisan de un motor tocado.
+5. **Neumáticos de taco**: tanto par los desgasta deprisa. Suma a tu oferta el precio de un juego nuevo.
 
-## Mantener un doble motor de 2.000 W
+## Cuidar un doble motor de 2.000 W
 
-Dos motores duplican los puntos de fallo: revisa periódicamente el **apriete de los ejes de rueda**, el estado de los **cables de fase** (el calor los castiga) y la **presión de los neumáticos**. La batería de 1.080 Wh agradece cargas completas ocasionales para equilibrar celdas, pero en el día a día evita dejarla semanas al 100 %.
+Al acumulador de 1.080 Wh le vienen bien cargas completas esporádicas para equilibrar celdas, aunque en el uso diario conviene no dejarlo semanas al 100 %. Dos motores multiplican los puntos de fallo: comprueba de vez en cuando la **presión de los neumáticos**, el estado de los **cables de fase**, que el calor castiga, y el **apriete de los ejes de rueda**.
 
 ## Dónde tiene sentido un LR10 hoy
 
-En una **finca grande**, para **rutas de montaña** donde no llega la normativa VMP, o como **juguete de circuito**: ahí el LR10 es una máquina divertidísima por poco dinero de ocasión. Para ir a la oficina por la ciudad, es como ir a por el pan en un camión: se puede, pero no tiene sentido.
+Para desplazarse a la oficina por la ciudad, equivale a ir a por el pan en camión: factible, pero sin sentido. En cambio, en una **finca grande**, en **rutas de montaña** lejos de la normativa VMP, o para circuito, el LR10 divierte muchísimo por poco dinero de ocasión.
 
-## Preguntas frecuentes sobre el Joyor LR10
+## Preguntas frecuentes sobre el LR10
 
 ### ¿Cuánto costaba el Joyor LR10?
 
-Sin tarifa oficial pública conservada; se comercializó a través de la red de distribuidores españoles. Hoy está descatalogado.
+No se conserva tarifa oficial pública; se vendió por la red de distribuidores españoles y hoy está descatalogado.
 
 ### ¿Qué autonomía real tiene?
 
-Entre **45 y 60 km** con uso normal. La marca anunció hasta 92 km en condiciones ideales; los distribuidores hablan de 60–75 km.
+En uso normal, de **45 a 60 km**. La marca publicó en condiciones ideales hasta 92 km; los distribuidores citan 60–75 km.
 
-### ¿Es el LR10 mejor que el LR8?
+### ¿LR10 o LR8?
 
-Son filosofías distintas: el **LR10** es potencia y campo (doble motor, ruedas de taco); el **LR8** es confort rutero en asfalto con ruedas de 14".
+Planteamientos distintos: el **LR8** prioriza el confort rutero sobre asfalto con ruedas de 14", mientras el **LR10** apuesta por potencia y campo, con doble motor y ruedas de taco.
 
 ### ¿Puede circular legalmente en España?
 
-Solo **capado a 25 km/h**. Tal como sale de fábrica, con 60–65 km/h, en vía pública no cumple la normativa VMP.
+Únicamente **capado a 25 km/h**; de fábrica, con 60–65 km/h, no cumple la normativa VMP en vía pública.
 
 ### ¿Sigue fabricándose?
 
-No con ese nombre: la gama actual equivalente es el **S10-S-Z**, con la misma configuración 2 × 1.000 W y 60 V 18 Ah.
+No bajo ese nombre: hoy lo releva el **S10-S-Z**, con 2 × 1.000 W y acumulador de 60 V con 18 Ah.
 
-### ¿Qué mirar al comprarlo de segunda mano?
+### ¿Qué revisar al comprarlo usado?
 
-El estado de la **batería** (pide prueba de autonomía), el desgaste de los neumáticos de taco y que los dos motores respondan sin ruidos extraños.
+Que ambos motores respondan sin ruidos extraños y, sobre todo, el estado de la **batería** (exige prueba de autonomía), además del desgaste de los neumáticos de taco.
 
 ¿Denuncia con el patinete? <a href=https://recurretumulta.online/#analizador>Consulta gratis a nuestra IA</a> si esa sanción tiene recurso.
 
 
-## Sensaciones: qué se siente en un 2.000 W
+## Sensaciones: rodar con un 2.000 W
 
-La primera aceleración a fondo en un doble motor no se olvida: el empuje te echa el cuerpo hacia atrás de una forma que ningún monomotor reproduce. Después del susto inicial, aprendes a dosificar con el pulgar y descubres lo mejor del LR10: la **seguridad que da el par en cuestas**. Subir un puerto de tierra con dos motores traccionando transmite una confianza que un monomotor patinando no da.
+Tras el susto inicial, se aprende a dosificar con el pulgar y surge lo mejor del LR10: la **confianza que transmite el par en cuestas**. El primer acelerón a fondo con dos motores no se olvida: el empuje desplaza el cuerpo hacia atrás de un modo que ningún monomotor reproduce. Subir un puerto de tierra traccionando con los dos motores da una seguridad que un monomotor patinando no ofrece.
 
-## Más preguntas sobre el LR10
+## Más dudas sobre el LR10
 
-### ¿El LR10 tiene intermitentes?
+### ¿Lleva intermitentes el LR10?
 
-Sí: la iluminación es completa, con **intermitentes** incluidos, algo importante en un aparato de su velocidad.
+Sí: el alumbrado viene completo, con **intermitentes** incluidos, algo relevante dada su velocidad.
 
-### ¿Cuánto se tarda en recargar la batería de 1.080 Wh?
+### ¿Cuánto tarda en cargarse la batería de 1.080 Wh?
 
-Varias horas (toda la noche con el cargador de serie). Es el peaje de tanta capacidad.
+Es el coste de tanta capacidad: con el cargador de serie, toda la noche enchufado.
 
 ### ¿Pesa mucho?
 
-Sí: es un doble motor con batería enorme. No es un patinete para llevarlo en la mano a diario.
+Sí: doble motor y batería enorme. No es un patinete para cargar a mano cada día.
 
 *Fuentes: <a href=https://joyor.com/>web oficial de Joyor</a>, <a href=https://www.electricscooterguides.com/>Electric Scooter Guide</a>.*
 `,
