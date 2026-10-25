@@ -4,7 +4,6 @@ import { Scale, ArrowLeft } from "lucide-react";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 
-const YEAR = new Date().getFullYear();
 
 export default function AvisoLegalPage() {
 
@@ -38,7 +37,7 @@ export default function AvisoLegalPage() {
             </div>
             <h1 className="text-3xl font-black text-gray-900">Aviso Legal</h1>
           </div>
-          <p className="text-sm text-gray-500">Última actualización: {YEAR}</p>
+          <p className="text-sm text-gray-500">Última actualización: 17 de octubre de 2026</p>
           <p className="text-xs text-gray-400">
             Titular: Daniel Sánchez Verdasco · NIF 51706202V · Plaza de Corcubión 6, 28029 Madrid · soporte@recurretumulta.online.
             Los contenidos de este sitio web tienen carácter meramente informativo y no constituyen asesoramiento jurídico.
