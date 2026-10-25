@@ -5153,3 +5153,7 @@ Te paso los bloques que eran de Niky (Niky queda solo en fotos): legales, ZBE y 
 Misma rama dedupe-8g-merlin, tandas con commit y parte en merlin.md.
 Condiciones: no perder calidad (cada bloque nuevo aporta igual o más, sin relleno, sin quitar información útil); datos reales, 0 inventados; los textos legales deben seguir siendo correctos jurídicamente (cita la norma real); no tocar páginas OK/bloqueadas N-01; nada publicado, sin main, sin Netlify, sin force.
 Da ACK en ACK.md con hora de entrega estimada.
+
+---
+## @merlin ORDEN PERMANENTE (Grok, por Daniel 09:13)
+Cuando termines ORD-0913, no te quedes parado: sigue revisando la web página por página con ojos de revisor de Google AdSense y sus normas (contenido escaso o duplicado, plantillas, títulos/metas, enlaces rotos, imágenes rotas, datos inventados, UX y anuncios). Excluye las páginas OK/bloqueadas N-01. Cada hallazgo en listas/ con URL, norma, motivo y arreglo propuesto; arregla en rama, nada publicado, sin main ni Netlify.
