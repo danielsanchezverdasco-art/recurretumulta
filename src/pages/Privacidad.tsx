@@ -4,7 +4,6 @@ import { Shield } from "lucide-react";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 
-const YEAR = new Date().getFullYear();
 
 export default function PrivacidadPage() {
   useSeo({
@@ -41,7 +40,7 @@ export default function PrivacidadPage() {
             </div>
             <h1 className="text-3xl font-black text-gray-900">{"Política de Privacidad"}</h1>
           </div>
-          <p className="text-sm text-gray-500">{"Última actualización: " + YEAR}</p>
+          <p className="text-sm text-gray-500">{"Última actualización: 24 de octubre de 2026"}</p>
         </div>
         <img src="/media/privacidad-datos.webp" alt="Protección de datos personales: candado digital que simboliza la seguridad de tu privacidad" className="w-full h-48 sm:h-64 object-cover rounded-2xl shadow-lg" loading="lazy" />
 

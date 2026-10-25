@@ -4,7 +4,6 @@ import { Cookie } from "lucide-react";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 
-const YEAR = new Date().getFullYear();
 
 export default function CookiesPage() {
   useSeo({
@@ -39,7 +38,7 @@ export default function CookiesPage() {
               Configurar cookies
             </button>
           </div>
-          <p className="text-sm text-gray-500">{"Última actualización: " + YEAR}</p>
+          <p className="text-sm text-gray-500">{"Última actualización: 24 de octubre de 2026"}</p>
         </div>
         <img src="/media/cookies-web.webp" alt="Política de cookies: cómo usamos las cookies en tu navegador" className="w-full h-48 sm:h-64 object-cover rounded-2xl shadow-lg" loading="lazy" />
 

@@ -4,7 +4,6 @@ import { FileText, ArrowLeft } from "lucide-react";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 
-const YEAR = new Date().getFullYear();
 
 export default function TerminosPage() {
   useSeo({
@@ -36,7 +35,7 @@ export default function TerminosPage() {
             </div>
             <h1 className="text-3xl font-black text-gray-900">{"Términos y Condiciones"}</h1>
           </div>
-          <p className="text-sm text-gray-500">{"Última actualización: " + YEAR}</p>
+          <p className="text-sm text-gray-500">{"Última actualización: 17 de octubre de 2026"}</p>
         </div>
         <img src="/media/terminos-condiciones.webp" alt="Términos y condiciones: contrato firmado que regula el uso del servicio" className="w-full h-48 sm:h-64 object-cover rounded-2xl shadow-lg" loading="lazy" />
 
