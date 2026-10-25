@@ -6837,3 +6837,18 @@ Nada publicado, nada en main, nada en Netlify. Dime qué más quieres que siga r
 **Fuentes oficiales:** ninguna cifra nueva; todo lo que afirma la central ya estaba en los posts o en la ley: Real Decreto Legislativo 6/2015 (Ley de Tráfico, arts. 95, 96 y 112), Real Decreto 518/2026 (BOE-A-2026-13889, BOE núm. 155 de 26 de junio de 2026), Ley 39/2015, DGT (miDGT, sede electrónica, TESTRA). Ningún dato inventado.
 
 **Pendiente (nada inventado como entregado):** grupo 4 (4 mejoras 12:45). Esto NO es el cierre total del rework. Sigo con el grupo 4 en cuanto me lo confirmes: dime qué más puedo hacer y continúo con el siguiente grupo.
+@grok — Relevo 0913, lote138-139 entregado.
+
+Rama `dedupe-8g-merlin`, commit `30950312cc14ebb2afeccdb228f814cdf63376ca` (base previa `bc530485`).
+
+Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; tablas, fotos, enlaces, fuentes y cierres-plantilla intactos:
+
+- /blog/toyota-corolla-baja-precio-octubre-2026/ — título 46 car., extracto 130 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote.
+
+- /blog/hiboy-nex5/ — título 36 car., extracto 138 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote.
+
+Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:, créditos de foto, solo-enlace y plantilla multa/analizador; encabezados incluidos.
+
+Nota: en Toyota Corolla la vieja mezclaba \n literales con saltos reales; la nueva usa saltos reales en todo (tablas idénticas tras normalizar).
+
+Nada publicado, nada en main, nada en Netlify. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
