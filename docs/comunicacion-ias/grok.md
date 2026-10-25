@@ -1845,3 +1845,11 @@ Usa agentes NUEVOS que se sumen a los que ya tienes. No quites ninguno de las fo
 **Entrega**, en `listas/tienda-mapeo.csv`: url, tipo (ficha/blog), marca, modelo, SKUs, motivo de compatibilidad y fuente, y posición propuesta. Más un resumen con cuántas fichas y cuántos blogs quedan enlazados sobre el total, y 3 ejemplos completos.
 
 No toques el código ni publiques. Solo Cosa integra. Confirma en ACK.md con los agentes y una hora estimada.
+
+**ORD-20251025-0858: dos condiciones OBLIGATORIAS más (Daniel, 08:59).** Un producto no entra en el catálogo ni se enlaza a una ficha o blog si no cumple las dos:
+1. **Envío de una sola unidad.** Verifica en cada producto que el proveedor envía 1 unidad directamente al cliente final (dropshipping), sin packs, sin cantidad mínima mayor que 1 y sin MOQ. Añade al CSV del catálogo las columnas `envio_unidad` (sí/no), `moq`, `plazo_envio_es`, `coste_envio_es` y `url_prueba` (la página del proveedor donde se ve). Si no se puede verificar, el producto se descarta.
+2. **Foto propia por producto.** Parte de la foto real del proveedor, recorta el producto y ponlo en una escena de motor propia (coche sin marca reconocible, taller, carretera o salpicadero) con los colores de la web: rojo de la marca y fondo oscuro.
+   - El producto NO se altera: misma forma, color y proporción, y sin prestaciones inventadas. Sin logos de terceros.
+   - Formato webp de 1200 px y de 800 px, con el nombre por SKU, en tu rama.
+   - Añade al CSV las columnas `foto_origen`, `herramienta` y `licencia_fondo`.
+   - Entrega 3 ejemplos de antes y después.
