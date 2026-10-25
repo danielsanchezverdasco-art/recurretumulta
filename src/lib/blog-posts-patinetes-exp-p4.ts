@@ -3901,9 +3901,9 @@ El X7 Max se mueve mejor en ciudad y permite extraer su batería; el R9, en camb
   },
   {
     slug: "turboant-m10-lite",
-    title: "Turboant M10 Lite: 350 W por 230 €",
+    title: "Turboant M10 Lite: 14 kg y plegado en 3 segundos",
     excerpt:
-      "El Turboant M10 Lite es el acceso a la marca: 350 W, 14 kg, 25 km declarados y plegado en 3 segundos por ~230 €. Ficha completa.",
+      "El acceso a Turboant: motor de 350 W, 14 kg, 25 km anunciados y plegado en 3 segundos por unos 230 €, pensado para el campus y trayectos cortos.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -3922,9 +3922,9 @@ El X7 Max se mueve mejor en ciudad y permite extraer su batería; el R9, en camb
 
 **¿Buscas solo los datos?** <a href=/patinetes/turboant-m10-lite/>Ver ficha técnica del Turboant M10 Lite</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **Turboant M10 Lite** es el más barato de la marca: **350 W**, batería de **36 V y 6,6 Ah (238 Wh)**, **25 km** declarados, **14 kg** y plegado en 3 segundos, por **~230 €** (<a href=https://turboant.com/pages/best-electric-scooter-for-campus>TurboAnt oficial</a> / <a href=https://the-gadgeteer.com/2022/12/18/turboant-m10-lite-folding-electric-scooter-review-zippy-and-fun-transportation/>The Gadgeteer</a>).
+Dentro del catálogo de Turboant, la versión Lite abre la gama: un urbano compacto para desplazamientos breves, con motor de 350 W, acumulador de 238 Wh (36 V, 6,6 Ah), 25 km anunciados, 14 kg y un plegado que se completa en 3 segundos, por **~230 €** (<a href=https://turboant.com/pages/best-electric-scooter-for-campus>TurboAnt oficial</a> / <a href=https://the-gadgeteer.com/2022/12/18/turboant-m10-lite-folding-electric-scooter-review-zippy-and-fun-transportation/>The Gadgeteer</a>).
 
-## Ficha técnica resumida
+## Datos clave
 
 | Dato | Valor |
 |---|---|
@@ -3943,29 +3943,29 @@ El **Turboant M10 Lite** es el más barato de la marca: **350 W**, batería de *
 
 ¿Quieres el detalle completo? <a href=/patinetes/turboant-m10-lite/>Ficha técnica completa del Turboant M10 Lite</a> con todos los datos verificados.
 
-## Precio del Turboant M10 Lite en España
+## Cuánto cuesta y cómo conseguirlo
 
-Unos **230 €** al cambio (249,98 $). Sin distribución en España: importación.
+Al cambio, ronda los 230 € (249,98 $). No hay distribución oficial en España, así que llega por importación.
 
 <img src=/media/patinetes/turboant-m10-lite-2.webp alt=Detalle de la pantalla LED del Turboant M10 Lite>
 
-## Autonomía real vs declarada
+## Alcance en trayectos cortos
 
-Declara **25 km**; con 238 Wh calcula **15-17 km** reales. Es el patinete del campus: clase-dormitorio-clase sin pensar en más.
+La cifra anunciada es de 25 km, pero con 238 Wh lo prudente es contar con 15-17 km efectivos. Es un planteamiento de campus: ir de clase al dormitorio y volver, sin pretender más.
 
-## Frenos y neumáticos
+## Frenos, ruedas y extras
 
-**Disco + freno electrónico** y **8,5 con cámara**: más cómodas que las macizas y con frenada decente. **IP54** y **puerto USB** para el móvil.
+Combina freno de disco con freno electrónico y monta ruedas de 8,5 pulgadas con cámara, más confortables que las macizas y con una frenada solvente. Añade protección IP54 y un puerto USB para cargar el móvil.
 
-## Certificado DGT y normativa VMP
+## Legalidad en España y velocidad
 
-Sin certificado DGT verificado. Sus **26 km/h** de punta están al límite: conviene **ajustarlo a 25 km/h** para la normativa VMP; prohibido en **aceras**.
+No consta certificado DGT verificado. De serie alcanza 26 km/h, por encima del tope VMP, así que conviene limitarlo a 25 km/h; además, está prohibido circular por aceras.
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/GsIdlTVaHr0 title="Análisis del Turboant M10 Lite" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=GsIdlTVaHr0>análisis del Turboant M10 Lite</a> en YouTube.
 
-## Puntos fuertes y débiles
+## Lo bueno y lo mejorable
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -3977,25 +3977,25 @@ Vídeo: <a href=https://www.youtube.com/watch?v=GsIdlTVaHr0>análisis del Turboa
 
 <img src=/media/patinetes/turboant-m10-lite-3.webp alt=Turboant M10 Lite en un campus universitario>
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuánto cuesta el Turboant M10 Lite?
-Unos **230 €** al cambio.
+### ¿Cuánto cuesta al cambio?
+Unos 230 €.
 
-### ¿Qué autonomía real tiene?
-Unos **17 km** en ciudad.
+### ¿Qué recorrido efectivo ofrece?
+Unos 17 km en ciudad.
 
-### ¿En qué se diferencia del M10 Pro?
-Menos batería (238 Wh frente a 374 Wh) y menos rango; el Pro ya está en el comparador.
+### ¿Qué cambia frente al M10 Pro?
+El Pro monta más batería (374 Wh frente a 238 Wh) y ofrece más rango; ya está en el comparador.
 
-### ¿Es legal en España?
-Conviene **ajustarlo a 25 km/h** (de serie da 26).
+### ¿Se puede circular legalmente con él en España?
+Conviene limitarlo a 25 km/h, porque de serie alcanza 26 km/h.
 
-### ¿Pesa poco?
-**14 kg**: ligero de verdad.
+### ¿Es ligero?
+Sí: 14 kg, un peso realmente bajo.
 
-### ¿Para quién es?
-Estudiantes y trayectos cortos: no le pidas más de 15 km al día.
+### ¿Para qué uso está pensado?
+Para estudiantes y recorridos breves, dentro de un radio diario inferior a 15 km.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
