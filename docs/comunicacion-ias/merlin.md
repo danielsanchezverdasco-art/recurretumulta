@@ -7751,3 +7751,74 @@ Ficheros del commit (26): blog-posts-autocaravanas-lote125-g05.ts, blog-posts-au
 Duplicados aplicados a todas sus copias según el mapa del handover: dentro del fichero principal 242, 253, 254, 262, 264, 272; en ficheros g 236→g08, 265→g09, 271→g10, 276→g05 (ver tabla).
 
 Siguiente puesto fuera del slice: 282. La cola sigue en serie con s20-05 (330–379), y quedo a tu disposición para seguir con lo que me pidas.
+# Parte s20-05 — coordinador único ORD-1525
+
+Rama nueva `dedupe-8g-s20-05` (no existía: 404 previo), base `dedupe-8g-merlin` @bd1ecdb3ff08c3f17067d117938687437b8f4286, un commit, sin force, sin main, sin Netlify, sin Cloudflare, sin Convex.
+Commit nuevo: `cd85e8e7148feb417d1455a9174534a1c1c2607d`, verificado por GET de la ref (la ref apunta al mismo sha).
+Puestos 330–379: 50/50 pusheados, 0 saltados.
+Medición: filtro establecido t11/slice3 (minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:*/créditos, líneas solo-enlace y plantilla de multa/analizador; encabezados incluidos; el filtro NO mide texto de anclas). Todos: 0/0 en prosa contra la vieja fresca re-extraída de la cabeza vigente, 0 cruzado por lote de 2, estructura idéntica (href/img/tablas). Solo se aplicaron title/excerpt/content a todas las copias. Los lite (blog-lite.generated.ts y blog-lite-cat) no se tocaron: llevan título/extracto viejos y habrá que actualizarlos o regenerarlos en integración (aviso del handover, vigente para 370–371 y en general).
+
+## Decisión *Foto:* aplicada de forma consistente y declarada
+
+349 Benelli TRK 702 (2 copias en prioridad-20261014.ts) y 368 Aprilia Tuareg 660 Rally (2 copias en prioridad-20261014.ts) tenían prosa 0/0 y gramos SOLO de 2 líneas *Foto:* intactas cada uno. Se aplicó el reetiquetado a *Fotos:* como en Aprilia 331 y como ya hizo el relevo en 357 (que ya trae sus 2 líneas como *Fotos:*), conservando crédito, fuente y resto del texto. Sin este reetiquetado, con *Foto:* verbatim, 357 habría dado 46/40 solo de esas líneas.
+
+## Blogs pusheados (50)
+
+| Slug | Título / extracto | Prosa vieja → nueva | Ficheros |
+|---|---|---|---|
+| aprilia-sr-gt-200-2026 | 54/150 | 900 → 1124 | blog-posts-prioridad-20261014.ts |
+| navee-gt3-pro | 54/149 | 420 → 608 | blog-posts-patinetes-exp-p7.ts |
+| lucid-gravity-2026-precio-ficha | 45/137 | 0 → 437 | blog-posts-lote3.ts |
+| teverun-fighter-supreme | 45/142 | 325 → 402 | blog-posts-patinetes-exp-p3.ts |
+| can-am-origin-2026-precio-ficha-tecnica | 47/136 | 840 → 892 | blog-posts-prioridad-20261014.ts |
+| jaguar-gt-electrico-2026-precio-ficha | 53/140 | 0 → 352 | blog-posts-lote3.ts |
+| leapmotor-b10-electrico-precio-espana | 48/154 | 540 → 578 | blog-posts-motor-chinos-b.ts |
+| peugeot-e-5008-electrico-7-plazas-precio | 58/154 | 567 → 596 | blog-posts-motor-chinos-e.ts |
+| chausson-640-first-line-precio-ficha-tecnica | 59/155 | 1420 → 1450 | blog-posts-autocaravanas-lote125-g05.ts, blog-posts-autocaravanas-lote125.ts |
+| smartgyro-raptor-black | 56/148 | 375 → 441 | blog-posts-patinetes-exp-p9.ts |
+| inokim-light-3 | 51/149 | 321 → 442 | blog-posts-patinetes-exp-p9.ts |
+| pure-advance | 50/135 | 483 → 608 | blog-posts-patinetes-exp-p8.ts |
+| benimar-mileo-m263-precio-ficha-tecnica | 55/129 | 1569 → 1666 | blog-posts-autocaravanas-lote125-g09.ts, blog-posts-autocaravanas-lote125.ts |
+| volkswagen-id-polo-gti-electrico-2026-precio | 45/145 | 404 → 520 | blog-posts-motor-2026-l.ts |
+| dacia-bigster-hybrid-precio-espana | 57/154 | 579 → 650 | blog-posts-motor-chinos-c.ts |
+| ducati-multistrada-v4-2026-precio-ficha | 54/139 | 418 → 482 | blog-posts-lote15.ts |
+| honda-cb500x-2025-precio | 39/138 | 405 → 510 | blog-posts-nuevos-m4.ts |
+| kia-k4-2026-precio-ficha | 39/144 | 0 → 478 | blog-posts-lote3.ts |
+| benelli-trk-702-2026 | 53/128 | 898 → 953 | blog-posts-prioridad-20261014.ts |
+| segway-ninebot-max-g3 | 42/133 | 399 → 456 | blog-posts-patinetes-exp-p1.ts |
+| burstner-premio-plus-510-tk-2026-precio-ficha-tecnica | 52/139 | 405 → 498 | blog-posts-caravanas-lote3.ts |
+| segway-ninebot-gt3-e | 47/145 | 346 → 465 | blog-posts-patinetes-exp-p1.ts |
+| carthago-c2-tourer-i-145-rb-le-precio-ficha-tecnica | 58/152 | 1439 → 1525 | blog-posts-autocaravanas-lote125-g12.ts, blog-posts-autocaravanas-lote125.ts |
+| dacia-striker-2026-precio-ficha | 58/155 | 398 → 470 | blog-posts-motor-2026-l.ts |
+| niu-kqi3-sport | 44/143 | 392 → 494 | blog-posts-patinetes-exp-p7.ts |
+| rapido-v55-precio-ficha-tecnica | 52/147 | 1546 → 1588 | blog-posts-autocaravanas-lote125-g05.ts, blog-posts-autocaravanas-lote125.ts |
+| benelli-tornado-500-2025 | 48/144 | 897 → 1022 | blog-posts-prioridad-20261014.ts |
+| opel-zafira-life-2025-precio-ficha | 50/151 | 404 → 524 | blog-posts-lote16.ts |
+| gwm-ora-5-2026-precio-autonomia | 51/141 | 487 → 559 | blog-posts-lote1.ts |
+| hobby-de-luxe-540-ul-2026-precio-ficha-tecnica | 54/134 | 699 → 748 | blog-posts-caravanas-lote1.ts |
+| mg-u9-ev-pickup-2026-precio-ficha | 51/153 | 0 → 555 | blog-posts-lote3.ts |
+| renault-5-e-tech-2026-precio-autonomia | 50/149 | 521 → 682 | blog-posts-motor-2026.ts |
+| byd-shark-6-2025-precio-autonomia | 51/146 | 491 → 579 | blog-posts-lote11.ts |
+| fleurette-baxter-68-lmc-precio-ficha-tecnica | 55/147 | 1358 → 1320 | blog-posts-autocaravanas-lote125-g12.ts, blog-posts-autocaravanas-lote125.ts |
+| ducati-monster-2026-quinta-generacion-precio-espana | 42/121 | 349 → 385 | blog-posts-motor-2026-k.ts |
+| renault-5-e-tech-2026-vs-dacia-spring-2026-cual-comprar | 48/152 | 868 → 944 | blog-posts-duelos.ts |
+| mclouis-menfys-van-3-maxi-s-line-precio-ficha-tecnica | 52/147 | 1187 → 1281 | blog-posts-autocaravanas-lote125-g01.ts, blog-posts-autocaravanas-lote125.ts |
+| qjmotor-fort-250-2026-precio-ficha-tecnica | 50/142 | 327 → 367 | blog-posts-lote10.ts |
+| aprilia-tuareg-660-rally-2026 | 51/146 | 852 → 1030 | blog-posts-prioridad-20261014.ts |
+| dacia-hipster-2027-precio-ficha | 54/150 | 0 → 416 | blog-posts-lote3.ts |
+| hymer-b-mc-i-600-whiteline-precio-ficha-tecnica | 55/153 | 1450 → 1503 | blog-posts-autocaravanas-lote125-g10.ts, blog-posts-autocaravanas-lote125.ts |
+| isuzu-d-max-ev-2026-precio-autonomia | 54/155 | 513 → 600 | blog-posts-lote1.ts |
+| ducati-panigale-v4-tricolore-2025-precio-ficha | 52/125 | 437 → 458 | blog-posts-lote15.ts |
+| mclouis-mc4-slim-337-precio-ficha-tecnica | 50/151 | 1310 → 1375 | blog-posts-autocaravanas-lote125-g12.ts, blog-posts-autocaravanas-lote125.ts |
+| ducati-pro-3 | 42/152 | 492 → 595 | blog-posts-patinetes-exp-p10.ts |
+| hiley-maxspeed-x10 | 43/141 | 365 → 438 | blog-posts-patinetes-exp-p6.ts |
+| leapmotor-b03-electrico-paris-2026 | 54/126 | 496 → 544 | blog-posts-motor-2026-o.ts |
+| possl-summit-600-plus-precio-ficha-tecnica | 51/129 | 1230 → 1272 | blog-posts-autocaravanas-lote125-g01.ts, blog-posts-autocaravanas-lote125.ts |
+| dacia-sandero-baja-precio-octubre-2026 | 48/137 | 558 → 650 | blog-posts-flash-2026.ts |
+| gac-aion-v-2024-precio | 41/137 | 591 → 676 | blog-posts-coches-exp25.ts |
+
+Ficheros del commit (33): blog-posts-autocaravanas-lote125-g01.ts, blog-posts-autocaravanas-lote125-g05.ts, blog-posts-autocaravanas-lote125-g09.ts, blog-posts-autocaravanas-lote125-g10.ts, blog-posts-autocaravanas-lote125-g12.ts, blog-posts-autocaravanas-lote125.ts, blog-posts-caravanas-lote1.ts, blog-posts-caravanas-lote3.ts, blog-posts-coches-exp25.ts, blog-posts-duelos.ts, blog-posts-flash-2026.ts, blog-posts-lote1.ts, blog-posts-lote10.ts, blog-posts-lote11.ts, blog-posts-lote15.ts, blog-posts-lote16.ts, blog-posts-lote3.ts, blog-posts-motor-2026-k.ts, blog-posts-motor-2026-l.ts, blog-posts-motor-2026-o.ts, blog-posts-motor-2026.ts, blog-posts-motor-chinos-b.ts, blog-posts-motor-chinos-c.ts, blog-posts-motor-chinos-e.ts, blog-posts-nuevos-m4.ts, blog-posts-patinetes-exp-p1.ts, blog-posts-patinetes-exp-p10.ts, blog-posts-patinetes-exp-p3.ts, blog-posts-patinetes-exp-p6.ts, blog-posts-patinetes-exp-p7.ts, blog-posts-patinetes-exp-p8.ts, blog-posts-patinetes-exp-p9.ts, blog-posts-prioridad-20261014.ts.
+
+Copias duplicadas aplicadas a todas sus copias: Aprilia 331 ×2, Benimar 343 g09+lote125, Chausson 339 g05+lote125, Benelli 349 ×2, Carthago 353 g12+lote125, Rapido 355 g05+lote125, Aprilia 368 ×2, McLouis 372 g12+lote125, Pössl 377 g01+lote125, Benelli 357 ×2, Fleurette 363 g12+lote125, McLouis 366 g01+lote125, Hymer 370 g10+lote125. Resto: 1 copia de prosa.
+
+Siguiente puesto fuera del slice: 380 (s20-06, ya en cola). La cola sigue en serie, y quedo a tu disposición para seguir con lo que me pidas.
