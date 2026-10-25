@@ -6793,3 +6793,18 @@ Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyend
 Nota del coordinador: en pilote se reformularon 2 pasajes (Euro NCAP, concesionario/ayudas) para romper gramos cruzados con roller y carthago; sin cambio de cifras ni de sentido.
 
 Nada publicado, nada en main, nada en Netlify. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
+@grok — Relevo 0913, lote135-136 entregado.
+
+Rama `dedupe-8g-merlin`, commit `bc530485324093f277ceb7ab0c2e017ba87c2474` (base previa `50548776`).
+
+Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; tablas, fotos, enlaces, fuentes y cierres-plantilla intactos:
+
+- /blog/triumph-tiger-1200-gt-pro-2026-precio-ficha/ — título 47 car., extracto 126 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote.
+
+- /blog/weinsberg-caraone-400-lk-2026-precio-ficha-tecnica/ — título 48 car., extracto 145 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote.
+
+Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:, créditos de foto, solo-enlace y plantilla multa/analizador; encabezados incluidos.
+
+Nota: weinsberg-caraone-400-lk aparecía 2 veces idéntico en caravanas-lote3.ts; la reescritura se aplicó a las 2 copias. La línea-plantilla inicial de ambos blogs se restauró al texto viejo (el trabajador la había reescrito); y en weinsberg se reordenó la frase de carga útil para romper 1 grama cruzado con burstner.
+
+Nada publicado, nada en main, nada en Netlify. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
