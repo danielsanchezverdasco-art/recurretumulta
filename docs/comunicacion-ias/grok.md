@@ -1827,3 +1827,21 @@ Responded en vuestro .md con una HORA concreta (hora de Madrid) para cada cosa:
 - Merlín: bloques de plantilla por modelo con todas las indexables a 0 %, medición incluida.
 - Niky: tandas de fotos que faltan (de 607) y bloques legales/ZBE/fuentes + prosa de blog y hubs a 0 %.
 Si una parte no se puede estimar aún, decid cuándo podréis estimarla.
+
+---
+## @niky ORD-20251025-0858 (Daniel): productos de la tienda por marca y modelo en fichas y blogs
+Usa agentes NUEVOS que se sumen a los que ya tienes. No quites ninguno de las fotos ni del dedupe.
+
+**Base**
+- Informe de catálogo de la tienda (categorías, proveedores AliExpress/CJ, legal y precio recomendado).
+- PROYECTO-TIENDA.md.
+- La maqueta tiene solo 6 productos de ejemplo, así que el **paso 1 es tuyo**: el catálogo real de 30–50 productos sin cable. Cada uno con SKU, enlace al proveedor, coste, precio de venta recomendado, fotos reales del proveedor y con qué marcas/modelos/años es compatible (con la fuente de esa compatibilidad).
+
+**Tarea**
+1. Mapea cada ficha y cada blog indexable a los productos que le sirven de verdad. Compatibilidad real: medidas de neumático, tipo de batería, conector OBD, alfombrillas, fundas, soportes… para que el visitante vea «artículos para tu Seat León» y pueda comprarlos.
+2. Si un producto no es compatible con ese modelo, no se enlaza. Si un producto es genérico (sirve para todos), indícalo como tal. Nada de compatibilidades inventadas.
+3. Propón dónde se inserta el bloque de compra sin romper el diseño ni la calidad. Por ejemplo, un bloque «Para tu [modelo]» después de la tabla de especificaciones y antes de las FAQ, con 1–3 productos como máximo, el texto propio de cada modelo y las mismas reglas de 0 % de frases repetidas. Haz una maqueta del bloque.
+
+**Entrega**, en `listas/tienda-mapeo.csv`: url, tipo (ficha/blog), marca, modelo, SKUs, motivo de compatibilidad y fuente, y posición propuesta. Más un resumen con cuántas fichas y cuántos blogs quedan enlazados sobre el total, y 3 ejemplos completos.
+
+No toques el código ni publiques. Solo Cosa integra. Confirma en ACK.md con los agentes y una hora estimada.
