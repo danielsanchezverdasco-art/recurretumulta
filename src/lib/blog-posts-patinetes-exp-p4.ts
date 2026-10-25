@@ -266,9 +266,9 @@ Como segunda unidad o para ciudad plana, sí. Para un uso exigente, mejor mirar 
   },
   {
     slug: "bogist-c1-pro",
-    title: "Bogist C1 Pro: 550 W y sillín extraíble",
+    title: "Bogist C1 Pro: 550 W, sillín y 45 km/h de punta",
     excerpt:
-      "El Bogist C1 Pro apuesta por la potencia: 550 W (800 W de pico), 40 km de autonomía, doble suspensión y sillín extraíble. Ficha completa.",
+      "Sillín desmontable, 550 W con picos de 800 W, 40 km anunciados y doble suspensión: el C1 Pro une potencia y asiento, limitado a 25 km/h.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -287,9 +287,9 @@ Como segunda unidad o para ciudad plana, sí. Para un uso exigente, mejor mirar 
 
 **¿Buscas solo los datos?** <a href=/patinetes/bogist-c1-pro/>Ver ficha técnica del Bogist C1 Pro</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **Bogist C1 Pro** es el musculoso de la gama con sillín: **550 W** (800 W de pico), **40 km** de autonomía declarada, **doble suspensión**, **IP65** y **sillín extraíble** incluido. Tres modos de velocidad (24/32/45 km/h) para adaptarlo a cada situación.
+Bogist coloca este C1 Pro como el modelo con sillín de mayor empuje: 550 W nominales con picos de 800 W, 40 km anunciados, suspensión en ambos ejes, protección IP65 y sillín desmontable de serie. Sus tres modos fijan topes de 24, 32 y 45 km/h según la situación.
 
-## Ficha técnica resumida
+## Datos resumidos
 
 | Dato | Valor |
 |---|---|
@@ -303,29 +303,29 @@ El **Bogist C1 Pro** es el musculoso de la gama con sillín: **550 W** (800 W de
 
 ¿Quieres el detalle completo? <a href=/patinetes/bogist-c1-pro/>Ficha técnica completa del Bogist C1 Pro</a> con todos los datos verificados.
 
-## Precio del Bogist C1 Pro en España
+## Precio sin cifra oficial
 
-Sin PVP oficial: se encuentra en mercado de segunda mano y distribuidores. Su argumento es potencia + sillín por menos dinero que la competencia con asiento.
+No existe un PVP oficial publicado: las unidades aparecen en el mercado de segunda mano y a través de distribuidores. Su baza consiste en reunir potencia y asiento por menos dinero que los competidores que también ofrecen sillín.
 
 <img src=/media/patinetes/bogist-c1-pro-2.webp alt=Detalle del sillín extraíble y la plataforma del Bogist C1 Pro>
 
-## Autonomía real vs declarada
+## Alcance anunciado frente al alcance estimado
 
-Declara **40 km**; con uso mixto y el modo más alegre calcula **unos 27 km reales**. La doble suspensión y las ruedas de 10 pulgadas ayudan a no desperdiciar energía en baches.
+El folleto promete 40 km; en un uso mixto y con el modo más vivo, el cálculo prudente ronda los 27 km reales. La suspensión en ambos ejes y las cubiertas de 10 pulgadas evitan malgastar energía en cada bache.
 
-## Frenos y neumáticos
+## Frenada y rodadura
 
-Freno de **disco** y neumáticos **hinchables de 10 pulgadas**: combinación correcta para sus 800 W de pico. El sillín extraíble permite usarlo de pie o sentado según el trayecto.
+El freno es de disco y los neumáticos, hinchables de 10 pulgadas: una pareja proporcionada a los 800 W de pico. El sillín desmontable deja elegir entre ir de pie o sentado en cada desplazamiento.
 
-## Certificado DGT y normativa VMP
+## Papeles y límites para circular
 
-Sin certificado DGT verificado. Ojo: sus **45 km/h** de punta lo dejan **fuera de la normativa VMP** tal cual se vende (límite 25 km/h). Solo es legal limitado a 25 km/h, sin circular por **aceras** en ningún caso.
+Su ficha no recoge un certificado DGT verificado. Con una punta de 45 km/h, tal como se vende queda fuera de la normativa VMP, cuyo límite es de 25 km/h. Solo circula de forma legal limitado a 25 km/h, y las aceras quedan excluidas en todos los casos.
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/FHz7DxgRb38 title="Análisis del Bogist C1 Pro" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=FHz7DxgRb38>análisis del Bogist C1 Pro</a> en YouTube.
 
-## Puntos fuertes y débiles
+## Ventajas e inconvenientes
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -337,9 +337,9 @@ Vídeo: <a href=https://www.youtube.com/watch?v=FHz7DxgRb38>análisis del Bogist
 
 <img src=/media/patinetes/bogist-c1-pro-3.webp alt=Bogist C1 Pro con sillín circulando por carril bici>
 
-## Los tres modos, y cuál puedes usar en la calle
+## Los tres modos y su encaje en la calle
 
-El C1 Pro ofrece modos de **24, 32 y 45 km/h**, pero la normativa española de vehículos de movilidad personal fija el techo legal en **25 km/h**. Traducción práctica: en la vía pública solo cabe circular con el modo que no supere ese límite; las velocidades superiores quedan fuera del marco VMP y, con ellas, el patinete deja de ser un VMP a ojos de la regulación. La DGT exige además que los VMP comercializados cuenten con su certificado de circulación: este modelo **no tiene certificado DGT verificado**, así que antes de comprarlo toca exigir al vendedor la documentación y comprobar que puede limitarse correctamente.
+Los tres modos marcan 24, 32 y 45 km/h, pero el techo legal español para vehículos de movilidad personal se sitúa en 25 km/h. En la práctica, la vía pública solo admite el modo que no rebasa esa cifra; con las velocidades superiores, el vehículo queda fuera del marco VMP. La DGT pide además que los VMP puestos a la venta dispongan de su certificado de circulación: este modelo no presenta certificado DGT verificado en su ficha; antes de pagarlo, conviene exigir la documentación al vendedor y confirmar que la limitación funciona correctamente.
 
 | Modo | Velocidad | Situación legal en España |
 |---|---|---|
@@ -347,47 +347,48 @@ El C1 Pro ofrece modos de **24, 32 y 45 km/h**, pero la normativa española de v
 | Modo 2 | 32 km/h | Fuera del límite VMP |
 | Modo 3 | 45 km/h | Fuera del límite VMP |
 
-## Sentado se viaja distinto
+## Viajar sentado
 
-El **sillín extraíble** transforma la experiencia más de lo que sugiere la ficha: en trayectos de 8-10 km, ir sentado reduce la fatiga de piernas y espalda y libera una mano de la tensión de ir de pie sobre una plataforma corta. La doble suspensión y las ruedas hinchables de 10 pulgadas acompañan bien ese uso viajero, y la certificación **IP65** permite seguir circulando si se pone a llover sin temer por la electrónica. El precio de tanta comodidad llega al plegarlo: el conjunto con sillín pesa y abulta más, así que quien combine a diario con tren o metro debería valorar un modelo ligero sin asiento.
+El sillín desmontable cambia la experiencia más de lo que la ficha sugiere: en recorridos de 8-10 km, ir sentado alivia la fatiga de piernas y espalda y quita tensión a la mano que sostiene la postura de pie sobre una plataforma corta. La suspensión en ambos ejes y las cubiertas hinchables de 10 pulgadas acompañan ese uso viajero, y la etiqueta IP65 permite seguir rodando si empieza a llover sin temer por la electrónica. La contrapartida aparece al doblarlo: el conjunto con sillín pesa y ocupa más, así que quien combina cada día tren o metro con el patinete debería sopesar un modelo ligero sin asiento.
 
-## Autonomía: del folleto a tu calle
+## Del folleto a la calle
 
-Declara 40 km y nuestra estimación real ronda los **27 km** en uso mixto. La brecha se explica sin conspiraciones: la cifra de laboratorio se obtiene con conductor ligero, ritmo constante y temperatura amable; tu calle suma paradas, cuestas, viento y un modo de velocidad alegre que exprime los **800 W de pico** en cada salida de semáforo.
+Declara 40 km y la estimación real se mueve en torno a los 27 km en uso mixto. La distancia no esconde ninguna trampa: la cifra de laboratorio sale con un conductor ligero, un ritmo constante y una temperatura amable; la calle añade detenciones, pendientes, viento y un modo vivo que reclama los 800 W de pico al arrancar desde un semáforo.
 
-**Veredicto:** merece la pena si buscas potencia y la opción de ir sentado por menos que las marcas grandes, aceptando limitarlo a 25 km/h y verificar su documentación antes de pagar; no es el tuyo si necesitas un VMP certificado sin trámites ni un peso pluma para el tren. Revisa la <a href=/patinetes/bogist-c1-pro/>ficha del Bogist C1 Pro</a> junto al <a href=/patinetes/bogist-m5-pro/>Bogist M5 Pro</a>.
+**Veredicto:** si buscas empuje y la opción de viajar sentado a un precio inferior al de las marcas grandes, el C1 Pro encaja aceptando circular limitado a 25 km/h y revisando su documentación antes de pagar; tampoco es la opción si lo que buscas es un VMP ya certificado sin gestiones, o un modelo ultraligero para el tren. Contrasta <a href=/patinetes/bogist-c1-pro/>ficha C1 Pro</a> con el <a href=/patinetes/bogist-m5-pro/>M5 Pro</a> antes de decidir.
 
-## Convivir con él: presión, frenos y batería
+## Presión, frenos y batería en el día a día
 
-Un patinete con ruedas hinchables de **10 pulgadas** exige vigilar la presión cada pocas semanas: rodar bajo de aire dispara el consumo, acorta la autonomía real y multiplica el riesgo de llantazo contra un bordillo. El freno de disco agradece un ajuste periódico del cable y pastillas nuevas cuando el tacto se vuelve esponjoso, un mantenimiento de bicicleta de toda la vida. La batería de litio, aunque la marca no publica su capacidad, se cuida con las reglas universales del formato: evitar guardarlo meses al 100 % o al 0 %, cargarlo a temperatura ambiente y no dejarlo al sol de agosto dentro de un coche. El sillín extraíble también merece su tornillería revisada de vez en cuando, porque un asiento que se mueve a 25 km/h convierte cualquier bache en un susto serio.
+Con cubiertas hinchables de 10 pulgadas, conviene revisar la presión cada pocas semanas: rodar con poco aire eleva el consumo, recorta el alcance real y eleva el riesgo de reventón contra un bordillo. El disco pide revisar el cable de vez en cuando y cambiar las pastillas en cuanto el tacto pierda firmeza, una rutina propia de cualquier bicicleta. La batería de litio, cuya capacidad no publica la marca, se conserva con las pautas universales: no guardarla meses al 100 % ni al 0 %, cargarla a temperatura ambiente y no dejarla expuesta al sol de agosto en el interior de un coche. El sillín desmontable también pide revisar su tornillería de vez en cuando, porque con un asiento que baila a 25 km/h, cualquier bache se vuelve un susto serio.
 
-## Dormir en un piso: el ritual de guardarlo
+## Guardarlo en un piso
 
-Al llegar a casa, el C1 Pro se pliega y busca rincón, pero el sillín conviene desmontarlo si el espacio aprieta o si va a compartir trastero con bicicletas. Acostúmbrate a apoyarlo sin cargar el peso sobre el guardabarros trasero y a pasar un trapo por la plataforma tras los días de lluvia: la IP65 protege la electrónica, no la estética.
+En casa, el pliegue le encuentra un hueco, aunque quitar el sillín ayuda cuando el espacio escasea o el trastero se comparte con bicicletas. Al apoyarlo, evita que el peso recaiga sobre el guardabarros trasero, y después de rodar bajo la lluvia pasa un trapo por la plataforma: la protección IP65 ampara la electrónica, no el aspecto.
 
-## Preguntas frecuentes
+## Dudas habituales
 
 ### ¿Cuánto corre el Bogist C1 Pro?
-Hasta **45 km/h** en el modo más alto; 24 y 32 km/h en los otros dos.
+En el modo superior alcanza 45 km/h; los otros dos topan en 24 y 32 km/h.
 
 ### ¿Es legal en España?
-Solo **limitado a 25 km/h**. A 45 km/h no es un VMP legal.
+Únicamente con la limitación a 25 km/h; con 45 km/h queda fuera del marco VMP.
 
 ### ¿El sillín se puede quitar?
-Sí: es **extraíble** y se usa de pie o sentado.
+Sí, se desmonta y deja usarlo de pie o sentado.
 
-### ¿Qué autonomía real tiene?
-Declara 40 km; calcula **unos 27 km** en uso mixto.
+### ¿Qué alcance real tiene?
+Anuncia 40 km; en uso mixto, el cálculo ronda los 27 km.
 
 ### ¿Resiste la lluvia?
-Sí: certificación **IP65**.
+Sí, gracias a su certificación IP65.
 
-### ¿Merece la pena frente al M5 Pro?
-El C1 Pro es más potente y ligero; el M5 Pro tiene más batería y cesta. Depende de si priorizas potencia o autonomía.
+### ¿Qué aporta frente al M5 Pro?
+El C1 Pro entrega más potencia y menos peso; el M5 Pro suma más batería y una cesta. La elección depende de priorizar empuje o alcance.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://karrotmarket.com/ca/buy-sell/s59bshgcnzq4/>ficha del C1 Pro en Karrot</a> y <a href=https://www.youtube.com/watch?v=FHz7DxgRb38>análisis en vídeo</a>., <a href=https://www.dgt.es>normativa de VMP en la DGT</a>*`,
+*Fuentes: <a href=https://karrotmarket.com/ca/buy-sell/s59bshgcnzq4/>ficha del C1 Pro en Karrot</a> y <a href=https://www.youtube.com/watch?v=FHz7DxgRb38>análisis en vídeo</a>., <a href=https://www.dgt.es>normativa de VMP en la DGT</a>*
+`,
   },
   {
     slug: "bogist-m5-pro",
@@ -1842,9 +1843,9 @@ El H5 tiene 800 W y app por ~260 € más. Si el sillín es innegociable y el pr
   },
   {
     slug: "evercross-ev10-max",
-    title: "Evercross EV10 Max: 1.200 W y 64 km",
+    title: "Evercross EV10 Max: 1.200 W y 64 km declarados",
     excerpt:
-      "El Evercross EV10 Max es el tope de la marca: 1.200 W, 64 km declarados y neumáticos de 10 pulgadas. Ficha técnica y análisis.",
+      "El Evercross EV10 Max encabeza la gama con 1.200 W y 64 km declarados, pero llega sin precio oficial, sin batería publicada y sin certificado DGT.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -1863,7 +1864,7 @@ El H5 tiene 800 W y app por ~260 € más. Si el sillín es innegociable y el pr
 
 **¿Buscas solo los datos?** <a href=/patinetes/evercross-ev10-max/>Ver ficha técnica del Evercross EV10 Max</a>: motor, autonomía y frenos. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **Evercross EV10 Max** es el 'tope' de la marca sobre el papel: **1.200 W**, **64 km** de autonomía declarada (40 millas), **neumáticos de 10 pulgadas** y **doble freno de disco** (<a href=https://www.igeekphone.com/zooming-into-the-future-what-to-know-before-buying-an-evercross-electric-scooter/>iGeekPhone</a>). Pero ojo: el fabricante publica poquísimos datos oficiales.
+Sobre el papel, el Evercross EV10 Max encabeza la gama de la marca: 1.200 W, 64 km declarados (40 millas), ruedas de 10 pulgadas, neumáticas, y frenada con doble disco, según recoge <a href=https://www.igeekphone.com/zooming-into-the-future-what-to-know-before-buying-an-evercross-electric-scooter/>iGeekPhone</a>. El problema: el fabricante difunde poquísimos datos oficiales de esta variante.
 
 ## Ficha técnica resumida
 
@@ -1878,23 +1879,23 @@ El **Evercross EV10 Max** es el 'tope' de la marca sobre el papel: **1.200 W**, 
 
 ¿Quieres el detalle completo? <a href=/patinetes/evercross-ev10-max/>Ficha técnica completa del Evercross EV10 Max</a> con todos los datos verificados.
 
-## Precio del Evercross EV10 Max en España
+## Precio en España
 
-Sin precio oficial publicado ni distribución clara en Europa. Es un modelo difícil de encontrar fuera de EE. UU.
+No hay precio oficial publicado ni una distribución europea clara. Fuera de EE. UU., localizarlo resulta complicado.
 
 <img src=/media/patinetes/evercross-ev10-max-2.webp alt=Detalle de la rueda neumática de 10 pulgadas del Evercross EV10 Max>
 
 ## Autonomía real vs declarada
 
-Declara **64 km**; sin dato de batería publicado, una estimación prudente son **unos 43 km** reales. Con 1.200 W, el puño manda más que la ficha.
+Declara 64 km, pero sin capacidad de batería publicada, la estimación prudente ronda los 43 km. Con 1.200 W, el puño pesa más que la ficha.
 
 ## Frenos y neumáticos
 
-**Doble disco** y **neumáticos de 10 pulgadas**: el equipo mínimo exigible para 1.200 W y 50 km/h. Bien por Evercross en no escatimar aquí.
+Con 1.200 W y una punta cercana a 50 km/h, rodar exige dos discos y gomas neumáticas de 10 pulgadas. Ese mínimo, al menos, viene cubierto de serie.
 
 ## Certificado DGT y normativa VMP
 
-Sin certificado DGT verificado. A **~50 km/h** no es un VMP legal en España: solo tendría sentido **limitado a 25 km/h**, y aun así sin pisar **aceras**.
+No hay certificado DGT verificado. A unos 50 km/h, en España no encaja como VMP: solo tendría sentido capado a 25 km/h, y sin pisar aceras en ningún caso.
 
 ## Puntos fuertes y débiles
 
@@ -1908,11 +1909,11 @@ Sin certificado DGT verificado. A **~50 km/h** no es un VMP legal en España: so
 
 <img src=/media/patinetes/evercross-ev10-max-3.webp alt=Evercross EV10 Max en una pista todoterreno>
 
-## Evercross: la marca de Amazon que vende potencia barata
+## Evercross: venta directa y potencia barata
 
-Evercross es una marca de movilidad eléctrica de venta directa, con tienda y gama europeas consultables en su <a href=https://evercross.eu>web oficial europea</a>, donde los modelos EV10 de calle se limitan a 25 km/h para el mercado comunitario. El EV10 Max que analiza este post es otra cosa: la versión de **1.200 W** pensada para el mercado estadounidense, sin precio oficial europeo ni distribución clara en nuestro continente. Esa dualidad explica el post entero: sobre el papel es el Evercross más potente, pero la propia marca publica poquísimos datos oficiales de esta variante, y eso en un vehículo eléctrico es una señal de prudencia, no un detalle menor.
+Evercross vende movilidad eléctrica de forma directa, con tienda y gama europeas visibles en su <a href=https://evercross.eu>web oficial europea</a>, donde los EV10 urbanos quedan capados a 25 km/h en el mercado comunitario. El EV10 Max de este análisis es distinto: la variante de 1.200 W orientada al mercado estadounidense, sin tarifa oficial europea y sin distribución clara en nuestro continente. Esa doble cara resume el artículo: sobre el papel, el más potente de Evercross, pero la propia marca difunde poquísimos datos oficiales de esta variante, y en un vehículo eléctrico eso invita a la prudencia, no es un detalle menor.
 
-## La técnica: 1.200 W sin batería publicada
+## Técnica: 1.200 W y batería sin publicar
 
 | Dato | Evercross EV10 Max |
 |---|---|
@@ -1925,45 +1926,45 @@ Evercross es una marca de movilidad eléctrica de venta directa, con tienda y ga
 | Batería | Sin dato oficial publicado |
 | Certificado DGT | Sin verificar |
 
-La lectura técnica es incómoda: sin capacidad de batería publicada no se puede contrastar la autonomía declarada de **64 km**, y la estimación prudente del análisis original, unos **43 km reales**, es la cifra con la que hay que trabajar. Lo que sí está bien resuelto es el equipo de seguridad activa para semejante potencia: **doble freno de disco** y neumáticos de 10 pulgadas, el mínimo exigible cuando un patinete supera los 40 km/h. Con 1.200 W, el consumo depende del puño mucho más que en un VMP urbano, y las subidas dejan de ser un problema que sí tienen sus hermanos pequeños.
+El punto incómodo está en la batería: al no publicarse su capacidad, los 64 km declarados no admiten contraste, y conviene trabajar con los 43 km reales estimados. El equipo de seguridad activa, en cambio, está bien resuelto para semejante potencia: dos discos de freno y gomas neumáticas de 10 pulgadas, el mínimo que cabe pedir cuando un patinete pasa de 40 km/h. Con 1.200 W, la forma de usar el acelerador pesa más en el gasto que en un VMP urbano, y las pendientes que frenan a sus hermanos pequeños aquí se superan sin apuro.
 
-## Uso real: un patinete de finca y circuito, no de ciudad española
+## Uso real: finca y circuito, no ciudad española
 
-Hay que decirlo sin rodeos: a unos 50 km/h, este EV10 Max no puede circular legalmente por la vía pública española, así que su uso real aquí queda reducido a espacios privados. Para trayectos urbanos legales, la propia casa ofrece alternativas limitadas como el <a href=/patinetes/evercross-h7/>Evercross H7</a>, con 45 km de autonomía declarada y 25 kg según su ficha. Quien lo importe para uso privado debe asumir además que el mantenimiento será de especialista, como ya advierte el análisis, porque no hay una red Evercross de taller en España comparable a la de las marcas asentadas. Compáralo con el resto en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
+Dicho claro: con una punta cercana a 50 km/h, circular con él por calles españolas queda fuera de la ley, de modo que en España solo cabe usarlo en recintos privados. Para moverse por ciudad dentro de la norma, la marca propone opciones capadas, como el <a href=/patinetes/evercross-h7/>Evercross H7</a>: 45 km declarados y 25 kg en su ficha. Importarlo para uso privado implica aceptar un mantenimiento en manos de especialistas —no existe una red de talleres Evercross en España a la altura de las marcas consolidadas— y comparar antes en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
 
-## Mantenimiento y costes: lo que no publica la marca, no lo inventamos
+## Costes y mantenimiento: sin cifras de la marca, sin inventos
 
-Evercross no publica tarifas de mantenimiento ni datos de batería de esta variante que podamos citar, y no los inventamos. Lo verificable en un patinete de doble disco y ruedas neumáticas de 10 pulgadas es el gasto ordinario de su clase: pastillas y discos de freno, neumáticos y cámaras, y el cuidado de una batería de la que ni siquiera conocemos la capacidad oficial. Antes de comprar una unidad importada conviene exigir por escrito quién responde de la garantía y de los recambios, porque el análisis original ya señala que solo compensa con garantía local y buen precio.
+De esta variante, la marca no difunde tarifas de taller ni cifras de batería citables, y aquí no se van a inventar. Lo verificable en un patinete con dos discos y gomas de 10 pulgadas es el gasto habitual de su clase: pastillas y discos, cubiertas y cámaras, más el cuidado de una batería cuya capacidad oficial ni siquiera se conoce. Antes de cerrar la compra de una unidad importada, pide por escrito quién cubre garantía y repuestos: el análisis de partida ya advierte que solo sale a cuenta con respaldo local y precio bajo.
 
-## Normativa: VMP, 25 km/h y certificación de la DGT
+## Normativa: VMP, 25 km/h y certificado DGT
 
-En España un patinete es vehículo de movilidad personal solo si su velocidad máxima por construcción no supera los **25 km/h**, no circula por aceras y cumple la certificación que exige la <a href=https://www.dgt.es>DGT</a>. El EV10 Max, a unos 50 km/h, queda fuera de esa categoría aunque se limite electrónicamente, porque la limitación debe ser de fábrica y el modelo debe contar con certificado. La conclusión normativa del post original se mantiene intacta: sin certificado DGT verificado, no es un VMP legal en España.
+La norma española reserva la categoría de vehículo de movilidad personal a los patinetes cuya velocidad máxima de construcción no pasa de 25 km/h, que no usan las aceras y que cuentan con la certificación exigida por la <a href=https://www.dgt.es>DGT</a>. El EV10 Max, con sus 50 km/h aproximados, se sitúa fuera de esa categoría incluso con limitación electrónica, porque el tope debe venir de fábrica y el modelo necesita certificado. Conclusión normativa sin cambios: sin certificado DGT verificado, en España no es un VMP legal.
 
-## Frente al Evercross H7 y al Xiaomi Electric Scooter 4 Pro: veredicto
+## Frente al H7 y al Xiaomi 4 Pro: veredicto
 
-Sus referencias con ficha en esta casa juegan en otra liga, la legal. El <a href=/patinetes/evercross-h7/>Evercross H7</a> declara 45 km de autonomía y pesa 25 kg según su ficha: menos potencia, pero un producto pensado para calle. El <a href=/patinetes/xiaomi-electric-scooter-4-pro/>Xiaomi Electric Scooter 4 Pro</a> figura con 55 km declarados y solo 17 kg, con el respaldo comercial de Xiaomi en España. El EV10 Max gana a ambos en potencia bruta por un margen enorme y pierde en todo lo demás que importa para circular aquí: legalidad, datos publicados y posventa.
+Las referencias con ficha en esta casa compiten en otro escalón: el legal. El <a href=/patinetes/evercross-h7/>Evercross H7</a> anuncia 45 km y 25 kg en su ficha: menos fuerza, pero un producto concebido para la calle. El <a href=/patinetes/xiaomi-electric-scooter-4-pro/>Xiaomi Electric Scooter 4 Pro</a> registra 55 km declarados y apenas 17 kg, con la red comercial de Xiaomi en España detrás. Frente a ambos, el EV10 Max impone su potencia bruta por un margen enorme y cede en el resto de lo que importa para rodar aquí: legalidad, datos publicados y posventa.
 
-**¿Merece la pena?** Solo como capricho de uso privado con garantía local confirmada y a precio de ganga. **Para quién sí:** para quien busque potencia en recinto privado y asuma la importación. **Para quién no:** para cualquier uso urbano en España: ahí mandan los VMP certificados de 25 km/h.
+Solo tiene sentido como juguete para recinto privado, con garantía local por escrito y precio de saldo. **Para quién sí:** para quien priorice la potencia dentro de un recinto privado y acepte importar la unidad. **Para quién no:** para rodar por ciudad en España: ahí imponen su ley los VMP con certificado de 25 km/h.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
 ### ¿Qué potencia tiene el Evercross EV10 Max?
-**1.200 W**, el motor más potente del catálogo Evercross.
+La cifra más alta dentro del catálogo de la marca: **1.200 W**.
 
 ### ¿Qué autonomía declara?
-**64 km** (40 millas); calcula unos 43 km reales.
+**64 km** (40 millas) declarados; en uso real, calcula unos 43 km.
 
 ### ¿Es legal en España?
-A 50 km/h, no como VMP. Solo limitado a 25 km/h.
+Como VMP, no: su punta ronda 50 km/h. Solo encajaría con el tope de 25 km/h.
 
 ### ¿Cuánto cuesta?
-Sin precio oficial publicado.
+No hay precio oficial publicado.
 
-### ¿Merece la pena?
-Con tan pocos datos oficiales, solo si lo encuentras con garantía local y a buen precio. Si no, el H7 es compra más segura.
+### ¿Compensa comprarlo?
+Con tan poca información oficial, solo sale a cuenta si aparece con respaldo local y precio bajo. En caso contrario, el H7 da más seguridad de compra.
 
 ### ¿Qué ruedas lleva?
-**Neumáticos de 10 pulgadas**, mejores que las macizas de sus hermanos.
+Gomas neumáticas de 10 pulgadas, superiores a las macizas que montan sus hermanos.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
@@ -2234,9 +2235,9 @@ El Eagle es más ágil y ligero, mientras el Thunder 2 se muestra más estable c
   // ─────────────────────────── CURRUS (3) ───────────────────────────
   {
     slug: "currus-panther",
-    title: "Currus Panther NF11: 5.400 W coreanos",
+    title: "Currus Panther NF11: hiperpatinete coreano de 5.400 W",
     excerpt:
-      "El Currus Panther NF11 es la alternativa coreana al Dualtron Thunder: 5.400 W de pico, 2.100 Wh y 120 km declarados. Ficha completa.",
+      "Currus Panther NF11: doble motor de 1.200 W, batería Samsung de 2.100 Wh y 80 km/h. En España solo circula limitado a 25 km/h; hoy, de segunda mano.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 8,
@@ -2255,9 +2256,9 @@ El Eagle es más ágil y ligero, mientras el Thunder 2 se muestra más estable c
 
 **¿Buscas solo los datos?** <a href=/patinetes/currus-panther/>Ver ficha técnica del Currus Panther</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **Currus Panther (NF11)** nació para pelear con el Dualtron Thunder: **doble motor de 1.200 W** (5.400 W de pico), batería **Samsung SDI de 60 V y 35 Ah (2.100 Wh)** y **120 km** declarados, con un chasis coreano atornillado más robusto que el Thunder (<a href=https://www.priceboon.com/currus-nf11-the-alternative-of-choice-to-the-dualtron-thunder/>Priceboon</a>).
+Currus, constructor con sede en Corea, lanzó el Panther NF11 como rival directo del Dualtron Thunder. Cada rueda recibe un motor de 1.200 W, de modo que la suma nominal alcanza 2.400 W y el pico declarado llega a 5.400 W. La energía procede de un paquete de 60 V y 35 Ah firmado por Samsung SDI, equivalente a 2.100 Wh, y el alcance anunciado por el fabricante es de 120 km. <a href=https://www.priceboon.com/currus-nf11-the-alternative-of-choice-to-the-dualtron-thunder/>Priceboon</a> presentó este modelo precisamente como opción alternativa frente al Thunder, y destacó un bastidor atornillado coreano con mayor solidez que el de su competidor.
 
-## Ficha técnica resumida
+## Datos clave en tabla
 
 | Dato | Valor |
 |---|---|
@@ -2274,25 +2275,25 @@ El **Currus Panther (NF11)** nació para pelear con el Dualtron Thunder: **doble
 
 ¿Quieres el detalle completo? <a href=/patinetes/currus-panther/>Ficha técnica completa del Currus Panther</a> con todos los datos verificados.
 
-## Precio del Currus Panther en España
+## Cuánto costó y dónde aparece ahora
 
-Precio de lanzamiento: **3.590 €** en Francia. Hoy solo se encuentra de segunda mano o por importadores: la marca no tiene red en España.
+Su precio de salida fue de 3.590 € en Francia. En la actualidad no existe red comercial de la marca en España, así que las unidades disponibles proceden del mercado de ocasión o de importadores. Esa escasez de unidades nuevas condiciona cualquier plan de compra en 2026: conviene comprobar estado, batería y tornillería unidad por unidad, sin dar por supuesto un soporte posventa cercano.
 
 <img src=/media/patinetes/currus-panther-2.webp alt=Detalle del manillar de carbono y la pantalla EY3 del Currus Panther>
 
-## Autonomía real vs declarada
+## Alcance declarado frente a alcance practicable
 
-Declara **120 km**; con 2.100 Wh y uso contenido, **70-80 km** reales son creíbles. A fondo, ni la mitad: 5.400 W beben que da gusto.
+Los 120 km del folleto presuponen un ritmo moderado y un consumo contenido. Con 2.100 Wh disponibles, un uso tranquilo permite situar el recorrido practicable entre 70 y 80 km. A velocidad máxima, en cambio, el consumo de los dos motores reduce esa cifra a menos de la mitad del valor anunciado, porque 5.400 W de pico demandan una corriente muy elevada. La diferencia entre folleto y calle, por tanto, depende sobre todo del puño derecho y del perfil del trayecto.
 
-## Frenos y neumáticos
+## Equipo de frenada y rodadura
 
-**Hidráulicos de 160 mm** y **tubeless anchas de 11 pulgadas** (90 mm): el equipo que exigen 80 km/h. La **suspensión hidráulica ajustable de 150 mm** era la mejor de su época.
+Para detener un vehículo capaz de alcanzar 80 km/h, el Panther monta frenos hidráulicos con discos de 160 mm y neumáticos tubeless anchos de 11 pulgadas, con 90 mm de sección. La suspensión también es hidráulica y regulable, con 150 mm de recorrido, y en su momento se consideró la mejor de su segmento. Ese conjunto resulta coherente con la potencia instalada: sin frenada y amortiguación de ese nivel, las aceleraciones de dos motores resultarían difíciles de gestionar.
 
-## Certificado DGT y normativa VMP
+## Encuadre legal en España
 
-Sin certificado DGT verificado. A **80 km/h** no es un VMP: en España solo tendría encaje **limitado a 25 km/h**, y prohibido en **aceras** siempre.
+No consta un certificado DGT verificado para este modelo. Además, su velocidad máxima de 80 km/h lo sitúa fuera de la definición española de vehículo de movilidad personal, cuyo límite es 25 km/h. En consecuencia, en vías públicas españolas su uso exige una limitación electrónica a 25 km/h, y la circulación por aceras queda prohibida en todo caso. La alternativa restante son recintos privados y circuitos. Antes de adquirir uno por sus cifras, conviene interiorizar esa restricción, porque una sanción por confundir su encaje puede resultar costosa.
 
-## Puntos fuertes y débiles
+## Ventajas e inconvenientes en tabla
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -2304,11 +2305,11 @@ Sin certificado DGT verificado. A **80 km/h** no es un VMP: en España solo tend
 
 <img src=/media/patinetes/currus-panther-3.webp alt=Currus Panther NF11 en una carretera abierta>
 
-## Currus: la respuesta coreana al reinado de Dualtron
+## Una marca coreana contra el referente
 
-Currus es un fabricante coreano que se propuso disputarle el trono del hiperpatinete a Dualtron, la marca de referencia del segmento extremo, y el Panther NF11 fue su golpe sobre la mesa: doble motor, una batería Samsung descomunal y un chasis atornillado pensado para durar más que el de su rival. Nunca tuvo la red comercial de Dualtron fuera de Asia y de algunos importadores europeos, y hoy sobrevive como pieza buscada en el mercado de segunda mano por los aficionados a la categoría.
+El objetivo de Currus era claro: disputar a Dualtron el liderazgo del patinete extremo. El NF11 concentró esa ambición en tres decisiones: dos motores, un paquete Samsung de gran capacidad y un chasis atornillado orientado a la durabilidad frente al de su rival. Fuera de Asia, salvo algunos importadores europeos, Currus nunca construyó una red comparable a la de Dualtron. Por esa razón, el Panther ha quedado como un modelo buscado por aficionados en el mercado de segunda mano, más que como un producto con distribución ordinaria.
 
-## 2.100 Wh y 5.400 W: cifras de otra categoría
+## Energía y empuje comparados con lo urbano
 
 | Magnitud del Panther | Cifra | Comparación doméstica |
 |---|---|---|
@@ -2317,43 +2318,43 @@ Currus es un fabricante coreano que se propuso disputarle el trono del hiperpati
 | Velocidad máxima | 80 km/h | Fuera de toda categoría VMP |
 | Autonomía declarada | 120 km | Unas 80 reales a ritmo tranquilo |
 
-Con esos números, el Panther no se mide con los patinetes de ciudad sino con las motos pequeñas, y su comportamiento lo confirma: la entrega de los dos motores exige oficio, guantes y un casco integral, porque las aceleraciones a fondo no perdonan la improvisación. Las ruedas tubeless de 11 pulgadas y los frenos hidráulicos de 160 mm son el equipamiento mínimo creíble para semejante conjunto.
+Esas magnitudes lo alejan del patinete urbano y lo acercan a una moto pequeña. La entrega conjunta de ambos motores pide experiencia, guantes y casco integral, porque una aceleración a fondo no admite improvisaciones. En ese contexto, unos frenos hidráulicos de 160 mm y unas ruedas tubeless de 11 pulgadas forman el mínimo razonable para un conjunto de estas prestaciones.
 
-## 48 kg y 21 horas de carga: la factura de lo extremo
+## Peso y recarga en el día a día
 
-La vida real con un NF11 incluye datos menos glamurosos: pesa 48 kg, lo que lo convierte en un mueble con ruedas que descarta escaleras y portales sin ascensor, y su cargador estándar tarda 21 horas en rellenar los 2.100 Wh, reducibles a unas 10 horas con dos cargadores. La suspensión hidráulica ajustable de 150 mm de recorrido, la mejor de su época, y el manillar de carbono suavizan el trato, pero la tornillería exige revisiones periódicas si se rueda con alegría.
+El lado menos vistoso del NF11 aparece al convivir con él: 48 kg en báscula descartan subirlo por escaleras o meterlo en portales sin ascensor, y el cargador de serie necesita 21 horas para reponer los 2.100 Wh, plazo que baja a unas 10 horas si se emplean dos cargadores a la vez. El manillar de carbono y la suspensión hidráulica de 150 mm hacen más amable el trato en marcha, pero la tornillería pide revisiones periódicas cuando se rueda con intensidad. Son costes de uso que conviene sumar al precio de ocasión antes de decidir.
 
-## Normativa española: un Panther no es un VMP
+## Por qué queda fuera del VMP
 
-La DGT define los vehículos de movilidad personal con un máximo de 25 km/h y sin posibilidad de circular por aceras, y un aparato capaz de 80 km/h queda fuera de esa categoría por definición. En la práctica, un Panther solo puede moverse en vías públicas limitado electrónicamente a 25 km/h, sin certificado DGT verificado que lo ampare, o en espacios privados y circuitos. Confundir ese encaje legal sale caro en sanciones, y conviene tenerlo claro antes de dejarse seducir por sus cifras.
+La normativa española de movilidad personal fija 25 km/h como tope y veta las aceras. Un aparato con una punta de 80 km/h incumple ese tope por diseño, así que queda excluido de la categoría aunque se circule despacio. La única vía pública admisible pasa por limitarlo electrónicamente a 25 km/h, y sin certificado DGT verificado que lo respalde. En espacios privados y circuitos, esa limitación no se aplica del mismo modo, pero el uso urbano cotidiano queda condicionado por ella.
 
-## Panther o Dualtron Thunder: veredicto
+## Frente al Thunder, qué decidir
 
-El duelo natural es con el <a href=/patinetes/dualtron-thunder/>Dualtron Thunder</a>, de potencia similar, chasis menos robusto según las comparativas de la época y, a cambio, una red de repuestos muy superior. El detalle del coreano está en <a href=/patinetes/currus-panther/>la ficha del Panther</a>. **Veredicto:** como pieza de coleccionista del nacimiento de los hiperpatinetes, el NF11 tiene un valor real; como compra racional para moverse en 2026, ni hay unidades nuevas ni su encaje legal invita a ello. 
+El rival natural es el <a href=/patinetes/dualtron-thunder/>Dualtron Thunder</a>: potencia comparable, un chasis que las comparativas de entonces juzgaban menos robusto y, como contrapartida, una red de repuestos mucho más amplia. El detalle del modelo coreano está en <a href=/patinetes/currus-panther/>la ficha del Panther</a>. Como testimonio del nacimiento de los hiperpatinetes, el NF11 posee un valor tangible para coleccionistas; como compra racional para desplazarse en 2026, la falta de unidades nuevas y su encaje legal desaconsejan elegirlo.
 
-## El Panther como espejo de una época
+## Lo que revela de su momento
 
-El NF11 documenta el momento en que los patinetes extremos se despegaron de la movilidad urbana y se convirtieron en vehículos de ocio radical, antes de que las normativas europeas ordenaran el sector. Revisar su ficha hoy (suspensión hidráulica de largo recorrido, manillar de carbono, conectividad de pantalla EY3 compartida con el ecosistema Dualtron) es repasar el catálogo de soluciones que la industria ensayó cuando nadie ponía límites. Esa condición de fósil tecnológico de una era breve es, precisamente, lo que lo mantiene cotizado entre los coleccionistas del mundillo: no habrá muchos más como él homologables ni siquiera como curiosidad.
+El NF11 documenta una etapa en la que los patinetes extremos abandonaron la movilidad urbana y se orientaron al ocio radical, antes de que la regulación europea ordenase el sector. Repasar su ficha actual —manillar de carbono, pantalla EY3 compartida con el ecosistema Dualtron y suspensión hidráulica de largo recorrido— equivale a repasar las soluciones que la industria probó cuando aún no existían límites claros. Ese carácter de fósil tecnológico de una época breve explica, precisamente, que siga cotizado entre coleccionistas del sector: difícilmente aparecerán muchos modelos semejantes, ni siquiera como curiosidad.
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Qué potencia tiene el Currus Panther?
-**Doble 1.200 W** con 5.400 W de pico.
+### ¿Solo puede circular limitado en España?
+Sí, únicamente con limitación electrónica a 25 km/h.
 
-### ¿Qué autonomía real tiene?
-Unos **80 km** a ritmo tranquilo; mucho menos a fondo.
+### ¿Cuánto dura la recarga?
+Unas 21 horas con un cargador, y 10 con dos.
 
-### ¿Es mejor que el Dualtron Thunder?
-Similar potencia con **chasis más robusto** y mejor suspensión; el Thunder tiene más red de repuestos.
+### ¿Qué empuje entrega?
+Dos motores de 1.200 W cada uno, con 5.400 W de pico.
 
-### ¿Es legal en España?
-Solo **limitado a 25 km/h**.
+### ¿Qué alcance practicable ofrece?
+Alrededor de 80 km con ritmo tranquilo; bastante menos a fondo.
 
-### ¿Cuánto tarda en cargar?
-**21 horas** con un cargador, 10 con dos.
+### ¿Supera al Dualtron Thunder?
+En potencia andan parejos, con chasis más robusto y mejor suspensión en el coreano; el Thunder dispone de mayor red de repuestos.
 
-### ¿Merece la pena hoy?
-Como pieza de coleccionista, sí. Como compra racional nueva, no hay unidades.
+### ¿Tiene sentido comprarlo hoy?
+Para coleccionar, sí. Para estrenar como compra racional, no quedan unidades nuevas.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
@@ -2605,9 +2606,9 @@ Solo para entusiastas que sepan lo que compran. Para los demás, el Panther tien
   // ─────────────────────────── BRONCO (2) ───────────────────────────
   {
     slug: "bronco-xtreme-11",
-    title: "Bronco Xtreme 11: 8.400 W de pico",
+    title: "Bronco Xtreme 11: hiperpatinete de 8.400 W y 112 km/h",
     excerpt:
-      "El Bronco Xtreme 11 presume de ser el patinete de serie más rápido: 8.400 W de pico, 112 km/h y chasis forjado. Ficha y análisis.",
+      "El Bronco Xtreme 11 es un hiperpatinete de Singapur con 8.400 W de pico, 112 km/h, chasis forjado y controladora sinusoidal de 72 V y 100 A.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -2626,9 +2627,9 @@ Solo para entusiastas que sepan lo que compran. Para los demás, el Panther tien
 
 **¿Buscas solo los datos?** <a href=/patinetes/bronco-xtreme-11/>Ver ficha técnica del Bronco Xtreme 11</a>: potencia, velocidad y frenos. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **Bronco Xtreme 11** es la rareza de Singapur: **8.400 W de pico**, **112 km/h** de punta y un chasis **forjado en caliente** con control de calidad manual. Sus vendedores lo anuncian como el patinete de serie más rápido del mercado (<a href=https://scooter.guide/reviews/bronco/>Scooter.Guide</a>).
+Desde Singapur llega una máquina que rompe la escala habitual de los patinetes eléctricos. El Bronco Xtreme 11 declara 8.400 W de potencia máxima y una punta cercana a los 112 km/h, cifras que lo colocan fuera de cualquier uso urbano convencional. Su bastidor se fabrica mediante forja en caliente y cada unidad pasa una revisión manual antes de salir del taller, según la información que difunden sus distribuidores. Quienes lo comercializan lo presentan como el modelo de serie más veloz que se puede adquirir, afirmación que recoge <a href=https://scooter.guide/reviews/bronco/>Scooter.Guide</a>.
 
-## Ficha técnica resumida
+## Datos clave en tabla
 
 | Dato | Valor |
 |---|---|
@@ -2642,29 +2643,29 @@ El **Bronco Xtreme 11** es la rareza de Singapur: **8.400 W de pico**, **112 km/
 
 ¿Quieres el detalle completo? <a href=/patinetes/bronco-xtreme-11/>Ficha técnica completa del Bronco Xtreme 11</a> con todos los datos verificados.
 
-## Precio del Bronco Xtreme 11 en España
+## Comprarlo desde España
 
-Sin precio oficial ni distribución en Europa: se vende en tiendas de EE. UU. por importador. En España es prácticamente imposible de comprar nuevo.
+En el mercado español no existe tarifa oficial ni red de venta para este modelo. Las unidades que circulan por Estados Unidos se adquieren a través de importadores, y en España conseguir uno nuevo roza lo imposible. Ese canal de importación deja al comprador sin el respaldo de un distribuidor europeo, con todo lo que eso implica para garantías y repuestos.
 
 <img src=/media/patinetes/bronco-xtreme-11-2.webp alt=Detalle del chasis forjado del Bronco Xtreme 11>
 
-## Autonomía real vs declarada
+## Batería y autonomía sin cifras oficiales
 
-El fabricante no publica batería ni autonomía. Con 8.400 W de pico, la autonomía a fondo es anecdótica: es un juguete de aceleración, no un rutero.
+La marca no comunica la capacidad de la batería ni la distancia que recorre con una carga. Con una potencia máxima de 8.400 W, rodar a fondo vacía la batería en muy poco tiempo, así que su papel es el de una máquina de aceleración para tramos cortos, no el de un vehículo para desplazamientos largos.
 
-## Frenos y neumáticos
+## Frenada, ruedas y suspensiones
 
-**E-ABS + frenos de disco**, ruedas de **11 pulgadas** y **suspensión neumática**: el equipo que exigen 112 km/h. Las luces de serie, eso sí, son pobres según las pruebas.
+El equipo de frenada une un sistema E-ABS eléctrico con un disco, y la rodadura corre a cargo de neumáticos de 11 pulgadas. La suspensión neumática trabaja en ambos ejes, un conjunto pensado para la exigencia de circular a velocidades tan altas. En cambio, el alumbrado que monta de fábrica deja bastante que desear en las pruebas publicadas.
 
-## Certificado DGT y normativa VMP
+## Papeles y uso legal en España
 
-Sin certificado DGT. A **112 km/h** es un ciclomotor encubierto: **ilegal como VMP en España** en cualquier caso. Solo circuito privado.
+Tampoco cuenta con certificado DGT. Al superar con creces el límite de velocidad de un VMP, en España no puede circular por vía pública bajo esa figura en ningún caso: su terreno son los recintos privados y los circuitos.
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/vGR1gyS7HCQ title="Bronco Xtreme 11 en vídeo" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=vGR1gyS7HCQ>primer vistazo al Bronco Xtreme 11</a> en YouTube.
 
-## Puntos fuertes y débiles
+## Luces y sombras
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -2676,45 +2677,45 @@ Vídeo: <a href=https://www.youtube.com/watch?v=vGR1gyS7HCQ>primer vistazo al Br
 
 <img src=/media/patinetes/bronco-xtreme-11-3.webp alt=Bronco Xtreme 11 en una recta>
 
-## Bronco Motors: ingeniería de garaje en Singapur
+## Un taller pequeño de Singapur detrás del proyecto
 
-Bronco no es un gigante: es un equipo pequeño de ingenieros de Singapur que decidió fabricar el patinete que a ellos les gustaría tener, con chasis **forjado en caliente** —un proceso caro y lento, propio de piezas de competición— y control de calidad manual unidad a unidad. Esa filosofía de baja producción explica tanto su precio en EE. UU. como su ausencia de distribución europea: no hay volumen para homologar ni red que lo sostenga. Sus vendedores lo anuncian como el patinete de serie más rápido del mercado, y con **8.400 W de pico y unos 112 km/h** la afirmación tiene base aritmética, aunque ninguna homologación la respalde.
+Detrás del Xtreme 11 no hay una multinacional, sino Bronco Motors, un grupo reducido de ingenieros con sede en Singapur que quiso construir el patinete que ellos mismos querrían usar. El bastidor forjado en caliente es un procedimiento costoso y pausado, habitual en componentes de competición, y cada unidad se revisa a mano antes de entregarse. Esa producción en series cortas aclara dos rasgos del modelo: el importe que alcanza en Estados Unidos y la falta de una red europea, porque sin volumen resulta inviable homologar y sostener una distribución. Los distribuidores sostienen que es el patinete de serie más veloz del mercado, y las cifras de 8.400 W de pico junto a unos 112 km/h dan sustento numérico a esa afirmación, aunque ninguna homologación la avale.
 
-## La controladora es la verdadera protagonista
+## El mando electrónico marca la diferencia
 
-El dato que separa al Xtreme 11 de la competencia no son los vatios, es la **controladora sinusoidal de 72 V y 100 A**. Las controladoras de onda cuadrada entregan la potencia a golpes, con tirones y ruido eléctrico; una sinusoidal modula la entrega de forma suave y silenciosa, lo que permite dosificar 8.400 W sin que el patinete se vuelva inconducible a baja velocidad. Sumada a la suspensión neumática en ambos ejes y a unos neumáticos de 11 pulgadas, es la razón de que las pruebas destaquen su aplomo a velocidad, un terreno donde la mayoría de hiperpatinetes dan miedo.
+Más que la potencia bruta, lo que distingue a este modelo es su controladora sinusoidal, que trabaja a 72 V con una intensidad de 100 A. Las controladoras de onda cuadrada suministran la energía en impulsos, con tirones y ruido eléctrico; la sinusoidal, en cambio, regula la entrega de manera progresiva y silenciosa, y eso permite gestionar esa potencia máxima sin que el aparato se descontrole a ritmo lento. La suspensión neumática de ambos ejes y los neumáticos de 11 pulgadas completan un conjunto que, según las pruebas, mantiene la estabilidad a alta velocidad, justo donde muchos hiperpatinetes transmiten inseguridad.
 
-## Uso real: un objeto de circuito, no un medio de transporte
+## Para qué sirve de verdad en España
 
-Su uso real en España es el que ya sentencia la ficha: **recintos privados y circuito**. No tiene batería ni autonomía declaradas por el fabricante —a fondo, una máquina así consume su energía en minutos, no en horas—, las luces de serie son pobres según las pruebas y su mantenimiento exige un usuario experto: pares de apriete, presión de suspensiones neumáticas y vigilancia de una instalación eléctrica de 72 V que trabaja a 100 A. Comprarlo de importación significa además asumir que no hay taller oficial ni recambios en Europa. Y un apunte que las cifras de portada esconden: plegado «rápido» no significa ligero ni cómodo de transportar, porque una máquina de 72 V con suspensión neumática y chasis forjado es un objeto grande y pesado de mover en coche o de subir a un tren, justo lo contrario de lo que se espera de un patinete como solución de última milla.
+En España, el uso sensato de este aparato queda limitado a recintos privados y circuitos. La marca no declara batería ni autonomía: a fondo, un aparato así agota su energía en minutos y no en horas. El alumbrado de serie resulta pobre en las pruebas, y el mantenimiento pide un usuario con experiencia: pares de apriete, presión de las suspensiones neumáticas y control de la instalación eléctrica a 72 V y 100 A. Al comprarlo por importación, además, no existe taller oficial ni stock de repuestos en Europa. Y un matiz que las cifras de portada ocultan: que el plegado sea rápido no implica que resulte ligero ni fácil de transportar: con 72 V, suspensión neumática y bastidor forjado, el conjunto es voluminoso y pesado para meter en un coche o subir a un tren, justo lo opuesto a lo que se pide a un patinete de última milla.
 
-## Normativa VMP: por qué no encaja, explicado por la DGT
+## Qué dice la DGT sobre estos vehículos
 
-La <a href=https://www.dgt.es/comunicacion/notas-de-prensa/dgt-recuerda-que-a-partir-de-22-de-enero-los-vmp-que-se-comercialicen-deberan-estar-certificados-para-su-uso>nota oficial de la DGT</a> define el VMP como el vehículo de una plaza propulsado por motor eléctrico con velocidad máxima por diseño **entre 6 y 25 km/h**, y recuerda que los que se comercializan deben estar certificados, con prohibición de circular por aceras, travesías y vías interurbanas. Un aparato de 112 km/h no es un VMP «deslimitado»: está fuera de la categoría desde su diseño. La <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/matricular-un-vehiculo/inscripcion-vmp/>DGT ha puesto además en marcha la inscripción en el Registro de vehículos personales ligeros</a>, con etiqueta identificativa y seguro obligatorio para los VMP que sí pueden circular; nada de eso convierte en legal a un hiperpatinete de estas prestaciones en vía pública.
+La <a href=https://www.dgt.es/comunicacion/notas-de-prensa/dgt-recuerda-que-a-partir-de-22-de-enero-los-vmp-que-se-comercialicen-deberan-estar-certificados-para-su-uso>nota oficial de la DGT</a> describe el VMP como un vehículo de una sola plaza movido por motor eléctrico y con una velocidad máxima de diseño de 6 a 25 km/h, y recuerda que los modelos que se venden deben contar con certificado, sin poder circular por aceras, travesías ni vías interurbanas. Un modelo con 112 km/h de punta no es un VMP con el límite quitado: desde su propio diseño queda fuera de la categoría. La <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/matricular-un-vehiculo/inscripcion-vmp/>DGT ha puesto además en marcha la inscripción en el Registro de vehículos personales ligeros</a>, añade una etiqueta identificativa y obliga a contratar un seguro a los VMP autorizados a circular; eso no legaliza en vía pública a un hiperpatinete con estas prestaciones.
 
-## Rivales y veredicto: ¿merece la pena?
+## Frente a sus rivales y valoración final
 
-En su propio mundo compite con el <a href=/patinetes/bronco-xtreme-vnom-11/>Bronco Xtreme VNOM 11</a>, la evolución de la casa, y con gigantes como el <a href=/patinetes/currus-panther/>Currus Panther</a> (5.400 W de pico y 2.100 Wh en nuestra ficha) o el <a href=/patinetes/dualtron-thunder/>Dualtron Thunder</a>, que al menos cuentan con más presencia comercial. **Veredicto:** como pieza de ingeniería y como curiosidad, el Xtreme 11 es fascinante y merece la pena estudiarlo. Como compra en España, no: sin distribución, sin homologación y sin uso legal en vía pública, su único comprador racional es el coleccionista que lo disfrutará en circuito privado. Para moverte de verdad por la ciudad, cualquier VMP certificado de 25 km/h es infinitamente más útil. 
+Dentro de su propio nicho, el rival más cercano es el <a href=/patinetes/bronco-xtreme-vnom-11/>Bronco Xtreme VNOM 11</a>, la evolución posterior de la misma casa, y fuera de ella aparecen nombres con mayor presencia comercial como el <a href=/patinetes/currus-panther/>Currus Panther</a> (5.400 W de pico; la ficha recoge 2.100 Wh) o el <a href=/patinetes/dualtron-thunder/>Dualtron Thunder</a>. **Valoración:** como objeto de ingeniería, el Xtreme 11 resulta fascinante de estudiar. Para comprar en España, la respuesta es negativa: no hay distribución ni homologación, y la vía pública queda vetada para este aparato. Solo encaja con un coleccionista que lo disfrute en circuito privado. Quien necesite moverse por la ciudad a diario tiene opciones mucho más útiles en cualquier VMP certificado de 25 km/h.
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Es el patinete más rápido del mundo?
-Sus vendedores lo anuncian así: **8.400 W** de pico y 112 km/h.
+### ¿Es realmente el patinete más rápido del mundo?
+Sus distribuidores lo presentan así: la ficha declara 8.400 W de pico y una punta de 112 km/h.
 
-### ¿Es legal en España?
-No como VMP. Solo circuito privado.
+### ¿Puede circular por España?
+No como VMP: solo en recintos privados y circuitos.
 
-### ¿Cuánto cuesta?
-Sin precio oficial; se vende en EE. UU. por importador.
+### ¿Tiene precio en España?
+No hay tarifa oficial: se adquiere en Estados Unidos a través de importadores.
 
-### ¿Qué autonomía tiene?
-No publicada.
+### ¿Qué autonomía declara?
+No declara ninguna: ni batería ni autonomía figuran en la información del fabricante.
 
-### ¿Quién fabrica Bronco?
-**Bronco Motors**, un pequeño equipo de ingenieros de Singapur.
+### ¿Quién está detrás de Bronco?
+Bronco Motors, un equipo reducido de ingenieros de Singapur.
 
-### ¿Merece la pena?
-Como curiosidad de ingeniería, sí. Como compra en España, no hay forma racional de hacerlo.
+### ¿Compensa como compra en España?
+Como curiosidad de ingeniería, sí; como compra para España, no, por la falta de distribución, homologación y uso legal en vía pública.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 

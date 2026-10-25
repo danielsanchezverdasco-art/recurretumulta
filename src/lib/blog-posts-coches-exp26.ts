@@ -6,9 +6,9 @@ import type { BlogPost } from "./blog-data.ts";
 
 export const COCHES_EXP26_POSTS: BlogPost[] = [
   {
-    "title": "Lancia Ypsilon 2024: precio desde 23.019 €",
+    "title": "Lancia Ypsilon 2024: precio, híbrido ECO y eléctrico",
     "slug": "lancia-ypsilon-2024-precio",
-    "excerpt": "Precio y ficha técnica del Lancia Ypsilon 2024: híbrido de 110 CV con etiqueta ECO desde 23.019 € y eléctrico de 156 CV con 425 km de autonomía. Fabricado en España.",
+    "excerpt": "El Ypsilon 2024 arranca en 23.019 € como híbrido de 110 CV con etiqueta ECO; la variante eléctrica de 156 CV homologa 425 km y se fabrica en Zaragoza.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "readTime": 7,
@@ -18,11 +18,11 @@ export const COCHES_EXP26_POSTS: BlogPost[] = [
 
 **¿Buscas solo los datos?** <a href=/coches/lancia-ypsilon-2024-precio-ficha-tecnica/>Ver la ficha técnica del Lancia Ypsilon 2024</a>: precio, potencia, consumo y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El **Lancia Ypsilon 2024** marca el regreso de la marca italiana al panorama europeo después de una década vendiendo solo en Italia: un utilitario de **4,08 metros** disponible como **híbrido de 110 CV** y como **eléctrico de 156 CV**. La versión híbrida parte de **23.019 €** y luce la etiqueta **ECO** de la DGT, mientras que la eléctrica arranca en **32.126 €** con **425 km de autonomía homologada**.
+El Ypsilon 2024 supone la vuelta de la marca italiana al mercado europeo tras una década en la que solo se vendía en el mercado italiano: un utilitario de 4,08 metros que se ofrece en versión híbrida de 110 CV y en versión eléctrica de 156 CV. La variante híbrida arranca en 23.019 € y porta el distintivo ECO de la DGT, mientras la eléctrica parte de 32.126 € y homologa 425 km de autonomía.
 
-Es, además, un coche con pasaporte español: se fabrica en la planta de Stellantis de **Figueruelas (Zaragoza)**, junto a sus primos técnicos, el Opel Corsa y el Peugeot 208, con los que comparte la plataforma CMP.
+El coche, además, lleva pasaporte español: sale de la factoría de Stellantis en Figueruelas (Zaragoza), junto al Opel Corsa y al Peugeot 208, modelos con los que comparte base técnica y plataforma CMP.
 
-## Ficha técnica resumida
+## Datos esenciales
 
 | Concepto | Dato |
 |---|---|
@@ -41,71 +41,77 @@ Es, además, un coche con pasaporte español: se fabrica en la planta de Stellan
 
 <a href=/coches/lancia-ypsilon-2024-precio-ficha-tecnica/>Ver la ficha técnica completa del Lancia Ypsilon con galería de fotos</a>
 
-## Híbrido de 48 V: 110 CV y etiqueta ECO
+## El híbrido de 48 V
 
-El corazón de la gama es el **1.2 de tres cilindros con hibridación ligera de 48 V**, que entrega **110 CV** y 205 Nm de par. Homologa **4,5 l/100 km** y 103 g/km de CO2, lo que le vale la etiqueta **ECO**. Es la versión que más se venderá: silenciosa en casi cualquier circunstancia, con prestaciones de sobra para viajar y un consumo ajustado. Su punto débil, según las pruebas, es que **la entrega de potencia no es tan suave en ciudad** como la de otros híbridos.
+El eje de la gama es un 1.2 tricilíndrico con apoyo eléctrico ligero de 48 V, que rinde 110 CV y un par de 205 Nm. Homologa 4,5 litros cada 100 km y 103 gramos por kilómetro de CO2, cifras que le otorgan el distintivo ECO. Se trata de la versión con mayor volumen de ventas previsto: silenciosa en la práctica totalidad de situaciones, con prestaciones holgadas para viajar y un gasto contenido. Su flanco débil, según las pruebas, consiste en que la entrega de potencia en ciudad resulta menos suave que la de otros híbridos.
 
-La **Ypsilon Elettrica** monta una batería de **51 kWh** y un motor de **156 CV**: más suave, más rápida y con **425 km de autonomía**, aunque pierde maletero (309 litros frente a 352). Por encima, el **Ypsilon HF** eleva la apuesta a **281 CV** para quien quiera el utilitario más divertido del grupo Stellantis.
+La Ypsilon Elettrica recurre a una batería de 51 kWh, asociada a un motor de 156 CV: más suave y más rápida, con 425 km de autonomía, a cambio de un maletero menor (309 litros, frente a 352). Por encima se sitúa el Ypsilon HF, que sube la apuesta hasta 281 CV para quien busque el utilitario con más carácter del grupo Stellantis.
 
 <img src=/media/lancia-ypsilon-2024-precio-ficha-tecnica-interior.webp alt=Interior del Lancia Ypsilon 2024>
 
-## Un diseño que no se parece a sus primos
+## Diseño con identidad propia
 
-Lancia ha diferenciado al Ypsilon del Corsa y el 208 con detalles propios: el frontal lleva **tres tiras LED** sobre un panel negro, y la zaga luce unos **faros redondos** que son un guiño directo al mítico **Lancia Stratos**. El nombre del modelo aparece en caligrafía sobre el portón, como en los Fulvia o Flavia clásicos.
+Lancia ha separado al Ypsilon del Corsa y del 208 con detalles propios: el frontal monta tres tiras LED sobre un panel en negro, mientras la zaga exhibe unos faros redondos que evocan directamente al mítico Lancia Stratos. Sobre el portón, el nombre del modelo figura en caligrafía, al estilo de los Fulvia o Flavia clásicos.
 
-Dentro, la sorpresa es la **Tavolino**, una pequeña mesita en el centro del salpicadero, y unos asientos **recubiertos de terciopelo** (salvo en el acabado básico) que ningún rival ofrece. El cuadro de instrumentos usa **pantallas duales de 10,25 pulgadas** y hay conducción autónoma de nivel 2.
+Dentro, la nota singular es la Tavolino, una mesita pequeña situada en el centro del salpicadero, junto a unos asientos forrados de terciopelo, excepto en el acabado básico, que no ofrece ningún rival. El cuadro de instrumentos recurre a pantallas duales de 10,25 pulgadas y el coche dispone de conducción autónoma de nivel 2.
 
-## Historia del Ypsilon: el utilitario chic italiano
+## Historia de la saga Ypsilon
 
-El Ypsilon es una saga con cuatro generaciones y más de cuatro millones de unidades vendidas desde 1985:
+La saga acumula cuatro generaciones y supera los cuatro millones de ejemplares comercializados desde 1985:
 
-- **1985 — Lancia Y10:** el original, diseñado con la colaboración de Pininfarina, utilitario premium con portón de cristal negro.
-- **1995 — Lancia Y:** segunda generación, con sus característicos faros verticales.
-- **2003 — Ypsilon (843):** carrocería de tres puertas, se convierte en el modelo más vendido de Lancia.
-- **2011 — Ypsilon (846):** la generación longeva: trece años en el mercado, superventas en Italia hasta 2024.
-- **2024 — Ypsilon (nueva era):** primera Lancia de la era Stellantis, plataforma CMP, híbrido y eléctrico, fabricado en Zaragoza.
+- **Año 1985 · Y10:** estreno de la saga, proyecto conjunto con Pininfarina, urbano de aire premium y portón trasero en cristal oscuro.
+- **Año 1995 · Y:** segunda entrega, reconocible por sus faros en vertical, su rasgo más visible.
+- **Año 2003 · Ypsilon 843:** tres puertas y el puesto de modelo más vendido de Lancia.
+- **Año 2011 · Ypsilon 846:** la entrega longeva, con trece años a la venta y éxito de ventas en Italia hasta 2024.
+- **Año 2024 · Ypsilon nueva era:** estreno de Lancia en la era Stellantis, con plataforma CMP, versiones híbrida y eléctrica, y producción en Zaragoza.
 
 <img src=/media/lancia-ypsilon-2024-precio-ficha-tecnica-oficial.webp alt=Trasera del Lancia Ypsilon 2024>
 
 ## Mantenimiento
 
-El 1.2 híbrido de 48 V sigue el plan de mantenimiento de la red Stellantis: orientativamente, **revisión cada 12 meses o 15.000 km**, con cambio de aceite, filtro de aceite y filtro de polen. Al ser un sistema de hibridación ligera, no hay batería de tracción grande que mantener: el mantenimiento es similar al de un gasolina convencional. Los costes exactos por revisión aún no están publicados por Lancia España: conviene pedir presupuesto en la red oficial. *Fuente: red oficial Stellantis*
+Para el 1.2 híbrido de 48 V, la red Stellantis marca el calendario de mantenimiento: como orientación, revisión cada 12 meses o cada 15.000 km, incluyendo cambio de aceite, sustitución del filtro de aceite y del filtro de polen. Al tratarse de una hibridación ligera, no existe una batería de tracción grande que cuidar: el mantenimiento se parece al de un gasolina convencional. En cuanto a los costes exactos por revisión, todavía no los ha publicado Lancia España; lo aconsejable es pedir presupuesto en la red oficial. *Fuente: red oficial Stellantis*
 
-## Precio y rivales
+## Precios y competencia
 
-Desde 23.019 €, el Ypsilon Ibrida compite con el **Peugeot 208 Hybrid** (mismo motor, precio similar), el **Opel Corsa Hybrid** y el **Renault Clio E-Tech** (híbrido completo, más suave en ciudad). La eléctrica, desde 32.126 €, se mide con el **Peugeot E-208** y el **Opel Corsa-e**. El Ypsilon gana en distinción y equipamiento interior; pierde en que sus primos de grupo suelen ofrecer mejores descuentos.
+La Ypsilon Ibrida parte de 23.019 € y rivaliza con el Peugeot 208 Hybrid, que comparte motor y se mueve en un precio similar, con el Opel Corsa Hybrid y con el Renault Clio E-Tech, un híbrido completo más suave en ciudad. La variante eléctrica, desde 32.126 €, se enfrenta al Peugeot E-208 y al Opel Corsa-e. El Ypsilon destaca en distinción y en equipamiento interior; en cambio, sus primos de grupo acostumbran a ofrecer mejores descuentos.
 
-## Veredicto: el utilitario con más carácter del grupo
+## Veredicto
 
-El Ypsilon 2024 demuestra que se puede compartir plataforma sin compartir personalidad. El diseño es genuinamente Lancia, el interior con terciopelo y Tavolino no lo tiene nadie, y la gama cubre desde el híbrido ECO asequible hasta la eléctrica de 425 km y la deportiva HF de 281 CV. Que además se fabrique en Zaragoza es un argumento de peso para el comprador español.
+El Ypsilon 2024 prueba que compartir plataforma no obliga a compartir personalidad. El diseño es auténticamente Lancia, el interior de terciopelo con Tavolino no lo ofrece nadie, y la gama va del híbrido ECO asequible a la eléctrica de 425 km, y de ahí a la deportiva HF de 281 CV. Su fabricación en Zaragoza supone un argumento con peso entre los compradores españoles.
 
-¿Para quién es? Para quien busca un utilitario con estilo propio y no quiere el enésimo 208 o Corsa. El híbrido de 110 CV es la compra racional: etiqueta ECO, 4,5 l/100 km y precio contenido.
+¿A quién va dirigido? A quien busca un utilitario con carácter propio y rehúye otro 208 o Corsa más. El híbrido de 110 CV supone la compra racional: distintivo ECO, 4,5 litros cada 100 km y un precio contenido.
 
-¿Sus pegas? Las plazas traseras son justas para cuatro adultos, el híbrido podría ser más refinado en ciudad y el precio parte algo alto frente a sus hermanos de grupo. Y queda la incógnita de la seguridad: la nueva generación aún no ha pasado por EuroNCAP.
+¿Y sus pegas? Las plazas traseras quedan justas para cuatro adultos, el híbrido podría ganar refinamiento en ciudad, y el precio de partida queda algo alto si se compara con sus hermanos de grupo. Queda, además, la incógnita de la seguridad: la generación nueva todavía no ha pasado por EuroNCAP.
 
-## Cuánto cuesta mantenerlo
+## Coste mensual estimado
 
-Estimación orientativa con 15.000 km al año: unos **183 €/mes**, desglosados en 87 € de gasolina (4,5 l/100 km), 62 € de seguro a todo riesgo, 29 € de mantenimiento prorrateado y 5 € de impuesto de circulación. Son cifras aproximadas que varían según tu uso, tu aseguradora y tu municipio.
+Con 15.000 km anuales, la estimación orientativa se sitúa en unos 183 € al mes. De esa cifra, 87 € corresponden a gasolina, con un consumo de 4,5 litros cada 100 km; 62 €, al seguro a todo riesgo; 29 €, al mantenimiento prorrateado; y 5 €, al impuesto de circulación. Todas son cifras aproximadas, dependientes de tu uso, de tu aseguradora y de tu municipio.
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el Lancia Ypsilon 2024?
-Desde 23.019 € la versión Ibrida de 110 CV; la eléctrica parte de 32.126 €.
+### ¿Desde qué precio arranca el Ypsilon 2024?
 
-### ¿Qué autonomía tiene el Ypsilon eléctrico?
-425 km en ciclo WLTP con su batería de 51 kWh.
+La Ibrida de 110 CV parte de 23.019 €; la eléctrica, de 32.126 €.
 
-### ¿El Ypsilon híbrido tiene etiqueta ECO?
-Sí, gracias a su hibridación ligera de 48 V.
+### ¿Qué alcance homologa el Ypsilon eléctrico?
 
-### ¿Dónde se fabrica el Lancia Ypsilon?
-En Figueruelas (Zaragoza, España), en la planta de Stellantis.
+Con su batería de 51 kWh, homologa 425 km en ciclo WLTP.
 
-### ¿Qué maletero tiene?
-352 litros en el híbrido y 309 litros en la versión eléctrica.
+### ¿El híbrido porta distintivo ECO?
 
-### ¿Tiene prueba EuroNCAP la nueva generación?
-No: la generación de 2024 aún no ha sido probada por EuroNCAP.
+Sí: la hibridación ligera de 48 V le otorga el distintivo ECO.
+
+### ¿En qué planta se fabrica el Ypsilon?
+
+Sale de la planta de Stellantis en Figueruelas, Zaragoza.
+
+### ¿Qué capacidad tiene su maletero?
+
+El híbrido ofrece 352 litros; la versión eléctrica, 309 litros.
+
+### ¿Ha pasado la nueva generación por EuroNCAP?
+
+No: la generación de 2024 todavía no ha sido probada por EuroNCAP.
 
 *Fuentes: <a href=https://www.km77.com/coches/lancia/ypsilon/2024/estandar/datos>km77.com</a>, <a href=https://www.lancia.com> Lancia oficial</a>*
 
