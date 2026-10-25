@@ -7682,3 +7682,72 @@ Para la siguiente ronda, NO pusheados en este commit (nada se pierde):
 - /blog/hiboy-ks4/ — NO es un fallo del lote: mi extractor de la primera pasada no lo encontró en patinetes-exp-p3.ts (entradas separadas por líneas de guiones). Corregido y verificado después: la entrada existe, el contenido es COMPLETO y estructuralmente idéntico, y mide 0/0 con 0 cruzado con Citroën. Queda listo para la siguiente ronda, sin reescribir nada, en un commit de cierre de s20-01. Lo digo así para no esconder que el salto fue mío, no del lote.
 
 Nada en main, nada en Netlify, nada en Cloudflare, nada en Convex. Siguiente puesto tras el slice: 186 (s20-02, otra ronda). Dime qué más quieres que siga subiendo y lo sigo en serie, un slice por vez, sin pausa.
+# Parte s20-03 — coordinador único ORD-1525
+
+Rama nueva `dedupe-8g-s20-03` (no existía: 404 previo), base `dedupe-8g-merlin` @bd1ecdb3ff08c3f17067d117938687437b8f4286, un commit, sin force, sin main, sin Netlify, sin Cloudflare, sin Convex.
+Commit nuevo: `c43f1f5d61fde5ba9d6891d33a626ae75684abeb`, verificado por GET de la ref (la ref apunta al mismo sha).
+Puestos 234–281: 46/48 pusheados, 2 saltados a la siguiente ronda (nada perdido).
+Medición: filtro establecido t11/slice3 (minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:*/créditos, líneas solo-enlace y plantilla de multa/analizador; encabezados incluidos; el filtro NO mide texto de anclas). Todos los pusheados: 0/0 en prosa contra la vieja fresca re-extraída de la cabeza vigente, 0 cruzado por lote de 2, estructura idéntica (href/img/tablas) salvo las desviaciones documentadas en el handover (Mégane 251 con \n literales decodificados, Benelli TRK 502 253 con 2 líneas *Foto:* intactas excluidas por norma, multa de 263 reescrita solo en redacción con href intacto, encabezados renombrados con href/estructura intactos).
+Solo se aplicaron title/excerpt/content a todas las copias. Los lite (blog-lite.generated.ts) no se tocaron.
+
+## Blogs pusheados (46)
+
+| Slug | Título / extracto | Prosa vieja → nueva | Ficheros |
+|---|---|---|---|
+| dacia-spring-baja-precio-octubre-2026 | 58/142 | 386 → 370 | blog-posts-flash-2026.ts |
+| kaabo-mantis-10-eco | 47/145 | 278 → 417 | blog-posts-patinetes-exp-p2.ts |
+| hymer-b-class-masterline-i-780-precio-ficha-tecnica | 56/155 | 1373 → 1430 | blog-posts-autocaravanas-lote125.ts, blog-posts-autocaravanas-lote125-g08.ts |
+| niu-kqi-300p | 44/134 | 345 → 421 | blog-posts-patinetes-exp-p1.ts |
+| benelli-leoncino-500-2026-precio | 42/153 | 279 → 327 | blog-posts-nuevos-m4.ts |
+| dualtron-mini-special-dual | 46/147 | 361 → 376 | blog-posts-patinetes-exp-p8.ts |
+| keeway-superlight-125v-2025-precio | 46/149 | 316 → 328 | blog-posts-nuevos-m4.ts |
+| cecotec-bongo-d20-mobile | 46/137 | 305 → 417 | blog-posts-patinetes-exp-p2.ts |
+| dualtron-togo | 48/133 | 275 → 387 | blog-posts-patinetes-exp-p2.ts |
+| inmotion-air-pro | 44/131 | 274 → 363 | blog-posts-patinetes-exp-p3.ts |
+| inokim-light-2-max | 48/139 | 299 → 380 | blog-posts-patinetes-exp-p9.ts |
+| possl-trenta-640-2026-analisis-opinion | 54/146 | 919 → 1001 | blog-posts-campers-niky.ts |
+| royal-enfield-meteor-350-2026-precio | 50/151 | 276 → 324 | blog-posts-nuevos-m4.ts |
+| kaabo-mantis-x-pro | 45/143 | 254 → 342 | blog-posts-patinetes-exp-p2.ts |
+| suzuki-fronx-2025-precio-ficha | 52/147 | 287 → 341 | blog-posts-lote13.ts |
+| navee-st3-pro | 46/146 | 311 → 442 | blog-posts-patinetes-exp-p1.ts |
+| renault-megane-e-tech-2026-precio-autonomia | 44/135 | 0 → 0 | blog-posts-renault-a.ts |
+| benelli-trk-502-2026 | 48/132 | 812 → 928 | blog-posts-prioridad-20261014.ts |
+| zero-s-baja-precio-octubre-2026 | 43/125 | 428 → 470 | blog-posts-flash-2026.ts |
+| isinwheel-s10max | 50/143 | 287 → 477 | blog-posts-patinetes-exp-p5.ts |
+| urban-glide-1000gt-2x2 | 44/144 | 277 → 378 | blog-posts-patinetes-exp-p6.ts |
+| audi-r8-2025-precio-autonomia | 49/150 | 305 → 357 | blog-posts-lote12.ts |
+| ford-nugget-trail-2026-analisis-opinion | 53/150 | 334 → 435 | blog-posts-campers-niky.ts |
+| benimar-mileo-286-2026-precio-autocaravana | 59/139 | 412 → 505 | blog-posts-lote16.ts |
+| volkswagen-id-4-2025-precio-electrico | 54/129 | 366 → 470 | blog-posts-lote16.ts |
+| electric-motion-escape-r-2026-precio-ficha-tecnica | 58/129 | 258 → 323 | blog-posts-lote10.ts |
+| possl-summit-640-2026-analisis-opinion | 57/138 | 951 → 1023 | blog-posts-campers-niky.ts |
+| dacia-bigster-hybrid-vs-jaecoo-5-cual-comprar | 53/150 | 850 → 973 | blog-posts-duelos.ts |
+| walberg-egret-ey-1 | 49/147 | 359 → 479 | blog-posts-patinetes-exp-p5.ts |
+| cecotec-bongo-serie-s-infinity | 52/148 | 342 → 413 | blog-posts-patinetes-exp-p2.ts |
+| etrusco-t-7400-sbc-precio-ficha-tecnica | 48/150 | 1479 → 1506 | blog-posts-autocaravanas-lote125.ts, blog-posts-autocaravanas-lote125-g09.ts |
+| seat-ibiza-baja-precio-octubre-2026 | 47/135 | 258 → 271 | blog-posts-flash-2026.ts |
+| weinsberg-caraone-390-qd-2026-precio-ficha-tecnica | 47/137 | 427 → 503 | blog-posts-caravanas-lote3.ts |
+| citroen-2cv-electrico-2028 | 50/145 | 321 → 340 | blog-posts-batch2b-1.ts |
+| dualtron-pop | 42/129 | 436 → 479 | blog-posts-patinetes-exp-p8.ts |
+| eura-mobil-activa-one-650-hs-precio-ficha-tecnica | 48/148 | 1278 → 1358 | blog-posts-autocaravanas-lote125.ts, blog-posts-autocaravanas-lote125-g10.ts |
+| kaabo-wolf-warrior-x-gt | 47/134 | 288 → 426 | blog-posts-patinetes-exp-p2.ts |
+| cecotec-bongo-z-plus | 47/129 | 318 → 389 | blog-posts-patinetes-exp-p2.ts |
+| urban-glide-ecross-go | 48/129 | 365 → 430 | blog-posts-patinetes-exp-p6.ts |
+| audi-tt-2025-precio-autonomia | 39/141 | 322 → 489 | blog-posts-lote12.ts |
+| giottiline-toscan-69gc-precio-ficha-tecnica | 53/132 | 1487 → 1612 | blog-posts-autocaravanas-lote125.ts, blog-posts-autocaravanas-lote125-g05.ts |
+| knaus-sport-500-qdk-2026-precio-ficha-tecnica | 44/130 | 599 → 687 | blog-posts-caravanas-lote1.ts |
+| nissan-qashqai-baja-precio-octubre-2026 | 48/134 | 460 → 561 | blog-posts-flash-2026.ts |
+| pure-advance-flex | 43/153 | 368 → 459 | blog-posts-patinetes-exp-p8.ts |
+| cecotec-bongo-d40-xl-connected | 46/134 | 402 → 494 | blog-posts-patinetes-exp-p2.ts |
+| xpeng-g6-2025-precio-espana | 49/146 | 467 → 511 | blog-posts-xpeng-a.ts |
+
+Ficheros del commit (26): blog-posts-autocaravanas-lote125-g05.ts, blog-posts-autocaravanas-lote125-g08.ts, blog-posts-autocaravanas-lote125-g09.ts, blog-posts-autocaravanas-lote125-g10.ts, blog-posts-autocaravanas-lote125.ts, blog-posts-batch2b-1.ts, blog-posts-campers-niky.ts, blog-posts-caravanas-lote1.ts, blog-posts-caravanas-lote3.ts, blog-posts-duelos.ts, blog-posts-flash-2026.ts, blog-posts-lote10.ts, blog-posts-lote12.ts, blog-posts-lote13.ts, blog-posts-lote16.ts, blog-posts-nuevos-m4.ts, blog-posts-patinetes-exp-p1.ts, blog-posts-patinetes-exp-p2.ts, blog-posts-patinetes-exp-p3.ts, blog-posts-patinetes-exp-p5.ts, blog-posts-patinetes-exp-p6.ts, blog-posts-patinetes-exp-p8.ts, blog-posts-patinetes-exp-p9.ts, blog-posts-prioridad-20261014.ts, blog-posts-renault-a.ts, blog-posts-xpeng-a.ts.
+
+## Saltados a la siguiente ronda (2, nada perdido, viejas intactas)
+
+- `toyota-corolla-60-aniversario-2026-precio`: prosa 0/0, pero el contenido nuevo pierde 2 enlaces frente a la vieja (/comparador-coches/ 1→0 y /mejor-coche-por-presupuesto/ 1→0), desviación no documentada en el handover. No se aplicó como está; en la siguiente ronda, restaurar esas líneas de enlace o documentar la desviación y re-medir.
+- `teverun-fighter-11-plus`: prosa 0/0, pero el enlace a la tienda Green220 pasa de 2 a 1 ocurrencia, desviación no documentada en el handover. No se aplicó como está; en la siguiente ronda, restaurar la segunda ocurrencia o documentar la desviación y re-medir.
+
+Duplicados aplicados a todas sus copias según el mapa del handover: dentro del fichero principal 242, 253, 254, 262, 264, 272; en ficheros g 236→g08, 265→g09, 271→g10, 276→g05 (ver tabla).
+
+Siguiente puesto fuera del slice: 282. La cola sigue en serie con s20-05 (330–379), y quedo a tu disposición para seguir con lo que me pidas.
