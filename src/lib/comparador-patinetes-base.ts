@@ -487,9 +487,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
       "Sus 65 km de autonomía y la app con velocidad de crucero completan el conjunto",
     ],
     contras: [
-      "Sus 1.199 € lo sitúan por encima del precio del resto de la comparativa",
-      "Con 24,3 kg es pesado y voluminoso para guardarlo en casa",
-      "El freno de disco trasero más el electrónico es mejorable a este precio",
+      "Cuesta 1.199 €, un desembolso que lo coloca claramente por encima de lo que cuesta la mayoría de los modelos de esta comparativa.",
+      "Con 24,3 kg de peso y un tamaño generoso, guardarlo dentro de casa exige buscarle un hueco donde no moleste al pasar.",
+      "El conjunto de frenos, que combina disco en la parte trasera con freno electrónico, deja margen de mejora para lo que cuesta este modelo.",
     ],
     veredicto:
       "Un premium para sibaritas del asfalto, con doble suspensión y potencia de sobra. Pero 1.199 € es mucho dinero: el Segway Max G2 ofrece casi lo mismo por bastante menos.",
@@ -3001,12 +3001,12 @@ export const PATINETES_BASE: PatineteComparador[] = [
   foto: "/media/patinetes/navee-st3.webp",
   aprox: ["precioEur", "autonomiaRealKm"],
   pros: [
-      "El triple sistema de frenado, con tambor, disco y regenerativo, da la máxima seguridad",
-      "La batería de 477 Wh da 60 km de autonomía",
-      "Los intermitentes integrados y el sistema TCS antideslizante añaden seguridad",
-      "La suspensión da mayor confort en ciudad",
-      "Es compatible con Apple Find My y con el desbloqueo por proximidad",
-      "El manillar se regula en altura",
+      "Frenar aquí combina tambor, disco y recuperación de energía, un conjunto pensado para detener el patinete con aplomo incluso cuando el asfalto está mojado.",
+      "Con una batería de 477 Wh, el alcance anunciado llega a 60 km, distancia suficiente para cubrir varios días de desplazamientos urbanos sin pasar por el enchufe.",
+      "Los intermitentes que vienen integrados y el control de tracción que evita que la rueda patine aportan un plus de tranquilidad en cruces y giros.",
+      "La suspensión absorbe baches y juntas del pavimento, así que los trayectos por la ciudad se hacen menos cansados para las muñecas y la espalda.",
+      "Se puede localizar desde el móvil gracias a su compatibilidad con Apple Find My, y además se desbloquea solo al acercarse, sin tener que teclear códigos cada vez.",
+      "El manillar admite regular su altura, de modo que cada conductor puede dejarlo a la medida que le resulte más cómoda para circular erguido.",
   ],
   contras: [
     "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (649,99 $)",
