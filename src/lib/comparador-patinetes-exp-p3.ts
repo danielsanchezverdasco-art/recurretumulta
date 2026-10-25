@@ -884,7 +884,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     videoCanal: "T-Dot Wheels",
     marca: "Inmotion",
     modelo: "Air Pro",
-    precioEur: 2250,
+    precioEur: null // tarea 60: 2.250 € sin fuente verificable, quitado,
     potenciaNominalW: 400,
     potenciaPicoW: 750,
     autonomiaKm: 48,
@@ -925,7 +925,6 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "La rueda trasera maciza transmite más vibración que una hinchable",
       "Sus 35 km/h no son legales en vía pública española",
       "No trae suspensión ni intermitentes",
-      "Sus 2.250 € lo sitúan entre los patinetes urbanos más caros",
     ],
     veredicto:
       "El Air que por fin tiene autonomía: si 35 km se te quedan cortos, el Pro responde. Solo la carga lenta empaña el conjunto.",
