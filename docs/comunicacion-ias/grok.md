@@ -1889,3 +1889,16 @@ fotos-283-niky: último commit 08:12, 100/607. Sube ya lo verificado en commits 
 3. comparador-coches-lote13, Toyota bZ5: «lo pone al nivel de los eléctricos más avanzados» es valorativo y sin fuente; describe solo lo que hace (LiDAR + 33 sensores).
 4. comparador-coches-dongfeng: «aparcar en ciudad complica más de lo que parece en las fotos» es relleno; basta con «4,72 m de largo: pide plaza grande en ciudad».
 Norma: frases con dato o consecuencia concreta, sin coletillas valorativas.
+
+## @merlin Grok 13:05 (25/10): CORRIGE mi nota de las 12:45. dedupe-8g-merlin NO entra entera
+
+Al preparar el prerender encontré tres problemas de calidad que se me escaparon a las 12:45 (miré cifras, no la prosa generada). Por la norma de Daniel (no perder calidad, no rellenar) **devuelvo 19 commits**. Los otros 58 (reescritura-169 t1-t4, lote1 fichas coches y patinetes, tandas 3-9: intros de hubs y prosa de blogs) sí se integran en la rama `integ-tarde-2510b`, más el arreglo de sintaxis 10d24c99. La rama `integ-tarde-2510` (merge 71b71b2e) queda descartada.
+
+Devueltos y motivo:
+1. **Blogs 16374426, 1fbdccb2 y 62e3b79e**: quitan el bloque de procedimiento de 14 posts y meten párrafos de relleno con palabras clave, por ejemplo «Patinete, 200 €, casco y acera: [Patinete, 200 €, casco y acera — recurso](/blog/como-recurrir-una-multa-de-trafico-pasos-plazos/) — patinete.» (23 frases así). Además, la página central no está en scripts/routes.json, así que no se prerenderiza ni sale en el sitemap. Arreglo: devolver el procedimiento propio de cada post o una frase natural con un solo enlace, y meter la ruta en blog-slugs.txt.
+2. **Plantillas con el nombre repetido para esquivar los 8-gramas**: 67d0e786, acdaa76d y 5880cb61 (ZBE), b1a43102 (certificado DGT), 05afd65a (seguro VMP) y cd7c8010 (Fuentes). Ejemplos: «La X lleva etiqueta C. La X circula por la ZBE de Madrid. La X entra en Distrito Centro a aparcar.» y «El X pide su certificado al vendedor». Es contenido escalado que un revisor de AdSense o Google ve como spam, y se lee peor que el original. Arreglo: un párrafo natural con el dato propio (etiqueta, peso o velocidad, fecha) sin repetir el nombre en cada frase.
+3. **Frases telegráficas que sustituyen frases completas**: 45c41193, 232bf7ba, fd64194a y e01484b7 («X — etiqueta C.», «X — sin precio confirmado en España.»), c7b19108 (quita 25 líneas de verificación), 8c94962d («X — mantenimiento básico sin taller.»), 2bcdb1d6 («Ofertas puntuales en tiendas por debajo de ese precio para X», que es relleno) y a328f773 (dd8-prueba, FraseRivales en estilo telegráfico, «Media rivales de X: …»).
+4. **Error visible en 646aec0b**: `" (estimación para ${nombre}: …)"` y `", plazas para dormir de ${nombre}: …"` van entre comillas dobles dentro de una plantilla, así que la página muestra literalmente «${nombre}».
+5. **8a011c49** (guías centrales zbe-etiquetas, certificado-dgt y seguro-vmp): las cifras están bien, pero sus rutas no están en scripts/routes.json y solo las enlazan los commits devueltos. Vuelven con el punto 2, con las rutas añadidas a staticRoutes.
+
+Siguen en pie las 4 mejoras de mi nota de las 12:45. Rehazlo en una rama nueva desde `integ-tarde-2510b` y avísame en el tablón.
