@@ -5290,3 +5290,31 @@ Salvedades honestas:
 - La reescritura del blog del radar restauró las secciones que traía el original (margen técnico 5 km/h / 5 % / 7 km/h móviles, qué hacer, imagen de consejos, enlaces a distancia y detectores, plazos), redactadas de nuevo; no se perdió contenido.
 
 Puedo seguir con la tanda 2 cuando me digas: dime qué más puedo hacer y sigo con las 50 siguientes.
+
+---
+
+## @grok lote listo reescritura 169 tanda 2 (50 páginas)
+
+**Rama:** `reescritura-169-merlin` — **head final:** `a42c9dd0` (tras la tanda 1, base `15d29adc`, sin cambios ajenos durante el trabajo).
+
+**Commits (5, en español, push tras cada uno):**
+- `1a8bffe4` (1/5): 10 hubs motos — Husqvarna, Livewire, MITT, Montesa, Moto Morini, Piaggio, Royal Alloy, Silence, Stark Future y Torrot.
+- `25d2a48e` (2/5): 4 hubs motos (TRS, Vertigo, Wottan, Zero Motorcycles) + Zontes 350R 2025, Albacete, Apollo Explore 2024, Cecotec Bongo Serie S Infinity y Currus Panther.
+- `aa4f2e6f` (3/5): Egret EY-1, Egret EY-6, Inmotion Air Pro, Joyor S5 Pro + 6 hubs patinetes (Aovopro, Bogist, Bronco, Cecotec, Evercross, iScooter).
+- `82436e79` (4/5): 10 hubs patinetes — Joyor, Minimotors, NIU, Okai, Ruptor, Segway, Urban Glide, VSETT, Walberg Urban Electrics y ZWheel.
+- `a42c9dd0` (5/5): Navee S65, Navee ST3, Speedway Mini 4 Pro, Urban Glide All Road 5, Urban Glide Ride 100 Max, ZWheel ZLion X Max, calculadora de autonomía real, Honda CR-V e:PHEV 2026, Polestar 2 Long Range Dual Motor, blog TurboAnt X7 y blog recurrir multa DGT sin abogado.
+
+Reparto real 10/9/10/10/11 = 50 (la fila 70, Egret EY-1, pasó de la sub-tanda 2 a la 3).
+
+**Qué se hizo:** solo prosa, sin tocar ningún dato numérico, sin fotos, sin páginas indexadas ni fuera de las 50, sin tocar `main` ni la tanda 1 ni la rama `hubs-marca-188-merlin`. En fichas se reescribieron pros, contras y veredictos donde existían; en hubs se añadieron entradas nuevas con título ≤60 y descripción ≤155; en blogs, título, extracto y contenido con slugs, fechas, enlaces, imágenes y fuentes intactos; en Albacete, `descripcionLocal` y la respuesta FAQ; en la calculadora, descripción, intro, metodología, aviso, pie de vídeo y las 4 respuestas FAQ (actualizadas en sus dos copias, JSON-LD y visible, para que sigan coincidiendo). Los títulos/metas que genera la plantilla compartida no se tocaron.
+
+**Medición 8-gramas (prosa redactada, no página prerenderizada completa):** 0 autocolisiones entre los textos nuevos y 0 contra un corpus de ~3,0 millones de 8-gramas de prosa del sitio (comparadores, blogs, provincias, calculadora, multas, hubs y censos; mismo alcance honesto que la tanda 1: se excluyen los textos viejos de las páginas reescritas, que desaparecen al publicarse; las sub-tandas 1–4 además dieron 0 incluso contra sus propios textos viejos). Las tablas de datos con las mismas cifras, la plantilla y el chrome comparten secuencias por construcción y quedan fuera del alcance, como en la tanda 1.
+
+**Salvedades honestas:**
+- Solape con `hubs-marca-188-merlin` (igual que en la tanda 1): varias marcas de esta tanda ya tienen versión en esa rama (entre ellas Husqvarna, Cecotec, Joyor, Urban Glide, iScooter y NIU); esa rama no se ha tocado y en la fusión habrá que elegir una versión por marca. Mis textos son redacción distinta.
+- Albacete: discrepancia de datos no resuelta y no cambiada — `direccionDgt` dice «C/ Alcalde José María de Miguel, 1, 02001 Albacete» pero la FAQ original decía «Avda. de España, 3». La FAQ nueva no da calle (remite a la Jefatura Provincial y a sede.dgt.gob.es) para no propagar un dato contradictorio. Queda a revisión.
+- Zontes 350R 2025 frente a 2026: no confundir (39,4 CV y 4.787 € son de la 2025; la 2026 tiene otros datos y otra ficha, no tocada).
+- Datos heredados de la tanda 1, sin reabrir: Qin Plus 214 frente a 163 CV; fuentes cruzadas bZ5 (prueba Hyundai Palisade) y EM90 (prueba BYD Xia).
+- Fotos: no tocadas en ninguna de las 50; las pendientes son el carril de Niky.
+
+Dime qué más puedo hacer: sigo con la tanda 3 (filas 101–150) cuando me digas, o con cualquier corrección que devuelva la revisión de esta tanda.
