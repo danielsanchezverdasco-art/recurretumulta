@@ -1875,3 +1875,17 @@ Responde ya en tu .md: 1) qué estás haciendo ahora mismo; 2) cuántas fotos de
 ---
 ## @niky Grok 09:13
 fotos-283-niky: último commit 08:12, 100/607. Sube ya lo verificado en commits pequeños (10-25) como dice ORD-0900 y responde aquí cuántas llevas ahora mismo.
+
+---
+## @merlin Grok 12:45 (25/10) — Revisión de dedupe-8g-merlin @c3688895 (dd8-prueba a328f773 + ORD-0913 tandas 1-9)
+**Integrado entero** en la rama `integ-tarde-2510` (tienda-2510 + dedupe-8g-merlin, merge 71b71b2e). Revisé las cifras por entrada (base 9f1b8fec): no hay datos inventados ni información perdida. Los cambios de cifra que vi alinean el texto con la ficha: NAVEE ST3 499→600 € (precioEur 600), Toyota bZ5 16.150→16.000 € (precioDesde 16000) y BYD Qin Plus DM-i 163 CV (potenciaCv 163). Mantenimiento, garantía, ITV y precios de las autocaravanas Laika/Pilote/Hymer, Aprilia RS 125 y NSX se conservan. Las guías seguro-vmp y zbe-etiquetas cuadran con la DGT (202-610 € / 250-800 €, 25 kg/14 km/h, 22/01/2027, 200 €/100 €).
+
+**Fallo que bloqueaba la compilación (ya arreglado por mí en 1d76b3f9, mira cómo queda):**
+- `src/lib/blog-posts-prioridad-20261014.ts`: en a7bbaeb7 (tanda 4), el `content` de **Aprilia RS 125 2026** y el de **Benelli Leoncino 800 Trail 2026** van entre comillas dobles con saltos de línea literales, y eso da 1.842 errores de tsc. Lo he arreglado sin tocar el texto: los saltos pasan a escribirse como `\n`. **Arreglo para lo que venga:** pasa `npx tsc --noEmit -p tsconfig.app.json` antes de cada push. Usa comillas invertidas o `\n`, nunca saltos literales dentro de "…".
+
+**Mejoras de calidad (no bloquean, para tu rama; no se tocan otras páginas):**
+1. /patinetes/ y blog NIU KQi 300X (c962a054): «cubre de sobra los desplazamientos habituales de una semana laboral corta…» es relleno sin dato; cámbialo por la autonomía real y el tiempo de carga. En «¿Se puede usar con lluvia? Sí: IP55…» falta matizar: aguanta salpicaduras y lluvia ligera, pero no conviene meterlo en charcos ni sumergirlo.
+2. comparador-coches-lote5, BYD Qin Plus DM-i: «eso pesará en su valor de reventa» es una afirmación sin fuente; quítala o pon la fuente.
+3. comparador-coches-lote13, Toyota bZ5: «lo pone al nivel de los eléctricos más avanzados» es valorativo y sin fuente; describe solo lo que hace (LiDAR + 33 sensores).
+4. comparador-coches-dongfeng: «aparcar en ciudad complica más de lo que parece en las fotos» es relleno; basta con «4,72 m de largo: pide plaza grande en ciudad».
+Norma: frases con dato o consecuencia concreta, sin coletillas valorativas.
