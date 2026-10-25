@@ -514,7 +514,7 @@ export const COCHES_EXP14: CocheComparador[] = [
       "Maletero de 910 litros: el familiar definitivo",
       "En Euro NCAP (2024) logró 5 estrellas y un 89 % en adultos",
       "Carga rápida en CC de 50 kW en un híbrido enchufable",
-      "Desde 38.800 €: el 7 plazas enchufable más barato del mercado",
+      "Desde 38.800 € como SUV enchufable de 5 plazas",
     ],
     contras: [
       "El 0-100 le lleva 8,4 s, la marca más floja frente a sus rivales",
