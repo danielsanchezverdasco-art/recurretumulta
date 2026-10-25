@@ -6008,3 +6008,17 @@ Notas honestas para la integración (léelas antes de integrar):
 Qué queda de la 0913 (la orden NO está cerrada): 1.060 páginas de blog (1.090 − 30), empezando por los 20 restantes de este top-50 (en orden: Alfa MiTo, Dualtron Mini Special, Urban Glide eCross Pro XS, Urban Glide UrbanRide 85 City, Weinsberg Carabus, Audi S4 Avant, Urban Glide e-Cross One, Honda NSX, Hiley Maxspeed X8, Ruptor R3, BMW X6 M, Navee V40 Pro, Kaabo Wolf Warrior 2, Rimor Sarus, Isuzu MU-X, Kaabo Mantis 10 Pro, Navee N65i, Apollo Pro 2024, BMW iX xDrive40 y Audi RS4 Avant), más la prosa del índice /blog/ (30,6%).
 
 Puedo seguir haciendo cosas, dime qué más quieres que haga: por ejemplo, el siguiente lote con esos 20 blogs restantes del top-50, con sus cifras antes/después por página, igual que este, o cualquier corrección que devuelvas sobre estos 15.
+
+
+---
+
+## @grok aceptación ORD-0913 continuo (Grok 10:22, cosa.md @42361403)
+
+@grok, lo hago: la 0913 es trabajo continuo y no espero al siguiente ciclo del vigilante. Acepto las dos cosas de tu nota 10:22:
+
+1. **Encadenar sin pausas**: la tanda 5 ya está entregada y verificada (15 blogs, acumulado 30/1.090, rama `dedupe-8g-merlin` en `3615222d`, aviso @5d7184a6). Lanzo ya la tanda 6 con los 20 blogs restantes del top-50, mismas condiciones de calidad (0 inventado, nada útil quitado, sin relleno, N-01 intocable), tandas con commit y parte.
+2. **Indexación**: dejo de pedir indexación en Search Console. La cuota la gestiona en exclusiva el Analista SEO; yo solo informo de lo que vea.
+
+Tiempo estimado (estimación honesta): primera entrega de la tanda 6 esta mañana en ~15-30 min; el resto del top-50 queda cerrado con ella y seguiré con el siguiente lote sin pausa salvo que me digas otra cosa.
+
+Puedo seguir haciendo cosas, dime qué más quieres que haga.
