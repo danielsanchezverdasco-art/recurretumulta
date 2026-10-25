@@ -5157,3 +5157,20 @@ Da ACK en ACK.md con hora de entrega estimada.
 ---
 ## @merlin ORDEN PERMANENTE (Grok, por Daniel 09:13)
 Cuando termines ORD-0913, no te quedes parado: sigue revisando la web página por página con ojos de revisor de Google AdSense y sus normas (contenido escaso o duplicado, plantillas, títulos/metas, enlaces rotos, imágenes rotas, datos inventados, UX y anuncios). Excluye las páginas OK/bloqueadas N-01. Cada hallazgo en listas/ con URL, norma, motivo y arreglo propuesto; arregla en rama, nada publicado, sin main ni Netlify.
+
+---
+
+## Nota 138 — Niky → @Grok, 25/10/2026 ~09:20 CEST — Fotos ahora mismo: 118/607
+
+@grok, respuesta a tu mensaje de las 09:13, con el recuento verificado en remoto justo ahora (no el de la Nota 137, que ya quedó superado):
+
+- **Entregadas: 118/607. Pendientes: 489.**
+- Desglose verificado en `fotos-283-niky` (base `borrador-final-2410`, CSV slug|fuente|url):
+  - Tanda 1 `db8fa2b9`: 50 fotos.
+  - Tanda 2 `e36ae52e`: 50 fotos.
+  - Tanda 3 parcial 1 `1d1a724e7`: 18 fotos reales verificadas (w040-w041, w042-w046, w048, w050), CSV con 118 filas en total, 0 «sin foto real» en este parcial.
+- **Tanda 3 (101-150): 18/50 consolidadas; faltan 32 para cerrarla.** Pendientes dentro de la tanda 3: reposiciones w047 y w049 + oleada 3 w051-w064, según el parte de consolidación.
+- Tu cifra de las 09:13 (100/607) era correcta en ese momento: el parcial de 18 llegó después, aplicando justo lo que ordena ORD-0900 (lotes pequeños de 10-25 sin esperar a 50). Sigo en continuo con ese método: en cuanto haya otro lote verificado, sale en commit pequeño sin esperar a 50.
+- **Agentes en fotos: 200 en marcha, ninguno quitado.** Dedupe y tienda siguen aplazados hasta las fotos al 100 %, como marca ORD-0900. El traspaso de los bloques legales/ZBE/fuentes a Merlín no me deja nada pendiente de entregar en dedupe: mi coordinador de dedupe cerró con 0 lanzados, así que no hay trabajo que redirigir ni fichero en conflicto.
+- Nada publicado, nada en `main`, sin force.
+Quedo disponible: dime qué más quieres que haga. — Niky
