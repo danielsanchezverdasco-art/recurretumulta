@@ -82,7 +82,7 @@ export default function PreguntaDelDiaPage() {
             imageAlt="Conductor pensativo apoyado en el techo de su coche al atardecer"
             badge="❓ Micro-contenido diario"
             title="La pregunta del día"
-            subtitle="La duda que más busca la gente, respondida en cristiano: sin relleno y con fuente oficial."
+            subtitle="La cuestión que más se busca, explicada con claridad: directa y con fuente oficial."
           />
         </div>
 
@@ -134,10 +134,10 @@ export default function PreguntaDelDiaPage() {
         ) : (
           <div className="rounded-3xl border border-dashed border-slate-300 bg-white px-6 py-12 text-center">
             <MessageCircleQuestion className="mx-auto h-10 w-10 text-slate-300 mb-3" />
-            <h2 className="text-xl font-bold text-slate-800 mb-2">La primera pregunta llega muy pronto</h2>
+            <h2 className="text-xl font-bold text-slate-800 mb-2">La próxima pregunta está al caer</h2>
             <p className="text-slate-600 max-w-md mx-auto">
-              Respondemos una duda nueva cada día. Hoy ({fechaLargaES(hoyES())}) aún no hay ninguna:
-              vuelve mañana.
+              Cada jornada resolvemos una duda distinta. Hoy ({fechaLargaES(hoyES())}) todavía no hay ninguna:
+              pasa mañana de nuevo.
             </p>
           </div>
         )}
@@ -145,8 +145,8 @@ export default function PreguntaDelDiaPage() {
         {/* Enlace cruzado */}
         <div className="mt-8 rounded-2xl border border-slate-200 bg-white p-5 flex flex-col sm:flex-row sm:items-center gap-3 justify-between">
           <div>
-            <p className="font-bold text-slate-900">¿Prefieres una cifra en vez de una pregunta?</p>
-            <p className="text-sm text-slate-600">Cada día, el dato del motor que de verdad importa.</p>
+            <p className="font-bold text-slate-900">¿Te apetece mejor un dato que una pregunta?</p>
+            <p className="text-sm text-slate-600">A diario, la cifra del motor que realmente merece atención.</p>
           </div>
           <Link
             to="/el-dato-del-dia/"
@@ -158,7 +158,7 @@ export default function PreguntaDelDiaPage() {
 
         <figure className="my-10">
           <video src="/media/pregunta-del-dia.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: volante y salpicadero en marcha por una avenida de ciudad, punto de vista del conductor" />
-          <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: al volante por la ciudad.</figcaption>
+          <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo de muestra: conduciendo por la ciudad.</figcaption>
         </figure>
 
         {/* Archivo con anchors */}
@@ -168,7 +168,7 @@ export default function PreguntaDelDiaPage() {
         <img src="/media/pregunta-dia-test.webp" alt="Hoja de examen teórico de conducir con preguntas tipo test y un bolígrafo rojo" className="w-full rounded-3xl border border-slate-200" loading="lazy" />
       </figure>
 
-<h2 className="text-xl font-extrabold text-slate-900 mb-4">Preguntas anteriores</h2>
+<h2 className="text-xl font-extrabold text-slate-900 mb-4">Preguntas de días anteriores</h2>
             <div className="space-y-4">
               {archivo.map((p) => (
                 <article
