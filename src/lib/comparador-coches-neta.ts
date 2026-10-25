@@ -158,8 +158,18 @@ export const COCHES_NETA: CocheComparador[] = [
     bateriaKwh: 91,
     cargaRapidaKw: 80,
     etiquetaDgt: "Cero",
-    pros: ["Declara 715 km en ciclo chino CLTC con un consumo contenido de 14,3 kWh/100 km, una combinación pensada para espaciar mucho las paradas en viajes largos por autovía.", "El motor trasero de 231 CV y 310 Nm lo mueve de 0 a 100 km/h en 6,9 segundos y la suspensión trasera de cinco brazos busca un rodar de berlina grande, no de eléctrico barato.", "El puesto de conducción gira en torno a una pantalla vertical de 17,6 pulgadas, con cuadro de 13,3 pulgadas, pantalla para el acompañante, AR-HUD y equipo de sonido de 21 altavoces y 1.216 W.", "Mide 4.980 mm y rivaliza en China con el Xpeng P7 y el BYD Han, pero su precio de unos 20.100 € al cambio queda muy por debajo del de esas berlinas en Europa."],
-    contras: ["Hozon Auto, su fabricante, entró en proceso concursal en junio de 2025, así que recambios, actualizaciones y asistencia quedan en el aire incluso en su mercado de origen.", "En España no llegó a comercializarse —los planes anunciados eran para los Neta GT y X— y no existe red de servicio a la que acudir con una unidad importada.", "Una berlina de 4.980 mm que se conforma con 400 litros de maletero penaliza justo el uso viajero que su autonomía promete, y obliga a jugar al tetris con el equipaje familiar.", "Para un comprador europeo todo queda en papel chino: la autonomía viene solo en ciclo CLTC, más optimista que el WLTP, y no hay ensayo de Euro NCAP que respalde su seguridad."],
+    pros: [
+      "Declara 715 km en ciclo chino CLTC con un consumo contenido de 14,3 kWh/100 km, una combinación pensada para espaciar mucho las paradas en viajes largos por autovía",
+      "El motor trasero de 231 CV y 310 Nm lo mueve de 0 a 100 km/h en 6,9 segundos y la suspensión trasera de cinco brazos busca un rodar de berlina grande, no de eléctrico barato",
+      "El puesto de conducción gira en torno a una pantalla vertical de 17,6 pulgadas, con cuadro de 13,3 pulgadas, pantalla para el acompañante, AR-HUD y equipo de sonido de 21 altavoces y 1.216 W",
+      "Mide 4.980 mm y rivaliza en China con el Xpeng P7 y el BYD Han, pero su precio de unos 20.100 € al cambio queda muy por debajo del de esas berlinas en Europa",
+    ],
+    contras: [
+      "Hozon Auto, su fabricante, entró en proceso concursal en junio de 2025, así que recambios, actualizaciones y asistencia quedan sin resolver incluso en China, su mercado de origen",
+      "En España no llegó a comercializarse, los planes anunciados eran para los Neta GT y X, y no existe red de servicio a la que acudir con una unidad importada",
+      "Una berlina de 4.980 mm que se conforma con 400 litros de maletero penaliza justo el uso viajero que su autonomía promete, y obliga a jugar al tetris con el equipaje familiar",
+      "Para un comprador europeo todo queda en papel chino: la autonomía viene solo en ciclo CLTC, más optimista que el WLTP, y no hay ensayo de Euro NCAP que respalde su seguridad",
+    ],
     largoMm: 4980,
     anchoMm: 1980,
     altoMm: 1450,
@@ -182,7 +192,7 @@ export const COCHES_NETA: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 105,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a terceros. El precio es conversión del PVP en China; no se vende en España.",
+        "Cálculo con 15.000 km al año, recarga doméstica a 0,18 €/kWh y seguro a terceros. El precio es la conversión del PVP en China; no se vende en España.",
       estimado: true,
     },
     galeria: [
@@ -215,8 +225,19 @@ export const COCHES_NETA: CocheComparador[] = [
     bateriaKwh: 43.88,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: ["Portón trasero con 593 litros de maletero de doble fondo, ampliables a 1.295 litros abatiendo la fila trasera, para viajar cargado sin pasar a un SUV", "Batería LFP de 43,88 kWh con celdas CATL y carga rápida", "Extensor de autonomía 1.5 de 95 CV: el motor de gasolina solo genera electricidad", "Esquema de chasis poco común a este precio en China: doble horquilla delante y multibrazo detrás", "Motor trasero de 200 kW (272 CV) y 300 km eléctricos CLTC desde 169.900 yuanes en China, unos 21.800 € al cambio según la ficha, sin un shooting brake europeo comparable a ese coste"],
-    contras: ["Hozon Auto, matriz de Neta, entró en procedimiento concursal en junio de 2025, lo que deja en duda recambios, software y valor futuro de la unidad", "No existe venta oficial ni red de asistencia de Neta en España, así que hacerse con uno implicaría importación sin soporte local garantizado", "Los 300 km eléctricos anunciados corresponden al ciclo chino CLTC y no al WLTP europeo, por lo que la autonomía real en autopista será sensiblemente menor", "Carece de ensayo publicado por Euro NCAP, así que su seguridad no puede compararse con la de familiares vendidos en Europa con nota de cinco estrellas"],
+    pros: [
+      "Portón trasero con 593 litros de maletero de doble fondo, ampliables a 1.295 litros abatiendo la fila trasera, para viajar cargado sin pasar a un SUV",
+      "Batería LFP de 43,88 kWh con celdas CATL y carga rápida",
+      "Extensor de autonomía 1.5 de 95 CV: el motor de gasolina solo genera electricidad",
+      "Esquema de chasis poco común a este precio en China: doble horquilla delante y multibrazo detrás",
+      "Motor trasero de 200 kW, 272 CV, y 300 km eléctricos CLTC desde 169.900 yuanes en China, unos 21.800 € al cambio según la ficha, sin un shooting brake europeo comparable a ese coste",
+    ],
+    contras: [
+      "Hozon Auto, matriz de Neta, entró en procedimiento concursal en junio de 2025, lo que deja en duda recambios, software y valor futuro de la unidad",
+      "No existe venta oficial ni red de asistencia de Neta en España, así que hacerse con uno implicaría importación sin soporte local garantizado",
+      "Los 300 km eléctricos anunciados se calculan con el ciclo chino CLTC, distinto del WLTP europeo, y en autopista la autonomía real será sensiblemente menor",
+      "Carece de ensayo publicado por Euro NCAP, así que su seguridad no puede compararse con la de familiares vendidos en Europa con nota de cinco estrellas",
+    ],
     largoMm: 4980,
     anchoMm: 1980,
     altoMm: 1480,
@@ -239,7 +260,7 @@ export const COCHES_NETA: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 101,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a terceros. El precio es conversión del PVP en China (169.900 yuanes, versión EREV 300); no se vende en España.",
+        "Cálculo con 15.000 km al año, recarga doméstica a 0,18 €/kWh y seguro a terceros. El precio es la conversión del PVP en China, 169.900 yuanes, versión EREV 300; no se vende en España.",
       estimado: true,
     },
     galeria: [
@@ -419,8 +440,8 @@ export const COCHES_NETA: CocheComparador[] = [
     fuenteNombre: "CnEVPost — lanzamiento oficial del Neta L (22/04/2024)",
     fuenteUrl: "https://cnevpost.com/2024/04/22/neta-launches-neta-l/",
     pros: [
-      "310 km eléctricos (CLTC) y 1.300 km de autonomía total combinada",
-      "Carga del 30 al 80 % en menos de 19 minutos (2,6C): el EREV que más rápido carga",
+      "310 km eléctricos en CLTC y 1.300 km de autonomía total combinada",
+      "Carga del 30 al 80 % en menos de 19 minutos, a 2,6C: el EREV que más rápido carga",
       "Batería LFP de 40,27 kWh, enorme para un extensor de autonomía",
       "Motor 1.5 de gasolina que solo genera electricidad: conducción 100 % eléctrica",
       "Nevera a bordo, dos pantallas de 15,6 pulgadas y asientos con masaje de 8 puntos",
@@ -428,7 +449,7 @@ export const COCHES_NETA: CocheComparador[] = [
     contras: [
       "Hozon Auto está en concurso de acreedores desde junio de 2025: riesgo grave de posventa",
       "No se vende en España ni tiene red de servicio en Europa",
-      "Consumo de gasolina con la batería descargada: 5,0 l/100 km (WLTC)",
+      "Consumo de gasolina con la batería descargada: 5,0 l/100 km en WLTC",
       "Sin nota Euro NCAP publicada",
       "El motor de gasolina no tracciona: penaliza en eficiencia a ritmo alto",
     ],
@@ -454,7 +475,7 @@ export const COCHES_NETA: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 110,
       notas:
-        "Estimación mixta (eléctrico + gasolina) con 15.000 km/año, recarga doméstica a 0,18 €/kWh, gasolina a 1,60 €/l y seguro a terceros. Precio convertido del PVP oficial en China (129.900 ¥); no se vende en España.",
+        "Cálculo mixto, eléctrico más gasolina, con 15.000 km al año, recarga doméstica a 0,18 €/kWh, gasolina a 1,60 €/l y seguro a terceros. Precio convertido del PVP oficial en China, 129.900 ¥; no se vende en España.",
       estimado: true,
     },
     galeria: [

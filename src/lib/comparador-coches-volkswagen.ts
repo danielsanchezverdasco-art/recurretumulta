@@ -1533,11 +1533,11 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "Conduce alto como un SUV y gasta como un utilitario: combina las dos virtudes en un solo coche",
     ],
     contras: [
-      "La etiqueta C afecta a toda la gama, sin excepción eléctrica ni híbrida",
-      "La plaza central trasera y la altura libre son justas por culpa del techo coupé",
-      "Los 10,4 segundos hasta 100 km/h con el motor de 115 CV no invitan a adelantar con prisa",
+      "Toda la gama lleva etiqueta C, sin excepción eléctrica ni híbrida",
+      "La plaza central trasera y la altura libre quedan justas por culpa del techo coupé",
+      "Con el motor de 115 CV tarda 10,4 segundos hasta 100 km/h, un ritmo que no invita a adelantar con prisa",
       "El 1.5 TSI de 150 CV supera los 30.000 €, un salto notable para ganar 35 CV",
-      "La visibilidad hacia atrás, recortada por la caída del techo, obliga a confiar en los sensores"
+      "La visibilidad hacia atrás, recortada por la caída del techo, obliga a confiar en los sensores",
     ],
     largoMm: 4266,
     anchoMm: 1757,
