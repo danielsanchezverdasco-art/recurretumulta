@@ -24,9 +24,9 @@ export const MOTOR_2026_POSTS: BlogPost[] = [
     content: `<img src=/media/lepas-l8-chery-hibrido-enchufable-precio-espana-hero.webp alt=SUV híbrido enchufable azul oscuro de diseño elegante circulando por una carretera de montaña española al atardecer>\n\n**¿Buscas solo los datos?** <a href=/coches/lepas-l8-chery-hibrido-enchufable-precio-espana/>Ver ficha técnica del Lepas L8</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.\n\nOtra marca china, sí, pero con un plan que va en serio. Lepas, nombre que viene de «leopard passion», es la tercera enseña del grupo Chery en España después de Omoda y Jaecoo. Su primer modelo es el L8, un SUV híbrido enchufable que mide 4,69 metros, 279 CV y 90 km de autonomía eléctrica, con un precio de lanzamiento en promoción de 33.990 euros que aprieta a todo el segmento.\n\n## El plan de Lepas en España\n\nLepas no es un experimento pasajero. Chery se ha marcado vender 16.000 unidades en España en 2027, prácticamente lo mismo que Omoda o Jaecoo, y para lograrlo ha fichado un equipo directivo procedente de otras marcas y ha levantado su red propia: 40 puntos de venta, con 52 previstos antes de que termine 2026, separada de la de Omoda y Jaecoo. La postventa y los recambios ya funcionan apoyándose en la red de sus marcas hermanas.\n\nEl L8 encabeza el debut de la marca; después vendrán el L6, a finales de 2026, en versión eléctrica y PHEV y con 4,57 m, y el L4, de 4,42 m, en 2027.\n\n## Precios y acabados en España\n\nLa tarifa de lanzamiento en promoción parte de 33.990 euros, una cifra agresiva para un D-SUV híbrido enchufable de este equipamiento. Sin descuentos ni promociones, el precio oficial se acerca a los 41.700 euros, según cuentan medios que ya la han probado, con dos acabados, Essence y Elegance. El Elegance suma confort como asientos con masaje y ventilación.\n\n<img src=/media/lepas-l8-chery-hibrido-enchufable-precio-espana-oficial.webp alt=Lepas L8, SUV híbrido enchufable de Chery, vista tres cuartos delantera>\n\n<img src=/media/lepas-l8-chery-hibrido-enchufable-precio-espana-interior-oficial-2.webp alt=Interior oficial del lepas l8 chery hibrido enchufable precio espana>\n\n¿Te encaja el presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.\n\n## Cinco curiosidades\n\n- **El Seat Toledo, origen de Chery**: el origen fabril de Chery está ligado al Seat Toledo: hace un cuarto de siglo, la firma china se hizo con la maquinaria de producción del Toledo de Seat y sacó cientos de miles de unidades destinadas a taxis y a flotas oficiales chinas.\n- **Diseño inspirado en el leopardo**: el diseño toma al leopardo como referencia: los faros llevan una firma luminosa en forma de «pupila vertical» dentro del lenguaje «Leopard Aesthetics», y la calandra de tramado cromado persigue un aire premium.\n- **Por dentro, la «Skyline Cabin»**: por dentro, la «Skyline Cabin» ofrece pantalla vertical en cascada, botones físicos para el clima, carga inalámbrica de 50 W, cajón refrigerado, sonido Sony y V2L, que permite enchufar aparatos externos al coche.\n- **Modo cama**: abate los asientos del todo para dormir dentro del coche, un guiño para el público más aventurero.\n- **Lepas no se vende en China**: la marca nació específicamente para exportar, como ya hicieron Omoda y Jaecoo.\n\n## Con quién compite\n\n| Modelo | Tecnología | Precio aprox. | Autonomía eléctrica |\n|---|---|---|---|\n| **Lepas L8** | PHEV 279 CV | Desde 33.990 € (promo) | 90 km |\n| BYD Seal U DM-i | PHEV | Desde ~38.400 € | ~125 km |\n| Leapmotor C10 REEV | Eléctrico autonomía extendida | Desde ~33.700 € | ~145 km |\n| Jaecoo 7 SHS | PHEV 340 CV | Desde ~33.000 € | 90 km |\n\n## Lo bueno y lo mejorable\n\n| ✅ Pros | ❌ Contras |\n|---|---|\n| 279 CV con <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta CERO</a>: entra en todas las ZBE sin restricciones | Marca totalmente desconocida: el valor de reventa es una incógnita |\n| 90 km eléctricos cubren el commuting diario sin gastar gasolina | Sin promociones el precio sube a ~41.000 €, mucho menos rompedor |\n| Precio promocional de 33.990 € muy agresivo para su tamaño | De momento solo hay una mecánica (PHEV); sin versión de acceso barata |\n| Maletero de 507 L e interior cuidado (masaje, ventilación, V2L) | El diseño "leopardo" y la parrilla cromada no gustarán a todos |\n| Red de 40 puntos de venta (52 previstos) y postventa apoyada en Omoda/Jaecoo | Competencia brutal: BYD, Leapmotor y su propio primo el Jaecoo 7 |\n\n<iframe src=https://www.youtube.com/embed/r8EaZt3AfU8 title=Análisis del Lepas L8 en España style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem; allowfullscreen></iframe>\n\nVídeo: <a href=https://www.youtube.com/watch?v=r8EaZt3AfU8>carwow España (JF Calero)</a> en YouTube.\n\n## Preguntas y respuestas\n\n### ¿Qué precio tiene en España?\n\nSin descuentos, el precio oficial se acerca a los 41.700 euros, según cuentan medios especializados que ya lo han probado. La promoción, en cambio, arranca en 33.990 euros.\n\n### ¿Cuánta autonomía eléctrica homologa?\n\nCon su batería de 18,4 kWh homologa 90 km en ciclo WLTP, de sobra para el día a día, y la autonomía combinada con el depósito lleno pasa de 1.100 km.\n\n### ¿Es fiable Lepas como marca?\n\nEs la tercera enseña en España del grupo Chery, después de Omoda y Jaecoo. Chery es el mayor exportador de coches de China y produce 2,8 millones de vehículos cada año. La postventa se apoya en la red de Omoda y Jaecoo, ya consolidada.\n\n### ¿Tiene etiqueta CERO?\n\nSí: con 90 km de autonomía eléctrica como híbrido enchufable, le toca la etiqueta CERO, que abre las ZBE y da ventajas fiscales. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.\n\n### ¿Cuándo llegan el L6 y el L4?\n\nEl L6 llegará a finales de 2026, en versión eléctrica de 218 CV y también PHEV, con ofertas que lo dejan por debajo de 30.000 euros; el L4, de 4,42 m, lo hará en 2027, con el BYD Atto 2 como rival directo.\n\n### ¿Compensa frente al BYD Seal U DM-i?\n\nEn promoción, el L8 es más barato y apuesta por un acabado más premium, con masaje, V2L y modo cama. El BYD, en cambio, ofrece más autonomía eléctrica y el respaldo de una marca más conocida en Europa. Todo depende de si priorizas precio o una red consolidada.\n\nSi te decides por un híbrido enchufable, recuerda que con 279 CV es fácil despistarse con el velocímetro: un <a href=https://recurretumulta.online/guias/radares>exceso de velocidad</a> te puede salir caro. Y si ya te ha llegado una, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.\n\n*Fuentes: <a href=https://elperiodicodelaenergia.com/lepas-abre-la-comercializacion-del-suv-hibrido-enchufable-l8-en-espana-desde-33-990-euros/>elperiodicodelaenergia.com</a>, <a href=https://soymotor.com/coches/noticias/lepas-l8-super-hibrido-a-la-venta>soymotor</a> y <a href=https://soymotor.com/coches/noticias/analisis-lepas-nueva-marca-china-espana>análisis de la marca Lepas en soymotor</a>.*`
   },
   {
-    title: "Skoda Peaq: 646 km",
+    title: "Skoda Peaq 2026: SUV eléctrico de 7 plazas desde 54.550 €",
     slug: "skoda-peaq-suv-electrico-7-plazas-precio",
-    excerpt: "El Skoda Peaq es el SUV más grande de la marca: 4,87 m, hasta 7 plazas, batería de 86 kWh y 646 km WLTP. Precio en España desde 54.550 €.",
+    excerpt: "El mayor SUV de Skoda: 4,87 m, hasta 7 plazas, 646 km WLTP y 935 litros de maletero. En España arranca en 54.550 € con la versión Peaq 90.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -39,29 +39,33 @@ export const MOTOR_2026_POSTS: BlogPost[] = [
       "Skoda Peaq vs Tesla Model Y",
       "Skoda eléctrico grande precio"
     ],
-    content: `<img src=/media/skoda-peaq-suv-electrico-7-plazas-precio-hero.webp alt=Gran SUV eléctrico blanco de 7 plazas aparcado frente a una casa europea moderna al atardecer>\n\n**¿Buscas solo los datos?** <a href=/coches/skoda-peaq-suv-electrico-7-plazas-precio/>Ver ficha técnica del Skoda Peaq</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.\n\nSkoda ha decidido jugar en la liga de los grandes. El **Peaq** es el SUV más grande jamás desarrollado en Praga —más grande incluso que el Kodiaq— y el **primer eléctrico de 7 plazas del grupo Volkswagen** (sin contar la furgoneta ID.Buzz). Con **646 km de autonomía WLTP**, un maletero de 935 litros y un precio que parte de **54.550 euros** en España, apunta directamente al Tesla Model Y y a los SUV premium familiares.
+    content: `<img src=/media/skoda-peaq-suv-electrico-7-plazas-precio-hero.webp alt=Gran SUV eléctrico blanco de 7 plazas aparcado frente a una casa europea moderna al atardecer>
+
+**¿Buscas solo los datos?** <a href=/coches/skoda-peaq-suv-electrico-7-plazas-precio/>Ver ficha técnica del Skoda Peaq</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+
+Praga se ha propuesto jugar en la categoría de los grandes. El Peaq supera en tamaño al Kodiaq y se convierte en el primer eléctrico con 7 plazas del grupo Volkswagen, dejando aparte la furgoneta ID.Buzz. Homologa 646 km WLTP, ofrece un maletero de 935 litros y arranca en España en 54.550 euros: un rival directo para el Tesla Model Y y para los SUV familiares de corte premium.
 
 ## La noticia
 
-El Peaq llega a los concesionarios tras el verano de 2026 como buque insignia eléctrico de la marca, con el lenguaje de diseño "Modern Solid". Skoda España ha decidido traer solo las versiones de mayor rendimiento: el acceso es el **Peaq 90** (286 CV, tracción trasera) y por encima está el **Peaq 90x** (299 CV, tracción total). La versión básica con batería LFP que se vende en otros países europeos no llegará a nuestro mercado.
+Su llegada a los concesionarios se producirá después del verano de 2026, encabezando la gama eléctrica de la marca y con el lenguaje de diseño "Modern Solid". En España, Skoda solo traerá las variantes de mayor rendimiento: el Peaq 90 de acceso, con 286 CV y tracción trasera, y por encima el Peaq 90x, con 299 CV y tracción total. La variante básica de batería LFP que se comercializa en otros países europeos quedará fuera de nuestro mercado.
 
 ## Precio y versiones en España
 
-El precio de salida en España es de **54.550 euros** sin descuentos ni ayudas, en acabado Selection. El tope de gama —7 plazas con acabado Sportline— sube hasta **62.450 euros**. Son cifras inéditas para Skoda, que hasta ahora nunca había vendido un coche por encima de los 50.000 euros, pero la marca lo justifica: no tiene rival directo dentro del grupo Volkswagen con 7 plazas eléctricas.
+La tarifa de partida en España es de 54.550 euros en acabado Selection, antes de descuentos y ayudas. El extremo superior —7 plazas con acabado Sportline— alcanza los 62.450 euros. Son importes sin precedentes para Skoda, que hasta ahora nunca había comercializado un coche de más de 50.000 euros; la marca lo argumenta así: dentro del grupo Volkswagen no existe otro eléctrico de 7 plazas que le haga competencia directa.
 
 <img src=/media/skoda-peaq-suv-electrico-7-plazas-precio-oficial.webp alt=Skoda Peaq eléctrico de 7 plazas, vista tres cuartos delantera>
 
 <img src=/media/skoda-peaq-suv-electrico-7-plazas-precio-interior-oficial-2.webp alt=Interior oficial del skoda peaq suv electrico 7 plazas precio>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
+¿Cuadra con lo que quieres gastar? <a href=/mejor-coche-por-presupuesto/>Encuentra el modelo que encaja con tu bolsillo</a>.
 
 ## Curiosidades que quizá no sabías
 
-- **Récord de autonomía real**: dos empleados de Skoda recorrieron **936 km con una sola carga** entre República Checa y Países Bajos, un 45 % más que la cifra homologada. Récord checo oficialmente reconocido.
-- **Más grande que el Kodiaq**: con 4,87 metros y 2,965 m de batalla, es el coche más grande que ha fabricado Skoda en toda su historia.
-- **Pantalla vertical de 13,6"**: el sistema multimedia crece y se coloca en vertical, con instrumentación digital de 10,25".
-- **Detalles "Simply Clever"**: hueco bajo el capó para guardar la cubierta del maletero, bases de carga MagSafe de 25 W y mesa plegable para trabajar con el portátil.
-- **Su principal mercado será Alemania**: Skoda no vende en EE. UU., así que este gigante está pensado 100 % para Europa, donde captará clientes de Volkswagen y Audi que no tienen un eléctrico grande de 7 plazas en su gama.
+- **Récord de alcance real**: dos trabajadores de Skoda completaron 936 km sin recargar, en ruta desde República Checa hasta Países Bajos, superando la cifra homologada en un 45 %. Un récord checo reconocido oficialmente.
+- **Supera al Kodiaq**: mide 4,87 metros, con una batalla de 2,965 m, lo que lo convierte en el mayor coche fabricado por Skoda en toda su historia.
+- **Pantalla de 13,6" en vertical**: el equipo multimedia adopta orientación vertical y se acompaña de una instrumentación digital de 10,25".
+- **Guiños "Simply Clever"**: un hueco bajo el capó para la cubierta del maletero, además de unas bases de carga MagSafe con 25 W y una mesa plegable para trabajar con el portátil.
+- **Alemania, mercado principal**: al no vender Skoda en EE. UU., este gigante se concibe al 100 % para Europa, donde atraerá a clientes de Volkswagen y Audi sin un gran eléctrico de 7 plazas en su oferta.
 
 ## Rivales directos
 
@@ -72,7 +76,7 @@ El precio de salida en España es de **54.550 euros** sin descuentos ni ayudas, 
 | Peugeot E-5008 | 7 | ~500 km | ~47.000 € |
 | Kia EV9 | 7 | ~563 km | ~75.000 € |
 
-Los hemos enfrentado en detalle: <a href=/blog/alpine-a390-vs-skoda-peaq-cual-comprar/>Duelo Alpine A390 vs Skoda Peaq</a> y <a href=/blog/peugeot-e-5008-vs-skoda-peaq-cual-comprar/>Duelo Peugeot E-5008 vs Skoda Peaq</a>.
+Las comparativas completas están en estos duelos: <a href=/blog/alpine-a390-vs-skoda-peaq-cual-comprar/>Alpine A390 frente al Skoda Peaq</a> y <a href=/blog/peugeot-e-5008-vs-skoda-peaq-cual-comprar/>Peugeot E-5008 frente al Skoda Peaq</a>, cara a cara.
 
 ## Pros y contras
 
@@ -86,31 +90,38 @@ Los hemos enfrentado en detalle: <a href=/blog/alpine-a390-vs-skoda-peaq-cual-co
 
 <iframe src=https://www.youtube.com/embed/Ig3Ifhlf1Fk title=Review del Skoda Peaq en español style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem; allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=Ig3Ifhlf1Fk>coches.net</a> en YouTube.
+Vídeo de <a href=https://www.youtube.com/watch?v=Ig3Ifhlf1Fk>coches.net</a> en YouTube.
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el Skoda Peaq en España?
-Desde 54.550 euros en acabado Selection con 5 plazas. La versión de 7 plazas con acabado Sportline llega a 62.450 euros, antes de descuentos y ayudas.
+### ¿Cuál es el precio del Skoda Peaq en España?
 
-### ¿Cuánta autonomía real tiene el Skoda Peaq?
-Homologa 646 km WLTP en la versión Peaq 90. En una prueba de eficiencia real, dos empleados de Skoda lograron 936 km con una sola carga conduciendo de forma eficiente.
+El acceso cuesta 54.550 euros, en acabado Selection y con 5 plazas. Con 7 plazas y acabado Sportline, el precio sube a 62.450 euros, siempre antes de descuentos y ayudas.
 
-### ¿El Skoda Peaq tiene 7 plazas?
-Sí, es el primer eléctrico del grupo Volkswagen con tres filas de asientos (sin contar el ID.Buzz). Las dos plazas traseras son más adecuadas para niños o trayectos cortos.
+### ¿Qué autonomía real alcanza el Skoda Peaq?
 
-### ¿Qué maletero tiene el Skoda Peaq?
-935 litros en la versión de 5 plazas y 890 litros en la de 7, ampliables a 2.150 litros abatiendo la segunda fila. Además tiene un pequeño hueco delantero.
+La versión Peaq 90 homologa 646 km WLTP. Y en una prueba real de eficiencia, dos empleados de Skoda recorrieron 936 km sin recargar, conduciendo de forma eficiente.
 
-### ¿Compensa frente al Tesla Model Y?
-El Peaq ofrece más espacio, 7 plazas y un interior más tradicional y equipado; el Model Y es más barato, más eficiente y tiene la red de Supercargadores. Si necesitas 7 plazas espaciosas, el Skoda gana.
+### ¿Tiene el Skoda Peaq 7 plazas?
 
-### ¿Tiene etiqueta CERO?
-Sí, al ser 100 % eléctrico le corresponde la etiqueta CERO de la DGT, con acceso libre a las ZBE. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí: dejando aparte el ID.Buzz, ningún otro eléctrico del grupo Volkswagen ofrece tres filas de asientos. Eso sí, las dos plazas de la última fila resultan más adecuadas para niños o para trayectos cortos.
+
+### ¿Qué capacidad tiene el maletero del Skoda Peaq?
+
+Con 5 plazas ofrece 935 litros; con 7, la cifra baja a 890 litros. Abatiendo la segunda fila se llega a 2.150 litros, y aún queda un pequeño hueco delantero.
+
+### ¿Merece la pena frente al Tesla Model Y?
+
+El Skoda gana en espacio, en 7 plazas y en un interior más tradicional y equipado. Frente a él, el Model Y responde con un precio menor, mayor eficiencia y la red de Supercargadores. Si lo prioritario son 7 plazas amplias, el Peaq sale vencedor.
+
+### ¿Lleva etiqueta CERO?
+
+Sí: como es un coche 100 % eléctrico, la DGT le asigna la etiqueta CERO, que abre las puertas de las ZBE sin restricciones. <a href=/calculadora-etiqueta-dgt/>Consulta la etiqueta DGT que le corresponde a cualquier coche</a>.
 
 Un coche familiar de 646 km de autonomía invita a viajar: si en uno de esos viajes te caza un radar, <a href=https://recurretumulta.online/#analizador>analiza la multa gratis con nuestra IA</a> antes de decidir si pagar o recurrir.
 
-*Fuentes: <a href=https://www.km77.com/coches/skoda/peaq/2027/estandar/listado-completo>ficha técnica y precios del Skoda Peaq en km77</a> y <a href=https://www.coches.net/noticias/prueba-skoda-peaq-presentacion>presentación y prueba del Peaq en coches.net</a>.*`
+*Fuentes: <a href=https://www.km77.com/coches/skoda/peaq/2027/estandar/listado-completo>ficha técnica y precios del Skoda Peaq en km77</a> y <a href=https://www.coches.net/noticias/prueba-skoda-peaq-presentacion>presentación y prueba del Peaq en coches.net</a>.*
+`
   },
   {
     title: "Renault 5 E-Tech 2026: urbano eléctrico con 430 km",

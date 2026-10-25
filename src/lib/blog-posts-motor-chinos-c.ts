@@ -6,9 +6,9 @@ import type { BlogPost } from "./blog-data.ts";
 
 export const MOTOR_CHINOS_C_POSTS: BlogPost[] = [
   {
-    title: "XPeng G6 2026: 451 kW desde 43.083 €",
+    title: "XPeng G6 2026: carga de 451 kW desde 43.083 €",
     slug: "xpeng-g6-2026-restyling-precio-espana",
-    excerpt: "El XPeng G6 se actualiza: batería LFP en toda la gama, carga de 451 kW (10-80 % en 12 minutos) y precio desde 43.083 € en España. Análisis y rivales.",
+    excerpt: "El G6 renovado adopta LFP en toda la gama y recupera del 10 al 80 % en 12 minutos gracias a sus 451 kW, con tarifa española desde 43.083 €. Lo desgranamos.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -25,39 +25,39 @@ export const MOTOR_CHINOS_C_POSTS: BlogPost[] = [
 
 **¿Buscas solo los datos?** <a href=/coches/xpeng-g6-2026-restyling-precio-espana/>Ver ficha técnica del XPeng G6 2026</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El **XPeng G6** ya era uno de los eléctricos chinos más serios a la venta en España, pero su actualización de 2026 lo pone en otra liga: toda la gama estrena **batería LFP** y una carga rápida de **451 kW** que recupera del 10 al 80 % en **12 minutos**. Ningún rival de su precio carga tan rápido. Ni siquiera el Tesla Model Y se acerca.
+Antes de la renovación, el G6 ya figuraba entre los eléctricos chinos con mejor reputación en nuestro mercado. La puesta al día de 2026 lo sitúa un peldaño por encima: cada versión monta ahora una batería de litio-ferrofosfato y admite una potencia de recarga de 451 kW, suficiente para pasar del 10 al 80 % en 12 minutos. A ese precio, ningún competidor recarga tan deprisa, tampoco el Model Y de Tesla.
 
-El restyling (año-modelo MY2026) llegó a los concesionarios españoles a finales de septiembre de 2025, y en febrero de 2026 se sumó la versión de acceso RWD Standard Range. Esto es todo lo que cambia y lo que cuesta.
+El año-modelo MY2026 aterrizó en los concesionarios españoles durante los últimos días de septiembre de 2025. En febrero de 2026 se incorporó la variante de acceso con tracción trasera y autonomía estándar. A continuación repasamos qué varía y cuánto hay que pagar por cada versión.
 
-**Comunes a toda la gama:** 4.758 x 1.920 x 1.650 mm, batalla de 2.890 mm, maletero de **571 litros** (1.374 L con asientos abatidos), 5 plazas, conector CCS2 y **etiqueta CERO de la DGT**.
+Todas las variantes comparten dimensiones de 4.758 mm de largo, 1.920 mm de ancho y 1.650 mm de alto, una distancia entre ejes de 2.890 mm, un maletero de 571 litros ampliable hasta 1.374 L abatiendo los asientos, cinco plazas, conector CCS2 y la etiqueta CERO de la DGT.
 
-Un matiz honesto que reconoce la propia km77: la química LFP sacrifica algo de alcance, así que **la autonomía es ligeramente inferior a la del modelo anterior**. A cambio, la batería es más barata, más estable y admite esa carga de 5C sin despeinarse.
+La propia km77 lo advierte con franqueza: al pasar a LFP se pierde algo de alcance, de modo que la autonomía queda algo por debajo de la del modelo previo. A cambio, la batería sale más económica, resulta más estable y tolera esa carga a 5C sin inmutarse.
 
-## Precio y versiones en España
+## Tarifas y gama en España
 
-Tres versiones, con tarifa publicada en km77 (06/2026, sin descuentos):
+Tres variantes, con la tarifa que publica km77 (06/2026, sin descuentos):
 
-- **RWD Standard Range:** desde **43.083 €** (252 CV, 455 km)
-- **RWD Long Range:** desde **47.083 €** (296 CV, 535 km)
-- **AWD Performance:** desde **53.083 €** (487 CV, 510 km)
+- La de acceso, con tracción trasera y batería estándar, arranca en 43.083 €, rinde 252 CV y homologa 455 km.
+- La de tracción trasera y gran autonomía parte de 47.083 €, entrega 296 CV y alcanza 535 km.
+- La de tracción total y enfoque deportivo sale desde 53.083 €, con 487 CV y 510 km.
 
-Ojo con los precios que circulan por ahí: autonocion lista cifras algo distintas (47.289 / 52.289 / 58.289 €) y testcoches menciona 42.380 € como precio de arranque, probablemente con campaña. Y los 42.559 € de la nota de Europa Press de mayo de 2025 corresponden al modelo **pre-restyling**, no a este.
+Conviene no fiarse de cualquier cifra que circule: autonocion recoge importes algo superiores (47.289 / 52.289 / 58.289 €); testcoches, por su lado, cita 42.380 € como arranque, seguramente con campaña incluida. En mayo de 2025, Europa Press publicó una nota con 42.559 €, cifra del modelo previo al restyling y no de este.
 
 <img src=/media/xpeng-g6-2026-restyling-precio-espana-oficial.webp alt=XPeng G6 2026, SUV coupé eléctrico, vista tres cuartos>
 
 <img src=/media/xpeng-g6-2026-restyling-precio-espana-interior-oficial-2.webp alt=Interior oficial del xpeng g6 2026 restyling precio espana>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
+¿Te cuadran las cifras? <a href=/mejor-coche-por-presupuesto/>Revisa qué modelo se ajusta a lo que puedes gastar</a>.
 
-## Curiosidades que quizá no sabías
+## Detalles curiosos que quizás desconocías
 
-- **El nombre viene de un magnate de internet:** XPeng la cofundaron en 2014 dos exdirectivos de GAC y toma su nombre de He Xiaopeng, creador de UCWeb (comprada por Alibaba) y actual presidente de la marca. Entre los inversores iniciales estaban el fundador de Xiaomi y la propia Alibaba.
-- **Volkswagen es accionista:** VW invirtió unos 700 millones de dólares por el 4,99 % de XPeng en 2023. El primer coche fruto de la alianza, el Volkswagen ID.UNYX 08, entró en producción en China en marzo de 2026.
-- **5 estrellas Euro NCAP** con un 88 % en protección de ocupantes adultos.
-- **Existe una versión de autonomía extendida en China:** XPeng prepara un G6 EREV con motor 1.5 como generador y batería de 55,8 kWh (se habla de hasta 1.400 km totales). Su llegada a España **no está confirmada**.
-- **Récord con LFP:** el G6 es de los primeros eléctricos con batería de litio-ferrofosfato capaz de cargar a 5C. La LFP penalizaba la carga rápida por su baja conductividad; XPeng ha roto ese límite.
+- El nombre procede de un magnate de internet: XPeng nació en 2014 de la mano de dos antiguos directivos de GAC y debe su denominación a He Xiaopeng, fundador de UCWeb (adquirida por Alibaba) y presidente actual de la compañía. Entre los primeros inversores figuraban el creador de Xiaomi y la propia Alibaba.
+- Volkswagen participa como accionista: la firma alemana desembolsó alrededor de 700 millones de dólares a cambio del 4,99 % de la compañía en 2023. De esa alianza nació el primer automóvil, el Volkswagen ID.UNYX 08, cuya producción en China comenzó en marzo de 2026.
+- En Euro NCAP logró las cinco estrellas, con un 88 % en la protección de los ocupantes adultos.
+- En China existe una variante de autonomía extendida: XPeng prepara un G6 EREV con un motor 1.5 que actúa como generador y una batería de 55,8 kWh, con la que se rumorea hasta 1.400 km en total. Que llegue a España no está confirmado.
+- Récord con LFP: el G6 se cuenta entre los pioneros eléctricos que usan una batería de litio-ferrofosfato capaz de admitir cargas a 5C. La química LFP frenaba la recarga veloz por su escasa conductividad; XPeng ha quebrado esa barrera.
 
-## Comparativa: ¿mejor que el Model Y?
+## Frente a frente: ¿supera al Model Y?
 
 | | XPeng G6 RWD Long Range | Tesla Model Y Standard RWD | Peugeot E-3008 Long Range |
 |---|---|---|---|
@@ -67,11 +67,11 @@ Ojo con los precios que circulan por ahí: autonocion lista cifras algo distinta
 | **10-80 %** | 12 min | ~25 min | — |
 | **0-100 km/h** | 6,7 s | 7,2 s | — |
 
-Lo hemos enfrentado en detalle: <a href=/blog/xpeng-g6-vs-tesla-model-y-cual-comprar/>Duelo XPeng G6 vs Tesla Model Y</a>.
+La comparativa completa frente al Model Y está aquí: <a href=/blog/xpeng-g6-vs-tesla-model-y-cual-comprar/>Enfrentamiento entre el G6 y el Model Y de Tesla</a>.
 
-El Tesla es más barato y más eficiente; el Peugeot homologa más autonomía. Pero en **velocidad de carga no hay color**: el G6 duplica al Model Y. Para quien viaje mucho por autovía, esos 12 minutos cambian la experiencia.
+El Tesla sale más barato y aprovecha mejor la energía. El Peugeot, en cambio, acredita mayor autonomía. Pero en velocidad de recarga no hay discusión: el G6 dobla al Model Y. Para quien recorra mucha autovía, esos 12 minutos transforman la experiencia.
 
-## Pros y contras
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -83,36 +83,37 @@ El Tesla es más barato y más eficiente; el Peugeot homologa más autonomía. P
 
 <iframe src=https://www.youtube.com/embed/l8oAPJCL52U title=Prueba del XPeng G6 2026 en español style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem; allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=l8oAPJCL52U>Testcoches</a> en YouTube — "¿MEJOR que el TESLA MODEL Y? El XPENG G6 se CARGA A 450 kW", prueba del restyling en español.
+Vídeo: prueba en español del restyling, firmada por <a href=https://www.youtube.com/watch?v=l8oAPJCL52U>Testcoches</a> en YouTube.
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuánto tarda en cargar el XPeng G6 2026?
-Del 10 al 80 % en **12 minutos** en las versiones Long Range y Performance (451 kW), y también en 12 minutos la Standard Range (382 kW). Es la carga más rápida de su segmento.
+### ¿En cuánto tiempo recarga el XPeng G6 2026?
+Las variantes Long Range y Performance recuperan del 10 al 80 % en 12 minutos (451 kW); la Standard Range necesita el mismo tiempo, con 382 kW. Ningún rival de su segmento recarga tan deprisa.
 
-### ¿Qué autonomía tiene el XPeng G6 2026?
-455 km (Standard Range), 535 km (Long Range con llantas de 18") y 510 km (Performance), todo en ciclo WLTP.
+### ¿Qué alcance tiene el XPeng G6 2026?
+455 km en la Standard Range, 535 km en la Long Range con llantas de 18 pulgadas y 510 km en la Performance, siempre en ciclo WLTP.
 
-### ¿Cuánto cuesta el XPeng G6 en España?
-La tarifa parte de **43.083 €** (Standard Range), 47.083 € (Long Range) y 53.083 € (Performance), según km77.
+### ¿Desde qué precio parte el XPeng G6 en España?
+La tarifa arranca en 43.083 € (Standard Range), sigue con 47.083 € (Long Range) y culmina en 53.083 € (Performance), según km77.
 
-### ¿Es mejor que el Tesla Model Y?
-Depende de qué valores: el G6 carga muchísimo más rápido (451 kW frente a 175 kW) y tiene más maletero; el Model Y es más barato y más eficiente. En prestaciones puras, el G6 Performance (4,1 s) también gana.
+### ¿Supera al Tesla Model Y?
+Depende de lo que priorices: el G6 recarga muchísimo más deprisa (451 kW frente a 175 kW) y ofrece más maletero; el Model Y resulta más barato y aprovecha mejor la energía. En aceleración pura, el G6 Performance (4,1 s) también se impone.
 
-### ¿Qué batería lleva el nuevo G6?
-Toda la gama 2026 usa **litio-ferrofosfato (LFP)**, incluidas las versiones superiores que antes montaban NCM.
+### ¿Qué batería monta el nuevo G6?
+Toda la gama 2026 emplea litio-ferrofosfato (LFP), también las versiones superiores que antes montaban NCM.
 
-### ¿Tiene etiqueta Cero de la DGT?
-Sí, al ser 100 % eléctrico le corresponde la **etiqueta CERO**, así que entra en todas las <a href=https://recurretumulta.online/guias/zbe>Zonas de Bajas Emisiones</a> sin restricciones. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+### ¿Puede entrar en las ZBE?
+Sí: al ser totalmente eléctrico, le corresponde la etiqueta CERO y puede circular por todas las Zonas de Bajas Emisiones sin limitaciones. <a href=https://recurretumulta.online/guias/zbe>Consulta las ZBE donde puede circular</a>. <a href=/calculadora-etiqueta-dgt/>Averigua la etiqueta DGT de cualquier modelo</a>.
 
-Con 202 km/h de velocidad máxima y 487 CV en la versión Performance, conviene recordar que en España superar los límites sale caro: si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+La variante Performance alcanza 202 km/h y entrega 487 CV; recuerda que rebasar los límites en España cuesta dinero: ante una denuncia, <a href=https://recurretumulta.online/#analizador>revísala sin coste con nuestra IA</a> antes de abonar nada.
 
-## Fuentes
+## Referencias
 
-- <a href=https://carnewschina.com/2026/10/23/nios-firefly-launches-60-kwh-battery-version-same-size-same-weight-more-range/>CarNewsChina: Nio's Firefly launches 60 kWh battery version (23/10/2026)</a>
-- <a href=https://cnevpost.com/2026/10/23/nio-firefly-launches-60-kwh-battery-pack/>CnEVPost: Nio Firefly launches larger 60-kWh battery pack (23/10/2026)</a>
-- <a href=https://www.somoselectricos.com/coches-electricos/nio-revoluciona-coche-electrico-pequeno-560-km-autonomia-bateria-actualizable/20261023104558064636.html>Somos Eléctricos: el Firefly alcanza los 560 km (23/10/2026)</a>
-- <a href=https://www.dgt.es/>DGT: comprueba qué etiqueta ambiental le corresponde y las zonas de bajas emisiones donde puede circular</a>`
+- <a href=https://carnewschina.com/2026/10/23/nios-firefly-launches-60-kwh-battery-version-same-size-same-weight-more-range/>Nota de CarNewsChina sobre la variante de 60 kWh del Firefly de Nio, publicada el 23 de octubre de 2026</a>
+- <a href=https://cnevpost.com/2026/10/23/nio-firefly-launches-60-kwh-battery-pack/>Artículo de CnEVPost sobre el paquete de batería ampliado del Firefly de Nio, del 23 de octubre de 2026</a>
+- <a href=https://www.somoselectricos.com/coches-electricos/nio-revoluciona-coche-electrico-pequeno-560-km-autonomia-bateria-actualizable/20261023104558064636.html>Reportaje de Somos Eléctricos sobre los 560 km del Firefly, del 23 de octubre de 2026</a>
+- <a href=https://www.dgt.es/>DGT: consulta la etiqueta ambiental que te corresponde y las zonas donde puedes circular con ella</a>
+`
   },
   {
     title: "Xiaomi YU7: 835 km",

@@ -190,9 +190,9 @@ Omoda anuncia 8 años o 160.000 km para el sistema híbrido.
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
   },
   {
-    title: "Opel Frontera Electric desde 24.900 €",
+    title: "Opel Frontera Electric desde 24.900 €, 308 km",
     slug: "opel-frontera-2024-precio",
-    excerpt: "Precio y ficha técnica del Opel Frontera Electric 2024: SUV eléctrico de 113 CV, 308 km WLTP, maletero de 460 litros y hasta 7 plazas. Desde 24.900 €, uno de los eléctricos más baratos.",
+    excerpt: "Opel Frontera Electric desde 24.900 €: 113 CV, batería LFP de 44 kWh, 308 km WLTP, maletero de 460 litros y opción de 7 plazas en híbrido.",
     category: "Novedades Motor",
     date: "2026-10-08",
     readTime: 7,
@@ -200,9 +200,11 @@ Omoda anuncia 8 años o 160.000 km para el sistema híbrido.
     keywords: ["Opel Frontera 2024 precio", "Opel Frontera Electric ficha técnica", "Frontera eléctrico autonomía", "SUV eléctrico barato", "Opel Frontera 7 plazas"],
     content: `<img src=/media/opel-frontera-2024-precio-ficha-tecnica-hero.webp alt="Opel Frontera Electric 2024 con frontal Vizor">
 
+## Un nombre de todoterreno para un SUV familiar
+
 **¿Buscas solo los datos?** <a href=/coches/opel-frontera-2024-precio-ficha-tecnica/>Ver la ficha técnica del Opel Frontera</a>: precio, autonomía, maletero y versiones. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El **Opel Frontera 2024** recupera un nombre histórico de la marca (el 4x4 de los noventa) para un SUV compacto totalmente nuevo, primo del Citroën C3 Aircross. Se vende en versiones **híbridas (110 y 145 CV)** y **eléctricas**, y esta ficha se centra en la más interesante por precio: el **Frontera Electric 44 kWh Edition**, con **113 CV**, **308 km WLTP** y un precio de partida de **24.900 €**.
+Opel rescató un nombre con historia, el del 4x4 de los años noventa, para bautizar un SUV compacto completamente nuevo, pariente cercano del Citroën C3 Aircross. La gama combina mecánicas híbridas de 110 y 145 caballos con variantes eléctricas, y este artículo pone el foco en la más atractiva por su precio: el Frontera Electric 44 kWh Edition, que anuncia 113 caballos, 308 kilómetros WLTP y un listín de partida de 24.900 euros.
 
 ## Ficha técnica resumida
 
@@ -223,53 +225,53 @@ El **Opel Frontera 2024** recupera un nombre histórico de la marca (el 4x4 de l
 | Tracción | Delantera |
 | Etiqueta DGT | Cero |
 
-<a href=/coches/opel-frontera-2024-precio-ficha-tecnica/>Ver la ficha técnica completa del Opel Frontera con galería de fotos</a>
+<a href=/coches/opel-frontera-2024-precio-ficha-tecnica/>Consulta la ficha entera del Frontera, con todas sus fotografías</a>
 
-## Un eléctrico honesto y familiar
+## Espacio y precio antes que prestaciones
 
-El Frontera Electric no pretende ser el más rápido ni el de mayor autonomía: apuesta por el **espacio y el precio**. En 4,38 metros ofrece un maletero de **460 litros** (1.600 con los asientos abatidos) y un habitáculo pensado para familias, con los asientos Intelli-Seat de Opel y numerosos huecos portaobjetos. Es, además, **el único eléctrico de su precio que ofrece 7 plazas** (en las versiones híbridas).
+El Frontera Electric no busca ser el más veloz ni el que más kilómetros recorre con una carga: su apuesta es el espacio interior a cambio de un desembolso contenido. Con 4,38 metros de largo, brinda un maletero de 460 litros, ampliable hasta 1.600 litros al abatir los asientos traseros, y un habitáculo familiar con asientos Intelli-Seat y abundantes huecos para objetos. Además, es el único eléctrico de su franja de precio que puede ofrecer siete plazas, aunque esa configuración corresponde a las versiones híbridas.
 
-La batería LFP de 44 kWh admite **100 kW en continua** y 7,4 kW (11 kW en opción) en alterna. Opel incluye el programa **Electric All In** con asistencia y conectividad, y garantiza la batería **8 años o 160.000 km** con un mínimo del 70 % de capacidad.
+Su acumulador LFP de 44 kWh admite recargas rápidas de 100 kW en corriente continua y 7,4 kW en alterna, con 11 kW disponibles como opción. Opel suma el programa Electric All In, que agrupa asistencia y conectividad, y respalda la batería durante ocho años o 160.000 kilómetros, garantizando que conservará al menos el 70 % de su capacidad.
 
-## Versiones y precios
+## Gama y precios: eléctrica e híbrida
 
-La gama eléctrica parte de los **24.900 €** del 44 kWh Edition (308 km WLTP) y sube al 54 kWh GS (408 km) desde unos 30.500 €. En híbrido, el 1.2T de 110 CV parte de 23.200 € y el de 145 CV de 24.400 €, ambos con etiqueta ECO. Todos se fabrican en **Trnava (Eslovaquia)** sobre la plataforma STLA Smart de Stellantis.
+La oferta eléctrica arranca en los 24.900 euros del 44 kWh Edition, con 308 kilómetros WLTP, y asciende hasta el 54 kWh GS, que homologa 408 kilómetros y parte de unos 30.500 euros. En híbrido, el 1.2T de 110 caballos arranca en 23.200 euros y el de 145 caballos en 24.400 euros, ambos con etiqueta ECO. Todos salen de la planta de Trnava, en Eslovaquia, y emplean la plataforma STLA Smart de Stellantis.
 
 <img src=/media/opel-frontera-2024-precio-ficha-tecnica-oficial.webp alt="Trasera del Opel Frontera 2024">
 
-## Historia del modelo
+## La historia: del todoterreno Isuzu al SUV actual
 
-- **1991-2004**: el Frontera original, un todoterreno de verdad basado en Isuzu, con versiones Sport y 5 puertas.
-- **2017-2024**: el Opel Crossland ocupa su hueco como SUV urbano.
-- **Abril 2024**: Opel presenta el nuevo Frontera como SUV compacto híbrido y eléctrico.
-- **2024**: inicio de ventas en Europa desde 23.990 € (híbrido) y 29.000 € (eléctrico).
-- **2025**: llega la versión Extended Range de 54 kWh con 408 km WLTP y la opción de 7 plazas.
+- **1991-2004:** el Frontera original era un todoterreno auténtico derivado de Isuzu, comercializado como Sport y con carrocería de cinco puertas.
+- **2017-2024:** el Crossland ocupó su lugar como SUV urbano de la marca.
+- **Abril de 2024:** Opel desveló el nuevo Frontera, un SUV compacto con versiones híbridas y eléctricas.
+- **2024:** las ventas arrancaron en Europa desde 23.990 euros en híbrido y 29.000 euros en eléctrico.
+- **2025:** debutó la variante Extended Range de 54 kWh, con 408 kilómetros WLTP y la posibilidad de siete plazas.
 
-## Cuánto cuesta mantenerlo
+## Coste mensual estimado
 
-Estimación orientativa con 15.000 km al año: unos **120 €/mes**, con 41 € de electricidad (18 kWh/100 km a 0,18 €/kWh), 63 € de seguro a todo riesgo y 17 € de mantenimiento. Con etiqueta Cero, sin impuesto de matriculación y acceso libre a las ZBE.
+Con una estimación orientativa para 15.000 kilómetros anuales, el gasto ronda los 120 euros al mes: 41 euros de electricidad, calculados con 18 kWh cada 100 kilómetros a 0,18 euros el kWh; 63 euros de seguro a todo riesgo; y 17 euros de mantenimiento. Al lucir la etiqueta Cero, queda exento del impuesto de matriculación y puede entrar sin trabas en las zonas de bajas emisiones.
 
 <img src=/media/opel-frontera-2024-precio-ficha-tecnica-interior.webp alt="Interior del Opel Frontera 2024">
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el Opel Frontera eléctrico?
-Desde 24.900 € en la versión Electric 44 kWh Edition (308 km WLTP).
+### ¿Desde qué precio parte el Frontera eléctrico?
+Desde 24.900 euros en el Electric 44 kWh Edition, que homologa 308 kilómetros WLTP.
 
-### ¿Cuánta autonomía tiene?
-308 km WLTP con la batería de 44 kWh; la versión de 54 kWh llega a 408 km.
+### ¿Qué alcance anuncia con la batería pequeña?
+308 kilómetros WLTP con el acumulador de 44 kWh; la variante de 54 kWh alcanza los 408 kilómetros.
 
-### ¿Tiene 7 plazas?
-Sí, es el único eléctrico asequible con opción de 7 plazas (disponible en la gama, una rareza en su precio).
+### ¿Puede llevar siete plazas?
+Sí: la opción de siete plazas existe en la gama y supone una rareza entre los modelos asequibles, aunque se ofrece en las versiones híbridas.
 
-### ¿Qué garantía tiene la batería?
-8 años o 160.000 km, con al menos un 70 % de capacidad garantizada.
+### ¿Qué cobertura tiene su batería?
+Ocho años o 160.000 kilómetros, con al menos un 70 % de capacidad asegurada.
 
-### ¿Dónde se fabrica?
-En Trnava, Eslovaquia, sobre la plataforma STLA Smart que comparte con el Citroën ë-C3.
+### ¿En qué fábrica se produce?
+La producción tiene lugar en la factoría eslovaca de Trnava, que emplea la base STLA Smart, la misma del Citroën ë-C3.
 
-### ¿Merece la pena frente al híbrido?
-Si haces sobre todo ciudad y tienes dónde cargar, el eléctrico sale más barato por kilómetro; para viajar mucho, el híbrido de 145 CV es más polivalente.
+### ¿Eléctrico o híbrido: cuál conviene más?
+Si la mayoría de tus recorridos son urbanos y dispones de un punto de carga, el eléctrico resulta más barato por kilómetro; para viajar con frecuencia y sin depender de enchufes, el híbrido de 145 caballos ofrece mayor polivalencia.
 
 *Fuentes: <a href=https://www.km77.com/coches/opel/frontera/2025/estandar/electrico/frontera-electric/datos>km77.com</a>, <a href=https://opel-canarias.com/gama/opel-frontera-electric/>Opel Canarias</a>, <a href=https://www.motormundial.es/opel-frontera-electric-extended-range/2025/07/27/>motormundial.es</a>*
 

@@ -207,10 +207,10 @@ Con 94 CV bajo el puño, un radar despistado sale caro: si te ha llegado una den
 *Fuentes: <a href=https://www.mundomotero.com/motos/kove/800x-pro>ficha y precio en mundomotero.com</a>, <a href=https://www.mundomotero.com/motos/kove/800x-rally>datos de la 800X Rally</a> y <a href=https://www.motoplanete.es/kove/11269/800X-Pro-2025/contact.html>ficha técnica en motoplanete.es</a>.*`,
   },
   {
-    title: "Morbidelli T502X 2025: precio y ficha técnica",
+    title: "Morbidelli T502X 2025: trail A2 desde 5.390 €",
     slug: "morbidelli-t502x-2025-precio",
     excerpt:
-      "La Morbidelli T502X 2025 desde 5.390 €: trail A2 con 47 CV, pantalla TFT vertical de 7 pulgadas con GPS, defensas y cubrecárter de serie, ABS Bosch y 5 años de garantía.",
+      "La trail A2 de Morbidelli parte de 5.390 €: 47 CV, TFT vertical de 7 pulgadas con GPS, defensas y cubrecárter de serie, ABS Bosch y 5 años de garantía.",
     category: "Novedades Motor",
     date: "2026-10-08",
     readTime: 7,
@@ -229,11 +229,11 @@ Con 94 CV bajo el puño, un radar despistado sale caro: si te ha llegado una den
 
 **¿Buscas solo los datos?** <a href=/motos/morbidelli-t502x-2025-ficha-tecnica-precio/>Ver ficha técnica de la Morbidelli T502X</a>: precio, motor de 47 CV, TFT de 7" con GPS y etiqueta DGT. <a href=/comparador-motos/>Compárala cara a cara con sus rivales</a>.
 
-La **Morbidelli T502X** es la trail A2 que mejor entiende la relación calidad-precio: **5.390 €** con un equipamiento que parece de una maxitrail. **47 CV** en el límite del A2, **pantalla TFT vertical de 7 pulgadas con GPS**, defensas, cubrecárter, caballete central y parrilla **de serie**, ABS Bosch con modo off-road y **5 años de garantía**.
+Por 5.390 €, la T502X entrega un repertorio propio de trails grandes: 47 CV al borde del tope A2, instrumentación TFT vertical de 7 pulgadas con GPS, además de defensas, cubrecárter, caballete central y parrilla, todo incluido de fábrica, ABS Bosch con programa off-road y cinco años de cobertura.
 
-Es la moto para quien estrena el A2 y quiere una trail completa sin pagar el peaje japonés: cuesta unos 1.000 € menos que la Honda NX500 con la misma potencia.
+Resulta ideal para debutar en el A2 buscando una trail completa sin asumir el sobreprecio japonés: ronda los 1.000 € por debajo de la Honda NX500, con idéntica potencia.
 
-## Ficha técnica resumida: Morbidelli T502X 2025
+## Cifras esenciales de la T502X
 
 | Dato | Valor |
 |---|---|
@@ -249,28 +249,25 @@ Es la moto para quien estrena el A2 y quiere una trail completa sin pagar el pea
 
 ¿Quieres el detalle completo? <a href=/motos/morbidelli-t502x-2025-ficha-tecnica-precio/>Ficha técnica completa de la Morbidelli T502X</a> con pros, contras y curiosidades.
 
-## Precio en España
+## Tarifa y dotación en España
 
-La T502X se vende en España desde **5.390 €**, en colores azul, blanco y negro. El precio incluye un despliegue tecnológico impensable hace años en este segmento: **TFT vertical de 7"** con navegación GPS y Morbidelli Connect, **TPMS**, tomas USB y USB-C, piñas retroiluminadas e iluminación full LED. Y en la parte aventurera: defensas, cubrecárter, caballete central, parrilla y paramanos con alma de metal, todo de serie.
+En España parte de 5.390 €, disponible en azul, blanco y negro. Esa tarifa ya incorpora un despliegue tecnológico que hace pocos años resultaba impensable en esta franja: TFT vertical de 7 pulgadas con navegación GPS y Morbidelli Connect, TPMS, conexiones USB y USB-C, piñas retroiluminadas y alumbrado full LED. En el apartado aventurero, tampoco falta nada: defensas, cubrecárter, caballete central, parrilla trasera y paramanos con alma metálica, todo incluido.
 
 <img src=/media/morbidelli-t502x-2025-precio-galeria-1.webp alt=Morbidelli T502X 2025, detalle de la pantalla TFT vertical de 7 pulgadas con GPS>
 
-## Motor y parte ciclo
+## Mecánica y chasis
 
-Bicilíndrico en paralelo de **486 cc**, DOHC y 8 válvulas con homologación Euro 5+: **47 CV a 8.500 rpm** y **45 Nm a 6.750 rpm**, en el tope legal del A2. Cambio de 6 velocidades con embrague antirrebote y **control de tracción**.
+El bicilíndrico en paralelo cubica 486 cc, con DOHC y 8 válvulas y homologación Euro 5+: entrega 47 CV a 8.500 rpm, con 45 Nm a 6.750 rpm, justo en el tope legal del A2. La caja es de 6 relaciones con embrague antirrebote, más control de tracción.
 
-La parte ciclo monta **horquilla invertida de 43 mm** con 180 mm de recorrido, monoamortiguador trasero Pro-Link, frenos **J.Juan con doble disco delantero de 300 mm** y **ABS Bosch con modo off-road** (trasero desconectable). Llantas de radios **sin cámara** con Pirelli Scorpion Trail STR en 19" y 17".
+En la parte ciclo, horquilla invertida de 43 mm, con un recorrido de 180 mm, monoamortiguador trasero Pro-Link, mientras los frenos J.Juan aportan un doble disco delantero de 300 mm, junto a un ABS Bosch con programa off-road, con el trasero desconectable. Las llantas de radios sin cámara calzan Pirelli Scorpion Trail STR, en medidas 19 y 17 pulgadas.
 
-## Historia de Morbidelli y la T502X
+## De los setenta a la gama actual
 
-- **Años 70**: **Giancarlo Morbidelli** crea la marca original, que gana **tres mundiales de 125 cc** en Grandes Premios.
-- **2023**: la histórica marca italiana **renace** de la mano del grupo MBP con una gama completa y moderna.
-- **2024**: llega la **T502X**, la trail A2 que se convierte en su modelo más equilibrado.
-- **2025**: la gama trail se completa con las T125, T352X y la maxitrail T1002VX.
+Giancarlo Morbidelli fundó la marca primigenia en los años setenta, que conquistó tres títulos mundiales de 125 cc en Grandes Premios. En 2023, la histórica firma italiana resurgió dentro del grupo MBP, con una oferta completa y moderna. Un año después llegó la T502X, la trail A2 que se convirtió en su propuesta más equilibrada. Y en 2025 la familia trail quedó completada junto a las T125, T352X y la maxitrail T1002VX.
 
 <img src=/media/morbidelli-t502x-2025-precio-galeria-2.webp alt=Morbidelli T502X 2025 rodando por carretera secundaria>
 
-## Pros y contras
+## Luces y sombras
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -280,27 +277,27 @@ La parte ciclo monta **horquilla invertida de 43 mm** con 180 mm de recorrido, m
 | ABS Bosch off-road y control de tracción | Sin quickshifter |
 | 5 años de garantía | Red de concesionarios pequeña |
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuánto cuesta la Morbidelli T502X?
-**5.390 €** en España, con un equipamiento de serie muy completo.
+### ¿Desde cuánto parte la T502X?
+Desde 5.390 € en España, con una dotación de serie muy amplia.
 
-### ¿Cuántos caballos tiene la T502X?
-**47 CV (35 kW) a 8.500 rpm**, el máximo legal para el carnet A2.
+### ¿Qué potencia entrega?
+47 CV, equivalentes a 35 kW, a 8.500 rpm, el tope legal del carnet A2.
 
-### ¿Vale para el carnet A2?
-Sí, es una A2 pura: **47 CV** sin necesidad de limitación.
+### ¿Sirve con el carnet A2?
+Sí: una A2 auténtica, con 47 CV y sin limitación alguna.
 
-### ¿Qué autonomía tiene?
-Con 20 L de depósito, la marca declara unos **440 km** de autonomía.
+### ¿Qué alcance da el depósito?
+Con 20 L, la marca anuncia alrededor de 440 km de autonomía.
 
-### ¿Qué incluye de serie?
-Defensas, cubrecárter, caballete central, parrilla trasera, paramanos, TFT de 7" con GPS, TPMS y tomas USB/USB-C.
+### ¿Qué trae incluido de fábrica?
+De fábrica trae defensas, cubrecárter, caballete central, parrilla trasera y paramanos, además de TFT de 7 pulgadas con GPS, TPMS y conexiones USB/USB-C.
 
-### ¿Qué rivales tiene?
-Honda NX500, Benelli TRK 502X, Voge 500DSX y Macbor Montana XR5.
+### ¿Contra qué rivales compite?
+Sus contrincantes son la Honda NX500, la Benelli TRK 502X, la Voge 500DSX y la Macbor Montana XR5.
 
-Si estrenas el A2 con ella, recuerda que los radares no perdonan a los novatos: ante una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a>.
+Si debutas en el A2 con esta trail, ten presente que los radares no hacen excepciones con los recién llegados: ante cualquier denuncia, <a href=https://recurretumulta.online/#analizador>revísala gratis con nuestra IA</a>.
 
 *Fuentes: <a href=https://www.mundomotero.com/motos/mbp/morbidelli-t502x>ficha y precio en mundomotero.com</a>, <a href=https://www.motorbikemag.es/ficha-tecnica/morbidelli-t502x/>ficha técnica en motorbikemag.es</a> y <a href=https://soymotero.net/pruebas/prueba-morbidelli-t502x/>prueba en soymotero.net</a>.*`,
   },

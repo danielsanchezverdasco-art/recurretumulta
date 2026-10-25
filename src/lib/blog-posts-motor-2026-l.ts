@@ -137,9 +137,9 @@ La inversión cubre el periodo 2026-2030; los primeros modelos de la nueva etapa
 `,
 },
 {
-  title: "Jaguar Type 01: 1.030 CV eléctricos",
+  title: "Jaguar Type 01: GT eléctrico de 1.030 CV y 720 km",
   slug: "jaguar-type-01-electrico-1030-cv",
-  excerpt: "Jaguar desvela en Nueva York el Type 01: GT eléctrico de 4 puertas con 1.030 CV, 720 km WLTP y 350 kW de carga. Pedidos en 2027 desde 130.000 libras. El renacer eléctrico de la marca.",
+  excerpt: "Jaguar presenta en Nueva York el Type 01: GT eléctrico de 4 puertas con 1.030 CV, 720 km WLTP y carga de 350 kW; pedidos en 2027 desde 130.000 libras.",
   category: "Novedades Motor",
   date: "2026-10-08",
   readTime: 6,
@@ -153,20 +153,20 @@ La inversión cubre el periodo 2026-2030; los primeros modelos de la nueva etapa
   ],
   content: `<img src=/media/jaguar-type-01-electrico-1030-cv-hero.webp alt=Gran turismo eléctrico de lujo color champán en una avenida de Nueva York de noche, imagen editorial>
 
-**Jaguar** ha vuelto. Dos años después de dejar de vender coches y de una de las campañas de reposicionamiento más polémicas de la industria, la marca británica ha desvelado en **Nueva York** el **Type 01**: un gran turismo eléctrico de cuatro puertas con **1.030 CV**, **720 km de autonomía WLTP** y carga de 350 kW. Es el Jaguar de producción más potente de la historia y la primera piedra de su renacer como marca 100 % eléctrica de lujo.
+Tras dos años sin comercializar ningún modelo nuevo y una campaña de cambio de imagen que dio mucho que hablar, la firma británica presentó en Nueva York su primer paso como marca exclusivamente eléctrica de lujo: el Type 01, una berlina deportiva de cuatro puertas que anuncia 1.030 CV, hasta 720 km WLTP y recargas de 350 kW. Según la marca, se trata del Jaguar de serie más potente jamás fabricado.
 
-## Datos clave
+## Cifras destacadas
 
-- **Potencia:** 1.030 CV y 1.365 Nm (tres motores, tracción total)
-- **Aceleración:** 0-100 km/h en 3,2 s; 100-180 km/h en 4,0 s
-- **Batería:** 118 kWh útiles (NMC), arquitectura de 850 V
-- **Autonomía:** hasta 720 km WLTP (pendiente de homologación); 515 km a 120 km/h constantes
-- **Carga:** 350 kW en continua (321 km en 13 min); 10-80 % en unos 22 min; 22 kW en alterna
-- **Precio:** desde 130.000 libras en Reino Unido; pedidos a principios de 2027, entregas en el segundo semestre
-- **Producción:** Solihull (Reino Unido), a partir de 2027
-- **Fuente:** datos oficiales de Jaguar vía <a href=https://www.somoselectricos.com/coches-electricos/jaguar-type-01-1030-cv-720-km-previstos-reinventar-marca/20261007020110064001.html>Somos Eléctricos</a> e <a href=https://www.hibridosyelectricos.com/coches/se-acabaron-secretos-nueva-jaguar-presenta-coche-mas-importante-su-historia-reciente-1030-cv-720-km-autonomia-165000_89772_102.html>Híbridos y Eléctricos</a>
+- **Potencia y par:** tres propulsores repartidos entre los dos ejes suman 1.030 CV y 1.365 Nm, con tracción total.
+- **Aceleración:** de 0 a 100 km/h en 3,2 s, y de 100 a 180 km/h en 4,0 s.
+- **Acumulador y tensión:** 118 kWh útiles con química NMC y arquitectura de 850 V.
+- **Alcance:** hasta 720 km WLTP, todavía pendiente de homologación definitiva; a 120 km/h constantes, la marca prevé 515 km.
+- **Carga:** 350 kW en corriente continua, con 321 km recuperados en 13 minutos; del 10 al 80 % en unos 22 minutos, y 22 kW en alterna.
+- **Precio y calendario:** desde 130.000 libras en Reino Unido; los pedidos se abrirán a principios de 2027 y las entregas llegarán en la segunda mitad de ese año.
+- **Fabricación:** Solihull, en Reino Unido, a partir de 2027.
+- **Procedencia de los datos:** comunicación oficial de la marca, difundida por <a href=https://www.somoselectricos.com/coches-electricos/jaguar-type-01-1030-cv-720-km-previstos-reinventar-marca/20261007020110064001.html>Somos Eléctricos</a> e <a href=https://www.hibridosyelectricos.com/coches/se-acabaron-secretos-nueva-jaguar-presenta-coche-mas-importante-su-historia-reciente-1030-cv-720-km-autonomia-165000_89772_102.html>Híbridos y Eléctricos</a>.
 
-## Ficha técnica del Jaguar Type 01
+## La tabla completa del Type 01
 
 | Característica | Dato oficial |
 |---|---|
@@ -186,29 +186,28 @@ La inversión cubre el periodo 2026-2030; los primeros modelos de la nueva etapa
 
 <img src=/media/jaguar-type-01-electrico-1030-cv-galeria-1.webp alt=Vista trasera de un GT eléctrico de lujo con firma luminosa a todo el ancho, imagen editorial>
 
-## El todo o nada de Jaguar
+## Todo o nada para la marca
 
-El Type 01 no es un coche más: es **la apuesta existencial de Jaguar**. La marca se quedó dos años sin vender un solo coche nuevo para reinventarse como fabricante exclusivamente eléctrico de lujo, y este GT de cuatro puertas —sin luneta trasera (una cámara hace su trabajo), con pantalla OLED de 24 pulgadas y un interior dividido por una consola central longitudinal— tiene que justificar las **130.000 libras** que cuesta en Reino Unido. Sus rivales no son los alemanes de volumen, sino el Porsche Taycan y el Lucid Air. Si el Type 01 funciona, Jaguar habrá ejecutado la pirueta más arriesgada de la industria; si no, no habrá plan B.
+Este modelo no es uno más dentro de la gama: representa la apuesta existencial de la firma. Tras dos años sin comercializar vehículos nuevos, en plena reinvención como constructor únicamente eléctrico y de lujo, este GT de cuatro puertas debe justificar sus 130.000 libras en Reino Unido. Prescinde de luneta trasera —una cámara asume esa función—, equipa una pantalla OLED de 24 pulgadas y organiza el habitáculo alrededor de una consola central longitudinal. Sus adversarios no son los generalistas alemanes: apuntan al Porsche Taycan y al Lucid Air. Si funciona, la compañía habrá completado la maniobra más arriesgada de la industria; si falla, no existe un plan alternativo.
 
 <iframe src=https://www.youtube.com/embed/jEfPmOCMIiY title="Vídeo: presentación oficial del Jaguar Type 01" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo oficial de Jaguar con la presentación del Type 01.
+Grabación de la presentación neoyorquina difundida por la propia marca.
 
 <img src=/media/jaguar-type-01-electrico-1030-cv-galeria-2.webp alt=Interior minimalista de un GT eléctrico con pantalla OLED panorámica, imagen editorial>
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el Jaguar Type 01?
-Parte de **130.000 libras** en Reino Unido; el precio para España aún no se ha anunciado.
+### ¿Desde cuánto parte el Type 01?
+En Reino Unido arranca en 130.000 libras; para España, la tarifa sigue sin anunciarse.
 
-### ¿Cuándo se podrá comprar?
-Los pedidos se abren a **principios de 2027** y las primeras entregas están previstas para el segundo semestre de 2027.
+### ¿Cuándo empezará a venderse?
+La apertura de pedidos está prevista para principios de 2027, con las primeras unidades llegando en la segunda mitad de ese año.
 
-### ¿Qué autonomía tiene el Jaguar Type 01?
-Hasta **720 km WLTP** según Jaguar, aunque la cifra está pendiente de homologación final.
+### ¿Qué alcance anuncia?
+Hasta 720 km WLTP según la marca, aunque la cifra definitiva sigue pendiente de homologación.
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
-`,
+**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
 },
 {
   title: "VW ID.Tiguan: el nuevo ID.4",

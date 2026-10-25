@@ -306,9 +306,9 @@ Un familiar de 2,4 toneladas y 325 CV invita a pisarle en los viajes: si un <a h
 - <a href=https://www.dgt.es/>DGT: comprueba qué etiqueta ambiental le corresponde y las zonas de bajas emisiones donde puede circular</a>`
   },
   {
-    title: "Dacia Spring 2026: 18.000 €",
+    title: "Dacia Spring 2026: urbano eléctrico por menos de 18.000 €",
     slug: "dacia-spring-2026-nueva-generacion-precio",
-    excerpt: "El Dacia Spring se reinventa: nueva plataforma, 80 CV, 250 km de autonomía, más grande y fabricado en Eslovenia. Por debajo de 18.000 € antes de ayudas.",
+    excerpt: "El Spring nuevo crece, estrena plataforma RGEV Small, ofrece 80 CV y 250 km, se fabrica en Eslovenia y seguirá por debajo de 18.000 € antes de ayudas.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -325,34 +325,34 @@ Un familiar de 2,4 toneladas y 325 CV invita a pisarle en los viajes: si un <a h
 
 **¿Buscas solo los datos?** <a href=/coches/dacia-spring-2026-nueva-generacion-precio/>Ver ficha técnica del Dacia Spring 2026</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El coche que democratizó el eléctrico en Europa se reinventa: la **segunda generación del Dacia Spring** cambia de plataforma, crece 15 cm de largo y 18 de ancho, estrena **80 CV y 250 km de autonomía**... y abandona China para **fabricarse en Europa** (Novo Mesto, Eslovenia). El precio seguirá por **debajo de 18.000 €** antes de ayudas. Los pedidos ya están abiertos.
+Durante años, el Spring fue la puerta de entrada más asequible al coche eléctrico en Europa. Ahora Dacia le da la vuelta por completo: estrena arquitectura, gana presencia en carretera, sube el listón de equipamiento y traslada su producción al continente europeo. Todo eso sin renunciar a su idea original: un urbano eléctrico sencillo, ligero y con un precio que siga siendo el más bajo del mercado.
 
-## La noticia
+## Qué cambia de verdad
 
-Dacia ha escuchado: el nuevo Spring mantiene la filosofía de "lo esencial, bien hecho", pero deja atrás la sensación de "coche de juguete". La nueva plataforma **RGEV Small del Grupo Renault** le da más aplomo, más espacio y mejor equipamiento, con un interior que estrena cuadro digital de 7" y pantalla multimedia de hasta 10,1" con CarPlay y Android Auto inalámbricos.
+La marca rumana conserva su lema de ofrecer lo imprescindible bien resuelto, pero el salto es evidente: la arquitectura RGEV Small, compartida dentro del Grupo Renault, aporta aplomo, habitabilidad y un equipamiento que antes no tenía. Además, la carrocería crece 15 cm de largo y 18 cm de ancho respecto al modelo anterior. Dentro aparecen un cuadro digital de 7 pulgadas y una pantalla multimedia que alcanza las 10,1 pulgadas, compatible con CarPlay y Android Auto sin cable.
 
-Es el primero de **cuatro eléctricos** que Dacia lanzará en Europa antes de 2030. Y ojo al dato: con las ayudas españolas podría quedarse en unos **13.400 €**.
+Será la primera entrega de una ofensiva de cuatro modelos eléctricos que Dacia planea poner en Europa antes de 2030. Y hay otro número que importa mucho en España: con ayudas, el desembolso podría rondar los 13.400 €.
 
-## Precio y versiones en España
+## Precio, acabados y cuándo llega
 
-El precio de partida estará **por debajo de 18.000 €** antes de ayudas. Con el descuento de hasta 4.500 € aplicable en España se quedaría en unos **13.400 €**, más 800 € extra si achatarras un coche de combustión. Dos acabados: **Expression** y **Journey** (con pantalla de 10,1", cámara trasera y más equipamiento). Entregas a finales de 2026 o principios de 2027.
+El punto de partida se situará por debajo de los 18.000 € antes de cualquier ayuda. Restando el descuento de hasta 4.500 € vigente en España, la cifra rondaría los 13.400 €, a los que se podrían sumar 800 € más al entregar un coche de combustión para achatarrar. Habrá dos niveles, Expression y Journey; este último añade la pantalla de 10,1 pulgadas, cámara trasera y más dotación. Las entregas están previstas entre finales de 2026 y principios de 2027.
 
 <img src=/media/dacia-spring-2026-nueva-generacion-precio-oficial.webp alt=Dacia Spring 2026, urbano eléctrico, vista frontal>
 
 <img src=/media/dacia-spring-2026-nueva-generacion-precio-interior-oficial-2.webp alt=Interior oficial del dacia spring 2026 nueva generacion precio>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
+¿Te encaja el gasto? <a href=/mejor-coche-por-presupuesto/>Consulta qué coche conviene según tu presupuesto</a>.
 
-## Curiosidades que quizá no sabías
+## Detalles que conviene conocer
 
-- **Adiós China**: el Spring actual se fabrica en China; la nueva generación se produce en Eslovenia, en la misma planta que el Renault Twingo E-Tech.
-- **Más de 210.000 vendidos** desde 2021: el 79 % de sus compradores venían de otras marcas y el 93 % nunca había tenido un eléctrico.
-- **El usuario medio hace 34 km al día**: por eso Dacia prioriza precio y peso ligero antes que una batería enorme.
-- **V2L de serie en la lógica Dacia**: puedes enchufar pequeños aparatos a la batería del coche.
-- **En camino**: Dacia ya trabaja en su segundo eléctrico, y suenan el Dacia Hipster y un Sandero totalmente eléctrico.
-- **18 cm más ancho**: el salto dimensional es lo que más se nota; el nuevo Spring ya no parece un cuadriciclo con aspiraciones.
+- **Producción europea**: el Spring actual sale de China; la hornada nueva se montará en Eslovenia, en la misma factoría que el Renault Twingo E-Tech.
+- **Ventas acumuladas**: más de 210.000 unidades desde 2021; el 79 % de los compradores llegaba de otras marcas y el 93 % no había tenido nunca un eléctrico.
+- **Uso diario**: el conductor medio recorre 34 km al día; de ahí que Dacia priorice precio contenido y peso reducido frente a una batería gigantesca.
+- **V2L incluido en la filosofía Dacia**: la batería puede alimentar pequeños aparatos eléctricos.
+- **Lo que viene después**: Dacia ya prepara su segundo eléctrico; suenan el Dacia Hipster y un Sandero completamente eléctrico.
+- **Anchura**: crece 18 cm a lo ancho; ese cambio dimensional es el que más se aprecia, porque el Spring nuevo ya no recuerda a un cuadriciclo con aspiraciones.
 
-## Rivales directos
+## Competencia directa
 
 | Modelo | Autonomía WLTP | Precio desde |
 |---|---|---|
@@ -362,9 +362,9 @@ El precio de partida estará **por debajo de 18.000 €** antes de ayudas. Con e
 | Leapmotor T03 | 265 km | ~19.000 € |
 | Hyundai Inster | 327 km | ~24.000 € |
 
-Los hemos enfrentado en detalle: <a href=/blog/renault-5-e-tech-2026-vs-dacia-spring-2026-cual-comprar/>Duelo Renault 5 E-Tech vs Dacia Spring</a>.
+Los hemos comparado a fondo: <a href=/blog/renault-5-e-tech-2026-vs-dacia-spring-2026-cual-comprar/>Comparativa entre el Renault 5 E-Tech y el Spring</a>.
 
-## Pros y contras
+## Puntos fuertes y puntos débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -376,33 +376,33 @@ Los hemos enfrentado en detalle: <a href=/blog/renault-5-e-tech-2026-vs-dacia-sp
 
 <iframe src=https://www.youtube.com/embed/FpsWY4A302U title=Presentación del nuevo Dacia Spring segunda generación style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem; allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=FpsWY4A302U>SoyMotor</a> en YouTube — presentación de la segunda generación del Dacia Spring.
+Vídeo: <a href=https://www.youtube.com/watch?v=FpsWY4A302U>SoyMotor</a> en YouTube — estreno de la segunda hornada del Spring.
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuánto cuesta el nuevo Dacia Spring en España?
-Menos de 18.000 € antes de ayudas. Con las ayudas disponibles en España puede bajar hasta unos 13.400 €, más 800 € si entregas un coche de combustión para achatarrar.
+### ¿Qué precio tendrá el Spring nuevo en España?
+Estará por debajo de los 18.000 € antes de ayudas. Con el apoyo disponible en España, la cifra puede rondar los 13.400 €, y subiría el ahorro en 800 € más al entregar un coche de combustión para achatarrar.
 
-### ¿Qué autonomía tiene el Dacia Spring 2026?
-250 km en ciclo WLTP con su batería LFP de 27,5 kWh útiles y un consumo de 12,7 kWh/100 km.
+### ¿Cuántos kilómetros recorre con una carga?
+Homologa 250 km en ciclo WLTP gracias a su batería LFP de 27,5 kWh de capacidad útil y a un gasto de 12,7 kWh cada 100 km.
 
-### ¿Dónde se fabrica el nuevo Dacia Spring?
-En Novo Mesto (Eslovenia), sobre la nueva plataforma RGEV Small del Grupo Renault. Deja de fabricarse en China.
+### ¿Dónde se montará el Spring nuevo?
+En Novo Mesto, en Eslovenia, sobre la arquitectura RGEV Small del Grupo Renault. Dejará de salir de China.
 
-### ¿Cuándo llega el nuevo Dacia Spring a España?
-Los pedidos ya están abiertos y las entregas arrancan a finales de 2026 o principios de 2027.
+### ¿Cuándo se podrá comprar aquí?
+Los pedidos ya están abiertos y las primeras entregas llegarán entre finales de 2026 y principios de 2027.
 
-### ¿El Dacia Spring sirve para viajar?
-Es un urbano: 130 km/h de máxima y 250 km de autonomía. Para ciudad y alrededores es ideal; para viajes largos, la carga rápida de 50 kW (opcional) ayuda, pero no es su hábitat.
+### ¿Sirve para hacer viajes largos?
+Es un urbano: alcanza 130 km/h y homologa 250 km. En ciudad y alrededores resulta ideal; en trayectos largos, la carga rápida de 50 kW, que es opcional, ayuda, pero ese no es su terreno.
 
-### ¿Merece la pena frente al Citroën ë-C3?
-El ë-C3 ofrece más autonomía (320 km) y 5 plazas, pero cuesta unos 5.000 € más. Si buscas el eléctrico más barato posible y te mueves por ciudad, el Spring sigue sin rival en precio.
+### ¿Compensa frente al Citroën ë-C3?
+Este rival da más autonomía, 320 km, y cinco plazas, pero ronda los 5.000 € más. Si tu prioridad es el eléctrico más barato posible y circulas sobre todo por ciudad, el Spring mantiene su ventaja en precio.
 
 Urbano, ligero y barato: el Spring es perfecto para la <a href=https://recurretumulta.online/guias/zbe>ZBE</a>... pero ojo, que en ciudad también hay <a href=https://recurretumulta.online/guias/radares>radares</a>. Si te cazan, <a href=https://recurretumulta.online/#analizador>analiza la multa gratis</a> antes de pagar.
 
 ## Fuentes
 
-- <a href=https://www.dgt.es/>DGT: comprueba qué etiqueta ambiental le corresponde y las zonas de bajas emisiones donde puede circular</a>`
+- <a href=https://www.dgt.es/>DGT: revisa qué etiqueta le corresponde y en qué zonas de bajas emisiones puede circular</a>`
   },
   {
     title: "Seres 5: 585 CV y 500 km de autonomía desde 54.450 €",
