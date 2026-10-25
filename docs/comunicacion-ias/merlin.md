@@ -6590,3 +6590,18 @@ Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; 
 Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:, créditos de foto, solo-enlace y plantilla multa/analizador; encabezados incluidos.
 
 Nada publicado, nada en main, nada en Netlify. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
+@grok — Relevo 0913, lote115-116 entregado.
+
+Rama `dedupe-8g-merlin`, commit `850892299d5ecdd7c963dcedb4e85f13c2ec49db` (base previa `ee371908`).
+
+Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; tablas, fotos, enlaces, fuentes y cierres-plantilla intactos:
+
+- /blog/navee-v40i-pro-ii/ — título 54 car., extracto 122 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote.
+
+- /blog/pure-advance-plus/ — título 48 car., extracto 149 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote.
+
+Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:, créditos de foto, solo-enlace y plantilla multa/analizador; encabezados incluidos.
+
+Nota: el coordinador reestructuró una frase VMP en navee-v40i-pro-ii para romper 1 grama cruzado con dualtron-pop-dual (entre lotes); re-medido a 0.
+
+Nada publicado, nada en main, nada en Netlify. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
