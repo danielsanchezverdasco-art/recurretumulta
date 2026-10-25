@@ -83,9 +83,9 @@ Sí: son las dos marcas internacionales del grupo chino **Chery**, que está des
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
 },
 {
-  title: "MG HS Hybrid+: 225 CV con etiqueta ECO desde 29.990 €",
+  title: "MG HS Hybrid+ 2026: 225 CV, ECO y 29.990 € en España",
   slug: "mg-hs-hybrid-plus-225-cv-precio-espana",
-  excerpt: "MG abre los pedidos del HS Hybrid+: SUV híbrido con 225 CV, etiqueta ECO, 5,5 l/100 km y dos acabados desde 29.990 €, con hasta 4.000 € de descuento.",
+  excerpt: "El MG HS Hybrid+ ya admite pedidos en España: 225 CV híbridos, 5,5 l/100 km, etiqueta ECO y dos acabados desde 29.990 € con campaña.",
   category: "Novedades Motor",
   date: "2026-10-04",
   readTime: 5,
@@ -98,70 +98,74 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
   ],
   content: `<img src=/media/mg-hs-hybrid-plus-225-cv-precio-espana-hero.webp alt=SUV híbrido MG HS circulando por una carretera española al atardecer>
 
-MG completa la gama de su superventas. Desde el **1 de octubre** están abiertos los pedidos del **MG HS Hybrid+**, la versión híbrida autorrecargable (HEV) que se coloca entre el HS de gasolina y el HS híbrido enchufable. La carta: **225 CV**, **<a href=https://www.dgt.es>etiqueta ECO</a>**, **5,5 l/100 km** y un precio de partida de **29.990 €** con campaña de lanzamiento.
+La familia del superventas de MG crece por el centro. El 1 de octubre se abrieron los pedidos del HS Hybrid+, el híbrido autorrecargable que queda entre el HS de gasolina y el enchufable. Su tarjeta de visita: 225 CV, distintivo <a href=https://www.dgt.es>ECO</a>, 5,5 l/100 km y 29.990 € de arranque con la promoción de lanzamiento.
 
-## Datos clave
+## Cifras esenciales
 
-- **Sistema híbrido:** 1.5 de ciclo Miller (105 kW) + motor eléctrico (146 kW) + generador + batería de 1,8 kWh **refrigerada por agua** (un 300% más de capacidad de refrigeración que las de aire)
-- **Potencia combinada:** 165 kW (**225 CV**); 0-100 km/h en **7,9 s**
-- **Consumo y emisiones:** 5,5 l/100 km y 126 g/km de CO₂ (WLTP)
-- **Cambio:** automático de **2 velocidades** (estreno en el modelo)
-- **Precios:** Comfort desde **29.990 €**, Luxury desde **32.490 €**
-- **Campaña de lanzamiento:** descuentos de **hasta 4.000 €** y **seguro a todo riesgo gratis**
-- **Autonomía total:** más de 1.000 km; 16 sistemas de ayuda a la conducción (ADAS)
-- **Fuente:** <a href=https://www.mgmotor.es>MG Motor España (web oficial)</a>; datos técnicos de la nota de prensa del 17/09/2026
+- **Conjunto híbrido:** 1.5 de ciclo Miller con 105 kW, eléctrico de 146 kW, generador aparte y batería de 1,8 kWh con refrigeración líquida, que enfría un 300% más que una por aire
+- **Rendimiento conjunto:** 165 kW, o sea 225 CV, y 7,9 s para pasar de 0 a 100 km/h
+- **Gasto y emisiones:** en WLTP, 5,5 l/100 km con 126 g/km de CO₂
+- **Transmisión:** automática de 2 relaciones, una primicia en este modelo
+- **Tarifas:** Comfort a partir de 29.990 € y Luxury a partir de 32.490 €
+- **Lanzamiento:** rebajas de hasta 4.000 € más seguro a todo riesgo sin coste
+- **Alcance y ayudas:** más de 1.000 km en total y 16 asistentes de conducción (ADAS)
+- **Origen:** <a href=https://www.mgmotor.es>web oficial de MG Motor España</a> y su nota del 17/09/2026
 
-## Precios y acabados
+## Precios por acabado
 
 | Acabado | Precio de partida | Campaña de lanzamiento |
 |---|---|---|
 | Comfort | **29.990 €** | Hasta 4.000 € de descuento + seguro a todo riesgo gratis |
 | Luxury | **32.490 €** | Hasta 4.000 € de descuento + seguro a todo riesgo gratis |
 
-## El análisis: el híbrido que España estaba esperando
+## Por qué llega ahora
 
-MG no lanza este coche por capricho: según **José Antonio Galve** (SAIC Motor Spain & Portugal), en los ocho primeros meses de 2026 los **híbridos con etiqueta ECO lideraron el mercado español con el 35% de las ventas**. El HS Hybrid+ ataca exactamente ese filón: potencia de sobra (225 CV lo ponen por encima de la mayoría de rivales HEV), consumos contenidos y la etiqueta ECO que abre las ZBE sin necesidad de enchufar.
+La apuesta tiene lógica de mercado. José Antonio Galve, de SAIC Motor Spain & Portugal, recuerda que entre enero y agosto de 2026 los híbridos con ECO coparon el mercado español con un 35% de las ventas. Ahí apunta el HS Hybrid+: fuerza de sobra —225 CV superan a la mayoría de rivales HEV—, gasto contenido y un distintivo ECO que permite entrar en las ZBE sin enchufar nada.
 
 <img src=/media/mg-hs-hybrid-plus-225-cv-precio-espana-cuerpo.webp alt=MG HS Hybrid+ aparcado frente a una vivienda unifamiliar española con el maletero abierto>
 
-El "pero" honesto: con la campaña de lanzamiento, el precio real de acceso puede bajar de los 26.000 €, pero esos descuentos de hasta 4.000 € suelen ir ligados a financiación. Y frente a su hermano enchufable (el HS PHEV, con más de 100 km eléctricos y etiqueta Cero), el Hybrid+ es la opción para quien no quiere ni oír hablar de cables. Compáralo con sus rivales en el <a href=/comparador-coches/>comparador de coches</a>.
+El matiz honesto: con la promoción, el acceso real puede quedar por debajo de 26.000 €, aunque las rebajas de hasta 4.000 € acostumbran a exigir financiación. Y si lo comparamos con su hermano enchufable —más de 100 km en eléctrico y distintivo Cero—, el Hybrid+ es para quien no quiere saber nada de cables. Puedes enfrentarlo a sus rivales en el <a href=/comparador-coches/>comparador de coches</a>.
 
-## Míralo en vídeo
+## Vídeo
 
 <iframe src=https://www.youtube.com/embed/5uB2nHqFUqg title="Vídeo: MG HS Hybrid+: ¿el mejor SUV híbrido en su segmento?" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=5uB2nHqFUqg>PruebaTuCoche</a> en YouTube
 
-El HS Hybrid+ se suma a la ofensiva de los híbridos chinos en España que contamos en <a href=/blog/omoda-jaecoo-record-ventas-septiembre-2026/>el récord de ventas de Omoda y Jaecoo</a>; con su etiqueta ECO, además, circula sin restricciones por las <a href=/blog/zbe-espana-2026-ciudades-multan-cuanto-multa/>Zonas de Bajas Emisiones</a>. Y si dudas entre híbrido y eléctrico, mira <a href=/blog/anfac-septiembre-2026-record-electrificacion-model-3-lider/>el récord de electrificación de septiembre de 2026</a>.
+El Hybrid+ se suma al empuje de las marcas chinas híbridas en España, del que ya hablamos al tratar el <a href=/blog/omoda-jaecoo-record-ventas-septiembre-2026/>récord de Omoda y Jaecoo</a>; y con su distintivo ECO, además, puede moverse sin trabas por las <a href=/blog/zbe-espana-2026-ciudades-multan-cuanto-multa/>Zonas de Bajas Emisiones</a>. Si no tienes claro si híbrido o eléctrico, echa un ojo al <a href=/blog/anfac-septiembre-2026-record-electrificacion-model-3-lider/>récord de electrificación de septiembre</a>.
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el MG HS Hybrid+ en España?
-Desde **29.990 €** (Comfort) y 32.490 € (Luxury), con campaña de lanzamiento de hasta 4.000 € de descuento y seguro a todo riesgo gratis.
+### ¿Cuánto cuesta en España?
 
-### ¿Qué potencia tiene el MG HS Hybrid+?
-**225 CV** (165 kW) combinados, con un 0-100 km/h en 7,9 segundos.
+Comfort desde 29.990 € y Luxury desde 32.490 €, con lanzamiento de hasta 4.000 € de rebaja y seguro a todo riesgo gratis.
 
-### ¿El MG HS Hybrid+ tiene etiqueta ECO?
-Sí. Es el tercer modelo ECO de MG en España, tras el MG3 Hybrid+ y el ZS Hybrid+.
+### ¿Cuántos caballos entrega?
 
-### ¿Cuándo se puede pedir el MG HS Hybrid+?
-Los pedidos están abiertos desde el **1 de octubre de 2026**.
+Entrega 225 CV combinados, es decir, 165 kW, y tarda 7,9 segundos en pasar de 0 a 100 km/h.
 
+### ¿Lleva etiqueta ECO?
 
-### ¿Cuánto consume el MG HS Hybrid+?
-**5,5 l/100 km** y 126 g/km de CO₂ en ciclo WLTP, con una autonomía total de más de 1.000 km.
+Sí: después del MG3 Hybrid+ y del ZS Hybrid+, es el tercer ECO de MG en España.
 
-### ¿Merece la pena frente al MG HS híbrido enchufable?
-El Hybrid+ es la opción para quien no quiere ni oír hablar de cables; su hermano enchufable ofrece más de 100 km de autonomía eléctrica y etiqueta Cero.
+### ¿Desde cuándo se pide?
 
+Desde el 1 de octubre de 2026 se pueden hacer pedidos.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+### ¿Cuánto gasta?
+
+En ciclo WLTP gasta 5,5 l/100 km y emite 126 g/km de CO₂; el alcance total pasa de 1.000 km.
+
+### ¿O mejor el enchufable?
+
+El Hybrid+ va dirigido a quien no quiere saber nada de cables; el enchufable de la familia, en cambio, supera los 100 km en modo eléctrico y lleva distintivo Cero.
+
+¿Te llegó una multa y sospechas que tiene algún defecto? <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagarla.`,
 },
 {
-  title: "BYD Dolphin Surf 2026: ahora con 5 plazas por 350 € más",
+  title: "BYD Dolphin Surf 2026: 5 plazas por solo 350 € más",
   slug: "byd-dolphin-surf-my26-5-plazas-precio-espana",
-  excerpt: "El Dolphin Surf 2026 añade la quinta plaza en Boost y Comfort por 350 € más y mantiene el precio desde 12.605 € con todas las ayudas. Lo analizamos.",
+  excerpt: "El urbano eléctrico más vendido en España suma la quinta plaza en Boost y Comfort por 350 € más y sigue desde 12.605 € con las ayudas. Análisis completo.",
   category: "Novedades Motor",
   date: "2026-10-04",
   readTime: 6,
@@ -174,22 +178,22 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
   ],
   content: `<img src=/media/byd-dolphin-surf-my26-5-plazas-precio-espana-hero.webp alt=Pequeño coche eléctrico BYD Dolphin Surf aparcado en una calle de Madrid>
 
-Era su gran "pero" y BYD lo ha corregido: el **Dolphin Surf 2026** (año modelo 2026) añade la **quinta plaza** en los acabados Boost y Comfort por **solo 350 € más**. El urbano eléctrico más vendido de España —663 unidades en septiembre, tercero del acumulado anual con 4.334— deja de ser un 4 plazas con asterisco para convertirse en un coche familiar de verdad.
+Su gran inconveniente ya es historia: BYD ha corregido el principal reproche del Dolphin Surf. El urbano eléctrico del año modelo 2026 incorpora una quinta plaza en las versiones Boost y Comfort por un suplemento de 350 €. El modelo eléctrico urbano más vendido en España —663 unidades en septiembre, tercero en el acumulado del año con 4.334— deja atrás su condición de cuatro plazas con asterisco y se convierte en un coche familiar auténtico.
 
-## Datos clave
+## Cifras esenciales
 
-- **Quinta plaza:** disponible en Boost y Comfort por **+350 €**; el Active sigue siendo 4 plazas
-- **Precios (Península y Baleares):** Active 4 plz 20.140 € · Boost 4 plz 24.140 € · **Boost 5 plz 24.490 €** · Comfort 4 plz 26.640 € · **Comfort 5 plz 26.990 €**
-- **Precio con todo:** desde **12.605 €** (Active) con campañas, Plan Auto+, financiación y CAE
-- **Mecánicas (sin cambios):** Active 30 kWh / 88 CV / 220 km · Boost 43,2 kWh / 88 CV / 322 km · Comfort 43,2 kWh / 156 CV / 310 km (WLTP)
-- **Carga:** 65/85 kW en DC (10-80% en 31 min), 11 kW en AC
-- **Mejoras MY26:** climatizador automático, llantas de aleación de 16" en el Active, volante rediseñado, cubre-equipaje
-- **Garantía:** 6 años o 150.000 km (batería: 8 años o 250.000 km)
-- **Fuente:** <a href=https://www.byd.com/es>BYD España (web oficial)</a>; nota oficial del 28/09/2026
+- Quinta plaza: opcional en las versiones Boost y Comfort, con un suplemento de 350 €; el Active continúa con 4 plazas.
+- Precios en Península y Baleares: Active con 4 plazas, 20.140 €; Boost con 4 plazas, 24.140 €; Boost con 5 plazas, 24.490 €; Comfort con 4 plazas, 26.640 €; Comfort con 5 plazas, 26.990 €.
+- Precio con todo incluido: desde 12.605 € (Active) sumando campañas, Plan Auto+, financiación y CAE.
+- Las mecánicas no varían: el Active combina 30 kWh, 88 CV y 220 km; el Boost, 43,2 kWh, 88 CV y 322 km; el Comfort, 43,2 kWh, 156 CV y 310 km (WLTP).
+- Recarga: 65/85 kW en corriente continua (10-80 % en 31 min) y 11 kW en alterna.
+- Novedades del año modelo 2026: climatizador automático, llantas de aleación de 16" para el Active, volante con nuevo diseño y cubre-equipaje.
+- Garantía del coche: 6 años o 150.000 km; garantía de la batería: 8 años o 250.000 km.
+- Origen de los datos: <a href=https://www.byd.com/es>página oficial española de BYD</a>; comunicado fechado el 28 de septiembre de 2026.
 
-## La letra pequeña del precio, contada con honestidad
+## Qué exige realmente el precio de salida
 
-El "desde 12.605 €" es real, pero tiene condiciones: exige **financiar 12.500 € a 72 meses con CA Auto Bank** y aplicar los **CAE** (certificados de ahorro energético), además de las campañas de la marca y el adelanto del Plan Auto+. Si pagas al contado y sin ayudas, el Active cuesta 20.140 €. Sigue siendo el eléctrico nuevo más barato del mercado español, pero conviene saber qué hay detrás de cada cifra.
+El «desde 12.605 €» es verídico, pero viene con requisitos: hay que pedir 12.500 € financiados a 72 meses a través de CA Auto Bank, a lo que se suman los CAE (certificados de ahorro energético), las campañas de la marca y el anticipo del Plan Auto+. Pagando al contado y sin ayudas, el Active sale por 20.140 €. Continúa siendo el eléctrico nuevo más económico del mercado español, pero conviene conocer qué respalda cada cifra.
 
 | Versión | Batería | Potencia | Autonomía WLTP | PVP 4 plz | PVP 5 plz |
 |---|---|---|---|---|---|
@@ -199,41 +203,40 @@ El "desde 12.605 €" es real, pero tiene condiciones: exige **financiar 12.500 
 
 <img src=/media/byd-dolphin-surf-my26-5-plazas-precio-espana-cuerpo.webp alt=Interior de un coche eléctrico urbano con cinco asientos visibles>
 
-## El análisis: el "pero" que desaparece
+## Análisis: desaparece el principal inconveniente
 
-La limitación a 4 plazas era la crítica más repetida al Dolphin Surf en foros y pruebas: un coche de 3,99 metros con aspiraciones familiares que no podía llevar a tres niños detrás. Con la quinta plaza por 350 €, BYD elimina de un plumazo su principal argumento en contra sin tocar el precio base. El Boost de 5 plazas (24.490 €, 322 km de autonomía) queda como la versión con más sentido de la gama: más autonomía que el Comfort, suficiente potencia para ciudad y ahora, cinco plazas reales.
+El tope de 4 plazas era la queja más repetida sobre el Dolphin Surf en foros y en pruebas: un urbano de 3,99 metros con ambición familiar que no podía llevar detrás a tres niños. La quinta plaza, por 350 €, permite a BYD suprimir de golpe su principal argumento en contra sin modificar el precio base. El Boost con cinco plazas (24.490 € y 322 km de autonomía) se perfila como la versión con más lógica de la gama, por delante del Comfort en autonomía y con potencia de sobra para la ciudad y, ahora, cinco plazas de verdad.
 
-Su rival natural sigue siendo el <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>Renault 5 E-Tech</a>, más caro pero con más imagen. Compáralos en el <a href=/comparador-coches/>comparador de coches eléctricos</a>.
+Su contrincante directo continúa siendo el <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>Renault 5 E-Tech</a>, de precio superior pero con mejor imagen. Puedes enfrentarlos en el <a href=/comparador-coches/>comparador de coches eléctricos</a>.
 
-## Míralo en vídeo
+## Vídeo de la prueba
 
 <iframe src=https://www.youtube.com/embed/D3R0WgU5p7g title="Vídeo: Prueba del BYD Dolphin Surf en vídeo" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=D3R0WgU5p7g>Actualidad Motor</a> en YouTube
+Vídeo: prueba grabada por <a href=https://www.youtube.com/watch?v=D3R0WgU5p7g>Actualidad Motor</a> en YouTube.
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿El BYD Dolphin Surf 2026 tiene 5 plazas?
-Sí, desde el año modelo 2026: los acabados **Boost y Comfort** pueden pedirse con 5 plazas por **350 € más**. El Active sigue siendo de 4 plazas.
+### ¿El Dolphin Surf 2026 ya ofrece 5 plazas?
+Sí: a partir del año modelo 2026, Boost y Comfort admiten la quinta plaza por 350 € más. El Active continúa siendo de 4 plazas.
 
-### ¿Cuánto cuesta el BYD Dolphin Surf en España?
-El PVP parte de **20.140 €** (Active 4 plazas) y con todas las campañas, ayudas y financiación puede bajar hasta **12.605 €**. La versión recomendable, el Boost de 5 plazas, cuesta 24.490 € de tarifa.
+### ¿Cuánto cuesta el Dolphin Surf en España?
+El PVP arranca en 20.140 € (Active con 4 plazas) y, sumando todas las campañas, las ayudas y la financiación, puede descender hasta 12.605 €. Como opción más sensata, el Boost con cinco plazas tiene una tarifa de 24.490 €.
 
-### ¿Qué autonomía tiene el BYD Dolphin Surf?
-220 km (Active, 30 kWh), **322 km** (Boost, 43,2 kWh) o 310 km (Comfort, 43,2 kWh), en ciclo WLTP.
+### ¿Qué autonomía ofrece el Dolphin Surf?
+El Active homologa 220 km con 30 kWh; el Boost, 322 km con 43,2 kWh; y el Comfort, 310 km con 43,2 kWh, siempre en ciclo WLTP.
 
+### ¿Qué exige el precio de 12.605 €?
+Pedir 12.500 € financiados durante 72 meses a través de CA Auto Bank, y sumar los CAE, las campañas de la marca y el anticipo del Plan Auto+. Sin financiación ni ayudas, el Active se queda en 20.140 €.
 
-### ¿Qué condiciones tiene el precio de 12.605 €?
-Exige financiar 12.500 € a 72 meses con CA Auto Bank y aplicar los CAE, además de las campañas de la marca y el adelanto del Plan Auto+. Al contado y sin ayudas, el Active cuesta 20.140 €.
+### ¿Qué novedades trae el Dolphin Surf 2026?
+Ahora puede llevar cinco plazas en Boost y Comfort por 350 €, y suma un climatizador automático, unas llantas de aleación de 16 pulgadas para el Active, un volante con nuevo diseño y cubre-equipaje.
 
-### ¿Qué cambia en el Dolphin Surf 2026 respecto al anterior?
-La quinta plaza opcional en Boost y Comfort por 350 €, climatizador automático, llantas de aleación de 16 pulgadas en el Active, volante rediseñado y cubre-equipaje.
+### ¿Qué garantía ofrece el Dolphin Surf?
+La cobertura alcanza seis años o 150.000 km en el coche y ocho años o 250.000 km en la batería.
 
-### ¿Qué garantía tiene el BYD Dolphin Surf?
-6 años o 150.000 km para el coche y 8 años o 250.000 km para la batería.
-
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+¿Te han multado y sospechas que la sanción puede tener un defecto de forma? Antes de pagar, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a>.
+`,
 },
 {
   title: "Dongfeng Vigo y Mage desde 26.615 €: los SUV electrificados",

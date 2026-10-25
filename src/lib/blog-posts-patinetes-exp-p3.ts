@@ -824,9 +824,9 @@ El 11+ añade pantalla de 4" con GPS, frenos de 4 pistones y más batería, pero
   },
   {
     slug: "teverun-fighter-11-plus",
-    title: "Teverun Fighter 11+: la V2026 con GPS y 4 pistones",
+    title: "Teverun Fighter 11+: 2.100 Wh, GPS y 4 pistones",
     excerpt:
-      "El Teverun Fighter 11+ V2026 sube la apuesta: batería de 2.100 Wh, frenos hidráulicos de 4 pistones, TFT de 4\" con GPS y 120 km. Precio y ficha.",
+      "El Teverun Fighter 11+ V2026 combina doble motor de 1.600 W, batería de 2.100 Wh, frenos de 4 pistones y TFT con GPS: 100-120 km declarados por 2.159 €.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -847,9 +847,9 @@ El 11+ añade pantalla de 4" con GPS, frenos de 4 pistones y más batería, pero
 
 **¿Buscas solo los datos?** <a href=/patinetes/teverun-fighter-11-plus/>Ver ficha técnica del Teverun Fighter 11+</a>: batería, frenos y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **Teverun Fighter 11+** en su versión **V2026** es el Fighter 11 llevado al extremo: **dos motores de 1.600 W**, batería de **2.100 Wh**, **frenos hidráulicos de 4 pistones**, pantalla **TFT de 4 pulgadas con NFC y GPS integrado**, amortiguador de dirección y suspensión hidráulica regulable. Declara **100-120 km** y cuesta **2.159 €**.
+La variante V2026 del Fighter 11+ exprime al máximo la receta del Fighter 11: dos propulsores de 1.600 W cada uno, una batería de 2.100 Wh, frenada hidráulica de cuatro pistones, pantalla TFT de cuatro pulgadas que integra NFC y GPS, amortiguador de dirección y suspensión hidráulica que se puede regular. Homologa entre 100 y 120 km de alcance y su precio es de 2.159 €.
 
-## Ficha técnica resumida
+## Datos esenciales
 
 | Dato | Valor |
 |---|---|
@@ -863,25 +863,25 @@ El **Teverun Fighter 11+** en su versión **V2026** es el Fighter 11 llevado al 
 
 ¿Quieres el detalle completo? <a href=/patinetes/teverun-fighter-11-plus/>Ficha técnica completa del Teverun Fighter 11+</a>.
 
-## Precio del Teverun Fighter 11+ en España
+## Precio en España
 
-**2.159,30 €** en <a href=https://www.green220.com/en/e-scooters/463-electric-scooter-teverun-fighter-11plus-60-v-35-ah-3701522001434.html>Green220</a>, en preventa con disponibilidad en octubre de 2026. Incluye cargador rápido en la versión V2026, un extra que se agradece con 2.100 Wh que llenar.
+En <a href=https://www.green220.com/en/e-scooters/463-electric-scooter-teverun-fighter-11plus-60-v-35-ah-3701522001434.html>Green220</a>, la tienda enlazada, aparece a 2.159,30 €, en preventa y con disponibilidad prevista para octubre de 2026. La versión V2026 suma el cargador rápido, un detalle bienvenido cuando hay que llenar 2.100 Wh.
 
 <img src=/media/patinetes/teverun-fighter-11-plus-2.webp alt=Detalle de los frenos de 4 pistones del Teverun Fighter 11+>
 
-## Autonomía real vs declarada
+## Alcance declarado frente al real
 
-Los **100-120 km** son con un motor y ritmo tranquilo; con los dos motores, la cifra realista ronda los **74 km**. Sigue siendo excelente: pocos patinetes bajan de 70 km reales por este precio.
+La horquilla de 100-120 km se consigue con un solo motor y un ritmo tranquilo; si se usan los dos motores, la cifra realista baja hasta unos 74 km. Aun así, el resultado sigue siendo sobresaliente: por este precio, pocos modelos superan los 70 km reales.
 
-## Frenos y neumáticos
+## Frenada y ruedas
 
-Aquí está su gran argumento: **frenos hidráulicos de 4 pistones** delante y detrás, con neumáticos **tubeless de 11 pulgadas**. A 85 km/h, la frenada es lo que separa un susto de un accidente, y el 11+ va sobrado en este apartado.
+Su baza principal está en la frenada: sistema hidráulico de cuatro pistones en ambos ejes, combinado con ruedas tubeless de 11 pulgadas. Circulando a 85 km/h, una buena frenada marca la diferencia entre un susto y un accidente, y en este apartado el 11+ va sobrado.
 
-## Certificado DGT y normativa VMP
+## Homologación DGT y normas VMP
 
-Sin homologación DGT como VMP: en España, **25 km/h máximo**, **aceras prohibidas** y carriles bici o calzada permitida. El GPS integrado y la app de Teverun permiten configurarlo, pero deslimitarlo en vía pública es sancionable.
+No cuenta con homologación DGT como VMP: en España, el tope es de 25 km/h, las aceras están prohibidas y solo se puede circular por carriles bici o por la calzada. El GPS integrado y la aplicación de Teverun permiten ajustarlo, pero circular deslimitado por la vía pública puede sancionarse. Y una aclaración: Euro NCAP no evalúa patinetes, así que este modelo no tiene estrellas de ese organismo.
 
-## Puntos fuertes y débiles
+## Lo mejor y lo peor
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -895,20 +895,25 @@ Sin homologación DGT como VMP: en España, **25 km/h máximo**, **aceras prohib
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el Teverun Fighter 11+?
-**2.159 €** en preventa para octubre de 2026.
+### ¿Cuánto hay que pagar por el Fighter 11+?
 
-### ¿Qué trae la versión V2026?
-Pantalla TFT de 4" con **NFC y GPS**, **amortiguador de dirección**, suspensión hidráulica regulable, frenos de 4 pistones y cargador rápido.
+La preventa lo sitúa en 2.159 €, con entrega prevista en octubre de 2026.
 
-### ¿Qué autonomía real tiene?
-Unos **74 km** en uso mixto con doble motor.
+### ¿Qué incorpora la V2026?
 
-### ¿Merece la pena sobre el Fighter 11?
-Solo si valoras el GPS, los frenos de 4 pistones y la batería extra. Por potencia pura, el 11 normal ya sobra.
+Cargador rápido, frenos de cuatro pistones, suspensión hidráulica regulable, amortiguador de dirección y pantalla TFT de cuatro pulgadas con NFC y GPS.
 
-### ¿Es legal en España?
-Como VMP **limitado a 25 km/h**. Sin homologación DGT para más velocidad.
+### ¿Cuál es su autonomía real?
+
+Alrededor de 74 km en uso mixto con los dos motores.
+
+### ¿Compensa frente al Fighter 11?
+
+Solo si te importan el GPS, la frenada de cuatro pistones y la batería mayor. Si solo buscas potencia, el 11 normal ya sobra.
+
+### ¿Se puede usar legalmente en España?
+
+Sí, circulando como VMP con el tope de 25 km/h; carece de homologación DGT para superar esa velocidad.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
@@ -1680,9 +1685,9 @@ El Midnight tiene más motor (2×2.000 W) y batería (40Ah). El Lite es más bar
   },
   {
     slug: "inmotion-rs-midnight",
-    title: "InMotion RS Midnight: 96 km/h",
+    title: "InMotion RS Midnight: 96 km/h solo para circuito privado",
     excerpt:
-      "El InMotion RS Midnight es la bestia de la marca: doble motor de 2.000 W, 8.400 W de pico, 2.880 Wh y 96 km/h. Ficha técnica y precio.",
+      "96 km/h, 8.400 W de pico y batería de 2.880 Wh: el RS Midnight es un hiperpatinete de circuito, ilegal en vía pública en España. Precio y ficha.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -1703,7 +1708,9 @@ El Midnight tiene más motor (2×2.000 W) y batería (40Ah). El Lite es más bar
 
 **¿Buscas solo los datos?** <a href=/patinetes/inmotion-rs-midnight/>Ver ficha técnica del InMotion RS Midnight</a>: potencia máxima y batería. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **InMotion RS Midnight** no se anda con chiquitas: **dos motores de 2.000 W** con **8.400 W de pico**, batería de **2.880 Wh** (72V 40Ah) y **96 km/h** declarados. Pesa **58 kg** y cuesta unos **3.999 $**. La edición más espectacular del RS.
+Dos motores, una batería enorme y una velocidad que pertenece a otro mundo: el RS Midnight lleva la gama RS de InMotion hasta su expresión más oscura y radical. No pretende ser práctico ni urbano; pretende ser extremo, y en ese terreno cumple sin disimulo.
+
+Cada rueda esconde un motor de 2.000 W, de modo que la potencia combinada nominal alcanza 4.000 W y el pico declarado llega a 8.400 W. La batería, de 72V y 40Ah, almacena 2.880 Wh, y la velocidad máxima anunciada es de 96 km/h. El conjunto pesa 58 kg y su precio ronda los 3.999 $ en su mercado de origen.
 
 ## Ficha técnica resumida
 
@@ -1719,25 +1726,25 @@ El **InMotion RS Midnight** no se anda con chiquitas: **dos motores de 2.000 W**
 
 ¿Quieres el detalle completo? <a href=/patinetes/inmotion-rs-midnight/>Ficha técnica completa del InMotion RS Midnight</a>.
 
-## Precio del InMotion RS Midnight en España
+## Precio en España: cifra en dólares, coste europeo aparte
 
-Unos **3.999 dólares** en su mercado de origen; en Europa, a precio de importador. Por ese dinero hay motos eléctricas matriculables: haz números antes.
+En su mercado de origen ronda los 3.999 dólares; en Europa, el importe final depende del importador y sube respecto a esa cifra. Con ese presupuesto ya se compran motos eléctricas matriculables, así que conviene hacer cuentas con calma antes de decidir.
 
 <img src=/media/patinetes/inmotion-rs-midnight-2.webp alt=Detalle del InMotion RS Midnight de noche>
 
-## Autonomía real vs declarada
+## Autonomía: la cifra oficial frente al uso con potencia
 
-Declara **96 km**; en uso real con 8,4 kW disponibles, calcula **unos 64 km**. La batería de 2.880 Wh tarda una eternidad en cargar sin cargador rápido.
+El fabricante anuncia 96 km, pero con 8,4 kW a disposición del puño, un uso exigente deja la cifra razonable en torno a 64 km. Recargarla exige paciencia si no se dispone de un cargador rápido, porque su acumulador guarda 2.880 Wh.
 
-## Frenos y neumáticos
+## Frenada y ruedas a la altura de la velocidad
 
-Frenada y gomas de nivel moto, porque a 96 km/h no vale otra cosa. El acabado Midnight, en negro, es el más llamativo de la gama RS.
+A 96 km/h, frenos y neumáticos deben responder como los de una moto: ninguna otra respuesta resulta aceptable a esa velocidad. El acabado Midnight, vestido de negro, es el más vistoso de toda la familia RS.
 
-## Certificado DGT y normativa VMP
+## Normativa y certificado: fuera de la categoría VMP
 
-Con 96 km/h, el Midnight **está fuera de cualquier categoría VMP** en España: solo **circuito privado**. En vía pública, además de ilegal, es un peligro para ti y para los demás sin la equipación adecuada.
+Con 96 km/h, este modelo queda fuera de cualquier categoría VMP en España y su único escenario legítimo es el circuito privado. Circular por vía pública con él, además de ilegal, supone un riesgo para quien lo conduce y para los demás si no se lleva la equipación adecuada.
 
-## Puntos fuertes y débiles
+## Balance: lo mejor y lo peor
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -1749,11 +1756,11 @@ Con 96 km/h, el Midnight **está fuera de cualquier categoría VMP** en España:
 
 <img src=/media/patinetes/inmotion-rs-midnight-3.webp alt=InMotion RS Midnight en recta de circuito>
 
-## InMotion: del monociclo eléctrico a los patinetes de 96 km/h
+## InMotion: de los monociclos a los hiperpatinetes
 
-InMotion es un fabricante chino especializado en vehículos eléctricos personales (monociclos, patinetes) cuya gama se presenta en su <a href=https://www.inmotionworld.com>web oficial</a>. La serie RS es su escaparate de prestaciones: patinetes de doble motor pensados para competir con los Teverun y los Nami en la liga de los hiperpatinetes. El RS Midnight es la edición especial oscura de esa familia, y su carta de presentación no admite medias tintas: **8.400 W de potencia de pico y 96 km/h** de velocidad máxima declarada. Todo lo demás en este análisis (legalidad, peso, sentido) cuelga de esas dos cifras.
+InMotion es una empresa china dedicada a vehículos eléctricos personales, entre ellos monociclos y patinetes, y su catálogo se consulta en su <a href=https://www.inmotionworld.com>web oficial</a>. La serie RS funciona como escaparate de prestaciones de la marca: patinetes de doble motor concebidos para medirse con Teverun y Nami dentro del segmento de los hiperpatinetes. De esa familia, el RS Midnight es la versión oscura especial, y su presentación no deja lugar a medias tintas: pico declarado de 8.400 W y velocidad máxima anunciada de 96 km/h. El resto de esta valoración, desde la legalidad hasta el peso y el sentido de compra, depende de esas dos cifras.
 
-## La técnica: números de moto en formato patinete
+## Los números: potencia y batería de moto en un patinete
 
 | Dato | InMotion RS Midnight |
 |---|---|
@@ -1765,43 +1772,44 @@ InMotion es un fabricante chino especializado en vehículos eléctricos personal
 | Peso | 58 kg |
 | Precio | ~3.999 $ |
 
-La batería de **2.880 Wh** es más grande que la de muchas motos eléctricas urbanas, y explica tanto la autonomía como los 58 kg: esto no es un patinete que se suba a un piso por las escaleras ni se meta en un maletero alegremente. La autonomía real estimada de unos 64 km que recoge el post es la lectura honesta de los 96 km declarados, medidos a ritmo suave. Y hay una verdad mecánica que el propio análisis subraya: a 96 km/h, los frenos y los neumáticos tienen que ser de nivel moto, porque la física no perdona el formato.
+La batería de 2.880 Wh supera a la de muchas motos eléctricas urbanas, y también explica los 58 kg: no es un aparato para subir por escaleras hasta un piso ni para guardar con alegría en un maletero. La autonomía razonable en torno a 64 km es la lectura prudente de los 96 km anunciados, medidos a ritmo suave. Y existe una verdad mecánica que conviene repetir: a 96 km/h, frenos y neumáticos deben responder al nivel de una moto, porque la física no entiende de formatos.
 
-## Uso real: un aparato de circuito, no de ciudad
+## Uso real: aparato de circuito, no transporte diario
 
-El RS Midnight tiene un uso legítimo y estrecho: rodar en **circuito privado** o en espacios cerrados donde su velocidad no sea un problema legal ni un peligro público. Como vehículo de transporte es un contrasentido: ilegal en vía pública española, imposible de asegurar para circular y demasiado pesado para la intermodalidad que da sentido a un patinete. Quien lo compre debe hacerlo con la misma mentalidad que quien compra una moto de cross sin matricular: el juguete es espectacular, el garaje y el remolque forman parte del presupuesto. Si buscas patinete para el día a día, la categoría legal está en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
+Su uso legítimo es estrecho: circuito privado o recintos cerrados donde su velocidad no genere un problema legal ni un riesgo para terceros. Como medio de transporte diario resulta un contrasentido: en calles españolas no puede circular de forma legal, asegurarlo para circular resulta imposible y su peso lastra la intermodalidad que justifica un patinete. Quien lo adquiera debe hacerlo con la mentalidad de quien adquiere una moto de cross sin matricular: la máquina resulta espectacular, pero guardar la máquina y remolcarla forman parte del gasto previsto. Si buscas un patinete para moverte a diario, la oferta legal se encuentra en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
 
-## Mantenimiento y costes: batería enorme, electrónica compleja
+## Mantenimiento y costes: batería grande, electrónica compleja
 
-InMotion no publica tarifas de mantenimiento aplicables en España, y no las inventamos. Lo verificable es el patrón de estos hiperpatinetes: doble motor, doble controlador y una batería de 2.880 Wh cuyo reemplazo sería el gasto mayor de su vida útil, además de neumáticos y frenos sometidos a esfuerzos de moto. El post original advierte además de que pocos talleres tocan estos aparatos: la posventa pasará por el importador y por la comunidad de usuarios, y conviene asumirlo antes de pagar unos 4.000 dólares.
+InMotion no difunde precios de servicio válidos para España, y no vamos a inventarlos. Lo comprobable es el patrón habitual de estos hiperpatinetes: dos motores, dos controladores y un acumulador de 2.880 Wh cuyo reemplazo supondría el mayor gasto de toda su vida útil, y con neumáticos y frenos trabajando bajo esfuerzos propios de una moto. El texto original advierte además de que pocos talleres trabajan con estos aparatos: la posventa dependerá del importador y de la comunidad de usuarios, algo que conviene asumir antes de abonar unos 4.000 dólares.
 
-## Normativa: fuera de la categoría VMP, sin matices
+## Normativa española: sin encaje posible en VMP
 
-La normativa española de vehículos de movilidad personal, consultable en la <a href=https://www.dgt.es>DGT</a>, define los VMP con velocidades máximas de 25 km/h y exige certificación para circular. Un aparato de 96 km/h y 58 kg **no es un VMP** ni puede convertirse en uno limitándolo con un modo de la pantalla: en vía pública sería tratado como un vehículo sin autorización para circular, con las sanciones y la responsabilidad que ello implica en caso de accidente. El post original lo dice sin rodeos y este análisis lo repite: circuito privado o nada.
+En España, la regulación de los vehículos de movilidad personal, consultable en la <a href=https://www.dgt.es>DGT</a>, fija el tope en 25 km/h y reclama certificación para rodar por la calle. Con 96 km/h y 58 kg, este modelo no encaja en esa figura ni se transforma en VMP activando un modo limitado en pantalla: si circulara por vía pública, se consideraría un vehículo sin autorización, con sanciones y responsabilidad añadida ante un accidente. Dicho sin rodeos: circuito privado o nada.
 
-## Frente a Nami Burn-e 3 Max y Teverun Blade GT II: veredicto
+## Comparativa: Nami y Teverun frente al Midnight
 
-Sus dos rivales naturales tienen ficha en esta casa: el <a href=/patinetes/nami-burn-e-3-max/>Nami Burn-e 3 Max</a> iguala los 8.400 W de pico y la batería de 2.880 Wh, declara 105 km/h y 135 km de autonomía (90 reales) y cuesta 4.449 € con 47,5 kg; el <a href=/patinetes/teverun-blade-gt-2/>Teverun Blade GT II</a> se queda en 5.000 W de pico y 85 km/h con 2.100 Wh. Los tres comparten la misma sentencia legal en España. El InMotion gana al Teverun en cifras y pierde con el Nami en velocidad punta declarada y peso.
+Los dos competidores directos también cuentan con ficha aquí: el <a href=/patinetes/nami-burn-e-3-max/>Nami Burn-e 3 Max</a> repite 8.400 W de pico y 2.880 Wh, anuncia 105 km/h y 135 km de alcance (90 en uso real) y se vende por 4.449 € pesando 47,5 kg; el <a href=/patinetes/teverun-blade-gt-2/>Teverun Blade GT II</a> ofrece 2.100 Wh, 85 km/h y 5.000 W de pico. La sentencia legal española alcanza a los tres por igual. Frente al Teverun, el InMotion manda en cifras; frente al Nami, cede en punta anunciada y en peso.
 
-**¿Merece la pena?** Como máquina de circuito y objeto de colección de los hiperpatinetes, el RS Midnight es de lo más extremo que se vende. **Para quién sí:** para el aficionado con espacio privado donde rodarlo y presupuesto para mantenerlo. **Para quién no:** para absolutamente cualquiera que piense en usarlo en la calle: ahí no es caro o barato, es simplemente ilegal.
+Veredicto: como máquina de circuito y pieza de colección dentro de los hiperpatinetes, el RS Midnight figura entre lo más extremo a la venta. Encaja con el aficionado que dispone de un espacio privado para rodarlo y de presupuesto para mantenerlo. No encaja con nadie que pretenda usarlo en la calle: ahí la cuestión no es el precio, sino la legalidad.
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta?
-Unos **3.999 $**, más el sobreprecio del importador europeo.
+### ¿Qué precio tiene?
+Ronda los 3.999 $, a los que se añade el sobreprecio del importador europeo.
 
-### ¿Qué velocidad máxima tiene?
-**96 km/h** declarados.
+### ¿Hasta qué velocidad llega?
+Hasta 96 km/h, según la cifra anunciada.
 
-### ¿Es el patinete más rápido del mundo?
-Está entre los más rápidos de serie, junto al Teverun Supreme y el Nami Burn-e 3 Max.
+### ¿Se trata del patinete de serie más veloz del mundo?
+Figura entre los más veloces de serie, en compañía del Nami Burn-e 3 Max y del Teverun Supreme.
 
-### ¿Puedo usarlo en España?
-**No** en vía pública. Solo en circuito privado.
+### ¿Puedo circular con él por España?
+No por vía pública. Únicamente en circuito privado.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://www.voromotors.com/>VoroMotors</a> e InMotion., <a href=https://www.inmotionworld.com>InMotion (web oficial)</a>, <a href=https://www.dgt.es>DGT (normativa VMP)</a>*`,
+*Fuentes: <a href=https://www.voromotors.com/>VoroMotors</a> e InMotion., <a href=https://www.inmotionworld.com>InMotion (web oficial)</a>, <a href=https://www.dgt.es>DGT (normativa VMP)</a>*
+`,
   },
   {
     slug: "inmotion-s1f",
@@ -2685,9 +2693,9 @@ Sí: **sillín, cesta, 750 W y 55 km** lo hacen apto para reparto urbano ligero.
   },
   {
     slug: "hiboy-ks4",
-    title: "Hiboy KS4: 14,8 kg sin pinchazos",
+    title: "Hiboy KS4: patinete de 14,8 kg y ruedas sin cámara",
     excerpt:
-      "El Hiboy KS4 pesa 14,8 kg, lleva ruedas macizas de 10\", 350 W y app con bloqueo. Ficha técnica y mantenimiento del commuter ligero.",
+      "Con 14,8 kg, ruedas macizas de 10 pulgadas, motor de 350 W y app con bloqueo, el Hiboy KS4 es un commuter ligero para trayectos cortos.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -2706,11 +2714,11 @@ Sí: **sillín, cesta, 750 W y 55 km** lo hacen apto para reparto urbano ligero.
     ],
     content: `<img src=/media/patinetes/hiboy-ks4-1.webp alt=Hiboy KS4, vista lateral del patinete ligero>
 
-**¿Buscas solo los datos?** <a href=/patinetes/hiboy-ks4/>Ver ficha técnica del Hiboy KS4</a>: peso, ruedas macizas y app. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+Pesar poco cambia por completo el día a día con un patinete: subirlo a casa, meterlo en el transporte público o guardarlo en la oficina deja de ser un esfuerzo. Ahí juega su baza principal el Hiboy KS4, un modelo pensado para desplazamientos cortos que apenas alcanza los 14,8 kg y que rueda sobre unas ruedas macizas de 10 pulgadas con las que los pinchazos dejan de preocupar. Lo mueve un motor de 350 W, declara 27 km de alcance y se gestiona desde la app Hiboy, que incluye bloqueo, crucero y autodiagnóstico.
 
-El **Hiboy KS4** es el commuter ligero y sin mantenimiento de la marca: **14,8 kg**, **ruedas macizas de 10 pulgadas** (cero pinchazos), motor de **350 W**, **27 km declarados** y **app Hiboy** con bloqueo, crucero y autodiagnóstico.
+Si solo necesitas cifras, la <a href=/patinetes/hiboy-ks4/>ficha técnica del Hiboy KS4</a> reúne peso, ruedas macizas y app, y el <a href=/comparador-patinetes/>comparador de patinetes</a> permite enfrentarlo con sus rivales.
 
-## Ficha técnica resumida
+## Datos esenciales de un vistazo
 
 | Dato | Valor |
 |---|---|
@@ -2724,29 +2732,27 @@ El **Hiboy KS4** es el commuter ligero y sin mantenimiento de la marca: **14,8 k
 
 ¿Quieres el detalle completo? <a href=/patinetes/hiboy-ks4/>Ficha técnica completa del Hiboy KS4</a>.
 
-## Precio del Hiboy KS4 en España
+## Mantenimiento casi inexistente
 
-Se vende por **280-350 $** en EE. UU.; en Europa llega vía importadores. Su rival interno es el KS4 Pro (500 W, 40 km): por poco más, mucho más patinete.
+- **Aplicación oficial:** la aplicación oficial de Hiboy, conectada por Bluetooth, ofrece estadísticas de uso, bloqueo del vehículo, control de crucero y autodiagnóstico.
+- **Tornillería:** conviene revisar de vez en cuando los 6 tornillos del manillar; la llave Allen viene incluida en la caja.
+- **Ruedas sin cámara:** al ser macizas, las ruedas no llevan cámara, no necesitan comprobar la presión y tampoco precisan líquido antipinchazos.
 
 <img src=/media/patinetes/hiboy-ks4-2.webp alt=Detalle de las ruedas macizas del Hiboy KS4>
 
-## Autonomía real vs declarada
+## Ruedas y frenada
 
-**22-27 km declarados**; en ciudad, **unos 18 km reales**. Es un patinete de trayectos cortos: para más, el KS4 Pro.
+La frenada combina un freno electrónico en la rueda delantera con un disco en la trasera. Las ruedas son de tipo honeycomb de 10 pulgadas: imposibles de pinchar, aunque transmiten con mayor claridad las irregularidades del asfalto. Además, cuenta con protección IPX4 frente a lluvia ligera.
 
-## Frenos y neumáticos
+## Alcance en uso real
 
-**Freno electrónico delantero + disco trasero**, con **ruedas macizas honeycomb de 10"**: ni un pinchazo en la vida, a cambio de transmitir más los baches. **IPX4** frente a lluvia ligera.
+La marca declara entre 22 y 27 km, aunque en recorridos urbanos la cifra razonable ronda los 18 km. Queda claro, por tanto, que se trata de un vehículo para desplazamientos breves; quien necesite más recorrido tiene en el KS4 Pro la alternativa de la propia marca.
 
-## Certificado DGT y normativa VMP
+## Precio y uso en España
 
-Con **31 km/h** de máxima, en España debe ir **limitado a 25 km/h**. Prohibido en **aceras**, como todo VMP.
+En Estados Unidos se comercializa por 280-350 $, mientras que a Europa llega mediante importadores y no hay un PVP oficial en euros publicado. Su velocidad máxima es de 31 km/h, de modo que para circular en España debe limitarse a 25 km/h. Como cualquier VMP, no puede circular por las aceras. En materia de seguridad, no existe una valoración Euro NCAP para este modelo, porque Euro NCAP no evalúa patinetes.
 
-## Mantenimiento en casa
-
-- **App oficial Hiboy** por Bluetooth: estadísticas, bloqueo, control de crucero y autodiagnóstico del sistema.
-- **Tornillería**: revisar periódicamente los 6 tornillos del manillar (llave Allen incluida en la caja).
-- Las ruedas macizas **no necesitan presión ni antipinchazos**: su mantenimiento es nulo.
+Dentro de la misma familia, el KS4 Pro añade doble suspensión trasera, sube a 500 W y alcanza 40 km; por un desembolso algo mayor, entrega bastante más patinete.
 
 ## Puntos fuertes y débiles
 
@@ -2762,22 +2768,25 @@ Con **31 km/h** de máxima, en España debe ir **limitado a 25 km/h**. Prohibido
 
 ## Preguntas frecuentes
 
-### ¿Las ruedas son macizas?
-Sí: **honeycomb de 10"**, sin cámara ni pinchazos.
+### ¿Pueden pincharse sus ruedas?
+No: son de tipo honeycomb de 10 pulgadas y carecen de cámara, así que no hay pinchazos posibles.
 
-### ¿Qué autonomía real tiene?
-Unos **18 km**.
+### ¿Cuánto recorre en la práctica?
+En ciudad, alrededor de 18 km.
 
-### ¿KS4 o KS4 Pro?
-El Pro lleva **500 W, 40 km y doble suspensión trasera**. Si el presupuesto lo permite, el Pro compensa.
+### ¿Merece la pena subir al KS4 Pro?
+El Pro añade doble suspensión trasera, sube a 500 W y alcanza 40 km. Si el presupuesto da para ello, el salto compensa.
 
-### ¿Cómo se actualiza?
-Desde la **app oficial Hiboy** por Bluetooth.
+### ¿Cómo se mantiene actualizado?
+Desde la aplicación oficial de Hiboy, conectada por Bluetooth.
 
-### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
+### ¿Se puede usar legalmente en España?
+Sí, siempre que circule limitado a 25 km/h.
 
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
+### ¿Tiene nota Euro NCAP?
+No: Euro NCAP no evalúa patinetes, así que este modelo no cuenta con una valoración suya.
+
+¿Te han puesto una multa con el patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
 *Fuentes: <a href=https://www.hiboy.com/>Hiboy</a> y <a href=https://www.levyelectric.com/resources/hiboy-electric-scooter-complete-guide>Levy Electric</a>.*`,
   },

@@ -313,9 +313,9 @@ No: el modelo no ha sido probado por EuroNCAP.
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
   },
   {
-    "title": "Jaecoo J6 2025: SUV eléctrico 4x4 de 279 CV",
+    "title": "Jaecoo J6: SUV eléctrico cuadrado de 279 CV y tracción total",
     "slug": "jaecoo-j6-2025-precio",
-    "excerpt": "Ficha técnica del Jaecoo J6 2025: SUV eléctrico de diseño todoterreno con 279 CV, tracción total, batería LFP de 69,8 kWh y 342 km de autonomía. Aún no se vende en España.",
+    "excerpt": "El Jaecoo J6 es un SUV eléctrico cuadrado de 279 CV y tracción total, con batería LFP de 69,8 kWh y 342 km: aún no se vende en España.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "readTime": 7,
@@ -325,9 +325,9 @@ No: el modelo no ha sido probado por EuroNCAP.
 
 **¿Buscas solo los datos?** <a href=/coches/jaecoo-j6-2025-precio-ficha-tecnica/>Ver la ficha técnica del Jaecoo J6</a>: potencia, batería, autonomía y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El **Jaecoo J6** (conocido como Jaecoo 6 en algunos mercados) es el SUV eléctrico más aventurero de la marca china del grupo Chery: un todoterreno de **diseño cuadrado** con **279 CV**, **tracción total**, batería **LFP de 69,8 kWh** fabricada por CATL y **342 km de autonomía WLTP**. Acelera de 0 a 100 en **6,5 segundos**. Aún **no se comercializa en España**, donde Jaecoo vende los modelos 5, 7 y 8.
+## Un todoterreno eléctrico con aspecto de clásico
 
-## Ficha técnica resumida
+Pocos eléctricos compactos se atreven a parecer un todoterreno de verdad. El J6, que en algunos mercados se vende como Jaecoo 6, apuesta por una silueta cuadrada. Los pasos de rueda van marcados. El techo lleva baca. La zaga es vertical y monta pilotos cuadrados. El frontal luce una tira LED que recorre todo el ancho con el nombre de la marca. Con 4,41 metros, su presencia recuerda a la de un todoterreno mucho mayor. Es el SUV eléctrico más aventurero de Jaecoo, la marca del grupo Chery.
 
 | Concepto | Dato |
 |---|---|
@@ -348,61 +348,58 @@ El **Jaecoo J6** (conocido como Jaecoo 6 en algunos mercados) es el SUV eléctri
 
 <a href=/coches/jaecoo-j6-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Jaecoo J6 con galería de fotos</a>
 
-## Un Defender eléctrico en miniatura
+## Dos versiones, una misma batería
 
-Lo primero que llama la atención del J6 es su estética: **líneas rectas, pasos de rueda marcados, baca en el techo y una zaga vertical** con pilotos cuadrados. Mide 4,41 metros, pero su presencia es la de un todoterreno mucho mayor. El frontal lleva una **barra LED de ancho completo** con el nombre de la marca.
+La gama se articula en dos variantes. La de propulsión trasera entrega 184 caballos y homologa 335 kilómetros de autonomía, mientras que la de tracción total alcanza 279 caballos y 342 kilómetros en ciclo WLTP. Ambas comparten un acumulador de litio-ferrofosfato de 69,8 kilovatios hora fabricado por CATL, una química más duradera y segura que las de níquel, manganeso y cobalto. La carga rápida en corriente continua llega a 80 kilovatios. La variante 4WD: el paso de 0 a 100 le lleva 6,5 segundos, su velocidad máxima es de 150 kilómetros por hora y su par máximo llega a 385 newton metro.
 
-Técnicamente hay dos versiones: una de **propulsión trasera con 184 CV** y 335 km de autonomía, y la **4WD de 279 CV** con 342 km. La batería es siempre de **litio-ferrofosfato (LFP)**, más duradera y segura que las NCM, con carga rápida de **80 kW** en corriente continua.
+## Interior y vida a bordo
 
 <img src=/media/jaecoo-j6-2025-precio-ficha-tecnica-interior.webp alt=Interior del Jaecoo J6 2025>
 
-## Interior tecnológico y modos off-road
+Dentro, el J6 apuesta por la tecnología: cuadro digital y una pantalla central de generoso tamaño, además de techo panorámico según versiones. La variante de tracción total ofrece hasta ocho modos de conducción para arena, barro o nieve. El maletero parte de 450 litros y crece hasta 1.238 litros abatiendo los asientos traseros, así que el formato aventurero no está reñido con la carga familiar. Sus cotas son 4.406 milímetros de largo, 1.910 de ancho y 1.715 de alto, con 1.874 kilos de peso: un compacto de presencia seria.
 
-Dentro, el J6 apuesta por la tecnología: **pantalla central grande**, cuadro digital, techo panorámico según versiones y hasta **8 modos de conducción** en la versión 4WD para arena, barro o nieve. Los asientos traseros se abaten para ampliar el maletero de 450 a **1.238 litros**.
+## Del iCar 03 al Jaecoo J6
 
-## Historia: del iCar 03 al Jaecoo J6
+La historia empieza en 2023, cuando Chery presentó el iCar 03, un SUV eléctrico de formas cuadradas para el mercado chino. Al año siguiente, el modelo se exportó a Latinoamérica, Oriente Medio y otros mercados con el nombre Jaecoo 6 o J6. En 2025, Jaecoo consolidó su gama española con los modelos 5, 7 y 8, pero el J6 sigue sin fecha europea y, por tanto, sin precio oficial en España.
 
-- **2023:** Chery presenta el **iCar 03**, un SUV eléctrico cuadrado para el mercado chino.
-- **2024:** el modelo se exporta como **Jaecoo 6 / J6** a Latinoamérica, Oriente Medio y otros mercados.
-- **2025:** Jaecoo consolida su gama en España con los modelos 5, 7 y 8; el J6 sigue sin fecha europea.
+- **2023:** Chery lanza en China el **iCar 03**, un SUV eléctrico de formas cuadradas.
+- **2024:** el modelo sale de China como **Jaecoo 6 / J6** hacia Latinoamérica, Oriente Medio y otros mercados.
+- **2025:** en España, Jaecoo afianza su gama con los 5, 7 y 8; el J6 continúa sin fecha europea.
 
 <img src=/media/jaecoo-j6-2025-precio-ficha-tecnica-oficial.webp alt=Faro delantero del Jaecoo J6 2025>
 
-## Mantenimiento
+## Mantenimiento y garantía
 
-Jaecoo aún no publica el plan de mantenimiento del J6. Como referencia, la marca ofrece en sus modelos **7 años o 150.000 km de garantía** del vehículo y **8 años o 150.000 km** para la batería, cifras muy competitivas. Al ser eléctrico, el mantenimiento se limita a revisiones periódicas, filtro de habitáculo y frenos.
+De momento, Jaecoo no ha publicado el plan de revisiones del J6. Como orientación sirven las coberturas de sus modelos: siete años o 150.000 kilómetros para el vehículo y ocho años o 150.000 kilómetros para la batería. Son coberturas de primer nivel. Como eléctrico, sus revisiones se reducen a lo periódico, al filtro de habitáculo y a los frenos. Su etiqueta DGT es la Cero.
 
-## Precio y rivales
+## Rivales y veredicto
 
-Sin precio europeo, sus rivales conceptuales serían el **Omoda E5** (su primo hermano), el **BYD Atto 3**, el **Kia EV3** y, por estética aventurera, el futuro **Suzuki e-Vitara**. En los mercados donde se vende, se posiciona como una alternativa asequible a los SUV eléctricos compactos premium.
-
-## Veredicto: el eléctrico con más carácter aventurero
-
-El Jaecoo J6 es una propuesta única: ningún otro SUV eléctrico compacto combina un diseño tan todoterreno con 279 CV y tracción total. La batería LFP de CATL y la garantía de 8 años dan confianza, y los 6,5 segundos de 0-100 lo hacen divertido en asfalto.
-
-¿Para quién sería? Para quien quiere un eléctrico que no parezca un electrodoméstico: estética de aventura, prestaciones serias y precio presumiblemente contenido si llega a Europa.
-
-¿Sus pegas? **No se vende en España** y no hay fecha. Además, los 342 km de autonomía y el consumo de 23,7 kWh/100 km son justos para viajar, y la velocidad máxima de 150 km/h limita en autopista. Tampoco tiene prueba EuroNCAP.
+Sin precio europeo, sus rivales conceptuales serían su primo hermano Omoda E5, el BYD Atto 3 y el Kia EV3, además del futuro Suzuki e-Vitara por estética aventurera. El J6 es una propuesta única: ningún rival eléctrico compacto une una imagen tan campera con 279 caballos y tracción total. El acumulador LFP de CATL y la garantía de ocho años transmiten confianza, y el sprint hasta 100 en 6,5 segundos lo hace divertido en asfalto. Sus pegas también están claras: a España no llega y no hay fecha, los 342 kilómetros homologados y un gasto de 23,7 kilovatios hora cada 100 kilómetros resultan justos para viajar, la velocidad máxima de 150 kilómetros por hora limita en autopista, y Euro NCAP no lo ha probado.
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el Jaecoo J6?
-No tiene precio oficial en España: el modelo no se comercializa en Europa.
+### ¿Cuál es su precio?
 
-### ¿Qué autonomía tiene?
-Unos 342 km WLTP en la versión 4WD de 279 CV.
+No existe precio oficial en España: aquí no se vende.
 
-### ¿Es 4x4 de verdad?
-La versión de 279 CV tiene tracción total con dos motores y hasta 8 modos de conducción.
+### ¿Qué acumulador monta?
 
-### ¿Qué batería lleva?
-Una LFP (litio-ferrofosfato) de 69,8 kWh fabricada por CATL, con garantía de 8 años o 150.000 km.
+Uno LFP de 69,8 kilovatios hora fabricado por CATL, con garantía de ocho años o 150.000 kilómetros.
 
-### ¿Qué maletero tiene?
-450 litros, ampliables a 1.238 litros con los asientos abatidos.
+### ¿Cuánto carga el maletero?
 
-### ¿Tiene prueba EuroNCAP?
-No: el modelo no ha sido probado por EuroNCAP.
+450 litros de base, y 1.238 abatiendo la banqueta trasera.
+
+### ¿Tracciona a las cuatro ruedas?
+
+La versión de 279 caballos reparte la fuerza entre los dos ejes con dos motores y hasta ocho modos de conducción.
+
+### ¿Cuánta autonomía homologa?
+
+Unos 342 kilómetros WLTP en la versión 4WD de 279 caballos.
+
+### ¿Lo ha probado Euro NCAP?
+No: Euro NCAP no ha probado este modelo.
 
 *Fuentes: <a href=https://www.auto-data.net/es/jaecoo-j6-69.77-kwh-279hp-electric-4wd-54193>auto-data.net</a>, <a href=https://www.jaecoo.es>Jaecoo España</a>*
 
