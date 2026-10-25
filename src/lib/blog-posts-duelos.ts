@@ -6,9 +6,9 @@ import type { BlogPost } from "./blog-data.ts";
 
 export const DUELOS_POSTS: BlogPost[] = [
   {
-    title: "Renault 5 E-Tech vs Dacia Spring 2026",
+    title: "Renault 5 vs Spring 2026: ¿cuál te conviene más?",
     slug: "renault-5-e-tech-2026-vs-dacia-spring-2026-cual-comprar",
-    excerpt: "El Renault 5 E-Tech parte de 20.170 € con ayudas y el nuevo Dacia Spring baja de los 18.000 €. Comparamos precio, autonomía, potencia y equipamiento",
+    excerpt: "El R5 baja a 20.170 € con ayudas y el Spring nuevo queda por debajo de 18.000 €: autonomía, potencia, carga y equipamiento cara a cara para elegir bien.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -25,13 +25,13 @@ export const DUELOS_POSTS: BlogPost[] = [
     ],
     content: `<img src=/media/renault-5-e-tech-2026-vs-dacia-spring-2026-cual-comprar-hero.webp alt=Comparativa entre el Renault 5 E-Tech y el Dacia Spring 2026, los dos eléctricos urbanos más baratos del mercado>
 
-Los dos eléctricos más baratos con etiqueta Cero se enfrentan: el Renault 5 E-Tech 2026, que con promociones y el Plan Auto+ baja hasta **20.170 €**, y el nuevo Dacia Spring, cuyo precio de partida estará **por debajo de 18.000 €** (unos 13.400 € con ayudas). Los dos son primos del Grupo Renault y los dos son urbanos puros, pero no son el mismo coche ni de lejos.
+Dos primos del Grupo Renault, dos urbanos eléctricos puros y dos planteamientos opuestos: el Renault 5 E-Tech 2026, que gracias al Plan Auto+ y a las promociones queda en **20.170 €**, frente a un Dacia Spring renovado cuyo precio inicial quedará **por debajo de 18.000 €** (alrededor de 13.400 € si se aplican las ayudas). Comparten familia y etiqueta Cero, pero apuntan a compradores distintos.
 
-Si vienes a buscar la respuesta corta: **el Spring es para quien solo quiere el eléctrico más barato para moverse por la ciudad; el R5 es para quien quiere un coche de verdad** con el que también salir de viaje de vez en cuando. Los detalles, en la tabla.
+La recomendación rápida es sencilla: **el Spring encaja con quien busca el eléctrico más asequible posible para la ciudad; el R5 encaja con quien busca un coche completo** que sirva también para algún viaje esporádico. El desglose cifra a cifra está en la tabla siguiente.
 
 Fichas técnicas: <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>ver ficha técnica completa del Renault 5 E-Tech</a> · <a href=/coches/dacia-spring-2026-nueva-generacion-precio/>ver ficha técnica completa del Dacia Spring</a>.
 
-## Tabla comparativa: Renault 5 E-Tech vs Dacia Spring 2026
+## Los dos rivales, frente a frente en la tabla
 
 | Ficha | Renault 5 E-Tech 2026 | Dacia Spring 2026 |
 |---|---|---|
@@ -52,64 +52,63 @@ Fichas técnicas: <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>ver fi
 
 <img src=/media/renault-5-dacia-spring-duelo-cuerpo.webp alt=Renault 5 E-Tech y Dacia Spring en comparativa>
 
-## Análisis: qué ofrece cada uno
+## Qué aporta cada modelo
 
-**Renault 5 E-Tech.** La gama 2026 mantiene las baterías de 40 y 52 kWh, pero exprime su eficiencia con mejoras aerodinámicas: **315 km WLTP** la versión de 40 kWh y **430 km** la de 52 kWh. Los precios oficiales van de 28.085 € (Evolution 120 CV) a 36.585 € (Roland-Garros), aunque con promociones, certificados de ahorro energético y el programa Auto+ el Evolution de 120 CV se queda en 20.170 €. Al fabricarse en Europa, opta a las máximas ayudas. Pendiente queda la versión de acceso **Five** (batería LFP de unos 37 kWh y 95 CV), con pedidos a finales de 2026. Detalles que enamoran: el "5" del capó es un indicador de carga con cinco barras LED, y el asistente Gemini llegará por OTA.
+**Renault 5 E-Tech.** La gama 2026 conserva las dos baterías, de 40 y 52 kWh, y gana alcance gracias a una aerodinámica revisada: **315 km WLTP** con la pequeña y **430 km** con la grande. La lista oficial arranca en 28.085 € para el Evolution de 120 CV y sube hasta 36.585 € en el Roland-Garros, pero sumando promociones, el certificado de ahorro energético y el programa Auto+, ese Evolution de 120 CV baja a 20.170 €. Al estar fabricado en Europa, puede acceder a las ayudas más altas. Queda pendiente la variante de entrada **Five**, con batería LFP de 37 kWh aproximados y 95 CV, que abrirá pedidos a finales de 2026. Dos guiños con encanto: el "5" del capó marca la carga mediante cinco barras LED, y el asistente Gemini se incorporará por OTA.
 
-**Dacia Spring 2026.** Nueva generación sobre la plataforma RGEV Small del Grupo Renault, con cuadro digital de 7", pantalla de hasta 10,1" con CarPlay y Android Auto inalámbricos, y V2L para enchufar pequeños aparatos. Con 80 CV, 250 km de autonomía y 4 plazas, es un coche estrictamente urbano. A su favor: será el eléctrico más barato del mercado (menos de 18.000 €, unos 13.400 € con ayudas) y la nueva generación se fabrica en **Eslovenia** (ya no en China). En contra: las entregas no llegan hasta finales de 2026 o principios de 2027.
+**Dacia Spring 2026.** La nueva generación se apoya en la plataforma RGEV Small del Grupo Renault y añade un cuadro digital de 7", una pantalla de hasta 10,1" compatible con CarPlay y Android Auto sin cables, y V2L para alimentar aparatos pequeños. Con 250 km de autonomía, 80 CV y 4 plazas, su terreno es claramente la ciudad. A su favor juegan dos bazas: será el eléctrico más económico del mercado (menos de 18.000 €, alrededor de 13.400 € si se aplican las ayudas) y la producción se traslada a **Eslovenia**, dejando atrás China. En contra, el calendario: las primeras entregas no se esperan hasta el tramo final de 2026 o el inicio de 2027.
 
-## Pros y contras
+## Luces y sombras de ambos
 
 **Renault 5 E-Tech:**
-- ✅ Desde 20.170 € con ayudas: el eléctrico con más personalidad por ese precio
-- ✅ 430 km WLTP en la versión de 52 kWh
-- ✅ Fabricado en Europa: máximas ayudas del Plan Auto+
-- ✅ Diseño que enamora y etiqueta CERO
-- ❌ Sin ayudas parte de 28.085 €, un salto importante
-- ❌ La versión Five más barata aún no se puede pedir
-- ❌ Solo 5 puertas: no hay versión de 3 como el R5 clásico
+- ✅ Un diseño que enamora, con etiqueta CERO y 430 km WLTP con la batería grande, de 52 kWh
+- ✅ Por 20.170 € con las ayudas, el eléctrico con más carácter en ese rango de precio
+- ✅ Producción europea, lo que le abre las ayudas máximas del Plan Auto+
+- ❌ Sin ayudas, el punto de partida sube a 28.085 €, un salto considerable
+- ❌ La variante Five, la más barata, todavía no admite pedidos
+- ❌ Carrocería solo de 5 puertas: no existe la versión de 3 del R5 clásico
 
 **Dacia Spring 2026:**
-- ✅ Menos de 18.000 € (unos 13.400 € con ayudas): el eléctrico más barato
-- ✅ Fabricado en Europa (Eslovenia), ya no en China
-- ✅ 12,7 kWh/100 km, de los consumos más bajos del mercado
-- ✅ V2L y equipamiento digno por su precio
-- ❌ 250 km de autonomía: solo vale para ciudad y alrededores
-- ❌ 4 plazas y 80 CV: justito para salir a carretera
-- ❌ Entregas a finales de 2026 o principios de 2027
+- ✅ El eléctrico más asequible que se podrá comprar: menos de 18.000 €, alrededor de 13.400 € si se aplican las ayudas
+- ✅ V2L y un equipamiento digno para su precio
+- ✅ 12,7 kWh/100 km: un consumo de los más bajos que hay
+- ✅ Producción en Europa (Eslovenia), no en China
+- ❌ 4 plazas y 80 CV: corto para salir a carretera
+- ❌ 250 km de autonomía: pensado solo para ciudad y alrededores
+- ❌ Las entregas no llegan hasta el tramo final de 2026 o el inicio de 2027
 
-## Veredicto: ¿cuál comprar?
+## La decisión: ¿con cuál te quedas?
 
-**Compra el Dacia Spring 2026 si** tu uso es 100 % urbano, tienes otro coche para viajar (o no viajas) y el presupuesto manda por encima de todo: nada cuesta menos con etiqueta Cero. **Compra el Renault 5 E-Tech si** es tu único coche: por unos 7.000 € más (con ayudas) ganas 40 CV extra, 65-180 km más de autonomía, una quinta plaza, carga rápida de serie y un coche con el que sí puedes salir de la ciudad. No hay trampa: aquí el dinero extra se nota en todo.
+**Elige el Dacia Spring 2026 si** tu día a día es totalmente urbano, ya tienes otro coche para viajar (o directamente no viajas) y el presupuesto pesa más que todo lo demás: con etiqueta Cero, nada sale más barato. **Elige el Renault 5 E-Tech si** será tu único coche: pagando unos 7.000 € más con ayudas, sumas 40 CV, entre 65 y 180 km extra de autonomía, una quinta plaza y carga rápida incluida de serie, además de un coche con el que sí se puede salir de la ciudad. Sin letra pequeña: en este caso, pagar más se traduce en más coche en todo.
 
-Puedes afinar la decisión en nuestro <a href=/comparador-coches/?a=renault-5-e-tech-2026-precio-autonomia&b=dacia-spring-2026-nueva-generacion-precio>comparador del Renault 5 E-Tech y el Dacia Spring</a>, y leer el <a href=/blog/renault-5-e-tech-2026-precio-autonomia/>análisis completo del Renault 5 E-Tech</a> y el <a href=/blog/dacia-spring-2026-nueva-generacion-precio/>análisis completo del Dacia Spring 2026</a>. Tienes las fichas detalladas en <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>ficha del Renault 5 E-Tech</a> y <a href=/coches/dacia-spring-2026-nueva-generacion-precio/>ficha del Dacia Spring</a>. Y recuerda: los dos llevan etiqueta Cero, así que entran en todas las ZBE; repasa nuestra <a href=/guias/zbe/>guía de etiquetas y ZBE</a> si tienes dudas.
+Para cerrar la comparativa, puedes enfrentarlos directamente en nuestro <a href=/comparador-coches/?a=renault-5-e-tech-2026-precio-autonomia&b=dacia-spring-2026-nueva-generacion-precio>comparador del Renault 5 E-Tech y el Dacia Spring</a>, y leer el <a href=/blog/renault-5-e-tech-2026-precio-autonomia/>análisis completo del Renault 5 E-Tech</a> y el <a href=/blog/dacia-spring-2026-nueva-generacion-precio/>análisis completo del Dacia Spring 2026</a>. Las fichas detalladas están en la <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>ficha del Renault 5 E-Tech</a> y en la <a href=/coches/dacia-spring-2026-nueva-generacion-precio/>ficha del Dacia Spring</a>. Y un apunte final: los dos lucen etiqueta Cero, así que acceden a todas las ZBE; si te surgen dudas, consulta nuestra <a href=/guias/zbe/>guía de etiquetas y ZBE</a>.
 
 Fuentes: <a href=https://www.renault.es>Renault España</a> y <a href=https://www.dacia.es>Dacia España</a>.
 
-## Míralo en vídeo
+## El duelo, en vídeo
 
 <iframe src=https://www.youtube.com/embed/ZKkCznUMeYg title="Vídeo: Prueba real del Renault 5 E-Tech en autopista" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=ZKkCznUMeYg>David Fernandez & Cars</a> en YouTube
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuál es más barato, el Renault 5 E-Tech o el Dacia Spring 2026?
-El Dacia Spring, con diferencia: su precio de partida estará por debajo de 18.000 € (unos 13.400 € con ayudas), frente a los 20.170 € del Renault 5 con ayudas o los 28.085 € de PVP sin promociones.
+### ¿Cuál sale más barato, el R5 o el Spring nuevo?
+El Spring, y con margen: su precio inicial quedará por debajo de 18.000 €, alrededor de 13.400 € con las ayudas, frente a los 20.170 € del R5 con ayudas y a los 28.085 € de PVP sin apoyo promocional.
 
-### ¿Cuál tiene más autonomía?
-El Renault 5 E-Tech: 315 km WLTP con la batería de 40 kWh y 430 km con la de 52 kWh, frente a los 250 km del Dacia Spring. El R5 sí puede salir a carretera; el Spring, solo ciudad y alrededores.
+### ¿Quién llega más lejos con una carga?
+El R5 llega más lejos: con la batería pequeña homologa 315 km WLTP y con la grande, 430 km; el Spring se queda en 250 km. El R5 sí permite salir a carretera; el Spring queda para ciudad y alrededores.
 
-### ¿Los dos tienen etiqueta Cero de la DGT?
-Sí, ambos son eléctricos puros y llevan etiqueta Cero, así que entran en todas las zonas de bajas emisiones sin restricciones.
+### ¿Entran los dos en las ZBE?
+Sí: al ser eléctricos puros, ambos lucen etiqueta Cero y pueden circular por cualquier zona de bajas emisiones sin limitaciones.
 
-### ¿Cuándo se puede comprar el nuevo Dacia Spring?
-Las entregas están previstas para finales de 2026 o principios de 2027. El Renault 5 E-Tech, en cambio, ya está a la venta (pendiente solo la versión de acceso Five).
+### ¿Cuándo llegará el Spring nuevo a los clientes?
+Las primeras entregas se esperan entre finales de 2026 y principios de 2027. El R5, en cambio, ya se puede comprar, salvo la variante de acceso Five, aún pendiente.
 
-### ¿El Dacia Spring sirve como único coche?
-Nosotros no lo recomendaríamos como coche único salvo que nunca salgas de la ciudad: 4 plazas, 80 CV, 250 km de autonomía y carga rápida solo opcional. Como segundo coche urbano, es imbatible por precio.
+### ¿Puede el Spring ser el único coche de casa?
+Como coche único, solo lo aconsejaríamos si nunca sales de la ciudad: 250 km de autonomía, 80 CV, 4 plazas y carga rápida solo en opción. Como segundo coche urbano, por precio no tiene rival.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+Si recibes una sanción y sospechas que tiene algún error, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
 `,
   },
   {

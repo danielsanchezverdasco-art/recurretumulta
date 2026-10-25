@@ -941,9 +941,9 @@ Como VMP **limitado a 25 km/h**. Sin homologación DGT para más velocidad.
   },
   {
     slug: "teverun-fighter-supreme",
-    title: "Teverun Fighter Supreme: 10.000 W y 120 km/h",
+    title: "Teverun Fighter Supreme: 10.000 W por 4.500 €",
     excerpt:
-      "El Teverun Fighter Supreme 7260R es el patinete de serie más potente: 10.000 W de pico, batería de 4.320 Wh, 200 km y 120 km/h. Precio y ficha.",
+      "Hiperpatinete 7260R con 10.000 W de pico, 4.320 Wh, 200 km anunciados y 120 km/h. Cuesta 4.499,90 € y solo cabe en circuito privado en España.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -964,9 +964,9 @@ Como VMP **limitado a 25 km/h**. Sin homologación DGT para más velocidad.
 
 **¿Buscas solo los datos?** <a href=/patinetes/teverun-fighter-supreme/>Ver ficha técnica del Teverun Fighter Supreme</a>: 10.000 W, batería y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **Teverun Fighter Supreme 7260R** juega en otra liga: **dos motores de 2.500 W** con **10.000 W de pico**, batería de **4.320 Wh** (72V 60Ah), **200 km declarados** y **120 km/h** de velocidad máxima. Ruedas de **13 pulgadas** y un precio de **4.500 €**. Es el patinete de serie más potente que puedes comprar.
+El Fighter Supreme 7260R de Teverun compite en una categoría aparte: monta dos propulsores de 2.500 W que suman 10.000 W de pico, un acumulador de 4.320 Wh en configuración de 72V y 60Ah, 200 km anunciados y una punta de 120 km/h. Calza ruedas de 13 pulgadas y cuesta 4.500 €, lo que lo sitúa como el patinete de serie con más potencia del mercado.
 
-## Ficha técnica resumida
+## Datos básicos del modelo
 
 | Dato | Valor |
 |---|---|
@@ -980,25 +980,25 @@ El **Teverun Fighter Supreme 7260R** juega en otra liga: **dos motores de 2.500 
 
 ¿Quieres el detalle completo? <a href=/patinetes/teverun-fighter-supreme/>Ficha técnica completa del Teverun Fighter Supreme</a>.
 
-## Precio del Teverun Fighter Supreme en España
+## Cuánto hay que pagar por él
 
-**4.499,90 €** en distribuidores europeos como <a href=https://www.evolt.eu/products/electric-scooter-teverun-fighter-supreme-7260-ultra/>Evolt</a>. A ese precio compite con motos eléctricas de 125 cc con matrícula, ITV y seguro normal: plantéatelo en serio antes de decidir.
+El importe exacto en tiendas europeas es 4.499,90 €, con <a href=https://www.evolt.eu/products/electric-scooter-teverun-fighter-supreme-7260-ultra/>Evolt</a> entre los distribuidores que lo ofrecen. Por esa cantidad, la alternativa real son motocicletas eléctricas de 125 cc, con su matrícula, su ITV y su seguro convencional: una comparación que conviene hacer con calma antes de comprar.
 
 <img src=/media/patinetes/teverun-fighter-supreme-2.webp alt=Detalle de la rueda de 13 pulgadas del Teverun Fighter Supreme>
 
-## Autonomía real vs declarada
+## Alcance homologado frente al alcance real
 
-Los **200 km** son teóricos a ritmo constante y eficiente. En uso real, con 10 kW disponibles tentando la mano derecha, calcula **unos 135 km**, una cifra igualmente absurda para un patinete.
+La cifra de 200 km responde a un ritmo sostenido y eficiente, puramente teórico. En la práctica, con 10 kW empujando a abrir gas, lo razonable es contar con unos 135 km, un registro igualmente desmesurado para un patinete.
 
-## Frenos y neumáticos
+## Frenada y ruedas
 
-Ruedas de **13 pulgadas** —casi de moto— y un equipo de frenos a la altura de 120 km/h. La app oficial de Teverun gestiona el BMS inteligente, los modos de conducción y el bloqueo NFC.
+Las ruedas de 13 pulgadas rozan el tamaño de una moto y la frenada está dimensionada para una punta de 120 km/h. Desde la aplicación oficial de Teverun se ajustan la gestión inteligente de la batería (BMS), el bloqueo NFC y los distintos modos de conducción.
 
-## Certificado DGT y normativa VMP
+## Normativa española y permiso para circular
 
-Ni lo intentes en vía pública: con 120 km/h de máxima, el Supreme **no es un VMP** ni puede serlo. En España solo tiene cabida en **circuito privado**. Circular deslimitado por la calle con algo así es una receta para una multa grave y un problema serio en caso de accidente.
+Olvida la vía pública: con una máxima de 120 km/h, el Supreme queda fuera de la categoría VMP y no puede entrar en ella. Dentro de España, su único escenario es el circuito privado; rodar sin limitación por la calle con un aparato así invita a una sanción grave y a un lío mayúsculo si hay un accidente.
 
-## Puntos fuertes y débiles
+## Virtudes y limitaciones
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -1010,22 +1010,22 @@ Ni lo intentes en vía pública: con 120 km/h de máxima, el Supreme **no es un 
 
 <img src=/media/patinetes/teverun-fighter-supreme-3.webp alt=Teverun Fighter Supreme 7260R en circuito>
 
-## Preguntas frecuentes
+## Dudas habituales
 
 ### ¿Cuánto cuesta el Teverun Fighter Supreme?
-**4.500 €** en distribuidores europeos.
+En tiendas europeas ronda los 4.500 €.
 
 ### ¿Es el patinete más potente del mundo?
-De serie, sí está entre ellos: **10.000 W de pico** y 120 km/h declarados.
+Sin preparaciones, figura entre los primeros del mercado: su ficha anuncia una punta de 120 km/h y un pico de 10.000 W.
 
 ### ¿Qué autonomía real tiene?
-Unos **135 km** en uso mixto, frente a 200 km declarados.
+En uso mixto, alrededor de 135 km, lejos de los 200 km anunciados.
 
-### ¿Puedo circular con él en España?
-**No** en vía pública a su velocidad máxima. Solo circuito privado.
+### ¿Puedo usarlo en la calle en España?
+No: en vía pública, ni a su velocidad máxima; únicamente circuito privado.
 
 ### ¿Supreme o Fighter 11+?
-El Supreme duplica potencia y batería, pero también el precio. El 11+ es más "lógico"; el Supreme es puro exceso.
+La versión Supreme dobla la potencia y la batería, y también el importe. El 11+ resulta más sensato; el Supreme es exceso en estado puro.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 

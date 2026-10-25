@@ -241,9 +241,9 @@ Sí: con 48 CV cumple el límite del **carnet A2** europeo sin necesidad de limi
 *Fuentes: BMW Motorrad (nota de prensa oficial): <a href=https://www.press.bmwgroup.com/global/article/detail/T0460765EN/bmw-motorrad-presents-the-new-bmw-f-450-r?language=en>press.bmwgroup.com</a>; fichas del comparador de motos de RecurreTuMulta.online (BMW F 450 R, Honda CB500 Hornet y Kawasaki Z500); Reglamento General de Conductores (permiso A2, DGT).*`,
 },
 {
-  title: "Monster 2026: 111 CV, 12.990 €",
+  title: "Ducati Monster 2026: V2 de 890 cc y 111 CV",
   slug: "ducati-monster-2026-quinta-generacion-precio-espana",
-  excerpt: "Ducati renueva su icono: la Monster 2026 estrena el V2 de 890 cc con 111 CV, pesa 4 kg menos y parte de unos 12.990 €. Quinta generación del mito nacido en 1993.",
+  excerpt: "Quinta generación de la Monster: V2 de 890 cc con 111 CV, 175 kg sin gasolina y un precio europeo que ronda los 12.990 €.",
   category: "Novedades Motor",
   date: "2026-10-07",
   readTime: 6,
@@ -256,18 +256,18 @@ Sí: con 48 CV cumple el límite del **carnet A2** europeo sin necesidad de limi
   ],
   content: `<img src=/media/ducati-monster-2026-quinta-generacion-precio-espana-hero.webp alt=Moto naked roja italiana en estudio oscuro con iluminación dramática>
 
-La **Monster** cumple más de 30 años y **Ducati** la renueva por quinta vez: la **Monster 2026** estrena el motor **V2 de 890 cc** con **111 CV** y 91,1 Nm, pierde **4 kg** (175 kg sin gasolina) y mantiene la fórmula del icono —depósito musculoso, faro redondo y minimalismo—. El precio base ronda los **12.990 €** en el mercado europeo. Jubila al Testastretta 937 de la generación anterior.
+La **Monster** supera los 30 años y **Ducati** la actualiza por quinta vez: la **Monster 2026** debuta con el motor **V2 de 890 cc**, **111 CV** y 91,1 Nm, recorta **4 kg** (175 kg sin gasolina) y conserva la receta del icono: depósito con músculo, faro redondo y minimalismo. Su precio base se sitúa en torno a los **12.990 €** en el mercado europeo. Releva al Testastretta 937 de la generación anterior.
 
-## Datos clave
+## Lo esencial en pocas líneas
 
-- **Precio:** desde ~12.990 € (mercado europeo)
-- **Motor:** V2 a 90° de 890 cc, 111 CV a 9.000 rpm, 91,1 Nm a 7.250 rpm
-- **Peso:** 175 kg sin combustible (4 kg menos que la anterior)
-- **Electrónica:** ABS en curva, DTC, antiwheelie, quickshift bidireccional, TFT de 5"
-- **Carnet:** A (con 111 CV no es limitable de forma natural al A2)
+- **Motor:** V2 a 90° y 890 cc que entrega 111 CV a 9.000 rpm, con un par de 91,1 Nm a 7.250 rpm
+- **Electrónica:** ABS en curva, DTC, control antiwheelie, quickshift en ambos sentidos y TFT de 5"
+- **Peso:** 175 kg sin gasolina, 4 kg por debajo de la anterior
+- **Precio:** desde unos 12.990 € en el mercado europeo
+- **Carnet:** A; con 111 CV, no admite limitación natural al A2
 - **Fuente:** <a href=https://www.ducati.com/es/es/motocicletas/monster/monster-v2>Ducati oficial: Monster V2</a>
 
-## Monster 2026 en cifras
+## La Monster 2026, en números
 
 | | Ducati Monster 2026 |
 |---|---|
@@ -279,29 +279,29 @@ La **Monster** cumple más de 30 años y **Ducati** la renueva por quinta vez: l
 
 <img src=/media/ducati-monster-2026-quinta-generacion-precio-espana-galeria-1.webp alt=Moto naked roja circulando por una carretera de montaña a la hora dorada>
 
-## El icono, al día
+## Un mito puesto al día
 
-La Monster inventó la naked moderna en 1993 y cada generación ha tenido que responder a la misma pregunta: ¿cómo se moderniza un mito sin traicionarlo? La respuesta de 2026 es el V2 de 890 cc —más ligero, más eficiente y con mejor entrega— y una electrónica que por fin está a la altura de 2026 sin convertir la moto en un ordenador con ruedas.
+La Monster creó la naked moderna en 1993, y sus sucesoras han afrontado siempre el mismo dilema: ¿cómo actualizar un mito sin desvirtuarlo? La respuesta para 2026 pasa por un V2 de 890 cc más eficiente, más ligero y con una entrega mejor, y por una electrónica por fin a la altura de 2026, sin transformar la moto en un ordenador sobre ruedas.
 
-El debate inevitable es el precio: ~12.990 € son unos 6.000 € más que una Yamaha MT-09 con potencia similar. La Monster nunca ha sido la compra racional; es la compra emocional. Y en eso, con este diseño y este motor nuevo, sigue sin rival directo.
+El punto delicado es el precio: unos 12.990 € suponen cerca de 6.000 € por encima de una Yamaha MT-09 de potencia parecida. La Monster jamás ha sido la opción racional; es la opción emocional. Y en ese terreno, con este diseño y este motor nuevo, continúa sin un rival directo.
 
 Ficha completa: <a href=/motos/ducati-monster-2026-ficha-tecnica-precio/>Ducati Monster 2026: ficha técnica y precio</a> · <a href=/comparador-motos/>Comparador de motos</a>
 
 <img src=/media/ducati-monster-2026-quinta-generacion-precio-espana-galeria-2.webp alt=Detalle del faro LED redondo de una moto naked roja>
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
-### ¿Cuánto cuesta la Ducati Monster 2026?
-El precio base en el mercado europeo ronda los **12.990 €**.
+### ¿Qué precio tiene la Monster nueva?
+Su precio base en el mercado europeo se sitúa en torno a los **12.990 €**.
 
-### ¿Qué motor lleva la Monster 2026?
-El nuevo **V2 de 890 cc** con 111 CV a 9.000 rpm y 91,1 Nm, que sustituye al Testastretta 937.
+### ¿Qué propulsor monta la Monster 2026?
+Un **V2 de 890 cc** nuevo que entrega 111 CV a 9.000 rpm, con un par de 91,1 Nm, y releva al Testastretta 937.
 
-### ¿Cuánto pesa la Monster 2026?
-**175 kg sin combustible**, 4 kg menos que la generación anterior.
+### ¿Qué peso declara Ducati para la Monster 2026?
+**175 kg sin gasolina**, con 4 kg menos que la generación anterior.
 
-### ¿La Monster 2026 vale para el carnet A2?
-No de forma natural: con 111 CV es una moto de **carnet A**. Para el A2 habría que limitarla, y no es su hábitat.
+### ¿Sirve la Monster 2026 para el A2?
+No como moto pensada para el A2: con 111 CV pertenece al **carnet A**; en A2 solo cabría limitarla, y no es su terreno.
 `,
 },
 {

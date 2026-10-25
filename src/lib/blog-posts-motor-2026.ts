@@ -113,9 +113,9 @@ Un coche familiar de 646 km de autonomía invita a viajar: si en uno de esos via
 *Fuentes: <a href=https://www.km77.com/coches/skoda/peaq/2027/estandar/listado-completo>ficha técnica y precios del Skoda Peaq en km77</a> y <a href=https://www.coches.net/noticias/prueba-skoda-peaq-presentacion>presentación y prueba del Peaq en coches.net</a>.*`
   },
   {
-    title: "Renault 5 E-Tech 2026: 430 km desde 20.170 €",
+    title: "Renault 5 E-Tech 2026: urbano eléctrico con 430 km",
     slug: "renault-5-e-tech-2026-precio-autonomia",
-    excerpt: "El Renault 5 eléctrico se actualiza para 2026: hasta 430 km WLTP, Gemini vía OTA y precio desde 20.170 € con ayudas. Todos los precios y versiones.",
+    excerpt: "El Renault 5 eléctrico de 2026 ya admite pedidos en España: 315 km con 40 kWh y 430 km con 52 kWh, Gemini por OTA y precio desde 20.170 € con ayudas.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 7,
@@ -128,15 +128,19 @@ Un coche familiar de 646 km de autonomía invita a viajar: si en uno de esos via
       "coche eléctrico urbano barato 2026",
       "Renault 5 E-Tech análisis"
     ],
-    content: `<img src=/media/renault-5-e-tech-2026-precio-autonomia-hero.webp alt=Pequeño coche eléctrico amarillo de diseño retro-futurista aparcado en una calle parisina al amanecer>\n\n**¿Buscas solo los datos?** <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>Ver ficha técnica del Renault 5 E-Tech</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.\n\nEl icono ha vuelto, y ahora con más autonomía. El **Renault 5 E-Tech eléctrico** estrena su actualización 2026 con pedidos ya abiertos en España: la versión de 52 kWh alcanza **430 km WLTP** (20 más que antes) sin cambiar de batería, suma tecnología como el asistente **Gemini de Google** vía actualización remota y anuncia un precio **desde 20.170 euros** con promociones y ayudas. El utilitario eléctrico con más carisma del mercado se pone aún más interesante.
+    content: `<img src=/media/renault-5-e-tech-2026-precio-autonomia-hero.webp alt=Pequeño coche eléctrico amarillo de diseño retro-futurista aparcado en una calle parisina al amanecer>
 
-## La noticia
+**¿Buscas solo los datos?** <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>Ver ficha técnica del Renault 5 E-Tech</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-Renault ha abierto los pedidos de la nueva gama en España. La actualización no cambia las baterías (40 y 52 kWh), sino que exprime su eficiencia con mejoras aerodinámicas (bajos de la carrocería, nuevos retrovisores) y optimizaciones en la electrónica. Resultado: **315 km WLTP** para la batería de 40 kWh (antes 312) y **430 km WLTP** para la de 52 kWh (antes 410).
+## El regreso del icono, ahora con más alcance
 
-La gran novedad pendiente es la versión de acceso **Five**, con batería LFP de unos 37 kWh y 95 CV, cuyos pedidos se abrirán a finales de 2026 y que bajará aún más el precio de entrada.
+España ya admite pedidos de la gama renovada para 2026 del pequeño eléctrico de Renault, un modelo que recupera el mito del R5 original y que ahora recorre más kilómetros con cada carga. La renovación no sustituye los acumuladores: mantiene los de 40 y 52 kWh y les saca más partido. Entre las novedades tecnológicas destaca la llegada del asistente Gemini de Google, que se instalará mediante una actualización remota, y el precio de acceso, que con promociones y ayudas se queda en 20.170 euros.
 
-## Precio y versiones en España
+## Qué cambia en autonomía y eficiencia
+
+La mejora llega por la vía de la eficiencia, no por baterías nuevas. Renault ha trabajado los bajos de la carrocería, ha estrenado retrovisores y ha optimizado la electrónica, y el resultado se nota en las dos versiones: la de 40 kWh pasa de 312 a 315 km WLTP, mientras que la de 52 kWh sube de 410 a 430 km WLTP, es decir, 20 km más que antes. Todavía queda pendiente la variante de acceso, la Five: llevará un acumulador LFP de unos 37 kWh, con 95 CV, y la apertura de pedidos queda fijada para finales de 2026, lo que servirá para bajar aún más el precio de entrada.
+
+## Precios oficiales y precio con ayudas
 
 Precios recomendados oficiales (sin promociones):
 
@@ -149,7 +153,7 @@ Precios recomendados oficiales (sin promociones):
 | Iconic Cinq | 150 CV | 52 kWh | 35.085 € |
 | Roland-Garros | 150 CV | 52 kWh | 36.585 € |
 
-Con promociones, certificados de ahorro energético y el programa Auto+, el precio de partida baja hasta **20.170 euros** para el Evolution de 120 CV. Al fabricarse en Europa, opta a las máximas ayudas del Plan Auto+.
+Al aplicar promociones, además de certificados de ahorro energético y del programa Auto+, el punto de partida desciende hasta 20.170 euros, en concreto para el Evolution de 120 CV. Como el coche se fabrica en Europa, puede optar a las máximas ayudas del Plan Auto+. Ese origen europeo supone, por tanto, una ventaja a la hora de pedir incentivos.
 
 <img src=/media/renault-5-e-tech-2026-precio-autonomia-oficial.webp alt=Renault 5 E-Tech eléctrico 2026, vista frontal tres cuartos>
 
@@ -157,15 +161,15 @@ Con promociones, certificados de ahorro energético y el programa Auto+, el prec
 
 ¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
-## Curiosidades que quizá no sabías
+## Detalles que no se ven a primera vista
 
-- **Gemini llega por OTA**: el asistente de Google sustituirá a Google Assistant mediante una actualización remota, sin pasar por el taller.
-- **El "5" del capó es un indicador de carga**: el logotipo iluminado tiene cinco barras LED, cada una representa un 20 % de la batería.
-- **Nuevo Rojo Deseo**: se suma a la paleta junto al Gris Pizarra metalizado, con techo en negro brillante y adhesivos personalizables.
-- **Modo Smart**: sustituye al modo Perso y elige solo entre Eco, Comfort y Sport según cómo conduzcas.
-- **El R5 original vendió 5,5 millones de unidades** entre 1972 y 1984: el eléctrico tiene la difícil misión de estar a la altura del mito.
+- El R5 original, vendido entre 1972 y 1984, alcanzó 5,5 millones de unidades: el eléctrico actual debe medirse con aquel mito.
+- Gemini llegará por OTA: el asistente de Google relevará a Google Assistant con una actualización remota, sin acudir al taller en ningún momento.
+- El «5» del capó funciona como indicador de carga: su logotipo iluminado integra cinco barras LED, y cada una equivale a un 20 % de la batería.
+- La paleta suma un Nuevo Rojo Deseo, que se añade al Gris Pizarra metalizado, mientras el techo va pintado en negro brillante y admite adhesivos personalizables.
+- El Modo Smart reemplaza al modo Perso y deja la elección entre Eco, Comfort y Sport en función de cómo se conduzca.
 
-## Rivales directos
+## Contra quién compite
 
 | Modelo | Autonomía (WLTP) | Precio desde (con ayudas) |
 |---|---|---|
@@ -177,7 +181,7 @@ Con promociones, certificados de ahorro energético y el programa Auto+, el prec
 
 Los hemos enfrentado en detalle: <a href=/blog/renault-5-e-tech-2026-vs-dacia-spring-2026-cual-comprar/>Duelo Renault 5 E-Tech vs Dacia Spring</a> y <a href=/blog/renault-4-e-tech-vs-renault-5-e-tech-cual-comprar/>Duelo Renault 4 E-Tech vs Renault 5 E-Tech</a>.
 
-## Pros y contras
+## Puntos fuertes y puntos débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -193,27 +197,34 @@ Vídeo: <a href=https://www.youtube.com/watch?v=_WZSt4dvvag>km77</a> en YouTube.
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el Renault 5 E-Tech 2026 en España?
-El precio recomendado parte de 28.085 euros, pero con promociones, certificados de ahorro energético y el Plan Auto+ baja hasta 20.170 euros en la versión Evolution de 120 CV.
+### ¿Admite carga rápida el Renault 5?
 
-### ¿Qué autonomía tiene el Renault 5 eléctrico 2026?
-315 km WLTP con la batería de 40 kWh y 430 km WLTP con la de 52 kWh. La futura versión Five con batería LFP rondará los 315 km según la cifra anunciada, aún pendiente de confirmación oficial.
-
-### ¿Cuándo se puede pedir el Renault 5 Five?
-Los pedidos de la versión de acceso Five, con batería LFP de unos 37 kWh, se abrirán a finales de 2026. Será la opción más barata de la gama.
-
-### ¿El Renault 5 E-Tech tiene carga rápida?
-Sí: hasta 80 kW en la versión de 40 kWh y hasta 100 kW en la de 52 kWh en corriente continua. En alterna carga a 11 kW (el cargador de 22 kW es opcional).
+Sí: en continua llega hasta 80 kW con la batería de 40 kWh, y hasta 100 kW con la de 52 kWh. En alterna, trabaja a 11 kW, mientras el cargador de 22 kW queda como opción.
 
 ### ¿Tiene etiqueta CERO de la DGT?
-Sí, al ser 100 % eléctrico. Puede circular por todas las ZBE sin restricciones. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
-### ¿Merece la pena frente al Citroën ë-C3 o el BYD Dolphin Surf?
-El R5 es más caro pero ofrece más autonomía en la versión de 52 kWh, mejor comportamiento dinámico y un diseño muy superior. Si buscas el precio más bajo posible, el ë-C3 y el Dolphin Surf aprietan fuerte.
+Sí, porque es 100 % eléctrico. Eso le permite entrar en todas las ZBE sin limitaciones. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+
+### ¿Cuándo abrirán los pedidos de la Five?
+
+La variante de acceso Five, con un acumulador LFP de unos 37 kWh, abrirá sus pedidos a finales de 2026. Quedará como la alternativa de menor precio de toda la gama.
+
+### ¿Cuál es el precio en España del Renault 5 E-Tech 2026?
+
+El precio recomendado arranca en 28.085 euros, pero al sumar promociones, certificados de ahorro energético y ayudas del Plan Auto+, desciende hasta 20.170 euros, en el Evolution de 120 CV, la más accesible de la gama.
+
+### ¿Qué alcance homologa el Renault 5 eléctrico 2026?
+
+La batería de 40 kWh homologa 315 km WLTP y la de 52 kWh, 430 km WLTP. Para la futura Five, con acumulador LFP, se anuncia un alcance cercano a 315 km, una cifra todavía pendiente de confirmación oficial.
+
+### ¿Compensa frente al Citroën ë-C3 o al BYD Dolphin Surf?
+
+El R5 sale más caro, pero con la batería de 52 kWh ofrece mayor alcance, una dinámica mejor y un diseño muy superior. Si la prioridad es gastar lo menos posible, los dos rivales citados presionan con fuerza en precio.
 
 ¿Te ha llegado una multa y no sabes si recurrirla? <a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagar: en 20 días se juega el descuento y el derecho a recurrir.
 
-*Fuentes: <a href=https://www.Renault.es/electricos/r5-e-tech-electrico/precios-versiones.html?gradeCode=ENS_MDL2P1SERIELIM1>configurador oficial de Renault España</a> y <a href=https://forococheselectricos.com/noticias/renovado-renault-5-precio-espana-20261001-42266.html>precios y autonomías 2026 en forococheselectricos.com</a>.*`
+*Fuentes: <a href=https://www.Renault.es/electricos/r5-e-tech-electrico/precios-versiones.html?gradeCode=ENS_MDL2P1SERIELIM1>configurador oficial de Renault España</a> y <a href=https://forococheselectricos.com/noticias/renovado-renault-5-precio-espana-20261001-42266.html>precios y autonomías 2026 en forococheselectricos.com</a>.*
+`
     },
 {
   "title": "Tesla Roadster 2026: 1.000 km prometidos tras 9 años",

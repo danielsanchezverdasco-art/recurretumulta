@@ -315,9 +315,9 @@ Aún **sin confirmar**: Volkswagen no ha publicado precios. Se esperan en el est
 *Fuentes: <a href=https://www.volkswagen.es>Volkswagen España (web oficial)</a>, <a href=https://www.euroncap.com>Euro NCAP</a>*`,
 },
 {
-  title: "VW ID. Polo GTI: 226 CV eléctricos",
+  title: "VW ID. Polo GTI eléctrico: 226 CV y ≈39.000 €",
   slug: "volkswagen-id-polo-gti-electrico-2026-precio",
-  excerpt: "El primer GTI eléctrico ya tiene datos oficiales: 226 CV, 6,8 s de 0-100 y más de 424 km WLTP. Precio estimado en España ≈39.000 € (no oficial). Análisis y ficha técnica.",
+  excerpt: "Primer GTI sin gasolina: 226 CV, 6,8 s hasta 100 km/h y más de 424 km WLTP. Precio en España estimado en ≈39.000 €, sin confirmar por Volkswagen.",
   category: "Novedades Motor",
   date: "2026-10-08",
   readTime: 7,
@@ -331,20 +331,20 @@ Aún **sin confirmar**: Volkswagen no ha publicado precios. Se esperan en el est
   ],
   content: `<img src=/media/volkswagen-id-polo-gti-electrico-2026-precio-hero.webp alt=Hot hatch eléctrico rojo en una carretera de montaña al atardecer, imagen editorial>
 
-Medio siglo después del primer Golf GTI, las tres letras más famosas del automovilismo alemán se enchufan: el **Volkswagen ID. Polo GTI** es el **primer GTI 100 % eléctrico** de la historia, y ya hay datos oficiales. **226 CV**, 0-100 km/h en **6,8 segundos** y una autonomía WLTP provisional de **más de 424 km**. El precio en España aún no es oficial: nuestra estimación defendible, basada en el anuncio de Volkswagen, ronda los **≈39.000 €** (precio NO oficial).
+Cincuenta años después de que el Golf GTI original estrenara unas siglas hoy legendarias, Volkswagen las conecta a la corriente: el ID. Polo GTI inaugura la saga deportiva sin motor de combustión, y la marca ya ha difundido sus registros homologados. Anuncia 226 CV, un sprint hasta 100 km/h resuelto en 6,8 segundos y un alcance WLTP todavía provisional por encima de 424 km. Para España todavía no existe tarifa confirmada: el cálculo que manejamos, apoyado en lo comunicado por Volkswagen, se sitúa alrededor de ≈39.000 €, cifra que recalcamos como NO oficial.
 
-## Datos clave
+## Cifras esenciales
 
-- **Potencia:** 166 kW (**226 CV**), 290 Nm, tracción delantera (plataforma MEB+)
-- **Prestaciones:** 0-100 km/h en 6,8 s; velocidad máxima de **175 km/h**
-- **Batería:** 52 kWh netos (NMC); carga rápida DC de **105 kW**
-- **Autonomía:** más de **424 km WLTP** (provisional); consumo 14,4-16,4 kWh/100 km
-- **Medidas:** 4.096/1.816/1.513 mm; batalla 2.599 mm; 1.540 kg
-- **Precio estimado España:** **≈39.000 €** (NO oficial: preventa en Alemania desde 39.995 €; VW anunció "ligeramente inferior a 39.000 €" para la preventa de otoño)
-- **Etiqueta DGT:** Cero
-- **Fuente:** <a href=https://www.volkswagen-newsroom.com/en/press-releases/100-per-cent-electric-100-per-cent-gti-volkswagen-presents-the-allnew-electric-id-polo-gti-20375/download>comunicado oficial de Volkswagen</a> y <a href=https://www.autonocion.com/id-polo-gti-electrico-precio-equipamiento-detalles/>Autonoción</a>
+- **Potencia y par:** el motor delantero entrega 166 kW, equivalentes a 226 CV, con 290 Nm; la tracción va al eje anterior y la base es la plataforma MEB+.
+- **Aceleración y punta:** el sprint hasta 100 km/h se completa en 6,8 s y la velocidad máxima queda fijada en 175 km/h.
+- **Batería y recarga:** 52 kWh netos de química NMC, con picos de carga rápida en corriente continua de 105 kW.
+- **Alcance y gasto:** supera los 424 km WLTP según la cifra aún provisional, y el consumo homologado oscila entre 14,4 y 16,4 kWh/100 km.
+- **Dimensiones y masa:** 4.096 mm de largo, 1.816 de ancho y 1.513 de alto; la distancia entre ejes alcanza 2.599 mm y el peso declarado es 1.540 kg.
+- **Precio previsto en España:** alrededor de ≈39.000 €, siempre como estimación NO oficial; en Alemania la preventa arrancó en 39.995 € y Volkswagen avanzó que la preventa otoñal quedaría «ligeramente inferior a 39.000 €».
+- **Distintivo ambiental:** etiqueta Cero de la DGT.
+- **Fuentes:** <a href=https://www.volkswagen-newsroom.com/en/press-releases/100-per-cent-electric-100-per-cent-gti-volkswagen-presents-the-allnew-electric-id-polo-gti-20375/download>comunicado oficial de Volkswagen</a> y <a href=https://www.autonocion.com/id-polo-gti-electrico-precio-equipamiento-detalles/>Autonoción</a>
 
-## Ficha técnica del ID. Polo GTI
+## Especificaciones oficiales
 
 | Característica | Dato oficial |
 |---|---|
@@ -362,34 +362,34 @@ Medio siglo después del primer Golf GTI, las tres letras más famosas del autom
 
 <img src=/media/volkswagen-id-polo-gti-electrico-2026-precio-galeria-1.webp alt=Hot hatch eléctrico rojo de tres cuartos trasero en un circuito al amanecer, imagen editorial>
 
-## Un GTI de verdad, sin gasolina
+## Un GTI auténtico, ahora sin gasolina
 
-Volkswagen no se ha limitado a pegar el logo: el ID. Polo GTI estrena puesta a punto específica, diferencial electrónico y la estética GTI de siempre (detalles rojos, asientos deportivos). Con 226 CV es el utilitario eléctrico alemán más divertido sobre el papel, y su rival natural —el Alpine A290— aún no tiene ficha en nuestro comparador: cuando la tenga, habrá duelo. De momento, <a href=/coches/volkswagen-id-polo-gti-2026-precio-ficha-tecnica/>consulta la ficha técnica completa del ID. Polo GTI</a> con fotos oficiales, o <a href=/coches/volkswagen-id-polo-2026-precio-ficha-tecnica/>mira la versión normal del ID. Polo</a> si buscas algo más racional.
+La marca no se conforma con añadir unas siglas al portón: este Polo GTI debuta con una calibración de chasis propia, diferencial electrónico y los guiños visuales habituales de la saga (toques rojos y butacas deportivas). Sus 226 CV lo colocan, en teoría, como el utilitario eléctrico germano más entretenido de conducir, y su adversario directo, el Alpine A290, todavía carece de ficha en nuestro comparador: en cuanto la publiquemos, los enfrentaremos. Mientras tanto, <a href=/coches/volkswagen-id-polo-gti-2026-precio-ficha-tecnica/>consulta la ficha técnica completa del ID. Polo GTI</a> con fotos oficiales, o <a href=/coches/volkswagen-id-polo-2026-precio-ficha-tecnica/>mira la versión normal del ID. Polo</a> para un planteamiento más sensato.
 
-## El precio, con lupa
+## El precio, bajo la lupa
 
-Volkswagen abrió la preventa en Alemania en **39.995 €** y comunicó que la preventa de otoño quedará "**ligeramente inferior a 39.000 €**". Nuestra estimación para España —**≈39.000 €**— se basa en ese anuncio oficial, no en una conversión de divisa, y va marcada como **NO oficial** en todos los sitios donde aparece. En cuanto Volkswagen publique la tarifa española, la sustituiremos. <a href=/comparador-coches/>Compáralo con sus rivales en el comparador</a>.
+En Alemania la reserva anticipada se abrió en 39.995 €, y la compañía comunicó que la preventa otoñal se situaría «ligeramente inferior a 39.000 €». El cálculo para España, en torno a ≈39.000 €, descansa en ese comunicado oficial y no en un cambio de moneda, y aparece señalado como NO oficial en cada lugar donde figura. Cuando Volkswagen difunda la tarifa española, lo actualizaremos. <a href=/comparador-coches/>Compáralos con sus rivales en el comparador</a>.
 
 <img src=/media/volkswagen-id-polo-gti-electrico-2026-precio-galeria-2.webp alt=Interior deportivo de un hot hatch eléctrico con costuras rojas, imagen editorial>
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuánto cuesta el Volkswagen ID. Polo GTI en España?
-Aún sin precio oficial. Estimamos **≈39.000 €** (no oficial) a partir del anuncio de Volkswagen para la preventa europea.
+### ¿Qué precio tendrá en España el ID. Polo GTI?
+Todavía no hay tarifa oficial. Nuestro cálculo ronda ≈39.000 € (no oficial) y parte del comunicado de Volkswagen sobre la preventa europea.
 
-### ¿Qué autonomía tiene el ID. Polo GTI?
-Más de **424 km WLTP** según la cifra provisional de Volkswagen, con batería de 52 kWh netos.
+### ¿Qué alcance homologado ofrece el ID. Polo GTI?
+Supera los 424 km WLTP según la cifra provisional difundida por Volkswagen, con una batería de 52 kWh netos.
 
-### ¿Cuándo llega a España?
-La preventa europea está abierta; las primeras entregas se esperan para **2026**. Sin fecha concreta para España todavía.
+### ¿Cuándo se podrá comprar en España?
+La preventa europea ya está en marcha; las primeras entregas se prevén durante 2026. Falta una fecha específica para España.
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
 },
 {
-  title: "Dacia Striker: menos de 25.000 €",
+  title: "Dacia Striker 2026: familiar híbrido por menos de 25.000 €",
   slug: "dacia-striker-2026-precio-ficha",
-  excerpt: "Dacia desvela el Striker en el Salón de París: crossover familiar de 4,62 m con 600 litros de maletero, versiones híbrida, 4x4 y GLP, y precio por debajo de 25.000 €. Lo que se sabe.",
+  excerpt: "El Striker debuta en París con 4,62 m, 600 litros de maletero y tres mecánicas electrificadas: híbrida, 4x4 y GLP. Precio anunciado por debajo de 25.000 €.",
   category: "Novedades Motor",
   date: "2026-10-08",
   readTime: 6,
@@ -403,45 +403,45 @@ La preventa europea está abierta; las primeras entregas se esperan para **2026*
   ],
   content: `<img src=/media/dacia-striker-2026-precio-ficha-hero.webp alt=Crossover familiar verde oscuro en una carretera rural europea, imagen editorial>
 
-**Dacia** vuelve a hacer lo que mejor sabe: romper el mercado por precio. El **Striker**, que debuta mundialmente en el **Salón de París (12-18 de octubre)**, es un crossover familiar de **4,62 metros** con **600 litros de maletero**, tres mecánicas electrificadas (híbrida, 4x4 híbrida y GLP) y un precio anunciado por la marca **por debajo de los 25.000 €** en Europa. Los pedidos se abren este mismo mes de octubre.
+**Dacia** ataca de nuevo donde más daño hace a la competencia: el bolsillo. Su nuevo **Striker** se presenta al mundo en el salón parisino, entre el 12 y el 18 de octubre, mide **4,62 metros**, ofrece **600 litros de maletero** y llegará con tres opciones electrificadas —híbrida, 4x4 híbrida y GLP— a un precio que la marca sitúa por debajo de 25.000 € en Europa, con la apertura de pedidos dentro de este mismo mes de octubre.
 
-## Datos clave
+## Lo esencial, en cifras
 
-- **Debut mundial:** Salón de París, 12 de octubre de 2026; pedidos desde octubre de 2026
-- **Medidas:** 4.620/1.824/1.525 mm; batalla 2.704 mm; maletero de **600 L** (1.600 L con asientos abatidos)
-- **Hybrid 155:** 1.8 gasolina + motor eléctrico, **153 CV**, tracción delantera
-- **Hybrid 150 4x4:** 1.2 turbo + motor eléctrico trasero, **150 CV**, modos nieve/arena/barro
-- **BiFuel-G 140:** GLP + microhibridación 48V, hasta **1.500 km** de autonomía
-- **Etiqueta DGT:** ECO en toda la gama
-- **Precio:** por debajo de **25.000 €** en Europa (anuncio oficial de Dacia); sin tarifa española publicada aún
+- **Presentación mundial:** París, 12 de octubre de 2026; los pedidos arrancan en octubre de 2026
+- **Dimensiones:** 4.620/1.824/1.525 mm; distancia entre ejes de 2.704 mm; maletero de 600 L, que suben a 1.600 L si se abaten los asientos
+- **Hybrid 155:** combina un 1.8 de gasolina con un eléctrico y rinde **153 CV** a las ruedas delanteras
+- **Hybrid 150 4x4:** une un 1.2 turbo a un eléctrico trasero, entrega **150 CV** y añade programas para nieve, arena y barro
+- **BiFuel-G 140:** GLP con microhibridación de 48V y autonomía de hasta **1.500 km**
+- **Distintivo DGT:** ECO en todas las versiones
+- **Precio:** menos de **25.000 €** en Europa (según el anuncio oficial de Dacia); todavía no hay tarifa española publicada
 - **Fuente:** <a href=https://media.dacia.com/>centro de prensa oficial de Dacia</a>, <a href=https://www.carwow.es/dacia/noticias/8328/dacia-salon-paris-2026-estrenos-striker-spring>carwow España</a> y <a href=https://www.autohebdosport.com/coches/noticias/dacia-striker-asi-es-el-nuevo-crossover-electrificado-que-llegara-por-menos-de-25-000-euros>AutoHebdo Sport</a>
 
-## Tres mecánicas, una filosofía
+## Tres formas de moverse, la misma idea
 
-El Striker no apuesta por una sola tecnología: el **Hybrid 155** es el familiar eficiente de diario, el **Hybrid 150 4x4** añade tracción total real con motor eléctrico trasero para quien necesita campo, y el **BiFuel-G 140** de GLP promete hasta **1.500 km** sin repostar a precio de risa por kilómetro. Todas con etiqueta **ECO**. Es la receta Dacia aplicada al segmento que más crece en España: el crossover familiar.
+En lugar de imponer una única tecnología, el Striker reparte papeles: el **Hybrid 155** cubre el uso diario con eficiencia, el **Hybrid 150 4x4** suma tracción total auténtica gracias a su eléctrico trasero para quien sale del asfalto, y el **BiFuel-G 140** de GLP aguanta hasta **1.500 km** sin repostar con un coste por kilómetro mínimo. En común, el distintivo **ECO**. La fórmula Dacia, en definitiva, aterriza en el segmento con más tirón en España: el crossover familiar.
 
 <iframe src=https://www.youtube.com/embed/FwGLIUtMroU title="Vídeo: Dacia Striker, primera toma de contacto" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Primera toma de contacto con el Dacia Striker, por <a href=https://www.youtube.com/watch?v=FwGLIUtMroU>carwow España</a>.
+El canal <a href=https://www.youtube.com/watch?v=FwGLIUtMroU>carwow España</a> graba su primera toma de contacto con el modelo.
 
 <img src=/media/dacia-striker-2026-precio-ficha-galeria-1.webp alt=Crossover familiar verde oscuro de perfil en un concesionario, imagen editorial>
 
-## Dónde se coloca
+## Con quién se mide
 
-Con 4,62 m y 600 litros de maletero, el Striker juega en la liga del Skoda Octavia Combi pero a precio Dacia: por debajo de 25.000 € no hay rival familiar híbrido que se le acerque. En casa compite con su hermano mayor, el <a href=/coches/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica/>Bigster Hybrid 155</a>. <a href=/comparador-coches/>Compáralos en nuestro comparador de coches</a> cuando Dacia publique la tarifa española.
+Por tamaño y por sus 600 litros de maletero, el Striker mira de tú a tú al Skoda Octavia Combi, pero con tarifa Dacia: por debajo de 25.000 € no existe otro familiar híbrido que se le acerque. Dentro de la propia casa, su rival interno es el hermano mayor, el <a href=/coches/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica/>Bigster Hybrid 155</a>. <a href=/comparador-coches/>Compáralos en nuestro comparador de coches</a> en cuanto Dacia publique la tarifa española.
 
 <img src=/media/dacia-striker-2026-precio-ficha-galeria-2.webp alt=Maletero amplio de un crossover familiar con maletas, imagen editorial>
 
-## Preguntas frecuentes
+## Lo que más se pregunta
 
-### ¿Cuánto cuesta el Dacia Striker?
-Dacia anuncia un precio **por debajo de 25.000 €** en Europa. La tarifa española aún no se ha publicado.
+### ¿Qué precio anuncia Dacia para el Striker?
+Dacia lo sitúa en menos de 25.000 € en Europa. La tarifa para España sigue sin publicarse.
 
-### ¿Cuándo se puede comprar el Dacia Striker?
-Debuta en el Salón de París el **12 de octubre de 2026** y los pedidos se abren ese mismo mes.
+### ¿Cuándo se podrá comprar el Dacia Striker?
+El debut es el 12 de octubre de 2026, en el Salón de París, y los pedidos arrancan ese mismo mes.
 
-### ¿Qué motores tiene el Dacia Striker?
-Tres: **Hybrid 155** (153 CV), **Hybrid 150 4x4** (150 CV con tracción total) y **BiFuel-G 140** de GLP con hasta 1.500 km de autonomía.
+### ¿Qué motores ofrece el Dacia Striker?
+La gama arranca con el BiFuel-G 140 de GLP (hasta 1.500 km de autonomía), sigue con el Hybrid 155 (153 CV) y se completa con el Hybrid 150 4x4 (150 CV y tracción total).
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
