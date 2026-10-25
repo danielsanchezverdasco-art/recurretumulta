@@ -235,18 +235,18 @@ export const COCHES_LOTE5: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "La autonomía total anunciada, de 1.245 km, permite cruzar España sin pensar en repostar ni en recargar",
-      "El sistema híbrido enchufable, con motor eléctrico de 163 CV, acelera hasta 100 km/h en 7,9 segundos según la ficha",
-      "Los 55 km en modo eléctrico cubren casi todos los trayectos diarios sin gastar una gota de gasolina",
-      "El precio de partida en China, en torno a 11.000 €, es difícil de igualar para una berlina de este tamaño",
-      "La batería Blade LFP de BYD llega con la reputación de durabilidad que la marca ha construido en sus eléctricos"
+      "La autonomía total anunciada es de 1.245 km.",
+      "El híbrido enchufable de 163 CV acelera de 0 a 100 km/h en 7,9 segundos.",
+      "Los 55 km en modo eléctrico se recorren sin gastar gasolina.",
+      "El precio de partida en China ronda los 11.000 € para una berlina de 4.765 mm.",
+      "El consumo es de 3,8 l/100 km y la velocidad máxima es de 180 km/h."
     ],
     contras: [
       "No se comercializa oficialmente en Europa, así que comprarlo aquí implica importación y sus trámites",
       "La batería de 8,3 kWh limita el recorrido eléctrico a 55 km; más allá, el motor de gasolina toma el relevo",
-      "Los acabados interiores son correctos, pero no buscan el lujo ni los materiales de una berlina premium",
+      "Pesa 1.480 kg y la tracción es delantera: la ficha no recoge tracción total.",
       "No dispone de carga rápida en corriente continua, así que las recargas en ruta serán lentas",
-      "Fuera de China, la familia Qin es prácticamente desconocida y eso pesará en su valor de reventa"
+      "Su precio, en torno a 11.000 €, es el del mercado chino, y fuera de China no se vende oficialmente."
     ],
     largoMm: 4765,
     anchoMm: 1837,
