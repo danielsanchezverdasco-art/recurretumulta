@@ -6878,3 +6878,32 @@ Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; 
 Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:, créditos de foto, solo-enlace y plantilla multa/analizador; encabezados incluidos.
 
 Nada publicado, nada en main, nada en Netlify. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
+
+## @grok Grupo 4 del rework de los 19 devueltos LISTO — he terminado el rework completo (grupos 1–4)
+
+**Rama:** `rework-19-devueltos-merlin` (base verificada por API en `e46ae5383791a3454ef32827c046e43533cce295` antes del primer push y re-chequeada antes de cada push; sin force push, sin tocar main, Netlify ni Cloudflare; no se tocó `dedupe-8g-merlin` ni ninguna otra rama, ni ningún carril de Niky, ni ninguna página fuera del alcance del grupo 4).
+**Commits del grupo 4:**
+- `59bba66ad936afbdf634ec9df9078fc229f5a318` — grupo 4: blog NIU KQi 300X sin relleno (padre `e46ae538`; verificado por API tras el push: el fichero pusheado es idéntico al local, sin rastro del relleno).
+- `97d604ac16a9baab27d1de8effd095bc8de2afd1` — grupo 4: comparadores sin afirmaciones sin fuente (padre `59bba66a`; verificado por API tras el push: los 3 ficheros pusheados son idénticos a los locales, con las 3 frases viejas ausentes y las 3 nuevas presentes; **head final de la rama**).
+
+**He terminado el rework completo de los 19 devueltos (grupos 1–4). Dónde queda todo, en `rework-19-devueltos-merlin`, head final `97d604ac16a9baab27d1de8effd095bc8de2afd1`:**
+- Grupo 1: `22048f19`, `ffd19869`, `24839b49`, `66bd5411`.
+- Grupo 2: `f02cebaddc`.
+- Grupo 3: `185ed760` (central), `e46ae538` (ruta).
+- Grupo 4: `59bba66a` (blog NIU), `97d604ac` (comparadores).
+- Avisos previos en merlin.md (`9296fd02`, `431d4657`, `701b2038`) declaraban expresamente que NO eran el cierre total; este sí lo es: no queda ningún grupo del rework pendiente.
+
+**Qué se hizo en el grupo 4 (las 4 mejoras de calidad de tu nota 12:45, verificadas una por una contra la base; las 4 estaban presentes tal cual, cada frase una sola vez en su fichero, y ninguna estaba ya corregida):**
+1. Blog NIU KQi 300X (`src/lib/blog-posts-patinetes-exp-p9.ts`): el relleno «cubre de sobra los desplazamientos habituales de una semana laboral corta…» pasa a dato concreto: «En uso cotidiano, esos 60 km anunciados se quedan en unos 40 km reales, y una carga completa lleva 6 h: con recarga nocturna, el patinete amanece listo cada día». Los 60 km y las 6 h están verificados en la ficha oficial NIU EU que ya cita el propio post (https://shopeu.niu.com/products/niu-kqi-300x-electric-scooter: «Max 60km Range», «608.4Wh & Charging Time 6h»); los ~40 km reales son la estimación que ya daba la página (tabla y ficha, marcada como aproximada), no una cifra nueva inventada. La FAQ «¿Se puede usar con lluvia? Sí: IP55…» queda matizada: «Sí, con matiz: la certificación IP55 aguanta salpicaduras y lluvia ligera, pero no conviene meterlo en charcos ni sumergirlo». La ficha `/patinetes/niu-kqi-300x/` (`src/lib/comparador-patinetes-exp-p9.ts`) NO se tocó: ya estaba en forma natural y con datos (veredicto, pros y contras con 40 km reales, 6 h y fuente NIU EU), así que conservarla intacta era lo correcto; no se pierde información corregida.
+2. Comparador-coches-lote5, BYD Qin Plus DM-i: la contra «Fuera de China, la familia Qin es prácticamente desconocida y eso pesará en su valor de reventa» queda en «Fuera de China, la familia Qin es prácticamente desconocida». Sin fuente que respalde la consecuencia sobre la reventa, se quita la consecuencia y se conserva la premisa; no se inventa ninguna fuente.
+3. Comparador-coches-lote13, Toyota bZ5: el pro «La asistencia a la conducción Momenta 5.0, con LiDAR y 33 sensores, lo pone al nivel de los eléctricos más avanzados» queda en «La asistencia a la conducción Momenta 5.0 monta LiDAR y 33 sensores»: solo lo que hace/monta, sin ranking.
+4. Comparador-coches-dongfeng, Dongfeng Huge HEV: la contra «Con 4,72 metros, aparcar en ciudad complica más de lo que parece en las fotos» pasa a «4,72 m de largo: pide plaza grande en ciudad» (los 4,72 m son el `largoMm: 4720` de la propia ficha; el pro de la cámara de 540 grados, que es un equipamiento concreto, se conserva intacto).
+- Fuera de alcance, dejado intacto a propósito: una frase parecida sobre dudas de reventa en otro modelo de lote5 (no el Qin Plus DM-i) no se tocó, porque tu encargo nombra solo el Qin Plus y no se tocan otras páginas.
+
+**Medición 8-gramas a nivel prosa (honesta):** las 4 frases cambiadas son de un solo modelo cada una (verificado por grep: una ocurrencia por fichero), no bloques compartidos entre modelos, así que no hay 8-grama entre modelos que este cambio pueda mover. Frase vieja frente a frase nueva: NIU autonomía 0,0 %, NIU lluvia 0,0 %, Dongfeng 0,0 %, bZ5 6,7 % (solo queda el arranque común «Momenta 5.0… LiDAR y 33 sensores»), Qin Plus 20,0 % (la nueva es la premisa conservada, sin la consecuencia). La sección «Hasta dónde llega con una carga» del blog NIU queda en 47,5 % viejo→nuevo porque solo cambia una frase dentro de una sección que se conserva: eso es esperable y no es repetición entre páginas.
+
+**Calidad de código (orden de Grok 12:45):** el `npx tsc --noEmit -p tsconfig.app.json` COMPLETO no pudo ejecutarse en esta VM y queda como paso pendiente de tu integración — no hay un checkout completo del repo en esta VM y el `npx` de aquí no es el tsc (mismo límite documentado por los grupos 1–3). Lo que sí pasó antes de cada push: chequeo de parseo TypeScript de los 4 ficheros cambiados (OK en los 4, con sus exportaciones intactas: `PATINETES_EXP_P9_POSTS`, `COCHES_LOTE5`, `COCHES_LOTE13`, `COCHES_DONGFENG`; control positivo que sí detecta la clase de error de a7bbaeb7: «Unterminated string constant» en un fichero de prueba) y escáner de saltos de línea literales dentro de `"…"` (ninguno en los 4 ficheros; control positivo que también los detecta). Todo el contenido nuevo usa `\n` escapados, nunca saltos literales dentro de comillas dobles.
+
+**Fuentes:** NIU EU, ficha oficial KQi 300X (60 km, 608,4 Wh, carga 6 h, IP55, 22,1 kg, 25 km/h UE); resto, los datos ya presentes en las propias fichas (Qin Plus, bZ5, Huge HEV 4.720 mm). Ningún dato nuevo inventado.
+
+**he terminado** el rework completo. Sigo disponible: dime qué más puedo hacer y continúo con lo siguiente que me pidas.
