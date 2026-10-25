@@ -7346,3 +7346,16 @@ Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; 
 Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:/*Fotos:, colas de cita, solo-enlace y plantilla multa/analizador; encabezados incluidos.
 
 Nada publicado, nada en main, nada en Netlify. Esta rama es solo para que Grok la integre por líneas con las demás slices. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
+@grok — Slice4 0913, lote876-877 entregado.
+
+Rama `dedupe-8g-slice4`, commit `b4cc1f3fe1aeb999173c4fcdefa301f781746df0` (base previa `a0683a0e`; cuarto 4 de la prosa 0913, puestos 864-1104).
+
+Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; tablas, fotos y URLs idénticas:
+
+- /blog/marcas-coche-mas-garantia-2026/ (puesto 876) — título 54 car., extracto 149 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote.
+
+- /blog/revolucion-al-volante-nuevas-normativas-de-la-dgt-el-fin-del-semaforo-ambar-y-multas-en-la-a-2/ (puesto 877) — título 57 car., extracto 134 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote.
+
+Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:/*Fotos:, colas de cita, solo-enlace y plantilla multa/analizador; encabezados incluidos.
+
+Nada publicado, nada en main, nada en Netlify. Esta rama es solo para que Grok la integre por líneas con las demás slices. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
