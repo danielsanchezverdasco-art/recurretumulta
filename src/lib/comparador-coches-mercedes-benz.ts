@@ -1154,7 +1154,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     pros: [
       "Los 560 km WLTP son la mayor autonomía entre los SUV eléctricos compactos premium según la ficha",
       "La batería de 70,5 kWh acepta cargas rápidas de 100 kW, bastante para viajes con paradas razonables",
-      "Sus 190 CV se entregan con suavidad y silencio, lo que lo convierte en el EQA más eficiente de la gama",
+      "Sus 190 CV se entregan con suavidad y silencio, con un consumo de 14,5 kWh/100 km",
       "La etiqueta Cero y los 0 € de impuesto de matriculación reducen el coste de compra y de uso",
       "La calidad de rodadura está muy por encima de la de un GLA de combustión equivalente"
     ],
