@@ -1198,5 +1198,77 @@
   "intro": "Wey combina modelos numerados y la familia Gaoshan, y esa doble vía es la pauta para entender su gama. Los numerados, con el 03, el 05 y el 07, forman una escalera de SUV de distintos tamaños, del compacto al grande. La familia Gaoshan, con el Gaoshan 7, el Gaoshan 8 y el Gaoshan 9, cubre el formato monovolumen de lujo para familias y uso con chófer. El V8X y el V9X completan la colección como modelos de altas prestaciones dentro de la marca. Al comparar las fichas conviene separar primero los numerados de los Gaoshan, porque un 07 y un Gaoshan 8 pueden compartir tamaño aproximado y tener públicos opuestos: uno busca SUV familiar y otro monovolumen de representación, dos usos que las fichas distinguen con claridad. El V9X, en lo alto prestacional, cierra una gama donde conviven SUV numerados y monovolúmenes Gaoshan. El Gaoshan 9, en lo alto de la familia Gaoshan, cierra la oferta de monovolúmenes de Wey por tamaño.",
   "n": 8,
   "url": "/coches/marca/wey/"
+ },
+ "coches/maextro": {
+  "nombre": "Maextro",
+  "title": "Maextro: 4 berlinas de lujo con tecnología Huawei",
+  "description": "4 fichas técnicas de Maextro: S800 en tres versiones y V800 Huawei, con motores, autonomía y equipamiento de lujo para comparar la gama.",
+  "intro": "Maextro es la marca de lujo más ambiciosa del grupo Huawei, y su gama en esta web se resume en cuatro fichas: tres versiones del S800, la berlina insignia, y el V800, que completa la oferta por arriba. Son coches de representación, con dimensiones generosas, tecnología de asistencia avanzada y un nivel de equipamiento que busca competir con las berlinas de lujo europeas. No es una gama para todos los bolsillos ni para todos los usos, y precisamente por eso conviene leer las fichas con calma: las diferencias entre las versiones del S800 están en la mecánica y en la dotación, no en la imagen.",
+  "n": 4,
+  "url": "/coches/marca/maextro/"
+ },
+ "motos/montesa": {
+  "nombre": "Montesa",
+  "title": "Montesa: 3 trial Cota para comparar",
+  "description": "Las 3 fichas Montesa: Cota 4RT 260R, Cota 4RT 301RR y Cota 4Ride, todo trial con el sello de la marca española.",
+  "intro": "En Montesa no hay que elegir entre muchos mundos: las 3 fichas son trial, y la familia Cota lo explica todo. La Cota 4RT 260R es la puerta de entrada al trial de cuatro tiempos, la 301RR sube el listón hacia la competición, y la 4Ride añade un punto de polivalencia para quien quiere practicar sin una moto de carreras pura. Es la marca española de trial por antonomasia, con décadas de historia detrás de cada modelo, y aquí la comparación se hace por nivel de pilotaje y por exigencia de mantenimiento, no por potencia bruta: en trial manda la ligereza y la entrega a bajo régimen.",
+  "n": 3,
+  "url": "/motos/marca/montesa/"
+ },
+ "motos/stark": {
+  "nombre": "Stark Future",
+  "title": "Stark Future: 3 Varg eléctricas de off-road",
+  "description": "Las 3 fichas Stark Future: Varg EX, Varg MX y Varg SM, eléctricas de campo con potencia de cross de competición.",
+  "intro": "Stark Future tiene una sola idea y la ejecuta en tres versiones: la Varg. La EX es la enduro matriculable, la MX es la de motocross puro y la SM lleva el concepto al supermotard, siempre con motor eléctrico y sin marchas. Son 3 fichas de una marca española que nació para demostrar que el eléctrico puede ganar en el campo, no solo en la ciudad. Aquí no hay scooters ni trails: la comparación se hace por circuito, por homologación y por autonomía en uso intensivo, porque una Varg se compra para usarla a fondo, no para pasear.",
+  "n": 3,
+  "url": "/motos/marca/stark/"
+ },
+ "motos/torrot": {
+  "nombre": "Torrot",
+  "title": "Torrot: 2 Muvi eléctricas urbanas",
+  "description": "Las 2 fichas Torrot: Muvi City y Muvi Executive L3, scooters eléctricos españoles para moverse por la ciudad.",
+  "intro": "Torrot resume su gama en dos nombres: la Muvi City y la Muvi Executive L3. Ambas son scooters eléctricos urbanos de marca española, pensados para el desplazamiento diario sin gasolina ni mantenimiento de motor térmico. La diferencia entre las dos fichas está en el equipamiento y en el planteamiento de uso: una urbana sencilla y otra con un punto más de presencia y dotación. Con solo 2 fichas, la elección se reduce a lo esencial: autonomía necesaria, presupuesto y si el uso es particular o compartido.",
+  "n": 2,
+  "url": "/motos/marca/torrot/"
+ },
+ "motos/vertigo": {
+  "nombre": "Vertigo",
+  "title": "Vertigo: 3 trial de competición española",
+  "description": "Las 3 fichas Vertigo: Combat Camo 300 y Nitro RS3 y DL12, trial de dos tiempos para competir.",
+  "intro": "Vertigo concentra su catálogo en el trial de competición de dos tiempos. La Combat Camo 300 y las Nitro RS3 250 y 300 y DL12 300 comparten planteamiento: motos ligeras, de respuesta inmediata y pensadas para zonas, no para carretera. Con solo 3 fichas, la elección se reduce al nivel de exigencia y a la cilindrada: 250 para aprender a ir fino, 300 para pelear arriba. Es una marca española de nicho, y eso se nota en el enfoque: nada de concesiones al uso diario, todo al rendimiento entre cintas.",
+  "n": 3,
+  "url": "/motos/marca/vertigo/"
+ },
+ "patinetes/bronco": {
+  "nombre": "Bronco",
+  "title": "Bronco: 3 Xtreme potentes para exigentes",
+  "description": "Las 3 fichas Bronco: Xtreme 11, Xtreme Sport y Xtreme Vnom 11, patinetes potentes de doble motor.",
+  "intro": "Bronco no hace patinetes de paseo: sus 3 fichas son Xtreme, y el nombre avisa. La Xtreme 11 y la Xtreme Vnom 11 son las potentes de la gama, con doble motor y prestaciones muy por encima del uso urbano legal, y la Xtreme Sport completa el trío con el mismo carácter. Aquí la comparación no va de precio ni de peso, sino de potencia y de uso: son máquinas para circuito o finca privada en España, no VMP de calle. Quien busque un urbano debe mirar otra marca.",
+  "n": 3,
+  "url": "/patinetes/marca/bronco/"
+ },
+ "patinetes/minimotors": {
+  "nombre": "Minimotors",
+  "title": "Minimotors: 3 Dualtron de alta gama",
+  "description": "Las 3 fichas Minimotors: Dualtron City 2024, Dualtron Eagle Pro y Dualtron Victor Luxury Plus, potentes y de largo alcance.",
+  "intro": "Minimotors es el fabricante coreano detrás de Dualtron, y sus 3 fichas en esta web son la prueba: la Dualtron City 2024 para la ciudad con aspiraciones, la Eagle Pro como equilibrio entre potencia y uso, y la Victor Luxury Plus como tope de gama. Son patinetes potentes, pesados y de largo alcance, pensados para quien ya sabe lo que compra y no para el primer patinete. La comparación aquí pasa por la potencia, la batería y el peso, porque el precio ya avisa de que no son urbanos baratos. En España, además, hay que mirar la legalidad VMP antes de decidir.",
+  "n": 3,
+  "url": "/patinetes/marca/minimotors/"
+ },
+ "patinetes/ruptor": {
+  "nombre": "Ruptor",
+  "title": "Ruptor: 2 patinetes urbanos R3 y R6",
+  "description": "Las 2 fichas Ruptor: R3 y R6, urbanos compactos para el desplazamiento diario.",
+  "intro": "Ruptor resume su oferta en dos modelos: la R3 y la R6. Son patinetes urbanos compactos, pensados para el desplazamiento diario sin complicaciones ni precios altos. Con solo 2 fichas, la decisión es inmediata: autonomía, peso y presupuesto, sin familias ni versiones que mareen. Es una marca pequeña en esta web, y sus dos modelos se entienden mejor como alternativa sencilla a los urbanos de las grandes marcas que como una gama con aspiraciones de otra cosa.",
+  "n": 2,
+  "url": "/patinetes/marca/ruptor/"
+ },
+ "motos/livewire": {
+  "nombre": "LiveWire",
+  "title": "LiveWire motos: 5 fichas eléctricas",
+  "description": "5 fichas técnicas de motos eléctricas LiveWire con autonomía, potencia y equipamiento para valorar la gama eléctrica con datos reales.",
+  "intro": "La moto eléctrica tiene sus propias reglas de comparación, y las cinco fichas de LiveWire están reunidas para aplicarlas con orden. Cada ficha recoge la autonomía, la entrega de potencia y la dotación, además del formato, porque una moto eléctrica urbana no se valora igual que una de carretera. La autonomía debe leerse junto a la velocidad habitual y al peso del conjunto, ya que circular rápido recorta el alcance mucho más que en ciudad. La red de carga y el tiempo de recarga también condicionan la experiencia, sobre todo para quien recarga habitualmente fuera de su vivienda. Al repasar las cinco fichas se aprecia la orientación de cada modelo y el salto entre ellos, sin mezclar categorías distintas. Con esa lectura, la gama eléctrica deja de parecer un experimento y se convierte en una serie de alternativas tangibles, cada una con sus datos y su público. También conviene revisar el mantenimiento previsto y la garantía, dos datos que condicionan el coste real de uso.",
+  "n": 5,
+  "url": "/motos/marca/livewire/"
  }
 }
