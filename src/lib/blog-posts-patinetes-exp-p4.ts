@@ -1316,9 +1316,9 @@ Por ~60 € más tienes 720 Wh (frente a 480 Wh) y UL2272. Sí, compensa.
   },
   {
     slug: "evercross-h9",
-    title: "Evercross H9: el H con sillín más ligero",
+    title: "Evercross H9 2026: patinete con sillín de solo 20 kg",
     excerpt:
-      "El Evercross H9 aligera la serie H: 800 W, 672 Wh y sillín en solo 20 kg, con 45 km declarados por ~610 €. Ficha técnica.",
+      "El H9 recorta peso hasta 20 kg con motor de 800 W, batería de 672 Wh y sillín extraíble: autonomía anunciada de 45 km y precio cercano a 610 €.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -1335,11 +1335,11 @@ Por ~60 € más tienes 720 Wh (frente a 480 Wh) y UL2272. Sí, compensa.
     ],
     content: `<img src=/media/patinetes/evercross-h9-1.webp alt=Evercross H9 negro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/evercross-h9/>Ver ficha técnica del Evercross H9</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+Los números clave están en la <a href=/patinetes/evercross-h9/>ficha del H9</a>: motor, batería, autonomía y precio. Y puedes enfrentarlo a otros modelos en el <a href=/comparador-patinetes/>comparador</a>.
 
-El **Evercross H9** es la dieta de la serie H: **800 W** de pico, **48 V y 14 Ah (672 Wh)**, **45 km** declarados y **sillín desmontable** en solo **20 kg** (<a href=https://www.levyelectric.com/resources/evercross-electric-scooter-complete-guide-app-setup-review>Levy Electric</a>). Cinco kilos menos que el H7 se notan al plegarlo.
+Dentro de la familia H, este modelo apuesta por adelgazar: un propulsor con pico de 800 W, un acumulador de 48 V, 14 Ah (672 Wh en total), un alcance anunciado de 45 km y un asiento que se puede retirar, todo ello con una báscula que marca alrededor de 20 kg (<a href=https://www.levyelectric.com/resources/evercross-electric-scooter-complete-guide-app-setup-review>Levy Electric</a>). Frente al H7, restar cinco kilos se aprecia cada vez que hay que doblarlo para guardarlo o subirlo. La aplicación asociada permite bloquear el patinete cuando queda aparcado.
 
-## Ficha técnica resumida
+## Datos esenciales
 
 | Dato | Valor |
 |---|---|
@@ -1353,25 +1353,25 @@ El **Evercross H9** es la dieta de la serie H: **800 W** de pico, **48 V y 14 Ah
 | **Carga máxima** | 150 kg |
 | **Ruedas** | 10" macizas |
 
-¿Quieres el detalle completo? <a href=/patinetes/evercross-h9/>Ficha técnica completa del Evercross H9</a> con todos los datos verificados.
+La ficha completa, con cada cifra contrastada, está en el <a href=/patinetes/evercross-h9/>perfil técnico del H9</a>.
 
-## Precio del Evercross H9 en España
+## Cuánto cuesta en España
 
-Unos **610 €** al cambio (665 $). Es el más caro de la serie H: pagas la ligereza.
+Al convertir su importe en dólares, 665 $, el resultado ronda los 610 €. Dentro de su propia familia es la variante más costosa: el sobreprecio se justifica por el peso recortado, no por una batería mayor ni por más velocidad.
 
 <img src=/media/patinetes/evercross-h9-2.webp alt=Detalle del chasis plegado del Evercross H9>
 
-## Autonomía real vs declarada
+## Alcance anunciado y alcance plausible
 
-Declara **45 km**; con 672 Wh calcula **unos 30 km** reales. La dieta de 5 kg ayuda: menos peso, menos consumo.
+El fabricante anuncia 45 km, pero con 672 Wh lo prudente es contar con cerca de 30 km en un uso variado. El recorte de cinco kilos respecto al H7 también juega a favor: un vehículo más liviano demanda algo menos de energía al mismo ritmo.
 
-## Frenos y neumáticos
+## Frenada y rodadura
 
-**Doble disco** y ruedas **macizas de 10 pulgadas**. Pierde los intermitentes del H5, pero gana en simplicidad y peso.
+Monta frenos de disco en las dos ruedas y cubiertas sólidas de 10 pulgadas, sin cámara que pinchar. A cambio, renuncia a los indicadores de giro que sí llevaba el H5, una concesión en favor de la sencillez y de la báscula.
 
-## Certificado DGT y normativa VMP
+## Uso en calle y certificado
 
-Sin certificado DGT verificado. A **~45 km/h** no es VMP legal: **limitar a 25 km/h** y circular fuera de **aceras**.
+No hay constancia de un certificado DGT verificado para este modelo. Además, con una punta cercana a 45 km/h queda fuera de la definición de VMP: para circular por vía pública habría que caparlo a 25 km/h y mantenerse fuera de las aceras.
 
 ## Puntos fuertes y débiles
 
@@ -1385,11 +1385,11 @@ Sin certificado DGT verificado. A **~45 km/h** no es VMP legal: **limitar a 25 k
 
 <img src=/media/patinetes/evercross-h9-3.webp alt=Evercross H9 circulando por la ciudad al atardecer>
 
-## Evercross y la serie H: potencia de venta directa
+## La gama H y el canal de venta
 
-Evercross vende sus patinetes en Europa a través de su <a href=https://evercross.eu>web oficial europea</a>, donde los modelos de calle se limitan a 25 km/h para el mercado comunitario. La serie H es su gama con sillín desmontable y ruedas de 10 pulgadas, y el H9 es su ejercicio de adelgazamiento: **800 W de pico, 48 V y 14 Ah (672 Wh)** y solo **20 kg**, cinco menos que el H7 según el análisis original. Cuesta unos **610 €** al cambio, el precio más alto de la serie: lo que se paga es la ligereza, no más velocidad ni más batería que sus hermanos.
+En Europa, la marca comercializa sus vehículos a través de su <a href=https://evercross.eu>web oficial europea</a>, donde las versiones de calle vienen capadas a 25 km/h para cumplir la normativa comunitaria. La familia H se caracteriza por el asiento extraíble y las ruedas de 10 pulgadas; el H9 representa su versión adelgazada: pico de 800 W, acumulador de 48 V con 14 Ah (672 Wh en total) y apenas 20 kg, cinco por debajo del H7 según el análisis de partida. Su precio, en torno a 610 € al cambio, es el más elevado de la familia: se abona la ligereza, no una mayor velocidad ni una batería superior a la de sus hermanos.
 
-## La técnica: 672 Wh en el H más ligero
+## Qué dicen los números en la práctica
 
 | Dato | Evercross H9 |
 |---|---|
@@ -1403,45 +1403,45 @@ Evercross vende sus patinetes en Europa a través de su <a href=https://evercros
 | Ruedas | 10 pulgadas macizas |
 | Frenos | Doble disco |
 
-Con **672 Wh**, la autonomía declarada de 45 km se traduce en unos **30 km reales** en uso mixto, la estimación prudente del análisis original. La dieta de 5 kg frente al H7 ayuda en dos frentes: consume algo menos a igualdad de ritmo y, sobre todo, se pliega y se sube a un piso o a un maletero sin convertirlo en un ejercicio de fuerza. El **doble freno de disco** es el equipo correcto para un patinete capaz de unos 45 km/h, y la carga máxima de **150 kg** es generosa para su peso. A cambio pierde los intermitentes de otros modelos de la gama y monta ruedas macizas, que no pinchan pero filtran peor.
+Con esos 672 Wh, los 45 km anunciados se quedan en cerca de 30 km reales en recorridos variados, que es la previsión cautelosa del análisis de partida. Bajar cinco kilos respecto al H7 aporta en dos planos: gasta un poco menos si se mantiene el mismo ritmo y, sobre todo, permite doblarlo y cargarlo hasta un piso o un maletero sin que suponga un esfuerzo físico. El doble disco resulta el equipo adecuado para un aparato capaz de rozar los 45 km/h, y la carga admitida de 150 kg resulta amplia para su peso. Como contrapartida, prescinde de los intermitentes presentes en otros modelos de la gama y calza ruedas sólidas: imposibles de pinchar, pero con peor filtrado de irregularidades.
 
-## Uso real: ligero para llevar, ilegal sin limitar
+## Para quién encaja y dónde no puede rodar
 
-El H9 tiene sentido para quien combina patinete con tramos a pie, escaleras o transporte público: ahí sus 20 kg marcan la diferencia frente a los 25 kg del H7. Pero hay que repetir lo que ya dice su análisis: a unos **45 km/h no es un VMP legal en España**; su uso en vía pública exige limitarlo a 25 km/h, y aun así la legalidad plena requiere el certificado correspondiente, que no consta verificado para este modelo. Sin esa limitación, su terreno es el espacio privado. Compáralo con alternativas homologables en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
+Tiene lógica para quien alterna el patinete con tramos andando, escaleras o transporte público: ahí, los 20 kg se distinguen claramente de los 25 kg del H7. Conviene insistir en lo que ya advertía su análisis: rozando los 45 km/h, no encaja como VMP legal en España; rodar por vía pública exigiría caparlo a 25 km/h, y aun con ese tope la legalidad completa dependería del certificado que le corresponda, que no aparece verificado en este modelo. Sin ese tope, su ámbito queda en el espacio privado. Puedes contrastarlo con opciones homologables en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
 
-## Mantenimiento y costes: sencillo, con la posventa por escrito
+## Gasto y posventa: lo comprobable
 
-Evercross no publica tarifas de mantenimiento del H9 que podamos citar, y no las inventamos. Lo verificable en un patinete de su clase es el gasto ordinario: pastillas y discos de sus dos frenos, y el cuidado de una batería de 672 Wh que agradecerá no vivir descargada ni cargarse con cargadores ajenos al suyo. Las ruedas macizas eliminan los pinchazos de la ecuación. La partida crítica en una marca de venta directa es la posventa: antes de pagar unos 610 € conviene confirmar por escrito quién atiende la garantía y los recambios en Europa.
+La marca no difunde tarifas de mantenimiento del H9 que se puedan citar, y aquí no se inventan. El gasto corriente verificable en un aparato de su clase pasa por las pastillas y los discos de sus dos frenos, además del cuidado de un acumulador de 672 Wh al que conviene no mantener descargado ni alimentar con cargadores distintos del suyo. Las ruedas sólidas dejan fuera los pinchazos. En una firma de venta directa, el punto delicado es la posventa: antes de abonar en torno a 610 €, merece la pena dejar por escrito quién responde de la garantía y de los recambios en Europa.
 
-## Normativa: VMP, 25 km/h y certificación DGT
+## Qué exige la norma para un VMP
 
-La <a href=https://www.dgt.es>DGT</a> define el vehículo de movilidad personal con una velocidad máxima por construcción de **25 km/h**, circulación fuera de aceras y, para los modelos comercializados en España, el certificado de circulación que exige la normativa vigente. El H9, tal como se vende en origen, supera esa velocidad y no consta certificado DGT verificado: limitado electrónicamente y usado con prudencia puede acercarse al uso urbano, pero la conformidad plena la da el certificado del fabricante, no la limitación casera. Es el mismo mensaje del análisis original, sin adornos.
+La <a href=https://www.dgt.es>DGT</a> entiende por vehículo de movilidad personal aquel cuya velocidad máxima por construcción es de 25 km/h, que debe circular fuera de las aceras y que, en los modelos vendidos en España, necesita el certificado de circulación previsto por la normativa en vigor. El H9, tal y como se comercializa en origen, rebasa esa velocidad y no tiene certificado DGT verificado: con un tope electrónico y un uso prudente puede aproximarse al uso urbano, pero la conformidad completa la otorga el certificado del fabricante, no un límite aplicado en casa.
 
-## Frente al Evercross H7 y al H5: veredicto
+## H7, H5 y H9: la decisión
 
-Sus hermanos con ficha en esta casa dibujan la elección. El <a href=/patinetes/evercross-h7/>Evercross H7</a> cuesta 550 € con 800 W, 720 Wh, 45 km declarados y unos 30 km reales según su ficha, pero pesa 25 kg. El <a href=/patinetes/evercross-h5/>Evercross H5</a> baja a 490 € con 480 Wh, 40 km declarados y 23,6 kg, y conserva detalles como los intermitentes que el H9 pierde. El H9 solo gana en una columna, el peso, y pierde o empata en casi todas las demás costando más.
+Las otras fichas de la casa permiten situar la elección. El <a href=/patinetes/evercross-h7/>Evercross H7</a> se queda en 550 €, con propulsor de 800 W, acumulador de 720 Wh y 45 km anunciados y un alcance real próximo a los 30 km de acuerdo con su ficha, aunque su báscula sube a 25 kg. El <a href=/patinetes/evercross-h5/>Evercross H5</a> desciende a 490 € con 480 Wh, 40 km anunciados y 23,6 kg, y mantiene detalles como los intermitentes que el H9 no ofrece. El H9 únicamente lidera en una columna, la del peso, y en casi todas las demás pierde o iguala pagando más.
 
-**¿Merece la pena?** Solo si los kilos son tu criterio decisivo. **Para quién sí:** para quien suba el patinete a pulso a diario y valore los 20 kg por encima de todo. **Para quién no:** para casi todos los demás: el H7 da más batería y cuesta menos, y ninguno de los tres es un VMP certificado en España.
+**¿Compensa?** Únicamente cuando el peso sea el factor que más pese en la decisión. **Encaja si:** subes el patinete a pulso cada día y antepones los 20 kg a todo lo demás. **No encaja si:** formas parte de casi todo el resto: el H7 entrega más batería por menos dinero, y ninguno de los tres cuenta con certificación VMP en España.
 
 ## Preguntas frecuentes
 
-### ¿Cuánto pesa el Evercross H9?
-Unos **20 kg**, 5 menos que el H7.
+### ¿Cuál es su peso?
+Alrededor de 20 kg, cinco por debajo del H7.
 
-### ¿Qué autonomía real tiene?
-Unos **30 km** en uso mixto.
+### ¿Qué alcance real cabe esperar?
+Cerca de 30 km en recorridos variados.
 
-### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
+### ¿Se puede usar legalmente en España?
+Solo con el tope de 25 km/h aplicado.
 
-### ¿En qué se diferencia del H7?
-Es más ligero (20 kg frente a 25 kg) pero pierde la UL2272 y los intermitentes del H5.
+### ¿Qué lo separa del H7?
+Pesa menos (20 kg frente a 25 kg), aunque no trae la certificación UL2272 ni los intermitentes del H5.
 
-### ¿Merece los 610 €?
-Solo si los 5 kg menos te importan de verdad; si no, el H7 da más por menos.
+### ¿Justifica su precio?
+Solo cuando esos cinco kilos menos resulten realmente decisivos; en caso contrario, el H7 ofrece más por menos dinero.
 
-### ¿El sillín se quita?
-Sí, es **desmontable**.
+### ¿El asiento se puede retirar?
+Sí, el sillín es extraíble.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
