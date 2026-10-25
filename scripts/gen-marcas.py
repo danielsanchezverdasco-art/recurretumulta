@@ -117,6 +117,95 @@ for (_c,_s),_d in pags.items():
   if len(_ds)<=155: _d["description"]=_ds
   if _o.get("intro"): _d["intro"]=_fix(_o["intro"])
 assert len({d["title"] for d in pags.values()})==len(pags), "títulos duplicados"
+
+# 25/10/2026 (informe SEO rev25): datos reales de cada ficha (su JSON-LD page-schema) para
+# ItemList en todos los hubs de marca (Offer solo si la ficha tiene precio real) y, en los
+# hubs con poco texto (DELGADOS), una tabla comparativa con precio y dato técnico clave.
+DELGADOS={"coches/maextro","motos/montesa","motos/stark","motos/torrot","motos/vertigo","motos/scorpa","patinetes/bronco","patinetes/minimotors","patinetes/ruptor"}
+def prod(c,s):
+  try: h=open(f"{D}/{c}/{s}/index.html",encoding="utf8",errors="ignore").read()
+  except OSError: return {}
+  m=re.search(r'data-seo-id="page-schema">(.*?)</script>',h,re.S)
+  if not m: return {}
+  try: g=json.loads(m.group(1)).get("@graph",[])
+  except Exception: return {}
+  return next((x for x in g if str(x.get("@id","")).endswith("#producto")),{})
+def eur(v): return f"{int(round(float(v))):,}".replace(",",".")+" €"
+def dato(c,p):
+  r=[]
+  pw=(((p.get("vehicleEngine") or {}).get("enginePower") or {}).get("value"))
+  if pw: r.append(f"{pw:g} CV".replace(".",",") if isinstance(pw,float) else f"{pw} CV")
+  cc=re.search(r"de (\d[\d.]*) cc",p.get("description",""))
+  if cc: r.append(f"{cc.group(1)} cc")
+  au=re.search(r"(\d[\d.]*) km de autonom",p.get("description",""))
+  if au: r.append(f"{au.group(1)} km de autonomía")
+  sp=(p.get("speed") or {}).get("value")
+  if sp: r.append(f"{sp} km/h")
+  w=re.search(r"(\d[\d.]*) W\b",p.get("description",""))
+  cn=re.search(r"con el carnet ([A-Z0-9]+)",p.get("description",""))
+  if cn: r.append(f"carnet {cn.group(1)}")
+  if c=="patinetes" and w: r.append(f"{w.group(1)} W")
+  kg=re.search(r"(\d+) kg de carga",p.get("description",""))
+  if c=="patinetes" and kg: r.append(f"{kg.group(1)} kg de carga máxima")
+  if c=="patinetes" and "doble motor" in p.get("description",""): r.append("doble motor")
+  if p.get("fuelType"): r.append(p["fuelType"].lower())
+  return ", ".join(r)
+def tabla(c,items):
+  filas=[]
+  dup={n for _,n in items if sum(1 for _,m in items if m==n)>1}
+  for s,n in items:
+    p=prod(c,s); of=p.get("offers") or {}
+    pr=eur(of["price"]) if of.get("price") else ""
+    if n in dup: n=" ".join(w.upper() if any(ch.isdigit() for ch in w) and len(w)<=3 else w.capitalize() for w in re.sub(r"-(\d{4}-)?(ficha|precio).*","",s).split("-")).replace(" L3"," L3")
+    filas.append([s,n,pr,dato(c,p)])
+  return filas
+def itemlist(c,url,d,filas):
+  el=[]
+  for k,(s,n,pr,_) in enumerate(filas):
+    it={"@type":"Product","name":n,"url":f"{O}/{c}/{s}/"}
+    p=prod(c,s); of=p.get("offers") or {}
+    if of.get("price"): it["offers"]={"@type":"Offer","price":of["price"],"priceCurrency":of.get("priceCurrency","EUR"),"url":f"{O}/{c}/{s}/"}
+    el.append({"@type":"ListItem","position":k+1,"item":it})
+  return {"@context":"https://schema.org","@type":"ItemList","name":d["h1"],"url":O+url,"numberOfItems":len(el),"itemListElement":el}
+# Normas reales aplicadas a los modelos concretos (frases con nombres intercalados, sin 8-gramas comunes):
+# VMP: velocidad máxima 25 km/h (Reglamento General de Circulación, art. 38 / Manual de características VMP de la DGT).
+# Carnet B con 3 años: motos hasta 125 cc y 11 kW (Reglamento General de Conductores, RD 818/2009, art. 5).
+def normas(c,filas):
+  if c=="patinetes":
+    r=[]
+    ok=[f[1] for f in filas if (m:=re.search(r"(\d+) km/h",f[3])) and int(m.group(1))<=25]
+    if ok: r.append(f"Límite VMP de 25 km/h: lo cumple{'n' if len(ok)>1 else ''} {_y(ok)}.")
+    for f in filas:
+      m=re.search(r"(\d+) km/h",f[3])
+      if m and int(m.group(1))>25: r.append(f"{f[1]} llega a {m.group(1)} km/h: ilegal como VMP en la calle.")
+    return r
+  if c=="motos":
+    a1=[f[1] for f in filas if "carnet A1" in f[3] and re.search(r"\b(12[0-5]|1[01]\d|\d{2}) cc",f[3])]
+    if a1: return [f"{_y(a1)}, de 125 cc, también se puede llevar con el carnet B si tiene más de 3 años (Reglamento General de Conductores, art. 5)."]
+  return []
+def _y(xs): return xs[0] if len(xs)==1 else ", ".join(xs[:-1])+" y "+xs[-1]
+def resumen(c,d,filas):
+  # Frases cortas con modelos/precios intercalados: ningún 8-grama se repite entre hubs.
+  con=sorted([f for f in filas if f[2]],key=lambda f:int(f[2].replace(".","").split()[0]))
+  sin=[f[1] for f in filas if not f[2]]
+  if not con:
+    txt=[f"Para {_y(sin)} no hay precio oficial de {d['nombre']} en España; los comparamos por datos técnicos."]
+    return " ".join(txt+normas(c,filas))
+  txt=[]
+  if len(con)==1:
+    txt.append(f"Solo {con[0][1]} tiene precio publicado en España ({con[0][2]}).")
+  elif con[0][2]==con[-1][2]:
+    txt.append(f"{_y([f[1] for f in con])} parten de {con[0][2]} en España; cambian mecánica y equipamiento.")
+  else:
+    txt.append(f"Con precio publicado en España, {con[0][1]} ({con[0][2]}) es la más asequible y {con[-1][1]} ({con[-1][2]}) la más cara.")
+  if sin: txt.append(f"Sin precio oficial confirmado: {_y(sin)}.")
+  return " ".join(txt+normas(c,filas))
+def tabla_html(c,d):
+  if not d.get("tabla"): return ""
+  fl_="".join(f'<tr><td class="py-1 pr-3"><a href="/{c}/{s}/" class="text-red-600 hover:underline">{e(n)}</a></td><td class="py-1 pr-3 whitespace-nowrap">{e(pr or "Sin precio oficial")}</td><td class="py-1">{e(dt or "—")}</td></tr>' for s,n,pr,dt in d["tabla"])
+  return (f'<section class="space-y-2" data-hub-tabla><h2 class="text-lg font-black text-gray-900">Comparativa rápida de {e(d["nombre"])}</h2>'
+    f'<p class="text-sm text-gray-700 max-w-3xl leading-relaxed">{e(d["resumen"])}</p>'
+    '<div class="overflow-x-auto"><table class="text-sm text-gray-700"><thead><tr class="text-left text-xs text-gray-500"><th class="pr-3">Modelo</th><th class="pr-3">Precio desde</th><th>Dato clave</th></tr></thead><tbody>'+fl_+"</tbody></table></div></section>")
 def poner(h,title,desc,url):
   h=re.sub(r"<title>[^<]*</title>",f"<title>{e(title)}</title>",h,count=1)
   h=re.sub(r'(<meta (?:name="description"|property="og:description"|name="twitter:description") content=")[^"]*',lambda x:x.group(1)+e(desc),h)
@@ -126,9 +215,11 @@ def poner(h,title,desc,url):
 i0=plantilla.index('<main'); i1=plantilla.index("</main>",i0)+7
 for (c,slug),d in pags.items():
   url=f"/{c}/marca/{slug}/"
+  _filas=tabla(c,d["items"])
+  if f"{c}/{slug}" in DELGADOS: d["tabla"]=_filas; d["resumen"]=resumen(c,d,_filas)
   cuerpo=(f'<main class="max-w-5xl mx-auto px-4 pt-6 pb-16 space-y-6"><nav aria-label="Migas de pan" class="text-xs text-gray-500"><a href="/">Inicio</a> / <a href="/{c}/">{CAT[c]}</a> / <span>{e(d["nombre"])}</span></nav>'
     f'<h1 class="text-3xl font-black text-gray-900">{e(d["h1"])}</h1><p class="text-sm text-gray-700 max-w-3xl leading-relaxed">{e(d["intro"])}</p>'
-    '<ul class="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-1">'+"".join(f'<li><a href="/{c}/{s}/" class="text-sm text-gray-700 hover:text-red-600">{e(n)}</a></li>' for s,n in d["items"])+"</ul></main>")
+    '<ul class="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-1">'+"".join(f'<li><a href="/{c}/{s}/" class="text-sm text-gray-700 hover:text-red-600">{e(n)}</a></li>' for s,n in d["items"])+"</ul>"+tabla_html(c,d)+"</main>")
   h=plantilla[:i0]+cuerpo+plantilla[i1:]
   h=re.sub(r'<script type="application/ld\+json"[^>]*>.*?</script>','',h,flags=re.S)
   h=re.sub(r'<script type="application/json" id="hub-marca-data">.*?</script>','',h,flags=re.S)
@@ -137,8 +228,8 @@ for (c,slug),d in pags.items():
   h=re.sub(r'<aside aria-label="Autoría y fuentes" data-eeat="1".*?</aside>','',h,flags=re.S)
   h=h.replace("<footer",eeat_aside(c,act)+"<footer",1)
   h=h.replace("</head>",eeat_ld(url,d["title"],act)+"</head>",1)
-  datos=dict(p=url,cat=c,catNombre=CAT[c],h1=d["h1"],title=d["title"],description=d["description"],intro=d["intro"],items=d["items"])
-  h=h.replace("</head>",ld(bc([("Inicio","/"),(CAT[c],f"/{c}/"),(d["nombre"],url)]),"bc-static")+'<script type="application/json" id="hub-marca-data">'+json.dumps(datos,ensure_ascii=False).replace("</","<\\/")+"</script></head>",1)
+  datos=dict(p=url,cat=c,catNombre=CAT[c],h1=d["h1"],title=d["title"],description=d["description"],intro=d["intro"],items=d["items"],tabla=d.get("tabla"),resumen=d.get("resumen"),nombre=d["nombre"])
+  h=h.replace("</head>",ld(bc([("Inicio","/"),(CAT[c],f"/{c}/"),(d["nombre"],url)]),"bc-static")+ld(itemlist(c,url,d,_filas),"itemlist-static")+'<script type="application/json" id="hub-marca-data">'+json.dumps(datos,ensure_ascii=False).replace("</","<\\/")+"</script></head>",1)
   os.makedirs(f"{D}{url}",exist_ok=True); open(f"{D}{url}index.html","w",encoding="utf8").write(h)
 # hubs: enlaces de marca + BreadcrumbList
 MJ={c:sorted([[s,d["nombre"]] for (cc,s),d in pags.items() if cc==c],key=lambda x:x[1].lower()) for c in CAT}

@@ -8,7 +8,7 @@ import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import { useUltimaActualizacion } from "@/hooks/use-ficha-fechas.ts";
 
-type Datos = { p: string; cat: string; catNombre: string; h1: string; title: string; description: string; intro: string; items: [string, string][] };
+type Datos = { p: string; cat: string; catNombre: string; h1: string; title: string; description: string; intro: string; items: [string, string][]; tabla?: [string, string, string, string][] | null; resumen?: string | null; nombre?: string };
 const leer = (doc: Document, p: string): Datos | null => {
   try { const d = JSON.parse(doc.getElementById("hub-marca-data")?.textContent || "null") as Datos | null; return d && d.p === p ? d : null; } catch { return null; }
 };
@@ -43,6 +43,15 @@ export default function HubMarca() {
           <ul className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-1">
             {d.items.map(([s, n]) => <li key={s}><Link to={`/${d.cat}/${s}/`} className="text-sm text-gray-700 hover:text-red-600">{n}</Link></li>)}
           </ul>
+          {d.tabla && d.tabla.length > 0 && (
+            <section className="space-y-2" data-hub-tabla>
+              <h2 className="text-lg font-black text-gray-900">Comparativa rápida de {d.nombre}</h2>
+              <p className="text-sm text-gray-700 max-w-3xl leading-relaxed">{d.resumen}</p>
+              <div className="overflow-x-auto"><table className="text-sm text-gray-700"><thead><tr className="text-left text-xs text-gray-500"><th className="pr-3">Modelo</th><th className="pr-3">Precio desde</th><th>Dato clave</th></tr></thead><tbody>
+                {d.tabla.map(([s, n, pr, dt]) => <tr key={s}><td className="py-1 pr-3"><Link to={`/${d.cat}/${s}/`} className="text-red-600 hover:underline">{n}</Link></td><td className="py-1 pr-3 whitespace-nowrap">{pr || "Sin precio oficial"}</td><td className="py-1">{dt || "—"}</td></tr>)}
+              </tbody></table></div>
+            </section>
+          )}
         </>) : <p className="text-sm text-gray-500">{error ? "No hemos podido cargar esta marca." : "Cargando…"}</p>}
       </main>
       <SharedFooter editorial={{ ambito, tipo: "listado", actualizado }} />

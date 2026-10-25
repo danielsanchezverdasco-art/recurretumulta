@@ -15,6 +15,7 @@
 //   - La sección de seguridad dice honestamente que Euro NCAP no evalúa
 //     caravanas (nunca se inventan estrellas).
 // Búsqueda por slug del useParams. Sin noindex: son páginas para publicar.
+import { CARAVANAS_DIFERENCIAL } from "@/lib/caravanas-diferencial.ts";
 import { lazy, Suspense, useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import {
@@ -190,7 +191,14 @@ function Ficha({ auto }: { auto: Caravana }) {
   const analisisSlug = [auto.analisisSlug, BLOG_DE_FICHA[auto.id], auto.id]
     .find((s): s is string => !!s && BLOG_POST_SLUGS.has(s));
   const tieneBlog = analisisSlug != null;
-  const hermanas = CARAVANAS.filter((a) => a.marca === auto.marca && a.id !== slug).slice(0, 6);
+  // 25/10/2026: primero las de la misma serie (p. ej. Nomad 520 desde la Nomad 560), que antes
+  // quedaban fuera del corte de 6 y la ficha se quedaba sin enlaces internos.
+  const serie = (m: string) => m.split(" ")[0].toLowerCase();
+  const hermanas = CARAVANAS.filter((a) => a.marca === auto.marca && a.id !== slug)
+    .map((a, i) => ({ a, i, s: serie(a.modelo) === serie(auto.modelo) ? 0 : 1 }))
+    .sort((x, y) => x.s - y.s || x.i - y.i)
+    .map((x) => x.a)
+    .slice(0, 6);
 
   const carnet = textoCarnet(auto);
   const FAQS = [
@@ -479,6 +487,19 @@ function Ficha({ auto }: { auto: Caravana }) {
             <strong>≈</strong> estimación
           </p>
         </section>
+
+        {CARAVANAS_DIFERENCIAL[auto.id] && (
+          <section
+            className="rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
+            id="diferencias"
+            aria-label="Diferencias con su gama"
+          >
+            <h2 className="text-xl font-extrabold text-gray-900">{CARAVANAS_DIFERENCIAL[auto.id].titulo}</h2>
+            {CARAVANAS_DIFERENCIAL[auto.id].parrafos.map((p, i) => (
+              <p key={i} className="mt-2 text-sm leading-relaxed text-gray-700">{p}</p>
+            ))}
+          </section>
+        )}
 
         {(auto.opiniones?.length ?? 0) > 0 && (
           <section
