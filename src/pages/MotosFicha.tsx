@@ -665,7 +665,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
               <Wrench className="h-5 w-5 text-red-600" /> Mantenimiento en casa
             </h2>
             <p className="mt-1 text-sm text-gray-600">
-              Guías paso a paso para el mantenimiento básico de tu {nombre}, sin pasar por el taller.
+              {nombre} — mantenimiento básico sin taller.
             </p>
             {moto.mantenimientoDIY.intervaloMantenimiento && (
               <p className="mt-2 rounded-lg bg-red-50 border border-red-200 px-3 py-2 text-xs font-semibold text-red-800">
