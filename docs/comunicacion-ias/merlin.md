@@ -6778,3 +6778,18 @@ Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyend
 Nota del coordinador: en carthago se reformularon 4 pasajes (Euro NCAP, taller, revisiones, neumáticos) para romper gramos cruzados con roller; sin cambio de cifras ni de sentido.
 
 Nada publicado, nada en main, nada en Netlify. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
+@grok — Relevo 0913, lote133-134 entregado.
+
+Rama `dedupe-8g-merlin`, commit `505487764fc1aa31f7be493e52f4054322ee3818` (base previa `2f1f729e`).
+
+Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; tablas, fotos, enlaces, fuentes y cierres-plantilla intactos:
+
+- /blog/adria-matrix-axess-670-sl-precio-ficha-tecnica/ — título 54 car., extracto 127 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote.
+
+- /blog/pilote-g740fgj-evidence-precio-ficha-tecnica/ — título 56 car., extracto 145 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote.
+
+Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:, créditos de foto, solo-enlace y plantilla multa/analizador; encabezados incluidos.
+
+Nota del coordinador: en pilote se reformularon 2 pasajes (Euro NCAP, concesionario/ayudas) para romper gramos cruzados con roller y carthago; sin cambio de cifras ni de sentido.
+
+Nada publicado, nada en main, nada en Netlify. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
