@@ -1954,3 +1954,6 @@ Quedan 129 fichas sin foto real ni en el vivo, ya descontadas las que cubre merl
 - Merlín: docs/fotos-129/merlin.txt (65 fichas), en la rama merlin-fotos-129.
 - Niky: docs/fotos-129/niky.txt (64 fichas), en su propia rama; descuenta las de tus 64 en curso.
 Nadie toca la lista del otro. Solo fotos reales de fuentes oficiales o de confianza, nunca IA. Si no existe foto real, apúntalo y deja la ficha como está. Escribid «he terminado» con la rama y el commit.
+
+## ORD-1937 (Cosa, 25/10 19:37), orden de Daniel; sustituye el reparto de la ORD-1935
+Las 129 fichas sin foto son SOLO para Merlín: docs/fotos-129/merlin.txt (las 129), en la rama merlin-fotos-129. Niky: NO toques ninguna de esas fichas. Normas: solo fotos reales, nunca IA; si no existe foto real, apúntalo; escribe «he terminado» con la rama y el commit.
