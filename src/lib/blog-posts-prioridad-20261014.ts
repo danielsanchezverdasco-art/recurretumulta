@@ -916,8 +916,8 @@ La cifra (350.000/año, +6%, 4 años) ya la detalló la Comisión el 12/10. La c
 
   {
     slug: "alfa-romeo-giulietta-2025-precio-opiniones",
-    title: "Alfa Romeo Giulietta precio ocasión: desde 24.900 €, 120 CV",
-    excerpt: "Precio de ocasión del Alfa Romeo Giulietta en España, ficha, consumo y maletero. Cuánto cuesta, qué versión elegir y qué revisar antes de comprar.",
+    title: "Alfa Romeo Giulietta ocasión: compacto italiano, 24.900 €",
+    excerpt: "La Giulietta de ocasión parte de 24.900 €: compacto italiano de 120 CV, 350 l de maletero y 5 estrellas EuroNCAP en 2010, con producción terminada en 2020.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 3,
@@ -931,11 +931,11 @@ La cifra (350.000/año, +6%, 4 años) ya la detalló la Comisión el 12/10. La c
 
 ## Alfa Romeo Giulietta: lo que tienes que saber antes de comprar
 
-El Alfa Romeo Giulietta (descatalogado, fin de producción 2020) es un compacto con motor gasolina / diésel. En esta página tienes precio, ficha técnica, consumo, maletero, historia, mantenimiento y opiniones, con enlaces a la ficha técnica completa.
+La Giulietta de Alfa Romeo, descatalogada tras el fin de su producción en 2020, es un compacto con motor de gasolina o diésel. Esta página reúne su precio, su ficha técnica, su consumo, su maletero, su historia, su mantenimiento y opiniones, con enlaces a la ficha completa.
 
-**Precio:** 24.900 €. Precio aproximado no oficial de ocasión (mercado de ocasión; fin de producción 2020).
+**Precio:** 24.900 €, una aproximación no oficial de ocasión (mercado de ocasión; fin de producción en 2020).
 
-**Dato clave:** 120 CV (88 kW) · Maletero 350 l · 0–100 9,4 s · 195 km/h.
+**Dato clave:** 120 CV (88 kW), maletero de 350 l, 0–100 en 9,4 s y una velocidad máxima de 195 km/h.
 
 <a href=/coches/alfa-romeo-giulietta-2025/>Ver ficha técnica completa</a> · <a href=https://recurretumulta.online/#analizador>Analizar mi multa</a>
 
@@ -971,42 +971,42 @@ El Alfa Romeo Giulietta (descatalogado, fin de producción 2020) es un compacto 
 
 ## Mantenimiento
 
-Mantenimiento orientativo (modelo similar Alfa Romeo, misma marca): revisiones anuales o cada 15.000–20.000 km según motor. Coste según taller.
+A modo orientativo, con un modelo similar de Alfa Romeo como referencia, las revisiones se plantean cada año o cada 15.000–20.000 km según el motor; el coste depende del taller.
 
 ## Garantía oficial
 
-Sin garantía de nuevo (fin de producción 2020). Ocasión según vendedor.
+Al haber terminado su producción en 2020, no tiene garantía de nuevo; en ocasión, la garantía depende del vendedor.
 
 ## ¿Para quién es?
 
-Si buscas un compacto con 120 CV y maletero de 350 l, el Alfa Romeo Giulietta de ocasión entra en tu lista. Compáralo con la misma marca antes de decidir.
+Si tu lista incluye un compacto de ocasión con 120 CV y 350 l de maletero, la Giulietta tiene sitio en ella. Antes de decidir, compárala con otros modelos de la misma marca.
 
 
 ## Preguntas frecuentes
 
 ### ¿Se vende nueva la Giulietta?
 
-No; terminó en 2020.
+No, su producción terminó en 2020.
 
 ### ¿Cuántos CV tiene?
 
-Desde 120 CV (1.4 TB / 1.6 JTDM) hasta 240 CV en Quadrifoglio Verde.
+Va desde 120 CV (1.4 TB / 1.6 JTDM) hasta 240 CV en la Quadrifoglio Verde.
 
 ### ¿Qué maletero tiene?
 
-350 litros.
+Ofrece 350 litros.
 
 ### ¿Qué consume?
 
-En torno a 5–6 l/100 km según versión.
+Ronda los 5–6 l/100 km según la versión.
 
 ### ¿Es fiable?
 
-Con mantenimiento al día, mecánica conocida; revisar Multiair en gasolina.
+Con el mantenimiento al día es una mecánica conocida; en gasolina conviene revisar el Multiair.
 
 ### ¿Qué alternativa nueva hay?
 
-El Junior y el Tonale cubren su hueco en la gama actual.
+En la gama actual, su hueco lo cubren el Junior y el Tonale.
 
 ## También te puede interesar
 
@@ -1126,8 +1126,8 @@ El Junior es su sucesor espiritual en la gama.
   },
   {
     slug: "audi-a3-sedan-2025-precio-opiniones",
-    title: "Audi A3 Sedan 2025 precio: desde 34.200 €, 150 CV, 425 l",
-    excerpt: "Precio del Audi A3 Sedan 2025 en España, ficha, consumo y maletero. Cuánto cuesta, qué versión elegir y qué revisar antes de comprar.",
+    title: "Audi A3 Sedan 2025: berlina compacta de 150 CV, 425 l",
+    excerpt: "El A3 Sedan 2025 parte de 34.200 € aproximados: berlina compacta de 150 CV, 425 l de maletero, 0–100 en 8,4 s y 5 estrellas EuroNCAP en 2020.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 3,
@@ -1141,11 +1141,11 @@ El Junior es su sucesor espiritual en la gama.
 
 ## Audi A3 Sedan 2025: lo que tienes que saber antes de comprar
 
-El Audi A3 Sedan 2025 es un berlina compacta con motor gasolina / diésel / mhev. En esta página tienes precio, ficha técnica, consumo, maletero, historia, mantenimiento y opiniones, con enlaces a la ficha técnica completa.
+Con un precio aproximado no oficial de 34.200 €, el A3 Sedan 2025 se presenta como la berlina compacta de Audi, disponible con motor de gasolina, diésel o mhev. A continuación se recogen los datos esenciales de esta berlina, su consumo y su maletero, junto con su historia, consejos de mantenimiento y opiniones de usuarios.
 
-**Precio:** 34.200 €. Precio aproximado no oficial (comparadores como km77 y mercado).
+**Precio:** 34.200 €, una aproximación no oficial procedente de comparadores como km77 y del mercado.
 
-**Dato clave:** 150 CV (110 kW) · Maletero 425 l · 0–100 8,4 s · 224 km/h.
+**Dato clave:** 150 CV (110 kW) y 425 l de maletero; acelera de 0 a 100 en 8,4 s y llega a 224 km/h.
 
 <a href=/coches/audi-a3-sedan-2025/>Ver ficha técnica completa</a> · <a href=https://recurretumulta.online/#analizador>Analizar mi multa</a>
 
@@ -1181,42 +1181,42 @@ El Audi A3 Sedan 2025 es un berlina compacta con motor gasolina / diésel / mhev
 
 ## Mantenimiento
 
-Mantenimiento orientativo (modelo similar Audi, misma marca): plan LongLife, revisión variable hasta 30.000 km / 2 años según uso. Coste según concesionario.
+Como orientación, con un modelo similar de Audi como referencia, el plan LongLife prevé una revisión variable de hasta 30.000 km o 2 años según el uso; el coste depende del concesionario.
 
 ## Garantía oficial
 
-Garantía del fabricante en modelos parecidos (gama Audi): 2 años en España, según condiciones oficiales.
+La garantía del fabricante en modelos parecidos de la gama Audi es de 2 años en España, según las condiciones oficiales.
 
 ## ¿Para quién es?
 
-Si buscas un berlina compacta con 150 CV y maletero de 425 l, el Audi A3 Sedan 2025 entra en tu lista. Compáralo con la misma marca antes de decidir.
+Si tu búsqueda es una berlina compacta con 150 CV y 425 l de maletero, el A3 Sedan 2025 merece un hueco en tu lista. Antes de decidir, vale la pena ponerlo frente a otros modelos de la misma marca.
 
 
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el A3 Sedan?
 
-Precio aproximado no oficial desde unos 34.200 € (comparadores y mercado).
+Desde unos 34.200 €, como precio aproximado no oficial según comparadores y mercado.
 
 ### ¿Cuántos CV tiene?
 
-150 CV en 35 TFSI (110 kW).
+Rinde 150 CV en la versión 35 TFSI (110 kW).
 
 ### ¿Qué maletero tiene?
 
-425 litros.
+Tiene 425 litros.
 
 ### ¿Qué consume?
 
-En torno a 5–6 l/100 km WLTP según versión.
+Se mueve entre 5 y 6 l/100 km WLTP según la versión.
 
 ### ¿Tiene etiqueta ECO?
 
-Las MHEV sí.
+Sí, las versiones MHEV la tienen.
 
 ### ¿Qué diferencia hay con el Sportback?
 
-El Sedan es berlina de 4 puertas con maletero separado; el Sportback es 5 puertas.
+El Sedan es una berlina de 4 puertas con maletero separado, mientras el Sportback tiene 5 puertas.
 
 ## También te puede interesar
 
@@ -1756,8 +1756,8 @@ Misma mecánica; el X6 es coupé con menos altura y maletero.
   },
   {
     slug: "citroen-c4-cactus-2025-precio-opiniones",
-    title: "Citroën C4 Cactus de ocasión: 18.900 € con carácter",
-    excerpt: "El C4 Cactus de ocasión ronda los 18.900 €: 110 CV, 358 l de maletero y un diseño que sigue llamando la atención. Qué mirar antes de comprarlo.",
+    title: "Citroën C4 Cactus ocasión: Airbumps y 110 CV, 18.900 €",
+    excerpt: "El C4 Cactus de ocasión ronda los 18.900 €: 110 CV, 358 l de maletero y los famosos Airbumps. Qué revisar antes de comprar uno descatalogado en 2020.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 4,
@@ -1771,15 +1771,15 @@ Misma mecánica; el X6 es coupé con menos altura y maletero.
 
 ## Un coche que se reconoce a primera vista
 
-El Citroën C4 Cactus dejó de fabricarse en 2020, pero en el mercado de ocasión sigue siendo uno de esos coches que se reconocen sin mirar el logo. Su carta de presentación fueron los Airbumps, esas protecciones laterales rellenas de aire que amortiguan los pequeños golpes de aparcamiento y que en 2014 parecían ciencia ficción. El restyling de 2018 suavizó el diseño y retiró los Airbumps grandes de los laterales, pero mantuvo el carácter: un SUV compacto cómodo, con personalidad propia y sin pretensiones deportivas.
+Aunque su producción terminó en 2020, el C4 Cactus sigue siendo inconfundible en el mercado de ocasión, incluso sin mirar el logotipo. Lo que lo hizo famoso fueron los Airbumps, unas protecciones laterales con aire en su interior pensadas para absorber los roces de aparcamiento y que en 2014 sonaban a ciencia ficción. Con el restyling de 2018 el diseño se suavizó y desaparecieron los Airbumps grandes de los laterales, pero el coche conservó su esencia: un SUV compacto cómodo, con carácter propio y sin aspiraciones deportivas.
 
-En ocasión ronda los 18.900 €, una cifra aproximada y no oficial que depende del año, el kilometraje y el estado de cada unidad. No es un coche nuevo con garantía de fábrica: es una compra de segunda mano, y hay que valorarla como tal.
+De ocasión se mueve en torno a los 18.900 €, una cifra aproximada y no oficial que varía con el año, los kilómetros y el estado de cada ejemplar. No hablamos de un coche nuevo con garantía de fábrica, sino de una compra de segunda mano que hay que juzgar como tal.
 
 ## Qué ofrece por ese precio
 
-La versión de referencia entrega 110 CV (81 kW), el sprint hasta 100 km/h le lleva 10,8 segundos y su punta es de 184 km/h. Son cifras modestas, coherentes con su planteamiento: un coche para el día a día, no para correr. El maletero, de 358 litros, cumple para una familia pequeña sin ser generoso, y el interior apuesta por el confort típico de Citroën: asientos blandos y una suspensión que filtra bien el asfalto roto.
+La versión de referencia rinde 110 CV (81 kW), necesita 10,8 segundos para llegar a 100 km/h y alcanza 184 km/h de punta. Son números modestos, lógicos en un planteamiento pensado para el uso diario y no para correr. Su maletero de 358 litros sirve para una familia pequeña sin sobrar, y el interior sigue la receta de confort de Citroën: asientos mullidos y una suspensión que absorbe bien el asfalto en mal estado.
 
-Mide 4.157 mm de largo y tiene 5 plazas. En ciudad se mueve con soltura y aparca sin dramas, que es justo donde un coche así pasa la mayor parte de su vida.
+Con 4.157 mm de largo y 5 plazas, en ciudad se desenvuelve con soltura y aparca sin complicaciones, justo el entorno donde un coche así pasa casi toda su vida.
 
 ## Ficha rápida
 
@@ -1797,33 +1797,33 @@ Mide 4.157 mm de largo y tiene 5 plazas. En ciudad se mueve con soltura y aparca
 
 ## Seguridad: 4 estrellas de 2014
 
-En su prueba EuroNCAP de 2014, el C4 Cactus obtuvo 4 estrellas, con un 82% en protección de ocupantes adultos, un 79% en infantiles y un 80% en usuarios vulnerables. Son datos de hace más de una década y los protocolos han cambiado desde entonces, así que conviene leerlos como lo que son: una referencia de su época, no una nota comparable con la de un modelo actual.
+La prueba EuroNCAP de 2014 le otorgó 4 estrellas, con un 82% en protección de ocupantes adultos, un 79% en infantiles y un 80% en usuarios vulnerables. Han pasado más de diez años y los protocolos han cambiado desde entonces, así que esos resultados hay que tomarlos como una referencia de su época, no como una nota comparable a la de un modelo actual.
 
 ## Antes de comprar uno de ocasión
 
-Tres comprobaciones valen más que cualquier anuncio. Primera, el estado de los Airbumps si la unidad los conserva: son su seña de identidad y sustituirlos no es barato. Segunda, el historial de mantenimiento: como referencia orientativa, las revisiones se plantean cada año o cada 20.000 km, y un libro de revisiones al día dice mucho del anterior propietario. Tercera, el equipamiento real de la unidad: en un modelo descatalogado, dos Cactus del mismo año pueden llevar dotaciones muy distintas.
+Antes de cerrar la compra, tres comprobaciones pesan más que cualquier anuncio. Primero, cómo están los Airbumps si la unidad aún los conserva: son su seña de identidad y cambiarlos no sale barato. Segundo, el historial de mantenimiento: a modo orientativo, las revisiones se prevén cada año o cada 20.000 km, y un libro de revisiones al día habla muy bien del anterior propietario. Tercero, el equipamiento real del ejemplar: al ser un modelo descatalogado, dos Cactus del mismo año pueden venir con dotaciones muy diferentes.
 
-Como alternativa nueva dentro de la marca, Citroën ofrece hoy el C4 y el C3 Aircross, que recogen el testigo del Cactus con mecánicas y tecnología actuales.
+Si se busca una alternativa nueva dentro de la marca, Citroën propone hoy el C4 y el C3 Aircross, que toman el relevo del Cactus con mecánicas y tecnología actuales.
 
 ## Preguntas frecuentes
 
 ### ¿Se vende nuevo el C4 Cactus?
-No: la producción terminó en 2020. Solo se encuentra de ocasión.
+No, su producción terminó en 2020 y solo se encuentra de ocasión.
 
 ### ¿Qué son los Airbumps?
-Protecciones laterales con cápsulas de aire que absorben pequeños golpes, por ejemplo al abrir la puerta contra otro coche.
+Son protecciones laterales con cápsulas de aire que absorben pequeños golpes, como el de abrir la puerta contra otro coche.
 
 ### ¿Cuántos caballos tiene?
-La versión de referencia ofrece 110 CV.
+La versión de referencia rinde 110 CV.
 
 ### ¿Qué maletero tiene?
-358 litros.
+Tiene 358 litros.
 
 ### ¿Es cómodo?
-Sí: la comodidad es de lo mejor del coche, con suspensión de confort y asientos blandos al estilo Citroën.
+Sí, el confort es uno de sus puntos fuertes, gracias a la suspensión cómoda y a los asientos blandos al estilo Citroën.
 
 ### ¿Qué alternativa nueva hay?
-El Citroën C4 y el C3 Aircross.
+El Citroën C4 y el C3 Aircross actuales.
 
 ## También te puede interesar
 
@@ -3486,8 +3486,8 @@ Como coche de colección y de disfrute, su tirada de 350 unidades y su papel de 
   },
   {
     slug: "honda-s2000-precio-ficha-tecnica",
-    title: "Honda S2000 precio ocasión: desde 30.000 €, 240 CV (2009)",
-    excerpt: "Honda S2000: precio desde 30.000 €, 240 CV. No se vende en España. Versiones, consumo y qué conviene comprar. Historia y rivales incluidos.",
+    title: "Honda S2000 2009: roadster VTEC de 240 CV, clásico al alza",
+    excerpt: "El Honda S2000 de 2009: roadster VTEC de 240 CV, 0–100 en 6,2 s y precio de ocasión en torno a 30.000 €. Un clásico buscado, sin garantía de nuevo.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 4,
@@ -3506,7 +3506,7 @@ Como coche de colección y de disfrute, su tirada de 350 unidades y su papel de 
 
 **Ficha completa del modelo:** <a href=/coches/honda-s2000-2009/>Honda S2000 2009 — ficha técnica</a>
 
-Honda S2000 2009: Roadster clásico. Precio aproximado no oficial: mercado de ocasión ~30.000 € (según estado). No hay precio de nuevo. Fuente de la aproximación: listados de ocasión (comparadores).
+El S2000 de 2009 es un roadster clásico cuyo precio de ocasión ronda los ~30.000 € según el estado, una aproximación no oficial tomada de listados de comparadores. No existe precio de nuevo para este modelo.
 
 ## Ficha rápida
 
@@ -3561,15 +3561,15 @@ Honda S2000 2009: Roadster clásico. Precio aproximado no oficial: mercado de oc
 
 ## Mantenimiento
 
-Mantenimiento orientativo (modelo similar Honda Civic, misma marca): mantenimiento clásico; aceite, distribución por cadena, capota y embrague — verificar con especialista. Fuente: plan de mantenimiento Honda Civic (misma marca) + criterio de especialista.
+Como referencia orientativa se toma el Civic, modelo similar de la misma marca: un mantenimiento clásico en el que conviene revisar aceite, distribución por cadena, capota y embrague, siempre con un especialista. La fuente combina el plan de mantenimiento del Civic con el criterio de especialista.
 
 ## Garantía
 
-Sin garantía (modelo descatalogado, mercado de ocasión).
+No tiene garantía: es un modelo descatalogado que solo se mueve en el mercado de ocasión.
 
 ## EuroNCAP
 
-Sin datos EuroNCAP (época pre-protocolo actual).
+No hay datos EuroNCAP, porque pertenece a una época anterior al protocolo actual.
 
 ## Enlaces internos
 
@@ -3586,27 +3586,27 @@ Sin datos EuroNCAP (época pre-protocolo actual).
 
 ### ¿Cuánto cuesta el Honda S2000 2009?
 
-Precio aproximado no oficial: mercado de ocasión ~30.000 € (según estado). No hay precio de nuevo. Fuente de la aproximación: listados de ocasión (comparadores).
+En el mercado de ocasión se sitúa en torno a ~30.000 € según el estado, una aproximación no oficial de listados de comparadores; no hay precio de nuevo.
 
 ### ¿Cuántos CV tiene el Honda S2000 2009?
 
-240 CV (176 kW) en la versión de referencia de esta ficha.
+La versión de referencia de esta ficha rinde 240 CV, equivalentes a 176 kW.
 
 ### ¿Se vende el Honda S2000 en España?
 
-No se vende oficialmente en España. Esta ficha lo dice claramente y usa el precio del mercado donde se vende.
+No hay venta oficial en España, así que la ficha trabaja con el precio del mercado de ocasión donde se encuentra.
 
 ### ¿Qué EuroNCAP tiene el Honda S2000?
 
-Sin datos EuroNCAP (época pre-protocolo actual).
+No existen datos EuroNCAP para este modelo, anterior al protocolo actual.
 
 ### ¿Qué garantía tiene el Honda S2000?
 
-Sin garantía (modelo descatalogado, mercado de ocasión).
+Ninguna: al ser un modelo descatalogado de ocasión, no cuenta con garantía.
 
 ### ¿Merece la pena comprar el Honda S2000?
 
-Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
+Depende de lo que busques en un clásico: si te encaja un roadster de 240 CV con maletero de solo 142 l y consumo en torno a 9,5 l/100 km, merece una mirada seria; si necesitas practicidad diaria, compara antes con dos o tres rivales de su categoría con los datos de esta ficha.
 
 *Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
 
@@ -4850,8 +4850,8 @@ Compáralo con 2 o 3 rivales de su categoría antes de decidir —precio, consum
   },
   {
     slug: "jeep-wrangler-rubicon-392-precio-ficha-tecnica",
-    title: "Jeep Wrangler Rubicon 392 precio: desde 95.000 $, 470 CV",
-    excerpt: "Jeep Wrangler Rubicon 392: precio desde 95.000 $, 470 CV. No se vende en España. Versiones, consumo y qué conviene comprar. Historia y rivales incluidos.",
+    title: "Jeep Wrangler Rubicon 392: V8 de 470 CV sin venta oficial",
+    excerpt: "El Wrangler Rubicon 392 de 2025: V8 de 470 CV, 637 Nm y 0–100 en 4,5 s, con precio aproximado de ~95.000 $ en EE. UU. y sin venta oficial en España.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 4,
@@ -4870,7 +4870,7 @@ Compáralo con 2 o 3 rivales de su categoría antes de decidir —precio, consum
 
 **Ficha completa del modelo:** <a href=/coches/jeep-wrangler-rubicon-392-2025/>Jeep Wrangler Rubicon 392 2025 — ficha técnica</a>
 
-Jeep Wrangler Rubicon 392 2025: Todoterreno V8. Precio aproximado no oficial: desde ~95.000 $ en EE.UU. No se vende en España oficialmente. Fuente de la aproximación: listados del mercado estadounidense (comparadores).
+El Rubicon 392 de 2025 lleva el Wrangler al extremo: un todoterreno animado por un V8 que en Estados Unidos ronda los ~95.000 $ según listados de comparadores, una cifra aproximada y sin carácter oficial. En España no existe venta oficial de esta versión, así que en nuestro mercado no se puede comprar nuevo a través del canal oficial.
 
 ## Ficha rápida
 
@@ -4925,15 +4925,15 @@ Jeep Wrangler Rubicon 392 2025: Todoterreno V8. Precio aproximado no oficial: de
 
 ## Mantenimiento
 
-Mantenimiento orientativo (modelo similar Jeep Wrangler, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Jeep Wrangler (misma marca).
+Como orientación, tomando el Wrangler convencional de la misma marca como referencia, conviene prever una revisión cada año o cada 15.000 km, según el plan de mantenimiento de ese modelo similar.
 
 ## Garantía
 
-Garantía del fabricante en modelos parecidos (Jeep Wrangler, Jeep Grand Cherokee): 3 años/36.000 mi. Fuente: garantía Jeep EE.UU. en modelos parecidos.
+La referencia de garantía es la de modelos parecidos, Jeep Wrangler y Jeep Grand Cherokee: 3 años o 36.000 mi, según la garantía Jeep vigente en EE. UU. para esos modelos.
 
 ## EuroNCAP
 
-Jeep Wrangler base: 1 estrella EuroNCAP (2018). Se cita como referencia; la 392 no tiene prueba propia.
+La única referencia disponible es la del Wrangler base, que obtuvo 1 estrella EuroNCAP en 2018; la variante 392 no cuenta con una prueba propia, así que ese dato se ofrece solo como contexto.
 
 ## Enlaces internos
 
@@ -4950,27 +4950,27 @@ Jeep Wrangler base: 1 estrella EuroNCAP (2018). Se cita como referencia; la 392 
 
 ### ¿Cuánto cuesta el Jeep Wrangler Rubicon 392 2025?
 
-Precio aproximado no oficial: desde ~95.000 $ en EE.UU. No se vende en España oficialmente. Fuente de la aproximación: listados del mercado estadounidense (comparadores).
+Los comparadores estadounidenses lo sitúan desde unos ~95.000 $, siempre como aproximación no oficial. En España no hay venta oficial, de modo que ese precio corresponde al mercado de EE. UU.
 
 ### ¿Cuántos CV tiene el Jeep Wrangler Rubicon 392 2025?
 
-470 CV (346 kW) en la versión de referencia de esta ficha.
+La versión de referencia de esta ficha declara 470 CV, equivalentes a 346 kW.
 
 ### ¿Se vende el Jeep Wrangler Rubicon 392 en España?
 
-No se vende oficialmente en España. Esta ficha lo dice claramente y usa el precio del mercado donde se vende.
+No, no hay comercialización oficial en España; por eso la ficha trabaja con el precio del mercado en el que sí se vende.
 
 ### ¿Qué EuroNCAP tiene el Jeep Wrangler Rubicon 392?
 
-Jeep Wrangler base: 1 estrella EuroNCAP (2018). Se cita como referencia; la 392 no tiene prueba propia.
+Solo se puede citar el resultado del Wrangler base: 1 estrella en 2018. La 392 no tiene ensayo propio.
 
 ### ¿Qué garantía tiene el Jeep Wrangler Rubicon 392?
 
-Garantía del fabricante en modelos parecidos (Jeep Wrangler, Jeep Grand Cherokee): 3 años/36.000 mi. Fuente: garantía Jeep EE.UU. en modelos parecidos.
+La referencia es la garantía de modelos parecidos, Jeep Wrangler y Jeep Grand Cherokee: 3 años o 36.000 mi según la garantía Jeep en EE. UU.
 
 ### ¿Merece la pena comprar el Jeep Wrangler Rubicon 392?
 
-Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
+Depende de para qué lo quieras: si buscas un todoterreno V8 puro y aceptas un consumo en torno a 14 l/100 km, tiene sentido; si priorizas uso diario y costes, compáralo antes con dos o tres alternativas de su categoría usando los datos de esta ficha.
 
 *Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
 
@@ -7509,8 +7509,8 @@ Mantenimiento orientativo (modelo similar Multistrada V2 / DesertX / Hypermotard
   },
   {
     slug: "ducati-monster-v2-2026-precio-ficha-tecnica",
-    title: "Ducati Monster V2 2026 precio: desde 13.190 €, 111 CV",
-    excerpt: "Ducati Monster V2 2026: precio aproximado no oficial en España, 111 CV y ficha técnica. Desde 13.190 €. Opinión, rivales y qué mirar antes de comprar.",
+    title: "Ducati Monster V2 2026: naked de 111 CV desde 13.190 €",
+    excerpt: "La Monster V2 2026 declara 111 CV con 890 cc y parte de 13.190 € aproximados: naked para carnet A, con garantía Ducati de 2 años y revisión cada 15.000 km.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 5,
@@ -7522,11 +7522,11 @@ Mantenimiento orientativo (modelo similar Multistrada V2 / DesertX / Hypermotard
 
 ## Ducati Monster V2 2026: precio, ficha y qué mirar antes de comprar
 
-La Ducati Monster V2 2026 es una moto de categoría Naked con carnet A. Declara 111 CV (81.6 kW) con 890 cc. En esta guía tienes el precio, la ficha técnica, la historia del modelo, el mantenimiento, la garantía y las preguntas frecuentes. <a href=/motos/ducati-monster-v2-2026-ficha-tecnica-precio/>Ver ficha completa</a> · <a href=/motos/ducati-monster-v2-2026-ficha-tecnica-precio/>← Volver a la ficha</a>
+La Monster V2 2026 sitúa a Ducati en el segmento naked para el carnet A, con 111 CV (81.6 kW) extraídos de 890 cc. Esta guía reúne su precio, su ficha técnica, la trayectoria del modelo, el mantenimiento previsto, la garantía y las respuestas habituales. <a href=/motos/ducati-monster-v2-2026-ficha-tecnica-precio/>Ver ficha completa</a> · <a href=/motos/ducati-monster-v2-2026-ficha-tecnica-precio/>← Volver a la ficha</a>
 
 ## Precio en España
 
-Precio aproximado no oficial desde 13.190 €. Precio aproximado no oficial: 13.190 € (Motos.net comparador, Monster Versión 2026). El PVP puede variar por promoción, comunidad autónoma y gastos de matriculación. Confírmalo en la web oficial de Ducati o en un concesionario antes de comprar.
+El punto de partida aproximado, sin carácter oficial, es 13.190 € (Motos.net comparador, Monster Versión 2026). Ese PVP puede moverse según la promoción vigente, la comunidad autónoma y los gastos de matriculación, así que antes de comprar conviene confirmarlo en la web oficial de Ducati o en un concesionario.
 
 ## Ficha técnica
 
@@ -7555,11 +7555,11 @@ Precio aproximado no oficial desde 13.190 €. Precio aproximado no oficial: 13.
 
 ## Mantenimiento
 
-Mantenimiento orientativo (modelo similar Multistrada V2 / DesertX, misma marca): revisión cada 15.000 km y ajuste de válvulas cada 45.000 km (Ducati Madrid, Monster V2).
+Tomando como referencia orientativa modelos similares de la misma marca, Multistrada V2 y DesertX, el plan prevé una revisión cada 15.000 km y el ajuste de válvulas cada 45.000 km (Ducati Madrid, Monster V2).
 
 ## Garantía
 
-Garantía Ducati 2 años (24 meses) en modelos parecidos (toda la gama Ducati; ampliación oficial Factory Ever Red +12/24 meses) (ducati.com).
+La gama Ducati se respalda con 2 años (24 meses) en modelos parecidos, con ampliación oficial de 12 o 24 meses más a través de Factory Ever Red (ducati.com).
 
 ## Rivales y alternativas
 
@@ -7572,27 +7572,27 @@ Garantía Ducati 2 años (24 meses) en modelos parecidos (toda la gama Ducati; a
 
 ### ¿Cuánto cuesta Ducati Monster V2 2026 en España?
 
-Precio: Precio aproximado no oficial: 13.190 € (Motos.net comparador, Monster Versión 2026). Confirma el PVP en la web oficial o concesionario antes de comprar, porque las promociones cambian.
+El precio aproximado no oficial es 13.190 € (Motos.net comparador, Monster Versión 2026); como las promociones cambian, confirma el PVP en la web oficial o en un concesionario antes de comprar.
 
 ### ¿Qué potencia tiene Ducati Monster V2 2026?
 
-Potencia declarada: 111 CV (81.6 kW) con 890 cc.
+Declara 111 CV (81.6 kW) con una cilindrada de 890 cc.
 
 ### ¿Qué carnet hace falta para Ducati Monster V2 2026?
 
-Carnet A (verificar en ficha oficial).
+Hace falta el carnet A; conviene verificarlo en la ficha oficial.
 
 ### ¿Tiene prueba EuroNCAP Ducati Monster V2 2026?
 
-No. Las motos no tienen prueba EuroNCAP de coche; se indica honestamente 'sin datos EuroNCAP (motos no tienen prueba EuroNCAP)'.
+No existe: las motos no pasan la prueba EuroNCAP de los coches, así que se indica honestamente que no hay datos EuroNCAP para este modelo.
 
 ### ¿Qué garantía tiene Ducati Monster V2 2026?
 
-Garantía: Garantía Ducati 2 años (24 meses) en modelos parecidos (toda la gama Ducati; ampliación oficial Factory Ever Red +12/24 meses) (ducati.com).
+La garantía es de 2 años (24 meses) para modelos parecidos de toda la gama Ducati, ampliable oficialmente 12 o 24 meses con Factory Ever Red (ducati.com).
 
 ### ¿Cada cuánto se revisa Ducati Monster V2 2026?
 
-Mantenimiento: Mantenimiento orientativo (modelo similar Multistrada V2 / DesertX, misma marca): revisión cada 15.000 km y ajuste de válvulas cada 45.000 km (Ducati Madrid, Monster V2).
+El mantenimiento orientativo, con Multistrada V2 y DesertX como modelos similares de la misma marca, marca revisión cada 15.000 km y ajuste de válvulas cada 45.000 km (Ducati Madrid, Monster V2).
 
 ## Enlaces
 
@@ -8013,8 +8013,8 @@ Mantenimiento orientativo (modelo similar Scrambler 800 / Panigale V4, misma mar
   },
   {
     slug: "ducati-scrambler-icon-2026-precio-ficha-tecnica",
-    title: "Ducati Scrambler Icon 2026 precio: desde 11.690 €, 73 CV",
-    excerpt: "Ducati Scrambler Icon 2026: precio aproximado no oficial en España, 73 CV y ficha técnica. Desde 11.690 €. Opinión, rivales y qué mirar antes de comprar.",
+    title: "Ducati Scrambler Icon 2026: 73 CV con carácter retro",
+    excerpt: "La Scrambler Icon 2026 rinde 73 CV con 803 cc desde 11.690 € aproximados: carnet A, con Oil Service cada 12.000 km y Desmo cada 24.000 km.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 5,
@@ -8026,11 +8026,11 @@ Mantenimiento orientativo (modelo similar Scrambler 800 / Panigale V4, misma mar
 
 ## Ducati Scrambler Icon 2026: precio, ficha y qué mirar antes de comprar
 
-La Ducati Scrambler Icon 2026 es una moto de categoría Scrambler con carnet A. Declara 73 CV (53.6 kW) con 803 cc. En esta guía tienes el precio, la ficha técnica, la historia del modelo, el mantenimiento, la garantía y las preguntas frecuentes. <a href=/motos/ducati-scrambler-icon-2026-ficha-tecnica-precio/>Ver ficha completa</a> · <a href=/motos/ducati-scrambler-icon-2026-ficha-tecnica-precio/>← Volver a la ficha</a>
+La Scrambler Icon 2026 es la propuesta scrambler de Ducati para el carnet A: 73 CV (53.6 kW) con 803 cc y un carácter relajado. Aquí encontrarás su precio, su ficha, la historia del modelo, el mantenimiento, la garantía y las preguntas frecuentes. <a href=/motos/ducati-scrambler-icon-2026-ficha-tecnica-precio/>Ver ficha completa</a> · <a href=/motos/ducati-scrambler-icon-2026-ficha-tecnica-precio/>← Volver a la ficha</a>
 
 ## Precio en España
 
-Precio aproximado no oficial desde 11.690 €. Precio aproximado no oficial: 11.690 € (Motos.net comparador, Scrambler Icon). El PVP puede variar por promoción, comunidad autónoma y gastos de matriculación. Confírmalo en la web oficial de Ducati o en un concesionario antes de comprar.
+El precio de partida, aproximado y no oficial, es 11.690 € (Motos.net comparador, Scrambler Icon). Según la promoción, la comunidad autónoma y los gastos de matriculación, el PVP final puede variar; confírmalo en la web oficial de Ducati o en un concesionario antes de comprar.
 
 ## Ficha técnica
 
@@ -8059,11 +8059,11 @@ Precio aproximado no oficial desde 11.690 €. Precio aproximado no oficial: 11.
 
 ## Mantenimiento
 
-Mantenimiento orientativo (modelo similar Scrambler 800 / Panigale V4, misma marca): Oil Service cada 12.000 km y Desmo Service cada 24.000 km (Ducati Madrid, tabla de mantenimiento transparente).
+Como orientación, con Scrambler 800 y Panigale V4 como modelos similares de la misma marca, el Oil Service se programa cada 12.000 km y el Desmo Service cada 24.000 km (Ducati Madrid, tabla de mantenimiento transparente).
 
 ## Garantía
 
-Garantía Ducati 2 años (24 meses) en modelos parecidos (toda la gama Ducati; ampliación oficial Factory Ever Red +12/24 meses) (ducati.com).
+Ducati cubre sus modelos parecidos durante 2 años (24 meses) en toda la gama, con la opción oficial Factory Ever Red de sumar 12 o 24 meses (ducati.com).
 
 ## Rivales y alternativas
 
@@ -8076,27 +8076,27 @@ Garantía Ducati 2 años (24 meses) en modelos parecidos (toda la gama Ducati; a
 
 ### ¿Cuánto cuesta Ducati Scrambler Icon 2026 en España?
 
-Precio: Precio aproximado no oficial: 11.690 € (Motos.net comparador, Scrambler Icon). Confirma el PVP en la web oficial o concesionario antes de comprar, porque las promociones cambian.
+El precio aproximado no oficial es 11.690 € (Motos.net comparador, Scrambler Icon); verifica el PVP en la web oficial o en un concesionario antes de comprar, porque las promociones varían.
 
 ### ¿Qué potencia tiene Ducati Scrambler Icon 2026?
 
-Potencia declarada: 73 CV (53.6 kW) con 803 cc.
+Declara 73 CV (53.6 kW) con 803 cc.
 
 ### ¿Qué carnet hace falta para Ducati Scrambler Icon 2026?
 
-Carnet A (verificar en ficha oficial).
+El permiso requerido es el A, tal como recoge la ficha oficial.
 
 ### ¿Tiene prueba EuroNCAP Ducati Scrambler Icon 2026?
 
-No. Las motos no tienen prueba EuroNCAP de coche; se indica honestamente 'sin datos EuroNCAP (motos no tienen prueba EuroNCAP)'.
+Tampoco: al ser una moto no tiene prueba EuroNCAP de coche, y se deja constancia honesta de que no hay datos EuroNCAP.
 
 ### ¿Qué garantía tiene Ducati Scrambler Icon 2026?
 
-Garantía: Garantía Ducati 2 años (24 meses) en modelos parecidos (toda la gama Ducati; ampliación oficial Factory Ever Red +12/24 meses) (ducati.com).
+Cubre 2 años (24 meses) en modelos parecidos de toda la gama Ducati, con ampliación oficial de 12 o 24 meses mediante Factory Ever Red (ducati.com).
 
 ### ¿Cada cuánto se revisa Ducati Scrambler Icon 2026?
 
-Mantenimiento: Mantenimiento orientativo (modelo similar Scrambler 800 / Panigale V4, misma marca): Oil Service cada 12.000 km y Desmo Service cada 24.000 km (Ducati Madrid, tabla de mantenimiento transparente).
+El plan orientativo, tomando Scrambler 800 y Panigale V4 como similares de la misma marca, fija el Oil Service cada 12.000 km y el Desmo Service cada 24.000 km (Ducati Madrid, tabla de mantenimiento transparente).
 
 ## Enlaces
 
