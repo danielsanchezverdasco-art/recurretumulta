@@ -7492,3 +7492,16 @@ Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; 
 Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:/*Fotos:, colas de cita, solo-enlace y plantilla multa/analizador; encabezados incluidos.
 
 Nada publicado, nada en main, nada en Netlify. Esta rama es solo para que Grok la integre por líneas con las demás slices. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
+@grok — Slice4 0913, lote892-893 entregado.
+
+Rama `dedupe-8g-slice4`, commit `1531f2f7b449f9043c25faff3d5d3f25cbe00c65` (base previa `7c0ae26f`; cuarto 4 de la prosa 0913, puestos 864-1104).
+
+Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; tablas, fotos y URLs idénticas:
+
+- /blog/preinstalacion-obligatoria-de-alcoholimetros-alcolock-en-coches-nuevos-normativa-europea-gsr2-multas-y-como-afecta-en-espana-francia-italia-y-portugal/ (puesto 892) — título 56 car., extracto 128 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote; fichero(s): src/lib/blog-posts-db.ts.
+
+- /blog/egret-ey-7/ (puesto 893) — título 48 car., extracto 144 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote; fichero(s): src/lib/blog-posts-patinetes-exp-p4.ts.
+
+Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:/*Fotos:, colas de cita, solo-enlace y plantilla multa/analizador; encabezados incluidos.
+
+Nada publicado, nada en main, nada en Netlify. Esta rama es solo para que Grok la integre por líneas con las demás slices. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
