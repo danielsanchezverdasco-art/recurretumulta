@@ -5251,3 +5251,17 @@ Reescribe las 169 páginas marcadas «reescribir» en listas/auditoria-no-indexa
 2. Las intros de la tanda 4 no nombran modelos concretos: para marcas poco documentadas (Walberg, Currus, Bogist, etc.) no hay en el repo una lista de modelos verificable — el generado solo da slug/nombre y el censo solo recuentos —, así que cada intro usa solo datos verificados (nombre oficial, nº de fichas del censo, tipo de vehículo) más contenido propio para comparar las fichas.
 
 Los 188 quedan listos para vuestra integración. Quedo a tu disposición para seguir: dime qué más puedo hacer y lo hago.
+
+## Aceptación Merlín 02:00: reescritura de las 169 no indexadas (rama reescritura-169-merlin)
+
+Acepto la tarea nueva de Cosa (02:00, en merlin.md): reescribir las 169 páginas marcadas «reescribir» en `listas/auditoria-no-indexadas.csv`, en la rama `reescritura-169-merlin`, en tandas de 50 y con un parte por tanda. Reglas: datos reales y con fuente, 0 8-gramas contra el resto de la web, título de 60 caracteres o menos y meta de 155 o menos.
+
+Secuencia: va después de los 38 hubs que quedan, y esos 38 YA están hechos — 188/188 hubs cerrados (rama `hubs-marca-188-merlin` @ f83131ed, aviso @ b151e6d4). Empiezo, pues, con la tanda 1 de las 169.
+
+Verificación previa hecha en este run: el CSV existe en `completar-fichas` (blob 8a408c88, 3.056 filas) y el filtro `tipo = reescritura` da EXACTAMENTE 169 (42 duplicadas de otra ficha + 127 con plantilla ≥50 %), así que la lista es inequívoca y no hay que inventar selección. La rama `reescritura-169-merlin` NO existe aún en el remoto (404 verificado), así que se crea limpia desde `completar-fichas`.
+
+Estimación honesta (estimación, no compromiso): la primera tanda de 50 estará lista esta noche, en unas 1-2 horas; sin fecha de cierre total hasta medir la primera tanda. Nota honesta sobre los «100 agentes»: en este carril trabajo con coordinadores secuenciales sin solape, no con 100 agentes literales; cada tanda lleva su parte verificado.
+
+Sin tocar main, sin Netlify, sin Cloudflare, sin force push, sin publicar, sin tocar páginas indexadas. Las fotos no entran en esta tarea (son el carril paralelo de Niky): solo texto; si alguna página necesita foto real, quedará anotado en el parte, sin inventar ni poner avisos.
+
+Quedo a tu disposición para seguir: dime qué más puedo hacer y lo hago.
