@@ -1934,9 +1934,9 @@ El S1F da más autonomía por menos dinero; el Air Pro pesa menos y tiene mejor 
   },
   {
     slug: "inmotion-l9",
-    title: "InMotion L9: 95 km de autonomía urbana",
+    title: "InMotion L9: patinete urbano de 95 km",
     excerpt:
-      "El InMotion L9 apuesta por la eficiencia: 675 Wh, 95 km declarados, 500 W y 23,9 kg para devorar ciudad. Ficha técnica completa.",
+      "El InMotion L9 prioriza llegar lejos en ciudad: batería de 675 Wh, motor de 500 W, 95 km declarados y 23,9 kg. Sin precio oficial en euros.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -1955,11 +1955,13 @@ El S1F da más autonomía por menos dinero; el Air Pro pesa menos y tiene mejor 
     ],
     content: `<img src=/media/patinetes/inmotion-l9-1.webp alt=InMotion L9, vista lateral>
 
-**¿Buscas solo los datos?** <a href=/patinetes/inmotion-l9/>Ver ficha técnica del InMotion L9</a>: autonomía y motor. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+Cifras rápidas: <a href=/patinetes/inmotion-l9/>ficha del InMotion L9</a> · <a href=/comparador-patinetes/>comparador de patinetes</a>.
 
-El **InMotion L9** comparte la fórmula del S1F —**675 Wh**, **500 W** (1.000 W de pico)— pero con enfoque urbano eficiente: **95 km declarados**, velocidad contenida de **25-30 km/h** y **23,9 kg**. Para hacer kilómetros en ciudad sin prisas.
+InMotion plantea el L9 como un patinete para sumar kilómetros sin prisas: la prioridad no es acelerar ni correr, sino que la carga dure y el conjunto siga siendo manejable. Por eso combina un motor comedido con una batería generosa para su peso, y limita la velocidad a valores de ciudad. El resultado es un VMP pensado para trayectos diarios largos, no para buscar sensaciones fuertes.
 
-## Ficha técnica resumida
+Su base técnica comparte elementos con el S1F de la misma marca: motor de **500 W** con picos de **1.000 W** y una batería de **675 Wh** (54 V y 12,5 Ah). Con ese conjunto anuncia **95 km** de alcance, se mueve entre **25 y 30 km/h** según mercado y pesa **23,9 kg**. Es, en definitiva, un urbano eficiente: muchos kilómetros por carga, peso contenido y velocidad de sobra para la ciudad.
+
+## Datos clave del InMotion L9
 
 | Dato | Valor |
 |---|---|
@@ -1971,25 +1973,25 @@ El **InMotion L9** comparte la fórmula del S1F —**675 Wh**, **500 W** (1.000 
 | **Velocidad máxima** | 25-30 km/h |
 | **Peso** | 23,9 kg |
 
-¿Quieres el detalle completo? <a href=/patinetes/inmotion-l9/>Ficha técnica completa del InMotion L9</a>.
+Detalle: <a href=/patinetes/inmotion-l9/>ficha completa del L9</a>.
 
-## Precio del InMotion L9 en España
+## Precio en España: sin cifra oficial
 
-Sin precio oficial en euros publicado (referencia de **999 $** en otros mercados). Si llega a España a precio competitivo, es muy interesante; si no, el S1F hace casi lo mismo por 625 €.
+No hay precio oficial en euros publicado para el L9; la referencia que circula en otros mercados ronda los **999 dólares**. Si aterrizara en España con un precio competitivo, su propuesta ganaría muchos enteros; si no, el S1F, que hace casi lo mismo y cuesta **625 €**, seguiría siendo la opción más fácil de defender.
 
 <img src=/media/patinetes/inmotion-l9-2.webp alt=Detalle del InMotion L9>
 
-## Autonomía real vs declarada
+## Autonomía: 95 km anunciados, unos 64 km en ciudad
 
-**95 km declarados** que en ciudad se traducen en **unos 64 km reales**. La velocidad contenida ayuda: a 25 km/h el consumo es mucho menor que a 40.
+El L9 anuncia **95 km**, pero en uso urbano la estimación razonable baja a **unos 64 km**. La diferencia no sorprende: la cifra del fabricante se logra en condiciones favorables, mientras que la ciudad real añade paradas, peso del conductor y viento. Además, rodar a **25 km/h** en lugar de a 40 km/h reduce mucho el consumo, y ahí es donde este modelo saca partido a su puesta a punto tranquila.
 
-## Frenos y neumáticos
+## Frenos y ruedas
 
-Frenos de disco y neumáticos de 10 pulgadas, equipo estándar y suficiente para su velocidad y peso.
+El equipo de rodadura es el habitual de su categoría y va acorde con su velocidad y su peso: disco en los frenos y ruedas de **10 pulgadas**. Nada exótico, pero suficiente para parar con seguridad un conjunto de **23,9 kg** que no pretende pasar de 30 km/h.
 
-## Certificado DGT y normativa VMP
+## Normativa VMP: certificado DGT
 
-Con su velocidad de **25-30 km/h**, es un VMP de manual: **limitado a 25 km/h** en España, **prohibido en aceras** y por vías permitidas. Sin líos legales.
+Por velocidad y concepto, el L9 encaja en la categoría de VMP sin complicaciones: en España debe circular **limitado a 25 km/h**, no puede usar las aceras y solo puede rodar por las vías que la normativa permite. Es un planteamiento legal sencillo, sin zonas grises, siempre que la unidad se use en su configuración limitada.
 
 ## Puntos fuertes y débiles
 
@@ -2003,11 +2005,11 @@ Con su velocidad de **25-30 km/h**, es un VMP de manual: **limitado a 25 km/h** 
 
 <img src=/media/patinetes/inmotion-l9-3.webp alt=InMotion L9 en ruta>
 
-## InMotion: del monociclo eléctrico al patinete de gran autonomía
+## InMotion: de los monociclos al patinete de largo recorrido
 
-InMotion es un fabricante chino especializado en movilidad eléctrica personal, conocido primero por sus monociclos y después por una gama de patinetes que puede consultarse en la <a href=https://www.inmotion.com/>web oficial de InMotion</a>. El L9 ocupa un lugar concreto en esa gama: no es el patinete de iniciación ni el deportivo de la casa, sino el de **gran autonomía para uso urbano intensivo**. Comparte base con el S1F —misma batería de **675 Wh** y mismo motor de **500 W**— pero con una puesta a punto contenida, orientada a consumir poco y durar mucho entre cargas.
+La marca china InMotion se dio a conocer con sus monociclos eléctricos y más tarde trasladó ese saber hacer a los patinetes; su catálogo completo está en la <a href=https://www.inmotion.com/>web oficial de InMotion</a>. En ese catálogo, el L9 no es ni el modelo para empezar ni el más deportivo: es el de **recorridos urbanos largos**. Hereda la base del S1F —batería de **675 Wh** y motor de **500 W**—, pero con una calibración más tranquila, pensada para gastar poco y aguantar mucho entre una carga y la siguiente.
 
-## La autonomía, explicada sin humo: 95 declarados, unos 64 reales
+## Autonomía con los pies en la tierra: 95 anunciados, 64 reales
 
 | Dato | InMotion L9 |
 |---|---|
@@ -2020,39 +2022,39 @@ InMotion es un fabricante chino especializado en movilidad eléctrica personal, 
 | Neumáticos | 10 pulgadas |
 | Precio de referencia | Sin PVP oficial en euros (unos 999 dólares) |
 
-La diferencia entre los **95 km declarados** y los **64 km reales** que estima este análisis no es un engaño específico de InMotion: es la diferencia habitual entre el ciclo de homologación del fabricante —piloto ligero, velocidad constante y baja— y la ciudad real, con semáforos, peso del piloto y viento. Aun con el descuento, 64 km reales por carga siguen siendo una cifra alta para un patinete de **23,9 kg**, y esa es su verdadera carta: pocos modelos combinan esa batería con un peso todavía asumible para subir unos escalones o meterlo en un maletero.
+Que el fabricante anuncie **95 km** y el análisis estime **64 km** en ciudad no señala un engaño de InMotion: señala la brecha normal entre un ciclo de homologación —conductor ligero, ritmo constante y bajo— y la calle de verdad, con semáforos, el peso del conductor y el viento en contra. Incluso recortada así, la cifra real sigue siendo notable para un VMP de **23,9 kg**, y ahí está su baza: casi ningún modelo une una batería así con un peso que todavía permita subir unos escalones o guardarlo en un maletero.
 
-## Uso real: para quien hace kilómetros, no para quien busca sensaciones
+## Para quién encaja (y para quién no)
 
-El L9 está pensado para trayectos largos y repetitivos: ir al trabajo a varios kilómetros, encadenar recados, campus grandes. Su velocidad contenida de **25-30 km/h** y la ausencia de una suspensión destacable, señalada entre sus contras, lo orientan a asfalto urbano en buen estado, no a aventura ni a firme roto. Con 23,9 kg no es el patinete que se sube a un quinto sin ascensor todos los días: es ligero para su batería, pero no es un patinete ligero en términos absolutos, y conviene asumirlo antes de comprar.
+El comprador natural del L9 repite trayectos largos: desplazamientos al trabajo de varios kilómetros, recados encadenados o moverse por un campus grande. Su ritmo contenido, de **25 a 30 km/h**, y una suspensión que no destaca —así figura entre sus contras— lo sitúan en asfalto urbano en buen estado, lejos de la aventura y del firme roto. Y sus 23,9 kg obligan a ser realista: resultan ligeros en relación con la batería que lleva, pero no convierten al L9 en un patinete ligero en términos absolutos, ni en el modelo ideal para subir a diario a un quinto sin ascensor.
 
-## Mantenimiento: lo de un VMP eléctrico, con la batería como protagonista
+## Mantener el L9: la batería primero
 
-El mantenimiento de un patinete como el L9 se concentra en lo verificable y general de cualquier VMP eléctrico: presión y desgaste de los neumáticos de 10 pulgadas, frenos de disco —pastillas y ajuste—, holguras de la dirección y, sobre todo, la salud de la batería de 675 Wh, que es el componente más caro del conjunto. Cuidarla significa no almacenarla descargada durante semanas y cargarla con su cargador. No publicamos costes porque no hay una tabla oficial de mantenimiento del L9 para España que se pueda enlazar con fuente, y en esta casa las cifras no se inventan.
+Mantener un L9 es mantener cualquier VMP eléctrico, con la batería como pieza central: vigilar presión y desgaste de las ruedas de 10 pulgadas, el estado de los frenos de disco —pastillas y ajuste— y las holguras de la dirección, y sobre todo cuidar la batería de 675 Wh, el componente más caro del conjunto. Eso pasa por no guardarla descargada semanas enteras y por usar siempre su cargador. No damos costes de mantenimiento porque no existe una tabla oficial del L9 para España que podamos enlazar como fuente, y aquí las cifras no se inventan.
 
-## Normativa VMP en España: certificado DGT y límite de 25 km/h
+## Circular legal en España
 
-En España, un patinete como el L9 es un **vehículo de movilidad personal (VMP)**: debe circular limitado a **25 km/h**, tiene prohibidas las aceras y debe respetar la normativa de certificación de la DGT para los VMP nuevos, cuyo marco oficial puede consultarse en la <a href=https://www.dgt.es/>web oficial de la DGT</a>. El post original ya clasifica al L9 como VMP de manual, sin líos legales, siempre que se use en su configuración limitada. Casco, luces y respeto a las ordenanzas municipales de cada ciudad completan el paquete legal básico del usuario.
+En España el L9 se encuadra como **vehículo de movilidad personal (VMP)**: ha de rodar limitado a **25 km/h**, no puede circular por las aceras y debe cumplir la normativa de certificación de la DGT aplicable a los VMP nuevos, cuyo marco oficial está en la <a href=https://www.dgt.es/>web oficial de la DGT</a>. Usado en su configuración limitada, es un VMP sin complicaciones legales. El resto del equipaje legal del usuario lo ponen el casco, las luces y las ordenanzas municipales de cada ciudad. Y un matiz que conviene dejar claro: Euro NCAP no evalúa patinetes eléctricos, así que aquí no hay estrellas que citar.
 
-## L9 o S1F, y frente a la competencia: veredicto
+## Veredicto: L9 frente a S1F y al resto
 
-La comparativa decisiva es la interna: el propio análisis lo resume en que el **S1F hace casi lo mismo por 625 €**, es más rápido y se vende en Europa, mientras que el L9 es más eficiente, más contenido y no tiene precio oficial en euros. Contra patinetes de gran autonomía de otras marcas, el L9 gana en relación entre batería y peso y pierde en presencia comercial en España. Puedes comparar la gama de la marca, con el <a href=/patinetes/inmotion-s1f/>InMotion S1F</a> y el <a href=/patinetes/inmotion-climber/>InMotion Climber</a>, en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
+El duelo que decide la compra se juega en casa: el **S1F ofrece casi lo mismo por 625 €**, corre más y está disponible en Europa, mientras el L9 resulta más eficiente y más contenido, pero sin precio oficial en euros. Si se mira a otras marcas con modelos de largo alcance, el L9 destaca por equilibrar batería y peso, aunque flojea en presencia comercial en España. En el <a href=/comparador-patinetes/>comparador de patinetes</a> puedes enfrentar al <a href=/patinetes/inmotion-s1f/>S1F</a> y al <a href=/patinetes/inmotion-climber/>Climber</a> con el L9.
 
-**¿Merece la pena?** **Para quién sí:** para quien priorice autonomía real por encima de todo y pueda conseguirlo a precio competitivo en Europa. **Para quién no:** para quien compre en España con garantía local y precio cerrado: ahí el S1F, con red y PVP en euros, es hoy la compra más fácil de justificar.
+**¿Merece la pena?** **Convence a:** quien ponga la autonomía real por delante de todo y encuentre una unidad en Europa a buen precio. **No convence a:** quien necesite garantía local y un precio cerrado en España: ahí el S1F, con distribución y precio en euros, resulta hoy la adquisición más sensata.
 
 ## Preguntas frecuentes
 
-### ¿Qué autonomía real tiene?
-Unos **64 km** en ciudad.
+### ¿Cuántos kilómetros reales da?
+Alrededor de **64 km** en ciudad.
 
 ### ¿L9 o S1F?
-Misma batería y motor; el L9 es más eficiente y contenido, el S1F más rápido y barato. Para ciudad tranquila, L9.
+Llevan la misma batería y el mismo motor; el L9 apuesta por la eficiencia y la contención, el S1F por la velocidad y el precio bajo. Para rodar tranquilo por ciudad, L9.
 
-### ¿Es legal en España?
-Sí, como VMP **limitado a 25 km/h**.
+### ¿Se puede usar legalmente en España?
+Sí: como VMP con el límite de **25 km/h**.
 
-### ¿Cuánto pesa?
-**23,9 kg**: ligero para llevar 675 Wh.
+### ¿Qué peso tiene?
+**23,9 kg**: poco peso para una batería de 675 Wh.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
