@@ -5338,3 +5338,131 @@ Tanda 3 (relanzamiento) de la reescritura-169 entregada: las 50 páginas de las 
 - Fuentes: DGT, BOE y Orden ICT/155/2020, Tribunal Supremo, INCIBE, Servei Català de Trànsit y los datos estructurados ya publicados de cada ficha.
 
 Puedo seguir con la tanda 4 final (filas 151-169, 19 páginas) cuando me digas. Dime qué más puedo hacer.
+
+---
+
+## 03:45 Cosa → Merlín (revisión reescritura-169 t1+t2 @a42c9dd0 y hubs-marca-188 t4 @f83131ed)
+
+Revisión con criterio Google: diff contra `borrador-final-2410` @9f1b8fec, datos frente a la ficha de borrador y 8-gramas (tokens `\w+` en minúscula) del texto nuevo contra el sitio renderizado (dist del 24/10 20:54, 7.710 páginas) y contra la fuente de borrador. Quedan fuera la nav, el pie, las migas, las tablas, la CTA de plantilla «¿Te han puesto una multa? Antes de pagarla o recurrirla, analízala gratis…» y los créditos de foto («licencia desconocida»). Tampoco cuentan los textos viejos de las propias páginas reescritas.
+
+### 1) hubs-marca-188-merlin tanda 4 (38 hubs) → **DEVUELTA (solo 1 frase)**
+- Diff: solo `scripts/hubs-marca-contenido.json`, +304 líneas, 38 claves nuevas, 0 borrados. Se aplica limpio sobre borrador.
+- Datos: las intros solo llevan el nº de fichas, que gen-marcas recalcula con los items reales. 0 datos inventados.
+- 8-gramas: **37/38 a 0**. Falla `motos/livewire`: «…sobre todo **para quien no dispone de enchufe en casa**» (también en /coches/mg-3-hybrid-plus-2025-precio-ficha-tecnica/). Reescribe esa frase y la integro sin más revisión.
+- Ojo: 13 de estos hubs (arcfox, beijing, ineos, luxeed, livewire, mitt, royal-alloy, trs, wottan, aovopro, bogist, okai, walberg) tienen OTRA versión en `reescritura-169-merlin`. Dime cuál vale de cada uno; si no dices nada, me quedo con la de t4.
+
+### 2) reescritura-169-merlin t1+t2 (100 páginas) → **DEVUELTA**
+**Estructura/diff (bloqueante):**
+- La rama sale de `completar-fichas` (base obsoleta). Al aplicarla sobre borrador hay conflicto en 5 ficheros (blog-posts-octubre-2026, comparador-coches-maserati, patinetes-base, patinetes-exp-p3, patinetes-exp-p6) y se pisan correcciones de borrador.
+- `scripts/hubs-marca-contenido.json` se crea desde cero con 56 claves. Si se fusiona tal cual, sustituye el JSON de borrador (150 hubs + t4). Hay que entregarlo como **parche que solo añade o modifica claves** sobre el JSON de borrador. Quedan 35 claves duplicadas con versiones ya integradas y 13 con t4. Las 8 nuevas (coches/maextro, motos/montesa, stark, torrot, vertigo, patinetes/bronco, minimotors, ruptor) están a 0 y son aprovechables.
+- 2 páginas no deberían rehacerse porque en borrador son 301:
+  - /blog/frenar-antes-radar-multa-600-euros → …-200-euros/
+  - /coches/maserati-grecale-trofeo-2027… → /coches/maserati-grecale-2027…/ (la entrada Trofeo ya no existe en borrador).
+
+**Datos (bloqueante):**
+- Frenar ante el radar: vuelve el slug `…-600-euros` y el título «la multa que suma hasta 600 €», y el extracto dice «**200 € y 4 puntos**». La frenada brusca (art. 53 RGC) es grave, 200 €, **sin pérdida de puntos**; borrador ya lo había corregido. Hay que rehacerlo sobre la versión `…-200-euros` de borrador.
+- Maserati Grecale Trofeo: reintroduce 140.311 € JATO, 530 CV, 620 Nm, 3,8 s, 285 km/h, 570 L, 11,2 l/100 y 254 g/km en una entrada que borrador eliminó. Al fusionar, esas cifras caen dentro de la ficha del Grecale base (83.900 €), lo que es una contradicción directa.
+- Navee ST3: la contra «El precio desde unos 499 €…» contradice la ficha de borrador (600 €, conversión de la tarifa de EE. UU. 649,99 $).
+- Urban Glide All Road 5: la prosa usa 510 € y la ficha dice 509,99 €. Es menor, pero hay que alinearlo.
+- Inmotion Air Pro (2.250 €), Cecotec Bongo Serie S Infinity (369 €), Mini Cooper C (27.200 €) y Mini Cabrio S (35.850 €): borrador ya tiene precio. No vuelvas a poner «sin precio oficial» en las contras de exp-p3 y exp-p6.
+- Salvedades que tú mismo dejaste abiertas, a cerrar con fuente: Qin Plus 214 o 163 CV; bZ5 (fuente de la prueba del Palisade); EM90 (prueba del BYD Xia); dirección DGT de Albacete.
+- Revisado y sin pega: Taigo «+35 CV» (150−115), bZ5 16.000 €, YU7 Max 42.900 €/690 CV/866 Nm/3,23 s y NSX 3.5 V6. Todos cuadran con la ficha.
+
+**8-gramas: 68/100 páginas a 0. Hay que corregir 32** (frase compartida → dónde está ya):
+- `como-recurrir-multa-dgt-sin-abogado`
+  - «el recurso de reposición es un trámite administrativo que cualquier ciudadano puede hacer por su cuenta» → /
+  - «si llevas el asunto a la vía contencioso administrativa» → /
+- `frenar-antes-radar-multa-600-euros`
+  - «es una infracción grave 200 euros y 4 puntos» → /blog/revolucion-al-volante-nuevas-normativas-de-la-dgt-el-fin-del-semaforo-ambar-y-multas-en-la-a-2/
+  - «los datos de la denuncia fecha hora lugar» → /blog/zbe-vitoria-multas-6000-euros-octubre-2026/
+  - «tabla oficial de multas por exceso de velocidad» → /blog/cinemometro-laser-como-funciona-multa/, /blog/nuevo-radar-fijo-a67-torrelavega/
+- `turboant-x7`
+  - «en uso real se queda en torno a» → /blog/honda-adv350-2024-ficha-tecnica-precio/, /patinetes/cecotec-bongo-z-mountain/
+  - «se recarga en casa o en la oficina» → /motos/askoll-es2-evo-2025-ficha-tecnica-precio/
+- `aprilia-rs-125-2026`
+  - «a los 1 000 10 000 y 20 000 km con» → /blog/energica-eva-esseesse9-plus-2025-precio-ficha-tecnica/, /blog/aprilia-rsv4-factory-2026/
+  - «del grupo piaggio es de 3 años estándar» → /blog/aprilia-rsv4-factory-2026/
+  - «ficha técnica de la aprilia rs 125 2026» → (noindex)/blog/aprilia-rs-125-2026-precio/
+  - «la plantea como la puerta de entrada a» → /motos/mecatecno-t8-2026-ficha-tecnica-precio/
+- `citroen-c4-cactus-2025-precio-opiniones`
+  - «sí es uno de sus puntos fuertes con» → (noindex)/blog/chausson-twist-v594-2026-precio-ficha-tecnica-analisis-opinion/
+- `honda-nsx-precio-ficha-tecnica`
+  - «un v6 biturbo de 3 5 litros con» → (noindex)/blog/nissan-patrol-2025-precio-v6/
+- `jeep-compass-trailhawk-precio-ficha-tecnica`
+  - «el fin de semana sin cambiar de coche» → /blog/ford-transit-custom-nugget-2026-analisis-opinion/, /blog/hymer-free-600-campus-precio-ficha-tecnica/
+- `kia-soul-ev-precio-ficha-tecnica`
+  - «km wltp con la batería de 64 kwh» → /coches/mg-s5-ev-long-range-2025-precio-ficha-tecnica/
+- `byd-great-tang-2026-precio-ficha-tecnica`
+  - «ciclo chino cltc más optimista que el wltp europeo» → /blog/xpeng-g9l-debut-paris-2026/, /coches/jac-rf8-phev-2026-precio-ficha-tecnica/
+- `dongfeng-huge-hev-2025-precio-ficha-tecnica`
+  - «consumo contenido de 5 8 l 100 km en» → /coches/mercedes-clase-a-2025-precio-ficha-tecnica/, /coches/mitsubishi-asx-100t-2025-precio-ficha-tecnica/
+- `renault-austral-2026-e-tech-200-precio-ficha-tecnica`
+  - «7 l 100 km lo convierten en el» → /coches/jetour-dashing-i-dm-2025-precio-ficha-tecnica/
+  - «el híbrido más equilibrado del segmento c suv» → /coches/hyundai-tucson-hibrido-2026-precio-ficha-tecnica/
+  - «el cambio multimodo puede resultar brusco en maniobras» → /coches/renault-austral-2024-precio-ficha-tecnica/
+- `mini-cooper-c-2024-precio-ficha-tecnica`
+  - «de serie sin pasar por la lista de» → /blog/mclouis-fusion-367-precio-ficha-tecnica/
+  - «la puerta de entrada a la marca con» → (noindex)/patinetes/gotrax-gxl-v2/
+- `honda-cr-v-ephev-2026-precio-ficha-tecnica`
+  - «carga rápida en continua solo alterna a 6» → /coches/lexus-nx-450h-2024-precio-ficha-tecnica/
+  - «no tiene carga rápida en continua solo alterna» → /coches/jeep-compass-e-hybrid-plug-in-225-2026-precio-ficha-tecnica/
+- `chery-fulwin-t11-2025-precio-ficha-tecnica`
+  - «2 2 2 con butacas individuales en la segunda fila» → (noindex)/blog/chery-fulwin-t11-2025-precio-autonomia/
+  - «seis plazas en disposición 2 2 2 con butacas» → /coches/tesla-model-y-l-2026-precio-ficha-tecnica/
+  - «solo se vende en china así que en» → /coches/jetour-shanhai-l6-2024-precio-ficha-tecnica/
+  - «a europa de la mano de ebro omoda» → (noindex)/blog/chery-fulwin-t11-2025-precio-autonomia/
+- `byd-shark-6-2025-precio-ficha-tecnica`
+  - «llegada a españa está prevista para el segundo semestre de 2026» → /blog/byd-shark-6-2025-precio-autonomia/
+- `volvo-em90-2024-precio-ficha-tecnica`
+  - «es el primer monovolumen de la historia de volvo» → (noindex)/blog/volvo-em90-2024-precio-autonomia/
+  - «el formato monovolumen sigue siendo minoritario en europa» → /blog/xpeng-x9-2026-precio-europa/, /coches/xpeng-x9-2026-precio-europa/
+  - «en europa y eso se nota en la reventa» → /blog/chausson-640-titanium-precio-ficha-tecnica/
+  - «no ha publicado ninguna prueba de este modelo» → /coches/daihatsu-copen-2025/
+- `jeep-cherokee-2026-precio-ficha-tecnica`
+  - «1 6 turbo híbrido con 210 cv y 312 nm» → (noindex)/blog/jeep-cherokee-2026-precio-ficha/
+  - «el 0 a 100 km h en 8 6 segundos» → /coches/seat-leon-sportstourer-15-tsi-150-2026-precio-ficha-tecnica/, /coches/xpeng-x9-2026-precio-europa/
+- `toyota-bz5-2026-precio-ficha-tecnica`
+  - «de byd de 65 28 y 73 98 kwh» → (noindex)/blog/toyota-bz5-2026-precio-autonomia/
+  - «conducción semiautónoma momenta 5 0 con lidar y» → (noindex)/blog/toyota-bz5-2026-precio-autonomia/
+- `byd-qin-plus-dm-i-2025-precio-ficha-tecnica`
+  - «completa el sprint hasta 100 km h en» → /coches/mg4-xpower-2025-precio-ficha-tecnica/
+  - «la mayoría de los desplazamientos diarios sin gastar una gota de gasolina» → /blog/byd-ti7-2026-precio-ficha-tecnica/
+- `maserati-grecale-trofeo-2027…` (texto Trofeo, que al fusionar cae en la ficha del Grecale)
+  - «el 0 a 100 km h en 3 8 segundos» → /coches/nio-et7-75-kwh-2025-precio-ficha-tecnica/, /coches/yangwang-u8l-2025-precio-ficha-tecnica/
+  - «la etiqueta c lo deja fuera de las» → /coches/kgm-rexton-diesel-2025-precio-ficha-tecnica/
+- `mercedes-benz-eqa-250-plus-precio-ficha-tecnica`
+  - «admite carga rápida de 100 kw suficiente para» → /coches/lancia-ypsilon-electric-2025-precio-ficha-tecnica/
+  - «8 6 segundos en el 0 a 100 km h» → /coches/mazda-mx-5-rf-15-skyactiv-g-2026-precio-ficha-tecnica/
+  - «el bmw ix1 y el audi q4 e tron» → /coches/mercedes-eqa-250-plus-2025-precio-ficha-tecnica/
+- `skoda-kamiq-10-tsi-2025-precio-ficha-tecnica`
+  - «7 segundos de 0 a 100 km h» → /coches/seat-leon-sportstourer-15-tsi-2025-precio-ficha-tecnica/, /coches/audi-s4-avant-2025/
+- `skoda-octavia-combi-20-tdi-2026-precio-ficha-tecnica`
+  - «150 cv y 360 nm con cambio dsg de 7 velocidades» → /coches/volkswagen-tiguan-20-tdi-2026-precio-ficha-tecnica/
+- `volkswagen-taigo-2026-precio-ficha-tecnica`
+  - «10 4 segundos de 0 a 100 km h» → /coches/seat-leon-15-etsi-115-2026-precio-ficha-tecnica/
+  - «el 1 5 tsi de 150 cv se va» → /coches/seat-ibiza-2026/
+  - «visibilidad trasera limitada por la caída del techo» → /coches/citroen-c4-x-hibrido-2026-precio-ficha-tecnica/, /coches/mazda-3-20-e-skyactiv-x-sedan-2026-precio-ficha-tecnica/
+- `xiaomi-yu7-max-2025-precio-ficha-tecnica`
+  - «km en ciclo cltc con una batería de» → /coches/jetour-shanhai-l9-2024-precio-ficha-tecnica/
+  - «el consumo se dispara si se usa la potencia» → /motos/kawasaki-z-h2-se-2025-ficha-tecnica-precio/
+- `zontes-350r-2025-ficha-tecnica-precio`
+  - «y el abs de doble canal vienen de serie» → /motos/vespa-gtv-310-2026-ficha-tecnica-precio/
+- `navee-s65`
+  - «la doble suspensión delantera y trasera lo hace» → /patinetes/aprilia-esr2-evo/
+  - «w nominales con 1 000 w de pico» → /patinetes/smartgyro-rockway-pro-evo/
+- `zwheel-zlion-x-max`
+  - «la carga máxima es de solo 100 kg» → /patinetes/segway-ninebot-e25e/, /patinetes/zwheel-zfox-max/
+  - «red de servicio más pequeña que las generalistas» → /blog/niesmann-bischoff-ismove-69-e-precio-ficha-tecnica/
+- `joyor-s5-pro`
+  - «el límite de 20 km h de la» → /patinetes/soflow-so4-pro/, /patinetes/hiley-tiger-evo-gt/
+- `currus-panther`
+  - «w de pico alimentados por una batería samsung sdi de» → /patinetes/dualtron-togo-plus/
+- `speedway-mini-4-pro`
+  - «sus 45 km h lo sitúan fuera de» → /patinetes/kaabo-mantis-10-eco/
+- `urban-glide-ride-100-max`
+  - «120 kg de carga máxima pese a su poco peso» → /patinetes/zwheel-e9d/
+
+Nota: «(noindex)» quiere decir que la otra página hoy es noindex. Cuenta igual, porque puede indexarse. Los aciertos se han medido contra el dist de las 20:54; si alguna página destino ha cambiado después, dímelo y lo vuelvo a medir.
+
+**Para reentregar:** rebasa los cambios sobre `origin/borrador-final-2410` (no sobre completar-fichas). Entrega el JSON de hubs como parche de claves. Quita Grecale Trofeo y rehaz frenar sobre la versión de 200 €. Corrige las frases de arriba. La tanda 3 (@c5f3eeba) la reviso cuando esté rebasada igual. No toques `borrador-final-2410` mientras corra el prerender.
+
