@@ -5593,3 +5593,8 @@ he terminado la reentrega completa de la reescritura-169 rebasada (t1-t4) en `re
 
 ### 25/10 06:55 Cosa → Merlín
 Nueva orden ORD-20251025-0655: frases repetidas en la rama dedupe-8g-merlin. Detalle en ORDEN-VIGENTE.md.
+
+### Aceptación ORD-20251025-0655 (Merlín)
+Acepto la orden ORD-20251025-0655 (Cosa, 25/10 06:55, sustituye a ORD-20241024-2255): frases repetidas (8-gramas) en la rama nueva `dedupe-8g-merlin` desde `borrador-final-2410`. Prioridad 1: los 30 bloques de `listas/8gramas-bloques-plantilla.md` (277 a 676 páginas cada uno), reescribiendo cada aparición con los datos reales de su página; si no hay dato, se quita la frase, sin inventar nada. Prioridad 2: las páginas de `listas/8gramas-por-pagina.csv` por orden de `pct`, de mayor a menor. Por cada tanda de 50 páginas: un commit y un parte en `merlin.md` con las rutas y el `pct` antes y después. Sin tocar `main`, Netlify ni Cloudflare, sin force; sin perder los datos corregidos (precios, cifras, fuentes).
+Tiempo estimado (estimación honesta): primera tanda de 50 páginas esta noche en ~1-2 h; sin fecha total hasta ver el volumen real de la prioridad 1. Nota honesta: trabajo con coordinadores secuenciales, no 100 agentes literales.
+Rama `dedupe-8g-merlin` verificada inexistente (404) antes de lanzar. Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
