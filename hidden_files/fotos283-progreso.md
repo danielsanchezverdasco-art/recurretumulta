@@ -64,3 +64,8 @@
 
 ## TANDA 3 PARCIAL 3 — 20 fotos (w049, w052, w055, w060, w064, w066, w068, w069, w070, w072)
 - 20/20 con foto real verificada (yuan-up: render oficial, avisado), 0 «sin foto real». CSV: 152 filas. Copias -hero ×17. 0 sobrescrituras HEAD. Pendientes de fetch (TLS transitorio, reintento pendiente): w047, w053, w054, w057, w063, w065.
+
+## TANDA 3 PARCIAL 3 PUBLICADA — fotos-283-niky @ 6330917ba (verificado ls-remote = local, sin force)
+
+## TANDA 3 PARCIAL 4 — 12 fotos (w047, w053, w054, w057, w063, w065)
+- 12/12 con foto real verificada, 0 «sin foto real». CSV: 164 filas. Copias -hero ×11. 0 sobrescrituras HEAD. Tanda 3: 48/50 (falta w058).

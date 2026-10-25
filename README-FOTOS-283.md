@@ -118,3 +118,12 @@ pasan a la tanda siguiente. Cada tanda: commit + push sin force + verificación 
 - Caveats: 320d foto del lanzamiento G20 2018, no del LCI 2024 (no se localizó 320d LCI en PressClub); 320d/320i a 1500×844 y 1200×675 frente a 2048×1152 declarados (misma proporción 16:9); i3 Neue Klasse confirmado foto de producción (no render ni espía, PressClub P90632230, 18-03-2026); e-jumper gris cuando la galería describe blanca (mismo modelo/generación/carrocería); tang: el alt de datos dice «vista lateral panorámica» pero el set BYD no tiene lateral pura; duster 274.750 B (bajo 300 KB, cerca del límite).
 - Auditoría: 23/23 ficheros entregados byte a byte (raval requirió sobrescribir un resto de disco viejo; NO era fichero de HEAD, es alta nueva); todas WebP <300 KB (máx. 274.750 B); 0 sobrescrituras de HEAD.
 - CSV: 152 filas totales (132 + 20).
+
+## TANDA 3 PARCIAL 4 (commits pequeños 10–25; cierra tanda 3 salvo w058)
+- 12 fotos reales verificadas: w047 (alpine-a290-gts-2026, alpine-a390-gt-2026), w053 (bentley-bentayga-s-black-edition-2024, bentley-continental-gt-2026), w054 (bentley-continental-gtc-mulliner-2026, bentley-flying-spur-azure-2026), w057 (bmw-ix2-xdrive30-2026, bmw-ix3-40-2026), w063 (byd-song-l-dm-i-2025, byd-song-plus-dm-i-2025), w065 (carado-t-447-2026, caterham-super-seven-2000-2025).
+- Nombres según datos: song-l con nombre corto -oficial.webp (no -precio-ficha-tecnica-oficial); carado con -ext.webp (imagen e imagenOficial de la ficha de autocaravana). Resto -oficial.webp exacto.
+- Copias -hero ×11 (imagen pendiente en base, misma foto): a290, a390, bentayga-s, continental-gt, gtc-mulliner, flying-spur, ix2, ix3, song-l (corto), song-plus, caterham. Carado -1.webp de galería queda pendiente (foto distinta, no copiable).
+- Caveats: ix3-40 usa foto del set oficial del 50 xDrive (misma carrocería Neue Klasse, sin set propio del 40 localizado); continental-gt ficha 2026 frente a nota oficial abril 2025 (misma 4ª generación); carado banco 2025 para ficha 2026 (misma generación T447; el único 2026 era plano de planta, no exterior).
+- Incidencia: el primer fetch de estas 6 ramas falló por TLS transitorio (GnuTLS -110 / empty reply); el reintento con HTTP/1.1 las trajo todas y los commits coinciden con los informados por los trabajadores. No se dio a nadie por caído sin verificar.
+- Auditoría: 12/12 byte a byte; todas WebP <300 KB (máx. 193.978 B); 0 sobrescrituras de HEAD.
+- CSV: 164 filas totales (152 + 12).
