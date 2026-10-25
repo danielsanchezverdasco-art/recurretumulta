@@ -6316,3 +6316,29 @@ Sin petición de publicación por mi parte: solo tú integras y publicas cuando 
 Qué queda de la 0913 (la orden NO está cerrada): los lotes de 2 restantes de los 20 blogs de los puestos 83–102, que están en curso; después el resto de la prosa de blogs; más la prosa del índice /blog/. La ORDEN PERMANENTE sigue en cola tras la 0913 y NO se ha empezado.
 
 Puedo seguir haciendo cosas, dime qué más quieres que haga.
+@grok lote listo tanda 9 blogs lote 08: prosa Pure Escape Pro+ y Zero 10
+
+@grok, lote listo de la tanda 9 de ORD-20251025-0913, en lotes de 2 por trabajador por orden de Daniel en chat. Prosa reescrita desde cero, con estructura distinta a la vieja.
+
+Rama: `dedupe-8g-merlin` · base verificada por API antes de cada push: `e06e47622abbe5fb38781939adf2f089e88f7afb` (cabeza tras el lote 01, sin cambios ajenos; sin force push, sin main, sin Netlify, sin Cloudflare, sin Convex, sin fotos, sin tocar ninguna otra rama).
+
+Commits (2, solo 2 ficheros, 0 borrados), cadena contigua verificada por API:
+1. `ad941f0ab886b65adcf94858122e7a1b84b2e6ba` — Tanda 9 blogs lote 08 (1/2): prosa Pure Escape Pro+ (`src/lib/blog-posts-patinetes-exp-p8.ts`).
+2. `2b85f41cd85b2037dddfe801efa41d67b2d9fbaa` — Tanda 9 blogs lote 08 (2/2): prosa Zero 10 (`src/lib/blog-posts-patinetes-exp-p9.ts`).
+Cabeza final verificada por API: `2b85f41cd85b2037dddfe801efa41d67b2d9fbaa`, blobs verificados.
+
+Qué se hizo por blog:
+- Pure Escape Pro+: título nuevo (49) «Pure Escape Pro+: ir de frente cambia el patinete»; extracto nuevo (151). Se conduce de frente, doble suspensión GlideMotion, 60 km declarados por 499 £, con qué comprobar antes de comprar.
+- Zero 10: título nuevo (51) «Zero 10: el rutero veterano de 936 Wh y doble disco»; extracto nuevo (153). 1000 W, 936 Wh, 70 km declarados, doble disco y suspensión en ambos ejes; en España no encaja como VMP.
+- Intactos y comprobados: tablas, fotos, enlaces, fuentes y cierre multa/analizador byte a byte idénticos a la vieja en ambos (incluido el `10x2.5` literal de la tabla del Zero 10). Mismas cifras que el artículo viejo, ninguna inventada; referencias no oficiales mantenidas como tales (certificado DGT no verificado, precio España no publicado / sin red oficial en Europa).
+
+Medición (mismo método de tandas anteriores: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas, solo prosa; verificada por mí como coordinador con dos filtros, ambos dan 0):
+- Pure Escape Pro+: propia 0g 0,0%, cruzada con Zero 0g 0,0%. Palabras: método trabajador 274 → 504; filtro tanda 9 226 → 444.
+- Zero 10: propia 0g 0,0%, cruzada 0g 0,0%. Palabras: 181 → 433; filtro tanda 9 130 → 377.
+- Nota honesta de proceso del trabajador: en la primera medición el Zero 10 tenía 1 grama de prosa en una frontera de secciones; se reescribió el encabezado y la segunda medición dio 0 en todo. Las cifras nuevas en prosa que marcaba mi control (18, 52, 7) son de la tabla vieja (52V 18Ah); 2,5 es la variante con coma de 2.5 de la tabla vieja.
+
+Sin petición de publicación por mi parte: solo tú integras y publicas cuando lo decidas.
+
+Qué queda de la 0913 (la orden NO está cerrada): los lotes de 2 restantes de los 20 blogs de los puestos 83–102, que están en curso; después el resto de la prosa de blogs; más la prosa del índice /blog/. La ORDEN PERMANENTE sigue en cola tras la 0913 y NO se ha empezado.
+
+Puedo seguir haciendo cosas, dime qué más quieres que haga.
