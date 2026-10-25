@@ -1198,5 +1198,469 @@
   "intro": "Wey combina modelos numerados y la familia Gaoshan, y esa doble vía es la pauta para entender su gama. Los numerados, con el 03, el 05 y el 07, forman una escalera de SUV de distintos tamaños, del compacto al grande. La familia Gaoshan, con el Gaoshan 7, el Gaoshan 8 y el Gaoshan 9, cubre el formato monovolumen de lujo para familias y uso con chófer. El V8X y el V9X completan la colección como modelos de altas prestaciones dentro de la marca. Al comparar las fichas conviene separar primero los numerados de los Gaoshan, porque un 07 y un Gaoshan 8 pueden compartir tamaño aproximado y tener públicos opuestos: uno busca SUV familiar y otro monovolumen de representación, dos usos que las fichas distinguen con claridad. El V9X, en lo alto prestacional, cierra una gama donde conviven SUV numerados y monovolúmenes Gaoshan. El Gaoshan 9, en lo alto de la familia Gaoshan, cierra la oferta de monovolúmenes de Wey por tamaño.",
   "n": 8,
   "url": "/coches/marca/wey/"
- }
+ },
+ "coches/maextro": {
+  "nombre": "Maextro",
+  "title": "Maextro: 4 berlinas de lujo con tecnología Huawei",
+  "description": "4 fichas técnicas de Maextro: S800 en tres versiones y V800 Huawei, con motores, autonomía y equipamiento de lujo para comparar la gama.",
+  "intro": "Maextro es la marca de lujo más ambiciosa del grupo Huawei, y su gama en esta web se resume en cuatro fichas: tres versiones del S800, la berlina insignia, y el V800, que completa la oferta por arriba. Son coches de representación, con dimensiones generosas, tecnología de asistencia avanzada y un nivel de equipamiento que busca competir con las berlinas de lujo europeas. No es una gama para todos los bolsillos ni para todos los usos, y precisamente por eso conviene leer las fichas con calma: las diferencias entre las versiones del S800 están en la mecánica y en la dotación, no en la imagen.",
+  "n": 4,
+  "url": "/coches/marca/maextro/"
+ },
+ "motos/montesa": {
+  "nombre": "Montesa",
+  "title": "Montesa: 3 trial Cota para comparar",
+  "description": "Las 3 fichas Montesa: Cota 4RT 260R, Cota 4RT 301RR y Cota 4Ride, todo trial con el sello de la marca española.",
+  "intro": "En Montesa no hay que elegir entre muchos mundos: las 3 fichas son trial, y la familia Cota lo explica todo. La Cota 4RT 260R es la puerta de entrada al trial de cuatro tiempos, la 301RR sube el listón hacia la competición, y la 4Ride añade un punto de polivalencia para quien quiere practicar sin una moto de carreras pura. Es la marca española de trial por antonomasia, con décadas de historia detrás de cada modelo, y aquí la comparación se hace por nivel de pilotaje y por exigencia de mantenimiento, no por potencia bruta: en trial manda la ligereza y la entrega a bajo régimen.",
+  "n": 3,
+  "url": "/motos/marca/montesa/"
+ },
+ "motos/stark": {
+  "nombre": "Stark Future",
+  "title": "Stark Future: 3 Varg eléctricas de off-road",
+  "description": "Las 3 fichas Stark Future: Varg EX, Varg MX y Varg SM, eléctricas de campo con potencia de cross de competición.",
+  "intro": "Stark Future tiene una sola idea y la ejecuta en tres versiones: la Varg. La EX es la enduro matriculable, la MX es la de motocross puro y la SM lleva el concepto al supermotard, siempre con motor eléctrico y sin marchas. Son 3 fichas de una marca española que nació para demostrar que el eléctrico puede ganar en el campo, no solo en la ciudad. Aquí no hay scooters ni trails: la comparación se hace por circuito, por homologación y por autonomía en uso intensivo, porque una Varg se compra para usarla a fondo, no para pasear.",
+  "n": 3,
+  "url": "/motos/marca/stark/"
+ },
+ "motos/torrot": {
+  "nombre": "Torrot",
+  "title": "Torrot: 2 Muvi eléctricas urbanas",
+  "description": "Las 2 fichas Torrot: Muvi City y Muvi Executive L3, scooters eléctricos españoles para moverse por la ciudad.",
+  "intro": "Torrot resume su gama en dos nombres: la Muvi City y la Muvi Executive L3. Ambas son scooters eléctricos urbanos de marca española, pensados para el desplazamiento diario sin gasolina ni mantenimiento de motor térmico. La diferencia entre las dos fichas está en el equipamiento y en el planteamiento de uso: una urbana sencilla y otra con un punto más de presencia y dotación. Con solo 2 fichas, la elección se reduce a lo esencial: autonomía necesaria, presupuesto y si el uso es particular o compartido.",
+  "n": 2,
+  "url": "/motos/marca/torrot/"
+ },
+ "motos/vertigo": {
+  "nombre": "Vertigo",
+  "title": "Vertigo: 3 trial de competición española",
+  "description": "Las 3 fichas Vertigo: Combat Camo 300 y Nitro RS3 y DL12, trial de dos tiempos para competir.",
+  "intro": "Vertigo concentra su catálogo en el trial de competición de dos tiempos. La Combat Camo 300 y las Nitro RS3 250 y 300 y DL12 300 comparten planteamiento: motos ligeras, de respuesta inmediata y pensadas para zonas, no para carretera. Con solo 3 fichas, la elección se reduce al nivel de exigencia y a la cilindrada: 250 para aprender a ir fino, 300 para pelear arriba. Es una marca española de nicho, y eso se nota en el enfoque: nada de concesiones al uso diario, todo al rendimiento entre cintas.",
+  "n": 3,
+  "url": "/motos/marca/vertigo/"
+ },
+ "patinetes/bronco": {
+  "nombre": "Bronco",
+  "title": "Bronco: 3 Xtreme potentes para exigentes",
+  "description": "Las 3 fichas Bronco: Xtreme 11, Xtreme Sport y Xtreme Vnom 11, patinetes potentes de doble motor.",
+  "intro": "Bronco no hace patinetes de paseo: sus 3 fichas son Xtreme, y el nombre avisa. La Xtreme 11 y la Xtreme Vnom 11 son las potentes de la gama, con doble motor y prestaciones muy por encima del uso urbano legal, y la Xtreme Sport completa el trío con el mismo carácter. Aquí la comparación no va de precio ni de peso, sino de potencia y de uso: son máquinas para circuito o finca privada en España, no VMP de calle. Quien busque un urbano debe mirar otra marca.",
+  "n": 3,
+  "url": "/patinetes/marca/bronco/"
+ },
+ "patinetes/minimotors": {
+  "nombre": "Minimotors",
+  "title": "Minimotors: 3 Dualtron de alta gama",
+  "description": "Las 3 fichas Minimotors: Dualtron City 2024, Dualtron Eagle Pro y Dualtron Victor Luxury Plus, potentes y de largo alcance.",
+  "intro": "Minimotors es el fabricante coreano detrás de Dualtron, y sus 3 fichas en esta web son la prueba: la Dualtron City 2024 para la ciudad con aspiraciones, la Eagle Pro como equilibrio entre potencia y uso, y la Victor Luxury Plus como tope de gama. Son patinetes potentes, pesados y de largo alcance, pensados para quien ya sabe lo que compra y no para el primer patinete. La comparación aquí pasa por la potencia, la batería y el peso, porque el precio ya avisa de que no son urbanos baratos. En España, además, hay que mirar la legalidad VMP antes de decidir.",
+  "n": 3,
+  "url": "/patinetes/marca/minimotors/"
+ },
+ "patinetes/ruptor": {
+  "nombre": "Ruptor",
+  "title": "Ruptor: 2 patinetes urbanos R3 y R6",
+  "description": "Las 2 fichas Ruptor: R3 y R6, urbanos compactos para el desplazamiento diario.",
+  "intro": "Ruptor resume su oferta en dos modelos: la R3 y la R6. Son patinetes urbanos compactos, pensados para el desplazamiento diario sin complicaciones ni precios altos. Con solo 2 fichas, la decisión es inmediata: autonomía, peso y presupuesto, sin familias ni versiones que mareen. Es una marca pequeña en esta web, y sus dos modelos se entienden mejor como alternativa sencilla a los urbanos de las grandes marcas que como una gama con aspiraciones de otra cosa.",
+  "n": 2,
+  "url": "/patinetes/marca/ruptor/"
+ },
+ "motos/livewire": {
+  "nombre": "LiveWire",
+  "title": "LiveWire motos: 5 fichas eléctricas",
+  "description": "5 fichas técnicas de motos eléctricas LiveWire con autonomía, potencia y equipamiento para valorar la gama eléctrica con datos reales.",
+  "intro": "La moto eléctrica tiene sus propias reglas de comparación, y las cinco fichas de LiveWire están reunidas para aplicarlas con orden. Cada ficha recoge la autonomía, la entrega de potencia y la dotación, además del formato, porque una moto eléctrica urbana no se valora igual que una de carretera. La autonomía debe leerse junto a la velocidad habitual y al peso del conjunto, ya que circular rápido recorta el alcance mucho más que en ciudad. La red de carga y el tiempo de recarga también condicionan la experiencia, sobre todo para quien recarga habitualmente fuera de su vivienda. Al repasar las cinco fichas se aprecia la orientación de cada modelo y el salto entre ellos, sin mezclar categorías distintas. Con esa lectura, la gama eléctrica deja de parecer un experimento y se convierte en una serie de alternativas tangibles, cada una con sus datos y su público. También conviene revisar el mantenimiento previsto y la garantía, dos datos que condicionan el coste real de uso.",
+  "n": 5,
+  "url": "/motos/marca/livewire/"
+ },
+  "motos/scorpa": {
+    "nombre": "Scorpa",
+    "title": "Scorpa: 3 motos de trial, SC 125, 250 y 300",
+    "description": "3 fichas de Scorpa: SC 125 Factory, SC 250 Factory y SC 300 Factory, tres motos de trial con datos técnicos para elegir cilindrada.",
+    "intro": "Scorpa concentra su presencia en estas fichas en una sola disciplina, el trial, y en una sola familia, la Factory. La SC 125 abre la gama para iniciarse, la SC 250 ocupa el punto intermedio y la SC 300 cierra por arriba para el uso más exigente. Comparar las tres sirve para elegir cilindrada sin distracciones: mismo planteamiento, mismo apellido y tres niveles de respuesta.",
+    "n": 3,
+    "url": "/motos/marca/scorpa/"
+  },
+  "coches/abarth": {
+    "nombre": "Abarth",
+    "title": "Abarth coches: 3 fichas técnicas para comparar",
+    "description": "3 fichas técnicas de coches Abarth: 500e 2025, 600e Turismo y 600e Scorpionissima, con datos y versiones para elegir.",
+    "intro": "3 fichas bastan para hacerse una idea de lo que Abarth propone hoy en formato eléctrico, porque cada una ocupa un peldaño dentro de la misma idea de compacto con carácter. El 500e 2025 abre el trío como la opción más urbana y manejable, pensada para moverse a diario sin renunciar al tacto deportivo que define a la marca. Por encima queda el 600e Turismo 2025, que añade espacio y presencia de coche mayor sin salir del planteamiento eléctrico. Y el 600e Scorpionissima 2025 cierra el conjunto como la versión más radical, la que lleva más lejos la puesta a punto y la imagen. Comparar las tres fichas permite ver dónde se sitúa cada una en tamaño, enfoque y uso previsto, y qué ficha encaja con trayectos cortos, con viajes frecuentes o con quien busca el máximo temperamento. Cada ficha recoge precio, versiones y datos técnicos con la fuente que los respalda, de modo que la comparación se hace sobre cifras publicadas y no sobre impresiones. Quien compare las 3 fichas con calma tendrá claro si le conviene el urbano, el amplio o el radical.",
+    "n": 3,
+    "url": "/coches/marca/abarth/"
+  },
+  "coches/arcfox": {
+    "nombre": "Arcfox",
+    "title": "Arcfox coches: 5 fichas técnicas para comparar",
+    "description": "5 fichas técnicas de coches Arcfox: Alfa S5, Alfa T5, Kaola, Kaola S y T1, con datos y versiones para elegir.",
+    "intro": "Quien se acerque a Arcfox por primera vez se encontrará con una gama corta pero con perfiles bien diferenciados, y estas 5 fichas ayudan a distinguirlos sin mezclarlos. La familia Alfa aporta los dos modelos de mayor empaque: el Alfa S5 2024 y el Alfa T5 2024, dos propuestas que comparten apellido pero apuntan a usos distintos dentro del catálogo. En otro registro aparecen el Kaola 2024 y el Kaola S 2024, nombres que conviene no confundir porque, aunque cercanos, corresponden a fichas independientes con sus propias versiones. El T1 2025 completa el grupo como la incorporación más reciente de las recogidas aquí, y sirve para comprobar cómo evoluciona la oferta de la marca en el año más nuevo. Leer las cinco fichas en orden permite separar berlinas de modelos más familiares, comparar años y entender qué ficha conviene abrir primero según el tipo de coche buscado. Abrir las cinco fichas en el orden Alfa, Kaola y T1 es la manera más directa de situar cada modelo.",
+    "n": 5,
+    "url": "/coches/marca/arcfox/"
+  },
+  "coches/beijing": {
+    "nombre": "Beijing",
+    "title": "Beijing coches: 7 fichas técnicas para comparar",
+    "description": "7 fichas técnicas de coches Beijing: BJ30 HEV, BJ40, BJ40e, BJ60, X5, X55 y X7, con datos y versiones.",
+    "intro": "La colección Beijing reunida aquí abarca 7 fichas que van del todoterreno más campero al turismo familiar, y conviene recorrerla con calma porque los nombres se parecen entre sí. El BJ40 2024 y su variante BJ40e 2025 comparten base nominal pero no ficha: uno y otro responden a planteamientos distintos dentro de la gama, y separarlos evita confusiones al comparar. El BJ30 HEV 4x4 2025 añade la tracción total al conjunto, mientras el BJ60 2024 se sitúa como la opción de mayor tamaño entre los BJ. En paralelo, la línea X aporta tres turismos escalonados: el X5 2024, el X55 2025 y el X7 2024, que conviene leer como una progresión de menor a mayor. Tener las siete fichas juntas permite contrastar años, versiones y enfoques sin depender de la memoria, y comprobar qué modelo se ajusta a un uso urbano, a salidas por campo o a viajes en familia. Recorrer las siete fichas de menor a mayor tamaño ayuda a decidir entre un BJ y un X sin dudas.",
+    "n": 7,
+    "url": "/coches/marca/beijing/"
+  },
+  "coches/caterham": {
+    "nombre": "Caterham",
+    "title": "Caterham coches: 5 fichas técnicas para comparar",
+    "description": "5 fichas técnicas de coches Caterham: Seven 170, Seven 340, Super Seven 600, Super Seven 2000 y Project V.",
+    "intro": "Caterham no se entiende sin el Seven, y estas 5 fichas lo demuestran desde el primer vistazo: casi todo el catálogo gira alrededor de ese mismo concepto de deportivo ligero y sin concesiones. El Seven 170 2025 representa la entrada más sencilla, la puerta de acceso a la experiencia de conducir un coche mínimo y directo. El Seven 340 2025 sube un escalón dentro de la misma familia, con un carácter más serio para quien ya sabe lo que busca. Los Super Seven amplían el abanico por los extremos: el Super Seven 600 2025 y el Super Seven 2000 2025 ofrecen dos lecturas distintas del mismo espíritu, una más clásica y otra más contundente. Fuera de esa línea, el Project V 2026 aparece como la ficha que mira al futuro y que conviene leer aparte, porque su planteamiento no comparte la receta de los Seven. Leer primero los Seven y dejar el Project V para el final respeta el orden natural de este catálogo.",
+    "n": 5,
+    "url": "/coches/marca/caterham/"
+  },
+  "coches/delage": {
+    "nombre": "Delage",
+    "title": "Delage coches: 2 fichas técnicas para comparar",
+    "description": "2 fichas técnicas de coches Delage: D12 Club 2025 y D12 GT 2025, con datos y versiones para elegir.",
+    "intro": "Delage aparece aquí con un catálogo mínimo, y eso juega a favor de quien compara: solo hay 2 fichas y ambas comparten el mismo nombre base, el D12, así que la decisión se reduce a entender qué separa a una de la otra. El D12 Club 2025 y el D12 GT 2025 son las dos lecturas del mismo modelo, y leer sus fichas en paralelo es la forma más rápida de captar el matiz entre ambas: mismo año, mismo apellido y dos enfoques que conviene no dar por idénticos. Cuando una marca ofrece tan pocas fichas, cada dato pesa más, y por eso ambas recogen precio, versiones y ficha técnica con sus fuentes, sin adornos que distraigan de la comparación. Quien llegue buscando un deportivo exclusivo encontrará en estas dos fichas cuanto hace falta para distinguir el Club del GT y para valorar cuál de los dos encaja con la idea de coche que tiene en mente. Con dos fichas tan cortas, la comparación completa lleva minutos y deja la decisión bien fundada.",
+    "n": 2,
+    "url": "/coches/marca/delage/"
+  },
+  "coches/donkervoort": {
+    "nombre": "Donkervoort",
+    "title": "Donkervoort coches: 2 fichas técnicas para comparar",
+    "description": "2 fichas técnicas de coches Donkervoort: D8 GTO-JD70 R 2025 y F22 2025, con datos y versiones.",
+    "intro": "Donkervoort concentra su presencia en 2 fichas, y esa brevedad obliga a leerlas con atención porque cada una condensa una filosofía distinta de deportivo ultraligero. El D8 GTO-JD70 R 2025 prolonga una saga de nombre largo y reconocible, la del D8, que quienes siguen a la marca identifican al instante. El F22 2025, en cambio, abre otra vía con un nombre corto y un planteamiento propio, y conviene no tratarlo como una simple variante del anterior: es una ficha independiente, con su propio año y su propio carácter. Comparar ambas fichas lado a lado permite apreciar dos maneras de entender el mismo ideal — poco peso, sensaciones directas y un coche pensado para disfrutar conduciendo — sin que el catálogo se disperse en decenas de modelos. Quien abra primero la ficha del D8 y después la del F22 notará enseguida que, pese al aire común, cada coche tiene su propio recorrido y sus propias versiones. Poner el D8 junto al F22 muestra dos interpretaciones del mismo ideal sin necesidad de más modelos.",
+    "n": 2,
+    "url": "/coches/marca/donkervoort/"
+  },
+  "coches/hyptec": {
+    "nombre": "Hyptec",
+    "title": "Hyptec coches: 6 fichas técnicas para comparar",
+    "description": "6 fichas técnicas de coches Hyptec: GT, SSR, HT, HL EREV, A800 y S600, con datos y versiones para elegir.",
+    "intro": "El listado Hyptec suma 6 fichas repartidas entre varios años y varios tipos de carrocería, y la mejor forma de abordarlo es separar primero los nombres que ya suenan de los que acaban de llegar. El GT 2024 y el HT 2025 forman el núcleo más reconocible, dos modelos con los que hacerse una idea rápida del tono de la gama. El SSR 2024 se sale de esa línea y merece una lectura aparte, porque su ficha no comparte el perfil de los anteriores y apunta a un público distinto. El HL EREV 2025 introduce otra pista en su propio nombre, la de la autonomía extendida, que conviene tener presente al comparar versiones. Y el A800 2026 junto al S600 2026 cierran el grupo por el lado más nuevo, mostrando hacia dónde se mueve la marca en el año más reciente. Con las seis fichas delante es posible ordenar la gama por año, distinguir carrocerías y decidir qué modelo merece una lectura a fondo según se busque deportividad, amplitud o novedad. Ordenar las seis fichas por año permite ver la evolución de Hyptec desde el GT hasta el S600.",
+    "n": 6,
+    "url": "/coches/marca/hyptec/"
+  },
+  "coches/ineos": {
+    "nombre": "Ineos",
+    "title": "Ineos coches: 3 fichas técnicas para comparar",
+    "description": "3 fichas técnicas de coches Ineos: Grenadier Station Wagon, Quartermaster y Trialmaster, con datos y versiones.",
+    "intro": "Ineos se presenta con una sola familia y 3 fichas, lo que simplifica mucho la comparación: todo gira alrededor del Grenadier, y lo que cambia es la variante. El Grenadier Station Wagon 2025 es la versión cerrada y familiar, la que primero conviene leer si el uso previsto pasa por viajar con ocupantes y equipaje a diario. El Grenadier Quartermaster 2025 traslada el mismo concepto a una configuración con caja abierta, pensada para carga y para trabajos donde el espacio trasero descubierto manda. El Grenadier Trialmaster 2025 completa el trío como la variante orientada al terreno más exigente, la que mejor resume el carácter todoterreno de la marca. Tener las tres fichas juntas evita el error de comparar el Grenadier con otros todoterrenos antes de haber distinguido entre sus propias variantes, que es donde está la decisión real. Conviene abrir las tres fichas en el orden Station Wagon, Quartermaster y Trialmaster. Definir antes el uso, familia, carga o campo, hace que la elección entre las tres variantes sea inmediata.",
+    "n": 3,
+    "url": "/coches/marca/ineos/"
+  },
+  "coches/lancia": {
+    "nombre": "Lancia",
+    "title": "Lancia coches: 6 fichas técnicas para comparar",
+    "description": "6 fichas técnicas de coches Lancia: Ypsilon 2024, Ypsilon Hybrid, Ypsilon Electric, Ypsilon HF, Gamma y Gamma HF.",
+    "intro": "Lancia vuelve a escena con dos nombres y 6 fichas, y la clave para no perderse está en separar lo que es Ypsilon de lo que es Gamma. El Ypsilon concentra cuatro fichas: el Ypsilon 2024 como punto de partida, el Ypsilon Hybrid 2025 y el Ypsilon Electric 2025 como dos respuestas distintas a la misma necesidad de moverse a diario, y el Ypsilon HF 2025 como la versión con más temperamento de la familia. El Gamma, en cambio, ocupa las otras dos fichas — Gamma 2026 y Gamma HF 2026 — y representa el salto a un modelo mayor y más reciente, con su propia variante HF. Leer primero las cuatro fichas del Ypsilon y después las dos del Gamma permite entender la gama como dos escalones: el urbano de siempre, renovado en varias energías, y el nuevo modelo que mira hacia arriba. El orden Ypsilon primero y Gamma después es el que mejor separa los dos escalones. Separar Ypsilon de Gamma al empezar evita la confusión más frecuente en este catálogo.",
+    "n": 6,
+    "url": "/coches/marca/lancia/"
+  },
+  "coches/lepas": {
+    "nombre": "Lepas",
+    "title": "Lepas coches: 6 fichas técnicas para comparar",
+    "description": "6 fichas técnicas de coches Lepas: L4 EV, L6 EV y L8, con datos y versiones para elegir.",
+    "intro": "Lepas organiza su oferta en tres nombres y 6 fichas, y conviene empezar por los nombres antes que por los años, porque cada letra agrupa varias fichas. El L4 EV aparece en ficha de 2025 y en ficha de 2026, y compararlas sirve para ver qué cambia de un año al siguiente dentro del mismo modelo. El L6 EV sigue el mismo esquema, también con ficha de 2025 y de 2026, de forma que el L4 y el L6 se pueden leer como dos escalones paralelos de la gama eléctrica. El L8 completa el grupo con dos fichas propias: la del L8 2025 y otra en la que figura como híbrido enchufable, un matiz que conviene no pasar por alto porque cambia la forma de valorar el modelo frente a los EV puros. Con las seis fichas juntas, la comparación natural es triple: L4 contra L6 dentro de lo eléctrico, y ambos contra el L8, con atención a esa versión híbrida enchufable. Comparar L4, L6 y L8 con sus años a la vista es todo lo que hace falta para elegir dentro de Lepas.",
+    "n": 6,
+    "url": "/coches/marca/lepas/"
+  },
+  "coches/levc": {
+    "nombre": "LEVC",
+    "title": "LEVC coches: 4 fichas técnicas para comparar",
+    "description": "4 fichas técnicas de coches LEVC: TX, TX Shuttle, VN5 y L380, con datos y versiones para elegir.",
+    "intro": "LEVC reúne 4 fichas en las que conviven dos mundos: el del taxi y el del vehículo familiar o de carga ligera, y esa mezcla es precisamente lo que hace interesante recorrerlas en orden. El TX 2025 y el TX Shuttle 2024 comparten apellido y planteamiento, pero no son la misma ficha: el primero se lee como el modelo de referencia y el segundo como su adaptación a un uso de lanzadera, y distinguirlos evita comparar datos que no corresponden. El VN5 2024 se aparta de esa línea y se entiende mejor como la propuesta de furgoneta ligera del grupo, con su propio espacio dentro del catálogo. El L380 2025 cierra el conjunto por el lado más nuevo y más orientado al pasajero, y sirve para comprobar cómo amplía la marca su registro más allá del taxi. Abrir TX, TX Shuttle, VN5 y L380 en ese orden evita mezclar taxi, lanzadera, carga y familia. Distinguir taxi, lanzadera, carga y familia es el criterio que ordena las cuatro fichas de LEVC.",
+    "n": 4,
+    "url": "/coches/marca/levc/"
+  },
+  "coches/luxeed": {
+    "nombre": "Luxeed",
+    "title": "Luxeed coches: 5 fichas técnicas para comparar",
+    "description": "5 fichas técnicas de coches Luxeed: R7 2024, R7 2025, R7 2026, S7 y V9, con datos y versiones para elegir.",
+    "intro": "Luxeed presenta un catálogo breve en el que el R7 domina con claridad, y estas 5 fichas sirven precisamente para no confundir sus tres años entre sí. El R7 2024 abre la serie como la ficha más veterana del grupo, la que conviene abrir antes para establecer la referencia del modelo. El R7 2025 continúa esa línea un año después, y compararlo con el anterior muestra qué cambia y qué permanece cuando el nombre se repite. El R7 2026, que también figura con el apellido Huawei en su ficha, añade una tercera lectura del mismo modelo, y tener las tres juntas evita mezclar datos de años distintos. Fuera del R7 quedan dos fichas con identidad propia: el S7 2026 y el V9 2026, que amplían el catálogo hacia otros formatos y que conviene leer como modelos independientes, no como variantes del R7. Con las cinco fichas delante, la comparación útil es doble: R7 contra R7 a lo largo de tres años, y el conjunto R7 contra S7 y V9. Seguir el R7 a lo largo de tres años y luego mirar S7 y V9 completa el retrato de Luxeed.",
+    "n": 5,
+    "url": "/coches/marca/luxeed/"
+  },
+  "coches/morgan": {
+    "nombre": "Morgan",
+    "title": "Morgan coches: 4 fichas técnicas para comparar",
+    "description": "4 fichas técnicas de coches Morgan: Plus Four, Plus Six, Super 3 y Supersport, con datos y versiones.",
+    "intro": "Morgan ofrece 4 fichas que se entienden mejor por parejas, porque los nombres marcan dos mundos dentro de la misma marca. El Plus Four 2025 y el Plus Six 2025 forman la primera pareja: dos modelos con apellido Plus que comparten planteamiento clásico pero que no deben leerse como el mismo coche, ya que cada ficha tiene sus propias versiones y datos. La segunda pareja la abren el Super 3 2025 y el Supersport 2025, nombres que suenan parecidos y que, sin embargo, corresponden a fichas distintas, una más radical en su concepto y otra como la novedad deportiva del grupo. Leer primero los Plus y después los Super permite captar el contraste entre la tradición más serena y la vertiente más extrema de la marca, sin que los nombres parecidos induzcan a error. Leer los Plus antes que los Super permite apreciar el contraste sin confundir los nombres. Empezar por los Plus y seguir por los Super permite captar el contraste de Morgan sin errores.",
+    "n": 4,
+    "url": "/coches/marca/morgan/"
+  },
+  "coches/neta": {
+    "nombre": "Neta",
+    "title": "Neta coches: 7 fichas técnicas para comparar",
+    "description": "7 fichas técnicas de coches Neta: Aya, GT, L, L EREV, S, S Shooting Brake y X, con datos y versiones.",
+    "intro": "La gama Neta recogida aquí suma 7 fichas y exige un poco de orden, porque varios modelos comparten letra inicial y otros comparten nombre base con un matiz añadido. El Aya 2025 funciona como la ficha más urbana y sencilla del conjunto, la que conviene abrir cuando se busca el modelo de acceso. El GT 2024 y el X 2024 aportan otros dos perfiles independientes, cada uno con ficha y año propios, y no deben mezclarse con la familia S. Esa familia S concentra tres fichas: el S 2024, el S Shooting Brake 2024 y, en otro registro, el L 2024 junto a su variante L EREV 2024, donde el apellido EREV marca la diferencia que hay que leer con atención. Con las siete fichas ordenadas por nombre — Aya, GT, X, S, S Shooting Brake, L y L EREV — la comparación deja de depender de la memoria y pasa a apoyarse en datos: precio, versiones y ficha técnica con fuente en cada caso. Ordenar los siete nombres de Neta por familia deja claro qué ficha abrir según el formato buscado.",
+    "n": 7,
+    "url": "/coches/marca/neta/"
+  },
+  "coches/onvo": {
+    "nombre": "Onvo",
+    "title": "Onvo coches: 4 fichas técnicas para comparar",
+    "description": "4 fichas técnicas de coches Onvo: L60, L80 y L90, con datos y versiones para elegir.",
+    "intro": "Onvo se resume en tres nombres y 4 fichas, y la repetición del L90 es el detalle que más conviene aclarar antes de comparar nada. El L60 2026 abre el grupo como el modelo de acceso entre los recogidos, la ficha que marca el punto de partida de la gama. El L80 2026 ocupa el siguiente escalón, con ficha y año propios, y no debe confundirse con el L60 aunque ambos compartan año. El L90, en cambio, aparece dos veces: una ficha de 2025 y otra de 2026, y esa duplicidad es precisamente lo que hace valiosas ambas lecturas, porque permiten seguir la evolución del modelo mayor de un año al siguiente. Quien compare las cuatro fichas en orden — L60, L80, L90 2025 y L90 2026 — obtiene una imagen completa y sin saltos de la gama Onvo tal como está publicada. Leer L60, L80 y las dos fichas del L90 en orden da la imagen completa de Onvo tal como está publicada.",
+    "n": 4,
+    "url": "/coches/marca/onvo/"
+  },
+  "coches/radical": {
+    "nombre": "Radical",
+    "title": "Radical coches: 5 fichas técnicas para comparar",
+    "description": "5 fichas técnicas de coches Radical: SR1 XXR, SR3 XXR y SR10 XXR, con datos y versiones para elegir.",
+    "intro": "Radical presenta un catálogo de 5 fichas articulado alrededor de una sola familia, la SR, y la numeración es la pista que ordena la comparación. El SR1 XXR 2025 funciona como la puerta de entrada: la ficha más asequible en planteamiento y la que mejor resume la idea de deportivo de circuito llevado a la carretera. El SR3 XXR 2025 ocupa el tramo intermedio, con una ficha propia que no debe leerse como una simple evolución del SR1, porque sus versiones y datos son independientes. El SR10 XXR 2025 cierra la serie por arriba, como la lectura más extrema de la misma receta, y es la ficha que conviene abrir en último lugar para apreciar el salto completo. Entre las fichas verificadas aquí figuran estos tres modelos SR, que bastan para entender la lógica de la gama: mismo apellido, tres niveles y un mismo destino de uso. Comparar SR1, SR3 y SR10 en orden ascendente muestra el salto completo dentro de la familia SR.",
+    "n": 5,
+    "url": "/coches/marca/radical/"
+  },
+  "coches/riddara": {
+    "nombre": "Riddara",
+    "title": "Riddara coches: 2 fichas técnicas para comparar",
+    "description": "2 fichas técnicas de coches Riddara: RD6 y RD6 EM-P, con datos y versiones para elegir.",
+    "intro": "Riddara se presenta con 2 fichas y un único modelo, el RD6, así que toda la comparación se juega en un solo matiz: la variante. El RD6 2025 es la ficha base, la que define el modelo tal como se publica, con su precio, sus versiones y su ficha técnica completa. El RD6 EM-P 2025 comparte nombre y año, pero su apellido añadido señala una variante distinta que merece su propia lectura, porque no todos los datos coinciden entre ambas fichas. Cuando solo hay dos fichas, la tentación es quedarse con la primera y dar por buena la segunda, y aquí conviene resistirla: abrir las dos en paralelo es el único modo de percibir qué aporta la EM-P frente a la ficha base. Ambas recogen sus datos con fuente, de modo que la comparación es limpia y sin zonas grises. Poner la ficha base junto a la EM-P muestra el único matiz que separa a las dos fichas de Riddara.",
+    "n": 2,
+    "url": "/coches/marca/riddara/"
+  },
+  "coches/rising": {
+    "nombre": "Rising Auto",
+    "title": "Rising Auto coches: 3 fichas técnicas para comparar",
+    "description": "3 fichas técnicas de coches Rising Auto: F7, R7 y RC7, con datos y versiones para elegir.",
+    "intro": "Rising Auto reúne 3 fichas con nombres que se prestan a confusión si se leen deprisa, y por eso conviene fijarse en las letras antes que en los números. El F7 2025 y el R7 2025 comparten año y terminación, pero son modelos distintos: el primero se lee como una berlina y el segundo como la propuesta de otro formato, y sus fichas no intercambian datos. El RC7 2025, con su C intermedia, es la tercera ficha y la que más fácilmente se confunde con el R7, así que merece una lectura separada para no atribuirle cifras que no son suyas. Las tres fichas son de 2025, de modo que el año no ayuda a distinguirlas y toda la diferencia vive en el nombre y en lo que contiene cada ficha. Con las tres delante — F7, R7 y RC7 — la comparación se vuelve sencilla: tres modelos del mismo año, tres planteamientos y tres conjuntos de versiones. Fijarse en las letras F, R y RC antes que en los números evita confundir los tres modelos de Rising Auto.",
+    "n": 3,
+    "url": "/coches/marca/rising/"
+  },
+  "coches/sehol": {
+    "nombre": "Sehol",
+    "title": "Sehol coches: 3 fichas técnicas para comparar",
+    "description": "3 fichas técnicas de coches Sehol: X8, X6 y E10X, con datos y versiones para elegir.",
+    "intro": "Sehol ofrece 3 fichas repartidas en tres años distintos, y ese reparto temporal es la primera pista para ordenar la gama. El X8 2022 es la ficha más antigua del grupo, la que marca el punto de partida y la que conviene leer con la perspectiva de su año, sin exigirle lo mismo que a las fichas posteriores. El X6 2024 representa el paso siguiente, con su propia ficha y su propio planteamiento, y sirve para comprobar cómo se mueve la marca dos años después. El E10X 2025 remata el conjunto como la ficha de año más reciente y la de formato más urbano, un contraste claro frente a los dos X anteriores. Leer las tres fichas en orden cronológico — X8, X6 y E10X — permite seguir la trayectoria de Sehol sin mezclar épocas ni formatos. El orden cronológico X8, X6 y E10X es el que mejor cuenta la trayectoria de Sehol. Leer X8, X6 y E10X en orden cronológico cuenta la trayectoria de Sehol sin mezclar épocas.",
+    "n": 3,
+    "url": "/coches/marca/sehol/"
+  },
+  "coches/seres": {
+    "nombre": "Seres",
+    "title": "Seres coches: 2 fichas técnicas para comparar",
+    "description": "2 fichas técnicas de coches Seres: Seres 5 y M7, con datos y versiones para elegir.",
+    "intro": "Seres aparece con 2 fichas que no comparten nombre ni planteamiento, así que la comparación aquí es directa y sin matices de variante que compliquen la lectura. El Seres 5 es la ficha que lleva el nombre de la marca en su propio título, y funciona como la referencia principal del dúo, la que primero conviene abrir para fijar el tono de la gama. El M7 2025, en cambio, tiene nombre propio y año propio, y se entiende mejor como la segunda pata del catálogo: otro formato, otra ficha y otro conjunto de versiones. Con solo dos fichas, el ejercicio útil es ponerlas una junto a otra y preguntarse qué uso cubre cada una, en lugar de buscar diferencias sutiles dentro de un mismo modelo. Ambas fichas recogen precio, versiones y datos técnicos con fuente, así que la decisión entre el Seres 5 y el M7 se toma con la información completa delante y sin necesidad de recurrir a catálogos externos. Poner el Seres 5 junto al M7 basta para decidir, porque no hay más fichas que consultar.",
+    "n": 2,
+    "url": "/coches/marca/seres/"
+  },
+  "coches/yangwang": {
+    "nombre": "Yangwang",
+    "title": "Yangwang coches: 8 fichas técnicas para comparar",
+    "description": "8 fichas técnicas de coches Yangwang: U7, U8, U8L, U9 y U9 Xtreme, con datos y versiones para elegir.",
+    "intro": "Yangwang despliega 8 fichas en torno a tres letras — U7, U8 y U9 — y la forma de no perderse es tratar cada letra como una familia con sus propias variantes. La familia U7 aporta dos fichas: el U7 2025 y el U7 PHEV 2026, donde el apellido PHEV señala la variante que conviene leer por separado porque su planteamiento no es idéntico al del U7 base. La familia U8 es la más amplia de las verificadas: el U8 2024 como referencia inicial, el U8 2027 como lectura posterior y el U8L 2025 como variante de mayor tamaño, tres fichas que no deben mezclarse aunque compartan letra. La familia U9 cierra el grupo con el U9 2024 y el U9 Xtreme 2025, dos fichas en las que el apellido Xtreme marca el salto hacia la versión más radical. Con las fichas verificadas ordenadas por familia — U7, U8 y U9 — la gama se vuelve legible: tres líneas, varias variantes y un mismo nivel de exclusividad. Agrupar las fichas por U7, U8 y U9 hace legible una gama que por nombres sueltos parecería dispersa.",
+    "n": 8,
+    "url": "/coches/marca/yangwang/"
+  },
+  "motos/ajp": {
+    "nombre": "AJP",
+    "title": "AJP motos: 3 fichas técnicas para comparar",
+    "description": "3 fichas técnicas de motos AJP: PR3 240, PR5 250 Extreme y PR7 650 Adventure, con datos y versiones.",
+    "intro": "AJP se presenta con 3 fichas de campo y trail que se ordenan casi solas por cilindrada, y esa progresión es la mejor guía para compararlas. El PR3 240 2026 abre el grupo como la opción más ligera, la ficha que conviene leer primero si lo que se busca es una moto manejable para iniciarse en el fuera de carretera. El PR5 250 Extreme 2025 ocupa el tramo siguiente, con su apellido Extreme señalando un enfoque más exigente dentro de la misma cilindrada pequeña. El PR7 650 Adventure 2025 cierra el trío por arriba, como la moto de mayor cilindrada y de planteamiento viajero, pensada para rutas largas más que para tramos cortos. Con las tres fichas delante, la comparación es limpia: tres niveles de cilindrada, tres usos y tres años cercanos, sin modelos que se solapen entre sí. Subir de PR3 a PR5 y a PR7 es recorrer la gama AJP de menor a mayor ambición en el campo.",
+    "n": 3,
+    "url": "/motos/marca/ajp/"
+  },
+  "motos/bimota": {
+    "nombre": "Bimota",
+    "title": "Bimota motos: 3 fichas técnicas para comparar",
+    "description": "3 fichas técnicas de motos Bimota: KB4, Tesi H2 y Tesi H2 Tera, con datos y versiones para elegir.",
+    "intro": "Bimota aparece con 3 fichas en las que el nombre Tesi pesa tanto como la marca misma, y conviene empezar por separar el KB4 de esa familia. El KB4 2025 es la ficha independiente del grupo, la que no comparte apellido con las otras dos y la que mejor sirve para hacerse una idea de Bimota fuera del universo Tesi. Las otras dos fichas sí forman pareja: el Tesi H2 2025 como modelo de referencia y el Tesi H2 Tera 2024 como variante con año y apellido propios, dos lecturas que hay que cotejar en paralelo para no atribuir a una lo que pertenece a la otra. Con solo tres fichas, el recorrido completo es corto: primero el KB4 para situar la marca, después las dos Tesi para entender su seña de identidad. Empezar por el KB4 y seguir con las dos Tesi es el recorrido más claro dentro de Bimota. Empezar por el KB4 y seguir con las dos Tesi respeta el orden que mejor explica Bimota.",
+    "n": 3,
+    "url": "/motos/marca/bimota/"
+  },
+  "motos/can-am": {
+    "nombre": "Can-Am",
+    "title": "Can-Am motos: 4 fichas técnicas para comparar",
+    "description": "4 fichas técnicas de motos Can-Am: Pulse y Origin, con datos y versiones para elegir.",
+    "intro": "Can-Am reúne 4 fichas repartidas entre dos nombres, Pulse y Origin, y la primera tarea al compararlas es no mezclar las fichas de una con las de la otra. La Pulse suma dos fichas, una de ellas fechada en 2026, y leerlas juntas permite precisar qué ofrece este modelo sin confundirlo con su compañera de catálogo. La Origin también suma dos fichas, las de 2024 y 2026, y esa pareja temporal es la que mejor muestra la continuidad del modelo a lo largo de los años. Con dos fichas por modelo, la comparación natural es doble: Pulse contra Origin como modelos distintos, y dentro de cada uno, ficha contra ficha para ver qué cambia entre años. Todas las fichas incluyen precio, versiones y datos técnicos con fuente, de modo que quien dude entre una Pulse y una Origin puede decidir con cuatro fichas claras delante, sin que los nombres parecidos ni los años cruzados enturbien la elección. Comparar Pulse contra Origin, y dentro de cada una sus dos fichas, agota todas las dudas de Can-Am.",
+    "n": 4,
+    "url": "/motos/marca/can-am/"
+  },
+  "motos/italjet": {
+    "nombre": "Italjet",
+    "title": "Italjet motos: 8 fichas técnicas para comparar",
+    "description": "8 fichas técnicas de motos Italjet: Dragster 125, 200, 300, 459 Twin, 700 Twin, Speedster y Roadster 400.",
+    "intro": "Italjet concentra 8 fichas en dos familias muy reconocibles, Dragster y el resto, y la familia Dragster merece leerse como una escala completa por sí sola. El Dragster 125 aparece en dos fichas, una ficha por año, 2025 y 2026, y esa pareja es el punto de partida ideal para entender el modelo de acceso. Por encima se sitúan el Dragster 200 2025 y el Dragster 300 2025, dos escalones que conviene comparar en orden para no saltarse ningún tramo. Los Dragster 459 Twin 2026 y Dragster 700 Twin cierran la escala por arriba, como las fichas de mayor empaque dentro de la familia. Fuera de los Dragster quedan el Speedster 125 2025 y el Roadster 400 Founders Edition 2026, dos fichas con nombre propio que extienden el catálogo hacia otros perfiles estilos. Con las ocho fichas ordenadas — primero los Dragster de menor a mayor, después Speedster y Roadster — la gama se vuelve manejable. Recorrer los Dragster de menor a mayor y dejar Speedster y Roadster para el final ordena Italjet.",
+    "n": 8,
+    "url": "/motos/marca/italjet/"
+  },
+  "motos/lambretta": {
+    "nombre": "Lambretta",
+    "title": "Lambretta motos: 8 fichas técnicas para comparar",
+    "description": "8 fichas técnicas de motos Lambretta: V50, V125, V200, J 125, X125, X300, G350 y Elettra S, con datos.",
+    "intro": "Lambretta despliega 8 fichas que se entienden mejor agrupando por letras, porque la gama mezcla series V, X y modelos con nombre propio. La serie V aporta tres fichas escalonadas: el V50 Special 2025, el V125 Special 2025 y el V200 Special 2025, tres Special que comparten apellido en fichas distintas, que conviene leer en orden para captar la progresión. La serie X añade otras tres: el X125 2025, el X300 2025 y el J 125 2026, fichas que completan la oferta de scooters con sus propios años y versiones. Quedan dos fichas con identidad propia: el G350 2025, que se sitúa por encima en planteamiento, y el Elettra S 2026, la ficha eléctrica del grupo y la más reciente. Con las ocho fichas agrupadas — V, X y singulares — la comparación deja de ser una lista larga y se convierte en tres bloques claros. Conviene leer los Special en orden. Agrupar V, X y singulares convierte ocho fichas sueltas en tres bloques fáciles de comparar.",
+    "n": 8,
+    "url": "/motos/marca/lambretta/"
+  },
+  "motos/maeving": {
+    "nombre": "Maeving",
+    "title": "Maeving motos: 3 fichas técnicas para comparar",
+    "description": "3 fichas técnicas de motos Maeving: RM1 y RM1S, con datos y versiones para elegir.",
+    "intro": "Maeving se resume en 3 fichas y dos nombres, RM1 y RM1S, y esa sencillez permite una comparación sin distracciones. El RM1 aparece en una ficha de 2024 y en otra de 2025, y compararlas es el ejercicio más útil del grupo, porque muestra la continuidad del modelo de un año al siguiente sin cambiar de nombre. El RM1S 2025, con su S final, es la tercera ficha y la que introduce la variante: mismo apellido base, matiz distinto y datos propios que hay que leer por separado para no mezclarlos con los del RM1. Con solo tres fichas, el recorrido recomendado es corto: primero las dos del RM1 en orden cronológico y después la del RM1S para captar qué añade la variante. Quien compare el RM1 de 2024 con el de 2025 verá enseguida si el cambio de año afecta a lo que busca, y después podrá valorar el RM1S con criterio. Leer las dos fichas del RM1 en orden y luego la del RM1S cierra la comparación de Maeving.",
+    "n": 3,
+    "url": "/motos/marca/maeving/"
+  },
+  "motos/malaguti": {
+    "nombre": "Malaguti",
+    "title": "Malaguti motos: 4 fichas técnicas para comparar",
+    "description": "4 fichas técnicas de motos Malaguti: Drakon 125, Madison 125, RST 125 y Spectre GP 125, con datos.",
+    "intro": "Malaguti presenta 4 fichas de 125 que comparten cilindrada pero no carácter, y esa coincidencia numérica es justamente lo que obliga a leerlas con calma. El Drakon 125 2024 y el Madison 125 2024 comparten año y cilindrada, pero sus fichas son independientes y apuntan a usos distintos dentro de la misma categoría. El Spectre GP 125 2024 añade una tercera lectura del mismo año, con un apellido deportivo que conviene no dar por equivalente a los anteriores. El RST 125 2026 cierra el grupo como la ficha de año más tardío, y su año distinto es la pista que mejor la separa de las otras tres. Con las cuatro fichas delante, la comparación útil no es por cilindrada — todas son 125 — sino por nombre, año y enfoque: Drakon, Madison y Spectre GP en 2024, y RST en 2026. Abrir Drakon, Madison y Spectre GP antes que el RST respeta el orden por año. Comparar cuatro 125 por nombre y año, y no por cilindrada, es la clave de Malaguti.",
+    "n": 4,
+    "url": "/motos/marca/malaguti/"
+  },
+  "motos/mitt": {
+    "nombre": "MITT",
+    "title": "MITT motos: 6 fichas técnicas para comparar",
+    "description": "6 fichas técnicas de motos MITT: City Vision 125, GP2 125, 125 GT-Max, NK 125, TT 530 y 530 TT, con datos.",
+    "intro": "MITT reúne 6 fichas en las que conviven dos escalas muy distintas, la de 125 y la de 530, y separarlas es el primer paso para comparar con sentido. En la escala pequeña aparecen el City Vision 125 2024, el GP2 125 2024, el 125 GT-Max 2025 y el NK 125 2026, cuatro fichas que cubren varios años y varios estilos dentro de la misma cilindrada, y que conviene leer en orden cronológico para no mezclarlas. En la escala grande figuran el TT 530 2024 y el 530 TT 2026, dos fichas que comparten cilindrada y que se distinguen por el orden de sus siglas y por el año, un detalle que hay que mirar dos veces antes de comparar. Con las seis fichas separadas en dos bloques — cuatro 125 y dos 530 — la gama se ordena sola: primero decidir la cilindrada y después el modelo dentro de ella. Decidir primero entre 125 y 530 simplifica todo lo demás dentro del catálogo MITT.",
+    "n": 6,
+    "url": "/motos/marca/mitt/"
+  },
+  "motos/mondial": {
+    "nombre": "Mondial",
+    "title": "Mondial motos: 2 fichas técnicas para comparar",
+    "description": "2 fichas técnicas de motos Mondial: Flat Track 125 y HPS 125, con datos y versiones para elegir.",
+    "intro": "Mondial se presenta con 2 fichas de 125 y del mismo año, así que la comparación se reduce a lo esencial: dos nombres, dos estilos y ningún otro dato que distraiga. El Flat Track 125 2025 lleva en su nombre la pista de su carácter, una moto pensada para un uso con aires de pista plana que se distingue a primera vista de su compañera. El HPS 125 2025, con sus siglas propias, ofrece la segunda lectura del mismo año y de la misma cilindrada, con una ficha independiente que no debe confundirse con la anterior. Cuando dos fichas comparten año y cilindrada, el error habitual es suponer que también comparten contenido, y aquí conviene evitarlo: cada ficha tiene sus versiones y sus datos, y solo leyéndolas en paralelo se aprecia qué separa a la Flat Track de la HPS. Abrir Flat Track antes que HPS es el orden más natural. Poner Flat Track junto a HPS muestra que dos 125 del mismo año pueden ser motos distintas.",
+    "n": 2,
+    "url": "/motos/marca/mondial/"
+  },
+  "motos/mv-agusta": {
+    "nombre": "MV Agusta",
+    "title": "MV Agusta motos: 6 fichas técnicas para comparar",
+    "description": "6 fichas técnicas de motos MV Agusta: Brutale 800 RR, Brutale 1000 RR, F3 800, Superveloce, Turismo y Enduro.",
+    "intro": "MV Agusta despliega 6 fichas que se organizan en tres bloques claros, y esa división es la mejor forma de recorrerlas sin mezclar familias. El bloque Brutale aporta dos fichas: la Brutale 800 RR 2024 y la Brutale 1000 RR, dos naked que comparten apellido sin compartir ficha, algo que conviene comparar como dos niveles distintos dentro de la misma idea. El bloque deportivo añade la F3 800 2024 y la Superveloce 800, otras dos fichas con carácter propio que no deben leerse como variantes entre sí. El tercer bloque lo forman la Turismo Veloce 800 R 2024 y la Enduro Veloce 2026, dos motos orientadas a viajar y al campo respectivamente, que amplían la marca más allá de la deportividad pura. Con las seis fichas agrupadas — Brutale, deportivas y viajeras — la comparación se hace por bloques y no por una lista larga. Abrir Brutale, F3, Superveloce, Turismo y Enduro en ese orden recorre la marca completa. Elegir primero el bloque, Brutale, deportiva o viajera, reduce la decisión a dos fichas.",
+    "n": 6,
+    "url": "/motos/marca/mv-agusta/"
+  },
+  "motos/royal-alloy": {
+    "nombre": "Royal Alloy",
+    "title": "Royal Alloy motos: 4 fichas técnicas para comparar",
+    "description": "4 fichas técnicas de motos Royal Alloy: GP 125, GP 300 S, TG 125 y TG 300 S, con datos y versiones.",
+    "intro": "Royal Alloy presenta 4 fichas de 2026 organizadas en dos parejas perfectas, GP y TG, y esa simetría es la clave para compararlas sin errores. La pareja GP la forman el GP 125 2026 y el GP 300 S 2026, dos fichas que comparten apellido y año pero no cilindrada, y que conviene leer como dos niveles dentro de la misma línea. La pareja TG repite el esquema con el TG 125 2026 y el TG 300 S 2026, otros dos niveles con los mismos números pero con un nombre distinto que marca otro estilo. Con las cuatro fichas delante, la comparación tiene dos ejes: GP contra TG como estilos, y 125 contra 300 S como niveles dentro de cada estilo. Todas son de 2026, así que el año no distingue nada y toda la diferencia radica en el nombre y en el interior de cada ficha. Cruzar GP contra TG y 125 contra 300 S resuelve la elección en Royal Alloy sin más vueltas.",
+    "n": 4,
+    "url": "/motos/marca/royal-alloy/"
+  },
+  "motos/sherco": {
+    "nombre": "Sherco",
+    "title": "Sherco motos: 8 fichas técnicas para comparar",
+    "description": "8 fichas técnicas de motos Sherco: 125 SE, 300 SE Factory, 300 SEF, 450 SEF Factory, 500 SEF y ST 300, con datos.",
+    "intro": "Sherco reúne 8 fichas de campo en las que las siglas SE y SEF marcan la diferencia principal, y conviene aprenderlas antes de comparar modelos. Entre las fichas verificadas figuran el 125 SE 2025 como punto de entrada, el 300 SE Factory 2026 y el 300 SEF 2025 como dos lecturas distintas del mismo número, y el 450 SEF Factory 2026 junto al 500 SEF 2025 como los escalones superiores. El ST 300 2024 completa el grupo verificado con un apellido distinto, el de trial, que lo separa claramente de las enduro aunque comparta número con otras fichas. Con este material, la comparación útil sigue el número — 125, 300, 450, 500 — y después el apellido: SE contra SEF, Factory contra base y ST aparte. Quien siga el número de menor a mayor, de 125 a 500, y deje el ST para el final, entenderá la gama Sherco sin esfuerzo. Seguir el número y luego el apellido SE, SEF o ST ordena las ocho fichas de Sherco.",
+    "n": 8,
+    "url": "/motos/marca/sherco/"
+  },
+  "motos/swm": {
+    "nombre": "SWM",
+    "title": "SWM motos: 6 fichas técnicas para comparar",
+    "description": "6 fichas técnicas de motos SWM: Hoku 400, Six Days 500, SM 500 R, Superdual 650, Superdual X y Varez 125.",
+    "intro": "SWM presenta 6 fichas que van del 125 al 650 y que se entienden mejor de menor a mayor, porque la cilindrada ordena el catálogo casi por sí sola. El Varez 125 2023 abre el grupo como la ficha más antigua y la de menor cilindrada, útil para situar el punto de partida de la marca. El Hoku 400 aporta otro escalón, con ficha y carácter propios, sin compartir nombre con ninguna otra del grupo. Los 500 forman un bloque propio con el Six Days 500 2024 y el SM 500 R 2024, dos fichas del mismo año que conviene comparar en paralelo para no atribuir a una los datos de la otra. Los 650 cierran por arriba con el Superdual 650 2025 y el Superdual X 2025, una pareja que comparte nombre base y año, y que exige la misma atención que los 500. Con las seis fichas ordenadas por cilindrada — 125, 400, 500 y 650 — la gama se recorre sin saltos. Recorrer SWM de 125 a 650 permite situar cada modelo en su escalón sin saltos.",
+    "n": 6,
+    "url": "/motos/marca/swm/"
+  },
+  "motos/trs": {
+    "nombre": "TRS",
+    "title": "TRS motos: 5 fichas técnicas para comparar",
+    "description": "5 fichas técnicas de motos TRS: One R 250, One R 300, One R Electric Start y One RR 300, con datos.",
+    "intro": "TRS concentra 5 fichas en una sola familia, la One, y dentro de ella la diferencia está en tres letras: R, RR y el añadido Electric Start. Entre las fichas verificadas figuran el One R 250 2025 como la opción de menor cilindrada, el One R 300 2025 como su hermano mayor y el One R Electric Start 300 2025, que comparte número con el anterior pero añade el arranque eléctrico en su propio nombre. El One RR 300 2025 cierra el grupo verificado como la variante de doble erre, la que conviene leer aparte porque su apellido marca otro nivel dentro de la familia. Con este material, la comparación sigue un orden natural: primero la cilindrada — 250 contra 300 — y después la variante — R contra RR y contra Electric Start. Empezar por el 250 y subir al 300 antes de mirar las variantes es el orden que menos confunde. Distinguir R, RR y Electric Start dentro de la familia One es todo lo que pide TRS.",
+    "n": 5,
+    "url": "/motos/marca/trs/"
+  },
+  "motos/vmoto": {
+    "nombre": "Vmoto",
+    "title": "Vmoto motos: 7 fichas técnicas para comparar",
+    "description": "7 fichas técnicas de motos Vmoto: VS1, VS2, CPx Explorer, OFF-R, Stash y TC Max, con datos y versiones.",
+    "intro": "Vmoto reúne 7 fichas eléctricas en las que conviven scooters urbanos y propuestas de otro estilo, y la mejor forma de ordenarlas es separar primero las de nombre corto. El VS1 2025 y el VS2 2025 forman una pareja de nombres casi idénticos que conviene comparar en paralelo, porque la diferencia está en el número final y en el contenido de cada ficha, no en el apellido. El CPx Explorer 2025 y el OFF-R 2025 aportan otros dos perfiles con nombre propio, cada uno con su ficha independiente y su propio uso previsto. El Stash 2025 completa el grupo de nombres singulares con una ficha que no comparte apellido con ninguna otra. Y el TC Max cierra el catálogo con dos fichas, de 2024 y de 2025 respectivamente, la única pareja temporal del grupo y la que mejor refleja la continuidad del modelo. Con las siete fichas agrupadas — VS, singulares y TC Max — la gama eléctrica de Vmoto se vuelve legible. Separar VS, singulares y TC Max hace legible la gama eléctrica de Vmoto en tres grupos.",
+    "n": 7,
+    "url": "/motos/marca/vmoto/"
+  },
+  "motos/wottan": {
+    "nombre": "Wottan",
+    "title": "Wottan motos: 5 fichas técnicas para comparar",
+    "description": "5 fichas técnicas de motos Wottan: Sixteen 125, Storm 125, Storm X 125, Storm-S 300 y Rebbe 401.",
+    "intro": "Wottan presenta 5 fichas en las que la familia Storm domina con tres variantes, y conviene empezar por ella para no mezclar sus nombres. El Storm 125 2025 es la ficha base de la familia, la que fija la referencia del modelo. El Storm X 125 2025 comparte cilindrada y año, pero su X intermedia señala una variante distinta con ficha propia, y leerlas en paralelo es como mejor se aprecia el matiz. El Storm-S 300 2026 sube de cilindrada y de año dentro de la misma familia, y cierra el grupo Storm por arriba. Fuera de esa familia quedan dos fichas con nombre propio: el Sixteen 125 2025, que comparte cilindrada con los Storm pequeños pero no apellido, y el Rebbe 401 2025, la ficha de mayor cilindrada del catálogo. Con las cinco fichas ordenadas — primero las tres Storm y después Sixteen y Rebbe — la gama se compara sin confusiones. Leer primero las tres Storm y después Sixteen y Rebbe evita cualquier confusión en Wottan.",
+    "n": 5,
+    "url": "/motos/marca/wottan/"
+  },
+  "patinetes/aovopro": {
+    "nombre": "Aovopro",
+    "title": "Aovopro: 6 patinetes eléctricos con ficha técnica",
+    "description": "6 fichas técnicas de patinetes eléctricos Aovopro: ES60, ES80, 365 Go, AP07 y EW6, con datos y versiones.",
+    "intro": "Aovopro reúne 6 fichas de patinetes eléctricos con nombres cortos y fáciles de confundir, así que conviene fijarse en las letras y en los números antes de comparar. Entre las fichas verificadas figuran el ES60 y el ES80, dos modelos de la serie ES que comparten apellido y que se distinguen por el número final y por lo que contiene cada ficha. El 365 Go aporta un nombre distinto, sin letras ES, y su ficha conviene leerla aparte porque no pertenece a la misma serie. El AP07 y el EW6 completan el grupo verificado con otros dos nombres propios, cada uno con ficha independiente y planteamiento propio. Con este material, la comparación útil es por series: primero los ES entre sí, después el 365 Go, el AP07 y el EW6 como modelos singulares. Separar ES60 y ES80 del 365 Go, el AP07 y el EW6 es el primer paso para no mezclar series. Separar la serie ES de los modelos singulares es el primer paso para comparar Aovopro.",
+    "n": 6,
+    "url": "/patinetes/marca/aovopro/"
+  },
+  "patinetes/bogist": {
+    "nombre": "Bogist",
+    "title": "Bogist: 6 patinetes eléctricos con ficha técnica",
+    "description": "6 fichas técnicas de patinetes eléctricos Bogist: M5 Pro, M5 Pro S y M6, con datos y versiones para elegir.",
+    "intro": "Bogist concentra 6 fichas en tres nombres de la serie M, y la cercanía entre ellos exige una lectura atenta para no mezclar datos. Entre las fichas verificadas figuran el M5 Pro y el M5 Pro S, dos modelos que comparten casi todo el nombre y que solo se distinguen por la S final y por el interior de cada ficha: leerlas en paralelo es imprescindible antes de decidir. El M6 completa el grupo verificado como la tercera ficha de la serie, con su propio número y su propio planteamiento, y no debe tratarse como una variante más del M5. Con tres nombres tan próximos, el orden recomendado es estricto: primero el M5 Pro, después el M5 Pro S para captar qué añade la S, y por último el M6 para cerrar la serie. Leer M5 Pro, luego M5 Pro S y por último M6 es el orden que aclara la serie. Leer M5 Pro, M5 Pro S y M6 en ese orden muestra qué aporta cada letra y cada número.",
+    "n": 6,
+    "url": "/patinetes/marca/bogist/"
+  },
+  "patinetes/currus": {
+    "nombre": "Currus",
+    "title": "Currus: 4 patinetes eléctricos con ficha técnica",
+    "description": "4 fichas técnicas de patinetes eléctricos Currus: NF y NF11 Panther, con datos y versiones para elegir.",
+    "intro": "Currus presenta 4 fichas articuladas en torno a dos nombres, NF y NF11 Panther, y la relación entre ambos es lo primero que hay que aclarar. La NF cuenta con su propia ficha y representa la entrada más directa al catálogo, la que conviene abrir en primer lugar para fijar el punto de partida de la marca. La NF11 Panther, con su apellido añadido, ocupa las demás fichas verificadas, incluida la que figura simplemente como Panther, y esa duplicidad nominal es la que más fácilmente induce a error: Panther y NF11 Panther remiten al mismo modelo, no a dos modelos distintos. Con las fichas verificadas delante, la comparación real es entre dos modelos — NF y NF11 Panther — y no entre tres o cuatro nombres, por muchos títulos que aparezcan en el listado. Quien entienda que Panther y NF11 Panther son el mismo modelo ya tiene la mitad de la comparación hecha. Entender que Panther y NF11 Panther son el mismo modelo despeja la comparación de Currus.",
+    "n": 4,
+    "url": "/patinetes/marca/currus/"
+  },
+  "patinetes/denver": {
+    "nombre": "Denver",
+    "title": "Denver: 3 patinetes eléctricos con ficha técnica",
+    "description": "3 fichas técnicas de patinetes eléctricos Denver: SEL-10800F y SEL-10810FDB, con datos y versiones.",
+    "intro": "Denver aparece con 3 fichas y dos modelos de la serie SEL, y la numeración larga de ambos es lo que más atención exige al comparar. La SEL-10800F reúne dos fichas, una correspondiente a 2026, y leerlas juntas permite concretar qué ofrece este modelo sin mezclarlo con su compañero de serie. La SEL-10810FDB aporta la tercera ficha, con un número que se diferencia del anterior en pocos dígitos y que, sin embargo, corresponde a un modelo distinto con su propia ficha y sus propios datos. Con solo tres fichas, el ejercicio es breve pero delicado: hay que mirar los números completos — 10800F contra 10810FDB — antes de dar por hecho que dos fichas hablan del mismo patinete. Mirar primero la ficha de la SEL-10800F de 2026 y después la otra ficha de la misma serie ayuda a fijar el modelo antes de pasar a la SEL-10810FDB. Mirar los dígitos completos, 10800F contra 10810FDB, es lo único que separa a los dos Denver.",
+    "n": 3,
+    "url": "/patinetes/marca/denver/"
+  },
+  "patinetes/egret": {
+    "nombre": "Egret",
+    "title": "Egret: 8 patinetes eléctricos con ficha técnica",
+    "description": "8 fichas técnicas de patinetes eléctricos Egret: Ey! 1, Ey! 2, Ey! 3, Ey! 6, Ten V4, Pro y GT, con datos.",
+    "intro": "Egret despliega 8 fichas en las que la serie Ey! domina con claridad, y conviene recorrerla por número antes de pasar a los modelos con nombre propio. Entre las fichas verificadas figuran el Ey! 1, el Ey! 2, el Ey! 3 y el Ey! 6, cuatro peldaños de la misma serie que no deben leerse como un solo modelo: cada número corresponde a una ficha independiente, con sus versiones y sus datos. El salto del Ey! 3 al Ey! 6, sin 4 ni 5 entre medias en lo verificado, es un detalle que conviene tener presente para no buscar fichas que no figuran aquí. Fuera de la serie Ey! quedan el Ten V4, el Pro y el GT, tres fichas con nombre propio que abren el catálogo a otros perfiles perfiles y que merecen lecturas separadas. Con las fichas verificadas ordenadas — primero los Ey! por número y después Ten V4, Pro y GT — la gama se vuelve manejable. Recorrer los Ey! por número y luego Ten, Pro y GT completa el mapa de Egret.",
+    "n": 8,
+    "url": "/patinetes/marca/egret/"
+  },
+  "patinetes/kugoo": {
+    "nombre": "Kugoo",
+    "title": "Kugoo: 5 patinetes eléctricos con ficha técnica",
+    "description": "5 fichas técnicas de patinetes eléctricos Kugoo: Kirin S1 Pro, M3, M4 Pro y G2 Pro, con datos y versiones.",
+    "intro": "Kugoo presenta 5 fichas bajo el apellido Kirin, y la combinación de letra y número de cada modelo es la guía que ordena la comparación. Entre las fichas verificadas figuran el Kirin S1 Pro y el Kirin M3, dos modelos que no comparten letra inicial y que conviene leer como líneas distintas dentro de la misma marca. El Kirin M4 Pro y el Kirin G2 Pro completan el grupo verificado con otros dos apellidos — M y G — que tampoco deben confundirse entre sí, porque cada uno corresponde a una ficha independiente con sus propias versiones. Con cuatro modelos verificados repartidos en tres letras — S, M y G — la comparación útil es por letra primero y por número después, sin asumir que dos Kirin parecidos comparten datos. Agrupar los Kirin por letra, S, M y G, antes de mirar los números, ordena la comparación desde el principio. Comparar por letra, S, M o G, antes que por número ordena los Kirin de Kugoo.",
+    "n": 5,
+    "url": "/patinetes/marca/kugoo/"
+  },
+  "patinetes/okai": {
+    "nombre": "Okai",
+    "title": "Okai: 4 patinetes eléctricos con ficha técnica",
+    "description": "4 fichas técnicas de patinetes eléctricos Okai: Neon y Neon Pro, con datos y versiones para elegir.",
+    "intro": "Okai se presenta con 4 fichas y un solo nombre base, Neon, así que toda la comparación gira en torno al apellido Pro que distingue a la segunda ficha verificada. El Neon cuenta con su propia ficha y funciona como la referencia del dúo, la que conviene abrir primero para fijar qué ofrece la marca en su modelo básico. El Neon Pro, con su apellido añadido, es la segunda ficha verificada y la que introduce la variante: mismo nombre base, otro matiz y datos propios que piden lectura separada. Cuando solo hay dos modelos verificados, la tentación es quedarse con el primero y dar por conocido el segundo, y aquí conviene resistirla: abrir ambas fichas en paralelo es la manera de apreciar qué aporta el Pro frente al Neon base. Abrir Neon antes que Neon Pro es el orden que muestra qué añade la variante. Poner Neon junto a Neon Pro muestra la única diferencia entre las dos fichas de Okai.",
+    "n": 4,
+    "url": "/patinetes/marca/okai/"
+  },
+  "patinetes/soflow": {
+    "nombre": "SoFlow",
+    "title": "SoFlow: 5 patinetes eléctricos con ficha técnica",
+    "description": "5 fichas técnicas de patinetes eléctricos SoFlow: SO ONE+, SO2 Air Gen 3, SO4 Pro y SO4 Pro Gen 2.",
+    "intro": "SoFlow reúne 5 fichas con una nomenclatura de cifras y generaciones que exige leer los nombres completos antes de comparar. Dentro de lo verificado aparece el SO ONE+ como modelo con nombre propio, distinto de toda la serie numerada, y el SO2 Air Gen 3 como la ficha de la serie 2 con su generación indicada. El SO4 Pro y el SO4 Pro Gen 2 forman la pareja que más fácilmente se confunde: comparten número y apellido, y solo la mención Gen 2 y el contenido de cada ficha permiten distinguirlos. Con este material, el orden recomendado es separar primero el SO ONE+ del resto, después situar el SO2 Air Gen 3 en su serie y por último comparar los dos SO4 en paralelo. Leer SO ONE+ aparte, situar el SO2 Air Gen 3 en su serie y comparar los dos SO4 en paralelo es el recorrido que menos errores produce en SoFlow. Leer el nombre completo, con su generación cuando la lleva, evita confundir los SoFlow.",
+    "n": 5,
+    "url": "/patinetes/marca/soflow/"
+  },
+  "patinetes/speedway": {
+    "nombre": "Speedway",
+    "title": "Speedway: 4 patinetes eléctricos con ficha técnica",
+    "description": "4 fichas técnicas de patinetes eléctricos Speedway: Leger, Leger Pro y Mini 4 Pro, con datos y versiones.",
+    "intro": "Speedway presenta 4 fichas en las que el apellido Pro aparece dos veces y el nombre Leger otras dos, y ese cruce es lo que hay que desenredar antes de comparar. Dentro de lo verificado aparecen el Leger y el Leger Pro, dos modelos que comparten nombre base y que se distinguen por el Pro final y por los datos de cada ficha: leerlos en paralelo es imprescindible. El Mini 4 Pro completa el grupo verificado con otro nombre propio que también lleva Pro, lo que demuestra que el apellido Pro por sí solo no identifica un modelo: hay que leer el nombre completo en cada caso. Con tres modelos verificados — Leger, Leger Pro y Mini 4 Pro — la comparación útil es por nombre completo, no por apellido, porque Pro aparece en dos fichas distintas. Leer Leger, Leger Pro y Mini 4 Pro con el nombre completo delante evita el error más común. Leer el nombre entero, y no solo el apellido Pro, distingue a los tres Speedway verificados.",
+    "n": 4,
+    "url": "/patinetes/marca/speedway/"
+  },
+  "patinetes/walberg": {
+    "nombre": "Walberg",
+    "title": "Walberg: 4 patinetes eléctricos con ficha técnica",
+    "description": "4 fichas técnicas de patinetes eléctricos Walberg: Egret Pro y Egret Ey! 1, con datos y versiones para elegir.",
+    "intro": "Walberg reúne 4 fichas en las que los modelos llevan nombres conocidos de otro catálogo, y esa particularidad conviene tenerla presente desde el principio. Entre las fichas verificadas figuran el Egret Pro y el Egret Ey! 1, dos modelos que aparecen aquí bajo el listado Walberg con sus propias fichas, sus propios precios y sus propios datos, y que deben compararse como fichas Walberg aunque sus nombres recuerden a otra marca. El Egret Pro funciona como la ficha de mayor empaque entre las verificadas, mientras el Egret Ey! 1 aporta la lectura más urbana y sencilla del par. Con solo dos modelos verificados, la comparación es directa: Pro contra Ey! 1, sin familias intermedias ni variantes que compliquen el ejercicio. Quien abra primero la ficha del Egret Pro y después la del Egret Ey! 1 dentro del listado Walberg verá enseguida cuál de los dos encaja con su uso. Comparar Egret Pro contra Egret Ey! 1 dentro del listado Walberg cierra la elección.",
+    "n": 4,
+    "url": "/patinetes/marca/walberg/"
+  },
+  "patinetes/zero": {
+    "nombre": "Zero",
+    "title": "Zero: 5 patinetes eléctricos con ficha técnica",
+    "description": "5 fichas técnicas de patinetes eléctricos Zero: 8X, 9, 10, 10X y 11X, con datos y versiones para elegir.",
+    "intro": "Zero presenta 5 fichas numeradas del 8 al 11, y esa escala numérica es la guía más fiable para recorrer el catálogo sin perderse. El 8X abre el grupo como la ficha de menor número, la que conviene abrir primero para tomar la referencia de la serie. El 9 ocupa el siguiente peldaño, con su propia ficha y sin letra añadida, un detalle que lo distingue de sus compañeros con X. El 10 y el 10X forman la pareja central: mismo número, una ficha sin letra y otra con X, y compararlas en paralelo es imprescindible para no mezclar los datos de una con los de la otra. El 11X cierra la escala por arriba como la ficha de mayor número y la que mejor resume hasta dónde llega la serie. Con las cinco fichas ordenadas — 8X, 9, 10, 10X y 11X — la gama se lee como una progresión clara y sin saltos. Recorrer 8X, 9, 10, 10X y 11X en orden numérico muestra la progresión completa de Zero.",
+    "n": 5,
+    "url": "/patinetes/marca/zero/"
+  }
 }

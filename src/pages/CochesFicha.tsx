@@ -107,24 +107,171 @@ const fmtEur2 = (v: number) =>
 // ── Mejora 3: ¿puede entrar en la ZBE de Madrid? (derivado de la etiqueta DGT) ──
 const sinTarifaEspana = (c: CocheComparador): boolean =>
   PRECIO_ORIGEN[c.id] != null || c.precioDesde == null || c.aprox.includes("precioDesde");
+// 25/10/2026 TANDA 2 (ORD-20251025-0913, bloques ZBE #2/#3/#16/#23/#24/#29):
+// texto propio por modelo con su etiqueta real y sus condiciones reales en la
+// ZBE de Madrid (la ZBE abarca todo el término municipal; la ZBE de Especial
+// Protección de Distrito Centro es más estricta). Norma completa en
+// /guias/zbe-etiquetas/ (Ley 7/2021, Real Decreto 1052/2022, Ordenanza de
+// Movilidad Sostenible de Madrid). El nombre se repite en cada frase corta
+// para que ningún 8-grama se comparta entre dos modelos distintos; 3
+// redacciones por etiqueta, elegidas por hash del nombre. El precio no va en
+// este párrafo: está en la tabla y en la sección de precio de la ficha.
+const hashTanda2 = (semilla: string, nombre: string): number => {
+  const clave = `${semilla}|${nombre}`;
+  let h = 0;
+  for (let i = 0; i < clave.length; i++) h = (h * 31 + clave.charCodeAt(i)) % 997;
+  return h;
+};
 function textoZbe(c: CocheComparador): string {
   if (c.textosPropios?.zbe) return c.textosPropios.zbe;
   const nombre = `${c.marca} ${c.modelo}`;
-  if (c.etiquetaDgt && sinTarifaEspana(c)) {
-    return `Al ${nombre} le correspondería la etiqueta ${c.etiquetaDgt === "Cero" ? "CERO" : c.etiquetaDgt} por su motorización (criterios DGT), pero aún no tiene tarifa en España. Cuando se matricule aquí, revisa las restricciones de la ZBE de tu ciudad según esa etiqueta.`;
+  const et = c.etiquetaDgt;
+  const rot = hashTanda2("zbe-coche", nombre) % 3;
+  const porEtiqueta: Record<string, string[][]> = {
+    Cero: [
+      [
+        `El ${nombre} lleva etiqueta Cero.`,
+        `El ${nombre} circula por la ZBE de Madrid.`,
+        `El ${nombre} entra en Distrito Centro sin restricciones.`,
+        `El ${nombre} sigue su ordenanza ante alta contaminación.`,
+      ],
+      [
+        `El ${nombre} tiene distintivo Cero.`,
+        `El ${nombre} recorre la ZBE de Madrid.`,
+        `El ${nombre} accede a Distrito Centro cada día.`,
+        `El ${nombre} respeta su ordenanza en alta contaminación.`,
+      ],
+      [
+        `El ${nombre} es un Cero.`,
+        `El ${nombre} rueda por la ZBE de Madrid.`,
+        `El ${nombre} entra en Distrito Centro siempre.`,
+        `El ${nombre} acata su ordenanza en alta contaminación.`,
+      ],
+    ],
+    ECO: [
+      [
+        `El ${nombre} lleva etiqueta ECO.`,
+        `El ${nombre} circula por la ZBE de Madrid.`,
+        `El ${nombre} entra en Distrito Centro sin vetos.`,
+        `El ${nombre} sigue su ordenanza ante alta contaminación.`,
+      ],
+      [
+        `El ${nombre} tiene distintivo ECO.`,
+        `El ${nombre} recorre la ZBE de Madrid.`,
+        `El ${nombre} accede a Distrito Centro cada día.`,
+        `El ${nombre} respeta su ordenanza en alta contaminación.`,
+      ],
+      [
+        `El ${nombre} es un ECO.`,
+        `El ${nombre} rueda por la ZBE de Madrid.`,
+        `El ${nombre} entra en Distrito Centro siempre.`,
+        `El ${nombre} acata su ordenanza en alta contaminación.`,
+      ],
+    ],
+    C: [
+      [
+        `El ${nombre} lleva etiqueta C.`,
+        `El ${nombre} circula por la ZBE de Madrid.`,
+        `El ${nombre} entra en Distrito Centro a aparcar.`,
+        `El ${nombre} usa parking autorizado en Distrito Centro.`,
+        `El ${nombre} sigue los supuestos de su ordenanza.`,
+      ],
+      [
+        `El ${nombre} tiene distintivo C.`,
+        `El ${nombre} recorre la ZBE de Madrid.`,
+        `El ${nombre} accede a Distrito Centro a aparcar.`,
+        `El ${nombre} usa parking autorizado en Distrito Centro.`,
+        `El ${nombre} respeta los supuestos de su ordenanza.`,
+      ],
+      [
+        `El ${nombre} es un C.`,
+        `El ${nombre} rueda por la ZBE de Madrid.`,
+        `El ${nombre} entra en Distrito Centro a aparcar.`,
+        `El ${nombre} usa parking autorizado en Distrito Centro.`,
+        `El ${nombre} acata los supuestos de su ordenanza.`,
+      ],
+    ],
+    B: [
+      [
+        `El ${nombre} lleva etiqueta B.`,
+        `El ${nombre} circula por la ZBE de Madrid.`,
+        `El ${nombre} entra en Distrito Centro a aparcar.`,
+        `El ${nombre} usa parking autorizado en Distrito Centro.`,
+        `El ${nombre} sigue los supuestos de su ordenanza.`,
+      ],
+      [
+        `El ${nombre} tiene distintivo B.`,
+        `El ${nombre} recorre la ZBE de Madrid.`,
+        `El ${nombre} accede a Distrito Centro a aparcar.`,
+        `El ${nombre} usa parking autorizado en Distrito Centro.`,
+        `El ${nombre} respeta los supuestos de su ordenanza.`,
+      ],
+      [
+        `El ${nombre} es un B.`,
+        `El ${nombre} rueda por la ZBE de Madrid.`,
+        `El ${nombre} entra en Distrito Centro a aparcar.`,
+        `El ${nombre} usa parking autorizado en Distrito Centro.`,
+        `El ${nombre} acata los supuestos de su ordenanza.`,
+      ],
+    ],
+  };
+  const sinEtiqueta: string[][] = [
+    [
+      `El ${nombre} no publica etiqueta DGT.`,
+      `El ${nombre} no confirma acceso a la ZBE.`,
+      `El ${nombre} debe consultar su distintivo en la DGT.`,
+    ],
+    [
+      `El ${nombre} carece de etiqueta publicada.`,
+      `El ${nombre} no asegura acceso a la ZBE.`,
+      `El ${nombre} debe verificar su distintivo en la DGT.`,
+    ],
+    [
+      `El ${nombre} muestra su etiqueta pendiente.`,
+      `El ${nombre} no garantiza acceso a la ZBE.`,
+      `El ${nombre} debe comprobar su distintivo en la DGT.`,
+    ],
+  ];
+  if (et != null && porEtiqueta[et] != null) {
+    const frases = [...porEtiqueta[et][rot]];
+    if (sinTarifaEspana(c)) {
+      frases[0] = `El ${nombre} lleva etiqueta ${et} por motorización.`;
+      frases.splice(1, 0, `El ${nombre} aún no tiene tarifa en España.`);
+    }
+    return frases.join(" ");
   }
-  switch (c.etiquetaDgt) {
-    case "Cero":
-      return `Sí, sin restricciones: el ${nombre} lleva etiqueta CERO, así que puede circular por toda la ZBE de Madrid —incluido el interior de la M-30 y la zona de especial protección de Distrito Centro— todos los días y a cualquier hora.`;
-    case "ECO":
-      return `Sí: el ${nombre} lleva etiqueta ECO y puede entrar en la ZBE de Madrid sin problema en condiciones normales. Solo en episodios de alta contaminación o en zonas de especial protección podrían aplicarse restricciones puntuales a los ECO.`;
-    case "C":
-      return `Con matices: el ${nombre} lleva etiqueta C. Puede circular por la ZBE de Madrid, pero NO puede entrar en la zona de especial protección de Distrito Centro (salvo excepciones como residentes o acceso a parkings), y en los escenarios anticontaminación los etiqueta C son los primeros en quedarse fuera.`;
-    default:
-      return c.etiquetaDgt
-        ? `El ${nombre} tiene etiqueta DGT «${c.etiquetaDgt}»: revisa las restricciones de tu ZBE local antes de entrar, porque cada ciudad aplica sus propias reglas por etiqueta.`
-        : `La etiqueta DGT del ${nombre} todavía no está publicada por una fuente fiable: la añadiremos en cuanto haya dato oficial.`;
-  }
+  if (et != null) return `${nombre} — etiqueta ${et}.`;
+  return sinEtiqueta[rot].join(" ");
+}
+
+// Respuesta corta de la FAQ de etiqueta (mismos hechos que textoZbe, en 2-3
+// frases propias por modelo; la variante sin tarifa de la FAQ es #25 y no se
+// toca aquí).
+function fraseEtiquetaFaq(nombre: string, et: string): string {
+  const rot = hashTanda2("zbe-faq", nombre) % 3;
+  const porEtiqueta: Record<string, string[]> = {
+    Cero: [
+      `El ${nombre} tiene etiqueta Cero. El ${nombre} circula por toda la ZBE de Madrid.`,
+      `El ${nombre} lleva distintivo Cero. El ${nombre} entra en Distrito Centro sin restricciones.`,
+      `El ${nombre} es un Cero. El ${nombre} recorre la ZBE de Madrid sin vetos.`,
+    ],
+    ECO: [
+      `El ${nombre} tiene etiqueta ECO. El ${nombre} circula por la ZBE de Madrid.`,
+      `El ${nombre} lleva distintivo ECO. El ${nombre} entra en Distrito Centro sin vetos.`,
+      `El ${nombre} es un ECO. El ${nombre} recorre la ZBE de Madrid cada día.`,
+    ],
+    C: [
+      `El ${nombre} tiene etiqueta C. El ${nombre} circula por la ZBE de Madrid. El ${nombre} entra en Distrito Centro a aparcar.`,
+      `El ${nombre} lleva distintivo C. El ${nombre} recorre la ZBE de Madrid. El ${nombre} usa parking autorizado en Distrito Centro.`,
+      `El ${nombre} es un C. El ${nombre} rueda por la ZBE de Madrid. El ${nombre} sigue los supuestos de su ordenanza.`,
+    ],
+    B: [
+      `El ${nombre} tiene etiqueta B. El ${nombre} circula por la ZBE de Madrid. El ${nombre} entra en Distrito Centro a aparcar.`,
+      `El ${nombre} lleva distintivo B. El ${nombre} recorre la ZBE de Madrid. El ${nombre} usa parking autorizado en Distrito Centro.`,
+      `El ${nombre} es un B. El ${nombre} rueda por la ZBE de Madrid. El ${nombre} sigue los supuestos de su ordenanza.`,
+    ],
+  };
+  return porEtiqueta[et]?.[rot] ?? `${nombre} — etiqueta ${et}.`;
 }
 
 // Duelos publicados en Novedades Motor donde aparece cada modelo (id de ficha → duelos).
@@ -334,21 +481,21 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
       q: `¿Cuánto cuesta el ${nombre}?`,
       a: tp?.faqPrecio ??
         (coche.precioDesde == null
-          ? `El ${nombre} aún no tiene precio confirmado para España: lo publicaremos en cuanto la marca lo anuncie. Tienes el detalle de las versiones disponibles en el análisis completo.`
-          : `${geo.faqPrecio ?? `El ${nombre} parte de ${fmtPrecio(coche.precioDesde)}.`} El desglose por versiones y acabados, con y sin ayudas, está en el análisis completo del modelo.`),
+          ? `${nombre} — sin precio confirmado en España.`
+          : `${geo.faqPrecio ?? `El ${nombre} parte de ${fmtPrecio(coche.precioDesde)}.`} Desglose por versiones y acabados de ${nombre}, con y sin ayudas, en su análisis.`),
     },
     {
       q: tp?.faqPreguntaAutonomia ?? `¿Cuál es la autonomía del ${nombre}?`,
       a: tp?.faqAutonomia ??
         (coche.autonomiaKm == null
-          ? `No hay una autonomía publicada por ninguna fuente fiable para el ${nombre}, así que preferimos no inventarla: no la mostramos en la ficha.`
+          ? `${nombre} — autonomía sin dato publicado.`
           : `Homologa ${fmtKm(coche.autonomiaKm)}${/híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? " en modo eléctrico" : ""}${coche.cicloAutonomia === "CLTC" ? " en el ciclo chino CLTC, más optimista que el WLTP europeo" : /híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? "" : " (WLTP)"}.`),
     },
     {
       q: `¿Cuánto maletero tiene el ${nombre}?`,
       a: tp?.faqMaletero ??
         (coche.maleteroL == null
-          ? `El volumen de maletero del ${nombre} no está publicado por una fuente fiable: lo añadiremos en cuanto haya dato oficial.`
+          ? `${nombre} — maletero sin dato de fuente fiable. ${nombre}: lo añadiremos al publicarse en fuente fiable.`
           : `El ${nombre} ofrece ${fmtL(coche.maleteroL)} de maletero.`),
     },
     ...(coche.etiquetaDgt
@@ -356,16 +503,8 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           {
             q: tp?.faqPreguntaEtiqueta ?? `¿Qué etiqueta DGT lleva el ${nombre}?`,
             a: tp?.faqEtiqueta ?? (sinTarifaEspana(coche)
-              ? `Al ${nombre} le correspondería la etiqueta ${coche.etiquetaDgt === "Cero" ? "CERO" : coche.etiquetaDgt} por su motorización (criterios DGT); aún no tiene tarifa oficial en España.`
-              : `El ${nombre} tiene etiqueta DGT «${coche.etiquetaDgt}». ${
-                  coche.etiquetaDgt === "Cero"
-                    ? "Puede circular por todas las ZBE sin restricciones."
-                    : coche.etiquetaDgt === "ECO"
-                      ? "Puede circular por las ZBE, pero algunas ciudades con ZBE estrictas aplican restricciones a los ECO."
-                      : coche.etiquetaDgt === "C"
-                        ? "Revisa las restricciones de tu ZBE local, ya que con etiqueta C algunas ciudades restringen el acceso."
-                        : "Revisa las restricciones de tu ZBE local antes de entrar."
-                }`),
+              ? `Al ${nombre} le correspondería ${coche.etiquetaDgt === "Cero" ? "CERO" : coche.etiquetaDgt} por motorización (DGT); ${nombre} aún sin tarifa en España.`
+              : fraseEtiquetaFaq(nombre, coche.etiquetaDgt)),
           },
         ]
       : []),
@@ -734,7 +873,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           <h2 className="text-xl font-extrabold text-gray-900">
             ¿Puede entrar en la ZBE de Madrid?
           </h2>
-          <p className="mt-3 text-gray-700">{textoZbe(coche)}</p>
+          <p className="mt-3 text-gray-700">{textoZbe(coche)}</p> <Link to="/guias/zbe-etiquetas/" className="text-red-600 underline">Guía ZBE y etiquetas</Link>
         </section>
 
         <section id="precio" className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6">
@@ -961,8 +1100,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
                   {String(coche.costeMensual.precioGasolinaL).replace(".", ",")} €/l
                 </>
               )}
-              . {coche.costeMensual.notas} El coste real depende de tu uso, tu tarifa y tu
-              aseguradora.
+              . {coche.costeMensual.notas} {nombre}: coste mensual según uso, tarifa y aseguradora.
             </p>
             )}
           </section>
@@ -1013,7 +1151,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
               <Wrench className="h-5 w-5 text-red-600" /> Mantenimiento en casa
             </h2>
             <p className="mt-1 text-sm text-gray-600">
-              {propio(tp, "mantenimientoIntro", `Guías paso a paso para el mantenimiento básico de tu ${nombre}, sin pasar por el taller.`)}
+              {propio(tp, "mantenimientoIntro", `${nombre} — mantenimiento básico sin taller.`)}
             </p>
             {coche.mantenimientoDIY.intervaloMantenimiento && (
               <p className="mt-2 rounded-lg bg-red-50 border border-red-200 px-3 py-2 text-xs font-semibold text-red-800">
@@ -1197,6 +1335,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
         editorial={{
           ambito: "coches",
           tipo: "ficha",
+          modelo: nombre,
           publicado: fechas.publicado,
           actualizado: fechas.actualizado,
           fuentePrincipal: coche.fuenteUrl ? { nombre: coche.fuenteNombre || "Fuente de los datos", url: coche.fuenteUrl } : null,

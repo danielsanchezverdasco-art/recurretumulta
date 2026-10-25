@@ -118,18 +118,18 @@ export const COCHES_DONGFENG: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precio"],
     pros: [
-      "Sistema híbrido Mach Power de 241 CV con 540 Nm de par",
-      "Consumo contenido: 5,8 l/100 km en ciclo WLTC",
-      "Interior amplio con maletero de 500 litros",
-      "Equipamiento tecnológico de nivel superior (cámara 540°)",
-      "Garantía de 5 años/150.000 km y 8 años para la batería",
+      "El sistema híbrido Mach Power entrega 241 CV y 540 Nm, cifras de sobra para un SUV familiar",
+      "El consumo comedido, de 5,8 l/100 km en ciclo WLTC, es su mejor argumento frente a los gasolina puros",
+      "El interior amplio, con un maletero de 500 litros, resuelve el uso familiar sin estrecheces",
+      "El equipamiento tecnológico incluye una cámara de 540 grados, útil para aparcar un coche de este tamaño",
+      "Cinco años o 150.000 kilómetros de cobertura, más ocho años para la batería, dan tranquilidad a largo plazo"
     ],
     contras: [
-      "Sin versión enchufable: no accede a la etiqueta Cero",
-      "Marca aún desconocida para el gran público",
-      "No se vende en España (solo mercados de exportación)",
-      "Red de servicio fuera de China muy limitada",
-      "Tamaño considerable: 4,72 m complican aparcar en ciudad",
+      "Al no ser enchufable, no accede a la etiqueta Cero y se queda en ECO",
+      "La marca sigue siendo desconocida para el gran público fuera de China",
+      "No se vende en España, sino solo en mercados de exportación seleccionados",
+      "La red de servicio fuera de China es muy limitada, algo a valorar antes de importar uno",
+      "Con 4,72 metros, aparcar en ciudad complica más de lo que parece en las fotos"
     ],
     imagen: "/media/dongfeng-huge-hev-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dongfeng-huge-hev-2025-precio-ficha-tecnica-oficial.webp",

@@ -753,17 +753,7 @@ function BlogPostPage() {
               <p className="text-sm font-black text-gray-900">Fuentes y verificación</p>
             </div>
             <p className="text-xs text-gray-600 leading-relaxed">
-              Este artículo se ha redactado y revisado por Daniel, fundador y responsable de contenidos de RecurreTuMulta.online
-              contrastando la normativa aplicable, principalmente el{" "}
-              <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722" target="_blank" rel="noopener noreferrer" className="text-red-600 underline">
-                Real Decreto Legislativo 6/2015 (Ley de Tráfico y Seguridad Vial)
-              </a>{" "}
-              y la información pública de la{" "}
-              <a href="https://www.dgt.es" target="_blank" rel="noopener noreferrer" className="text-red-600 underline">
-                Dirección General de Tráfico (DGT)
-              </a>
-              . La IA de análisis identifica posibles defectos e indicios relevantes en tu documento, pero no
-              sustituye el asesoramiento de un profesional. Consulta más sobre nuestro proceso editorial en{" "}
+              Fuentes de «{post.title}» ({post.date}): las citadas al final del artículo.{" "}
               <Link to="/sobre-nosotros/" className="text-red-600 underline">¿Quién está detrás?</Link> y en nuestra{" "}
               <Link to="/politica-editorial/" className="text-red-600 underline">política editorial</Link>.
             </p>

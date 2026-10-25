@@ -1193,8 +1193,20 @@ export const COCHES_HAVAL: CocheComparador[] = [
     bateriaKwh: 19.27,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: ["Entrega 375 Nm y suma 252 CV en esta variante de acceso, brío de sobra para incorporaciones y adelantamientos sin necesidad de saltar al hermano mayor", "Su pack de 19,27 kWh le permite firmar 110 km sin quemar gasolina, margen pensado para cubrir desplazamientos urbanos entre semana recargando en casa", "A batería llena declara un gasto irrisorio de 1,39 l/100 km, argumento central con el que Haval quiso plantar cara al BYD Song Pro DM-i", "En su mercado de origen arranca en 18.174 euros al cambio, posicionamiento agresivo para un cinco plazas enchufable con etiqueta Cero en la ficha", "Mide 4.600 mm de largo y se queda en tracción delantera: es el Xiaolong sensato y maniobrable, frente al Max, más grande y aparatoso"],
-    contras: ["Great Wall nunca lo homologó para Europa, así que hacerse con uno aquí exigiría importación particular y todo el papeleo por cuenta del comprador", "Esos 110 km llegan bajo el ciclo NEDC chino, mucho más benévolo que el WLTP europeo, por lo que la autonomía diaria real caerá bastante", "Ni siquiera se aclara qué potencia admite en carga rápida, un vacío incómodo si pretendías apoyarte en cargadores públicos durante viajes largos", "La marca no publicó ni volumen de maletero ni crono de aceleración, dos ausencias que impiden compararlo en serio frente a cualquier rival europeo", "Pesa 1.810 kg y, fuera de China, la asistencia queda en terreno incierto: sin red española, una avería híbrida puede suponer esperas largas por recambios"],
+    pros: [
+      "En esta variante de acceso entrega 375 Nm y suma 252 CV, empuje de sobra para incorporaciones y adelantamientos sin tener que saltar al hermano mayor",
+      "Su batería de 19,27 kWh permite firmar 110 km sin quemar gasolina, margen pensado para cubrir desplazamientos urbanos entre semana recargando en casa",
+      "Con la batería llena declara un gasto de 1,39 l/100 km, argumento central con el que Haval quiso plantar cara al BYD Song Pro DM-i",
+      "En su mercado de origen arranca en 18.174 euros al cambio, posicionamiento agresivo para un cinco plazas enchufable con etiqueta Cero en la ficha",
+      "Mide 4.600 mm de largo y se queda en tracción delantera: es el Xiaolong sensato y maniobrable, frente al Max, más grande y aparatoso",
+    ],
+    contras: [
+      "Great Wall nunca lo homologó para Europa, así que hacerse con uno aquí exigiría importación particular y todo el papeleo por cuenta del comprador",
+      "Esos 110 km se miden con el ciclo NEDC chino, menos exigente que el WLTP que se usa en Europa, así que en uso diario la autonomía será menor",
+      "Ni siquiera se aclara qué potencia admite en carga rápida, un vacío incómodo si pretendías apoyarte en cargadores públicos durante viajes largos",
+      "La marca no publicó ni volumen de maletero ni crono de aceleración, dos ausencias que impiden compararlo en serio frente a cualquier rival europeo",
+      "Pesa 1.810 kg y, fuera de China, la asistencia queda en terreno incierto: sin red española, una avería híbrida puede suponer esperas largas por recambios",
+    ],
     largoMm: 4600,
     anchoMm: 1877,
     altoMm: 1675,
@@ -1217,7 +1229,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 149,
       notas:
-        "Estimación con 15.000 km/año, uso mixto eléctrico/gasolina, recarga doméstica a 0,18 €/kWh y seguro ampliado.",
+        "Cálculo con 15.000 km al año, uso mixto eléctrico y gasolina, recarga doméstica a 0,18 €/kWh y seguro ampliado.",
       estimado: true,
     },
     galeria: [

@@ -3796,9 +3796,9 @@ El Max añade batería extraíble y más rango; el Pro ya estaba en el comparado
   },
   {
     slug: "turboant-r9",
-    title: "Turboant R9: 800 W todoterreno por 490 €",
+    title: "Turboant R9: patinete campero con doble suspensión",
     excerpt:
-      "El Turboant R9 es el aventurero de la marca: 500 W (800 W de pico), 600 Wh, ruedas todoterreno y doble suspensión por ~490 €.",
+      "Unos 490 €: 500 W traseros (800 W de pico), 600 Wh, ruedas todoterreno de 10 pulgadas y doble suspensión; para España debe limitarse a 25 km/h.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -3817,9 +3817,9 @@ El Max añade batería extraíble y más rango; el Pro ya estaba en el comparado
 
 **¿Buscas solo los datos?** <a href=/patinetes/turboant-r9/>Ver ficha técnica del Turboant R9</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **Turboant R9** es el todoterreno de la marca americana: **500 W traseros** (800 W de pico), batería de **48 V y 12,5 Ah (600 Wh)**, **56 km** declarados, **ruedas todoterreno de 10 pulgadas** y **doble suspensión**, por **~490 €** (<a href=https://turboant.com/products/r9-all-terrain-electric-scooter>TurboAnt oficial</a>).
+Si tus rutas salen del asfalto, este es el Turboant que mira al campo. La firma estadounidense lo plantea como su modelo campero: suspensión en los dos ejes, gomas de 10 pulgadas para tierra, batería de 48 voltios y 12,5 amperios-hora (600 vatios-hora) y motor trasero de 500 vatios que llega a 800 de pico. La cifra de catálogo es 56 kilómetros, y el precio ronda los 490 euros (<a href=https://turboant.com/products/r9-all-terrain-electric-scooter>web oficial de TurboAnt</a>).
 
-## Ficha técnica resumida
+## Datos en una tabla
 
 | Dato | Valor |
 |---|---|
@@ -3838,25 +3838,25 @@ El **Turboant R9** es el todoterreno de la marca americana: **500 W traseros** (
 
 ¿Quieres el detalle completo? <a href=/patinetes/turboant-r9/>Ficha técnica completa del Turboant R9</a> con todos los datos verificados.
 
-## Precio del Turboant R9 en España
+## Coste e importación
 
-Unos **490 €** al cambio (529,98 $). Sin distribución oficial en España: importación directa.
+Al cambio sale por unos 490 euros, que corresponden a 529,98 dólares. Como en España no hay red oficial, llega por importación directa y hay que contar con ese trámite.
 
 <img src=/media/patinetes/turboant-r9-2.webp alt=Detalle de la doble suspensión del Turboant R9>
 
-## Autonomía real vs declarada
+## Alcance en la práctica
 
-Declara **56 km** (35 millas); con 600 Wh y 800 W de pico, en uso mixto espera **35-40 km**. En modo eco y ritmo tranquilo se acerca a lo declarado.
+El catálogo promete 56 kilómetros, equivalentes a 35 millas. Con 600 vatios-hora y picos de 800 vatios, un uso mezclado deja la cifra real en 35-40 kilómetros; solo con modo eco y marcha suave se roza la cifra de catálogo.
 
-## Frenos y neumáticos
+## Frenada y rodadura
 
-**Tambor + freno electrónico** y **neumáticos todoterreno de 10 pulgadas** con **doble suspensión**: el conjunto off-road más serio de Turboant. El tambor tiene menos mordiente que un disco, pero exige poco mantenimiento.
+Frena con tambor más sistema electrónico, rueda sobre gomas camperas de 10 pulgadas y se apoya en suspensión en ambos ejes: la propuesta más seria fuera del asfalto dentro de Turboant. El tambor muerde menos que un disco, a cambio de pedir poco taller.
 
-## Certificado DGT y normativa VMP
+## Papeles en España
 
-Sin certificado DGT verificado. Sus **~45 km/h** lo dejan fuera del VMP legal: **hay que limitarlo a 25 km/h** para España, y prohibido en **aceras**.
+No consta certificado DGT comprobado. Al rozar los 45 km/h queda fuera de lo que la norma permite para un VMP, así que en España debe caparse a 25 km/h y nunca circular por aceras.
 
-## Puntos fuertes y débiles
+## Lo mejor y lo peor
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -3868,25 +3868,31 @@ Sin certificado DGT verificado. Sus **~45 km/h** lo dejan fuera del VMP legal: *
 
 <img src=/media/patinetes/turboant-r9-3.webp alt=Turboant R9 en un camino de tierra>
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuánto cuesta el Turboant R9?
-Unos **490 €** al cambio.
+### ¿Sirve para pistas de tierra?
 
-### ¿Vale para caminos?
-Sí: es su hábitat, con **ruedas todoterreno** y doble suspensión.
+Justo ahí rinde mejor: gomas camperas y suspensión en los dos ejes lo hacen para tierra.
 
-### ¿Qué autonomía real tiene?
-Unos **38 km** en uso mixto.
+### ¿Resulta pesado de llevar?
 
-### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
+Pesa 25 kilos, así que subirlo al bus o al tren resulta incómodo.
 
-### ¿Pesa mucho?
-**25 kg**: no es para el transporte público.
+### ¿Qué alcance real da en uso normal?
 
-### ¿Merece la pena frente al X7 Max?
-El R9 es para tierra; el X7 Max para ciudad con batería extraíble. Terrenos distintos.
+En uso mezclado, cerca de 38 kilómetros.
+
+### ¿Qué precio tiene en euros?
+
+Al cambio, alrededor de 490 euros.
+
+### ¿Se puede usar legalmente en España?
+
+Sí, siempre que se cape a 25 km/h.
+
+### ¿R9 o X7 Max, cuál elegir?
+
+El X7 Max se mueve mejor en ciudad y permite extraer su batería; el R9, en cambio, está pensado para tierra.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 

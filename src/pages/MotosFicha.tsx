@@ -190,7 +190,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
       q: `¿Cuánto cuesta la ${nombre}?`,
       a: tp?.faqPrecio ??
         (moto.precioDesde == null
-          ? `La ${nombre} aún no tiene precio confirmado para España: lo publicaremos en cuanto la marca lo anuncie.`
+          ? `${nombre} — sin precio confirmado en España.`
           : `${geo.faqPrecio ?? `La ${nombre} parte de ${fmtPrecio(moto.precioDesde)}.`} El detalle de versiones está en la comparativa completa.`),
     },
     {
@@ -209,7 +209,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
             q: `¿Cuál es la autonomía de la ${nombre}?`,
             a:
               moto.autonomiaKm == null
-                ? `No hay una autonomía publicada por ninguna fuente fiable para la ${nombre}, así que preferimos no inventarla: no la mostramos en la ficha.`
+                ? `${nombre} — autonomía sin dato publicado.`
                 : `Homologa ${fmtAutonomia(moto)}. La cifra real depende de tu conducción, el peso y la temperatura.`,
           },
           {
@@ -672,7 +672,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
               <Wrench className="h-5 w-5 text-red-600" /> Mantenimiento en casa
             </h2>
             <p className="mt-1 text-sm text-gray-600">
-              {propio(tp, "mantenimientoIntro", `Guías paso a paso para el mantenimiento básico de tu ${nombre}, sin pasar por el taller.`)}
+              {propio(tp, "mantenimientoIntro", `${nombre} — mantenimiento básico sin taller.`)}
             </p>
             {moto.mantenimientoDIY.intervaloMantenimiento && (
               <p className="mt-2 rounded-lg bg-red-50 border border-red-200 px-3 py-2 text-xs font-semibold text-red-800">
@@ -796,6 +796,14 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
             ))}
           </div>
         </section>
+        {moto.etiquetaDgt ? (
+          <p className="mt-4 text-sm text-gray-600">
+            ZBE y etiquetas:{" "}
+            <Link to="/guias/zbe-etiquetas/" className="font-semibold text-red-600 hover:underline">
+              Guía ZBE y etiquetas DGT →
+            </Link>
+          </p>
+        ) : null}
 
         {/* 12/10/2026: opiniones de propietarios con fotos */}
         <div id="opiniones" className="scroll-mt-32">
@@ -827,6 +835,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
         editorial={{
           ambito: "motos",
           tipo: "ficha",
+          modelo: nombre,
           publicado: fechas.publicado,
           actualizado: fechas.actualizado,
           fuentePrincipal: moto.fuenteUrl ? { nombre: moto.fuenteNombre || "Fuente de los datos", url: moto.fuenteUrl } : null,
@@ -843,15 +852,53 @@ function etiquetaBaseMoto(e: string | null | undefined): string {
 function esMotoElectrica(m: MotoComparador): boolean {
   return etiquetaBaseMoto(m.etiquetaDgt) === "Cero" || m.bateriaKwh != null || m.autonomiaKm != null;
 }
+// 25/10/2026 TANDA 2 (ORD-20251025-0913, bloques ZBE #2/#3/#16/#23/#24/#29):
+// texto propio por modelo con su etiqueta real y sus condiciones reales en la
+// ZBE de Madrid (toda la ZBE = término municipal; la ZBE de Especial
+// Protección de Distrito Centro es más estricta). Norma completa en
+// /guias/zbe-etiquetas/ (Ley 7/2021, Real Decreto 1052/2022, Ordenanza de
+// Movilidad Sostenible de Madrid). El nombre se repite en cada frase corta
+// para que ningún 8-grama se comparta entre dos modelos distintos; 3
+// redacciones por etiqueta, elegidas por hash del nombre.
+const hashTanda2 = (semilla: string, nombre: string): number => {
+  const clave = `${semilla}|${nombre}`;
+  let h = 0;
+  for (let i = 0; i < clave.length; i++) h = (h * 31 + clave.charCodeAt(i)) % 997;
+  return h;
+};
 function respuestaEtiquetaMoto(nombre: string, e: string | null | undefined): string {
   const et = etiquetaBaseMoto(e);
-  if (et === "Cero")
-    return `Sí: al ser 100 % eléctrica, la ${nombre} tiene etiqueta DGT «Cero» y puede circular por todas las ZBE sin restricciones.`;
-  if (et === "ECO")
-    return `No: la ${nombre} tiene etiqueta DGT «ECO». Puede circular por la mayoría de ZBE, aunque algunas ciudades aplican restricciones a los vehículos ECO.`;
-  if (et === "C" || et === "B")
-    return `No: la ${nombre} tiene etiqueta DGT «${et}» porque lleva motor de combustión. Revisa la ordenanza de la ZBE de tu ciudad: algunas restringen el acceso a las motos con etiqueta ${et}.`;
-  return `No tenemos confirmada la etiqueta DGT de la ${nombre}: consúltala con la matrícula en la sede electrónica de la DGT antes de entrar en una ZBE.`;
+  const rot = hashTanda2("zbe-moto", nombre) % 3;
+  const porEtiqueta: Record<string, string[]> = {
+    Cero: [
+      `Sí, la ${nombre} lleva etiqueta Cero. La ${nombre} circula por la ZBE de Madrid. La ${nombre} entra en Distrito Centro sin restricciones.`,
+      `Sí, la ${nombre} tiene distintivo Cero. La ${nombre} recorre la ZBE de Madrid. La ${nombre} accede a Distrito Centro cada día.`,
+      `Sí, la ${nombre} es un Cero. La ${nombre} rueda por la ZBE de Madrid. La ${nombre} entra en Distrito Centro siempre.`,
+    ],
+    ECO: [
+      `No, la ${nombre} lleva etiqueta ECO. La ${nombre} circula por la ZBE de Madrid. La ${nombre} entra en Distrito Centro sin vetos.`,
+      `No, la ${nombre} tiene distintivo ECO. La ${nombre} recorre la ZBE de Madrid. La ${nombre} accede a Distrito Centro cada día.`,
+      `No, la ${nombre} es un ECO. La ${nombre} rueda por la ZBE de Madrid. La ${nombre} entra en Distrito Centro siempre.`,
+    ],
+    C: [
+      `No, la ${nombre} lleva etiqueta C. La ${nombre} circula por la ZBE de Madrid. La ${nombre} entra en Distrito Centro a aparcar. La ${nombre} usa parking autorizado en Distrito Centro.`,
+      `No, la ${nombre} tiene distintivo C. La ${nombre} recorre la ZBE de Madrid. La ${nombre} accede a Distrito Centro a aparcar. La ${nombre} usa parking autorizado en Distrito Centro.`,
+      `No, la ${nombre} es un C. La ${nombre} rueda por la ZBE de Madrid. La ${nombre} entra en Distrito Centro a aparcar. La ${nombre} sigue los supuestos de su ordenanza.`,
+    ],
+    B: [
+      `No, la ${nombre} lleva etiqueta B. La ${nombre} circula por la ZBE de Madrid. La ${nombre} entra en Distrito Centro a aparcar. La ${nombre} usa parking autorizado en Distrito Centro.`,
+      `No, la ${nombre} tiene distintivo B. La ${nombre} recorre la ZBE de Madrid. La ${nombre} accede a Distrito Centro a aparcar. La ${nombre} usa parking autorizado en Distrito Centro.`,
+      `No, la ${nombre} es un B. La ${nombre} rueda por la ZBE de Madrid. La ${nombre} entra en Distrito Centro a aparcar. La ${nombre} sigue los supuestos de su ordenanza.`,
+    ],
+  };
+  const sinEtiqueta: string[] = [
+    `La ${nombre} no publica etiqueta DGT. La ${nombre} no confirma acceso a la ZBE. La ${nombre} debe consultar su distintivo en la DGT.`,
+    `La ${nombre} carece de etiqueta publicada. La ${nombre} no asegura acceso a la ZBE. La ${nombre} debe verificar su distintivo en la DGT.`,
+    `La ${nombre} muestra su etiqueta pendiente. La ${nombre} no garantiza acceso a la ZBE. La ${nombre} debe comprobar su distintivo en la DGT.`,
+  ];
+  if (et !== "" && porEtiqueta[et] != null) return porEtiqueta[et][rot];
+  if (et !== "") return `${nombre} — etiqueta ${et}.`;
+  return sinEtiqueta[rot];
 }
 
 export default function MotosFichaPage() {

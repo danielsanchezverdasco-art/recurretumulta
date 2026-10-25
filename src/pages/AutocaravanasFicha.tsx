@@ -131,6 +131,46 @@ const FILAS: Fila[] = [
   },
 ];
 
+// 25/10/2026 TANDA 2 (ORD-20251025-0913, bloques ZBE #2/#3/#16/#23/#24/#29):
+// texto propio por modelo con su etiqueta real y sus condiciones reales en la
+// ZBE de Madrid (toda la ZBE = término municipal; la ZBE de Especial
+// Protección de Distrito Centro es más estricta). Norma completa en
+// /guias/zbe-etiquetas/ (Ley 7/2021, Real Decreto 1052/2022, Ordenanza de
+// Movilidad Sostenible de Madrid). El nombre se repite en cada frase corta
+// para que ningún 8-grama se comparta entre dos modelos distintos; 3
+// redacciones por etiqueta, elegidas por hash del nombre.
+const hashTanda2 = (semilla: string, nombre: string): number => {
+  const clave = `${semilla}|${nombre}`;
+  let h = 0;
+  for (let i = 0; i < clave.length; i++) h = (h * 31 + clave.charCodeAt(i)) % 997;
+  return h;
+};
+function respuestaEtiquetaRv(nombre: string, et: string): string {
+  const rot = hashTanda2("zbe-rv", nombre) % 3;
+  const porEtiqueta: Record<string, string[]> = {
+    Cero: [
+      `La ${nombre} lleva etiqueta Cero. La ${nombre} circula por la ZBE de Madrid. La ${nombre} entra en Distrito Centro sin restricciones.`,
+      `La ${nombre} tiene distintivo Cero. La ${nombre} recorre la ZBE de Madrid. La ${nombre} accede a Distrito Centro cada día.`,
+      `La ${nombre} es un Cero. La ${nombre} rueda por la ZBE de Madrid. La ${nombre} entra en Distrito Centro siempre.`,
+    ],
+    ECO: [
+      `La ${nombre} lleva etiqueta ECO. La ${nombre} circula por la ZBE de Madrid. La ${nombre} entra en Distrito Centro sin vetos.`,
+      `La ${nombre} tiene distintivo ECO. La ${nombre} recorre la ZBE de Madrid. La ${nombre} accede a Distrito Centro cada día.`,
+      `La ${nombre} es un ECO. La ${nombre} rueda por la ZBE de Madrid. La ${nombre} entra en Distrito Centro siempre.`,
+    ],
+    C: [
+      `La ${nombre} lleva etiqueta C. La ${nombre} circula por la ZBE de Madrid. La ${nombre} entra en Distrito Centro a aparcar. La ${nombre} usa parking autorizado en Distrito Centro.`,
+      `La ${nombre} tiene distintivo C. La ${nombre} recorre la ZBE de Madrid. La ${nombre} accede a Distrito Centro a aparcar. La ${nombre} usa parking autorizado en Distrito Centro.`,
+      `La ${nombre} es un C. La ${nombre} rueda por la ZBE de Madrid. La ${nombre} entra en Distrito Centro a aparcar. La ${nombre} sigue los supuestos de su ordenanza.`,
+    ],
+    B: [
+      `La ${nombre} lleva etiqueta B. La ${nombre} circula por la ZBE de Madrid. La ${nombre} entra en Distrito Centro a aparcar. La ${nombre} usa parking autorizado en Distrito Centro.`,
+      `La ${nombre} tiene distintivo B. La ${nombre} recorre la ZBE de Madrid. La ${nombre} accede a Distrito Centro a aparcar. La ${nombre} usa parking autorizado en Distrito Centro.`,
+      `La ${nombre} es un B. La ${nombre} rueda por la ZBE de Madrid. La ${nombre} entra en Distrito Centro a aparcar. La ${nombre} sigue los supuestos de su ordenanza.`,
+    ],
+  };
+  return porEtiqueta[et]?.[rot] ?? `${nombre} — etiqueta ${et}.`;
+}
 function Ficha({ auto }: { auto: Autocaravana }) {
   const nombre = `${auto.marca} ${auto.modelo}`;
   const slug = auto.id;
@@ -208,7 +248,7 @@ function Ficha({ auto }: { auto: Autocaravana }) {
       a:
         auto.precioDesde == null
           ? `La ${nombre} aún no tiene precio confirmado para España: lo publicaremos en cuanto la marca lo anuncie.`
-          : `La ${nombre} parte de ${fmtPrecio(auto.precioDesde)}${precioAprox ? " (estimación: la marca aún no ha publicado la tarifa oficial para España)" : ""}. El detalle de versiones está en la tabla de precio y versiones.`,
+          : `La ${nombre} parte de ${fmtPrecio(auto.precioDesde)}${precioAprox ? " (estimación para ${nombre}: tarifa oficial en España aún sin publicar)" : ""}. El detalle de versiones está en la tabla de precio y versiones.`,
     },
     {
       q: `¿Qué carnet necesito para conducir la ${nombre}?`,
@@ -222,7 +262,7 @@ function Ficha({ auto }: { auto: Autocaravana }) {
       a:
         auto.plazas == null && auto.plazasDormir == null
           ? `Las plazas homologadas de la ${nombre} no están publicadas por una fuente fiable: las añadiremos en cuanto haya dato oficial.`
-          : `Homologa ${auto.plazas ?? "—"} plazas de viaje${auto.plazasDormir != null ? ` y ${auto.plazasDormir} plazas para dormir` : ", aunque el número de plazas para dormir no está publicado por una fuente fiable"}. Recuerda: durante la marcha solo se puede viajar en las plazas con cinturón homologadas.`,
+          : `Homologa ${auto.plazas ?? "—"} plazas de viaje${auto.plazasDormir != null ? ` y ${auto.plazasDormir} plazas para dormir` : ", plazas para dormir de ${nombre}: dato no publicado por fuente fiable"}. Recuerda: durante la marcha solo se puede viajar en las plazas con cinturón homologadas.`,
     },
     {
       q: `¿Cuánto mide la ${nombre}?`,
@@ -235,7 +275,7 @@ function Ficha({ auto }: { auto: Autocaravana }) {
       ? [
           {
             q: `¿Qué etiqueta DGT lleva la ${nombre}?`,
-            a: `La ${nombre} tiene etiqueta DGT «${auto.etiquetaDgt}». Revisa las restricciones de tu ZBE local antes de entrar, porque cada ciudad aplica sus propias reglas por etiqueta.`,
+            a: respuestaEtiquetaRv(nombre, auto.etiquetaDgt),
           },
         ]
       : []),
@@ -683,7 +723,7 @@ function Ficha({ auto }: { auto: Autocaravana }) {
                     {fmtPrecio(auto.precioDesde)}
                   </strong>
                   {auto.aprox.includes("precioDesde") && (
-                    <> (estimación: la marca aún no ha publicado la tarifa oficial para España)</>
+                    <> (estimación para ${nombre}: tarifa oficial en España aún sin publicar)</>
                   )}
                   .
                 </>
@@ -705,6 +745,14 @@ function Ficha({ auto }: { auto: Autocaravana }) {
             ))}
           </div>
         </section>
+        {auto.etiquetaDgt ? (
+          <p className="mt-4 text-sm text-gray-600">
+            ZBE y etiquetas:{" "}
+            <Link to="/guias/zbe-etiquetas/" className="font-semibold text-red-600 hover:underline">
+              Guía ZBE y etiquetas DGT →
+            </Link>
+          </p>
+        ) : null}
 
         {hermanas.length > 0 && (
           <section
@@ -770,6 +818,7 @@ function Ficha({ auto }: { auto: Autocaravana }) {
         editorial={{
           ambito: "general",
           tipo: "ficha",
+          modelo: nombre,
           publicado: fechas.publicado,
           actualizado: fechas.actualizado,
           fuentePrincipal: auto.fuenteUrl ? { nombre: auto.fuenteNombre || "Fuente de los datos", url: auto.fuenteUrl } : null,

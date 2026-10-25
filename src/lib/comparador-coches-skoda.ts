@@ -519,18 +519,18 @@ export const COCHES_SKODA: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "640 L de maletero (1.700 L con asientos abatidos)",
-      "4,6 l/100 km: de los familiares más eficientes",
-      "150 CV y 360 Nm con cambio DSG de 7 velocidades",
-      "Autonomía real de más de 900 km por depósito",
-      "Desde 39.300 € (tarifa 01/2026)"
+      "El maletero de 640 litros, ampliable a 1.700 con los asientos abatidos, es su argumento definitivo",
+      "El consumo de 4,6 l/100 km lo sitúa entre los familiares más eficientes del mercado",
+      "Los 150 CV y 360 Nm, con el cambio DSG de 7 marchas, dan empuje sin esfuerzo en cualquier situación",
+      "La autonomía real de más de 900 km por depósito convierte los viajes largos en un trámite",
+      "Desde 39.300 € según la tarifa de enero de 2026, con una relación entre precio y espacio difícil de batir"
     ],
     contras: [
-      "Etiqueta C: el diésel tiene los días contados en las ZBE",
-      "Prestaciones correctas pero sin brillo (8,6 s)",
-      "Interior funcional, poco emocional",
-      "El Octavia Combi RS cuesta unos 8.000 € más",
-      "120 g/km de CO₂"
+      "La etiqueta C recuerda que el futuro del diésel en las zonas de bajas emisiones es incierto",
+      "Las prestaciones, correctas pero sin brillo, con 8,6 segundos de 0 a 100, no emocionan",
+      "El interior es funcional y poco emocional: todo está donde debe, pero nada sorprende",
+      "El Octavia Combi RS cuesta unos 8.000 € más, una tentación que conviene valorar con calma",
+      "Los 120 g/km de CO2 son la factura ambiental de un diésel eficiente pero diésel al fin"
     ],
     largoMm: 4698,
     anchoMm: 1829,
@@ -1602,18 +1602,18 @@ export const COCHES_SKODA: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "29.600 €: el SUV pequeño más sensato",
-      "116 CV y 200 Nm con 1.233 kg",
-      "5,4 l/100 km",
-      "400 L de maletero",
-      "9,7 s de 0-100: ágil en ciudad",
+      "Por 29.600 € es el SUV pequeño más sensato de su segmento, sin pagar por imagen ni por potencia innecesaria",
+      "Los 116 CV y 200 Nm, con solo 1.233 kg, mueven el coche con soltura en ciudad y en carretera",
+      "El consumo de 5,4 l/100 km mantiene el gasto en combustible en niveles de utilitario",
+      "El maletero de 400 litros resuelve la compra semanal y el equipaje de fin de semana",
+      "Los 9,7 segundos hasta 100 km/h lo hacen ágil en ciudad, que es donde vivirá la mayor parte del tiempo"
     ],
     contras: [
-      "Etiqueta C",
-      "El 1.5 TSI de 150 CV es mucho más divertido",
-      "Interior con plásticos duros",
-      "196 km/h: sin pretensiones viajeras",
-      "La competencia aprieta en equipamiento",
+      "La etiqueta C anticipa limitaciones futuras en las zonas de bajas emisiones",
+      "Probar el 1.5 TSI de 150 CV merece la pena: es bastante más divertido y cambia el carácter del coche",
+      "El interior usa plásticos duros que recuerdan que este es el escalón de acceso de Skoda",
+      "Los 196 km/h de punta no invitan a grandes viajes por autopista, aunque tampoco los impiden",
+      "La competencia aprieta en equipamiento, así que conviene comparar la dotación de serie antes de firmar"
     ],
     largoMm: 4241,
     anchoMm: 1793,

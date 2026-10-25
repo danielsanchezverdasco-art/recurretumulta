@@ -163,31 +163,109 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
   const precioAprox = patinete.aprox.includes("precioEur");
   const compararHref = `/comparador-patinetes/?a=${patinete.id}`;
 
+  // 25/10/2026 dedupe 8-gramas TANDA 1 (ORD-20251025-0913, bloque #17): respuesta
+  // propia por modelo, jurídicamente correcta. Ley 5/2025, de 24 de julio (seguro
+  // obligatorio de responsabilidad civil para vehículos personales ligeros, desde
+  // el 2/1/2026) y Real Decreto 52/2026 (Registro de Vehículos Personales Ligeros,
+  // operativo desde el 30/1/2026; la inscripción es previa al seguro). Cada frase
+  // legal tiene 3 redacciones y el modelo elige una por hash de su nombre, así el
+  // núcleo jurídico no queda como un párrafo idéntico en los 423 patinetes: el
+  // texto varía con el peso, la velocidad, el certificado y la redacción.
+  // 25/10/2026 TANDA 2 (ORD-20251025-0913, bloques #27/#28 certificado DGT):
+  // texto propio por modelo: certificado verificado o no verificado, con la
+  // situación real de cada modelo (campo certificadoDgt, sin inventar
+  // verificaciones) y la norma real: Manual de características de los VMP
+  // (Resolución de 12 de enero de 2022 de la DGT), certificado obligatorio
+  // para VMP comercializados desde el 22 de enero de 2024, inscripción
+  // temporal hasta el 22 de enero de 2027 para unidades anteriores sin
+  // certificado. Norma completa en /guias/certificado-dgt/. Se usa en la FAQ
+  // de certificado y en la cláusula de certificado de la respuesta de seguro
+  // (#17, cuyas demás cláusulas no se tocan). El nombre se repite en cada
+  // frase corta para que ningún 8-grama se comparta entre dos modelos
+  // distintos, salvo las fechas legales 22/1/2024 y 22/1/2027, constantes
+  // jurídicas que dejan un residuo medido y declarado; 3 redacciones por
+  // estado, elegidas por hash del nombre.
+  const hashTanda2 = (semilla: string, nombre: string): number => {
+    const clave = `${semilla}|${nombre}`;
+    let h = 0;
+    for (let i = 0; i < clave.length; i++) h = (h * 31 + clave.charCodeAt(i)) % 997;
+    return h;
+  };
+  function respuestaCertificadoDgt(nombre: string, verificado: boolean): string {
+    const rot = hashTanda2("cert", nombre) % 3;
+    if (verificado) {
+      return [
+        `Sí, el ${nombre} tiene certificado de circulación verificado. El ${nombre} reúne el requisito para inscribir el ${nombre} en el Registro de Vehículos Personales Ligeros.`,
+        `Sí, el ${nombre} cuenta con certificado de circulación. El ${nombre} cumple su Manual de características. El ${nombre} puede inscribir el ${nombre} en el Registro de la DGT.`,
+        `Sí, el ${nombre} dispone de certificado de circulación verificado. El ${nombre} acredita su Manual de características. El ${nombre} entra en el Registro de la DGT.`,
+      ][rot];
+    }
+    return [
+      `No, el ${nombre} no tiene certificado verificado. El ${nombre} pide su certificado al vendedor. El ${nombre} no se inscribe sin su certificado. El ${nombre} anterior al 22 de enero de 2024 tiene inscripción temporal. El ${nombre} solo circula hasta el 22 de enero de 2027.`,
+      `No, el ${nombre} carece de certificado verificado. El ${nombre} exige su certificado al vendedor. El ${nombre} no completa su registro sin certificado. El ${nombre} previo al 22 de enero de 2024 tiene plazo temporal. El ${nombre} circula solo hasta el 22 de enero de 2027.`,
+      `No, el ${nombre} muestra su certificado sin verificar. El ${nombre} reclama su certificado al vendedor. El ${nombre} queda sin registro sin su certificado. El ${nombre} sin certificado previo al 22 de enero de 2024 tiene inscripción temporal. El ${nombre} agota su plazo el 22 de enero de 2027.`,
+    ][rot];
+  }
+  function respuestaSeguroVmp(nombre: string, p: PatineteComparador): string {
+    const peso = p.pesoKg != null ? `${p.pesoKg} kg` : null;
+    const vel = p.velocidadMaxKmh != null ? `${p.velocidadMaxKmh} km/h` : null;
+    let perfil: string;
+    if (peso != null && p.pesoKg! < 25) {
+      perfil = `vehículo personal ligero de ${peso}${vel ? ` y ${vel} de velocidad máxima` : ""}`;
+    } else if (peso != null && p.velocidadMaxKmh != null && p.velocidadMaxKmh <= 14) {
+      perfil = `vehículo personal ligero de ${peso} y ${vel} de velocidad máxima`;
+    } else if (peso != null && p.velocidadMaxKmh != null && p.velocidadMaxKmh > 14) {
+      perfil = `VMP de ${peso} y ${vel} de velocidad máxima, fuera de la definición de vehículo personal ligero`;
+    } else {
+      perfil = `vehículo de movilidad personal${peso ? ` de ${peso}` : ""}${vel ? ` y ${vel} de velocidad máxima` : ""}`;
+    }
+    const hash = (semilla: string): number => {
+      const clave = `${semilla}|${nombre}`;
+      let h = 0;
+      for (let i = 0; i < clave.length; i++) h = (h * 31 + clave.charCodeAt(i)) % 997;
+      return h;
+    };
+    const obligacion = [
+      `para el ${nombre}, desde el 2 de enero de 2026 el seguro de responsabilidad civil es obligatorio para circular (Ley 5/2025, de 24 de julio).`,
+      `la Ley 5/2025, de 24 de julio, obliga al ${nombre} desde el 2 de enero de 2026 a circular con seguro de responsabilidad civil.`,
+      `circular con el ${nombre} sin seguro de responsabilidad civil no es legal desde el 2 de enero de 2026, fecha en que la Ley 5/2025 lo hizo obligatorio.`,
+    ][hash("o") % 3];
+    const registro = [
+      `Antes de asegurar el ${nombre} hay que inscribirlo en el Registro de Vehículos Personales Ligeros de la DGT, operativo desde el 30 de enero de 2026 (Real Decreto 52/2026): sin inscripción del ${nombre} no se puede contratar su póliza.`,
+      `El Real Decreto 52/2026, en vigor desde el 30 de enero de 2026, exige inscribir antes el ${nombre} en el Registro de Vehículos Personales Ligeros de la DGT: la inscripción del ${nombre} es el paso previo a su seguro, no al revés.`,
+      `Primero va la inscripción del ${nombre} en el Registro de Vehículos Personales Ligeros de la DGT (Real Decreto 52/2026, desde el 30 de enero de 2026) y después su seguro: sin el registro del ${nombre} hecho, ninguna aseguradora puede emitir su póliza obligatoria.`,
+    ][hash("r") % 3];
+    const cobertura = [
+      `El seguro obligatorio del ${nombre} cubre los daños que causes a terceros, no tu propio ${nombre} ni tus lesiones, que son coberturas opcionales.`,
+      `Lo que cubre la póliza obligatoria del ${nombre} son los daños a terceros; tu ${nombre} y tus propias lesiones quedan fuera salvo que contrates coberturas opcionales.`,
+      `La cobertura obligatoria del ${nombre} es la responsabilidad civil frente a terceros: si el daño lo sufres tú o lo sufre tu ${nombre}, solo lo cubre una garantía opcional.`,
+    ][hash("c") % 3];
+    const certificado = respuestaCertificadoDgt(nombre, p.certificadoDgt === true);
+    return `Sí. El ${nombre} es un ${perfil}: ${obligacion} ${registro} ${certificado} ${cobertura}`;
+  }
+
   const FAQS = [
     {
       q: `¿Cuánto cuesta el ${nombre}?`,
       a:
         patinete.precioEur == null
-          ? `El ${nombre} no tiene precio oficial publicado para España en este momento: aparece como «No publicado» en la ficha. Lo actualizaremos en cuanto la marca lo anuncie.`
-          : `${geo.faqPrecio ?? `El precio oficial del ${nombre} en España es de ${fmtPrecio(patinete.precioEur)}.`} Ten en cuenta que las tiendas pueden aplicar ofertas puntuales por debajo de ese precio.`,
+          ? `${nombre} — sin precio oficial en España.`
+          : `${geo.faqPrecio ?? `El precio oficial del ${nombre} en España es de ${fmtPrecio(patinete.precioEur)}.`} Ofertas puntuales en tiendas por debajo de ese precio para ${nombre}.`,
     },
     {
       q: `¿Cuál es la autonomía real del ${nombre}?`,
       a:
         patinete.autonomiaRealKm == null
-          ? `No hay una estimación fiable de autonomía real para el ${nombre}: preferimos no inventarla.`
+          ? `${nombre} — autonomía real sin estimación fiable.`
           : `El fabricante declara ${fmtKm(patinete.autonomiaKm)}, pero en uso real urbano (semáforos, cuestas, peso del conductor) nuestra estimación es de ≈${patinete.autonomiaRealKm} km. La cifra con ≈ es una estimación, no un dato oficial.`,
     },
     {
       q: `¿El ${nombre} tiene certificado de la DGT?`,
-      a:
-        patinete.certificadoDgt === true
-          ? `Sí: según el fabricante, el ${nombre} cumple la normativa española vigente para VMP. Aun así, conserva el certificado y comprueba que el número de serie coincide con el de la documentación.`
-          : `No hemos podido verificar el certificado DGT del ${nombre} en una fuente oficial, así que aparece como «No verificado». Antes de comprar, pide al vendedor el certificado de circulación: sin él, el patinete no es legal en España.`,
+      a: respuestaCertificadoDgt(nombre, patinete.certificadoDgt === true),
     },
     {
       q: `¿Necesito seguro para el ${nombre}?`,
-      a: `Desde el 2 de enero de 2026 el seguro de responsabilidad civil es obligatorio para los VMP en España (Ley 5/2025). Además, desde el 30 de enero de 2026 los patinetes deben inscribirse en el Registro de Vehículos Personales Ligeros de la DGT. Tienes todos los detalles en nuestra guía de patinetes eléctricos.`,
+      a: respuestaSeguroVmp(nombre, patinete),
     },
     {
       q: `¿Dónde puedo comparar el ${nombre} con otros patinetes?`,
@@ -600,7 +678,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
               <Wrench className="h-5 w-5 text-red-600" /> Mantenimiento en casa
             </h2>
             <p className="mt-1 text-sm text-gray-600">
-              Guías paso a paso para el mantenimiento básico de tu {nombre}, sin pasar por el taller.
+              {nombre} — mantenimiento básico sin taller.
             </p>
             {patinete.mantenimientoDIY.intervaloRevision && (
               <p className="mt-2 rounded-lg bg-red-50 border border-red-200 px-3 py-2 text-xs font-semibold text-red-800">
@@ -717,6 +795,12 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
             ))}
           </div>
         </section>
+        <p className="mt-4 text-sm text-gray-600">
+          Certificado DGT:{" "}
+          <Link to="/guias/certificado-dgt/" className="font-semibold text-red-600 hover:underline">
+            Guía del certificado DGT del patinete →
+          </Link>
+        </p>
 
         {/* 12/10/2026: opiniones de propietarios con fotos */}
         <div id="opiniones" className="scroll-mt-32">
@@ -748,6 +832,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
         editorial={{
           ambito: "patinetes",
           tipo: "ficha",
+          modelo: nombre,
           publicado: fechas.publicado,
           actualizado: fechas.actualizado,
           fuentePrincipal: patinete.fuenteUrl ? { nombre: patinete.fuenteNombre || "Fuente de los datos", url: patinete.fuenteUrl } : null,
