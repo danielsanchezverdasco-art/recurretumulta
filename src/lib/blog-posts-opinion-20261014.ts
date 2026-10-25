@@ -10,9 +10,9 @@ import type { BlogPost } from "./blog-meta.ts";
 export const OPINION_20261014_POSTS: BlogPost[] = [
   {
     slug: "europa-retrasa-coche-autonomo-espana-pruebas",
-    title: "Europa retrasa el coche autónomo, España prueba nivel 4",
+    title: "Europa frena el coche autónomo; España ensaya el nivel 4",
     excerpt:
-      "Tesla cambia FSD por Tesla Assisted Driving, la votación europea se retrasa a diciembre de 2026 y España autoriza pruebas de nivel 4. Probar sí, vender no.",
+      "Tesla cambia de nombre en Europa, la votación comunitaria se aplaza a diciembre de 2026 y España autoriza ensayos de nivel 4. Ensayar sí, comprar no.",
     category: "Actualidad",
     date: "2026-10-14",
     readTime: 6,
@@ -29,78 +29,77 @@ export const OPINION_20261014_POSTS: BlogPost[] = [
     ],
     content: `<img src=/media/tesla-cybercab-2026-precio-ficha-tecnica-1.webp alt=Tesla Cybercab, robotaxi biplaza sin volante>
 
-*Foto: archivo de recurretumulta.online (origen no documentado en el repositorio). El Tesla Cybercab, prototipo de robotaxi sin volante: no es una furgoneta WeRide ni un coche a la venta en España.*
+*Foto: material de archivo de recurretumulta.online, sin origen documentado en el repositorio. La imagen muestra el Tesla Cybercab, un prototipo de robotaxi biplaza y sin volante: no se trata de una furgoneta de WeRide ni de un modelo que pueda comprarse en España.*
 
-Europa regula el nombre y retrasa la tecnología. España abre sus carreteras a las pruebas. Esa es la paradoja: aquí las empresas invierten en probar coches autónomos, pero los europeos todavía no pueden comprar ni usar esa misma tecnología. En mi opinión, tenemos las peores leyes para la automoción, y nos están retrasando el avance.
+Bruselas discute el nombre y aplaza la tecnología. Madrid, por el contrario, autoriza ya los ensayos en sus calles. Esa es la paradoja: las compañías invierten en probar coches sin conductor en nuestro país, mientras un europeo todavía no puede comprar esa misma tecnología ni usarla. En mi opinión, la legislación actual para el automóvil es la peor imaginable y está lastrando el avance.
 
-Por Daniel, fundador y responsable de contenidos de RecurreTuMulta.online.
+Firma: Daniel, creador y responsable editorial de RecurreTuMulta.online.
 
-## El caso Tesla: de Full Self-Driving a Tesla Assisted Driving
+## Tesla cambia su nombre en Europa
 
-El ejemplo más claro acaba de pasar delante de todos. Entre el 8 y el 9 de octubre de 2026, Tesla empezó a sustituir en sus webs europeas (España, Alemania, Francia, Países Bajos, Eslovaquia) la denominación **Full Self-Driving (Supervised)** por **Tesla Assisted Driving**. También renombró el Enhanced Autopilot como **Tesla Assisted Driving Basic** y el Summon como **Dumb Summon**.
+El ejemplo más visible acaba de suceder delante de todo el mundo. Tesla empezó en octubre de 2026 a sustituir su marca europea. Lo hizo los días 8 y 9. Donde ponía **Full Self-Driving (Supervised)**, ahora pone **Tesla Assisted Driving**. El cambio afecta a sus sitios de España, Alemania, Francia, Países Bajos y Eslovaquia. Además, el Enhanced Autopilot se llama ahora **Tesla Assisted Driving Basic**. Y el Summon, **Dumb Summon**.
 
-¿Por qué? Porque el Ministerio Federal de Transporte de Alemania considera que «Full Self-Driving» es engañoso: el sistema es una ayuda a la conducción de **nivel 2 SAE**, no un coche autónomo. El conductor debe permanecer atento en todo momento y sigue siendo el único responsable legal del vehículo. Alemania apoya una aprobación europea rápida, pero con condiciones: el cambio de nombre y que el sistema solo pueda superar el límite de velocidad señalizado hasta un **10 %**, según lo publicado por Softonic/Invezz sobre el entendimiento Alemania-Tesla. La opción estadounidense «Mad Max», que según esas mismas informaciones permite superar el límite detectado hasta un 50 %, no estará disponible en Europa.
+La razón está en Alemania. Su Ministerio Federal de Transporte ve «Full Self-Driving» como una denominación engañosa. El sistema constituye una asistencia de **nivel 2 SAE**. No es un automóvil autónomo. La persona al volante debe mantenerse atenta sin interrupción. Además, sigue siendo la única responsable legal del vehículo. Alemania respalda una homologación europea rápida. Pero pone dos condiciones. Primera: cambiar el nombre. Segunda: que el sistema solo pueda exceder la velocidad señalizada hasta un **10 %**. Así lo publicaron Softonic e Invezz acerca del entendimiento entre Alemania y Tesla. La función estadounidense «Mad Max» queda fuera de Europa. Según esas mismas informaciones, esa función deja exceder el límite detectado hasta un 50 %.
 
-La votación europea para extender la autorización a toda la UE, prevista para octubre, se ha aplazado a **diciembre de 2026 como pronto**. El Consejo Europeo de Seguridad en el Transporte (ETSC) pidió retrasarla hasta que haya un debate público sobre la velocidad, la conducción sin manos y las maniobras iniciadas por el sistema fuera de las autopistas. Mientras tanto, la autoridad neerlandesa RDW ya aprobó el sistema a nivel nacional y 8 o 9 países de la UE lo han autorizado en su territorio. España no está entre los países que lo han autorizado a nivel nacional.
+La votación europea iba a celebrarse en octubre. Su objetivo: extender la autorización a toda la UE. Ahora se pospone hasta **diciembre de 2026 como fecha más temprana**. El aplazamiento lo pidió el ETSC: Consejo Europeo de Seguridad en el Transporte. Quiere un debate público previo. Los temas: velocidad, conducción sin manos y maniobras que inicia el sistema fuera de las autopistas. Entretanto, la autoridad neerlandesa RDW ya homologó el sistema a escala nacional. También lo han homologado 8 o 9 países de la UE en su territorio. España no se encuentra entre ellos.
 
-Es decir: Europa lleva meses debatiendo el nombre y la velocidad, mientras la tecnología sigue esperando una decisión europea.
+Dicho de otro modo: Europa debate desde hace meses el nombre y la velocidad. Mientras tanto, la tecnología continúa aguardando una decisión europea.
 
-## España, el laboratorio: probar sí se puede
+## España, terreno de ensayos: probar sí se puede
 
-Y mientras Europa debate, España ya está haciendo de campo de pruebas. La DGT tiene en marcha el **Programa ES-AV** (Programa Marco de Evaluación de la Seguridad y Tecnología de Vehículos Automatizados), un marco nacional que autoriza y regula la circulación de vehículos automatizados de **niveles SAE 2 a 5**, incluida la conducción remota, en carreteras abiertas al tráfico. Tres fases de pruebas (controlada, extensiva y pre-despliegue), una ventanilla única (la OFVA) y una **etiqueta roja de la DGT** con código QR para identificar los vehículos en pruebas.
+Mientras Europa debate, España ya actúa como campo de pruebas. La DGT creó el **Programa ES-AV**. Es un marco nacional. Autoriza y regula el tráfico de vehículos automatizados en carreteras abiertas. Abarca los **niveles SAE 2 a 5**. Incluye la conducción remota. Sus siglas resumen un programa marco. Ese programa evalúa la seguridad y la tecnología de los vehículos automatizados. El esquema contempla tres fases de pruebas. Son la controlada, la extensiva y la de pre-despliegue. Existe además una ventanilla única: la OFVA. Y cada coche de pruebas lleva pegatina roja de la DGT con código QR identificativo.
 
-Los hechos de 2026 lo demuestran:
+Los hechos de 2026 lo prueban:
 
-- **Septiembre de 2026:** la DGT concedió la primera autorización nacional en España para probar vehículos autónomos de **nivel 4** en vías públicas, a WeRide, Uber y AVOMO. Es la primera aprobación nacional del vehículo GXR de WeRide en la UE.
-- **Octubre de 2026:** una veintena de furgonetas ya mapean Madrid y Alcobendas (M-40, A-1, Hortaleza, unos 25 km) con conductor, preparando un servicio de robotaxis que Uber quiere estrenar comercialmente antes de que termine 2026.
-- **Tesla** tiene 25 vehículos autorizados para circular por carreteras españolas entre noviembre de 2025 y noviembre de 2027 dentro del programa ES-AV. **Wayve**, otros 3 turismos automatizados entre octubre de 2025 y octubre de 2027.
+- **Septiembre de 2026:** la DGT entregó la primera autorización nacional en España. Sirve para ensayar en vías públicas vehículos autónomos de **nivel 4**. Los beneficiarios: WeRide, Uber y AVOMO. Constituye el primer visto bueno nacional en la UE al vehículo GXR de WeRide.
+- **Octubre de 2026:** cerca de una veintena de furgonetas ya recorren Madrid y Alcobendas cartografiando calles. Las zonas: M-40, A-1 y Hortaleza. El recorrido ronda los 25 km. Van con conductor. Preparan un servicio de robotaxis. Uber pretende ponerlo en marcha comercialmente antes de que concluya 2026.
+- **Tesla** cuenta con 25 vehículos autorizados en España. El permiso cubre carreteras españolas. Va de noviembre de 2025 a noviembre de 2027. Se enmarca en el programa ES-AV. **Wayve** dispone de otros 3 turismos automatizados. Su ventana va de octubre de 2025 a octubre de 2027.
 
-España no solo permite probar: las empresas invierten en probar aquí: flotas, mapeo, pilotos y operaciones. Eso es dinero real y tecnología real circulando por nuestras carreteras.
+España no solo deja probar. Las empresas destinan inversión a probar aquí. Invierten en flotas, cartografía, pilotos y operaciones. Eso representa capital real y tecnología real en nuestras carreteras.
 
-## La queja: probar sí, vender no
+## La contradicción: probar sí, vender no
 
-Y aquí está la contradicción que no me trago. España sirve para hacer los test. Las empresas vienen, invierten, mapean, prueban y arriesgan su dinero aquí. Pero cuando esa misma tecnología tiene que llegar al conductor europeo, a tu coche, a tu garaje, aparece el muro: votaciones que se aplazan, debates sobre el nombre, límites del 10 %, y un «ya veremos en diciembre».
+Aquí surge la contradicción que no acepto. España vale para realizar los ensayos. Las empresas acuden. Invierten. Cartografían. Prueban. Arriesgan su dinero aquí. Ahora bien, cuando esa misma tecnología debe llegar al conductor europeo, surge el muro. Hablo de tu coche y de tu garaje. El muro son votaciones que se aplazan. Son debates acerca del nombre. Son topes del 10 %. Y luego, un «ya veremos en diciembre». Después, en Europa, cambiamos el nombre y posponemos la votación. No afirmo que no sea necesario regular. La seguridad vial es sagrada. El conductor debe conocer siempre los límites de su coche: qué puede y qué no puede hacer. Lo que afirmo es que regular no puede significar parálisis. Un sistema ya transita en pruebas por Madrid. Cuenta con la bendición de la DGT. Entonces, ¿por qué Europa demora meses en decidir si los europeos pueden emplearlo?
 
-En Europa, cambiamos el nombre y aplazamos la votación. No digo que no haga falta regular: la seguridad vial es sagrada y el conductor debe saber siempre qué puede y qué no puede hacer el coche. Lo que digo es que regular no puede significar parálisis. Si un sistema ya circula en pruebas por Madrid con la bendición de la DGT, ¿por qué Europa tarda meses en decidir si los europeos pueden usarlo?
-
-Las leyes europeas, tal como funcionan hoy, no protegen el avance: lo retrasan. Protegen el debate, no al conductor. Y mientras tanto, corremos el riesgo de que el talento, la inversión y los puestos de trabajo de la movilidad del futuro se vayan a donde sí les dejan avanzar.
+Las normas europeas, tal como operan hoy, no amparan el avance. Lo demoran. Amparan el debate, no al conductor. Entretanto, corremos el riesgo de perder talento, inversión y empleos. Son los de la movilidad del futuro. Podrían trasladarse adonde sí les permiten avanzar.
 
 ## Qué haría falta
 
-No pido barra libre. Pido lo que España ya demuestra que se puede hacer: un marco claro, una sola aprobación europea, responsabilidad definida (quién responde cuando el sistema conduce: fabricante, conductor, operador), y decisiones con fecha. Que el debate sobre el nombre no tape el debate sobre la tecnología. Que probar en España no sea el final del camino, sino el principio: si pasa las pruebas aquí, que pueda venderse en Europa.
+No solicito barra libre. Solicito lo que España ya prueba que se puede lograr. Primero, un marco claro. Segundo, una sola aprobación europea. Tercero, una responsabilidad definida. Hay que aclarar quién responde cuando conduce el sistema. Las opciones: fabricante, conductor u operador. Cuarto, decisiones con fecha. El debate acerca del nombre no debe tapar el debate acerca de la tecnología. Probar en España no debe constituir el final del camino. Debe ser el principio. Si un sistema supera las pruebas aquí, debe poder comercializarse en Europa.
 
-Porque si España vale para los test, Europa debería valer para el avance. Y hoy, no vale.
+Y es que, si España vale para los ensayos, Europa debería valer para el avance. Hoy, sin embargo, no vale.
 
 **¿Tienes una multa y no sabes si se puede recurrir?** Antes de pagar, <a href=/>analiza tu multa gratis con IA</a> y descubre si tiene errores, plazos o motivos de recurso.
 
-**Para seguir leyendo:** ficha del <a href=/coches/tesla-model-y-electrico-precio-ficha-tecnica/>Tesla Model Y</a> y su <a href=/coches/tesla-model-y-performance-2026-precio-ficha-tecnica/>blog</a>, ficha del <a href=/coches/tesla-cybercab-2026-precio-ficha-tecnica/>Tesla Cybercab</a> y su <a href=/blog/tesla-cybercab-2026-precio-ficha/>blog</a>, el <a href=/coches/tesla-roadster-2026-retraso-precio-ficha-tecnica/>blog del Tesla Roadster y su retraso</a>, el <a href=/blog/coches-autonomos-de-nivel-3-y-4-en-espana-quien-asume-la-responsabilidad-legal-en-caso-de-accidente/>blog sobre responsabilidad legal en coches autónomos de nivel 3 y 4</a> y el <a href=/blog/robotaxis-madrid-furgonetas-mapeo-octubre-2026/>blog de los robotaxis mapeando Madrid</a>.
+Sigue con: <a href=/coches/tesla-model-y-electrico-precio-ficha-tecnica/>Tesla Model Y</a> (<a href=/coches/tesla-model-y-performance-2026-precio-ficha-tecnica/>blog</a>), <a href=/coches/tesla-cybercab-2026-precio-ficha-tecnica/>Tesla Cybercab</a> (<a href=/blog/tesla-cybercab-2026-precio-ficha/>blog</a>), <a href=/coches/tesla-roadster-2026-retraso-precio-ficha-tecnica/>blog del Tesla Roadster y su retraso</a>, <a href=/blog/coches-autonomos-de-nivel-3-y-4-en-espana-quien-asume-la-responsabilidad-legal-en-caso-de-accidente/>blog sobre responsabilidad legal en coches autónomos de nivel 3 y 4</a> y <a href=/blog/robotaxis-madrid-furgonetas-mapeo-octubre-2026/>blog de los robotaxis mapeando Madrid</a>.
 
 *Fuentes: <a href=https://www.reuters.com/es/negocio/EKGNAU6AEBKQDLOSXIM7PJBLXA-2026-09-11/>Reuters (autorización nivel 4)</a>, <a href=https://cadenaser.com/cmadrid/2026/10/05/una-ventana-de-furgonetas-mapean-madrid-y-alcobendas-para-la-llegada-de-los-primeros-taxis-autonomos-de-espana-ser-madrid-norte/>Cadena SER (mapeo Madrid y Alcobendas)</a>, <a href=https://www.softonic.com/articulos/tesla-renombra-desde-hoy-full-self-driving-en-europa-pasa-a-tesla-assisted-driving>Softonic (renombre FSD a Tesla Assisted Driving)</a>, <a href=https://www.camionactualidad.es/destacadas-noticias/item/11038-programa-es-av-espana-impulsa-la-regulacion-de-vehiculos-autonomos-y-de-conduccion-remota>Camión Actualidad (programa ES-AV)</a>.*
 
-## Preguntas frecuentes
+## Dudas frecuentes
 
-### ¿Tesla Assisted Driving es un coche autónomo?
+### ¿Conduce solo Tesla Assisted Driving?
 
-No. Es el nuevo nombre europeo del sistema Full Self-Driving (Supervised) de Tesla, una ayuda a la conducción de nivel 2 SAE. El conductor debe permanecer atento en todo momento y sigue siendo el responsable legal del vehículo.
+No. Es la nueva denominación europea de Full Self-Driving (Supervised), de Tesla. Hablamos de una asistencia de nivel 2 SAE. La persona al volante debe mantenerse atenta sin interrupción. Además, sigue siendo la responsable legal del vehículo.
 
-### ¿Cuándo se votará la aprobación europea del sistema de Tesla?
+### ¿Para cuándo queda la votación europea de Tesla?
 
-La votación, prevista inicialmente para octubre de 2026, se aplazó a diciembre de 2026 como pronto. El ETSC pidió retrasarla hasta debatir públicamente las reglas de velocidad, conducción sin manos y maniobras fuera de autopista.
+Iba a celebrarse en octubre de 2026. Ahora queda pospuesta hasta diciembre de 2026 como fecha más temprana. El ETSC pidió aplazarla. Quiere debatir en público la velocidad, el no usar las manos y las maniobras fuera de autopista.
 
-### ¿Se puede usar el FSD completo en España?
+### ¿Está operativo el FSD completo en España?
 
-No. En España el sistema aún no tiene la autorización para funcionar con todas sus capacidades. Lo que sí hay son pruebas autorizadas dentro del programa ES-AV de la DGT, como las de Tesla (25 vehículos) o las de WeRide/Uber/AVOMO (nivel 4).
+No. Aquí el sistema todavía no dispone de autorización para operar con todas sus capacidades. Sí existen ensayos autorizados dentro del ES-AV de la DGT. Ejemplos: Tesla, con 25 vehículos, y WeRide, Uber y AVOMO, con nivel 4.
 
-### ¿Qué es el programa ES-AV de la DGT?
+### ¿Para qué sirve el ES-AV?
 
-El Programa Marco de Evaluación de la Seguridad y Tecnología de Vehículos Automatizados. Es el marco nacional español que autoriza pruebas de vehículos automatizados (niveles SAE 2 a 5, incluida conducción remota) en carreteras abiertas, con tres fases (controlada, extensiva y pre-despliegue), ventanilla única (OFVA) y etiqueta roja identificativa con QR.
+Es el marco nacional español para autorizar ensayos de vehículos automatizados. Cubre los niveles SAE 2 a 5. Incluye la conducción remota. Los ensayos se hacen en carreteras abiertas. El esquema tiene tres fases. Son la controlada, la extensiva y la de pre-despliegue. Hay ventanilla única: la OFVA. Y pegatina roja identificativa con QR.
 
-### ¿Habrá robotaxis en Madrid?
+### ¿Veremos robotaxis en Madrid?
 
-Uber, WeRide y AVOMO tienen la primera autorización nacional de nivel 4 y están mapeando Madrid y Alcobendas con una veintena de furgonetas. El objetivo declarado es estrenar el servicio comercial antes de que termine 2026, si se cumplen los hitos operativos y normativos.
+Uber, WeRide y AVOMO disponen de la primera autorización nacional de nivel 4. Están cartografiando Madrid y Alcobendas con cerca de una veintena de furgonetas. El objetivo declarado: poner en marcha el servicio comercial antes de que concluya 2026. Eso exige cumplir los hitos operativos y normativos.
 
-### ¿Por qué Europa retrasa la aprobación?
+### ¿Por qué se retrasa la aprobación en Europa?
 
-Por el debate técnico y de responsabilidad: qué puede hacer el sistema, quién responde, y qué reglas de velocidad aplican. Alemania apoya aprobar rápido con condiciones (cambio de nombre y tope del 10 % sobre el límite), pero la votación comunitaria sigue pendiente.`,
+Por el debate técnico y de responsabilidad. Hay que aclarar qué puede hacer el sistema. También quién responde. Y qué normas de velocidad se aplican. Alemania respalda aprobar deprisa con condiciones: cambiar el nombre y un tope del 10 % sobre el límite. La votación comunitaria, sin embargo, sigue pendiente.
+`,
   },
 ];
