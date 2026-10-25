@@ -6,7 +6,8 @@ import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import CosaEnBanner from "@/components/CosaEnBanner.tsx";
 
-// Índice /guias/ (24/10/2026, arreglo del 404): enlaza ÚNICAMENTE las 9 guías
+// Índice /guias/ (24/10/2026, arreglo del 404; 25/10/2026 REWORK: +3 centrales
+// ZBE-etiquetas, certificado-DGT y seguro-VMP): enlaza ÚNICAMENTE las 12 guías
 // publicadas en src/pages/guias/, cada una con ruta registrada en App.tsx y
 // servida en vivo con 200 (censo vivo-censo.csv). Si se publica o se retira una
 // guía, esta lista debe actualizarse en el mismo cambio.
@@ -65,13 +66,31 @@ const GUIAS = [
     resumen:
       "Degradación de la batería (SOH), garantía, historial y checklist de inspección antes de comprar un eléctrico usado.",
   },
+  {
+    slug: "zbe-etiquetas",
+    titulo: "ZBE y etiquetas DGT 2026: qué puede circular",
+    resumen:
+      "Qué significa cada etiqueta DGT (Cero, ECO, C, B) y qué vehículos pueden entrar en las ZBE de Madrid, Barcelona y el resto de España.",
+  },
+  {
+    slug: "certificado-dgt",
+    titulo: "Certificado DGT del patinete: qué es y cómo comprobarlo",
+    resumen:
+      "Qué es el certificado de circulación de un VMP, desde cuándo es obligatorio y cómo comprobarlo antes de comprar.",
+  },
+  {
+    slug: "seguro-vmp",
+    titulo: "Seguro obligatorio del patinete 2026: Ley 5/2025 y registro",
+    resumen:
+      "Desde cuándo es obligatorio el seguro del patinete, cómo inscribirlo en la DGT y qué multa hay por circular sin seguro.",
+  },
 ];
 
 export default function GuiasIndexPage() {
   useSeo({
     title: "Guías 2026: multas, radares, ITV y coche eléctrico",
     description:
-      "Las 9 guías: multas de radar y ZBE, prescripción, defectos de forma, alcohol y drogas, ITV, patinetes y ayudas para el coche eléctrico.",
+      "Las 12 guías: multas de radar y ZBE, prescripción, defectos de forma, alcohol y drogas, ITV, patinetes, ayudas para el coche eléctrico, ZBE y etiquetas, certificado DGT y seguro VMP.",
     canonical: "/guias",
     schema: [
       {
