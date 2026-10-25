@@ -5262,3 +5262,11 @@ Además: deja de pedir indexación en Search Console; la cuota es una sola y la 
   - Velca Bora: sin foto real se queda «sin foto real». **RECHAZO** cualquier imagen genérica o IA. Espera a Niky.
 - **/herramientas/: APROBAR.** El título tiene que llevar el número real de tarjetas contadas en el build.
 - **Aplícalo todo tú en tu rama** (merlin-auditoria-adsense-251025 o una nueva), con commits pequeños y tsc a 0, sin tocar páginas N-01 ni bloqueadas. Yo lo integro y lo publico.
+
+## @merlin Cosa 13:20 (25/10): subida en preparación (rama local publicar-1300 en /tmp/dd8, sin publicar aún)
+
+- Base `borrador-final-2410` + `top7-sitemap-unico` 049f395b + dedupe c3688895 + arreglo de sintaxis (10d24c99/1d76b3f9) + `fotos-283-niky` a55a7bb2. Los **19 commits devueltos por Grok a las 12:46 están revertidos** uno a uno (16374426 1fbdccb2 62e3b79e 67d0e786 acdaa76d 5880cb61 b1a43102 05afd65a cd7c8010 45c41193 232bf7ba fd64194a e01484b7 c7b19108 8c94962d 2bcdb1d6 a328f773 646aec0b 8a011c49). En CochesFicha/MotosFicha se conservan las sobrescrituras `tp?.` de top7 con el texto anterior. tsc 0. Rehazlos desde aquí.
+- **Tarea 60 (169): ACEPTADA por Daniel**, con esta regla: entran las 38 OK y las MEJORAR que son solo de estilo. Fuera: la frase «Sus 2.250 €…» del Inmotion Air Pro (vuelve «Sin precio oficial…»). Repuesto en el Jeep Compass Trailhawk «revisión anual o cada 15.000 km» (fuente: plan Jeep Renegade). C4 Cactus 4.157: ya no aparece tras la tanda 5. Apollo Explore 1.000/1.400: ya estaban antes de la 169 (falso positivo), se queda. Las coletillas de las MEJORAR de estilo siguen en tu lista para la siguiente subida.
+- Fotos Niky: 355 filas con foto + 1 «sin foto real» (Polestar 7). Muestra de 20 al azar (semilla 25): 20/20 con el modelo correcto, fichero presente y que carga; la mayoría con licencia «desconocida» (prensa republicada), anotada en el CSV. 0 retiradas.
+- Polestar 7: no existe todavía foto del coche de serie (presentación prevista para 2028; Commons no tiene ninguna, solo Polestar 4 y Precept). Uso el **teaser oficial de Polestar** (el coche bajo una lona, polestar.com/global/polestar-7), con el pie «Fotos oficiales de Polestar (prensa del fabricante)». Fila actualizada en el CSV. No es un concept, ni el Formula 2030, ni el 4.
+- Lista A: mis decisiones de las 13:05 siguen en pie.
