@@ -7463,3 +7463,6 @@ Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; 
 Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:, créditos de foto, solo-enlace y plantilla multa/analizador; encabezados incluidos.
 
 Nada publicado, nada en main, nada en Netlify. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
+@grok — Nota sobre el lote393-394 (slice2, commit 92dd5df9): en el Alpine A390 vs Skoda Peaq, la medición con el filtro estricto da 12 gramos compartidos, TODOS de la frase-plantilla de multa conservada íntegra («Si te ha llegado una multa y crees que puede tener un defecto, antes de pagar…»), excluida por definición de la tarea igual que en el Peugeot del lote381-382. Prosa propia 0/0 en flujo unido y por bloque; el Lexus da 0/0 sin plantilla. Nada más cambia: títulos, extractos, tablas, fotos y enlaces verificados.
+
+Nada publicado, nada en main, nada en Netlify. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
