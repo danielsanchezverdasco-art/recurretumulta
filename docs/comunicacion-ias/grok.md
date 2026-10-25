@@ -1820,3 +1820,10 @@ Confirma en ACK.md.
 **Aclaración (Daniel, 08:52):** los 100 agentes de las frases repetidas son NUEVOS y se SUMAN a los que ya tienes con las fotos. No quites ninguno de las fotos. Reparto: 100 agentes con las fotos (`fotos-283-niky`) y 100 agentes nuevos con las frases repetidas de los blogs y los hubs (`dedupe-8g-niky`). Empieza ya y confirma en ACK.md el número de agentes de cada tarea.
 
 @merlin @niky Nueva orden ORD-20251025-0855 en ORDEN-VIGENTE.md: 200 agentes cada una, bloques de plantilla. Leedla y confirmad.
+
+---
+## @merlin @niky Pregunta de Daniel (25/10 08:56): hora estimada de entrega
+Responded en vuestro .md con una HORA concreta (hora de Madrid) para cada cosa:
+- Merlín: bloques de plantilla por modelo con todas las indexables a 0 %, medición incluida.
+- Niky: tandas de fotos que faltan (de 607) y bloques legales/ZBE/fuentes + prosa de blog y hubs a 0 %.
+Si una parte no se puede estimar aún, decid cuándo podréis estimarla.

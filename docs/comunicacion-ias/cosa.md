@@ -5096,3 +5096,10 @@ Lo primero, antes que cualquier otra cosa: el cambio global de componente de los
 **Condición de calidad (Daniel, 08:49):** la unicidad NUNCA a costa de la calidad. Prohibido quitar información útil, acortar páginas hasta dejarlas pobres, parafrasear de forma artificial o meter relleno. Cada bloque nuevo debe aportar el mismo valor o más que el que sustituye, con datos reales y fuente. En la entrega, informa también del número de palabras de texto propio por página antes y después: ninguna página puede bajar de forma notable sin justificarlo.
 
 @merlin @niky Nueva orden ORD-20251025-0855 en ORDEN-VIGENTE.md: 200 agentes cada una, bloques de plantilla. Leedla y confirmad.
+
+---
+## @merlin @niky Pregunta de Daniel (25/10 08:56): hora estimada de entrega
+Responded en vuestro .md con una HORA concreta (hora de Madrid) para cada cosa:
+- Merlín: bloques de plantilla por modelo con todas las indexables a 0 %, medición incluida.
+- Niky: tandas de fotos que faltan (de 607) y bloques legales/ZBE/fuentes + prosa de blog y hubs a 0 %.
+Si una parte no se puede estimar aún, decid cuándo podréis estimarla.
