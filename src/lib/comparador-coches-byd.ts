@@ -1190,14 +1190,14 @@ export const COCHES_BYD: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: ["potenciaCv", "autonomiaKm", "bateriaKwh", "ceroCien", "largoMm", "anchoMm", "altoMm", "pesoKg", "precioDesde"],
     pros: [
-      "La batería de 130 kWh anuncia hasta 950 km en ciclo CLTC, una autonomía teórica que lo coloca entre los SUV eléctricos más ambiciosos del momento",
+      "La batería de 130 kWh anuncia hasta 950 km en ciclo CLTC.",
       "La arquitectura de 1.000 V promete pasar del 10 al 70% de carga en solo 5 minutos, siempre que el cargador lo permita",
       "Siete plazas reales en disposición 2+2+3, con asientos individuales en la segunda fila",
-      "La suspensión neumática de doble cámara busca un confort de berlina grande en un coche de más de 5,3 metros",
-      "El arranque comercial en China, con 40.222 entregas en tres meses, demuestra que no es un prototipo de salón"
+      "La suspensión neumática de doble cámara equipa un SUV de 5.302 mm de largo, 1.999 mm de ancho y 3.000 kg.",
+      "El arranque comercial en China suma 40.222 entregas en tres meses."
     ],
     contras: [
-      "El precio europeo sigue sin anunciarse; en China parte de unos 31.930 €, pero la tarifa de aquí será otra",
+      "El precio europeo sigue sin anunciarse; en China parte de unos 31.930 €.",
       "Los 950 km corresponden al ciclo chino CLTC, más benévolo que el WLTP europeo que se aplicará aquí",
       "La carga ultrarrápida exige una infraestructura de 1.000 kW que en Europa todavía no existe",
       "Con 5,3 metros de largo, moverse por ciudad y aparcar será su principal incomodidad diaria",
