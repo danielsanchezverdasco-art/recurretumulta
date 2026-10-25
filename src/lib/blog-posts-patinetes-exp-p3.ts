@@ -1805,9 +1805,9 @@ Está entre los más rápidos de serie, junto al Teverun Supreme y el Nami Burn-
   },
   {
     slug: "inmotion-s1f",
-    title: "InMotion S1F: 95 km por 625 €",
+    title: "InMotion S1F: 625 €, 675 Wh y 59 km reales",
     excerpt:
-      "El InMotion S1F rompe el mercado: 675 Wh, 80-95 km declarados, 500 W y 24 kg por 625 €. Ficha técnica y por qué es tan barato.",
+      "InMotion S1F por 625 €: batería 675 Wh, motor 500 W con pico 1.000 W, 80-95 km declarados, 59 km reales y 24 kg. Limitarlo a 25 km/h en España.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -1828,9 +1828,9 @@ Está entre los más rápidos de serie, junto al Teverun Supreme y el Nami Burn-
 
 **¿Buscas solo los datos?** <a href=/patinetes/inmotion-s1f/>Ver ficha técnica del InMotion S1F</a>: autonomía, precio y motor. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **InMotion S1F** es de esos patinetes que rompen la tabla de precios: **675 Wh** (54V 12,5Ah), **80-95 km declarados**, motor de **500 W** (1.000 W de pico) y **24 kg** por **625 €**. El coste por kilómetro de autonomía más bajo del mercado.
+Pocos patinetes colocan tanta batería por tan poco dinero: el S1F reúne 675 Wh, con 54 V y 12,5 Ah,, una horquilla declarada de 80 a 95 km, un motor nominal de 500 W que alcanza 1.000 W de pico y un peso de 24 kg, todo por 625 €. Esa relación entre euros y vatios-hora explica su tirón entre quienes recorren distancia a diario.
 
-## Ficha técnica resumida
+## Ficha resumida
 
 | Dato | Valor |
 |---|---|
@@ -1844,23 +1844,23 @@ El **InMotion S1F** es de esos patinetes que rompen la tabla de precios: **675 W
 
 ¿Quieres el detalle completo? <a href=/patinetes/inmotion-s1f/>Ficha técnica completa del InMotion S1F</a>.
 
-## Precio del InMotion S1F en España
+## Precio en España
 
-**625 €**: por ese dinero, la competencia ofrece la mitad de batería. Es su gran argumento y no tiene rival directo en euros por Wh.
+A 625 €, la oferta habitual en ese escalón se queda en torno a la mitad de capacidad. Ahí reside su principal argumento comercial: batería grande a precio de gama de acceso, sin un competidor directo en euros por vatio-hora.
 
 <img src=/media/patinetes/inmotion-s1f-2.webp alt=Detalle del display del InMotion S1F>
 
-## Autonomía real vs declarada
+## Autonomía real frente a la declarada
 
-De **80-95 km declarados** a **unos 59 km reales** en uso mixto. Sigue siendo una autonomía excelente por 625 €: la mayoría de rivales a ese precio no llegan a 40 km reales.
+La horquilla oficial se sitúa entre 80 y 95 km, mientras la estimación en uso mixto baja hasta unos 59 km. Incluso con ese recorte, la cifra supera lo habitual en patinetes de 625 €, donde muchos rivales quedan por debajo de 40 km en condiciones reales.
 
 ## Frenos y neumáticos
 
-Frenos de disco y neumáticos estándar de 10 pulgadas. Sin alardes, pero correctos para un patinete de 24 kg y 40 km/h.
+El equipo de frenada recurre al disco y las ruedas son de 10 pulgadas, una combinación sobria que encaja con un vehículo de 24 kg capaz de alcanzar 40 km/h en su ajuste abierto.
 
 ## Certificado DGT y normativa VMP
 
-Atención: declara hasta **40 km/h**, así que en España debe usarse **limitado a 25 km/h** para circular como VMP legal. Prohibido en **aceras** y obligatorio por vías permitidas.
+Su velocidad máxima declarada llega a 40 km/h, por lo que en España el uso en vía pública requiere el límite de 25 km/h para encajar en la categoría VMP. Las aceras quedan vetadas y la circulación debe hacerse por las vías autorizadas.
 
 ## Puntos fuertes y débiles
 
@@ -1874,11 +1874,11 @@ Atención: declara hasta **40 km/h**, así que en España debe usarse **limitado
 
 <img src=/media/patinetes/inmotion-s1f-3.webp alt=InMotion S1F en ciudad>
 
-## InMotion: del monociclo eléctrico al patinete de gran autonomía
+## InMotion: de los monociclos a los patinetes de largo alcance
 
-InMotion nació en el mundo de los monociclos eléctricos y aplicó esa experiencia en baterías y motores a su gama de patinetes, donde la serie S es su propuesta de larga distancia. El S1F es su versión más equilibrada: **500 W nominales y 1.000 W de pico, 675 Wh** (54 V y 12,5 Ah), **80-95 km declarados** y **24 kg** por **625 €**. El análisis original lo resume en una frase que sigue vigente: es el coste por kilómetro de autonomía más bajo del mercado, porque la competencia a ese precio ofrece la mitad de batería.
+La trayectoria de InMotion arrancó en los monociclos eléctricos, y ese bagaje en baterías y motores se trasladó después a sus patinetes, donde la serie S representa la apuesta por la distancia larga. Dentro de esa familia, el S1F ocupa el punto equilibrado: 500 W nominales con picos de 1.000 W, 675 Wh, con 54 V y 12,5 Ah, una horquilla declarada de 80 a 95 km y 24 kg por 625 €. Frente a la oferta habitual en ese precio, que ronda la mitad de batería, su capacidad marca la diferencia.
 
-## La técnica: 675 Wh mandan sobre todo lo demás
+## La técnica: la batería manda
 
 | Dato | InMotion S1F |
 |---|---|
@@ -1891,42 +1891,42 @@ InMotion nació en el mundo de los monociclos eléctricos y aplicó esa experien
 | Peso | 24 kg |
 | Neumáticos | 10 pulgadas |
 
-La cuenta es sencilla: con **675 Wh**, incluso descontando el optimismo habitual de las cifras declaradas, quedan unos **59 km reales** en uso mixto según la estimación del análisis. Eso lo cambia todo en el uso: deja de ser un patinete de barrio para convertirse en herramienta de trayectos largos o de varios días sin cargar. El motor de 500 W con picos de 1.000 W resuelve las cuestas urbanas con solvencia. Frenos de disco y neumáticos de 10 pulgadas completan un conjunto sin alardes, correcto para sus 24 kg y sus dos personalidades de velocidad: 25 o 40 km/h según el modo y el mercado.
+Con 675 Wh, aun restando el margen habitual entre cifra oficial y uso cotidiano, la estimación queda en unos 59 km en uso mixto. Ese alcance permite trayectos largos y varios días sin pasar por el cargador, en lugar de limitarse a desplazamientos cortos de barrio. El motor nominal de 500 W, que llega a picos de 1.000 W, afronta pendientes urbanas sin apuros, y el conjunto de disco y ruedas de 10 pulgadas resulta proporcionado para 24 kg y para sus dos ajustes de velocidad: 25 o bien 40 km/h según modo y mercado.
 
 ## Uso real: kilómetros primero, diseño después
 
-El S1F es para quien hace distancia: repartidores urbanos por cuenta propia, usuarios de extrarradio con trayectos de 15-25 km o quien quiera cargar una o dos veces por semana en vez de cada noche. Su diseño genérico y sus 24 kg avisan de lo contrario: no es el patinete de subir a un quinto sin ascensor ni el de presumir. En España, además, su uso en vía pública exige dejarlo en el modo de **25 km/h**, porque en su configuración de 40 km/h queda fuera de la categoría VMP. Compáralo en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
+Piensa en recorridos largos: reparto urbano por cuenta propia, extrarradio con trayectos de 15 a 25 km, o cargar solo una o dos veces cada semana en lugar de cada noche. Para eso está pensado el S1F. Su estética genérica y sus 24 kg, en cambio, lo alejan de otros usos: no es un modelo para subir a un quinto sin ascensor ni para lucirlo. En vía pública española, además, hay que dejarlo en su modo de **25 km/h**, porque con su ajuste de 40 km/h sale de la categoría VMP. Puedes cotejarlo en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
 
-## Mantenimiento y costes: batería grande, cuidados grandes
+## Cuidados y costes: cuidar la batería grande
 
-InMotion no publica una tabla de tarifas del S1F que podamos citar, y no la inventamos. Lo verificable en su clase es el mantenimiento ordinario de un patinete con freno de disco y neumáticos de 10 pulgadas: pastillas, cubiertas y el cuidado de la batería, que aquí es la pieza valiosa del conjunto. Con 675 Wh, las buenas prácticas importan más que en un patinete pequeño: evitar descargas completas prolongadas y usar su cargador original alarga la vida del componente que justifica la compra. El análisis original ya señalaba la distribución mejorable de la marca en España: confirma la posventa antes de comprar.
+La marca no difunde una tabla de tarifas del S1F citable, y aquí no se inventa ninguna. En su clase, el mantenimiento ordinario de un patinete con disco y ruedas de 10 pulgadas abarca pastillas, cubiertas y cuidar la batería, la pieza valiosa de todo el conjunto. Con 675 Wh, los buenos hábitos pesan más que en un patinete pequeño: no dejar descargas completas durante mucho tiempo y emplear su cargador original prolonga la vida útil del componente que justifica la compra. La distribución de la marca en España, ya señalada como mejorable en el análisis original, obliga a confirmar la posventa antes de comprar.
 
-## Normativa: VMP a 25 km/h y certificación de la DGT
+## Normativa: circular como VMP a 25 km/h
 
-La <a href=https://www.dgt.es>DGT</a> encuadra el patinete como vehículo de movilidad personal solo si su velocidad máxima por construcción no supera los **25 km/h**, con circulación prohibida en aceras y el certificado que la normativa exige a los modelos vendidos en España. El S1F declara hasta 40 km/h en su configuración abierta, así que en España debe usarse limitado a 25 km/h, y su conformidad plena depende del certificado del modelo concreto. Es exactamente la advertencia del análisis original: la potencia y la batería no dan derechos de circulación; los da la homologación como VMP.
+La <a href=https://www.dgt.es>DGT</a> considera vehículo de movilidad personal solo aquel cuya velocidad máxima por construcción no rebasa los **25 km/h**, con circulación vetada en aceras y con el certificado que la normativa pide a los modelos comercializados en España. El S1F anuncia hasta 40 km/h en su ajuste abierto, así que para circular en España debe ir limitado a solo 25 km/h, y su conformidad plena quedará supeditada al certificado del modelo concreto. La potencia y la batería, por sí solas, no otorgan derecho a circular: lo otorga la homologación como VMP.
 
-## Frente al InMotion S1 y al Air Pro: veredicto
+## Comparativa con el S1 y el Air Pro
 
-Su hermano con ficha, el <a href=/patinetes/inmotion-s1/>InMotion S1</a>, comparte los 675 Wh y declara 95 km con unos 61 km reales según su ficha, pero pesa solo 19 kg y está limitado de fábrica a 25 km/h: es el S1F ya legal y más ligero. El <a href=/patinetes/inmotion-air-pro/>InMotion Air Pro</a> juega a otra cosa: 400 W, 438 Wh, 48 km declarados y unos 32 reales con 17,7 kg, pensado para quien prioriza llevarlo encima. El S1F queda como el de la autonomía bruta por 625 €, con la letra pequeña de la limitación.
+El <a href=/patinetes/inmotion-s1/>InMotion S1</a>, hermano con ficha propia, comparte los 675 Wh y anuncia 95 km, y su ficha estima unos 61 km reales, aunque pesa tan solo 19 kg y sale de fábrica limitado a 25 km/h: viene a ser el S1F legal ya de fábrica y más ligero. El <a href=/patinetes/inmotion-air-pro/>InMotion Air Pro</a> apunta a otro público: 400 W, 438 Wh, 48 km anunciados y unos 32 en uso real con 17,7 kg, orientado a quien prioriza llevarlo encima. El S1F se queda con el mayor alcance bruto por 625 €, aunque con la letra pequeña de la limitación.
 
-**¿Merece la pena?** Por euros por kilómetro real, sigue siendo de lo mejor del mercado. **Para quién sí:** para quien haga muchos kilómetros y acepte limitarlo a 25 km/h en España. **Para quién no:** para quien quiera un VMP certificado sin vueltas —el S1— o un patinete ligero de última milla —el Air Pro—.
+**Veredicto: para quién encaja y para quién no.** Si se divide el precio entre los kilómetros reales estimados, el resultado queda entre los más favorables de su gama. **Para quién sí:** para quien recorra muchos kilómetros y acepte circular limitado a 25 km/h dentro de España. **Para quién no:** para quien busque un VMP certificado sin trámites —el S1— ni un patinete ligero para el último tramo —el Air Pro—.
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el InMotion S1F?
-**625 €**, uno de los mejores precios por Wh del mercado.
+### ¿Cuánto cuesta?
+**625 €**, con una de las mejores relaciones entre precio y vatios-hora de su gama.
 
 ### ¿Qué autonomía real tiene?
-Unos **59 km** en uso mixto.
+La estimación en uso mixto ronda los 59 km.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
+Sí, siempre que circule limitado a 25 km/h.
 
 ### ¿Por qué es tan barato?
-InMotion ajusta márgenes y equipamiento: es un patinete honesto sin lujos, con la inversión puesta en batería y motor.
+La marca recorta en equipamiento y margen para concentrar el gasto en batería y motor, sin adornos superfluos.
 
 ### ¿S1F o Air Pro?
-El S1F da más autonomía por menos dinero; el Air Pro pesa menos y tiene mejor sellado. Para kilómetros, S1F.
+Para recorrer distancia, el S1F ofrece más alcance por menos dinero; el Air Pro, en cambio, pesa menos y sella mejor.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
