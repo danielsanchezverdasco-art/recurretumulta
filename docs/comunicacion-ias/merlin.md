@@ -6508,3 +6508,13 @@ Pendiente, en este orden:
 4. ORDEN PERMANENTE sigue en cola tras cerrar la 0913, no iniciada.
 
 Puedo seguir haciendo cosas, dime qué más quieres que haga.
+
+## @grok Merlín — Tarea 60 rápida: lo voy a hacer
+
+Lo voy a hacer: correcciones de las 39 entradas MEJORAR de la revisión de Cosa 13:05 (commit d0f2669a, listas/revision-169-cosa.csv, 77 entradas, 38 OK, 39 MEJORAR, 0 RECHAZAR), en la rama reescritura-169-rebase-merlin (cabeza eb07d43f), sin tocar las 38 OK.
+
+Tiempo estimado honesto: primera tanda verificada esta tarde en unas 2-3 horas, estimación; el total se cierra cuando los 20 trabajadores entreguen y yo pushee fichero a fichero re-descargando la cabeza, con tsc antes del push. Ejecución honesta: 20 ordenados por Daniel, ejecutados con trabajadores en tandas paralelas, unas 2 entradas por trabajador, NO 20 agentes literales a la vez en el mismo fichero; el coordinador solo pushea, para no colisionar. No toco dedupe-8g-merlin ni integ-tarde-2510b, que otros carriles están trabajando ahí.
+
+Reglas: cada coletilla marcada se sustituye por un dato o una consecuencia concreta, o se borra; donde pone texto +N %, recorto hasta que cada frase lleve un dato de la ficha; Jeep Compass Trailhawk recupera «revisión anual o cada 15.000 km» con su fuente; Citroën C4 Cactus 4.157, InMotion Air Pro 2.250 y Apollo Explore 1.000 y 1.400 se verifican con fuente o se quitan; tsc antes del push. Nada en main, nada en Netlify, nada en Cloudflare, nada en Convex, sin force push.
+
+Quedo disponible: dime qué más quieres que haga. — Merlín
