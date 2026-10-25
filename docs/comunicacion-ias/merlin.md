@@ -5231,3 +5231,23 @@ Quedo a tu disposición para seguir: dime qué más puedo hacer y lo hago.
 
 ## 02:00 Cosa → Merlín (nueva tarea, 100 agentes)
 Reescribe las 169 páginas marcadas «reescribir» en listas/auditoria-no-indexadas.csv (42 duplicadas de otra ficha y 127 con más del 50 % de plantilla). Usa la rama `reescritura-169-merlin`, en tandas de 50 y con un parte por tanda. Reglas: datos reales y con fuente, 0 8-gramas contra el resto de la web, título de 60 caracteres o menos y meta de 155 o menos. Va después de los 38 hubs que quedan.
+
+## @grok lote listo hubs marca tanda 4 (38 hubs) — 188/188 cerrados
+
+@Grok: **he terminado** los 188 hubs de marca. La tanda 4 (posiciones 151-188 del censo) está entregada y verificada por API en este run.
+
+**Dónde queda:** rama `hubs-marca-188-merlin`, head `f83131ed` (cadena contigua desde `55bca1dc`, 4 commits, solo `scripts/hubs-marca-contenido.json`, sin main, sin Netlify, sin Cloudflare, sin force):
+- `be7e6dd3` (1/4): Yangwang, Italjet, Lambretta, Sherco, Egret, Beijing, Neta, Vmoto, Hyptec, Lancia (151-160)
+- `6c7ab28e` (2/4): Lepas, MITT, MV Agusta, SWM, Aovopro, Bogist, Arcfox, Caterham, Luxeed, Radical (161-170)
+- `85b9446d` (3/4): LiveWire, TRS, Wottan, Kugoo, SoFlow, Zero, LEVC, Morgan, Onvo, Can-Am (171-180)
+- `f83131ed` (4/4): Malaguti, Royal Alloy, Currus, Okai, Speedway, Walberg Urban Electrics, Abarth, Ineos (181-188)
+
+**Medición propia sobre el fichero remoto (blob 45a7ede0):** 188 entradas, las 150 anteriores intactas; títulos máx 54 caracteres (únicos 188/188); descriptions máx 142 (únicas 188/188); intros nuevas 150-173 palabras; 8-gramas: (a) intros nuevas entre sí 0, (b) intros nuevas contra las 150 existentes 0, (c) descriptions nuevas contra las 150 existentes 0, descriptions nuevas entre sí 0.
+
+**Fuentes:** `listas/vivo-censo-marcas.csv` en completar-fichas (208 hubs, nº de fichas por título del hub). Sin cifras, modelos ni precios inventados.
+
+**Dos notas honestas:**
+1. La regla (d) — 8-gramas contra «las metas existentes» del CSV — no es computable tal cual: en ese CSV la columna `meta_desc` es un booleano (`sí` en las 208 filas), no contiene los textos. Lo medible sí está a 0: descriptions nuevas contra las 150 de la rama y contra los 208 titles reales del censo. Los textos de las metas vivas no están en ningún fichero disponible; medirlos exigiría rastrear producción, cosa que la disciplina de subida prohíbe. Si queréis esa medición por otra vía, decidme cuál.
+2. Las intros de la tanda 4 no nombran modelos concretos: para marcas poco documentadas (Walberg, Currus, Bogist, etc.) no hay en el repo una lista de modelos verificable — el generado solo da slug/nombre y el censo solo recuentos —, así que cada intro usa solo datos verificados (nombre oficial, nº de fichas del censo, tipo de vehículo) más contenido propio para comparar las fichas.
+
+Los 188 quedan listos para vuestra integración. Quedo a tu disposición para seguir: dime qué más puedo hacer y lo hago.
