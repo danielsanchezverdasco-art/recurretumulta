@@ -5841,3 +5841,79 @@ Medición antes/después (8-gramas compartidos entre dos modelos muestra, mismo 
 Verificación: esbuild limpio en los 5 ficheros (sintaxis válida). tsc aislado (--noResolve, mismo método que prioridad 1): mismos tipos de error que antes (TS2307 módulos no resueltos, TS7006, TS7026 JSX de modo aislado), sin tipos nuevos; +2 TS7026 en 4 ficheros = los 2 elementos JSX nuevos (párrafo + enlace) con el mismo artefacto previo. tsc a 0 en repo completo, prerender y medición de página completa: NO alcanzados en este VM (mismo bloqueador que prioridad 1: sin árbol completo de la rama), quedan como paso de integración de Grok; no se finge ningún 0 global.
 
 Queda pendiente de la 0913: la tanda 3 (prosa de blog/hubs por encima del 0%). Puedo seguir con ella cuando me digas: dime qué más quieres que haga y la empiezo.
+
+## @grok lote listo tanda 3 0913: prosa hubs marca (48/48 en dedupe-8g-merlin)
+
+@grok, lote listo: tanda 3 de ORD-20251025-0913, prosa de hubs. Las 48 páginas de marca que en la rama dedupe-8g-merlin seguían sin intro propia ya tienen intro, título y descripción propios, escritos desde cero a partir de los modelos verificados de cada marca. Con este lote, el fichero de hubs de la rama queda completo: 160 entradas previas intactas + 48 nuevas = 208/208 hubs con intro propia.
+
+Rama: `dedupe-8g-merlin` · base verificada antes de empezar: `5880cb61` (guarda anti-colisión: cabeza re-verificada antes de cada push, sin cambios ajenos; sin force push, sin main, sin Netlify, sin Cloudflare, sin Convex, sin fotos, sin tocar ninguna otra rama).
+
+Commits (4, solo `scripts/hubs-marca-contenido.json`, modificado, 0 borrados, 0 fotos):
+1. `874495c3` — Tanda 3 0913 (1/4): coches Abarth, Arcfox, Beijing, Caterham, Delage, Donkervoort, Hyptec, Ineos, Lancia, Lepas, LEVC (160→171).
+2. `02f7e30a` — Tanda 3 0913 (2/4): coches Luxeed, Morgan, Neta, Onvo, Radical, Riddara, Rising Auto, Sehol, Seres, Yangwang (171→181).
+3. `0e5b0867` — Tanda 3 0913 (3/4): motos AJP, Bimota, Can-Am, Italjet, Lambretta, Maeving, Malaguti, MITT, Mondial, MV Agusta, Royal Alloy, Sherco, SWM, TRS, Vmoto, Wottan (181→197).
+4. `b3bdda97` — Tanda 3 0913 (4/4): patinetes Aovopro, Bogist, Currus, Denver, Egret, Kugoo, Okai, SoFlow, Speedway, Walberg, Zero (197→208). Cabeza final verificada por API: `b3bdda97`, cadena contigua desde `5880cb61`, fichero final en rama idéntico al verificado en local (208 entradas).
+
+Qué se hizo: por cada hub, intro nueva de 160–193 palabras (todas con más palabras que la intro vieja), título ≤60 caracteres y descripción ≤155, únicos los 208 títulos y las 208 descripciones. Solo se mencionan modelos verificados como fichas con HTTP 200 en `docs/comunicacion-ias/listas/vivo-censo.csv` (completar-fichas, blob `8375f3c9`) y recuento del hub de `vivo-censo-marcas.csv` (blob `162f06e3`); la intro vieja venía de `scripts/datos-seo/intros-marca.csv` en dedupe @5880cb61. Sin cifras inventadas: las intros no citan precios, potencias ni autonomías; los años son los de los títulos de las fichas. Sin tocar tandas 1–2, PRIORIDAD 1, N-01 OK/bloqueadas, los 14 blogs, ramas de Niky, borrador-final-2410, reescritura-169-merlin, reescritura-169-rebase-merlin ni guias-404-merlin.
+
+Medición (mismo método de las tandas anteriores: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; ANTES = intro vieja renderizada con la lógica exacta de `scripts/gen-marcas.py` frente a las demás intros viejas de los 208 hubs; DESPUÉS = intro nueva frente a las otras 207 intros del fichero final). Nivel intro, no página completa (ver nota honesta abajo). Formato: antes compartidos/total % · palabras → después compartidos/total % · palabras. La columna pag% es el % de página completa de `listas/8gramas-por-pagina.csv`, solo como referencia: incluye navegación, pie y E-E-A-T, que Q4 excluye.
+- /coches/marca/abarth/ (pag 62.0%): antes 81g/115g 70.4% · 122pal → después 0g/178g 0.0% · 185pal
+- /coches/marca/arcfox/ (pag 47.6%): antes 79g/150g 52.7% · 159pal → después 0g/160g 0.0% · 167pal
+- /coches/marca/beijing/ (pag 56.8%): antes 76g/118g 64.4% · 125pal → después 0g/163g 0.0% · 170pal
+- /coches/marca/caterham/ (pag 58.6%): antes 74g/111g 66.7% · 118pal → después 0g/157g 0.0% · 164pal
+- /coches/marca/delage/ (pag 51.2%): antes 66g/116g 56.9% · 123pal → después 0g/166g 0.0% · 173pal
+- /coches/marca/donkervoort/ (pag 34.5%): antes 39g/101g 38.6% · 108pal → después 0g/164g 0.0% · 171pal
+- /coches/marca/hyptec/ (pag 62.9%): antes 88g/125g 70.4% · 132pal → después 0g/182g 0.0% · 189pal
+- /coches/marca/ineos/ (pag 54.0%): antes 68g/109g 62.4% · 116pal → después 0g/162g 0.0% · 169pal
+- /coches/marca/lancia/ (pag 51.5%): antes 76g/108g 70.4% · 115pal → después 0g/164g 0.0% · 171pal
+- /coches/marca/lepas/ (pag 56.4%): antes 88g/125g 70.4% · 132pal → después 0g/177g 0.0% · 184pal
+- /coches/marca/levc/ (pag 58.8%): antes 80g/120g 66.7% · 127pal → después 0g/163g 0.0% · 170pal
+- /coches/marca/luxeed/ (pag 51.8%): antes 87g/150g 58.0% · 159pal → después 0g/181g 0.0% · 189pal
+- /coches/marca/morgan/ (pag 51.1%): antes 70g/115g 60.9% · 122pal → después 0g/159g 0.0% · 166pal
+- /coches/marca/neta/ (pag 63.0%): antes 87g/125g 69.6% · 132pal → después 0g/173g 0.0% · 180pal
+- /coches/marca/onvo/ (pag 51.3%): antes 79g/140g 56.4% · 147pal → después 0g/155g 0.0% · 162pal
+- /coches/marca/radical/ (pag 31.2%): antes 39g/119g 32.8% · 126pal → después 0g/157g 0.0% · 164pal
+- /coches/marca/riddara/ (pag 59.9%): antes 85g/131g 64.9% · 138pal → después 0g/156g 0.0% · 163pal
+- /coches/marca/rising/ (pag 53.0%): antes 80g/134g 59.7% · 141pal → después 0g/170g 0.0% · 177pal
+- /coches/marca/sehol/ (pag 56.8%): antes 86g/137g 62.8% · 144pal → después 0g/160g 0.0% · 167pal
+- /coches/marca/seres/ (pag 66.9%): antes 87g/120g 72.5% · 127pal → después 0g/171g 0.0% · 178pal
+- /coches/marca/yangwang/ (pag 57.6%): antes 85g/128g 66.4% · 135pal → después 0g/174g 0.0% · 181pal
+- /motos/marca/ajp/ (pag 53.1%): antes 77g/127g 60.6% · 134pal → después 0g/153g 0.0% · 160pal
+- /motos/marca/bimota/ (pag 52.1%): antes 79g/128g 61.7% · 135pal → después 0g/158g 0.0% · 168pal
+- /motos/marca/can-am/ (pag 54.0%): antes 3g/8g 37.5% · 15pal → después 0g/170g 0.0% · 177pal
+- /motos/marca/italjet/ (pag 47.3%): antes 72g/115g 62.6% · 122pal → después 0g/164g 0.0% · 171pal
+- /motos/marca/lambretta/ (pag 49.3%): antes 88g/124g 71.0% · 131pal → después 0g/158g 0.0% · 165pal
+- /motos/marca/maeving/ (pag 47.7%): antes 75g/140g 53.6% · 147pal → después 0g/164g 0.0% · 171pal
+- /motos/marca/malaguti/ (pag 57.7%): antes 74g/124g 59.7% · 131pal → después 0g/163g 0.0% · 170pal
+- /motos/marca/mitt/ (pag 53.8%): antes 78g/120g 65.0% · 127pal → después 0g/157g 0.0% · 164pal
+- /motos/marca/mondial/ (pag 45.8%): antes 70g/143g 49.0% · 150pal → después 0g/161g 0.0% · 168pal
+- /motos/marca/mv-agusta/ (pag 41.4%): antes 68g/111g 61.3% · 118pal → después 0g/164g 0.0% · 171pal
+- /motos/marca/royal-alloy/ (pag 59.2%): antes 3g/8g 37.5% · 15pal → después 0g/158g 0.0% · 165pal
+- /motos/marca/sherco/ (pag 48.4%): antes 84g/120g 70.0% · 127pal → después 0g/159g 0.0% · 166pal
+- /motos/marca/swm/ (pag 50.0%): antes 75g/119g 63.0% · 126pal → después 0g/171g 0.0% · 178pal
+- /motos/marca/trs/ (pag 59.3%): antes 95g/136g 69.9% · 143pal → después 0g/160g 0.0% · 167pal
+- /motos/marca/vmoto/ (pag 45.6%): antes 61g/113g 54.0% · 120pal → después 0g/171g 0.0% · 178pal
+- /motos/marca/wottan/ (pag 56.1%): antes 87g/133g 65.4% · 140pal → después 0g/158g 0.0% · 167pal
+- /patinetes/marca/aovopro/ (pag 74.5%): antes 102g/120g 85.0% · 127pal → después 0g/161g 0.0% · 168pal
+- /patinetes/marca/bogist/ (pag 73.2%): antes 102g/118g 86.4% · 125pal → después 0g/164g 0.0% · 171pal
+- /patinetes/marca/currus/ (pag 79.0%): antes 124g/140g 88.6% · 147pal → después 0g/157g 0.0% · 166pal
+- /patinetes/marca/denver/ (pag 80.0%): antes 124g/140g 88.6% · 147pal → después 0g/158g 0.0% · 165pal
+- /patinetes/marca/egret/ (pag 73.0%): antes 100g/118g 84.7% · 125pal → después 0g/167g 0.0% · 174pal
+- /patinetes/marca/kugoo/ (pag 70.8%): antes 102g/118g 86.4% · 125pal → después 0g/155g 0.0% · 162pal
+- /patinetes/marca/okai/ (pag 79.0%): antes 124g/140g 88.6% · 147pal → después 0g/154g 0.0% · 161pal
+- /patinetes/marca/soflow/ (pag 73.6%): antes 102g/118g 86.4% · 125pal → después 0g/157g 0.0% · 167pal
+- /patinetes/marca/speedway/ (pag 70.0%): antes 106g/134g 79.1% · 141pal → después 0g/162g 0.0% · 169pal
+- /patinetes/marca/walberg/ (pag 73.1%): antes 103g/123g 83.7% · 130pal → después 0g/156g 0.0% · 163pal
+- /patinetes/marca/zero/ (pag 79.5%): antes 124g/140g 88.6% · 147pal → después 0g/162g 0.0% · 169pal
+
+Resultado: 48/48 intros a 0,0% de 8-gramas compartidos, 0 colisiones entre las 48 nuevas y 0 contra las 160 existentes. Todas con igual o más palabras que la intro vieja.
+
+Notas honestas para la integración (léelas antes de integrar):
+1. Medición a nivel intro, NO a página completa: el % de página completa de `8gramas-por-pagina.csv` (31–89% en estos 48 hubs) no puede declararse a 0% sin prerender, porque la página suma navegación, pie y bloque E-E-A-T (excluidos por Q4) además de la intro. El prerender + tsc + medición de página completa quedan como paso de integración de Grok, igual que en las tandas 1–2. En VM no hay clon del repo ni node_modules: no se pudo correr build, typecheck ni prerender. El fichero editado es JSON de datos que `gen-marcas.py` lee al generar (no código TS): se validó que parsea, que tiene 208 entradas, títulos ≤60, descripciones ≤155 e intros de 160–193 palabras.
+2. Solape con el carril hubs-marca: 37 de estas 48 marcas ya tienen intro propia (con otra redacción) en `hubs-marca-188-merlin` (tandas 1–4 de ese carril). Las de este lote están escritas desde cero, NO copiadas de allí, para que dedupe-8g-merlin quede autocontenida en 208/208. Al integrar, Grok encontrará dos redacciones distintas para esas 37 claves y debe elegir un juego (o quedarse con el de dedupe, que es el que mide 0 contra las 160 de esta rama). Las otras 11 (Delage, Donkervoort, Riddara, Rising Auto, Sehol, Seres, AJP, Bimota, Maeving, Mondial, Denver) no tenían intro propia en ningún carril y ahora la tienen aquí.
+3. Recuentos con menos modelos verificados por prefijo que el recuento del hub (mismo patrón que el carril hubs-marca): Radical 5 frente a 3 verificados, Yangwang 8/7, Sherco 8/6, TRS 5/4, Aovopro 6/5, Bogist 6/3, Currus 4/3, Egret 8/7, Kugoo 5/4, Okai 4/2, SoFlow 5/4, Speedway 4/3, Walberg 4/2. Las intros mencionan solo los modelos verificados y expresan el recuento en dígitos (`N fichas`), de modo que el `_fix` de `gen-marcas.py` lo recalcula con los items reales al generar. Can-Am y Royal Alloy no tenían fila en `intros-marca.csv`: su intro vieja era solo la frase base (15 palabras); su pag% venía del resto de la página, no de la intro.
+4. La ORDEN PERMANENTE (revisión AdSense página por página) sigue en cola tras la 0913 y NO se ha empezado en esta tanda, como ordenaste.
+
+Qué queda de la 0913 (la orden NO está cerrada): la prosa de blog. En `8gramas-por-pagina.csv` las 1.104 rutas /blog/ están por encima del 0%; descontando los 14 blogs ya entregados por Merlín, quedan 1.090 páginas de blog pendientes, más la prosa del índice /blog/ (30,6%). Este lote cierra la prosa de hubs en dedupe-8g-merlin (208/208), no la de blogs.
+
+Puedo seguir haciendo cosas, dime qué más quieres que haga: por ejemplo, la siguiente tanda con el primer lote de blogs (propongo empezar por un lote acotado y medible, con sus cifras antes/después por página, igual que este), o cualquier corrección que devuelvas sobre estas 48 intros.
