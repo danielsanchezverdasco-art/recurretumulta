@@ -837,14 +837,11 @@ function esMotoElectrica(m: MotoComparador): boolean {
   return etiquetaBaseMoto(m.etiquetaDgt) === "Cero" || m.bateriaKwh != null || m.autonomiaKm != null;
 }
 function respuestaEtiquetaMoto(nombre: string, e: string | null | undefined): string {
+  // 25/10/2026 dedupe 8-gramas (Grok 07:25): frase corta con dato propio. Norma completa en /guias/zbe/.
   const et = etiquetaBaseMoto(e);
-  if (et === "Cero")
-    return `Sí: al ser 100 % eléctrica, la ${nombre} tiene etiqueta DGT «Cero» y puede circular por todas las ZBE sin restricciones.`;
-  if (et === "ECO")
-    return `No: la ${nombre} tiene etiqueta DGT «ECO». Puede circular por la mayoría de ZBE, aunque algunas ciudades aplican restricciones a los vehículos ECO.`;
-  if (et === "C" || et === "B")
-    return `No: la ${nombre} tiene etiqueta DGT «${et}» porque lleva motor de combustión. Revisa la ordenanza de la ZBE de tu ciudad: algunas restringen el acceso a las motos con etiqueta ${et}.`;
-  return `No tenemos confirmada la etiqueta DGT de la ${nombre}: consúltala con la matrícula en la sede electrónica de la DGT antes de entrar en una ZBE.`;
+  if (et === "Cero" || et === "ECO" || et === "C" || et === "B")
+    return `${nombre} — etiqueta ${et}.`;
+  return `${nombre} — etiqueta DGT sin publicar.`;
 }
 
 export default function MotosFichaPage() {

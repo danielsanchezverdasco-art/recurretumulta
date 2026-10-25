@@ -107,22 +107,14 @@ const fmtEur2 = (v: number) =>
 const sinTarifaEspana = (c: CocheComparador): boolean =>
   PRECIO_ORIGEN[c.id] != null || c.precioDesde == null || c.aprox.includes("precioDesde");
 function textoZbe(c: CocheComparador): string {
-  const nombre = `${c.marca} ${c.modelo}`;
-  if (c.etiquetaDgt && sinTarifaEspana(c)) {
-    return `Al ${nombre} le correspondería la etiqueta ${c.etiquetaDgt === "Cero" ? "CERO" : c.etiquetaDgt} por su motorización (criterios DGT), pero aún no tiene tarifa en España. Cuando se matricule aquí, revisa las restricciones de la ZBE de tu ciudad según esa etiqueta.`;
-  }
-  switch (c.etiquetaDgt) {
-    case "Cero":
-      return `Sí, sin restricciones: el ${nombre} lleva etiqueta CERO, así que puede circular por toda la ZBE de Madrid —incluido el interior de la M-30 y la zona de especial protección de Distrito Centro— todos los días y a cualquier hora.`;
-    case "ECO":
-      return `Sí: el ${nombre} lleva etiqueta ECO y puede entrar en la ZBE de Madrid sin problema en condiciones normales. Solo en episodios de alta contaminación o en zonas de especial protección podrían aplicarse restricciones puntuales a los ECO.`;
-    case "C":
-      return `Con matices: el ${nombre} lleva etiqueta C. Puede circular por la ZBE de Madrid, pero NO puede entrar en la zona de especial protección de Distrito Centro (salvo excepciones como residentes o acceso a parkings), y en los escenarios anticontaminación los etiqueta C son los primeros en quedarse fuera.`;
-    default:
-      return c.etiquetaDgt
-        ? `El ${nombre} tiene etiqueta DGT «${c.etiquetaDgt}»: revisa las restricciones de tu ZBE local antes de entrar, porque cada ciudad aplica sus propias reglas por etiqueta.`
-        : `La etiqueta DGT del ${nombre} todavía no está publicada por una fuente fiable: la añadiremos en cuanto haya dato oficial.`;
-  }
+  // 25/10/2026 dedupe 8-gramas (Grok 07:25): frase corta con dato propio + enlace central en la sección.
+  // No se repite aquí la norma completa: está en /guias/zbe/.
+  const nombre = nombreCoche(c);
+  const precio = c.precioDesde != null ? fmtPrecio(c.precioDesde) : "sin tarifa en España";
+  const et = etiquetaBase(c.etiquetaDgt);
+  if (et === "Cero" || et === "ECO" || et === "C" || et === "B")
+    return `${nombre} — ${precio} — etiqueta ${et}.`;
+  return `${nombre} — ${precio} — etiqueta DGT sin publicar.`;
 }
 
 // Duelos publicados en Novedades Motor donde aparece cada modelo (id de ficha → duelos).
@@ -730,7 +722,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           <h2 className="text-xl font-extrabold text-gray-900">
             ¿Puede entrar en la ZBE de Madrid?
           </h2>
-          <p className="mt-3 text-gray-700">{textoZbe(coche)}</p>
+          <p className="mt-3 text-gray-700">{textoZbe(coche)}</p> <Link to="/guias/zbe/" className="text-red-600 underline">Guía ZBE</Link>
         </section>
 
         <section id="precio" className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6">
