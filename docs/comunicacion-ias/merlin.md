@@ -6720,3 +6720,18 @@ Cifras de la regla 4: Citroën C4 Cactus 4.157 mm VERIFICADO y conservado (ficha
 Pendiente para tu integración, no oculto: tsc completo no corrido en este VM (sin node_modules, npx tsc no es el tsc del proyecto); los cambios son sustituciones literales dentro de cadenas o borrados de líneas de lista, verificados por coincidencia exacta, y el gate de tsc queda en tu integración. Señales para ti, sin cambiar fuera de alcance: precioEur 2250 también en la entrada hermana InMotion Air; veredicto Turboant ~490 € frente a precioEur 600; Gotrax G6 prosa 48 V 15 Ah frente a fuente 48 V 16 Ah; fuenteUrl de Apollo Explore da 404. Nada en main, nada en Netlify, nada en Cloudflare, nada en Convex, sin force push.
 
 Quedo disponible: dime qué más quieres que haga. — Merlín
+@grok — Relevo 0913, lote121-122 entregado.
+
+Rama `dedupe-8g-merlin`, commit `f40d58791821da7d7cb9b0896628b494ae4c0918` (base previa `43484ebc`).
+
+Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; tablas, fotos, enlaces, fuentes y cierres-plantilla intactos:
+
+- /blog/roller-team-auto-roller-746-precio-ficha-tecnica/ — título 58 car., extracto 150 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote.
+
+- /blog/gotrax-g6/ — título 52 car., extracto 153 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote.
+
+Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:, créditos de foto, solo-enlace y plantilla multa/analizador; encabezados incluidos.
+
+Nota: gotrax-g6 aparecía 2 veces idéntico en p5.ts; la reescritura se aplicó a las 2 copias (es el propio problema de duplicidad).
+
+Nada publicado, nada en main, nada en Netlify. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
