@@ -206,5 +206,85 @@
     "intro": "Si buscas una moto eléctrica para moverte por la ciudad sin pasar por un scooter anodino, Horwin tiene una gama entera para comparar: 11 fichas entre scooters y motos con estilo propio. La familia SK y la EK, con la EK1 y la EK3, cubren el uso urbano con dos niveles de potencia; la CR6 y su versión Pro recuperan la estética clásica con motor eléctrico; y la DS1, la HT5 y la Senmenti 0 completan el catálogo hacia el reparto y el uso práctico. Lo que cambia de unas a otras es la autonomía, la velocidad y el formato, así que la elección empieza por el uso diario, no por el nombre.",
     "n": 11,
     "url": "/motos/marca/horwin/"
+  },
+  "motos/husqvarna": {
+    "nombre": "Husqvarna",
+    "title": "Husqvarna: 17 motos entre trail, naked y enduro",
+    "description": "Las 17 fichas Husqvarna: Norden 901 trail, Svartpilen y Vitpilen naked, y FE y TE de enduro, con cilindradas y carnets para comparar.",
+    "intro": "Husqvarna reparte sus 17 fichas entre tres mundos que no se pisan: la trail Norden 901, también en versión Expedition para viajar cargado; las naked Svartpilen 401 y 801 y la Vitpilen 125, con su estética minimalista tan reconocible; y el enduro puro de las FE 350 y FE 450 y la TE 300 de dos tiempos, más la 701 Enduro y la 701 Supermoto para quien quiere una sola moto polivalente. La gama cubre desde el carnet A1 y el B convalidado hasta el A, así que el primer filtro no es el precio sino el permiso y el uso: ciudad, viaje o campo. Comparar peso, altura de asiento y cilindrada entre estas fichas evita acabar con una enduro para ir a trabajar o con una naked para hacer pistas.",
+    "n": 17,
+    "url": "/motos/marca/husqvarna/"
+  },
+  "motos/livewire": {
+    "nombre": "LiveWire",
+    "title": "LiveWire: 5 eléctricas premium para comparar",
+    "description": "Las 5 fichas LiveWire: la One y la familia S2 con Del Mar, Mulholland y Alpinista, todas eléctricas y con su autonomía y peso.",
+    "intro": "LiveWire nació como la apuesta eléctrica de Harley-Davidson y hoy camina sola con una idea clara: motos eléctricas sin aspecto de electrodoméstico. La One es la naked de referencia de la marca, y la familia S2 reparte el resto del catálogo entre la Del Mar, la Mulholland de aire custom y la Alpinista, más orientada a la carretera. Son 5 fichas en las que lo que más cambia es la autonomía, el peso y la postura, no el concepto: todas comparten motor eléctrico, cambio inexistente y un precio de segmento premium. Quien compare aquí debe mirar la autonomía real y la red de carga, porque la potencia sobra en todas.",
+    "n": 5,
+    "url": "/motos/marca/livewire/"
+  },
+  "motos/mitt": {
+    "nombre": "MITT",
+    "title": "MITT: 6 motos asequibles desde el 125",
+    "description": "Las 6 fichas MITT: 125 GT Max, NK 125 y GP2 125 para el A1, y la TT 530 como tope de gama trail.",
+    "intro": "MITT juega la carta del precio de entrada: la mitad de sus fichas son 125, accesibles con los permisos habituales para moto ligera. La 125 GT Max es la rutera de la gama, la NK 125 la naked urbana y la GP2 125 la deportiva de iniciación, mientras que la TT 530 sube el listón hacia el trail de media cilindrada. Con 6 fichas, la comparación es rápida: cilindrada, peso y equipamiento deciden, y el salto de una 125 a la 530 es el salto de usar la moto a diario a viajar con ella. Es una marca para empezar sin gastar lo que cuesta una japonesa equivalente.",
+    "n": 6,
+    "url": "/motos/marca/mitt/"
+  },
+  "motos/montesa": {
+    "nombre": "Montesa",
+    "title": "Montesa: 3 trial Cota para comparar",
+    "description": "Las 3 fichas Montesa: Cota 4RT 260R, Cota 4RT 301RR y Cota 4Ride, todo trial con el sello de la marca española.",
+    "intro": "En Montesa no hay que elegir entre muchos mundos: las 3 fichas son trial, y la familia Cota lo explica todo. La Cota 4RT 260R es la puerta de entrada al trial de cuatro tiempos, la 301RR sube el listón hacia la competición, y la 4Ride añade un punto de polivalencia para quien quiere practicar sin una moto de carreras pura. Es la marca española de trial por antonomasia, con décadas de historia detrás de cada modelo, y aquí la comparación se hace por nivel de pilotaje y por exigencia de mantenimiento, no por potencia bruta: en trial manda la ligereza y la entrega a bajo régimen.",
+    "n": 3,
+    "url": "/motos/marca/montesa/"
+  },
+  "motos/moto-morini": {
+    "nombre": "Moto Morini",
+    "title": "Moto Morini: 11 motos italianas con carácter",
+    "description": "Las 11 fichas Moto Morini: X-Cape trail, Seiemmezzo y Calibro custom, Corsaro, Alltrhike, Kanguro y Rumble.",
+    "intro": "Moto Morini vuelve con una gama italiana que se lee por familias: la X-Cape 650, 700 y 1200 cubre el trail en tres escalones; la Seiemmezzo SCR y STR y la Calibro 700 ponen el acento custom y scrambler; y, por último, la Corsaro 750 Sport, la Alltrhike 450, la Kanguro 300 y la Rumble 350 aportan el lado ligero y deportivo. Son 11 fichas con un hilo común: motores con carácter y una estética que no copia a nadie. Al comparar conviene separar las trail de las custom, porque comparten marca pero no uso: unas piden maletas y otras piden curvas.",
+    "n": 11,
+    "url": "/motos/marca/moto-morini/"
+  },
+  "motos/piaggio": {
+    "nombre": "Piaggio",
+    "title": "Piaggio: 11 scooters urbanos y de tres ruedas",
+    "description": "Las 11 fichas Piaggio: Beverly, Liberty y Medley para la ciudad, MP3 de tres ruedas y la eléctrica Piaggio 1.",
+    "intro": "Piaggio es, en estas 11 fichas, la ciudad en todas sus formas. La Beverly 310 y 400, la Liberty 125 y la Medley en 125 y 200 resuelven el desplazamiento diario con rueda alta y hueco bajo el asiento; la MP3 400 Sport y la MP3 530 Exclusive añaden la tercera rueda para quien busca estabilidad extra; y la Piaggio 1, con sus versiones Active y Plus, pone la opción eléctrica para trayectos cortos. La elección aquí pasa por el carnet, el peso y si se necesita autopista: una Liberty 125 no es una Beverly 400, aunque ambas lleven el mismo escudo.",
+    "n": 11,
+    "url": "/motos/marca/piaggio/"
+  },
+  "motos/royal-alloy": {
+    "nombre": "Royal Alloy",
+    "title": "Royal Alloy: 4 scooters clásicos con estilo",
+    "description": "Las 4 fichas Royal Alloy: GP 125 y GP 300 S, y TG 125 y TG 300 S, scooters retro con carrocería de acero.",
+    "intro": "Royal Alloy hace scooters que parecen salidos de otra época y funcionan como los de hoy: la GP 125 y la GP 300 S son la pareja de estilo clásico con dos niveles de potencia, y la TG 125 y la TG 300 S completan la gama con su propia carrocería retro. Son solo 4 fichas, así que la decisión es sencilla: 125 para ciudad y carnet A1 o B, 300 para salir a carretera con margen. Lo que no cambia entre unas y otras es el planteamiento: chasis de acero, estética cuidada y un puesto de conducción clásico que no busca la deportividad sino el paseo con presencia.",
+    "n": 4,
+    "url": "/motos/marca/royal-alloy/"
+  },
+  "motos/silence": {
+    "nombre": "Silence",
+    "title": "Silence: 9 eléctricas españolas para la ciudad",
+    "description": "Las 9 fichas Silence: S01, S02 y S03 eléctricos, y el microcoche S04, con baterías extraíbles y versiones L6e y L7e.",
+    "intro": "Silence es la eléctrica española pensada para la ciudad y para trabajar en ella. La S01 y su versión Plus son el scooter de referencia de la marca, la S02 y sus variantes HS y LS suben hacia el reparto y el uso profesional, y la S03 amplía la oferta, mientras que la S04, en versiones L6e y L7e, da el salto al microcoche eléctrico. En estas 9 fichas lo decisivo es la batería extraíble y la autonomía según el uso: un repartidor no necesita lo mismo que quien va a la oficina. Comparar potencia, carga útil y formato evita pagar de más por una moto de trabajo o quedarse corto con una urbana.",
+    "n": 9,
+    "url": "/motos/marca/silence/"
+  },
+  "motos/stark": {
+    "nombre": "Stark Future",
+    "title": "Stark Future: 3 Varg eléctricas de off-road",
+    "description": "Las 3 fichas Stark Future: Varg EX, Varg MX y Varg SM, eléctricas de campo con potencia de cross de competición.",
+    "intro": "Stark Future tiene una sola idea y la ejecuta en tres versiones: la Varg. La EX es la enduro matriculable, la MX es la de motocross puro y la SM lleva el concepto al supermotard, siempre con motor eléctrico y sin marchas. Son 3 fichas de una marca española que nació para demostrar que el eléctrico puede ganar en el campo, no solo en la ciudad. Aquí no hay scooters ni trails: la comparación se hace por circuito, por homologación y por autonomía en uso intensivo, porque una Varg se compra para usarla a fondo, no para pasear.",
+    "n": 3,
+    "url": "/motos/marca/stark/"
+  },
+  "motos/torrot": {
+    "nombre": "Torrot",
+    "title": "Torrot: 2 Muvi eléctricas urbanas",
+    "description": "Las 2 fichas Torrot: Muvi City y Muvi Executive L3, scooters eléctricos españoles para moverse por la ciudad.",
+    "intro": "Torrot resume su gama en dos nombres: la Muvi City y la Muvi Executive L3. Ambas son scooters eléctricos urbanos de marca española, pensados para el desplazamiento diario sin gasolina ni mantenimiento de motor térmico. La diferencia entre las dos fichas está en el equipamiento y en el planteamiento de uso: una urbana sencilla y otra con un punto más de presencia y dotación. Con solo 2 fichas, la elección se reduce a lo esencial: autonomía necesaria, presupuesto y si el uso es particular o compartido.",
+    "n": 2,
+    "url": "/motos/marca/torrot/"
   }
 }
