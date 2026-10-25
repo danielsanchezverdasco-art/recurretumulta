@@ -446,5 +446,69 @@
     "intro": "ZWheel es la marca española de patinetes asequibles con certificado DGT en buena parte de la gama. La ZLion X Max es la referencia por precio y equipamiento, la E9D, la E9T y la E12 cubren el urbano de entrada, y la ZFox Max y la ZWolf Duo completan una gama pensada para la ciudad española. Son 10 fichas con un argumento común: legalidad, precio contenido y servicio cercano. Al comparar, lo que más cambia es la batería y el equipamiento, porque el planteamiento urbano y legal no cambia de unas a otras.",
     "n": 10,
     "url": "/patinetes/marca/zwheel/"
+  },
+  "motos/scorpa": {
+    "nombre": "Scorpa",
+    "title": "Scorpa: 3 motos de trial, SC 125, 250 y 300",
+    "description": "3 fichas de Scorpa: SC 125 Factory, SC 250 Factory y SC 300 Factory, tres motos de trial con datos técnicos para elegir cilindrada.",
+    "intro": "Scorpa concentra su presencia en estas fichas en una sola disciplina, el trial, y en una sola familia, la Factory. La SC 125 abre la gama para iniciarse, la SC 250 ocupa el punto intermedio y la SC 300 cierra por arriba para el uso más exigente. Comparar las tres sirve para elegir cilindrada sin distracciones: mismo planteamiento, mismo apellido y tres niveles de respuesta.",
+    "n": 3,
+    "url": "/motos/marca/scorpa/"
+  },
+  "coches/audi": {
+    "nombre": "Audi",
+    "title": "Audi: 65 coches, del A1 al e-tron GT",
+    "description": "65 fichas de Audi: A1, A3, A4, Q3, Q5, Q6 e-tron y e-tron GT, del urbano al SUV grande y al deportivo eléctrico.",
+    "intro": "La gama Audi recogida aquí va del urbano A1 Sportback al A8, pasando por el A3, el A4 Avant, el A5 y el A6, con la familia Q como columna vertebral: Q2, Q3, Q5, Q6 e-tron y Q7 cubren del SUV compacto al grande. A ese bloque se suman las variantes deportivas S y RS, el TT y el e-tron GT eléctrico, así que la comparación útil no es solo por tamaño, sino por carácter: confort, deportividad o electricidad dentro de una misma marca.",
+    "n": 65,
+    "url": "/coches/marca/audi/"
+  },
+  "coches/hyundai": {
+    "nombre": "Hyundai",
+    "title": "Hyundai: 61 coches, del i10 al Ioniq 9",
+    "description": "61 fichas de Hyundai: i10, i20, Kona, Tucson, Santa Fe, Ioniq 5 e Ioniq 6, con urbanos, SUV, híbridos y eléctricos.",
+    "intro": "Hyundai reúne en estas fichas urbanos como el i10 y el i20, el Bayon y el Inster para la ciudad, y una escalera de SUV que sube del Kona al Tucson, el Santa Fe y el Palisade. La familia Ioniq, con el Ioniq 5, el Ioniq 6 y el Ioniq 9, aporta el lado eléctrico, mientras las versiones N, como el i20 N o el Ioniq 5 N, ponen el acento deportivo. Elegir aquí pasa por decidir tamaño, energía y temperamento.",
+    "n": 61,
+    "url": "/coches/marca/hyundai/"
+  },
+  "coches/kia": {
+    "nombre": "Kia",
+    "title": "Kia: 52 coches, del Picanto al EV9",
+    "description": "52 fichas de Kia: Picanto, Ceed, Sportage, Sorento, EV3, EV6 y EV9, del urbano al SUV familiar y al eléctrico.",
+    "intro": "La oferta de Kia en estas fichas arranca en el Picanto y el Stonic, sigue con el Ceed y el XCeed, y crece hacia el Sportage y el Sorento para quien necesita espacio. La gama eléctrica tiene nombre propio, EV3, EV4, EV5, EV6 y EV9, y el Niro completa el hueco híbrido entre el mundo térmico y el eléctrico. Con el K4, el Carnival y el Tasman al fondo, el catálogo cubre ciudad, familia, trabajo y ocio sin salir de la marca.",
+    "n": 52,
+    "url": "/coches/marca/kia/"
+  },
+  "coches/seat": {
+    "nombre": "SEAT",
+    "title": "SEAT: 32 coches, del Ibiza al León Sportstourer",
+    "description": "32 fichas de SEAT: Ibiza, Arona, León, León Sportstourer y Ateca, con gasolina, diésel e híbridos ligeros eTSI.",
+    "intro": "SEAT mantiene un catálogo corto y reconocible: el Ibiza como urbano, el Arona como SUV pequeño, el León en versión compacta y familiar Sportstourer, y el Ateca como SUV mediano. Esa concentración facilita la comparación, porque la decisión se reduce a tamaño y carrocería antes que a siglas: gasolina, diésel o híbrido ligero eTSI en los mismos modelos. Quien busque un SEAT nuevo lo encuentra aquí sin dispersarse entre decenas de gamas.",
+    "n": 32,
+    "url": "/coches/marca/seat/"
+  },
+  "coches/cupra": {
+    "nombre": "Cupra",
+    "title": "Cupra: 44 coches, del León al Raval",
+    "description": "44 fichas de Cupra: León, Formentor, Terramar, Born, Tavascan y Raval, entre híbridos, enchufables y eléctricos.",
+    "intro": "Cupra ordena su gama alrededor del León y el León Sportstourer, el Formentor y el Terramar, con el Ateca como SUV de corte deportivo. El lado eléctrico lo ponen el Born, el Tavascan y el Raval, tres modelos distintos en tamaño y enfoque pero con la misma idea de fondo: respuesta inmediata y carácter. Entre versiones eTSI, eHybrid y VZ, la comparación dentro de la marca consiste en afinar cuánta deportividad y cuánta electricidad se quiere.",
+    "n": 44,
+    "url": "/coches/marca/cupra/"
+  },
+  "motos/honda": {
+    "nombre": "Honda",
+    "title": "Honda: 100 motos, de la PCX125 a la Gold Wing",
+    "description": "100 fichas de Honda: PCX125, Forza, CB Hornet, Africa Twin, Transalp y Gold Wing, scooters, naked, trail y touring.",
+    "intro": "Honda es la marca con más fichas de motos en estas páginas, y se nota en la variedad: scooters como la PCX125, la SH125i, la Forza 750 o la X-ADV 750; naked de la familia CB Hornet; trail con la Africa Twin, la Transalp y la CRF300L; deportivas CBR; custom Rebel; y clásicas modernas como la Monkey 125 o la Dax 125. Las eléctricas EM1 e: y CUV e: asoman en el lado urbano, así que el catálogo sirve tanto para el primer carnet como para el viaje largo.",
+    "n": 100,
+    "url": "/motos/marca/honda/"
+  },
+  "coches/mazda": {
+    "nombre": "Mazda",
+    "title": "Mazda: 37 coches, del Mazda2 al CX-80",
+    "description": "37 fichas de Mazda: Mazda2, Mazda3, MX-5, CX-30, CX-5, CX-60 y CX-80, del utilitario al SUV grande y al roadster.",
+    "intro": "Mazda combina en estas fichas el Mazda2 y el Mazda3, el MX-5 como roadster sin rival directo en la lista, y una familia CX que va del CX-30 al CX-5, el CX-60 y el CX-80. El MX-30 y el Mazda6e aportan la vertiente eléctrica, mientras el CX-60 y el CX-80 añaden diésel e híbrido enchufable para los viajes largos. El resultado es una gama coherente donde el diseño y el tacto de conducción pesan tanto como la cifra de potencia.",
+    "n": 37,
+    "url": "/coches/marca/mazda/"
   }
 }
