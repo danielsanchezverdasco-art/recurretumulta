@@ -976,9 +976,9 @@ Si te llega una sanción y sospechas que puede contener algún error, <a href=ht
 `,
   },
   {
-    title: "Ioniq 3 vs R5 E-Tech vs Dolphin Surf",
+    title: "Ioniq 3, Renault 5 y Dolphin Surf: ¿qué eléctrico comprar?",
     slug: "hyundai-ioniq-3-vs-renault-5-vs-dolphin-surf-cual-comprar",
-    excerpt: "El Ioniq 3 promete 497 km, el Renault 5 E-Tech baja a 20.170 € con ayudas y el Dolphin Surf parte de 12.605 €. Duelo de compactos eléctricos con veredicto.",
+    excerpt: "Tres compactos eléctricos frente a frente: Ioniq 3 con 497 km, Renault 5 en 20.170 € con ayudas y Dolphin Surf desde 12.605 €. Veredicto incluido.",
     category: "Novedades Motor",
     date: "2026-10-06",
     readTime: 9,
@@ -995,11 +995,11 @@ Si te llega una sanción y sospechas que puede contener algún error, <a href=ht
     ],
     content: `<img src=/media/hyundai-ioniq-3-vs-renault-5-vs-dolphin-surf-cual-comprar-hero.webp alt=Tres compactos eléctricos alineados en una carretera costera española al atardecer, escena de comparativa>
 
-Tres formas de entender el compacto eléctrico se enfrentan: el **Hyundai Ioniq 3**, la apuesta coreana de la autonomía (hasta 497 km WLTP); el **Renault 5 E-Tech**, el icono francés que con ayudas baja a **20.170 €**; y el **BYD Dolphin Surf**, el chino que parte de **12.605 €** con ayudas y ya es el eléctrico más barato con 5 plazas.
+Tres compactos eléctricos, tres ideas distintas de lo que debe ser un coche urbano con enchufe. El **Hyundai Ioniq 3** presume de autonomía, con un máximo WLTP de **497 km**. El **Renault 5 E-Tech** juega la baza del precio real: con ayudas se queda en **20.170 €**. Y el **BYD Dolphin Surf** rompe el mercado por abajo: desde **12.605 €** con ayudas y con 5 plazas de verdad, el eléctrico de cinco asientos más asequible.
 
-La respuesta corta: **el Dolphin Surf gana por precio, el R5 por equilibrio y red comercial, y el Ioniq 3 por autonomía**. Pero el diablo está en la letra pequeña de cada precio, y ahí es donde se decide la compra.
+El resumen rápido: **por precio manda el Dolphin Surf; por equilibrio y red comercial, el R5; por autonomía, el Ioniq 3**. Ahora bien, cada cifra tiene su letra pequeña, y es ahí donde se gana o se pierde la compra.
 
-## Cara a cara: la tabla
+## Los tres, número a número
 
 | | Hyundai Ioniq 3 | Renault 5 E-Tech | BYD Dolphin Surf |
 |---|---|---|---|
@@ -1013,60 +1013,60 @@ La respuesta corta: **el Dolphin Surf gana por precio, el R5 por equilibrio y re
 | Etiqueta DGT | Cero | Cero | Cero |
 | Fabricación | Turquía | Francia | China |
 
-*Precio anunciado de la Standard Range, aún no a la venta en España. **N Line Long Range, la única versión disponible hoy.
+*La Standard Range anunciada todavía no se comercializa en España. **La N Line Long Range es, hoy, la única versión en venta.
 
-## Análisis: qué ofrece cada uno
+## Qué aporta cada aspirante
 
-**Hyundai Ioniq 3.** La gran baza coreana: plataforma dedicada e-GMP, **hasta 497 km WLTP** y tecnología seria (V2L, Pleos Connect, aparcamiento remoto desde el móvil) por un precio de ataque anunciado de 29.995 €. Pero la letra pequeña pesa: hoy solo se vende el N Line de 39.390 € con 456 km, y la versión barata llegará "más adelante" sin fecha. Además se fabrica en Turquía, así que no accede al bonus UE del Plan Auto+. Es el coche del que más autonomía saca por euro... cuando la gama esté completa.
+**Hyundai Ioniq 3.** Su carta principal es coreana y técnica: arquitectura propia e-GMP, con un máximo de 497 km WLTP y equipamiento serio (V2L, Pleos Connect y aparcamiento a distancia desde el móvil) con un precio anunciado de salida de 29.995 €. El problema está en la letra pequeña: hoy el único que se puede comprar es el N Line, de 39.390 € y 456 km, y la variante económica llegará "más adelante", sin fecha cerrada. Encima se produce en Turquía, por lo que queda fuera del bonus UE del Plan Auto+. Es el modelo que más autonomía entrega por euro... cuando la gama se complete.
 
-**Renault 5 E-Tech.** El icono que ya está en la calle: la gama 2026 rinde **315 km** (40 kWh) y **430 km** (52 kWh), con precios oficiales de 28.085 € a 36.585 €. La jugada maestra es el precio real: con promociones, certificados de ahorro energético y el Plan Auto+ (se fabrica en Europa), el Evolution de 120 CV se queda en **20.170 €**. Diseño que enamora, red comercial en cada provincia y el "5" del capó que indica la carga. Pendiente: la versión de acceso Five, aún sin fecha de pedidos.
+**Renault 5 E-Tech.** El icono francés ya rueda por nuestras calles: la gama 2026 entrega 315 km con la batería de 40 kWh y 430 km con la de 52 kWh, con tarifas oficiales entre 28.085 € y 36.585 €. Su gran baza es el precio real: sumando promociones, certificados de ahorro de energía y el Plan Auto+ (se produce en Europa), el Evolution de 120 CV baja hasta **20.170 €**. Diseño que enamora, talleres y tiendas Renault por todo el país y el "5" del capó que muestra la carga. Queda pendiente la versión de acceso Five, todavía sin fecha para pedirla.
 
-**BYD Dolphin Surf.** El rompeprecios: el MY26 corrige el gran "pero" del anterior y ya ofrece **5 plazas** de verdad. La versión Boost (43,2 kWh, 322 km, 88 CV) sale por 24.490 €, y con ayudas el precio cae a **12.605 €**: no hay etiqueta Cero más barata. La Comfort (156 CV, 310 km) sube a 26.990 €. En contra: red de servicio más joven que la de Renault o Hyundai, y valor de reventa aún por demostrar en España.
+**BYD Dolphin Surf.** El que rompe los precios: el MY26 arregla el gran "pero" del anterior y ya brinda 5 plazas reales. La variante Boost, con batería de 43,2 kWh, 322 km y 88 CV, cuesta 24.490 €, y tras las ayudas el importe baja a **12.605 €**: no existe otra etiqueta Cero más económica. La Comfort (156 CV, 310 km) asciende a 26.990 €. Sus puntos débiles: una red de servicio más joven que las de Renault o Hyundai, y un valor de reventa todavía por demostrar en España.
 
 <img src=/media/hyundai-ioniq-3-vs-renault-5-vs-dolphin-surf-cual-comprar-carga.webp alt=Coche eléctrico compacto cargando en una estación de carga rápida de noche en Madrid>
 
-## Pros y contras
+## Puntos fuertes y débiles
 
 **Hyundai Ioniq 3:**
-- ✅ Hasta 497 km WLTP: la mayor autonomía del trío
-- ✅ Plataforma e-GMP dedicada, V2L y Pleos Connect
-- ✅ Maletero de 441 + 114 L: el más capaz
-- ✅ Marca consolidada con gran red en España
-- ❌ La versión de 29.995 € aún no se puede comprar
-- ❌ Fabricado en Turquía: sin bonus UE del Plan Auto+
-- ❌ El N Line que sí se vende cuesta 39.390 €
+- ✅ Un maletero de 441 + 114 L, el mayor del trío
+- ✅ Autonomía máxima de 497 km WLTP, la más alta de los tres
+- ✅ Arquitectura e-GMP propia, con V2L y Pleos Connect
+- ✅ Marca asentada con una red amplia en España
+- ❌ La variante de 29.995 € todavía no está a la venta
+- ❌ Producido en Turquía: pierde el bonus UE del Plan Auto+
+- ❌ Solo está en venta el N Line, a 39.390 €
 
 **Renault 5 E-Tech:**
-- ✅ 20.170 € con ayudas: precio real imbatible en su nivel
-- ✅ 430 km WLTP en la versión de 52 kWh
-- ✅ Fabricado en Europa: máximas ayudas y red total
-- ✅ Diseño icónico y etiqueta Cero
-- ❌ Sin ayudas parte de 28.085 €, un salto notable
-- ❌ Maletero de 326 L, el más justo
-- ❌ La versión Five más barata sigue pendiente
+- ✅ Con ayudas se queda en 20.170 €, un precio real sin rival en su nivel
+- ✅ Hasta 430 km WLTP con la batería de 52 kWh
+- ✅ Hecho en Europa: ayudas máximas y red completa
+- ✅ Estética icónica y etiqueta Cero
+- ❌ Sin ayudas arranca en 28.085 €, un salto considerable
+- ❌ Maletero de 326 L, el más pequeño del trío
+- ❌ La Five de acceso sigue sin fecha
 
 **BYD Dolphin Surf:**
-- ✅ 12.605 € con ayudas: el eléctrico con 5 plazas más barato
-- ✅ 322 km WLTP en la Boost por 24.490 €
-- ✅ Versión Comfort con 156 CV por 26.990 €
-- ✅ Garantía de 6 años de BYD
-- ❌ 85 kW de carga DC: el más lento cargando
-- ❌ Red posventa más joven en España
-- ❌ Reventa futura aún incierta
+- ✅ Desde 12.605 € con ayudas, el cinco plazas eléctrico más barato
+- ✅ La Boost alcanza 322 km WLTP por 24.490 €
+- ✅ La Comfort ofrece 156 CV por 26.990 €
+- ✅ Garantía BYD de 6 años
+- ❌ Carga DC de 85 kW, la más lenta del trío
+- ❌ Posventa con menos años en España
+- ❌ Valor de reventa todavía incierto
 
-## Veredicto: ¿cuál comprar?
+## La recomendación final
 
-**Compra el BYD Dolphin Surf si** el presupuesto manda y tu uso es urbano e interurbano: por 12.605 € con ayudas no existe nada con 5 plazas y etiqueta Cero. Es la compra racional pura.
+**Elige el BYD Dolphin Surf si** el dinero aprieta y te mueves sobre todo por ciudad y alrededores: con 12.605 € tras las ayudas no hay otro cinco plazas con etiqueta Cero. Es la opción más racional.
 
-**Compra el Renault 5 E-Tech si** es tu único coche y quieres salir de la ciudad sin pensar: por unos 7.500 € más que el BYD (con ayudas) ganas 108 km de autonomía, 150 CV, carga más rápida y la tranquilidad de la red Renault. El equilibrio del trío.
+**Quédate con el Renault 5 E-Tech si** será tu único coche y quieres salir a carretera sin darle vueltas: por alrededor de 7.500 € sobre el BYD con ayudas sumas 108 km de autonomía, 150 CV, una carga más veloz y el respaldo de la red Renault. El punto medio del trío.
 
-**Compra el Hyundai Ioniq 3 si** haces viajes largos a menudo y puedes esperar: la Long Range de 497 km es la única que te deja hacer Madrid-Valencia sin parar a cargar. Pero no compres el N Line de 39.390 € por impulso: espera a la Standard Range de 29.995 € o negocia fuerte.
+**Apuesta por el Hyundai Ioniq 3 si** viajas lejos con frecuencia y tienes paciencia: solo su versión Long Range, con 497 km, permite cubrir el Madrid-Valencia sin detenerse a cargar. Pero no te lances al N Line de 39.390 € sin pensarlo: aguarda a que llegue la Standard Range de 29.995 € o aprieta en la negociación.
 
-Puedes afinar la decisión en nuestro <a href=/comparador-coches/?a=hyundai-ioniq-3-2026-precio-autonomia&b=renault-5-e-tech-2026-precio-autonomia>comparador del Ioniq 3 y el Renault 5 E-Tech</a>, y leer los <a href=/blog/hyundai-ioniq-3-precio-espana-2026/>análisis completos del Hyundai Ioniq 3</a>, el <a href=/blog/renault-5-e-tech-2026-precio-autonomia/>Renault 5 E-Tech</a> y el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf MY26</a>. Tienes las fichas detalladas en <a href=/coches/hyundai-ioniq-3-2026-precio-autonomia/>ficha del Hyundai Ioniq 3</a>, <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>ficha del Renault 5 E-Tech</a> y <a href=/coches/byd-dolphin-surf-precio-ficha-tecnica/>ficha del BYD Dolphin Surf</a>. Los tres llevan etiqueta Cero: repasa nuestra <a href=/guias/zbe/>guía de etiquetas y ZBE</a> si tienes dudas.
+Para afinar tu elección, compara directamente el <a href=/comparador-coches/?a=hyundai-ioniq-3-2026-precio-autonomia&b=renault-5-e-tech-2026-precio-autonomia>comparador del Ioniq 3 y el Renault 5 E-Tech</a> y consulta los <a href=/blog/hyundai-ioniq-3-precio-espana-2026/>análisis completos del Hyundai Ioniq 3</a>, el <a href=/blog/renault-5-e-tech-2026-precio-autonomia/>Renault 5 E-Tech</a> y el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf MY26</a>. Las fichas completas están en la <a href=/coches/hyundai-ioniq-3-2026-precio-autonomia/>ficha del Hyundai Ioniq 3</a>, la <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>ficha del Renault 5 E-Tech</a> y la <a href=/coches/byd-dolphin-surf-precio-ficha-tecnica/>ficha del BYD Dolphin Surf</a>. Como los tres son Cero, también te vendrá bien la <a href=/guias/zbe/>guía de etiquetas y ZBE</a> si tienes dudas.
 
 Fuentes: <a href=https://www.hyundai.es>Hyundai España</a>, <a href=https://www.renault.es>Renault España</a> y <a href=https://www.byd.com/es>BYD España</a>.
 
-## Míralo en vídeo
+## El vídeo oficial
 
 <iframe src=https://www.youtube.com/embed/wbjUokbtE70 title="Vídeo: Hyundai Ioniq 3, presentación oficial" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
@@ -1074,23 +1074,22 @@ Vídeo: <a href=https://www.youtube.com/watch?v=wbjUokbtE70>Hyundai España</a> 
 
 ## Preguntas frecuentes
 
-### ¿Cuál es el compacto eléctrico más barato de los tres?
-El BYD Dolphin Surf: parte de 20.140 € de PVP y baja a 12.605 € con ayudas. Le sigue el Renault 5 E-Tech (20.170 € con ayudas) y el Hyundai Ioniq 3 (29.995 € anunciados para la versión de acceso, aún no a la venta).
+### ¿Cuál de los tres sale más barato?
+El BYD Dolphin Surf: su PVP arranca en 20.140 € y desciende a 12.605 € con ayudas. Después, el Renault 5 E-Tech con ayudas (20.170 €). El Hyundai Ioniq 3 anuncia 29.995 € para la variante de acceso, todavía sin vender.
 
-### ¿Cuál tiene más autonomía?
-El Hyundai Ioniq 3, con hasta 497 km WLTP en la versión Long Range. El Renault 5 E-Tech llega a 430 km (52 kWh) y el Dolphin Surf a 322 km (Boost).
+### ¿Quién recorre más kilómetros con una carga?
+El Hyundai Ioniq 3, con un máximo de 497 km WLTP en la Long Range. El Renault 5 E-Tech alcanza 430 km con la batería de 52 kWh, y el Dolphin Surf se queda en 322 km (Boost).
 
-### ¿Cuál carga más rápido?
-El Hyundai Ioniq 3 recupera del 10 al 80 % en unos 29 minutos. El Renault 5 E-Tech carga a 100 kW en DC y el Dolphin Surf a 85 kW, el más lento del trío.
+### ¿Cuál recupera antes la batería?
+El Hyundai Ioniq 3 necesita unos 29 minutos para pasar del 10 al 80 %. El Renault 5 E-Tech admite 100 kW en corriente continua, y el Dolphin Surf se queda en 85 kW, el más lento de los tres.
 
-### ¿Los tres tienen etiqueta Cero?
-Sí, los tres son eléctricos puros y llevan la etiqueta Cero de la DGT, así que entran en todas las zonas de bajas emisiones.
+### ¿Llevan los tres la etiqueta Cero?
+Sí: al ser eléctricos puros, los tres portan la etiqueta Cero de la DGT y acceden a todas las zonas de bajas emisiones.
 
-### ¿Cuál recomiendan como único coche?
-El Renault 5 E-Tech por equilibrio (precio real con ayudas, 430 km, red Renault) o el Hyundai Ioniq 3 Long Range si haces viajes largos y puedes esperar a la versión de acceso. El Dolphin Surf es imbatible por precio, pero más limitado para viajar.
+### ¿Cuál conviene si solo voy a tener un coche?
+El Renault 5 E-Tech por su equilibrio entre precio real con ayudas, 430 km y red Renault, o bien el Ioniq 3 Long Range de Hyundai si viajas lejos y puedes aguardar a la variante de acceso. El Dolphin Surf no tiene rival por precio, pero queda más limitado para viajar.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+Si te notifican una sanción que consideras errónea, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de abonarla.`,
   },
 
   {

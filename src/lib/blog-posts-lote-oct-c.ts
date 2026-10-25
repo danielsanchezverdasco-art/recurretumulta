@@ -5,9 +5,9 @@ import type { BlogPost } from "./blog-data.ts";
 
 export const LOTE_OCT_C_POSTS: BlogPost[] = [
   {
-    title: "Deepal S05: desde 37.390 €",
+    title: "Deepal S05: SUV eléctrico desde 37.390 € en España",
     slug: "deepal-s05-precio-espana-2026",
-    excerpt: "El Deepal S05 de Changan ya está entre los eléctricos más vendidos en España: 485 km de autonomía, 272 CV, carga de 200 kW y 5 estrellas Euro NCAP.",
+    excerpt: "El SUV eléctrico de Changan llega fuerte a España: 485 km WLTP, 272 CV, recarga de 200 kW, cinco estrellas Euro NCAP y precio desde 37.390 €.",
     category: "Novedades Motor",
     date: "2026-10-03",
     readTime: 8,
@@ -20,9 +20,97 @@ export const LOTE_OCT_C_POSTS: BlogPost[] = [
       "Deepal S05 opiniones",
       "coche eléctrico barato autonomía"
     ],
-    content: `<img src=/media/deepal-s05-precio-espana-2026-hero.webp alt=\"SUV eléctrico azul oscuro circulando por una carretera de montaña española al atardecer\">\n\nHay coches chinos que llegan a España de puntillas y otros que llegan pisando fuerte. El **Deepal S05** es de los segundos: el SUV eléctrico de Changan no solo se ha instalado en nuestro mercado, sino que ya figura entre los **eléctricos más vendidos en España**, con 1.590 matriculaciones en el primer semestre frente a las 172 de su hermano mayor, el S07. La receta es fácil de entender: **485 km de autonomía WLTP, 272 CV, carga rápida de 200 kW y cinco estrellas Euro NCAP desde 37.390 euros**.\n\n## La noticia\n\nDeepal es la marca de coches eléctricos de **Changan**, uno de los gigantes del automóvil chino, y su desembarco europeo va en serio: diseño de ADN europeo, red comercial propia y una garantía de **7 años o 160.000 km** (8 años o 200.000 km para la batería) que deja en evidencia a muchas marcas establecidas.\n\nEl S05 es un SUV del segmento C-D (**4,60 metros de largo y 2,88 de batalla**) que compite con el Tesla Model Y o el BYD Atto 3, pero con un argumento demoledor: la versión de acceso cuesta menos que casi todos sus rivales sin pedir disculpas en equipamiento. La gama, además, es de una simplicidad refrescante: un único nivel de equipamiento muy completo y tres versiones que solo se diferencian en la mecánica.\n\n## Versiones y precios en España\n\n| Versión | Potencia | Autonomía WLTP | 0-100 km/h | Precio |\n|---|---|---|---|---|\n| Pro (RWD) | 272 CV | 485 km | 7,5 s | 37.390 € |\n| Max (RWD) | 272 CV | 485 km | 7,5 s | 40.390 € |\n| Max AWD | 435 CV | 445 km | 5,5 s | 43.390 € |\n\n*Precios de tarifa sin descuentos ni ayudas. La Pro es la compra racional: misma batería y autonomía que la Max por 3.000 euros menos.*\n\n¿Encaja en tu presupuesto? <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.\n\n<img src=/media/deepal-s05-precio-espana-2026-galeria-3.webp alt=\"Deepal S05 en tres cuartos trasero mostrando su firma lumínica, imagen editorial\">\n\n## Por qué vende tanto\n\n**La autonomía es real y usable.** Los 485 km WLTP de la versión Pro salen de un consumo homologado de 15,9 kWh/100 km, una cifra excelente para un SUV de 4,6 metros. Y cuando toca parar, los **200 kW de carga rápida** recuperan del 10 al 80 % en 23 minutos: el doble de rápido que su hermano S07, que se queda en 93 kW.\n\n**La seguridad está certificada.** El S05 logró **cinco estrellas Euro NCAP en 2025**, con un 94 % en protección de ocupante adulto y un 87 % en infantil, incluida la máxima puntuación en los impactos laterales. No es un dato del fabricante: es un laboratorio independiente.\n\n**El interior rompe moldes.** No hay cuadro de instrumentos: la información se proyecta en un **head-up display de realidad aumentada** y todo lo demás vive en una pantalla central de 15,4 pulgadas que se inclina hacia el conductor. Minimalismo funcional con mejor acabado del que sugiere su precio.\n\n
-<img src=/media/deepal-s05-precio-espana-2026-interior-oficial.webp alt=\"Interior oficial del deepal s05  2026\">
-## Curiosidades que quizá no sabías\n\n- **El maletero delantero es de los más grandes del mercado**: 159 litros, suficiente para los cables de carga y la compra semanal sin tocar el maletero trasero.\n- **Deepal ya conquistó Latinoamérica** antes de llegar a España: no es una marca improvisada para Europa, trae rodaje comercial.\n- **El S07 vende diez veces menos**: 172 matriculaciones frente a 1.590 del S05 en el mismo semestre. El mercado ha hablado: tamaño comedido y precio ajustado ganan.\n- **Coeficiente aerodinámico de 0,25 Cx**, digno de una berlina y clave para esos 485 km de autonomía.\n\n## Rivales del Deepal S05\n\n| Modelo | Precio desde | Autonomía WLTP |\n|---|---|---|\n| Deepal S05 | 37.390 € | 485 km |\n| BYD Atto 3 | ≈ 30.000 € | 420 km |\n| Skoda Enyaq | ≈ 40.000 € | 430 km |\n| Tesla Model Y | ≈ 45.000 € | 500 km |\n\n*Precios orientativos de tarifa en España; consulta siempre la tarifa vigente.*\n\n## Para quién es (y para quién no)\n\nEl S05 es para quien quiere un **eléctrico familiar sin sustos**: mucha autonomía por euro, carga rápida de verdad, cinco estrellas de seguridad y una garantía que transmite confianza. Es el coche de quien hace 300 km de autovía un fin de semana sí y otro no, y no quiere planificar la vida alrededor de los cargadores.\n\nNo es para quien busque sensaciones deportivas (el chasis prima el confort, como reconoce la propia prensa especializada) ni para quien necesite una red de talleres en cada pueblo: la red de servicio aún está creciendo y eso hay que saberlo antes de firmar.\n\n## Míralo en vídeo\n\n<iframe src=https://www.youtube.com/embed/3RL03XWPaFQ?si=ODa8fiuOqAOaEvT1 title="Vídeo: Changan Deepal S05, prueba en español" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>\n\nVídeo: <a href=https://soymotor.com/coches/primera-prueba-changan-deepal-s05>SoyMotor.com</a> en YouTube\n\nTambién te puede interesar: el <a href=/blog/byd-atto-3-evo-2026-precio-espana/>BYD Atto 3 Evo</a>, su rival directo en el C-SUV eléctrico, y el <a href=/blog/skoda-epiq-electrico-barato-precio-espana/>Skoda Epiq</a>, el SUV urbano eléctrico fabricado en Navarra.\n\n## Preguntas frecuentes\n\n**¿Cuánto cuesta el Deepal S05 en España?**\nParte de 37.390 euros en la versión Pro (272 CV, 485 km). La Max cuesta 40.390 € y la Max AWD con tracción total, 43.390 €. Son precios de tarifa, sin descuentos ni ayudas.\n\n**¿Qué autonomía real tiene?**\nHomologa 485 km WLTP en las versiones de tracción trasera (15,9 kWh/100 km). En uso real mixto espera entre 380 y 420 km según conducción y clima.\n\n**¿Cuánto tarda en cargar?**\nCon 200 kW en corriente continua pasa del 10 al 80 % en unos 23 minutos. En un wallbox doméstico (11 kW) la carga completa lleva unas 7 horas.\n\n**¿Es seguro?**\nSí: cinco estrellas Euro NCAP en 2025, con 94 % en ocupante adulto y 87 % en infantil.\n\n**¿Qué garantía tiene?**\n7 años o 160.000 km para el vehículo y 8 años o 200.000 km para la batería, por encima de la media del mercado.\n\n**¿Deepal S05 o Deepal S07?**\nEl S05 es la compra racional: más barato, carga el doble de rápido (200 kW frente a 93 kW) y vende diez veces más. El S07 solo compensa si necesitas su mayor tamaño y sus 77,9 kWh de batería.\n\n---\n\nSi te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.\n\n**Fuentes:** <a href=https://www.hibridosyelectricos.com/coches/changan-deepal-s05-precio-medidas-motor-interior-maletero_85462_102.html>Híbridos y Eléctricos</a>, <a href=https://www.km77.com/coches/changan/deepal-s05/2024/estandar/estandar/deepal-s05-rwd-pro/datos>km77</a>, <a href=https://autonomiacocheselectricos.es/articulos/deepal-s05-electrico-changan-espana/>Autonomía Coches Eléctricos</a>. *Imagen editorial generada por IA.*`
+    content: `<img src=/media/deepal-s05-precio-espana-2026-hero.webp alt="SUV eléctrico azul oscuro circulando por una carretera de montaña española al atardecer">
+
+Algunos modelos chinos aterrizan en España casi sin hacer ruido, y otros entran con paso firme. El segundo caso es el del **Deepal S05**: el todocamino eléctrico de la marca china no solo se ha asentado en nuestro mercado, sino que ya aparece entre los eléctricos con más ventas en España, con 1.590 unidades matriculadas durante la primera mitad del año, frente a 172 unidades de su hermano mayor, el S07. Su fórmula resulta fácil de captar: cinco estrellas Euro NCAP, 272 CV, 485 km de autonomía WLTP y una recarga rápida de 200 kW, a partir de 37.390 euros.
+
+## La marca y su llegada
+
+Deepal es la enseña eléctrica de **Changan**, uno de los grandes fabricantes chinos, y su entrada en Europa va muy en serio: diseño con ADN europeo, una red comercial propia y una cobertura de siete años o 160.000 km (ocho años o 200.000 km en el caso de la batería), una cobertura que deja atrás a muchas marcas veteranas.
+
+El S05, un todocamino entre los segmentos C y D, mide 4,60 metros de largo, con una batalla de 2,88, y se mide con el Tesla Model Y y con el BYD Atto 3. Su baza es contundente: su variante más asequible resulta más barata que la mayoría de competidores sin recortar en dotación. Además, la oferta se entiende de un vistazo: un solo nivel de dotación, muy completo, y tres variantes que únicamente cambian en la mecánica.
+
+## Precios y versiones en nuestro mercado
+
+| Versión | Potencia | Autonomía WLTP | 0-100 km/h | Precio |
+|---|---|---|---|---|
+| Pro (RWD) | 272 CV | 485 km | 7,5 s | 37.390 € |
+| Max (RWD) | 272 CV | 485 km | 7,5 s | 40.390 € |
+| Max AWD | 435 CV | 445 km | 5,5 s | 43.390 € |
+
+*Tarifa oficial, sin descuentos ni ayudas: la Pro sale 3.000 euros por debajo de la Max con la misma batería y la misma autonomía, así que es la opción con más lógica.*
+
+¿Se ajusta a lo que quieres gastar? <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+
+<img src=/media/deepal-s05-precio-espana-2026-galeria-3.webp alt="Deepal S05 en tres cuartos trasero mostrando su firma lumínica, imagen editorial">
+
+## Tres razones de su éxito
+
+**La autonomía sirve de verdad.** En la variante Pro, los 485 km WLTP nacen de un gasto homologado de 15,9 kWh cada 100 km, un registro sobresaliente para un todocamino de 4,6 metros. Al detenerte a recargar, la potencia máxima de 200 kW permite pasar del 10 al 80 % en 23 minutos, justo el doble de velocidad que su hermano S07, limitado a 93 kW.
+
+**La seguridad está avalada por un laboratorio.** En 2025, el S05 obtuvo la máxima nota de Euro NCAP, cinco estrellas, con un 94 % en ocupante adulto y un 87 % en ocupante infantil, y la mejor valoración posible en choques laterales. No se trata de una cifra del fabricante: la otorga un laboratorio independiente.
+
+**El habitáculo apuesta por otro planteamiento.** Desaparece el cuadro tradicional: los datos se muestran mediante un head-up display con realidad aumentada, mientras el resto de funciones se gestiona desde una pantalla central de 15,4 pulgadas orientada hacia quien conduce. Un minimalismo funcional con un acabado superior al que cabría esperar por su precio.
+
+<img src=/media/deepal-s05-precio-espana-2026-interior-oficial.webp alt="Interior oficial del deepal s05  2026">
+
+## Datos curiosos
+
+- **Un maletero delantero sobresaliente**: 159 litros, espacio de sobra para los cables de recarga y la compra de la semana sin usar el maletero trasero.
+- **Deepal ya tenía recorrido en Latinoamérica** antes de aterrizar en España: no es una enseña improvisada para Europa, llega con rodaje comercial.
+- **El S07 se queda muy atrás en ventas**: 172 registros, mientras el S05 suma 1.590 en ese mismo semestre. La clientela lo deja claro: dimensiones contenidas y un precio afinado vencen.
+- **Aerodinámica muy cuidada**: 0,25 Cx, una cifra propia de berlinas que ayuda decisivamente a alcanzar esos 485 km de autonomía.
+
+## Competidores del S05
+
+| Modelo | Precio desde | Autonomía WLTP |
+|---|---|---|
+| Deepal S05 | 37.390 € | 485 km |
+| BYD Atto 3 | ≈ 30.000 € | 420 km |
+| Skoda Enyaq | ≈ 40.000 € | 430 km |
+| Tesla Model Y | ≈ 45.000 € | 500 km |
+
+*Cifras orientativas de tarifa en España; revisa siempre la tarifa en vigor.*
+
+## A quién le encaja (y a quién no)
+
+El S05 encaja con quien busca un eléctrico familiar sin sobresaltos: mucha autonomía por cada euro invertido, una recarga rápida que cumple, la máxima nota de seguridad y una cobertura que inspira confianza. Sirve a quien recorre 300 km por autovía un fin de semana sí y al siguiente también, sin querer organizar su vida en torno a los puntos de recarga.
+
+No encaja con quien persiga sensaciones deportivas (su puesta a punto prioriza la comodidad, algo que la prensa especializada ya señala) ni con quien necesite un taller en cada pueblo: la asistencia todavía se está ampliando, un dato que conviene conocer antes de firmar.
+
+## Vídeo
+
+<iframe src=https://www.youtube.com/embed/3RL03XWPaFQ?si=ODa8fiuOqAOaEvT1 title="Vídeo: Changan Deepal S05, prueba en español" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
+
+Vídeo: <a href=https://soymotor.com/coches/primera-prueba-changan-deepal-s05>SoyMotor.com</a> en YouTube
+
+Si quieres seguir comparando: el <a href=/blog/byd-atto-3-evo-2026-precio-espana/>BYD Atto 3 Evo</a>, su rival directo en el C-SUV eléctrico, y el <a href=/blog/skoda-epiq-electrico-barato-precio-espana/>Skoda Epiq</a>, el SUV urbano eléctrico fabricado en Navarra.
+
+## Preguntas y respuestas
+
+**¿Desde qué precio parte el Deepal S05 en España?**
+Arranca en 37.390 euros con la variante Pro (272 CV, 485 km). La Max se va a 40.390 €, y la Max AWD, de tracción total, queda en 43.390 €. Son tarifas oficiales, sin descuentos ni ayudas.
+
+**¿Qué recorrido homologa?**
+485 km WLTP en las variantes de tracción trasera, con un consumo de 15,9 kWh/100 km. En uso mixto real, calcula entre 380 y 420 km según cómo conduzcas y el clima.
+
+**¿Cuánto dura una recarga?**
+Con 200 kW en continua, el salto del 10 al 80 % se completa en unos 23 minutos. En un wallbox de casa, de 11 kW, llenarla del todo lleva alrededor de 7 horas.
+
+**¿Qué nota de seguridad obtuvo?**
+La máxima nota de Euro NCAP en 2025: cinco estrellas, con un 94 % en ocupante adulto y un 87 % en infantil.
+
+**¿Qué cobertura ofrece?**
+La cobertura del vehículo llega a siete años o 160.000 km, y la de la batería, a ocho años o 200.000 km, cifras por encima de la media del mercado.
+
+**¿S05 o S07, cuál conviene?**
+El S05 es la opción con más lógica: sale más barato, admite el doble de potencia de recarga que el S07 (200 kW frente a 93 kW) y sus ventas multiplican por diez las de su hermano mayor. El S07 únicamente merece la pena si te hace falta su mayor tamaño y su batería de 77,9 kWh.
+
+---
+
+Si te llega una multa y sospechas que puede tener algún defecto, <a href=https://recurretumulta.online/>revísala gratis con nuestra IA</a> antes de pagarla.
+
+**Fuentes:** <a href=https://www.hibridosyelectricos.com/coches/changan-deepal-s05-precio-medidas-motor-interior-maletero_85462_102.html>Híbridos y Eléctricos</a>, <a href=https://www.km77.com/coches/changan/deepal-s05/2024/estandar/estandar/deepal-s05-rwd-pro/datos>km77</a>, <a href=https://autonomiacocheselectricos.es/articulos/deepal-s05-electrico-changan-espana/>Autonomía Coches Eléctricos</a>. *Imagen editorial generada por IA.*`
   },
   {
     title: "XPeng G9L: 577 CV 2026",

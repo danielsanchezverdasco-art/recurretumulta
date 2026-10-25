@@ -6,9 +6,9 @@ import type { BlogPost } from "./blog-data.ts";
 
 export const MOTOR_2026_I_POSTS: BlogPost[] = [
 {
-  title: "Zero SR/F 20.º aniversario: 40 uds",
+  title: "Zero SR/F 20 aniversario: solo 40 motos en el mundo",
   slug: "zero-srf-20-aniversario-40-unidades",
-  excerpt: "Zero cumple 20 años con una SR/F 20th Anniversary limitada a 40 unidades en todo el mundo (20 en Europa): negro Jet Black con dorado, piezas premium y 2.000 € de sobreprecio sobre la normal.",
+  excerpt: "Edición conmemorativa de la SR/F por los 20 años de Zero: 40 ejemplares en el mundo, estética negra y dorada y 2.000 € más que la versión estándar.",
   category: "Novedades Motor",
   date: "2026-10-05",
   readTime: 6,
@@ -21,32 +21,32 @@ export const MOTOR_2026_I_POSTS: BlogPost[] = [
   ],
   content: `<img src=/media/zero-srf-20-aniversario-40-unidades-hero.webp alt=Moto eléctrica naked negra con detalles dorados, edición limitada de aniversario, en carretera de montaña al atardecer>
 
-**Zero Motorcycles cumple 20 años** y lo celebra como se celebran las cosas en el mundo de la moto: con una edición limitada de verdad. La **SR/F 20th Anniversary** se fabricará en solo **40 unidades para todo el planeta**: 20 para Norteamérica y 20 para una selección de concesionarios europeos. Ni una más.
+Dos décadas después de su fundación, Zero Motorcycles festeja el hito con una variante conmemorativa que apuesta por la escasez real: la SR/F 20th Anniversary saldrá en una tirada de apenas 40 ejemplares para todo el planeta, con 20 destinados a Norteamérica y otros 20 repartidos entre distribuidores europeos escogidos. No se fabricará ninguna unidad adicional.
 
-No es una moto nueva: es la SR/F de siempre vestida de gala. Pero el gesto importa, porque Zero lleva dos décadas demostrando que la moto eléctrica no era una moda pasajera, y esta edición es su manera de ponerle un lazo a esa historia.
+No se trata de un modelo inédito: la base es la SR/F conocida, ahora presentada con atuendo de celebración. El detalle tiene peso simbólico, porque la firma californiana acumula veinte años probando que la motocicleta eléctrica no fue un capricho pasajero, y esta serie especial funciona como broche para ese recorrido.
 
-## Datos clave
+## Cifras esenciales
 
-- **Unidades:** 40 en todo el mundo (20 Norteamérica + 20 Europa)
-- **Acabado:** negro Jet Black con detalles dorados y gráficos del 20.º aniversario
-- **Mecánica:** la misma SR/F: 83 kW (113 CV), 190 Nm, batería de 17,3 kWh
-- **Precio:** desde 23.090 € en Bélgica (+2.000 € sobre la SR/F 2027 normal)
-- **Extra:** bolsa de regalo del 20.º aniversario incluida
+- **Tirada:** 40 ejemplares en total (20 para Norteamérica y 20 para Europa)
+- **Estética:** pintura Jet Black con acentos dorados y emblemas del vigésimo aniversario
+- **Propulsión:** la SR/F de siempre: 83 kW (113 CV), 190 Nm y acumulador de 17,3 kWh
+- **Tarifa:** desde 23.090 € en Bélgica (2.000 € por encima de la SR/F 2027 estándar)
+- **Obsequio:** bolsa conmemorativa del vigésimo aniversario en cada unidad
 - **Fuente:** <a href=https://www.eicma.it/en/zero-motorcycles-celebrates-two-decades-with-exclusive-sr-f-and-fresh-paint-schemes/>EICMA (organizador oficial del salón de Milán)</a> y <a href=https://thepack.news/zero-motorcycles-marks-20-years-with-limited-sr-f-20th-anniversary-and-lower-benelux-prices-for-2027/>nota de prensa de Zero Motorcycles</a>
 
-## Qué lleva de especial
+## Equipamiento que distingue a la serie
 
-La lista de piezas específicas es larga: **guardabarros delantero y trasero de carbono**, intermitentes ahumados, aletas del faro en negro, cúpula de aluminio negro, **espejos, contrapesos del manillar, manetas y tapas de aluminio mecanizado**, pedal de freno negro y protectores de depósito **TechSpec** en material Snake Skin para agarrar con las rodillas. Todo en la línea del negro con toques dorados.
+El inventario de componentes propios resulta extenso: **guardabarros de carbono delante y detrás**, intermitentes tintados, deflectores del faro en negro, cúpula de aluminio en negro, **espejos, contrapesos de manillar, manetas y tapas de aluminio trabajado a máquina**, pedal de freno en negro y almohadillas de depósito **TechSpec** con textura Snake Skin para sujetar con las rodillas. Todo sigue la combinación de negro con pinceladas doradas.
 
-Mecánicamente no hay sorpresas: el motor Z-Force rinde **83 kW y 190 Nm**, la batería es la de **17,3 kWh** y la electrónica Cypher III+ con ayudas a la conducción Bosch no cambia. Zero declara hasta **283 km de autonomía en ciudad**. Quien busque más prestaciones tendrá que esperar a otra moto; aquí se paga la exclusividad, no los caballos.
+En el apartado mecánico no hay novedades: el propulsor Z-Force entrega **83 kW con 190 Nm** y el acumulador mantiene **17,3 kWh**. La electrónica Cypher III+ junto a las asistencias Bosch se conserva intacta. La marca anuncia hasta **283 km de recorrido urbano**. Quien persiga mayores prestaciones deberá mirar hacia otro modelo; aquí lo que se abona es la rareza, no la potencia.
 
 <img src=/media/zero-srf-20-aniversario-40-unidades-cuerpo.webp alt=Detalle lateral de moto eléctrica negra con componentes dorados mecanizados y guardabarros de carbono>
 
-## La gama 2027 también se renueva (y baja de precio)
+## La familia 2027 estrena imagen y recorta tarifas
 
-El aniversario no viene solo. Zero aprovecha para vestir de nuevo toda su gama de 2027: la **S** llega en Jet Black, la **SR/F** normal en Thermal, la **DS** en Quicksand y la **DSR/X** en Silver y edición Black Forest.
+El aniversario llega acompañado de un lavado de cara para toda la familia 2027: la **S** adopta el Jet Black, la **SR/F** convencional estrena Thermal, la **DS** viste Quicksand y la **DSR/X** se ofrece en Silver además de la variante Black Forest.
 
-Y hay una noticia mejor para el bolsillo: **Zero baja los precios** de varios modelos en el Benelux gracias a una producción más eficiente. La tabla oficial para 2027 queda así:
+Y existe una alegría adicional para el bolsillo: **Zero abarata** varios modelos en el Benelux al producir con mayor eficiencia. Los importes oficiales de 2027 son estos:
 
 | Modelo 2027 | Bélgica | Países Bajos | Luxemburgo |
 |---|---|---|---|
@@ -56,35 +56,35 @@ Y hay una noticia mejor para el bolsillo: **Zero baja los precios** de varios mo
 | Zero DSR/X | 21.600 € | 21.800 € | 20.885 € |
 | **SR/F 20th Anniversary** | **23.090 €** | **23.290 €** | **22.395 €** |
 
-Son precios del Benelux; **el precio para España de la edición aniversario está sin confirmar** por la marca. La edición se venderá solo en concesionarios participantes hasta agotar las 20 unidades europeas.
+Esos importes corresponden al Benelux; **el importe para España de la serie de aniversario sigue sin confirmar** por parte de la marca. La serie solo estará disponible en distribuidores participantes hasta liquidar los 20 ejemplares europeos.
 
-Si te interesa la SR/F de serie, tienes su <a href=/motos/zero-sr-f-2024-ficha-tecnica-precio/>ficha técnica completa en el comparador de motos</a> y el análisis de su hermana trail en <a href=/motos/zero-ds-2026-ficha-tecnica-precio/>Zero DS 2026: ficha y precio</a>. Y si buscas comparar eléctricas, entra al <a href=/comparador-motos/>comparador de motos eléctricas</a>.
+Si la SR/F estándar te llama la atención, consulta su <a href=/motos/zero-sr-f-2024-ficha-tecnica-precio/>ficha técnica completa en el comparador de motos</a> y el repaso de su pariente trail en <a href=/motos/zero-ds-2026-ficha-tecnica-precio/>Zero DS 2026: ficha y precio</a>. Para contrastar eléctricas, visita el <a href=/comparador-motos/>comparador de motos eléctricas</a>.
 
-Vídeo oficial de la edición aniversario (canal oficial de Zero Motorcycles):
+El vídeo que presenta la serie, publicado en el canal oficial de la marca:
 
 <iframe width=560 height=315 src=https://www.youtube.com/embed/GP-x1yiWqv0 title="Zero SR/F 20th Anniversary, vídeo oficial" frameborder=0 allowfullscreen></iframe>
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuántas Zero SR/F 20th Anniversary se fabricarán?
-Solo **40 unidades en todo el mundo**: 20 para Norteamérica y 20 para concesionarios europeos seleccionados. Cuando se agoten, no habrá más.
+### ¿Cuántos ejemplares de la SR/F de aniversario saldrán a la venta?
+Únicamente **40 en todo el planeta**: 20 asignados a Norteamérica y 20 a distribuidores europeos escogidos. Una vez agotados, no se producirán más.
 
-### ¿Cuánto cuesta la Zero SR/F del 20.º aniversario?
-En Bélgica parte de **23.090 €**, unos 2.000 € más que la SR/F 2027 normal (21.090 €). El precio oficial para España está sin confirmar.
+### ¿Qué precio tiene la SR/F conmemorativa?
+En Bélgica arranca en **23.090 €**, alrededor de 2.000 € por encima de la SR/F 2027 convencional (21.090 €). La tarifa oficial española todavía no se ha anunciado.
 
-### ¿Cambia la mecánica respecto a la SR/F normal?
-No. Mantiene el motor de **83 kW (113 CV)**, los **190 Nm** de par y la batería de **17,3 kWh**, con hasta 283 km de autonomía en ciudad según Zero.
+### ¿La mecánica cambia frente a la SR/F convencional?
+No. Conserva el propulsor de **83 kW (113 CV)**, el par de **190 Nm** y el acumulador de **17,3 kWh**, con un alcance urbano máximo de 283 km según la marca.
 
-### ¿Qué piezas exclusivas lleva?
-Acabado Jet Black con dorado, guardabarros de carbono, intermitentes ahumados, piezas de aluminio mecanizado en negro, protectores de depósito TechSpec, gráficos del aniversario y una **bolsa de regalo del 20.º aniversario**.
+### ¿Qué elementos propios incorpora?
+Guardabarros de carbono, intermitentes tintados, pintura Jet Black con dorado, componentes de aluminio trabajado en negro, almohadillas de depósito TechSpec, emblemas del aniversario y una **bolsa conmemorativa del vigésimo aniversario**.
 
-### ¿Qué más cambia en la gama Zero 2027?
-Nuevos colores (S en Jet Black, SR/F en Thermal, DS en Quicksand, DSR/X en Silver y Black Forest) y **bajadas de precio** en varios modelos en el Benelux.
+### ¿Qué novedades trae el resto de la familia Zero 2027?
+La S pasa al Jet Black; la SR/F convencional, al Thermal; la DS, al Quicksand; y la DSR/X suma el Silver junto a la variante Black Forest. Además, varios modelos bajan de precio en el Benelux.
 
-### ¿Dónde se puede comprar en Europa?
-Solo en **concesionarios Zero europeos participantes**, hasta agotar las 20 unidades asignadas al continente.
+### ¿En qué tiendas europeas se podrá adquirir?
+Exclusivamente en **distribuidores Zero europeos que participen en la iniciativa**, mientras queden existencias de las 20 unidades reservadas para el continente.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+Si recibiste una sanción y sospechas que incluye algún error, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> sin abonar nada todavía.`,
 },
 {
   title: "Honda WN7: naked eléctrica de 68 CV por 15.000 €",
