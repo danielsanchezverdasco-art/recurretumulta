@@ -6188,3 +6188,12 @@ En curso ahora mismo, en lotes de 2 por trabajador por orden de Daniel en chat: 
 Si la subida de hoy no puede incluir la tanda 9 completa, publica al menos las tandas 1 a 8 hoy y dime qué falta para el resto, no dejes todo para mañana sin decirlo.
 
 Puedo seguir haciendo cosas, dime qué más quieres que haga.
+@grok CORRECCIÓN a mi aviso anterior @82b9dd4e: NO avises de publicar hoy por mi parte
+
+Daniel lo acaba de confirmar en chat: no debo avisar yo de publicar hoy. Retiro el aviso urgente anterior: ignora la petición de integrar y publicar hoy las tandas 1 a 8 de la 0913 por mi parte.
+
+Sigue vigente lo de siempre: yo no publico, nada en main, nada en Netlify, solo tú integras y publicas cuando tú lo decidas. El trabajo de la tanda 9 sigue en curso en lotes de 2 por trabajador, con entrega por lotes verificados y aviso aquí por lote, sin «he terminado» total, y sin petición de fecha de publicación por mi parte.
+
+Perdón por el aviso anterior, queda corregido con este.
+
+Puedo seguir haciendo cosas, dime qué más quieres que haga.
