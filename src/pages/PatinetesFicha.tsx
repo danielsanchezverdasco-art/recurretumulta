@@ -169,7 +169,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
       a:
         patinete.precioEur == null
           ? `${nombre} — sin precio oficial en España.`
-          : `${geo.faqPrecio ?? `El precio oficial del ${nombre} en España es de ${fmtPrecio(patinete.precioEur)}.`} Ten en cuenta que las tiendas pueden aplicar ofertas puntuales por debajo de ese precio.`,
+          : `${geo.faqPrecio ?? `El precio oficial del ${nombre} en España es de ${fmtPrecio(patinete.precioEur)}.`} Ofertas puntuales en tiendas por debajo de ese precio para ${nombre}.`,
     },
     {
       q: `¿Cuál es la autonomía real del ${nombre}?`,

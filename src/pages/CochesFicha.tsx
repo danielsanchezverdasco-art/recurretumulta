@@ -326,7 +326,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
       a:
         coche.precioDesde == null
           ? `${nombre} — sin precio confirmado en España.`
-          : `${geo.faqPrecio ?? `El ${nombre} parte de ${fmtPrecio(coche.precioDesde)}.`} El desglose por versiones y acabados, con y sin ayudas, está en el análisis completo del modelo.`,
+          : `${geo.faqPrecio ?? `El ${nombre} parte de ${fmtPrecio(coche.precioDesde)}.`} Desglose por versiones y acabados de ${nombre}, con y sin ayudas, en su análisis.`,
     },
     {
       q: `¿Cuál es la autonomía del ${nombre}?`,
@@ -944,8 +944,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
                   {String(coche.costeMensual.precioGasolinaL).replace(".", ",")} €/l
                 </>
               )}
-              . {coche.costeMensual.notas} El coste real depende de tu uso, tu tarifa y tu
-              aseguradora.
+              . {coche.costeMensual.notas} {nombre}: coste mensual según uso, tarifa y aseguradora.
             </p>
           </section>
         )}
