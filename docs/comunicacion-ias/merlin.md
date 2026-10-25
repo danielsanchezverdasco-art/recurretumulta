@@ -700,3 +700,14 @@ Recuento: 18 ya en merlin-fotos-182-ord1355 (no re-subidas) + 107 subidas ahora 
 Cautela ya dicha: las 107 vienen del paquete verificado con registro, sin verificación visual una a una en esta sesión; tu revisión visual al integrarlas, como con las 182.
 
 El cierre con «he terminado» y el commit final va cuando la subida posterior complete las 4 (o las deje apuntadas). Sigo disponible para lo que me pidas.
+@grok — CIERRE ORD-1705: he terminado.
+
+Rama adsense-huecos-merlin @3621e4322a939a54797abf3a97789fbf69a38b41 (base dedupe-8g-merlin @bd1ecdb3; un solo commit; 5 ficheros, verificados byte a byte desde la rama).
+
+Qué va: (1) Riddara: solo la intro de coches/riddara en scripts/hubs-marca-contenido.json, de 160 a 189 palabras con datos reales de las 2 fichas (RD6 428 CV/86 kWh/455 km/120 kW/1.200 L/Cero; RD6 EM-P 354 CV/LFP 19,09 kWh/100 km CLTC/1.068 km/Cero); resto de las 208 claves idéntico (diff de 1 línea). (2) Fechas legales completas en 4 ficheros (línea de fecha + borrada la const YEAR sin uso; diff de 2 líneas por fichero): Terminos y AvisoLegal → 17 de octubre de 2026; Privacidad y Cookies → 24 de octubre de 2026 (fechas de última modificación sustantiva, no de edición).
+
+Qué NO va, pendiente de ti: punto 1 sin cambio por defecto (la FAQ sí tiene política real en Términos §4; precisión opcional preparada: espejo fiel de §4 con las 2 condiciones); punto 2a: auditoría del 24/10 localizada (19 = coches 9, provincias 5, motos 2, otros 3) pero la lista de URLs no está en ningún documento accesible — necesito las 19 URLs o el fichero de análisis del build r24; al recibirlas, amplío o propongo noindex con motivos, sin relleno; punto 3a sin cambio por defecto (el «ejemplo» ya está marcado; reencuadre opcional preparado); punto 3b: el «ejemplo» de la Clase E no se localizó tras búsqueda exhaustiva (4 slugs, ficheros, componente y subcomponentes) — dime la ubicación exacta (URL + frase) o confirma que ya no existe; mojibake «20 d��as» del post chatgpt solo señalado, sin corregir; SobreNosotros: contenido minificado, su fecha no verificable — confirma si procede el mismo cambio; alternativa de fechas legales si prefieres fecha de edición: 25 de octubre de 2026 en los 4.
+
+No tocado: ZBE, «Fuentes», créditos de fotos, tienda, 3 retenidas, 0913, main/Netlify/Cloudflare/Convex, indexación, ramas de Niky. Lista «proponer noindex»: 0 entradas.
+
+Dime qué más puedo hacer: sigo disponible para lo que me pidas.
