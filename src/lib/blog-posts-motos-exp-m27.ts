@@ -6,10 +6,10 @@ import type { BlogPost } from "./blog-data.ts";
 
 export const MOTOS_EXP_M27_POSTS: BlogPost[] = [
   {
-    title: "Kove 450RR 2024: precio y ficha técnica",
+    title: "Kove 450RR 2024: tetra de 443 cc, 66,6 CV y 6.297 €",
     slug: "kove-450rr-2024-precio",
     excerpt:
-      "La Kove 450RR 2024 desde 6.297 €: tetracilíndrico de 443 cc con 66,6 CV a 13.250 rpm, 165 kg, KYB multirregulable, winglets y ABS configurable. Ficha técnica, precio y rivales.",
+      "Kove 450RR 2024 desde 6.297 €: deportiva con cuatro cilindros, 443 cc, 66,6 CV a 13.250 rpm, 165 kg, KYB regulable y ABS de tres modos.",
     category: "Novedades Motor",
     date: "2026-10-08",
     readTime: 7,
@@ -28,11 +28,11 @@ export const MOTOS_EXP_M27_POSTS: BlogPost[] = [
 
 **¿Buscas solo los datos?** <a href=/motos/kove-450rr-2024-ficha-tecnica-precio/>Ver ficha técnica de la Kove 450RR</a>: precio, tetracilíndrico de 66,6 CV, suspensiones KYB y etiqueta DGT. <a href=/comparador-motos/>Compárala cara a cara con sus rivales</a>.
 
-La **Kove 450RR** es la deportiva que rompe todos los guiones del segmento medio: un motor de **cuatro cilindros y 443 cc** donde todas sus rivales usan dos, **66,6 CV a 13.250 rpm**, solo **165 kg** en orden de marcha y un precio de **6.297 €**. Carenado integral con winglets, suspensiones Kayaba multirregulables, quickshifter y ABS con tres modos. Una mini-superbike china con papeles en regla para Europa.
+Cuatro cilindros donde el resto del segmento monta dos: esa es la carta de presentación de la Kove 450RR, una deportiva compacta que apuesta por el carácter de un tetracilíndrico en una cilindrada media. Su motor de 443 cc entrega 66,6 CV a 13.250 rpm, el conjunto pesa 165 kg en orden de marcha y el precio de partida en España se sitúa en unos 6.297 €. Carenado completo con aletines, suspensiones Kayaba regulables en varios parámetros, cambio rápido y un ABS que admite tres ajustes completan una receta que suena a moto de circuito con matrícula.
 
-No es una moto lógica: es una moto para quien disfruta llevando un tetracilíndrico al corte en circuito. Si buscas sensaciones de supersport en formato compacto y asequible, sigue leyendo.
+No es una compra guiada por la lógica del día a día: es una moto para quien disfruta estirando un tetracilíndrico hasta la zona alta del cuentavueltas en circuito. Si lo que buscas son sensaciones de supersport en un formato compacto y con un precio contenido, merece la pena seguir leyendo.
 
-## Ficha técnica resumida: Kove 450RR 2024
+## Cifras clave de la 450RR
 
 | Dato | Valor |
 |---|---|
@@ -47,32 +47,32 @@ No es una moto lógica: es una moto para quien disfruta llevando un tetracilínd
 
 ¿Quieres el detalle completo? <a href=/motos/kove-450rr-2024-ficha-tecnica-precio/>Ficha técnica completa de la Kove 450RR</a> con pros, contras y curiosidades.
 
-## Precio en España
+## Precio en España y versiones disponibles
 
-La Kove 450RR se vende en España desde **unos 6.297 €** con IVA y transporte incluidos para Península y Baleares (sin matriculación). Hay dos versiones: la estándar y la **Pro**, que añade horquilla y amortiguador KYB multirregulables con depósito de gas separado, pinzas radiales de 4 pistones y pantalla TFT de 5 pulgadas con mirroring. Dos colores disponibles: blanco y negro.
+En España, la 450RR arranca en unos 6.297 € con IVA y transporte ya incluidos en el precio para Península y Baleares, sin contar los gastos de matriculación. La gama se articula en dos variantes: la estándar y la Pro, que suma horquilla y amortiguador KYB regulables con depósito de gas independiente, pinzas radiales de cuatro pistones y una pantalla TFT de 5 pulgadas con función de mirroring. La paleta se reduce a dos colores: blanco y negro.
 
 <img src=/media/kove-450rr-2024-precio-galeria-1.webp alt=Kove 450RR 2024, detalle del frontal afilado con winglets integrados>
 
-## Motor: un cuatro cilindros donde nadie lo esperaba
+## Un tetra en territorio de bicilíndricas
 
-El corazón de la 450RR es su código Z459MQ-C: **443 cc, cuatro cilindros en línea, DOHC y 16 válvulas**, con inyección electrónica **Bosch MSE9.0**. Entrega **49 kW (66,6 CV) a 13.250 rpm** y **38 Nm a 11.000 rpm**. Las cifras lo dicen todo: no es un motor de bajos, es un tetracilíndrico al que hay que llevar alto de vueltas para descubrir su carácter deportivo.
+El propulsor responde al código interno Z459MQ-C: 443 cc repartidos en cuatro cilindros en línea, doble árbol de levas y 16 válvulas, alimentado por inyección electrónica Bosch MSE9.0. Rinde 49 kW, equivalentes a 66,6 CV, cuando el cuentavueltas marca 13.250 rpm. El par máximo, por su parte, alcanza 38 Nm a 11.000 rpm. Ese perfil describe un carácter claro: no es un motor para pasear en marchas largas, sino un tetracilíndrico que pide girar alto para entregar lo mejor de sí.
 
-Suma **dos modos de conducción (ECO y SPORT)**, quickshifter ascendente, launch control y control de tracción configurable. El cambio es manual de 6 velocidades con embrague antirrebote.
+La electrónica acompaña ese planteamiento: dos programas de conducción, ECO y SPORT, cambio rápido solo ascendente, control de salida y control de tracción ajustable. La caja es manual de seis relaciones con embrague antirrebote, pensada para bajar marchas con decisión sin que la rueda trasera proteste.
 
-## Parte ciclo y equipamiento
+## Chasis, suspensiones y frenos
 
-Chasis multitubular de acero de alta resistencia, **horquilla invertida Kayaba de 41 mm multirregulable** y monoamortiguador trasero también Kayaba con depósito externo de gas. Frenos: **doble disco ondulado flotante de 300 mm** con pinzas radiales Taisko de 4 pistones delante y disco de 220 mm detrás, con **ABS de 3 modos** (ambas ruedas, solo delantera o desconectado). Llantas de 17 pulgadas con neumáticos CST.
+El bastidor multitubular de acero de alta resistencia sostiene una horquilla invertida Kayaba de 41 mm regulable en varios parámetros. Detrás trabaja un amortiguador único firmado también por Kayaba, con botella de gas externa. Delante frenan dos discos ondulados flotantes de 300 mm, mordidos por pinzas radiales Taisko de cuatro pistones; detrás, un disco de 220 mm. El ABS ofrece tres ajustes: activo en ambas ruedas, solo en la delantera o completamente desconectado. Las llantas son de 17 pulgadas y calzan neumáticos CST. El asiento queda a 795 mm del suelo, el depósito admite 15 litros y la etiqueta DGT es la C; el permiso exigido es el A.
 
-## Historia de la Kove 450RR
+## Del taller chino al Dakar y a Europa
 
-- **2017**: nace Kove en China con un lema claro, «Focus on Performance».
-- **2023**: la marca debuta en el **Rally Dakar** con su 450 Rally y empieza su desembarco en Europa.
-- **2024**: llega la **450RR**, la deportiva tetracilíndrica que pone a Kove en el mapa de las sport medias.
-- **2025**: la gama se consolida en España con red de concesionarios en expansión y 3 años de garantía.
+- **2017**: la firma ve la luz en China bajo el lema «Focus on Performance», con el rendimiento como obsesión declarada.
+- **2023**: Kove se estrena en el Rally Dakar con la 450 Rally y arranca su llegada al mercado europeo.
+- **2024**: aparece la 450RR, la deportiva de cuatro cilindros que coloca a la marca en el mapa de las sport de media cilindrada.
+- **2025**: la gama se afianza en España, con una red de concesionarios en crecimiento y tres años de garantía.
 
 <img src=/media/kove-450rr-2024-precio-galeria-2.webp alt=Kove 450RR 2024 rodando en circuito, vista lateral en curva>
 
-## Pros y contras
+## Puntos fuertes y puntos débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -82,35 +82,42 @@ Chasis multitubular de acero de alta resistencia, **horquilla invertida Kayaba d
 | Winglets, quickshifter y launch control | Red de concesionarios aún joven |
 | Precio de 6.297 € imbatible por equipamiento | Reventa y repuestos por demostrar |
 
-## Preguntas frecuentes
+## Preguntas que se repiten en los concesionarios
 
-### ¿Cuánto cuesta la Kove 450RR en España?
-Parte de **unos 6.297 €** con IVA y transporte incluidos (Península y Baleares), sin gastos de matriculación.
+### ¿Qué precio de salida tiene la 450RR en España?
 
-### ¿Cuántos caballos tiene la Kove 450RR?
-**66,6 CV (49 kW) a 13.250 rpm**, con un par máximo de 38 Nm a 11.000 rpm.
+Unos 6.297 €, con IVA y transporte ya incluidos en el precio para Península y Baleares, sin gastos de matriculación.
 
-### ¿Vale para el carnet A2?
-No. Con 49 kW supera el límite de 35 kW del A2: necesitas el **carnet A**.
+### ¿Qué potencia declara el tetracilíndrico?
 
-### ¿Qué la hace especial frente a sus rivales?
-Su motor de **cuatro cilindros**: casi todas las deportivas de media cilindrada usan bicilíndricos. El tetra le da un carácter y un sonido únicos.
+El par máximo es de 38 Nm a 11.000 rpm, y la potencia máxima llega a 13.250 rpm con 66,6 CV (49 kW).
 
-### ¿Qué velocidad máxima alcanza?
-La marca no declara cifra oficial para la versión europea; la Pro con RAM air rondaría los 220 km/h según la prensa especializada.
+### ¿Sirve el permiso A2 para llevarla?
 
-### ¿Qué rivales tiene?
-La Kawasaki Ninja 500, la Honda CBR500R y la Aprilia RS 457. Ninguna ofrece cuatro cilindros.
+No: con 49 kW rebasa el tope de 35 kW del A2, así que hace falta el permiso A.
+
+### ¿Qué la distingue de sus competidoras?
+
+El motor de cuatro cilindros: prácticamente todas las deportivas de media cilindrada montan bicilíndricos, y el tetra le aporta un carácter y un sonido distintos.
+
+### ¿Hay cifra oficial de velocidad punta?
+
+La marca no publica ningún dato oficial para la versión europea; la variante Pro con RAM air se acercaría a 220 km/h según la prensa especializada.
+
+### ¿Contra qué modelos compite?
+
+Sus contrincantes directas son tres: la Ninja 500 de Kawasaki, la CBR500R de Honda y la RS 457 de Aprilia. Ninguna de las tres monta cuatro cilindros.
 
 En circuito, un despiste con el puño sale caro: si te ha llegado una denuncia por velocidad, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
-*Fuentes: <a href=https://kovemotor.es/modelo/450rr/>ficha oficial en Kove España</a>, <a href=https://kovemotor.es/wp-content/uploads/2026/07/KOVE-Ficha-Tecnica-450RR.pdf>ficha técnica oficial en PDF</a> y <a href=https://www.mundomotero.com/motos/kove/450rr>precio y ficha en mundomotero.com</a>.*`,
+*Fuentes: <a href=https://kovemotor.es/modelo/450rr/>ficha oficial en Kove España</a>, <a href=https://kovemotor.es/wp-content/uploads/2026/07/KOVE-Ficha-Tecnica-450RR.pdf>ficha técnica oficial en PDF</a> y <a href=https://www.mundomotero.com/motos/kove/450rr>precio y ficha en mundomotero.com</a>.*
+`,
   },
   {
-    title: "Kove 800X 2025: precio, ficha y prueba",
+    title: "Kove 800X Pro 2025: trail de 94,5 CV por 9.899 €",
     slug: "kove-800x-2025-precio",
     excerpt:
-      "La Kove 800X Pro 2025 desde 9.899 €: bicilíndrico de 799 cc con 94,5 CV, 190 kg, suspensiones KYB de 240 mm, ABS de 3 modos y TFT de 7 pulgadas. Ficha técnica, versiones y rivales.",
+      "Trail media china con 799 cc, 94,5 CV y 190 kg: KYB de 240 mm, ABS en 3 modos y TFT de 7 pulgadas desde 9.899 €. Versiones Pro, Rally y GT.",
     category: "Novedades Motor",
     date: "2026-10-08",
     readTime: 7,
@@ -129,11 +136,11 @@ En circuito, un despiste con el puño sale caro: si te ha llegado una denuncia p
 
 **¿Buscas solo los datos?** <a href=/motos/kove-800x-2025-ficha-tecnica-precio/>Ver ficha técnica de la Kove 800X</a>: precio, motor de 94,5 CV, suspensiones KYB de 240 mm y etiqueta DGT. <a href=/comparador-motos/>Compárala cara a cara con sus rivales</a>.
 
-La **Kove 800X Pro** es la trail media que ha puesto nerviosas a las japonesas: **94,5 CV**, **190 kg** en orden de marcha, suspensiones **KYB de 240 mm** totalmente regulables, **ABS de 3 modos** y pantalla **TFT de 7 pulgadas** con mirroring. Todo por **9.899 €**, unos 1.900 € menos que una KTM 790 Adventure con potencia equivalente.
+Dentro del trail de media cilindrada, la propuesta china que más conversación genera combina una cifra de potencia seria con un peso contenido y un equipamiento que, en otras marcas, suele reservarse para gamas superiores. La variante Pro declara 94,5 CV, anuncia 190 kg con todos los líquidos y monta unas suspensiones KYB con 240 mm de recorrido, un ABS configurable en tres niveles y una pantalla TFT de 7 pulgadas capaz de replicar el móvil. Su tarifa de partida, en torno a 9.899 €, queda aproximadamente 1.900 € por debajo de lo que pide una KTM 790 Adventure de potencia comparable.
 
-Es la trail para quien quiere campo de verdad sin pagar peaje europeo. Y no viene sola: la familia 800X tiene tres personalidades muy distintas.
+Ese planteamiento no busca únicamente asfalto: la idea es ofrecer capacidad real fuera de carretera sin obligar a pagar el sobreprecio habitual de las europeas. Además, la familia no se reduce a una sola moto, porque sobre la misma base de 799 cc conviven tres caracteres bien diferenciados.
 
-## Ficha técnica resumida: Kove 800X Pro 2025
+## Resumen técnico de la versión Pro
 
 | Dato | Valor |
 |---|---|
@@ -149,30 +156,34 @@ Es la trail para quien quiere campo de verdad sin pagar peaje europeo. Y no vien
 
 ¿Quieres el detalle completo? <a href=/motos/kove-800x-2025-ficha-tecnica-precio/>Ficha técnica completa de la Kove 800X</a> con pros, contras y curiosidades.
 
-## Precio y versiones en España
+## Precios y variantes disponibles en el mercado español
 
-La **800X Pro** parte de **unos 9.899 €**. Pero la gama va más allá: la **800X Rally** (~10.699 €) es la versión radical off-road, con 176 kg, torre de navegación estilo dakariano, defensas y guardabarros elevado; y la **800X GT** (~7.999 €) es la viajera asfáltica, con llanta de 19 pulgadas, IMU, ABS en curva, control de crucero y puños calefactables. Tres motos distintas sobre la misma base de 799 cc.
+La viajera de la gama, la GT, se sitúa alrededor de 7.999 € y está orientada al asfalto: rueda delantera de 19 pulgadas, unidad de medición inercial, ABS sensible a la inclinación, regulador de velocidad y puños con calefacción. En el extremo opuesto, la Rally ronda los 10.699 € y apuesta por el uso radical fuera de pista, con 176 kg, una torre de navegación de inspiración dakariana, protecciones y un guardabarros delantero alto. Entre ambas queda la Pro, desde unos 9.899 €, como la opción equilibrada que combina uso diario, viaje y escapadas por pistas.
 
 <img src=/media/kove-800x-2025-precio-galeria-1.webp alt=Kove 800X Pro 2025, detalle de la torre delantera con faro LED>
 
-## Motor y electrónica
+## Motor, electrónica y comportamiento
 
-El bicilíndrico en paralelo de **799 cc** con refrigeración líquida entrega **94,5 CV (69,5 kW)** y **80 Nm a 7.500 rpm**, con una velocidad punta declarada de unos **210 km/h**. La electrónica de la Pro incluye **control de tracción con 3 modos** (Standard, Rain y OFF), **2 modos de conducción** (Sport y ECO) y **ABS desconectable con 3 niveles**: en ambas ruedas, solo delante o totalmente off.
+El propulsor es un bicilíndrico en paralelo de 799 cc, refrigerado por líquido, que anuncia 94,5 CV, equivalentes a 69,5 kW, y un par máximo de 80 Nm alcanzado a 7.500 rpm. La velocidad máxima declarada ronda los 210 km/h, una cifra más que suficiente para viajar con holgura y para mantener cruceros altos sin forzar la mecánica.
 
-## Parte ciclo: nacida para el campo
+En la Pro, la gestión electrónica permite adaptar la respuesta a las condiciones: el control de tracción ofrece tres ajustes, denominados Standard, Rain y OFF, mientras que la entrega se puede cambiar entre dos programas, Sport y ECO. El ABS también se puede desconectar y trabajar en tres niveles distintos: actuando en las dos ruedas, únicamente en la delantera o completamente desactivado para el campo.
 
-Chasis tubular de acero de doble viga, **horquilla invertida KYB de 48 mm** y monoamortiguador KYB trasero, ambos con **240 mm de recorrido** y regulación en precarga, compresión y extensión. Altura libre al suelo de **275 mm**. Frenos: **doble disco wave de 310 mm** con pinzas Taisko de 4 pistones delante y disco de 220 mm detrás. Llantas de radios con **Pirelli Scorpion Rally STR**.
+## Chasis, suspensiones y frenada
 
-## Historia de la Kove 800X
+La estructura recurre a un bastidor tubular de acero con doble viga, pensado para resistir el trato duro de las pistas. Delante trabaja una horquilla invertida KYB de 48 mm y detrás un monoamortiguador de la misma marca; los dos elementos ofrecen 240 mm de recorrido y ajustes de precarga, compresión y extensión. Esa geometría deja una altura libre respecto al suelo de 275 mm, útil cuando el terreno se complica.
 
-- **2017**: fundación de Kove en China bajo el lema «Focus on Performance».
-- **2023**: debut en el **Rally Dakar** con la 450 Rally: la aventura corre por sus venas.
-- **2024**: lanzamiento de la familia **800X** (Pro, Rally y GT) para el segmento trail medio.
-- **2025**: consolidación en España con precios agresivos frente a KTM, Yamaha y CFMOTO.
+Para detenerla, delante monta dos discos de tipo wave de 310 mm mordidos por pinzas Taisko de cuatro pistones, y detrás un disco de 220 mm. Las ruedas, de radios, calzan neumáticos Pirelli Scorpion Rally STR, un compuesto coherente con la vocación mixta de la moto.
+
+## Trayectoria de la marca y de la familia
+
+- **2017**: Kove arranca en China con una consigna centrada en el rendimiento, «Focus on Performance».
+- **2023**: la marca se estrena en el Rally Dakar con su 450 Rally, una prueba que marca su ADN aventurero.
+- **2024**: aparece la familia 800X, formada por la Pro, la Rally y la GT, dentro del trail medio.
+- **2025**: la gama se afianza en España gracias a unas tarifas muy competitivas frente a KTM, Yamaha y CFMOTO.
 
 <img src=/media/kove-800x-2025-precio-galeria-2.webp alt=Kove 800X Pro 2025 rodando por carretera de montaña>
 
-## Pros y contras
+## Ventajas e inconvenientes
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -182,25 +193,31 @@ Chasis tubular de acero de doble viga, **horquilla invertida KYB de 48 mm** y mo
 | TFT 7" con mirroring, TPMS y USB | Depósito de 19 L justo para viajar |
 | 1.900 € menos que la KTM 790 Adventure | 190 kg se notan en parado |
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuánto cuesta la Kove 800X en España?
-La **Pro** parte de **unos 9.899 €**; la Rally ronda los 10.699 € y la GT los 7.999 €.
+### ¿Qué precio tiene en España?
 
-### ¿Cuántos caballos tiene la Kove 800X?
-**94,5 CV (69,5 kW)** con 80 Nm de par máximo a 7.500 rpm.
+La GT se mueve en torno a 7.999 €, la Pro parte de unos 9.899 € y la Rally se acerca a 10.699 €.
 
-### ¿Vale para el carnet A2?
-No en su versión completa: con 94,5 CV necesitas el **carnet A**.
+### ¿Qué potencia desarrolla?
 
-### ¿Qué diferencias hay entre la Pro, la Rally y la GT?
-La **Rally** es la más campera (176 kg, torre de navegación, sin estriberas traseras); la **GT** es la viajera (llanta 19", IMU, crucero, puños calefactables); la **Pro** es el equilibrio entre ambas.
+El bicilíndrico anuncia 94,5 CV, es decir, 69,5 kW, con un par máximo de 80 Nm a 7.500 rpm.
 
-### ¿Qué autonomía tiene?
-La marca no declara consumo oficial; con 19 L y un consumo realista en trail, espera unos 350-400 km.
+### ¿Se puede conducir con el carnet A2?
 
-### ¿Qué rivales tiene?
-KTM 790 Adventure, Yamaha Ténéré 700, CFMOTO 800MT-X, Voge 900DSX y Zontes 703F.
+En su configuración completa, no: al superar los límites de esa categoría, hace falta el carnet A.
+
+### ¿Qué separa a unas versiones de otras?
+
+Empezando por la más campera, la Rally pesa 176 kg, lleva torre de navegación y prescinde de estriberas para el pasajero trasero; la GT, la más rutera, monta rueda de 19 pulgadas, IMU, regulador de velocidad y puños calefactables; la Pro busca el punto medio entre las dos.
+
+### ¿Qué distancia recorre con un depósito?
+
+El fabricante no comunica un consumo homologado; con 19 litros y un gasto realista en uso trail, cabe esperar entre 350 y 400 km.
+
+### ¿Contra qué modelos compite?
+
+Sus adversarias directas son la Zontes 703F, la Voge 900DSX, la CFMOTO 800MT-X, la Yamaha Ténéré 700 y la KTM 790 Adventure.
 
 Con 94 CV bajo el puño, un radar despistado sale caro: si te ha llegado una denuncia por velocidad, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
@@ -305,10 +322,10 @@ Si estrenas el A2 con ella, recuerda que los radares no perdonan a los novatos: 
 *Fuentes: <a href=https://www.mundomotero.com/motos/mbp/morbidelli-t502x>ficha y precio en mundomotero.com</a>, <a href=https://www.motorbikemag.es/ficha-tecnica/morbidelli-t502x/>ficha técnica en motorbikemag.es</a> y <a href=https://soymotero.net/pruebas/prueba-morbidelli-t502x/>prueba en soymotero.net</a>.*`,
   },
   {
-    title: "Morbidelli C1002V 2025: precio y ficha",
+    title: "Morbidelli C1002V 2025: custom V-twin desde 9.990 €",
     slug: "morbidelli-c1002v-2025-precio",
     excerpt:
-      "La Morbidelli C1002V 2025 desde 9.990 €: custom con V-twin de 997 cc y 88,4 CV, rueda trasera de 240, transmisión por correa, control de crucero y 5 años de garantía.",
+      "La C1002V 2025 cuesta 9.990 €: custom de 997 cc y 88,4 CV, rueda trasera de 240 mm, correa final, crucero de serie y garantía de 5 años.",
     category: "Novedades Motor",
     date: "2026-10-08",
     readTime: 7,
@@ -327,11 +344,11 @@ Si estrenas el A2 con ella, recuerda que los radares no perdonan a los novatos: 
 
 **¿Buscas solo los datos?** <a href=/motos/morbidelli-c1002v-2025-ficha-tecnica-precio/>Ver ficha técnica de la Morbidelli C1002V</a>: precio, V-twin de 88,4 CV, rueda de 240 y etiqueta DGT. <a href=/comparador-motos/>Compárala cara a cara con sus rivales</a>.
 
-La **Morbidelli C1002V** es la custom que demuestra que no hace falta gastarse 20.000 € para tener una power cruiser de 1000 cc: **9.990 €** con un **V-twin a 80° de 997 cc** que entrega **88,4 CV y 89 Nm**, una imagen **dragster** con rueda trasera de **240 mm**, **transmisión por correa** y **control de crucero** de serie.
+Con una tarifa de 9.990 €, esta custom de estirpe histórica demuestra que una power cruiser de litro no exige desembolsar 20.000 €. Su bicilíndrico en V abierto a 80° cubica 997 cc y desarrolla 88,4 CV con 89 Nm, cifras que se combinan con una silueta de estilo dragster, una cubierta posterior de 240 mm, una transmisión final por correa y un regulador de velocidad incluido sin sobreprecio.
 
-Es la moto para quien quiere presencia, par motor y viajes tranquilos sin el mantenimiento de una cadena ni el precio de las americanas.
+Va dirigida a quien busca imagen imponente, empuje abundante y rodadas serenas, sin asumir ni el cuidado constante de una cadena ni las tarifas de las grandes americanas.
 
-## Ficha técnica resumida: Morbidelli C1002V 2025
+## La C1002V en cifras
 
 | Dato | Valor |
 |---|---|
@@ -345,32 +362,29 @@ Es la moto para quien quiere presencia, par motor y viajes tranquilos sin el man
 | **Carnet** | A (limitable a A2) |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/motos/morbidelli-c1002v-2025-ficha-tecnica-precio/>Ficha técnica completa de la Morbidelli C1002V</a> con pros, contras y curiosidades.
+Si necesitas cada especificación, cada valoración y cada anécdota del modelo, abre la ficha completa desde aquí: <a href=/motos/morbidelli-c1002v-2025-ficha-tecnica-precio/>Ficha técnica completa de la Morbidelli C1002V</a>.
 
 ## Precio en España
 
-La C1002V se vende en España desde **9.990 €**, un precio sin competencia: ninguna custom de 1000 cc baja de esa cifra. De serie incluye **control de crucero**, pantalla **TFT de 5 pulgadas**, **TPMS**, puerto USB, **2 modos de conducción**, iluminación full LED con DRL y **5 años de garantía**. Algunos concesionarios la ofrecen con kit de maletas y respaldo de regalo en campaña.
+En el mercado español arranca en 9.990 €, una cantidad que ninguna otra custom de litro consigue rebajar. El equipamiento incluido sin pagar aparte abarca regulador de velocidad, cuadro TFT de 5 pulgadas, control de presión de los neumáticos, toma USB, dos programas de conducción, alumbrado completo de LED con luz diurna y una cobertura de 5 años. En plena campaña, algunos puntos de venta añaden de obsequio un juego de maletas con respaldo.
 
 <img src=/media/morbidelli-c1002v-2025-precio-galeria-1.webp alt=Morbidelli C1002V 2025, detalle del motor V-twin de 997 cc>
 
-## Motor: un V-twin de los de verdad
+## El bicilíndrico en V
 
-El bicilíndrico en V a 80°, SOHC y 8 válvulas, con refrigeración líquida, cubica **997 cc** y rinde **65 kW (88,4 CV) a 7.200 rpm** con **89 Nm a 5.250 rpm**. La entrega es lineal y aprovechable, con el carácter grave y contundente que se espera de un V-twin. La **transmisión final por correa** elimina el mantenimiento de la cadena, y el embrague antirrebote suaviza las reducciones.
+El propulsor, un bicilíndrico en V a 80° con un solo árbol de levas en cabeza y ocho válvulas, refrigera por líquido y alcanza 997 cc. Rinde 65 kW, equivalentes a 88,4 CV, a 7.200 rpm, mientras el par máximo de 89 Nm llega a 5.250 rpm. La respuesta resulta progresiva y utilizable en todo el rango, con el sonido profundo y rotundo propio de esta arquitectura. Al prescindir de cadena, la correa final suprime engrases y tensados, y el embrague con función antirrebote dulcifica las reducciones bruscas.
 
-## Parte ciclo de power cruiser
+## Chasis, frenos y ruedas
 
-Chasis de doble cuna de acero, **horquilla invertida KYB** con 137 mm de recorrido y monoamortiguador trasero Pro-Link con ajuste de precarga. Frenos **J.Juan**: doble disco delantero de 320 mm con pinzas radiales de 4 pistones y disco trasero de 300 mm, con ABS. Las medidas de rueda lo dicen todo: **130/70-18 delante y 240/40-18 detrás** con neumáticos Metzeler. Con **2.380 mm de longitud** y 1.665 mm entre ejes, impone respeto parada y en marcha.
+El bastidor, de doble cuna en acero, se combina con una horquilla invertida KYB de 137 mm de recorrido y un amortiguador trasero único Pro-Link con precarga regulable. La frenada corre a cargo de J.Juan: dos discos delanteros de 320 mm con pinzas radiales de cuatro pistones y un disco trasero de 300 mm, todo con ABS. Las cubiertas Metzeler calzan 130/70-18 en el tren delantero y 240/40-18 en el trasero, unas medidas que anticipan su presencia. Con 2.380 mm de largo total y 1.665 mm entre ejes, su estampa impone tanto detenida como en movimiento.
 
-## Historia de Morbidelli y la C1002V
+## Historia de la marca
 
-- **Años 70**: la Morbidelli original gana **tres títulos mundiales de 125 cc** en Grandes Premios.
-- **2023**: renace la marca con capital del grupo MBP y una gama moderna completa.
-- **2024**: debuta la **C1002V**, la custom V-twin que comparte plataforma con la maxitrail T1002VX.
-- **2025**: se consolida como la custom de 1000 cc más asequible del mercado europeo.
+La Morbidelli primigenia brilló en los años 70 al conquistar tres coronas mundiales en 125 cc dentro del Mundial de Grandes Premios. Décadas después, en 2023, la enseña resurgió con financiación del grupo MBP y una familia contemporánea completa. Al año siguiente apareció la C1002V, una custom con motor en V que utiliza la misma base que la maxitrail T1002VX. Ya en 2025, el modelo se afianzó como la custom de litro más económica del mercado europeo.
 
 <img src=/media/morbidelli-c1002v-2025-precio-galeria-2.webp alt=Morbidelli C1002V 2025 rodando al atardecer por carretera>
 
-## Pros y contras
+## Luces y sombras
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -382,23 +396,23 @@ Chasis de doble cuna de acero, **horquilla invertida KYB** con 137 mm de recorri
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta la Morbidelli C1002V?
-**9.990 €** en España, la custom de 1000 cc más barata del mercado.
+### ¿Qué precio tiene la C1002V en España?
+Arranca en 9.990 €, lo que la sitúa como la custom de litro con la tarifa más baja del mercado.
 
-### ¿Cuántos caballos tiene la C1002V?
-**88,4 CV (65 kW) a 7.200 rpm**, con 89 Nm de par a 5.250 rpm.
+### ¿Qué potencia desarrolla su motor?
+Entrega 88,4 CV, es decir, 65 kW, a 7.200 rpm, con un par máximo de 89 Nm a 5.250 rpm.
 
-### ¿Vale para el carnet A2?
-De serie necesita el **carnet A**, aunque admite kit de limitación para el A2.
+### ¿Se puede conducir con el A2?
+De origen exige el carnet A, si bien existe un kit de limitación que la adapta al A2.
 
-### ¿Qué tiene de especial su transmisión?
-Usa **correa** en lugar de cadena: no hay que engrasar ni tensar nada, ideal para viajar.
+### ¿Por qué la transmisión por correa es una ventaja?
+Porque suprime el engrase y el tensado: frente a la cadena, viajar se vuelve más limpio y despreocupado.
 
-### ¿Es cómoda para viajar?
-Sí: asiento a 680 mm, postura relajada, control de crucero y 22 L de depósito. Su peso se nota en parado, no en marcha.
+### ¿Resulta cómoda en viajes largos?
+Sí: el asiento queda a 680 mm, la postura es distendida, dispone de regulador de velocidad y el depósito admite 22 L. El peso se percibe en parado, no rodando.
 
-### ¿Qué rivales tiene?
-Indian Scout, Honda Rebel 1100 y Kawasaki Vulcan S. Todas cuestan bastante más.
+### ¿Contra qué modelos compite?
+Entre sus alternativas figuran la Scout de Indian, la Rebel 1100 de Honda y la Vulcan S de Kawasaki, todas con tarifas claramente superiores.
 
 Una custom así invita a disfrutar la carretera, no a correr: pero si un radar te caza en un adelantamiento, <a href=https://recurretumulta.online/#analizador>analiza la multa gratis con nuestra IA</a> antes de pagar.
 

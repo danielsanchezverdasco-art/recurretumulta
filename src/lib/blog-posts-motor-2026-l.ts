@@ -71,9 +71,9 @@ Los principales son el **Omoda 9 SHS**, el **Jaecoo 7 SHS** y el **BYD Seal U DM
 `,
 },
 {
-  title: "Renault hará eléctricos en España",
+  title: "Renault: 600 M€ para fabricar eléctricos en España",
   slug: "renault-600-millones-electricos-espana",
-  excerpt: "Renault invertirá 600 millones hasta 2030 en Valladolid y Palencia: 5 modelos nuevos, línea de baterías y la primera plataforma eléctrica nativa fabricada en España. El análisis.",
+  excerpt: "Renault invertirá 600 millones hasta 2030 en Valladolid y Palencia: 5 modelos, línea de baterías y la RGEV Medium 2.0, primera eléctrica nativa en España.",
   category: "Novedades Motor",
   date: "2026-10-08",
   readTime: 7,
@@ -87,27 +87,27 @@ Los principales son el **Omoda 9 SHS**, el **Jaecoo 7 SHS** y el **BYD Seal U DM
   ],
   content: `<img src=/media/renault-600-millones-electricos-espana-hero.webp alt=Línea de montaje de una fábrica de coches en España con SUV eléctricos, imagen editorial>
 
-**Renault Group** va a hacer algo que no ha hecho en **75 años** de historia industrial en España: **fabricar coches eléctricos aquí**. El plan, anunciado oficialmente el 24 de septiembre dentro de su estrategia **futuREady**, supone **600 millones de euros** entre 2026 y 2030 para las plantas de **Valladolid y Palencia**: cinco modelos nuevos, una línea de montaje de baterías y la primera plataforma eléctrica nativa producida en suelo español. Lo analizamos porque cambia el mapa industrial del coche eléctrico en Europa.
+Renault Group producirá coches eléctricos en España por primera vez en sus 75 años de trayectoria industrial en el país. El anuncio llegó el 24 de septiembre, dentro de la estrategia futuREady, y contempla 600 millones de euros para el periodo 2026-2030, destinados a Valladolid y Palencia. El proyecto suma cinco modelos inéditos, una línea para montar baterías y la primera arquitectura nativa eléctrica que se fabricará en suelo español.
 
-## Datos clave
+## El anuncio en cifras
 
-- **Inversión:** 600 millones de euros (2026-2030), fondos propios + ayudas públicas (PERTE y Junta de Castilla y León)
-- **Plan:** futuREady, la estrategia industrial de Renault Group
-- **Valladolid:** nueva línea de montaje de baterías + 2 modelos nuevos
-- **Palencia:** plataforma eléctrica nativa **RGEV Medium 2.0** (segmentos C y D); 2 eléctricos del segmento C + 1 modelo multitecnología
-- **Hito:** primera vez en 75 años que Renault produce eléctricos en España
-- **Empleo:** más de 6.000 puestos de trabajo directos asegurados, con convenio colectivo 2026-2028
-- **Fuente:** <a href=https://prensa.renaultgroup.es/renault-group-invertira-600-millones-de-euros-en-espana-para-impulsar-una-nueva-etapa-industrial-y-tecnologica-en-el-marco-del-plan-estrategico-futuready/?lang=spa>nota de prensa oficial de Renault Group España</a> (24/09/2026) y <a href=https://www.reuters.com/es/negocio/GC75UA2WJVKMRO34LA77QQMTCY-2026-09-25/>Reuters</a>
+- Cuantía: 600 millones de euros para el periodo 2026-2030, con fondos propios y ayudas públicas del PERTE y de la Junta de Castilla y León.
+- Estrategia: futuREady, el plan industrial de Renault Group.
+- Valladolid: una línea nueva para montar baterías y dos modelos inéditos.
+- Palencia: la arquitectura RGEV Medium 2.0, nativa eléctrica, para los segmentos C y D, con dos eléctricos del segmento C y un modelo multitecnología.
+- Hito: Renault fabricará eléctricos en España por primera vez en 75 años.
+- Empleo: el plan asegura más de 6.000 puestos de trabajo, todos directos, amparados por el convenio colectivo 2026-2028.
+- Origen: <a href=https://prensa.renaultgroup.es/renault-group-invertira-600-millones-de-euros-en-espana-para-impulsar-una-nueva-etapa-industrial-y-tecnologica-en-el-marco-del-plan-estrategico-futuready/?lang=spa>nota de prensa oficial de Renault Group España</a> (24/09/2026) y <a href=https://www.reuters.com/es/negocio/GC75UA2WJVKMRO34LA77QQMTCY-2026-09-25/>Reuters</a>
 
-## La plataforma RGEV Medium 2.0: 750 km de autonomía
+## RGEV Medium 2.0: la base eléctrica de Palencia
 
-El corazón del plan es la **RGEV Medium 2.0**, la arquitectura eléctrica de nueva generación que Palencia estrenará en España. Según Renault, permitirá eléctricos con **hasta 750 km de autonomía WLTP**, versiones de autonomía extendida de hasta **1.400 km**, arquitectura de **800 voltios** y recargas rápidas "en torno a diez minutos". Son cifras de plataforma —los modelos concretos se anunciarán más adelante—, pero sitúan a la factoría palentina en la primera división europea del coche eléctrico.
+El eje del proyecto, la RGEV Medium 2.0, llegará a Palencia como arquitectura de nueva generación estrenada en España. Renault anuncia para ella eléctricos con una autonomía de hasta 750 km WLTP, variantes de autonomía extendida hasta 1.400 km, una arquitectura de 800 voltios y cargas rápidas en torno a diez minutos. Se trata de cifras de plataforma: los modelos concretos se comunicarán más adelante.
 
 <img src=/media/renault-600-millones-electricos-espana-galeria-1.webp alt=SUV eléctrico compacto rojo en una nave industrial de automoción, imagen editorial>
 
-## Qué significa para España
+## Consecuencias para España
 
-Primero, **empleo industrial de calidad**: 6.000 empleos directos más todo el ecosistema de proveedores de Castilla y León. Segundo, **el segmento C eléctrico "made in Spain"**: los dos eléctricos de Palencia competirán en el corazón del mercado europeo, el mismo segmento donde pelean el Mégane E-Tech o el Scenic. Tercero, **baterías montadas en Valladolid**: el eslabón que más valor añade de la cadena del eléctrico se queda en España. Y cuarto, una señal: si Renault —una de las marcas que más vende en España— apuesta por fabricar aquí sus eléctricos, la reindustrialización del automóvil español va en serio.
+En primer lugar, trabajo industrial: 6.000 empleos directos, a los que se suma la red de proveedores de Castilla y León. En segundo lugar, el segmento C eléctrico fabricado en España: los dos eléctricos palentinos competirán en el centro del mercado europeo, el mismo tramo donde compiten el Mégane E-Tech o el Scenic. En tercer lugar, las baterías montadas en Valladolid, con lo que ese eslabón de la cadena del eléctrico permanece en España. Además, el plan supone que Renault, una de las marcas con más ventas en España, pase a fabricar sus eléctricos en el país.
 
 | El plan, en cifras | Dato |
 |---|---|
@@ -120,18 +120,18 @@ Primero, **empleo industrial de calidad**: 6.000 empleos directos más todo el e
 
 <img src=/media/renault-600-millones-electricos-espana-galeria-2.webp alt=Baterías de coche eléctrico en una línea de producción moderna, imagen editorial>
 
-Los eléctricos que Renault ya vende en España —del <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>Renault 5 E-Tech</a> al <a href=/coches/renault-megane-e-tech-2026-lfp-67-kwh-precio-ficha-tecnica/>Mégane E-Tech con batería LFP</a>— son la avanzadilla de lo que Palencia producirá a gran escala. <a href=/comparador-coches/>Compáralos en nuestro comparador de coches eléctricos</a> y <a href=/guias/ayudas-compra-coche-electrico-2026/>revisa las ayudas vigentes para comprar un eléctrico en 2026</a>.
+Los eléctricos que Renault ya comercializa en España, desde el <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>Renault 5 E-Tech</a> hasta el <a href=/coches/renault-megane-e-tech-2026-lfp-67-kwh-precio-ficha-tecnica/>Mégane E-Tech con batería LFP</a>, anticipan la producción palentina a gran escala. <a href=/comparador-coches/>Compáralos en nuestro comparador de coches eléctricos</a> y <a href=/guias/ayudas-compra-coche-electrico-2026/>revisa las ayudas vigentes para comprar un eléctrico en 2026</a>.
 
 ## Preguntas frecuentes
 
-### ¿Qué modelos eléctricos fabricará Renault en España?
-Dos eléctricos del segmento C en Palencia sobre la plataforma RGEV Medium 2.0, más un tercer modelo multitecnología. Los nombres concretos aún no se han anunciado.
+### ¿Qué eléctricos saldrán de las plantas españolas?
+En Palencia se harán dos eléctricos del segmento C con la base RGEV Medium 2.0, junto a un tercer modelo multitecnología. Los nombres concretos todavía no se han anunciado.
 
-### ¿Cuándo empezará la producción?
-La inversión cubre el periodo 2026-2030; los primeros modelos de la nueva etapa industrial llegarán en la segunda mitad de la década.
+### ¿Cuándo arrancará la producción?
+La inversión abarca el periodo 2026-2030; la nueva etapa industrial estrenará sus primeros modelos en la segunda mitad de la década.
 
-### ¿Cuánto invierte Renault en España?
-600 millones de euros entre 2026 y 2030, combinando fondos propios del grupo con ayudas públicas nacionales (PERTE) y regionales.
+### ¿Qué cantidad destinará Renault a España?
+La cuantía es de 600 millones de euros para 2026-2030, con fondos propios del grupo y ayudas públicas: nacionales, del PERTE, y regionales.
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
