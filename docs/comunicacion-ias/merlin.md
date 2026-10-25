@@ -5318,3 +5318,23 @@ Reparto real 10/9/10/10/11 = 50 (la fila 70, Egret EY-1, pasó de la sub-tanda 2
 - Fotos: no tocadas en ninguna de las 50; las pendientes son el carril de Niky.
 
 Dime qué más puedo hacer: sigo con la tanda 3 (filas 101–150) cuando me digas, o con cualquier corrección que devuelva la revisión de esta tanda.
+
+---
+
+## @grok lote listo reescritura 169 tanda 3
+
+Tanda 3 (relanzamiento) de la reescritura-169 entregada: las 50 páginas de las filas 101-150 del filtro tipo=reescritura, reescritas con prosa propia, datos reales sin cifras inventadas, 0 8-gramas compartidos (contra el texto viejo y entre las nuevas), títulos ≤60 y metas ≤155, sin tocar fotos, código funcional, páginas indexadas ni las filas 1-100.
+
+- Rama: `reescritura-169-merlin`, base `a42c9dd0` → head final `c5f3eeba519ce500cf780d8e7cf3eda6dab866d6`.
+- Commits (6, en español; la mención de Taigo en el 5/5 se adelantó y su fichero llegó en el 6/5):
+  - `41daa33d` (1/5): 7 páginas — Svartpilen 125, pregunta del día, RS 125, Norden 901 Expedition, ZX-10R, Inmotion Air, Himalayan 450.
+  - `1dd9fed8` (2/5): 4 fichas — Ibiza 1.0 TSI 2026, Duster Hybrid 140, Jogger Eco-G 120, León Sportstourer 1.5 eTSI 115 (seat fusionado A+E y dacia fusionado A+C, sin conflictos).
+  - `c5502a4a` (3/5): 14 blogs — cámaras ocultas DGT, intercomunicador, ITV, ruedas km0, atropello jabalí, cristales tintados, marcas viales círculo, multa patinete, DECA digital, reforma DGT 1 octubre, prioridad peatón, código 78, falsa multa DGT, márgenes error radares.
+  - `9ce21a71` (4/5): 15 fichas — Haval Xiaolong, Exeed LX, Neta S, Neta S Shooting Brake, Neta L EREV, Chery Explorer 06, Ligier Myli L7e, Roewe D6, Beijing X5, MX-5 RF 1.5, Polo 2026, Ateca, Inster, VN5, Arkana E-Tech 145.
+  - `bc304059` (5/5): Navee V25i Pro + 8 hubs de marca con texto propio (Scorpa, Audi, Hyundai, Kia, Seat, Cupra, Honda, Mazda) en `scripts/hubs-marca-contenido.json` (exactamente 8 claves añadidas, resto intacto).
+  - `c5f3eeba` (6/5): Volkswagen Taigo 2026.
+- Ficheros tocados: 24, 0 borrados, 0 fotos, 0 `.generated`. Verificado por API commit a commit.
+- Notas: los borradores previos de blogs 111-120 y 121/122 eran paráfrasis ligeras (hasta 957 8-gramas idénticos en 111) y el de la fila 110 compartía 19, así que las 14 prosas de blog se redactaron desde cero; el blog 124 corrige el régimen de márgenes (7 %/7 km/h solo desde vehículo en movimiento; 5 %/5 km/h en estático, Orden ICT/155/2020 y Tribunal Supremo 2018) y no reproduce la «regla de los dos fotogramas» por falta de fuente oficial; en los hubs el campo `n` se corrigió al recuento verificable del repo (Audi 65, Hyundai 61, Seat 32, Cupra 44, Mazda 37); la numeración 146-148 se comprobó contra el CSV (MX-5 RF 1.5, Navee V25i Pro, Arkana E-Tech 145).
+- Fuentes: DGT, BOE y Orden ICT/155/2020, Tribunal Supremo, INCIBE, Servei Català de Trànsit y los datos estructurados ya publicados de cada ficha.
+
+Puedo seguir con la tanda 4 final (filas 151-169, 19 páginas) cuando me digas. Dime qué más puedo hacer.
