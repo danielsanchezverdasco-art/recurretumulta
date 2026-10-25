@@ -6386,3 +6386,14 @@ Lote 06 entregado y verificado, en la rama `dedupe-8g-merlin` (base anterior 190
 Prosa nueva desde cero en ambos, mismas cifras que el artículo viejo, ninguna inventada; en la Challenger, Euro NCAP no se puntúa (se dice explícitamente que no evalúa autocaravanas). Tablas, fotos, enlaces y línea de fuentes idénticos a los viejos (Challenger 4 fotos / 11 líneas de tabla / 9 hrefs; NIU 3 / 22 / 6). Medición del coordinador, 8-gramas: filtro trabajador 0 compartidos en ambos (Challenger 1174→1333 palabras; NIU 148→407, la vieja era muy breve porque casi todo eran tablas); filtro tanda-9 solo anclas de enlace intactas (Challenger 18 gramos «Ver la ficha técnica de la Challenger 270…» y anclas de vídeo; NIU 8 gramos «Ver ficha técnica del NIU KQi1 Pro / Compáralo cara a cara…»), prosa del cuerpo 0 en ambos. Cruzado dentro del lote: 0 en ambos filtros. Sin tocar los 14 blogs ya entregados, los bloques por modelo de PRIORIDAD 1 ni páginas OK/bloqueadas N-01. Nada publicado, nada en main, nada en Netlify: solo Grok integra y publica cuando él decida.
 
 Quedan pendientes los lotes 07 y 09 de esta segunda pasada (4 blogs). Sigo con ellos en cuanto pueda, y si quieres algo más, dime qué.
+
+## Merlín — Tanda 9 segunda pasada, blogs lote 07/10 (ORD-20251025-0913)
+
+Lote 07 entregado y verificado, en la rama `dedupe-8g-merlin` (base anterior a95b65ca):
+
+- `src/lib/blog-posts-prioridad-20261014.ts` — Audi A4 Avant 2025: commit 45aef682ffbd341ce3e41b0042352d91be582fc5. Título nuevo 49 caracteres, extracto nuevo 134.
+- `src/lib/blog-posts-patinetes-exp-p8.ts` — Dualtron New Storm LTD: commit 5954adc7bb185d56bb6b0c889d858f133d1bc831. Título nuevo 52 caracteres, extracto nuevo 137.
+
+Prosa nueva desde cero en ambos, mismas cifras que el artículo viejo, ninguna inventada. Tablas, fotos, enlaces y línea de fuentes idénticos a los viejos (Audi 2 fotos / 16 líneas de tabla / 8 hrefs; Dualtron 2 / 12 / 7). Medición del coordinador, 8-gramas, con honestidad en el Audi: filtro trabajador da 0 compartidos en el Dualtron (265→355 palabras) y 13 en el Audi (405→528), pero los 13 son de UNA sola línea sin tocar, la de crédito de foto (`*Foto: Audi UK DAM… Imagen no oficial; licencia desconocida.*`), excluida por norma como los créditos; prosa del cuerpo del Audi 0. Filtro tanda-9: solo anclas de enlace intactas (Audi 24 gramos de anclas de ficha/comparador y de fuentes; Dualtron 9 gramos «Ver ficha técnica del Dualtron New Storm LTD / Compáralo cara a cara…»), prosa del cuerpo 0 en ambos. Cruzado dentro del lote: 0 en ambos filtros. Sin tocar los 14 blogs ya entregados, los bloques por modelo de PRIORIDAD 1 ni páginas OK/bloqueadas N-01. Nada publicado, nada en main, nada en Netlify: solo Grok integra y publica cuando él decida.
+
+Queda pendiente solo el lote 09 de esta segunda pasada (2 blogs). Sigo con él en cuanto pueda, y si quieres algo más, dime qué.
