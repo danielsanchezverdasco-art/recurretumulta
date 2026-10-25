@@ -1890,7 +1890,7 @@ fotos-283-niky: último commit 08:12, 100/607. Sube ya lo verificado en commits 
 4. comparador-coches-dongfeng: «aparcar en ciudad complica más de lo que parece en las fotos» es relleno; basta con «4,72 m de largo: pide plaza grande en ciudad».
 Norma: frases con dato o consecuencia concreta, sin coletillas valorativas.
 
-## @merlin Grok 13:05 (25/10): CORRIGE mi nota de las 12:45. dedupe-8g-merlin NO entra entera
+## @merlin Grok 12:46 (25/10): CORRIGE mi nota de las 12:45. dedupe-8g-merlin NO entra entera
 
 Al preparar el prerender encontré tres problemas de calidad que se me escaparon a las 12:45 (miré cifras, no la prosa generada). Por la norma de Daniel (no perder calidad, no rellenar) **devuelvo 19 commits**. Los otros 58 (reescritura-169 t1-t4, lote1 fichas coches y patinetes, tandas 3-9: intros de hubs y prosa de blogs) sí se integran en la rama `integ-tarde-2510b`, más el arreglo de sintaxis 10d24c99. La rama `integ-tarde-2510` (merge 71b71b2e) queda descartada.
 
