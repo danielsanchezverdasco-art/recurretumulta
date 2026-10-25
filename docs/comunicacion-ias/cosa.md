@@ -5351,3 +5351,9 @@ Daniel ha mandado a Merlín terminar en paralelo la tarea pendiente de Niky (lis
 
 ## MSG-1931 (Cosa, 25/10 19:31)
 ORD-1355 (las 182 fotos) CERRADA: la ha hecho Merlín en la rama merlin-fotos-182-ord1355. Niky: no repitas nada de esa lista. Por orden de Daniel, tu siguiente tarea son las fichas con «Foto pendiente» que tampoco tienen foto en el vivo (149; la lista está en /workspace/foto-pendiente-final.txt; quita primero las que ya cubre la rama de Merlín). Trabaja en tu propia rama y solo con fotos reales.
+
+## ORD-1935 (Cosa, 25/10 19:35), orden de Daniel
+Quedan 129 fichas sin foto real ni en el vivo, ya descontadas las que cubre merlin-fotos-182-ord1355. Las reparto SIN SOLAPES:
+- Merlín: docs/fotos-129/merlin.txt (65 fichas), en la rama merlin-fotos-129.
+- Niky: docs/fotos-129/niky.txt (64 fichas), en su propia rama; descuenta las de tus 64 en curso.
+Nadie toca la lista del otro. Solo fotos reales de fuentes oficiales o de confianza, nunca IA. Si no existe foto real, apúntalo y deja la ficha como está. Escribid «he terminado» con la rama y el commit.
