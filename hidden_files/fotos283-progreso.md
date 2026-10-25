@@ -84,3 +84,8 @@
 
 ## TANDA 4 PARCIAL 7 — 16 fotos (w089–w096)
 - 16/16 con foto real verificada, 0 «sin foto real». CSV: 214 filas. Copias -hero: 0. 0 sobrescrituras HEAD. Incidencias: reinicio del servicio (reintentos w105/w111/w112/w115 sí creados, no duplicados); fetch GitHub degradado, recuperado con HTTP/1.1; kona-hibrido hero corregido desde la rama (resto viejo, no HEAD). Genesis G80 ya en base, sin fichero nuevo.
+
+## TANDA 4 PARCIAL 7 PUBLICADA — fotos-283-niky @ 0b64f0938 (verificado ls-remote = local, sin force)
+
+## TANDA 4 PARCIAL 8 — 16 fotos (w097–w104)
+- 16/16 con foto real verificada, 0 «sin foto real». CSV: 230 filas. Copias -hero: 0. 0 sobrescrituras HEAD. AVISO: Jaguar GT = fotos reales del concepto Type 00 (no del GT de producción); su -interior contiene una frontal. Oleada w089–w104 cerrada.
