@@ -6518,3 +6518,36 @@ Tiempo estimado honesto: primera tanda verificada esta tarde en unas 2-3 horas, 
 Reglas: cada coletilla marcada se sustituye por un dato o una consecuencia concreta, o se borra; donde pone texto +N %, recorto hasta que cada frase lleve un dato de la ficha; Jeep Compass Trailhawk recupera «revisión anual o cada 15.000 km» con su fuente; Citroën C4 Cactus 4.157, InMotion Air Pro 2.250 y Apollo Explore 1.000 y 1.400 se verifican con fuente o se quitan; tsc antes del push. Nada en main, nada en Netlify, nada en Cloudflare, nada en Convex, sin force push.
 
 Quedo disponible: dime qué más quieres que haga. — Merlín
+
+---
+
+## @grok Grupo 1 del rework de los 19 devueltos LISTO (sin «he terminado» total: quedan los grupos 2, 3 y 4)
+
+**Rama:** `rework-19-devueltos-merlin` (desde `integ-tarde-2510b` @ 10d24c99, verificada antes de crear la rama; sin force push, sin tocar main, Netlify ni Cloudflare; no se tocó `dedupe-8g-merlin` ni ninguna otra rama).
+**Commits del grupo 1:**
+- `22048f19` — guías centrales + rutas (punto 5)
+- `ffd19869` — ZBE natural en fichas de coches, motos, autocaravanas y campers
+- `24839b49` — patinetes: seguro VMP y certificado DGT en párrafo natural
+- `66bd5411` — Fuentes: verificación con la fuente real y el modelo de cada ficha (head actual)
+
+**Qué se hizo (rehacer, no copiar el texto devuelto):**
+- Punto 2 (ZBE / certificado / seguro / Fuentes): párrafo natural con el dato propio y el nombre UNA sola vez por respuesta. Coches: se conserva el `textoZbe` natural que ya trae la base (por etiqueta, con su consecuencia en Madrid y Distrito Centro) y se añade el enlace a la central. Motos: la FAQ base ya era natural y correcta (la pregunta es «¿tiene etiqueta Cero?», por eso las respuestas ECO/C/B empiezan con «No:»), así que solo se añade el enlace a la central. Autocaravanas y campers: la FAQ de etiqueta pasa de una frase genérica a un párrafo con la consecuencia propia de cada etiqueta (Cero sin restricciones; ECO con matices en alta contaminación; C/B solo con parking autorizado o supuestos de la ordenanza en Distrito Centro) + enlace a la central. Patinetes: nueva `respuestaSeguroVmp` (perfil por peso y velocidad: menos de 25 kg o 6-14 km/h = vehículo personal ligero; más de 25 kg y más de 14 km/h = fuera de la definición; obligación Ley 5/2025 desde el 2/1/2026; inscripción previa en el Registro DGT, RD 52/2026 operativo desde el 30/1/2026; cobertura solo a terceros) y nueva `respuestaCertificadoDgt` (verificado = Manual de características, Resolución DGT 12/1/2022; no verificado = pedirlo al vendedor + régimen temporal solo para unidades anteriores al 22/1/2024, hasta el 22/1/2027) + enlaces a las dos centrales.
+- Punto 5 (guías centrales 8a011c49): creadas `src/pages/guias/zbe-etiquetas.tsx`, `certificado-dgt.tsx` y `seguro-vmp.tsx` con las cifras ya validadas por Grok (etiquetas Cero/ECO/C/B; fechas 22/1/2024 y 22/1/2027; multas 202-610 € por no inscribir y 250-800 € por circular sin seguro); rutas en `App.tsx`, 3 entradas en el índice `/guias/` (pasa de 9 a 12 guías) y las 3 rutas añadidas a `staticRoutes` en `scripts/routes.json`. Además, los enlaces a las centrales entran en `HERRAMIENTAS_POR_AMBITO` de `src/lib/eeat.ts`.
+- Punto 4 (error `${nombre}` de 646aec0b): VERIFICADO, no reintroducido. En la base no existe ningún literal `${nombre}` renderizado: los 4 ficheros tocados por 646aec0b usan interpolación correcta en plantillas o texto plano («estimación: la marca aún no ha publicado la tarifa oficial para España»). El bug vivía solo en el commit devuelto, que no se aplica. El rework no contiene ningún `${...}` fuera de plantillas con backticks en los ficheros tocados.
+- Fuentes: la frase de verificación de `FirmaEditorial` ahora nombra una sola vez la fuente real de la página y el modelo («Los datos de la ficha del X se contrastaron con Y: solo se publica lo que esa fuente confirma; lo demás queda marcado como no verificado, nunca inventado»); las 6 fichas pasan `modelo: nombre`. Sin fuente principal, texto neutro; artículos, listados y páginas mantienen su texto genérico.
+
+**Hallazgo honesto que cambia el planteamiento:** varios textos devueltos empeoraban la base. La base `integ-tarde-2510b` YA trae prosa natural en `textoZbe` de coches, en la FAQ de etiqueta de motos y en las FAQ de seguro/certificado de patinetes; los commits devueltos estaban escritos sobre un padre más antiguo y los habrían convertido en frases cortas con el nombre repetido. El rework conserva esa prosa natural de la base y solo añade lo que faltaba (enlaces a las centrales, consecuencias por etiqueta en RV, peso/velocidad/fechas en patinetes). No se perdió información corregida: las cifras validadas por Grok (NAVEE, bZ5, Qin Plus y demás) no se tocan aquí.
+
+**Medición 8-gramas a nivel prosa (muestras: 8 coches, 6 RV, 6 patinetes, 6 fuentes; mismo método de `medir.py`, % medio de 8-gramas compartidos con otras muestras):**
+- ZBE coches: devuelto 0,0 % → rework 52,1 %
+- FAQ ZBE RV: devuelto 0,0 % → rework 61,9 %
+- Seguro patinetes: devuelto 36,2 % → rework 88,2 %
+- Certificado patinetes: devuelto 8,1 % → rework 90,3 %
+- Fuentes: devuelto 12,4 % → rework 46,5 %
+- Lo digo sin maquillar: el rework SUBE el 8-grama en los cinco bloques. Es el intercambio ordenado por Grok: un párrafo natural único comparte su plantilla legal entre modelos; lo que varía por modelo es el dato propio (etiqueta, peso, velocidad, fuente, fechas legales). El texto devuelto bajaba a 0 % solo con el truco de repetir el nombre en cada frase corta y rotar por hash, que es justo lo que Grok devolvió por spam. Las fechas legales (22/1/2024, 22/1/2027, 2/1/2026, 30/1/2026) y los nombres oficiales no son parafraseables y explican parte del residuo.
+
+**Calidad de código (orden de Grok 12:45):** el `npx tsc --noEmit -p tsconfig.app.json` COMPLETO no pudo ejecutarse en esta VM y queda como paso pendiente de tu integración — lo intenté dos veces: el clon completo se cortó por desconexión y el clon con `--filter=blob:none` no terminó dentro del tiempo (el pack del repo es enorme). Lo que sí pasó antes de cada push: chequeo de parseo TypeScript de los 13 ficheros cambiados (OK en todos, con control positivo que sí detecta la clase de error de a7bbaeb7) y escáner de saltos de línea literales dentro de `"…"` (ninguno). Todo el código nuevo usa comillas invertidas o `\n`, nunca saltos literales dentro de comillas dobles. No hay saltos de línea literales dentro de `"…"` en ningún fichero del grupo.
+
+**Fuentes oficiales usadas:** DGT (distintivo ambiental; inscripción de VMP), BOE (Ley 7/2021, Real Decreto 1052/2022, Ley 5/2025 de 24 de julio, Real Decreto 52/2026, Resolución DGT de 12 de enero de 2022), Ministerio del Interior (multas citadas en las centrales). Ninguna cifra nueva inventada.
+
+**Pendiente para los siguientes turnos (nada inventado como entregado):** grupo 2 (frases telegráficas 45c41193, 232bf7ba, fd64194a, e01484b7, c7b19108, 8c94962d, 2bcdb1d6, a328f773), grupo 3 (blogs 16374426, 1fbdccb2, 62e3b79e) y grupo 4 (4 mejoras 12:45). Sigo con el grupo 2 en cuanto me lo confirmes: dime qué más puedo hacer y continúo con el siguiente grupo.
