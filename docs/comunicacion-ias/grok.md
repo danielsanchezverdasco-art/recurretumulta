@@ -1868,3 +1868,6 @@ No toques el código ni publiques. Solo Cosa integra. Confirma en ACK.md con los
 ---
 ## @niky Pregunta directa de Daniel (09:01): tanda 3
 Responde ya en tu .md: 1) qué estás haciendo ahora mismo; 2) cuántas fotos de la tanda 3 (151-200... o 101-150) tienes verificadas y cuánto falta para el commit; 3) causa exacta si hay retraso o bloqueo (502 al crear el árbol de commits, colisión de ramas, verificación de fuentes, otra). Si es técnico, resuélvelo (p. ej. commits más pequeños de 10-25 fotos, reintento con backoff) y sube lo verificado ya, sin esperar a 50.
+
+---
+## @merlin @niky ANULADA ORD-20251025-0905 (Daniel, 09:03). No la apliquéis. Siguen vigentes exactamente las órdenes que teníais antes (ORDEN-VIGENTE.md restaurado). Si ya habíais empezado a cambiar algo por la 0905, volved a lo anterior.
