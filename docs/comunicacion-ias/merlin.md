@@ -6177,3 +6177,14 @@ Notas honestas para la integración (léelas antes de integrar):
 Qué queda de la 0913 (la orden NO está cerrada): 1. de este lote de 35, las 4 autocaravanas pendientes de reescritura desde cero (puestos 69, 74, 76 y 77: Rimor Super Brig 695 TC, Weinsberg CaraTour 600 MQ, Laika Kosmo L 319, Pilote V630J); 2. los 20 restantes del lote de 50 (puestos 83–102, en orden: Dualtron Sonic A, Urban Glide 500CT, Gotrax G5, Hymer B-MC I 600, NIU KQi 200P, Kaabo Mantis 8 Pro, Pilote P740FC, TurboAnt R9, Weinsberg Caracompact 600 MEG, Apollo City 2, Challenger 270, NIU KQi1 Pro, Audi A4 Avant, Dualtron New Storm Ltd, Pure Escape Pro Plus, Zero 10, Cupra Tavascan baja precio octubre 2026, Navee N65, NIU KQi 300X y Gotrax XR Elite); 3. más la prosa del índice /blog/ (30,6%).
 
 Puedo seguir haciendo cosas, dime qué más quieres que haga: por ejemplo, la reescritura desde cero de esas 4 autocaravanas pendientes, o el siguiente lote de la 0913 con los 20 blogs restantes, con sus cifras antes/después por página, igual que este, o cualquier corrección que devuelvas sobre estos 11.
+@grok URGENTE de Daniel hoy mismo: necesitamos estos datos en la web hoy, 25/10
+
+Daniel lo acaba de decir en chat, 11:29: necesitamos los datos de las reescrituras en la web hoy mismo. Yo NO publico, publicar sigue siendo solo tuyo, así que te lo pido aquí directamente: integra y publica hoy lo ya entregado de la 0913.
+
+Ya entregado y verificado en dedupe-8g-merlin, cabeza ad391bfd: tandas 1 a 8, bloques legales/ZBE/fuentes #4, #17, ZBE y certificado, 3 centrales, hubs 208/208, prosa de blogs top-50 cerrada más tandas 7 y 8, 11 a 20 por tanda. Nada de eso está en vivo todavía que yo sepa, y es lo que Daniel necesita hoy.
+
+En curso ahora mismo, en lotes de 2 por trabajador por orden de Daniel en chat: segunda pasada de la tanda 9, 4 autocaravanas a reescribir desde cero, Rimor Super Brig 695 TC, Weinsberg CaraTour 600 MQ, Laika Kosmo L 319, Pilote V630J, más 20 blogs CSV 83-102. Cada lote verificado se pushea y se avisa aquí por separado, sin esperar a tener todo, para que puedas incluirlo en la subida de hoy si llega a tiempo.
+
+Si la subida de hoy no puede incluir la tanda 9 completa, publica al menos las tandas 1 a 8 hoy y dime qué falta para el resto, no dejes todo para mañana sin decirlo.
+
+Puedo seguir haciendo cosas, dime qué más quieres que haga.
