@@ -1231,8 +1231,8 @@ El Sedan es una berlina de 4 puertas con maletero separado, mientras el Sportbac
   },
   {
     slug: "audi-a4-avant-2025-precio-opiniones",
-    title: "Audi A4 Avant 2025 precio: desde 42.900 €, 150 CV, 505 l",
-    excerpt: "Precio del Audi A4 Avant 2025 en España, ficha, consumo y maletero. Cuánto cuesta, qué versión elegir y qué revisar antes de comprar.",
+    title: "A4 Avant 2025 de Audi: precio, maletero y ocasión",
+    excerpt: "El A4 Avant se despide como familiar de Audi: precio de partida, 505 litros de maletero, consumos y qué mirar si lo buscas de ocasión.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 4,
@@ -1244,17 +1244,17 @@ El Sedan es una berlina de 4 puertas con maletero separado, mientras el Sportbac
 
 **Ficha completa del modelo:** <a href=/coches/audi-a4-avant-2025/>Ficha técnica del Audi A4 Avant</a>
 
-## Audi A4 Avant 2025: lo que tienes que saber antes de comprar
+## Un familiar premium que se despide en lo más alto
 
-El Audi A4 Avant 2025 es un familiar / ranchera con motor gasolina / diésel / mhev. En esta página tienes precio, ficha técnica, consumo, maletero, historia, mantenimiento y opiniones, con enlaces a la ficha técnica completa.
+Pocas carrocerías alargadas de cinco puertas transmiten tanto aplomo como este A4 Avant: mide 4762 mm, acoge a cinco ocupantes y guarda 505 litros detrás, una combinación que lo mantuvo años entre los familiares favoritos de quienes recorren muchos kilómetros.
 
-**Precio:** 42.900 €. Precio aproximado no oficial (última tarifa disponible, km77). B9 sustituido por el A5 Avant.
+La tarifa de partida ronda los 42.900 €, una cifra orientativa sin respaldo oficial que recogía km77 en su última tarifa. Dentro de la marca, el relevo lo asume el A5 Avant, que hereda el hueco dejado por la generación B9.
 
-**Dato clave:** 150 CV (110 kW) · Maletero 505 l · 0–100 8,6 s · 210 km/h.
+En la versión de acceso, el 35 TFSI entrega 150 CV (110 kW), acelera de 0 a 100 en 8,6 segundos y alcanza 210 km/h, con un maletero de 505 litros.
 
 <a href=/coches/audi-a4-avant-2025/>Ver ficha técnica completa</a> · <a href=https://recurretumulta.online/#analizador>Analizar mi multa</a>
 
-## Ficha técnica resumida
+## Resumen de la ficha técnica
 
 | Dato | Valor |
 |---|---|
@@ -1273,57 +1273,55 @@ El Audi A4 Avant 2025 es un familiar / ranchera con motor gasolina / diésel / m
 | EuroNCAP | 5 estrellas EuroNCAP (2015) — Audi A4 (B9): 90% adultos, 87% niños. Fuente: Autocar/What Car?. |
 | Garantía | Garantía del fabricante en modelos parecidos (gama Audi): 2 años en España, según condiciones oficiales. |
 
-
 <img src=/media/audi-a4-avant-2025-2.webp alt=Audi A4 Avant — gris, frontal (catálogo MY25)>
 
+## ¿Encaja contigo?
 
-## Historia del modelo
+Si tu prioridad es un coche familiar con 150 CV y 505 litros de carga, este A4 Avant merece estar entre los candidatos; antes de cerrar, conviene ponerlo frente a otros Audi de planteamiento parecido.
 
-- **1972** — Nace el Audi 80, antecesor directo del A4. *(Sin foto de hito disponible (archivo histórico Audi).)*
-- **1994** — Llega el primer Audi A4 (B5) y la carrocería Avant se consolida como familiar premium. *(Sin foto de hito disponible.)*
-- **2015** — Generación B9: plataforma MLB, más ligera y eficiente; Avant con 505 l de maletero. *(Sin foto de hito disponible.)*
-- **2024** — El A4 cede su nombre a la gama A5 Avant en la nueva nomenclatura Audi; el A4 Avant queda como referencia de ocasión y fin de gama. *(Sin foto de hito disponible.)*
+## Cuatro fechas para entender el A4
 
-## Mantenimiento
+- **1972** — El Audi 80 inaugura la saga de la que descenderá más tarde el A4. *(Sin imagen de época disponible.)*
 
-Mantenimiento orientativo (modelo similar Audi, misma marca): intervalos variables por uso (habitualmente anual o cada 15.000–30.000 km según motor). Coste según concesionario.
+- **1994** — Aparece el primer A4, el B5, y su variante Avant se afianza como familiar de corte premium. *(Sin imagen de época disponible.)*
 
-## Garantía oficial
+- **2015** — La generación B9 estrena la plataforma MLB, más ligera y eficiente, y el Avant ofrece 505 l de carga. *(Sin imagen de época disponible.)*
 
-Garantía del fabricante en modelos parecidos (gama Audi): 2 años en España, según condiciones oficiales.
+- **2024** — Con la nueva nomenclatura de Audi, el nombre A4 pasa a la gama A5 Avant, y el A4 Avant se mantiene como opción de ocasión y de fin de gama. *(Sin imagen de época disponible.)*
 
-## ¿Para quién es?
+## Revisiones y cobertura
 
-Si buscas un familiar / ranchera con 150 CV y maletero de 505 l, el Audi A4 Avant 2025 entra en tu lista. Compáralo con la misma marca antes de decidir.
+Las revisiones se espacian según el uso: alrededor de un año o entre 15.000 y 30.000 kilómetros según el motor elegido, con un importe que fija cada concesionario.
 
+La cobertura del fabricante en modelos parecidos de la gama Audi es de 2 años en España, sujeta a las condiciones oficiales.
 
-## Preguntas frecuentes
+## Dudas habituales antes de decidir
 
-### ¿Cuánto cuesta un Audi A4 Avant en 2025?
+### ¿Desde cuánto parte en 2025?
 
-Precio aproximado no oficial desde unos 42.900 € según última tarifa disponible; el precio exacto depende de motor, acabado y concesionario.
+Ronda los 42.900 € como cifra orientativa sin respaldo oficial; el importe final cambia con el motor, el acabado y el concesionario que lo venda.
 
-### ¿Cuántos CV tiene el Audi A4 Avant de acceso?
+### ¿Qué potencia tiene la versión de entrada?
 
-La versión de acceso 35 TFSI ofrece 150 CV (110 kW).
+La puerta de entrada es el 35 TFSI, con 150 CV (110 kW).
 
-### ¿Qué maletero tiene el A4 Avant?
+### ¿Cuánto cabe detrás y cuántos viajan?
 
-505 litros con 5 plazas, ampliables abatiendo los asientos traseros.
+El hueco trasero cubica 505 litros para cinco ocupantes y crece si se pliegan los respaldos traseros.
 
-### ¿Tiene etiqueta ECO?
+### ¿Qué etiqueta lleva según la versión?
 
-Las versiones MHEV llevan etiqueta ECO de la DGT; las demás, C. Verificar por versión concreta.
+Las variantes con hibridación ligera obtienen la ECO de la DGT, mientras que el resto queda con la C; conviene confirmarlo para la versión exacta que se mire.
 
-### ¿Es buen coche de segunda mano?
+### ¿Cuánto gasta el 35 TFSI?
 
-Sí si tiene historial de mantenimiento Audi completo; revisar cadena/distribución según motor y estado de la suspensión.
+En ciclo WLTP combinado se mueve en torno a 5,7–6,0 litros cada 100 km, con variaciones según la variante concreta.
 
-### ¿Qué consume?
+### ¿Conviene buscarlo de ocasión?
 
-Consumo WLTP combinado aproximado 5,7–6,0 l/100 km en 35 TFSI, según versión.
+Resulta una compra razonable cuando acredita un mantenimiento completo en Audi; antes de firmar conviene revisar el sistema de distribución que monte cada motor y el estado de la suspensión.
 
-## También te puede interesar
+## Otros Audi cercanos
 
 - <a href=/coches/audi-a3-2025-precio-ficha-tecnica/>Audi A3 2025</a>
 - <a href=/coches/audi-a5-2025-precio-ficha-tecnica/>Audi A5 2025</a>
@@ -1331,8 +1329,7 @@ Consumo WLTP combinado aproximado 5,7–6,0 l/100 km en 35 TFSI, según versión
 
 *Datos contrastados con la web oficial de la marca y prensa especializada. EuroNCAP: <a href=https://www.euroncap.com>euroncap.com</a>.*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
-`,
+**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
   },
   {
     slug: "audi-rs4-avant-2025-precio-opiniones",
