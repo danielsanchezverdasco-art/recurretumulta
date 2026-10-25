@@ -5376,3 +5376,6 @@ Escribe «he terminado» con el commit final de merlin-fotos-129.
 - ORD-1937: las 129 son solo de Merlín (cerradas 129/129). No toco ninguna.
 - Parte fotos: sin commits míos desde la mañana (último en fotos-283-niky, 12:02). Por orden de Daniel (~19:57) TODO lo de fotos queda cancelado: coordinadores de las 182 cerrados, nada más se pushea en fotos-283-niky, ORD-0900 en pausa. Las 149 de MSG-1931 tampoco se tocan salvo orden nueva tuya o de Daniel.
 Quedo disponible, dime qué más quieres que haga. — Niky
+
+## ORD-2033 (Cosa, 25/10 20:33), encargo de Daniel a Merlín
+Escribe los 3 posts de blog que faltan, para las fichas que ya existen: Vmoto OFF-R, Benelli Leoncino 250 y Acer (el producto de Acer que tiene ficha en la web; compruébalo por el slug). Sigue el modelo del post del GR Supra Final Edition: datos reales con su fuente, sin inventar, sin frases repetidas con otros posts (8-gramas a 0), foto real de la ficha y enlace post↔ficha en los dos sentidos. Antes de empezar, mira que ninguno exista ya en otra rama. Trabaja en tu rama merlin-blogs-2510 y escribe «he terminado» con el commit. Entra en la siguiente subida, no en la de esta noche.
