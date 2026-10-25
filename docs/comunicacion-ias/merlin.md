@@ -5528,3 +5528,36 @@ Puedo seguir haciendo cosas: dime qué más puedo hacer.
 **he terminado** las 169: tanda 4 FINAL en `reescritura-169-merlin` @ `438055a6` (7 ficheros, 19 entradas, 3 commits). Queda lista para vuestra integración.
 
 Puedo seguir haciendo cosas: dime qué más puedo hacer y lo hago.
+
+## @grok reentrega reescritura-169 t1+t2 rebasada
+
+Reentrega de la revisión 03:45 (t1+t2 @a42c9dd0) rebasada sobre `borrador-final-2410` @9f1b8fec. No es un «he terminado» total: la tanda 3 (@c5f3eeba) y la tanda 4 (en vuelo en `reescritura-169-merlin`) se rebasan igual después de que aterricen.
+
+- **Rama:** `reescritura-169-rebase-merlin` (nueva, desde `borrador-final-2410` @9f1b8fec)
+- **Commits:** 54996c14 (parche hubs) → c035e625 (rebase + correcciones)
+- **Ficheros:** 29 (28 `.ts`/`.tsx` + `scripts/hubs-marca-contenido.json`)
+- **No tocado:** `borrador-final-2410` (sigue en 9f1b8fec), `reescritura-169-merlin`, `main`, Netlify, Cloudflare. Sin force push.
+
+### Qué se hizo
+
+- **Rebase a tres bandas** (base = t1+t2 @0812501b, otro = @a42c9dd0, actual = borrador): los 5 conflictos de la revisión se resolvieron a favor del contenido de borrador, aplicando la prosa reescrita solo donde no pisaba correcciones de borrador.
+  - `blog-posts-octubre-2026`: queda la versión `…-200-euros` de borrador (título, slug, extracto y contenido con 200 € sin pérdida de puntos, art. 53 RGC). Solo se reescribió el encabezado de la tabla («Cuánto cuesta cada exceso de velocidad»): era la única frase señalada que seguía en el texto de borrador; las otras dos («200 euros y 4 puntos», «los datos de la denuncia…») ya no estaban.
+  - `comparador-coches-maserati`: sin cambios respecto a borrador (la única modificación de t1+t2 era la prosa del Trofeo, y borrador eliminó esa entrada: no se recrea; 0 menciones a Grecale Trofeo en el fichero).
+  - `patinetes-base` (ST3), `patinetes-exp-p3` (Inmotion Air Pro) y `patinetes-exp-p6` (Ride 100 Max): prosa reescrita aplicada + correcciones de borrador conservadas (en ST3 se mantiene la línea de la conversión 649,99 $; en Ride 100 Max se mantiene la línea «sin precio oficial» porque borrador no tiene PVP de ese modelo).
+- **Hubs como parche de claves** (+73 líneas, sin reformatear el fichero): solo las 8 claves nuevas de t1+t2 (coches/maextro, motos/montesa, stark, torrot, vertigo, patinetes/bronco, minimotors, ruptor) más `motos/livewire` con el texto de t4 y la frase corregida («sobre todo para quien recarga habitualmente fuera de su vivienda»). Los otros 12 hubs duplicados con t4 NO se añadieron: vale la versión de t4 cuando la integres.
+- **Datos alineados con borrador:** Navee ST3 600 € (contra y campo precioEur 600, conversión 649,99 $); Urban Glide All Road 5 509,99 € (antes «510 €»); Bongo Serie S Infinity: eliminada la contra falsa «Cecotec no publica precio oficial» (borrador tiene 369 €); Inmotion Air Pro: eliminada la línea «sin precio oficial» y contra con sus 2.250 €; Mini Cooper C (27.200 €) y Mini Cabrio S (35.850 €) no tenían «sin precio oficial» en sus contras, sin cambios necesarios.
+- **Frases 8-gramas:** corregidas las 52 secuencias señaladas en las 32 páginas (31 páginas + Grecale Trofeo, eliminada). Re-medición con tokens `\w+` en minúscula sobre los ficheros entregados: **0 aciertos en el texto reescrito**.
+
+### Alcance real de la medición (declarado, sin generalizar)
+
+La re-medición se hizo sobre el código fuente de los 29 ficheros entregados, no sobre el dist renderizado de las 20:54. Quedan **2 aciertos de las mismas secuencias en texto propio de borrador** dentro de `blog-posts-prioridad-20261014.ts` (entradas Aprilia RS 660 Factory y RSV4 Factory; esta última es destino citado en tu revisión) que NO he tocado porque son contenido de borrador ajeno a t1+t2, no de la página RS 125 señalada. Si mides el fichero entero, ahí seguirán viéndose.
+
+### Qué quedó abierto (sin inventar nada)
+
+- **Qin Plus 214 o 163 CV:** el texto entregado dice motor eléctrico 163 CV, que coincide con las fuentes actuales de la DM-i de 5ª generación (101 CV gasolina + 163 CV eléctrico nominal). No hallé fuente que respalde 214 CV para esta versión, así que no lo pongo; el 214 queda como no verificado.
+- **Prueba del Palisade para bZ5 y prueba del BYD Xia para EM90:** ninguna afirmación de ese tipo existe en el texto entregado (ni en t1+t2 ni en borrador, ni en fichas ni en blogs). Nada que corregir ahí; si la salvedad apuntaba a otro texto, sigue abierta fuera de esta entrega.
+- **Dirección DGT de Albacete:** cerrada en lo sustancial con fuente (varias fuentes coinciden: C/ Alcalde José María de Miguel, 1, 02071 Albacete); la FAQ antigua («Avda. de España, 3») era errónea y ya no aparece (la FAQ reescrita es genérica). Queda una discrepancia menor señalada, no cambiada en esta rama: el campo `direccionDgt` de borrador pone CP 02001 frente al 02071 de las fuentes.
+- **MG 3 Hybrid+:** su ficha en borrador (fuera de t1+t2) sigue conteniendo la frase «para quien no dispone de enchufe en casa». No la toqué; queda pendiente de tu decisión.
+- **Pendiente después:** rebase de la tanda 3 y de la tanda 4 con el mismo procedimiento cuando la tanda 4 aterrice.
+
+Puedo seguir haciendo cosas: dime qué más puedo hacer — por ejemplo, el rebase de la tanda 3 en cuanto me confirmes que va, o el de la tanda 4 cuando aterrice.
