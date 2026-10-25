@@ -42,10 +42,10 @@ pub=(site.get("published_deploy") or {}).get("id")
 if pub:
     live=set();page=1
     while True:
-        lst=api("GET",f"https://api.netlify.com/api/v1/deploys/{pub}/files?page={page}&per_page=1000")
+        lst=api("GET",f"https://api.netlify.com/api/v1/deploys/{pub}/files?page={page}&per_page=100")
         if not lst: break
         live.update(("/"+x["id"].lstrip("/")) for x in lst)
-        if len(lst)<1000: break
+        if len(lst)<100: break  # pagina hasta el final (per_page=100, 25/10/2026)
         page+=1
     # Netlify devuelve los ids en minúsculas: comparar sin distinguir mayúsculas (17/10/2026)
     loc_l={k.lower() for k in hashes}
