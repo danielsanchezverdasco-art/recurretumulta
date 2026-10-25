@@ -305,9 +305,9 @@ El R5 es más caro pero ofrece más autonomía en la versión de 52 kWh, mejor c
   "content": "<img src=/media/tesla-roadster-2026-hero.webp alt=Deportivo eléctrico rojo de nueva generación estilo Tesla Roadster en un circuito al atardecer>\n\n**¿Buscas solo los datos?** <a href=/coches/tesla-roadster-2026-retraso-precio-ficha-tecnica/>Ver ficha técnica del Tesla Roadster</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.\n\nNueve años. Nueve años llevan los fans de Tesla esperando el Roadster de nueva generación, y cuando por fin parecía que llegaba el día, el cielo de Texas ha dicho que no. Tesla ha aplazado la presentación del **1 al 15 de octubre de 2026**, y esta vez el culpable no es el calendario de Elon Musk, sino la meteorología.\n\nEl anuncio llegó el 28 de septiembre a través de X: tras consultar con meteorólogos locales y ante la previsión de condiciones severas, Tesla decidió reprogramar el evento. El detalle que ha disparado todas las especulaciones es este: **el acto solo puede celebrarse al aire libre**. ¿Qué clase de presentación de un coche exige estar bajo el cielo de Texas sí o sí? La que incluye, quizá, una demostración que no cabe en un pabellón.\n\nEl lugar elegido no es casual: **Waco, Texas, junto a las instalaciones de SpaceX en McGregor**. Y ahí es donde la historia se pone interesante.\n\n## Ficha técnica: lo que Tesla promete (de momento, en papel)\n\nUna advertencia honesta antes de la tabla: **todas estas cifras las anunció Tesla en 2017 y la compañía no las ha actualizado desde entonces**. Varias filtraciones apuntan a que el coche se ha rediseñado desde cero con carrocería de fibra de carbono, así que tómalas como la promesa original, no como la ficha definitiva. El 15 de octubre saldremos de dudas.\n\n| Dato | Cifra anunciada |\n|---|---|\n| **0-100 km/h** | 1,9 s (2,1 s según la web oficial) |\n| **0-160 km/h** | 4,2 s |\n| **Cuarto de milla** | 8,8 s |\n| **Velocidad máxima** | Más de 400 km/h |\n| **Autonomía** | 1.000 km (ciclo EPA) |\n| **Batería** | 200 kWh |\n| **Motores** | 3 eléctricos |\n| **Tracción** | Total |\n| **Par máximo** | 10.000 Nm |\n| **Plazas** | 4 (configuración 2+2) |\n| **Techo** | De cristal, desmontable |\n\nSi se cumplen, sería el coche de producción más rápido del mundo. El matiz: en 2017 esas cifras no tenían rival; en 2026, el Rimac Nevera ya las iguala con mediciones independientes. La autonomía de 1.000 km, eso sí, seguiría siendo única: en el segmento lo habitual ronda los 120 kWh de batería, y Tesla promete 200.\n\n## Precio y versiones: lo que se sabe\n\nAquí también toca hablar en pasado: en 2017 Tesla anunció **200.000 dólares** para la versión base y **250.000 dólares** para la edición limitada Founders Series (las primeras 1.000 unidades). En España llegó a anunciarse por **172.000 euros** (215.000 € la Founders).\n\nLo que sí es actual: **Tesla ha reabierto las reservas** exigiendo un depósito de **50.000 dólares** (unos 43.000 € en España). Los depósitos de 2017 y 2018 siguen siendo válidos. Del precio definitivo, ni palabra: es una de las grandes incógnitas que debería despejar el evento del 15 de octubre. Con la inflación acumulada desde 2017, pocos creen que los 200.000 $ se sostengan.\n\nEn cuanto a la producción, Tesla no ha dado fecha. Los analistas más optimistas la sitúan entre **2027 y 2028**.\n\n## El paquete SpaceX: ¿volará de verdad?\n\nEs la leyenda del Roadster. Desde 2018 Elon Musk habla de un **SpaceX Package** con pequeños propulsores de gas frío que mejorarían la aceleración, la frenada y el paso por curva. La versión más extrema de la promesa: el coche podría **elevarse unos centímetros del suelo durante unos instantes**.\n\nTesla **no lo ha confirmado oficialmente**. Pero las pistas se acumulan: el teaser del evento muestra lo que parecen propulsores, el mensaje promocional dice «Go for launch» («listos para el despegue») y el evento se celebra junto a SpaceX. Según The Information, podría haber **dos versiones**: una normal y una edición limitada con los propulsores. Si hay una demostración en directo el 15 de octubre, entenderemos por qué el evento tenía que ser al aire libre.\n\n<img src=/media/tesla-roadster-2026-retraso-precio-ficha-tecnica-oficial.webp alt=Tesla Roadster de nueva generación, prototipo rojo en circuito>\n\n¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.\n\n## Curiosidades: 9 años dando tumbos\n\n- **El prototipo se presentó por sorpresa en noviembre de 2017**, al final del evento del Tesla Semi. Prometía entregas en 2020. Han pasado 9 años.\n- **Musk llegó a prometer 0-97 km/h en 1,1 segundos** con el paquete SpaceX. Una cifra que, de cumplirse, rompería la barrera del segundo.\n- **El Roadster original (2008)** fue el primer coche de Tesla, construido sobre un chasis de Lotus Elise. El nuevo cierra el círculo: ahora sí, cien por cien Tesla.\n- **El vicepresidente de Ingeniería de Tesla, Lars Moravy, lo ha definido como «el último y mejor coche para el conductor»**. Declaración de intenciones frente a la era del robotaxi.\n- **El teaser muestra una firma lumínica delantera** con barra de luz de lado a lado, en la línea del Cybertruck, el Model Y y el Cybercab. El diseño final se habría inspirado en ellos.\n- **Un vídeo filtrado en abril** mostraría al nuevo Roadster rodando en unas instalaciones de SpaceX: el desarrollo real llevaría meses en marcha mientras fuera todo parecía parado.\n\n## Comparativa con sus rivales\n\nEn 2017 el Roadster no tenía competencia. En 2026, el panorama es otro:\n\n|  | Tesla Roadster | Rimac Nevera | Lotus Evija |\n|---|---|---|---|\n| **0-100 km/h** | 1,9 s (anunciado, 2017) | ~1,9 s (medido) | <3 s (anunciado) |\n| **Batería** | 200 kWh (anunciado) | 120 kWh | — |\n| **Estado** | Sin fecha de producción | En producción | En producción |\n\nLa lectura es clara: el Roadster ya no compite contra promesas, sino contra coches que existen y ruedan. Su baza diferencial sigue siendo la autonomía prometida de 1.000 km, que ningún hypercar eléctrico ofrece hoy.\n\n## Pros y contras\n\n| ✅ Pros | ❌ Contras |\n|---|---|\n| **Autonomía de 1.000 km (EPA)**: ningún otro hypercar eléctrico se acerca a esa cifra anunciada | **Cifras de 2017 sin actualizar**: Tesla no ha confirmado qué datos del prototipo original sobreviven al coche definitivo |\n| **Aceleración de 1,9 s**: entre las mejores del mundo, al nivel del Rimac Nevera | **El precio es una incógnita**: los 200.000 $ de 2017 difícilmente se sostienen en 2026 |\n| **Batería de 200 kWh**: casi el doble de lo habitual en el segmento (~120 kWh) | **Sin fecha de producción**: los analistas más optimistas hablan de 2027 o 2028 |\n| **Paquete SpaceX**: propulsores de gas frío, una tecnología que no tiene ningún rival | **El paquete SpaceX no está confirmado**: Tesla no lo ha hecho oficial |\n| **Cuatro plazas (2+2)**: más usable en el día a día que un biplaza puro | **La competencia ya rueda**: Nevera y Evija están en producción con cifras medidas de forma independiente |\n\n## Míralo en vídeo\n\n<iframe src=https://www.youtube.com/embed/Ki946uU-sB4 title=\"Vídeo del Tesla Roadster por Piltrafilla\" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>\n\nVídeo: <a href=https://www.youtube.com/@piltrafilla>Piltrafilla</a> en YouTube\n\n## Preguntas frecuentes\n\n### ¿Cuándo se presenta el Tesla Roadster?\nEl 15 de octubre de 2026 en Waco, Texas. La fecha original era el 1 de octubre, pero Tesla la aplazó por la previsión meteorológica adversa: el evento solo puede celebrarse al aire libre.\n\n### ¿Cuánto cuesta el Tesla Roadster?\nNo hay precio oficial confirmado. En 2017 se anunciaron 200.000 $ para la versión base y 250.000 $ para la Founders Series. Tesla ha reabierto las reservas con un depósito de 50.000 $ (43.000 € en España). El precio definitivo debería conocerse el 15 de octubre.\n\n### ¿Qué autonomía tiene el Tesla Roadster?\nTesla anunció 1.000 km según el ciclo EPA americano, con una batería de 200 kWh. Son cifras de 2017 pendientes de confirmar en el modelo definitivo.\n\n### ¿Es verdad que el Tesla Roadster puede volar?\nElon Musk lleva desde 2018 hablando de un paquete opcional con propulsores de gas frío desarrollados con tecnología SpaceX, que permitiría incluso elevar el coche unos centímetros. Tesla no lo ha confirmado oficialmente, pero el evento junto a SpaceX y el lema «Go for launch» alimentan la especulación.\n\n### ¿Cuándo se podrá comprar el Tesla Roadster?\nNo hay fecha oficial de producción ni de entregas. Los analistas más optimistas apuntan a 2027 o 2028.\n\n### ¿Llegará el Tesla Roadster a España?\nTesla no ha confirmado planes de lanzamiento por mercados. Las reservas están abiertas con un depósito de 43.000 € en España, pero sin fecha de entrega.\n\nEl 15 de octubre saldremos de dudas: sabremos si el Roadster es el hypercar definitivo que promete Tesla o la promesa eterna de Elon Musk. Nueve años después, más vale que vuele. Literalmente.\n\nY un apunte con cariño desde esta casa: con más de 400 km/h de velocidad máxima anunciados, el único radar que te perdonaría sería uno de juguete. Si algún día te llega una <a href=https://recurretumulta.online/guias/radares>multa por exceso de velocidad</a>, ya sabes dónde <a href=https://recurretumulta.online/#analizador>analizarla gratis</a> antes de pagar.\n\n*Fuentes: <a href=https://www.autonocion.com/tesla-roadster-retraso-evento-presentacion-octubre/>el aplazamiento del evento en autonoción</a> y <a href=https://www.hibridosyelectricos.com/coches/sorpresa-nadie-elon-musk-vuelve-retrasar-presentacion-coche-electrico-tesla-lleva-anunciando-mas-10-anos_89580_102.html>seguimiento de los retrasos en hibridosyelectricos.com</a>. Las cifras técnicas son las anunciadas por Tesla en 2017, pendientes de confirmación.*"
   },
   {
-    title: "Changan Nevo Q06: 449 CV",
+    title: "Changan Nevo Q06: el SUV de 449 CV que enseña París",
     slug: "changan-nevo-q06-suv-electrico-paris-2026",
-    excerpt: "El Changan Nevo Q06 debuta en Europa en el Salón de París 2026: SUV de 449 CV, carga 6C y LiDAR de serie. ¿Cuándo llegará a España?",
+    excerpt: "El SUV eléctrico chino de 449 CV, carga 6C en 9 minutos y LiDAR de serie se deja ver en París 2026, pero sin fecha ni precio para Europa.",
     category: "Novedades Motor",
     date: "2026-10-03",
     readTime: 8,
@@ -321,51 +321,56 @@ El R5 es más caro pero ofrece más autonomía en la versión de 52 kWh, mejor c
       "Nevo Q06 autonomía 700 km",
       "Changan Q06 vs Deepal S07"
     ],
-    content: `<img src=/media/changan-nevo-q06-suv-electrico-paris-2026-hero.webp alt=Changan Nevo Q06, SUV eléctrico verde oscuro mate con franja luminosa delantera, expuesto en un stand del Salón del Automóvil de París>\n\n**¿Buscas solo los datos?** <a href=/coches/changan-nevo-q06-suv-electrico-paris-2026/>Ver ficha técnica del Changan Nevo Q06</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.\n\nEl mejor coche de Changan sale de China por primera vez. El **Nevo Q06** es el SUV eléctrico que la marca acaba de lanzar en su mercado local y que ahora se deja ver en Europa: **4,84 metros, hasta 449 CV, 700 km de autonomía** en ciclo chino y una **carga 6C** que promete pasar del 30 al 80 % en **9 minutos**. Su escaparate será el **Salón de París 2026**, donde debutará junto a sus marcas hermanas Deepal y Avatr.
+    content: `<img src=/media/changan-nevo-q06-suv-electrico-paris-2026-hero.webp alt=Changan Nevo Q06, SUV eléctrico verde oscuro mate con franja luminosa delantera, expuesto en un stand del Salón del Automóvil de París>
 
-Pero conviene poner los pies en la tierra desde el principio: Changan **no ha confirmado ni fecha, ni precio, ni nombre comercial** para Europa. De momento, París es un escaparate tecnológico, no un anticipo de venta. Te contamos qué es exactamente este SUV, qué viene a enseñar y qué tendría que pasar para verlo en España.
+**¿Buscas solo los datos?** <a href=/coches/changan-nevo-q06-suv-electrico-paris-2026/>Ver ficha técnica del Changan Nevo Q06</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-## La noticia: primera aparición europea
+París acogerá en octubre de 2026 el primer acto europeo del Nevo Q06, un SUV eléctrico de 4,84 metros que Changan acaba de poner a la venta en China. En su país combina hasta 449 CV con una carga 6C capaz de recuperar del 30 al 80 % en 9 minutos y una autonomía máxima de 700 km en ciclo chino. El escenario será el Mondial de l'Auto, donde compartirá estand con Deepal y Avatr, las otras dos enseñas eléctricas del grupo.
 
-Changan estará en el **Mondial de l'Auto**, que se celebra del **12 al 18 de octubre de 2026** en Paris Expo Porte de Versailles, con un estand compartido por sus tres marcas eléctricas: **Deepal, Nevo y Avatr**. Según ha publicado Motor.es, una de las piezas centrales será el **Nevo Q06**, el SUV mediano que Changan empezó a fabricar en China en septiembre de 2026.
+Antes de hacer planes conviene frenar la expectación: la marca todavía no ha anunciado para Europa ni cuándo llegaría, ni a qué precio, ni bajo qué denominación. París, por ahora, es una vitrina de tecnología, no una preventa. En este texto repasamos qué muestra el Q06, qué tecnología presume y qué tendría que cambiar para que acabara en un concesionario español.
 
-El contexto importa: Changan llegó a España a principios de 2026 con los **Deepal S05 y S07** y en pocos meses ha pasado de marca desconocida a tener presencia real en las matriculaciones de eléctricos. El Q06 sería el siguiente paso lógico, pero la marca aún no lo confirma.
+## París 2026: el estreno europeo del Q06
 
-El estand tendrá otras dos novedades: la **versión híbrida enchufable del Deepal S07** (hasta ahora solo se vendía en Europa como eléctrico) y un **avance de Avatr**, la marca premium del grupo desarrollada con Huawei y CATL.
+El Mondial de l'Auto se celebrará en Paris Expo Porte de Versailles entre el 12 y el 18 de octubre de 2026, y Changan acudirá con un estand común para Deepal, Nevo y Avatr. Según Motor.es, el Q06 ocupará un lugar central en esa puesta en escena: un SUV mediano cuya producción china arrancó en septiembre de 2026.
 
-## Qué viene a enseñar a París (y no es la batería)
+El desembarco español de Changan es reciente: a comienzos de 2026 llegaron los Deepal S05 y S07, y en cuestión de meses la firma pasó de ser una desconocida a registrar una presencia visible entre los eléctricos vendidos. Que el Q06 dé el siguiente paso encajaría con esa trayectoria, aunque la compañía aún no lo ha confirmado.
 
-Lo llamativo es que Changan no lleva el Q06 a París para hablar de autonomía. El protagonista del estand será el **SDA Pilot**, su sistema de conducción asistida de desarrollo propio, que en el Q06 trabaja con un **LiDAR de serie en toda la gama**: un sensor de 256 líneas en el techo, 11 cámaras y 3 radares de ondas milimétricas, con un procesador de hasta **560 TOPS**. Entre sus funciones anunciadas: detención automática hasta 135 km/h y maniobra automática de emergencia entre 60 y 120 km/h.
+El estand parisino incluirá además otros dos reclamos: la variante híbrida enchufable del Deepal S07, que en Europa solo se ofrecía como eléctrico, y un adelanto de Avatr, la enseña de lujo del grupo, fruto del trabajo conjunto con Huawei y CATL.
 
-El matiz europeo: la normativa comunitaria **limita mucho** las funciones de conducción asistida que en China se venden como reclamo, sobre todo en ciudad. Lo que se vea en París tiene más de demostración tecnológica que de anticipo del coche que podría venderse aquí.
+## El SDA Pilot, protagonista por encima de la batería
+
+Resulta llamativo que el discurso parisino no gire en torno a la autonomía. El foco estará en el SDA Pilot, la asistencia a la conducción de desarrollo propio que el Q06 equipa con un LiDAR de serie en todas sus versiones: un sensor de 256 líneas instalado en el techo, 11 cámaras, 3 radares de ondas milimétricas y un procesador que alcanza los 560 TOPS. Entre lo anunciado: frenada automática hasta 135 km/h y maniobra de emergencia automática, activa entre 60 y 120 km/h.
+
+En Europa, ese repertorio chocaría con un marco normativo mucho más restrictivo: las funciones de asistencia que en China se anuncian como argumento de venta quedan muy recortadas por la regulación comunitaria, sobre todo en ciudad. Lo de París, por tanto, se entenderá mejor como demostración de tecnología que como anticipo del coche que podría comercializarse aquí.
 
 <img src=/media/changan-nevo-q06-suv-electrico-paris-2026-galeria-3.webp alt=Changan Nevo Q06 en tres cuartos trasero mostrando su firma lumínica, imagen editorial>
 
 <img src=/media/changan-nevo-q06-suv-electrico-paris-2026-interior-oficial.webp alt=Interior oficial del changan nevo q06 suv electrico paris 2026>
 
+## España: qué está confirmado y qué no
 
-## ¿Cuándo llegará a España? Lo que se sabe (y lo que no)
+**Todavía sin confirmar:** ni fecha de llegada, ni precio europeo, ni nombre comercial. Tampoco la sala de prensa de Changan Europe recoge esos datos. Lo que sí está sobre la mesa es lo siguiente:
 
-**No confirmado:** fecha de llegada, precio europeo ni nombre comercial. La sala de prensa de Changan Europe no lo menciona. Lo que sí se sabe:
+- **Filipinas va por delante:** el primer mercado exterior con planes concretos queda fuera de Europa: la firma estudia estrenarlo en Filipinas.
+- **Ocho modelos en tres años:** Changan mantiene su plan de ocho modelos nuevos para Europa en tres años, con varios huecos aún sin nombre; por dimensiones y tecnología, el Q06 encajaría en uno de ellos.
+- **El Q05 se adelanta y cambia de nombre:** el hermano pequeño llegará antes a Europa como Changan E06, no como Nevo: anuncia 200 kW, una batería LFP de 61,7 kWh y una meta WLTP de 450 km. Si el Q06 acabara llegando, también estrenaría otra denominación.
 
-- **El Q05 llegará antes**, y no se llamará Nevo: en Europa se venderá como **Changan E06**, con 200 kW, batería LFP de 61,7 kWh y objetivo de 450 km WLTP. Si el Q06 llega, también llevaría otro nombre.
-- Changan mantiene un plan de **ocho modelos nuevos en Europa en tres años**, y varios huecos siguen sin nombre: por tamaño y tecnología, el Q06 encaja en uno de ellos.
-- El primer mercado exterior con planes concretos no es europeo: la marca estudia lanzarlo en **Filipinas**.
+A todo eso se añade un obstáculo con nombre propio: los derechos compensatorios que la UE aplica a los eléctricos fabricados en China, del 7,8 % al 35,3 % en función del fabricante, además del arancel general del 10 %. Esos recargos alcanzan tanto a los eléctricos puros como a las variantes de autonomía extendida, y por eso las firmas chinas están poblando sus gamas europeas con híbridos enchufables, que quedan fuera de su alcance. Ahí encaja también que el Deepal S07 PHEV comparta estand en París.
 
-Y hay un obstáculo con nombre y apellidos: los **derechos compensatorios de la UE** a los eléctricos fabricados en China (entre el 7,8 % y el 35,3 % según el fabricante, más el arancel general del 10 %) afectan tanto a los eléctricos puros como a los de autonomía extendida. Por eso las marcas chinas están llenando sus gamas europeas de híbridos enchufables, que quedan fuera de esos derechos. De ahí también la presencia del **Deepal S07 PHEV** en el mismo estand.
+¿Y el precio? No existe cifra oficial, pero los medios especializados españoles calculan que un hipotético Q06 europeo quedaría por encima de los 40.000 euros, cerca del Deepal S07, que parte de 45.990 € en España. Es solo una estimación, no un dato oficial, y dependerá de cuánto arancel decida absorber Changan para entrar con fuerza. En China, el punto de partida ronda un equivalente a 19.000 euros al cambio.
 
-¿Precio? Sin cifra oficial, la estimación de los medios especializados españoles sitúa un hipotético Q06 europeo **por encima de los 40.000 euros**, en la órbita del Deepal S07 (desde 45.990 € en España). Es una estimación, no un dato oficial: dependerá de si Changan absorbe parte del arancel para entrar con fuerza. En China, el Q06 parte de un equivalente a unos **19.000 euros** al cambio.
+## Detalles que explican por qué importa
 
-## Curiosidades que quizá no sabías
+- **Firma alemana en el diseño:** lo firma Klaus Zyciora, que fue responsable de diseño del Grupo Volkswagen y hoy es vicepresidente de diseño de Changan; la estética se llama «Light-Catching», con parrilla cerrada y franja luminosa continua.
+- **Un salón rodante:** pantalla central de 15,6 pulgadas; delante, butacas con función de gravedad cero, y detrás, plazas que reclinan eléctricamente hasta 145 grados, dan masaje, disfrutan de pantalla retráctil y comparten una nevera integrada de 9,5 litros.
+- **LiDAR en todas las versiones:** el sensor viene incluido en todas las versiones, un equipamiento que en Europa hoy solo montan eléctricos bastante más caros.
+- **Espacio aprovechado al máximo:** Changan cifra en un 91,7 % el espacio interior aprovechable, y la cabina va cubierta de materiales blandos en el 90,6 % de su superficie.
+- **Nevo, Qiyuan en China:** en su mercado local, la marca se conoce como Qiyuan; es la enseña de volumen de Changan, y su cuarto SUV es el Q06, colocado entre un Q05 más pequeño y un Q07 de mayor tamaño.
+- **Filipinas, antes que Europa:** a finales de septiembre, Changan invitó a periodistas filipinos a Chongqing para experimentar el SDA Pilot circulando en tráfico real, con el conductor actuando como copiloto.
 
-- **Nevo se llama Qiyuan en China**: es la marca de volumen del grupo Changan, y el Q06 es su cuarto SUV, entre el Q05 (más pequeño) y el Q07 (más grande).
-- **El LiDAR va de serie en toda la gama**, algo que en Europa hoy solo ofrecen eléctricos bastante más caros.
-- **Interior de "cine en casa"**: pantalla central de 15,6 pulgadas, asientos delanteros con función de gravedad cero, plazas traseras con reclinación eléctrica de hasta 145 grados y masaje, pantalla retráctil para los pasajeros traseros y una **nevera integrada de 9,5 litros**.
-- **Diseño alemán**: lo firma Klaus Zyciora, antiguo responsable de diseño del Grupo Volkswagen y actual vicepresidente de diseño de Changan, con la estética "Light-Catching" de parrilla cerrada y franja luminosa continua.
-- **El 91,7 % del espacio interior es aprovechable** según Changan, y los materiales blandos cubren el 90,6 % de la cabina.
-- **Antes que Europa, Filipinas**: Changan invitó a finales de septiembre a periodistas filipinos a Chongqing para probar el SDA Pilot en tráfico real, con el conductor como copiloto.
+Estos detalles dibujan algo más que una lista de curiosidades: un LiDAR de serie, un habitáculo pensado como sala de estar y un diseñador con pasado en Volkswagen apuntan a un producto que busca competir por tecnología y habitabilidad, no solo por precio. Y la ruta de Filipinas marca el orden real de la expansión: primero los mercados de despliegue sencillo y Europa después, a medida que el plan de ocho modelos tome forma.
 
-## Rivales si llega a Europa
+## Si acaba llegando: los rivales
 
 | Modelo | Tecnología | Precio en España | Punto fuerte |
 |---|---|---|---|
@@ -374,9 +379,9 @@ Y hay un obstáculo con nombre y apellidos: los **derechos compensatorios de la 
 | BYD Seal U | Eléctrico | Por confirmar versión 2026 | Marca china más consolidada en Europa |
 | Tesla Model Y | Eléctrico | Desde ~44.990 € | Red de carga y valor de reventa |
 
-El duelo más interesante sería en casa: el Q06 mide solo 9 cm más que el Deepal S07 y lo supera en carga, autonomía y potencia. Con ese salto de producto dentro del mismo grupo, lo raro sería dejarlo solo en China.
+El enfrentamiento más interesante se daría en casa: el Q06 supera al Deepal S07 en solo 9 cm de longitud, pero lo adelanta en potencia, en autonomía y en velocidad de carga. Con ese salto dentro del mismo grupo, costaría entender que se quedara únicamente en China.
 
-## Pros y contras
+## Lo bueno y lo mejorable
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -386,37 +391,37 @@ El duelo más interesante sería en casa: el Q06 mide solo 9 cm más que el Deep
 | Versión EREV con hasta 1.600 km de autonomía total | Canibalizaría al Deepal S07, que acaba de llegar a España |
 | Interior muy equipado: masaje, nevera, pantalla trasera, frunk de 196 L | Marca aún en despliegue en Europa: red y reventa por demostrar |
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Qué es el Changan Nevo Q06?
-Un SUV eléctrico del segmento D (4,84 metros) de la marca Nevo (Qiyuan en China), del grupo Changan. Se vende en China como eléctrico y como EREV (autonomía extendida), con hasta 449 CV, baterías LFP de 66 y 80 kWh y arquitectura de 800 V.
+### ¿De qué coche estamos hablando?
+Del Q06, un SUV del segmento D, con 4,84 metros, de la enseña Nevo —Qiyuan en China— y del grupo Changan. En su mercado se vende como eléctrico y como EREV, de autonomía extendida, con hasta 449 CV, arquitectura de 800 V y baterías LFP de 66 y 80 kWh.
 
-### ¿Cuándo se presenta en Europa?
-Debuta en el Salón de París 2026 (Mondial de l'Auto, del 12 al 18 de octubre). Es su primera aparición pública en Europa.
+### ¿Cuándo se verá por primera vez en Europa?
+En el Mondial de l'Auto, el Salón de París 2026, entre el 12 y el 18 de octubre. Será su primer acto público en Europa.
 
-### ¿Cuánto tarda en cargar el Nevo Q06?
-Su sistema de carga 6C anuncia pasar del 30 al 80 % de la batería en unos 9 minutos, gracias a la arquitectura de 800 V y las baterías LFP.
+### ¿Qué carga anuncia?
+La carga 6C promete recuperar del 30 al 80 % en unos 9 minutos, apoyada en la arquitectura de 800 V y en las baterías LFP.
 
-### ¿Cuánto cuesta el Changan Nevo Q06?
-En China parte de un equivalente a unos 19.000 euros al cambio. Para Europa no hay precio oficial; las estimaciones de la prensa especializada lo sitúan por encima de los 40.000 euros por los aranceles de la UE.
+### ¿Qué precio tiene en China?
+Allí parte de un equivalente cercano a 19.000 euros al cambio; en Europa, en cambio, no existe precio oficial; la prensa especializada lo calcula por encima de 40.000 euros, a causa de los aranceles de la UE.
 
-### ¿Llegará el Nevo Q06 a España?
-No está confirmado. Changan no ha dado fecha, precio ni nombre comercial para Europa. El modelo de Nevo confirmado para Europa es el Q05, que se venderá como Changan E06. El Q06 encaja en el plan de ocho modelos en tres años, pero sigue sin confirmación oficial.
+### ¿Acabará vendiéndose en España?
+Sin confirmar. Changan no ha comunicado calendario, tarifa ni denominación para Europa. El Nevo confirmado para Europa es el Q05, futuro Changan E06. El Q06 encajaría en ese plan de ocho modelos para tres años, pero continúa sin confirmación oficial.
 
-### ¿Qué autonomía tiene el Changan Nevo Q06?
-Hasta 700 km en ciclo chino CLTC (versión Long Range de 80 kWh), 602 km la Standard Range y 670 km la AWD. La versión EREV ofrece 200 km eléctricos y hasta 1.600 km de autonomía total. Ojo: el CLTC es más optimista que el WLTP europeo.
+### ¿Qué autonomía declara?
+La versión Long Range, con 80 kWh, declara hasta 700 km en ciclo chino CLTC; la Standard Range, 602 km, y la AWD, 670 km. En EREV, 200 km en modo eléctrico y hasta 1.600 km en total. Conviene recordar que el ciclo CLTC resulta más benévolo que el WLTP europeo.
 
-### ¿Tiene etiqueta CERO de la DGT?
-Al ser 100 % eléctrico (o EREV), le correspondería la etiqueta CERO, con acceso a todas las ZBE. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+### ¿Le tocaría la etiqueta CERO?
+Al tratarse de un 100 % eléctrico (o EREV), le tocaría la etiqueta CERO y, con ella, acceso a todas las ZBE. <a href=/calculadora-etiqueta-dgt/>Comprueba aquí la etiqueta DGT que le tocaría a cualquier coche</a>.
 
 Con 449 CV bajo el pie derecho, conviene recordar que la emoción dura un acelerón y la <a href=https://recurretumulta.online/guias/radares>multa por exceso de velocidad</a> dura meses. Si te llega una, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar: en 20 días se juega el descuento y el derecho a recurrir.
 
 *Fuentes: <a href=https://testcoches.es/noticias/449-cv-y-carga-6c-rumbo-a-paris-el-changan-nevo-q06-se-deja-ver-por-primera-vez-en-europa/>la llegada a París en testcoches.es</a>, <a href=https://testcoches.es/noticias/del-30-al-80-en-9-minutos-con-bateria-lfp-el-changan-nevo-q06-lleva-la-carga-6c-a-un-suv-familiar-de-484-metros/>ficha técnica del lanzamiento en testcoches.es</a>, <a href=https://www.autonocion.com/motornocion/changannevo-q06-hibrido-extensor-autonomia/>presentación en autonocion.com</a> y <a href=https://www.hibridosyelectricos.com/coches/socios-chinos-nissan-lanzan-su-propio-byd-seal-483-metros-5-plazas-782-litros-maletero-por-18200_89466_102.html>detalles de equipamiento en hibridosyelectricos.com</a>. Las autonomías son ciclo CLTC (China); el precio europeo es estimación de la prensa especializada, no dato oficial.*`
   },
   {
-    title: "Volkswagen ID. Aura T6: el SUV eléctrico con XPeng (China)",
+    title: "Volkswagen ID. Aura T6: el eléctrico chino con cerebro XPeng",
     slug: "volkswagen-id-aura-t6-xpeng-china",
-    excerpt: "El Volkswagen ID. Aura T6 ya se entrega en China: SUV eléctrico de 4,81 m con 231 CV, hasta 660 km CLTC y la arquitectura electrónica CEA creada con XPeng.",
+    excerpt: "El ID. Aura T6 ya circula por China: todocamino eléctrico de 4,81 metros, 231 CV y hasta 660 km CLTC, con electrónica CEA creada junto a XPeng.",
     category: "Novedades Motor",
     date: "2026-10-07",
     readTime: 8,
@@ -431,37 +436,41 @@ Con 449 CV bajo el pie derecho, conviene recordar que la emoción dura un aceler
       "Volkswagen eléctrico barato 2026",
       "ID. Aura T6 Europa"
     ],
-    content: `<img src=/media/volkswagen-id-aura-t6-xpeng-china-hero.webp alt=SUV eléctrico gris oscuro de estilo Volkswagen ID. circulando por una carretera de montaña al atardecer>\n\n**¿Buscas solo los datos?** <a href=/coches/volkswagen-id-aura-t6-xpeng-china/>Ver ficha técnica del Volkswagen ID. Aura T6</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+    content: `<img src=/media/volkswagen-id-aura-t6-xpeng-china-hero.webp alt=SUV eléctrico gris oscuro de estilo Volkswagen ID. circulando por una carretera de montaña al atardecer>
+
+**¿Buscas solo los datos?** <a href=/coches/volkswagen-id-aura-t6-xpeng-china/>Ver ficha técnica del Volkswagen ID. Aura T6</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 **¿Buscas solo los datos?** <a href=/comparador-coches/>Compara SUV eléctricos cara a cara en nuestro comparador</a> y descubre qué etiqueta le correspondería: <a href=/calculadora-etiqueta-dgt/>calcula la etiqueta DGT de cualquier coche</a>.
 
-Un Volkswagen con cerebro chino. Suena a titular provocador, pero es literal: el **ID. Aura T6** es el primer Volkswagen desarrollado sobre la **arquitectura electrónica CEA**, creada mano a mano con **XPeng**, y ya se entrega a clientes en China. Se puso a la venta oficialmente el 20 de septiembre en Guangzhou y, según la prensa especializada del 6 de octubre, las primeras unidades ya están en manos de sus dueños.\n\n**Actualización (07/10/2026):** Volkswagen ha confirmado el inicio de las entregas a clientes en China, tras las primeras semanas de comercialización. El T6 se convierte así en la punta de lanza de la nueva oleada de eléctricos de la marca para el mercado chino, junto al ID. UNYX 09 y el ID. ERA 8X.
+Volkswagen atraviesa un momento delicado en el mayor mercado del mundo, y el ID. Aura T6 es su respuesta más directa hasta la fecha. En julio, la marca matriculó 87.099 vehículos en China, un 40 % por debajo del mismo mes del año anterior, mientras las firmas locales seguían ganando terreno precisamente en el segmento eléctrico. Frente a esa sangría, Wolfsburg ha optado por pelear con las reglas del rival: dimensiones generosas, baterías grandes, pantallas enormes y precios contenidos.
 
-No es un lanzamiento cualquiera. Volkswagen entregó en China 87.099 coches en julio, un 40 % menos que un año antes, y lleva tiempo perdiendo terreno frente a las marcas locales justo en el eléctrico. El T6 es su contraataque con las mismas armas que el rival: mucho tamaño, mucha batería, mucha pantalla y un precio ajustado.
+## Un SUV creado para China, y ya en la calle
 
-## La noticia
+El T6 inaugura la gama ID. Aura dentro de FAW-Volkswagen, una de las dos empresas conjuntas que la marca alemana mantiene en el país asiático. Su calendario ha sido rápido: debut en el Salón de Pekín de abril, apertura de reservas el 28 de agosto y arranque oficial de ventas el 20 de septiembre en Guangzhou, con unos precios finales que quedaron incluso por debajo de lo anticipado en la preventa. La prensa especializada fechada el 6 de octubre daba cuenta de que los primeros clientes ya tenían sus unidades.
 
-El ID. Aura T6 es el primer integrante de la **familia ID. Aura**, de **FAW-Volkswagen** (una de las dos grandes sociedades conjuntas de la marca en China). Se presentó en el Salón de Pekín de abril, abrió preventas el 28 de agosto y los precios finales quedaron incluso por debajo de los anunciados. Su misión es clara: plantarle cara al BYD Sealion 06, al Toyota bZ3X y al Geely Galaxy E5, que aquí conocemos como Geely E5.
+**Actualización (07/10/2026):** la marca ha ratificado que las entregas a clientes chinos ya han comenzado, después de las primeras semanas en el mercado. Con ello, el T6 encabeza la nueva hornada de eléctricos de Volkswagen para China, en la que también figuran el ID. ERA 8X y el ID. UNYX 09.
 
-## El cerebro XPeng: qué es la arquitectura CEA
+Su objetivo comercial está claro: disputar clientes al Toyota bZ3X, al Geely Galaxy E5 y al BYD Sealion 06, este último conocido en nuestro mercado como Geely E5.
 
-Aquí está la verdadera noticia. El T6 es uno de los primeros Volkswagen con la **CEA (China Electronic Architecture)**, desarrollada junto a XPeng y anunciada en 2024 con un objetivo declarado: **recortar costes** en los eléctricos chinos de la marca (lo contó Reuters en su día).
+## La electrónica: donde XPeng deja su huella
 
-La CEA es, sobre todo, una arquitectura eléctrica y electrónica: menos centralitas, menos cableado y un software centralizado que permite actualizaciones remotas y funciones de conducción asistida más avanzadas. La receta del T6 es curiosa: la mecánica tiene mucho de Volkswagen europeo (motor trasero, propulsión, esquema de suspensiones calcado del ID.4) y la electrónica es china. Dicho de otra forma: cuerpo alemán, cerebro de Shenzhen.
+El elemento que de verdad distingue a este modelo es su base electrónica. El T6 figura entre los primeros Volkswagen que usan la **CEA (China Electronic Architecture)**, la plataforma desarrollada en colaboración con XPeng y presentada en 2024 con una meta explícita: **abaratar** los eléctricos de la marca destinados a China.
 
-La CEA ya la había estrenado el **ID. Unyx 07**, la berlina de Volkswagen Anhui. El T6 la lleva al segmento que más vende.
+En la práctica, la CEA reduce el número de centralitas y el cableado, centraliza el software, habilita actualizaciones a distancia y sirve de cimiento para asistencias a la conducción más capaces. La combinación resulta llamativa: la parte mecánica bebe de la tradición europea de la marca —motor trasero, tracción trasera y un esquema de suspensiones muy próximo al del ID.4—, mientras la inteligencia del coche nace en China. Antes que el T6, esta arquitectura ya la había estrenado la berlina **ID. Unyx 07**, de Volkswagen Anhui; ahora salta al segmento con más volumen.
 
 <img src=/media/volkswagen-id-aura-t6-xpeng-china-galeria-3.webp alt=Volkswagen ID. Aura T6 en tres cuartos trasero mostrando su firma lumínica, imagen editorial>
 
+## Cabina digital y ayudas a la conducción
 
+El habitáculo delata su origen: una pantalla central de **15,6 pulgadas** gobernada por un procesador de 4 nm, cuadro de instrumentos de 10,25 pulgadas y un visor frontal con realidad aumentada cuya imagen equivale a 25,8 pulgadas. Los acabados Max y Ultra suman **LiDAR** sobre el techo y un procesador **Horizon Robotics Journey 6H** de 420 TOPS, que sustenta la navegación asistida en autopista (Highway NOA) y la conducción urbana asistida (Urban Pilot), prestaciones poco frecuentes en un SUV de menos de 17.000 euros. Completan el conjunto asientos delanteros con calefacción, ventilación y masaje, y un sistema de sonido de 18 altavoces.
 
-## Interior: pantalla gigante y LiDAR en las versiones altas
+En el chasis, McPherson en el eje delantero y multibrazo de cinco brazos en el trasero, con amortiguadores de firmeza variable. Y un dato curioso: pese a medir 4,8 metros, gira en solo 4,75 metros, porque el tren delantero no carga con motor ni transmisión.
 
-Dentro se nota la mano china: pantalla central de **15,6 pulgadas** movida por un chip de 4 nm, instrumentación de 10,25 pulgadas y un head-up display con realidad aumentada que proyecta una imagen equivalente a 25,8 pulgadas. Las versiones Max y Ultra añaden **LiDAR** en el techo y un chip **Horizon Robotics Journey 6H** con 420 TOPS de potencia de cálculo para navegación asistida en autopista (Highway NOA) y conducción urbana (Urban Pilot), dos funciones poco habituales en un SUV por debajo de los 17.000 euros. También hay asientos delanteros calefactados, ventilados y con masaje, y equipo de sonido de 18 altavoces.
+## Tamaño, maleteros y aerodinámica
 
-La suspensión es McPherson delante y de cinco brazos detrás, con amortiguadores de dureza variable. Y un detalle simpático: el radio de giro es de solo 4,75 metros, pequeño para un coche de 4,8 metros, gracias a que las ruedas delanteras van libres de motor y transmisión.
+Con 4.811 mm de largo, el T6 queda más próximo al Tesla Model Y que al ID.4, que mide 4.584 mm, aunque no ofrece tercera fila: homologa cinco plazas. El maletero delantero, de 90 litros, es una novedad real frente al ID.4, que carece de él; detrás ofrece 576 litros, ampliables hasta 1.796 abatiendo los asientos. Su coeficiente aerodinámico de 0,245 resulta notable para un SUV de estas dimensiones, fruto de la zaga limpia, la toma de aire activa y los tiradores semiocultos.
 
-## Precios en China: la mitad que en Europa
+## Precios en China
 
 Los precios definitivos (en yuanes):
 
@@ -472,45 +481,46 @@ Los precios definitivos (en yuanes):
 | ID. Aura T6 660 Max | 149.900 yuanes |
 | ID. Aura T6 660 Ultra | 166.900 yuanes |
 
-Al cambio directo, la versión de acceso ronda los **16.000-17.000 euros**. Pero cuidado: es un precio sin impuestos europeos, sin homologación para la UE y sin transporte. No sirve como referencia de lo que costaría aquí. La diferencia se explica por las celdas LFP de CATL compradas en su propio mercado, una electrónica desarrollada en unos 18 meses junto a XPeng y una cadena de suministro china con costes que una fábrica alemana no puede igualar.
+En conversión directa, el acabado básico ronda los **16.000-17.000 euros**. Ojo, esa cifra no incluye impuestos europeos, homologación para la UE ni transporte, así que no puede tomarse como anticipo de un precio español. El ajuste se apoya en celdas LFP de CATL adquiridas en el propio mercado chino, una electrónica creada en alrededor de año y medio con XPeng y una red de proveedores local con costes inalcanzables para una planta alemana.
 
-## ¿Vendrá el ID. Aura T6 a Europa?
+## ¿Llegará a Europa?
 
-La respuesta honesta: **no está confirmado**. Volkswagen no ha anunciado ningún plan para vender el T6 fuera de China. Algún medio señala que la marca sopesa traer a Europa varios de sus nuevos SUV eléctricos desarrollados en China, con el T6 entre los candidatos, pero hoy por hoy es una posibilidad en estudio, no un plan oficial.
+A día de hoy, la respuesta honesta es que **no hay confirmación**. Volkswagen no ha comunicado ningún plan para comercializar el T6 fuera de China. Algunos medios apuntan que la firma valora llevar a Europa varios SUV eléctricos concebidos allí, con el T6 entre los aspirantes, pero eso sigue siendo una opción en estudio, no una decisión oficial.
 
-Lo que sí viene a Europa es su primo conceptual: el **ID. Tiguan** se presenta el 9 de octubre, sustituye al ID.4 y al ID.5, se fabricará solo en Emden y llegará a los concesionarios a comienzos de 2027. Jugará en la misma liga de tamaño y precio europeo, pero con plataforma MEB+ y sin el cerebro XPeng.
+Lo que sí está confirmado para Europa es su pariente conceptual: el **ID. Tiguan** debuta el 9 de octubre, toma el relevo del ID.4 y del ID.5 y se producirá solo en Emden y estará en los concesionarios a comienzos de 2027. Competirá en la misma franja de tamaño y precio europeo, aunque con plataforma MEB+ y sin la electrónica de XPeng.
 
-## Curiosidades que quizá no sabías
+## Cinco detalles que conviene conocer
 
-- **El primer Volkswagen con maletero delantero de verdad**: el frunk de 90 litros es algo que el ID.4 no tiene. Los 576 litros traseros crecen hasta 1.796 con los asientos abatidos.
-- **Más largo que un Model Y**: con 4.811 mm, está más cerca del Tesla Model Y que del ID.4 (4.584 mm). Y eso que no tiene tercera fila: es un cinco plazas.
-- **Aerodinámica de berlina**: su Cx de 0,245 es muy bueno para un SUV de este tamaño, gracias a la trasera limpia, la entrada de aire activa y los tiradores semiocultos.
-- **La alianza VW-XPeng va en serio**: la CEA es solo el principio; la hoja de ruta "Agentic AI para todos" promete agentes de IA a bordo desde 2026 en los modelos basados en esta arquitectura.
-- **Carga digna, pero no de récord**: el 30-80 % en 22 minutos queda lejos de los 9 minutos del Changan Nevo Q06, su rival chino con carga 6C. <a href=/blog/changan-nevo-q06-suv-electrico-paris-2026/>Te lo contamos aquí</a>.
+- **Carga correcta, sin alardes**: recuperar del 30 al 80 % lleva 22 minutos, muy por encima de los 9 minutos que logra el Changan Nevo Q06, rival chino con carga 6C. <a href=/blog/changan-nevo-q06-suv-electrico-paris-2026/>Aquí tienes nuestro artículo sobre ese rival</a>.
+- **La alianza va más allá de un modelo**: el plan "Agentic AI para todos" anuncia asistentes de IA embarcados a partir de 2026 en los coches que usen esta base.
+- **Motor y baterías**: el propulsor trasero rinde 231 CV y acelera de 0 a 100 en 7,2 s; las baterías LFP son de 59,9 o 77,5 kWh.
+- **Autonomía**: hasta 660 km en ciclo chino CLTC gracias a la batería grande; con la pequeña son 540 km, y una estimación independiente la sitúa en 446-541 km WLTP.
+- **Conducción asistida avanzada**: la solución ADAS corre a cargo de CARIZON, con LiDAR en las versiones altas.
 
 ## Preguntas frecuentes
 
-### ¿Qué es el Volkswagen ID. Aura T6?
-Un SUV 100 % eléctrico de 4,81 metros de FAW-Volkswagen, primero de la nueva familia ID. Aura. Lleva motor trasero de 231 CV (0-100 en 7,2 s), baterías LFP de 59,9 o 77,5 kWh y la arquitectura electrónica CEA desarrollada con XPeng.
+### ¿Qué modelo es el Volkswagen ID. Aura T6?
+Un todocamino cien por cien eléctrico de 4,81 metros, fabricado por FAW-Volkswagen y primero de la familia ID. Aura. Equipa un motor trasero de 231 CV que acelera de 0 a 100 en 7,2 segundos, con baterías LFP de 59,9 y 77,5 kWh, y la electrónica CEA creada junto a XPeng.
 
-### ¿Cuánto cuesta el ID. Aura T6?
-En China parte de 129.900 yuanes (unos 16.000-17.000 euros al cambio directo). Es un precio sin impuestos ni homologación europea, así que no es extrapolable a España.
+### ¿Qué precio tiene el ID. Aura T6 en China?
+En China su precio inicial es de 129.900 yuanes, alrededor de 16.000-17.000 euros en conversión directa. Esa cantidad excluye impuestos y homologación europea, así que no sirve para anticipar un precio español.
 
-### ¿Qué autonomía tiene el ID. Aura T6?
-Hasta 660 km en ciclo chino CLTC con la batería grande de 77,5 kWh (540 km con la pequeña). La estimación independiente lo sitúa en 446-541 km WLTP.
+### ¿Cuántos kilómetros recorre el ID. Aura T6?
+Con la batería de 77,5 kWh alcanza 660 km en ciclo chino CLTC, mientras que la pequeña se queda en 540 km. Según una estimación independiente, equivaldría a 446-541 km WLTP.
 
-### ¿Llegará el Volkswagen ID. Aura T6 a España?
-No hay ningún plan oficial confirmado. Volkswagen no ha anunciado su venta fuera de China, aunque se comenta que estudia traer a Europa SUV eléctricos desarrollados allí.
+### ¿Llegará el ID. Aura T6 al mercado español?
+De momento no hay ningún plan oficial. La marca no ha comunicado su comercialización fuera de China, aunque se rumorea que valora llevar a Europa todocaminos eléctricos concebidos allí.
 
-### ¿Qué aporta XPeng al ID. Aura T6?
-La arquitectura electrónica CEA: menos centralitas, software centralizado, actualizaciones remotas y base para la conducción asistida avanzada (con solución ADAS de CARIZON y LiDAR en las versiones altas).
+### ¿Qué pone XPeng en el ID. Aura T6?
+La electrónica CEA: menos centralitas, software centralizado, actualizaciones a distancia y cimiento para asistencias avanzadas (solución ADAS de CARIZON, con LiDAR en los acabados altos).
 
-### ¿Qué etiqueta DGT tendría el ID. Aura T6?
-Al ser 100 % eléctrico, le correspondería la etiqueta CERO, con acceso a todas las ZBE. <a href=/calculadora-etiqueta-dgt/>Calcúlala aquí para cualquier coche</a>.
+### ¿Qué distintivo DGT le correspondería al ID. Aura T6?
+Como es totalmente eléctrico, obtendría la etiqueta CERO, que permite entrar en todas las ZBE. <a href=/calculadora-etiqueta-dgt/>Puedes calcularla para cualquier modelo</a>.
 
-Con 231 CV bajo el pie derecho, conviene recordar que la emoción dura un acelerón y la <a href=https://recurretumulta.online/guias/radares>multa por exceso de velocidad</a> dura meses. Si te llega una, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar: en 20 días se juega el descuento y el derecho a recurrir.
+Con 231 CV disponibles, merece la pena tener presente que un acelerón dura segundos y una <a href=https://recurretumulta.online/guias/radares>sanción por correr demasiado</a>, meses. Si recibes una, <a href=https://recurretumulta.online/#analizador>revísala gratis con la herramienta de IA</a> antes de abonar nada: el descuento y la posibilidad de recurrir se deciden en 20 días.
 
-*Fuentes: <a href=https://www.hibridosyelectricos.com/coches/volkswagen-empieza-entregar-primeras-unidades-su-nuevo-coche-electrico-cuesta-17000-tiene-660-km-autonomia_89711_102.html>entregas en hibridosyelectricos.com (06/10/2026)</a>, <a href=https://testcoches.es/noticias/un-volkswagen-con-cerebro-de-xpeng-el-id-aura-t6-ya-se-entrega-en-ch/>ficha y precios en testcoches.es</a>, <a href=https://www.hibridosyelectricos.com/coches/es-100-electrico-tiene-660-km-alcance-volkswagen-lanza-en-china-su-propio-model-17500-podria-llegar-espana_89224_102.html>lanzamiento en hibridosyelectricos.com</a>, <a href=https://www.autonocion.com/motornocion/grupo-volkswagen-id-aura-t6-tiguan/>preventa en autonocion.com</a> y <a href=https://cdn.uc.assets.prezly.com/195909ac-e947-432f-b638-f757f98e5ea2/-/inline/no/bpcon-base-en-la-confianza-y-enfocado-en-la-innovacion-volkswagen-impulsa-su-estrategia-en-china-para-china-en-auto-china-2026.pdf>nota oficial de Volkswagen en Auto China 2026</a>. Las autonomías son ciclo CLTC (China); la llegada a Europa no está confirmada por la marca.*`,
+*Fuentes: <a href=https://www.hibridosyelectricos.com/coches/volkswagen-empieza-entregar-primeras-unidades-su-nuevo-coche-electrico-cuesta-17000-tiene-660-km-autonomia_89711_102.html>entregas en hibridosyelectricos.com (06/10/2026)</a>, <a href=https://testcoches.es/noticias/un-volkswagen-con-cerebro-de-xpeng-el-id-aura-t6-ya-se-entrega-en-ch/>ficha y precios en testcoches.es</a>, <a href=https://www.hibridosyelectricos.com/coches/es-100-electrico-tiene-660-km-alcance-volkswagen-lanza-en-china-su-propio-model-17500-podria-llegar-espana_89224_102.html>lanzamiento en hibridosyelectricos.com</a>, <a href=https://www.autonocion.com/motornocion/grupo-volkswagen-id-aura-t6-tiguan/>preventa en autonocion.com</a> y <a href=https://cdn.uc.assets.prezly.com/195909ac-e947-432f-b638-f757f98e5ea2/-/inline/no/bpcon-base-en-la-confianza-y-enfocado-en-la-innovacion-volkswagen-impulsa-su-estrategia-en-china-para-china-en-auto-china-2026.pdf>nota oficial de Volkswagen en Auto China 2026</a>. Las autonomías son ciclo CLTC (China); la llegada a Europa no está confirmada por la marca.*
+`,
   },
   {
     title: "Lynk & Co 07 GT: familiar híbrido de 523 CV en París",

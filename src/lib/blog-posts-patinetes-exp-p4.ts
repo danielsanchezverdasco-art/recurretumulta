@@ -2717,9 +2717,9 @@ Como curiosidad de ingeniería, sí. Como compra en España, no hay forma racion
   },
   {
     slug: "bronco-xtreme-vnom-11",
-    title: "Bronco Xtreme VNOM 11: 50 Ah y 129 km",
+    title: "Bronco VNOM 11: el patinete americano de 50 Ah",
     excerpt:
-      "El Bronco Xtreme VNOM 11 es la evolución rutera: batería de 50 Ah, 129 km declarados, pantalla TFT e intermitentes. Ficha completa.",
+      "Variante viajera del Xtreme 11: acumulador de 50 Ah, 129 km anunciados, TFT, frenada hidráulica e intermitentes, solo a la venta en EE. UU.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -2738,9 +2738,9 @@ Como curiosidad de ingeniería, sí. Como compra en España, no hay forma racion
 
 **¿Buscas solo los datos?** <a href=/patinetes/bronco-xtreme-vnom-11/>Ver ficha técnica del Bronco Xtreme VNOM 11</a>: batería, autonomía y equipamiento. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **Bronco Xtreme VNOM 11** es la evolución del Xtreme 11 hacia el gran turismo: batería de **50 Ah**, **129 km** de autonomía declarada (80 millas), **pantalla TFT**, **frenos hidráulicos** e **intermitentes** (<a href=https://alienrides.com/collections/electric-scooters/products/bronco-xtreme-vnom-11-electric-scooter>Alien Rides</a>).
+Al otro lado del Atlántico, Bronco ofrece una declinación viajera de su Xtreme 11: el VNOM 11 renuncia a la búsqueda del empuje extremo para concentrarse en aguantar ruta tras ruta sin pasar por el enchufe. Lleva instrumentación digital TFT, frenada hidráulica, señalización por intermitentes y un acumulador de 50 Ah, según recoge la tienda estadounidense (<a href=https://alienrides.com/collections/electric-scooters/products/bronco-xtreme-vnom-11-electric-scooter>Alien Rides</a>).
 
-## Ficha técnica resumida
+## Los números que importan
 
 | Dato | Valor |
 |---|---|
@@ -2752,27 +2752,27 @@ El **Bronco Xtreme VNOM 11** es la evolución del Xtreme 11 hacia el gran turism
 | **Pantalla** | TFT a color |
 | **Extras** | Intermitentes, plataforma 13x26" |
 
-¿Quieres el detalle completo? <a href=/patinetes/bronco-xtreme-vnom-11/>Ficha técnica completa del VNOM 11</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/bronco-xtreme-vnom-11/>Ficha completa del VNOM 11</a>, con cada dato verificado.
 
-## Precio del Bronco Xtreme VNOM 11 en España
+## Cuánto habría que pagar para traerlo
 
-Sin precio oficial ni distribución europea: se vende en tiendas de EE. UU. En España, solo por importador.
+Ningún importador europeo lo anuncia con tarifa pública, y tampoco existe red de venta en el continente: la única vía para un comprador español pasa por adquirirlo en un comercio norteamericano y gestionar el traslado. Eso deja el desembolso final sin cifra cerrada, porque al importe del vehículo se suman envío, trámites y posibles aranceles, variables que cada importador cotiza por separado.
 
 <img src=/media/patinetes/bronco-xtreme-vnom-11-2.webp alt=Detalle de la pantalla TFT del Bronco Xtreme VNOM 11>
 
-## Autonomía real vs declarada
+## Alcance anunciado y alcance plausible
 
-Declara **129 km** a ritmo moderado; el propio vendedor admite 80 millas en esas condiciones. En uso mixto, **80-90 km** reales son creíbles con 50 Ah.
+El fabricante anuncia 129 km cuando se circula con calma, cifra equivalente a 80 millas, y el propio comercio que lo vende reconoce ese mismo valor en condiciones tranquilas. En un uso mezclado de ciudad, carretera y paradas frecuentes, la estimación razonable baja hasta una horquilla de 80 a 90 km, con unos 86 km como referencia central. La diferencia entre ambas cifras no es un engaño: refleja ritmos, pesos y paradas distintos, y con un acumulador tan grande el margen entre un recorrido suave y otro exigente se nota mucho.
 
-## Frenos y neumáticos
+## Frenada, ruedas y plataforma
 
-**Hidráulicos** con **intermitentes** delanteros y traseros grandes, y plataforma gigante de **13x26 pulgadas** con reposapiés: pensado para reparto y cruising largo.
+La frenada recurre a un sistema hidráulico, la señalización incluye intermitentes delanteros y traseros de tamaño generoso, y la base de apoyo mide 13x26 pulgadas con reposapiés incorporado. Las ruedas son de 11 pulgadas. Ese conjunto apunta a jornadas largas: reparto urbano con muchas paradas, o travesías prolongadas donde la estabilidad y la comodidad pesan más que la agilidad entre el tráfico. La contrapartida es evidente: una plataforma tan amplia gira peor en espacios estrechos y exige más sitio para guardarla.
 
-## Certificado DGT y normativa VMP
+## Encaje legal en España
 
-Sin certificado DGT. Por potencia y dimensiones no encaja como VMP en España: su hábitat natural es EE. UU.
+No dispone de certificado de la DGT, y por potencia y dimensiones queda fuera de la categoría de vehículo de movilidad personal en España. Su mercado natural es el norteamericano, donde las reglas para este tipo de máquinas son otras. Quien lo importe debe saber que aquí no podrá utilizarlo como un VMP convencional: ni la norma ni el seguro lo tratarán como tal.
 
-## Puntos fuertes y débiles
+## Lo mejor y lo peor, en dos columnas
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -2784,11 +2784,11 @@ Sin certificado DGT. Por potencia y dimensiones no encaja como VMP en España: s
 
 <img src=/media/patinetes/bronco-xtreme-vnom-11-3.webp alt=Bronco Xtreme VNOM 11 circulando de noche>
 
-## Bronco VNOM: el hiperpatinete americano de gran autonomía
+## Por qué existe un patinete así
 
-El Bronco Xtreme VNOM 11 es la evolución gran turismo del Xtreme 11, un hiperpatinete pensado para el mercado estadounidense que se vende en tiendas especializadas de EE. UU. como la citada en las fuentes de este post. Donde su hermano busca potencia bruta, con **8.400 W** según la comparación de la FAQ, el VNOM busca **distancia**: una batería enorme, pantalla completa y equipamiento rutero para devorar kilómetros. Es un producto de otro ecosistema normativo y de uso, el americano, donde los patinetes de altas prestaciones circulan por vías y espacios que en Europa serían impensables para un VMP.
+En Estados Unidos existe un público que usa estos aparatos como herramienta de trabajo y como vehículo de ocio de largo recorrido, en entornos donde las distancias son mayores y la normativa local permite máquinas más potentes. El VNOM 11 nace para ese comprador: alguien que necesita encadenar repartos durante horas o recorrer trayectos extensos sin preocuparse del enchufe, y que acepta a cambio un vehículo voluminoso y pesado. En Europa, donde el patinete se entiende como transporte ligero y limitado, esa propuesta pierde sentido comercial, y por eso ningún distribuidor continental lo ofrece.
 
-## 50 Ah: una batería del tamaño de un ciclomotor eléctrico
+## El acumulador como argumento central
 
 | Dato | Bronco Xtreme VNOM 11 |
 |---|---|
@@ -2801,47 +2801,49 @@ El Bronco Xtreme VNOM 11 es la evolución gran turismo del Xtreme 11, un hiperpa
 | Plataforma | 13x26 pulgadas |
 | Potencia | No publicada |
 
-La técnica del VNOM se concentra en un solo número: **50 Ah** de batería, una capacidad que en este sitio se ve en ciclomotores eléctricos, no en patinetes. Con ella declara **129 km** a ritmo moderado, cifra que el propio vendedor sustenta con sus 80 millas en esas condiciones, y que en uso mixto se traduce en los **80-90 km reales** que estima el análisis original. El resto del equipamiento es rutero de verdad: **frenos hidráulicos**, intermitentes grandes, plataforma gigante de **13x26 pulgadas** con reposapiés y pantalla TFT con voltímetro, el instrumento que en los vehículos de gran batería sirve para leer la carga real que queda.
+Todo el diseño gira alrededor de una reserva de 50 Ah, una capacidad que en este sitio solemos encontrar en ciclomotores eléctricos antes que en patinetes. Con ella, la distancia anunciada en circulación tranquila alcanza 129 km, equivalentes a 80 millas, y la referencia central en uso mezclado se sitúa en torno a 86 km. El resto del equipamiento acompaña esa vocación viajera: frenada hidráulica, intermitentes amplios, una base de 13x26 pulgadas con reposapiés y una pantalla TFT que incluye voltímetro, útil para conocer la carga restante con precisión cuando la batería es tan grande.
 
-## Uso real: reparto y cruising largo en EE. UU.
+## Conservarlo: batería, frenos y piezas
 
-El VNOM está pensado para **reparto y cruising de larga distancia** en Estados Unidos, el uso que su plataforma enorme y su autonomía de ciclomotor habilitan: jornadas de trabajo o rutas que ningún patinete convencional puede encadenar sin recargar. Su contrapartida está en la propia tabla de contras: esa plataforma lo hace **poco ágil**, el peso no está publicado pero con 50 Ah será alto, y no tiene presencia ni precio oficial en Europa. Es un vehículo de nicho dentro de un nicho: el del usuario americano que quiere la máxima distancia posible sobre dos ruedas pequeñas, cueste lo que cueste en tamaño y peso.
+Sin venta en Europa no hay red oficial ni tarifas de taller que publicar para España. Lo que sí se deduce de su ficha es el plan de cuidados de un aparato de estas características: el circuito hidráulico pedirá purgas y pastillas periódicas, parecidas a las de una bicicleta de altas prestaciones; los neumáticos de 11 pulgadas serán el consumible que antes se gaste; y el acumulador de 50 Ah concentrará, llegado el momento, la mayor parte del gasto de sustitución. Además, cualquier pieza deberá viajar desde Estados Unidos, un sobrecoste permanente para quien lo tenga en España.
 
-## Mantenimiento: la batería manda y los recambios son americanos
+## Qué dice la norma española
 
-No hay red ni tarifas de mantenimiento del VNOM aplicables a España que publicar, porque el producto no se distribuye en Europa. Lo verificable por su ficha es el mapa de cuidados de un hiperpatinete: **frenos hidráulicos** que exigen purgado y pastillas como los de una bicicleta potente, neumáticos de 11 pulgadas como consumible principal y una batería de 50 Ah cuyo coste de sustitución, cuando llegue, será la partida dominante del mantenimiento a largo plazo. En un vehículo sin distribución europea, cualquier avería se resuelve con piezas importadas de EE. UU., y ese es un coste estructural que el comprador español debe asumir antes de importar uno.
+La norma española para los vehículos de movilidad personal está pensada para aparatos ligeros, limitados a 25 km/h, como recoge la <a href=https://www.dgt.es/nuestros-servicios/en-detalle/vehiculos-de-movilidad-personal/>web oficial de VMP de la DGT</a>. Un aparato de 50 Ah orientado a 129 km queda en las antípodas de ese perfil. Usarlo por vías públicas españolas no es moverse en un vacío cómodo: es emplear al margen de su marco un aparato que aquí carece de categoría VMP, con las consecuencias que eso acarrea en materia legal y de seguro.
 
-## Normativa: fuera del marco VMP español
+## Contra su hermano y contra los VMP europeos
 
-El VNOM **no tiene certificado DGT** y, como concluye el post original, por potencia y dimensiones **no encaja como VMP en España**: su hábitat legal es Estados Unidos. La regulación española de los vehículos de movilidad personal, consultable en la <a href=https://www.dgt.es/nuestros-servicios/en-detalle/vehiculos-de-movilidad-personal/>página oficial de VMP de la DGT</a>, está pensada para patinetes ligeros de hasta 25 km/h, un mundo opuesto a un hiperpatinete de 50 Ah pensado para 129 km. Circular con algo así por vías públicas españolas no es una zona gris cómoda: es usar fuera de su marco un vehículo que aquí no tiene categoría de VMP, con las consecuencias legales y de seguro que ello implica.
+La pugna interna enfrenta dos filosofías: el Xtreme 11 busca empuje, con 8.400 W, mientras el VNOM 11 busca recorrido, con 50 Ah y dotación viajera. Y frente a los modelos que sí se venden en España, la diferencia ya no es de prestaciones sino de categoría: aquí dominan los VMP homologados, contenidos y livianos que figuran en el <a href=/comparador-patinetes/>listado comparativo de patinetes</a>.
 
-## Frente al Xtreme 11 y a los VMP europeos: veredicto
-
-La comparación interna es de filosofía: el **Xtreme 11** prima la potencia con 8.400 W y el VNOM prima la autonomía con 50 Ah y el equipamiento rutero. Frente a los patinetes que sí se venden en España, la comparación ni siquiera es de producto, es de categoría: aquí mandan los VMP certificados, limitados y ligeros que pueblan el <a href=/comparador-patinetes/>comparador de patinetes</a>. 
-
-**¿Merece la pena?** En EE. UU., para reparto o rutas larguísimas, su batería no tiene rival directo. **Para quién sí:** para el usuario americano que necesite 80-90 km reales por carga y asuma su tamaño. **Para quién no:** para el lector español en cualquier caso: sin categoría VMP, sin distribución y sin precio europeo, el VNOM es aquí una curiosidad técnica, no una compra.
+**¿Compensa?** En Estados Unidos, para repartir durante horas o para travesías larguísimas, su acumulador no tiene contrincante directo. **Perfil adecuado:** el comprador norteamericano que necesite alrededor de 86 km reales por carga y acepte su volumen. **Perfil descartado:** cualquier lector español, sin excepción: sin categoría VMP, sin red comercial y sin tarifa europea, el VNOM aquí solo es una curiosidad técnica, no una adquisición.
 
 ## Preguntas frecuentes
 
-### ¿Qué autonomía tiene el VNOM 11?
-**129 km** declarados a ritmo moderado; unos 86 km en uso mixto.
+### ¿Cuántos kilómetros aguanta con una carga?
 
-### ¿Qué batería lleva?
-**50 Ah**, una de las mayores del mercado.
+129 km anunciados en circulación tranquila; en uso mezclado, unos 86 km.
 
-### ¿Es legal en España?
-No encaja como VMP; es un producto para el mercado americano.
+### ¿De qué capacidad es su acumulador?
 
-### ¿Cuánto cuesta?
-Sin precio oficial publicado.
+50 Ah, una de las cifras más altas que se ven en este tipo de vehículos.
 
-### ¿En qué se diferencia del Xtreme 11?
-El VNOM prima **autonomía** (50 Ah) y equipamiento rutero; el Xtreme 11 prima **potencia** (8.400 W).
+### ¿Se puede usar legalmente en España?
 
-### ¿Merece la pena?
-En EE. UU. para reparto, quizá. En España es una curiosidad.
+No como VMP: es un modelo pensado para el mercado norteamericano.
 
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
+### ¿Tiene precio en Europa?
+
+No hay tarifa oficial publicada para el mercado europeo.
+
+### ¿Qué lo separa del Xtreme 11?
+
+El VNOM apuesta por el recorrido (50 Ah) y la dotación viajera; el Xtreme 11, por el empuje (8.400 W).
+
+### ¿Compensa comprarlo desde España?
+
+Para repartir en Estados Unidos, tal vez. Desde España, solo como curiosidad.
+
+¿Te multaron circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza gratis tu multa con nuestra IA</a> antes de pagarla: te diremos si es recurrible.
 
 *Fuentes: <a href=https://alienrides.com/collections/electric-scooters/products/bronco-xtreme-vnom-11-electric-scooter>ficha en Alien Rides</a>., <a href=https://www.dgt.es/nuestros-servicios/en-detalle/vehiculos-de-movilidad-personal/>DGT: vehículos de movilidad personal</a>*`,
   },

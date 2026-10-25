@@ -8,9 +8,9 @@ import type { BlogPost } from "./blog-data.ts";
 
 export const MOTOR_2026_N_POSTS: BlogPost[] = [
 {
-  "title": "París 2026: 25 marcas chinas y la guerra de los aranceles",
+  "title": "París 2026: 25 marcas chinas ante 61 fabricantes",
   "slug": "salon-paris-2026-20-marcas-chinas-aranceles",
-  "excerpt": "El Salón de París abre mañana con 25 marcas chinas, 61 fabricantes y 60 estrenos. Aranceles, pacto UE-China y qué significa si quieres comprar coche.",
+  "excerpt": "París 2026: 61 fabricantes, más de 60 estrenos y récord de 25 marcas chinas. Aranceles, pacto sobre PHEV y qué cambia si compras coche.",
   "category": "Novedades Motor",
   "date": "2026-10-11",
   "readTime": 9,
@@ -26,7 +26,7 @@ export const MOTOR_2026_N_POSTS: BlogPost[] = [
   ],
   "content": `<img src=/media/salon-paris-2026-20-marcas-chinas-aranceles-hero.webp alt=Salón del Automóvil de París de noche con coches eléctricos expuestos y la Torre Eiffel al fondo>
 
-El **Salón del Automóvil de París** abre mañana sus puertas (12-18 de octubre) y lo hace en plena guerra comercial: **25 marcas chinas** acuden a la cita, un récord que **duplica** la delegación china del salón de 2024. No es una anécdota: es la prueba de que el centro de gravedad de la industria ya no está donde estaba.
+El Salón del Automóvil de París 2026 (12-18 de octubre) llega en plena guerra comercial: acuden 25 marcas chinas, el doble que en 2024 y un récord absoluto. No se trata de un detalle menor: demuestra que el peso de la industria se ha desplazado.
 
 ## El salón en cifras
 
@@ -42,13 +42,13 @@ El **Salón del Automóvil de París** abre mañana sus puertas (12-18 de octubr
 | Invitado inaugural | **Emmanuel Macron**, en la jornada de prensa del lunes | EFE |
 | Entradas | Desde **20 €** por internet entre semana (22 € fin de semana) | Organización |
 
-## Datos clave de la ofensiva china
+## Cifras clave de la ofensiva china
 
-- **Marcas chinas:** 25 (récord; en 2024 fueron la mitad). BYD y Chery repiten; debutan **Aito** (Huawei + Seres) y **Avatr** (Changan + CATL + Huawei)
-- **Cuota de mercado china en Europa:** **10,7 %** en el segundo trimestre de 2026 (Schmidt Automotive Research), frente al 5,7 % un año antes. Ya superan a los japoneses
-- **En híbridos enchufables:** las chinas tienen más del **26 %** del mercado de Europa Occidental (eran el 2,2 % hace dos años)
-- **Aranceles:** la UE impuso aranceles de **hasta el 45 %** a los eléctricos 100 % chinos; y esta semana <a href=/blog/ue-china-freno-hibridos-enchufables/>UE y China han pactado frenar los híbridos enchufables chinos</a> (recorte de más de la mitad en 4 años)
-- **Respuesta europea:** legislación con normas "Made in Europe" (contenido local mínimo para optar a subvenciones y contratos públicos)
+- **Presencia china:** 25 marcas, cifra récord que dobla la de 2024. Repiten BYD y Chery. Debuta **Aito**, la alianza de Huawei con Seres, y también **Avatr**, fruto de Changan, CATL y Huawei
+- **Cuota china en Europa:** 10,7 % entre abril y junio de 2026, frente al 5,7 % del año anterior (Schmidt Automotive Research). Ya van por delante de los japoneses
+- **En híbridos enchufables:** las marcas chinas rebasan el 26 % del mercado de Europa Occidental, cuando hace dos años eran el 2,2 %
+- **Aranceles:** la UE grava con hasta un 45 % a los eléctricos totalmente chinos; y esta semana <a href=/blog/ue-china-freno-hibridos-enchufables/>el pacto alcanzado entre UE y China para frenar los enchufables chinos</a> (recorte superior a la mitad en 4 años)
+- **Respuesta europea:** una futura ley con reglas «Made in Europe» (mínimo contenido local para optar a ayudas oficiales)
 - **Fuentes:** <a href=https://lado.mx/noticia/22029570/>EFE, 11/10/2026</a>, <a href=https://www.reuters.com/es/negocio/E6RW3GA3MRLQPMQHXQKLFRUORI-2026-10-09/>Reuters, 09/10/2026</a>
 
 ## La invasión china en cifras
@@ -62,25 +62,25 @@ El **Salón del Automóvil de París** abre mañana sus puertas (12-18 de octubr
 | Pacto UE-China sobre PHEV | Recorte de más de la mitad en 4 años | <a href=/blog/ue-china-freno-hibridos-enchufables/>Nuestro artículo</a> |
 | Stand de BYD | **1.000 m²** en el pabellón 6 | EFE |
 
-## La jugada china: si no puedes con los aranceles, rodéalos
+## La respuesta china: rodear los aranceles cambiando de producto
 
-La historia es de manual. Hace dos años la UE puso **aranceles a los coches 100 % eléctricos fabricados en China** (de hasta el 45 % en los casos más duros). La respuesta de Pekín no fue rendirse: fue **cambiar de producto**. Las marcas chinas ampliaron su oferta a modelos con motor de combustión e **híbridos enchufables**, y el resultado está en las cifras: del 2,2 % al **26 % del mercado europeo de PHEV en dos años**.
+La secuencia resulta de manual: hace dos años, la UE impuso aranceles a los eléctricos fabricados íntegramente en China, con un tope del 45 % en los casos más duros. Pekín no respondió rindiéndose: respondió cambiando de producto. Las marcas chinas ampliaron la oferta hacia modelos con motor de combustión y hacia híbridos enchufables, y el desenlace se ve en los números: en dos años han pasado del 2,2 % a rebasar el 26 % del mercado europeo de PHEV.
 
-Ese frente de batalla se acaba de cerrar: esta semana **UE y China han pactado frenar los híbridos enchufables chinos** con un recorte de más de la mitad de las exportaciones en 4 años. Tienes el análisis completo (oferta, precios y calendario) en <a href=/blog/ue-china-freno-hibridos-enchufables/>nuestro artículo sobre el pacto UE-China</a>.
+Ese frente acaba de cerrarse: esta semana, UE y China han acordado contener los híbridos enchufables chinos, con sus exportaciones recortadas a menos de la mitad en 4 años. El análisis completo (oferta, precios y calendario) está en <a href=/blog/ue-china-freno-hibridos-enchufables/>nuestro análisis del pacto UE-China</a>.
 
-Mientras tanto, Bruselas prepara una legislación que exigirá niveles mínimos de **contenido local** para que un vehículo eléctrico pueda optar a subvenciones clave o a contratos públicos: las normas "Made in Europe".
+Paralelamente, Bruselas ultima una norma que pedirá un contenido local mínimo para que un eléctrico pueda acceder a ayudas clave o a contratos públicos: las reglas «Made in Europe».
 
 <img src=/media/salon-paris-2026-20-marcas-chinas-aranceles-cuerpo.webp alt=Detalle del frontal de un coche eléctrico moderno en un salón del automóvil>
 
-## Europa contraataca: el eléctrico barato hecho en casa
+## La respuesta europea: un eléctrico asequible fabricado en casa
 
-Mientras tanto, los fabricantes europeos aprovechan París para enseñar que pueden competir. Los dos prototipos llamados a captar la atención son europeos: el **Citroën 2CV Eléctrica**, que recupera la filosofía del 2CV con la meta de comercializarse a partir de **2028 por 15.000 €**, y el monovolumen eléctrico **Renault E-Space Concept**. Puedes leer todo lo confirmado y los rumores en <a href=/blog/citroen-2cv-electrico-2026-paris/>nuestro artículo del 2CV eléctrico</a>.
+Al mismo tiempo, los fabricantes europeos usan París para demostrar su competitividad. Los dos prototipos llamados a acaparar miradas son europeos: el Citroën 2CV Eléctrica, que retoma el espíritu del 2CV con el objetivo de llegar al mercado en 2028 a 15.000 €, junto al monovolumen eléctrico Renault E-Space Concept. Todo lo confirmado y los rumores están en <a href=/blog/citroen-2cv-electrico-2026-paris/>el artículo sobre el 2CV eléctrico</a>.
 
-El contexto es duro para los europeos: **Volkswagen está recortando miles de puestos de trabajo** y baraja cerrar fábricas para reducir costes, y **BMW también está despidiendo a miles de empleados**. La presión de la competencia china, la débil demanda europea, los aranceles estadounidenses y el coste de la electrificación están pasando factura.
+El panorama es duro para los europeos: Volkswagen recorta miles de puestos de trabajo y estudia cerrar plantas para recortar gastos, y BMW también despide a miles de empleados. Pesan la competencia china, la floja demanda europea, los aranceles de Estados Unidos y el coste de electrificar la gama.
 
-## Los grandes ausentes: 20 marcas se quedan fuera
+## Las grandes ausencias: veinte marcas no estarán en París
 
-El renacimiento del salón (de 24 fabricantes en 2022 a 61 en 2026) convive con ausencias sonadas. Las más llamativas:
+Aunque el certamen ha crecido desde 24 fabricantes en 2022 hasta 61 en esta edición, también hay bajas destacadas:
 
 | Bloque | Ausentes |
 |---|---|
@@ -92,42 +92,52 @@ El renacimiento del salón (de 24 fabricantes en 2022 a 61 en 2026) convive con 
 
 *Fuente: <a href=https://www.somoselectricos.com/coches-electricos/bmw-toyota-marcas-coches-ausentes-salon-paris-2026/20261009094056064093.html>Somos Eléctricos</a>, 09/10/2026.*
 
-El mensaje es claro: los salones que Europa abandonó, China los está ocupando.
+En resumen: el hueco que dejan las europeas lo están llenando las chinas.
 
-## Qué significa para ti si quieres comprar coche en España
+## Qué cambia para ti si estás pensando en comprar coche
 
-1. **Más competencia = mejores precios.** La invasión china es la mejor noticia posible para tu bolsillo: es la que está forzando a bajar los precios de todo el mercado. Sin BYD, MG y Leapmotor, no habría eléctricos asequibles europeos en el horizonte.
-2. **Los PHEV chinos se van a encarecer.** Con el <a href=/blog/ue-china-freno-hibridos-enchufables/>pacto UE-China</a> (más de la mitad menos de exportaciones en 4 años), los híbridos enchufables chinos que lleguen importados subirán de precio. Comprar ahora puede salir más barato que dentro de un año.
-3. **Fabricado en Europa = blindado.** Los chinos que se fabrican aquí (el <a href=/coches/leapmotor-b05-2026-precio-ficha-tecnica/>Leapmotor B05</a> se hará en Figueruelas, Zaragoza) esquivan los aranceles por definición. Es un argumento más para mirar qué modelo viene de qué fábrica.
-4. **Las marcas nuevas necesitan red.** Aito quiere que el 20 % de sus ventas sean fuera de China en tres años (hoy es menos del 1 %) y presenta en París cuatro SUV eléctricos de gama alta. Ojo con comprar una marca sin red de servicio en España: el precio es tentador, pero la posventa manda.
+1. **Más competencia, mejores precios.** La llegada china es la mejor noticia para tu bolsillo: está empujando a la baja los precios en todo el mercado. Sin BYD, MG ni Leapmotor, los eléctricos europeos asequibles no estarían en el horizonte.
+2. **Los enchufables chinos subirán de precio.** Con el <a href=/blog/ue-china-freno-hibridos-enchufables/>acuerdo UE-China</a> (exportaciones recortadas a menos de la mitad en 4 años), los híbridos enchufables chinos importados subirán de precio. Comprar ahora puede resultar más barato que esperar un año.
+3. **Fabricado en Europa, a salvo.** Los modelos chinos ensamblados en Europa —el <a href=/coches/leapmotor-b05-2026-precio-ficha-tecnica/>Leapmotor B05</a>, previsto en la planta de Figueruelas (Zaragoza)— quedan al margen de esos gravámenes. Un motivo más para fijarse en el origen de cada modelo.
+4. **Las marcas nuevas necesitan asistencia.** Aito aspira a que el 20 % de sus ventas se haga fuera de China en tres años (hoy, menos del 1 %) y lleva a París cuatro SUV eléctricos de gama alta. Cuidado con adquirir una marca sin asistencia en España: el precio tienta, pero la posventa manda.
 
-Consulta la <a href=/blog/salon-paris-2026-estrenos-electricos-guia/>guía de estrenos eléctricos del Salón de París 2026</a> para ver qué modelos se presentan, y <a href=/comparador-coches/>compáralos cara a cara en el comparador de coches</a>.
+Echa un vistazo a la <a href=/blog/salon-paris-2026-estrenos-electricos-guia/>guía con los estrenos eléctricos de París 2026</a> para descubrir qué modelos se presentan, y <a href=/comparador-coches/>contrástalos en el comparador de coches</a>.
 
-## Preguntas frecuentes
+## Tres cosas que conviene seguir en París
 
-### ¿Cuándo es el Salón del Automóvil de París 2026?
-Del **12 al 18 de octubre de 2026**, en Paris Expo Porte de Versailles. El lunes 12 es la jornada de prensa (con Macron); el público entra desde el martes 13.
+Primero, si los PHEV chinos mantienen sus precios antes de que el pacto recorte las exportaciones. Segundo, si los eléctricos europeos asequibles —con el 2CV a la cabeza— pasan del prototipo a un calendario creíble. Y tercero, qué hacen las grandes ausentes fuera del salón: su silencio también dice mucho de hacia dónde va el mercado.
 
-### ¿Cuántas marcas chinas van al Salón de París 2026?
-Un récord de **25 marcas chinas** de un total de 61 fabricantes, según EFE (11/10/2026): el doble que en 2024. Entre ellas BYD, Chery, Geely, GAC, y las debutantes **Aito** (Huawei + Seres) y **Avatr** (Changan + CATL + Huawei).
+## Dudas frecuentes
 
-### ¿Qué cuota de mercado tienen los coches chinos en Europa?
-El **10,7 %** en el segundo trimestre de 2026, frente al 5,7 % un año antes, según Schmidt Automotive Research. En **híbridos enchufables de Europa Occidental superan el 26 %**.
+### ¿Cuándo se celebra el Salón del Automóvil de París 2026?
 
-### ¿Hay aranceles a los coches chinos en la UE?
-La UE impuso hace dos años **aranceles de hasta el 45 % a los eléctricos 100 % chinos**, y esta semana ha **pactado con China frenar los híbridos enchufables chinos** (más de la mitad menos en 4 años). Bruselas prepara además normas "Made in Europe" con contenido local mínimo para las subvenciones. Detalles en <a href=/blog/ue-china-freno-hibridos-enchufables/>nuestro artículo sobre el pacto UE-China</a>.
+Entre el 12 y el 18 de octubre de 2026, en el recinto Paris Expo Porte de Versailles. La jornada de prensa, con Macron, es el lunes 12; el público accede desde el martes 13.
 
-### ¿Cuánto cuesta la entrada al Salón de París 2026?
-Desde **20 €** por internet entre semana (22 € en fin de semana, 17 € la nocturna y 13 € jóvenes y estudiantes). En taquilla, 22-24 €.
+### ¿Cuántas firmas chinas estarán en París 2026?
 
-### ¿Merece la pena comprar un coche chino en 2026?
-Sí, si es una marca con red en España: los precios son los mejores del mercado y muchos ya tienen 5 estrellas Euro NCAP. Revisa la **red de servicio** y el **origen de fabricación** (los hechos en Europa esquivan los aranceles). <a href=/comparador-coches/>Puedes compararlos aquí</a>.
+Veinticinco marcas chinas, un récord, dentro de los 61 fabricantes presentes, según EFE (11/10/2026). Duplican la cifra de 2024. Entre ellas, BYD, Chery, Geely y GAC, además de las debutantes Aito (Huawei con Seres) y Avatr (Changan, CATL y Huawei).
+
+### ¿Cuánto mercado tienen ya los coches chinos en Europa?
+
+Un 10,7 % entre abril y junio de 2026, frente al 5,7 % del año anterior, según Schmidt Automotive Research. Y en híbridos enchufables de Europa Occidental rebasan el 26 %.
+
+### ¿Aplica la UE aranceles a los coches chinos?
+
+Hace dos años, la UE gravó con hasta el 45 % a los eléctricos fabricados en China, y esta semana ha acordado con China contener los enchufables chinos (menos de la mitad de exportaciones en 4 años). Bruselas prepara además reglas «Made in Europe» que exigirán contenido local mínimo para acceder a las ayudas. Más detalles en <a href=/blog/ue-china-freno-hibridos-enchufables/>el análisis del pacto UE-China</a>.
+
+### ¿Cuánto cuesta entrar en París 2026?
+
+Desde 20 € comprando por internet entre semana (22 € el fin de semana, 17 € la sesión nocturna y 13 € para jóvenes y estudiantes). En taquilla, entre 22 y 24 €.
+
+### ¿Compensa comprar un coche chino en 2026?
+
+Sí, cuando se trata de una marca con red en España: ofrece los mejores precios del mercado y muchos modelos ya cuentan con 5 estrellas Euro NCAP. Comprueba la asistencia y el origen de fabricación (los fabricados en Europa esquivan los aranceles). <a href=/comparador-coches/>Compáralos en el comparador</a>.
 
 *Fuentes: <a href=https://lado.mx/noticia/22029570/>EFE</a> (París, 11 de octubre de 2026), <a href=https://www.reuters.com/es/negocio/E6RW3GA3MRLQPMQHXQKLFRUORI-2026-10-09/>Reuters</a> (09/10/2026), <a href=https://capital.es/actualidad/el-salon-del-automovil-de-paris-reunira-mas-de-60-estrenos-mundiales/225398/>Capital.es</a>, <a href=https://www.somoselectricos.com/coches-electricos/bmw-toyota-marcas-coches-ausentes-salon-paris-2026/20261009094056064093.html>Somos Eléctricos</a>.*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
+**¿Multa en el parabrisas?** Antes de abonarla o recurrirla, <a href=https://recurretumulta.online/#analizador>revísala gratis con nuestra IA</a> para saber si se puede recurrir.
 
-**También te puede interesar:** <a href=/blog/citroen-2cv-electrico-2026-paris/>el 2CV eléctrico se presenta hoy en París</a> · <a href=/blog/ue-china-freno-hibridos-enchufables/>el pacto UE-China sobre híbridos</a> · <a href=/blog/leapmotor-b05-vs-gac-aion-ut-cual-comprar/>duelo: Leapmotor B05 vs GAC AION UT</a> · <a href=/comparador-coches/>comparador de coches eléctricos</a> · <a href=/#analizador>analiza tu multa gratis</a>.
+**Lecturas relacionadas:** <a href=/blog/citroen-2cv-electrico-2026-paris/>el 2CV eléctrico, hoy en París</a> · <a href=/blog/ue-china-freno-hibridos-enchufables/>el acuerdo UE-China sobre híbridos</a> · <a href=/blog/leapmotor-b05-vs-gac-aion-ut-cual-comprar/>Leapmotor B05 contra GAC AION UT</a> · <a href=/comparador-coches/>comparador de coches</a> · <a href=/#analizador>revisa tu multa gratis</a>.
 `
 },
 ];
