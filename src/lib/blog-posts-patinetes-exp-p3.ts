@@ -1555,9 +1555,9 @@ Sí: **trasera maciza** (sin pinchazos) y delantera neumática.
   },
   {
     slug: "inmotion-rs-lite",
-    title: "InMotion RS Lite: 6.000 W de pico",
+    title: "InMotion RS Lite: hyper-scooter de circuito de 6.000 W",
     excerpt:
-      "El InMotion RS Lite es la versión contenida del RS: doble motor de 1.500 W, 6.000 W de pico, 2.160 Wh y 120 km. Ficha técnica completa.",
+      "El RS Lite es el acceso a la gama RS de InMotion: 90 km/h de punta, 2.160 Wh y una entrega máxima de 6.000 W, solo para circuito privado en España.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -1576,11 +1576,13 @@ Sí: **trasera maciza** (sin pinchazos) y delantera neumática.
     ],
     content: `<img src=/media/patinetes/inmotion-rs-lite-1.webp alt=InMotion RS Lite, vista lateral del hyper-scooter>
 
-**¿Buscas solo los datos?** <a href=/patinetes/inmotion-rs-lite/>Ver ficha técnica del InMotion RS Lite</a>: potencia y batería. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+## Lo esencial en pocas líneas
 
-El **InMotion RS Lite** es el RS para quienes no necesitan el Midnight: **dos motores de 1.500 W** (6.000 W de pico), batería de **2.160 Wh** (72V 30Ah), **120 km declarados** y **88-90 km/h**. "Lite" solo en comparación con su hermano mayor.
+**¿Solo quieres los datos?** <a href=/patinetes/inmotion-rs-lite/>Consulta la ficha técnica del InMotion RS Lite</a>: motor y batería. <a href=/comparador-patinetes/>Enfréntalo a sus rivales</a>.
 
-## Ficha técnica resumida
+Dentro de la gama RS, este modelo ocupa el escalón de acceso: conserva la arquitectura de doble tracción, pero con una potencia nominal más contenida que la variante superior. Cada rueda recibe 1.500 W nominales, la entrega máxima conjunta roza los 6.000 W, el acumulador suma 2.160 Wh y la velocidad punta anunciada se mueve entre 88 y 90 km/h. El apellido "Lite" describe su posición en la familia, no un aparato modesto.
+
+## Datos resumidos
 
 | Dato | Valor |
 |---|---|
@@ -1592,27 +1594,27 @@ El **InMotion RS Lite** es el RS para quienes no necesitan el Midnight: **dos mo
 | **Velocidad máxima** | 88-90 km/h |
 | **Peso** | 52,6 kg |
 
-¿Quieres el detalle completo? <a href=/patinetes/inmotion-rs-lite/>Ficha técnica completa del InMotion RS Lite</a>.
+¿Quieres todos los detalles? <a href=/patinetes/inmotion-rs-lite/>La ficha técnica entera del InMotion RS Lite</a>.
 
-## Precio del InMotion RS Lite en España
+## Cuánto cuesta en España
 
-Se vende por **unos 2.999 dólares** en EE. UU.; en Europa llega vía importadores con el sobreprecio habitual. No hay PVP oficial en euros publicado.
+La referencia que maneja el análisis original ronda los 2.999 dólares en el mercado estadounidense. Para comprarlo en Europa hay que recurrir a importadores, con el recargo que eso suele implicar, y no existe un precio oficial en euros difundido por la marca. Conviene, por tanto, presupuestar la cifra americana solo como orientación, no como tarifa de tienda española.
 
 <img src=/media/patinetes/inmotion-rs-lite-2.webp alt=Detalle del frontal del InMotion RS Lite>
 
-## Autonomía real vs declarada
+## Alcance anunciado y alcance plausible
 
-**120 km declarados** que en uso realista se quedan en **unos 80 km**. Con 6 kW de pico, la autonomía depende más de tu muñeca que de la ficha.
+El fabricante anuncia 120 km con una carga. El análisis original, con prudencia, sitúa el alcance verosímil en torno a 80 km cuando se rueda con brío. La diferencia no sorprende: con una entrega máxima cercana a 6 kW, el consumo cambia radicalmente según la exigencia del puño derecho, y ninguna cifra de laboratorio resiste un uso exigente. Quien planifique rutas largas debería contar con la estimación baja, no con la máxima.
 
-## Frenos y neumáticos
+## Frenada, ruedas y aplomo
 
-Equipo de frenada y neumáticos acordes a 90 km/h, con el chasis RS que tiene fama de muy estable a alta velocidad. La electrónica es de las más fiables del segmento hyper.
+A velocidades próximas a 90 km/h, el equipo de frenos y los neumáticos trabajan en un régimen más cercano al de una moto ligera que al de un patinete urbano. El bastidor RS goza, según el texto original, de una reputación de aplomo a ritmo alto, y la electrónica se presenta como una de las más sólidas dentro del grupo hyper. Son los dos argumentos que más pesan cuando se compara con alternativas más económicas y menos asentadas.
 
-## Certificado DGT y normativa VMP
+## Papeles y vía pública en España
 
-No hay discusión posible: con 90 km/h de máxima, el RS Lite **no es un VMP** ni puede circular legalmente en vía pública española. Solo **circuito privado** y con protecciones de moto.
+La conclusión legal no admite matices: una punta de 90 km/h deja a este modelo fuera de la categoría de vehículo de movilidad personal, de modo que no puede usarse legalmente en calles ni carreteras españolas. Tampoco hay estrellas Euro NCAP que citar: ese programa no evalúa patinetes. Su terreno son los recintos cerrados y los circuitos privados, siempre con protecciones propias de la moto. Comprarlo pensando en desplazamientos urbanos en España sería un error de concepto, no un vacío legal aprovechable.
 
-## Puntos fuertes y débiles
+## Ventajas y pegas
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -1624,11 +1626,11 @@ No hay discusión posible: con 90 km/h de máxima, el RS Lite **no es un VMP** n
 
 <img src=/media/patinetes/inmotion-rs-lite-3.webp alt=InMotion RS Lite en circuito>
 
-## InMotion: del monociclo eléctrico al hyper-scooter RS
+## Quién fabrica este hyper-scooter
 
-InMotion es un fabricante chino especializado en movilidad eléctrica personal que saltó de los monociclos a los patinetes de altas prestaciones con la familia RS, presentada en su red oficial y distribuidores como <a href=https://www.inmotion-france.fr>InMotion France</a>. El RS Lite es la versión «razonable» de esa familia, y las comillas son obligadas: **dos motores de 1.500 W con 6.000 W de pico**, batería de **72V y 30 Ah (2.160 Wh)** y **88-90 km/h** de velocidad máxima. «Lite» solo significa que existe un RS Midnight con más motor y más batería; en cualquier otra compañía, este sería el buque insignia absoluto.
+InMotion es una compañía china centrada en la movilidad eléctrica individual. Arrancó fabricando monociclos y después pasó a vehículos de gran potencia agrupados bajo la sigla RS, difundidos a través de su red oficial y de distribuidores como <a href=https://www.inmotion-france.fr>InMotion France</a>. Dentro de esa familia, el Lite es la propuesta "razonable", entre comillas inevitables: en otro catálogo, un aparato con estas cifras sería directamente el modelo insignia.
 
-## La técnica: 2.160 Wh y chasis de referencia
+## Energía, bastidor y peso
 
 | Dato | InMotion RS Lite |
 |---|---|
@@ -1640,39 +1642,39 @@ InMotion es un fabricante chino especializado en movilidad eléctrica personal q
 | Peso | 52,6 kg |
 | Precio de referencia | Unos 2.999 $ en EE. UU. |
 
-La batería de **2.160 Wh** es de las grandes del segmento hyper y sostiene la autonomía declarada de 120 km, que el análisis original rebaja con honestidad a **unos 80 km reales**: con 6 kW de pico, la autonomía depende de la muñeca más que de la ficha. El chasis RS tiene fama de ser de los más estables a alta velocidad entre los hyper-scooters, y su electrónica es de las más fiables de la categoría, dos virtudes que el post original destaca frente a rivales más baratos. El peaje es físico: **52,6 kg** no se suben a un piso ni se meten en un maletero pequeño.
+Un acumulador de 2.160 Wh figura entre los más generosos del grupo hyper y respalda, sobre el papel, los 120 km anunciados. El análisis original corrige esa cifra hasta unos 80 km verosímiles, un ajuste honesto cuando la entrega máxima roza los 6 kW: el alcance lo decide la mano del piloto antes que la hoja de especificaciones. El bastidor RS se valora, en ese mismo texto, como uno de los más asentados a ritmo alto entre los hyper-scooters, y la electrónica como una de las más solventes frente a rivales de precio inferior. El contrapeso es tangible: 52,6 kg no se cargan por unas escaleras ni caben con holgura en un maletero compacto.
 
-## Uso real: circuito privado y protecciones de moto
+## Dónde tiene sentido usarlo
 
-Hay que repetir lo que dice el análisis sin suavizarlo: con 90 km/h de máxima, el RS Lite no es un VMP ni puede circular legalmente por la vía pública española ni limitado, porque su velocidad por construcción lo excluye de la categoría. Su uso real es el circuito privado y los recintos cerrados, con protecciones de moto, no de patinete. Para calle, la categoría legal son los 25 km/h de los modelos certificados que encontrarás en el <a href=/comparador-patinetes/>comparador de patinetes</a>. Quien lo compre para otra cosa asume una sanción y un problema de seguro, no un capricho. 
+Repetimos la idea central sin edulcorarla: por velocidad de construcción, este modelo queda fuera de la vía pública española, también con cualquier limitación añadida. Su ámbito natural son los circuitos privados y los espacios cerrados, con protecciones de moto en lugar de equipamiento de patinete. Para moverse por ciudad dentro de la legalidad, la opción son los modelos certificados de 25 km/h que recoge el <a href=/comparador-patinetes/>comparador de patinetes</a>. Adquirirlo para otro destino implica asumir multa y conflicto con el seguro, no una simple informalidad.
 
-## Mantenimiento y costes: recambios de nicho, batería protagonista
+## Gasto posterior y piezas
 
-InMotion no publica tarifas de mantenimiento del RS Lite aplicables en España que podamos citar, y no las inventamos. Lo verificable en un hyper-scooter de doble motor es su patrón de gasto: neumáticos y frenos sometidos a prestaciones de moto, y una batería de 2.160 Wh como el componente caro del conjunto, cuya vida depende de cargarla con su cargador y no almacenarla descargada. El post original ya advierte de los recambios de nicho: sin la red de un Xiaomi o un Segway, cada pieza específica llega por importador, y eso debe entrar en el presupuesto junto a los 2.999 dólares de referencia.
+La marca no difunde tarifas de mantenimiento aplicables en España para este modelo que podamos citar, así que no las inventamos. Lo constatable en un hyper-scooter de doble tracción es su patrón de desgaste: ruedas y frenos soportan exigencias de moto, y el acumulador de 2.160 Wh constituye el componente más costoso, cuya duración depende de usar su cargador específico y de no guardarlo descargado. El texto original ya alerta sobre las piezas de nicho: sin una red como la de Xiaomi o Segway, cada componente específico llega mediante importador, y ese coste debe sumarse a los 2.999 dólares de referencia al hacer números.
 
-## Normativa: fuera de los VMP por velocidad de construcción
+## Por qué no entra en la categoría VMP
 
-La normativa de la <a href=https://www.dgt.es>DGT</a> define el VMP con una velocidad máxima por construcción de 25 km/h y exige certificación para los modelos nuevos. El RS Lite la supera por más del triple, así que no existe limitación electrónica que lo convierta en legal para la vía pública española: su sitio es el circuito privado. Tampoco le aplica el debate del casco o las aceras propio de los VMP, porque sencillamente no puede estar en la calle. Es la frontera que separa un patinete de un vehículo de ocio de circuito, y conviene tenerla clara antes de pagar.
+La <a href=https://www.dgt.es>DGT</a> acota el vehículo de movilidad personal en 25 km/h de velocidad máxima por construcción y requiere certificación en los modelos nuevos. Este RS Lite multiplica esa cifra por más de tres, así que ninguna limitación electrónica posterior lo habilita para la vía pública española: su lugar es el circuito privado. Por eso tampoco encajan aquí los debates sobre casco o aceras propios de los VMP, porque el aparato, sencillamente, no puede circular por la calle. Es la línea que separa un patinete de un vehículo recreativo de circuito, y conviene interiorizarla antes de pagar.
 
-## Frente al InMotion RS Midnight y al Kaabo Wolf King GT Pro: veredicto
+## Rivales dentro y fuera de la casa
 
-Dentro de la casa, el <a href=/patinetes/inmotion-rs-midnight/>InMotion RS Midnight</a> figura en su ficha con 58 kg y los motores de 2x2.000 W que ya compara el análisis original: más prestaciones por más dinero y más peso. El <a href=/patinetes/kaabo-wolf-king-gt-pro/>Kaabo Wolf King GT Pro</a> declara en su ficha 180 km de autonomía y 52 kg, la alternativa hyper de Kaabo. El RS Lite se defiende con el chasis y la electrónica que el post destaca como referentes, y con ser el RS más asequible de la familia.
+En la propia gama, el <a href=/patinetes/inmotion-rs-midnight/>InMotion RS Midnight</a> aparece en su ficha con 58 kg y motores de 2x2.000 W, tal como ya lo confronta el análisis original: prestaciones superiores a cambio de más dinero y más kilos. Fuera de la marca, el <a href=/patinetes/kaabo-wolf-king-gt-pro/>Kaabo Wolf King GT Pro</a> anuncia en su ficha 180 km de alcance y 52 kg, la propuesta hyper de esa marca. El Lite se sostiene con el bastidor y la electrónica que el texto original señala como referentes, además de figurar como el RS de precio más bajo dentro de la gama.
 
-**¿Merece la pena?** Como hyper-scooter de circuito, el Lite es el punto de entrada sensato a la familia RS. **Para quién sí:** para quien ruede en recinto privado y valore estabilidad y electrónica fiable. **Para quién no:** para cualquier uso en vía pública española, donde es ilegal sin matices, y para quien no pueda mover 52,6 kg.
+**¿Compensa?** Como hyper-scooter de circuito, el Lite representa la entrada sensata a la familia RS. **A quién le encaja:** a pilotos de espacios cerrados que busquen aplomo y electrónica solvente. **A quién no:** a nadie que pretenda circular por calles españolas, terreno donde está prohibido sin excepciones, ni a quien no pueda desplazar 52,6 kg.
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuánto cuesta el InMotion RS Lite?
-Unos **2.999 $** en EE. UU.; en Europa, precio de importador.
+### ¿Cuánto vale el InMotion RS Lite?
+Alrededor de **2.999 $** en Estados Unidos; en Europa, precio de importador.
 
-### ¿Qué velocidad alcanza?
-**88-90 km/h** declarados.
+### ¿Qué punta anuncia?
+Entre **88 y 90 km/h**, según la cifra declarada.
 
-### ¿RS Lite o RS Midnight?
-El Midnight tiene más motor (2×2.000 W) y batería (40Ah). El Lite es más barato y algo más manejable.
+### ¿Lite o Midnight?
+El Midnight ofrece más motor (2×2.000 W) y acumulador (40Ah). El Lite sale más barato y resulta algo más manejable.
 
-### ¿Es legal en España?
-**No** en vía pública. Solo circuito privado.
+### ¿Se puede usar en España?
+**No** en vía pública. Solo en circuito privado.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
