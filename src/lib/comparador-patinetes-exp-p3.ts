@@ -861,12 +861,12 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Se pliega con un solo clic, perfecto para combinarlo con el transporte público",
     ],
     contras: [
-      "Sin precio oficial: sin tarifa oficial verificable del Inmotion Air en Europa",
-      "35 km declarados: justos si tu trayecto supera los 10 km",
-      "Sin suspensión: los baches se notan",
+      "La marca no publica una tarifa oficial verificable para el Air en Europa",
+      "35 km declarados, justos si tu trayecto supera los 10 km",
+      "Sin suspensión, los baches se notan",
       "El freno de tambor delantero exige más mantenimiento que el disco",
-      "Precio en España no publicado de forma estable",
-      "La autonomía real en modo Sport baja de 25 km",
+      "En España no hay un precio publicado de forma estable",
+      "En modo Sport, la autonomía real baja de 25 km",
     ],
     veredicto:
       "El urbano ligero bien hecho: pesa poco, está bien construido y la app suma. Perfecto para últimos kilómetros, no para grandes distancias.",
