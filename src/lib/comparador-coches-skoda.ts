@@ -889,7 +889,7 @@ export const COCHES_SKODA: CocheComparador[] = [
       "preguntaZbe": "¿Qué ventajas da el CERO en cada ZBE?",
       "faqPrecio": "La versión 2026 parte de 38.375 €, sin variación desde el 14/10/2026. Las ayudas y acabados, en el análisis.",
       "faqAutonomia": "121 km eléctricos, dato oficial de Škoda.",
-      "faqMaletero": "910 litros: la batería no le roba espacio frente al Kodiaq de combustión.",
+      "faqMaletero": "745 litros según la ficha técnica oficial de Škoda del Kodiaq iV enchufable.",
       "faqEtiqueta": "Distintivo CERO, sin límites de acceso a ninguna ZBE.",
       "faqAnalisis": "Lo tienes en «Leer nuestro análisis», con la recarga y el consumo real.",
       "otrasVersiones": "Antes, el resto de Kodiaq de la gama."
@@ -908,7 +908,9 @@ export const COCHES_SKODA: CocheComparador[] = [
     precioDesde: 38375,
     potenciaCv: 204,
     autonomiaKm: 121,
-    maleteroL: 910,
+    maleteroL: 745,
+    fuenteNombre: "Škoda Storyboard, ficha técnica oficial del Kodiaq iV (maletero 745 L, 5 plazas)",
+    fuenteUrl: "https://cdn.skoda-storyboard.com/2024/04/TD_Kodiaq_PHEV_EN_ca44c6d3.pdf",
     ceroCien: 8.4,
     velocidadMax: 210,
     bateriaKwh: 25.7,
@@ -917,7 +919,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     pros: [
       "Hasta 121 km eléctricos (dato oficial de Skoda)",
       "Etiqueta Cero de la DGT",
-      "Maletero de 910 L: no pierde capacidad frente al Kodiaq normal",
+      "Maletero de 745 L según la ficha oficial de Škoda",
       "Desde 38.375 €: el SUV familiar PHEV más asequible",
       "Carga rápida en continua de 50 kW",
       "Nuevo acabado Laurin & Klement (tope de gama): asientos con función de masaje, barras de techo plateadas y llantas específicas (anunciado el 23/10/2026)",

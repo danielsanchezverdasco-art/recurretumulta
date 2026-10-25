@@ -606,9 +606,9 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
   },
   "skoda-kodiaq-iv-hibrido-enchufable-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "El Kodiaq iV logra lo que pocos enchufables: 910 litros de maletero sin perder capacidad frente al Kodiaq normal, más hasta 121 km eléctricos según el dato oficial de Skoda. Cuesta 38.375 €, rinde 204 CV y la DGT le asigna el distintivo ambiental Cero.",
+      "El Kodiaq iV enchufable ofrece 745 litros de maletero según la ficha oficial de Škoda, más hasta 121 km eléctricos según el dato oficial de Skoda. Cuesta 38.375 €, rinde 204 CV y la DGT le asigna el distintivo ambiental Cero.",
       "La batería de 25,7 kWh admite 50 kW de carga rápida, el consumo es de 17,4 kWh/100 km y la punta de 210 km/h. Pesa 1813 kg —se dejan notar, es un coche para disfrutar con calma— Con tracción delantera, ocupa 4,76 m de largo por 1,86 m de ancho y 1,68 m de alto.",
-      "El peaje es la tercera fila: esta versión solo ofrece 5 plazas. Pero quien valore 910 litros para la vida familiar con etiqueta Cero encontrará aquí un argumento de peso. Para el conductor que pone la Cero por delante de todo con 38.375 €, es un acierto."
+      "El peaje es la tercera fila: esta versión solo ofrece 5 plazas. Pero quien valore 745 litros para la vida familiar con etiqueta Cero encontrará aquí un argumento de peso. Para el conductor que pone la Cero por delante de todo con 38.375 €, es un acierto."
     ],
     "veredicto": "Acierto por 38.375 € si la Cero manda y te bastan 5 plazas; menos si necesitas 7."
   },

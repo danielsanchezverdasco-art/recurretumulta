@@ -18166,7 +18166,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "skoda-kodiaq-iv-2025-precio-ficha-tecnica",
     "title": "Skoda Kodiaq iV: 119 km enchufable",
-    "excerpt": "Precio y ficha técnica del Skoda Kodiaq iV: híbrido enchufable de 204 CV, 119 km eléctricos, 910 litros de maletero y 5 estrellas EuroNCAP. Desde 38.800 €.",
+    "excerpt": "Precio y ficha técnica del Skoda Kodiaq iV: híbrido enchufable de 204 CV, 119 km eléctricos, 745 litros de maletero y 5 estrellas EuroNCAP. Desde 38.800 €.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
