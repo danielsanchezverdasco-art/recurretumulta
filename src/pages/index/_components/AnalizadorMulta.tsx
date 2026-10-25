@@ -967,6 +967,12 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
           </CardContent>
         </Card>
 
+        {/* Embudo tienda (25/10/2026) */}
+        <a href="/tienda/" className="flex items-center justify-between gap-3 rounded-xl bg-slate-900 px-4 py-3 text-sm text-white hover:bg-slate-800">
+          <span><strong>Tienda RecurreTuMulta:</strong> tu recurso en PDF por 4,99 € y, pronto, gadgets para el coche.</span>
+          <span className="shrink-0 rounded-full bg-red-600 px-3 py-1 text-xs font-extrabold">Ver tienda</span>
+        </a>
+
         {/* ── VISTA PREVIA DEL RECURSO (colapsable) ── */}
         <Card className="border-border bg-card overflow-hidden">
           <button

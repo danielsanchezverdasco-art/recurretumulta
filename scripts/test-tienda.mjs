@@ -1,0 +1,18 @@
+import crypto from "node:crypto";
+const cat = await import("/tmp/v2fx/netlify/functions/_tienda/catalogo.mjs");
+Object.assign(cat.CATALOGO["bomba-aire-patinete"], { activo: true, precioVenta: 20, costeProveedor: 6, envio: 3, proveedorSku: "VID-TEST" });
+process.env.STRIPE_WEBHOOK_SECRET = "whsec_prueba_local"; process.env.CJ_API_KEY = "x";
+let llamadasCJ = 0, fallos = 1;
+globalThis.fetch = async (u) => { if (String(u).includes("getAccessToken")) return new Response(JSON.stringify({ data: { accessToken: "t" } }));
+  llamadasCJ++; if (fallos-- > 0) return new Response("{}", { status: 500 }); return new Response(JSON.stringify({ result: true, code: 200, data: { orderId: "CJ1" } })); };
+const wh = (await import("/tmp/v2fx/netlify/functions/tienda-webhook.mjs")).default;
+const ev = { type: "checkout.session.completed", data: { object: { id: "cs_test_1", payment_status: "paid", livemode: false, amount_total: 4600, metadata: { lineas: JSON.stringify([["bomba-aire-patinete", 2]]) }, customer_details: { name: "Prueba", email: "a@b.c" }, shipping_details: { name: "Prueba", address: { line1: "C/ Falsa 1", city: "Madrid", postal_code: "28001", country: "ES" } } } } };
+const raw = JSON.stringify(ev), t = Math.floor(Date.now() / 1000);
+const sig = `t=${t},v1=${crypto.createHmac("sha256", "whsec_prueba_local").update(`${t}.${raw}`).digest("hex")}`;
+const mk = (s) => new Request("http://x", { method: "POST", body: raw, headers: { "stripe-signature": s } });
+console.log("1ª:", (await wh(mk(sig))).status, await (await wh(mk(sig))).text(), "llamadasCJ", llamadasCJ);
+console.log("firma mala:", (await wh(mk("t=1,v1=00"))).status);
+const p = await import("/tmp/v2fx/netlify/functions/_tienda/pedidos.mjs"); console.log(JSON.stringify((await p.leer("cs_test_1")).cuentas), (await p.leer("cs_test_1")).estado);
+fallos = 99; ev.data.object.id = "cs_test_2"; const raw2 = JSON.stringify(ev);
+const sig2 = `t=${t},v1=${crypto.createHmac("sha256", "whsec_prueba_local").update(`${t}.${raw2}`).digest("hex")}`;
+console.log("fallo:", await (await wh(new Request("http://x",{method:"POST",body:raw2,headers:{"stripe-signature":sig2}}))).text());

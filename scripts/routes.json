@@ -67,7 +67,9 @@
     "/radares",
     "/comunidades",
     "/provincias",
-    "/explorar-por-marca"
+    "/explorar-por-marca",
+    "/tienda",
+    "/tienda/carrito"
   ],
   "provinceSlugs": [
     "madrid",
@@ -206,7 +208,9 @@
     "/multas/melilla",
     "/multas/san-sebastian",
     "/multas/vitoria",
-    "/patinetes/turboant-thunder-t1"
+    "/patinetes/turboant-thunder-t1",
+    "/tienda",
+    "/tienda/carrito"
   ],
   "baseline": {
     "stableDir": "~/workspace/backups/dist-20261008-preprod",

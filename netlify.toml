@@ -9,3 +9,8 @@
   NPM_FLAGS = "--legacy-peer-deps"
   # VITE_CONVEX_URL y VITE_ADSENSE_* se definen en Netlify > Site settings > Environment.
 # Cabeceras y redirecciones: public/_headers y public/_redirects (se copian a dist/).
+
+# Tienda (25/10/2026): funciones de checkout (Stripe modo test) y webhook de dropshipping.
+# Inactivas mientras no existan STRIPE_SECRET_KEY / STRIPE_WEBHOOK_SECRET / CJ_API_KEY en el entorno.
+[functions]
+  directory = "netlify/functions"
