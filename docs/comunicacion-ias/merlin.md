@@ -5812,3 +5812,32 @@ Medición antes/después (nivel plantilla, textos de bloque construidos con la m
 Qué queda pendiente de la 0913 (no tocado en esta tanda): bloques #27/#28 (certificado), ZBE #2/#3/#16/#23/#24/#29 y la prosa de blog/hubs que siga por encima del 0 %. La ORDEN PERMANENTE sigue en cola tras la 0913, como acepté.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga y sigo con la siguiente tanda de la 0913 (propongo #27/#28 + ZBE, en ese orden).
+
+@grok lote listo tanda2 0913 (bloques legales/ZBE/fuentes restantes, sin cierre total: la 0913 sigue)
+
+Rama: dedupe-8g-merlin, base obligatoria 8a011c49 verificada antes de empezar y antes de cada push (sin force push, sin main, sin Netlify, sin Cloudflare, sin Convex, sin fotos). Cabeza final verificada por API: 5880cb61. Nada publicado.
+
+Commits (en español, uno por grupo de bloques):
+- b1a43102 #27/#28 certificado DGT patinetes: texto propio por modelo + enlace central, sin publicar
+- 67d0e786 ZBE coches #2/#3/#16/#23/#24/#29: texto propio por modelo y etiqueta + enlace central zbe-etiquetas, sin publicar
+- acdaa76d ZBE motos #2/#3/#16/#23/#24/#29: texto propio por modelo y etiqueta + enlace central, sin publicar
+- 5880cb61 ZBE autocaravanas y campers #2/#3/#16/#23/#24/#29: texto propio por modelo y etiqueta + enlace central, sin publicar
+
+Qué se hizo (rutas):
+- #27/#28 certificado (285 páginas cada uno): src/pages/PatinetesFicha.tsx — helper respuestaCertificadoDgt con 3 redacciones por estado (verificado / no verificado), usado en la FAQ «¿El X tiene certificado de la DGT?» y en la cláusula de certificado de la respuesta de seguro (las demás cláusulas de #17 no se tocan). Estado real por modelo desde el campo certificadoDgt, sin inventar verificaciones: verificado = reúne el requisito para inscribir en el Registro de Vehículos Personales Ligeros; no verificado = pedir el certificado al vendedor, sin él no se completa el registro, y regla transitoria para unidades anteriores al 22 de enero de 2024 (inscripción temporal, solo hasta el 22 de enero de 2027). Norma: Manual de características de los VMP (Resolución de 12 de enero de 2022 de la DGT). Enlace nuevo tras la FAQ a /guias/certificado-dgt/ (central de la tanda 1).
+- ZBE/etiqueta #2/#3/#16/#23/#24/#29: src/pages/CochesFicha.tsx (sección «¿Puede entrar en la ZBE de Madrid?» + FAQ de etiqueta), src/pages/MotosFicha.tsx (FAQ «¿La X tiene etiqueta Cero?»), src/pages/AutocaravanasFicha.tsx y src/pages/CampersFicha.tsx (FAQ de etiqueta). Texto propio por modelo con su etiqueta real (Cero/ECO/C/B, o sin publicar) y sus condiciones reales en la ZBE de Madrid: Cero y ECO circulan por toda la ZBE y entran en Distrito Centro; C y B circulan por la ZBE pero en Distrito Centro solo a parking autorizado o supuestos de la ordenanza (residentes, movilidad reducida, etc.); sin tarifa = etiqueta por motorización, pendiente de confirmar (#3/#16 en la sección de coches). Norma: Ley 7/2021, Real Decreto 1052/2022, Ordenanza de Movilidad Sostenible de Madrid; detalle en /guias/zbe-etiquetas/ (central de la tanda 1). Enlace: en coches, el de la sección pasa de /guias/zbe/ a /guias/zbe-etiquetas/; en motos, RV y patinetes, línea de enlace nueva tras la FAQ (las respuestas de FAQ son texto plano y no admiten enlace dentro).
+- No tocados en esta tanda: lo entregado en la tanda 1 (#4, #17 salvo la cláusula de certificado que es #27/#28, 3 centrales), la FAQ sin tarifa #25, los bloques de PRIORIDAD 1, las páginas OK/bloqueadas N-01, los 14 blogs, ninguna rama de Niky, borrador-final-2410, reescritura-169-merlin, reescritura-169-rebase-merlin, guias-404-merlin, main, Netlify, Cloudflare, Convex ni fotos. La prosa de blog/hubs >0% queda para la tanda 3, no se empezó aquí.
+
+Medición antes/después (8-gramas compartidos entre dos modelos muestra, mismo método que la tanda 1 y prioridad 1; los nombres de muestra son solo tokens para el cálculo):
+- Coches FAQ etiqueta: Cero 5g (62%) → 0g; ECO 14g (82%) → 0g; C 14g (82%) → 0g; B 7g (70%) → 0g.
+- Coches sección ZBE: Cero/ECO/C/B 0g → 0g (el texto anterior era ultracorto, 6-7 palabras, casi sin información); ahora 32-42 palabras con las condiciones reales. Sin tarifa (#3/#16): 1g (33%) → 0g. Sin etiqueta: 0g → 0g (8 → 26 palabras).
+- Motos FAQ: 0g → 0g en Cero/ECO/C/B/sin etiqueta (antes solo la etiqueta, 4-6 palabras; ahora etiqueta + condiciones, 24-38 palabras).
+- RV FAQ: 0g → 0g en Cero/ECO/C/B (antes 4 palabras; ahora 23-32 con condiciones).
+- Certificado verificado: FAQ 0g → 0g (7 → 39 palabras, ahora explica el registro); cláusula de seguro 6g (40%) → 0g.
+- Certificado NO verificado, declarado con honestidad: FAQ 2g (50%) → 6g (14%); cláusula de seguro 23g (39%) → 6g (14%). Sube en absoluto en la FAQ porque la respuesta anterior no mencionaba la regla transitoria y la nueva sí la incluye (fechas legales obligatorias); los 6g residuales son todos ventanas con las fechas 22 de enero de 2024 y 22 de enero de 2027, constantes jurídicas, no plantilla. Quitarlos exigiría omitir la regla transitoria o redactar de forma imprecisa, así que se mantienen y se declaran. Neto del contenido de certificado: de 25g a 12g entre FAQ y seguro.
+- Peor caso (misma rotación + modelos hermanos que comparten marca/familia, p. ej. Toyota Corolla Cross / Yaris Cross): 4g compartidas en la sección ECO, todas con tokens de marca/familia (Toyota/Cross), no plantilla; entre modelos sin parentesco: 0g. Es el caso «datos idénticos entre hermanos».
+- Palabras: suben donde el texto anterior era solo la etiqueta o ultracorto, porque ahora lleva las condiciones reales (no es relleno: cada frase nueva es una condición de acceso o un hecho legal). El precio se quitó del párrafo ZBE de coches porque no pertenece a esa pregunta; sigue en la tabla y en la sección de precio de la ficha, no se pierde información.
+
+Verificación: esbuild limpio en los 5 ficheros (sintaxis válida). tsc aislado (--noResolve, mismo método que prioridad 1): mismos tipos de error que antes (TS2307 módulos no resueltos, TS7006, TS7026 JSX de modo aislado), sin tipos nuevos; +2 TS7026 en 4 ficheros = los 2 elementos JSX nuevos (párrafo + enlace) con el mismo artefacto previo. tsc a 0 en repo completo, prerender y medición de página completa: NO alcanzados en este VM (mismo bloqueador que prioridad 1: sin árbol completo de la rama), quedan como paso de integración de Grok; no se finge ningún 0 global.
+
+Queda pendiente de la 0913: la tanda 3 (prosa de blog/hubs por encima del 0%). Puedo seguir con ella cuando me digas: dime qué más quieres que haga y la empiezo.
