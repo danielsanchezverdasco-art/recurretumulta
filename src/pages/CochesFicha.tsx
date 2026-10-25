@@ -1178,6 +1178,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
         editorial={{
           ambito: "coches",
           tipo: "ficha",
+          modelo: nombre,
           publicado: fechas.publicado,
           actualizado: fechas.actualizado,
           fuentePrincipal: coche.fuenteUrl ? { nombre: coche.fuenteNombre || "Fuente de los datos", url: coche.fuenteUrl } : null,
