@@ -1465,9 +1465,9 @@ Quien priorice poco peso y un desembolso contenido se quedará con el Air; quien
   },
   {
     slug: "inmotion-air-pro",
-    title: "InMotion Air Pro: 48 km de autonomía",
+    title: "InMotion Air Pro: 48 km sin pasar de 17,7 kg",
     excerpt:
-      "El InMotion Air Pro añade batería de 438 Wh al Air: 48 km declarados, 750 W de pico y 17,7 kg. Ficha técnica y diferencias con el Air.",
+      "El Air Pro estira el Air con 438 Wh: 48 km anunciados, 750 W de pico y solo 17,7 kg, con rueda trasera maciza y carga de 8,5 horas.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -1488,9 +1488,9 @@ Quien priorice poco peso y un desembolso contenido se quedará con el Air; quien
 
 **¿Buscas solo los datos?** <a href=/patinetes/inmotion-air-pro/>Ver ficha técnica del InMotion Air Pro</a>: batería, motor y peso. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **InMotion Air Pro** es el Air con la autonomía que le faltaba: batería de **438 Wh** para **48 km declarados**, motor de **400 W** con **750 W de pico** y **17,7 kg**. Mantiene el sellado IP55/IP67 y la app de InMotion.
+InMotion corrige la mayor carencia del Air en esta variante Pro: una batería de 438 Wh que eleva el alcance anunciado hasta 48 km. El motor trasero rinde 400 W y puede trepar hasta 750 W de pico, todo en un conjunto de 17,7 kg que conserva el sellado IP55/IP67 y la aplicación de la marca.
 
-## Ficha técnica resumida
+## Resumen técnico
 
 | Dato | Valor |
 |---|---|
@@ -1504,25 +1504,25 @@ El **InMotion Air Pro** es el Air con la autonomía que le faltaba: batería de 
 
 ¿Quieres el detalle completo? <a href=/patinetes/inmotion-air-pro/>Ficha técnica completa del InMotion Air Pro</a>.
 
-## Precio del InMotion Air Pro en España
+## Precio en España
 
-Sin PVP oficial estable: se mueve por distribuidores. En segunda mano europea se ve por unos 500 €, lo que da una pista de su posicionamiento nuevo.
+No existe un PVP oficial estable para nuestro mercado: se vende a través de distribuidores. En el mercado europeo de segunda mano aparece alrededor de 500 €, una referencia útil para situar su precio nuevo.
 
 <img src=/media/patinetes/inmotion-air-pro-2.webp alt=Detalle de la rueda trasera del InMotion Air Pro>
 
-## Autonomía real vs declarada
+## Alcance real y tiempo de carga
 
-**48 km declarados**; en ciudad calcula **unos 32 km**. La contrapartida de tanta batería en 17,7 kg es la carga: **8,5 horas** con el cargador de serie. Toda la noche, sin atajos.
+El anuncio promete 48 km, pero en ciudad lo realista ronda 32 km. El precio de tanta batería en un chasis de 17,7 kg se paga en el enchufe: 8,5 horas con el cargador que viene de serie, es decir, toda la noche sin atajos.
 
-## Frenos y neumáticos
+## Frenos y ruedas
 
-**Tambor delantero + electrónico trasero**, con rueda delantera neumática de 10" y **trasera maciza**: cero pinchazos atrás a cambio de algo más de vibración. Presión delantera máxima: **3,5 bar (50 PSI)**.
+Delante combina un tambor con un freno electrónico detrás, y la rueda delantera neumática de 10 pulgadas contrasta con la trasera maciza: adiós a los pinchazos atrás, a cambio de notar algo más las vibraciones. La presión máxima admitida delante es de 3,5 bar, equivalentes a 50 PSI.
 
-## Certificado DGT y normativa VMP
+## Legalidad en España y normas VMP
 
-Ojo: declara **35 km/h** de máxima, así que en España debe circular **limitado a 25 km/h** para ser un VMP legal. Respeta la **prohibición de aceras** y usa vías permitidas.
+Atención: su velocidad máxima declarada es 35 km/h, por lo que en España debe ir limitado a 25 km/h para contar como VMP legal. Respeta además la prohibición de circular por las aceras y utiliza solo las vías permitidas.
 
-## Puntos fuertes y débiles
+## Lo bueno y lo mejorable
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -1536,24 +1536,25 @@ Ojo: declara **35 km/h** de máxima, así que en España debe circular **limitad
 
 ## Preguntas frecuentes
 
-### ¿Qué diferencia hay con el Air normal?
-Más batería (438 Wh frente a 270 Wh), más motor (400 W frente a 350 W) y más peso (17,7 kg frente a 15,6 kg).
+### ¿En qué cambia frente al Air normal?
+Sube la batería de 270 Wh a 438 Wh, el motor de 350 W a 400 W y el peso de 15,6 kg a 17,7 kg.
 
-### ¿Qué autonomía real tiene?
-Unos **32 km** en ciudad.
+### ¿Cuál es su autonomía en ciudad?
+Alrededor de 32 km en uso urbano, lejos de los 48 km anunciados.
 
-### ¿Cuánto tarda en cargar?
-**8,5 horas** con el cargador incluido.
+### ¿Cuánto tarda en cargarse?
+Unas 8,5 horas con el cargador que acompaña al patinete.
 
-### ¿Es legal en España?
-**Limitado a 25 km/h**, sí, como VMP.
+### ¿Se puede circular con él en España?
+Sí, siempre que vaya limitado a 25 km/h, como corresponde a un VMP.
 
-### ¿La rueda trasera es maciza?
-Sí: **trasera maciza** (sin pinchazos) y delantera neumática.
+### ¿La rueda trasera pincha?
+No: la trasera es maciza y no pincha, mientras la delantera es neumática.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://www.inmotion-france.fr/en/inmotion-air-pro-electric-scooter>InMotion France</a> y manual oficial de la serie Air.*`,
+*Fuentes: <a href=https://www.inmotion-france.fr/en/inmotion-air-pro-electric-scooter>InMotion France</a> y manual oficial de la serie Air.*
+`,
   },
   {
     slug: "inmotion-rs-lite",
