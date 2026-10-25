@@ -59,3 +59,8 @@
 
 ## TANDA 3 PARCIAL 2 — 14 fotos (w051, w056, w059, w061, w062, w067, w071)
 - 14/14 con foto real verificada, 0 «sin foto real». CSV: 132 filas. Copias -hero ×6. 1 sustitución de fichero base (corvette -2). Pendientes galería -1/-3 en baojun, silverado, han-l.
+
+## TANDA 3 PARCIAL 2 PUBLICADA — fotos-283-niky @ a0941058e (verificado ls-remote = local, sin force)
+
+## TANDA 3 PARCIAL 3 — 20 fotos (w049, w052, w055, w060, w064, w066, w068, w069, w070, w072)
+- 20/20 con foto real verificada (yuan-up: render oficial, avisado), 0 «sin foto real». CSV: 152 filas. Copias -hero ×17. 0 sobrescrituras HEAD. Pendientes de fetch (TLS transitorio, reintento pendiente): w047, w053, w054, w057, w063, w065.
