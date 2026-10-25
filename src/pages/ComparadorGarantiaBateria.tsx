@@ -19,9 +19,9 @@ import {
 const DOMAIN = "https://recurretumulta.online";
 const CANONICAL = "/comparador-garantia-bateria";
 
-const TITULO = "Garantía de batería: qué marca da más años y km en 2026";
+const TITULO = "Garantía de batería por modelo: cuál da más años y km en 2026";
 const DESCRIPCION =
-  "Ranking de garantías de batería de coches eléctricos e híbridos enchufables: años, kilómetros y degradación mínima garantizada, con datos verificados de cada marca.";
+  "Ranking modelo a modelo de la garantía de batería de coches eléctricos e híbridos enchufables: años, kilómetros y degradación mínima garantizada, con datos verificados.";
 
 type Fila = CocheComparador & { tieneDato: boolean };
 

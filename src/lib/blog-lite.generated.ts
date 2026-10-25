@@ -15578,7 +15578,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "weinsberg-caraone-480-eu-2026-precio-ficha-tecnica",
     "title": "Weinsberg CaraOne 480 EU: 21.450 €, cama isla y ficha",
-    "excerpt": "La Weinsberg CaraOne 480 EU cuesta 21.450 € oficiales y duerme a 4 con cama isla: 7,06 m, 1.350 kg de MMA y carnet B. Medidas, carga útil y para quién es.",
+    "excerpt": "Precio y ficha de la Weinsberg CaraOne 480 EU: 21.450 € oficiales, cama isla, 4 plazas, 1.350 kg de MMA y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -66286,7 +66286,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "cecotec-bongo-serie-a-advance-connected",
     "title": "Bongo Serie A Advance Connected: el Cecotec de 35 km",
-    "excerpt": "El Advance Connected de Cecotec (ref. 07028) promete 35 km, frena con tres sistemas y se controla desde el móvil. Alcance real y diferencia con el Max.",
+    "excerpt": "El Cecotec Bongo Serie A Advance Connected (07028): 35 km declarados, triple frenada, tubeless de 8,5\" y app completa. Ficha y análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66302,7 +66302,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "bongo serie a advance opiniones",
       "patinete app bloqueo"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "smartgyro-rockway-evo",
@@ -68388,6 +68388,27 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 8
   },
   {
+    "slug": "minimotors-dualtron-eagle-pro",
+    "title": "Dualtron Eagle Pro: 3.600 W en 30 kg",
+    "excerpt": "El Dualtron Eagle Pro es la deportiva ligera de Minimotors: 3.600 W de pico, 1.470 Wh y solo 30 kg. Precio y ficha técnica.",
+    "category": "Novedades Motor",
+    "date": "2026-10-05",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/minimotors-dualtron-eagle-pro-1.webp",
+    "heroAlt": "Dualtron Eagle Pro negro, vista lateral completa del patinete",
+    "keywords": [
+      "dualtron eagle pro",
+      "dualtron eagle pro precio",
+      "dualtron eagle pro ficha técnica",
+      "dualtron eagle pro opiniones",
+      "minimotors eagle pro",
+      "patinete 3600w ligero",
+      "dualtron eagle pro autonomía",
+      "dualtron eagle pro vs thunder"
+    ],
+    "readTime": 2
+  },
+  {
     "slug": "currus-panther",
     "title": "Currus Panther NF11: hiperpatinete coreano de 5.400 W",
     "excerpt": "Currus Panther NF11: doble motor de 1.200 W, batería Samsung de 2.100 Wh y 80 km/h. En España solo circula limitado a 25 km/h; hoy, de segunda mano.",
@@ -69146,7 +69167,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "razor-c25",
     "title": "Razor C25: rueda delantera de 12,5\" para calles con baches",
-    "excerpt": "Un patinete adulto de Razor con rueda grande delante, 250 W atrás y 29 km anunciados: así rueda el C25 sin suspensión.",
+    "excerpt": "Razor C25: rueda delantera de 12,5 pulgadas, motor trasero de 250 W, 29 km declarados y tres modos. El Razor adulto clásico. Análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -69162,7 +69183,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "razor c25 autonomía",
       "razor electric scooter"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "denver-sel-10800f",
@@ -75618,8 +75639,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "bmw-f-900-r-2026",
-    "title": "BMW F 900 R 2026: 12.950 € orientativos, 105 CV y ficha",
-    "excerpt": "La BMW F 900 R 2026 ronda los 12.950 € según la prensa, sin precio oficial en España: 105 CV, 895 cc y 211 kg. Historia, mantenimiento y garantía.",
+    "title": "BMW Motorrad F 900 R 2026 precio: desde 12.950 €, 105 CV",
+    "excerpt": "BMW Motorrad F 900 R 2026: precio aproximado no oficial en España, 105 CV y ficha técnica. Desde 12.950 €. Opinión, rivales y qué mirar antes de comprar.",
     "category": "Novedades Motor",
     "date": "2026-10-14",
     "locale": "es",
@@ -75632,7 +75653,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "naked a 2026",
       "bmw motorrad f 900 r 2026"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "bmw-g-310-gs-2025",

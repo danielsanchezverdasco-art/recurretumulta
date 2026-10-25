@@ -2,7 +2,7 @@
 // shared-navbar.tsx del export v2 era una versión anterior: sin «Fichas
 // técnicas», sin WhatsApp y sin el contador de la caza de monos).
 import { Link } from "react-router-dom";
-import { BookOpen, MapPin, Sparkles, Building2, Wrench, ChevronDown, Menu, X, MessageCircle, CarFront, Mail, Store } from "lucide-react";
+import { BookOpen, MapPin, Sparkles, Building2, Wrench, ChevronDown, Menu, X, MessageCircle, CarFront, Mail, Store, Radar } from "lucide-react";
 import { useEffect, useState, type CSSProperties } from "react";
 import { useTranslation } from "react-i18next";
 import { HERRAMIENTAS, CATEGORIAS_HERRAMIENTAS } from "@/lib/herramientas-data.ts";
@@ -87,6 +87,10 @@ export default function SharedNavbar({ ctaMode = "link" }: SharedNavbarProps) {
           <Link to="/multas/" className={"hidden sm:flex items-center gap-1 text-xs font-semibold text-gray-500 hover:text-gray-900 transition-colors cursor-pointer"}>
             <MapPin className="w-3.5 h-3.5" /> {t("nav.multasRadares")}
           </Link>
+          {/* 25/10/2026 (Merlín): /radares/ es 301 a /provincias/ (radares por provincia), destino distinto de /multas/. Solo lg+ para no desbordar la barra. */}
+          <Link to="/provincias/" className={"hidden lg:flex items-center gap-1 text-xs font-semibold text-gray-500 hover:text-gray-900 transition-colors cursor-pointer"}>
+            <Radar className="w-3.5 h-3.5" /> Radares
+          </Link>
           <Link
             to="/fichas-tecnicas/"
             className="hidden sm:flex items-center gap-1 text-xs font-extrabold text-white bg-gradient-to-r from-red-700 to-red-600 hover:from-red-800 hover:to-red-700 rounded-full px-2.5 py-1 shadow-sm transition-colors cursor-pointer"
@@ -165,6 +169,9 @@ export default function SharedNavbar({ ctaMode = "link" }: SharedNavbarProps) {
           </Link>
           <Link to="/multas/" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 1 } as CSSProperties}>
             <MapPin className="w-4 h-4" /> {t("nav.multasRadares")}
+          </Link>
+          <Link to="/provincias/" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 1 } as CSSProperties}>
+            <Radar className="w-4 h-4" /> Radares por provincia
           </Link>
           <Link to="/empresas/" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 2 } as CSSProperties}>
             <Building2 className="w-4 h-4" /> Empresas
