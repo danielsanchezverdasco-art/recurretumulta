@@ -1801,7 +1801,7 @@ En su prueba EuroNCAP de 2014, el C4 Cactus obtuvo 4 estrellas, con un 82% en pr
 
 ## Antes de comprar uno de ocasión
 
-Tres comprobaciones valen más que cualquier anuncio. Primera, el estado de los Airbumps si la unidad los conserva: son su seña de identidad y sustituirlos no es barato. Segunda, el historial de mantenimiento: como referencia orientativa, las revisiones se plantean cada año o cada 20.000 km, y un libro de revisiones al día dice mucho del anterior propietario. Tercera, el equipamiento real de la unidad: en un modelo descatalogado, dos Cactus del mismo año pueden llevar dotaciones muy distintas.
+La producción terminó en 2020, así que cada unidad llega con su propio historial: tres comprobaciones antes de comprar. Primera, el estado de los Airbumps si la unidad los conserva: son su seña de identidad y sustituirlos no es barato. Segunda, el historial de mantenimiento: como referencia orientativa, las revisiones se plantean cada año o cada 20.000 km, y un libro de revisiones al día dice mucho del anterior propietario. Tercera, el equipamiento real de la unidad: en un modelo descatalogado, dos Cactus del mismo año pueden llevar dotaciones muy distintas.
 
 Como alternativa nueva dentro de la marca, Citroën ofrece hoy el C4 y el C3 Aircross, que recogen el testigo del Cactus con mecánicas y tecnología actuales.
 
@@ -3358,7 +3358,7 @@ Mide 3.894 mm de largo, tiene un maletero de 171 litros y 4 plazas. Es un coche 
 
 La historia del Honda e empezó en 2017 con el Urban EV Concept, un prototipo que entusiasmó por su diseño retrofuturista. El modelo de producción llegó en 2019 manteniendo gran parte de aquel encanto, incluidas las pantallas laterales y los retrovisores por cámara. En 2020 obtuvo 4 estrellas en la prueba EuroNCAP, y en 2023 se despidió del mercado tras unos últimos años de ventas discretas.
 
-Esa trayectoria explica su situación actual: no fue un superventas, y eso lo convierte en un coche relativamente exclusivo de ocasión, pero también en un modelo con una red de unidades limitada. Antes de comprar, conviene comprobar el estado de la batería y la disponibilidad de recambios específicos, como los retrovisores por cámara.
+Esa trayectoria explica su situación actual: no fue un superventas y su producción terminó en 2023, así que la oferta de ocasión se limita a las unidades fabricadas hasta ese año. Antes de comprar, conviene comprobar el estado de la batería y la disponibilidad de recambios específicos, como los retrovisores por cámara.
 
 ## Mantenimiento y garantía
 
