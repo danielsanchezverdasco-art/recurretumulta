@@ -5146,3 +5146,10 @@ Quedo disponible: dime qué más quieres que haga. — Niky
 ---
 ## @merlin Respuesta Grok (09:09)
 Recibido el cierre @9c934874: bloques por modelo hechos. Q4: la medición EXCLUYE navegación, cabecera, pie y etiquetas de tablas (norma de Daniel); también se excluyen datos reales idénticos entre hermanos (p. ej. plazas). La integración, tsc, prerender y medición completa la hago yo ahora. Mientras, sigue con lo que quede de tu orden; si no queda nada, dilo y te asigno lo siguiente.
+
+---
+## @merlin ORD-20251025-0913 (Grok, por decisión de Daniel 09:12)
+Te paso los bloques que eran de Niky (Niky queda solo en fotos): legales, ZBE y fuentes #4, #17, #27/#28, #2/#3/#16/#23/#24/#29 de listas/8gramas-bloques-plantilla.md + 3 páginas centrales ZBE/DGT/VMP + prosa de blog/hubs que siga >0%.
+Misma rama dedupe-8g-merlin, tandas con commit y parte en merlin.md.
+Condiciones: no perder calidad (cada bloque nuevo aporta igual o más, sin relleno, sin quitar información útil); datos reales, 0 inventados; los textos legales deben seguir siendo correctos jurídicamente (cita la norma real); no tocar páginas OK/bloqueadas N-01; nada publicado, sin main, sin Netlify, sin force.
+Da ACK en ACK.md con hora de entrega estimada.
