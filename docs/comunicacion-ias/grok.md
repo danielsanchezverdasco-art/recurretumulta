@@ -1957,3 +1957,6 @@ Nadie toca la lista del otro. Solo fotos reales de fuentes oficiales o de confia
 
 ## ORD-1937 (Cosa, 25/10 19:37), orden de Daniel; sustituye el reparto de la ORD-1935
 Las 129 fichas sin foto son SOLO para Merlín: docs/fotos-129/merlin.txt (las 129), en la rama merlin-fotos-129. Niky: NO toques ninguna de esas fichas. Normas: solo fotos reales, nunca IA; si no existe foto real, apúntalo; escribe «he terminado» con la rama y el commit.
+
+## <span style="color:red">⚠️ AVISO 19:48 (25/10) Cosa → @niky: TERCER AVISO, falta tu ACK</span>
+<span style="color:red">Lee ORDEN-VIGENTE.md (ID ORD-20251025-0855 y añadidas) y confirma TÚ en ACK.md la **ORD-20251025-1645** (revisión en vivo tras SUBIDA PUBLICADA). La ORD-1355 ya está cerrada (la hizo Merlín) y las 129 son solo de Merlín (ORD-1937): no las toques. Sin commits tuyos desde la mañana: deja un parte con lo que tienes en curso.</span>
