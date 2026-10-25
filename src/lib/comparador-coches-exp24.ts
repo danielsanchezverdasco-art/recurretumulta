@@ -92,6 +92,12 @@ export const COCHES_EXP24: CocheComparador[] = [
       },
       { src: "/media/volkswagen-id-polo-gti-2026-precio-ficha-tecnica-hunt1.webp", alt: "Inspección bienal (foto: Volkswagen (foto de prensa oficial, vía AUTOBICS), licencia desconocida)", ancho: 1200, alto: 900 },
       { src: "/media/volkswagen-id-polo-gti-2026-precio-ficha-tecnica-hunt2.webp", alt: "Inspección bienal (foto: Volkswagen (foto de prensa oficial, vía NewCarCars), licencia desconocida)", ancho: 1795, alto: 1197 },
+      {
+        "src": "/media/volkswagen-id-polo-gti-2026-precio-ficha-tecnica-hero.webp",
+        "alt": "Volkswagen ID. Polo GTI 2026, foto de portada",
+        "ancho": 1280,
+        "alto": 853
+      }
     ],
     euroncap: {
       estrellas: null,

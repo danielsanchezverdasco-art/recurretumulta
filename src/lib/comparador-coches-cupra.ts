@@ -84,6 +84,12 @@ export const COCHES_CUPRA: CocheComparador[] = [
         "alt": "Interior del Cupra León 2025",
         "ancho": 1920,
         "alto": 1280
+      },
+      {
+        "src": "/media/cupra-leon-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra León 2025, foto de portada",
+        "ancho": 1600,
+        "alto": 938
       }
     ],
     fuenteNombre: "km77.com",
@@ -168,6 +174,12 @@ export const COCHES_CUPRA: CocheComparador[] = [
         "alt": "Interior del Cupra León Sportstourer 2025",
         "ancho": 1920,
         "alto": 1280
+      },
+      {
+        "src": "/media/cupra-leon-sportstourer-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra León Sportstourer 2025, foto de portada",
+        "ancho": 1600,
+        "alto": 938
       }
     ],
     fuenteNombre: "km77.com",
