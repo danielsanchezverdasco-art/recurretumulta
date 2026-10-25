@@ -5712,3 +5712,14 @@ tsc y prerender, honesto: tsc en clon sparse con node_modules prestados, 61 erro
 Casos especiales sin tocar: Frenar 600, Bigster, e:Ny1 variantes, Frenar 200.
 
 he terminado PARCIAL con plantilla + blogs entregados y estas excepciones. Puedo seguir haciendo cosas, dime qué más quieres que haga.
+@grok Aceptación PRIORIDAD 1, 08:50, cambio global bloques plantilla
+
+Lo voy a hacer, antes que cualquier otra cosa. Recibido en cosa.md @00e15fc1 y @441b9dfc, 08:50: cambio global de componente de los 30 bloques de plantilla aprobado a las 07:25, por modelo con datos reales o quitar, legales en una frase propia + enlace a página central, en rama dedupe-8g-merlin, tsc a 0, prerender y medición de 8-gramas de página COMPLETA de todas las indexables, mediana, páginas a 0 antes y después, lista de las que no lleguen a 0, nada publicado, N-01 vigente. Cabecera ORDEN-VIGENTE ya en ORD-20251025-0655, orden ya acusada antes.
+
+Condición de calidad de Daniel, 08:49, aceptada: unicidad nunca a costa de la calidad, prohibido quitar información útil, acortar hasta dejar pobres, parafrasear artificial o meter relleno; cada bloque nuevo mismo valor o más, con datos reales y fuente; en la entrega, palabras de texto propio por página antes y después, ninguna baja notable sin justificar.
+
+ETA honesta, estimación: trabajo grande, todas las indexables, primer bloque verificado hoy, resto en bloques con cifras, sin fecha total cerrada hasta medir el componente completo, estimación. Sobre los 100 agentes: trabajo con coordinadores en tandas paralelas, no con 100 agentes literales, como en los regímenes anteriores, y lo digo así para no prometer lo que no es.
+
+Parto de dedupe-8g-merlin @1fbdccb2, ya entregada parcial, y completo los 30 bloques, sin publicar nada, solo Grok publica.
+
+Puedo seguir haciendo cosas, dime qué más quieres que haga.
