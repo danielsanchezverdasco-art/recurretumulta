@@ -7,9 +7,9 @@ export const PATINETES_EXP_P3_POSTS: BlogPost[] = [
   // ─────────────────────────── NAMI (6) ───────────────────────────
   {
     slug: "nami-burn-e-3-max",
-    title: "Nami Burn-e 3 Max: 8.400 W y 150 km de autonomía",
+    title: "Nami Burn-e 3 Max: hiperpatinete de 8.400 W y 150 km",
     excerpt:
-      "El Nami Burn-e 3 Max es el hiperpatinete definitivo: doble motor de 1.500 W, 8.400 W de pico, batería de 2.880 Wh y 105 km/h. Precio y ficha completa.",
+      "Doble motor, 8.400 W de pico, batería de 2.880 Wh y hasta 150 km: el Burn-e 3 Max es el patinete más extremo de Nami. Precio y autonomía real.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -30,9 +30,9 @@ export const PATINETES_EXP_P3_POSTS: BlogPost[] = [
 
 **¿Buscas solo los datos?** <a href=/patinetes/nami-burn-e-3-max/>Ver ficha técnica del Nami Burn-e 3 Max</a>: precio, autonomía, motor y potencia pico. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **Nami Burn-e 3 Max** no es un patinete: es una declaración de intenciones con dos ruedas. Con **dos motores de 1.500 W** que entregan **8.400 W de pico** y una batería de **2.880 Wh**, promete hasta **150 km de autonomía** y una velocidad máxima de **105 km/h**. Cuesta **4.449 €**, lo mismo que una moto de 125 cc. ¿Tiene sentido? Solo si lo que buscas es lo máximo, sin matices.
+Pocos vehículos con manillar concentran tanta potencia como este Nami. Su doble motor suma 1.500 W por rueda y, en picos, la cifra sube hasta 8.400 W; la batería de 2.880 Wh anuncia recorridos de hasta 150 km y el marcador puede llegar a 105 km/h. El precio, 4.449 €, lo sitúa en el territorio de una motocicleta de 125 cc. Solo compensa si buscas el extremo absoluto, sin concesiones a la practicidad.
 
-## Ficha técnica resumida
+## Lo esencial en cifras
 
 | Dato | Valor |
 |---|---|
@@ -46,23 +46,23 @@ El **Nami Burn-e 3 Max** no es un patinete: es una declaración de intenciones c
 
 ¿Quieres el detalle completo? <a href=/patinetes/nami-burn-e-3-max/>Ficha técnica completa del Nami Burn-e 3 Max</a> con todos los datos verificados.
 
-## Precio del Nami Burn-e 3 Max en España
+## Precio en España y dónde comprarlo
 
-Se vende en Europa por **unos 4.449 €**, con descuentos puntuales que lo dejan cerca de los 4.500 € según la prensa especializada (<a href=https://www.autoevolution.com/news/burn-e3-max-e-scooter-can-hit-scary-top-speeds-and-costs-as-much-as-a-used-motorcycle-or-car-266165.html>autoevolution.com</a>). No hay red oficial densa en España: se compra a través de importadores y distribuidores europeos, lo que conviene tener en cuenta para la garantía y los repuestos.
+En el mercado europeo ronda los 4.449 €, aunque algunas ofertas temporales lo sitúan en el entorno de los 4.500 €, según recoge la prensa especializada (<a href=https://www.autoevolution.com/news/burn-e3-max-e-scooter-can-hit-scary-top-speeds-and-costs-as-much-as-a-used-motorcycle-or-car-266165.html>autoevolution.com</a>). España no cuenta con una red oficial extensa: la compra se canaliza mediante importadores y distribuidores del continente, un detalle que pesa a la hora de gestionar la garantía y conseguir repuestos.
 
 <img src=/media/patinetes/nami-burn-e-3-max-2.webp alt=Detalle del manillar y la pantalla del Nami Burn-e 3 Max>
 
-## Autonomía real vs declarada
+## Autonomía: lo declarado frente a lo esperable
 
-Nami declara **120-150 km**, una cifra conseguida a ritmo tranquilo y con un solo motor. En uso realista —modo dual, peso medio y algo de desnivel— calcula **unos 90 km**, que sigue siendo una barbaridad: pocos patinetes del mercado bajan de esa cifra real. La contrapartida es el tiempo de carga: llenar 2.880 Wh con el cargador de serie lleva muchas horas.
+La marca anuncia 120-150 km, un registro alcanzable con conducción tranquila y tracción en una sola rueda. Con los dos motores en marcha, un conductor de peso medio y algún repecho, lo prudente es contar con unos 90 km, un alcance que continúa estando entre los más altos de su categoría. El reverso es la recarga: reponer 2.880 Wh con el cargador incluido exige muchas horas enchufado.
 
-## Frenos y neumáticos
+## Frenos, ruedas y chasis
 
-Monta el equipo que exigen 8,4 kW: frenos de disco de gran diámetro y neumáticos anchos de 11 pulgadas tipo tubeless. A 100 km/h no valen medias tintas, y Nami lo sabe: el chasis, de aluminio tratado térmicamente en una pieza con basculante de carbono, está pensado para que todo el conjunto no se descomponga a alta velocidad.
+La potencia de 8,4 kW obliga a un equipo a la altura: discos de freno de gran tamaño y gomas anchas de 11 pulgadas sin cámara. Circular a 100 km/h no admite soluciones a medias, y el bastidor lo refleja: aluminio con tratamiento térmico, fabricado en una sola pieza, combinado con un basculante de carbono para mantener el aplomo cuando la velocidad sube.
 
-## Certificado DGT y normativa VMP
+## Legalidad en España y normativa VMP
 
-El Burn-e 3 Max **no es un VMP legal** para circular por España a su velocidad máxima: la normativa limita los vehículos de movilidad personal a **25 km/h**, prohíbe circular por **aceras** y exige ir por carril bici o calzada donde esté permitido. En Europa se vende limitado a 25 km/h; deslimitarlo solo tiene sentido en **circuito privado**. A estas velocidades, la equipación de moto (casco integral, protecciones) no es opcional: es obligatoria por sentido común.
+A su velocidad máxima, este modelo no puede circular como VMP en España: la regulación fija el tope de estos vehículos en 25 km/h, veta las aceras y obliga a usar el carril bici o la calzada en los tramos autorizados. Las unidades europeas salen limitadas a 25 km/h; quitar el límite solo resulta razonable en un circuito privado. A ritmos tan altos, el equipamiento propio de una moto —casco integral y protecciones— deja de ser recomendable para convertirse en imprescindible.
 
 ## Puntos fuertes y débiles
 
@@ -78,23 +78,29 @@ El Burn-e 3 Max **no es un VMP legal** para circular por España a su velocidad 
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el Nami Burn-e 3 Max?
-Ronda los **4.449 €** en Europa, con variaciones según el importador y promociones puntuales.
+### ¿Qué precio tiene?
 
-### ¿Qué velocidad máxima alcanza?
-Declara **105 km/h** fuera de Europa. En la UE se vende limitado a 25 km/h por normativa.
+En Europa se mueve alrededor de los 4.449 €, con diferencias entre importadores y alguna promoción ocasional.
 
-### ¿Qué autonomía real tiene?
-Nami declara 120-150 km; en uso real con doble motor calcula **unos 90 km**, que sigue siendo de lo más alto del mercado.
+### ¿Hasta qué velocidad llega?
 
-### ¿Es legal circular con él en España?
-Solo **limitado a 25 km/h** y cumpliendo la normativa VMP: prohibido en aceras y obligatorio por carriles bici o calzada permitida.
+Fuera de Europa anuncia 105 km/h. Las versiones para la UE circulan capadas a 25 km/h por la normativa vigente.
+
+### ¿Cuántos kilómetros reales recorre con una carga?
+
+La cifra oficial es de 120-150 km; con tracción total y uso normal, lo razonable es esperar unos 90 km, todavía entre los mejores registros del segmento.
+
+### ¿Se puede usar por la vía pública española?
+
+Únicamente limitado a 25 km/h y respetando la normativa VMP: fuera de las aceras y por carriles bici o calzadas donde esté autorizado.
 
 ### ¿Cuánto pesa?
-Unos **47,5 kg**: no es un patinete para subir a casa ni meter en un maletero normal.
 
-### ¿Merece la pena frente al Burn-e 3 normal?
-Si quieres lo máximo, sí: más batería (40Ah frente a 30Ah) y más pico (8.400 W frente a 5.040 W). Si no, el Burn-e 3 normal ya sobra.
+Alrededor de 47,5 kg: no es un modelo para subir a casa por las escaleras ni para guardar en un maletero corriente.
+
+### ¿Compensa frente al Burn-e 3 estándar?
+
+Si aspiras al máximo, sí: la batería crece de 30Ah a 40Ah y el pico sube de 5.040 W a 8.400 W. En caso contrario, el Burn-e 3 estándar ya ofrece de sobra.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
