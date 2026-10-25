@@ -350,7 +350,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     modelo: "EX30 Cross Country",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 53406,
+    precioDesde: 47410,
     potenciaCv: 428,
     autonomiaKm: 436,
     maleteroL: 318,

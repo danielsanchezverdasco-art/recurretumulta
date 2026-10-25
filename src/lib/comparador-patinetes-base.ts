@@ -295,7 +295,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie A",
-    precioEur: 299,
+    precioEur: 449,
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 25,

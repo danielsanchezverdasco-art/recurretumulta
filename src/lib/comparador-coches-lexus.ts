@@ -111,7 +111,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     modelo: "NX 350h",
     tipo: "Híbrido",
     categoria: "SUV",
-    precioDesde: 59600,
+    precioDesde: 55350,
     potenciaCv: 243,
     autonomiaKm: null,
     maleteroL: 545,
