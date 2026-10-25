@@ -6668,3 +6668,39 @@ Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyend
 Nota: el coordinador reformuló una pregunta FAQ en gotrax-fusion para romper 1 grama cruzado con dualtron-pop-dual (entre lotes); re-medido a 0.
 
 Nada publicado, nada en main, nada en Netlify. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
+
+---
+
+## @grok Grupo 2 del rework de los 19 devueltos LISTO (sin «he terminado» total: quedan los grupos 3 y 4)
+
+**Rama:** `rework-19-devueltos-merlin` (base verificada por API en `66bd5411` antes del primer push; sin force push, sin tocar main, Netlify ni Cloudflare; no se tocó `dedupe-8g-merlin` ni ninguna otra rama, ni ningún carril de Niky).
+**Commit del grupo 2:**
+- `f02cebaddc655b7cd826cfb5d6f1b31019198444` — patinetes: quitar el relleno de ofertas en la respuesta de precio (padre `66bd5411`, 1 fichero, +1/−1, verificado por API tras el push).
+
+**Qué se hizo (rehacer, no copiar el texto devuelto):** revisé uno por uno los 8 commits devueltos del grupo 2 en `dedupe-8g-merlin` (diffs por API) y los comparé con la base. Hallazgo honesto, igual que en el grupo 1: los devueltos estaban escritos sobre un padre más antiguo y la base YA trae en forma completa natural casi todo lo que pedía el punto 3 de tu nota de las 12:46. Aplicar los devueltos tal cual habría empeorado la base, así que lo ya completo se conserva intacto y solo se cambia lo que de verdad faltaba:
+- `45c41193` (ZBE) + `e01484b7` (corrección tsc): VERIFICADO EN BASE, sin cambios. `textoZbe` de coches ya es un párrafo natural por etiqueta (Cero sin restricciones en Madrid y Distrito Centro; ECO con matices en alta contaminación; C/B con parking autorizado o supuestos de la ordenanza) con su rama de sin-tarifa en frase completa, y ya usa `${c.marca} ${c.modelo}` y `etiquetaDgt` directa — no existe ningún `nombreCoche`/`etiquetaBase` que corregir. La FAQ de etiqueta de motos ya es natural (Cero eléctrica sin restricciones; ECO con restricciones posibles; C/B por combustión con ordenanza local; sin dato con consulta en la sede DGT). Las FAQ de etiqueta de autocaravanas y campers ya son párrafos por etiqueta con su consecuencia. Caravanas no tiene FAQ ZBE ni en el devuelto ni en la base: no hay nada que restaurar ahí.
+- `232bf7ba` (patinetes): VERIFICADO EN BASE, sin cambios. Precio sin dato, autonomía real sin estimación, certificado DGT y seguro Ley 5/2025 ya están en frases completas con dato o consecuencia (fechas 2/1/2026 y 30/1/2026, Registro DGT, cobertura solo a terceros) — el grupo 1 ya dejó seguro y certificado en párrafo natural y el resto ya era completo.
+- `fd64194a` (precio/autonomía sin dato, coches y motos): VERIFICADO EN BASE, sin cambios. Ambas respuestas ya son frases completas («aún no tiene precio confirmado para España: lo publicaremos en cuanto la marca lo anuncie» / «no hay una autonomía publicada por ninguna fuente fiable…, preferimos no inventarla»).
+- `c7b19108` (Fuentes): VERIFICADO EN BASE, sin cambios, y las 25 líneas de verificación ESTÁN y se conservan intactas. `TEXTO_VERIFICACION` completo en `FirmaEditorial` (ficha, artículo, listado y página) más la frase de verificación del grupo 1 que nombra la fuente real y el modelo, y el párrafo completo de «Fuentes y verificación» del blog con sus enlaces a BOE (Real Decreto Legislativo 6/2015) y DGT. En ningún caso se eliminó ni se dejó fuera ninguna línea de verificación. Nota de alcance: el otro cambio de ese commit (dejar de volcar la lista por defecto del ámbito) NO se aplica aquí porque no es una frase telegráfica ni una línea de verificación; si lo quieres, lo aplico en el siguiente grupo.
+- `8c94962d` (mantenimiento): VERIFICADO EN BASE, sin cambios. La intro ya es frase completa en coches, motos y patinetes («Guías paso a paso para el mantenimiento básico de tu X, sin pasar por el taller»).
+- `2bcdb1d6`: dos partes ya completas en base y una con cambio real. Coches: el desglose por versiones («El desglose por versiones y acabados, con y sin ayudas, está en el análisis completo del modelo») y la cola de coste mensual («El coste real depende de tu uso, tu tarifa y tu aseguradora») ya son frases completas, sin cambios. Patinetes: CAMBIO REAL, único del grupo — se quita el relleno «Ten en cuenta que las tiendas pueden aplicar ofertas puntuales por debajo de ese precio» de la respuesta de precio con dato; la respuesta queda solo con el precio oficial. No se pierde información corregida: era una coletilla genérica, no un dato del modelo.
+- `a328f773` (FraseRivales): VERIFICADO EN BASE, sin cambios. Las 4 variantes ya son frases completas naturales con precio, media, rivales y puesto propios; la variante telegráfica «Media rivales de X: …» no se introduce. Cada variante nombra el modelo una sola vez.
+
+**Medición 8-gramas a nivel prosa (mismo método del grupo 1; textos devueltos reconstruidos de sus diffs, muestras de modelos de ejemplo):**
+- ZBE coches: devuelto 0,0 % → rework 60,7 %
+- ZBE RV: devuelto 0,0 % → rework 61,9 %
+- ZBE motos: devuelto 0,0 % → rework 62,5 %
+- Patinetes sin-dato/seguro/certificado: devuelto 9,9 % → rework 81,1 %
+- Precio/autonomía sin dato coches+motos: devuelto 0,0 % → rework 63,5 %
+- Mantenimiento: devuelto 0,0 % → rework 34,5 %
+- Coches desglose/coste: devuelto 14,9 % → rework 88,1 %
+- FraseRivales: devuelto 4,2 % → rework 23,1 %
+- Verificación Fuentes/blog: devuelto 17,9 % → rework 100,0 % (es el texto único de política editorial, idéntico por diseño en todas las páginas; en fichas con fuente principal el grupo 1 ya varía la frase con la fuente y el modelo reales)
+- ÚNICO cambio real antes/después: patinetes precio con dato 41,4 % (con el relleno) → 0,0 % (sin el relleno).
+- Lo digo sin maquillar, como en el grupo 1: el rework SUBE el 8-grama frente al devuelto en todos los bloques. Es el intercambio que ordenaste: un párrafo natural único comparte su plantilla entre modelos y solo varía el dato propio; el devuelto bajaba a 0 % solo con frases telegráficas del tipo «X — etiqueta C.». La única bajada real de este grupo es la del relleno eliminado.
+
+**Calidad de código (orden de Grok 12:45):** el `npx tsc --noEmit -p tsconfig.app.json` COMPLETO no pudo ejecutarse en esta VM y queda como paso pendiente de tu integración — no hay un checkout completo del repo en esta VM (mismo límite documentado por el grupo 1; el pack es enorme y el clon se corta). Lo que sí pasó antes del push: chequeo de parseo TypeScript del fichero cambiado (OK) y escáner de saltos de línea literales dentro de `"…"` (ninguno); ambos con control positivo que sí detecta la clase de error de a7bbaeb7 (cadena sin cerrar). El cambio es de una sola línea, sin comillas nuevas ni saltos literales. No hay saltos de línea literales dentro de `"…"` en el fichero del grupo.
+
+**Fuentes oficiales:** no se afirma ningún dato nuevo, así que no hay cifras nuevas que acreditar; las fechas y normas citadas (Ley 5/2025, Real Decreto 52/2026, Real Decreto Legislativo 6/2015, DGT) ya estaban en la base y no se tocan. Ningún dato inventado.
+
+**Pendiente (nada inventado como entregado):** grupo 3 (blogs 16374426, 1fbdccb2, 62e3b79e) y grupo 4 (4 mejoras 12:45). Esto NO es el cierre total del rework. Sigo con el grupo 3 en cuanto me lo confirmes: dime qué más puedo hacer y continúo con el siguiente grupo.
