@@ -326,14 +326,14 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
       q: `¿Cuánto cuesta el ${nombre}?`,
       a: tp?.faqPrecio ??
         (coche.precioDesde == null
-          ? `${nombre} — sin precio confirmado en España.`
+          ? `El ${nombre} aún no tiene precio confirmado para España: lo publicaremos en cuanto la marca lo anuncie. Tienes el detalle de las versiones disponibles en el análisis completo.`
           : `${geo.faqPrecio ?? `El ${nombre} parte de ${fmtPrecio(coche.precioDesde)}.`} El desglose por versiones y acabados, con y sin ayudas, está en el análisis completo del modelo.`),
     },
     {
       q: tp?.faqPreguntaAutonomia ?? `¿Cuál es la autonomía del ${nombre}?`,
       a: tp?.faqAutonomia ??
         (coche.autonomiaKm == null
-          ? `${nombre} — autonomía sin dato publicado.`
+          ? `No hay una autonomía publicada por ninguna fuente fiable para el ${nombre}, así que preferimos no inventarla: no la mostramos en la ficha.`
           : `Homologa ${fmtKm(coche.autonomiaKm)}${/híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? " en modo eléctrico" : ""}${coche.cicloAutonomia === "CLTC" ? " en el ciclo chino CLTC, más optimista que el WLTP europeo" : /híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? "" : " (WLTP)"}.`),
     },
     {

@@ -190,7 +190,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
       q: `¿Cuánto cuesta la ${nombre}?`,
       a: tp?.faqPrecio ??
         (moto.precioDesde == null
-          ? `${nombre} — sin precio confirmado en España.`
+          ? `La ${nombre} aún no tiene precio confirmado para España: lo publicaremos en cuanto la marca lo anuncie.`
           : `${geo.faqPrecio ?? `La ${nombre} parte de ${fmtPrecio(moto.precioDesde)}.`} El detalle de versiones está en la comparativa completa.`),
     },
     {
@@ -209,7 +209,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
             q: `¿Cuál es la autonomía de la ${nombre}?`,
             a:
               moto.autonomiaKm == null
-                ? `${nombre} — autonomía sin dato publicado.`
+                ? `No hay una autonomía publicada por ninguna fuente fiable para la ${nombre}, así que preferimos no inventarla: no la mostramos en la ficha.`
                 : `Homologa ${fmtAutonomia(moto)}. La cifra real depende de tu conducción, el peso y la temperatura.`,
           },
           {
