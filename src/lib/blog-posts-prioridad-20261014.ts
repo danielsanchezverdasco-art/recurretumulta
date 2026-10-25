@@ -5237,8 +5237,8 @@ Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 
   },
   {
     slug: "kia-ev3-gt-precio-ficha-tecnica",
-    title: "Kia EV3 GT precio en Reino Unido: desde 48.695 £, 292 CV",
-    excerpt: "Kia EV3 GT 2026: precio desde 48.695 £, 292 CV. Aún no en España. Versiones, consumo, autonomía y qué conviene comprar. Historia y rivales.",
+    title: "Kia EV3 GT 2026: 292 CV desde 48.695 £",
+    excerpt: "El SUV eléctrico deportivo de Kia: 292 CV, tracción total, 501 km WLTP y precio desde 48.695 £ en Reino Unido. En España, aún no se vende.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 4,
@@ -5257,7 +5257,7 @@ Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 
 
 **Ficha completa del modelo:** <a href=/coches/kia-ev3-gt-2026/>Kia EV3 GT 2026 — ficha técnica</a>
 
-Kia EV3 GT 2026: SUV eléctrico deportivo. Precio aproximado no oficial: desde ~48.695 £ en Reino Unido (precio oficial UK); precio en España aproximado no oficial pendiente de lanzamiento europeo. Fuente de la aproximación: precio oficial UK + listados europeos (comparadores).
+Kia EV3 GT 2026: un SUV eléctrico deportivo cuyo precio, aproximado y no oficial, parte de unas 48.695 £ en Reino Unido, donde sí es oficial; en España, el precio aproximado no oficial sigue pendiente del lanzamiento europeo. La aproximación se apoya en el precio oficial del Reino Unido más los listados europeos de comparadores.
 
 ## Ficha rápida
 
@@ -5312,15 +5312,15 @@ Kia EV3 GT 2026: SUV eléctrico deportivo. Precio aproximado no oficial: desde ~
 
 ## Mantenimiento
 
-Mantenimiento orientativo (modelo similar Kia EV3, misma marca): revisión anual; sin mantenimiento de motor térmico. Fuente: plan de mantenimiento Kia EV3 (misma marca).
+Mantenimiento orientativo tomado de un modelo similar de la misma marca, el Kia EV3: revisión cada año y ningún mantenimiento de motor térmico. La fuente es el plan de mantenimiento del Kia EV3, de la misma marca.
 
 ## Garantía
 
-Garantía del fabricante en modelos parecidos (Kia EV3, Kia EV6): 7 años / 150.000 km (Europa); batería 8 años. Fuente: garantía Kia Europa en modelos parecidos.
+Garantía del fabricante tomada de modelos parecidos, Kia EV3 y Kia EV6: 7 años o 150.000 km en Europa, y 8 años para la batería. La fuente es la garantía Kia Europa en modelos parecidos.
 
 ## EuroNCAP
 
-Kia EV3 base: 5 estrellas EuroNCAP (2024). Variante GT sin prueba específica.
+El Kia EV3 base logró 5 estrellas EuroNCAP en 2024. La variante GT, en cambio, no tiene prueba específica.
 
 ## Enlaces internos
 
@@ -5337,27 +5337,27 @@ Kia EV3 base: 5 estrellas EuroNCAP (2024). Variante GT sin prueba específica.
 
 ### ¿Cuánto cuesta el Kia EV3 GT 2026?
 
-Precio aproximado no oficial: desde ~48.695 £ en Reino Unido (precio oficial UK); precio en España aproximado no oficial pendiente de lanzamiento europeo. Fuente de la aproximación: precio oficial UK + listados europeos (comparadores).
+Precio aproximado, no oficial: desde unas 48.695 £ en Reino Unido, donde el precio sí es oficial; en España, el precio aproximado no oficial está pendiente del lanzamiento europeo. La aproximación viene del precio oficial del Reino Unido más los listados europeos de comparadores.
 
 ### ¿Cuántos CV tiene el Kia EV3 GT 2026?
 
-292 CV (215 kW) en la versión de referencia de esta ficha.
+292 CV, que son 215 kW, según la versión de referencia de esta ficha.
 
 ### ¿Se vende el Kia EV3 GT en España?
 
-Aún no se vende en España: lanzado en Reino Unido (precio oficial UK 48.695 £); lanzamiento europeo pendiente. Esta ficha usa el precio del mercado donde se vende.
+Todavía no se vende en España: se lanzó en Reino Unido, con precio oficial de 48.695 £, y el lanzamiento europeo está pendiente. Aquí se usa el precio del mercado donde se vende.
 
 ### ¿Qué EuroNCAP tiene el Kia EV3 GT?
 
-Kia EV3 base: 5 estrellas EuroNCAP (2024). Variante GT sin prueba específica.
+El EV3 base tiene 5 estrellas EuroNCAP de 2024. La variante GT no cuenta con prueba específica.
 
 ### ¿Qué garantía tiene el Kia EV3 GT?
 
-Garantía del fabricante en modelos parecidos (Kia EV3, Kia EV6): 7 años / 150.000 km (Europa); batería 8 años. Fuente: garantía Kia Europa en modelos parecidos.
+La garantía del fabricante en modelos parecidos, Kia EV3 y Kia EV6, es de 7 años o 150.000 km en Europa, con 8 años para la batería. Fuente: la garantía Kia Europa en modelos parecidos.
 
 ### ¿Merece la pena comprar el Kia EV3 GT?
 
-Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
+Depende de tu uso: antes de decidir, compara precio, consumo y autonomía, maletero y garantía con 2 o 3 rivales de la misma categoría. Esta ficha da los datos; la decisión es tuya.
 
 *Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
 
