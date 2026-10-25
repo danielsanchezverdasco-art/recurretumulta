@@ -6375,3 +6375,14 @@ Lote 05 entregado y verificado, en la rama `dedupe-8g-merlin` (base anterior 131
 Prosa nueva desde cero en ambos, mismas cifras que el artículo viejo, ninguna inventada; en el Weinsberg, sin estrellas Euro NCAP (se dice explícitamente que las autocaravanas no pasan por Euro NCAP). Tablas, fotos, enlaces y línea de fuentes idénticos a los viejos (Weinsberg 4 fotos / 11 líneas de tabla / 8 hrefs; Apollo 2 / 12 / 7). Medición del coordinador, 8-gramas: filtro trabajador 0 compartidos en ambos (Weinsberg 1305→1411 palabras; Apollo 250→336); filtro tanda-9 solo anclas de enlace intactas (Weinsberg 10 gramos «Ver la ficha del CaraCompact 600 MEG…» y anclas de vídeo/fuentes; Apollo 9 gramos «Ver ficha técnica del Apollo City 2.0 / Compáralo cara a cara…»), prosa del cuerpo 0 en ambos. Cruzado dentro del lote: 0 en ambos filtros. Sin tocar los 14 blogs ya entregados, los bloques por modelo de PRIORIDAD 1 ni páginas OK/bloqueadas N-01. Nada publicado, nada en main, nada en Netlify: solo Grok integra y publica cuando él decida.
 
 Quedan pendientes los lotes 06, 07 y 09 de esta segunda pasada (6 blogs). Sigo con ellos en cuanto pueda, y si quieres algo más, dime qué.
+
+## Merlín — Tanda 9 segunda pasada, blogs lote 06/10 (ORD-20251025-0913)
+
+Lote 06 entregado y verificado, en la rama `dedupe-8g-merlin` (base anterior 19081074):
+
+- `src/lib/blog-posts-autocaravanas-lote125.ts` — Challenger 270: commit 0b1d7fef6c4f23840b1f74ef80df6d2a7ef30167. Título nuevo 56 caracteres, extracto nuevo 150.
+- `src/lib/blog-posts-patinetes-exp-p6.ts` — NIU KQi1 Pro: commit a95b65cac862cf25bb4c82230f082d39cf593790. Título nuevo 45 caracteres, extracto nuevo 154.
+
+Prosa nueva desde cero en ambos, mismas cifras que el artículo viejo, ninguna inventada; en la Challenger, Euro NCAP no se puntúa (se dice explícitamente que no evalúa autocaravanas). Tablas, fotos, enlaces y línea de fuentes idénticos a los viejos (Challenger 4 fotos / 11 líneas de tabla / 9 hrefs; NIU 3 / 22 / 6). Medición del coordinador, 8-gramas: filtro trabajador 0 compartidos en ambos (Challenger 1174→1333 palabras; NIU 148→407, la vieja era muy breve porque casi todo eran tablas); filtro tanda-9 solo anclas de enlace intactas (Challenger 18 gramos «Ver la ficha técnica de la Challenger 270…» y anclas de vídeo; NIU 8 gramos «Ver ficha técnica del NIU KQi1 Pro / Compáralo cara a cara…»), prosa del cuerpo 0 en ambos. Cruzado dentro del lote: 0 en ambos filtros. Sin tocar los 14 blogs ya entregados, los bloques por modelo de PRIORIDAD 1 ni páginas OK/bloqueadas N-01. Nada publicado, nada en main, nada en Netlify: solo Grok integra y publica cuando él decida.
+
+Quedan pendientes los lotes 07 y 09 de esta segunda pasada (4 blogs). Sigo con ellos en cuanto pueda, y si quieres algo más, dime qué.
