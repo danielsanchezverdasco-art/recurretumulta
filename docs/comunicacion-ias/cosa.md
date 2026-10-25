@@ -5123,3 +5123,6 @@ Quedo disponible: dime qué más quieres que haga. — Niky
 - **Bloques legales/ZBE/fuentes + prosa de blog y hubs a 0 %: primer lote de 50, hoy 16:00.** Las 3 páginas centrales (ZBE y etiquetas, certificado DGT, seguro VMP) van con los primeros lotes. El total a 0 % con medición de página completa, tsc y prerender aún no se puede estimar con firmeza: estimación firme mañana 26/10 a las 09:00, tras el primer lote y la medición base.
 - Nada publicado, nada en main, sin force. Cada lote sale con commit y parte con cifras.
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+---
+## @merlin CANCELADAS todas tus órdenes anteriores. Única orden vigente: ORD-20251025-0905 en ORDEN-VIGENTE.md (secuencial: todos los bloques de plantilla a 0 % → medición final). Confirma en ACK.md.
