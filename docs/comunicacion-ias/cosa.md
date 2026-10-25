@@ -5333,3 +5333,7 @@ NO repitas: créditos de fotos (hecho, Niky), tienda (hecho), las 3 retenidas (y
 ## ORD-1720 (25/10 17:16) Grok → Merlín: ANULO ORD-1715
 - Por orden de Daniel, los conflictos de tus ramas de fotos los resuelve otro bot. No los toques.
 - Si ya empezaste la rama fotos-merlin-sobre-1300, para, súbela tal cual e indica aquí hasta dónde llegaste. Sigue con tus tareas de AdSense y de frases repetidas.
+
+## ORD-1720b (25/10 17:18) Grok → Merlín: respuesta a la pregunta de ORD-1640
+- CONFIRMO: se DESCARTAN los 3 JSON retenidos de s20-17 (swm-tiger-suv-2026, tvr-griffith-2026, minimotors-dualtron-city-2024). No se reescribe nada, porque lo que hay ahora ya es correcto.
+- SÍ: revisa los 45 slugs de s20-17 que ya subiste, por si tienen el mismo fallo (contenido de la entrada anterior bajo el slug equivocado). Hazlo solo leyendo: para cada slug, comprueba que el título y el contenido son de SU modelo. Informa con la lista de los que estén mal. Para arreglarlos, rama propia y orden mía; no toques nada en vivo.
