@@ -1,5 +1,5 @@
 # ORDEN VIGENTE (fuente única de verdad) — la mantiene Cosa
-**ID de orden: ORD-20251025-0655**
+**ID de orden: ORD-20251025-0855**
 **Vigente desde: 24/10/2026 20:13 (Madrid)**. Anula cualquier orden anterior que la contradiga.
 
 1. Se paran los packs de reescritura completa (unico-coches-50-*). La tanda en curso se entrega tal y como esté y no se lanzan más.
@@ -58,3 +58,41 @@ Decisión de Daniel: a las 7:30 se publica el borrador SIN tocar la indexación.
 Las dos: confirmad en `ACK.md` con el ID de esta orden.
 
 > NORMA FIJA N-01: no se tocan las páginas que ya están perfectas o bloqueadas; solo se trabaja en las que fallan. Ver NORMAS-PERMANENTES.md
+
+---
+# ORD-20251025-0855: 0 % de frases repetidas atacando los BLOQUES DE PLANTILLA (sustituye al reparto de 100 agentes)
+**Emite:** Grok/Cosa, por orden de Daniel (25/10 08:55). **Agentes:** 200 cada una, todos trabajando.
+
+## Objetivo
+Cada página indexable tiene que quedar con un 0 % de frases repetidas (8-gramas) respecto a cualquier otra página. El grueso de la repetición está en unos 30 bloques de plantilla, no en la prosa. Por eso se cambian los COMPONENTES y no se reescribe página a página. Lista de bloques: `listas/8gramas-bloques-plantilla.md`.
+
+## Contexto
+La subida de hoy (08:21) no tocó la indexación. Estos cambios entran en la próxima subida y solo si la medición da 0 %.
+
+## Reparto (nadie toca los bloques del otro)
+**Merlín, 200 agentes, rama `dedupe-8g-merlin`: bloques por modelo**
+- Bloques #1, #10, #25, #19, #21, #26, #5/#9, #6/#14/#15, #13, #12 y #30.
+- Cada bloque se genera con los datos reales de su página (cifras, versiones, equipamiento, mantenimiento, etc.).
+- Si una página no tiene el dato, el bloque se QUITA en esa página. Nunca relleno.
+
+**Niky, 200 agentes nuevos, rama `dedupe-8g-niky`: bloques legales, ZBE y fuentes**
+Las fotos siguen en paralelo con sus agentes de siempre, sin quitar ninguno.
+- **Bloques #4, #17, #27/#28 y #2/#3/#16/#23/#24/#29:** cada uno se queda en una frase propia con el dato concreto del modelo (su etiqueta, su categoría y lo que le aplique) y un enlace a UNA página central que explica la norma completa. Esas páginas centrales las creas tú: 1 de ZBE y etiquetas, 1 de certificado DGT y 1 del seguro VMP, con fuente oficial.
+- **Fuentes (#4):** solo se listan las que esa página usa de verdad.
+- **Después, la prosa del blog y de los hubs que siga a más del 0 %:** reescritura real con los datos de cada página. No toques los 14 blogs ya entregados por Merlín.
+
+Si las dos necesitáis el mismo fichero, avisaos en el tablón antes de editarlo.
+
+## Calidad: condición obligatoria de Daniel
+- Prohibido quitar información útil, rellenar, hacer paráfrasis artificial o dejar páginas más pobres.
+- Cada bloque nuevo tiene que aportar igual o más que el que sustituye, con datos reales y su fuente. Sin inventar cifras.
+- Las palabras de texto propio por página tienen que quedar iguales o por encima. Cualquier bajada se justifica.
+- La norma N-01 sigue vigente: no se tocan las páginas ya OK o bloqueadas, ni los casos especiales.
+
+## Entrega
+- tsc con 0 errores y el prerender bien hecho.
+- Medición de 8-gramas de la PÁGINA COMPLETA de todas las indexables, antes y después: mediana, número de páginas a 0 % y lista de las que no llegan a 0.
+- Palabras propias antes y después de cada página.
+- Commits por lotes y un parte en el tablón con cifras finales.
+
+Nada publicado, nada en `main`, sin force push. Solo Cosa integra y publica. Confirmad en ACK.md el número de agentes de cada tarea.

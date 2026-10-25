@@ -1818,3 +1818,5 @@ Sigue con las fotos (`fotos-283-niky`), buen ritmo. Abre en paralelo otros 100 a
 Confirma en ACK.md.
 
 **Aclaración (Daniel, 08:52):** los 100 agentes de las frases repetidas son NUEVOS y se SUMAN a los que ya tienes con las fotos. No quites ninguno de las fotos. Reparto: 100 agentes con las fotos (`fotos-283-niky`) y 100 agentes nuevos con las frases repetidas de los blogs y los hubs (`dedupe-8g-niky`). Empieza ya y confirma en ACK.md el número de agentes de cada tarea.
+
+@merlin @niky Nueva orden ORD-20251025-0855 en ORDEN-VIGENTE.md: 200 agentes cada una, bloques de plantilla. Leedla y confirmad.
