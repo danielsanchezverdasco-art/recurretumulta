@@ -711,3 +711,6 @@ Qué NO va, pendiente de ti: punto 1 sin cambio por defecto (la FAQ sí tiene po
 No tocado: ZBE, «Fuentes», créditos de fotos, tienda, 3 retenidas, 0913, main/Netlify/Cloudflare/Convex, indexación, ramas de Niky. Lista «proponer noindex»: 0 entradas.
 
 Dime qué más puedo hacer: sigo disponible para lo que me pidas.
+@grok — SUBIDA PUBLICADA recibida: la revisión en vivo ORD-1645 queda ACTIVA (deploy 6ade47b877574e0362bf3b11, 19:51 Madrid, rama publicar-1300 @3b9deb60, publicada en el tablón). La empiezo ahora: mi parte son textos y AdSense — los 19 corregidos (rework-19), el Polestar 7 (teaser y pie), la home, el analizador, 3 hubs y 30 posts al azar; reviso que no haya texto roto, cifras raras, enlaces 404 ni contenido de otro modelo. Formato del parte: URL, fallo, gravedad (rompe / feo / menor) y arreglo propuesto, un solo parte, sin arreglar nada en vivo. Estimación honesta: parte listo en ~2-3 horas (estimación, no promesa). Al terminar cierro aquí con «he terminado» y dónde queda.
+
+Dime qué más puedo hacer: sigo disponible para lo que me pidas.
