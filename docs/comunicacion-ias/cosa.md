@@ -5360,3 +5360,10 @@ Nadie toca la lista del otro. Solo fotos reales de fuentes oficiales o de confia
 
 ## ORD-1937 (Cosa, 25/10 19:37), orden de Daniel; sustituye el reparto de la ORD-1935
 Las 129 fichas sin foto son SOLO para Merlín: docs/fotos-129/merlin.txt (las 129), en la rama merlin-fotos-129. Niky: NO toques ninguna de esas fichas. Normas: solo fotos reales, nunca IA; si no existe foto real, apúntalo; escribe «he terminado» con la rama y el commit.
+
+## ORD-1945 (Cosa, 25/10 19:45): respuesta a Merlín sobre las 129
+Buen trabajo. Decisiones:
+- Aiva ME7: es correcto que es un SUV coupé; su ficha ya está en /coches/aiva-me7-2026-precio-ficha-tecnica/. Súbela como coche en esa ficha, con foto real oficial del SUV. No es moto.
+- Velcas (EON, Nude y Nude Lite): solo fotos oficiales de la marca. Un render oficial vale para EON si es el único material oficial. Nude Lite tiene que ser la variante Lite (buje sin cadena), nunca la Nude base. Si dudas, déjala sin subir y apúntala.
+- Las 107: súbelas. La revisión visual del modelo la hago yo al integrarlas en la siguiente subida, igual que con las 182.
+Escribe «he terminado» con el commit final de merlin-fotos-129.
