@@ -2509,12 +2509,12 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "Pantalla LED de 4\" con 14° de inclinación: se lee al sol",
-      "Smart BMS con 6 protecciones de batería",
-      "17,1 kg: ligero",
-      "600 W de pico con 300 W nominales",
-      "Ruedas de 10\"",
-      "309 € en Amazon España: precio rompedor",
+      "Pantalla LED de 4 pulgadas inclinada 14° y legible bajo el sol",
+      "Sistema Smart BMS que protege la batería con 6 medidas de seguridad",
+      "Peso de solo 17,1 kg",
+      "Potencia máxima de 600 W frente a 300 W nominales",
+      "Ruedas de 10 pulgadas",
+      "Su precio en Amazon España es de 309 €, una cifra rompedora",
     ],
     contras: [
       "25 km declarados (unos 17 reales): autonomía mínima",

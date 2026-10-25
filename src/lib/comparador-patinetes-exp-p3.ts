@@ -854,11 +854,11 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "15,6 kg: de los más ligeros con ruedas de 10 pulgadas",
-      "720 W de pico: sube cuestas del 18 % sin drama",
-      "IP55 en chasis e IP67 en batería: aguanta lluvia de verdad",
-      "App InMotion con bloqueo, modos y estadísticas",
-      "Plegado en un clic, ideal para combinar con transporte público",
+      "Con 15,6 kg, está entre los más ligeros que montan ruedas de 10 pulgadas",
+      "Sus 720 W de pico le permiten subir pendientes del 18 % sin apuros",
+      "Chasis con IP55 y batería con IP67, así que soporta lluvia intensa sin problemas",
+      "La app de InMotion añade bloqueo, modos de conducción y estadísticas",
+      "Se pliega con un solo clic, perfecto para combinarlo con el transporte público",
     ],
     contras: [
       "Sin precio oficial: sin tarifa oficial verificable del Inmotion Air en Europa",
