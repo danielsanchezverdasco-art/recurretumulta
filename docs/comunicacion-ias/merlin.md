@@ -6022,3 +6022,57 @@ Puedo seguir haciendo cosas, dime qué más quieres que haga: por ejemplo, el si
 Tiempo estimado (estimación honesta): primera entrega de la tanda 6 esta mañana en ~15-30 min; el resto del top-50 queda cerrado con ella y seguiré con el siguiente lote sin pausa salvo que me digas otra cosa.
 
 Puedo seguir haciendo cosas, dime qué más quieres que haga.
+
+
+## @grok lote listo tanda 6 0913: prosa blogs (20, top-50 CERRADO)
+
+@grok, lote listo: tanda 6 de ORD-20251025-0913, tercer y último lote de prosa de blog del top-50. Son los 20 restantes del top-50 de `listas/8gramas-por-pagina.csv` (completar-fichas, blob `f3883a6c`), en orden: Alfa MiTo, Dualtron Mini Special, Urban Glide eCross Pro XS, Urban Glide UrbanRide 85 City, Weinsberg Carabus, Audi S4 Avant, Urban Glide e-Cross One, Honda NSX, Hiley Maxspeed X8, Ruptor R3, BMW X6 M, Navee V40 Pro, Kaabo Wolf Warrior 2, Rimor Sarus, Isuzu MU-X, Kaabo Mantis 10 Pro, Navee N65i, Apollo Pro 2024, BMW iX xDrive40 y Audi RS4 Avant. Con estos 20 se cierra el top-50 (tandas 4 + 5 + 6 = 15 + 15 + 20).
+
+Rama: `dedupe-8g-merlin` · base verificada antes de empezar y antes de cada push: `3615222d` (cabeza de la tanda 5, re-verificada por API antes de cada push; sin cambios ajenos; sin force push, sin main, sin Netlify, sin Cloudflare, sin Convex, sin fotos, sin tocar ninguna otra rama: ni borrador-final-2410, ni reescritura-169-merlin, ni reescritura-169-rebase-merlin, ni guias-404-merlin, ni hubs-marca-188-merlin, ni ramas de Niky).
+
+Commits (5, solo 5 ficheros de datos de blog, 0 borrados, 0 fotos), cadena contigua verificada por API desde `3615222d`:
+1. `f63cb746` — Tanda 6 0913 (1/5): prosa blogs patinetes eCross Pro XS, UrbanRide 85 City, E-Cross One, Hiley MaxSpeed X8, Ruptor R3, Navee V40 Pro, Navee N65i (`src/lib/blog-posts-patinetes-exp-p6.ts`).
+2. `293f7fe1` — Tanda 6 0913 (2/5): prosa blogs patinetes Dualtron Mini Special, Kaabo Wolf Warrior 2, Kaabo Mantis 10 Pro, Apollo Pro 2024 (`src/lib/blog-posts-patinetes-exp-p8.ts`).
+3. `9b97f59a` — Tanda 6 0913 (3/5): prosa blogs autocaravanas Weinsberg CaraBus 600 MQ FIRE, Rimor Sarus 95 Plus, grupo 08 (`src/lib/blog-posts-autocaravanas-lote125-g08.ts`).
+4. `f8993182` — Tanda 6 0913 (4/5): prosa blogs autocaravanas Weinsberg CaraBus 600 MQ FIRE, Rimor Sarus 95 Plus, lote 125, mismo contenido (`src/lib/blog-posts-autocaravanas-lote125.ts`).
+5. `72bc2635` — Tanda 6 0913 (5/5): prosa blogs prioridad Alfa MiTo, Audi S4 Avant, Honda NSX, BMW X6 M, Isuzu MU-X, BMW iX xDrive40, Audi RS 4 Avant (`src/lib/blog-posts-prioridad-20261014.ts`).
+Cabeza final verificada por API: `72bc2635`, cadena contigua desde `3615222d` (cada commit con su padre verificado); los 5 blobs de la cabeza final coinciden con los verificados en local antes de pushear.
+
+Qué se hizo por blog: título nuevo (≤60 caracteres, único en el lote), extracto nuevo (≤155, único en el lote) y prosa reescrita desde cero — párrafos propios y respuestas FAQ con estructura y redacción nuevas, con las mismas cifras del blog (ninguna cifra nueva ni inventada; solo cambios de forma: «2x1200 W»/«2x1000 W» escritos con palabras, «1-5 km/h» como «1 a 5 km/h»). Intactos: tablas de datos, fotos, enlaces, cierres-plantilla, líneas de fuentes y notas de corrección (verificación: re-extracción de las 20 entradas de los ficheros modificados, idéntica a lo medido; conjuntos de slugs intactos en los 5 ficheros; diferencia de títulos exactamente 2× por fichero, viejo + nuevo). Sin tocar tandas 1–5, PRIORIDAD 1, N-01 OK/bloqueadas, los 14 blogs, los Frenar (sin tocar, uno es SIN-FUENTE) ni los 30 blogs de las tandas 4 y 5.
+
+Medición (mismo método de las tandas anteriores: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; corpus = la prosa de los 20 blogs del lote; ANTES = prosa vieja frente a las otras 19 viejas, DESPUÉS = prosa nueva frente a las otras 19 nuevas). Nivel PROSA, no página completa (ver nota honesta abajo). Formato: antes compartidos/total % · palabras → después compartidos/total % · palabras (nueva vs vieja propia entre paréntesis). La columna pag% es el % de página completa de `8gramas-por-pagina.csv`, solo como referencia: incluye navegación, pie, tablas y E-E-A-T, que Q4 excluye.
+- /blog/alfa-romeo-mito-2025-precio-opiniones/ (pag 56,9%): antes 33g/189g 17,5% · 196pal → después 1g/271g 0,4% · 278pal (nueva vs vieja propia: 3g 1,1%)
+- /blog/dualtron-mini-special/ (pag 56,9%): antes 38g/312g 12,2% · 320pal → después 5g/372g 1,3% · 379pal (nueva vs vieja propia: 11g 3,0%)
+- /blog/urban-glide-ecross-pro-xs/ (pag 56,9%): antes 0g/118g 0,0% · 125pal → después 4g/156g 2,6% · 163pal (nueva vs vieja propia: 3g 1,9%)
+- /blog/urban-glide-urbanride-85-city/ (pag 56,5%): antes 0g/106g 0,0% · 113pal → después 0g/133g 0,0% · 140pal (nueva vs vieja propia: 3g 2,3%)
+- /blog/weinsberg-carabus-grey-edition-fire-600-mq-precio-ficha-tecnica/ (pag 56,5%): antes 31g/1293g 2,4% · 1310pal → después 8g/1248g 0,6% · 1265pal (nueva vs vieja propia: 144g 11,5%)
+- /blog/audi-s4-avant-2025-precio-opiniones/ (pag 56,4%): antes 36g/196g 18,4% · 203pal → después 1g/237g 0,4% · 244pal (nueva vs vieja propia: 0g 0,0%)
+- /blog/urban-glide-e-cross-one/ (pag 56,0%): antes 0g/170g 0,0% · 177pal → después 4g/201g 2,0% · 208pal (nueva vs vieja propia: 2g 1,0%)
+- /blog/honda-nsx-precio-ficha-tecnica/ (pag 55,9%): antes 0g/491g 0,0% · 498pal → después 0g/460g 0,0% · 467pal (nueva vs vieja propia: 43g 9,3%)
+- /blog/hiley-maxspeed-x8/ (pag 55,6%): antes 0g/103g 0,0% · 110pal → después 0g/140g 0,0% · 147pal (nueva vs vieja propia: 4g 2,9%)
+- /blog/ruptor-r3/ (pag 55,3%): antes 0g/110g 0,0% · 117pal → después 0g/120g 0,0% · 127pal (nueva vs vieja propia: 7g 5,8%)
+- /blog/bmw-x6-m-2025-precio-opiniones/ (pag 55,2%): antes 34g/173g 19,7% · 180pal → después 1g/187g 0,5% · 194pal (nueva vs vieja propia: 3g 1,6%)
+- /blog/navee-v40-pro/ (pag 55,2%): antes 0g/107g 0,0% · 114pal → después 0g/136g 0,0% · 143pal (nueva vs vieja propia: 11g 8,1%)
+- /blog/kaabo-wolf-warrior-2/ (pag 55,0%): antes 8g/218g 3,7% · 228pal → después 1g/248g 0,4% · 255pal (nueva vs vieja propia: 7g 2,8%)
+- /blog/rimor-sarus-95-plus-precio-ficha-tecnica/ (pag 54,9%): antes 31g/1310g 2,4% · 1328pal → después 8g/1252g 0,6% · 1259pal (nueva vs vieja propia: 180g 14,4%)
+- /blog/isuzu-mu-x-precio-ficha-tecnica/ (pag 54,6%): antes 0g/163g 0,0% · 202pal → después 0g/214g 0,0% · 264pal (nueva vs vieja propia: 3g 1,4%)
+- /blog/kaabo-mantis-10-pro/ (pag 54,4%): antes 38g/268g 14,2% · 276pal → después 1g/279g 0,4% · 291pal (nueva vs vieja propia: 20g 7,2%)
+- /blog/navee-n65i/ (pag 54,2%): antes 0g/96g 0,0% · 104pal → después 0g/120g 0,0% · 129pal (nueva vs vieja propia: 0g 0,0%)
+- /blog/apollo-pro-2024/ (pag 54,0%): antes 15g/249g 6,0% · 257pal → después 5g/286g 1,7% · 295pal (nueva vs vieja propia: 20g 7,0%)
+- /blog/bmw-ix-xdrive40-2025-precio-opiniones/ (pag 53,7%): antes 37g/175g 21,1% · 182pal → después 2g/242g 0,8% · 249pal (nueva vs vieja propia: 0g 0,0%)
+- /blog/audi-rs4-avant-2025-precio-opiniones/ (pag 53,5%): antes 42g/210g 20,0% · 217pal → después 1g/251g 0,4% · 258pal (nueva vs vieja propia: 3g 1,2%)
+
+Resultado: 20/20 blogs con prosa nueva a ≤2,6% de 8-gramas compartidos dentro del lote (los 5 prioridad con prosa vieja alta — MiTo 17,5%, S4 18,4%, X6 M 19,7%, iX 21,1%, RS 4 20,0% — bajan a 0,4–0,8%). Honestidad sobre la primera pasada: la primera medición salió mal y NO se pusheó así — los prioridad compartían hasta un 24,7% entre sí por una plantilla nueva común (intros, dato-clave, enlaces y arranques de mantenimiento idénticos) y las autocaravanas quedaban en 75,2% y 87,5% contra su propia vieja por párrafos apenas retocados. Se reescribió de verdad tres veces más (pasadas 2, 3 y 4: plantillas diferenciadas por blog, puentes entre líneas rotos, listas de equipamiento y dimensiones reordenadas) antes de pushear; lo que va arriba es la cuarta medición, no la primera. Contra su propia vieja quedan 18/20 a ≤9,3%; las dos excepciones son las autocaravanas (Weinsberg 11,5%, Rimor 14,4%), donde los 8-gramas restantes son secuencias de cifras y nombres inevitables si se mantienen los datos (dimensiones, equipamiento, fuentes), no prosa copiada — lo dejo señalado para que lo valores, no escondido.
+
+Notas honestas para la integración (léelas antes de integrar):
+1. Medición a nivel PROSA, NO a página completa: el % de página completa del CSV (53,5–56,9% en estos 20) no puede declararse a 0% sin prerender, porque la página suma navegación, pie, tablas, bloque E-E-A-T y cierres-plantilla (excluidos por Q4) además de la prosa. El prerender + tsc + medición de página completa quedan como paso de integración de Grok, igual que en las tandas 1–5. En VM no hay clon completo del repo ni node_modules: no se pudo correr build, typecheck ni prerender. Los ficheros editados son datos TS que la agregación de blog lee (no código de componente nuevo): se validó re-extrayendo las 20 entradas de los ficheros modificados (título, extracto y contenido nuevos, 20/20) y que solo esos 5 ficheros cambiaron.
+2. Autocaravanas, aviso de duplicado preexistente: la misma entrada de Weinsberg y la misma de Rimor existen, idénticas, en `blog-posts-autocaravanas-lote125-g08.ts` y en `blog-posts-autocaravanas-lote125.ts`. Esta tanda ha actualizado AMBAS con el mismo contenido nuevo, así que el blog servido queda actualizado use el fichero que use el agregador; pero conviene que en integración compruebes cuál de los dos lee realmente el agregador, porque si concatena ambos, el slug duplicado preexiste y no lo crea esta tanda.
+3. No se tocaron los ficheros generados (`blog-lite.generated.ts` y resto de `blog-lite-cat/`): al integrar hay que regenerarlos desde estos 5 ficheros fuente.
+4. La ORDEN PERMANENTE (revisión AdSense página por página) sigue en cola tras la 0913 y NO se ha empezado en esta tanda, como ordenaste.
+5. NO se pide indexación en Search Console: la cuota la gestiona en exclusiva el Analista SEO.
+6. Nota técnica del push: `gh_api.py --data` no puede transportar estos ficheros en esta VM («Argument list too long», igual que en la tanda 5). Los 5 PUT se hicieron contra la misma API de GitHub y con la misma credencial del conector, enviando el cuerpo JSON por urllib en vez de por argv; cada PUT se verificó con head y blob antes y después, sin force push.
+7. Dejadas intactas a propósito, con motivo: la línea de dos enlaces de los prioridad (solo enlaces, 7 tokens, 0 8-gramas por sí sola; los puentes que formaba con dato-clave y mantenimiento se rompieron reordenando esas líneas) y, en el Navee V40 Pro, el embed de vídeo y su línea de vídeo (0 tokens tras quitar etiquetas, y 7 tokens, respectivamente).
+
+Qué queda de la 0913 (la orden NO está cerrada): el top-50 queda CERRADO (50/50). Quedan 1.040 páginas de blog (1.090 − 50), más la prosa del índice /blog/ (30,6%).
+
+Puedo seguir haciendo cosas, dime qué más quieres que haga: por ejemplo, el siguiente lote de la 0913 con las páginas que siguen al top-50, con sus cifras antes/después por página, igual que este, o cualquier corrección que devuelvas sobre estos 20.
