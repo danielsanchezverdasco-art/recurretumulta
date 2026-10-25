@@ -53,3 +53,42 @@ pasan a la tanda siguiente. Cada tanda: commit + push sin force + verificación 
 - Las fotos ya encontradas en ramas trabajadoras (w003, w013, w025 — 8 fotos verificadas) se conservan tal cual: la consolidación copia ficheros, no fusiona ramas, así que la base vieja de esas ramas no afecta. No se busca nada dos veces.
 - Los trabajadores de la oleada 1 en curso NO se tocan (su base no afecta a las fotos). Las oleadas 2–8 se crearán desde `origin/borrador-final-2410`.
 - Alcance: SOLO fotos. El chequeo `dedupe-8g-niky` ya NO es trabajo de Niky (pasa a Merlín según esta orden); no se toca.
+
+## TANDA 2 (25/10/2026) — 50/50 con foto, 0 «sin foto real»
+- Composición: 22 restantes de la oleada 1 (w017 3er slug + w018–w025) + 28
+  primeros de la oleada 2 (w026–w039), en orden de lista. Ramas trabajadoras
+  verificadas una a una (ls-remote = commit informado, diff con solo añadidos).
+- Contenido del commit: 50 ficheros raíz en `public/media/` (auditoría byte a
+  byte contra las ramas: 50/50 idénticos, todos WebP <300 KB) + 40 copias en
+  `public/media/motos/` (39 con el mismo nombre + 1 renombrada: segway-e300se
+  espera `-hero.webp`) + 6 copias `-ext` (knaus-sky-ti, laika-kreos-l-5009,
+  rimor-sarus-12-plus, rimor-sarus-95-plus, sunlight-t-67, weinsberg-carahome)
+  = 96 ficheros media + CSV (50 filas nuevas; total 100) + este README.
+- Mapeo verificado contra los datos de `borrador-final-2410` (no contra los
+  fragmentos solos): TODAS las fichas de moto de `comparador-motos-base.ts`
+  referencian `/media/motos/<fichero>`, por eso las 40 copias; las 6 de
+  autocaravanas referencian `-ext.webp`; qjmotor-srv-125 SÍ tiene entrada en
+  `comparador-motos-base.ts` (el fragmento decía que no, porque su checkout
+  disperso no incluía `src/`).
+- COLISIÓN NO SOBRESCRITA (decisión del coordinador, para el cruce de Grok):
+  kawasaki-versys-1000-s-2024 espera
+  `/media/fotos-reales/kawasaki-versys-1000-s-2024-ficha-tecnica-precio/
+  kawasaki-versys-1000-s-2024-ficha-tecnica-precio-real-1.webp`, que YA existe
+  en la base (WebP 2048×1536, 157.714 B, foto real). NO se sobrescribió: la
+  foto verificada del trabajador (1000PS, base S 2024 sin maletas, 100.940 B)
+  queda solo en raíz + fila CSV. Grok decide si sustituye.
+- Caveats honestos (fotos reales del modelo, pero con matiz; Grok arbitra):
+  knaus-sky-ti-650-mf-2026: año 2026 no confirmado independientemente en el
+  anuncio (foto real Sky TI 650 MF Platinum Selection); laika-kreos-l-5009-2026:
+  variante estándar Fiat Ducato (si la ficha fuera la MB sobre Mercedes, no
+  sirve); livewire-s2-del-mar-2024 y moto-morini-seiemmezzo-str-650-2024:
+  renders oficiales del fabricante, no fotografías; rimor-sarus-12-plus y
+  95-plus: fotos de concesionario (la web oficial no expone imagen
+  descargable; rimor.it nombra «12 P» frente al «12 Plus» del distintivo y
+  del slug); ktm-1290-super-duke-r-2024: generación 2020–2023, que es la que
+  describe la ficha (la 1390 la relevó en 2024); montesa-cota-4rt-301rr: foto
+  oficial 2026 para una ficha que cita tarifa 2027 y versiones 2025–2026
+  (misma generación vigente).
+- CSV: filas con el slug tal como viene en cada fragmento (algunos cortos,
+  p. ej. `rimor-sarus-12-plus-2026`, `vmoto-tc-max-2024`); la foto y su nombre
+  de fichero son los que importan para el cruce.

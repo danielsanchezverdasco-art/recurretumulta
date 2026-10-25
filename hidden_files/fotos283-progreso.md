@@ -20,3 +20,31 @@
 - Copias en public/media/motos/: 28 ficheros moto (los datos referencian /media/motos/<fichero> para ellos; en raíz también están). 28 nuevos, 0 sobrescritos.
 - Nombres entregados SIN referencia en ningún campo imagen de borrador-final-2410 (src/lib): burstner-eliseo-c-644, chausson-640, chausson-720, concorde-credo-791-li, cupra-formentor-vz-333, cupra-formentor-vz-ehybrid, etrusco-t-6900-sb, etrusco-t-7400-sbc, honda-e-ny1 (además sin entrada en src/lib), horwin-ek3. Las entradas existen salvo honda-e-ny1; el cruce de Grok debe mapearlas (etrusco: su campo imagen apunta hoy a un -ext; horwin: posible imagen en fotos-reales/real-0 ya existente, sin confirmar por sangrado de bloque en el grep).
 - Quedan para la tanda 2: w017 3er slug (kawasaki-ninja-1000sx-2024) + w018–w025 (22 slugs en total).
+
+## Parte 25/10 ~08:50 CEST — oleada 2, verificación del lote
+- Verificadas en remoto (rama + fragment.csv, no solo informe del trabajador): w026 58179563, w027 e00f2b7e, w030 b4e20850, w032 ba83dc88, w034 936e5e12, w035-reposición a40f27d0, w036 080c38c6, w046 a7fedcb0 (¡pese a agente marcado errored! mismo patrón que w037: verificar ls-remote antes de relanzar), más w031 991dedab, w033 87ac854c, w039 46c5d639, w040 bb648233, w042 75fa5f12, w048 46b4fda7.
+- TANDA 2: 44/50. Faltan solo w028 (rimor-sarus-12-plus-2026, rimor-sarus-95-plus-2026), w029 (royal-enfield-continental-gt-650-2024, royal-enfield-interceptor-650-2024) y w038 (vmoto-tc-max-2024, voge-900dsx-2024): los 3 originales cayeron por disco, sin rama ni nada que rescatar (w028/w038 worktrees revisados, vacíos de entrega). Reposiciones lanzadas con checkout disperso exacto.
+- w047 y w049: confirmado sin rama y sin nada que rescatar; reposiciones pendientes tras la tanda 2 (material de tanda 3, no bloquean).
+- DISCO RESUELTO (de momento): retirados los worktrees de trabajadores ya entregados (ramas intactas en remoto) + stale w028/w038/w047/w049: /home/hatch de 206 MB libres (100%) a 9,8 GB libres (91%). Queda solo wt-fotos283-w041 en curso + wt-fotos283-001 de consolidación.
+- Avisos de mapeo acumulados para la consolidación de la tanda 2: /media/motos/ en qjmotor-srt-800, suzuki-gsx-8r, triumph-rocket-3-storm-r, triumph-street-triple-765, triumph-thruxton-final-edition, triumph-tiger-1200, sherco-st-300, silence-s01-plus, yamaha-tmax-560; -ext en sunlight-t-67 y weinsberg-carahome-600-dkg; -hero en arcfox-t1-2025 y audi-q3-sportback-tdi-2026 (estos dos últimos, de tanda 3).
+
+## Parte 25/10 ~09:00 CEST — verificación de reentregas
+- Re-verificados en remoto = informe: w036 080c38c6, w043 bfeea755 (diff vs base: solo 3 añadidos), w050 cb48f9b7 (diff: solo 3 añadidos), w046 a7fedcb0 (sigue en remoto pese a agente errored: errored ≠ no entregado, una vez más).
+- Nuevo aviso de mapeo para tanda 3: aion-ut-2025 y aion-v-2025 esperan -hero.webp en blog-lite.generated.ts (no -oficial.webp).
+- Aviso de w043 para futuras reposiciones: el --no-checkout deja el índice vacío y el status marca borrados staged; si un trabajador commitea en ese estado, su commit incluiría borrados masivos. En la consolidación, verificar siempre que el diff vs base solo añade (como se hizo con w043/w050).
+- Tanda 2 sigue en 44/50: reposiciones w028/w029/w038 en curso (sin entrega aún). Disco 7,8 GB libres (93%).
+
+## Parte 25/10 ~09:05 CEST — w029-reposición verificada
+- w029 `c07e1352` verificado en remoto = informe, diff vs base solo 3 añadidos, tamaños 33.424/33.786 B = informe. Continental GT 650 Apex Grey e Interceptor 650 Barcelona Blue, prensa oficial Royal Enfield North America 14-03-2024 vía RoadRacingWorld, licencia desconocida. Aviso de mapeo: ambas esperan /media/motos/.
+- TANDA 2: 46/50. Faltan solo w028 (2) y w038 (2), reposiciones en curso. Disco 7,8 GB libres.
+
+## Parte 25/10 ~09:10 CEST — w038-reposición verificada
+- w038 `ef602d17` verificado en remoto = informe, diff vs base solo 3 añadidos, tamaños 40.646/73.344 B = informe. Vmoto TC Max (oficial Vmoto UK, plata/negro, no Night Edition) y Voge 900DSX (prensa Motosan, foto Voge EICMA 2023), licencia desconocida. Aviso de mapeo: ambas esperan /media/motos/.
+- TANDA 2: 48/50. Falta solo w028 (rimor-sarus-12-plus-2026, rimor-sarus-95-plus-2026), reposición en curso.
+
+## TANDA 2 ENTREGADA 25/10/2026 — rama fotos-283-niky (commit pendiente de hash en el parte)
+- 50/50 con foto, 0 «sin foto real»: 22 resto oleada 1 (w017 3er slug + w018–w025) + 28 oleada 2 (w026–w039).
+- 96 ficheros media: 50 raíz + 40 motos/ (39 mismo nombre + segway -hero) + 6 -ext. Auditoría byte a byte 50/50 OK, WebP <300 KB.
+- CSV: 100 filas totales (50 tanda 1 + 50 tanda 2).
+- NO sobrescrito: versys-1000-s fotos-reales real-1.webp (existe en base, 157.714 B); foto del trabajador solo en raíz + CSV, decide Grok.
+- Caveats: knaus año 2026 sin confirmar, laika variante Fiat estándar, livewire/seiemmezzo renders oficiales, rimor fotos de concesionario + «12 P» vs «12 Plus», 1290 generación 2020–2023, montesa foto 2026.
