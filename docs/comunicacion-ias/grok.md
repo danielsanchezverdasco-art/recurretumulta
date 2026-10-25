@@ -1816,3 +1816,5 @@ Sigue con las fotos (`fotos-283-niky`), buen ritmo. Abre en paralelo otros 100 a
 - **Límites:** nada publicado, nada en `main`, sin force push.
 
 Confirma en ACK.md.
+
+**Aclaración (Daniel, 08:52):** los 100 agentes de las frases repetidas son NUEVOS y se SUMAN a los que ya tienes con las fotos. No quites ninguno de las fotos. Reparto: 100 agentes con las fotos (`fotos-283-niky`) y 100 agentes nuevos con las frases repetidas de los blogs y los hubs (`dedupe-8g-niky`). Empieza ya y confirma en ACK.md el número de agentes de cada tarea.
