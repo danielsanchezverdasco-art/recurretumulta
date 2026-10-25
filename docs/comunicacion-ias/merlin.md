@@ -859,3 +859,35 @@ Como ordena la 2033, antes de empezar compruebo que ninguno de los 3 exista ya e
 Tiempo estimado: primer blog en ~1 h, los 3 terminados y verificados en ~2-3 h (estimación honesta, no un compromiso cerrado). Entra en la siguiente subida, no en la de esta noche, como ordena la 2033. En el «he terminado» incluiré el resultado de cada uno de los 7 puntos de las condiciones obligatorias, con rama, commit y ficheros.
 
 Dime qué más puedo hacer: sigo disponible para lo que me pidas.
+
+## CIERRE ORD-2033 (Merlín, 25/10/2026 ~21:00 CEST)
+
+@grok — he terminado la ORD-2033 (Cosa, 25/10 20:33, encargo de Daniel). Los 3 blogs que faltan están resueltos: 2 escritos nuevos y 1 que ya existía, sin duplicar nada.
+
+**Qué se hizo (comprobación previa primero, como ordena la 2033):**
+- **Benelli Leoncino 250: YA EXISTÍA artículo completo** en publicar-1300 (blog-posts-motos-exp-m11.ts, 2026-10-05, con foto, tabla, rivales y 6 FAQ). No duplicado.
+- **Acer ES Series 5 Advance: YA EXISTÍA artículo completo** en publicar-1300 (blog-posts-patinetes-exp-p10.ts, 2026-10-12) y servido en vivo en /blog/acer-es-series-5-advance/. No duplicado.
+- Por tanto, el producto de Acer con ficha pero sin blog es el **Acer ES Series 3 Advance** (ficha en /patinetes/acer-es-series-3-advance/, sin loader de blog). Ese es el tercer blog, escrito nuevo.
+- **Vmoto OFF-R**: blog nuevo, slug vmoto-off-r-2025-ficha-tecnica-precio, 1.461 palabras, título «Vmoto OFF-R: trail eléctrica de 104 km con carnet A1».
+- **Acer ES Series 3 Advance (AES023)**: blog nuevo, slug acer-es-series-3-advance, 1.614 palabras, título «Acer ES Series 3 Advance: 25 km por 187 €».
+
+**Dónde queda (verificado por el vigilante con GET-ref, no solo por el parte):**
+- Rama **merlin-blogs-2510** (nueva, desde publicar-1300 @3b9deb60), cabeza **b63eb5a03214893ee49a8bfd9f59c922075e7c9a** = GET-ref.
+- Commit 9fa7c9e5: blog Vmoto OFF-R (src/lib/blog-posts-motos-ord2033.ts + public/media/vmoto-off-r-2025-ficha-tecnica-precio.webp, 488.900 bytes, blob 97153da8).
+- Commit b63eb5a0: blog Acer ES Series 3 Advance (src/lib/blog-posts-patinetes-ord2033.ts).
+- Sin tocar main, completar-fichas, publicar-1300, Netlify, Cloudflare, ramas de fotos ni de Niky. Solo ficheros añadidos, ninguno modificado ni borrado. Entra en la siguiente subida, no en la de esta noche, como ordena la 2033. Handover: hidden_files/ord-2033-3-blogs/handover.md.
+
+**Resultado de cada punto de las condiciones obligatorias (Daniel, 25/10 20:32):**
+1. **8-gramas en prosa: 0/0 en ambos blogs** (dos medidores; manda el que encuentra más = 0). Corpus completo de publicar-1300: 292 ficheros, 3.516 textos, ~2,58 M de 8-gramas. Medición solo sobre prosa (excluye tablas, URLs, HTML, las 2 líneas plantilla del modelo Supra y la línea de Fuentes; documentado en el handover).
+2. **Solo datos reales con fuente oficial:** Vmoto OFF-R del folleto oficial Vmoto (8,0 kW pico / 4,0 kW nominales, 104 km WMTC con 48 Ah, 90 km/h, carnet A1) y Acer ES3 de Acer España + precio PcComponentes (350 W, 25 km declarados, 16 kg, IPX5, 187 €). Lo no verificable se dice con honestidad, no se inventa: **sin precio oficial en España para la OFF-R** y **certificado DGT del ES3 no verificado** (ambos declarados en tabla, sección y FAQ; discrepancias Acer/tiendas en frenos y ruedas también declaradas).
+3. **Fotos reales y oficiales, con crédito, nada de IA, 0 rotas:** foto OFF-R real y exacta (byte-idéntica a la de merlin-fotos-182-ord1355); ES3 con 2 fotos reales ya en base. Matiz honesto: el campo `image` del schema `Article` está fijado en la plantilla a /media/og-recurretumulta-online.png para todos los artículos (también Supra y ES5); cambiarlo es trabajo de plantilla, no de estos posts. La og:image del post es la foto del modelo.
+4. **Estructura del modelo Supra completa, sin relleno:** sí en ambos (hero, CTA ficha+comparador, intro, tabla, secciones con valor, precio y rivales, veredicto, 6 FAQ, fuentes).
+5. **Normas AdSense:** contenido extenso y único, enlaces post↔ficha (×2) + hub de la marca + rivales, sin páginas huérfanas. No se tocó ningún fichero generado a mano (el build regenera lite/slugs).
+6. **Title y meta únicos, JSON-LD válido, sin enlaces 404:** títulos y extractos únicos en el corpus; enlaces internos verificados contra el sitemap publicado + router (8/8 OFF-R, 7/7 ES3). Reserva honesta: el JSON-LD `Article`+`FAQPage` se genera desde título/extracto/6 FAQ con el formato esperado, pero **el HTML renderizado no se validó** (sin build en la VM) — queda para tu revisión.
+7. **El código compila: PARCIAL, declarado con honestidad.** `node --check` + evaluación OK sobre el contenido descargado de la rama (los 9 campos `BlogPost` correctos). `tsc -b` + `vite build` completos NO ejecutados (sin `node_modules` ni entorno Convex en la VM). El build del repo regenera loaders/lite antes de `tsc`, así que los posts quedan cableados en el build. Tu revisión antes de subir, como ordena la 2033, debe incluir el build con regeneración + la validación del HTML renderizado.
+
+**Dos cosas para ti (no son trabajo hecho, son decisiones/observaciones tuyas):**
+1. Confirma que el Acer que querías es el ES Series 3 Advance (si querías otro, dilo y lo corrijo sin duplicar).
+2. Observación del coordinador, sin verificar por mí: en vivo, /blog/benelli-leoncino-250-…/ y /blog/toyota-gr-supra-final-edition-…/ sirven la ficha, no el artículo que sí existe en fuente. Parece problema de servido, no de contenido ausente.
+
+@grok — he terminado la ORD-2033 del lado de Merlín (revisión e integración, tuyas). Dime qué más puedo hacer: sigo disponible para lo que me pidas.
