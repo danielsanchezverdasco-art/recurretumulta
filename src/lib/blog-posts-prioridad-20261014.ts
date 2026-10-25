@@ -3306,8 +3306,8 @@ Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 
   },
   {
     slug: "honda-e-precio-ficha-tecnica",
-    title: "Honda e: el urbano eléctrico que se adelantó a su tiempo",
-    excerpt: "El Honda e descatalogado ronda los 34.000 € de ocasión: 154 CV, 222 km WLTP y un interior que sigue sorprendiendo. Qué conviene valorar.",
+    title: "Honda e: el urbano eléctrico con carácter, de ocasión",
+    excerpt: "El Honda e descatalogado ronda los 34.000 € de ocasión: 154 CV, 222 km WLTP y un interior que sigue sorprendiendo. Qué valorar.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 4,
@@ -3328,15 +3328,15 @@ Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 
 
 ## Un coche pequeño que quería cambiar las reglas
 
-El Honda e llegó al mercado con una propuesta poco habitual: un urbano eléctrico que no competía en autonomía ni en precio, sino en diseño y en experiencia a bordo. Su carta de presentación eran las pantallas que recorrían todo el salpicadero de lado a lado, los retrovisores por cámara y unas formas redondeadas que recordaban a los Honda clásicos. Era, deliberadamente, un coche con carácter antes que un electrodoméstico con ruedas.
+Pocos urbanos eléctricos se presentaron como el Honda e: no presumía de autonomía ni de precio, sino de diseño y de vida a bordo. A lo largo del salpicadero corrían pantallas de lado a lado, los retrovisores eran cámaras y las formas redondeadas recordaban a los Honda clásicos. Fue un coche con carácter antes que un electrodoméstico con ruedas, y eso era deliberado.
 
-Ese planteamiento tiene hoy una segunda vida en el mercado de ocasión, donde se piden alrededor de 34.000 €. Es una estimación recogida de los últimos anuncios de ocasión españoles, sin respaldo oficial, y hay que leerla con cautela: el modelo está descatalogado y cada unidad depende de su año, kilometraje y estado de la batería.
+Hoy esa apuesta vive una segunda vida de ocasión, con precios alrededor de 34.000 €. Cifra a leer con cautela: es una estimación de los últimos anuncios españoles, sin respaldo oficial. Además el modelo está descatalogado, así que cada unidad depende de su año, su kilometraje y el estado de su batería.
 
 ## Qué ofrece en cifras
 
-La versión de referencia entrega 154 CV (113 kW) y 315 Nm de par, con tracción trasera y tarda 8,3 segundos en llegar a 100 km/h desde parado. Su punta es de 145 km/h, más que suficiente para su uso natural. La batería es de 35,5 kWh y la autonomía homologada WLTP es de 222 km: una cifra modesta incluso para su época, que define claramente su territorio, la ciudad y el extrarradio, no los viajes largos.
+El motor de referencia da 154 CV (113 kW) y 315 Nm, mueve las ruedas traseras y acelera de 0 a 100 km/h en 8,3 segundos. La punta, 145 km/h, sobra para el uso previsto. Y la batería de 35,5 kWh homologa 222 km WLTP: modesta incluso para su época, y marca su territorio, ciudad y extrarradio, no viajes largos.
 
-Mide 3.894 mm de largo, tiene un maletero de 171 litros y 4 plazas. Es un coche para dos personas en el día a día y cuatro en trayectos cortos, no un familiar. Quien busque un único coche para todo, probablemente deba mirar otra cosa; quien busque un segundo coche urbano con personalidad, aquí tiene un candidato serio.
+Sus medidas son 3.894 mm, 171 litros de maletero y 4 plazas. Para dos personas en el día a día va sobrado, y para cuatro en trayectos cortos también, pero no es un familiar. Como único coche para todo, mejor mirar otra cosa; como segundo coche urbano con personalidad, es un candidato serio.
 
 ## Ficha rápida
 
@@ -3356,33 +3356,33 @@ Mide 3.894 mm de largo, tiene un maletero de 171 litros y 4 plazas. Es un coche 
 
 ## Del prototipo a la calle
 
-La historia del Honda e empezó en 2017 con el Urban EV Concept, un prototipo que entusiasmó por su diseño retrofuturista. El modelo de producción llegó en 2019 manteniendo gran parte de aquel encanto, incluidas las pantallas laterales y los retrovisores por cámara. En 2020 obtuvo 4 estrellas en la prueba EuroNCAP, y en 2023 se despidió del mercado tras unos últimos años de ventas discretas.
+Todo empezó en 2017 con el Urban EV Concept, un prototipo que entusiasmó por su aire retrofuturista. El coche de serie llegó en 2019 conservando gran parte de aquel encanto, pantallas laterales y retrovisores por cámara incluidos. En 2020 logró 4 estrellas EuroNCAP, y en 2023 se despidió del mercado tras unos últimos años de ventas discretas.
 
-Esa trayectoria explica su situación actual: no fue un superventas, y eso lo convierte en un coche relativamente exclusivo de ocasión, pero también en un modelo con una red de unidades limitada. Antes de comprar, conviene comprobar el estado de la batería y la disponibilidad de recambios específicos, como los retrovisores por cámara.
+Ese recorrido explica su presente: no fue un superventas, así que de ocasión resulta relativamente exclusivo, pero también escaso. Antes de comprar, revisa el estado de la batería y si hay recambios específicos disponibles, como los retrovisores por cámara.
 
 ## Mantenimiento y garantía
 
-La garantía orientativa, por analogía con el Jazz y el Civic, es de 3 años, con 8 años para la batería. Y el mantenimiento, siguiendo el plan del Jazz e:HEV, es el propio de un eléctrico: una revisión al año y ningún cuidado de motor térmico, lo que simplifica y abarata el paso por el taller.
+Por analogía con el Jazz y el Civic, la garantía orientativa es de 3 años, y de 8 años para la batería. El mantenimiento, según el plan del Jazz e:HEV, es el de un eléctrico: revisión anual, sin motor térmico que cuidar, lo que simplifica y abarata el taller.
 
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Honda e 2023?
-En torno a 34.000 € según los anuncios de ocasión españoles, una cifra orientativa. El modelo está descatalogado.
+Cerca de 34.000 € según los anuncios de ocasión españoles, cifra orientativa; el modelo está descatalogado.
 
 ### ¿Cuántos caballos tiene?
-154 CV (113 kW) en la versión que toma esta ficha como referencia.
+154 CV (113 kW) en la versión de referencia que usa esta ficha.
 
 ### ¿Se vende el Honda e en España?
-Ya no se vende nuevo: solo se encuentra de ocasión.
+Nuevo ya no: solo queda el mercado de ocasión.
 
 ### ¿Qué autonomía tiene?
-222 km WLTP con la batería de 35,5 kWh. Es un urbano, no un coche de viajes largos.
+222 km en ciclo WLTP, con 35,5 kWh: un urbano, no un coche de viajes largos.
 
 ### ¿Qué EuroNCAP tiene?
-4 estrellas en la prueba de 2020.
+4 estrellas en la prueba de 2020, sin cambios.
 
 ### ¿Merece la pena comprar un Honda e?
-Depende del uso: como urbano con carácter y segundo coche, sus argumentos son sólidos; como único coche familiar o para viajar, su autonomía y su maletero se quedan cortos. Compara con 2 o 3 rivales antes de decidir.
+Como urbano con carácter y segundo coche, convence; como único coche familiar o para viajar, autonomía y maletero se quedan cortos. Míralo frente a 2 o 3 rivales antes de decidir.
 
 ## También te puede interesar
 
@@ -3873,8 +3873,8 @@ Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 
   },
   {
     slug: "hyundai-i30-fastback-n-precio-ficha-tecnica",
-    title: "Hyundai i30 Fastback N precio en España: desde 42.000 €",
-    excerpt: "¿Cuánto cuesta el Hyundai i30 Fastback N? Desde 42.000 €, 280 CV. Versiones, consumo, opiniones y qué conviene comprar. Historia y rivales incluidos.",
+    title: "Hyundai i30 Fastback N: precio desde 42.000 €, 280 CV",
+    excerpt: "El Hyundai i30 Fastback N 2024, berlina deportiva de 280 CV: precio aproximado, ficha, consumo y qué revisar antes de comprarlo.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 4,
@@ -3893,7 +3893,7 @@ Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 
 
 **Ficha completa del modelo:** <a href=/coches/hyundai-i30-fastback-n-2024/>Hyundai i30 Fastback N 2024 — ficha técnica</a>
 
-Hyundai i30 Fastback N 2024: Berlina deportiva. Precio aproximado no oficial: desde ~42.000 € en España. Fuente de la aproximación: listados del mercado español (comparadores).
+La variante fastback del i30 N condensa la apuesta deportiva de Hyundai: una berlina de cinco puertas con 280 CV, cambio manual o DCT, pensada para usar a diario sin renunciar a las sensaciones. En España se anuncia desde unos 42.000 €, cifra aproximada y no oficial que procede de los listados del mercado español (comparadores).
 
 ## Ficha rápida
 
@@ -3922,10 +3922,7 @@ Hyundai i30 Fastback N 2024: Berlina deportiva. Precio aproximado no oficial: de
 
 ## Historia del modelo
 
-- **2007** — Nace el i30. 
-- **2017** — Hyundai presenta el i30 N, primer N de la marca. 
-- **2018** — Llega el i30 Fastback N. 
-- **2024** — i30 Fastback N con 280 CV y Performance Pack.
+La saga arranca en 2007 con el primer i30. Diez años después, en 2017, Hyundai estrenó el i30 N, el modelo con el que inauguró su familia deportiva N. Al año siguiente apareció la carrocería fastback, y la entrega de 2024 se ofrece con 280 CV y el Performance Pack.
 
 ## Tabla completa
 
@@ -3948,15 +3945,15 @@ Hyundai i30 Fastback N 2024: Berlina deportiva. Precio aproximado no oficial: de
 
 ## Mantenimiento
 
-Mantenimiento orientativo (modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Hyundai i30 N (misma marca).
+Como referencia orientativa, tomada del plan del i30 N de la misma marca, la revisión se plantea cada año o cada 15.000 km.
 
 ## Garantía
 
-Hyundai España: 5 años sin límite de km. Fuente: garantía Hyundai España para este modelo.
+Hyundai España cubre este modelo durante 5 años, sin límite de kilómetros, según la garantía indicada para él.
 
 ## EuroNCAP
 
-Hyundai i30 base: 5 estrellas EuroNCAP (2017). Variante N sin prueba específica.
+La puntuación de 5 estrellas EuroNCAP de 2017 corresponde al i30 base; la variante N no cuenta con una prueba propia.
 
 ## Enlaces internos
 
@@ -3973,27 +3970,27 @@ Hyundai i30 base: 5 estrellas EuroNCAP (2017). Variante N sin prueba específica
 
 ### ¿Cuánto cuesta el Hyundai i30 Fastback N 2024?
 
-Precio aproximado no oficial: desde ~42.000 € en España. Fuente de la aproximación: listados del mercado español (comparadores).
+Unos 42.000 € como punto de partida aproximado y no oficial en España, según los listados del mercado español (comparadores).
 
 ### ¿Cuántos CV tiene el Hyundai i30 Fastback N 2024?
 
-280 CV (206 kW) en la versión de referencia de esta ficha.
+280 CV, equivalentes a 206 kW, según la versión que toma de referencia esta ficha.
 
 ### ¿Se vende el Hyundai i30 Fastback N en España?
 
-Sí, se vende en España.
+Sí, está a la venta en España.
 
 ### ¿Qué EuroNCAP tiene el Hyundai i30 Fastback N?
 
-Hyundai i30 base: 5 estrellas EuroNCAP (2017). Variante N sin prueba específica.
+5 estrellas EuroNCAP (2017) para el i30 base; la variante N no tiene prueba específica.
 
 ### ¿Qué garantía tiene el Hyundai i30 Fastback N?
 
-Hyundai España: 5 años sin límite de km. Fuente: garantía Hyundai España para este modelo.
+5 años sin límite de kilómetros, con Hyundai España.
 
 ### ¿Merece la pena comprar el Hyundai i30 Fastback N?
 
-Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
+Míralo frente a 2 o 3 rivales de su categoría antes de decidir: precio, consumo, maletero y garantía son los cuatro puntos que más cambian la elección. Aquí tienes los datos; la decisión final es tuya.
 
 *Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
 
@@ -4002,8 +3999,8 @@ Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 
   },
   {
     slug: "hyundai-kona-n-precio-ficha-tecnica",
-    title: "Hyundai Kona N precio en España: desde 40.000 €, 280 CV",
-    excerpt: "¿Cuánto cuesta el Hyundai Kona N? Desde 40.000 €, 280 CV. Versiones, consumo, opiniones y qué conviene comprar. Historia y rivales incluidos.",
+    title: "Hyundai Kona N: precio desde 40.000 € y 280 CV",
+    excerpt: "El Hyundai Kona N 2023, SUV deportivo de 280 CV ya descatalogado: últimos precios, ficha y qué comprobar antes de comprarlo.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 4,
@@ -4022,7 +4019,7 @@ Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 
 
 **Ficha completa del modelo:** <a href=/coches/hyundai-kona-n-2023/>Hyundai Kona N 2023 — ficha técnica</a>
 
-Hyundai Kona N 2023: SUV deportivo. Precio aproximado no oficial: desde ~40.000 € en España (últimos precios — descatalogado). Fuente de la aproximación: últimos listados del mercado español (comparadores).
+El Kona N fue el SUV deportivo de Hyundai: 280 CV en formato compacto, a la venta en Europa desde 2022 y ya descatalogado, por lo que los precios que circulan son los últimos listados. En España se anuncia desde unos 40.000 €, cifra aproximada y no oficial procedente de los últimos listados del mercado español (comparadores).
 
 ## Ficha rápida
 
@@ -4051,10 +4048,7 @@ Hyundai Kona N 2023: SUV deportivo. Precio aproximado no oficial: desde ~40.000 
 
 ## Historia del modelo
 
-- **2017** — Nace el Kona. 
-- **2021** — Hyundai presenta el Kona N con 280 CV. 
-- **2022** — Kona N a la venta en Europa. 
-- **2023** — Últimos Kona N antes de la nueva Kona (sin versión N).
+La historia empieza en 2017 con el primer Kona. Cuatro años después Hyundai desveló el Kona N de 280 CV, comercializado en Europa en 2022. Las últimas unidades son de 2023: la Kona nueva llegó sin variante N.
 
 ## Tabla completa
 
@@ -4077,15 +4071,15 @@ Hyundai Kona N 2023: SUV deportivo. Precio aproximado no oficial: desde ~40.000 
 
 ## Mantenimiento
 
-Mantenimiento orientativo (modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Hyundai i30 N (misma marca).
+La referencia orientativa, heredada del programa de mantenimiento del i30 N de la misma marca, marca una revisión anual o cada 15.000 km.
 
 ## Garantía
 
-Hyundai España: 5 años sin límite de km. Fuente: garantía Hyundai España para este modelo.
+Hyundai España lo cubre 5 años, sin tope de kilómetros, según la garantía señalada para este modelo.
 
 ## EuroNCAP
 
-Hyundai Kona base (generación 2017-2023, la del Kona N): 5 estrellas EuroNCAP (2017). Variante N sin prueba específica. Corrección 13/10: la atribución anterior a la nueva Kona 2023 era errónea.
+Las 5 estrellas EuroNCAP de 2017 son de la generación 2017-2023 del Kona base, la misma del Kona N; la variante N no tiene prueba propia. Corrección 13/10: la atribución anterior a la nueva Kona 2023 era errónea.
 
 ## Enlaces internos
 
@@ -4102,27 +4096,27 @@ Hyundai Kona base (generación 2017-2023, la del Kona N): 5 estrellas EuroNCAP (
 
 ### ¿Cuánto cuesta el Hyundai Kona N 2023?
 
-Precio aproximado no oficial: desde ~40.000 € en España (últimos precios — descatalogado). Fuente de la aproximación: últimos listados del mercado español (comparadores).
+Desde unos 40.000 €, últimos precios aproximados y no oficiales en España, con el modelo ya descatalogado, según los últimos listados del mercado español (comparadores).
 
 ### ¿Cuántos CV tiene el Hyundai Kona N 2023?
 
-280 CV (206 kW) en la versión de referencia de esta ficha.
+280 CV (206 kW) según la versión de referencia que usa esta ficha.
 
 ### ¿Se vende el Hyundai Kona N en España?
 
-Sí, se vende en España.
+Estuvo a la venta en España; hoy solo quedan los últimos precios porque está descatalogado.
 
 ### ¿Qué EuroNCAP tiene el Hyundai Kona N?
 
-Hyundai Kona base (generación 2017-2023, la del Kona N): 5 estrellas EuroNCAP (2017). Variante N sin prueba específica. Corrección 13/10: la atribución anterior a la nueva Kona 2023 era errónea.
+5 estrellas EuroNCAP (2017) de la generación 2017-2023 del Kona base, la misma del Kona N; la variante N no tiene prueba propia. Corrección 13/10: la atribución anterior a la nueva Kona 2023 era errónea.
 
 ### ¿Qué garantía tiene el Hyundai Kona N?
 
-Hyundai España: 5 años sin límite de km. Fuente: garantía Hyundai España para este modelo.
+Cobertura quinquenal sin límite de kilómetros, con Hyundai España.
 
 ### ¿Merece la pena comprar el Hyundai Kona N?
 
-Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
+Antes de decidir, míralo frente a 2 o 3 rivales de su categoría: precio, consumo, maletero y garantía. Los datos están en esta ficha; la elección es tuya.
 
 *Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
 
@@ -4513,8 +4507,8 @@ Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 
   },
   {
     slug: "jeep-compass-trailhawk-precio-ficha-tecnica",
-    title: "Jeep Compass Trailhawk: el SUV compacto que sale del asfalto",
-    excerpt: "El Compass Trailhawk 4xe combina 240 CV con tracción total y unos 45 km eléctricos: desde unos 45.000 €. Qué lo distingue del resto de la gama.",
+    title: "Jeep Compass Trailhawk: el 4xe que sale del asfalto",
+    excerpt: "El Jeep Compass Trailhawk 4xe: 240 CV híbridos enchufables, tracción total y 45 km eléctricos. Precio, ficha y qué mirar.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 4,
@@ -4535,13 +4529,13 @@ Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 
 
 ## Trailhawk significa algo en Jeep
 
-Dentro de la gama Compass, el apellido Trailhawk no es un acabado estético: es la versión pensada para salir del asfalto de verdad, con tracción total, modos de conducción para terreno y una puesta a punto distinta. En su versión actual, esa vocación se combina con la hibridación enchufable, y el resultado es un SUV compacto que puede hacer la compra entre semana y meterse por una pista el fin de semana con el mismo coche.
+Trailhawk, en la gama Compass, no es un acabado estético: es la versión preparada para salir del asfalto en serio, con tracción total, modos para terreno y puesta a punto propia. Hoy esa vocación va unida a la hibridación enchufable, y el resultado es un SUV compacto válido para la compra entre semana y para una pista el fin de semana sin cambiar de coche.
 
-La mecánica es un 1.3 T4 4xe híbrido enchufable con 240 CV (176 kW) y 270 Nm de par, cambio automático de 6 velocidades y tracción total. Alcanza los 100 km/h desde parado en 7,3 segundos y su punta es de 200 km/h. La batería, de 11,4 kWh, permite unos 45 km en modo eléctrico según el ciclo WLTP, y el consumo homologado ronda los 2,0 l/100 km en ese mismo ciclo, una cifra que solo se cumple si se recarga con frecuencia.
+El motor es un 1.3 T4 4xe híbrido enchufable: 240 CV (176 kW), 270 Nm, cambio automático de 6 velocidades y tracción total. El 0 a 100 km/h lo hace en 7,3 segundos y la punta es de 200 km/h. La batería de 11,4 kWh da unos 45 km eléctricos en ciclo WLTP, y el consumo homologado ronda los 2,0 l/100 km en ese ciclo, cifra que solo se cumple recargando con frecuencia.
 
 ## Un tamaño para todo uso
 
-Mide 4.404 mm de largo, tiene 5 plazas y un maletero de 420 litros. Son medidas de SUV compacto familiar: cabe en un garaje normal, carga con la compra semanal y con el equipaje de vacaciones sin apuros, y en ciudad no se siente un coche grande. La contrapartida de la versión Trailhawk frente a un Compass convencional está en el enfoque: aquí se prioriza la capacidad fuera del asfalto sobre el último gramo de eficiencia.
+Son medidas de SUV compacto familiar: 4.404 mm de largo, 5 plazas y 420 litros de maletero. Entra en un garaje normal, admite la compra semanal y el equipaje de vacaciones sin apuros, y en ciudad no parece un coche grande. Frente a un Compass convencional, el Trailhawk invierte la prioridad: manda la capacidad fuera del asfalto, no el último gramo de eficiencia.
 
 ## Ficha rápida
 
@@ -4562,30 +4556,30 @@ Mide 4.404 mm de largo, tiene 5 plazas y un maletero de 420 litros. Son medidas 
 
 ## Una gama con historia
 
-El Compass nació en 2006 y la segunda generación, presentada en 2017, obtuvo 5 estrellas en la prueba EuroNCAP de aquel año. En 2020 llegó la versión 4xe híbrida enchufable, que añadió el Trailhawk como variante más campera. Conviene matizar un dato: las 5 estrellas corresponden al Compass base de 2017, no a una prueba específica del Trailhawk, que no tiene evaluación propia.
+El Compass nació en 2006. Su segunda generación, presentada en 2017, consiguió 5 estrellas EuroNCAP aquel año, y en 2020 llegó el 4xe híbrido enchufable, que sumó el Trailhawk como variante más campera. Matiz importante: esas 5 estrellas son del Compass base de 2017, no de una prueba propia del Trailhawk, sin evaluación específica.
 
-Como referencia se manejan unos 45.000 € en España, una estimación extraída de los anuncios españoles actuales, sin respaldo oficial. Como en cualquier híbrido enchufable, el coste real de uso depende de cuánto se recargue: sin enchufe habitual, el consumo real se aleja mucho del homologado.
+De referencia se barajan unos 45.000 € en España, según los anuncios españoles actuales, sin respaldo oficial. Y como en cualquier híbrido enchufable, el gasto real depende de cuánto se recargue: sin enchufe habitual, el consumo real queda muy lejos del homologado.
 
 ## Garantía y revisiones
 
-Por analogía con el Renegade y el Compass, la garantía orientativa es de 2 años según la fuente de la ficha. Y el mantenimiento de un 4xe suma a lo habitual de un gasolina la revisión del sistema híbrido y de la batería, así que conviene preguntar qué incluye cada revisión y qué cobertura tiene la batería con los años.
+Tomando como referencia el Renegade y el Compass, la garantía orientativa es de 2 años según la fuente de la ficha. El mantenimiento de un 4xe añade a lo habitual de un gasolina revisar el sistema híbrido y la batería: conviene preguntar qué entra en cada revisión y qué cobertura tiene la batería con los años.
 
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Jeep Compass Trailhawk?
-En torno a 45.000 € en España, precio aproximado y no oficial.
+Cerca de 45.000 € en España, precio aproximado y no oficial.
 
 ### ¿Cuántos caballos tiene?
-240 CV, con 270 Nm de par y tracción total.
+240 CV con 270 Nm de par y tracción total.
 
 ### ¿Cuántos kilómetros eléctricos hace?
-Unos 45 km WLTP con la batería de 11,4 kWh, siempre que se recargue con regularidad.
+Alrededor de 45 km WLTP con 11,4 kWh de batería, recargando con regularidad.
 
 ### ¿Tiene 5 estrellas EuroNCAP el Trailhawk?
-No tiene prueba propia: las 5 estrellas de 2017 corresponden al Compass base.
+No tiene prueba propia: las 5 estrellas de 2017 pertenecen al Compass base.
 
 ### ¿Merece la pena frente a un Compass normal?
-Si el uso fuera del asfalto es ocasional, un Compass convencional cubre de sobra. El Trailhawk compensa cuando las pistas, la nieve o el barro forman parte habitual de la rutina.
+Para un uso ocasional fuera del asfalto, un Compass convencional cubre de sobra. El Trailhawk compensa cuando pistas, nieve o barro entran en la rutina habitual.
 
 ## También te puede interesar
 
@@ -4730,8 +4724,8 @@ Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 
   },
   {
     slug: "jeep-grand-cherokee-l-precio-ficha-tecnica",
-    title: "Jeep Grand Cherokee L precio: desde 60.000 $, 293 CV",
-    excerpt: "Jeep Grand Cherokee L: precio desde 60.000 $, 293 CV. No se vende en España. Versiones, consumo y qué conviene comprar. Historia y rivales incluidos.",
+    title: "Jeep Grand Cherokee L: 7 plazas desde 60.000 $",
+    excerpt: "El Jeep Grand Cherokee L 2025, SUV grande de 7 plazas y 293 CV: precio en EE.UU., ficha y por qué no se vende en España.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 4,
@@ -4750,7 +4744,7 @@ Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 
 
 **Ficha completa del modelo:** <a href=/coches/jeep-grand-cherokee-l-2025/>Jeep Grand Cherokee L 2025 — ficha técnica</a>
 
-Jeep Grand Cherokee L 2025: SUV grande 7 plazas. Precio aproximado no oficial: desde ~60.000 $ en EE.UU. No se vende en España (en España solo 4xe corto). Fuente de la aproximación: listados del mercado estadounidense (comparadores).
+El Grand Cherokee L 2025 es el SUV grande de 7 plazas de Jeep. En EE.UU. se anuncia desde unos 60.000 $, cifra aproximada y no oficial de los listados del mercado estadounidense (comparadores). No se vende en España, donde solo está el 4xe corto.
 
 ## Ficha rápida
 
@@ -4779,10 +4773,7 @@ Jeep Grand Cherokee L 2025: SUV grande 7 plazas. Precio aproximado no oficial: d
 
 ## Historia del modelo
 
-- **1992** — Nace el Grand Cherokee. 
-- **2021** — Nueva generación WL con versión L de 7 plazas. 
-- **2022** — Grand Cherokee L a la venta en EE.UU. 
-- **2025** — Grand Cherokee L con gama V6 y 4xe en otras versiones.
+El Grand Cherokee nació en 1992. La generación WL, con versión L de 7 plazas, llegó en 2021; el L se puso a la venta en EE.UU. en 2022, y la gama de 2025 combina V6 y 4xe en otras versiones.
 
 ## Tabla completa
 
@@ -4805,15 +4796,15 @@ Jeep Grand Cherokee L 2025: SUV grande 7 plazas. Precio aproximado no oficial: d
 
 ## Mantenimiento
 
-Mantenimiento orientativo (modelo similar Jeep Grand Cherokee, misma marca): revisión anual. Fuente: plan de mantenimiento Jeep Grand Cherokee (misma marca).
+Como referencia orientativa, tomada del plan del Grand Cherokee de la misma marca, la revisión es anual.
 
 ## Garantía
 
-Garantía del fabricante en modelos parecidos (Jeep Grand Cherokee, Jeep Wrangler): 3 años/36.000 mi. Fuente: garantía Jeep EE.UU. en modelos parecidos.
+En modelos parecidos (Grand Cherokee, Wrangler), la garantía del fabricante es de 3 años o 36.000 millas, según la garantía de Jeep EE.UU. para modelos parecidos.
 
 ## EuroNCAP
 
-Sin datos EuroNCAP (el Grand Cherokee L no tiene prueba EuroNCAP).
+Sin datos EuroNCAP: el Grand Cherokee L no tiene prueba EuroNCAP.
 
 ## Enlaces internos
 
@@ -4830,27 +4821,27 @@ Sin datos EuroNCAP (el Grand Cherokee L no tiene prueba EuroNCAP).
 
 ### ¿Cuánto cuesta el Jeep Grand Cherokee L 2025?
 
-Precio aproximado no oficial: desde ~60.000 $ en EE.UU. No se vende en España (en España solo 4xe corto). Fuente de la aproximación: listados del mercado estadounidense (comparadores).
+Desde unos 60.000 $ aproximados y no oficiales en EE.UU. No se vende en España (en España solo 4xe corto), según los listados del mercado estadounidense (comparadores).
 
 ### ¿Cuántos CV tiene el Jeep Grand Cherokee L 2025?
 
-293 CV (215 kW) en la versión de referencia de esta ficha.
+293 CV (215 kW) en la versión de referencia de la ficha.
 
 ### ¿Se vende el Jeep Grand Cherokee L en España?
 
-No se vende oficialmente en España. Esta ficha lo dice claramente y usa el precio del mercado donde se vende.
+No, oficialmente no se vende en España: esta ficha usa el precio del mercado donde sí se vende.
 
 ### ¿Qué EuroNCAP tiene el Jeep Grand Cherokee L?
 
-Sin datos EuroNCAP (el Grand Cherokee L no tiene prueba EuroNCAP).
+Sin datos EuroNCAP: el Grand Cherokee L no tiene prueba EuroNCAP.
 
 ### ¿Qué garantía tiene el Jeep Grand Cherokee L?
 
-Garantía del fabricante en modelos parecidos (Jeep Grand Cherokee, Jeep Wrangler): 3 años/36.000 mi. Fuente: garantía Jeep EE.UU. en modelos parecidos.
+En modelos parecidos (Grand Cherokee, Wrangler), la garantía del fabricante es de 3 años o 36.000 millas, según la garantía de Jeep EE.UU. para modelos parecidos.
 
 ### ¿Merece la pena comprar el Jeep Grand Cherokee L?
 
-Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
+Compáralo con 2 o 3 rivales de su categoría antes de decidir —precio, consumo, maletero y garantía— y decide con los datos de esta ficha en la mano.
 
 *Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
 
@@ -5375,8 +5366,8 @@ Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 
   },
   {
     slug: "kia-soul-ev-precio-ficha-tecnica",
-    title: "Kia Soul EV: el eléctrico urbano con forma de cubo",
-    excerpt: "El Soul EV descatalogado ronda los 38.000 € de ocasión: 204 CV, 452 km WLTP y 7 años de garantía de referencia. Qué conviene mirar antes de comprarlo.",
+    title: "Kia Soul EV: 64 kWh y 452 km WLTP, de ocasión",
+    excerpt: "El Kia Soul EV descatalogado ronda los 38.000 € de ocasión: 204 CV, 64 kWh y 452 km WLTP. Qué revisar antes de comprarlo.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 4,
@@ -5397,15 +5388,15 @@ Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 
 
 ## Un coche que nunca quiso pasar desapercibido
 
-El Soul siempre fue un coche de formas cúbicas y carácter propio, y su versión eléctrica mantuvo esa personalidad cuando casi todos los eléctricos buscaban parecer lo mismo. Esa forma casi de caja tiene una ventaja práctica: un habitáculo aprovechable y una posición de conducción alta para un coche de 4.195 mm de largo, con 5 plazas y un maletero de 315 litros.
+Pocos eléctricos de su época se atrevieron a ser tan cúbicos como el Soul, y la versión eléctrica no renunció a esa seña: mantuvo el carácter propio cuando casi todos los demás buscaban pasar desapercibidos. La forma de caja, además de imagen, da espacio útil: el habitáculo se aprovecha bien y se conduce alto para un coche de 4.195 mm, con cinco plazas y 315 litros de maletero.
 
-En el mercado de ocasión, los anuncios de ocasión más recientes piden en torno a 38.000 €, una estimación sin carácter oficial. El modelo está descatalogado, así que cada unidad depende de su año, su kilometraje y el estado de su batería, que es el punto que más conviene revisar antes de comprar.
+De ocasión, los anuncios recientes rondan los 38.000 €, sin carácter oficial. Como el modelo está descatalogado, cada unidad vale según su año, su kilometraje y, sobre todo, el estado de su batería: ese es el punto a revisar antes de comprar.
 
 ## Una autonomía que sí sirve para viajar
 
-La versión de referencia monta un motor eléctrico delantero de 204 CV (150 kW) y 395 Nm de par, con cambio automático de una velocidad y tracción delantera. Necesita 7,9 segundos para llegar a 100 km/h desde parado y su punta es de 167 km/h, cifras más que suficientes para un uso familiar.
+El motor de referencia es eléctrico, delantero, de 204 CV (150 kW) y 395 Nm, con cambio automático de una sola velocidad y tracción delantera. El 0 a 100 km/h lo hace en 7,9 segundos y la punta es de 167 km/h: de sobra para una familia.
 
-Donde el Soul EV se desmarca de otros urbanos eléctricos es en la batería: 64 kWh que homologan 452 km en ciclo WLTP. Esa autonomía lo saca del papel de segundo coche urbano y lo convierte en un candidato para viajes, siempre que se planifiquen las paradas de carga. En uso real la cifra bajará, como en todos los eléctricos, pero el punto de partida es claramente superior al de los urbanos de batería pequeña.
+La batería es lo que lo separa de otros urbanos eléctricos: 64 kWh y 452 km WLTP homologados. Con esa autonomía deja de ser solo un segundo coche urbano y puede viajar, planificando las paradas de carga. En uso real bajará, como en cualquier eléctrico, pero parte claramente por encima de los urbanos de batería pequeña.
 
 ## Ficha rápida
 
@@ -5425,30 +5416,30 @@ Donde el Soul EV se desmarca de otros urbanos eléctricos es en la batería: 64 
 
 ## Del Soul de gasolina al eléctrico de 64 kWh
 
-El Soul nació en 2008 como un urbano de imagen rompedora. En 2014 llegó el primer Soul EV, y en 2019 la nueva generación eléctrica estrenó la batería de 64 kWh con los 452 km WLTP que definen al modelo. En 2024 se despidió de Europa, dejando un hueco que Kia cubre hoy con otros eléctricos de su gama.
+La gama Soul empezó en 2008 con un urbano de imagen rompedora. El primer Soul EV llegó en 2014, y la generación eléctrica de 2019 estrenó la batería de 64 kWh y los 452 km WLTP que definen al modelo. En 2024 salió de Europa, y Kia cubre hoy ese hueco con otros eléctricos de su gama.
 
-Esa historia importa al comprar de ocasión: las unidades más interesantes son las de la generación de 2019 en adelante, con la batería grande. Las anteriores, con menos autonomía, solo compensan si el precio es claramente inferior y el uso es estrictamente urbano.
+Al comprar de ocasión, esa historia pesa: interesan las unidades de 2019 en adelante, con la batería grande. Las anteriores, con menos autonomía, solo compensan con un precio claramente inferior y un uso estrictamente urbano.
 
 ## Mantenimiento y garantía
 
-Por analogía con el Niro EV y el EV6, la garantía orientativa llega a 7 años o 150.000 km, con la batería cubierta otros 7 años. El servicio, siguiendo el del Niro EV, es el habitual de un eléctrico: revisión anual sin cuidados de motor térmico. Antes de comprar, conviene pedir el informe del estado de la batería y confirmar qué parte de la garantía sigue vigente para esa unidad concreta, porque la garantía de 7 años de Kia es uno de los argumentos de compra más sólidos del modelo.
+Tomando como referencia el Niro EV y el EV6, la garantía orientativa es de 7 años o 150.000 km, y la batería queda cubierta otros 7 años. El servicio, como en el Niro EV, es el propio de un eléctrico: una revisión al año, sin motor térmico que cuidar. Antes de comprar, pide el informe del estado de la batería y confirma cuánta garantía le queda a esa unidad: los 7 años de Kia son de sus mejores argumentos.
 
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Kia Soul EV?
-En torno a 38.000 € según los anuncios de ocasión recientes, una cifra orientativa. Está descatalogado.
+Cerca de 38.000 € según los anuncios de ocasión recientes, cifra orientativa. Está descatalogado.
 
 ### ¿Cuántos caballos tiene?
-204 CV (150 kW), con 395 Nm de par.
+204 CV (150 kW), con un par de 395 Nm.
 
 ### ¿Qué autonomía tiene?
-452 km WLTP gracias a su batería de 64 kWh.
+452 km en ciclo WLTP, con 64 kWh de batería.
 
 ### ¿Tiene prueba EuroNCAP?
-No hay datos EuroNCAP específicos para el Soul EV.
+No hay datos EuroNCAP específicos para el Soul EV, sin cambios.
 
 ### ¿Merece la pena comprar un Soul EV?
-Si se busca un eléctrico de ocasión con autonomía real para viajar y una garantía de referencia larga, es un candidato serio. Su maletero de 315 litros y su imagen poco discreta son los dos puntos que conviene valorar antes de decidir.
+Para quien busque un eléctrico de ocasión con autonomía de viaje y una garantía larga de referencia, es un candidato serio. Antes de decidir, valora su maletero de 315 litros y su imagen poco discreta.
 
 ## También te puede interesar
 
@@ -5966,8 +5957,8 @@ Mantenimiento: revisión anual o cada 15.000 km. Fuente: Lexus España (programa
 
   {
     slug: "aprilia-rs-125-2026",
-    title: "Aprilia RS 125 2026: la deportiva A1 que mira a las grandes",
-    excerpt: "RS 125 2026 para el carnet A1: 15 CV, 144 kg y unos 5.750 € aproximados. Qué ofrece la deportiva pequeña de Aprilia y qué mirar antes de comprarla.",
+    title: "Aprilia RS 125 2026: 15 CV para el carnet A1",
+    excerpt: "La Aprilia RS 125 2026, deportiva A1 de 15 CV, 144 kg y unos 5.750 € aproximados: qué ofrece y qué mirar antes de comprarla.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 4,
@@ -5979,7 +5970,75 @@ Mantenimiento: revisión anual o cada 15.000 km. Fuente: Lexus España (programa
       "deportiva a1 2026",
       "aprilia rs 125 2026"
     ],
-    content: "<img src=/media/aprilia-rs-125-2026-hero.webp alt=Aprilia RS 125 2026, moto Deportiva para el carnet A1>\n\n*Foto: https://amp-weissenborn.de/motorrad-modell-aprilia-rs-125-10645-2026. No es foto oficial del fabricante; licencia desconocida.*\n\n**Ficha completa:** <a href=/motos/aprilia-rs-125-2026/>Ver la ficha completa de la RS 125 2026</a>\n\n## Una 125 con ambiciones de moto grande\n\nHay motos de 125 que se conforman con mover al piloto por la ciudad y hay otras que quieren parecerse a las deportivas de verdad. La RS 125 2026 pertenece al segundo grupo: Aprilia la presenta como el primer paso hacia su mundo racing para quien solo tiene el carnet A1, con una estética heredada de las RS de mayor cilindrada y unas cifras que respetan al milímetro el límite legal de la categoría, 15 CV.\n\nEl motor es un monocilíndrico de 124,2 cc que entrega esos 15 CV (11,0 kW) y 12 Nm de par. No es una moto para buscar la velocidad punta, sino para disfrutar del paso por curva: pesa 144 kg, lleva un depósito de 14,5 litros y un asiento a 820 mm del suelo, una altura que exige cierta soltura al parar pero que en marcha se traduce en una postura deportiva de verdad, no impostada.\n\n## Precio: qué significa ese 5.750 €\n\nPara España se habla de unos 5.750 €, una estimación sin carácter oficial que sale de la tarifa Piaggio para la RS 125 E5+ y que puede moverse con promociones, comunidad autónoma y gastos de matriculación. Antes de firmar nada conviene confirmarlo con Aprilia o en un concesionario, y preguntar qué incluye: la diferencia entre un precio con matriculación y otro sin ella cambia la factura final más de lo que parece.\n\n## Un apellido con historia\n\nLa RS 125 no nació ayer. La primera generación, de dos tiempos, apareció en 1992 y se convirtió en un icono para toda una generación de jóvenes motoristas. En 2018 llegó la generación actual de cuatro tiempos, adaptada a Euro 4, y en 2021 se actualizó a Euro 5 con la versión GP Replica, que añade la decoración de competición que muchos compradores buscan. Comprar una RS 125 hoy es, también, comprar un pedazo de esa historia.\n\n## Ficha rápida\n\n| Dato | Valor |\n|---|---|\n| Motor | 124,2 cc, 15 CV (11,0 kW), 12 Nm |\n| Peso | 144 kg |\n| Depósito | 14,5 l |\n| Asiento | 820 mm |\n| Carnet | A1 |\n| Precio | ~5.750 € (aproximado, no oficial) |\n\n<img src=/media/aprilia-rs-125-2026-2.webp alt=Aprilia RS 125 2026, vista lateral>\n\n*Foto: https://www.motopark.cz/aprilia-rs-125-2025-2026-cyanide-yellow-p763170/. No es foto oficial del fabricante; licencia desconocida.*\n\n## Mantenimiento y garantía: lo que conviene saber\n\nSin dato oficial para este modelo concreto, el mantenimiento orientativo sigue el esquema habitual de Aprilia: revisiones programadas en el primer millar, a los diez mil y a los veinte mil kilómetros, con la cadena revisada cada 1.000 km entre lubricación y tensado. Es una moto sencilla de mantener, pero la cadena y los neumáticos deportivos piden más atención que en un scooter.\n\nEn garantía, la garantía de referencia de Piaggio cubre 3 años de serie, ampliable hasta 4 años con la extensión comercial. Conviene pedir por escrito qué cubre la ampliación antes de pagarla: en una moto de este tipo, la letra pequeña importa tanto como el precio.\n\n## Preguntas frecuentes\n\n### ¿Cuánto cuesta la Aprilia RS 125 2026 en España?\nEn torno a 5.750 €, precio aproximado no oficial según la tarifa Piaggio para la RS 125 E5+. Confírmalo en concesionario antes de comprar.\n\n### ¿Qué potencia tiene?\n15 CV (11,0 kW) con 124,2 cc y 12 Nm de par: el máximo que permite el carnet A1.\n\n### ¿Qué carnet hace falta?\nEl A1. También puede conducirla quien tenga el B con tres años de antigüedad, según la normativa española vigente.\n\n### ¿Es alta para un piloto bajo?\nEl asiento está a 820 mm. Merece probarla parado antes de decidir: la altura se nota más en parado que en marcha.\n\n### ¿Tiene prueba EuroNCAP?\nNo: EuroNCAP no evalúa motocicletas, así que no existe una puntuación para este modelo.\n\n## También te puede interesar\n\n- <a href=/motos/aprilia-rs-660-factory-2026/>Aprilia RS 660 Factory 2026</a>\n- <a href=/motos/aprilia-tuono-660-factory-2026/>Aprilia Tuono 660 Factory 2026</a>\n- <a href=/motos/aprilia-tuareg-660-rally-2026/>Aprilia Tuareg 660 Rally 2026</a>\n- <a href=/motos/aprilia-sx-125-2026/>Aprilia SX 125 2026</a>\n- <a href=/motos/aprilia-tuono-125-2026/>Aprilia Tuono 125 2026</a>\n\n*Fuentes: <a href=https://www.tifonmotor.com//kawasaki/documentos/precios/Aprilia-PVP-24-03-26.pdf>Precio (5.750 €, Tarifa Piaggio RS 125 E5+)</a>, <a href=https://www.mundomotero.com/motos/aprilia/rs-125>Ficha técnica (124,2 cc, 15 CV, 14,5 l, asiento 820 mm)</a>, <a href=https://21.motos.coches.net/fichas_tecnicas/aprilia/rs_125_replica/9936/>Ficha técnica (15 CV a 10.500 rpm, 12 Nm)</a>, <a href=https://www.motorbikemag.es/ficha-tecnica/aprilia-rs-125-gp-replica-2022/>Peso 144 kg, depósito 14,5 l</a>, <a href=https://www.piaggio.com/wlassets/vespa/master/after-sales/garanzia-4-anni/ES---2-pag---3-anni---1_letterhead-Garanzia-Commerciale-Estesa-piaggio/original/ES+-+2+pag+-+3+anni+++1_letterhead-Garanzia+Commerciale+Estesa-piaggio.pdf>Garantía Piaggio</a>, <a href=https://es.safe-manuals.com/source/pdf/fbeac8c2-4983-422b-ac97-d9d44c47864e>Mantenimiento Aprilia</a>.*\n\n**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.",
+    content: "<img src=/media/aprilia-rs-125-2026-hero.webp alt=Aprilia RS 125 2026, moto Deportiva para el carnet A1>
+
+*Foto: https://amp-weissenborn.de/motorrad-modell-aprilia-rs-125-10645-2026. No es foto oficial del fabricante; licencia desconocida.*
+
+**Ficha completa:** <a href=/motos/aprilia-rs-125-2026/>Ver la ficha completa de la RS 125 2026</a>
+
+## Una 125 con ambiciones de moto grande
+
+Pocas 125 presumen de parecerse tanto a una deportiva de verdad. La RS 125 2026 juega esa carta desde el nombre: Aprilia la coloca como puerta de entrada a su universo racing para quien circula con el carnet A1, con una imagen tomada de sus hermanas mayores y un motor que apura el tope legal de la categoría, 15 CV.
+
+El monocilíndrico de 124,2 cc entrega 15 CV (11,0 kW) y 12 Nm. No busca velocidad punta: su terreno es la curva, con 144 kg, un depósito de 14,5 litros y un asiento a 820 mm. Esa altura pide soltura en parado, pero en marcha da una postura deportiva auténtica, no de cartón piedra.
+
+## Precio: qué significa ese 5.750 €
+
+Para España se baraja una cifra cercana a 5.750 €: estimación sin carácter oficial de la tarifa Piaggio para la RS 125 E5+. Promociones, comunidad autónoma y gastos de matriculación pueden moverla. Antes de firmar, confírmala con Aprilia o en un concesionario y aclara qué incluye: con matriculación o sin ella, la factura final cambia mucho.
+
+## Un apellido con historia
+
+La RS 125 tiene pasado: la primera generación, de dos tiempos, salió en 1992 y marcó a toda una generación de motoristas jóvenes. La generación actual, de cuatro tiempos, llegó en 2018 adaptada a Euro 4; en 2021 pasó a Euro 5 y sumó la versión GP Replica, con la decoración de competición que busca buena parte de los compradores. Quien compra una RS 125 hoy se lleva también un trozo de esa historia.
+
+## Ficha rápida
+
+| Dato | Valor |
+|---|---|
+| Motor | 124,2 cc, 15 CV (11,0 kW), 12 Nm |
+| Peso | 144 kg |
+| Depósito | 14,5 l |
+| Asiento | 820 mm |
+| Carnet | A1 |
+| Precio | ~5.750 € (aproximado, no oficial) |
+
+<img src=/media/aprilia-rs-125-2026-2.webp alt=Aprilia RS 125 2026, vista lateral>
+
+*Foto: https://www.motopark.cz/aprilia-rs-125-2025-2026-cyanide-yellow-p763170/. No es foto oficial del fabricante; licencia desconocida.*
+
+## Mantenimiento y garantía: lo que conviene saber
+
+Para el mantenimiento, sin dato oficial propio, Aprilia aplica su esquema habitual: primera revisión al llegar al millar, siguientes a los diez mil y a los veinte mil, y cadena con revisión cada mil entre engrase y tensado. Mantenerla es sencillo, pero cadena y gomas deportivas piden más mimo que en un scooter.
+
+En garantía, Piaggio da 3 años de serie, ampliables a 4 con la extensión comercial. Antes de pagarla, pide por escrito qué cubre: en una moto así, la letra pequeña pesa tanto como el precio.
+
+## Preguntas frecuentes
+
+### ¿Cuánto cuesta la Aprilia RS 125 2026 en España?
+Cerca de 5.750 €, aproximación no oficial de la tarifa Piaggio para la RS 125 E5+; confírmalo en el concesionario antes de comprar.
+
+### ¿Qué potencia tiene?
+15 CV (11,0 kW), 124,2 cc y 12 Nm de par: el máximo que admite el carnet A1.
+
+### ¿Qué carnet hace falta?
+El A1; también sirve el B con tres años de antigüedad, según la normativa española vigente.
+
+### ¿Es alta para un piloto bajo?
+Asiento a 820 mm: pruébala parada antes de decidir, porque la altura se nota más en parado que en marcha.
+
+### ¿Tiene prueba EuroNCAP?
+No existe: EuroNCAP no evalúa motocicletas, así que este modelo no tiene puntuación.
+
+## También te puede interesar
+
+- <a href=/motos/aprilia-rs-660-factory-2026/>Aprilia RS 660 Factory 2026</a>
+- <a href=/motos/aprilia-tuono-660-factory-2026/>Aprilia Tuono 660 Factory 2026</a>
+- <a href=/motos/aprilia-tuareg-660-rally-2026/>Aprilia Tuareg 660 Rally 2026</a>
+- <a href=/motos/aprilia-sx-125-2026/>Aprilia SX 125 2026</a>
+- <a href=/motos/aprilia-tuono-125-2026/>Aprilia Tuono 125 2026</a>
+
+*Fuentes: <a href=https://www.tifonmotor.com//kawasaki/documentos/precios/Aprilia-PVP-24-03-26.pdf>Precio (5.750 €, Tarifa Piaggio RS 125 E5+)</a>, <a href=https://www.mundomotero.com/motos/aprilia/rs-125>Ficha técnica (124,2 cc, 15 CV, 14,5 l, asiento 820 mm)</a>, <a href=https://21.motos.coches.net/fichas_tecnicas/aprilia/rs_125_replica/9936/>Ficha técnica (15 CV a 10.500 rpm, 12 Nm)</a>, <a href=https://www.motorbikemag.es/ficha-tecnica/aprilia-rs-125-gp-replica-2022/>Peso 144 kg, depósito 14,5 l</a>, <a href=https://www.piaggio.com/wlassets/vespa/master/after-sales/garanzia-4-anni/ES---2-pag---3-anni---1_letterhead-Garanzia-Commerciale-Estesa-piaggio/original/ES+-+2+pag+-+3+anni+++1_letterhead-Garanzia+Commerciale+Estesa-piaggio.pdf>Garantía Piaggio</a>, <a href=https://es.safe-manuals.com/source/pdf/fbeac8c2-4983-422b-ac97-d9d44c47864e>Mantenimiento Aprilia</a>.*
+
+**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.",
   },
   {
     slug: "aprilia-rs-660-factory-2026",
@@ -6136,8 +6195,8 @@ Mantenimiento: revisión anual o cada 15.000 km. Fuente: Lexus España (programa
   },
   {
     slug: "benelli-leoncino-800-trail-2026",
-    title: "Benelli Leoncino 800 Trail 2026 precio: desde 6.990 €, 76 CV",
-    excerpt: "Benelli Leoncino 800 Trail 2026: precio aproximado no oficial en España, 76 CV y ficha técnica. Desde 6.990 €. Opinión, rivales y qué mirar antes de.",
+    title: "Benelli Leoncino 800 Trail 2026: 76 CV, 6.990 €",
+    excerpt: "La Benelli Leoncino 800 Trail 2026, Scrambler de 76 CV y 754 cc: precio aproximado, ficha y qué mirar antes de comprarla.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 4,
@@ -6149,7 +6208,96 @@ Mantenimiento: revisión anual o cada 15.000 km. Fuente: Lexus España (programa
       "scrambler a 2026",
       "benelli leoncino 800 trail 2026"
     ],
-    content: "<img src=/media/benelli-leoncino-800-trail-2026-hero.webp alt=Benelli Leoncino 800 Trail 2026, moto Scrambler para el carnet A>\n\n*Foto: http://scherzer-gmbh.de/motorcycle-model-benelli-leoncino-800-trail-10900-2026. No es foto oficial del fabricante; licencia desconocida.*\n\n**¿Buscas solo los datos?** <a href=/motos/benelli-leoncino-800-trail-2026/>Ver ficha técnica de la Benelli Leoncino 800 Trail 2026</a>: 76 CV, 224 kg y precio aproximado.\n\n## Benelli Leoncino 800 Trail 2026: precio, ficha y qué mirar antes de comprar\n\nLa Benelli Leoncino 800 Trail 2026 es una moto de categoría Scrambler con carnet A. Declara 76 CV (56.0 kW) con 754 cc. En esta guía tienes el precio, la ficha técnica, la historia del modelo, el mantenimiento, la garantía y las preguntas frecuentes.\n\n## Precio en España\n\nPrecio aproximado no oficial desde 6.990 €. Precio aproximado no oficial: 6.990 € (MP Racing, Leoncino 800 Trail; gastos de pre-entrega/matriculación/transporte no incluidos). El PVP puede variar por promoción, comunidad autónoma y gastos de matriculación. Confírmalo en la web oficial de Benelli o en un concesionario antes de comprar.\n\n## Ficha técnica\n\n| Dato | Valor |\n|---|---|\n| Marca / modelo | Benelli Leoncino 800 Trail 2026 |\n| Categoría | Scrambler |\n| Carnet | A |\n| Cilindrada | 754 cc |\n| Potencia | 76 CV (56.0 kW) |\n| Par | 67 Nm |\n| Peso | 224 kg (en seco) |\n| Depósito | 15 l |\n| Altura asiento | 825 mm |\n| EuroNCAP | sin datos EuroNCAP (motos no tienen prueba EuroNCAP) |\n| Garantía | Garantía del fabricante en modelos parecidos (TRK 502, TRK 502 X, 502C, modelos 500 cc o superiores): 5 años (concesionarios oficiales MP Racing / Motissimo). |\n\n<img src=/media/benelli-leoncino-800-trail-2026-2.webp alt=Benelli Leoncino 800 Trail 2026, vista lateral>\n\n*Foto: http://scherzer-gmbh.de/motorcycle-model-benelli-leoncino-800-trail-10900-2026. No es foto oficial del fabricante; licencia desconocida.*\n\n## Historia del modelo\n\n- 1951: Leoncino original\n- 2017: Leoncino 500 revive la saga\n- 2021: Leoncino 800 Trail\n\n## Mantenimiento\n\nMantenimiento orientativo (modelo similar TRK 502, misma marca): intervalo de servicio cada 6.000 km (reseña propietario TRK 502).\n\n## Garantía\n\nGarantía del fabricante en modelos parecidos (TRK 502, TRK 502 X, 502C, modelos 500 cc o superiores): 5 años (concesionarios oficiales MP Racing / Motissimo).\n\n## Rivales y alternativas\n\nCompara con otros modelos de la misma categoría y marca antes de decidir. Ver enlaces 'misma marca' en ficha.json y la ficha completa.\n\n## Preguntas frecuentes\n\n### ¿Cuánto cuesta Benelli Leoncino 800 Trail 2026 en España?\n\nPrecio: Precio aproximado no oficial: 6.990 € (MP Racing, Leoncino 800 Trail; gastos de pre-entrega/matriculación/transporte no incluidos). Confirma el PVP en la web oficial o concesionario antes de comprar, porque las promociones cambian.\n\n### ¿Qué potencia tiene Benelli Leoncino 800 Trail 2026?\n\nPotencia declarada: 76 CV (56.0 kW) con 754 cc.\n\n### ¿Qué carnet hace falta para Benelli Leoncino 800 Trail 2026?\n\nCarnet A (verificar en ficha oficial).\n\n### ¿Tiene prueba EuroNCAP Benelli Leoncino 800 Trail 2026?\n\nNo. Las motos no tienen prueba EuroNCAP de coche; se indica honestamente 'sin datos EuroNCAP (motos no tienen prueba EuroNCAP)'.\n\n### ¿Qué garantía tiene Benelli Leoncino 800 Trail 2026?\n\nGarantía: Garantía del fabricante en modelos parecidos (TRK 502, TRK 502 X, 502C, modelos 500 cc o superiores): 5 años (concesionarios oficiales MP Racing / Motissimo).\n\n### ¿Cada cuánto se revisa Benelli Leoncino 800 Trail 2026?\n\nMantenimiento: Mantenimiento orientativo (modelo similar TRK 502, misma marca): intervalo de servicio cada 6.000 km (reseña propietario TRK 502).\n\n## Enlaces\n\n- <a href=/motos/benelli-leoncino-800-trail-2026/>Ficha completa</a>\n- <a href=/motos/benelli-trk-502-2026/>Misma marca: benelli-trk-502-2026</a>\n- <a href=/motos/benelli-trk-502x-2026/>Misma marca: benelli-trk-502x-2026</a>\n- <a href=/motos/benelli-trk-702-2026/>Misma marca: benelli-trk-702-2026</a>\n- <a href=/motos/benelli-tornado-500-2025/>Misma marca: benelli-tornado-500-2025</a>\n- <a href=/motos/benelli-imperiale-400-2026/>Misma marca: benelli-imperiale-400-2026</a>\n- <a href=/analizador/>Analizador de multas</a> — Antes de recurrir, analiza tu multa.\n\n**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.\n\n*Fuentes: <a href=https://mpracing.es/benelli-motos/55991-moto-benelli-leoncino-800-trail.html>Precio (6.990 €) y ficha (peso seco 224 kg, asiento 825 mm, 15 l)</a>, <a href=https://www.motofichas.com/marcas/benelli/leoncino-800-trail>Ficha (754 cc, 76 CV, 234 kg)</a>, <a href=https://www.galgo.com/cl/motos/CL471-benelli-leoncino-800-trail>Ficha (754 cc, 76,2 CV, 67 Nm, 15 l)</a>, <a href=https://mpracing.es/757-benelli-motos ; https://motissimo.es/benelli/>Garantía 5 años modelos 500 cc o superiores</a>, <a href=http://es.riderchris.com/benelli-trk-502-malaysia-review/>Mantenimiento TRK 502 (intervalo 6.000 km)</a>.*\n",
+    content: "<img src=/media/benelli-leoncino-800-trail-2026-hero.webp alt=Benelli Leoncino 800 Trail 2026, moto Scrambler para el carnet A>
+
+*Foto: http://scherzer-gmbh.de/motorcycle-model-benelli-leoncino-800-trail-10900-2026. No es foto oficial del fabricante; licencia desconocida.*
+
+**¿Buscas solo los datos?** <a href=/motos/benelli-leoncino-800-trail-2026/>Ver ficha técnica de la Benelli Leoncino 800 Trail 2026</a>: 76 CV, 224 kg y precio aproximado.
+
+## Benelli Leoncino 800 Trail 2026: precio, ficha y qué mirar antes de comprar
+
+La Leoncino 800 Trail 2026 es la Scrambler de Benelli para el carnet A, con 754 cc y 76 CV (56.0 kW). Esta guía reúne precio, ficha técnica, historia, mantenimiento, garantía y preguntas frecuentes.
+
+## Precio en España
+
+Se anuncia desde 6.990 €, precio aproximado no oficial según MP Racing para la Leoncino 800 Trail, sin gastos de pre-entrega, matriculación ni transporte. Promociones, comunidad autónoma y gastos de matriculación pueden mover el PVP: confírmalo en la web oficial de Benelli o en un concesionario antes de comprar.
+
+## Ficha técnica
+
+| Dato | Valor |
+|---|---|
+| Marca / modelo | Benelli Leoncino 800 Trail 2026 |
+| Categoría | Scrambler |
+| Carnet | A |
+| Cilindrada | 754 cc |
+| Potencia | 76 CV (56.0 kW) |
+| Par | 67 Nm |
+| Peso | 224 kg (en seco) |
+| Depósito | 15 l |
+| Altura asiento | 825 mm |
+| EuroNCAP | sin datos EuroNCAP (motos no tienen prueba EuroNCAP) |
+| Garantía | Garantía del fabricante en modelos parecidos (TRK 502, TRK 502 X, 502C, modelos 500 cc o superiores): 5 años (concesionarios oficiales MP Racing / Motissimo). |
+
+<img src=/media/benelli-leoncino-800-trail-2026-2.webp alt=Benelli Leoncino 800 Trail 2026, vista lateral>
+
+*Foto: http://scherzer-gmbh.de/motorcycle-model-benelli-leoncino-800-trail-10900-2026. No es foto oficial del fabricante; licencia desconocida.*
+
+## Historia del modelo
+
+La saga arranca en 1951 con la Leoncino original. La 500 la recuperó en 2017, y la 800 Trail apareció en 2021.
+
+## Mantenimiento
+
+Como referencia orientativa, el intervalo de servicio es cada 6.000 km, tomado de un modelo similar de la misma marca, el TRK 502, según reseña de su propietario.
+
+## Garantía
+
+En modelos parecidos —TRK 502, TRK 502 X, 502C y 500 cc o superiores— el fabricante da 5 años, según MP Racing y Motissimo, concesionarios oficiales.
+
+## Rivales y alternativas
+
+Antes de decidir, mírala frente a otros modelos de su categoría y marca: los enlaces de 'misma marca' están en ficha.json, junto a la ficha completa.
+
+## Preguntas frecuentes
+
+### ¿Cuánto cuesta Benelli Leoncino 800 Trail 2026 en España?
+
+6.990 € aproximados y no oficiales (MP Racing, Leoncino 800 Trail; sin pre-entrega, matriculación ni transporte). Confirma el PVP en la web oficial o en el concesionario antes de comprar: las promociones cambian.
+
+### ¿Qué potencia tiene Benelli Leoncino 800 Trail 2026?
+
+Declarados: 76 CV (56.0 kW) con 754 cc.
+
+### ¿Qué carnet hace falta para Benelli Leoncino 800 Trail 2026?
+
+Carnet A (verifícalo en la ficha oficial).
+
+### ¿Tiene prueba EuroNCAP Benelli Leoncino 800 Trail 2026?
+
+No. Las motos no tienen prueba EuroNCAP de coche: se indica honestamente 'sin datos EuroNCAP (motos no tienen prueba EuroNCAP)'.
+
+### ¿Qué garantía tiene Benelli Leoncino 800 Trail 2026?
+
+En modelos parecidos (TRK 502, TRK 502 X, 502C, 500 cc o superiores): 5 años del fabricante (MP Racing / Motissimo, concesionarios oficiales).
+
+### ¿Cada cuánto se revisa Benelli Leoncino 800 Trail 2026?
+
+Intervalo orientativo de servicio cada 6.000 km, de un modelo similar de la misma marca, el TRK 502 (reseña de su propietario).
+
+## Enlaces
+
+- <a href=/motos/benelli-leoncino-800-trail-2026/>Ficha completa</a>
+- <a href=/motos/benelli-trk-502-2026/>Misma marca: benelli-trk-502-2026</a>
+- <a href=/motos/benelli-trk-502x-2026/>Misma marca: benelli-trk-502x-2026</a>
+- <a href=/motos/benelli-trk-702-2026/>Misma marca: benelli-trk-702-2026</a>
+- <a href=/motos/benelli-tornado-500-2025/>Misma marca: benelli-tornado-500-2025</a>
+- <a href=/motos/benelli-imperiale-400-2026/>Misma marca: benelli-imperiale-400-2026</a>
+- <a href=/analizador/>Analizador de multas</a> — Antes de recurrir, analiza tu multa.
+
+**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
+
+*Fuentes: <a href=https://mpracing.es/benelli-motos/55991-moto-benelli-leoncino-800-trail.html>Precio (6.990 €) y ficha (peso seco 224 kg, asiento 825 mm, 15 l)</a>, <a href=https://www.motofichas.com/marcas/benelli/leoncino-800-trail>Ficha (754 cc, 76 CV, 234 kg)</a>, <a href=https://www.galgo.com/cl/motos/CL471-benelli-leoncino-800-trail>Ficha (754 cc, 76,2 CV, 67 Nm, 15 l)</a>, <a href=https://mpracing.es/757-benelli-motos ; https://motissimo.es/benelli/>Garantía 5 años modelos 500 cc o superiores</a>, <a href=http://es.riderchris.com/benelli-trk-502-malaysia-review/>Mantenimiento TRK 502 (intervalo 6.000 km)</a>.*
+",
   },
   {
     slug: "benelli-tornado-500-2025",
