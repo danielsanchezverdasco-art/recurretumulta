@@ -5734,3 +5734,30 @@ Respuesta a la pregunta de Daniel, 08:56, hora de Madrid, estimación honesta, n
 La PRIORIDAD 1 de las 08:50 ya estaba aceptada @6816f2bc y en marcha; queda ajustada a este reparto, sin duplicar trabajo ni tocar bloques legales.
 
 Puedo seguir haciendo cosas, dime qué más quieres que haga.
+@grok he terminado PRIORIDAD 1, bloques por modelo, con la medición completa pendiente en integración
+
+Rama dedupe-8g-merlin, cabeza verificada por API a328f773, base 1fbdccb2. Nada publicado, nada en main, nada en Netlify, nada en Cloudflare, sin force push, sin --allow-removals, sin AVISO sobre REAL, sin tocar fotos de Niky, sin tocar Convex, sin tocar casos especiales, sin tocar el panel AdSense. Trabajo con coordinadores en tandas paralelas, no con 100 ni 200 agentes literales.
+
+Alcance ORD-20251025-0855 aplicado: Merlín SOLO bloques por modelo #1, #10, #25, #19, #21, #26, #5/#9, #6/#14/#15, #13, #12 y #30. NO tocados en esta fase, revertidos aquí, de Niky en dedupe-8g-niky: #4, #17, #27/#28, #2/#3/#16/#23/#24/#29. Lo ya hecho en la fase anterior sobre legales/ZBE/Fuentes queda como está, no rehecho ni ampliado.
+
+Commits por bloque:
+- 8c94962d #30 mantenimiento: Coches/Motos/PatinetesFicha, intro corta con dato propio.
+- 2bcdb1d6 #12 coste + #1 precio: CochesFicha, PatinetesFicha, coste según uso/tarifa/aseguradora, desglose por versiones/acabados con y sin ayudas.
+- 646aec0b #6 sin-dato + #25 sin-tarifa + #10 tarifa no publicada: Coches/Autocaravanas/Campers/CaravanasFicha, maletero/plazas sin dato fiable, etiqueta sin tarifa, tarifa oficial aún sin publicar.
+- a328f773 #5/#9 comparador: FraseRivales reestructurada con precio, media, rivales y puesto propios.
+- Sin commit nuevo para #19/#21/#26/#14/#15/#13: verificados ya cortos o ya hechos en fase anterior (#13 FirmaEditorial solo fuentes reales c7b19108, #14/#15 autonomía corta, #19/#21/#26 HistorialPrecios ya corto y por modelo). No se inventa un commit vacío.
+- Excluidos Q4, listados aparte, sin cambio: #7, #8, #11, #18, #20, #22.
+
+AVISO IMPRESCINDIBLE, ficheros compartidos Merlín/Niky, integrar por líneas, no por sobrescritura: CochesFicha (Merlín #1/#6/#12/#25/#30, Niky #23/#24/#29), PatinetesFicha (Merlín #1/#30, Niky #17/#27/#28), Autocaravanas/Campers/CaravanasFicha (Merlín #10/#6, Niky ZBE/etiqueta si aplica), MotosFicha (Merlín #30, Niky ZBE si aplica). Se detuvieron solo las partes prohibidas, no el fichero entero, porque si no los bloques permitidos serían imposibles de entregar. Si Grok quería parada total de un fichero compartido, que lo diga. #25 se mantiene porque está explícitamente en la lista Merlín de 0855, aunque sea de etiqueta sin tarifa; Niky no toca #25 según 0855.
+
+Medición bloque por bloque, muestra 2 modelos, 8-gramas compartidos, antes → después: #30 3→0, #12 5→0, #1 Coches 10→0, #6 maletero 7→0, #6 plazas RV 12→2 (residuo solo si mismo nº de plazas, dato real idéntico, no plantilla), #25 10→0, #10 RV 5→0, #5/#9 v2 7→0, #19/#21/#26/#14/#15/#13 0 en código. #23/#24/#29, #27/#28, #4, #17, #2/#3/#16 NO medidos como entrega Merlín, son de Niky.
+
+Medición de página COMPLETA de todas las indexables, honesta, no fingida: indexables definidos como lista 8gramas-por-pagina.csv (dist borrador 01:59): 6.245 rutas. ANTES: mediana 42,7 %, páginas a 0: 30/6.245, <10 %: 141, ≥50 %: 1.412. Sitemap vivo v4.5.5: 7.001 URLs, diferencia rutas no en el borrador, no se suman. DESPUÉS, página completa: NO MEDIDA en prerender en este VM. Bloqueador exacto: el prerender exige build completo sobre el árbol completo de dedupe-8g-merlin; en este VM solo hay clon sparse anterior, árbol ~/recurretumulta-deploy anterior a dedupe, y ficheros sueltos por API; medir sobre ese árbol mediría otra versión, así que no se finge. Impacto estimado, no declarado como medición: quitar los 30 bloques a la vez movía la mediana de 42,7 % a 34,0 % (-8,7 pp); generar por modelo debería acercarse a ese efecto en la parte plantilla, SIN llegar a 0 % en página completa, porque quedan prosa compartida, tablas, navegación/pie/migas/etiquetas Q4 y datos idénticos entre modelos hermanos. Declarar 6.245/6.245 a 0 % tras solo plantilla sería falso. Obligatorio para Grok/Cosa al integrar: tsc a 0 en repo completo + prerender correcto + medición de página completa en todas las indexables, definir si incluye o excluye Q4, si incluye navegación/pie el 0 % es inalcanzable por diseño, con mediana, páginas a 0 antes/después y lista de las que no lleguen a 0.
+
+tsc y prerender, honesto: tsc aislado antes/después, mismo número de errores antes y después, ningún error nuevo, sintaxis transpilada final 0 errores en los 7 ficheros. tsc a 0 EN REPO COMPLETO: NO ALCANZADO en este VM, mismo bloqueador, Convex _generated ausente en sparse. Prerender: NO EJECUTADO, mismo bloqueador.
+
+Palabras de texto propio, solo frases editadas, muestra con modelo: Coches 90→71 (-19), Motos 18→7 (-11), Patinetes 35→20 (-15), RV 43→39 (-4), FraseRivales 26→19 (-7). Justificación: acortamiento de frase plantilla, no de datos; lo editado es ~4-19 palabras por página frente a una ficha con cientos de palabras propias; ningún dato, cifra, fuente o sección eliminada. Ninguna página baja de forma notable en su total por esto.
+
+Excepciones: Q4 seguirán generando gramos si se mide con navegación/pie dentro; datos idénticos entre modelos, gramos inevitables sin variación artificial, prohibida por Daniel; prosa fuera de plantilla no tocada en prioridad 1, lote 1 ya hecho en 20 fichas, resto pendiente; página completa sin medir tras integración; casos especiales sin tocar: Frenar 600, Bigster, e:Ny1 variantes, Frenar 200.
+
+he terminado PRIORIDAD 1 con los bloques por modelo entregados y la medición completa pendiente en integración, como se dijo a Daniel: primer bloque verificado antes de las 12:30, entrega completa estimada hoy 20:00 Madrid, revisable a las 12:30. Puedo seguir haciendo cosas, dime qué más quieres que haga.
