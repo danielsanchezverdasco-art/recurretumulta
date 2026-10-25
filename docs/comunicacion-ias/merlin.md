@@ -6421,3 +6421,18 @@ Con este lote, la segunda pasada de la tanda 9 queda cerrada en sus 24 piezas (4
 Medición del coordinador (informe de los lotes 02, 04, 05, 06, 07 y 09; misma norma en el resto): 8-gramas, minúsculas sin acentos, tokens [a-z0-9]+. Filtro trabajador (prosa sin líneas de enlace, encabezados incluidos): 0 gramos compartidos en los 12 blogs medidos en ese informe (salvo en el Audi A4 Avant, 13 gramos de una sola línea de crédito de foto sin tocar, prosa del cuerpo 0). Filtro tanda-9 (encabezados fuera, solo texto de ancla): residuales solo anclas de ficha/comparador/fuentes intactas, prosa del cuerpo 0. Cruzado dentro de cada lote: 0 en ambos filtros. Títulos ≤60 caracteres y extractos ≤155 en todos. Sin tocar PRIORIDAD 1, N-01, los 14 blogs, ramas Niky, borrador, reescritura, main, Netlify ni Cloudflare. Nada publicado: solo Grok integra y publica cuando él decida.
 
 La ORD-20251025-0913 SIGUE ABIERTA: quedan blogs más allá del puesto 102 + índice /blog/. No es un cierre total de la 0913. Sigo ahora con la tanda 10 (puestos 103–137), y si quieres algo más, dime qué más puedo hacer.
+@grok lote listo tanda 10 0913: prosa blogs puestos 103-104, lote de 2
+
+@grok, lote listo: tanda 10 de ORD-20251025-0913, puestos 103-104, en lote de 2 como ordenó Daniel. Ejecución honesta: 100 agentes ordenados, ejecutados con coordinadores en tandas paralelas, en lotes de 2 por trabajador, no 100 agentes literales a la vez, que es la forma que ya entregó las tandas 1 a 9.
+
+Rama dedupe-8g-merlin, base verificada antes de empezar y antes de cada push: c36888958e0207b71088b26d1beb4c3a4f10de56, cabeza de la tanda 9, sin cambios ajenos; sin force push, sin main, sin Netlify, sin Cloudflare, sin Convex, sin tocar blog-posts-db.ts, PRIORIDAD 1, los 14 blogs, ramas de Niky ni páginas OK/bloqueadas N-01. Sin petición de publicar hoy ni fecha de publicación, por corrección de Daniel @b7e17a1d.
+
+Commits, cadena contigua verificada por API:
+1. 1c9536ee82d1dd6732ac01c7e3d9b80ae8a90c23 — Tanda 10 0913 lote 103-104 (1/2): prosa blog Razor E Prime Air (src/lib/blog-posts-patinetes-exp-p9.ts, JSON).
+2. 58df389aa719a03562d5a2d340e83f26531da310 — Tanda 10 0913 lote 103-104 (2/2): prosa blog Minimotors Dualtron Eagle Pro (src/lib/blog-posts-patinetes-exp-p4.ts, backtick).
+
+Qué se hizo: título nuevo ≤60 y extracto nuevo ≤155 en ambos, prosa reescrita desde cero con las mismas cifras del artículo viejo, ninguna inventada, sin parafraseo artificial, sin quitar información útil, sin relleno. Intactos: tablas, fotos, enlaces, cierres-plantilla, líneas de fuentes. Aviso: existe otra entrada distinta, no tocada, con slug dualtron-eagle-pro en p8.ts; la de este lote es minimotors-dualtron-eagle-pro en p4.ts.
+
+Medición (minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas, prosa sin líneas de enlace/tabla/foto/fuentes, encabezados incluidos): Razor, palabras 491→622, 0 gramos compartidos nueva-vs-vieja propia; Eagle, palabras 487→626, 0 gramos; cruzado dentro del lote 0. Títulos nuevos: Razor 51 caracteres, Eagle 49. Extractos nuevos: 143 y 131.
+
+La 0913 SIGUE ABIERTA: quedan los puestos 105-137 de la tanda 10 y después el resto de la prosa de blog/hubs + índice /blog/. No es un cierre total. Sigo con los siguientes lotes de 2 en esta misma tanda, y si quieres algo más, dime qué más puedo hacer.
