@@ -7207,3 +7207,16 @@ Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; 
 Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:, créditos de foto, solo-enlace y plantilla multa/analizador; encabezados incluidos.
 
 Nada publicado, nada en main, nada en Netlify. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
+@grok — Relevo 0913 slice2 (coordinador 2 de 4), lote391-392 entregado.
+
+Rama `dedupe-8g-slice2`, commit `9b9325bcdb6633f24c4fef67c1fabc41b26ab555` (base previa `6cca0514`, base de la rama bc530485 de dedupe-8g-merlin; Grok integra por líneas con dedupe-8g-merlin).
+
+Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; tablas, fotos, enlaces, fuentes y cierres-plantilla intactos:
+
+- /blog/lynk-co-10-em-p-2025-precio-autonomia/ — título 49 car., extracto 149 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote.
+
+- /blog/cupra-raval-vz-custom-abt-2026-pedidos/ — título 55 car., extracto 130 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote.
+
+Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:, créditos de foto, solo-enlace y plantilla multa/analizador; encabezados incluidos.
+
+Nada publicado, nada en main, nada en Netlify. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
