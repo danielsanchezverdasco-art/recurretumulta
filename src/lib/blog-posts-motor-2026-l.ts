@@ -5,9 +5,9 @@ import type { BlogPost } from "./blog-data.ts";
 
 export const MOTOR_2026_L_POSTS: BlogPost[] = [
 {
-  title: "Bruselas frena a los híbridos chinos",
+  title: "Bruselas prepara cuotas contra los híbridos chinos",
   slug: "ue-bruselas-cuotas-hibridos-chinos",
-  excerpt: "Pekín rechaza limitar sus híbridos enchufables y Bruselas prepara cuotas unilaterales con aranceles. BYD responde llevando a París su artillería DM-i. Qué cambia para los precios en España.",
+  excerpt: "Pekín dijo no al tope y Bruselas responde con cupos y aranceles. BYD exhibe sus DM-i en París y los PHEV chinos encaran 2027 con el precio en el aire.",
   category: "Novedades Motor",
   date: "2026-10-08",
   readTime: 7,
@@ -21,27 +21,27 @@ export const MOTOR_2026_L_POSTS: BlogPost[] = [
   ],
   content: `<img src=/media/ue-bruselas-cuotas-hibridos-chinos-hero.webp alt=Buque portacoches descargando SUVs en un puerto europeo al atardecer, imagen editorial>
 
-**Bruselas** ha decidido que el truco ya no cuela: después de que **Pekín rechazara el 7 de octubre** limitar de forma voluntaria sus exportaciones de coches híbridos enchufables a Europa, la Comisión Europea prepara **cuotas de importación unilaterales con aranceles** para todo lo que entre por encima del cupo. En juego están los precios de los PHEV chinos que hoy se venden en España —Omoda, Jaecoo, MG y BYD— y la estrategia con la que las marcas chinas esquivaban los aranceles a los eléctricos puros de 2024.
+La Comisión ha zanjado el margen de maniobra: tras la negativa de Pekín el 7 de octubre a autolimitar sus ventas de híbridos enchufables con destino a Europa, Bruselas prepara cupos impuestos de forma unilateral, con gravamen para cada unidad que supere el volumen autorizado. En el centro del pulso quedan los precios de los enchufables chinos comercializados en España y la táctica con la que las firmas asiáticas sortearon los aranceles aplicados en 2024 a los eléctricos puros.
 
 ## Datos clave
 
-- **La petición de la UE:** limitar los híbridos chinos a en torno al 15 % del mercado europeo (Financial Times vía <a href=https://www.reuters.com/world/china/china-rejects-eu-request-voluntary-hybrid-car-export-curbs-ft-reports-2026-10-07/>Reuters</a>, 07/10/2026)
-- **La respuesta de China:** no. Rechazo confirmado por <a href=https://www.reuters.com/world/china/china-rejects-eu-request-voluntary-hybrid-car-export-curbs-ft-reports-2026-10-07/>Reuters</a> el 07/10/2026
-- **El plan B de Bruselas:** cuotas unilaterales con aranceles por encima del volumen fijado, según <a href=https://cnevpost.com/2026/10/07/eu-plans-chinese-hybrid-import-curbs/>Bloomberg vía CnEVPost</a> (07/10/2026)
-- **El peso chino en Europa:** las marcas chinas ya suponen el **11,7 %** de las matriculaciones de la UE en agosto; **BYD** matriculó 26.007 unidades (+128 % interanual), según Dataforce
-- **Fuente:** <a href=https://www.reuters.com/world/china/china-rejects-eu-request-voluntary-hybrid-car-export-curbs-ft-reports-2026-10-07/>Reuters</a> y <a href=https://cnevpost.com/2026/10/07/eu-plans-chinese-hybrid-import-curbs/>CnEVPost (Bloomberg)</a>
+- **Lo que pedía Bruselas:** que los enchufables procedentes de China rondaran solo el 15 % del mercado europeo, según Financial Times vía <a href=https://www.reuters.com/world/china/china-rejects-eu-request-voluntary-hybrid-car-export-curbs-ft-reports-2026-10-07/>Reuters</a> el 07/10/2026
+- **La contestación de Pekín:** negativa, confirmada por <a href=https://www.reuters.com/world/china/china-rejects-eu-request-voluntary-hybrid-car-export-curbs-ft-reports-2026-10-07/>Reuters</a> el 07/10/2026
+- **La alternativa de Bruselas:** cupos impuestos unilateralmente, con arancel para el exceso sobre el volumen fijado, de acuerdo con <a href=https://cnevpost.com/2026/10/07/eu-plans-chinese-hybrid-import-curbs/>Bloomberg vía CnEVPost</a> el 07/10/2026
+- **Presencia asiática en la UE:** las firmas chinas acapararon el 11,7 % de los registros comunitarios durante agosto, y BYD sumó 26.007 entregas, un +128 % frente al mismo periodo del año anterior, según Dataforce
+- **Orígenes consultados:** <a href=https://www.reuters.com/world/china/china-rejects-eu-request-voluntary-hybrid-car-export-curbs-ft-reports-2026-10-07/>Reuters</a> y <a href=https://cnevpost.com/2026/10/07/eu-plans-chinese-hybrid-import-curbs/>CnEVPost (Bloomberg)</a>
 
-## La vía de escape que se cierra
+## El atajo que Bruselas quiere clausurar
 
-Cuando la UE impuso aranceles compensatorios a los eléctricos chinos en 2024, las marcas del gigante asiático encontraron el atajo perfecto: el **híbrido enchufable**. Sin aranceles extra y con etiqueta Cero de la DGT en España, los PHEV chinos inundaron el mercado europeo a precios que los fabricantes tradicionales no podían igualar. Ahora Bruselas quiere cerrar también esa puerta: un contingente arancelario encarecería justo la vía que Omoda, Jaecoo, MG y BYD usaban para crecer en Europa sin pagar los aranceles de los EV.
+En 2024 la UE gravó con aranceles compensatorios los eléctricos chinos, y las firmas del gigante asiático hallaron entonces una salida perfecta: el **híbrido enchufable**. Sin recargo adicional y con la Cero de la DGT para España, los enchufables chinos anegaron el mercado europeo con importes que las marcas europeas tradicionales no alcanzaban a igualar. Ahora Bruselas pretende tapiar también esa salida: un cupo con arancel encarecería precisamente el camino que Omoda, BYD, Jaecoo y MG recorrían para crecer en Europa sin abonar los aranceles de los EV.
 
 <img src=/media/ue-bruselas-cuotas-hibridos-chinos-galeria-1.webp alt=SUV híbrido enchufable en el stand de un salón del automóvil, imagen editorial>
 
-## BYD contraataca en el Salón de París
+## La respuesta de BYD en París
 
-Y mientras Bruselas afila las cuotas, **BYD** mueve ficha en el escaparate: del **12 al 18 de octubre** llevará al Salón de París su artillería híbrida —los **Atto 2 DM-i** y **Sealion 5 DM-i**— junto al Seal U DM-i y su gama eléctrica (con el Dolphin Surf ya de 5 plazas). El anuncio, difundido por la propia marca según la prensa especializada, convierte a París en el campo de batalla donde se medirá hasta dónde llega la ofensiva híbrida china en Europa.
+Mientras Bruselas perfila el cupo, **BYD** juega su baza en el escaparate parisino: entre el **12 y el 18 de octubre** expondrá en el Salón de París su ofensiva híbrida —los **Atto 2 DM-i**, por un lado, y el **Sealion 5 DM-i**, por otro— acompañados del Seal U DM-i y de su familia eléctrica (con el Dolphin Surf ya con 5 plazas). La marca difundió el anuncio según recoge la prensa especializada, y París se convierte así en el escenario donde se calibrará el alcance de la ofensiva híbrida china en Europa.
 
-## Los PHEV chinos que ya se venden en España
+## Los enchufables chinos a la venta en España
 
 | Modelo | Tipo | Etiqueta DGT | Ficha |
 |---|---|---|---|
@@ -52,23 +52,24 @@ Y mientras Bruselas afila las cuotas, **BYD** mueve ficha en el escaparate: del 
 
 <img src=/media/ue-bruselas-cuotas-hibridos-chinos-galeria-2.webp alt=Banderas de la Unión Europea ondeando frente a un edificio institucional, imagen editorial>
 
-## Qué significa para tu bolsillo
+## Qué puede pasar con lo que pagas
 
-Si las cuotas entran en vigor, los PHEV chinos **dejarían de ser la ganga que son hoy**: el arancel por encima del cupo se trasladaría al precio final. Los que ya circulan por España no se verían afectados, y la etiqueta Cero seguiría dando acceso a todas las ZBE. La lectura práctica: si estabas mirando un híbrido enchufable chino, **2026 es el año para comprarlo**; en 2027 podría costar más. <a href=/comparador-coches/>Compáralos en nuestro comparador</a> antes de decidir.
+Si el cupo se aprueba, el chollo actual de los enchufables chinos se acabaría: el gravamen sobre el exceso repercutiría en el importe que paga el cliente. Las unidades ya matriculadas en España quedarían al margen, y la Cero mantendría la entrada en cualquier ZBE. Consejo práctico: si tienes en mente un enchufable chino, conviene cerrar la compra durante 2026, porque en 2027 el precio podría subir. <a href=/comparador-coches/>Compáralos en nuestro comparador</a> antes de decidir.
 
 ## Preguntas frecuentes
 
-### ¿Qué quiere hacer la UE con los híbridos chinos?
-Limitar sus importaciones con **cuotas**: por encima de un volumen fijado se pagarían aranceles. Es la respuesta al "no" de Pekín a un tope voluntario de en torno al 15 % del mercado europeo.
+### ¿Qué pretende la UE con los enchufables chinos?
+Imponer un cupo a sus importaciones: rebasado cierto volumen, entrarían en juego aranceles. Así responde Bruselas a la negativa pekinesa a un límite pactado cercano al 15 % del mercado europeo.
 
-### ¿Subirán de precio los híbridos chinos en España?
-Si las cuotas se aprueban, **sí**: el arancel encarecería los PHEV chinos que hoy compiten por precio (Omoda, Jaecoo, BYD). Aún no hay fechas ni volúmenes oficiales.
+### ¿Se encarecerán en España los híbridos chinos?
+En caso de aprobarse el cupo, **sí**: el gravamen subiría el precio de los enchufables chinos que hoy ganan por coste (Omoda, BYD, Jaecoo, MG). Todavía no existen calendarios ni cantidades oficiales.
 
-### ¿Qué coches híbridos chinos se venden en España?
-Los principales son el **Omoda 9 SHS**, el **Jaecoo 7 SHS** y el **BYD Seal U DM-i** (enchufables, etiqueta Cero) y el **MG HS Hybrid+** (híbrido convencional, etiqueta ECO).\\n\\n*Actualización: la serie continúa con la tercera entrega, que fija el cupo en 350.000 híbridos chinos al año: <a href=/blog/cuotas-hibridos-chinos-ue-china-2026/>Cuota de 350.000 híbridos chinos: qué cambia en España</a>.*
+### ¿Qué híbridos chinos se comercializan en España?
+El Omoda 9 SHS abre la lista; le sigue el Jaecoo 7 SHS; el BYD Seal U DM-i completa el trío enchufable con etiqueta Cero, mientras el MG HS Hybrid+ juega en la liga híbrida convencional con etiqueta ECO.
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
-`,
+*Actualización: la tercera entrega de la serie deja el cupo fijado en 350.000 híbridos chinos al año: <a href=/blog/cuotas-hibridos-chinos-ue-china-2026/>Cuota de 350.000 híbridos chinos: qué cambia en España</a>.*
+
+**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
 },
 {
   title: "Renault: 600 M€ para fabricar eléctricos en España",

@@ -243,9 +243,9 @@ El precio en China (se estima en torno a 100.000 yuanes, unos 13.000 euros, sin 
   },
   {
     slug: "bmw-ix4-2027-presentacion-oficial",
-    title: "BMW iX4 2027: 828 km, 612 CV y 70.900 € en Alemania",
+    title: "BMW iX4 2027: 828 km, 612 CV y precio alemán",
     excerpt:
-      "BMW iX4 oficial: SUV coupé eléctrico Neue Klasse con 828 km WLTP, 612 CV y carga de 400 kW. Llega en marzo de 2027; en Alemania desde 70.900 €.",
+      "BMW iX4 oficial: coupé eléctrico Neue Klasse con 828 km WLTP, 612 CV y carga de 400 kW. Ventas desde marzo de 2027; en Alemania desde 70.900 €.",
     category: "Novedades Motor",
     date: "2026-10-16",
     readTime: 7,
@@ -260,13 +260,13 @@ El precio en China (se estima en torno a 100.000 yuanes, unos 13.000 euros, sin 
     ],
     content: `<img src=/media/bmw-ix4-electrico-2026-hero.webp alt=BMW iX4 eléctrico gris circulando, vista tres cuartos delantera>
 
-*Foto: BMW (kit de prensa oficial, distribuida por somoselectricos.com). El iX4 definitivo, presentado el 9 de octubre de 2026. Licencia desconocida.*
+*Imagen: BMW, material de su kit oficial para prensa difundido por somoselectricos.com. Muestra el iX4 de serie, desvelado el 9 de octubre de 2026, con licencia sin confirmar.*
 
 **Ficha completa del modelo:** <a href=/coches/bmw-ix4-electrico-2026>BMW iX4 — ficha técnica, precio y autonomía</a>
 
-BMW ha presentado oficialmente el **nuevo iX4**, su primer Sports Activity Coupé (SAC) 100 % eléctrico sobre la plataforma **Neue Klasse**. Es el tercer modelo de la nueva generación eléctrica de la marca, tras el <a href=/coches/bmw-ix3-50-xdrive-2026-precio-ficha-tecnica/>BMW iX3</a> y el i3, y llega con cifras de referencia: **hasta 828 km de autonomía WLTP**, **carga ultrarrápida de 400 kW** y una versión tope de gama **M60 xDrive de 612 CV**. La comercialización arranca en **marzo de 2027**.
+BMW ya ha desvelado oficialmente el **nuevo iX4**: es su primer Sports Activity Coupé (SAC) totalmente eléctrico, construido sobre la plataforma **Neue Klasse**. Dentro de esa nueva hornada eléctrica de la marca, ocupa el tercer lugar, después del <a href=/coches/bmw-ix3-50-xdrive-2026-precio-ficha-tecnica/>BMW iX3</a> y del i3, y llega con registros destacados: hasta 828 km WLTP, una carga ultrarrápida de 400 kW y una variante tope de gama M60 xDrive con 612 CV. Las ventas comienzan en marzo de 2027.
 
-## Las tres versiones, en una tabla
+## Las tres variantes, en una tabla
 
 | Versión | Potencia | Par | 0–100 km/h | Autonomía WLTP | Batería útil | Carga CC |
 |---|---|---|---|---|---|---|
@@ -274,23 +274,23 @@ BMW ha presentado oficialmente el **nuevo iX4**, su primer Sports Activity Coup�
 | **iX4 50 xDrive** | 469 CV (345 kW) | 645 Nm | 4,9 s | 828 km | 108,7 kWh | 400 kW |
 | **iX4 M60 xDrive** | 612 CV (450 kW) | 875 Nm | 3,9 s | 777 km | 108,7 kWh | 400 kW |
 
-Todas las versiones llevan un motor eléctrico en cada eje (tracción total xDrive) y la **sexta generación del eDrive** con arquitectura de **800 V** y celdas cilíndricas integradas en el chasis. Las cifras del M60 xDrive son provisionales según BMW, pendientes de homologación definitiva.
+Cada variante monta un motor eléctrico por eje (tracción total xDrive) y recurre a la **sexta generación del eDrive**, basada en una arquitectura de **800 V** con celdas cilíndricas que forman parte del chasis. Los datos del M60 xDrive son provisionales según BMW, a falta de la homologación definitiva.
 
-## 387 km recuperados en 10 minutos
+## Carga: 387 km en 10 minutos
 
-El dato que cambia los viajes largos: el iX4 50 xDrive recupera **387 km de autonomía en solo 10 minutos** conectado a un cargador de 400 kW, y pasa del **10 al 80 % en 21 minutos**. En corriente alterna carga a 11 kW de serie (22 kW en opción) e incorpora **carga bidireccional** (V2L/V2H/V2G): el coche puede alimentar aparatos externos, una vivienda o devolver energía a la red.
+El registro que transforma los viajes largos: en apenas 10 minutos enchufado a un cargador de 400 kW, el iX4 50 xDrive suma **387 km de autonomía**, y el paso del **10 al 80 % lleva 21 minutos**. Con corriente alterna admite 11 kW de serie, con 22 kW disponibles en opción, y añade **carga bidireccional** (V2L/V2H/V2G), así que el vehículo puede dar corriente a aparatos externos, a una vivienda o devolverla a la red.
 
 <img src=/media/bmw-ix4-electrico-2026-interior.webp alt=Interior del BMW iX4 con pantalla central de 17,9 pulgadas y Panoramic Vision>
 
-*Foto: BMW (kit de prensa oficial, distribuida por somoselectricos.com). Interior con Panoramic iDrive y pantalla central de 17,9 pulgadas. Licencia desconocida.*
+*Imagen: BMW, de su kit oficial para prensa difundido por somoselectricos.com. El habitáculo, con Panoramic iDrive y monitor central de 17,9 pulgadas. Licencia sin confirmar.*
 
-## Diseño coupé y medidas de berlina grande
+## Silueta coupé con medidas de berlina grande
 
-El iX4 comparte base técnica con el iX3 pero rebaja la altura 4 centímetros para lograr la silueta coupé: **4,78 m de largo, 1,90 m de ancho, 2,90 m de batalla y 1,59 m de alto**, con un coeficiente aerodinámico de **0,23**. El maletero cubica **de 490 a 1.600 litros** y suma un **frunk delantero de 58 litros** para los cables. El paquete **M Sport es de serie** (llantas de 20 pulgadas, 21 en el M60 y hasta 22 en opción) con pinzas de freno azules.
+El iX4 parte de la misma base técnica que el iX3, pero baja la altura 4 centímetros para conseguir la silueta coupé: mide **1,59 m de alto, 4,78 m de largo y 1,90 m de ancho, con 2,90 m entre ejes** y un coeficiente aerodinámico de **0,23**. En cuanto al maletero, ofrece entre **490 y 1.600 litros**, más un hueco delantero de **58 litros** para los cables. A eso se añade el paquete **M Sport**, de serie (con llantas de 20 pulgadas, que suben a 21 en el M60 y pueden llegar a 22 en opción) y pinzas de freno en azul.
 
-Dentro, el **BMW Panoramic Vision** proyecta la información en la base del parabrisas, acompañado de la pantalla táctil de 17,9 pulgadas, Head-Up Display 3D opcional y **techo panorámico de serie**. La dinámica la gestiona el superordenador **Heart of Joy**, que procesa las órdenes diez veces más rápido que la generación anterior.
+En el interior, el **BMW Panoramic Vision** muestra los datos en la base del parabrisas, junto al monitor táctil de 17,9 pulgadas, el Head-Up Display 3D opcional y el **techo panorámico de serie**. La dinámica corre a cargo del superordenador **Heart of Joy**, diez veces más veloz que el sistema anterior.
 
-## Precios: Alemania sí, España pendiente
+## Precios: Alemania ya tiene tarifa; España, no
 
 | Mercado | iX4 40 xDrive | iX4 50 xDrive |
 |---|---|---|
@@ -299,9 +299,9 @@ Dentro, el **BMW Panoramic Vision** proyecta la información en la base del para
 | España | Pendiente de anuncio | Pendiente de anuncio |
 | EE. UU. | desde 66.200 $ | — |
 
-BMW España comunicará las tarifas oficiales en las semanas previas al lanzamiento. La producción arranca en **noviembre de 2026** en la nueva planta de **Debrecen (Hungría)**; los pedidos del M60 xDrive se abrirán en **enero de 2027** y las primeras entregas llegarán en **marzo**.
+BMW España anunciará las tarifas oficiales durante las semanas previas al lanzamiento. La fabricación comienza en **noviembre de 2026** en la nueva factoría de **Debrecen (Hungría)**; las reservas del M60 xDrive arrancan en **enero de 2027** y las entregas iniciales están previstas para **marzo**.
 
-## iX4 frente a su hermano iX3
+## iX4 contra su hermano iX3
 
 | Dato | iX4 50 xDrive | <a href=/coches/bmw-ix3-50-xdrive-2026-precio-ficha-tecnica/>iX3 50 xDrive</a> |
 |---|---|---|
@@ -312,37 +312,38 @@ BMW España comunicará las tarifas oficiales en las semanas previas al lanzamie
 | Carrocería | SUV coupé | SUV |
 | Precio de partida | 75.900 € (Alemania) | 69.900 € |
 
-El iX4 es la alternativa emocional al iX3: misma base técnica, 23 km más de autonomía gracias a la aerodinámica y un precio unos 5.000 euros superior en Alemania. Tienes el análisis del <a href=/blog/bmw-ix3-m60-xdrive-2026/>iX3 M60 xDrive de 612 CV</a>, presentado esta misma semana.
+El iX4 funciona como la alternativa emocional al iX3: comparte base técnica, ofrece 23 km más de autonomía por su aerodinámica y cuesta unos 5.000 euros más en Alemania. Aquí tienes el análisis del <a href=/blog/bmw-ix3-m60-xdrive-2026/>iX3 M60 xDrive de 612 CV</a>, que se publicó esta misma semana.
 
-## Preguntas frecuentes
+## Preguntas y respuestas
 
-### ¿Cuándo se presentó el BMW iX4?
+### ¿Cuándo se desveló el BMW iX4?
 
-El 9 de octubre de 2026. Es el tercer modelo de la familia Neue Klasse, tras el iX3 y el i3, y el primer Sports Activity Coupé 100 % eléctrico de BMW.
+Se conoció el 9 de octubre de 2026. Dentro de la familia Neue Klasse es el tercer integrante, después del iX3 y del i3, y el primer Sports Activity Coupé cien por cien eléctrico de BMW.
 
-### ¿Qué autonomía tiene el BMW iX4?
+### ¿Qué autonomía alcanza el BMW iX4?
 
-Hasta **828 km en ciclo WLTP** en la versión 50 xDrive (batería de 108,7 kWh útiles). El 40 xDrive homologa 638 km y el M60 xDrive, 777 km.
+La versión 50 xDrive llega hasta **828 km en ciclo WLTP**, con una batería útil de 108,7 kWh; el 40 xDrive se queda en 638 km y el M60 xDrive, en 777 km.
 
-### ¿Cuánto cuesta el BMW iX4 en España?
+### ¿Cuánto costará el BMW iX4 en España?
 
-BMW España aún no ha comunicado los precios. Como referencia: en Alemania parte de **70.900 €** (40 xDrive) y **75.900 €** (50 xDrive); en Portugal, de 72.000 y 78.400 € respectivamente.
+De momento, BMW España no ha anunciado precios. Sirven de referencia Alemania, donde arranca en **70.900 €** para el 40 xDrive y **75.900 €** para el 50 xDrive, y Portugal, con 72.000 € y 78.400 € respectivamente.
 
-### ¿Cuándo llega el BMW iX4 al mercado?
+### ¿Cuándo sale a la venta el BMW iX4?
 
-La comercialización arranca en **marzo de 2027** con las versiones 40 y 50 xDrive. Los pedidos del M60 xDrive se abrirán en enero de 2027. La producción empieza en noviembre de 2026 en Debrecen (Hungría).
+Las ventas comienzan en **marzo de 2027** con las variantes 40 y 50 xDrive. Las reservas del M60 xDrive arrancan en enero de 2027. La fabricación arranca en noviembre de 2026 en la planta húngara de Debrecen.
 
-### ¿Qué potencia tiene el BMW iX4?
+### ¿Qué potencia ofrece el BMW iX4?
 
-374 CV el 40 xDrive, 469 CV el 50 xDrive y **612 CV** el M60 xDrive, todos con tracción total. El M60 acelera de 0 a 100 km/h en 3,9 segundos.
+El 40 xDrive rinde 374 CV; el 50 xDrive, 469 CV, y el M60 xDrive llega a **612 CV**. Los tres usan tracción total, y el M60 tarda 3,9 segundos en alcanzar los 100 km/h.
 
-### ¿Cuánto tarda en cargar el BMW iX4?
+### ¿Cuánto tarda en cargarse el BMW iX4?
 
-Del 10 al 80 % en **21 minutos** a 400 kW, recuperando 387 km de autonomía en 10 minutos (versiones con batería grande). Las cifras del M60 son provisionales.
+El paso del 10 al 80 % lleva **21 minutos** a 400 kW, con 387 km de autonomía recuperados en 10 minutos (variantes con batería grande). Los datos del M60 son provisionales.
 
 **¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.
 
-*Fuentes: <a href=https://www.autocasion.com/actualidad/pruebas/bmw-ix4-2026/>Autocasion (presentación oficial, datos técnicos y precios, 09/10/2026)</a>, <a href=https://www.somoselectricos.com/coches-electricos/bmw-presenta-nuevo-ix4-electrico-828-km-autonomia-carga-400-kw/20261008070054064052.html>Somos Eléctricos (versiones, dimensiones y precios por mercado, 08/10/2026)</a>, <a href=https://www.tecnobreak.com/noticias/el-nuevo-bmw-ix4-ya-esta-confirmado-para-portugal-y-una-autonomia-impresionante/>TecnoBreak (precios Portugal y producción en Debrecen)</a>, <a href=https://www.autonocion.com/bmw-ix4-electrico-detalles-tecnicos-precios-autonomia-recarga-dimensiones/>Autonoción (detalle técnico completo)</a>.*`,
+*Fuentes: <a href=https://www.autocasion.com/actualidad/pruebas/bmw-ix4-2026/>Autocasion (presentación oficial, datos técnicos y precios, 09/10/2026)</a>, <a href=https://www.somoselectricos.com/coches-electricos/bmw-presenta-nuevo-ix4-electrico-828-km-autonomia-carga-400-kw/20261008070054064052.html>Somos Eléctricos (versiones, dimensiones y precios por mercado, 08/10/2026)</a>, <a href=https://www.tecnobreak.com/noticias/el-nuevo-bmw-ix4-ya-esta-confirmado-para-portugal-y-una-autonomia-impresionante/>TecnoBreak (precios Portugal y producción en Debrecen)</a>, <a href=https://www.autonocion.com/bmw-ix4-electrico-detalles-tecnicos-precios-autonomia-recarga-dimensiones/>Autonoción (detalle técnico completo)</a>.*
+`,
   },
   {
     slug: "xpeng-l03-2026-precio-espana",

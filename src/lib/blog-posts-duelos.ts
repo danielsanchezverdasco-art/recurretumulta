@@ -868,9 +868,9 @@ Se monta en Mioveni (Rumanía), si bien el sistema híbrido de 155 CV usa compon
 Si te llega una sanción y sospechas que trae algún fallo, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de abonar nada.`,
   },
   {
-    title: "MG4 Electric vs BYD Dolphin 2025",
+    title: "MG4 o Dolphin: duelo eléctrico chino 2025",
     slug: "mg4-electric-vs-byd-dolphin-2025-cual-comprar",
-    excerpt: "El MG4 Electric Standard (30.690 €) contra el BYD Dolphin (36.690 €): precio, autonomía, potencia y carga de los dos compactos eléctricos chinos.",
+    excerpt: "MG4 Electric desde 30.690 € frente a BYD Dolphin desde 36.690 €: comparamos recorrido, potencia, recarga y maletero de ambos compactos eléctricos.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 8,
@@ -887,13 +887,13 @@ Si te llega una sanción y sospechas que trae algún fallo, <a href=https://recu
     ],
     content: `<img src=/media/mg4-electric-vs-byd-dolphin-2025-cual-comprar-hero.webp alt=Comparativa entre el MG4 Electric y el BYD Dolphin 2025, los compactos eléctricos chinos más vendidos>
 
-El duelo de los compactos eléctricos chinos: el **MG4 Electric Standard**, desde **30.690 €**, contra el **BYD Dolphin**, desde **36.690 €**. Los dos son 100 % eléctricos, los dos llevan etiqueta Cero, los dos miden 4,29 m y los dos compiten por ser el eléctrico "generalista" que sustituya a tu compacto de gasolina. Pero juegan en posiciones distintas: el MG4 es el más barato y el más divertido de conducir; el Dolphin es el que más autonomía ofrece.
+Dos compactos nacidos en China se disputan el mismo comprador europeo: uno firma MG y otro BYD. El primero arranca en 30.690 €; el segundo, en 36.690 €. Ambos funcionan solo con electricidad, ambos presumen del distintivo ambiental Cero y ambos rondan los 4,29 metros de longitud. Sin embargo, cada uno defiende una virtud diferente: el MG4 seduce por desembolso y por sensaciones al volante, mientras el Dolphin presume de recorrido entre cargas.
 
-Respuesta corta: **si el presupuesto manda, el MG4; si la autonomía manda, el Dolphin**. Los 6.000 € de diferencia se notan en los dos sentidos. Los detalles, en la tabla.
+En pocas palabras: cuando el dinero pesa más que cualquier otro argumento, la balanza cae del lado del MG4; cuando lo decisivo es cuántos kilómetros permite una carga, el Dolphin toma ventaja. Entre ambas versiones de acceso median 6.000 €, una cantidad que se deja notar en ambas direcciones. El cuadro siguiente resume las cifras esenciales.
 
-Fichas técnicas: <a href=/coches/mg4-electric-standard-2025-precio-ficha-tecnica/>ver ficha técnica completa del MG4 Electric</a> · <a href=/coches/byd-dolphin-2025-precio-ficha-tecnica/>ver ficha técnica completa del BYD Dolphin</a>.
+Datos completos aquí: <a href=/coches/mg4-electric-standard-2025-precio-ficha-tecnica/>ver ficha técnica completa del MG4 Electric</a> y <a href=/coches/byd-dolphin-2025-precio-ficha-tecnica/>ver ficha técnica completa del BYD Dolphin</a>.
 
-## Tabla comparativa: MG4 Electric Standard vs BYD Dolphin 2025
+## Cifras frente a frente
 
 | Ficha | MG4 Electric Standard | BYD Dolphin |
 |---|---|---|
@@ -914,65 +914,65 @@ Fichas técnicas: <a href=/coches/mg4-electric-standard-2025-precio-ficha-tecnic
 
 <img src=/media/mg4-electric-vs-byd-dolphin-2025-cual-comprar-cuerpo.webp alt=MG4 Electric y BYD Dolphin en carretera, comparativa de los dos eléctricos>
 
-## Análisis: qué ofrece cada uno
+## Qué aporta cada compacto
 
-**MG4 Electric Standard.** El argumento del MG4 es el precio por kilómetro de autonomía: **30.690 €** con batería LFP de 51 kWh (química duradera y sin cobalto) y **350 km WLTP**. Es, además, el más deportivo del par: **tracción trasera**, reparto de pesos 50:50, 170 CV y 250 Nm, con el 0-100 en 7,7 s. En carga rápida gana por goleada: **117 kW en DC** (10-80 % en 40 minutos) frente a los 88 kW del Dolphin. La garantía es de **7 años o 150.000 km**, batería incluida. Sus pegas: la autonomía se queda justa para viajes largos frecuentes, la carga en alterna es de solo 6,6 kW (lento en puntos públicos de AC), el software del infoentretenimiento es mejorable y no trae bomba de calor en la versión de acceso.
+El MG4 Standard justifica su precio con una relación entre coste y recorrido bastante favorable: por 30.690 € entrega una batería LFP de 51 kWh, una química longeva y libre de cobalto, homologada para 350 km en ciclo WLTP. Su carácter resulta más juguetón que el de su rival gracias a la propulsión trasera, un reparto equilibrado 50:50 entre ejes, 170 CV y un par de 250 Nm, con aceleración de 0 a 100 km/h en 7,7 segundos. Donde más distancia marca es en la recarga en corriente continua: admite 117 kW y recupera del 10 al 80 % en 40 minutos, superando los 88 kW del Dolphin. La cobertura alcanza 7 años o 150.000 km, con la batería incluida en esa garantía. Entre sus limitaciones figuran un recorrido algo corto para viajar con frecuencia por carretera, una carga en alterna de apenas 6,6 kW que se hace lenta en postes públicos de AC, un sistema de infoentretenimiento cuyo software admite mejora y la ausencia de bomba de calor en el acabado de acceso.
 
-**BYD Dolphin.** El argumento del Dolphin es la autonomía: **427 km WLTP** con 60,4 kWh de batería y un consumo contenido de **15,9 kWh/100 km**. También gana en potencia (204 CV, 310 Nm, 0-100 en 7,0 s) y en garantía de batería (**8 años o 200.000 km**). Es más urbano de planteamiento: tracción delantera, maniobrabilidad excelente y un interior con la pantalla giratoria característica de BYD. Sus pegas: cuesta **6.000 € más** que el MG4, la carga rápida se queda en 88 kW, el maletero es algo menor (345 L) y las plazas traseras son justas en habitabilidad.
+El Dolphin apuesta casi todo a la distancia entre cargas: con 60,4 kWh alcanza 427 km WLTP y un gasto moderado de 15,9 kWh cada 100 km. También supera a su contrincante en empuje, con 204 CV, 310 Nm y un 0 a 100 km/h en 7,0 segundos, y protege su batería durante 8 años o 200.000 km. Su planteamiento mira más a la ciudad: eje delantero motriz, agilidad notable entre calles y un habitáculo donde destaca la pantalla que gira, tan característica de BYD. Del otro lado, su tarifa inicial queda 6.000 € por encima de la del MG4, su recarga rápida se detiene en 88 kW, su maletero baja a 345 litros y sus asientos traseros ofrecen un espacio algo limitado.
 
-## Pros y contras
+## Luces y sombras de ambos
 
 **MG4 Electric Standard:**
-- ✅ 30.690 €: el compacto eléctrico con mejor precio por km de autonomía
-- ✅ 350 km WLTP con batería LFP de 51 kWh: química duradera y sin cobalto
-- ✅ Tracción trasera y reparto de pesos 50:50: el más divertido del segmento
-- ✅ Carga rápida de 117 kW (10-80 % en 40 minutos)
-- ✅ 7 años o 150.000 km de garantía, batería incluida
-- ❌ 350 km de autonomía: justo para viajes largos frecuentes
-- ❌ Carga en alterna de solo 6,6 kW: lento en puntos públicos de AC
-- ❌ Software del infoentretenimiento mejorable
-- ❌ Sin bomba de calor en la versión de acceso
+- ✅ Desde 30.690 €: recorrido por euro invertido muy favorable entre los compactos eléctricos
+- ✅ Batería LFP de 51 kWh y 350 km WLTP: química longeva, libre de cobalto
+- ✅ Propulsión trasera con reparto 50:50 entre ejes: el más entretenido del segmento
+- ✅ Recarga rápida de 117 kW, del 10 al 80 % en 40 minutos
+- ✅ Cobertura hasta 150.000 km o 7 años, con la batería dentro de ella
+- ❌ 350 km de recorrido: escaso para viajar lejos con asiduidad
+- ❌ Alterna de solo 6,6 kW: recargas lentas en postes públicos de AC
+- ❌ Software del sistema multimedia que admite una puesta al día
+- ❌ Acabado de acceso sin bomba de calor
 
 **BYD Dolphin:**
-- ✅ Autonomía de 427 km con solo 60,4 kWh de batería
-- ✅ 0-100 km/h en 7,0 segundos, más que suficiente para el segmento
-- ✅ Consumo contenido: 15,9 kWh/100 km
-- ✅ 8 años o 200.000 km de garantía de batería
-- ✅ Maniobrabilidad excelente en ciudad
-- ❌ Carga rápida limitada a 88 kW frente a rivales más rápidos
-- ❌ 6.000 € más caro que el MG4 Electric Standard
-- ❌ Maletero de solo 345 litros
-- ❌ Plazas traseras algo justas en habitabilidad
+- ✅ Recorrido de 427 km con una batería de solo 60,4 kWh
+- ✅ Aceleración de 0 a 100 km/h en 7,0 segundos, sobrada para este segmento
+- ✅ Gasto moderado: 15,9 kWh cada 100 km
+- ✅ Protección de la batería hasta 200.000 km u 8 años
+- ✅ Agilidad notable circulando por ciudad
+- ❌ Recarga rápida contenida en 88 kW, por debajo de rivales más veloces
+- ❌ Tarifa 6.000 € superior a la del MG4 Electric Standard
+- ❌ Maletero de apenas 345 litros
+- ❌ Asientos traseros con espacio algo limitado
 
-## Veredicto: ¿cuál comprar?
+## Entonces, ¿por cuál decidirse?
 
-**Compra el MG4 Electric si** el presupuesto manda por encima de todo y te gusta conducir: es 6.000 € más barato, carga mucho más rápido en DC (117 frente a 88 kW), es tracción trasera y es el más divertido del par. Es el eléctrico racional por excelencia. **Compra el BYD Dolphin si** la autonomía es tu prioridad: 427 km frente a 350 km es una diferencia que se nota en el día a día y en los viajes, además de más potencia (204 frente a 170 CV) y mejor garantía de batería (8 años/200.000 km frente a 7 años/150.000 km). Veredicto honesto: el MG4 gana por precio y carga; el Dolphin, por autonomía y potencia. Los 6.000 € de diferencia se pagan en kilómetros.
+Si el dinero manda por encima de cualquier otro criterio y disfrutas conduciendo, el MG4 resulta la opción lógica: cuesta 6.000 € menos, recarga en continua mucho antes (117 kW frente a 88 kW), mueve el eje trasero y transmite sensaciones más deportivas que su rival. Es, en definitiva, el eléctrico sensato del comparativo. Si, en cambio, tu prioridad es la distancia entre cargas, el Dolphin se impone: 427 km frente a 350 km marcan la diferencia tanto en el uso diario como en carretera, a lo que suma más empuje (204 CV frente a 170 CV) y una cobertura de batería más amplia (hasta 200.000 km u 8 años, frente a 150.000 km o 7 años del MG4). Balance sincero: el MG4 vence en desembolso y recarga; el Dolphin, en recorrido y potencia. Esos 6.000 € de separación se traducen, al final, en kilómetros.
 
-Compáralos en nuestro <a href=/comparador-coches/?a=mg4-electric-standard-2025-precio-ficha-tecnica&b=byd-dolphin-2025-precio-ficha-tecnica>comparador del MG4 Electric y el BYD Dolphin</a>, y lee el <a href=/coches/mg4-electric-standard-2025-precio-ficha-tecnica/>análisis completo del MG4 Electric</a> y el <a href=/coches/byd-dolphin-2025-precio-ficha-tecnica/>análisis completo del BYD Dolphin</a>. Fichas en <a href=/coches/mg4-electric-standard-2025-precio-ficha-tecnica/>ficha del MG4 Electric</a> y <a href=/coches/byd-dolphin-2025-precio-ficha-tecnica/>ficha del BYD Dolphin</a>. Los dos llevan etiqueta Cero y entran en todas las ZBE: repasa nuestra <a href=/guias/zbe/>guía de etiquetas y ZBE</a> si tienes dudas.
+Enfréntalos en nuestro <a href=/comparador-coches/?a=mg4-electric-standard-2025-precio-ficha-tecnica&b=byd-dolphin-2025-precio-ficha-tecnica>comparador del MG4 Electric y el BYD Dolphin</a>, consulta el <a href=/coches/mg4-electric-standard-2025-precio-ficha-tecnica/>análisis completo del MG4 Electric</a> y el <a href=/coches/byd-dolphin-2025-precio-ficha-tecnica/>análisis completo del BYD Dolphin</a>. También tienes la <a href=/coches/mg4-electric-standard-2025-precio-ficha-tecnica/>ficha del MG4 Electric</a> y la <a href=/coches/byd-dolphin-2025-precio-ficha-tecnica/>ficha del BYD Dolphin</a>. Ambos modelos lucen el distintivo Cero y acceden a todas las ZBE: si te surgen dudas, revisa nuestra <a href=/guias/zbe/>guía de etiquetas y ZBE</a>.
 
 Fuentes: <a href=https://www.mgmotor.eu>MG Europa</a> y <a href=https://www.byd.com>BYD</a>.
 
 ## Preguntas frecuentes
 
-### ¿Cuál es más barato, el MG4 Electric o el BYD Dolphin?
-El MG4 Electric Standard: desde 30.690 €, frente a los 36.690 € del BYD Dolphin. Son 6.000 € de diferencia entre las versiones de acceso.
+### ¿Qué coche sale más económico al comprarlo?
+El MG4 Electric Standard, con un precio inicial de 30.690 €. El Dolphin arranca en 36.690 €, de modo que la separación inicial entre ambas versiones de acceso alcanza los 6.000 €.
 
-### ¿Cuál tiene más autonomía?
-El BYD Dolphin: 427 km WLTP con su batería de 60,4 kWh, frente a los 350 km del MG4 con 51 kWh. En consumo también gana el Dolphin: 15,9 kWh/100 km.
+### ¿Qué modelo recorre más kilómetros con una carga?
+El Dolphin, con 427 km WLTP gracias a su batería de 60,4 kWh, por delante de los 350 km que homologa el MG4, dotado con 51 kWh. En gasto también lidera el Dolphin, con 15,9 kWh cada 100 km.
 
-### ¿Cuál carga más rápido?
-El MG4 Electric: 117 kW en corriente continua (10-80 % en 40 minutos), frente a los 88 kW del BYD Dolphin. En viajes con paradas de carga, el MG4 recupera kilómetros antes.
+### ¿Cuál recupera antes kilómetros en un cargador rápido?
+El MG4: admite 117 kW en continua y pasa del 10 al 80 % en 40 minutos, por delante de los 88 kW del Dolphin. En trayectos con paradas para recargar, el MG4 vuelve antes a la carretera.
 
-### ¿Cuál es más potente?
-El BYD Dolphin: 204 CV y 310 Nm con el 0-100 en 7,0 s, frente a los 170 CV y 250 Nm del MG4 (7,7 s). A cambio, el MG4 es tracción trasera, con reparto de pesos 50:50 y tacto más deportivo.
+### ¿Cuál acelera con más brío?
+El Dolphin entrega 204 CV y 310 Nm, y acelera de 0 a 100 km/h en 7,0 segundos, por delante de los 170 CV, con 250 Nm, del MG4, que tarda 7,7 segundos. Eso sí, el MG4 mueve el eje trasero, reparte su peso 50:50 y ofrece un tacto más deportivo.
 
-### ¿Los dos tienen etiqueta Cero de la DGT?
-Sí, ambos son eléctricos puros y llevan etiqueta Cero, así que entran en todas las zonas de bajas emisiones sin restricciones.
+### ¿Ambos pueden entrar en las zonas de bajas emisiones?
+Sí: los dos funcionan solo con electricidad y lucen el distintivo Cero, así que acceden sin trabas a todas las zonas de bajas emisiones.
 
-### ¿Cuál tiene mejor garantía?
-El Dolphin: 8 años o 200.000 km para la batería. El MG4 ofrece 7 años o 150.000 km de garantía general, batería incluida.
+### ¿Qué cobertura ofrece cada uno?
+El Dolphin protege su batería hasta 200.000 km u 8 años. El MG4 cubre vehículo y batería hasta 150.000 km o 7 años.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+Si te llega una sanción y sospechas que puede contener algún error, <a href=https://recurretumulta.online/>revísala gratis con nuestra IA</a> antes de abonarla.
 `,
   },
   {
