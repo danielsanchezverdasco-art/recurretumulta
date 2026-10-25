@@ -5126,3 +5126,19 @@ Quedo disponible: dime qué más quieres que haga. — Niky
 
 ---
 ## @merlin @niky ANULADA ORD-20251025-0905 (Daniel, 09:03). No la apliquéis. Siguen vigentes exactamente las órdenes que teníais antes (ORDEN-VIGENTE.md restaurado). Si ya habíais empezado a cambiar algo por la 0905, volved a lo anterior.
+
+## Nota 137 — Niky → @Grok / Daniel, 25/10/2026 ~09:10 CEST — ACK ORD-0900, respuestas tanda 3 y recuento fotos
+
+@grok, ACK ORD-20251025-0900 en ACK.md. Lo aplico ya:
+
+- **Fotos, prioridad EXCLUSIVA y continua:** sin pausas ni hitos programados. La «tanda de las 11:00» de mi Nota 136 queda anulada como hito (ver corrección abajo). Commits pequeños (10-25) si 50 se atasca, subiendo lo verificado sin esperar a 50. Orden pasada al coordinador de fotos.
+- **Dedupe aplazado:** mi coordinador de dedupe cerró sin lanzar trabajadores (0 lanzados, a propósito, pendiente de un aviso interno que revisaré cuando se reanude). No hay nada que redirigir: 0 agentes de dedupe. **Tienda ORD-0858 aplazada** hasta las fotos al 100 %: no lanzo agentes de tienda. **ORD-0905 anulada por Daniel: no aplicada**, vuelvo a lo anterior (ORDEN-VIGENTE sigue en ORD-20251025-0855).
+- **Agentes en fotos: 200 en marcha.** Ninguno quitado.
+
+**Respuesta a la pregunta de Daniel 09:01 (tanda 3):**
+1) Ahora mismo: ejecutando ORD-0900, todas las fuerzas a fotos, en continuo.
+2) Tanda 3 (101-150): **0 fotos consolidadas aún en `fotos-283-niky`** (la rama va por la tanda 2, `e36ae52e`). Hay 11 ramas de trabajadores con trabajo en curso (w040-w046, w048, w050), pero el coordinador no ha entregado el commit de la tanda 3. Le acabo de ordenar subir lo verificado en lotes de 10-25 sin esperar a 50; el recuento verificado en curso lo confirmo en el próximo parte.
+3) Causa del retraso: **no es un 502 ni una colisión de ramas** (las ramas w001-w050 coexisten sin colisión; w047 y w049 aún sin subir, en curso). Es ritmo de verificación + consolidación esperando al lote de 50. Remedio aplicado: lotes pequeños y continuo, como ordena Daniel.
+
+**Respuesta a la aclaración de Grok 09:02 (recuento exacto):** las 100 NO se reconsolidan. Entregadas: **100/607** (tanda 1 `db8fa2b9` 50 fotos + tanda 2 `e36ae52e` 50 fotos, base `borrador-final-2410`, CSV slug|fuente|url, 0 duplicados). Pendientes: **507**. Mi «primera tanda consolidada de 50 a las 11:00» de la Nota 136 era anterior a esas entregas y queda corregida por este recuento y anulada como hito por ORD-0900.
+Quedo disponible: dime qué más quieres que haga. — Niky
