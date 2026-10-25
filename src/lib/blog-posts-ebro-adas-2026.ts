@@ -8,7 +8,7 @@ export const EBRO_ADAS_POSTS: BlogPost[] = [
   {
     "title": "Ebro s800 PHEV 2027: tus ADAS, guardados al arrancar",
     "slug": "ebro-s800-phev-2027-perfiles-adas-personales",
-    "excerpt": "El Ebro s800 PHEV MY2027 guarda tus ajustes de ADAS en un perfil personal y los recupera al arrancar, sin reconfigurar ayudas cada mañana. Así funciona.",
+    "excerpt": "El Ebro s800 PHEV MY2027 estrena perfiles personales: guarda tus ADAS favoritos y los recupera al arrancar. Se acabó reconfigurar pitidos cada mañana.",
     "category": "Motor",
     "date": "2026-10-05",
     "readTime": 6,
@@ -23,13 +23,13 @@ export const EBRO_ADAS_POSTS: BlogPost[] = [
     ],
     "content": `<img src=/media/ebro-s800-phev-2027-perfiles-adas-hero.webp alt=Ebro s800 PHEV 2027 gris oscuro en una carretera española al amanecer>
 
-Quien estrene coche nuevo conoce bien esa escena: arrancas, sales del garaje y arranca la orquesta. Suena el aviso de velocidad, vibra el mantenimiento de carril, saltan alertas que nadie ha pedido... y ahí estás tú, desactivando menús uno tras otro antes de pisar la carretera. El responsable no es el vehículo: la normativa europea impone que buena parte de los ADAS vuelvan a activarse con cada arranque. Con cada puesta en marcha, el s800 PHEV MY2027 de Ebro responde con perfiles personales: ajustas una sola vez qué ayudas quieres y de qué manera, y el coche lo guarda.
+Si conduces un coche nuevo, conoces el ritual: arrancas, sales del garaje y empieza el concierto. Pitido del aviso de velocidad, vibración del mantenimiento de carril, alertas que no pediste... y tú, uno por uno, desactivando menús antes de salir a la carretera. La culpa no es del coche: la **normativa europea obliga a que buena parte de los ADAS se reactiven en cada arranque**. El **Ebro s800 PHEV MY2027** ha decidido plantarle cara con **perfiles personales**: configuras una vez qué ayudas quieres y cómo, y el coche lo recuerda.
 
 <a href=/coches/ebro-s800-phev-precio-ficha-tecnica/>Ver ficha técnica del Ebro S800</a>
 
-## Por qué la UE vuelve a encenderte las ayudas cada día
+## El problema: la UE te los enciende cada mañana
 
-El Reglamento General de Seguridad europeo, el (UE) 2019/2144, exige que los turismos nuevos lleven de serie asistentes que arrancan activados por defecto, aunque el día anterior los hubieras apagado:
+Desde el Reglamento General de Seguridad (UE) 2019/2144, los coches nuevos deben llevar de serie asistentes que **se activan por defecto al arrancar**, aunque los hubieras apagado el día anterior:
 
 | Asistente | Qué hace | Al arrancar |
 |---|---|---|
@@ -39,13 +39,13 @@ El Reglamento General de Seguridad europeo, el (UE) 2019/2144, exige que los tur
 | **Detector de fatiga y atención** | Vigila signos de cansancio o distracción | Se reactiva solo |
 | **Detección de marcha atrás** | Cámara y sensores al meter reversa | Siempre activo |
 
-El efecto es el mismo cada día: otra vuelta por los menús. Renault figuró entre las primeras marcas en comprender que el inconveniente no eran las ayudas en sí, sino la manera de convivir con ellas, y lanzó el botón My Safety: tu ajuste propio, listo con una sola pulsación al arrancar.
+El resultado: cada mañana, el mismo baile por los menús. Renault fue de las primeras marcas en entender que el problema no eran las ayudas, sino la forma de convivir con ellas, y creó el botón **My Safety**: una configuración personal que se recupera con una pulsación rápida al arrancar.
 
-## Qué propone Ebro: una cuenta por conductor, todo a tu gusto
+## La solución de Ebro: tu cuenta, tus reglas
 
-El s800 PHEV MY2027 apuesta por esa misma idea. La pieza central es la cuenta personal asociada al vehículo: cada conductor abre la suya y deja guardadas sus preferencias. A partir de ahí, todo se maneja desde el centro de control: ese menú de accesos rápidos que vive en la pantalla central permite encender o apagar los ADAS que ya dejaste configurados, sin perderte por submenús. En la práctica funciona como un botón mágico: el coche regresa a tu gusto en cuestión de segundos.
+El s800 PHEV MY2027 sigue la misma filosofía. La clave es la **cuenta personal vinculada al vehículo**: cada conductor crea la suya y guarda sus preferencias. Después, todo se gestiona desde el **centro de control**, el menú de accesos rápidos de la pantalla central: ahí **activas o desactivas los ADAS previamente configurados** sin bucear por submenús. En la práctica, es el botón mágico: el coche vuelve a tu gusto en segundos.
 
-Y el perfil no se limita a los asistentes. También conserva los reglajes generales del coche:
+Y no se queda en los asistentes. El perfil también guarda los ajustes generales del coche:
 
 | Categoría | Qué guarda el perfil |
 |---|---|
@@ -54,45 +54,44 @@ Y el perfil no se limita a los asistentes. También conserva los reglajes genera
 | **Confort** | Techo solar, iluminación ambiental, modos de confort |
 | **Multimedia** | Sonido, pantalla, conectividad |
 
-Te montas, el coche te identifica y todo sigue donde lo dejaste. Nada de volver a configurar cada mañana.
+Te subes, el coche te reconoce y todo está donde lo dejaste. Sin reconfigurar nada cada mañana.
 
 <img src=/media/ebro-s800-phev-2027-perfiles-adas-interior.webp alt=Interior del Ebro s800 PHEV 2027 con la pantalla central mostrando el menú de ayudas a la conducción>
 
-## Una idea que ya corría por la casa
+## La receta ya la conocían en casa
 
-No surge de la nada: Omoda y Jaecoo, junto con Lepas, enseñas emparentadas tecnológicamente con Ebro, ya brindan este mismo sistema de ajuste personal. Ebro le ha dado su propio enfoque, usando el centro de control como acceso.
+No es una ocurrencia aislada: **Omoda & Jaecoo** y **Lepas**, marcas con las que Ebro comparte buena parte de su base tecnológica, ya ofrecen este mismo sistema de configuración personal. Ebro lo ha adaptado a su manera, con el centro de control como puerta de entrada.
 
-## El s800 PHEV MY2027, situado en su gama
+## El s800 PHEV MY2027, en contexto
 
-La función se estrena junto a la renovación del modelo para 2027, que además afina diseño, confort y calidad percibida. Lo que permanece intacto es lo fundamental: 279 CV conjuntos del sistema híbrido enchufable, 7 plazas de serie y más de 1.100 km en total, con hasta 90 km eléctricos. Con esas cifras, porta la etiqueta Cero de la DGT: entrada libre a las Zonas de Bajas Emisiones. La <a href=https://www.dgt.es>web de la DGT</a> recoge más información.
+La función llega con la evolución del modelo para el año 2027, que también retoca diseño, confort y calidad percibida. Lo que no cambia es lo esencial: el sistema híbrido enchufable de **279 CV** conjuntos, **hasta 90 km de autonomía eléctrica** y **más de 1.100 km de autonomía total**, con **7 plazas** de serie, uno de sus grandes argumentos frente a rivales. Con esas cifras, lleva la **etiqueta Cero de la DGT**: acceso libre a las Zonas de Bajas Emisiones. Más detalles en la <a href=https://www.dgt.es>web de la DGT</a>.
 
-Si lo estás valorando como coche familiar, <a href=/comparador-coches/>Compáralo con sus rivales en el comparador</a> y asómate a nuestro <a href=/coches/ebro-s900-phev-2026-precio-ficha-tecnica/>análisis del Ebro S900 PHEV</a>, el hermano mayor con 7 plazas.
+¿Te cuadra como coche familiar? <a href=/comparador-coches/>Compáralo con sus rivales en el comparador</a> y echa un ojo a nuestro <a href=/coches/ebro-s900-phev-2026-precio-ficha-tecnica/>análisis del Ebro S900 PHEV</a>, su hermano mayor de 7 plazas.
 
-## Menos toqueteos, menos despistes (y menos sanciones)
+## Menos menús, menos distracciones (y menos multas)
 
-Hay un aspecto que nos afecta de lleno: manipular la pantalla en marcha para acallar ayudas supone una distracción, y distraerse sale caro. Un perfil configurado antes de salir deja el coche a tu gusto y recorta esos toqueteos circulando. Y ten presente: si el avisador de velocidad te caza una jornada con el pie algo pesado y termina en denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar: muchas notificaciones de radar presentan defectos recurribles.
+Hay un ángulo que nos toca de cerca: trastear con la pantalla en marcha para silenciar ayudas es una **distracción**, y las distracciones salen caras. Un perfil que deja el coche a tu gusto antes de salir reduce toqueteos en marcha. Y recuerda: si el aviso de velocidad te pilla un día con el pie pesado y te cae una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar: muchos avisos de radar tienen defectos recurribles.
 
 ## Preguntas frecuentes
 
-### ¿En qué consisten los perfiles personales del s800 PHEV MY2027?
-Tu cuenta personal, ligada al vehículo, guarda qué ADAS quieres y cómo quedan los reglajes generales: sonido, pantalla y conectividad, además de regeneración, techo solar, iluminación ambiental y modos de confort. Al arrancar, el coche las recupera.
+### ¿Qué son los perfiles personales del Ebro s800 PHEV MY2027?
+Una cuenta personal vinculada al coche donde guardas tus preferencias de ADAS y de ajustes generales: regeneración, techo solar, iluminación ambiental, modos de confort, conectividad, sonido y pantalla. Al arrancar, el coche las recupera.
 
-### ¿Dónde se manejan los perfiles?
-Se manejan desde el centro de control: ese acceso rápido en la pantalla central sirve para encender o apagar los ADAS ya configurados, sin bucear por submenús.
+### ¿Desde dónde se gestionan los perfiles?
+Desde el **centro de control**, el menú de accesos rápidos de la pantalla central, que permite activar o desactivar los ADAS previamente configurados sin entrar en submenús.
 
-### ¿Por qué se encienden solos los ADAS cada día?
-Porque el Reglamento (UE) 2019/2144 exige que, en los coches nuevos, el avisador de velocidad, la frenada autónoma y el mantenimiento de carril, entre otros, arranquen activados por defecto.
+### ¿Por qué los ADAS se encienden solos cada mañana?
+Porque el Reglamento (UE) 2019/2144 obliga a que asistentes como el avisador de velocidad, la frenada autónoma o el mantenimiento de carril se activen por defecto en cada arranque en los coches nuevos.
 
-### ¿Equivale al My Safety de Renault?
-La idea es la misma: guardar tu ajuste personal de asistentes y tenerlo listo con un gesto rápido al arrancar, en vez de tocar cada ayuda a mano a diario.
+### ¿Es lo mismo que el My Safety de Renault?
+La filosofía es la misma: guardar tu configuración personal de asistentes y recuperarla con un gesto rápido al arrancar, en lugar de reconfigurar cada ayuda a mano cada mañana.
 
-### ¿Qué otras marcas ofrecen algo parecido?
-Omoda y Jaecoo, junto con Lepas, enseñas de base tecnológica común con Ebro, ya cuentan con un sistema similar de ajuste personal de asistentes y reglajes.
+### ¿Qué otras marcas tienen algo parecido?
+Omoda & Jaecoo y Lepas, que comparten base tecnológica con Ebro, ya ofrecen un sistema similar de configuración personal de asistentes y ajustes.
 
-### ¿Cambia la mecánica del s800 PHEV MY2027?
-No: el sistema sigue siendo el híbrido enchufable de 279 CV, con 7 plazas y más de 1.100 km en total, de los que hasta 90 km son eléctricos. Lo nuevo está en la tecnología, el diseño, el confort y la personalización.
+### ¿El s800 PHEV MY2027 cambia en mecánica?
+No: mantiene el híbrido enchufable de 279 CV, hasta 90 km de autonomía eléctrica y más de 1.100 km de autonomía total, con 7 plazas. La novedad está en la personalización, el diseño, el confort y la tecnología.
 
-*Fuentes: <a href=https://www.autonocion.com/ebro-s800-phev-perfiles-adas/>Autonoción</a>, <a href=https://apmc.cat/apmc/el-ebro-s800-phev-adapta-sus-sistemas-de-asistencia-a-las-preferencias-de-cada-conductor/>APMC</a> y <a href=https://www.dgt.es>Dirección General de Tráfico</a>.*
-`
+*Fuentes: <a href=https://www.autonocion.com/ebro-s800-phev-perfiles-adas/>Autonoción</a>, <a href=https://apmc.cat/apmc/el-ebro-s800-phev-adapta-sus-sistemas-de-asistencia-a-las-preferencias-de-cada-conductor/>APMC</a> y <a href=https://www.dgt.es>Dirección General de Tráfico</a>.*`
   }
 ];

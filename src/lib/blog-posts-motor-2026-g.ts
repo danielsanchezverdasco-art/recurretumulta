@@ -10,7 +10,7 @@ export const MOTOR_2026_G_POSTS: BlogPost[] = [
   {
     title: "Septiembre de 2026: el eléctrico alcanza el 34% en España",
     slug: "anfac-septiembre-2026-record-electrificacion-model-3-lider",
-    excerpt: "Septiembre de 2026, récord en España: 31.945 electrificados, el 34% del mercado, y el Model 3, con 2.528 unidades, fue el turismo más vendido del mes.",
+    excerpt: "Septiembre de 2026, récord del eléctrico en España: los electrificados llegaron al 34% del mercado y el Tesla Model 3 fue el coche más vendido del país.",
     category: "Novedades Motor",
     date: "2026-10-04",
     readTime: 6,
@@ -23,18 +23,18 @@ export const MOTOR_2026_G_POSTS: BlogPost[] = [
     ],
     content: `<img src=/media/anfac-septiembre-2026-record-electrificacion-model-3-lider-hero.webp alt=Concesionario español con varios coches eléctricos aparcados en fila durante septiembre de 2026>
 
-Septiembre de 2026 deja un hito para el coche enchufable en España. Los turismos electrificados, sumando eléctricos puros e híbridos enchufables, registraron 31.945 matriculaciones, un 56% por encima del mismo mes de 2025, y supusieron el 34% de todas las ventas, diez puntos más que un año antes. El registro que marca el mes es otro: el Tesla Model 3, con 2.528 matriculaciones, se convirtió en el primer turismo totalmente eléctrico que encabeza las ventas mensuales en España.
+Septiembre de 2026 ya es historia del motor eléctrico en España: los turismos electrificados (eléctricos puros e híbridos enchufables) sumaron **31.945 matriculaciones, un 56% más** que un año antes, y alcanzaron el **34% del mercado total**, diez puntos más que en septiembre de 2025. Y el dato que lo cambia todo: por primera vez, el coche más vendido de España en un mes es 100% eléctrico — el **Tesla Model 3, con 2.528 unidades**.
 
 ## Datos clave
 
-- **Totales de septiembre:** 93.858 turismos, subida del 10,2% frente al año anterior
-- **Electrificados (BEV + PHEV):** 31.945 unidades, +56%, cuota del 34%
-- **Eléctricos puros (BEV):** 17.366 unidades, +71,7%, segunda tecnología del mes
-- **Híbridos con enchufe (PHEV):** 14.579 unidades, +40,6%
-- **Acumulado entre enero y septiembre de 2026:** 217.298 electrificados, +36,9% y una cuota del 23,8%; los eléctricos puros suman 100.508, +39,47%, y su peso subió del 8,43% al 11,02% respecto a 2025
-- **Origen:** Faconauto y Ganvam publicaron estas matriculaciones junto a <a href=https://anfac.com>ANFAC</a> el 1 de octubre de 2026
+- **Matriculaciones totales de septiembre:** 93.858 turismos (+10,2% interanual)
+- **Electrificados (BEV + PHEV):** 31.945 uds (+56%), el 34% del mercado
+- **Eléctricos puros (BEV):** 17.366 uds (+71,7%), ya la segunda tecnología del mes
+- **Híbridos enchufables (PHEV):** 14.579 uds (+40,6%)
+- **Acumulado enero-septiembre 2026:** 217.298 electrificados (+36,9%), el 23,8% del mercado; de ellos, 100.508 son eléctricos puros (+39,47%, cuota del 11,02% frente al 8,43% de 2025)
+- **Fuente:** datos de matriculaciones publicados por <a href=https://anfac.com>ANFAC</a>, Faconauto y Ganvam el 1 de octubre de 2026
 
-## Qué eléctricos encabezan las ventas
+## Los eléctricos que de verdad se están vendiendo en España
 
 | Modelo | Septiembre 2026 | Acumulado ene-sep 2026 |
 |---|---|---|
@@ -46,13 +46,13 @@ Septiembre de 2026 deja un hito para el coche enchufable en España. Los turismo
 | BYD Atto 2 | — | 3.175 |
 | Renault 5 E-Tech | — | 2.570 |
 
-Septiembre también fue el mes más fuerte del Model 3 en España hasta la fecha. El contexto global acompaña: <a href=https://www.tesla.com>Tesla</a> comunicó 486.532 entregas durante el tercer trimestre de 2026, por encima de lo esperado por el consenso, y las matriculaciones europeas de la marca entre enero y agosto crecieron cerca de dos tercios respecto al año anterior, según ACEA. El tropiezo europeo de Tesla en ventas empieza a quedar atrás, al menos en cifras.
+El Model 3 no solo lidera: septiembre fue **su mejor mes histórico en España**. Y no es un espejismo local: <a href=https://www.tesla.com>Tesla</a> anunció 486.532 entregas en el tercer trimestre de 2026, por encima del consenso, y en Europa sus matriculaciones de enero a agosto subieron cerca de dos tercios interanual según ACEA. El bache europeo de Tesla, al menos en ventas, empieza a quedar atrás.
 
 <img src=/media/anfac-septiembre-2026-record-electrificacion-model-3-lider-cuerpo.webp alt=Coches eléctricos enchufados a puntos de recarga rápida en un concesionario español moderno>
 
-En el acumulado, la cuarta plaza es para el Kia EV3, con 3.828 unidades, y la quinta para el Toyota C-HR+, con 3.359: Corea y Japón sitúan así dos modelos dentro de los cinco eléctricos más vendidos en España. El BYD Dolphin Surf, tercero con 4.334, ratifica que el urbano económico chino ya forma parte del mercado general. El <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>Renault 5 E-Tech</a>, con 2.570, completa el grupo delantero, aunque el eléctrico europeo de precio contenido todavía debe recuperar terreno.
+Pero el dato más español de la tabla está en los puestos 4 y 5 del acumulado: **Kia EV3** (3.828) y **Toyota C-HR+** (3.359). Corea y Japón ya colocan dos modelos entre los cinco eléctricos más vendidos del país, mientras el **BYD Dolphin Surf** (4.334, tercero) confirma que el urbano barato chino es mainstream. El **<a href=/coches/renault-5-e-tech-2026-precio-autonomia/>Renault 5 E-Tech</a>** (2.570) cierra el pelotón de cabeza: el eléctrico europeo "asequible" aún tiene que remontar.
 
-La electrificación ha dejado de ser un nicho en España, aunque el 34% de septiembre se apoya en las ayudas: ANFAC pide que el <a href=/guias/ayudas-compra-coche-electrico-2026/>Plan Auto+</a> se mantenga hasta el cierre de 2026 y que se defina qué ocurrirá en 2027. Para quien aguardaba la prueba de que el coche enchufable ya ha dado el salto definitivo en España, septiembre la proporciona.
+El veredicto es claro: la electrificación en España ya no es nicho, pero el 34% de septiembre depende de las ayudas — ANFAC reclama mantener el <a href=/guias/ayudas-compra-coche-electrico-2026/>Plan Auto+</a> hasta fin de 2026 y aclarar qué pasará en 2027. Si estabas esperando la señal de que el eléctrico ha cruzado el Rubicón en España, es esta.
 
 ## Míralo en vídeo
 
@@ -60,27 +60,29 @@ La electrificación ha dejado de ser un nicho en España, aunque el 34% de septi
 
 Vídeo: <a href=https://www.youtube.com/watch?v=4-nhq8s7hsI>Diego Avilés</a> en YouTube
 
-## Dudas frecuentes
+## Preguntas frecuentes
 
-### ¿Qué modelo eléctrico vendió más en septiembre de 2026 en España?
-2.528 unidades colocaron al Tesla Model 3 en cabeza: su registro mensual más alto en España hasta ahora y el primer turismo totalmente eléctrico que lidera las ventas de un mes en el país.
+### ¿Qué coche eléctrico se vendió más en España en septiembre de 2026?
+El **Tesla Model 3**, con 2.528 unidades: su mejor mes histórico en España y, por primera vez, el turismo más vendido del país en un mes siendo 100% eléctrico.
 
-### ¿Qué cuota alcanzaron los electrificados en septiembre?
-El 34% del mercado, con 31.945 matriculaciones sobre 93.858, diez puntos por encima del mismo mes del año anterior. En el acumulado anual, la cuota es del 23,8%.
+### ¿Qué porcentaje de los coches nuevos son ya electrificados?
+El **34%** en septiembre de 2026 (31.945 de 93.858 matriculaciones), diez puntos más que un año antes. En el acumulado del año, los electrificados son el 23,8% del mercado.
 
-### ¿Cuántos eléctricos puros acumula España en 2026?
-Entre enero y septiembre se matricularon 100.508 turismos eléctricos puros, un 39,47% más que en el mismo periodo de 2025, y su peso pasó del 8,43% al 11,02% respecto a ese mismo periodo.
+### ¿Cuántos eléctricos puros se han vendido en España en 2026?
+**100.508 turismos** entre enero y septiembre (+39,47% interanual), con una cuota del 11,02% frente al 8,43% del mismo periodo de 2025.
 
-### ¿Qué papel juegan las ayudas en este crecimiento?
-Un papel importante: ANFAC pide mantener el <a href=/guias/ayudas-compra-coche-electrico-2026/>Plan Auto+</a> hasta el cierre de 2026 y definir qué ocurrirá en 2027, porque buena parte del avance se apoya en ellas.
 
-### ¿Qué peso tienen las marcas chinas entre los más vendidos?
-En el acumulado anual, el BYD Atto 2 suma 3.175 unidades y el BYD Dolphin Surf, con 4.334, ocupa la tercera plaza: el urbano económico chino ya forma parte del mercado general en España.
+### ¿Qué ayudas están impulsando las ventas de eléctricos?
+El crecimiento depende en buena parte de las ayudas: ANFAC reclama mantener el <a href=/guias/ayudas-compra-coche-electrico-2026/>Plan Auto+</a> hasta fin de 2026 y que se aclare qué pasará en 2027.
 
-### ¿Cómo evoluciona Tesla en Europa durante 2026?
-En el tercer trimestre de 2026, Tesla comunicó 486.532 entregas, superando lo esperado por el consenso; entre enero y agosto, sus matriculaciones europeas crecieron cerca de dos tercios frente al año anterior, según ACEA.
+### ¿Qué marcas chinas están entre las más vendidas?
+El **BYD Dolphin Surf** es tercero del acumulado anual con 4.334 unidades y el **BYD Atto 2** suma 3.175: el urbano barato chino ya es mainstream en España.
 
-Antes de pagar, si una multa te llegó y piensas que podría tener algún defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a>.`,
+### ¿Cómo le va a Tesla en Europa en 2026?
+Tesla anunció 486.532 entregas en el tercer trimestre de 2026, por encima del consenso, y en Europa sus matriculaciones de enero a agosto subieron cerca de dos tercios interanual según ACEA.
+
+
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
   },
   {
     title: "NIU NQi Sport: scooter eléctrico con 130 km por 1.999 €",

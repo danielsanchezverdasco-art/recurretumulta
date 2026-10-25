@@ -238,9 +238,9 @@ Sí: con 48 CV cumple el límite del **carnet A2** europeo sin necesidad de limi
 *Fuentes: BMW Motorrad (nota de prensa oficial): <a href=https://www.press.bmwgroup.com/global/article/detail/T0460765EN/bmw-motorrad-presents-the-new-bmw-f-450-r?language=en>press.bmwgroup.com</a>; fichas del comparador de motos de RecurreTuMulta.online (BMW F 450 R, Honda CB500 Hornet y Kawasaki Z500); Reglamento General de Conductores (permiso A2, DGT).*`,
 },
 {
-  title: "Ducati Monster 2026: V2 de 890 cc y 111 CV",
+  title: "Monster 2026: 111 CV, 12.990 €",
   slug: "ducati-monster-2026-quinta-generacion-precio-espana",
-  excerpt: "Quinta generación de la Monster: V2 de 890 cc con 111 CV, 175 kg sin gasolina y un precio europeo que ronda los 12.990 €.",
+  excerpt: "Ducati renueva su icono: la Monster 2026 estrena el V2 de 890 cc con 111 CV, pesa 4 kg menos y parte de unos 12.990 €. Quinta generación del mito nacido en 1993.",
   category: "Novedades Motor",
   date: "2026-10-07",
   readTime: 6,
@@ -253,18 +253,18 @@ Sí: con 48 CV cumple el límite del **carnet A2** europeo sin necesidad de limi
   ],
   content: `<img src=/media/ducati-monster-2026-quinta-generacion-precio-espana-hero.webp alt=Moto naked roja italiana en estudio oscuro con iluminación dramática>
 
-La **Monster** supera los 30 años y **Ducati** la actualiza por quinta vez: la **Monster 2026** debuta con el motor **V2 de 890 cc**, **111 CV** y 91,1 Nm, recorta **4 kg** (175 kg sin gasolina) y conserva la receta del icono: depósito con músculo, faro redondo y minimalismo. Su precio base se sitúa en torno a los **12.990 €** en el mercado europeo. Releva al Testastretta 937 de la generación anterior.
+La **Monster** cumple más de 30 años y **Ducati** la renueva por quinta vez: la **Monster 2026** estrena el motor **V2 de 890 cc** con **111 CV** y 91,1 Nm, pierde **4 kg** (175 kg sin gasolina) y mantiene la fórmula del icono —depósito musculoso, faro redondo y minimalismo—. El precio base ronda los **12.990 €** en el mercado europeo. Jubila al Testastretta 937 de la generación anterior.
 
-## Lo esencial en pocas líneas
+## Datos clave
 
-- **Motor:** V2 a 90° y 890 cc que entrega 111 CV a 9.000 rpm, con un par de 91,1 Nm a 7.250 rpm
-- **Electrónica:** ABS en curva, DTC, control antiwheelie, quickshift en ambos sentidos y TFT de 5"
-- **Peso:** 175 kg sin gasolina, 4 kg por debajo de la anterior
-- **Precio:** desde unos 12.990 € en el mercado europeo
-- **Carnet:** A; con 111 CV, no admite limitación natural al A2
+- **Precio:** desde ~12.990 € (mercado europeo)
+- **Motor:** V2 a 90° de 890 cc, 111 CV a 9.000 rpm, 91,1 Nm a 7.250 rpm
+- **Peso:** 175 kg sin combustible (4 kg menos que la anterior)
+- **Electrónica:** ABS en curva, DTC, antiwheelie, quickshift bidireccional, TFT de 5"
+- **Carnet:** A (con 111 CV no es limitable de forma natural al A2)
 - **Fuente:** <a href=https://www.ducati.com/es/es/motocicletas/monster/monster-v2>Ducati oficial: Monster V2</a>
 
-## La Monster 2026, en números
+## Monster 2026 en cifras
 
 | | Ducati Monster 2026 |
 |---|---|
@@ -276,29 +276,29 @@ La **Monster** supera los 30 años y **Ducati** la actualiza por quinta vez: la 
 
 <img src=/media/ducati-monster-2026-quinta-generacion-precio-espana-galeria-1.webp alt=Moto naked roja circulando por una carretera de montaña a la hora dorada>
 
-## Un mito puesto al día
+## El icono, al día
 
-La Monster creó la naked moderna en 1993, y sus sucesoras han afrontado siempre el mismo dilema: ¿cómo actualizar un mito sin desvirtuarlo? La respuesta para 2026 pasa por un V2 de 890 cc más eficiente, más ligero y con una entrega mejor, y por una electrónica por fin a la altura de 2026, sin transformar la moto en un ordenador sobre ruedas.
+La Monster inventó la naked moderna en 1993 y cada generación ha tenido que responder a la misma pregunta: ¿cómo se moderniza un mito sin traicionarlo? La respuesta de 2026 es el V2 de 890 cc —más ligero, más eficiente y con mejor entrega— y una electrónica que por fin está a la altura de 2026 sin convertir la moto en un ordenador con ruedas.
 
-El punto delicado es el precio: unos 12.990 € suponen cerca de 6.000 € por encima de una Yamaha MT-09 de potencia parecida. La Monster jamás ha sido la opción racional; es la opción emocional. Y en ese terreno, con este diseño y este motor nuevo, continúa sin un rival directo.
+El debate inevitable es el precio: ~12.990 € son unos 6.000 € más que una Yamaha MT-09 con potencia similar. La Monster nunca ha sido la compra racional; es la compra emocional. Y en eso, con este diseño y este motor nuevo, sigue sin rival directo.
 
 Ficha completa: <a href=/motos/ducati-monster-2026-ficha-tecnica-precio/>Ducati Monster 2026: ficha técnica y precio</a> · <a href=/comparador-motos/>Comparador de motos</a>
 
 <img src=/media/ducati-monster-2026-quinta-generacion-precio-espana-galeria-2.webp alt=Detalle del faro LED redondo de una moto naked roja>
 
-## Preguntas y respuestas
+## Preguntas frecuentes
 
-### ¿Qué precio tiene la Monster nueva?
-Su precio base en el mercado europeo se sitúa en torno a los **12.990 €**.
+### ¿Cuánto cuesta la Ducati Monster 2026?
+El precio base en el mercado europeo ronda los **12.990 €**.
 
-### ¿Qué propulsor monta la Monster 2026?
-Un **V2 de 890 cc** nuevo que entrega 111 CV a 9.000 rpm, con un par de 91,1 Nm, y releva al Testastretta 937.
+### ¿Qué motor lleva la Monster 2026?
+El nuevo **V2 de 890 cc** con 111 CV a 9.000 rpm y 91,1 Nm, que sustituye al Testastretta 937.
 
-### ¿Qué peso declara Ducati para la Monster 2026?
-**175 kg sin gasolina**, con 4 kg menos que la generación anterior.
+### ¿Cuánto pesa la Monster 2026?
+**175 kg sin combustible**, 4 kg menos que la generación anterior.
 
-### ¿Sirve la Monster 2026 para el A2?
-No como moto pensada para el A2: con 111 CV pertenece al **carnet A**; en A2 solo cabría limitarla, y no es su terreno.
+### ¿La Monster 2026 vale para el carnet A2?
+No de forma natural: con 111 CV es una moto de **carnet A**. Para el A2 habría que limitarla, y no es su hábitat.
 `,
 },
 {
@@ -378,7 +378,7 @@ Es un concept: anticipa el lenguaje de diseño de los futuros familiares eléctr
 {
   title: "Kia PV5: furgoneta eléctrica modular PBV para España",
   slug: "kia-pv5-furgoneta-electrica-espana",
-  excerpt: "Presentada en Canarias: la PV5 eléctrica de Kia, con 412 km WLTP en Passenger, Cargo de 4,4 m³ apta para europalé y recarga 10-80 % en unos 30 minutos.",
+  excerpt: "Kia presenta en el Salón del Automóvil de Canarias la PV5: su furgoneta eléctrica modular PBV con 412 km de autonomía, 4,4 m³ de carga y apta para europalé. La 'Kangoo eléctrica' coreana.",
   category: "Novedades Motor",
   date: "2026-10-07",
   readTime: 6,
@@ -392,13 +392,18 @@ Es un concept: anticipa el lenguaje de diseño de los futuros familiares eléctr
   ],
   content: `<img src=/media/kia-pv5-furgoneta-electrica-espana-hero.webp alt=Furgoneta eléctrica moderna de dos tonos aparcada en una calle europea>
 
-El Salón del Automóvil de Canarias, celebrado el 6 de octubre, acogió la puesta de largo española de la PV5 de Kia: una furgoneta eléctrica modular construida sobre la base E-GMP.S. Inaugura la familia PBV (Platform Beyond Vehicle), pensada como base para flotas, reparto y ocio. La variante de pasajeros anuncia 412 km WLTP; la Cargo, 4,4 m³ de volumen y compatibilidad con europalé. Y la recarga rápida del 10 al 80 % se mueve en torno a los 30 minutos.
+**Kia** ha presentado en el **Salón del Automóvil de Canarias** (6 de octubre) la **PV5**, su furgoneta eléctrica modular sobre la plataforma **E-GMP.S**. Es el primer modelo de la familia **PBV** (Platform Beyond Vehicle): un vehículo pensado como plataforma para flotas, reparto y ocio. La versión de pasajeros anuncia **412 km WLTP** y la Cargo ofrece **4,4 m³** de volumen y es apta para europalé. Carga rápida del 10 al 80% en unos 30 minutos.
 
-## Lo esencial, en pocas líneas
+## Datos clave
 
-La Passenger monta una batería de 71,2 kWh y declara 412 km WLTP. La Cargo se ofrece con 51,5 kWh (297 km) o con 71,2 kWh, y su bodega cubica 4,4 m³, apta para europalé. Ambas comparten motor delantero de 163 CV sobre la base E-GMP.S, y la recarga rápida 10-80 % ronda la media hora. Todo se presentó el 06/10/2026 en el Salón del Automóvil de Canarias, según <a href=https://motoraldia7.com/index.php/noticia/kia-refuerza-su-apuesta-electrica-en-canarias-con-los-nuevos-ev2-y-pv5>Motoraldia7</a> y <a href=https://motoractualidad.es/kia-presenta-en-el-salon-del-automovil-de-canarias-los-ultimos-lanzamientos-de-su-gama-electrica-ev2-ev4-ev5-y-pv5/>Motor Actualidad</a>.
+- **Plataforma:** E-GMP.S, motor delantero de 163 CV
+- **Passenger:** batería de 71,2 kWh, 412 km WLTP
+- **Cargo:** baterías de 51,5 kWh (297 km) o 71,2 kWh; 4,4 m³, apta para europalé
+- **Carga rápida:** 10-80% en ~30 min
+- **Presentación:** Salón del Automóvil de Canarias, 06/10/2026
+- **Fuente:** <a href=https://motoraldia7.com/index.php/noticia/kia-refuerza-su-apuesta-electrica-en-canarias-con-los-nuevos-ev2-y-pv5>Motoraldia7</a> y <a href=https://motoractualidad.es/kia-presenta-en-el-salon-del-automovil-de-canarias-los-ultimos-lanzamientos-de-su-gama-electrica-ev2-ev4-ev5-y-pv5/>Motor Actualidad</a>
 
-## Passenger frente a Cargo
+## Las dos versiones
 
 | | PV5 Passenger | PV5 Cargo |
 |---|---|---|
@@ -409,17 +414,17 @@ La Passenger monta una batería de 71,2 kWh y declara 412 km WLTP. La Cargo se o
 
 <img src=/media/kia-pv5-furgoneta-electrica-espana-galeria-1.webp alt=Interior de carga de una furgoneta eléctrica con paquetes y un europalé>
 
-## Un hueco entre Berlingo y Buzz Cargo
+## ¿La "Kangoo eléctrica" de la próxima década?
 
-Hoy, el reparto profesional español lo dominan Berlingo y e-Partner, ambas de Stellantis, mientras la ID.Buzz Cargo se mueve en otro escalón de precio. Justo ahí ataca la PV5: furgoneta eléctrica modular, etiqueta Cero, concebida desde el primer boceto para autónomos y flotas. Si el precio español —aún sin confirmar— acompaña, tiene mimbres para convertirse en la eléctrica de referencia del reparto urbano. Probablemente se la verá en las calles antes que en los puntos de venta, porque las flotas adquieren por coste total, no por capricho.
+El segmento profesional en España lo dominan las Berlingo y e-Partner de Stellantis, y la ID.Buzz Cargo juega en otra liga de precio. La PV5 ataca justo el hueco: furgoneta eléctrica modular, con etiqueta Cero y pensada para autónomos y flotas desde el primer boceto. Si Kia acierta con el precio (aún sin confirmar para España), tiene mimbres para ser la furgoneta eléctrica de referencia del reparto urbano. La veremos en las calles antes que en los concesionarios: las flotas compran por coste total, no por capricho.
 
-<a href=/comparador-coches/>Comparador de coches</a> · Con etiqueta Cero accede a todas las ZBE sin restricciones.
+<a href=/comparador-coches/>Comparador de coches</a> · Etiqueta Cero: entra en todas las ZBE sin restricciones.
 
-## PBV: una base, muchos vehículos
+## PBV: la apuesta de Kia por construir furgonetas como plataformas
 
-Más que otro comercial en catálogo, la PV5 abre la estrategia PBV (Platform Beyond Vehicle) de Kia en el comercial eléctrico. La gama eléctrica de la marca y su filosofía pueden consultarse en la <a href=https://www.kia.com/>web oficial de Kia</a>. El planteamiento: una misma base, la arquitectura E-GMP.S, sirve para reparto, pasajeros, taxi o camper cambiando carrocería e interior, como un chasis industrial de siempre, pero nacido eléctrico. Que su debut español fuese en Canarias, recogido en el artículo original, confirma que España figura en el mapa de lanzamiento.
+La PV5 no es una furgoneta más en la gama de Kia: es el primer modelo de su estrategia **PBV (Platform Beyond Vehicle)**, con la que la marca coreana entra de lleno en el vehículo comercial eléctrico. La gama eléctrica y la filosofía de la casa pueden consultarse en la <a href=https://www.kia.com/>web oficial de Kia</a>. La idea PBV es que una misma base —la plataforma **E-GMP.S**— sirva para reparto, pasajeros, taxi o camper cambiando la carrocería y el interior, igual que un chasis industrial de toda la vida pero nacido eléctrico. Su presentación española en el Salón del Automóvil de Canarias, recogida en el post original, confirma que España está en el mapa de lanzamiento.
 
-## Baterías, recarga y europalé: lo que mira una flota
+## La técnica que importa a una flota: baterías, carga y europalé
 
 | Dato | PV5 Passenger | PV5 Cargo |
 |---|---|---|
@@ -429,46 +434,46 @@ Más que otro comercial en catálogo, la PV5 abre la estrategia PBV (Platform Be
 | Carga rápida | 10-80 % en unos 30 min | 10-80 % en unos 30 min |
 | Volumen de carga | 7 plazas | 4,4 metros cúbicos, apta para europalé |
 
-Un profesional no decide por los 163 CV. Decide por los 30 minutos de recarga rápida, que devuelven la jornada en una pausa, y por la admisión de un europalé en la Cargo, el patrón real del reparto paletizado. La doble batería también tiene lectura económica: con 51,5 kWh sobra para rutas urbanas fijas y la compra sale más barata, mientras que con 71,2 kWh se cubren carretera y dobles turnos.
+Para un profesional, las cifras decisivas no son los 163 CV: son los **30 minutos de carga rápida** que permiten recuperar la jornada en una pausa, y que la Cargo admita un **europalé**, el estándar real del reparto paletizado. La doble opción de batería tiene también lectura económica: la de 51,5 kWh basta para rutas urbanas fijas y abarata la compra, mientras que la de 71,2 kWh es la de quien hace carretera o dobles turnos.
 
-## Reparto hoy, camper mañana
+## Uso real: reparto urbano hoy, camper mañana
 
-La Cargo apunta al reparto de última milla y a autónomos que entran cada día en zonas de bajas emisiones, donde ser eléctrica es una ventaja operativa, no solo ecológica. La Passenger de siete plazas mira a lanzaderas, VTC y familias numerosas. La arquitectura PBV, por su parte, deja abierta la puerta a conversiones camper, un uso donde una base eléctrica de suelo plano tiene mucho que decir. La limitación inmediata es comercial: el precio español aún no está confirmado, y en este mercado, importe y coste por kilómetro lo resuelven todo.
+La Cargo está pensada para el reparto de última milla y para autónomos que entran a diario en zonas de bajas emisiones, donde su condición eléctrica es una ventaja operativa y no solo ecológica. La Passenger de 7 plazas apunta a lanzaderas, VTC y familias numerosas. Y la arquitectura PBV deja la puerta abierta a las conversiones camper, un uso en el que una base eléctrica con suelo plano tiene mucho que decir. Su limitación inmediata es comercial: el **precio para España aún no está confirmado**, y en el mercado profesional el precio y el coste por kilómetro lo deciden todo.
 
-## Normativa: Cero y permiso B
+## Mantenimiento y coste total: lo que una flota sí puede dar por seguro
 
-Al ser eléctrica pura, la PV5 porta la etiqueta Cero de la DGT, con entrada libre a las zonas de bajas emisiones, además de ventajas en muchas ordenanzas municipales. Además, se conduce con el permiso B en sus variantes hasta 3.500 kg de masa máxima, con el carné estándar de cualquier repartidor o autónomo, sin permisos profesionales extra por el simple hecho de ser eléctrica. Ojo para empresas: ayudas y bonificaciones a comerciales eléctricos varían por comunidad y por convocatoria, así que conviene verificar las vigentes al comprar, no darlas por supuestas.
+Kia no ha publicado en este análisis una tabla de costes de mantenimiento de la PV5, y no la inventamos. Lo que sí es estructural en una furgoneta eléctrica frente a una diésel equivalente es la desaparición de aceite de motor, filtro de partículas, embrague y correas, y un desgaste de frenos menor por la frenada regenerativa; a cambio, neumáticos y la gestión de la carga pasan a ser las partidas a vigilar. Para una flota, el cálculo correcto es el de coste total de propiedad —energía, mantenimiento, impuestos y valor residual— y ahí la etiqueta Cero también suma en peajes urbanos y aparcamiento regulado según la ciudad.
 
-## Mantenimiento: sin tabla oficial, sin inventos
+## Normativa: etiqueta Cero y carnet B
 
-Kia no ha publicado en este análisis ninguna tabla con costes de mantenimiento de la PV5; tampoco la inventamos. Sí es estructural en una eléctrica frente a una diésel equivalente que desaparecen el aceite de motor, el filtro de partículas, el embrague y las correas, y que el desgaste de frenos baja gracias a la frenada regenerativa; a cambio, neumáticos y gestión de la carga se convierten en las partidas a controlar. Para una flota, el cálculo acertado es el de coste total de propiedad, con energía, mantenimiento, impuestos y valor residual. Ahí, la etiqueta Cero también aporta en peajes urbanos y en aparcamiento regulado según la ciudad.
+Como eléctrica pura, la PV5 lleva **etiqueta Cero de la DGT**, con acceso libre a las zonas de bajas emisiones y ventajas en muchas ordenanzas municipales. Es además una furgoneta conducible con el **carnet B** en sus versiones de hasta 3.500 kg de masa máxima, el permiso estándar de cualquier repartidor o autónomo, sin necesidad de permisos profesionales adicionales por el mero hecho de ser eléctrica. Para empresas, conviene recordar que las ayudas y bonificaciones a vehículos comerciales eléctricos cambian por comunidad y por convocatoria: hay que verificar las vigentes en el momento de la compra, no darlas por supuestas.
 
-## Contra Berlingo eléctrica e ID. Buzz Cargo
+## Frente a Berlingo eléctrica e ID. Buzz Cargo: veredicto
 
-El artículo original sitúa bien el hueco: las eléctricas de Stellantis —Berlingo y e-Partner— lideran por precio y red; la Volkswagen ID. Buzz Cargo se mueve en una liga de precio superior, con más imagen que reparto puro. La PV5 asalta el centro con argumentos de eléctrica nativa: base dedicada, recarga rápida de 30 minutos y modularidad PBV. Las alternativas que ya se venden se comparan en el <a href=/comparador-coches/>comparador de coches</a>, y la gama eléctrica de la marca se puede repasar con el <a href=/coches/kia-ev9-2024-precio-ficha-tecnica/>Kia EV9</a> como muestra de su tecnología.
+El post original sitúa bien el hueco: las furgonetas eléctricas de Stellantis —Berlingo y e-Partner— dominan el segmento por precio y red, y la Volkswagen ID. Buzz Cargo juega en una liga de precio superior, más de imagen que de reparto puro. La PV5 ataca el centro con argumentos de eléctrica nativa: plataforma dedicada, carga rápida de 30 minutos y modularidad PBV. Puedes comparar las alternativas que ya se venden en el <a href=/comparador-coches/>comparador de coches</a>, repasar la gama eléctrica de la marca con el <a href=/coches/kia-ev9-2024-precio-ficha-tecnica/>Kia EV9</a> como referencia de su tecnología.
 
-**¿Merece la pena?** En principio, es la candidata más seria a eléctrica de referencia en el reparto urbano cuando tenga precio español. **Para quién sí:** autónomos y flotas de rutas urbanas o periurbanas, con carga en base cada día. **Para quién no:** quien cubra rutas largas diarias sin infraestructura de recarga, o necesite adquirir ya con un precio cerrado: la PV5 todavía debe publicar el suyo en nuestro país.
+**¿Merece la pena?** Sobre el papel, es la candidata más seria a furgoneta eléctrica de referencia del reparto urbano en cuanto tenga precio español. **Para quién sí:** para autónomos y flotas con rutas urbanas o periurbanas diarias y acceso a carga en base. **Para quién no:** para quien haga rutas largas diarias sin infraestructura de carga, o necesite comprar ya con un precio cerrado: la PV5 aún debe publicar el suyo en España.
 
 ## Preguntas frecuentes
 
-### ¿Cuándo llegará la Kia PV5 a España?
-Kia la dio a conocer en Canarias durante octubre de 2026. Queda pendiente de confirmación oficial el calendario comercial para la península.
-
-### ¿Sirve para reparto la Kia PV5?
-Sí: la Cargo brinda 4,4 m³ de volumen y admite europalé, con recarga rápida del 10 al 80 % en torno a 30 min.
-
-### ¿Qué es PBV en Kia?
-Significa Platform Beyond Vehicle: eléctricos modulares pensados como plataforma para usos múltiples (reparto, pasajeros, camper...). La PV5 inaugura la familia.
-
 ### ¿Qué autonomía tiene la Kia PV5?
-La Passenger declara 412 km WLTP con 71,2 kWh; la Cargo brinda 297 km gracias a la batería de 51,5 kWh.
+La versión **Passenger** homologa **412 km WLTP** (71,2 kWh); la **Cargo** ofrece 297 km con la batería de 51,5 kWh.
+
+### ¿Qué es PBV de Kia?
+**Platform Beyond Vehicle**: vehículos eléctricos modulares diseñados como plataforma para múltiples usos (reparto, pasajeros, camper...). La PV5 es el primero.
+
+### ¿La Kia PV5 sirve para reparto?
+Sí: la Cargo ofrece **4,4 m³** de volumen y es apta para **europalé**, con carga rápida del 10 al 80% en ~30 min.
+
+### ¿Cuándo llega la Kia PV5 a España?
+Kia la ha presentado en Canarias en octubre de 2026; el calendario comercial para la península está pendiente de confirmación oficial.
 
 *Fuentes: <a href=https://www.kia.com/>Kia (web oficial)</a>, Motoraldia7 y Motor Actualidad (presentación en Canarias citada en el post original).*`,
 },
 {
-  title: "París 2026: guía de eléctricos, estrenos y marcas",
+  title: "París 2026: todos los eléctricos",
   slug: "salon-paris-2026-estrenos-electricos-guia",
-  excerpt: "París reunió del 12 al 18 de octubre 20 marcas chinas con 7 estrenos mundiales y la réplica europea: urbanos y compactos eléctricos baratos hechos en casa.",
+  excerpt: "Guía del Salón de París 2026 (12-18 oct): 20 marcas chinas, 7 estrenos mundiales y la respuesta europea con eléctricos baratos. Todos los estrenos eléctricos, quién ataca a quién.",
   category: "Novedades Motor",
   date: "2026-10-07",
   readTime: 9,
@@ -482,9 +487,9 @@ La Passenger declara 412 km WLTP con 71,2 kWh; la Cargo brinda 297 km gracias a 
   ],
   content: `<img src=/media/salon-paris-2026-estrenos-electricos-guia-hero.webp alt=Pabellón del Salón del Automóvil de París 2026 con coches eléctricos en stands iluminados y público>
 
-Paris Expo Porte de Versailles acogió entre el 12 y el 18 de octubre de 2026 una edición del Salón del Automóvil de París convertida en pulso directo por el coche eléctrico en Europa. Del lado chino acudieron 20 marcas, con siete presentaciones mundiales; del europeo, la contestación llegó en forma de modelos asequibles producidos en casa. Esta guía reúne los estrenos eléctricos confirmados y señala qué convenía observar en la jornada de prensa del día 12.
+El **Salón del Automóvil de París** (12-18 de octubre, Paris Expo Porte de Versailles) se ha convertido en el campo de batalla del coche eléctrico en Europa: **20 marcas chinas** con **7 estrenos mundiales** frente a una industria europea que responde con eléctricos baratos hechos en casa. Esta es la guía con todos los estrenos eléctricos confirmados y qué mirar el día de prensa (12/10).
 
-## Estrenos eléctricos por tipo de coche
+## Los estrenos eléctricos, por segmentos
 
 | Segmento | Estreno | Lo esencial |
 |---|---|---|
@@ -505,30 +510,30 @@ Paris Expo Porte de Versailles acogió entre el 12 y el 18 de octubre de 2026 un
 
 <img src=/media/salon-paris-2026-estrenos-electricos-guia-galeria-1.webp alt=Fila de SUV eléctricos chinos en un stand del salón del automóvil>
 
-## Dos estrategias enfrentadas
+## Quién ataca a quién
 
-La delegación china no se limitó a estar presente: desembarcó con catálogo amplio y precios como arma. Cuatro modelos de Denza, la división premium de BYD, el G9L de XPeng con arquitectura de 800 V y la consolidación de Leapmotor junto a Stellantis dibujan el mismo mensaje: el eléctrico asequible dejó de ser una promesa futura para convertirse en oferta tangible.
+**China ataca con volumen y precio.** 20 marcas y 7 estrenos no es una presencia: es una ofensiva. Denza (el brazo premium de BYD) desembarca con cuatro modelos, XPeng trae el G9L de 800 V y Leapmotor consolida su alianza con Stellantis. El mensaje es claro: el eléctrico asequible ya no es promesa, es catálogo.
 
-Europa contestó desde la fábrica. Un ID.Polo ensamblado en Martorell, un 2CV por debajo de 15.000 € y un Raval en 26.000 € muestran la réplica industrial: eléctricos económicos fabricados en el continente. En París 2026 el pulso no se jugó tanto en tecnología como en coste y en lugar de producción.
+**Europa responde con fábrica.** El ID.Polo hecho en Martorell, el 2CV por debajo de 15.000 € y el Cupra Raval de 26.000 € son la respuesta industrial: eléctricos baratos producidos en Europa. La batalla de París 2026 no es de tecnología —es de **precio y de dónde se fabrica**.
 
-## Cuatro focos en la jornada de prensa
+## Qué mirar el 12/10 (día de prensa)
 
-1. Los precios definitivos del 2CV eléctrico y del Grizzly de Fiat: en ese tramo se juega el urbano eléctrico.
-2. Denza: si BYD fija tarifas europeas agresivas para su gama premium, el segmento se tambalea.
-3. El E-Space de Renault: el concept con más interés del salón como adelanto del Scénic de 2028.
-4. Liux BIG: la empresa española muestra su vehículo de producción lejos de casa.
+1. **Precios finales** del 2CV eléctrico y el Fiat Grizzly: ahí se decide el urbano eléctrico.
+2. **Denza**: si BYD pone precios europeos agresivos al premium, tiembla el segmento.
+3. **Renault E-Space**: el concept más interesante del salón como anticipo del Scénic 2028.
+4. **Liux BIG**: la startup española presenta su coche de producción en casa ajena.
 
 <img src=/media/salon-paris-2026-estrenos-electricos-guia-galeria-2.webp alt=Pequeño coche eléctrico urbano sobre una plataforma giratoria en un salón del automóvil>
 
 Cobertura relacionada: <a href=/blog/renault-e-space-concept-paris-2026/>Renault E-Space Concept</a> · <a href=/blog/citroen-2cv-electrico-2026-paris/>Citroën 2CV eléctrico</a> · <a href=/blog/xpeng-g9l-debut-paris-2026/>XPeng G9L</a> · <a href=/blog/liux-big-salon-paris-2026/>Liux BIG</a> · <a href=/comparador-coches/>Comparador de coches</a>
 
-## Un termómetro para Europa
+## París como termómetro de la electrificación en Europa
 
-Un salón permite distinguir quién acude con un coche que se puede comprar y quién solo enseña un render. París reunió ambas Europas del eléctrico: las marcas del continente defendiendo su mercado con urbanos y compactos hechos aquí —el ID.Polo de Martorell que recoge esta guía es un ejemplo— y las chinas ocupando pabellón con gamas completas y presentaciones mundiales. El titular ya no era un récord de autonomía, sino el precio de acceso: un 2CV eléctrico a menos de 15.000 €, o un Raval en 26.000 €.
+Un salón sirve para ver quién llega con un coche vendible y quién solo con un render. En París se juntan las dos Europas del eléctrico. Las europeas defienden su terreno con compactos y urbanos producidos en el continente, como el ID.Polo hecho en Martorell que cita esta guía. Las chinas ocupan pabellón con gamas completas y estrenos mundiales. Y el titular ya no es la autonomía récord, sino el precio de entrada: el 2CV eléctrico por debajo de 15.000 € o el Cupra Raval de 26.000 €.
 
-## Comparar los estrenos por sus cifras
+## Los estrenos, en clave técnica
 
-Sin añadir datos fuera de los que ya recoge esta guía, el panorama se entiende mejor poniendo cifras en paralelo:
+Sin salir de los datos que ya recoge esta guía, el mapa se lee mejor comparado:
 
 | Estreno | Dato clave del post | Lectura rápida |
 |---|---|---|
@@ -541,35 +546,36 @@ Sin añadir datos fuera de los que ya recoge esta guía, el panorama se entiende
 | Lancia Gamma | Hasta 740 km | El regreso de Lancia se apoya en el alcance |
 | Fiat Grizzly | Objetivo de unos 20.000 € | SUV con precio como reclamo principal |
 
-No todos compiten con la misma baza: unos apuestan por el precio, otros por el alcance y otros, como el G9L, juegan la baza de la carga rápida. La comparación útil es entre modelos del mismo segmento y pensados para el mismo uso.
+No todos juegan a lo mismo: unos venden precio, otros autonomía y otros, como el G9L, tecnología de carga. Toca comparar modelos del mismo segmento y para el mismo uso.
 
-## Qué cambia para quien compra en España
+## Qué significa para el comprador español
 
-Tres efectos prácticos. Primero, la oferta compacta crece justo donde más se vende: ID.Polo, Epiq y Raval se mueven entre 26.000 € y 35.070 €, según esta guía. Segundo, habrá opciones sin cambiar de categoría si un modelo se retrasa o sube de precio. Tercero, una cautela: un concept, un estreno mundial y un coche ya a la venta son tres cosas distintas. El E-Space de Renault es un concept, algo que el propio post distingue de los modelos con precio y autonomía ya anunciados. Antes de reservar, hay que esperar el precio final en España y la fecha comercial que confirme la marca.
+Tres consecuencias prácticas. La primera: la oferta compacta crece donde más se vende, con el ID.Polo, el Epiq y el Raval entre los 26.000 € y los 35.070 €, según esta guía. La segunda: habrá alternativas sin subir de segmento si un modelo se retrasa o se encarece. Y la tercera es una advertencia: concept, estreno mundial y coche a la venta no son lo mismo. El Renault E-Space es un concept, y el propio post lo separa de los modelos con precio y autonomía anunciados. Antes de reservar, toca esperar precio final en España y fecha comercial confirmados por la marca.
 
-## Por qué la norma empuja esta oleada
+## Normativa que empuja estos estrenos: CO2 en la UE y ZBE en España
 
-Ninguna marca despliega semejante oleada por azar. La normativa europea de CO2 pide a los turismos nuevos recortar un 55 % sus emisiones respecto a 2021 durante 2030-2034, y llegar al 100 % desde 2035, un calendario que obliga a pasar las gamas al eléctrico puro. En España, cada ciudad regula su ZBE con su propia ordenanza; el acceso se decide además por la etiqueta DGT, y el eléctrico puro corresponde a la Cero. Cualquier eléctrico de esta lista no solo rivaliza en precio y autonomía, también en libertad para entrar en ciudad. Antes de circular, consulta la ordenanza local: dos ZBE vecinas pueden regirse por criterios distintos.
+Ninguna marca presenta esta avalancha por casualidad. La normativa europea de CO2 exige a los turismos nuevos una reducción del **55 % de emisiones frente a 2021 en el periodo 2030-2034** y del **100 % a partir de 2035**, un calendario que empuja a renovar las gamas hacia el eléctrico puro. En España, el efecto se nota con las **Zonas de Bajas Emisiones**: el acceso depende de la ordenanza de cada ciudad y de la etiqueta de la DGT, y los eléctricos puros corresponden a la etiqueta **Cero**. Un eléctrico de esta lista no solo compite en precio y autonomía, también en libertad de acceso urbano. Comprueba siempre la ordenanza de tu ciudad: dos ZBE vecinas pueden aplicar criterios distintos.
 
-## Seguir cada modelo en su ficha
+## Cómo seguir cada modelo en su ficha
 
-Para comparar los tres compactos, abre la <a href=/coches/volkswagen-id-polo-2026-precio-ficha-tecnica/>ficha del Volkswagen ID.Polo</a>, la <a href=/coches/cupra-raval-2026-precio-ficha-tecnica/>ficha del Cupra Raval</a> y la <a href=/coches/skoda-epiq-2026-precio-ficha-tecnica/>ficha del Skoda Epiq</a>; la ofensiva china se sigue en la <a href=/coches/leapmotor-b03-2026-precio-ficha-tecnica/>ficha del Leapmotor B03</a> y la <a href=/coches/leapmotor-d19-2026-precio-ficha-tecnica/>ficha del Leapmotor D19</a>; el urbano, en la <a href=/coches/citroen-2cv-electrico-2028/>ficha del Citroën 2CV eléctrico</a>; y el premium, en la <a href=/coches/lancia-gamma-2026-precio-ficha-tecnica/>ficha del Lancia Gamma</a> y la <a href=/coches/smart-2-2026-precio-autonomia-paris/>ficha del smart #2</a>.
+El seguimiento se hace modelo a modelo. Consulta la <a href=/coches/volkswagen-id-polo-2026-precio-ficha-tecnica/>ficha del Volkswagen ID.Polo</a>, la <a href=/coches/cupra-raval-2026-precio-ficha-tecnica/>ficha del Cupra Raval</a> y la <a href=/coches/skoda-epiq-2026-precio-ficha-tecnica/>ficha del Skoda Epiq</a> para comparar los tres compactos. Si te interesa la ofensiva china, tienes la <a href=/coches/leapmotor-b03-2026-precio-ficha-tecnica/>ficha del Leapmotor B03</a> y la <a href=/coches/leapmotor-d19-2026-precio-ficha-tecnica/>ficha del Leapmotor D19</a>; si buscas el urbano, la <a href=/coches/citroen-2cv-electrico-2028/>ficha del Citroën 2CV eléctrico</a>, y si miras al premium, la <a href=/coches/lancia-gamma-2026-precio-ficha-tecnica/>ficha del Lancia Gamma</a> y la <a href=/coches/smart-2-2026-precio-autonomia-paris/>ficha del smart #2</a>. 
 
-**Conclusión:** París 2026 sirve para orientarse, no para comprar a ciegas. Lo más sólido: compactos y urbanos que ya anuncian precio y autonomía —Raval, Epiq e ID.Polo— junto a la presión auténtica de las marcas chinas. Lo que aún es promesa hay que leerlo como declaración de intenciones. Lo prudente es aguardar los precios finales en España, revisar las fichas candidatas y no abonar hoy el precio de un titular de salón.
+**Veredicto:** París 2026 merece la pena como mapa, no como lista de la compra. Lo sólido son los compactos y urbanos con precio y autonomía ya anunciados —Raval, Epiq e ID.Polo— y la presión real de las marcas chinas. Lo que todavía es promesa debe leerse como declaración de intenciones. La decisión acertada es esperar a los precios finales en España, comparar las fichas que encajen y no pagar hoy por un titular de salón.
 
 ## Preguntas frecuentes
 
-### ¿Cuándo se celebró el Salón de París 2026?
-En Paris Expo Porte de Versailles, del 12 al 18 de octubre, año 2026; la jornada de prensa cayó el día 12.
+### ¿Cuándo es el Salón de París 2026?
+Del **12 al 18 de octubre de 2026** en Paris Expo Porte de Versailles; el día de prensa es el 12.
 
-### ¿Qué presencia china hubo en París 2026?
-BYD/Denza, XPeng, Leapmotor y Li Auto —esta última con el debut europeo del i6— formaron parte de las 20 marcas chinas, que sumaron siete estrenos mundiales.
+### ¿Qué marcas chinas van al Salón de París 2026?
+**20 marcas chinas** con 7 estrenos mundiales, entre ellas BYD/Denza, XPeng, Leapmotor y Li Auto (debut europeo del i6).
 
-### ¿Cuál fue el eléctrico más barato del salón?
-El 2CV eléctrico de Citroën, con un precio objetivo por debajo de 15.000 €.
+### ¿Cuál es el eléctrico más barato del Salón de París 2026?
+El **Citroën 2CV eléctrico**, con un precio objetivo por debajo de los **15.000 €**.
 
-### ¿Hubo alguna marca española en París 2026?
-Sí: la española Liux llevó a París el BIG de producción, su cuadriciclo.
+### ¿Hay alguna marca española en el Salón de París 2026?
+Sí: **Liux** presenta la versión de producción de su cuadriciclo **BIG**.
+
 
 *Fuentes: <a href=https://mondial-paris.com>web oficial del Salón del Automóvil de París (Mondial de l'Auto)</a>.*`,
 },

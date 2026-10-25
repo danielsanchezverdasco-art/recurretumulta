@@ -7,7 +7,7 @@ export const MOTOR_2026_L_POSTS: BlogPost[] = [
 {
   title: "Bruselas prepara cuotas contra los híbridos chinos",
   slug: "ue-bruselas-cuotas-hibridos-chinos",
-  excerpt: "Pekín dijo no al tope y Bruselas responde con cupos y aranceles. BYD exhibe sus DM-i en París y los PHEV chinos encaran 2027 con el precio en el aire.",
+  excerpt: "Pekín rechaza limitar sus híbridos enchufables y Bruselas prepara cuotas unilaterales con aranceles. BYD responde llevando a París su artillería DM-i. Qué cambia para los precios en España.",
   category: "Novedades Motor",
   date: "2026-10-08",
   readTime: 7,
@@ -21,27 +21,27 @@ export const MOTOR_2026_L_POSTS: BlogPost[] = [
   ],
   content: `<img src=/media/ue-bruselas-cuotas-hibridos-chinos-hero.webp alt=Buque portacoches descargando SUVs en un puerto europeo al atardecer, imagen editorial>
 
-La Comisión ha zanjado el margen de maniobra: tras la negativa de Pekín el 7 de octubre a autolimitar sus ventas de híbridos enchufables con destino a Europa, Bruselas prepara cupos impuestos de forma unilateral, con gravamen para cada unidad que supere el volumen autorizado. En el centro del pulso quedan los precios de los enchufables chinos comercializados en España y la táctica con la que las firmas asiáticas sortearon los aranceles aplicados en 2024 a los eléctricos puros.
+**Bruselas** ha decidido que el truco ya no cuela: después de que **Pekín rechazara el 7 de octubre** limitar de forma voluntaria sus exportaciones de coches híbridos enchufables a Europa, la Comisión Europea prepara **cuotas de importación unilaterales con aranceles** para todo lo que entre por encima del cupo. En juego están los precios de los PHEV chinos que hoy se venden en España —Omoda, Jaecoo, MG y BYD— y la estrategia con la que las marcas chinas esquivaban los aranceles a los eléctricos puros de 2024.
 
 ## Datos clave
 
-- **Lo que pedía Bruselas:** que los enchufables procedentes de China rondaran solo el 15 % del mercado europeo, según Financial Times vía <a href=https://www.reuters.com/world/china/china-rejects-eu-request-voluntary-hybrid-car-export-curbs-ft-reports-2026-10-07/>Reuters</a> el 07/10/2026
-- **La contestación de Pekín:** negativa, confirmada por <a href=https://www.reuters.com/world/china/china-rejects-eu-request-voluntary-hybrid-car-export-curbs-ft-reports-2026-10-07/>Reuters</a> el 07/10/2026
-- **La alternativa de Bruselas:** cupos impuestos unilateralmente, con arancel para el exceso sobre el volumen fijado, de acuerdo con <a href=https://cnevpost.com/2026/10/07/eu-plans-chinese-hybrid-import-curbs/>Bloomberg vía CnEVPost</a> el 07/10/2026
-- **Presencia asiática en la UE:** las firmas chinas acapararon el 11,7 % de los registros comunitarios durante agosto, y BYD sumó 26.007 entregas, un +128 % frente al mismo periodo del año anterior, según Dataforce
-- **Orígenes consultados:** <a href=https://www.reuters.com/world/china/china-rejects-eu-request-voluntary-hybrid-car-export-curbs-ft-reports-2026-10-07/>Reuters</a> y <a href=https://cnevpost.com/2026/10/07/eu-plans-chinese-hybrid-import-curbs/>CnEVPost (Bloomberg)</a>
+- **La petición de la UE:** limitar los híbridos chinos a en torno al 15 % del mercado europeo (Financial Times vía <a href=https://www.reuters.com/world/china/china-rejects-eu-request-voluntary-hybrid-car-export-curbs-ft-reports-2026-10-07/>Reuters</a>, 07/10/2026)
+- **La respuesta de China:** no. Rechazo confirmado por <a href=https://www.reuters.com/world/china/china-rejects-eu-request-voluntary-hybrid-car-export-curbs-ft-reports-2026-10-07/>Reuters</a> el 07/10/2026
+- **El plan B de Bruselas:** cuotas unilaterales con aranceles por encima del volumen fijado, según <a href=https://cnevpost.com/2026/10/07/eu-plans-chinese-hybrid-import-curbs/>Bloomberg vía CnEVPost</a> (07/10/2026)
+- **El peso chino en Europa:** las marcas chinas ya suponen el **11,7 %** de las matriculaciones de la UE en agosto; **BYD** matriculó 26.007 unidades (+128 % interanual), según Dataforce
+- **Fuente:** <a href=https://www.reuters.com/world/china/china-rejects-eu-request-voluntary-hybrid-car-export-curbs-ft-reports-2026-10-07/>Reuters</a> y <a href=https://cnevpost.com/2026/10/07/eu-plans-chinese-hybrid-import-curbs/>CnEVPost (Bloomberg)</a>
 
-## El atajo que Bruselas quiere clausurar
+## La vía de escape que se cierra
 
-En 2024 la UE gravó con aranceles compensatorios los eléctricos chinos, y las firmas del gigante asiático hallaron entonces una salida perfecta: el **híbrido enchufable**. Sin recargo adicional y con la Cero de la DGT para España, los enchufables chinos anegaron el mercado europeo con importes que las marcas europeas tradicionales no alcanzaban a igualar. Ahora Bruselas pretende tapiar también esa salida: un cupo con arancel encarecería precisamente el camino que Omoda, BYD, Jaecoo y MG recorrían para crecer en Europa sin abonar los aranceles de los EV.
+Cuando la UE impuso aranceles compensatorios a los eléctricos chinos en 2024, las marcas del gigante asiático encontraron el atajo perfecto: el **híbrido enchufable**. Sin aranceles extra y con etiqueta Cero de la DGT en España, los PHEV chinos inundaron el mercado europeo a precios que los fabricantes tradicionales no podían igualar. Ahora Bruselas quiere cerrar también esa puerta: un contingente arancelario encarecería justo la vía que Omoda, Jaecoo, MG y BYD usaban para crecer en Europa sin pagar los aranceles de los EV.
 
 <img src=/media/ue-bruselas-cuotas-hibridos-chinos-galeria-1.webp alt=SUV híbrido enchufable en el stand de un salón del automóvil, imagen editorial>
 
-## La respuesta de BYD en París
+## BYD contraataca en el Salón de París
 
-Mientras Bruselas perfila el cupo, **BYD** juega su baza en el escaparate parisino: entre el **12 y el 18 de octubre** expondrá en el Salón de París su ofensiva híbrida —los **Atto 2 DM-i**, por un lado, y el **Sealion 5 DM-i**, por otro— acompañados del Seal U DM-i y de su familia eléctrica (con el Dolphin Surf ya con 5 plazas). La marca difundió el anuncio según recoge la prensa especializada, y París se convierte así en el escenario donde se calibrará el alcance de la ofensiva híbrida china en Europa.
+Y mientras Bruselas afila las cuotas, **BYD** mueve ficha en el escaparate: del **12 al 18 de octubre** llevará al Salón de París su artillería híbrida —los **Atto 2 DM-i** y **Sealion 5 DM-i**— junto al Seal U DM-i y su gama eléctrica (con el Dolphin Surf ya de 5 plazas). El anuncio, difundido por la propia marca según la prensa especializada, convierte a París en el campo de batalla donde se medirá hasta dónde llega la ofensiva híbrida china en Europa.
 
-## Los enchufables chinos a la venta en España
+## Los PHEV chinos que ya se venden en España
 
 | Modelo | Tipo | Etiqueta DGT | Ficha |
 |---|---|---|---|
@@ -52,27 +52,26 @@ Mientras Bruselas perfila el cupo, **BYD** juega su baza en el escaparate parisi
 
 <img src=/media/ue-bruselas-cuotas-hibridos-chinos-galeria-2.webp alt=Banderas de la Unión Europea ondeando frente a un edificio institucional, imagen editorial>
 
-## Qué puede pasar con lo que pagas
+## Qué significa para tu bolsillo
 
-Si el cupo se aprueba, el chollo actual de los enchufables chinos se acabaría: el gravamen sobre el exceso repercutiría en el importe que paga el cliente. Las unidades ya matriculadas en España quedarían al margen, y la Cero mantendría la entrada en cualquier ZBE. Consejo práctico: si tienes en mente un enchufable chino, conviene cerrar la compra durante 2026, porque en 2027 el precio podría subir. <a href=/comparador-coches/>Compáralos en nuestro comparador</a> antes de decidir.
+Si las cuotas entran en vigor, los PHEV chinos **dejarían de ser la ganga que son hoy**: el arancel por encima del cupo se trasladaría al precio final. Los que ya circulan por España no se verían afectados, y la etiqueta Cero seguiría dando acceso a todas las ZBE. La lectura práctica: si estabas mirando un híbrido enchufable chino, **2026 es el año para comprarlo**; en 2027 podría costar más. <a href=/comparador-coches/>Compáralos en nuestro comparador</a> antes de decidir.
 
 ## Preguntas frecuentes
 
-### ¿Qué pretende la UE con los enchufables chinos?
-Imponer un cupo a sus importaciones: rebasado cierto volumen, entrarían en juego aranceles. Así responde Bruselas a la negativa pekinesa a un límite pactado cercano al 15 % del mercado europeo.
+### ¿Qué quiere hacer la UE con los híbridos chinos?
+Limitar sus importaciones con **cuotas**: por encima de un volumen fijado se pagarían aranceles. Es la respuesta al "no" de Pekín a un tope voluntario de en torno al 15 % del mercado europeo.
 
-### ¿Se encarecerán en España los híbridos chinos?
-En caso de aprobarse el cupo, **sí**: el gravamen subiría el precio de los enchufables chinos que hoy ganan por coste (Omoda, BYD, Jaecoo, MG). Todavía no existen calendarios ni cantidades oficiales.
+### ¿Subirán de precio los híbridos chinos en España?
+Si las cuotas se aprueban, **sí**: el arancel encarecería los PHEV chinos que hoy compiten por precio (Omoda, Jaecoo, BYD). Aún no hay fechas ni volúmenes oficiales.
 
-### ¿Qué híbridos chinos se comercializan en España?
-El Omoda 9 SHS abre la lista; le sigue el Jaecoo 7 SHS; el BYD Seal U DM-i completa el trío enchufable con etiqueta Cero, mientras el MG HS Hybrid+ juega en la liga híbrida convencional con etiqueta ECO.
+### ¿Qué coches híbridos chinos se venden en España?
+Los principales son el **Omoda 9 SHS**, el **Jaecoo 7 SHS** y el **BYD Seal U DM-i** (enchufables, etiqueta Cero) y el **MG HS Hybrid+** (híbrido convencional, etiqueta ECO).\\n\\n*Actualización: la serie continúa con la tercera entrega, que fija el cupo en 350.000 híbridos chinos al año: <a href=/blog/cuotas-hibridos-chinos-ue-china-2026/>Cuota de 350.000 híbridos chinos: qué cambia en España</a>.*
 
-*Actualización: la tercera entrega de la serie deja el cupo fijado en 350.000 híbridos chinos al año: <a href=/blog/cuotas-hibridos-chinos-ue-china-2026/>Cuota de 350.000 híbridos chinos: qué cambia en España</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
+`,
 },
 {
-  title: "Renault: 600 M€ para fabricar eléctricos en España",
+  title: "Renault hará eléctricos en España",
   slug: "renault-600-millones-electricos-espana",
   excerpt: "Renault invertirá 600 millones hasta 2030 en Valladolid y Palencia: 5 modelos, línea de baterías y la RGEV Medium 2.0, primera eléctrica nativa en España.",
   category: "Novedades Motor",
@@ -140,7 +139,7 @@ La cuantía es de 600 millones de euros para 2026-2030, con fondos propios del g
 {
   title: "Jaguar Type 01: GT eléctrico de 1.030 CV y 720 km",
   slug: "jaguar-type-01-electrico-1030-cv",
-  excerpt: "Jaguar presenta en Nueva York el Type 01: GT eléctrico de 4 puertas con 1.030 CV, 720 km WLTP y carga de 350 kW; pedidos en 2027 desde 130.000 libras.",
+  excerpt: "Jaguar desvela en Nueva York el Type 01: GT eléctrico de 4 puertas con 1.030 CV, 720 km WLTP y 350 kW de carga. Pedidos en 2027 desde 130.000 libras. El renacer eléctrico de la marca.",
   category: "Novedades Motor",
   date: "2026-10-08",
   readTime: 6,
@@ -154,20 +153,20 @@ La cuantía es de 600 millones de euros para 2026-2030, con fondos propios del g
   ],
   content: `<img src=/media/jaguar-type-01-electrico-1030-cv-hero.webp alt=Gran turismo eléctrico de lujo color champán en una avenida de Nueva York de noche, imagen editorial>
 
-Tras dos años sin comercializar ningún modelo nuevo y una campaña de cambio de imagen que dio mucho que hablar, la firma británica presentó en Nueva York su primer paso como marca exclusivamente eléctrica de lujo: el Type 01, una berlina deportiva de cuatro puertas que anuncia 1.030 CV, hasta 720 km WLTP y recargas de 350 kW. Según la marca, se trata del Jaguar de serie más potente jamás fabricado.
+**Jaguar** ha vuelto. Dos años después de dejar de vender coches y de una de las campañas de reposicionamiento más polémicas de la industria, la marca británica ha desvelado en **Nueva York** el **Type 01**: un gran turismo eléctrico de cuatro puertas con **1.030 CV**, **720 km de autonomía WLTP** y carga de 350 kW. Es el Jaguar de producción más potente de la historia y la primera piedra de su renacer como marca 100 % eléctrica de lujo.
 
-## Cifras destacadas
+## Datos clave
 
-- **Potencia y par:** tres propulsores repartidos entre los dos ejes suman 1.030 CV y 1.365 Nm, con tracción total.
-- **Aceleración:** de 0 a 100 km/h en 3,2 s, y de 100 a 180 km/h en 4,0 s.
-- **Acumulador y tensión:** 118 kWh útiles con química NMC y arquitectura de 850 V.
-- **Alcance:** hasta 720 km WLTP, todavía pendiente de homologación definitiva; a 120 km/h constantes, la marca prevé 515 km.
-- **Carga:** 350 kW en corriente continua, con 321 km recuperados en 13 minutos; del 10 al 80 % en unos 22 minutos, y 22 kW en alterna.
-- **Precio y calendario:** desde 130.000 libras en Reino Unido; los pedidos se abrirán a principios de 2027 y las entregas llegarán en la segunda mitad de ese año.
-- **Fabricación:** Solihull, en Reino Unido, a partir de 2027.
-- **Procedencia de los datos:** comunicación oficial de la marca, difundida por <a href=https://www.somoselectricos.com/coches-electricos/jaguar-type-01-1030-cv-720-km-previstos-reinventar-marca/20261007020110064001.html>Somos Eléctricos</a> e <a href=https://www.hibridosyelectricos.com/coches/se-acabaron-secretos-nueva-jaguar-presenta-coche-mas-importante-su-historia-reciente-1030-cv-720-km-autonomia-165000_89772_102.html>Híbridos y Eléctricos</a>.
+- **Potencia:** 1.030 CV y 1.365 Nm (tres motores, tracción total)
+- **Aceleración:** 0-100 km/h en 3,2 s; 100-180 km/h en 4,0 s
+- **Batería:** 118 kWh útiles (NMC), arquitectura de 850 V
+- **Autonomía:** hasta 720 km WLTP (pendiente de homologación); 515 km a 120 km/h constantes
+- **Carga:** 350 kW en continua (321 km en 13 min); 10-80 % en unos 22 min; 22 kW en alterna
+- **Precio:** desde 130.000 libras en Reino Unido; pedidos a principios de 2027, entregas en el segundo semestre
+- **Producción:** Solihull (Reino Unido), a partir de 2027
+- **Fuente:** datos oficiales de Jaguar vía <a href=https://www.somoselectricos.com/coches-electricos/jaguar-type-01-1030-cv-720-km-previstos-reinventar-marca/20261007020110064001.html>Somos Eléctricos</a> e <a href=https://www.hibridosyelectricos.com/coches/se-acabaron-secretos-nueva-jaguar-presenta-coche-mas-importante-su-historia-reciente-1030-cv-720-km-autonomia-165000_89772_102.html>Híbridos y Eléctricos</a>
 
-## La tabla completa del Type 01
+## Ficha técnica del Jaguar Type 01
 
 | Característica | Dato oficial |
 |---|---|
@@ -187,28 +186,29 @@ Tras dos años sin comercializar ningún modelo nuevo y una campaña de cambio d
 
 <img src=/media/jaguar-type-01-electrico-1030-cv-galeria-1.webp alt=Vista trasera de un GT eléctrico de lujo con firma luminosa a todo el ancho, imagen editorial>
 
-## Todo o nada para la marca
+## El todo o nada de Jaguar
 
-Este modelo no es uno más dentro de la gama: representa la apuesta existencial de la firma. Tras dos años sin comercializar vehículos nuevos, en plena reinvención como constructor únicamente eléctrico y de lujo, este GT de cuatro puertas debe justificar sus 130.000 libras en Reino Unido. Prescinde de luneta trasera —una cámara asume esa función—, equipa una pantalla OLED de 24 pulgadas y organiza el habitáculo alrededor de una consola central longitudinal. Sus adversarios no son los generalistas alemanes: apuntan al Porsche Taycan y al Lucid Air. Si funciona, la compañía habrá completado la maniobra más arriesgada de la industria; si falla, no existe un plan alternativo.
+El Type 01 no es un coche más: es **la apuesta existencial de Jaguar**. La marca se quedó dos años sin vender un solo coche nuevo para reinventarse como fabricante exclusivamente eléctrico de lujo, y este GT de cuatro puertas —sin luneta trasera (una cámara hace su trabajo), con pantalla OLED de 24 pulgadas y un interior dividido por una consola central longitudinal— tiene que justificar las **130.000 libras** que cuesta en Reino Unido. Sus rivales no son los alemanes de volumen, sino el Porsche Taycan y el Lucid Air. Si el Type 01 funciona, Jaguar habrá ejecutado la pirueta más arriesgada de la industria; si no, no habrá plan B.
 
 <iframe src=https://www.youtube.com/embed/jEfPmOCMIiY title="Vídeo: presentación oficial del Jaguar Type 01" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Grabación de la presentación neoyorquina difundida por la propia marca.
+Vídeo oficial de Jaguar con la presentación del Type 01.
 
 <img src=/media/jaguar-type-01-electrico-1030-cv-galeria-2.webp alt=Interior minimalista de un GT eléctrico con pantalla OLED panorámica, imagen editorial>
 
 ## Preguntas frecuentes
 
-### ¿Desde cuánto parte el Type 01?
-En Reino Unido arranca en 130.000 libras; para España, la tarifa sigue sin anunciarse.
+### ¿Cuánto cuesta el Jaguar Type 01?
+Parte de **130.000 libras** en Reino Unido; el precio para España aún no se ha anunciado.
 
-### ¿Cuándo empezará a venderse?
-La apertura de pedidos está prevista para principios de 2027, con las primeras unidades llegando en la segunda mitad de ese año.
+### ¿Cuándo se podrá comprar?
+Los pedidos se abren a **principios de 2027** y las primeras entregas están previstas para el segundo semestre de 2027.
 
-### ¿Qué alcance anuncia?
-Hasta 720 km WLTP según la marca, aunque la cifra definitiva sigue pendiente de homologación.
+### ¿Qué autonomía tiene el Jaguar Type 01?
+Hasta **720 km WLTP** según Jaguar, aunque la cifra está pendiente de homologación final.
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
+`,
 },
 {
   title: "VW ID.Tiguan: el nuevo ID.4",
@@ -389,7 +389,7 @@ La preventa europea ya está en marcha; las primeras entregas se prevén durante
 {
   title: "Dacia Striker 2026: familiar híbrido por menos de 25.000 €",
   slug: "dacia-striker-2026-precio-ficha",
-  excerpt: "El Striker debuta en París con 4,62 m, 600 litros de maletero y tres mecánicas electrificadas: híbrida, 4x4 y GLP. Precio anunciado por debajo de 25.000 €.",
+  excerpt: "Dacia desvela el Striker en el Salón de París: crossover familiar de 4,62 m con 600 litros de maletero, versiones híbrida, 4x4 y GLP, y precio por debajo de 25.000 €. Lo que se sabe.",
   category: "Novedades Motor",
   date: "2026-10-08",
   readTime: 6,
@@ -403,45 +403,45 @@ La preventa europea ya está en marcha; las primeras entregas se prevén durante
   ],
   content: `<img src=/media/dacia-striker-2026-precio-ficha-hero.webp alt=Crossover familiar verde oscuro en una carretera rural europea, imagen editorial>
 
-**Dacia** ataca de nuevo donde más daño hace a la competencia: el bolsillo. Su nuevo **Striker** se presenta al mundo en el salón parisino, entre el 12 y el 18 de octubre, mide **4,62 metros**, ofrece **600 litros de maletero** y llegará con tres opciones electrificadas —híbrida, 4x4 híbrida y GLP— a un precio que la marca sitúa por debajo de 25.000 € en Europa, con la apertura de pedidos dentro de este mismo mes de octubre.
+**Dacia** vuelve a hacer lo que mejor sabe: romper el mercado por precio. El **Striker**, que debuta mundialmente en el **Salón de París (12-18 de octubre)**, es un crossover familiar de **4,62 metros** con **600 litros de maletero**, tres mecánicas electrificadas (híbrida, 4x4 híbrida y GLP) y un precio anunciado por la marca **por debajo de los 25.000 €** en Europa. Los pedidos se abren este mismo mes de octubre.
 
-## Lo esencial, en cifras
+## Datos clave
 
-- **Presentación mundial:** París, 12 de octubre de 2026; los pedidos arrancan en octubre de 2026
-- **Dimensiones:** 4.620/1.824/1.525 mm; distancia entre ejes de 2.704 mm; maletero de 600 L, que suben a 1.600 L si se abaten los asientos
-- **Hybrid 155:** combina un 1.8 de gasolina con un eléctrico y rinde **153 CV** a las ruedas delanteras
-- **Hybrid 150 4x4:** une un 1.2 turbo a un eléctrico trasero, entrega **150 CV** y añade programas para nieve, arena y barro
-- **BiFuel-G 140:** GLP con microhibridación de 48V y autonomía de hasta **1.500 km**
-- **Distintivo DGT:** ECO en todas las versiones
-- **Precio:** menos de **25.000 €** en Europa (según el anuncio oficial de Dacia); todavía no hay tarifa española publicada
+- **Debut mundial:** Salón de París, 12 de octubre de 2026; pedidos desde octubre de 2026
+- **Medidas:** 4.620/1.824/1.525 mm; batalla 2.704 mm; maletero de **600 L** (1.600 L con asientos abatidos)
+- **Hybrid 155:** 1.8 gasolina + motor eléctrico, **153 CV**, tracción delantera
+- **Hybrid 150 4x4:** 1.2 turbo + motor eléctrico trasero, **150 CV**, modos nieve/arena/barro
+- **BiFuel-G 140:** GLP + microhibridación 48V, hasta **1.500 km** de autonomía
+- **Etiqueta DGT:** ECO en toda la gama
+- **Precio:** por debajo de **25.000 €** en Europa (anuncio oficial de Dacia); sin tarifa española publicada aún
 - **Fuente:** <a href=https://media.dacia.com/>centro de prensa oficial de Dacia</a>, <a href=https://www.carwow.es/dacia/noticias/8328/dacia-salon-paris-2026-estrenos-striker-spring>carwow España</a> y <a href=https://www.autohebdosport.com/coches/noticias/dacia-striker-asi-es-el-nuevo-crossover-electrificado-que-llegara-por-menos-de-25-000-euros>AutoHebdo Sport</a>
 
-## Tres formas de moverse, la misma idea
+## Tres mecánicas, una filosofía
 
-En lugar de imponer una única tecnología, el Striker reparte papeles: el **Hybrid 155** cubre el uso diario con eficiencia, el **Hybrid 150 4x4** suma tracción total auténtica gracias a su eléctrico trasero para quien sale del asfalto, y el **BiFuel-G 140** de GLP aguanta hasta **1.500 km** sin repostar con un coste por kilómetro mínimo. En común, el distintivo **ECO**. La fórmula Dacia, en definitiva, aterriza en el segmento con más tirón en España: el crossover familiar.
+El Striker no apuesta por una sola tecnología: el **Hybrid 155** es el familiar eficiente de diario, el **Hybrid 150 4x4** añade tracción total real con motor eléctrico trasero para quien necesita campo, y el **BiFuel-G 140** de GLP promete hasta **1.500 km** sin repostar a precio de risa por kilómetro. Todas con etiqueta **ECO**. Es la receta Dacia aplicada al segmento que más crece en España: el crossover familiar.
 
 <iframe src=https://www.youtube.com/embed/FwGLIUtMroU title="Vídeo: Dacia Striker, primera toma de contacto" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-El canal <a href=https://www.youtube.com/watch?v=FwGLIUtMroU>carwow España</a> graba su primera toma de contacto con el modelo.
+Primera toma de contacto con el Dacia Striker, por <a href=https://www.youtube.com/watch?v=FwGLIUtMroU>carwow España</a>.
 
 <img src=/media/dacia-striker-2026-precio-ficha-galeria-1.webp alt=Crossover familiar verde oscuro de perfil en un concesionario, imagen editorial>
 
-## Con quién se mide
+## Dónde se coloca
 
-Por tamaño y por sus 600 litros de maletero, el Striker mira de tú a tú al Skoda Octavia Combi, pero con tarifa Dacia: por debajo de 25.000 € no existe otro familiar híbrido que se le acerque. Dentro de la propia casa, su rival interno es el hermano mayor, el <a href=/coches/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica/>Bigster Hybrid 155</a>. <a href=/comparador-coches/>Compáralos en nuestro comparador de coches</a> en cuanto Dacia publique la tarifa española.
+Con 4,62 m y 600 litros de maletero, el Striker juega en la liga del Skoda Octavia Combi pero a precio Dacia: por debajo de 25.000 € no hay rival familiar híbrido que se le acerque. En casa compite con su hermano mayor, el <a href=/coches/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica/>Bigster Hybrid 155</a>. <a href=/comparador-coches/>Compáralos en nuestro comparador de coches</a> cuando Dacia publique la tarifa española.
 
 <img src=/media/dacia-striker-2026-precio-ficha-galeria-2.webp alt=Maletero amplio de un crossover familiar con maletas, imagen editorial>
 
-## Lo que más se pregunta
+## Preguntas frecuentes
 
-### ¿Qué precio anuncia Dacia para el Striker?
-Dacia lo sitúa en menos de 25.000 € en Europa. La tarifa para España sigue sin publicarse.
+### ¿Cuánto cuesta el Dacia Striker?
+Dacia anuncia un precio **por debajo de 25.000 €** en Europa. La tarifa española aún no se ha publicado.
 
-### ¿Cuándo se podrá comprar el Dacia Striker?
-El debut es el 12 de octubre de 2026, en el Salón de París, y los pedidos arrancan ese mismo mes.
+### ¿Cuándo se puede comprar el Dacia Striker?
+Debuta en el Salón de París el **12 de octubre de 2026** y los pedidos se abren ese mismo mes.
 
-### ¿Qué motores ofrece el Dacia Striker?
-La gama arranca con el BiFuel-G 140 de GLP (hasta 1.500 km de autonomía), sigue con el Hybrid 155 (153 CV) y se completa con el Hybrid 150 4x4 (150 CV y tracción total).
+### ¿Qué motores tiene el Dacia Striker?
+Tres: **Hybrid 155** (153 CV), **Hybrid 150 4x4** (150 CV con tracción total) y **BiFuel-G 140** de GLP con hasta 1.500 km de autonomía.
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,

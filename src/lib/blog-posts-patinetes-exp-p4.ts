@@ -144,9 +144,9 @@ Si tu presupuesto es mínimo, el M1 Elite vale. Si puedes estirarte, el M3 Pro a
   },
   {
     slug: "bogist-m3-pro",
-    title: "Bogist M3 Pro: urbano compacto de 350 W y 24 LED",
+    title: "Bogist M3 Pro: 350 W urbano con luces LED",
     excerpt:
-      "El Bogist M3 Pro combina 350 W, 270 Wh y un frontal de 24 LED en un patinete urbano de acceso: autonomía real, frenos y precio en España.",
+      "El Bogist M3 Pro sube a 350 W con batería de 270 Wh, amortiguadores y un frontal de 24 LED. Precio, autonomía y ficha técnica.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -165,9 +165,9 @@ Si tu presupuesto es mínimo, el M1 Elite vale. Si puedes estirarte, el M3 Pro a
 
 **¿Buscas solo los datos?** <a href=/patinetes/bogist-m3-pro/>Ver ficha técnica del Bogist M3 Pro</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **Bogist M3 Pro** se mueve en el segmento de los urbanos compactos: **350 W** de motor, un acumulador de **270 Wh** y un frontal con **24 LED** que se distingue de verdad cuando cae la noche. La <a href=https://www.priceboon.com/product/bogist-m3-pro/>prueba de Priceboon</a> lo examinó a fondo y dibuja un vehículo contenido, de acceso y sin pretensiones.
+El **Bogist M3 Pro** es el urbano compacto de la marca: **350 W**, batería de **36 V y 7,5 Ah (270 Wh)** y unos **25 km de autonomía** declarada, con un frontal de **24 LED** que se ve de verdad de noche (<a href=https://www.priceboon.com/product/bogist-m3-pro/>Priceboon</a> lo probó a fondo). Pequeño, barato y honesto.
 
-## Datos esenciales de un vistazo
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -181,25 +181,25 @@ El **Bogist M3 Pro** se mueve en el segmento de los urbanos compactos: **350 W**
 
 ¿Quieres el detalle completo? <a href=/patinetes/bogist-m3-pro/>Ficha técnica completa del Bogist M3 Pro</a> con todos los datos verificados.
 
-## Cuánto cuesta en España y dónde se compra
+## Precio del Bogist M3 Pro en España
 
-La marca no anuncia un precio oficial para el mercado español, así que la compra se hace a través de distribuidores y marketplaces. Su sitio está en la gama de acceso, un escalón por debajo del M5 Pro.
+Bogist no publica PVP oficial para España: se compra por distribuidores y marketplaces. Su posicionamiento es de gama de entrada, por debajo del M5 Pro.
 
 <img src=/media/patinetes/bogist-m3-pro-2.webp alt=Detalle de la rueda maciza de 8 pulgadas del Bogist M3 Pro>
 
-## Autonomía anunciada frente a la medida en uso real
+## Autonomía real vs declarada
 
-La cifra oficial es de 25 km, pero la medición de Priceboon en condiciones corrientes se quedó más cerca de los 17 km. Con 270 Wh no cabe esperar prodigios: encaja en recorridos de menos de 10 km en cada sentido.
+Declara **25 km**; la prueba de Priceboon midió un uso realista más cercano a los **17 km**. Con 270 Wh no hay milagros: es un patinete para trayectos de menos de 10 km por sentido.
 
-## Frenada y ruedas: el punto a vigilar
+## Frenos y neumáticos
 
-Su flanco más flojo está en la frenada: en la rueda delantera trabaja un freno electrónico y atrás únicamente un freno de pie colocado sobre el guardabarros, de rendimiento escaso ante un imprevisto. Las ruedas macizas de 8 pulgadas suprimen los pinchazos y los amortiguadores a la vista suavizan los baches, aunque sobre asfalto mojado conviene anticipar muchísimo cada detención.
+El punto débil: delante lleva **freno electrónico** y detrás solo un **freno de pie** sobre el guardabarros, poco eficaz en emergencias. Las ruedas **macizas de 8 pulgadas** eliminan pinchazos y los amortiguadores visibles ayudan en baches, pero en mojado hay que anticipar mucho la frenada.
 
-## Homologación DGT y reglas para los VMP
+## Certificado DGT y normativa VMP
 
-No hay constancia de un certificado DGT verificado para este modelo. Como su punta ronda los 25-27 km/h, hay que dejarlo capado a 25 km/h para respetar la regulación de los VMP: nada de aceras, y circulación por carril bici o por la calzada.
+Sin certificado DGT verificado. Con ~25-27 km/h de punta, debe limitarse a **25 km/h** para cumplir la normativa VMP: prohibido en **aceras**, obligatorio por carril bici o calzada.
 
-## Lo mejor y lo peor, en dos columnas
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -211,9 +211,9 @@ No hay constancia de un certificado DGT verificado para este modelo. Como su pun
 
 <img src=/media/patinetes/bogist-m3-pro-3.webp alt=Bogist M3 Pro en una calle urbana>
 
-## Qué significan 270 Wh cuando se hacen cuentas
+## 270 Wh explicados con una simple división
 
-El acumulador guarda 270 Wh, con una tensión de 36 V y una capacidad de 7,5 Ah. Repartir esa energía entre los 25 km oficiales arroja alrededor de 10,8 Wh por kilómetro, un ritmo propio de laboratorio: piloto ligero, terreno plano y marcha sostenida. El ensayo en condiciones reales que citamos registró en torno a 17 km, o sea, un gasto próximo a 15,9 Wh/km entre tráfico, arranques y un usuario de verdad. No se trata de un engaño del fabricante, sino de la distancia habitual entre un ensayo benévolo y la vía pública. Con esos 17 km aprovechables, su uso natural son los recorridos de menos de 10 km en cada sentido, con recarga en el destino o al regresar.
+La batería del M3 Pro guarda **270 Wh**. Si divides esa energía entre los 25 km declarados salen unos 10,8 Wh por kilómetro, un ritmo de laboratorio: conductor ligero, llano absoluto y velocidad constante. La prueba real que citamos midió unos **17 km**, es decir, un consumo cercano a 15,9 Wh/km con tráfico, arranques y un conductor de verdad. No es una estafa del fabricante; es la diferencia estándar entre el ensayo amable y la calle. Con esos 17 km útiles, su territorio natural son los desplazamientos de menos de 10 km por trayecto con carga en destino o al volver.
 
 | Magnitud | Cifra | Significado |
 |---|---|---|
@@ -222,43 +222,43 @@ El acumulador guarda 270 Wh, con una tensión de 36 V y una capacidad de 7,5 Ah.
 | Autonomía real estimada | ≈17 km | Consumo realista de ≈15,9 Wh/km |
 | Motor | 350 W | Suficiente en llano urbano |
 
-## Frenar con el pie exige anticipación constante
+## Frenar con el pie: técnica obligada, no opcional
 
-En frenos conviene ser totalmente franco: delante trabaja un freno electrónico —aprovechable para regenerar y restar velocidad— y detrás solo queda el tradicional freno de pie situado sobre el guardabarros, con una eficacia acotada. De ahí que haya que prever cada detención, mantener más margen, no afrontar descensos prolongados fiándose solo del pie trasero y extremar el cuidado con el firme mojado, donde unas ruedas macizas de 8 pulgadas ofrecen de por sí menos agarre que unas hinchables. No es un vehículo para circular con prisas entre el tráfico.
+El equipo de frenos es el punto que exige más honestidad: delante actúa un **freno electrónico** —útil para regenerar y recortar velocidad— y detrás solo el clásico freno de pie sobre el guardabarros, de eficacia limitada. Eso significa anticipar cada frenada, guardar más distancia, evitar bajar cuestas largas confiando solo en el pie trasero y extremar la precaución con el suelo mojado, donde las ruedas macizas de 8 pulgadas ya de por sí agarran menos que unas hinchables. No es un patinete para ir con prisas entre coches.
 
-## Sin pinchazos y con un frontal que destaca de noche
+## Ruedas macizas honeycomb y un frontal que se ve
 
-Como contrapartida, las ruedas macizas acaban con los pinchazos para siempre y los amortiguadores visibles en los dos trenes suavizan el paso por los baches. El bloque delantero de 24 LED resulta desproporcionado para su segmento y suma puntos en visibilidad nocturna: en ciudad, que te vean pronto compensa tanto como ver bien. Como VMP debe rodar capado a 25 km/h, sin pisar las aceras y respetando la normativa de la DGT. Falta la confirmación de un certificado DGT verificado, un detalle que conviene confirmar con el vendedor.
+A cambio, las ruedas macizas eliminan el pinchazo para siempre y los amortiguadores visibles en ambos trenes quitan filo a los baches. El frontal con **24 LED** es desproporcionado para su gama y juega a su favor en visibilidad nocturna: en ciudad, ser visto pronto vale tanto como ver. Como VMP debe circular limitado a **25 km/h**, fuera de las aceras y cumpliendo la normativa de la DGT; no consta certificado DGT verificado, detalle a comprobar con el vendedor.
 
-**Veredicto:** compensa como patinete de acceso para ciudad plana y recorridos breves, o como segunda unidad de uso diario; no es el adecuado si tus rutas pasan de 15 km al día o incluyen pendientes y lluvia habitual, supuesto en el que el <a href=/patinetes/bogist-c1-pro/>Bogist C1 Pro</a> ofrece más. Datos completos en la <a href=/patinetes/bogist-m3-pro/>ficha del Bogist M3 Pro</a>.
+**Veredicto:** merece la pena como patinete de entrada para ciudad llana y trayectos cortos, o como segunda unidad de batalla; no es el tuyo si tus rutas superan los 15 km diarios o incluyen cuestas y lluvia frecuente, caso en el que el <a href=/patinetes/bogist-c1-pro/>Bogist C1 Pro</a> rinde mejor. Datos completos en la <a href=/patinetes/bogist-m3-pro/>ficha del Bogist M3 Pro</a>.
 
-## Última milla junto al tren o al metro
+## Última milla: el M3 Pro y el transporte público
 
-El formato cobra lógica al combinarlo con tren o metro: un patinete de acceso, plegado al lado de la puerta del vagón, cubre la distancia de kilómetro y medio que separa la estación de la oficina y que convierte un buen desplazamiento en transporte público en un paseo a pie de veinte minutos. Ahí, las ruedas macizas y el mantenimiento casi nulo actúan a su favor, porque el vehículo descansa la semana en un rincón sin reclamar atención. La normativa de acceso de los VMP al transporte público cambia según la ciudad y el operador —algunas redes lo limitan por las baterías. Por eso, antes de organizar la rutina a su alrededor conviene revisar las condiciones vigentes del operador. Y un aviso para convivir: dentro del andén y del vagón, el patinete viaja plegado y en la mano, nunca rodando entre viajeros.
+El formato del M3 Pro cobra sentido combinado con tren o metro: un patinete de gama de entrada, plegado junto a la puerta del vagón, resuelve el kilómetro y medio entre la estación y la oficina que convierte un buen trayecto en transporte público en una caminata de veinte minutos. Ahí sus ruedas macizas y su mantenimiento casi nulo juegan a favor, porque el patinete pasa la semana en un rincón sin pedir atención. La normativa de acceso de VMP al transporte público varía según la ciudad y el operador —hay redes que lo restringen por las baterías—, así que antes de organizar tu rutina alrededor de él conviene consultar las condiciones vigentes de tu operador. Y una advertencia de convivencia: en el andén y en el vagón, el patinete se lleva plegado y en la mano, nunca circulando entre viajeros.
 
-## Estrenar la movilidad eléctrica con un modelo modesto
+## Como primer patinete, perdona casi todo
 
-Como puerta de entrada a la movilidad eléctrica personal, el M3 Pro ofrece una ventaja didáctica: unas prestaciones contenidas obligan desde la primera jornada a prever, mirar lejos y frenar con margen, justo los hábitos que después protegen con cualquier VMP más veloz. Quien se forma con él rara vez se sobresalta al pasar a máquinas de mayor nivel.
+Para debutar en la movilidad eléctrica personal, el M3 Pro tiene una virtud pedagógica: sus prestaciones modestas obligan desde el primer día a anticipar, mirar lejos y frenar con tiempo, que son exactamente los hábitos que luego salvan con cualquier VMP más rápido. Quien aprende en él difícilmente se asusta al dar el salto a máquinas superiores.
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿Cuál es la punta del M3 Pro?
-Ronda los 25-27 km/h con el acumulador lleno, según la medición de Priceboon.
+### ¿Qué velocidad alcanza el Bogist M3 Pro?
+Unos **25-27 km/h** con la batería a tope, según la prueba de Priceboon.
 
-### ¿Cuántos kilómetros reales recorre con una carga?
-Anuncia 25 km, pero en uso corriente conviene contar con unos 17 km.
+### ¿Qué autonomía real tiene?
+Declara 25 km; en uso real calcula **unos 17 km**.
 
-### ¿Frena bien?
-Es su flanco flojo: electrónico delante y de pie detrás. Prevé cada detención con tiempo.
+### ¿Tiene buenos frenos?
+Es su punto débil: electrónico delante y de pie detrás. Anticipa las frenadas.
 
-### ¿Pueden pinchar sus ruedas?
-No: son macizas con estructura honeycomb y el pinchazo queda descartado.
+### ¿Las ruedas son antipinchazo?
+Sí: son **macizas tipo honeycomb**, no pinchan nunca.
 
-### ¿Se puede usar legalmente en España?
-Sí, siempre que vaya limitado a 25 km/h y no circule por las aceras.
+### ¿Es legal en España?
+Limitado a 25 km/h y fuera de las aceras, sí.
 
-### ¿Compensa comprarlo?
-Como segunda unidad o para ciudad plana, sí. Para un uso exigente, mejor mirar el M5 Pro.
+### ¿Merece la pena?
+Como segundo patinete o para ciudad llana, sí. Para uso intensivo, mira el M5 Pro.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
@@ -266,9 +266,9 @@ Como segunda unidad o para ciudad plana, sí. Para un uso exigente, mejor mirar 
   },
   {
     slug: "bogist-c1-pro",
-    title: "Bogist C1 Pro: 550 W, sillín y 45 km/h de punta",
+    title: "Bogist C1 Pro: 550 W y sillín extraíble",
     excerpt:
-      "Sillín desmontable, 550 W con picos de 800 W, 40 km anunciados y doble suspensión: el C1 Pro une potencia y asiento, limitado a 25 km/h.",
+      "El Bogist C1 Pro apuesta por la potencia: 550 W (800 W de pico), 40 km de autonomía, doble suspensión y sillín extraíble. Ficha completa.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -287,9 +287,9 @@ Como segunda unidad o para ciudad plana, sí. Para un uso exigente, mejor mirar 
 
 **¿Buscas solo los datos?** <a href=/patinetes/bogist-c1-pro/>Ver ficha técnica del Bogist C1 Pro</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Bogist coloca este C1 Pro como el modelo con sillín de mayor empuje: 550 W nominales con picos de 800 W, 40 km anunciados, suspensión en ambos ejes, protección IP65 y sillín desmontable de serie. Sus tres modos fijan topes de 24, 32 y 45 km/h según la situación.
+El **Bogist C1 Pro** es el musculoso de la gama con sillín: **550 W** (800 W de pico), **40 km** de autonomía declarada, **doble suspensión**, **IP65** y **sillín extraíble** incluido. Tres modos de velocidad (24/32/45 km/h) para adaptarlo a cada situación.
 
-## Datos resumidos
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -303,29 +303,29 @@ Bogist coloca este C1 Pro como el modelo con sillín de mayor empuje: 550 W nomi
 
 ¿Quieres el detalle completo? <a href=/patinetes/bogist-c1-pro/>Ficha técnica completa del Bogist C1 Pro</a> con todos los datos verificados.
 
-## Precio sin cifra oficial
+## Precio del Bogist C1 Pro en España
 
-No existe un PVP oficial publicado: las unidades aparecen en el mercado de segunda mano y a través de distribuidores. Su baza consiste en reunir potencia y asiento por menos dinero que los competidores que también ofrecen sillín.
+Sin PVP oficial: se encuentra en mercado de segunda mano y distribuidores. Su argumento es potencia + sillín por menos dinero que la competencia con asiento.
 
 <img src=/media/patinetes/bogist-c1-pro-2.webp alt=Detalle del sillín extraíble y la plataforma del Bogist C1 Pro>
 
-## Alcance anunciado frente al alcance estimado
+## Autonomía real vs declarada
 
-El folleto promete 40 km; en un uso mixto y con el modo más vivo, el cálculo prudente ronda los 27 km reales. La suspensión en ambos ejes y las cubiertas de 10 pulgadas evitan malgastar energía en cada bache.
+Declara **40 km**; con uso mixto y el modo más alegre calcula **unos 27 km reales**. La doble suspensión y las ruedas de 10 pulgadas ayudan a no desperdiciar energía en baches.
 
-## Frenada y rodadura
+## Frenos y neumáticos
 
-El freno es de disco y los neumáticos, hinchables de 10 pulgadas: una pareja proporcionada a los 800 W de pico. El sillín desmontable deja elegir entre ir de pie o sentado en cada desplazamiento.
+Freno de **disco** y neumáticos **hinchables de 10 pulgadas**: combinación correcta para sus 800 W de pico. El sillín extraíble permite usarlo de pie o sentado según el trayecto.
 
-## Papeles y límites para circular
+## Certificado DGT y normativa VMP
 
-Su ficha no recoge un certificado DGT verificado. Con una punta de 45 km/h, tal como se vende queda fuera de la normativa VMP, cuyo límite es de 25 km/h. Solo circula de forma legal limitado a 25 km/h, y las aceras quedan excluidas en todos los casos.
+Sin certificado DGT verificado. Ojo: sus **45 km/h** de punta lo dejan **fuera de la normativa VMP** tal cual se vende (límite 25 km/h). Solo es legal limitado a 25 km/h, sin circular por **aceras** en ningún caso.
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/FHz7DxgRb38 title="Análisis del Bogist C1 Pro" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=FHz7DxgRb38>análisis del Bogist C1 Pro</a> en YouTube.
 
-## Ventajas e inconvenientes
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -337,9 +337,9 @@ Vídeo: <a href=https://www.youtube.com/watch?v=FHz7DxgRb38>análisis del Bogist
 
 <img src=/media/patinetes/bogist-c1-pro-3.webp alt=Bogist C1 Pro con sillín circulando por carril bici>
 
-## Los tres modos y su encaje en la calle
+## Los tres modos, y cuál puedes usar en la calle
 
-Los tres modos marcan 24, 32 y 45 km/h, pero el techo legal español para vehículos de movilidad personal se sitúa en 25 km/h. En la práctica, la vía pública solo admite el modo que no rebasa esa cifra; con las velocidades superiores, el vehículo queda fuera del marco VMP. La DGT pide además que los VMP puestos a la venta dispongan de su certificado de circulación: este modelo no presenta certificado DGT verificado en su ficha; antes de pagarlo, conviene exigir la documentación al vendedor y confirmar que la limitación funciona correctamente.
+El C1 Pro ofrece modos de **24, 32 y 45 km/h**, pero la normativa española de vehículos de movilidad personal fija el techo legal en **25 km/h**. Traducción práctica: en la vía pública solo cabe circular con el modo que no supere ese límite; las velocidades superiores quedan fuera del marco VMP y, con ellas, el patinete deja de ser un VMP a ojos de la regulación. La DGT exige además que los VMP comercializados cuenten con su certificado de circulación: este modelo **no tiene certificado DGT verificado**, así que antes de comprarlo toca exigir al vendedor la documentación y comprobar que puede limitarse correctamente.
 
 | Modo | Velocidad | Situación legal en España |
 |---|---|---|
@@ -347,54 +347,53 @@ Los tres modos marcan 24, 32 y 45 km/h, pero el techo legal español para vehíc
 | Modo 2 | 32 km/h | Fuera del límite VMP |
 | Modo 3 | 45 km/h | Fuera del límite VMP |
 
-## Viajar sentado
+## Sentado se viaja distinto
 
-El sillín desmontable cambia la experiencia más de lo que la ficha sugiere: en recorridos de 8-10 km, ir sentado alivia la fatiga de piernas y espalda y quita tensión a la mano que sostiene la postura de pie sobre una plataforma corta. La suspensión en ambos ejes y las cubiertas hinchables de 10 pulgadas acompañan ese uso viajero, y la etiqueta IP65 permite seguir rodando si empieza a llover sin temer por la electrónica. La contrapartida aparece al doblarlo: el conjunto con sillín pesa y ocupa más, así que quien combina cada día tren o metro con el patinete debería sopesar un modelo ligero sin asiento.
+El **sillín extraíble** transforma la experiencia más de lo que sugiere la ficha: en trayectos de 8-10 km, ir sentado reduce la fatiga de piernas y espalda y libera una mano de la tensión de ir de pie sobre una plataforma corta. La doble suspensión y las ruedas hinchables de 10 pulgadas acompañan bien ese uso viajero, y la certificación **IP65** permite seguir circulando si se pone a llover sin temer por la electrónica. El precio de tanta comodidad llega al plegarlo: el conjunto con sillín pesa y abulta más, así que quien combine a diario con tren o metro debería valorar un modelo ligero sin asiento.
 
-## Del folleto a la calle
+## Autonomía: del folleto a tu calle
 
-Declara 40 km y la estimación real se mueve en torno a los 27 km en uso mixto. La distancia no esconde ninguna trampa: la cifra de laboratorio sale con un conductor ligero, un ritmo constante y una temperatura amable; la calle añade detenciones, pendientes, viento y un modo vivo que reclama los 800 W de pico al arrancar desde un semáforo.
+Declara 40 km y nuestra estimación real ronda los **27 km** en uso mixto. La brecha se explica sin conspiraciones: la cifra de laboratorio se obtiene con conductor ligero, ritmo constante y temperatura amable; tu calle suma paradas, cuestas, viento y un modo de velocidad alegre que exprime los **800 W de pico** en cada salida de semáforo.
 
-**Veredicto:** si buscas empuje y la opción de viajar sentado a un precio inferior al de las marcas grandes, el C1 Pro encaja aceptando circular limitado a 25 km/h y revisando su documentación antes de pagar; tampoco es la opción si lo que buscas es un VMP ya certificado sin gestiones, o un modelo ultraligero para el tren. Contrasta <a href=/patinetes/bogist-c1-pro/>ficha C1 Pro</a> con el <a href=/patinetes/bogist-m5-pro/>M5 Pro</a> antes de decidir.
+**Veredicto:** merece la pena si buscas potencia y la opción de ir sentado por menos que las marcas grandes, aceptando limitarlo a 25 km/h y verificar su documentación antes de pagar; no es el tuyo si necesitas un VMP certificado sin trámites ni un peso pluma para el tren. Revisa la <a href=/patinetes/bogist-c1-pro/>ficha del Bogist C1 Pro</a> junto al <a href=/patinetes/bogist-m5-pro/>Bogist M5 Pro</a>.
 
-## Presión, frenos y batería en el día a día
+## Convivir con él: presión, frenos y batería
 
-Con cubiertas hinchables de 10 pulgadas, conviene revisar la presión cada pocas semanas: rodar con poco aire eleva el consumo, recorta el alcance real y eleva el riesgo de reventón contra un bordillo. El disco pide revisar el cable de vez en cuando y cambiar las pastillas en cuanto el tacto pierda firmeza, una rutina propia de cualquier bicicleta. La batería de litio, cuya capacidad no publica la marca, se conserva con las pautas universales: no guardarla meses al 100 % ni al 0 %, cargarla a temperatura ambiente y no dejarla expuesta al sol de agosto en el interior de un coche. El sillín desmontable también pide revisar su tornillería de vez en cuando, porque con un asiento que baila a 25 km/h, cualquier bache se vuelve un susto serio.
+Un patinete con ruedas hinchables de **10 pulgadas** exige vigilar la presión cada pocas semanas: rodar bajo de aire dispara el consumo, acorta la autonomía real y multiplica el riesgo de llantazo contra un bordillo. El freno de disco agradece un ajuste periódico del cable y pastillas nuevas cuando el tacto se vuelve esponjoso, un mantenimiento de bicicleta de toda la vida. La batería de litio, aunque la marca no publica su capacidad, se cuida con las reglas universales del formato: evitar guardarlo meses al 100 % o al 0 %, cargarlo a temperatura ambiente y no dejarlo al sol de agosto dentro de un coche. El sillín extraíble también merece su tornillería revisada de vez en cuando, porque un asiento que se mueve a 25 km/h convierte cualquier bache en un susto serio.
 
-## Guardarlo en un piso
+## Dormir en un piso: el ritual de guardarlo
 
-En casa, el pliegue le encuentra un hueco, aunque quitar el sillín ayuda cuando el espacio escasea o el trastero se comparte con bicicletas. Al apoyarlo, evita que el peso recaiga sobre el guardabarros trasero, y después de rodar bajo la lluvia pasa un trapo por la plataforma: la protección IP65 ampara la electrónica, no el aspecto.
+Al llegar a casa, el C1 Pro se pliega y busca rincón, pero el sillín conviene desmontarlo si el espacio aprieta o si va a compartir trastero con bicicletas. Acostúmbrate a apoyarlo sin cargar el peso sobre el guardabarros trasero y a pasar un trapo por la plataforma tras los días de lluvia: la IP65 protege la electrónica, no la estética.
 
-## Dudas habituales
+## Preguntas frecuentes
 
 ### ¿Cuánto corre el Bogist C1 Pro?
-En el modo superior alcanza 45 km/h; los otros dos topan en 24 y 32 km/h.
+Hasta **45 km/h** en el modo más alto; 24 y 32 km/h en los otros dos.
 
 ### ¿Es legal en España?
-Únicamente con la limitación a 25 km/h; con 45 km/h queda fuera del marco VMP.
+Solo **limitado a 25 km/h**. A 45 km/h no es un VMP legal.
 
 ### ¿El sillín se puede quitar?
-Sí, se desmonta y deja usarlo de pie o sentado.
+Sí: es **extraíble** y se usa de pie o sentado.
 
-### ¿Qué alcance real tiene?
-Anuncia 40 km; en uso mixto, el cálculo ronda los 27 km.
+### ¿Qué autonomía real tiene?
+Declara 40 km; calcula **unos 27 km** en uso mixto.
 
 ### ¿Resiste la lluvia?
-Sí, gracias a su certificación IP65.
+Sí: certificación **IP65**.
 
-### ¿Qué aporta frente al M5 Pro?
-El C1 Pro entrega más potencia y menos peso; el M5 Pro suma más batería y una cesta. La elección depende de priorizar empuje o alcance.
+### ¿Merece la pena frente al M5 Pro?
+El C1 Pro es más potente y ligero; el M5 Pro tiene más batería y cesta. Depende de si priorizas potencia o autonomía.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://karrotmarket.com/ca/buy-sell/s59bshgcnzq4/>ficha del C1 Pro en Karrot</a> y <a href=https://www.youtube.com/watch?v=FHz7DxgRb38>análisis en vídeo</a>., <a href=https://www.dgt.es>normativa de VMP en la DGT</a>*
-`,
+*Fuentes: <a href=https://karrotmarket.com/ca/buy-sell/s59bshgcnzq4/>ficha del C1 Pro en Karrot</a> y <a href=https://www.youtube.com/watch?v=FHz7DxgRb38>análisis en vídeo</a>., <a href=https://www.dgt.es>normativa de VMP en la DGT</a>*`,
   },
   {
     slug: "bogist-m5-pro",
-    title: "Bogist M5 Pro: minimoto con sillín y cesta, 429 €",
+    title: "Bogist M5 Pro: 500 W, 624 Wh y sillín por 429 €",
     excerpt:
-      "Patinete con asiento que parece una minimoto: motor de 500 W, batería de 624 Wh, ruedas de 12 pulgadas, sillín con respaldo y cesta por unos 429 €.",
+      "El Bogist M5 Pro es el todoterreno de la marca: 500 W, batería de 624 Wh, ruedas de 12 pulgadas, sillín y cesta por unos 429 €.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -413,7 +412,7 @@ El C1 Pro entrega más potencia y menos peso; el M5 Pro suma más batería y una
 
 **¿Buscas solo los datos?** <a href=/patinetes/bogist-m5-pro/>Ver ficha técnica del Bogist M5 Pro</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-A primera vista, este Bogist engaña: su silueta recuerda más a una moto pequeña que a un patinete convencional. Lleva asiento con respaldo, cesta detrás, ruedas neumáticas de 12 pulgadas, frenada de doble disco, motor de 500 W y una batería de 48 V y 13 Ah, es decir, 624 Wh. Todo eso ronda los 429 €, según el análisis a fondo de <a href=https://www.electricscooterguides.com/resources/bogist-m5-pro-electric-scooter-review-a-comprehensive-analysis>ElectricScooterGuides</a>.
+El **Bogist M5 Pro** no parece un patinete: parece una minimoto. **500 W**, batería de **48 V y 13 Ah (624 Wh)**, ruedas **neumáticas de 12 pulgadas**, **sillín con respaldo**, **cesta trasera** y **doble freno de disco**, por **unos 429 €** (<a href=https://www.electricscooterguides.com/resources/bogist-m5-pro-electric-scooter-review-a-comprehensive-analysis>ElectricScooterGuides</a> lo analizó a fondo). El utilitario total.
 
 ## Ficha técnica resumida
 
@@ -432,29 +431,29 @@ A primera vista, este Bogist engaña: su silueta recuerda más a una moto peque�
 
 ¿Quieres el detalle completo? <a href=/patinetes/bogist-m5-pro/>Ficha técnica completa del Bogist M5 Pro</a> con todos los datos verificados.
 
-## Cuánto cuesta en España
+## Precio del Bogist M5 Pro en España
 
-En Amazon y entre distribuidores europeos, el precio se mueve alrededor de los 429 €. Con esa cantidad, ningún otro patinete con asiento ofrece 624 Wh y cesta: sus rivales con asiento cuestan bastante más.
+Ronda los **429 €** en Amazon y distribuidores europeos. Por ese dinero no hay otro patinete con 624 Wh, sillín y cesta: la competencia con asiento cuesta bastante más.
 
 <img src=/media/patinetes/bogist-m5-pro-2.webp alt=Detalle de la rueda de 12 pulgadas y el doble disco del Bogist M5 Pro>
 
-## Autonomía: lo declarado frente a lo real
+## Autonomía real vs declarada
 
-El fabricante promete hasta 60 km en condiciones ideales, mientras que los distribuidores europeos hablan de 30-40 km. Con sillín, peso medio y uso normal, lo prudente es contar con unos 27 km: alcance de sobra para una semana de recados sin enchufarlo cada día.
+El fabricante habla de hasta 60 km en condiciones ideales; los distribuidores europeos citan **30-40 km**. En uso real con sillín y peso medio, calcula **unos 27 km**: suficiente para una semana de recados sin cargar a diario.
 
-## Frenada y ruedas
+## Frenos y neumáticos
 
-Delante y detrás monta disco, y las cubiertas neumáticas miden 12 pulgadas: un equipo acorde con 25 kg y 500 W. Ese diámetro tan grande absorbe baches que, con ruedas de 8,5 pulgadas, resultarían un suplicio.
+**Doble freno de disco** (delantero y trasero) y ruedas **neumáticas de 12 pulgadas**: el equipo de frenada que merecen 25 kg y 500 W. Las ruedas grandes filtran baches que en un 8,5 pulgadas serían un suplicio.
 
-## Papeles y legalidad en España
+## Certificado DGT y normativa VMP
 
-No hay certificado DGT verificado para este modelo. Además, su punta de 40 km/h queda fuera de la normativa VMP: para circular legal hay que limitarlo a 25 km/h, y nunca por las aceras.
+Sin certificado DGT verificado. Sus **40 km/h** de punta lo sacan de la normativa VMP: **hay que limitarlo a 25 km/h** para circular legal, siempre fuera de las **aceras**.
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/EoBCLNTaPI8 title="Bogist M5 Pro: unboxing y prueba" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=EoBCLNTaPI8>unboxing y prueba del Bogist M5 Pro</a> en YouTube.
 
-## Lo bueno y lo malo
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -466,11 +465,11 @@ Vídeo: <a href=https://www.youtube.com/watch?v=EoBCLNTaPI8>unboxing y prueba de
 
 <img src=/media/patinetes/bogist-m5-pro-3.webp alt=Bogist M5 Pro con sillín y cesta en ciudad>
 
-## La marca y su planteamiento
+## Bogist y la idea detrás del M5 Pro
 
-Bogist comercializa a través de distribuidores y plataformas, sin una red propia llamativa en España. Este modelo es su propuesta básica en formato sentado: no está pensado para llevarlo bajo el brazo en el metro, sino para sustituir a una segunda moto en recorridos cortos. El asiento con respaldo, la cesta y el diámetro grande de rueda resumen la idea; la inversión va a batería y motor, no a los acabados.
+Bogist vende por distribuidores y plataformas, sin red propia vistosa en España. Este modelo es su pieza básica del formato sentado: no pretende acompañarte bajo el brazo al metro, sino sustituir a una segunda moto en trayectos cortos. Asiento con respaldo, cesta y ruedas grandes resumen la propuesta; el dinero está en batería y motor, no en acabados premium.
 
-## Cada pieza, en uso real
+## Qué aporta cada componente en la práctica
 
 | Elemento | Dato | Lectura honesta |
 |---|---|---|
@@ -481,47 +480,49 @@ Bogist comercializa a través de distribuidores y plataformas, sin una red propi
 | Frenos | Doble disco | Coherente con el peso del conjunto más la carga |
 | Carga máxima | 150 kg | Margen poco habitual por unos 429 € |
 
-Circular sentado, arrancar en cada semáforo y cargar peso en la cesta gasta más que rodar sin parar en llano. Si cuentas con 27 km reales, un trayecto diario de 8-10 km deja cargar cada dos o tres días sin agotar la batería. Como orientación general en patinetes, lo aprovechable ronda el 60-70 % de lo declarado, y no es una medición propia de este modelo. Todos los datos están en la <a href=/patinetes/bogist-m5-pro/>ficha del Bogist M5 Pro</a>.
+Ir sentado, acelerar en cada semáforo y llevar peso en la cesta consume más que una prueba continua en llano. Con **27 km reales** en mente, un recorrido diario de 8-10 km permite cargar cada dos o tres días sin apurar la batería. Como regla general en patinetes, lo útil suele ser el 60-70 % de lo declarado, no una medición propia de este modelo. El detalle completo está en la <a href=/patinetes/bogist-m5-pro/>ficha del Bogist M5 Pro</a>.
 
-## En el día a día: cómodo sentado, engorroso parado
+## Uso diario: cómodo sentado, incómodo en parado
 
-Cuando vas sentado, la experiencia no tiene nada que ver con un patinete de pie: descansas las piernas, dejas la espalda libre gracias a la cesta y los adoquines no asustan a unas ruedas de 12 pulgadas. El problema llega al guardarlo: 25 kg con el volumen de una minimoto resultan inmanejables para subir tres plantas sin ascensor. Plegado, seguirá ocupando sitio en el recibidor o en el maletero. En pendientes, el motor de 500 W ayuda, aunque con mucha carga y poca batería el ritmo bajará. Y si tienes que llevarlo a pulso en transporte público, mejor descartarlo.
+Sentado, la experiencia cambia frente a un patinete clásico: las piernas descansan, la cesta libera la espalda y las ruedas de 12 pulgadas no se asustan con adoquines. El reverso aparece al aparcarlo: son **25 kg** con volumen de minimoto, inmanejables para subir tres pisos sin ascensor. Incluso plegado, ocupará hueco en recibidor o maletero. En cuestas, los 500 W ayudan, pero con carga alta y batería baja el ritmo caerá. Si debes cargarlo a pulso en transporte público, descártalo.
 
-## Mantenimiento y gasto previsible
 
-Para España no se ha publicado ningún plan oficial de revisiones, así que vale lo habitual: pastillas de disco que se gastan, presión y cambio de neumáticos, y holguras en la dirección después de muchos kilómetros de baches. Vigilar la presión sale barato y alarga tanto la autonomía como la vida del neumático. No dejes la batería semanas descargada ni al sol después de cargar; sus 624 Wh irán perdiendo capacidad con los años. El riesgo de verdad está en la red: el soporte en España es testimonial, así que antes de pagar confirma quién te suministrará recambios, igual que con el <a href=/patinetes/bogist-c1-pro/>Bogist C1 Pro</a>.
 
-## La normativa VMP, sin atajos
+## Mantenimiento y costes previsibles
 
-La <a href=https://www.dgt.es>Dirección General de Tráfico</a> considera vehículos de movilidad personal a estos aparatos cuando reúnen sus condiciones: tope de 25 km/h, prohibición de circular por las aceras y certificado de circulación obligatorio para los VMP vendidos a partir del 22 de enero de 2024, con un periodo transitorio para los anteriores, que se extiende hasta enero de 2027 en función de cada caso. En cuanto al casco, manda la ordenanza de tu municipio. También puedes consultar la <a href=/guias/patinetes-electricos/>guía de patinetes eléctricos</a>.
+No hay plan oficial de revisiones publicado para España, así que manda lo general: desgaste de pastillas de disco, presión y sustitución de neumáticos, y holguras de dirección tras kilómetros de baches. Controlar la presión es barato y alarga autonomía y neumático. Evita guardar la batería semanas descargada o al sol tras cargar; sus **624 Wh** perderán capacidad con los años. El riesgo real es la red: soporte testimonial en España, así que confirma quién suministra recambios antes de pagar, como con el <a href=/patinetes/bogist-c1-pro/>Bogist C1 Pro</a>.
 
-No cabe una lectura benévola: tal como sale de fábrica declara 40 km/h y no tiene certificado DGT verificado. En esas condiciones no encaja como VMP en España; sin una limitación efectiva y sin solucionar el certificado, su ámbito honesto es el espacio privado.
+## Normativa VMP: el punto que no admite atajos
 
-## Comparado con su hermano y veredicto
+La <a href=https://www.dgt.es>Dirección General de Tráfico</a> encuadra estos vehículos como vehículos de movilidad personal cuando cumplen sus condiciones: velocidad máxima de **25 km/h**, circulación prohibida por las **aceras** y certificado de circulación exigible a los VMP comercializados desde el 22 de enero de 2024, con régimen transitorio para los anteriores hasta enero de 2027 según el caso. El casco depende además de la ordenanza de tu municipio. Consulta también la <a href=/guias/patinetes-electricos/>guía de patinetes eléctricos</a>.
 
-El competidor incómodo vive en la misma casa. El <a href=/patinetes/bogist-m5-pro-s/>Bogist M5 Pro S</a> alcanza 720 Wh, calza cubiertas de 12,5 pulgadas y declara 24,2 kg de peso, pero baja la carga máxima a 120 kg y anuncia 50 km/h, igualmente incompatible sin limitación. Para quien pese mucho o transporte carga, los 150 kg del Pro a secas compensan esos vatios de más.
+Aquí no hay interpretación amable: de serie declara **40 km/h** y figura **sin certificado DGT verificado**. Tal cual sale de la caja no encaja como VMP en España; sin limitación efectiva y sin resolver el certificado, su terreno honesto es el espacio privado.
 
-**Veredicto:** como utilitario con asiento para recados, bien limitado y regularizado, su equilibrio entre batería, carga y precio resulta difícil de superar. No lo adquieras pensando en un patinete urbano legal de serie, ni si tienes que subirlo cada día a un piso, ni si esperas un servicio técnico de marca grande. En cambio, encaja si tienes garaje o ascensor, haces trayectos cortos con la compra y cuentas con un vendedor que responda de los recambios.
+## Frente a sus hermanos de catálogo y veredicto
+
+El rival incómodo está en casa. El <a href=/patinetes/bogist-m5-pro-s/>Bogist M5 Pro S</a> sube a **720 Wh**, monta ruedas de 12,5 pulgadas y pesa 24,2 kg, pero recorta la carga máxima a 120 kg y declara 50 km/h, también incompatible sin limitar. Si pesas mucho o llevas carga, los **150 kg** del Pro normal compensan esos vatios extra.
+
+**Veredicto:** como utilitario sentado para recados, debidamente limitado y regularizado, ofrece una relación entre batería, carga y precio difícil de igualar. No lo compres como patinete urbano legal de serie, ni si debes subirlo a diario a un piso, ni si esperas servicio técnico de marca grande. Sí encaja con garaje o ascensor, trayectos cortos con compra y un vendedor que responda por los recambios.
 
 ## Preguntas frecuentes
 
-### ¿Qué precio tiene el Bogist M5 Pro?
-Alrededor de 429 € en Amazon y entre distribuidores europeos.
+### ¿Cuánto cuesta el Bogist M5 Pro?
+Unos **429 €** en Amazon y distribuidores europeos.
 
-### ¿Qué autonomía real ofrece?
-En uso mixto, entre 25 y 30 km; en condiciones ideales, el fabricante anuncia hasta 60 km.
+### ¿Qué autonomía real tiene?
+Entre **25 y 30 km** en uso mixto; el fabricante anuncia hasta 60 km en condiciones ideales.
 
-### ¿Se puede usar legalmente en España?
-Únicamente con limitación a 25 km/h. De fábrica declara 40 km/h y no encaja en la normativa VMP.
+### ¿Es legal en España?
+Solo **limitado a 25 km/h**. De serie (40 km/h) no cumple la normativa VMP.
 
-### ¿Qué peso tiene?
-Pesa 25 kg, así que no es un modelo para subir cada día por las escaleras.
+### ¿Cuánto pesa?
+**25 kg**: no es para subirlo a diario por escaleras.
 
 ### ¿Lleva sillín?
-Sí: lleva asiento con respaldo y cesta trasera.
+Sí, con **respaldo**, además de **cesta trasera**.
 
-### ¿Merece la pena el M5 Pro S frente al Pro?
-El S ofrece más batería, 720 Wh, y el Pro normal suele salir más barato. Cuando la diferencia es pequeña, el S merece la pena.
+### ¿Merece la pena frente al M5 Pro S?
+El Pro S tiene más batería (720 Wh); el Pro normal suele ser más barato. Si la diferencia es pequeña, el S compensa.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
@@ -529,9 +530,9 @@ El S ofrece más batería, 720 Wh, y el Pro normal suele salir más barato. Cuan
   },
   {
     slug: "bogist-m5-pro-s",
-    title: "Bogist M5 Pro S: minimoto eléctrica con sillín por 429 €",
+    title: "Bogist M5 Pro S: 720 Wh y 40 km por 429 €",
     excerpt:
-      "Minimoto eléctrica con sillín y 720 Wh: el Bogist M5 Pro S promete 40 km, frena con doble disco y cuesta 429 €, pero hay que limitarlo a 25 km/h.",
+      "El Bogist M5 Pro S sube la apuesta: batería de 720 Wh, 40 km de autonomía, ruedas de 12,5 pulgadas y doble disco por 429 €.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -546,13 +547,13 @@ El S ofrece más batería, 720 Wh, y el Pro normal suele salir más barato. Cuan
       "bogist m5 pro s autonomía",
       "patinete con sillín barato",
     ],
-    content: `<img src=/media/patinetes/bogist-m5-pro-s-1.webp alt=Bogist M5 Pro S negro, vista lateral completa del patinete>\\n\\n**¿Buscas solo los datos?** <a href=/patinetes/bogist-m5-pro-s/>Ver ficha técnica del Bogist M5 Pro S</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.\\n\\nSentado, con presencia de minimoto y sin tener que coger el coche para cada recado: así se presenta el M5 Pro S de Bogist. La firma china vende por internet y carece de tiendas propias en nuestro país, pero ha reforzado a su M5 Pro con un acumulador mayor y unas ruedas de mayor diámetro, manteniendo la idea de moverse sentado en trayectos cortos.\\n\\nEl acumulador suma 48 voltios y 15 amperios hora, es decir, 720 vatios hora de energía, y la marca anuncia 40 kilómetros de alcance. Las ruedas neumáticas de 12,5 pulgadas aportan pisada, y el precio que se vio en Francia fue de 429 euros, con un ensayo publicado por <a href=https://www.youtube.com/watch?v=BsQ69eDWwsk>Geekmaxi</a> en su canal de vídeo.\\n\\n## Datos esenciales de un vistazo\\n\\n| Dato | Valor |\\n|---|---|\\n| **Precio** | 429 € |\\n| **Motor** | 500 W |\\n| **Batería** | 48V 15Ah (720 Wh) |\\n| **Autonomía declarada** | 40 km |\\n| **Autonomía real estimada** | ≈27 km |\\n| **Velocidad máxima** | ≈50 km/h |\\n| **Peso** | 24,2 kg |\\n| **Carga máxima** | 120 kg |\\n| **Ruedas** | 12,5" neumáticas |\\n| **Frenos** | Doble disco |\\n\\n¿Quieres el detalle completo? <a href=/patinetes/bogist-m5-pro-s/>Ficha técnica completa del Bogist M5 Pro S</a> con todos los datos verificados.\\n\\n## Lo que cuesta y dónde se ha visto\\n\\nLos 429 euros corresponden a una oferta vista en Francia; en tiendas españolas el importe ronda ese mismo entorno. Con sillín, doble disco y 720 vatios hora por ese importe, cuesta encontrarle un contrincante directo en su nicho.\\n\\n<img src=/media/patinetes/bogist-m5-pro-s-2.webp alt=Detalle de la plataforma rígida y el neumático de 12,5 pulgadas del Bogist M5 Pro S>\\n\\n## Alcance anunciado frente a alcance cotidiano\\n\\nLa cifra de catálogo habla de 40 kilómetros con los 720 vatios hora. En un uso cotidiano, sentado, con un motor de 500 vatios y un conductor de peso medio, lo prudente es contar entre 25 y 30 kilómetros: suficiente para encadenar recados cortos durante días sin enchufar.\\n\\n## Frenada y rodadura\\n\\nFrena con dos discos y rueda con neumáticos de 12,5 pulgadas de dibujo pensado para agarrar y detener mejor. La plataforma rígida apuesta por poco peso y por girar con soltura, antes que por la comodidad del Pro de base. Y un matiz de seguridad: los patinetes no tienen Euro NCAP, así que no cabe esperar una puntuación de choque para este modelo.\\n\\n## Papeles y norma VMP\\n\\nNo hay certificado DGT verificado para esta versión. Su punta, cercana a 50 km/h, lo sitúa fuera de lo que la norma de vehículos de movilidad personal admite: hay que caparlo a 25 km/h y no circular jamás por la acera.\\n\\n<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/BsQ69eDWwsk title="Prueba completa del Bogist M5 Pro S por Geekmaxi" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>\\n\\nGrabación recomendada: <a href=https://www.youtube.com/watch?v=BsQ69eDWwsk>Geekmaxi</a> muestra en su canal el ensayo completo de este modelo.\\n\\n## Luces y sombras\\n\\n| ✅ Pros | ❌ Contras |\\n|---|---|\\n| 720 Wh: la mayor batería Bogist | ~50 km/h: hay que limitarlo a 25 km/h |\\n| 500 W y doble disco | 24,2 kg: no es para llevarlo en la mano |\\n| Neumáticos 12,5" con buen agarre | Sin tiempo de carga oficial |\\n| 429 €: imbatible por Wh | Repuestos en Europa limitados |\\n| Probado por Geekmaxi con buena nota | Estética de ciclomotor |\\n\\n<img src=/media/patinetes/bogist-m5-pro-s-3.webp alt=Bogist M5 Pro S circulando por una pista urbana>\\n\\n## La familia M5 y el sitio del Pro S\\n\\nDentro de la gama M5, Bogist agrupa minimotos eléctricas con asiento y motor de 500 vatios, pensadas para hacer recados sentado sin recurrir al coche. El Pro S sube respecto al Pro de base: el acumulador pasa de 624 a 720 vatios hora. Las ruedas suben a 12,5 pulgadas, y el conjunto no es, desde luego, un patinete de pie: su silueta recuerda a un ciclomotor, con 24,2 kilos en la báscula, así que lo suyo es guardarlo en un garaje o un trastero antes que subirlo a casa. Todos los datos quedan recogidos en la ficha del <a href=/patinetes/bogist-m5-pro-s/>Bogist M5 Pro S</a>.\\n\\n## Por qué importan los 720 Wh\\n\\nAquí la cifra que manda no es la punta, sino la energía guardada. Con 48 voltios y 15 amperios hora se alcanzan 720 vatios hora, el acumulador mayor del catálogo Bogist recogido en este sitio. De ahí salen los 40 kilómetros anunciados y también el recorte realista hasta 25-30 kilómetros: la marca mide en condiciones favorables, mientras que en ciudad mandan los arranques, las cuestas, el frío y el peso de quien conduce. Los 500 vatios bastan para llanear y para superar rampas urbanas moderadas sin levantarse del asiento.\\n\\n| Dato técnico | Bogist M5 Pro S | Qué implica |\\n|---|---|---|\\n| Batería | 48 V 15 Ah, 720 Wh | Más margen que el M5 Pro de 624 Wh |\\n| Autonomía declarada | 40 km | Cifra de marca, no de uso diario |\\n| Autonomía real estimada | 25-30 km | Una semana de recados cortos sin enchufar |\\n| Ruedas | 12,5 pulgadas neumáticas | Mejor paso sobre baches |\\n| Frenos | Doble disco | Dos frenos independientes |\\n| Peso y carga | 24,2 kg y 120 kg | Estable en marcha, nada portable |\\n\\nNingún tiempo de recarga oficial figura en su ficha de este sitio, así que las horas que anuncie una tienda son información del comercio, no una especificación contrastada.\\n\\n## Para qué trayectos encaja y su cuidado\\n\\nEncaja con rutas breves y repetidas y con un sitio para dejarlo abajo, sea un recado o un polígono cercano, sin tener que subir escaleras cargando con él. El asiento se agradece cuando el recorrido suma varios kilómetros, frente a ir de pie todo el rato. No encaja, en cambio, con combinarlo a diario con metro o tren ni con vivir sin ascensor: pesa 24,2 kilos y su aspecto recuerda a una minimoto. Tampoco es la opción si necesitas un taller cerca: la disponibilidad de recambios en Europa es reducida, tal como recoge su propia ficha.\\n\\nDel cuidado solo cabe hablar en términos generales, sin tarifa oficial española: vigilar la presión, el desgaste de las pastillas, las holguras en la tija del asiento y mimar el acumulador evitando descargas completas prolongadas. Lo que de verdad pesará en el bolsillo es encontrar cubiertas, pastillas y una batería de repuesto, no la energía de 720 vatios hora. Antes de comprar, pregunta al comercio si suministra esos repuestos en Europa. Si quieres comparar antes de decidir, revisa el <a href=/patinetes/bogist-m5-pro/>Bogist M5 Pro con cesta y respaldo</a> y el <a href=/comparador-patinetes/>comparador de patinetes</a>.\\n\\n## Circular en España: el tope de 25 km/h\\n\\nSu velocidad máxima ronda los 50 km/h, así que tal cual sale de la caja no encaja como vehículo de movilidad personal. La <a href=https://www.dgt.es>DGT</a> establece un tope de 25 km/h para estos vehículos, veta la circulación por aceras, travesías, vías interurbanas, autopistas, autovías y túneles urbanos, y pide certificado de circulación con placa de marcaje para los modelos puestos a la venta desde el 22 de enero de 2024. Su ficha indica que falta un certificado DGT verificado: aunque se cape a 25 km/h, eso no lo convierte en homologado; antes de pagar, exige al comercio el certificado de esta versión.\\n\\n## Frente al Pro y al Pro+, ¿compensa?\\n\\nFrente al <a href=/patinetes/bogist-m5-pro/>M5 Pro original</a>, el S suma energía —720 vatios hora contra 624— y media pulgada más de rueda, a cambio de admitir menos peso: 120 kilos contra 150. Frente al <a href=/patinetes/bogist-m5-pro-plus/>Bogist M5 Pro+</a>, comparte los 720 vatios hora, pero el Plus anuncia 55 kilómetros contra 40 y no muestra precio en su ficha, mientras que el S se ha visto a 429 euros en Francia, una referencia de origen orientativa para España y no una tarifa oficial española. Si aún dudas, consulta el análisis del <a href=/blog/bogist-m5-pro/>Bogist M5 Pro en el blog</a>.\\n\\n**Veredicto:** ¿compensa comprarlo? Sí, si priorizas recorrer distancia sentado con un coste bajo por vatio hora, aceptas adquirirlo por internet y el vendedor demuestra el certificado con el tope de 25 km/h aplicado. Encaja con rutas breves y guarda en planta baja o garaje. No encaja con subirlo a diario a un piso ni con circular sin resolver la homologación.\\n\\n## Preguntas frecuentes\\n\\n### ¿Qué precio tiene el Bogist M5 Pro S?\\nSe vio a 429 euros en una oferta en Francia, y en tiendas españolas ronda ese mismo entorno.\\n\\n### ¿En qué se distingue del M5 Pro a secas?\\nSube el acumulador hasta 720 vatios hora desde 624, calza ruedas de 12,5 pulgadas y adopta una plataforma más recogida.\\n\\n### ¿Qué alcance cabe esperar en el día a día?\\nLa marca anuncia 40 kilómetros; en recorridos reales, calcula entre 25 y 30 kilómetros.\\n\\n### ¿Se puede circular con él en España?\\nSolo si queda capado a 25 km/h y el vendedor acredita el certificado de esta versión.\\n\\n### ¿Cuánto pesa este modelo?\\nPesa 24,2 kilos, así que no es un modelo pensado para llevarlo a mano.\\n\\n### ¿S o Pro+: cuál conviene?\\nEl Plus anuncia más alcance, 55 kilómetros declarados, pero el S cuenta con un ensayo publicado en medios; si la prueba pesa más que el anuncio, elige el S.\\n\\n¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.\\n\\n*Fuentes: <a href=https://www.youtube.com/watch?v=BsQ69eDWwsk>prueba de Geekmaxi</a> y <a href=https://www.gleeride.com/collections/all-products/products/bogist-m5-pro-s-folding-electric-scooter-with-seat>ficha en Gleeride</a>., <a href=https://www.dgt.es>web oficial de la DGT</a>*`,
+    content: `<img src=/media/patinetes/bogist-m5-pro-s-1.webp alt=Bogist M5 Pro S negro, vista lateral completa del patinete>\n\n**¿Buscas solo los datos?** <a href=/patinetes/bogist-m5-pro-s/>Ver ficha técnica del Bogist M5 Pro S</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.\n\nEl **Bogist M5 Pro S** es la evolución del M5 Pro: misma filosofía de minimoto con sillín, pero con batería de **48 V y 15 Ah (720 Wh)**, **40 km** de autonomía y ruedas **neumáticas de 12,5 pulgadas** con dibujo especial. En Francia se vendió por **429 €** (<a href=https://www.youtube.com/watch?v=BsQ69eDWwsk>Geekmaxi</a> lo probó a fondo).\n\n## Ficha técnica resumida\n\n| Dato | Valor |\n|---|---|\n| **Precio** | 429 € |\n| **Motor** | 500 W |\n| **Batería** | 48V 15Ah (720 Wh) |\n| **Autonomía declarada** | 40 km |\n| **Autonomía real estimada** | ≈27 km |\n| **Velocidad máxima** | ≈50 km/h |\n| **Peso** | 24,2 kg |\n| **Carga máxima** | 120 kg |\n| **Ruedas** | 12,5" neumáticas |\n| **Frenos** | Doble disco |\n\n¿Quieres el detalle completo? <a href=/patinetes/bogist-m5-pro-s/>Ficha técnica completa del Bogist M5 Pro S</a> con todos los datos verificados.\n\n## Precio del Bogist M5 Pro S en España\n\n**429 €** fue el precio de oferta en Francia; en España se mueve en ese entorno en distribuidores. Por 720 Wh con sillín y doble disco, no tiene rival directo.\n\n<img src=/media/patinetes/bogist-m5-pro-s-2.webp alt=Detalle de la plataforma rígida y el neumático de 12,5 pulgadas del Bogist M5 Pro S>\n\n## Autonomía real vs declarada\n\nDeclara **40 km** con sus 720 Wh. En uso realista (sillín, 500 W, peso medio), espera **25-30 km**: una semana de desplazamientos cortos sin enchufar.\n\n## Frenos y neumáticos\n\n**Doble disco** y neumáticos de **12,5 pulgadas** con dibujo específico que mejora agarre y frenada. La plataforma rígida prima ligereza y maniobrabilidad frente al Pro normal.\n\n## Certificado DGT y normativa VMP\n\nSin certificado DGT verificado. Su punta de **~50 km/h** lo deja fuera de la normativa VMP: **imprescindible limitarlo a 25 km/h** y no pisar la **acera** jamás.\n\n<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/BsQ69eDWwsk title="Prueba completa del Bogist M5 Pro S por Geekmaxi" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>\n\nVídeo: <a href=https://www.youtube.com/watch?v=BsQ69eDWwsk>Geekmaxi</a> en YouTube — prueba completa del Bogist M5 Pro S.\n\n## Puntos fuertes y débiles\n\n| ✅ Pros | ❌ Contras |\n|---|---|\n| 720 Wh: la mayor batería Bogist | ~50 km/h: hay que limitarlo a 25 km/h |\n| 500 W y doble disco | 24,2 kg: no es para llevarlo en la mano |\n| Neumáticos 12,5" con buen agarre | Sin tiempo de carga oficial |\n| 429 €: imbatible por Wh | Repuestos en Europa limitados |\n| Probado por Geekmaxi con buena nota | Estética de ciclomotor |\n\n<img src=/media/patinetes/bogist-m5-pro-s-3.webp alt=Bogist M5 Pro S circulando por una pista urbana>\n\n## De dónde sale el M5 Pro S: la gama M5 de Bogist\n\nBogist es una marca china de venta online, sin red comercial propia en España. Su gama M5 agrupa minimotos eléctricas con sillín y motor de **500 W**: sentarse y hacer recados sin depender del coche. El **M5 Pro S** evoluciona al M5 Pro subiendo la batería de 624 Wh a **720 Wh** y montando neumáticos de **12,5 pulgadas**. No es un patinete de pie: su estética de ciclomotor y sus **24,2 kg** lo orientan a guardarlo en garaje o trastero. Su ficha, la del <a href=/patinetes/bogist-m5-pro-s/>Bogist M5 Pro S</a>, recoge todos sus datos.\n\n## Profundidad técnica: qué significan sus 720 Wh\n\nLa cifra clave no es la velocidad, sino la energía. Con **48 V y 15 Ah** suma 720 Wh, la batería mayor del catálogo Bogist de este sitio. Eso explica los **40 km** declarados y por qué la estimación realista baja a **25-30 km**: la marca mide en condiciones favorables; en ciudad mandan arranques, cuestas, frío y peso del conductor. Sus 500 W sirven para llanear y superar rampas urbanas moderadas sentado.\n\n| Dato técnico | Bogist M5 Pro S | Qué implica |\n|---|---|---|\n| Batería | 48 V 15 Ah, 720 Wh | Más margen que el M5 Pro de 624 Wh |\n| Autonomía declarada | 40 km | Cifra de marca, no de uso diario |\n| Autonomía real estimada | 25-30 km | Una semana de recados cortos sin enchufar |\n| Ruedas | 12,5 pulgadas neumáticas | Mejor paso sobre baches |\n| Frenos | Doble disco | Dos frenos independientes |\n| Peso y carga | 24,2 kg y 120 kg | Estable en marcha, nada portable |\n\nEl fabricante no publica tiempo de carga oficial en su ficha de este sitio: cualquier cifra de horas de una tienda es dato del vendedor, no especificación verificada.\n\n## Uso real y mantenimiento\n\nEncaja si tus trayectos son cortos y repetidos, con sitio para aparcarlo abajo: recados o un polígono cercano sin subir escaleras con él a pulso. El sillín se agradece frente a ir de pie varios kilómetros. No encaja si combinas a diario con metro o tren o vives sin ascensor: pesa 24,2 kg y se ve como una minimoto. Tampoco si priorizas servicio técnico cercano, porque la red de repuestos en Europa es limitada según su propia ficha.\n\nDel mantenimiento solo cabe hablar en general, sin tarifa oficial española: presión, desgaste de pastillas, holguras en la tija del sillín y cuidar la batería evitando descargas completas prolongadas. El coste relevante será la disponibilidad de cubiertas, pastillas y recambio de batería, no la electricidad de 720 Wh. Pregunta al vendedor si sirve esos consumibles en Europa. Para contrastar, mira el <a href=/patinetes/bogist-m5-pro/>Bogist M5 Pro con cesta y respaldo</a> y el <a href=/comparador-patinetes/>comparador de patinetes</a>.\n\n## Normativa en España: el límite de 25 km/h manda\n\nCon una punta cercana a **50 km/h**, el M5 Pro S no encaja como VMP tal cual sale de la caja. La normativa de la <a href=https://www.dgt.es>DGT</a> fija **25 km/h** máximos para los vehículos de movilidad personal, prohíbe aceras, vías interurbanas, travesías, autopistas, autovías y túneles urbanos, y exige certificado de circulación para los modelos comercializados desde el 22 de enero de 2024, con placa de marcaje. Su ficha indica **sin certificado DGT verificado**: limitarlo a 25 km/h no basta para darlo por homologado; exige al vendedor el certificado de esta versión antes de pagar.\n\n## Frente a sus hermanos M5 y veredicto\n\nContra el <a href=/patinetes/bogist-m5-pro/>M5 Pro original</a>, el Pro S gana batería —720 frente a 624 Wh— y media pulgada de rueda, pero pierde carga: **120 kg frente a 150 kg**. Contra el <a href=/patinetes/bogist-m5-pro-plus/>Bogist M5 Pro+</a>, comparte 720 Wh, aunque el Plus declara 55 km frente a 40 km y no publica precio en su ficha, mientras el Pro S se ha visto a **429 € en Francia**: precio de origen, orientativo para España, no tarifa oficial española. Si dudas, lee el análisis del <a href=/blog/bogist-m5-pro/>Bogist M5 Pro en el blog</a>.\n\n**Veredicto:** ¿merece la pena? Sí, para quien busca autonomía sentada barata por vatio-hora y asume comprarlo online, si el vendedor acredita su certificado y queda limitado a 25 km/h. Para quién sí: trayectos cortos con garaje o planta baja. Para quién no: quien necesite subirlo a un piso o circular sin dudas de homologación.\n\n## Preguntas frecuentes\n\n### ¿Cuánto cuesta el Bogist M5 Pro S?\n**429 €** en oferta en Francia; precio similar en distribuidores españoles.\n\n### ¿Qué diferencia hay con el M5 Pro normal?\nMás batería (**720 Wh** frente a 624 Wh), ruedas de 12,5" y plataforma más compacta.\n\n### ¿Qué autonomía real tiene?\nDeclara 40 km; calcula **25-30 km** en uso real.\n\n### ¿Es legal en España?\nSolo **limitado a 25 km/h**.\n\n### ¿Cuánto pesa?\n**24,2 kg**.\n\n### ¿Merece la pena frente al M5 Pro+?\nEl Plus promete 55 km declarados; el Pro S está probado por medios. Ante la duda, el S.\n\n¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.\n\n*Fuentes: <a href=https://www.youtube.com/watch?v=BsQ69eDWwsk>prueba de Geekmaxi</a> y <a href=https://www.gleeride.com/collections/all-products/products/bogist-m5-pro-s-folding-electric-scooter-with-seat>ficha en Gleeride</a>., <a href=https://www.dgt.es>web oficial de la DGT</a>*`,
   },
   {
     slug: "bogist-m5-pro-plus",
-    title: "Bogist M5 Pro+: sillín, cesta y 55 km declarados",
+    title: "Bogist M5 Pro+: 55 km de autonomía con sillín",
     excerpt:
-      "El M5 de mayor alcance de Bogist une asiento y cesta con 720 Wh, 55 km anunciados, doble disco y ruedas de 12 pulgadas. Análisis completo.",
+      "El Bogist M5 Pro+ es el M5 con más rango: 55 km declarados gracias a sus 720 Wh, con sillín, cesta y doble disco. Ficha técnica.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -571,9 +572,9 @@ El S ofrece más batería, 720 Wh, y el Pro normal suele salir más barato. Cuan
 
 **¿Buscas solo los datos?** <a href=/patinetes/bogist-m5-pro-plus/>Ver ficha técnica del Bogist M5 Pro+</a>: motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Dentro de la familia M5, esta versión Plus ocupa el puesto del alcance máximo: monta un motor de 500 W, un acumulador de 48 V y 15 Ah que suma 720 Wh, y anuncia 55 km por carga, sin renunciar al asiento, al cesto posterior ni al doble disco. <a href=https://www.accio.com/plp/bogist-m5-pro>Accio</a> lo recoge dentro del catálogo de Bogist.
+El **Bogist M5 Pro+** es la variante de mayor autonomía de la familia M5: **500 W**, batería de **48 V y 15 Ah (720 Wh)** y **55 km** declarados, manteniendo sillín, cesta trasera y doble freno de disco (<a href=https://www.accio.com/plp/bogist-m5-pro>Accio</a> lo lista en el catálogo de la marca).
 
-## Resumen de cifras
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -586,25 +587,25 @@ Dentro de la familia M5, esta versión Plus ocupa el puesto del alcance máximo:
 
 ¿Quieres el detalle completo? <a href=/patinetes/bogist-m5-pro-plus/>Ficha técnica completa del Bogist M5 Pro+</a> con todos los datos verificados.
 
-## Precio en España y canal de venta
+## Precio del Bogist M5 Pro+ en España
 
-No existe un PVP oficial difundido para nuestro mercado: la vía de compra pasa por importadores y por catálogos mayoristas. Como punto de comparación sirve el M5 Pro S, situado en 429 €; cabe esperar que el Plus quede por encima de esa cifra.
+Sin PVP oficial publicado: se vende a través de importadores y catálogos mayoristas. Su referencia de precio es la del M5 Pro S (429 €); el Plus debería moverse por encima.
 
 <img src=/media/patinetes/bogist-m5-pro-plus-2.webp alt=Detalle del chasis y la batería del Bogist M5 Pro+>
 
-## Alcance anunciado frente al alcance usable
+## Autonomía real vs declarada
 
-Los 55 km prometidos colocan a este modelo en cabeza de su familia gracias a sus 720 Wh. Con un uso variado, el cálculo prudente ronda los 37 km de verdad: prácticamente diez kilómetros por encima de lo que rinde el M5 Pro corriente.
+Declara **55 km**, la cifra más alta de la gama M5. Con 720 Wh y uso mixto, una estimación honesta son **unos 37 km reales**: casi 10 km más que el M5 Pro normal.
 
-## Frenada y rodadura
+## Frenos y neumáticos
 
-El equipo de freno recurre a dos discos, y la rodadura confía en cubiertas con aire de 12 pulgadas, todo ello junto al asiento. Cuanta más batería, más kilos: este Plus resulta el ejemplar más pesado entre sus hermanos.
+**Doble disco** y ruedas **neumáticas de 12 pulgadas** con sillín: la receta M5 que funciona. A más batería, más peso: el Plus es el más pesado de la familia.
 
-## Homologación y reglas para circular
+## Certificado DGT y normativa VMP
 
-No se ha verificado un certificado DGT para él, ni tampoco consta una velocidad punta difundida. Igual que ocurre con el resto de la gama, sus 500 W lo dejan al margen del VMP legal, salvo que circule capado a 25 km/h y sin pisar las aceras.
+Sin certificado DGT verificado y sin velocidad máxima publicada. Como el resto de la gama, su potencia lo sitúa fuera del VMP legal salvo **limitación a 25 km/h** y circulación fuera de **aceras**.
 
-## Lo bueno y lo mejorable
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -616,11 +617,11 @@ No se ha verificado un certificado DGT para él, ni tampoco consta una velocidad
 
 <img src=/media/patinetes/bogist-m5-pro-plus-3.webp alt=Bogist M5 Pro+ en ruta interurbana>
 
-## Para qué sirve un M5 con asiento
+## La familia M5: patinetes con sillín para hacer recados
 
-Bogist enfoca la gama M5 hacia un cometido que los modelos deportivos pasan por alto: acercarse a comprar, transportar cosas en el cesto de atrás y viajar sentado cuando el trayecto se alarga. El Plus representa el peldaño superior en alcance dentro de esa familia, y mantiene el conjunto entero: asiento, cesto posterior, freno de doble disco y cubiertas con aire de 12 pulgadas, más cercanas a un ciclomotor tranquilo que a un patinete para ir de pie. Su distribución pasa por importadores y mayoristas. Al no existir un PVP oficial para España, tanto lo que cuesta como la atención posterior quedan condicionados por el vendedor.
+Bogist orienta su gama M5 a un uso que los patinetes deportivos ignoran: ir a hacer la compra, llevar una cesta detrás y sentarse en los trayectos largos. El M5 Pro+ es el escalón de mayor autonomía de esa familia, y conserva la receta completa: sillín, cesta trasera, doble freno de disco y ruedas neumáticas de 12 pulgadas, más propias de un ciclomotor relajado que de un patinete de pie. Su venta por importadores y catálogos mayoristas, sin PVP oficial en España, marca tanto su precio como su posventa.
 
-## Qué significa tener 720 Wh
+## 720 Wh: la autonomía declarada y la que tendrás
 
 | Magnitud | Cifra del M5 Pro+ | Comentario |
 |---|---|---|
@@ -629,43 +630,43 @@ Bogist enfoca la gama M5 hacia un cometido que los modelos deportivos pasan por 
 | Energía de la batería | 720 Wh | La mayor de la gama M5 |
 | Motor | 500 W | Pensado para llano y repechos suaves |
 
-El dato que manda son los 720 Wh: gracias a ellos, los 37 km reales calculados rebasan en casi diez kilómetros al M5 Pro corriente, y convierten al Plus en un aparato capaz de encadenar varios encargos sin enchufarlo. El sobrepeso del acumulador mayor se deja notar al subirlo a un piso o al guardarlo en un maletero: el coste físico de ese alcance extra, que la familia asume en su ejemplar más pesado.
+Los 720 Wh son el dato que manda: con ellos, los 37 km reales estimados superan en casi diez kilómetros al M5 Pro normal y convierten al Plus en un vehículo capaz de enlazar varios recados sin pasar por el enchufe. El peso extra de la batería mayor se nota al subirlo a un piso o al meterlo en un maletero, el precio físico de ese rango adicional que la familia paga en su modelo más pesado.
 
-## Asiento, cesto y rueda grande
+## Sillín, cesta y ruedas de 12: el enfoque utilitario
 
-Viajar sentado transforma el carácter del aparato: el asiento y el cesto de atrás lo aproximan a la compra de la semana y a los desplazamientos por el barrio, mientras las cubiertas con aire de 12 pulgadas absorben baches y rejillas bastante mejor que las ruedas macizas de tamaño reducido. El doble disco, por su parte, responde al peso total: frenar a alguien sentado sobre una estructura que carga con un acumulador grande pide más que un tambor meramente testimonial.
+Ir sentado cambia el carácter del vehículo: el sillín y la cesta trasera lo acercan a la compra semanal y a los desplazamientos de barrio, y las ruedas neumáticas de 12 pulgadas perdonan los baches y las rejillas mucho mejor que las ruedas macizas pequeñas. El doble disco, a su vez, responde al peso del conjunto: frenar a un conductor sentado sobre un chasis con batería grande exige más que un tambor testimonial.
 
-## Encaje legal en la calle
+## Normativa VMP: dónde queda el M5 Pro+ en España
 
-La regulación de la DGT deja la categoría de vehículo de movilidad personal para patinetes de una plaza, sin asiento salvo casos muy concretos, con un tope de 25 km/h y con certificado obligatorio para los puestos a la venta a partir de enero de 2024. En el caso del Plus, su asiento y sus 500 W solo le dejan cabida en la vía pública capado a 25 km/h y sin circular por las aceras, y la ausencia de un certificado DGT verificado constituye el aspecto que cualquier comprador debería aclarar con el vendedor antes de abonar nada. En carreteras interurbanas y en travesías rige la misma cautela que ante cualquier VMP.
+La normativa de la DGT reserva la categoría de vehículo de movilidad personal a los patinetes de una plaza, sin sillín salvo excepciones muy concretas, con velocidad máxima de 25 km/h y certificado obligatorio para los comercializados desde enero de 2024. El M5 Pro+, con sillín y 500 W, solo encaja en la vía pública limitado a 25 km/h y fuera de las aceras, y su falta de certificado DGT verificado es el punto que cualquier comprador debe resolver con el vendedor antes de pagar. En vías interurbanas y travesías manda la misma prudencia que con cualquier VMP.
 
-## Frente al M5 Pro S: cuál conviene
+## M5 Pro+ o M5 Pro S: veredicto
 
-Dentro de la familia, el <a href=/patinetes/bogist-m5-pro-s/>Bogist M5 Pro S</a> fija la referencia económica con 429 € y 40 km anunciados, en tanto el Plus añade alcance a cambio de kilos. Sus medidas y componentes aparecen desglosados en <a href=/patinetes/bogist-m5-pro-plus/>la ficha técnica del M5 Pro+</a>. **Veredicto:** con un precio próximo al del Pro S y la situación legal acreditada por el vendedor, el Plus constituye la adquisición con más lógica de la gama por alcance; si el suplemento crece, el Pro S, ya probado y documentado, representa la alternativa prudente.
+Dentro de la familia, el <a href=/patinetes/bogist-m5-pro-s/>Bogist M5 Pro S</a> marca la referencia de precio con 429 € y 40 km declarados, mientras el Plus suma rango a costa de peso. Sus medidas y componentes están desglosados en <a href=/patinetes/bogist-m5-pro-plus/>la ficha técnica del M5 Pro+</a>. **Veredicto:** si aparece a un precio cercano al del Pro S y el vendedor acredita su situación legal, el Plus es la compra con más sentido de la gama por autonomía; si el sobreprecio crece, el Pro S probado y documentado es la opción prudente. 
 
-## Antes de pagar a un importador
+## Comprar por importador: las preguntas que hay que hacer
 
-La falta de PVP oficial y de red propia vuelve la adquisición del M5 Pro+ un ejercicio de cautela: pide por escrito: factura con los datos del aparato, la garantía vigente en España, la disponibilidad de un acumulador de repuesto (se trata del componente que antes reclamará un cambio) y la situación del certificado de circulación. Quien vende en serio contesta a todo ello sin rodeos; quien únicamente compite por precio y se esfuma tras la venta abandona al comprador ante el primer contratiempo. Esa diferencia en la atención posterior vale más que el puñado de euros que distingue a unos vendedores de otros dentro de los catálogos mayoristas.
+La ausencia de PVP oficial y de red propia convierte la compra del M5 Pro+ en un ejercicio de diligencia: hay que pedir por escrito la factura con los datos del vehículo, la garantía aplicable en España, la disponibilidad de batería de repuesto (es el componente que antes pedirá sustitución) y la situación del certificado de circulación. Un importador serio responde a todo eso sin evasivas; uno que solo compite en precio y desaparece tras la venta deja al comprador solo ante el primer problema. Esa diferencia de posventa vale más que los pocos euros que separan a unos vendedores de otros en los catálogos mayoristas.
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿Cuántos kilómetros aguanta con una carga?
-Anuncia 55 km; en la práctica, calcula alrededor de 37 km.
+### ¿Qué autonomía tiene el Bogist M5 Pro+?
+**55 km** declarados; calcula **unos 37 km** reales.
 
-### ¿Qué lo separa del M5 Pro S?
-Sobre todo el alcance anunciado, 55 km contra 40 km; ambos comparten un acumulador de 720 Wh y la misma filosofía.
+### ¿En qué se diferencia del M5 Pro S?
+Principalmente en la autonomía declarada (55 km frente a 40 km); comparten batería de 720 Wh y filosofía.
 
-### ¿Puede circular legalmente en España?
-Igual que el resto de la gama M5, únicamente capado a 25 km/h.
+### ¿Es legal en España?
+Como el resto de la gama M5, solo **limitado a 25 km/h**.
 
-### ¿Qué precio tiene?
-No hay precio oficial; usa como referencia los 429 € del Pro S.
+### ¿Cuánto cuesta?
+Sin precio oficial; toma como referencia los 429 € del Pro S.
 
-### ¿Trae asiento?
-Sí, y el cesto trasero viene de serie.
+### ¿Lleva sillín?
+Sí, con cesta trasera de serie.
 
-### ¿Compensa comprarlo?
-Si lo localizas a un precio parecido al del Pro S, el alcance extra lo justifica. Si sale bastante más caro, quédate con el Pro S probado.
+### ¿Merece la pena?
+Si lo encuentras al precio del Pro S, sí por el extra de rango. Si es mucho más caro, el Pro S probado es mejor compra.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
@@ -674,9 +675,9 @@ Si lo localizas a un precio parecido al del Pro S, el alcance extra lo justifica
   // ─────────────────────────── AOVOPRO (3) ───────────────────────────
   {
     slug: "aovopro-esmax",
-    title: "Aovopro ESMAX: 500 W y suspensión cuádruple",
+    title: "Aovopro ESMAX: 500 W y 609 Wh, el patinete tope de gama",
     excerpt:
-      "El Aovopro ESMAX es el tope de gama de la marca: 500 W, 609 Wh, 43 km anunciados y suspensión cuádruple. Precio de mercado y ficha completa.",
+      "El Aovopro ESMAX es lo máximo de la marca: 500 W, batería de 609 Wh, 43 km declarados y cuádruple suspensión. Precio y ficha.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -693,13 +694,13 @@ Si lo localizas a un precio parecido al del Pro S, el alcance extra lo justifica
     ],
     content: `<img src=/media/patinetes/aovopro-esmax-1.webp alt=Aovopro ESMAX negro, vista lateral completa del patinete>
 
-*Actualización del 18/10/2026.*
+*Actualizado el 18/10/2026.*
 
 **¿Buscas solo los datos?** <a href=/patinetes/aovopro-esmax/>Ver ficha técnica del Aovopro ESMAX</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El Aovopro ESMAX ocupa la cima del catálogo de esta marca económica: motor de 500 W, acumulador de 42 V con 14,5 Ah (609 Wh), 43 km homologados (27 millas) y suspensión cuádruple en ambos ejes. El salto respecto al popular ES80 es grande: (<a href=https://hoverboardsguide.com/aovopro-electric-scooter-review/>HoverboardsGuide</a> lo describe como el commuter barato más recomendable).
+El **Aovopro ESMAX** es el buque insignia de la marca budget: **500 W**, batería de **42 V y 14,5 Ah (609 Wh)**, **43 km** declarados (27 millas) y **cuádruple suspensión** delantera y trasera. El salto grande respecto al popular ES80 (<a href=https://hoverboardsguide.com/aovopro-electric-scooter-review/>HoverboardsGuide</a> lo señala como el mejor commuter barato).
 
-## Resumen de la ficha técnica
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -715,25 +716,25 @@ El Aovopro ESMAX ocupa la cima del catálogo de esta marca económica: motor de 
 
 ¿Quieres el detalle completo? <a href=/patinetes/aovopro-esmax/>Ficha técnica completa del Aovopro ESMAX</a> con todos los datos verificados.
 
-## Cuánto cuesta en España
+## Precio del Aovopro ESMAX en España
 
-No hay PVP oficial en España: se adquiere a través de Amazon y de importadores. Queda por encima del ES80 (alrededor de 196 €), en la horquilla de 300-400 € según el vendedor.
+Sin PVP oficial en España: se compra por Amazon e importadores. Su posicionamiento está por encima del ES80 (unos 196 €), en la franja de los 300-400 € según vendedor.
 
 <img src=/media/patinetes/aovopro-esmax-2.webp alt=Detalle de la cuádruple suspensión del Aovopro ESMAX>
 
-## Alcance anunciado frente al alcance en la calle
+## Autonomía real vs declarada
 
-Anuncia 43 km; en la calle, con sus 500 W, espera unos 25-30 km. La suspensión cuádruple no solo aporta comodidad: mantiene la rueda pegada al suelo y saca más partido a cada vatio.
+Declara **43 km**; en uso real con sus 500 W calcula **25-30 km**. La cuádruple suspensión no solo da confort: mantiene la rueda en el suelo y aprovecha mejor cada vatio.
 
-## Frenada y ruedas
+## Frenos y neumáticos
 
-Combina tambor delante y freno eléctrico detrás con cubiertas tubeless autosellantes de 10 pulgadas: el conjunto más ambicioso montado por Aovopro hasta ahora. El tambor pide poco mantenimiento y el sellante previene la mayoría de los pinchazos.
+**Tambor delantero + freno eléctrico trasero** y neumáticos **tubeless de 10 pulgadas autosellantes**: el conjunto más serio que ha montado Aovopro. El tambor exige poco mantenimiento y el sellante evita la mayoría de pinchazos.
 
-## Papeles DGT y reglas para VMP
+## Certificado DGT y normativa VMP
 
-No tiene certificado DGT verificado. Sus cerca de 34 km/h de velocidad máxima obligan a caparlo a 25 km/h para cumplir la normativa VMP española: nada de aceras; toca usar el carril bici o la calzada.
+Sin certificado DGT verificado. Sus **~34 km/h** de punta obligan a **limitarlo a 25 km/h** para la normativa VMP española: nada de **aceras**, siempre por carril bici o calzada.
 
-## Lo bueno y lo mejorable
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -745,11 +746,11 @@ No tiene certificado DGT verificado. Sus cerca de 34 km/h de velocidad máxima o
 
 <img src=/media/patinetes/aovopro-esmax-3.webp alt=Aovopro ESMAX circulando por la ciudad>
 
-## Aovopro y el patinete urbano asequible
+## Aovopro en el segmento urbano: una marca de precio contenido
 
-Aovopro compite en la categoría del patinete urbano barato: se vende por Amazon y a través de importadores, sin PVP oficial en España. Es el modelo más alto de su gama, el paso natural si vienes de un ES80. La otra cara, según su ficha: el soporte de marca económica puede fallar, así que mejor comprarlo en un sitio con la garantía bien atada. La <a href=/patinetes/aovopro-esmax/>ficha del Aovopro ESMAX</a> recoge todos sus datos.
+Aovopro juega en la liga del patinete urbano asequible: venta por Amazon e importadores, sin PVP oficial en España. Es su tope de gama, el salto lógico si vienes de un ES80. La contrapartida, según su ficha: el soporte budget puede ser irregular, así que conviene comprar donde la garantía quede clara. Todos sus datos están en la <a href=/patinetes/aovopro-esmax/>ficha del Aovopro ESMAX</a>.
 
-## 500 W y 609 Wh en cifras comparadas
+## Qué aportan sus 500 W y 609 Wh sobre el papel
 
 | Dato | Aovopro ESMAX | Xiaomi Electric Scooter 5 | Segway-Ninebot Max G2 E |
 |---|---|---|---|
@@ -761,57 +762,57 @@ Aovopro compite en la categoría del patinete urbano barato: se vende por Amazon
 | **Peso** | Sin dato oficial | 20,1 kg | 24,3 kg |
 | **Certificado DGT en ficha** | Sin verificar | Sí | Sí |
 
-El ESMAX supera en potencia, pero no en autonomía real, a esos rivales, que además están certificados. Puedes consultarlos en la <a href=/patinetes/xiaomi-electric-scooter-5/>ficha del Xiaomi Electric Scooter 5</a> y en la <a href=/patinetes/segway-ninebot-max-g2/>ficha del Segway-Ninebot Max G2 E</a>.
+El ESMAX gana en potencia, pero no en autonomía real frente a esos rivales, certificados además. Puedes repasarlos en la <a href=/patinetes/xiaomi-electric-scooter-5/>ficha del Xiaomi Electric Scooter 5</a> y en la <a href=/patinetes/segway-ninebot-max-g2/>ficha del Segway-Ninebot Max G2 E</a>.
 
-## En el día a día urbano: dónde brilla y dónde flojea
+## En ciudad, día a día: dónde rinde y dónde se queda corto
 
-En el uso diario destaca por comodidad: la suspensión cuádruple absorbe los baches y las cubiertas autosellantes de 10 pulgadas quitan buena parte del temor al pinchazo. Pero si lo comparas con los 43 km prometidos, su ficha calcula unos 29 km reales —el análisis menciona 25-30 km—, y todavía menos con cuestas, frío o un conductor pesado. Y pesan dos límites: el fabricante no difunde el peso oficial, así que no cabe asegurar que resulte cómodo de llevar a pulso, y la recarga lleva 7 horas.
+En el día a día rinde por confort: la cuádruple suspensión filtra los baches y los neumáticos autosellantes de 10 pulgadas reducen el miedo al pinchazo. Pero frente a los **43 km** anunciados, su ficha estima **≈29 km** reales —el análisis habla de **25-30 km**—, menos aún con pendientes, frío o un conductor pesado. Y dos limitaciones pesan: el fabricante no publica el peso oficial, así que no se puede prometer que sea cómodo de subir a pulso, y la carga tarda **7 horas**.
 
-## Mantenimiento sencillo: ruedas, frenos y acumulador
+## Cuidados básicos: neumáticos, frenos y batería
 
-Lo que piden manual y ficha no requiere cifras inventadas: revisar tornillos y estado general antes de cada salida y limpiar con un paño húmedo, nunca con agua a presión. El freno de tambor pide poco mantenimiento y el sellante tapa la mayoría de los pinchazos, sin reemplazar la revisión de las cubiertas. Para el acumulador: cargarlo aunque no se use el patinete, como mínimo cada 30-60 días, empleando el cargador original, sin agotar la carga del todo y guardándolo en un sitio seco y fresco. La app de Aovopro suma bloqueo, control de velocidad por modos, luces, crucero y diagnóstico.
+El mantenimiento que recogen manual y ficha no necesita cifras inventadas: revisar tornillería y estado general antes de cada uso y limpiar con un paño húmedo, sin agua a presión. El freno de tambor exige poco mantenimiento y el sellante cubre la mayoría de pinchazos, sin sustituir la revisión de los neumáticos. Con la batería: cargarla incluso sin usar el patinete, al menos cada 30-60 días, con el cargador original, evitando la descarga completa y guardándolo en un lugar seco y fresco. La app Aovopro añade bloqueo, modos de velocidad, luces, crucero y diagnóstico.
 
-## Lo que pide la DGT para un VMP en España
+## Qué exige la DGT a un VMP en España
 
-Según la <a href=https://www.dgt.es/comunicacion/notas-de-prensa/publicado-el-manual-de-caracteristicas-tecnicas-de-los-vehiculos-de-movilidad-personal/>nota de la DGT sobre el manual de características de los VMP</a>, cualquier VMP puesto a la venta desde el 22 de enero de 2024 tiene que contar con certificación, y las unidades vendidas hasta esa fecha podrán seguir rodando sin certificado hasta el día 22 de enero de 2027. Se define el VMP como un vehículo monoplaza, eléctrico, con velocidad de entre 6 y 25 km/h; queda prohibido rodar por aceras y el casco queda a lo que diga la ordenanza municipal. En el caso del ESMAX, su ficha no muestra certificado verificado y su punta ronda los 34 km/h: si la unidad no apareciese entre los modelos certificados por la DGT, tocaría caparlo a 25 km/h, sin presuponer certificación alguna.
+Según la <a href=https://www.dgt.es/comunicacion/notas-de-prensa/publicado-el-manual-de-caracteristicas-tecnicas-de-los-vehiculos-de-movilidad-personal/>nota de la DGT sobre el manual de características de los VMP</a>, todo VMP comercializado desde el **22 de enero de 2024** debe ser un modelo certificado, y los vendidos hasta esa fecha podrán circular hasta el **22 de enero de 2027** sin certificado. Un VMP es un vehículo de una sola plaza, con motor eléctrico y velocidad entre 6 y **25 km/h**; está prohibido circular por aceras y el casco depende de la ordenanza municipal. Aplicado al ESMAX, sin certificado verificado en su ficha y con unos 34 km/h de punta: si el ejemplar no constara en el listado de certificados de la DGT, habría que limitarlo a 25 km/h sin dar la certificación por hecho.
 
-## Comparación final y veredicto
+## Frente a sus rivales y veredicto final
 
-De vuelta al patinete, el ESMAX ofrece más potencia y una suspensión superior dentro de su horquilla de 300-400 €, pero queda por detrás en autonomía real, peso conocido y papeles.
+ Volviendo al patinete, el ESMAX da más vatios y mejor suspensión por 300-400 € de mercado, pero pierde en autonomía real, peso conocido y certificación.
 
-**Veredicto:** compensa si pones por delante potencia, comodidad y cubiertas autosellantes para recorridos de 25-30 km reales, aceptando un servicio posventa irregular por parte del importador. Descártalo si requieres la certificación DGT acreditada, si piensas cargarlo a pulso sin saber su peso oficial o si pides más autonomía real: en ese caso, los rivales certificados dan más seguridad.
+**Veredicto:** merece la pena si priorizas potencia, confort y neumáticos autosellantes para trayectos de 25-30 km reales, aceptando el soporte irregular del importador. No es para ti si necesitas la certificación DGT acreditada, si vas a cargarlo a pulso sin conocer su peso oficial o si exiges más autonomía real: ahí, los rivales certificados son más seguros.
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿En qué supera al Aovopro ES80?
-En casi todo: motor de 500 W (antes 350 W), acumulador de 609 Wh (antes 378 Wh) y suspensión cuádruple.
+### ¿Qué diferencia hay con el Aovopro ES80?
+Más de todo: **500 W** frente a 350 W, **609 Wh** frente a 378 Wh y cuádruple suspensión.
 
-### ¿Cuántos kilómetros reales recorre?
-Anuncia 43 km; en ciudad, cuenta con 25-30 km.
+### ¿Qué autonomía real tiene el ESMAX?
+Declara 43 km; en ciudad calcula **25-30 km**.
 
-### ¿Se puede circular con él en España?
-Capado a 25 km/h, sí. Tal como sale de fábrica, rebasa el tope VMP.
+### ¿Es legal en España?
+**Limitado a 25 km/h**, sí. De serie supera el límite VMP.
 
-### ¿Cuánto dura la carga?
-Alrededor de 7 horas con el cargador que trae de serie.
+### ¿Cuánto tarda en cargar?
+Unas **7 horas** con el cargador de serie.
 
-### ¿Hay riesgo de pinchazo?
-Sus cubiertas son autosellantes: la mayoría de los pinchazos se cierran solos.
+### ¿Pincha?
+Los neumáticos son **autosellantes**: la mayoría de pinchazos se sellan solos.
 
-### ¿Compensa frente al ES80?
-Para más de 15 km al día o más de 80 kg de peso, sí: el ES80 se queda corto. Si prefieres algo más ligero y económico, echa un ojo al <a href=/blog/aovopro-365-go/>Aovopro 365 Go</a>.
+### ¿Merece la pena frente al ES80?
+Si haces más de 15 km al día o pesas más de 80 kg, sí: el ES80 se queda corto. Si buscas algo más ligero y barato, mira el <a href=/blog/aovopro-365-go/>Aovopro 365 Go</a>.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-**Cómo lo comprobamos:** datos del manual oficial de Aovopro (motor de 500 W, 42 V y 14,5 Ah, alcance de 43 km y carga de 7 h) cotejados con el análisis de HoverboardsGuide y con la ficha de Aovo como distribuidor. En España no hay PVP oficial: la horquilla de 300-400 € procede del mercado, no es oficial.
+**Cómo verificamos:** especificaciones del manual oficial de Aovopro (500 W, 42 V 14,5 Ah, 43 km, 7 h de carga) contrastadas con la review de HoverboardsGuide y la ficha del distribuidor Aovo. Sin PVP oficial en España: el rango 300-400 € es de mercado, no oficial.
 
 *Fuentes: <a href=https://www.aovo.hu/en/products/aovo-esmax-elektromos-roller>ficha del distribuidor Aovo</a> y <a href=https://hoverboardsguide.com/aovopro-electric-scooter-review/>análisis en HoverboardsGuide</a>y <a href=https://www.dgt.es/comunicacion/notas-de-prensa/publicado-el-manual-de-caracteristicas-tecnicas-de-los-vehiculos-de-movilidad-personal/>nota de la DGT sobre el manual de características de los VMP</a>*`,
   },
   {
     slug: "aovopro-365-go",
-    title: "Aovopro 365 Go: patinete de 12,5 kg por 199 €",
+    title: "Aovopro 365 Go: 350 W ligero por 199 €",
     excerpt:
-      "Alternativa liviana y económica dentro de la gama Aovopro: motor de 350 W, 12,5 kilos, aplicación móvil y 20 km homologados por alrededor de 199 €.",
+      "El Aovopro 365 Go es el hermano pequeño del ES80: 350 W, 12,5 kg, app propia y 20 km de autonomía por unos 199 €. Ficha técnica.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -828,11 +829,11 @@ Para más de 15 km al día o más de 80 kg de peso, sí: el ES80 se queda corto.
     ],
     content: `<img src=/media/patinetes/aovopro-365-go-1.webp alt=Aovopro 365 Go negro, vista lateral completa del patinete>
 
-¿Solo quieres las cifras? <a href=/patinetes/aovopro-365-go/>Ver ficha técnica del Aovopro 365 Go</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/aovopro-365-go/>Ver ficha técnica del Aovopro 365 Go</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **Aovopro 365 Go** representa la variante liviana y económica del ES80: **350 W**, acumulador de **36 V y 7,8 Ah, es decir, 281 Wh**, y un peso de **12,5 kg**, además de aplicación propia, por **alrededor de 199 €** en importación europea (<a href=https://couponsfromchina.com/aovopro-365go-electric-scooter-36v-10-5ah-350w-8-5inch-eu/>CouponsFromChina</a> lo anuncia con almacén en la UE). Un vehículo pensado para el trayecto final.
+El **Aovopro 365 Go** es la versión ligera y barata del ES80: **350 W**, batería de **36 V y 7,8 Ah (281 Wh)**, **12,5 kg** y app propia, por **unos 199 €** en importación europea (<a href=https://couponsfromchina.com/aovopro-365go-electric-scooter-36v-10-5ah-350w-8-5inch-eu/>CouponsFromChina</a> lo lista en almacén UE). El patinete del último kilómetro.
 
-## Resumen de especificaciones
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -847,27 +848,27 @@ El **Aovopro 365 Go** representa la variante liviana y económica del ES80: **35
 | **Ruedas** | 8,5" macizas |
 | **Frenos** | Electrónico + disco |
 
-¿Necesitas cada dato? <a href=/patinetes/aovopro-365-go/>Ficha técnica completa del Aovopro 365 Go</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/aovopro-365-go/>Ficha técnica completa del Aovopro 365 Go</a> con todos los datos verificados.
 
-## Precio en España del Aovopro 365 Go
+## Precio del Aovopro 365 Go en España
 
-Alrededor de **199 €** (216 $) en Banggood con almacén europeo. Con esa tarifa se sitúa entre los 350 W con aplicación más asequibles que pueden adquirirse sin pasar por aduanas.
+Unos **199 €** (216 $) en Banggood con almacén en Europa. A ese precio es de los 350 W con app más baratos que se pueden comprar sin aduanas.
 
 <img src=/media/patinetes/aovopro-365-go-2.webp alt=Detalle del manillar y la pantalla LCD del Aovopro 365 Go>
 
-## Alcance anunciado frente al alcance real
+## Autonomía real vs declarada
 
-Anuncia **20 km**; con 281 Wh y un uso urbano cotidiano, calcula **12-15 km**. Sirve para ir de la estación a casa o al trabajo, no para atravesar la ciudad entera.
+Declara **20 km**; con 281 Wh y uso urbano real, espera **12-15 km**. Es un patinete para el trayecto metro-casa o metro-oficina, no para cruzar la ciudad.
 
-## Frenada y ruedas
+## Frenos y neumáticos
 
-Combina freno electrónico con disco trasero y cubiertas **sólidas de 8,5 pulgadas con superficie antideslizante**: adiós a los pinchazos y una detención aceptable. Lo sólido se nota rígido sobre adoquines, aunque con 12,5 kg esa dureza se tolera bien.
+**Freno electrónico + disco** y ruedas **macizas antideslizantes de 8,5 pulgadas**: sin pinchazos y con frenada decente. Las macizas son duras en adoquín, pero a 12,5 kg se perdona todo.
 
-## Homologación DGT y reglas para VMP
+## Certificado DGT y normativa VMP
 
-No se ha verificado ningún certificado DGT. De fábrica circula a **25 km/h** (la app permite elevarlo a 31): mantenlo en 25 para respetar la normativa de VMP y no circules nunca por la **acera**.
+Sin certificado DGT verificado. De serie va a **25 km/h** (se puede subir a 31 en la app): déjalo en 25 para cumplir la normativa VMP y no pises la **acera**.
 
-## Ventajas e inconvenientes
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -879,56 +880,56 @@ No se ha verificado ningún certificado DGT. De fábrica circula a **25 km/h** (
 
 <img src=/media/patinetes/aovopro-365-go-3.webp alt=Aovopro 365 Go plegado junto a una mochila>
 
-## Un modelo para el trayecto final, no para rutas largas
+## Pensado para el último kilómetro, no para cruzar la ciudad
 
-El propio nombre lo admite: el 365 Go es el patinete diario para distancias cortas. Con **281 Wh** de acumulador y un alcance real de **12 a 15 km**, su terreno natural es el desplazamiento de la estación a la oficina, al campus o al encargo urbano breve. Sus **12,5 kg** hacen posible subirlo al tren o colocarlo bajo la mesa sin molestar, algo que un modelo de 20 kg no puede garantizar.
+El propio nombre lo confiesa: 365 Go es el patinete de todos los días para distancias modestas. Con **281 Wh** de batería y una autonomía real de **12 a 15 km**, su hábitat es el trayecto entre la estación y la oficina, el campus universitario o el recado urbano corto. Sus **12,5 kg** permiten subirlo al tren o guardarlo bajo la mesa sin que estorbe, algo que un patinete de 20 kg no puede prometer.
 
-## 365 Go frente al ES60: 230 € de diferencia en juego
+## 365 Go o ES60: la duda de los 230 €
 
 | Modelo | Batería | Precio orientativo | Autonomía declarada |
 |---|---|---|---|
 | Aovopro 365 Go | 281 Wh (7,8 Ah) | ~199 € | 20 km |
 | Aovopro ES60 | 378 Wh (10,5 Ah) | ~430 € | 35-40 km |
 
-Contrastar los dos modelos facilita la elección: el <a href=/patinetes/aovopro-es60/>Aovopro ES60</a> cuesta más del doble y ofrece un 35 % más de batería y un poco más de autonomía real. Si tus recorridos diarios no pasan de 10 km, lo que ahorras con el 365 Go permanece en tu bolsillo y no echarás en falta los kilómetros adicionales. La <a href=/patinetes/aovopro-365-go/>ficha del 365 Go</a> concentra los demás datos comprobados del modelo.
+Comparar ambos ayuda a decidir: el <a href=/patinetes/aovopro-es60/>Aovopro ES60</a> duplica con creces el precio a cambio de un 35 % más de batería y algo más de autonomía real. Si tus trayectos diarios suman menos de 10 km, la diferencia de precio del 365 Go se queda en tu bolsillo sin que eches de menos los kilómetros extra. La <a href=/patinetes/aovopro-365-go/>ficha del 365 Go</a> recoge el resto de datos verificados del modelo.
 
-## Reglas: lo que exige la DGT a un VMP
+## Normativa: lo que la DGT pide a un VMP
 
-De fábrica rueda a **25 km/h**, el tope permitido para la categoría; la aplicación permite elevarlo a 31 km/h, una posibilidad que en vía pública española lo dejaría fuera de la autorización, sin olvidar la prohibición total de circular por aceras. No consta en la ficha ningún **certificado de circulación DGT**, exigido para los VMP vendidos desde enero de 2024, conforme a lo que publica la <a href=https://www.dgt.es>Dirección General de Tráfico</a>, por lo que conviene reclamarlo al vendedor antes de abonar el importe.
+De serie rueda a **25 km/h**, el máximo permitido para la categoría; la app deja subirlo a 31 km/h, una opción que en vía pública española lo convertiría en un vehículo no autorizado, además de mantener la prohibición absoluta de circular por aceras. La ficha no acredita **certificado de circulación DGT**, obligatorio para los VMP comercializados desde enero de 2024 según la normativa que publica la <a href=https://www.dgt.es>Dirección General de Tráfico</a>, así que conviene exigirlo al vendedor antes de pagar.
 
-## Cuidados mínimos con una batería reducida
+## Mantenimiento mínimo, batería pequeña
 
-Un acumulador de 281 Wh pierde capacidad antes si se agota por completo cada día: lo aconsejable es recargarlo tras cada trayecto breve y conservarlo alrededor de media carga si va a permanecer parado. Las **ruedas macizas de 8,5 pulgadas** eliminan la cámara y el hinchado. El freno trasero de disco solo requiere una revisión esporádica de pastilla y cable. En conjunto, se trata de uno de los patinetes con menos obligaciones de taller del catálogo.
+Una batería de 281 Wh se degrada antes si se descarga a fondo a diario: lo ideal es cargarla tras cada uso corto y mantenerla en torno a media carga si va a estar parada. Las **ruedas macizas de 8,5 pulgadas** prescinden de cámara y de hinchado, y el freno trasero de disco solo pide una revisión ocasional de pastilla y cable. Es, en conjunto, de los patinetes con menos tareas de taller del catálogo.
 
-**Veredicto:** por alrededor de **199 €** con almacén europeo y aplicación con bloqueo, el 365 Go compensa como herramienta de trayecto final para recorridos breves; quien supere los 10 km diarios debería fijarse directamente en el ES60 o asumir recargas casi diarias. Económico, liviano y coherente en su planteamiento.
+**Veredicto:** por unos **199 €** con almacén europeo y app con bloqueo, el 365 Go merece la pena como herramienta de último kilómetro para recorridos cortos; quien haga más de 10 km diarios debería mirar directamente al ES60 o asumir cargas casi a diario. Barato, ligero y honesto en su planteamiento. 
 
-## Transporte público y almacenaje en la oficina
+## Subirlo al tren, guardarlo bajo la mesa
 
-Con **12,5 kg** y un plegado compacto, el 365 Go pertenece al grupo de patinetes que el transporte público admite sin complicaciones: cabe junto a los asientos abatibles, deja libre el pasillo y se desciende en marcha sin ayuda. En clase o en el trabajo descansa bajo la mesa enchufado a su cargador mientras realizas tus tareas, un hábito de uso que explica su acumulador reducido: al recargarse en cada extremo del recorrido, no requiere más capacidad.
+Con **12,5 kg** y plegado compacto, el 365 Go está en el grupo de patinetes que el transporte público tolera sin dramas: entra en el hueco de los asientos abatibles, no bloquea el pasillo y se baja en marcha sin ayuda. En la oficina o en clase queda bajo la mesa cargando con su cargador mientras trabajas, un patrón de uso que explica su batería pequeña: no necesita más porque se recarga en cada extremo del trayecto.
 
-Ese uso combinado también somete a esfuerzo puntos determinados: conviene comprobar el apriete del cierre de plegado y de la articulación del mástil con cierta periodicidad, y con las ruedas sólidas es mejor no afrontar bordillos de frente para no deformar la horquilla. Se trata de atenciones de cinco minutos que prolongan durante años la vida útil de un patinete de este precio.
+Ese mismo uso intermodal castiga zonas concretas: el mecanismo de plegado y la bisagra del mástil merecen una revisión de apriete cada cierto tiempo, y las ruedas macizas agradecen evitar los bordillos frontales que pueden doblar la horquilla. Son cuidados de cinco minutos que alargan años la vida de un patinete de este precio.
 
-## Preguntas habituales
+## Preguntas frecuentes
 
-### ¿Qué precio tiene el Aovopro 365 Go?
-Alrededor de **199 €** con almacén europeo.
+### ¿Cuánto cuesta el Aovopro 365 Go?
+Unos **199 €** en almacén europeo.
 
-### ¿Cómo se sitúa frente al ES80?
-Su acumulador es menor (**7,8 Ah** en lugar de 10,5 Ah) y su alcance también (20 km en lugar de 35 km); a cambio, el precio baja sensiblemente.
+### ¿En qué se diferencia del ES80?
+Menos batería (**7,8 Ah** frente a 10,5 Ah) y menos autonomía (20 km frente a 35 km); a cambio es más barato.
 
-### ¿Cuál es su autonomía en uso real?
-Estima **12-15 km** circulando por ciudad.
+### ¿Qué autonomía real tiene?
+Calcula **12-15 km** en ciudad.
 
-### ¿Resulta ligero de transportar?
-Sí: **12,5 kg**, perfecto para combinarlo con el transporte público.
+### ¿Pesa poco?
+Sí: **12,5 kg**, ideal para el transporte público.
 
-### ¿Puede circular legalmente en España?
-De fábrica a 25 km/h, sí. No lo eleves a 31 km/h en vía pública.
+### ¿Es legal en España?
+De serie a 25 km/h, sí. No lo subas a 31 km/h en vía pública.
 
-### ¿A qué usuario le encaja mejor?
-A quien recorre menos de 10 km diarios y busca el gasto mínimo.
+### ¿Para quién es?
+Para quien hace menos de 10 km al día y quiere gastar lo mínimo.
 
-¿Te han sancionado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
+¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
 *Fuentes: <a href=https://couponsfromchina.com/aovopro-365go-electric-scooter-36v-10-5ah-350w-8-5inch-eu/>ficha del 365 Go en CouponsFromChina</a>., <a href=https://www.dgt.es>normativa de VMP en la DGT</a>*`,
   },
@@ -1188,9 +1189,9 @@ El H7 tiene más batería (720 Wh) y certificación UL2272 por ~60 € más. Si 
   },
   {
     slug: "evercross-h7",
-    title: "Evercross H7: patinete con sillín, 800 W y 720 Wh",
+    title: "Evercross H7: 800 W, 720 Wh y certificación UL",
     excerpt:
-      "Evercross H7 por ~550 €: patinete con asiento extraíble, motor de 800 W, batería de 720 Wh, 30 km reales y certificación UL2272.",
+      "El Evercross H7 es el mejor de la serie H: 800 W, 720 Wh, 45 km declarados, certificación UL2272 y sillín, por ~550 €.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -1209,7 +1210,7 @@ El H7 tiene más batería (720 Wh) y certificación UL2272 por ~60 € más. Si 
 
 **¿Buscas solo los datos?** <a href=/patinetes/evercross-h7/>Ver ficha técnica del Evercross H7</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Dentro del catálogo de la marca, este H7 ocupa el escalón superior: combina un motor con **800 W** de pico, una batería de **48 V y 15 Ah**, esto es, **720 Wh**, una autonomía homologada de **45 km**, la certificación eléctrica **UL2272** y un asiento que se puede quitar, todo por un precio que ronda los **~550 €** (<a href=https://www.amazon.com/dp/B0BNZZ2NG2/ref=as_li_ss_tl>Amazon</a> acumula más de 1.300 valoraciones de compradores, un volumen que da una idea de su difusión en la venta por internet).
+El **Evercross H7** es el más completo de la serie H: **800 W** de pico, batería de **48 V y 15 Ah (720 Wh)**, **45 km** declarados, **certificación UL2272** y **sillín desmontable**, por **~550 €** (<a href=https://www.amazon.com/dp/B0BNZZ2NG2/ref=as_li_ss_tl>Amazon</a> lo vende con más de 1.300 reseñas).
 
 ## Ficha técnica resumida
 
@@ -1228,23 +1229,23 @@ Dentro del catálogo de la marca, este H7 ocupa el escalón superior: combina un
 
 ¿Quieres el detalle completo? <a href=/patinetes/evercross-h7/>Ficha técnica completa del Evercross H7</a> con todos los datos verificados.
 
-## Precio en España
+## Precio del Evercross H7 en España
 
-Según la tienda y el momento, el desembolso se mueve entre **550 y 650 €** al cambio. Lo que realmente lo separa de sus hermanos de gama es el sello **UL2272** de seguridad eléctrica: entre los patinetes chinos de este escalón de precio, muy pocos pueden presumirlo.
+Entre **550 y 650 €** al cambio según oferta. La certificación UL2272 (seguridad eléctrica) lo distingue de sus hermanos: pocos patinetes chinos de este precio la tienen.
 
 <img src=/media/patinetes/evercross-h7-2.webp alt=Detalle de la suspensión delantera de cuatro muelles del Evercross H7>
 
 ## Autonomía real vs declarada
 
-La cifra oficial es **45 km**, pero con una batería de **720 Wh** y un motor de **800 W** de pico, el alcance razonable en uso variado ronda los **30 km**. Esa distancia da para ir y volver al trabajo durante dos jornadas sin pasar por el enchufe.
+Declara **45 km**; con 720 Wh y 800 W, en uso mixto espera **unos 30 km**. Suficiente para dos días de commuting sin cargar.
 
 ## Frenos y neumáticos
 
-Frena con **dos discos** y rueda sobre cubiertas **macizas todoterreno de 10 pulgadas**, sin aire en su interior. Delante monta una **suspensión de cuatro muelles** y detrás otro sistema de amortiguación: en conjunto, es la propuesta más confortable de Evercross entre las que prescinden de neumáticos hinchables.
+**Doble disco** y ruedas **macizas todoterreno de 10 pulgadas**, con **suspensión de cuatro muelles delante** y amortiguación trasera: el conjunto más cómodo de Evercross sin neumáticos.
 
 ## Certificado DGT y normativa VMP
 
-No consta un certificado DGT verificado para este modelo: la **UL2272** avala la seguridad eléctrica, no la circulación. Como su velocidad ronda los **~45 km/h**, hay que caparlo a **25 km/h** para cumplir la normativa de los VMP, y las aceras quedan vetadas.
+Sin certificado DGT verificado (la UL2272 es de seguridad eléctrica, no de circulación). Sus **~45 km/h** exigen **limitarlo a 25 km/h** para la normativa VMP; prohibido en **aceras**.
 
 ## Puntos fuertes y débiles
 
@@ -1258,11 +1259,11 @@ No consta un certificado DGT verificado para este modelo: la **UL2272** avala la
 
 <img src=/media/patinetes/evercross-h7-3.webp alt=Evercross H7 en un camino de tierra>
 
-## Evercross y su serie H
+## Evercross y la serie H: el patinete con sillín para adultos
 
-La marca ha crecido en el mercado de los patinetes de plataforma con una idea diferente a la del urbano ligero: vehículos grandes, con asiento extraíble y ruedas macizas para todo terreno, orientados a personas adultas que hacen recorridos medios y prefieren desplazarse sentadas. Dentro de su gama alta, la serie H, el H7 queda en lo más alto: usa la misma base de **800 W** que el H5, aunque suma una batería de 15 Ah de mayor capacidad y la suspensión delantera de cuatro muelles, además del sello **UL2272** de seguridad eléctrica, poco habitual en este precio y exigido por algunos campus y ciudades de Estados Unidos. Se vende por internet —Amazon lo distribuye con miles de valoraciones—, con lo bueno y lo malo que eso supone para la postventa.
+Evercross se ha hecho un hueco en el mercado de patinetes de plataforma vendiendo una idea distinta a la del patinete urbano ligero: modelos grandes, con sillín desmontable y ruedas macizas todoterreno, pensados para adultos que recorren distancias medias y prefieren ir sentados. La serie H es su gama alta, y el H7 su tope: comparte plataforma de 800 W con el H5 pero añade la batería grande de 15 Ah, la suspensión delantera de cuatro muelles y la certificación UL2272 de seguridad eléctrica, un sello poco frecuente en patinetes de este precio y que algunos campus y ciudades de EE. UU. exigen. Es un producto de venta online (Amazon lo distribuye con miles de reseñas), con las ventajas e inconvenientes que eso implica en postventa.
 
-## Técnica: batería grande y peso alto
+## Técnica a fondo: 720 Wh y ruedas macizas de 10 pulgadas
 
 | Concepto | Dato del Evercross H7 |
 |---|---|
@@ -1275,39 +1276,39 @@ La marca ha crecido en el mercado de los patinetes de plataforma con una idea di
 | Ruedas | 10 pulgadas macizas todoterreno |
 | Certificación | UL2272 (seguridad eléctrica) |
 
-La interpretación de los números es directa: **720 Wh** supone un acumulador generoso para un patinete de unos **550 €**, y justifica a la vez el alcance real calculado, en torno a **30 km** —bastante para dos días de desplazamientos—, y un peso que ronda los **25 kg**. Al no llevar cámara, las ruedas macizas suprimen los pinchazos, la avería más molesta de estos vehículos, aunque se paga con menor adherencia sobre mojado y un filtrado más pobre, carencia que la suspensión delantera de cuatro muelles trata de paliar. Con semejante masa y velocidad potencial, el freno de doble disco se convierte en el elemento de seguridad decisivo. Y la aplicación, con crucero y bloqueo, redondea un conjunto que, en teoría, planta cara a patinetes de firmas bastante más costosas.
+La lectura técnica es clara: 720 Wh es una batería grande para un patinete de ~550 €, y explica tanto la autonomía real estimada (30 km, suficiente para dos días de commuting) como los 25 kg de peso. Las ruedas macizas eliminan el pinchazo, el mantenimiento más odioso del patinete, a cambio de menos agarre en mojado y menos filtrado, algo que la suspensión de cuatro muelles delante intenta compensar. El doble freno de disco es el componente de seguridad clave con un conjunto de este peso y velocidad potencial. La app con control de crucero y bloqueo completa un paquete que, sobre el papel, compite con patinetes de marcas mucho más caras.
 
-## Uso real: para qué trayectos encaja
+## Uso real: commuting suburbano con sillín, no última milla
 
-Este modelo tiene lógica en un escenario muy definido: recorridos de 5 a 15 km que arrancan en barrios residenciales, con el asiento colocado y sin enlazar con autobús o metro. En ese contexto, el acumulador generoso, la postura sentada y la suspensión lo vuelven más confortable que cualquier patinete liviano. Salvo ese caso, sus **25 kg** lo descartan para subir a un piso sin ascensor o colarlo en un vagón lleno, y las ruedas sin cámara obligan a extremar la cautela cuando llueve. Tampoco encaja como juguete deportivo de fin de semana: se trata de un instrumento de desplazamiento con aspiraciones camperas leves, y quien lo adquiera con esa idea en mente quedará satisfecho.
+El H7 cobra sentido en un uso concreto: trayectos de 5-15 km desde zonas residenciales, con el sillín puesto y sin combinar con transporte público. Ahí, la batería grande, la postura sentada y la suspensión lo hacen más cómodo que cualquier patinete ligero. Fuera de ese escenario, sus 25 kg lo vetan para subirlo a un piso sin ascensor o meterlo en un metro abarrotado, y las ruedas macizas piden prudencia con lluvia. Tampoco es un patinete de ocio deportivo: es una herramienta de desplazamiento con pretensiones todoterreno ligeras, y quien lo compre con esa expectativa acertará.
 
-## Mantenimiento, gasto y reglas VMP
+## Mantenimiento, costes y normativa VMP en España
 
-Cuidarlo es lo propio de un eléctrico con ruedas sin cámara: revisar pastillas y reglaje de los discos, apretar la tornillería del plegado y del asiento, y mimar la batería, sin dejarla vacía durante mucho tiempo ni guardada siempre al 100 %. Al no haber cubiertas que pinchar ni cámaras que sustituir, el gasto por kilómetro sale muy reducido; el punto débil es la postventa de una firma que vende por internet, con una atención desigual según cuentan las reseñas, de modo que conviene conservar la factura y probar a fondo la unidad durante los primeros días. En cuanto a las reglas, la <a href=https://www.dgt.es>DGT</a> fija para los VMP un tope de **25 km/h**, veto a las aceras y certificado de circulación para los vendidos en España: de este H7 no consta certificado DGT verificado, pues la **UL2272** avala solo la seguridad eléctrica, y hay que caparlo a **25 km/h** para rodar por la vía pública.
+El mantenimiento es el de un eléctrico con ruedas macizas: pastillas y ajuste de los frenos de disco, tornillería del plegado y del sillín, y cuidado de la batería (evitar descargas completas prolongadas y almacenamientos al 100 %). Sin neumáticos que pinchar ni cámaras que cambiar, el coste por kilómetro es muy bajo; el riesgo está en la postventa de una marca de venta online, con soporte dispar según las reseñas, así que conviene guardar factura y revisar la unidad en los primeros días. En normativa, la <a href=https://www.dgt.es>DGT</a> regula los VMP con límite de 25 km/h, prohibición de circular por aceras y certificado de circulación para los comercializados en España: el H7 consta sin certificado DGT verificado (la UL2272 es eléctrica, no de circulación) y debe limitarse a 25 km/h para usarlo en vía pública.
 
-## Rivales dentro de la casa y veredicto
+## Rivales y veredicto: ¿merece la pena?
 
-En la propia familia, el <a href=/patinetes/evercross-h5/>Evercross H5</a> recorta unos 60 € a cambio de quedarse con una batería de **480 Wh** y sin el sello **UL2272**, mientras el <a href=/patinetes/evercross-h9/>Evercross H9</a> representa la otra vía de la casa en esta gama. Comparado con los urbanos ligeros habituales, el H7 sale ganando en alcance, confort sentado y carga útil de **150 kg**, y sale perdiendo en kilos y en facilidad para llevarlo a cuestas. **Veredicto:** compensa para el usuario suburbano que sale de casa rodando y aprecia batería y asiento por unos **550 €**; no encaja para quien enlace con transporte público ni para quien exija el certificado DGT español.
+Dentro de la familia, el <a href=/patinetes/evercross-h5/>Evercross H5</a> ahorra unos 60 € a cambio de una batería de 480 Wh y sin UL2272, y el <a href=/patinetes/evercross-h9/>Evercross H9</a> es la alternativa de la casa con otro enfoque de gama. Frente a los patinetes urbanos ligeros convencionales, el H7 gana en autonomía, comodidad sentado y capacidad de carga (150 kg), y pierde en peso y portabilidad. **Veredicto:** el H7 merece la pena para el commuter suburbano que rueda desde casa y valora batería y sillín por ~550 €; no es para quien combine con transporte público ni para quien necesite el certificado DGT español. 
 
 ## Preguntas frecuentes
 
-### ¿Cuánto hay que pagar por el Evercross H7?
-El desembolso oscila entre **550 y 650 €** al cambio si se compra en Amazon.
+### ¿Cuánto cuesta el Evercross H7?
+Entre **550 y 650 €** al cambio en Amazon.
 
-### ¿Qué garantiza la certificación UL2272?
-Avala la **seguridad eléctrica** de la batería y del sistema; es un sello poco habitual en este precio.
+### ¿Qué es la certificación UL2272?
+Una certificación de **seguridad eléctrica** (batería y sistema): poco común en este precio.
 
-### ¿Qué alcance real cabe esperar?
-En torno a **30 km** si se rueda en uso variado.
+### ¿Qué autonomía real tiene?
+Unos **30 km** en uso mixto.
 
-### ¿Se puede usar legalmente en España?
-Sí, siempre que se limite a **25 km/h**.
+### ¿Es legal en España?
+**Limitado a 25 km/h**, sí.
 
-### ¿Resulta pesado de mover?
-Sí: ronda los **25 kg** con el asiento puesto.
+### ¿Pesa mucho?
+Sí: **unos 25 kg** con el sillín.
 
-### ¿Compensa frente al H5?
-Por unos 60 € más se obtienen **720 Wh** en lugar de **480 Wh**, además del sello **UL2272**. Sí, sale a cuenta.
+### ¿Merece la pena frente al H5?
+Por ~60 € más tienes 720 Wh (frente a 480 Wh) y UL2272. Sí, compensa.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
@@ -1315,9 +1316,9 @@ Por unos 60 € más se obtienen **720 Wh** en lugar de **480 Wh**, además del 
   },
   {
     slug: "evercross-h9",
-    title: "Evercross H9 2026: patinete con sillín de solo 20 kg",
+    title: "Evercross H9: el H con sillín más ligero",
     excerpt:
-      "El H9 recorta peso hasta 20 kg con motor de 800 W, batería de 672 Wh y sillín extraíble: autonomía anunciada de 45 km y precio cercano a 610 €.",
+      "El Evercross H9 aligera la serie H: 800 W, 672 Wh y sillín en solo 20 kg, con 45 km declarados por ~610 €. Ficha técnica.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -1334,11 +1335,11 @@ Por unos 60 € más se obtienen **720 Wh** en lugar de **480 Wh**, además del 
     ],
     content: `<img src=/media/patinetes/evercross-h9-1.webp alt=Evercross H9 negro, vista lateral completa del patinete>
 
-Los números clave están en la <a href=/patinetes/evercross-h9/>ficha del H9</a>: motor, batería, autonomía y precio. Y puedes enfrentarlo a otros modelos en el <a href=/comparador-patinetes/>comparador</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/evercross-h9/>Ver ficha técnica del Evercross H9</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Dentro de la familia H, este modelo apuesta por adelgazar: un propulsor con pico de 800 W, un acumulador de 48 V, 14 Ah (672 Wh en total), un alcance anunciado de 45 km y un asiento que se puede retirar, todo ello con una báscula que marca alrededor de 20 kg (<a href=https://www.levyelectric.com/resources/evercross-electric-scooter-complete-guide-app-setup-review>Levy Electric</a>). Frente al H7, restar cinco kilos se aprecia cada vez que hay que doblarlo para guardarlo o subirlo. La aplicación asociada permite bloquear el patinete cuando queda aparcado.
+El **Evercross H9** es la dieta de la serie H: **800 W** de pico, **48 V y 14 Ah (672 Wh)**, **45 km** declarados y **sillín desmontable** en solo **20 kg** (<a href=https://www.levyelectric.com/resources/evercross-electric-scooter-complete-guide-app-setup-review>Levy Electric</a>). Cinco kilos menos que el H7 se notan al plegarlo.
 
-## Datos esenciales
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -1352,25 +1353,25 @@ Dentro de la familia H, este modelo apuesta por adelgazar: un propulsor con pico
 | **Carga máxima** | 150 kg |
 | **Ruedas** | 10" macizas |
 
-La ficha completa, con cada cifra contrastada, está en el <a href=/patinetes/evercross-h9/>perfil técnico del H9</a>.
+¿Quieres el detalle completo? <a href=/patinetes/evercross-h9/>Ficha técnica completa del Evercross H9</a> con todos los datos verificados.
 
-## Cuánto cuesta en España
+## Precio del Evercross H9 en España
 
-Al convertir su importe en dólares, 665 $, el resultado ronda los 610 €. Dentro de su propia familia es la variante más costosa: el sobreprecio se justifica por el peso recortado, no por una batería mayor ni por más velocidad.
+Unos **610 €** al cambio (665 $). Es el más caro de la serie H: pagas la ligereza.
 
 <img src=/media/patinetes/evercross-h9-2.webp alt=Detalle del chasis plegado del Evercross H9>
 
-## Alcance anunciado y alcance plausible
+## Autonomía real vs declarada
 
-El fabricante anuncia 45 km, pero con 672 Wh lo prudente es contar con cerca de 30 km en un uso variado. El recorte de cinco kilos respecto al H7 también juega a favor: un vehículo más liviano demanda algo menos de energía al mismo ritmo.
+Declara **45 km**; con 672 Wh calcula **unos 30 km** reales. La dieta de 5 kg ayuda: menos peso, menos consumo.
 
-## Frenada y rodadura
+## Frenos y neumáticos
 
-Monta frenos de disco en las dos ruedas y cubiertas sólidas de 10 pulgadas, sin cámara que pinchar. A cambio, renuncia a los indicadores de giro que sí llevaba el H5, una concesión en favor de la sencillez y de la báscula.
+**Doble disco** y ruedas **macizas de 10 pulgadas**. Pierde los intermitentes del H5, pero gana en simplicidad y peso.
 
-## Uso en calle y certificado
+## Certificado DGT y normativa VMP
 
-No hay constancia de un certificado DGT verificado para este modelo. Además, con una punta cercana a 45 km/h queda fuera de la definición de VMP: para circular por vía pública habría que caparlo a 25 km/h y mantenerse fuera de las aceras.
+Sin certificado DGT verificado. A **~45 km/h** no es VMP legal: **limitar a 25 km/h** y circular fuera de **aceras**.
 
 ## Puntos fuertes y débiles
 
@@ -1384,11 +1385,11 @@ No hay constancia de un certificado DGT verificado para este modelo. Además, co
 
 <img src=/media/patinetes/evercross-h9-3.webp alt=Evercross H9 circulando por la ciudad al atardecer>
 
-## La gama H y el canal de venta
+## Evercross y la serie H: potencia de venta directa
 
-En Europa, la marca comercializa sus vehículos a través de su <a href=https://evercross.eu>web oficial europea</a>, donde las versiones de calle vienen capadas a 25 km/h para cumplir la normativa comunitaria. La familia H se caracteriza por el asiento extraíble y las ruedas de 10 pulgadas; el H9 representa su versión adelgazada: pico de 800 W, acumulador de 48 V con 14 Ah (672 Wh en total) y apenas 20 kg, cinco por debajo del H7 según el análisis de partida. Su precio, en torno a 610 € al cambio, es el más elevado de la familia: se abona la ligereza, no una mayor velocidad ni una batería superior a la de sus hermanos.
+Evercross vende sus patinetes en Europa a través de su <a href=https://evercross.eu>web oficial europea</a>, donde los modelos de calle se limitan a 25 km/h para el mercado comunitario. La serie H es su gama con sillín desmontable y ruedas de 10 pulgadas, y el H9 es su ejercicio de adelgazamiento: **800 W de pico, 48 V y 14 Ah (672 Wh)** y solo **20 kg**, cinco menos que el H7 según el análisis original. Cuesta unos **610 €** al cambio, el precio más alto de la serie: lo que se paga es la ligereza, no más velocidad ni más batería que sus hermanos.
 
-## Qué dicen los números en la práctica
+## La técnica: 672 Wh en el H más ligero
 
 | Dato | Evercross H9 |
 |---|---|
@@ -1402,45 +1403,45 @@ En Europa, la marca comercializa sus vehículos a través de su <a href=https://
 | Ruedas | 10 pulgadas macizas |
 | Frenos | Doble disco |
 
-Con esos 672 Wh, los 45 km anunciados se quedan en cerca de 30 km reales en recorridos variados, que es la previsión cautelosa del análisis de partida. Bajar cinco kilos respecto al H7 aporta en dos planos: gasta un poco menos si se mantiene el mismo ritmo y, sobre todo, permite doblarlo y cargarlo hasta un piso o un maletero sin que suponga un esfuerzo físico. El doble disco resulta el equipo adecuado para un aparato capaz de rozar los 45 km/h, y la carga admitida de 150 kg resulta amplia para su peso. Como contrapartida, prescinde de los intermitentes presentes en otros modelos de la gama y calza ruedas sólidas: imposibles de pinchar, pero con peor filtrado de irregularidades.
+Con **672 Wh**, la autonomía declarada de 45 km se traduce en unos **30 km reales** en uso mixto, la estimación prudente del análisis original. La dieta de 5 kg frente al H7 ayuda en dos frentes: consume algo menos a igualdad de ritmo y, sobre todo, se pliega y se sube a un piso o a un maletero sin convertirlo en un ejercicio de fuerza. El **doble freno de disco** es el equipo correcto para un patinete capaz de unos 45 km/h, y la carga máxima de **150 kg** es generosa para su peso. A cambio pierde los intermitentes de otros modelos de la gama y monta ruedas macizas, que no pinchan pero filtran peor.
 
-## Para quién encaja y dónde no puede rodar
+## Uso real: ligero para llevar, ilegal sin limitar
 
-Tiene lógica para quien alterna el patinete con tramos andando, escaleras o transporte público: ahí, los 20 kg se distinguen claramente de los 25 kg del H7. Conviene insistir en lo que ya advertía su análisis: rozando los 45 km/h, no encaja como VMP legal en España; rodar por vía pública exigiría caparlo a 25 km/h, y aun con ese tope la legalidad completa dependería del certificado que le corresponda, que no aparece verificado en este modelo. Sin ese tope, su ámbito queda en el espacio privado. Puedes contrastarlo con opciones homologables en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
+El H9 tiene sentido para quien combina patinete con tramos a pie, escaleras o transporte público: ahí sus 20 kg marcan la diferencia frente a los 25 kg del H7. Pero hay que repetir lo que ya dice su análisis: a unos **45 km/h no es un VMP legal en España**; su uso en vía pública exige limitarlo a 25 km/h, y aun así la legalidad plena requiere el certificado correspondiente, que no consta verificado para este modelo. Sin esa limitación, su terreno es el espacio privado. Compáralo con alternativas homologables en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
 
-## Gasto y posventa: lo comprobable
+## Mantenimiento y costes: sencillo, con la posventa por escrito
 
-La marca no difunde tarifas de mantenimiento del H9 que se puedan citar, y aquí no se inventan. El gasto corriente verificable en un aparato de su clase pasa por las pastillas y los discos de sus dos frenos, además del cuidado de un acumulador de 672 Wh al que conviene no mantener descargado ni alimentar con cargadores distintos del suyo. Las ruedas sólidas dejan fuera los pinchazos. En una firma de venta directa, el punto delicado es la posventa: antes de abonar en torno a 610 €, merece la pena dejar por escrito quién responde de la garantía y de los recambios en Europa.
+Evercross no publica tarifas de mantenimiento del H9 que podamos citar, y no las inventamos. Lo verificable en un patinete de su clase es el gasto ordinario: pastillas y discos de sus dos frenos, y el cuidado de una batería de 672 Wh que agradecerá no vivir descargada ni cargarse con cargadores ajenos al suyo. Las ruedas macizas eliminan los pinchazos de la ecuación. La partida crítica en una marca de venta directa es la posventa: antes de pagar unos 610 € conviene confirmar por escrito quién atiende la garantía y los recambios en Europa.
 
-## Qué exige la norma para un VMP
+## Normativa: VMP, 25 km/h y certificación DGT
 
-La <a href=https://www.dgt.es>DGT</a> entiende por vehículo de movilidad personal aquel cuya velocidad máxima por construcción es de 25 km/h, que debe circular fuera de las aceras y que, en los modelos vendidos en España, necesita el certificado de circulación previsto por la normativa en vigor. El H9, tal y como se comercializa en origen, rebasa esa velocidad y no tiene certificado DGT verificado: con un tope electrónico y un uso prudente puede aproximarse al uso urbano, pero la conformidad completa la otorga el certificado del fabricante, no un límite aplicado en casa.
+La <a href=https://www.dgt.es>DGT</a> define el vehículo de movilidad personal con una velocidad máxima por construcción de **25 km/h**, circulación fuera de aceras y, para los modelos comercializados en España, el certificado de circulación que exige la normativa vigente. El H9, tal como se vende en origen, supera esa velocidad y no consta certificado DGT verificado: limitado electrónicamente y usado con prudencia puede acercarse al uso urbano, pero la conformidad plena la da el certificado del fabricante, no la limitación casera. Es el mismo mensaje del análisis original, sin adornos.
 
-## H7, H5 y H9: la decisión
+## Frente al Evercross H7 y al H5: veredicto
 
-Las otras fichas de la casa permiten situar la elección. El <a href=/patinetes/evercross-h7/>Evercross H7</a> se queda en 550 €, con propulsor de 800 W, acumulador de 720 Wh y 45 km anunciados y un alcance real próximo a los 30 km de acuerdo con su ficha, aunque su báscula sube a 25 kg. El <a href=/patinetes/evercross-h5/>Evercross H5</a> desciende a 490 € con 480 Wh, 40 km anunciados y 23,6 kg, y mantiene detalles como los intermitentes que el H9 no ofrece. El H9 únicamente lidera en una columna, la del peso, y en casi todas las demás pierde o iguala pagando más.
+Sus hermanos con ficha en esta casa dibujan la elección. El <a href=/patinetes/evercross-h7/>Evercross H7</a> cuesta 550 € con 800 W, 720 Wh, 45 km declarados y unos 30 km reales según su ficha, pero pesa 25 kg. El <a href=/patinetes/evercross-h5/>Evercross H5</a> baja a 490 € con 480 Wh, 40 km declarados y 23,6 kg, y conserva detalles como los intermitentes que el H9 pierde. El H9 solo gana en una columna, el peso, y pierde o empata en casi todas las demás costando más.
 
-**¿Compensa?** Únicamente cuando el peso sea el factor que más pese en la decisión. **Encaja si:** subes el patinete a pulso cada día y antepones los 20 kg a todo lo demás. **No encaja si:** formas parte de casi todo el resto: el H7 entrega más batería por menos dinero, y ninguno de los tres cuenta con certificación VMP en España.
+**¿Merece la pena?** Solo si los kilos son tu criterio decisivo. **Para quién sí:** para quien suba el patinete a pulso a diario y valore los 20 kg por encima de todo. **Para quién no:** para casi todos los demás: el H7 da más batería y cuesta menos, y ninguno de los tres es un VMP certificado en España.
 
 ## Preguntas frecuentes
 
-### ¿Cuál es su peso?
-Alrededor de 20 kg, cinco por debajo del H7.
+### ¿Cuánto pesa el Evercross H9?
+Unos **20 kg**, 5 menos que el H7.
 
-### ¿Qué alcance real cabe esperar?
-Cerca de 30 km en recorridos variados.
+### ¿Qué autonomía real tiene?
+Unos **30 km** en uso mixto.
 
-### ¿Se puede usar legalmente en España?
-Solo con el tope de 25 km/h aplicado.
+### ¿Es legal en España?
+**Limitado a 25 km/h**, sí.
 
-### ¿Qué lo separa del H7?
-Pesa menos (20 kg frente a 25 kg), aunque no trae la certificación UL2272 ni los intermitentes del H5.
+### ¿En qué se diferencia del H7?
+Es más ligero (20 kg frente a 25 kg) pero pierde la UL2272 y los intermitentes del H5.
 
-### ¿Justifica su precio?
-Solo cuando esos cinco kilos menos resulten realmente decisivos; en caso contrario, el H7 ofrece más por menos dinero.
+### ¿Merece los 610 €?
+Solo si los 5 kg menos te importan de verdad; si no, el H7 da más por menos.
 
-### ¿El asiento se puede retirar?
-Sí, el sillín es extraíble.
+### ¿El sillín se quita?
+Sí, es **desmontable**.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
@@ -1448,9 +1449,9 @@ Sí, el sillín es extraíble.
   },
   {
     slug: "evercross-ev10k-pro",
-    title: "Evercross EV10K Pro: 500 W con intermitentes por ~275 €",
+    title: "Evercross EV10K Pro: 500 W e intermitentes",
     excerpt:
-      "El EV10K Pro de Evercross reúne 500 W, 410 Wh, intermitentes delanteros y traseros y 150 kg de carga por unos 275 €. Análisis completo.",
+      "El Evercross EV10K Pro es el punto dulce de la marca: 500 W, 410 Wh, intermitentes y 150 kg de carga por ~275 €. Ficha completa.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -1469,9 +1470,9 @@ Sí, el sillín es extraíble.
 
 **¿Buscas solo los datos?** <a href=/patinetes/evercross-ev10k-pro/>Ver ficha técnica del Evercross EV10K Pro</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **Evercross EV10K Pro** representa el punto medio de la familia: motor de **500 W**, paquete de **36 voltios y 11,4 amperios-hora (410 Wh)**, alcance anunciado de **35 km**, **intermitentes** en ambos extremos y **150 kg** de carga admitida, todo por **~275 €**. Nada de sillín ni florituras: un urbano redondo.
+El **Evercross EV10K Pro** es el equilibrio de la gama: **500 W**, batería de **36 V y 11,4 Ah (410 Wh)**, **35 km** declarados, **intermitentes** delanteros y traseros y **150 kg** de carga, por **~275 €**. Sin sillín ni excesos: un urbano completo.
 
-## Datos esenciales resumidos
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -1488,25 +1489,25 @@ El **Evercross EV10K Pro** representa el punto medio de la familia: motor de **5
 
 ¿Quieres el detalle completo? <a href=/patinetes/evercross-ev10k-pro/>Ficha técnica completa del Evercross EV10K Pro</a> con todos los datos verificados.
 
-## Precio en España del EV10K Pro
+## Precio del Evercross EV10K Pro en España
 
-En Amazon se mueve en torno a los 275 €, equivalentes a 299,99 dólares. Con ese importe, ningún competidor junta intermitentes y 150 kg de carga.
+Unos **275 €** al cambio (299,99 $) en Amazon. A ese precio, los intermitentes y los 150 kg de carga no los ofrece nadie.
 
 <img src=/media/patinetes/evercross-ev10k-pro-2.webp alt=Detalle de la pantalla LED del Evercross EV10K Pro>
 
-## Alcance de catálogo frente a alcance en calle
+## Autonomía real vs declarada
 
-El catálogo anuncia 35 km; con una batería de 410 Wh y un motor de 500 W, lo sensato es prever 22-25 km efectivos. Basta para el trayecto diario de la mayoría.
+Declara **35 km**; con 410 Wh y 500 W, espera **22-25 km** reales. Suficiente para el commuting diario de la mayoría.
 
-## Frenos, ruedas y señalización
+## Frenos y neumáticos
 
-Monta freno electrónico más disco, amortiguación en las dos ruedas y cubiertas honeycomb de 10 pulgadas: imposible pinchar y con cierto filtrado. Los intermitentes aportan un plus de seguridad tangible en ciudad.
+**Freno electrónico + disco**, **doble amortiguación** y ruedas **honeycomb de 10 pulgadas**: sin pinchazos y con algo de filtrado. Los intermitentes son un plus de seguridad real en ciudad.
 
-## Certificación DGT y reglas VMP
+## Certificado DGT y normativa VMP
 
-El certificado DGT de este modelo sigue sin verificarse. Su punta ronda los 30 km/h, así que conviene ajustarlo a 25 km/h para encajar en la normativa VMP; las aceras están prohibidas.
+Sin certificado DGT verificado. Sus **~30 km/h** de punta piden **ajustarlo a 25 km/h** para cumplir la normativa VMP; prohibido en **aceras**.
 
-## Ventajas y pegas
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -1518,11 +1519,11 @@ El certificado DGT de este modelo sigue sin verificarse. Su punta ronda los 30 k
 
 <img src=/media/patinetes/evercross-ev10k-pro-3.webp alt=Evercross EV10K Pro en un carril bici>
 
-## Evercross: equipamiento abundante a precio rompedor
+## Evercross: la marca de los patinetes completos a precio mínimo
 
-Evercross ha ganado terreno en Europa comercializando patinetes con mucha dotación a precios rompedores, casi siempre mediante grandes plataformas de venta online. Su línea EV juega justo a eso: más empuje, más batería y más dotación de lo corriente en su escalón de precio. El EV10K Pro se sitúa en el centro de esa familia: ni la variante de acceso ni la más extrema, sino la que casa potencia, alcance y coste pensando en rodar por ciudad a diario. En su página oficial la firma lo orienta a los desplazamientos urbanos, aunque siempre conviene cotejar la ficha del vendedor concreto, porque la configuración puede cambiar según el mercado. Enlaza aquí su <a href=https://evercross.eu/blogs/news/evercross-ev10k-pro-electric-scooter-a-powerful-and-stylish-ride>web oficial de Evercross</a>.
+Evercross se ha hecho un hueco en Europa vendiendo patinetes eléctricos muy equipados a precios de derribo, casi siempre a través de grandes plataformas de venta online. Su gama EV juega precisamente a eso: más motor, más batería y más equipamiento del habitual en su franja de precio. Dentro de esa familia, el EV10K Pro ocupa el centro: no es el modelo de acceso ni el más extremo, sino el que equilibra potencia, autonomía y precio para el uso urbano diario. La propia marca lo presenta en su <a href=https://evercross.eu/blogs/news/evercross-ev10k-pro-electric-scooter-a-powerful-and-stylish-ride>web oficial de Evercross</a> como su propuesta para desplazamientos urbanos, aunque conviene contrastar siempre la ficha del vendedor concreto, porque las configuraciones pueden variar según el mercado.
 
-## Qué rinden 500 W y 410 Wh en la práctica
+## Técnica a fondo: qué dan de sí 500 W y 410 Wh
 
 | Concepto | Dato del EV10K Pro |
 |---|---|
@@ -1534,45 +1535,39 @@ Evercross ha ganado terreno en Europa comercializando patinetes con mucha dotaci
 | Peso | 16 kg |
 | Ruedas | 10 pulgadas honeycomb |
 
-Los 500 W brillan al salir desde parado y al afrontar cuestas ciudadanas suaves, terrenos donde un propulsor de 350 W se queda más corto, sobre todo si el conductor pesa: aquí la carga tope anunciada alcanza 150 kg, un valor raro en este precio. En alcance manda la batería de 410 Wh: los 35 km del catálogo se obtienen en condiciones ideales, así que para organizarse conviene quedarse con la horquilla real de 22-25 km. La goma honeycomb suprime los pinchazos, pero filtra menos, un déficit que la doble amortiguación palía solo en parte.
+Los 500 W se notan sobre todo en las salidas desde parado y en las rampas urbanas moderadas, donde un motor de 350 W sufre mucho más, especialmente con conductores pesados: aquí la carga máxima declarada es de 150 kg, una cifra poco común en este precio. La batería de 410 Wh es la que manda en la autonomía: los 35 km declarados se miden en condiciones óptimas, y la estimación real de 22-25 km es la cifra con la que hay que planificar. Las ruedas honeycomb eliminan los pinchazos a cambio de menos filtrado, algo que la doble amortiguación compensa en parte.
 
-## En el día a día: ir y volver sin enredos
+## Uso real: commuting diario sin complicaciones
 
-Un recorrido urbano de ida y vuelta que no supere los 20 km lo cubre sin pasar por el enchufe cada día. Su seña distintiva son los intermitentes en ambos extremos: avisar del giro en ciudad sin soltar el manillar supone una ganancia de seguridad tangible que poquísimos rivales de este precio brindan. La aplicación con bloqueo y crucero añade comodidad, y sus 16 kg permiten subirlo a un piso o guardarlo en un maletero, aunque no resulte ligero para acarrearlo cada día por tramos largos de escaleras. Sus flaquezas son claras: la cubierta maciza transmite más vibraciones sobre asfalto roto, y la atención posventa queda en manos del vendedor, sin red propia en España.
+Para trayectos urbanos de ida y vuelta de hasta unos 20 km, el EV10K Pro cumple sin necesidad de cargar a diario. Los intermitentes delanteros y traseros son su rasgo más diferencial: en ciudad, señalizar los giros sin soltar el manillar es una ventaja de seguridad real que casi ningún rival de este precio ofrece. La app con bloqueo y control de crucero suma comodidad, y los 16 kg lo mantienen asumible para subirlo a un piso o meterlo en un maletero, aunque no es un patinete ligero para cargar a diario por muchas escaleras. Sus límites son honestos: la rueda maciza transmite más vibraciones en asfalto roto y el soporte posventa depende del vendedor, no de una red propia en España.
 
-## Cuidados y papeles para rodar en España
+## Mantenimiento y normativa VMP en España
 
-Cuidarlo resulta sencillo: vigilar el estado de las cubiertas (macizas y todo, se gastan), la tornillería del plegado, el disco y su pastilla, y mimar la batería sin dejarla vacía durante mucho tiempo. Sobre las reglas, la <a href=https://www.dgt.es>DGT</a> deja poco margen para los vehículos de movilidad personal: tope de 25 km/h, veto a las aceras y certificado de circulación obligatorio para los VMP que se venden en España. Este EV10K Pro anuncia alrededor de 30 km/h de punta, de modo que circular legalmente exige caparlo a 25 km/h; además, en este análisis figura sin certificado DGT verificado, así que antes de adquirirlo pide al vendedor la documentación del certificado si piensas usarlo en vía pública.
+El mantenimiento es sencillo: presión y estado de las ruedas (aunque sean macizas, se desgastan), tornillería del plegado, freno de disco y su pastilla, y cuidar la batería evitando descargas completas prolongadas. En normativa, la <a href=https://www.dgt.es>DGT</a> es clara con los vehículos de movilidad personal: velocidad máxima de 25 km/h, prohibido circular por aceras y obligatoriedad de certificado de circulación para los VMP comercializados en España. El EV10K Pro declara unos 30 km/h de punta, así que hay que limitarlo a 25 km/h para circular legalmente, y en este análisis consta sin certificado DGT verificado: antes de comprarlo, exige al vendedor la documentación del certificado si lo vas a usar en vía pública.
 
-## Rivales y sentencia: ¿compensa?
+## Rivales y veredicto: ¿merece la pena?
 
-Como alternativas, el <a href=/patinetes/xiaomi-electric-scooter-5-max/>Xiaomi Electric Scooter 5 Max</a> tira de marca global y respaldo, y el <a href=/patinetes/segway-ninebot-max-g3/>Segway Ninebot Max G3</a> de alcance y solidez constructiva, los dos con etiquetas más altas. El Evercross replica con mayor carga tope, intermitentes incluidos de serie y una etiqueta rondando los 275 € que cuesta igualar. **Veredicto:** encaja con quien rueda a diario por ciudad y busca mucha potencia y dotación por euro; no es la opción ideal para quien anteponga asistencia oficial en territorio español o goma neumática cómoda.
+Frente a él, el <a href=/patinetes/xiaomi-electric-scooter-5-max/>Xiaomi Electric Scooter 5 Max</a> juega la carta de la marca global y el soporte, y el <a href=/patinetes/segway-ninebot-max-g3/>Segway Ninebot Max G3</a> la de la autonomía y la construcción, ambos a precios superiores. El Evercross responde con más carga máxima, intermitentes de serie y un precio de unos 275 € difícil de igualar. **Veredicto:** merece la pena para quien hace commuting urbano y valora potencia y equipamiento por euro; no es la mejor compra para quien priorice una red oficial de servicio en España o ruedas neumáticas confortables. 
 
 ## Preguntas frecuentes
 
-### ¿Qué vale el EV10K Pro?
+### ¿Cuánto cuesta el Evercross EV10K Pro?
+Unos **275 €** al cambio en Amazon.
 
-Alrededor de 275 € al cambio comprándolo en Amazon.
+### ¿Tiene intermitentes?
+Sí: **delanteros y traseros**, algo raro en este precio.
 
-### ¿Lleva intermitentes de serie?
+### ¿Qué autonomía real tiene?
+Unos **24 km** en uso mixto.
 
-Sí: en la parte delantera y en la trasera, algo raro en este precio.
+### ¿Aguanta 150 kg?
+Esa es su carga máxima declarada.
 
-### ¿Qué alcance real ofrece?
+### ¿Es legal en España?
+**Ajustado a 25 km/h**, sí.
 
-Aproximadamente 24 km mezclando ciudad y tramos abiertos.
-
-### ¿Soporta de verdad 150 kg?
-
-Sí, 150 kg es la carga tope que anuncia la marca.
-
-### ¿Se puede usar legalmente en España?
-
-Sí, capado a 25 km/h.
-
-### ¿Compensa frente al EV85F?
-
-Con unos 45 € extra subes a 500 W en vez de 350 W, ganas batería y sumas intermitentes. Sí, siempre que el presupuesto alcance.
+### ¿Merece la pena frente al EV85F?
+Por ~45 € más tienes 500 W (frente a 350 W), más batería e intermitentes. Sí, si el presupuesto llega.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
@@ -1580,9 +1575,9 @@ Con unos 45 € extra subes a 500 W en vez de 350 W, ganas batería y sumas inte
   },
   {
     slug: "evercross-ev85f",
-    title: "Evercross EV85F: patinete ligero de 350 W por 230 €",
+    title: "Evercross EV85F: 350 W con app por 230 €",
     excerpt:
-      "El EV85F de Evercross pesa 15 kg, rinde unos 20 km reales y se controla desde la app: repaso de precio, frenos y límites legales en España.",
+      "El Evercross EV85F es el urbanita barato: 350 W, 15 kg, app propia y doble freno por ~230 €. Precio, autonomía y ficha.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -1599,11 +1594,11 @@ Con unos 45 € extra subes a 500 W en vez de 350 W, ganas batería y sumas inte
     ],
     content: `<img src=/media/patinetes/evercross-ev85f-1.webp alt=Evercross EV85F negro, vista lateral completa del patinete>
 
-**¿Solo quieres cifras?** <a href=/patinetes/evercross-ev85f/>Ficha del EV85F</a> con precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con otros modelos</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/evercross-ev85f/>Ver ficha técnica del Evercross EV85F</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Dentro del catálogo de Evercross, el EV85F ocupa el escalón más económico: impulsa con 350 W, almacena 36 V y 7,8 Ah, o sea, 281 Wh, marca 15 kg en báscula y se gestiona con EVERCROSS PRO, todo por alrededor de 230 €. Está pensado para combinarlo con bus, metro o tren en desplazamientos urbanos cortos.
+El **Evercross EV85F** es el más barato de la comparativa Evercross: **350 W**, batería de **36 V y 7,8 Ah (281 Wh)**, **15 kg** y app **EVERCROSS PRO**, por **~230 €**. El urbanita para combinar con el transporte público.
 
-## Datos esenciales de un vistazo
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -1618,27 +1613,27 @@ Dentro del catálogo de Evercross, el EV85F ocupa el escalón más económico: i
 | **Ruedas** | 8,5" |
 | **Frenos** | E-ABS + disco |
 
-Si necesitas cada especificación, consulta la <a href=/patinetes/evercross-ev85f/>ficha completa del EV85F</a>, donde están todos los valores contrastados.
+¿Quieres el detalle completo? <a href=/patinetes/evercross-ev85f/>Ficha técnica completa del Evercross EV85F</a> con todos los datos verificados.
 
-## Cuánto vale en España
+## Precio del Evercross EV85F en España
 
-En Amazon aparece a 249,99 $, lo que deja el desembolso en torno a 230 € al convertir la divisa. Dentro de la familia Evercross, ningún otro modelo baja tanto, así que lidera su gama por precio.
+Unos **230 €** al cambio (249,99 $) en Amazon. Es el claro ganador en precio de la gama Evercross.
 
 <img src=/media/patinetes/evercross-ev85f-2.webp alt=Detalle del manillar plegable del Evercross EV85F>
 
-## Alcance declarado frente al alcance útil
+## Autonomía real vs declarada
 
-La marca anuncia 30 km, pero con 281 Wh lo prudente es contar con 18-20 km en uso urbano. Esa cifra cubre la ida y la vuelta cuando el trabajo queda cerca, o el tramo final desde la parada de metro.
+Declara **30 km**; con 281 Wh espera **18-20 km** reales. Justo para ir y volver del trabajo si vives cerca, o para el último kilómetro desde el metro.
 
-## Frenada, ruedas y modos
+## Frenos y neumáticos
 
-La frenada suma E-ABS electrónico y disco, la suspensión es doble y las ruedas miden 8,5 pulgadas, un equipo razonable para 350 W. Además ofrece tres ajustes de velocidad: 12, 20 o 25 km/h, y con ellos rueda dentro de la legalidad sin modificar nada.
+**E-ABS + freno de disco**, **doble amortiguación** y ruedas de **8,5 pulgadas**: correcto para 350 W. Tres modos de velocidad (12/20/25 km/h) lo dejan legal de serie.
 
-## Certificación DGT y reglas VMP
+## Certificado DGT y normativa VMP
 
-No se ha verificado ningún certificado DGT para este modelo. Como sus ajustes no superan los 25 km/h, respeta de serie la normativa de vehículos de movilidad personal: no puede usarse en aceras y debe circular por carril bici o calzada.
+Sin certificado DGT verificado. Con modos de hasta 25 km/h cumple la normativa VMP de serie: prohibido en **aceras**, por carril bici o calzada.
 
-## Lo mejor y lo mejorable
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -1650,13 +1645,13 @@ No se ha verificado ningún certificado DGT para este modelo. Como sus ajustes n
 
 <img src=/media/patinetes/evercross-ev85f-3.webp alt=Evercross EV85F junto al transporte público>
 
-## Dónde encaja dentro de Evercross
+## Contexto: el patinete de entrada de Evercross
 
-Evercross ha ganado presencia en Europa con patinetes asequibles vendidos en grandes plataformas, en una gama escalonada que arranca en lo urbano básico y llega a modelos de rueda grande. El EV85F abre esa escalera: una máquina sencilla y ligera para estrenarse en la movilidad personal eléctrica sin pagar lo que vale una bicicleta. Por unos 230 €, su papel es el tramo final: plegarlo, subirlo al metro y abrirlo al bajar, con EVERCROSS PRO para bloqueo y estadísticas como guiño tecnológico.
+Evercross se ha hecho un hueco en el mercado europeo vendiendo patinetes eléctricos asequibles a través de grandes plataformas, con una gama escalonada que va del urbano básico al modelo de ruedas grandes. El EV85F es el primer escalón: la máquina sencilla y ligera pensada para quien quiere probar la movilidad eléctrica personal sin gastar lo que cuesta una bicicleta. Su propuesta, por unos **230 €**, es la del último kilómetro: plegarlo, subirlo al metro y desplegarlo al bajar, con la app **EVERCROSS PRO** para bloqueo y estadísticas como toque tecnológico.
 
-## Técnica sin adornos: energía y frenada
+## Profundidad técnica: 281 Wh honestos y frenada doble
 
-El conjunto apuesta por la sencillez deliberada: un motor de 350 W alimentado por 36 V y 7,8 Ah, es decir, 281 Wh, ruedas de 8,5 pulgadas y suspensión en ambos ejes. Esa frenada doble no la ofrecen todos sus rivales de precio, y combina bien con sus tres ajustes de velocidad: 12, 20 o 25 km/h.
+El conjunto es deliberadamente simple: motor de **350 W**, batería de **36 V y 7,8 Ah (281 Wh)** y ruedas de **8,5 pulgadas** con doble amortiguación. La frenada combina **E-ABS electrónico y freno de disco**, una solución doble que en este rango de precio no todos ofrecen y que casa con sus tres modos de velocidad —12, 20 y 25 km/h— que lo mantienen dentro de la legalidad de serie, como ya detalla este artículo.
 
 | Dato | EV85F |
 |---|---|
@@ -1667,52 +1662,51 @@ El conjunto apuesta por la sencillez deliberada: un motor de 350 W alimentado po
 | Carga máxima | 120 kg |
 | Precio | ~230 € |
 
-Con solo 281 Wh, conviene planificar con 18-20 km como referencia útil: el peso de quien conduce y las pendientes restan alcance antes que la velocidad máxima.
+Con 281 Wh, la física manda: los **18-20 km reales** que estima este análisis son la cifra con la que hay que planificar, y el peso del conductor y las cuestas recortan antes que la velocidad punta.
 
-## La norma que puede decidir la compra
+## Normativa VMP: el punto que decide esta compra
 
-Este es el punto que más pesa en España. Para este modelo no consta ningún certificado DGT verificado. La <a href=https://www.dgt.es/nuestros-servicios/para-colaboradores-y-empresas/vehiculos-de-movilidad-personal-vmp/distribuidores/>web oficial de la DGT</a> recuerda que los VMP puestos a la venta desde el 22 de enero de 2024 necesitan certificado de circulación. Desde el 22 de enero de 2027, únicamente podrán rodar los VMP con dicho certificado. En la práctica, eso pone fecha límite legal en España a un modelo sin certificado, a lo que se añade el marco nuevo de registro y seguro obligatorio que se está implantando para los VMP. Mientras tanto, solo puede rodar por carril bici o calzada, jamás por aceras, y sin pasar de 25 km/h.
+Aquí está la parte que de verdad importa en España. El EV85F **no tiene certificado DGT verificado**, según consta ya en este artículo. La <a href=https://www.dgt.es/nuestros-servicios/para-colaboradores-y-empresas/vehiculos-de-movilidad-personal-vmp/distribuidores/>DGT recuerda en su web oficial</a> que los VMP comercializados desde el 22 de enero de 2024 deben disponer de certificado de circulación, y que **a partir del 22 de enero de 2027 solo podrán circular los VMP que dispongan de dicho certificado**. Traducción práctica: un modelo sin certificado tiene fecha de caducidad legal en España, y a eso se suma el nuevo marco de registro y seguro obligatorio que está desplegándose para los VMP. Su circulación mientras tanto debe hacerse por carril bici o calzada, nunca por aceras, a un máximo de 25 km/h.
 
-## Día a día, cuidados y gastos
+## Uso real, mantenimiento y costes
 
-En uso diario responde a lo prometido: 15 kg fáciles de subir a un piso sin ascensor, plegado veloz y un gasto por kilómetro casi nulo si se carga en casa. Funciona como complemento del abono transporte: cubre el trayecto de la estación a la oficina mejor que a pie y sin pagar un patinete de gama media, siempre que la ruta sea corta, llana y por vías permitidas, que es justo el empleo para el que se diseñó. El cuidado que pide es el mínimo de un VMP de rueda pequeña: vigilar presión y desgaste de los neumáticos, ajustar el freno de disco, revisar la tornillería del plegado y proteger la batería sin dejarla descargada del todo durante mucho tiempo. Sus límites también están claros: ruedas de 8,5 pulgadas cortas ante bordillos y baches, ausencia de intermitentes y una asistencia de marca vinculada a la plataforma de venta, sin red de tiendas en España.
+En el día a día cumple su promesa: 15 kg que se suben a un piso sin ascensor, plegado rápido y coste por kilómetro casi nulo cargando en casa. Es, en la práctica, un complemento del abono transporte: resuelve el tramo entre la estación y la oficina mejor que caminando y sin el coste de un patinete de gama media, siempre que el recorrido sea corto, llano y por vías permitidas, que es exactamente el uso para el que fue diseñado. El mantenimiento es el mínimo de un VMP de ruedas pequeñas: presión y desgaste de neumáticos, ajuste del freno de disco, tornillería del plegado y cuidado de la batería evitando descargas completas prolongadas. Sus límites son igual de claros: ruedas de 8,5 pulgadas justas ante bordillos y baches, sin intermitentes y un soporte de marca ligado a la plataforma de venta, sin red física en España.
 
-## Alternativa en casa y valoración final
+## Rivales y veredicto: ¿merece la pena?
 
-La competencia vive en la misma marca: el <a href=/patinetes/evercross-ev10k-pro/>Evercross EV10K Pro</a> alcanza 500 W, 410 Wh y 35 km anunciados, con unos 24 reales, por alrededor de 275 € según su ficha, suma intermitentes y admite hasta 150 kg. Por alrededor de 45 € más, ofrece objetivamente más patinete y más seguridad. El EV85F solo vence en precio y en pesar un kilo menos.
+El rival está en casa: el <a href=/patinetes/evercross-ev10k-pro/>Evercross EV10K Pro</a> sube a 500 W, 410 Wh, 35 km declarados y unos 24 reales por unos 275 € según su ficha, añade intermitentes y soporta hasta 150 kg. Por unos 45 € más, es objetivamente más patinete y más seguro. El EV85F solo gana en precio y en un kilo menos de peso.
 
-**Veredicto:** solo compensa como patinete de tramo final con presupuesto ajustado y aceptando su horizonte normativo: sin certificado, su vida legal en España acaba en enero de 2027. Si lo vas a usar a diario, el EV10K Pro es la opción aconsejable de la gama.
+**Veredicto:** merece la pena únicamente como patinete de último kilómetro con presupuesto mínimo y asumiendo su horizonte normativo: si no obtiene certificado, su vida legal en España termina en enero de 2027. Para un uso diario serio, el EV10K Pro es la compra recomendable de la gama. 
 
 ## Preguntas frecuentes
 
-### ¿Cuánto vale el Evercross EV85F?
-Alrededor de 230 € al convertir su precio en Amazon.
+### ¿Cuánto cuesta el Evercross EV85F?
+Unos **230 €** al cambio en Amazon.
 
-### ¿Cuántos kilómetros reales da?
-Alrededor de 20 km en uso urbano.
+### ¿Qué autonomía real tiene?
+Unos **20 km** en ciudad.
 
 ### ¿Es legal en España?
-Sí, porque sus ajustes no pasan de 25 km/h.
+Sí: sus modos llegan a **25 km/h** de serie.
 
-### ¿Cuánto pesa?
-15 kg, fáciles de subir al metro.
+### ¿Pesa poco?
+**15 kg**: se sube al metro sin drama.
 
 ### ¿Tiene app?
-Sí, la EVERCROSS PRO, que bloquea el patinete y registra estadísticas.
+Sí: **EVERCROSS PRO** con bloqueo y estadísticas.
 
 ### ¿Merece la pena?
-En trayectos cortos con presupuesto mínimo, no tiene rival. Para más, el EV10K Pro.
+Para trayectos cortos y presupuesto mínimo, es imbatible. Para más, el EV10K Pro.
 
-¿Te multaron mientras circulabas con tu patinete? <a href=https://recurretumulta.online/#analizador>Revisa tu multa gratis con la IA</a> antes de pagar: te diremos si se puede recurrir.
+¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://www.amazon.co.uk/dp/B0CXPL461V/ref=cm_sw_r_cso_cp_apin_dp_6Y6XXBE5AJNKQ5ZXM8JK>ficha del EV85F en Amazon UK</a>. <a href=https://www.dgt.es/nuestros-servicios/para-colaboradores-y-empresas/vehiculos-de-movilidad-personal-vmp/distribuidores/>DGT — certificación de VMP (web oficial)</a>*
-`,
+*Fuentes: <a href=https://www.amazon.co.uk/dp/B0CXPL461V/ref=cm_sw_r_cso_cp_apin_dp_6Y6XXBE5AJNKQ5ZXM8JK>ficha del EV85F en Amazon UK</a>. <a href=https://www.dgt.es/nuestros-servicios/para-colaboradores-y-empresas/vehiculos-de-movilidad-personal-vmp/distribuidores/>DGT — certificación de VMP (web oficial)</a>*`,
   },
   {
     slug: "evercross-ev08e",
-    title: "Evercross EV08E: patinete con sillín por 230 €",
+    title: "Evercross EV08E: el más barato con sillín",
     excerpt:
-      "Asiento de serie por unos 230 €: así es el EV08E, un patinete de 350 W con doble disco, 32 km declarados y ruedas que no pinchan.",
+      "El Evercross EV08E pone sillín a un 350 W por ~230 €: doble disco, 32 km declarados y plegable. La opción más barata con asiento.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -1731,9 +1725,9 @@ En trayectos cortos con presupuesto mínimo, no tiene rival. Para más, el EV10K
 
 **¿Buscas solo los datos?** <a href=/patinetes/evercross-ev08e/>Ver ficha técnica del Evercross EV08E</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Pocos vehículos de movilidad personal resultan tan directos como este Evercross: un patinete con asiento incorporado que se vende por unos 230 € y que apuesta por lo esencial, motor de 350 W, 32 km declarados y doble disco (<a href=https://www.levyelectric.com/resources/evercross-electric-scooter-complete-guide-app-setup-review>Levy Electric</a>). Un utilitario sin adornos.
+El **Evercross EV08E** es el capricho barato con sillín: **350 W**, **32 km** declarados, **doble freno de disco** y **asiento de serie** por **~230 €** (<a href=https://www.levyelectric.com/resources/evercross-electric-scooter-complete-guide-app-setup-review>Levy Electric</a>). El utilitario puro.
 
-## Datos clave de un vistazo
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -1750,25 +1744,25 @@ Pocos vehículos de movilidad personal resultan tan directos como este Evercross
 
 ¿Quieres el detalle completo? <a href=/patinetes/evercross-ev08e/>Ficha técnica completa del Evercross EV08E</a> con todos los datos verificados.
 
-## Lo que cuesta en España
+## Precio del Evercross EV08E en España
 
-En España se mueve alrededor de los 230 € al cambio, una cifra que ningún otro modelo con asiento alcanza por abajo.
+Unos **230 €** al cambio. Ningún otro patinete con sillín baja tanto.
 
 <img src=/media/patinetes/evercross-ev08e-2.webp alt=Detalle del sillín del Evercross EV08E>
 
-## Autonomía: lo anunciado frente a lo esperable
+## Autonomía real vs declarada
 
-La ficha anuncia 32 km, pero con una batería de 281 Wh y un peso de 24,7 kg lo razonable es contar con unos 22 km en uso normal. El asiento empuja a rodar sin prisas, y ese ritmo pausado ayuda a estirar la carga.
+Declara **32 km**; con 281 Wh y 24,7 kg, calcula **unos 22 km**. El peso lastra, pero el sillín invita a un ritmo tranquilo que ahorra batería.
 
-## Frenada y ruedas
+## Frenos y neumáticos
 
-El equipo de frenos va por encima de lo que pide un motor de 350 W: dos discos que dan un margen generoso en un aparato económico. Las gomas, macizas y de 8 pulgadas, olvidan los pinchazos, aunque su tamaño reducido se nota cuando el asfalto está roto.
+**Doble disco** en un 350 W: sobredimensionado en el buen sentido. Ruedas **macizas de 8 pulgadas**: sin pinchazos, pero pequeñas e incómodas en firme roto.
 
-## Papeles y normas para circular
+## Certificado DGT y normativa VMP
 
-No hay constancia de certificado DGT verificado para este modelo. Tal como sale de fábrica circula a 24 km/h, y conviene dejarlo así: la normativa VMP exige ese límite, y subirlo hasta 30 lo dejaría fuera de juego. Y, en cualquier caso, la acera no es su sitio.
+Sin certificado DGT verificado. De serie va a **24 km/h** (ampliable a 30): déjalo como viene para cumplir la normativa VMP y no pises la **acera**.
 
-## Lo bueno y lo menos bueno
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -1780,11 +1774,11 @@ No hay constancia de certificado DGT verificado para este modelo. Tal como sale 
 
 <img src=/media/patinetes/evercross-ev08e-3.webp alt=Evercross EV08E en un paseo urbano>
 
-## Evercross y su idea del patinete con asiento
+## Evercross: patinetes baratos con sillín, una fórmula propia
 
-Evercross compite con precios rompedores y vende en Europa sobre todo por internet. Dentro de ese catálogo, el EV08E ocupa un hueco raro: nadie más entrega un patinete con asiento montado por unos 230 €, cuando la competencia ni siquiera lo contempla como extra. No busca ser el compañero ligero del metro, sino un vehículo sencillo para moverse sentado en distancias cortas. Quien prefiera potencia y conectividad tiene en la misma marca el <a href=/patinetes/evercross-h5/>Evercross H5</a>, con 800 W, aplicación móvil y un sobreprecio aproximado de 260 €.
+Evercross es una marca de movilidad eléctrica de precio agresivo cuya gama se vende en Europa a través de tiendas en línea, y el EV08E es su propuesta más singular: un patinete **con sillín de serie** por unos **230 €**, un precio en el que la mayoría de rivales ni siquiera ofrece asiento como accesorio. Su planteamiento no es el del patinete ligero para combinar con el metro, es el del utilitario puro para trayectos cortos sentado, la lectura que el post original hace desde su primera línea. Dentro de la marca, el <a href=/patinetes/evercross-h5/>Evercross H5</a> ofrece 800 W y app por unos 260 € más para quien quiera prestaciones en vez de asiento.
 
-## Mecánica simple, sin complicaciones
+## 350 W y ruedas macizas de 8 pulgadas: sencillez por encima de todo
 
 | Dato | Evercross EV08E |
 |---|---|
@@ -1797,45 +1791,45 @@ Evercross compite con precios rompedores y vende en Europa sobre todo por intern
 | Ruedas | 8 pulgadas macizas |
 | Frenos | Doble disco |
 
-Todo en el EV08E respira simplicidad: motor de 350 W, acumulador de 281 Wh y gomas macizas de 8 pulgadas que descartan el pinchazo aunque restan confort cuando el pavimento se estropea. El freno de doble disco queda holgado para la potencia disponible, y en un aparato de este precio eso es una virtud: mejor que sobre freno a que falte. El lastre son los 24,7 kg, fruto del asiento y de su estructura, que lo condenan al garaje o al trastero; no es un patinete para subir a un cuarto sin ascensor.
+La técnica del EV08E es la de la sencillez absoluta: **350 W**, una batería de **281 Wh** y **ruedas macizas de 8 pulgadas** que eliminan los pinchazos a cambio de comodidad en firme roto, como señala el análisis original. El **doble freno de disco** está sobredimensionado para su potencia, en el buen sentido: en un vehículo barato, que el freno sobre y no falte es la decisión correcta. Los **24,7 kg** de peso son su peaje estructural: el sillín y su chasis pesan, y hacen de este patinete algo que se guarda en el garaje o el trastero, no algo que se suba a un cuarto piso sin ascensor.
 
-## Para qué sirve en el día a día
+## Uso real: trayectos cortos sentado, sin prisa y sin aceras
 
-Su terreno natural son los recorridos breves hechos sentado: recados por el barrio, vueltas por la urbanización o paseos calmados a velocidad moderada, un uso que además alarga la batería. Con cerca de 22 km reales, su ámbito es el barrio o el pueblo, no cruzar una gran ciudad de extremo a extremo. También tiene fronteras nítidas: las gomas pequeñas y rígidas sufren con adoquines y baches, carece de app y de conexión, y su peso lo deja fuera del transporte público y de subir escaleras cada día.
+El EV08E es para quien hace trayectos cortos y prefiere hacerlos **sentado**: repartos de barrio, desplazamientos por urbanizaciones o paseos tranquilos a ritmo moderado, el uso que según el post original invita su sillín y que además ahorra batería. Con unos **22 km reales** de autonomía, su radio de acción es el del barrio y el pueblo, no el de la gran ciudad de punta a punta. Sus límites son igualmente claros: las ruedas pequeñas macizas castigan en adoquines y baches, no tiene app ni conectividad, y su peso lo descarta para llevarlo en transporte público o subirlo por escaleras a diario.
 
-## Cuidarlo sin gastar de más
+## Mantenimiento: sin pinchazos no significa sin cuidados
 
-No existen precios oficiales de mantenimiento que reseñar: en esta gama, el servicio pasa por repuestos y talleres de movilidad, no por programas de revisiones del fabricante. De su ficha se deduce el plan de cuidados: las gomas macizas suprimen el gasto en pinchazos y cámaras, el freno de doble disco pide controlar el desgaste de las pastillas, igual que cualquier freno mecánico, y el acumulador de 281 Wh es la pieza a mimar, almacenada con carga parcial y apartada del calor o el frío intensos. La recomendación práctica es adquirirlo solo si el vendedor garantiza repuestos básicos accesibles: un patinete de 230 € sin piezas se vuelve chatarra ante el primer desgaste importante.
+No hay tarifas oficiales de mantenimiento del EV08E que publicar, porque en este segmento el servicio se resuelve con recambios y talleres de movilidad, no con planes de revisiones de marca. Lo verificable por su ficha es el mapa de cuidados: las **ruedas macizas** eliminan la partida de pinchazos y cámaras, el **doble disco** exige revisar pastillas como en cualquier freno mecánico, y la batería de 281 Wh es el componente a proteger, guardándola cargada parcialmente y lejos de temperaturas extremas. El consejo práctico de este segmento es comprar solo si el vendedor ofrece recambios básicos localizables, porque un patinete de 230 € sin piezas disponibles se convierte en residuo al primer desgaste serio.
 
-## Legalidad: bien de fábrica, mal si se toca
+## Normativa VMP: de serie cumple, deslimitado deja de cumplir
 
-Tal como sale de fábrica, el EV08E está capado a 24 km/h, con lo que satisface la exigencia básica para los VMP en España; la norma oficial se puede consultar en la <a href=https://www.dgt.es/nuestros-servicios/en-detalle/vehiculos-de-movilidad-personal/>página de VMP de la DGT</a>. El aviso importante es otro: la velocidad puede elevarse hasta unos 30 km/h, y quitarle el límite lo deja fuera de la legalidad como VMP, con posible sanción añadida. Y sin certificado DGT verificado no se puede afirmar que reúna cada requisito de homologación que la norma pide a los VMP nuevos; rodar por la acera, en todo caso, está prohibido.
+El EV08E llega de serie limitado a **24 km/h**, y así cumple el requisito esencial de los vehículos de movilidad personal en España, cuya regulación oficial puede consultarse en la <a href=https://www.dgt.es/nuestros-servicios/en-detalle/vehiculos-de-movilidad-personal/>página de VMP de la DGT</a>. El propio post original avisa del punto crítico: la velocidad es ampliable a unos 30 km/h, y **deslimitarlo lo saca de la legalidad** como VMP, además de poder acarrear sanción. Sin **certificado DGT verificado**, tampoco puede darse por hecho que cumpla todos los requisitos de certificación que la normativa exige a los VMP nuevos, y circular por la **acera está prohibido** en cualquier caso.
 
-## Contra el H5 y los modelos sin asiento: conclusión
+## Frente al Evercross H5 y a los patinetes sin sillín: veredicto
 
-La disyuntiva dentro de la marca queda clara en las preguntas de abajo: el H5 aporta 800 W y aplicación por un extra cercano a 260 €, mientras el EV08E contraataca con asiento y precio mínimo. Ante los patinetes corrientes sin asiento de su rango, el Evercross sacrifica peso pluma y ruedas solventes a cambio de ir sentado y de un freno doble generoso. Las opciones del mercado se pueden cotejar en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
+La comparación interna la resuelve la FAQ de este post: el H5 tiene **800 W y app** por unos 260 € más; el EV08E responde con el sillín y el precio mínimo. Frente a los patinetes convencionales sin asiento de su precio, el Evercross cambia ligereza y ruedas decentes por la postura sentada y el doble disco. Puedes comparar las alternativas del mercado en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
 
-**¿Compensa?** Cuando el asiento no se negocia y el bolsillo manda, rinde lo anunciado por unos 230 €. **A favor de comprarlo:** recorridos breves sobre llano y un rincón donde guardarlo sin levantarlo. **En contra:** si hay que subirlo por escaleras, si el día a día supera los 20 km o si se exige plena seguridad de certificación DGT: entonces toca invertir más en un VMP certificado y liviano.
+**¿Merece la pena?** Si el sillín es innegociable y el presupuesto es mínimo, cumple lo que promete por unos 230 €. **Para quién sí:** para trayectos cortos por terreno llano, con sitio para guardarlo sin cargarlo. **Para quién no:** para quien suba escaleras con él, haga más de 20 km diarios o necesite certeza total de certificación DGT: debe gastar más en un VMP certificado y ligero.
 
 ## Preguntas frecuentes
 
-### ¿Cuál es su precio?
-Alrededor de 230 € al cambio.
+### ¿Cuánto cuesta el Evercross EV08E?
+Unos **230 €** al cambio.
 
-### ¿Resulta pesado?
-Sí: 24,7 kg entre asiento y estructura.
+### ¿Pesa mucho?
+Sí: **24,7 kg**. El sillín y el chasis pesan.
 
-### ¿Qué alcance real ofrece?
-Cerca de 22 km rodando con calma.
+### ¿Qué autonomía real tiene?
+Unos **22 km** en uso tranquilo.
 
-### ¿Se puede usar legalmente en España?
-De fábrica, limitado a 24 km/h, sí.
+### ¿Es legal en España?
+De serie (24 km/h), sí.
 
-### ¿Incluye aplicación móvil?
-No, no trae conectividad.
+### ¿Tiene app?
+No: sin conectividad.
 
-### ¿Sale a cuenta antes que el H5?
-El H5 añade 800 W y aplicación por un extra cercano a 260 €; si el asiento no se negocia y el dinero aprieta, el EV08E cumple.
+### ¿Merece la pena frente al H5?
+El H5 tiene 800 W y app por ~260 € más. Si el sillín es innegociable y el presupuesto manda, el EV08E cumple.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
@@ -1843,9 +1837,9 @@ El H5 añade 800 W y aplicación por un extra cercano a 260 €; si el asiento n
   },
   {
     slug: "evercross-ev10-max",
-    title: "Evercross EV10 Max: 1.200 W y 64 km declarados",
+    title: "Evercross EV10 Max: 1.200 W y 64 km",
     excerpt:
-      "El Evercross EV10 Max encabeza la gama con 1.200 W y 64 km declarados, pero llega sin precio oficial, sin batería publicada y sin certificado DGT.",
+      "El Evercross EV10 Max es el tope de la marca: 1.200 W, 64 km declarados y neumáticos de 10 pulgadas. Ficha técnica y análisis.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -1864,7 +1858,7 @@ El H5 añade 800 W y aplicación por un extra cercano a 260 €; si el asiento n
 
 **¿Buscas solo los datos?** <a href=/patinetes/evercross-ev10-max/>Ver ficha técnica del Evercross EV10 Max</a>: motor, autonomía y frenos. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Sobre el papel, el Evercross EV10 Max encabeza la gama de la marca: 1.200 W, 64 km declarados (40 millas), ruedas de 10 pulgadas, neumáticas, y frenada con doble disco, según recoge <a href=https://www.igeekphone.com/zooming-into-the-future-what-to-know-before-buying-an-evercross-electric-scooter/>iGeekPhone</a>. El problema: el fabricante difunde poquísimos datos oficiales de esta variante.
+El **Evercross EV10 Max** es el 'tope' de la marca sobre el papel: **1.200 W**, **64 km** de autonomía declarada (40 millas), **neumáticos de 10 pulgadas** y **doble freno de disco** (<a href=https://www.igeekphone.com/zooming-into-the-future-what-to-know-before-buying-an-evercross-electric-scooter/>iGeekPhone</a>). Pero ojo: el fabricante publica poquísimos datos oficiales.
 
 ## Ficha técnica resumida
 
@@ -1879,23 +1873,23 @@ Sobre el papel, el Evercross EV10 Max encabeza la gama de la marca: 1.200 W, 64 
 
 ¿Quieres el detalle completo? <a href=/patinetes/evercross-ev10-max/>Ficha técnica completa del Evercross EV10 Max</a> con todos los datos verificados.
 
-## Precio en España
+## Precio del Evercross EV10 Max en España
 
-No hay precio oficial publicado ni una distribución europea clara. Fuera de EE. UU., localizarlo resulta complicado.
+Sin precio oficial publicado ni distribución clara en Europa. Es un modelo difícil de encontrar fuera de EE. UU.
 
 <img src=/media/patinetes/evercross-ev10-max-2.webp alt=Detalle de la rueda neumática de 10 pulgadas del Evercross EV10 Max>
 
 ## Autonomía real vs declarada
 
-Declara 64 km, pero sin capacidad de batería publicada, la estimación prudente ronda los 43 km. Con 1.200 W, el puño pesa más que la ficha.
+Declara **64 km**; sin dato de batería publicado, una estimación prudente son **unos 43 km** reales. Con 1.200 W, el puño manda más que la ficha.
 
 ## Frenos y neumáticos
 
-Con 1.200 W y una punta cercana a 50 km/h, rodar exige dos discos y gomas neumáticas de 10 pulgadas. Ese mínimo, al menos, viene cubierto de serie.
+**Doble disco** y **neumáticos de 10 pulgadas**: el equipo mínimo exigible para 1.200 W y 50 km/h. Bien por Evercross en no escatimar aquí.
 
 ## Certificado DGT y normativa VMP
 
-No hay certificado DGT verificado. A unos 50 km/h, en España no encaja como VMP: solo tendría sentido capado a 25 km/h, y sin pisar aceras en ningún caso.
+Sin certificado DGT verificado. A **~50 km/h** no es un VMP legal en España: solo tendría sentido **limitado a 25 km/h**, y aun así sin pisar **aceras**.
 
 ## Puntos fuertes y débiles
 
@@ -1909,11 +1903,11 @@ No hay certificado DGT verificado. A unos 50 km/h, en España no encaja como VMP
 
 <img src=/media/patinetes/evercross-ev10-max-3.webp alt=Evercross EV10 Max en una pista todoterreno>
 
-## Evercross: venta directa y potencia barata
+## Evercross: la marca de Amazon que vende potencia barata
 
-Evercross vende movilidad eléctrica de forma directa, con tienda y gama europeas visibles en su <a href=https://evercross.eu>web oficial europea</a>, donde los EV10 urbanos quedan capados a 25 km/h en el mercado comunitario. El EV10 Max de este análisis es distinto: la variante de 1.200 W orientada al mercado estadounidense, sin tarifa oficial europea y sin distribución clara en nuestro continente. Esa doble cara resume el artículo: sobre el papel, el más potente de Evercross, pero la propia marca difunde poquísimos datos oficiales de esta variante, y en un vehículo eléctrico eso invita a la prudencia, no es un detalle menor.
+Evercross es una marca de movilidad eléctrica de venta directa, con tienda y gama europeas consultables en su <a href=https://evercross.eu>web oficial europea</a>, donde los modelos EV10 de calle se limitan a 25 km/h para el mercado comunitario. El EV10 Max que analiza este post es otra cosa: la versión de **1.200 W** pensada para el mercado estadounidense, sin precio oficial europeo ni distribución clara en nuestro continente. Esa dualidad explica el post entero: sobre el papel es el Evercross más potente, pero la propia marca publica poquísimos datos oficiales de esta variante, y eso en un vehículo eléctrico es una señal de prudencia, no un detalle menor.
 
-## Técnica: 1.200 W y batería sin publicar
+## La técnica: 1.200 W sin batería publicada
 
 | Dato | Evercross EV10 Max |
 |---|---|
@@ -1926,45 +1920,45 @@ Evercross vende movilidad eléctrica de forma directa, con tienda y gama europea
 | Batería | Sin dato oficial publicado |
 | Certificado DGT | Sin verificar |
 
-El punto incómodo está en la batería: al no publicarse su capacidad, los 64 km declarados no admiten contraste, y conviene trabajar con los 43 km reales estimados. El equipo de seguridad activa, en cambio, está bien resuelto para semejante potencia: dos discos de freno y gomas neumáticas de 10 pulgadas, el mínimo que cabe pedir cuando un patinete pasa de 40 km/h. Con 1.200 W, la forma de usar el acelerador pesa más en el gasto que en un VMP urbano, y las pendientes que frenan a sus hermanos pequeños aquí se superan sin apuro.
+La lectura técnica es incómoda: sin capacidad de batería publicada no se puede contrastar la autonomía declarada de **64 km**, y la estimación prudente del análisis original, unos **43 km reales**, es la cifra con la que hay que trabajar. Lo que sí está bien resuelto es el equipo de seguridad activa para semejante potencia: **doble freno de disco** y neumáticos de 10 pulgadas, el mínimo exigible cuando un patinete supera los 40 km/h. Con 1.200 W, el consumo depende del puño mucho más que en un VMP urbano, y las subidas dejan de ser un problema que sí tienen sus hermanos pequeños.
 
-## Uso real: finca y circuito, no ciudad española
+## Uso real: un patinete de finca y circuito, no de ciudad española
 
-Dicho claro: con una punta cercana a 50 km/h, circular con él por calles españolas queda fuera de la ley, de modo que en España solo cabe usarlo en recintos privados. Para moverse por ciudad dentro de la norma, la marca propone opciones capadas, como el <a href=/patinetes/evercross-h7/>Evercross H7</a>: 45 km declarados y 25 kg en su ficha. Importarlo para uso privado implica aceptar un mantenimiento en manos de especialistas —no existe una red de talleres Evercross en España a la altura de las marcas consolidadas— y comparar antes en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
+Hay que decirlo sin rodeos: a unos 50 km/h, este EV10 Max no puede circular legalmente por la vía pública española, así que su uso real aquí queda reducido a espacios privados. Para trayectos urbanos legales, la propia casa ofrece alternativas limitadas como el <a href=/patinetes/evercross-h7/>Evercross H7</a>, con 45 km de autonomía declarada y 25 kg según su ficha. Quien lo importe para uso privado debe asumir además que el mantenimiento será de especialista, como ya advierte el análisis, porque no hay una red Evercross de taller en España comparable a la de las marcas asentadas. Compáralo con el resto en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
 
-## Costes y mantenimiento: sin cifras de la marca, sin inventos
+## Mantenimiento y costes: lo que no publica la marca, no lo inventamos
 
-De esta variante, la marca no difunde tarifas de taller ni cifras de batería citables, y aquí no se van a inventar. Lo verificable en un patinete con dos discos y gomas de 10 pulgadas es el gasto habitual de su clase: pastillas y discos, cubiertas y cámaras, más el cuidado de una batería cuya capacidad oficial ni siquiera se conoce. Antes de cerrar la compra de una unidad importada, pide por escrito quién cubre garantía y repuestos: el análisis de partida ya advierte que solo sale a cuenta con respaldo local y precio bajo.
+Evercross no publica tarifas de mantenimiento ni datos de batería de esta variante que podamos citar, y no los inventamos. Lo verificable en un patinete de doble disco y ruedas neumáticas de 10 pulgadas es el gasto ordinario de su clase: pastillas y discos de freno, neumáticos y cámaras, y el cuidado de una batería de la que ni siquiera conocemos la capacidad oficial. Antes de comprar una unidad importada conviene exigir por escrito quién responde de la garantía y de los recambios, porque el análisis original ya señala que solo compensa con garantía local y buen precio.
 
-## Normativa: VMP, 25 km/h y certificado DGT
+## Normativa: VMP, 25 km/h y certificación de la DGT
 
-La norma española reserva la categoría de vehículo de movilidad personal a los patinetes cuya velocidad máxima de construcción no pasa de 25 km/h, que no usan las aceras y que cuentan con la certificación exigida por la <a href=https://www.dgt.es>DGT</a>. El EV10 Max, con sus 50 km/h aproximados, se sitúa fuera de esa categoría incluso con limitación electrónica, porque el tope debe venir de fábrica y el modelo necesita certificado. Conclusión normativa sin cambios: sin certificado DGT verificado, en España no es un VMP legal.
+En España un patinete es vehículo de movilidad personal solo si su velocidad máxima por construcción no supera los **25 km/h**, no circula por aceras y cumple la certificación que exige la <a href=https://www.dgt.es>DGT</a>. El EV10 Max, a unos 50 km/h, queda fuera de esa categoría aunque se limite electrónicamente, porque la limitación debe ser de fábrica y el modelo debe contar con certificado. La conclusión normativa del post original se mantiene intacta: sin certificado DGT verificado, no es un VMP legal en España.
 
-## Frente al H7 y al Xiaomi 4 Pro: veredicto
+## Frente al Evercross H7 y al Xiaomi Electric Scooter 4 Pro: veredicto
 
-Las referencias con ficha en esta casa compiten en otro escalón: el legal. El <a href=/patinetes/evercross-h7/>Evercross H7</a> anuncia 45 km y 25 kg en su ficha: menos fuerza, pero un producto concebido para la calle. El <a href=/patinetes/xiaomi-electric-scooter-4-pro/>Xiaomi Electric Scooter 4 Pro</a> registra 55 km declarados y apenas 17 kg, con la red comercial de Xiaomi en España detrás. Frente a ambos, el EV10 Max impone su potencia bruta por un margen enorme y cede en el resto de lo que importa para rodar aquí: legalidad, datos publicados y posventa.
+Sus referencias con ficha en esta casa juegan en otra liga, la legal. El <a href=/patinetes/evercross-h7/>Evercross H7</a> declara 45 km de autonomía y pesa 25 kg según su ficha: menos potencia, pero un producto pensado para calle. El <a href=/patinetes/xiaomi-electric-scooter-4-pro/>Xiaomi Electric Scooter 4 Pro</a> figura con 55 km declarados y solo 17 kg, con el respaldo comercial de Xiaomi en España. El EV10 Max gana a ambos en potencia bruta por un margen enorme y pierde en todo lo demás que importa para circular aquí: legalidad, datos publicados y posventa.
 
-Solo tiene sentido como juguete para recinto privado, con garantía local por escrito y precio de saldo. **Para quién sí:** para quien priorice la potencia dentro de un recinto privado y acepte importar la unidad. **Para quién no:** para rodar por ciudad en España: ahí imponen su ley los VMP con certificado de 25 km/h.
+**¿Merece la pena?** Solo como capricho de uso privado con garantía local confirmada y a precio de ganga. **Para quién sí:** para quien busque potencia en recinto privado y asuma la importación. **Para quién no:** para cualquier uso urbano en España: ahí mandan los VMP certificados de 25 km/h.
 
-## Preguntas y respuestas
+## Preguntas frecuentes
 
 ### ¿Qué potencia tiene el Evercross EV10 Max?
-La cifra más alta dentro del catálogo de la marca: **1.200 W**.
+**1.200 W**, el motor más potente del catálogo Evercross.
 
 ### ¿Qué autonomía declara?
-**64 km** (40 millas) declarados; en uso real, calcula unos 43 km.
+**64 km** (40 millas); calcula unos 43 km reales.
 
 ### ¿Es legal en España?
-Como VMP, no: su punta ronda 50 km/h. Solo encajaría con el tope de 25 km/h.
+A 50 km/h, no como VMP. Solo limitado a 25 km/h.
 
 ### ¿Cuánto cuesta?
-No hay precio oficial publicado.
+Sin precio oficial publicado.
 
-### ¿Compensa comprarlo?
-Con tan poca información oficial, solo sale a cuenta si aparece con respaldo local y precio bajo. En caso contrario, el H7 da más seguridad de compra.
+### ¿Merece la pena?
+Con tan pocos datos oficiales, solo si lo encuentras con garantía local y a buen precio. Si no, el H7 es compra más segura.
 
 ### ¿Qué ruedas lleva?
-Gomas neumáticas de 10 pulgadas, superiores a las macizas que montan sus hermanos.
+**Neumáticos de 10 pulgadas**, mejores que las macizas de sus hermanos.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
@@ -1994,9 +1988,9 @@ Gomas neumáticas de 10 pulgadas, superiores a las macizas que montan sus herman
   },
   {
     slug: "minimotors-dualtron-victor-luxury-plus",
-    title: "Dualtron Victor Luxury Plus: el patinete alto de 4.400 W",
+    title: "Dualtron Victor Luxury Plus: 4.400 W de pico",
     excerpt:
-      "El Victor alto de Minimotors: dos motores, 2.100 Wh, bastidor elevado 60 mm y pantalla EY4, desde 1.890 € en España.",
+      "El Dualtron Victor Luxury Plus sube el listón: doble motor de 2.000 W, hasta 2.100 Wh, chasis alto y pantalla EY4 desde 1.890 €.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 8,
@@ -2015,9 +2009,9 @@ Gomas neumáticas de 10 pulgadas, superiores a las macizas que montan sus herman
 
 **¿Buscas solo los datos?** <a href=/patinetes/minimotors-dualtron-victor-luxury-plus/>Ver ficha técnica del Dualtron Victor Luxury Plus</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Minimotors ha estirado su Victor rutero para conductores a los que la versión original se les quedaba corta de talla y de recorrido. Esta variante Luxury Plus combina dos motores de 2.000 W cada uno, con un pico conjunto de 4.400 W, un acumulador de 60 V que alcanza los 35 Ah y los 2.100 Wh, un bastidor elevado 60 mm y la pantalla EY4 conectada a la aplicación. En nuestro país lo distribuye <a href=https://vepace.com/products/dualtron-victor-luxury-plus-electric-scooter>Vepace</a> con un precio de partida de 1.890 €.
+El **Dualtron Victor Luxury Plus** es el Victor para los que el Victor se les queda pequeño: **doble motor de 2.000 W** (4.400 W de pico), batería de **60 V hasta 35 Ah (2.100 Wh)**, chasis **60 mm más alto** y pantalla **EY4** con app. En España lo vende <a href=https://vepace.com/products/dualtron-victor-luxury-plus-electric-scooter>Vepace</a> **desde 1.890 €**.
 
-## Resumen en cifras
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -2034,29 +2028,29 @@ Minimotors ha estirado su Victor rutero para conductores a los que la versión o
 
 ¿Quieres el detalle completo? <a href=/patinetes/minimotors-dualtron-victor-luxury-plus/>Ficha técnica completa del Victor Luxury Plus</a> con todos los datos verificados.
 
-## Tarifas según la batería elegida
+## Precio del Dualtron Victor Luxury Plus en España
 
-En Vepace, la tarifa arranca en 1.890 € para el acumulador de 28 Ah, sube a 1.990 € con 31 Ah y alcanza 2.190 € con 35 Ah, cifra que trepa a 2.490 € si se opta por celdas Samsung. Tres acumuladores entre los que elegir según el recorrido habitual.
+**1.890 €** (28 Ah), **1.990 €** (31 Ah) y **2.190 €** (35 Ah, 2.490 € con celdas Samsung) en Vepace. Tres baterías a elegir según tu ruta.
 
 <img src=/media/patinetes/minimotors-dualtron-victor-luxury-plus-2.webp alt=Detalle de la pantalla EY4 del Dualtron Victor Luxury Plus>
 
-## Distancia que puedes esperar de verdad
+## Autonomía real vs declarada
 
-Las cifras de catálogo sitúan el alcance entre 95 y 100 kilómetros, mientras que un recorrido combinado con ambos propulsores en marcha deja una estimación sensata de 60 a 70 kilómetros cuando se monta el acumulador mayor. Quien recorra medio centenar de kilómetros cada jornada encontrará su aliada en la variante PRO, dotada del acumulador de 35 Ah.
+Declara **95-100 km**; en uso mixto con doble motor, calcula **60-70 km** reales con la batería grande. La versión PRO de 35 Ah es la de los que hacen 50 km al día.
 
-## Frenada, ruedas y señalización
+## Frenos y neumáticos
 
-El equipo de frenada combina discos hidráulicos y freno electrónico, con ABS incluido. Las ruedas sin cámara de 10 pulgadas, los intermitentes y el claxon eléctrico completan un conjunto de seguridad propio de Dualtron.
+**Hidráulicos + freno electrónico**, **tubeless de 10 pulgadas** e **intermitentes**: el pack completo de seguridad Dualtron, con claxon eléctrico y ABS.
 
-## Papeles y circulación legal en España
+## Certificado DGT y normativa VMP
 
-En la lista oficial no aparece ningún certificado DGT verificado para este modelo. Se comercializa limitado a 25 km/h; sin limitador llega a 85 km/h y deja de ser un VMP legal. Y, en ningún caso, aceras.
+Sin certificado DGT verificado en la lista oficial. Se vende **limitado a 25 km/h**; deslimitado llega a 85 km/h y no es VMP legal. Nada de **aceras** en ningún caso.
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/fkaNFJZgd7s title="Dualtron Victor Luxury Plus en vídeo" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=fkaNFJZgd7s>prueba del Victor Luxury Plus</a> en YouTube.
 
-## Lo mejor y lo que menos convence
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -2068,13 +2062,13 @@ Vídeo: <a href=https://www.youtube.com/watch?v=fkaNFJZgd7s>prueba del Victor Lu
 
 <img src=/media/patinetes/minimotors-dualtron-victor-luxury-plus-3.webp alt=Dualtron Victor Luxury Plus en carretera>
 
-## Por qué existe una versión más alta
+## Un Victor pensado para riders altos
 
-Dentro de Dualtron —la gama de altas prestaciones de Minimotors—, la familia Victor representa la gama rutera. El Luxury Plus la alarga con 60 mm extra de bastidor, la pantalla EY4 conectada a la aplicación y un acumulador que llega a 35 Ah. Está pensado para quien encontraba el Victor justo de talla o de alcance. Si buscas algo menos pesado dentro del mismo catálogo, el <a href=/patinetes/minimotors-dualtron-eagle-pro/>Dualtron Eagle Pro</a> recorta 7,4 kilos respecto a este modelo.
+La familia Victor es la gama rutera de **Dualtron**, la línea de altas prestaciones de **Minimotors**. El **Luxury Plus** la estira: **60 mm más de chasis**, pantalla **EY4** con app y batería de hasta **35 Ah**. Es para quien el Victor se le quedaba justo de talla o de autonomía. Más ligero, en la marca, tienes el <a href=/patinetes/minimotors-dualtron-eagle-pro/>Dualtron Eagle Pro</a>: 7,4 kg menos.
 
-## Qué hay detrás de los 4.400 W y los 2.100 Wh
+## Profundidad técnica: qué significan 4.400 W y 2.100 Wh
 
-Los dos propulsores suman 4.000 W nominales, con un máximo de 4.400 W. Esa fuerza no está pensada para ir más deprisa por ciudad —ahí manda el tope legal—, sino para afrontar rampas del 35 % sin perder velocidad. El acumulador de 60 V se ofrece en 28, 31 y 35 Ah, y la opción mayor entrega 2.100 Wh.
+El doble motor suma **4.000 W nominales y 4.400 W de pico** según la ficha del sitio. No sirve para correr más en ciudad —manda el límite legal—, sino para **subir pendientes del 35 %** sin que la velocidad se desplome. La batería de **60 V** va en **28, 31 y 35 Ah**; la mayor, **2.100 Wh**.
 
 | Dato técnico | Victor Luxury Plus |
 |---|---|
@@ -2086,21 +2080,21 @@ Los dos propulsores suman 4.000 W nominales, con un máximo de 4.400 W. Esa fuer
 | **Frenos** | Disco hidráulicos + electrónico, con ABS |
 | **Carga máxima** | 120 kg |
 
-Desde la pantalla EY4 se consulta la velocidad y el nivel de carga, y desde la aplicación se modifican parámetros. Todos los datos ampliados están en la <a href=/patinetes/minimotors-dualtron-victor-luxury-plus/>ficha técnica del Victor Luxury Plus</a>.
+La **EY4** muestra velocidad y batería y permite ajustes desde la app. Detalle completo, en la <a href=/patinetes/minimotors-dualtron-victor-luxury-plus/>ficha técnica del Victor Luxury Plus</a>.
 
-## En el día a día: alcance sincero y un peso que condiciona
+## Uso real: autonomía honesta y el problema de los 37,4 kg
 
-La cifra de catálogo marca 95-100 km, pero la ficha la rebaja a unos 64 km en recorrido combinado con el acumulador mayor: planifica tus rutas con ese segundo número. La otra cara es el peso: con 37,4 kg no es un vehículo para subir por escaleras ni para combinar sin esfuerzo con tren o autobús. Necesita un garaje a pie de calle del que salir rodando. En trayectos largos diarios, el bastidor elevado y la rueda sin cámara de 10 pulgadas se agradecen; si el transporte público forma parte del trayecto, este no es tu modelo.
+La autonomía declarada es de **95-100 km**, pero la ficha la corrige a **unos 64 km reales** en uso mixto con la batería grande: planifica con esa cifra. El reverso es el peso: **37,4 kg** no se suben por escaleras ni se combinan a la ligera con tren o autobús. Vive en garaje a pie de calle y sale rodando. Para distancia diaria, el chasis alto y la rueda **tubeless de 10 pulgadas** se notan; con transporte público de por medio, es el modelo equivocado.
 
-## Revisiones y gasto: lo que marca el manual
+## Mantenimiento y costes: el plan oficial, sin inventar cifras
 
-Según el manual oficial que recoge la ficha, las revisiones tocan cada tres meses, cada seis meses o 500 km, y al cumplir un año o 3.000 km. El acumulador se renueva al llegar a 500 ciclos o a 10.000 km, y si el patinete queda guardado mucho tiempo conviene cargarlo cada 60 días. Las piezas sometidas a fatiga —tija, tubo de dirección, bisagra y basculante— aguantan un ciclo de tres años o 20.000 km, mientras que la corredera de bloqueo dura dos años o 10.000 km. Cuando los frenos hidráulicos pierden mordiente, el aceite mineral debe cambiarlo el servicio oficial o un taller autorizado. No existe un coste anual cerrado —ni la marca ni la ficha lo establecen—, así que conviene presupuestar gama alta y repuestos originales.
+La ficha recoge el plan del manual oficial: **revisión cada 3 meses, cada 6 meses o 500 km y al año o 3.000 km**. Batería: sustitución tras **500 ciclos o 10.000 km** y, en almacenaje largo, **carga cada 60 días**. Piezas de fatiga —basculante, bisagra, tubo de dirección y tija—: ciclo de **3 años o 20.000 km**; corredera de bloqueo, **2 años o 10.000 km**. Si los frenos hidráulicos pierden fuerza, el **aceite mineral** lo sustituye el servicio oficial o un distribuidor autorizado. Sin coste anual cerrado —ni marca ni ficha lo fijan—: asume gama alta y **repuestos originales**.
 
-## La norma española, antes de pagar
+## Normativa VMP en España: la parte que decide la compra
 
-Antes de pagar, conviene tener claro un dato: este modelo aparece sin certificación DGT verificada en su ficha. Según la <a href=https://www.dgt.es/comunicacion/noticias/vmp-nuevas-reglas-nueva-formacion>DGT</a>, todo VMP puesto a la venta a partir del 22 de enero de 2024 necesita certificado de circulación e identificación; además, su tope queda fijado en 25 km/h, mientras que los ejemplares previos sin certificar podrán seguir rodando únicamente hasta el 22 de enero de 2027. Sin limitador, alcanza 85 km/h: en ese estado deja de contar como VMP y pasa a ser un vehículo solo apto para recintos privados. Nada de aceras, una única plaza y casco siempre; revisa también la ordenanza de tu municipio. Quien anteponga la tranquilidad legal puede fijarse en el <a href=/patinetes/dualtron-victor/>Dualtron Victor</a>, cuya variante Luxury sí dispone de certificación.
+Claro antes de pagar: este modelo figura **sin certificado DGT verificado** en su ficha. La <a href=https://www.dgt.es/comunicacion/noticias/vmp-nuevas-reglas-nueva-formacion>DGT</a> exige **certificado de circulación** e identificación a los VMP comercializados desde el **22 de enero de 2024**, fija su velocidad máxima en **25 km/h** y permite circular a los anteriores sin certificar solo hasta el **22 de enero de 2027**. **Deslimitado llega a 85 km/h**: así ya no es un VMP, sino un vehículo para recinto privado. Nada de aceras, una sola plaza y casco siempre; comprueba la ordenanza local. Si priorizas la seguridad jurídica, mira el <a href=/patinetes/dualtron-victor/>Dualtron Victor</a>, con certificado en su versión Luxury.
 
-## Comparativa dentro de la casa
+## Frente a sus rivales de la propia casa
 
 | Modelo | Precio | Pico | Autonomía declarada / real | Peso |
 |---|---|---|---|---|
@@ -2108,29 +2102,29 @@ Antes de pagar, conviene tener claro un dato: este modelo aparece sin certificac
 | **Dualtron Victor** | 1.899 € | 4.000 W | 100 km / ≈65 km | 33 kg |
 | **Dualtron Eagle Pro** | 2.100 € | 3.600 W | 65 km / ≈43 km | 30 kg |
 
-El Victor convencional empata en alcance práctico, pesa menos y aporta certificación, aunque renuncia al bastidor elevado. El Eagle Pro, más ágil, sale más caro y recorre menos distancia. El Luxury Plus solo sale ganando cuando la talla y el acumulador son el criterio decisivo.
+El **Victor** iguala autonomía real con menos peso y certificado, pero sin chasis alto. El **Eagle Pro** es el ágil: cuesta más y rinde menos en distancia. El Luxury Plus solo gana si talla y batería son el criterio. 
 
-**Veredicto:** Compra recomendada si mides mucho, recorres a diario entre 40 y 60 km saliendo de un garaje, necesitas dos motores para las cuestas y asumes un mantenimiento de gama alta. No es la opción si dependes del transporte público, subes escaleras o exiges hoy mismo un certificado DGT verificado: en ese caso, un modelo más liviano te ahorrará quebraderos.
+**Veredicto:** **Sí, para un rider alto que hace 40-60 km diarios desde un garaje**, quiere doble motor para cuestas y acepta mantenimiento de gama alta. **No, si necesitas transporte público, escaleras o certificado DGT verificado hoy**: ahí, un modelo más ligero te dará menos problemas.
 
 ## Preguntas frecuentes
 
-### ¿Qué desembolso exige en España?
-Arranca en 1.890 € con 28 Ah y puede llegar a 2.490 € con 35 Ah y celdas Samsung.
+### ¿Cuánto cuesta el Victor Luxury Plus?
+**Desde 1.890 €** (28 Ah) hasta 2.490 € (35 Ah Samsung).
 
-### ¿En qué se distingue del Victor estándar?
-Bastidor 60 mm más elevado, acumulador hasta 35 Ah, pantalla EY4 y pico de 4.400 W.
+### ¿Qué diferencia hay con el Victor normal?
+Chasis **60 mm más alto**, más batería (hasta 35 Ah), pantalla **EY4** y 4.400 W de pico.
 
-### ¿Qué alcance práctico ofrece?
-Alrededor de 64 km con el acumulador mayor en recorrido combinado.
+### ¿Qué autonomía real tiene?
+Unos **64 km** con la batería grande en uso mixto.
 
-### ¿Circula legalmente por España?
-Sí, mientras se mantenga el límite de 25 km/h.
+### ¿Es legal en España?
+**Limitado a 25 km/h**, sí.
 
-### ¿Cuánto tarda la recarga?
-Unas 13 horas con el cargador incluido; menos con uno rápido.
+### ¿Cuánto tarda en cargar?
+Unas **13 horas** con el cargador de serie; menos con el rápido.
 
-### ¿Sale ganando ante el Thunder 3?
-El Thunder apuesta más por la fuerza bruta; este Plus prioriza rutas largas y altura. Para trayectos largos diarios, el Plus.
+### ¿Merece la pena frente al Thunder 3?
+El Thunder es más bestia; el Luxury Plus es más rutero y alto. Para commuting largo, el Plus.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
@@ -2234,9 +2228,9 @@ Es más ágil y ligero; el Thunder es más estable a alta velocidad. Para divers
   // ─────────────────────────── CURRUS (3) ───────────────────────────
   {
     slug: "currus-panther",
-    title: "Currus Panther NF11: hiperpatinete coreano de 5.400 W",
+    title: "Currus Panther NF11: 5.400 W coreanos",
     excerpt:
-      "Currus Panther NF11: doble motor de 1.200 W, batería Samsung de 2.100 Wh y 80 km/h. En España solo circula limitado a 25 km/h; hoy, de segunda mano.",
+      "El Currus Panther NF11 es la alternativa coreana al Dualtron Thunder: 5.400 W de pico, 2.100 Wh y 120 km declarados. Ficha completa.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 8,
@@ -2255,9 +2249,9 @@ Es más ágil y ligero; el Thunder es más estable a alta velocidad. Para divers
 
 **¿Buscas solo los datos?** <a href=/patinetes/currus-panther/>Ver ficha técnica del Currus Panther</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Currus, constructor con sede en Corea, lanzó el Panther NF11 como rival directo del Dualtron Thunder. Cada rueda recibe un motor de 1.200 W, de modo que la suma nominal alcanza 2.400 W y el pico declarado llega a 5.400 W. La energía procede de un paquete de 60 V y 35 Ah firmado por Samsung SDI, equivalente a 2.100 Wh, y el alcance anunciado por el fabricante es de 120 km. <a href=https://www.priceboon.com/currus-nf11-the-alternative-of-choice-to-the-dualtron-thunder/>Priceboon</a> presentó este modelo precisamente como opción alternativa frente al Thunder, y destacó un bastidor atornillado coreano con mayor solidez que el de su competidor.
+El **Currus Panther (NF11)** nació para pelear con el Dualtron Thunder: **doble motor de 1.200 W** (5.400 W de pico), batería **Samsung SDI de 60 V y 35 Ah (2.100 Wh)** y **120 km** declarados, con un chasis coreano atornillado más robusto que el Thunder (<a href=https://www.priceboon.com/currus-nf11-the-alternative-of-choice-to-the-dualtron-thunder/>Priceboon</a>).
 
-## Datos clave en tabla
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -2274,25 +2268,25 @@ Currus, constructor con sede en Corea, lanzó el Panther NF11 como rival directo
 
 ¿Quieres el detalle completo? <a href=/patinetes/currus-panther/>Ficha técnica completa del Currus Panther</a> con todos los datos verificados.
 
-## Cuánto costó y dónde aparece ahora
+## Precio del Currus Panther en España
 
-Su precio de salida fue de 3.590 € en Francia. En la actualidad no existe red comercial de la marca en España, así que las unidades disponibles proceden del mercado de ocasión o de importadores. Esa escasez de unidades nuevas condiciona cualquier plan de compra en 2026: conviene comprobar estado, batería y tornillería unidad por unidad, sin dar por supuesto un soporte posventa cercano.
+Precio de lanzamiento: **3.590 €** en Francia. Hoy solo se encuentra de segunda mano o por importadores: la marca no tiene red en España.
 
 <img src=/media/patinetes/currus-panther-2.webp alt=Detalle del manillar de carbono y la pantalla EY3 del Currus Panther>
 
-## Alcance declarado frente a alcance practicable
+## Autonomía real vs declarada
 
-Los 120 km del folleto presuponen un ritmo moderado y un consumo contenido. Con 2.100 Wh disponibles, un uso tranquilo permite situar el recorrido practicable entre 70 y 80 km. A velocidad máxima, en cambio, el consumo de los dos motores reduce esa cifra a menos de la mitad del valor anunciado, porque 5.400 W de pico demandan una corriente muy elevada. La diferencia entre folleto y calle, por tanto, depende sobre todo del puño derecho y del perfil del trayecto.
+Declara **120 km**; con 2.100 Wh y uso contenido, **70-80 km** reales son creíbles. A fondo, ni la mitad: 5.400 W beben que da gusto.
 
-## Equipo de frenada y rodadura
+## Frenos y neumáticos
 
-Para detener un vehículo capaz de alcanzar 80 km/h, el Panther monta frenos hidráulicos con discos de 160 mm y neumáticos tubeless anchos de 11 pulgadas, con 90 mm de sección. La suspensión también es hidráulica y regulable, con 150 mm de recorrido, y en su momento se consideró la mejor de su segmento. Ese conjunto resulta coherente con la potencia instalada: sin frenada y amortiguación de ese nivel, las aceleraciones de dos motores resultarían difíciles de gestionar.
+**Hidráulicos de 160 mm** y **tubeless anchas de 11 pulgadas** (90 mm): el equipo que exigen 80 km/h. La **suspensión hidráulica ajustable de 150 mm** era la mejor de su época.
 
-## Encuadre legal en España
+## Certificado DGT y normativa VMP
 
-No consta un certificado DGT verificado para este modelo. Además, su velocidad máxima de 80 km/h lo sitúa fuera de la definición española de vehículo de movilidad personal, cuyo límite es 25 km/h. En consecuencia, en vías públicas españolas su uso exige una limitación electrónica a 25 km/h, y la circulación por aceras queda prohibida en todo caso. La alternativa restante son recintos privados y circuitos. Antes de adquirir uno por sus cifras, conviene interiorizar esa restricción, porque una sanción por confundir su encaje puede resultar costosa.
+Sin certificado DGT verificado. A **80 km/h** no es un VMP: en España solo tendría encaje **limitado a 25 km/h**, y prohibido en **aceras** siempre.
 
-## Ventajas e inconvenientes en tabla
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -2304,11 +2298,11 @@ No consta un certificado DGT verificado para este modelo. Además, su velocidad 
 
 <img src=/media/patinetes/currus-panther-3.webp alt=Currus Panther NF11 en una carretera abierta>
 
-## Una marca coreana contra el referente
+## Currus: la respuesta coreana al reinado de Dualtron
 
-El objetivo de Currus era claro: disputar a Dualtron el liderazgo del patinete extremo. El NF11 concentró esa ambición en tres decisiones: dos motores, un paquete Samsung de gran capacidad y un chasis atornillado orientado a la durabilidad frente al de su rival. Fuera de Asia, salvo algunos importadores europeos, Currus nunca construyó una red comparable a la de Dualtron. Por esa razón, el Panther ha quedado como un modelo buscado por aficionados en el mercado de segunda mano, más que como un producto con distribución ordinaria.
+Currus es un fabricante coreano que se propuso disputarle el trono del hiperpatinete a Dualtron, la marca de referencia del segmento extremo, y el Panther NF11 fue su golpe sobre la mesa: doble motor, una batería Samsung descomunal y un chasis atornillado pensado para durar más que el de su rival. Nunca tuvo la red comercial de Dualtron fuera de Asia y de algunos importadores europeos, y hoy sobrevive como pieza buscada en el mercado de segunda mano por los aficionados a la categoría.
 
-## Energía y empuje comparados con lo urbano
+## 2.100 Wh y 5.400 W: cifras de otra categoría
 
 | Magnitud del Panther | Cifra | Comparación doméstica |
 |---|---|---|
@@ -2317,43 +2311,43 @@ El objetivo de Currus era claro: disputar a Dualtron el liderazgo del patinete e
 | Velocidad máxima | 80 km/h | Fuera de toda categoría VMP |
 | Autonomía declarada | 120 km | Unas 80 reales a ritmo tranquilo |
 
-Esas magnitudes lo alejan del patinete urbano y lo acercan a una moto pequeña. La entrega conjunta de ambos motores pide experiencia, guantes y casco integral, porque una aceleración a fondo no admite improvisaciones. En ese contexto, unos frenos hidráulicos de 160 mm y unas ruedas tubeless de 11 pulgadas forman el mínimo razonable para un conjunto de estas prestaciones.
+Con esos números, el Panther no se mide con los patinetes de ciudad sino con las motos pequeñas, y su comportamiento lo confirma: la entrega de los dos motores exige oficio, guantes y un casco integral, porque las aceleraciones a fondo no perdonan la improvisación. Las ruedas tubeless de 11 pulgadas y los frenos hidráulicos de 160 mm son el equipamiento mínimo creíble para semejante conjunto.
 
-## Peso y recarga en el día a día
+## 48 kg y 21 horas de carga: la factura de lo extremo
 
-El lado menos vistoso del NF11 aparece al convivir con él: 48 kg en báscula descartan subirlo por escaleras o meterlo en portales sin ascensor, y el cargador de serie necesita 21 horas para reponer los 2.100 Wh, plazo que baja a unas 10 horas si se emplean dos cargadores a la vez. El manillar de carbono y la suspensión hidráulica de 150 mm hacen más amable el trato en marcha, pero la tornillería pide revisiones periódicas cuando se rueda con intensidad. Son costes de uso que conviene sumar al precio de ocasión antes de decidir.
+La vida real con un NF11 incluye datos menos glamurosos: pesa 48 kg, lo que lo convierte en un mueble con ruedas que descarta escaleras y portales sin ascensor, y su cargador estándar tarda 21 horas en rellenar los 2.100 Wh, reducibles a unas 10 horas con dos cargadores. La suspensión hidráulica ajustable de 150 mm de recorrido, la mejor de su época, y el manillar de carbono suavizan el trato, pero la tornillería exige revisiones periódicas si se rueda con alegría.
 
-## Por qué queda fuera del VMP
+## Normativa española: un Panther no es un VMP
 
-La normativa española de movilidad personal fija 25 km/h como tope y veta las aceras. Un aparato con una punta de 80 km/h incumple ese tope por diseño, así que queda excluido de la categoría aunque se circule despacio. La única vía pública admisible pasa por limitarlo electrónicamente a 25 km/h, y sin certificado DGT verificado que lo respalde. En espacios privados y circuitos, esa limitación no se aplica del mismo modo, pero el uso urbano cotidiano queda condicionado por ella.
+La DGT define los vehículos de movilidad personal con un máximo de 25 km/h y sin posibilidad de circular por aceras, y un aparato capaz de 80 km/h queda fuera de esa categoría por definición. En la práctica, un Panther solo puede moverse en vías públicas limitado electrónicamente a 25 km/h, sin certificado DGT verificado que lo ampare, o en espacios privados y circuitos. Confundir ese encaje legal sale caro en sanciones, y conviene tenerlo claro antes de dejarse seducir por sus cifras.
 
-## Frente al Thunder, qué decidir
+## Panther o Dualtron Thunder: veredicto
 
-El rival natural es el <a href=/patinetes/dualtron-thunder/>Dualtron Thunder</a>: potencia comparable, un chasis que las comparativas de entonces juzgaban menos robusto y, como contrapartida, una red de repuestos mucho más amplia. El detalle del modelo coreano está en <a href=/patinetes/currus-panther/>la ficha del Panther</a>. Como testimonio del nacimiento de los hiperpatinetes, el NF11 posee un valor tangible para coleccionistas; como compra racional para desplazarse en 2026, la falta de unidades nuevas y su encaje legal desaconsejan elegirlo.
+El duelo natural es con el <a href=/patinetes/dualtron-thunder/>Dualtron Thunder</a>, de potencia similar, chasis menos robusto según las comparativas de la época y, a cambio, una red de repuestos muy superior. El detalle del coreano está en <a href=/patinetes/currus-panther/>la ficha del Panther</a>. **Veredicto:** como pieza de coleccionista del nacimiento de los hiperpatinetes, el NF11 tiene un valor real; como compra racional para moverse en 2026, ni hay unidades nuevas ni su encaje legal invita a ello. 
 
-## Lo que revela de su momento
+## El Panther como espejo de una época
 
-El NF11 documenta una etapa en la que los patinetes extremos abandonaron la movilidad urbana y se orientaron al ocio radical, antes de que la regulación europea ordenase el sector. Repasar su ficha actual —manillar de carbono, pantalla EY3 compartida con el ecosistema Dualtron y suspensión hidráulica de largo recorrido— equivale a repasar las soluciones que la industria probó cuando aún no existían límites claros. Ese carácter de fósil tecnológico de una época breve explica, precisamente, que siga cotizado entre coleccionistas del sector: difícilmente aparecerán muchos modelos semejantes, ni siquiera como curiosidad.
+El NF11 documenta el momento en que los patinetes extremos se despegaron de la movilidad urbana y se convirtieron en vehículos de ocio radical, antes de que las normativas europeas ordenaran el sector. Revisar su ficha hoy (suspensión hidráulica de largo recorrido, manillar de carbono, conectividad de pantalla EY3 compartida con el ecosistema Dualtron) es repasar el catálogo de soluciones que la industria ensayó cuando nadie ponía límites. Esa condición de fósil tecnológico de una era breve es, precisamente, lo que lo mantiene cotizado entre los coleccionistas del mundillo: no habrá muchos más como él homologables ni siquiera como curiosidad.
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿Solo puede circular limitado en España?
-Sí, únicamente con limitación electrónica a 25 km/h.
+### ¿Qué potencia tiene el Currus Panther?
+**Doble 1.200 W** con 5.400 W de pico.
 
-### ¿Cuánto dura la recarga?
-Unas 21 horas con un cargador, y 10 con dos.
+### ¿Qué autonomía real tiene?
+Unos **80 km** a ritmo tranquilo; mucho menos a fondo.
 
-### ¿Qué empuje entrega?
-Dos motores de 1.200 W cada uno, con 5.400 W de pico.
+### ¿Es mejor que el Dualtron Thunder?
+Similar potencia con **chasis más robusto** y mejor suspensión; el Thunder tiene más red de repuestos.
 
-### ¿Qué alcance practicable ofrece?
-Alrededor de 80 km con ritmo tranquilo; bastante menos a fondo.
+### ¿Es legal en España?
+Solo **limitado a 25 km/h**.
 
-### ¿Supera al Dualtron Thunder?
-En potencia andan parejos, con chasis más robusto y mejor suspensión en el coreano; el Thunder dispone de mayor red de repuestos.
+### ¿Cuánto tarda en cargar?
+**21 horas** con un cargador, 10 con dos.
 
-### ¿Tiene sentido comprarlo hoy?
-Para coleccionar, sí. Para estrenar como compra racional, no quedan unidades nuevas.
+### ¿Merece la pena hoy?
+Como pieza de coleccionista, sí. Como compra racional nueva, no hay unidades.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
@@ -2495,9 +2489,9 @@ Si la batería está sana y el precio es razonable, es una pieza histórica. Rev
   },
   {
     slug: "currus-nf10-plus",
-    title: "Currus NF10 Plus: el patinete sin ficha oficial",
+    title: "Currus NF10 Plus: el eslabón perdido",
     excerpt:
-      "El Currus NF10 Plus existe, pero sin ficha oficial: solo se conoce su batería de 60 V y 28 Ah (1.680 Wh), su doble motor y su precio de repuesto, 1.077 €.",
+      "El Currus NF10 Plus es el modelo entre el NF y el Panther del que casi no hay datos oficiales: 1.680 Wh y plataforma de doble motor.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -2516,9 +2510,9 @@ Si la batería está sana y el precio es razonable, es una pieza histórica. Rev
 
 **¿Buscas solo los datos?** <a href=/patinetes/currus-nf10-plus/>Ver ficha técnica del Currus NF10 Plus</a>: batería y datos verificados. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Entre el NF y el Panther se sitúa un modelo casi fantasma: el NF10 Plus. Su existencia no admite duda, porque en Francia se comercializan baterías de recambio de 60 V y 28 Ah pensadas para él, a través de <a href=https://savemybattery.fr/gb/battery-for-currus-nf10-plus/412-battery-60v-28ah-car-nf10-plus.html>Save My Battery</a>, pero la marca jamás difundió una hoja técnica completa. De momento, lo único sólido es su arquitectura de doble motor y una capacidad de 1.680 Wh.
+El **Currus NF10 Plus** es el eslabón entre el NF y el Panther: existe (los talleres franceses venden baterías de repuesto de **60 V y 28 Ah** para él, <a href=https://savemybattery.fr/gb/battery-for-currus-nf10-plus/412-battery-60v-28ah-car-nf10-plus.html>Save My Battery</a>), pero Currus nunca publicó una ficha técnica completa. Lo que se sabe: plataforma de **doble motor** con **1.680 Wh**.
 
-## Datos confirmados, en una tabla
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -2528,25 +2522,25 @@ Entre el NF y el Panther se sitúa un modelo casi fantasma: el NF10 Plus. Su exi
 
 ¿Quieres el detalle completo? <a href=/patinetes/currus-nf10-plus/>Ficha técnica completa del Currus NF10 Plus</a> con todos los datos verificados.
 
-## Cuánto cuesta hacerse con uno en España
+## Precio del Currus NF10 Plus en España
 
-No existe tarifa oficial ni importador que lo distribuya: la única vía es el mercado de ocasión. Como referencia del calibre del aparato, su batería de recambio, con 1.680 Wh, se vende en Francia por 1.077 €.
+Sin precio oficial ni distribución: solo mercado de segunda mano. La batería de repuesto (1.680 Wh) cuesta **1.077 €** en Francia, lo que da idea del nivel del aparato.
 
 <img src=/media/patinetes/currus-nf10-plus-2.webp alt=Detalle del chasis del Currus NF10 Plus>
 
-## Autonomía: lo que cabe esperar, no lo que promete la marca
+## Autonomía real vs declarada
 
-La marca no facilita ninguna cifra en este apartado. Partiendo de sus 1.680 Wh y de la base compartida con el NF, un recorrido real entre 60 y 80 km resulta una previsión sensata; conviene subrayarlo: se trata de una estimación, jamás de un dato facilitado por el fabricante.
+Sin cifra oficial. Con 1.680 Wh y la plataforma del NF, un rango de **60-80 km** reales es una estimación razonable, no un dato del fabricante.
 
-## Frenos y ruedas: terreno sin confirmar
+## Frenos y neumáticos
 
-Tampoco aquí hay información oficial publicada. Por su parentesco con el NF, lo lógico sería encontrar frenos hidráulicos y cubiertas anchas, pero esa suposición sigue sin verificación alguna.
+Sin datos oficiales publicados. Por parentesco con el NF, cabe esperar hidráulicos y ruedas anchas, pero no está verificado.
 
-## Papeles en España: certificado y normas VMP
+## Certificado DGT y normativa VMP
 
-No consta ningún certificado DGT verificado para este modelo. Al tratarse de un hiperpatinete de doble motor, su único encaje en España pasaría por circular limitado a 25 km/h y siempre fuera de las aceras.
+Sin certificado DGT verificado. Como hiperpatinete de doble motor, en España solo tendría encaje **limitado a 25 km/h** y fuera de **aceras**.
 
-## Lo bueno y lo malo, en resumen
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -2558,51 +2552,45 @@ No consta ningún certificado DGT verificado para este modelo. Al tratarse de un
 
 <img src=/media/patinetes/currus-nf10-plus-3.webp alt=Currus NF10 Plus en un entorno urbano>
 
-## Currus y su apuesta por el boca a boca
+## Currus: la marca coreana que prefirió el boca a boca a las fichas
 
-La firma coreana se ganó su nombre en el segmento de los hiperpatinetes siguiendo un camino poco habitual: máquinas potentes, con dos motores, fabricadas en series breves, una comunidad de usuarios entregada y una promoción comercial escasa. El NF10 Plus resume esa manera de trabajar… y también su principal inconveniente: jamás se publicó su ficha técnica completa. La certeza disponible procede de la posventa europea, que ofrece su batería de recambio de 60 V y 28 Ah, es decir, 1.680 Wh, y de la arquitectura de doble motor heredada de la familia NF; más allá de eso, casi nada puede darse por verificado.
+Currus construyó su reputación en el mundo de los hiperpatinetes a la manera antigua: aparatos robustos de doble motor vendidos en tiradas cortas, con una comunidad de usuarios muy activa y una comunicación comercial mínima. El NF10 Plus es el ejemplo perfecto de esa filosofía… y de su problema: la marca nunca publicó una ficha técnica completa del modelo. Lo que sabemos con certeza viene de la cadena de suministro: los talleres europeos venden su batería de repuesto de **60 V y 28 Ah (1.680 Wh)**, y ese dato, más la plataforma de doble motor que comparte con la familia NF, es casi todo lo verificable.
 
-## Qué puede afirmarse y qué debe quedar en duda
+## Lo que sí se puede afirmar (y lo que no)
 
-Con 1.680 Wh, la horquilla de 60 a 80 km reales que planteaba el análisis original tiene sentido para un doble motor conducido con moderación, siempre que se entienda como una estimación y no como un dato de la marca. La potencia, el peso y la velocidad máxima no figuran en ninguna publicación oficial, de modo que cualquier número que aparezca en foros debe tomarse como charla entre aficionados. Esa franqueza resulta decisiva al comprar: cuando falta la ficha, el estado concreto de la unidad —y, por encima de todo, el de su batería— pesa más que cualquier especificación teórica.
+Con 1.680 Wh, la estimación de **60-80 km reales** que hace el análisis original es razonable para un doble motor usado con cabeza, pero debe leerse como lo que es: una estimación, no un dato del fabricante. Potencia, peso y velocidad máxima **no están publicados** y cualquier cifra que circule por foros es eso, conversación de foro. Esta honestidad importa al comprar: en un aparato sin ficha, el estado real de la unidad concreta —y sobre todo de su batería— vale más que cualquier especificación.
 
-## Si vas a comprar uno usado, empieza por la batería
+## Comprar uno hoy: el examen pasa por la batería
 
-Como no se fabrica ya y no hay servicio oficial en España, este modelo solo cambia de manos entre coleccionistas en el mercado de segunda mano. Lo primero que hay que mirar es la batería: después de años de servicio y de muchos ciclos de carga, un paquete de 1.680 Wh puede haber mermado de forma considerable, y reponerlo sale por 1.077 € en el mercado francés, de acuerdo con el comercio de repuestos que recoge la ficha. Junto a eso, conviene repasar lo típico de un hiperpatinete con uso: juego en la dirección y en el mecanismo de plegado, cómo están frenos y cubiertas, y si el cargador corresponde a su tensión. Cuando no hay factura ni historial, el importe pedido tendría que recoger ese riesgo. La prueba mínima que cabe exigir a un vendedor consiste en una carga completa con el tiempo medido y una salida que consuma una parte sustancial de la batería: si el pack está sano, el voltaje desciende de forma gradual y equilibrada; si está degradado o desequilibrado, el patinete se detiene antes de tiempo, pierde empuje en la primera pendiente o muestra errores de la controladora. Sin esa comprobación, lo sensato es plantear la compra suponiendo que la batería habrá que sustituirla y negociar en consecuencia: en este modelo, la batería no es un recambio más, sino media compra.
+Descatalogado y sin red en España, un NF10 Plus es una compra de segunda mano entre entusiastas. La revisión crítica es la batería: con años y ciclos encima, un pack de 1.680 Wh puede haber perdido una parte importante de su capacidad, y sustituirlo cuesta **1.077 €** en Francia según la propia tienda de repuestos que cita la ficha. A eso se suma lo habitual en un hiperpatinete usado: holguras de dirección y plegado, estado de frenos y neumáticos, y cargador correcto para su voltaje. Sin factura ni historial, el precio debe reflejar el riesgo. La prueba mínima exigible a cualquier vendedor es una carga completa cronometrada y una salida de prueba que agote una parte significativa de la batería: en un pack sano, el voltaje cae de forma progresiva y simétrica; en uno degradado o desbalanceado, el patinete corta pronto, pierde fuerza en la primera cuesta o marca errores de la controladora. Sin esa prueba, lo prudente es presupuestar la compra como si la batería hubiera que cambiarla, y negociar en consecuencia: en un NF10 Plus, la batería no es un consumible más, es media compra.
 
-## Normas en España: tope de 25 km/h
+## Normativa: el mismo muro de los 25 km/h
 
-Según el texto oficial de la <a href=https://www.dgt.es/comunicacion/notas-de-prensa/dgt-recuerda-que-a-partir-de-22-de-enero-los-vmp-que-se-comercialicen-deberan-estar-certificados-para-su-uso>DGT</a>, queda fuera cualquier patinete cuya velocidad máxima prevista pase de 25 km/h. Un aparato con dos motores como este no puede certificarse como VMP en España, y su único uso legal es el recinto privado. La <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/matricular-un-vehiculo/inscripcion-vmp/>inscripción en el Registro de vehículos personales ligeros</a> exige etiqueta y seguro obligatorio y está pensada para los VMP que cumplen el manual de características vigente; el NF10 Plus, que además carece de certificado, quedaría al margen incluso del régimen transitorio previsto para patinetes ordinarios anteriores a la certificación.
+La definición oficial de la <a href=https://www.dgt.es/comunicacion/notas-de-prensa/dgt-recuerda-que-a-partir-de-22-de-enero-los-vmp-que-se-comercialicen-deberan-estar-certificados-para-su-uso>DGT</a> deja fuera a cualquier patinete cuya velocidad por diseño supere los **25 km/h**: un doble motor de esta clase no es un VMP certificable en España, y su sitio legal es el recinto privado. La <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/matricular-un-vehiculo/inscripcion-vmp/>inscripción en el Registro de vehículos personales ligeros</a>, con su etiqueta y el seguro obligatorio asociados, está pensada para los VMP que sí cumplen el manual de características; un NF10 Plus, además sin certificado, quedaría fuera incluso del régimen transitorio pensado para patinetes ordinarios anteriores a la certificación.
 
-## NF y Panther: dónde encaja el NF10 Plus
+## Frente a sus hermanos: NF y Panther
 
-Para situarlo ayuda mirar a sus parientes. El <a href=/patinetes/currus-nf/>Currus NF</a> ofrece la misma energía, 1.680 Wh, y un pico de 3.600 W, con unos 70 km/h en nuestra ficha: seguramente el modelo más parecido al NF10 Plus. El <a href=/patinetes/currus-panther/>Currus Panther</a>, en cambio, llega a 2.100 Wh y a un pico de 5.400 W, con 120 km anunciados y toda su documentación comprobable: encarna lo que el NF10 Plus pretendió ser, pero con sus papeles internos en orden. **Veredicto:** solo sale a cuenta para quien busca la plataforma NF, domina la revisión de un paquete de baterías y asume adquirirlo sin red ni ficha. Para cualquier otro comprador, el Panther continúa siendo la adquisición razonable, mientras que un VMP certificado es la única alternativa legal para circular por la calle.
+La familia ayuda a situarlo. El <a href=/patinetes/currus-nf/>Currus NF</a> comparte los 1.680 Wh con 3.600 W de pico y unos 70 km/h en nuestra ficha: es, probablemente, el espejo más cercano del NF10 Plus. Y el <a href=/patinetes/currus-panther/>Currus Panther</a> sube a 2.100 Wh, 5.400 W de pico y 120 km declarados, con datos completos y verificables: es lo que el NF10 Plus quiso ser con papeles en regla interna. **Veredicto:** merece la pena solo para el entusiasta que busca la plataforma NF, sabe revisar un pack de baterías y acepta que compra sin red ni ficha. Para cualquier otro perfil, el Panther es la compra defendible y un VMP certificado, la única legal en la calle. 
 
 ## Preguntas frecuentes
 
-### ¿Qué consta realmente sobre el NF10 Plus?
+### ¿Qué se sabe del Currus NF10 Plus?
+Que existe y monta **60 V y 28 Ah (1.680 Wh)**: hay baterías de repuesto a la venta en Francia.
 
-Que existe y que equipa 60 V y 28 Ah, es decir, 1.680 Wh: en Francia se venden baterías de recambio para él.
+### ¿Qué potencia tiene?
+El fabricante no lo publicó. Por parentesco con el NF, doble motor.
 
-### ¿Cuánta potencia declara el fabricante?
+### ¿Se puede comprar nuevo?
+No: descatalogado, solo segunda mano.
 
-Ninguna: no la publicó. Por su parentesco con el NF, se trata de un doble motor.
+### ¿Es legal en España?
+Solo **limitado a 25 km/h**, como todo hiperpatinete.
 
-### ¿Puede adquirirse nuevo hoy?
+### ¿Qué revisar si compro uno de ocasión?
+La **batería**: con años encima puede estar degradada; una nueva cuesta 1.077 €.
 
-No: está descatalogado y solo aparece en el mercado de ocasión.
-
-### ¿Qué uso legal tiene en España?
-
-Únicamente limitado a 25 km/h, como cualquier hiperpatinete.
-
-### ¿Qué conviene revisar en una unidad de ocasión?
-
-La batería, sobre todo: tras años de uso puede estar degradada, y una nueva cuesta 1.077 €.
-
-### ¿Compensa comprarlo?
-
-Solo si eres un entusiasta consciente de lo que adquiere. Para el resto, el Panther ofrece muchos más datos.
+### ¿Merece la pena?
+Solo para entusiastas que sepan lo que compran. Para los demás, el Panther tiene más datos.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
@@ -2859,9 +2847,9 @@ En EE. UU. para reparto, quizá. En España es una curiosidad.
   // ─────────────────────────── E-TWOW (2) ───────────────────────────
   {
     slug: "etwow-gt-se",
-    title: "E-TWOW GT SE: gran autonomía en solo 13,2 kg",
+    title: "E-TWOW GT SE: 50 km con 13,2 kg",
     excerpt:
-      "El GT SE de E-TWOW combina 500 W, batería Samsung de 504 Wh y 50 km de alcance con un peso pluma de 13,2 kg. Precio, autonomía real y normativa.",
+      "El E-TWOW GT SE es el GT de más autonomía: 500 W, 504 Wh, 50 km declarados y solo 13,2 kg. Precio, ficha y mantenimiento.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -2880,9 +2868,9 @@ En EE. UU. para reparto, quizá. En España es una curiosidad.
 
 **¿Buscas solo los datos?** <a href=/patinetes/etwow-gt-se/>Ver ficha técnica del E-TWOW GT SE</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Dentro de la familia GT, la variante SE presume del depósito energético más generoso: entrega 500 W nominales con picos de 700 W, acumula 504 Wh en un paquete Samsung de 48 voltios y 10,5 amperios-hora, homologa 50 km, equivalentes a 31 millas, y detiene la báscula en 13,2 kg (<a href=https://www.amazon.com/dp/B09NRHB7C8>Amazon</a>). Pensado para quien detesta enchufar el patinete a diario.
+El **E-TWOW GT SE** es el GT con más autonomía: **500 W** (700 W de pico), batería **Samsung de 48 V y 10,5 Ah (504 Wh)**, **50 km** declarados (31 millas) y **13,2 kg** de peso (<a href=https://www.amazon.com/dp/B09NRHB7C8>Amazon</a>). El E-TWOW para los que no quieren cargar cada día.
 
-## Resumen de datos del GT SE
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -2900,25 +2888,25 @@ Dentro de la familia GT, la variante SE presume del depósito energético más g
 
 ¿Quieres el detalle completo? <a href=/patinetes/etwow-gt-se/>Ficha técnica completa del E-TWOW GT SE</a> con todos los datos verificados.
 
-## Precio en España del GT SE
+## Precio del E-TWOW GT SE en España
 
-Su etiqueta ronda los 1.000 €, cifra que al cambio equivale a 1.089 dólares. Dentro de la gama GT estándar supone el desembolso mayor, compensado con el alcance más amplio.
+Unos **1.000 €** al cambio (1.089 $). Es el GT más caro de la gama estándar, pero también el de más rango.
 
 <img src=/media/patinetes/etwow-gt-se-2.webp alt=Detalle de la doble suspensión del E-TWOW GT SE>
 
-## Alcance anunciado frente a alcance urbano
+## Autonomía real vs declarada
 
-La hoja oficial promete 50 km, aunque rodando por ciudad con el motor de 500 W lo prudente es contar con 30-35 km efectivos. Incluso así, duplica lo habitual en un urbano de 13 kg.
+Declara **50 km**; en ciudad con sus 500 W, espera **30-35 km** reales. Sigue siendo el doble que un urbano normal de 13 kg.
 
-## Frenada y ruedas
+## Frenos y neumáticos
 
-Combina freno regenerativo EBS con tambor en la rueda trasera, monta goma maciza de 8 pulgadas y añade amortiguación en ambos ejes: la comodidad recae en la suspensión, no en la cubierta. El tambor exige revisar el cable de vez en cuando (detalles en la ficha de mantenimiento).
+**EBS regenerativo + tambor trasero** y ruedas **macizas de 8 pulgadas** con **doble suspensión**: el confort lo pone la suspensión, no la rueda. El tambor pide ajuste periódico del cable (ver ficha de mantenimiento).
 
-## Papeles y reglas VMP en España
+## Certificado DGT y normativa VMP
 
-Falta verificar el certificado DGT de este modelo. Su punta de 40 km/h obliga a caparlo a 25 km/h si se quiere rodar conforme a la regulación española de vehículos de movilidad personal, y las aceras quedan vetadas.
+Sin certificado DGT verificado. Sus **40 km/h** de punta exigen **limitarlo a 25 km/h** para la normativa VMP española; prohibido en **aceras**.
 
-## Lo bueno y lo mejorable
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -2930,11 +2918,11 @@ Falta verificar el certificado DGT de este modelo. Su punta de 40 km/h obliga a 
 
 <img src=/media/patinetes/etwow-gt-se-3.webp alt=E-TWOW GT SE circulando por un carril bici>
 
-## Rumanía y la obsesión por aligerar
+## Una marca rumana obsesionada con el peso
 
-E-TWOW —Electric Two Wheels— fabrica en Rumanía y desde hace años persigue una única idea: vehículos eléctricos ligeros, plegables y con recambios accesibles en Europa. Mientras gran parte de sus competidores persigue potencia bruta, la línea GT prioriza la relación entre alcance y kilos, y la variante SE representa su versión de gran fondo: idéntica filosofía urbana, pero con un acumulador pensado para pasar varios días de recorridos breves sin buscar un enchufe.
+E-TWOW —Electric Two Wheels— es un fabricante rumano que lleva años especializándose en una sola idea: patinetes eléctricos ligeros, plegables y con repuestos disponibles en Europa. Mientras buena parte de la competencia persigue potencia bruta, la gama GT apuesta por la relación entre autonomía y kilos, y el GT SE es su versión de gran fondo: la misma filosofía urbana, pero con una batería pensada para olvidarse del cargador durante varios días de trayectos cortos.
 
-## Por qué 504 Wh en 13,2 kg cambian el uso
+## 504 Wh en 13,2 kg: la cuenta que de verdad importa
 
 | Magnitud del GT SE | Dato | Lectura honesta |
 |---|---|---|
@@ -2945,49 +2933,43 @@ E-TWOW —Electric Two Wheels— fabrica en Rumanía y desde hace años persigue
 | Tiempo de carga | 4 horas | Una noche corta o una jornada laboral |
 | Carga máxima admitida | 125 kg | Apto para conductores corpulentos |
 
-Si se divide la energía acumulada por el peso total aparece la densidad útil del equipo, y en ese cálculo el GT SE queda muy por delante de los urbanos de 20 kilos: no acarrear peso muerto escaleras arriba se nota en cada trayecto. Esos 34 km efectivos, distribuidos en desplazamientos urbanos habituales de 5 a 8 km, cubren casi toda la semana de trabajo sin pasar por el enchufe.
+Dividir los vatios-hora entre los kilos da la densidad práctica del conjunto, y ahí el GT SE juega en otra liga frente a los urbanos de 20 kg: cada kilo que no cargas en las escaleras se agradece dos veces al día. Esos 34 km reales, repartidos en desplazamientos urbanos típicos de 5 a 8 km, equivalen a gran parte de la semana laboral sin enchufar.
 
-## Goma maciza de 8 pulgadas: qué se gana y qué se pierde
+## Ruedas macizas de 8 pulgadas: el trueque explicado
 
-La cubierta sin aire deja fuera el pinchazo, la avería más habitual del patinete urbano, y a cambio impone dos peajes: peor adherencia cuando llueve y un rodar más áspero sobre adoquines y rejillas. E-TWOW compensa lo segundo con amortiguación en ambos ejes, así que la comodidad la trabaja la suspensión y no el neumático. Lo primero no lo compensa nadie: con lluvia conviene bajar el ritmo y esquivar registros, tapas metálicas y marcas viales pintadas, superficies que con goma sin aire penalizan más.
+La rueda maciza elimina el pinchazo de la ecuación, que es la avería más frecuente del patinete urbano, y a cambio traslada dos peajes: menos agarre sobre mojado y una rodadura más seca sobre adoquines y rejillas. E-TWOW compensa el segundo con doble suspensión, de modo que el confort lo trabaja la amortiguación y no el neumático. El primero no lo compensa nadie: con lluvia, la prudencia manda reducir ritmo y evitar tapas de alcantarilla y pintura vial, que con goma maciza castigan más.
 
-## Requisitos legales antes de rodar en España
+## Qué exige la normativa española para circular con él
 
-Al tratarse de un vehículo de movilidad personal, el GT SE ha de circular capado a 25 km/h, siempre por carril bici o por vías donde esté autorizado, jamás por aceras. Los VMP vendidos en España necesitan el certificado de circulación que emite la DGT, y de este modelo no consta certificado verificado: antes de adquirirlo de ocasión o importado conviene pedir certificado y factura al vendedor, ya que sin esos papeles rodar podría quedar fuera de norma incluso con la velocidad capada. El casco lo marca la norma municipal de cada ciudad, aunque con cubierta sin aire ponerse uno parece de sentido común.
+Como vehículo de movilidad personal, el GT SE debe circular limitado a 25 km/h, por carriles bici y calzadas autorizadas, nunca por aceras. Los VMP comercializados en España deben contar con el certificado de circulación de la DGT, y este modelo declara no tenerlo verificado: antes de comprarlo de ocasión o importado conviene exigir el certificado y la factura, porque sin esa documentación el patinete puede quedar fuera de la legalidad aunque se limite la velocidad. El casco depende de la ordenanza de cada municipio, aunque sobre ruedas macizas es una recomendación difícil de discutir.
 
-## GT SE frente a Booster Sport: cuál conviene
+## GT SE o Booster Sport: veredicto
 
-En el catálogo de la marca, el <a href=/patinetes/etwow-booster-sport/>E-TWOW Booster Sport</a> tira de control de crucero y soltura, y el GT SE contesta con más batería, tal como recoge <a href=/patinetes/etwow-gt-se/>la ficha del GT SE</a>. **Veredicto:** encaja con quien enlaza jornadas urbanas seguidas sin enchufar y pone los kilos por delante de la punta; para recorridos breves de cada día, estarías abonando alcance que no llegarás a agotar.
+Dentro de la propia casa, el <a href=/patinetes/etwow-booster-sport/>E-TWOW Booster Sport</a> juega la carta del crucero y la agilidad, mientras el GT SE responde con la batería grande, como puedes comprobar en <a href=/patinetes/etwow-gt-se/>la ficha del GT SE</a>. **Veredicto:** es el E-TWOW de quien encadena varios días de ciudad sin cargar y valora el peso por encima de la velocidad punta; si tu trayecto es corto y diario, pagarás por una autonomía que no vas a exprimir. 
 
-## Plegarlo y subirlo al tren o al metro
+## Plegado y combinado con tren o metro
 
-Plegado en segundos y con solo 13,2 kg en la báscula, este GT facilita combinarlo con otros transportes más que casi cualquier rival: cabe en un vagón de cercanías, dentro del maletero al compartir coche o apoyado junto a la entrada de la oficina sin entorpecer el paso. Ojo: el acceso de estos vehículos al transporte público lo fija cada consistorio, y hay urbes que lo vetan en hora punta; antes de hacer rutina del tándem tren-patinete, revisa la norma local.
+El GT SE se pliega en segundos y, con sus 13,2 kg, entra en la práctica de la intermodalidad mejor que la mayoría: cabe bajo el asiento de un cercanías, en el maletero de un coche compartido o junto a la puerta de la oficina sin estorbar. Eso sí, cada ayuntamiento regula el acceso de los VMP al transporte público y algunas ciudades lo restringen en horas punta, así que la combinación tren más patinete conviene confirmarla en la normativa local antes de convertirla en rutina.
 
 ## Preguntas frecuentes
 
-### ¿Qué precio tiene el GT SE?
+### ¿Cuánto cuesta el E-TWOW GT SE?
+Unos **1.000 €** al cambio.
 
-Ronda los 1.000 € al cambio.
+### ¿En qué se diferencia del GT Sport?
+Más **autonomía** (50 km frente a 45 km); el Sport tiene control de crucero.
 
-### ¿En qué supera al GT Sport?
+### ¿Qué autonomía real tiene?
+Unos **34 km** en ciudad.
 
-Ofrece más alcance: 50 km frente a 45 km del Sport; a cambio, el Sport incorpora control de crucero.
+### ¿Pesa poco?
+**13,2 kg**: una pluma para 504 Wh.
 
-### ¿Cuántos kilómetros reales recorre?
+### ¿Es legal en España?
+**Limitado a 25 km/h**, sí.
 
-En ciudad, alrededor de 34 km.
-
-### ¿De verdad pesa tan poco?
-
-Sí: 13,2 kg para 504 Wh es una cifra extraordinaria.
-
-### ¿Se puede circular con él por España?
-
-Sí, siempre que vaya capado a 25 km/h.
-
-### ¿Qué revisiones pide?
-
-Cada 1.000 km toca repasar tornillos, y el cable del freno de tambor pide tensión nueva en cuanto la maneta se acerque demasiado al puño.
+### ¿Qué mantenimiento necesita?
+Revisar tornillería cada 1.000 km y tensar el cable del tambor cuando la maneta llegue al manillar.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
@@ -2995,9 +2977,9 @@ Cada 1.000 km toca repasar tornillos, y el cable del freno de tambor pide tensi�
   },
   {
     slug: "etwow-gt-se-sport",
-    title: "E-TWOW GT SE Sport: 1.000 W con solo 12,3 kg",
+    title: "E-TWOW GT SE Sport: 1.000 W en 12,3 kg",
     excerpt:
-      "El GT SE Sport con Kit Sport une 1.000 W de pico, 504 Wh y app Bluetooth en 12,3 kg, por 1.240 €. Alcance, frenos y legalidad, aquí.",
+      "El E-TWOW GT SE Sport con Kit Sport: 1.000 W de pico en 12,3 kg, 504 Wh y app Bluetooth por 1.240 € en España. Ficha completa.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -3016,9 +2998,9 @@ Cada 1.000 km toca repasar tornillos, y el cable del freno de tambor pide tensi�
 
 **¿Buscas solo los datos?** <a href=/patinetes/etwow-gt-se-sport/>Ver ficha técnica del E-TWOW GT SE Sport</a>: precio, potencia, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Dentro del catálogo rumano, esta variante con Kit Sport representa la versión más ambiciosa del GT SE: entrega un pico de 1.000 W, se mueve con un acumulador de 48 V y 10,5 Ah —equivalentes a 504 Wh—, enlaza por Bluetooth con la aplicación E-TWOW CONNECT y anuncia entre 35 y 45 km por carga, con un precio de 1.240 € en <a href=https://www.etwow.net/en/e-twow-gt-se-sport-en>E-TWOW España</a>. Todo ello cabe en una estructura de 12,3 kg.
+El **E-TWOW GT SE Sport** con **Kit Sport** es el E-TWOW definitivo: **1.000 W de pico** en **12,3 kg**, batería de **48 V y 10,5 Ah (504 Wh)**, **Bluetooth** con app E-TWOW CONNECT y **35-45 km** de rango, por **1.240 €** en <a href=https://www.etwow.net/en/e-twow-gt-se-sport-en>E-TWOW España</a>.
 
-## Datos clave del GT SE Sport
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -3035,25 +3017,25 @@ Dentro del catálogo rumano, esta variante con Kit Sport representa la versión 
 
 ¿Quieres el detalle completo? <a href=/patinetes/etwow-gt-se-sport/>Ficha técnica completa del GT SE Sport</a> con todos los datos verificados.
 
-## Cuánto vale en España
+## Precio del E-TWOW GT SE Sport en España
 
-El importe con impuestos asciende a 1.240 € en la tienda española de la marca. Resulta elevado, aunque hoy por hoy ningún rival combina un pico de 1.000 W con una báscula de 12,3 kg.
+**1.240 €** con impuestos en E-TWOW España. Caro, pero no existe nada con 1.000 W de pico que pese 12,3 kg.
 
 <img src=/media/patinetes/etwow-gt-se-sport-2.webp alt=Detalle del chasis de aluminio del E-TWOW GT SE Sport>
 
-## Alcance anunciado frente al práctico
+## Autonomía real vs declarada
 
-La cifra oficial oscila entre 35 y 45 km según el modo elegido; si se aprovecha a fondo el pico de 1.000 W, conviene planificar recorridos de alrededor de 27 km. Desde la aplicación se pueden cambiar los modos y consultar el gasto energético.
+Rango declarado de **35-45 km** según modo; en uso alegre con 1.000 W de pico, calcula **unos 27 km**. La app permite gestionar modos y ver el consumo.
 
-## Frenada, ruedas y chasis
+## Frenos y neumáticos
 
-Atrás frena un tambor y delante actúa la recuperación eléctrica, mientras las cubiertas macizas miden 8 pulgadas: con semejante pico, ese diámetro queda algo corto; la suspensión en ambos ejes y el bastidor de aluminio ayudan a compensarlo en parte.
+**Tambor trasero + regenerativo delantero** y **macizas de 8 pulgadas**: a 1.000 W de pico, las ruedas van justas; la **doble suspensión** y el chasis de aluminio lo compensan en parte.
 
-## Legalidad y certificado
+## Certificado DGT y normativa VMP
 
-No consta un certificado DGT comprobado. Se comercializa con el tope en 25 km/h; sin ese límite no se considera un VMP legal. Circular por las aceras queda prohibido en cualquier circunstancia.
+Sin certificado DGT verificado. Se vende **limitado a 25 km/h**; deslimitado no es VMP legal. Prohibido en **aceras** en todo caso.
 
-## Lo bueno y lo mejorable
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -3065,25 +3047,25 @@ No consta un certificado DGT comprobado. Se comercializa con el tope en 25 km/h;
 
 <img src=/media/patinetes/etwow-gt-se-sport-3.webp alt=E-TWOW GT SE Sport en una calle europea>
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿Cuál es su precio?
-1.240 € en la tienda española de E-TWOW.
+### ¿Cuánto cuesta el GT SE Sport?
+**1.240 €** en E-TWOW España.
 
-### ¿En qué consiste el Kit Sport?
-Es el conjunto que prepara el distribuidor español para elevar el GT SE hasta un pico de 1.000 W e incorporar Bluetooth.
+### ¿Qué es el Kit Sport?
+El paquete del distribuidor español que lleva el GT SE a **1.000 W de pico** con Bluetooth.
 
-### ¿Cuántos kilómetros rinde de verdad?
-Alrededor de 27 km en un uso corriente; con un ritmo pausado puede acercarse a los 45 km.
+### ¿Qué autonomía real tiene?
+Unos **27 km** en uso normal; hasta 45 km a ritmo tranquilo.
 
-### ¿Se puede usar legalmente en España?
-Sí, siempre que mantenga el límite de 25 km/h.
+### ¿Es legal en España?
+**Limitado a 25 km/h**, sí.
 
-### ¿Resulta ligero?
-Marca 12,3 kg en la báscula, el dato más destacado de su ficha.
+### ¿Pesa poco?
+**12,3 kg**: lo mejor de su ficha.
 
-### ¿Compensa pagar 1.240 €?
-Para quien priorice al máximo la relación entre empuje y peso y siga a E-TWOW, sí. En caso contrario, el GT SE estándar sale más económico.
+### ¿Merece los 1.240 €?
+Si buscas lo máximo en potencia/peso y eres fan de E-TWOW, sí. Si no, el GT SE normal cuesta menos.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
@@ -3092,9 +3074,9 @@ Para quien priorice al máximo la relación entre empuje y peso y siga a E-TWOW,
   // ─────────────────────────── EGRET (5) ───────────────────────────
   {
     slug: "egret-ey-1",
-    title: "Egret Ey! 1: tope alemán con suspensión doble y 65 km",
+    title: "Egret Ey! 1: 1.512 W de pico alemanes",
     excerpt:
-      "Desde Hamburgo llega el tope de la familia Ey!: doble amortiguación, 65 km anunciados, 500 W nominales y 1.512 W de pico por 1.299 €.",
+      "El Egret Ey! 1 es el buque insignia de la nueva familia: 500 W (1.512 W de pico), 65 km de autonomía y doble suspensión por 1.299 €.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -3113,9 +3095,9 @@ Para quien priorice al máximo la relación entre empuje y peso y siga a E-TWOW,
 
 **¿Buscas solo los datos?** <a href=/patinetes/egret-ey-1/>Ver ficha técnica del Egret Ey! 1</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Desde Hamburgo llega el modelo que corona la gama Ey!: combina un motor nominal de 500 W capaz de entregar 1.512 W en picos momentáneos, un alcance anunciado de 65 km, amortiguación doble contra impactos y ruedas neumáticas de 10 pulgadas, todo ello por un precio de 1.299 € (<a href=https://www.voylt.com/en/e-garage/e-scooter/egret-ey%21-1>Voylt e-Garage</a>).
+El **Egret Ey! 1** es el buque insignia de la nueva familia Ey! de la marca de Hamburgo: **500 W** con **1.512 W de pico**, **65 km** de autonomía declarada, **doble suspensión antichoque** y neumáticos de 10 pulgadas, por **1.299 €** (<a href=https://www.voylt.com/en/e-garage/e-scooter/egret-ey%21-1>Voylt e-Garage</a>).
 
-## Datos esenciales de un vistazo
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -3130,25 +3112,25 @@ Desde Hamburgo llega el modelo que corona la gama Ey!: combina un motor nominal 
 
 ¿Quieres el detalle completo? <a href=/patinetes/egret-ey-1/>Ficha técnica completa del Egret Ey! 1</a> con todos los datos verificados.
 
-## Cuánto hay que pagar y dónde se vende
+## Precio del Egret Ey! 1 en España
 
-La etiqueta marca 1.299 € con IVA en el mercado alemán, y la propia marca comercializa en el conjunto de Europa a través de su página web. Se trata, por tanto, de una tarifa propia del segmento premium germano, alejada de rebajas agresivas.
+**1.299 €** con IVA en Alemania; Egret vende en toda Europa desde su web. Precio premium alemán, sin descuentos agresivos.
 
 <img src=/media/patinetes/egret-ey-1-2.webp alt=Detalle de la doble suspensión antichoque del Egret Ey! 1>
 
-## Alcance anunciado frente al alcance en calle
+## Autonomía real vs declarada
 
-El dato oficial asciende a 65 km, el más alto dentro de la familia Ey!, mientras que en un uso mixto conviene contar con entre 40 y 45 km efectivos. Además, la amortiguación doble, con una altura libre adicional, permite afrontar bordillos y baches importantes sin sufrir cada irregularidad.
+Declara **65 km**, la mayor de la familia Ey!; en uso mixto calcula **40-45 km** reales. La doble suspensión con altura libre extra lo hace apto para bordillos y baches serios.
 
-## Frenada triple y rodadura de 10 pulgadas
+## Frenos y neumáticos
 
-Toda la gama Ey! incorpora un sistema de frenado triple, y este modelo lo combina con cubiertas neumáticas de 10 pulgadas. Esa pareja convierte su equipamiento de seguridad en el más completo que se puede encontrar hoy en el segmento urbano europeo.
+**Triple sistema de frenado** (toda la familia Ey! lo monta) y **neumáticos de 10 pulgadas**: el conjunto de seguridad más completo del segmento urbano europeo.
 
-## Papeles alemanes y reglas para circular en España
+## Certificado DGT y normativa VMP
 
-No consta un certificado español de la DGT verificado para este VMP, que circula homologado en Alemania con un tope de 20 km/h. Quien lo utilice en España debe atenerse al tope general de 25 km/h fijado para los VMP y mantenerse siempre fuera de las aceras.
+Sin certificado DGT español verificado; es un VMP **homologado en Alemania a 20 km/h**. En España debe respetar el límite VMP de **25 km/h** y no pisar **aceras**.
 
-## Ventajas frente a inconvenientes
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -3160,11 +3142,11 @@ No consta un certificado español de la DGT verificado para este VMP, que circul
 
 <img src=/media/patinetes/egret-ey-1-3.webp alt=Egret Ey! 1 circulando por una calle de Hamburgo>
 
-## Una firma de Hamburgo con más de una década fabricando
+## Egret: ingeniería de Hamburgo desde 2012
 
-Detrás de Egret está Walberg Urban Electrics, una compañía hamburguesa que produce scooters eléctricos desde 2012, es decir, antes de que los VMP compartidos se popularizaran. Ese recorrido explica su planteamiento con el Ey! 1: en lugar de pelear por precio contra los fabricantes chinos de gran volumen, apuesta por el despliegue, los frenos y los acabados, y presenta la homologación alemana como su principal aval. Dado que la ley alemana limita los e-scooters a 20 km/h, esa cifra máxima responde a la configuración de su mercado de origen y no a una limitación técnica. Dentro de su gama actual, la familia Ey!, el 1 ocupa la cúspide: entrega más potencia de pico, anuncia más autonomía y monta un chasis con suspensión doble antichoque.
+Egret es la marca de patinetes de Walberg Urban Electrics, una empresa de Hamburgo que lleva fabricando scooters eléctricos desde 2012, mucho antes del boom de los VMP compartidos. Esa trayectoria explica el posicionamiento del Ey! 1: no compite en precio con los fabricantes chinos de volumen, compite en despliegue, frenos y acabado, con la homologación alemana como carta de presentación. En Alemania los e-scooters están limitados a 20 km/h por ley, y esa es la razón de la velocidad máxima de este modelo: no es una limitación técnica, es la configuración de su mercado de origen. La familia Ey! es su gama actual y el 1 es el tope: más potencia de pico, más autonomía declarada y el chasis con doble suspensión antichoque.
 
-## Potencia de pico, frenos y carga, explicados sin rodeos
+## Técnica a fondo: pico de 1.512 W y triple freno
 
 | Concepto | Dato del Egret Ey! 1 |
 |---|---|
@@ -3176,44 +3158,43 @@ Detrás de Egret está Walberg Urban Electrics, una compañía hamburguesa que p
 | Ruedas | Neumáticas de 10" |
 | Frenos | Triple sistema de frenado |
 
-Conviene interpretar bien la cifra de pico: esos 1.512 W momentáneos son los que permiten arrancar desde un semáforo en cuesta o superar un bache llevando peso, mientras que la potencia nominal de 500 W mantiene la marcha de crucero. Junto a las ruedas neumáticas de 10 pulgadas y la suspensión doble, el conjunto está orientado a firmes en mal estado, no a recortar tiempos. Su flanco más débil, con datos en la mano, es la recarga: 8 horas equivalen a una noche entera, así que se trata de un patinete para rutinas planificadas y no para usos improvisados. Pese a ello, la autonomía real estimada, entre 40 y 45 km, continúa situándose entre las buenas del segmento urbano europeo.
+La cifra que hay que entender es la de pico: 1.512 W momentáneos son los que sacan al Ey! 1 de un semáforo en cuesta o de un bache con carga, mientras los 500 W nominales sostienen el crucero. Con neumáticos de 10 pulgadas y doble suspensión, el conjunto está pensado para pavimentos malos, no para bajar tiempos. El punto débil objetivo es la carga: 8 horas es una noche entera, lo que lo convierte en un patinete de rutina planificada y no de uso improvisado. La autonomía real estimada (40-45 km) sigue siendo de las buenas del segmento urbano europeo.
 
-## Para qué rutinas encaja y para cuáles no
+## Uso real: el patinete de quien hace siempre el mismo trayecto
 
-Este modelo encaja con quien recorre cada día un trayecto urbano de distancia media, entre 5 y 15 km por sentido, puede enchufarlo en casa o en la oficina y aprecia llegar sin sacudidas ni sobresaltos al frenar. Para ese usuario, el tope de 20 km/h rara vez marca el límite real dentro de la ciudad, porque la media efectiva la imponen los semáforos. En cambio, no encaja si se necesita la cifra máxima legal en España, 25 km/h, para recorridos largos por vías interurbanas permitidas, si se depende de recargas rápidas o si el presupuesto es decisivo: por 1.299 € existen opciones más rápidas y económicas, aunque ninguna ofrece esta construcción.
+El Ey! 1 encaja en el usuario que hace a diario un trayecto urbano medio (5-15 km por sentido), puede cargarlo en casa o en la oficina y valora llegar sin sacudidas ni sustos de frenada. Para ese perfil, los 20 km/h de máxima rara vez son el límite real en ciudad, donde la media efectiva la marcan los semáforos. No encaja si necesitas velocidad punta legal española de 25 km/h para trayectos largos por vías interurbanas permitidas, si dependes de cargas rápidas o si el presupuesto manda: por 1.299 € hay alternativas más rápidas y baratas, aunque ninguna con esta construcción.
 
-## Cuidarlo, cargarlo y circular sin problemas
+## Mantenimiento, costes y normativa VMP en España
 
-En un patinete de esta gama, el mantenimiento se centra en las cubiertas, las pastillas y los cables de freno, además de mimar la batería sin dejarla en descargas completas durante mucho tiempo; la recarga de 8 horas, además, facilita recargarla hasta el 100 % con calma, un gesto que beneficia a las baterías de este formato. En España se circula como VMP: la <a href=https://www.dgt.es>DGT</a> marca el tope general de 25 km/h, prohíbe rodar por aceras y exige, para los vehículos que se comercializan, el certificado de circulación previsto en la normativa vigente; como el Ey! 1 carece de certificado DGT español verificado, conviene preguntar al vendedor por la documentación necesaria para circular y para una posible inspección. El casco y las ordenanzas municipales de cada ciudad cierran el marco.
+El mantenimiento de un patinete de esta gama se concentra en neumáticos, pastillas y cables de freno, y en cuidar la batería evitando descargas completas prolongadas; la carga de 8 horas facilita cargarlo siempre al 100 % sin prisas, algo que las baterías de este formato agradecen. En España circula como VMP: la <a href=https://www.dgt.es>DGT</a> fija el límite general de 25 km/h, prohíbe circular por aceras y exige, para los vehículos comercializados, el certificado de circulación según la normativa vigente; el Ey! 1 no tiene certificado DGT español verificado, así que conviene consultar con el vendedor la documentación para circular y para una eventual inspección. Casco y normas municipales de cada ciudad completan el marco.
 
-## Alternativas dentro y fuera de la familia, y sentencia final
+## Rivales y veredicto: ¿merece la pena?
 
-Dentro de la propia familia, el <a href=/patinetes/egret-ey-3/>Egret Ey! 3</a> y el <a href=/patinetes/egret-ey-7/>Egret Ey! 7</a> recortan prestaciones y precio por escalones, y el propio análisis apunta que el Ey! 6, que cuesta 500 € menos, resulta suficiente para la mayoría. Más allá de la marca, en el mercado español mandan las gamas de 25 km/h, con una relación precio-autonomía más favorable, aunque con frenos y amortiguación más sencillos. **Sentencia:** el Ey! 1 compensa para quien da prioridad a la seguridad activa, al acabado y a la autonomía efectiva en recorridos urbanos fijos, y acepta convivir con un tope de 20 km/h y una recarga de 8 horas como parte del acuerdo; no compensa cuando lo que manda es ir a la velocidad legal máxima o pagar menos por kilómetro.
+Dentro de su propia familia, el <a href=/patinetes/egret-ey-3/>Egret Ey! 3</a> y el <a href=/patinetes/egret-ey-7/>Egret Ey! 7</a> bajan prestaciones y precio en escalones, y el propio análisis señala que el Ey! 6 cuesta 500 € menos y basta para la mayoría. Fuera de la marca, el mercado español está dominado por gamas de 25 km/h con mejor relación precio-autonomía, pero con frenos y suspensiones más modestos. **Veredicto:** el Ey! 1 merece la pena para quien prioriza seguridad activa, acabado y autonomía real en un trayecto urbano fijo, y asume los 20 km/h y las 8 horas de carga como parte del trato; no merece la pena si tu prioridad es la velocidad legal máxima o el precio por kilómetro. 
 
-## Dudas habituales, respondidas
+## Preguntas frecuentes
 
-### ¿Qué importe marca su etiqueta?
-El importe con IVA asciende a 1.299 €.
+### ¿Cuánto cuesta el Egret Ey! 1?
+**1.299 €** con IVA.
 
-### ¿A qué se debe su tope de 20 km/h?
-Al límite que impone la homologación alemana para los e-scooters.
+### ¿Por qué solo 20 km/h?
+Es el límite de la **homologación alemana** para e-scooters.
 
-### ¿Cuántos kilómetros recorre en la práctica?
-En uso mixto, ronda los 43 km.
+### ¿Qué autonomía real tiene?
+Unos **43 km** en uso mixto.
 
-### ¿Se puede usar legalmente en territorio español?
-Sí, como VMP, siempre que se respete el tope de 25 km/h y no se circule por la acera.
+### ¿Es legal en España?
+Sí como VMP: respeta el límite de 25 km/h y no uses la acera.
 
-### ¿Qué empresa está detrás de Egret?
-Una compañía de Hamburgo que fabrica patinetes desde 2012.
+### ¿Quién fabrica Egret?
+Una empresa de **Hamburgo** que fabrica patinetes desde 2012.
 
-### ¿Compensa frente al Ey! 6, más barato?
-El Ey! 1 supera al 6 en pico, con 1.512 W, y en rango, con 65 km; frente a él, el Ey! 6 cuesta 500 € menos y para la mayoría resulta suficiente.
+### ¿Merece la pena frente al Ey! 6?
+El Ey! 1 tiene más pico (1.512 W) y más rango (65 km); el Ey! 6 cuesta 500 € menos. Para la mayoría, el 6 basta.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://www.voylt.com/en/e-garage/e-scooter/egret-ey%21-1>ficha del Ey! 1 en Voylt</a>. y <a href=https://www.dgt.es>DGT (normativa VMP)</a>*
-`,
+*Fuentes: <a href=https://www.voylt.com/en/e-garage/e-scooter/egret-ey%21-1>ficha del Ey! 1 en Voylt</a>. y <a href=https://www.dgt.es>DGT (normativa VMP)</a>*`,
   },
   {
     slug: "egret-ey-2",
@@ -3342,9 +3323,9 @@ El Ey! 1 tiene más pico y rango; el Ey! 2 cuesta 400 € menos. Para ciudad, el
   },
   {
     slug: "egret-ey-3",
-    title: "Egret Ey! 3: patinete alemán ultraligero de última milla",
+    title: "Egret Ey! 3: el alemán ligero de 18,6 kg",
     excerpt:
-      "Modelo de acceso de la gama Ey!: 350 W, batería de 275 Wh, 30 km anunciados y 18,6 kg, con homologación alemana y suiza.",
+      "El Egret Ey! 3 es el acceso a la familia: 350 W, 275 Wh, 30 km declarados y solo 18,6 kg con homologación alemana.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -3363,9 +3344,9 @@ El Ey! 1 tiene más pico y rango; el Ey! 2 cuesta 400 € menos. Para ciudad, el
 
 **¿Buscas solo los datos?** <a href=/patinetes/egret-ey-3/>Ver ficha técnica del Egret Ey! 3</a>: motor, batería, peso y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Dentro de la gama Ey!, el **Egret Ey! 3** ocupa el escalón de acceso: entrega **350 W**, guarda **36 V con 7,65 Ah, es decir, 275 Wh** en su batería, anuncia **30 km** de alcance y marca **18,6 kg** en la báscula, con homologación alemana y suiza (<a href=https://www.digitec.ch/en/s1/product/egret-ey-3-e-scooter-20-kmh-30-km-350-w-e-scooters-standing-47502041>Digitec</a>).
+El **Egret Ey! 3** es el pequeño de la familia: **350 W**, batería de **36 V y 7,65 Ah (275 Wh)**, **30 km** declarados y **18,6 kg** de peso, con homologación alemana y suiza (<a href=https://www.digitec.ch/en/s1/product/egret-ey-3-e-scooter-20-kmh-30-km-350-w-e-scooters-standing-47502041>Digitec</a>).
 
-## Datos resumidos en tabla
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -3380,23 +3361,23 @@ Dentro de la gama Ey!, el **Egret Ey! 3** ocupa el escalón de acceso: entrega *
 
 ¿Quieres el detalle completo? <a href=/patinetes/egret-ey-3/>Ficha técnica completa del Egret Ey! 3</a> con todos los datos verificados.
 
-## Cuánto puede costar en España
+## Precio del Egret Ey! 3 en España
 
-Todavía no se ha anunciado un precio oficial para España. Por su lugar como modelo de entrada, lo lógico sería que quedase como el Ey! más asequible, justo por detrás del Ey! 7 en la gama.
+Sin precio oficial publicado aún. Por posicionamiento debería ser el Ey! más barato tras el Ey! 7.
 
 <img src=/media/patinetes/egret-ey-3-2.webp alt=Detalle del plegado del Egret Ey! 3>
 
-## Alcance anunciado frente a alcance en la calle
+## Autonomía real vs declarada
 
-El fabricante anuncia **30 km**; con una batería de 275 Wh, lo prudente es contar con **alrededor de 20 km** en uso real. Esa cifra cubre sin apuros la rutina urbana habitual siempre que el trayecto no supere los 10 km en cada sentido.
+Declara **30 km**; con 275 Wh calcula **unos 20 km** reales. Suficiente para el día a día urbano si no haces más de 10 km por sentido.
 
-## Frenada y ruedas
+## Frenos y neumáticos
 
-Las fichas de los distribuidores no especifican qué sistema de frenado monta este Ey! 3. Lo que sí está claro es que rueda sobre neumáticos de **10 pulgadas** y que mantiene el plegado compacto característico de la familia.
+Egret no detalla el sistema de frenado del Ey! 3 en las fichas de distribuidor. Monta ruedas de **10 pulgadas** y el plegado compacto de la familia.
 
-## Papeles y circulación como VMP
+## Certificado DGT y normativa VMP
 
-**Homologado en Alemania y Suiza**, con un tope de 20 km/h. En España circula como VMP cumpliendo el tope de **25 km/h** y sin utilizar las **aceras**.
+**Homologado en Alemania y Suiza** (20 km/h). En España, VMP legal respetando **25 km/h** y sin pisar **aceras**.
 
 ## Puntos fuertes y débiles
 
@@ -3410,11 +3391,11 @@ Las fichas de los distribuidores no especifican qué sistema de frenado monta es
 
 <img src=/media/patinetes/egret-ey-3-3.webp alt=Egret Ey! 3 en una zona peatonal>
 
-## Quién está detrás: Walberg y su obsesión por las normas
+## Egret y Walberg: patinetes alemanes desde 2012
 
-Egret pertenece a Walberg Urban Electrics, una compañía de Hamburgo que desarrolla patinetes eléctricos desde 2012 y que presenta su gama actual en su <a href=https://www.my-egret.com>web oficial</a>. Su fundador tomó parte en los grupos europeos que sentaron las bases de la regulación para los vehículos eléctricos ligeros, y ese rigor normativo se percibe en toda la familia Ey!: aparatos concebidos para obtener la homologación en Alemania y Suiza, con un tope de 20 km/h, en lugar de máquinas de potencia sin control. El Ey! 3 es el benjamín de la casa, con **350 W**, una batería de **275 Wh** y un peso de **18,6 kg**: el Egret pensado para quien valora más poder llevarlo en la mano que recorrer grandes distancias.
+Egret es la marca de Walberg Urban Electrics, empresa de Hamburgo que lleva desde 2012 desarrollando patinetes eléctricos y cuya gama actual se presenta en su <a href=https://www.my-egret.com>web oficial</a>. Su fundador ha participado en los grupos europeos que definieron la regulación de los vehículos eléctricos ligeros, y esa obsesión normativa se nota en la familia Ey!: modelos pensados para homologarse en Alemania y Suiza a 20 km/h, no aparatos de potencia desbocada. El Ey! 3 es el pequeño de la casa: **350 W, 275 Wh y 18,6 kg**, el Egret para quien prioriza llevarlo en la mano frente a llegar más lejos.
 
-## La técnica: una batería honesta para recorridos cortos
+## La técnica: 275 Wh honestos para trayectos cortos
 
 | Dato | Egret Ey! 3 |
 |---|---|
@@ -3427,45 +3408,45 @@ Egret pertenece a Walberg Urban Electrics, una compañía de Hamburgo que desarr
 | Tiempo de carga | 5,5 h |
 | Ruedas | 10 pulgadas |
 
-Con **275 Wh** no cabe esperar ningún milagro: los 30 km anunciados se reducen a unos 20 en la práctica. A cambio, el conjunto marca **18,6 kg**, se pliega y completa su carga en 5,5 horas en un enchufe cualquiera. Se trata, en definitiva, de un patinete puro de última milla: llegar en tren o en coche hasta la ciudad y dejar al Ey! 3 los kilómetros finales por terreno llano. En pendientes pronunciadas, los 350 W se quedan cortos, tal y como admite el propio análisis entre sus contras.
+La lectura honesta de la batería es la que ya hace el post original: con **275 Wh** no hay milagro posible, y los 30 km declarados se quedan en unos 20 reales. A cambio, el conjunto pesa **18,6 kg**, es plegable y se carga en 5,5 horas en cualquier enchufe. Es un patinete de última milla en estado puro: tren o coche hasta la ciudad, y el Ey! 3 para los últimos kilómetros llanos. En cuestas fuertes, los 350 W se quedan justos, como reconoce el propio análisis en sus contras.
 
-## En la práctica: subir escaleras sin sufrirlo
+## Uso real: el de subir escaleras sin odiarlo
 
-El Ey! 3 cobra sentido para quien cada día combina transporte público y patinete y debe subirlo hasta su piso o su oficina: en ese escenario cada kilo pesa, y 18,6 kg con plegado compacto resultan una cifra llevadera. No cobra sentido, en cambio, para recorridos largos, para personas de mucho peso en zonas con pendientes o para quien necesite alcanzar los 25 km/h con margen, porque su homologación de origen está en 20 km/h. El servicio posventa europeo supone, eso sí, un punto a favor frente a marcas sin red; puedes verlo en el <a href=/comparador-patinetes/>comparador de patinetes</a> junto a sus rivales.
+El Ey! 3 tiene sentido para quien combina transporte público y patinete a diario y necesita subirlo a un piso o a una oficina: ahí cada kilo cuenta, y 18,6 kg con plegado compacto es una cifra asumible. No tiene sentido para trayectos largos, para usuarios pesados en zonas con cuestas o para quien necesite llegar a 25 km/h con holgura, porque su homologación de origen es de 20 km/h. Su servicio posventa europeo es, eso sí, un argumento frente a marcas sin red. Compáralo en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
 
-## Mantenimiento y gasto: poco que revisar, batería que mimar
+## Mantenimiento y costes: poco que mantener, batería que cuidar
 
-Egret no anuncia tarifas de mantenimiento para el Ey! 3 válidas en España, y no vamos a inventarlas. En un modelo de esta clase, lo comprobable es un gasto limitado a los neumáticos de 10 pulgadas, a los frenos y al cuidado de la batería de 275 Wh: evitar dejarla descargada durante semanas y guardarla en un sitio seco prolonga su vida más que cualquier revisión. La baza de una marca europea consolidada es la disponibilidad de recambios y de servicio frente a las importaciones sin respaldo, un punto que conviene verificar con el vendedor antes de abonar el importe.
+Egret no publica tarifas de mantenimiento del Ey! 3 aplicables en España, y no las inventamos. Lo verificable en un patinete de esta clase es un gasto reducido a neumáticos de 10 pulgadas, frenos y el cuidado de la batería de 275 Wh: cargarla sin dejarla descargada durante semanas y guardarla en lugar seco alarga su vida más que cualquier revisión. La ventaja de una marca europea establecida es la disponibilidad de recambios y servicio frente a importaciones sin respaldo, el factor que conviene confirmar con el vendedor antes de pagar.
 
-## Circular en España: VMP, papeles alemanes y certificación local
+## Normativa: VMP en España, homologación alemana y suiza
 
-En España, el Ey! 3 se mueve como **vehículo de movilidad personal**: tope de **25 km/h**, prohibición de circular por aceras y la certificación VMP que la normativa de la <a href=https://www.dgt.es>DGT</a> exige a los patinetes nuevos. Sus papeles alemanes y suizos, con tope de 20 km/h, le dan ventaja en orden y seguridad, pero no reemplazan a la certificación española: antes de adquirirlo importado conviene comprobar que la unidad concreta reúne los requisitos para circular aquí sin recibir una sanción.
+En España, el Ey! 3 circula como **vehículo de movilidad personal**: máximo **25 km/h**, prohibido circular por aceras y con la certificación VMP que exige la normativa de la <a href=https://www.dgt.es>DGT</a> para los patinetes nuevos. Su homologación alemana y suiza a 20 km/h juega a su favor en orden y seguridad, pero no sustituye a la certificación española: antes de comprarlo importado conviene verificar que la unidad concreta cumple los requisitos para circular aquí sin sanción.
 
-## Contra el Ey! 7 y el Xiaomi Electric Scooter 4 Pro
+## Frente al Egret Ey! 7 y al Xiaomi Electric Scooter 4 Pro: veredicto
 
-En casa, el <a href=/patinetes/egret-ey-7/>Egret Ey! 7</a> aparece en esta web a 449 € como el Egret más económico, con propulsor Bosch y neumáticos tubeless de 10 pulgadas. Fuera de la marca, el <a href=/patinetes/xiaomi-electric-scooter-4-pro/>Xiaomi Electric Scooter 4 Pro</a> cuesta 799 € en su ficha, con una batería de 446 Wh, un alcance anunciado de 55 km (38 en uso real), 17 kg y certificado DGT. El Xiaomi supera al Ey! 3 en autonomía y en trámites españoles; el Ey! 3 le supera por ligereza y por contar con una firma europea especializada.
+Dentro de la casa, el <a href=/patinetes/egret-ey-7/>Egret Ey! 7</a> figura en esta web por 449 € como el Egret más barato, con motor Bosch y ruedas tubeless de 10 pulgadas. Fuera, el <a href=/patinetes/xiaomi-electric-scooter-4-pro/>Xiaomi Electric Scooter 4 Pro</a> cuesta 799 € según su ficha, con 446 Wh, 55 km declarados (38 reales), 17 kg y certificado DGT. El Xiaomi gana en autonomía y en papeleo español; el Ey! 3 gana en ligereza y en el respaldo de una marca europea especializada.
 
-**¿Merece la pena?** Como opción ligera de última milla con sello europeo, el Ey! 3 hace justo lo que promete, sin añadir ni quitar nada. **Para quién sí:** para quien no supere los 20 km diarios por terreno llano y lo lleve a pulso cada día. **Para quién no:** para quien necesite autonomía, pendientes o una certificación DGT garantizada desde el origen: ahí, el Xiaomi y el propio Ey! 7 resultan más adecuados.
+**¿Merece la pena?** Como patinete ligero de última milla de marca europea, el Ey! 3 cumple exactamente lo que promete, ni más ni menos. **Para quién sí:** para quien recorra menos de 20 km al día por terreno llano y lo suba a pulso a diario. **Para quién no:** para quien necesite autonomía, cuestas o certificación DGT garantizada de origen: ahí el Xiaomi o el propio Ey! 7 encajan mejor.
 
 ## Preguntas frecuentes
 
-### ¿Cuántos kilos marca en la báscula este Egret?
-Marca 18,6 kilos y es el modelo más liviano de la gama Ey!.
+### ¿Cuánto pesa el Egret Ey! 3?
+**18,6 kg**, el más ligero de la familia Ey!.
 
-### ¿Qué alcance real ofrece en ciudad?
-En torno a **20 km** en uso urbano.
+### ¿Qué autonomía real tiene?
+Unos **20 km** en ciudad.
 
-### ¿Dónde está homologado?
-Con papeles alemanes y suizos, con un tope de 20 km/h.
+### ¿Está homologado?
+Sí: en **Alemania y Suiza** (20 km/h).
 
-### ¿Puede circular legalmente por España?
-Sí, como VMP, con un máximo de 25 km/h y sin usar las aceras.
+### ¿Es legal en España?
+Sí como VMP, con límite de 25 km/h y sin aceras.
 
-### ¿Ya tiene precio en España?
-Todavía no hay precio oficial anunciado.
+### ¿Cuánto cuesta?
+Sin precio oficial publicado aún.
 
-### ¿A qué usuario le encaja mejor?
-A quien busca un Egret liviano y no supera los 20 km al día.
+### ¿Para quién es?
+Para quien quiere un Egret ligero y no necesita más de 20 km al día.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
@@ -3919,9 +3900,9 @@ El X7 Max se mueve mejor en ciudad y permite extraer su batería; el R9, en camb
   },
   {
     slug: "turboant-m10-lite",
-    title: "Turboant M10 Lite: 14 kg y plegado en 3 segundos",
+    title: "Turboant M10 Lite: 350 W por 230 €",
     excerpt:
-      "El acceso a Turboant: motor de 350 W, 14 kg, 25 km anunciados y plegado en 3 segundos por unos 230 €, pensado para el campus y trayectos cortos.",
+      "El Turboant M10 Lite es el acceso a la marca: 350 W, 14 kg, 25 km declarados y plegado en 3 segundos por ~230 €. Ficha completa.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -3940,9 +3921,9 @@ El X7 Max se mueve mejor en ciudad y permite extraer su batería; el R9, en camb
 
 **¿Buscas solo los datos?** <a href=/patinetes/turboant-m10-lite/>Ver ficha técnica del Turboant M10 Lite</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Dentro del catálogo de Turboant, la versión Lite abre la gama: un urbano compacto para desplazamientos breves, con motor de 350 W, acumulador de 238 Wh (36 V, 6,6 Ah), 25 km anunciados, 14 kg y un plegado que se completa en 3 segundos, por **~230 €** (<a href=https://turboant.com/pages/best-electric-scooter-for-campus>TurboAnt oficial</a> / <a href=https://the-gadgeteer.com/2022/12/18/turboant-m10-lite-folding-electric-scooter-review-zippy-and-fun-transportation/>The Gadgeteer</a>).
+El **Turboant M10 Lite** es el más barato de la marca: **350 W**, batería de **36 V y 6,6 Ah (238 Wh)**, **25 km** declarados, **14 kg** y plegado en 3 segundos, por **~230 €** (<a href=https://turboant.com/pages/best-electric-scooter-for-campus>TurboAnt oficial</a> / <a href=https://the-gadgeteer.com/2022/12/18/turboant-m10-lite-folding-electric-scooter-review-zippy-and-fun-transportation/>The Gadgeteer</a>).
 
-## Datos clave
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -3961,29 +3942,29 @@ Dentro del catálogo de Turboant, la versión Lite abre la gama: un urbano compa
 
 ¿Quieres el detalle completo? <a href=/patinetes/turboant-m10-lite/>Ficha técnica completa del Turboant M10 Lite</a> con todos los datos verificados.
 
-## Cuánto cuesta y cómo conseguirlo
+## Precio del Turboant M10 Lite en España
 
-Al cambio, ronda los 230 € (249,98 $). No hay distribución oficial en España, así que llega por importación.
+Unos **230 €** al cambio (249,98 $). Sin distribución en España: importación.
 
 <img src=/media/patinetes/turboant-m10-lite-2.webp alt=Detalle de la pantalla LED del Turboant M10 Lite>
 
-## Alcance en trayectos cortos
+## Autonomía real vs declarada
 
-La cifra anunciada es de 25 km, pero con 238 Wh lo prudente es contar con 15-17 km efectivos. Es un planteamiento de campus: ir de clase al dormitorio y volver, sin pretender más.
+Declara **25 km**; con 238 Wh calcula **15-17 km** reales. Es el patinete del campus: clase-dormitorio-clase sin pensar en más.
 
-## Frenos, ruedas y extras
+## Frenos y neumáticos
 
-Combina freno de disco con freno electrónico y monta ruedas de 8,5 pulgadas con cámara, más confortables que las macizas y con una frenada solvente. Añade protección IP54 y un puerto USB para cargar el móvil.
+**Disco + freno electrónico** y **8,5 con cámara**: más cómodas que las macizas y con frenada decente. **IP54** y **puerto USB** para el móvil.
 
-## Legalidad en España y velocidad
+## Certificado DGT y normativa VMP
 
-No consta certificado DGT verificado. De serie alcanza 26 km/h, por encima del tope VMP, así que conviene limitarlo a 25 km/h; además, está prohibido circular por aceras.
+Sin certificado DGT verificado. Sus **26 km/h** de punta están al límite: conviene **ajustarlo a 25 km/h** para la normativa VMP; prohibido en **aceras**.
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/GsIdlTVaHr0 title="Análisis del Turboant M10 Lite" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=GsIdlTVaHr0>análisis del Turboant M10 Lite</a> en YouTube.
 
-## Lo bueno y lo mejorable
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -3995,25 +3976,25 @@ Vídeo: <a href=https://www.youtube.com/watch?v=GsIdlTVaHr0>análisis del Turboa
 
 <img src=/media/patinetes/turboant-m10-lite-3.webp alt=Turboant M10 Lite en un campus universitario>
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿Cuánto cuesta al cambio?
-Unos 230 €.
+### ¿Cuánto cuesta el Turboant M10 Lite?
+Unos **230 €** al cambio.
 
-### ¿Qué recorrido efectivo ofrece?
-Unos 17 km en ciudad.
+### ¿Qué autonomía real tiene?
+Unos **17 km** en ciudad.
 
-### ¿Qué cambia frente al M10 Pro?
-El Pro monta más batería (374 Wh frente a 238 Wh) y ofrece más rango; ya está en el comparador.
+### ¿En qué se diferencia del M10 Pro?
+Menos batería (238 Wh frente a 374 Wh) y menos rango; el Pro ya está en el comparador.
 
-### ¿Se puede circular legalmente con él en España?
-Conviene limitarlo a 25 km/h, porque de serie alcanza 26 km/h.
+### ¿Es legal en España?
+Conviene **ajustarlo a 25 km/h** (de serie da 26).
 
-### ¿Es ligero?
-Sí: 14 kg, un peso realmente bajo.
+### ¿Pesa poco?
+**14 kg**: ligero de verdad.
 
-### ¿Para qué uso está pensado?
-Para estudiantes y recorridos breves, dentro de un radio diario inferior a 15 km.
+### ¿Para quién es?
+Estudiantes y trayectos cortos: no le pidas más de 15 km al día.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 

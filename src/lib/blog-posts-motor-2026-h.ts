@@ -9,7 +9,7 @@ export const MOTOR_2026_H_POSTS: BlogPost[] = [
 {
   title: "Omoda y Jaecoo: 4.010 ventas en septiembre (+91,5%)",
   slug: "omoda-jaecoo-record-ventas-septiembre-2026",
-  excerpt: "Tercer mejor mes en España para Omoda y Jaecoo: 4.010 matriculaciones en septiembre, un 91,5% más, con un 6,1% en particulares y un 98% electrificado.",
+  excerpt: "Omoda y Jaecoo firman su tercer mejor mes en España: 4.010 matriculaciones en septiembre (+91,5%), récord en particulares (6,1%) y 98% electrificado.",
   category: "Novedades Motor",
   date: "2026-10-04",
   readTime: 6,
@@ -22,16 +22,18 @@ export const MOTOR_2026_H_POSTS: BlogPost[] = [
   ],
   content: `<img src=/media/omoda-jaecoo-record-ventas-septiembre-2026-hero.webp alt=Concesionario español con varios SUV Omoda y Jaecoo aparcados en fila>
 
-Septiembre de 2026 dejó para Omoda y Jaecoo su tercer registro mensual más alto en el mercado español: 4.010 matriculaciones, lo que supone un incremento del 91,5% frente al mismo mes del ejercicio anterior. La marca comunicó estas cifras en una nota oficial difundida el 2 de octubre, y con ellas encadena su tercera ocasión por encima de las 4.000 unidades en un mes, después de mayo y de junio. El detalle que resume el momento comercial es otro: el 98% de los vehículos entregados contaba con algún tipo de electrificación.
+Omoda y Jaecoo acaban de firmar su **tercer mejor mes histórico en España**: **4.010 matriculaciones en septiembre de 2026**, un **91,5% más** que un año antes, según la nota de prensa oficial de la marca publicada el 2 de octubre. Es la tercera vez que superan la barrera de las 4.000 unidades mensuales, tras mayo y junio, y lo hacen con un dato que debería hacer reflexionar a las marcas tradicionales: el **98% de lo que venden ya es electrificado**.
 
-## Las cifras de septiembre
+## Datos clave
 
-- Matriculaciones del mes: 4.010 unidades, con una subida interanual del 91,5%.
-- Participación en el mercado: 4,3% sobre el total y 6,1% entre compradores particulares, cifra esta última que marca un máximo para ambas marcas.
-- Entregas a clientes particulares: 3.161 unidades, quinta posición mensual, quedando a 92 unidades de la segunda clasificada.
-- Reparto electrificado, que alcanza el 98%: 2.104 híbridos, con un 52,5%; 1.563 híbridos enchufables, con un 39%; 265 eléctricos; y únicamente 78 unidades de gasolina.
-- Total del mercado español de turismos en septiembre: 93.858 unidades, un 10,2% más que un año antes.
-- Origen de los datos: <a href=https://www.omodajaecoo.es>nota de prensa oficial de Omoda & Jaecoo</a> (02/10/2026)
+- **Matriculaciones en septiembre:** 4.010 uds (+91,5% interanual)
+- **Cuota de mercado:** 4,3% del total; **6,1% en el canal particular (récord)**
+- **Ventas a particulares:** 3.161 uds, 5.ª marca del mes (a solo 92 uds de la 2.ª)
+- **Mix electrificado (98%):** 2.104 híbridos (52,5%), 1.563 híbridos enchufables (39%), 265 eléctricos y solo 78 de gasolina
+- **Mercado total España en septiembre:** 93.858 turismos (+10,2%)
+- **Fuente:** <a href=https://www.omodajaecoo.es>nota de prensa oficial de Omoda & Jaecoo</a> (02/10/2026)
+
+## El mix que explica el récord
 
 | Tecnología | Unidades | % del total |
 |---|---|---|
@@ -40,44 +42,45 @@ Septiembre de 2026 dejó para Omoda y Jaecoo su tercer registro mensual más alt
 | Eléctricos (BEV) | 265 | 6,6% |
 | Gasolina | 78 | 1,9% |
 
-El desglose deja claro dónde está el tirón comercial: la electrificación ya no es una opción minoritaria dentro de estas dos marcas, sino la norma. Los híbridos convencionales concentran más de la mitad de las entregas, en el tramo del mercado que más avanza en España, mientras los enchufables rozan las cuatro décimas del total. Frente a eso, la gasolina pura quedó reducida a 78 compradores de los 4.010 del mes.
+La lectura es directa: Omoda y Jaecoo no venden "coches chinos baratos", venden **electrificación a precio de generalista**. Más de la mitad de sus ventas son híbridos convencionales —el segmento que más crece en España— y casi cuatro de cada diez son enchufables. Solo 78 clientes de 4.010 eligieron gasolina pura.
 
 <img src=/media/omoda-jaecoo-record-ventas-septiembre-2026-cuerpo.webp alt=Comercial entregando las llaves de un SUV a un cliente en un concesionario español>
 
-## Chery fuera de España
+## El contexto europeo: ya no es solo España
 
-El resultado español encaja en una tendencia continental. Durante agosto, Chery, el grupo al que pertenecen Omoda y Jaecoo, alcanzó 22.668 unidades en Europa, con un aumento del 217,5% frente al mismo mes del año anterior. En ese mismo escenario, el BYD Seal U sumó 7.789 unidades y quedó por delante en el continente del VW Tiguan y del Ford Kuga, según los registros europeos de matriculaciones difundidos por la prensa especializada. La ofensiva de los fabricantes chinos ya se traduce en cuota, no solo en anuncios.
+El fenómeno no es local. En agosto, el grupo **Chery** (matriz de Omoda y Jaecoo) matriculó **22.668 unidades en Europa, un 217,5% más** que un año antes, y el **BYD Seal U** (7.789 uds) ya vende en el continente más que superventas históricos como el VW Tiguan o el Ford Kuga, según los datos de matriculaciones europeas publicados por la prensa especializada. La ofensiva china ha dejado de ser una promesa para convertirse en cuota de mercado contante y sonante.
 
-Para quien esté comparando SUV, la oferta de ambas marcas se puede revisar en el <a href=/comparador-coches/>comparador de coches</a>, con las fichas del <a href=/coches/omoda-5-ev-electrico-precio-ficha-tecnica/>Omoda 5 EV</a> y del <a href=/coches/jaecoo-5-precio-ficha-tecnica/>Jaecoo 5</a>.
+El veredicto para el comprador español: la competencia china ya no compite solo en precio, compite en **volumen y en electrificación**. Si estás comparando SUV, los tienes en el <a href=/comparador-coches/>comparador de coches</a>: echa un ojo a las fichas del <a href=/coches/omoda-5-ev-electrico-precio-ficha-tecnica/>Omoda 5 EV</a> y del <a href=/coches/jaecoo-5-precio-ficha-tecnica/>Jaecoo 5</a>.
 
-## En vídeo
+## Míralo en vídeo
 
 <iframe src=https://www.youtube.com/embed/MKI4O7Kr7g8 title="Vídeo: Omoda 5 SHS: el SUV híbrido que España sí puede pagar | Prueba y reto de consumo" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Grabación de <a href=https://www.youtube.com/watch?v=MKI4O7Kr7g8>Diariomotor</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=MKI4O7Kr7g8>Diariomotor</a> en YouTube
 
 ## Preguntas frecuentes
 
-### ¿Qué volumen de ventas lograron Omoda y Jaecoo en septiembre de 2026?
-Alcanzaron 4.010 matriculaciones, un 91,5% por encima de septiembre de 2025, en el que es su tercer mes con más registros en España.
+### ¿Cuántos coches vendieron Omoda y Jaecoo en septiembre de 2026?
+**4.010 matriculaciones**, un 91,5% más que en septiembre de 2025. Es su tercer mejor mes histórico en España.
 
-### ¿Qué participación de mercado alcanzaron en España?
-Un 4,3% del total del mercado y un 6,1% entre particulares, el mejor registro en ese canal, donde terminaron en quinta posición mensual.
+### ¿Qué cuota de mercado tienen Omoda y Jaecoo en España?
+El **4,3% del mercado total** y un récord del **6,1% en el canal particular**, donde fueron la quinta marca más vendida del mes.
 
-### ¿Cuánto de lo vendido llevaba electrificación?
-El 98% del total: 2.104 fueron híbridos, 1.563 fueron híbridos enchufables y 265 fueron eléctricos, frente a únicamente 78 de gasolina.
+### ¿Qué porcentaje de sus ventas son electrificados?
+El **98%**: 2.104 híbridos, 1.563 híbridos enchufables y 265 eléctricos, frente a solo 78 unidades de gasolina.
 
-### ¿Cómo se compone ese 98% electrificado?
-De las 4.010 unidades del mes, 2.104 fueron híbridos, 1.563 fueron híbridos enchufables y 265 fueron eléctricos; la gasolina pura se quedó en 78 unidades.
 
-### ¿Qué ritmo lleva Chery en Europa?
-En agosto sumó 22.668 matriculaciones en el continente, un 217,5% por encima del mismo mes del año anterior; el BYD Seal U, con 7.789 unidades, superó allí al VW Tiguan y al Ford Kuga.
+### ¿Qué significa que el 98% de sus ventas sean electrificadas?
+Que de las 4.010 unidades de septiembre, 2.104 fueron híbridos, 1.563 híbridos enchufables y 265 eléctricos: solo 78 clientes eligieron gasolina pura.
 
-### ¿De qué grupo proceden Omoda y Jaecoo?
-Son las dos enseñas internacionales de Chery, un grupo de origen chino que impulsa su expansión por Europa.
+### ¿Cómo va el grupo Chery en el resto de Europa?
+En agosto matriculó 22.668 unidades en Europa (+217,5% interanual), y el BYD Seal U (7.789 uds) ya vende en el continente más que el VW Tiguan o el Ford Kuga.
 
-Antes de abonar una sanción recibida que pueda incluir algún defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a>.
-`,
+### ¿Omoda y Jaecoo son marcas chinas?
+Sí: son las dos marcas internacionales del grupo chino **Chery**, que está desplegando su ofensiva europea con fuerza.
+
+
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
 },
 {
   title: "MG HS Hybrid+: 225 CV con etiqueta ECO desde 29.990 €",
@@ -235,7 +238,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
 {
   title: "Dongfeng Vigo y Mage: eléctricos desde 26.615 € en España",
   slug: "dongfeng-vigo-mage-phev-precio-espana-ficha",
-  excerpt: "Dongfeng Vigo eléctrico desde 26.615 € y Mage PHEV desde 28.740 €: etiqueta Cero, 7 años de garantía y 25 concesionarios en España.",
+  excerpt: "Dongfeng abre pedidos en España de dos SUV con etiqueta Cero: el Vigo eléctrico (340 km, 167 kW) desde 26.615 € y el Mage PHEV (299 CV) desde 28.740 €.",
   category: "Novedades Motor",
   date: "2026-10-04",
   readTime: 7,
@@ -248,19 +251,19 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
   ],
   content: `<img src=/media/dongfeng-vigo-mage-phev-precio-espana-ficha-hero.webp alt=Dos SUV electrificados aparcados en un mirador español al atardecer>
 
-Dongfeng pisa con fuerza en el mercado español. A través del importador Salvador Caetano Auto, la firma china acaba de abrir los pedidos de dos SUV electrificados: el Vigo, totalmente eléctrico (en China se conoce como Nammi 06: <a href=/coches/dongfeng-nammi-06-2025-precio-ficha-tecnica/>ver el análisis del Nammi 06</a>), y el Mage, híbrido enchufable. Los dos lucen etiqueta Cero de la <a href=https://www.dgt.es>DGT</a>, los dos se venden en un solo acabado muy completo, en el que la única elección es el color, y los dos llegan con tarifas que complican la vida a todo el segmento C.
+Dongfeng va en serio en España. La marca china —de la mano del importador **Salvador Caetano Auto**— acaba de abrir los pedidos de sus dos nuevos SUV electrificados: el **Vigo 100% eléctrico** (el Nammi 06 que se vende en China: <a href=/coches/dongfeng-nammi-06-2025-precio-ficha-tecnica/>ver el análisis del Nammi 06</a>) y el **Mage híbrido enchufable**. Ambos con **etiqueta Cero** de la <a href=https://www.dgt.es>DGT</a>, ambos con un único acabado completísimo (solo eliges el color) y ambos con precios que ponen en apuros a todo el segmento C.
 
-## Los números que definen a cada uno
+## Datos clave
 
-- **VIGO, el eléctrico:** mide 4,31 metros y entrega 120 kW, es decir, 163 CV, con un par de 230 Nm. Su batería LFP de 51,87 kWh homologa 340 km en ciclo WLTP y 521 km en uso urbano, admite carga rápida en corriente continua de 167 kW, con la que pasa del 30 al 80% en 18 minutos, ofrece un maletero de 500 litros ampliable a 1.040 litros y permite alimentar aparatos externos con su función V2L de 6 kW.
-- **MAGE, el híbrido enchufable:** mide 4,69 metros y combina un 1.5 turbo de 150 CV con un motor eléctrico de 120 CV, hasta 299 CV conjuntos. Su batería de 17 kWh permite recorrer 89 km sin gastar gasolina en ciclo WLTC, y la autonomía total supera los 1.200 km. El maletero cubica 525 litros, o 1.846 litros con los asientos traseros abatidos.
-- **Precios al contado:** el Vigo arranca en 26.615 € y el Mage en 28.740 €.
-- **Financiación:** el Vigo puede quedarse en 139 €/mes y el Mage en 195 €/mes.
-- **Red comercial:** 25 concesionarios repartidos por España, con almacén propio de recambios que sirve en 24-48 horas.
-- **Garantía:** el coche queda cubierto hasta 300.000 km o 7 años, y la batería, 10 años sin límite de kilómetros.
+- **Dongfeng VIGO (eléctrico):** 4,31 m, 120 kW (**163 CV**), 230 Nm, batería LFP de 51,87 kWh, **340 km WLTP** (521 km en urbano), carga DC de **167 kW** (30-80% en 18 min), maletero 500/1.040 L, función V2L de 6 kW
+- **Dongfeng MAGE (PHEV):** 4,69 m, 1.5 turbo (150 CV) + motor eléctrico (120 CV), **299 CV** combinados, batería de 17 kWh, **89 km en modo eléctrico** (WLTC), más de **1.200 km** de autonomía total, maletero 525/1.846 L
+- **Precios al contado:** VIGO desde **26.615 €** · MAGE desde **28.740 €**
+- **Financiación:** VIGO desde **139 €/mes** · MAGE desde **195 €/mes**
+- **Garantía:** 7 años o 300.000 km (batería: **10 años sin límite de kilómetros**)
+- **Red:** 25 concesionarios en España y almacén de recambios propio (entrega en 24-48 h)
 - **Fuente:** <a href=https://www.dongfeng-auto.es>nota de prensa oficial de Dongfeng España</a>
 
-## Vigo frente a Mage, en una tabla
+## Vigo vs Mage, cara a cara
 
 | | Dongfeng VIGO | Dongfeng MAGE |
 |---|---|---|
@@ -273,48 +276,48 @@ Dongfeng pisa con fuerza en el mercado español. A través del importador Salvad
 | Precio al contado | **26.615 €** | **28.740 €** |
 | Etiqueta DGT | Cero | Cero |
 
-## Qué hay detrás de esos precios
+## La letra pequeña de los precios (importante)
 
-Las cifras de 26.615 € y 28.740 € ya recogen los descuentos de lanzamiento y el anticipo de la ayuda del Plan Auto+. Sin esos dos conceptos, la tarifa queda en 29.990 € para el Vigo y 31.990 € para el Mage. Siguen siendo tarifas combativas —un eléctrico con 340 km y una tarifa por debajo de 30.000 € lo ofrecen muy pocos—, pero conviene conocer la diferencia antes de pisar el concesionario.
+Los 26.615 € y 28.740 € **incluyen los descuentos de lanzamiento y el adelanto de la ayuda del Plan Auto+**. Sin ellos, el PVP es de **29.990 €** (Vigo) y **31.990 €** (Mage). Siguen siendo precios agresivos —un eléctrico de 340 km por menos de 30.000 € de tarifa no lo ofrece casi nadie—, pero conviene saberlo antes de entrar al concesionario.
 
 <img src=/media/dongfeng-vigo-mage-phev-precio-espana-ficha-cuerpo.webp alt=SUV eléctrico cargando en un punto de carga rápida en una estación de servicio española>
 
-## Dos maneras de entender el enchufe
+## El análisis: dos filosofías, un mismo golpe de precio
 
-De los dos, el Vigo es el que más llama la atención: una carga rápida en corriente continua de 167 kW por 26.615 € es un registro que ni bastantes eléctricos de 40.000 € alcanzan, y los 340 km WLTP con una batería LFP, más longeva y barata de fabricar, lo vuelven creíble como único coche para quien no recorra distancias larguísimas cada día. El equipamiento de serie —calefacción y ventilación en los asientos delanteros, que además son eléctricos y con memoria, cámara de 360º y carga inalámbrica de 50 W— pertenece a un segmento superior.
+El **Vigo** es el más interesante de los dos: 167 kW de carga DC en un coche de 26.615 € es una cifra que ni muchos eléctricos de 40.000 € ofrecen, y los 340 km WLTP con batería LFP (más duradera y barata de producir) lo hacen creíble como coche único para quien no haga viajes larguísimos a diario. El equipamiento de serie —asientos delanteros eléctricos con memoria, calefacción y ventilación, cámara 360º, carga inalámbrica de 50 W— es de segmento superior.
 
-El Mage compite en otra categoría: 299 CV y 89 km eléctricos lo enfrentan a los PHEV europeos que parten de 40.000 € hacia arriba, con la baza de cubrir el uso diario en modo eléctrico y afrontar los viajes largos sin depender de paradas para cargar. En precio, su rival más directo es el <a href=/coches/jaecoo-5-precio-ficha-tecnica/>Jaecoo 5</a>; si se busca un eléctrico puro, la referencia es el <a href=/coches/byd-atto-2-precio-ficha-tecnica/>BYD Atto 2</a>.
+El **Mage** juega otra liga: 299 CV y 89 km eléctricos lo colocan frente a los PHEV europeos de 40.000 € para arriba, con la ventaja de poder hacer el día a día en eléctrico y los viajes largos sin parar a cargar. Su rival directo en precio es el <a href=/coches/jaecoo-5-precio-ficha-tecnica/>Jaecoo 5</a>; en formato eléctrico puro, el <a href=/coches/byd-atto-2-precio-ficha-tecnica/>BYD Atto 2</a>.
 
-¿El punto débil? La marca todavía está levantando su red, con 25 puntos de venta, y aún no existen opiniones de propietarios españoles: ambos modelos acaban de aterrizar. A cambio, la garantía de la batería, de 10 años sin límite de kilómetros, es la mejor del mercado. Los dos están en el <a href=/comparador-coches/>comparador de coches</a>.
+¿El "pero"? La marca aún está construyendo su red (25 puntos de venta) y no hay opiniones de propietarios españoles todavía: son modelos recién llegados. A cambio, la garantía de 10 años sin límite de kilómetros en la batería es la mejor del mercado. Los tienes en el <a href=/comparador-coches/>comparador de coches</a>.
 
-## El vídeo del Mage
+## Míralo en vídeo
 
 <iframe src=https://www.youtube.com/embed/dqGNyX9snSw title="Vídeo: Dongfeng MAGE: máxima potencia" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=dqGNyX9snSw>Dongfeng Motor Perú</a> en YouTube
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿Cuánto vale el Vigo en el mercado español?
-Desde 26.615 € al contado, con una tarifa de 29.990 € antes de descuentos y ayudas, o desde 139 €/mes si se financia.
+### ¿Cuánto cuesta el Dongfeng Vigo en España?
+Desde **26.615 €** al contado (29.990 € de PVP sin descuentos ni ayudas) o desde 139 €/mes financiado.
 
-### ¿Cuánto vale el Mage PHEV?
-Desde 28.740 € al contado, con una tarifa de 31.990 € antes de descuentos y ayudas, o desde 195 €/mes si se financia.
+### ¿Cuánto cuesta el Dongfeng Mage PHEV?
+Desde **28.740 €** al contado (31.990 € de PVP sin descuentos ni ayudas) o desde 195 €/mes financiado.
 
-### ¿Qué recorrido eléctrico ofrece el Mage?
-Hasta 89 km circulando solo con electricidad en ciclo WLTC, y una autonomía conjunta que pasa de 1.200 km si se combina gasolina y electricidad.
+### ¿Qué autonomía eléctrica tiene el Dongfeng Mage?
+Hasta **89 km en modo 100% eléctrico** (ciclo WLTC), con más de 1.200 km de autonomía total combinando gasolina y electricidad.
 
-### ¿Qué distintivo ambiental llevan?
-Los dos llevan la etiqueta Cero: el Vigo por funcionar solo con electricidad, y el Mage, como híbrido enchufable que supera los 40 km de autonomía eléctrica.
-
-### ¿Qué cobertura ofrece la garantía?
-Para el vehículo, la cobertura alcanza 300.000 km o 7 años, y la batería queda cubierta 10 años sin límite de kilómetros.
-
-### ¿Quién los vende y los mantiene en España?
-En España los distribuye Salvador Caetano Auto, que cuenta con 25 concesionarios y un almacén propio de recambios con servicio en 24-48 horas.
+### ¿Qué etiqueta de la DGT tienen?
+Ambos llevan la **etiqueta Cero**: el Vigo por ser 100% eléctrico y el Mage por ser híbrido enchufable con más de 40 km de autonomía eléctrica.
 
 
-Y si una sanción te parece injusta, antes de abonarla puedes <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> para comprobar si presenta algún defecto formal.
-`,
+### ¿Qué garantía ofrece Dongfeng en España?
+7 años o 300.000 km para el vehículo y 10 años sin límite de kilómetros para la batería.
+
+### ¿Quién vende y mantiene los Dongfeng en España?
+El importador **Salvador Caetano Auto**, con 25 concesionarios en España y almacén de recambios propio con entrega en 24-48 horas.
+
+
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
 },
 ];

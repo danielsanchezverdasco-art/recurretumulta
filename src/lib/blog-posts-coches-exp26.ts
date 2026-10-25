@@ -8,7 +8,7 @@ export const COCHES_EXP26_POSTS: BlogPost[] = [
   {
     "title": "Lancia Ypsilon 2024: precio, híbrido ECO y eléctrico",
     "slug": "lancia-ypsilon-2024-precio",
-    "excerpt": "El Ypsilon 2024 arranca en 23.019 € como híbrido de 110 CV con etiqueta ECO; la variante eléctrica de 156 CV homologa 425 km y se fabrica en Zaragoza.",
+    "excerpt": "Precio y ficha técnica del Lancia Ypsilon 2024: híbrido de 110 CV con etiqueta ECO desde 23.019 € y eléctrico de 156 CV con 425 km de autonomía. Fabricado en España.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "readTime": 7,
@@ -18,11 +18,11 @@ export const COCHES_EXP26_POSTS: BlogPost[] = [
 
 **¿Buscas solo los datos?** <a href=/coches/lancia-ypsilon-2024-precio-ficha-tecnica/>Ver la ficha técnica del Lancia Ypsilon 2024</a>: precio, potencia, consumo y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El Ypsilon 2024 supone la vuelta de la marca italiana al mercado europeo tras una década en la que solo se vendía en el mercado italiano: un utilitario de 4,08 metros que se ofrece en versión híbrida de 110 CV y en versión eléctrica de 156 CV. La variante híbrida arranca en 23.019 € y porta el distintivo ECO de la DGT, mientras la eléctrica parte de 32.126 € y homologa 425 km de autonomía.
+El **Lancia Ypsilon 2024** marca el regreso de la marca italiana al panorama europeo después de una década vendiendo solo en Italia: un utilitario de **4,08 metros** disponible como **híbrido de 110 CV** y como **eléctrico de 156 CV**. La versión híbrida parte de **23.019 €** y luce la etiqueta **ECO** de la DGT, mientras que la eléctrica arranca en **32.126 €** con **425 km de autonomía homologada**.
 
-El coche, además, lleva pasaporte español: sale de la factoría de Stellantis en Figueruelas (Zaragoza), junto al Opel Corsa y al Peugeot 208, modelos con los que comparte base técnica y plataforma CMP.
+Es, además, un coche con pasaporte español: se fabrica en la planta de Stellantis de **Figueruelas (Zaragoza)**, junto a sus primos técnicos, el Opel Corsa y el Peugeot 208, con los que comparte la plataforma CMP.
 
-## Datos esenciales
+## Ficha técnica resumida
 
 | Concepto | Dato |
 |---|---|
@@ -41,77 +41,71 @@ El coche, además, lleva pasaporte español: sale de la factoría de Stellantis 
 
 <a href=/coches/lancia-ypsilon-2024-precio-ficha-tecnica/>Ver la ficha técnica completa del Lancia Ypsilon con galería de fotos</a>
 
-## El híbrido de 48 V
+## Híbrido de 48 V: 110 CV y etiqueta ECO
 
-El eje de la gama es un 1.2 tricilíndrico con apoyo eléctrico ligero de 48 V, que rinde 110 CV y un par de 205 Nm. Homologa 4,5 litros cada 100 km y 103 gramos por kilómetro de CO2, cifras que le otorgan el distintivo ECO. Se trata de la versión con mayor volumen de ventas previsto: silenciosa en la práctica totalidad de situaciones, con prestaciones holgadas para viajar y un gasto contenido. Su flanco débil, según las pruebas, consiste en que la entrega de potencia en ciudad resulta menos suave que la de otros híbridos.
+El corazón de la gama es el **1.2 de tres cilindros con hibridación ligera de 48 V**, que entrega **110 CV** y 205 Nm de par. Homologa **4,5 l/100 km** y 103 g/km de CO2, lo que le vale la etiqueta **ECO**. Es la versión que más se venderá: silenciosa en casi cualquier circunstancia, con prestaciones de sobra para viajar y un consumo ajustado. Su punto débil, según las pruebas, es que **la entrega de potencia no es tan suave en ciudad** como la de otros híbridos.
 
-La Ypsilon Elettrica recurre a una batería de 51 kWh, asociada a un motor de 156 CV: más suave y más rápida, con 425 km de autonomía, a cambio de un maletero menor (309 litros, frente a 352). Por encima se sitúa el Ypsilon HF, que sube la apuesta hasta 281 CV para quien busque el utilitario con más carácter del grupo Stellantis.
+La **Ypsilon Elettrica** monta una batería de **51 kWh** y un motor de **156 CV**: más suave, más rápida y con **425 km de autonomía**, aunque pierde maletero (309 litros frente a 352). Por encima, el **Ypsilon HF** eleva la apuesta a **281 CV** para quien quiera el utilitario más divertido del grupo Stellantis.
 
 <img src=/media/lancia-ypsilon-2024-precio-ficha-tecnica-interior.webp alt=Interior del Lancia Ypsilon 2024>
 
-## Diseño con identidad propia
+## Un diseño que no se parece a sus primos
 
-Lancia ha separado al Ypsilon del Corsa y del 208 con detalles propios: el frontal monta tres tiras LED sobre un panel en negro, mientras la zaga exhibe unos faros redondos que evocan directamente al mítico Lancia Stratos. Sobre el portón, el nombre del modelo figura en caligrafía, al estilo de los Fulvia o Flavia clásicos.
+Lancia ha diferenciado al Ypsilon del Corsa y el 208 con detalles propios: el frontal lleva **tres tiras LED** sobre un panel negro, y la zaga luce unos **faros redondos** que son un guiño directo al mítico **Lancia Stratos**. El nombre del modelo aparece en caligrafía sobre el portón, como en los Fulvia o Flavia clásicos.
 
-Dentro, la nota singular es la Tavolino, una mesita pequeña situada en el centro del salpicadero, junto a unos asientos forrados de terciopelo, excepto en el acabado básico, que no ofrece ningún rival. El cuadro de instrumentos recurre a pantallas duales de 10,25 pulgadas y el coche dispone de conducción autónoma de nivel 2.
+Dentro, la sorpresa es la **Tavolino**, una pequeña mesita en el centro del salpicadero, y unos asientos **recubiertos de terciopelo** (salvo en el acabado básico) que ningún rival ofrece. El cuadro de instrumentos usa **pantallas duales de 10,25 pulgadas** y hay conducción autónoma de nivel 2.
 
-## Historia de la saga Ypsilon
+## Historia del Ypsilon: el utilitario chic italiano
 
-La saga acumula cuatro generaciones y supera los cuatro millones de ejemplares comercializados desde 1985:
+El Ypsilon es una saga con cuatro generaciones y más de cuatro millones de unidades vendidas desde 1985:
 
-- **Año 1985 · Y10:** estreno de la saga, proyecto conjunto con Pininfarina, urbano de aire premium y portón trasero en cristal oscuro.
-- **Año 1995 · Y:** segunda entrega, reconocible por sus faros en vertical, su rasgo más visible.
-- **Año 2003 · Ypsilon 843:** tres puertas y el puesto de modelo más vendido de Lancia.
-- **Año 2011 · Ypsilon 846:** la entrega longeva, con trece años a la venta y éxito de ventas en Italia hasta 2024.
-- **Año 2024 · Ypsilon nueva era:** estreno de Lancia en la era Stellantis, con plataforma CMP, versiones híbrida y eléctrica, y producción en Zaragoza.
+- **1985 — Lancia Y10:** el original, diseñado con la colaboración de Pininfarina, utilitario premium con portón de cristal negro.
+- **1995 — Lancia Y:** segunda generación, con sus característicos faros verticales.
+- **2003 — Ypsilon (843):** carrocería de tres puertas, se convierte en el modelo más vendido de Lancia.
+- **2011 — Ypsilon (846):** la generación longeva: trece años en el mercado, superventas en Italia hasta 2024.
+- **2024 — Ypsilon (nueva era):** primera Lancia de la era Stellantis, plataforma CMP, híbrido y eléctrico, fabricado en Zaragoza.
 
 <img src=/media/lancia-ypsilon-2024-precio-ficha-tecnica-oficial.webp alt=Trasera del Lancia Ypsilon 2024>
 
 ## Mantenimiento
 
-Para el 1.2 híbrido de 48 V, la red Stellantis marca el calendario de mantenimiento: como orientación, revisión cada 12 meses o cada 15.000 km, incluyendo cambio de aceite, sustitución del filtro de aceite y del filtro de polen. Al tratarse de una hibridación ligera, no existe una batería de tracción grande que cuidar: el mantenimiento se parece al de un gasolina convencional. En cuanto a los costes exactos por revisión, todavía no los ha publicado Lancia España; lo aconsejable es pedir presupuesto en la red oficial. *Fuente: red oficial Stellantis*
+El 1.2 híbrido de 48 V sigue el plan de mantenimiento de la red Stellantis: orientativamente, **revisión cada 12 meses o 15.000 km**, con cambio de aceite, filtro de aceite y filtro de polen. Al ser un sistema de hibridación ligera, no hay batería de tracción grande que mantener: el mantenimiento es similar al de un gasolina convencional. Los costes exactos por revisión aún no están publicados por Lancia España: conviene pedir presupuesto en la red oficial. *Fuente: red oficial Stellantis*
 
-## Precios y competencia
+## Precio y rivales
 
-La Ypsilon Ibrida parte de 23.019 € y rivaliza con el Peugeot 208 Hybrid, que comparte motor y se mueve en un precio similar, con el Opel Corsa Hybrid y con el Renault Clio E-Tech, un híbrido completo más suave en ciudad. La variante eléctrica, desde 32.126 €, se enfrenta al Peugeot E-208 y al Opel Corsa-e. El Ypsilon destaca en distinción y en equipamiento interior; en cambio, sus primos de grupo acostumbran a ofrecer mejores descuentos.
+Desde 23.019 €, el Ypsilon Ibrida compite con el **Peugeot 208 Hybrid** (mismo motor, precio similar), el **Opel Corsa Hybrid** y el **Renault Clio E-Tech** (híbrido completo, más suave en ciudad). La eléctrica, desde 32.126 €, se mide con el **Peugeot E-208** y el **Opel Corsa-e**. El Ypsilon gana en distinción y equipamiento interior; pierde en que sus primos de grupo suelen ofrecer mejores descuentos.
 
-## Veredicto
+## Veredicto: el utilitario con más carácter del grupo
 
-El Ypsilon 2024 prueba que compartir plataforma no obliga a compartir personalidad. El diseño es auténticamente Lancia, el interior de terciopelo con Tavolino no lo ofrece nadie, y la gama va del híbrido ECO asequible a la eléctrica de 425 km, y de ahí a la deportiva HF de 281 CV. Su fabricación en Zaragoza supone un argumento con peso entre los compradores españoles.
+El Ypsilon 2024 demuestra que se puede compartir plataforma sin compartir personalidad. El diseño es genuinamente Lancia, el interior con terciopelo y Tavolino no lo tiene nadie, y la gama cubre desde el híbrido ECO asequible hasta la eléctrica de 425 km y la deportiva HF de 281 CV. Que además se fabrique en Zaragoza es un argumento de peso para el comprador español.
 
-¿A quién va dirigido? A quien busca un utilitario con carácter propio y rehúye otro 208 o Corsa más. El híbrido de 110 CV supone la compra racional: distintivo ECO, 4,5 litros cada 100 km y un precio contenido.
+¿Para quién es? Para quien busca un utilitario con estilo propio y no quiere el enésimo 208 o Corsa. El híbrido de 110 CV es la compra racional: etiqueta ECO, 4,5 l/100 km y precio contenido.
 
-¿Y sus pegas? Las plazas traseras quedan justas para cuatro adultos, el híbrido podría ganar refinamiento en ciudad, y el precio de partida queda algo alto si se compara con sus hermanos de grupo. Queda, además, la incógnita de la seguridad: la generación nueva todavía no ha pasado por EuroNCAP.
+¿Sus pegas? Las plazas traseras son justas para cuatro adultos, el híbrido podría ser más refinado en ciudad y el precio parte algo alto frente a sus hermanos de grupo. Y queda la incógnita de la seguridad: la nueva generación aún no ha pasado por EuroNCAP.
 
-## Coste mensual estimado
+## Cuánto cuesta mantenerlo
 
-Con 15.000 km anuales, la estimación orientativa se sitúa en unos 183 € al mes. De esa cifra, 87 € corresponden a gasolina, con un consumo de 4,5 litros cada 100 km; 62 €, al seguro a todo riesgo; 29 €, al mantenimiento prorrateado; y 5 €, al impuesto de circulación. Todas son cifras aproximadas, dependientes de tu uso, de tu aseguradora y de tu municipio.
+Estimación orientativa con 15.000 km al año: unos **183 €/mes**, desglosados en 87 € de gasolina (4,5 l/100 km), 62 € de seguro a todo riesgo, 29 € de mantenimiento prorrateado y 5 € de impuesto de circulación. Son cifras aproximadas que varían según tu uso, tu aseguradora y tu municipio.
 
 ## Preguntas frecuentes
 
-### ¿Desde qué precio arranca el Ypsilon 2024?
+### ¿Cuánto cuesta el Lancia Ypsilon 2024?
+Desde 23.019 € la versión Ibrida de 110 CV; la eléctrica parte de 32.126 €.
 
-La Ibrida de 110 CV parte de 23.019 €; la eléctrica, de 32.126 €.
+### ¿Qué autonomía tiene el Ypsilon eléctrico?
+425 km en ciclo WLTP con su batería de 51 kWh.
 
-### ¿Qué alcance homologa el Ypsilon eléctrico?
+### ¿El Ypsilon híbrido tiene etiqueta ECO?
+Sí, gracias a su hibridación ligera de 48 V.
 
-Con su batería de 51 kWh, homologa 425 km en ciclo WLTP.
+### ¿Dónde se fabrica el Lancia Ypsilon?
+En Figueruelas (Zaragoza, España), en la planta de Stellantis.
 
-### ¿El híbrido porta distintivo ECO?
+### ¿Qué maletero tiene?
+352 litros en el híbrido y 309 litros en la versión eléctrica.
 
-Sí: la hibridación ligera de 48 V le otorga el distintivo ECO.
-
-### ¿En qué planta se fabrica el Ypsilon?
-
-Sale de la planta de Stellantis en Figueruelas, Zaragoza.
-
-### ¿Qué capacidad tiene su maletero?
-
-El híbrido ofrece 352 litros; la versión eléctrica, 309 litros.
-
-### ¿Ha pasado la nueva generación por EuroNCAP?
-
-No: la generación de 2024 todavía no ha sido probada por EuroNCAP.
+### ¿Tiene prueba EuroNCAP la nueva generación?
+No: la generación de 2024 aún no ha sido probada por EuroNCAP.
 
 *Fuentes: <a href=https://www.km77.com/coches/lancia/ypsilon/2024/estandar/datos>km77.com</a>, <a href=https://www.lancia.com> Lancia oficial</a>*
 
@@ -417,7 +411,7 @@ No: el modelo no ha sido probado por EuroNCAP.
   {
     "title": "GWM Haval H6 2024: SUV híbrido de 243 CV y ECO",
     "slug": "gwm-haval-h6-2024-precio",
-    "excerpt": "El GWM Haval H6 híbrido entrega 243 CV, gasta 5,9 l/100 km, lleva etiqueta ECO y ofrece 560 litros: el SUV chino más vendido, sin precio aún en España.",
+    "excerpt": "Ficha técnica del GWM Haval H6 2024 híbrido: 243 CV, 5,9 l/100 km, etiqueta ECO, 560 litros de maletero y 5 estrellas ANCAP. El SUV chino más vendido del mundo.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "readTime": 7,
@@ -427,7 +421,7 @@ No: el modelo no ha sido probado por EuroNCAP.
 
 **¿Buscas solo los datos?** <a href=/coches/gwm-haval-h6-2024-precio-ficha-tecnica/>Ver la ficha técnica del GWM Haval H6</a>: potencia, consumo, medidas y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-Pocos SUV pueden presumir del historial del Haval H6 de GWM: supera los **cuatro millones de unidades** vendidas y pasa por ser el todocamino más vendido en la historia de China. Su tercera generación desembarcó en Europa con una variante **híbrida de 243 CV**, que une un turbo de 1,5 litros a un motor eléctrico. Declara alrededor de **5,9 l/100 km** y unas emisiones de **134 g/km de CO2**, y porta la etiqueta **ECO** de la DGT. La marca todavía no ha comunicado el precio oficial para España: aquí se reúnen los datos técnicos comprobados.
+El **GWM Haval H6** es el SUV más vendido de la historia de China —más de **cuatro millones de unidades**— y su tercera generación llegó a Europa con una versión **híbrida de 243 CV** que combina un motor turbo de 1.5 litros con un motor eléctrico. Homologa unos **5,9 l/100 km**, emite 134 g/km de CO2 y luce la etiqueta **ECO** de la DGT. GWM aún **no publica el precio oficial en España**: esta ficha recoge los datos técnicos verificados.
 
 ## Ficha técnica resumida
 
@@ -449,64 +443,64 @@ Pocos SUV pueden presumir del historial del Haval H6 de GWM: supera los **cuatro
 
 <a href=/coches/gwm-haval-h6-2024-precio-ficha-tecnica/>Ver la ficha técnica completa del Haval H6 con galería de fotos</a>
 
-## Híbrido sin enchufe: 243 CV y par de 530 Nm
+## Híbrido autorrecargable: 243 CV sin enchufar
 
-El conjunto une un **1,5 turbo de 147 CV** a un eléctrico de **174 CV**, con lo que la potencia conjunta alcanza **243 CV** y el par ronda los **530 Nm**. El cambio es una **DHT** pensada para híbridos y la tracción va al eje delantero. No necesita enchufe: el acumulador de **1,67 kWh** recupera energía al frenar.
+El sistema híbrido combina un **1.5 turbo de 147 CV** con un **motor eléctrico de 174 CV**, para una potencia conjunta de **243 CV** y un par de unos **530 Nm**. La caja es una **DHT dedicada a híbridos** y la tracción es delantera. No hay que enchufarlo: la batería de 1,67 kWh se recarga con la frenada regenerativa.
 
-Así queda un SUV de 4,70 metros con un gasto propio de un utilitario, con **5,9 l/100 km** homologados, y en ciudad, el eléctrico asume la mayor parte del esfuerzo y el consumo real puede bajar todavía más.
+El resultado es un SUV de 4,70 metros que gasta como un utilitario: **5,9 l/100 km** homologados. En ciudad, donde el motor eléctrico hace la mayor parte del trabajo, el consumo real puede ser incluso menor.
 
 <img src=/media/gwm-haval-h6-2024-precio-ficha-tecnica-interior.webp alt=Interior del GWM Haval H6 2024>
 
 ## Espacio y tecnología de segmento superior
 
-Gracias a sus **2.738 mm entre ejes** y a un maletero de **560 litros**, el H6 brinda espacio de SUV grande. Dentro preside una pantalla central de **14,6 pulgadas**, compatible con Apple CarPlay y Android Auto sin cables, junto a un cuadro digital de 10,25 pulgadas y una cámara de **360°**, además de proyección **Head-up Display**, asientos delanteros con calefacción y ventilación y reglaje eléctrico, techo panorámico y portón que se abre con el pie.
+Con **2.738 mm entre ejes** y **560 litros de maletero**, el H6 ofrece habitabilidad de SUV grande. El interior está dominado por una **pantalla central de 14,6 pulgadas** con Apple CarPlay y Android Auto inalámbricos, cuadro digital de 10,25", **Head-up Display**, cámara de 360°, asientos delanteros calefactables y ventilados con regulación eléctrica, techo panorámico y portón con apertura por pie.
 
-En el capítulo de seguridad, el H6 obtuvo **5 estrellas ANCAP en 2022**, con un 90% en protección de adultos y un 88% en la infantil, si bien **EuroNCAP** todavía no lo ha evaluado.
+En seguridad, el H6 logró **5 estrellas ANCAP en 2022** (90% en protección de adultos, 88% en infantil), aunque aún no ha sido probado por **EuroNCAP**.
 
-## Historia del H6 en cuatro fechas
+## Historia del H6: el rey de los SUV chinos
 
-- **2011:** arranca la primera generación del Haval H6, que no tarda en alzarse como el SUV más vendido de China.
-- **2016:** llega la segunda generación, que da un salto en calidad y diseño.
-- **2020:** la tercera generación se apoya en la plataforma **Lemon** y ofrece variantes de gasolina, híbrida e híbrida enchufable.
-- **2024:** profundo restyling, versión **Pro**, que estrena un interior digital y amplía la gama híbrida.
+- **2011:** nace la primera generación del Haval H6, que pronto se convierte en el SUV más vendido de China.
+- **2016:** segunda generación, con un salto en calidad y diseño.
+- **2020:** tercera generación sobre la plataforma **Lemon**, con versiones gasolina, híbrida e híbrida enchufable.
+- **2024:** restyling profundo (versión Pro) con nuevo interior digital y la gama híbrida ampliada.
 
 <img src=/media/gwm-haval-h6-2024-precio-ficha-tecnica-oficial.webp alt=Trasera del GWM Haval H6 2024>
 
 ## Mantenimiento
 
-La marca todavía no ha difundido el plan de mantenimiento oficial para España. Al tratarse de un híbrido autorrecargable, las revisiones copian el esquema de un gasolina: aceite, filtros e inspección, y añaden la comprobación del sistema híbrido. Los intervalos y los costes quedan pendientes de que los publique la red oficial de GWM en España.
+GWM no ha publicado el plan de mantenimiento oficial para España. Como híbrido autorrecargable, las revisiones siguen el esquema de un gasolina (aceite, filtros, inspección) más la revisión del sistema híbrido. Los intervalos y costes están pendientes de publicación por la red oficial de GWM España.
 
 ## Precio y rivales
 
-A falta de un precio oficial para España, sus contrincantes son el **Toyota RAV4 hybrid**, que marca la referencia y parte de unos **38.000 €**. También compiten el **Hyundai Tucson híbrido** y el **Kia Sportage híbrido**, además del **MG HS híbrido**. Fuera de España, el H6 se coloca netamente por debajo de los modelos japoneses y coreanos: de repetir GWM esa estrategia en España, quedaría entre las opciones híbridas de **243 CV** con mejor precio.
+Sin precio oficial español, sus rivales son el **Toyota RAV4 hybrid** (la referencia, desde unos 38.000 €), el **Hyundai Tucson híbrido**, el **Kia Sportage híbrido** y el **MG HS híbrido**. En otros mercados, el H6 se posiciona claramente por debajo de los japoneses y coreanos: si GWM replica esa estrategia en España, sería uno de los híbridos de 243 CV más asequibles.
 
-## Veredicto: mucho SUV a precio contenido
+## Veredicto: mucho SUV por (previsiblemente) poco dinero
 
-El Haval H6 híbrido demuestra que China ya planta cara de igual a igual en el segmento más reñido de Europa, con **243 CV**, etiqueta **ECO** y un maletero de **560 litros**, más **5 estrellas ANCAP** y un consumo de **5,9 l/100 km**, además de un equipamiento que las marcas generalistas cobran aparte. Que triunfe dependerá de dos cosas: el precio que GWM fije en España y una red posventa convincente.
+El Haval H6 híbrido es la demostración de que China ya compite de tú a tú en el segmento más disputado de Europa: 243 CV, 5,9 l/100 km, etiqueta ECO, 560 litros de maletero, 5 estrellas ANCAP y un equipamiento que los generalistas cobran como opciones. Su éxito dependerá del precio que GWM fije en España y de que la red posventa convenza.
 
-¿A quién va dirigido? A familias que buscan un todocamino grande híbrido, con etiqueta **ECO**, sin asumir el sobreprecio japonés o coreano.
+¿Para quién es? Para familias que necesitan un SUV grande híbrido con etiqueta ECO sin pagar el sobreprecio japonés o coreano.
 
-¿Y sus pegas? Sin un precio oficial para España, recomendarlo hoy resulta complicado. Además, casi todo se maneja desde la pantalla táctil, con pocos botones físicos, y no trae rueda de repuesto y sigue pendiente la prueba europea de **EuroNCAP**.
+¿Sus pegas? **Sin precio oficial en España** es difícil recomendarlo hoy. Además, casi todo se controla desde la pantalla táctil (pocos botones físicos), no hay rueda de repuesto y falta la prueba EuroNCAP europea.
 
 ## Preguntas frecuentes
 
-### ¿Qué precio tiene el Haval H6 híbrido en España?
-GWM todavía no ha comunicado el precio oficial para España.
+### ¿Cuánto cuesta el Haval H6 híbrido en España?
+GWM aún no publica el precio oficial en España.
 
-### ¿Qué potencia combina el Haval H6 híbrido?
-**243 CV** entre el 1,5 turbo y el motor eléctrico.
+### ¿Cuántos caballos tiene el Haval H6 híbrido?
+243 CV combinados (1.5 turbo + motor eléctrico).
 
-### ¿Cuánto consume?
-Alrededor de **5,9 l/100 km** homologados.
+### ¿Qué consumo tiene?
+Unos 5,9 l/100 km homologados.
 
-### ¿Lleva etiqueta ECO?
-Sí, gracias a su sistema híbrido autorrecargable.
+### ¿Tiene etiqueta ECO?
+Sí, por su sistema híbrido autorrecargable.
 
-### ¿Qué capacidad tiene el maletero?
-**560 litros**.
+### ¿Qué maletero tiene?
+560 litros.
 
-### ¿Es seguro? ¿Lo ha probado EuroNCAP?
-Obtuvo **5 estrellas ANCAP en 2022**; **EuroNCAP** todavía no lo ha evaluado.
+### ¿Es seguro? ¿Tiene EuroNCAP?
+Logró 5 estrellas ANCAP en 2022; EuroNCAP aún no lo ha probado.
 
 *Fuentes: <a href=https://es.wikipedia.org/wiki/Haval_H6>Wikipedia</a>, <a href=https://www.gwm-mx.com/content/dam/gwm/pages/mx/es/pdf/fichas/gwm-h6-ficha-tecnica-2026.pdf>ficha técnica oficial GWM</a>*
 

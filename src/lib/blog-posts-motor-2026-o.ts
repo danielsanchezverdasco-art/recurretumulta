@@ -87,9 +87,9 @@ El símbolo histórico de Gordini. En el concept deja de ser decoración y pasa 
 ¿Te han puesto una multa? <a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
 },
 {
-  "title": "Leapmotor B03 París 2026: compacto eléctrico de 392 km",
+  "title": "Leapmotor B03: el compacto que reta al R5 en París",
   "slug": "leapmotor-b03-electrico-paris-2026",
-  "excerpt": "El B03 debuta fuera de China en París: 4,20 m, hasta 392 km WLTC y un precio aún sin confirmar que apunta por debajo del B03X.",
+  "excerpt": "Leapmotor presenta en París el B03, un compacto eléctrico de 4,20 m con hasta 392 km de autonomía. Llega en el mejor momento de la marca en España: 1.705 matriculaciones en septiembre.",
   "category": "Novedades Motor",
   "date": "2026-10-12",
   "readTime": 7,
@@ -103,23 +103,23 @@ El símbolo histórico de Gordini. En el concept deja de ser decoración y pasa 
   ],
   "content": `<img src=/media/leapmotor-b03-electrico-paris-2026-oficial.webp alt=Leapmotor B03 en foto oficial de Leapmotor>
 
-El Salón de París ha servido a Leapmotor para enseñar fuera de China, por primera vez, su nuevo compacto eléctrico: el B03. La marca china integrada en Stellantis llega a la cita en plena racha en España, donde en septiembre sumó 1.705 matriculaciones, cinco veces más que un año antes.
+**Leapmotor** no podía elegir mejor momento para presentar un coche nuevo en Europa: la marca china de Stellantis **multiplicó por cinco sus matriculaciones en España en septiembre** (1.705 unidades) y aprovecha el **Salón de París** para mostrar su próxima baza, el **B03**: un compacto eléctrico de **4,20 metros** con hasta **392 km de autonomía** que se presenta por primera vez fuera de China.
 
-## Lo esencial del B03
+## Datos clave
 
-- **Formato:** hatchback compacto, a medio camino entre el T03 y el B05.
-- **Medida:** 4,20 m de largo.
-- **Alcance:** hasta 392 km en ciclo WLTC, en la versión ProMax, a la espera de la homologación europea.
-- **Maletero:** con doble nivel.
-- **Equipamiento tecnológico:** carga rápida y funciones digitales con inteligencia artificial.
-- **Exposición:** el stand más amplio que la marca ha montado nunca, en el pabellón 4, junto a Stellantis.
-- **Cobertura consultada:** <a href=https://www.km77.com/revista/noticias/salon-del-automovil-de-paris-2026-las-novedades-mas-relevantes/>km77</a> y <a href=https://etiqueta0.com/noticias/leapmotor-b03-electrico-392-km-europa-etiqueta-0>etiqueta0</a>.
+- **Segmento:** hatchback compacto (entre el T03 y el B05)
+- **Longitud:** 4,20 m
+- **Autonomía:** hasta 392 km en ciclo WLTC (versión ProMax, pendiente de homologación europea)
+- **Maletero:** de doble nivel
+- **Tecnología:** carga rápida y experiencia digital con IA
+- **Stand:** el más grande de la historia de la marca (pabellón 4, junto a Stellantis)
+- **Fuentes:** <a href=https://www.km77.com/revista/noticias/salon-del-automovil-de-paris-2026-las-novedades-mas-relevantes/>km77</a> y <a href=https://etiqueta0.com/noticias/leapmotor-b03-electrico-392-km-europa-etiqueta-0>etiqueta0</a>
 
-## El hueco que ocupa frente al B03X y el R5
+## El análisis: ¿dónde encaja el B03?
 
-Por tamaño y planteamiento, el B03 queda un escalón por debajo del <a href=/coches/leapmotor-b03x-2026-precio-ficha-tecnica/>B03X</a>, el SUV que ya se comercializa en España con 292 km de alcance y 176 CV, a la venta desde 24.264 € (cifras recogidas en nuestra <a href=/coches/leapmotor-b03x-2026-precio-ficha-tecnica/>ficha del B03X</a>). Al ser más pequeño y ligero, su precio de salida debería quedar por debajo de esa cantidad si la marca mantiene su estrategia de precios ajustados, lo que lo enfrentaría de forma directa con el <a href=/coches/renault-5-e-tech-40-kwh-2026-precio-ficha-tecnica/>Renault 5 E-Tech</a>, desde 26.821 €, y con el <a href=/coches/volkswagen-id-polo-2026-precio-ficha-tecnica/>Volkswagen ID. Polo</a>.
+El B03 se coloca justo debajo del <a href=/coches/leapmotor-b03x-2026-precio-ficha-tecnica/>B03X</a>, el SUV que ya se vende en España desde **24.264 €** con 176 CV y 292 km de autonomía (datos de nuestra <a href=/coches/leapmotor-b03x-2026-precio-ficha-tecnica/>ficha del B03X</a>). Si Leapmotor mantiene su política de precios agresiva, el B03 —más pequeño y ligero— debería partir **por debajo** de esa cifra, lo que lo pondría directamente contra el <a href=/coches/renault-5-e-tech-40-kwh-2026-precio-ficha-tecnica/>Renault 5 E-Tech</a> (desde 26.821 €) y el <a href=/coches/volkswagen-id-polo-2026-precio-ficha-tecnica/>Volkswagen ID. Polo</a>.
 
-Conviene leer el alcance con cautela: los 392 km corresponden al ciclo WLTC y la homologación europea todavía está pendiente. Ese protocolo resulta más benévolo que el WLTP aplicado en España, así que la cifra definitiva en Europa podría quedar algo por debajo. Con todo, sigue siendo un registro alentador para un compacto de precio contenido.
+Ojo con la letra pequeña: los **392 km están medidos en ciclo chino WLTC** y pendientes de homologación europea. El WLTC es más optimista que el WLTP que usamos en España, así que la cifra final europea será algo menor. Aun así, es un dato prometedor para un compacto de este precio.
 
 |  | Leapmotor B03 | Leapmotor B03X | Renault 5 E-Tech 40 kWh |
 |---|---|---|---|
@@ -130,36 +130,36 @@ Conviene leer el alcance con cautela: los 392 km corresponden al ciclo WLTC y la
 
 <img src=/media/leapmotor-b03-electrico-paris-2026-oficial-2.webp alt=Leapmotor B03, vista lateral en foto oficial de Leapmotor>
 
-## Qué supone para el mercado español
+## Por qué importa para España
 
-La ofensiva china ya no es una promesa lejana: es el presente del mercado. Con el B03X ya en venta, el <a href=/coches/leapmotor-b05-2026-precio-ficha-tecnica/>B05</a> y el <a href=/coches/leapmotor-c10-reev-2026-precio-ficha-tecnica/>C10 REEV</a> redondeando la oferta, y la maquinaria industrial del grupo Stellantis en marcha, el B03 llegaría con la etiqueta Cero de la DGT de forma automática y con una red de ventas que ya funciona. La pelea entre los compactos eléctricos de precio ajustado —R5, ID. Polo y B03— se perfila como la gran pugna del año en España. <a href=/comparador-coches/>Compáralos en el comparador de coches</a>.
+Leapmotor es la prueba de que la ofensiva china ya no es futuro: es presente. Con el B03X vendiéndose, el <a href=/coches/leapmotor-b05-2026-precio-ficha-tecnica/>B05</a> y el <a href=/coches/leapmotor-c10-reev-2026-precio-ficha-tecnica/>C10 REEV</a> completando la gama, y la actividad industrial en marcha dentro del grupo Stellantis, el B03 llegaría con **etiqueta Cero de la DGT** automática y una red de distribución que ya existe. El segmento de los compactos eléctricos asequibles —R5, ID. Polo, B03— va a ser la batalla del año en España. <a href=/comparador-coches/>Compáralos en el comparador de coches</a>.
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿Se sabe ya el precio en España?
-Todavía no hay confirmación. Por su posición en la gama, lo lógico es que arranque por debajo del B03X (24.264 €) y quede frente al Renault 5 E-Tech.
+### ¿Cuánto costará el Leapmotor B03 en España?
+Aún sin confirmar. Por posicionamiento debería partir por debajo del B03X (24.264 €), lo que lo situaría contra el Renault 5 E-Tech.
 
-### ¿Cuántos kilómetros anuncia?
-Hasta 392 km en ciclo WLTC, en la versión ProMax, a la espera de la homologación europea. Esa medición resulta más benévola que la europea (WLTP).
+### ¿Qué autonomía tiene el Leapmotor B03?
+Hasta **392 km en ciclo WLTC** (versión ProMax), pendiente de homologación europea. El ciclo chino es más optimista que el WLTP.
 
-### ¿Hay fecha de llegada a España?
-No hay fecha oficial. Su estreno fuera de China tuvo lugar en el Salón de París, del 12 al 18 de octubre de 2026.
+### ¿Cuándo llega el Leapmotor B03 a España?
+Sin fecha oficial. Se ha presentado por primera vez fuera de China en el Salón de París (12-18 de octubre de 2026).
 
-### ¿En qué se diferencia del B03X?
-El B03 mide 4,20 m y tiene carrocería hatchback; el B03X es un SUV. Comparten enfoque, pero apuntan a públicos distintos.
+### ¿Es más pequeño que el Leapmotor B03X?
+Sí: el B03 es un hatchback compacto de 4,20 m, mientras que el B03X es un SUV. Comparten filosofía, pero atacan segmentos distintos.
 
-### ¿Qué etiqueta llevará?
-Como es un eléctrico puro, le corresponde la etiqueta Cero, que abre las puertas de las Zonas de Bajas Emisiones (<a href=/guias/zbe/>guía de ZBE</a>).
+### ¿Tendrá etiqueta Cero de la DGT?
+Al ser 100 % eléctrico, llevará la **etiqueta Cero**, con acceso libre a las Zonas de Bajas Emisiones. Más detalles en nuestra <a href=/guias/zbe/>guía de ZBE</a>.
 
-### ¿A qué se debe el tirón de Leapmotor?
-A una política de precios ajustados, a una oferta eléctrica amplia y al paraguas industrial de Stellantis: en septiembre sumó 1.705 matriculaciones, cinco veces más que hace un año.
+### ¿Por qué vende tanto Leapmotor en España?
+Precio agresivo, gama eléctrica completa y el respaldo industrial de Stellantis: 1.705 matriculaciones en septiembre, cinco veces más que hace un año.
 
 *Fuentes: <a href=https://www.km77.com/revista/noticias/salon-del-automovil-de-paris-2026-las-novedades-mas-relevantes/>km77</a>, <a href=https://etiqueta0.com/noticias/leapmotor-b03-electrico-392-km-europa-etiqueta-0>etiqueta0</a>.*
 
 ¿Te han puesto una multa? <a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
 },
 {
-  "title": "Fiat Grizzly: SUV familiar de 4,4 m con versión eléctrica",
+  "title": "Fiat Grizzly: el SUV familiar que vuelve a lo esencial",
   "slug": "fiat-grizzly-fastback-paris-2026",
   "excerpt": "París estrena Fiat Grizzly y Fastback, SUV de 4,4 y 4,5 m con gasolina, microhíbrido y eléctrico, a la venta a finales de 2026 desde 20.000 € estimados.",
   "category": "Novedades Motor",

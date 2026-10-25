@@ -21,12 +21,83 @@ export const MOTOR_2026_POSTS: BlogPost[] = [
       "SUV híbrido enchufable barato 2026",
       "Chery Lepas L8 autonomía"
     ],
-    content: `<img src=/media/lepas-l8-chery-hibrido-enchufable-precio-espana-hero.webp alt=SUV híbrido enchufable azul oscuro de diseño elegante circulando por una carretera de montaña española al atardecer>\n\n**¿Buscas solo los datos?** <a href=/coches/lepas-l8-chery-hibrido-enchufable-precio-espana/>Ver ficha técnica del Lepas L8</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.\n\nOtra marca china, sí, pero con un plan que va en serio. Lepas, nombre que viene de «leopard passion», es la tercera enseña del grupo Chery en España después de Omoda y Jaecoo. Su primer modelo es el L8, un SUV híbrido enchufable que mide 4,69 metros, 279 CV y 90 km de autonomía eléctrica, con un precio de lanzamiento en promoción de 33.990 euros que aprieta a todo el segmento.\n\n## El plan de Lepas en España\n\nLepas no es un experimento pasajero. Chery se ha marcado vender 16.000 unidades en España en 2027, prácticamente lo mismo que Omoda o Jaecoo, y para lograrlo ha fichado un equipo directivo procedente de otras marcas y ha levantado su red propia: 40 puntos de venta, con 52 previstos antes de que termine 2026, separada de la de Omoda y Jaecoo. La postventa y los recambios ya funcionan apoyándose en la red de sus marcas hermanas.\n\nEl L8 encabeza el debut de la marca; después vendrán el L6, a finales de 2026, en versión eléctrica y PHEV y con 4,57 m, y el L4, de 4,42 m, en 2027.\n\n## Precios y acabados en España\n\nLa tarifa de lanzamiento en promoción parte de 33.990 euros, una cifra agresiva para un D-SUV híbrido enchufable de este equipamiento. Sin descuentos ni promociones, el precio oficial se acerca a los 41.700 euros, según cuentan medios que ya la han probado, con dos acabados, Essence y Elegance. El Elegance suma confort como asientos con masaje y ventilación.\n\n<img src=/media/lepas-l8-chery-hibrido-enchufable-precio-espana-oficial.webp alt=Lepas L8, SUV híbrido enchufable de Chery, vista tres cuartos delantera>\n\n<img src=/media/lepas-l8-chery-hibrido-enchufable-precio-espana-interior-oficial-2.webp alt=Interior oficial del lepas l8 chery hibrido enchufable precio espana>\n\n¿Te encaja el presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.\n\n## Cinco curiosidades\n\n- **El Seat Toledo, origen de Chery**: el origen fabril de Chery está ligado al Seat Toledo: hace un cuarto de siglo, la firma china se hizo con la maquinaria de producción del Toledo de Seat y sacó cientos de miles de unidades destinadas a taxis y a flotas oficiales chinas.\n- **Diseño inspirado en el leopardo**: el diseño toma al leopardo como referencia: los faros llevan una firma luminosa en forma de «pupila vertical» dentro del lenguaje «Leopard Aesthetics», y la calandra de tramado cromado persigue un aire premium.\n- **Por dentro, la «Skyline Cabin»**: por dentro, la «Skyline Cabin» ofrece pantalla vertical en cascada, botones físicos para el clima, carga inalámbrica de 50 W, cajón refrigerado, sonido Sony y V2L, que permite enchufar aparatos externos al coche.\n- **Modo cama**: abate los asientos del todo para dormir dentro del coche, un guiño para el público más aventurero.\n- **Lepas no se vende en China**: la marca nació específicamente para exportar, como ya hicieron Omoda y Jaecoo.\n\n## Con quién compite\n\n| Modelo | Tecnología | Precio aprox. | Autonomía eléctrica |\n|---|---|---|---|\n| **Lepas L8** | PHEV 279 CV | Desde 33.990 € (promo) | 90 km |\n| BYD Seal U DM-i | PHEV | Desde ~38.400 € | ~125 km |\n| Leapmotor C10 REEV | Eléctrico autonomía extendida | Desde ~33.700 € | ~145 km |\n| Jaecoo 7 SHS | PHEV 340 CV | Desde ~33.000 € | 90 km |\n\n## Lo bueno y lo mejorable\n\n| ✅ Pros | ❌ Contras |\n|---|---|\n| 279 CV con <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta CERO</a>: entra en todas las ZBE sin restricciones | Marca totalmente desconocida: el valor de reventa es una incógnita |\n| 90 km eléctricos cubren el commuting diario sin gastar gasolina | Sin promociones el precio sube a ~41.000 €, mucho menos rompedor |\n| Precio promocional de 33.990 € muy agresivo para su tamaño | De momento solo hay una mecánica (PHEV); sin versión de acceso barata |\n| Maletero de 507 L e interior cuidado (masaje, ventilación, V2L) | El diseño "leopardo" y la parrilla cromada no gustarán a todos |\n| Red de 40 puntos de venta (52 previstos) y postventa apoyada en Omoda/Jaecoo | Competencia brutal: BYD, Leapmotor y su propio primo el Jaecoo 7 |\n\n<iframe src=https://www.youtube.com/embed/r8EaZt3AfU8 title=Análisis del Lepas L8 en España style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem; allowfullscreen></iframe>\n\nVídeo: <a href=https://www.youtube.com/watch?v=r8EaZt3AfU8>carwow España (JF Calero)</a> en YouTube.\n\n## Preguntas y respuestas\n\n### ¿Qué precio tiene en España?\n\nSin descuentos, el precio oficial se acerca a los 41.700 euros, según cuentan medios especializados que ya lo han probado. La promoción, en cambio, arranca en 33.990 euros.\n\n### ¿Cuánta autonomía eléctrica homologa?\n\nCon su batería de 18,4 kWh homologa 90 km en ciclo WLTP, de sobra para el día a día, y la autonomía combinada con el depósito lleno pasa de 1.100 km.\n\n### ¿Es fiable Lepas como marca?\n\nEs la tercera enseña en España del grupo Chery, después de Omoda y Jaecoo. Chery es el mayor exportador de coches de China y produce 2,8 millones de vehículos cada año. La postventa se apoya en la red de Omoda y Jaecoo, ya consolidada.\n\n### ¿Tiene etiqueta CERO?\n\nSí: con 90 km de autonomía eléctrica como híbrido enchufable, le toca la etiqueta CERO, que abre las ZBE y da ventajas fiscales. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.\n\n### ¿Cuándo llegan el L6 y el L4?\n\nEl L6 llegará a finales de 2026, en versión eléctrica de 218 CV y también PHEV, con ofertas que lo dejan por debajo de 30.000 euros; el L4, de 4,42 m, lo hará en 2027, con el BYD Atto 2 como rival directo.\n\n### ¿Compensa frente al BYD Seal U DM-i?\n\nEn promoción, el L8 es más barato y apuesta por un acabado más premium, con masaje, V2L y modo cama. El BYD, en cambio, ofrece más autonomía eléctrica y el respaldo de una marca más conocida en Europa. Todo depende de si priorizas precio o una red consolidada.\n\nSi te decides por un híbrido enchufable, recuerda que con 279 CV es fácil despistarse con el velocímetro: un <a href=https://recurretumulta.online/guias/radares>exceso de velocidad</a> te puede salir caro. Y si ya te ha llegado una, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.\n\n*Fuentes: <a href=https://elperiodicodelaenergia.com/lepas-abre-la-comercializacion-del-suv-hibrido-enchufable-l8-en-espana-desde-33-990-euros/>elperiodicodelaenergia.com</a>, <a href=https://soymotor.com/coches/noticias/lepas-l8-super-hibrido-a-la-venta>soymotor</a> y <a href=https://soymotor.com/coches/noticias/analisis-lepas-nueva-marca-china-espana>análisis de la marca Lepas en soymotor</a>.*`
+    content: `<img src=/media/lepas-l8-chery-hibrido-enchufable-precio-espana-hero.webp alt=SUV híbrido enchufable azul oscuro de diseño elegante circulando por una carretera de montaña española al atardecer>\n\n**¿Buscas solo los datos?** <a href=/coches/lepas-l8-chery-hibrido-enchufable-precio-espana/>Ver ficha técnica del Lepas L8</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.\n\n¿Otra marca china más? Sí, pero esta viene con un plan muy serio. **Lepas** (de "leopard passion") es la tercera marca del gigante **Chery** en España, tras Omoda y Jaecoo, y su primer modelo, el **Lepas L8**, ya está aquí: un SUV híbrido enchufable de 4,69 metros con **279 CV**, **90 km de autonomía eléctrica** y un precio promocional de lanzamiento de **33.990 euros** que pone en aprietos a todo el segmento.
+
+## La noticia
+
+Lepas no es un experimento: Chery quiere vender **16.000 unidades en 2027** en España, casi lo mismo que Omoda o Jaecoo. Para ello ha montado un equipo directivo llegado de otras marcas y una **red de 40 puntos de venta propios** (52 previstos antes de que acabe 2026), independiente de la de Omoda y Jaecoo. La red de postventa y recambios ya está en marcha aprovechando la de sus marcas hermanas.
+
+El L8 es el buque insignia con el que debuta la marca: luego llegarán el L6 (4,57 m, eléctrico y PHEV, a finales de 2026) y el L4 (4,42 m, en 2027).
+
+## Precio y versiones en España
+
+La tarifa promocional de lanzamiento arranca en **33.990 euros**, un precio agresivo para un D-SUV híbrido enchufable con este nivel de equipamiento. Sin descuentos ni promociones, los precios oficiales rondan los **41.700 euros** según los medios que ya lo han probado, con dos acabados principales (Essence y Elegance). El acabado Elegance añade elementos de confort como asientos con masaje y ventilación.
+
+<img src=/media/lepas-l8-chery-hibrido-enchufable-precio-espana-oficial.webp alt=Lepas L8, SUV híbrido enchufable de Chery, vista tres cuartos delantera>
+
+<img src=/media/lepas-l8-chery-hibrido-enchufable-precio-espana-interior-oficial-2.webp alt=Interior oficial del lepas l8 chery hibrido enchufable precio espana>
+
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
+
+## Curiosidades que quizá no sabías
+
+- **Chery empezó fabricando el Seat Toledo**: hace 25 años, la firma china compró la maquinaria con la que Seat fabricaba el Toledo y produjo cientos de miles de unidades para taxis y flotas oficiales en China.
+- **El diseño se inspira en el leopardo**: el lenguaje "Leopard Aesthetics" se aprecia en los faros con firma luminosa de "pupila vertical" y en una calandra de tramado cromado que busca un aire premium.
+- **Interior "Skyline Cabin"**: pantalla vertical en cascada, botones físicos de climatización, cargador inalámbrico de 50 W, cajón refrigerado, equipo de sonido Sony y función V2L (puedes enchufar aparatos externos al coche).
+- **Modo cama**: los asientos se reclinan por completo para dormir en el coche, un guiño al público aventurero.
+- **Lepas no se vende en China**: es una marca creada específicamente para la exportación, como ya hicieron Omoda y Jaecoo.
+
+## Rivales directos
+
+| Modelo | Tecnología | Precio aprox. | Autonomía eléctrica |
+|---|---|---|---|
+| **Lepas L8** | PHEV 279 CV | Desde 33.990 € (promo) | 90 km |
+| BYD Seal U DM-i | PHEV | Desde ~38.400 € | ~125 km |
+| Leapmotor C10 REEV | Eléctrico autonomía extendida | Desde ~33.700 € | ~145 km |
+| Jaecoo 7 SHS | PHEV 340 CV | Desde ~33.000 € | 90 km |
+
+## Pros y contras
+
+| ✅ Pros | ❌ Contras |
+|---|---|
+| 279 CV con <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta CERO</a>: entra en todas las ZBE sin restricciones | Marca totalmente desconocida: el valor de reventa es una incógnita |
+| 90 km eléctricos cubren el commuting diario sin gastar gasolina | Sin promociones el precio sube a ~41.000 €, mucho menos rompedor |
+| Precio promocional de 33.990 € muy agresivo para su tamaño | De momento solo hay una mecánica (PHEV); sin versión de acceso barata |
+| Maletero de 507 L e interior cuidado (masaje, ventilación, V2L) | El diseño "leopardo" y la parrilla cromada no gustarán a todos |
+| Red de 40 puntos de venta (52 previstos) y postventa apoyada en Omoda/Jaecoo | Competencia brutal: BYD, Leapmotor y su propio primo el Jaecoo 7 |
+
+<iframe src=https://www.youtube.com/embed/r8EaZt3AfU8 title=Análisis del Lepas L8 en España style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem; allowfullscreen></iframe>
+
+Vídeo: <a href=https://www.youtube.com/watch?v=r8EaZt3AfU8>carwow España (JF Calero)</a> en YouTube.
+
+## Preguntas frecuentes
+
+### ¿Cuánto cuesta el Lepas L8 en España?
+La tarifa promocional de lanzamiento parte de 33.990 euros. Sin descuentos, el precio oficial ronda los 41.700 euros según los medios especializados que ya lo han probado.
+
+### ¿Qué autonomía eléctrica tiene el Lepas L8?
+Homologa 90 km en ciclo WLTP con su batería de 18,4 kWh, suficiente para el uso diario, y más de 1.100 km de autonomía combinada con el depósito lleno.
+
+### ¿Lepas es una marca fiable?
+Es la tercera marca del grupo Chery en España (tras Omoda y Jaecoo). Chery es el principal exportador de coches de China y fabrica 2,8 millones de vehículos al año. La red de postventa se apoya en la de Omoda y Jaecoo, ya consolidada.
+
+### ¿El Lepas L8 tiene etiqueta CERO de la DGT?
+Sí. Al ser un híbrido enchufable con 90 km de autonomía eléctrica, le corresponde la etiqueta CERO, con acceso a las ZBE y ventajas fiscales. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+
+### ¿Cuándo llegan el Lepas L6 y el L4?
+El L6 (4,57 m, en versión eléctrica de 218 CV y PHEV) llegará a finales de 2026 con precios por debajo de 30.000 euros con ofertas, y el L4 (4,42 m) lo hará en 2027 para competir con el BYD Atto 2.
+
+### ¿Merece la pena frente al BYD Seal U DM-i?
+El Lepas L8 es más barato en promoción y apuesta por un acabado más premium (masaje, V2L, modo cama). El BYD ofrece más autonomía eléctrica y una marca más conocida en Europa. Depende de si priorizas precio o red consolidada.
+
+Si te decides por un híbrido enchufable, recuerda que con 279 CV es fácil despistarse con el velocímetro: un <a href=https://recurretumulta.online/guias/radares>exceso de velocidad</a> te puede salir caro. Y si ya te ha llegado una, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://elperiodicodelaenergia.com/lepas-abre-la-comercializacion-del-suv-hibrido-enchufable-l8-en-espana-desde-33-990-euros/>elperiodicodelaenergia.com</a>, <a href=https://soymotor.com/coches/noticias/lepas-l8-super-hibrido-a-la-venta>soymotor</a> y <a href=https://soymotor.com/coches/noticias/analisis-lepas-nueva-marca-china-espana>análisis de la marca Lepas en soymotor</a>.*`
   },
   {
-    title: "Skoda Peaq 2026: SUV eléctrico de 7 plazas desde 54.550 €",
+    title: "Skoda Peaq: 646 km",
     slug: "skoda-peaq-suv-electrico-7-plazas-precio",
-    excerpt: "El mayor SUV de Skoda: 4,87 m, hasta 7 plazas, 646 km WLTP y 935 litros de maletero. En España arranca en 54.550 € con la versión Peaq 90.",
+    excerpt: "El Skoda Peaq es el SUV más grande de la marca: 4,87 m, hasta 7 plazas, batería de 86 kWh y 646 km WLTP. Precio en España desde 54.550 €.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -39,33 +110,29 @@ export const MOTOR_2026_POSTS: BlogPost[] = [
       "Skoda Peaq vs Tesla Model Y",
       "Skoda eléctrico grande precio"
     ],
-    content: `<img src=/media/skoda-peaq-suv-electrico-7-plazas-precio-hero.webp alt=Gran SUV eléctrico blanco de 7 plazas aparcado frente a una casa europea moderna al atardecer>
-
-**¿Buscas solo los datos?** <a href=/coches/skoda-peaq-suv-electrico-7-plazas-precio/>Ver ficha técnica del Skoda Peaq</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
-
-Praga se ha propuesto jugar en la categoría de los grandes. El Peaq supera en tamaño al Kodiaq y se convierte en el primer eléctrico con 7 plazas del grupo Volkswagen, dejando aparte la furgoneta ID.Buzz. Homologa 646 km WLTP, ofrece un maletero de 935 litros y arranca en España en 54.550 euros: un rival directo para el Tesla Model Y y para los SUV familiares de corte premium.
+    content: `<img src=/media/skoda-peaq-suv-electrico-7-plazas-precio-hero.webp alt=Gran SUV eléctrico blanco de 7 plazas aparcado frente a una casa europea moderna al atardecer>\n\n**¿Buscas solo los datos?** <a href=/coches/skoda-peaq-suv-electrico-7-plazas-precio/>Ver ficha técnica del Skoda Peaq</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.\n\nSkoda ha decidido jugar en la liga de los grandes. El **Peaq** es el SUV más grande jamás desarrollado en Praga —más grande incluso que el Kodiaq— y el **primer eléctrico de 7 plazas del grupo Volkswagen** (sin contar la furgoneta ID.Buzz). Con **646 km de autonomía WLTP**, un maletero de 935 litros y un precio que parte de **54.550 euros** en España, apunta directamente al Tesla Model Y y a los SUV premium familiares.
 
 ## La noticia
 
-Su llegada a los concesionarios se producirá después del verano de 2026, encabezando la gama eléctrica de la marca y con el lenguaje de diseño "Modern Solid". En España, Skoda solo traerá las variantes de mayor rendimiento: el Peaq 90 de acceso, con 286 CV y tracción trasera, y por encima el Peaq 90x, con 299 CV y tracción total. La variante básica de batería LFP que se comercializa en otros países europeos quedará fuera de nuestro mercado.
+El Peaq llega a los concesionarios tras el verano de 2026 como buque insignia eléctrico de la marca, con el lenguaje de diseño "Modern Solid". Skoda España ha decidido traer solo las versiones de mayor rendimiento: el acceso es el **Peaq 90** (286 CV, tracción trasera) y por encima está el **Peaq 90x** (299 CV, tracción total). La versión básica con batería LFP que se vende en otros países europeos no llegará a nuestro mercado.
 
 ## Precio y versiones en España
 
-La tarifa de partida en España es de 54.550 euros en acabado Selection, antes de descuentos y ayudas. El extremo superior —7 plazas con acabado Sportline— alcanza los 62.450 euros. Son importes sin precedentes para Skoda, que hasta ahora nunca había comercializado un coche de más de 50.000 euros; la marca lo argumenta así: dentro del grupo Volkswagen no existe otro eléctrico de 7 plazas que le haga competencia directa.
+El precio de salida en España es de **54.550 euros** sin descuentos ni ayudas, en acabado Selection. El tope de gama —7 plazas con acabado Sportline— sube hasta **62.450 euros**. Son cifras inéditas para Skoda, que hasta ahora nunca había vendido un coche por encima de los 50.000 euros, pero la marca lo justifica: no tiene rival directo dentro del grupo Volkswagen con 7 plazas eléctricas.
 
 <img src=/media/skoda-peaq-suv-electrico-7-plazas-precio-oficial.webp alt=Skoda Peaq eléctrico de 7 plazas, vista tres cuartos delantera>
 
 <img src=/media/skoda-peaq-suv-electrico-7-plazas-precio-interior-oficial-2.webp alt=Interior oficial del skoda peaq suv electrico 7 plazas precio>
 
-¿Cuadra con lo que quieres gastar? <a href=/mejor-coche-por-presupuesto/>Encuentra el modelo que encaja con tu bolsillo</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
-- **Récord de alcance real**: dos trabajadores de Skoda completaron 936 km sin recargar, en ruta desde República Checa hasta Países Bajos, superando la cifra homologada en un 45 %. Un récord checo reconocido oficialmente.
-- **Supera al Kodiaq**: mide 4,87 metros, con una batalla de 2,965 m, lo que lo convierte en el mayor coche fabricado por Skoda en toda su historia.
-- **Pantalla de 13,6" en vertical**: el equipo multimedia adopta orientación vertical y se acompaña de una instrumentación digital de 10,25".
-- **Guiños "Simply Clever"**: un hueco bajo el capó para la cubierta del maletero, además de unas bases de carga MagSafe con 25 W y una mesa plegable para trabajar con el portátil.
-- **Alemania, mercado principal**: al no vender Skoda en EE. UU., este gigante se concibe al 100 % para Europa, donde atraerá a clientes de Volkswagen y Audi sin un gran eléctrico de 7 plazas en su oferta.
+- **Récord de autonomía real**: dos empleados de Skoda recorrieron **936 km con una sola carga** entre República Checa y Países Bajos, un 45 % más que la cifra homologada. Récord checo oficialmente reconocido.
+- **Más grande que el Kodiaq**: con 4,87 metros y 2,965 m de batalla, es el coche más grande que ha fabricado Skoda en toda su historia.
+- **Pantalla vertical de 13,6"**: el sistema multimedia crece y se coloca en vertical, con instrumentación digital de 10,25".
+- **Detalles "Simply Clever"**: hueco bajo el capó para guardar la cubierta del maletero, bases de carga MagSafe de 25 W y mesa plegable para trabajar con el portátil.
+- **Su principal mercado será Alemania**: Skoda no vende en EE. UU., así que este gigante está pensado 100 % para Europa, donde captará clientes de Volkswagen y Audi que no tienen un eléctrico grande de 7 plazas en su gama.
 
 ## Rivales directos
 
@@ -76,7 +143,7 @@ La tarifa de partida en España es de 54.550 euros en acabado Selection, antes d
 | Peugeot E-5008 | 7 | ~500 km | ~47.000 € |
 | Kia EV9 | 7 | ~563 km | ~75.000 € |
 
-Las comparativas completas están en estos duelos: <a href=/blog/alpine-a390-vs-skoda-peaq-cual-comprar/>Alpine A390 frente al Skoda Peaq</a> y <a href=/blog/peugeot-e-5008-vs-skoda-peaq-cual-comprar/>Peugeot E-5008 frente al Skoda Peaq</a>, cara a cara.
+Los hemos enfrentado en detalle: <a href=/blog/alpine-a390-vs-skoda-peaq-cual-comprar/>Duelo Alpine A390 vs Skoda Peaq</a> y <a href=/blog/peugeot-e-5008-vs-skoda-peaq-cual-comprar/>Duelo Peugeot E-5008 vs Skoda Peaq</a>.
 
 ## Pros y contras
 
@@ -90,43 +157,36 @@ Las comparativas completas están en estos duelos: <a href=/blog/alpine-a390-vs-
 
 <iframe src=https://www.youtube.com/embed/Ig3Ifhlf1Fk title=Review del Skoda Peaq en español style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem; allowfullscreen></iframe>
 
-Vídeo de <a href=https://www.youtube.com/watch?v=Ig3Ifhlf1Fk>coches.net</a> en YouTube.
+Vídeo: <a href=https://www.youtube.com/watch?v=Ig3Ifhlf1Fk>coches.net</a> en YouTube.
 
 ## Preguntas frecuentes
 
-### ¿Cuál es el precio del Skoda Peaq en España?
+### ¿Cuánto cuesta el Skoda Peaq en España?
+Desde 54.550 euros en acabado Selection con 5 plazas. La versión de 7 plazas con acabado Sportline llega a 62.450 euros, antes de descuentos y ayudas.
 
-El acceso cuesta 54.550 euros, en acabado Selection y con 5 plazas. Con 7 plazas y acabado Sportline, el precio sube a 62.450 euros, siempre antes de descuentos y ayudas.
+### ¿Cuánta autonomía real tiene el Skoda Peaq?
+Homologa 646 km WLTP en la versión Peaq 90. En una prueba de eficiencia real, dos empleados de Skoda lograron 936 km con una sola carga conduciendo de forma eficiente.
 
-### ¿Qué autonomía real alcanza el Skoda Peaq?
+### ¿El Skoda Peaq tiene 7 plazas?
+Sí, es el primer eléctrico del grupo Volkswagen con tres filas de asientos (sin contar el ID.Buzz). Las dos plazas traseras son más adecuadas para niños o trayectos cortos.
 
-La versión Peaq 90 homologa 646 km WLTP. Y en una prueba real de eficiencia, dos empleados de Skoda recorrieron 936 km sin recargar, conduciendo de forma eficiente.
+### ¿Qué maletero tiene el Skoda Peaq?
+935 litros en la versión de 5 plazas y 890 litros en la de 7, ampliables a 2.150 litros abatiendo la segunda fila. Además tiene un pequeño hueco delantero.
 
-### ¿Tiene el Skoda Peaq 7 plazas?
+### ¿Compensa frente al Tesla Model Y?
+El Peaq ofrece más espacio, 7 plazas y un interior más tradicional y equipado; el Model Y es más barato, más eficiente y tiene la red de Supercargadores. Si necesitas 7 plazas espaciosas, el Skoda gana.
 
-Sí: dejando aparte el ID.Buzz, ningún otro eléctrico del grupo Volkswagen ofrece tres filas de asientos. Eso sí, las dos plazas de la última fila resultan más adecuadas para niños o para trayectos cortos.
-
-### ¿Qué capacidad tiene el maletero del Skoda Peaq?
-
-Con 5 plazas ofrece 935 litros; con 7, la cifra baja a 890 litros. Abatiendo la segunda fila se llega a 2.150 litros, y aún queda un pequeño hueco delantero.
-
-### ¿Merece la pena frente al Tesla Model Y?
-
-El Skoda gana en espacio, en 7 plazas y en un interior más tradicional y equipado. Frente a él, el Model Y responde con un precio menor, mayor eficiencia y la red de Supercargadores. Si lo prioritario son 7 plazas amplias, el Peaq sale vencedor.
-
-### ¿Lleva etiqueta CERO?
-
-Sí: como es un coche 100 % eléctrico, la DGT le asigna la etiqueta CERO, que abre las puertas de las ZBE sin restricciones. <a href=/calculadora-etiqueta-dgt/>Consulta la etiqueta DGT que le corresponde a cualquier coche</a>.
+### ¿Tiene etiqueta CERO?
+Sí, al ser 100 % eléctrico le corresponde la etiqueta CERO de la DGT, con acceso libre a las ZBE. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 Un coche familiar de 646 km de autonomía invita a viajar: si en uno de esos viajes te caza un radar, <a href=https://recurretumulta.online/#analizador>analiza la multa gratis con nuestra IA</a> antes de decidir si pagar o recurrir.
 
-*Fuentes: <a href=https://www.km77.com/coches/skoda/peaq/2027/estandar/listado-completo>ficha técnica y precios del Skoda Peaq en km77</a> y <a href=https://www.coches.net/noticias/prueba-skoda-peaq-presentacion>presentación y prueba del Peaq en coches.net</a>.*
-`
+*Fuentes: <a href=https://www.km77.com/coches/skoda/peaq/2027/estandar/listado-completo>ficha técnica y precios del Skoda Peaq en km77</a> y <a href=https://www.coches.net/noticias/prueba-skoda-peaq-presentacion>presentación y prueba del Peaq en coches.net</a>.*`
   },
   {
-    title: "Renault 5 E-Tech 2026: urbano eléctrico con 430 km",
+    title: "Renault 5 E-Tech 2026: 430 km desde 20.170 €",
     slug: "renault-5-e-tech-2026-precio-autonomia",
-    excerpt: "El Renault 5 eléctrico de 2026 ya admite pedidos en España: 315 km con 40 kWh y 430 km con 52 kWh, Gemini por OTA y precio desde 20.170 € con ayudas.",
+    excerpt: "El Renault 5 eléctrico se actualiza para 2026: hasta 430 km WLTP, Gemini vía OTA y precio desde 20.170 € con ayudas. Todos los precios y versiones.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 7,
@@ -139,19 +199,15 @@ Un coche familiar de 646 km de autonomía invita a viajar: si en uno de esos via
       "coche eléctrico urbano barato 2026",
       "Renault 5 E-Tech análisis"
     ],
-    content: `<img src=/media/renault-5-e-tech-2026-precio-autonomia-hero.webp alt=Pequeño coche eléctrico amarillo de diseño retro-futurista aparcado en una calle parisina al amanecer>
+    content: `<img src=/media/renault-5-e-tech-2026-precio-autonomia-hero.webp alt=Pequeño coche eléctrico amarillo de diseño retro-futurista aparcado en una calle parisina al amanecer>\n\n**¿Buscas solo los datos?** <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>Ver ficha técnica del Renault 5 E-Tech</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.\n\nEl icono ha vuelto, y ahora con más autonomía. El **Renault 5 E-Tech eléctrico** estrena su actualización 2026 con pedidos ya abiertos en España: la versión de 52 kWh alcanza **430 km WLTP** (20 más que antes) sin cambiar de batería, suma tecnología como el asistente **Gemini de Google** vía actualización remota y anuncia un precio **desde 20.170 euros** con promociones y ayudas. El utilitario eléctrico con más carisma del mercado se pone aún más interesante.
 
-**¿Buscas solo los datos?** <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>Ver ficha técnica del Renault 5 E-Tech</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+## La noticia
 
-## El regreso del icono, ahora con más alcance
+Renault ha abierto los pedidos de la nueva gama en España. La actualización no cambia las baterías (40 y 52 kWh), sino que exprime su eficiencia con mejoras aerodinámicas (bajos de la carrocería, nuevos retrovisores) y optimizaciones en la electrónica. Resultado: **315 km WLTP** para la batería de 40 kWh (antes 312) y **430 km WLTP** para la de 52 kWh (antes 410).
 
-España ya admite pedidos de la gama renovada para 2026 del pequeño eléctrico de Renault, un modelo que recupera el mito del R5 original y que ahora recorre más kilómetros con cada carga. La renovación no sustituye los acumuladores: mantiene los de 40 y 52 kWh y les saca más partido. Entre las novedades tecnológicas destaca la llegada del asistente Gemini de Google, que se instalará mediante una actualización remota, y el precio de acceso, que con promociones y ayudas se queda en 20.170 euros.
+La gran novedad pendiente es la versión de acceso **Five**, con batería LFP de unos 37 kWh y 95 CV, cuyos pedidos se abrirán a finales de 2026 y que bajará aún más el precio de entrada.
 
-## Qué cambia en autonomía y eficiencia
-
-La mejora llega por la vía de la eficiencia, no por baterías nuevas. Renault ha trabajado los bajos de la carrocería, ha estrenado retrovisores y ha optimizado la electrónica, y el resultado se nota en las dos versiones: la de 40 kWh pasa de 312 a 315 km WLTP, mientras que la de 52 kWh sube de 410 a 430 km WLTP, es decir, 20 km más que antes. Todavía queda pendiente la variante de acceso, la Five: llevará un acumulador LFP de unos 37 kWh, con 95 CV, y la apertura de pedidos queda fijada para finales de 2026, lo que servirá para bajar aún más el precio de entrada.
-
-## Precios oficiales y precio con ayudas
+## Precio y versiones en España
 
 Precios recomendados oficiales (sin promociones):
 
@@ -164,7 +220,7 @@ Precios recomendados oficiales (sin promociones):
 | Iconic Cinq | 150 CV | 52 kWh | 35.085 € |
 | Roland-Garros | 150 CV | 52 kWh | 36.585 € |
 
-Al aplicar promociones, además de certificados de ahorro energético y del programa Auto+, el punto de partida desciende hasta 20.170 euros, en concreto para el Evolution de 120 CV. Como el coche se fabrica en Europa, puede optar a las máximas ayudas del Plan Auto+. Ese origen europeo supone, por tanto, una ventaja a la hora de pedir incentivos.
+Con promociones, certificados de ahorro energético y el programa Auto+, el precio de partida baja hasta **20.170 euros** para el Evolution de 120 CV. Al fabricarse en Europa, opta a las máximas ayudas del Plan Auto+.
 
 <img src=/media/renault-5-e-tech-2026-precio-autonomia-oficial.webp alt=Renault 5 E-Tech eléctrico 2026, vista frontal tres cuartos>
 
@@ -172,15 +228,15 @@ Al aplicar promociones, además de certificados de ahorro energético y del prog
 
 ¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
-## Detalles que no se ven a primera vista
+## Curiosidades que quizá no sabías
 
-- El R5 original, vendido entre 1972 y 1984, alcanzó 5,5 millones de unidades: el eléctrico actual debe medirse con aquel mito.
-- Gemini llegará por OTA: el asistente de Google relevará a Google Assistant con una actualización remota, sin acudir al taller en ningún momento.
-- El «5» del capó funciona como indicador de carga: su logotipo iluminado integra cinco barras LED, y cada una equivale a un 20 % de la batería.
-- La paleta suma un Nuevo Rojo Deseo, que se añade al Gris Pizarra metalizado, mientras el techo va pintado en negro brillante y admite adhesivos personalizables.
-- El Modo Smart reemplaza al modo Perso y deja la elección entre Eco, Comfort y Sport en función de cómo se conduzca.
+- **Gemini llega por OTA**: el asistente de Google sustituirá a Google Assistant mediante una actualización remota, sin pasar por el taller.
+- **El "5" del capó es un indicador de carga**: el logotipo iluminado tiene cinco barras LED, cada una representa un 20 % de la batería.
+- **Nuevo Rojo Deseo**: se suma a la paleta junto al Gris Pizarra metalizado, con techo en negro brillante y adhesivos personalizables.
+- **Modo Smart**: sustituye al modo Perso y elige solo entre Eco, Comfort y Sport según cómo conduzcas.
+- **El R5 original vendió 5,5 millones de unidades** entre 1972 y 1984: el eléctrico tiene la difícil misión de estar a la altura del mito.
 
-## Contra quién compite
+## Rivales directos
 
 | Modelo | Autonomía (WLTP) | Precio desde (con ayudas) |
 |---|---|---|
@@ -192,7 +248,7 @@ Al aplicar promociones, además de certificados de ahorro energético y del prog
 
 Los hemos enfrentado en detalle: <a href=/blog/renault-5-e-tech-2026-vs-dacia-spring-2026-cual-comprar/>Duelo Renault 5 E-Tech vs Dacia Spring</a> y <a href=/blog/renault-4-e-tech-vs-renault-5-e-tech-cual-comprar/>Duelo Renault 4 E-Tech vs Renault 5 E-Tech</a>.
 
-## Puntos fuertes y puntos débiles
+## Pros y contras
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -208,34 +264,27 @@ Vídeo: <a href=https://www.youtube.com/watch?v=_WZSt4dvvag>km77</a> en YouTube.
 
 ## Preguntas frecuentes
 
-### ¿Admite carga rápida el Renault 5?
+### ¿Cuánto cuesta el Renault 5 E-Tech 2026 en España?
+El precio recomendado parte de 28.085 euros, pero con promociones, certificados de ahorro energético y el Plan Auto+ baja hasta 20.170 euros en la versión Evolution de 120 CV.
 
-Sí: en continua llega hasta 80 kW con la batería de 40 kWh, y hasta 100 kW con la de 52 kWh. En alterna, trabaja a 11 kW, mientras el cargador de 22 kW queda como opción.
+### ¿Qué autonomía tiene el Renault 5 eléctrico 2026?
+315 km WLTP con la batería de 40 kWh y 430 km WLTP con la de 52 kWh. La futura versión Five con batería LFP rondará los 315 km según la cifra anunciada, aún pendiente de confirmación oficial.
+
+### ¿Cuándo se puede pedir el Renault 5 Five?
+Los pedidos de la versión de acceso Five, con batería LFP de unos 37 kWh, se abrirán a finales de 2026. Será la opción más barata de la gama.
+
+### ¿El Renault 5 E-Tech tiene carga rápida?
+Sí: hasta 80 kW en la versión de 40 kWh y hasta 100 kW en la de 52 kWh en corriente continua. En alterna carga a 11 kW (el cargador de 22 kW es opcional).
 
 ### ¿Tiene etiqueta CERO de la DGT?
+Sí, al ser 100 % eléctrico. Puede circular por todas las ZBE sin restricciones. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
-Sí, porque es 100 % eléctrico. Eso le permite entrar en todas las ZBE sin limitaciones. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
-
-### ¿Cuándo abrirán los pedidos de la Five?
-
-La variante de acceso Five, con un acumulador LFP de unos 37 kWh, abrirá sus pedidos a finales de 2026. Quedará como la alternativa de menor precio de toda la gama.
-
-### ¿Cuál es el precio en España del Renault 5 E-Tech 2026?
-
-El precio recomendado arranca en 28.085 euros, pero al sumar promociones, certificados de ahorro energético y ayudas del Plan Auto+, desciende hasta 20.170 euros, en el Evolution de 120 CV, la más accesible de la gama.
-
-### ¿Qué alcance homologa el Renault 5 eléctrico 2026?
-
-La batería de 40 kWh homologa 315 km WLTP y la de 52 kWh, 430 km WLTP. Para la futura Five, con acumulador LFP, se anuncia un alcance cercano a 315 km, una cifra todavía pendiente de confirmación oficial.
-
-### ¿Compensa frente al Citroën ë-C3 o al BYD Dolphin Surf?
-
-El R5 sale más caro, pero con la batería de 52 kWh ofrece mayor alcance, una dinámica mejor y un diseño muy superior. Si la prioridad es gastar lo menos posible, los dos rivales citados presionan con fuerza en precio.
+### ¿Merece la pena frente al Citroën ë-C3 o el BYD Dolphin Surf?
+El R5 es más caro pero ofrece más autonomía en la versión de 52 kWh, mejor comportamiento dinámico y un diseño muy superior. Si buscas el precio más bajo posible, el ë-C3 y el Dolphin Surf aprietan fuerte.
 
 ¿Te ha llegado una multa y no sabes si recurrirla? <a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagar: en 20 días se juega el descuento y el derecho a recurrir.
 
-*Fuentes: <a href=https://www.Renault.es/electricos/r5-e-tech-electrico/precios-versiones.html?gradeCode=ENS_MDL2P1SERIELIM1>configurador oficial de Renault España</a> y <a href=https://forococheselectricos.com/noticias/renovado-renault-5-precio-espana-20261001-42266.html>precios y autonomías 2026 en forococheselectricos.com</a>.*
-`
+*Fuentes: <a href=https://www.Renault.es/electricos/r5-e-tech-electrico/precios-versiones.html?gradeCode=ENS_MDL2P1SERIELIM1>configurador oficial de Renault España</a> y <a href=https://forococheselectricos.com/noticias/renovado-renault-5-precio-espana-20261001-42266.html>precios y autonomías 2026 en forococheselectricos.com</a>.*`
     },
 {
   "title": "Tesla Roadster 2026: 1.000 km prometidos tras 9 años",
@@ -466,7 +515,7 @@ Con 231 CV bajo el pie derecho, conviene recordar que la emoción dura un aceler
   {
     title: "Lynk & Co 07 GT: 523 CV para el estreno europeo en París",
     slug: "lynk-co-07-gt-debut-europa-paris-2026",
-    excerpt: "El 07 GT se presenta en París: primer familiar de Lynk & Co, híbrido enchufable de 523 CV y 200 km eléctricos, con llegada a Europa en 2027.",
+    excerpt: "El Lynk & Co 07 GT debuta en el Salón de París 2026: familiar híbrido enchufable de hasta 523 CV, 10.000 reservas en 27 minutos y llegada en 2027.",
     category: "Novedades Motor",
     date: "2026-10-03",
     readTime: 7,
@@ -478,21 +527,17 @@ Con 231 CV bajo el pie derecho, conviene recordar que la emoción dura un aceler
       "Salón París 2026 coches",
       "Lynk & Co Europa 2027"
     ],
-    content: `<img src=/media/lynk-co-07-gt-debut-europa-paris-2026-hero.webp alt=Lynk & Co 07 GT familiar híbrido enchufable en el Salón de París 2026>
+    content: `<img src=/media/lynk-co-07-gt-debut-europa-paris-2026-hero.webp alt=Lynk & Co 07 GT familiar híbrido enchufable en el Salón de París 2026>\n\n**¿Buscas solo los datos?** <a href=/coches/lynk-co-07-gt-debut-europa-paris-2026/>Ver ficha técnica del Lynk & Co 07 GT</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-**¿Buscas solo los datos?** <a href=/coches/lynk-co-07-gt-debut-europa-paris-2026/>Ver ficha técnica del Lynk & Co 07 GT</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+## La noticia
 
-## Estreno continental en el salón parisino
+Lynk & Co eligió París para su puesta de largo europea con el 07 GT: rueda de prensa el 12 de octubre en el **pabellón 5.1, stand A32**. La unidad expuesta será la versión con especificaciones chinas, un anticipo de la futura variante europea, que la marca adaptará a la normativa local y a las preferencias de los clientes del continente.
 
-Para su desembarco en el continente, Lynk & Co escogió la capital francesa: la rueda de prensa quedó fijada para el 12 de octubre dentro del pabellón 5.1, en el stand A32.
+El coche no es un prototipo: se presentó en China a **finales de junio de 2026** y está a la venta allí desde julio. Y está vendiendo: logró **10.000 reservas en 27 minutos**, superó los **35.000 pedidos en 24 días** de preventa y en agosto matriculó **6.056 unidades**, más del 30 % de las ventas mensuales de la marca. No está mal para un familiar en un mercado, el chino, donde ese formato históricamente no funciona.
 
-El ejemplar expuesto responde a la especificación china. Funciona como anticipo de la variante que se comercializará en Europa, que la compañía ajustará tanto a la normativa vigente aquí como a los gustos de la clientela del continente.
+## Precios en China: la mitad de lo que costará aquí
 
-No hablamos de un prototipo. Su presentación en China tuvo lugar a finales de junio de 2026 y desde julio ya se puede comprar allí. Las cifras acompañan: en apenas 27 minutos acumuló 10.000 reservas, la preventa rebasó los 35.000 encargos en 24 días y agosto cerró con 6.056 matriculaciones, superando el 30 % del total mensual de la firma. Un registro notable para una carrocería familiar en China, un mercado donde este formato nunca ha terminado de despegar.
-
-## Precios chinos frente a lo que pagaremos en Europa
-
-Para situar las cifras del mercado chino, expresadas en yuanes:
+Los precios oficiales en China (en yuanes):
 
 | Versión | Precio |
 |---|---|
@@ -501,17 +546,18 @@ Para situar las cifras del mercado chino, expresadas en yuanes:
 | 07 GT 4WD Performance Ultra | 177.800 yuanes |
 | 07 GT Time Limited Edition (1.007 uds, agotada) | 208.800 yuanes |
 
-Si se convierte la cantidad sin más, la variante básica se sitúa en torno a los 20.500 euros. Esa conversión, eso sí, deja fuera los aranceles de la Unión Europea, los impuestos y la homologación comunitaria. Como punto de comparación sirve el Lynk & Co 08, con un precio parecido en China, que arranca en 59.995 euros en Bélgica. Las publicaciones especializadas calculan que el 07 GT europeo arrancará en unos 50.000-55.000 euros, mientras la variante AWD de 523 CV se aproximaría a los 65.000. Se trata de una estimación periodística, no de una tarifa oficial: la compañía todavía no ha comunicado cifras para Europa.
+Al cambio directo, la versión de acceso ronda los **20.500 euros**. Pero cuidado: es un precio sin aranceles europeos, sin impuestos y sin homologación para la UE. Como referencia, el Lynk & Co 08 —de precio similar en China— parte de **59.995 euros en Bélgica**. La prensa especializada estima para el 07 GT europeo un precio de partida de **unos 50.000-55.000 euros**, con la versión AWD de 523 CV acercándose a los 65.000. Es una estimación, no un precio oficial: la marca aún no ha dado cifras para Europa.
 
 <img src=/media/lynk-co-07-gt-debut-europa-paris-2026-galeria-3.webp alt=Lynk & Co 07 GT en tres cuartos trasero mostrando su firma lumínica, imagen editorial>
 
-## ¿Tiene fecha su llegada a España?
 
-En junio, la firma confirmó que el 07 GT desembarcará en el mercado europeo durante 2027, con especificaciones ajustadas a cada país. Todavía no existe calendario ni tarifa para España, aunque el propósito ya es oficial y la presentación parisina supone el primer movimiento del plan.
+## ¿Llegará el Lynk & Co 07 GT a España?
 
-Desde el punto de vista estratégico, la jugada encaja: la inmensa mayoría de los fabricantes chinos centra su apuesta europea en los SUV, mientras la carrocería familiar conserva peso en el Benelux, Escandinavia y Alemania. Así, Lynk & Co ocupa un hueco que sus compatriotas habían dejado desatendido.
+La marca anunció en junio que el 07 GT **entrará en el mercado europeo en 2027**, con especificaciones adaptadas a cada país. No hay fecha ni precio para España todavía, pero la intención es oficial y el debut parisino es el primer paso del plan.
 
-## Rivales con los que se medirá en Europa
+Estratégicamente tiene sentido: casi todos los fabricantes chinos apuestan por SUV en Europa, mientras que el familiar sigue siendo un formato relevante en Alemania, Escandinavia y el Benelux. Lynk & Co ataca un hueco que los chinos habían dejado vacío.
+
+## Los rivales que le esperan en Europa
 
 | Modelo | Tipo | Potencia | Precio orientativo |
 |---|---|---|---|
@@ -521,43 +567,43 @@ Desde el punto de vista estratégico, la jugada encaja: la inmensa mayoría de l
 | Mercedes C 300 e Estate | Familiar PHEV | 313 CV | Desde ~62.000 € |
 | **Lynk & Co 07 GT (est.)** | **Familiar PHEV** | **408-523 CV** | **~50.000-55.000 € (est.)** |
 
-Ninguna de esas alternativas combina 523 CV con ese precio estimado. <a href=/comparador-coches/>Cuando llegue, lo enfrentarás aquí cara a cara con todos ellos</a>.
+Ningún rival ofrece 523 CV a ese precio estimado. <a href=/comparador-coches/>Cuando llegue, lo enfrentarás aquí cara a cara con todos ellos</a>.
 
-## La marca en Europa: tres modelos y una venta distinta
+## Lynk & Co en Europa: la marca hasta hoy
 
-Detrás de Lynk & Co hay una firma sueco-china integrada en el grupo Geely y con origen en Gotemburgo. Su oferta europea actual reúne tres propuestas: el 01, híbrido enchufable; el 02, totalmente eléctrico; y el 08, híbrido enchufable de gran autonomía. Su fórmula comercial combina la adquisición clásica con la suscripción mensual, una opción poco habitual dentro del sector.
+Lynk & Co es la marca **sueco-china del grupo Geely**, nacida en Gotemburgo. En Europa vende actualmente tres modelos: el **01** (híbrido enchufable), el **02** (100 % eléctrico) y el **08** (híbrido enchufable de largo alcance). Su modelo de negocio mezcla la compra tradicional con la suscripción mensual, algo poco común en el sector.
 
-El 07 GT supone su primer familiar y, a la vez, una apuesta deportiva explícita: la firma pretende inscribirlo en rallys cuando arranque el tercer trimestre de 2026, retomando su ADN de competición original. Sin ese aval deportivo, el modelo quedaría reducido a una berlina alargada; con él, pretende convertirse en el coche que marque el rumbo de la firma.
+El 07 GT es su primer familiar y también una declaración de intenciones deportivas: la marca quiere llevarlo a competir en **rallys a partir del tercer trimestre de 2026**, recuperando el ADN de competición que la vio nacer. Sin credenciales deportivas, el 07 GT sería "una berlina con el maletero más grande"; con ellas, aspira a ser el coche que defina la dirección de la marca.
 
-## Cinco detalles que conviene conocer
+## Curiosidades que quizá no sabías
 
-- **Una tirada limitada agotada en la preventa**: de la Time Limited Edition solo se fabricaron 1.007 ejemplares y todos encontraron comprador antes de cerrar la reserva. La firma, además, alardea de haber colocado 10.000 coches en sus primeras 24 horas en China, una marca inédita allí para una carrocería familiar.
-- **Silueta de deportivo**: su relación anchura/altura de 1,28 lo sitúa entre los familiares más bajos y anchos a la venta; el lenguaje de diseño The Next Day nace del trabajo conjunto de un equipo chino-europeo.
-- **Un térmico de eficiencia sobresaliente**: el 1.5T Evo homologa un 47,26 % de eficiencia térmica, un registro que lo coloca entre los mejores motores de gasolina del sector.
-- **Remontada en plena caída**: la firma encadenaba varios meses con la demanda cayendo cerca de un 40 % en su mercado local; el 07 GT se ha transformado en su principal impulso comercial, con 139.000 unidades sumadas de enero a agosto de 2026.
-- **Capacidad de remolque de todocamino**: homologa 1.600 kg de remolque y 100 kg de carga sobre el techo, unas cifras que encajan mejor con un todocamino que con un familiar deportivo.
+- **La edición limitada voló**: las 1.007 unidades de la Time Limited Edition se agotaron durante el periodo de reserva, y la marca presume de haber vendido 10.000 unidades en las primeras 24 horas en China, récord del país para un familiar.
+- **Proporciones de deportivo**: con un ratio ancho/alto de 1,28, es uno de los familiares más bajos y anchos del mercado; el diseño "The Next Day" lo firma un equipo chino-europeo.
+- **El motor térmico más eficiente de su clase**: el 1.5T Evo declara un 47,26 % de eficiencia térmica, entre los mejores del sector para un motor de gasolina.
+- **Llega en el peor momento... y funciona**: la marca venía de varios meses con caídas de ventas en torno al 40 % en China; el 07 GT se ha convertido en su principal motor comercial, con 139.000 unidades acumuladas entre enero y agosto de 2026.
+- **Remolca como un SUV**: 1.600 kg de capacidad de remolque y 100 kg de carga en el techo, cifras más propias de un todocamino que de un familiar deportivo.
 
-## Dudas habituales sobre el 07 GT
+## Preguntas frecuentes
 
-### ¿Cómo se define este nuevo familiar de Lynk & Co?
-Es el primer shooting brake de la firma: un deportivo familiar híbrido enchufable que mide 4,85 metros, con hasta 1.422 km de autonomía conjunta y una batería de 28,3 kWh; la tracción total rinde 523 CV y la delantera, 408 CV.
+### ¿Qué es el Lynk & Co 07 GT?
+El primer familiar (shooting brake) de Lynk & Co: un turismo deportivo híbrido enchufable de 4,85 metros, con versiones de 408 CV (tracción delantera) y 523 CV (tracción total), batería de 28,3 kWh y hasta 1.422 km de autonomía total.
 
-### ¿En qué fecha pisa Europa por primera vez?
-Su debut continental está fijado para el 12 de octubre de 2026, dentro del Mondial de l'Auto parisino, donde la firma participa por vez primera. El ejemplar mostrado corresponde a la especificación china.
+### ¿Cuándo se presenta el Lynk & Co 07 GT en Europa?
+El **12 de octubre de 2026** en el Salón del Automóvil de París (Mondial de l'Auto), en la primera participación de la marca en la feria. La unidad expuesta llevará especificaciones chinas.
 
-### ¿Hay ya calendario para su venta en España?
-El lanzamiento europeo está previsto para 2027, con variantes ajustadas a la regulación de cada mercado. Sin calendario ni tarifa confirmados para España por ahora.
+### ¿Cuándo llegará el Lynk & Co 07 GT a España?
+La marca prevé su lanzamiento europeo en **2027**, con versiones adaptadas a la normativa de cada mercado. Aún no hay fecha ni precio para España.
 
-### ¿Qué precio se baraja para el mercado europeo?
-De momento no existe tarifa oficial. El punto de partida en China son 157.800 yuanes, equivalentes a unos 20.500 € en conversión directa antes de impuestos y aranceles. Las estimaciones periodísticas sitúan el arranque europeo en unos 50.000-55.000 euros, sin que la compañía haya confirmado ninguna cantidad.
+### ¿Cuánto costará el Lynk & Co 07 GT en Europa?
+No hay precio oficial. En China parte de 157.800 yuanes (unos 20.500 € al cambio directo, sin impuestos ni aranceles). La prensa especializada estima unos 50.000-55.000 euros de partida en Europa. Es una estimación, no una cifra de la marca.
 
-### ¿Cuántos kilómetros recorre solo con electricidad?
-Ronda los 200 km bajo el ciclo chino CLTC, gracias a su batería de 28,3 kWh; sumando gasolina y electricidad, el alcance total asciende a 1.422 km.
+### ¿Qué autonomía eléctrica tiene el 07 GT?
+Unos 200 km en ciclo chino CLTC con su batería de 28,3 kWh. La autonomía combinada (gasolina + electricidad) llega a 1.422 km.
 
-### ¿Qué distintivo ambiental le correspondería en España?
-Como híbrido enchufable que supera los 40 km de recorrido eléctrico, optaría al distintivo CERO, que abre la puerta a todas las ZBE. <a href=/calculadora-etiqueta-dgt/>Calcúlala aquí para cualquier coche</a>.
+### ¿Qué etiqueta DGT tendría el Lynk & Co 07 GT?
+Al ser híbrido enchufable con más de 40 km de autonomía eléctrica, le correspondería la etiqueta **CERO**, con acceso a todas las ZBE. <a href=/calculadora-etiqueta-dgt/>Calcúlala aquí para cualquier coche</a>.
 
-Con 523 CV disponibles bajo el pie derecho, merece la pena tener presente que la emoción se agota en un acelerón, mientras la <a href=https://recurretumulta.online/guias/radares>multa por exceso de velocidad</a> se prolonga durante meses. Si recibes una, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de abonar nada: en 20 días se deciden tanto el descuento como la posibilidad de recurrir.
+Con 523 CV bajo el pie derecho, conviene recordar que la emoción dura un acelerón y la <a href=https://recurretumulta.online/guias/radares>multa por exceso de velocidad</a> dura meses. Si te llega una, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar: en 20 días se juega el descuento y el derecho a recurrir.
 
 *Fuentes: <a href=https://d21buns5ku92am.cloudfront.net/69406/pdf/campaigns/141-lynk-co-presenta-el-07-gt-un-nuevo-modelo-sports-touring-cuyo-lanzamiento-en-europa-esta-previsto-par.pdf>nota oficial de Lynk & Co (30/06/2026)</a>, <a href=https://www.autonocion.com/motornocion/lynk-co-07-gt-salon-de-paris-el-12-de-octubre/>debut en París en autonocion.com</a>, <a href=https://movilidadelectrica.com/lynk-co-acudira-primera-vez-salon-automovil-paris-nuevo-07-gt-primicia/>primicia europea en movilidadelectrica.com</a>, <a href=https://cnevpost.com/2026/07/23/lynk-co-07-gt-launch/>lanzamiento y ventas en China en cnevpost.com</a>, <a href=https://newmobility.news/en/2026/07/27/lynk-co-targets-europes-premium-estates-with-523-hp-07-gt/>análisis europeo y rivales en newmobility.news</a> y <a href=https://formula1rd.com/lynk-co-vende-10-000-unidades-de-su-hibrido-familiar-de-20-500-e-con-1-442-km-de-autonomia-que-llegara-a-europa-en-2027/>ventas y llegada a Europa en 2027</a>. Las autonomías son ciclo CLTC (China); el precio europeo es una estimación de la prensa especializada, no oficial.*`
   }

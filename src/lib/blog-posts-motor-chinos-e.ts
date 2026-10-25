@@ -108,7 +108,7 @@ Con 470 CV bajo el pie derecho, ojo con los límites: si te llega una <a href=ht
   {
     title: "Renault 4 E-Tech: desde 27.954 €",
     slug: "renault-4-e-tech-precio-autonomia",
-    excerpt: "El Renault 4 vuelve como SUV urbano eléctrico: 4,14 m, hasta 408 km y 375 L de maletero, desde 27.954 € en España.",
+    excerpt: "El Renault 4 resucita como SUV urbano 100 % eléctrico: 4,14 m, hasta 408 km de autonomía y maletero de 375 litros. Precios en España desde 27.954 €.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -125,34 +125,38 @@ Con 470 CV bajo el pie derecho, ojo con los límites: si te llega una <a href=ht
 
 **¿Buscas solo los datos?** <a href=/coches/renault-4-e-tech-precio-autonomia/>Ver ficha técnica del Renault 4 E-Tech</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-Después del éxito del R5, Renault vuelve a tirar de nostalgia con su mito mayor: el **Renault 4**, el "4Latas", regresa convertido en **SUV urbano totalmente eléctrico**. Mide 4,14 metros, alcanza hasta **408 km de autonomía**, ofrece un maletero de 375 litros y puede llevar un techo de lona eléctrico, guiño al original. En España, el precio de partida es de **27.954 €** y ya se vende en concesionarios.
+Tras el éxito del R5, Renault repite la jugada de la nostalgia con el mito mayor: el **Renault 4**, el "4Latas", vuelve como **SUV urbano 100 % eléctrico**. Mide 4,14 metros, ofrece hasta **408 km de autonomía**, un maletero de 375 litros y hasta techo eléctrico de lona como el original. En España parte de **27.954 €** y ya está en los concesionarios.
 
-## El regreso
+## La noticia
 
-El 4 E-Tech usa la plataforma **AmpR Small**, la misma del Renault 5, con un 68 % de piezas en común, pero su carrocería es más alta, más larga y más práctica: viene a ser el hermano sensato del R5. Incorpora el sistema **Extended Grip** para superficies deslizantes y admite remolcar hasta **750 kg**, algo poco habitual en un eléctrico de este tamaño. Todo ello, producido en Europa.
+El 4 E-Tech comparte la plataforma **AmpR Small** con el Renault 5 (un 68 % de piezas comunes), pero con una carrocería más alta, más larga y más práctica: es el hermano sensato del R5. Añade el sistema **Extended Grip** para firmes deslizantes y puede remolcar hasta **750 kg**, algo raro en un eléctrico de este tamaño. Todo, fabricado en Europa.
 
-La gama se articula en dos baterías: 40 kWh, con 122 CV y 308 km, y 52 kWh, con 150 CV y 397-408 km según el acabado.
+La gama articula dos baterías: 40 kWh (122 CV, 308 km) y 52 kWh (150 CV, 397-408 km según acabado).
 
-## Precios y versiones en España
+## Precio y versiones en España
 
-La entrada a la gama es la Evolution con 122 CV y batería de 40 kWh, que parte de 27.954 €. Subiendo a 150 CV y 52 kWh, la Evolution cuesta desde 30.819 €, la Techno desde 32.729 € y la Iconic desde 34.639 €. Añadir el techo de lona supone 1.700 € más en cualquiera de ellas.
+- **Evolution 122 CV (40 kWh)**: desde 27.954 €
+- **Evolution 150 CV (52 kWh)**: desde 30.819 €
+- **Techno 150 CV (52 kWh)**: desde 32.729 €
+- **Iconic 150 CV (52 kWh)**: desde 34.639 €
+- Techo eléctrico de lona: +1.700 € en cualquier versión
 
 <img src=/media/renault-4-e-tech-precio-autonomia-oficial.webp alt=Renault 4 E-Tech eléctrico, vista frontal tres cuartos>
 
 <img src=/media/renault-4-e-tech-precio-autonomia-interior-oficial-2.webp alt=Interior oficial del renault 4 e tech precio autonomia>
 
-¿Te cuadra el presupuesto? <a href=/mejor-coche-por-presupuesto/>Encuentra el mejor coche según tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
-## Detalles curiosos
+## Curiosidades que quizá no sabías
 
-- Entre 1961 y 1994, el 4L original colocó más de ocho millones de unidades y se convirtió en el turismo francés con más ventas de todos los tiempos.
-- Aunque comparte el 68 % de componentes con el R5, Renault recalca que no se trata de "un R5 alto": chasis, suspensiones y puesta a punto son propios.
-- El techo de lona eléctrico evoca al 4L original sin techo rígido, un icono asociado a la costa francesa.
-- Los asientos llevan tapicería tipo vaquero, con tejido 100 % reciclado, pespuntes y remaches de cobre.
-- Puede remolcar 750 kg, algo que casi ningún urbano eléctrico ofrece con gancho.
-- Detrás, dos adultos van justos de espacio, según la prensa que lo ha probado; ese es su punto más flojo frente al R5.
+- **El 4L original vendió más de 8 millones** de unidades entre 1961 y 1994: fue el coche francés más vendido de la historia.
+- **Comparte el 68 % de las piezas con el R5**, pero Renault insiste en que no es "un R5 alto": tiene chasis, suspensiones y puesta a punto propios.
+- **El techo de lona eléctrico** es un guiño directo al 4L original descapotable, icono de la costa francesa.
+- **Tapicería "jean"**: los asientos usan tejido vaquero 100 % reciclado con pespuntes y remaches de cobre.
+- **Remolca 750 kg**: casi ningún urbano eléctrico puede presumir de gancho de remolque.
+- **Las plazas traseras son justas**: la prensa que lo ha probado avisa de que dos adultos viajan apretados atrás, su punto más débil frente al R5.
 
-## Con quién compite
+## Rivales directos
 
 | Modelo | Autonomía WLTP | Maletero | Precio desde |
 |---|---|---|---|
@@ -161,9 +165,9 @@ La entrada a la gama es la Evolution con 122 CV y batería de 40 kWh, que parte 
 | Citroën ë-C3 Aircross | ~300 km | 460 L | ~25.000 € |
 | BYD Atto 2 | ~312 km | 400 L | ~29.000 € |
 
-Los hemos comparado en profundidad: <a href=/blog/renault-4-e-tech-vs-renault-5-e-tech-cual-comprar/>Duelo Renault 4 E-Tech frente a Renault 5 E-Tech</a>.
+Los hemos enfrentado en detalle: <a href=/blog/renault-4-e-tech-vs-renault-5-e-tech-cual-comprar/>Duelo Renault 4 E-Tech vs Renault 5 E-Tech</a>.
 
-## A favor y en contra
+## Pros y contras
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -175,38 +179,38 @@ Los hemos comparado en profundidad: <a href=/blog/renault-4-e-tech-vs-renault-5-
 
 <iframe src=https://www.youtube.com/embed/9hjc6YnVLR8 title=Prueba del Renault 4 E-Tech en español style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem; allowfullscreen></iframe>
 
-Vídeo en YouTube: <a href=https://www.youtube.com/watch?v=9hjc6YnVLR8>prueba de carwow España (JF Calero)</a>.
+Vídeo: <a href=https://www.youtube.com/watch?v=9hjc6YnVLR8>carwow España (JF Calero)</a> en YouTube.
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿Desde cuánto cuesta en España?
-Desde 27.954 €, con la Evolution de 122 CV y batería de 40 kWh. La siguiente, de 150 CV y 52 kWh, arranca en 30.819 €.
+### ¿Cuánto cuesta el Renault 4 E-Tech en España?
+Desde 27.954 € en la versión Evolution de 122 CV y 40 kWh. La versión de 150 CV y 52 kWh parte de 30.819 €.
 
-### ¿Qué autonomía ofrece?
-Con 40 kWh, el alcance es de 308 km; con 52 kWh, oscila entre 397 y 408 km dependiendo del acabado, en ciclo WLTP.
+### ¿Qué autonomía tiene el Renault 4 E-Tech?
+308 km con la batería de 40 kWh y entre 397 y 408 km con la de 52 kWh, según el acabado (ciclo WLTP).
 
-### ¿Se puede pedir con techo descapotable?
-Sí, se puede pedir un techo de lona eléctrico por unos 1.700 €, como homenaje al 4L original.
+### ¿El Renault 4 E-Tech tiene techo descapotable?
+Puede equipar un techo eléctrico de lona por unos 1.700 €, un homenaje al 4L original.
 
-### ¿Dónde se produce?
-En Europa, sobre la plataforma AmpR Small que comparte con el Renault 5 E-Tech.
+### ¿Dónde se fabrica el Renault 4 E-Tech?
+En Europa, sobre la plataforma AmpR Small compartida con el Renault 5 E-Tech.
 
-### ¿En qué se diferencia del Renault 5 eléctrico?
-Frente al 5, el 4 gana en altura, longitud y practicidad, con más maletero, plazas delanteras más amplias y capacidad de remolque de 750 kg; el 5, en cambio, es más bajo, más deportivo y ofrece algo más de autonomía. Ambos comparten el 68 % de piezas.
+### ¿Qué diferencia hay entre el Renault 4 y el Renault 5 eléctricos?
+El 4 es más alto, más largo y más práctico (más maletero, 5 plazas más desahogadas delante, remolque de 750 kg); el 5 es más bajo, más deportivo y con algo más de autonomía. Comparten el 68 % de las piezas.
 
-### ¿Qué distintivo DGT le toca?
-Al ser totalmente eléctrico, le corresponde el distintivo CERO y puede entrar libremente en las ZBE. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+### ¿Tiene etiqueta CERO de la DGT?
+Sí, al ser 100 % eléctrico le corresponde la etiqueta CERO, con acceso libre a las ZBE. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
-Si estrenas un eléctrico, ten en cuenta que el silencio del motor engaña con la velocidad: un <a href=https://recurretumulta.online/guias/radares>radar</a> no perdona ni a los retro. Si te llega una multa, <a href=https://recurretumulta.online/#analizador>revísala gratis con nuestra IA</a> antes de pagar.
+Si estrenas eléctrico, recuerda que el silencio del motor engaña con la velocidad: un <a href=https://recurretumulta.online/guias/radares>radar</a> no perdona ni a los retro. Si te llega una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
-## Dónde comprobarlo
+## Fuentes
 
-- <a href=https://www.dgt.es/>DGT: revisa qué distintivo ambiental te toca y en qué zonas de bajas emisiones puedes entrar</a>`
+- <a href=https://www.dgt.es/>DGT: comprueba qué etiqueta ambiental le corresponde y las zonas de bajas emisiones donde puede circular</a>`
   },
   {
-    title: "Peugeot E-5008 eléctrico: 7 plazas y 668 km desde 44.380 €",
+    title: "Peugeot E-5008: 668 km",
     slug: "peugeot-e-5008-electrico-7-plazas-precio",
-    excerpt: "El familiar eléctrico francés de 7 plazas reales: hasta 668 km WLTP con la batería Long Range de 96,9 kWh, i-Cockpit de 21 pulgadas y gama desde 44.380 €.",
+    excerpt: "El Peugeot E-5008 es el familiar eléctrico de 7 plazas con más autonomía: hasta 668 km WLTP, i-Cockpit de 21 pulgadas y versiones desde 44.380 €.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -223,36 +227,36 @@ Si estrenas un eléctrico, ten en cuenta que el silencio del motor engaña con l
 
 **¿Buscas solo los datos?** <a href=/coches/peugeot-e-5008-electrico-7-plazas-precio/>Ver ficha técnica del Peugeot E-5008</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-Resolver "familia numerosa + coche eléctrico" no lo logra cualquier modelo como el **Peugeot E-5008**: 7 plazas auténticas, hasta **668 km de autonomía** con la versión Long Range (récord del segmento), además de un i-Cockpit panorámico de 21 pulgadas con aspecto de concept. Se fabrica en Francia y en España arranca en **44.380 €** con su variante eléctrica de acceso.
+Pocos coches resuelven la ecuación "familia numerosa + coche eléctrico" como el **Peugeot E-5008**: 7 plazas de verdad, hasta **668 km de autonomía** en la versión Long Range (récord del segmento) y un i-Cockpit panorámico de 21 pulgadas que parece de concept. Fabricado en Francia, en España parte de **44.380 €** en su versión eléctrica de acceso.
 
 ## La noticia
 
-Con la plataforma **STLA Medium** de Stellantis, el E-5008 es la propuesta familiar de la marca: 4,79 metros de largo, distancia entre ejes de 2,90 m y tres filas (2+3+2) donde, a juicio de quienes lo han probado, la tercera fila admite adultos de verdad. Hay tres niveles eléctricos: 210, Long Range de 230 y Dual Motor de 325, además de un híbrido ligero de 136 CV y un enchufable de 195 CV para quien no lo tenga claro.
+El E-5008 es la apuesta familiar de Stellantis sobre la plataforma **STLA Medium**: 4,79 metros, batalla de 2,90 m y tres filas de asientos (2+3+2) en las que, según quienes lo han probado, caben adultos de verdad en la tercera fila. La gama eléctrica ofrece tres potencias (210, 230 Long Range y 325 Dual Motor), y para los indecisos hay híbrido ligero de 136 CV e híbrido enchufable de 195 CV.
 
-Lo más destacado es la variante Long Range: 96,9 kWh y 668 km, una distancia que ningún otro SUV eléctrico de 7 plazas logra con una sola carga.
+La versión **Long Range de 96,9 kWh y 668 km** es la que más brilla: ningún otro SUV eléctrico de 7 plazas llega tan lejos con una carga.
 
 ## Precio y versiones en España
 
-- Allure eléctrico 210 (73 kWh): desde 44.380 €
-- GT eléctrico 210 (73 kWh): desde 48.980 €
-- Allure Long Range 230 (96,9 kWh): desde 49.010 €
-- GT Exclusive Dual Motor 325: desde 54.160 €
-- Híbrido ligero 136 CV: desde ~39.360 € | Enchufable 195 CV: desde ~43.410 €
+- **Eléctrico 210 Allure (73 kWh)**: desde 44.380 €
+- **Eléctrico 210 GT (73 kWh)**: desde 48.980 €
+- **Long Range 230 Allure (96,9 kWh)**: desde 49.010 €
+- **Dual Motor 325 GT Exclusive**: desde 54.160 €
+- Híbrido 136 CV: desde ~39.360 € | PHEV 195 CV: desde ~43.410 €
 
 <img src=/media/peugeot-e-5008-electrico-7-plazas-precio-oficial.webp alt=Peugeot E-5008 eléctrico de 7 plazas, vista lateral>
 
 <img src=/media/peugeot-e-5008-electrico-7-plazas-precio-interior-oficial-2.webp alt=Interior oficial del peugeot e 5008 electrico 7 plazas precio>
 
-¿Se ajusta a tu bolsillo? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
-- Los **668 km son récord del segmento**: ningún rival eléctrico de 7 plazas se aproxima a esa autonomía homologada.
-- **Prueba nórdica**: periodistas españoles lo condujeron entre Dinamarca y Suecia, con límites inferiores a los españoles, y el consumo real casi igualó al oficial (19,9 kWh/100 km).
-- El **5008 lleva 15 años en el mercado**: surgió en 2010 como monovolumen y se ha transformado en SUV sin renunciar a su vocación familiar.
-- **i-Toggles**: los accesos táctiles personalizables situados bajo la pantalla son marca de la casa en los nuevos Peugeot.
-- **Más de 40 ADAS** disponibles de serie o como opción, con cámara 360º opcional.
-- **Maletero de récord y muy modulable**: hasta 1.815 litros abatiendo las dos filas traseras, más huecos bajo los asientos.
+- **668 km, récord del segmento**: ningún rival de 7 plazas eléctricas se acerca a esa autonomía homologada.
+- **Probado entre Dinamarca y Suecia**: la prensa española lo evaluó en una ruta nórdica donde los límites son más bajos que en España... y el consumo real rozó el homologado (19,9 kWh/100 km).
+- **El 5008 cumple 15 años**: nació en 2010 como monovolumen y se ha reinventado como SUV sin perder su vocación familiar.
+- **i-Toggles**: los atajos táctiles personalizables bajo la pantalla son seña de identidad de los nuevos Peugeot.
+- **Más de 40 ADAS** de serie o disponibles, con cámara 360º opcional.
+- **Maletero modulable de récord**: 1.815 litros con las dos filas traseras abatidas y huecos bajo los asientos.
 
 ## Rivales directos
 
@@ -263,7 +267,7 @@ Lo más destacado es la variante Long Range: 96,9 kWh y 668 km, una distancia qu
 | Skoda Peaq | 7 | 646 km | 54.550 € |
 | Mercedes EQB | 7 | ~440 km | ~55.000 € |
 
-La comparativa completa está aquí: <a href=/blog/peugeot-e-5008-vs-skoda-peaq-cual-comprar/>Duelo Peugeot E-5008 vs Skoda Peaq</a>.
+Los hemos enfrentado en detalle: <a href=/blog/peugeot-e-5008-vs-skoda-peaq-cual-comprar/>Duelo Peugeot E-5008 vs Skoda Peaq</a>.
 
 ## Pros y contras
 
@@ -277,27 +281,27 @@ La comparativa completa está aquí: <a href=/blog/peugeot-e-5008-vs-skoda-peaq-
 
 <iframe src=https://www.youtube.com/embed/xiIP3bVag8I title=Prueba del Peugeot E-5008 GT en español style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem; allowfullscreen></iframe>
 
-En YouTube, <a href=https://www.youtube.com/watch?v=xiIP3bVag8I>SuperMotor.Online</a> prueba el Peugeot E-5008 GT 2025 al volante.
+Vídeo: <a href=https://www.youtube.com/watch?v=xiIP3bVag8I>SuperMotor.Online</a> en YouTube — "Al volante del Peugeot E-5008 GT 2025".
 
 ## Preguntas frecuentes
 
-### ¿Qué precio tiene el Peugeot E-5008 eléctrico?
-El acceso es el Eléctrico 210 Allure con descuentos aplicados: 44.380 €. El Long Range de 668 km arranca en 49.010 €, mientras el Dual Motor de 325 CV lo hace en 54.160 €.
+### ¿Cuánto cuesta el Peugeot E-5008 eléctrico en España?
+Desde 44.380 € (versión Eléctrico 210 Allure con descuentos aplicados). El Long Range de 668 km parte de 49.010 € y el Dual Motor de 325 CV, de 54.160 €.
 
-### ¿Cuántos kilómetros recorre con una carga?
-Hasta 668 km WLTP en la Long Range (96,9 kWh), 499 km con la variante de 210 CV; la Dual Motor se mueve entre 467 y 470 km.
+### ¿Qué autonomía tiene el Peugeot E-5008?
+Hasta 668 km WLTP en la versión Long Range (batería de 96,9 kWh), 499 km en la versión de 210 CV y 467-470 km en la Dual Motor.
 
-### ¿Son 7 plazas de verdad las del Peugeot E-5008?
-Sí: disposición 2+3+2, tercera fila válida para adultos de estatura media y entrada Easy Access. Si van ocupadas las 7 plazas, el maletero se queda en 259 litros.
+### ¿El Peugeot E-5008 tiene 7 plazas de verdad?
+Sí: configuración 2+3+2 con tercera fila utilizable por adultos de talla media y acceso Easy Access. Con las 7 plazas en uso el maletero es de 259 litros.
 
-### ¿Existen versiones híbridas del 5008?
-Sí: un ligero de 136 CV con sistema de 48V desde alrededor de 39.360 €, y un enchufable de 195 CV desde alrededor de 43.410 €.
+### ¿Hay versiones híbridas del 5008?
+Sí: híbrido ligero de 136 CV (48V) desde unos 39.360 € e híbrido enchufable de 195 CV desde unos 43.410 €.
 
-### ¿Dónde se produce el Peugeot E-5008?
-En Francia, con la plataforma STLA Medium de Stellantis.
+### ¿Dónde se fabrica el Peugeot E-5008?
+En Francia, sobre la plataforma STLA Medium de Stellantis.
 
-### ¿Y frente al Kia EV9, compensa?
-El E-5008 Long Range brinda más autonomía (668 frente a 563 km) y cuesta alrededor de 19.000 € menos. El EV9 resulta más grande y premium. Para familias que vigilan el presupuesto, el Peugeot no tiene rival.
+### ¿Merece la pena frente al Kia EV9?
+El E-5008 Long Range ofrece más autonomía (668 vs 563 km) por unos 19.000 € menos. El EV9 es más grande y premium. Para familias que miran la cartera, el Peugeot es imbatible.
 
 Un familiar de 2,4 toneladas y 325 CV invita a pisarle en los viajes: si un <a href=https://recurretumulta.online/guias/radares>radar</a> te caza en la autovía, <a href=https://recurretumulta.online/#analizador>analiza la multa gratis con nuestra IA</a> antes de pagar.
 
@@ -306,9 +310,9 @@ Un familiar de 2,4 toneladas y 325 CV invita a pisarle en los viajes: si un <a h
 - <a href=https://www.dgt.es/>DGT: comprueba qué etiqueta ambiental le corresponde y las zonas de bajas emisiones donde puede circular</a>`
   },
   {
-    title: "Dacia Spring 2026: urbano eléctrico por menos de 18.000 €",
+    title: "Dacia Spring 2026: 18.000 €",
     slug: "dacia-spring-2026-nueva-generacion-precio",
-    excerpt: "El Spring nuevo crece, estrena plataforma RGEV Small, ofrece 80 CV y 250 km, se fabrica en Eslovenia y seguirá por debajo de 18.000 € antes de ayudas.",
+    excerpt: "El Dacia Spring se reinventa: nueva plataforma, 80 CV, 250 km de autonomía, más grande y fabricado en Eslovenia. Por debajo de 18.000 € antes de ayudas.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -325,34 +329,34 @@ Un familiar de 2,4 toneladas y 325 CV invita a pisarle en los viajes: si un <a h
 
 **¿Buscas solo los datos?** <a href=/coches/dacia-spring-2026-nueva-generacion-precio/>Ver ficha técnica del Dacia Spring 2026</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-Durante años, el Spring fue la puerta de entrada más asequible al coche eléctrico en Europa. Ahora Dacia le da la vuelta por completo: estrena arquitectura, gana presencia en carretera, sube el listón de equipamiento y traslada su producción al continente europeo. Todo eso sin renunciar a su idea original: un urbano eléctrico sencillo, ligero y con un precio que siga siendo el más bajo del mercado.
+El coche que democratizó el eléctrico en Europa se reinventa: la **segunda generación del Dacia Spring** cambia de plataforma, crece 15 cm de largo y 18 de ancho, estrena **80 CV y 250 km de autonomía**... y abandona China para **fabricarse en Europa** (Novo Mesto, Eslovenia). El precio seguirá por **debajo de 18.000 €** antes de ayudas. Los pedidos ya están abiertos.
 
-## Qué cambia de verdad
+## La noticia
 
-La marca rumana conserva su lema de ofrecer lo imprescindible bien resuelto, pero el salto es evidente: la arquitectura RGEV Small, compartida dentro del Grupo Renault, aporta aplomo, habitabilidad y un equipamiento que antes no tenía. Además, la carrocería crece 15 cm de largo y 18 cm de ancho respecto al modelo anterior. Dentro aparecen un cuadro digital de 7 pulgadas y una pantalla multimedia que alcanza las 10,1 pulgadas, compatible con CarPlay y Android Auto sin cable.
+Dacia ha escuchado: el nuevo Spring mantiene la filosofía de "lo esencial, bien hecho", pero deja atrás la sensación de "coche de juguete". La nueva plataforma **RGEV Small del Grupo Renault** le da más aplomo, más espacio y mejor equipamiento, con un interior que estrena cuadro digital de 7" y pantalla multimedia de hasta 10,1" con CarPlay y Android Auto inalámbricos.
 
-Será la primera entrega de una ofensiva de cuatro modelos eléctricos que Dacia planea poner en Europa antes de 2030. Y hay otro número que importa mucho en España: con ayudas, el desembolso podría rondar los 13.400 €.
+Es el primero de **cuatro eléctricos** que Dacia lanzará en Europa antes de 2030. Y ojo al dato: con las ayudas españolas podría quedarse en unos **13.400 €**.
 
-## Precio, acabados y cuándo llega
+## Precio y versiones en España
 
-El punto de partida se situará por debajo de los 18.000 € antes de cualquier ayuda. Restando el descuento de hasta 4.500 € vigente en España, la cifra rondaría los 13.400 €, a los que se podrían sumar 800 € más al entregar un coche de combustión para achatarrar. Habrá dos niveles, Expression y Journey; este último añade la pantalla de 10,1 pulgadas, cámara trasera y más dotación. Las entregas están previstas entre finales de 2026 y principios de 2027.
+El precio de partida estará **por debajo de 18.000 €** antes de ayudas. Con el descuento de hasta 4.500 € aplicable en España se quedaría en unos **13.400 €**, más 800 € extra si achatarras un coche de combustión. Dos acabados: **Expression** y **Journey** (con pantalla de 10,1", cámara trasera y más equipamiento). Entregas a finales de 2026 o principios de 2027.
 
 <img src=/media/dacia-spring-2026-nueva-generacion-precio-oficial.webp alt=Dacia Spring 2026, urbano eléctrico, vista frontal>
 
 <img src=/media/dacia-spring-2026-nueva-generacion-precio-interior-oficial-2.webp alt=Interior oficial del dacia spring 2026 nueva generacion precio>
 
-¿Te encaja el gasto? <a href=/mejor-coche-por-presupuesto/>Consulta qué coche conviene según tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
-## Detalles que conviene conocer
+## Curiosidades que quizá no sabías
 
-- **Producción europea**: el Spring actual sale de China; la hornada nueva se montará en Eslovenia, en la misma factoría que el Renault Twingo E-Tech.
-- **Ventas acumuladas**: más de 210.000 unidades desde 2021; el 79 % de los compradores llegaba de otras marcas y el 93 % no había tenido nunca un eléctrico.
-- **Uso diario**: el conductor medio recorre 34 km al día; de ahí que Dacia priorice precio contenido y peso reducido frente a una batería gigantesca.
-- **V2L incluido en la filosofía Dacia**: la batería puede alimentar pequeños aparatos eléctricos.
-- **Lo que viene después**: Dacia ya prepara su segundo eléctrico; suenan el Dacia Hipster y un Sandero completamente eléctrico.
-- **Anchura**: crece 18 cm a lo ancho; ese cambio dimensional es el que más se aprecia, porque el Spring nuevo ya no recuerda a un cuadriciclo con aspiraciones.
+- **Adiós China**: el Spring actual se fabrica en China; la nueva generación se produce en Eslovenia, en la misma planta que el Renault Twingo E-Tech.
+- **Más de 210.000 vendidos** desde 2021: el 79 % de sus compradores venían de otras marcas y el 93 % nunca había tenido un eléctrico.
+- **El usuario medio hace 34 km al día**: por eso Dacia prioriza precio y peso ligero antes que una batería enorme.
+- **V2L de serie en la lógica Dacia**: puedes enchufar pequeños aparatos a la batería del coche.
+- **En camino**: Dacia ya trabaja en su segundo eléctrico, y suenan el Dacia Hipster y un Sandero totalmente eléctrico.
+- **18 cm más ancho**: el salto dimensional es lo que más se nota; el nuevo Spring ya no parece un cuadriciclo con aspiraciones.
 
-## Competencia directa
+## Rivales directos
 
 | Modelo | Autonomía WLTP | Precio desde |
 |---|---|---|
@@ -362,9 +366,9 @@ El punto de partida se situará por debajo de los 18.000 € antes de cualquier 
 | Leapmotor T03 | 265 km | ~19.000 € |
 | Hyundai Inster | 327 km | ~24.000 € |
 
-Los hemos comparado a fondo: <a href=/blog/renault-5-e-tech-2026-vs-dacia-spring-2026-cual-comprar/>Comparativa entre el Renault 5 E-Tech y el Spring</a>.
+Los hemos enfrentado en detalle: <a href=/blog/renault-5-e-tech-2026-vs-dacia-spring-2026-cual-comprar/>Duelo Renault 5 E-Tech vs Dacia Spring</a>.
 
-## Puntos fuertes y puntos débiles
+## Pros y contras
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -376,33 +380,33 @@ Los hemos comparado a fondo: <a href=/blog/renault-5-e-tech-2026-vs-dacia-spring
 
 <iframe src=https://www.youtube.com/embed/FpsWY4A302U title=Presentación del nuevo Dacia Spring segunda generación style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem; allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=FpsWY4A302U>SoyMotor</a> en YouTube — estreno de la segunda hornada del Spring.
+Vídeo: <a href=https://www.youtube.com/watch?v=FpsWY4A302U>SoyMotor</a> en YouTube — presentación de la segunda generación del Dacia Spring.
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿Qué precio tendrá el Spring nuevo en España?
-Estará por debajo de los 18.000 € antes de ayudas. Con el apoyo disponible en España, la cifra puede rondar los 13.400 €, y subiría el ahorro en 800 € más al entregar un coche de combustión para achatarrar.
+### ¿Cuánto cuesta el nuevo Dacia Spring en España?
+Menos de 18.000 € antes de ayudas. Con las ayudas disponibles en España puede bajar hasta unos 13.400 €, más 800 € si entregas un coche de combustión para achatarrar.
 
-### ¿Cuántos kilómetros recorre con una carga?
-Homologa 250 km en ciclo WLTP gracias a su batería LFP de 27,5 kWh de capacidad útil y a un gasto de 12,7 kWh cada 100 km.
+### ¿Qué autonomía tiene el Dacia Spring 2026?
+250 km en ciclo WLTP con su batería LFP de 27,5 kWh útiles y un consumo de 12,7 kWh/100 km.
 
-### ¿Dónde se montará el Spring nuevo?
-En Novo Mesto, en Eslovenia, sobre la arquitectura RGEV Small del Grupo Renault. Dejará de salir de China.
+### ¿Dónde se fabrica el nuevo Dacia Spring?
+En Novo Mesto (Eslovenia), sobre la nueva plataforma RGEV Small del Grupo Renault. Deja de fabricarse en China.
 
-### ¿Cuándo se podrá comprar aquí?
-Los pedidos ya están abiertos y las primeras entregas llegarán entre finales de 2026 y principios de 2027.
+### ¿Cuándo llega el nuevo Dacia Spring a España?
+Los pedidos ya están abiertos y las entregas arrancan a finales de 2026 o principios de 2027.
 
-### ¿Sirve para hacer viajes largos?
-Es un urbano: alcanza 130 km/h y homologa 250 km. En ciudad y alrededores resulta ideal; en trayectos largos, la carga rápida de 50 kW, que es opcional, ayuda, pero ese no es su terreno.
+### ¿El Dacia Spring sirve para viajar?
+Es un urbano: 130 km/h de máxima y 250 km de autonomía. Para ciudad y alrededores es ideal; para viajes largos, la carga rápida de 50 kW (opcional) ayuda, pero no es su hábitat.
 
-### ¿Compensa frente al Citroën ë-C3?
-Este rival da más autonomía, 320 km, y cinco plazas, pero ronda los 5.000 € más. Si tu prioridad es el eléctrico más barato posible y circulas sobre todo por ciudad, el Spring mantiene su ventaja en precio.
+### ¿Merece la pena frente al Citroën ë-C3?
+El ë-C3 ofrece más autonomía (320 km) y 5 plazas, pero cuesta unos 5.000 € más. Si buscas el eléctrico más barato posible y te mueves por ciudad, el Spring sigue sin rival en precio.
 
 Urbano, ligero y barato: el Spring es perfecto para la <a href=https://recurretumulta.online/guias/zbe>ZBE</a>... pero ojo, que en ciudad también hay <a href=https://recurretumulta.online/guias/radares>radares</a>. Si te cazan, <a href=https://recurretumulta.online/#analizador>analiza la multa gratis</a> antes de pagar.
 
 ## Fuentes
 
-- <a href=https://www.dgt.es/>DGT: revisa qué etiqueta le corresponde y en qué zonas de bajas emisiones puede circular</a>`
+- <a href=https://www.dgt.es/>DGT: comprueba qué etiqueta ambiental le corresponde y las zonas de bajas emisiones donde puede circular</a>`
   },
   {
     title: "Seres 5: 585 CV y 500 km de autonomía desde 54.450 €",

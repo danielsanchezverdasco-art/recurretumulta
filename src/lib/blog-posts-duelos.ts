@@ -8,7 +8,7 @@ export const DUELOS_POSTS: BlogPost[] = [
   {
     title: "Renault 5 vs Spring 2026: ¿cuál te conviene más?",
     slug: "renault-5-e-tech-2026-vs-dacia-spring-2026-cual-comprar",
-    excerpt: "El R5 baja a 20.170 € con ayudas y el Spring nuevo queda por debajo de 18.000 €: autonomía, potencia, carga y equipamiento cara a cara para elegir bien.",
+    excerpt: "El Renault 5 E-Tech parte de 20.170 € con ayudas y el nuevo Dacia Spring baja de los 18.000 €. Comparamos precio, autonomía, potencia y equipamiento",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -25,13 +25,13 @@ export const DUELOS_POSTS: BlogPost[] = [
     ],
     content: `<img src=/media/renault-5-e-tech-2026-vs-dacia-spring-2026-cual-comprar-hero.webp alt=Comparativa entre el Renault 5 E-Tech y el Dacia Spring 2026, los dos eléctricos urbanos más baratos del mercado>
 
-Dos primos del Grupo Renault, dos urbanos eléctricos puros y dos planteamientos opuestos: el Renault 5 E-Tech 2026, que gracias al Plan Auto+ y a las promociones queda en **20.170 €**, frente a un Dacia Spring renovado cuyo precio inicial quedará **por debajo de 18.000 €** (alrededor de 13.400 € si se aplican las ayudas). Comparten familia y etiqueta Cero, pero apuntan a compradores distintos.
+Los dos eléctricos más baratos con etiqueta Cero se enfrentan: el Renault 5 E-Tech 2026, que con promociones y el Plan Auto+ baja hasta **20.170 €**, y el nuevo Dacia Spring, cuyo precio de partida estará **por debajo de 18.000 €** (unos 13.400 € con ayudas). Los dos son primos del Grupo Renault y los dos son urbanos puros, pero no son el mismo coche ni de lejos.
 
-La recomendación rápida es sencilla: **el Spring encaja con quien busca el eléctrico más asequible posible para la ciudad; el R5 encaja con quien busca un coche completo** que sirva también para algún viaje esporádico. El desglose cifra a cifra está en la tabla siguiente.
+Si vienes a buscar la respuesta corta: **el Spring es para quien solo quiere el eléctrico más barato para moverse por la ciudad; el R5 es para quien quiere un coche de verdad** con el que también salir de viaje de vez en cuando. Los detalles, en la tabla.
 
 Fichas técnicas: <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>ver ficha técnica completa del Renault 5 E-Tech</a> · <a href=/coches/dacia-spring-2026-nueva-generacion-precio/>ver ficha técnica completa del Dacia Spring</a>.
 
-## Los dos rivales, frente a frente en la tabla
+## Tabla comparativa: Renault 5 E-Tech vs Dacia Spring 2026
 
 | Ficha | Renault 5 E-Tech 2026 | Dacia Spring 2026 |
 |---|---|---|
@@ -52,69 +52,70 @@ Fichas técnicas: <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>ver fi
 
 <img src=/media/renault-5-dacia-spring-duelo-cuerpo.webp alt=Renault 5 E-Tech y Dacia Spring en comparativa>
 
-## Qué aporta cada modelo
+## Análisis: qué ofrece cada uno
 
-**Renault 5 E-Tech.** La gama 2026 conserva las dos baterías, de 40 y 52 kWh, y gana alcance gracias a una aerodinámica revisada: **315 km WLTP** con la pequeña y **430 km** con la grande. La lista oficial arranca en 28.085 € para el Evolution de 120 CV y sube hasta 36.585 € en el Roland-Garros, pero sumando promociones, el certificado de ahorro energético y el programa Auto+, ese Evolution de 120 CV baja a 20.170 €. Al estar fabricado en Europa, puede acceder a las ayudas más altas. Queda pendiente la variante de entrada **Five**, con batería LFP de 37 kWh aproximados y 95 CV, que abrirá pedidos a finales de 2026. Dos guiños con encanto: el "5" del capó marca la carga mediante cinco barras LED, y el asistente Gemini se incorporará por OTA.
+**Renault 5 E-Tech.** La gama 2026 mantiene las baterías de 40 y 52 kWh, pero exprime su eficiencia con mejoras aerodinámicas: **315 km WLTP** la versión de 40 kWh y **430 km** la de 52 kWh. Los precios oficiales van de 28.085 € (Evolution 120 CV) a 36.585 € (Roland-Garros), aunque con promociones, certificados de ahorro energético y el programa Auto+ el Evolution de 120 CV se queda en 20.170 €. Al fabricarse en Europa, opta a las máximas ayudas. Pendiente queda la versión de acceso **Five** (batería LFP de unos 37 kWh y 95 CV), con pedidos a finales de 2026. Detalles que enamoran: el "5" del capó es un indicador de carga con cinco barras LED, y el asistente Gemini llegará por OTA.
 
-**Dacia Spring 2026.** La nueva generación se apoya en la plataforma RGEV Small del Grupo Renault y añade un cuadro digital de 7", una pantalla de hasta 10,1" compatible con CarPlay y Android Auto sin cables, y V2L para alimentar aparatos pequeños. Con 250 km de autonomía, 80 CV y 4 plazas, su terreno es claramente la ciudad. A su favor juegan dos bazas: será el eléctrico más económico del mercado (menos de 18.000 €, alrededor de 13.400 € si se aplican las ayudas) y la producción se traslada a **Eslovenia**, dejando atrás China. En contra, el calendario: las primeras entregas no se esperan hasta el tramo final de 2026 o el inicio de 2027.
+**Dacia Spring 2026.** Nueva generación sobre la plataforma RGEV Small del Grupo Renault, con cuadro digital de 7", pantalla de hasta 10,1" con CarPlay y Android Auto inalámbricos, y V2L para enchufar pequeños aparatos. Con 80 CV, 250 km de autonomía y 4 plazas, es un coche estrictamente urbano. A su favor: será el eléctrico más barato del mercado (menos de 18.000 €, unos 13.400 € con ayudas) y la nueva generación se fabrica en **Eslovenia** (ya no en China). En contra: las entregas no llegan hasta finales de 2026 o principios de 2027.
 
-## Luces y sombras de ambos
+## Pros y contras
 
 **Renault 5 E-Tech:**
-- ✅ Un diseño que enamora, con etiqueta CERO y 430 km WLTP con la batería grande, de 52 kWh
-- ✅ Por 20.170 € con las ayudas, el eléctrico con más carácter en ese rango de precio
-- ✅ Producción europea, lo que le abre las ayudas máximas del Plan Auto+
-- ❌ Sin ayudas, el punto de partida sube a 28.085 €, un salto considerable
-- ❌ La variante Five, la más barata, todavía no admite pedidos
-- ❌ Carrocería solo de 5 puertas: no existe la versión de 3 del R5 clásico
+- ✅ Desde 20.170 € con ayudas: el eléctrico con más personalidad por ese precio
+- ✅ 430 km WLTP en la versión de 52 kWh
+- ✅ Fabricado en Europa: máximas ayudas del Plan Auto+
+- ✅ Diseño que enamora y etiqueta CERO
+- ❌ Sin ayudas parte de 28.085 €, un salto importante
+- ❌ La versión Five más barata aún no se puede pedir
+- ❌ Solo 5 puertas: no hay versión de 3 como el R5 clásico
 
 **Dacia Spring 2026:**
-- ✅ El eléctrico más asequible que se podrá comprar: menos de 18.000 €, alrededor de 13.400 € si se aplican las ayudas
-- ✅ V2L y un equipamiento digno para su precio
-- ✅ 12,7 kWh/100 km: un consumo de los más bajos que hay
-- ✅ Producción en Europa (Eslovenia), no en China
-- ❌ 4 plazas y 80 CV: corto para salir a carretera
-- ❌ 250 km de autonomía: pensado solo para ciudad y alrededores
-- ❌ Las entregas no llegan hasta el tramo final de 2026 o el inicio de 2027
+- ✅ Menos de 18.000 € (unos 13.400 € con ayudas): el eléctrico más barato
+- ✅ Fabricado en Europa (Eslovenia), ya no en China
+- ✅ 12,7 kWh/100 km, de los consumos más bajos del mercado
+- ✅ V2L y equipamiento digno por su precio
+- ❌ 250 km de autonomía: solo vale para ciudad y alrededores
+- ❌ 4 plazas y 80 CV: justito para salir a carretera
+- ❌ Entregas a finales de 2026 o principios de 2027
 
-## La decisión: ¿con cuál te quedas?
+## Veredicto: ¿cuál comprar?
 
-**Elige el Dacia Spring 2026 si** tu día a día es totalmente urbano, ya tienes otro coche para viajar (o directamente no viajas) y el presupuesto pesa más que todo lo demás: con etiqueta Cero, nada sale más barato. **Elige el Renault 5 E-Tech si** será tu único coche: pagando unos 7.000 € más con ayudas, sumas 40 CV, entre 65 y 180 km extra de autonomía, una quinta plaza y carga rápida incluida de serie, además de un coche con el que sí se puede salir de la ciudad. Sin letra pequeña: en este caso, pagar más se traduce en más coche en todo.
+**Compra el Dacia Spring 2026 si** tu uso es 100 % urbano, tienes otro coche para viajar (o no viajas) y el presupuesto manda por encima de todo: nada cuesta menos con etiqueta Cero. **Compra el Renault 5 E-Tech si** es tu único coche: por unos 7.000 € más (con ayudas) ganas 40 CV extra, 65-180 km más de autonomía, una quinta plaza, carga rápida de serie y un coche con el que sí puedes salir de la ciudad. No hay trampa: aquí el dinero extra se nota en todo.
 
-Para cerrar la comparativa, puedes enfrentarlos directamente en nuestro <a href=/comparador-coches/?a=renault-5-e-tech-2026-precio-autonomia&b=dacia-spring-2026-nueva-generacion-precio>comparador del Renault 5 E-Tech y el Dacia Spring</a>, y leer el <a href=/blog/renault-5-e-tech-2026-precio-autonomia/>análisis completo del Renault 5 E-Tech</a> y el <a href=/blog/dacia-spring-2026-nueva-generacion-precio/>análisis completo del Dacia Spring 2026</a>. Las fichas detalladas están en la <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>ficha del Renault 5 E-Tech</a> y en la <a href=/coches/dacia-spring-2026-nueva-generacion-precio/>ficha del Dacia Spring</a>. Y un apunte final: los dos lucen etiqueta Cero, así que acceden a todas las ZBE; si te surgen dudas, consulta nuestra <a href=/guias/zbe/>guía de etiquetas y ZBE</a>.
+Puedes afinar la decisión en nuestro <a href=/comparador-coches/?a=renault-5-e-tech-2026-precio-autonomia&b=dacia-spring-2026-nueva-generacion-precio>comparador del Renault 5 E-Tech y el Dacia Spring</a>, y leer el <a href=/blog/renault-5-e-tech-2026-precio-autonomia/>análisis completo del Renault 5 E-Tech</a> y el <a href=/blog/dacia-spring-2026-nueva-generacion-precio/>análisis completo del Dacia Spring 2026</a>. Tienes las fichas detalladas en <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>ficha del Renault 5 E-Tech</a> y <a href=/coches/dacia-spring-2026-nueva-generacion-precio/>ficha del Dacia Spring</a>. Y recuerda: los dos llevan etiqueta Cero, así que entran en todas las ZBE; repasa nuestra <a href=/guias/zbe/>guía de etiquetas y ZBE</a> si tienes dudas.
 
 Fuentes: <a href=https://www.renault.es>Renault España</a> y <a href=https://www.dacia.es>Dacia España</a>.
 
-## El duelo, en vídeo
+## Míralo en vídeo
 
 <iframe src=https://www.youtube.com/embed/ZKkCznUMeYg title="Vídeo: Prueba real del Renault 5 E-Tech en autopista" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=ZKkCznUMeYg>David Fernandez & Cars</a> en YouTube
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿Cuál sale más barato, el R5 o el Spring nuevo?
-El Spring, y con margen: su precio inicial quedará por debajo de 18.000 €, alrededor de 13.400 € con las ayudas, frente a los 20.170 € del R5 con ayudas y a los 28.085 € de PVP sin apoyo promocional.
+### ¿Cuál es más barato, el Renault 5 E-Tech o el Dacia Spring 2026?
+El Dacia Spring, con diferencia: su precio de partida estará por debajo de 18.000 € (unos 13.400 € con ayudas), frente a los 20.170 € del Renault 5 con ayudas o los 28.085 € de PVP sin promociones.
 
-### ¿Quién llega más lejos con una carga?
-El R5 llega más lejos: con la batería pequeña homologa 315 km WLTP y con la grande, 430 km; el Spring se queda en 250 km. El R5 sí permite salir a carretera; el Spring queda para ciudad y alrededores.
+### ¿Cuál tiene más autonomía?
+El Renault 5 E-Tech: 315 km WLTP con la batería de 40 kWh y 430 km con la de 52 kWh, frente a los 250 km del Dacia Spring. El R5 sí puede salir a carretera; el Spring, solo ciudad y alrededores.
 
-### ¿Entran los dos en las ZBE?
-Sí: al ser eléctricos puros, ambos lucen etiqueta Cero y pueden circular por cualquier zona de bajas emisiones sin limitaciones.
+### ¿Los dos tienen etiqueta Cero de la DGT?
+Sí, ambos son eléctricos puros y llevan etiqueta Cero, así que entran en todas las zonas de bajas emisiones sin restricciones.
 
-### ¿Cuándo llegará el Spring nuevo a los clientes?
-Las primeras entregas se esperan entre finales de 2026 y principios de 2027. El R5, en cambio, ya se puede comprar, salvo la variante de acceso Five, aún pendiente.
+### ¿Cuándo se puede comprar el nuevo Dacia Spring?
+Las entregas están previstas para finales de 2026 o principios de 2027. El Renault 5 E-Tech, en cambio, ya está a la venta (pendiente solo la versión de acceso Five).
 
-### ¿Puede el Spring ser el único coche de casa?
-Como coche único, solo lo aconsejaríamos si nunca sales de la ciudad: 250 km de autonomía, 80 CV, 4 plazas y carga rápida solo en opción. Como segundo coche urbano, por precio no tiene rival.
+### ¿El Dacia Spring sirve como único coche?
+Nosotros no lo recomendaríamos como coche único salvo que nunca salgas de la ciudad: 4 plazas, 80 CV, 250 km de autonomía y carga rápida solo opcional. Como segundo coche urbano, es imbatible por precio.
 
-Si recibes una sanción y sospechas que tiene algún error, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
 `,
   },
   {
-    title: "Renault 4 o Renault 5 E-Tech: ¿cuál elegir en 2026?",
+    title: "Renault 4 E-Tech vs Renault 5 E-Tech 2026",
     slug: "renault-4-e-tech-vs-renault-5-e-tech-cual-comprar",
-    excerpt: "El Renault 4 E-Tech es más práctico y caro; el Renault 5, más barato con ayudas y con más autonomía. Así se elige entre los dos retro eléctricos.",
+    excerpt: "El Renault 4 E-Tech comparte el 68 % de las piezas con el Renault 5, pero cuesta más y es más práctico. Comparamos precio, autonomía, maletero y",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -131,15 +132,11 @@ Si recibes una sanción y sospechas que tiene algún error, <a href=https://recu
     ],
     content: `<img src=/media/renault-4-e-tech-vs-renault-5-e-tech-cual-comprar-hero.webp alt=Comparativa entre el Renault 4 E-Tech y el Renault 5 E-Tech, los dos eléctricos retro de Renault>
 
-Dos iconos de Renault vuelven a la vez, en eléctrico, y se parecen mucho por dentro: misma base AmpR Small y un 68 % de componentes compartidos. Y sin embargo no son el mismo coche con otra carrocería: el 4 llega con bastidor, suspensiones y reglajes propios, una silueta más elevada, mayor longitud y un enfoque claramente más familiar. La duda real para quien compra es si ese plus de precio compensa.
+Son hermanos, comparten la plataforma **AmpR Small** y el 68 % de las piezas, pero Renault insiste en que el 4 E-Tech no es "un R5 alto": tiene chasis, suspensiones y puesta a punto propios, carrocería más alta, más larga y más práctica. La pregunta honesta es si el sobreprecio se justifica.
 
-Datos completos en las fichas de cada modelo: <a href=/coches/renault-4-e-tech-precio-autonomia/>ver ficha técnica completa del Renault 4 E-Tech</a> · <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>ver ficha técnica completa del Renault 5 E-Tech</a>.
+Fichas técnicas: <a href=/coches/renault-4-e-tech-precio-autonomia/>ver ficha técnica completa del Renault 4 E-Tech</a> · <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>ver ficha técnica completa del Renault 5 E-Tech</a>.
 
-## Lo primero: tamaño, diseño y vida diaria
-
-El 5 apuesta por el encanto: silueta compacta de 3.922 mm, imagen que remite al R5 clásico y un carácter urbano muy marcado. El 4, con 4.144 mm, juega otra liga en lo práctico: maletero de 375 L, mejor visibilidad desde el puesto de conducción y un interior pensado para cargar y viajar con más desahogo. Eso sí, detrás sigue sin sobrar sitio para adultos en ninguno de los dos, y en el 4 la prensa que ya lo ha conducido señala precisamente unas plazas traseras algo escasas.
-
-## Los números, frente a frente
+## Tabla comparativa: Renault 4 E-Tech vs Renault 5 E-Tech
 
 | Ficha | Renault 4 E-Tech | Renault 5 E-Tech 2026 |
 |---|---|---|
@@ -160,80 +157,70 @@ El 5 apuesta por el encanto: silueta compacta de 3.922 mm, imagen que remite al 
 
 <img src=/media/renault-4-renault-5-duelo-cuerpo.webp alt=Renault 4 E-Tech y Renault 5 E-Tech juntos en comparativa>
 
-## Precio: dónde sale cada uno
+## Análisis: qué ofrece cada uno
 
-De partida, el 4 arranca en 27.954 € con el acabado Evolution, y su gama sube hasta 34.639 € en el Iconic, con cuatro niveles en total. El 5, sin ayudas, parte de 28.085 € de PVP, pero con ellas el Evolution de 120 CV se queda en 20.170 €, la cifra que lo convierte en el eléctrico con más carisma por ese dinero. Ojo: en el 4 el precio se dispara en cuanto se añaden opciones, y el acabado Iconic ya roza los 35.000 €.
+**Renault 4 E-Tech.** El hermano sensato: la gama articula dos baterías (40 kWh con 122 CV y 308 km; 52 kWh con 150 CV y 397-408 km según acabado) y cuatro acabados, del Evolution de 27.954 € al Iconic de 34.639 €. Sus bazas prácticas: **maletero de 375 L**, techo eléctrico de lona opcional (+1.700 €, guiño al 4L original descapotable), sistema Extended Grip para firmes deslizantes y **remolque de 750 kg**, algo rarísimo en un eléctrico de este tamaño. Su punto débil, según la prensa que lo ha probado: las **plazas traseras son justas** para adultos. Detalle curioso: la tapicería "jean" usa tejido vaquero 100 % reciclado con pespuntes y remaches de cobre.
 
-## Baterías, autonomía y carga
+**Renault 5 E-Tech.** El hermano emocional: más barato con ayudas (20.170 € el Evolution de 120 CV), mejor autonomía en la versión grande (430 km) y el diseño que enamora. Mismo cargador DC de 80 kW y mismos 5 plazas. Su "5" del capó funciona como indicador de carga con cinco barras LED, y el asistente Gemini llegará por OTA. A cambio, no hay techo de lona, no remolca y la versión Five más barata aún no se puede pedir.
 
-Ambos se mueven con baterías de 40 kWh en acceso y una opción de 52 kWh, y comparten cargador rápido de 80 kW en corriente continua. Con la pequeña, el 4 homologa 308 km y el 5 llega a 315 km; con la grande, el 5 alcanza 430 km mientras el 4 se queda en 397-408 km según acabado. En potencia, la variante de acceso del 4 da 122 CV y la grande 150 CV, frente a los 120 CV del 5 de entrada; en consumo andan casi empatados, 14,7 kWh/100 km el 4 y 14,5 el 5. El 4 de 122 CV acelera de 0 a 100 km/h en 9,2 s, un registro modesto, y su punta es de 150 km/h; del 5 no se han publicado aún esos dos datos.
-
-## Detalles que enamoran (y alguno que pesa)
-
-En el 4 hay guiños con historia: techo de lona eléctrico opcional por 1.700 €, disponible en toda la gama, que recuerda al 4L descapotable original; tapicería en tela vaquera, toda ella reciclada, rematada con costuras vistas y remaches cobrizos; sistema Extended Grip para superficies deslizantes; y capacidad de remolque de 750 kg, insólita en un eléctrico urbano de este formato.
-
-El 5 responde con su propio repertorio: el «5» del capó se ilumina por tramos para mostrar el nivel de carga, el asistente Gemini llegará mediante actualización inalámbrica, y dispone de carga inalámbrica Qi2. Además, al fabricarse en Europa opta a las máximas ayudas del Plan Auto+. A cambio, no contempla techo de lona ni remolque.
-
-## Puntos fuertes y débiles
+## Pros y contras
 
 **Renault 4 E-Tech:**
-- ✅ Estética retro con mucho carácter, que moderniza al 4Latas sin traicionar su espíritu
-- ✅ Hasta 408 km de alcance en la variante grande, por alrededor de 31.000 €
-- ✅ Techo de lona eléctrico en opción, un detalle sin equivalente en el segmento
-- ✅ Puede remolcar 750 kg, algo casi inédito entre los urbanos eléctricos
-- ❌ Detrás, el espacio para adultos es escaso
-- ❌ La versión de acceso, con 122 CV, resulta algo perezosa: 9,2 s en el 0-100
-- ❌ Con equipamiento, la factura crece deprisa: el Iconic alcanza 34.639 €
+- ✅ Diseño retro con carácter: el 4Latas modernizado sin perder su esencia
+- ✅ Hasta 408 km de autonomía por unos 31.000 €
+- ✅ Techo eléctrico de lona opcional, un guiño único al original
+- ✅ Remolque de 750 kg, raro en un urbano eléctrico
+- ❌ Plazas traseras justas para adultos
+- ❌ La versión de 122 CV se queda corta en prestaciones (9,2 s)
+- ❌ El precio sube rápido con equipamiento (Iconic: 34.639 €)
 
 **Renault 5 E-Tech:**
-- ✅ Con ayudas sale desde 20.170 €, difícil encontrar otro eléctrico con tanta personalidad a ese precio
-- ✅ 430 km WLTP gracias a la batería de 52 kWh
-- ✅ Hecho en Europa, así que accede a las ayudas más altas del Plan Auto+
-- ✅ Al día en tecnología: asistente Gemini por actualización remota y carga Qi2 sin cables
-- ❌ Sin ayudas, arranca en 28.085 €, un salto notable respecto al precio con apoyo
-- ❌ La variante Five, la más asequible en teoría, todavía no admite pedidos
-- ❌ Solo se vende con 5 puertas: no existe la variante de 3 del R5 clásico
+- ✅ Desde 20.170 € con ayudas: el eléctrico con más personalidad por ese precio
+- ✅ 430 km WLTP en la versión de 52 kWh
+- ✅ Fabricado en Europa: máximas ayudas del Plan Auto+
+- ✅ Tecnología al día: Gemini por OTA, carga inalámbrica Qi2
+- ❌ Sin ayudas parte de 28.085 €, un salto importante
+- ❌ La versión Five más barata aún no se puede pedir
+- ❌ Solo 5 puertas: no hay versión de 3 como el R5 clásico
 
-## Entonces, ¿con cuál me quedo?
+## Veredicto: ¿cuál comprar?
 
-No hay un ganador absoluto, sino dos perfiles. Si lo que buscas es el coche que enamora al mirarlo, el 5 gana: sale más barato con ayudas, recorre más kilómetros con la batería grande y tiene ese punto de encanto que el 4 no persigue. Si lo que necesitas es el coche que resuelve el día a día, el 4 compensa por otros motivos: un maletero de 375 L, la lona eléctrica opcional, la posibilidad de remolcar 750 kg y una visibilidad superior. Pero ojo con el precio de partida del 4, más alto, y con sus plazas traseras, escasas: si sueles viajar con cuatro adultos, ninguno de los dos es la opción ideal.
+Depende de para qué lo quieras, y aquí no hay empate técnico que valga: **si buscas el coche emocional, el R5** —más barato con ayudas, más autonomía, más encanto—. **Si buscas el coche práctico, el R4** —maletero de 375 L, posibilidad de techo de lona, remolque de 750 kg y mejor visibilidad—. Eso sí: el R4 es más caro de partida y sus plazas traseras son justas, así que si viajas a menudo con cuatro adultos, ni uno ni otro son la mejor idea.
 
-Para enfrentarlos número a número, abre el <a href=/comparador-coches/?a=renault-4-e-tech-precio-autonomia&b=renault-5-e-tech-2026-precio-autonomia>comparador del Renault 4 E-Tech y el Renault 5 E-Tech</a>; los análisis individuales están en el <a href=/blog/renault-4-e-tech-precio-autonomia/>análisis completo del Renault 4 E-Tech</a> y en el <a href=/blog/renault-5-e-tech-2026-precio-autonomia/>análisis completo del Renault 5 E-Tech</a>. Las fichas completas, en la <a href=/coches/renault-4-e-tech-precio-autonomia/>ficha del Renault 4 E-Tech</a> y la <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>ficha del Renault 5 E-Tech</a>. Y si dudas con la autonomía en uso real, prueba la <a href=/calculadora-autonomia-real/>calculadora de autonomía real</a>.
+Míralos cara a cara en nuestro <a href=/comparador-coches/?a=renault-4-e-tech-precio-autonomia&b=renault-5-e-tech-2026-precio-autonomia>comparador del Renault 4 E-Tech y el Renault 5 E-Tech</a>, y lee el <a href=/blog/renault-4-e-tech-precio-autonomia/>análisis completo del Renault 4 E-Tech</a> y el <a href=/blog/renault-5-e-tech-2026-precio-autonomia/>análisis completo del Renault 5 E-Tech</a>. Fichas detalladas en <a href=/coches/renault-4-e-tech-precio-autonomia/>ficha del Renault 4 E-Tech</a> y <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>ficha del Renault 5 E-Tech</a>. Si la autonomía te preocupa, pásate por nuestra <a href=/calculadora-autonomia-real/>calculadora de autonomía real</a>.
 
 Fuentes: <a href=https://www.renault.es>Renault España</a>.
 
-## Vídeo recomendado
+## Míralo en vídeo
 
 <iframe src=https://www.youtube.com/embed/VIFRwUsPhs4 title="Vídeo: Prueba del Renault 4 E-Tech: el R4 vuelve a dar 'la lata'" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=VIFRwUsPhs4>El Periódico de la Energía</a> en YouTube
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿Ambos llevan etiqueta Cero?
-Sí: ambos son 100 % eléctricos y llevan etiqueta Cero de la DGT, así que entran sin restricciones en todas las ZBE.
+### ¿Qué diferencia hay entre el Renault 4 y el Renault 5 eléctricos?
+Comparten plataforma AmpR Small y el 68 % de las piezas, pero el 4 es más alto, más largo (4.144 mm frente a 3.922 mm) y más práctico: más maletero (375 L), techo de lona opcional y remolque de 750 kg. El 5 es más barato con ayudas y tiene más autonomía en su versión grande.
 
-### ¿Qué cambia en tamaño entre uno y otro?
-El 4 mide 4.144 mm de largo, frente a los 3.922 mm del 5, y además es más alto: de ahí su maletero mayor, de 375 L, y su orientación más familiar. Ambos comparten base y un 68 % de piezas, pero el 4 tiene bastidor, suspensiones y reglajes propios.
+### ¿Cuál es más barato?
+El Renault 5 E-Tech: parte de 20.170 € con ayudas (28.085 € de PVP), frente a los 27.954 € del Renault 4 E-Tech Evolution.
 
-### ¿Se puede pedir el 4 con techo abierto?
-Sí, con techo de lona eléctrico en opción por 1.700 €, disponible en toda la gama, un guiño al 4L original descapotable. El 5 no tiene nada parecido.
+### ¿El Renault 4 E-Tech tiene techo descapotable?
+Tiene techo eléctrico de lona opcional (+1.700 € en cualquier versión), un guiño directo al 4L original descapotable. El R5 no ofrece nada parecido.
 
-### ¿Cuál sale más barato?
-El 5: con ayudas arranca en 20.170 €, frente a un PVP de 28.085 €, mientras el 4 parte de 27.954 € en su Evolution.
+### ¿Cuál tiene más autonomía?
+El Renault 5: 430 km WLTP con la batería de 52 kWh, frente a los 397-408 km del Renault 4 con la misma batería. Con la batería de 40 kWh, 315 km el R5 y 308 km el R4.
 
-### ¿Quién llega más lejos con una carga?
-El 5 con la batería de 52 kWh: 430 km WLTP, por 397-408 km del 4 con esa misma batería. Con la de 40 kWh, el 5 homologa 315 km y el 4, 308 km.
+### ¿Los dos tienen etiqueta Cero?
+Sí, los dos son eléctricos puros con etiqueta Cero de la DGT: acceso libre a todas las ZBE.
 
-### ¿De verdad comparten tanto?
-Sí: misma base AmpR Small y un 68 % de piezas comunes, pero el 4 tiene bastidor, suspensiones y reglajes propios, y una puesta a punto distinta.
-
-Y si te llega una sanción y sospechas que puede estar mal puesta, <a href=https://recurretumulta.online/>revísala gratis con nuestra IA</a> sin pagarla todavía.`,
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+`,
   },
   {
-    title: "BYD Atto 2 o Jaecoo 5: cuál conviene comprar en 2026",
+    title: "BYD Atto 2 vs Jaecoo 5 2026",
     slug: "byd-atto-2-vs-jaecoo-5-cual-comprar",
-    excerpt: "Dos SUV chinos por menos de 23.000 €: uno eléctrico desde 18.739 € financiado y otro con gasolina, híbrido y eléctrico. ¿Cuál encaja contigo?",
+    excerpt: "Dos SUV chinos por menos de 23.000 €: el BYD Atto 2 eléctrico desde 18.739 € financiado y el Jaecoo 5 con tres motorizaciones a elegir. Comparamos",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -250,11 +237,11 @@ Y si te llega una sanción y sospechas que puede estar mal puesta, <a href=https
     ],
     content: `<img src=/media/byd-atto-2-vs-jaecoo-5-cual-comprar-hero.webp alt=Comparativa entre el BYD Atto 2 y el Jaecoo 5, dos SUV chinos baratos>
 
-Dos apellidos chinos dominan la conversación entre quienes buscan un SUV compacto sin pasar de los 23.000 €: por un lado, un eléctrico que presume de batería propia; por otro, un todocamino que deja elegir entre gasolina, híbrido y eléctrico. El primero sale desde 18.739 € con financiación; el segundo arranca en 19.990 € también financiado. La diferencia de concepto es mayor que la de precio, y ahí está la clave de la elección.
+El duelo chino del año en el segmento B-SUV: el **BYD Atto 2** eléctrico, desde **18.739 € financiando** con el Plan Auto+, contra el **Jaecoo 5**, que parte de **19.990 € financiado** en gasolina y ofrece tres etiquetas distintas (C, ECO y CERO) según motorización. Los dos rondan los 4,3-4,4 metros, los dos vienen cargados de equipamiento y los dos cuestan lo que un utilitario europeo. Pero juegan en ligas distintas.
 
-<a href=/coches/byd-atto-2-precio-ficha-tecnica/>ver ficha técnica completa del BYD Atto 2</a> · <a href=/coches/jaecoo-5-precio-ficha-tecnica/>ver ficha técnica completa del Jaecoo 5</a>
+Fichas técnicas: <a href=/coches/byd-atto-2-precio-ficha-tecnica/>ver ficha técnica completa del BYD Atto 2</a> · <a href=/coches/jaecoo-5-precio-ficha-tecnica/>ver ficha técnica completa del Jaecoo 5</a>.
 
-## Las cifras, cara a cara
+## Tabla comparativa: BYD Atto 2 vs Jaecoo 5
 
 | Ficha | BYD Atto 2 (eléctrico) | Jaecoo 5 (gasolina base) |
 |---|---|---|
@@ -273,77 +260,74 @@ Dos apellidos chinos dominan la conversación entre quienes buscan un SUV compac
 | **Tracción** | Delantera | No publicada |
 | **Etiqueta DGT** | Cero | C (gasolina) / ECO (híbrido) |
 
-*Ojo: las medidas del Jaecoo 5 son orientativas.*
+*Las dimensiones del Jaecoo 5 son aproximadas.*
 
 <img src=/media/byd-atto-2-jaecoo-5-duelo-cuerpo.webp alt=BYD Atto 2 y Jaecoo 5 en comparativa>
 
-## Primero, el Jaecoo 5: un coche, tres respuestas
+## Análisis: qué ofrece cada uno
 
-La gran baza del Jaecoo está en la gama: el 1.6 TGDI de gasolina se anuncia entre 27.500 y 30.500 € de tarifa y baja hasta 19.990 € con financiación; el híbrido, con 224 CV, se mueve entre 30.000 y 33.000 € y parte de 22.500 € financiado; y el eléctrico, de 211 CV, queda entre 35.500 y 38.500 €. Pasar del gasolina al híbrido supone 2.500 € más de tarifa y, a cambio, 224 CV, distintivo ECO y una autonomía conjunta de más de 900 km: para la mayoría, esa es la variante con más lógica de toda la familia.
+**BYD Atto 2.** Eléctrico puro sobre la plataforma e-Platform 3.0, con la famosa **batería Blade LFP**, bomba de calor de serie y V2L. La gama eléctrica: Active 25.790 €, Boost 27.047 € y Comfort 31.740 €, aunque con la oferta oficial de BYD el Active se queda en **18.739 € financiando** con Plan Auto+. El Comfort carga a 155 kW y llega a 430 km. También existe el **DM-i** (híbrido enchufable): Active 28.200 €, o 20.940 € financiando con Auto+, y fue el PHEV más vendido de España en su primer mes en concesionarios. Garantía de 6 años para el coche y 8 para la batería. Sus pegas: consumo real alto en autopista (20,1 kWh/100 km en prueba), software mejorable y ADAS con avisos muy intrusivos.
 
-Hay guiños que no se ven en rivales de este precio: la primera cabina homologada como apta para mascotas por TÜV Rheinland, una linterna que se extrae del maletero y un modo karaoke para los viajes. El reverso: el gasolina bebe 7,0 l/100 km y luce distintivo C, sus 10,2 s en el 0-100 no impresionan y el maletero baila según la fuente consultada: 410, 442 o 480 L.
+**Jaecoo 5.** La baza es la elección: gasolina 1.6 TGDI (27.500-30.500 € de tarifa, **desde 19.990 € financiado**), **HEV de 224 CV** (30.000-33.000 € de tarifa, **desde 22.500 €**) y EV de 211 CV (35.500-38.500 €). El salto del gasolina al híbrido cuesta solo 2.500 € de tarifa y a cambio obtienes 224 CV, etiqueta ECO y más de 900 km de autonomía total: es la versión con más sentido de la gama. Detalles curiosos: primera "cabina pet-friendly" certificada por TÜV Rheinland, linterna extraíble en el maletero y modo karaoke. Sus pegas: el gasolina gasta 7,0 l/100 km con etiqueta C, las prestaciones son justas (10,2 s) y los datos de maletero varían según la fuente (410/442/480 L).
 
-De serie, ya el acabado de acceso trae 19 ayudas ADAS y 7 airbags.
+## Pros y contras
 
-## Después, el BYD Atto 2: electricidad a precio de utilitario
+**BYD Atto 2:**
+- ✅ Equipamiento de serie muy completo: pantalla giratoria, cámara 360°, techo panorámico
+- ✅ Batería Blade LFP con bomba de calor y V2L de serie
+- ✅ Precios agresivos: desde 18.739 € financiado el Active
+- ✅ Éxito probado: más de 14.000 unidades en 2026
+- ❌ Consumo real alto en autopista: 20,1 kWh/100 km en prueba
+- ❌ Software mejorable: navegación y traducciones por debajo del hardware
+- ❌ Asistentes ADAS con avisos muy intrusivos
 
-El Atto 2 apuesta todo al enchufe. Usa la plataforma e-Platform 3.0, monta la batería Blade LFP, incluye bomba de calor sin suplemento y permite alimentar aparatos externos con su V2L. La tarifa arranca en 25.790 € para el Active, sigue en 27.047 € para el Boost y llega a 31.740 € para el Comfort, pero la oferta oficial deja el Active en 18.739 € financiando con el Plan Auto+. El Comfort, además, admite 155 kW de carga rápida y homologa 430 km.
+**Jaecoo 5:**
+- ✅ Precio rompedor: desde 19.990 € financiado (gasolina) o 22.500 € (híbrido)
+- ✅ Tres motorizaciones (C, ECO y CERO): hay un Jaecoo 5 para cada comprador
+- ✅ El salto a híbrido cuesta solo 2.500 € y aporta 224 CV y etiqueta ECO
+- ✅ Equipamiento generoso: 19 ADAS y 7 airbags desde el acabado base
+- ❌ El gasolina gasta 7,0 l/100 km y lleva etiqueta C
+- ❌ Prestaciones justas del gasolina: 10,2 s en el 0-100
+- ❌ Red de posventa aún en despliegue
 
-También hay un DM-i, el híbrido enchufable: el Active cuesta 28.200 €, o 20.940 € con financiación y Auto+, y en su primer mes en tiendas fue el PHEV más vendido de España. La garantía cubre 6 años el vehículo y 8 la batería. Los puntos flojos: en autopista el consumo real sube a 20,1 kWh/100 km según pruebas, el software deja que desear y los avisos de los asistentes resultan demasiado insistentes.
+## Veredicto: ¿cuál comprar?
 
-## Lo mejor y lo peor de cada uno
+**Compra el BYD Atto 2 si** quieres etiqueta Cero, coste por kilómetro mínimo y no te importa planificar las cargas: es el más barato de los dos en su versión de acceso y el eléctrico más redondo por este precio. **Compra el Jaecoo 5 híbrido si** haces kilómetros variados y no quieres depender de enchufes: por 22.500 € tienes 224 CV, etiqueta ECO y más de 900 km de autonomía total. El Jaecoo 5 gasolina solo tiene sentido si el presupuesto es innegociable y aceptas la etiqueta C.
 
-Del BYD nos quedamos con el equipamiento de serie —pantalla que gira, cámara de 360° y techo panorámico—, con la Blade LFP acompañada de bomba de calor y V2L sin coste añadido, con ese Active desde 18.739 € financiado y con un éxito comercial que supera las 14.000 unidades en 2026.
-
-Del Jaecoo, con su precio de entrada —19.990 € el gasolina y 22.500 € el híbrido—, con una variante para cada tipo de comprador, con el salto al híbrido por solo 2.500 € que suma 224 CV y distintivo ECO, y con 19 ayudas y 7 airbags ya en el acabado de acceso.
-
-En el debe: el BYD gasta más de lo esperado en autovía, su software va por detrás de su hardware y sus asistentes avisan en exceso; el Jaecoo gasolina bebe 7,0 l/100 km con distintivo C, acelera sin brillo y su red de posventa todavía se está desplegando.
-
-## Entonces, ¿con cuál te quedas?
-
-Si buscas distintivo Cero, gastar poco por kilómetro y no te molesta organizar las cargas, el Atto 2 es el acceso más barato de los dos y el eléctrico más completo por este dinero. Si recorres distancias variadas y no quieres vivir pendiente de un enchufe, el Jaecoo 5 híbrido da 224 CV, distintivo ECO y una autonomía conjunta de más de 900 km por 22.500 €. El gasolina solo compensa cuando el presupuesto no admite discusión y se asume el distintivo C.
-
-Puedes enfrentarlos directamente y consultar cada análisis:
-
-<a href=/comparador-coches/?a=byd-atto-2-precio-ficha-tecnica&b=jaecoo-5-precio-ficha-tecnica>comparador del BYD Atto 2 y el Jaecoo 5</a>
-
-<a href=/coches/byd-atto-2-precio-ficha-tecnica/>análisis completo del BYD Atto 2</a> · <a href=/coches/jaecoo-5-precio-ficha-tecnica/>análisis completo del Jaecoo 5</a>
-
-<a href=/coches/byd-atto-2-precio-ficha-tecnica/>ficha del BYD Atto 2</a> · <a href=/coches/jaecoo-5-precio-ficha-tecnica/>ficha del Jaecoo 5</a>
-
-<a href=/guias/zbe/>guía de etiquetas y ZBE</a>
+Enfréntalos en nuestro <a href=/comparador-coches/?a=byd-atto-2-precio-ficha-tecnica&b=jaecoo-5-precio-ficha-tecnica>comparador del BYD Atto 2 y el Jaecoo 5</a>, y lee el <a href=/coches/byd-atto-2-precio-ficha-tecnica/>análisis completo del BYD Atto 2</a> y el <a href=/coches/jaecoo-5-precio-ficha-tecnica/>análisis completo del Jaecoo 5</a>. Fichas en <a href=/coches/byd-atto-2-precio-ficha-tecnica/>ficha del BYD Atto 2</a> y <a href=/coches/jaecoo-5-precio-ficha-tecnica/>ficha del Jaecoo 5</a>. Si dudas entre etiquetas, consulta nuestra <a href=/guias/zbe/>guía de etiquetas y ZBE</a>.
 
 Fuentes: <a href=https://www.byd.com/es>BYD España</a> y <a href=https://www.jaecoo.es>Jaecoo España</a>.
 
-## El duelo, en imágenes
+## Míralo en vídeo
 
 <iframe src=https://www.youtube.com/embed/PGysqWUSeDE title="Vídeo: Prueba Jaecoo 5: ¿es una buena compra?" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-En YouTube, <a href=https://www.youtube.com/watch?v=PGysqWUSeDE>SoyMotor</a> lo prueba a fondo.
+Vídeo: <a href=https://www.youtube.com/watch?v=PGysqWUSeDE>SoyMotor</a> en YouTube
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿Cuál sale más económico de los dos?
-El eléctrico de BYD: 18.739 € financiando con el Plan Auto+, por debajo de los 19.990 € del Jaecoo gasolina con financiación y de los 22.500 € del híbrido.
+### ¿Cuál es más barato, el BYD Atto 2 o el Jaecoo 5?
+El BYD Atto 2 eléctrico: desde 18.739 € financiando con Plan Auto+, frente a los 19.990 € financiado del Jaecoo 5 gasolina y los 22.500 € del híbrido.
 
-### ¿Qué versiones llevan distintivo Cero?
-El eléctrico de BYD y el Jaecoo 5 EV. El gasolina del Jaecoo lleva distintivo C y el híbrido, distintivo ECO.
+### ¿Cuál tiene etiqueta Cero?
+El BYD Atto 2 (eléctrico) y el Jaecoo 5 EV. El Jaecoo 5 gasolina lleva etiqueta C y el híbrido, etiqueta ECO.
 
-### ¿En qué consiste el Atto 2 DM-i?
-Es el híbrido enchufable del Atto 2: el Active parte de 28.200 € (20.940 € con financiación y Auto+). En su primer mes en tiendas fue el PHEV más vendido de España.
+### ¿Qué es el BYD Atto 2 DM-i?
+La versión híbrida enchufable del Atto 2: Active desde 28.200 € (20.940 € financiando con Auto+). Fue el PHEV más vendido de España en su primer mes en concesionarios.
 
-### ¿Compensa el híbrido frente al gasolina en el Jaecoo 5?
-Sí: con 2.500 € más de tarifa pasas de 147 CV a 224 CV, del distintivo C al ECO y a más de 900 km de autonomía conjunta. Para la mayoría es la variante con más lógica.
+### ¿El Jaecoo 5 híbrido merece la pena frente al gasolina?
+Sí: por solo 2.500 € más de tarifa obtienes 224 CV (frente a 147 CV), etiqueta ECO (frente a C) y más de 900 km de autonomía total. Es la versión con más sentido de la gama.
 
-### ¿Son de fiar las baterías Blade?
-Es una de las químicas LFP con más rodaje del mercado, con 8 años de garantía, y admite bien que se cargue al 100 % con frecuencia, algo habitual en una LFP.
+### ¿Son fiables las baterías Blade de BYD?
+La batería Blade LFP de BYD es una de las más probadas del mercado, con garantía de 8 años, y tolera bien las cargas al 100 % habituales en una LFP.
 
-¿Te han puesto una multa? Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+`,
   },
   {
-    title: "G6 contra Model Y: carga, precio y autonomía en 2026",
+    title: "XPeng G6 2026 vs Tesla Model Y",
     slug: "xpeng-g6-vs-tesla-model-y-cual-comprar",
-    excerpt: "Duelo 2026: el G6 recarga del 10 al 80 % en 12 minutos desde 43.083 €; el Model Y Standard, desde 39.990 € con 534 km.",
+    excerpt: "El XPeng G6 2026 carga del 10 al 80 % en 12 minutos y parte de 43.083 €; el Tesla Model Y Standard es más barato y eficiente. Comparamos sin fanatismos",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -360,11 +344,11 @@ Es una de las químicas LFP con más rodaje del mercado, con 8 años de garantí
     ],
     content: `<img src=/media/xpeng-g6-vs-tesla-model-y-cual-comprar-hero.webp alt=Comparativa entre el XPeng G6 2026 y el Tesla Model Y, los dos SUV eléctricos de referencia>
 
-Dos planteamientos opuestos se cruzan en este segmento: por un lado, el G6 renovado para 2026, anunciado desde 43.083 € y capaz de pasar del 10 al 80 % en 12 minutos; por otro, el Model Y, el todocamino eléctrico con más ventas en todo el planeta. Advertencia transparente: el Model Y no figura en nuestro archivo de fichas, de modo que sus cifras proceden únicamente de lo ya difundido en nuestro propio estudio del G6 en versión Standard de tracción trasera, además de afirmaciones generales de sobra conocidas. No añadimos nada inventado.
+Es el duelo que todo el mundo quiere ver: el **XPeng G6 2026** restyling, desde **43.083 €**, con la carga más rápida de su segmento (10-80 % en 12 minutos), contra el **Tesla Model Y**, el SUV eléctrico más vendido del mundo. Nota honesta: el Model Y no está en nuestra base de datos de fichas, así que para él usamos únicamente los datos publicados en nuestro propio análisis del G6 (versión Standard RWD) y afirmaciones generales bien conocidas. Sin inventar nada.
 
 Fichas técnicas: <a href=/coches/xpeng-g6-2026-restyling-precio-espana/>ver ficha técnica completa del XPeng G6</a> · <a href=/coches/tesla-model-y-electrico-precio-ficha-tecnica/>ver ficha técnica completa del Tesla Model Y</a>.
 
-## Cifras frente a frente: G6 2026 y Model Y Standard
+## Tabla comparativa: XPeng G6 2026 vs Tesla Model Y Standard RWD
 
 | Ficha | XPeng G6 2026 (RWD Standard) | Tesla Model Y Standard RWD |
 |---|---|---|
@@ -383,72 +367,73 @@ Fichas técnicas: <a href=/coches/xpeng-g6-2026-restyling-precio-espana/>ver fic
 | **Tracción** | Trasera | Trasera |
 | **Etiqueta DGT** | Cero | Cero |
 
-*Las cifras del Model Y proceden de lo publicado en nuestro estudio del G6, una comparativa de medios.*
+*Los datos del Model Y son los publicados en nuestro análisis del XPeng G6 (comparativa de medios).*
 
 <img src=/media/xpeng-g6-tesla-model-y-duelo-cuerpo.webp alt=XPeng G6 y Tesla Model Y en comparativa>
 
-## Qué aporta cada SUV en la práctica
+## Análisis: qué ofrece cada uno
 
-**XPeng G6 2026.** La oferta se articula en tres acabados con tarifa difundida: el de acceso, RWD Standard Range, arranca en 43.083 € con 252 CV y 455 km; el RWD Long Range sube a 47.083 €, 296 CV y 535 km; y el AWD Performance culmina en 53.083 €, 487 CV y 510 km. Su argumento central es una plataforma eléctrica de 800 voltios que emplea semiconductores de carburo de silicio, combinada con química LFP en cada versión: admite cargas a 5C, entre las más veloces del mercado, y completa el 10-80 % en 12 minutos. A eso suma un maletero de 571 L, que llega a 1.374 L con los respaldos abatidos, la valoración Euro NCAP le concede la máxima nota, cinco estrellas, y un 88 % en la protección de los ocupantes adultos, además del distintivo Cero. En contra juegan que la autonomía ha retrocedido algo frente al modelo previo a causa de la LFP, que su precio de entrada queda por encima del Model Y básico y que la marca todavía tiene poca presencia en España. Como dato curioso, el grupo Volkswagen entró en el capital de XPeng en 2023 con cerca de 700 millones de dólares, operación que le dio el 4,99 %.
+**XPeng G6 2026.** Tres versiones con tarifa publicada: RWD Standard Range desde 43.083 € (252 CV, 455 km), RWD Long Range desde 47.083 € (296 CV, 535 km) y AWD Performance desde 53.083 € (487 CV, 510 km). Su gran baza es la **arquitectura de 800 V con carburo de silicio** y batería LFP en toda la gama: carga a 5C, de lo más rápido del mercado, con el 10-80 % en 12 minutos. Además: maletero de 571 L (1.374 L abatido), 5 estrellas Euro NCAP con un 88 % en protección de adultos y etiqueta Cero. Sus pegas: la autonomía bajó algo respecto al modelo anterior por la LFP, es más caro que el Model Y básico y la marca aún es poco conocida en España. Curiosidad: Volkswagen es accionista de XPeng (invirtió unos 700 millones de dólares por el 4,99 % en 2023).
 
-**Tesla Model Y.** El rival a superar combina un precio de partida más bajo, desde 39.990 € en el Standard, con una eficiencia superior y su propia infraestructura de recarga rápida, amplia y con fama de funcionar siempre. En kilómetros homologados también supera al G6 de acceso, con 534 km contra 455 km. Su punto débil, y por una diferencia grande, está en la velocidad de recarga: 175 kW y cerca de 25 minutos para recuperar del 10 al 80 %, mientras el G6 lo hace en 12 minutos.
+**Tesla Model Y.** El rival a batir: más barato (desde 39.990 € el Standard), más eficiente y con la red de supercargadores propia, la más densa y fiable. En autonomía homologada también gana al G6 de acceso (534 km frente a 455 km). Donde pierde, y por mucho, es en velocidad de carga: 175 kW y unos 25 minutos del 10 al 80 % frente a los 12 minutos del G6.
 
-## Puntos fuertes y puntos débiles
+## Pros y contras
 
 **XPeng G6 2026:**
-- ✅ Recarga ultrarrápida, con el 10-80 % en 12 min: la más veloz de su categoría
-- ✅ Plataforma eléctrica de 800 voltios con semiconductores de carburo de silicio en cada acabado
-- ✅ Química LFP en todas las variantes: más económica, estable y longeva
-- ✅ Maletero de 571 L, que crece a 1.374 L abatido: entre los mejores de su clase
-- ✅ Cinco estrellas Euro NCAP y distintivo CERO
-- ❌ La autonomía ha retrocedido algo frente al modelo previo por la LFP
-- ❌ Precio de entrada en 43.083 €, por encima de los 39.990 € del Model Y Standard
-- ❌ Marca todavía poco conocida, con una red de concesionarios en expansión
+- ✅ Carga ultrarrápida (10-80 % en 12 min): la más rápida de su segmento
+- ✅ Arquitectura de 800 V con carburo de silicio en toda la gama
+- ✅ Batería LFP en todas las versiones: más barata, estable y duradera
+- ✅ Maletero de 571 L (1.374 L abatido), de los mejores del segmento
+- ✅ 5 estrellas Euro NCAP y etiqueta CERO
+- ❌ La autonomía bajó algo respecto al modelo anterior por la LFP
+- ❌ Desde 43.083 €: el Model Y Standard parte de 39.990 €
+- ❌ Marca aún poco conocida; red de concesionarios en crecimiento
 
 **Tesla Model Y:**
-- ✅ Más económico: el Standard RWD arranca en 39.990 €
-- ✅ Mayor eficiencia y más kilómetros homologados, 534 km
-- ✅ Infraestructura de carga propia, la más dependable
-- ✅ Reventa y ecosistema con trayectoria demostrada
-- ❌ Recarga bastante más lenta: 175 kW y cerca de 25 min para el 10 al 80 %
-- ❌ Habitáculo y dotación menos abundantes para su precio
-- ❌ La imagen que proyecta la marca ha cambiado mucho desde hace cinco años
+- ✅ Más barato: desde 39.990 € el Standard RWD
+- ✅ Más eficiente y con más autonomía homologada (534 km)
+- ✅ Red de supercargadores propia, la más fiable
+- ✅ Valor de reventa y ecosistema probados
+- ❌ Carga mucho más lenta: 175 kW y ~25 min del 10 al 80 %
+- ❌ Interior y equipamiento menos generosos por precio
+- ❌ La imagen de marca ya no es la de hace cinco años
 
-## Decisión final: ¿con cuál te quedas?
+## Veredicto: ¿cuál comprar?
 
-La respuesta sincera es que todo gira en torno a tu forma de viajar: si recorres mucha autovía y detestas aguardar junto a un cargador, los 12 minutos del G6 suponen un cambio radical. Si, en cambio, das prioridad al desembolso inicial, a la eficiencia, a los kilómetros homologados y a una red de carga que funciona sin aplicaciones ni sobresaltos, el Model Y continúa siendo la opción sensata. Ninguno de los dos supone una mala elección; representan dos maneras distintas de entender el mismo segmento.
+Aquí el veredicto honesto es un **"depende de cómo viajes"**: si haces mucha autovía y odias esperar en los cargadores, el G6 te cambia la vida con sus 12 minutos. Si priorizas precio de compra, eficiencia, autonomía homologada y una red de carga que funciona sin apps ni sustos, el Model Y sigue siendo la compra racional. Ninguno de los dos es una mala compra; son dos filosofías distintas del mismo segmento.
 
-Consulta el duelo técnico en nuestro <a href=/comparador-coches/?a=xpeng-g6-2026-restyling-precio-espana>comparador (ficha del XPeng G6)</a>, revisa también el <a href=/blog/xpeng-g6-2026-restyling-precio-espana/>análisis completo del XPeng G6 2026</a> y la <a href=/coches/xpeng-g6-2026-restyling-precio-espana/>ficha detallada</a>. Si te preocupa la autonomía, abre nuestra <a href=/calculadora-autonomia-real/>calculadora de autonomía real</a>. Para contrastar datos externos, tienes las fichas de <a href=https://www.km77.com>km77</a>.
+Tienes el duelo técnico en nuestro <a href=/comparador-coches/?a=xpeng-g6-2026-restyling-precio-espana>comparador (ficha del XPeng G6)</a> y el <a href=/blog/xpeng-g6-2026-restyling-precio-espana/>análisis completo del XPeng G6 2026</a>, además de su <a href=/coches/xpeng-g6-2026-restyling-precio-espana/>ficha detallada</a>. Si la autonomía te preocupa, prueba nuestra <a href=/calculadora-autonomia-real/>calculadora de autonomía real</a>. Como referencia externa, puedes consultar las fichas técnicas de <a href=https://www.km77.com>km77</a>.
 
-## El duelo, en vídeo
+## Míralo en vídeo
 
 <iframe src=https://www.youtube.com/embed/ddQMfQgWVH4 title="Vídeo: Prueba XPeng G6: ¿el mejor SUV eléctrico calidad-precio?" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=ddQMfQgWVH4>ElecTrips</a> en YouTube
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿Qué modelo recupera batería antes en un viaje?
-El G6, sin debate: necesita solo 12 minutos para el 10-80 %, gracias a su sistema de 800 V; el Model Y, en cambio, ronda los 25 minutos con 175 kW.
+### ¿Cuál carga más rápido, el XPeng G6 o el Tesla Model Y?
+El XPeng G6, sin discusión: 10-80 % en 12 minutos gracias a su arquitectura de 800 V, frente a unos 25 minutos del Model Y (175 kW).
 
-### ¿Qué SUV sale más económico de entrada?
-El Model Y Standard RWD, que arranca en 39.990 €, por debajo de los 43.083 € del G6 RWD Standard Range.
+### ¿Cuál es más barato?
+El Tesla Model Y Standard RWD, desde 39.990 €, frente a los 43.083 € del XPeng G6 RWD Standard Range.
 
-### ¿Qué modelo homologa más kilómetros?
-El Model Y Standard declara 534 km WLTP, más que los 455 km que declara el G6 de acceso; el G6 Long Range, por su parte, llega a 535 km y cuesta 47.083 €.
+### ¿Cuál tiene más autonomía?
+El Model Y Standard homologa 534 km WLTP, frente a los 455 km del G6 de acceso. El G6 Long Range sube a 535 km por 47.083 €.
 
-### ¿De qué química es la batería del G6 2026?
-De litio-ferrofosfato, LFP, en cada una de sus variantes; en el acceso, de 68,5 kWh. Es de los primeros eléctricos con LFP que admiten carga a 5C.
+### ¿Qué batería lleva el XPeng G6 2026?
+Batería de litio-ferrofosfato (LFP) en todas las versiones, de 68,5 kWh en el acceso. Es de los primeros eléctricos con LFP capaz de cargar a 5C.
 
-### ¿Compensa elegir el G6 antes que el Model Y?
-Cuando viajas con frecuencia y la recarga ultrarrápida pesa mucho en tu decisión, sí: ahí reside su gran ventaja diferencial. Cuando mandan el precio más bajo, la eficiencia superior y la red de carga propia, el Model Y va por delante.
+### ¿Merece la pena el XPeng G6 frente al Model Y?
+Si viajas mucho y valoras la carga ultrarrápida, sí: es su gran ventaja diferencial. Si buscas el precio más bajo, la mayor eficiencia y la red de supercargadores, el Model Y sigue por delante.
 
-Si recibes una sanción y dudas de que esté bien puesta, revísala sin coste con nuestra herramienta antes de abonarla: <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a>.`,
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+`,
   },
   {
-    title: "Leapmotor B10 o BYD Atto 2: potencia frente a chollo",
+    title: "Leapmotor B10 vs BYD Atto 2 2026",
     slug: "leapmotor-b10-vs-byd-atto-2-cual-comprar",
-    excerpt: "El B10 ofrece 218 CV, 361 km y carga de 140 kW desde 27.000 €; el Atto 2 baja a 18.739 € financiado. Dos SUV eléctricos chinos, dos formas de gastar.",
+    excerpt: "El Leapmotor B10 parte de 27.000 € con 218 CV y tracción trasera; el BYD Atto 2 baja a 18.739 € financiado. Dos SUV eléctricos chinos, dos precios y",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -465,11 +450,11 @@ Si recibes una sanción y dudas de que esté bien puesta, revísala sin coste co
     ],
     content: `<img src=/media/leapmotor-b10-vs-byd-atto-2-cual-comprar-hero.webp alt=Comparativa entre el Leapmotor B10 y el BYD Atto 2, dos SUV eléctricos chinos>
 
-Unos ocho mil euros separan en España a estos dos SUV eléctricos de origen chino, y esa brecha lo cambia todo: uno juega a ser el chollo absoluto con etiqueta Cero; el otro pide algo más a cambio de más potencia, más autonomía y una carga mucho más rápida. Los dos presumen de precio rompedor, pero no compiten exactamente por el mismo comprador.
+Duelo 100 % eléctrico y 100 % chino entre los dos SUV que están rompiendo el mercado por precio: el **Leapmotor B10**, desde **27.000 €** con 218 CV y tracción trasera, contra el **BYD Atto 2**, desde **18.739 € financiando** con el Plan Auto+. Uno apuesta por la potencia y la tecnología; el otro, por el precio más bajo con etiqueta Cero.
 
 Fichas técnicas: <a href=/coches/leapmotor-b10-electrico-precio-espana/>ver ficha técnica completa del Leapmotor B10</a> · <a href=/coches/byd-atto-2-precio-ficha-tecnica/>ver ficha técnica completa del BYD Atto 2</a>.
 
-## Comparativa rápida
+## Tabla comparativa: Leapmotor B10 vs BYD Atto 2
 
 | Ficha | Leapmotor B10 | BYD Atto 2 |
 |---|---|---|
@@ -491,29 +476,41 @@ Fichas técnicas: <a href=/coches/leapmotor-b10-electrico-precio-espana/>ver fic
 
 <img src=/media/leapmotor-b10-byd-atto-2-duelo-cuerpo.webp alt=Leapmotor B10 y BYD Atto 2 en comparativa>
 
-## El Atto 2: el precio manda
+## Análisis: qué ofrece cada uno
 
-El BYD Atto 2 arranca en 25.790 € en su versión Active, y financiando con el Plan Auto+ se queda en 18.739 € según la oferta oficial: la cifra más baja de este duelo con diferencia. A cambio, el equipo es más modesto: 177 CV, acumulador de 45,1 kWh, 312 km WLTP y una carga en corriente continua de apenas 65 kW en los acabados de acceso. Lo que sorprende es lo que trae sin pagar extra: pantalla giratoria de 12,8 pulgadas, cámara de 360 grados, techo panorámico, acumulador Blade LFP, bomba de calor y V2L incluidos. BYD, además, llega con el respaldo de más de catorce mil unidades matriculadas en España durante 2026. Quien quiera más, tiene el Comfort por 31.740 €, que sube la carga a 155 kW y la autonomía a 430 km. Sus puntos flojos: el gasto real en autopista se dispara —20,1 kWh/100 km en prueba— y el software, con navegación y traducciones, queda por debajo del hardware.
+**Leapmotor B10.** La gran baza es la relación precio/producto: 218 CV, tracción trasera (rarísima en su rango de precio), pantalla de 14,6" con LEAP OS 4.0 y carga rápida de 140/168 kW con batería LFP. La gama: Life Pro (56,2 kWh) por 27.000 € con descuento oficial, Life ProMax y Design ProMax (67,1 kWh) por 31.900 € y 33.400 €, y versiones REEV de autonomía extendida por 27.900 € y 31.400 €. El dato que lo hace especial en España: **se fabricará en Zaragoza desde octubre de 2026**, será el primer eléctrico chino fabricado en España para toda Europa (40.000 unidades/año). Stellantis posee el 20 % de Leapmotor y colaboró en la puesta a punto del chasis. Sus pegas: maletero de 430 L justo para sus 4,52 m, la curva de carga cae con fuerza a partir del 90 % y la marca llegó en octubre de 2024.
 
-## El B10: más coche por más dinero
+**BYD Atto 2.** El más barato de los dos por goleada: Active desde 25.790 €, o **18.739 € financiando** con Plan Auto+ (oferta oficial). A cambio ofrece menos potencia (177 CV), menos batería (45,1 kWh), menos autonomía (312 km) y carga DC de solo 65 kW en las versiones básicas. Donde brilla: equipamiento de serie completísimo (pantalla giratoria de 12,8", cámara 360°, techo panorámico), batería Blade LFP con bomba de calor y V2L de serie, y una marca con más de 14.000 unidades vendidas en 2026 en España. El Comfort (31.740 €) sube a 155 kW de carga y 430 km. Sus pegas: consumo real alto en autopista y software mejorable.
 
-El Leapmotor B10 parte de 27.000 € en su Life Pro con 56,2 kWh, y ahí ya ofrece 218 CV, propulsión trasera —muy poco habitual en este rango de precios—, pantalla de 14,6 pulgadas con el sistema LEAP OS 4.0 y recarga rápida de 140/168 kW sobre batería LFP. Por encima quedan el Life ProMax y el Design ProMax, ambos con batería de 67,1 kWh, a 31.900 € uno y 33.400 € el otro, además de las variantes REEV de rango extendido, a 27.900 € y 31.400 €. Hay un dato con peso para España: Zaragoza acogerá su montaje a partir de octubre de 2026, lo que lo convertirá en el primer eléctrico de marca china ensamblado en España para todo el continente europeo, con 40.000 unidades al año previstas. Stellantis tiene un 20 % de Leapmotor y participó en el ajuste del chasis. Sus pegas: el maletero de 430 L se queda corto para sus 4,52 m, la potencia de carga baja mucho al superar el 90 % y la firma aterrizó en octubre de 2024, con red y valor residual aún en construcción.
+## Pros y contras
 
-## Puntos fuertes y puntos débiles
+**Leapmotor B10:**
+- ✅ 218 CV y 361 km WLTP desde 27.000 €: relación precio/producto rompedora
+- ✅ Carga rápida de 140/168 kW con batería LFP: excelente por este precio
+- ✅ Tracción trasera, rara en el segmento
+- ✅ Se fabricará en Zaragoza desde octubre de 2026 + etiqueta CERO
+- ❌ Maletero de 430 L, justo para un SUV de 4,52 m
+- ❌ La curva de carga cae con fuerza a partir del 90 %
+- ❌ Marca recién llegada (octubre 2024): red y valor residual en despliegue
 
-Del B10 convence su relación entre precio y producto: 218 CV con 361 km WLTP desde 27.000 €, una recarga rápida de 140/168 kW sobre batería LFP que brilla en este precio, la propulsión trasera —rara en el segmento— y la fabricación futura en Zaragoza desde octubre de 2026, con etiqueta CERO. En contra: el maletero de 430 L se queda corto para un SUV de 4,52 m; y la marca, llegada en octubre de 2024, todavía despliega red y valor residual, mientras la potencia en carga se desploma al pasar del 90 %.
+**BYD Atto 2:**
+- ✅ Equipamiento de serie muy completo: pantalla giratoria, cámara 360°, techo panorámico
+- ✅ Batería Blade LFP con bomba de calor y V2L de serie
+- ✅ Precios agresivos: desde 18.739 € financiado el Active
+- ✅ Éxito probado: más de 14.000 unidades en 2026
+- ❌ Consumo real alto en autopista: 20,1 kWh/100 km en prueba
+- ❌ Software mejorable: navegación y traducciones por debajo del hardware
+- ❌ Las versiones básicas solo cargan a 65 kW en DC
 
-Del Atto 2 convence su dotación de serie: pantalla giratoria, cámara de 360 grados y techo panorámico; el acumulador Blade LFP, la bomba de calor y el V2L incluidos; unos precios agresivos que arrancan en 18.739 € financiado para el Active; y un éxito ya probado, con más de catorce mil unidades en 2026. En contra: el gasto real en autopista es alto, 20,1 kWh/100 km en prueba; el software resulta mejorable, con navegación y traducciones por debajo del hardware; y las versiones básicas solo admiten 65 kW en corriente continua.
+## Veredicto: ¿cuál comprar?
 
-## Veredicto: ¿cuál te conviene?
+**Compra el BYD Atto 2 si** el presupuesto es lo primero: por unos 8.000 € menos tienes un eléctrico honesto, bien equipado y con etiqueta Cero, perfecto como segundo coche o para uso urbano. **Compra el Leapmotor B10 si** puedes estirarte: ganas 41 CV, 49 km de autonomía, carga el doble de rápida (140 kW frente a 65 kW), tracción trasera y un coche 20 cm más largo. El B10 es más coche; el Atto 2 es mejor chollo.
 
-Si el dinero manda, el Atto 2 es la respuesta: por unos ocho mil euros menos te llevas un eléctrico honesto, bien dotado y con etiqueta Cero, ideal como segundo coche o para moverte por ciudad. Si puedes estirar el presupuesto, el B10 devuelve con creces la diferencia: 41 caballos más, 49 kilómetros extra de autonomía, una carga que más que duplica la del BYD básico (140 kW frente a 65 kW), propulsión trasera y un coche 20 centímetros más largo. En resumen: el B10 ofrece más coche; el Atto 2, mejor relación con el bolsillo.
-
-Enfréntalos lado a lado en nuestro <a href=/comparador-coches/?a=leapmotor-b10-electrico-precio-espana&b=byd-atto-2-precio-ficha-tecnica>comparador del Leapmotor B10 y el BYD Atto 2</a>, y lee el <a href=/blog/leapmotor-b10-electrico-precio-espana/>análisis completo del Leapmotor B10</a> y el <a href=/coches/byd-atto-2-precio-ficha-tecnica/>análisis completo del BYD Atto 2</a>. Tienes las fichas en <a href=/coches/leapmotor-b10-electrico-precio-espana/>ficha del Leapmotor B10</a> y <a href=/coches/byd-atto-2-precio-ficha-tecnica/>ficha del BYD Atto 2</a>. Y si la autonomía en viaje te preocupa, prueba nuestra <a href=/calculadora-autonomia-real/>calculadora de autonomía real</a>.
+Compáralos en nuestro <a href=/comparador-coches/?a=leapmotor-b10-electrico-precio-espana&b=byd-atto-2-precio-ficha-tecnica>comparador del Leapmotor B10 y el BYD Atto 2</a>, y lee el <a href=/blog/leapmotor-b10-electrico-precio-espana/>análisis completo del Leapmotor B10</a> y el <a href=/coches/byd-atto-2-precio-ficha-tecnica/>análisis completo del BYD Atto 2</a>. Fichas en <a href=/coches/leapmotor-b10-electrico-precio-espana/>ficha del Leapmotor B10</a> y <a href=/coches/byd-atto-2-precio-ficha-tecnica/>ficha del BYD Atto 2</a>. Si te preocupa la autonomía en viaje, usa nuestra <a href=/calculadora-autonomia-real/>calculadora de autonomía real</a>.
 
 Fuentes: <a href=https://www.leapmotor.net>Leapmotor</a> y <a href=https://www.byd.com/es>BYD España</a>.
 
-## El duelo en vídeo
+## Míralo en vídeo
 
 <iframe src=https://www.youtube.com/embed/NyyL6J9vPeo title="Vídeo: Probamos el Leapmotor B10" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
@@ -521,32 +518,28 @@ Vídeo: <a href=https://www.youtube.com/watch?v=NyyL6J9vPeo>SoyMotor</a> en YouT
 
 ## Preguntas frecuentes
 
-### ¿Qué modelo sale más económico al financiar?
+### ¿Cuál es más barato, el Leapmotor B10 o el BYD Atto 2?
+El BYD Atto 2: desde 18.739 € financiando con Plan Auto+, frente a los 27.000 € del Leapmotor B10 Life Pro.
 
-El Atto 2: se queda en 18.739 € con financiación y Plan Auto+, mientras el B10 Life Pro arranca en 27.000 €.
+### ¿Cuál tiene más autonomía?
+El Leapmotor B10: 361 km WLTP, frente a los 312 km del BYD Atto 2 (el Comfort llega a 430 km, pero cuesta 31.740 €).
 
-### ¿Cuál recorre más kilómetros con una carga?
+### ¿El Leapmotor B10 es de Stellantis?
+Stellantis posee el 20 % de Leapmotor y controla el 51 % de Leapmotor International, que vende la marca fuera de China. Además colaboró en la puesta a punto del chasis del B10.
 
-El B10: homologa 361 km WLTP, por 312 km del Atto 2. Eso sí, el Comfort del BYD alcanza 430 km, aunque cuesta 31.740 €.
+### ¿Dónde se fabrica el Leapmotor B10?
+Se fabricará en Zaragoza desde octubre de 2026: será el primer eléctrico chino fabricado en España para toda Europa.
 
-### ¿Qué papel juega Stellantis en Leapmotor?
+### ¿Cuál carga más rápido?
+El Leapmotor B10: 140/168 kW en DC, frente a los 65 kW de las versiones básicas del BYD Atto 2 (el Comfort carga a 155 kW).
 
-Stellantis posee una quinta parte de Leapmotor y más de la mitad de Leapmotor International, la sociedad que comercializa la marca fuera de China. También intervino en el ajuste del chasis del B10.
-
-### ¿En qué planta española se montará el B10?
-
-En Zaragoza, a partir de octubre de 2026: será el primer eléctrico de marca china ensamblado en España para toda Europa.
-
-### ¿Cuál recupera carga antes en un poste rápido?
-
-El B10: 140/168 kW en continua, mientras las versiones básicas del Atto 2 se quedan en 65 kW. El Comfort del BYD sube a 155 kW.
-
-¿Dudas con una sanción de tráfico? <a href=https://recurretumulta.online/>Revisa aquí si tu sanción admite recurso sin coste</a>.`,
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+`,
   },
   {
-    title: "Alpine A390 frente a Skoda Peaq: ¿cuál elegir?",
+    title: "Alpine A390 vs Skoda Peaq 2026",
     slug: "alpine-a390-vs-skoda-peaq-cual-comprar",
-    excerpt: "Un fastback deportivo francés de 400 CV frente a un SUV checo de 7 plazas: precio, autonomía y maletero cara a cara para elegir entre capricho y razón.",
+    excerpt: "El Alpine A390 (400 CV, 555 km, desde 67.500 €) y el Skoda Peaq (286 CV, 646 km, desde 54.550 €) no son rivales directos... pero muchos dudan entre",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -563,11 +556,11 @@ El B10: 140/168 kW en continua, mientras las versiones básicas del Atto 2 se qu
     ],
     content: `<img src=/media/alpine-a390-vs-skoda-peaq-cual-comprar-hero.webp alt=Comparativa entre el Alpine A390 y el Skoda Peaq, deportividad francesa frente a practicidad checa>
 
-Poner frente a frente al A390 y al Peaq parece, de entrada, un ejercicio forzado. El primero es un fastback deportivo francés con 400 CV y un precio de partida de 67.500 €; el segundo, un SUV familiar checo con 7 plazas desde 54.550 €. No pelean por el mismo cliente... y, sin embargo, esa es justo la encrucijada de quien dispone de unos 60.000 €: ¿apostar por el capricho o por la razón? Aquí van los números, sin rodeos.
+Este duelo es deliberadamente injusto: el **Alpine A390** es un fastback deportivo francés de 400 CV desde **67.500 €**; el **Skoda Peaq** es un SUV familiar checo de 7 plazas desde **54.550 €**. No compiten entre sí... pero es exactamente la duda que tienen muchos compradores con 60.000 € en el bolsillo: ¿capricho o razón? Vamos a poner los números sobre la mesa.
 
 Fichas técnicas: <a href=/coches/alpine-a390-precio-ficha-tecnica/>ver ficha técnica completa del Alpine A390</a> · <a href=/coches/skoda-peaq-suv-electrico-7-plazas-precio/>ver ficha técnica completa del Skoda Peaq</a>.
 
-## Comparativa en cifras: A390 y Peaq
+## Tabla comparativa: Alpine A390 vs Skoda Peaq
 
 | Ficha | Alpine A390 (GT) | Skoda Peaq (90) |
 |---|---|---|
@@ -591,74 +584,70 @@ Fichas técnicas: <a href=/coches/alpine-a390-precio-ficha-tecnica/>ver ficha t�
 
 <img src=/media/alpine-a390-skoda-peaq-duelo-cuerpo.webp alt=Alpine A390 y Skoda Peaq en comparativa>
 
-## Qué aporta cada modelo
+## Análisis: qué ofrece cada uno
 
-El A390 es el Alpine más versátil que ha salido de Dieppe: mide 4,61 m, tiene cinco puertas y cinco plazas, y ofrece 532 L de maletero, sin perder el carácter de la marca. Monta tres motores —uno en el eje delantero y dos en el trasero— con Alpine Active Torque Vectoring, acelera de 0 a 100 en 4,8 s y reparte el peso casi a partes iguales, 49/51. Su batería útil de 89 kWh la produce Verkor en Francia, y el coche entero se fabrica allí. El GT, con 400 CV, parte de 67.500 €; el GTS, con 470 CV y 824 Nm, lo hará desde 78.000 € y con un 0 a 100 de 3,9 s, previsto a lo largo de 2026. Entre sus guiños: un volante con inspiración de Fórmula 1 y botón de impulso similar al DRS, además de carga bidireccional con V2L de serie. En contra juegan el precio, una red de Alpine Stores todavía escasa en España y rivales alemanes que recorren más kilómetros con una carga.
+**Alpine A390.** El Alpine más práctico jamás creado (4,61 m, cinco puertas, cinco plazas, 532 L de maletero) sin renunciar al ADN de Dieppe: tres motores (uno delante, dos detrás) con **Alpine Active Torque Vectoring**, 0-100 en 4,8 s y reparto de pesos 49/51. La batería de 89 kWh útiles la desarrolla Verkor en Francia; todo el coche es "made in France". La gama: GT de 400 CV por 67.500 € y **GTS de 470 CV y 824 Nm** (0-100 en 3,9 s) desde 78.000 €, que llegará a lo largo de 2026. Curiosidades: volante inspirado en la F1 con botón boost como el DRS, y carga bidireccional con V2L de serie. Sus pegas: el precio, la red de Alpine Stores limitada en España y rivales alemanes con más autonomía.
 
-El Peaq es el buque insignia eléctrico de Skoda y, con 4,87 m, el coche más grande que ha fabricado jamás la marca. Homologa 646 km de autonomía y presume de haber recorrido 936 km en una prueba real sin recargar, además de un maletero de 935 L y siete plazas reales. En España solo se comercializan las versiones más potentes: el Peaq 90, de 286 CV y tracción trasera, desde 54.550 €, y el Peaq 90x, de 299 CV y tracción total; la variante más equipada, con siete plazas y acabado Sportline, alcanza los 62.450 €. Suma detalles 'Simply Clever', una pantalla vertical de 13,6 pulgadas y un consumo contenido de 15 kWh/100 km. Sus puntos débiles: entre 2,3 y 2,4 toneladas que se dejan notar en carreteras con curvas, una tercera fila algo justa para adultos altos y un diseño que cumple sin entusiasmar.
+**Skoda Peaq.** El buque insignia eléctrico de Skoda: 4,87 m (el coche más grande fabricado jamás por la marca), **646 km de autonomía** —con récord real de 936 km con una sola carga—, maletero de 935 L y 7 plazas de verdad. En España solo llegan las versiones potentes: Peaq 90 (286 CV, tracción trasera) desde 54.550 € y Peaq 90x (299 CV, tracción total); el tope de gama con 7 plazas y acabado Sportline sube a 62.450 €. Detalles "Simply Clever", pantalla vertical de 13,6" y consumo ajustado de 15 kWh/100 km. Sus pegas: 2,3-2,4 toneladas que se notan en carreteras reviradas, tercera fila justa para adultos altos y un diseño correcto pero sin chispa.
 
-## Puntos fuertes y débiles
+## Pros y contras
 
 **Alpine A390:**
-- Prestaciones de deportivo puro en la GTS: 470 CV y un 0 a 100 de 3,9 s.
-- La tracción con tres motores y reparto vectorial del par le da una agilidad cercana a la de un A110.
-- Autonomía de hasta 555 km, una cifra sobresaliente entre deportivos eléctricos.
-- Fabricación íntegra en Francia.
-- El precio de acceso, 67.500 €, lo aleja de ser un capricho económico.
-- Red de Alpine Stores todavía reducida en España.
-- Sin maletero delantero y con un maletero trasero correcto, sin alardes.
+- ✅ 470 CV y 0-100 en 3,9 s en la GTS: prestaciones de deportivo puro
+- ✅ Tres motores con reparto vectorial del par: agilidad digna de un A110
+- ✅ Hasta 555 km de autonomía, de lo mejor entre los deportivos eléctricos
+- ✅ Fabricado íntegramente en Francia
+- ❌ 67.500 € de partida: no es un capricho barato
+- ❌ Red de Alpine Stores limitada en España
+- ❌ Sin frunk y con un maletero correcto pero sin alardes
 
 **Skoda Peaq:**
-- Autonomía de 646 km: de las mejores cifras del segmento.
-- Siete plazas reales, sin rival directo en el grupo VW a este precio.
-- Maletero de 935 L, el mayor de su categoría.
-- Carga en continua de 200 kW y consumo contenido (15 kWh/100 km).
-- Entre 2,3 y 2,4 toneladas: en carreteras con curvas se nota el peso.
-- Tercera fila algo justa para adultos altos, mejor para niños.
-- Precio superior al de un Tesla Model Y equivalente.
+- ✅ 646 km de autonomía: de las mejores del segmento
+- ✅ 7 plazas de verdad, sin rival directo en el grupo VW por este precio
+- ✅ Maletero de 935 L, el más grande de su categoría
+- ✅ Carga rápida de 200 kW y consumo ajustado (15 kWh/100 km)
+- ❌ 2,3-2,4 toneladas: en carreteras reviradas se nota el peso
+- ❌ La tercera fila es justa para adultos altos; pensada para niños
+- ❌ Más caro que un Tesla Model Y equivalente
 
-## Veredicto: ¿cuál conviene?
+## Veredicto: ¿cuál comprar?
 
-Seamos claros: si necesitas siete plazas, no hay debate posible: el Peaq. Y si lo que buscas son sensaciones al volante, el Peaq no te las dará: ahí el A390 está en otra liga. El detalle que lo cambia todo es el precio. El Peaq más equipado cuesta 62.450 €. Esa cifra queda casi a la altura del A390 básico, que parte de 67.500 €. Por tanto, la cuestión real es otra: ¿prefieres el coche familiar eléctrico más completo por ese dinero, o el deportivo eléctrico que más emociona? No existe una respuesta incorrecta; solo hay que ser sincero con uno mismo sobre el uso que se le dará.
+Seamos honestos: **si necesitas 7 plazas, no hay duelo: el Peaq**. Y si buscas emociones al volante, el Peaq no te las va a dar: ahí el A390 juega en otra liga. El matiz interesante es el precio: el Peaq tope de gama (62.450 €) cuesta casi lo mismo que el A390 de acceso (67.500 €). Así que la pregunta real es: ¿quieres el mejor coche familiar eléctrico por ese dinero, o el deportivo eléctrico más emocionante? No hay respuesta incorrecta; solo hay que ser honesto con uno mismo sobre el uso que le vas a dar.
 
-Puedes enfrentarlos en nuestro <a href=/comparador-coches/?a=alpine-a390-precio-ficha-tecnica&b=skoda-peaq-suv-electrico-7-plazas-precio>comparador del Alpine A390 y el Skoda Peaq</a>, consultar el <a href=/coches/alpine-a390-precio-ficha-tecnica/>análisis completo del Alpine A390</a> y el <a href=/blog/skoda-peaq-suv-electrico-7-plazas-precio/>análisis completo del Skoda Peaq</a>, revisar la <a href=/coches/alpine-a390-precio-ficha-tecnica/>ficha del Alpine A390</a> y la <a href=/coches/skoda-peaq-suv-electrico-7-plazas-precio/>ficha del Skoda Peaq</a>, y resolver dudas de autonomía con nuestra <a href=/calculadora-autonomia-real/>calculadora de autonomía real</a>.
+Míralos en nuestro <a href=/comparador-coches/?a=alpine-a390-precio-ficha-tecnica&b=skoda-peaq-suv-electrico-7-plazas-precio>comparador del Alpine A390 y el Skoda Peaq</a>, y lee el <a href=/coches/alpine-a390-precio-ficha-tecnica/>análisis completo del Alpine A390</a> y el <a href=/blog/skoda-peaq-suv-electrico-7-plazas-precio/>análisis completo del Skoda Peaq</a>. Fichas en <a href=/coches/alpine-a390-precio-ficha-tecnica/>ficha del Alpine A390</a> y <a href=/coches/skoda-peaq-suv-electrico-7-plazas-precio/>ficha del Skoda Peaq</a>. Para dudas de autonomía en viaje, nuestra <a href=/calculadora-autonomia-real/>calculadora de autonomía real</a>.
 
 Fuentes: <a href=https://www.alpinecars.com>Alpine</a> y <a href=https://www.skoda.es>Skoda España</a>.
 
-## Vídeo de la prueba
+## Míralo en vídeo
 
 <iframe src=https://www.youtube.com/embed/ZL1HImc92a8 title="Vídeo: Prueba del Alpine A390: a la caza del Porsche Macan" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=ZL1HImc92a8>Diariomotor</a> en YouTube
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿Cuál sale más barato de los dos?
+### ¿Cuál es más barato, el Alpine A390 o el Skoda Peaq?
+El Skoda Peaq: desde 54.550 €, frente a los 67.500 € del Alpine A390 GT. El Peaq tope de gama (62.450 €) se acerca al precio del A390 de acceso.
 
-El Skoda Peaq: su precio de partida es 54.550 €, mientras el A390 GT arranca en 67.500 €. El Peaq más equipado (62.450 €) se aproxima al A390 básico.
+### ¿El Skoda Peaq tiene 7 plazas de verdad?
+Sí, con tercera fila utilizable, aunque justa para adultos altos: está pensada sobre todo para niños. El A390 es estrictamente de 5 plazas.
 
-### ¿De verdad caben siete personas en el Peaq?
+### ¿Cuál tiene más autonomía?
+El Skoda Peaq: 646 km WLTP (con récord real de 936 km con una sola carga), frente a los 555 km del Alpine A390.
 
-Sí, aunque la tercera fila queda algo justa para adultos altos y resulta más adecuada para niños. El A390, en cambio, es estrictamente de cinco plazas.
+### ¿Cuántos motores tiene el Alpine A390?
+Tres: uno delantero y dos traseros, con sistema Alpine Active Torque Vectoring que reparte el par rueda a rueda.
 
-### ¿Quién recorre más kilómetros con una carga?
+### ¿El Alpine A390 es un SUV?
+No: es un fastback deportivo de 4,61 m con cinco puertas. El Peaq sí es un SUV grande (4,87 m).
 
-El Skoda Peaq, con 646 km WLTP, supera los 555 km del Alpine A390. En una prueba real, el Peaq llegó a 936 km sin recargar.
-
-### ¿Cuántos motores monta el A390?
-
-Tres: uno en el eje delantero y dos en el trasero, con reparto vectorial del par rueda a rueda gracias al sistema de Alpine.
-
-### ¿El A390 se puede considerar un SUV?
-
-No: el A390 es un fastback deportivo con cinco puertas y 4,61 m de largo. El Peaq sí entra en la categoría de SUV grande, con 4,87 m.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+`,
   },
   {
-    title: "Peugeot E-5008 o Skoda Peaq: ¿cuál conviene a tu familia?",
+    title: "Peugeot E-5008 vs Skoda Peaq 2026",
     slug: "peugeot-e-5008-vs-skoda-peaq-cual-comprar",
-    excerpt: "Siete plazas, electricidad y unos 10.000 € de separación inicial: comparamos autonomía, maletero, carga y prestaciones del E-5008 y el Peaq.",
+    excerpt: "Los dos SUV eléctricos de 7 plazas que se disputan a las familias: el Peugeot E-5008 desde 44.380 € y el Skoda Peaq desde 54.550 €. Comparamos",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -675,11 +664,11 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     content: `<img src=/media/peugeot-e-5008-vs-skoda-peaq-cual-comprar-hero.webp alt=Comparativa entre el Peugeot E-5008 y el Skoda Peaq, los dos SUV eléctricos de 7 plazas>
 
-Dos familiares eléctricos, siete asientos y un abismo en la tarifa inicial: el francés arranca en 44.380 € y el checo en 54.550 €. Ambos superan los cuatro metros ochenta de longitud, ambos prometen recorridos largos sin enchufar y ambos se venden como solución única para una familia numerosa. La pregunta, por tanto, no es si sirven, sino cuál encaja mejor con tu bolsillo, tu garaje y tus viajes habituales. Aquí los ponemos cara a cara, dato a dato, sin medias tintas.
+El duelo familiar del año: **Peugeot E-5008** eléctrico desde **44.380 €** contra **Skoda Peaq** desde **54.550 €**. Los dos son SUV eléctricos con 7 plazas, los dos rondan los 4,8 metros y los dos presumen de autonomía. Pero hay 10.000 € de diferencia de partida y filosofías distintas. Si buscas el coche familiar eléctrico definitivo, esta es tu comparativa.
 
 Fichas técnicas: <a href=/coches/peugeot-e-5008-electrico-7-plazas-precio/>ver ficha técnica completa del Peugeot E-5008</a> · <a href=/coches/skoda-peaq-suv-electrico-7-plazas-precio/>ver ficha técnica completa del Skoda Peaq</a>.
 
-## Los dos frente a frente, cifra a cifra
+## Tabla comparativa: Peugeot E-5008 vs Skoda Peaq
 
 | Ficha | Peugeot E-5008 (Eléctrico 210) | Skoda Peaq (90) |
 |---|---|---|
@@ -703,71 +692,71 @@ Fichas técnicas: <a href=/coches/peugeot-e-5008-electrico-7-plazas-precio/>ver 
 
 <img src=/media/peugeot-e-5008-skoda-peaq-duelo-cuerpo.webp alt=Peugeot E-5008 y Skoda Peaq en comparativa>
 
-## Lo que aporta cada modelo
+## Análisis: qué ofrece cada uno
 
-**Peugeot E-5008.** Sobre la base STLA Medium, Stellantis plantea un familiar de 4,79 m con una distancia entre ejes de 2,90 m y una disposición 2+3+2. Quienes lo han conducido coinciden en que la última fila admite ocupantes adultos sin castigo, algo poco habitual en este formato. La oferta eléctrica se articula en cuatro escalones: Allure 210 con 73 kWh desde 44.380 €, GT 210 desde 48.980 €, Dual Motor 325 desde 54.160 € y, como variante de mayor recorrido, la Long Range 230, que con 96,9 kWh declara 668 km por 49.010 €. Para quien no quiera enchufar siempre, la gama añade un híbrido de 136 CV y un enchufable de 195 CV. Dentro destacan la pantalla panorámica i-Cockpit de 21 pulgadas, un arsenal de más de 40 ayudas a la conducción y un hueco que crece hasta 1.815 litros abatiendo las dos filas traseras. En el debe: una masa cercana a las 2,4 toneladas, una potencia de carga de 160 kW que hoy ya no lidera y una estética más sobria que la del 3008.
+**Peugeot E-5008.** La apuesta familiar de Stellantis sobre la plataforma STLA Medium: 4,79 m, batalla de 2,90 m y tres filas (2+3+2) en las que, según quienes lo han probado, **caben adultos de verdad en la tercera fila**. La gama eléctrica: 210 Allure (73 kWh) desde 44.380 €, 210 GT desde 48.980 €, **Long Range 230 (96,9 kWh y 668 km, récord del segmento)** desde 49.010 € y Dual Motor 325 desde 54.160 €. Además hay híbrido de 136 CV e híbrido enchufable de 195 CV para indecisos. i-Cockpit panorámico de 21", más de 40 ADAS y maletero modulable de hasta 1.815 litros con las filas abatidas. Sus pegas: 2,4 toneladas, carga de 160 kW correcta pero no puntera y un diseño menos emocional que el 3008.
 
-**Skoda Peaq.** El modelo más ambicioso de la marca checa mide 4,87 m, declara 646 km de recorrido y presume de un registro real de 936 km con una única carga. Su maletero anuncia 935 L y su habitáculo admite siete ocupantes. En el mercado español solo llegan las variantes de mayor potencia: Peaq 90 de 286 CV y propulsión trasera desde 54.550 €, y Peaq 90x de 299 CV con tracción total; la configuración superior con siete asientos y acabado Sportline alcanza los 62.450 €. Carga a 200 kW, gasta 15 kWh cada 100 km y firma un 0 a 100 en 6,8 s, cifras que lo sitúan por delante del francés en brío y eficiencia. Sus sombras: un acceso unos 10.000 € más costoso, una masa también entre 2,3 y 2,4 toneladas y una última fila pensada sobre todo para los más pequeños cuando el ocupante es alto.
+**Skoda Peaq.** El buque insignia de Skoda: 4,87 m, **646 km de autonomía** (récord real de 936 km con una sola carga), maletero de **935 L** y 7 plazas. En España solo se venden las versiones potentes: Peaq 90 (286 CV, trasera) desde 54.550 € y Peaq 90x (299 CV, total); el tope con 7 plazas y acabado Sportline llega a 62.450 €. Carga a 200 kW, consume solo 15 kWh/100 km y acelera en 6,8 s: es más rápido y eficiente que el Peugeot. Sus pegas: 10.000 € más caro de partida, 2,3-2,4 toneladas y tercera fila justa para adultos altos.
 
-## Puntos fuertes y puntos débiles
+## Pros y contras
 
 **Peugeot E-5008:**
-- ✅ Long Range con 668 km: la mayor autonomía declarada entre los familiares eléctricos de siete plazas
-- ✅ Última fila aprovechable por personas adultas, no solo por niños
-- ✅ Pantalla panorámica i-Cockpit de 21 pulgadas y más de 40 ayudas a la conducción
-- ✅ Oferta multienergía: eléctrico, híbrido e híbrido enchufable dentro de la misma gama
-- ✅ Acceso unos 10.000 € por debajo del Peaq
-- ❌ Masa próxima a 2,4 toneladas, que pasa factura en gasto y agilidad
-- ❌ Potencia de carga de 160 kW: correcta, pero lejos de la punta actual
-- ❌ Imagen menos llamativa que la de su hermano menor, el 3008
+- ✅ 668 km de autonomía Long Range: récord entre los SUV eléctricos de 7 plazas
+- ✅ 7 plazas reales con tercera fila utilizable por adultos
+- ✅ i-Cockpit panorámico de 21" y más de 40 ADAS
+- ✅ Gama multienergía: eléctrico, híbrido y PHEV a elegir
+- ✅ 10.000 € más barato de partida que el Peaq
+- ❌ 2,4 toneladas: el peso se nota en consumo y agilidad
+- ❌ Carga rápida de 160 kW, correcta pero no puntera
+- ❌ Diseño menos emocional que el de su hermano 3008
 
 **Skoda Peaq:**
-- ✅ Autonomía declarada de 646 km, entre las mejores de su clase
-- ✅ Hueco de carga de 935 L, el mayor de su categoría
-- ✅ Carga a 200 kW con un gasto contenido de 15 kWh cada 100 km
-- ✅ Aceleración de 0 a 100 en 6,8 s, claramente más vivo
-- ❌ Tarifa inicial desde 54.550 €: unos 10.000 € por encima del E-5008 básico
-- ❌ Última fila estrecha para adultos altos; mejor reservada a niños
-- ❌ Entre 2,3 y 2,4 toneladas: en carreteras viradas se deja notar
+- ✅ 646 km de autonomía: de las mejores del segmento
+- ✅ Maletero de 935 L, el más grande de su categoría
+- ✅ Carga rápida de 200 kW y consumo ajustado (15 kWh/100 km)
+- ✅ 6,8 s en el 0-100: notablemente más rápido
+- ❌ Desde 54.550 €: 10.000 € más que el E-5008 de acceso
+- ❌ La tercera fila es justa para adultos altos; pensada para niños
+- ❌ 2,3-2,4 toneladas: en carreteras reviradas se nota el peso
 
-## La decisión final
+## Veredicto: ¿cuál comprar?
 
-**Elige el Peugeot E-5008 si** priorizas la ecuación precio y plazas: cuesta unos 10.000 € menos de entrada, su última fila acoge a adultos sin apuros y la variante Long Range, por 49.010 €, declara 668 km, por encima del Peaq. **Elige el Skoda Peaq si** valoras más el recorrido de la versión básica, 646 km contra 499 km; un hueco claramente superior, 935 L contra 748 L; una carga más veloz, 200 kW contra 160 kW; y unas prestaciones mejores. Resumiendo sin adornos: el francés es la opción sensata; el checo, el producto superior cuando el presupuesto da de sí.
+**Compra el Peugeot E-5008 si** buscas la mejor relación precio/plazas: es 10.000 € más barato, su tercera fila admite adultos de verdad y la versión Long Range (49.010 €) homologa 668 km, más que el Peaq. **Compra el Skoda Peaq si** priorizas la autonomía de la versión base (646 km frente a 499 km), el maletero más grande (935 L frente a 748 L), la carga más rápida (200 kW frente a 160 kW) y mejores prestaciones. Dicho sin rodeos: el Peugeot es la compra racional; el Skoda, el mejor producto si el presupuesto lo permite.
 
-Puedes enfrentarlos en nuestro <a href=/comparador-coches/?a=peugeot-e-5008-electrico-7-plazas-precio&b=skoda-peaq-suv-electrico-7-plazas-precio>comparador del Peugeot E-5008 y el Skoda Peaq</a>, y consultar el <a href=/blog/peugeot-e-5008-electrico-7-plazas-precio/>análisis completo del Peugeot E-5008</a> y el <a href=/blog/skoda-peaq-suv-electrico-7-plazas-precio/>análisis completo del Skoda Peaq</a>. Tienes las fichas en <a href=/coches/peugeot-e-5008-electrico-7-plazas-precio/>ficha del Peugeot E-5008</a> y en <a href=/coches/skoda-peaq-suv-electrico-7-plazas-precio/>ficha del Skoda Peaq</a>. Y para planificar viajes largos en familia, prueba nuestra <a href=/calculadora-autonomia-real/>calculadora de autonomía real</a>.
+Enfréntalos en nuestro <a href=/comparador-coches/?a=peugeot-e-5008-electrico-7-plazas-precio&b=skoda-peaq-suv-electrico-7-plazas-precio>comparador del Peugeot E-5008 y el Skoda Peaq</a>, y lee el <a href=/blog/peugeot-e-5008-electrico-7-plazas-precio/>análisis completo del Peugeot E-5008</a> y el <a href=/blog/skoda-peaq-suv-electrico-7-plazas-precio/>análisis completo del Skoda Peaq</a>. Fichas en <a href=/coches/peugeot-e-5008-electrico-7-plazas-precio/>ficha del Peugeot E-5008</a> y <a href=/coches/skoda-peaq-suv-electrico-7-plazas-precio/>ficha del Skoda Peaq</a>. Y si viajas mucho en familia, calcula con nuestra <a href=/calculadora-autonomia-real/>calculadora de autonomía real</a>.
 
 Fuentes: <a href=https://www.peugeot.es>Peugeot España</a> y <a href=https://www.skoda.es>Skoda España</a>.
 
-## Vídeo de la comparativa
+## Míralo en vídeo
 
 <iframe src=https://www.youtube.com/embed/xhOx8h5irbU title="Vídeo: Nuevo Peugeot 5008: presentación exterior y diseño" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=xhOx8h5irbU>StellantisAndYou España</a> en YouTube
 
-## Dudas habituales antes de decidir
+## Preguntas frecuentes
 
-### ¿Qué modelo sale más económico, el E-5008 o el Peaq?
-El francés: su tarifa arranca en 44.380 €, mientras que el checo parte de 54.550 €. La separación inicial ronda los 10.000 €.
+### ¿Cuál es más barato, el Peugeot E-5008 o el Skoda Peaq?
+El Peugeot E-5008: desde 44.380 €, frente a los 54.550 € del Skoda Peaq. Son unos 10.000 € de diferencia de partida.
 
-### ¿Cuál recorre más kilómetros con una carga?
-Varía según la variante elegida: la Long Range del E-5008 declara 668 km, cifra que supera los 646 km del Peaq y que lidera su segmento. En cambio, comparando los accesos, el Peaq (646 km) queda por delante del E-5008 (499 km).
+### ¿Cuál tiene más autonomía?
+Depende de la versión: el E-5008 Long Range homologa 668 km (récord del segmento), por encima de los 646 km del Peaq. Pero en versiones de acceso, el Peaq (646 km) supera al E-5008 (499 km).
 
-### ¿La tercera fila del E-5008 sirve para adultos?
-Sí: su configuración 2+3+2 deja sitio real a ocupantes adultos en la última fila, según quienes lo han probado. La del Peaq, en cambio, resulta más ajustada cuando el pasajero es alto.
+### ¿El Peugeot E-5008 tiene 7 plazas de verdad?
+Sí: tres filas (2+3+2) en las que, según quienes lo han probado, caben adultos de verdad en la tercera fila. En el Peaq, la tercera fila es más justa para adultos altos.
 
-### ¿Qué maletero es mayor?
-El del Peaq: 935 L —el mayor de su clase— frente a 748 L en el E-5008, que con las dos filas traseras plegadas alcanza los 1.815 L.
+### ¿Cuál tiene más maletero?
+El Skoda Peaq: 935 L, el más grande de su categoría, frente a los 748 L del Peugeot E-5008 (que llega a 1.815 L con las dos filas traseras abatidas).
 
-### ¿El 5008 se vende también sin ser eléctrico puro?
-Sí: junto al eléctrico, la gama incluye un enchufable de 195 CV (desde ~43.410 €) y, por debajo, un híbrido ligero, de 136 CV, que parte de ~39.360 €.
+### ¿Hay versiones híbridas del 5008?
+Sí: además del eléctrico, el 5008 se vende con híbrido ligero de 136 CV (desde ~39.360 €) e híbrido enchufable de 195 CV (desde ~43.410 €).
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
 `,
   },
   {
-    title: "Dacia Bigster Hybrid o Jaecoo 5: duelo de SUV baratos",
+    title: "Dacia Bigster Hybrid vs Jaecoo 5 2026",
     slug: "dacia-bigster-hybrid-vs-jaecoo-5-cual-comprar",
-    excerpt: "El Bigster Hybrid 155 parte de 29.390 € con etiqueta ECO y 4,6 l/100 km; el Jaecoo 5 arranca en 19.990 € financiado con gasolina, híbrido y eléctrico.",
+    excerpt: "El Dacia Bigster Hybrid 155 (desde 29.390 €, etiqueta ECO) contra el Jaecoo 5 (desde 19.990 € financiado, con versiones C, ECO y CERO). El duelo de los",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -784,11 +773,11 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     content: `<img src=/media/dacia-bigster-hybrid-vs-jaecoo-5-cual-comprar-hero.webp alt=Comparativa entre el Dacia Bigster Hybrid y el Jaecoo 5, los SUV asequibles del momento>
 
-Dos superventas asequibles se disputan el mismo garaje: el Dacia Bigster Hybrid 155, que parte de 29.390 €, luce etiqueta ECO y homologa 4,6 l/100 km, frente al Jaecoo 5, que arranca en 19.990 € financiado y se ofrece con tres motorizaciones distintas (gasolina, híbrida y eléctrica). El primero presume de ser el C-SUV híbrido con el precio más bajo del mercado; el segundo, el chino que pretende superarlo por precio. Ambos arrasan en ventas. Solo uno acabará en tu plaza.
+El duelo de los superventas asequibles: el **Dacia Bigster Hybrid 155**, desde **29.390 €** con etiqueta ECO y 4,6 l/100 km, contra el **Jaecoo 5**, desde **19.990 € financiado** con tres motorizaciones a elegir (gasolina, híbrido y eléctrico). Uno es el C-SUV híbrido más barato del mercado; el otro, el chino que quiere comérselo por precio. Los dos venden como churros. Solo uno puede ganar tu garaje.
 
 Fichas técnicas: <a href=/coches/dacia-bigster-hybrid-precio-espana/>ver ficha técnica completa del Dacia Bigster Hybrid</a> · <a href=/coches/jaecoo-5-precio-ficha-tecnica/>ver ficha técnica completa del Jaecoo 5</a>.
 
-## Los dos frente a frente, cifra a cifra
+## Tabla comparativa: Dacia Bigster Hybrid 155 vs Jaecoo 5
 
 | Ficha | Dacia Bigster Hybrid 155 | Jaecoo 5 (gasolina base) |
 |---|---|---|
@@ -810,71 +799,72 @@ Fichas técnicas: <a href=/coches/dacia-bigster-hybrid-precio-espana/>ver ficha 
 
 <img src=/media/dacia-bigster-jaecoo-5-duelo-cuerpo.webp alt=Dacia Bigster Hybrid y Jaecoo 5 en comparativa>
 
-## Qué aporta cada rival
+## Análisis: qué ofrece cada uno
 
-**Dacia Bigster Hybrid 155.** Con 4,57 m, es el Dacia de mayor tamaño hasta la fecha: 23 cm por encima del Duster, y descansa sobre la arquitectura CMF-B de Renault. Su Hybrid 155 entrega 156 CV, homologa 4,6 l/100 km, luce etiqueta ECO y ofrece un maletero de 546 L que crece hasta 1.851 L con los asientos abatidos, además de 220 mm de altura libre. La gama se abre con los TCe 140 junto al ECO-G 140, ambos desde 24.990 €; le sigue el Hybrid 155 Expression desde 29.390 €, luego los Journey y Extreme desde 31.390 €, y arriba queda el Tribrid 150 4x4 desde 30.890 €, que mezcla gasolina, electricidad y GLP como el 4x4 de "triple energía" más asequible. A modo de referencia, unos Tucson o RAV4 híbridos equivalentes se van entre 12.000 y 20.000 € por encima. Y hay un dato con orgullo español: la planta del Grupo Renault en Valladolid fabrica los componentes del sistema híbrido. Las ventas acompañan: 67.573 unidades matriculadas en el continente durante 2025, además de una candidatura al Coche del Año europeo de 2026. Sus pegas: aceleración discreta (9,7 s), habitáculo austero en las versiones de acceso, con etiqueta ECO y sin CERO.
+**Dacia Bigster Hybrid 155.** El Dacia más grande de la historia (4,57 m, 23 cm más que el Duster) sobre la plataforma CMF-B del Grupo Renault. El Hybrid 155: 156 CV, **4,6 l/100 km**, etiqueta ECO y maletero de 546 L (1.851 L abatidos), con 220 mm de altura libre. La gama: Hybrid 155 Expression desde 29.390 €, Journey y Extreme desde 31.390 €, TCe 140 y ECO-G 140 desde 24.990 €, y **Tribrid 150 4x4** desde 30.890 € (gasolina + electricidad + GLP, el 4x4 "triple energía" más barato). Para ponerlo en contexto: un Hyundai Tucson o un Toyota RAV4 híbridos equivalentes cuestan entre 12.000 y 20.000 € más. Dato con orgullo español: los componentes del sistema híbrido se fabrican en la planta del Grupo Renault en **Valladolid**. Y funciona: 67.573 matriculaciones en Europa en 2025, candidato a Coche del Año en Europa 2026. Sus pegas: prestaciones justas (9,7 s), interior espartano en acabados de acceso y etiqueta ECO (no Cero).
 
-**Jaecoo 5.** Precio rompedor: el gasolina 1.6 TGDI arranca en 19.990 € financiado; el HEV de 224 CV, con etiqueta ECO y más de 900 km de autonomía total, parte de 22.500 €; y el EV de 211 CV, de 35.500 €. Pasar del gasolina al híbrido supone solo 2.500 € de tarifa: esa es la versión con más lógica. El equipamiento abunda desde la base: 19 ayudas a la conducción y 7 airbags, una cabina con certificación pet-friendly de TÜV Rheinland y una linterna extraíble guardada en el maletero. Entre sus pegas: el gasolina consume 7,0 l/100 km, lleva etiqueta C y rinde de forma discreta, y la red de posventa todavía se está desplegando.
+**Jaecoo 5.** Precio de derribo: gasolina 1.6 TGDI desde **19.990 € financiado**, **HEV de 224 CV desde 22.500 €** (etiqueta ECO, más de 900 km de autonomía total) y EV de 211 CV desde 35.500 €. El salto del gasolina al híbrido cuesta solo 2.500 € de tarifa: es la versión con más sentido. Equipamiento generoso (19 ADAS y 7 airbags de serie), cabina pet-friendly certificada por TÜV Rheinland y linterna extraíble en el maletero. Sus pegas: el gasolina gasta 7,0 l/100 km con etiqueta C, las prestaciones son justas y la red de posventa está en despliegue.
 
 ## Pros y contras
 
 **Dacia Bigster Hybrid 155:**
-- ✅ Desde 29.390 €: ningún otro C-SUV híbrido baja tanto
-- ✅ Gasto contenido: 4,6 l/100 km y etiqueta ECO
-- ✅ Maletero enorme: 546 L que suben a 1.851 L abatiendo asientos, con 220 mm de altura libre
-- ✅ Híbrido con sello español: sus componentes salen de la planta de Valladolid
-- ✅ Gama entera: gasolina, GLP, híbrido y Tribrid 4x4
-- ❌ 156 CV y 9,7 s en el 0-100: aceleración discreta
-- ❌ Etiqueta ECO, no CERO: sufrirá en las ZBE más estrictas
-- ❌ Habitáculo austero: plásticos duros en las versiones de acceso
-- ❌ Mucha demanda: algunas versiones pueden tener lista de espera
+- ✅ 29.390 €: el C-SUV híbrido más barato del mercado
+- ✅ 546 L de maletero (1.851 L abatidos) y 220 mm de altura libre
+- ✅ Consumo de 4,6 l/100 km con etiqueta ECO
+- ✅ Componentes del sistema híbrido fabricados en Valladolid
+- ✅ Gama completa: gasolina, GLP, híbrido y 4x4 Tribrid
+- ❌ 156 CV y 9,7 s de 0-100: prestaciones justas
+- ❌ Etiqueta ECO, no CERO: pagará en las ZBE más estrictas
+- ❌ Interior espartano: plásticos duros en los acabados de acceso
+- ❌ Alta demanda: puede haber lista de espera en algunas versiones
 
 **Jaecoo 5:**
-- ✅ Mucho equipo de serie: 19 ayudas ADAS y 7 airbags ya en el acabado base
-- ✅ Tarifa rompedora: el gasolina arranca en 19.990 € financiado y el híbrido en 22.500 €
-- ✅ Subir al híbrido sale por solo 2.500 € más, con 224 CV y etiqueta ECO
-- ✅ Tres motorizaciones para elegir: gasolina C, híbrido ECO y eléctrico CERO
-- ❌ El gasolina traga 7,0 l/100 km y se queda con etiqueta C
-- ❌ Aceleración discreta en el gasolina: 10,2 s para el 0-100
-- ❌ La posventa aún está desplegándose
+- ✅ Precio rompedor: desde 19.990 € financiado (gasolina) o 22.500 € (híbrido)
+- ✅ Tres motorizaciones (C, ECO y CERO): hay un Jaecoo 5 para cada comprador
+- ✅ El salto a híbrido cuesta solo 2.500 € y aporta 224 CV y etiqueta ECO
+- ✅ Equipamiento generoso: 19 ADAS y 7 airbags desde el acabado base
+- ❌ El gasolina gasta 7,0 l/100 km y lleva etiqueta C
+- ❌ Prestaciones justas del gasolina: 10,2 s en el 0-100
+- ❌ Red de posventa aún en despliegue
 
 ## Veredicto: ¿cuál comprar?
 
-**Elige el Jaecoo 5 si** el presupuesto manda por encima de todo: por debajo de 20.000 € financiado no hay nada con este equipamiento, y su híbrido de 224 CV, que sale por 22.500 € y lleva etiqueta ECO, es una oportunidad. **Elige el Dacia Bigster Hybrid si** buscas eficiencia de verdad: 4,6 l/100 km, muy por debajo de los 7,0 litros a los cien del gasolina chino. También ofrece más maletero (546 L), una red de talleres asentada y un híbrido con componentes hechos en España. El Bigster se va unos 7.000 € por encima del Jaecoo 5 híbrido, pero ofrece más coche familiar y menos gasto. En resumen: el chino se impone en precio; el Dacia, en coste total y tranquilidad.
+**Compra el Jaecoo 5 si** el precio es innegociable: nada baja de 20.000 € financiado con este equipamiento, y el híbrido de 224 CV por 22.500 € es una ganga con etiqueta ECO. **Compra el Dacia Bigster Hybrid si** valoras la eficiencia real (4,6 l/100 km frente a 7,0 l/100 km del gasolina chino), el maletero más grande (546 L), una marca con red de talleres consolidada y un sistema híbrido con componentes fabricados en España. El Bigster cuesta unos 7.000 € más que el Jaecoo 5 híbrido, pero es más coche familiar y gasta menos. Aquí el veredicto honesto: el chino gana por precio; el Dacia, por coste total y tranquilidad.
 
-El <a href=/comparador-coches/?a=dacia-bigster-hybrid-precio-espana&b=jaecoo-5-precio-ficha-tecnica>comparador del Dacia Bigster y el Jaecoo 5</a> los enfrenta directamente; también tienes el <a href=/blog/dacia-bigster-hybrid-precio-espana/>análisis completo del Dacia Bigster</a> y el <a href=/coches/jaecoo-5-precio-ficha-tecnica/>análisis completo del Jaecoo 5</a>, además de la <a href=/coches/dacia-bigster-hybrid-precio-espana/>ficha del Dacia Bigster</a> y la <a href=/coches/jaecoo-5-precio-ficha-tecnica/>ficha del Jaecoo 5</a>. Para las etiquetas, consulta la <a href=/guias/zbe/>guía de etiquetas y ZBE</a>.
+Compáralos en nuestro <a href=/comparador-coches/?a=dacia-bigster-hybrid-precio-espana&b=jaecoo-5-precio-ficha-tecnica>comparador del Dacia Bigster y el Jaecoo 5</a>, y lee el <a href=/blog/dacia-bigster-hybrid-precio-espana/>análisis completo del Dacia Bigster</a> y el <a href=/coches/jaecoo-5-precio-ficha-tecnica/>análisis completo del Jaecoo 5</a>. Fichas en <a href=/coches/dacia-bigster-hybrid-precio-espana/>ficha del Dacia Bigster</a> y <a href=/coches/jaecoo-5-precio-ficha-tecnica/>ficha del Jaecoo 5</a>. Si dudas entre etiquetas, mira nuestra <a href=/guias/zbe/>guía de etiquetas y ZBE</a>.
 
 Fuentes: <a href=https://www.dacia.es>Dacia España</a> y <a href=https://www.jaecoo.es>Jaecoo España</a>.
 
-## Vídeo del duelo
+## Míralo en vídeo
 
 <iframe src=https://www.youtube.com/embed/zD5IWqPdgIY title="Vídeo: Dacia Bigster 2025: el hermano mayor del Duster" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=zD5IWqPdgIY>Diariomotor</a> en YouTube
 
-## Dudas que más se repiten
+## Preguntas frecuentes
 
-### ¿Cuál sale más barato, el Bigster o el Jaecoo 5?
-El chino sale más barato: su gasolina arranca en 19.990 € financiado y su híbrido en 22.500 €, por debajo de los 29.390 € del Bigster Hybrid 155.
+### ¿Cuál es más barato, el Dacia Bigster o el Jaecoo 5?
+El Jaecoo 5: desde 19.990 € financiado (gasolina) o 22.500 € (híbrido), frente a los 29.390 € del Dacia Bigster Hybrid 155.
 
-### ¿Cuál consume menos?
-El Bigster Hybrid homologa 4,6 l/100 km; el Jaecoo 5 de gasolina, 7,0 l/100 km. En el híbrido de Jaecoo, la cifra oficial es de 5,3 l/100 km.
+### ¿Cuál gasta menos?
+El Dacia Bigster Hybrid: 4,6 l/100 km homologados, frente a los 7,0 l/100 km del Jaecoo 5 gasolina. El Jaecoo 5 híbrido declara 5,3 l/100 km.
 
-### ¿Qué etiqueta corresponde a cada uno?
-El Bigster Hybrid tiene etiqueta ECO. En el Jaecoo 5, la etiqueta depende del motor: C para el gasolina, ECO para el híbrido y CERO para el eléctrico.
+### ¿Qué etiqueta lleva cada uno?
+El Bigster Hybrid lleva etiqueta ECO; el Jaecoo 5 gasolina lleva C, el híbrido ECO y el eléctrico CERO.
 
-### ¿Existe un Bigster 4x4?
-Sí: el Tribrid 150 4x4 mezcla gasolina, electricidad y GLP y parte de 30.890 €, el precio más bajo entre los 4x4 de "triple energía".
+### ¿Hay un Dacia Bigster 4x4?
+Sí: el Tribrid 150 4x4 combina gasolina, electricidad y GLP desde 30.890 €. Es el 4x4 "triple energía" más barato del mercado.
 
-### ¿Dónde se fabrica el Bigster?
-Se monta en Mioveni (Rumanía), si bien el sistema híbrido de 155 CV usa componentes fabricados en la planta vallisoletana del Grupo Renault.
+### ¿Dónde se fabrica el Dacia Bigster?
+En Mioveni (Rumanía), pero los componentes del sistema híbrido de 155 CV se fabrican en la planta del Grupo Renault en Valladolid.
 
-Si te llega una sanción y sospechas que trae algún fallo, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de abonar nada.`,
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+`,
   },
   {
-    title: "MG4 o Dolphin: duelo eléctrico chino 2025",
+    title: "MG4 Electric vs BYD Dolphin 2025",
     slug: "mg4-electric-vs-byd-dolphin-2025-cual-comprar",
-    excerpt: "MG4 Electric desde 30.690 € frente a BYD Dolphin desde 36.690 €: comparamos recorrido, potencia, recarga y maletero de ambos compactos eléctricos.",
+    excerpt: "El MG4 Electric Standard (30.690 €) contra el BYD Dolphin (36.690 €): precio, autonomía, potencia y carga de los dos compactos eléctricos chinos.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 8,
@@ -891,13 +881,13 @@ Si te llega una sanción y sospechas que trae algún fallo, <a href=https://recu
     ],
     content: `<img src=/media/mg4-electric-vs-byd-dolphin-2025-cual-comprar-hero.webp alt=Comparativa entre el MG4 Electric y el BYD Dolphin 2025, los compactos eléctricos chinos más vendidos>
 
-Dos compactos nacidos en China se disputan el mismo comprador europeo: uno firma MG y otro BYD. El primero arranca en 30.690 €; el segundo, en 36.690 €. Ambos funcionan solo con electricidad, ambos presumen del distintivo ambiental Cero y ambos rondan los 4,29 metros de longitud. Sin embargo, cada uno defiende una virtud diferente: el MG4 seduce por desembolso y por sensaciones al volante, mientras el Dolphin presume de recorrido entre cargas.
+El duelo de los compactos eléctricos chinos: el **MG4 Electric Standard**, desde **30.690 €**, contra el **BYD Dolphin**, desde **36.690 €**. Los dos son 100 % eléctricos, los dos llevan etiqueta Cero, los dos miden 4,29 m y los dos compiten por ser el eléctrico "generalista" que sustituya a tu compacto de gasolina. Pero juegan en posiciones distintas: el MG4 es el más barato y el más divertido de conducir; el Dolphin es el que más autonomía ofrece.
 
-En pocas palabras: cuando el dinero pesa más que cualquier otro argumento, la balanza cae del lado del MG4; cuando lo decisivo es cuántos kilómetros permite una carga, el Dolphin toma ventaja. Entre ambas versiones de acceso median 6.000 €, una cantidad que se deja notar en ambas direcciones. El cuadro siguiente resume las cifras esenciales.
+Respuesta corta: **si el presupuesto manda, el MG4; si la autonomía manda, el Dolphin**. Los 6.000 € de diferencia se notan en los dos sentidos. Los detalles, en la tabla.
 
-Datos completos aquí: <a href=/coches/mg4-electric-standard-2025-precio-ficha-tecnica/>ver ficha técnica completa del MG4 Electric</a> y <a href=/coches/byd-dolphin-2025-precio-ficha-tecnica/>ver ficha técnica completa del BYD Dolphin</a>.
+Fichas técnicas: <a href=/coches/mg4-electric-standard-2025-precio-ficha-tecnica/>ver ficha técnica completa del MG4 Electric</a> · <a href=/coches/byd-dolphin-2025-precio-ficha-tecnica/>ver ficha técnica completa del BYD Dolphin</a>.
 
-## Cifras frente a frente
+## Tabla comparativa: MG4 Electric Standard vs BYD Dolphin 2025
 
 | Ficha | MG4 Electric Standard | BYD Dolphin |
 |---|---|---|
@@ -918,71 +908,71 @@ Datos completos aquí: <a href=/coches/mg4-electric-standard-2025-precio-ficha-t
 
 <img src=/media/mg4-electric-vs-byd-dolphin-2025-cual-comprar-cuerpo.webp alt=MG4 Electric y BYD Dolphin en carretera, comparativa de los dos eléctricos>
 
-## Qué aporta cada compacto
+## Análisis: qué ofrece cada uno
 
-El MG4 Standard justifica su precio con una relación entre coste y recorrido bastante favorable: por 30.690 € entrega una batería LFP de 51 kWh, una química longeva y libre de cobalto, homologada para 350 km en ciclo WLTP. Su carácter resulta más juguetón que el de su rival gracias a la propulsión trasera, un reparto equilibrado 50:50 entre ejes, 170 CV y un par de 250 Nm, con aceleración de 0 a 100 km/h en 7,7 segundos. Donde más distancia marca es en la recarga en corriente continua: admite 117 kW y recupera del 10 al 80 % en 40 minutos, superando los 88 kW del Dolphin. La cobertura alcanza 7 años o 150.000 km, con la batería incluida en esa garantía. Entre sus limitaciones figuran un recorrido algo corto para viajar con frecuencia por carretera, una carga en alterna de apenas 6,6 kW que se hace lenta en postes públicos de AC, un sistema de infoentretenimiento cuyo software admite mejora y la ausencia de bomba de calor en el acabado de acceso.
+**MG4 Electric Standard.** El argumento del MG4 es el precio por kilómetro de autonomía: **30.690 €** con batería LFP de 51 kWh (química duradera y sin cobalto) y **350 km WLTP**. Es, además, el más deportivo del par: **tracción trasera**, reparto de pesos 50:50, 170 CV y 250 Nm, con el 0-100 en 7,7 s. En carga rápida gana por goleada: **117 kW en DC** (10-80 % en 40 minutos) frente a los 88 kW del Dolphin. La garantía es de **7 años o 150.000 km**, batería incluida. Sus pegas: la autonomía se queda justa para viajes largos frecuentes, la carga en alterna es de solo 6,6 kW (lento en puntos públicos de AC), el software del infoentretenimiento es mejorable y no trae bomba de calor en la versión de acceso.
 
-El Dolphin apuesta casi todo a la distancia entre cargas: con 60,4 kWh alcanza 427 km WLTP y un gasto moderado de 15,9 kWh cada 100 km. También supera a su contrincante en empuje, con 204 CV, 310 Nm y un 0 a 100 km/h en 7,0 segundos, y protege su batería durante 8 años o 200.000 km. Su planteamiento mira más a la ciudad: eje delantero motriz, agilidad notable entre calles y un habitáculo donde destaca la pantalla que gira, tan característica de BYD. Del otro lado, su tarifa inicial queda 6.000 € por encima de la del MG4, su recarga rápida se detiene en 88 kW, su maletero baja a 345 litros y sus asientos traseros ofrecen un espacio algo limitado.
+**BYD Dolphin.** El argumento del Dolphin es la autonomía: **427 km WLTP** con 60,4 kWh de batería y un consumo contenido de **15,9 kWh/100 km**. También gana en potencia (204 CV, 310 Nm, 0-100 en 7,0 s) y en garantía de batería (**8 años o 200.000 km**). Es más urbano de planteamiento: tracción delantera, maniobrabilidad excelente y un interior con la pantalla giratoria característica de BYD. Sus pegas: cuesta **6.000 € más** que el MG4, la carga rápida se queda en 88 kW, el maletero es algo menor (345 L) y las plazas traseras son justas en habitabilidad.
 
-## Luces y sombras de ambos
+## Pros y contras
 
 **MG4 Electric Standard:**
-- ✅ Desde 30.690 €: recorrido por euro invertido muy favorable entre los compactos eléctricos
-- ✅ Batería LFP de 51 kWh y 350 km WLTP: química longeva, libre de cobalto
-- ✅ Propulsión trasera con reparto 50:50 entre ejes: el más entretenido del segmento
-- ✅ Recarga rápida de 117 kW, del 10 al 80 % en 40 minutos
-- ✅ Cobertura hasta 150.000 km o 7 años, con la batería dentro de ella
-- ❌ 350 km de recorrido: escaso para viajar lejos con asiduidad
-- ❌ Alterna de solo 6,6 kW: recargas lentas en postes públicos de AC
-- ❌ Software del sistema multimedia que admite una puesta al día
-- ❌ Acabado de acceso sin bomba de calor
+- ✅ 30.690 €: el compacto eléctrico con mejor precio por km de autonomía
+- ✅ 350 km WLTP con batería LFP de 51 kWh: química duradera y sin cobalto
+- ✅ Tracción trasera y reparto de pesos 50:50: el más divertido del segmento
+- ✅ Carga rápida de 117 kW (10-80 % en 40 minutos)
+- ✅ 7 años o 150.000 km de garantía, batería incluida
+- ❌ 350 km de autonomía: justo para viajes largos frecuentes
+- ❌ Carga en alterna de solo 6,6 kW: lento en puntos públicos de AC
+- ❌ Software del infoentretenimiento mejorable
+- ❌ Sin bomba de calor en la versión de acceso
 
 **BYD Dolphin:**
-- ✅ Recorrido de 427 km con una batería de solo 60,4 kWh
-- ✅ Aceleración de 0 a 100 km/h en 7,0 segundos, sobrada para este segmento
-- ✅ Gasto moderado: 15,9 kWh cada 100 km
-- ✅ Protección de la batería hasta 200.000 km u 8 años
-- ✅ Agilidad notable circulando por ciudad
-- ❌ Recarga rápida contenida en 88 kW, por debajo de rivales más veloces
-- ❌ Tarifa 6.000 € superior a la del MG4 Electric Standard
-- ❌ Maletero de apenas 345 litros
-- ❌ Asientos traseros con espacio algo limitado
+- ✅ Autonomía de 427 km con solo 60,4 kWh de batería
+- ✅ 0-100 km/h en 7,0 segundos, más que suficiente para el segmento
+- ✅ Consumo contenido: 15,9 kWh/100 km
+- ✅ 8 años o 200.000 km de garantía de batería
+- ✅ Maniobrabilidad excelente en ciudad
+- ❌ Carga rápida limitada a 88 kW frente a rivales más rápidos
+- ❌ 6.000 € más caro que el MG4 Electric Standard
+- ❌ Maletero de solo 345 litros
+- ❌ Plazas traseras algo justas en habitabilidad
 
-## Entonces, ¿por cuál decidirse?
+## Veredicto: ¿cuál comprar?
 
-Si el dinero manda por encima de cualquier otro criterio y disfrutas conduciendo, el MG4 resulta la opción lógica: cuesta 6.000 € menos, recarga en continua mucho antes (117 kW frente a 88 kW), mueve el eje trasero y transmite sensaciones más deportivas que su rival. Es, en definitiva, el eléctrico sensato del comparativo. Si, en cambio, tu prioridad es la distancia entre cargas, el Dolphin se impone: 427 km frente a 350 km marcan la diferencia tanto en el uso diario como en carretera, a lo que suma más empuje (204 CV frente a 170 CV) y una cobertura de batería más amplia (hasta 200.000 km u 8 años, frente a 150.000 km o 7 años del MG4). Balance sincero: el MG4 vence en desembolso y recarga; el Dolphin, en recorrido y potencia. Esos 6.000 € de separación se traducen, al final, en kilómetros.
+**Compra el MG4 Electric si** el presupuesto manda por encima de todo y te gusta conducir: es 6.000 € más barato, carga mucho más rápido en DC (117 frente a 88 kW), es tracción trasera y es el más divertido del par. Es el eléctrico racional por excelencia. **Compra el BYD Dolphin si** la autonomía es tu prioridad: 427 km frente a 350 km es una diferencia que se nota en el día a día y en los viajes, además de más potencia (204 frente a 170 CV) y mejor garantía de batería (8 años/200.000 km frente a 7 años/150.000 km). Veredicto honesto: el MG4 gana por precio y carga; el Dolphin, por autonomía y potencia. Los 6.000 € de diferencia se pagan en kilómetros.
 
-Enfréntalos en nuestro <a href=/comparador-coches/?a=mg4-electric-standard-2025-precio-ficha-tecnica&b=byd-dolphin-2025-precio-ficha-tecnica>comparador del MG4 Electric y el BYD Dolphin</a>, consulta el <a href=/coches/mg4-electric-standard-2025-precio-ficha-tecnica/>análisis completo del MG4 Electric</a> y el <a href=/coches/byd-dolphin-2025-precio-ficha-tecnica/>análisis completo del BYD Dolphin</a>. También tienes la <a href=/coches/mg4-electric-standard-2025-precio-ficha-tecnica/>ficha del MG4 Electric</a> y la <a href=/coches/byd-dolphin-2025-precio-ficha-tecnica/>ficha del BYD Dolphin</a>. Ambos modelos lucen el distintivo Cero y acceden a todas las ZBE: si te surgen dudas, revisa nuestra <a href=/guias/zbe/>guía de etiquetas y ZBE</a>.
+Compáralos en nuestro <a href=/comparador-coches/?a=mg4-electric-standard-2025-precio-ficha-tecnica&b=byd-dolphin-2025-precio-ficha-tecnica>comparador del MG4 Electric y el BYD Dolphin</a>, y lee el <a href=/coches/mg4-electric-standard-2025-precio-ficha-tecnica/>análisis completo del MG4 Electric</a> y el <a href=/coches/byd-dolphin-2025-precio-ficha-tecnica/>análisis completo del BYD Dolphin</a>. Fichas en <a href=/coches/mg4-electric-standard-2025-precio-ficha-tecnica/>ficha del MG4 Electric</a> y <a href=/coches/byd-dolphin-2025-precio-ficha-tecnica/>ficha del BYD Dolphin</a>. Los dos llevan etiqueta Cero y entran en todas las ZBE: repasa nuestra <a href=/guias/zbe/>guía de etiquetas y ZBE</a> si tienes dudas.
 
 Fuentes: <a href=https://www.mgmotor.eu>MG Europa</a> y <a href=https://www.byd.com>BYD</a>.
 
 ## Preguntas frecuentes
 
-### ¿Qué coche sale más económico al comprarlo?
-El MG4 Electric Standard, con un precio inicial de 30.690 €. El Dolphin arranca en 36.690 €, de modo que la separación inicial entre ambas versiones de acceso alcanza los 6.000 €.
+### ¿Cuál es más barato, el MG4 Electric o el BYD Dolphin?
+El MG4 Electric Standard: desde 30.690 €, frente a los 36.690 € del BYD Dolphin. Son 6.000 € de diferencia entre las versiones de acceso.
 
-### ¿Qué modelo recorre más kilómetros con una carga?
-El Dolphin, con 427 km WLTP gracias a su batería de 60,4 kWh, por delante de los 350 km que homologa el MG4, dotado con 51 kWh. En gasto también lidera el Dolphin, con 15,9 kWh cada 100 km.
+### ¿Cuál tiene más autonomía?
+El BYD Dolphin: 427 km WLTP con su batería de 60,4 kWh, frente a los 350 km del MG4 con 51 kWh. En consumo también gana el Dolphin: 15,9 kWh/100 km.
 
-### ¿Cuál recupera antes kilómetros en un cargador rápido?
-El MG4: admite 117 kW en continua y pasa del 10 al 80 % en 40 minutos, por delante de los 88 kW del Dolphin. En trayectos con paradas para recargar, el MG4 vuelve antes a la carretera.
+### ¿Cuál carga más rápido?
+El MG4 Electric: 117 kW en corriente continua (10-80 % en 40 minutos), frente a los 88 kW del BYD Dolphin. En viajes con paradas de carga, el MG4 recupera kilómetros antes.
 
-### ¿Cuál acelera con más brío?
-El Dolphin entrega 204 CV y 310 Nm, y acelera de 0 a 100 km/h en 7,0 segundos, por delante de los 170 CV, con 250 Nm, del MG4, que tarda 7,7 segundos. Eso sí, el MG4 mueve el eje trasero, reparte su peso 50:50 y ofrece un tacto más deportivo.
+### ¿Cuál es más potente?
+El BYD Dolphin: 204 CV y 310 Nm con el 0-100 en 7,0 s, frente a los 170 CV y 250 Nm del MG4 (7,7 s). A cambio, el MG4 es tracción trasera, con reparto de pesos 50:50 y tacto más deportivo.
 
-### ¿Ambos pueden entrar en las zonas de bajas emisiones?
-Sí: los dos funcionan solo con electricidad y lucen el distintivo Cero, así que acceden sin trabas a todas las zonas de bajas emisiones.
+### ¿Los dos tienen etiqueta Cero de la DGT?
+Sí, ambos son eléctricos puros y llevan etiqueta Cero, así que entran en todas las zonas de bajas emisiones sin restricciones.
 
-### ¿Qué cobertura ofrece cada uno?
-El Dolphin protege su batería hasta 200.000 km u 8 años. El MG4 cubre vehículo y batería hasta 150.000 km o 7 años.
+### ¿Cuál tiene mejor garantía?
+El Dolphin: 8 años o 200.000 km para la batería. El MG4 ofrece 7 años o 150.000 km de garantía general, batería incluida.
 
-Si te llega una sanción y sospechas que puede contener algún error, <a href=https://recurretumulta.online/>revísala gratis con nuestra IA</a> antes de abonarla.
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
 `,
   },
   {
-    title: "Ioniq 3, Renault 5 y Dolphin Surf: ¿qué eléctrico comprar?",
+    title: "Ioniq 3 vs R5 E-Tech vs Dolphin Surf",
     slug: "hyundai-ioniq-3-vs-renault-5-vs-dolphin-surf-cual-comprar",
-    excerpt: "Tres compactos eléctricos frente a frente: Ioniq 3 con 497 km, Renault 5 en 20.170 € con ayudas y Dolphin Surf desde 12.605 €. Veredicto incluido.",
+    excerpt: "El Ioniq 3 promete 497 km, el Renault 5 E-Tech baja a 20.170 € con ayudas y el Dolphin Surf parte de 12.605 €. Duelo de compactos eléctricos con veredicto.",
     category: "Novedades Motor",
     date: "2026-10-06",
     readTime: 9,
@@ -999,11 +989,11 @@ Si te llega una sanción y sospechas que puede contener algún error, <a href=ht
     ],
     content: `<img src=/media/hyundai-ioniq-3-vs-renault-5-vs-dolphin-surf-cual-comprar-hero.webp alt=Tres compactos eléctricos alineados en una carretera costera española al atardecer, escena de comparativa>
 
-Tres compactos eléctricos, tres ideas distintas de lo que debe ser un coche urbano con enchufe. El **Hyundai Ioniq 3** presume de autonomía, con un máximo WLTP de **497 km**. El **Renault 5 E-Tech** juega la baza del precio real: con ayudas se queda en **20.170 €**. Y el **BYD Dolphin Surf** rompe el mercado por abajo: desde **12.605 €** con ayudas y con 5 plazas de verdad, el eléctrico de cinco asientos más asequible.
+Tres formas de entender el compacto eléctrico se enfrentan: el **Hyundai Ioniq 3**, la apuesta coreana de la autonomía (hasta 497 km WLTP); el **Renault 5 E-Tech**, el icono francés que con ayudas baja a **20.170 €**; y el **BYD Dolphin Surf**, el chino que parte de **12.605 €** con ayudas y ya es el eléctrico más barato con 5 plazas.
 
-El resumen rápido: **por precio manda el Dolphin Surf; por equilibrio y red comercial, el R5; por autonomía, el Ioniq 3**. Ahora bien, cada cifra tiene su letra pequeña, y es ahí donde se gana o se pierde la compra.
+La respuesta corta: **el Dolphin Surf gana por precio, el R5 por equilibrio y red comercial, y el Ioniq 3 por autonomía**. Pero el diablo está en la letra pequeña de cada precio, y ahí es donde se decide la compra.
 
-## Los tres, número a número
+## Cara a cara: la tabla
 
 | | Hyundai Ioniq 3 | Renault 5 E-Tech | BYD Dolphin Surf |
 |---|---|---|---|
@@ -1017,60 +1007,60 @@ El resumen rápido: **por precio manda el Dolphin Surf; por equilibrio y red com
 | Etiqueta DGT | Cero | Cero | Cero |
 | Fabricación | Turquía | Francia | China |
 
-*La Standard Range anunciada todavía no se comercializa en España. **La N Line Long Range es, hoy, la única versión en venta.
+*Precio anunciado de la Standard Range, aún no a la venta en España. **N Line Long Range, la única versión disponible hoy.
 
-## Qué aporta cada aspirante
+## Análisis: qué ofrece cada uno
 
-**Hyundai Ioniq 3.** Su carta principal es coreana y técnica: arquitectura propia e-GMP, con un máximo de 497 km WLTP y equipamiento serio (V2L, Pleos Connect y aparcamiento a distancia desde el móvil) con un precio anunciado de salida de 29.995 €. El problema está en la letra pequeña: hoy el único que se puede comprar es el N Line, de 39.390 € y 456 km, y la variante económica llegará "más adelante", sin fecha cerrada. Encima se produce en Turquía, por lo que queda fuera del bonus UE del Plan Auto+. Es el modelo que más autonomía entrega por euro... cuando la gama se complete.
+**Hyundai Ioniq 3.** La gran baza coreana: plataforma dedicada e-GMP, **hasta 497 km WLTP** y tecnología seria (V2L, Pleos Connect, aparcamiento remoto desde el móvil) por un precio de ataque anunciado de 29.995 €. Pero la letra pequeña pesa: hoy solo se vende el N Line de 39.390 € con 456 km, y la versión barata llegará "más adelante" sin fecha. Además se fabrica en Turquía, así que no accede al bonus UE del Plan Auto+. Es el coche del que más autonomía saca por euro... cuando la gama esté completa.
 
-**Renault 5 E-Tech.** El icono francés ya rueda por nuestras calles: la gama 2026 entrega 315 km con la batería de 40 kWh y 430 km con la de 52 kWh, con tarifas oficiales entre 28.085 € y 36.585 €. Su gran baza es el precio real: sumando promociones, certificados de ahorro de energía y el Plan Auto+ (se produce en Europa), el Evolution de 120 CV baja hasta **20.170 €**. Diseño que enamora, talleres y tiendas Renault por todo el país y el "5" del capó que muestra la carga. Queda pendiente la versión de acceso Five, todavía sin fecha para pedirla.
+**Renault 5 E-Tech.** El icono que ya está en la calle: la gama 2026 rinde **315 km** (40 kWh) y **430 km** (52 kWh), con precios oficiales de 28.085 € a 36.585 €. La jugada maestra es el precio real: con promociones, certificados de ahorro energético y el Plan Auto+ (se fabrica en Europa), el Evolution de 120 CV se queda en **20.170 €**. Diseño que enamora, red comercial en cada provincia y el "5" del capó que indica la carga. Pendiente: la versión de acceso Five, aún sin fecha de pedidos.
 
-**BYD Dolphin Surf.** El que rompe los precios: el MY26 arregla el gran "pero" del anterior y ya brinda 5 plazas reales. La variante Boost, con batería de 43,2 kWh, 322 km y 88 CV, cuesta 24.490 €, y tras las ayudas el importe baja a **12.605 €**: no existe otra etiqueta Cero más económica. La Comfort (156 CV, 310 km) asciende a 26.990 €. Sus puntos débiles: una red de servicio más joven que las de Renault o Hyundai, y un valor de reventa todavía por demostrar en España.
+**BYD Dolphin Surf.** El rompeprecios: el MY26 corrige el gran "pero" del anterior y ya ofrece **5 plazas** de verdad. La versión Boost (43,2 kWh, 322 km, 88 CV) sale por 24.490 €, y con ayudas el precio cae a **12.605 €**: no hay etiqueta Cero más barata. La Comfort (156 CV, 310 km) sube a 26.990 €. En contra: red de servicio más joven que la de Renault o Hyundai, y valor de reventa aún por demostrar en España.
 
 <img src=/media/hyundai-ioniq-3-vs-renault-5-vs-dolphin-surf-cual-comprar-carga.webp alt=Coche eléctrico compacto cargando en una estación de carga rápida de noche en Madrid>
 
-## Puntos fuertes y débiles
+## Pros y contras
 
 **Hyundai Ioniq 3:**
-- ✅ Un maletero de 441 + 114 L, el mayor del trío
-- ✅ Autonomía máxima de 497 km WLTP, la más alta de los tres
-- ✅ Arquitectura e-GMP propia, con V2L y Pleos Connect
-- ✅ Marca asentada con una red amplia en España
-- ❌ La variante de 29.995 € todavía no está a la venta
-- ❌ Producido en Turquía: pierde el bonus UE del Plan Auto+
-- ❌ Solo está en venta el N Line, a 39.390 €
+- ✅ Hasta 497 km WLTP: la mayor autonomía del trío
+- ✅ Plataforma e-GMP dedicada, V2L y Pleos Connect
+- ✅ Maletero de 441 + 114 L: el más capaz
+- ✅ Marca consolidada con gran red en España
+- ❌ La versión de 29.995 € aún no se puede comprar
+- ❌ Fabricado en Turquía: sin bonus UE del Plan Auto+
+- ❌ El N Line que sí se vende cuesta 39.390 €
 
 **Renault 5 E-Tech:**
-- ✅ Con ayudas se queda en 20.170 €, un precio real sin rival en su nivel
-- ✅ Hasta 430 km WLTP con la batería de 52 kWh
-- ✅ Hecho en Europa: ayudas máximas y red completa
-- ✅ Estética icónica y etiqueta Cero
-- ❌ Sin ayudas arranca en 28.085 €, un salto considerable
-- ❌ Maletero de 326 L, el más pequeño del trío
-- ❌ La Five de acceso sigue sin fecha
+- ✅ 20.170 € con ayudas: precio real imbatible en su nivel
+- ✅ 430 km WLTP en la versión de 52 kWh
+- ✅ Fabricado en Europa: máximas ayudas y red total
+- ✅ Diseño icónico y etiqueta Cero
+- ❌ Sin ayudas parte de 28.085 €, un salto notable
+- ❌ Maletero de 326 L, el más justo
+- ❌ La versión Five más barata sigue pendiente
 
 **BYD Dolphin Surf:**
-- ✅ Desde 12.605 € con ayudas, el cinco plazas eléctrico más barato
-- ✅ La Boost alcanza 322 km WLTP por 24.490 €
-- ✅ La Comfort ofrece 156 CV por 26.990 €
-- ✅ Garantía BYD de 6 años
-- ❌ Carga DC de 85 kW, la más lenta del trío
-- ❌ Posventa con menos años en España
-- ❌ Valor de reventa todavía incierto
+- ✅ 12.605 € con ayudas: el eléctrico con 5 plazas más barato
+- ✅ 322 km WLTP en la Boost por 24.490 €
+- ✅ Versión Comfort con 156 CV por 26.990 €
+- ✅ Garantía de 6 años de BYD
+- ❌ 85 kW de carga DC: el más lento cargando
+- ❌ Red posventa más joven en España
+- ❌ Reventa futura aún incierta
 
-## La recomendación final
+## Veredicto: ¿cuál comprar?
 
-**Elige el BYD Dolphin Surf si** el dinero aprieta y te mueves sobre todo por ciudad y alrededores: con 12.605 € tras las ayudas no hay otro cinco plazas con etiqueta Cero. Es la opción más racional.
+**Compra el BYD Dolphin Surf si** el presupuesto manda y tu uso es urbano e interurbano: por 12.605 € con ayudas no existe nada con 5 plazas y etiqueta Cero. Es la compra racional pura.
 
-**Quédate con el Renault 5 E-Tech si** será tu único coche y quieres salir a carretera sin darle vueltas: por alrededor de 7.500 € sobre el BYD con ayudas sumas 108 km de autonomía, 150 CV, una carga más veloz y el respaldo de la red Renault. El punto medio del trío.
+**Compra el Renault 5 E-Tech si** es tu único coche y quieres salir de la ciudad sin pensar: por unos 7.500 € más que el BYD (con ayudas) ganas 108 km de autonomía, 150 CV, carga más rápida y la tranquilidad de la red Renault. El equilibrio del trío.
 
-**Apuesta por el Hyundai Ioniq 3 si** viajas lejos con frecuencia y tienes paciencia: solo su versión Long Range, con 497 km, permite cubrir el Madrid-Valencia sin detenerse a cargar. Pero no te lances al N Line de 39.390 € sin pensarlo: aguarda a que llegue la Standard Range de 29.995 € o aprieta en la negociación.
+**Compra el Hyundai Ioniq 3 si** haces viajes largos a menudo y puedes esperar: la Long Range de 497 km es la única que te deja hacer Madrid-Valencia sin parar a cargar. Pero no compres el N Line de 39.390 € por impulso: espera a la Standard Range de 29.995 € o negocia fuerte.
 
-Para afinar tu elección, compara directamente el <a href=/comparador-coches/?a=hyundai-ioniq-3-2026-precio-autonomia&b=renault-5-e-tech-2026-precio-autonomia>comparador del Ioniq 3 y el Renault 5 E-Tech</a> y consulta los <a href=/blog/hyundai-ioniq-3-precio-espana-2026/>análisis completos del Hyundai Ioniq 3</a>, el <a href=/blog/renault-5-e-tech-2026-precio-autonomia/>Renault 5 E-Tech</a> y el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf MY26</a>. Las fichas completas están en la <a href=/coches/hyundai-ioniq-3-2026-precio-autonomia/>ficha del Hyundai Ioniq 3</a>, la <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>ficha del Renault 5 E-Tech</a> y la <a href=/coches/byd-dolphin-surf-precio-ficha-tecnica/>ficha del BYD Dolphin Surf</a>. Como los tres son Cero, también te vendrá bien la <a href=/guias/zbe/>guía de etiquetas y ZBE</a> si tienes dudas.
+Puedes afinar la decisión en nuestro <a href=/comparador-coches/?a=hyundai-ioniq-3-2026-precio-autonomia&b=renault-5-e-tech-2026-precio-autonomia>comparador del Ioniq 3 y el Renault 5 E-Tech</a>, y leer los <a href=/blog/hyundai-ioniq-3-precio-espana-2026/>análisis completos del Hyundai Ioniq 3</a>, el <a href=/blog/renault-5-e-tech-2026-precio-autonomia/>Renault 5 E-Tech</a> y el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf MY26</a>. Tienes las fichas detalladas en <a href=/coches/hyundai-ioniq-3-2026-precio-autonomia/>ficha del Hyundai Ioniq 3</a>, <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>ficha del Renault 5 E-Tech</a> y <a href=/coches/byd-dolphin-surf-precio-ficha-tecnica/>ficha del BYD Dolphin Surf</a>. Los tres llevan etiqueta Cero: repasa nuestra <a href=/guias/zbe/>guía de etiquetas y ZBE</a> si tienes dudas.
 
 Fuentes: <a href=https://www.hyundai.es>Hyundai España</a>, <a href=https://www.renault.es>Renault España</a> y <a href=https://www.byd.com/es>BYD España</a>.
 
-## El vídeo oficial
+## Míralo en vídeo
 
 <iframe src=https://www.youtube.com/embed/wbjUokbtE70 title="Vídeo: Hyundai Ioniq 3, presentación oficial" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
@@ -1078,28 +1068,29 @@ Vídeo: <a href=https://www.youtube.com/watch?v=wbjUokbtE70>Hyundai España</a> 
 
 ## Preguntas frecuentes
 
-### ¿Cuál de los tres sale más barato?
-El BYD Dolphin Surf: su PVP arranca en 20.140 € y desciende a 12.605 € con ayudas. Después, el Renault 5 E-Tech con ayudas (20.170 €). El Hyundai Ioniq 3 anuncia 29.995 € para la variante de acceso, todavía sin vender.
+### ¿Cuál es el compacto eléctrico más barato de los tres?
+El BYD Dolphin Surf: parte de 20.140 € de PVP y baja a 12.605 € con ayudas. Le sigue el Renault 5 E-Tech (20.170 € con ayudas) y el Hyundai Ioniq 3 (29.995 € anunciados para la versión de acceso, aún no a la venta).
 
-### ¿Quién recorre más kilómetros con una carga?
-El Hyundai Ioniq 3, con un máximo de 497 km WLTP en la Long Range. El Renault 5 E-Tech alcanza 430 km con la batería de 52 kWh, y el Dolphin Surf se queda en 322 km (Boost).
+### ¿Cuál tiene más autonomía?
+El Hyundai Ioniq 3, con hasta 497 km WLTP en la versión Long Range. El Renault 5 E-Tech llega a 430 km (52 kWh) y el Dolphin Surf a 322 km (Boost).
 
-### ¿Cuál recupera antes la batería?
-El Hyundai Ioniq 3 necesita unos 29 minutos para pasar del 10 al 80 %. El Renault 5 E-Tech admite 100 kW en corriente continua, y el Dolphin Surf se queda en 85 kW, el más lento de los tres.
+### ¿Cuál carga más rápido?
+El Hyundai Ioniq 3 recupera del 10 al 80 % en unos 29 minutos. El Renault 5 E-Tech carga a 100 kW en DC y el Dolphin Surf a 85 kW, el más lento del trío.
 
-### ¿Llevan los tres la etiqueta Cero?
-Sí: al ser eléctricos puros, los tres portan la etiqueta Cero de la DGT y acceden a todas las zonas de bajas emisiones.
+### ¿Los tres tienen etiqueta Cero?
+Sí, los tres son eléctricos puros y llevan la etiqueta Cero de la DGT, así que entran en todas las zonas de bajas emisiones.
 
-### ¿Cuál conviene si solo voy a tener un coche?
-El Renault 5 E-Tech por su equilibrio entre precio real con ayudas, 430 km y red Renault, o bien el Ioniq 3 Long Range de Hyundai si viajas lejos y puedes aguardar a la variante de acceso. El Dolphin Surf no tiene rival por precio, pero queda más limitado para viajar.
+### ¿Cuál recomiendan como único coche?
+El Renault 5 E-Tech por equilibrio (precio real con ayudas, 430 km, red Renault) o el Hyundai Ioniq 3 Long Range si haces viajes largos y puedes esperar a la versión de acceso. El Dolphin Surf es imbatible por precio, pero más limitado para viajar.
 
-Si te notifican una sanción que consideras errónea, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de abonarla.`,
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+`,
   },
 
   {
-    title: "Leapmotor B05 frente a GAC AION UT: ¿cuál elegir?",
+    title: "Leapmotor B05 vs GAC AION UT: el duelo chino barato",
     slug: "leapmotor-b05-vs-gac-aion-ut-cual-comprar",
-    excerpt: "B05 (23.775 €, 218 CV, 482 km) contra AION UT (30.995 €, 204 CV, 430 km): dos compactos eléctricos chinos con 5 estrellas Euro NCAP y un veredicto claro.",
+    excerpt: "Leapmotor B05 (23.775 €, 218 CV, hasta 482 km) vs GAC AION UT (30.995 €, 204 CV, 430 km): duelo de los compactos eléctricos chinos con 5 estrellas Euro NCAP. Tablas, diferencias reales y veredicto.",
     category: "Novedades Motor",
     date: "2026-10-11",
     readTime: 8,
@@ -1115,9 +1106,9 @@ Si te notifican una sanción que consideras errónea, <a href=https://recurretum
 
 **¿Buscas solo los datos?** <a href=/coches/leapmotor-b05-2026-precio-ficha-tecnica/>Ver ficha del Leapmotor B05</a> · <a href=/coches/aion-ut-2025-precio-ficha-tecnica/>Ver ficha del GAC AION UT</a> · <a href=/comparador-coches/>Compararlos cara a cara</a>.
 
-Dos compactos eléctricos procedentes de China y dos planteamientos distintos. El Leapmotor B05 parte de 23.775 €, rinde 218 CV y ostenta 5 estrellas Euro NCAP, con Stellantis detrás. El GAC AION UT arranca en 30.995 €, se monta en Graz (Austria) de la mano de Magna Steyr y ofrece un maletero mayor. Ambos se enfrentan, en realidad, a los mismos adversarios de referencia: el MG4 y el ID.3.
+Dos chinos, dos compactos eléctricos, dos filosofías. El **Leapmotor B05** (23.775 €) es el ariete de Stellantis para el segmento: barato, con 218 CV y 5 estrellas Euro NCAP. El **GAC AION UT** (30.995 €) llega con el sello de Magna Steyr (se ensambla en Graz, Austria) y más maletero. Los dos pelean contra el mismo rival invisible: el MG4 y el ID.3.
 
-## Los números, frente a frente
+## La tabla: cara a cara
 
 |  | **Leapmotor B05** | **GAC AION UT** |
 |---|---|---|
@@ -1140,43 +1131,43 @@ Dos compactos eléctricos procedentes de China y dos planteamientos distintos. E
 
 <img src=/media/leapmotor-b05-vs-gac-aion-ut-cual-comprar-carga.webp alt=Coche eléctrico compacto cargando de noche en una estación de carga rápida en Madrid>
 
-## Ventajas de uno y de otro
+## Dónde gana cada uno
 
-El B05 se impone en tarifa, con 7.220 € menos, en potencia, con 218 CV y propulsión trasera que lo hacen más divertido, en velocidad de recarga, con 156 kW frente a 87 kW, y en alcance máximo, con 482 km gracias a la batería grande. Y, cuando Stellantis lo produzca en Zaragoza, quedará al margen de los aranceles por su origen.
+**El B05 gana en:** precio (7.220 € más barato en tarifa), potencia (218 CV con propulsión trasera, más divertido), carga rápida (156 kW frente a 87 kW) y autonomía máxima (482 km con la batería grande). Además, cuando Stellantis lo fabrique en Zaragoza esquivará los aranceles por definición.
 
-El AION UT responde con un maletero de 440 L, claramente por encima de los 345 L del rival, una diferencia que se agradece a diario, con fabricación europea a cargo de Magna Steyr en Austria, ya libre de aranceles, con recarga bidireccional V2L de 3,3 kW y con 29 puntos de venta iniciales del Grupo Invicta repartidos por España.
+**El AION UT gana en:** maletero (440 L frente a 345 L: casi 100 litros de diferencia, se nota cada día), fabricación europea (Magna Steyr en Austria, sin aranceles ya hoy), carga bidireccional V2L de 3,3 kW y red inicial de 29 puntos del Grupo Invicta en España.
 
-Conviene leer con calma las condiciones del UT: su campaña de lanzamiento desde 22.945 € pedía financiar con Banco Cetelem durante 60 meses, con un TIN del 10,99 % y una TAE del 11,56 %, sumaba un anticipo de 4.050 € del Plan Auto+ y arrojaba un importe total a pagar de 29.925,82 €. Aquella campaña finalizó el 30/09/2026, así que conviene revisar qué oferta la ha sustituido antes de firmar.
+La letra pequeña del UT merece un aviso honesto: la campaña de "desde 22.945 €" exigía **financiar con Banco Cetelem a 60 meses (TIN 10,99 %, TAE 11,56 %)**, incluía un adelanto de 4.050 € del Plan Auto+ y dejaba un **total a pagar de 29.925,82 €**. La campaña terminaba el 30/09/2026: comprueba qué oferta la sustituye antes de firmar nada.
 
-## El consejo final
+## Nuestra recomendación honesta
 
-Si lo que manda es pagar lo menos posible por cada kilómetro, el B05 resulta imbatible: 7.220 € menos de tarifa, mayor alcance, más potencia y recarga más veloz. Es la opción lógica del segmento.
+Si buscas **el mejor precio por kilómetro**, el B05: 7.220 € menos en tarifa, más autonomía, más potencia y carga más rápida. Es la compra racional del segmento.
 
-Si priorizas el maletero y una red europea, el AION UT convence: 440 litros, montaje de Magna en Austria y V2L. Cuesta más, pero entrega un coche más familiar y una marca que ya tiene puntos físicos en España desde el verano.
+Si necesitas **maletero y red europea**, el AION UT: 440 litros, fabricado por Magna en Austria y V2L. Pagas más, pero recibes un coche más familiar y una marca con presencia física en España desde el verano.
 
-El detalle decisivo es sencillo: ninguna de las dos opciones supone equivocarse. Ambas lucen 5 estrellas Euro NCAP y etiqueta Cero. Quédate con el B05 si el precio manda; con el UT si mandan el maletero y la red. Puedes <a href=/comparador-coches/>compararlos con el MG4 y el ID.3 en el comparador</a>.
+El matiz que decide: ninguno de los dos es un error. Los dos tienen 5 estrellas Euro NCAP y etiqueta Cero. Elige el B05 si el precio manda; el UT si el maletero y la red mandan. Puedes <a href=/comparador-coches/>compararlos con el MG4 y el ID.3 en el comparador</a>.
 
 Y un recordatorio de la casa: estrenar coche no te libra de los radares. Si te llega una multa, <a href=/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
 ## Preguntas frecuentes
 
-### ¿Desde qué precio parte el Leapmotor B05?
-Desde 23.775 € de tarifa para la versión de 56,2 kWh. La marca comunica un punto de partida de 19.500 € sumando ayudas, financiación y Plan Auto+.
+### ¿Cuánto cuesta el Leapmotor B05 en España?
+Tarifa oficial desde **23.775 €** (versión de 56,2 kWh). La marca anuncia desde **19.500 € con ayudas**, financiación y Plan Auto+.
 
-### ¿Y el precio del GAC AION UT?
-Parte de 30.995 € de tarifa en el acabado Premium y de 31.995 € en el Luxury. Su campaña de lanzamiento partía de 22.945 € con financiación Cetelem y anticipo del Plan Auto+.
+### ¿Cuánto cuesta el GAC AION UT en España?
+Tarifa oficial desde **30.995 €** (Premium) y 31.995 € (Luxury). La campaña de lanzamiento ofrecía desde 22.945 € con financiación Cetelem y adelanto del Plan Auto+.
 
-### ¿Qué alcance homologa cada uno?
-El B05 anuncia un máximo de 482 km WLTP gracias a su batería de 67,1 kWh. En el AION UT, la batería LFP de 60 kWh firma 430 km WLTP, que suben a 620 km en uso urbano.
+### ¿Qué autonomía tienen?
+El B05 llega hasta **482 km WLTP** con la batería de 67,1 kWh; el AION UT homologa **430 km WLTP** (620 km en uso urbano) con su batería LFP de 60 kWh.
 
-### ¿Qué puntuación de seguridad obtienen?
-La seguridad está al máximo nivel en ambos: 5 estrellas Euro NCAP para los dos, con un 92 % de protección de ocupantes en el B05 y un 91 % en el AION UT.
+### ¿Son seguros? ¿Qué nota tienen en Euro NCAP?
+Los dos tienen **5 estrellas Euro NCAP**: el B05 con un 92 % en protección de ocupante y el AION UT con un 91 %.
 
-### ¿Cuál ofrece mayor maletero?
-El AION UT: 440 litros, ampliables a 1.600 abatiendo los asientos, mientras el B05 se queda en 345.
+### ¿Cuál tiene más maletero?
+El **AION UT: 440 litros** (1.600 con los asientos abatidos) frente a los 345 del B05.
 
-### ¿Dónde se monta cada modelo?
-El AION UT sale de la planta de Graz, en Austria, operada por Magna Steyr; el B05 se produce en China, aunque Stellantis prevé fabricarlo en Figueruelas (Zaragoza).
+### ¿Dónde se fabrican?
+El AION UT se ensambla en **Graz, Austria (Magna Steyr)**; el B05 se fabrica en China, con producción prevista en **Figueruelas (Zaragoza)** por Stellantis.
 
 **También te puede interesar:** <a href=/coches/leapmotor-b05-2026-precio-ficha-tecnica/>ficha del Leapmotor B05</a> · <a href=/coches/aion-ut-2025-precio-ficha-tecnica/>ficha del GAC AION UT</a> · <a href=/blog/salon-paris-2026-20-marcas-chinas-aranceles/>París 2026: la invasión china</a> · <a href=/comparador-coches/>comparador de coches eléctricos</a> · <a href=/#analizador>analiza tu multa gratis</a>.
 
@@ -1184,9 +1175,9 @@ El AION UT sale de la planta de Graz, en Austria, operada por Magna Steyr; el B0
   },
 
   {
-    title: "GAC Aion V vs Deepal S05: duelo eléctrico chino 2026",
+    title: "GAC Aion V vs Deepal S05: cuál comprar",
     slug: "aion-v-vs-deepal-s05-cual-comprar",
-    excerpt: "El Aion V cuesta 37.995 € y promete 510 km; el S05 baja a 37.390 € con 272 CV y 200 kW de carga. Autonomía, maletero y garantía, comparados.",
+    excerpt: "GAC Aion V (37.995 €, 204 CV, 510 km) vs Deepal S05 (37.390 €, 272 CV, 485 km): duelo de los SUV eléctricos chinos que más están dando que hablar. Tabla comparativa, análisis honesto y veredicto.",
     category: "Novedades Motor",
     date: "2026-10-12",
     readTime: 8,
@@ -1205,13 +1196,13 @@ El AION UT sale de la planta de Graz, en Austria, operada por Magna Steyr; el B0
 
 **¿Buscas solo los datos?** <a href=/coches/aion-v-2025-precio-ficha-tecnica/>Ver ficha del GAC Aion V</a> · <a href=/coches/deepal-s05-2026-precio-ficha-tecnica/>Ver ficha del Deepal S05</a> · <a href=/comparador-coches/?a=aion-v-2025-precio-ficha-tecnica&b=deepal-s05-2026-precio-ficha-tecnica>Compararlos cara a cara</a>.
 
-Ambos proceden de fabricantes chinos, ambos militan entre los SUV eléctricos del segmento C y sus tarifas distan apenas 605 €. El GAC Aion V, anunciado en 37.995 €, apuesta por recorrer más kilómetros por carga y por salir de una factoría europea: homologa 510 km WLTP y se monta en Graz (Austria), en las instalaciones de Magna Steyr. Frente a él, el Deepal S05, firmado por la división eléctrica de Changan y tasado en 37.390 €, responde con mayor entrega de potencia, un compartimento de carga más generoso y la recarga más veloz de su escalón de precios.
+Dos chinos, dos SUV eléctricos del segmento C, y solo 605 € de diferencia en tarifa. El **GAC Aion V** (37.995 €) juega la carta de la autonomía y la fabricación europea: 510 km WLTP y ensamblaje en la planta de Magna Steyr en Graz (Austria). El **Deepal S05** (37.390 €), la submarca eléctrica de Changan, contraataca con más potencia, más maletero y la carga más rápida de su precio.
 
-Si hubiera que resumir el duelo en una frase, quedaría así: el S05 ofrece el conjunto más redondo por cada euro invertido, mientras el Aion V recorre la mayor distancia con un solo llenado de batería. El resto de matices aparece desglosado en la comparativa numérica que sigue.
+La respuesta corta: **el Deepal S05 es el coche más completo por el dinero; el Aion V es el que más lejos llega con una carga**. Los detalles deciden, y están en la tabla.
 
-Consulta las fichas detalladas de cada modelo: <a href=/coches/aion-v-2025-precio-ficha-tecnica/>ver ficha técnica completa del GAC Aion V</a> · <a href=/coches/deepal-s05-2026-precio-ficha-tecnica/>ver ficha técnica completa del Deepal S05</a>.
+Fichas técnicas: <a href=/coches/aion-v-2025-precio-ficha-tecnica/>ver ficha técnica completa del GAC Aion V</a> · <a href=/coches/deepal-s05-2026-precio-ficha-tecnica/>ver ficha técnica completa del Deepal S05</a>.
 
-## Comparativa numérica directa
+## La tabla: cara a cara
 
 |  | **GAC Aion V** | **Deepal S05** |
 |---|---|---|
@@ -1239,48 +1230,51 @@ Consulta las fichas detalladas de cada modelo: <a href=/coches/aion-v-2025-preci
 
 <img src=/media/aion-v-vs-deepal-s05-cual-comprar-cuerpo.webp alt=Interiores del GAC Aion V y del Deepal S05, comparativa de pantallas y salpicaderos>
 
-## Ventajas de cada modelo
+## Dónde gana cada uno
 
-El S05 se impone en varios apartados decisivos. Arranca 605 € por debajo en tarifa, entrega 272 CV a las ruedas traseras —una configuración que hace la conducción más entretenida—, acelera hasta 100 km/h en 7,5 s y alcanza 180 km/h de punta. Su recarga en continua admite 200 kW y recupera del 30 al 80 % en 15 minutos, el registro más veloz de su franja de precio. El hueco trasero cubica 492 L y se suma un compartimento frontal de 152 L, mientras el rival ofrece 427 L detrás. Además admite remolcar 1.600 kg, una cifra poco habitual en este segmento, e incluye V2L de 6,6 kW. Según la prueba de <a href=https://testcoches.es/pruebas/probe-el-deepal-s05-buscandole-defectos-a-proposito-y-solo-le-he-encontrado-tres/>TestCoches</a>, la variante de tracción trasera completa sin apuros recorridos de alrededor de 300 kilómetros reales por autopista.
+**El Deepal S05 gana en:** precio (605 € menos en tarifa), potencia (272 CV con propulsión trasera, más divertido de conducir), aceleración (7,5 s) y velocidad punta (180 km/h), carga rápida (200 kW: 15 minutos del 30 al 80 %, lo más rápido de su precio), maletero (492 L + frunk de 152 L frente a 427 L), capacidad de remolque (1.600 kg, rarísimo en el segmento) y V2L de 6,6 kW. En la prueba de <a href=https://testcoches.es/pruebas/probe-el-deepal-s05-buscandole-defectos-a-proposito-y-solo-le-he-encontrado-tres/>TestCoches</a>, "la versión de propulsión trasera se planta sin dificultad en tiradas de unos 300 kilómetros reales en autopista".
 
-El Aion V, por su parte, domina en otros terrenos. Homologa 510 km WLTP, es decir, 25 km por encima del S05, gracias a una batería LFP de 75,26 kWh. Su montaje europeo en Graz, en la factoría de Magna Steyr, le evita aranceles en la actualidad y le abre al máximo las ayudas disponibles. La garantía del vehículo alcanza 8 años, uno más que los 7 del contrincante, y su red de venta inicial en España resulta algo más consolidada, con 29 establecimientos del Grupo Invicta.
+**El GAC Aion V gana en:** autonomía (510 km WLTP, 25 más que el S05), batería más grande (75,26 kWh LFP), fabricación europea (Magna Steyr en Graz: sin aranceles ya hoy y máximo acceso a ayudas), garantía del vehículo (8 años frente a 7) y red comercial inicial algo más asentada (29 puntos del Grupo Invicta en España).
 
 ## Nuestra recomendación honesta
 
-Para quien acumule kilómetros de autopista y busque el vehículo más rentable del enfrentamiento, la elección apunta al Deepal S05: desembolsando 605 € menos se obtienen 68 CV adicionales, tracción trasera, una recarga ultrarrápida auténtica y un maletero que roza los 500 litros, al que se añade el frunk. Representa la opción lógica del duelo.
+Si haces **mucha autopista y quieres el mejor coche por el dinero**, el Deepal S05: por 605 € menos te llevas 68 CV extra, propulsión trasera, carga ultrarrápida de verdad y un maletero de casi 500 litros más frunk. Es la compra racional del duelo.
 
-En cambio, si la prioridad consiste en estirar cada carga al máximo y contar con una garantía que dé tranquilidad, el Aion V encaja mejor: ofrece 510 km WLTP, una batería LFP de 75 kWh que admite cargas al 100 % sin temor, montaje en Austria y 8 años de cobertura del coche. Cuesta algo más y corre algo menos, pero constituye la alternativa prudente.
+Si priorizas **llegar más lejos con cada carga y dormir tranquilo con la garantía**, el Aion V: 510 km WLTP, batería LFP de 75 kWh que puedes cargar al 100 % sin miedo, ensamblado en Austria y 8 años de garantía del coche. Pagas un poco más y corres un poco menos, pero compras la opción conservadora.
 
-Conviene cerrar con una precisión: ninguno de los dos supone una equivocación. Ambos lucen la máxima nota de Euro NCAP, 5 estrellas, además de etiqueta Cero y acumuladores LFP pensados para durar muchos años. Decántate por el S05 cuando el presupuesto y el rendimiento pesen más en la balanza; opta por el Aion V cuando la distancia por carga y el origen europeo resulten determinantes. Para perfilar la elección, entra en nuestro <a href=/comparador-coches/?a=aion-v-2025-precio-ficha-tecnica&b=deepal-s05-2026-precio-ficha-tecnica>comparador del Aion V y el Deepal S05</a>, y consulta el <a href=/coches/aion-v-2025-precio-ficha-tecnica/>análisis completo del GAC Aion V</a> y el <a href=/coches/deepal-s05-2026-precio-ficha-tecnica/>análisis completo del Deepal S05</a>.
+El matiz que decide: ninguno de los dos es un error. Los dos tienen 5 estrellas Euro NCAP, etiqueta Cero y baterías LFP de larga vida. Elige el S05 si el precio y las prestaciones mandan; el Aion V si la autonomía y la fabricación europea mandan. Puedes afinar la decisión en nuestro <a href=/comparador-coches/?a=aion-v-2025-precio-ficha-tecnica&b=deepal-s05-2026-precio-ficha-tecnica>comparador del Aion V y el Deepal S05</a>, y leer el <a href=/coches/aion-v-2025-precio-ficha-tecnica/>análisis completo del GAC Aion V</a> y el <a href=/coches/deepal-s05-2026-precio-ficha-tecnica/>análisis completo del Deepal S05</a>.
 
-Y un apunte final: comprar un coche nuevo no te exime de los radares. Si recibes una sanción, <a href=/#analizador>analízala gratis con nuestra IA</a> antes de abonarla.
+
+Y un recordatorio de la casa: estrenar coche no te libra de los radares. Si te llega una multa, <a href=/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
 ## Míralo en vídeo
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/3RL03XWPaFQ title="Primera prueba del Deepal S05 en España por SoyMotor" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
-Grabación: <a href=https://www.youtube.com/watch?v=3RL03XWPaFQ>SoyMotor</a> en YouTube — primer contacto con el Deepal S05 en territorio español.
+Vídeo: <a href=https://www.youtube.com/watch?v=3RL03XWPaFQ>SoyMotor</a> en YouTube — primera prueba del Deepal S05 en España.
 
 ## Preguntas frecuentes
 
-### ¿Qué modelo sale más económico, el Aion V de GAC o el S05 de Deepal?
-El S05 de Deepal: arranca en 37.390 €, es decir, 605 € por debajo de los 37.995 € del Aion V de GAC, según las tarifas recogidas en nuestras fichas.
+### ¿Cuál es más barato, el GAC Aion V o el Deepal S05?
+El **Deepal S05**: parte de **37.390 €**, 605 € menos que los **37.995 €** del GAC Aion V según las tarifas de nuestras fichas.
 
-### ¿Cuál recorre más kilómetros por carga?
-El Aion V de GAC: homologa 510 km WLTP gracias a su acumulador LFP de 75,26 kWh, mientras el S05 de Deepal se queda en 485 km con una batería de 68,8 kWh.
+### ¿Cuál tiene más autonomía?
+El **GAC Aion V: 510 km WLTP** con su batería LFP de 75,26 kWh, frente a los 485 km del Deepal S05 (batería de 68,8 kWh).
 
-### ¿Cuál recupera antes la carga en un cargador rápido?
-El S05 de Deepal: acepta 200 kW en continua y sube del 30 al 80 % en alrededor de 15 minutos. El Aion V alcanza 180 kW, con un paso del 10 al 80 % en unos 24 minutos.
+### ¿Cuál carga más rápido?
+El **Deepal S05**: admite **200 kW** en corriente continua y pasa del 30 al 80 % en unos 15 minutos. El Aion V llega a 180 kW (10-80 % en unos 24 minutos).
 
-### ¿Cuál ofrece mayor espacio de carga trasero?
-El S05 de Deepal: 492 litros en la parte trasera, más un compartimento delantero de 152 L, en comparación con los 427 L del Aion V.
+### ¿Cuál tiene más maletero?
+El **Deepal S05**: **492 litros** detrás más un frunk delantero de 152 L, frente a los 427 L del Aion V.
 
-### ¿Ambos alcanzan la máxima nota en Euro NCAP?
-Sí, los dos han logrado la nota máxima, 5 estrellas, en los ensayos de Euro NCAP.
+### ¿Los dos tienen 5 estrellas Euro NCAP?
+Sí, ambos han obtenido la **máxima calificación de 5 estrellas** en las pruebas de Euro NCAP.
 
-### ¿En qué lugar se monta cada modelo?
-El Aion V de GAC sale de la planta de Graz, en Austria, gestionada por Magna Steyr, como parte del plan europeo de GAC; el S05 de Deepal procede de China, donde lo produce Changan.
+### ¿Dónde se fabrica cada uno?
+El GAC Aion V se ensambla en **Graz, Austria (Magna Steyr)**, dentro de la estrategia europea de GAC; el Deepal S05 se fabrica en **China** (Changan).
 
-**También te puede interesar:** <a href=/coches/aion-v-2025-precio-ficha-tecnica/>ficha del GAC Aion V</a> · <a href=/coches/deepal-s05-2026-precio-ficha-tecnica/>ficha del Deepal S05</a> · <a href=/coches/deepal-s05-awd-2026-precio-ficha-tecnica/>Deepal S05 AWD: 435 CV por 40.390 €</a> · <a href=/blog/salon-paris-2026-20-marcas-chinas-aranceles/>París 2026: la invasión china</a> · <a href=/comparador-coches/>comparador de coches eléctricos</a> · <a href=/#analizador>analiza tu multa gratis</a>.`
+**También te puede interesar:** <a href=/coches/aion-v-2025-precio-ficha-tecnica/>ficha del GAC Aion V</a> · <a href=/coches/deepal-s05-2026-precio-ficha-tecnica/>ficha del Deepal S05</a> · <a href=/coches/deepal-s05-awd-2026-precio-ficha-tecnica/>Deepal S05 AWD: 435 CV por 40.390 €</a> · <a href=/blog/salon-paris-2026-20-marcas-chinas-aranceles/>París 2026: la invasión china</a> · <a href=/comparador-coches/>comparador de coches eléctricos</a> · <a href=/#analizador>analiza tu multa gratis</a>.
+
+`
   },
 ];

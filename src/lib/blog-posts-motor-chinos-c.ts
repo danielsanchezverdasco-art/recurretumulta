@@ -8,7 +8,7 @@ export const MOTOR_CHINOS_C_POSTS: BlogPost[] = [
   {
     title: "XPeng G6 2026: carga de 451 kW desde 43.083 €",
     slug: "xpeng-g6-2026-restyling-precio-espana",
-    excerpt: "El G6 renovado adopta LFP en toda la gama y recupera del 10 al 80 % en 12 minutos gracias a sus 451 kW, con tarifa española desde 43.083 €. Lo desgranamos.",
+    excerpt: "El XPeng G6 se actualiza: batería LFP en toda la gama, carga de 451 kW (10-80 % en 12 minutos) y precio desde 43.083 € en España. Análisis y rivales.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -25,39 +25,39 @@ export const MOTOR_CHINOS_C_POSTS: BlogPost[] = [
 
 **¿Buscas solo los datos?** <a href=/coches/xpeng-g6-2026-restyling-precio-espana/>Ver ficha técnica del XPeng G6 2026</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-Antes de la renovación, el G6 ya figuraba entre los eléctricos chinos con mejor reputación en nuestro mercado. La puesta al día de 2026 lo sitúa un peldaño por encima: cada versión monta ahora una batería de litio-ferrofosfato y admite una potencia de recarga de 451 kW, suficiente para pasar del 10 al 80 % en 12 minutos. A ese precio, ningún competidor recarga tan deprisa, tampoco el Model Y de Tesla.
+El **XPeng G6** ya era uno de los eléctricos chinos más serios a la venta en España, pero su actualización de 2026 lo pone en otra liga: toda la gama estrena **batería LFP** y una carga rápida de **451 kW** que recupera del 10 al 80 % en **12 minutos**. Ningún rival de su precio carga tan rápido. Ni siquiera el Tesla Model Y se acerca.
 
-El año-modelo MY2026 aterrizó en los concesionarios españoles durante los últimos días de septiembre de 2025. En febrero de 2026 se incorporó la variante de acceso con tracción trasera y autonomía estándar. A continuación repasamos qué varía y cuánto hay que pagar por cada versión.
+El restyling (año-modelo MY2026) llegó a los concesionarios españoles a finales de septiembre de 2025, y en febrero de 2026 se sumó la versión de acceso RWD Standard Range. Esto es todo lo que cambia y lo que cuesta.
 
-Todas las variantes comparten dimensiones de 4.758 mm de largo, 1.920 mm de ancho y 1.650 mm de alto, una distancia entre ejes de 2.890 mm, un maletero de 571 litros ampliable hasta 1.374 L abatiendo los asientos, cinco plazas, conector CCS2 y la etiqueta CERO de la DGT.
+**Comunes a toda la gama:** 4.758 x 1.920 x 1.650 mm, batalla de 2.890 mm, maletero de **571 litros** (1.374 L con asientos abatidos), 5 plazas, conector CCS2 y **etiqueta CERO de la DGT**.
 
-La propia km77 lo advierte con franqueza: al pasar a LFP se pierde algo de alcance, de modo que la autonomía queda algo por debajo de la del modelo previo. A cambio, la batería sale más económica, resulta más estable y tolera esa carga a 5C sin inmutarse.
+Un matiz honesto que reconoce la propia km77: la química LFP sacrifica algo de alcance, así que **la autonomía es ligeramente inferior a la del modelo anterior**. A cambio, la batería es más barata, más estable y admite esa carga de 5C sin despeinarse.
 
-## Tarifas y gama en España
+## Precio y versiones en España
 
-Tres variantes, con la tarifa que publica km77 (06/2026, sin descuentos):
+Tres versiones, con tarifa publicada en km77 (06/2026, sin descuentos):
 
-- La de acceso, con tracción trasera y batería estándar, arranca en 43.083 €, rinde 252 CV y homologa 455 km.
-- La de tracción trasera y gran autonomía parte de 47.083 €, entrega 296 CV y alcanza 535 km.
-- La de tracción total y enfoque deportivo sale desde 53.083 €, con 487 CV y 510 km.
+- **RWD Standard Range:** desde **43.083 €** (252 CV, 455 km)
+- **RWD Long Range:** desde **47.083 €** (296 CV, 535 km)
+- **AWD Performance:** desde **53.083 €** (487 CV, 510 km)
 
-Conviene no fiarse de cualquier cifra que circule: autonocion recoge importes algo superiores (47.289 / 52.289 / 58.289 €); testcoches, por su lado, cita 42.380 € como arranque, seguramente con campaña incluida. En mayo de 2025, Europa Press publicó una nota con 42.559 €, cifra del modelo previo al restyling y no de este.
+Ojo con los precios que circulan por ahí: autonocion lista cifras algo distintas (47.289 / 52.289 / 58.289 €) y testcoches menciona 42.380 € como precio de arranque, probablemente con campaña. Y los 42.559 € de la nota de Europa Press de mayo de 2025 corresponden al modelo **pre-restyling**, no a este.
 
 <img src=/media/xpeng-g6-2026-restyling-precio-espana-oficial.webp alt=XPeng G6 2026, SUV coupé eléctrico, vista tres cuartos>
 
 <img src=/media/xpeng-g6-2026-restyling-precio-espana-interior-oficial-2.webp alt=Interior oficial del xpeng g6 2026 restyling precio espana>
 
-¿Te cuadran las cifras? <a href=/mejor-coche-por-presupuesto/>Revisa qué modelo se ajusta a lo que puedes gastar</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
-## Detalles curiosos que quizás desconocías
+## Curiosidades que quizá no sabías
 
-- El nombre procede de un magnate de internet: XPeng nació en 2014 de la mano de dos antiguos directivos de GAC y debe su denominación a He Xiaopeng, fundador de UCWeb (adquirida por Alibaba) y presidente actual de la compañía. Entre los primeros inversores figuraban el creador de Xiaomi y la propia Alibaba.
-- Volkswagen participa como accionista: la firma alemana desembolsó alrededor de 700 millones de dólares a cambio del 4,99 % de la compañía en 2023. De esa alianza nació el primer automóvil, el Volkswagen ID.UNYX 08, cuya producción en China comenzó en marzo de 2026.
-- En Euro NCAP logró las cinco estrellas, con un 88 % en la protección de los ocupantes adultos.
-- En China existe una variante de autonomía extendida: XPeng prepara un G6 EREV con un motor 1.5 que actúa como generador y una batería de 55,8 kWh, con la que se rumorea hasta 1.400 km en total. Que llegue a España no está confirmado.
-- Récord con LFP: el G6 se cuenta entre los pioneros eléctricos que usan una batería de litio-ferrofosfato capaz de admitir cargas a 5C. La química LFP frenaba la recarga veloz por su escasa conductividad; XPeng ha quebrado esa barrera.
+- **El nombre viene de un magnate de internet:** XPeng la cofundaron en 2014 dos exdirectivos de GAC y toma su nombre de He Xiaopeng, creador de UCWeb (comprada por Alibaba) y actual presidente de la marca. Entre los inversores iniciales estaban el fundador de Xiaomi y la propia Alibaba.
+- **Volkswagen es accionista:** VW invirtió unos 700 millones de dólares por el 4,99 % de XPeng en 2023. El primer coche fruto de la alianza, el Volkswagen ID.UNYX 08, entró en producción en China en marzo de 2026.
+- **5 estrellas Euro NCAP** con un 88 % en protección de ocupantes adultos.
+- **Existe una versión de autonomía extendida en China:** XPeng prepara un G6 EREV con motor 1.5 como generador y batería de 55,8 kWh (se habla de hasta 1.400 km totales). Su llegada a España **no está confirmada**.
+- **Récord con LFP:** el G6 es de los primeros eléctricos con batería de litio-ferrofosfato capaz de cargar a 5C. La LFP penalizaba la carga rápida por su baja conductividad; XPeng ha roto ese límite.
 
-## Frente a frente: ¿supera al Model Y?
+## Comparativa: ¿mejor que el Model Y?
 
 | | XPeng G6 RWD Long Range | Tesla Model Y Standard RWD | Peugeot E-3008 Long Range |
 |---|---|---|---|
@@ -67,11 +67,11 @@ Conviene no fiarse de cualquier cifra que circule: autonocion recoge importes al
 | **10-80 %** | 12 min | ~25 min | — |
 | **0-100 km/h** | 6,7 s | 7,2 s | — |
 
-La comparativa completa frente al Model Y está aquí: <a href=/blog/xpeng-g6-vs-tesla-model-y-cual-comprar/>Enfrentamiento entre el G6 y el Model Y de Tesla</a>.
+Lo hemos enfrentado en detalle: <a href=/blog/xpeng-g6-vs-tesla-model-y-cual-comprar/>Duelo XPeng G6 vs Tesla Model Y</a>.
 
-El Tesla sale más barato y aprovecha mejor la energía. El Peugeot, en cambio, acredita mayor autonomía. Pero en velocidad de recarga no hay discusión: el G6 dobla al Model Y. Para quien recorra mucha autovía, esos 12 minutos transforman la experiencia.
+El Tesla es más barato y más eficiente; el Peugeot homologa más autonomía. Pero en **velocidad de carga no hay color**: el G6 duplica al Model Y. Para quien viaje mucho por autovía, esos 12 minutos cambian la experiencia.
 
-## Puntos fuertes y débiles
+## Pros y contras
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -83,42 +83,41 @@ El Tesla sale más barato y aprovecha mejor la energía. El Peugeot, en cambio, 
 
 <iframe src=https://www.youtube.com/embed/l8oAPJCL52U title=Prueba del XPeng G6 2026 en español style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem; allowfullscreen></iframe>
 
-Vídeo: prueba en español del restyling, firmada por <a href=https://www.youtube.com/watch?v=l8oAPJCL52U>Testcoches</a> en YouTube.
+Vídeo: <a href=https://www.youtube.com/watch?v=l8oAPJCL52U>Testcoches</a> en YouTube — "¿MEJOR que el TESLA MODEL Y? El XPENG G6 se CARGA A 450 kW", prueba del restyling en español.
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿En cuánto tiempo recarga el XPeng G6 2026?
-Las variantes Long Range y Performance recuperan del 10 al 80 % en 12 minutos (451 kW); la Standard Range necesita el mismo tiempo, con 382 kW. Ningún rival de su segmento recarga tan deprisa.
+### ¿Cuánto tarda en cargar el XPeng G6 2026?
+Del 10 al 80 % en **12 minutos** en las versiones Long Range y Performance (451 kW), y también en 12 minutos la Standard Range (382 kW). Es la carga más rápida de su segmento.
 
-### ¿Qué alcance tiene el XPeng G6 2026?
-455 km en la Standard Range, 535 km en la Long Range con llantas de 18 pulgadas y 510 km en la Performance, siempre en ciclo WLTP.
+### ¿Qué autonomía tiene el XPeng G6 2026?
+455 km (Standard Range), 535 km (Long Range con llantas de 18") y 510 km (Performance), todo en ciclo WLTP.
 
-### ¿Desde qué precio parte el XPeng G6 en España?
-La tarifa arranca en 43.083 € (Standard Range), sigue con 47.083 € (Long Range) y culmina en 53.083 € (Performance), según km77.
+### ¿Cuánto cuesta el XPeng G6 en España?
+La tarifa parte de **43.083 €** (Standard Range), 47.083 € (Long Range) y 53.083 € (Performance), según km77.
 
-### ¿Supera al Tesla Model Y?
-Depende de lo que priorices: el G6 recarga muchísimo más deprisa (451 kW frente a 175 kW) y ofrece más maletero; el Model Y resulta más barato y aprovecha mejor la energía. En aceleración pura, el G6 Performance (4,1 s) también se impone.
+### ¿Es mejor que el Tesla Model Y?
+Depende de qué valores: el G6 carga muchísimo más rápido (451 kW frente a 175 kW) y tiene más maletero; el Model Y es más barato y más eficiente. En prestaciones puras, el G6 Performance (4,1 s) también gana.
 
-### ¿Qué batería monta el nuevo G6?
-Toda la gama 2026 emplea litio-ferrofosfato (LFP), también las versiones superiores que antes montaban NCM.
+### ¿Qué batería lleva el nuevo G6?
+Toda la gama 2026 usa **litio-ferrofosfato (LFP)**, incluidas las versiones superiores que antes montaban NCM.
 
-### ¿Puede entrar en las ZBE?
-Sí: al ser totalmente eléctrico, le corresponde la etiqueta CERO y puede circular por todas las Zonas de Bajas Emisiones sin limitaciones. <a href=https://recurretumulta.online/guias/zbe>Consulta las ZBE donde puede circular</a>. <a href=/calculadora-etiqueta-dgt/>Averigua la etiqueta DGT de cualquier modelo</a>.
+### ¿Tiene etiqueta Cero de la DGT?
+Sí, al ser 100 % eléctrico le corresponde la **etiqueta CERO**, así que entra en todas las <a href=https://recurretumulta.online/guias/zbe>Zonas de Bajas Emisiones</a> sin restricciones. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
-La variante Performance alcanza 202 km/h y entrega 487 CV; recuerda que rebasar los límites en España cuesta dinero: ante una denuncia, <a href=https://recurretumulta.online/#analizador>revísala sin coste con nuestra IA</a> antes de abonar nada.
+Con 202 km/h de velocidad máxima y 487 CV en la versión Performance, conviene recordar que en España superar los límites sale caro: si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
-## Referencias
+## Fuentes
 
-- <a href=https://carnewschina.com/2026/10/23/nios-firefly-launches-60-kwh-battery-version-same-size-same-weight-more-range/>Nota de CarNewsChina sobre la variante de 60 kWh del Firefly de Nio, publicada el 23 de octubre de 2026</a>
-- <a href=https://cnevpost.com/2026/10/23/nio-firefly-launches-60-kwh-battery-pack/>Artículo de CnEVPost sobre el paquete de batería ampliado del Firefly de Nio, del 23 de octubre de 2026</a>
-- <a href=https://www.somoselectricos.com/coches-electricos/nio-revoluciona-coche-electrico-pequeno-560-km-autonomia-bateria-actualizable/20261023104558064636.html>Reportaje de Somos Eléctricos sobre los 560 km del Firefly, del 23 de octubre de 2026</a>
-- <a href=https://www.dgt.es/>DGT: consulta la etiqueta ambiental que te corresponde y las zonas donde puedes circular con ella</a>
-`
+- <a href=https://carnewschina.com/2026/10/23/nios-firefly-launches-60-kwh-battery-version-same-size-same-weight-more-range/>CarNewsChina: Nio's Firefly launches 60 kWh battery version (23/10/2026)</a>
+- <a href=https://cnevpost.com/2026/10/23/nio-firefly-launches-60-kwh-battery-pack/>CnEVPost: Nio Firefly launches larger 60-kWh battery pack (23/10/2026)</a>
+- <a href=https://www.somoselectricos.com/coches-electricos/nio-revoluciona-coche-electrico-pequeno-560-km-autonomia-bateria-actualizable/20261023104558064636.html>Somos Eléctricos: el Firefly alcanza los 560 km (23/10/2026)</a>
+- <a href=https://www.dgt.es/>DGT: comprueba qué etiqueta ambiental le corresponde y las zonas de bajas emisiones donde puede circular</a>`
   },
   {
-    title: "Xiaomi YU7: récord en China y llegada a Europa en 2027",
+    title: "Xiaomi YU7: 835 km",
     slug: "xiaomi-yu7-suv-electrico-llegada-europa",
-    excerpt: "El YU7, segundo modelo de Xiaomi EV, sumó 200.000 pedidos en 3 minutos y superó al Model Y; su llegada a Europa está confirmada para 2027.",
+    excerpt: "El segundo coche de Xiaomi es un SUV que batió récords en China: 200.000 pedidos en 3 minutos y más ventas que el Model Y. Llega a Europa en 2027.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -135,21 +134,21 @@ La variante Performance alcanza 202 km/h y entrega 487 CV; recuerda que rebasar 
 
 **¿Buscas solo los datos?** <a href=/coches/xiaomi-yu7-suv-electrico-llegada-europa/>Ver ficha técnica del Xiaomi YU7</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-La compañía conocida por sus móviles pretende ahora vender coches, y lo hace en serio. El YU7, segundo modelo de Xiaomi EV, acumuló 200.000 pedidos en tres minutos y 289.000 durante la primera hora. La reserva se abrió el 26 de junio de 2025. Ya en octubre de ese mismo año superaba en ventas al Tesla Model Y en China. La cuestión para España es la fecha de su aparición por aquí: Xiaomi ha confirmado su llegada a Europa en 2027.
+La empresa que te vendió el móvil ahora quiere venderte el coche. Y no va de broma: el **Xiaomi YU7**, segundo modelo de Xiaomi EV, consiguió **200.000 pedidos en 3 minutos** y **289.000 en la primera hora** cuando se abrió la reserva en China el 26 de junio de 2025. En octubre de 2025 ya vendía más que el Tesla Model Y en el mercado chino. La pregunta que nos hacemos en España es cuándo lo veremos por aquí: **Xiaomi ha confirmado que llegará a Europa en 2027**.
 
-Elementos compartidos por la gama: arquitectura de 800 V con un pico de 897 V, carrocería de 4.999 mm de largo, 1.996 de ancho y 1.600 de alto, batalla de 3.000 mm, maletero entre 678 y 1.758 litros más un compartimento delantero de 141 litros, cinco plazas y un Cx de 0,245.
+**Comunes:** arquitectura de 800 V (pico de 897 V), 4.999 x 1.996 x 1.600 mm, batalla de 3.000 mm, maletero de **678 a 1.758 litros** más un frunk de 141 litros, 5 plazas y Cx de 0,245.
 
-Dos precisiones importantes: las autonomías se expresan según el ciclo CLTC chino, más optimista que el WLTP; km77 calcula alrededor de 685 kilómetros en WLTP para la Standard, aunque todavía no existe una homologación WLTP oficial. Y atención: Xiaomi reorganizó la gama en 2026, con la aparición de la True Standard de 73 kWh y del YU7 GT de 1.003 CV. Por tanto, la configuración europea podría ser distinta.
+Dos matices importantes: las autonomías son en ciclo **CLTC** (el chino, más optimista que el WLTP); km77 estima unos **685 km WLTP** para la versión Standard, pero **no hay homologación WLTP oficial**. Y ojo, Xiaomi reorganizó la gama en 2026 (aparecieron la True Standard de 73 kWh y el bestial **YU7 GT** de 1.003 CV), así que la configuración que llegue a Europa podría diferir.
 
-## Precio en China y duda europea
+## Precio: en China, imbatible; en Europa, incógnita
 
-Las tarifas oficiales chinas resultan demoledoras:
+En China los precios oficiales son demoledores:
 
-La versión Standard cuesta 253.500 yuanes, unos 30.000 € al cambio. La Pro sube a 279.900 yuanes, alrededor de 33.300 €. La Max alcanza 329.900 yuanes, cerca de 39.300 €.
+- **Standard:** 253.500 yuanes (**unos 30.000 €**)
+- **Pro:** 279.900 yuanes (unos 33.300 €)
+- **Max:** 329.900 yuanes (unos 39.300 €)
 
-Como referencia, el Tesla Model Y arranca allí en 263.500 yuanes: el YU7 Standard resulta 10.000 yuanes más barato que su competidor directo.
-
-En Europa todavía no hay un precio oficial confirmado; la prensa sitúa el rango para las versiones estándar en 59.000-76.000 dólares, tras añadir transporte, homologación, impuestos y aranceles comunitarios. Habrá que aguardar hasta 2027.
+Para comparar: el Tesla Model Y parte allí de 263.500 yuanes, es decir, **el YU7 Standard cuesta 10.000 yuanes menos que su rival directo**. En Europa **no hay precio oficial confirmado**; las estimaciones de prensa hablan de entre 59.000 y 76.000 dólares para las versiones estándar una vez sumados transporte, homologación, impuestos y aranceles de la UE. Habrá que esperar a 2027.
 
 <img src=/media/xiaomi-yu7-suv-electrico-llegada-europa-oficial.webp alt=Xiaomi YU7, SUV eléctrico, vista tres cuartos delantera>
 
@@ -157,15 +156,15 @@ En Europa todavía no hay un precio oficial confirmado; la prensa sitúa el rang
 
 ¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
-## Datos curiosos del YU7
+## Curiosidades que quizá no sabías
 
-- Récord absoluto de reservas: 200.000 pedidos en tres minutos; en una hora ya eran 289.000. Las acciones de Xiaomi subieron con fuerza y su fundador, Lei Jun, recuperó el puesto de persona más rica de China.
-- Xiaomi no fabricaba coches antes: hasta 2024 era una compañía de teléfonos inteligentes. Su primer automóvil, la berlina SU7, ya había adelantado al Tesla Model 3 en el mercado chino antes de la llegada del YU7.
-- Una pantalla de 1,1 metros: el YU7 equipa la Xiaomi HyperVision, tres pantallas LED situadas bajo el parabrisas, junto al sistema HyperOS, un LiDAR en el techo y asistencia a la conducción propia.
-- Pugna comercial por las listas de espera: con demoras superiores a un año, algunas marcas rivales llegaron a ofrecer abonar un depósito de 5.000 yuanes a quien anulase su pedido de Xiaomi para adquirir el suyo.
-- En Nürburgring, el YU7 GT marcó 7:22,755 en el Infierno Verde, y llegó a completar una vuelta autónoma como demostración tecnológica.
+- **Récord histórico de pedidos:** 200.000 en 3 minutos, 289.000 en una hora. Las acciones de Xiaomi se dispararon y su fundador Lei Jun volvió a ser el hombre más rico de China.
+- **Xiaomi no era un fabricante de coches:** hasta 2024 era una empresa de smartphones. Su primer coche, el sedán SU7, ya había superado al Tesla Model 3 en China antes de que llegara el YU7.
+- **Pantalla de 1,1 metros:** el YU7 monta la **Xiaomi HyperVision**, tres pantallas LED bajo el parabrisas, además del sistema HyperOS, LiDAR en el techo y conducción asistida propia.
+- **Guerra comercial por las listas de espera:** con esperas de más de un año, marcas rivales llegaron a ofrecer **pagar el depósito de 5.000 yuanes** a quien cancelase su pedido de Xiaomi para comprar el suyo.
+- **Récord en Nürburgring:** el YU7 GT paró el crono en **7:22,755** en el Infierno Verde, e incluso completó una vuelta autónoma como exhibición tecnológica.
 
-## Frente a Model Y y G6
+## Comparativa: el duelo que viene
 
 | | Xiaomi YU7 Standard | Tesla Model Y Standard RWD | XPeng G6 RWD Long Range |
 |---|---|---|---|
@@ -175,9 +174,9 @@ En Europa todavía no hay un precio oficial confirmado; la prensa sitúa el rang
 | **Carga 10-80 %** | 12 min (800 V) | ~25 min | 12 min (451 kW) |
 | **0-100 km/h** | 5,88 s | 7,2 s | 6,7 s |
 
-Sobre el papel, el YU7 supera en casi todo a sus rivales, aunque pesa 2.315 kg en la versión de acceso. La incógnita decisiva será el precio con el que aterrice en Europa una vez aplicados los aranceles: ahí se decidirá el duelo.
+Sobre el papel, el YU7 gana en casi todo. La gran pregunta es a qué precio llegará a Europa con los aranceles: ahí se jugará el partido.
 
-## Ventajas e inconvenientes
+## Pros y contras
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -189,35 +188,29 @@ Sobre el papel, el YU7 supera en casi todo a sus rivales, aunque pesa 2.315 kg e
 
 <iframe src=https://www.youtube.com/embed/zvfIlAAwUIc title=Xiaomi YU7 en español style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem; allowfullscreen></iframe>
 
-Audiovisual: <a href=https://www.youtube.com/watch?v=zvfIlAAwUIc>Calero</a> publica en YouTube un análisis en castellano sobre este fenómeno.
+Vídeo: <a href=https://www.youtube.com/watch?v=zvfIlAAwUIc>Calero</a> en YouTube — "¡XIAOMI ASUSTA CON EL SUV YU7!", análisis en español del fenómeno.
 
 ## Preguntas frecuentes
 
-### ¿Cuándo llegará a España?
+### ¿Cuándo llega el Xiaomi YU7 a España?
+Xiaomi ha confirmado que sus coches llegarán a **Europa en 2027** (lo dijeron tanto el CEO Lei Jun como la directiva en IFA 2026). Ya tiene centro de I+D en Múnich para adaptarlos.
 
-Xiaomi ha confirmado que sus automóviles llegarán a Europa en 2027; lo anunciaron el consejero delegado Lei Jun y la directiva en IFA 2026. La marca ya dispone de un centro muniqués de I+D para adaptarlos.
+### ¿Cuánto costará el Xiaomi YU7 en Europa?
+**No hay precio oficial.** En China parte de unos 30.000 € al cambio; las estimaciones de prensa para Europa hablan de 59.000-76.000 $, aranceles incluidos. Todo pendiente de confirmación.
 
-### ¿Qué precio tendrá en Europa?
+### ¿Qué autonomía tiene el Xiaomi YU7?
+**835 km en ciclo CLTC** (versión Standard). km77 estima unos 685 km en WLTP, pero no hay homologación oficial europea.
 
-Todavía no hay tarifa oficial. En China arranca en unos 30.000 € al cambio; la prensa sitúa el rango europeo en 59.000-76.000 $, con los aranceles incluidos. Todo queda pendiente de confirmación.
+### ¿Es mejor que el Tesla Model Y?
+En China ya lo supera en ventas (33.662 frente a 26.100 en octubre de 2025) y sobre el papel gana en autonomía, potencia y carga. En Europa el duelo empezará en 2027.
 
-### ¿Qué autonomía ofrece el YU7?
+### ¿Qué versiones hay del YU7?
+Standard (320 CV), Pro (496 CV) y Max (690 CV), más el radical **YU7 GT** de 1.003 CV presentado en 2026.
 
-835 km en ciclo CLTC en la versión Standard. km77 calcula alrededor de 685 kilómetros en WLTP, aunque no existe homologación oficial europea.
+### ¿Quién fabrica los coches de Xiaomi?
+**Xiaomi EV**, la división automovilística del gigante tecnológico chino, en su propia fábrica de Pekín con la plataforma Modena de 800 V.
 
-### ¿Supera al Tesla Model Y?
-
-En China ya lo adelanta en ventas: 33.662 unidades frente a 26.100 unidades en octubre de 2025, y en teoría aventaja en potencia, autonomía y carga. En Europa el duelo arrancará en 2027.
-
-### ¿Qué versiones existen?
-
-Standard con 320 CV, Pro con 496 CV y Max con 690 CV, además del YU7 GT, radical, con 1.003 CV y presentado en 2026.
-
-### ¿Quién fabrica los automóviles de Xiaomi?
-
-La división Xiaomi EV, dentro del gigante tecnológico chino, los produce en su planta propia de Pekín sobre la plataforma Modena de 800 V.
-
-Mientras aguardamos a 2027, conviene recordar que el YU7 alcanza 253 km/h de velocidad máxima, así que no es un coche para despistarse con los límites: si te llega una <a href=https://recurretumulta.online/guias/radares>multa por exceso de velocidad</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+Mientras esperamos a 2027, recuerda que con 253 km/h de velocidad máxima el YU7 no será precisamente un coche para despistarse con los límites: si te llega una <a href=https://recurretumulta.online/guias/radares>multa por exceso de velocidad</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
 ## Fuentes
 
@@ -449,7 +442,7 @@ Un urbano de 150 km/h de velocidad máxima no parece una amenaza para tu carné,
   {
     title: "Bigster Hybrid 155: precio, versiones y consumo en España",
     slug: "dacia-bigster-hybrid-precio-espana",
-    excerpt: "El Bigster híbrido de Dacia llega desde 29.390 € con 156 CV, etiqueta ECO y 546 litros de maletero: repasamos su gama, sus rivales y el nuevo Tribrid 4x4.",
+    excerpt: "El Dacia Bigster Hybrid 155 ya está en España: 156 CV, etiqueta ECO, maletero de 546 litros y precio desde 29.390 €. Análisis, versiones y rivales.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -466,36 +459,36 @@ Un urbano de 150 km/h de velocidad máxima no parece una amenaza para tu carné,
 
 **¿Buscas solo los datos?** <a href=/coches/dacia-bigster-hybrid-precio-espana/>Ver ficha técnica del Dacia Bigster Hybrid 155</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-Con 4,57 metros de carrocería, el Bigster sitúa a Dacia en el segmento C con una propuesta híbrida que arranca en 29.390 €, declara 546 litros de maletero y homologa 4,6 l/100 km. Ningún Dacia anterior había alcanzado estas dimensiones, y el modelo llegó a los concesionarios españoles en la primavera de 2025.
+**Dacia** ha hecho lo impensable: un SUV del segmento C, de **4,57 metros**, híbrido, con maletero de **546 litros** y consumo de **4,6 l/100 km**... desde **29.390 €**. El **Bigster** es el Dacia más grande jamás fabricado, lleva en España desde la primavera de 2025 y en su primer año ya matriculó **67.573 unidades en Europa** (más de 100.000 fabricadas). Dacia lo califica como un éxito por encima de las expectativas. Y para 2026 hay novedad: la versión **Tribrid 150 4x4** (gasolina + GLP + electricidad) desde 30.890 €.
 
-Su primer año dejó 67.573 matriculaciones en Europa y más de 100.000 unidades fabricadas, unas cifras que la propia marca describe como un éxito por encima de lo esperado. Para 2026 se añade la versión Tribrid 150 4x4, que combina gasolina, GLP y electricidad y parte de 30.890 €.
+**Otras motorizaciones:** **TCe 140** mild hybrid (1.2 48V, 140 CV, manual, desde 24.990 €), **ECO-G 140** (mild hybrid + GLP, 140 CV, desde 24.990 €) y el nuevo **Tribrid 150 4x4** (gasolina + electricidad + GLP, tracción total con motor eléctrico trasero, desde 30.890 €).
 
-Junto al Hybrid 155 conviven otras tres opciones: el TCe 140 mild hybrid, un 1.2 de 48 V con 140 CV y cambio manual desde 24.990 €; el ECO-G 140, mild hybrid con GLP y también 140 CV desde 24.990 €; y el citado Tribrid 150 4x4, con tracción total gracias a un motor eléctrico trasero, desde 30.890 €.
+## Precio y versiones en España
 
-## Precios de la gama en nuestro país
+Tarifa publicada en km77 (11/2025):
 
-Los importes que siguen corresponden a la tarifa de km77 de noviembre de 2025:
+- **Hybrid 155 Expression:** desde **29.390 €**
+- **Hybrid 155 Journey:** desde **31.390 €**
+- **Hybrid 155 Extreme:** desde **31.390 €**
+- **TCe 140 / ECO-G 140:** desde **24.990 €**
+- **Tribrid 150 4x4:** desde **30.890 €** (Expression) / 32.890 € (Extreme)
 
-- La puerta de acceso la marcan los TCe 140 y ECO-G 140, ambos desde 24.990 €.
-- En el Tribrid 150 4x4, la terminación Expression sale por 30.890 € y la Extreme por 32.890 €.
-- Dentro del Hybrid 155, Expression cuesta 29.390 €, mientras que Journey y Extreme comparten los 31.390 €.
-
-Como referencia, unos Hyundai Tucson o Toyota RAV4 híbridos equivalentes salen entre 12.000 y 20.000 € más caros. Ahí reside buena parte del atractivo del Bigster.
+Para ponerlo en contexto: un Hyundai Tucson o un Toyota RAV4 híbridos equivalentes cuestan entre **12.000 y 20.000 € más**. Ahí está el secreto del Bigster.
 
 <img src=/media/dacia-bigster-hybrid-precio-espana-oficial.webp alt=Dacia Bigster Hybrid, SUV familiar, vista lateral>
 
-¿Se ajusta a lo que puedes gastar? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
-## Datos que sorprenden del Bigster
+## Curiosidades que quizá no sabías
 
-- El sistema híbrido de 155 CV emplea piezas salidas de la planta del Grupo Renault en Valladolid, aunque el coche se monta en Mioveni (Rumanía).
-- Su base es la plataforma CMF-B del Grupo Renault, la misma que emplean Duster, Clio y Sandero.
-- Mide 4,57 m, es decir, 23 cm más que el Duster, con idéntica anchura y altura.
-- En España sumó 4.567 unidades, más de la mitad híbridas, según cifras citadas por muycomputer.com; en el conjunto europeo, el primer año cerró con 67.573 matriculaciones y la producción superó las 100.000 unidades.
-- El Tribrid 150 4x4 es el 4x4 de triple energía más asequible: une gasolina, electricidad y GLP y monta dos depósitos de 50 litros.
-- Además, opta al Coche del Año en Europa 2026, un logro notable para un Dacia.
+- **El Dacia más grande de la historia:** 4,57 m de largo, 23 cm más que el Duster (con la misma anchura y altura).
+- **Plataforma CMF-B del Grupo Renault:** comparte base con el Duster, el Clio y el Sandero.
+- **Fabricado en Mioveni (Rumanía)**, pero con orgullo español: los componentes del sistema híbrido de 155 CV se fabrican en la planta del Grupo Renault en **Valladolid**.
+- **Éxito inmediato:** 67.573 matriculaciones en Europa en 2025 y más de 100.000 unidades fabricadas; en España sumó 4.567, más de la mitad híbridas (cifras citadas por muycomputer.com).
+- **El 4x4 "triple energía" más barato:** el Tribrid 150 4x4 combina gasolina, electricidad y GLP con dos depósitos de 50 litros.
+- **Candidato a Coche del Año en Europa 2026.** Nada mal para un Dacia.
 
-## Frente a sus rivales directos
+## Comparativa: el C-SUV asequible
 
 | | Dacia Bigster Hybrid 155 | MG HS Hybrid+ | Jaecoo 7 SHS |
 |---|---|---|---|
@@ -507,11 +500,11 @@ Como referencia, unos Hyundai Tucson o Toyota RAV4 híbridos equivalentes salen 
 | **Etiqueta DGT** | ECO | ECO | CERO |
 | **0-100 km/h** | 9,7 s | 7,9 s | — |
 
-El enfrentamiento pormenorizado está aquí: <a href=/blog/dacia-bigster-hybrid-vs-jaecoo-5-cual-comprar/>Duelo Dacia Bigster Hybrid vs Jaecoo 5</a>.
+Lo hemos enfrentado en detalle: <a href=/blog/dacia-bigster-hybrid-vs-jaecoo-5-cual-comprar/>Duelo Dacia Bigster Hybrid vs Jaecoo 5</a>.
 
-El MG HS entrega más caballos y el Jaecoo 7 SHS luce la etiqueta CERO, pero el Bigster resulta el más económico, el de menor gasto entre los híbridos convencionales y el único que ofrece una variante 4x4 trivalente.
+El MG HS tiene más potencia y el Jaecoo 7 SHS presume de etiqueta CERO, pero el Bigster es el más barato, el que menos consume en híbrido convencional y el único con opción 4x4 trivalente.
 
-## Lo bueno y lo mejorable
+## Pros y contras
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -523,29 +516,29 @@ El MG HS entrega más caballos y el Jaecoo 7 SHS luce la etiqueta CERO, pero el 
 
 <iframe src=https://www.youtube.com/embed/Kmp-y-nU954 title=Prueba del Dacia Bigster en español style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem; allowfullscreen></iframe>
 
-En YouTube, <a href=https://www.youtube.com/watch?v=Kmp-y-nU954>coches.net</a> firma una prueba completa en español titulada "Dacia BIGSTER: Un Duster más Big".
+Vídeo: <a href=https://www.youtube.com/watch?v=Kmp-y-nU954>coches.net</a> en YouTube — "Dacia BIGSTER: Un Duster más Big", prueba completa en español.
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿Desde qué precio parte el Bigster Hybrid?
-El Hybrid 155 arranca en 29.390 € con el acabado Expression. Journey y Extreme se quedan en 31.390 €.
+### ¿Cuánto cuesta el Dacia Bigster Hybrid?
+El Hybrid 155 parte de **29.390 €** (Expression). Los acabados Journey y Extreme están en 31.390 €.
 
-### ¿Cuánto gasta el Bigster Hybrid 155?
-En ciclo WLTP combinado declara 4,6 l/100 km, cifra que en el acabado Extreme pasa a 4,7, con 104-106 g/km de CO₂.
+### ¿Qué consumo tiene el Bigster Hybrid 155?
+**4,6 l/100 km** en ciclo WLTP combinado (4,7 en el acabado Extreme), con emisiones de 104-106 g/km de CO₂.
 
-### ¿Lleva etiqueta ECO o CERO?
-El Hybrid 155 porta la etiqueta ECO. La CERO, en cambio, corresponde a rivales con hibridación enchufable, caso del Jaecoo 7. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+### ¿El Bigster tiene etiqueta ECO o CERO?
+El Hybrid 155 lleva la **etiqueta ECO**. Las versiones híbridas enchufables de sus rivales (como el Jaecoo 7) sí tienen la CERO. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
-### ¿Existe un Bigster con tracción total?
-Sí: el Tribrid 150 4x4 une gasolina, electricidad y GLP y mueve el eje trasero con un motor eléctrico, desde 30.890 €.
+### ¿Hay un Dacia Bigster 4x4?
+Sí: el **Tribrid 150 4x4** combina gasolina, electricidad y GLP, con tracción total mediante un motor eléctrico en el eje trasero, desde 30.890 €.
 
-### ¿Dónde se monta el Bigster?
-Se fabrica en Mioveni (Rumanía), en la planta histórica de Dacia. Los componentes del sistema híbrido salen de Valladolid (España).
+### ¿Dónde se fabrica el Dacia Bigster?
+En **Mioveni (Rumanía)**, en la histórica planta de Dacia. Los componentes del sistema híbrido se fabrican en Valladolid (España).
 
-### ¿Supera en tamaño al Duster?
-Sí: sus 4,57 m superan al Duster en 23 cm, y ningún Dacia anterior había sido tan grande.
+### ¿Es más grande que el Duster?
+Sí: con 4,57 m es **23 cm más largo** que el Duster, y es el Dacia más grande jamás fabricado.
 
-Un familiar de 4,57 metros está pensado para hacer kilómetros por autovía, justo donde más se vigila la velocidad: si al regresar encuentras una denuncia en el buzón, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
+Un SUV familiar de 4,57 metros invita a viajar, y en autovía es donde más multan los radares: si a la vuelta del viaje te encuentras una denuncia en el buzón, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
 ## Fuentes
 

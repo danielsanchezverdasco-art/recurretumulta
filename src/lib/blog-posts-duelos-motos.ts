@@ -8,7 +8,7 @@ export const DUELOS_MOTOS_POSTS: BlogPost[] = [
   {
     title: "Silence S01 o NIU MQi GT Evo: duelo eléctrico 125",
     slug: "silence-s01-vs-niu-mqi-gt-evo-cual-comprar",
-    excerpt: "S01 o MQi GT Evo: precios, autonomía y baterías frente a frente para elegir el scooter eléctrico 125 de tu día a día.",
+    excerpt: "Silence S01 (3.950 €, 133 km) vs NIU MQi GT Evo (4.999 €, 100 km/h): comparativa del scooter eléctrico 125 con baterías, precio y equipamiento.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -25,11 +25,11 @@ export const DUELOS_MOTOS_POSTS: BlogPost[] = [
     ],
     content: `<img src=/media/silence-s01-vs-niu-mqi-gt-evo-cual-comprar-hero.webp alt=Comparativa entre la Silence S01 y la NIU MQi GT Evo, los dos scooters eléctricos equivalentes a 125 más vendidos>
 
-Dos scooters eléctricos equivalentes a un 125, dos ideas distintas de moverse por la ciudad sin gasolina. Una sale de una fábrica barcelonesa y lidera las ventas a particulares en España; la otra llega desde China con la vista puesta en el cliente europeo. Ambas permiten extraer la batería para cargarla en un enchufe normal, ambas admiten el permiso A1 y el B con antigüedad suficiente, y ambas presumen de etiqueta Cero. La elección depende menos de la marca que del uso diario que les vayas a dar.
+El duelo español contra el chino: la Silence S01, fabricada en Barcelona y el scooter eléctrico más vendido en España a particulares, frente a la NIU MQi GT Evo, la apuesta del gigante chino que diseñó su scooter pensando en Europa. Las dos son equivalentes a 125 (carnet A1, o B con más de 3 años), las dos llevan baterías extraíbles y las dos prometen moverse por la ciudad sin gastar un euro en gasolina.
 
-En pocas palabras: la catalana conviene a quien recorre muchos kilómetros cada día y valora tener taller y asistencia cerca; la china seduce a quien busca agilidad, conectividad y diversión por un precio parecido. La tabla siguiente deja las cifras una al lado de la otra.
+La respuesta corta: **la S01 es para quien prioriza la autonomía y la red de servicio en España; la MQi GT Evo para quien quiere el scooter más divertido y tecnológico por su precio**. Los detalles, en la tabla.
 
-## Cifras frente a frente
+## Tabla comparativa: Silence S01 vs NIU MQi GT Evo
 
 | Ficha | Silence S01 Connected | NIU MQi GT Evo |
 |---|---|---|
@@ -47,63 +47,63 @@ En pocas palabras: la catalana conviene a quien recorre muchos kilómetros cada 
 
 <img src=/media/silence-s01-niu-mqi-gt-evo-duelo-cuerpo.webp alt=Silence S01 y NIU MQi GT Evo una junto a otra en una calle>
 
-## Lo que aporta cada modelo
+## Análisis: qué ofrece cada una
 
-**Silence S01.** La baza de la S01 es su acumulador con ruedas. Se extrae, se arrastra como si fuera una maleta y se conecta a cualquier toma doméstica o de oficina, sin obra ni cargador fijo. Su alcance homologado, 133 km, encabeza el segmento, su empuje recuerda al de una 300 de gasolina y de serie incorpora marcha atrás. El reverso: el módulo pesa 41 kg y subirlo por una escalera cansa, la recarga doméstica se alarga entre 7 y 9 horas y el desembolso final cambia según se opte por la suscripción o por la compra del acumulador.
+**Silence S01.** Su truco es la batería trolley con ruedas: la sacas, la llevas rodando como una maleta y la enchufas en casa o en la oficina, sin instalación. Con 133 km declarados tiene la mayor autonomía de su categoría, acelera como una 300 de gasolina y trae marcha atrás de serie. A cambio, la batería pesa 41 kg (subirla por escaleras es un suplicio), la carga en casa tarda 7-9 h y el precio "real" depende del modelo de suscripción de batería que elijas.
 
-**NIU MQi GT Evo.** La MQi GT Evo juega otra carta: menos peso, 128 kg, un tacto más vivo y un equipamiento digital superior. Monta pantalla TFT en color, desbloqueo por proximidad sin llave física, tres programas de conducción y una aplicación que vigila la posición, avisa ante robos y permite ceder el vehículo sin entregar llaves. Sus dos acumuladores de 14 kg se transportan con más facilidad que el trolley rival, aunque el alcance homologado baja a 75 km —alrededor de 65 km si se circula exigiendo al máximo— y el freno es combinado, sin ABS.
+**NIU MQi GT Evo.** Más ligera (128 kg), más divertida y más tecnológica: pantalla TFT a color, arranque sin llave por proximidad, tres modos de conducción y una app que permite hasta prestar el scooter sin entregar llaves. Sus dos baterías de 14 kg son más manejables que el trolley de la Silence, pero la autonomía se queda en 75 km declarados (unos 65 reales si le das caña) y no lleva ABS, solo frenada combinada.
 
-## Puntos fuertes y débiles
+## Pros y contras
 
 **Silence S01:**
-- ✅ Alcance homologado de 133 km, el más amplio de su segmento
-- ✅ Acumulador con ruedas patentado: recarga en cualquier toma sin obra
-- ✅ Marcha atrás incluida de serie y espacio para dos cascos
-- ✅ Producción en Barcelona y asistencia propia en España
-- ✅ Aplicación con localización GPS, alarma y cesión sin llaves
-- ❌ Los 3.950 € exigen suscripción mensual; en propiedad sube a 4.950 €
-- ❌ El acumulador pesa 41 kg
-- ❌ Recarga doméstica lenta, entre 7 y 9 horas
-- ❌ 152 kg que se notan al moverla en parado
+- ✅ 133 km de autonomía declarada, la mayor de la categoría
+- ✅ Batería trolley patentada: se carga en cualquier enchufe sin instalación
+- ✅ Marcha atrás de serie y hueco para dos cascos
+- ✅ Fabricada en Barcelona, con red de servicio propia en España
+- ✅ App con GPS, alarma y préstamo sin llaves
+- ❌ 3.950 € solo con suscripción de batería; 4.950 € en propiedad
+- ❌ La batería pesa 41 kg
+- ❌ Carga lenta en casa (7-9 h)
+- ❌ 152 kg: pesada para mover en parado
 
 **NIU MQi GT Evo:**
-- ✅ 128 kg, bastidor sólido y buen aplomo
-- ✅ 100 km/h reales, a la altura de un 125 de gasolina
-- ✅ Pantalla TFT, desbloqueo sin llave y tres programas bien diferenciados
-- ✅ Aplicación con GPS y protección antirrobo
-- ❌ Alcance real de 65 a 75 km, corto si se apura
-- ❌ 4.999 €, caro si se compara con un 125 de gasolina
-- ❌ Asistencia en España más limitada que la rival
-- ❌ Sin ABS y sin espacio para guardar el casco
+- ✅ 100 km/h reales: compite con un 125 de gasolina
+- ✅ 128 kg, chasis sólido y buen aplomo
+- ✅ Pantalla TFT, arranque sin llave y tres modos bien diferenciados
+- ✅ App con GPS y antirrobo
+- ❌ Autonomía real de 65-75 km, justa a tope
+- ❌ 4.999 €: cara frente a un 125 de gasolina
+- ❌ Sin ABS y sin hueco para el casco
+- ❌ Red de servicio limitada en España
 
-## Decisión final: ¿con cuál te quedas?
+## Veredicto: ¿cuál comprar?
 
-Si tu día a día suma muchos kilómetros y quieres el mayor alcance con una marca que fabrica y atiende en España, quédate con la Silence S01. Si tus trayectos son cortos, urbanos y valoras agilidad y tecnología, la NIU MQi GT Evo encaja mejor. Antes de decidir, consulta las fichas: <a href=/motos/silence-s01-ficha-tecnica-precio/>ficha de la Silence S01</a> y <a href=/motos/niu-mqi-gt-evo-ficha-tecnica-precio/>ficha de la NIU MQi GT Evo</a>, o enfréntalas en nuestro <a href=/comparador-motos/?a=silence-s01-ficha-tecnica-precio&b=niu-mqi-gt-evo-ficha-tecnica-precio>comparador de motos eléctricas</a>.
+**Compra la Silence S01 si** haces muchos kilómetros al día y necesitas la máxima autonomía con la tranquilidad de una marca con fábrica y servicio en España. **Compra la NIU MQi GT Evo si** buscas el scooter más ágil y tecnológico, y tus rutas son urbanas y cortas. En ambos casos, mira antes las fichas: <a href=/motos/silence-s01-ficha-tecnica-precio/>ficha de la Silence S01</a> y <a href=/motos/niu-mqi-gt-evo-ficha-tecnica-precio/>ficha de la NIU MQi GT Evo</a>, o enfréntalas en nuestro <a href=/comparador-motos/?a=silence-s01-ficha-tecnica-precio&b=niu-mqi-gt-evo-ficha-tecnica-precio>comparador de motos eléctricas</a>.
 
-## Prueba en vídeo
+## Míralo en vídeo
 
 <iframe src=https://www.youtube.com/embed/67XmxCcgusk title="Vídeo: Prueba NIU MQi GT Evo, el eléctrico más honesto del mercado" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Grabación de <a href=https://www.youtube.com/watch?v=67XmxCcgusk>Canariasenmoto</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=67XmxCcgusk>Canariasenmoto</a> en YouTube
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿Qué modelo recorre más kilómetros con una carga?
-La S01, con claridad: homologa 133 km, mientras la MQi GT Evo declara 75 km y en uso exigente ronda los 65 km. Quien supere los 50 km diarios tiene en la catalana la opción lógica.
+### ¿Cuál tiene más autonomía, la Silence S01 o la NIU MQi GT Evo?
+La Silence S01, con diferencia: 133 km declarados frente a 75 km de la NIU (unos 65 reales). Si haces más de 50 km al día, la S01 es la elección lógica.
 
-### ¿Sirve el permiso de coche para llevarlas?
-Sí. Las dos equivalen a un 125 y admiten el A1, además del B cuando el conductor lleva más de tres años con él, únicamente dentro del territorio nacional.
+### ¿Las dos se pueden conducir con el carnet de coche?
+Sí: ambas son equivalentes a 125 y se pueden llevar con el A1 o con el B con más de 3 años de antigüedad, solo en territorio nacional.
 
-### ¿Cuál sale más económica al comprarla?
-La S01 anuncia 3.950 €, pero esa cifra corresponde a la suscripción mensual del acumulador; comprándolo en propiedad el precio asciende a 4.950 €. La MQi GT Evo se vende por 4.999 € sin pagos mensuales añadidos.
+### ¿Cuál es más barata?
+La Silence S01 parte de 3.950 €, pero ojo: ese precio es con suscripción mensual de batería; con batería en propiedad son 4.950 €. La NIU MQi GT Evo cuesta 4.999 € con todo incluido.
 
-### ¿Es posible recargarlas en un enchufe doméstico?
-Sí, en ambos casos. La S01 se recarga con su acumulador trolley de ruedas, de 41 kg, mientras la NIU emplea sus dos acumuladores de 14 kg cada uno. Ninguna exige instalar un punto de carga.
+### ¿Se pueden cargar en casa?
+Sí, las dos: la S01 con su batería trolley de ruedas (41 kg) y la NIU con sus dos baterías de 14 kg cada una. Ninguna necesita punto de carga instalado.
 
-### ¿Llevan distintivo ambiental Cero?
-Sí. Al ser totalmente eléctricas, las dos portan <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero de la DGT</a> y acceden a todas las ZBE sin limitaciones.
+### ¿Tienen etiqueta Cero?
+Sí, ambas son 100 % eléctricas y llevan <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero de la DGT</a>: entran en todas las ZBE sin restricciones.
 
-Antes de abonar una sanción, comprueba si contiene algún error con la herramienta gratuita de esta web: <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a>.
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
 `,
   },
   {
@@ -209,7 +209,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
   {
     title: "Vespa Elettrica o Piaggio 1: ¿cuál te conviene más?",
     slug: "vespa-elettrica-vs-piaggio-1-cual-comprar",
-    excerpt: "La Elettrica cuesta 6.799 € y el Piaggio 1 Active 3.700 €. Comparamos autonomía, batería, velocidad, peso y carnet para elegir tu scooter eléctrico urbano.",
+    excerpt: "Vespa Elettrica (6.799 €) vs Piaggio 1 Active (3.700 €): duelo de scooters eléctricos italianos. Precio, autonomía, batería y carnet necesario.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -226,11 +226,11 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     content: `<img src=/media/vespa-elettrica-vs-piaggio-1-cual-comprar-hero.webp alt=Comparativa entre la Vespa Elettrica y el Piaggio 1, los dos scooters eléctricos italianos para la ciudad>
 
-Italia propone dos maneras opuestas de circular en eléctrico por la ciudad, y curiosamente ambas nacen bajo el mismo paraguas industrial. De un lado aparece una Vespa genuina, con bastidor de chapa de acero y una entrega de 200 Nm desde el primer giro de rueda; del otro, un Piaggio 1 Active concebido para el día a día, con acumulador desmontable y un desembolso bastante más moderado. Los dos se mueven únicamente en ámbito urbano, pero no buscan al mismo comprador ni piden el mismo permiso de conducción.
+Duelo italiano en la ciudad: la Vespa Elettrica, el icono con chasis de chapa de acero y 200 Nm de par, frente al Piaggio 1 Active, el eléctrico práctico de la misma casa con batería extraíble y precio mucho más terrenal. Las dos son urbanas puras, pero apuntan a bolsillos (y carnets) distintos.
 
-Resumido en una frase: quien anteponga el mito Vespa a la factura se quedará con la Elettrica; quien anteponga la sensatez económica para ir y volver a diario en eléctrico se quedará con el Piaggio 1. La comparativa numérica va a continuación:
+La respuesta corta: **la Elettrica es para quien compra una Vespa ante todo; el Piaggio 1 para quien quiere el eléctrico urbano más sensato por su dinero**. La tabla:
 
-## Los números, frente a frente
+## Tabla comparativa: Vespa Elettrica vs Piaggio 1
 
 | Ficha | Vespa Elettrica 45 | Piaggio 1 Active |
 |---|---|---|
@@ -247,68 +247,68 @@ Resumido en una frase: quien anteponga el mito Vespa a la factura se quedará co
 
 <img src=/media/vespa-elettrica-piaggio-1-duelo-cuerpo.webp alt=Vespa Elettrica y Piaggio 1 una junto a otra en una calle europea>
 
-## Cada modelo, examinado por separado
+## Análisis: qué ofrece cada una
 
-**Vespa Elettrica.** Aquí no hay imitación: bastidor de chapa de acero, estética inconfundible, 200 Nm disponibles desde parado —una cifra superior a la de bastantes motocicletas de gran cilindrada— y una marcha completamente silenciosa que seduce desde el primer metro. Las pegas pesan, sin embargo: su acumulador no se desmonta, así que la recarga debe hacerse en el punto de estacionamiento; su punta se queda en 45 km/h, con permiso AM, lo que la deja fuera de cualquier carretera; y su tarifa de 6.799 € resulta elevada para un ciclomotor urbano. Se paga, en buena medida, la leyenda.
+**Vespa Elettrica.** Es una Vespa de verdad: chasis de chapa de acero, diseño icónico, 200 Nm de par desde 0 rpm (más que muchas motos grandes) y un silencio total que enamora. Pero la batería NO es extraíble (hay que cargarla donde aparques), solo llega a 45 km/h (carnet AM, inviable fuera de la ciudad) y cuesta 6.799 €: pagas el mito.
 
-**Piaggio 1 Active.** El planteamiento sensato: 94 kg en báscula, centro de gravedad muy bajo, acumulador desmontable de 15 kg provisto de asa para enchufarlo en cualquier toma doméstica, 60 km/h de punta —suficientes ya para rondas y vías rápidas urbanas— y 3.700 € de precio. Su rodar recuerda muchísimo al de un scooter de gasolina. Del otro lado, el modo Eco recorta la punta a 30-32 km/h, las suspensiones resultan blandas e imprecisas cuando el piloto pesa bastante, y las ruedas de 10" se resienten en bordillos y baches.
+**Piaggio 1 Active.** El sensato: 94 kg, batería extraíble de 15 kg con asa que cargas en cualquier enchufe, 60 km/h de punta (ya vale para rondas) y 3.700 €. Su comportamiento es casi idéntico al de un scooter de gasolina. A cambio, el modo Eco limita a 30 km/h, las suspensiones son blanditas y las ruedas de 10" sufren en baches y bordillos.
 
-## Puntos fuertes y puntos débiles
+## Pros y contras
 
 **Vespa Elettrica:**
-- ✅ Estética inconfundible y bastidor de chapa de acero
-- ✅ 200 Nm de empuje: arranques de semáforo fulgurantes
-- ✅ Marcha silenciosa y suavidad absoluta
-- ✅ Pantalla TFT conectada y sistema KERS
-- ❌ Acumulador fijo: la recarga se hace donde se estaciona
-- ❌ 6.799 € por un ciclomotor limitado a 45 km/h
-- ❌ 45 km/h: uso urbano exclusivo, sin carreteras interurbanas
-- ❌ Autonomía de 68 km, escasa para lo que cuesta
+- ✅ Diseño icónico con chasis de chapa de acero
+- ✅ 200 Nm de par: salida de semáforo fulgurante
+- ✅ Silencio y suavidad totales
+- ✅ Pantalla TFT con conectividad y KERS
+- ❌ Batería fija: hay que cargar donde se aparca
+- ❌ 6.799 € para un ciclomotor de 45 km/h
+- ❌ 45 km/h: solo ciudad, insegura en interurbanas
+- ❌ Autonomía de 68 km, corta para su precio
 
 **Piaggio 1 Active:**
-- ✅ Peso pluma de 94 kg y centro de gravedad muy bajo: manejo facilísimo
-- ✅ Acumulador desmontable, recargable en cualquier enchufe doméstico
-- ✅ 60 km/h: suficiente para rondas urbanas
-- ✅ 3.700 €, tarifa contenida
-- ❌ Modo Eco recortado a 30-32 km/h
-- ❌ Suspensiones demasiado blandas y poco precisas con piloto de mucho peso
-- ❌ Ruedas de 10": peor comportamiento en bordillos y baches
-- ❌ Ergonomía ajustada para pilotos de gran estatura
+- ✅ 94 kg y centro de gravedad bajísimo: facilísima
+- ✅ Batería extraíble, se carga en cualquier enchufe
+- ✅ 60 km/h: ya sirve para rondas urbanas
+- ✅ 3.700 €, precio contenido
+- ❌ Modo Eco limitado a 30-32 km/h
+- ❌ Suspensiones blandas e imprecisas con piloto pesado
+- ❌ Ruedas de 10": peor en bordillos y baches
+- ❌ Ergonomía justa para pilotos altos
 
-## Veredicto: ¿por cuál decidirse?
+## Veredicto: ¿cuál comprar?
 
-**Elige la Vespa Elettrica si** lo que buscas es, ante todo, una Vespa, y el desembolso queda en segundo plano: icono, acabados y sensaciones sin equivalente. **Elige el Piaggio 1 Active si** priorizas el eléctrico urbano más racional: más económico, con acumulador desmontable y 60 km/h efectivos. Para ver las especificaciones completas, consulta <a href=/motos/vespa-elettrica-ficha-tecnica-precio/>ficha de la Vespa Elettrica</a> y <a href=/motos/piaggio-1-ficha-tecnica-precio/>ficha del Piaggio 1</a>, o compáralas en el <a href=/comparador-motos/?a=vespa-elettrica-ficha-tecnica-precio&b=piaggio-1-ficha-tecnica-precio>comparador de motos eléctricas</a>.
+**Compra la Vespa Elettrica si** lo que quieres es una Vespa y el precio es secundario: el icono, el acabado y las sensaciones no tienen rival. **Compra el Piaggio 1 Active si** buscas el eléctrico urbano más racional: más barato, con batería extraíble y 60 km/h reales. Fichas: <a href=/motos/vespa-elettrica-ficha-tecnica-precio/>ficha de la Vespa Elettrica</a> y <a href=/motos/piaggio-1-ficha-tecnica-precio/>ficha del Piaggio 1</a>, o en el <a href=/comparador-motos/?a=vespa-elettrica-ficha-tecnica-precio&b=piaggio-1-ficha-tecnica-precio>comparador de motos eléctricas</a>.
 
-## Prueba en vídeo
+## Míralo en vídeo
 
 <iframe src=https://www.youtube.com/embed/uErx0CgDr54 title="Vídeo: Vespa Elettrica: prueba del scooter eléctrico italiano" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=uErx0CgDr54>Mujeres Moteras</a> en YouTube
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿Qué scooter sale más barato?
-El Active de Piaggio: 3.700 € frente a los 6.799 € de la Vespa Elettrica. Prácticamente la mitad de precio con una autonomía parecida.
+### ¿Cuál es más barata, la Vespa Elettrica o el Piaggio 1?
+El Piaggio 1 Active: 3.700 € frente a 6.799 € de la Vespa Elettrica. Casi la mitad por una autonomía similar.
 
-### ¿Qué permiso pide cada modelo?
-La Vespa Elettrica, limitada a 45 km/h, se conduce con el AM (a partir de los 15 años). El Piaggio 1 Active alcanza 60 km/h y requiere el A1, aunque también vale el B cuando se tienen más de 3 años de antigüedad.
+### ¿Qué carnet necesito para cada una?
+La Vespa Elettrica (45 km/h) se lleva con el AM (desde los 15 años). El Piaggio 1 Active llega a 60 km/h y exige el A1 (o el B con más de 3 años).
 
-### ¿El acumulador se puede extraer para cargar en casa?
-En el Piaggio 1 sí, porque su acumulador de 15 kg incorpora asa para transportarlo. En la Vespa Elettrica no: su acumulador es fijo y la moto debe cargarse en el lugar de estacionamiento, con el cable guardado bajo el asiento.
+### ¿La batería se puede sacar para cargarla en casa?
+En el Piaggio 1 sí: pesa 15 kg y tiene asa. En la Vespa Elettrica no: la batería es fija y hay que cargar la moto donde esté aparcada, con el cable que lleva bajo el asiento.
 
-### ¿Valen para circular fuera de la ciudad?
-En realidad no. La Elettrica no pasa de 45 km/h, mientras el Piaggio 1 se queda en 60 km/h. Son máquinas estrictamente urbanas; para vías interurbanas hace falta, como mínimo, un equivalente a 125.
+### ¿Sirven para salir de la ciudad?
+No realmente: la Elettrica está limitada a 45 km/h y el Piaggio 1 a 60 km/h. Son motos estrictamente urbanas; para interurbanas necesitas al menos un equivalente a 125.
 
-### ¿Ambas llevan distintivo Cero?
-Sí, las dos son totalmente eléctricas y portan <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero</a>: entrada sin restricciones en todas las ZBE.
+### ¿Las dos tienen etiqueta Cero?
+Sí, ambas son 100 % eléctricas y llevan <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero</a>: acceso sin restricciones a todas las ZBE.
 
-Si una multa te ha llegado y sospechas que podría tener algún defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> sin pagarla todavía.
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
 `,
   },
   {
-    title: "Honda EM1 e: contra Yamaha NEO's: duelo eléctrico urbano",
+    title: "Honda EM1 e 2026",
     slug: "honda-em1-e-vs-yamaha-neos-cual-comprar",
-    excerpt: "Dos ciclomotores eléctricos japoneses frente a frente: precio, autonomía, baterías extraíbles y carga de la Honda EM1 e: y la Yamaha NEO's.",
+    excerpt: "Honda EM1 e: (3.999 €) vs Yamaha NEO's (2.999 €): duelo japonés de ciclomotores eléctricos. Autonomía, baterías extraíbles, peso y precio.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -325,11 +325,11 @@ Si una multa te ha llegado y sospechas que podría tener algún defecto, <a href
     ],
     content: `<img src=/media/honda-em1-e-vs-yamaha-neos-cual-comprar-hero.webp alt=Comparativa entre la Honda EM1 e: y la Yamaha NEO's, los dos ciclomotores eléctricos japoneses>
 
-Dos marcas japonesas, dos respuestas distintas a la misma pregunta: cómo moverse por la ciudad sin gasolina, sin ruido y sin complicarse la vida. La Honda EM1 e: supone el estreno eléctrico sobre dos ruedas de Honda en Europa, mientras que la Yamaha NEO's rescata un nombre que muchos recuerdan de principios de los 2000 y lo adapta a la movilidad con batería. Ambas se pilotan con el AM desde los 15 años, ambas permiten sacar la batería para cargarla fuera del vehículo y ambas están pensadas, sin matices, para el uso urbano.
+Duelo japonés en el segmento de los ciclomotores: la Honda EM1 e:, el primer dos ruedas eléctrico de Honda en Europa, frente a la Yamaha NEO's, que recupera el mítico nombre de los 2000 con baterías de solo 8 kg. Las dos son AM (desde los 15 años), las dos llevan baterías extraíbles y las dos son estrictamente urbanas.
 
-En pocas palabras: la NEO's sale ganando si miras el bolsillo y la facilidad de uso en el día a día; la EM1 e: juega la carta de la fabricación Honda y de una batería concebida para el intercambio futuro. Las cifras:
+La respuesta corta: **la NEO's es la más barata y ligera de usar a diario; la EM1 e: apuesta por la calidad de fabricación Honda y una batería pensada para el intercambio**. La tabla:
 
-## Las cifras, cara a cara
+## Tabla comparativa: Honda EM1 e: vs Yamaha NEO's
 
 | Ficha | Honda EM1 e: | Yamaha NEO's Dual Battery |
 |---|---|---|
@@ -346,68 +346,68 @@ En pocas palabras: la NEO's sale ganando si miras el bolsillo y la facilidad de 
 
 <img src=/media/honda-em1-e-yamaha-neos-duelo-cuerpo.webp alt=Honda EM1 e: y Yamaha NEO's en comparativa en ciudad>
 
-## Lo que aporta cada modelo
+## Análisis: qué ofrece cada una
 
-La EM1 e: transmite solidez Honda desde el primer contacto: pesa 95 kg, sitúa el asiento a 740 mm —una altura que facilita llegar al suelo a casi cualquier usuario— y esconde una batería Mobile Power Pack e: que se extrae con facilidad y que, en el futuro, podría intercambiarse en estaciones dedicadas. Su diseño ha recibido el Red Dot 2024. El reverso es conocido: homologa apenas 30 km en ciclo WMTC, la cifra más baja de este duelo, su empuje de 1,7 kW se queda corto cuando la calle pica hacia arriba y algunas pruebas la sitúan por debajo del nivel habitual de la marca. A eso se suma un precio de 3.999 € que cuesta justificar frente a lo que entrega, y un cargador externo con ventilador que tarda 6 h en completar la carga.
+**Honda EM1 e:.** Calidad de fabricación Honda, 95 kg, asiento a 740 mm y una batería Mobile Power Pack e: extraíble pensada para futuras estaciones de intercambio. Diseño premiado (Red Dot 2024). Pero la autonomía es de solo 30 km WMTC (la más corta de la comparativa), la potencia es muy justa en cuestas y varias pruebas la consideran por debajo del estándar Honda habitual. Y 3.999 € es mucho para lo que ofrece.
 
-La NEO's apuesta por la sensatez: cuesta 2.999 €, ochocientos menos que cuando se lanzó, y sus baterías pesan únicamente 8 kg, así que subirlas a casa para cargarlas no supone esfuerzo. Con 98 kg en báscula, monta componentes japoneses de renombre, como la suspensión KYB, y rueda con un silencio llamativo de 55 dB, además de recargarse por céntimos. Si se añade la segunda batería opcional, el alcance sube hasta 68 km. Del 20 al 80 % necesita 4 h, y hasta el 100 % llega a 8 h. Sus pegas también están claras: cada batería homologa 37 km, una cifra corta, y la batería adicional hay que abonarla aparte.
+**Yamaha NEO's.** La racional: 2.999 € (800 € menos que a su lanzamiento), baterías de solo 8 kg (las más fáciles de llevar del segmento), componentes japoneses de calidad (KYB) y un silencio extremo de 55 dB. Con la segunda batería opcional llega a 68 km. A cambio, 37 km homologados por batería son escasos, tarda 8 h en cargar al 100 % y la segunda batería se paga aparte.
 
-## Puntos fuertes y puntos débiles
+## Pros y contras
 
 **Honda EM1 e:**
-- ✅ Fabricación Honda: solidez y fiabilidad reconocidas
-- ✅ Batería Mobile Power Pack e: extraíble y preparada para el intercambio
-- ✅ Peso contenido, 95 kg, con asiento a 740 mm: llegar al suelo resulta sencillo
-- ✅ Diseño galardonado: Red Dot 2024 e iF 2025
-- ❌ Alcance WMTC de 30 km: el más reducido del duelo
-- ❌ Empuje de 1,7 kW: escaso en pendientes
-- ❌ Carga completa en 6 h
-- ❌ Precio de 3.999 €: elevado para su equipamiento
+- ✅ Calidad de fabricación y fiabilidad Honda
+- ✅ Batería extraíble e intercambiable (Mobile Power Pack e:)
+- ✅ 95 kg y asiento a 740 mm: accesible para todos
+- ✅ Diseño premiado Red Dot 2024 e iF 2025
+- ❌ 30 km de autonomía WMTC: la más corta
+- ❌ 1,7 kW: justita en cuestas
+- ❌ 6 h de carga completa
+- ❌ 3.999 €, cara para lo que ofrece
 
 **Yamaha NEO's:**
-- ✅ 2.999 €: la opción japonesa más asequible
-- ✅ Baterías de 8 kg: las más cómodas de llevar a casa
-- ✅ Componentes japoneses KYB y acabados cuidados
-- ✅ Rodaje casi inaudible, 55 dB, y carga por céntimos
-- ❌ 37 km homologados por batería: alcance corto
-- ❌ 8 h para una carga al 100 %
-- ❌ La batería adicional se abona aparte
-- ❌ Prácticamente sin hueco bajo el asiento
+- ✅ 2.999 €: la japonesa más barata
+- ✅ Baterías de 8 kg, las más fáciles de transportar
+- ✅ Calidad japonesa: KYB, buenos acabados
+- ✅ Silencio extremo (55 dB) y recarga por céntimos
+- ❌ 37 km homologados por batería: escasos
+- ❌ 8 h para cargar al 100 %
+- ❌ La segunda batería se paga aparte
+- ❌ Sin apenas hueco bajo el asiento
 
-## Veredicto: ¿cuál conviene comprar?
+## Veredicto: ¿cuál comprar?
 
-Elige la Yamaha NEO's cuando priorices gastar menos y moverte por la ciudad sin complicaciones: por 2.999 €, ninguna otra japonesa ofrece tanto sentido práctico. Quédate con la Honda EM1 e: cuando valores por encima de todo la construcción Honda y la idea de unas baterías que algún día se intercambiarán, aceptando que el desembolso sube y el alcance baja. Enlaces: <a href=/motos/honda-em1-e-ficha-tecnica-precio/>ficha de la Honda EM1 e:</a> y <a href=/motos/yamaha-neos-ficha-tecnica-precio/>ficha de la Yamaha NEO's</a>, o en el <a href=/comparador-motos/?a=honda-em1-e-ficha-tecnica-precio&b=yamaha-neos-ficha-tecnica-precio>comparador de motos eléctricas</a>.
+**Compra la Yamaha NEO's si** buscas el ciclomotor eléctrico más barato y práctico para moverte por la ciudad: por 2.999 € no hay rival japonesa. **Compra la Honda EM1 e: si** priorizas la calidad de construcción y la apuesta de Honda por las baterías intercambiables, asumiendo que pagas más por menos autonomía. Fichas: <a href=/motos/honda-em1-e-ficha-tecnica-precio/>ficha de la Honda EM1 e:</a> y <a href=/motos/yamaha-neos-ficha-tecnica-precio/>ficha de la Yamaha NEO's</a>, o en el <a href=/comparador-motos/?a=honda-em1-e-ficha-tecnica-precio&b=yamaha-neos-ficha-tecnica-precio>comparador de motos eléctricas</a>.
 
-## El duelo, en vídeo
+## Míralo en vídeo
 
 <iframe src=https://www.youtube.com/embed/FEAygP2l1KE title="Vídeo: Prueba en español de la Yamaha Neo´s 2023 eléctrica" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=FEAygP2l1KE>Movidasenmoto</a> en YouTube
 
-## Dudas frecuentes
+## Preguntas frecuentes
 
-### ¿Quién recorre más kilómetros?
-La NEO's: homologa 37 km con cada batería y alcanza 68 km cuando se monta la segunda, opcional, mientras que la EM1 e: se queda en 30 km. En ambos casos hablamos de desplazamientos urbanos breves.
+### ¿Cuál tiene más autonomía?
+La Yamaha NEO's: 37 km WMTC por batería (68 km con la segunda opcional) frente a 30 km de la Honda EM1 e:. Las dos son para trayectos urbanos cortos.
 
-### ¿Qué permiso hace falta?
-El AM para las dos: son ciclomotores con la velocidad limitada a 45 km/h y utilizables desde los 15 años.
+### ¿Qué carnet necesito?
+El AM en ambos casos: son ciclomotores limitados a 45 km/h, conducibles desde los 15 años.
 
-### ¿Se cargan en casa las baterías?
-Sí: en los dos modelos la batería sale del vehículo. La batería de la Honda pesa 10,2 kg, mientras que la de Yamaha se queda en 8 kg, el registro más bajo de este segmento.
+### ¿Las baterías se pueden cargar en casa?
+Sí, las dos son extraíbles: la de Honda pesa 10,2 kg y la de Yamaha solo 8 kg, la más ligera del segmento.
 
-### ¿Cuál sale más económica?
-La NEO's: su precio de partida es 2.999 €, mil menos que los 3.999 € de la EM1 e:.
+### ¿Cuál es más barata?
+La Yamaha NEO's: 2.999 € frente a 3.999 € de la Honda EM1 e:.
 
-### ¿Valen para empezar en moto?
-Sí: resultan perfectas para iniciarse, porque son ligeras, simples y con un mantenimiento económico, además de llevar <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero</a>. Eso sí, su tope de 45 km/h las deja solo para ciudad.
+### ¿Sirven como primera moto?
+Sí, son ideales para empezar: ligeras, sencillas, baratas de mantener y con <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero</a>. Eso sí, limitadas a 45 km/h: solo ciudad.
 
-Si recibiste una sanción y sospechas que puede contener algún error, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de abonar nada.
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
 `,
   },
   {
-    title: "BMW CE 02 vs Super Soco CPx: 95 o 137 km, ¿cuál?",
+    title: "BMW CE 02 vs Super Soco CPx 2026",
     slug: "bmw-ce-02-vs-super-soco-cpx-cual-comprar",
-    excerpt: "BMW CE 02 desde 8.400 € frente a Super Soco CPx 125 Pro por 5.589 €: diseño y diversión contra autonomía de 137 km y dos baterías extraíbles.",
+    excerpt: "BMW CE 02 (8.400 €) vs Super Soco CPx 125 Pro (5.589 €): el 'e-parkourer' alemán contra el scooter de rueda alta con dos baterías extraíbles.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -424,11 +424,11 @@ Si recibiste una sanción y sospechas que puede contener algún error, <a href=h
     ],
     content: `<img src=/media/bmw-ce-02-vs-super-soco-cpx-cual-comprar-hero.webp alt=Comparativa entre la BMW CE 02 y la Super Soco CPx, el e-parkourer alemán frente al scooter eléctrico de rueda alta>
 
-Para moverse por la ciudad en eléctrico sin pasar por el A2, hay dos caminos opuestos. Uno lo firma BMW con la CE 02, un artefacto que no parece scooter ni moto. El otro, Super Soco con la CPx 125 Pro, un scooter de rueda alta que guarda dos baterías extraíbles y homologa 137 kilómetros WMTC.
+Dos urbanas eléctricas con carnet de coche convalidado y filosofías opuestas: la BMW CE 02, el "e-parkourer" alemán que no se parece a nada (ni scooter ni moto), frente a la Super Soco CPx 125 Pro, el scooter de rueda alta con dos baterías extraíbles y 137 km de autonomía WMTC.
 
-En pocas palabras, la alemana seduce por imagen y diversión en ciudad; la CPx, por kilómetros útiles y precio contenido. A continuación, las cifras:
+La respuesta corta: **la CE 02 es para quien quiere diseño y diversión urbana; la CPx para quien quiere la máxima autonomía práctica por el menor precio**. La tabla:
 
-## Comparativa en cifras
+## Tabla comparativa: BMW CE 02 vs Super Soco CPx
 
 | Ficha | BMW CE 02 (11 kW) | Super Soco CPx 125 Pro |
 |---|---|---|
@@ -446,72 +446,68 @@ En pocas palabras, la alemana seduce por imagen y diversión en ciudad; la CPx, 
 
 <img src=/media/bmw-ce-02-super-soco-cpx-duelo-cuerpo.webp alt=BMW CE 02 y Super Soco CPx en comparativa urbana>
 
-## Qué aporta cada una
+## Análisis: qué ofrece cada una
 
-**BMW CE 02.** Estética rompedora, aceleración de parado a 50 km/h en tres segundos, tan solo 132 kilos y una dotación impropia del segmento: pantalla TFT, arranque sin llave, toma USB-C para el móvil, marcha atrás para maniobrar y control de tracción. Sus baterías se extraen y existe variante de 4 kW para el permiso AM. En contra, cuesta alrededor de 8.400 euros, su autonomía WMTC se queda en 95 kilómetros, carece de hueco bajo el asiento y el ABS actúa solo en la rueda delantera.
+**BMW CE 02.** Diseño rompedor, 0-50 km/h en 3,0 s, solo 132 kg y un equipamiento impropio del segmento (TFT, Keyless, USB-C, marcha atrás, control de tracción). Las baterías son extraíbles y hay versión de 4 kW para el AM. Pero cuesta ≈8.400 €, la autonomía se queda en 95 km WMTC, no tiene hueco bajo el asiento y el ABS es solo delantero.
 
-**Super Soco CPx.** Lo práctico por bandera: rueda alta de 16 pulgadas delante y 14 detrás, con más estabilidad y comodidad, localización GPS con tarjeta SIM y aplicación móvil, marcha atrás, y dos baterías extraíbles que suman 137 kilómetros WMTC, todo por 5.589 euros. A cambio, su punta de 90 km/h se queda justa para vías rápidas, frena sin ABS (solo con sistema combinado) y sus plásticos quedan por debajo de los de las japonesas.
+**Super Soco CPx.** La práctica: dos baterías extraíbles con 137 km WMTC, rueda alta de 16"/14" (más estable y cómoda), marcha atrás, GPS con SIM y app, y un precio de 5.589 € muy contenido. A cambio, 90 km/h de punta justos para vías rápidas, sin ABS (solo CBS) y plásticos mejorables frente a las japonesas.
 
-## Ventajas e inconvenientes
+## Pros y contras
 
 **BMW CE 02:**
-- ✅ Aceleración fulgurante en ciudad: de parado a 50 km/h en tres segundos
-- ✅ Apenas 132 kilos y una silueta única de e-parkourer
-- ✅ Baterías que se sacan y variante AM de 4 kW
-- ✅ Pantalla TFT, arranque sin llave, USB-C para el móvil, marcha atrás y control de tracción
-- ❌ Unos 8.400 euros: cara para lo que rinde
-- ❌ Autonomía WMTC de solo 95 kilómetros
-- ❌ Ningún hueco bajo el asiento
-- ❌ ABS únicamente en la rueda delantera
+- ✅ 0-50 km/h en 3,0 s: fulgurante en ciudad
+- ✅ 132 kg y diseño único "e-parkourer"
+- ✅ Baterías extraíbles y versión AM de 4 kW
+- ✅ TFT, Keyless, USB-C, marcha atrás y control de tracción
+- ❌ ≈8.400 €: cara para sus prestaciones
+- ❌ 95 km WMTC de autonomía
+- ❌ Sin hueco bajo el asiento
+- ❌ ABS solo delantero
 
 **Super Soco CPx:**
-- ✅ Precio contenido: 5.589 euros
-- ✅ GPS, SIM, aplicación y marcha atrás de serie
-- ✅ Rueda alta: más estable y más cómoda
-- ✅ Dos baterías extraíbles que suman 137 kilómetros WMTC
-- ❌ Frenada combinada, sin ABS
-- ❌ Punta de 90 km/h, justa para vías rápidas
-- ❌ Con ambas baterías montadas desaparece el hueco del asiento
-- ❌ Materiales plásticos mejorables
+- ✅ 137 km WMTC con dos baterías extraíbles
+- ✅ Rueda alta: más estable y cómoda
+- ✅ GPS, SIM, app y marcha atrás de serie
+- ✅ 5.589 €: precio contenido
+- ❌ Sin ABS (solo CBS)
+- ❌ 90 km/h de punta, justos para vías rápidas
+- ❌ Con dos baterías se pierde el hueco del asiento
+- ❌ Plásticos mejorables
 
-## Veredicto: cuál conviene comprar
+## Veredicto: ¿cuál comprar?
 
-¿Cuál elegir? Si priorizas diversión, estética rompedora y dotación premium, y el sobreprecio no te frena, la alemana es tu opción. Si priorizas kilómetros por euro, carga extraíble doble y uso diario sin complicaciones, la CPx gana en este duelo: 137 kilómetros y dos baterías por 5.589 euros, una combinación que nadie más ofrece aquí. Fichas: <a href=/motos/bmw-ce-02-ficha-tecnica-precio/>ficha de la BMW CE 02</a> y <a href=/motos/super-soco-cpx-ficha-tecnica-precio/>ficha de la Super Soco CPx</a>, o en el <a href=/comparador-motos/?a=bmw-ce-02-ficha-tecnica-precio&b=super-soco-cpx-ficha-tecnica-precio>comparador de motos eléctricas</a>.
+**Compra la BMW CE 02 si** quieres la urbana eléctrica más divertida y diferente, con equipamiento premium y no te importa pagar el capricho. **Compra la Super Soco CPx si** buscas la máxima autonomía y practicidad por euro invertido: 137 km y dos baterías por 5.589 € no lo iguala nadie. Fichas: <a href=/motos/bmw-ce-02-ficha-tecnica-precio/>ficha de la BMW CE 02</a> y <a href=/motos/super-soco-cpx-ficha-tecnica-precio/>ficha de la Super Soco CPx</a>, o en el <a href=/comparador-motos/?a=bmw-ce-02-ficha-tecnica-precio&b=super-soco-cpx-ficha-tecnica-precio>comparador de motos eléctricas</a>.
 
-## Vídeo de la prueba
+## Míralo en vídeo
 
 <iframe src=https://www.youtube.com/embed/WQ9DX15YNSA title="Vídeo: SUPER SOCO CPX: prueba, test y review" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=WQ9DX15YNSA>Caballero Motorista</a> en YouTube
 
-## Dudas frecuentes
+## Preguntas frecuentes
 
-### ¿Cuál recorre más kilómetros con una carga?
+### ¿Cuál tiene más autonomía?
+La Super Soco CPx: 137 km WMTC con sus dos baterías, frente a 95 km de la BMW CE 02.
 
-La CPx recorre 137 kilómetros WMTC con ambas baterías; la CE 02 se queda en 95 kilómetros.
+### ¿Se pueden llevar con el carnet de coche?
+Sí, ambas versiones comparadas son de 11 kW o menos: valen el A1 o el B con más de 3 años de antigüedad. La CE 02 tiene además una versión de 4 kW para el AM.
 
-### ¿Valen con el permiso de coche?
+### ¿Las baterías se sacan para cargar en casa?
+Sí, en las dos: la CE 02 lleva dos módulos extraíbles de 1,96 kWh y la CPx dos baterías de 2,7 kWh. Ninguna necesita instalación.
 
-Sí. Ninguna de las dos variantes del duelo supera los 11 kW, así que tanto el A1 como el B con tres años de antigüedad sirven. Además, la CE 02 dispone de una variante de 4 kW pensada para el permiso AM.
+### ¿Cuál es más barata?
+La Super Soco CPx: 5.589 € frente a los ≈8.400 € de la BMW CE 02 (versión 11 kW).
 
-### ¿Se pueden extraer las baterías para cargarlas en casa?
+### ¿Cuál es más divertida?
+La CE 02: 3,0 s de 0 a 50 km/h, 132 kg y un chasis muy ágil. La CPx es más rutera y práctica que deportiva.
 
-Sí, ambas se cargan en casa sin instalar nada: la alemana usa dos módulos extraíbles de 1,96 kWh cada uno, y la CPx, dos acumuladores de 2,7 kWh.
-
-### ¿Cuál sale más barata?
-
-La CPx, con diferencia: 5.589 euros, mientras la CE 02 de 11 kW ronda los 8.400 euros.
-
-### ¿Cuál resulta más divertida?
-
-La alemana: tres segundos hasta 50 km/h, 132 kilos y un bastidor ágil. La CPx apuesta más por el uso rutero y práctico que por la deportividad.
-
-Si una multa te llega y sospechas que trae algún defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+`,
   },
   {
-    title: "Zero S contra Can-Am Pulse: ¿cuál eléctrica comprar?",
+    title: "Zero S vs Can-Am Pulse 2026",
     slug: "zero-s-vs-can-am-pulse-cual-comprar",
-    excerpt: "Zero S desde 18.295 € y 262 km frente a Can-Am Pulse desde 13.199 € y recarga en 50 minutos: duelo de naked eléctricas.",
+    excerpt: "Zero S (18.295 €, 262 km) vs Can-Am Pulse (13.199 €, carga en 50 min): las dos naked eléctricas más serias del mercado, frente a frente.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -528,11 +524,11 @@ Si una multa te llega y sospechas que trae algún defecto, <a href=https://recur
     ],
     content: `<img src=/media/zero-s-vs-can-am-pulse-cual-comprar-hero.webp alt=Comparativa entre la Zero S y la Can-Am Pulse, las dos naked eléctricas más serias del mercado>
 
-Dos desnudas a baterías se disputan al motorista que quiere prescindir de la gasolina sin renunciar a sensaciones: por un lado, la Zero S ZF15.6 del año 2026, que anuncia 262 km de alcance y admite conducción con el permiso de automóvil convalidado; por otro, la Can-Am Pulse, regreso de la firma de Canadá al mundo de las dos ruedas después de 38 años, que recupera del 20 al 80 % en 50 minutos, además de montar una pantalla táctil de 10,25 pulgadas.
+El duelo de las naked eléctricas serias: la Zero S ZF15.6 (2026), con 262 km declarados y la posibilidad de llevarla con el carnet de coche convalidado, frente a la Can-Am Pulse, la vuelta de la marca canadiense a las motos tras 38 años, con carga del 20 al 80 % en 50 minutos y pantalla táctil de 10,25".
 
-**En pocas palabras:** quien priorice recorrer la mayor distancia posible con una eléctrica y el permiso B elegirá la Zero S; quien prefiera la desnuda eléctrica con más tecnología y recarga más veloz optará por la Pulse.
+La respuesta corta: **la Zero S es para quien quiere la máxima autonomía eléctrica con carnet B; la Pulse para quien busca la naked eléctrica más tecnológica y con carga más rápida**. La tabla:
 
-## Cifras frente a frente: Zero S y Can-Am Pulse
+## Tabla comparativa: Zero S vs Can-Am Pulse
 
 | Ficha | Zero S ZF15.6 (2026) | Can-Am Pulse (35 kW) |
 |---|---|---|
@@ -550,67 +546,68 @@ Dos desnudas a baterías se disputan al motorista que quiere prescindir de la ga
 
 <img src=/media/zero-s-can-am-pulse-duelo-cuerpo.webp alt=Zero S y Can-Am Pulse en una carretera>
 
-## Lo que entrega cada modelo
+## Análisis: qué ofrece cada una
 
-La Zero S marca la referencia en alcance: anuncia 262 km con una batería de 15,6 kWh, desarrolla un par de 132 Nm, equipa ABS y control de tracción firmados por Bosch, y permite configurar modos desde una app. Además, se puede pilotar con el B convalidado. En el otro lado de la balanza, su tarifa arranca en 18.295 €, su peso llega a 223 kg, la recarga de serie ronda las 10 h y la autonomía real por autopista queda muy lejos de la cifra anunciada.
+**Zero S.** La referencia en autonomía: 262 km declarados con 15,6 kWh, 132 Nm de par, electrónica Bosch con ABS y control de tracción, y app con modos personalizables. Y todo conducible con el B convalidado. Pero cuesta 18.295 €, pesa 223 kg, la carga de serie tarda ~10 h y la autonomía real en autopista cae muy por debajo de la declarada.
 
-La Pulse supone el retorno de Can-Am a las motos después de 38 años: su motor Rotax E-Power refrigerado por líquido acelera de 0 a 100 km/h en 3,8 s, su pantalla táctil de 10,25 pulgadas integra Apple CarPlay y su recarga resulta rapidísima (cargador interno de 6,6 kW, 50 min del 20 al 80 %). Como contrapartida, su alcance WMTC de 130 km ronda los 95 km en uso real, sale de fábrica como monoplaza y su hueco de carga es mínimo.
+**Can-Am Pulse.** La primera moto Can-Am en 38 años: motor Rotax E-Power con refrigeración líquida, 0-100 km/h en 3,8 s, pantalla táctil de 10,25" con Apple CarPlay y una carga rapidísima (6,6 kW de a bordo, 50 min del 20 al 80 %). A cambio, 130 km WMTC que en pruebas reales rondan los 95 km, de serie es monoplaza y el hueco de carga es mínimo.
 
-## Puntos fuertes y puntos débiles
+## Pros y contras
 
 **Zero S:**
-- 262 km anunciados: el mayor alcance con permiso B
-- 132 Nm y 139 km/h: empuje y velocidad de moto grande
-- ABS y control de tracción de Bosch
-- Modos configurables desde la app y 5 años de garantía de batería
-- Su precio, 18.295 €, supera con holgura al de cualquier 125 de gasolina
-- Peso en orden de marcha: 223 kg
-- Recarga de serie lenta (unas 10 h)
-- En autopista, el alcance cae mucho
+- ✅ 262 km declarados: la mayor autonomía con carnet B
+- ✅ 132 Nm y 139 km/h: prestaciones de moto grande
+- ✅ Electrónica Bosch con ABS y control de tracción
+- ✅ App con modos personalizables y 5 años de garantía de batería
+- ❌ 18.295 €: muy por encima de cualquier 125 de gasolina
+- ❌ 223 kg en orden de marcha
+- ❌ Carga lenta de serie (~10 h)
+- ❌ La autonomía en autopista cae mucho
 
 **Can-Am Pulse:**
-- Acelera hasta 100 km/h en 3,8 s y entrega 72 Nm
-- Recupera del 20 al 80 % en 50 minutos
-- Monitor táctil de 10,25 pulgadas con Apple CarPlay
-- Cadena en cárter y refrigeración por líquido: revisiones mínimas
-- 13.199 € y 130 km WMTC (unos 95 reales)
-- Sale como monoplaza: la plaza del pasajero es un extra de pago
-- Con 177 kg, se nota pesada en parado
-- Espacio de carga muy escaso
+- ✅ 0-100 km/h en 3,8 s con 72 Nm
+- ✅ Carga del 20 al 80 % en 50 minutos
+- ✅ Pantalla táctil de 10,25" con Apple CarPlay
+- ✅ Refrigeración líquida y cadena en cárter: mantenimiento mínimo
+- ❌ 13.199 € y 130 km WMTC (≈95 reales)
+- ❌ Monoplaza de serie (el asiento del pasajero se paga aparte)
+- ❌ 177 kg, densa en parado
+- ❌ Hueco de carga mínimo
 
-## La recomendación: ¿con cuál quedarse?
+## Veredicto: ¿cuál comprar?
 
-Elige la Zero S cuando la autonomía mande y busques la eléctrica más capaz utilizable con el permiso de automóvil: ningún rival alcanza 262 km. Elige la Can-Am Pulse cuando te atraiga la desnuda más actual y tecnológica, con recarga veloz de verdad y una tarifa unos 5.000 € más baja, aceptando el A2. Consulta: <a href=/motos/zero-s-ficha-tecnica-precio/>datos de la Zero S</a> y <a href=/motos/can-am-pulse-ficha-tecnica-precio/>datos de la Pulse</a>, o en el <a href=/comparador-motos/?a=zero-s-ficha-tecnica-precio&b=can-am-pulse-ficha-tecnica-precio>comparativa de motos eléctricas</a>.
+**Compra la Zero S si** tu prioridad es la autonomía y quieres la eléctrica más capaz que se puede llevar con el carnet de coche: 262 km no los ofrece nadie más. **Compra la Can-Am Pulse si** prefieres la naked más moderna y tecnológica, con carga rápida de verdad y un precio 5.000 € inferior, asumiendo el A2. Fichas: <a href=/motos/zero-s-ficha-tecnica-precio/>ficha de la Zero S</a> y <a href=/motos/can-am-pulse-ficha-tecnica-precio/>ficha de la Can-Am Pulse</a>, o en el <a href=/comparador-motos/?a=zero-s-ficha-tecnica-precio&b=can-am-pulse-ficha-tecnica-precio>comparador de motos eléctricas</a>.
 
-## Vídeo de la Zero S
+## Míralo en vídeo
 
 <iframe src=https://www.youtube.com/embed/M-1TgydlZAY title="Vídeo: Zero S, probamos la moto eléctrica de Zero" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=M-1TgydlZAY>ComputerHoy</a> en YouTube
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿Cuál ofrece más autonomía real?
-La Zero S, sin discusión: anuncia 262 km, mientras la Pulse homologa 130 km WMTC (unos 95 reales). Para rutas largas, la diferencia es abismal.
+### ¿Cuál tiene más autonomía real?
+La Zero S: 262 km declarados frente a 130 km WMTC (≈95 reales) de la Pulse. Si haces rutas largas, no hay color.
 
-### ¿Qué permiso exige cada modelo?
-La versión de 11 kW de la Zero S admite el A1 y también el B cuando suma más de 3 años. La Pulse de 35 kW requiere el A2, si bien hay una variante de 11 kW utilizable con A1/B.
+### ¿Qué carnet necesito para cada una?
+La Zero S (versión 11 kW) se lleva con el A1 o el B con más de 3 años. La Can-Am Pulse de 35 kW exige el A2, aunque existe una versión de 11 kW para A1/B.
 
 ### ¿Cuál carga más rápido?
-La Pulse, con holgura: 50 minutos del 20 al 80 % gracias a su cargador interno de 6,6 kW. La Zero S, en cambio, necesita cerca de 10 h con la carga de serie; la rápida se ofrece como opción y sale cara.
+La Can-Am Pulse, con diferencia: 50 minutos del 20 al 80 % con su cargador de a bordo de 6,6 kW. La Zero S tarda unas 10 h de serie (la carga rápida es opcional y cara).
 
-### ¿Se puede viajar con pasajero en la Pulse?
-De fábrica no: viene como monoplaza y la plaza del pasajero se adquiere como accesorio opcional. La Zero S, en cambio, trae dos plazas de serie.
+### ¿La Pulse sirve para ir con pasajero?
+De serie no: es monoplaza y el asiento del pasajero es un accesorio opcional. La Zero S es biplaza de serie.
 
 ### ¿Cuál es más barata?
-La Pulse: 13.199 € contra 18.295 € de la Zero S. La brecha ronda los 5.000 €.
+La Can-Am Pulse: 13.199 € frente a 18.295 € de la Zero S. Unos 5.000 € de diferencia.
 
-Si una sanción te parece defectuosa, <a href=https://recurretumulta.online/>revísala sin coste con nuestra IA</a> antes de abonar nada.`,
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+`,
   },
   {
-    title: "BMW F 450 R vs Hornet vs Z500: naked A2, duelo total",
+    title: "F 450 R vs Hornet vs Z500: ¿cuál?",
     slug: "bmw-f-450-r-vs-honda-cb500-hornet-vs-kawasaki-z500",
-    excerpt: "BMW F 450 R (6.799 €, 48 CV, 175 kg) frente a Honda CB500 Hornet (6.850 €) y Kawasaki Z500 (6.450 €): la naked A2 ideal según tu perfil.",
+    excerpt: "La BMW F 450 R (6.799 €) se mete en el avispero de las naked A2: 48 CV y 175 kg frente a la Honda CB500 Hornet (6.850 €) y la Kawasaki Z500 (6.450 €). Las comparamos dato a dato y te decimos cuál encaja con cada perfil.",
     category: "Novedades Motor",
     date: "2026-10-07",
     readTime: 8,
@@ -623,9 +620,9 @@ Si una sanción te parece defectuosa, <a href=https://recurretumulta.online/>rev
     ],
     content: `<img src=/media/bmw-f-450-r-vs-honda-cb500-hornet-vs-kawasaki-z500-hero.webp alt=Tres motos naked aparcadas en fila en una carretera de montaña al atardecer>
 
-La **BMW F 450 R** acaba de entrar en el segmento más reñido del permiso A2: las naked de 47 y 48 CV. Arranca en **6.799 €**, anuncia 48 CV y pesa 175 kg, situándose entre la Honda CB500 Hornet, que vale 6.850 €, y la Kawasaki Z500, a 6.450 €. Tres monturas, tres planteamientos y apenas 400 € separando la más cara de la más económica. Al lío.
+La **BMW F 450 R** acaba de aterrizar en el segmento más disputado del carnet A2: las naked de 47-48 CV. Con **6.799 €** de precio de partida, 48 CV y 175 kg, la alemana se coloca justo entre la **Honda CB500 Hornet** (6.850 €) y la **Kawasaki Z500** (6.450 €). Tres motos, tres filosofías y apenas 400 € de diferencia entre la más cara y la más barata. Vamos al grano.
 
-## Las cifras, cara a cara
+## El duelo en cifras
 
 | | BMW F 450 R | Honda CB500 Hornet | Kawasaki Z500 |
 |---|---|---|---|
@@ -640,25 +637,25 @@ La **BMW F 450 R** acaba de entrar en el segmento más reñido del permiso A2: l
 
 <img src=/media/bmw-f-450-r-vs-honda-cb500-hornet-vs-kawasaki-z500-galeria-1.webp alt=Vista del manillar y la pantalla TFT de una naked en una carretera de curvas>
 
-## Lo que ofrece cada modelo
+## Qué aporta cada una
 
-**BMW F 450 R: la más tecnológica.** Solo ella equipa ayudas propias de moto grande: ABS sensible a la inclinación, control de tracción y frenada dinámica, y solo ella brinda un embrague automático en opción (Easy Ride Clutch). Con 175 kg, queda 13 por debajo de la Honda. Su flanco débil: la base llega escueta, ni quickshifter ni suspensión Sport de serie, y la red BMW aplica las revisiones más costosas.
+**BMW F 450 R: la tecnológica.** Es la única con electrónica de moto grande (ABS en curva, control de tracción, control dinámico de frenada) y la única que ofrece un embrague automático opcional (Easy Ride Clutch). Pesa 175 kg, 13 menos que la Honda. Su punto débil: la base viene pelada (sin quickshifter ni suspensión Sport) y la red BMW cobra las revisiones más caras.
 
-**Honda CB500 Hornet: la equilibrada.** Su bicilíndrico de 500 cc es un valor consolidado, presente en media gama de Honda, y su tarifa (6.850 €) prácticamente calca la de la BMW, y su peso en orden de marcha es de 188 kg, con una dotación electrónica más justa, sin control de tracción. Es la opción sensata: reventa sencilla y mantenimiento económico.
+**Honda CB500 Hornet: la equilibrada.** El bicilíndrico de 500 cc es un valor seguro, probado en media gama Honda, y su precio (6.850 €) es casi idéntico al de la BMW. Pesa 188 kg y su electrónica es más básica (sin control de tracción). Es la apuesta sensata: reventa fácil y mantenimiento barato.
 
-**Kawasaki Z500: la asequible.** A 6.450 € resulta la más económica del trío, con 350 € de ventaja, y sus 45 CV quedan a solo 3 de la BMW; cuando el presupuesto manda, es la compra lógica; si buscas ese plus tecnológico, mira hacia la alemana.
+**Kawasaki Z500: la accesible.** Con 6.450 € es la más barata del trío por 350 €, y sus 45 CV están a solo 3 de la BMW. Si el presupuesto manda, es la compra racional; si buscas el extra de tecnología, mira a la alemana.
 
-## Conclusión rápida
+## Veredicto
 
-Si priorizas tecnología y carácter, **BMW F 450 R**. Si valoras equilibrio y reventa, **Honda CB500 Hornet**. Si manda el precio mínimo, la **Kawasaki Z500**. Las tres respetan el tope del A2; lo que cambia es cómo ordenas tus prioridades: electrónica, sensatez o bolsillo.
+¿Tecnología y carácter? **BMW F 450 R**. ¿Equilibrio y reventa? **Honda CB500 Hornet**. ¿Precio mínimo? **Kawasaki Z500**. Las tres cumplen el A2 al límite; la diferencia la pone tu prioridad: electrónica, sensatez o bolsillo.
 
 Fichas completas: <a href=/motos/bmw-f-450-r-2026-ficha-tecnica-precio/>BMW F 450 R</a> · <a href=/comparador-motos/>Comparador de motos</a> · Análisis: <a href=/blog/bmw-f-450-r-naked-a2-precio-espana-2026/>BMW F 450 R, a fondo</a>
 
-## Un segmento que se disputa palmo a palmo
+## Por qué este segmento está tan disputado
 
-Las naked A2 atraen a quien estrena permiso, a quien regresa tras años sin moto y a quien baja desde una moto grande. Honda rescata una denominación con pasado: su ficha sitúa el origen en la CB600F de 1998, y el motor se comparte con la Rebel 500, además de con la NX500 y la CL500. Kawasaki recurre al diseño Sugomi de la familia Z, que arrancó en 1972 con la Z1, y coincide con la Ninja 500 en casi todo menos en el carenado. BMW llega con la familia F 450, con motor fabricado por TVS en India y un cigüeñal a 135 grados que persigue un sonido propio.
+Las naked A2 concentran a quien estrena carnet, a quien vuelve tras años y a quien baja de una moto grande. Honda recupera un nombre con historia —su ficha recuerda que nació con la CB600F de 1998— y comparte motor con la Rebel 500, la NX500 y la CL500. Kawasaki apela al diseño Sugomi de la familia Z, nacida en 1972 con la Z1, y comparte casi todo con la Ninja 500 salvo el carenado. BMW entra con la familia F 450, cuyo motor fabrica TVS en India y cuyo cigüeñal a 135 grados busca un sonido propio.
 
-## La tabla, con lo que el precio no muestra
+## La tabla, ampliada con lo que no se ve en el precio
 
 | Dato | BMW F 450 R | Honda CB500 Hornet | Kawasaki Z500 |
 |---|---|---|---|
@@ -669,47 +666,44 @@ Las naked A2 atraen a quien estrena permiso, a quien regresa tras años sin moto
 | **Revisión** | Cada 10.000 km | Cada 12.000 km o 12 meses | Cada 12.000 km o 12 meses |
 | **Altura de asiento** | No consta en las fichas del sitio | No consta en las fichas del sitio | No consta en las fichas del sitio |
 
-Para ver cada modelo por separado, abre su ficha: <a href=/motos/bmw-f-450-r-2026-ficha-tecnica-precio/>ficha de la BMW F 450 R</a>, <a href=/motos/honda-cb500-hornet-2025-ficha-tecnica-precio/>ficha de la Honda CB500 Hornet</a> y <a href=/motos/kawasaki-z500-2024-ficha-tecnica-precio/>ficha de la Kawasaki Z500</a>. Y si la Kawasaki te convence pero buscas un acabado superior, tienes la <a href=/motos/kawasaki-z500-se-2025-ficha-tecnica-precio/>Kawasaki Z500 SE</a>, que según su ficha añade pantalla TFT por 6.799 €.
+Consulta cada modelo por separado en su ficha: <a href=/motos/bmw-f-450-r-2026-ficha-tecnica-precio/>ficha de la BMW F 450 R</a>, <a href=/motos/honda-cb500-hornet-2025-ficha-tecnica-precio/>ficha de la Honda CB500 Hornet</a> y <a href=/motos/kawasaki-z500-2024-ficha-tecnica-precio/>ficha de la Kawasaki Z500</a>. Si la Kawasaki te gusta pero quieres mejor acabado, existe la <a href=/motos/kawasaki-z500-se-2025-ficha-tecnica-precio/>Kawasaki Z500 SE</a>, que según su ficha suma pantalla TFT por 6.799 €.
 
-## En la calle, en curvas y en autovía
+## Uso real: ciudad, curvas y autopista
 
-Entre semáforos decide la báscula: la BMW declara 175 kg y, con el Easy Ride Clutch opcional, promete arrancar sin accionar la maneta, un alivio claro en el tráfico urbano; la Honda suple sus 188 kg con un propulsor probado y dócil, y la Kawasaki apuesta por su ligereza y su estrechez. En curvas, la BMW suma ayudas que leen la inclinación y una frenada de referencia; la Honda responde con horquilla invertida y freno delantero de doble disco; la Kawasaki, con sencillez. En autovía, ninguna está pensada para viajar: sin carenado que desvíe el aire, el viento impone su ley en las tres por igual.
+En ciudad manda el peso. La BMW, con 175 kg y el Easy Ride Clutch opcional, promete arranques sin tocar la maneta, ayuda clara entre semáforos; la Honda compensa sus 188 kg con un motor probado y dócil, y la Kawasaki juega la baza de ser ligera y estrecha. En curvas, la BMW suma electrónica sensible a la inclinación y frenos de referencia, la Honda aporta horquilla invertida y doble disco, y la Kawasaki ofrece sencillez. En autopista ninguna es rutera: sin protección aerodinámica, el viento manda en las tres.
 
-## Revisiones y gasto de mantenimiento
+## Mantenimiento y costes comparados
 
-Honda y Kawasaki fijan la revisión cada 12.000 km o cada 12 meses —la Kawasaki adelanta una primera revisión a los 1.000 km—; la BMW, por su parte, fija 10.000 km entre revisiones según su nota oficial. Y el duelo de arriba avisa: la red BMW cobra más que las japonesas, y la ficha de la Honda recalca consumo bajo y mantenimiento barato. Para el cuidado en casa, las tres montan cadena con retenes, que pide limpieza, engrase y tensión. Honda indica un 10W-30 y Kawasaki un 10W-40 en sus fichas. Sin importes cerrados de taller, lo prudente es concluir que las japonesas salen con ventaja en coste por kilómetro.
+Honda y Kawasaki piden revisión cada 12.000 km o 12 meses —la Kawasaki añade la primera a los 1.000 km—, mientras la BMW marca 10.000 km según su nota oficial. El duelo de arriba advierte de que la red BMW cobra más, y la ficha de la Honda subraya consumo bajo y mantenimiento barato. En casa, las tres usan cadena con retenes: limpieza, engrase y tensión. Honda especifica aceite 10W-30 y Kawasaki 10W-40 en sus fichas. Sin cifras cerradas de taller, la lectura honesta es que las japonesas parten con ventaja en coste por kilómetro.
 
-## El A2, el rasero común
+## Carnet A2: el límite que las iguala
 
-El permiso al que van dirigidas las tres es el mismo: el A2 topa en 35 kW; de ahí que la BMW declare justo 35 kW, que la Honda se quede en 34,6 kW y que la Kawasaki baje a 33,4 kW. Ninguna precisa limitación añadida. Con la potencia capada por norma, la diferencia real la marcan el peso, la electrónica, el precio y lo que cuesta mantenerla.
+Las tres nacen para el mismo permiso: el A2 limita a 35 kW, y por eso la BMW declara exactamente 35 kW, la Honda 34,6 kW y la Kawasaki 33,4 kW. Ninguna necesita limitación adicional. Con la potencia topada por norma, la diferencia real la ponen el peso, la electrónica, el precio y el coste de mantenerla.
 
-**Veredicto:** no existe una ganadora única, sino una ganadora según el perfil. Si estrenas el A2 y buscas la montura más completa y con más tecnología, la **BMW F 450 R**, aceptando un mantenimiento más caro y una base sin extras. Para quien busque equilibrio, una reventa sencilla y un gasto contenido año tras año, la **Honda CB500 Hornet**. Si lo que decide es el presupuesto y prefieres destinar la diferencia a equipamiento o al seguro, la **Kawasaki Z500**.
+**Veredicto:** no hay una ganadora única, hay una ganadora por perfil. Si estrenas A2 y quieres la moto más completa y tecnológica, la **BMW F 450 R**, asumiendo revisiones más caras y una base sin extras. Si buscas equilibrio, reventa fácil y gastos contenidos durante años, la **Honda CB500 Hornet**. Si el presupuesto es el factor decisivo y prefieres gastar la diferencia en equipamiento o en el seguro, la **Kawasaki Z500**. 
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿Cuál de las tres entrega más potencia?
+### ¿Cuál es la naked A2 más potente de las tres?
+La **BMW F 450 R**, con 48 CV al límite legal del A2, seguida de la Honda CB500 Hornet (47 CV) y la Kawasaki Z500 (45 CV).
 
-La **BMW F 450 R**: 48 CV en el tope legal del A2, por delante de la Hornet de Honda (47 CV) y de la Z500 de Kawasaki (45 CV).
+### ¿Cuál es la más barata?
+La **Kawasaki Z500** (6.450 €), 349 € menos que la BMW F 450 R (6.799 €) y 400 € menos que la Honda CB500 Hornet (6.850 €).
 
-### ¿Cuál tiene el precio más bajo?
+### ¿Cuál tiene mejor electrónica?
+La **BMW F 450 R** con diferencia: ABS Pro en curva, control de tracción, control dinámico de frenada y 3 modos de conducción de serie, además del Easy Ride Clutch opcional.
 
-La **Kawasaki Z500** (6.450 €), 349 € por debajo de la BMW F 450 R, que vale 6.799 €, y 400 € por debajo de la Honda CB500 Hornet, a 6.850 €.
+### ¿Cuál pesa menos?
+La **BMW F 450 R** (175 kg en orden de marcha), 13 kg menos que la Honda CB500 Hornet (188 kg).
 
-### ¿Cuál equipa la electrónica más completa?
-
-La **BMW F 450 R** con holgura: ABS Pro sensible a la inclinación, control de tracción, frenada dinámica y 3 programas de conducción de serie, más el Easy Ride Clutch en opción.
-
-### ¿Cuál es la más ligera?
-
-La **BMW F 450 R**: declara 175 kg con todos los líquidos, 13 kg por debajo de los 188 kg de la Honda CB500 Hornet.
 
 *Fuentes: <a href=https://www.press.bmwgroup.com/global/article/detail/T0460765EN/bmw-motorrad-presents-the-new-bmw-f-450-r?language=en>nota de prensa oficial de BMW Motorrad</a>, <a href=https://www.honda.es/motorcycles.html>Honda España</a> y <a href=https://www.kawasaki.es/>Kawasaki España</a>.*`,
   },
 
   {
-    title: "C6, CUV e: y NQi Sport: elige por tu carnet",
+    title: "C6 vs CUV e: vs NQi Sport: la eléctrica urbana ideal",
     slug: "flying-flea-c6-vs-honda-cuv-e-vs-niu-nqi-sport-cual-comprar",
-    excerpt: "Flying Flea C6 (5.990 €, 115 km/h), Honda CUV e: (baterías extraíbles) y NIU NQi Sport (1.999 €, 130 km): comparativa urbana donde tu permiso decide.",
+    excerpt: "Flying Flea C6 (5.990 €, 115 km/h) vs Honda CUV e: (4.000 €, baterías extraíbles) vs NIU NQi Sport (1.999 €, 130 km): duelo de motos eléctricas urbanas. La decisión la marca tu carnet. Tablas y veredicto.",
     category: "Novedades Motor",
     date: "2026-10-11",
     readTime: 8,
@@ -725,9 +719,9 @@ La **BMW F 450 R**: declara 175 kg con todos los líquidos, 13 kg por debajo de 
 
 **¿Buscas solo los datos?** <a href=/motos/royal-enfield-flying-flea-c6-2026-ficha-tecnica-precio/>Ver ficha de la Flying Flea C6</a> · <a href=/motos/honda-cuv-e-2025-ficha-tecnica-precio/>Ver ficha de la Honda CUV e:</a> · <a href=/motos/niu-nqi-sport-scooter-electrico-1999-euros-gama-2026/>Ver ficha de la NIU NQi Sport</a> · <a href=/comparador-motos/>Compararlas cara a cara</a>.
 
-Antes de comparar precios o autonomías, conviene mirar el permiso que tienes en el bolsillo, porque cada una de estas tres monturas eléctricas pide un permiso distinto y apunta a un uso distinto dentro de la ciudad. La más barata de la terna es la NIU NQi Sport, que arranca en 1.999 € y anuncia 130 km de recorrido, aunque su velocidad queda limitada a 45 km/h y su categoría es la de ciclomotor. En el tramo intermedio aparece la Honda CUV e:, un scooter japonés que ronda los 4.000 €, con la variante Connected en 4.550 €, y cuya baza es poder extraer sus dos acumuladores para enchufarlos en casa. Por encima, en 5.990 €, la Flying Flea C6 supone el debut eléctrico de Royal Enfield y se presenta como una motocicleta completa, con 115 km/h de punta y un bastidor de aluminio forjado.
+Tres eléctricas urbanas, tres carnets, tres presupuestos. La **Flying Flea C6** (5.990 €) es la primera eléctrica de Royal Enfield: 115 km/h y chasis de aluminio forjado. La **Honda CUV e:** (~4.000 €) es el scooter japonés con dos baterías extraíbles que cargas en casa. La **NIU NQi Sport** (1.999 €) es el ciclomotor eléctrico con 130 km de autonomía. Spoiler: **la ganadora la decide tu carnet**.
 
-## Comparativa en cifras
+## La tabla: cara a cara
 
 |  | **Flying Flea C6** | **Honda CUV e:** | **NIU NQi Sport** |
 |---|---|---|---|
@@ -746,51 +740,48 @@ Antes de comparar precios o autonomías, conviene mirar el permiso que tienes en
 
 <img src=/media/flying-flea-c6-vs-honda-cuv-e-vs-niu-nqi-sport-cual-comprar-carga.webp alt=Scooter eléctrico cargando en un enchufe doméstico en un garaje en España>
 
-## Ventajas decisivas de cada modelo
+## Dónde gana cada una
 
-La propuesta de Royal Enfield destaca por su planteamiento de motocicleta auténtica. Monta una horquilla Girder en aluminio forjado, alcanza 115 km/h de verdad, y equipa ABS en curva junto a control de tracción en curva, un conjunto que ninguna de las otras dos ofrece. Las primeras unidades llegaron a nuestro país en octubre de 2026, y Barcelona figuró entre las cinco urbes europeas elegidas para el lanzamiento.
+**La C6 gana en moto de verdad.** Horquilla Girder de aluminio forjado, 115 km/h reales, ABS en curva y control de tracción en curva: es la única de las tres que se comporta como una moto. Las entregas en España arrancaron en octubre de 2026 (Barcelona entre las cinco ciudades europeas de lanzamiento).
 
-El scooter de Honda brilla, en cambio, por lo sencillo que resulta convivir con él cada día. Sus dos acumuladores, de 1,3 kWh cada uno, salen en cuestión de segundos y admiten carga en un enchufe corriente, así que no hace falta disponer de un garaje con punto de carga propio. A eso se suma el respaldo de una marca japonesa con una red amplia y una punta de 83 km/h que basta para moverse por rondas. Su punto débil es el tiempo de recarga completa, que se alarga hasta las 6 horas.
+**La CUV e: gana en practicidad diaria.** Las dos baterías de 1,3 kWh se extraen en segundos y se cargan en cualquier enchufe: no necesitas garaje con punto de carga. Marca japonesa, red Honda y 83 km/h suficientes para rondas. El pero: 6 horas para la carga completa.
 
-La NIU, por su parte, vence en los dos apartados que más pesan al bolsillo: precio de acceso y recorrido anunciado. Con 1.999 € y 130 km declarados, resulta difícil de batir como segunda montura para la ciudad. La contrapartida es clara: al quedar capada a 45 km/h, su territorio es exclusivamente urbano, y su condición de ciclomotor exige el permiso AM.
+**La NQi Sport gana en precio y autonomía.** 1.999 € y 130 km declarados: imbatible como segundo vehículo urbano. El pero: 45 km/h la limitan a ciudad pura, y es un ciclomotor (AM).
 
-## Qué modelo encaja con tu permiso
+## Nuestra recomendación honesta
 
-El permiso pesa más que el precio a la hora de decidir:
+El carnet manda más que el precio:
 
-- **Permiso AM, o desplazamientos solo urbanos a 45 km/h → NIU NQi Sport.** Por 1.999 € y con 130 km anunciados, no admite réplica.
-- **Permiso A1, o B con tres años de antigüedad, y uso cotidiano → Honda CUV e:.** Acumuladores extraíbles, marca con red de servicio y 83 km/h. Para sacarle partido a la C6 haría falta el A2.
-- **Permiso A2 y ganas de una moto, no de un scooter → Flying Flea C6.** Por 5.990 € ofrece un bastidor serio, 115 km/h y ayudas en curva. Juega en otra categoría.
+- **Carnet AM o solo ciudad a 45 km/h → NIU NQi Sport.** 1.999 € y 130 km: no hay discusión.
+- **Carnet A1 (o B con 3 años) y uso diario → Honda CUV e:.** Baterías extraíbles, marca con red y 83 km/h. La C6 te exige el A2 para aprovecharla.
+- **Carnet A2 y quieres una moto, no un scooter → Flying Flea C6.** 5.990 € por una eléctrica con chasis de verdad, 115 km/h y tecnología de curva. Es otra liga.
 
-Un matiz para quien tenga el A2 y dude entre la C6 y la CUV e: piensa primero dónde guardas la moto por la noche. Si no cuentas con un garaje con enchufe, los acumuladores extraíbles de la Honda son un argumento de peso; si sí lo tienes, la C6 es bastante más moto.
-
-<a href=/comparador-motos/>Compáralas en el comparador de motos</a>
+El matiz: si tienes el A2 y dudas entre la C6 y la CUV e:, pregúntate dónde aparcas. Sin garaje con enchufe, las baterías extraíbles de la Honda valen oro; con garaje, la C6 es mucho más moto. <a href=/comparador-motos/>Pásate por el comparador de motos</a> y míralas cara a cara.
 
 Y un recordatorio de la casa: también en eléctrico, los límites de velocidad aplican. Si te llega una multa, <a href=/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-## Respuestas rápidas
+## Preguntas frecuentes
 
-### ¿Qué permiso exige cada montura?
-La NQi Sport, al ser ciclomotor, se conduce con el AM. La CUV e:, equivalente a una 125, pide el A1, o bien el B con tres años de antigüedad. La C6 requiere el A2.
+### ¿Qué carnet hace falta para cada una?
+La **NQi Sport** es ciclomotor: **AM**. La **CUV e:** equivale a 125: **A1** (o B con 3 años). La **C6** necesita el **A2**.
 
-### ¿Qué modelo recorre más kilómetros con una carga?
-La NIU NQi Sport, con 130 km anunciados, queda por delante de la C6, con 104 km en ciclo urbano, y de la CUV e:, con alrededor de 72 km.
+### ¿Cuál tiene más autonomía?
+La **NIU NQi Sport: 130 km** declarados, por delante de la C6 (104 km urbano) y la CUV e: (~72 km).
 
-### ¿Cuál alcanza mayor velocidad?
-La Flying Flea C6, con 115 km/h de máxima y una aceleración de 0 a 60 en 3,7 segundos. La CUV e: se queda en 83 km/h y la NQi Sport en 45 km/h.
+### ¿Cuál es más rápida?
+La **Flying Flea C6: 115 km/h** (0-60 en 3,7 s). La CUV e: llega a 83 km/h y la NQi Sport a 45 km/h.
 
-### ¿Las tres disfrutan del distintivo ambiental cero?
-Sí. Al ser modelos totalmente eléctricos, las tres lucen el distintivo Cero de la DGT, así que pueden entrar en las zonas de bajas emisiones sin restricciones.
+### ¿Las tres tienen etiqueta Cero de la DGT?
+Sí: las tres son 100 % eléctricas y llevan la **etiqueta Cero**, con acceso total a las ZBE.
 
-### ¿Cuál recupera carga antes?
-La C6: una recarga parcial del 20 al 80 por ciento ronda los 65 minutos. La CUV e: necesita unas 6 horas para una carga completa del 0 al 100 por ciento, aunque el tramo del 25 al 75 por ciento baja de las 3 horas.
+### ¿Cuál carga más rápido?
+La **C6**: del 20 al 80 % en unos 65 minutos. La CUV e: tarda unas 6 horas (0-100 %), aunque del 25 al 75 % baja de 3 horas.
 
-### ¿Compensa pagar 5.990 € por la Flying Flea C6?
-Si dispones del A2 y lo que buscas es una eléctrica de verdad, con bastidor forjado en aluminio, 115 km/h de punta y asistencias en curva, y no un scooter, la respuesta es afirmativa: por ese importe no existe un rival directo.
-
-<a href=/blog/flying-flea-c6-moto-electrica-royal-enfield-5990-euros/>Análisis completo de la Flying Flea C6</a>
+### ¿Merece la pena la Flying Flea C6 por 5.990 €?
+Si tienes el A2 y buscas una moto eléctrica de verdad (no un scooter), sí: chasis de aluminio forjado, 115 km/h y ayudas en curva por ese precio no tienen rival directo. <a href=/blog/flying-flea-c6-moto-electrica-royal-enfield-5990-euros/>Aquí tienes nuestro análisis completo</a>.
 
 **También te puede interesar:** <a href=/motos/royal-enfield-flying-flea-c6-2026-ficha-tecnica-precio/>ficha de la Flying Flea C6</a> · <a href=/motos/honda-cuv-e-2025-ficha-tecnica-precio/>ficha de la Honda CUV e:</a> · <a href=/comparador-motos/>comparador de motos eléctricas</a> · <a href=/#analizador>analiza tu multa gratis</a>.
+
 `
   },
 ];

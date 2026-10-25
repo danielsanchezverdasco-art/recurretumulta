@@ -103,9 +103,9 @@ El Volvo EX30 (su primo de plataforma), el Smart #3, el Zeekr X y el MG4 en sus 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
   },
   {
-    title: "Omoda C7 2025: 279 CV, 92 km eléctricos y 42.900 €",
+    title: "Omoda C7 2025: PHEV de 279 CV y 92 km",
     slug: "omoda-c7-2025-precio",
-    excerpt: "El Omoda C7 2025 (Omoda 7 SHS en España) es un PHEV de 279 CV con 92 km eléctricos WLTP, recarga de 40 kW, etiqueta Cero y precio desde 42.900 €.",
+    excerpt: "Precio y ficha técnica del Omoda C7 2025 (en España, Omoda 7 SHS): híbrido enchufable de 279 CV, 92 km eléctricos WLTP, carga rápida de 40 kW y etiqueta Cero. Desde 42.900 €.",
     category: "Novedades Motor",
     date: "2026-10-08",
     readTime: 7,
@@ -113,11 +113,11 @@ El Volvo EX30 (su primo de plataforma), el Smart #3, el Zeekr X y el MG4 en sus 
     keywords: ["Omoda C7 2025 precio", "Omoda 7 SHS ficha técnica", "Omoda C7 híbrido enchufable", "SUV PHEV 279 CV", "Omoda 7 España"],
     content: `<img src=/media/omoda-c7-2025-precio-ficha-tecnica-hero.webp alt="Omoda C7 (7 SHS) con parrilla en X en ciudad">
 
-**¿Solo te interesan las cifras?** <a href=/coches/omoda-c7-2025-precio-ficha-tecnica/>Consulta la ficha del Omoda C7</a>: tarifa, potencia, autonomía eléctrica y maletero. <a href=/comparador-coches/>Enfréntalo con sus competidores directos</a>.
+**¿Buscas solo los datos?** <a href=/coches/omoda-c7-2025-precio-ficha-tecnica/>Ver la ficha técnica del Omoda C7</a>: precio, potencia, autonomía eléctrica y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-Entre el Omoda 5 y el 9, el **C7 2025** ocupa el hueco del SUV medio dentro de la oferta española de la marca china. Conviene aclarar el nombre: **en el mercado español se comercializa como Omoda 7 SHS**, mientras que C7 es la denominación empleada en otros mercados. Solo existe en versión híbrida enchufable: **279 CV**, **92 km eléctricos WLTP**, recarga rápida en continua y un precio inicial de **42.900 €**.
+El **Omoda C7 2025** es el SUV que completa la gama española de la marca china entre el Omoda 5 y el Omoda 9. Ojo al nombre: **en España se vende como Omoda 7 SHS** (C7 es la denominación que usa en otros mercados). Llega solo como **híbrido enchufable de 279 CV**, con **92 km de autonomía eléctrica WLTP**, carga rápida en continua y un precio de partida de **42.900 €**.
 
-## Los datos esenciales de un vistazo
+## Ficha técnica resumida
 
 | Concepto | Dato |
 |---|---|
@@ -139,67 +139,60 @@ Entre el Omoda 5 y el 9, el **C7 2025** ocupa el hueco del SUV medio dentro de l
 
 <a href=/coches/omoda-c7-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Omoda C7 con galería de fotos</a>
 
-## El sistema SHS: un PHEV que recarga como un eléctrico
+## El sistema SHS: un PHEV que carga como un eléctrico
 
-Dos motores eléctricos, un **1.5 TGDI de 143 CV** y una transmisión DHT dedicada suman **279 CV y 365 Nm** en conjunto dentro del Super Hybrid System. Su batería LFP de **18,4 kWh**, suministrada por CATL, da para **92 km sin gastar gasolina**, y su rasgo más sorprendente es la recarga rápida en continua a **40 kW**: del 30 al 80 % en torno a 20 minutos, algo que casi ningún PHEV ofrece.
+El Super Hybrid System combina un **1.5 TGDI de 143 CV** con dos motores eléctricos y una transmisión dedicada DHT para entregar **279 CV y 365 Nm** conjuntos. La batería LFP de **18,4 kWh** (CATL) permite **92 km en modo 100 % eléctrico**, y lo más llamativo: admite **carga rápida en continua de 40 kW**, pasando del 30 al 80 % en unos 20 minutos. Casi ningún híbrido enchufable ofrece eso.
 
-Batería llena y depósito completo dan una autonomía total anunciada de **1.200 km**.
+Con la batería llena y el depósito completo, la autonomía total anunciada llega a **1.200 km**.
 
-## Estética y dotación
+## Diseño y equipamiento
 
-En el frontal manda la **parrilla paramétrica con forma de X** y sin marco, acompañada de ópticas Full LED integradas, mientras que la zaga inaugura una firma luminosa con forma de rayos. En el interior, el elemento central es una **pantalla de 15,6 pulgadas** que se desliza hacia el acompañante, junto a un cuadro de 8,8 pulgadas y Head-Up Display. Completan el conjunto 19 asistentes ADAS, una cámara de 540° y un equipo de sonido Sony.
+El frontal lo domina la **parrilla paramétrica en forma de X** sin marco, con ópticas Full LED integradas, y la zaga estrena una firma luminosa en forma de rayos. Dentro, la protagonista es la **pantalla deslizante de 15,6 pulgadas** que se desplaza hacia el acompañante, acompañada de un cuadro de 8,8" y Head-Up Display. No faltan 19 asistentes ADAS, cámara de 540° y equipo de sonido Sony.
 
 <img src=/media/omoda-c7-2025-precio-ficha-tecnica-oficial.webp alt="Trasera del Omoda C7 2025">
 
-## Trayectoria del modelo
+## Historia del modelo
 
-- **2022**: Chery pone en marcha Omoda como marca global orientada a un público joven y tecnológico.
-- **2023**: el Omoda 5 llega a España y se vuelve uno de los chinos más vendidos.
-- **2024**: debuta el Omoda 7/C7, un SUV medio con variantes de gasolina e híbrida.
-- **2025**: aterriza en España como **Omoda 7 SHS** (únicamente PHEV), con tarifas de 42.900 y 45.900 €.
-- **2026**: si se suman el Plan Auto+ y su campaña de lanzamiento, el punto de partida baja a unos 32.900 €.
+- **2022**: Chery crea Omoda como marca global juvenil y tecnológica.
+- **2023**: el Omoda 5 aterriza en España y se convierte en uno de los chinos más vendidos.
+- **2024**: se presenta el Omoda 7/C7 como SUV medio con versiones de gasolina e híbrida.
+- **2025**: llega a España como **Omoda 7 SHS** (solo PHEV), con precios de 42.900 y 45.900 €.
+- **2026**: con las ayudas del Plan Auto+ y la campaña de lanzamiento, parte desde unos 32.900 €.
 
-## Lo que cuesta mantenerlo
+## Cuánto cuesta mantenerlo
 
-Con 15.000 km anuales, el cálculo orientativo ronda los **136 € mensuales**: 45 € en combustible (2,3 litros cada 100 km WLTP en modo híbrido), 71 € en seguro a todo riesgo y 21 € en mantenimiento. Cargando a diario y con trayectos cortos, el gasto en gasolina puede quedar casi en cero.
+Estimación orientativa con 15.000 km al año: unos **136 €/mes**, con 45 € de combustible (2,3 l/100 km WLTP en modo híbrido), 71 € de seguro a todo riesgo y 21 € de mantenimiento. Si cargas a diario y haces trayectos cortos, el gasto en gasolina puede caer casi a cero.
 
 <img src=/media/omoda-c7-2025-precio-ficha-tecnica-interior.webp alt="Interior del Omoda C7 2025">
 
 ## Preguntas frecuentes
 
-### ¿Qué precio tiene el Omoda C7 en España?
+### ¿Cuánto cuesta el Omoda C7 en España?
+Se vende como Omoda 7 SHS desde 42.900 € (Pure) y 45.900 € (Premium); con campaña y ayudas, desde unos 32.900 €.
 
-En España se comercializa como Omoda 7 SHS a partir de 42.900 € (Pure) y 45.900 € (Premium); si se suman campaña y ayudas, el punto de partida baja a unos 32.900 €.
+### ¿Es el Omoda C7 lo mismo que el Omoda 7?
+Sí, es el mismo coche: C7 es el nombre usado en algunos mercados y 7 SHS el elegido para España.
 
-### ¿El Omoda C7 y el Omoda 7 son el mismo modelo?
+### ¿Cuántos kilómetros hace en eléctrico?
+Homologa 92 km WLTP con su batería de 18,4 kWh.
 
-Sí, se trata del mismo modelo: en algunos mercados se llama C7 y en España, 7 SHS.
+### ¿Tiene carga rápida?
+Sí, hasta 40 kW en continua (30-80 % en 20 minutos), algo poco habitual en un híbrido enchufable.
 
-### ¿Cuántos kilómetros recorre en eléctrico?
+### ¿Qué etiqueta DGT tiene?
+Etiqueta Cero, por superar los 40 km de autonomía eléctrica.
 
-Homologa 92 km WLTP gracias a su batería de 18,4 kWh.
-
-### ¿Admite recarga rápida?
-
-Sí, admite hasta 40 kW en continua: del 30 al 80 % en torno a 20 minutos, un dato poco habitual en un PHEV.
-
-### ¿Qué etiqueta DGT lleva?
-
-Etiqueta Cero, porque supera los 40 km de autonomía eléctrica.
-
-### ¿Qué cobertura de garantía ofrece?
-
-La cobertura anunciada para el sistema híbrido es de 8 años o 160.000 km.
+### ¿Qué garantía ofrece?
+Omoda anuncia 8 años o 160.000 km para el sistema híbrido.
 
 *Fuentes: <a href=https://www.pruebatucoche.es/omoda-7-shs-prueba/>pruebatucoche.es</a>, <a href=https://www.motormundial.es/omoda-7-shs-ya-con-precios-oficiales/2026/02/08/>motormundial.es</a>, <a href=https://www.coches.net/noticias/omoda-7-shs-prueba-de-contacto>coches.net</a>*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
-`,
+**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
   },
   {
-    title: "Opel Frontera Electric desde 24.900 €, 308 km",
+    title: "Opel Frontera Electric desde 24.900 €",
     slug: "opel-frontera-2024-precio",
-    excerpt: "Opel Frontera Electric desde 24.900 €: 113 CV, batería LFP de 44 kWh, 308 km WLTP, maletero de 460 litros y opción de 7 plazas en híbrido.",
+    excerpt: "Precio y ficha técnica del Opel Frontera Electric 2024: SUV eléctrico de 113 CV, 308 km WLTP, maletero de 460 litros y hasta 7 plazas. Desde 24.900 €, uno de los eléctricos más baratos.",
     category: "Novedades Motor",
     date: "2026-10-08",
     readTime: 7,
@@ -207,11 +200,9 @@ La cobertura anunciada para el sistema híbrido es de 8 años o 160.000 km.
     keywords: ["Opel Frontera 2024 precio", "Opel Frontera Electric ficha técnica", "Frontera eléctrico autonomía", "SUV eléctrico barato", "Opel Frontera 7 plazas"],
     content: `<img src=/media/opel-frontera-2024-precio-ficha-tecnica-hero.webp alt="Opel Frontera Electric 2024 con frontal Vizor">
 
-## Un nombre de todoterreno para un SUV familiar
-
 **¿Buscas solo los datos?** <a href=/coches/opel-frontera-2024-precio-ficha-tecnica/>Ver la ficha técnica del Opel Frontera</a>: precio, autonomía, maletero y versiones. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-Opel rescató un nombre con historia, el del 4x4 de los años noventa, para bautizar un SUV compacto completamente nuevo, pariente cercano del Citroën C3 Aircross. La gama combina mecánicas híbridas de 110 y 145 caballos con variantes eléctricas, y este artículo pone el foco en la más atractiva por su precio: el Frontera Electric 44 kWh Edition, que anuncia 113 caballos, 308 kilómetros WLTP y un listín de partida de 24.900 euros.
+El **Opel Frontera 2024** recupera un nombre histórico de la marca (el 4x4 de los noventa) para un SUV compacto totalmente nuevo, primo del Citroën C3 Aircross. Se vende en versiones **híbridas (110 y 145 CV)** y **eléctricas**, y esta ficha se centra en la más interesante por precio: el **Frontera Electric 44 kWh Edition**, con **113 CV**, **308 km WLTP** y un precio de partida de **24.900 €**.
 
 ## Ficha técnica resumida
 
@@ -232,62 +223,62 @@ Opel rescató un nombre con historia, el del 4x4 de los años noventa, para baut
 | Tracción | Delantera |
 | Etiqueta DGT | Cero |
 
-<a href=/coches/opel-frontera-2024-precio-ficha-tecnica/>Consulta la ficha entera del Frontera, con todas sus fotografías</a>
+<a href=/coches/opel-frontera-2024-precio-ficha-tecnica/>Ver la ficha técnica completa del Opel Frontera con galería de fotos</a>
 
-## Espacio y precio antes que prestaciones
+## Un eléctrico honesto y familiar
 
-El Frontera Electric no busca ser el más veloz ni el que más kilómetros recorre con una carga: su apuesta es el espacio interior a cambio de un desembolso contenido. Con 4,38 metros de largo, brinda un maletero de 460 litros, ampliable hasta 1.600 litros al abatir los asientos traseros, y un habitáculo familiar con asientos Intelli-Seat y abundantes huecos para objetos. Además, es el único eléctrico de su franja de precio que puede ofrecer siete plazas, aunque esa configuración corresponde a las versiones híbridas.
+El Frontera Electric no pretende ser el más rápido ni el de mayor autonomía: apuesta por el **espacio y el precio**. En 4,38 metros ofrece un maletero de **460 litros** (1.600 con los asientos abatidos) y un habitáculo pensado para familias, con los asientos Intelli-Seat de Opel y numerosos huecos portaobjetos. Es, además, **el único eléctrico de su precio que ofrece 7 plazas** (en las versiones híbridas).
 
-Su acumulador LFP de 44 kWh admite recargas rápidas de 100 kW en corriente continua y 7,4 kW en alterna, con 11 kW disponibles como opción. Opel suma el programa Electric All In, que agrupa asistencia y conectividad, y respalda la batería durante ocho años o 160.000 kilómetros, garantizando que conservará al menos el 70 % de su capacidad.
+La batería LFP de 44 kWh admite **100 kW en continua** y 7,4 kW (11 kW en opción) en alterna. Opel incluye el programa **Electric All In** con asistencia y conectividad, y garantiza la batería **8 años o 160.000 km** con un mínimo del 70 % de capacidad.
 
-## Gama y precios: eléctrica e híbrida
+## Versiones y precios
 
-La oferta eléctrica arranca en los 24.900 euros del 44 kWh Edition, con 308 kilómetros WLTP, y asciende hasta el 54 kWh GS, que homologa 408 kilómetros y parte de unos 30.500 euros. En híbrido, el 1.2T de 110 caballos arranca en 23.200 euros y el de 145 caballos en 24.400 euros, ambos con etiqueta ECO. Todos salen de la planta de Trnava, en Eslovaquia, y emplean la plataforma STLA Smart de Stellantis.
+La gama eléctrica parte de los **24.900 €** del 44 kWh Edition (308 km WLTP) y sube al 54 kWh GS (408 km) desde unos 30.500 €. En híbrido, el 1.2T de 110 CV parte de 23.200 € y el de 145 CV de 24.400 €, ambos con etiqueta ECO. Todos se fabrican en **Trnava (Eslovaquia)** sobre la plataforma STLA Smart de Stellantis.
 
 <img src=/media/opel-frontera-2024-precio-ficha-tecnica-oficial.webp alt="Trasera del Opel Frontera 2024">
 
-## La historia: del todoterreno Isuzu al SUV actual
+## Historia del modelo
 
-- **1991-2004:** el Frontera original era un todoterreno auténtico derivado de Isuzu, comercializado como Sport y con carrocería de cinco puertas.
-- **2017-2024:** el Crossland ocupó su lugar como SUV urbano de la marca.
-- **Abril de 2024:** Opel desveló el nuevo Frontera, un SUV compacto con versiones híbridas y eléctricas.
-- **2024:** las ventas arrancaron en Europa desde 23.990 euros en híbrido y 29.000 euros en eléctrico.
-- **2025:** debutó la variante Extended Range de 54 kWh, con 408 kilómetros WLTP y la posibilidad de siete plazas.
+- **1991-2004**: el Frontera original, un todoterreno de verdad basado en Isuzu, con versiones Sport y 5 puertas.
+- **2017-2024**: el Opel Crossland ocupa su hueco como SUV urbano.
+- **Abril 2024**: Opel presenta el nuevo Frontera como SUV compacto híbrido y eléctrico.
+- **2024**: inicio de ventas en Europa desde 23.990 € (híbrido) y 29.000 € (eléctrico).
+- **2025**: llega la versión Extended Range de 54 kWh con 408 km WLTP y la opción de 7 plazas.
 
-## Coste mensual estimado
+## Cuánto cuesta mantenerlo
 
-Con una estimación orientativa para 15.000 kilómetros anuales, el gasto ronda los 120 euros al mes: 41 euros de electricidad, calculados con 18 kWh cada 100 kilómetros a 0,18 euros el kWh; 63 euros de seguro a todo riesgo; y 17 euros de mantenimiento. Al lucir la etiqueta Cero, queda exento del impuesto de matriculación y puede entrar sin trabas en las zonas de bajas emisiones.
+Estimación orientativa con 15.000 km al año: unos **120 €/mes**, con 41 € de electricidad (18 kWh/100 km a 0,18 €/kWh), 63 € de seguro a todo riesgo y 17 € de mantenimiento. Con etiqueta Cero, sin impuesto de matriculación y acceso libre a las ZBE.
 
 <img src=/media/opel-frontera-2024-precio-ficha-tecnica-interior.webp alt="Interior del Opel Frontera 2024">
 
 ## Preguntas frecuentes
 
-### ¿Desde qué precio parte el Frontera eléctrico?
-Desde 24.900 euros en el Electric 44 kWh Edition, que homologa 308 kilómetros WLTP.
+### ¿Cuánto cuesta el Opel Frontera eléctrico?
+Desde 24.900 € en la versión Electric 44 kWh Edition (308 km WLTP).
 
-### ¿Qué alcance anuncia con la batería pequeña?
-308 kilómetros WLTP con el acumulador de 44 kWh; la variante de 54 kWh alcanza los 408 kilómetros.
+### ¿Cuánta autonomía tiene?
+308 km WLTP con la batería de 44 kWh; la versión de 54 kWh llega a 408 km.
 
-### ¿Puede llevar siete plazas?
-Sí: la opción de siete plazas existe en la gama y supone una rareza entre los modelos asequibles, aunque se ofrece en las versiones híbridas.
+### ¿Tiene 7 plazas?
+Sí, es el único eléctrico asequible con opción de 7 plazas (disponible en la gama, una rareza en su precio).
 
-### ¿Qué cobertura tiene su batería?
-Ocho años o 160.000 kilómetros, con al menos un 70 % de capacidad asegurada.
+### ¿Qué garantía tiene la batería?
+8 años o 160.000 km, con al menos un 70 % de capacidad garantizada.
 
-### ¿En qué fábrica se produce?
-La producción tiene lugar en la factoría eslovaca de Trnava, que emplea la base STLA Smart, la misma del Citroën ë-C3.
+### ¿Dónde se fabrica?
+En Trnava, Eslovaquia, sobre la plataforma STLA Smart que comparte con el Citroën ë-C3.
 
-### ¿Eléctrico o híbrido: cuál conviene más?
-Si la mayoría de tus recorridos son urbanos y dispones de un punto de carga, el eléctrico resulta más barato por kilómetro; para viajar con frecuencia y sin depender de enchufes, el híbrido de 145 caballos ofrece mayor polivalencia.
+### ¿Merece la pena frente al híbrido?
+Si haces sobre todo ciudad y tienes dónde cargar, el eléctrico sale más barato por kilómetro; para viajar mucho, el híbrido de 145 CV es más polivalente.
 
 *Fuentes: <a href=https://www.km77.com/coches/opel/frontera/2025/estandar/electrico/frontera-electric/datos>km77.com</a>, <a href=https://opel-canarias.com/gama/opel-frontera-electric/>Opel Canarias</a>, <a href=https://www.motormundial.es/opel-frontera-electric-extended-range/2025/07/27/>motormundial.es</a>*
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
   },
   {
-    title: "GAC Aion V 2024: 510 km WLTP por 37.995 €",
+    title: "GAC Aion V: 510 km desde 37.995 €",
     slug: "gac-aion-v-2024-precio",
-    excerpt: "SUV eléctrico familiar con 204 CV, batería LFP de 75,3 kWh y 510 km WLTP: el GAC Aion V parte de 37.995 € en España, con carga de 180 kW.",
+    excerpt: "Precio y ficha técnica del GAC Aion V 2024: SUV eléctrico de 204 CV, batería LFP de 75,3 kWh, 510 km WLTP, 5 estrellas Euro NCAP y carga de 180 kW. Ya a la venta en España desde 37.995 €.",
     category: "Novedades Motor",
     date: "2026-10-08",
     readTime: 7,
@@ -297,9 +288,9 @@ Si la mayoría de tus recorridos son urbanos y dispones de un punto de carga, el
 
 **¿Buscas solo los datos?** <a href=/coches/gac-aion-v-2024-precio-ficha-tecnica/>Ver la ficha técnica del GAC Aion V</a>: precio, autonomía, batería y equipamiento. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-La llegada del Aion V 2024 a Europa es la presentación del quinto constructor de China, un grupo que en su mercado local trabaja junto a Toyota y Honda. Se trata de un SUV eléctrico familiar con 204 CV, 510 km de autonomía en ciclo WLTP y una batería LFP de 75,3 kWh, más una carga rápida de 180 kW. En España ya está a la venta a partir de 37.995 €, con cinco estrellas Euro NCAP y ocho años o 200.000 km de garantía para la batería.
+El **GAC Aion V 2024** es la carta de presentación en Europa del quinto fabricante de China (socio de Toyota y Honda en su país). Es un SUV eléctrico familiar de **204 CV** con batería LFP de **75,3 kWh**, **510 km de autonomía WLTP** y carga rápida de **180 kW**. Ya se vende en España desde **37.995 €**, con **5 estrellas Euro NCAP** y una garantía de batería de 8 años o 200.000 km.
 
-## Datos clave del Aion V
+## Ficha técnica resumida
 
 | Concepto | Dato |
 |---|---|
@@ -320,74 +311,67 @@ La llegada del Aion V 2024 a Europa es la presentación del quinto constructor d
 
 <a href=/coches/gac-aion-v-2024-precio-ficha-tecnica/>Ver la ficha técnica completa del GAC Aion V con galería de fotos</a>
 
-## Carga rápida y batería LFP
+## Batería grande, carga muy rápida
 
-La química elegida es la LFP, más duradera y segura, que admite cargar hasta el 100 % sin temor, en un paquete de 75,3 kWh. En corriente continua, con 180 kW, recupera del 10 al 80 % en solo 24 minutos, entre los mejores registros de su categoría. De serie incluye bomba de calor y función V2L de 3,3 kW, que da corriente a aparatos externos, además de un cargador embarcado bidireccional de 11 kW.
+El Aion V apuesta por la química **LFP** (más duradera y segura, admite cargas al 100 % sin miedo) en un pack de **75,3 kWh**. Con 180 kW en continua pasa del 10 al 80 % en **24 minutos**, una de las mejores cifras de su segmento. De serie trae **bomba de calor**, función **V2L de 3,3 kW** para alimentar dispositivos externos y cargador embarcado bidireccional de 11 kW.
 
-Con 204 CV en el eje delantero, llega a los 100 km/h en 7,9 segundos, y su consumo homologado es de 16,7 kWh cada 100 km pese a rozar las dos toneladas.
+El motor delantero de 204 CV lo lleva a 100 km/h en 7,9 s, con un consumo homologado de solo 16,7 kWh/100 km para sus casi dos toneladas.
 
-## Por dentro: un salón rodante
+## Un salón sobre ruedas
 
-El interior sorprende por su pantalla flotante de 14,6 pulgadas y por unos asientos delanteros que ofrecen masaje de 8 puntos, además de nevera que también calienta, asientos traseros reclinables y una mesita plegable. Con 2.775 mm de batalla, el hueco para las piernas es de berlina grande. El maletero, de 427 litros, queda como su punto más justo si se mira a rivales como el ID.4, que va más holgado en ese aspecto.
+Por dentro, el Aion V sorprende: pantalla flotante de **14,6 pulgadas**, asientos delanteros con **masaje de 8 puntos**, **nevera con función de calefacción**, mesita plegable y asientos traseros reclinables. La batalla de 2.775 mm da un espacio para las piernas de berlina grande. El maletero, con **427 litros**, es su punto más justo frente a rivales como el ID.4.
 
-En seguridad, Euro NCAP le dio 5 estrellas en 2025: 88 % en adultos, 85 % en niños, 79 % en usuarios vulnerables y 78 % en asistencias, con airbag central de serie.
+En seguridad, Euro NCAP le otorgó **5 estrellas en 2025** (88 % adultos, 85 % niños, 79 % usuarios vulnerables, 78 % asistencias), con airbag central de serie.
 
 <img src=/media/gac-aion-v-2024-precio-ficha-tecnica-oficial.webp alt="Trasera del GAC Aion V 2024">
 
-## Ensamblado en Europa, en Graz
+## Fabricado en Europa
 
-Un dato clave: Graz (Austria) acoge el ensamblado de la versión europea, en las instalaciones de Magna Steyr, que también produce para Mercedes y BMW. Así esquiva parte de los aranceles que pesan sobre los eléctricos chinos. En España lo reparte el Grupo Invicta, con una red de salida de 29 puntos, y la garantía alcanza ocho años o 160.000 km en el coche y ocho años o 200.000 km en la batería.
+Un dato clave: el Aion V europeo **se ensambla en la planta de Magna Steyr en Graz (Austria)**, la misma que fabrica para Mercedes y BMW. Eso le permite esquivar parte de los aranceles a los eléctricos chinos. En España lo distribuye el **Grupo Invicta** con una red inicial de 29 puntos, y la garantía cubre **8 años o 160.000 km** el coche y **8 años o 200.000 km** la batería.
 
-## Cronología: de GAC al Aion V
+## Historia del modelo
 
-- **1997:** nace GAC, el grupo de Guangzhou, hoy entre los cinco grandes de China.
-- **2018:** surge la marca Aion, dedicada a los eléctricos del grupo.
-- **2020:** la primera generación del Aion V llega a China.
-- **2024:** segunda generación, con el diseño «T-Rex» y la plataforma AEP 3.0.
-- **Septiembre de 2025:** debut en Europa en el salón IAA de Múnich, con un precio de partida de 35.990 €.
-- **Verano de 2026:** arranca la venta en España, con el Grupo Invicta, a partir de 37.995 €.
+- **1997**: nace GAC (Guangzhou Automobile Group), hoy top 5 de China.
+- **2018**: crea la marca Aion para sus eléctricos.
+- **2020**: primera generación del Aion V en China.
+- **2024**: segunda generación, con diseño "T-Rex" y plataforma AEP 3.0.
+- **Septiembre 2025**: puesta de largo europea en el IAA de Múnich, desde 35.990 €.
+- **Verano 2026**: inicio de ventas en España desde 37.995 € de la mano del Grupo Invicta.
 
-## Mantenerlo: gasto mensual estimado
+## Cuánto cuesta mantenerlo
 
-Con 15.000 km al año, el cálculo orientativo ronda los 121 € al mes: 38 € de luz —a 0,18 € el kWh y 16,7 kWh cada 100 km—, 67 € para el seguro a todo riesgo, más 17 € de mantenimiento. A eso se suma la etiqueta Cero y la exención del impuesto de matriculación.
+Estimación orientativa con 15.000 km al año: unos **121 €/mes**, con 38 € de electricidad (16,7 kWh/100 km a 0,18 €/kWh), 67 € de seguro a todo riesgo y 17 € de mantenimiento. Con etiqueta Cero y sin impuesto de matriculación.
 
 <img src=/media/gac-aion-v-2024-precio-ficha-tecnica-interior.webp alt="Interior del GAC Aion V 2024">
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿Desde qué precio parte en España?
+### ¿Cuánto cuesta el GAC Aion V en España?
+Desde 37.995 € en acabado Luxury; el Premium, más equipado, sube a 40.595 €.
 
-Desde 37.995 € en el acabado Luxury; el Premium, con más equipamiento, sube hasta 40.595 €.
+### ¿Qué autonomía tiene?
+510 km WLTP con la batería LFP de 75,3 kWh.
 
-### ¿Cuántos kilómetros hace con una carga?
+### ¿Es seguro? ¿Tiene Euro NCAP?
+Sí: 5 estrellas Euro NCAP (2025), con airbag central de serie.
 
-510 km en ciclo WLTP, gracias a la batería LFP de 75,3 kWh.
+### ¿Dónde se fabrica el Aion V europeo?
+En Graz (Austria), en la planta de Magna Steyr, lo que reduce el impacto de los aranceles.
 
-### ¿Qué nota de seguridad tiene?
+### ¿Qué garantía tiene?
+8 años o 160.000 km para el vehículo y 8 años o 200.000 km para la batería.
 
-Cinco estrellas Euro NCAP en 2025, con airbag central de serie.
-
-### ¿En qué planta se ensambla la versión europea?
-
-En Graz (Austria), en Magna Steyr: eso reduce el impacto de los aranceles.
-
-### ¿Cuánto dura la garantía?
-
-Ocho años o 160.000 km cubren el vehículo, y ocho años o 200.000 km, la batería.
-
-### ¿El maletero es grande?
-
-Son 427 litros: una cifra correcta, aunque queda corto frente al Volkswagen ID.4 y al Skoda Enyaq.
+### ¿Qué tal es el maletero?
+De 427 litros: correcto pero por debajo de rivales como el Volkswagen ID.4 o el Skoda Enyaq.
 
 *Fuentes: <a href=https://www.km77.com/coches/gac/aion-v/2024/estandar/informacion>km77.com</a>, <a href=https://soloauto.net/gac-espana-aion-v-aion-ut-coches-electricos/>soloauto.net</a>, <a href=https://testcoches.es/pruebas/es-tan-feo-como-bueno-he-probado-el-gac-aion-v-y-sorprende-mucho-mas-de-lo-que-aparenta/>testcoches.es</a>*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
-`,
+**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
   },
   {
-    title: "iCar 03 2025: 279 CV y estética todoterreno",
+    title: "iCar 03: el SUV eléctrico off-road de Chery",
     slug: "icar-03-2025-precio",
-    excerpt: "Chery iCar 03 2025: 279 CV, tracción total, batería CATL de 69,77 kWh y 0-100 en 6,5 s, con estética de todoterreno clásico. Aún no se vende en España.",
+    excerpt: "Ficha técnica del iCar 03 2025 de Chery: SUV eléctrico con estética todoterreno retro, 279 CV, tracción total, batería CATL de 69,77 kWh y 0-100 en 6,5 s. De momento no se vende en España.",
     category: "Novedades Motor",
     date: "2026-10-08",
     readTime: 7,
@@ -397,9 +381,9 @@ Son 427 litros: una cifra correcta, aunque queda corto frente al Volkswagen ID.4
 
 **¿Buscas solo los datos?** <a href=/coches/icar-03-2025-precio-ficha-tecnica/>Ver la ficha técnica del iCar 03</a>: potencia, batería, autonomía y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-Chery firmó con el iCar 03 2025 su modelo con más personalidad: un todocamino eléctrico de líneas rectas y aire retro que esconde 279 CV, tracción a las cuatro ruedas y un acumulador CATL de 69,77 kWh. El sprint de 0 a 100 km/h se resuelve en 6,5 segundos. Eso sí, por ahora no está a la venta ni en España ni en el resto de Europa; su mercado actual se reparte entre China y Latinoamérica.
+El **iCar 03 2025** es la apuesta más carismática de Chery: un **SUV eléctrico con estética de todoterreno clásico** (piensa en un Defender pasado por el siglo XXI) que esconde **279 CV**, tracción total y una batería CATL de **69,77 kWh**. Acelera de 0 a 100 en **6,5 segundos**. La mala noticia: **de momento no se vende en España** ni en Europa; solo está disponible en China y Latinoamérica.
 
-## Datos esenciales
+## Ficha técnica resumida
 
 | Concepto | Dato |
 |---|---|
@@ -420,51 +404,51 @@ Chery firmó con el iCar 03 2025 su modelo con más personalidad: un todocamino 
 
 <a href=/coches/icar-03-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del iCar 03 con galería de fotos</a>
 
-## Estética aventurera y equipo de a bordo
+## Un eléctrico con alma de 4x4
 
-El aspecto exterior apuesta por trazos rectos, defensas oscuras, un cofre adosado al portón que recuerda al soporte de la rueda de repuesto de los todoterrenos clásicos, portaequipajes superior y una distancia al suelo amplia. Más allá de la imagen, la variante iWD distribuye el empuje entre ambos ejes, ofrece programas para circular fuera del asfalto, una cámara de 540° con visión de carrocería transparente y asistente de bajada.
+Lo primero que llama la atención es el diseño: líneas rectas, protecciones negras, **caja exterior en el portón** (como la rueda de repuesto de los todoterrenos de antes), baca en el techo y una altura libre generosa. No es postureo del todo: la versión iWD reparte la fuerza entre los dos ejes, tiene modos de conducción off-road, cámara de 540° con "carrocería transparente" y control de descenso.
 
-En el habitáculo destaca una pantalla central de 15,6 pulgadas compatible de forma inalámbrica con CarPlay y Android Auto, un cuadro de instrumentos de 9,2 pulgadas, entre 8 y 12 altavoces en función de la variante y programas de climatización pensados para mascotas o para acampar. Además, admite recarga rápida de 80 kW y la función V2L.
+Dentro, una **pantalla de 15,6 pulgadas** con CarPlay y Android Auto inalámbricos, cuadro de 9,2", 8-12 altavoces según versión y hasta modo "mascotas" o "camping" para la climatización. La batería admite **carga rápida de 80 kW** y función **V2L**.
 
-## Dos esquemas mecánicos
+## Versiones
 
-La oferta se organiza en torno a dos configuraciones: una trasera de 184 CV, con acumuladores de 50,6 o 66,7 kWh y hasta 501 km CLTC, y otra iWD de 279 CV que recurre al acumulador grande de 69,77 kWh. En Colombia, mercado donde ya se comercializa, la variante superior anuncia 421 km NEDC.
+La gama se articula en dos esquemas: el **2WD** trasero de 184 CV con baterías de 50,6 o 66,7 kWh (hasta 501 km CLTC) y el **4WD iWD** de 279 CV con la batería grande de 69,77 kWh. En Colombia, donde ya se vende, homologa 421 km NEDC en la versión tope.
 
 <img src=/media/icar-03-2025-precio-ficha-tecnica-oficial.webp alt="Trasera del iCar 03 2025">
 
-## Fechas clave del proyecto
+## Historia del modelo
 
-- **2023**: dentro de Chery nace iCar, una marca dirigida al público joven y a la vida al aire libre.
-- **Febrero de 2024**: arranca la comercialización del iCar 03 en China por debajo de 18.000 € al cambio.
-- **2024**: comienza la salida al exterior, con Tailandia, Indonesia —allí como Jaecoo J6— y Latinoamérica.
-- **2025**: se suman las variantes Expedition y la de autonomía extendida iCar 03T, con 422 CV, 160 km eléctricos y 801 km en total.
-- **2026**: Chery valora llevar la marca a Europa, aunque sin calendario ni planes confirmados para España.
+- **2023**: Chery crea la marca iCar, enfocada a jóvenes y al estilo de vida outdoor.
+- **Febrero 2024**: el iCar 03 sale a la venta en China desde menos de 18.000 € al cambio.
+- **2024**: empieza su expansión internacional (Tailandia, Indonesia como Jaecoo J6, Latinoamérica).
+- **2025**: llegan las versiones Expedition y la variante de autonomía extendida **iCar 03T** (422 CV, 160 km eléctricos + 801 km totales).
+- **2026**: Chery estudia traer la marca a Europa, pero sin fecha ni planes confirmados para España.
 
-## ¿Hay planes para España?
+## ¿Llegará a España?
 
-Por el momento no existe ningún comunicado oficial al respecto. En España, las insignias de Chery son Omoda, Jaecoo y Ebro; el iCar 03 tendría encaje como un Jaecoo eléctrico de imagen aventurera. De aterrizar aquí, su tarifa tendría que quedar por debajo de 35.000 € para resultar coherente frente a rivales como el BYD Atto 3 o el MG S5. Hasta entonces, esta ficha reúne sus datos oficiales para que puedas conocerlo.
+A día de hoy, **no hay anuncio oficial**. Chery vende en España bajo las marcas Omoda, Jaecoo y Ebro, y el iCar 03 encajaría como un Jaecoo eléctrico de imagen aventurera. Si llegara, su precio debería situarse por debajo de los 35.000 € para tener sentido frente a un BYD Atto 3 o un MG S5. Mientras tanto, esta ficha recoge sus datos oficiales para que lo conozcas.
 
 <img src=/media/icar-03-2025-precio-ficha-tecnica-interior.webp alt="Interior del iCar 03 2025">
 
 ## Preguntas frecuentes
 
-### ¿Está a la venta el iCar 03 en España?
-No. Por ahora solo se comercializa en China y en algunos países de Asia y Latinoamérica, sin fecha prevista para Europa.
+### ¿Se vende el iCar 03 en España?
+No. Solo se comercializa en China y algunos países de Asia y Latinoamérica. No hay fecha para Europa.
 
-### ¿Qué potencia desarrolla?
-La variante iWD de tracción total entrega 279 CV y 385 Nm; la de tracción trasera se queda en 184 CV.
+### ¿Cuántos caballos tiene?
+279 CV y 385 Nm en la versión 4WD iWD; 184 CV en la 2WD.
 
-### ¿Qué alcance anuncia?
-El ciclo CLTC, el más benévolo, arroja hasta 501 km; la cifra comunicada en Colombia para la variante superior es de 421 km NEDC, y no existe dato WLTP.
+### ¿Qué autonomía tiene?
+501 km en ciclo CLTC (el más optimista); en Colombia se anuncian 421 km NEDC para la versión tope. Sin dato WLTP.
 
-### ¿Sirve de verdad para el campo?
-Cuenta con tracción total, programas para fuera del asfalto y una altura libre generosa, pero su chasis es monocasco: no es un 4x4 con reductora.
+### ¿Es un todoterreno de verdad?
+Tiene tracción total, modos off-road y buena altura libre, pero es un SUV de chasis monocasco, no un 4x4 con reductora.
 
-### ¿Admite carga rápida?
-Sí: hasta 80 kW en corriente continua, con el paso del 30 al 80 % en unos 30 minutos, además de la función V2L.
+### ¿Tiene carga rápida?
+Sí, hasta 80 kW en continua (30-80 % en unos 30 minutos), además de función V2L.
 
-### ¿Qué quiere decir iWD?
-Es el nombre que Chery da a su tracción total inteligente, de las siglas inglesas intelligent Wheel Drive.
+### ¿Qué significa iWD?
+Es la denominación de Chery para su tracción total inteligente (intelligent Wheel Drive).
 
 *Fuentes: <a href=https://www.cherycr.com/wp-content/uploads/2025/05/F.-Tecnica-iCar-03_2025.pdf>Chery (ficha técnica oficial)</a>, <a href=https://autosdeprimera.com/noticias/noticias-nacionales/chery-icar-03-colombia/>autosdeprimera.com</a>*
 

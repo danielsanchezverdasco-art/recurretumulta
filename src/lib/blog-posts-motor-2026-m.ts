@@ -7,7 +7,7 @@ export const MOTOR_2026_M_POSTS: BlogPost[] = [
 {
   title: "BYD Great Han: 1.008 km y carga en 9 minutos",
   slug: "byd-great-han-1008-km-autonomia-carga-9-minutos",
-  excerpt: "El Great Han llega a China el 13 de octubre de 2026 con 1.008 km CLTC, batería de 102,3 kWh y recarga del 10 al 97 % en 9 minutos desde 249.900 yuanes.",
+  excerpt: "BYD lanza en China el Great Han (13/10): berlina de 5,26 m con 1.008 km CLTC, batería LFP de 102,3 kWh y carga del 10 al 97 % en 9 minutos. Preventa desde 249.900 yuanes.",
   category: "Novedades Motor",
   date: "2026-10-09",
   readTime: 6,
@@ -21,27 +21,27 @@ export const MOTOR_2026_M_POSTS: BlogPost[] = [
   ],
   content: `<img src=/media/byd-great-han-1008-km-autonomia-carga-9-minutos-hero.webp alt=Gran berlina eléctrica azul oscuro en una avenida de ciudad china al atardecer, imagen editorial>
 
-China recibirá el 13 de octubre de 2026 la berlina de representación con la que BYD aspira a liderar el lujo eléctrico en su mercado doméstico. Se trata del Great Han, denominado Da Han en su país y situado dentro de la familia Dynasty como buque insignia del segmento D. Su longitud alcanza 5,26 metros, la variante de tracción trasera homologa hasta 1.008 km en ciclo CLTC y su sistema de recarga permite pasar del 10 al 97 % en 9 minutos, un registro que cambia por completo la experiencia de viajar en eléctrico. La reserva anticipada se abrió en agosto durante el Salón de Chengdu a partir de 249.900 yuanes, cifra que equivale a unos 30.000 € al cambio pero que no constituye un precio oficial para Europa.
+**BYD** ha puesto fecha a su mayor golpe en el segmento premium: el **Great Han** (Da Han en China) se lanza comercialmente el **13 de octubre de 2026** en China. Es la primera berlina insignia del segmento D de la familia Dynasty: **5,26 metros** de largo, hasta **1.008 km de autonomía CLTC** y una carga ultrarrápida que recupera del **10 al 97 % en 9 minutos**. La preventa, abierta en el Salón de Chengdu en agosto, parte de **249.900 yuanes** (unos 30.000 € al cambio, no oficial como PVP europeo).
 
-## Cifras esenciales
+## Datos clave
 
-- **Estreno comercial:** 13 de octubre de 2026, únicamente en China; el anuncio lo difundió Lu Tian, responsable de ventas de la serie Dynasty, mediante Weibo.
-- **Alcance:** tope de 1.008 km CLTC con tracción trasera; la variante de tracción total se queda en 880 km CLTC.
-- **Acumulador:** 102,3 kWh con química LFP de segunda generación, la Blade Battery 2.0 de BYD.
-- **Recarga:** picos de 1.500 kW que llevan la carga del 10 al 70 % en 5 minutos y del 10 al 97 % en 9 minutos.
-- **Consumo y aerodinámica:** 11,5 kWh/100 km oficiales y un Cx de 0,197.
-- **Prestaciones:** la tracción trasera entrega 370 kW (496 CV) y acelera de 0 a 100 en 4,9 s; la total, 570 kW (764 CV) y 3,3 s.
-- **Dimensiones:** 5.256 mm de largo, 1.999 mm de ancho y 1.510 mm de alto, con 3.130 mm entre ejes; supera en longitud a un Mercedes Clase S.
-- **Reserva anticipada:** 249.900 yuanes para el RWD Premium, 269.900 para el RWD Flagship y 299.900 para el AWD.
+- **Lanzamiento:** 13 de octubre de 2026, solo China (anuncio de Lu Tian, director de ventas de la serie Dynasty, en Weibo)
+- **Autonomía:** hasta **1.008 km CLTC** (versiones RWD), 880 km CLTC (AWD)
+- **Batería:** **102,3 kWh LFP** de segunda generación (Blade Battery 2.0)
+- **Carga:** **1.500 kW** flash charging: del 10 al 97 % en **9 minutos**, del 10 al 70 % en 5 minutos
+- **Consumo:** **11,5 kWh/100 km** oficial; Cx de **0,197**
+- **Potencia:** RWD 370 kW (496 CV), 0-100 en 4,9 s; AWD 570 kW (764 CV), 0-100 en 3,3 s
+- **Medidas:** 5.256/1.999/1.510 mm, batalla de 3.130 mm (más largo que un Mercedes Clase S)
+- **Preventa:** 249.900 yuanes (RWD Premium) / 269.900 (RWD Flagship) / 299.900 (AWD)
 - **Fuente:** <a href=https://cnevpost.com/2026/09/25/byd-to-launch-da-han-oct-13/>CnEVPost</a> y <a href=https://carnewschina.com/2026/10/07/byd-da-han-ev-to-launch-october-13-with-0-197-cd-drag-and-1008-km-range/>CarNewsChina</a>
 
-## Por qué importa su recarga
+## La carga que cambia el partido
 
-Más que la autonomía, lo decisivo es la potencia de recarga: 1,5 MW permiten reponer casi el 90 % del acumulador en 9 minutos, un registro que deja la parada casi al nivel de repostar gasolina. La base es la Blade Battery 2.0, con química LFP (litio-ferrofosfato), más económica, más longeva y sin cobalto. A ello se suman el Cx de 0,197 y el gasto oficial de 11,5 kWh/100 km, cifras con las que esta berlina se sitúa, en prestaciones y tamaño, junto a un Mercedes Clase S costando en China menos de la mitad de su precio.
+Olvídate de la autonomía: con 1.008 km CLTC nadie va a quedarse tirado. El verdadero salto está en la **recarga de 1,5 MW**: recuperar casi el 90 % de la batería en 9 minutos elimina la diferencia con repostar gasolina. Es la tecnología Blade Battery 2.0 de BYD, que además usa química **LFP** (litio-ferrofosfato): más barata, más duradera y sin cobalto. La aerodinámica récord (Cx 0,197) y el bajo consumo de 11,5 kWh/100 km completan una berlina que, por cifras, se codea con un Mercedes Clase S por menos de la mitad de precio en China.
 
 <img src=/media/byd-great-han-1008-km-autonomia-carga-9-minutos-galeria-1.webp alt=Gran berlina eléctrica conectada a una estación de carga ultrarrápida de noche, imagen editorial>
 
-## Gama en tres versiones
+## Tres versiones, un mismo objetivo
 
 | Versión | Potencia | Autonomía CLTC | Preventa (China) |
 |---|---|---|---|
@@ -49,27 +49,28 @@ Más que la autonomía, lo decisivo es la potencia de recarga: 1,5 MW permiten r
 | RWD Flagship | 370 kW (496 CV) | 1.008 km | 269.900 yuanes |
 | AWD Flagship | 570 kW (764 CV) | 880 km | 299.900 yuanes |
 
-En todas las versiones vienen de serie la suspensión neumática de doble cámara DiSus-A, la dirección trasera, los asientos delanteros de gravedad cero y la asistencia a la conducción God's Eye B con LiDAR.
+De serie en toda la gama: suspensión neumática de doble cámara (DiSus-A), dirección trasera, asientos delanteros de gravedad cero y el sistema de conducción asistida **God's Eye B** con LiDAR.
 
-## ¿Llegará a Europa?
+## ¿Lo veremos en Europa?
 
-Por ahora, BYD no ha confirmado su comercialización en Europa. Se trata de un modelo concebido para el mercado chino, donde competirá con las berlinas premium locales y europeas. Si la marca decidiera importarlo, se convertiría en su buque insignia junto al <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica/>Seal U DM-i</a> que ya se comercializa en España. <a href=/comparador-coches/>Compáralos en nuestro comparador</a> para comprobar qué distancia separa todavía a China de Europa en el segmento premium.
+**De momento no hay plan confirmado de venta en Europa.** Es un modelo pensado para el mercado chino, donde se medirá con los premium locales y europeos. Si BYD decidiera traerlo, sería el buque insignia de la marca junto al <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica/>Seal U DM-i</a> que ya se vende en España. <a href=/comparador-coches/>Compáralos en nuestro comparador</a> para ver cuánto falta para que China iguale a Europa en el segmento premium.
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿Cuándo sale a la venta el Great Han?
-Su estreno comercial en China está fijado para el 13 de octubre de 2026, fecha comunicada por Lu Tian, responsable de ventas de la serie Dynasty. No existe fecha de llegada a Europa.
+### ¿Cuándo se lanza el BYD Great Han?
+El **13 de octubre de 2026** en China, según confirmó el director de ventas de la serie Dynasty, Lu Tian. No hay fecha de llegada a Europa.
 
-### ¿Qué alcance anuncia el BYD Great Han?
-Las versiones de tracción trasera anuncian hasta 1.008 km en ciclo CLTC; la de tracción total declara 880 km CLTC. La prensa calcula alrededor de 820 km WLTP, aunque no hay homologación europea.
+### ¿Cuánta autonomía tiene el BYD Great Han?
+Hasta **1.008 km en ciclo CLTC** en las versiones de tracción trasera (la prensa estima ~820 km WLTP, sin homologación europea). El AWD declara 880 km CLTC.
 
-### ¿Qué precio tiene en preventa el BYD Great Han?
-En la preventa china oscila entre 249.900 y 299.900 yuanes. No existe precio para España porque no se comercializa en Europa.
+### ¿Cuánto cuesta el BYD Great Han?
+En preventa china, de **249.900 a 299.900 yuanes**. No hay precio para España porque no se vende en Europa.
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
+`,
 },
 {
-  title: "Renault destinará 10.000 M€ a eléctricos asequibles",
+  title: "Renault: 10.000 M€ y plan París",
   slug: "renault-10000-millones-electricos-paris-2026-plan",
   excerpt: "Más de 10.000 millones en Francia en cinco años para abaratar los eléctricos de Renault. En París 2026: E-Space Concept, Mégane LFP y Trafic 800V.",
   category: "Novedades Motor",

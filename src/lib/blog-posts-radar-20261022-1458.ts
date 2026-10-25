@@ -11,9 +11,9 @@ import type { BlogPost } from "./blog-meta.ts";
 export const RADAR_20261022_1458_POSTS: BlogPost[] = [
   {
     slug: "bmw-serie-7-2027-precio-autonomia-carwow",
-    title: "BMW Serie 7 2027: berlina de lujo desde 121.400 €",
+    title: "BMW Serie 7 2027: 728 km de autonomía y desde 121.400 €",
     excerpt:
-      "Precios en España desde 121.400 € y hasta 728 km WLTP en el i7. Seis versiones, cine trasero 8K de 31,3 pulgadas y estreno de la era Neue Klasse.",
+      "El BMW Serie 7 2027 ya tiene precios en España: desde 121.400 € con 728 km WLTP. Seis versiones, pantalla 8K de 31,3 pulgadas y tecnología Neue Klasse.",
     category: "Novedades Motor",
     date: "2026-10-22",
     readTime: 8,
@@ -26,17 +26,17 @@ export const RADAR_20261022_1458_POSTS: BlogPost[] = [
       "Carwow BMW Serie 7",
       "BMW Serie 7 2027 España",
     ],
-    content: `**Todos los datos del modelo:** <a href=/coches/bmw-serie-7-2027-precio-ficha-tecnica/>BMW Serie 7 2027</a> — versiones, tarifas y autonomía reunidas.
+    content: `**Ficha completa del modelo:** <a href=/coches/bmw-serie-7-2027-precio-ficha-tecnica/>BMW Serie 7 2027</a> — ficha técnica, precios por versión, autonomía, garantía y mantenimiento.
 
 <img src=/media/bmw-serie-7-2027-frontal.webp alt=BMW Serie 7 2027, frontal con parrilla iluminada y faros divididos>
 
-*Imagen cedida en el kit de prensa de BMW y difundida vía geeksroom.com; no es una foto oficial directa y su licencia no consta.*
+*Foto: kit de prensa BMW distribuido por geeksroom.com. Imagen de prensa, no oficial directa de BMW; licencia desconocida.*
 
-La berlina más representativa de BMW entra en una etapa nueva con el Serie 7 2027, el modelo con el que la marca estrena en su gama alta la filosofía Neue Klasse: otro lenguaje formal, una electrónica completamente renovada y una oferta que combina tres variantes eléctricas, dos híbridas enchufables y una diésel. En Reino Unido, Carwow lo puso frente al Mercedes Clase S en un vídeo publicado el 21 de octubre de 2026 que ya rebasó el millón y medio de reproducciones.
+El **BMW Serie 7 2027** es la gran berlina de representación que abre la era **Neue Klasse** en la gama alta de BMW: nuevo lenguaje de diseño, arquitectura electrónica renovada y una gama multienergía con tres eléctricos, dos híbridos enchufables y un diésel. Carwow UK lo analizó el 21 de octubre de 2026 en un vídeo que ya supera el millón y medio de visualizaciones, enfrentándolo al Mercedes Clase S.
 
-La fabricación comenzó en Dingolfing en julio de 2026, y los concesionarios ya tienen las primeras unidades. En el mercado español, la tarifa arranca en 121.400 € para el i7 50 xDrive y culmina en 190.600 € para el i7 M70 xDrive.
+La producción arrancó en julio de 2026 en la planta de **Dingolfing** y las primeras unidades ya llegan a los concesionarios. En España los precios parten de **121.400 €** (i7 50 xDrive) y llegan a **190.600 €** (i7 M70 xDrive).
 
-## Seis versiones para una misma berlina
+## La gama del BMW Serie 7 2027: seis versiones
 
 | Versión | Sistema | Potencia | Autonomía / consumo | Precio España |
 |---|---|---|---|---|
@@ -47,54 +47,53 @@ La fabricación comenzó en Dingolfing en julio de 2026, y los concesionarios ya
 | M760e xDrive | Híbrido enchufable | 612 CV / 800 Nm | 80 km eléctricos | 150.864 € |
 | 740d xDrive | Diésel 48 V | 313 CV | 6,5–7,2 l/100 km | 125.837 € |
 
-Las tres variantes eléctricas comparten acumulador: 112,5 kWh de capacidad y carga rápida en continua de hasta 250 kW, con la que pasar del 10 al 80 % lleva alrededor de 28 minutos. El 740d xDrive, por su parte, conserva el diésel de seis cilindros con apoyo eléctrico ligero de 48 V y necesita 5,7 segundos para pasar de parado a 100 km/h.
+Los tres eléctricos comparten la batería de **112,5 kWh** y admiten carga rápida de hasta **250 kW** en corriente continua: del 10 al 80 % en unos 28 minutos. El 740d xDrive mantiene el seis cilindros diésel con hibridación ligera de 48 V y acelera de 0 a 100 km/h en 5,7 segundos.
 
-## Dentro: un cine trasero de 31,3 pulgadas
+## Interior: la pantalla de cine trasera de 31,3 pulgadas
 
-La pieza que más miradas atrae sigue siendo la BMW Theatre Screen: una pantalla táctil trasera de 31,3 pulgadas y resolución 8K, con cámara incorporada para videollamadas y un equipo Bowers & Wilkins de 36 altavoces con sonido 4D. En la parte delantera, la nueva etapa Neue Klasse se traduce en una interfaz digital renovada y en un volante con tecnología «shy tech», en el que los mandos solo se encienden cuando resultan necesarios.
+La **BMW Theatre Screen** se mantiene como la pieza estrella: pantalla táctil de **31,3 pulgadas** con resolución **8K**, cámara integrada para videoconferencias y sistema de sonido **Bowers & Wilkins con 36 altavoces** y audio 4D. Delante, el nuevo lenguaje Neue Klasse trae la interfaz digital renovada y el volante con tecnología «shy tech», cuyos controles solo se iluminan cuando hacen falta.
 
-Por fuera, el frontal estrena una parrilla de grandes dimensiones con iluminación Iconic Glow, una firma luminosa más estilizada, faros de cristal BMW y una zaga rematada con pilotos LED de trazado nuevo. Las llantas abarcan de 20 a 22 pulgadas, y el catálogo supera las 500 combinaciones de color, entre ellas el acabado BMW Individual Dual Finish.
+Por fuera, el frontal gana una parrilla de gran tamaño con iluminación **Iconic Glow**, firma lumínica más fina, faros de cristal BMW y zaga con pilotos LED de nuevo diseño. Las llantas van de 20 a 22 pulgadas y BMW ofrece más de **500 colores y combinaciones**, incluido el acabado BMW Individual Dual Finish.
 
 <img src=/media/bmw-serie-7-2027-lateral.webp alt=BMW Serie 7 2027, vista lateral tres cuartos bitono>
 
-*Imagen del kit de prensa de BMW difundida vía mikeshouts.com; tampoco es oficial directa y su licencia no consta.*
+*Foto: kit de prensa BMW distribuido por mikeshouts.com. Imagen de prensa, no oficial directa de BMW; licencia desconocida.*
 
-## ¿A quién va dirigido este Serie 7?
+## ¿Para quién es el Serie 7 2027?
 
-BMW defiende la berlina de representación en un momento en que los SUV premium ganan terreno. El coche está pensado tanto para quien lo conduce como para quien viaja en las plazas traseras: chóferes privados, directivos y familias que devoran kilómetros de autopista. En su punto de mira quedan el Clase S de Mercedes, el A8 de Audi y el LS de Lexus.
+BMW quiere mantener viva la berlina de representación frente al avance de los SUV premium. Es un coche pensado tanto para quien conduce como para quien viaja detrás: chófer privado, directivos y familias que hacen muchos kilómetros de autopista. Sus rivales directos son el **Mercedes Clase S**, el **Audi A8** y el **Lexus LS**.
 
-<a href=/coches/bmw-serie-7-2027-precio-ficha-tecnica/>Ver la ficha técnica completa del BMW Serie 7 2027</a> con el desglose íntegro por versión, tarifa y consumo.
+<a href=/coches/bmw-serie-7-2027-precio-ficha-tecnica/>Ver la ficha técnica completa del BMW Serie 7 2027</a> con todas las versiones, precios, consumos y garantía.
 
 ## Preguntas frecuentes
 
-### ¿Qué precio tiene el Serie 7 2027 en España?
+### ¿Cuánto cuesta el BMW Serie 7 2027 en España?
 
-La tarifa confirmada en España va de 121.400 € para el i7 50 xDrive a 190.600 € para el i7 M70 xDrive. El diésel 740d xDrive arranca en 125.837 €, y los híbridos enchufables lo hacen en 136.090 € (750e) y 150.864 € (M760e).
+Los precios confirmados en España van desde **121.400 €** (i7 50 xDrive) hasta **190.600 €** (i7 M70 xDrive). El diésel 740d xDrive parte de 125.837 € y los híbridos enchufables, de 136.090 € (750e) y 150.864 € (M760e).
 
-### ¿Cuántos kilómetros recorre el i7 2027 con una carga?
+### ¿Qué autonomía tiene el BMW i7 2027?
 
-Con una carga completa, el i7 50 xDrive anuncia 728 km WLTP, el i7 60 xDrive se queda en 727 km y la variante M70 xDrive baja a 686 km. Los tres montan la misma batería de 112,5 kWh y la carga rápida de 250 kW, con un paso del 10 al 80 % en 28 minutos.
+El i7 50 xDrive homologa **728 km WLTP**, el i7 60 xDrive 727 km y el i7 M70 xDrive 686 km. Los tres usan una batería de 112,5 kWh con carga rápida de 250 kW (10–80 % en 28 minutos).
 
-### ¿La gama es únicamente eléctrica?
+### ¿El Serie 7 2027 es solo eléctrico?
 
-No: a las tres variantes eléctricas i7 se suman las híbridas enchufables 750e y M760e —con un recorrido eléctrico de 80 a 82 km— y el diésel de seis cilindros con apoyo ligero de 48 V, el 740d xDrive.
+No. La gama es multienergía: tres versiones 100 % eléctricas (i7), dos híbridas enchufables (750e y M760e, con 80–82 km de autonomía eléctrica) y un diésel de seis cilindros con hibridación ligera de 48 V (740d xDrive).
 
-### ¿En qué consiste la tecnología Neue Klasse?
+### ¿Qué es la tecnología Neue Klasse en el Serie 7?
 
-Se trata de la nueva generación de electrónica y de lenguaje formal de BMW, que se estrena en la parte alta de la gama con este Serie 7. La interfaz digital es nueva, las pantallas son de otra hornada y los asistentes llegan actualizados.
+Es la nueva generación de arquitectura electrónica y lenguaje de diseño de BMW, que debuta en la gama alta con este Serie 7: interfaz digital renovada, pantallas de nueva generación y sistemas de asistencia actualizados.
 
-### ¿Cuándo empezarán a verse las primeras unidades?
+### ¿Cuándo llega el BMW Serie 7 2027 a los concesionarios?
 
-Dingolfing empezó a fabricarlo en julio de 2026, y los concesionarios reciben las primeras unidades antes de que acabe el año. La variante híbrida enchufable 750e xDrive se suma a comienzos de 2027.
+La producción arrancó en julio de 2026 en Dingolfing y las primeras unidades eléctricas y de gasolina llegan antes de final de año. El híbrido enchufable 750e xDrive se incorpora a principios de 2027.
 
-### ¿Qué cobertura tiene la batería del i7?
+### ¿Qué garantía tiene la batería del BMW i7?
 
-Para la batería de alto voltaje, BMW mantiene su cobertura habitual: 8 años o 160.000 km. En cuanto al coche en conjunto, la garantía general en España es de 2 años.
+BMW aplica su garantía estándar de batería de alto voltaje: **8 años o 160.000 km**. La garantía general del vehículo en España es de 2 años.
 
 *Fuentes: <a href=https://www.noticiasde.es/espana/el-bmw-serie-7-se-estrena-en-espana-con-una-nueva-version-que-ofrece-una-autonomia-de-700-kilometros-y-tecnologia-innovadora/>noticiasde.es</a>, <a href=https://movilidadelectrica.com/nuevo-serie-7-bmw-acapara-elogios-promete-mas-700-km-autonomia-versiones-electricas/>movilidadelectrica.com</a>, <a href=https://pruebascoches.com/el-bmw-serie-7-se-actualiza-hasta-728-km-wltp-pantalla-trasera-8k-y-precios-desde-121-400-euros/>pruebascoches.com</a>, <a href=https://carnovo.com/es/guias/bmw-serie-7-2027/>carnovo.com (precios España)</a>, <a href=https://www.youtube.com/@carwow>Carwow UK (vídeo 21/10/2026)</a>.*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
-`,
+**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
   },
   {
     slug: "lexus-tz-espana-precio-88-000-euros-2026",
@@ -183,9 +182,9 @@ Por tamaño y planteamiento compite con el **BMW iX**, el **Mercedes EQE SUV** y
   },
   {
     slug: "omoda-x-prototipo-presentacion-wuhu-2026",
-    title: "Omoda X: el prototipo SUV que mira con calor y pisa barro",
+    title: "Omoda X: SUV chino con cámara térmica y alma off-road",
     excerpt:
-      "El Omoda X debuta en Wuhu como anticipo SUV de casi cinco metros: detecta calor a 90 metros y promete híbrido, enchufable y eléctrico. Sin precio aún.",
+      "Omoda presenta el X: prototipo SUV de estética mecha con cámara térmica de 90 m y versiones híbridas, enchufables y eléctricas. Sin precio aún.",
     category: "Novedades Motor",
     date: "2026-10-22",
     readTime: 6,
@@ -202,11 +201,11 @@ Por tamaño y planteamiento compite con el **BMW iX**, el **Mercedes EQE SUV** y
 
 *Foto: kit de prensa Omoda distribuido por forococheselectricos.com. Imagen de prensa, no oficial directa de Omoda; licencia desconocida.*
 
-Chery ha elegido su gran cita con los usuarios para enseñar el próximo paso de Omoda. En Wuhu, durante el International User Summit del grupo, la marca china ha destapado el Omoda X, un prototipo de SUV que anticipa un modelo de producción todavía sin fecha ni precio. Nada de cifras definitivas por ahora: lo que sigue es únicamente lo que la compañía ha confirmado sobre el escenario.
+**Omoda** ha presentado en el **International User Summit** del grupo Chery en Wuhu (China) el **Omoda X**, el prototipo que adelanta un nuevo SUV de la marca china. Su estética se inspira en la cultura **«mecha»** —el género de ciencia ficción japonés de robots pilotados—, con formas geométricas, aristas marcadas y pliegues que no se parecen a nada anterior de la compañía y podrían marcar su rumbo estético futuro.
 
-El dibujo bebe de la cultura mecha, ese imaginario japonés de robots gigantes tripulados por personas. De ahí salen las superficies geométricas, las aristas afiladas y los pliegues rotundos, un lenguaje que no se había visto en Omoda y que podría anunciar por dónde irán sus próximos modelos. Omoda todavía no ha desvelado potencia, autonomía ni tarifa: esos números llegarán con la versión de serie.
+Ojo al dato importante: es un **prototipo**. Omoda aún **no ha publicado especificaciones técnicas** (potencia, autonomía, precio): se revelarán con la versión de producción. Todo lo que sigue es lo confirmado en la presentación.
 
-## Lo confirmado sobre el X
+## Lo que Omoda sí ha confirmado del X
 
 | Dato | Valor confirmado |
 |---|---|
@@ -222,48 +221,47 @@ El dibujo bebe de la cultura mecha, ese imaginario japonés de robots gigantes t
 | Mecánicas previstas | Híbrida, híbrida enchufable y 100 % eléctrica, con AWD |
 | Chasis | Monocasco (no es un todoterreno de largueros) |
 
-Fuera del asfalto, la marca presume de argumentos: 200 mm de distancia al suelo, 700 mm de capacidad de vadeo y una cámara térmica que localiza calor —peatones, animales u obstáculos— hasta 90 metros, una ayuda pensada para cuando la visibilidad cae. A eso se suman 1.800 kg de remolque y 75 kg admitidos sobre el techo.
+Aunque es un SUV, Omoda insiste en sus capacidades fuera del asfalto: 200 mm de altura libre, 700 mm de vadeo y una **cámara térmica** capaz de detectar fuentes de calor (personas, animales, obstáculos) hasta a **90 metros**, muy útil con baja visibilidad. Podrá remolcar **1.800 kg** y llevar **75 kg** en el techo.
 
-En el habitáculo mandan dos pantallas —10,25 pulgadas para el cuadro y 13,2 para el centro— y el entorno SIAS, un espacio con inteligencia artificial conversacional que entiende un lenguaje natural, sin obligar a memorizar órdenes fijas. La base nace pensada para varias electrificaciones: la gama contemplará híbridos, híbridos enchufables y eléctricos puros, también con tracción total, y la marca lo presenta como un modelo para todo el mundo.
+Por dentro, el sistema **SIAS** usa inteligencia artificial para una comunicación más natural con el coche, sin comandos predefinidos. La plataforma se ha concebido desde el principio para distintos grados de electrificación: habrá versiones **híbridas, híbridas enchufables y eléctricas**, además de variantes con **tracción total**. Omoda lo plantea como un **producto global**, destinado a venderse en todo el planeta.
 
 <img src=/media/omoda-x-2026-interior.webp alt=Interior del Omoda X con pantalla central de 13,2 pulgadas y volante Omoda>
 
 *Foto: kit de prensa Omoda distribuido por forococheselectricos.com. Imagen de prensa, no oficial directa de Omoda; licencia desconocida.*
 
-## Un escalón por encima
+## ¿Dónde se coloca el Omoda X?
 
-Con casi cinco metros, el X supera en tamaño a los <a href=/coches/omoda-4-2026-precio-ficha-tecnica/>Omoda 4</a> y <a href=/coches/omoda-5-gasolina-2026-precio-ficha-tecnica/>Omoda 5</a> y se aproxima al <a href=/coches/omoda-7-shs-2026-precio-ficha-tecnica/>Omoda 7</a>. Dicho de otro modo: es la propuesta más ambiciosa que la marca ha enseñado hasta hoy. En cuanto Omoda difunda la ficha del modelo de serie, prepararemos su ficha completa; hasta entonces, lo prudente es no añadir ningún dato inventado.
+Con sus casi 5 metros, se sitúa un peldaño por encima de los conocidos <a href=/coches/omoda-4-2026-precio-ficha-tecnica/>Omoda 4</a> y <a href=/coches/omoda-5-gasolina-2026-precio-ficha-tecnica/>Omoda 5</a>, más cerca del <a href=/coches/omoda-7-shs-2026-precio-ficha-tecnica/>Omoda 7</a>. Es, en la práctica, el SUV más aspiracional de la marca hasta la fecha. Cuando Omoda publique la ficha de la versión de producción, prepararemos su ficha técnica completa: de momento, lo honesto es no inventar ni un solo dato.
 
 ## Preguntas frecuentes
 
-### ¿Qué adelanta el Omoda X?
+### ¿Qué es el Omoda X?
 
-Un prototipo de SUV desvelado por Omoda en octubre de 2026 en la cumbre de usuarios de Chery en Wuhu. Anticipa un modelo de serie con un dibujo inspirado en los mecha.
+Un prototipo de SUV presentado por Omoda en octubre de 2026 en el International User Summit de Chery en Wuhu. Adelanta un nuevo modelo de producción con estética inspirada en la cultura mecha.
 
-### ¿Cuándo se vende y a qué precio?
+### ¿Cuándo sale a la venta el Omoda X y cuánto costará?
 
-Sin fecha ni tarifa anunciadas. Los datos definitivos se conocerán con la versión de serie.
+Omoda no ha anunciado fecha de lanzamiento ni precio. Las especificaciones técnicas definitivas se conocerán con la versión de producción.
 
-### ¿Qué mecánicas están previstas?
+### ¿Qué motores tendrá el Omoda X?
 
-Híbridas, enchufables y eléctricas puras, con tracción total en algunas variantes. Potencias y autonomías siguen pendientes.
+La marca ha confirmado versiones **híbridas, híbridas enchufables y 100 % eléctricas**, con variantes de tracción total. Potencias y autonomías, pendientes de publicación.
 
-### ¿Es un todoterreno puro?
+### ¿El Omoda X es un todoterreno?
 
-No: es un SUV con aptitudes fuera de pista —altura de 200 mm, vadeo de 700 mm y cámara térmica— aunque su chasis es monocasco, sin largueros ni travesaños como un todoterreno puro.
+No exactamente: Omoda habla de un SUV con ciertas capacidades off-road (200 mm de altura libre, 700 mm de vadeo, cámara térmica), pero con chasis **monocasco**, no de largueros y travesaños como un todoterreno puro.
 
-### ¿Cómo funciona su cámara térmica?
+### ¿Qué es la cámara térmica del Omoda X?
 
-Es un sensor que capta calor —personas, animales, obstáculos— hasta 90 metros según las condiciones, útil cuando hay poca visibilidad.
+Un sensor que detecta fuentes de calor (personas, animales, obstáculos) hasta a **90 metros** de distancia según las condiciones, pensado para situaciones de baja visibilidad.
 
-### ¿Llegará a España?
+### ¿El Omoda X se venderá en España?
 
-La marca lo describe como un producto global, así que Europa entra en lo probable, pero los mercados y las fechas siguen sin confirmación oficial.
+Omoda lo define como un **producto global**, así que es probable que llegue a Europa. Aún no hay confirmación oficial de mercados ni fechas.
 
 *Fuentes: <a href=https://forococheselectricos.com/noticias/omoda-x-20261022-42538.html>forococheselectricos.com (22/10/2026)</a>.*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
-`,
+**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
   },
   {
     slug: "lexus-lfa-ev-espia-espana-prototipo-2027",
