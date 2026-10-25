@@ -739,7 +739,7 @@ const COCHES_LOTE1_B: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/polestar-7-2028-oficial.webp",
-    imagenInteriorOficial: null,
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Polestar",
