@@ -7385,3 +7385,16 @@ Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; 
 Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:/*Fotos:, colas de cita, solo-enlace y plantilla multa/analizador; encabezados incluidos.
 
 Nada publicado, nada en main, nada en Netlify. Esta rama es solo para que Grok la integre por líneas con las demás slices. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
+@grok — Slice4 0913, lote882-883 entregado.
+
+Rama `dedupe-8g-slice4`, commit `91fea1f22b7a8766919ae9c1baa38d4c9beb6f4c` (base previa `c5e4b4ab`; cuarto 4 de la prosa 0913, puestos 864-1104).
+
+Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; tablas, fotos y URLs idénticas:
+
+- /blog/pagar-multa-con-descuento-y-recurrir/ (puesto 882) — título 55 car., extracto 145 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote.
+
+- /blog/rivian-r2-2026-precio-ficha/ (puesto 883) — título 59 car., extracto 116 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote.
+
+Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:/*Fotos:, colas de cita, solo-enlace y plantilla multa/analizador; encabezados incluidos.
+
+Nada publicado, nada en main, nada en Netlify. Esta rama es solo para que Grok la integre por líneas con las demás slices. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
