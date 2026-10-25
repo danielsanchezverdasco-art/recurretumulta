@@ -1023,9 +1023,9 @@ Fuentes: <a href=https://carnewschina.com/2026/09/29/geelys-1113-hp-off-roader-b
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
   },
   {
-    title: "Evoke Nrgy: moto eléctrica 120 km/h",
+    title: "Evoke Nrgy: eléctrica china de 120 km/h desde 4.995 $",
     slug: "evoke-nrgy-moto-electrica-china-120-kmh",
-    excerpt: "Evoke desvela la Nrgy: moto eléctrica naked desde unos 4.995 $, 120 km/h de velocidad punta, baterías de hasta 8,4 kWh y carga rápida. La marca china-hongkonesa, sin venta en Europa (todavía).",
+    excerpt: "La Evoke Nrgy promete autopista eléctrica por 4.995 $: 120 km/h, hasta 8,4 kWh y 240 km CLTC. Dos versiones, carga rápida y Europa aún sin confirmar.",
     category: "Modelos desconocidos",
     date: "2026-10-09",
     readTime: 8,
@@ -1040,64 +1040,60 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     content: `<img src=/media/evoke-nrgy-moto-electrica-china-120-kmh-hero.webp alt=Moto eléctrica naked oscura aparcada en una calle urbana al atardecer, imagen editorial>
 
-El gran problema de la moto eléctrica siempre ha sido el mismo: o pagas un pastizal por una moto de verdad, o te conformas con un ciclomotor glorificado que se rinde a 45 km/h. **Evoke Motorcycles** quiere romper ese dilema con la **Nrgy**, una naked eléctrica ligera presentada el 7 de septiembre de 2026 que promete **120 km/h de velocidad punta** desde un precio objetivo de **4.995 dólares**. Autopista de verdad, precio de utilitario.
+Durante años, la moto eléctrica se movía entre dos extremos incómodos: pagar una fortuna por una máquina de verdad o aceptar un ciclomotor con aspiraciones que se rendía a 45 kilómetros por hora. La Nrgy de **Evoke Motorcycles** pretende romper ese dilema. Presentada el 7 de septiembre de 2026 como modelo 2027, esta naked eléctrica ligera promete una velocidad punta de 120 kilómetros por hora desde un precio objetivo de 4995 dólares. Autopista de verdad a precio de utilitario, si las cifras anunciadas se cumplen.
 
-## Datos clave
+Los datos proceden de la <a href=https://www.evokemotorcycles.com/NrgySeries>página oficial de Evoke Nrgy</a>, <a href=https://electrek.co/2026/09/07/evokes-new-5000-electric-motorcycle-can-hit-highway-speeds-coming-to-us-eu/>Electrek</a> y <a href=https://newatlas.com/motorcycles/evoke-nrgy/>New Atlas</a>.
 
-- **Modelo:** Evoke Nrgy (año modelo 2027), presentada el 7 de septiembre de 2026
-- **Velocidad máxima:** **120 km/h** (ambas versiones)
-- **Baterías:** **6,4 kWh** (Nrgy 6) / **8,4 kWh** (Nrgy 8); química LFP según la prensa especializada
-- **Autonomía estimada:** 180 km CLTC (Nrgy 6) / 240 km CLTC (Nrgy 8), según Evoke
-- **Carga:** carga rápida del **30 al 80 % en 30 minutos**
-- **Potencia:** 12 kW pico (Nrgy 6) / 15 kW pico (Nrgy 8); peso de 156/182 kg
-- **Precio objetivo:** **4.995 $** (Nrgy 6) / **6.495 $** (Nrgy 8) — cifras objetivo, aún sin confirmar por regiones
-- **Venta en Europa:** **sin confirmar**; Evoke apunta a Europa, Norteamérica y el Sudeste Asiático
-- **Fuente:** <a href=https://www.evokemotorcycles.com/NrgySeries>página oficial Evoke Nrgy</a>, <a href=https://electrek.co/2026/09/07/evokes-new-5000-electric-motorcycle-can-hit-highway-speeds-coming-to-us-eu/>Electrek</a> y <a href=https://newatlas.com/motorcycles/evoke-nrgy/>New Atlas</a>
-
-## Dos versiones, una misma idea
+## Dos variantes con la misma idea
 
 | Versión | Batería | Autonomía estimada (CLTC) | Precio objetivo |
 |---|---|---|---|
 | Nrgy 6 | 6,4 kWh | 180 km | 4.995 $ |
 | Nrgy 8 | 8,4 kWh | 240 km | 6.495 $ |
 
-La Nrgy 6 es la puerta de entrada: batería más pequeña, 156 kg y el precio rompedor. La Nrgy 8 añade 2 kWh más, 15 kW de pico y 182 kg para quien quiera más autonomía real. Ambas comparten chasis propio (arquitectura Twin Plate patentada por Evoke), horquilla invertida de 43 mm y doble amortiguador trasero. Nada de piezas genéricas de catálogo: es una moto diseñada como moto, no como electrodoméstico.
+La variante de acceso es la Nrgy 6: acumulador menor, 156 kilos y un precio que rompe el mercado. La Nrgy 8, con 2 kilovatios hora extra, 15 kilovatios de pico y 182 kilos, apunta a quien priorice autonomía real. Ambas montan bastidor propio de doble placa patentado por Evoke, horquilla invertida de 43 milímetros y dos amortiguadores traseros. Nada de componentes genéricos de catálogo: la moto está concebida como moto, no como electrodoméstico.
+
+En carga rápida, del 30 al 80 por ciento bastan 30 minutos, y la punta de 120 kilómetros por hora no cambia entre variantes. La Nrgy 6 rinde 12 kilovatios de pico; la Nrgy 8 alcanza 15. Sobre autonomía, el fabricante calcula 180 kilómetros en ciclo CLTC para la pequeña y 240 para la mayor. Conviene leer esas cifras con cautela: el ciclo CLTC es urbano y chino, optimista por definición, y en uso mixto la cifra real quedará por debajo de esos valores.
 
 <img src=/media/evoke-nrgy-moto-electrica-china-120-kmh-galeria-1.webp alt=Moto eléctrica oscura rodando por una carretera de costa al amanecer con piloto con casco oscuro, imagen editorial>
 
-## Quién es Evoke (y por qué no es una marca fantasma)
+## Quién está detrás: una marca con fábrica, no un render
 
-Evoke no es una startup de ayer. Es una compañía **hongkonesa fundada en 2014 en Pekín** (Nathan Siy y Sebastian Chrobok) que lleva desde 2012 desarrollando motos eléctricas. Su primera moto de serie, la **Urban S**, llegó a China en 2015 y después a países europeos seleccionados; la retro **Urban Classic** sigue en catálogo. Su proyecto más ambicioso hasta ahora era la **6061-GT**, una power cruiser eléctrica con 160 CV y 230 km/h prometidos.
+Detrás no hay una startup recién nacida. Evoke es una firma hongkonesa que Nathan Siy y Sebastian Chrobok fundaron en Pekín en 2014, tras trabajar desde 2012 en motos eléctricas. La Urban S, su primer modelo de serie, salió en China en 2015 y más tarde en algunos países europeos; la Urban Classic de estilo retro continúa en catálogo. Hasta ahora, su proyecto más ambicioso, la 6061-GT, era una power cruiser eléctrica a la que se atribuían 160 CV y 230 kilómetros por hora.
 
-La Nrgy llega con el músculo de una empresa que acaba de celebrar su **10.º aniversario** inaugurando una **nueva fábrica**. No es una promesa en PowerPoint: es un fabricante con línea de producción propia. Aun así, conviene leer la letra pequeña: la propia Evoke reconoce que precios, especificaciones finales y fechas de entrega son **objetivos, no cifras cerradas**. Las autonomías son estimaciones CLTC (ciclo urbano chino, optimista por definición) y aún no hay homologación europea anunciada.
+La Nrgy se presenta cuando la empresa acaba de cumplir diez años y de estrenar una planta nueva. No hablamos de una promesa en PowerPoint, sino de un fabricante con su propia línea de producción. Pese a ello, la letra pequeña importa: la misma Evoke admite que precios, especificaciones definitivas y fechas de entrega son metas, no datos cerrados. Las autonomías son estimaciones CLTC y aún no se ha anunciado homologación europea.
 
-## La jugada: LFP para bajar el precio sin bajar la moto
+## Por qué sale tan barata: la química LFP
 
-Lo interesante de la Nrgy no es solo el precio, sino **cómo** lo consigue. Ambas versiones usan celdas **LFP (litio-ferrofosfato)** según la prensa especializada —la misma química que BYD ha popularizado en coches—. El LFP renuncia a algo de densidad energética, pero gana **estabilidad térmica, vida útil y coste**: exactamente lo que una moto asequible necesita. Y la propia Evoke lo dice sin rodeos: frente a la competencia barata que monta baterías pequeñas y maquilla la autonomía con cifras de laboratorio, la Nrgy apuesta por **la batería más grande de su segmento de precio**, porque la autonomía real se mide en kWh, no en promesas.
+El precio no se explica solo: importa el método. Ambas montan celdas de litio-ferrofosfato (LFP) según cuentan medios especializados, que comparten química con la que BYD ha hecho popular en coches. El LFP sacrifica algo de densidad energética a cambio de estabilidad térmica, vida útil y coste: justo lo que pide una moto asequible. La propia Evoke lo expresa sin ambages: frente a rivales baratas con baterías pequeñas que adornan la autonomía con números de laboratorio, la Nrgy apuesta por el acumulador mayor de su franja de precio, porque la autonomía verdadera se mide en kilovatios hora, no en promesas.
 
-El hueco que ataca es real: en Europa una moto eléctrica de carretera capaz cuesta el doble. Si Evoke logra traerla a Europa cerca de los **~4.300 €** que saldrían al cambio, sería la primera eléctrica de autopista a precio de 125 de gasolina. <a href=/comparador-motos/>Compárala con las eléctricas que ya se venden en España en nuestro comparador de motos</a>.
+El espacio que ocupa en el mercado existe de verdad: en Europa, una eléctrica de carretera con capacidad cuesta el doble. Si Evoke consigue traerla cerca de los aproximadamente 4300 euros que resultarían al cambio, se convertiría en la primera eléctrica de autopista al precio de una 125 de gasolina. <a href=/comparador-motos/>Compárala con las eléctricas a la venta en España en nuestro comparador de motos</a>.
 
-## ¿Llegará a Europa?
+## ¿Vendrá a Europa?
 
-**Sin confirmar.** Evoke dice apuntar a Europa, Norteamérica y el Sudeste Asiático, pero no ha anunciado fechas de entrega ni importadores. La marca ya vendió la Urban S en países europeos seleccionados en 2018, así que el camino lo conoce. Con la presión de los aranceles europeos a los eléctricos chinos, el precio final en España dependerá de cómo Evoke gestione la importación. Lo seguiremos de cerca: si se confirma, será una de las motos eléctricas con mejor relación precio/prestaciones del mercado.
+**Todavía sin confirmar.** La marca señala como destinos Europa, Norteamérica y el Sudeste Asiático. De momento no ha comunicado fechas de entrega ni importadores. Como ya vendió la Urban S en algunos países europeos en 2018, conoce el camino. Eso sí, los aranceles europeos a los eléctricos chinos pesarán en el precio final en España según cómo Evoke organice la importación. Seguiremos el tema de cerca: de confirmarse, estaría entre las eléctricas con mejor equilibrio entre precio y prestaciones. Y una precisión honesta sobre seguridad: Euro NCAP no evalúa motocicletas, así que tampoco aquí cabe hablar de estrellas.
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta la Evoke Nrgy?
-Precio objetivo: **4.995 $** la Nrgy 6 (6,4 kWh) y **6.495 $** la Nrgy 8 (8,4 kWh). Son cifras objetivo anunciadas por Evoke, aún **sin confirmar** por regiones.
+### ¿Qué precio anuncia Evoke para la Nrgy?
 
-### ¿Qué velocidad alcanza la Evoke Nrgy?
-**120 km/h** de velocidad punta en ambas versiones, suficiente para circular por autopista con soltura.
+Son precios objetivo: **4995 dólares** la Nrgy 6 (6,4 kilovatios hora) y **6495 dólares** la Nrgy 8 (8,4 kilovatios hora). Evoke los anuncia como metas, todavía **sin confirmar** por regiones.
 
-### ¿Qué autonomía tiene la Evoke Nrgy?
-Evoke estima **180 km CLTC** (Nrgy 6) y **240 km CLTC** (Nrgy 8). Son estimaciones del fabricante en ciclo urbano chino; la autonomía real en uso mixto será menor.
+### ¿A qué velocidad máxima llega?
 
-### ¿Se vende la Evoke Nrgy en España?
-**No.** De momento no hay venta en Europa confirmada, aunque la marca dice que el continente está entre sus mercados objetivo.
+**120 kilómetros por hora** de punta en ambas versiones: bastante para moverse por autopista con soltura.
 
-Fuentes: <a href=https://www.evokemotorcycles.com/NrgySeries>Evoke Motorcycles (oficial)</a>, <a href=https://electrek.co/2026/09/07/evokes-new-5000-electric-motorcycle-can-hit-highway-speeds-coming-to-us-eu/>Electrek</a>, <a href=https://newatlas.com/motorcycles/evoke-nrgy/>New Atlas</a>, <a href=https://www.buckcitybiker.co.uk/news/evoke-nrgy-electric-motorcycle>Buck City Biker</a>.
+### ¿Cuántos kilómetros promete con una carga?
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Evoke calcula **180 kilómetros CLTC** (Nrgy 6) y **240 kilómetros CLTC** (Nrgy 8). Son cálculos del fabricante en ciclo urbano chino; en uso mixto, la cifra real quedará por debajo.
+
+### ¿Se puede comprar ya en España?
+
+**No.** Por ahora no existe venta europea confirmada, aunque la marca sitúa el continente entre sus mercados objetivo.
+
+Fuentes: <a href=https://www.evokemotorcycles.com/NrgySeries>web oficial de Evoke Motorcycles</a>, <a href=https://electrek.co/2026/09/07/evokes-new-5000-electric-motorcycle-can-hit-highway-speeds-coming-to-us-eu/>Electrek</a>, <a href=https://newatlas.com/motorcycles/evoke-nrgy/>New Atlas</a>, <a href=https://www.buckcitybiker.co.uk/news/evoke-nrgy-electric-motorcycle>Buck City Biker</a>.
+
+Si una sanción te parece defectuosa, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de abonar nada.`
   },
   {
     "title": "Jetour G700: 903 CV híbridos que flotan",
