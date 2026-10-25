@@ -318,5 +318,53 @@
     "intro": "Zero Motorcycles lleva años demostrando que la moto eléctrica puede ser una moto de verdad, sin apellidos. La SR/F es la naked de la gama, la SR/S su versión carenada para viajar, y la DSR/X traslada la idea al trail, siempre con motor eléctrico, sin embrague ni cambio, y con un precio de segmento premium. Entre las 13 fichas, lo que cambia es la autonomía, la potencia y la postura, no el concepto. Quien compare aquí debe fijarse en la autonomía real y en la carga, porque la aceleración ya la dan por hecha todas.",
     "n": 13,
     "url": "/motos/marca/zero/"
+  },
+  "patinetes/aovopro": {
+    "nombre": "Aovopro",
+    "title": "Aovopro: 6 patinetes urbanos baratos",
+    "description": "Las 6 fichas Aovopro: ES80, ES Max, 365 Go, ES60, EW6 y AP07, urbanos sencillos para el día a día.",
+    "intro": "Aovopro se mueve en el tramo más asequible del patinete urbano: modelos sencillos, sin grandes alardes, para ir de casa al trabajo o a clase. La ES80 y la ES Max son las urbanas de referencia, la 365 Go y la ES60 bajan un escalón en precio, y la EW6 y la AP07 completan una gama corta y fácil de entender. Con 6 fichas, la comparación es directa: autonomía, peso y precio, sin distracciones. Son patinetes para quien quiere gastar poco y no necesita ni suspensiones ni pantallas espectaculares.",
+    "n": 6,
+    "url": "/patinetes/marca/aovopro/"
+  },
+  "patinetes/bogist": {
+    "nombre": "Bogist",
+    "title": "Bogist: 6 patinetes con buena autonomía",
+    "description": "Las 6 fichas Bogist: C1 Pro, M1 Elite, M3 Pro y la familia M5 Pro, con baterías grandes y precios ajustados.",
+    "intro": "Bogist ha construido su nombre a base de baterías grandes por poco dinero. La C1 Pro abre la gama, la M1 Elite y la M3 Pro suben en autonomía y equipamiento, y la familia M5 Pro, con la Pro, la Pro S y la Pro Plus, pone el tope en alcance y potencia. Son 6 fichas en las que la autonomía declarada manda: si el trayecto diario es largo, Bogist suele salir en la conversación. Al comparar conviene mirar la autonomía real y el peso, porque las baterías grandes se pagan en kilos.",
+    "n": 6,
+    "url": "/patinetes/marca/bogist/"
+  },
+  "patinetes/bronco": {
+    "nombre": "Bronco",
+    "title": "Bronco: 3 Xtreme potentes para exigentes",
+    "description": "Las 3 fichas Bronco: Xtreme 11, Xtreme Sport y Xtreme Vnom 11, patinetes potentes de doble motor.",
+    "intro": "Bronco no hace patinetes de paseo: sus 3 fichas son Xtreme, y el nombre avisa. La Xtreme 11 y la Xtreme Vnom 11 son las potentes de la gama, con doble motor y prestaciones muy por encima del uso urbano legal, y la Xtreme Sport completa el trío con el mismo carácter. Aquí la comparación no va de precio ni de peso, sino de potencia y de uso: son máquinas para circuito o finca privada en España, no VMP de calle. Quien busque un urbano debe mirar otra marca.",
+    "n": 3,
+    "url": "/patinetes/marca/bronco/"
+  },
+  "patinetes/cecotec": {
+    "nombre": "Cecotec",
+    "title": "Cecotec: 37 Bongo para todos los bolsillos",
+    "description": "Las 37 fichas Cecotec: Bongo Serie A, Serie S, Serie D y Serie Z, con homologación DGT en buena parte de la gama.",
+    "intro": "Cecotec es, con 37 fichas, la marca de patinetes más extensa de esta web, y su orden interno ayuda a no perderse: la Serie A es la de entrada, la Serie D la urbana de gran autonomía, la Serie S la más moderna, y la Serie Z y las gamas GS y G ponen el tope en potencia y alcance. Muchas llevan homologación DGT, algo que en Cecotec no es un extra sino parte del planteamiento. Con tantas fichas, el filtro útil es triple: presupuesto, autonomía necesaria y si se exige certificado DGT, porque hay un Bongo para casi cada combinación.",
+    "n": 37,
+    "url": "/patinetes/marca/cecotec/"
+  },
+  "patinetes/evercross": {
+    "nombre": "Evercross",
+    "title": "Evercross: 9 patinetes y hoverboards",
+    "description": "Las 9 fichas Evercross: A1, H5, H7, H9, EV10K Pro, EV08E y C3, urbanos y de largo alcance.",
+    "intro": "Evercross cubre el patinete urbano con una gama corta y variada: la A1 y la C3 para empezar, la H5, la H7 y la H9 para el uso diario con más alcance, y la EV10K Pro y la EV08E para quien pide más potencia y batería. Son 9 fichas sin una especialidad extrema: ni hiperpotentes ni ultraligeros, sino urbanos con buena relación entre precio y autonomía. Al comparar, lo que más separa unas de otras es la batería y el peso, y conviene comprobar la disponibilidad en España, porque parte de la gama se vende sobre todo por internet.",
+    "n": 9,
+    "url": "/patinetes/marca/evercross/"
+  },
+  "patinetes/iscooter": {
+    "nombre": "iScooter",
+    "title": "iScooter: 18 urbanos para el día a día",
+    "description": "Las 18 fichas iScooter: familias i10, i9, iX3, iX4 e iX5, urbanos baratos con app y buena autonomía.",
+    "intro": "iScooter es una de las marcas más vendidas por internet en España, y sus 18 fichas lo explican: la familia i10, con la i10, la i10 Pro, la i10 Plus y la i10 Max, cubre el urbano de precio bajo; la familia i9 hace lo propio un escalón por encima; y las iX3, iX4 e iX5, junto con la i8 y la i12, completan una gama pensada para comprar sin probarla antes. Aquí la comparación pasa por la autonomía, el peso y la postventa, porque el precio ya es bajo en todas. Es la marca del que prioriza gastar poco y moverse ya.",
+    "n": 18,
+    "url": "/patinetes/marca/iscooter/"
   }
 }
