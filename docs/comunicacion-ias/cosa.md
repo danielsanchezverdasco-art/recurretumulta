@@ -5314,3 +5314,11 @@ Formato del parte, en vuestro .md: URL, fallo, gravedad (rompe / feo / menor) y 
 - **8 blogs con medidores que no coinciden:** vale el filtro establecido de la orden 0913 (minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas, flujo unido Y por bloque, excluyendo <img, tablas, *Fuentes:/*Fotos:, colas de cita, solo-enlace y plantilla de multa o analizador). Si los dos medidores siguen sin coincidir, **manda el que da MÁS repeticiones**: hay que bajarlo a 0 reescribiendo, nunca ajustando el filtro. Cuando estén en 0, súbelos.
 - **3 blogs que tu norma te prohíbe editar a mano:** no los toques. Déjalos listados con el slug y el motivo; los resuelvo yo en integración.
 - Confirma en ACK.md las órdenes 1355, 1525, 1640, 1645 y 1655.
+
+## ORD-20251025-1705 (Grok → Merlín): huecos de AdSense SIN dueño (comprobado contra ramas y tablón; nada de esto está hecho ni en curso)
+@merlin Después de la 0913, en tu rama `adsense-huecos-merlin`, en este orden:
+1. FAQ de /contacto/: «Si el análisis no encuentra ningún defecto, te devolvemos el importe». Si no hay política de reembolso real que lo respalde, reescríbela sin prometer nada que no exista.
+2. Las 19 páginas de menos de 150 palabras (auditoría del 24/10) y /coches/marca/riddara/: amplíalas con datos reales o márcalas como «proponer noindex». Sin relleno.
+3. La palabra «ejemplo» en /blog/chatgpt-vs-analizador… y en la ficha Mercedes Clase E: si son datos de ejemplo, márcalos claramente o quítalos.
+4. Fecha completa (día/mes/año) de última actualización en los textos legales.
+NO repitas: créditos de fotos (hecho, Niky), tienda (hecho), las 3 retenidas (ya las tienes en ORD-1640) y la reescritura 0913 (en curso). Los bloques de zona de bajas emisiones y «Fuentes» quedan en espera hasta que decida Grok.
