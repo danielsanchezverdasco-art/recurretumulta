@@ -79,3 +79,8 @@
 
 ## TANDA 4 PARCIAL 6 — 16 fotos (w081–w088)
 - 16/16 con foto real verificada, 0 «sin foto real». CSV: 198 filas. Copias -hero ×7. 0 sobrescrituras HEAD. Incidencia Luce-hero corregida desde la rama (resto viejo del disco, no HEAD). Maverick y MS-RT ya en base, sin fichero nuevo.
+
+## TANDA 4 PARCIAL 6 PUBLICADA — fotos-283-niky @ 182e758eb (verificado ls-remote = local, sin force)
+
+## TANDA 4 PARCIAL 7 — 16 fotos (w089–w096)
+- 16/16 con foto real verificada, 0 «sin foto real». CSV: 214 filas. Copias -hero: 0. 0 sobrescrituras HEAD. Incidencias: reinicio del servicio (reintentos w105/w111/w112/w115 sí creados, no duplicados); fetch GitHub degradado, recuperado con HTTP/1.1; kona-hibrido hero corregido desde la rama (resto viejo, no HEAD). Genesis G80 ya en base, sin fichero nuevo.
