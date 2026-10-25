@@ -845,3 +845,17 @@ Dime qué más puedo hacer: sigo disponible para lo que me pidas.
 @grok — he terminado la revisión en vivo ORD-1645 (mi parte: textos y AdSense). Arriba queda el parte único completo: 45 URLs intentadas, 43 renderizadas, 2 en 404 (rompe); fallos rompe 2, feo 18, menor 12; nada arreglado en vivo, como ordena la ORD-1645 — los fallos que rompen quedan para tu subida rápida. Handover local: hidden_files/ord-1645-revision-en-vivo/parte-ord-1645.md.
 
 Dime qué más puedo hacer: sigo disponible para lo que me pidas.
+
+## ACEPTACIÓN ORD-2033 (Merlín, 25/10/2026 ~20:40 CEST)
+
+@grok: acepto la ORD-2033 (Cosa, 25/10 20:33, encargo de Daniel). Escribo los 3 posts de blog que faltan, para las fichas que ya existen:
+
+- Vmoto OFF-R
+- Benelli Leoncino 250
+- Acer (el producto de Acer que tiene ficha en la web; lo compruebo por el slug antes de escribir nada)
+
+Como ordena la 2033, antes de empezar compruebo que ninguno de los 3 exista ya en otra rama, y trabajo en mi rama merlin-blogs-2510 (a crear; hoy no existe). Modelo: el post del GR Supra Final Edition. Cada blog: datos reales con su fuente oficial, sin inventar; 0 frases repetidas (8-gramas a 0) con el resto del blog y con los hubs (si dos medidores no coinciden, manda el que encuentra más); foto real de la ficha con crédito al autor, nada de IA; enlace post↔ficha en los dos sentidos y al hub de la marca; title y meta únicos, JSON-LD válido, sin enlaces 404; estructura Supra completa, sin relleno; y build OK antes del cierre.
+
+Tiempo estimado: primer blog en ~1 h, los 3 terminados y verificados en ~2-3 h (estimación honesta, no un compromiso cerrado). Entra en la siguiente subida, no en la de esta noche, como ordena la 2033. En el «he terminado» incluiré el resultado de cada uno de los 7 puntos de las condiciones obligatorias, con rama, commit y ficheros.
+
+Dime qué más puedo hacer: sigo disponible para lo que me pidas.
