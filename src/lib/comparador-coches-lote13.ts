@@ -949,18 +949,18 @@ const COCHES_LOTE13_B: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "Baterías Blade de BYD (65,28 y 73,98 kWh) con hasta 630 km CLTC",
-      "Motor delantero de 268 CV y 330 Nm desarrollado por FinDreams (BYD)",
-      "Conducción semiautónoma Momenta 5.0 con LiDAR y 33 sensores",
-      "9 airbags, pantalla de 15,6\" y asientos con modo siesta",
-      "Precio en China desde 16.150 €: mitad que un Tesla Model Y",
+      "Las baterías Blade de BYD, de 65,28 y 73,98 kWh, anuncian hasta 630 km en ciclo CLTC",
+      "El motor delantero de 268 CV y 330 Nm, desarrollado por FinDreams, la filial de BYD, da empuje de sobra",
+      "La conducción semiautónoma Momenta 5.0, con LiDAR y 33 sensores, lo pone al nivel de los eléctricos más avanzados",
+      "Los 9 airbags, la pantalla de 15,6 pulgadas y los asientos con modo siesta cuidan a todos los ocupantes",
+      "El precio en China, desde unos 16.000 €, es aproximadamente la mitad que el de un Tesla Model Y"
     ],
     contras: [
-      "Solo se vende en China; Toyota no lo trae a Europa",
-      "Autonomía CLTC: la cifra WLTP sería menor",
-      "Diseño fastback que resta altura trasera",
-      "Sin datos de carga rápida publicados",
-      "La alianza con BYD diluye el «made by Toyota»",
+      "Solo se vende en China: Toyota no lo trae a Europa, así que aquí es un coche para conocer, no para comprar",
+      "La autonomía es CLTC, así que la cifra WLTP europea sería menor",
+      "El diseño fastback resta altura en las plazas traseras, algo a comprobar si viajan adultos altos",
+      "No hay datos publicados de carga rápida, un hueco que conviene resolver antes de valorarlo en serio",
+      "La alianza con BYD diluye el «made by Toyota» que muchos compradores buscan en la marca"
     ],
     largoMm: 4780,
     anchoMm: 1866,
@@ -1012,7 +1012,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
+      nota: "EuroNCAP no tiene datos de este modelo, que solo se vende en China.",
     },
     planMantenimiento: {
       intervalo: "12 meses o 15.000 km, lo que ocurra antes",

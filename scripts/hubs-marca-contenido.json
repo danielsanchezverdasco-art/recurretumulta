@@ -190,5 +190,21 @@
     "intro": "Xiaomi entró en el mundo del coche con tres nombres que conviene no confundir: el SU7, la berlina con la que debutó, con versiones Pro, Max y Ultra; el YU7, que traslada la misma idea al formato SUV, también con Pro y Max; y la familia SkyNomad, con el N70 y el N90, que amplía la gama por arriba. Son 12 fichas, y la escalera dentro de cada familia es de potencia y equipamiento, no de tamaño. El SU7 Ultra y el YU7 Max son los extremos deportivos, mientras que las versiones Pro son la puerta de entrada. Si te atrae la idea de un coche hecho por una empresa de tecnología, estas fichas te dicen qué hay detrás del logo.",
     "n": 12,
     "url": "/coches/marca/xiaomi/"
+  },
+  "motos/beta": {
+    "nombre": "Beta",
+    "title": "Beta: 12 motos de enduro y trial para comparar",
+    "description": "Las motos Beta en 12 fichas: del trial Evo al enduro RR, pasando por la Alp y la Xtrainer, con motores y pesos para elegir la adecuada.",
+    "intro": "Quien se acerca a Beta suele tener claro que busca una moto de especialista, y estas 12 fichas ayudan a afinar la elección. La Xtrainer 300 es la puerta de entrada al enduro, más accesible y manejable que las RR; la Evo 300, de dos tiempos, es la referencia de trial; y la familia RR, con la RR 480 y las X-Pro 300 y 350, es el enduro de competición. Aparte quedan las Alp, trail ligeras para quien quiere campo sin radicalismos. Comparar estas fichas exige mirar cilindrada, peso y uso previsto, porque en Beta el precio solo no decide nada.",
+    "n": 12,
+    "url": "/motos/marca/beta/"
+  },
+  "motos/horwin": {
+    "nombre": "Horwin",
+    "title": "Horwin: 11 motos eléctricas urbanas y clásicas",
+    "description": "Las eléctricas Horwin en 11 fichas: scooters EK y SK, la clásica CR6, la DS1, la HT5 y la Senmenti 0, con la autonomía y la potencia de cada una.",
+    "intro": "Si buscas una moto eléctrica para moverte por la ciudad sin pasar por un scooter anodino, Horwin tiene una gama entera para comparar: 11 fichas entre scooters y motos con estilo propio. La familia SK y la EK, con la EK1 y la EK3, cubren el uso urbano con dos niveles de potencia; la CR6 y su versión Pro recuperan la estética clásica con motor eléctrico; y la DS1, la HT5 y la Senmenti 0 completan el catálogo hacia el reparto y el uso práctico. Lo que cambia de unas a otras es la autonomía, la velocidad y el formato, así que la elección empieza por el uso diario, no por el nombre.",
+    "n": 11,
+    "url": "/motos/marca/horwin/"
   }
 }

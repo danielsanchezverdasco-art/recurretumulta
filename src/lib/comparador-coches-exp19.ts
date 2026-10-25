@@ -36,18 +36,18 @@ export const COCHES_EXP19: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "200 CV con 4,7 l/100 km: el híbrido más equilibrado del segmento C-SUV",
-      "Restyling 2026 con nuevo frontal y acabado esprit Alpine disponible",
-      "Maletero de 555 L con banqueta trasera deslizante",
-      "Fabricado en España (Palencia): máxima disponibilidad de recambios",
-      "Hasta 1.100 km de autonomía con un depósito",
+      "Los 200 CV con 4,7 l/100 km lo convierten en el híbrido más equilibrado del segmento C-SUV",
+      "El restyling de 2026 estrena frontal y ofrece el acabado esprit Alpine para quien busque un toque deportivo",
+      "El maletero de 555 litros, con banqueta trasera deslizante, se adapta a pasajeros o a carga según el día",
+      "Fabricado en España, en Palencia, lo que garantiza disponibilidad de recambios y de servicio",
+      "Hasta 1.100 km de autonomía con un depósito: un viajero que pasa poco por la gasolinera"
     ],
     contras: [
-      "Desde 36.909 €: el salto al E-Tech 200 cuesta ~3.900 € sobre el mild hybrid",
-      "El cambio multimodo puede resultar brusco en maniobras a baja velocidad",
-      "Sin versión 4x4 ni etiqueta Cero: solo ECO",
-      "La banqueta deslizante es opcional según acabado",
-      "El Toyota RAV4 rivaliza con mejor reputación de reventa",
+      "Desde 36.909 €, el salto al E-Tech 200 cuesta unos 3.900 € más que el mild hybrid",
+      "El cambio multimodo puede resultar brusco en maniobras a baja velocidad, como aparcar",
+      "No hay versión 4x4 ni etiqueta Cero: se queda en ECO, con lo que eso implica en las ZBE",
+      "La banqueta deslizante es opcional según el acabado, así que conviene revisar la dotación real",
+      "El Toyota RAV4 rivaliza con mejor reputación de reventa, un factor que pesa a la hora de venderlo"
     ],
     largoMm: 4533,
     anchoMm: 1830,

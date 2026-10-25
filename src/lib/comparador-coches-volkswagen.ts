@@ -1567,18 +1567,18 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "El SUV coupé asequible: estilo por precio de generalista",
-      "Maletero de 438 L pese a la caída del techo",
-      "Misma mecánica 1.0 TSI 115 CV probada del grupo",
-      "Equipamiento de serie generoso (Life)",
-      "Postura SUV con consumo de utilitario",
+      "Es el SUV coupé asequible: estilo de coupé por el precio de un generalista",
+      "El maletero de 438 litros sorprende pese a la caída del techo, y resuelve el uso familiar habitual",
+      "La mecánica 1.0 TSI de 115 CV es la misma probada del grupo, con recambios y servicio en todas partes",
+      "El equipamiento de serie del acabado Life es generoso para el precio de partida",
+      "La postura de SUV se combina con un consumo de utilitario, lo mejor de los dos mundos"
     ],
     contras: [
-      "Etiqueta C en toda la gama",
-      "Plaza central trasera y altura libre justas por el techo coupé",
-      "10,4 s de 0-100 con el 115 CV",
-      "El 1.5 TSI de 150 CV se va por encima de 30.000 €",
-      "Visibilidad trasera limitada",
+      "La etiqueta C afecta a toda la gama, sin excepción eléctrica ni híbrida",
+      "La plaza central trasera y la altura libre son justas por culpa del techo coupé",
+      "Los 10,4 segundos de 0 a 100 km/h con el motor de 115 CV no invitan a adelantar con prisa",
+      "El 1.5 TSI de 150 CV se va por encima de 30.000 €, un salto notable para ganar 35 CV",
+      "La visibilidad trasera, limitada por la caída del techo, obliga a confiar en los sensores"
     ],
     largoMm: 4266,
     anchoMm: 1757,

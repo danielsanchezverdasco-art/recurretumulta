@@ -2182,18 +2182,18 @@ export const COCHES_LOTE11: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "El primer monovolumen de la historia de Volvo, 100 % eléctrico",
-      "738 km CLTC con batería de 116 kWh: autonomía de referencia",
-      "6 plazas individuales tipo business con pantalla trasera de 15,6\"",
-      "Carga rápida del 10 al 80 % en 30 minutos y carga bidireccional",
-      "5,21 metros con batalla de 3,21 m: un salón rodante",
+      "Es el primer monovolumen de la historia de Volvo, y además llega como eléctrico puro",
+      "Los 738 km CLTC con la batería de 116 kWh son una autonomía de referencia en su formato",
+      "Las 6 plazas individuales, de tipo business, con pantalla trasera de 15,6 pulgadas, convierten el viaje en un salón",
+      "Recargar del 10 al 80 % lleva media hora, y la carga bidireccional lo prepara para el uso intensivo",
+      "Con 5,21 metros y una batalla de 3,21 metros, el espacio interior es su mejor argumento"
     ],
     contras: [
-      "Precio orientativo (~105.000 €): solo se vende en China",
-      "Sin fecha de llegada a Europa confirmada por Volvo",
-      "2.763 kg de peso: la agilidad no es su fuerte",
-      "Un 60 % más caro que su gemelo Zeekr 009 con la misma técnica",
-      "El formato monovolumen sigue siendo minoritario en Europa",
+      "El precio orientativo, en torno a 105.000 €, solo tiene sentido en China, donde se vende",
+      "Volvo no ha confirmado ninguna fecha de llegada a Europa, así que aquí sigue siendo un proyecto lejano",
+      "Sus 2.763 kg hacen que la agilidad no sea precisamente su fuerte",
+      "Cuesta alrededor de un 60% más que su gemelo Zeekr 009, con la misma técnica de base",
+      "El formato monovolumen sigue siendo minoritario en Europa, y eso se nota en la reventa"
     ],
     largoMm: 5206,
     anchoMm: 2024,
@@ -2245,7 +2245,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Euro NCAP aún no ha publicado ninguna prueba de este modelo.",
     },
     planMantenimiento: {
       intervalo: "Sin programa europeo (modelo a la venta solo en China)",
