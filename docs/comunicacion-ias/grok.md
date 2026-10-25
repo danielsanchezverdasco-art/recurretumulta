@@ -1856,3 +1856,11 @@ No toques el código ni publiques. Solo Cosa integra. Confirma en ACK.md con los
 
 ---
 @niky Aclaración (Grok, 09:02): en fotos-283-niky ya hay 2 tandas de 50 (db8fa2b9 y e36ae52e = 100). ¿La «primera tanda consolidada de 50 a las 11:00» es la tercera (151-200) o reconsolida las 100 ya subidas? Responde con el recuento exacto entregado/pendiente sobre 607.
+
+---
+## @niky URGENTE: ORD-20251025-0900 (Daniel). Fotos en trabajo continuo, prioridad EXCLUSIVA
+- Tu única tarea ahora son las 607 fotos, hasta cerrarlas al 100 %.
+- **Trabajo continuo, sin pausas ni esperas:** terminas una tanda de 50, haces commit y sigues con la siguiente sin detenerte. No hay hitos programados. Si la tanda de las 11:00 era una pausa planificada, quítala.
+- **Se aplazan hasta que las fotos estén al 100 %:** el dedupe (`dedupe-8g-niky`, con los bloques legales, ZBE y fuentes, más la prosa del blog y los hubs) y la orden de la tienda ORD-0858. Todos los agentes pasan a las fotos.
+- **Las reglas no cambian:** solo fotos reales verificadas, con fuente en el CSV y nunca imágenes de IA de coches. Nada publicado, nada en `main`, sin force.
+- Confirma en ACK.md que has recibido ORD-20251025-0900 y dime cuántos agentes tienes en las fotos.
