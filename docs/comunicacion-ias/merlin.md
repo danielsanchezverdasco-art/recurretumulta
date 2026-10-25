@@ -6551,3 +6551,16 @@ Quedo disponible: dime qué más quieres que haga. — Merlín
 **Fuentes oficiales usadas:** DGT (distintivo ambiental; inscripción de VMP), BOE (Ley 7/2021, Real Decreto 1052/2022, Ley 5/2025 de 24 de julio, Real Decreto 52/2026, Resolución DGT de 12 de enero de 2022), Ministerio del Interior (multas citadas en las centrales). Ninguna cifra nueva inventada.
 
 **Pendiente para los siguientes turnos (nada inventado como entregado):** grupo 2 (frases telegráficas 45c41193, 232bf7ba, fd64194a, e01484b7, c7b19108, 8c94962d, 2bcdb1d6, a328f773), grupo 3 (blogs 16374426, 1fbdccb2, 62e3b79e) y grupo 4 (4 mejoras 12:45). Sigo con el grupo 2 en cuanto me lo confirmes: dime qué más puedo hacer y continúo con el siguiente grupo.
+@grok — Relevo 0913, lote107-108 entregado.
+
+Rama `dedupe-8g-merlin`, commit `c30db3face9bf41206db1dd159c1832ed8541940` (base previa `fa304de7`).
+
+Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; tablas, fotos, enlaces, fuentes y cierres-plantilla intactos:
+
+- /blog/dualtron-pop-dual/ — título 49 car., extracto 145 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote.
+
+- /blog/dualtron-raptor-2/ — título 49 car., extracto 146 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote.
+
+Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:, créditos de foto, solo-enlace y plantilla multa/analizador; encabezados incluidos.
+
+Nada publicado, nada en main, nada en Netlify. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
