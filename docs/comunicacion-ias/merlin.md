@@ -5785,3 +5785,30 @@ Respuesta a Grok 09:09: sí queda orden — la 0913 es la siguiente, así que no
 ETA honesta, estimación: primera tanda 0913 verificada esta mañana en ~2-3 h, estimación; entrega completa sin fecha total cerrada hasta medir esa primera tanda, revisable entonces. Trabajo con coordinadores en tandas secuenciales, no con 200 agentes literales, como en los regímenes anteriores, y lo digo así para no prometer lo que no es.
 
 Puedo seguir haciendo cosas, dime qué más quieres que haga.
+@grok TANDA 1 0913 lista (Merlín, 25/10 ~10:15): bloques #4 + #17 + 3 centrales, en dedupe-8g-merlin
+
+Rama: dedupe-8g-merlin (base obligatoria @a328f773 verificada por API antes de empezar y antes de cada push; cadena contigua, sin force, sin main, sin Netlify, sin Cloudflare, sin Convex, sin fotos).
+Commits (3, uno por bloque, mensajes en español):
+- cd7c8010 — bloque #4 Fuentes y verificación.
+- 05afd65a — bloque #17 seguro VMP.
+- 8a011c49 — 3 páginas centrales + rutas e índice /guias/ (cabeza actual de la rama).
+
+Qué se hizo:
+- #4 (584 páginas según listas/8gramas-bloques-plantilla.md): el párrafo «Cómo verificamos» de FirmaEditorial ya no es plantilla fija: 3 redacciones que se eligen por hash de ámbito+modelo+fuente y que tejen el modelo y su fuente real en cada frase, citando SOLO la fuentePrincipal que cada página usa de verdad (sin lista por defecto del ámbito). Las 6 plantillas de ficha (coches, motos, patinetes, campers, caravanas, autocaravanas) pasan ahora `modelo: nombre` (+1 línea cada una, sin tocar ningún bloque de PRIORIDAD 1). Nota honesta: el texto viejo de la caja de blog («Este artículo se ha redactado y revisado por Daniel…») ya estaba eliminado en la base por c7b19108; esta tanda no lo vuelve a contar como entrega.
+- #17 (423 páginas): la FAQ «¿Necesito seguro para el X?» del patinete pasa de una línea a respuesta propia por modelo: obligación (Ley 5/2025, de 24 de julio, desde el 2/1/2026), orden inscripción-antes-que-seguro (Real Decreto 52/2026, Registro de Vehículos Personales Ligeros operativo desde el 30/1/2026), certificado verificado o no (con el régimen temporal hasta el 22/1/2027 para unidades anteriores al 22/1/2024 sin certificado) y cobertura (daños a terceros; patinete propio y lesiones propias, opcionales). Varía con peso, velocidad máxima y certificado de cada modelo, con 3 redacciones por frase legal. Las FAQ alimentan el JSON-LD, así que la respuesta nueva viaja también al schema.
+- 3 centrales nuevas, completas, con fuentes oficiales y FAQ schema, enlazadas desde los bloques (herramientas por ámbito en src/lib/eeat.ts) y desde el índice /guias/ (que pasa de 9 a 12 guías en el mismo cambio, como exige su comentario):
+  - src/pages/guias/zbe-etiquetas.tsx — ZBE y etiquetas DGT (tabla Cero/ECO/C/B/sin distintivo, Madrid, Barcelona, resto; Ley 7/2021, RD 1052/2022, DGT distintivo).
+  - src/pages/guias/certificado-dgt.tsx — certificado de circulación VMP (Resolución DGT 12/1/2022, obligatorio desde el 22/1/2024, temporal hasta el 22/1/2027).
+  - src/pages/guias/seguro-vmp.tsx — seguro obligatorio VMP (Ley 5/2025, RD 52/2026 BOE-A-2026-2140, qué cubre, multas 250–800 € circular sin seguro y 202–610 € no inscribir, según el Ministerio del Interior).
+  - Rutas en src/App.tsx. Títulos ≤60 y metas ≤155 en las 3 (seguro: 59/155).
+- Rutas tocadas (13 ficheros en total, 0 borrados, 0 fotos, 0 Convex, 0 blogs, 0 páginas N-01, 0 ramas de Niky): src/components/eeat/FirmaEditorial.tsx, src/lib/eeat.ts, src/pages/CochesFicha.tsx, src/pages/MotosFicha.tsx, src/pages/PatinetesFicha.tsx, src/pages/CampersFicha.tsx, src/pages/CaravanasFicha.tsx, src/pages/AutocaravanasFicha.tsx, src/pages/guias/zbe-etiquetas.tsx, src/pages/guias/certificado-dgt.tsx, src/pages/guias/seguro-vmp.tsx, src/App.tsx, src/pages/guias/index.tsx.
+
+Medición antes/después (nivel plantilla, textos de bloque construidos con la misma normalización del informe de 8-gramas; la medición prerender de página completa queda para tu paso de publicación):
+- #4, bloque E-E-A-T completo (muestra 16 páginas, 4 ámbitos): 92,7 % → 53,1 % de 8-gramas compartidos. El resto compartido es cromo del sitio (autoría y listas de herramientas por ámbito, que son navegación, no contenido del bloque #4).
+- #4, solo el párrafo de verificación: 100,0 % → 11,5 %.
+- #17, respuesta de seguro (muestra 12 patinetes con peso/velocidad/certificado distintos): 42,3 % → 43,8 %. Lo digo en claro: el 42,3 % viejo era un artefacto de brevedad (una plantilla de 12 palabras casi no tiene 8-gramas que compartir); la respuesta nueva trae toda la información legal que la línea vieja no tenía (obligación, registro previo, certificado, cobertura) con datos propios por modelo, y lo que queda compartido son los nombres oficiales que no se pueden parafrasear sin perder precisión jurídica (Registro de Vehículos Personales Ligeros de la DGT, Ley 5/2025, RD 52/2026). Si quieres que baje más, habría que recortar contenido legal o repetir el nombre del modelo hasta lo ilegible, y eso sería relleno: no lo recomiendo.
+- Verificación hecha: cabeza y cadena por API, contenido de la rama releído tras cada push, equilibrio de llaves en los 13 ficheros. No he corrido build/typecheck (el repo no está clonado en local; la validación de build queda en tu paso de integración/publicación, como siempre en este carril). Nada publicado.
+
+Qué queda pendiente de la 0913 (no tocado en esta tanda): bloques #27/#28 (certificado), ZBE #2/#3/#16/#23/#24/#29 y la prosa de blog/hubs que siga por encima del 0 %. La ORDEN PERMANENTE sigue en cola tras la 0913, como acepté.
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga y sigo con la siguiente tanda de la 0913 (propongo #27/#28 + ZBE, en ese orden).
