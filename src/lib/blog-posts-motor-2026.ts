@@ -513,9 +513,9 @@ Con 231 CV bajo el pie derecho, conviene recordar que la emoción dura un aceler
 *Fuentes: <a href=https://www.hibridosyelectricos.com/coches/volkswagen-empieza-entregar-primeras-unidades-su-nuevo-coche-electrico-cuesta-17000-tiene-660-km-autonomia_89711_102.html>entregas en hibridosyelectricos.com (06/10/2026)</a>, <a href=https://testcoches.es/noticias/un-volkswagen-con-cerebro-de-xpeng-el-id-aura-t6-ya-se-entrega-en-ch/>ficha y precios en testcoches.es</a>, <a href=https://www.hibridosyelectricos.com/coches/es-100-electrico-tiene-660-km-alcance-volkswagen-lanza-en-china-su-propio-model-17500-podria-llegar-espana_89224_102.html>lanzamiento en hibridosyelectricos.com</a>, <a href=https://www.autonocion.com/motornocion/grupo-volkswagen-id-aura-t6-tiguan/>preventa en autonocion.com</a> y <a href=https://cdn.uc.assets.prezly.com/195909ac-e947-432f-b638-f757f98e5ea2/-/inline/no/bpcon-base-en-la-confianza-y-enfocado-en-la-innovacion-volkswagen-impulsa-su-estrategia-en-china-para-china-en-auto-china-2026.pdf>nota oficial de Volkswagen en Auto China 2026</a>. Las autonomías son ciclo CLTC (China); la llegada a Europa no está confirmada por la marca.*`,
   },
   {
-    title: "Lynk & Co 07 GT: familiar híbrido de 523 CV en París",
+    title: "Lynk & Co 07 GT: 523 CV para el estreno europeo en París",
     slug: "lynk-co-07-gt-debut-europa-paris-2026",
-    excerpt: "El Lynk & Co 07 GT debuta en el Salón de París 2026: familiar híbrido enchufable de hasta 523 CV, 10.000 reservas en 27 minutos y llegada en 2027.",
+    excerpt: "El 07 GT se presenta en París: primer familiar de Lynk & Co, híbrido enchufable de 523 CV y 200 km eléctricos, con llegada a Europa en 2027.",
     category: "Novedades Motor",
     date: "2026-10-03",
     readTime: 7,
@@ -527,17 +527,21 @@ Con 231 CV bajo el pie derecho, conviene recordar que la emoción dura un aceler
       "Salón París 2026 coches",
       "Lynk & Co Europa 2027"
     ],
-    content: `<img src=/media/lynk-co-07-gt-debut-europa-paris-2026-hero.webp alt=Lynk & Co 07 GT familiar híbrido enchufable en el Salón de París 2026>\n\n**¿Buscas solo los datos?** <a href=/coches/lynk-co-07-gt-debut-europa-paris-2026/>Ver ficha técnica del Lynk & Co 07 GT</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+    content: `<img src=/media/lynk-co-07-gt-debut-europa-paris-2026-hero.webp alt=Lynk & Co 07 GT familiar híbrido enchufable en el Salón de París 2026>
 
-## La noticia
+**¿Buscas solo los datos?** <a href=/coches/lynk-co-07-gt-debut-europa-paris-2026/>Ver ficha técnica del Lynk & Co 07 GT</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-Lynk & Co eligió París para su puesta de largo europea con el 07 GT: rueda de prensa el 12 de octubre en el **pabellón 5.1, stand A32**. La unidad expuesta será la versión con especificaciones chinas, un anticipo de la futura variante europea, que la marca adaptará a la normativa local y a las preferencias de los clientes del continente.
+## Estreno continental en el salón parisino
 
-El coche no es un prototipo: se presentó en China a **finales de junio de 2026** y está a la venta allí desde julio. Y está vendiendo: logró **10.000 reservas en 27 minutos**, superó los **35.000 pedidos en 24 días** de preventa y en agosto matriculó **6.056 unidades**, más del 30 % de las ventas mensuales de la marca. No está mal para un familiar en un mercado, el chino, donde ese formato históricamente no funciona.
+Para su desembarco en el continente, Lynk & Co escogió la capital francesa: la rueda de prensa quedó fijada para el 12 de octubre dentro del pabellón 5.1, en el stand A32.
 
-## Precios en China: la mitad de lo que costará aquí
+El ejemplar expuesto responde a la especificación china. Funciona como anticipo de la variante que se comercializará en Europa, que la compañía ajustará tanto a la normativa vigente aquí como a los gustos de la clientela del continente.
 
-Los precios oficiales en China (en yuanes):
+No hablamos de un prototipo. Su presentación en China tuvo lugar a finales de junio de 2026 y desde julio ya se puede comprar allí. Las cifras acompañan: en apenas 27 minutos acumuló 10.000 reservas, la preventa rebasó los 35.000 encargos en 24 días y agosto cerró con 6.056 matriculaciones, superando el 30 % del total mensual de la firma. Un registro notable para una carrocería familiar en China, un mercado donde este formato nunca ha terminado de despegar.
+
+## Precios chinos frente a lo que pagaremos en Europa
+
+Para situar las cifras del mercado chino, expresadas en yuanes:
 
 | Versión | Precio |
 |---|---|
@@ -546,18 +550,17 @@ Los precios oficiales en China (en yuanes):
 | 07 GT 4WD Performance Ultra | 177.800 yuanes |
 | 07 GT Time Limited Edition (1.007 uds, agotada) | 208.800 yuanes |
 
-Al cambio directo, la versión de acceso ronda los **20.500 euros**. Pero cuidado: es un precio sin aranceles europeos, sin impuestos y sin homologación para la UE. Como referencia, el Lynk & Co 08 —de precio similar en China— parte de **59.995 euros en Bélgica**. La prensa especializada estima para el 07 GT europeo un precio de partida de **unos 50.000-55.000 euros**, con la versión AWD de 523 CV acercándose a los 65.000. Es una estimación, no un precio oficial: la marca aún no ha dado cifras para Europa.
+Si se convierte la cantidad sin más, la variante básica se sitúa en torno a los 20.500 euros. Esa conversión, eso sí, deja fuera los aranceles de la Unión Europea, los impuestos y la homologación comunitaria. Como punto de comparación sirve el Lynk & Co 08, con un precio parecido en China, que arranca en 59.995 euros en Bélgica. Las publicaciones especializadas calculan que el 07 GT europeo arrancará en unos 50.000-55.000 euros, mientras la variante AWD de 523 CV se aproximaría a los 65.000. Se trata de una estimación periodística, no de una tarifa oficial: la compañía todavía no ha comunicado cifras para Europa.
 
 <img src=/media/lynk-co-07-gt-debut-europa-paris-2026-galeria-3.webp alt=Lynk & Co 07 GT en tres cuartos trasero mostrando su firma lumínica, imagen editorial>
 
+## ¿Tiene fecha su llegada a España?
 
-## ¿Llegará el Lynk & Co 07 GT a España?
+En junio, la firma confirmó que el 07 GT desembarcará en el mercado europeo durante 2027, con especificaciones ajustadas a cada país. Todavía no existe calendario ni tarifa para España, aunque el propósito ya es oficial y la presentación parisina supone el primer movimiento del plan.
 
-La marca anunció en junio que el 07 GT **entrará en el mercado europeo en 2027**, con especificaciones adaptadas a cada país. No hay fecha ni precio para España todavía, pero la intención es oficial y el debut parisino es el primer paso del plan.
+Desde el punto de vista estratégico, la jugada encaja: la inmensa mayoría de los fabricantes chinos centra su apuesta europea en los SUV, mientras la carrocería familiar conserva peso en el Benelux, Escandinavia y Alemania. Así, Lynk & Co ocupa un hueco que sus compatriotas habían dejado desatendido.
 
-Estratégicamente tiene sentido: casi todos los fabricantes chinos apuestan por SUV en Europa, mientras que el familiar sigue siendo un formato relevante en Alemania, Escandinavia y el Benelux. Lynk & Co ataca un hueco que los chinos habían dejado vacío.
-
-## Los rivales que le esperan en Europa
+## Rivales con los que se medirá en Europa
 
 | Modelo | Tipo | Potencia | Precio orientativo |
 |---|---|---|---|
@@ -567,43 +570,43 @@ Estratégicamente tiene sentido: casi todos los fabricantes chinos apuestan por 
 | Mercedes C 300 e Estate | Familiar PHEV | 313 CV | Desde ~62.000 € |
 | **Lynk & Co 07 GT (est.)** | **Familiar PHEV** | **408-523 CV** | **~50.000-55.000 € (est.)** |
 
-Ningún rival ofrece 523 CV a ese precio estimado. <a href=/comparador-coches/>Cuando llegue, lo enfrentarás aquí cara a cara con todos ellos</a>.
+Ninguna de esas alternativas combina 523 CV con ese precio estimado. <a href=/comparador-coches/>Cuando llegue, lo enfrentarás aquí cara a cara con todos ellos</a>.
 
-## Lynk & Co en Europa: la marca hasta hoy
+## La marca en Europa: tres modelos y una venta distinta
 
-Lynk & Co es la marca **sueco-china del grupo Geely**, nacida en Gotemburgo. En Europa vende actualmente tres modelos: el **01** (híbrido enchufable), el **02** (100 % eléctrico) y el **08** (híbrido enchufable de largo alcance). Su modelo de negocio mezcla la compra tradicional con la suscripción mensual, algo poco común en el sector.
+Detrás de Lynk & Co hay una firma sueco-china integrada en el grupo Geely y con origen en Gotemburgo. Su oferta europea actual reúne tres propuestas: el 01, híbrido enchufable; el 02, totalmente eléctrico; y el 08, híbrido enchufable de gran autonomía. Su fórmula comercial combina la adquisición clásica con la suscripción mensual, una opción poco habitual dentro del sector.
 
-El 07 GT es su primer familiar y también una declaración de intenciones deportivas: la marca quiere llevarlo a competir en **rallys a partir del tercer trimestre de 2026**, recuperando el ADN de competición que la vio nacer. Sin credenciales deportivas, el 07 GT sería "una berlina con el maletero más grande"; con ellas, aspira a ser el coche que defina la dirección de la marca.
+El 07 GT supone su primer familiar y, a la vez, una apuesta deportiva explícita: la firma pretende inscribirlo en rallys cuando arranque el tercer trimestre de 2026, retomando su ADN de competición original. Sin ese aval deportivo, el modelo quedaría reducido a una berlina alargada; con él, pretende convertirse en el coche que marque el rumbo de la firma.
 
-## Curiosidades que quizá no sabías
+## Cinco detalles que conviene conocer
 
-- **La edición limitada voló**: las 1.007 unidades de la Time Limited Edition se agotaron durante el periodo de reserva, y la marca presume de haber vendido 10.000 unidades en las primeras 24 horas en China, récord del país para un familiar.
-- **Proporciones de deportivo**: con un ratio ancho/alto de 1,28, es uno de los familiares más bajos y anchos del mercado; el diseño "The Next Day" lo firma un equipo chino-europeo.
-- **El motor térmico más eficiente de su clase**: el 1.5T Evo declara un 47,26 % de eficiencia térmica, entre los mejores del sector para un motor de gasolina.
-- **Llega en el peor momento... y funciona**: la marca venía de varios meses con caídas de ventas en torno al 40 % en China; el 07 GT se ha convertido en su principal motor comercial, con 139.000 unidades acumuladas entre enero y agosto de 2026.
-- **Remolca como un SUV**: 1.600 kg de capacidad de remolque y 100 kg de carga en el techo, cifras más propias de un todocamino que de un familiar deportivo.
+- **Una tirada limitada agotada en la preventa**: de la Time Limited Edition solo se fabricaron 1.007 ejemplares y todos encontraron comprador antes de cerrar la reserva. La firma, además, alardea de haber colocado 10.000 coches en sus primeras 24 horas en China, una marca inédita allí para una carrocería familiar.
+- **Silueta de deportivo**: su relación anchura/altura de 1,28 lo sitúa entre los familiares más bajos y anchos a la venta; el lenguaje de diseño The Next Day nace del trabajo conjunto de un equipo chino-europeo.
+- **Un térmico de eficiencia sobresaliente**: el 1.5T Evo homologa un 47,26 % de eficiencia térmica, un registro que lo coloca entre los mejores motores de gasolina del sector.
+- **Remontada en plena caída**: la firma encadenaba varios meses con la demanda cayendo cerca de un 40 % en su mercado local; el 07 GT se ha transformado en su principal impulso comercial, con 139.000 unidades sumadas de enero a agosto de 2026.
+- **Capacidad de remolque de todocamino**: homologa 1.600 kg de remolque y 100 kg de carga sobre el techo, unas cifras que encajan mejor con un todocamino que con un familiar deportivo.
 
-## Preguntas frecuentes
+## Dudas habituales sobre el 07 GT
 
-### ¿Qué es el Lynk & Co 07 GT?
-El primer familiar (shooting brake) de Lynk & Co: un turismo deportivo híbrido enchufable de 4,85 metros, con versiones de 408 CV (tracción delantera) y 523 CV (tracción total), batería de 28,3 kWh y hasta 1.422 km de autonomía total.
+### ¿Cómo se define este nuevo familiar de Lynk & Co?
+Es el primer shooting brake de la firma: un deportivo familiar híbrido enchufable que mide 4,85 metros, con hasta 1.422 km de autonomía conjunta y una batería de 28,3 kWh; la tracción total rinde 523 CV y la delantera, 408 CV.
 
-### ¿Cuándo se presenta el Lynk & Co 07 GT en Europa?
-El **12 de octubre de 2026** en el Salón del Automóvil de París (Mondial de l'Auto), en la primera participación de la marca en la feria. La unidad expuesta llevará especificaciones chinas.
+### ¿En qué fecha pisa Europa por primera vez?
+Su debut continental está fijado para el 12 de octubre de 2026, dentro del Mondial de l'Auto parisino, donde la firma participa por vez primera. El ejemplar mostrado corresponde a la especificación china.
 
-### ¿Cuándo llegará el Lynk & Co 07 GT a España?
-La marca prevé su lanzamiento europeo en **2027**, con versiones adaptadas a la normativa de cada mercado. Aún no hay fecha ni precio para España.
+### ¿Hay ya calendario para su venta en España?
+El lanzamiento europeo está previsto para 2027, con variantes ajustadas a la regulación de cada mercado. Sin calendario ni tarifa confirmados para España por ahora.
 
-### ¿Cuánto costará el Lynk & Co 07 GT en Europa?
-No hay precio oficial. En China parte de 157.800 yuanes (unos 20.500 € al cambio directo, sin impuestos ni aranceles). La prensa especializada estima unos 50.000-55.000 euros de partida en Europa. Es una estimación, no una cifra de la marca.
+### ¿Qué precio se baraja para el mercado europeo?
+De momento no existe tarifa oficial. El punto de partida en China son 157.800 yuanes, equivalentes a unos 20.500 € en conversión directa antes de impuestos y aranceles. Las estimaciones periodísticas sitúan el arranque europeo en unos 50.000-55.000 euros, sin que la compañía haya confirmado ninguna cantidad.
 
-### ¿Qué autonomía eléctrica tiene el 07 GT?
-Unos 200 km en ciclo chino CLTC con su batería de 28,3 kWh. La autonomía combinada (gasolina + electricidad) llega a 1.422 km.
+### ¿Cuántos kilómetros recorre solo con electricidad?
+Ronda los 200 km bajo el ciclo chino CLTC, gracias a su batería de 28,3 kWh; sumando gasolina y electricidad, el alcance total asciende a 1.422 km.
 
-### ¿Qué etiqueta DGT tendría el Lynk & Co 07 GT?
-Al ser híbrido enchufable con más de 40 km de autonomía eléctrica, le correspondería la etiqueta **CERO**, con acceso a todas las ZBE. <a href=/calculadora-etiqueta-dgt/>Calcúlala aquí para cualquier coche</a>.
+### ¿Qué distintivo ambiental le correspondería en España?
+Como híbrido enchufable que supera los 40 km de recorrido eléctrico, optaría al distintivo CERO, que abre la puerta a todas las ZBE. <a href=/calculadora-etiqueta-dgt/>Calcúlala aquí para cualquier coche</a>.
 
-Con 523 CV bajo el pie derecho, conviene recordar que la emoción dura un acelerón y la <a href=https://recurretumulta.online/guias/radares>multa por exceso de velocidad</a> dura meses. Si te llega una, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar: en 20 días se juega el descuento y el derecho a recurrir.
+Con 523 CV disponibles bajo el pie derecho, merece la pena tener presente que la emoción se agota en un acelerón, mientras la <a href=https://recurretumulta.online/guias/radares>multa por exceso de velocidad</a> se prolonga durante meses. Si recibes una, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de abonar nada: en 20 días se deciden tanto el descuento como la posibilidad de recurrir.
 
 *Fuentes: <a href=https://d21buns5ku92am.cloudfront.net/69406/pdf/campaigns/141-lynk-co-presenta-el-07-gt-un-nuevo-modelo-sports-touring-cuyo-lanzamiento-en-europa-esta-previsto-par.pdf>nota oficial de Lynk & Co (30/06/2026)</a>, <a href=https://www.autonocion.com/motornocion/lynk-co-07-gt-salon-de-paris-el-12-de-octubre/>debut en París en autonocion.com</a>, <a href=https://movilidadelectrica.com/lynk-co-acudira-primera-vez-salon-automovil-paris-nuevo-07-gt-primicia/>primicia europea en movilidadelectrica.com</a>, <a href=https://cnevpost.com/2026/07/23/lynk-co-07-gt-launch/>lanzamiento y ventas en China en cnevpost.com</a>, <a href=https://newmobility.news/en/2026/07/27/lynk-co-targets-europes-premium-estates-with-523-hp-07-gt/>análisis europeo y rivales en newmobility.news</a> y <a href=https://formula1rd.com/lynk-co-vende-10-000-unidades-de-su-hibrido-familiar-de-20-500-e-con-1-442-km-de-autonomia-que-llegara-a-europa-en-2027/>ventas y llegada a Europa en 2027</a>. Las autonomías son ciclo CLTC (China); el precio europeo es una estimación de la prensa especializada, no oficial.*`
   }

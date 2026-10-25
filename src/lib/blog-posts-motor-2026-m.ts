@@ -70,9 +70,9 @@ En preventa china, de **249.900 a 299.900 yuanes**. No hay precio para España p
 `,
 },
 {
-  title: "Renault: 10.000 M€ y plan París",
+  title: "Renault destinará 10.000 M€ a eléctricos asequibles",
   slug: "renault-10000-millones-electricos-paris-2026-plan",
-  excerpt: "Renault invertirá más de 10.000 M€ en 5 años en eléctricos asequibles en Francia. El plan se presenta en el Salón de París (12-18 oct): E-Space Concept, Megane LFP de 500 km y Trafic 800V.",
+  excerpt: "Más de 10.000 millones en Francia en cinco años para abaratar los eléctricos de Renault. En París 2026: E-Space Concept, Mégane LFP y Trafic 800V.",
   category: "Novedades Motor",
   date: "2026-10-09",
   readTime: 8,
@@ -85,20 +85,20 @@ En preventa china, de **249.900 a 299.900 yuanes**. No hay precio para España p
   ],
   content: `<img src=/media/renault-10000-millones-electricos-paris-2026-plan-hero.webp alt=Prototipo eléctrico de color rubí oscuro en una plataforma giratoria en un salón del automóvil, imagen editorial>
 
-**Renault** va a por todas: el CEO **François Provost** anunció el 3 de octubre en France Inter una inversión de **más de 10.000 millones de euros en Francia durante los próximos cinco años**, centrada en vehículos eléctricos y coches más asequibles. Es la continuación del plan que ya transformó su industria nacional: en los cinco años anteriores invirtió **13.000 M€** en Francia. El escaparate de la estrategia será el **Salón de París (12-18 de octubre)**, donde la marca presenta una gama prácticamente renovada.
+**Renault** pisa el acelerador: su consejero delegado, **François Provost**, comunicó el 3 de octubre en France Inter que la compañía destinará **más de 10.000 millones de euros a Francia en los próximos cinco años**, con el foco puesto en los vehículos eléctricos y en los coches más asequibles. La cifra prolonga la transformación industrial ya acometida en el país, tras **13.000 M€** invertidos en Francia durante el lustro anterior. El gran escaparate de esa estrategia será la cita parisina (12-18 de octubre), con una gama prácticamente renovada en exposición.
 
-## Datos clave
+## Las cifras del anuncio, de un vistazo
 
-- **La inversión:** más de **10.000 M€** en 5 años (Francia), para eléctricos y coches asequibles; condicionada al contexto social y político
-- **Lo ya invertido:** **13.000 M€** en los últimos 5 años en transformar las fábricas francesas hacia lo eléctrico
-- **Producción:** ~500.000 vehículos en Francia en 2025, al menos **+25 % en 2026** gracias al tirón eléctrico
-- **El mercado:** los eléctricos alcanzaron un **récord del 42 %** de las matriculaciones en Francia en septiembre de 2026
-- **Salón de París:** 12-18 de octubre; conferencia de prensa el **12 de octubre a las 8:30** (pabellón 6)
-- **Fuente:** <a href=https://www.reuters.com/business/renault-invest-over-10-bln-euros-france-evs-affordable-cars-ceo-says-2026-10-03/>Reuters</a> (entrevista a François Provost en France Inter, 03/10/2026) y <a href=https://www.noticiasdelmotor.com/noticias/i/98282064/renault-presenta-e-space-concept-y-desvela-todas-sus-novedades-electricas-e-hibridas-para-el-salon-de-paris-2026>nota de prensa oficial de Renault (reproducida en Noticias del Motor)</a>
+- **Dinero comprometido:** por encima de **10.000 M€** durante 5 años en Francia, orientados a eléctricos y modelos asequibles, siempre que el contexto social y político lo permita
+- **Trayectoria previa:** **13.000 M€** volcados en el último lustro en reconvertir las plantas francesas hacia la producción eléctrica
+- **Fabricación:** cerca de 500.000 vehículos producidos en Francia en 2025, con un aumento de al menos el **25 % en 2026** impulsado por la demanda eléctrica
+- **Cuota eléctrica:** en septiembre de 2026 los eléctricos marcaron un **récord del 42 %** de las matriculaciones francesas
+- **Cita parisina:** del 12 al 18 de octubre; la rueda de prensa será a las 8:30 del 12 de octubre, en el pabellón 6
+- **Origen de los datos:** <a href=https://www.reuters.com/business/renault-invest-over-10-bln-euros-france-evs-affordable-cars-ceo-says-2026-10-03/>Reuters</a> (conversación del 03/10/2026 con François Provost en France Inter) y <a href=https://www.noticiasdelmotor.com/noticias/i/98282064/renault-presenta-e-space-concept-y-desvela-todas-sus-novedades-electricas-e-hibridas-para-el-salon-de-paris-2026>nota de prensa oficial de Renault (reproducida en Noticias del Motor)</a>
 
-## París como escaparate: qué presenta Renault
+## Lo que Renault enseña en París
 
-El plato fuerte es el **E-Space Concept**, estreno mundial: reinterpretación 100 % eléctrica del mítico Espace de 1984 (4,70 m, negro rubé, firma luminosa en "U" y rombo flotante pixelado). No estará solo: tres concept cars más y una gama de serie renovada.
+La gran atracción será el **E-Space Concept**, que se estrena en todo el mundo como relectura totalmente eléctrica del legendario Espace de 1984: mide 4,70 m, luce un negro rubé, una firma luminosa en forma de U y un rombo flotante pixelado. Junto a él habrá otros tres prototipos y una gama de serie renovada.
 
 | Novedad | Dato clave |
 |---|---|
@@ -112,28 +112,29 @@ El plato fuerte es el **E-Space Concept**, estreno mundial: reinterpretación 10
 
 <img src=/media/renault-10000-millones-electricos-paris-2026-plan-galeria-1.webp alt=Coche eléctrico compacto cargando en una estación de carga rápida ante una fábrica francesa al atardecer, imagen editorial>
 
-## La apuesta de verdad: LFP para todos
+## Por qué el LFP lo cambia todo
 
-El movimiento estratégico que más importa no es un prototipo, sino la **masificación de las baterías LFP** (litio-ferrofosfato) en toda la gama eléctrica Renault, con arquitectura cell-to-pack: **27,5 kWh** (Twingo), **37 kWh** (Renault 5), **67 kWh** (Megane y Scenic; el R4 llegará después). La química LFP elimina el cobalto y el níquel, baja el coste y es la misma que BYD usa para liderar en precio. Renault la combina con su sistema **Fireman Access** antiincendios. Además, la IA **Gemini de Google** llegará a los coches por actualización OTA, también a los que ya circulan.
+La jugada estratégica decisiva no pasa por un prototipo, sino por extender las baterías **LFP** (litio-ferrofosfato) a toda la gama eléctrica de Renault mediante la arquitectura cell-to-pack: **27,5 kWh** en el Twingo, **37 kWh** en el Renault 5 y **67 kWh** en el Megane y el Scenic, con el R4 en una fase posterior.
 
-El mensaje de Provost es claro: la guerra ya no es por "quién tiene eléctricos", sino por **quién los hace asequibles**. Y quiere ganar esa guerra fabricando en Francia: <a href=/coches/renault-megane-e-tech-2026-precio-autonomia/>el Megane E-Tech</a> renovado, el <a href=/coches/renault-twingo-e-tech-2026-precio-ficha-tecnica/>Twingo E-Tech</a> y el <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>Renault 5 E-Tech</a> son la punta de lanza. <a href=/comparador-coches/>Compáralos en nuestro comparador</a>.
+Esta química prescinde del cobalto y del níquel, abarata el conjunto y coincide con la que BYD emplea para mandar en precio. Renault la acompaña de su sistema **Fireman Access** contra incendios. Por otro lado, la IA **Gemini de Google** se incorporará a los vehículos mediante actualización OTA, incluidos los que ya están en circulación.
 
-## No confundir: 600 M€ en España ≠ 10.000 M€ en Francia
+El mensaje de Provost no admite dudas: la pugna ya no gira en torno a disponer de eléctricos, sino a conseguir que resulten asequibles. Y pretende imponerse en esa pugna produciendo en Francia, con <a href=/coches/renault-megane-e-tech-2026-precio-autonomia/>el Megane E-Tech</a> renovado, el <a href=/coches/renault-twingo-e-tech-2026-precio-ficha-tecnica/>Twingo E-Tech</a> y el <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>Renault 5 E-Tech</a> como punta de lanza. <a href=/comparador-coches/>Compáralos en nuestro comparador</a>.
 
-Ojo con las cifras: los **600 M€ anunciados para España** son un capítulo aparte (ya lo <a href=/blog/renault-600-millones-electricos-espana/>analizamos aquí</a>). Los 10.000 M€ son el plan francés a 5 años. El <a href=/blog/renault-e-space-concept-paris-2026/>E-Space Concept</a>, por su parte, tiene su propio análisis de diseño. Este artículo es el **plan industrial y estratégico**: dónde va el dinero y por qué.
+## Ojo: el plan español va por otro lado
 
-## Preguntas frecuentes
+Conviene no mezclar cantidades: los **600 M€ anunciados para España** constituyen un capítulo independiente (ya lo <a href=/blog/renault-600-millones-electricos-espana/>analizamos aquí</a>). Los 10.000 M€ forman parte del plan francés quinquenal. El <a href=/blog/renault-e-space-concept-paris-2026/>E-Space Concept</a>, por su lado, cuenta con su propio análisis de diseño. Este texto aborda el **plan industrial y estratégico**: hacia dónde se dirige el dinero y con qué motivo.
 
-### ¿Cuánto va a invertir Renault en eléctricos?
-Más de **10.000 millones de euros en Francia en los próximos 5 años**, anunció François Provost el 3 de octubre de 2026. Se suman a los 13.000 M€ ya invertidos desde 2021.
+## Dudas habituales sobre el plan de Renault
 
-### ¿Qué presenta Renault en el Salón de París 2026?
-El estreno mundial del **E-Space Concept**, el nuevo Megane E-Tech (LFP 67 kWh, 500 km), el Trafic E-Tech 800V, el R5 Turbo 3E, el Rafale Hypnotic y los concepts R8 Gordini y R4 JP4x4.
+### ¿Qué cantidad destinará Renault a sus eléctricos?
+François Provost anunció el 3 de octubre de 2026 más de **10.000 millones de euros para Francia durante los próximos 5 años**, que se añaden a los 13.000 M€ invertidos desde 2021.
 
-### ¿Qué significa el LFP para los precios?
-Las baterías de litio-ferrofosfato son más baratas y duraderas que las NMC actuales. Masificarlas en Twingo, R5, Megane, Scenic y R4 es la vía de Renault para **bajar el precio de sus eléctricos** sin perder autonomía.
+### ¿Qué novedades llevará Renault al Salón de París 2026?
+El R5 Turbo 3E, el Rafale Hypnotic, los prototipos R8 Gordini y R4 JP4x4, el Trafic E-Tech 800V y el Megane E-Tech renovado, con 500 km y batería LFP de 67 kWh, además del estreno mundial del **E-Space Concept**.
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
-`,
+### ¿Cómo influirá el LFP en lo que cuestan los eléctricos?
+Las baterías de litio-ferrofosfato resultan más económicas y longevas que las NMC de hoy. Extenderlas al Twingo, el R5, el Megane, el Scenic y el R4 es el camino de Renault para **abaratar sus eléctricos** sin recortar autonomía.
+
+**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
 },
 ];

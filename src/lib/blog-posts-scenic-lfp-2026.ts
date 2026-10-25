@@ -8,9 +8,9 @@ import type { BlogPost } from "./blog-data.ts";
 
 export const SCENIC_LFP_2026_POSTS: BlogPost[] = [
   {
-    "title": "Nuevo Scénic E-Tech LFP: 467 km por 39.900 €",
+    "title": "Scénic E-Tech LFP 2026: 467 km desde 39.900 €",
     "slug": "renault-scenic-e-tech-lfp-67-kwh-2026-precio-autonomia",
-    "excerpt": "Renault renueva el Scénic E-Tech: LFP de 67 kWh con 467 km WLTP desde 39.900 €, y gran autonomía de 642 km con 89 kWh. Precios y fecha de llegada.",
+    "excerpt": "La variante LFP de 67 kWh llega en otoño de 2026 con 467 km WLTP, carga de 165 kW y 220 CV; la de 89 kWh alcanza 642 km desde 45.085 €.",
     "category": "Motor",
     "date": "2026-10-05",
     "readTime": 6,
@@ -25,13 +25,13 @@ export const SCENIC_LFP_2026_POSTS: BlogPost[] = [
     ],
     "content": `<img src=/media/renault-scenic-e-tech-lfp-67-kwh-2026-hero.webp alt=Renault Scenic E-Tech 2026 en azul antracita satinado en una carretera de montaña española>
 
-**¿Buscas solo los datos?** <a href=/coches/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica/>Ver ficha técnica del Scenic E-Tech</a>: precio, autonomía y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+**¿Solo quieres las cifras?** <a href=/coches/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica/>Ver ficha técnica del Scenic E-Tech</a>: precio, autonomía y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-Renault acaba de renovar su familiar eléctrico y la noticia gorda no es la autonomía récord: es el precio de entrada. El **Scénic E-Tech** estrena una **batería LFP de 67 kWh** que homologa **467 km WLTP** y costará **desde 39.900 €** en España (<a href=https://www.somoselectricos.com/coches-electricos/nuevo-renault-scenic-electrico-642-km-autonomia-precio-39900-euros/20261004190056063898.html>somoselectricos.com</a>). Por encima, la versión gran autonomía pasa a **89 kWh y 642 km WLTP** desde 45.085 €.
+Renault acaba de actualizar su familiar eléctrico y el titular que más importa no es la autonomía máxima, sino el acceso a la gama. El **Scénic E-Tech** incorporará una **batería LFP de 67 kWh**, con **467 km WLTP** homologados, y arrancará **desde 39.900 €** en España (<a href=https://www.somoselectricos.com/coches-electricos/nuevo-renault-scenic-electrico-642-km-autonomia-precio-39900-euros/20261004190056063898.html>somoselectricos.com</a>). Un escalón por encima, la variante de gran autonomía ofrece **642 km WLTP** con **89 kWh** desde 45.085 €.
 
-Ojo al calendario: según la <a href=https://media.renault.com/scenic-e-tech-electric-upgraded-for-improved-comfort-connectivity-and-electric-performance/>nota oficial de Renault</a>, la batería LFP **aún no está a la venta** y llegará en **otoño de 2026**. La que ya se puede pedir es la de 89 kWh.
+Conviene tener claro el calendario: la variante LFP **todavía no admite pedidos** y su llegada está prevista para el **otoño de 2026**, según la <a href=https://media.renault.com/scenic-e-tech-electric-upgraded-for-improved-comfort-connectivity-and-electric-performance/>nota oficial de Renault</a>. La de 89 kWh, en cambio, ya se puede encargar.
 
-## La nueva gama, en una tabla
+## Qué trae cada versión de la gama renovada
 
 | Versión | Batería | Autonomía WLTP | Carga rápida DC | Precio España |
 |---|---|---|---|---|
@@ -40,45 +40,41 @@ Ojo al calendario: según la <a href=https://media.renault.com/scenic-e-tech-ele
 | Scénic 60 kWh (saliente) | 60 kWh NMC | 430 km | 130 kW | Desde 35.644 € |
 | Scénic 87 kWh (saliente) | 87 kWh NMC | 625 km | 150 kW | Desde 46.950 € |
 
-Motor único en la gama nueva: **220 CV** en ambas versiones. Renault solo anuncia ese propulsor para el Scénic renovado, así que la variante de acceso de 170 CV desaparece del catálogo.
+La gama renovada apuesta por un único propulsor: **220 CV** en las dos variantes. Renault solamente comunica ese motor para el Scénic actualizado, de modo que la opción de acceso de 170 CV sale del catálogo.
 
-## La batería LFP: más barata, más duradera y carga más rápido
+## Por qué la química LFP cambia la ecuación
 
-La química **LFP (litio-ferrofosfato)** es la jugada estratégica: Renault ya la estrenó en el Mégane E-Tech y ahora baja al Scénic. Sus bazas, según la nota oficial:
-
-- **Durabilidad**: las celdas LFP aguantan mejor los ciclos de carga completos y las cargas rápidas repetidas que las NMC.
-- **Carga**: pico de **165 kW**, del 15 al 80% en **24 minutos**. Lo curioso: la versión barata carga más rápido que la grande (150 kW, 28 min).
-- **Cell-to-Pack**: 232 celdas tipo pouch con un 53% de eficiencia de empaquetado; celdas de LG Energy Solution fabricadas en Europa.
-- **Autonomía**: 467 km WLTP, 37 km más que el anterior 60 kWh (430 km).
+- **Carga**: un pico de **165 kW** y una recarga del 15 al 80 por ciento en solo **24 minutos**. Lo llamativo es que la versión económica recarga antes que la grande (150 kW, 28 min).
+- **Longevidad**: las celdas LFP toleran mejor que las NMC los ciclos completos y las recargas rápidas repetidas.
+- **Arquitectura Cell-to-Pack**: 232 celdas pouch y una eficiencia de empaquetado del 53 %, con celdas fabricadas en Europa por LG Energy Solution.
+- **Alcance**: 467 km WLTP, es decir, 37 km por encima del antiguo 60 kWh, que homologaba 430 km.
 
 <img src=/media/renault-scenic-e-tech-lfp-67-kwh-2026-carga.webp alt=Renault Scenic E-Tech cargando en un cargador rápido al atardecer>
 
-## Precios: la tarifa y lo que pagarás de verdad
+## Tarifa oficial y precio real con incentivos
 
 | Versión | Tarifa España | Con ayudas y promos* |
 |---|---|---|
 | 67 kWh LFP Techno | 39.900 € | ~30.660 € |
 | 89 kWh Techno | 45.085 € | ~35.330 € |
 
-*Precios promocionales anunciados por Renault: exigen combinar descuentos comerciales, financiación, Certificados de Ahorro Energético y Plan Auto+. Sin cumplir esas condiciones, el precio es el de tarifa (<a href=https://www.somoselectricos.com/coches-electricos/nuevo-renault-scenic-electrico-642-km-autonomia-precio-39900-euros/20261004190056063898.html>somoselectricos.com</a>).
+*Las cifras rebajadas que publica Renault solamente se alcanzan sumando descuentos de la marca, financiación, Plan Auto+ y Certificados de Ahorro Energético. Si no se reúne todo eso, se paga la tarifa (<a href=https://www.somoselectricos.com/coches-electricos/nuevo-renault-scenic-electrico-642-km-autonomia-precio-39900-euros/20261004190056063898.html>somoselectricos.com</a>).
 
-## Más novedades: Gemini, Qi2 y modo Smart
+## Equipamiento nuevo más allá de las baterías
 
-La renovación no es solo baterías:
+- **Google Gemini** como opción frente al Asistente de Google dentro del sistema openR link.
+- **Tres años de 2 GB mensuales** para utilizar las aplicaciones de Google Play.
+- **Carga inalámbrica Qi2** con imán al estilo MagSafe y refrigeración por aire.
+- **Función Smart del Multi-Sense**, que alterna por sí sola entre los modos Eco, Comfort y Sport en función de tu conducción.
+- **Supervisión del conductor incluida de serie**, con reconocimiento que identifica a quien conduce y restablece sus ajustes guardados.
+- **Dos tonos inéditos, Gris Exo Galaxy y Azul Antracita Satinado**, junto a llantas rediseñadas de 19 y 20 pulgadas y un habitáculo con mayor proporción de materiales reciclados.
+- **Accesorios pensados para la familia**, como la cafetera Handpresso para aprovechar la parada de carga y el cofre Aero Cargo Box con 310 litros.
 
-- **Google Gemini** como alternativa al Asistente de Google en el openR link.
-- **2 GB de datos al mes durante 3 años** para las apps de Google Play.
-- **Cargador inalámbrico Qi2** con imán tipo MagSafe y ventilación.
-- **Modo Smart** en el Multi-Sense: cambia solo entre Eco, Comfort y Sport según cómo conduzcas.
-- **Vigilancia del conductor de serie**, con reconocimiento: el coche te identifica y recupera tus ajustes.
-- Dos colores nuevos (**Azul Antracita Satinado**, **Gris Exo Galaxy**), llantas de 19 y 20 pulgadas rediseñadas e interior con más materiales reciclados.
-- Accesorios familiares: desde una cafetera Handpresso para la parada de carga hasta un cofre Aero Cargo Box de 310 litros.
+## ¿Conviene aguardar a la versión LFP?
 
-## ¿Merece la pena esperar al LFP?
+Para recorridos habituales por debajo de 300 km seguidos, la opción lógica es esta: 467 km WLTP desde 39.900 €, o alrededor de 30.660 € con incentivos, y además la batería más longeva y la recarga más veloz de la gama. Para viajes largos frecuentes, la variante de 89 kWh y 642 km continúa como la viajera de la familia. Toda la información del modelo la tienes en <a href=/coches/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica/>la ficha técnica del Scenic E-Tech</a>; y para comparar con las versiones anteriores, aquí van <a href=/coches/renault-scenic-e-tech-60-kwh-2026-precio-ficha-tecnica/>el análisis del 60 kWh</a> y <a href=/coches/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica/>el del 87 kWh</a>.
 
-Si haces menos de 300 km del tirón, sí: 467 km WLTP por 39.900 € (o ~30.660 € con ayudas) es la compra racional, con la batería más duradera y la carga más rápida de la gama. Si viajas mucho, el 89 kWh con 642 km sigue siendo el rutero. Los detalles completos del modelo están en <a href=/coches/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica/>la ficha técnica del Scenic E-Tech</a>; y si dudas entre las versiones anteriores, aquí tienes <a href=/coches/renault-scenic-e-tech-60-kwh-2026-precio-ficha-tecnica/>el análisis del 60 kWh</a> y <a href=/coches/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica/>el del 87 kWh</a>.
-
-## Pros y contras
+## Ventajas y pegas de la renovación
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -88,27 +84,27 @@ Si haces menos de 300 km del tirón, sí: 467 km WLTP por 39.900 € (o ~30.660 
 | 220 CV de serie en toda la gama | Sin cambios en maletero (545 L) ni plazas (5) |
 | Etiqueta Cero (<a href=https://www.dgt.es>DGT</a>) | |
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuándo se puede comprar el Scénic E-Tech con batería LFP?
-Según la nota oficial de Renault, la versión LFP de 67 kWh **llegará en otoño de 2026**; todavía no admite pedidos. La de 89 kWh ya se puede pedir (<a href=https://testcoches.es/noticias/el-renault-scenic-estrena-bateria-lfp-hasta-642-km-de-autonomia-y-una-carga-rapida-un-25-mejor/>testcoches.es</a>).
+### ¿A partir de cuándo se podrá encargar el Scénic E-Tech LFP?
+La variante LFP de 67 kWh está prevista para el otoño de 2026 y de momento no se puede encargar. La de 89 kWh, en cambio, ya admite encargos (<a href=https://testcoches.es/noticias/el-renault-scenic-estrena-bateria-lfp-hasta-642-km-de-autonomia-y-una-carga-rapida-un-25-mejor/>testcoches.es</a>).
 
-### ¿Qué autonomía tiene la batería LFP de 67 kWh?
-**467 km** en ciclo WLTP, 37 km más que el anterior 60 kWh (430 km).
+### ¿Cuántos kilómetros homologa la batería LFP de 67 kWh?
+Homologa **467 km** según el ciclo WLTP, 37 km por encima del antiguo 60 kWh, que homologaba 430 km.
 
-### ¿Cuánto cuesta el Scénic E-Tech LFP?
-Parte de **39.900 €** en España (acabado Techno), con un precio promocional de **~30.660 €** acumulando descuentos, financiación, CAE y Plan Auto+.
+### ¿Desde qué precio arranca el Scénic E-Tech LFP?
+Arranca en **39.900 €** para España en acabado Techno, y el precio con promociones ronda los **30.660 €** sumando descuentos, financiación, CAE y Plan Auto+.
 
-### ¿Carga más rápido la versión barata que la cara?
-Sí, y es lo curioso del caso: la LFP admite **165 kW** (15-80% en 24 min) frente a los 150 kW (28 min) de la 89 kWh.
+### ¿La versión económica recarga antes que la de gran autonomía?
+Sí, y ahí está lo sorprendente: la LFP admite **165 kW** y completa el 15-80 % en 24 minutos, mientras la 89 kWh se queda en 150 kW y 28 minutos.
 
-### ¿Qué diferencia hay entre batería LFP y NMC?
-La **LFP** (litio-ferrofosfato) es más barata y más duradera ante ciclos completos y cargas rápidas repetidas; la **NMC** ofrece más densidad energética (más km por kilo). Renault usa LFP para el acceso y NMC para la gran autonomía.
+### ¿En qué se distingue una batería LFP de una NMC?
+La **LFP** (litio-ferrofosfato) resulta más económica y más longeva ante ciclos completos y recargas rápidas repetidas; la **NMC** brinda mayor densidad energética (más kilómetros por kilo). Renault reserva la LFP para el acceso y la NMC para la gran autonomía.
 
-### ¿El Scénic E-Tech tiene etiqueta Cero?
-Sí, como eléctrico puro lleva la **etiqueta Cero** de la <a href=https://www.dgt.es>DGT</a>.
+### ¿Qué distintivo ambiental lleva el Scénic E-Tech?
+Como eléctrico puro, lleva el **distintivo Cero** de la <a href=https://www.dgt.es>DGT</a>.
 
-Si te llega una multa con tu coche actual, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+Si tu coche actual te ha dejado una sanción, <a href=https://recurretumulta.online/#analizador>revísala gratis con nuestra IA</a> antes de abonarla.
 
 *Fuentes: <a href=https://media.renault.com/scenic-e-tech-electric-upgraded-for-improved-comfort-connectivity-and-electric-performance/>nota oficial de Renault (media.renault.com)</a>, <a href=https://www.somoselectricos.com/coches-electricos/nuevo-renault-scenic-electrico-642-km-autonomia-precio-39900-euros/20261004190056063898.html>precios en España en somoselectricos.com</a>, <a href=https://testcoches.es/noticias/el-renault-scenic-estrena-bateria-lfp-hasta-642-km-de-autonomia-y-una-carga-rapida-un-25-mejor/>disponibilidad en testcoches.es</a>, <a href=https://www.km77.com/coches/renault/scenic/2024/estandar/informacion?amp=1>datos técnicos en km77.com</a> y <a href=https://www.dgt.es>etiqueta Cero en dgt.es</a>.*`
   }
