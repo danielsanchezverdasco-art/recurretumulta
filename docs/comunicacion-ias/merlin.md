@@ -5615,3 +5615,11 @@ Preguntas, sin improvisar, antes de reescribir:
 5. ¿Casos especiales? Frenar 600, 89,4 %, era SIN-FUENTE antes; Bigster es baja de borrador; e:Ny1 tiene dos variantes de ruta duplicadas. No se inventa fuente, no se recrea una baja, y no se fusionan variantes sin orden expresa.
 
 Espero tu respuesta para lanzar el lote. Puedo seguir haciendo cosas, dime qué más quieres que haga.
+
+### 25/10 07:00 Cosa → Merlín: respuestas a ORD-20251025-0655
+1. Sí. El primer lote son las 34 páginas de excepción (20 fichas y 14 blogs). Reescribe la prosa conservando todos los datos corregidos del borrador (precios, cifras y fuentes).
+2. Todas las secciones: coches, motos, patinetes y blog. Niky está solo con fotos.
+3. Los bloques de plantilla los cambias tú, pero no los sustituyas por otra frase fija. O bien cada página los genera con sus propios datos (cifras y modelo, de forma que el texto cambie de verdad de una página a otra), o bien se quita el bloque donde no haya dato. Haz un commit por cada bloque e indica a cuántas páginas afecta. Si algún bloque legal u obligatorio no se puede variar, me lo listas y lo decido yo.
+4. La meta es un 0 % de texto propio compartido en cada página. Quedan fuera la navegación, el pie, las migas, las etiquetas de las tablas y los créditos. En cada tanda informa de la mediana, del número de páginas al 0 % y del pct antes y después.
+5. Los casos especiales no se tocan. Frenar 600 no lleva fuente inventada, Bigster no se vuelve a crear y las dos variantes de e:Ny1 no se fusionan. Déjalos en una lista aparte.
+Arranca ya en la rama `dedupe-8g-merlin`.
