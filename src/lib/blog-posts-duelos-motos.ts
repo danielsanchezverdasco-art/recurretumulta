@@ -6,9 +6,9 @@ import type { BlogPost } from "./blog-data.ts";
 
 export const DUELOS_MOTOS_POSTS: BlogPost[] = [
   {
-    title: "Silence S01 vs NIU MQi GT Evo 2026",
+    title: "Silence S01 o NIU MQi GT Evo: duelo eléctrico 125",
     slug: "silence-s01-vs-niu-mqi-gt-evo-cual-comprar",
-    excerpt: "Silence S01 (3.950 €, 133 km) vs NIU MQi GT Evo (4.999 €, 100 km/h): comparativa del scooter eléctrico 125 con baterías, precio y equipamiento.",
+    excerpt: "S01 o MQi GT Evo: precios, autonomía y baterías frente a frente para elegir el scooter eléctrico 125 de tu día a día.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -25,11 +25,11 @@ export const DUELOS_MOTOS_POSTS: BlogPost[] = [
     ],
     content: `<img src=/media/silence-s01-vs-niu-mqi-gt-evo-cual-comprar-hero.webp alt=Comparativa entre la Silence S01 y la NIU MQi GT Evo, los dos scooters eléctricos equivalentes a 125 más vendidos>
 
-El duelo español contra el chino: la Silence S01, fabricada en Barcelona y el scooter eléctrico más vendido en España a particulares, frente a la NIU MQi GT Evo, la apuesta del gigante chino que diseñó su scooter pensando en Europa. Las dos son equivalentes a 125 (carnet A1, o B con más de 3 años), las dos llevan baterías extraíbles y las dos prometen moverse por la ciudad sin gastar un euro en gasolina.
+Dos scooters eléctricos equivalentes a un 125, dos ideas distintas de moverse por la ciudad sin gasolina. Una sale de una fábrica barcelonesa y lidera las ventas a particulares en España; la otra llega desde China con la vista puesta en el cliente europeo. Ambas permiten extraer la batería para cargarla en un enchufe normal, ambas admiten el permiso A1 y el B con antigüedad suficiente, y ambas presumen de etiqueta Cero. La elección depende menos de la marca que del uso diario que les vayas a dar.
 
-La respuesta corta: **la S01 es para quien prioriza la autonomía y la red de servicio en España; la MQi GT Evo para quien quiere el scooter más divertido y tecnológico por su precio**. Los detalles, en la tabla.
+En pocas palabras: la catalana conviene a quien recorre muchos kilómetros cada día y valora tener taller y asistencia cerca; la china seduce a quien busca agilidad, conectividad y diversión por un precio parecido. La tabla siguiente deja las cifras una al lado de la otra.
 
-## Tabla comparativa: Silence S01 vs NIU MQi GT Evo
+## Cifras frente a frente
 
 | Ficha | Silence S01 Connected | NIU MQi GT Evo |
 |---|---|---|
@@ -47,63 +47,63 @@ La respuesta corta: **la S01 es para quien prioriza la autonomía y la red de se
 
 <img src=/media/silence-s01-niu-mqi-gt-evo-duelo-cuerpo.webp alt=Silence S01 y NIU MQi GT Evo una junto a otra en una calle>
 
-## Análisis: qué ofrece cada una
+## Lo que aporta cada modelo
 
-**Silence S01.** Su truco es la batería trolley con ruedas: la sacas, la llevas rodando como una maleta y la enchufas en casa o en la oficina, sin instalación. Con 133 km declarados tiene la mayor autonomía de su categoría, acelera como una 300 de gasolina y trae marcha atrás de serie. A cambio, la batería pesa 41 kg (subirla por escaleras es un suplicio), la carga en casa tarda 7-9 h y el precio "real" depende del modelo de suscripción de batería que elijas.
+**Silence S01.** La baza de la S01 es su acumulador con ruedas. Se extrae, se arrastra como si fuera una maleta y se conecta a cualquier toma doméstica o de oficina, sin obra ni cargador fijo. Su alcance homologado, 133 km, encabeza el segmento, su empuje recuerda al de una 300 de gasolina y de serie incorpora marcha atrás. El reverso: el módulo pesa 41 kg y subirlo por una escalera cansa, la recarga doméstica se alarga entre 7 y 9 horas y el desembolso final cambia según se opte por la suscripción o por la compra del acumulador.
 
-**NIU MQi GT Evo.** Más ligera (128 kg), más divertida y más tecnológica: pantalla TFT a color, arranque sin llave por proximidad, tres modos de conducción y una app que permite hasta prestar el scooter sin entregar llaves. Sus dos baterías de 14 kg son más manejables que el trolley de la Silence, pero la autonomía se queda en 75 km declarados (unos 65 reales si le das caña) y no lleva ABS, solo frenada combinada.
+**NIU MQi GT Evo.** La MQi GT Evo juega otra carta: menos peso, 128 kg, un tacto más vivo y un equipamiento digital superior. Monta pantalla TFT en color, desbloqueo por proximidad sin llave física, tres programas de conducción y una aplicación que vigila la posición, avisa ante robos y permite ceder el vehículo sin entregar llaves. Sus dos acumuladores de 14 kg se transportan con más facilidad que el trolley rival, aunque el alcance homologado baja a 75 km —alrededor de 65 km si se circula exigiendo al máximo— y el freno es combinado, sin ABS.
 
-## Pros y contras
+## Puntos fuertes y débiles
 
 **Silence S01:**
-- ✅ 133 km de autonomía declarada, la mayor de la categoría
-- ✅ Batería trolley patentada: se carga en cualquier enchufe sin instalación
-- ✅ Marcha atrás de serie y hueco para dos cascos
-- ✅ Fabricada en Barcelona, con red de servicio propia en España
-- ✅ App con GPS, alarma y préstamo sin llaves
-- ❌ 3.950 € solo con suscripción de batería; 4.950 € en propiedad
-- ❌ La batería pesa 41 kg
-- ❌ Carga lenta en casa (7-9 h)
-- ❌ 152 kg: pesada para mover en parado
+- ✅ Alcance homologado de 133 km, el más amplio de su segmento
+- ✅ Acumulador con ruedas patentado: recarga en cualquier toma sin obra
+- ✅ Marcha atrás incluida de serie y espacio para dos cascos
+- ✅ Producción en Barcelona y asistencia propia en España
+- ✅ Aplicación con localización GPS, alarma y cesión sin llaves
+- ❌ Los 3.950 € exigen suscripción mensual; en propiedad sube a 4.950 €
+- ❌ El acumulador pesa 41 kg
+- ❌ Recarga doméstica lenta, entre 7 y 9 horas
+- ❌ 152 kg que se notan al moverla en parado
 
 **NIU MQi GT Evo:**
-- ✅ 100 km/h reales: compite con un 125 de gasolina
-- ✅ 128 kg, chasis sólido y buen aplomo
-- ✅ Pantalla TFT, arranque sin llave y tres modos bien diferenciados
-- ✅ App con GPS y antirrobo
-- ❌ Autonomía real de 65-75 km, justa a tope
-- ❌ 4.999 €: cara frente a un 125 de gasolina
-- ❌ Sin ABS y sin hueco para el casco
-- ❌ Red de servicio limitada en España
+- ✅ 128 kg, bastidor sólido y buen aplomo
+- ✅ 100 km/h reales, a la altura de un 125 de gasolina
+- ✅ Pantalla TFT, desbloqueo sin llave y tres programas bien diferenciados
+- ✅ Aplicación con GPS y protección antirrobo
+- ❌ Alcance real de 65 a 75 km, corto si se apura
+- ❌ 4.999 €, caro si se compara con un 125 de gasolina
+- ❌ Asistencia en España más limitada que la rival
+- ❌ Sin ABS y sin espacio para guardar el casco
 
-## Veredicto: ¿cuál comprar?
+## Decisión final: ¿con cuál te quedas?
 
-**Compra la Silence S01 si** haces muchos kilómetros al día y necesitas la máxima autonomía con la tranquilidad de una marca con fábrica y servicio en España. **Compra la NIU MQi GT Evo si** buscas el scooter más ágil y tecnológico, y tus rutas son urbanas y cortas. En ambos casos, mira antes las fichas: <a href=/motos/silence-s01-ficha-tecnica-precio/>ficha de la Silence S01</a> y <a href=/motos/niu-mqi-gt-evo-ficha-tecnica-precio/>ficha de la NIU MQi GT Evo</a>, o enfréntalas en nuestro <a href=/comparador-motos/?a=silence-s01-ficha-tecnica-precio&b=niu-mqi-gt-evo-ficha-tecnica-precio>comparador de motos eléctricas</a>.
+Si tu día a día suma muchos kilómetros y quieres el mayor alcance con una marca que fabrica y atiende en España, quédate con la Silence S01. Si tus trayectos son cortos, urbanos y valoras agilidad y tecnología, la NIU MQi GT Evo encaja mejor. Antes de decidir, consulta las fichas: <a href=/motos/silence-s01-ficha-tecnica-precio/>ficha de la Silence S01</a> y <a href=/motos/niu-mqi-gt-evo-ficha-tecnica-precio/>ficha de la NIU MQi GT Evo</a>, o enfréntalas en nuestro <a href=/comparador-motos/?a=silence-s01-ficha-tecnica-precio&b=niu-mqi-gt-evo-ficha-tecnica-precio>comparador de motos eléctricas</a>.
 
-## Míralo en vídeo
+## Prueba en vídeo
 
 <iframe src=https://www.youtube.com/embed/67XmxCcgusk title="Vídeo: Prueba NIU MQi GT Evo, el eléctrico más honesto del mercado" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=67XmxCcgusk>Canariasenmoto</a> en YouTube
+Grabación de <a href=https://www.youtube.com/watch?v=67XmxCcgusk>Canariasenmoto</a> en YouTube
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuál tiene más autonomía, la Silence S01 o la NIU MQi GT Evo?
-La Silence S01, con diferencia: 133 km declarados frente a 75 km de la NIU (unos 65 reales). Si haces más de 50 km al día, la S01 es la elección lógica.
+### ¿Qué modelo recorre más kilómetros con una carga?
+La S01, con claridad: homologa 133 km, mientras la MQi GT Evo declara 75 km y en uso exigente ronda los 65 km. Quien supere los 50 km diarios tiene en la catalana la opción lógica.
 
-### ¿Las dos se pueden conducir con el carnet de coche?
-Sí: ambas son equivalentes a 125 y se pueden llevar con el A1 o con el B con más de 3 años de antigüedad, solo en territorio nacional.
+### ¿Sirve el permiso de coche para llevarlas?
+Sí. Las dos equivalen a un 125 y admiten el A1, además del B cuando el conductor lleva más de tres años con él, únicamente dentro del territorio nacional.
 
-### ¿Cuál es más barata?
-La Silence S01 parte de 3.950 €, pero ojo: ese precio es con suscripción mensual de batería; con batería en propiedad son 4.950 €. La NIU MQi GT Evo cuesta 4.999 € con todo incluido.
+### ¿Cuál sale más económica al comprarla?
+La S01 anuncia 3.950 €, pero esa cifra corresponde a la suscripción mensual del acumulador; comprándolo en propiedad el precio asciende a 4.950 €. La MQi GT Evo se vende por 4.999 € sin pagos mensuales añadidos.
 
-### ¿Se pueden cargar en casa?
-Sí, las dos: la S01 con su batería trolley de ruedas (41 kg) y la NIU con sus dos baterías de 14 kg cada una. Ninguna necesita punto de carga instalado.
+### ¿Es posible recargarlas en un enchufe doméstico?
+Sí, en ambos casos. La S01 se recarga con su acumulador trolley de ruedas, de 41 kg, mientras la NIU emplea sus dos acumuladores de 14 kg cada uno. Ninguna exige instalar un punto de carga.
 
-### ¿Tienen etiqueta Cero?
-Sí, ambas son 100 % eléctricas y llevan <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero de la DGT</a>: entran en todas las ZBE sin restricciones.
+### ¿Llevan distintivo ambiental Cero?
+Sí. Al ser totalmente eléctricas, las dos portan <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero de la DGT</a> y acceden a todas las ZBE sin limitaciones.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+Antes de abonar una sanción, comprueba si contiene algún error con la herramienta gratuita de esta web: <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a>.
 `,
   },
   {
