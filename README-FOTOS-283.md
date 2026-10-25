@@ -178,3 +178,10 @@ pasan a la tanda siguiente. Cada tanda: commit + push sin force + verificación 
 - Caveats: MC20 alts (estudio/costa) no coinciden con fotos de calle en evento; crédito MC20 en conflicto (galerias dice Maserati, fuentes dice Commons); G 63 alts (desierto/frontal en ciudad) no coinciden (trasera en grava / delantera en estudio); Clase V oficial tres cuartos (no lateral) para no usar fotos del EQV; resto licencia desconocida.
 - Auditoría: 4/4 nuevos byte a byte contra las ramas + 5/5 mapeos contra la base; todas WebP <300 KB (máx. 226.256 B); 0 sobrescrituras de HEAD.
 - CSV: 266 filas totales (262 + 4).
+
+## TANDA 4 PARCIAL 11 (parcial pequeño: w129; resto de la oleada en vuelo)
+- 2 fotos reales verificadas: w129 (mercedes-amg-glc-63-s-e-performance-2025, mercedes-amg-s-63-e-performance-2026), ambas solo -hero (imagen vacío, imagenOficial = hero, interior vacío; no es pendiente).
+- GLC 63 S SUV X254 en marcha gris mate, matrícula S MB 2293, parrilla Panamericana (no Coupé); S 63 berlina W223 gris mate con distintivo AMG S 63 E PERFORMANCE; no cruzadas. Hunt1-3 de ambos ya existían y NO se copiaron.
+- Caveats: foto de prensa 2023 (GLC, slug 2025) y dic-2022 (S 63, slug 2026), misma generación y mismas cifras de ficha, sin cambio de generación; resto licencia desconocida.
+- Auditoría: 2/2 byte a byte contra la rama; ambas WebP <300 KB (GLC 294.030 B, cerca del límite); 0 sobrescrituras de HEAD.
+- CSV: 268 filas totales (266 + 2).
