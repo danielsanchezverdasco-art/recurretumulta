@@ -226,9 +226,9 @@ BYD no lo ha anunciado. El Dolphin Surf actual se vende en España entre 20.140 
   },
   {
     slug: "tesla-roadster-2028-presentacion",
-    title: "Tesla Roadster 2028: 0,59 s, 370 km/h y propulsores SpaceX",
+    title: "Tesla Roadster 2028: presentado con propulsores SpaceX",
     excerpt:
-      "Tesla Roadster 2028: tres versiones con propulsores de gas frío de SpaceX, 0-97 km/h en menos de 0,59 s y producción en 2028. Sin precio confirmado.",
+      "Tesla presenta el Roadster 2028 con tres versiones y propulsores de gas frío de SpaceX: menos de 0,59 s en la Rocket y producción en 2028, sin precio.",
     category: "Novedades Motor",
     date: "2026-10-16",
     readTime: 7,
@@ -241,7 +241,97 @@ BYD no lo ha anunciado. El Dolphin Surf actual se vende en España entre 20.140 
       "Tesla Roadster Waco presentación",
       "Tesla Roadster reserva 50.000",
     ],
-    content: `<img src=/media/tesla-roadster-2028-presentacion-hero.webp alt=Tesla Roadster 2028 blanco visto desde arriba, diseño angular con faros ocultos>\n\n*Foto: Tesla (imagen oficial distribuida por automundo.com). El nuevo Roadster en blanco "Ano White": faros ocultos y líneas inspiradas en el avión espía SR-71 y el caza F-35. Licencia desconocida.*\n\n**Datos del proyecto hasta ahora:** <a href=/coches/tesla-roadster-2026-retraso-precio-ficha-tecnica/>Tesla Roadster — ficha, retrasos y promesas anteriores</a>\n\nTesla presentó la madrugada de este viernes el **nuevo Roadster** en una instalación de SpaceX cerca de **Waco (Texas)**, nueve años después del prototipo de 2017. El evento, aplazado desde el 1 de octubre por el mal tiempo, duró media hora y fue pura demostración en vivo: el coche **subió por una rampa invertida pegado a ella por succión**, se despegó boca abajo, giró en el aire con los propulsores y aterrizó. Después **saltó por encima de toda la gama Tesla** — un Cybercab, una Cybertruck, un Semi, un Model Y y un Model 3 — y Tesla mostró un vídeo con una aceleración de 0 a 97 km/h en **0,81 segundos** (sin cronómetro en pantalla ni verificación independiente, según Jalopnik; InsideEVs aclara que ese tiempo es de la versión Thrust). "Bueno, funcionó", dijo Musk al terminar.\n\n## Las tres versiones: Performance, Thrust y Rocket\n\nTesla detalló las configuraciones en su cuenta de X. La autonomía anunciada es de **más de 300 millas (unos 480 km)** para las tres.\n\n| Versión | Uso | Plazas | 0-60 mph (0-97 km/h) | Reserva |\n|---|---|---|---|---|\n| **Performance** | Calle | 2 | Menos de 1,6 s | 50.000 $ (5.000 $ + 45.000 $ por transferencia) |\n| **Thrust** | Circuito, edición limitada | 2 | Menos de 0,9 s | 250.000 $ (según TechCrunch) |\n| **Rocket** | Solo invitación, no homologada para calle | 1 | Menos de 0,59 s (objetivo) | Solo por invitación |\n\nLa **Performance** es "lista para la calle", con aerodinámica activa y sistema de succión de varios modos. La **Thrust** suma los propulsores traseros de gas frío de SpaceX. La **Rocket** lleva propulsores perimetrales que permiten acelerar hacia delante, hacia arriba y girar: "Sí… puede volar", escribió Tesla. La Rocket promete más de **230 mph (unos 370 km/h)** de velocidad máxima; Musk dijo que la meta es la mitad de la velocidad del sonido, unas 383 mph.\n\n## Propulsores de SpaceX en un coche\n\nLa gran novedad técnica: el Roadster lleva **diez salidas de aire comprimido y dos "cohetes" con tecnología de SpaceX**, alimentados por **600 litros de aire** (unos 250 kilos) en un tanque especial que se regenera constantemente, para un rendimiento sostenido sin intervención del conductor. Cada hueco aprovechable de la carrocería está ocupado por **tanques de fibra de carbono (COPV)** que guardan el gas comprimido: cuanto más gas lleva, más dura el "vuelo".\n\nLa física que lo justifica, según Tesla: todos los coches están limitados por el agarre de los neumáticos; los propulsores generan **entre cuatro y cinco veces la fuerza** que pueden transmitir las llantas, y a igualdad de masa, más fuerza es más aceleración. "SpaceX ha usado propulsores para posicionar naves espaciales durante décadas; hacerlos funcionar en un vehículo en lugar del vacío exigió hardware y controles totalmente nuevos", explicó Tesla.\n\n<img src=/media/tesla-roadster-2028-presentacion-perfil.webp alt=Tesla Roadster 2028 de perfil en modo de calle, carrocería blanca con cristales tintados>\n\n*Foto: Tesla (imagen oficial distribuida por automundo.com). El Roadster en su "Road Mode"; en el Modo Pista baja la altura y despliega alerones activos. Licencia desconocida.*\n\n## Un diseño que no se parece al de 2017\n\nEl nuevo Roadster no conserva nada del prototipo de hace una década. El lenguaje de diseño, según Tesla, evolucionó del Model S/3/X/Y a la Cybertruck, el Cybercab y el robot Optimus, con inspiración directa en el **SR-71 y el F-35**.\n\n- **Exterior:** faros ocultos, luz trasera de lado a lado y pintura "Ano White", que toma recubrimientos de protección de cohetes.\n- **Cristales:** tintados en tono dorado, como el visor de un traje espacial.\n- **Interior:** volante tipo yoke con dirección por cable, pantalla central y dos pequeñas pantallas frente al conductor.\n- **Peso:** asiento en posición fija, mandos manuales y piezas de magnesio, titanio y fibra de carbono.\n- **Modo Pista:** el coche se baja y despliega **alerones activos** movidos por los actuadores desarrollados para Optimus; Tesla dice que la carga aerodinámica se acerca a niveles de Fórmula 1.\n\n## Producción en 2028, sin precio\n\nMusk fue directo: "**Entramos en producción en 2028**". No dio fecha de entregas ni confirmó el precio. Las referencias de 2017 — 200.000 dólares el base y 250.000 la Founders Series — tienen casi una década y Tesla no las ha actualizado. Lo que sí reabrió son las **reservas**: 5.000 dólares en el momento (reembolsables según la marca) y 45.000 por transferencia en los 10 días siguientes, o se cancela; **50.000 dólares en total**, lo mismo que pedía en 2017.\n\n## Lo que cambió desde el prototipo de 2017\n\n| Dato | 2017 (promesa) | 2026 (presentación) |\n|---|---|---|\n| Plazas | 4 | 2 (1 en la Rocket) |\n| Autonomía | 620 millas (1.000 km) | Más de 300 millas (480 km) |\n| Velocidad máxima | Más de 250 mph (400 km/h) | Más de 230 mph (370 km/h, Rocket) |\n| 0-60 mph | 1,9 s | Menos de 1,6 s (Performance) |\n| Precio | 200.000 $ / 250.000 $ Founders | Sin confirmar |\n| Producción | 2020 | 2028 |\n\nMusk lo describió como "el mejor de los últimos autos conducidos por humanos" y admitió que "no es un coche necesariamente optimizado para la seguridad, pero sí que lleva la diversión a un nivel 11 de 10". Sobre los récords de circuito: "Toma las curvas como si rompiera las leyes de la física. Romperá todos los récords de circuitos que existen" — una promesa, no un dato medido.\n\n## Preguntas frecuentes\n\n### ¿Cuándo se presentó el nuevo Tesla Roadster?\n\nEl 15 de octubre de 2026 a las 19:55 hora local (madrugada del 16 de octubre en España, 02:55 CEST), en una instalación de SpaceX cerca de Waco (Texas). Estaba previsto para el 1 de octubre, pero Tesla lo aplazó dos semanas por las previsiones meteorológicas.\n\n### ¿Qué versiones tiene el Tesla Roadster 2028?\n\nTres: **Performance** (calle, 2 plazas, 0-60 en menos de 1,6 s), **Thrust** (circuito, 2 plazas, propulsores traseros de gas frío, menos de 0,9 s, edición limitada) y **Rocket** (1 plaza, propulsores perimetrales, menos de 0,59 s, más de 370 km/h, solo por invitación y no homologada para circular).\n\n### ¿El Tesla Roadster puede volar de verdad?\n\nLa versión Rocket lleva propulsores de gas frío alrededor de la carrocería que permiten despegar y girar en el aire: en la presentación se despegó boca abajo, hizo una voltereta y aterrizó controlado. "Sí… puede volar", dice Tesla. La Rocket, eso sí, no está aprobada para la vía pública según la propia marca.\n\n### ¿Cuánto cuesta el Tesla Roadster 2028?\n\nTesla no ha anunciado el precio. La reserva cuesta 50.000 dólares en total (5.000 al reservar, reembolsables según Tesla, y 45.000 por transferencia en 10 días). Para la versión Thrust la reserva asciende a 250.000 dólares, según TechCrunch.\n\n### ¿Cuándo entra en producción el Tesla Roadster?\n\nSegún Elon Musk, "entramos en producción en 2028". No dio fecha de entregas. El prototipo original de 2017 tenía que entrar en producción en 2020, así que la cautela es obligada.\n\n### ¿Qué autonomía y velocidad máxima tendrá?\n\nTesla anuncia más de 300 millas (unos 480 km) de autonomía para las tres versiones y más de 230 mph (unos 370 km/h) de velocidad máxima en la Rocket. Musk puso como meta la mitad de la velocidad del sonido: unas 383 mph.\n\n**¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.\n\n*Fuentes: <a href=https://automundo.com/2026/10/15/nuevo-tesla-roadster/>Automundo (datos del evento, configuraciones de Tesla, 16/10/2026)</a>, <a href=https://soymotor.com/coches/noticias/tesla-roadster-presentacion-mundial-streaming>SoyMotor (demostración en vivo y versiones, 16/10/2026)</a>, <a href=https://zonanerd.co/gadgets-y-hardware/tesla-roadster-sorprende-en-demostracion-vuela-corre-a-60-mph-en-un-segundo/>Zona Nerd (resumen del evento, 16/10/2026)</a>, <a href=https://www.vayalujo.com/coches-lujo-15-octubre-2026/>Vaya Lujo (fecha, aplazamiento y reservas, 15/10/2026)</a>.*`,
+    content: `<img src=/media/tesla-roadster-2028-presentacion-hero.webp alt=Tesla Roadster 2028 blanco visto desde arriba, diseño angular con faros ocultos>
+
+*Foto: Tesla (imagen oficial distribuida por automundo.com). El nuevo Roadster en blanco "Ano White": faros ocultos y líneas inspiradas en el avión espía SR-71 y el caza F-35. Licencia desconocida.*
+
+**Datos del proyecto hasta ahora:** <a href=/coches/tesla-roadster-2026-retraso-precio-ficha-tecnica/>Tesla Roadster — ficha, retrasos y promesas anteriores</a>
+
+## Promesa frente a prueba: cómo leer este artículo
+
+Antes de entrar en cifras, conviene separar dos planos que en la presentación se mezclaron: lo anunciado por Tesla y lo medido por alguien independiente. El vídeo no mostraba cronómetro y ningún medio independiente lo ha cronometrado, según recoge Jalopnik; InsideEVs atribuye ese registro a la variante Thrust, no a toda la gama. La punta por encima de 230 mph es una promesa para la Rocket, la meta de 383 mph es un horizonte fijado por Musk, la autonomía por encima de 300 millas es un anuncio de la marca, la fabricación en 2028 es un calendario comunicado por Musk y el precio sigue sin confirmarse. Nada de eso es todavía un dato verificado en carretera o en circuito.
+
+## Tres variantes y lo que cambia entre ellas
+
+Tesla comunicó la gama en X: Performance para calle, Thrust para circuito en serie corta y Rocket solo por invitación y fuera de homologación vial. Para las tres, la autonomía comunicada supera las 300 millas, unos 480 km.
+
+| Versión | Uso | Plazas | 0-60 mph (0-97 km/h) | Reserva |
+|---|---|---|---|---|
+| **Performance** | Calle | 2 | Menos de 1,6 s | 50.000 $ (5.000 $ + 45.000 $ por transferencia) |
+| **Thrust** | Circuito, edición limitada | 2 | Menos de 0,9 s | 250.000 $ (según TechCrunch) |
+| **Rocket** | Solo invitación, no homologada para calle | 1 | Menos de 0,59 s (objetivo) | Solo por invitación |
+
+La variante de calle combina aerodinámica que cambia de forma y un sistema de succión con varios ajustes. La intermedia añade en la zaga propulsores de gas frío heredados de SpaceX. La de invitación reparte propulsores por el perímetro y así puede empujar hacia delante, elevarse o rotar; Tesla lo resumió en X con un escueto sí, vuela. En punta, la Rocket apunta por encima de 230 mph, unos 370 km/h, y Musk fijó como horizonte la mitad de la velocidad sónica, en torno a 383 mph.
+
+## Aire comprimido en vez de solo agarre
+
+Diez bocas de salida y dos unidades con tecnología SpaceX expulsan aire a presión; el depósito guarda 600 litros, unos 250 kilos, y se recarga de forma continua para que el empuje no se agote a la primera y no haga falta actuar sobre él. Cada rincón útil de la carrocería aloja depósitos de fibra de carbono, los COPV, que almacenan el gas: a más gas a bordo, más tiempo de empuje disponible.
+
+El argumento físico de Tesla es que el neumático pone el límite en cualquier coche, mientras los propulsores multiplican por cuatro o cinco la fuerza que las ruedas logran pasar al asfalto; con la misma masa, más empuje equivale a más aceleración. Tesla explica el desafío en estos términos: un sistema que en el espacio orienta naves llevaba décadas funcionando en vacío, y trasladarlo a un coche obligó a diseñar piezas y controles desde cero.
+
+<img src=/media/tesla-roadster-2028-presentacion-perfil.webp alt=Tesla Roadster 2028 de perfil en modo de calle, carrocería blanca con cristales tintados>
+
+*Foto: Tesla (imagen oficial distribuida por automundo.com). El Roadster en su "Road Mode"; en el Modo Pista baja la altura y despliega alerones activos. Licencia desconocida.*
+
+## Carrocería, cristales y habitáculo: otro lenguaje
+
+La carrocería blanca, bautizada Ano White, esconde los faros y une la zaga con una tira luminosa continua; su pintura bebe de revestimientos pensados para cohetes, y el conjunto ya no debe nada al prototipo de hace una década: Tesla sitúa su evolución entre el Model S, el 3, el X y el Y por un lado y, por otro, el robot Optimus junto a la Cybertruck y el Cybercab, con el SR-71 y el F-35 como referentes.
+
+Los cristales, tintados en dorado, recuerdan al visor de un casco espacial. Dentro, un yugo en lugar de volante redondo, mando por cable, una pantalla central y dos pequeñas delante del conductor. El asiento queda fijo, varios mandos son manuales y abundan magnesio, titanio y fibra de carbono para recortar kilos. Al activar el modo de pista, la altura baja y unos alerones móviles, accionados con actuadores heredados del robot Optimus, buscan una carga aerodinámica próxima a la de un Fórmula 1, según Tesla.
+
+## Calendario y dinero: 2028 en el horizonte, precio en el aire
+
+Sobre calendario, Musk situó el arranque fabril en 2028 y no precisó cuándo llegarían las primeras unidades a clientes. Tampoco ratificó un precio: las cifras de 2017, 200.000 dólares para la base y 250.000 para la Founders Series, llevan casi diez años sin actualizarse por Tesla, así que no sirven como tarifa vigente. Lo que volvió a abrirse fue la reserva: 5.000 dólares al apuntarse, reembolsables según la marca, más 45.000 por transferencia dentro de los diez días siguientes, bajo pena de cancelación; en conjunto, 50.000 dólares, igual que en 2017.
+
+## La exhibición de Waco, en orden inverso
+
+El acto, de media hora, se celebró en unas instalaciones de SpaceX junto a Waco, Texas, casi una década después del prototipo de 2017; la fecha inicial, el 1 de octubre, se movió dos semanas por el tiempo. Lo más comentado fue el salto por encima de cinco Tesla alineados: Cybercab y Cybertruck primero, Semi después, y dos turismos, Model Y y Model 3, para cerrar. Antes, la subida por una rampa invertida manteniéndose pegado a ella por succión, el despegue boca abajo, un giro en el aire gracias a los propulsores y un aterrizaje controlado. El vídeo de aceleración mostró una aceleración de 0–97 km/h en 0,81 segundos; no aparecía cronómetro en pantalla y ningún medio independiente lo ha cronometrado, según recoge Jalopnik. InsideEVs atribuye ese registro a la variante Thrust. Musk cerró con un lacónico comentario de alivio: había funcionado.
+
+## 2017 frente a 2026
+
+La tabla siguiente pone frente a frente lo prometido en 2017 y lo comunicado en la presentación reciente; el recorte de plazas, de autonomía anunciada y de punta contrasta con la aceleración, que mejora sobre el papel.
+
+| Dato | 2017 (promesa) | 2026 (presentación) |
+|---|---|---|
+| Plazas | 4 | 2 (1 en la Rocket) |
+| Autonomía | 620 millas (1.000 km) | Más de 300 millas (480 km) |
+| Velocidad máxima | Más de 250 mph (400 km/h) | Más de 230 mph (370 km/h, Rocket) |
+| 0-60 mph | 1,9 s | Menos de 1,6 s (Performance) |
+| Precio | 200.000 $ / 250.000 $ Founders | Sin confirmar |
+| Producción | 2020 | 2028 |
+
+Musk presentó el coche como el más logrado hasta la fecha para quien conduce, divertido hasta un extremo que él cifró en 11 sobre 10, y reconoció que la seguridad no era su prioridad de diseño. También aseguró que en circuito doblará como si desafiara la física y batirá todos los registros existentes, algo que por ahora es una promesa sin crono oficial.
+
+## Dudas habituales, respondidas sin rodeos
+
+### ¿De verdad despega del suelo?
+
+La Rocket, con propulsores alrededor de la carrocería, despegó boca abajo en la exhibición, giró y aterrizó bajo control, según la propia Tesla. Esa variante, eso sí, no cuenta con homologación para circular por la vía pública, según la marca.
+
+### ¿Cuánto hay que dejar para reservar uno?
+
+La reserva totaliza 50.000 dólares: 5.000 al apuntarse —reembolsables, según la propia Tesla— y otros 45.000 por transferencia en un plazo de diez días; si no se completa, se cancela. La Thrust, según TechCrunch, exige 250.000 dólares de reserva. El precio final, en cambio, sigue sin anunciarse.
+
+### ¿Para cuándo queda la fabricación?
+
+Musk situó el inicio fabril en 2028, sin precisar entregas a clientes. Conviene recordar el precedente: el prototipo de 2017 apuntaba a 2020 y ese calendario no se cumplió.
+
+### ¿Cuándo se dio a conocer?
+
+La presentación tuvo lugar un 15 de octubre de 2026, a última hora de la tarde en Texas (19:55 local), cuando en España ya era la madrugada del día 16 (02:55 CEST). La cita inicial, prevista para el 1 de octubre, se pospuso dos semanas por la meteorología prevista.
+
+### ¿Qué variantes existen?
+
+Tres. La de calle, con dos asientos y un 0 a 60 mph por debajo de 1,6 s; la de circuito, también biplaza, con propulsores traseros de gas frío y menos de 0,9 s, en serie corta; y la de invitación, monoplaza, con propulsores perimetrales, menos de 0,59 s y más de 370 km/h, fuera de homologación vial.
+
+### ¿Qué autonomía y qué punta anuncia Tesla?
+
+Para la Rocket, la punta anunciada supera 230 mph, unos 370 km/h; la autonomía, en cambio, supera 300 millas, unos 480 km, en las tres variantes. Como horizonte, Musk mencionó la mitad de la velocidad sónica, en torno a 383 mph.
+
+**¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.
+
+*Fuentes: <a href=https://automundo.com/2026/10/15/nuevo-tesla-roadster/>Automundo (datos del evento, configuraciones de Tesla, 16/10/2026)</a>, <a href=https://soymotor.com/coches/noticias/tesla-roadster-presentacion-mundial-streaming>SoyMotor (demostración en vivo y versiones, 16/10/2026)</a>, <a href=https://zonanerd.co/gadgets-y-hardware/tesla-roadster-sorprende-en-demostracion-vuela-corre-a-60-mph-en-un-segundo/>Zona Nerd (resumen del evento, 16/10/2026)</a>, <a href=https://www.vayalujo.com/coches-lujo-15-octubre-2026/>Vaya Lujo (fecha, aplazamiento y reservas, 15/10/2026)</a>.*
+`,
   },
   {
     slug: "bmw-ix4-2027-presentacion-oficial",

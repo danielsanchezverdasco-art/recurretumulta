@@ -760,9 +760,9 @@ Es su sucesor conceptual: recupera el nombre y los rasgos icónicos del cupé RC
   },
   {
     slug: "cuotas-hibridos-chinos-ue-china-2026",
-    title: "Cuota de 350.000 híbridos chinos: qué cambia en España",
+    title: "UE y China acuerdan un cupo de 350.000 híbridos al año",
     excerpt:
-      "Tercera entrega de la serie: la Comisión fijó el cupo en 350.000 híbridos chinos al año, con entrada en vigor prevista para principios de diciembre (1 de diciembre, pendiente de confirmación) y +6% anual durante 4 años. Qué cambia en España.",
+      "Bruselas y Pekín cambian aranceles por un tope de 350.000 híbridos chinos al año, desde el 1 de diciembre y con subidas del 6% durante cuatro años.",
     category: "Actualidad",
     date: "2026-10-14",
     readTime: 9,
@@ -777,17 +777,17 @@ Es su sucesor conceptual: recupera el nombre y los rasgos icónicos del cupé RC
     ],
     content: `<img src=/media/cuotas-hibridos-chinos-ue-china-2026-hero.webp alt=Buques portacoches en el puerto europeo de Bremerhaven, por donde llegan los coches importados>
 
-*Foto: Dietmar Rabich / Wikimedia Commons / CC BY-SA 4.0. Imagen temática: portacoches genéricos en un puerto europeo, no híbridos chinos en concreto.*
+*Imagen: portacoches genéricos atracados en un puerto del continente, fotografía de Dietmar Rabich difundida en Wikimedia Commons bajo licencia CC BY-SA 4.0; se trata de una ilustración del transporte marítimo en general, no de modelos híbridos chinos concretos.*
 
-## Cuota de 350.000 híbridos chinos: qué cambia en España
+## El pacto del 12 de octubre, en cifras
 
-**La Unión Europea y China han cerrado la segunda parte del pacto sobre los híbridos: en vez de nuevos aranceles, habrá cuotas. El lunes 12 de octubre, Pekín precisó cómo se reparten —China se queda con una cuota no inferior a la de ningún otro proveedor, calculada al alza sobre las cifras de 2025— y Bruselas puso el número: 350.000 vehículos al año, con entrada en vigor prevista para principios de diciembre (1 de diciembre, pendiente de confirmación), con un aumento del 6% anual durante cuatro años.** Es el giro que faltaba para entender el acuerdo anunciado el 9 de octubre, y cambia el escenario para quien esté pensando en comprar un híbrido enchufable chino en España.
+El 12 de octubre, Bruselas y Pekín cerraron la segunda fase de su entendimiento sobre los híbridos: no habrá, de momento, gravámenes nuevos sobre estos coches, sino un límite a la cantidad que puede entrar. La Comisión fijó ese límite en 350.000 unidades anuales, con arranque previsto a comienzos de diciembre —el día 1, todavía sin ratificar— y subidas anuales del 6% durante cuatro ejercicios. El anuncio completa lo adelantado el 9 de octubre y aclara el panorama para quien valore comprar en España un híbrido enchufable fabricado en China.
 
-Si te perdiste el primer capítulo, aquí está el contexto: el 8 de octubre contamos que <a href=/blog/ue-bruselas-cuotas-hibridos-chinos/>Bruselas preparaba cuotas unilaterales con aranceles</a> tras el rechazo chino a limitar sus exportaciones, y el 11 de octubre que <a href=/blog/ue-china-freno-hibridos-enchufables/>UE y China habían pactado moderar esas exportaciones</a>. Lo del 12 de octubre es la letra pequeña de ese pacto.
+El recorrido previo está en dos entregas anteriores: el 8 de octubre explicamos que <a href=/blog/ue-bruselas-cuotas-hibridos-chinos/>Bruselas preparaba cuotas unilaterales con aranceles</a> ante la negativa china a autolimitar sus envíos, y el 11 de octubre que <a href=/blog/ue-china-freno-hibridos-enchufables/>UE y China habían pactado moderar esas exportaciones</a>. Lo comunicado el día 12 es el detalle operativo de aquel entendimiento.
 
-## Lo que precisó Pekín el 12 de octubre
+## Qué matizó Pekín sobre el reparto
 
-Tras las consultas intensivas entre ambas partes, el Ministerio de Comercio chino comunicó tres precisiones clave sobre los híbridos:
+El Ministerio de Comercio chino, después de rondas intensivas de diálogo con la otra parte, detalló tres matices sobre los híbridos:
 
 | Precisión del 12/10 | Qué significa |
 |---|---|
@@ -795,13 +795,13 @@ Tras las consultas intensivas entre ambas partes, el Ministerio de Comercio chin
 | Ajuste al alza sobre las cifras de 2025 | El cupo no se congela: crece tomando como base las exportaciones de 2025 |
 | Sin medidas dirigidas específicamente contra productos chinos | La UE no puede diseñar el mecanismo para discriminar a las empresas chinas |
 
-En otras palabras: **hay límite, pero no es un techo fijo ni un castigo**. El cupo parte de lo que China ya exportó en 2025 y se ajusta al alza, para garantizar a las empresas chinas oportunidades y un crecimiento estable. Eso es lo que convierte las cuotas en algo distinto de los aranceles: el arancel encarece cada coche; la cuota pone un tope al número de coches que pueden entrar, pero dentro de ese tope se entra sin la penalización arancelaria.
+Dicho de otro modo: **existe un tope, pero ni queda congelado ni funciona como sanción**. El límite arranca de lo exportado por China en 2025 y se revisa al alza, de forma que las compañías chinas conservan margen y una senda de crecimiento estable. Ahí reside la diferencia frente a un arancel: el gravamen encarece cada unidad; el cupo acota cuántas unidades entran, pero dentro de ese cupo se entra sin la penalización arancelaria.
 
-Ojo al matiz importante: **los aranceles de hasta el 45,3% a los eléctricos fabricados en China siguen vigentes** (derecho compensatorio definitivo del 7,8% al 35,3% según el fabricante, más el arancel general del 10%; Reglamento (UE) 2024/2754, en vigor desde el 30 de octubre de 2024 por cinco años). Lo que se aparca, por el momento, es la amenaza de nuevos aranceles sobre los híbridos. Y aún falta el texto legal: la cifra del cupo ya está sobre la mesa, pero el mecanismo de reparto por origen, los precios mínimos y las excepciones siguen pendientes de negociación técnica.
+Conviene no confundir planos: **los gravámenes de hasta el 45,3% sobre los eléctricos fabricados en China continúan en vigor** (compensación definitiva entre el 7,8% y el 35,3% según marca, sumada al gravamen general del 10%; Reglamento (UE) 2024/2754, aplicable desde el 30 de octubre de 2024 durante cinco ejercicios). Lo que queda aparcado, por ahora, es la amenaza de gravámenes nuevos sobre los híbridos. Y falta el documento jurídico: la cifra del cupo ya circula, pero el sistema de asignación por origen, los suelos de precio y los supuestos exentos siguen pendientes de negociación técnica.
 
-## El número que puso Bruselas el mismo día: 350.000
+## La cifra que aportó Bruselas ese mismo día
 
-El mismo 12 de octubre, la Comisión detalló en rueda de prensa la cifra que faltaba, según informó Reuters:
+Ese mismo 12 de octubre, la Comisión concretó en rueda de prensa la cifra pendiente, según informó Reuters:
 
 | Dato del 12/10 (Comisión) | Cifra |
 |---|---|
@@ -812,9 +812,9 @@ El mismo 12 de octubre, la Comisión detalló en rueda de prensa la cifra que fa
 | Ritmo actual de importaciones chinas de híbridos | ~800.000 vehículos en 2026 (estimación de la Comisión) |
 | Cuota de los vehículos fabricados en China en el mercado UE | Del ~12% actual al ~6% previsto |
 
-La salvaguardia se formula para todos los orígenes —por el principio de no discriminación de la OMC—, pero la cuota de China no será inferior a la de ningún otro proveedor. Y la cifra cuadra con lo que Pekín comunicó: en 2025 la UE importó 302.000 híbridos desde China (107.000 en 2024, datos Eurostat citados por el Ministerio de Comercio chino), así que un tope de 350.000 parte por encima de la base de 2025 y crece un 6% anual. Frente al ritmo de ~800.000 de 2026, el recorte es de más de la mitad: el «varios millones de vehículos menos en cuatro años» del que hablaba Šefčovič ya tiene número.
+El mecanismo se diseña para todos los orígenes, en virtud del principio de no discriminación de la OMC, aunque el cupo chino no quedará por debajo del de ningún otro origen. La cifra encaja con lo comunicado por Pekín: las importaciones comunitarias desde China fueron de 302.000 híbridos en 2025, tras 107.000 en 2024, según cifras de Eurostat difundidas por el Ministerio de Comercio chino. Así, el límite de 350.000 supera el punto de partida de 2025 y se incrementa un 6% cada año. Comparado con el volumen cercano a 800.000 unidades que se registra en 2026, la rebaja pasa de la mitad: la previsión de varios millones de unidades menos a lo largo de cuatro ejercicios que manejaba Šefčovič ya tiene número.
 
-## Cuotas o aranceles: qué cambia de verdad
+## Cupo frente a gravamen: la diferencia práctica
 
 | | Aranceles | Cuotas |
 |---|---|---|
@@ -824,11 +824,11 @@ La salvaguardia se formula para todos los orígenes —por el principio de no di
 | Incertidumbre | El tipo arancelario puede subir | El reparto del cupo y las excepciones aún no se conocen |
 | Respuesta lógica de las marcas | Subir precios o absorber el coste | Fabricar en Europa o subir de gama |
 
-Por eso los analistas describen el momento como el fin de un riesgo y el principio de otro: se acaba el riesgo de que los híbridos chinos reciban un arancelazo, pero empieza el riesgo de que el cupo se quede corto. Y ante un cupo, la jugada lógica para un fabricante chino es doble: **fabricar en Europa** (lo que se produce aquí no cuenta como importación) y **subir de gama** (si solo puedes vender un número limitado de coches, mejor que sean los más caros y rentables).
+Ante ese escenario, lo sensato para una marca china pasa por dos vías: **producir en suelo europeo** (esas unidades no computan como importadas) y **orientarse a segmentos altos** (con un volumen acotado, conviene que cada coche vendido deje más margen). Se cierra así el riesgo de un arancelazo sobre los híbridos chinos, pero se abre otro: que el cupo resulte escaso.
 
-## Por qué los híbridos eran la vía de escape
+## Por qué los híbridos se convirtieron en la salida
 
-El pacto solo se entiende con el contexto: a finales de 2024 la UE impuso aranceles de hasta el 45,3% a los eléctricos fabricados en China. Las marcas chinas respondieron desviando su ofensiva hacia los híbridos y los híbridos enchufables, que no pagaban esos aranceles. El resultado fue una avalancha:
+El origen está a finales de 2024, cuando Bruselas gravó con hasta el 45,3% los eléctricos fabricados en China. La respuesta de las marcas chinas fue volcar su ofensiva en híbridos e híbridos enchufables, exentos de esos gravámenes. El resultado fue una avalancha:
 
 | Indicador | Dato | Fuente |
 |---|---|---|
@@ -841,20 +841,20 @@ El pacto solo se entiende con el contexto: a finales de 2024 la UE impuso arance
 | Importaciones chinas de híbridos, unidades (Eurostat) | 107.000 en 2024; 302.000 en 2025 | Ministerio de Comercio de China, 12/10 |
 | Tope desde el 1/12/2026 | 350.000/año, +6% anual, 4 años | Comisión Europea, 12/10 (vía Reuters) |
 
-El híbrido enchufable chino más vendido en Europa en los primeros ocho meses del año fue el <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica>BYD Seal U DM-i</a>, y BYD vendió más híbridos enchufables que eléctricos puros en ese periodo. La escasa infraestructura de recarga en algunas zonas de Europa también empujó la demanda de estos modelos, que se venden por su gran autonomía y su bajo consumo.
+En los ocho primeros meses del ejercicio, el híbrido enchufable chino con más ventas en Europa fue el <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica>BYD Seal U DM-i</a>; además, BYD colocó en ese tramo más híbridos enchufables que eléctricos puros. La red de recarga todavía corta en parte de Europa también impulsó estos modelos, apreciados por su autonomía amplia y su consumo reducido.
 
-## Qué significa para ti si quieres un híbrido chino en España
+## Qué supone si valoras un híbrido chino en España
 
-**A corto plazo, nada cambia.** El texto legal aún no se ha publicado —aunque la entrada en vigor prevista es el 1 de diciembre—, el stock que ya está en los concesionarios españoles no se toca, y los coches en camino tampoco. Lo que cambia es el escenario a medio plazo (2027 en adelante):
+**De momento, todo sigue igual.** El documento jurídico sigue sin publicarse —pese a que el arranque previsto apunta al 1 de diciembre—, las unidades ya almacenadas en concesionarios españoles quedan intactas, y también las que vienen de camino. El panorama que sí se mueve es el de medio plazo, a partir de 2027:
 
-- **Oferta más contenida**: si el crecimiento de las exportaciones se frena, habrá menos unidades chinas y, con ellas, **menos promociones y precios menos agresivos**.
-- **Los modelos más vendidos están en el punto de mira**: <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica>BYD Seal U DM-i</a>, <a href=/coches/omoda-9-shs-precio-ficha-tecnica>Omoda 9 SHS</a>, <a href=/coches/jaecoo-7-shs-hibrido-enchufable-precio-ficha-tecnica>Jaecoo 7 SHS</a> y los híbridos de <a href=/coches/mg-hs-hybrid-plus-2025-precio-ficha-tecnica>MG</a> son justo el perfil que Bruselas quiere moderar. Si tienes uno en la lista, comparar precios ahora puede salir más barato que esperar.
-- **Las marcas que fabrican en Europa quedan mejor posicionadas**: la producción local esquiva el problema de raíz (ver tabla de abajo).
-- **Las etiquetas DGT y las ZBE no cambian**: el acuerdo es comercial, no ambiental. Un híbrido enchufable sigue con su etiqueta 0 y sus ventajas en las Zonas de Bajas Emisiones.
+- **Oferta más contenida**: si el flujo exportador se modera, entrarán menos unidades chinas y, con ellas, se aflojarán las promociones y los precios agresivos.
+- **Los superventas, bajo el foco**: <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica>BYD Seal U DM-i</a>, <a href=/coches/omoda-9-shs-precio-ficha-tecnica>Omoda 9 SHS</a>, <a href=/coches/jaecoo-7-shs-hibrido-enchufable-precio-ficha-tecnica>Jaecoo 7 SHS</a> y los híbridos de <a href=/coches/mg-hs-hybrid-plus-2025-precio-ficha-tecnica>MG</a> encajan justo en el perfil que Bruselas pretende moderar. Si alguno está en tu lista, contrastar precios ahora puede resultar más económico que aguardar.
+- **Producir en Europa da ventaja**: la producción local sortea el problema desde su origen (ver tabla más adelante).
+- **Etiquetas DGT y ZBE, sin cambios**: el acuerdo es comercial, no ambiental. Un enchufable mantiene su distintivo 0 y las ventajas asociadas en las Zonas de Bajas Emisiones.
 
-## Quién fabrica ya (o va a fabricar) en Europa
+## Producción europea: quién está y quién llega
 
-Esta es la lista que el pacto pone en valor. Si el acceso por importación se restringe, producir cerca del cliente es la jugada lógica:
+Este es el listado que el acuerdo revaloriza: si la entrada por importación se estrecha, fabricar junto al cliente resulta lo más sensato:
 
 | Marca / grupo | Planta en Europa | Estado |
 |---|---|---|
@@ -862,11 +862,11 @@ Esta es la lista que el pacto pone en valor. Si el acceso por importación se re
 | Leapmotor + Stellantis | Figueruelas, Zaragoza (España) | Producción en serie del Leapmotor B10 iniciada el 12/10/2026 (anunciada en el Salón de París); el B05, después |
 | BYD | Szeged (Hungría) | Primera planta europea de turismos de BYD, producción prevista para el 4º trimestre de 2026; primeros modelos, Dolphin Surf y Atto 2. El plan de Turquía queda en pausa |
 
-El caso español es el más directo: un <a href=/coches/ebro-s400-2025-precio-ficha-tecnica>Ebro S400</a> montado en Barcelona o un <a href=/coches/leapmotor-b10-electrico-precio-espana>Leapmotor B10</a> salido de Zaragoza no son importaciones desde China, así que el cupo no los toca. Lo mismo vale para un <a href=/coches/byd-dolphin-surf-precio-ficha-tecnica>BYD Dolphin Surf</a> fabricado en Hungría o un <a href=/coches/byd-atto-2-precio-ficha-tecnica>BYD Atto 2</a> que se sume después a esa planta.
+El ejemplo español es el más claro: un <a href=/coches/ebro-s400-2025-precio-ficha-tecnica>Ebro S400</a> ensamblado en Barcelona o un <a href=/coches/leapmotor-b10-electrico-precio-espana>Leapmotor B10</a> procedente de Zaragoza no computan como envíos desde China, así que el cupo no les afecta. Igual ocurre con un <a href=/coches/byd-dolphin-surf-precio-ficha-tecnica>BYD Dolphin Surf</a> producido en Hungría o un <a href=/coches/byd-atto-2-precio-ficha-tecnica>BYD Atto 2</a> que se incorpore más adelante a esa factoría.
 
-La contrapartida, que los propios analistas señalan: **fabricar en Europa exige capital**. Los actores más pequeños pueden replantearse sus ambiciones europeas si el acceso por importación se estrecha. Y si las marcas chinas se ven empujadas a subir de gama, la presión llegará también a las marcas prémium alemanas.
+La otra cara, que también apuntan los analistas: producir en Europa requiere capital. Los fabricantes de menor tamaño podrían revisar sus planes europeos si la vía importadora se angosta. Y si las firmas chinas se ven llevadas a gamas altas, la tensión alcanzará igualmente a las prémium alemanas.
 
-## Calendario: qué pasa ahora
+## Fechas que vienen a continuación
 
 | Fecha | Hito |
 |---|---|
@@ -878,40 +878,40 @@ La contrapartida, que los propios analistas señalan: **fabricar en Europa exige
 | 4º trimestre de 2026 | BYD prevé iniciar la producción en Szeged (Hungría) |
 | 1 de diciembre de 2026 | Entrada en vigor prevista de la salvaguardia: tope de 350.000 híbridos chinos/año |
 
-En paralelo siguen los procedimientos sobre posibles compromisos de precios de las empresas y la revisión del caso antisubvenciones contra los eléctricos chinos.
+En paralelo continúan los expedientes sobre eventuales compromisos de precios por parte de las compañías y la revisión del expediente antisubvenciones contra los eléctricos chinos.
 
 ## Preguntas frecuentes
 
-### ¿Las cuotas sustituyen a todos los aranceles a los coches chinos?
+### ¿Cuánto permite entrar el cupo cada año?
 
-No. Los aranceles de hasta el 45,3% a los eléctricos fabricados en China siguen vigentes (derecho compensatorio del 7,8% al 35,3% según el fabricante + arancel general del 10%). Lo que se aparca por el momento es la amenaza de nuevos aranceles sobre los híbridos: en su lugar, habrá un cupo al número de híbridos que pueden entrar.
+El tope anual es de 350.000 unidades entre híbridos e híbridos enchufables, previsto desde comienzos de diciembre de 2026 —día 1, aún sin ratificar— y con incrementos anuales del 6% durante cuatro ejercicios. El punto de partida rebasa las 302.000 unidades traídas en 2025 y queda muy lejos del volumen cercano a 800.000 que se registra en 2026.
 
-### ¿Van a subir de precio los híbridos chinos en España?
+### ¿Desaparecen los aranceles sobre los coches chinos?
 
-A corto plazo no: el acuerdo aún no se aplica y el stock actual no se toca. A medio plazo (2027 en adelante), una oferta más contenida puede reducir las promociones y tensar los precios. Si estás decidido, comparar ahora puede salir más barato que esperar.
+No. Los gravámenes de hasta el 45,3% sobre los eléctricos fabricados en China continúan vigentes: compensación definitiva entre el 7,8% y el 35,3% según marca, sumada al gravamen general del 10%. Lo que queda aparcado por ahora es la amenaza de gravámenes nuevos sobre los híbridos, sustituida por el cupo.
 
-### ¿El acuerdo prohíbe vender híbridos chinos en Europa?
+### ¿Se encarecerán los híbridos chinos en España?
 
-No. No es una prohibición: es un cupo de 350.000 vehículos al año, con entrada en vigor prevista para principios de diciembre (1 de diciembre, pendiente de confirmación), con un aumento del 6% anual durante cuatro años. Los coches seguirán llegando, pero a un ritmo de menos de la mitad del actual (~800.000 en 2026). Además, el cupo de China no será inferior al de ningún otro proveedor y se ajustará al alza sobre las cifras de 2025 (302.000 unidades).
+De momento no: el acuerdo todavía no se aplica y el stock actual queda intacto. A medio plazo, desde 2027, una oferta más contenida puede recortar las promociones y tensionar los precios. Si la decisión está tomada, contrastar ahora puede resultar más económico que aguardar.
 
-### ¿De cuánto es el cupo exactamente?
+### ¿Queda prohibida la venta de híbridos chinos en Europa?
 
-350.000 vehículos al año para los híbridos chinos (híbridos e híbridos enchufables), con entrada en vigor prevista para principios de diciembre de 2026 (1 de diciembre, pendiente de confirmación), con un aumento del 6% anual durante cuatro años. La cifra parte por encima de las 302.000 unidades importadas en 2025 y queda muy por debajo del ritmo de ~800.000 de 2026.
+No. No se trata de una veda: el cupo anual es de 350.000 unidades, previsto desde comienzos de diciembre —día 1, aún sin ratificar— y con subidas anuales del 6% durante cuatro ejercicios. Los coches seguirán llegando, pero a menos de la mitad del volumen cercano a 800.000 de 2026. Además, el cupo chino quedará al menos igual que el de cualquier otro origen y se revisará al alza desde las cifras de 2025 (302.000 unidades).
 
-### ¿Afecta a los coches chinos fabricados en Europa?
+### ¿Qué ocurre con los modelos ensamblados en Europa?
 
-El pacto se refiere a las exportaciones desde China. Los modelos fabricados en plantas europeas —Ebro en Barcelona, Leapmotor en Zaragoza (producción del B10 iniciada el 12/10), BYD en Hungría (4º trim. 2026)— quedan fuera de esa lógica, lo que les da ventaja.
+El acuerdo regula las exportaciones desde China. Quienes ensamblan en factorías europeas —caso de Ebro en Barcelona, de Leapmotor en Zaragoza, donde el B10 arrancó el 12 de octubre, o de BYD en Hungría, que apunta al último trimestre de 2026— escapan a esa lógica y ganan ventaja.
 
-### ¿Cuándo se sabrá cómo se aplica el cupo?
+### ¿Cuándo se conocerá la aplicación concreta del cupo?
 
-La cifra (350.000/año, +6%, 4 años) ya la detalló la Comisión el 12/10. La cumbre de líderes del jueves 15 de octubre la discutirá primero; después, la Comisión debe publicar el texto legal con el mecanismo de reparto, los precios mínimos y las excepciones. Hasta entonces, falta la letra pequeña jurídica.
+El volumen anual, su subida del 6% y su vigencia de cuatro ejercicios ya los concretó la Comisión el 12 de octubre. Primero la abordarán los líderes europeos en su cumbre del jueves 15 de octubre; luego, la Comisión deberá difundir la norma con el sistema de asignación, los suelos de precio y los supuestos exentos. Mientras tanto, el detalle jurídico sigue pendiente.
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 
+*Publicado el 14 de octubre de 2026 como continuación de la serie: <a href=/blog/ue-bruselas-cuotas-hibridos-chinos/>Bruselas frena a los híbridos chinos</a> del 8 de octubre y <a href=/blog/ue-china-freno-hibridos-enchufables/>UE y China pactan freno a híbridos</a> del 11 de octubre.*
 
-*Artículo publicado el 14 de octubre de 2026. Tercera entrega de la serie: <a href=/blog/ue-bruselas-cuotas-hibridos-chinos/>Bruselas frena a los híbridos chinos</a> (08/10) y <a href=/blog/ue-china-freno-hibridos-enchufables/>UE y China pactan freno a híbridos</a> (11/10).*
-
-*Fuentes: <a href=https://www.reuters.com/es/negocio/IXA5ART5XJLSBKN2T5JQLGGJHY-2026-10-12/>Reuters (Ministerio de Comercio de China, 12/10)</a>, <a href=https://www.reuters.com/es/negocio/APNLFUKKC5MKTHQ7EPF3354NQQ-2026-10-12/>Reuters (restricciones al auge de híbridos chinos, 12/10)</a>, <a href=https://www.reuters.com/business/autos-transportation/eu-eyes-december-trade-initiatives-after-china-car-import-deal-2026-10-12/>Reuters (iniciativas de diciembre, 12/10)</a>, Reglamento de Ejecución (UE) 2024/2754.*`,
+*Fuentes: <a href=https://www.reuters.com/es/negocio/IXA5ART5XJLSBKN2T5JQLGGJHY-2026-10-12/>Reuters (Ministerio de Comercio de China, 12/10)</a>, <a href=https://www.reuters.com/es/negocio/APNLFUKKC5MKTHQ7EPF3354NQQ-2026-10-12/>Reuters (restricciones al auge de híbridos chinos, 12/10)</a>, <a href=https://www.reuters.com/business/autos-transportation/eu-eyes-december-trade-initiatives-after-china-car-import-deal-2026-10-12/>Reuters (iniciativas de diciembre, 12/10)</a>, Reglamento de Ejecución (UE) 2024/2754.*
+`,
   },
 
   {
@@ -7114,9 +7114,9 @@ Es su sucesor conceptual: recupera el nombre y los rasgos icónicos del cupé RC
   },
   {
     slug: "cuotas-hibridos-chinos-ue-china-2026",
-    title: "Cuota de 350.000 híbridos chinos: qué cambia en España",
+    title: "UE y China acuerdan un cupo de 350.000 híbridos al año",
     excerpt:
-      "Tercera entrega de la serie: la Comisión fijó el cupo en 350.000 híbridos chinos al año, con entrada en vigor prevista para principios de diciembre (1 de diciembre, pendiente de confirmación) y +6% anual durante 4 años. Qué cambia en España.",
+      "Bruselas y Pekín cambian aranceles por un tope de 350.000 híbridos chinos al año, desde el 1 de diciembre y con subidas del 6% durante cuatro años.",
     category: "Actualidad",
     date: "2026-10-14",
     readTime: 9,
@@ -7131,17 +7131,17 @@ Es su sucesor conceptual: recupera el nombre y los rasgos icónicos del cupé RC
     ],
     content: `<img src=/media/cuotas-hibridos-chinos-ue-china-2026-hero.webp alt=Buques portacoches en el puerto europeo de Bremerhaven, por donde llegan los coches importados>
 
-*Foto: Dietmar Rabich / Wikimedia Commons / CC BY-SA 4.0. Imagen temática: portacoches genéricos en un puerto europeo, no híbridos chinos en concreto.*
+*Imagen: portacoches genéricos atracados en un puerto del continente, fotografía de Dietmar Rabich difundida en Wikimedia Commons bajo licencia CC BY-SA 4.0; se trata de una ilustración del transporte marítimo en general, no de modelos híbridos chinos concretos.*
 
-## Cuota de 350.000 híbridos chinos: qué cambia en España
+## El pacto del 12 de octubre, en cifras
 
-**La Unión Europea y China han cerrado la segunda parte del pacto sobre los híbridos: en vez de nuevos aranceles, habrá cuotas. El lunes 12 de octubre, Pekín precisó cómo se reparten —China se queda con una cuota no inferior a la de ningún otro proveedor, calculada al alza sobre las cifras de 2025— y Bruselas puso el número: 350.000 vehículos al año, con entrada en vigor prevista para principios de diciembre (1 de diciembre, pendiente de confirmación), con un aumento del 6% anual durante cuatro años.** Es el giro que faltaba para entender el acuerdo anunciado el 9 de octubre, y cambia el escenario para quien esté pensando en comprar un híbrido enchufable chino en España.
+El 12 de octubre, Bruselas y Pekín cerraron la segunda fase de su entendimiento sobre los híbridos: no habrá, de momento, gravámenes nuevos sobre estos coches, sino un límite a la cantidad que puede entrar. La Comisión fijó ese límite en 350.000 unidades anuales, con arranque previsto a comienzos de diciembre —el día 1, todavía sin ratificar— y subidas anuales del 6% durante cuatro ejercicios. El anuncio completa lo adelantado el 9 de octubre y aclara el panorama para quien valore comprar en España un híbrido enchufable fabricado en China.
 
-Si te perdiste el primer capítulo, aquí está el contexto: el 8 de octubre contamos que <a href=/blog/ue-bruselas-cuotas-hibridos-chinos/>Bruselas preparaba cuotas unilaterales con aranceles</a> tras el rechazo chino a limitar sus exportaciones, y el 11 de octubre que <a href=/blog/ue-china-freno-hibridos-enchufables/>UE y China habían pactado moderar esas exportaciones</a>. Lo del 12 de octubre es la letra pequeña de ese pacto.
+El recorrido previo está en dos entregas anteriores: el 8 de octubre explicamos que <a href=/blog/ue-bruselas-cuotas-hibridos-chinos/>Bruselas preparaba cuotas unilaterales con aranceles</a> ante la negativa china a autolimitar sus envíos, y el 11 de octubre que <a href=/blog/ue-china-freno-hibridos-enchufables/>UE y China habían pactado moderar esas exportaciones</a>. Lo comunicado el día 12 es el detalle operativo de aquel entendimiento.
 
-## Lo que precisó Pekín el 12 de octubre
+## Qué matizó Pekín sobre el reparto
 
-Tras las consultas intensivas entre ambas partes, el Ministerio de Comercio chino comunicó tres precisiones clave sobre los híbridos:
+El Ministerio de Comercio chino, después de rondas intensivas de diálogo con la otra parte, detalló tres matices sobre los híbridos:
 
 | Precisión del 12/10 | Qué significa |
 |---|---|
@@ -7149,13 +7149,13 @@ Tras las consultas intensivas entre ambas partes, el Ministerio de Comercio chin
 | Ajuste al alza sobre las cifras de 2025 | El cupo no se congela: crece tomando como base las exportaciones de 2025 |
 | Sin medidas dirigidas específicamente contra productos chinos | La UE no puede diseñar el mecanismo para discriminar a las empresas chinas |
 
-En otras palabras: **hay límite, pero no es un techo fijo ni un castigo**. El cupo parte de lo que China ya exportó en 2025 y se ajusta al alza, para garantizar a las empresas chinas oportunidades y un crecimiento estable. Eso es lo que convierte las cuotas en algo distinto de los aranceles: el arancel encarece cada coche; la cuota pone un tope al número de coches que pueden entrar, pero dentro de ese tope se entra sin la penalización arancelaria.
+Dicho de otro modo: **existe un tope, pero ni queda congelado ni funciona como sanción**. El límite arranca de lo exportado por China en 2025 y se revisa al alza, de forma que las compañías chinas conservan margen y una senda de crecimiento estable. Ahí reside la diferencia frente a un arancel: el gravamen encarece cada unidad; el cupo acota cuántas unidades entran, pero dentro de ese cupo se entra sin la penalización arancelaria.
 
-Ojo al matiz importante: **los aranceles de hasta el 45,3% a los eléctricos fabricados en China siguen vigentes** (derecho compensatorio definitivo del 7,8% al 35,3% según el fabricante, más el arancel general del 10%; Reglamento (UE) 2024/2754, en vigor desde el 30 de octubre de 2024 por cinco años). Lo que se aparca, por el momento, es la amenaza de nuevos aranceles sobre los híbridos. Y aún falta el texto legal: la cifra del cupo ya está sobre la mesa, pero el mecanismo de reparto por origen, los precios mínimos y las excepciones siguen pendientes de negociación técnica.
+Conviene no confundir planos: **los gravámenes de hasta el 45,3% sobre los eléctricos fabricados en China continúan en vigor** (compensación definitiva entre el 7,8% y el 35,3% según marca, sumada al gravamen general del 10%; Reglamento (UE) 2024/2754, aplicable desde el 30 de octubre de 2024 durante cinco ejercicios). Lo que queda aparcado, por ahora, es la amenaza de gravámenes nuevos sobre los híbridos. Y falta el documento jurídico: la cifra del cupo ya circula, pero el sistema de asignación por origen, los suelos de precio y los supuestos exentos siguen pendientes de negociación técnica.
 
-## El número que puso Bruselas el mismo día: 350.000
+## La cifra que aportó Bruselas ese mismo día
 
-El mismo 12 de octubre, la Comisión detalló en rueda de prensa la cifra que faltaba, según informó Reuters:
+Ese mismo 12 de octubre, la Comisión concretó en rueda de prensa la cifra pendiente, según informó Reuters:
 
 | Dato del 12/10 (Comisión) | Cifra |
 |---|---|
@@ -7166,9 +7166,9 @@ El mismo 12 de octubre, la Comisión detalló en rueda de prensa la cifra que fa
 | Ritmo actual de importaciones chinas de híbridos | ~800.000 vehículos en 2026 (estimación de la Comisión) |
 | Cuota de los vehículos fabricados en China en el mercado UE | Del ~12% actual al ~6% previsto |
 
-La salvaguardia se formula para todos los orígenes —por el principio de no discriminación de la OMC—, pero la cuota de China no será inferior a la de ningún otro proveedor. Y la cifra cuadra con lo que Pekín comunicó: en 2025 la UE importó 302.000 híbridos desde China (107.000 en 2024, datos Eurostat citados por el Ministerio de Comercio chino), así que un tope de 350.000 parte por encima de la base de 2025 y crece un 6% anual. Frente al ritmo de ~800.000 de 2026, el recorte es de más de la mitad: el «varios millones de vehículos menos en cuatro años» del que hablaba Šefčovič ya tiene número.
+El mecanismo se diseña para todos los orígenes, en virtud del principio de no discriminación de la OMC, aunque el cupo chino no quedará por debajo del de ningún otro origen. La cifra encaja con lo comunicado por Pekín: las importaciones comunitarias desde China fueron de 302.000 híbridos en 2025, tras 107.000 en 2024, según cifras de Eurostat difundidas por el Ministerio de Comercio chino. Así, el límite de 350.000 supera el punto de partida de 2025 y se incrementa un 6% cada año. Comparado con el volumen cercano a 800.000 unidades que se registra en 2026, la rebaja pasa de la mitad: la previsión de varios millones de unidades menos a lo largo de cuatro ejercicios que manejaba Šefčovič ya tiene número.
 
-## Cuotas o aranceles: qué cambia de verdad
+## Cupo frente a gravamen: la diferencia práctica
 
 | | Aranceles | Cuotas |
 |---|---|---|
@@ -7178,11 +7178,11 @@ La salvaguardia se formula para todos los orígenes —por el principio de no di
 | Incertidumbre | El tipo arancelario puede subir | El reparto del cupo y las excepciones aún no se conocen |
 | Respuesta lógica de las marcas | Subir precios o absorber el coste | Fabricar en Europa o subir de gama |
 
-Por eso los analistas describen el momento como el fin de un riesgo y el principio de otro: se acaba el riesgo de que los híbridos chinos reciban un arancelazo, pero empieza el riesgo de que el cupo se quede corto. Y ante un cupo, la jugada lógica para un fabricante chino es doble: **fabricar en Europa** (lo que se produce aquí no cuenta como importación) y **subir de gama** (si solo puedes vender un número limitado de coches, mejor que sean los más caros y rentables).
+Ante ese escenario, lo sensato para una marca china pasa por dos vías: **producir en suelo europeo** (esas unidades no computan como importadas) y **orientarse a segmentos altos** (con un volumen acotado, conviene que cada coche vendido deje más margen). Se cierra así el riesgo de un arancelazo sobre los híbridos chinos, pero se abre otro: que el cupo resulte escaso.
 
-## Por qué los híbridos eran la vía de escape
+## Por qué los híbridos se convirtieron en la salida
 
-El pacto solo se entiende con el contexto: a finales de 2024 la UE impuso aranceles de hasta el 45,3% a los eléctricos fabricados en China. Las marcas chinas respondieron desviando su ofensiva hacia los híbridos y los híbridos enchufables, que no pagaban esos aranceles. El resultado fue una avalancha:
+El origen está a finales de 2024, cuando Bruselas gravó con hasta el 45,3% los eléctricos fabricados en China. La respuesta de las marcas chinas fue volcar su ofensiva en híbridos e híbridos enchufables, exentos de esos gravámenes. El resultado fue una avalancha:
 
 | Indicador | Dato | Fuente |
 |---|---|---|
@@ -7195,20 +7195,20 @@ El pacto solo se entiende con el contexto: a finales de 2024 la UE impuso arance
 | Importaciones chinas de híbridos, unidades (Eurostat) | 107.000 en 2024; 302.000 en 2025 | Ministerio de Comercio de China, 12/10 |
 | Tope desde el 1/12/2026 | 350.000/año, +6% anual, 4 años | Comisión Europea, 12/10 (vía Reuters) |
 
-El híbrido enchufable chino más vendido en Europa en los primeros ocho meses del año fue el <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica>BYD Seal U DM-i</a>, y BYD vendió más híbridos enchufables que eléctricos puros en ese periodo. La escasa infraestructura de recarga en algunas zonas de Europa también empujó la demanda de estos modelos, que se venden por su gran autonomía y su bajo consumo.
+En los ocho primeros meses del ejercicio, el híbrido enchufable chino con más ventas en Europa fue el <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica>BYD Seal U DM-i</a>; además, BYD colocó en ese tramo más híbridos enchufables que eléctricos puros. La red de recarga todavía corta en parte de Europa también impulsó estos modelos, apreciados por su autonomía amplia y su consumo reducido.
 
-## Qué significa para ti si quieres un híbrido chino en España
+## Qué supone si valoras un híbrido chino en España
 
-**A corto plazo, nada cambia.** El texto legal aún no se ha publicado —aunque la entrada en vigor prevista es el 1 de diciembre—, el stock que ya está en los concesionarios españoles no se toca, y los coches en camino tampoco. Lo que cambia es el escenario a medio plazo (2027 en adelante):
+**De momento, todo sigue igual.** El documento jurídico sigue sin publicarse —pese a que el arranque previsto apunta al 1 de diciembre—, las unidades ya almacenadas en concesionarios españoles quedan intactas, y también las que vienen de camino. El panorama que sí se mueve es el de medio plazo, a partir de 2027:
 
-- **Oferta más contenida**: si el crecimiento de las exportaciones se frena, habrá menos unidades chinas y, con ellas, **menos promociones y precios menos agresivos**.
-- **Los modelos más vendidos están en el punto de mira**: <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica>BYD Seal U DM-i</a>, <a href=/coches/omoda-9-shs-precio-ficha-tecnica>Omoda 9 SHS</a>, <a href=/coches/jaecoo-7-shs-hibrido-enchufable-precio-ficha-tecnica>Jaecoo 7 SHS</a> y los híbridos de <a href=/coches/mg-hs-hybrid-plus-2025-precio-ficha-tecnica>MG</a> son justo el perfil que Bruselas quiere moderar. Si tienes uno en la lista, comparar precios ahora puede salir más barato que esperar.
-- **Las marcas que fabrican en Europa quedan mejor posicionadas**: la producción local esquiva el problema de raíz (ver tabla de abajo).
-- **Las etiquetas DGT y las ZBE no cambian**: el acuerdo es comercial, no ambiental. Un híbrido enchufable sigue con su etiqueta 0 y sus ventajas en las Zonas de Bajas Emisiones.
+- **Oferta más contenida**: si el flujo exportador se modera, entrarán menos unidades chinas y, con ellas, se aflojarán las promociones y los precios agresivos.
+- **Los superventas, bajo el foco**: <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica>BYD Seal U DM-i</a>, <a href=/coches/omoda-9-shs-precio-ficha-tecnica>Omoda 9 SHS</a>, <a href=/coches/jaecoo-7-shs-hibrido-enchufable-precio-ficha-tecnica>Jaecoo 7 SHS</a> y los híbridos de <a href=/coches/mg-hs-hybrid-plus-2025-precio-ficha-tecnica>MG</a> encajan justo en el perfil que Bruselas pretende moderar. Si alguno está en tu lista, contrastar precios ahora puede resultar más económico que aguardar.
+- **Producir en Europa da ventaja**: la producción local sortea el problema desde su origen (ver tabla más adelante).
+- **Etiquetas DGT y ZBE, sin cambios**: el acuerdo es comercial, no ambiental. Un enchufable mantiene su distintivo 0 y las ventajas asociadas en las Zonas de Bajas Emisiones.
 
-## Quién fabrica ya (o va a fabricar) en Europa
+## Producción europea: quién está y quién llega
 
-Esta es la lista que el pacto pone en valor. Si el acceso por importación se restringe, producir cerca del cliente es la jugada lógica:
+Este es el listado que el acuerdo revaloriza: si la entrada por importación se estrecha, fabricar junto al cliente resulta lo más sensato:
 
 | Marca / grupo | Planta en Europa | Estado |
 |---|---|---|
@@ -7216,11 +7216,11 @@ Esta es la lista que el pacto pone en valor. Si el acceso por importación se re
 | Leapmotor + Stellantis | Figueruelas, Zaragoza (España) | Producción en serie del Leapmotor B10 iniciada el 12/10/2026 (anunciada en el Salón de París); el B05, después |
 | BYD | Szeged (Hungría) | Primera planta europea de turismos de BYD, producción prevista para el 4º trimestre de 2026; primeros modelos, Dolphin Surf y Atto 2. El plan de Turquía queda en pausa |
 
-El caso español es el más directo: un <a href=/coches/ebro-s400-2025-precio-ficha-tecnica>Ebro S400</a> montado en Barcelona o un <a href=/coches/leapmotor-b10-electrico-precio-espana>Leapmotor B10</a> salido de Zaragoza no son importaciones desde China, así que el cupo no los toca. Lo mismo vale para un <a href=/coches/byd-dolphin-surf-precio-ficha-tecnica>BYD Dolphin Surf</a> fabricado en Hungría o un <a href=/coches/byd-atto-2-precio-ficha-tecnica>BYD Atto 2</a> que se sume después a esa planta.
+El ejemplo español es el más claro: un <a href=/coches/ebro-s400-2025-precio-ficha-tecnica>Ebro S400</a> ensamblado en Barcelona o un <a href=/coches/leapmotor-b10-electrico-precio-espana>Leapmotor B10</a> procedente de Zaragoza no computan como envíos desde China, así que el cupo no les afecta. Igual ocurre con un <a href=/coches/byd-dolphin-surf-precio-ficha-tecnica>BYD Dolphin Surf</a> producido en Hungría o un <a href=/coches/byd-atto-2-precio-ficha-tecnica>BYD Atto 2</a> que se incorpore más adelante a esa factoría.
 
-La contrapartida, que los propios analistas señalan: **fabricar en Europa exige capital**. Los actores más pequeños pueden replantearse sus ambiciones europeas si el acceso por importación se estrecha. Y si las marcas chinas se ven empujadas a subir de gama, la presión llegará también a las marcas prémium alemanas.
+La otra cara, que también apuntan los analistas: producir en Europa requiere capital. Los fabricantes de menor tamaño podrían revisar sus planes europeos si la vía importadora se angosta. Y si las firmas chinas se ven llevadas a gamas altas, la tensión alcanzará igualmente a las prémium alemanas.
 
-## Calendario: qué pasa ahora
+## Fechas que vienen a continuación
 
 | Fecha | Hito |
 |---|---|
@@ -7232,40 +7232,40 @@ La contrapartida, que los propios analistas señalan: **fabricar en Europa exige
 | 4º trimestre de 2026 | BYD prevé iniciar la producción en Szeged (Hungría) |
 | 1 de diciembre de 2026 | Entrada en vigor prevista de la salvaguardia: tope de 350.000 híbridos chinos/año |
 
-En paralelo siguen los procedimientos sobre posibles compromisos de precios de las empresas y la revisión del caso antisubvenciones contra los eléctricos chinos.
+En paralelo continúan los expedientes sobre eventuales compromisos de precios por parte de las compañías y la revisión del expediente antisubvenciones contra los eléctricos chinos.
 
 ## Preguntas frecuentes
 
-### ¿Las cuotas sustituyen a todos los aranceles a los coches chinos?
+### ¿Cuánto permite entrar el cupo cada año?
 
-No. Los aranceles de hasta el 45,3% a los eléctricos fabricados en China siguen vigentes (derecho compensatorio del 7,8% al 35,3% según el fabricante + arancel general del 10%). Lo que se aparca por el momento es la amenaza de nuevos aranceles sobre los híbridos: en su lugar, habrá un cupo al número de híbridos que pueden entrar.
+El tope anual es de 350.000 unidades entre híbridos e híbridos enchufables, previsto desde comienzos de diciembre de 2026 —día 1, aún sin ratificar— y con incrementos anuales del 6% durante cuatro ejercicios. El punto de partida rebasa las 302.000 unidades traídas en 2025 y queda muy lejos del volumen cercano a 800.000 que se registra en 2026.
 
-### ¿Van a subir de precio los híbridos chinos en España?
+### ¿Desaparecen los aranceles sobre los coches chinos?
 
-A corto plazo no: el acuerdo aún no se aplica y el stock actual no se toca. A medio plazo (2027 en adelante), una oferta más contenida puede reducir las promociones y tensar los precios. Si estás decidido, comparar ahora puede salir más barato que esperar.
+No. Los gravámenes de hasta el 45,3% sobre los eléctricos fabricados en China continúan vigentes: compensación definitiva entre el 7,8% y el 35,3% según marca, sumada al gravamen general del 10%. Lo que queda aparcado por ahora es la amenaza de gravámenes nuevos sobre los híbridos, sustituida por el cupo.
 
-### ¿El acuerdo prohíbe vender híbridos chinos en Europa?
+### ¿Se encarecerán los híbridos chinos en España?
 
-No. No es una prohibición: es un cupo de 350.000 vehículos al año, con entrada en vigor prevista para principios de diciembre (1 de diciembre, pendiente de confirmación), con un aumento del 6% anual durante cuatro años. Los coches seguirán llegando, pero a un ritmo de menos de la mitad del actual (~800.000 en 2026). Además, el cupo de China no será inferior al de ningún otro proveedor y se ajustará al alza sobre las cifras de 2025 (302.000 unidades).
+De momento no: el acuerdo todavía no se aplica y el stock actual queda intacto. A medio plazo, desde 2027, una oferta más contenida puede recortar las promociones y tensionar los precios. Si la decisión está tomada, contrastar ahora puede resultar más económico que aguardar.
 
-### ¿De cuánto es el cupo exactamente?
+### ¿Queda prohibida la venta de híbridos chinos en Europa?
 
-350.000 vehículos al año para los híbridos chinos (híbridos e híbridos enchufables), con entrada en vigor prevista para principios de diciembre de 2026 (1 de diciembre, pendiente de confirmación), con un aumento del 6% anual durante cuatro años. La cifra parte por encima de las 302.000 unidades importadas en 2025 y queda muy por debajo del ritmo de ~800.000 de 2026.
+No. No se trata de una veda: el cupo anual es de 350.000 unidades, previsto desde comienzos de diciembre —día 1, aún sin ratificar— y con subidas anuales del 6% durante cuatro ejercicios. Los coches seguirán llegando, pero a menos de la mitad del volumen cercano a 800.000 de 2026. Además, el cupo chino quedará al menos igual que el de cualquier otro origen y se revisará al alza desde las cifras de 2025 (302.000 unidades).
 
-### ¿Afecta a los coches chinos fabricados en Europa?
+### ¿Qué ocurre con los modelos ensamblados en Europa?
 
-El pacto se refiere a las exportaciones desde China. Los modelos fabricados en plantas europeas —Ebro en Barcelona, Leapmotor en Zaragoza (producción del B10 iniciada el 12/10), BYD en Hungría (4º trim. 2026)— quedan fuera de esa lógica, lo que les da ventaja.
+El acuerdo regula las exportaciones desde China. Quienes ensamblan en factorías europeas —caso de Ebro en Barcelona, de Leapmotor en Zaragoza, donde el B10 arrancó el 12 de octubre, o de BYD en Hungría, que apunta al último trimestre de 2026— escapan a esa lógica y ganan ventaja.
 
-### ¿Cuándo se sabrá cómo se aplica el cupo?
+### ¿Cuándo se conocerá la aplicación concreta del cupo?
 
-La cifra (350.000/año, +6%, 4 años) ya la detalló la Comisión el 12/10. La cumbre de líderes del jueves 15 de octubre la discutirá primero; después, la Comisión debe publicar el texto legal con el mecanismo de reparto, los precios mínimos y las excepciones. Hasta entonces, falta la letra pequeña jurídica.
+El volumen anual, su subida del 6% y su vigencia de cuatro ejercicios ya los concretó la Comisión el 12 de octubre. Primero la abordarán los líderes europeos en su cumbre del jueves 15 de octubre; luego, la Comisión deberá difundir la norma con el sistema de asignación, los suelos de precio y los supuestos exentos. Mientras tanto, el detalle jurídico sigue pendiente.
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 
+*Publicado el 14 de octubre de 2026 como continuación de la serie: <a href=/blog/ue-bruselas-cuotas-hibridos-chinos/>Bruselas frena a los híbridos chinos</a> del 8 de octubre y <a href=/blog/ue-china-freno-hibridos-enchufables/>UE y China pactan freno a híbridos</a> del 11 de octubre.*
 
-*Artículo publicado el 14 de octubre de 2026. Tercera entrega de la serie: <a href=/blog/ue-bruselas-cuotas-hibridos-chinos/>Bruselas frena a los híbridos chinos</a> (08/10) y <a href=/blog/ue-china-freno-hibridos-enchufables/>UE y China pactan freno a híbridos</a> (11/10).*
-
-*Fuentes: <a href=https://www.reuters.com/es/negocio/IXA5ART5XJLSBKN2T5JQLGGJHY-2026-10-12/>Reuters (Ministerio de Comercio de China, 12/10)</a>, <a href=https://www.reuters.com/es/negocio/APNLFUKKC5MKTHQ7EPF3354NQQ-2026-10-12/>Reuters (restricciones al auge de híbridos chinos, 12/10)</a>, <a href=https://www.reuters.com/business/autos-transportation/eu-eyes-december-trade-initiatives-after-china-car-import-deal-2026-10-12/>Reuters (iniciativas de diciembre, 12/10)</a>, Reglamento de Ejecución (UE) 2024/2754.*`,
+*Fuentes: <a href=https://www.reuters.com/es/negocio/IXA5ART5XJLSBKN2T5JQLGGJHY-2026-10-12/>Reuters (Ministerio de Comercio de China, 12/10)</a>, <a href=https://www.reuters.com/es/negocio/APNLFUKKC5MKTHQ7EPF3354NQQ-2026-10-12/>Reuters (restricciones al auge de híbridos chinos, 12/10)</a>, <a href=https://www.reuters.com/business/autos-transportation/eu-eyes-december-trade-initiatives-after-china-car-import-deal-2026-10-12/>Reuters (iniciativas de diciembre, 12/10)</a>, Reglamento de Ejecución (UE) 2024/2754.*
+`,
   },
 
   {

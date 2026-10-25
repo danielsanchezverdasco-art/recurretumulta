@@ -136,9 +136,9 @@ No. El concept prescinde de pantalla central: lleva **cinco relojes redondos** c
   },
   {
     slug: "mercedes-amg-gt-suv-electrico-presentacion-oficial",
-    title: "AMG GT SUV eléctrico: 1.169 CV, 700 km y carga en 12 min",
+    title: "Mercedes-AMG GT SUV: 1.169 CV y carga de 710 kW",
     excerpt:
-      "Mercedes-AMG presenta el GT SUV eléctrico: hasta 1.169 CV, 700 km WLTP y carga a 710 kW. El GT 53 cuesta desde 113.050 € en Alemania.",
+      "El GT SUV eléctrico de AMG llega en tres versiones, con hasta 700 km WLTP y carga a 710 kW. El GT 53 parte de 113.050 € en Alemania.",
     category: "Novedades Motor",
     date: "2026-10-17",
     readTime: 7,
@@ -153,13 +153,15 @@ No. El concept prescinde de pantalla central: lleva **cinco relojes redondos** c
     ],
     content: `<img src=/media/mercedes-amg-gt-suv-filtrado-delantero.webp alt=Mercedes-AMG GT SUV eléctrico 2027 en gris, vista delantera tres cuartos en circulación con la parrilla AMG de lamas verticales>
 
-*Imagen del Mercedes-AMG GT SUV de serie (material de prensa difundido unas horas antes del estreno por The Supercar Blog; coincide con el modelo presentado).*
+*Primera imagen de serie del GT SUV, filtrada horas antes de la presentación y difundida por The Supercar Blog; el coche coincide con el presentado.*
 
-Mercedes-AMG ha presentado hoy, 17 de octubre de 2026, el **GT SUV**, el primer SUV de tamaño completo que la marca de Affalterbach desarrolla desde cero. Es el segundo modelo sobre la plataforma eléctrica **AMG.EA**, después del GT 4 puertas Coupé, y llega con tres versiones: **GT 53, GT 55 y GT 63**. El tope de gama declara **1.169 CV y 2.000 Nm**, lo que lo convierte, según la prensa especializada, en el SUV de producción más potente del mercado, por encima del Porsche Cayenne Electric y del Lotus Eletre.
+Affalterbach estrena su primer SUV de gran tamaño desarrollado desde cero: el GT SUV. Tras el GT 4 puertas Coupé, inaugura la plataforma eléctrica AMG.EA como segundo modelo. Se ofrece en GT 53, GT 55 y GT 63, y se dio a conocer el 17 de octubre de 2026.
 
-Por la mañana ya se habían filtrado las dos primeras imágenes del coche de serie, con la matrícula «S GT 591». Por la tarde, la marca ha confirmado todo lo demás: potencias, baterías, autonomía, carga y el primer precio.
+La jornada empezó con dos imágenes del coche de serie filtradas, con matrícula «S GT 591». Ya por la tarde llegaron las cifras oficiales: potencia, batería, autonomía, carga y tarifa inicial.
 
-## Tres versiones: GT 53, GT 55 y GT 63
+El tope de gama declara 2.000 Nm de par y 1.169 CV, y la prensa especializada lo sitúa como el SUV de serie más potente del mercado, por delante del Cayenne Electric de Porsche y del Eletre de Lotus.
+
+## La gama, versión por versión
 
 | Versión | Motores | Potencia máx. | Par máx. | 0-100 km/h | Batería útil | Autonomía WLTP |
 |---|---|---|---|---|---|---|
@@ -167,15 +169,15 @@ Por la mañana ya se habían filtrado las dos primeras imágenes del coche de se
 | GT 55 | 3 de flujo axial | 816 CV (600 kW) | 1.860 Nm | 3,1 s | 106 o 128 kWh | 525-585 km / 620-700 km |
 | GT 63 | 3 de flujo axial | 1.169 CV (860 kW) | 2.000 Nm | 2,7 s | 106 o 128 kWh | 525-585 km / 620-700 km |
 
-*Datos de Mercedes-AMG recogidos por ADAC, Autocar y Auto Motor und Sport. En el GT 55 y el GT 63 la primera cifra de autonomía es con la batería de 106 kWh y la segunda con la de 128 kWh. La prensa de EE. UU. da 1.153 hp (SAE), que equivalen a los 1.169 CV métricos.*
+*Cifras oficiales de Mercedes-AMG, recopiladas por ADAC y Autocar, además de Auto Motor und Sport. En GT 55 y GT 63, el primer intervalo de autonomía corresponde a la batería de 106 kWh y el segundo a la de 128 kWh. La prensa estadounidense expresa 1.153 hp (SAE), equivalentes a 1.169 CV.*
 
-En el GT 55 y el GT 63, dos motores de flujo axial van en el eje trasero (con reparto de par entre ruedas) y el tercero en el delantero, que hace de «booster»: se desacopla cuando no hace falta para reducir pérdidas y vuelve a engranar al acelerar o al recuperar energía. El GT 53 usa dos motores síncronos de imanes permanentes, uno por eje, con un **cambio de dos velocidades** en el trasero.
+El GT 53 combina dos síncronos de imanes permanentes, uno en cada eje, y un cambio trasero de dos velocidades. En las dos versiones altas, el eje trasero monta dos motores de flujo axial con reparto de par entre ruedas, mientras el delantero, un tercer motor, funciona como «booster» y se desconecta en cuanto no se necesita, para recortar pérdidas, reconectando al acelerar o al recuperar energía.
 
-La **potencia continua** también es llamativa: 530 kW (721 CV) en el GT 55 y el GT 63, y 270 kW (367 CV) en el GT 53. La potencia máxima de «boost» se puede mantener 63 segundos en el GT 63, 55 en el GT 55 y 53 en el GT 53. Con el **AMG Driver's Package**, la velocidad máxima sube a 250 km/h en el GT 53 y a 270 km/h en el GT 55 y el GT 63. El GT 63 pasa de 0 a 200 km/h en 7,2 segundos.
+La potencia continua queda en 270 kW (367 CV) para el GT 53 y en 530 kW (721 CV) para GT 55 y GT 63. El impulso máximo dura 63 s en el GT 63, 55 s en el GT 55 y 53 s en el GT 53. El paquete AMG Driver's Package eleva el tope a 270 km/h en GT 55 y GT 63, y a 250 km/h para el GT 53. El 0 a 200 km/h le lleva 7,2 segundos al GT 63.
 
-## Batería de 800 V y carga a 710 kW
+## Carga: 800 voltios y hasta 710 kW
 
-La batería trabaja a **800 voltios** y usa celdas cilíndricas de 26 x 105 mm, con más de 298 Wh/kg. Cada celda está bañada en un aceite que no conduce la electricidad para mantener la temperatura homogénea, y eso es lo que permite cargar y descargar tan fuerte durante tanto tiempo.
+A 800 voltios trabaja la batería, con celdas cilíndricas de 26 x 105 mm y más de 298 Wh/kg. Cada celda va sumergida en un aceite no conductor, lo que mantiene homogénea la temperatura y permite cargar y descargar con tanta fuerza durante tanto tiempo.
 
 | Carga en corriente continua | Batería de 106 kWh | Batería de 128 kWh |
 |---|---|---|
@@ -185,64 +187,67 @@ La batería trabaja a **800 voltios** y usa celdas cilíndricas de 26 x 105 mm, 
 | Autonomía WLTP recuperada en 10 min | hasta 386 km | hasta 454 km |
 | Del 10 al 80 % en un cargador de 400 kW | 14 min | 16 min |
 
-En la práctica, casi ningún cargador público de España da hoy 600 o 710 kW, así que esos tiempos son un techo teórico. El consumo homologado va de 18,8 a 21,1 kWh/100 km en el GT 53 y de 20,9 a 23,8 kWh/100 km en el GT 55 y el GT 63.
+Puestos a cargar fuera de casa, casi ningún poste público español entrega hoy 600 o 710 kW: esos registros marcan un máximo teórico. El gasto homologado es de 18,8 a 21,1 kWh cada 100 km para el GT 53; GT 55 y GT 63 se mueven entre 20,9 y 23,8.
 
-## Medidas, maletero y peso
+## Dimensiones, maletero y peso
 
-Mide **5.084 mm de largo, 2.001 mm de ancho y 1.656 mm de alto** (el GT 53, 5.080 y 1.653 mm), con 3.040 mm de batalla. Frente al GT 4 puertas es más ancho y bastante más alto. El maletero cubica **607 litros**, que llegan a 1.740 con los respaldos traseros abatidos, y hay un compartimento extra bajo el capó delantero. El coeficiente aerodinámico (Cx) es de 0,27, con trampillas activas delante y un alerón de techo móvil en las versiones más potentes.
+La batalla mide 3.040 mm. Detrás, 607 litros de maletero que suben a 1.740 abatiendo los respaldos traseros, más un hueco extra bajo el capó delantero. En altura, anchura y longitud, el GT SUV marca 1.656 mm, 2.001 mm y 5.084 mm; el GT 53 se queda en 5.080 mm de largo y 1.653 mm de alto. Frente al GT 4 puertas, resulta más ancho y bastante más alto. En aerodinámica, el Cx queda en 0,27 gracias a trampillas activas delanteras y a un alerón móvil sobre el techo en las variantes altas.
 
-No es un peso pluma: el GT 63 llega a **2.695 kg**. Para que eso no se note, monta la suspensión activa **AMG Active Ride Control+**.
+La báscula del GT 63 marca 2.695 kg, y para disimularlos equipa la suspensión activa AMG Active Ride Control+.
 
 <img src=/media/mercedes-amg-gt-suv-filtrado-trasera.webp alt=Mercedes-AMG GT SUV eléctrico 2027, vista trasera tres cuartos con los pilotos circulares y la matrícula S GT 591>
 
-*Vista trasera del Mercedes-AMG GT SUV de serie (material de prensa difundido antes del estreno por The Supercar Blog).*
+*Trasera del GT SUV de serie, con pilotos circulares y la matrícula S GT 591, en material difundido por The Supercar Blog antes del estreno.*
 
-## Interior: pantallas y sonido de V8 simulado
+## Interior: pantallas y sonido
 
-El salpicadero se orienta al conductor, con un cuadro digital de 10,2 pulgadas y una pantalla táctil central de 14. Una tercera pantalla para el acompañante es opcional. Detrás hay un banco de tres plazas, así que es un cinco plazas. Como ya hace el GT 4 puertas, AMG simula el sonido de un V8 y los golpes de cambio de marcha para que el eléctrico «se sienta» como un AMG de gasolina.
+Cinco plazas con banco trasero de tres asientos. Delante, el salpicadero se orienta al conductor: cuadro digital de 10,2 pulgadas y pantalla táctil central de 14, con una tercera pantalla para el acompañante en opción. Al igual que el GT 4 puertas, el GT SUV reproduce un sonido de V8 con golpes de cambio simulados, buscando la sensación de un AMG de gasolina.
 
-## Precio: 113.050 € en Alemania para el GT 53
+## Precios: el GT 53 abre en Alemania
 
-El primero en venderse es el **GT 53**, desde **113.050 €** en Alemania, según ADAC y Autocar. Los GT 55 y GT 63 llegarán más tarde (Autocar habla de abril de 2027) y aún no tienen precio. **En España todavía no hay tarifa oficial**: en cuanto Mercedes-Benz España la publique, la añadiremos. Mientras tanto, tienes todos los datos oficiales de las tres versiones en la <a href=/coches/mercedes-amg-gt-suv-precio-ficha-tecnica/>ficha técnica del Mercedes-AMG GT SUV</a>, con el precio alemán marcado como tal.
+El GT 53 abre la gama comercial, con un precio de partida en Alemania de 113.050 €, según ADAC y Autocar. Para GT 55 y GT 63 habrá que esperar: Autocar apunta a abril de 2027 y todavía no hay precio.
 
-## Rivales
+España sigue sin tarifa oficial: cuando Mercedes-Benz España la comunique, se incorporará aquí. Mientras tanto, la <a href=/coches/mercedes-amg-gt-suv-precio-ficha-tecnica/>ficha técnica del Mercedes-AMG GT SUV</a> reúne los datos oficiales de las tres versiones e indica el precio alemán como tal.
 
-- <a href=/coches/porsche-cayenne-electric-2025-precio-ficha-tecnica/>Porsche Cayenne Electric</a>: es su rival natural en Alemania. Tiene menos potencia máxima, pero la gama es más amplia y ya se vende en España.
-- <a href=/coches/lotus-eletre-900-sport-2025-precio-ficha-tecnica/>Lotus Eletre 900 Sport</a>: otro SUV eléctrico de más de 900 CV. El Mercedes lo supera en potencia y en carga.
-- <a href=/coches/bmw-ix-m70-2025-precio-ficha-tecnica/>BMW iX M70</a>: es la alternativa de Múnich, más confortable que radical y bastante menos potente.
+## Competencia
 
-## Nuestra opinión
+- <a href=/coches/porsche-cayenne-electric-2025-precio-ficha-tecnica/>Porsche Cayenne Electric</a>: rival natural en Alemania, con menos potencia máxima pero una gama más amplia y venta ya abierta en España.
+- <a href=/coches/lotus-eletre-900-sport-2025-precio-ficha-tecnica/>Lotus Eletre 900 Sport</a>: otro SUV eléctrico por encima de 900 CV, al que el Mercedes supera en potencia y en carga.
+- <a href=/coches/bmw-ix-m70-2025-precio-ficha-tecnica/>BMW iX M70</a>: la opción de Múnich, volcada al confort antes que a la radicalidad y bastante menos potente.
 
-El GT SUV no solo apuesta por la potencia, que con 1.169 CV es casi absurda en un SUV familiar. Lo más interesante es la batería: refrigera cada celda con aceite y carga a 710 kW, y eso hoy no lo ofrece casi nadie. Lo que no sabemos es lo que más importa en España: el precio con impuestos y cuándo llegan las primeras unidades. Con 2,7 toneladas, también habrá que ver cuánto consume en la vida real, lejos del ciclo WLTP.
+## Opinión
 
-## Preguntas frecuentes
+Más allá de la potencia, que con 1.169 CV roza el exceso en un SUV familiar, el punto fuerte es la batería: celdas refrigeradas con aceite y carga a 710 kW, algo que hoy no ofrece casi nadie. Queda por saber lo decisivo en España: precio con impuestos y fecha de las primeras unidades. Y con 2,7 toneladas, el consumo real, lejos del ciclo WLTP, está por comprobar.
 
-### ¿Cuándo se ha presentado el Mercedes-AMG GT SUV?
+## Dudas frecuentes
 
-El **17 de octubre de 2026**, en Stuttgart. Es el primer SUV desarrollado desde cero por Mercedes-AMG y el segundo modelo de la plataforma eléctrica AMG.EA.
+### ¿Cuándo debutó el GT SUV de AMG?
 
-### ¿Qué potencia tiene el AMG GT SUV eléctrico?
+En Stuttgart, el 17 de octubre de 2026. Fue el primer SUV de Mercedes-AMG desarrollado desde cero y el segundo modelo de su plataforma eléctrica AMG.EA.
 
-El **GT 63** declara **1.169 CV y 2.000 Nm** y hace el 0-100 km/h en 2,7 s. El GT 55 tiene 816 CV (3,1 s) y el GT 53, 544 CV (4,2 s).
+### ¿Cuánta potencia declara el GT SUV eléctrico?
 
-### ¿Cuánta autonomía tiene?
+El GT 63 declara 2.000 Nm y 1.169 CV, con un 0 a 100 km/h en 2,7 segundos. El GT 55 anuncia 816 CV y 3,1 segundos, y el GT 53, 544 CV y 4,2 segundos.
 
-Hasta **700 km WLTP** en el GT 55 y el GT 63 con la batería de 128 kWh (620-700 km), de 525 a 585 km con la de 106 kWh, y de 597 a 668 km en el GT 53.
+### ¿Qué autonomía anuncia?
 
-### ¿Cuánto tarda en cargar?
+Con la batería de 128 kWh, GT 55 y GT 63 llegan a 620-700 km WLTP, con un máximo de 700 km; con la de 106 kWh, a 525-585 km. El GT 53 anuncia 597-668 km.
 
-Con la batería de 128 kWh admite hasta **710 kW** y pasa del 10 al 80 % en **12 minutos** en condiciones ideales. La de 106 kWh carga a 600 kW, en unos 11 minutos.
+### ¿Cuánto dura una carga?
 
-### ¿Cuánto cuesta el Mercedes-AMG GT SUV?
+Con 128 kWh, el pico llega a 710 kW y el 10-80 % se completa en 12 minutos en condiciones ideales; con 106 kWh, el pico es de 600 kW y el tiempo ronda los 11 minutos.
 
-En **Alemania**, el GT 53 cuesta desde **113.050 €**. Los GT 55 y GT 63 todavía no tienen precio, y en España aún no hay tarifa oficial.
+### ¿Qué precio tiene el GT SUV?
 
-### ¿Cuándo llega?
+El GT 53 parte de 113.050 € en Alemania. GT 55 y GT 63 siguen sin precio, y España sigue sin tarifa oficial.
 
-Primero sale el GT 53. Los GT 55 y GT 63 llegarán más tarde; Autocar habla de abril de 2027. Mercedes-Benz España todavía no ha dado una fecha de entregas.
+### ¿Cuándo se pone a la venta?
+
+El GT 53 abre la comercialización. GT 55 y GT 63 quedan para más adelante —Autocar apunta a abril de 2027— y Mercedes-Benz España no ha dado fecha de entregas.
 
 **¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.
 
-*Fuentes: <a href=https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/mercedes-benz/mercedes-amg-gt-suv-neuvorstellung/>ADAC (datos técnicos, carga, autonomía, peso y precio en Alemania)</a>, <a href=https://www.autocar.co.uk/car-news/electric-cars/new-mercedes-amg-gt-suv-revealed-1153bhp-family-supercar>Autocar (versiones, prestaciones y calendario)</a>, <a href=https://www.auto-motor-und-sport.de/neuheiten/mercedes-amg-gt-suv-e-suv-mit-v8-sound-und-schaltgefuehl/>Auto Motor und Sport (medidas, maletero, potencia continua y sonido simulado)</a>, <a href=https://www.moniteurautomobile.be/actu-auto/nouveaux-modeles/mercedes-amg-gt-suv.html>Moniteur Automobile (aerodinámica, pantallas y suspensión)</a>, <a href=https://insideevs.com/news/812320/amg-gt-suv-ev-reveal/>InsideEVs (carga y equivalencia hp/CV)</a>, <a href=https://www.thesupercarblog.com/leaked-here-is-our-first-look-at-the-all-electric-mercedes-amg-gt-suv/>The Supercar Blog (imágenes difundidas antes del estreno)</a>.*`,
+*Fuentes: <a href=https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/mercedes-benz/mercedes-amg-gt-suv-neuvorstellung/>ADAC (datos técnicos, carga, autonomía, peso y precio en Alemania)</a>, <a href=https://www.autocar.co.uk/car-news/electric-cars/new-mercedes-amg-gt-suv-revealed-1153bhp-family-supercar>Autocar (versiones, prestaciones y calendario)</a>, <a href=https://www.auto-motor-und-sport.de/neuheiten/mercedes-amg-gt-suv-e-suv-mit-v8-sound-und-schaltgefuehl/>Auto Motor und Sport (medidas, maletero, potencia continua y sonido simulado)</a>, <a href=https://www.moniteurautomobile.be/actu-auto/nouveaux-modeles/mercedes-amg-gt-suv.html>Moniteur Automobile (aerodinámica, pantallas y suspensión)</a>, <a href=https://insideevs.com/news/812320/amg-gt-suv-ev-reveal/>InsideEVs (carga y equivalencia hp/CV)</a>, <a href=https://www.thesupercarblog.com/leaked-here-is-our-first-look-at-the-all-electric-mercedes-amg-gt-suv/>The Supercar Blog (imágenes difundidas antes del estreno)</a>.*
+`,
   },
 ];
