@@ -4,7 +4,6 @@
 import { Link } from "react-router-dom";
 import { ShieldCheck } from "lucide-react";
 import {
-  FUENTES_POR_AMBITO,
   HERRAMIENTAS_POR_AMBITO,
   fechaLarga,
   isoDia,
@@ -26,17 +25,6 @@ export interface EditorialProps {
   sinHerramientas?: boolean;
 }
 
-const TEXTO_VERIFICACION: Record<NonNullable<EditorialProps["tipo"]>, string> = {
-  ficha:
-    "Los datos salen de la web oficial de la marca y, si no hay dato oficial, de prensa especializada o tiendas citadas como fuente. Lo que no está confirmado se marca con ≈ o «dato no oficial · en revisión», y lo que no encontramos se deja vacío: nunca inventamos cifras.",
-  articulo:
-    "La normativa se contrasta con el BOE y la información pública de la DGT, y cada dato importante enlaza a su fuente. Si algo cambia o detectas un error, escríbenos y lo revisamos.",
-  listado:
-    "Cada ficha de este listado se elabora con datos oficiales de la marca o fuentes citadas; lo no confirmado se marca como aproximado y nunca inventamos cifras.",
-  pagina:
-    "Los contenidos se contrastan con fuentes oficiales (BOE, DGT y webs oficiales de las marcas) y, si algo no se puede citar, no se publica.",
-};
-
 export default function FirmaEditorial({
   ambito = "general",
   tipo = "pagina",
@@ -48,7 +36,9 @@ export default function FirmaEditorial({
 }: EditorialProps) {
   const pub = isoDia(publicado);
   const act = isoDia(actualizado) ?? pub;
-  const lista = [...(fuentePrincipal?.url ? [fuentePrincipal] : []), ...(fuentes ?? FUENTES_POR_AMBITO[ambito])];
+  // 25/10/2026 dedupe 8-gramas (Grok 07:25): solo las fuentes que esta página usa de verdad.
+  // Ya no se vuelca la lista por defecto del ámbito, que era idéntica en cientos de páginas.
+  const lista = [...(fuentePrincipal?.url ? [fuentePrincipal] : []), ...(fuentes ?? [])];
   const herramientas = HERRAMIENTAS_POR_AMBITO[ambito];
   return (
     <aside
@@ -84,7 +74,7 @@ export default function FirmaEditorial({
           )}
         </p>
         <p className="mt-2 text-xs leading-relaxed text-gray-600">
-          <strong className="text-gray-800">Cómo verificamos:</strong> {TEXTO_VERIFICACION[tipo]}{" "}
+          <strong className="text-gray-800">Cómo verificamos:</strong> {fuentePrincipal?.nombre ? `Datos de ${fuentePrincipal.nombre}.` : "Fuentes citadas en esta página."}{" "}
           <Link to="/politica-editorial/" className="text-red-600 underline">
             Política editorial y metodología
           </Link>
