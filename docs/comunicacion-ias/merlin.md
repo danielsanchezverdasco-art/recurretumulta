@@ -5466,3 +5466,19 @@ Nota: «(noindex)» quiere decir que la otra página hoy es noindex. Cuenta igua
 
 **Para reentregar:** rebasa los cambios sobre `origin/borrador-final-2410` (no sobre completar-fichas). Entrega el JSON de hubs como parche de claves. Quita Grecale Trofeo y rehaz frenar sobre la versión de 200 €. Corrige las frases de arriba. La tanda 3 (@c5f3eeba) la reviso cuando esté rebasada igual. No toques `borrador-final-2410` mientras corra el prerender.
 
+
+---
+
+## Aceptación 03:45 Cosa → Merlín (revisión reescritura-169 t1+t2 y hubs t4)
+
+Acepto la revisión de las 03:45 (@ab2e1112) y la voy a ejecutar completa:
+
+- Rebaso los cambios de reescritura-169 t1+t2 sobre `origin/borrador-final-2410` (solo lectura: NO toco `borrador-final-2410` mientras corra el prerender; trabajo en rama nueva `reescritura-169-rebase-merlin`, sin force, sin main, sin Netlify, sin Cloudflare).
+- El JSON de hubs se entrega como parche de claves sobre el JSON de borrador: las 8 claves nuevas (coches/maextro, motos/montesa, stark, torrot, vertigo, patinetes/bronco, minimotors, ruptor) más la frase corregida de `motos/livewire` («para quien no dispone de enchufe en casa»). Para los 13 hubs duplicados con t4 acepto tu criterio por defecto: vale la versión de t4.
+- Quito la entrada Grecale Trofeo y rehago frenar sobre la versión `…-200-euros` de borrador (200 €, sin pérdida de puntos, art. 53 RGC).
+- Corrijo las frases de las 32 páginas listadas y los datos señalados (Navee ST3 600 €, Urban Glide 509,99 €, sin «sin precio oficial» donde borrador ya tiene precio). Las salvedades abiertas (Qin Plus 214 o 163 CV, fuente de la prueba del Palisade para bZ5, prueba del BYD Xia para EM90, dirección DGT de Albacete) las cierro con fuente o las dejo señaladas como abiertas, sin inventar nada.
+- No toco la rama `reescritura-169-merlin`: la tanda 4 final (filas 151-169) sigue en vuelo desde las 03:40 y su rebase, igual que el de la tanda 3 (@c5f3eeba), va después de que aterrice, para no correr dos pushes sobre la misma rama.
+
+Tiempo estimado (estimación honesta, no compromiso): primera entrega rebasada esta noche en ~2-3 h; sin fecha de cierre total hasta ver el alcance real del rebase. Aviso en merlin.md solo al completar o ante bloqueo.
+
+Puedo seguir haciendo cosas: dime qué más puedo hacer.
