@@ -599,15 +599,15 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
   "skoda-kodiaq-iv-2025-precio-ficha-tecnica": {
     "parrafos": [
       "La gama Skoda cuenta con el Kodiaq iV como opción híbrido enchufable: precio de arranque de 38.800 € y 204 CV. Toda la fuerza va al eje delantero. Rinde 204 CV según la ficha. En la báscula recoge 1964 kg.",
-      "A tenor de los datos, lo mejor es 38.800 €: el 7 plazas enchufable más barato del mercado, seguido de 5 estrellas EuroNCAP (2024): 89 % en ocupante adulto. El pero que conviene asumir: la batería resta espacio frente al Kodiaq diésel. Asimismo, 1.964 kg en orden de marcha. El 0-100 cae en 8,4 segundos; solventes para su segmento. Gasta 0,5 l/100 km según la ficha; contenida teniendo en cuenta su planteamiento.",
-      "Las dimensiones oficiales: 4758 mm de longitud, 1864 de anchura y 1678 de altura. La batería es de 19,7 kWh útiles. Carga a 50 kW en continua. Si buscas el SUV híbrido enchufable con los deberes hechos, este Kodiaq iV entra en las quinielas. Con 910 litros de capacidad de carga, las vacaciones en familia no requieren tetris. La capacidad de carga es de 910 litros, según la ficha. Con 4758 mm de longitud se sitúa en la media del segmento. La garantía de la batería cubre 8 años o 160000 km."
+      "A tenor de los datos, lo mejor es 38.800 €: el 7 plazas enchufable más barato del mercado, y justo detrás, las 5 estrellas que Euro NCAP le dio en 2024 (89 % en adultos). El pero que conviene asumir: la batería resta espacio frente al Kodiaq diésel. Asimismo, 1.964 kg en orden de marcha. El 0-100 cae en 8,4 segundos; solventes para su segmento. Gasta 0,5 l/100 km según la ficha; contenida teniendo en cuenta su planteamiento.",
+      "Las dimensiones oficiales: 4758 mm de longitud, 1864 de anchura y 1678 de altura. La batería es de 19,7 kWh útiles. Carga a 50 kW en continua. Si buscas el SUV híbrido enchufable con los deberes hechos, este Kodiaq iV entra en las quinielas. Con 910 litros de capacidad de carga, las vacaciones en familia no requieren tetris. La capacidad de carga es de 910 litros, según la ficha. Con 4,76 m es un SUV mediano de talla normal, y la batería tiene cobertura de Škoda durante 8 años o 160.000 km."
     ],
-    "veredicto": "Buena papeleta si priorizas la relación entre lo que cuesta y lo que ofrece con 204 CV; peor opción si lo tuyo es más equipamiento por este dinero."
+    "veredicto": "Para familias que cargan en casa y quieren 119 km sin gasolina por 38.800 €; si pides un acabado básico bien equipado, mira otro."
   },
   "skoda-kodiaq-iv-hibrido-enchufable-2026-precio-ficha-tecnica": {
     "parrafos": [
       "El Kodiaq iV logra lo que pocos enchufables: 910 litros de maletero sin perder capacidad frente al Kodiaq normal, más hasta 121 km eléctricos según el dato oficial de Skoda. Cuesta 38.375 €, rinde 204 CV y la DGT le asigna el distintivo ambiental Cero.",
-      "La batería de 25,7 kWh admite 50 kW de carga rápida, el consumo es de 17,4 kWh/100 km y la punta de 210 km/h. Pesa 1813 kg —se dejan notar, es un coche para disfrutar con calma— y mide 4758 mm (1864 de ancho, 1678 de alto) con tracción delantera.",
+      "La batería de 25,7 kWh admite 50 kW de carga rápida, el consumo es de 17,4 kWh/100 km y la punta de 210 km/h. Pesa 1813 kg —se dejan notar, es un coche para disfrutar con calma— Con tracción delantera, ocupa 4,76 m de largo por 1,86 m de ancho y 1,68 m de alto.",
       "El peaje es la tercera fila: esta versión solo ofrece 5 plazas. Pero quien valore 910 litros para la vida familiar con etiqueta Cero encontrará aquí un argumento de peso. Para el conductor que pone la Cero por delante de todo con 38.375 €, es un acierto."
     ],
     "veredicto": "Acierto por 38.375 € si la Cero manda y te bastan 5 plazas; menos si necesitas 7."

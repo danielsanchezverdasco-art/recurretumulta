@@ -959,6 +959,18 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
   },
   {
     id: "yamaha-xsr900-gp-2025-ficha-tecnica-precio",
+    textosPropios: {
+      "notaCosa": "Mucho motor por lo que cuesta; a cambio, postura y carenado le restan uso diario.",
+      "precio": "La Yamaha XSR900 GP (2025) parte de 14.099 €, con el CP3 de 119 CV de serie y el carenado GP incluido; colores y accesorios, en la comparativa:",
+      "fotos": "Imágenes del kit de prensa de Yamaha Motor Europe.",
+      "garantiaNota": "dos años de fábrica en la XSR900 GP; Yamaha vende ampliaciones aparte",
+      "mantenimientoIntro": "Lo que puedes hacer tú en la XSR900 GP entre revisiones del concesionario.",
+      "rivalesIntro": "Deportivas y sport-turismo de media cilindrada entre 12.000 y 16.000 €.",
+      "fraseRivales": "Sus 14.099 € la dejan quinta por precio de siete: 1.840 € más que la Aprilia RS 660 (12.259 €) y 1.491 € menos que la Ducati SuperSport 950 (15.590 €).",
+      "faqPrecio": "14.099 € de tarifa en España, el mismo importe que anotamos el 14/10/2026 al empezar a vigilarla. Por ahora Yamaha no la ha rebajado.",
+      "faqCarnet": "El A: sus 119 CV superan con creces los 35 kW (47,6 CV) que permite el A2.",
+      "faqZbe": "No. Su tricilíndrico de gasolina le da la «C»; en las ZBE que limitan motos C, la GP queda sujeta a esas mismas reglas."
+    },
     marca: "Yamaha",
     modelo: "XSR900 GP",
     version: "2025",
@@ -993,7 +1005,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       "Solo dos colores: Legend Red y Power Grey",
     ],
     curiosidades: [
-      "Homenajea a las Yamaha de GP de los 80: YZR500, TZR y FZR",
+      "Su estética recuerda a las YZR500, TZR y FZR de la época dorada de los 80",
       "El colín cuadriculado oculta el piloto trasero",
       "Comparte chasis Deltabox y motor con la MT-09",
     ],
@@ -1012,15 +1024,15 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     fuenteUrl: "https://www.motorpasionmoto.com/zona-de-pruebas/prueba-yamaha-xsr900-gp-2024",
     analisisSlug: "yamaha-xsr900-gp-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "Revisión inicial con 1.000 km; luego una al año o cada 10.000 km",
       aceiteTipo: "10W-40 Yamalube (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Desengrasa la transmisión secundaria con un producto apto para juntas tóricas.",
+        "Aplica el spray por la cara interior mientras haces girar a mano la rueda de atrás.",
+        "Mide la holgura con la GP derecha, no sobre la pata, y corrígela con los tensores del basculante según el manual.",
       ],
       trucos: [
-        "El carenado se desmonta por paneles: no fuerces las pestañas de plástico.",
+        "El carenado GP sale por piezas: suelta cada tornillo antes de tirar del plástico.",
         "Filtro de aire cada 40.000 km según el plan de mantenimiento.",
       ],
     },

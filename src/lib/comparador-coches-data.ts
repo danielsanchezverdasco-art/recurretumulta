@@ -158,7 +158,11 @@ export interface FotoGaleria {
   alto: number;
 }
 
+import type { TextosPropios } from "@/lib/textos-propios.ts";
+
 export interface CocheComparador {
+  /** Textos propios opcionales de esta ficha (ver textos-propios.ts). */
+  textosPropios?: TextosPropios;
   id: string;            // slug del artículo
   marca: string;         // ej. "Skoda"
   modelo: string;        // ej. "Peaq"

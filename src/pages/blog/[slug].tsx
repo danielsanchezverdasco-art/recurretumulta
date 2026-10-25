@@ -9,6 +9,7 @@ import { Card, CardContent } from "@/components/ui/card.tsx";
 import { toast } from "sonner";
 import { withSession } from "@/lib/authSimple.ts";
 import type { BlogPost } from "@/lib/blog-data.ts";
+import type { BlogTextosPropios } from "@/lib/blog-meta.ts";
 import { loadArrayItem, loadRecordEntry, loadModuleArray } from "@/lib/data-loader-utils.ts";
 import type { BlogLitePost } from "@/lib/blog-lite.generated.ts";
 import type { FotoCarrusel } from "@/components/CarruselFotos.tsx";
@@ -424,6 +425,7 @@ function BlogPostPage() {
   // El fichero estático es la fuente canónica (revisado y enriquecido con vídeos);
   // Convex queda como fallback para artículos que aún no estén en el estático.
   const post = staticPost ?? (dbPost ?? null);
+  const tpBlog: BlogTextosPropios | undefined = post && "textosPropios" in post ? (post as BlogPost).textosPropios : undefined;
 
   // Estado "cargando": el módulo estático aún no resolvió. Si el estático dice
   // null, se espera a Convex (solo navegador real; en prerender Convex está
@@ -702,8 +704,8 @@ function BlogPostPage() {
                 <Sparkles className="w-5 h-5" />
               </div>
               <div>
-                <p className="font-black text-sm">¿Tienes una multa de este tipo?</p>
-                <p className="text-white/80 text-xs">Analízala gratis con IA — sabemos en segundos si tiene errores anulables.</p>
+                <p className="font-black text-sm">{tpBlog?.ctaTitulo ?? "¿Tienes una multa de este tipo?"}</p>
+                <p className="text-white/80 text-xs">{tpBlog?.ctaTexto ?? "Analízala gratis con IA — sabemos en segundos si tiene errores anulables."}</p>
               </div>
             </div>
             <Link to="/#analizador" className="block">
@@ -766,7 +768,7 @@ function BlogPostPage() {
               <Link to="/politica-editorial/" className="text-red-600 underline">política editorial</Link>.
             </p>
             <EnlacesHerramientas ambito={ambitoPost} />
-            <p className="text-[11px] text-gray-400">Última revisión de este contenido: {post.date}</p>
+            <p className="text-[11px] text-gray-400">{tpBlog?.revision ?? `Última revisión de este contenido: ${post.date}`}</p>
           </div>
 
           {fichaLink && (
@@ -800,19 +802,19 @@ function BlogPostPage() {
                   className="w-10 h-10 rounded-2xl object-contain shrink-0 bg-white p-1 shadow-md shadow-red-200"
                 />
                 <div>
-                  <p className="font-black text-gray-900">¿Tu multa encaja con alguno de estos casos?</p>
+                  <p className="font-black text-gray-900">{tpBlog?.cajaTitulo ?? "¿Tu multa encaja con alguno de estos casos?"}</p>
                   <p className="text-xs text-gray-500 mt-0.5">
-                    Sube tu multa a RecurreTuMulta.online y la IA detectará automáticamente qué defectos tiene y qué argumentos usar. El análisis es completamente gratis.
+                    {tpBlog?.cajaTexto ?? "Sube tu multa a RecurreTuMulta.online y la IA detectará automáticamente qué defectos tiene y qué argumentos usar. El análisis es completamente gratis."}
                   </p>
                 </div>
               </div>
               <ul className="space-y-1.5">
-                {[
+                {(tpBlog?.cajaPuntos ?? [
                   "Análisis con IA en menos de 60 segundos",
                   "% de viabilidad del recurso",
                   "Argumentos legales específicos de tu multa",
                   "PDF del recurso completo por 4,99€",
-                ].map((b) => (
+                ]).map((b) => (
                   <li key={b} className="flex items-center gap-2 text-xs text-gray-600">
                     <Check className="w-3.5 h-3.5 text-red-500 shrink-0" />
                     {b}
@@ -830,7 +832,7 @@ function BlogPostPage() {
 
           {/* Newsletter semanal: solo en artículos de motor */}
           {post.category === "Novedades Motor" && (
-            <NewsletterSignup origen="articulo-motor" compact />
+            <NewsletterSignup origen="articulo-motor" compact textos={tpBlog} />
           )}
 
           {/* Share (gap menor en móvil: a 360 px desbordaba 6 px) */}

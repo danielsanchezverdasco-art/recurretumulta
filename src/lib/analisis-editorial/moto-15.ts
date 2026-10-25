@@ -136,7 +136,7 @@ export const ANALISIS_MOTO_15: MapaAnalisis = {
       "Si la XSR900 ya era especial, la GP de 2025 lleva el homenaje a las Yamaha de Gran Premio de los ochenta —YZR500, TZR y FZR— hasta sus últimas consecuencias: carenado completo, colín cuadriculado que oculta el piloto trasero y una de las estéticas retro-deportivas más logradas del mercado. La base es seria: chasis Deltabox y tricilíndrico CP3 de 119 CV compartidos con la MT-09, con IMU de seis ejes y electrónica completa, más semimanillares y estriberas ajustables para una postura deportiva auténtica. Una prueba de Motorpasión Moto respalda sus credenciales dinámicas.",
       "La radicalidad se paga con el cuerpo: la postura carga muñecas y cervicales en los viajes largos, los 200 kilos con el carenado la hacen más pesada que la XSR900 estándar y el kit Racer con escape Akrapovic supera los 2.900 euros extra para quien quiera rematar el homenaje. Con 14.099 euros de partida y etiqueta C, es la deportiva retro para el coleccionista emocional: la moto que se mira en el garaje tanto como se conduce. Quien busque la misma mecánica sin el traje de época tiene la MT-09, más barata y más cómoda.",
     ],
-    veredicto: "Para el coleccionista emocional que sueña con las GP de los 80 y acepta la postura radical; no para uso diario ni para quien busque la mejor relación precio-prestaciones.",
+    veredicto: "Para el coleccionista emocional que sueña con las GP de los 80 y acepta la postura radical; no para uso diario ni para quien compre mirando euros por caballo.",
   },
   "yamaha-ys125-2025-ficha-tecnica-precio": {
     parrafos: [

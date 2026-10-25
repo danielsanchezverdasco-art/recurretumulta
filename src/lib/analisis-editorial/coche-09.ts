@@ -195,8 +195,8 @@ export const ANALISIS_COCHE_09: MapaAnalisis = {
   },
   "haval-h6-hev-2025-precio-ficha-tecnica": {
     parrafos: [
-      "El H6 HEV es el Haval comprable en España con distintivo ECO: híbrido integral de 243 CV y 530 Nm, 5,9 l/100 km homologados para su envergadura, 560 litros de maletero ampliables a 1.445 y depósito de 61 litros para un alcance total generoso. y los 1.445 litros con asientos abatidos lo hacen apto para las mudanzas familiares. El familiar híbrido sin enchufe que juega al espacio y la eficiencia, entrando en las ZBE sin pegatina adicional.",
-      "Los 33.800 € lo colocan en la franja alta generalista, el cambio DHT flaquea a ritmo fuerte, el habitáculo vive en la pantalla táctil, la imagen de marca está en despliegue y la reventa es una incógnita. Los 530 Nm del sistema híbrido garantizan recuperaciones contundentes con el coche cargado. Producto competente que pide un acto de fe en la marca: la ficha convence, el logo aún no. Su maletero de 560 litros lo sitúa entre los mejores del segmento."
+      "El H6 HEV es el Haval comprable en España con distintivo ECO: híbrido integral de 243 CV y 530 Nm, 5,9 l/100 km homologados para su envergadura, 560 litros de maletero ampliables a 1.445 y depósito de 61 litros para un alcance total generoso. Con los asientos abatidos, esos 1.445 litros lo hacen apto para mudanzas familiares. El familiar híbrido sin enchufe que juega al espacio y la eficiencia, entrando en las ZBE sin pegatina adicional.",
+      "Los 33.800 € lo colocan en la franja alta generalista, el cambio DHT flaquea a ritmo fuerte, el habitáculo vive en la pantalla táctil, la imagen de marca está en despliegue y la reventa es una incógnita. Con cinco a bordo y equipaje, su par de 530 Nm sigue adelantando sin apuros. Producto competente que pide un acto de fe en la marca: la ficha convence, el logo aún no. Su maletero de 560 litros lo sitúa entre los mejores del segmento."
     ],
     veredicto: "Para familias que antepongan espacio, eficiencia y ECO; no para quien busque marca asentada.",
   },

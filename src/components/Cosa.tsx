@@ -155,10 +155,13 @@ export function NotaCosa({
   entrada,
   nombre,
   fichaId,
+  justificacion,
 }: {
   entrada: NotaCosaInput;
   nombre: string;
   fichaId?: string;
+  /** Texto propio opcional (textosPropios.notaCosa); la nota numérica no cambia. */
+  justificacion?: string;
 }) {
   const { ref, inView } = useInView<HTMLElement>(0.3);
   const [estrellas, setEstrellas] = useState<number | null | undefined>(
@@ -220,7 +223,7 @@ export function NotaCosa({
               <span className="text-base font-bold text-gray-400">/10</span>
             </p>
           </div>
-          <p className="mt-1.5 text-sm text-gray-600">{resultado.justificacion}</p>
+          <p className="mt-1.5 text-sm text-gray-600">{justificacion ?? resultado.justificacion}</p>
           <p className="mt-1 text-xs text-gray-500">
             Nota automática (<a href="/metodologia/" className="underline">método</a>)
           </p>

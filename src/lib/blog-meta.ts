@@ -14,6 +14,20 @@ export type BlogPost = {
   keywords: string[];
   content: string;
   locale?: BlogPostLocale;
+  /** Textos opcionales que sustituyen los bloques comunes solo en este post. */
+  textosPropios?: BlogTextosPropios;
+};
+
+export type BlogTextosPropios = {
+  ctaTitulo?: string;
+  ctaTexto?: string;
+  cajaTitulo?: string;
+  cajaTexto?: string;
+  cajaPuntos?: string[];
+  newsletterTitulo?: string;
+  newsletterTexto?: string;
+  newsletterBaja?: string;
+  revision?: string;
 };
 
 export const BLOG_CATEGORIES = [

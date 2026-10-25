@@ -6,7 +6,8 @@ import type { Rival } from "@/lib/ficha-extra.ts";
 const fmt = (n: number) => `${Math.round(n).toLocaleString("es-ES")} €`;
 function hash(s: string) { let h = 0; for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) | 0; return Math.abs(h); }
 
-export default function FraseRivales({ id, nombre, precio, rivales }: { id: string; nombre: string; precio: number | null | undefined; rivales?: Rival[] }) {
+export default function FraseRivales({ id, nombre, precio, rivales, texto }: { id: string; nombre: string; precio: number | null | undefined; rivales?: Rival[]; texto?: string }) {
+  if (texto) return <p className="mt-3 text-sm text-gray-700">{texto}</p>;
   if (precio == null || !rivales) return null;
   const rs = rivales.filter((r) => typeof r[2] === "number" && (r[2] as number) > 0);
   if (rs.length < 2) return null;

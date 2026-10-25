@@ -20,14 +20,14 @@ function FotoRival({ src, alt, contain }: { src: string; alt: string; contain: b
   return <img src={src} alt={alt} loading="lazy" decoding="async" width={320} height={200} onError={() => setOk(false)} className={`aspect-[16/10] w-full ${contain ? "bg-white object-contain" : "object-cover"}`} />;
 }
 
-export default function RivalesCarrusel({ tipo, id, nombre, rivales }: { tipo: Tipo; id: string; nombre: string; rivales?: Rival[] }) {
+export default function RivalesCarrusel({ tipo, id, nombre, rivales, intro }: { tipo: Tipo; id: string; nombre: string; rivales?: Rival[]; intro?: string }) {
   if (!rivales || rivales.length === 0) return null;
   return (
     <section id="rivales" className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6" aria-label={`Rivales del ${nombre}`}>
       <h2 className="flex items-center gap-2 text-xl font-extrabold text-gray-900">
         <ArrowLeftRight className="h-5 w-5 text-red-600" /> Rivales directos
       </h2>
-      <p className="mt-1 text-sm text-gray-600">Mismo segmento y precio parecido. Desliza para ver más.</p>
+      <p className="mt-1 text-sm text-gray-600">{intro ?? "Mismo segmento y precio parecido. Desliza para ver más."}</p>
       <ul className="-mx-4 mt-4 flex snap-x snap-mandatory gap-3 overflow-x-auto px-4 pb-2 [scrollbar-width:thin] sm:-mx-6 sm:px-6">
         {rivales.map(([rid, rnombre, precio, foto]) => (
           <li key={rid} className="w-56 shrink-0 snap-start overflow-hidden rounded-2xl border border-gray-200 bg-white shadow-sm">

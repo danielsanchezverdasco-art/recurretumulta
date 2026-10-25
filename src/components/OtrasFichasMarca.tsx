@@ -35,10 +35,12 @@ export default function OtrasFichasMarca({
   tipo,
   actual,
   todas,
+  introVersiones,
 }: {
   tipo: Tipo;
   actual: Item;
   todas: Item[];
+  introVersiones?: string;
 }) {
   const marca = actual.marca ?? "";
   if (!marca) return null;
@@ -63,7 +65,7 @@ export default function OtrasFichasMarca({
     >
       <h2 className="text-xl font-extrabold text-gray-900">Más fichas de {marca}</h2>
       {mismoModelo.length > 0 && (
-        <p className="mt-1 text-sm text-gray-600">Primero, las otras versiones de este modelo.</p>
+        <p className="mt-1 text-sm text-gray-600">{introVersiones ?? "Primero, las otras versiones de este modelo."}</p>
       )}
       <ul className="mt-3 grid gap-x-4 gap-y-1.5 sm:grid-cols-2">
         {lista.map((x) => (

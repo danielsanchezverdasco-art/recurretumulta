@@ -872,6 +872,28 @@ export const COCHES_SKODA: CocheComparador[] = [
   },
   {
     id: "skoda-kodiaq-iv-hibrido-enchufable-2026-precio-ficha-tecnica",
+    textosPropios: {
+      "faqPreguntaAutonomia": "¿Cuántos km eléctricos homologa el Kodiaq iV 2026?",
+      "faqPreguntaEtiqueta": "¿Qué distintivo DGT le toca al Kodiaq iV 2026?",
+      "faqPreguntaAnalisis": "¿Dónde está vuestro análisis del Kodiaq iV 2026?",
+      "notaCosa": "Lo mejor: 204 CV y 17,4 kWh/100 km por 38.375 €.",
+      "zbe": "Sí. Sus 121 km eléctricos oficiales le valen el CERO de la DGT, y con él la versión 2026 circula por la M-30, Distrito Centro y el resto de la ZBE de Madrid a cualquier hora.",
+      "precio": "El Skoda Kodiaq iV parte de 38.375 €, con la batería de 25,7 kWh y carga a 50 kW de serie. Acabados y extras, en el análisis:",
+      "fotos": "Fotos de Škoda Storyboard, la web de prensa de la marca.",
+      "costeNota": "Hecho en octubre de 2026 con 1.000 km al mes, el 60 % de ellos en eléctrico con electricidad doméstica a 0,18 €/kWh; el resto, gasolina a 1,85 €/l. Seguro y taller, según la media de SUV enchufables. Cuanto más cargues, más se acerca al coste de un eléctrico.",
+      "seguridadNota": "(prueba de 2024 del Kodiaq actual; los criterios se endurecen cada pocos años).",
+      "rivalesIntro": "Otros SUV enchufables en torno a 38.000 €.",
+      "fraseRivales": "Por 38.375 € queda 215 € por debajo de los 38.590 € de media de sus seis rivales.",
+      "preguntaBateria": "¿Qué garantía tiene la batería de 25,7 kWh?",
+      "preguntaConsumo": "¿Cuánto gasta de verdad: 17,4 kWh/100 km?",
+      "preguntaZbe": "¿Qué ventajas da el CERO en cada ZBE?",
+      "faqPrecio": "La versión 2026 parte de 38.375 €, sin variación desde el 14/10/2026. Las ayudas y acabados, en el análisis.",
+      "faqAutonomia": "121 km eléctricos, dato oficial de Škoda.",
+      "faqMaletero": "910 litros: la batería no le roba espacio frente al Kodiaq de combustión.",
+      "faqEtiqueta": "Distintivo CERO, sin límites de acceso a ninguna ZBE.",
+      "faqAnalisis": "Lo tienes en «Leer nuestro análisis», con la recarga y el consumo real.",
+      "otrasVersiones": "Antes, el resto de Kodiaq de la gama."
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -904,9 +926,9 @@ export const COCHES_SKODA: CocheComparador[] = [
     contras: [
       "Solo 5 plazas: pierde la tercera fila del Kodiaq",
       "Tracción delantera, sin opción 4x4",
-      "1.813 kg de peso en orden de marcha",
+      "Pesa 1.813 kg en orden de marcha",
       "El precio 'desde' está sujeto a financiación",
-      "Si no se carga a diario, el consumo se dispara"
+      "Si no lo enchufas, mueves 25,7 kWh de batería con el motor de gasolina"
     ],
     largoMm: 4758,
     anchoMm: 1864,

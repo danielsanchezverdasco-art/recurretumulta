@@ -71,10 +71,13 @@ export default function SeguridadEuroNCAP({
   fichaId,
   nombre,
   inline,
+  nota,
 }: {
   fichaId: string;
   nombre: string;
   inline?: EuroNCAPInline | null;
+  /** Texto propio opcional de la ficha (textosPropios.seguridadNota). */
+  nota?: string;
 }) {
   const { ref, inView } = useInView<HTMLElement>(0.35);
   // Carga perezosa (05/10/2026): solo el registro de este modelo vía chunk
@@ -92,7 +95,7 @@ export default function SeguridadEuroNCAP({
   }, [fichaId, inline]);
 
   if (inline !== undefined) {
-    return <InlineEuroNCAP inline={inline} nombre={nombre} inView={inView} sectionRef={ref} />;
+    return <InlineEuroNCAP inline={inline} nombre={nombre} inView={inView} sectionRef={ref} nota={nota} />;
   }
 
   if (s === undefined) return null;
@@ -195,8 +198,12 @@ export default function SeguridadEuroNCAP({
         >
           EuroNCAP
         </a>{" "}
-        (test de {s.anioTest}). Las estrellas resumen el protocolo vigente ese año: un 5★ de
-        2019 no equivale a un 5★ de 2026.
+        {nota ?? (
+          <>
+            (test de {s.anioTest}). Las estrellas resumen el protocolo vigente ese año: un 5★ de
+            2019 no equivale a un 5★ de 2026.
+          </>
+        )}
       </p>
     </section>
   );
@@ -207,11 +214,13 @@ function InlineEuroNCAP({
   nombre,
   inView,
   sectionRef,
+  nota,
 }: {
   inline: EuroNCAPInline | null;
   nombre: string;
   inView: boolean;
   sectionRef: React.Ref<HTMLElement>;
+  nota?: string;
 }) {
   if (!inline || inline.estrellas == null) {
     return (
@@ -223,9 +232,13 @@ function InlineEuroNCAP({
           <ShieldCheck className="h-5 w-5 text-red-600" /> Seguridad
         </h2>
         <p className="mt-2 text-sm text-gray-600">
-          {inline?.nota ?? "Sin datos EuroNCAP: modelo no probado."} El programa europeo
-          ensaya los modelos de forma voluntaria (o por iniciativa propia), así que no todos
-          los coches del mercado tienen valoración oficial.
+          {nota ?? (
+            <>
+              {inline?.nota ?? "Sin datos EuroNCAP: modelo no probado."} El programa europeo
+              ensaya los modelos de forma voluntaria (o por iniciativa propia), así que no todos
+              los coches del mercado tienen valoración oficial.
+            </>
+          )}
         </p>
       </section>
     );

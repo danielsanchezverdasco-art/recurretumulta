@@ -14,13 +14,15 @@ interface Props {
   origen?: string;
   /** Versión compacta para el final de artículos. */
   compact?: boolean;
+  /** Textos opcionales de un post concreto; sin ellos se usa el texto común. */
+  textos?: { newsletterTitulo?: string; newsletterTexto?: string; newsletterBaja?: string };
 }
 
 /**
  * Formulario de suscripción a "La semana del motor en 5 minutos".
  * Sin login: solo email + checkbox de privacidad obligatoria.
  */
-export default function NewsletterSignup({ origen = "web", compact = false }: Props) {
+export default function NewsletterSignup({ origen = "web", compact = false, textos }: Props) {
   const [email, setEmail] = useState("");
   const [privacidad, setPrivacidad] = useState(false);
   const [estado, setEstado] = useState<Estado>("idle");
@@ -82,10 +84,10 @@ export default function NewsletterSignup({ origen = "web", compact = false }: Pr
         </div>
         <div>
           <p className={`font-black ${compact ? "text-base" : "text-lg"} leading-tight`}>
-            La semana del motor en 5 minutos
+            {textos?.newsletterTitulo ?? "La semana del motor en 5 minutos"}
           </p>
           <p className="mt-0.5 text-sm text-white/85">
-            Noticias, duelos y modelos nuevos. Cada domingo, sin spam.
+            {textos?.newsletterTexto ?? "Noticias, duelos y modelos nuevos. Cada domingo, sin spam."}
           </p>
         </div>
       </div>
@@ -114,7 +116,7 @@ export default function NewsletterSignup({ origen = "web", compact = false }: Pr
             <Link to="/privacidad/" className="font-bold underline">
               política de privacidad
             </Link>
-            . Podré darme de baja en 1 clic desde cualquier email.
+            {textos?.newsletterBaja ?? ". Podré darme de baja en 1 clic desde cualquier email."}
           </span>
         </label>
         <Button

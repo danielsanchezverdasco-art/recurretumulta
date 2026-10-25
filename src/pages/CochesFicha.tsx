@@ -39,6 +39,7 @@ import RivalesCarrusel from "@/components/ficha/RivalesCarrusel.tsx";
 import FraseRivales from "@/components/ficha/FraseRivales.tsx";
 import { fmtEur, fmtMiles } from "@/lib/formato.ts";
 import OtrasFichasMarca from "@/components/OtrasFichasMarca.tsx";
+import { propio } from "@/lib/textos-propios.ts";
 // 07/10/2026 (fluidez): animados below-the-fold en lazy — se cargan al hacer scroll.
 const Donut = lazy(() => import("@/components/motion.tsx").then((m) => ({ default: m.Donut })));
 const BatteryFill = lazy(() => import("@/components/motion.tsx").then((m) => ({ default: m.BatteryFill })));
@@ -107,6 +108,7 @@ const fmtEur2 = (v: number) =>
 const sinTarifaEspana = (c: CocheComparador): boolean =>
   PRECIO_ORIGEN[c.id] != null || c.precioDesde == null || c.aprox.includes("precioDesde");
 function textoZbe(c: CocheComparador): string {
+  if (c.textosPropios?.zbe) return c.textosPropios.zbe;
   const nombre = `${c.marca} ${c.modelo}`;
   if (c.etiquetaDgt && sinTarifaEspana(c)) {
     return `Al ${nombre} le correspondería la etiqueta ${c.etiquetaDgt === "Cero" ? "CERO" : c.etiquetaDgt} por su motorización (criterios DGT), pero aún no tiene tarifa en España. Cuando se matricule aquí, revisa las restricciones de la ZBE de tu ciudad según esa etiqueta.`;
@@ -199,6 +201,7 @@ const FILAS: Fila[] = [
 
 function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra: FichaExtra; hermanas?: CocheComparador[] }) {
   const nombre = `${coche.marca} ${coche.modelo}`;
+  const tp = coche.textosPropios;
   // GEO 17/10/2026: respuesta rápida (ficha + historial de precios, nada inventado).
   const historial = useHistorialPrecios(coche.id);
   useVisitaFicha("coches", coche.id);
@@ -329,30 +332,30 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
   const FAQS = [
     {
       q: `¿Cuánto cuesta el ${nombre}?`,
-      a:
-        coche.precioDesde == null
+      a: tp?.faqPrecio ??
+        (coche.precioDesde == null
           ? `El ${nombre} aún no tiene precio confirmado para España: lo publicaremos en cuanto la marca lo anuncie. Tienes el detalle de las versiones disponibles en el análisis completo.`
-          : `${geo.faqPrecio ?? `El ${nombre} parte de ${fmtPrecio(coche.precioDesde)}.`} El desglose por versiones y acabados, con y sin ayudas, está en el análisis completo del modelo.`,
+          : `${geo.faqPrecio ?? `El ${nombre} parte de ${fmtPrecio(coche.precioDesde)}.`} El desglose por versiones y acabados, con y sin ayudas, está en el análisis completo del modelo.`),
     },
     {
-      q: `¿Cuál es la autonomía del ${nombre}?`,
-      a:
-        coche.autonomiaKm == null
+      q: tp?.faqPreguntaAutonomia ?? `¿Cuál es la autonomía del ${nombre}?`,
+      a: tp?.faqAutonomia ??
+        (coche.autonomiaKm == null
           ? `No hay una autonomía publicada por ninguna fuente fiable para el ${nombre}, así que preferimos no inventarla: no la mostramos en la ficha.`
-          : `Homologa ${fmtKm(coche.autonomiaKm)}${/híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? " en modo eléctrico" : ""}${coche.cicloAutonomia === "CLTC" ? " en el ciclo chino CLTC, más optimista que el WLTP europeo" : /híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? "" : " (WLTP)"}.`,
+          : `Homologa ${fmtKm(coche.autonomiaKm)}${/híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? " en modo eléctrico" : ""}${coche.cicloAutonomia === "CLTC" ? " en el ciclo chino CLTC, más optimista que el WLTP europeo" : /híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? "" : " (WLTP)"}.`),
     },
     {
       q: `¿Cuánto maletero tiene el ${nombre}?`,
-      a:
-        coche.maleteroL == null
+      a: tp?.faqMaletero ??
+        (coche.maleteroL == null
           ? `El volumen de maletero del ${nombre} no está publicado por una fuente fiable: lo añadiremos en cuanto haya dato oficial.`
-          : `El ${nombre} ofrece ${fmtL(coche.maleteroL)} de maletero.`,
+          : `El ${nombre} ofrece ${fmtL(coche.maleteroL)} de maletero.`),
     },
     ...(coche.etiquetaDgt
       ? [
           {
-            q: `¿Qué etiqueta DGT lleva el ${nombre}?`,
-            a: sinTarifaEspana(coche)
+            q: tp?.faqPreguntaEtiqueta ?? `¿Qué etiqueta DGT lleva el ${nombre}?`,
+            a: tp?.faqEtiqueta ?? (sinTarifaEspana(coche)
               ? `Al ${nombre} le correspondería la etiqueta ${coche.etiquetaDgt === "Cero" ? "CERO" : coche.etiquetaDgt} por su motorización (criterios DGT); aún no tiene tarifa oficial en España.`
               : `El ${nombre} tiene etiqueta DGT «${coche.etiquetaDgt}». ${
                   coche.etiquetaDgt === "Cero"
@@ -362,7 +365,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
                       : coche.etiquetaDgt === "C"
                         ? "Revisa las restricciones de tu ZBE local, ya que con etiqueta C algunas ciudades restringen el acceso."
                         : "Revisa las restricciones de tu ZBE local antes de entrar."
-                }`,
+                }`),
           },
         ]
       : []),
@@ -372,8 +375,8 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
     ...(tieneBlog
       ? [
           {
-            q: `¿Dónde puedo leer el análisis completo del ${nombre}?`,
-            a: `Pulsa «Leer nuestro análisis».`,
+            q: tp?.faqPreguntaAnalisis ?? `¿Dónde puedo leer el análisis completo del ${nombre}?`,
+            a: propio(tp, "faqAnalisis", `Pulsa «Leer nuestro análisis».`),
           },
         ]
       : []),
@@ -612,6 +615,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
         <NotaCosa
           nombre={nombre}
           fichaId={coche.id}
+          justificacion={tp?.notaCosa}
           entrada={{
             precioEur: coche.precioDesde,
             precioNoOficialEspana: sinTarifaEspana(coche),
@@ -741,6 +745,9 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
               <DescargarFichaPDF nombre={nombre} />
             </div>
           </div>
+          {tp?.precio ? (
+            <p className="mt-3 text-gray-700">{tp.precio}</p>
+          ) : (
           <p className="mt-3 text-gray-700">
             {coche.precioDesde == null ? (
               <>{`El ${nombre} aún no tiene precio confirmado para España.`}</>
@@ -770,6 +777,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             )}{" "}
             El detalle de versiones, acabados y opciones está en nuestro análisis:
           </p>
+          )}
           <TablaVersiones versiones={versiones} nombre={nombre} />
           {tieneBlog && (
             <Link
@@ -850,7 +858,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
               ))}
             </div>
             <p className="mt-2 text-xs text-gray-500">
-              Fotos oficiales de {coche.marca} (prensa del fabricante).
+              {tp?.fotos ?? <>Fotos oficiales de {coche.marca} (prensa del fabricante).</>}
             </p>
                       </NightGallery>
 </section>
@@ -939,6 +947,9 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
                 </tr>
               </tbody>
             </table>
+            {tp?.costeNota ? (
+              <p className="mt-3 text-xs text-gray-500">{tp.costeNota}</p>
+            ) : (
             <p className="mt-3 text-xs text-gray-500">
               Estimación orientativa (octubre 2026): supone 15.000 km al año
               {costeUsaLuz && (
@@ -953,6 +964,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
               . {coche.costeMensual.notas} El coste real depende de tu uso, tu tarifa y tu
               aseguradora.
             </p>
+            )}
           </section>
         )}
 
@@ -982,7 +994,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
         )}
 
         <Suspense fallback={null}>
-          <SeguridadEuroNCAPLayz fichaId={coche.id} nombre={nombre} inline={coche.euroncap} />
+          <SeguridadEuroNCAPLayz fichaId={coche.id} nombre={nombre} inline={coche.euroncap} nota={tp?.seguridadNota} />
         </Suspense>
 
         {coche.planMantenimiento && (
@@ -1001,7 +1013,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
               <Wrench className="h-5 w-5 text-red-600" /> Mantenimiento en casa
             </h2>
             <p className="mt-1 text-sm text-gray-600">
-              Guías paso a paso para el mantenimiento básico de tu {nombre}, sin pasar por el taller.
+              {propio(tp, "mantenimientoIntro", `Guías paso a paso para el mantenimiento básico de tu ${nombre}, sin pasar por el taller.`)}
             </p>
             {coche.mantenimientoDIY.intervaloMantenimiento && (
               <p className="mt-2 rounded-lg bg-red-50 border border-red-200 px-3 py-2 text-xs font-semibold text-red-800">
@@ -1094,8 +1106,8 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           </section>
         )}
 
-        <RivalesCarrusel tipo="coches" id={coche.id} nombre={nombre} rivales={extra.r} />
-        <FraseRivales id={coche.id} nombre={nombre} precio={coche.precioDesde} rivales={extra.r} />
+        <RivalesCarrusel tipo="coches" id={coche.id} nombre={nombre} rivales={extra.r} intro={tp?.rivalesIntro} />
+        <FraseRivales id={coche.id} nombre={nombre} precio={coche.precioDesde} rivales={extra.r} texto={tp?.fraseRivales} />
 
         <section className="mt-8 grid gap-3 sm:grid-cols-2" aria-label="Comparar modelo">
           <Link
@@ -1115,7 +1127,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
         </section>
 
         <p className="mt-4 text-center text-sm text-gray-500">
-          ¿Cuántos años de batería dan las marcas?{" "}
+          {propio(tp, "preguntaBateria", "¿Cuántos años de batería dan las marcas?")}{" "}
           <Link to="/comparador-garantia-bateria/" className="font-semibold text-red-600 hover:underline">
             Ver el ranking de garantías de batería →
           </Link>
@@ -1128,14 +1140,14 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
         </p>
 
         <p className="mt-2 text-center text-sm text-gray-500">
-          ¿Cuánto consume de verdad?{" "}
+          {propio(tp, "preguntaConsumo", "¿Cuánto consume de verdad?")}{" "}
           <Link to="/calculadora-autonomia-real/" className="font-semibold text-red-600 hover:underline">
             Calculadora de autonomía real →
           </Link>
         </p>
 
         <p className="mt-2 text-center text-sm text-gray-500">
-          ¿Puede entrar en las ZBE?{" "}
+          {propio(tp, "preguntaZbe", "¿Puede entrar en las ZBE?")}{" "}
           <Link to="/calculadora-etiqueta-dgt/" className="font-semibold text-red-600 hover:underline">
             Calculadora de etiqueta DGT →
           </Link>
@@ -1166,7 +1178,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
         </Suspense>
         </div>
         {/* 18/10/2026: enlazado interno a las otras versiones y fichas de la marca */}
-        <OtrasFichasMarca tipo="coches" actual={coche} todas={hermanas} />
+        <OtrasFichasMarca tipo="coches" actual={coche} todas={hermanas} introVersiones={tp?.otrasVersiones} />
         </article>
         <PanelLateral
           nombre={nombre}

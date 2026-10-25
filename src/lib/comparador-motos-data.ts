@@ -58,7 +58,11 @@ export interface FotoGaleriaMoto {
   alto: number;
 }
 
+import type { TextosPropios } from "@/lib/textos-propios.ts";
+
 export interface MotoComparador {
+  /** Textos propios opcionales de esta ficha (ver textos-propios.ts). */
+  textosPropios?: TextosPropios;
   id: string;            // slug único, ej. "silence-s01-ficha-tecnica-precio"
   marca: string;         // ej. "Silence"
   modelo: string;        // ej. "S01"

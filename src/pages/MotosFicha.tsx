@@ -43,6 +43,7 @@ import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
 import { garantiaDeMarca } from "@/lib/garantias-marcas.ts";
 import { tituloFichaMoto } from "@/lib/seo-titulo-ficha.ts";
 import type { MotoComparador } from "@/lib/comparador-motos-data.ts";
+import { propio } from "@/lib/textos-propios.ts";
 import type { ResenaSchemaExtra } from "@/components/ResenasVehiculo.tsx";
 
 import { loadArrayItem, loadModuleArray, loadRecordEntry } from "@/lib/data-loader-utils.ts";
@@ -111,6 +112,7 @@ const FILAS: Fila[] = [
 
 function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: FichaExtra; hermanas?: MotoComparador[] }) {
   const nombre = `${moto.marca} ${moto.modelo}`.replace(/:+$/, "").trim();
+  const tp = moto.textosPropios;
   // GEO 17/10/2026: respuesta rápida (ficha + historial de precios, nada inventado).
   const historial = useHistorialPrecios(moto.id);
   useVisitaFicha("motos", moto.id);
@@ -186,14 +188,14 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
   const FAQS = [
     {
       q: `¿Cuánto cuesta la ${nombre}?`,
-      a:
-        moto.precioDesde == null
+      a: tp?.faqPrecio ??
+        (moto.precioDesde == null
           ? `La ${nombre} aún no tiene precio confirmado para España: lo publicaremos en cuanto la marca lo anuncie.`
-          : `${geo.faqPrecio ?? `La ${nombre} parte de ${fmtPrecio(moto.precioDesde)}.`} El detalle de versiones está en la comparativa completa.`,
+          : `${geo.faqPrecio ?? `La ${nombre} parte de ${fmtPrecio(moto.precioDesde)}.`} El detalle de versiones está en la comparativa completa.`),
     },
     {
       q: `¿Qué carnet necesito para la ${nombre}?`,
-      a: `Necesitas el carnet ${moto.carnet}. ${
+      a: tp?.faqCarnet ?? `Necesitas el carnet ${moto.carnet}. ${
         /A1/.test(moto.carnet)
           ? "Recuerda: el carnet B con más de 3 años de antigüedad también habilita para motos de hasta 11 kW (A1)."
           : "Comprueba que tu permiso cubre la potencia de esta moto antes de comprarla."
@@ -221,7 +223,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
       : []),
     {
       q: `¿La ${nombre} tiene etiqueta Cero?`,
-      a: respuestaEtiquetaMoto(nombre, moto.etiquetaDgt),
+      a: propio(tp, "faqZbe", respuestaEtiquetaMoto(nombre, moto.etiquetaDgt)),
     },
   ];
 
@@ -433,6 +435,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
         {/* ── La nota de Cosa (fórmula determinista sobre datos reales) ── */}
         <NotaCosa
           nombre={nombre}
+          justificacion={tp?.notaCosa}
           entrada={{
             precioEur: moto.precioDesde,
             potenciaCv: moto.potenciaCv ?? (moto.potenciaKw != null ? moto.potenciaKw * 1.36 : null),
@@ -529,7 +532,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
               ))}
             </div>
             <p className="mt-2 text-xs text-gray-500">
-              Fotos oficiales de {moto.marca} (prensa del fabricante).
+              {tp?.fotos ?? <>Fotos oficiales de {moto.marca} (prensa del fabricante).</>}
             </p>
                       </NightGallery>
 </section>
@@ -580,6 +583,9 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
               <DescargarFichaPDF nombre={nombre} />
             </div>
           </div>
+          {tp?.precio ? (
+            <p className="mt-3 text-gray-700">{tp.precio}</p>
+          ) : (
           <p className="mt-3 text-gray-700">
             {moto.precioDesde == null ? (
               <>{`La ${nombre} aún no tiene precio confirmado para España.`}</>
@@ -591,13 +597,14 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
             )}{" "}
             El detalle de versiones y opciones está en nuestra comparativa:
           </p>
+          )}
           <TablaVersiones versiones={moto.versiones} nombre={nombre} />
           {(() => {
             const g = garantiaDeMarca(moto.marca, "motos");
             return g && g.anios != null ? (
               <p className="mt-3 text-sm text-gray-500">
                 {`🛡️ Garantía oficial ${moto.marca}: `}<strong className="text-gray-800">{`${g.anios} años${g.km ? ` / ${fmtMiles(g.km)} km` : ""}`}</strong>
-                {g.nota ? <span className="text-gray-400"> ({g.nota.split(".")[0]})</span> : null}
+                {tp?.garantiaNota ? <span className="text-gray-400"> ({tp.garantiaNota})</span> : g.nota ? <span className="text-gray-400"> ({g.nota.split(".")[0]})</span> : null}
               </p>
             ) : null;
           })()}
@@ -665,7 +672,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
               <Wrench className="h-5 w-5 text-red-600" /> Mantenimiento en casa
             </h2>
             <p className="mt-1 text-sm text-gray-600">
-              Guías paso a paso para el mantenimiento básico de tu {nombre}, sin pasar por el taller.
+              {propio(tp, "mantenimientoIntro", `Guías paso a paso para el mantenimiento básico de tu ${nombre}, sin pasar por el taller.`)}
             </p>
             {moto.mantenimientoDIY.intervaloMantenimiento && (
               <p className="mt-2 rounded-lg bg-red-50 border border-red-200 px-3 py-2 text-xs font-semibold text-red-800">
@@ -758,8 +765,8 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
           <HistoriaModeloLazy fichaId={moto.id} nombre={nombre} />
         </Suspense>
 
-        <RivalesCarrusel tipo="motos" id={moto.id} nombre={nombre} rivales={extra.r} />
-        <FraseRivales id={moto.id} nombre={nombre} precio={moto.precioDesde} rivales={extra.r} />
+        <RivalesCarrusel tipo="motos" id={moto.id} nombre={nombre} rivales={extra.r} intro={tp?.rivalesIntro} />
+        <FraseRivales id={moto.id} nombre={nombre} precio={moto.precioDesde} rivales={extra.r} texto={tp?.fraseRivales} />
 
         <section className="mt-8 grid gap-3 sm:grid-cols-2" aria-label="Comparar modelo">
           <Link
@@ -802,7 +809,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
         </Suspense>
         </div>
         {/* 18/10/2026: enlazado interno a las otras versiones y fichas de la marca */}
-        <OtrasFichasMarca tipo="motos" actual={moto} todas={hermanas} />
+        <OtrasFichasMarca tipo="motos" actual={moto} todas={hermanas} introVersiones={tp?.otrasVersiones} />
         </article>
         <PanelLateral
           nombre={nombre}

@@ -6573,6 +6573,17 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "honda-adv350-2024-ficha-tecnica-precio",
+    textosPropios: {
+      "notaCosa": "Sus 29 CV por 6.580 € puntúan alto; en practicidad la nota se queda corta.",
+      "precio": "La Honda ADV350 (2024) parte de 6.580 € con el eSP+ de 330 cc; colores y accesorios, en la comparativa:",
+      "fotos": "Imágenes de la sala de prensa de Honda Motor Europe.",
+      "garantiaNota": "Honda cubre la ADV350 tres años en Europa, hagas los km que hagas",
+      "rivalesIntro": "Scooters de 300-400 cc alrededor de 6.500 €.",
+      "fraseRivales": "Sus 6.580 € apenas se separan 17 € de la media de sus seis rivales (6.563 €); por precio es la quinta de siete.",
+      "faqPrecio": "Honda la vende a 6.580 € y no ha variado desde nuestro primer registro, el 14/10/2026.",
+      "faqCarnet": "Con 29 CV entra en el A2; con el B solo no puedes llevarla, porque supera los 125 cc.",
+      "faqZbe": "No. Como scooter de gasolina lleva la «C»; en ciudades cuya ZBE limita las motos C, la ADV350 tiene esas mismas restricciones."
+    },
     marca: "Honda",
     modelo: "ADV350",
     version: "ADV350 2024",
@@ -6594,9 +6605,9 @@ export const MOTOS_BASE: MotoComparador[] = [
     aprox: [],
     pros: [
       "El scooter de más de 125 cc más vendido de Honda en España",
-      "Motor eSP+ de 330 cc con 29 CV y 31,5 Nm, suficiente para ciudad y autovía",
+      "El eSP+ de 330 cc (29 CV, 31,5 Nm) aguanta autovía sin sufrir",
       "Peso contenido de 186 kg en orden de marcha",
-      "Consumo homologado de 3,4 l/100 km y autonomía de unos 340 km con 11,7 litros",
+      "Gasta 3,4 l/100 km: los 11,7 litros del depósito dan para unos 340 km",
       "Control de par seleccionable Honda HSTC en dos niveles y desconectable",
       "Estética crossover con neumáticos de tacos, parabrisas ajustable y protecciones",
     ],
