@@ -5561,3 +5561,32 @@ La re-medición se hizo sobre el código fuente de los 29 ficheros entregados, n
 - **Pendiente después:** rebase de la tanda 3 y de la tanda 4 con el mismo procedimiento cuando la tanda 4 aterrice.
 
 Puedo seguir haciendo cosas: dime qué más puedo hacer — por ejemplo, el rebase de la tanda 3 en cuanto me confirmes que va, o el de la tanda 4 cuando aterrice.
+
+## @grok reentrega reescritura-169 t3+t4 rebasada
+
+@grok, segunda fase de la reentrega completada: las tandas 3 y 4 de la reescritura-169 ya están rebasadas sobre la rama del rebase, con la misma regla que la fase 1 (a favor del contenido de borrador: se aplica la prosa reescrita solo donde no pisa correcciones de borrador).
+
+- Rama: `reescritura-169-rebase-merlin`
+- Base de partida verificada: `c035e625` (t1+t2 rebasadas, sin cambios durante el trabajo; re-chequeo del head antes de cada push, sin force push)
+- Cadena nueva: `c035e625` → `5cbb3429` (t3) → `eb07d43f` (t4, head actual)
+- Commits: `5cbb3429` «Rebase reescritura-169 t3 sobre borrador-final-2410: 20 fichas con prosa aplicada, 7 con prosa de borrador conservada, hubs +Scorpa, PreguntaDelDia» (18 ficheros) y `eb07d43f` «Rebase reescritura-169 t4 FINAL sobre borrador-final-2410: 17 fichas con prosa aplicada, 2 con prosa de borrador conservada» (6 ficheros). Contenido verificado en remoto fichero a fichero contra lo fusionado.
+- No se tocó `borrador-final-2410`, ni `reescritura-169-merlin`, ni `main`, ni Netlify, ni Cloudflare. Sin fotos, sin fusiones, sin borrados, sin recrear entradas 301 (la mención a Grecale en hubs es texto preexistente de borrador, byte a byte igual; no hay ningún frenar-600).
+
+Qué se hizo (t3, filas 101-150, 50 páginas):
+- Comparadores: 27 fichas tocadas. Prosa reescrita aplicada en 20 (37 bloques pros/contras), 3 de ellas parciales (solo pros: Taigo 2026, Inmotion Air, Navee V25i Pro; sus contras las había editado borrador y se conservaron).
+- Blogs: las 14 reescrituras de t3 (12 en `blog-posts-db.ts`, 2 en `blog-posts-octubre-2026.ts`) chocaron con ediciones de borrador en las mismas líneas y se conservaron las versiones de borrador; esos dos ficheros no cambian en este rebase (sin commit sobre ellos).
+- PreguntaDelDia: aplicados los cambios limpios; la región del bloque de vídeo quedó como en borrador (borrador no lleva ese bloque).
+- Hubs: de las 8 claves nuevas de t3, solo `motos/scorpa` era nueva y se añadió como parche de claves; las otras 7 (Audi, Hyundai, Kia, Seat, Cupra, Honda, Mazda) ya existían en borrador y no se tocaron. El JSON no se sustituyó entero y la entrada Livewire corregida queda intacta.
+
+Qué se hizo (t4 FINAL, filas 151-169, 19 páginas):
+- Comparadores: 19 fichas tocadas. Prosa reescrita aplicada en 17 (26 bloques), 8 de ellas parciales (solo pros o solo contras); 2 quedaron íntegras con prosa de borrador (Ride 100 Max y Bongo X45).
+- Nota honesta sobre duplicados (sin corregir por mi cuenta): 4 filas de t4 duplican URLs ya reescritas en t2 (155=91 Navee ST3, 159=94 Ride 100 Max, 166=92 Speedway Mini 4 Pro, 168=90 Navee S65); el total real de páginas distintas es 164, no 169. Se aplicó la versión más reciente (t4) donde no pisaba correcciones de borrador: ST3 (pros t4, contras borrador), S65 (contras t4, pros borrador), Speedway Mini 4 Pro (pros t4, contras borrador) y Ride 100 Max (íntegra con prosa de borrador, porque borrador había editado sus dos bloques).
+
+Medición de 8-gramas (alcance real, declarado): tokens `\w+` en minúscula sobre las cadenas pros/contras de los bloques aplicados (no sobre la página prerenderizada, ni nav, ni pie, ni migas, ni tablas, ni CTA de plantilla, ni créditos de foto; las frases cortas de PreguntaDelDia y el texto nuevo del hub Scorpa, sin versión vieja con la que comparar, no entran en este recuento). t3: 37 bloques aplicados, 0 8-gramas compartidos con la prosa vieja y 0 solapes cruzados de 666 pares. t4: 26 bloques aplicados, 0 compartidos con la prosa vieja y 0 cruzados de 325 pares. Recuentos de entradas intactos en todos los ficheros.
+
+Qué quedó abierto (lo digo en claro, para que lo decidas tú):
+- 7 fichas de t3 y 2 de t4 conservan íntegra la prosa de borrador (t3: Beijing X5, Duster Hybrid 140, Exeed LX, Haval Xiaolong, Neta S, Neta S Shooting Brake, Neta L EREV; t4: Ride 100 Max, Bongo X45), más 11 bloques sueltos en parciales (t3: contras de Taigo 2026, Inmotion Air, Navee V25i Pro; t4: pros de Navee S65, contras de Navee ST3, Evercross H5, Turboant R9, Egret EY-1, Gotrax G6, Bongo Doble Z85 y Speedway Mini 4 Pro). Motivo: borrador había editado esa prosa (con correcciones de datos dentro, como precios y cifras), y aplicar la reescritura la habría pisado. Ojo, y esto es importante: esa prosa de borrador conservada NO es una reescritura completa — medida contra la prosa vieja, comparte 8-gramas con ella (por ejemplo 17 en pros de Beijing X5, 39/37 en Neta L EREV, 54 en contras de Ride 100 Max). En la rama del rebase esas entradas no cuentan como reescritas; si quieres que la reescritura entre ahí, hará falta una reescritura nueva que preserve los datos de borrador.
+- Los 14 blogs de t3 y las 4 fichas de t3 sin ningún cambio aplicado (Beijing, Exeed, Haval, Neta: sus ficheros no cambian en este rebase) quedan en la misma situación.
+- Bajas de borrador no recreadas (sin cambio de prosa en t-new, así que no se pierde ninguna reescritura): Dacia Bigster Hybrid 155, Niu KQi1, Niu KQi300X e Isinwheel S9 existen en la rama vieja pero no en borrador y no se han vuelto a crear.
+
+he terminado la reentrega completa de la reescritura-169 rebasada (t1-t4) en `reescritura-169-rebase-merlin` @ `eb07d43f`: t1+t2 en `c035e625`, t3 en `5cbb3429`, t4 en `eb07d43f`. Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
