@@ -1310,9 +1310,9 @@ export const EXTRA_POSTS: BlogPost[] = [
   {
     slug: "zonas-bajas-emisiones-espana-turistas-extranjeros",
     locale: "all",
-    title: "ZBE en España: evita la multa si vienes de fuera (2026)",
+    title: "ZBE en España 2026: guía para turistas con coche extranjero",
     excerpt:
-      "Guía ZBE para turistas en España: qué etiqueta DGT necesitas, equivalencias para coches franceses, alemanes y portugueses, y cómo recurrir una multa.",
+      "Turista con coche extranjero en España: qué equivalencia DGT te corresponde, qué ciudades tienen ZBE y cómo recurrir la multa si te llega.",
     category: "Extranjeros en España",
     date: "2026-09-05",
     readTime: 6,
@@ -1332,21 +1332,21 @@ export const EXTRA_POSTS: BlogPost[] = [
       "etiqueta ambiental coche extranjero equivalencia",
       "barcelona low emission zone foreign car fine",
     ],
-    content: `## Las Zonas de Bajas Emisiones de España y los turistas europeos
+    content: `## Zonas de Bajas Emisiones en España para visitantes europeos
 
-En 2026, España cuenta con **más de 25 ciudades** con Zonas de Bajas Emisiones (ZBE) operativas. Estas zonas restringen la circulación de vehículos contaminantes y afectan directamente a los **turistas franceses, alemanes, portugueses y de toda la UE** que visitan España con su propio vehículo.
+Durante 2026, en España ya funcionan ZBE en **más de 25 ciudades**. Estas áreas limitan el paso de los vehículos más contaminantes y tocan de lleno a los **visitantes franceses, alemanes, portugueses y del resto de la UE** que recorren España en su propio coche.
 
-## ¿Qué es la etiqueta DGT y por qué la necesito?
+## La etiqueta de la DGT y por qué te afecta
 
-La **etiqueta medioambiental de la DGT** clasifica los vehículos según su nivel de emisiones:
+La **pegatina medioambiental de la DGT** ordena los vehículos según sus emisiones:
 
-- **CERO (azul)**: Vehículos 100% eléctricos, pila de combustible y algunos híbridos enchufables
-- **ECO (verde-azul)**: Híbridos enchufables con autonomía eléctrica ≥ 40 km y GNC/GLP hasta Euro 6
-- **C (verde)**: Gasolina desde Euro 4 (2006+), Diésel desde Euro 6 (2015+)
-- **B (amarillo)**: Gasolina Euro 3 (2001-2005), Diésel Euro 4-5 (2006-2014)
-- **Sin etiqueta**: Gasolina Euro 2 o anterior, Diésel Euro 3 o anterior — **PROHIBIDOS en ZBE**
+- **Azul, CERO**: coches totalmente eléctricos, de pila de combustible y ciertos híbridos enchufables
+- **Verde-azul, ECO**: híbridos enchufables con al menos 40 km de autonomía eléctrica y modelos de GNC o GLP hasta Euro 6
+- **Verde, C**: gasolina a partir de Euro 4 (desde 2006) y diésel a partir de Euro 6 (desde 2015)
+- **Amarilla, B**: gasolina Euro 3 (2001-2005) y diésel Euro 4-5 (2006-2014)
+- **Sin distintivo**: gasolina Euro 2 o anterior y diésel Euro 3 o anterior — **VETADOS en las ZBE**
 
-## Equivalencias para vehículos extranjeros
+## Equivalencias para coches de fuera
 
 | País | Sistema local | Equivalente DGT |
 |---|---|---|
@@ -1358,66 +1358,66 @@ La **etiqueta medioambiental de la DGT** clasifica los vehículos según su nive
 | Portugal | Euro 6 | C o ECO |
 | Portugal | Euro 4-5 | B o C |
 
-> La equivalencia exacta depende del año de matriculación, combustible y nivel Euro del vehículo. Consúltala en **dgt.es/etiqueta** antes de tu viaje.
+> La correspondencia precisa varía con el año de matriculación, el combustible y la norma Euro del coche. Revísala en **dgt.es/etiqueta** antes de emprender el viaje.
 
 <img src=/media/zbe-camara-control.webp alt=Cámara de control de acceso a una Zona de Bajas Emisiones>
 
-## ZBE Barcelona — La más estricta de España para turistas
+## Barcelona: la ZBE más exigente para el visitante
 
-La **Zona de Baixes Emissions de l'Àrea Metropolitana de Barcelona** incluye toda la ciudad y 36 municipios del Baix Llobregat y el Barcelonès. Restricciones en días laborables de 7h a 20h:
+La **Zona de Baixes Emissions del Área Metropolitana de Barcelona** abarca la capital entera más 36 municipios del Barcelonès y del Baix Llobregat. En días laborables, de 7h a 20h, rige lo siguiente:
 
-- Sin etiqueta → Prohibición total
-- Etiqueta B → Prohibición en días de alta contaminación
-- Etiqueta C → Circulación permitida
-- ECO y CERO → Sin restricciones
+- Sin distintivo → veto absoluto
+- Distintivo B → veto en jornadas de alta contaminación
+- Distintivo C → paso autorizado
+- ECO y CERO → sin limitaciones
 
-**Multa por acceso sin etiqueta: 500€ para turismos, 1.000€ para furgonetas.**
+**Sanción por acceder sin distintivo: 500€ en turismos y 1.000€ en furgonetas.**
 
-### ¿Cómo saber si mi vehículo francés/alemán/portugués puede entrar en la ZBE de Barcelona?
+### ¿Cómo compruebo el acceso de mi coche francés, alemán o portugués a Barcelona?
 
-1. Visita **zbe.barcelona.cat** — tiene un buscador por matrícula extranjera
-2. Si tu vehículo es Euro 6 gasolina o diésel, generalmente puedes entrar
-3. Si tu vehículo es anterior a 2015 (diésel) o 2006 (gasolina), hay riesgo de prohibición
+1. Entra en **zbe.barcelona.cat**: dispone de un buscador para matrículas extranjeras
+2. Con un Euro 6 de gasolina o diésel, por lo general podrás pasar
+3. Con un diésel anterior a 2015 o una gasolina anterior a 2006, existe riesgo de veto
 
-## ZBE Madrid — Qué afecta a los no residentes
+## Madrid: qué cambia para quien no reside allí
 
-**Madrid Central** y la **ZBE de la ciudad de Madrid** permiten acceso libre solo a vehículos con etiqueta C, ECO o CERO. Los turistas pueden:
+En Madrid, tanto **Madrid Central** como la **ZBE municipal** solo dejan pasar libremente a los vehículos con distintivo C, ECO o CERO. Quien visita la capital puede:
 
-- Acceder con vehículos Euro 6 sin problema
-- Solicitar una **Autorización de Acceso Puntual** en el Ayuntamiento de Madrid (24h de acceso gratuito)
-- Usar el aparcamiento disuasorio en la A-6 o A-3 y entrar en metro
+- Circular con un Euro 6 sin problema
+- Pedir una **Autorización de Acceso Puntual** al Ayuntamiento de Madrid (24h de paso gratuito)
+- Dejar el coche en el aparcamiento disuasorio de la A-6 o de la A-3 y seguir en metro
 
 <img src=/media/pilar-zbe.webp alt=Guía de Zonas de Bajas Emisiones en España>
 
-## Cómo recurrir una multa de ZBE si no sabías que existía
+## Recurrir una sanción de ZBE sin conocer su existencia
 
-La ignorancia de la ley no exime de su cumplimiento, **pero sí puede servir de atenuante en ciertos casos**. Si has recibido una multa de ZBE como turista extranjero, puedes alegar:
+Desconocer la norma no exime de cumplirla, **aunque en ciertos supuestos puede atenuar la sanción**. Si te ha llegado una multa de ZBE como visitante extranjero, puedes sostener:
 
-- **Falta de señalización adecuada** en el punto de entrada a la ZBE
-- **Imposibilidad de obtener la etiqueta** al ser residente en el extranjero
-- **Error en el vehículo identificado** (matricula similar, error del sistema)
+- **Que la entrada no estuviera señalizada como es debido**
+- **Que, viviendo fuera de España, no pudieras conseguir la pegatina**
+- **Que el vehículo sancionado no fuera el tuyo, por una matrícula parecida o un fallo del sistema**
 
-Usa **RecurreTuMulta.online** para analizar si tu multa tiene argumentos de nulidad. El análisis es gratuito.
+Usa **RecurreTuMulta.online** para revisar si tu sanción presenta motivos de nulidad. El análisis es gratuito.
 
-## Ciudades con ZBE operativa en España en 2026
+## Localidades con ZBE activa en España durante 2026
 
-- Barcelona y Área Metropolitana
-- Madrid (Madrid Central + ZBE ciudad)
-- Valencia (ZBE Pla de Mobilitat Urbana)
-- Sevilla (ZBE Centro Histórico)
-- Valladolid (ZBE Centro)
-- Zaragoza (ZBE Av. César Augusto)
-- Málaga (en implementación)
-- Bilbao (en implementación)
+- El área metropolitana de Barcelona
+- Madrid, con su ZBE urbana y Madrid Central
+- Valencia, con su ZBE del Pla de Mobilitat Urbana
+- Sevilla, con su ZBE del Centro Histórico
+- Valladolid, con su ZBE del Centro
+- Zaragoza, con su ZBE de la Av. César Augusto
+- Málaga, todavía en implementación
+- Bilbao, todavía en implementación
 
-## Consejos para turistas europeos antes de entrar en España con su propio vehículo
+## Recomendaciones para europeos que viajan a España en su coche
 
-- Comprueba la etiqueta DGT equivalente de tu vehículo en **dgt.es** con al menos 2 semanas de antelación
-- Descarga la app **DGT 3.0** para ver la señalización y los límites en tiempo real
-- Si usas GPS extranjero (Waze, Google Maps), activa los límites de velocidad españoles
-- Guarda la foto de la multa si la recibes — la IA de RecurreTuMulta.online la puede analizar en segundos
+- Revisa la equivalencia DGT de tu coche en **dgt.es** con dos semanas de antelación como mínimo
+- Instala la app **DGT 3.0** para consultar la señalización y los límites al momento
+- Si tu navegador es extranjero (Waze o Google Maps), configura en él los límites de velocidad de España
+- Conserva la foto de la sanción si te llega: la IA de RecurreTuMulta.online la examina en segundos
 
-## También te puede interesar
+## Otros artículos que te pueden interesar
 
 - <a href=/blog/multa-trafico-barcelona-recurrir/>cómo recurrir una multa de tráfico en Barcelona</a>
 - <a href=/blog/multa-trafico-madrid-recurrir/>cómo recurrir una multa de tráfico en Madrid</a>
@@ -1427,26 +1427,26 @@ Usa **RecurreTuMulta.online** para analizar si tu multa tiene argumentos de nuli
 
 ## Preguntas frecuentes
 
-### ¿Qué es la etiqueta DGT?
-La clasificación medioambiental de la DGT según el nivel de emisiones: CERO (azul), ECO (verde-azul), C (verde), B (amarillo) y sin etiqueta (prohibidos en ZBE).
+### ¿En qué consiste la etiqueta de la DGT?
+La DGT ordena así los coches por emisiones: CERO en azul, ECO en verde-azul, C en verde, B en amarillo y los sin distintivo, vetados en las ZBE.
 
-### ¿Necesito la etiqueta DGT si soy turista con coche extranjero?
-No puedes obtener la pegatina física siendo no residente, pero tu vehículo tiene una equivalencia según su norma Euro, año y combustible. Consúltala en dgt.es/etiqueta antes de tu viaje.
+### ¿Un turista con coche extranjero necesita la pegatina de la DGT?
+Como no residente no puedes obtener la pegatina física, pero a tu coche le corresponde una equivalencia según su norma Euro, su año y su combustible; revísala en dgt.es/etiqueta antes de emprender el viaje.
 
-### ¿Cuánto es la multa por entrar en la ZBE de Barcelona sin etiqueta?
-200 €, sanción única para cualquier vehículo sin autorización, y 260 € si hay un episodio de contaminación declarado (Ordenanza de la ZBE de Barcelona, art. 20; ajuntament.barcelona.cat).
+### ¿Qué importe tiene la sanción barcelonesa por acceder sin distintivo?
+Asciende a 200 €, una sanción única para cualquier vehículo sin autorización, que sube a 260 € cuando se declara un episodio de contaminación, según el artículo 20 de la ordenanza barcelonesa de la ZBE (ajuntament.barcelona.cat).
 
-### ¿Cómo sé si mi coche francés o alemán puede entrar en Barcelona?
-En zbe.barcelona.cat hay un buscador por matrícula extranjera. Si tu vehículo es Euro 6 gasolina o diésel, generalmente puedes entrar.
+### ¿Cómo verifico el acceso de un coche francés o alemán a Barcelona?
+El portal zbe.barcelona.cat ofrece un buscador para matrículas extranjeras. Con un Euro 6 de gasolina o diésel, por lo general podrás pasar.
 
-### ¿Se puede recurrir una multa de ZBE siendo turista?
-Puedes alegar falta de señalización adecuada en el punto de entrada, imposibilidad de obtener la etiqueta al ser residente en el extranjero o error en el vehículo identificado.
+### ¿Cabe recurrir una sanción de ZBE siendo turista?
+Puedes sostener que la entrada no estuviera señalizada como es debido, que viviendo fuera de España no pudieras conseguir la pegatina, o que el vehículo sancionado no fuera el tuyo por un error de identificación.
 
-### ¿Qué ciudades españolas tienen ZBE en 2026?
-Más de 25, entre ellas Barcelona y su área metropolitana, Madrid, Valencia, Sevilla, Valladolid, Zaragoza, Málaga y Bilbao.
+### ¿Qué localidades españolas cuentan con ZBE en 2026?
+Superan las 25: Barcelona y su área metropolitana, Zaragoza, Valencia, Sevilla, Valladolid, Madrid, Bilbao y Málaga.
 
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.`,
+Antes de abonar una sanción que sospeches defectuosa, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a>.`,
   },
 ];
 
@@ -1867,9 +1867,9 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
   {
     slug: "gasolina-cara-como-evitar-multas-velocidad-que-cuestan-mas-que-un-deposito",
     locale: "es",
-    title: "Multas de velocidad que cuestan más que llenar el depósito",
+    title: "Multas de velocidad: lo que cuestan frente a un depósito",
     excerpt:
-      "Con el litro a 1,85 €, una multa de 300 € equivale a 160 litros de gasolina. Cómo conducir eficientemente, evitar sanciones y recurrir las que tienes.",
+      "Con el litro a 1,85 €, una sanción de 300 € supone 162 litros. Conduce con menos gasto, evita radares y revisa cualquier multa antes de pagarla.",
     category: "Actualidad",
     date: "2026-09-12",
     readTime: 7,
@@ -1885,15 +1885,13 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "radar movil multa recurrir 2026",
       "gasolina mas cara que multa",
     ],
-    content: `## El doble golpe de 2026: gasolina cara + multas de radar
+    content: `## Gasolina por las nubes y radares en cada esquina: el gasto doble de 2026
 
-En 2026, los conductores españoles se enfrentan a una presión financiera sin precedentes: el litro de gasolina roza los **1,85 €** y la DGT ha intensificado los controles de velocidad con más radares fijos, tramos y cinemómetros móviles.
+El 2026 combina dos facturas para quien usa el coche en España: el litro de gasolina se mueve en torno a 1,85 € y la Dirección General de Tráfico ha reforzado la vigilancia de la velocidad con más equipos fijos, de tramo y móviles.
 
-El resultado: **una multa de velocidad media equivale a 2-3 meses de gasolina**. Y si encima llevas puntos, la factura se multiplica.
+El efecto en el bolsillo es directo: una sanción media por velocidad puede suponer lo mismo que entre dos y tres meses de combustible. Y si la infracción resta puntos, el coste total crece todavía más.
 
----
-
-## Cuánto equivale cada multa en litros de gasolina (precio septiembre 2026)
+## Lo que vale cada sanción medido en litros (precio de septiembre de 2026)
 
 | Multa DGT | Importe | Litros de gasolina equivalentes |
 |---|---|---|
@@ -1905,42 +1903,42 @@ El resultado: **una multa de velocidad media equivale a 2-3 meses de gasolina**.
 | Sin cinturón | 200 € | 108 litros |
 | Semáforo en rojo | 200 € | 108 litros |
 
-> A 1,85 €/litro, una multa de 300 € es lo mismo que llenar el depósito 3 veces en un coche mediano de 50 litros.
+> A 1,85 € el litro, abonar 300 € de multa sale como repostar tres veces el depósito de un turismo medio de 50 litros.
 
 ---
 
 <img src=/media/gasolinera-autopista-cuerpo.webp alt=Estación de servicio en autopista al atardecer>
 
-## La DGT y los radares en 2026: más vigilancia, menos tolerancia
+## Más radares en 2026 y menos margen de error
 
-En 2026, España cuenta con más de **1.200 radares fijos** homologados y más de **500 radares de tramo** activos. Además, los **furgones de la DGT con radar móvil** patrullan las vías de gran capacidad.
+España supera en 2026 los 1.200 radares fijos homologados y cuenta con más de 500 radares de tramo en servicio. A ellos se suman los furgones de la DGT equipados con radar móvil, que recorren las vías de gran capacidad.
 
-### Los radares más multadores de España
+### Dónde se multa más en España
 
-1. **N-II (Madrid-Barcelona)** — uno de los tramos más sancionadores de Europa
-2. **A-4 (Madrid-Cádiz)** — alta densidad de radares de tramo
-3. **AP-7 (Costa del Sol)** — cámaras de control de velocidad media
-4. **Circunvalaciones de Madrid y Barcelona** — radares fijos en vías urbanas a 70 km/h
+1. **N-II (Madrid-Barcelona)** — entre los tramos que más sancionan de Europa
+2. **A-4 (Madrid-Cádiz)** — muchos radares de tramo concentrados
+3. **AP-7 (Costa del Sol)** — control de velocidad media por cámaras
+4. **Circunvalaciones de Madrid y Barcelona** — equipos fijos en vías urbanas con límite de 70 km/h
 
-### El radar de tramo: el más difícil de evitar
+### El tramo vigilado: el más difícil de esquivar
 
-Los radares de tramo miden la **velocidad media** entre dos puntos separados por varios kilómetros. No sirve de nada frenar al verlo: te multan si la media supera el límite. Son los más efectivos y los que generan más recursos exitosos, porque requieren un protocolo técnico muy preciso.
+Un radar de tramo calcula la velocidad media entre dos puntos distantes varios kilómetros. Frenar al divisarlo no sirve: si la media rebasa el límite, llega la sanción. Su eficacia es alta y también concentran buena parte de los recursos que prosperan, porque el sistema exige un protocolo técnico muy riguroso.
 
 ---
 
-## Cómo conducir más eficientemente (y evitar multas)
+## Conducir gastando menos y sin sanciones
 
-La buena noticia es que **las técnicas que ahorran gasolina también reducen el riesgo de multa**. Conducir de forma anticipada, sin acelerones bruscos y respetando los límites es la combinación perfecta.
+Lo positivo: las formas de ahorrar combustible también bajan la probabilidad de sanción. Anticiparse, evitar acelerones bruscos y respetar los límites forman la mezcla adecuada.
 
-### Técnica de anticipación (la más efectiva)
+### Anticiparse al tráfico: la técnica que más ahorra
 
-1. **Levanta el pie del acelerador con 200-300 metros de antelación** cuando veas un semáforo en rojo, una curva o un radar. El motor en ralentí no consume nada.
-2. **Mantén una distancia de seguridad generosa** — el espacio entre tu coche y el de delante es tu margen de maniobra para no frenar bruscamente.
-3. **Usa el freno motor bajando marchas** en descensos largos en vez de frenar con el pedal.
+1. **Levanta el pie 200-300 metros antes** de un semáforo rojo, una curva o un radar. Con el pie levantado, el motor queda en ralentí y el gasto se reduce a cero.
+2. **Deja una distancia de seguridad amplia** — ese hueco con el vehículo de delante te da margen para no frenar de golpe.
+3. **Retén con el motor reduciendo marchas** en bajadas largas, en lugar de pisar el freno.
 
-### Velocidades óptimas para el consumo
+### La velocidad con menos gasto
 
-El consumo de un coche de gasolina moderno es mínimo entre **80 y 100 km/h**. Por encima de 100 km/h, la resistencia aerodinámica sube exponencialmente y el consumo se dispara.
+El gasto de un turismo moderno de gasolina toca su mínimo entre 80 y 100 km/h. Pasados los 100 km/h, la resistencia del aire crece de forma exponencial y el consumo se dispara.
 
 | Velocidad | Consumo relativo |
 |---|---|
@@ -1951,56 +1949,56 @@ El consumo de un coche de gasolina moderno es mínimo entre **80 y 100 km/h**. P
 | 120 km/h | +65% |
 | 130 km/h | +90% |
 
-Ir a **100 km/h** en vez de **120 km/h** reduce el consumo en un **23%**. En un trayecto de 500 km, eso son entre 25 y 35 litros de diferencia.
+Bajar de 120 km/h a 100 km/h recorta el consumo un 23%. En un viaje de 500 km, ese cambio supone entre 25 y 35 litros menos.
 
-### Otros factores que aumentan el consumo sin que lo notes
+### Otros gastos ocultos
 
-- **Aire acondicionado a tope** — aumenta el consumo hasta un 15%
-- **Neumáticos desinflados** — a 0,3 bar menos de la presión recomendada, el consumo sube un 3%
-- **Baca o portaequipajes vacíos** — la resistencia aerodinámica añade un 8-10% de consumo
-- **Peso extra** — 100 kg de más = 0,4 litros extra por cada 100 km
+- **Climatizador al máximo** — puede elevar el gasto hasta un 15%
+- **Presión baja en las ruedas** — con 0,3 bar por debajo de lo recomendado, el gasto sube un 3%
+- **Bacas o cofres vacíos** — la resistencia del aire suma un 8-10% al consumo
+- **Carga innecesaria** — 100 kg más suponen 0,4 litros extra cada 100 km
 
 ---
 
 <img src=/media/gasolina-surtidor-precio-cuerpo.webp alt=Repostando gasolina: con los precios actuales, una multa de velocidad cuesta más que un depósito>
 
-## Si ya tienes una multa: la tienes que recurrir antes de pagar
+## Antes de pagar, revisa si la multa se puede recurrir
 
-Con el precio de la gasolina por las nubes, pagar una multa de 300 € sin revisarla primero es un error costoso. Antes de hacer cualquier pago, comprueba si tu multa tiene **vicios de forma** que la hagan recurrible.
+Con la gasolina por las nubes, abonar 300 € de sanción sin examinarla antes es un gasto evitable. Antes de cualquier pago, verifica si tu multa presenta defectos de forma que permitan recurrirla.
 
-### ¿Qué es un vicio de forma?
+### Qué significa vicio de forma
 
-Un vicio de forma es un **error procedimental** en la tramitación de la multa que puede provocar su anulación. No es una "trampa legal" — es aplicar correctamente la legislación vigente (LTSV y Ley 39/2015).
+Significa un fallo en la tramitación de la sanción que puede llevar a anularla. No se trata de un "truco legal": es aplicar bien la normativa en vigor: la LTSV y la Ley 39/2015.
 
-Los vicios más comunes en multas de radar:
+Los vicios más habituales en sanciones de radar:
 
-### 1. Radar sin verificación metrológica vigente
-Todos los radares deben pasar una **verificación metrológica** cada cierto tiempo (dependiendo del tipo de radar). Si el radar que te multa tiene la certificación caducada, la multa es impugnable.
+### 1. Radar sin verificación metrológica en vigor
+Cada radar debe superar una verificación metrológica cada cierto tiempo, según su tipo. Si el equipo que te sancionó tiene la certificación caducada, la multa se puede impugnar.
 
-### 2. Señalización previa insuficiente
-Para un radar móvil, la normativa exige una señalización previa visible con antelación suficiente. La ausencia o mal estado de estas señales es un vicio de forma frecuente.
+### 2. Señalización previa escasa
+En un radar móvil, la norma pide una señal previa visible con antelación suficiente. Que falten esas señales o estén en mal estado es un vicio habitual.
 
-### 3. Falta del número TIP del agente
-En las multas por agente de circulación, el boletín de denuncia debe incluir el número TIP (identificación) del agente. Sin él, la multa es recurrible.
+### 3. Falta el número TIP del agente
+En denuncias puestas por un agente de circulación, el boletín debe recoger el número TIP (identificación) del agente. Sin ese dato, la sanción es recurrible.
 
-### 4. Error en la identificación del vehículo
-Un solo dígito erróneo en la matrícula puede ser suficiente para anular la multa.
+### 4. Vehículo mal identificado
+Un solo dígito equivocado en la matrícula puede bastar para anular la sanción.
 
 ### 5. Notificación fuera de plazo
-Las infracciones leves prescriben a los **3 meses**, las graves a los **6 meses** y las muy graves al **año**. Si la notificación llega después de ese plazo, la sanción ha prescrito.
+El plazo de prescripción es de 3 meses para las leves, 6 meses para las graves y un año para las muy graves. Si la notificación llega pasado ese plazo, la sanción ha prescrito.
 
 ---
 
-## Cómo saber si tu multa tiene vicios de forma
+## Cómo comprobar si tu multa tiene vicios de forma
 
-**RecurreTuMulta.online** analiza tu multa con IA en menos de 60 segundos:
+**RecurreTuMulta.online** revisa tu sanción con IA en menos de 60 segundos:
 
-1. Sube el PDF o foto de tu boletín de denuncia
-2. La IA analiza todos los campos y detecta posibles vicios
-3. Recibes un informe gratuito con los argumentos de nulidad encontrados
-4. Si quieres presentar el recurso, generamos el PDF completo por **4,99 €**
+1. Sube una foto o el PDF del boletín de denuncia
+2. La IA examina cada campo y busca posibles vicios
+3. Te llega gratis un informe con los argumentos de nulidad detectados
+4. Para presentar el recurso, te generamos el PDF completo: **4,99 €**
 
-> Con una sola multa anulada te ahorras el equivalente a varios meses de gasolina.
+> Con una sanción anulada recuperas lo mismo que varios meses de combustible.
 
 ---
 
@@ -2013,26 +2011,27 @@ Fuente oficial: <a href=https://www.idae.es>IDAE: consejos de conducción eficie
 
 ## Preguntas frecuentes
 
-### ¿Puedo recurrir una multa de radar de tramo?
-Sí. Los radares de tramo son especialmente susceptibles de tener vicios de forma por la complejidad técnica del sistema. La verificación metrológica, la distancia exacta del tramo y la señalización son puntos habituales de impugnación.
+### ¿Se puede recurrir una sanción de radar de tramo?
+Sí, y con más opciones que otros: su complejidad técnica hace que los vicios de forma sean frecuentes. La verificación metrológica, la longitud exacta del tramo y la señalización son los motivos habituales de impugnación.
 
-### ¿Qué pasa si no pago la multa y no la recurro?
-La multa entra en vía ejecutiva. La DGT puede embargar tu cuenta bancaria, la devolución de la renta o incluso el vehículo. Siempre es mejor recurrir (si hay argumentos) o pagar con el descuento del 50%.
+### ¿Qué ocurre si ni pago ni recurro la multa?
+La sanción pasa a vía ejecutiva. La DGT puede ordenar el embargo de tu cuenta, de la devolución de la renta o incluso del vehículo. Siempre compensa más recurrir cuando hay argumentos; si no, pagar con el descuento del 50%.
 
-### ¿Merece la pena recurrir una multa de 100 €?
-Depende de si tienes argumentos. Si la multa tiene un vicio de forma claro, el recurso es gratuito y la relación coste-beneficio es excelente. El análisis de RecurreTuMulta.online es gratis, así que siempre merece comprobar.
+### ¿Compensa recurrir una sanción de 100 €?
+Depende de si hay argumentos. Con un vicio de forma claro, recurrir sale gratis y la relación entre coste y beneficio es excelente. Revisar tu caso en RecurreTuMulta.online no cuesta nada, así que siempre vale la pena comprobarlo.
 
-### ¿Cuánto tiempo tengo para recurrir?
-**20 días naturales** desde la fecha de notificación de la multa. Si pagas con el 50% de descuento, pierdes el derecho a recurrir.
+### ¿Cuánto plazo tengo para recurrir?
+Tienes 20 días naturales contados desde la notificación. Ojo: si pagas acogiéndote al 50% de descuento, renuncias a recurrir.
 
-### ¿A qué velocidad se consume menos gasolina?
-El consumo de un coche de gasolina moderno es mínimo entre 80 y 100 km/h. Ir a 100 km/h en vez de a 120 km/h reduce el consumo un 23%, según la tabla de esta guía.
+### ¿A qué velocidad gasta menos un coche de gasolina?
+El gasto de un turismo moderno de gasolina toca su mínimo entre 80 y 100 km/h. Bajar de 120 km/h a 100 km/h recorta el consumo un 23%, como recoge la tabla anterior.
 
-### ¿Qué factores aumentan el consumo sin que lo notes?
-El aire acondicionado a tope (hasta un 15% más), los neumáticos desinflados (un 3% más con 0,3 bar menos), la baca vacía (un 8-10% más) y el peso extra (100 kg suponen 0,4 litros más cada 100 km).
+### ¿Qué sube el consumo sin que lo notes?
+El climatizador al máximo (hasta un 15% más), la presión baja en las ruedas (un 3% más con 0,3 bar por debajo), la baca vacía (un 8-10% extra) y llevar 100 kg de más añade 0,4 litros por cada 100 km.
 
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.`,
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.
+`,
   },
 ];
 

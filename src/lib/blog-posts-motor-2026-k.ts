@@ -8,9 +8,9 @@ import type { BlogPost } from "./blog-data.ts";
 
 export const MOTOR_2026_K_POSTS: BlogPost[] = [
 {
-  title: "iCAUR V27: el 4x4 chino de 54.900 €",
+  title: "iCAUR V27: 4x4 chino de 54.900 € para 2027",
   slug: "icaur-v27-defender-chino-precio-espana-2027",
-  excerpt: "Chery pone precio en Europa a su todoterreno iCAUR V27: 54.900 € de lanzamiento, 449 CV, 145 km eléctricos y 900 km de autonomía combinada. Llega en 2027 directo a por el Defender.",
+  excerpt: "El iCAUR V27 llegará a Europa en 2027 desde 54.900 €: EREV de 449 CV, 145 km eléctricos WLTP y 900 km combinados, con etiqueta Cero.",
   category: "Novedades Motor",
   date: "2026-10-07",
   readTime: 7,
@@ -24,20 +24,20 @@ export const MOTOR_2026_K_POSTS: BlogPost[] = [
   ],
   content: `<img src=/media/icaur-v27-defender-chino-precio-espana-2027-hero.webp alt=Todoterreno cuadrado de color arena con faros LED redondos en el desierto al atardecer>
 
-**Chery** ya le ha puesto precio europeo a su asalto al segmento del Defender: el **iCAUR V27** se podrá reservar en Europa por **54.900 €** (precio de lanzamiento, según la prensa especializada) y llegará a los concesionarios en **2027**, España incluida. Es un SUV de **4,91 metros** con sistema de **autonomía extendida (EREV)**: hasta **449 CV**, **145 km eléctricos WLTP** y **900 km de autonomía combinada**. La marca que ya es la segunda china en Europa va a por el 4x4 premium.
+Chery ya ha fijado la tarifa europea de su asalto al territorio del Defender: el iCAUR V27 podrá reservarse en Europa desde 54.900 €, y llegará a los concesionarios en 2027, con España entre los mercados. El precio de salida lo ha difundido la prensa especializada. Se trata de un SUV que mide 4,91 metros y recurre a un sistema EREV de autonomía extendida: hasta 449 CV, con 145 km en eléctrico WLTP y 900 km de alcance combinado. La marca que ya ocupa el segundo puesto entre las chinas en Europa apunta al 4x4 de lujo.
 
-## Datos clave
+## Lo esencial del V27
 
-- **Precio Europa:** 54.900 € (lanzamiento; pendiente de confirmación oficial para España)
-- **Sistema:** EREV — 2 motores eléctricos + generador 1.5 turbo de 143 CV
-- **Potencia:** 248 CV (2WD) / 449 CV (4WD), 505 Nm
-- **Batería:** 34,3 kWh LFP; 145 km eléctricos WLTP / 900 km combinados
-- **Dimensiones:** 4.909 mm de largo (5.055 con la rueda de repuesto exterior), 5 plazas
-- **Etiqueta DGT:** Cero (más de 40 km de autonomía eléctrica)
-- **Llegada:** Europa y España en 2027
-- **Fuente:** <a href=https://www.hibridosyelectricos.com/coches/chery-pone-precio-su-nuevo-defender-hibrido-con-900-km-autonomia-disponible-en-europa-partir-2027-por-54900_89742_102.html>Híbridos y Eléctricos</a> y <a href=https://movilidadelectrica.com/icaur-v27-suv-electrico-erev-449-cv-1230-km/>Movilidad Eléctrica</a>, con datos de la marca
+- El precio europeo de salida es 54.900 €, una cifra de lanzamiento que aún debe confirmar oficialmente la marca para España.
+- El sistema EREV combina dos motores eléctricos con un generador turbo de 1.5 litros y 143 CV.
+- La variante de dos ruedas motrices entrega 248 CV, mientras la de tracción total alcanza 449 CV; el par máximo declarado es 505 Nm.
+- La batería LFP tiene 34,3 kWh y homologa 145 km en eléctrico WLTP, hasta 900 km si se suma el generador.
+- Mide 4.909 mm, que se convierten en 5.055 mm cuando se cuenta la rueda exterior, y ofrece cinco plazas.
+- La etiqueta prevista es la Cero, al rebasar los 40 km en modo eléctrico.
+- La llegada a Europa y a España está anunciada para 2027.
+- Prensa especializada y datos de la marca: <a href=https://www.hibridosyelectricos.com/coches/chery-pone-precio-su-nuevo-defender-hibrido-con-900-km-autonomia-disponible-en-europa-partir-2027-por-54900_89742_102.html>Híbridos y Eléctricos</a> y <a href=https://movilidadelectrica.com/icaur-v27-suv-electrico-erev-449-cv-1230-km/>Movilidad Eléctrica</a>.
 
-## Las dos versiones, en cifras
+## Dos tracciones con la misma batería
 
 | | V27 2WD | V27 4WD |
 |---|---|---|
@@ -49,25 +49,25 @@ export const MOTOR_2026_K_POSTS: BlogPost[] = [
 
 <img src=/media/icaur-v27-defender-chino-precio-espana-2027-galeria-1.webp alt=Todoterreno azul de silueta cuadrada circulando por una carretera de montaña al atardecer>
 
-## El precio europeo, bajo la lupa
+## China frente a Europa: el precio se multiplica
 
-El dato que escuece: en China este mismo coche se vende como iCar V27 desde unos **22.095 €**. Los 54.900 € europeos son más del doble, y ahí la propuesta pierde parte de su magia china. Aun así, el posicionamiento es inteligente: un 4x4 de 4,9 metros, 449 CV y etiqueta Cero por 54.900 € sigue estando muy por debajo de cualquier todoterreno premium europeo equivalente, y el EREV es justo la fórmula que funciona en España (el día a día en eléctrico, los viajes largos sin pensar en cargadores).
+El contraste que más duele: en China, el mismo coche se comercializa como iCar V27 a partir de unos 22.095 €. La tarifa europea de 54.900 € dobla con creces la china, lo que resta parte de su atractivo. Con todo, el posicionamiento tiene lógica: un todoterreno de 4,9 metros con 449 CV y distintivo Cero por 54.900 € continúa bastante por debajo de cualquier todoterreno premium europeo comparable, y el EREV es justo la receta que encaja en España (el uso diario en eléctrico, los viajes largos sin estar pendiente de los cargadores).
 
-La duda razonable es la de toda marca nueva: Chery ya es la segunda marca china en Europa y su red crece, pero el servicio posventa y el valor de reventa del V27 están por demostrar. Si buscas un 4x4 electrificado con carácter y no te corre prisa (llega en 2027), este es el rival a vigilar.
+La duda lógica es la de cualquier marca recién llegada: Chery ya ocupa el segundo lugar entre las chinas en Europa y su red no para de crecer, pero la posventa y la reventa del V27 quedan por demostrar. Si buscas un todoterreno electrificado con carácter y no tienes prisa, este es el rival que conviene vigilar: llega en 2027.
 
-Ficha completa: <a href=/coches/icaur-v27-erev-2027-precio-ficha-tecnica/>iCAUR V27: ficha técnica y precio</a> · <a href=/comparador-coches/>Comparador de coches</a> · La marca: <a href=/blog/icaur-chery-marca-aventura-europa-espana-2027/>iCAUR, la marca aventura de Chery</a>
+Consulta la ficha completa, el comparador y el artículo de la marca: <a href=/coches/icaur-v27-erev-2027-precio-ficha-tecnica/>iCAUR V27: ficha técnica y precio</a> · <a href=/comparador-coches/>Comparador de coches</a> · <a href=/blog/icaur-chery-marca-aventura-europa-espana-2027/>iCAUR, la marca aventura de Chery</a>
 
 <img src=/media/icaur-v27-defender-chino-precio-espana-2027-galeria-2.webp alt=Interior de un todoterreno premium con gran pantalla táctil central y cuero marrón>
 
-## iCAUR, la vía aventurera de Chery
+## iCAUR: la aventura electrificada de Chery
 
-**iCAUR** es la submarca de **Chery** pensada para el todoterreno electrificado: en China se vende como **iCar**, con el V27 a la venta desde marzo de 2026, y para Europa cambia la grafía sin cambiar la idea. Silueta recta, faros redondos, rueda de repuesto en el portón y un lema oficial, «Classic Never Fades», que resume su apuesta por el diseño clásico con tecnología actual. Su web global, <a href=https://www.icaurglobal.com/>icaurglobal.com</a>, ya lo presenta como producto internacional, aunque sin precios cerrados para nuestro mercado.
+iCAUR es la submarca que Chery dedica al todoterreno electrificado: en China se comercializa como iCar; el V27 lleva a la venta en China desde marzo de 2026; en Europa cambia la grafía manteniendo la idea. Perfil recto, faros redondos y rueda de repuesto colocada en el portón, además de un lema oficial, «Classic Never Fades», que condensa la apuesta: líneas clásicas con tecnología actual. La web global, <a href=https://www.icaurglobal.com/>icaurglobal.com</a>, ya lo muestra como producto internacional, aunque sin tarifas cerradas para nuestro mercado.
 
-La estrategia encaja en el grupo: Chery ya vende en España con Omoda y Jaecoo, y con iCAUR busca otro hueco, el del comprador que mira un Defender pero quiere etiqueta **Cero** por mucho menos dinero.
+La jugada encaja dentro del grupo: Chery ya comercializa en España Omoda y Jaecoo, y con iCAUR persigue otro hueco, el de quien mira un Defender pero quiere el distintivo Cero por bastante menos dinero.
 
-## Cómo funciona su EREV, sin humo
+## El EREV, explicado sin humo
 
-Quien mueve las ruedas es siempre la parte eléctrica. El **1.5 turbo de 143 CV** actúa como generador para recargar la batería en marcha, no como propulsor principal. Así circula a diario como un eléctrico y, en viajes largos, sigue rodando con gasolina sin depender de un cargador rápido.
+Las ruedas las mueven siempre los motores eléctricos. El turbo 1.5 de 143 CV solo genera electricidad para ir recargando la batería en marcha, sin actuar como propulsor principal. De ese modo se mueve cada día como un eléctrico y, en trayectos largos, continúa con gasolina y no necesita buscar un cargador rápido.
 
 | Dato | iCAUR V27 |
 |---|---|
@@ -79,47 +79,44 @@ Quien mueve las ruedas es siempre la parte eléctrica. El **1.5 turbo de 143 CV*
 | **Longitud** | 4.909 mm (5.055 mm con rueda exterior) |
 | **Etiqueta DGT prevista** | Cero |
 
-Conviene leer las cifras con su ciclo al lado: los **145 km WLTP** son la referencia útil aquí, no las cifras más optimistas de otros ciclos.
+Merece la pena leer cada cifra junto a su ciclo: los 145 km WLTP son la referencia aprovechable aquí, no los valores más optimistas de otros ciclos.
 
-## Qué significa para España: previsión, no promesa
+## 2027: anuncio, no promesa cerrada
 
-Todo lo relativo a **2027** es **previsión de prensa especializada, no confirmación oficial**. La llegada a Europa, España incluida, está anunciada para ese año, pero no hay calendario español, gama definitiva ni red asignada. Lo mismo pasa con el dinero: los **54.900 €** son un precio de lanzamiento europeo difundido por la prensa, **pendiente de confirmación oficial para España**, no un PVP cerrado.
+Todo lo ligado a 2027 es previsión de la prensa especializada, sin confirmación oficial de momento. Para ese año se anuncia la llegada a Europa, España incluida, pero faltan calendario español, gama definitiva y red asignada. Con el dinero ocurre igual: los 54.900 € son una tarifa europea de lanzamiento que la prensa ha difundido, aún sin aval oficial para España, no un PVP cerrado.
 
-Dos incógnitas más condicionan su encaje: le correspondería la etiqueta **Cero** por superar los 40 km eléctricos, pero todavía no hay resultado **Euro NCAP** publicado, así que en seguridad toca esperar a la prueba europea sin dar por hecho ninguna estrella. Todos los datos conocidos están en la <a href=/coches/icaur-v27-erev-2027-precio-ficha-tecnica/>ficha completa del iCAUR V27</a>.
+Otras dos incógnitas pesan sobre su encaje: le correspondería el distintivo Cero por rebasar los 40 km eléctricos, pero todavía no se ha publicado ningún resultado Euro NCAP, así que en seguridad conviene aguardar la prueba europea sin presuponer ninguna estrella. Todos los datos conocidos figuran en la <a href=/coches/icaur-v27-erev-2027-precio-ficha-tecnica/>ficha completa del iCAUR V27</a>.
 
-## Uso real esperado
+## Uso diario que cabe esperar
 
-Si se acerca a lo homologado, su uso natural será cargar en casa y moverse a diario sin arrancar el generador, reservando los **900 km combinados** para escapadas largas. A cambio, con casi cinco metros aparcar en el centro será una tarea seria, y un EREV sigue teniendo un motor de gasolina que mantener. Sin pruebas independientes ni propietarios en Europa, afirmar más sobre consumo real o capacidad fuera de pista sería inventar.
+Si se aproxima a lo homologado, su uso natural pasará por cargar en casa y desplazarse a diario sin encender el generador, guardando para escapadas largas los 900 km combinados. A cambio, rozando los cinco metros, aparcar en el centro resultará una tarea seria, y un EREV conserva un motor de gasolina que mantener. A falta de pruebas independientes y de propietarios en Europa, decir más sobre consumo real o aptitudes fuera del asfalto sería inventar.
 
+## Los rivales que ya están a la venta
 
+Su comparación más incómoda no es el Defender, sino otro EREV que ya se vende: el <a href=/coches/leapmotor-c10-reev-2025-precio-ficha-tecnica/>Leapmotor C10 REEV</a> declara en nuestra ficha 215 CV, otros 145 km en eléctrico y un precio desde 33.800 €. Resulta más pequeño y menos todoterreno, pero ya está a la venta aquí por bastante menos. En híbrido enchufable, el <a href=/coches/jaecoo-7-shs-hibrido-enchufable-precio-ficha-tecnica/>Jaecoo 7 SHS</a> arranca en 27.990 € y ofrece 279 CV con 90 km en eléctrico, aunque con 4,50 metros juega en otra liga.
 
-## Frente a los rivales que ya puedes comprar
+El referente estético continúa siendo otro: el <a href=/coches/land-rover-defender-110-d350-2025-precio-ficha-tecnica/>Land Rover Defender 110 D350</a> figura en nuestra ficha como diésel, con 350 CV, distintivo ECO y 786 litros de maletero. Frente a eso, el V27 no le iguala en tradición ni en red, pero le planta cara con el distintivo Cero y un precio anunciado muy inferior.
 
-Su contraste más incómodo no es el Defender, sino otro EREV ya a la venta: el <a href=/coches/leapmotor-c10-reev-2025-precio-ficha-tecnica/>Leapmotor C10 REEV</a> ofrece en nuestra ficha **215 CV**, la misma autonomía eléctrica de **145 km** y precio desde **33.800 €**. Es más pequeño y menos todoterreno, pero ya se vende aquí por mucho menos. En híbrido enchufable, el <a href=/coches/jaecoo-7-shs-hibrido-enchufable-precio-ficha-tecnica/>Jaecoo 7 SHS</a> parte de **27.990 €** con **279 CV** y **90 km** eléctricos, aunque mide 4,50 metros y juega en otra liga.
+## ¿Vale la pena aguardar hasta 2027?
 
-El referente estético sigue siendo distinto: el <a href=/coches/land-rover-defender-110-d350-2025-precio-ficha-tecnica/>Land Rover Defender 110 D350</a> de nuestra ficha es diésel, con **350 CV**, etiqueta ECO y **786 litros** de maletero. El V27 no lo iguala en tradición ni en red, pero lo ataca con etiqueta Cero y un precio anunciado muy inferior.
-
-## ¿Compensa esperar a 2027?
-
-**Veredicto:** sí merece la pena seguirlo si quieres un todoterreno grande, de imagen clásica y uso diario eléctrico, y no necesitas cambiar de coche este año: **449 CV**, tracción total y 900 km combinados no tienen hoy equivalente directo a ese precio anunciado. No compensa si necesitas comprar ya, si sufres parkings estrechos o si te inquieta estrenar marca, con posventa, reventa y Euro NCAP por demostrar. Lo sensato: esperar al precio oficial español y compararlo entonces, con datos cerrados, frente a lo que ya se vende.
+Veredicto: conviene seguirlo si buscas un todoterreno amplio, de imagen clásica y con uso diario en eléctrico, sin necesidad de cambiar de coche este año. Con 449 CV, tracción total y 900 km de alcance combinado, hoy no cuenta con equivalente directo a esa tarifa anunciada. Tampoco compensa si necesitas comprar ya, si padeces parkings estrechos o si te preocupa estrenar una marca cuya posventa, cuya reventa y cuyo Euro NCAP están por demostrar. Lo sensato pasa por aguardar la tarifa oficial española y, ya entonces, compararla, ya con cifras cerradas, con lo que se vende hoy.
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el iCAUR V27 en Europa?
-El precio de lanzamiento anunciado es de **54.900 €**, según la prensa especializada; la marca aún no ha confirmado el precio final para España.
+### ¿Qué precio tiene en Europa el iCAUR V27?
+Se anuncia un precio europeo de salida de 54.900 €, difundido por la prensa especializada; la marca todavía no ha confirmado la tarifa definitiva para España.
 
-### ¿Qué autonomía tiene el iCAUR V27?
-Homologa **145 km en modo eléctrico (WLTP)** y hasta **900 km de autonomía combinada** con el generador de gasolina.
+### ¿Cuánta autonomía declara el iCAUR V27?
+Declara 145 km en eléctrico según el ciclo WLTP, y hasta 900 km combinados con el generador de gasolina.
 
-### ¿Cuándo llega el iCAUR V27 a España?
-La comercialización en Europa, España incluida, está prevista para **2027**.
+### ¿Cuándo llegará el iCAUR V27 a España?
+La venta en Europa, con España incluida, se prevé para 2027.
 
-### ¿Qué etiqueta DGT lleva el iCAUR V27?
-Al ser un EREV con más de 40 km de autonomía eléctrica, le corresponde la etiqueta **Cero**.
+### ¿Qué distintivo DGT le corresponde al iCAUR V27?
+Como EREV que rebasa los 40 km en modo eléctrico, le corresponde el distintivo Cero.
 
-### ¿El iCAUR V27 es el mismo que el iCar V27 de China?
-Sí: **iCAUR** es el nombre de la marca para Europa; en China se vende como **iCar V27** desde marzo de 2026.
-
+### ¿El iCAUR V27 y el iCar V27 chino son el mismo coche?
+Sí: iCAUR es la denominación europea de la marca; en China se comercializa como iCar V27 desde marzo de 2026.
 
 *Fuentes: <a href=https://www.icaurglobal.com/>web oficial de iCAUR</a> y prensa especializada citada en el texto.*`,
 },
@@ -379,9 +376,9 @@ Es un concept: anticipa el lenguaje de diseño de los futuros familiares eléctr
 *Fuentes: <a href=https://www.renaultgroup.com/en/>Renault Group (web oficial)</a>, <a href=https://www.noticiasdelmotor.com/noticias/i/98282064/renault-presenta-e-space-concept-y-desvela-todas-sus-novedades-electricas-e-hibridas-para-el-salon-de-paris-2026>Noticias del Motor</a> (nota de prensa de Renault reproducida en el post original).*`,
 },
 {
-  title: "Kia PV5: la furgoneta eléctrica",
+  title: "Kia PV5: furgoneta eléctrica modular PBV para España",
   slug: "kia-pv5-furgoneta-electrica-espana",
-  excerpt: "Kia presenta en el Salón del Automóvil de Canarias la PV5: su furgoneta eléctrica modular PBV con 412 km de autonomía, 4,4 m³ de carga y apta para europalé. La 'Kangoo eléctrica' coreana.",
+  excerpt: "Presentada en Canarias: la PV5 eléctrica de Kia, con 412 km WLTP en Passenger, Cargo de 4,4 m³ apta para europalé y recarga 10-80 % en unos 30 minutos.",
   category: "Novedades Motor",
   date: "2026-10-07",
   readTime: 6,
@@ -395,18 +392,13 @@ Es un concept: anticipa el lenguaje de diseño de los futuros familiares eléctr
   ],
   content: `<img src=/media/kia-pv5-furgoneta-electrica-espana-hero.webp alt=Furgoneta eléctrica moderna de dos tonos aparcada en una calle europea>
 
-**Kia** ha presentado en el **Salón del Automóvil de Canarias** (6 de octubre) la **PV5**, su furgoneta eléctrica modular sobre la plataforma **E-GMP.S**. Es el primer modelo de la familia **PBV** (Platform Beyond Vehicle): un vehículo pensado como plataforma para flotas, reparto y ocio. La versión de pasajeros anuncia **412 km WLTP** y la Cargo ofrece **4,4 m³** de volumen y es apta para europalé. Carga rápida del 10 al 80% en unos 30 minutos.
+El Salón del Automóvil de Canarias, celebrado el 6 de octubre, acogió la puesta de largo española de la PV5 de Kia: una furgoneta eléctrica modular construida sobre la base E-GMP.S. Inaugura la familia PBV (Platform Beyond Vehicle), pensada como base para flotas, reparto y ocio. La variante de pasajeros anuncia 412 km WLTP; la Cargo, 4,4 m³ de volumen y compatibilidad con europalé. Y la recarga rápida del 10 al 80 % se mueve en torno a los 30 minutos.
 
-## Datos clave
+## Lo esencial, en pocas líneas
 
-- **Plataforma:** E-GMP.S, motor delantero de 163 CV
-- **Passenger:** batería de 71,2 kWh, 412 km WLTP
-- **Cargo:** baterías de 51,5 kWh (297 km) o 71,2 kWh; 4,4 m³, apta para europalé
-- **Carga rápida:** 10-80% en ~30 min
-- **Presentación:** Salón del Automóvil de Canarias, 06/10/2026
-- **Fuente:** <a href=https://motoraldia7.com/index.php/noticia/kia-refuerza-su-apuesta-electrica-en-canarias-con-los-nuevos-ev2-y-pv5>Motoraldia7</a> y <a href=https://motoractualidad.es/kia-presenta-en-el-salon-del-automovil-de-canarias-los-ultimos-lanzamientos-de-su-gama-electrica-ev2-ev4-ev5-y-pv5/>Motor Actualidad</a>
+La Passenger monta una batería de 71,2 kWh y declara 412 km WLTP. La Cargo se ofrece con 51,5 kWh (297 km) o con 71,2 kWh, y su bodega cubica 4,4 m³, apta para europalé. Ambas comparten motor delantero de 163 CV sobre la base E-GMP.S, y la recarga rápida 10-80 % ronda la media hora. Todo se presentó el 06/10/2026 en el Salón del Automóvil de Canarias, según <a href=https://motoraldia7.com/index.php/noticia/kia-refuerza-su-apuesta-electrica-en-canarias-con-los-nuevos-ev2-y-pv5>Motoraldia7</a> y <a href=https://motoractualidad.es/kia-presenta-en-el-salon-del-automovil-de-canarias-los-ultimos-lanzamientos-de-su-gama-electrica-ev2-ev4-ev5-y-pv5/>Motor Actualidad</a>.
 
-## Las dos versiones
+## Passenger frente a Cargo
 
 | | PV5 Passenger | PV5 Cargo |
 |---|---|---|
@@ -417,17 +409,17 @@ Es un concept: anticipa el lenguaje de diseño de los futuros familiares eléctr
 
 <img src=/media/kia-pv5-furgoneta-electrica-espana-galeria-1.webp alt=Interior de carga de una furgoneta eléctrica con paquetes y un europalé>
 
-## ¿La "Kangoo eléctrica" de la próxima década?
+## Un hueco entre Berlingo y Buzz Cargo
 
-El segmento profesional en España lo dominan las Berlingo y e-Partner de Stellantis, y la ID.Buzz Cargo juega en otra liga de precio. La PV5 ataca justo el hueco: furgoneta eléctrica modular, con etiqueta Cero y pensada para autónomos y flotas desde el primer boceto. Si Kia acierta con el precio (aún sin confirmar para España), tiene mimbres para ser la furgoneta eléctrica de referencia del reparto urbano. La veremos en las calles antes que en los concesionarios: las flotas compran por coste total, no por capricho.
+Hoy, el reparto profesional español lo dominan Berlingo y e-Partner, ambas de Stellantis, mientras la ID.Buzz Cargo se mueve en otro escalón de precio. Justo ahí ataca la PV5: furgoneta eléctrica modular, etiqueta Cero, concebida desde el primer boceto para autónomos y flotas. Si el precio español —aún sin confirmar— acompaña, tiene mimbres para convertirse en la eléctrica de referencia del reparto urbano. Probablemente se la verá en las calles antes que en los puntos de venta, porque las flotas adquieren por coste total, no por capricho.
 
-<a href=/comparador-coches/>Comparador de coches</a> · Etiqueta Cero: entra en todas las ZBE sin restricciones.
+<a href=/comparador-coches/>Comparador de coches</a> · Con etiqueta Cero accede a todas las ZBE sin restricciones.
 
-## PBV: la apuesta de Kia por construir furgonetas como plataformas
+## PBV: una base, muchos vehículos
 
-La PV5 no es una furgoneta más en la gama de Kia: es el primer modelo de su estrategia **PBV (Platform Beyond Vehicle)**, con la que la marca coreana entra de lleno en el vehículo comercial eléctrico. La gama eléctrica y la filosofía de la casa pueden consultarse en la <a href=https://www.kia.com/>web oficial de Kia</a>. La idea PBV es que una misma base —la plataforma **E-GMP.S**— sirva para reparto, pasajeros, taxi o camper cambiando la carrocería y el interior, igual que un chasis industrial de toda la vida pero nacido eléctrico. Su presentación española en el Salón del Automóvil de Canarias, recogida en el post original, confirma que España está en el mapa de lanzamiento.
+Más que otro comercial en catálogo, la PV5 abre la estrategia PBV (Platform Beyond Vehicle) de Kia en el comercial eléctrico. La gama eléctrica de la marca y su filosofía pueden consultarse en la <a href=https://www.kia.com/>web oficial de Kia</a>. El planteamiento: una misma base, la arquitectura E-GMP.S, sirve para reparto, pasajeros, taxi o camper cambiando carrocería e interior, como un chasis industrial de siempre, pero nacido eléctrico. Que su debut español fuese en Canarias, recogido en el artículo original, confirma que España figura en el mapa de lanzamiento.
 
-## La técnica que importa a una flota: baterías, carga y europalé
+## Baterías, recarga y europalé: lo que mira una flota
 
 | Dato | PV5 Passenger | PV5 Cargo |
 |---|---|---|
@@ -437,46 +429,46 @@ La PV5 no es una furgoneta más en la gama de Kia: es el primer modelo de su est
 | Carga rápida | 10-80 % en unos 30 min | 10-80 % en unos 30 min |
 | Volumen de carga | 7 plazas | 4,4 metros cúbicos, apta para europalé |
 
-Para un profesional, las cifras decisivas no son los 163 CV: son los **30 minutos de carga rápida** que permiten recuperar la jornada en una pausa, y que la Cargo admita un **europalé**, el estándar real del reparto paletizado. La doble opción de batería tiene también lectura económica: la de 51,5 kWh basta para rutas urbanas fijas y abarata la compra, mientras que la de 71,2 kWh es la de quien hace carretera o dobles turnos.
+Un profesional no decide por los 163 CV. Decide por los 30 minutos de recarga rápida, que devuelven la jornada en una pausa, y por la admisión de un europalé en la Cargo, el patrón real del reparto paletizado. La doble batería también tiene lectura económica: con 51,5 kWh sobra para rutas urbanas fijas y la compra sale más barata, mientras que con 71,2 kWh se cubren carretera y dobles turnos.
 
-## Uso real: reparto urbano hoy, camper mañana
+## Reparto hoy, camper mañana
 
-La Cargo está pensada para el reparto de última milla y para autónomos que entran a diario en zonas de bajas emisiones, donde su condición eléctrica es una ventaja operativa y no solo ecológica. La Passenger de 7 plazas apunta a lanzaderas, VTC y familias numerosas. Y la arquitectura PBV deja la puerta abierta a las conversiones camper, un uso en el que una base eléctrica con suelo plano tiene mucho que decir. Su limitación inmediata es comercial: el **precio para España aún no está confirmado**, y en el mercado profesional el precio y el coste por kilómetro lo deciden todo.
+La Cargo apunta al reparto de última milla y a autónomos que entran cada día en zonas de bajas emisiones, donde ser eléctrica es una ventaja operativa, no solo ecológica. La Passenger de siete plazas mira a lanzaderas, VTC y familias numerosas. La arquitectura PBV, por su parte, deja abierta la puerta a conversiones camper, un uso donde una base eléctrica de suelo plano tiene mucho que decir. La limitación inmediata es comercial: el precio español aún no está confirmado, y en este mercado, importe y coste por kilómetro lo resuelven todo.
 
-## Mantenimiento y coste total: lo que una flota sí puede dar por seguro
+## Normativa: Cero y permiso B
 
-Kia no ha publicado en este análisis una tabla de costes de mantenimiento de la PV5, y no la inventamos. Lo que sí es estructural en una furgoneta eléctrica frente a una diésel equivalente es la desaparición de aceite de motor, filtro de partículas, embrague y correas, y un desgaste de frenos menor por la frenada regenerativa; a cambio, neumáticos y la gestión de la carga pasan a ser las partidas a vigilar. Para una flota, el cálculo correcto es el de coste total de propiedad —energía, mantenimiento, impuestos y valor residual— y ahí la etiqueta Cero también suma en peajes urbanos y aparcamiento regulado según la ciudad.
+Al ser eléctrica pura, la PV5 porta la etiqueta Cero de la DGT, con entrada libre a las zonas de bajas emisiones, además de ventajas en muchas ordenanzas municipales. Además, se conduce con el permiso B en sus variantes hasta 3.500 kg de masa máxima, con el carné estándar de cualquier repartidor o autónomo, sin permisos profesionales extra por el simple hecho de ser eléctrica. Ojo para empresas: ayudas y bonificaciones a comerciales eléctricos varían por comunidad y por convocatoria, así que conviene verificar las vigentes al comprar, no darlas por supuestas.
 
-## Normativa: etiqueta Cero y carnet B
+## Mantenimiento: sin tabla oficial, sin inventos
 
-Como eléctrica pura, la PV5 lleva **etiqueta Cero de la DGT**, con acceso libre a las zonas de bajas emisiones y ventajas en muchas ordenanzas municipales. Es además una furgoneta conducible con el **carnet B** en sus versiones de hasta 3.500 kg de masa máxima, el permiso estándar de cualquier repartidor o autónomo, sin necesidad de permisos profesionales adicionales por el mero hecho de ser eléctrica. Para empresas, conviene recordar que las ayudas y bonificaciones a vehículos comerciales eléctricos cambian por comunidad y por convocatoria: hay que verificar las vigentes en el momento de la compra, no darlas por supuestas.
+Kia no ha publicado en este análisis ninguna tabla con costes de mantenimiento de la PV5; tampoco la inventamos. Sí es estructural en una eléctrica frente a una diésel equivalente que desaparecen el aceite de motor, el filtro de partículas, el embrague y las correas, y que el desgaste de frenos baja gracias a la frenada regenerativa; a cambio, neumáticos y gestión de la carga se convierten en las partidas a controlar. Para una flota, el cálculo acertado es el de coste total de propiedad, con energía, mantenimiento, impuestos y valor residual. Ahí, la etiqueta Cero también aporta en peajes urbanos y en aparcamiento regulado según la ciudad.
 
-## Frente a Berlingo eléctrica e ID. Buzz Cargo: veredicto
+## Contra Berlingo eléctrica e ID. Buzz Cargo
 
-El post original sitúa bien el hueco: las furgonetas eléctricas de Stellantis —Berlingo y e-Partner— dominan el segmento por precio y red, y la Volkswagen ID. Buzz Cargo juega en una liga de precio superior, más de imagen que de reparto puro. La PV5 ataca el centro con argumentos de eléctrica nativa: plataforma dedicada, carga rápida de 30 minutos y modularidad PBV. Puedes comparar las alternativas que ya se venden en el <a href=/comparador-coches/>comparador de coches</a>, repasar la gama eléctrica de la marca con el <a href=/coches/kia-ev9-2024-precio-ficha-tecnica/>Kia EV9</a> como referencia de su tecnología.
+El artículo original sitúa bien el hueco: las eléctricas de Stellantis —Berlingo y e-Partner— lideran por precio y red; la Volkswagen ID. Buzz Cargo se mueve en una liga de precio superior, con más imagen que reparto puro. La PV5 asalta el centro con argumentos de eléctrica nativa: base dedicada, recarga rápida de 30 minutos y modularidad PBV. Las alternativas que ya se venden se comparan en el <a href=/comparador-coches/>comparador de coches</a>, y la gama eléctrica de la marca se puede repasar con el <a href=/coches/kia-ev9-2024-precio-ficha-tecnica/>Kia EV9</a> como muestra de su tecnología.
 
-**¿Merece la pena?** Sobre el papel, es la candidata más seria a furgoneta eléctrica de referencia del reparto urbano en cuanto tenga precio español. **Para quién sí:** para autónomos y flotas con rutas urbanas o periurbanas diarias y acceso a carga en base. **Para quién no:** para quien haga rutas largas diarias sin infraestructura de carga, o necesite comprar ya con un precio cerrado: la PV5 aún debe publicar el suyo en España.
+**¿Merece la pena?** En principio, es la candidata más seria a eléctrica de referencia en el reparto urbano cuando tenga precio español. **Para quién sí:** autónomos y flotas de rutas urbanas o periurbanas, con carga en base cada día. **Para quién no:** quien cubra rutas largas diarias sin infraestructura de recarga, o necesite adquirir ya con un precio cerrado: la PV5 todavía debe publicar el suyo en nuestro país.
 
 ## Preguntas frecuentes
 
+### ¿Cuándo llegará la Kia PV5 a España?
+Kia la dio a conocer en Canarias durante octubre de 2026. Queda pendiente de confirmación oficial el calendario comercial para la península.
+
+### ¿Sirve para reparto la Kia PV5?
+Sí: la Cargo brinda 4,4 m³ de volumen y admite europalé, con recarga rápida del 10 al 80 % en torno a 30 min.
+
+### ¿Qué es PBV en Kia?
+Significa Platform Beyond Vehicle: eléctricos modulares pensados como plataforma para usos múltiples (reparto, pasajeros, camper...). La PV5 inaugura la familia.
+
 ### ¿Qué autonomía tiene la Kia PV5?
-La versión **Passenger** homologa **412 km WLTP** (71,2 kWh); la **Cargo** ofrece 297 km con la batería de 51,5 kWh.
-
-### ¿Qué es PBV de Kia?
-**Platform Beyond Vehicle**: vehículos eléctricos modulares diseñados como plataforma para múltiples usos (reparto, pasajeros, camper...). La PV5 es el primero.
-
-### ¿La Kia PV5 sirve para reparto?
-Sí: la Cargo ofrece **4,4 m³** de volumen y es apta para **europalé**, con carga rápida del 10 al 80% en ~30 min.
-
-### ¿Cuándo llega la Kia PV5 a España?
-Kia la ha presentado en Canarias en octubre de 2026; el calendario comercial para la península está pendiente de confirmación oficial.
+La Passenger declara 412 km WLTP con 71,2 kWh; la Cargo brinda 297 km gracias a la batería de 51,5 kWh.
 
 *Fuentes: <a href=https://www.kia.com/>Kia (web oficial)</a>, Motoraldia7 y Motor Actualidad (presentación en Canarias citada en el post original).*`,
 },
 {
-  title: "París 2026: todos los eléctricos",
+  title: "París 2026: guía de eléctricos, estrenos y marcas",
   slug: "salon-paris-2026-estrenos-electricos-guia",
-  excerpt: "Guía del Salón de París 2026 (12-18 oct): 20 marcas chinas, 7 estrenos mundiales y la respuesta europea con eléctricos baratos. Todos los estrenos eléctricos, quién ataca a quién.",
+  excerpt: "París reunió del 12 al 18 de octubre 20 marcas chinas con 7 estrenos mundiales y la réplica europea: urbanos y compactos eléctricos baratos hechos en casa.",
   category: "Novedades Motor",
   date: "2026-10-07",
   readTime: 9,
@@ -490,9 +482,9 @@ Kia la ha presentado en Canarias en octubre de 2026; el calendario comercial par
   ],
   content: `<img src=/media/salon-paris-2026-estrenos-electricos-guia-hero.webp alt=Pabellón del Salón del Automóvil de París 2026 con coches eléctricos en stands iluminados y público>
 
-El **Salón del Automóvil de París** (12-18 de octubre, Paris Expo Porte de Versailles) se ha convertido en el campo de batalla del coche eléctrico en Europa: **20 marcas chinas** con **7 estrenos mundiales** frente a una industria europea que responde con eléctricos baratos hechos en casa. Esta es la guía con todos los estrenos eléctricos confirmados y qué mirar el día de prensa (12/10).
+Paris Expo Porte de Versailles acogió entre el 12 y el 18 de octubre de 2026 una edición del Salón del Automóvil de París convertida en pulso directo por el coche eléctrico en Europa. Del lado chino acudieron 20 marcas, con siete presentaciones mundiales; del europeo, la contestación llegó en forma de modelos asequibles producidos en casa. Esta guía reúne los estrenos eléctricos confirmados y señala qué convenía observar en la jornada de prensa del día 12.
 
-## Los estrenos eléctricos, por segmentos
+## Estrenos eléctricos por tipo de coche
 
 | Segmento | Estreno | Lo esencial |
 |---|---|---|
@@ -513,30 +505,30 @@ El **Salón del Automóvil de París** (12-18 de octubre, Paris Expo Porte de Ve
 
 <img src=/media/salon-paris-2026-estrenos-electricos-guia-galeria-1.webp alt=Fila de SUV eléctricos chinos en un stand del salón del automóvil>
 
-## Quién ataca a quién
+## Dos estrategias enfrentadas
 
-**China ataca con volumen y precio.** 20 marcas y 7 estrenos no es una presencia: es una ofensiva. Denza (el brazo premium de BYD) desembarca con cuatro modelos, XPeng trae el G9L de 800 V y Leapmotor consolida su alianza con Stellantis. El mensaje es claro: el eléctrico asequible ya no es promesa, es catálogo.
+La delegación china no se limitó a estar presente: desembarcó con catálogo amplio y precios como arma. Cuatro modelos de Denza, la división premium de BYD, el G9L de XPeng con arquitectura de 800 V y la consolidación de Leapmotor junto a Stellantis dibujan el mismo mensaje: el eléctrico asequible dejó de ser una promesa futura para convertirse en oferta tangible.
 
-**Europa responde con fábrica.** El ID.Polo hecho en Martorell, el 2CV por debajo de 15.000 € y el Cupra Raval de 26.000 € son la respuesta industrial: eléctricos baratos producidos en Europa. La batalla de París 2026 no es de tecnología —es de **precio y de dónde se fabrica**.
+Europa contestó desde la fábrica. Un ID.Polo ensamblado en Martorell, un 2CV por debajo de 15.000 € y un Raval en 26.000 € muestran la réplica industrial: eléctricos económicos fabricados en el continente. En París 2026 el pulso no se jugó tanto en tecnología como en coste y en lugar de producción.
 
-## Qué mirar el 12/10 (día de prensa)
+## Cuatro focos en la jornada de prensa
 
-1. **Precios finales** del 2CV eléctrico y el Fiat Grizzly: ahí se decide el urbano eléctrico.
-2. **Denza**: si BYD pone precios europeos agresivos al premium, tiembla el segmento.
-3. **Renault E-Space**: el concept más interesante del salón como anticipo del Scénic 2028.
-4. **Liux BIG**: la startup española presenta su coche de producción en casa ajena.
+1. Los precios definitivos del 2CV eléctrico y del Grizzly de Fiat: en ese tramo se juega el urbano eléctrico.
+2. Denza: si BYD fija tarifas europeas agresivas para su gama premium, el segmento se tambalea.
+3. El E-Space de Renault: el concept con más interés del salón como adelanto del Scénic de 2028.
+4. Liux BIG: la empresa española muestra su vehículo de producción lejos de casa.
 
 <img src=/media/salon-paris-2026-estrenos-electricos-guia-galeria-2.webp alt=Pequeño coche eléctrico urbano sobre una plataforma giratoria en un salón del automóvil>
 
 Cobertura relacionada: <a href=/blog/renault-e-space-concept-paris-2026/>Renault E-Space Concept</a> · <a href=/blog/citroen-2cv-electrico-2026-paris/>Citroën 2CV eléctrico</a> · <a href=/blog/xpeng-g9l-debut-paris-2026/>XPeng G9L</a> · <a href=/blog/liux-big-salon-paris-2026/>Liux BIG</a> · <a href=/comparador-coches/>Comparador de coches</a>
 
-## París como termómetro de la electrificación en Europa
+## Un termómetro para Europa
 
-Un salón sirve para ver quién llega con un coche vendible y quién solo con un render. En París se juntan las dos Europas del eléctrico. Las europeas defienden su terreno con compactos y urbanos producidos en el continente, como el ID.Polo hecho en Martorell que cita esta guía. Las chinas ocupan pabellón con gamas completas y estrenos mundiales. Y el titular ya no es la autonomía récord, sino el precio de entrada: el 2CV eléctrico por debajo de 15.000 € o el Cupra Raval de 26.000 €.
+Un salón permite distinguir quién acude con un coche que se puede comprar y quién solo enseña un render. París reunió ambas Europas del eléctrico: las marcas del continente defendiendo su mercado con urbanos y compactos hechos aquí —el ID.Polo de Martorell que recoge esta guía es un ejemplo— y las chinas ocupando pabellón con gamas completas y presentaciones mundiales. El titular ya no era un récord de autonomía, sino el precio de acceso: un 2CV eléctrico a menos de 15.000 €, o un Raval en 26.000 €.
 
-## Los estrenos, en clave técnica
+## Comparar los estrenos por sus cifras
 
-Sin salir de los datos que ya recoge esta guía, el mapa se lee mejor comparado:
+Sin añadir datos fuera de los que ya recoge esta guía, el panorama se entiende mejor poniendo cifras en paralelo:
 
 | Estreno | Dato clave del post | Lectura rápida |
 |---|---|---|
@@ -549,36 +541,35 @@ Sin salir de los datos que ya recoge esta guía, el mapa se lee mejor comparado:
 | Lancia Gamma | Hasta 740 km | El regreso de Lancia se apoya en el alcance |
 | Fiat Grizzly | Objetivo de unos 20.000 € | SUV con precio como reclamo principal |
 
-No todos juegan a lo mismo: unos venden precio, otros autonomía y otros, como el G9L, tecnología de carga. Toca comparar modelos del mismo segmento y para el mismo uso.
+No todos compiten con la misma baza: unos apuestan por el precio, otros por el alcance y otros, como el G9L, juegan la baza de la carga rápida. La comparación útil es entre modelos del mismo segmento y pensados para el mismo uso.
 
-## Qué significa para el comprador español
+## Qué cambia para quien compra en España
 
-Tres consecuencias prácticas. La primera: la oferta compacta crece donde más se vende, con el ID.Polo, el Epiq y el Raval entre los 26.000 € y los 35.070 €, según esta guía. La segunda: habrá alternativas sin subir de segmento si un modelo se retrasa o se encarece. Y la tercera es una advertencia: concept, estreno mundial y coche a la venta no son lo mismo. El Renault E-Space es un concept, y el propio post lo separa de los modelos con precio y autonomía anunciados. Antes de reservar, toca esperar precio final en España y fecha comercial confirmados por la marca.
+Tres efectos prácticos. Primero, la oferta compacta crece justo donde más se vende: ID.Polo, Epiq y Raval se mueven entre 26.000 € y 35.070 €, según esta guía. Segundo, habrá opciones sin cambiar de categoría si un modelo se retrasa o sube de precio. Tercero, una cautela: un concept, un estreno mundial y un coche ya a la venta son tres cosas distintas. El E-Space de Renault es un concept, algo que el propio post distingue de los modelos con precio y autonomía ya anunciados. Antes de reservar, hay que esperar el precio final en España y la fecha comercial que confirme la marca.
 
-## Normativa que empuja estos estrenos: CO2 en la UE y ZBE en España
+## Por qué la norma empuja esta oleada
 
-Ninguna marca presenta esta avalancha por casualidad. La normativa europea de CO2 exige a los turismos nuevos una reducción del **55 % de emisiones frente a 2021 en el periodo 2030-2034** y del **100 % a partir de 2035**, un calendario que empuja a renovar las gamas hacia el eléctrico puro. En España, el efecto se nota con las **Zonas de Bajas Emisiones**: el acceso depende de la ordenanza de cada ciudad y de la etiqueta de la DGT, y los eléctricos puros corresponden a la etiqueta **Cero**. Un eléctrico de esta lista no solo compite en precio y autonomía, también en libertad de acceso urbano. Comprueba siempre la ordenanza de tu ciudad: dos ZBE vecinas pueden aplicar criterios distintos.
+Ninguna marca despliega semejante oleada por azar. La normativa europea de CO2 pide a los turismos nuevos recortar un 55 % sus emisiones respecto a 2021 durante 2030-2034, y llegar al 100 % desde 2035, un calendario que obliga a pasar las gamas al eléctrico puro. En España, cada ciudad regula su ZBE con su propia ordenanza; el acceso se decide además por la etiqueta DGT, y el eléctrico puro corresponde a la Cero. Cualquier eléctrico de esta lista no solo rivaliza en precio y autonomía, también en libertad para entrar en ciudad. Antes de circular, consulta la ordenanza local: dos ZBE vecinas pueden regirse por criterios distintos.
 
-## Cómo seguir cada modelo en su ficha
+## Seguir cada modelo en su ficha
 
-El seguimiento se hace modelo a modelo. Consulta la <a href=/coches/volkswagen-id-polo-2026-precio-ficha-tecnica/>ficha del Volkswagen ID.Polo</a>, la <a href=/coches/cupra-raval-2026-precio-ficha-tecnica/>ficha del Cupra Raval</a> y la <a href=/coches/skoda-epiq-2026-precio-ficha-tecnica/>ficha del Skoda Epiq</a> para comparar los tres compactos. Si te interesa la ofensiva china, tienes la <a href=/coches/leapmotor-b03-2026-precio-ficha-tecnica/>ficha del Leapmotor B03</a> y la <a href=/coches/leapmotor-d19-2026-precio-ficha-tecnica/>ficha del Leapmotor D19</a>; si buscas el urbano, la <a href=/coches/citroen-2cv-electrico-2028/>ficha del Citroën 2CV eléctrico</a>, y si miras al premium, la <a href=/coches/lancia-gamma-2026-precio-ficha-tecnica/>ficha del Lancia Gamma</a> y la <a href=/coches/smart-2-2026-precio-autonomia-paris/>ficha del smart #2</a>. 
+Para comparar los tres compactos, abre la <a href=/coches/volkswagen-id-polo-2026-precio-ficha-tecnica/>ficha del Volkswagen ID.Polo</a>, la <a href=/coches/cupra-raval-2026-precio-ficha-tecnica/>ficha del Cupra Raval</a> y la <a href=/coches/skoda-epiq-2026-precio-ficha-tecnica/>ficha del Skoda Epiq</a>; la ofensiva china se sigue en la <a href=/coches/leapmotor-b03-2026-precio-ficha-tecnica/>ficha del Leapmotor B03</a> y la <a href=/coches/leapmotor-d19-2026-precio-ficha-tecnica/>ficha del Leapmotor D19</a>; el urbano, en la <a href=/coches/citroen-2cv-electrico-2028/>ficha del Citroën 2CV eléctrico</a>; y el premium, en la <a href=/coches/lancia-gamma-2026-precio-ficha-tecnica/>ficha del Lancia Gamma</a> y la <a href=/coches/smart-2-2026-precio-autonomia-paris/>ficha del smart #2</a>.
 
-**Veredicto:** París 2026 merece la pena como mapa, no como lista de la compra. Lo sólido son los compactos y urbanos con precio y autonomía ya anunciados —Raval, Epiq e ID.Polo— y la presión real de las marcas chinas. Lo que todavía es promesa debe leerse como declaración de intenciones. La decisión acertada es esperar a los precios finales en España, comparar las fichas que encajen y no pagar hoy por un titular de salón.
+**Conclusión:** París 2026 sirve para orientarse, no para comprar a ciegas. Lo más sólido: compactos y urbanos que ya anuncian precio y autonomía —Raval, Epiq e ID.Polo— junto a la presión auténtica de las marcas chinas. Lo que aún es promesa hay que leerlo como declaración de intenciones. Lo prudente es aguardar los precios finales en España, revisar las fichas candidatas y no abonar hoy el precio de un titular de salón.
 
 ## Preguntas frecuentes
 
-### ¿Cuándo es el Salón de París 2026?
-Del **12 al 18 de octubre de 2026** en Paris Expo Porte de Versailles; el día de prensa es el 12.
+### ¿Cuándo se celebró el Salón de París 2026?
+En Paris Expo Porte de Versailles, del 12 al 18 de octubre, año 2026; la jornada de prensa cayó el día 12.
 
-### ¿Qué marcas chinas van al Salón de París 2026?
-**20 marcas chinas** con 7 estrenos mundiales, entre ellas BYD/Denza, XPeng, Leapmotor y Li Auto (debut europeo del i6).
+### ¿Qué presencia china hubo en París 2026?
+BYD/Denza, XPeng, Leapmotor y Li Auto —esta última con el debut europeo del i6— formaron parte de las 20 marcas chinas, que sumaron siete estrenos mundiales.
 
-### ¿Cuál es el eléctrico más barato del Salón de París 2026?
-El **Citroën 2CV eléctrico**, con un precio objetivo por debajo de los **15.000 €**.
+### ¿Cuál fue el eléctrico más barato del salón?
+El 2CV eléctrico de Citroën, con un precio objetivo por debajo de 15.000 €.
 
-### ¿Hay alguna marca española en el Salón de París 2026?
-Sí: **Liux** presenta la versión de producción de su cuadriciclo **BIG**.
-
+### ¿Hubo alguna marca española en París 2026?
+Sí: la española Liux llevó a París el BIG de producción, su cuadriciclo.
 
 *Fuentes: <a href=https://mondial-paris.com>web oficial del Salón del Automóvil de París (Mondial de l'Auto)</a>.*`,
 },
