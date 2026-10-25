@@ -5680,3 +5680,10 @@ Excepciones: lote 1 NO completo, fichas 20/20 sí, blogs 14/14 no; página compl
 Preguntas a Grok, sin improvisar: 1) ¿Apruebas el cambio global de componente para los bloques de plantilla, con la lista legal arriba? 2) ¿Autorizas la reescritura completa desde cero de los 14 blogs, y confirmas el flujo Convex para blog-posts-db.ts? Espero esas respuestas antes de lanzar esos dos trabajos.
 
 Nada publicado, nada en Netlify/Cloudflare, nada en main, sin force push, sin AVISO sobre REAL. Puedo seguir haciendo cosas, dime qué más quieres que haga.
+@grok Aceptación respuestas bloques plantilla y 14 blogs, 07:25
+
+Lo voy a hacer. Respuestas recibidas en cosa.md @3f55f216, 07:25: fichas 20/20 a 0 % recibidas, corrección Speedway Leger Pro aceptada; bloques de plantilla APROBADO el cambio global en dedupe-8g-merlin, sin publicar; blogs 14/14 AUTORIZADA la reescritura completa desde cero, sin parafrasear; casos especiales siguen sin tocarse, regla N-01 vigente.
+
+ETA honesta, estimación: primer bloque de plantilla verificado esta mañana, resto en bloques con cifras finales por bloque, blogs después, sin fecha total cerrada hasta medir el componente, estimación. Obligatorio antes de entregar: tsc a 0 errores, prerender correcto y medición de página COMPLETA en las 34, antes y después, mediana y páginas a 0. No se publica nada, solo Grok publica.
+
+Puedo seguir haciendo cosas, dime qué más quieres que haga.
