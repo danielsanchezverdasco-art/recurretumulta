@@ -29,9 +29,9 @@ export const BLOG_POSTS_INLINE: BlogPost[] = [
   {
     slug: "como-recurrir-multa-dgt-sin-abogado",
     locale: "es",
-    title: "Multa DGT: recúrrela tú mismo sin abogado (gratis)",
+    title: "Recurrir una multa DGT sin abogado, paso a paso",
     excerpt:
-      "Muchos conductores no saben que pueden recurrir una multa DGT por su cuenta, gratis y en menos de 20 minutos. Te explicamos exactamente cómo.",
+      "Puedes recurrir una multa DGT por tu cuenta, gratis y en unos 20 minutos. Te explicamos el proceso exacto, paso a paso.",
     category: "Guías Prácticas",
     date: "2026-08-10",
     readTime: 7,
@@ -47,60 +47,60 @@ export const BLOG_POSTS_INLINE: BlogPost[] = [
       "multa dgt clave firma digital",
       "multa trafico sede electronica dgt",
     ],
-    content: `## ¿Necesitas abogado para recurrir una multa DGT?
+    content: `## ¿Hace falta abogado para recurrir una multa DGT?
 
-No. El **recurso de reposición** es un trámite administrativo que cualquier ciudadano puede hacer por su cuenta, de forma gratuita, sin necesidad de abogado ni procurador. Está regulado en la <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722>Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial (RDL 6/2015)</a>.
+No. El **recurso de reposición** lo puede presentar cualquier ciudadano por su cuenta, gratis y sin abogado ni procurador. Lo regula la <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722>Ley de Tráfico y Seguridad Vial (RDL 6/2015)</a>.
 
-Solo necesitarías abogado en dos casos: si llevas el asunto a la **vía contencioso-administrativa** (multas superiores a 2.000€ en general) o si la cuantía no justifica el coste de la representación legal.
+Solo necesitarías abogado en dos supuestos: si decides acudir a la **vía contencioso-administrativa** (en general, multas superiores a 2.000€) o si la cuantía no compensa el coste de la representación legal.
 
 <img src=/media/plazos-dgt-recurso-calendario-cuerpo.webp alt=Calendario con los plazos para recurrir una multa de la DGT>
 
-## Los 5 pasos para recurrir tu multa DGT sin abogado
+## Recurre tu multa DGT sin abogado en 5 pasos
 
-### Paso 1 — Entiende tus opciones desde el primer día
+### Paso 1 — Conoce tus opciones desde el primer día
 
-Cuando recibes una multa tienes **20 días naturales** desde la notificación para elegir entre dos opciones **incompatibles entre sí**:
+Cuando te llega una multa, desde la notificación cuentas con **20 días naturales** para elegir entre dos opciones **incompatibles entre sí**:
 
-- **Pagar con el 50% de descuento (pronto pago):** Renuncias al derecho a recurrir.
-- **Presentar alegaciones o recurso:** No pagas mientras tramitas. Si te lo deniegan, pagas el 100%.
+- **Pagar con el 50% de descuento (pronto pago):** Ya no podrás recurrir.
+- **Presentar alegaciones o recurso:** No pagas mientras se tramita. Si lo deniegan, pagas el 100%.
 
 **Regla de oro:** Si vas a recurrir, NO pagues la multa.
 
-### Paso 2 — Analiza si tu multa tiene vicios de forma
+### Paso 2 — Revisa si tu multa presenta vicios de forma
 
-Muchas multas de tráfico contienen errores procedimentales que pueden provocar su anulación. Revisa la <a href=https://recurretumulta.online/guias/vicios-forma>guía de vicios de forma</a> antes de redactar nada:
+Muchas multas de tráfico traen errores de procedimiento que pueden anularlas. Revisa la <a href=https://recurretumulta.online/guias/vicios-forma>guía de vicios de forma</a> antes de escribir nada:
 
-- Falta del número TIP o placa del agente
-- Ausencia de la hora exacta de la infracción
-- Matrícula o descripción del vehículo incorrectas
+- Falta del número TIP o de la placa del agente
+- Falta de la hora exacta de la infracción
+- Matrícula o descripción del vehículo erróneas
 - Notificación fuera de plazo o con defectos
-- Radar sin verificación metrológica vigente
+- Radar sin verificación metrológica en vigor
 - Señalización insuficiente del radar
 
-### Paso 3 — Redacta el recurso de reposición
+### Paso 3 — Escribe el recurso de reposición
 
-El recurso debe incluir:
+El recurso debe contener:
 1. Tus datos personales y los del vehículo
-2. Número de expediente sancionador
-3. Los fundamentos de derecho en los que te basas
-4. Solicitud expresa de anulación de la sanción
+2. El número de expediente sancionador
+3. Los fundamentos jurídicos en los que te apoyas
+4. La petición expresa de anulación de la sanción
 5. Fecha y firma
 
-Con el análisis de RecurreTuMulta.online obtienes exactamente los argumentos que debes incluir, gratis.
+El análisis de RecurreTuMulta.online te da exactamente los argumentos que debes incluir, gratis.
 
-### Paso 4 — Preséntalo en la Sede Electrónica de la DGT
+### Paso 4 — Envía el recurso en la sede electrónica de Tráfico
 
-Accede a la <a href=https://sede.dgt.gob.es>Sede Electrónica de la DGT (sede.dgt.gob.es)</a>, identifícate con Cl@ve, DNI electrónico o certificado digital y adjunta el documento. Recibirás un justificante de registro con sello de tiempo que demuestra que presentaste el recurso en plazo.
+Entra en la <a href=https://sede.dgt.gob.es>sede electrónica de Tráfico (sede.dgt.gob.es)</a>, identifícate con Cl@ve, DNI electrónico o certificado digital y adjunta el documento. Recibirás un justificante de registro con sello de tiempo que acredita que presentaste el recurso en plazo.
 
-Si la multa es de un **Ayuntamiento o Policía Local**, preséntalo en el Registro Electrónico General del municipio correspondiente.
+Si la multa la puso un **Ayuntamiento o la Policía Local**, preséntalo en el Registro Electrónico General del municipio correspondiente.
 
-### Paso 5 — Espera la resolución y prepara el siguiente paso
+### Paso 5 — Espera la resolución y piensa el siguiente paso
 
-La DGT tiene **1 mes** para resolver. Si no contesta, opera el silencio administrativo negativo (se entiende desestimado). Si te lo deniegan, puedes acudir a la **vía contencioso-administrativa**.
+La DGT dispone de **1 mes** para resolver. Si no responde, se aplica el silencio administrativo negativo (se entiende desestimado). Si lo deniegan, puedes ir a la **vía contencioso-administrativa**.
 
 <img src=/media/carta-multa-radar-buzon-cuerpo.webp alt=Carta de multa de la DGT en el buzón: revísala antes de pagar>
 
-## ¿Merece la pena recurrir?
+## ¿Compensa recurrir?
 
 | Escenario | Sin recurrir | Recurriendo con éxito |
 |---|---|---|
@@ -108,29 +108,29 @@ La DGT tiene **1 mes** para resolver. Si no contesta, opera el silencio administ
 | Multa de 300€ | 150€ (pronto pago) | 0€ |
 | Multa de 600€ | 300€ (pronto pago) | 0€ |
 
-El tiempo invertido son aproximadamente **20 minutos**. Cuando existen vicios de forma acreditados, las opciones de que el recurso prospere aumentan de forma notable.
+Redactarlo lleva aproximadamente **20 minutos**. Cuando hay vicios de forma acreditados, las opciones de que el recurso prospere suben de forma notable.
 
-Antes de redactar nada, puedes <a href=https://recurretumulta.online/#analizador>analizar tu multa gratis con IA</a>: detecta los defectos de forma y te dice si merece la pena recurrir.
+Antes de escribir nada, puedes <a href=https://recurretumulta.online/#analizador>analizar tu multa gratis con IA</a>: detecta los defectos de forma y te dice si compensa recurrir.
 
 ## Preguntas frecuentes
 
-### ¿Cuánto tarda la DGT en responder a un recurso de reposición?
-La DGT tiene **1 mes** para resolver el recurso de reposición. Si no contesta en ese plazo, opera el silencio administrativo negativo: se entiende desestimado y puedes acudir a la vía contencioso-administrativa.
+### ¿Cuánto puede tardar la DGT en resolver un recurso de reposición?
+La DGT dispone de **1 mes** para resolver el recurso de reposición. Si no responde en ese plazo, se aplica el silencio administrativo negativo: se entiende desestimado y puedes ir a la vía contencioso-administrativa.
 
-### ¿Puedo recurrir si ya pagué la multa con el descuento del 50%?
-No. Pagar con pronto pago implica **renunciar al derecho a recurrir** y agota la vía administrativa. Por eso la regla de oro es: si vas a recurrir, no pagues la multa antes.
+### ¿Puedo recurrir si ya pagué con el descuento del 50%?
+No. Pagar con pronto pago supone **renunciar al derecho a recurrir** y agota la vía administrativa. Por eso la regla de oro es: si vas a recurrir, no pagues la multa antes.
 
 ### ¿Dónde presento el recurso de reposición?
-En la <a href=https://sede.dgt.gob.es>Sede Electrónica de la DGT</a> con Cl@ve, DNI electrónico o certificado digital. Si la multa es de un Ayuntamiento o Policía Local, preséntalo en el Registro Electrónico General del municipio correspondiente.
+Se presenta en la <a href=https://sede.dgt.gob.es>sede electrónica de Tráfico</a>, con certificado digital, Cl@ve o DNI electrónico. Y si la multa es de un Ayuntamiento o Policía Local, en el Registro Electrónico General del municipio correspondiente.
 
-### ¿Necesito abogado para recurrir una multa de tráfico?
-No para el recurso de reposición: es un trámite administrativo gratuito que puedes hacer tú mismo. Solo necesitarías abogado si llevas el caso a la vía contencioso-administrativa.
+### ¿Hace falta abogado para recurrir una multa de tráfico?
+Para el recurso de reposición, no: es un trámite administrativo sin coste que puedes hacer tú mismo. El abogado solo entra si llevas el caso a la vía contencioso-administrativa.
 
-### ¿Cuánto cuesta recurrir una multa DGT sin abogado?
-Nada: el recurso de reposición es un trámite administrativo gratuito. No pagas tasas y no necesitas abogado ni procurador. Según esta guía, redactarlo y presentarlo te lleva unos 20 minutos.
+### ¿Recurrir una multa DGT sin abogado cuesta algo?
+Nada: el recurso de reposición es un trámite administrativo gratuito, sin tasas, sin abogado y sin procurador. Redactarlo y presentarlo te lleva, según esta guía, unos 20 minutos.
 
-### ¿Puedo recurrir una multa de radar sin abogado?
-Sí. En tus alegaciones puedes pedir que se aporte el certificado de verificación metrológica del cinemómetro vigente en la fecha de la infracción. Si no se aporta o está caducado, la multa debe anularse.
+### ¿Se puede recurrir una multa de radar sin abogado?
+Sí. Pide en tus alegaciones que aporten el certificado vigente de verificación metrológica del cinemómetro en la fecha de la infracción; si falta o está caducado, la multa debe anularse.
 `,
   },
   {
