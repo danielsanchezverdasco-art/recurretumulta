@@ -267,9 +267,9 @@ La marca lo describe como un producto global, así que Europa entra en lo probab
   },
   {
     slug: "lexus-lfa-ev-espia-espana-prototipo-2027",
-    title: "Lexus LFA eléctrico: cazado en España con cambio simulado",
+    title: "Lexus LFA EV: prototipo eléctrico cazado en España",
     excerpt:
-      "El prototipo del Lexus LFA eléctrico, cazado en España con camuflaje: tira LED trasera, alerón activo y cambio simulado patentado. Llegada en 2027.",
+      "Un prototipo camuflado del futuro deportivo eléctrico de Lexus rueda por España: tira LED, alerón activo y cambio simulado patentado. Llegada en 2027.",
     category: "Novedades Motor",
     date: "2026-10-22",
     readTime: 5,
@@ -285,53 +285,53 @@ La marca lo describe como un producto global, así que Europa entra en lo probab
 
 *Foto: concept Lexus Electrified Sport (imagen de referencia; el prototipo cazado en España circulaba con fuerte camuflaje). Fuente: thesupercarblog.com. Licencia desconocida.*
 
-El futuro **Lexus LFA eléctrico** ha sido **cazado en España** en plena fase de pruebas, con un fuerte camuflaje que esconde casi todo el diseño. Las fotos espía, publicadas el 22 de octubre de 2026 por *The Supercar Blog* (fuente original: **@mr.grey_4k**), dan la primera mirada real al deportivo eléctrico que Lexus prepara para **2027** como heredero espiritual del mítico LFA de motor V10.
+España se ha convertido en el escenario donde Lexus pone a prueba su próximo deportivo eléctrico. Una unidad muy tapada, fotografiada el 22 de octubre de 2026 y difundida primero por The Supercar Blog a partir de @mr.grey_4k, anticipa el modelo que la marca situará en 2027 como sucesor espiritual del LFA con motor V10.
 
-**Aviso honesto:** las fotos de este artículo son del **concept** en el que se basa el proyecto (el Electrified Sport mostrado por Lexus), no del prototipo camuflado cazado en España. Las imágenes espía pertenecen a su autor.
+Advertencia necesaria antes de seguir: las fotografías que ilustran este artículo corresponden al concept Electrified Sport presentado por Lexus, no a la unidad tapada que circulaba por España. Esas imágenes de espionaje son propiedad de quien las tomó.
 
-## Lo que se aprecia bajo el camuflaje
+## Detalles que deja entrever la lona
 
-- **Postura baja y proporciones esbeltas**, las de un superdeportivo de verdad.
-- **Tira LED trasera ancha y fina**, difusor integrado y lo que parece un **alerón trasero activo**, muy en la línea del concept.
-- Paneles curvos, puertas esculpidas y **canales de aire** para la eficiencia aerodinámica.
-- Llantas negras de aleación y techo con caída pronunciada.
-- Un detalle curioso: la **ventanilla lateral parece fija**, con solo una pequeña sección que se abre por deslizamiento. Probablemente sea una solución temporal del prototipo y no llegue a producción.
+- Silueta muy baja y proporciones alargadas, propias de un superdeportivo de verdad.
+- Detrás, una banda luminosa fina y ancha, un difusor integrado y lo que apunta a un alerón trasero activo, en sintonía con el concept.
+- Carrocería con superficies curvas, puertas marcadas y conductos de aire pensados para la aerodinámica.
+- Ruedas negras de aleación y una línea de techo que cae con fuerza hacia atrás.
+- Un detalle llamativo: el cristal lateral parece fijo, salvo un pequeño tramo que se desplaza. Seguramente se trate de una solución provisional de esta mula y no de un rasgo definitivo.
 
-## El cambio simulado: la patente más interesante
+## La patente que más intriga: marchas sin caja
 
-Lo más llamativo no es lo que se ve, sino lo que Lexus ha patentado: un sistema de **cambios de marcha simulados** que replicaría subidas y bajadas de marcha en el eléctrico. La idea es recuperar parte de la implicación de conducción de un deportivo de combustión —el LFA original era famoso por su V10 atmosférico de 9.000 rpm— en un coche sin caja de cambios real.
+Más allá de lo visible, lo que más debate genera es una patente de Lexus para simular cambios de marcha en este eléctrico. El sistema imitaría el paso por distintas relaciones, buscando devolver parte de la participación que ofrecía el LFA original, célebre por su V10 atmosférico que giraba hasta 9.000 rpm, dentro de un coche que no lleva caja de cambios física.
 
 <img src=/media/lexus-lfa-ev-concept-frontal.webp alt=Lexus Electrified Sport concept, frontal tres cuartos>
 
 *Foto: concept Lexus Electrified Sport (imagen de referencia). Fuente: discoverev.co.uk. Licencia desconocida.*
 
-## ¿Qué esperar del LFA eléctrico?
+## Lo confirmado y lo que falta por saber
 
-Lexus aún no ha publicado especificaciones oficiales. Lo verificado hasta hoy: pruebas en carretera en España, llegada prevista en **2027** y el sistema de cambio simulado patentado. Todo lo demás —potencia, batería, autonomía, precio— queda pendiente de confirmación oficial. En cuanto Lexus publique datos, actualizaremos esta página.
+De momento, Lexus no ha difundido especificaciones oficiales. Lo que sí está verificado: la unidad ya rueda en pruebas por España, su llegada está prevista para 2027 y existe esa patente del cambio simulado. Potencia, batería, autonomía y precio siguen sin confirmación oficial. Cuando la marca difunda esos datos, esta página se actualizará.
 
-Sus rivales naturales serán el **Porsche Taycan**, el **Audi e-tron GT** y el futuro **Mercedes-AMG GT eléctrico**.
+Como referencias del segmento aparecen el Taycan de Porsche, el e-tron GT de Audi y el próximo GT eléctrico de Mercedes-AMG.
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuándo sale el Lexus LFA eléctrico?
+### ¿Para cuándo está previsto el LFA eléctrico?
 
-La previsión actual apunta a **2027**. El prototipo ya rueda en pruebas en España, fase típica de los 12-18 meses previos al lanzamiento.
+La fecha que se maneja es 2027. Que la mula ya circule en pruebas por España encaja con esa cuenta atrás, propia de la fase final, entre un año y año y medio antes del lanzamiento.
 
-### ¿Qué potencia tendrá el LFA EV?
+### ¿Se conoce ya su potencia?
 
-Lexus no ha publicado cifras oficiales. No vamos a inventarlas: actualizaremos esta página cuando la marca confirme los datos.
+No, Lexus no ha comunicado ninguna cifra oficial. No vamos a adelantar números: en cuanto la marca los confirme, aparecerán aquí.
 
-### ¿Qué es el cambio simulado del LFA eléctrico?
+### ¿En qué consiste ese cambio simulado?
 
-Un sistema patentado por Lexus que **replica la sensación de subir y bajar marchas** en el deportivo eléctrico, para recuperar implicación de conducción pese a no tener caja de cambios real.
+En un sistema patentado que imita la sensación de cambiar de marcha, subiendo y bajando relaciones, para que el conductor sienta más implicación aunque el coche no tenga una caja real.
 
-### ¿El prototipo cazado en España es la versión final?
+### ¿Esa unidad tapada es ya el coche definitivo?
 
-No. Es una **mula de pruebas con fuerte camuflaje**; detalles como la ventanilla fija con sección corredera son probablemente temporales y no llegarán a producción.
+No, se trata de una mula de pruebas muy camuflada. Rasgos como ese cristal fijo con tramo corredero probablemente sean provisionales y no pasen a la versión de serie.
 
-### ¿Cuánto costará el Lexus LFA eléctrico?
+### ¿Hay ya un precio anunciado?
 
-Sin precio oficial. Por posicionamiento (sucesor espiritual del LFA, rival del Taycan), se moverá en el tramo alto del mercado. Lo publicaremos cuando Lexus lo confirme.
+No existe precio oficial. Por su posición, como sucesor espiritual del LFA y rival del Taycan, se situará en la parte alta del mercado. Lo publicaremos en cuanto Lexus lo confirme.
 
 *Fuentes: <a href=https://www.thesupercarblog.com/heavily-camouflaged-lexus-lfa-ev-prototype-spied-in-spain/>thesupercarblog.com (22/10/2026)</a>.*
 
