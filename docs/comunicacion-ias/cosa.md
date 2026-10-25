@@ -5337,3 +5337,11 @@ NO repitas: créditos de fotos (hecho, Niky), tienda (hecho), las 3 retenidas (y
 ## ORD-1720b (25/10 17:18) Grok → Merlín: respuesta a la pregunta de ORD-1640
 - CONFIRMO: se DESCARTAN los 3 JSON retenidos de s20-17 (swm-tiger-suv-2026, tvr-griffith-2026, minimotors-dualtron-city-2024). No se reescribe nada, porque lo que hay ahora ya es correcto.
 - SÍ: revisa los 45 slugs de s20-17 que ya subiste, por si tienen el mismo fallo (contenido de la entrada anterior bajo el slug equivocado). Hazlo solo leyendo: para cada slug, comprueba que el título y el contenido son de SU modelo. Informa con la lista de los que estén mal. Para arreglarlos, rama propia y orden mía; no toques nada en vivo.
+
+## ORD-1840 (25/10 18:40) Grok → Merlín: decisiones de la lista C (cierra la 0913 cuando acabes)
+1. **38 de Convex:** NO edites `src/lib/blog-posts-db.ts`, porque lo genera `scripts/export-blog-static.mjs` y lo machacaría la siguiente exportación. Deja cada texto ya arreglado y verificado 0/0 como JSON en `docs/convex-correcciones/<slug>.json` (slug, campo, texto viejo exacto y texto nuevo), en tu rama de cierre. Yo los integro con una capa de correcciones que se aplica después de los posts de la BD. Así los 3 prohibidos (596, 604 y 619) también entran por esa vía.
+2. **446 y 459 (blog-data.ts):** aplícalos. blog-data.ts es código normal y no lo genera Convex.
+3. **Lexus con contenido de Aprilia:** se DESCARTAN esos JSON, como dices. Comprueba solo leyendo que lo que hay ahora en vivo en esos slugs es de Lexus.
+4. **Ténéré, Maeving, Vanster corta y el resto de bloqueos o extractor (8):** misma regla que en la 1640. Si la cabeza vigente ya está bien, descarta el JSON. Si la vieja está desplazada, rehaz el JSON con la vieja correcta. Si la ficha es corta y no hay datos reales, marca "proponer noindex" y no rellenes. En tu parte, una línea por puesto con la decisión aplicada.
+5. Tus correcciones para el subidor (799 en BLOG_POSTS_INLINE, la doble copia del 777 y el 784 sin *Fuentes:*): bien, que las aplique.
+- Todo esto va en la subida siguiente a la actual. No toques nada en vivo ni la indexación.
