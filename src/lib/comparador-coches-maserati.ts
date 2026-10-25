@@ -191,18 +191,18 @@ export const COCHES_MASERATI: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "530 CV y 620 Nm del V6 biturbo: el Grecale de gasolina más potente",
-      "0-100 en 3,8 s y 285 km/h: cifras oficiales de la ficha técnica Maserati",
-      "Maletero de 570 l: el SUV deportivo que también hace de familiar",
-      "Desde 140.311 € (datos JATO): el Trofeo más accesible de la marca",
-      "Modo Corsa y escape deportivo: el carácter más radical del Tridente en SUV",
+      "El V6 biturbo con 530 CV y 620 Nm lo convierte en el Grecale de gasolina más potente",
+      "El 0 a 100 km/h en 3,8 segundos y los 285 km/h de punta son cifras oficiales de la ficha de Maserati",
+      "El maletero de 570 litros demuestra que un SUV deportivo también puede hacer de coche familiar",
+      "Desde 140.311 € según datos JATO, es el Trofeo más accesible dentro de la marca",
+      "El modo Corsa y el escape deportivo le dan el carácter más radical del Tridente en formato SUV"
     ],
     contras: [
-      "11,2 l/100 km y 254 g/km de CO₂ oficiales: el precio de los 530 CV",
-      "Etiqueta C: fuera de las ZBE en episodios de contaminación grave",
-      "2.027 kg en orden de marcha: el peso se nota en tramo revirado",
-      "El Folgore eléctrico entrega 557 CV con etiqueta Cero: el dilema interno de la gama",
-      "Precio verificado por datos JATO, no por tarifa oficial publicada de Maserati España",
+      "Los 11,2 l/100 km y 254 g/km de CO2 oficiales son el precio de los 530 CV",
+      "La etiqueta C lo deja fuera de las zonas de bajas emisiones en episodios de contaminación grave",
+      "Los 2.027 kg en orden de marcha se notan cuando la carretera se vuelve revirada",
+      "El Folgore eléctrico, con 557 CV y etiqueta Cero, plantea un dilema interno dentro de la propia gama",
+      "El precio está verificado por datos JATO, no por una tarifa oficial publicada de Maserati España"
     ],
     largoMm: 4859,
     anchoMm: 1979,

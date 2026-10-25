@@ -184,16 +184,16 @@ export const COCHES_EXP23: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["consumo"],
     pros: [
-      "El Mini de gasolina más racional: 156 CV suficientes para todo",
-      "Cambio automático de 7 velocidades de serie",
-      "El más barato de la gama Cooper",
-      "Diseño renovado con la pantalla OLED redonda",
+      "Es el Mini de gasolina más racional: 156 CV dan para todo sin entrar en consumos de deportivo",
+      "El cambio automático de 7 velocidades viene de serie, sin pasar por la lista de opciones",
+      "Es el más asequible de la gama Cooper, la puerta de entrada a la marca con el diseño renovado",
+      "La pantalla OLED redonda preside un interior que por fin parece de esta década"
     ],
     contras: [
-      "Etiqueta C: restricciones futuras en las ZBE",
-      "Solo 4 plazas y maletero de 200 litros",
-      "Las versiones eléctricas ya tienen 5 estrellas EuroNCAP; la C no está probada",
-      "156 CV se quedan cortos frente al Cooper S por poca diferencia de precio",
+      "La etiqueta C anticipa restricciones futuras en las zonas de bajas emisiones",
+      "Con solo 4 plazas y un maletero de 200 litros, su papel familiar es muy limitado",
+      "Las versiones eléctricas ya tienen 5 estrellas EuroNCAP, pero esta versión de gasolina no está probada",
+      "Los 156 CV se quedan cortos frente al Cooper S por una diferencia de precio que no es tan grande"
     ],
     imagen: "/media/mini-cooper-c-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mini-cooper-c-2024-precio-ficha-tecnica-oficial.webp",
@@ -217,7 +217,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: versión de gasolina no probada (la prueba de 2025 cubre solo las versiones eléctricas)",
+      nota: "La versión de gasolina no ha pasado por EuroNCAP; la prueba de 2025 solo cubre las eléctricas.",
     },
     planMantenimiento: {
       intervalo: "30.000 km o 24 meses (lo que ocurra antes, según indicador CBS)",

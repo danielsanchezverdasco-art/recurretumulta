@@ -134,5 +134,61 @@
     "intro": "Maextro es la marca de lujo más ambiciosa del grupo Huawei, y su gama en esta web se resume en cuatro fichas: tres versiones del S800, la berlina insignia, y el V800, que completa la oferta por arriba. Son coches de representación, con dimensiones generosas, tecnología de asistencia avanzada y un nivel de equipamiento que busca competir con las berlinas de lujo europeas. No es una gama para todos los bolsillos ni para todos los usos, y precisamente por eso conviene leer las fichas con calma: las diferencias entre las versiones del S800 están en la mecánica y en la dotación, no en la imagen.",
     "n": 4,
     "url": "/coches/marca/maextro/"
+  },
+  "coches/mg": {
+    "nombre": "MG",
+    "title": "MG: 36 coches eléctricos, híbridos y deportivos",
+    "description": "36 fichas técnicas de MG: MG3, MG4, MG5, MG HS, MG S5, MG Cyberster y Marvel R, con precios y autonomía para comparar la gama.",
+    "intro": "MG es la marca china más vendida en España, y sus 36 fichas lo explican: hay un MG para casi cada bolsillo y cada necesidad. El MG3 abre como urbano híbrido, el MG4 es el compacto eléctrico de referencia, el MG5 cubre el familiar, el MG HS y el MG S5 los SUV, y el Cyberster y el Marvel R ponen la nota deportiva y tecnológica. Con tantas fichas, la tentación es comparar precios sin más, pero en MG conviene mirar también la garantía, la autonomía real y el equipamiento de serie, porque ahí es donde la marca gana o pierde frente a sus rivales. Esta colección es el mapa completo de la gama.",
+    "n": 36,
+    "url": "/coches/marca/mg/"
+  },
+  "coches/mitsubishi": {
+    "nombre": "Mitsubishi",
+    "title": "Mitsubishi: 15 coches, del ASX al Outlander PHEV",
+    "description": "15 fichas técnicas de Mitsubishi: ASX, Colt, Grandis, Eclipse Cross y Outlander, con motores híbridos y enchufables para comparar.",
+    "intro": "Mitsubishi ha reconstruido su gama europea en torno a la hibridación, y sus 15 fichas lo cuentan bien: el Colt como urbano, el ASX como SUV compacto, el Grandis como familiar, el Eclipse Cross en sus versiones eléctricas y el Outlander PHEV como buque insignia enchufable. Son coches prácticos, sin alardes, pensados para quien valora la fiabilidad y el coste de uso por encima de la imagen. Comparar estas fichas sirve para ver cómo una misma tecnología híbrida se adapta a tamaños distintos, y para elegir el Mitsubishi que encaja con el espacio que necesitas de verdad.",
+    "n": 15,
+    "url": "/coches/marca/mitsubishi/"
+  },
+  "coches/nio": {
+    "nombre": "NIO",
+    "title": "NIO: 18 eléctricos con batería intercambiable",
+    "description": "18 fichas técnicas de NIO: ET5, ET7, EL6, EL7, EL8, EC6, EC7 y ES8, con autonomía, batería y precios para comparar la gama eléctrica.",
+    "intro": "NIO se distingue por una idea que ninguna otra marca ofrece igual: la batería intercambiable, que permite cambiar la batería en minutos en lugar de esperar a una carga. Su gama, con 18 fichas, se organiza en berlinas ET, SUV EL y EC, y el gran ES8, además del superdeportivo EP9 como escaparate tecnológico. Las versiones se multiplican por tamaños de batería, así que dos fichas del mismo modelo pueden esconder autonomías muy distintas. Antes de comparar precios, conviene comparar la batería: en NIO, ese es el dato que más cambia el coche.",
+    "n": 18,
+    "url": "/coches/marca/nio/"
+  },
+  "coches/nissan": {
+    "nombre": "Nissan",
+    "title": "Nissan: 31 coches, del Micra al Ariya eléctrico",
+    "description": "31 fichas técnicas de Nissan: Micra, Leaf, Juke, Qashqai, Ariya, X-Trail e Interstar, con motores eléctricos e híbridos para comparar.",
+    "intro": "Nissan tiene 31 fichas y una historia eléctrica más larga que la de casi todos sus rivales: el Leaf fue el eléctrico popular antes de que los eléctricos fueran populares. Hoy la gama va del Micra urbano al Ariya como SUV eléctrico de referencia, pasando por el Juke, el Qashqai, el X-Trail y las furgonetas Interstar, con versiones eléctricas e híbridas e-Power. La variedad es grande, pero la lógica es sencilla: urbano, SUV compacto, SUV familiar y furgoneta. Recorrer estas fichas por tamaño, y después por tipo de motor, es la forma más rápida de encontrar el Nissan que encaja.",
+    "n": 31,
+    "url": "/coches/marca/nissan/"
+  },
+  "coches/roewe": {
+    "nombre": "Roewe",
+    "title": "Roewe: 15 coches híbridos y eléctricos para descubrir",
+    "description": "15 fichas de Roewe: i5, i6, eRX5, ei5, D6, D7, D5X e iMax8, con su motor, su espacio y su precio para elegir.",
+    "intro": "Roewe es una marca que en España se conoce poco, pero su gama de 15 fichas merece una lectura sin prejuicios: berlinas i5 e i6, el familiar eléctrico ei5, los híbridos enchufables D7 y D5X, el eléctrico D6 y el monovolumen iMax8, también híbrido. Son coches que comparten tecnología con MG, su marca hermana, y eso se nota en la relación entre precio y equipamiento. Quien busque un híbrido enchufable familiar o un eléctrico asequible sin pagar la marca de moda encontrará aquí opciones que no salen en los anuncios, pero que están en las fichas.",
+    "n": 15,
+    "url": "/coches/marca/roewe/"
+  },
+  "coches/volvo": {
+    "nombre": "Volvo",
+    "title": "Volvo: 28 coches seguros, eléctricos e híbridos",
+    "description": "28 fichas técnicas de Volvo: EX30, EX40, EC40, EX60, EX90, ES90, EM90, XC40 y XC60, con autonomía y seguridad para comparar la gama.",
+    "intro": "Volvo tiene 28 fichas y una transición eléctrica en plena marcha: el EX30 como eléctrico compacto, el EX40 y el EC40 en el segmento medio, el EX60 y el EX90 en la parte alta, el ES90 como berlina y el EM90 como primer monovolumen de la marca, conviviendo con los XC de combustión e híbridos. La seguridad sigue siendo el hilo conductor de toda la gama, pero hoy se suma la autonomía eléctrica como segundo criterio de compra. Comparar estas fichas exige fijarse en la batería y en la carga tanto como en el espacio: un Volvo eléctrico y un Volvo híbrido del mismo tamaño son coches para usos distintos.",
+    "n": 28,
+    "url": "/coches/marca/volvo/"
+  },
+  "coches/xiaomi": {
+    "nombre": "Xiaomi",
+    "title": "Xiaomi: 12 coches SU7, YU7 y SkyNomad en fichas",
+    "description": "12 fichas técnicas de Xiaomi: SU7, SU7 Pro, SU7 Max, SU7 Ultra, YU7 y SkyNomad N70 y N90, con potencia y autonomía para comparar.",
+    "intro": "Xiaomi entró en el mundo del coche con tres nombres que conviene no confundir: el SU7, la berlina con la que debutó, con versiones Pro, Max y Ultra; el YU7, que traslada la misma idea al formato SUV, también con Pro y Max; y la familia SkyNomad, con el N70 y el N90, que amplía la gama por arriba. Son 12 fichas, y la escalera dentro de cada familia es de potencia y equipamiento, no de tamaño. El SU7 Ultra y el YU7 Max son los extremos deportivos, mientras que las versiones Pro son la puerta de entrada. Si te atrae la idea de un coche hecho por una empresa de tecnología, estas fichas te dicen qué hay detrás del logo.",
+    "n": 12,
+    "url": "/coches/marca/xiaomi/"
   }
 }
