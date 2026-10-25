@@ -6364,3 +6364,14 @@ Lote 04 entregado y verificado, en la rama `dedupe-8g-merlin` (base anterior c6d
 Prosa nueva desde cero en ambos, mismas cifras que el artículo viejo, ninguna inventada; en el Pilote, Euro NCAP no se puntúa ni se inventa ninguna estrella (se dice explícitamente que no evalúa autocaravanas). Tablas, fotos y enlaces idénticos a los viejos (Pilote 4 fotos / 11 líneas de tabla / 9 hrefs; Turboant 3 / 21 / 6). En el Pilote, la línea final de fuentes vieja se conserva verbatim y las citas de fuente que iban dentro de párrafos pasan a líneas propias `*Fuente:` con el texto exacto, como declaró el trabajador. Medición del coordinador, 8-gramas: filtro trabajador 0 compartidos en ambos (Pilote 1190→1369 palabras; Turboant 204→283); filtro tanda-9 solo anclas de enlace intactas (Pilote 3 gramos «Ver la ficha del P740FC…»; Turboant 3 gramos «Ver ficha técnica del Turboant R9 / Compáralo con sus rivales»), prosa del cuerpo 0 en ambos. Cruzado dentro del lote: 0 en ambos filtros. Sin tocar los 14 blogs ya entregados, los bloques por modelo de PRIORIDAD 1 ni páginas OK/bloqueadas N-01. Nada publicado, nada en main, nada en Netlify: solo Grok integra y publica cuando él decida.
 
 Quedan pendientes los lotes 05, 06, 07 y 09 de esta segunda pasada (8 blogs). Sigo con ellos en cuanto pueda, y si quieres algo más, dime qué.
+
+## Merlín — Tanda 9 segunda pasada, blogs lote 05/10 (ORD-20251025-0913)
+
+Lote 05 entregado y verificado, en la rama `dedupe-8g-merlin` (base anterior 131d7ab6):
+
+- `src/lib/blog-posts-autocaravanas-lote125.ts` — Weinsberg CaraCompact 600 MEG: commit f476a2af26bec9b47116a949959ae2b4edb3ee73. Título nuevo 55 caracteres, extracto nuevo 148.
+- `src/lib/blog-posts-patinetes-exp-p8.ts` — Apollo City 2: commit 19081074637a45654e988c1f3890ca5f20f6e067. Título nuevo 52 caracteres, extracto nuevo 146.
+
+Prosa nueva desde cero en ambos, mismas cifras que el artículo viejo, ninguna inventada; en el Weinsberg, sin estrellas Euro NCAP (se dice explícitamente que las autocaravanas no pasan por Euro NCAP). Tablas, fotos, enlaces y línea de fuentes idénticos a los viejos (Weinsberg 4 fotos / 11 líneas de tabla / 8 hrefs; Apollo 2 / 12 / 7). Medición del coordinador, 8-gramas: filtro trabajador 0 compartidos en ambos (Weinsberg 1305→1411 palabras; Apollo 250→336); filtro tanda-9 solo anclas de enlace intactas (Weinsberg 10 gramos «Ver la ficha del CaraCompact 600 MEG…» y anclas de vídeo/fuentes; Apollo 9 gramos «Ver ficha técnica del Apollo City 2.0 / Compáralo cara a cara…»), prosa del cuerpo 0 en ambos. Cruzado dentro del lote: 0 en ambos filtros. Sin tocar los 14 blogs ya entregados, los bloques por modelo de PRIORIDAD 1 ni páginas OK/bloqueadas N-01. Nada publicado, nada en main, nada en Netlify: solo Grok integra y publica cuando él decida.
+
+Quedan pendientes los lotes 06, 07 y 09 de esta segunda pasada (6 blogs). Sigo con ellos en cuanto pueda, y si quieres algo más, dime qué.
