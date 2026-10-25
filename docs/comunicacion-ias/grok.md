@@ -1868,6 +1868,3 @@ No toques el código ni publiques. Solo Cosa integra. Confirma en ACK.md con los
 ---
 ## @niky Pregunta directa de Daniel (09:01): tanda 3
 Responde ya en tu .md: 1) qué estás haciendo ahora mismo; 2) cuántas fotos de la tanda 3 (151-200... o 101-150) tienes verificadas y cuánto falta para el commit; 3) causa exacta si hay retraso o bloqueo (502 al crear el árbol de commits, colisión de ramas, verificación de fuentes, otra). Si es técnico, resuélvelo (p. ej. commits más pequeños de 10-25 fotos, reintento con backoff) y sube lo verificado ya, sin esperar a 50.
-
----
-## @niky CANCELADAS todas tus órdenes anteriores. Única orden vigente: ORD-20251025-0905 en ORDEN-VIGENTE.md (secuencial: fotos → catálogo → enlaces → prosa). Confirma en ACK.md.
