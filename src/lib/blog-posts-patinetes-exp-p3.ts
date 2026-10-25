@@ -363,9 +363,9 @@ Pesa menos y se maneja mejor (**38 kg** ante 47), aunque entrega menos batería 
   },
   {
     slug: "nami-klima-max",
-    title: "Nami Klima Max: 90 km de autonomía por 2.449 €",
+    title: "Nami Klima Max: batería LG de 1.800 Wh por 2.449 €",
     excerpt:
-      "El Nami Klima Max añade batería LG de 1.800 Wh al Klima: 85-90 km declarados, 5.360 W de pico y 70 km/h. Precio y ficha técnica.",
+      "Doble motor, celdas LG y 85-90 km anunciados: el Klima Max sube a 70 km/h y pesa unos 38 kg. Precio, autonomía real y norma española.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -386,9 +386,9 @@ Pesa menos y se maneja mejor (**38 kg** ante 47), aunque entrega menos batería 
 
 **¿Buscas solo los datos?** <a href=/patinetes/nami-klima-max/>Ver ficha técnica del Nami Klima Max</a>: precio, batería LG y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **Nami Klima Max** es el Klima con la batería que debería llevar de serie: **1.800 Wh con celdas LG** (60V 30Ah), para **85-90 km declarados**. Mantiene los dos motores de 1.000 W (5.360 W de pico) y sube la máxima a **70 km/h**. Precio: **2.449 €**.
+La variante Max cuesta 2.449 € y cambia sobre todo una cosa: el acumulador. Monta celdas LG con 1.800 Wh, frente a la batería menor del Klima corriente, y con ese salto anuncia 85 a 90 km por carga. El resto se mantiene: dos motores de 1.000 W cada uno, 5.360 W de pico y una punta de 70 km/h.
 
-## Ficha técnica resumida
+## Ficha resumida
 
 | Dato | Valor |
 |---|---|
@@ -402,25 +402,25 @@ El **Nami Klima Max** es el Klima con la batería que debería llevar de serie: 
 
 ¿Quieres el detalle completo? <a href=/patinetes/nami-klima-max/>Ficha técnica completa del Nami Klima Max</a>.
 
-## Precio del Nami Klima Max en España
+## Precio en Europa
 
-**2.449 €** en distribuidores europeos: un precio razonable para 1.800 Wh con celdas LG y doble motor. Sigue la recomendación habitual con Nami: compra a importador con garantía europea.
+En tiendas europeas se anuncia por 2.449 €. Para ese acumulador y dos motores, el importe resulta contenido; aun así, conviene elegir un importador que responda con garantía europea, porque la postventa depende en buena medida de él.
 
 <img src=/media/patinetes/nami-klima-max-2.webp alt=Detalle de la batería y la plataforma del Nami Klima Max>
 
-## Autonomía real vs declarada
+## Declarado frente a real
 
-De **85-90 km declarados** a **unos 59 km reales** en uso mixto: la diferencia la marca el doble motor y el ritmo. Aun así, está entre las mejores autonomías reales por debajo de 2.500 €.
+El salto entre folleto y calle es notable: de 85-90 km anunciados a unos 59 km en uso mixto. Lo explica la combinación de doble motor y un ritmo que no es el suave de la homologación. Aun con ese recorte, su alcance real está entre los mejores por debajo de 2.500 €.
 
-## Frenos y neumáticos
+## Frenos, ruedas y suspensión
 
-Frenos de disco de alta gama y neumáticos anchos, con la suspensión hidráulica ajustable que caracteriza a Nami. Todo sobredimensionado para los 70 km/h que declara.
+El equipo de frenada es de disco de alta gama y los neumáticos son anchos, con la suspensión hidráulica regulable que caracteriza a Nami. Todo va sobredimensionado para la punta teórica de 70 km/h, algo imprescindible cuando la parte ciclo debe estar a la altura de esa velocidad.
 
-## Certificado DGT y normativa VMP
+## Homologación y uso en España
 
-**Sin homologación DGT** como VMP: en España solo puede circular **limitado a 25 km/h**, sin pisar **aceras** y por vías permitidas. Su velocidad máxima es solo para circuito privado.
+Este modelo consta sin homologación DGT como VMP. En España, en vía pública, solo se admite con el tope de 25 km/h puesto, sin circular por aceras y únicamente por vías autorizadas. La punta de 70 km/h solo se puede aprovechar fuera de la vía pública, en un circuito.
 
-## Puntos fuertes y débiles
+## Ventajas y pegas
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -432,11 +432,11 @@ Frenos de disco de alta gama y neumáticos anchos, con la suspensión hidráulic
 
 <img src=/media/patinetes/nami-klima-max-3.webp alt=Nami Klima Max en uso urbano>
 
-## Nami Electric: potencia bruta con celdas de primera
+## Quién es Nami Electric
 
-Nami Electric es un fabricante chino especializado en patinetes de altas prestaciones que se ha ganado su reputación fuera de los canales habituales: sin grandes campañas, su gama Burn-E y Klima se ha extendido por Europa a través de distribuidores especializados gracias a un argumento simple, montar componentes serios (celdas LG, frenos hidráulicos, suspensiones regulables) en chasis pensados para rodar rápido. El Klima Max es la evolución lógica del <a href=/patinetes/nami-klima/>Nami Klima</a>: misma plataforma de doble motor, pero con la batería grande de 30 Ah que muchos usuarios pedían para no quedarse cortos en rutas largas. Es, en la práctica, el Klima que la marca debería haber lanzado primero.
+Detrás de la marca hay un fabricante chino que se especializa en patinetes potentes y que ha crecido sin hacer ruido: nada de campañas enormes, sino presencia en Europa a través de tiendas especializadas, con sus gamas Burn-E y Klima como carta de presentación. La receta que le funciona consiste en chasis preparados para ir deprisa equipados con piezas de nivel serio: celdas LG, frenos hidráulicos y suspensiones que se pueden regular. El Max aplica esa receta al <a href=/patinetes/nami-klima/>Nami Klima</a> de siempre: conserva la plataforma con dos motores y le pone el acumulador grande, de 30 amperios hora, que reclamaba quien se quedaba corto en rutas largas. Dicho de otro modo, es el Klima que muchos esperaban desde el principio.
 
-## Técnica a fondo: 1.800 Wh y dos motores de 1.000 W
+## La técnica, desglosada
 
 | Concepto | Dato del Klima Max |
 |---|---|
@@ -447,36 +447,41 @@ Nami Electric es un fabricante chino especializado en patinetes de altas prestac
 | Velocidad máxima | 70 km/h (solo circuito privado) |
 | Peso | Unos 38 kg |
 
-La clave está en la batería: 1.800 Wh con celdas LG es una capacidad propia de patinetes mucho más caros, y las celdas de marca se degradan más despacio y entregan la potencia de forma más estable que las genéricas cuando el nivel de carga baja. Los dos motores suman en aceleración y en cuestas, pero también en consumo: por eso la autonomía real estimada (59 km) se aleja de la declarada, medida a ritmo suave. La suspensión hidráulica ajustable y los frenos de disco sobredimensionados no son un capricho: con 70 km/h de punta teórica, la parte ciclo tiene que estar a la altura.
+Lo que de verdad cambia el producto es el acumulador. Una capacidad de 1.800 vatios hora con celdas LG pertenece, normalmente, a patinetes bastante más caros, y la marca de las celdas se nota con el tiempo: envejecen más despacio y mantienen la entrega cuando queda poca carga, algo que las genéricas no garantizan igual. Al tener dos motores, acelera mejor y sube con más soltura, pero también gasta más, y de ahí que el alcance en uso real (unos 59 km) quede por debajo de la cifra medida a ritmo suave. Para una punta teórica de 70 km/h, la parte ciclo no puede quedarse corta: por eso la suspensión hidráulica que se regula y unos frenos de disco de tamaño generoso tienen todo el sentido.
 
-## Uso real: un patinete de rutas, no de maletero
+## En la calle: rutas largas, no maletero
 
-Hay que ser honesto con los 38 kg: el Klima Max no es el patinete que subes a un cuarto sin ascensor ni el que combinas a diario con metro y escaleras. Es un vehículo para salir de casa rodando y hacer trayectos largos, incluso interurbanos por vías permitidas, con margen de batería de sobra. En ciudad funciona, pero su tamaño y su peso penalizan en maniobras y al aparcarlo en espacios pequeños. Para trayectos cortos y última milla hay opciones mucho más ligeras y baratas; el Max cobra sentido cuando la autonomía real y la potencia son la prioridad.
+Seamos claros con el peso: 38 kg no se suben a un piso sin ascensor ni se combinan cómodamente con metro y escaleras cada mañana. Este patinete está pensado para arrancar desde casa y recorrer distancias largas, también entre poblaciones por vías autorizadas, sin ir justo de batería. Por ciudad se mueve bien, aunque su envergadura y su masa complican giros y aparcamientos estrechos. Quien solo necesite trayectos cortos o última milla encontrará alternativas más ligeras y económicas; el Max solo compensa cuando priman el alcance real y la potencia.
 
-## Mantenimiento, costes y normativa VMP
+## Cuidar la máquina y la norma
 
-El mantenimiento se centra en frenos (pastillas y purgado del circuito hidráulico), presión y desgaste de neumáticos, tornillería del plegado y salud de la batería: evitar descargas completas prolongadas y no guardarlo meses al 100 % alarga la vida de las celdas LG. Sin cadena ni motor de combustión, el coste por kilómetro es muy bajo; el gasto serio sería una batería de sustitución fuera de garantía, otro motivo para comprar a un importador europeo con postventa real. En normativa, la <a href=https://www.dgt.es>DGT</a> regula los VMP con un límite de 25 km/h, prohibición de aceras y certificado de circulación para los modelos comercializados en España: el Klima Max consta sin homologación DGT, así que en vía pública solo puede circular limitado a 25 km/h y su velocidad máxima queda reservada a circuito privado.
+Cuidarlo pasa por revisar frenos (pastillas nuevas y purgado del circuito hidráulico cuando toque), vigilar presión y desgaste de las ruedas, repasar los tornillos del plegado y tratar bien el acumulador: no dejarlo descargado del todo durante mucho tiempo ni almacenarlo meses completamente lleno ayuda a que las celdas LG duren. Al no llevar cadena ni motor térmico, cada kilómetro sale muy barato; el desembolso importante llegaría si hubiera que sustituir la batería fuera de garantía, y por eso pesa tanto comprar a un importador europeo con postventa de verdad. Sobre la norma, la <a href=https://www.dgt.es>DGT</a> fija para los VMP un tope de 25 km/h, veta las aceras y exige certificado de circulación en los modelos que se venden en España: como este Klima Max figura sin homologación DGT, en vía pública solo se admite capado a 25 km/h y su punta queda para uso en circuito privado.
 
-## Rivales y veredicto: ¿merece la pena?
+## Alternativa dentro y fuera de casa, y veredicto
 
-Dentro de casa, el <a href=/patinetes/nami-klima/>Klima estándar</a> ahorra dinero si no necesitas la batería grande; fuera, el <a href=/patinetes/dualtron-city/>Dualtron City</a> juega la carta de la marca coreana con red más asentada, a otro precio. **Veredicto:** el Klima Max merece la pena para quien hace rutas largas y quiere doble motor con celdas LG por 2.449 €, una combinación difícil de igualar; no es para quien busque un patinete ligero para combinar con transporte público ni para quien necesite homologación DGT plena. 
+Si no te hace falta el acumulador grande, el <a href=/patinetes/nami-klima/>Klima estándar</a> de la propia casa te ahorra dinero; si prefieres una marca coreana con una red más consolidada, el <a href=/patinetes/dualtron-city/>Dualtron City</a> es la alternativa, aunque a otro precio. Mi valoración: el Klima Max compensa para quien rueda largo y quiere dos motores con celdas LG por 2.449 €, un conjunto que pocos igualan; en cambio, no encaja con quien busca ligereza para el transporte público ni con quien exige el certificado DGT completo.
 
-## Preguntas frecuentes
+## Dudas frecuentes
 
 ### ¿Cuánto cuesta el Nami Klima Max?
-**2.449 €** en distribuidores europeos.
+
+Cuesta 2.449 € en tiendas europeas.
 
 ### ¿Qué batería lleva?
-**60V 30Ah (1.800 Wh) con celdas LG**, superiores en durabilidad a las genéricas.
+
+Un acumulador de 60 voltios y 30 amperios hora, con 1.800 vatios hora y celdas LG, que duran más que las genéricas.
 
 ### ¿Qué autonomía real tiene?
-Unos **59 km** en uso mixto, frente a 85-90 km declarados.
+
+Calcula unos 59 km en recorrido mixto real, lejos de los 85-90 km del folleto.
 
 ### ¿Merece la pena sobre el Klima normal?
-Sí si haces rutas largas: la batería extra se nota mucho y el sobreprecio es moderado.
+
+Para rutas largas, sí: el acumulador mayor se deja notar y el incremento de precio no es grande.
 
 ### ¿Es legal en España?
-Solo **limitado a 25 km/h** según normativa VMP.
+
+En España, solo circulando a un máximo de 25 km/h.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
@@ -612,9 +617,9 @@ Unos **46 kg**: no es un modelo para subir por escaleras.
   },
   {
     slug: "nami-blast-max",
-    title: "Nami Blast Max: 8.400 W en formato Blast",
+    title: "Nami Blast Max: 8.400 W de pico y 100 km en un Blast",
     excerpt:
-      "El Nami Blast Max lleva el Blast al extremo: doble motor de 1.500 W, 8.400 W de pico, batería de 2.400 Wh y 100 km. Ficha completa.",
+      "El Blast Max traslada el empuje del Burn-e a un chasis más ligero: 2 × 1.500 W, 8.400 W de pico, 2.400 Wh, 100 km y 80 km/h. Precio y legalidad.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -635,7 +640,7 @@ Unos **46 kg**: no es un modelo para subir por escaleras.
 
 **¿Buscas solo los datos?** <a href=/patinetes/nami-blast-max/>Ver ficha técnica del Nami Blast Max</a>: potencia, batería y velocidad. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **Nami Blast Max** es, en la práctica, un Burn-e con otro chasis: **dos motores de 1.500 W** con **8.400 W de pico**, batería de **2.400 Wh** (60V 40Ah), **100 km declarados** y **80 km/h** de máxima, en un conjunto de **45 kg**.
+En el catálogo de Nami, este modelo traslada el empuje del Burn-e a una plataforma diferente: **par de propulsores de 1.500 W cada uno**, **8.400 W máximos**, acumulador de **2.400 Wh** (60V y 40Ah), **100 km homologados** y **80 km/h** de tope, con **45 kg** en la báscula.
 
 ## Ficha técnica resumida
 
@@ -651,25 +656,25 @@ El **Nami Blast Max** es, en la práctica, un Burn-e con otro chasis: **dos moto
 
 ¿Quieres el detalle completo? <a href=/patinetes/nami-blast-max/>Ficha técnica completa del Nami Blast Max</a>.
 
-## Precio del Nami Blast Max en España
+## Precio en España: sin PVP oficial
 
-**Sin PVP oficial publicado** en Europa: se vende a través de importadores y el precio varía. Si lo encuentras, negocia con garantía europea por escrito: a estos niveles de potencia, la postventa importa más que el descuento.
+En Europa no existe un PVP comunicado por la marca: la compra pasa por importadores y cada oferta cambia. Ante una unidad disponible, exige la garantía europea firmada antes de mirar el descuento: con esta potencia, el taller futuro pesa más que unos euros menos hoy.
 
 <img src=/media/patinetes/nami-blast-max-2.webp alt=Detalle de la doble suspensión del Nami Blast Max>
 
-## Autonomía real vs declarada
+## Autonomía: del catálogo a la calle
 
-De **100 km declarados** a **unos 67 km reales** en uso mixto. Con 8,4 kW de pico disponibles, la mano derecha manda más que la ficha técnica.
+Entre la cifra de catálogo y la calle hay un salto: de 100 km anunciados a alrededor de 67 km en recorridos variados. Con 8,4 kW listos bajo el puño, el acelerador decide más que cualquier documento técnico.
 
-## Frenos y neumáticos
+## Frenos y gomas para 80 km/h
 
-A este nivel, Nami monta frenada y gomas acordes a 80 km/h: discos grandes y neumáticos anchos. La doble suspensión ayuda a mantener la compostura cuando el terreno se complica.
+Para una máquina que alcanza 80 km/h, la marca equipa un sistema de frenado y unas cubiertas a la altura: discos generosos y gomas de gran anchura. La suspensión en ambos ejes contribuye a que el conjunto no se descomponga cuando el asfalto empeora.
 
-## Certificado DGT y normativa VMP
+## DGT y normativa: no es un VMP legal
 
-**No es un VMP legal** a su velocidad máxima en España: límite de **25 km/h**, **aceras prohibidas** y vías permitidas. Todo lo que pase de ahí, solo en circuito privado y con protecciones de moto.
+En España no encaja como VMP legal con su velocidad punta: la norma marca 25 km/h, veta las aceras y delimita las vías autorizadas. Cualquier uso por encima de ese umbral queda reservado al circuito privado, siempre con equipamiento propio de moto.
 
-## Puntos fuertes y débiles
+## Ventajas e inconvenientes
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -681,11 +686,11 @@ A este nivel, Nami monta frenada y gomas acordes a 80 km/h: discos grandes y neu
 
 <img src=/media/patinetes/nami-blast-max-3.webp alt=Nami Blast Max en carretera>
 
-## Blast Max: el Burn-e que cambió de chasis para bajar de peso
+## Blast Max: prestaciones de Burn-e con menos kilos encima
 
-Nami construyó su reputación con el Burn-e, y el Blast Max parte de su misma receta de prestaciones extremas sobre un chasis distinto que recorta el conjunto hasta los 45 kilos. La lógica es la de la gama: por debajo, el Klima para quien busca algo más manejable; por arriba, este Blast Max para quien lo quiere todo —dos motores de 1.500 W, una batería de 2.400 Wh y una velocidad punta de 80 km/h— en un objeto que sigue llamándose patinete por cortesía del lenguaje.
+La fama de Nami nació con el Burn-e, y este Blast Max bebe de esa misma fórmula de rendimiento extremo aplicada a otra estructura que deja el total en 45 kilos. Dentro de la familia, el Klima queda para quien prefiere algo más dócil, mientras este modelo se dirige a quien exige el máximo: par de motores de 1.500 W, acumulador de 2.400 Wh y 80 km/h de punta, en un aparato al que solo la costumbre sigue llamando patinete.
 
-## 8.400 vatios en un patinete: física y cifras
+## 8.400 vatios sobre dos ruedas: qué dicen los números
 
 | Dato | Blast Max | Lectura práctica |
 |---|---|---|
@@ -696,40 +701,40 @@ Nami construyó su reputación con el Burn-e, y el Blast Max parte de su misma r
 | Velocidad máxima | 80 km/h | Territorio de moto, no de VMP |
 | Peso | ~45 kg | Transportarlo es parte del ejercicio |
 
-Esas cifras explican el resto del diseño: a 80 km/h un patinete deja de ser un juguete y se convierte en un vehículo que exige frenos grandes, neumáticos anchos y una doble suspensión que mantenga las ruedas en el suelo cuando el firme se arruga.
+Esos números condicionan todo lo demás: circulando a 80 km/h, el aparato abandona cualquier aire de juguete y reclama frenos contundentes, cubiertas anchas y una suspensión doble capaz de pegar las ruedas al suelo cuando el pavimento se ondula.
 
-## Fuera de la ley en la vía pública: dónde puede vivir un Blast Max
+## Sin sitio en la calle: dónde sí encaja un Blast Max
 
-Con el límite de 25 km/h que la DGT fija para los vehículos de movilidad personal, el Blast Max queda fuera de la vía pública española tal como se entrega: ni calzada, ni carril bici y por supuesto ni aceras. Su hábitat legal es el recinto privado y el circuito, y allí debería tratarse con el respeto de una moto: casco integral, guantes y protecciones, porque una caída a sus velocidades no entiende de categorías administrativas. Quien busque un Nami para moverse por la ciudad tendrá que mirar a versiones limitadas y certificadas, no a este.
+La DGT sitúa en 25 km/h el tope de los vehículos de movilidad personal, así que el Blast Max, tal cual sale de fábrica, no tiene cabida en la vía pública española: ni en calzada, ni en carril bici, y mucho menos en aceras. Su único entorno legítimo son el recinto privado y el circuito, donde conviene tratarlo con la seriedad de una moto: casco integral, guantes y defensas, porque un percance a esas velocidades ignora las etiquetas administrativas. Quien quiera un Nami urbano deberá fijarse en variantes limitadas y certificadas, no en este modelo.
 
-## Una batería de 2.400 Wh: cuidados y costes reales
+## Un acumulador de 2.400 Wh: mantenimiento y gasto real
 
-Una batería de 40 Ah no se llena en un descanso: su carga completa es un plan nocturno, y su salud a largo plazo agradece no vivir siempre al 100 % ni apurar las descargas hasta el cero. Los consumibles tampoco son de patinete urbano: neumáticos y pastillas trabajan a ritmo de ciclomotor, y la red de servicio europea de Nami sigue siendo limitada, de modo que la garantía por escrito del distribuidor forma parte del precio aunque no aparezca en la etiqueta. Sin PVP oficial europeo, comparar presupuestos entre importadores es la única referencia sensata.
+Un acumulador de 40 Ah no se recarga en un rato: completarlo exige planificar la noche, y su vida útil agradece no pasar siempre al 100 % ni exprimir las descargas hasta agotarlas. Los elementos de desgaste tampoco pertenecen al patinete urbano: cubiertas y pastillas sufren a ritmo de ciclomotor, y la asistencia europea de Nami continúa siendo escasa, así que la garantía escrita del distribuidor cuenta como parte del coste aunque no figure en la etiqueta. Al no haber PVP oficial europeo, cotejar ofertas entre importadores es la única referencia razonable.
 
-## Blast Max o Burn-e 3 Max: veredicto
+## Blast Max frente a Burn-e 3 Max: sentencia
 
-El cara a cara natural es con su hermano <a href=/patinetes/nami-burn-e-3-max/>Nami Burn-e 3 Max</a>, de prestaciones gemelas y más recorrido comercial, frente al que el Blast Max solo gana si aparece sensiblemente más barato. **Veredicto:** merece la pena para el aficionado a las prestaciones extremas que disponga de espacio privado donde usarlo y asuma su logística; como vehículo para la calle en España, sencillamente no es legal ni práctico. 
+La comparación lógica lo enfrenta a su hermano <a href=/patinetes/nami-burn-e-3-max/>Nami Burn-e 3 Max</a>, de cifras gemelas y mayor trayectoria comercial, ante el cual el Blast Max solo sale ganando si surge claramente más económico. **Veredicto:** compensa para el apasionado del rendimiento extremo que cuente con un espacio privado para disfrutarlo y acepte su logística; como medio para la calle en España, directamente no resulta legal ni práctico.
 
-## ¿Y si lo limito a 25 km/h por la pantalla?
+## ¿Y si lo capo a 25 km/h desde la pantalla?
 
-Es la pregunta que todo comprador se hace, y la respuesta legal es incómoda: limitar electrónicamente un vehículo capaz de 80 km/h no lo convierte en un vehículo de movilidad personal a ojos de la normativa española. La categoría se define por la velocidad máxima de construcción y exige además cumplir el manual de características técnicas de la DGT con su certificado de circulación correspondiente. Un Blast Max limitado por software sigue siendo, administrativamente, un vehículo sin categoría para la vía pública. La única vía honesta de usarlo a diario sería una versión nacida y certificada como VMP, que es otro producto distinto.
+Es la duda que asalta a cualquier comprador, y la contestación jurídica incomoda: capar por electrónica un aparato capaz de 80 km/h no lo transforma en un vehículo de movilidad personal según la normativa española. La categoría se fija por la velocidad máxima de construcción y reclama además respetar el manual técnico de características de la DGT junto a su certificado de circulación correspondiente. El modelo capado por software continúa siendo, en términos administrativos, un vehículo sin encaje para circular por la vía pública. La sola manera honesta de emplearlo cada día pasaría por una variante nacida y certificada como VMP, que constituye otro producto distinto.
 
-## Preguntas frecuentes
+## Dudas frecuentes
 
-### ¿Cuánto cuesta el Nami Blast Max?
-No hay precio oficial europeo: **depende del importador**.
+### ¿Hay precio oficial del Blast Max en Europa?
+No existe un precio oficial en Europa: **varía según el importador**.
 
 ### ¿Qué potencia tiene?
-**Dos motores de 1.500 W** con **8.400 W de pico**, como el Burn-e 3 Max.
+Monta un par de motores de 1.500 W que alcanzan 8.400 W de pico, igual que el Burn-e 3 Max.
 
-### ¿Qué autonomía real tiene?
-Unos **67 km** en uso mixto, frente a 100 km declarados.
+### ¿Cuántos kilómetros reales recorre?
+Alrededor de 67 km en recorridos variados, frente a los 100 km anunciados.
 
 ### ¿Es legal en España?
-Solo **limitado a 25 km/h** según la normativa VMP.
+Únicamente circulando limitado a 25 km/h bajo la normativa VMP.
 
-### ¿Blast Max o Burn-e 3?
-Prestaciones casi idénticas; el Burn-e 3 tiene más nombre y mercado de segunda mano. El Blast Max solo compensa si lo encuentras más barato.
+### ¿Cuál de los dos, Blast Max o Burn-e 3?
+Cifras prácticamente iguales; el Burn-e 3 goza de más renombre y mejor reventa. El Blast Max solo sale a cuenta si lo localizas más económico.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 

@@ -6,9 +6,9 @@ import type { BlogPost } from "./blog-data.ts";
 
 export const DUELOS_MOTOS_POSTS: BlogPost[] = [
   {
-    title: "Silence S01 vs NIU MQi GT Evo 2026",
+    title: "Silence S01 o NIU MQi GT Evo: duelo eléctrico 125",
     slug: "silence-s01-vs-niu-mqi-gt-evo-cual-comprar",
-    excerpt: "Silence S01 (3.950 €, 133 km) vs NIU MQi GT Evo (4.999 €, 100 km/h): comparativa del scooter eléctrico 125 con baterías, precio y equipamiento.",
+    excerpt: "S01 o MQi GT Evo: precios, autonomía y baterías frente a frente para elegir el scooter eléctrico 125 de tu día a día.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -25,11 +25,11 @@ export const DUELOS_MOTOS_POSTS: BlogPost[] = [
     ],
     content: `<img src=/media/silence-s01-vs-niu-mqi-gt-evo-cual-comprar-hero.webp alt=Comparativa entre la Silence S01 y la NIU MQi GT Evo, los dos scooters eléctricos equivalentes a 125 más vendidos>
 
-El duelo español contra el chino: la Silence S01, fabricada en Barcelona y el scooter eléctrico más vendido en España a particulares, frente a la NIU MQi GT Evo, la apuesta del gigante chino que diseñó su scooter pensando en Europa. Las dos son equivalentes a 125 (carnet A1, o B con más de 3 años), las dos llevan baterías extraíbles y las dos prometen moverse por la ciudad sin gastar un euro en gasolina.
+Dos scooters eléctricos equivalentes a un 125, dos ideas distintas de moverse por la ciudad sin gasolina. Una sale de una fábrica barcelonesa y lidera las ventas a particulares en España; la otra llega desde China con la vista puesta en el cliente europeo. Ambas permiten extraer la batería para cargarla en un enchufe normal, ambas admiten el permiso A1 y el B con antigüedad suficiente, y ambas presumen de etiqueta Cero. La elección depende menos de la marca que del uso diario que les vayas a dar.
 
-La respuesta corta: **la S01 es para quien prioriza la autonomía y la red de servicio en España; la MQi GT Evo para quien quiere el scooter más divertido y tecnológico por su precio**. Los detalles, en la tabla.
+En pocas palabras: la catalana conviene a quien recorre muchos kilómetros cada día y valora tener taller y asistencia cerca; la china seduce a quien busca agilidad, conectividad y diversión por un precio parecido. La tabla siguiente deja las cifras una al lado de la otra.
 
-## Tabla comparativa: Silence S01 vs NIU MQi GT Evo
+## Cifras frente a frente
 
 | Ficha | Silence S01 Connected | NIU MQi GT Evo |
 |---|---|---|
@@ -47,63 +47,63 @@ La respuesta corta: **la S01 es para quien prioriza la autonomía y la red de se
 
 <img src=/media/silence-s01-niu-mqi-gt-evo-duelo-cuerpo.webp alt=Silence S01 y NIU MQi GT Evo una junto a otra en una calle>
 
-## Análisis: qué ofrece cada una
+## Lo que aporta cada modelo
 
-**Silence S01.** Su truco es la batería trolley con ruedas: la sacas, la llevas rodando como una maleta y la enchufas en casa o en la oficina, sin instalación. Con 133 km declarados tiene la mayor autonomía de su categoría, acelera como una 300 de gasolina y trae marcha atrás de serie. A cambio, la batería pesa 41 kg (subirla por escaleras es un suplicio), la carga en casa tarda 7-9 h y el precio "real" depende del modelo de suscripción de batería que elijas.
+**Silence S01.** La baza de la S01 es su acumulador con ruedas. Se extrae, se arrastra como si fuera una maleta y se conecta a cualquier toma doméstica o de oficina, sin obra ni cargador fijo. Su alcance homologado, 133 km, encabeza el segmento, su empuje recuerda al de una 300 de gasolina y de serie incorpora marcha atrás. El reverso: el módulo pesa 41 kg y subirlo por una escalera cansa, la recarga doméstica se alarga entre 7 y 9 horas y el desembolso final cambia según se opte por la suscripción o por la compra del acumulador.
 
-**NIU MQi GT Evo.** Más ligera (128 kg), más divertida y más tecnológica: pantalla TFT a color, arranque sin llave por proximidad, tres modos de conducción y una app que permite hasta prestar el scooter sin entregar llaves. Sus dos baterías de 14 kg son más manejables que el trolley de la Silence, pero la autonomía se queda en 75 km declarados (unos 65 reales si le das caña) y no lleva ABS, solo frenada combinada.
+**NIU MQi GT Evo.** La MQi GT Evo juega otra carta: menos peso, 128 kg, un tacto más vivo y un equipamiento digital superior. Monta pantalla TFT en color, desbloqueo por proximidad sin llave física, tres programas de conducción y una aplicación que vigila la posición, avisa ante robos y permite ceder el vehículo sin entregar llaves. Sus dos acumuladores de 14 kg se transportan con más facilidad que el trolley rival, aunque el alcance homologado baja a 75 km —alrededor de 65 km si se circula exigiendo al máximo— y el freno es combinado, sin ABS.
 
-## Pros y contras
+## Puntos fuertes y débiles
 
 **Silence S01:**
-- ✅ 133 km de autonomía declarada, la mayor de la categoría
-- ✅ Batería trolley patentada: se carga en cualquier enchufe sin instalación
-- ✅ Marcha atrás de serie y hueco para dos cascos
-- ✅ Fabricada en Barcelona, con red de servicio propia en España
-- ✅ App con GPS, alarma y préstamo sin llaves
-- ❌ 3.950 € solo con suscripción de batería; 4.950 € en propiedad
-- ❌ La batería pesa 41 kg
-- ❌ Carga lenta en casa (7-9 h)
-- ❌ 152 kg: pesada para mover en parado
+- ✅ Alcance homologado de 133 km, el más amplio de su segmento
+- ✅ Acumulador con ruedas patentado: recarga en cualquier toma sin obra
+- ✅ Marcha atrás incluida de serie y espacio para dos cascos
+- ✅ Producción en Barcelona y asistencia propia en España
+- ✅ Aplicación con localización GPS, alarma y cesión sin llaves
+- ❌ Los 3.950 € exigen suscripción mensual; en propiedad sube a 4.950 €
+- ❌ El acumulador pesa 41 kg
+- ❌ Recarga doméstica lenta, entre 7 y 9 horas
+- ❌ 152 kg que se notan al moverla en parado
 
 **NIU MQi GT Evo:**
-- ✅ 100 km/h reales: compite con un 125 de gasolina
-- ✅ 128 kg, chasis sólido y buen aplomo
-- ✅ Pantalla TFT, arranque sin llave y tres modos bien diferenciados
-- ✅ App con GPS y antirrobo
-- ❌ Autonomía real de 65-75 km, justa a tope
-- ❌ 4.999 €: cara frente a un 125 de gasolina
-- ❌ Sin ABS y sin hueco para el casco
-- ❌ Red de servicio limitada en España
+- ✅ 128 kg, bastidor sólido y buen aplomo
+- ✅ 100 km/h reales, a la altura de un 125 de gasolina
+- ✅ Pantalla TFT, desbloqueo sin llave y tres programas bien diferenciados
+- ✅ Aplicación con GPS y protección antirrobo
+- ❌ Alcance real de 65 a 75 km, corto si se apura
+- ❌ 4.999 €, caro si se compara con un 125 de gasolina
+- ❌ Asistencia en España más limitada que la rival
+- ❌ Sin ABS y sin espacio para guardar el casco
 
-## Veredicto: ¿cuál comprar?
+## Decisión final: ¿con cuál te quedas?
 
-**Compra la Silence S01 si** haces muchos kilómetros al día y necesitas la máxima autonomía con la tranquilidad de una marca con fábrica y servicio en España. **Compra la NIU MQi GT Evo si** buscas el scooter más ágil y tecnológico, y tus rutas son urbanas y cortas. En ambos casos, mira antes las fichas: <a href=/motos/silence-s01-ficha-tecnica-precio/>ficha de la Silence S01</a> y <a href=/motos/niu-mqi-gt-evo-ficha-tecnica-precio/>ficha de la NIU MQi GT Evo</a>, o enfréntalas en nuestro <a href=/comparador-motos/?a=silence-s01-ficha-tecnica-precio&b=niu-mqi-gt-evo-ficha-tecnica-precio>comparador de motos eléctricas</a>.
+Si tu día a día suma muchos kilómetros y quieres el mayor alcance con una marca que fabrica y atiende en España, quédate con la Silence S01. Si tus trayectos son cortos, urbanos y valoras agilidad y tecnología, la NIU MQi GT Evo encaja mejor. Antes de decidir, consulta las fichas: <a href=/motos/silence-s01-ficha-tecnica-precio/>ficha de la Silence S01</a> y <a href=/motos/niu-mqi-gt-evo-ficha-tecnica-precio/>ficha de la NIU MQi GT Evo</a>, o enfréntalas en nuestro <a href=/comparador-motos/?a=silence-s01-ficha-tecnica-precio&b=niu-mqi-gt-evo-ficha-tecnica-precio>comparador de motos eléctricas</a>.
 
-## Míralo en vídeo
+## Prueba en vídeo
 
 <iframe src=https://www.youtube.com/embed/67XmxCcgusk title="Vídeo: Prueba NIU MQi GT Evo, el eléctrico más honesto del mercado" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=67XmxCcgusk>Canariasenmoto</a> en YouTube
+Grabación de <a href=https://www.youtube.com/watch?v=67XmxCcgusk>Canariasenmoto</a> en YouTube
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuál tiene más autonomía, la Silence S01 o la NIU MQi GT Evo?
-La Silence S01, con diferencia: 133 km declarados frente a 75 km de la NIU (unos 65 reales). Si haces más de 50 km al día, la S01 es la elección lógica.
+### ¿Qué modelo recorre más kilómetros con una carga?
+La S01, con claridad: homologa 133 km, mientras la MQi GT Evo declara 75 km y en uso exigente ronda los 65 km. Quien supere los 50 km diarios tiene en la catalana la opción lógica.
 
-### ¿Las dos se pueden conducir con el carnet de coche?
-Sí: ambas son equivalentes a 125 y se pueden llevar con el A1 o con el B con más de 3 años de antigüedad, solo en territorio nacional.
+### ¿Sirve el permiso de coche para llevarlas?
+Sí. Las dos equivalen a un 125 y admiten el A1, además del B cuando el conductor lleva más de tres años con él, únicamente dentro del territorio nacional.
 
-### ¿Cuál es más barata?
-La Silence S01 parte de 3.950 €, pero ojo: ese precio es con suscripción mensual de batería; con batería en propiedad son 4.950 €. La NIU MQi GT Evo cuesta 4.999 € con todo incluido.
+### ¿Cuál sale más económica al comprarla?
+La S01 anuncia 3.950 €, pero esa cifra corresponde a la suscripción mensual del acumulador; comprándolo en propiedad el precio asciende a 4.950 €. La MQi GT Evo se vende por 4.999 € sin pagos mensuales añadidos.
 
-### ¿Se pueden cargar en casa?
-Sí, las dos: la S01 con su batería trolley de ruedas (41 kg) y la NIU con sus dos baterías de 14 kg cada una. Ninguna necesita punto de carga instalado.
+### ¿Es posible recargarlas en un enchufe doméstico?
+Sí, en ambos casos. La S01 se recarga con su acumulador trolley de ruedas, de 41 kg, mientras la NIU emplea sus dos acumuladores de 14 kg cada uno. Ninguna exige instalar un punto de carga.
 
-### ¿Tienen etiqueta Cero?
-Sí, ambas son 100 % eléctricas y llevan <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero de la DGT</a>: entran en todas las ZBE sin restricciones.
+### ¿Llevan distintivo ambiental Cero?
+Sí. Al ser totalmente eléctricas, las dos portan <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero de la DGT</a> y acceden a todas las ZBE sin limitaciones.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+Antes de abonar una sanción, comprueba si contiene algún error con la herramienta gratuita de esta web: <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a>.
 `,
   },
   {
@@ -707,9 +707,9 @@ La **BMW F 450 R**: declara 175 kg con todos los líquidos, 13 kg por debajo de 
   },
 
   {
-    title: "C6 vs CUV e: vs NQi Sport: la eléctrica urbana ideal",
+    title: "C6, CUV e: y NQi Sport: elige por tu carnet",
     slug: "flying-flea-c6-vs-honda-cuv-e-vs-niu-nqi-sport-cual-comprar",
-    excerpt: "Flying Flea C6 (5.990 €, 115 km/h) vs Honda CUV e: (4.000 €, baterías extraíbles) vs NIU NQi Sport (1.999 €, 130 km): duelo de motos eléctricas urbanas. La decisión la marca tu carnet. Tablas y veredicto.",
+    excerpt: "Flying Flea C6 (5.990 €, 115 km/h), Honda CUV e: (baterías extraíbles) y NIU NQi Sport (1.999 €, 130 km): comparativa urbana donde tu permiso decide.",
     category: "Novedades Motor",
     date: "2026-10-11",
     readTime: 8,
@@ -725,9 +725,9 @@ La **BMW F 450 R**: declara 175 kg con todos los líquidos, 13 kg por debajo de 
 
 **¿Buscas solo los datos?** <a href=/motos/royal-enfield-flying-flea-c6-2026-ficha-tecnica-precio/>Ver ficha de la Flying Flea C6</a> · <a href=/motos/honda-cuv-e-2025-ficha-tecnica-precio/>Ver ficha de la Honda CUV e:</a> · <a href=/motos/niu-nqi-sport-scooter-electrico-1999-euros-gama-2026/>Ver ficha de la NIU NQi Sport</a> · <a href=/comparador-motos/>Compararlas cara a cara</a>.
 
-Tres eléctricas urbanas, tres carnets, tres presupuestos. La **Flying Flea C6** (5.990 €) es la primera eléctrica de Royal Enfield: 115 km/h y chasis de aluminio forjado. La **Honda CUV e:** (~4.000 €) es el scooter japonés con dos baterías extraíbles que cargas en casa. La **NIU NQi Sport** (1.999 €) es el ciclomotor eléctrico con 130 km de autonomía. Spoiler: **la ganadora la decide tu carnet**.
+Antes de comparar precios o autonomías, conviene mirar el permiso que tienes en el bolsillo, porque cada una de estas tres monturas eléctricas pide un permiso distinto y apunta a un uso distinto dentro de la ciudad. La más barata de la terna es la NIU NQi Sport, que arranca en 1.999 € y anuncia 130 km de recorrido, aunque su velocidad queda limitada a 45 km/h y su categoría es la de ciclomotor. En el tramo intermedio aparece la Honda CUV e:, un scooter japonés que ronda los 4.000 €, con la variante Connected en 4.550 €, y cuya baza es poder extraer sus dos acumuladores para enchufarlos en casa. Por encima, en 5.990 €, la Flying Flea C6 supone el debut eléctrico de Royal Enfield y se presenta como una motocicleta completa, con 115 km/h de punta y un bastidor de aluminio forjado.
 
-## La tabla: cara a cara
+## Comparativa en cifras
 
 |  | **Flying Flea C6** | **Honda CUV e:** | **NIU NQi Sport** |
 |---|---|---|---|
@@ -746,48 +746,51 @@ Tres eléctricas urbanas, tres carnets, tres presupuestos. La **Flying Flea C6**
 
 <img src=/media/flying-flea-c6-vs-honda-cuv-e-vs-niu-nqi-sport-cual-comprar-carga.webp alt=Scooter eléctrico cargando en un enchufe doméstico en un garaje en España>
 
-## Dónde gana cada una
+## Ventajas decisivas de cada modelo
 
-**La C6 gana en moto de verdad.** Horquilla Girder de aluminio forjado, 115 km/h reales, ABS en curva y control de tracción en curva: es la única de las tres que se comporta como una moto. Las entregas en España arrancaron en octubre de 2026 (Barcelona entre las cinco ciudades europeas de lanzamiento).
+La propuesta de Royal Enfield destaca por su planteamiento de motocicleta auténtica. Monta una horquilla Girder en aluminio forjado, alcanza 115 km/h de verdad, y equipa ABS en curva junto a control de tracción en curva, un conjunto que ninguna de las otras dos ofrece. Las primeras unidades llegaron a nuestro país en octubre de 2026, y Barcelona figuró entre las cinco urbes europeas elegidas para el lanzamiento.
 
-**La CUV e: gana en practicidad diaria.** Las dos baterías de 1,3 kWh se extraen en segundos y se cargan en cualquier enchufe: no necesitas garaje con punto de carga. Marca japonesa, red Honda y 83 km/h suficientes para rondas. El pero: 6 horas para la carga completa.
+El scooter de Honda brilla, en cambio, por lo sencillo que resulta convivir con él cada día. Sus dos acumuladores, de 1,3 kWh cada uno, salen en cuestión de segundos y admiten carga en un enchufe corriente, así que no hace falta disponer de un garaje con punto de carga propio. A eso se suma el respaldo de una marca japonesa con una red amplia y una punta de 83 km/h que basta para moverse por rondas. Su punto débil es el tiempo de recarga completa, que se alarga hasta las 6 horas.
 
-**La NQi Sport gana en precio y autonomía.** 1.999 € y 130 km declarados: imbatible como segundo vehículo urbano. El pero: 45 km/h la limitan a ciudad pura, y es un ciclomotor (AM).
+La NIU, por su parte, vence en los dos apartados que más pesan al bolsillo: precio de acceso y recorrido anunciado. Con 1.999 € y 130 km declarados, resulta difícil de batir como segunda montura para la ciudad. La contrapartida es clara: al quedar capada a 45 km/h, su territorio es exclusivamente urbano, y su condición de ciclomotor exige el permiso AM.
 
-## Nuestra recomendación honesta
+## Qué modelo encaja con tu permiso
 
-El carnet manda más que el precio:
+El permiso pesa más que el precio a la hora de decidir:
 
-- **Carnet AM o solo ciudad a 45 km/h → NIU NQi Sport.** 1.999 € y 130 km: no hay discusión.
-- **Carnet A1 (o B con 3 años) y uso diario → Honda CUV e:.** Baterías extraíbles, marca con red y 83 km/h. La C6 te exige el A2 para aprovecharla.
-- **Carnet A2 y quieres una moto, no un scooter → Flying Flea C6.** 5.990 € por una eléctrica con chasis de verdad, 115 km/h y tecnología de curva. Es otra liga.
+- **Permiso AM, o desplazamientos solo urbanos a 45 km/h → NIU NQi Sport.** Por 1.999 € y con 130 km anunciados, no admite réplica.
+- **Permiso A1, o B con tres años de antigüedad, y uso cotidiano → Honda CUV e:.** Acumuladores extraíbles, marca con red de servicio y 83 km/h. Para sacarle partido a la C6 haría falta el A2.
+- **Permiso A2 y ganas de una moto, no de un scooter → Flying Flea C6.** Por 5.990 € ofrece un bastidor serio, 115 km/h y ayudas en curva. Juega en otra categoría.
 
-El matiz: si tienes el A2 y dudas entre la C6 y la CUV e:, pregúntate dónde aparcas. Sin garaje con enchufe, las baterías extraíbles de la Honda valen oro; con garaje, la C6 es mucho más moto. <a href=/comparador-motos/>Pásate por el comparador de motos</a> y míralas cara a cara.
+Un matiz para quien tenga el A2 y dude entre la C6 y la CUV e: piensa primero dónde guardas la moto por la noche. Si no cuentas con un garaje con enchufe, los acumuladores extraíbles de la Honda son un argumento de peso; si sí lo tienes, la C6 es bastante más moto.
+
+<a href=/comparador-motos/>Compáralas en el comparador de motos</a>
 
 Y un recordatorio de la casa: también en eléctrico, los límites de velocidad aplican. Si te llega una multa, <a href=/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-## Preguntas frecuentes
+## Respuestas rápidas
 
-### ¿Qué carnet hace falta para cada una?
-La **NQi Sport** es ciclomotor: **AM**. La **CUV e:** equivale a 125: **A1** (o B con 3 años). La **C6** necesita el **A2**.
+### ¿Qué permiso exige cada montura?
+La NQi Sport, al ser ciclomotor, se conduce con el AM. La CUV e:, equivalente a una 125, pide el A1, o bien el B con tres años de antigüedad. La C6 requiere el A2.
 
-### ¿Cuál tiene más autonomía?
-La **NIU NQi Sport: 130 km** declarados, por delante de la C6 (104 km urbano) y la CUV e: (~72 km).
+### ¿Qué modelo recorre más kilómetros con una carga?
+La NIU NQi Sport, con 130 km anunciados, queda por delante de la C6, con 104 km en ciclo urbano, y de la CUV e:, con alrededor de 72 km.
 
-### ¿Cuál es más rápida?
-La **Flying Flea C6: 115 km/h** (0-60 en 3,7 s). La CUV e: llega a 83 km/h y la NQi Sport a 45 km/h.
+### ¿Cuál alcanza mayor velocidad?
+La Flying Flea C6, con 115 km/h de máxima y una aceleración de 0 a 60 en 3,7 segundos. La CUV e: se queda en 83 km/h y la NQi Sport en 45 km/h.
 
-### ¿Las tres tienen etiqueta Cero de la DGT?
-Sí: las tres son 100 % eléctricas y llevan la **etiqueta Cero**, con acceso total a las ZBE.
+### ¿Las tres disfrutan del distintivo ambiental cero?
+Sí. Al ser modelos totalmente eléctricos, las tres lucen el distintivo Cero de la DGT, así que pueden entrar en las zonas de bajas emisiones sin restricciones.
 
-### ¿Cuál carga más rápido?
-La **C6**: del 20 al 80 % en unos 65 minutos. La CUV e: tarda unas 6 horas (0-100 %), aunque del 25 al 75 % baja de 3 horas.
+### ¿Cuál recupera carga antes?
+La C6: una recarga parcial del 20 al 80 por ciento ronda los 65 minutos. La CUV e: necesita unas 6 horas para una carga completa del 0 al 100 por ciento, aunque el tramo del 25 al 75 por ciento baja de las 3 horas.
 
-### ¿Merece la pena la Flying Flea C6 por 5.990 €?
-Si tienes el A2 y buscas una moto eléctrica de verdad (no un scooter), sí: chasis de aluminio forjado, 115 km/h y ayudas en curva por ese precio no tienen rival directo. <a href=/blog/flying-flea-c6-moto-electrica-royal-enfield-5990-euros/>Aquí tienes nuestro análisis completo</a>.
+### ¿Compensa pagar 5.990 € por la Flying Flea C6?
+Si dispones del A2 y lo que buscas es una eléctrica de verdad, con bastidor forjado en aluminio, 115 km/h de punta y asistencias en curva, y no un scooter, la respuesta es afirmativa: por ese importe no existe un rival directo.
+
+<a href=/blog/flying-flea-c6-moto-electrica-royal-enfield-5990-euros/>Análisis completo de la Flying Flea C6</a>
 
 **También te puede interesar:** <a href=/motos/royal-enfield-flying-flea-c6-2026-ficha-tecnica-precio/>ficha de la Flying Flea C6</a> · <a href=/motos/honda-cuv-e-2025-ficha-tecnica-precio/>ficha de la Honda CUV e:</a> · <a href=/comparador-motos/>comparador de motos eléctricas</a> · <a href=/#analizador>analiza tu multa gratis</a>.
-
 `
   },
 ];
