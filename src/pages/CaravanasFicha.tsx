@@ -728,6 +728,7 @@ function Ficha({ auto }: { auto: Caravana }) {
         editorial={{
           ambito: "general",
           tipo: "ficha",
+          modelo: nombre,
           publicado: fechas.publicado,
           actualizado: fechas.actualizado,
           fuentePrincipal: auto.fuenteUrl ? { nombre: auto.fuenteNombre || "Fuente de los datos", url: auto.fuenteUrl } : null,

@@ -925,8 +925,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "La rueda trasera maciza transmite más vibración que una hinchable",
       "Sus 35 km/h no son legales en vía pública española",
       "No trae suspensión ni intermitentes",
-      "Sin precio oficial: sin tarifa oficial verificable del Inmotion Air Pro en Europa",
-      "Precio oficial en España difícil de encontrar",
+      "Sus 2.250 € lo sitúan entre los patinetes urbanos más caros",
     ],
     veredicto:
       "El Air que por fin tiene autonomía: si 35 km se te quedan cortos, el Pro responde. Solo la carga lenta empaña el conjunto.",

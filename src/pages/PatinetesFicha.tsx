@@ -163,13 +163,42 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
   const precioAprox = patinete.aprox.includes("precioEur");
   const compararHref = `/comparador-patinetes/?a=${patinete.id}`;
 
+  // 25/10/2026 REWORK (Grok 12:46, puntos 2 y 5): respuestas naturales con el
+  // dato propio del modelo (peso, velocidad, certificado) y la norma completa
+  // en /guias/seguro-vmp/ y /guias/certificado-dgt/. El nombre aparece una
+  // sola vez por respuesta; sin frases cortas repetidas ni rotaciones por hash.
+  function respuestaSeguroVmp(nombre: string, p: PatineteComparador): string {
+    const peso = p.pesoKg != null ? `${p.pesoKg} kg` : null;
+    const vel = p.velocidadMaxKmh != null ? `${p.velocidadMaxKmh} km/h` : null;
+    let perfil: string;
+    if (peso != null && p.pesoKg! < 25) {
+      perfil = `vehículo personal ligero de ${peso}${vel ? ` y ${vel} de velocidad máxima` : ""}`;
+    } else if (peso != null && p.velocidadMaxKmh != null && p.velocidadMaxKmh <= 14) {
+      perfil = `vehículo personal ligero de ${peso} y ${vel} de velocidad máxima`;
+    } else if (peso != null && p.velocidadMaxKmh != null && p.velocidadMaxKmh > 14) {
+      perfil = `VMP de ${peso} y ${vel} de velocidad máxima, fuera de la definición de vehículo personal ligero`;
+    } else {
+      perfil = `vehículo de movilidad personal${peso ? ` de ${peso}` : ""}${vel ? ` y ${vel} de velocidad máxima` : ""}`;
+    }
+    const certificado =
+      p.certificadoDgt === true
+        ? "tiene certificado de circulación verificado, así que reúne el requisito para inscribirse"
+        : "aún no tiene verificado su certificado de circulación: hay que pedirlo al vendedor antes de inscribirlo, porque sin él no se completa el registro; si la unidad es anterior al 22 de enero de 2024 y no tiene certificado, la inscripción temporal solo permite circular hasta el 22 de enero de 2027";
+    return `Sí: el ${nombre} es un ${perfil} y, desde el 2 de enero de 2026, circular con él exige seguro de responsabilidad civil (Ley 5/2025, de 24 de julio). Antes de asegurarlo hay que inscribirlo en el Registro de Vehículos Personales Ligeros de la DGT, operativo desde el 30 de enero de 2026 (Real Decreto 52/2026): sin inscripción no se puede contratar la póliza. Además, ${certificado}. La póliza obligatoria cubre los daños a terceros; el propio patinete y las lesiones del conductor quedan fuera salvo que se contraten coberturas opcionales.`;
+  }
+  function respuestaCertificadoDgt(nombre: string, verificado: boolean): string {
+    if (verificado)
+      return `Sí: el ${nombre} tiene certificado de circulación verificado, el documento que acredita que el modelo cumple el Manual de características de los VMP (Resolución de 12 de enero de 2022 de la DGT), y por tanto puede inscribirse en el Registro de Vehículos Personales Ligeros.`;
+    return `No: del ${nombre} no tenemos verificado su certificado de circulación en una fuente oficial. Antes de comprar, pide el certificado al vendedor: sin él no se completa la inscripción en el Registro de Vehículos Personales Ligeros, y solo las unidades anteriores al 22 de enero de 2024 sin certificado pueden circular con inscripción temporal, hasta el 22 de enero de 2027.`;
+  }
+
   const FAQS = [
     {
       q: `¿Cuánto cuesta el ${nombre}?`,
       a:
         patinete.precioEur == null
           ? `El ${nombre} no tiene precio oficial publicado para España en este momento: aparece como «No publicado» en la ficha. Lo actualizaremos en cuanto la marca lo anuncie.`
-          : `${geo.faqPrecio ?? `El precio oficial del ${nombre} en España es de ${fmtPrecio(patinete.precioEur)}.`} Ten en cuenta que las tiendas pueden aplicar ofertas puntuales por debajo de ese precio.`,
+          : `${geo.faqPrecio ?? `El precio oficial del ${nombre} en España es de ${fmtPrecio(patinete.precioEur)}.`}`,
     },
     {
       q: `¿Cuál es la autonomía real del ${nombre}?`,
@@ -180,14 +209,11 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
     },
     {
       q: `¿El ${nombre} tiene certificado de la DGT?`,
-      a:
-        patinete.certificadoDgt === true
-          ? `Sí: según el fabricante, el ${nombre} cumple la normativa española vigente para VMP. Aun así, conserva el certificado y comprueba que el número de serie coincide con el de la documentación.`
-          : `No hemos podido verificar el certificado DGT del ${nombre} en una fuente oficial, así que aparece como «No verificado». Antes de comprar, pide al vendedor el certificado de circulación: sin él, el patinete no es legal en España.`,
+      a: respuestaCertificadoDgt(nombre, patinete.certificadoDgt === true),
     },
     {
       q: `¿Necesito seguro para el ${nombre}?`,
-      a: `Desde el 2 de enero de 2026 el seguro de responsabilidad civil es obligatorio para los VMP en España (Ley 5/2025). Además, desde el 30 de enero de 2026 los patinetes deben inscribirse en el Registro de Vehículos Personales Ligeros de la DGT. Tienes todos los detalles en nuestra guía de patinetes eléctricos.`,
+      a: respuestaSeguroVmp(nombre, patinete),
     },
     {
       q: `¿Dónde puedo comparar el ${nombre} con otros patinetes?`,
@@ -717,6 +743,16 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
             ))}
           </div>
         </section>
+        <p className="mt-4 text-sm text-gray-600">
+          Certificado DGT y seguro:{" "}
+          <Link to="/guias/certificado-dgt/" className="font-semibold text-red-600 hover:underline">
+            Guía del certificado DGT del patinete →
+          </Link>{" "}
+          ·{" "}
+          <Link to="/guias/seguro-vmp/" className="font-semibold text-red-600 hover:underline">
+            Guía del seguro obligatorio →
+          </Link>
+        </p>
 
         {/* 12/10/2026: opiniones de propietarios con fotos */}
         <div id="opiniones" className="scroll-mt-32">
@@ -748,6 +784,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
         editorial={{
           ambito: "patinetes",
           tipo: "ficha",
+          modelo: nombre,
           publicado: fechas.publicado,
           actualizado: fechas.actualizado,
           fuentePrincipal: patinete.fuenteUrl ? { nombre: patinete.fuenteNombre || "Fuente de los datos", url: patinete.fuenteUrl } : null,

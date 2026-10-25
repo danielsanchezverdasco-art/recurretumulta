@@ -735,6 +735,12 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             ¿Puede entrar en la ZBE de Madrid?
           </h2>
           <p className="mt-3 text-gray-700">{textoZbe(coche)}</p>
+          <p className="mt-3 text-sm text-gray-600">
+            ZBE y etiquetas:{" "}
+            <Link to="/guias/zbe-etiquetas/" className="font-semibold text-red-600 hover:underline">
+              Guía ZBE y etiquetas DGT →
+            </Link>
+          </p>
         </section>
 
         <section id="precio" className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6">
@@ -1197,6 +1203,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
         editorial={{
           ambito: "coches",
           tipo: "ficha",
+          modelo: nombre,
           publicado: fechas.publicado,
           actualizado: fechas.actualizado,
           fuentePrincipal: coche.fuenteUrl ? { nombre: coche.fuenteNombre || "Fuente de los datos", url: coche.fuenteUrl } : null,

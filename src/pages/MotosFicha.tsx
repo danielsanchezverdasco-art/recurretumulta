@@ -796,6 +796,14 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
             ))}
           </div>
         </section>
+        {moto.etiquetaDgt ? (
+          <p className="mt-4 text-sm text-gray-600">
+            ZBE y etiquetas:{" "}
+            <Link to="/guias/zbe-etiquetas/" className="font-semibold text-red-600 hover:underline">
+              Guía ZBE y etiquetas DGT →
+            </Link>
+          </p>
+        ) : null}
 
         {/* 12/10/2026: opiniones de propietarios con fotos */}
         <div id="opiniones" className="scroll-mt-32">
@@ -827,6 +835,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
         editorial={{
           ambito: "motos",
           tipo: "ficha",
+          modelo: nombre,
           publicado: fechas.publicado,
           actualizado: fechas.actualizado,
           fuentePrincipal: moto.fuenteUrl ? { nombre: moto.fuenteNombre || "Fuente de los datos", url: moto.fuenteUrl } : null,

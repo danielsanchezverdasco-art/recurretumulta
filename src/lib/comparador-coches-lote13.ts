@@ -857,7 +857,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
     pros: [
       "Las baterías Blade de BYD ofrecen 65,28 o 73,98 kWh y anuncian hasta 630 km en ciclo CLTC",
       "El motor delantero de 268 CV y 330 Nm, desarrollado por FinDreams, la filial de BYD, da empuje de sobra",
-      "La asistencia a la conducción Momenta 5.0, con LiDAR y 33 sensores, lo pone al nivel de los eléctricos más avanzados",
+      "La asistencia a la conducción Momenta 5.0 monta LiDAR y 33 sensores",
       "Los 9 airbags, la pantalla de 15,6 pulgadas y los asientos con modo siesta cuidan a todos los ocupantes",
       "El precio en China, desde unos 16.000 €, es aproximadamente la mitad que el de un Tesla Model Y"
     ],

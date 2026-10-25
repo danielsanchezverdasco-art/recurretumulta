@@ -4561,8 +4561,6 @@ De referencia se barajan unos 45.000 € en España, según los anuncios españo
 
 Tomando como referencia el Renegade y el Compass, la garantía orientativa es de 2 años según la fuente de la ficha. El mantenimiento de un 4xe añade a lo habitual de un gasolina revisar el sistema híbrido y la batería: conviene preguntar qué entra en cada revisión y qué cobertura tiene la batería con los años.
 
-Mantenimiento orientativo (modelo similar Jeep Renegade, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Jeep Renegade (misma marca).
-
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Jeep Compass Trailhawk?

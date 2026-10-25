@@ -24,6 +24,8 @@ export interface EditorialProps {
   fuentes?: Fuente[];
   /** Ocultar la lista de herramientas (si la página ya enlaza 3+). */
   sinHerramientas?: boolean;
+  /** Nombre del modelo de la ficha, para que la verificación cite su fuente real. */
+  modelo?: string;
 }
 
 const TEXTO_VERIFICACION: Record<NonNullable<EditorialProps["tipo"]>, string> = {
@@ -37,6 +39,24 @@ const TEXTO_VERIFICACION: Record<NonNullable<EditorialProps["tipo"]>, string> = 
     "Los contenidos se contrastan con fuentes oficiales (BOE, DGT y webs oficiales de las marcas) y, si algo no se puede citar, no se publica.",
 };
 
+// 25/10/2026 REWORK (Grok 12:46, punto 2): la frase de verificación nombra UNA
+// vez la fuente real de la página y el modelo de la ficha; sin repeticiones
+// por frase ni rotaciones por hash. Sin fuente principal, texto neutro.
+function fraseVerificacion({
+  tipo,
+  modelo,
+  fuente,
+}: {
+  tipo: NonNullable<EditorialProps["tipo"]>;
+  modelo?: string;
+  fuente?: Fuente | null;
+}): string {
+  if (!fuente?.nombre) return TEXTO_VERIFICACION[tipo];
+  if (modelo && tipo === "ficha")
+    return `Los datos de la ficha del ${modelo} se contrastaron con ${fuente.nombre}: solo se publica lo que esa fuente confirma; lo demás queda marcado como no verificado, nunca inventado.`;
+  return TEXTO_VERIFICACION[tipo];
+}
+
 export default function FirmaEditorial({
   ambito = "general",
   tipo = "pagina",
@@ -45,6 +65,7 @@ export default function FirmaEditorial({
   fuentePrincipal,
   fuentes,
   sinHerramientas,
+  modelo,
 }: EditorialProps) {
   const pub = isoDia(publicado);
   const act = isoDia(actualizado) ?? pub;
@@ -84,7 +105,7 @@ export default function FirmaEditorial({
           )}
         </p>
         <p className="mt-2 text-xs leading-relaxed text-gray-600">
-          <strong className="text-gray-800">Cómo verificamos:</strong> {TEXTO_VERIFICACION[tipo]}{" "}
+          <strong className="text-gray-800">Cómo verificamos:</strong> {fraseVerificacion({ tipo, modelo, fuente: fuentePrincipal })}{" "}
           <Link to="/politica-editorial/" className="text-red-600 underline">
             Política editorial y metodología
           </Link>

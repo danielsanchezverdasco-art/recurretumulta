@@ -53,18 +53,22 @@ export const HERRAMIENTAS_POR_AMBITO: Record<Ambito, { to: string; texto: string
   coches: [
     { to: "/calculadora-etiqueta-dgt/", texto: "Calculadora de etiqueta DGT" },
     { to: "/comparador-coches/", texto: "Comparador de coches" },
+    { to: "/guias/zbe-etiquetas/", texto: "ZBE y etiquetas DGT: qué puede circular" },
     { to: "/guias/zbe/", texto: "Guía de zonas de bajas emisiones (ZBE)" },
     { to: "/#analizador", texto: "Analizador de multas con IA (gratis)" },
   ],
   motos: [
     { to: "/comparador-motos/", texto: "Comparador de motos" },
     { to: "/calculadora-kw-a-cv/", texto: "Calculadora kW a CV" },
+    { to: "/guias/zbe-etiquetas/", texto: "ZBE y etiquetas DGT: qué puede circular" },
     { to: "/guias/zbe/", texto: "Guía de zonas de bajas emisiones (ZBE)" },
     { to: "/#analizador", texto: "Analizador de multas con IA (gratis)" },
   ],
   patinetes: [
     { to: "/comparador-patinetes/", texto: "Comparador de patinetes" },
     { to: "/guias/patinetes-electricos/", texto: "Normativa de patinetes eléctricos" },
+    { to: "/guias/seguro-vmp/", texto: "Seguro obligatorio del patinete" },
+    { to: "/guias/certificado-dgt/", texto: "Certificado DGT del patinete" },
     { to: "/#analizador", texto: "Analizador de multas con IA (gratis)" },
   ],
   multas: [

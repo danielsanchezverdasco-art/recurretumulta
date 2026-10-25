@@ -246,7 +246,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       "La batería de 8,3 kWh limita el recorrido eléctrico a 55 km; más allá, el motor de gasolina toma el relevo",
       "Los acabados interiores son correctos, pero no buscan el lujo ni los materiales de una berlina premium",
       "No dispone de carga rápida en corriente continua, así que las recargas en ruta serán lentas",
-      "Fuera de China, la familia Qin es prácticamente desconocida y eso pesará en su valor de reventa"
+      "Fuera de China, la familia Qin es prácticamente desconocida"
     ],
     largoMm: 4765,
     anchoMm: 1837,

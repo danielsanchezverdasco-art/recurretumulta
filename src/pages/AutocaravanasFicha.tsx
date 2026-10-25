@@ -235,7 +235,12 @@ function Ficha({ auto }: { auto: Autocaravana }) {
       ? [
           {
             q: `¿Qué etiqueta DGT lleva la ${nombre}?`,
-            a: `La ${nombre} tiene etiqueta DGT «${auto.etiquetaDgt}». Revisa las restricciones de tu ZBE local antes de entrar, porque cada ciudad aplica sus propias reglas por etiqueta.`,
+            a:
+              auto.etiquetaDgt === "Cero"
+                ? `La ${nombre} tiene etiqueta DGT «Cero» y puede circular por todas las ZBE sin restricciones, incluida la zona de especial protección de Distrito Centro.`
+                : auto.etiquetaDgt === "ECO"
+                  ? `La ${nombre} tiene etiqueta DGT «ECO»: puede circular por la ZBE de Madrid en condiciones normales, aunque en episodios de alta contaminación algunas ciudades restringen a los ECO.`
+                  : `La ${nombre} tiene etiqueta DGT «${auto.etiquetaDgt}»: puede circular por la ZBE de Madrid, pero para entrar en la zona de especial protección de Distrito Centro necesita aparcar en un parking autorizado o encajar en uno de los supuestos de la ordenanza.`,
           },
         ]
       : []),
@@ -706,6 +711,15 @@ function Ficha({ auto }: { auto: Autocaravana }) {
           </div>
         </section>
 
+        {auto.etiquetaDgt ? (
+          <p className="mt-4 text-sm text-gray-600">
+            ZBE y etiquetas:{" "}
+            <Link to="/guias/zbe-etiquetas/" className="font-semibold text-red-600 hover:underline">
+              Guía ZBE y etiquetas DGT →
+            </Link>
+          </p>
+        ) : null}
+
         {hermanas.length > 0 && (
           <section
             className="rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
@@ -770,6 +784,7 @@ function Ficha({ auto }: { auto: Autocaravana }) {
         editorial={{
           ambito: "general",
           tipo: "ficha",
+          modelo: nombre,
           publicado: fechas.publicado,
           actualizado: fechas.actualizado,
           fuentePrincipal: auto.fuenteUrl ? { nombre: auto.fuenteNombre || "Fuente de los datos", url: auto.fuenteUrl } : null,
