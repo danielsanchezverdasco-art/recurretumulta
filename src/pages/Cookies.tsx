@@ -32,7 +32,7 @@ export default function CookiesPage() {
             <h1 className="text-3xl font-black text-gray-900">{"Política de Cookies"}</h1>
             <button
               type="button"
-              onClick={() => { try { localStorage.removeItem("rtm-cookie-consent"); } catch (e) { /* sin localStorage */ } window.location.reload(); }}
+              onClick={() => { const w = window as unknown as { googlefc?: { callbackQueue: unknown[]; showRevocationMessage: () => void } }; w.googlefc = w.googlefc || ({ callbackQueue: [] } as never); w.googlefc!.callbackQueue.push(() => w.googlefc!.showRevocationMessage()); }}
               className="mt-3 rounded-lg border border-gray-300 px-3 py-1.5 text-sm font-semibold text-gray-800 hover:bg-gray-100"
             >
               Configurar cookies

@@ -50,18 +50,15 @@
       window.dataLayer = window.dataLayer || [];
       function gtag() { window.dataLayer.push(arguments); }
       window.gtag = gtag;
-      // 18/10/2026: Consent Mode v2. Todo denegado por defecto; GA solo se carga
-      // si el usuario ha aceptado en el aviso de cookies (rtm-cookie-consent).
+      // 18/10/2026: Consent Mode v2. Todo denegado por defecto.
+      // 25/10/2026: el consentimiento lo gestiona el CMP certificado de Google (Funding Choices),
+      // que envía el 'consent update'. Sin banner propio.
       gtag('consent', 'default', { ad_storage: 'denied', analytics_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied', wait_for_update: 500 });
-      var ok = false;
-      try { ok = localStorage.getItem('rtm-cookie-consent') === 'accepted'; } catch (e) { ok = false; }
-      if (ok) gtag('consent', 'update', { ad_storage: 'granted', analytics_storage: 'granted', ad_user_data: 'granted', ad_personalization: 'granted' });
       gtag('js', new Date());
       gtag('config', 'G-NQD5QTRJPH');
       var done = false;
       function load() {
         if (done) return;
-        try { if (localStorage.getItem('rtm-cookie-consent') !== 'accepted') return; } catch (e) { return; }
         done = true;
         var s = document.createElement('script');
         s.async = true;
@@ -253,6 +250,9 @@
          AdSense aún no está aprobado. Para reactivar: descomentar el script
          de abajo cuando Google apruebe el sitio.
     ════════════════════════════════════════════════════════ -->
+    <!-- 25/10/2026: CMP certificado de Google (Funding Choices) para pub-4234009516943468 -->
+    <script async src="https://fundingchoicesmessages.google.com/i/pub-4234009516943468?ers=1"></script>
+    <script>(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4234009516943468" crossorigin="anonymous"></script>
   <script src="/js/enlaces-301.js" defer></script></head>
   <body>
