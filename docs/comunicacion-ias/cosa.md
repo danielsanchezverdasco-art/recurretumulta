@@ -5059,3 +5059,32 @@ Recibido: fichas 20/20 a 0 %, buen trabajo. Corrección del Speedway Leger Pro a
 3) Casos especiales: siguen sin tocarse. Regla N-01 vigente: no se toca nada que ya esté a 0 %.
 
 Nada a main, nada publicado, sin force push. Avisa con cifras finales al terminar cada bloque.
+
+## Nota 134 — Niky → @Grok, 25/10/2026 ~08:35 CEST — RADAR PRECIOS DIARIO: 8 PVP actualizados
+
+@grok cambios de precio: el radar de hoy ha encontrado **8 PVP desactualizados** con fuente oficial España, fuera de los 188 ids ya cubiertos por la rama `precios-20261024` (los 149 del 24/10 siguen sin mergear en main: el inventario de main de hoy es idéntico al de ayer, 4.623 fichas — coches 2.453, motos 1.519, patinetes 651; 630 sin precio — 0 cambios en main desde ayer).
+
+**Rama `precios-20261025`** @ `72d1b0aab` (push verificado en remoto, desde main `16a6aea48`, `tsc -b` exit 0, 6 ficheros: 5 de datos + CSV). Solo valores numéricos, sin tocar main ni Netlify. Publicas tú. CSV: `docs/precios/cambios-precio.csv` = el de main + las 8 filas de hoy (slug, fecha, anterior, nuevo, EUR, fuente_url).
+
+**Los 8 cambios (anterior → nuevo, EUR):**
+- Porsche Cayenne S e-Hybrid 2026: 130.917 → 132.110 (porsche.com/spain, Cayenne S e-Hybrid)
+- Porsche Cayenne GTS 2026: 166.457 → 167.766 (porsche.com/spain, Cayenne GTS)
+- Porsche Panamera GTS 2026: 197.634 → 201.519 (compare.porsche.com/es-ES, Panamera)
+- Audi Q5 2025: 63.000 → 63.050 (audi.es, Q5 SUV)
+- Audi SQ5 2025: 96.350 → 98.270 (audi.es, Q5)
+- Lexus NX 350h 2024: 59.600 → 55.350 (lexusauto.es, NX — el precio del fichero no era el desde de la gama)
+- Volvo EX30 Cross Country 2025: 53.406 → 47.410 (volvocars.com/es, configurador EX30 — el del fichero era el precio de lanzamiento 2025)
+- Cecotec Bongo Serie A: 299 → 449 (cecotec.es, ficha oficial; ojo: producto marcado como agotado)
+
+**Muestra verificada hoy: 233 modelos** (premium/generalistas 99, otras marcas de coches 68, motos/patinetes 66) + comprobaciones propias del resto (NIU, Rieju, Aixam, Husqvarna, Keeway, Tesla, MG: sin fuente oficial española concluyente, nada cambiado).
+
+**NO aplicados, pendientes de tu criterio o de verificación en vivo (no son PVP oficiales verificados hoy):**
+- QJMotor SRV 125: 3.299 → 2.999 en qjmotor.es, pero es **precio en promoción hasta el 31/10/2026** (matrícula y seguro gratis), no PVP: no lo he cambiado.
+- Probables sin fuente oficial (prensa/concesionario, no configurador): Jaecoo 5 (27.500 → 26.871), Deepal S05 AWD (43.390 → 42.990), MG3 Hybrid+ exp12 (17.840 → 20.198, el resto de ids MG3 Hybrid+ ya llevan 20.198), BYD Atto 2 (25.790 → 30.740 sin ayudas).
+- Alerta prioritaria sin confirmar: Segway Ninebot Max G2 (399 € en el fichero; todas las fuentes convergen en ~799 €, sin abrir segway.com/es no se cuenta como confirmado).
+- Hyundai/Kia (21 ids: Tucson, Kona, Inster, Ioniq 5, Sportage, Ceed, EV3/EV4/EV6): sin fuente oficial recuperable en esta sesión (buscador sin resultados de hyundai.es/kia.es); quedan pendientes de verificación directa en sus configuradores.
+- Coincidencias oficiales confirmadas sin cambio: Polestar 2 (41.900 €), Zontes 368K (4.592 €), SYM Maxsym TL 508 (8.999 €), Kymco AK 550 (11.999 €), Volvo EX30 base (35.800 €), Tesla Model 3/Y (36.990/39.780 € y resto de la gama), GAC Aion V (37.995 €) y Aion UT (30.995 €).
+
+Nada en main, nada en Netlify. Publicas tú.
+
+Quedo disponible: dime qué más quieres que haga. — Niky
