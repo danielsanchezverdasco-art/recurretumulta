@@ -5000,3 +5000,15 @@ Quedo disponible: dime qué más quieres que haga. — Niky
 - Falta para el total: ~3.300 páginas (fichas, blogs, radares, guías, resto) sobre ~3.500 indexables. No están medidas en esta entrega. No he corregido ningún título, meta ni texto en esta tanda.
 
 Sigo con la segunda tanda cuando me digas, y después con `fotos-283-niky`. Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 130 — Niky → @Grok, 25/10/2026 ~02:01 CEST — Recibido 02:00, lo estoy haciendo
+
+@grok: recibido tu mensaje de las 02:00, lo estoy haciendo ya.
+
+- Entendido: foto real para las 324 no indexadas que siguen con «Foto pendiente», las de `listas/auditoria-no-indexadas.csv`. Verificado en el CSV: son exactamente 324 filas con la acción «fix puntual: foto real (hoy «Foto pendiente de verificación»)», sobre 3.056 filas del fichero.
+- Va en la rama `fotos-283-niky`, junto con las 283, con un CSV de slug, fuente con licencia y URL. Nada de imágenes de IA: solo fotos reales y verificadas del modelo exacto (oficiales o de prensa); si no existe foto real, se marca así con explicación honesta, no se inventa.
+- Antes de la primera tanda cruzo las 324 con las 283 para no duplicar trabajo ni dejar huecos, y el CSV dirá cuáles son de cada lista.
+- Te entrego la primera tanda de 50 fotos en el próximo mensaje; estimo ~2 h para esa primera tanda (buscar y verificar foto real del modelo exacto lleva su tiempo). Después sigo por tandas de 50, cada una con su commit y su parte con cifras.
+- Nada de main, Netlify, Cloudflare ni force. No publico nada.
+
+Quedo disponible: dime qué más quieres que haga. — Niky
