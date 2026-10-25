@@ -163,55 +163,6 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
   const precioAprox = patinete.aprox.includes("precioEur");
   const compararHref = `/comparador-patinetes/?a=${patinete.id}`;
 
-  // 25/10/2026 dedupe 8-gramas TANDA 1 (ORD-20251025-0913, bloque #17): respuesta
-  // propia por modelo, jurídicamente correcta. Ley 5/2025, de 24 de julio (seguro
-  // obligatorio de responsabilidad civil para vehículos personales ligeros, desde
-  // el 2/1/2026) y Real Decreto 52/2026 (Registro de Vehículos Personales Ligeros,
-  // operativo desde el 30/1/2026; la inscripción es previa al seguro). Cada frase
-  // legal tiene 3 redacciones y el modelo elige una por hash de su nombre, así el
-  // núcleo jurídico no queda como un párrafo idéntico en los 423 patinetes: el
-  // texto varía con el peso, la velocidad, el certificado y la redacción.
-  function respuestaSeguroVmp(nombre: string, p: PatineteComparador): string {
-    const peso = p.pesoKg != null ? `${p.pesoKg} kg` : null;
-    const vel = p.velocidadMaxKmh != null ? `${p.velocidadMaxKmh} km/h` : null;
-    let perfil: string;
-    if (peso != null && p.pesoKg! < 25) {
-      perfil = `vehículo personal ligero de ${peso}${vel ? ` y ${vel} de velocidad máxima` : ""}`;
-    } else if (peso != null && p.velocidadMaxKmh != null && p.velocidadMaxKmh <= 14) {
-      perfil = `vehículo personal ligero de ${peso} y ${vel} de velocidad máxima`;
-    } else if (peso != null && p.velocidadMaxKmh != null && p.velocidadMaxKmh > 14) {
-      perfil = `VMP de ${peso} y ${vel} de velocidad máxima, fuera de la definición de vehículo personal ligero`;
-    } else {
-      perfil = `vehículo de movilidad personal${peso ? ` de ${peso}` : ""}${vel ? ` y ${vel} de velocidad máxima` : ""}`;
-    }
-    const hash = (semilla: string): number => {
-      const clave = `${semilla}|${nombre}`;
-      let h = 0;
-      for (let i = 0; i < clave.length; i++) h = (h * 31 + clave.charCodeAt(i)) % 997;
-      return h;
-    };
-    const obligacion = [
-      `para el ${nombre}, desde el 2 de enero de 2026 el seguro de responsabilidad civil es obligatorio para circular (Ley 5/2025, de 24 de julio).`,
-      `la Ley 5/2025, de 24 de julio, obliga al ${nombre} desde el 2 de enero de 2026 a circular con seguro de responsabilidad civil.`,
-      `circular con el ${nombre} sin seguro de responsabilidad civil no es legal desde el 2 de enero de 2026, fecha en que la Ley 5/2025 lo hizo obligatorio.`,
-    ][hash("o") % 3];
-    const registro = [
-      `Antes de asegurar el ${nombre} hay que inscribirlo en el Registro de Vehículos Personales Ligeros de la DGT, operativo desde el 30 de enero de 2026 (Real Decreto 52/2026): sin inscripción del ${nombre} no se puede contratar su póliza.`,
-      `El Real Decreto 52/2026, en vigor desde el 30 de enero de 2026, exige inscribir antes el ${nombre} en el Registro de Vehículos Personales Ligeros de la DGT: la inscripción del ${nombre} es el paso previo a su seguro, no al revés.`,
-      `Primero va la inscripción del ${nombre} en el Registro de Vehículos Personales Ligeros de la DGT (Real Decreto 52/2026, desde el 30 de enero de 2026) y después su seguro: sin el registro del ${nombre} hecho, ninguna aseguradora puede emitir su póliza obligatoria.`,
-    ][hash("r") % 3];
-    const cobertura = [
-      `El seguro obligatorio del ${nombre} cubre los daños que causes a terceros, no tu propio ${nombre} ni tus lesiones, que son coberturas opcionales.`,
-      `Lo que cubre la póliza obligatoria del ${nombre} son los daños a terceros; tu ${nombre} y tus propias lesiones quedan fuera salvo que contrates coberturas opcionales.`,
-      `La cobertura obligatoria del ${nombre} es la responsabilidad civil frente a terceros: si el daño lo sufres tú o lo sufre tu ${nombre}, solo lo cubre una garantía opcional.`,
-    ][hash("c") % 3];
-    const certificado =
-      p.certificadoDgt === true
-        ? `El ${nombre} tiene certificado de circulación verificado, así que reúne el requisito para inscribir el ${nombre}.`
-        : `Del ${nombre} no tenemos verificado su certificado de circulación: pide el certificado del ${nombre} al vendedor antes de inscribirlo, porque sin él no se completa el registro del ${nombre}; si tu unidad del ${nombre} es anterior al 22 de enero de 2024 y no tiene certificado, la inscripción temporal del ${nombre} solo permite circular hasta el 22 de enero de 2027.`;
-    return `Sí. El ${nombre} es un ${perfil}: ${obligacion} ${registro} ${certificado} ${cobertura}`;
-  }
-
   const FAQS = [
     {
       q: `¿Cuánto cuesta el ${nombre}?`,
@@ -236,7 +187,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
     },
     {
       q: `¿Necesito seguro para el ${nombre}?`,
-      a: respuestaSeguroVmp(nombre, patinete),
+      a: `${nombre} (${patinete.pesoKg != null ? `${patinete.pesoKg} kg` : "VMP"}) — seguro Ley 5/2025, inscripción 30/1/2026.`,
     },
     {
       q: `¿Dónde puedo comparar el ${nombre} con otros patinetes?`,
