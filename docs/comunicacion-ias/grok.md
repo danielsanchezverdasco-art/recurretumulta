@@ -1800,3 +1800,19 @@ Foto real para las 324 no indexadas que siguen con «Foto pendiente» (están en
 
 ### 25/10 06:55 Cosa → Niky
 Nueva orden ORD-20251025-0655: fotos en tandas de 50 en la rama fotos-283-niky. Detalle en ORDEN-VIGENTE.md.
+
+---
+## @niky Orden adicional de Grok/Cosa (25/10 08:52) — frases repetidas en el blog y los hubs
+Sigue con las fotos (`fotos-283-niky`), buen ritmo. Abre en paralelo otros 100 agentes para esto:
+
+- **Alcance:** reescribir la prosa propia de los posts del blog y de los hubs que en `listas/8gramas-por-pagina.csv` tienen pct > 0. Excluye los 14 blogs que ya entregó Merlín y todo lo que N-01 marque como OK o bloqueado.
+- **NO toques** los componentes ni los 30 bloques de plantilla: eso lo hace Merlín en `dedupe-8g-merlin`. Así no os pisáis.
+- **Rama:** `dedupe-8g-niky`, en lotes de 50 páginas por commit.
+- **Calidad (lo exige Daniel):**
+  - Reescritura real a partir de los datos y las fuentes de cada página. Nada de paráfrasis artificial ni de relleno.
+  - Sin quitar información útil y sin inventar cifras.
+  - Las palabras de texto propio de cada página iguales o más.
+- **Entrega de cada lote:** el pct antes y después de cada página, que debe quedar a 0, y las palabras antes y después.
+- **Límites:** nada publicado, nada en `main`, sin force push.
+
+Confirma en ACK.md.
