@@ -455,7 +455,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Pese a ser el más liviano de la familia, sus 22 kg todavía pesan demasiado para subir escaleras todos los días",
     ],
     veredicto:
-      "El E-Cross One es el eCross sensato: la misma base de 600 W que el Pro 2 pero más ligero y barato. Si no necesitas las cuatro suspensiones del Pro 2, este ahorra peso y dinero sin renunciar a la batería de 48 V.",
+      "El E-Cross One combina 600 W nominales (800 W de pico), 22 kg, 549,99 € y batería de 499 Wh (48 V), con 50 km declarados (33 km reales). Sin suspensión destacada ni intermitentes y sin certificación DGT verificada.",
     fuenteNombre: "UrbanGlide",
     fuenteUrl: "https://www.urbanglide.com",
     mantenimientoDIY: {
@@ -1576,7 +1576,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     pros: [
       "Dos motores de 500 W que suman 2.100 W de pico reparten la tracción 2x2, con agarre útil en superficies difíciles y pendientes",
       "El acumulador de 874 Wh, de 48 V y 18,2 Ah, anuncia 85 km, una distancia que permite rutas largas sin ansiedad por la carga",
-      "Está certificado oficialmente, lo que lo convierte en una opción de tracción total plenamente legal dentro de la oferta de Cecotec",
+      "Está certificado oficialmente (DGT: sí) y reparte la tracción 2x2 con dos motores de 500 W",
       "Las cubiertas todoterreno de 10 pulgadas sin cámara interior sirven tanto para pistas como para asfalto urbano",
       "La frenada reúne discos en ambas ruedas con asistencia electrónica, un conjunto completo para detenerlo con seguridad",
       "Con un precio de 999 €, resulta el modelo de doble motor certificado más económico que se vende en España",
@@ -1590,7 +1590,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "El coste final crece al sumar accesorios y un cargador adicional, algo a presupuestar desde el principio",
     ],
     veredicto:
-      "El Doble Y85 2x2 XXL es la apuesta total de Cecotec: doble motor, 85 km declarados y certificado DGT por 999 €. El 2x2 legal más asequible del mercado español; solo apto para quien asuma sus 35 kg.",
+      "El Doble Y85 2x2 XXL monta dos motores de 500 W (2.100 W de pico), batería de 874 Wh, 85 km declarados (58 km reales) y certificado DGT, por 999 €. Pesa 35 kg y tarda 5,5 horas en cargar.",
     fuenteNombre: "Cecotec",
     fuenteUrl: "https://www.cecotec.es",
     mantenimientoDIY: {
@@ -1705,7 +1705,6 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "La potencia máxima de 2.200 W sobra para afrontar pendientes pronunciadas y arranques con carga sin sensación de esfuerzo",
       "Las ruedas de 10,5 pulgadas se combinan con suspensión en los dos ejes, lo que amortigua irregularidades y mejora el confort en firmes rotos",
       "Tres sistemas de frenado trabajan juntos para detener el conjunto con seguridad incluso a ritmos altos",
-      "En conjunto, se perfila como la opción más ambiciosa de la casa para quienes priorizan distancia y empuje por encima de todo",
     ],
     contras: [
       "1.299 € en la tienda oficial de Cecotec (agotado): precio alto",
@@ -1716,7 +1715,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Solo para entusiastas: sobredimensionado para ciudad",
     ],
     veredicto:
-      "El Doble Z85 es el Bongo más bestia: 1.200 Wh y 85 km declarados. La joya de la corona de Cecotec para quien quiere el máximo; el resto de mortales vivirá igual de feliz con un Y85.",
+      "El Doble Z85 es el Bongo más bestia: 1.200 Wh y 85 km declarados.",
     fuenteNombre: "Cecotec",
     fuenteUrl: "https://www.cecotec.es",
     mantenimientoDIY: {
@@ -1840,10 +1839,9 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Su presencia en el registro oficial de vehículos de movilidad personal no aparece confirmada, por lo que conviene revisar la situación normativa antes de circular",
       "La potencia nominal de 500 W cumple en terreno urbano, aunque no brinda sensaciones deportivas ni reservas para pendientes exigentes",
       "Como modelo nuevo apenas se anuncia, la oferta visible corresponde mayoritariamente a unidades reacondicionadas, lo que limita la compra en estreno",
-      "La familia a la que pertenece acumula ya cierto recorrido, y las líneas D y M ofrecen planteamientos más recientes para quien busque lo último",
     ],
     veredicto:
-      "El X65 Connected es el rutero clásico de Cecotec: 65 km declarados y triple freno. Un valor seguro de segunda mano o reacondicionado; nuevo, las series D y M ofrecen lo mismo con certificación más clara.",
+      "El X65 Connected es el rutero clásico de Cecotec: 65 km declarados y triple freno. Un valor seguro de segunda mano o reacondicionado.",
     fuenteNombre: "MediaMarkt",
     fuenteUrl: "https://www.mediamarkt.es/es/product/_patinete-electrico-bongo-serie-x65-connected-cecotec-1000-w-black-128205637.html",
     mantenimientoDIY: {
@@ -2139,7 +2137,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     aprox: ["potenciaPicoW", "autonomiaRealKm"],
     pros: [
       "Con 15,9 kg y una batería de 748 Wh, combina ligereza con una reserva de energía impropia de su tamaño",
-      "Los picos de 1.360 W le dan un empuje propio de modelos mucho más grandes, con aceleraciones que sorprenden",
+      "Los picos de 1.360 W son 2,72 veces los 500 W nominales.",
       "Su velocidad máxima llega a 45 km/h, una cifra que lo aparta del uso urbano tranquilo y lo acerca a otro segmento",
       "El alcance anunciado es de 48 km, suficiente para varios días de desplazamientos sin pasar por el enchufe",
       "El límite de carga alcanza 120,2 kg, una capacidad generosa que amplía el perfil de usuarios que pueden usarlo",
@@ -2154,7 +2152,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "El precio no está publicado en España",
     ],
     veredicto:
-      "El Mini 4 Pro es un mito del sector: pesa 15,9 kg, lleva 748 Wh y alcanza 45 km/h. Demostró que lo ligero y lo potente no están reñidos, aunque su punta lo deja fuera de la ley VMP; como máquina, es una joya.",
+      "Pesa 15,9 kg, lleva 748 Wh y alcanza 45 km/h, con picos de 1.360 W frente a 500 W nominales; esos 45 km/h lo dejan fuera de la normativa VMP española y no tiene certificación DGT.",
     fuenteNombre: "Minimotors",
     fuenteUrl: "https://www.minimotors.es",
     mantenimientoDIY: {
