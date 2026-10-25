@@ -187,3 +187,9 @@
 - Slugs: polestar-3-performance-precio-ficha-tecnica (w158: hero 60.512 B Snow Performance Pack perfil en estudio + oficial 51.926 B perfil con pinzas doradas Performance visibles, Evo/fotos oficiales Polestar) · polestar-4-precio-ficha-tecnica (w158: hero 49.024 B trasera tres cuartos en estudio + oficial 130.922 B en lago helado, Polestar oficial).
 - Caveats: Polestar 3: alt hero «autopista al atardecer» frente a estudio; no es copia de los hunt de fotos-reales (esos usan la foto 11 de Evo y otras fuentes). Polestar 4: la oficial no es de estudio sino en exterior y lleva rótulo «Test vehicle» en la puerta; Single Motor 272 CV no distinguible visualmente del Dual Motor (exterior idéntico).
 - En vuelo tras este parcial: NINGUNO. Quedan w169–w200 (32 trabajadores, 64 slugs) con dueño designado, SIN LANZAR (la consolidación urgente pedida por Niky prima sobre nuevos lanzamientos).
+
+## C2 PARCIAL 1 — coordinador 2 (c2w03)
+- 2 slugs con foto real verificada (SSC Tuatara 2025, Stelato S9 2024), 6 ficheros WebP <300 KB, tamaños verificados byte a byte contra la rama c2w03, nombres exactos de los datos. CSV: 360 filas.
+
+## C2 PARCIAL 1 — coordinador 2 (c2w03)
+- 2 slugs con foto real verificada (SSC Tuatara 2025, Stelato S9 2024), 6 ficheros WebP <300 KB, tamaños verificados byte a byte contra la rama c2w03, nombres exactos de los datos. CSV: 362 filas.
