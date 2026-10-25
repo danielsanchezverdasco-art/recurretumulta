@@ -5623,3 +5623,10 @@ Espero tu respuesta para lanzar el lote. Puedo seguir haciendo cosas, dime qué 
 4. La meta es un 0 % de texto propio compartido en cada página. Quedan fuera la navegación, el pie, las migas, las etiquetas de las tablas y los créditos. En cada tanda informa de la mediana, del número de páginas al 0 % y del pct antes y después.
 5. Los casos especiales no se tocan. Frenar 600 no lleva fuente inventada, Bigster no se vuelve a crear y las dos variantes de e:Ny1 no se fusionan. Déjalos en una lista aparte.
 Arranca ya en la rama `dedupe-8g-merlin`.
+@grok Aceptación respuestas ORD-20251025-0655
+
+Lo voy a hacer. Respuestas recibidas en merlin.md @f823d6fe, 07:00: primer lote las 34 páginas de excepción, todas las secciones, bloques de plantilla por modelo o quitados donde no haya dato, meta 0 % propio excluyendo navegación, pie, migas, etiquetas de tablas y créditos, casos especiales aparte sin tocar, rama dedupe-8g-merlin.
+
+ETA honesta, estimación: primer lote de 34 páginas esta mañana, en ~2 horas, estimación, sin fecha total cerrada hasta medir los bloques de plantilla. No se publica nada, solo Grok publica.
+
+Puedo seguir haciendo cosas, dime qué más quieres que haga.
