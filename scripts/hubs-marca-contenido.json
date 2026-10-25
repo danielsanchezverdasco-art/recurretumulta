@@ -1366,5 +1366,85 @@
     "intro": "LEVC reúne 4 fichas en las que conviven dos mundos: el del taxi y el del vehículo familiar o de carga ligera, y esa mezcla es precisamente lo que hace interesante recorrerlas en orden. El TX 2025 y el TX Shuttle 2024 comparten apellido y planteamiento, pero no son la misma ficha: el primero se lee como el modelo de referencia y el segundo como su adaptación a un uso de lanzadera, y distinguirlos evita comparar datos que no corresponden. El VN5 2024 se aparta de esa línea y se entiende mejor como la propuesta de furgoneta ligera del grupo, con su propio espacio dentro del catálogo. El L380 2025 cierra el conjunto por el lado más nuevo y más orientado al pasajero, y sirve para comprobar cómo amplía la marca su registro más allá del taxi. Abrir TX, TX Shuttle, VN5 y L380 en ese orden evita mezclar taxi, lanzadera, carga y familia. Distinguir taxi, lanzadera, carga y familia es el criterio que ordena las cuatro fichas de LEVC.",
     "n": 4,
     "url": "/coches/marca/levc/"
+  },
+  "coches/luxeed": {
+    "nombre": "Luxeed",
+    "title": "Luxeed coches: 5 fichas técnicas para comparar",
+    "description": "5 fichas técnicas de coches Luxeed: R7 2024, R7 2025, R7 2026, S7 y V9, con datos y versiones para elegir.",
+    "intro": "Luxeed presenta un catálogo breve en el que el R7 domina con claridad, y estas 5 fichas sirven precisamente para no confundir sus tres años entre sí. El R7 2024 abre la serie como la ficha más veterana del grupo, la que conviene abrir antes para establecer la referencia del modelo. El R7 2025 continúa esa línea un año después, y compararlo con el anterior muestra qué cambia y qué permanece cuando el nombre se repite. El R7 2026, que también figura con el apellido Huawei en su ficha, añade una tercera lectura del mismo modelo, y tener las tres juntas evita mezclar datos de años distintos. Fuera del R7 quedan dos fichas con identidad propia: el S7 2026 y el V9 2026, que amplían el catálogo hacia otros formatos y que conviene leer como modelos independientes, no como variantes del R7. Con las cinco fichas delante, la comparación útil es doble: R7 contra R7 a lo largo de tres años, y el conjunto R7 contra S7 y V9. Seguir el R7 a lo largo de tres años y luego mirar S7 y V9 completa el retrato de Luxeed.",
+    "n": 5,
+    "url": "/coches/marca/luxeed/"
+  },
+  "coches/morgan": {
+    "nombre": "Morgan",
+    "title": "Morgan coches: 4 fichas técnicas para comparar",
+    "description": "4 fichas técnicas de coches Morgan: Plus Four, Plus Six, Super 3 y Supersport, con datos y versiones.",
+    "intro": "Morgan ofrece 4 fichas que se entienden mejor por parejas, porque los nombres marcan dos mundos dentro de la misma marca. El Plus Four 2025 y el Plus Six 2025 forman la primera pareja: dos modelos con apellido Plus que comparten planteamiento clásico pero que no deben leerse como el mismo coche, ya que cada ficha tiene sus propias versiones y datos. La segunda pareja la abren el Super 3 2025 y el Supersport 2025, nombres que suenan parecidos y que, sin embargo, corresponden a fichas distintas, una más radical en su concepto y otra como la novedad deportiva del grupo. Leer primero los Plus y después los Super permite captar el contraste entre la tradición más serena y la vertiente más extrema de la marca, sin que los nombres parecidos induzcan a error. Leer los Plus antes que los Super permite apreciar el contraste sin confundir los nombres. Empezar por los Plus y seguir por los Super permite captar el contraste de Morgan sin errores.",
+    "n": 4,
+    "url": "/coches/marca/morgan/"
+  },
+  "coches/neta": {
+    "nombre": "Neta",
+    "title": "Neta coches: 7 fichas técnicas para comparar",
+    "description": "7 fichas técnicas de coches Neta: Aya, GT, L, L EREV, S, S Shooting Brake y X, con datos y versiones.",
+    "intro": "La gama Neta recogida aquí suma 7 fichas y exige un poco de orden, porque varios modelos comparten letra inicial y otros comparten nombre base con un matiz añadido. El Aya 2025 funciona como la ficha más urbana y sencilla del conjunto, la que conviene abrir cuando se busca el modelo de acceso. El GT 2024 y el X 2024 aportan otros dos perfiles independientes, cada uno con ficha y año propios, y no deben mezclarse con la familia S. Esa familia S concentra tres fichas: el S 2024, el S Shooting Brake 2024 y, en otro registro, el L 2024 junto a su variante L EREV 2024, donde el apellido EREV marca la diferencia que hay que leer con atención. Con las siete fichas ordenadas por nombre — Aya, GT, X, S, S Shooting Brake, L y L EREV — la comparación deja de depender de la memoria y pasa a apoyarse en datos: precio, versiones y ficha técnica con fuente en cada caso. Ordenar los siete nombres de Neta por familia deja claro qué ficha abrir según el formato buscado.",
+    "n": 7,
+    "url": "/coches/marca/neta/"
+  },
+  "coches/onvo": {
+    "nombre": "Onvo",
+    "title": "Onvo coches: 4 fichas técnicas para comparar",
+    "description": "4 fichas técnicas de coches Onvo: L60, L80 y L90, con datos y versiones para elegir.",
+    "intro": "Onvo se resume en tres nombres y 4 fichas, y la repetición del L90 es el detalle que más conviene aclarar antes de comparar nada. El L60 2026 abre el grupo como el modelo de acceso entre los recogidos, la ficha que marca el punto de partida de la gama. El L80 2026 ocupa el siguiente escalón, con ficha y año propios, y no debe confundirse con el L60 aunque ambos compartan año. El L90, en cambio, aparece dos veces: una ficha de 2025 y otra de 2026, y esa duplicidad es precisamente lo que hace valiosas ambas lecturas, porque permiten seguir la evolución del modelo mayor de un año al siguiente. Quien compare las cuatro fichas en orden — L60, L80, L90 2025 y L90 2026 — obtiene una imagen completa y sin saltos de la gama Onvo tal como está publicada. Leer L60, L80 y las dos fichas del L90 en orden da la imagen completa de Onvo tal como está publicada.",
+    "n": 4,
+    "url": "/coches/marca/onvo/"
+  },
+  "coches/radical": {
+    "nombre": "Radical",
+    "title": "Radical coches: 5 fichas técnicas para comparar",
+    "description": "5 fichas técnicas de coches Radical: SR1 XXR, SR3 XXR y SR10 XXR, con datos y versiones para elegir.",
+    "intro": "Radical presenta un catálogo de 5 fichas articulado alrededor de una sola familia, la SR, y la numeración es la pista que ordena la comparación. El SR1 XXR 2025 funciona como la puerta de entrada: la ficha más asequible en planteamiento y la que mejor resume la idea de deportivo de circuito llevado a la carretera. El SR3 XXR 2025 ocupa el tramo intermedio, con una ficha propia que no debe leerse como una simple evolución del SR1, porque sus versiones y datos son independientes. El SR10 XXR 2025 cierra la serie por arriba, como la lectura más extrema de la misma receta, y es la ficha que conviene abrir en último lugar para apreciar el salto completo. Entre las fichas verificadas aquí figuran estos tres modelos SR, que bastan para entender la lógica de la gama: mismo apellido, tres niveles y un mismo destino de uso. Comparar SR1, SR3 y SR10 en orden ascendente muestra el salto completo dentro de la familia SR.",
+    "n": 5,
+    "url": "/coches/marca/radical/"
+  },
+  "coches/riddara": {
+    "nombre": "Riddara",
+    "title": "Riddara coches: 2 fichas técnicas para comparar",
+    "description": "2 fichas técnicas de coches Riddara: RD6 y RD6 EM-P, con datos y versiones para elegir.",
+    "intro": "Riddara se presenta con 2 fichas y un único modelo, el RD6, así que toda la comparación se juega en un solo matiz: la variante. El RD6 2025 es la ficha base, la que define el modelo tal como se publica, con su precio, sus versiones y su ficha técnica completa. El RD6 EM-P 2025 comparte nombre y año, pero su apellido añadido señala una variante distinta que merece su propia lectura, porque no todos los datos coinciden entre ambas fichas. Cuando solo hay dos fichas, la tentación es quedarse con la primera y dar por buena la segunda, y aquí conviene resistirla: abrir las dos en paralelo es el único modo de percibir qué aporta la EM-P frente a la ficha base. Ambas recogen sus datos con fuente, de modo que la comparación es limpia y sin zonas grises. Poner la ficha base junto a la EM-P muestra el único matiz que separa a las dos fichas de Riddara.",
+    "n": 2,
+    "url": "/coches/marca/riddara/"
+  },
+  "coches/rising": {
+    "nombre": "Rising Auto",
+    "title": "Rising Auto coches: 3 fichas técnicas para comparar",
+    "description": "3 fichas técnicas de coches Rising Auto: F7, R7 y RC7, con datos y versiones para elegir.",
+    "intro": "Rising Auto reúne 3 fichas con nombres que se prestan a confusión si se leen deprisa, y por eso conviene fijarse en las letras antes que en los números. El F7 2025 y el R7 2025 comparten año y terminación, pero son modelos distintos: el primero se lee como una berlina y el segundo como la propuesta de otro formato, y sus fichas no intercambian datos. El RC7 2025, con su C intermedia, es la tercera ficha y la que más fácilmente se confunde con el R7, así que merece una lectura separada para no atribuirle cifras que no son suyas. Las tres fichas son de 2025, de modo que el año no ayuda a distinguirlas y toda la diferencia vive en el nombre y en lo que contiene cada ficha. Con las tres delante — F7, R7 y RC7 — la comparación se vuelve sencilla: tres modelos del mismo año, tres planteamientos y tres conjuntos de versiones. Fijarse en las letras F, R y RC antes que en los números evita confundir los tres modelos de Rising Auto.",
+    "n": 3,
+    "url": "/coches/marca/rising/"
+  },
+  "coches/sehol": {
+    "nombre": "Sehol",
+    "title": "Sehol coches: 3 fichas técnicas para comparar",
+    "description": "3 fichas técnicas de coches Sehol: X8, X6 y E10X, con datos y versiones para elegir.",
+    "intro": "Sehol ofrece 3 fichas repartidas en tres años distintos, y ese reparto temporal es la primera pista para ordenar la gama. El X8 2022 es la ficha más antigua del grupo, la que marca el punto de partida y la que conviene leer con la perspectiva de su año, sin exigirle lo mismo que a las fichas posteriores. El X6 2024 representa el paso siguiente, con su propia ficha y su propio planteamiento, y sirve para comprobar cómo se mueve la marca dos años después. El E10X 2025 remata el conjunto como la ficha de año más reciente y la de formato más urbano, un contraste claro frente a los dos X anteriores. Leer las tres fichas en orden cronológico — X8, X6 y E10X — permite seguir la trayectoria de Sehol sin mezclar épocas ni formatos. El orden cronológico X8, X6 y E10X es el que mejor cuenta la trayectoria de Sehol. Leer X8, X6 y E10X en orden cronológico cuenta la trayectoria de Sehol sin mezclar épocas.",
+    "n": 3,
+    "url": "/coches/marca/sehol/"
+  },
+  "coches/seres": {
+    "nombre": "Seres",
+    "title": "Seres coches: 2 fichas técnicas para comparar",
+    "description": "2 fichas técnicas de coches Seres: Seres 5 y M7, con datos y versiones para elegir.",
+    "intro": "Seres aparece con 2 fichas que no comparten nombre ni planteamiento, así que la comparación aquí es directa y sin matices de variante que compliquen la lectura. El Seres 5 es la ficha que lleva el nombre de la marca en su propio título, y funciona como la referencia principal del dúo, la que primero conviene abrir para fijar el tono de la gama. El M7 2025, en cambio, tiene nombre propio y año propio, y se entiende mejor como la segunda pata del catálogo: otro formato, otra ficha y otro conjunto de versiones. Con solo dos fichas, el ejercicio útil es ponerlas una junto a otra y preguntarse qué uso cubre cada una, en lugar de buscar diferencias sutiles dentro de un mismo modelo. Ambas fichas recogen precio, versiones y datos técnicos con fuente, así que la decisión entre el Seres 5 y el M7 se toma con la información completa delante y sin necesidad de recurrir a catálogos externos. Poner el Seres 5 junto al M7 basta para decidir, porque no hay más fichas que consultar.",
+    "n": 2,
+    "url": "/coches/marca/seres/"
+  },
+  "coches/yangwang": {
+    "nombre": "Yangwang",
+    "title": "Yangwang coches: 8 fichas técnicas para comparar",
+    "description": "8 fichas técnicas de coches Yangwang: U7, U8, U8L, U9 y U9 Xtreme, con datos y versiones para elegir.",
+    "intro": "Yangwang despliega 8 fichas en torno a tres letras — U7, U8 y U9 — y la forma de no perderse es tratar cada letra como una familia con sus propias variantes. La familia U7 aporta dos fichas: el U7 2025 y el U7 PHEV 2026, donde el apellido PHEV señala la variante que conviene leer por separado porque su planteamiento no es idéntico al del U7 base. La familia U8 es la más amplia de las verificadas: el U8 2024 como referencia inicial, el U8 2027 como lectura posterior y el U8L 2025 como variante de mayor tamaño, tres fichas que no deben mezclarse aunque compartan letra. La familia U9 cierra el grupo con el U9 2024 y el U9 Xtreme 2025, dos fichas en las que el apellido Xtreme marca el salto hacia la versión más radical. Con las fichas verificadas ordenadas por familia — U7, U8 y U9 — la gama se vuelve legible: tres líneas, varias variantes y un mismo nivel de exclusividad. Agrupar las fichas por U7, U8 y U9 hace legible una gama que por nombres sueltos parecería dispersa.",
+    "n": 8,
+    "url": "/coches/marca/yangwang/"
   }
 }
