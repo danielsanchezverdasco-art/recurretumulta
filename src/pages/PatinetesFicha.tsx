@@ -198,7 +198,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
       a:
         patinete.precioEur == null
           ? `El ${nombre} no tiene precio oficial publicado para España en este momento: aparece como «No publicado» en la ficha. Lo actualizaremos en cuanto la marca lo anuncie.`
-          : `${geo.faqPrecio ?? `El precio oficial del ${nombre} en España es de ${fmtPrecio(patinete.precioEur)}.`} Ten en cuenta que las tiendas pueden aplicar ofertas puntuales por debajo de ese precio.`,
+          : `${geo.faqPrecio ?? `El precio oficial del ${nombre} en España es de ${fmtPrecio(patinete.precioEur)}.`}`,
     },
     {
       q: `¿Cuál es la autonomía real del ${nombre}?`,
