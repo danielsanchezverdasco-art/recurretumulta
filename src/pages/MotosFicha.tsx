@@ -828,6 +828,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
         editorial={{
           ambito: "motos",
           tipo: "ficha",
+          modelo: nombre,
           publicado: fechas.publicado,
           actualizado: fechas.actualizado,
           fuentePrincipal: moto.fuenteUrl ? { nombre: moto.fuenteNombre || "Fuente de los datos", url: moto.fuenteUrl } : null,
