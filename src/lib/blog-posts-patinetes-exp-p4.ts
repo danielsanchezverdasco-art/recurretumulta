@@ -2132,9 +2132,8 @@ El Thunder es más bestia; el Luxury Plus es más rutero y alto. Para commuting 
   },
   {
     slug: "minimotors-dualtron-eagle-pro",
-    title: "Dualtron Eagle Pro: 3.600 W en 30 kg",
-    excerpt:
-      "El Dualtron Eagle Pro es la deportiva ligera de Minimotors: 3.600 W de pico, 1.470 Wh y solo 30 kg. Precio y ficha técnica.",
+    Dualtron Eagle Pro: fuerza Dualtron en solo 30 kgDualtron Eagle Pro: 3.600 W en 30 kg",
+    El Dualtron Eagle Pro concentra 3.600 W de pico y 1.470 Wh en unos 30 kg: la deportiva manejable de Minimotors, con precio y ficha.El Dualtron Eagle Pro es la deportiva ligera de Minimotors: 3.600 W de pico, 1.470 Wh y solo 30 kg. Precio y ficha técnica.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -2155,7 +2154,9 @@ El Thunder es más bestia; el Luxury Plus es más rutero y alto. Para commuting 
 
 El **Dualtron Eagle Pro** es el Dualtron ágil: **doble motor de 1.100 W** (3.600 W de pico), batería **Samsung de 60 V y 24,5 Ah (1.470 Wh)** y **~30 kg** de peso (<a href=https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf>catálogo oficial Minimotors 2025</a>). Potencia de Thunder en formato manejable.
 
-## Ficha técnica resumida
+Dentro de Dualtron, este modelo ocupa el hueco del patinete nervioso y manejable: empuje de sobra sin llegar al peso de las bestias de la gama.
+
+## Datos clave
 
 | Dato | Valor |
 |---|---|
@@ -2171,25 +2172,25 @@ El **Dualtron Eagle Pro** es el Dualtron ágil: **doble motor de 1.100 W** (3.60
 
 ¿Quieres el detalle completo? <a href=/patinetes/minimotors-dualtron-eagle-pro/>Ficha técnica completa del Dualtron Eagle Pro</a> con todos los datos verificados.
 
-## Precio del Dualtron Eagle Pro en España
+## Cuánto cuesta en España
 
-Unos **2.100 €** al cambio (2.290 $). Gama alta Dualtron con mantenimiento acorde.
+Al cambio ronda los 2.100 €, equivalentes a 2.290 $. Entra, por tanto, en la gama alta de Dualtron, y su mantenimiento va en consonancia con ese posicionamiento.
 
 <img src=/media/patinetes/minimotors-dualtron-eagle-pro-2.webp alt=Detalle del doble motor del Dualtron Eagle Pro>
 
-## Autonomía real vs declarada
+## Hasta dónde llega de verdad
 
-El catálogo declara **45-90 km** según batería (14 Ah o 24,5 Ah); las pruebas independientes midieron **33 millas (~53 km)**. En uso deportivo, calcula **unos 43 km**.
+El catálogo recoge una horquilla de 45 a 90 km, según se monte la batería de 14 Ah o la de 24,5 Ah. Las mediciones independientes, en cambio, registraron 33 millas, alrededor de 53 km, y si se conduce con brío conviene prever unos 43 km.
 
-## Frenos y neumáticos
+## Frenada y ruedas
 
-**Disco + ABS/EBS** y **10x2,5 con cámara**, con **suspensión de goma** delante y detrás: el tacto Dualtron clásico, sin mantenimiento de la suspensión.
+Frena con discos en combinación con ABS y EBS, y rueda sobre neumáticos de 10x2,5 pulgadas con cámara. Delante y detrás, la suspensión es de goma, la solución tradicional de Dualtron, que evita revisiones propias de otros sistemas.
 
-## Certificado DGT y normativa VMP
+## Qué dice la norma española
 
-Sin certificado DGT verificado. Sus **~70 km/h** lo dejan fuera del VMP: **imprescindible limitarlo a 25 km/h** para España, y prohibido en **aceras**.
+La verificación DGT no consta en la ficha de este modelo. Con un tope próximo a los 70 km/h, queda fuera de la categoría VMP, así que en España hay que limitarlo a 25 km/h; circular por aceras está prohibido en todo caso.
 
-## Puntos fuertes y débiles
+## Lo bueno y lo menos bueno
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -2201,25 +2202,25 @@ Sin certificado DGT verificado. Sus **~70 km/h** lo dejan fuera del VMP: **impre
 
 <img src=/media/patinetes/minimotors-dualtron-eagle-pro-3.webp alt=Dualtron Eagle Pro acelerando en una recta>
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuánto cuesta el Dualtron Eagle Pro?
-Unos **2.100 €** al cambio.
+### ¿Qué precio tiene en euros?
+Unos 2.100 € si se convierte el precio en dólares, 2.290 $.
 
-### ¿Qué potencia tiene?
-**Doble 1.100 W** con 3.600 W de pico.
+### ¿Qué empuje entrega?
+Dos motores de 1.100 W cada uno, con un pico conjunto de 3.600 W.
 
-### ¿Qué autonomía real tiene?
-Unos **43-53 km** según uso.
+### ¿Cuántos kilómetros reales da?
+Entre 43 y 53 km, dependiendo de cómo se conduzca.
 
-### ¿Es legal en España?
-Solo **limitado a 25 km/h**.
+### ¿Se puede usar legalmente en España?
+Solo si se limita a 25 km/h.
 
-### ¿Pesa mucho?
-**~30 kg**: ligero para su potencia, pesado como urbano.
+### ¿Resulta pesado de mover?
+Pesa alrededor de 30 kg: poco para la potencia que ofrece, mucho si se busca un urbano para subir a diario.
 
-### ¿Merece la pena frente al Thunder 2?
-Es más ágil y ligero; el Thunder es más estable a alta velocidad. Para diversión sin 48 kg, el Eagle.
+### ¿Eagle Pro o Thunder 2 para divertirse?
+El Eagle es más ágil y ligero, mientras el Thunder 2 se muestra más estable cuando la velocidad sube; para diversión sin cargar con 48 kg, el Eagle sale ganando.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
