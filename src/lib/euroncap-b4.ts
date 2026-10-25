@@ -1,0 +1,61 @@
+// EURONCAP B4 — tests verificados en la oleada de unicidad (bloque 4, 21/10/2026).
+// Fuente: euroncap.com (tests oficiales). Sin test -> sin entrada (la ficha muestra "sin datos").
+import type { SeguridadEuroNCAP } from "./seguridad-euroncap.ts";
+
+export const EURONCAP_B4: Record<string, SeguridadEuroNCAP> = {
+  "peugeot-e-308-electrico-2026-precio-ficha-tecnica": {
+    fichaId: "peugeot-e-308-electrico-2026-precio-ficha-tecnica",
+    estrellas: 4,
+    anioTest: 2022,
+    adulto: 76,
+    infantil: 84,
+    peatones: 68,
+    asistencias: 65,
+    videoCrashId: null,
+    videoAlceId: null,
+  },
+  "smart-1-pro-plus-2025-precio-ficha-tecnica": {
+    fichaId: "smart-1-pro-plus-2025-precio-ficha-tecnica",
+    estrellas: 5,
+    anioTest: 2022,
+    adulto: 96,
+    infantil: 89,
+    peatones: 71,
+    asistencias: 88,
+    videoCrashId: null,
+    videoAlceId: null,
+  },
+  "smart-3-pro-plus-2025-precio-ficha-tecnica": {
+    fichaId: "smart-3-pro-plus-2025-precio-ficha-tecnica",
+    estrellas: 5,
+    anioTest: 2023,
+    adulto: 90,
+    infantil: 86,
+    peatones: 84,
+    asistencias: 85,
+    videoCrashId: null,
+    videoAlceId: null,
+  },
+  "smart-5-premium-2025-precio-ficha-tecnica": {
+    fichaId: "smart-5-premium-2025-precio-ficha-tecnica",
+    estrellas: 5,
+    anioTest: 2025,
+    adulto: 88,
+    infantil: 93,
+    peatones: 84,
+    asistencias: 92,
+    videoCrashId: null,
+    videoAlceId: null,
+  },
+  "volkswagen-id-buzz-gtx-2026-precio-ficha-tecnica": {
+    fichaId: "volkswagen-id-buzz-gtx-2026-precio-ficha-tecnica",
+    estrellas: 5,
+    anioTest: 2022,
+    adulto: 92,
+    infantil: 87,
+    peatones: 60,
+    asistencias: 90,
+    videoCrashId: null,
+    videoAlceId: null,
+  },
+};

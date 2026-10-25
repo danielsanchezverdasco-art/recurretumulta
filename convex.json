@@ -1,0 +1,1 @@
+{ "node": { "externalPackages": ["@napi-rs/canvas", "pdfjs-dist"] } }

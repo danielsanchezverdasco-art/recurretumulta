@@ -1,0 +1,82 @@
+# ============================================================
+# Auditoría de indexación GSC — 12/10/2026
+# Fuente: Search Console (3.136 indexadas / 3.923 no indexadas, datos 09/10/2026)
+# Orden de Daniel: NO borrar URLs con impresiones; fusionar con 301.
+#
+# VEREDICTO TRAS AUDITORÍA: 0 reglas 301 nuevas necesarias.
+# Cada categoría se investigó y el motivo documentado abajo.
+# NO aplicar a ciegas: leer los veredictos antes.
+#
+# Hallazgos extra al final (sitemap sin HTML, fichero obsoleto).
+# ============================================================
+
+# ------------------------------------------------------------
+# 1) 383 páginas "Página alternativa con etiqueta canónica adecuada"
+# VEREDICTO: sin acción (funciona como está diseñado).
+# - Son las variantes SIN barra final (/coches/x) cuyo canonical
+#   apunta a la versión CON barra (/coches/x/). Google está de
+#   acuerdo con nuestro canonical ("etiqueta canónica adecuada"):
+#   NO eligió una versión diferente, la confirmó.
+# - 301 de /x -> /x/ es IMPOSIBLE en Netlify: las reglas ignoran
+#   la barra final al emparejar y entran en bucle infinito
+#   (incidente de producción 09/10/2026, documentado en
+#   public/_redirects). No reintroducir.
+# - Causa raíz: los enlaces internos usan /coches/${id} sin barra
+#   (48 ocurrencias en src/, 0 con barra). Google descubre /x,
+#   recibe 200 + canonical -> /x/ y lo clasifica como "alternativa".
+#   Es informativo, no un error.
+# - Mejora futura (cambio de código, no redirects): normalizar los
+#   enlaces internos a barra final para que Google descubra
+#   directamente la canónica.
+# ------------------------------------------------------------
+# (sin reglas)
+
+# ------------------------------------------------------------
+# 2) 563 páginas "Página con redirección"
+# VEREDICTO: sin acción (todo correcto).
+# - Auditado public/_redirects el 12/10/2026: NINGUNA cadena
+#   (ningún origen es también destino) y ningún bucle.
+# - Las redirecciones son legítimas de un solo salto:
+#   prefijos de idioma eliminados (/en/*, /de/*, /pt/*, /fr/*),
+#   slugs antiguos fusionados (/blog/zeekr-9x-...,
+#   /blog/prescripcion-multas-trafico-plazos -> /guias/...,
+#   URLs truncadas de Search Console, etc.).
+# - El sitemap (8.256 URLs) contiene 0 URLs que redirijan.
+# - Las rutas <Navigate> de src/App.tsx quedan eclipsadas por el
+#   301 del edge: un solo salto, sin cadena.
+# ------------------------------------------------------------
+# (sin reglas)
+
+# ------------------------------------------------------------
+# 3) URLs con/sin barra final: unificar con 301
+# VEREDICTO: imposible vía _redirects (ver punto 1).
+# La unificación YA existe mediante <link rel="canonical">
+# con barra final (src/hooks/use-seo.ts) + sitemap con barra.
+# No se puede forzar con 301 sin romper producción.
+# ------------------------------------------------------------
+# (sin reglas)
+
+# ============================================================
+# HALLAZGOS EXTRA (no pedidos, pero críticos para indexación)
+# ============================================================
+
+# A) 2.387 URLs del sitemap SIN HTML prerenderizado en dist/
+#    (1.188 blogs + 1.185 fichas + 14 rutas). Son slugs VÁLIDOS
+#    pendientes de publicar, NO duplicados. Sirven 200 con el
+#    shell SPA por "/* /index.html 200" y Google no las indexa
+#    ("Rastreada/Descubierta: actualmente sin indexar").
+#    FIX CORRECTO: prerenderizar por lotes (en curso), NUNCA 301.
+#    Un 301 aquí rompería el plan de publicación.
+
+# B) scripts/_redirects-blog-fichas-2026-10-08.txt (3.094 reglas
+#    /blog/{slug} -> /coches/{slug}/) está OBSOLETO y NUNCA debe
+#    aplicarse: contradice la estrategia dual blog/ficha de
+#    Daniel del 12/10/2026 (blog = narrativa, ficha = datos,
+#    mismo slug, contenido diferente). Aplicarlo borraría
+#    1.547 blogs del índice. Se recomienda archivarlo.
+
+# C) 20 páginas "Google eligió canónica diferente a la del usuario":
+#    no identificables sin API de Search Console; ningún candidato
+#    encontrado en el código (sin canonicals manuales, sitemap
+#    limpio, sin slugs duplicados). Requiere revisión manual en
+#    GSC > Indexación > Duplicadas cuando el acceso esté disponible.

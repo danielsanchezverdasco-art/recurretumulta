@@ -1,0 +1,452 @@
+// Lote B de artículos Motor (octubre 2026) — SOLO escritura.
+// La integración (blog-slugs.txt, prerender, sitemap, deploy) la hace otro proceso.
+import type { BlogPost } from "./blog-data.ts";
+
+export const LOTE_OCT_B_POSTS: BlogPost[] = [
+  {
+    title: "Geely E2: desde 20.990 €",
+    slug: "geely-e2-electrico-barato-precio-espana",
+    excerpt: "El Geely E2 ya está en España: 4,13 m, tracción trasera, hasta 345 km de autonomía y 5 estrellas Euro NCAP desde 20.990 € (13.990 € en promo).",
+    category: "Novedades Motor",
+    date: "2026-10-03",
+    readTime: 8,
+    locale: "all",
+    keywords: [
+      "Geely E2 precio España",
+      "Geely E2 autonomía",
+      "coche eléctrico barato 2026",
+      "Geely E2 Euro NCAP",
+      "Geely E2 Almussafes",
+      "urbano eléctrico chino"
+    ],
+    content: `<img src=/media/geely-e2-electrico-barato-precio-espana-hero.webp alt=\"Compacto eléctrico urbano azul circulando por una calle del centro de Madrid al atardecer\">
+
+**¿Buscas solo los datos?** <a href=/comparador-coches/>Compara el Geely E2 con sus rivales</a> o <a href=/mejor-coche-por-presupuesto/>descubre el mejor coche por tu presupuesto</a>.
+
+El eléctrico más vendido de China ya está en España. El **Geely E2** aterriza con una receta que suena a trampa: 4,13 metros, **tracción trasera**, cinco plazas, **5 estrellas Euro NCAP** y un precio de tarifa de **20.990 euros** que con la promoción de lanzamiento baja hasta los **13.990 euros**. ¿Demasiado bonito para ser verdad? Lo hemos comprobado dato por dato.
+
+## La noticia
+
+Geely no es una marca cualquiera: es el gigante chino dueño de Volvo, Polestar, Lotus y Zeekr. Su desembarco en España con marca propia llega de la mano del E2, un urbano eléctrico que en China se vende como churros y que aquí quiere pelear con el BYD Dolphin Surf, el Volkswagen ID. Polo y el Leapmotor B03X.
+
+La red comercial arranca con **50 concesionarios** y el objetivo de llegar a 80 antes de que acabe el año. Y hay un as en la manga a medio plazo: **Ford y Geely han creado una empresa conjunta para fabricar en Almussafes (Valencia)**, y el E2 es uno de los modelos previstos, con los primeros coches saliendo de la planta valenciana en 2028. Hasta entonces, el E2 que se vende aquí viene de China con baterías LFP de CATL.
+
+## Precio y versiones en España
+
+| Versión | PVP | Con campañas + Auto+ | Promo lanzamiento* |
+|---|---|---|---|
+| **E2 PRO** (80 CV / 35 kWh) | 20.990 € | 16.405 € | **13.990 €** |
+| **E2 PRO+** (115 CV / 47 kWh) | 24.990 € | 20.405 € | **16.485 €** |
+| **E2 MAX+** (115 CV / 47 kWh) | 27.490 € | 22.905 € | **18.485 €** |
+
+*Promoción de lanzamiento con campañas comerciales, financiación y Plan Auto+ incluidos.
+
+Ojo con la letra pequeña del Plan Auto+: al fabricarse hoy en China, el E2 no accede al bonus extra por fabricación europea, así que su techo de ayuda es de 3.375 euros frente a los 4.500 de un eléctrico hecho en la UE. Eso cambiará cuando salga de Almussafes en 2028.
+
+El equipamiento de serie ya es generoso desde el PRO: climatizador automático, acceso y arranque sin llave, asientos delanteros con regulación eléctrica, **función V2L** (puedes enchufar aparatos eléctricos al coche), Apple CarPlay y Android Auto. El MAX+ añade portón trasero eléctrico, asientos delanteros calefactados, techo bitono, cámara de 540 grados y cargador inalámbrico.
+
+<img src=/media/geely-e2-electrico-barato-precio-espana-galeria-3.webp alt=\"Geely E2 en tres cuartos trasero mostrando su firma lumínica, imagen editorial\">
+
+<img src=/media/geely-e2-electrico-barato-precio-espana-interior-oficial.webp alt=\"Interior oficial del geely e2 electrico barato\">
+
+
+## Curiosidades que quizá no sabías
+
+- **Gira como una peonza**: su radio de giro de 4,95 metros es de los mejores del segmento, ideal para aparcar en el centro de cualquier ciudad.
+- **Tracción trasera en un urbano de 20.000 €**: una rareza que le da un tacto de conducción más divertido de lo esperado en este precio.
+- **Cuatro modos de conducción**: ECO, CONFORT, SPORT y hasta NIEVE.
+- **Geely ya estuvo aquí antes**: el grupo chino empezó comprando maquinaria industrial europea hace décadas. Hoy es dueño de Volvo, Polestar, Lotus y Zeekr.
+
+## Rivales directos
+
+| Modelo | Precio desde | Autonomía máxima |
+|---|---|---|
+| **Geely E2** | 20.990 € | 345 km |
+| **BYD Dolphin Surf** | ~19.990 € | 322 km |
+| **Volkswagen ID. Polo** | 35.070 € | 449 km |
+| **Leapmotor B03X** | 24.264 € | 382 km |
+
+<a href=/comparador-coches/>Compáralos cara a cara en nuestro comparador</a>.
+
+## El plan de Geely en España
+
+Geely no viene de turismo. El grupo chino —dueño de Volvo, Polestar, Lotus y Zeekr— lleva años observando el mercado europeo y ha elegido España como una de sus puertas de entrada con marca propia. El E2 es solo el primer paso: la lógica es la misma que ya aplicaron Omoda y Jaecoo (del grupo Chery), que en dos años se han colado entre las marcas que más crecen en nuestro país.
+
+La red arranca con 50 concesionarios y el objetivo declarado de llegar a 80 antes de que acabe el año. Es un dato importante, porque la gran duda de cualquier marca china nueva no es el coche —que suele estar bien resuelto— sino la postventa: dónde lo llevas si falla algo, cuánto tardan los repuestos, quién responde de la garantía. Una red de 80 puntos da confianza.
+
+Y luego está Almussafes. La empresa conjunta entre Ford y Geely para fabricar en Valencia es una jugada maestra por dos motivos: esquiva los aranceles europeos al coche chino y, a partir de 2028, permitirá al E2 acceder al bonus extra del Plan Auto+ por fabricación en la UE. Cuando eso ocurra, el precio real del E2 puede bajar otros 1.125 euros de ayuda. Quien pueda esperar, tiene un argumento para hacerlo.
+
+## ¿Para quién es el Geely E2?
+
+Para quien busque un segundo coche —o un primero— eminentemente urbano: trayectos diarios, aparcar en el centro, radio de giro mínimo y coste por kilómetro irrisorio. También para flotas urbanas y conductores que hacen muchos kilómetros en ciudad y amortizan rápido el eléctrico.
+
+No es el coche para quien haga viajes largos cada fin de semana: con 345 km WLTP y cargas de 25 minutos del 30 al 80 %, los viajes son posibles pero piden planificación. Si tu uso es 90 % ciudad, es difícil encontrar mejor relación precio-equipamiento-seguridad.
+
+## Míralo en vídeo
+
+<iframe src=https://www.youtube.com/embed/fRPebu_L1SE title="Vídeo: Geely E2, primer vistazo en español" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
+
+Vídeo: <a href=https://www.youtube.com/watch?v=fRPebu_L1SE>carwow.es</a> en YouTube
+
+Si estás comparando urbanos eléctricos asequibles, no te pierdas el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf</a>, el <a href=/blog/volkswagen-id-polo-electrico-precio-espana-2026/>Volkswagen ID. Polo</a> y el <a href=/blog/leapmotor-b03x-suv-electrico-barato-europa/>Leapmotor B03X</a>.
+
+## Preguntas frecuentes
+
+### ¿Cuánto cuesta el Geely E2 en España?
+Parte de 20.990 euros de tarifa (versión PRO). Con la promoción de lanzamiento, financiación y Plan Auto+ puede quedarse en 13.990 euros.
+
+### ¿Qué autonomía tiene el Geely E2?
+Hasta 345 km WLTP con la batería de 47 kWh (versiones PRO+ y MAX+). En uso puramente urbano la cifra real sube.
+
+### ¿Es seguro el Geely E2?
+Sí: tiene 5 estrellas Euro NCAP, siete airbags y un amplio paquete de asistentes a la conducción.
+
+### ¿Dónde se fabrica el Geely E2?
+Actualmente en China. Ford y Geely lo fabricarán en Almussafes (Valencia) a partir de 2028.
+
+### ¿Qué garantía tiene?
+8 años o 200.000 km tanto para el coche como para la batería, más 3 años de asistencia en carretera 24/7.
+
+### ¿Tiene maletero delantero?
+Sí, el E2 cuenta con frunk, algo poco habitual en su segmento y precio.
+
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://testcoches.es/noticias/el-geely-e2-parte-de-20-990-euros-pvp-estos-son-sus-precios-reales-al-contado-con-ayudas-y-financiando/>testcoches.es</a>, <a href=https://fleetpeople.es/geely-e2-mucho-coche-por-poco-dinero/>fleetpeople.es</a>, <a href=https://www.motormundial.es/geely-e2-primera-prueba/2026/09/17/>motormundial.es</a>.*`
+  },
+  {
+    title: "Leapmotor B03X: desde 24.264 €",
+    slug: "leapmotor-b03x-suv-electrico-barato-europa",
+    excerpt: "El Leapmotor B03X ya está en España desde 24.264 €: SUV del segmento B con hasta 197 CV, 382 km de autonomía y el respaldo industrial de Stellantis.",
+    category: "Novedades Motor",
+    date: "2026-10-03",
+    readTime: 8,
+    locale: "all",
+    keywords: [
+      "Leapmotor B03X precio",
+      "Leapmotor B03X autonomía",
+      "SUV eléctrico barato Europa",
+      "Leapmotor Stellantis España",
+      "B03X vs Atto 2",
+      "Leapmotor B03X ficha técnica"
+    ],
+    content: `<img src=/media/leapmotor-b03x-suv-electrico-barato-europa-hero.webp alt=\"SUV urbano eléctrico gris perla con tira de luz LED de ancho completo aparcado en una calle europea arbolada\">
+
+**¿Buscas solo los datos?** <a href=/comparador-coches/>Compara el Leapmotor B03X con sus rivales</a> o <a href=/mejor-coche-por-presupuesto/>descubre el mejor coche por tu presupuesto</a>.
+
+Hay un nuevo rey del precio entre los SUV eléctricos europeos, y no es europeo. El **Leapmotor B03X** llega a España desde **24.264 euros** con argumentos de coche mucho más caro: hasta **197 CV**, **382 km de autonomía**, pantalla de 14,6 pulgadas y el respaldo industrial de **Stellantis**, socio de la marca china en Europa. El Peugeot E-2008, que comparte grupo, ya tiembla.
+
+## La noticia
+
+Leapmotor es la apuesta china de Stellantis para el eléctrico asequible: el gigante europeo (Peugeot, Citroën, Opel, Fiat) tiene una joint venture con la marca china y la distribuye con su red. Eso significa concesionarios, repuestos y postventa con músculo europeo, algo que ninguna otra marca china barata puede decir.
+
+El B03X es su asalto al segmento B-SUV eléctrico, el más caliente del mercado: 4,27 metros, cinco plazas y un maletero de 407 litros. Y hay más: **se fabricará en Villaverde (Madrid) a partir de septiembre de 2027**, lo que le dará acceso al bonus extra del Plan Auto+ por fabricación europea.
+
+## Precio y versiones en España
+
+| Versión | Potencia / batería | Tarifa |
+|---|---|---|
+| **B03X Pro Life** | 177 CV / 39,8 kWh (292 km) | **24.264 €** |
+| **B03X ProMax Design** | 197 CV / 53 kWh (382 km) | **28.264 €** |
+
+Con las ayudas del Plan Auto+ y descuentos, el precio real puede bajar hasta el entorno de los 15.000-19.500 euros según versión y financiación. El ProMax añade asientos de símil cuero con calefacción, volante calefactado, cámara de 360 grados, equipo de audio de 12 altavoces y llantas de aleación.
+
+<img src=/media/leapmotor-b03x-suv-electrico-barato-europa-galeria-3.webp alt=\"Leapmotor B03X en tres cuartos trasero mostrando su firma lumínica, imagen editorial\">
+
+<img src=/media/leapmotor-b03x-suv-electrico-barato-europa-interior-oficial.webp alt=\"Interior oficial del leapmotor b03x suv electrico barato europa\">
+
+
+## Curiosidades que quizá no sabías
+
+- **Batería integrada en el chasis**: usa la tecnología CTC 2.0 Plus, que mete la batería dentro de la estructura del coche para ganar espacio y rigidez.
+- **Compite contra su propia familia**: el B03X deja en evidencia al Peugeot E-2008, que vende el mismo grupo Stellantis por bastante más dinero.
+- **Se hará en Madrid**: la planta de Villaverde lo fabricará desde septiembre de 2027.
+- **Pantalla de gama alta**: la central de 14,6 pulgadas con resolución 2,5K es de las mejores de su precio.
+
+## Rivales directos
+
+| Modelo | Precio desde | Autonomía máxima |
+|---|---|---|
+| **Leapmotor B03X** | 24.264 € | 382 km |
+| **BYD Atto 2** | ~29.000 € | 312 km |
+| **Ford Puma Gen-E** | ~27.000 € | 376 km |
+| **Renault 4 E-Tech** | ~29.000 € | 409 km |
+| **Peugeot E-2008** | 33.545 € | 406 km |
+
+<a href=/comparador-coches/>Compáralos cara a cara en nuestro comparador</a>.
+
+## Stellantis: el as en la manga
+
+Aquí está la diferencia entre el B03X y cualquier otro chino barato: detrás hay un gigante europeo. Stellantis —Peugeot, Citroën, Opel, Fiat, Jeep— tiene una joint venture con Leapmotor y lo distribuye con su propia red en Europa. Traducción práctica: concesionarios conocidos, recambios con logística europea y una marca que no va a desaparecer de la noche a la mañana.
+
+Es la misma fórmula que ya funciona con el Leapmotor T03, que se vende en España desde hace meses y ha demostrado que el invento aguanta. Y el plan va más allá: la fabricación en Villaverde (Madrid) a partir de septiembre de 2027 convertirá al B03X en un coche "hecho en España" a efectos de ayudas, con el bonus extra del Plan Auto+.
+
+La ironía es deliciosa: el B03X deja en evidencia al Peugeot E-2008, que vende el mismo grupo por casi 10.000 euros más con menos potencia. Cuando tu propia casa te canibaliza, es que el mercado ha cambiado de verdad.
+
+## ¿Para quién es el Leapmotor B03X?
+
+Para familias jóvenes que quieren un SUV eléctrico sin hipotecarse: espacio de sobra (407 litros de maletero), equipamiento de coche caro y un precio que con ayudas se acerca al de un gasolina equivalente. También para quien dé el salto a su primer eléctrico sin sustos: la red Stellantis da tranquilidad.
+
+Con honestidad: las primeras pruebas señalan que el chasis y el sistema multimedia tienen margen de mejora, y la autonomía real ronda los 225-295 km según versión. Si haces mucha autovía, valora la versión de 53 kWh. Para uso mixto con predominio urbano, el Pro de acceso es la compra racional.
+
+El consumo homologado (15,5-15,7 kWh/100 km) también juega a su favor en el coste por kilómetro: es de los SUV eléctricos más eficientes de su tamaño, algo que se nota mes a mes si vienes de un gasolina. Y con la carga rápida de hasta 133 kW, un viaje ocasional de 300 km solo pide una parada corta para un café.
+
+## Míralo en vídeo
+
+<iframe src=https://www.youtube.com/embed/_9M-W8wSFbY title="Vídeo: Leapmotor B03X, prueba en español" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
+
+Vídeo: <a href=https://www.youtube.com/watch?v=_9M-W8wSFbY>Ricardo Torres</a> en YouTube
+
+Otros eléctricos asequibles que hemos analizado: el <a href=/blog/geely-e2-electrico-barato-precio-espana/>Geely E2</a>, el <a href=/blog/skoda-epiq-electrico-barato-precio-espana/>Skoda Epiq</a> y el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf</a>.
+
+## Preguntas frecuentes
+
+### ¿Cuánto cuesta el Leapmotor B03X en España?
+Parte de 24.264 euros de tarifa (versión Pro Life). Con ayudas puede bajar hasta unos 15.000 euros.
+
+### ¿Qué autonomía tiene el Leapmotor B03X?
+292 km WLTP con la batería de 39,8 kWh y 382 km con la de 53 kWh.
+
+### ¿Cuánto tarda en cargar?
+Del 30 al 80 % en unos 16 minutos en carga rápida de corriente continua (hasta 133 kW en la versión grande).
+
+### ¿Quién respalda a Leapmotor en Europa?
+Stellantis, que tiene una joint venture con la marca y la distribuye con su red europea.
+
+### ¿Dónde se fabrica?
+Actualmente en China; a partir de septiembre de 2027 se fabricará en Villaverde (Madrid).
+
+### ¿Es más barato que el Peugeot E-2008?
+Sí, y con más potencia: el B03X parte de 24.264 € frente a los 33.545 € del E-2008, ambos del grupo Stellantis.
+
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://testcoches.es/modelos/leapmotor-b03x-2026/>testcoches.es</a>, <a href=https://forococheselectricos.com/noticias/leapmotor-b03x-primeras-pruebas-suv-electrico-barato-20260914-42078.html>forococheselectricos.com</a>, <a href=https://www.somoselectricos.com/coches-electricos/nuevo-leapmotor-b03x-sonroja-peugeot-2008-es-mas-barato-potente-tambien-vende-stellantis/20260714125033058280.html>somoselectricos.com</a>.*`
+  },
+  {
+    title: "Hyundai Ioniq 3: 497 km",
+    slug: "hyundai-ioniq-3-precio-espana-2026",
+    excerpt: "El Hyundai Ioniq 3 ya es oficial: compacto eléctrico con hasta 495 km WLTP, desde 29.995 € al contado o 21.535 € con financiación y Plan Auto. Precios, versiones y rivales.",
+    category: "Novedades Motor",
+    date: "2026-10-07",
+    readTime: 8,
+    locale: "all",
+    keywords: [
+      "Hyundai Ioniq 3 precio España",
+      "Hyundai Ioniq 3 autonomía",
+      "Ioniq 3 2026 ficha técnica",
+      "compacto eléctrico 500 km autonomía",
+      "Hyundai Ioniq 3 N Line"
+    ],
+    content: `<img src=/media/hyundai-ioniq-3-precio-espana-2026-hero.webp alt=\"Hatchback compacto eléctrico plateado de diseño futurista circulando por una carretera costera española al amanecer\">
+
+**Actualización 07/10/2026 — presentación oficial:** Hyundai ha presentado oficialmente el Ioniq 3 en España con dos opciones de batería: autonomía WLTP prevista de **más de 344 km** (estándar) y **más de 495 km** (larga autonomía). El precio de partida es **29.995 € al contado**, y se queda en **21.535 €** aplicando los descuentos de financiación de la marca y el Plan Auto. Lo que sigue es el análisis completo con la letra pequeña de la gama.
+
+**¿Buscas solo los datos?** <a href=/comparador-coches/>Compara el Ioniq 3 con sus rivales</a> o <a href=/calculadora-etiqueta-dgt/>comprueba su etiqueta DGT</a>.
+
+El **Hyundai Ioniq 3** es la gran apuesta coreana para democratizar el eléctrico de gran autonomía: un compacto de 4,15 metros con **hasta 497 km WLTP** y un precio de partida anunciado de **29.995 euros**. Pero ojo, porque hay letra pequeña importante en la gama española: te la contamos sin rodeos.
+
+## La noticia (y la letra pequeña)
+
+Hyundai ha abierto los pedidos en España con **una única versión**: el acabado **N Line** con la batería grande de 61 kWh, por **39.390 euros** y 456 km de autonomía WLTP. Los **29.995 euros** corresponden a la futura versión Standard Range de 42,2 kWh, que llegará más adelante sin fecha confirmada. Es decir: el precio de ataque existe, pero el coche que hoy puedes comprar es el N Line.
+
+¿Por qué 456 km y no 497? Por las llantas de 18 pulgadas del N Line: la cifra máxima de 497 km corresponde a la Long Range con llantas pequeñas, que en España aún no se vende. En Canarias, eso sí, las primeras unidades ya están disponibles desde 17.990 euros con ayudas.
+
+El Ioniq 3 se fabrica en la planta de Hyundai en **İzmit (Turquía)**, donde la marca ha invertido 250 millones de euros. Al no ser UE, no accede al bonus extra del Plan Auto+ por fabricación europea.
+
+## Precio y versiones en España
+
+| Versión | Batería | Autonomía WLTP | Precio |
+|---|---|---|---|
+| **Select Standard Range*** | 42,2 kWh | 344 km | **29.995 €** |
+| **Select Long Range*** | 61 kWh | 497 km | **33.995 €** |
+| **N Line Long Range** (a la venta) | 61 kWh | 456 km | **39.390 €** |
+
+*Precios anunciados; la Standard Range llegará más adelante sin fecha confirmada. Con la presentación oficial del 07/10/2026, Hyundai confirma el precio de partida de **29.995 € al contado** y **21.535 €** con descuentos de financiación de la marca y Plan Auto.
+
+El N Line viene muy equipado de serie: llantas de 18 pulgadas, LED, climatizador bizona, volante calefactable, control de crucero adaptativo con Stop&Go, cámara de 360 grados y asistente inteligente de aparcamiento.
+
+<img src=/media/hyundai-ioniq-3-precio-espana-2026-galeria-3.webp alt=\"Hyundai Ioniq 3 en tres cuartos trasero mostrando su firma lumínica, imagen editorial\">
+
+<img src=/media/hyundai-ioniq-3-precio-espana-2026-interior-oficial.webp alt=\"Interior oficial del hyundai ioniq 3  2026\">
+
+
+## Curiosidades que quizá no sabías
+
+- **Diseño "Art of Steel"**: su estética rompedora evoca al Hyundai Veloster, con guiños como los cuatro puntos de luz de la parrilla (la letra H en código morse).
+- **Estrena Pleos en Europa**: es el primer Hyundai europeo con el nuevo sistema multimedia Pleos Connect.
+- **Megabox**: además del maletero de 441 litros, esconde un compartimento extra de 114 litros.
+- **Aparca solo desde el móvil**: el asistente de aparcamiento remoto se controla desde el teléfono.
+
+## Rivales directos
+
+| Modelo | Precio desde | Autonomía máxima |
+|---|---|---|
+| **Hyundai Ioniq 3** | 29.995 €* | 497 km |
+| **Cupra Raval** | 26.000 € | 446 km |
+| **Volkswagen ID. Polo** | 35.070 € | 449 km |
+| **Renault 5 E-Tech** | ~28.000 € | 410 km |
+| **BYD Dolphin Surf** | ~19.990 € | 322 km |
+
+*Precio anunciado de la Standard Range, aún no a la venta en España.
+
+<a href=/comparador-coches/>Compáralos cara a cara en nuestro comparador</a>.
+
+## La jugada de Hyundai
+
+El Ioniq 3 es la respuesta coreana a la invasión china del eléctrico barato, y la jugada es inteligente: en lugar de recortar hasta el hueso, Hyundai ofrece un compacto con plataforma dedicada (e-GMP), 497 km de autonomía máxima y tecnología de verdad —carga de 22 kW en alterna, V2L, Pleos Connect— a un precio de ataque anunciado de 29.995 euros.
+
+Pero conviene leer la jugada completa. Abrir las ventas solo con el N Line de 39.390 euros es una estrategia clásica: primero los early adopters que pagan el acabado alto, luego el volumen con la Standard Range. El riesgo es que, mientras tanto, el titular de "menos de 30.000 €" lo capitalicen rivales que sí lo tienen en el concesionario, como el Cupra Raval (26.000 €) o el propio Geely E2.
+
+La fabricación en Turquía es otro matiz: abarata costes frente a Corea, pero deja al Ioniq 3 fuera del bonus UE del Plan Auto+. Aun así, Hyundai juega con una baza que los chinos no tienen: décadas de red comercial y una reputación de fiabilidad que en España pesa mucho.
+
+## ¿Para quién es el Hyundai Ioniq 3?
+
+Para quien priorice la autonomía por euro y la tranquilidad de una marca consolidada. Si haces viajes de 300-400 km con frecuencia, la Long Range de 497 km es de lo mejor que puedes comprar por este dinero... cuando llegue la versión de acceso.
+
+Nuestro consejo honesto: si tu presupuesto está en los 30.000 euros, espera a la Standard Range antes de decidir. Si puedes estirarte al N Line y lo quieres ya, es un coche redondo y muy equipado. Y si vives en Canarias, mira bien la oferta local: desde 17.990 euros con ayudas es otro partido.
+
+## Míralo en vídeo
+
+<iframe src=https://www.youtube.com/embed/wbjUokbtE70 title="Vídeo: Hyundai Ioniq 3, presentación oficial" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
+
+Vídeo: <a href=https://www.youtube.com/watch?v=wbjUokbtE70>Hyundai España</a> en YouTube
+
+Sus duelos directos, ya analizados: el <a href=/blog/cupra-raval-electrico-precio-espana-2026/>Cupra Raval</a>, el <a href=/blog/volkswagen-id-polo-electrico-precio-espana-2026/>Volkswagen ID. Polo</a> y el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf</a>.
+
+## Preguntas frecuentes
+
+### ¿Cuánto cuesta el Hyundai Ioniq 3 con los descuentos?
+Con la presentación oficial (07/10/2026), Hyundai confirma 29.995 € al contado y **21.535 €** aplicando descuentos de financiación de la marca y el Plan Auto.
+
+### ¿Cuánto cuesta el Hyundai Ioniq 3 en España?
+El precio de partida anunciado es 29.995 € (Standard Range, aún no a la venta). Hoy solo se puede comprar el N Line de 61 kWh por 39.390 €.
+
+### ¿Qué autonomía tiene el Hyundai Ioniq 3?
+Hasta 497 km WLTP en la Long Range con llantas pequeñas. El N Line que se vende en España homologa 456 km.
+
+### ¿Cuánto tarda en cargar?
+Del 10 al 80 % en unos 29 minutos en carga rápida de corriente continua.
+
+### ¿Dónde se fabrica?
+En İzmit (Turquía). Al no ser fabricación UE, no accede al bonus extra del Plan Auto+.
+
+### ¿Qué es el sistema Pleos?
+El nuevo infoentretenimiento de Hyundai que debuta en Europa con el Ioniq 3, con pantalla de 14,6 pulgadas, navegador y asistente de aparcamiento remoto.
+
+### ¿Tiene carga bidireccional?
+Sí, cuenta con tecnología V2L para alimentar aparatos eléctricos externos.
+
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://madridpress.com/index.php?option=com_content&task=view&id=27885&Itemid=122>MadridPress (presentación oficial 07/10/2026)</a>, <a href=https://testcoches.es/modelos/hyundai-ioniq-3-2026/>testcoches.es</a>, <a href=https://forococheselectricos.com/noticias/hyundai-ioniq-3-precio-espana-497-km-autonomia-20260910-42057.html>forococheselectricos.com</a>, <a href=https://www.somoselectricos.com/coches-electricos/hyundai-pone-precio-ioniq-3-espana-135-cv-mas-450-km-autonomia/20260814084019062210.html>somoselectricos.com</a>.*`
+  },
+  {
+    title: "BYD Atto 3 Evo: 449 CV desde 29.455 €",
+    slug: "byd-atto-3-evo-2026-precio-espana",
+    excerpt: "El BYD Atto 3 Evo ya está en España: 800 V, batería Blade de 74,8 kWh, hasta 449 CV y 510 km de autonomía desde 29.455 €. Ficha, precios y rivales.",
+    category: "Novedades Motor",
+    date: "2026-10-03",
+    readTime: 8,
+    locale: "all",
+    keywords: [
+      "BYD Atto 3 Evo precio España",
+      "Atto 3 Evo autonomía",
+      "BYD Atto 3 Evo 800V",
+      "Atto 3 Evo vs Design Excellence",
+      "SUV eléctrico 500 km autonomía"
+    ],
+    content: `<img src=/media/byd-atto-3-evo-2026-precio-espana-hero.webp alt=\"SUV familiar eléctrico blanco circulando por una carretera de montaña española entre pinares al atardecer\">
+
+**¿Buscas solo los datos?** <a href=/comparador-coches/>Compara el Atto 3 Evo con sus rivales</a> o <a href=/mejor-coche-por-presupuesto/>descubre el mejor coche por tu presupuesto</a>.
+
+El líder no se duerme. El **BYD Atto 3** fue el C-SUV eléctrico más vendido de España en 2025 (12,8 % de cuota) y su evolución, el **Atto 3 Evo**, sube la apuesta a lo grande: **arquitectura de 800 voltios**, batería Blade de **74,8 kWh**, **tracción trasera o total**, hasta **449 CV** y **510 km de autonomía**. Y el precio de ataque, con todo aplicado, se queda en **29.455 euros**. Parece el mismo coche. No lo es.
+
+## La noticia
+
+El Atto 3 Evo es mucho más que un restyling: estrena la última evolución de la **e-Platform 3.0** con tecnología **Cell to Body** (la batería forma parte estructural del chasis, ganando rigidez y espacio), abandona la tracción delantera exclusiva y adopta una suspensión trasera multibrazo de cinco brazos. Por dentro hay instrumentación digital de 8,8 pulgadas, consola rediseñada y hasta cristales delanteros con doble laminado para un habitáculo más silencioso.
+
+Ya está a la venta en la red de concesionarios BYD en España en dos versiones: **Design** (tracción trasera, 313 CV) y **Excellence** (tracción total, 449 CV).
+
+## Precio y versiones en España
+
+| Versión | Tarifa | Con campañas + Auto+ | Con todo + financiación |
+|---|---|---|---|
+| **Design** (313 CV, RWD) | 42.990 € | 33.405 € | **29.455 €** |
+| **Excellence** (449 CV, AWD) | 45.990 € | 37.855 € | **33.905 €** |
+
+El salto de precio entre tarifa y precio "con todo" es grande porque BYD aprieta con campañas comerciales, el Plan Auto+ y descuentos por financiación. Merece la pena pedir presupuesto desglosado en el concesionario.
+
+<img src=/media/byd-atto-3-evo-2026-precio-espana-galeria-3.webp alt=\"BYD Atto 3 Evo en tres cuartos trasero mostrando su firma lumínica, imagen editorial\">
+
+<img src=/media/byd-atto-3-evo-2026-precio-espana-interior-oficial.webp alt=\"Interior oficial del byd atto 3 evo 2026\">
+
+
+## Curiosidades que quizá no sabías
+
+- **El frunk que faltaba**: el Evo estrena un maletero delantero de 101 litros, perfecto para los cables de carga sin manchar el equipaje.
+- **Cristales de doble laminado**: un detalle de coche premium que deja el habitáculo notablemente silencioso.
+- **Plazas traseras de limusina**: con 2,72 m de batalla, adultos de más de 2 metros caben sin problemas y el suelo es completamente plano.
+- **De 0 a 100 en 3,9 segundos**: el Excellence acelera como un deportivo, aunque su filosofía siga siendo familiar.
+
+## Rivales directos
+
+| Modelo | Precio desde | Autonomía máxima |
+|---|---|---|
+| **BYD Atto 3 Evo** | 29.455 €* | 510 km |
+| **Tesla Model Y** | ~40.000 € | 533 km |
+| **Kia EV3** | ~37.000 € | 605 km |
+| **Skoda Elroq** | ~34.000 € | 580 km |
+| **Deepal S07** | ~37.000 € | 485 km |
+
+*Con campañas, financiación y ayudas.
+
+<a href=/comparador-coches/>Compáralos cara a cara en nuestro comparador</a>.
+
+## Por qué el Evo importa
+
+El Atto 3 original ya era un superventas, y lo lógico habría sido un simple lavado de cara. BYD ha hecho lo contrario: lo ha reconstruido por dentro. La plataforma de 800 voltios era hasta hace poco territorio de coches de 60.000 euros para arriba; que un SUV familiar la ofrezca desde 29.455 euros (con todo aplicado) cambia las reglas del segmento.
+
+La tecnología Cell to Body —la batería como parte estructural del chasis— no es marketing: mejora la rigidez, la seguridad en caso de impacto lateral y el aprovechamiento del espacio interior. Sumada a la Blade Battery LFP (química famosa por su seguridad y durabilidad), el Evo presume de una base técnica que pocos rivales pueden igualar a este precio.
+
+Y el cambio de tracción no es menor: pasar de delantera exclusiva a trasera (Design) o total (Excellence), con una multibrazo de cinco brazos detrás, transforma el comportamiento. Las primeras pruebas hablan de un coche notablemente más aplomado y divertido que su predecesor.
+
+## ¿Para quién es el Atto 3 Evo?
+
+Para familias que quieren el SUV eléctrico "redondo": espacio de sobra, 510 km de autonomía, carga rápida de verdad y un precio que, con ayudas, compite con generalistas de combustión equipados. El Design nos parece la compra sensata: 313 CV sobran para un familiar y la autonomía es la mejor de la gama. El Excellence solo tiene sentido si quieres tracción total o te apetece un 0-100 de 3,9 segundos por puro capricho.
+
+Ojo al dato del precio: la diferencia entre la tarifa (42.990 €) y el precio "con todo" (29.455 €) es enorme. Negocia y pide el desglose por escrito: campañas, Auto+, financiación. El precio real está en la letra pequeña, y esta vez juega a tu favor.
+
+## Míralo en vídeo
+
+<iframe src=https://www.youtube.com/embed/i8hd6_KIx6s title="Vídeo: BYD Atto 3 EVO 2026, review en español" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
+
+Vídeo: <a href=https://www.youtube.com/watch?v=i8hd6_KIx6s>Loading Cars</a> en YouTube
+
+Si buscas alternativas en el segmento, mira el <a href=/blog/deepal-s05-precio-espana-2026/>Deepal S05</a>, el eléctrico chino que más vende en España, y el <a href=/blog/xpeng-g9l-debut-paris-2026/>XPeng G9L</a> que debuta en el Salón de París.
+
+## Preguntas frecuentes
+
+### ¿Cuánto cuesta el BYD Atto 3 Evo en España?
+La tarifa parte de 42.990 € (Design), pero con campañas, Plan Auto+ y financiación se queda en 29.455 €. El Excellence parte de 45.990 € (33.905 € con todo).
+
+### ¿Qué autonomía tiene el Atto 3 Evo?
+510 km WLTP en ciclo combinado (710 km en urbano) para el Design; 470 km para el Excellence.
+
+### ¿Cuánto tarda en cargar?
+Del 10 al 80 % en unos 25 minutos gracias a los 800 V y los 220 kW de carga en continua.
+
+### ¿Qué cambia respecto al Atto 3 anterior?
+Casi todo por dentro: plataforma 800 V, batería integrada en el chasis (Cell to Body), tracción trasera o total (antes solo delantera), nueva suspensión multibrazo y frunk de 101 litros.
+
+### ¿Tiene carga bidireccional?
+Sí, V2L de hasta 3,3 kW para alimentar aparatos eléctricos externos.
+
+### ¿Puede remolcar?
+Sí, hasta 1.500 kg con freno.
+
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://www.noticiasdelmotor.com/noticias/i/94914945/el-byd-atto-3-evo-con-hasta-449-cv-220-kw-de-potencia-de-carga-y-710-km-de-autonomia-ya-esta-disponible-en-los-concesionarios>noticiasdelmotor.com</a>, <a href=https://periodismodelmotor.com/prueba-byd-atto-3-evo-design-2026/420952/amp/>periodismodelmotor.com</a>, <a href=http://diariodelautomovil.com/2026/02/25/el-byd-atto-3-evo-llega-con-hasta-449-cv-carga-ultrarrapida-y-mas-autonomia/>diariodelautomovil.com</a>.*`
+  },
+];

@@ -1,0 +1,17 @@
+# Cabeceras de seguridad (03/10/2026, higiene Buenas prácticas).
+# Sin CSP estricta: los scripts inline del prerender deben seguir funcionando.
+#
+# Caché de HTML en el edge (06/10/2026, rendimiento): el TTFB del origen era
+# 1-2s porque Netlify servía con max-age=0. Con 5 min de caché el edge absorbe
+# el tráfico; tras cada deploy se purga Cloudflare y se avisa del margen.
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+/media/*
+  Cache-Control: public, max-age=86400
+/*
+  Cache-Control: public, max-age=300, must-revalidate
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+  X-Frame-Options: SAMEORIGIN
+  Cross-Origin-Opener-Policy: same-origin
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Content-Type-Options: nosniff
