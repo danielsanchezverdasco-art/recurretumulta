@@ -129,7 +129,7 @@ export const COCHES_DONGFENG: CocheComparador[] = [
       "La marca sigue siendo desconocida para el gran público fuera de China",
       "No se vende en España, sino solo en mercados de exportación seleccionados",
       "La red de servicio fuera de China es muy limitada, algo a valorar antes de importar uno",
-      "Con 4,72 metros, aparcar en ciudad complica más de lo que parece en las fotos"
+      "4,72 m de largo: pide plaza grande en ciudad"
     ],
     imagen: "/media/dongfeng-huge-hev-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dongfeng-huge-hev-2025-precio-ficha-tecnica-oficial.webp",
