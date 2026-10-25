@@ -6243,3 +6243,29 @@ Sin petición de publicación por mi parte: solo tú integras y publicas cuando 
 Qué queda de la 0913 (la orden NO está cerrada): los 20 blogs de los puestos 83–102, en lotes de 2 por trabajador, que son el siguiente paso; después el resto de la prosa de blogs; más la prosa del índice /blog/. La ORDEN PERMANENTE sigue en cola tras la 0913 y NO se ha empezado.
 
 Puedo seguir haciendo cosas, dime qué más quieres que haga.
+@grok lote listo tanda 9 blogs lote 03: prosa NIU KQi 200P y Kaabo Mantis 8 Pro
+
+@grok, lote listo de la tanda 9 de ORD-20251025-0913, en lotes de 2 por trabajador por orden de Daniel en chat. Prosa reescrita desde cero, con estructura distinta a la vieja.
+
+Rama: `dedupe-8g-merlin` · base verificada por API antes de empezar y antes de cada push: `d5d761a9ee358fe31176a7a7d14654de2f5f5095` (cabeza tras la segunda pasada de autocaravanas, sin cambios ajenos; sin force push, sin main, sin Netlify, sin Cloudflare, sin Convex, sin fotos, sin tocar ninguna otra rama).
+
+Commits (2, solo 2 ficheros, 0 borrados), cadena contigua verificada por API:
+1. `be27b6ae8c7568580207af550235d3e5378c31b1` — Tanda 9 blogs lote 03 (1/2): prosa NIU KQi 200P (`src/lib/blog-posts-patinetes-exp-p1.ts`).
+2. `03f950eae657f1eb547ba4f1ea9a72a008273f20` — Tanda 9 blogs lote 03 (2/2): prosa Kaabo Mantis 8 Pro (`src/lib/blog-posts-patinetes-exp-p8.ts`).
+Cabeza tras este lote: `03f950eae657f1eb547ba4f1ea9a72a008273f20`, blobs verificados.
+
+Qué se hizo por blog:
+- NIU KQi 200P: título nuevo (49) «NIU KQi 200P: autonomía urbana por menos de 500 €»; extracto nuevo (153). Estructura nueva: uso diario, rodar por ciudad, alcance y recarga, app, normativa; FAQ reformuladas.
+- Kaabo Mantis 8 Pro: título nuevo (55) «Kaabo Mantis 8 Pro: dos motores en un patinete compacto»; extracto nuevo (147). Estructura nueva: formato compacto dual, tracción/peso, frenos y ruedas sin cámara, precio, legalidad al final; FAQ reformulada.
+- Intactos y comprobados: tablas (20 NIU, 12 Kaabo), fotos (3 NIU, 2 Kaabo), enlaces, fuentes y cierre multa, como multiconjunto de líneas no-prosa. Mismas cifras que el artículo viejo, ninguna inventada (NIU: 499 €, 54 km declarados, 365 Wh, 350/700 W, 19,7 kg, 120 kg; Kaabo: 1699 €, 2×800/1600 W, LG 1176 Wh, 26,5 kg, 120 kg, ruedas 8×3.2″). Honestidad mantenida: Kaabo con certificado DGT no verificado, con aviso de comprobarlo antes de comprar.
+
+Medición (mismo método de tandas anteriores: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas, solo prosa; verificada por mí como coordinador con dos filtros, ambos dan 0):
+- NIU KQi 200P: propia 0g 0,0%, cruzada con Kaabo 0g 0,0%. Palabras: método trabajador 288 → 674; filtro tanda 9 228 → 584.
+- Kaabo Mantis 8 Pro: propia 0g 0,0%, cruzada 0g 0,0%. Palabras: 317 → 560; filtro tanda 9 267 → 482.
+- La primera medición del trabajador detectó 2 gramos de prosa en NIU y 3 en Kaabo y se reescribieron esas frases antes de entregar; la medición final es 0 en todo.
+
+Sin petición de publicación por mi parte: solo tú integras y publicas cuando lo decidas.
+
+Qué queda de la 0913 (la orden NO está cerrada): los otros 8 lotes de 2 de los 20 blogs de los puestos 83–102, que están en curso; después el resto de la prosa de blogs; más la prosa del índice /blog/. La ORDEN PERMANENTE sigue en cola tras la 0913 y NO se ha empezado.
+
+Puedo seguir haciendo cosas, dime qué más quieres que haga.
