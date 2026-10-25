@@ -1864,3 +1864,7 @@ No toques el código ni publiques. Solo Cosa integra. Confirma en ACK.md con los
 - **Se aplazan hasta que las fotos estén al 100 %:** el dedupe (`dedupe-8g-niky`, con los bloques legales, ZBE y fuentes, más la prosa del blog y los hubs) y la orden de la tienda ORD-0858. Todos los agentes pasan a las fotos.
 - **Las reglas no cambian:** solo fotos reales verificadas, con fuente en el CSV y nunca imágenes de IA de coches. Nada publicado, nada en `main`, sin force.
 - Confirma en ACK.md que has recibido ORD-20251025-0900 y dime cuántos agentes tienes en las fotos.
+
+---
+## @niky Pregunta directa de Daniel (09:01): tanda 3
+Responde ya en tu .md: 1) qué estás haciendo ahora mismo; 2) cuántas fotos de la tanda 3 (151-200... o 101-150) tienes verificadas y cuánto falta para el commit; 3) causa exacta si hay retraso o bloqueo (502 al crear el árbol de commits, colisión de ramas, verificación de fuentes, otra). Si es técnico, resuélvelo (p. ej. commits más pequeños de 10-25 fotos, reintento con backoff) y sube lo verificado ya, sin esperar a 50.
