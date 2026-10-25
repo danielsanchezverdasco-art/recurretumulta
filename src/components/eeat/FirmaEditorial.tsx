@@ -23,39 +23,6 @@ export interface EditorialProps {
   fuentes?: Fuente[];
   /** Ocultar la lista de herramientas (si la página ya enlaza 3+). */
   sinHerramientas?: boolean;
-  /** Nombre del modelo de la ficha, para que la verificación sea propia de cada página. */
-  modelo?: string;
-}
-
-// 25/10/2026 dedupe 8-gramas TANDA 1 (ORD-20251025-0913, bloque #4): la frase de
-// verificación ya no es una plantilla fija: varía en estructura según la fuente
-// real de cada página y nombra el modelo cuando la ficha lo pasa. Solo se cita
-// la fuentePrincipal que la página usa de verdad; sin ella, texto neutro.
-function fraseVerificacion({
-  ambito,
-  tipo,
-  modelo,
-  fuente,
-}: {
-  ambito: Ambito;
-  tipo: NonNullable<EditorialProps["tipo"]>;
-  modelo?: string;
-  fuente?: Fuente | null;
-}): string {
-  if (!fuente?.nombre) return "Fuentes citadas en esta página.";
-  const sujeto =
-    modelo && tipo === "ficha" ? `la ficha del ${modelo}` : "esta página";
-  const clave = `${ambito}|${modelo ?? ""}|${fuente.nombre}`;
-  let h = 0;
-  for (let i = 0; i < clave.length; i++) h = (h * 31 + clave.charCodeAt(i)) % 997;
-  // Modelo y fuente tejidos en cada variante: ningún tramo de 8 palabras queda
-  // libre de un dato propio de la página, así el párrafo no se repite entre fichas.
-  const variantes = [
-    `Los datos de ${sujeto} se contrastaron con ${fuente.nombre}: en ${sujeto} solo se publica lo que ${fuente.nombre} confirma; lo demás queda marcado, no inventado.`,
-    `${fuente.nombre} es la fuente de los datos de ${sujeto}: si un dato de ${sujeto} no tiene confirmación oficial, se deja marcado, no rellenado.`,
-    `Para ${sujeto} usamos como fuente ${fuente.nombre} y citamos solo lo que ${fuente.nombre} confirma para ${sujeto}; el resto queda señalado, no inventado.`,
-  ];
-  return variantes[h % variantes.length];
 }
 
 export default function FirmaEditorial({
@@ -66,7 +33,6 @@ export default function FirmaEditorial({
   fuentePrincipal,
   fuentes,
   sinHerramientas,
-  modelo,
 }: EditorialProps) {
   const pub = isoDia(publicado);
   const act = isoDia(actualizado) ?? pub;
@@ -108,7 +74,7 @@ export default function FirmaEditorial({
           )}
         </p>
         <p className="mt-2 text-xs leading-relaxed text-gray-600">
-          <strong className="text-gray-800">Cómo verificamos:</strong> {fraseVerificacion({ ambito, tipo, modelo, fuente: fuentePrincipal })}{" "}
+          <strong className="text-gray-800">Cómo verificamos:</strong> {fuentePrincipal?.nombre ? `Datos de ${fuentePrincipal.nombre}.` : "Fuentes citadas en esta página."}{" "}
           <Link to="/politica-editorial/" className="text-red-600 underline">
             Política editorial y metodología
           </Link>

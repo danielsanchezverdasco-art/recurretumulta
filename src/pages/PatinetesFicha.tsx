@@ -748,7 +748,6 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
         editorial={{
           ambito: "patinetes",
           tipo: "ficha",
-          modelo: nombre,
           publicado: fechas.publicado,
           actualizado: fechas.actualizado,
           fuentePrincipal: patinete.fuenteUrl ? { nombre: patinete.fuenteNombre || "Fuente de los datos", url: patinete.fuenteUrl } : null,
