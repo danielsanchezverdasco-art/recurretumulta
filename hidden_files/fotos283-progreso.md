@@ -54,3 +54,8 @@
 
 ## TANDA 3 PARCIAL 1 — 18 fotos (w040, w041, w042, w043, w044, w045, w046, w048, w050)
 - 18/18 con foto real verificada, 0 «sin foto real». CSV: 118 filas. Mapeos: motos ×4, -hero ×4. 0 sobrescrituras HEAD. Pendientes tanda 3: w047, w049 (reposiciones) + w051–w064 (oleada 3).
+
+## TANDA 3 PARCIAL 1 PUBLICADA — fotos-283-niky @ 1d1a724e7 (verificado ls-remote = local, sin force)
+
+## TANDA 3 PARCIAL 2 — 14 fotos (w051, w056, w059, w061, w062, w067, w071)
+- 14/14 con foto real verificada, 0 «sin foto real». CSV: 132 filas. Copias -hero ×6. 1 sustitución de fichero base (corvette -2). Pendientes galería -1/-3 en baojun, silverado, han-l.

@@ -99,3 +99,13 @@ pasan a la tanda siguiente. Cada tanda: commit + push sin force + verificación 
 - Auditoría: 18/18 byte a byte contra las ramas trabajadoras; todas WebP <300 KB (máx. 270.582 B); 0 sobrescrituras de ficheros de HEAD.
 - CSV: 118 filas totales (100 + 18).
 - Pendiente para completar la tanda 3 (50): w047 (alpine-a290-gts-2026, alpine-a390-gt-2026) y w049 (audi-q4-sportback-e-tron-45-2026, audi-q5-sportback-e-hybrid-2026), reposiciones lanzadas; w051–w064 (28 slugs, baojun-enjoy-2025 … byd-yuan-up-2025), oleada 3 en curso.
+
+## TANDA 3 PARCIAL 2 (commits pequeños 10–25)
+- 14 fotos reales verificadas: w051 (baojun-enjoy-2025, beijing-bj40-2024), w056 (bmw-i4-edrive35-2025, bmw-i4-m50-xdrive-2026), w059 (bmw-serie-1-m135-2025, bmw-serie-2-active-tourer-225e-2025), w061 (bmw-serie-5-520i-2025, bmw-x6-xdrive40i-2026), w062 (byd-han-l-2025, byd-sealion-7-2025), w067 (chevrolet-corvette-e-ray-2025, chevrolet-silverado-ev-2025), w071 (cupra-terramar-15-etsi-2026, cupra-terramar-vz-ehybrid-2025).
+- Nombres según datos (no según encargo): baojun -2.webp, han-l -2.webp, silverado -2.webp, serie-2 -hero.webp (imagenOficial), edrive35 -hero.webp (imagenOficial; además -oficial con la misma foto). Corvette -2.webp SUSTITUYE un fichero de la base (195.148 B, foto de evento con placa Arnold Clark) por foto oficial de estudio (89.212 B); decide Grok.
+- Copias -hero (imagen de blog/ficha pendiente en base, misma foto): beijing-bj40, bmw-i4-m50, cupra-terramar-15, cupra-terramar-vz, byd-sealion-7, bmw-x6 (ya en parcial anterior).
+- Pendientes fuera de alcance (variantes de galería, no hero): -1.webp (imagen) y -3.webp (interior) de baojun, silverado y han-l; interiores de m135/520i. El hero (imagenOficial) de los 14 está cubierto.
+- Licencias: serie-2 Active Tourer CC0 1.0 (Wikimedia Commons, dominio público); resto licencia desconocida.
+- Caveats: baojun lleva pequeño eslogan en chino (parte de la foto oficial); bj40 es recorte 780 px elegido frente al set oficial con logos BAIC prominentes; edrive35 lleva crédito pequeño PAULTAN.ORG en esquina; 520i: página Motorlegend 403, procedencia por título/URL de búsqueda de imágenes + verificación visual G60.
+- Auditoría: 15/15 ficheros entregados byte a byte contra ramas (corvette requirió sobrescritura del disco viejo); todas WebP <300 KB (máx. 245.862 B).
+- CSV: 132 filas totales (118 + 14). Se incluyen en este commit los ficheros de asignación (fotos283-asignacion-resto.txt, fotos283-grupo324.txt).
