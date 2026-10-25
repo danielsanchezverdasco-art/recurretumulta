@@ -118,9 +118,9 @@ BMW no ha anunciado el precio. Como referencia de la gama, consulta la <a href=/
   },
   {
     slug: "byd-dolphin-surf-2027-segunda-generacion",
-    title: "BYD Dolphin Surf 2027: 4,21 m, 129 CV y carga en 5 minutos",
+    title: "BYD Seagull 2027: el Dolphin Surf crece a 4,21 m",
     excerpt:
-      "BYD Seagull 2ª generación (Dolphin Surf en Europa): 4,21 m, 129 CV traseros, frunk de 94 L y carga del 10 al 70 % en 5 minutos. Debuta el 20 de octubre.",
+      "Segunda generación del Seagull: 4,21 m, 129 CV traseros, frunk de 94 L y carga del 10 al 70 % en 5 minutos. Debut el 20 de octubre en China.",
     category: "Novedades Motor",
     date: "2026-10-16",
     readTime: 7,
@@ -135,15 +135,17 @@ BMW no ha anunciado el precio. Como referencia de la gama, consulta la <a href=/
     ],
     content: `<img src=/media/byd-dolphin-surf-2027-hero.webp alt=Segunda generación del BYD Seagull, coche eléctrico blanco, vista tres cuartos delantera>
 
-*Foto: Autonocion (autonocion.com). Fotografía real de la segunda generación del BYD Seagull en China, publicada con la noticia de su lanzamiento. Licencia desconocida.*
+*Foto: imagen de Autonocion captada en China, difundida junto a la noticia del lanzamiento.*
 
-**Ficha completa del modelo actual:** <a href=/coches/byd-dolphin-surf-precio-ficha-tecnica/>BYD Dolphin Surf — ficha técnica, precio y autonomía</a>
+<a href=/coches/byd-dolphin-surf-precio-ficha-tecnica/>Ficha técnica del BYD Dolphin Surf</a>
 
-El coche eléctrico más vendido de China se hace mayor. La **segunda generación del BYD Seagull** — que en Europa conocemos como **Dolphin Surf** — ya es una realidad: crece **42,5 centímetros hasta los 4,21 metros**, estrena **motor trasero de 129 CV**, incorpora un **frunk eléctrico de 94 litros** y promete **cargar del 10 al 70 % en 5 minutos**. El lanzamiento oficial en China es el **martes 20 de octubre**, aunque la preventa ya está abierta desde el 9 de octubre con un depósito reembolsable de unos 270 euros.
+El trono del coche más vendido de China ha cambiado de manos este año, y BYD responde agrandando su modelo de acceso. El Geely Xingyuan, conocido en Europa como EX2, le ha arrebatado el liderato al Seagull, y la segunda generación que se presenta el martes 20 de octubre quiere recuperarlo con un salto de tamaño y de tecnología impropio de un urbano barato. En Europa lo conoceríamos como Dolphin Surf, aunque BYD todavía no ha confirmado nada sobre su llegada.
 
-El cambio no es casual: el Seagull ha perdido este año el trono del coche más vendido en China frente al **Geely Xingyuan** (que en Europa se vende como EX2). Esta nueva generación, más grande y avanzada, busca recuperar el liderato.
+Desde el 9 de octubre puede dejarse una señal reembolsable cercana a 270 euros para reservarlo en China, antes del estreno oficial del día 20.
 
-## Primera generación frente a segunda: la tabla definitiva
+## De urbano pequeño a utilitario con cinco plazas
+
+El crecimiento es el dato que lo cambia todo: 42,5 centímetros más hasta alcanzar 4,21 metros, con una batalla que pasa de 2,50 a 2,65 metros. El ancho sube a 1,81 metros y la altura a 1,57, y el habitáculo gana una quinta plaza. Dicho de otro modo, el coche abandona el segmento A para instalarse en el B, el de los utilitarios grandes, y eso le permite pelear con rivales de otra talla y ofrecer un maletero mucho más aprovechable.
 
 | Dato verificado | 1.ª generación | 2.ª generación |
 |---|---|---|
@@ -162,29 +164,25 @@ El cambio no es casual: el Seagull ha perdido este año el trono del coche más 
 | Frunk | No | 94 L (eléctrico) |
 | LiDAR | No disponible | Opcional en el techo |
 
-Datos del MIIT chino (ficha de homologación) recopilados por CarNewsChina; autonomías WLTP estimadas a partir del ciclo chino CLTC.
+La homologación china del MIIT, recogida por CarNewsChina, respalda estas medidas; las cifras WLTP son una estimación calculada desde el ciclo CLTC, no valores oficiales europeos.
 
 <img src=/media/byd-dolphin-surf-2027-lateral.webp alt=Segunda generación del BYD Seagull en rosa, vista tres cuartos delantera con sensor LiDAR en el techo>
 
-*Foto: somoselectricos.com. Imagen de estudio de la segunda generación del BYD Seagull; se aprecia el sensor LiDAR sobre el techo en las versiones más equipadas. Licencia desconocida.*
+*Foto: toma de estudio de somoselectricos.com donde se aprecia el sensor sobre el techo.*
 
-## Tracción trasera y carga ultrarrápida
+## Motor detrás, suspensión nueva y una carga que promete minutos
 
-El cambio mecánico más importante: el motor pasa del eje delantero al **trasero** y casi duplica su potencia (de 75 a **129 CV**), con una nueva **suspensión trasera independiente multibrazo** que debería mejorar comportamiento y confort. Las baterías siguen siendo **LFP Blade** de 30 y 39,2 kWh, con 320 y 420 km de autonomía en el ciclo chino CLTC.
+La potencia casi se duplica: 95 kW, equivalentes a 129 caballos, frente a los 75 del modelo anterior, y el propulsor cambia de eje, del delantero al trasero. La punta también mejora, de 130 a 150 km/h, y detrás aparece una suspensión independiente multibrazo, pensada para mejorar tanto el comportamiento como el confort. Las baterías siguen la receta LFP Blade, con 30 y 39,2 kWh, y homologan 320 y 420 kilómetros en ciclo chino CLTC.
 
-La gran promesa es la **carga ultrarrápida Flash Charging**: del **10 al 70 % en 5 minutos** y hasta el 97 % en 9 minutos en las versiones superiores. Ojo: está por confirmar si usan las baterías Blade de segunda generación, así que estos tiempos habrá que verificarlos en uso real.
+Con el sistema Flash Charging, las versiones altas anuncian cinco minutos para pasar del 10 al 70 %, y nueve para alcanzar el 97 %. Es la cifra que más titulares genera, pero conviene mantener la prudencia: falta confirmar si montan la segunda generación de baterías Blade, así que conviene esperar a pruebas reales antes de fiarse de esos tiempos.
 
-## Tecnología de segmento superior: LiDAR y God’s Eye
+## Tecnología prestada de gamas superiores
 
-BYD quiere llevar a su modelo de acceso tecnologías de gamas altas: las versiones más equipadas montan un **sensor LiDAR en el techo** para el sistema **God’s Eye B (DiPilot 300)**, con funciones de conducción asistida avanzada. En el interior hay **volante de dos radios**, selector de marchas en la columna de dirección, **asientos delanteros eléctricos con masaje para el conductor** y una fila de botones físicos bajo la pantalla. Se ofrecerá en seis colores: verde, naranja, rosa, gris, blanco y azul.
+Las versiones más equipadas añaden un sensor LiDAR en el techo, pieza clave del sistema God's Eye B (DiPilot 300) de conducción asistida avanzada. Dentro destacan un volante con dos radios, el cambio en la columna, asientos delanteros con ajuste eléctrico y masaje en el del conductor, y botones físicos debajo de la pantalla, un detalle que muchos conductores agradecerán frente al todo táctil. La paleta prevista suma seis tonos: rosa, azul, gris, blanco, naranja y verde.
 
-## ¿Y en Europa? El Dolphin Surf que viene
+## Europa: nombre probable, calendario en blanco
 
-BYD **no se ha pronunciado aún sobre Europa** con esta nueva generación, pero todo apunta a que llegará como el nuevo **Dolphin Surf** (se espera que mantenga el nombre dentro de la familia Dolphin). Si mantiene los cambios, pasará a competir con el **Geely EX2**, el **Leapmotor B03** y el **Volkswagen ID. Polo**. Referencia: el Dolphin Surf actual cuesta en España **entre 20.140 y 24.490 euros**, y el nuevo, al subir de segmento, elevará el precio.
-
-Tienes el análisis del modelo actual en <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf MY26: 5 plazas y precio en España</a> y su <a href=/coches/byd-dolphin-surf-precio-ficha-tecnica/>ficha técnica completa</a>.
-
-## Lo que aún no se sabe (y no hay que inventar)
+BYD no se ha pronunciado aún sobre esta generación para Europa, pero todo apunta a que mantendrá el nombre Dolphin Surf dentro de la familia Dolphin. Si se confirma, peleará contra Geely EX2, Leapmotor B03 y Volkswagen ID. Polo. Como punto de comparación, el Surf que hoy se vende en España ronda de 20.140 a 24.490 euros; el nuevo, al crecer de segmento, costará más. El análisis del modelo actual está en <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf MY26: 5 plazas y precio en España</a>, y su <a href=/coches/byd-dolphin-surf-precio-ficha-tecnica/>ficha técnica completa</a> recoge precio y autonomía vigentes.
 
 | Dato | Estado |
 |---|---|
@@ -196,33 +194,33 @@ Tienes el análisis del modelo actual en <a href=/blog/byd-dolphin-surf-my26-5-p
 
 ## Preguntas frecuentes
 
-### ¿Cuándo sale la segunda generación del BYD Seagull?
+### ¿Cuándo se presenta en China y cómo se puede reservar?
 
-El lanzamiento oficial en China es el 20 de octubre de 2026. La preventa está abierta desde el 9 de octubre con un depósito reembolsable de unos 270 euros.
+El estreno oficial es el 20 de octubre de 2026; desde el 9 de octubre puede dejarse una señal reembolsable cercana a 270 euros.
 
-### ¿Cuánto mide el nuevo BYD Seagull?
+### ¿Cuánto ha crecido respecto al modelo anterior?
 
-4,21 m de largo (4.205 mm), 1,81 m de ancho y 1,57 m de alto, con 2,65 m de batalla. Crece 42,5 cm respecto a la primera generación y pasa del segmento A al B, con 5 plazas.
+Hasta 4,21 metros de largo (4.205 milímetros), con 1,81 de ancho, 1,57 de alto y 2,65 de batalla: 42,5 centímetros más, cinco plazas en lugar de cuatro y un salto del segmento A al B.
 
-### ¿Qué potencia tiene el BYD Seagull 2027?
+### ¿Qué cambia bajo la carrocería?
 
-95 kW (129 CV) en el eje trasero, frente a los 75 CV delanteros de la primera generación. La velocidad máxima sube de 130 a 150 km/h.
+95 kW en el eje trasero, o sea 129 caballos, frente a 75 en el delantero del anterior; la punta pasa de 130 a 150 km/h y la suspensión trasera es independiente multibrazo.
 
-### ¿Qué autonomía tiene el nuevo Seagull?
+### ¿Qué autonomía y qué carga anuncia?
 
-320 km con la batería de 30 kWh y 420 km con la de 39,2 kWh en ciclo chino CLTC (unos 259 y 340 km en WLTP, estimado). Son datos de la homologación china.
+Con 30 kWh anuncia 320 kilómetros y con 39,2 kWh, 420, siempre en ciclo chino CLTC, lo que equivaldría a unos 259 y 340 en WLTP. Anuncian 5 minutos del 10 al 70 % —según BYD, con Flash Charging— y 9 minutos hasta el 97 %, aunque falta la verificación en uso real.
 
-### ¿Cuánto tarda en cargar?
+### ¿Llegará a España y a qué precio?
 
-Las versiones superiores prometen del 10 al 70 % en 5 minutos con la carga ultrarrápida Flash Charging de BYD, aunque está pendiente de verificación en uso real.
+BYD no lo ha anunciado. Hoy, el Surf en España se sitúa de 20.140 a 24.490 euros. Consulta su <a href=/coches/byd-dolphin-surf-precio-ficha-tecnica/>ficha técnica aquí</a>.
 
-### ¿Cuándo llegará a España como Dolphin Surf?
+### ¿Qué queda todavía por confirmar?
 
-BYD no lo ha anunciado. El Dolphin Surf actual se vende en España entre 20.140 y 24.490 euros; tienes su <a href=/coches/byd-dolphin-surf-precio-ficha-tecnica/>ficha técnica aquí</a>.
+El precio en China (se estima en torno a 100.000 yuanes, unos 13.000 euros, sin confirmar), la fecha europea, si las baterías son Blade de segunda generación, los tiempos de carga reales y el consumo WLTP oficial. Nada de eso conviene darlo por cerrado todavía.
 
-**¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.
+*Fuentes: <a href=https://www.autonocion.com/motornocion/byd-seagull-dolphin-surf-segunda-generacion-china/>Autonocion (lanzamiento y datos, 15/10/2026)</a>, <a href=https://carnewschina.com/2026/09/25/second-gen-byd-seagull-cabin-revealed-as-ev-grows-into-a-4-2-meter-five-seat-hatchback/>CarNewsChina (ficha del MIIT y comparativa)</a>, <a href=https://electrek.co/2026/09/24/byd-releases-first-official-images-bigger-seagull-ev/>Electrek (imágenes oficiales e interior)</a>, <a href=https://www.somoselectricos.com/coches-electricos/nuevo-byd-seagull-lanza-semana-que-viene-son-todas-novedades-que-trae/20261015082511064369.html>Somos Eléctricos (carga ultrarrápida y LiDAR)</a>.*
 
-*Fuentes: <a href=https://www.autonocion.com/motornocion/byd-seagull-dolphin-surf-segunda-generacion-china/>Autonocion (lanzamiento y datos, 15/10/2026)</a>, <a href=https://carnewschina.com/2026/09/25/second-gen-byd-seagull-cabin-revealed-as-ev-grows-into-a-4-2-meter-five-seat-hatchback/>CarNewsChina (ficha del MIIT y comparativa)</a>, <a href=https://electrek.co/2026/09/24/byd-releases-first-official-images-bigger-seagull-ev/>Electrek (imágenes oficiales e interior)</a>, <a href=https://www.somoselectricos.com/coches-electricos/nuevo-byd-seagull-lanza-semana-que-viene-son-todas-novedades-que-trae/20261015082511064369.html>Somos Eléctricos (carga ultrarrápida y LiDAR)</a>.*`,
+**¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.`,
   },
   {
     slug: "tesla-roadster-2028-presentacion",

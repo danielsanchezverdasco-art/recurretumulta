@@ -108,7 +108,7 @@ Con 470 CV bajo el pie derecho, ojo con los límites: si te llega una <a href=ht
   {
     title: "Renault 4 E-Tech: desde 27.954 €",
     slug: "renault-4-e-tech-precio-autonomia",
-    excerpt: "El Renault 4 resucita como SUV urbano 100 % eléctrico: 4,14 m, hasta 408 km de autonomía y maletero de 375 litros. Precios en España desde 27.954 €.",
+    excerpt: "El Renault 4 vuelve como SUV urbano eléctrico: 4,14 m, hasta 408 km y 375 L de maletero, desde 27.954 € en España.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -125,38 +125,34 @@ Con 470 CV bajo el pie derecho, ojo con los límites: si te llega una <a href=ht
 
 **¿Buscas solo los datos?** <a href=/coches/renault-4-e-tech-precio-autonomia/>Ver ficha técnica del Renault 4 E-Tech</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-Tras el éxito del R5, Renault repite la jugada de la nostalgia con el mito mayor: el **Renault 4**, el "4Latas", vuelve como **SUV urbano 100 % eléctrico**. Mide 4,14 metros, ofrece hasta **408 km de autonomía**, un maletero de 375 litros y hasta techo eléctrico de lona como el original. En España parte de **27.954 €** y ya está en los concesionarios.
+Después del éxito del R5, Renault vuelve a tirar de nostalgia con su mito mayor: el **Renault 4**, el "4Latas", regresa convertido en **SUV urbano totalmente eléctrico**. Mide 4,14 metros, alcanza hasta **408 km de autonomía**, ofrece un maletero de 375 litros y puede llevar un techo de lona eléctrico, guiño al original. En España, el precio de partida es de **27.954 €** y ya se vende en concesionarios.
 
-## La noticia
+## El regreso
 
-El 4 E-Tech comparte la plataforma **AmpR Small** con el Renault 5 (un 68 % de piezas comunes), pero con una carrocería más alta, más larga y más práctica: es el hermano sensato del R5. Añade el sistema **Extended Grip** para firmes deslizantes y puede remolcar hasta **750 kg**, algo raro en un eléctrico de este tamaño. Todo, fabricado en Europa.
+El 4 E-Tech usa la plataforma **AmpR Small**, la misma del Renault 5, con un 68 % de piezas en común, pero su carrocería es más alta, más larga y más práctica: viene a ser el hermano sensato del R5. Incorpora el sistema **Extended Grip** para superficies deslizantes y admite remolcar hasta **750 kg**, algo poco habitual en un eléctrico de este tamaño. Todo ello, producido en Europa.
 
-La gama articula dos baterías: 40 kWh (122 CV, 308 km) y 52 kWh (150 CV, 397-408 km según acabado).
+La gama se articula en dos baterías: 40 kWh, con 122 CV y 308 km, y 52 kWh, con 150 CV y 397-408 km según el acabado.
 
-## Precio y versiones en España
+## Precios y versiones en España
 
-- **Evolution 122 CV (40 kWh)**: desde 27.954 €
-- **Evolution 150 CV (52 kWh)**: desde 30.819 €
-- **Techno 150 CV (52 kWh)**: desde 32.729 €
-- **Iconic 150 CV (52 kWh)**: desde 34.639 €
-- Techo eléctrico de lona: +1.700 € en cualquier versión
+La entrada a la gama es la Evolution con 122 CV y batería de 40 kWh, que parte de 27.954 €. Subiendo a 150 CV y 52 kWh, la Evolution cuesta desde 30.819 €, la Techno desde 32.729 € y la Iconic desde 34.639 €. Añadir el techo de lona supone 1.700 € más en cualquiera de ellas.
 
 <img src=/media/renault-4-e-tech-precio-autonomia-oficial.webp alt=Renault 4 E-Tech eléctrico, vista frontal tres cuartos>
 
 <img src=/media/renault-4-e-tech-precio-autonomia-interior-oficial-2.webp alt=Interior oficial del renault 4 e tech precio autonomia>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
+¿Te cuadra el presupuesto? <a href=/mejor-coche-por-presupuesto/>Encuentra el mejor coche según tu presupuesto</a>.
 
-## Curiosidades que quizá no sabías
+## Detalles curiosos
 
-- **El 4L original vendió más de 8 millones** de unidades entre 1961 y 1994: fue el coche francés más vendido de la historia.
-- **Comparte el 68 % de las piezas con el R5**, pero Renault insiste en que no es "un R5 alto": tiene chasis, suspensiones y puesta a punto propios.
-- **El techo de lona eléctrico** es un guiño directo al 4L original descapotable, icono de la costa francesa.
-- **Tapicería "jean"**: los asientos usan tejido vaquero 100 % reciclado con pespuntes y remaches de cobre.
-- **Remolca 750 kg**: casi ningún urbano eléctrico puede presumir de gancho de remolque.
-- **Las plazas traseras son justas**: la prensa que lo ha probado avisa de que dos adultos viajan apretados atrás, su punto más débil frente al R5.
+- Entre 1961 y 1994, el 4L original colocó más de ocho millones de unidades y se convirtió en el turismo francés con más ventas de todos los tiempos.
+- Aunque comparte el 68 % de componentes con el R5, Renault recalca que no se trata de "un R5 alto": chasis, suspensiones y puesta a punto son propios.
+- El techo de lona eléctrico evoca al 4L original sin techo rígido, un icono asociado a la costa francesa.
+- Los asientos llevan tapicería tipo vaquero, con tejido 100 % reciclado, pespuntes y remaches de cobre.
+- Puede remolcar 750 kg, algo que casi ningún urbano eléctrico ofrece con gancho.
+- Detrás, dos adultos van justos de espacio, según la prensa que lo ha probado; ese es su punto más flojo frente al R5.
 
-## Rivales directos
+## Con quién compite
 
 | Modelo | Autonomía WLTP | Maletero | Precio desde |
 |---|---|---|---|
@@ -165,9 +161,9 @@ La gama articula dos baterías: 40 kWh (122 CV, 308 km) y 52 kWh (150 CV, 397-40
 | Citroën ë-C3 Aircross | ~300 km | 460 L | ~25.000 € |
 | BYD Atto 2 | ~312 km | 400 L | ~29.000 € |
 
-Los hemos enfrentado en detalle: <a href=/blog/renault-4-e-tech-vs-renault-5-e-tech-cual-comprar/>Duelo Renault 4 E-Tech vs Renault 5 E-Tech</a>.
+Los hemos comparado en profundidad: <a href=/blog/renault-4-e-tech-vs-renault-5-e-tech-cual-comprar/>Duelo Renault 4 E-Tech frente a Renault 5 E-Tech</a>.
 
-## Pros y contras
+## A favor y en contra
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -179,33 +175,33 @@ Los hemos enfrentado en detalle: <a href=/blog/renault-4-e-tech-vs-renault-5-e-t
 
 <iframe src=https://www.youtube.com/embed/9hjc6YnVLR8 title=Prueba del Renault 4 E-Tech en español style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem; allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=9hjc6YnVLR8>carwow España (JF Calero)</a> en YouTube.
+Vídeo en YouTube: <a href=https://www.youtube.com/watch?v=9hjc6YnVLR8>prueba de carwow España (JF Calero)</a>.
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuánto cuesta el Renault 4 E-Tech en España?
-Desde 27.954 € en la versión Evolution de 122 CV y 40 kWh. La versión de 150 CV y 52 kWh parte de 30.819 €.
+### ¿Desde cuánto cuesta en España?
+Desde 27.954 €, con la Evolution de 122 CV y batería de 40 kWh. La siguiente, de 150 CV y 52 kWh, arranca en 30.819 €.
 
-### ¿Qué autonomía tiene el Renault 4 E-Tech?
-308 km con la batería de 40 kWh y entre 397 y 408 km con la de 52 kWh, según el acabado (ciclo WLTP).
+### ¿Qué autonomía ofrece?
+Con 40 kWh, el alcance es de 308 km; con 52 kWh, oscila entre 397 y 408 km dependiendo del acabado, en ciclo WLTP.
 
-### ¿El Renault 4 E-Tech tiene techo descapotable?
-Puede equipar un techo eléctrico de lona por unos 1.700 €, un homenaje al 4L original.
+### ¿Se puede pedir con techo descapotable?
+Sí, se puede pedir un techo de lona eléctrico por unos 1.700 €, como homenaje al 4L original.
 
-### ¿Dónde se fabrica el Renault 4 E-Tech?
-En Europa, sobre la plataforma AmpR Small compartida con el Renault 5 E-Tech.
+### ¿Dónde se produce?
+En Europa, sobre la plataforma AmpR Small que comparte con el Renault 5 E-Tech.
 
-### ¿Qué diferencia hay entre el Renault 4 y el Renault 5 eléctricos?
-El 4 es más alto, más largo y más práctico (más maletero, 5 plazas más desahogadas delante, remolque de 750 kg); el 5 es más bajo, más deportivo y con algo más de autonomía. Comparten el 68 % de las piezas.
+### ¿En qué se diferencia del Renault 5 eléctrico?
+Frente al 5, el 4 gana en altura, longitud y practicidad, con más maletero, plazas delanteras más amplias y capacidad de remolque de 750 kg; el 5, en cambio, es más bajo, más deportivo y ofrece algo más de autonomía. Ambos comparten el 68 % de piezas.
 
-### ¿Tiene etiqueta CERO de la DGT?
-Sí, al ser 100 % eléctrico le corresponde la etiqueta CERO, con acceso libre a las ZBE. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+### ¿Qué distintivo DGT le toca?
+Al ser totalmente eléctrico, le corresponde el distintivo CERO y puede entrar libremente en las ZBE. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
-Si estrenas eléctrico, recuerda que el silencio del motor engaña con la velocidad: un <a href=https://recurretumulta.online/guias/radares>radar</a> no perdona ni a los retro. Si te llega una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+Si estrenas un eléctrico, ten en cuenta que el silencio del motor engaña con la velocidad: un <a href=https://recurretumulta.online/guias/radares>radar</a> no perdona ni a los retro. Si te llega una multa, <a href=https://recurretumulta.online/#analizador>revísala gratis con nuestra IA</a> antes de pagar.
 
-## Fuentes
+## Dónde comprobarlo
 
-- <a href=https://www.dgt.es/>DGT: comprueba qué etiqueta ambiental le corresponde y las zonas de bajas emisiones donde puede circular</a>`
+- <a href=https://www.dgt.es/>DGT: revisa qué distintivo ambiental te toca y en qué zonas de bajas emisiones puedes entrar</a>`
   },
   {
     title: "Peugeot E-5008: 668 km",

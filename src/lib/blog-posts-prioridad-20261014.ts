@@ -13023,8 +13023,8 @@ Mantenimiento reducido eléctrico (modelo similar Pulse / Origin): cadena silenc
   },
   {
     slug: "can-am-pulse-2026-precio-ficha-tecnica",
-    title: "Can-Am Pulse 2026 precio en España: 13.199 €, 47 CV",
-    excerpt: "Can-Am Pulse 2026: precio aproximado no oficial en España, 47 CV y ficha técnica. Desde 13.199 €. Opinión, rivales y qué mirar antes de comprar.",
+    title: "Can-Am Pulse 2026: eléctrica urbana A2 desde 13.199 €",
+    excerpt: "La Pulse 2026 combina 47 CV, 72 Nm y 176 kg para ciudad con carnet A2, cadena que se tensa sola y batería con 5 años de cobertura.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 5,
@@ -13032,17 +13032,17 @@ Mantenimiento reducido eléctrico (modelo similar Pulse / Origin): cadena silenc
     keywords: ["Can-Am Pulse 2026", "Can-Am Pulse precio", "Can-Am Pulse ficha técnica", "Can-Am Pulse opiniones", "motos Can-Am 2026"],
     content: `<img src=/media/can-am-pulse-2026-ficha-tecnica-precio-hero.webp alt=Can-Am Pulse 2026>
 
-*Foto: Can-Am (no oficial). Foto NO oficial de prensa del fabricante. Licencia desconocida / posible copyright.*
+*Foto: imagen de Can-Am, material no oficial del fabricante.*
 
-## Can-Am Pulse 2026: precio, ficha y qué mirar antes de comprar
+## Para el trayecto diario, sin gasolina y con el A2
 
-La Can-Am Pulse 2026 es una moto de categoría Eléctrica urbana con carnet A2. Declara 47 CV (34.6 kW) , motor eléctrico. En esta guía tienes el precio, la ficha técnica, la historia del modelo, el mantenimiento, la garantía y las preguntas frecuentes. <a href=/motos/can-am-pulse-2026-ficha-tecnica-precio/>Ver ficha completa</a> · <a href=/motos/can-am-pulse-2026-ficha-tecnica-precio/>← Volver a la ficha</a>
+Si tus desplazamientos habituales se mueven entre casa, el trabajo y los recados, y tienes un enchufe donde dejarla por la noche, esta moto canadiense encaja sin forzar el uso. Circula en silencio, reacciona al instante al abrir gas y te olvidas del surtidor. Su propulsor eléctrico entrega 47 CV (34.6 kW), justo el máximo que admite el permiso A2 sin recortes, acompañado de un par de 72 Nm disponible desde el primer giro de rueda. Pesa 176 kg y el asiento queda a 765 mm, así que aparcarla y moverla en parado no exige una gran envergadura. <a href=/motos/can-am-pulse-2026-ficha-tecnica-precio/>Ver ficha completa</a> · <a href=/motos/can-am-pulse-2026-ficha-tecnica-precio/>← Volver a la ficha</a>
 
-## Precio en España
+## Lo que costaría en España, con cautela
 
-Precio aproximado no oficial desde 13.199 €. El PVP puede variar por promoción, comunidad autónoma y gastos de matriculación. Confírmalo en la web oficial de Can-Am o en un concesionario antes de comprar.
+El importe orientativo, sin carácter oficial, parte de 13.199 €. Esa cantidad puede cambiar por promociones, por la comunidad autónoma donde se matricule y por los gastos de gestión, así que conviene confirmarla en la página oficial de Can-Am o en una tienda antes de cerrar la compra. Frente a naked de gasolina del mismo permiso, mucho más baratas de entrada, la cuenta solo se equilibra si sumas varios años de ahorro en combustible y taller, o si te compensa circular en silencio con etiqueta cero por zonas de bajas emisiones. Para rutas largas por autovía, su enfoque ciudadano sigue marcando el límite.
 
-## Ficha técnica
+## Todos los datos, reunidos
 
 | Dato | Valor |
 |---|---|
@@ -13060,34 +13060,19 @@ Precio aproximado no oficial desde 13.199 €. El PVP puede variar por promoció
 
 <img src=/media/can-am-pulse-2026-ficha-tecnica-precio-2.webp alt=Can-Am Pulse 2026, detalle>
 
-*Foto: polarisofchadron.com (no oficial). Foto NO oficial de prensa del fabricante. Licencia desconocida / posible copyright.*
-## Historia del modelo
+*Foto: imagen facilitada por polarisofchadron.com, origen externo sin carácter oficial.*
 
-- 2024: presentación Pulse/Origin
-- 2025: llegada a España
-- 2026: continuidad
+## Quién está detrás: un grupo canadiense de ocio con motor
 
-## Mantenimiento
+Can-Am pertenece a BRP, siglas de Bombardier Recreational Products, un grupo de Canadá conocido por las motos de nieve Ski-Doo, las acuáticas Sea-Doo y los quads que triunfan en Norteamérica. Su vuelta a las dos ruedas apuesta por la electricidad y por dos hermanas que comparten plataforma, propulsor y batería: la Pulse, pensada para la ciudad, y la Origin, con vocación trail para salir del asfalto. Para BRP no se trata de un capricho marginal: es su vía de entrada hacia compradores que quizá jamás tengan una moto de gasolina.
 
-Mantenimiento reducido eléctrico (modelo similar Pulse / Origin): cadena silenciosa con tensor automático, sin mantenimiento periódico de tensión; resto de revisiones según manual BRP (ficha oficial BRP).
+## Tres años que explican dónde está ahora
 
-## Garantía
+La continuidad define a la versión 2026, que mantiene el planteamiento de la gama. Un año antes, en 2025, el modelo llegó a España. Y todo arrancó en 2024, cuando se presentaron juntas la Pulse y la Origin. Ese recorrido corto explica que la moto de este año no busque reinventarse: afina una fórmula ya conocida.
 
-2 años moto + 5 años batería (según Motosan; verificar en Can-Am)
+## En ciudad, el par manda más que la potencia
 
-## Rivales y alternativas
-
-- <a href=/motos/can-am-pulse-2025-ficha-tecnica-precio/>Can-Am Pulse 2025</a>
-- <a href=/motos/can-am-origin-2025-ficha-tecnica-precio/>Can-Am Origin 2025</a>
-- <a href=/motos/can-am-pulse-2024-ficha-tecnica-precio/>Can-Am Pulse 2024</a>
-- <a href=/motos/can-am-origin-2024-ficha-tecnica-precio/>Can-Am Origin 2024</a>
-- <a href=/motos/can-am-pulse-ficha-tecnica-precio/>Can-Am Pulse (35 kW)</a>
-
-## BRP: el gigante canadiense de los juguetes con motor
-
-Detrás de Can-Am está BRP, el grupo canadiense de Bombardier Recreational Products: el mismo fabricante de las motos de nieve Ski-Doo, las de agua Sea-Doo y los quads que dominan el mercado norteamericano. Su regreso a las dos ruedas llega en clave eléctrica y con dos hermanas complementarias, la urbana Pulse y la trail Origin, que comparten plataforma, motor y batería. Para BRP no es un experimento de nicho: es la puerta de entrada a una generación de clientes que quizá nunca tendrá una moto de gasolina.
-
-## La Pulse en cifras, sin adornos
+Los 72 Nm desde parado cambian la sensación al salir de un semáforo: la respuesta es inmediata, sin esperar a que suba de vueltas ningún motor térmico, y los 47 CV la sitúan justo en el tope del A2. Su masa, contenida para tratarse de una eléctrica con batería integrada, facilita los giros lentos, cambios de carril y maniobras de aparcamiento, que son justo los movimientos que dominan su entorno natural. En ese escenario, una 500 de gasolina no iguala su inmediatez en los primeros metros.
 
 | Dato de la Pulse 2026 | Cifra | Qué implica |
 |---|---|---|
@@ -13099,45 +13084,49 @@ Detrás de Can-Am está BRP, el grupo canadiense de Bombardier Recreational Prod
 | Garantía de la batería | 5 años o 50.000 km | Respaldada por BRP según su ficha |
 | Precio aproximado | Desde 13.199 € no oficial | A confirmar en concesionario |
 
-El par de 72 Nm entregado desde la primera vuelta de rueda define su carácter: en tráfico urbano la Pulse se mueve con una inmediatez que una 500 de gasolina no iguala saliendo de un semáforo, y sus 47 CV la colocan exactamente en el límite que el A2 permite sin limitación alguna. El peso de 176 kg, contenido para una eléctrica con su batería integrada, la hace manejable en las maniobras lentas que dominan su hábitat natural.
+## Un taller que casi desaparece
 
-## La cadena silenciosa: el mantenimiento que desaparece
+El detalle técnico más atractivo es la cadena en baño de aceite que se tensa por sí sola: desaparece el ritual de ajustar y engrasar cada pocos cientos de kilómetros. A eso se añade lo que cualquier eléctrica ahorra por naturaleza: no hay aceite de motor que sustituir, tampoco filtro de aire, y las pastillas de freno aguantan mucho más porque la retención regenerativa frena parte del trabajo. En la práctica, el mantenimiento programado se reduce a líquidos, neumáticos y revisiones de control siguiendo el manual de BRP. Ninguna otra propuesta de una marca grande se acerca tanto a la idea de una moto sin taller.
 
-La guía original ya subraya el detalle técnico más interesante: una cadena en baño de aceite con tensor automático que elimina el ritual de tensar y engrasar cada pocos cientos de kilómetros. Súmale lo que toda eléctrica ahorra por definición —sin aceite de motor que cambiar, sin filtro de aire, con pastillas de freno que duran mucho más gracias a la retención regenerativa— y el mantenimiento programado queda reducido a líquidos, neumáticos y revisiones de control según el manual de BRP. Es, en la práctica, lo más parecido a una moto sin taller que vende una marca grande.
+## Cobertura: dos años para la moto, cinco para la batería
 
-## Una A2 eléctrica: para quién tiene sentido y para quién no
+La cobertura del vehículo dura 2 años, mientras que la batería queda cubierta 5 años o hasta 50.000 km, según la ficha oficial de BRP para Pulse y Origin. Esa segunda cifra pesa mucho en una eléctrica: es la pieza más cara y la que más dudas genera al comprar. Antes de firmar, conviene verificar las condiciones exactas en Can-Am, porque algunas informaciones citan a Motosan como fuente de ese desglose.
 
-La Pulse cobra sentido con un patrón de uso muy concreto: desplazamientos urbanos e interurbanos cortos, carga en casa o en el trabajo y gusto por la tecnología. Su precio aproximado no oficial de 13.199 € la enfrenta a naked A2 de gasolina mucho más baratas, así que la cuenta solo sale sumando el ahorro en combustible y mantenimiento durante varios años, o valorando el silencio y la etiqueta cero en ciudades con zonas de bajas emisiones. Para viajes largos por autovía, su planteamiento urbano sigue siendo el límite que la propia ficha reconoce.
+## Otras opciones de la misma familia
 
-## Pulse 2026, Pulse 2025 u Origin: veredicto
+- <a href=/motos/can-am-pulse-2025-ficha-tecnica-precio/>Can-Am Pulse 2025</a>
+- <a href=/motos/can-am-origin-2025-ficha-tecnica-precio/>Can-Am Origin 2025</a>
+- <a href=/motos/can-am-pulse-2024-ficha-tecnica-precio/>Can-Am Pulse 2024</a>
+- <a href=/motos/can-am-origin-2024-ficha-tecnica-precio/>Can-Am Origin 2024</a>
+- <a href=/motos/can-am-pulse-ficha-tecnica-precio/>Can-Am Pulse (35 kW)</a>
 
-La <a href=/motos/can-am-origin-2025-ficha-tecnica-precio/>Can-Am Origin</a> comparte plataforma con vocación trail para quien salga del asfalto, y la <a href=/motos/can-am-pulse-2025-ficha-tecnica-precio/>Pulse del año anterior</a> puede aparecer con ofertas de stock; la 2026 es la compra de continuidad, con todos sus datos en <a href=/motos/can-am-pulse-2026-ficha-tecnica-precio/>la ficha de la Pulse</a>. **Veredicto:** merece la pena para el urbanita con enchufe propio que quiere una eléctrica de marca grande con garantía seria de batería; para quien haga carretera abierta cada fin de semana, una A2 de gasolina sigue siendo la herramienta adecuada. 
+¿Para quién tiene sentido? Para el urbanita con enchufe propio que busque una eléctrica de una marca grande y una cobertura de batería solvente, la 2026 tiene sentido. Quien recorra carretera abierta cada fin de semana encontrará mejor aliada una A2 de gasolina. Entre las hermanas, la <a href=/motos/can-am-origin-2025-ficha-tecnica-precio/>Can-Am Origin</a> trail se orienta a salir del asfalto, mientras que una <a href=/motos/can-am-pulse-2025-ficha-tecnica-precio/>Pulse del ejercicio anterior</a> puede surgir con descuentos de stock. Todos los datos de la 2026 están en <a href=/motos/can-am-pulse-2026-ficha-tecnica-precio/>la ficha de la Pulse</a>.
 
-## Preguntas frecuentes
+## Dudas que conviene resolver antes de decidir
 
-### ¿Cuánto cuesta Can-Am Pulse 2026 en España?
+### ¿Qué desembolso orientativo se maneja en España?
 
-Precio: Precio aproximado no oficial: 13.199 € (Híbridos y Eléctricos / V2Charge, 'tras rebaja').
+Importe orientativo, sin carácter oficial: 13.199 €, citado por Híbridos y Eléctricos y V2Charge tras una rebaja.
 
-### ¿Qué potencia tiene Can-Am Pulse 2026?
+### ¿Cuánta fuerza declara su propulsor eléctrico?
 
-Potencia declarada: 47 CV (34.6 kW), motor eléctrico.
+Declara 47 CV (34.6 kW), con motor eléctrico.
 
-### ¿Qué carnet hace falta para Can-Am Pulse 2026?
+### ¿Con qué permiso se puede conducir?
 
-Carnet A2 (verificar en ficha oficial).
+Con el A2, verificándolo en la ficha oficial.
 
-### ¿Tiene prueba EuroNCAP Can-Am Pulse 2026?
+### ¿Existe una valoración Euro NCAP para ella?
 
-No. Las motos no tienen prueba EuroNCAP de coche; se indica honestamente 'sin datos EuroNCAP (motos no tienen prueba EuroNCAP)'.
+No. Las motocicletas quedan fuera de las pruebas de coche de Euro NCAP, así que consta honestamente la ausencia de datos.
 
-### ¿Qué garantía tiene Can-Am Pulse 2026?
+### ¿Cuánto dura la cobertura?
 
-Garantía del vehículo 2 años + garantía de la batería 5 años / 50.000 km (BRP, ficha oficial Pulse / Origin).
+Dos años para el vehículo y 5 años o 50.000 km para la batería, según la ficha oficial de BRP para Pulse y Origin.
 
-### ¿Cada cuánto se revisa Can-Am Pulse 2026?
+### ¿Qué intervalos de taller requiere?
 
-Mantenimiento reducido eléctrico (modelo similar Pulse / Origin): cadena silenciosa con tensor automático, sin mantenimiento periódico de tensión; resto de revisiones según manual BRP (ficha oficial BRP).
+Un mantenimiento eléctrico reducido, con cadena silenciosa que se tensa sola y sin ajuste periódico de tensión; el resto de revisiones sigue el manual de BRP.
 
 ## Enlaces
 

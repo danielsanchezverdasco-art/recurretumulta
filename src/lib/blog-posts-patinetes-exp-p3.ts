@@ -732,9 +732,9 @@ Prestaciones casi idénticas; el Burn-e 3 tiene más nombre y mercado de segunda
   // ────────────────────────── TEVERUN (7) ─────────────────────────
   {
     slug: "teverun-fighter-11",
-    title: "Teverun Fighter 11: 5.000 W por 2.250 €",
+    title: "Teverun Fighter 11: potencia doble y 85 km/h, sin DGT",
     excerpt:
-      "El Teverun Fighter 11 es el superventas de la marca: doble motor de 1.200 W, batería LG de 1.500 Wh, frenos Zoom hidráulicos y 85 km/h. Precio y ficha.",
+      "El Fighter 11 combina dos motores, batería LG y frenos Zoom por unos 2.250 €. Alcance real, precio y límites legales en España.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -755,9 +755,11 @@ Prestaciones casi idénticas; el Burn-e 3 tiene más nombre y mercado de segunda
 
 **¿Buscas solo los datos?** <a href=/patinetes/teverun-fighter-11/>Ver ficha técnica del Teverun Fighter 11</a>: precio, batería LG y potencia. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **Teverun Fighter 11** es el modelo que puso a Teverun en el mapa: **dos motores de 1.200 W** (5.000 W de pico), batería **LG de 1.500 Wh** (60V 25Ah), frenos de disco **hidráulicos Zoom** y **85 km/h** de máxima. En España se vende por **2.250 €** a través de distribuidores europeos.
+## Situación legal: lo primero que debes saber
 
-## Ficha técnica resumida
+Quien lo comercializa advierte desde el principio que carece de homologación DGT. Eso condiciona todo su uso en España: en vía pública solo puede rodar limitado a 25 km/h, como cualquier VMP, y nunca por aceras.
+
+Se entrega limitado. Quitar ese límite solo resulta legal en terreno privado; en la calle, circular sin límite puede acarrear sanciones.
 
 | Dato | Valor |
 |---|---|
@@ -771,25 +773,37 @@ El **Teverun Fighter 11** es el modelo que puso a Teverun en el mapa: **dos moto
 
 ¿Quieres el detalle completo? <a href=/patinetes/teverun-fighter-11/>Ficha técnica completa del Teverun Fighter 11</a>.
 
-## Precio del Teverun Fighter 11 en España
+## Precio y compra en Europa
 
-**2.249,99 €** con impuestos incluidos en distribuidores europeos como <a href=https://mazrider.com/en/products/electric-scooter-teverun-fighter-eleven-60-v-26-ah>Maz Rider</a>. Ojo al dato importante de su ficha: **"No Homologado DGT"**, es decir, en España solo puede circular limitado a 25 km/h como VMP.
+El importe ronda los 2.250 €, y en distribuidores europeos se ha visto en 2.249,99 € con impuestos incluidos, por ejemplo en <a href=https://mazrider.com/en/products/electric-scooter-teverun-fighter-eleven-60-v-26-ah>Maz Rider</a>.
+
+No hay un PVP oficial estable en España: conviene consultar el precio vigente en la tienda europea antes de pedirlo, porque la cifra puede cambiar con ofertas y stock.
 
 <img src=/media/patinetes/teverun-fighter-11-2.webp alt=Detalle de la pantalla TFT del Teverun Fighter 11>
 
-## Autonomía real vs declarada
+## Batería LG: celdas, alcance y carga
 
-Declara **80 km**; en uso real con doble motor y ritmo alegre, calcula **unos 54 km**. La batería LG es de celdas de primeras marcas, lo que se nota en degradación a largo plazo. La carga completa lleva muchas horas con el cargador de serie.
+La batería emplea celdas LG 21700, una referencia reputada dentro del segmento, y declara 60V 25Ah, es decir, 1.500 Wh. Esa base explica parte de su precio y de su comportamiento a largo plazo.
 
-## Frenos y neumáticos
+En la práctica, con doble motor y ritmo alegre, el alcance ronda los 54 km, lejos de los 80 km del catálogo. La diferencia entre cifra oficial y uso mixto es habitual en modelos de doble motor.
 
-**Discos hidráulicos Zoom** delante y detrás, con neumáticos **tubeless de 11 pulgadas**. Es un equipo serio para 85 km/h, muy por encima de los frenos mecánicos de patinetes baratos. La suspensión es de muelles hidráulicos.
+La carga completa con el cargador de serie lleva muchas horas: planifica enchufarlo con tiempo si lo usas a diario.
 
-## Certificado DGT y normativa VMP
+## Frenada, ruedas y equipamiento
 
-El distribuidor lo deja claro: **no homologado DGT**. En España, los VMP están limitados a **25 km/h**, con **prohibición de circular por aceras**. El Fighter 11 se vende limitado; deslimitarlo solo es legal en **terreno privado**. Multas por circular deslimitado en vía pública: las gestionamos cada semana.
+Delante y detrás monta discos hidráulicos Zoom, un equipo a la altura de sus 85 km/h de máxima, muy superior a los frenos mecánicos de los patinetes económicos.
 
-## Puntos fuertes y débiles
+Las ruedas son tubeless de 11 pulgadas: cómodas y con buen agarre, aunque su sustitución sale cara. La suspensión, de muelles hidráulicos, ayuda en baches y badenes.
+
+Suma una pantalla TFT de 3,5 pulgadas con NFC y un manillar ancho que en tráfico denso se hace notar. Pesa 35 kg, una cifra contenida si se compara con su potencia, pero que se nota al subirlo por escaleras.
+
+<img src=/media/patinetes/teverun-fighter-11-3.webp alt=Teverun Fighter 11 en circuito privado>
+
+## Fighter 11 frente a Fighter 11+
+
+La variante 11+ suma pantalla de 4 pulgadas con GPS, frenos de cuatro pistones y una batería mayor. También sale más cara y, cuando se escribió la ficha, estaba en preventa.
+
+Para la mayoría, el 11 estándar resulta la opción equilibrada: misma idea, menos desembolso y disponibilidad inmediata frente a la espera de la versión superior.
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -799,24 +813,35 @@ El distribuidor lo deja claro: **no homologado DGT**. En España, los VMP están
 | Pantalla TFT de 3,5" con NFC | Tubeless de 11": caros de cambiar |
 | 35 kg: contenido para su potencia | Se devalúa con cada versión nueva |
 
-<img src=/media/patinetes/teverun-fighter-11-3.webp alt=Teverun Fighter 11 en circuito privado>
+## A quién le encaja
 
-## Preguntas frecuentes
+Cada rueda lleva un motor de 1.200 W, con un pico conjunto de 5.000 W. Encaja con quien busca empuje fuerte, usa vías abiertas o circuitos privados y acepta sus límites legales en España. No encaja tanto con quien rueda a diario entre coches: el manillar ancho y el peso complican ese uso.
 
-### ¿Cuánto cuesta el Teverun Fighter 11?
-**2.250 €** aprox. en distribuidores europeos, impuestos incluidos.
+## Dudas habituales
 
-### ¿Está homologado por la DGT?
-**No**: su propia ficha indica "No Homologado DGT". En España circula limitado a 25 km/h.
+### ¿Puede rodar por la calle en España?
 
-### ¿Qué autonomía real tiene?
-Unos **54 km** en uso mixto, frente a 80 km declarados.
+Sí, pero limitado a 25 km/h y sin pisar aceras. Su ficha advierte que carece de homologación DGT, así que la velocidad de catálogo no se aplica en vía pública.
 
-### ¿Qué batería lleva?
-**60V 25Ah (1.500 Wh) con celdas LG 21700**, de las mejores del segmento.
+### ¿Por qué no se aprovechan sus 85 km/h?
 
-### ¿Fighter 11 o Fighter 11+?
-El 11+ añade pantalla de 4" con GPS, frenos de 4 pistones y más batería, pero cuesta más y está en preventa. El 11 normal es la compra sensata.
+Porque la norma española para VMP fija el tope en 25 km/h en vía pública. Los 85 km/h solo tendrían sentido en terreno privado.
+
+### ¿Cuántos kilómetros reales da con una carga?
+
+En uso mixto, en torno a 54 km, frente a los 80 km declarados. El doble motor y un ritmo alegre recortan el alcance.
+
+### ¿Qué frenos lleva y por qué importan?
+
+Discos hidráulicos Zoom en ambas ruedas, un equipo serio para un patinete tan potente, muy por encima de frenos mecánicos básicos.
+
+### ¿Merece la pena el salto al 11+?
+
+Si valoras GPS en pantalla, frenada de cuatro pistones y más batería, y no te importa esperar ni pagar más, sí. Si buscas equilibrio entre precio y prestaciones, el 11 estándar basta.
+
+### ¿Resulta pesado para el día a día?
+
+Con 35 kg, subirlo por escaleras o meterlo en transporte público exige esfuerzo. Para su potencia es un peso contenido, pero no es un urbano ligero.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
