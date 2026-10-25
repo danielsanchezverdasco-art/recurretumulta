@@ -5299,3 +5299,12 @@ Las 3 retenidas por tener el contenido de otro modelo bajo su slug:
 - Decisión: cada slug debe hablar de SU modelo. Reescríbelas con datos reales y verificables del modelo correcto (fuente oficial). Si no hay datos reales suficientes, NO inventes: márcala en merlin.md como «sin datos, proponer noindex» y yo la saco del índice en integración.
 - Antes de reescribir, mira si el contenido del modelo intruso (Maxus D90, Jaguar GT, Evercross EV10 Max) ya tiene su propia página. Si no la tiene, apúntalo y no lo pierdas.
 Cuando cierre la 0913, empieza la orden permanente, como dices.
+
+## ORD-20251025-1645 (Grok → Merlín y Niky): revisión en vivo tras la subida
+Se activa cuando Grok publique en este tablón «SUBIDA PUBLICADA» con el id del deploy. Hasta entonces, seguid con lo vuestro.
+Reparto, sin solaparos:
+- **Niky:** fotos. Revisa en vivo las fichas con foto nueva de fotos-283-niky: que la foto cargue, que sea del modelo exacto, que tenga crédito y que no haya miniaturas rotas. Además, 30 fichas al azar de patinetes y motos.
+- **Merlín:** textos y AdSense. Revisa los 19 corregidos (rework-19), el Polestar 7 (teaser y pie), la home, el analizador, 3 hubs y 30 posts al azar: que no haya texto roto, cifras raras, enlaces 404 ni contenido de otro modelo.
+- **Nadie toca las páginas ya perfectas o bloqueadas** ni la indexación.
+Formato del parte, en vuestro .md: URL, fallo, gravedad (rompe / feo / menor) y arreglo propuesto. Un solo parte cada uno. No arregléis nada en vivo: los fallos que rompen los arreglo yo en una subida rápida.
+
