@@ -116,9 +116,9 @@ La variante Performance alcanza 202 km/h y entrega 487 CV; recuerda que rebasar 
 `
   },
   {
-    title: "Xiaomi YU7: 835 km",
+    title: "Xiaomi YU7: récord en China y llegada a Europa en 2027",
     slug: "xiaomi-yu7-suv-electrico-llegada-europa",
-    excerpt: "El segundo coche de Xiaomi es un SUV que batió récords en China: 200.000 pedidos en 3 minutos y más ventas que el Model Y. Llega a Europa en 2027.",
+    excerpt: "El YU7, segundo modelo de Xiaomi EV, sumó 200.000 pedidos en 3 minutos y superó al Model Y; su llegada a Europa está confirmada para 2027.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -135,21 +135,21 @@ La variante Performance alcanza 202 km/h y entrega 487 CV; recuerda que rebasar 
 
 **¿Buscas solo los datos?** <a href=/coches/xiaomi-yu7-suv-electrico-llegada-europa/>Ver ficha técnica del Xiaomi YU7</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-La empresa que te vendió el móvil ahora quiere venderte el coche. Y no va de broma: el **Xiaomi YU7**, segundo modelo de Xiaomi EV, consiguió **200.000 pedidos en 3 minutos** y **289.000 en la primera hora** cuando se abrió la reserva en China el 26 de junio de 2025. En octubre de 2025 ya vendía más que el Tesla Model Y en el mercado chino. La pregunta que nos hacemos en España es cuándo lo veremos por aquí: **Xiaomi ha confirmado que llegará a Europa en 2027**.
+La compañía conocida por sus móviles pretende ahora vender coches, y lo hace en serio. El YU7, segundo modelo de Xiaomi EV, acumuló 200.000 pedidos en tres minutos y 289.000 durante la primera hora. La reserva se abrió el 26 de junio de 2025. Ya en octubre de ese mismo año superaba en ventas al Tesla Model Y en China. La cuestión para España es la fecha de su aparición por aquí: Xiaomi ha confirmado su llegada a Europa en 2027.
 
-**Comunes:** arquitectura de 800 V (pico de 897 V), 4.999 x 1.996 x 1.600 mm, batalla de 3.000 mm, maletero de **678 a 1.758 litros** más un frunk de 141 litros, 5 plazas y Cx de 0,245.
+Elementos compartidos por la gama: arquitectura de 800 V con un pico de 897 V, carrocería de 4.999 mm de largo, 1.996 de ancho y 1.600 de alto, batalla de 3.000 mm, maletero entre 678 y 1.758 litros más un compartimento delantero de 141 litros, cinco plazas y un Cx de 0,245.
 
-Dos matices importantes: las autonomías son en ciclo **CLTC** (el chino, más optimista que el WLTP); km77 estima unos **685 km WLTP** para la versión Standard, pero **no hay homologación WLTP oficial**. Y ojo, Xiaomi reorganizó la gama en 2026 (aparecieron la True Standard de 73 kWh y el bestial **YU7 GT** de 1.003 CV), así que la configuración que llegue a Europa podría diferir.
+Dos precisiones importantes: las autonomías se expresan según el ciclo CLTC chino, más optimista que el WLTP; km77 calcula alrededor de 685 kilómetros en WLTP para la Standard, aunque todavía no existe una homologación WLTP oficial. Y atención: Xiaomi reorganizó la gama en 2026, con la aparición de la True Standard de 73 kWh y del YU7 GT de 1.003 CV. Por tanto, la configuración europea podría ser distinta.
 
-## Precio: en China, imbatible; en Europa, incógnita
+## Precio en China y duda europea
 
-En China los precios oficiales son demoledores:
+Las tarifas oficiales chinas resultan demoledoras:
 
-- **Standard:** 253.500 yuanes (**unos 30.000 €**)
-- **Pro:** 279.900 yuanes (unos 33.300 €)
-- **Max:** 329.900 yuanes (unos 39.300 €)
+La versión Standard cuesta 253.500 yuanes, unos 30.000 € al cambio. La Pro sube a 279.900 yuanes, alrededor de 33.300 €. La Max alcanza 329.900 yuanes, cerca de 39.300 €.
 
-Para comparar: el Tesla Model Y parte allí de 263.500 yuanes, es decir, **el YU7 Standard cuesta 10.000 yuanes menos que su rival directo**. En Europa **no hay precio oficial confirmado**; las estimaciones de prensa hablan de entre 59.000 y 76.000 dólares para las versiones estándar una vez sumados transporte, homologación, impuestos y aranceles de la UE. Habrá que esperar a 2027.
+Como referencia, el Tesla Model Y arranca allí en 263.500 yuanes: el YU7 Standard resulta 10.000 yuanes más barato que su competidor directo.
+
+En Europa todavía no hay un precio oficial confirmado; la prensa sitúa el rango para las versiones estándar en 59.000-76.000 dólares, tras añadir transporte, homologación, impuestos y aranceles comunitarios. Habrá que aguardar hasta 2027.
 
 <img src=/media/xiaomi-yu7-suv-electrico-llegada-europa-oficial.webp alt=Xiaomi YU7, SUV eléctrico, vista tres cuartos delantera>
 
@@ -157,15 +157,15 @@ Para comparar: el Tesla Model Y parte allí de 263.500 yuanes, es decir, **el YU
 
 ¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
-## Curiosidades que quizá no sabías
+## Datos curiosos del YU7
 
-- **Récord histórico de pedidos:** 200.000 en 3 minutos, 289.000 en una hora. Las acciones de Xiaomi se dispararon y su fundador Lei Jun volvió a ser el hombre más rico de China.
-- **Xiaomi no era un fabricante de coches:** hasta 2024 era una empresa de smartphones. Su primer coche, el sedán SU7, ya había superado al Tesla Model 3 en China antes de que llegara el YU7.
-- **Pantalla de 1,1 metros:** el YU7 monta la **Xiaomi HyperVision**, tres pantallas LED bajo el parabrisas, además del sistema HyperOS, LiDAR en el techo y conducción asistida propia.
-- **Guerra comercial por las listas de espera:** con esperas de más de un año, marcas rivales llegaron a ofrecer **pagar el depósito de 5.000 yuanes** a quien cancelase su pedido de Xiaomi para comprar el suyo.
-- **Récord en Nürburgring:** el YU7 GT paró el crono en **7:22,755** en el Infierno Verde, e incluso completó una vuelta autónoma como exhibición tecnológica.
+- Récord absoluto de reservas: 200.000 pedidos en tres minutos; en una hora ya eran 289.000. Las acciones de Xiaomi subieron con fuerza y su fundador, Lei Jun, recuperó el puesto de persona más rica de China.
+- Xiaomi no fabricaba coches antes: hasta 2024 era una compañía de teléfonos inteligentes. Su primer automóvil, la berlina SU7, ya había adelantado al Tesla Model 3 en el mercado chino antes de la llegada del YU7.
+- Una pantalla de 1,1 metros: el YU7 equipa la Xiaomi HyperVision, tres pantallas LED situadas bajo el parabrisas, junto al sistema HyperOS, un LiDAR en el techo y asistencia a la conducción propia.
+- Pugna comercial por las listas de espera: con demoras superiores a un año, algunas marcas rivales llegaron a ofrecer abonar un depósito de 5.000 yuanes a quien anulase su pedido de Xiaomi para adquirir el suyo.
+- En Nürburgring, el YU7 GT marcó 7:22,755 en el Infierno Verde, y llegó a completar una vuelta autónoma como demostración tecnológica.
 
-## Comparativa: el duelo que viene
+## Frente a Model Y y G6
 
 | | Xiaomi YU7 Standard | Tesla Model Y Standard RWD | XPeng G6 RWD Long Range |
 |---|---|---|---|
@@ -175,9 +175,9 @@ Para comparar: el Tesla Model Y parte allí de 263.500 yuanes, es decir, **el YU
 | **Carga 10-80 %** | 12 min (800 V) | ~25 min | 12 min (451 kW) |
 | **0-100 km/h** | 5,88 s | 7,2 s | 6,7 s |
 
-Sobre el papel, el YU7 gana en casi todo. La gran pregunta es a qué precio llegará a Europa con los aranceles: ahí se jugará el partido.
+Sobre el papel, el YU7 supera en casi todo a sus rivales, aunque pesa 2.315 kg en la versión de acceso. La incógnita decisiva será el precio con el que aterrice en Europa una vez aplicados los aranceles: ahí se decidirá el duelo.
 
-## Pros y contras
+## Ventajas e inconvenientes
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -189,29 +189,35 @@ Sobre el papel, el YU7 gana en casi todo. La gran pregunta es a qué precio lleg
 
 <iframe src=https://www.youtube.com/embed/zvfIlAAwUIc title=Xiaomi YU7 en español style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem; allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=zvfIlAAwUIc>Calero</a> en YouTube — "¡XIAOMI ASUSTA CON EL SUV YU7!", análisis en español del fenómeno.
+Audiovisual: <a href=https://www.youtube.com/watch?v=zvfIlAAwUIc>Calero</a> publica en YouTube un análisis en castellano sobre este fenómeno.
 
 ## Preguntas frecuentes
 
-### ¿Cuándo llega el Xiaomi YU7 a España?
-Xiaomi ha confirmado que sus coches llegarán a **Europa en 2027** (lo dijeron tanto el CEO Lei Jun como la directiva en IFA 2026). Ya tiene centro de I+D en Múnich para adaptarlos.
+### ¿Cuándo llegará a España?
 
-### ¿Cuánto costará el Xiaomi YU7 en Europa?
-**No hay precio oficial.** En China parte de unos 30.000 € al cambio; las estimaciones de prensa para Europa hablan de 59.000-76.000 $, aranceles incluidos. Todo pendiente de confirmación.
+Xiaomi ha confirmado que sus automóviles llegarán a Europa en 2027; lo anunciaron el consejero delegado Lei Jun y la directiva en IFA 2026. La marca ya dispone de un centro muniqués de I+D para adaptarlos.
 
-### ¿Qué autonomía tiene el Xiaomi YU7?
-**835 km en ciclo CLTC** (versión Standard). km77 estima unos 685 km en WLTP, pero no hay homologación oficial europea.
+### ¿Qué precio tendrá en Europa?
 
-### ¿Es mejor que el Tesla Model Y?
-En China ya lo supera en ventas (33.662 frente a 26.100 en octubre de 2025) y sobre el papel gana en autonomía, potencia y carga. En Europa el duelo empezará en 2027.
+Todavía no hay tarifa oficial. En China arranca en unos 30.000 € al cambio; la prensa sitúa el rango europeo en 59.000-76.000 $, con los aranceles incluidos. Todo queda pendiente de confirmación.
 
-### ¿Qué versiones hay del YU7?
-Standard (320 CV), Pro (496 CV) y Max (690 CV), más el radical **YU7 GT** de 1.003 CV presentado en 2026.
+### ¿Qué autonomía ofrece el YU7?
 
-### ¿Quién fabrica los coches de Xiaomi?
-**Xiaomi EV**, la división automovilística del gigante tecnológico chino, en su propia fábrica de Pekín con la plataforma Modena de 800 V.
+835 km en ciclo CLTC en la versión Standard. km77 calcula alrededor de 685 kilómetros en WLTP, aunque no existe homologación oficial europea.
 
-Mientras esperamos a 2027, recuerda que con 253 km/h de velocidad máxima el YU7 no será precisamente un coche para despistarse con los límites: si te llega una <a href=https://recurretumulta.online/guias/radares>multa por exceso de velocidad</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+### ¿Supera al Tesla Model Y?
+
+En China ya lo adelanta en ventas: 33.662 unidades frente a 26.100 unidades en octubre de 2025, y en teoría aventaja en potencia, autonomía y carga. En Europa el duelo arrancará en 2027.
+
+### ¿Qué versiones existen?
+
+Standard con 320 CV, Pro con 496 CV y Max con 690 CV, además del YU7 GT, radical, con 1.003 CV y presentado en 2026.
+
+### ¿Quién fabrica los automóviles de Xiaomi?
+
+La división Xiaomi EV, dentro del gigante tecnológico chino, los produce en su planta propia de Pekín sobre la plataforma Modena de 800 V.
+
+Mientras aguardamos a 2027, conviene recordar que el YU7 alcanza 253 km/h de velocidad máxima, así que no es un coche para despistarse con los límites: si te llega una <a href=https://recurretumulta.online/guias/radares>multa por exceso de velocidad</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
 ## Fuentes
 

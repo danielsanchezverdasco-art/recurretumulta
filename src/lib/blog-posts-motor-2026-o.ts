@@ -159,9 +159,9 @@ A una política de precios ajustados, a una oferta eléctrica amplia y al paragu
 ¿Te han puesto una multa? <a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
 },
 {
-  "title": "Fiat Grizzly: el SUV familiar que vuelve a lo esencial",
+  "title": "Fiat Grizzly: SUV familiar de 4,4 m con versión eléctrica",
   "slug": "fiat-grizzly-fastback-paris-2026",
-  "excerpt": "Fiat presenta en París los Grizzly y Grizzly Fastback: SUV familiares de 4,4 m con versiones de gasolina, microhíbrida y eléctrica. Llegan a Europa este trimestre desde unos 20.000 € (estimación).",
+  "excerpt": "París estrena Fiat Grizzly y Fastback, SUV de 4,4 y 4,5 m con gasolina, microhíbrido y eléctrico, a la venta a finales de 2026 desde 20.000 € estimados.",
   "category": "Novedades Motor",
   "date": "2026-10-12",
   "readTime": 7,
@@ -175,20 +175,20 @@ A una política de precios ajustados, a una oferta eléctrica amplia y al paragu
   ],
   "content": `<img src=/media/fiat-grizzly-fastback-paris-2026-oficial.webp alt=Fiat Grizzly y Grizzly Fastback en foto oficial de Fiat>
 
-**Fiat** vuelve a lo que mejor se le da: el coche familiar asequible. Los nuevos **Grizzly** y **Grizzly Fastback** hacen hoy su **debut público en el Salón de París** y llegarán a los concesionarios europeos en el **último trimestre de 2026**. Dos SUV de 4,4 y 4,5 metros con motores de gasolina, microhíbridos y **100 % eléctricos**, que pelearán en el segmento del SUV familiar asequible donde la referencia es el Dacia Duster.
+París acoge el estreno ante el público de dos todocaminos familiares de Fiat: el Grizzly y su variante con caída de techo, el Grizzly Fastback. La marca italiana los sitúa en el terreno del SUV familiar económico, donde el Dacia Duster marca la referencia, y programa su comercialización europea para los tres últimos meses de 2026. La gama combinará gasolina, microhibridación y propulsión totalmente eléctrica, con longitudes de 4,4 metros para el Grizzly y 4,5 para el Fastback.
 
 ## Datos clave
 
-- **Grizzly:** 4,4 m, enfoque en espacio y practicidad
-- **Grizzly Fastback:** 4,5 m, silueta coupé, maletero de **600 litros**
-- **Plataforma:** Smart Car (la misma del Opel Frontera y el Citroën C3 Aircross)
-- **Motores (Europa):** gasolina 1.2 de 100 CV, microhíbrido de ~145 CV y eléctrico de 113 CV
-- **Eléctrico:** baterías de 44 o 54 kWh, hasta ~400 km de autonomía (datos de prensa, pendientes de confirmación oficial)
-- **Precio:** desde unos 20.000 € según la prensa especializada — **estimación NO confirmada por Fiat**
-- **Venta en Europa:** último trimestre de 2026
+- **Grizzly:** 4,4 m, prioridad al espacio interior y a la utilidad diaria
+- **Grizzly Fastback:** 4,5 m, carrocería de caída coupé y 600 litros de maletero
+- **Plataforma:** Smart Car, compartida con el Opel Frontera y el Citroën C3 Aircross
+- **Motorizaciones para Europa:** 1.2 de gasolina con 100 CV, microhíbrido cercano a 145 CV y eléctrico con 113 CV
+- **Eléctrico:** 44 o 54 kWh de batería y autonomía máxima cercana a 400 km, según la prensa y sin confirmación oficial todavía
+- **Precio:** arranque aproximado en 20.000 € según la prensa especializada, cifra que Fiat no ha confirmado
+- **Venta en Europa:** tres últimos meses de 2026
 - **Fuentes:** <a href=https://elperiodicodelaenergia.com/el-salon-del-automovil-de-paris-concentrara-mas-de-60-estrenos-entre-las-marcas-europeas-y-asiaticas/>elperiodicodelaenergia.com</a> y <a href=https://automedia.mx/salon-de-paris-2026-novedades-y-coches-nuevos/>automedia.mx</a>
 
-## Grizzly vs Grizzly Fastback
+## Grizzly frente a Grizzly Fastback
 
 |  | Grizzly | Grizzly Fastback |
 |---|---|---|
@@ -199,33 +199,33 @@ A una política de precios ajustados, a una oferta eléctrica amplia y al paragu
 
 ## El análisis: Stellantis contra Stellantis
 
-Aquí está lo interesante: el Grizzly comparte la **plataforma Smart Car** con el <a href=/coches/opel-frontera-electric-44kwh-2025-precio-ficha-tecnica/>Opel Frontera</a> y el Citroën C3 Aircross. Es decir, **Stellantis va a competir contra sí misma** en el mismo segmento y con la misma base técnica. La diferenciación será de diseño, equipamiento y precio —y ahí Fiat juega con ventaja histórica: es la marca del coche popular italiano.
+La base técnica compartida es el punto central: el Grizzly emplea la plataforma Smart Car que ya utilizan el <a href=/coches/opel-frontera-electric-44kwh-2025-precio-ficha-tecnica/>Opel Frontera</a> y el Citroën C3 Aircross, de modo que Stellantis colocará en un mismo segmento a tres marcas con parentesco técnico directo. El desmarque deberá llegar por diseño, dotación y tarifa, un terreno donde Fiat conserva un historial largo como marca del coche popular italiano.
 
-El rival a batir es el <a href=/coches/dacia-duster-2026-mild-hybrid-140-precio-ficha-tecnica/>Dacia Duster</a>, la referencia del SUV asequible en España. Si Fiat cumple el precio estimado (~20.000 €) y la versión eléctrica ronda los 400 km, el Grizzly tiene argumentos. La duda razonable: con tres marcas del mismo grupo vendiendo primos hermanos, ¿quién se queda con el cliente? <a href=/comparador-coches/>Compáralos en el comparador de coches</a>.
+El contrincante de referencia es el <a href=/coches/dacia-duster-2026-mild-hybrid-140-precio-ficha-tecnica/>Dacia Duster</a>: si se confirma el arranque estimado en torno a 20.000 € y la variante eléctrica se acerca a 400 km, el Grizzly contará con bazas competitivas. Queda la incógnita de cómo se repartirá la clientela entre tres primos hermanos del mismo grupo. <a href=/comparador-coches/>Compáralos en el comparador de coches</a>.
 
 <img src=/media/fiat-grizzly-fastback-paris-2026-oficial-2.webp alt=Fiat Grizzly Fastback, vista trasera en foto oficial de Fiat>
 
-Los dos modelos se presentaron en julio en el vídeo del **127º aniversario de Fiat**, con Olivier François (consejero delegado de Fiat) convirtiendo una oficina de registro italiana en una prueba improvisada. Se suman al <a href=/coches/fiat-grande-panda-hibrido-2025-precio-ficha-tecnica/>Grande Panda</a> en la gama renovada de la marca, junto al <a href=/coches/fiat-600e-2025-precio-ficha-tecnica/>600e</a> eléctrico. Hoy, en París, es su primera aparición pública ante el gran público.
+Ambos ya se habían mostrado en julio, dentro del vídeo del 127º aniversario de Fiat, donde Olivier François, consejero delegado de la marca, convirtió un registro italiano en escenario de una prueba improvisada. En la gama renovada acompañan al <a href=/coches/fiat-grande-panda-hibrido-2025-precio-ficha-tecnica/>Grande Panda</a> y conviven con el <a href=/coches/fiat-600e-2025-precio-ficha-tecnica/>600e</a> eléctrico; la cita parisina supone su primer contacto público con el gran público.
 
 ## Preguntas frecuentes
 
-### ¿Cuándo sale a la venta el Fiat Grizzly?
-El lanzamiento comercial en Europa está previsto para el **último trimestre de 2026**, tras su debut público en el Salón de París.
+### ¿Cuándo llegará el Grizzly a los concesionarios?
+La comercialización europea arranca en los tres últimos meses de 2026, una vez celebrado el estreno público en el Salón de París.
 
-### ¿Cuánto costará el Fiat Grizzly?
-Fiat no ha confirmado precios. La prensa especializada estima una partida en torno a los **20.000 €**: es una estimación, no un dato oficial.
+### ¿Qué precio de salida se baraja para el Grizzly?
+Fiat todavía no ha publicado tarifas. La prensa especializada sitúa el arranque alrededor de 20.000 €, una cifra estimada y no oficial.
 
-### ¿Qué motores tendrá el Fiat Grizzly en Europa?
-Gasolina 1.2 de 100 CV, microhíbrido de unos 145 CV y una versión **100 % eléctrica de 113 CV**.
+### ¿Con qué motorizaciones se ofrecerá en Europa?
+Un 1.2 de gasolina con 100 CV, un microhíbrido próximo a 145 CV y un eléctrico puro de 113 CV.
 
-### ¿Qué autonomía tendrá el Fiat Grizzly eléctrico?
-Según la prensa, hasta **~400 km** con baterías de 44 o 54 kWh. Pendiente de confirmación oficial por parte de Fiat.
+### ¿Cuánta autonomía alcanzará la versión eléctrica?
+La prensa apunta a un máximo cercano a 400 km con acumuladores de 44 o 54 kWh, a falta de ratificación oficial por parte de Fiat.
 
-### ¿Qué etiqueta DGT llevará?
-El eléctrico llevará la **etiqueta Cero**; el microhíbrido, previsiblemente la **ECO**; el gasolina, la **C**. Confírmalo en nuestra <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a>.
+### ¿Qué distintivo ambiental corresponderá a cada versión?
+La variante eléctrica portará la etiqueta Cero, la microhíbrida previsiblemente la ECO y la de gasolina la C. Puedes comprobarlo en nuestra <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a>.
 
-### ¿El Grizzly es el sustituto de algún modelo Fiat?
-No directamente: es un segmento nuevo para la Fiat actual, el C-SUV familiar, donde la marca no competía. Se suma al Grande Panda en la gama renovada.
+### ¿Reemplaza el Grizzly a algún Fiat actual?
+No de forma directa: abre para Fiat un segmento inédito, el de los C-SUV familiares, donde la marca no estaba presente, y se integra en la gama renovada junto al Grande Panda.
 
 *Fuentes: <a href=https://elperiodicodelaenergia.com/el-salon-del-automovil-de-paris-concentrara-mas-de-60-estrenos-entre-las-marcas-europeas-y-asiaticas/>elperiodicodelaenergia.com</a>, <a href=https://automedia.mx/salon-de-paris-2026-novedades-y-coches-nuevos/>automedia.mx</a>.*
 

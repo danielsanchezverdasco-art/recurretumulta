@@ -306,9 +306,9 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
 `,
   },
   {
-    title: "Honda EM1 e 2026",
+    title: "Honda EM1 e: contra Yamaha NEO's: duelo eléctrico urbano",
     slug: "honda-em1-e-vs-yamaha-neos-cual-comprar",
-    excerpt: "Honda EM1 e: (3.999 €) vs Yamaha NEO's (2.999 €): duelo japonés de ciclomotores eléctricos. Autonomía, baterías extraíbles, peso y precio.",
+    excerpt: "Dos ciclomotores eléctricos japoneses frente a frente: precio, autonomía, baterías extraíbles y carga de la Honda EM1 e: y la Yamaha NEO's.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -325,11 +325,11 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     content: `<img src=/media/honda-em1-e-vs-yamaha-neos-cual-comprar-hero.webp alt=Comparativa entre la Honda EM1 e: y la Yamaha NEO's, los dos ciclomotores eléctricos japoneses>
 
-Duelo japonés en el segmento de los ciclomotores: la Honda EM1 e:, el primer dos ruedas eléctrico de Honda en Europa, frente a la Yamaha NEO's, que recupera el mítico nombre de los 2000 con baterías de solo 8 kg. Las dos son AM (desde los 15 años), las dos llevan baterías extraíbles y las dos son estrictamente urbanas.
+Dos marcas japonesas, dos respuestas distintas a la misma pregunta: cómo moverse por la ciudad sin gasolina, sin ruido y sin complicarse la vida. La Honda EM1 e: supone el estreno eléctrico sobre dos ruedas de Honda en Europa, mientras que la Yamaha NEO's rescata un nombre que muchos recuerdan de principios de los 2000 y lo adapta a la movilidad con batería. Ambas se pilotan con el AM desde los 15 años, ambas permiten sacar la batería para cargarla fuera del vehículo y ambas están pensadas, sin matices, para el uso urbano.
 
-La respuesta corta: **la NEO's es la más barata y ligera de usar a diario; la EM1 e: apuesta por la calidad de fabricación Honda y una batería pensada para el intercambio**. La tabla:
+En pocas palabras: la NEO's sale ganando si miras el bolsillo y la facilidad de uso en el día a día; la EM1 e: juega la carta de la fabricación Honda y de una batería concebida para el intercambio futuro. Las cifras:
 
-## Tabla comparativa: Honda EM1 e: vs Yamaha NEO's
+## Las cifras, cara a cara
 
 | Ficha | Honda EM1 e: | Yamaha NEO's Dual Battery |
 |---|---|---|
@@ -346,68 +346,68 @@ La respuesta corta: **la NEO's es la más barata y ligera de usar a diario; la E
 
 <img src=/media/honda-em1-e-yamaha-neos-duelo-cuerpo.webp alt=Honda EM1 e: y Yamaha NEO's en comparativa en ciudad>
 
-## Análisis: qué ofrece cada una
+## Lo que aporta cada modelo
 
-**Honda EM1 e:.** Calidad de fabricación Honda, 95 kg, asiento a 740 mm y una batería Mobile Power Pack e: extraíble pensada para futuras estaciones de intercambio. Diseño premiado (Red Dot 2024). Pero la autonomía es de solo 30 km WMTC (la más corta de la comparativa), la potencia es muy justa en cuestas y varias pruebas la consideran por debajo del estándar Honda habitual. Y 3.999 € es mucho para lo que ofrece.
+La EM1 e: transmite solidez Honda desde el primer contacto: pesa 95 kg, sitúa el asiento a 740 mm —una altura que facilita llegar al suelo a casi cualquier usuario— y esconde una batería Mobile Power Pack e: que se extrae con facilidad y que, en el futuro, podría intercambiarse en estaciones dedicadas. Su diseño ha recibido el Red Dot 2024. El reverso es conocido: homologa apenas 30 km en ciclo WMTC, la cifra más baja de este duelo, su empuje de 1,7 kW se queda corto cuando la calle pica hacia arriba y algunas pruebas la sitúan por debajo del nivel habitual de la marca. A eso se suma un precio de 3.999 € que cuesta justificar frente a lo que entrega, y un cargador externo con ventilador que tarda 6 h en completar la carga.
 
-**Yamaha NEO's.** La racional: 2.999 € (800 € menos que a su lanzamiento), baterías de solo 8 kg (las más fáciles de llevar del segmento), componentes japoneses de calidad (KYB) y un silencio extremo de 55 dB. Con la segunda batería opcional llega a 68 km. A cambio, 37 km homologados por batería son escasos, tarda 8 h en cargar al 100 % y la segunda batería se paga aparte.
+La NEO's apuesta por la sensatez: cuesta 2.999 €, ochocientos menos que cuando se lanzó, y sus baterías pesan únicamente 8 kg, así que subirlas a casa para cargarlas no supone esfuerzo. Con 98 kg en báscula, monta componentes japoneses de renombre, como la suspensión KYB, y rueda con un silencio llamativo de 55 dB, además de recargarse por céntimos. Si se añade la segunda batería opcional, el alcance sube hasta 68 km. Del 20 al 80 % necesita 4 h, y hasta el 100 % llega a 8 h. Sus pegas también están claras: cada batería homologa 37 km, una cifra corta, y la batería adicional hay que abonarla aparte.
 
-## Pros y contras
+## Puntos fuertes y puntos débiles
 
 **Honda EM1 e:**
-- ✅ Calidad de fabricación y fiabilidad Honda
-- ✅ Batería extraíble e intercambiable (Mobile Power Pack e:)
-- ✅ 95 kg y asiento a 740 mm: accesible para todos
-- ✅ Diseño premiado Red Dot 2024 e iF 2025
-- ❌ 30 km de autonomía WMTC: la más corta
-- ❌ 1,7 kW: justita en cuestas
-- ❌ 6 h de carga completa
-- ❌ 3.999 €, cara para lo que ofrece
+- ✅ Fabricación Honda: solidez y fiabilidad reconocidas
+- ✅ Batería Mobile Power Pack e: extraíble y preparada para el intercambio
+- ✅ Peso contenido, 95 kg, con asiento a 740 mm: llegar al suelo resulta sencillo
+- ✅ Diseño galardonado: Red Dot 2024 e iF 2025
+- ❌ Alcance WMTC de 30 km: el más reducido del duelo
+- ❌ Empuje de 1,7 kW: escaso en pendientes
+- ❌ Carga completa en 6 h
+- ❌ Precio de 3.999 €: elevado para su equipamiento
 
 **Yamaha NEO's:**
-- ✅ 2.999 €: la japonesa más barata
-- ✅ Baterías de 8 kg, las más fáciles de transportar
-- ✅ Calidad japonesa: KYB, buenos acabados
-- ✅ Silencio extremo (55 dB) y recarga por céntimos
-- ❌ 37 km homologados por batería: escasos
-- ❌ 8 h para cargar al 100 %
-- ❌ La segunda batería se paga aparte
-- ❌ Sin apenas hueco bajo el asiento
+- ✅ 2.999 €: la opción japonesa más asequible
+- ✅ Baterías de 8 kg: las más cómodas de llevar a casa
+- ✅ Componentes japoneses KYB y acabados cuidados
+- ✅ Rodaje casi inaudible, 55 dB, y carga por céntimos
+- ❌ 37 km homologados por batería: alcance corto
+- ❌ 8 h para una carga al 100 %
+- ❌ La batería adicional se abona aparte
+- ❌ Prácticamente sin hueco bajo el asiento
 
-## Veredicto: ¿cuál comprar?
+## Veredicto: ¿cuál conviene comprar?
 
-**Compra la Yamaha NEO's si** buscas el ciclomotor eléctrico más barato y práctico para moverte por la ciudad: por 2.999 € no hay rival japonesa. **Compra la Honda EM1 e: si** priorizas la calidad de construcción y la apuesta de Honda por las baterías intercambiables, asumiendo que pagas más por menos autonomía. Fichas: <a href=/motos/honda-em1-e-ficha-tecnica-precio/>ficha de la Honda EM1 e:</a> y <a href=/motos/yamaha-neos-ficha-tecnica-precio/>ficha de la Yamaha NEO's</a>, o en el <a href=/comparador-motos/?a=honda-em1-e-ficha-tecnica-precio&b=yamaha-neos-ficha-tecnica-precio>comparador de motos eléctricas</a>.
+Elige la Yamaha NEO's cuando priorices gastar menos y moverte por la ciudad sin complicaciones: por 2.999 €, ninguna otra japonesa ofrece tanto sentido práctico. Quédate con la Honda EM1 e: cuando valores por encima de todo la construcción Honda y la idea de unas baterías que algún día se intercambiarán, aceptando que el desembolso sube y el alcance baja. Enlaces: <a href=/motos/honda-em1-e-ficha-tecnica-precio/>ficha de la Honda EM1 e:</a> y <a href=/motos/yamaha-neos-ficha-tecnica-precio/>ficha de la Yamaha NEO's</a>, o en el <a href=/comparador-motos/?a=honda-em1-e-ficha-tecnica-precio&b=yamaha-neos-ficha-tecnica-precio>comparador de motos eléctricas</a>.
 
-## Míralo en vídeo
+## El duelo, en vídeo
 
 <iframe src=https://www.youtube.com/embed/FEAygP2l1KE title="Vídeo: Prueba en español de la Yamaha Neo´s 2023 eléctrica" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=FEAygP2l1KE>Movidasenmoto</a> en YouTube
 
-## Preguntas frecuentes
+## Dudas frecuentes
 
-### ¿Cuál tiene más autonomía?
-La Yamaha NEO's: 37 km WMTC por batería (68 km con la segunda opcional) frente a 30 km de la Honda EM1 e:. Las dos son para trayectos urbanos cortos.
+### ¿Quién recorre más kilómetros?
+La NEO's: homologa 37 km con cada batería y alcanza 68 km cuando se monta la segunda, opcional, mientras que la EM1 e: se queda en 30 km. En ambos casos hablamos de desplazamientos urbanos breves.
 
-### ¿Qué carnet necesito?
-El AM en ambos casos: son ciclomotores limitados a 45 km/h, conducibles desde los 15 años.
+### ¿Qué permiso hace falta?
+El AM para las dos: son ciclomotores con la velocidad limitada a 45 km/h y utilizables desde los 15 años.
 
-### ¿Las baterías se pueden cargar en casa?
-Sí, las dos son extraíbles: la de Honda pesa 10,2 kg y la de Yamaha solo 8 kg, la más ligera del segmento.
+### ¿Se cargan en casa las baterías?
+Sí: en los dos modelos la batería sale del vehículo. La batería de la Honda pesa 10,2 kg, mientras que la de Yamaha se queda en 8 kg, el registro más bajo de este segmento.
 
-### ¿Cuál es más barata?
-La Yamaha NEO's: 2.999 € frente a 3.999 € de la Honda EM1 e:.
+### ¿Cuál sale más económica?
+La NEO's: su precio de partida es 2.999 €, mil menos que los 3.999 € de la EM1 e:.
 
-### ¿Sirven como primera moto?
-Sí, son ideales para empezar: ligeras, sencillas, baratas de mantener y con <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero</a>. Eso sí, limitadas a 45 km/h: solo ciudad.
+### ¿Valen para empezar en moto?
+Sí: resultan perfectas para iniciarse, porque son ligeras, simples y con un mantenimiento económico, además de llevar <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero</a>. Eso sí, su tope de 45 km/h las deja solo para ciudad.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+Si recibiste una sanción y sospechas que puede contener algún error, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de abonar nada.
 `,
   },
   {
-    title: "BMW CE 02 vs Super Soco CPx 2026",
+    title: "BMW CE 02 vs Super Soco CPx: 95 o 137 km, ¿cuál?",
     slug: "bmw-ce-02-vs-super-soco-cpx-cual-comprar",
-    excerpt: "BMW CE 02 (8.400 €) vs Super Soco CPx 125 Pro (5.589 €): el 'e-parkourer' alemán contra el scooter de rueda alta con dos baterías extraíbles.",
+    excerpt: "BMW CE 02 desde 8.400 € frente a Super Soco CPx 125 Pro por 5.589 €: diseño y diversión contra autonomía de 137 km y dos baterías extraíbles.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -424,11 +424,11 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     content: `<img src=/media/bmw-ce-02-vs-super-soco-cpx-cual-comprar-hero.webp alt=Comparativa entre la BMW CE 02 y la Super Soco CPx, el e-parkourer alemán frente al scooter eléctrico de rueda alta>
 
-Dos urbanas eléctricas con carnet de coche convalidado y filosofías opuestas: la BMW CE 02, el "e-parkourer" alemán que no se parece a nada (ni scooter ni moto), frente a la Super Soco CPx 125 Pro, el scooter de rueda alta con dos baterías extraíbles y 137 km de autonomía WMTC.
+Para moverse por la ciudad en eléctrico sin pasar por el A2, hay dos caminos opuestos. Uno lo firma BMW con la CE 02, un artefacto que no parece scooter ni moto. El otro, Super Soco con la CPx 125 Pro, un scooter de rueda alta que guarda dos baterías extraíbles y homologa 137 kilómetros WMTC.
 
-La respuesta corta: **la CE 02 es para quien quiere diseño y diversión urbana; la CPx para quien quiere la máxima autonomía práctica por el menor precio**. La tabla:
+En pocas palabras, la alemana seduce por imagen y diversión en ciudad; la CPx, por kilómetros útiles y precio contenido. A continuación, las cifras:
 
-## Tabla comparativa: BMW CE 02 vs Super Soco CPx
+## Comparativa en cifras
 
 | Ficha | BMW CE 02 (11 kW) | Super Soco CPx 125 Pro |
 |---|---|---|
@@ -446,68 +446,72 @@ La respuesta corta: **la CE 02 es para quien quiere diseño y diversión urbana;
 
 <img src=/media/bmw-ce-02-super-soco-cpx-duelo-cuerpo.webp alt=BMW CE 02 y Super Soco CPx en comparativa urbana>
 
-## Análisis: qué ofrece cada una
+## Qué aporta cada una
 
-**BMW CE 02.** Diseño rompedor, 0-50 km/h en 3,0 s, solo 132 kg y un equipamiento impropio del segmento (TFT, Keyless, USB-C, marcha atrás, control de tracción). Las baterías son extraíbles y hay versión de 4 kW para el AM. Pero cuesta ≈8.400 €, la autonomía se queda en 95 km WMTC, no tiene hueco bajo el asiento y el ABS es solo delantero.
+**BMW CE 02.** Estética rompedora, aceleración de parado a 50 km/h en tres segundos, tan solo 132 kilos y una dotación impropia del segmento: pantalla TFT, arranque sin llave, toma USB-C para el móvil, marcha atrás para maniobrar y control de tracción. Sus baterías se extraen y existe variante de 4 kW para el permiso AM. En contra, cuesta alrededor de 8.400 euros, su autonomía WMTC se queda en 95 kilómetros, carece de hueco bajo el asiento y el ABS actúa solo en la rueda delantera.
 
-**Super Soco CPx.** La práctica: dos baterías extraíbles con 137 km WMTC, rueda alta de 16"/14" (más estable y cómoda), marcha atrás, GPS con SIM y app, y un precio de 5.589 € muy contenido. A cambio, 90 km/h de punta justos para vías rápidas, sin ABS (solo CBS) y plásticos mejorables frente a las japonesas.
+**Super Soco CPx.** Lo práctico por bandera: rueda alta de 16 pulgadas delante y 14 detrás, con más estabilidad y comodidad, localización GPS con tarjeta SIM y aplicación móvil, marcha atrás, y dos baterías extraíbles que suman 137 kilómetros WMTC, todo por 5.589 euros. A cambio, su punta de 90 km/h se queda justa para vías rápidas, frena sin ABS (solo con sistema combinado) y sus plásticos quedan por debajo de los de las japonesas.
 
-## Pros y contras
+## Ventajas e inconvenientes
 
 **BMW CE 02:**
-- ✅ 0-50 km/h en 3,0 s: fulgurante en ciudad
-- ✅ 132 kg y diseño único "e-parkourer"
-- ✅ Baterías extraíbles y versión AM de 4 kW
-- ✅ TFT, Keyless, USB-C, marcha atrás y control de tracción
-- ❌ ≈8.400 €: cara para sus prestaciones
-- ❌ 95 km WMTC de autonomía
-- ❌ Sin hueco bajo el asiento
-- ❌ ABS solo delantero
+- ✅ Aceleración fulgurante en ciudad: de parado a 50 km/h en tres segundos
+- ✅ Apenas 132 kilos y una silueta única de e-parkourer
+- ✅ Baterías que se sacan y variante AM de 4 kW
+- ✅ Pantalla TFT, arranque sin llave, USB-C para el móvil, marcha atrás y control de tracción
+- ❌ Unos 8.400 euros: cara para lo que rinde
+- ❌ Autonomía WMTC de solo 95 kilómetros
+- ❌ Ningún hueco bajo el asiento
+- ❌ ABS únicamente en la rueda delantera
 
 **Super Soco CPx:**
-- ✅ 137 km WMTC con dos baterías extraíbles
-- ✅ Rueda alta: más estable y cómoda
-- ✅ GPS, SIM, app y marcha atrás de serie
-- ✅ 5.589 €: precio contenido
-- ❌ Sin ABS (solo CBS)
-- ❌ 90 km/h de punta, justos para vías rápidas
-- ❌ Con dos baterías se pierde el hueco del asiento
-- ❌ Plásticos mejorables
+- ✅ Precio contenido: 5.589 euros
+- ✅ GPS, SIM, aplicación y marcha atrás de serie
+- ✅ Rueda alta: más estable y más cómoda
+- ✅ Dos baterías extraíbles que suman 137 kilómetros WMTC
+- ❌ Frenada combinada, sin ABS
+- ❌ Punta de 90 km/h, justa para vías rápidas
+- ❌ Con ambas baterías montadas desaparece el hueco del asiento
+- ❌ Materiales plásticos mejorables
 
-## Veredicto: ¿cuál comprar?
+## Veredicto: cuál conviene comprar
 
-**Compra la BMW CE 02 si** quieres la urbana eléctrica más divertida y diferente, con equipamiento premium y no te importa pagar el capricho. **Compra la Super Soco CPx si** buscas la máxima autonomía y practicidad por euro invertido: 137 km y dos baterías por 5.589 € no lo iguala nadie. Fichas: <a href=/motos/bmw-ce-02-ficha-tecnica-precio/>ficha de la BMW CE 02</a> y <a href=/motos/super-soco-cpx-ficha-tecnica-precio/>ficha de la Super Soco CPx</a>, o en el <a href=/comparador-motos/?a=bmw-ce-02-ficha-tecnica-precio&b=super-soco-cpx-ficha-tecnica-precio>comparador de motos eléctricas</a>.
+¿Cuál elegir? Si priorizas diversión, estética rompedora y dotación premium, y el sobreprecio no te frena, la alemana es tu opción. Si priorizas kilómetros por euro, carga extraíble doble y uso diario sin complicaciones, la CPx gana en este duelo: 137 kilómetros y dos baterías por 5.589 euros, una combinación que nadie más ofrece aquí. Fichas: <a href=/motos/bmw-ce-02-ficha-tecnica-precio/>ficha de la BMW CE 02</a> y <a href=/motos/super-soco-cpx-ficha-tecnica-precio/>ficha de la Super Soco CPx</a>, o en el <a href=/comparador-motos/?a=bmw-ce-02-ficha-tecnica-precio&b=super-soco-cpx-ficha-tecnica-precio>comparador de motos eléctricas</a>.
 
-## Míralo en vídeo
+## Vídeo de la prueba
 
 <iframe src=https://www.youtube.com/embed/WQ9DX15YNSA title="Vídeo: SUPER SOCO CPX: prueba, test y review" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=WQ9DX15YNSA>Caballero Motorista</a> en YouTube
 
-## Preguntas frecuentes
+## Dudas frecuentes
 
-### ¿Cuál tiene más autonomía?
-La Super Soco CPx: 137 km WMTC con sus dos baterías, frente a 95 km de la BMW CE 02.
+### ¿Cuál recorre más kilómetros con una carga?
 
-### ¿Se pueden llevar con el carnet de coche?
-Sí, ambas versiones comparadas son de 11 kW o menos: valen el A1 o el B con más de 3 años de antigüedad. La CE 02 tiene además una versión de 4 kW para el AM.
+La CPx recorre 137 kilómetros WMTC con ambas baterías; la CE 02 se queda en 95 kilómetros.
 
-### ¿Las baterías se sacan para cargar en casa?
-Sí, en las dos: la CE 02 lleva dos módulos extraíbles de 1,96 kWh y la CPx dos baterías de 2,7 kWh. Ninguna necesita instalación.
+### ¿Valen con el permiso de coche?
 
-### ¿Cuál es más barata?
-La Super Soco CPx: 5.589 € frente a los ≈8.400 € de la BMW CE 02 (versión 11 kW).
+Sí. Ninguna de las dos variantes del duelo supera los 11 kW, así que tanto el A1 como el B con tres años de antigüedad sirven. Además, la CE 02 dispone de una variante de 4 kW pensada para el permiso AM.
 
-### ¿Cuál es más divertida?
-La CE 02: 3,0 s de 0 a 50 km/h, 132 kg y un chasis muy ágil. La CPx es más rutera y práctica que deportiva.
+### ¿Se pueden extraer las baterías para cargarlas en casa?
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+Sí, ambas se cargan en casa sin instalar nada: la alemana usa dos módulos extraíbles de 1,96 kWh cada uno, y la CPx, dos acumuladores de 2,7 kWh.
+
+### ¿Cuál sale más barata?
+
+La CPx, con diferencia: 5.589 euros, mientras la CE 02 de 11 kW ronda los 8.400 euros.
+
+### ¿Cuál resulta más divertida?
+
+La alemana: tres segundos hasta 50 km/h, 132 kilos y un bastidor ágil. La CPx apuesta más por el uso rutero y práctico que por la deportividad.
+
+Si una multa te llega y sospechas que trae algún defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
   },
   {
-    title: "Zero S vs Can-Am Pulse 2026",
+    title: "Zero S contra Can-Am Pulse: ¿cuál eléctrica comprar?",
     slug: "zero-s-vs-can-am-pulse-cual-comprar",
-    excerpt: "Zero S (18.295 €, 262 km) vs Can-Am Pulse (13.199 €, carga en 50 min): las dos naked eléctricas más serias del mercado, frente a frente.",
+    excerpt: "Zero S desde 18.295 € y 262 km frente a Can-Am Pulse desde 13.199 € y recarga en 50 minutos: duelo de naked eléctricas.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -524,11 +528,11 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     content: `<img src=/media/zero-s-vs-can-am-pulse-cual-comprar-hero.webp alt=Comparativa entre la Zero S y la Can-Am Pulse, las dos naked eléctricas más serias del mercado>
 
-El duelo de las naked eléctricas serias: la Zero S ZF15.6 (2026), con 262 km declarados y la posibilidad de llevarla con el carnet de coche convalidado, frente a la Can-Am Pulse, la vuelta de la marca canadiense a las motos tras 38 años, con carga del 20 al 80 % en 50 minutos y pantalla táctil de 10,25".
+Dos desnudas a baterías se disputan al motorista que quiere prescindir de la gasolina sin renunciar a sensaciones: por un lado, la Zero S ZF15.6 del año 2026, que anuncia 262 km de alcance y admite conducción con el permiso de automóvil convalidado; por otro, la Can-Am Pulse, regreso de la firma de Canadá al mundo de las dos ruedas después de 38 años, que recupera del 20 al 80 % en 50 minutos, además de montar una pantalla táctil de 10,25 pulgadas.
 
-La respuesta corta: **la Zero S es para quien quiere la máxima autonomía eléctrica con carnet B; la Pulse para quien busca la naked eléctrica más tecnológica y con carga más rápida**. La tabla:
+**En pocas palabras:** quien priorice recorrer la mayor distancia posible con una eléctrica y el permiso B elegirá la Zero S; quien prefiera la desnuda eléctrica con más tecnología y recarga más veloz optará por la Pulse.
 
-## Tabla comparativa: Zero S vs Can-Am Pulse
+## Cifras frente a frente: Zero S y Can-Am Pulse
 
 | Ficha | Zero S ZF15.6 (2026) | Can-Am Pulse (35 kW) |
 |---|---|---|
@@ -546,63 +550,62 @@ La respuesta corta: **la Zero S es para quien quiere la máxima autonomía eléc
 
 <img src=/media/zero-s-can-am-pulse-duelo-cuerpo.webp alt=Zero S y Can-Am Pulse en una carretera>
 
-## Análisis: qué ofrece cada una
+## Lo que entrega cada modelo
 
-**Zero S.** La referencia en autonomía: 262 km declarados con 15,6 kWh, 132 Nm de par, electrónica Bosch con ABS y control de tracción, y app con modos personalizables. Y todo conducible con el B convalidado. Pero cuesta 18.295 €, pesa 223 kg, la carga de serie tarda ~10 h y la autonomía real en autopista cae muy por debajo de la declarada.
+La Zero S marca la referencia en alcance: anuncia 262 km con una batería de 15,6 kWh, desarrolla un par de 132 Nm, equipa ABS y control de tracción firmados por Bosch, y permite configurar modos desde una app. Además, se puede pilotar con el B convalidado. En el otro lado de la balanza, su tarifa arranca en 18.295 €, su peso llega a 223 kg, la recarga de serie ronda las 10 h y la autonomía real por autopista queda muy lejos de la cifra anunciada.
 
-**Can-Am Pulse.** La primera moto Can-Am en 38 años: motor Rotax E-Power con refrigeración líquida, 0-100 km/h en 3,8 s, pantalla táctil de 10,25" con Apple CarPlay y una carga rapidísima (6,6 kW de a bordo, 50 min del 20 al 80 %). A cambio, 130 km WMTC que en pruebas reales rondan los 95 km, de serie es monoplaza y el hueco de carga es mínimo.
+La Pulse supone el retorno de Can-Am a las motos después de 38 años: su motor Rotax E-Power refrigerado por líquido acelera de 0 a 100 km/h en 3,8 s, su pantalla táctil de 10,25 pulgadas integra Apple CarPlay y su recarga resulta rapidísima (cargador interno de 6,6 kW, 50 min del 20 al 80 %). Como contrapartida, su alcance WMTC de 130 km ronda los 95 km en uso real, sale de fábrica como monoplaza y su hueco de carga es mínimo.
 
-## Pros y contras
+## Puntos fuertes y puntos débiles
 
 **Zero S:**
-- ✅ 262 km declarados: la mayor autonomía con carnet B
-- ✅ 132 Nm y 139 km/h: prestaciones de moto grande
-- ✅ Electrónica Bosch con ABS y control de tracción
-- ✅ App con modos personalizables y 5 años de garantía de batería
-- ❌ 18.295 €: muy por encima de cualquier 125 de gasolina
-- ❌ 223 kg en orden de marcha
-- ❌ Carga lenta de serie (~10 h)
-- ❌ La autonomía en autopista cae mucho
+- 262 km anunciados: el mayor alcance con permiso B
+- 132 Nm y 139 km/h: empuje y velocidad de moto grande
+- ABS y control de tracción de Bosch
+- Modos configurables desde la app y 5 años de garantía de batería
+- Su precio, 18.295 €, supera con holgura al de cualquier 125 de gasolina
+- Peso en orden de marcha: 223 kg
+- Recarga de serie lenta (unas 10 h)
+- En autopista, el alcance cae mucho
 
 **Can-Am Pulse:**
-- ✅ 0-100 km/h en 3,8 s con 72 Nm
-- ✅ Carga del 20 al 80 % en 50 minutos
-- ✅ Pantalla táctil de 10,25" con Apple CarPlay
-- ✅ Refrigeración líquida y cadena en cárter: mantenimiento mínimo
-- ❌ 13.199 € y 130 km WMTC (≈95 reales)
-- ❌ Monoplaza de serie (el asiento del pasajero se paga aparte)
-- ❌ 177 kg, densa en parado
-- ❌ Hueco de carga mínimo
+- Acelera hasta 100 km/h en 3,8 s y entrega 72 Nm
+- Recupera del 20 al 80 % en 50 minutos
+- Monitor táctil de 10,25 pulgadas con Apple CarPlay
+- Cadena en cárter y refrigeración por líquido: revisiones mínimas
+- 13.199 € y 130 km WMTC (unos 95 reales)
+- Sale como monoplaza: la plaza del pasajero es un extra de pago
+- Con 177 kg, se nota pesada en parado
+- Espacio de carga muy escaso
 
-## Veredicto: ¿cuál comprar?
+## La recomendación: ¿con cuál quedarse?
 
-**Compra la Zero S si** tu prioridad es la autonomía y quieres la eléctrica más capaz que se puede llevar con el carnet de coche: 262 km no los ofrece nadie más. **Compra la Can-Am Pulse si** prefieres la naked más moderna y tecnológica, con carga rápida de verdad y un precio 5.000 € inferior, asumiendo el A2. Fichas: <a href=/motos/zero-s-ficha-tecnica-precio/>ficha de la Zero S</a> y <a href=/motos/can-am-pulse-ficha-tecnica-precio/>ficha de la Can-Am Pulse</a>, o en el <a href=/comparador-motos/?a=zero-s-ficha-tecnica-precio&b=can-am-pulse-ficha-tecnica-precio>comparador de motos eléctricas</a>.
+Elige la Zero S cuando la autonomía mande y busques la eléctrica más capaz utilizable con el permiso de automóvil: ningún rival alcanza 262 km. Elige la Can-Am Pulse cuando te atraiga la desnuda más actual y tecnológica, con recarga veloz de verdad y una tarifa unos 5.000 € más baja, aceptando el A2. Consulta: <a href=/motos/zero-s-ficha-tecnica-precio/>datos de la Zero S</a> y <a href=/motos/can-am-pulse-ficha-tecnica-precio/>datos de la Pulse</a>, o en el <a href=/comparador-motos/?a=zero-s-ficha-tecnica-precio&b=can-am-pulse-ficha-tecnica-precio>comparativa de motos eléctricas</a>.
 
-## Míralo en vídeo
+## Vídeo de la Zero S
 
 <iframe src=https://www.youtube.com/embed/M-1TgydlZAY title="Vídeo: Zero S, probamos la moto eléctrica de Zero" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=M-1TgydlZAY>ComputerHoy</a> en YouTube
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuál tiene más autonomía real?
-La Zero S: 262 km declarados frente a 130 km WMTC (≈95 reales) de la Pulse. Si haces rutas largas, no hay color.
+### ¿Cuál ofrece más autonomía real?
+La Zero S, sin discusión: anuncia 262 km, mientras la Pulse homologa 130 km WMTC (unos 95 reales). Para rutas largas, la diferencia es abismal.
 
-### ¿Qué carnet necesito para cada una?
-La Zero S (versión 11 kW) se lleva con el A1 o el B con más de 3 años. La Can-Am Pulse de 35 kW exige el A2, aunque existe una versión de 11 kW para A1/B.
+### ¿Qué permiso exige cada modelo?
+La versión de 11 kW de la Zero S admite el A1 y también el B cuando suma más de 3 años. La Pulse de 35 kW requiere el A2, si bien hay una variante de 11 kW utilizable con A1/B.
 
 ### ¿Cuál carga más rápido?
-La Can-Am Pulse, con diferencia: 50 minutos del 20 al 80 % con su cargador de a bordo de 6,6 kW. La Zero S tarda unas 10 h de serie (la carga rápida es opcional y cara).
+La Pulse, con holgura: 50 minutos del 20 al 80 % gracias a su cargador interno de 6,6 kW. La Zero S, en cambio, necesita cerca de 10 h con la carga de serie; la rápida se ofrece como opción y sale cara.
 
-### ¿La Pulse sirve para ir con pasajero?
-De serie no: es monoplaza y el asiento del pasajero es un accesorio opcional. La Zero S es biplaza de serie.
+### ¿Se puede viajar con pasajero en la Pulse?
+De fábrica no: viene como monoplaza y la plaza del pasajero se adquiere como accesorio opcional. La Zero S, en cambio, trae dos plazas de serie.
 
 ### ¿Cuál es más barata?
-La Can-Am Pulse: 13.199 € frente a 18.295 € de la Zero S. Unos 5.000 € de diferencia.
+La Pulse: 13.199 € contra 18.295 € de la Zero S. La brecha ronda los 5.000 €.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+Si una sanción te parece defectuosa, <a href=https://recurretumulta.online/>revísala sin coste con nuestra IA</a> antes de abonar nada.`,
   },
   {
     title: "F 450 R vs Hornet vs Z500: ¿cuál?",

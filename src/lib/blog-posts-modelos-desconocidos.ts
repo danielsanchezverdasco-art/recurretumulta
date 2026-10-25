@@ -1190,9 +1190,9 @@ Fuentes: <a href=https://carnewschina.com/2026/09/30/cherys-jetour-g700-launched
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
   },
   {
-    "title": "Hongqi G919: el Clase G chino de 831 CV",
+    "title": "Hongqi G919: el 4x4 eléctrico chino de 831 CV",
     "slug": "hongqi-g919-4x4-electrico-831-cv",
-    "excerpt": "Hongqi abre la preventa del G919, su primer todoterreno: EREV de 4 motores y 831 CV con chasis de largueros. En China desde unos 47.800 €.",
+    "excerpt": "El Hongqi G919 abre su preventa en China: todoterreno EREV con un motor por rueda, 831 CV y chasis de largueros, desde unos 47.800 €.",
     "category": "Modelos desconocidos",
     "date": "2026-10-09",
     "readTime": 8,
@@ -1207,11 +1207,11 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     "content": `<img src=/media/hongqi-g919-hero.webp alt=Todoterreno de lujo chino con enorme parrilla cromada vertical y franja roja en el capó en dunas del desierto al atardecer>
 
-**La marca que lleva a los presidentes de China se mete en el barro.** **Hongqi** ("bandera roja"), la firma de lujo de FAW que desde 1958 fabrica las limusinas oficiales del Estado chino, presenta su **primer todoterreno de verdad**: el **G919**. Y no viene de paseo: es un **eléctrico de autonomía extendida (EREV) con cuatro motores** (uno por rueda), **620 kW (831 CV)**, chasis de largueros y tres bloqueos de diferencial. La preventa abrió en China el **22 de septiembre de 2026**.
+**De las limusinas oficiales al barro: Hongqi estrena su primer 4x4.** La firma de lujo de FAW, cuyo nombre significa "bandera roja", fabrica desde 1958 los vehículos oficiales del Estado chino. Su salto al todoterreno puro se llama **G919**: un EREV —**eléctrico de autonomía extendida**— con un motor por rueda, cuatro en total, que entrega **620 kW (831 CV)**, montado sobre chasis de largueros y con tres bloqueos de diferencial. La preventa china se abrió el **22 de septiembre de 2026**.
 
-Es un movimiento histórico para la marca: hasta ahora su gama eran berlinas, SUV y monovolúmenes, pero ningún 4x4 puro. Con el G919, Hongqi se lanza a la guerra de los todoterrenos electrificados chinos contra los Tank de GWM, los Fang Cheng Bao de BYD y los Yangwang.
+Hasta ahora, el catálogo de la marca se componía de berlinas, SUV y monovolúmenes, sin ningún todoterreno puro entre ellos. El G919 cambia ese panorama y la mete de lleno en la pugna de los 4x4 electrificados chinos, donde ya pelean los Yangwang, los Tank de GWM y también los Fang Cheng Bao de BYD.
 
-## Preventa: tres versiones
+## Preventa china: tres acabados
 
 | Versión | Precio (yuanes) | ≈ Euros |
 |---|---|---|
@@ -1219,64 +1219,64 @@ Es un movimiento histórico para la marca: hasta ahora su gama eran berlinas, SU
 | Yujing (4 motores) | 399.800 | ~53.200 € |
 | Edición Limitada | 439.800 | ~58.500 € |
 
-*Conversión con 1 € ≈ 7,52 CNY (tipo de cambio publicado el 07/10/2026). Son precios de preventa en China; el PVP final puede variar.*
+*El cambio aplicado es 1 € ≈ 7,52 CNY, según el tipo publicado el 07/10/2026. Se trata de precios de preventa para China y el PVP definitivo podría cambiar.*
 
-## 831 CV con un motor en cada rueda
+## Cuatro motores y 831 CV
 
-El G919 es un EREV: un **2.0 turbo de gasolina** actúa solo como generador, y la tracción la ponen **cuatro motores eléctricos** (uno por rueda) con reparto vectorial del par gestionado por software. El resultado: **620 kW (831 CV)** y **1.320 Nm**, un **0-100 km/h en 4,5 segundos** y 180 km/h de punta... en un armatoste de **3.150 kg** y 5,14 metros de largo.
+El sistema es EREV: un **2.0 turbo de gasolina** trabaja únicamente como generador, mientras la tracción corre a cargo de **cuatro motores eléctricos**, uno en cada rueda, con reparto vectorial del par controlado por software. La cifra conjunta alcanza 620 kW, equivalentes a 831 CV, con 1.320 Nm de par. Acelera de 0 a 100 km/h en 4,5 segundos, con una punta de 180 km/h, pese a un peso de **3.150 kg** y una longitud de 5,14 metros.
 
-La batería es una **ternaria de 62,9 kWh** (Eve Energy): **280 km eléctricos en ciclo CLTC** (≈220 km WLTP) y hasta **1.350 km combinados** con el depósito de 80 litros. La plataforma de **800 V** permite cargar del 30 % al 80 % en **12 minutos**.
+La batería, una **ternaria de 62,9 kWh** suministrada por Eve Energy, homologa **280 km eléctricos en ciclo CLTC** (alrededor de 220 km WLTP) y llega hasta **1.350 km combinados** gracias al depósito de 80 litros. La arquitectura de **800 V** admite recargar del 30 % al 80 % en **12 minutos**.
 
 <img src=/media/hongqi-g919-detalle.webp alt=Vista frontal de un todoterreno de lujo chino con gran parrilla cromada y faros encendidos al atardecer>
 
-## Chasis de largueros: un 4x4 de verdad
+## Bastidor de largueros para el campo de verdad
 
-Hongqi lo deja claro en la presentación: una carrocería cuadrada no hace un todoterreno; el **chasis de largueros** sí. El G919 lo usa, con más del 90 % de aceros de alta y ultra-alta resistencia y una rigidez torsional de **9.500 Nm/º**.
+En la presentación, Hongqi insistió en una idea: una silueta cuadrada no convierte un coche en todoterreno, pero un **chasis de largueros** sí lo hace. El G919 lo monta: emplea aceros de alta y ultra-alta resistencia en más del 90 % de su estructura, y anuncia 9.500 Nm/º de rigidez torsional.
 
-El arsenal off-road es serio:
+El equipamiento para salir del asfalto incluye:
 
-- **Tres bloqueos de diferencial mecánicos** (delantero, central y trasero); el bloqueo se activa en 200 milisegundos y soporta hasta 12.600 Nm
-- **Suspensión neumática** con 9 modos de conducción
-- **LiDAR en el techo** para las ayudas a la conducción
-- Baca, rueda de repuesto exterior, ganchos de rescate y neumáticos todoterreno
+- **Triple bloqueo mecánico de diferencial**: delantero, central y trasero, con activación en 200 milisegundos y capacidad para soportar hasta 12.600 Nm
+- **Suspensión neumática** y 9 modos de conducción
+- **LiDAR sobre el techo** al servicio de las ayudas a la conducción
+- Barras de techo, rueda de repuesto en el exterior, enganches de rescate y neumáticos de uso todoterreno
 
-Mide **5.135 mm** de largo, 2.050 mm de ancho, 1.950 mm de alto y 2.900 mm de batalla. El diseño mezcla la parrilla vertical cromada típica de Hongqi (con la **franja roja** sobre el capó, seña de identidad de la marca) con ópticas rectangulares de estética retro y detalles de ebanistería china en las formas.
+De largo mide 5.135 mm, con 2.050 mm de anchura, 1.950 mm de altura y una batalla de 2.900 mm. La parrilla vertical cromada, marca de la casa, se acompaña de la **franja roja** del capó, emblema de Hongqi, junto a faros rectangulares de aire retro y detalles que evocan la ebanistería china.
 
-Por dentro: volante de tres radios, pantalla central de **17,3 pulgadas con resolución 3K**, otra pantalla trasera de 17,3" 3K para los pasajeros y selector de cambio en la columna de dirección.
+Dentro, el puesto de conducción lleva volante de tres radios, una pantalla central de 17,3 pulgadas y resolución 3K, y detrás, los pasajeros disponen de otra pantalla de 17,3 pulgadas, también 3K. El cambio se maneja desde un selector en la columna de dirección.
 
-## Primer vistazo en vídeo
+## El G919, en vídeo
 
-El canal <a href=https://www.youtube.com/watch?v=wHGvjDbZBGs>CarVibes en YouTube</a> ha publicado un primer vistazo al G919 con todos sus datos: los cuatro motores, la batería de 62,9 kWh, el chasis de largueros, los tres bloqueos y el interior con doble pantalla 3K.
+En YouTube, el canal <a href=https://www.youtube.com/watch?v=wHGvjDbZBGs>CarVibes en YouTube</a> ofrece un repaso visual del modelo que recorre la batería de 62,9 kWh, el bastidor de largueros, los tres bloqueos y las dos pantallas 3K del habitáculo, además de su sistema de tracción con un motor por rueda.
 
-## ¿Llegará a Europa?
+## ¿Y Europa?
 
-**Sin plan confirmado.** Hongqi vende en Europa solo en **Dinamarca, Suecia y Noruega** (los eléctricos EH7 y EHS7), con el Reino Unido en el horizonte para 2026. El G919 es, de momento, un producto pensado para China. Su <a href=/coches/hongqi-g919-2026-precio-ficha-tecnica/>ficha técnica completa está aquí</a>.
+**Sin plan confirmado.** En Europa, Hongqi comercializa por ahora solo en **Dinamarca, Suecia y Noruega** sus eléctricos EH7 y EHS7, mientras el Reino Unido aparece en el horizonte para 2026. El G919, de momento, es un producto pensado para China. Su <a href=/coches/hongqi-g919-2026-precio-ficha-tecnica/>ficha técnica completa está aquí</a>.
 
-Si te van los 4x4 chinos extremos, mira también el <a href=/blog/jetour-zongheng-g700-903-cv/>Jetour Zongheng G700 (903 CV)</a>, el <a href=/blog/geely-galaxy-battleship-700-zhanjian-700/>Battleship 700 de Geely</a> y <a href=/blog/yangwang-byd-u8-u9-europa-2027/>los Yangwang de BYD</a>. Y puedes <a href=/comparador-coches/>compararlos en el comparador</a>.
+Si buscas otros todoterrenos chinos extremos, echa un vistazo al <a href=/blog/jetour-zongheng-g700-903-cv/>Jetour Zongheng G700 (903 CV)</a>, al <a href=/blog/geely-galaxy-battleship-700-zhanjian-700/>Battleship 700 de Geely</a> y a <a href=/blog/yangwang-byd-u8-u9-europa-2027/>los Yangwang de BYD</a>. También puedes <a href=/comparador-coches/>compararlos en el comparador</a>.
 
 ## Preguntas frecuentes
 
-### ¿Qué es el Hongqi G919?
-El **primer todoterreno** de Hongqi (FAW): un EREV de 4 motores, chasis de largueros y 831 CV cuya preventa abrió en China el 22 de septiembre de 2026.
+### ¿Qué representa el G919 para Hongqi?
+Es el **primer todoterreno** de la marca de FAW: un EREV de cuatro motores, bastidor de largueros y 831 CV, cuya preventa china arrancó el 22 de septiembre de 2026.
 
-### ¿Cuántos caballos tiene el Hongqi G919?
-**620 kW (831 CV)** y 1.320 Nm, con un 0-100 km/h en 4,5 segundos.
+### ¿Qué potencia desarrolla?
+Entrega 620 kW, o sea 831 CV, y un par de 1.320 Nm; acelera de 0 a 100 km/h en 4,5 segundos.
 
-### ¿Cuánto cuesta el Hongqi G919?
-En preventa china, de **359.800 a 439.800 yuanes** (unos 47.800–58.500 € al cambio).
+### ¿Qué precio tiene en China?
+La preventa china parte de **359.800 yuanes** y llega a **439.800 yuanes**, es decir, unos 47.800–58.500 € al cambio.
 
-### ¿Qué autonomía tiene el G919?
-**280 km eléctricos (CLTC)** y hasta **1.350 km combinados** con el extensor de autonomía.
+### ¿Cuánta autonomía ofrece?
+En modo eléctrico recorre 280 km en ciclo CLTC, y el conjunto con extensor alcanza 1.350 km.
 
-### ¿El Hongqi G919 se vende en España?
-**No.** De momento solo en China; Hongqi opera en Europa únicamente en Dinamarca, Suecia y Noruega.
+### ¿Se venderá en España?
+**No.** Por ahora solo se ofrece en China; en Europa, Hongqi está presente solo en Dinamarca, Suecia y Noruega.
 
-### ¿Es un todoterreno de verdad?
-Sí: **chasis de largueros**, tres bloqueos de diferencial mecánicos, suspensión neumática y 9 modos de conducción off-road.
+### ¿De verdad sirve para el campo?
+Sí, porque combina bastidor de largueros con triple bloqueo mecánico de diferencial, suspensión de aire y 9 programas de conducción todoterreno.
 
 Fuentes: <a href=https://autonews.gasgoo.com/articles/news/hongqis-first-hardcore-off-roader-arrives-2102694253003481089>Gasgoo</a>, <a href=https://www.freshmotors.net/articles/2026-hongqi-g919-831-hp-four-motor-erev-off-roader-pre-sale-from-52-500>Fresh Motors</a>, <a href=https://www.carscoops.com/2026/06/hongqi-g919-off-roader/>Carscoops</a>, <a href=https://en.wikipedia.org/wiki/Hongqi_G919>Wikipedia</a>, <a href=https://www.youtube.com/watch?v=wHGvjDbZBGs>CarVibes en YouTube</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+¿Crees que una sanción que te han impuesto podría tener algún defecto? Antes de pagarla, puedes <a href=https://recurretumulta.online/>revisarla gratis con nuestra IA</a>.`
   },
 ];
 
