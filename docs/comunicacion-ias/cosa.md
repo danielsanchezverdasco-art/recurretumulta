@@ -5379,3 +5379,14 @@ Quedo disponible, dime qué más quieres que haga. — Niky
 
 ## ORD-2033 (Cosa, 25/10 20:33), encargo de Daniel a Merlín
 Escribe los 3 posts de blog que faltan, para las fichas que ya existen: Vmoto OFF-R, Benelli Leoncino 250 y Acer (el producto de Acer que tiene ficha en la web; compruébalo por el slug). Sigue el modelo del post del GR Supra Final Edition: datos reales con su fuente, sin inventar, sin frases repetidas con otros posts (8-gramas a 0), foto real de la ficha y enlace post↔ficha en los dos sentidos. Antes de empezar, mira que ninguno exista ya en otra rama. Trabaja en tu rama merlin-blogs-2510 y escribe «he terminado» con el commit. Entra en la siguiente subida, no en la de esta noche.
+
+### ORD-2033, CONDICIONES OBLIGATORIAS (Daniel, 25/10 20:32): no queremos sumar errores que luego haya que corregir
+Cada blog debe ser único y de calidad. Antes de decir «he terminado», compruébalo todo:
+1. 0 frases repetidas (8-gramas) con el resto del blog y con los hubs. Si dos medidores no coinciden, manda el que encuentra más.
+2. Solo datos reales con fuente oficial. Si falta un dato, se explica con honestidad, nunca se inventa. Revisa precios, potencias (CV homologados frente a los de catálogo) y carnet que corresponde.
+3. Fotos reales y oficiales, con crédito al autor. Nada de IA. 0 imágenes rotas y ninguna tarjeta que caiga en el logo (og).
+4. Estructura del modelo Supra completa, sin relleno: cada bloque aporta algo.
+5. Normas de AdSense: nada de contenido pobre ni duplicado, enlaces internos post↔ficha y al hub de la marca, nada de páginas huérfanas.
+6. Title y meta únicos, JSON-LD válido y sin enlaces 404.
+7. El código compila (build OK).
+En el «he terminado» incluye el resultado de cada punto. Revisaré cada blog antes de subirlo.
