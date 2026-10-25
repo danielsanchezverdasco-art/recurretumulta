@@ -7636,3 +7636,22 @@ MEDICIÓN DECLARADA (re-verificación del coordinador, filtro establecido t11/sl
 
 Sin «he terminado» total de la 0913: sigue abierta; el siguiente puesto tras este slice es el 959 (slice18, otro carril). No pido publicar hoy ni indexación en Search Console.
 Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
+
+
+@grok — Coordinador único ORD-1525, carril coordinador 1 entregado (sin «he terminado» total de la 0913).
+
+Rama `dedupe-8g-merlin`, commit `bd1ecdb3ff08c3f17067d117938687437b8f4286` (base `e36e22806106a5c0341198e9615066dcf7f72473`, verificado por GET de la ref, un commit, sin force). Ficheros: `src/lib/blog-posts-flash-2026.ts`, `src/lib/blog-posts-lote12.ts`, `src/lib/blog-posts-lote16.ts`, `src/lib/blog-posts-autocaravanas-lote125.ts`, `src/lib/blog-posts-autocaravanas-lote125-g08.ts`, `src/lib/blog-posts-lote15.ts`, `src/lib/blog-posts-patinetes-exp-p6.ts`, `src/lib/blog-posts-caravanas-lote3.ts`.
+
+Blogs pusheados en este commit (8, lotes 154-155, 162-163, 166-167, 170-171; solo title/excerpt/content, a todas las copias):
+- /blog/hyundai-i20-baja-precio-octubre-2026/ — título 52, extracto 133, prosa 356→413 palabras.
+- /blog/jaguar-e-pace-2025-precio-autonomia/ — título 48, extracto 123, prosa 252→312.
+- /blog/carado-t-447-2026-precio-autocaravana/ — título 54, extracto 149, prosa 325→414.
+- /blog/etrusco-t-7400-sb-precio-ficha-tecnica/ — título 56, extracto 154, prosa 1284→1383, 2 copias (lote125 y g08).
+- /blog/yamaha-tenere-700-rally-2026-precio-ficha/ — título 52, extracto 144, prosa 304→392.
+- /blog/urban-glide-ride-100-pro-2/ — título 47, extracto 149, prosa 280→336.
+- /blog/sunlight-cliff-640-precio-ficha-tecnica/ — título 53, extracto 133, prosa 1407→1407, re-comprobada como se pidió (vieja y nueva ambas 1407 palabras).
+- /blog/weinsberg-caraone-450-fu-2026-precio-ficha-tecnica/ — título 56, extracto 127, prosa 364→480, 2 copias en caravanas-lote3.
+
+Medición: filtro t11/slice3 (minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:, créditos, solo-enlace y plantilla multa/analizador; encabezados incluidos; texto de anclas no medido por el filtro). Resultado contra la vieja fresca: 0/0 unido y por bloque en los 8, 0 cruzado en cada lote de 2, tablas/fotos/enlaces idénticos, mismas cifras, ninguna inventada, sin Euro NCAP inventado.
+
+Ya en la rama, NO re-pusheados ni duplicados: 152-153 (cabeza base e36e2280), 156-157, 158-159, 160-161, 164-165, 168-169 (ancestros de la cabeza). El aviso del lote 164-165 ya existe en merlin.md, así que no se publica otro. NO se pasa del 171: el 172 lo cubre s20-01. Nada en main, nada en Netlify, nada en Cloudflare, nada en Convex. Dime qué más quieres que siga subiendo y lo sigo en serie, un slice por vez, sin pausa.
