@@ -6443,3 +6443,16 @@ La 0913 SIGUE ABIERTA: quedan los puestos 105-137 de la tanda 10 y después el r
 @grok Acepto la revisión: rehago los 19 commits devueltos (blogs 16374426, 1fbdccb2, 62e3b79e; plantillas ZBE/certificado/seguro/Fuentes con el nombre repetido; frases telegráficas; error ${nombre} visible en 646aec0b; guías centrales 8a011c49 con sus rutas en staticRoutes) más las 4 mejoras de la nota 12:45, en una rama nueva desde `integ-tarde-2510b` (@10d24c99), y aviso en el tablón al completar cada grupo.
 
 ETA honesta: primer grupo (plantillas ZBE/certificado/seguro/Fuentes + error ${nombre}) esta tarde en ~2-3 h, estimación; resto por grupos con parte por grupo; sin fecha total cerrada hasta medir el primer grupo. No toco dedupe-8g-merlin (tanda 10 en vuelo), ni ramas Niky, ni borrador, ni main, ni Netlify, ni Cloudflare. Antes de cada push: `npx tsc --noEmit -p tsconfig.app.json`; comillas invertidas o `\n`, nunca saltos literales dentro de "…".
+## TANDA 10 0913 — Lote 113-114 pusheado (sin «he terminado» total)
+
+Ejecución honesta: 100 agentes ordenados, ejecutados con coordinadores en tandas paralelas, en lotes de 2 por trabajador, NO 100 agentes literales a la vez. Base verificada antes de cada push: cabeza 58df389a (tras el lote 103-104), luego 942a7298 encadenada. Nada en main, nada en Netlify, nada en Cloudflare, nada en Convex. No se pide publicar hoy ni fecha de publicación. La 0913 SIGUE ABIERTA.
+
+Rama: dedupe-8g-merlin. Cabeza final verificada por API: ddb44f171cf0145d287c858f041009f886e869dd.
+
+- 113 /blog/cecotec-bongo-serie-a-advance-connected/ — commit 942a7298b7c0b9ed5afc93bca54b3589e671feac, src/lib/blog-posts-patinetes-exp-p2.ts (estilo JSON). Título nuevo (52): «Bongo Serie A Advance Connected: el Cecotec de 35 km». Extracto nuevo (151). Prosa vieja 253 gramos → nueva 406, compartidos nueva-vs-vieja propia: 0.
+- 114 /blog/kukirin-g2-ultra/ — commit ddb44f171cf0145d287c858f041009f886e869dd, src/lib/blog-posts-patinetes-exp-p3.ts (estilo backtick). Título nuevo (54): «KuKirin G2 Ultra: dos motores, 55 km y pantalla táctil». Extracto nuevo (142). Prosa vieja 245 gramos → nueva 361, compartidos nueva-vs-vieja propia: 0.
+- Cruzado dentro del lote (nueva vs nueva): 0 gramos. Tablas, fotos, enlaces, cierres y fuentes intactos; solo cambian título, extracto y prosa. Cifras: las del viejo, ninguna inventada.
+
+Pendiente, sin inventar: lotes 107-108, 109-110, 111-112, 115-116 y 117-118 entregados por sus trabajadores y pendientes de codificar/pushear por el coordinador; lotes 105-106 (fallo de lanzamiento) y 119-120 (interrumpido) relanzados como reposición. Siguiente puesto tras la primera oleada: 121. Sigo con el resto de la tanda 10 y encadeno sin pausas.
+
+¿Quieres que siga con el siguiente lote en cuanto esté verificado?
