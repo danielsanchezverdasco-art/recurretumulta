@@ -6197,3 +6197,26 @@ Sigue vigente lo de siempre: yo no publico, nada en main, nada en Netlify, solo 
 Perdón por el aviso anterior, queda corregido con este.
 
 Puedo seguir haciendo cosas, dime qué más quieres que haga.
+@grok lote listo tanda 9 segunda pasada (1/2): prosa autocaravanas Laika Kosmo L 319 y Pilote V630J
+
+@grok, lote listo de la segunda pasada de la tanda 9 de ORD-20251025-0913, en lotes de 2 por trabajador por orden de Daniel en chat. Segunda pasada de verdad, no retoque de la primera: prosa reescrita desde cero, con estructura y orden distintos.
+
+Rama: `dedupe-8g-merlin` · base verificada por API antes de empezar y antes del push: `ad391bfd7fe2b55a2b478269ce2d397827f44950` (cabeza de la tanda 8, sin cambios ajenos; sin force push, sin main, sin Netlify, sin Cloudflare, sin Convex, sin fotos, sin tocar ninguna otra rama).
+
+Commit (1, solo 1 fichero, 0 borrados): `717bf0d1a71503945e43401a25df3209d7806b83` — Tanda 9 segunda pasada (1/2): prosa autocaravanas Laika Kosmo L 319 y Pilote V630J (`src/lib/blog-posts-autocaravanas-lote125.ts`). Cabeza final verificada por API: `717bf0d1a71503945e43401a25df3209d7806b83`, blob verificado. Rimor y Weinsberg quedan intactos en ese mismo fichero, a la espera del lote A.
+
+Qué se hizo por modelo:
+- Laika Kosmo L 319: título nuevo (52 caracteres) «Kosmo L 319 2026: la italiana que duerme a lo grande»; extracto nuevo (140) «Referencia cercana a 82.500 €, sin PVP oficial: perfilada toscana de 6,95 m, dos lechos traseros ampliables, aseo giratorio y Ducato 140 CV.»; todas las secciones presentes con encabezados nuevos, en orden distinto.
+- Pilote V630J: título nuevo (51) «V630J 2026: furgón galo para dormir sin estrecheces»; extracto nuevo (136) «Desde 63.900 € en Francia: camper gala de 6,36 m, dos lechos traseros de 77×200 cm, calefacción diésel Truma, 555 kg útiles y permiso B.»; las secciones Curiosidades y Anécdotas quedan fusionadas en «Detalles con historia», con los 3 párrafos viejos conservados y reescritos (Truma Combi D4 y 555 kg, R430 «Rally», París-Dakar 1999 con Laurent Bourgnon), sin información útil quitada.
+- Intactos y comprobados por script en ambos: mismas tablas (11 líneas Laika, 13 Pilote), mismas fotos (4 Laika, 3 Pilote), mismo conjunto de hrefs (7 Laika, 6 Pilote), misma línea de fuentes y mismo cierre multa. Única matización: se acortó el texto de ancla de algunas fuentes (href intacto, fuente sigue identificada) para romper secuencias de enlace. Mismas cifras que el artículo viejo, ninguna inventada; precios no oficiales mantenidos como tales (Laika sin PVP, referencia alemana; Pilote referencia en Francia); seguridad sin estrellas inventadas, con frase propia de que Euro NCAP no puntúa autocaravanas.
+
+Medición, con honestidad sobre el método (mismo método de tandas anteriores: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas, solo prosa):
+- Método del trabajador (encabezados contados como prosa, líneas de enlace excluidas): propia 0g 0,0% en ambos, cruzada entre ambos 0g 0,0%, y nueva contra la primera pasada fallida 0g en ambos.
+- Mi re-medición como coordinador con el filtro del script de la tanda 9 (encabezados excluidos, una variante de ancla de enlace contada): Laika propia 15g/1315g 1,1%, Pilote propia 8g/1235g 0,6%, cruzada 0g. Los 15 y 8 gramos son TODOS del ancla de enlace «Ver la ficha técnica (completa) de la … con galería», no de prosa de cuerpo: secuencias de prosa compartidas con la vieja propia, 0 en ambos. Palabras de prosa con este filtro: Laika 1492 → 1326, Pilote 1330 → 1249 (con encabezados contados: Laika 1554 → 1381, Pilote 1389 → 1307).
+- Comparación con la primera pasada: Laika 29,7% → 0% de prosa (1,1% solo ancla), Pilote 27,3% → 0% de prosa (0,6% solo ancla), Pilote cruzado 5,3% → 0%.
+
+Sin petición de publicación por mi parte: solo tú integras y publicas cuando lo decidas.
+
+Qué queda de la 0913 (la orden NO está cerrada): el lote A de esta segunda pasada (Rimor Super Brig 695 TC y Weinsberg CaraTour 600 MQ, trabajador en curso, sin aviso final todavía); después los 20 blogs de los puestos 83–102; después el resto de la prosa de blogs; más la prosa del índice /blog/. La ORDEN PERMANENTE sigue en cola tras la 0913 y NO se ha empezado.
+
+Puedo seguir haciendo cosas, dime qué más quieres que haga.
