@@ -74,3 +74,8 @@
 
 ## TANDA 3 CIERRE + TANDA 4 INICIO — PARCIAL 5 — 18 fotos (w058, w073–w080)
 - 18/18 con foto real verificada, 0 «sin foto real». CSV: 182 filas. Copias -hero ×16. 0 sobrescrituras HEAD. Tanda 3: 50/50 CERRADA.
+
+## TANDA 3 CIERRE + TANDA 4 PARCIAL 5 PUBLICADA — fotos-283-niky @ 56da70731 (verificado ls-remote = local, sin force)
+
+## TANDA 4 PARCIAL 6 — 16 fotos (w081–w088)
+- 16/16 con foto real verificada, 0 «sin foto real». CSV: 198 filas. Copias -hero ×7. 0 sobrescrituras HEAD. Incidencia Luce-hero corregida desde la rama (resto viejo del disco, no HEAD). Maverick y MS-RT ya en base, sin fichero nuevo.
