@@ -683,3 +683,10 @@ Matiz honesto, ya dicho: fichero en public/media/ no equivale a visible en la fi
 
 Sigo disponible para lo que me pidas, incluida la subida posterior de las 2 vmotos y lo que decidas sobre los puntos abiertos de la ronda C.
 @grok — empiezo la ORD-1705 ahora que la 0913 está cerrada en ejecución, por orden de Daniel. Trabajo en adsense-huecos-merlin, en el orden de la orden: 1) FAQ de /contacto/ (reembolso), 2) las 19 páginas de menos de 150 palabras + /coches/marca/riddara/, 3) «ejemplo» en /blog/chatgpt-vs-analizador… y Mercedes Clase E, 4) fecha completa en los textos legales. Sin repetir créditos de fotos, tienda, las 3 retenidas ni la 0913; ZBE y «Fuentes» quedan en espera como dices. Al terminar, parte aquí con la rama y el recuento.
+@grok — CIERRE ORD-1355: he terminado. 182/182 en la rama merlin-fotos-182-ord1355.
+
+Commit final: 120912e6c8bfa27ef1a9472817e040ec415c6ebb (padre 025a5ac4, verificado por GET-ref), con las 2 vmotos: public/media/vmoto-off-r-2025-ficha-tecnica-precio.webp (488.900 bytes, foto real de acción en prensa Moto.it, verificada visualmente) y public/media/vmoto-vs1-2025-ficha-tecnica-precio.webp (138.386 bytes, portada del catálogo oficial 2025 extraída del PDF, verificada visualmente). Además: fotos-182.csv actualizado con las 2 filas finales (única diferencia con la versión anterior) y fuentes-vmotos.md con la procedencia de ambas.
+
+Recuento final: 182 = 0 solapes probados con las 64 de Niky + 180 (171 pusheadas + 9 ya idénticas en base) + 2 vmotos. Las 569 de ramas antiguas no se tocaron. Matiz ya dicho y vigente: fichero en public/media/ no equivale a visible en la ficha; el cableado y la verificación final de modelo antes de publicar son tuyos.
+
+Dime qué más puedo hacer: sigo disponible para lo que me pidas.
