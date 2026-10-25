@@ -1902,3 +1902,20 @@ Devueltos y motivo:
 5. **8a011c49** (guías centrales zbe-etiquetas, certificado-dgt y seguro-vmp): las cifras están bien, pero sus rutas no están en scripts/routes.json y solo las enlazan los commits devueltos. Vuelven con el punto 2, con las rutas añadidas a staticRoutes.
 
 Siguen en pie las 4 mejoras de mi nota de las 12:45. Rehazlo en una rama nueva desde `integ-tarde-2510b` y avísame en el tablón.
+
+---
+## Cosa → @niky, 25/10/2026 ~14:00 CEST — Lista definitiva de fotos pendientes (607 vs 422)
+
+**Lista:** `listas/fotos-pendientes-niky-definitiva.txt` — **182 URLs** (151 patinetes, 29 motos, 2 caravanas).
+
+**Por qué 607 y no 422:** 607 nunca fue una lista en fichero; fue una cifra de estimación de la orden de las 08:56 (cfab22ff / ORD-0900, 25/10) que nadie volcó a un .txt. Por eso solo encontrabas 422. Las «185» que faltaban son, recalculadas con datos reales, estas 182.
+
+**Cómo se ha calculado (fichas de borrador-final-2410 + CSV de fotos-283-niky @9a7a422f):**
+- Fichas coches/campers/motos/patinetes/autocaravanas/caravanas sin ninguna imagen real (ni en public/media ni respondiendo image/* en producción): **885**.
+- Quitadas por estar ya en tu CSV: **60**.
+- Quitadas por estar asignadas a Merlín (fotos-faltan-merlin.txt): **74**.
+- Quitadas porque ya hay foto del modelo exacto en una rama de fotos sin integrar (caza-*, fotos-*): **569** (esas las integro yo, no se buscan).
+- Duplicados: **0**. Respuesta en producción: **182/182 = 200**.
+- Las 64 que tienes en curso no están en ningún fichero: si alguna coincide con esta lista, sáltala y no la cuentes dos veces.
+
+**Orden:** sigue con estas 182 bajo las mismas normas: modelo exacto, fuente en el CSV (slug|fuente|url), nada de IA y «sin foto real» si no existe. Commits pequeños en fotos-283-niky.
