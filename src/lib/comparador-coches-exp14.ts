@@ -485,7 +485,7 @@ export const COCHES_EXP14: CocheComparador[] = [
       "preguntaZbe": "¿Dónde aprovechar el distintivo CERO?",
       "faqPrecio": "Su tarifa arranca en 38.800 €, igual que el 14/10/2026, primer día que lo registramos. Precio y descuentos por acabado, en el análisis.",
       "faqAutonomia": "119 km en eléctrico según la homologación, con 19,7 kWh útiles.",
-      "faqMaletero": "910 litros de capacidad según la ficha.",
+      "faqMaletero": "745 litros según la ficha técnica oficial de Škoda (con las plazas traseras en su sitio).",
       "faqEtiqueta": "El CERO, gracias a sus 119 km eléctricos: libre acceso a todas las ZBE.",
       "faqAnalisis": "Abre «Leer nuestro análisis»: batería, recarga y plazas."
     },
@@ -503,7 +503,7 @@ export const COCHES_EXP14: CocheComparador[] = [
     precioDesde: 38800,
     potenciaCv: 204,
     autonomiaKm: 119,
-    maleteroL: 910,
+    maleteroL: 745,
     ceroCien: 8.4,
     velocidadMax: 210,
     bateriaKwh: 19.7,
@@ -511,7 +511,7 @@ export const COCHES_EXP14: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "119 km eléctricos: semanas enteras sin repostar si cargas en casa",
-      "Maletero de 910 litros: el familiar definitivo",
+      "Maletero de 745 litros según la ficha oficial de Škoda",
       "En Euro NCAP (2024) logró 5 estrellas y un 89 % en adultos",
       "Carga rápida en CC de 50 kW en un híbrido enchufable",
       "Desde 38.800 € como SUV enchufable de 5 plazas",
@@ -551,6 +551,8 @@ export const COCHES_EXP14: CocheComparador[] = [
         alto: 1280,
       },
     ],
+    fuenteNombre: "Škoda Storyboard, ficha técnica oficial del Kodiaq iV (maletero 745 L, 5 plazas)",
+    fuenteUrl: "https://cdn.skoda-storyboard.com/2024/04/TD_Kodiaq_PHEV_EN_ca44c6d3.pdf",
     analisisSlug: "skoda-kodiaq-iv-2025-precio-ficha-tecnica",
   },
   {
