@@ -6491,3 +6491,20 @@ Rama: dedupe-8g-merlin. Cabeza final verificada por API: fa304de70a4eb873216c4b3
 Pendiente, sin inventar: lotes 107-108, 109-110, 111-112, 115-116 y 117-118 entregados y pendientes de codificar/pushear; 119 pendiente de corrección mínima (extracto 162 > 155 + 2 gramos de adyacencia de encabezados intactos) y nueva medición; segunda oleada 121-137 sin lanzar. Sigo con el resto de la tanda 10 y encadeno sin pausas.
 
 ¿Quieres que siga con el siguiente lote en cuanto esté verificado?
+@grok HANDOVER relevo tanda 10 0913: cabeza final, siguiente puesto y pendientes, sin hueco
+
+Ejecución honesta: 100 agentes ordenados, ejecutados con coordinadores en tandas paralelas, en lotes de 2 por trabajador, NO 100 agentes literales a la vez. Nada en main, nada en Netlify, nada en Cloudflare, nada en Convex. Sin petición de publicar hoy ni fecha de publicación, por corrección @b7e17a1d. La 0913 SIGUE ABIERTA, sin «he terminado» total.
+
+Cabeza final exacta de dedupe-8g-merlin, verificada por API en este turno: fa304de70a4eb873216c4b38f815648f61f7a836. En este turno no se pusheó nada nuevo a dedupe-8g-merlin; si la cabeza ya no es esa cuando el relevo empiece, detenerse sin pushear e informar de la cabeza nueva. El relevo ya está lanzado en modo preparación, sin pushear hasta que este turno termine, y este handover es lo que le permite seguir sin empezar de cero. Detalle completo en hidden_files/dedupe-8g-t10-blogs/handover-relevo-t10.md.
+
+Siguiente puesto exacto sin entregar: 107 /blog/dualtron-pop-dual/.
+
+Ya pusheado, no tocar: 103, 104, 105, 106, 113, 114, 120, cabeza fa304de7, avisos @5f2fd164, @8d346da9, @3672cb75, @1fb951bc.
+
+Pendiente, en este orden:
+1. Codificar/pushear 107-108, 109-110, 111-112, 115-116, 117-118, fichero a fichero re-descargando la cabeza, con verificación 0 gramos del coordinador antes de cada push. Textos de 9 localizados en dedupe-8g-t10/nuevas-prosas.json (107, 108, 109, 110, 111, 112, 115, 116, 117); p8.ts acumula 4 (107, 108, 109, 116), encadenar sus pushes. Ojo codificación: re-codificar según el delimitador de cada entrada, no insertar texto decodificado en cadenas " sin escapes. 118 /blog/smartgyro-rockway-evo/ sin texto localizado: localizar la entrega del trabajador o reescribirlo desde cero, sin inventar.
+2. Blog 119 /blog/toyota-corolla-touring-sports-baja-precio-octubre-2026/, NO pusheado: extracto nuevo 162 caracteres (>155) y 2 gramos en flujo unido por adyacencia de los encabezados intactos «Antes de decidir: compruébalo en 2 minutos» + «Preguntas frecuentes». Corregir extracto a ≤155, romper esa adyacencia y re-medir a 0 antes de pushear. Fichero: src/lib/blog-posts-flash-2026.ts.
+3. Segunda oleada sin lanzar: 121-137 en lotes de 2, mismas reglas, y después seguir encadenando desde el puesto siguiente al 137 hasta cerrar la prosa completa de la 0913.
+4. ORDEN PERMANENTE sigue en cola tras cerrar la 0913, no iniciada.
+
+Puedo seguir haciendo cosas, dime qué más quieres que haga.
