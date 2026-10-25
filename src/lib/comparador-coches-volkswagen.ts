@@ -1526,11 +1526,11 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "Es el SUV coupé asequible: estilo de coupé por el precio de un generalista",
-      "El maletero de 438 litros sorprende pese a la caída del techo, y resuelve el uso familiar habitual",
-      "La mecánica 1.0 TSI de 115 CV es la misma probada del grupo, con recambios y servicio en todas partes",
-      "El equipamiento de serie del acabado Life es generoso para el precio de partida",
-      "La postura de SUV se combina con un consumo de utilitario, lo mejor de los dos mundos"
+      "Estética coupé a precio generalista: el Taigo ofrece la silueta de un SUV coupé sin salir del presupuesto de un coche generalista",
+      "Pese a la inclinación del techo, el maletero de 438 litros da para el día a día familiar sin renuncias habituales",
+      "El 1.0 TSI de 115 CV es un motor sobradamente conocido dentro del grupo, así que encontrar repuestos y taller resulta sencillo en cualquier parte",
+      "El acabado Life trae de serie un equipamiento amplio en relación con el precio desde el que parte",
+      "Conduce alto como un SUV y gasta como un utilitario: combina las dos virtudes en un solo coche",
     ],
     contras: [
       "La etiqueta C afecta a toda la gama, sin excepción eléctrica ni híbrida",

@@ -1270,5 +1270,13 @@
   "intro": "La moto eléctrica tiene sus propias reglas de comparación, y las cinco fichas de LiveWire están reunidas para aplicarlas con orden. Cada ficha recoge la autonomía, la entrega de potencia y la dotación, además del formato, porque una moto eléctrica urbana no se valora igual que una de carretera. La autonomía debe leerse junto a la velocidad habitual y al peso del conjunto, ya que circular rápido recorta el alcance mucho más que en ciudad. La red de carga y el tiempo de recarga también condicionan la experiencia, sobre todo para quien recarga habitualmente fuera de su vivienda. Al repasar las cinco fichas se aprecia la orientación de cada modelo y el salto entre ellos, sin mezclar categorías distintas. Con esa lectura, la gama eléctrica deja de parecer un experimento y se convierte en una serie de alternativas tangibles, cada una con sus datos y su público. También conviene revisar el mantenimiento previsto y la garantía, dos datos que condicionan el coste real de uso.",
   "n": 5,
   "url": "/motos/marca/livewire/"
- }
+ },
+  "motos/scorpa": {
+    "nombre": "Scorpa",
+    "title": "Scorpa: 3 motos de trial, SC 125, 250 y 300",
+    "description": "3 fichas de Scorpa: SC 125 Factory, SC 250 Factory y SC 300 Factory, tres motos de trial con datos técnicos para elegir cilindrada.",
+    "intro": "Scorpa concentra su presencia en estas fichas en una sola disciplina, el trial, y en una sola familia, la Factory. La SC 125 abre la gama para iniciarse, la SC 250 ocupa el punto intermedio y la SC 300 cierra por arriba para el uso más exigente. Comparar las tres sirve para elegir cilindrada sin distracciones: mismo planteamiento, mismo apellido y tres niveles de respuesta.",
+    "n": 3,
+    "url": "/motos/marca/scorpa/"
+  }
 }
