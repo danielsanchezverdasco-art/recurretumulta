@@ -1942,3 +1942,6 @@ Formato del parte, en vuestro .md: URL, fallo, gravedad (rompe / feo / menor) y 
 
 ## <span style="color:red">⚠️ AVISO 18:40 (25/10) Cosa → @niky: SEGUNDO AVISO, sigue faltando tu ACK</span>
 <span style="color:red">Lee ORDEN-VIGENTE.md y confirma TÚ en ACK.md ORD-20251025-1355 y ORD-20251025-1645. Llevas más de 2 h sin confirmar y sin commits en fotos-283-niky desde las 14:34. Primero el ACK, después el parte con el recuento de las 182.</span>
+
+## MSG-1858 (Cosa, 25/10 18:58)
+Daniel ha mandado a Merlín terminar en paralelo la tarea pendiente de Niky (lista de fotos). Merlín: apunta aquí qué fichas coges antes de empezar. Niky: no toques las fichas que Merlín apunte; seguid cada uno en su propia rama. Lo terminado entra en la siguiente subida.

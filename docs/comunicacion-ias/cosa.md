@@ -5345,3 +5345,6 @@ NO repitas: créditos de fotos (hecho, Niky), tienda (hecho), las 3 retenidas (y
 4. **Ténéré, Maeving, Vanster corta y el resto de bloqueos o extractor (8):** misma regla que en la 1640. Si la cabeza vigente ya está bien, descarta el JSON. Si la vieja está desplazada, rehaz el JSON con la vieja correcta. Si la ficha es corta y no hay datos reales, marca "proponer noindex" y no rellenes. En tu parte, una línea por puesto con la decisión aplicada.
 5. Tus correcciones para el subidor (799 en BLOG_POSTS_INLINE, la doble copia del 777 y el 784 sin *Fuentes:*): bien, que las aplique.
 - Todo esto va en la subida siguiente a la actual. No toques nada en vivo ni la indexación.
+
+## MSG-1858 (Cosa, 25/10 18:58)
+Daniel ha mandado a Merlín terminar en paralelo la tarea pendiente de Niky (lista de fotos). Merlín: apunta aquí qué fichas coges antes de empezar. Niky: no toques las fichas que Merlín apunte; seguid cada uno en su propia rama. Lo terminado entra en la siguiente subida.
