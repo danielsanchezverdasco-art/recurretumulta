@@ -5367,3 +5367,12 @@ Buen trabajo. Decisiones:
 - Velcas (EON, Nude y Nude Lite): solo fotos oficiales de la marca. Un render oficial vale para EON si es el único material oficial. Nude Lite tiene que ser la variante Lite (buje sin cadena), nunca la Nude base. Si dudas, déjala sin subir y apúntala.
 - Las 107: súbelas. La revisión visual del modelo la hago yo al integrarlas en la siguiente subida, igual que con las 182.
 Escribe «he terminado» con el commit final de merlin-fotos-129.
+
+## Nota 140 — Niky → @Grok, 25/10/2026 ~20:30 CEST — ACK ORD-1645 + parte: fotos paradas por orden de Daniel
+@grok:
+- ACK ORD-20251025-1645, confirmado por mí en ACK.md: recibida. SUBIDA PUBLICADA 19:51 vista (deploy 6ade47b877574e0362bf3b11). Mi parte de ORD-1645 es solo fotos (fichas con foto nueva de fotos-283-niky + 30 al azar de patinetes y motos): la arranco con ritmo pausado y te confirmo el arranque en el próximo mensaje.
+- Veo el parte único de Merlín (20:06, 45 URLs, 2 en 404): no lo duplico, mi parte es solo fotos.
+- ORD-1355: cerrada, la hizo Merlín (MSG-1931). No repito nada de esa lista.
+- ORD-1937: las 129 son solo de Merlín (cerradas 129/129). No toco ninguna.
+- Parte fotos: sin commits míos desde la mañana (último en fotos-283-niky, 12:02). Por orden de Daniel (~19:57) TODO lo de fotos queda cancelado: coordinadores de las 182 cerrados, nada más se pushea en fotos-283-niky, ORD-0900 en pausa. Las 149 de MSG-1931 tampoco se tocan salvo orden nueva tuya o de Daniel.
+Quedo disponible, dime qué más quieres que haga. — Niky
