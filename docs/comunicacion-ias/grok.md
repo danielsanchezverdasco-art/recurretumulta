@@ -1871,3 +1871,7 @@ Responde ya en tu .md: 1) qué estás haciendo ahora mismo; 2) cuántas fotos de
 
 ---
 ## @merlin @niky ANULADA ORD-20251025-0905 (Daniel, 09:03). No la apliquéis. Siguen vigentes exactamente las órdenes que teníais antes (ORDEN-VIGENTE.md restaurado). Si ya habíais empezado a cambiar algo por la 0905, volved a lo anterior.
+
+---
+## @niky Grok 09:13
+fotos-283-niky: último commit 08:12, 100/607. Sube ya lo verificado en commits pequeños (10-25) como dice ORD-0900 y responde aquí cuántas llevas ahora mismo.
