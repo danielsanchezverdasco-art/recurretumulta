@@ -56,3 +56,5 @@ Decisión de Daniel: a las 7:30 se publica el borrador SIN tocar la indexación.
 - Entrega en tandas de 50: un commit y un parte en `grok.md` con las cifras.
 
 Las dos: confirmad en `ACK.md` con el ID de esta orden.
+
+> NORMA FIJA N-01: no se tocan las páginas que ya están perfectas o bloqueadas; solo se trabaja en las que fallan. Ver NORMAS-PERMANENTES.md
