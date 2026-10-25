@@ -6220,3 +6220,26 @@ Sin petición de publicación por mi parte: solo tú integras y publicas cuando 
 Qué queda de la 0913 (la orden NO está cerrada): el lote A de esta segunda pasada (Rimor Super Brig 695 TC y Weinsberg CaraTour 600 MQ, trabajador en curso, sin aviso final todavía); después los 20 blogs de los puestos 83–102; después el resto de la prosa de blogs; más la prosa del índice /blog/. La ORDEN PERMANENTE sigue en cola tras la 0913 y NO se ha empezado.
 
 Puedo seguir haciendo cosas, dime qué más quieres que haga.
+@grok lote listo tanda 9 segunda pasada (2/2): prosa autocaravanas Rimor Super Brig 695 TC y Weinsberg CaraTour 600 MQ
+
+@grok, lote listo de la segunda pasada de la tanda 9 de ORD-20251025-0913, en lotes de 2 por trabajador por orden de Daniel en chat. Con este lote, las 4 autocaravanas pendientes de la tanda 9 quedan entregadas; la 0913 sigue abierta por la prosa de blogs.
+
+Rama: `dedupe-8g-merlin` · base verificada por API antes de empezar y antes del push: `717bf0d1a71503945e43401a25df3209d7806b83` (cabeza del lote B, sin cambios ajenos; sin force push, sin main, sin Netlify, sin Cloudflare, sin Convex, sin fotos, sin tocar ninguna otra rama).
+
+Commit (1, solo 1 fichero, 0 borrados): `d5d761a9ee358fe31176a7a7d14654de2f5f5095` — Tanda 9 segunda pasada (2/2): prosa autocaravanas Rimor Super Brig 695 TC y Weinsberg CaraTour 600 MQ (`src/lib/blog-posts-autocaravanas-lote125.ts`). Cabeza final verificada por API: `d5d761a9ee358fe31176a7a7d14654de2f5f5095`, blob verificado. Laika y Pilote del lote B quedan intactos en ese mismo fichero, verificados por re-extracción.
+
+Qué se hizo por modelo:
+- Rimor Super Brig 695 TC: título nuevo (53) «Rimor Super Brig 695 TC 2026: capuchina familiar Ford»; extracto nuevo (152) «Desde 71.960 € (lista alemana 2026-27, sin PVP español): Rimor Super Brig 695 TC, capuchina de 7,31 m, cinco plazas de noche y Transit 130 CV, carnet B.»; 113/113 líneas, todas las de prosa reescritas, encabezados y preguntas FAQ nuevos.
+- Weinsberg CaraTour 600 MQ: título nuevo (52) «Weinsberg CaraTour 600 MQ 2026: camper de cama ancha»; extracto nuevo (145) «Desde 53.100 € en Alemania (sin PVP en España): CaraTour 600 MQ 2026, camper de 5,99 m, cama transversal de 194×152 cm y Ducato 140 CV, carnet B.»; 112/112 líneas, todas las de prosa reescritas.
+- Intactos y comprobados por script en ambos: tablas (11 Rimor, 12 Weinsberg), fotos, línea suelta de fuentes y cierre multa; conjuntos de hrefs idénticos a los viejos (7 Rimor, 5 Weinsberg), solo varía el texto de ancla de citas dentro de la prosa reescrita. Mismas cifras que el artículo viejo, ninguna inventada; referencias no oficiales mantenidas como tales; seguridad sin estrellas inventadas (Rimor: el programa deja fuera a las autocaravanas; Weinsberg: las estrellas no aplican, sin nota que comparar).
+
+Medición, con la corrección del coordinador declarada (mismo método de tandas anteriores: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas, solo prosa):
+- Método del trabajador (encabezados contados como prosa, líneas de enlace excluidas): Rimor propia 22g 1,46% con own_prose_shared 0, Weinsberg propia 20g 1,38% con own_prose_shared 0, cruzada entre ambos 0g 0,0%, nueva contra la primera pasada 29g 1,93% y 25g 1,72% respectivamente, también 0 de prosa.
+- Mi re-medición como coordinador con el filtro del script de la tanda 9 (encabezados excluidos, una variante de ancla de enlace contada) dio al principio Rimor 40g 2,8%: 2 de esos gramos eran un fragmento genuino de prosa («espaciosa, no lujosa ni compacta», seguido del byline). Lo corregí yo mismo antes de pushear, cambiando esa frase por «amplia, sin pretensiones de lujo ni de formato reducido», sin cambiar ningún dato. Tras la corrección: Rimor propia 38g/1436g 2,6%, Weinsberg propia 37g/1382g 2,7%, cruzada 0g. Todos los gramos restantes son secuencias de datos (dimensiones, MMA, Ford Transit 2.0 130 CV, Fiat Ducato 2.2 Multijet 140 CV, cama 194×152) o anclas de enlace («Ver la ficha técnica (completa) de la … con galería») o cruces de flujo con una línea de enlace: secuencias de prosa de cuerpo compartidas con la vieja propia, 0 en ambos tras la corrección. Palabras de prosa con este filtro: Rimor 1402 → 1461, Weinsberg 1433 → 1409.
+- Comparación con la primera pasada: Rimor 15,4% → 0% de prosa, Weinsberg 39,0% → 0% de prosa.
+
+Sin petición de publicación por mi parte: solo tú integras y publicas cuando lo decidas.
+
+Qué queda de la 0913 (la orden NO está cerrada): los 20 blogs de los puestos 83–102, en lotes de 2 por trabajador, que son el siguiente paso; después el resto de la prosa de blogs; más la prosa del índice /blog/. La ORDEN PERMANENTE sigue en cola tras la 0913 y NO se ha empezado.
+
+Puedo seguir haciendo cosas, dime qué más quieres que haga.
