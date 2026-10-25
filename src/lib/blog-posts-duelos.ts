@@ -645,9 +645,9 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
 `,
   },
   {
-    title: "Peugeot E-5008 vs Skoda Peaq 2026",
+    title: "Peugeot E-5008 o Skoda Peaq: ¿cuál conviene a tu familia?",
     slug: "peugeot-e-5008-vs-skoda-peaq-cual-comprar",
-    excerpt: "Los dos SUV eléctricos de 7 plazas que se disputan a las familias: el Peugeot E-5008 desde 44.380 € y el Skoda Peaq desde 54.550 €. Comparamos",
+    excerpt: "Siete plazas, electricidad y unos 10.000 € de separación inicial: comparamos autonomía, maletero, carga y prestaciones del E-5008 y el Peaq.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -664,11 +664,11 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     content: `<img src=/media/peugeot-e-5008-vs-skoda-peaq-cual-comprar-hero.webp alt=Comparativa entre el Peugeot E-5008 y el Skoda Peaq, los dos SUV eléctricos de 7 plazas>
 
-El duelo familiar del año: **Peugeot E-5008** eléctrico desde **44.380 €** contra **Skoda Peaq** desde **54.550 €**. Los dos son SUV eléctricos con 7 plazas, los dos rondan los 4,8 metros y los dos presumen de autonomía. Pero hay 10.000 € de diferencia de partida y filosofías distintas. Si buscas el coche familiar eléctrico definitivo, esta es tu comparativa.
+Dos familiares eléctricos, siete asientos y un abismo en la tarifa inicial: el francés arranca en 44.380 € y el checo en 54.550 €. Ambos superan los cuatro metros ochenta de longitud, ambos prometen recorridos largos sin enchufar y ambos se venden como solución única para una familia numerosa. La pregunta, por tanto, no es si sirven, sino cuál encaja mejor con tu bolsillo, tu garaje y tus viajes habituales. Aquí los ponemos cara a cara, dato a dato, sin medias tintas.
 
 Fichas técnicas: <a href=/coches/peugeot-e-5008-electrico-7-plazas-precio/>ver ficha técnica completa del Peugeot E-5008</a> · <a href=/coches/skoda-peaq-suv-electrico-7-plazas-precio/>ver ficha técnica completa del Skoda Peaq</a>.
 
-## Tabla comparativa: Peugeot E-5008 vs Skoda Peaq
+## Los dos frente a frente, cifra a cifra
 
 | Ficha | Peugeot E-5008 (Eléctrico 210) | Skoda Peaq (90) |
 |---|---|---|
@@ -692,63 +692,63 @@ Fichas técnicas: <a href=/coches/peugeot-e-5008-electrico-7-plazas-precio/>ver 
 
 <img src=/media/peugeot-e-5008-skoda-peaq-duelo-cuerpo.webp alt=Peugeot E-5008 y Skoda Peaq en comparativa>
 
-## Análisis: qué ofrece cada uno
+## Lo que aporta cada modelo
 
-**Peugeot E-5008.** La apuesta familiar de Stellantis sobre la plataforma STLA Medium: 4,79 m, batalla de 2,90 m y tres filas (2+3+2) en las que, según quienes lo han probado, **caben adultos de verdad en la tercera fila**. La gama eléctrica: 210 Allure (73 kWh) desde 44.380 €, 210 GT desde 48.980 €, **Long Range 230 (96,9 kWh y 668 km, récord del segmento)** desde 49.010 € y Dual Motor 325 desde 54.160 €. Además hay híbrido de 136 CV e híbrido enchufable de 195 CV para indecisos. i-Cockpit panorámico de 21", más de 40 ADAS y maletero modulable de hasta 1.815 litros con las filas abatidas. Sus pegas: 2,4 toneladas, carga de 160 kW correcta pero no puntera y un diseño menos emocional que el 3008.
+**Peugeot E-5008.** Sobre la base STLA Medium, Stellantis plantea un familiar de 4,79 m con una distancia entre ejes de 2,90 m y una disposición 2+3+2. Quienes lo han conducido coinciden en que la última fila admite ocupantes adultos sin castigo, algo poco habitual en este formato. La oferta eléctrica se articula en cuatro escalones: Allure 210 con 73 kWh desde 44.380 €, GT 210 desde 48.980 €, Dual Motor 325 desde 54.160 € y, como variante de mayor recorrido, la Long Range 230, que con 96,9 kWh declara 668 km por 49.010 €. Para quien no quiera enchufar siempre, la gama añade un híbrido de 136 CV y un enchufable de 195 CV. Dentro destacan la pantalla panorámica i-Cockpit de 21 pulgadas, un arsenal de más de 40 ayudas a la conducción y un hueco que crece hasta 1.815 litros abatiendo las dos filas traseras. En el debe: una masa cercana a las 2,4 toneladas, una potencia de carga de 160 kW que hoy ya no lidera y una estética más sobria que la del 3008.
 
-**Skoda Peaq.** El buque insignia de Skoda: 4,87 m, **646 km de autonomía** (récord real de 936 km con una sola carga), maletero de **935 L** y 7 plazas. En España solo se venden las versiones potentes: Peaq 90 (286 CV, trasera) desde 54.550 € y Peaq 90x (299 CV, total); el tope con 7 plazas y acabado Sportline llega a 62.450 €. Carga a 200 kW, consume solo 15 kWh/100 km y acelera en 6,8 s: es más rápido y eficiente que el Peugeot. Sus pegas: 10.000 € más caro de partida, 2,3-2,4 toneladas y tercera fila justa para adultos altos.
+**Skoda Peaq.** El modelo más ambicioso de la marca checa mide 4,87 m, declara 646 km de recorrido y presume de un registro real de 936 km con una única carga. Su maletero anuncia 935 L y su habitáculo admite siete ocupantes. En el mercado español solo llegan las variantes de mayor potencia: Peaq 90 de 286 CV y propulsión trasera desde 54.550 €, y Peaq 90x de 299 CV con tracción total; la configuración superior con siete asientos y acabado Sportline alcanza los 62.450 €. Carga a 200 kW, gasta 15 kWh cada 100 km y firma un 0 a 100 en 6,8 s, cifras que lo sitúan por delante del francés en brío y eficiencia. Sus sombras: un acceso unos 10.000 € más costoso, una masa también entre 2,3 y 2,4 toneladas y una última fila pensada sobre todo para los más pequeños cuando el ocupante es alto.
 
-## Pros y contras
+## Puntos fuertes y puntos débiles
 
 **Peugeot E-5008:**
-- ✅ 668 km de autonomía Long Range: récord entre los SUV eléctricos de 7 plazas
-- ✅ 7 plazas reales con tercera fila utilizable por adultos
-- ✅ i-Cockpit panorámico de 21" y más de 40 ADAS
-- ✅ Gama multienergía: eléctrico, híbrido y PHEV a elegir
-- ✅ 10.000 € más barato de partida que el Peaq
-- ❌ 2,4 toneladas: el peso se nota en consumo y agilidad
-- ❌ Carga rápida de 160 kW, correcta pero no puntera
-- ❌ Diseño menos emocional que el de su hermano 3008
+- ✅ Long Range con 668 km: la mayor autonomía declarada entre los familiares eléctricos de siete plazas
+- ✅ Última fila aprovechable por personas adultas, no solo por niños
+- ✅ Pantalla panorámica i-Cockpit de 21 pulgadas y más de 40 ayudas a la conducción
+- ✅ Oferta multienergía: eléctrico, híbrido e híbrido enchufable dentro de la misma gama
+- ✅ Acceso unos 10.000 € por debajo del Peaq
+- ❌ Masa próxima a 2,4 toneladas, que pasa factura en gasto y agilidad
+- ❌ Potencia de carga de 160 kW: correcta, pero lejos de la punta actual
+- ❌ Imagen menos llamativa que la de su hermano menor, el 3008
 
 **Skoda Peaq:**
-- ✅ 646 km de autonomía: de las mejores del segmento
-- ✅ Maletero de 935 L, el más grande de su categoría
-- ✅ Carga rápida de 200 kW y consumo ajustado (15 kWh/100 km)
-- ✅ 6,8 s en el 0-100: notablemente más rápido
-- ❌ Desde 54.550 €: 10.000 € más que el E-5008 de acceso
-- ❌ La tercera fila es justa para adultos altos; pensada para niños
-- ❌ 2,3-2,4 toneladas: en carreteras reviradas se nota el peso
+- ✅ Autonomía declarada de 646 km, entre las mejores de su clase
+- ✅ Hueco de carga de 935 L, el mayor de su categoría
+- ✅ Carga a 200 kW con un gasto contenido de 15 kWh cada 100 km
+- ✅ Aceleración de 0 a 100 en 6,8 s, claramente más vivo
+- ❌ Tarifa inicial desde 54.550 €: unos 10.000 € por encima del E-5008 básico
+- ❌ Última fila estrecha para adultos altos; mejor reservada a niños
+- ❌ Entre 2,3 y 2,4 toneladas: en carreteras viradas se deja notar
 
-## Veredicto: ¿cuál comprar?
+## La decisión final
 
-**Compra el Peugeot E-5008 si** buscas la mejor relación precio/plazas: es 10.000 € más barato, su tercera fila admite adultos de verdad y la versión Long Range (49.010 €) homologa 668 km, más que el Peaq. **Compra el Skoda Peaq si** priorizas la autonomía de la versión base (646 km frente a 499 km), el maletero más grande (935 L frente a 748 L), la carga más rápida (200 kW frente a 160 kW) y mejores prestaciones. Dicho sin rodeos: el Peugeot es la compra racional; el Skoda, el mejor producto si el presupuesto lo permite.
+**Elige el Peugeot E-5008 si** priorizas la ecuación precio y plazas: cuesta unos 10.000 € menos de entrada, su última fila acoge a adultos sin apuros y la variante Long Range, por 49.010 €, declara 668 km, por encima del Peaq. **Elige el Skoda Peaq si** valoras más el recorrido de la versión básica, 646 km contra 499 km; un hueco claramente superior, 935 L contra 748 L; una carga más veloz, 200 kW contra 160 kW; y unas prestaciones mejores. Resumiendo sin adornos: el francés es la opción sensata; el checo, el producto superior cuando el presupuesto da de sí.
 
-Enfréntalos en nuestro <a href=/comparador-coches/?a=peugeot-e-5008-electrico-7-plazas-precio&b=skoda-peaq-suv-electrico-7-plazas-precio>comparador del Peugeot E-5008 y el Skoda Peaq</a>, y lee el <a href=/blog/peugeot-e-5008-electrico-7-plazas-precio/>análisis completo del Peugeot E-5008</a> y el <a href=/blog/skoda-peaq-suv-electrico-7-plazas-precio/>análisis completo del Skoda Peaq</a>. Fichas en <a href=/coches/peugeot-e-5008-electrico-7-plazas-precio/>ficha del Peugeot E-5008</a> y <a href=/coches/skoda-peaq-suv-electrico-7-plazas-precio/>ficha del Skoda Peaq</a>. Y si viajas mucho en familia, calcula con nuestra <a href=/calculadora-autonomia-real/>calculadora de autonomía real</a>.
+Puedes enfrentarlos en nuestro <a href=/comparador-coches/?a=peugeot-e-5008-electrico-7-plazas-precio&b=skoda-peaq-suv-electrico-7-plazas-precio>comparador del Peugeot E-5008 y el Skoda Peaq</a>, y consultar el <a href=/blog/peugeot-e-5008-electrico-7-plazas-precio/>análisis completo del Peugeot E-5008</a> y el <a href=/blog/skoda-peaq-suv-electrico-7-plazas-precio/>análisis completo del Skoda Peaq</a>. Tienes las fichas en <a href=/coches/peugeot-e-5008-electrico-7-plazas-precio/>ficha del Peugeot E-5008</a> y en <a href=/coches/skoda-peaq-suv-electrico-7-plazas-precio/>ficha del Skoda Peaq</a>. Y para planificar viajes largos en familia, prueba nuestra <a href=/calculadora-autonomia-real/>calculadora de autonomía real</a>.
 
 Fuentes: <a href=https://www.peugeot.es>Peugeot España</a> y <a href=https://www.skoda.es>Skoda España</a>.
 
-## Míralo en vídeo
+## Vídeo de la comparativa
 
 <iframe src=https://www.youtube.com/embed/xhOx8h5irbU title="Vídeo: Nuevo Peugeot 5008: presentación exterior y diseño" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=xhOx8h5irbU>StellantisAndYou España</a> en YouTube
 
-## Preguntas frecuentes
+## Dudas habituales antes de decidir
 
-### ¿Cuál es más barato, el Peugeot E-5008 o el Skoda Peaq?
-El Peugeot E-5008: desde 44.380 €, frente a los 54.550 € del Skoda Peaq. Son unos 10.000 € de diferencia de partida.
+### ¿Qué modelo sale más económico, el E-5008 o el Peaq?
+El francés: su tarifa arranca en 44.380 €, mientras que el checo parte de 54.550 €. La separación inicial ronda los 10.000 €.
 
-### ¿Cuál tiene más autonomía?
-Depende de la versión: el E-5008 Long Range homologa 668 km (récord del segmento), por encima de los 646 km del Peaq. Pero en versiones de acceso, el Peaq (646 km) supera al E-5008 (499 km).
+### ¿Cuál recorre más kilómetros con una carga?
+Varía según la variante elegida: la Long Range del E-5008 declara 668 km, cifra que supera los 646 km del Peaq y que lidera su segmento. En cambio, comparando los accesos, el Peaq (646 km) queda por delante del E-5008 (499 km).
 
-### ¿El Peugeot E-5008 tiene 7 plazas de verdad?
-Sí: tres filas (2+3+2) en las que, según quienes lo han probado, caben adultos de verdad en la tercera fila. En el Peaq, la tercera fila es más justa para adultos altos.
+### ¿La tercera fila del E-5008 sirve para adultos?
+Sí: su configuración 2+3+2 deja sitio real a ocupantes adultos en la última fila, según quienes lo han probado. La del Peaq, en cambio, resulta más ajustada cuando el pasajero es alto.
 
-### ¿Cuál tiene más maletero?
-El Skoda Peaq: 935 L, el más grande de su categoría, frente a los 748 L del Peugeot E-5008 (que llega a 1.815 L con las dos filas traseras abatidas).
+### ¿Qué maletero es mayor?
+El del Peaq: 935 L —el mayor de su clase— frente a 748 L en el E-5008, que con las dos filas traseras plegadas alcanza los 1.815 L.
 
-### ¿Hay versiones híbridas del 5008?
-Sí: además del eléctrico, el 5008 se vende con híbrido ligero de 136 CV (desde ~39.360 €) e híbrido enchufable de 195 CV (desde ~43.410 €).
+### ¿El 5008 se vende también sin ser eléctrico puro?
+Sí: junto al eléctrico, la gama incluye un enchufable de 195 CV (desde ~43.410 €) y, por debajo, un híbrido ligero, de 136 CV, que parte de ~39.360 €.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
 `,
