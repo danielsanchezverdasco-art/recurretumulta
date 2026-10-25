@@ -5,6 +5,7 @@ import { ErrorBoundary } from "./components/error-boundary.tsx";
 import { LazyConvexProvider } from "./components/providers/convex-lazy.tsx";
 
 import ScrollToTop from "./components/scroll-to-top.tsx";
+import TextoUnico from "./components/TextoUnico.tsx";
 import WhatsAppBubble from "./components/whatsapp-bubble.tsx";
 // ReferralCapture: solo trabaja con ?ref= en la URL. Lazy para no meter
 // convex/react en el chunk inicial (07/10/2026, PageSpeed). Retorna null.
@@ -325,6 +326,7 @@ export default function App() {
         <BrowserRouter>
           <CazaMonosProvider>
             <ScrollToTop />
+            <TextoUnico />
             <Suspense fallback={null}>
               {/* 16/10/2026 (fix radar): ReferralCapture usa useQuery/useMutation
                   de convex/react; sin LazyConvexProvider crashea ("Could not find
