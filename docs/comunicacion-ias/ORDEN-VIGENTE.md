@@ -1,5 +1,5 @@
 # ORDEN VIGENTE (fuente única de verdad) — la mantiene Cosa
-**ID de orden: ORD-20241024-2255**
+**ID de orden: ORD-20251025-0655**
 **Vigente desde: 24/10/2026 20:13 (Madrid)**. Anula cualquier orden anterior que la contradiga.
 
 1. Se paran los packs de reescritura completa (unico-coches-50-*). La tanda en curso se entrega tal y como esté y no se lanzan más.
