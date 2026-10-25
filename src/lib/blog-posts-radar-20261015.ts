@@ -115,9 +115,9 @@ No: es un acabado (versión) del Skoda Epiq, que ya está a la venta. La ficha t
   },
   {
     slug: "alpine-a310-vision-concept-paris-2026",
-    title: "Alpine A310 Vision: el concept retrofuturista de 4,55 m",
+    title: "Alpine A310 Vision: el prototipo que mira a 1971",
     excerpt:
-      "El Alpine A310 Vision reinterpreta en el Salón de París 2026 el deportivo de 1971: 4,55 m, carrocería de aluminio y plataforma APP. Ejercicio de diseño, sin versión de serie anunciada.",
+      "Prototipo presentado en París 2026: homenaje al A310 de 1971 con 4,55 m, aluminio y base APP, sin planes de venta ni datos de motor.",
     category: "Novedades Motor",
     date: "2026-10-15",
     readTime: 6,
@@ -133,11 +133,11 @@ No: es un acabado (versión) del Skoda Epiq, que ya está a la venta. La ficha t
 
 *Foto: Alpine (prensa) / Autonocion (distribución). Imagen de prensa distribuida por un medio tercero; no es una foto descargada del media site oficial de Alpine/Renault. Licencia desconocida.*
 
-El **Alpine A310 Vision** ha sido una de las piezas más fotografiadas del **Salón del Automóvil de París 2026**. Alpine, la marca deportiva del Grupo Renault, lo presentó el **12 de octubre** como reinterpretación contemporánea del **A310 original de 1971**: un ejercicio de diseño «retrofuturista» que celebra el **55.º aniversario** del modelo (y el 50.º del A310 V6) y que sirve para explorar las posibilidades de la nueva **plataforma APP** (Alpine Performance Platform).
+París 2026 dejó una de sus imágenes más comentadas en el estand de Alpine: el A310 Vision, un prototipo que recupera el espíritu del deportivo nacido en 1971 y lo traduce a un lenguaje actual. La casa de Dieppe, integrada en el Grupo Renault, lo desveló el 12 de octubre coincidiendo con el 55.º aniversario de aquel modelo original y con el 50.º del A310 V6. Su estilo se describe como retrofuturista y su misión consiste en tantear las opciones que abre la arquitectura APP, siglas de Alpine Performance Platform.
 
-> **Qué es y qué no es:** el A310 Vision es un **concept de diseño a escala real**. Alpine lo define como exploración creativa de sus futuros deportivos, **no como el adelanto de un modelo de producción**. Algunos medios lo presentaron inicialmente como futuro modelo de serie; las informaciones más detalladas (y la propia Alpine) lo describen como **ejercicio de diseño sin versión comercial anunciada**. No hay precio, ni fecha, ni motorización publicada.
+> **Naturaleza del prototipo:** se trata de un concept a tamaño real pensado como exploración estética. Alpine lo plantea como un ejercicio creativo sobre sus deportivos venideros, sin adelantar ningún coche de calle. Aunque algunas crónicas iniciales lo trataron como un futuro modelo comercial, tanto la marca como los análisis más pormenorizados lo sitúan como un trabajo de diseño sin variante a la venta anunciada. No existe precio, ni calendario, ni mecánica comunicada.
 
-## Las cifras que Alpine sí ha dado
+## Medidas confirmadas por la marca
 
 | Dato verificado | Valor oficial |
 |---|---|
@@ -151,24 +151,24 @@ El **Alpine A310 Vision** ha sido una de las piezas más fotografiadas del **Sal
 | Faros | «Escamoteables»: ocultos tras trampillas, con forma rectangular como los del A310 de los 70 |
 | Cristales | Tinte rojo, extendidos hacia la parte baja de las puertas |
 
-El A310 original medía 4,18 m: el Vision crece hasta los 4,55 m y gana mucha presencia (2,03 m de ancho atrás). La cúpula del habitáculo es **semitransparente**, y el capó integra un conducto **S-duct** para el flujo de aire, con una lama central «Y zero» que recorre el coche hasta la zaga.
+Frente a los 4,18 m del A310 primigenio, esta reinterpretación alcanza 4,55 m y exhibe una presencia notable gracias a sus 2,03 m de anchura en la trasera. El habitáculo se cubre con una cúpula semitransparente, mientras el capó incorpora un conducto S-duct destinado al paso del aire y una lama central denominada «Y zero» que se prolonga hasta la parte posterior.
 
 <img src=/media/alpine-a310-vision-2026-lateral.webp alt=Alpine A310 Vision de perfil, llantas triangulares en forma de A y zaga con alerón dividido>
 
-## Detalles de salón: F1, Hi-Fi y «color block»
+## Guiños de competición y ambiente interior
 
-- **Alerón trasero dividido** en dos secciones y **difusor con luz de freno inferior** heredada de los monoplazas de F1.
-- Pilotos traseros horizontales de LED unidos por la denominación «Alpine» y una **«falsa matrícula» digital** de estética cyberpunk.
-- Interior minimalista: asientos de formas orgánicas, estilo **«color block»**, **mandos físicos inspirados en equipos de alta fidelidad (Hi-Fi)** y relojes digitales tipo «binocular» sobre el volante.
-- Retrovisores **digitales por cámaras** (laterales y central).
+- **Alerón posterior partido** en dos tramos y **difusor con luz de freno baja** tomada de los monoplazas de F1.
+- Grupos ópticos traseros horizontales de LED conectados por el nombre «Alpine» y una **«falsa matrícula» digital** de aire cyberpunk.
+- Cabina sobria: butacas de líneas orgánicas, estética **«color block»**, **mandos físicos evocadores de equipos de alta fidelidad (Hi-Fi)** e instrumentos digitales en formato «binocular» situados sobre el volante.
+- Espejos **digitales mediante cámaras** (laterales y central).
 
-## La plataforma APP: lo único con futuro de serie confirmado
+## Por qué la base APP importa más que el propio coche
 
-Lo más relevante del A310 Vision no es el coche en sí, sino lo que anticipa: la **Alpine Performance Platform (APP)**. Es la arquitectura sobre la que Alpine desarrollará sus próximos deportivos eléctricos, empezando por el **nuevo A110 100 % eléctrico previsto para 2027**. El Vision demuestra las proporciones y soluciones aerodinámicas que la plataforma permite, manteniendo la filosofía de ligereza de la marca.
+El interés principal del A310 Vision no reside en el vehículo expuesto, sino en lo que anuncia: la **Alpine Performance Platform (APP)**. Sobre esa arquitectura, la marca desarrollará sus deportivos eléctricos venideros, con el **nuevo A110 totalmente eléctrico previsto para 2027** como primer exponente. El Vision exhibe las proporciones y las soluciones aerodinámicas que esa base posibilita, sin renunciar a la obsesión por la ligereza que define a Alpine.
 
-Si te gustan los Alpine que sí se pueden comprar, la referencia es el <a href=/coches/alpine-a110-s-2026-precio-ficha-tecnica/>Alpine A110 S</a> actual; y si te va el diseño francés de salón, no te pierdas el <a href=/blog/ds-f3ver-concept-paris-2026/>DS F3VER, el otro gran concept de París 2026</a>.
+Para un Alpine con precio y entrega reales, mira el <a href=/coches/alpine-a110-s-2026-precio-ficha-tecnica/>Alpine A110 S</a> actual; y para otro ejercicio de diseño francés visto en la misma cita, tienes el <a href=/blog/ds-f3ver-concept-paris-2026/>DS F3VER parisino de 2026</a>.
 
-## Lo que Alpine NO ha publicado del A310 Vision (y no hay que inventar)
+## Datos que Alpine no ha comunicado (y que no conviene inventar)
 
 | Dato | Estado |
 |---|---|
@@ -181,32 +181,33 @@ Si te gustan los Alpine que sí se pueden comprar, la referencia es el <a href=/
 
 ## Preguntas frecuentes
 
-### ¿Qué es el Alpine A310 Vision?
+### ¿En qué consiste el Alpine A310 Vision?
 
-Un concept car presentado por Alpine en el Salón de París 2026 que reinterpreta el A310 de 1971 con diseño retrofuturista. Es un ejercicio de diseño sobre la nueva plataforma APP, no un modelo de producción.
+Un prototipo exhibido por Alpine en la cita parisina de 2026, ejercicio que recupera el A310 de 1971 con un diseño retrofuturista. Se apoya en la nueva arquitectura APP como trabajo estético, sin convertirse en un coche de producción.
 
-### ¿El Alpine A310 Vision llegará a producción?
+### ¿Llegará a los concesionarios el Alpine A310 Vision?
 
-No. Alpine lo presenta como exploración de diseño y, según las informaciones más detalladas, **descarta su producción como modelo de serie**. Lo que sí llegará a serie es la plataforma APP, que estrenará el nuevo A110 eléctrico en 2027.
+No. Alpine lo presenta como una exploración de diseño y, según los análisis más detallados, **descarta fabricarlo en serie**. Lo que sí alcanzará la calle es la base APP, que debutará con el nuevo A110 eléctrico en 2027.
 
-### ¿Cuánto mide el Alpine A310 Vision?
+### ¿Cuáles son sus dimensiones?
 
-4,55 m de largo, 2,03 m de ancho (máximo, en la zona trasera) y 1,18 m de alto, con 2,45 m de distancia entre ejes y carrocería de aluminio.
+Largo 4,55 m, ancho máximo trasero 2,03 m, alto 1,18 m y batalla de 2,45 m, con carrocería de aluminio.
 
-### ¿Qué motor lleva el A310 Vision?
+### ¿Qué mecánica monta el A310 Vision?
 
-Alpine no ha comunicado ningún dato de motorización, batería o prestaciones: el prototipo se centra en la exploración estética y aerodinámica.
+Alpine no ha difundido ningún dato sobre motorización, batería o prestaciones: el prototipo prioriza la forma y la aerodinámica.
 
-### ¿Qué es la plataforma APP de Alpine?
+### ¿En qué consiste la base APP?
 
-La Alpine Performance Platform: la nueva arquitectura para deportivos eléctricos de la marca, que permitirá nuevas proporciones y soluciones técnicas manteniendo la ligereza. La estrenará el A110 eléctrico de 2027.
+Se trata de la Alpine Performance Platform, la base nueva para deportivos eléctricos de Alpine, pensada para proporciones inéditas y soluciones técnicas sin renunciar al peso contenido. Su debut llegará con el A110 eléctrico de 2027.
 
-### ¿Cuándo se presentó el A310 Vision?
+### ¿Cuándo se dio a conocer el A310 Vision?
 
-El 12 de octubre de 2026, en el Salón del Automóvil de París, coincidiendo con el 55.º aniversario del A310 original (1971).
+Se desveló el 12 de octubre de 2026 durante la cita parisina, justo cuando se cumplían 55 años del A310 original de 1971.
 
 **¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.
 
-*Fuentes: <a href=https://www.autonocion.com/alpine-a310-vision-2026/>Autonocion (datos y galería del concept)</a>, <a href=https://www.hibridosyelectricos.com/coches/alpine-se-inspira-en-anos-70-presenta-espectacular-coche-electrico-recupera-nombre-a310_89857_102.html>Híbridos y Eléctricos (plataforma APP y no-producción)</a>, <a href=https://www.km77.com/coches/alpine/a310-vision-prototipo/informacion>km77 (medidas y datos técnicos)</a>, <a href=https://madridpress.com/art/351400/alpine-a310-vision>MadridPress (presentación en París)</a>.*`,
+*Fuentes: <a href=https://www.autonocion.com/alpine-a310-vision-2026/>Autonocion (datos y galería del concept)</a>, <a href=https://www.hibridosyelectricos.com/coches/alpine-se-inspira-en-anos-70-presenta-espectacular-coche-electrico-recupera-nombre-a310_89857_102.html>Híbridos y Eléctricos (plataforma APP y no-producción)</a>, <a href=https://www.km77.com/coches/alpine/a310-vision-prototipo/informacion>km77 (medidas y datos técnicos)</a>, <a href=https://madridpress.com/art/351400/alpine-a310-vision>MadridPress (presentación en París)</a>.*
+`,
   },
 ];

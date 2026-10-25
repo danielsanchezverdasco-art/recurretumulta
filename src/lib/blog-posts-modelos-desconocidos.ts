@@ -101,9 +101,9 @@ Fuentes: <a href=https://www.hibridosyelectricos.com/coches/500000-coches-en-3-a
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
   },
   {
-    "title": "Yangwang U8: 1.197 CV, flota en agua, llega a Europa",
+    "title": "Yangwang U8 y U9: 1.197 CV y llegada a Europa en 2027",
     "slug": "yangwang-byd-u8-u9-europa-2027",
-    "excerpt": "Yangwang, el superlujo de BYD: el U8 flota, el U9 salta y el U7 tiene 1.250 CV. Llega a Europa en 2027, pero con el carnet B no podrías conducirlo.",
+    "excerpt": "Yangwang, la marca de superlujo de BYD, traerá a Europa en 2027 el U8 que flota, el U9 que salta y la berlina U7 de 1.250 CV.",
     "category": "Modelos desconocidos",
     "date": "2026-10-03",
     "readTime": 8,
@@ -120,34 +120,34 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
 
 **¿Buscas solo los datos?** <a href=/coches/yangwang-byd-u8-u9-europa-2027/>Ver ficha técnica del Yangwang U8</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-Hay un coche que **flota en el agua**, gira 360 grados sobre sí mismo como un tanque y tiene **1.197 CV**. No es un prototipo: se vende en China desde 2023. Se llama **Yangwang U8**, es la punta de lanza de la marca de superlujo de **BYD**, y su llegada a Europa está confirmada para **2027**.
+Girar sobre sí mismo como un tanque, mantenerse a flote y desplegar 1.197 caballos: esa combinación existe fuera de los salones. Circula por China desde 2023 bajo el nombre de Yangwang U8. Encabeza la ofensiva de la enseña de superlujo de BYD, y su desembarco europeo está confirmado para 2027.
 
-Yangwang (que se pronuncia "yang-uong" y significa algo así como "mirar hacia arriba") se lanzó en China en enero de 2023 para competir con **Bentley, Porsche, Lotus y Ferrari**. Tres años después, su catálogo ya tiene tres modelos y su desembarco europeo es oficial. Esto es lo que viene.
+El nombre se pronuncia «yang-uong». Su significado aproximado es «mirar hacia arriba». Nació en China en enero de 2023 con la ambición de medirse con Bentley, Porsche, Lotus y Ferrari, entre otras. Tres años más tarde, el catálogo ya reúne tres modelos. El aterrizaje en Europa, además, es oficial. Esto es lo que viene.
 
 <img src=/media/yangwang-u8-agua-cuerpo.webp alt=Yangwang U8, el SUV de BYD capaz de flotar en el agua>
 
-## Yangwang U8: el SUV que nada
+## Un todoterreno que se mantiene a flote
 
-El **U8** es un todoterreno de **rango extendido (EREV)** de 5,32 metros (5,41 en la versión larga U8L mostrada en Goodwood 2026) con cuatro motores eléctricos que suman **1.197 CV**. Sus dos trucos de magia:
+Cuatro motores eléctricos, repartidos por las ruedas, suman en el U8 un total de 1.197 caballos. Su arquitectura es de rango extendido, conocida por las siglas EREV. La longitud estándar alcanza 5,32 metros. En Goodwood 2026 se mostró la variante larga U8L, que llega a 5,41 metros. Sus dos trucos más llamativos son:
 
-- **Flota en el agua**: en caso de emergencia puede flotar y navegar a **3 km/h**, con las ruedas actuando como hélices.
-- **Giro de tanque**: cada rueda gira de forma independiente, así que puede **rotar 360° sobre su propio eje**.
+- **Flota en el agua**: ante una emergencia, puede mantenerse a flote y avanzar a 3 kilómetros por hora, utilizando las ruedas a modo de hélices.
+- **Giro de tanque**: cada rueda gira por separado, de modo que puede rotar 360 grados sobre su propio eje.
 
-En China cuesta el equivalente a unos **150.000 €**, lo que lo convirtió en uno de los coches de producción en serie más caros del país. La versión larga U8L, con llantas de estilo Rolls-Royce y configuración de seis plazas, se presentó en el **Festival de la Velocidad de Goodwood 2026**, donde BYD montó un stand de unos dos millones de euros.
+El equivalente en China ronda los 150.000 euros. Esa cifra lo situó entre los turismos fabricados en serie más costosos de aquel país. La variante larga U8L debutó en el Festival de la Velocidad, en Goodwood, en 2026. Equipa llantas con estética Rolls-Royce, además de una configuración con seis plazas. En ese certamen, BYD instaló un expositor valorado en unos dos millones de euros.
 
-## Yangwang U9: el superdeportivo que salta
+## Un superdeportivo capaz de despegar del suelo
 
-El **U9** es un superdeportivo 100 % eléctrico que ya ha rodado en **Nürburgring** y se ha dejado ver "volando" por el Infierno Verde. Su sistema de suspensión activa **DiSus-X** le permite literalmente **saltar**: el coche puede elevarse del suelo estando parado, una demostración técnica sin rival en la industria.
+Completamente eléctrico, el U9 ya ha rodado en Nürburgring. Allí se le vio «volando» por el Infierno Verde. Gracias a su suspensión activa DiSus-X, puede saltar literalmente: estando parado, el coche es capaz de elevarse del suelo. Se trata de una exhibición técnica sin parangón en todo el sector.
 
-Junto al U9 Xtreme mostrado en Goodwood, es la carta de BYD para decirle a Ferrari y Lamborghini que la fiesta eléctrica china también sabe jugar en su liga.
+En Goodwood también se mostró el U9 Xtreme. Con él, BYD lanza un mensaje a Ferrari y Lamborghini: la fiesta eléctrica china también compite en esa liga.
 
-## Yangwang U7: la berlina de 1.250 CV
+## Una berlina con 1.250 caballos
 
-El tercer modelo es el **U7**, una berlina de lujo con **cuatro motores eléctricos y 1.250 CV**, equipada con el nivel más alto del sistema de conducción autónoma **"Ojo de Dios"** de BYD. En China, los Yangwang se mueven entre los **138.000 y los 231.000 €** al cambio.
+El U7, tercer modelo de la gama, es una berlina de lujo. Monta cuatro motores eléctricos, que entregan 1.250 caballos en conjunto. Incorpora, además, la variante superior del sistema de conducción autónoma de BYD, denominado «Ojo de Dios». Al cambio, los precios chinos oscilan entre 138.000 y 231.000 euros.
 
-## Europa en 2027: confirmado por la vicepresidenta de BYD
+## Fecha europea: 2027, tras Denza
 
-**Stella Li**, vicepresidenta ejecutiva de BYD, confirmó a la revista británica **Autocar** que **Yangwang llegará a Europa después de Denza**, con el lanzamiento previsto para **2027**. El U8 será probablemente el primero, y "vendrán más coches", incluido el U7.
+Según la vicepresidenta ejecutiva de BYD, Stella Li, Yangwang llegará a Europa después de Denza. Así lo confirmó a la revista británica Autocar. El lanzamiento está previsto para 2027. Probablemente, el U8 será el primero. «Vendrán más coches», incluido el U7.
 
 | Modelo | Tipo | Potencia | Dato loco |
 |---|---|---|---|
@@ -155,38 +155,38 @@ El tercer modelo es el **U7**, una berlina de lujo con **cuatro motores eléctri
 | **Yangwang U9** | Superdeportivo EV | ~1.300 CV | Salta con la suspensión DiSus-X |
 | **Yangwang U7** | Berlina EV | 1.250 CV | 4 motores, "Ojo de Dios" ADAS |
 
-## El problema: con el carnet B no podrías conducirlo
+## El permiso necesario, un escollo inesperado
 
-Aquí viene el giro inesperado. El U8 pesa **unas 3.460 kg en vacío** y su **masa máxima autorizada ronda los 3.985 kg**. En Alemania (y la normativa es europea), el permiso **B** solo permite conducir vehículos de hasta **3.500 kg** de MMA —las <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722>clases de permiso están reguladas en la Ley de Tráfico</a>—. Por encima, hasta 7.500 kg, hace falta el **C1**.
+Aquí aparece el giro inesperado. En vacío, el U8 pesa unas 3.460 kilos. Su masa máxima autorizada, además, ronda los 3.985 kilos. La normativa, europea, establece en Alemania que el permiso B únicamente autoriza vehículos de hasta 3.500 kilos de MMA —las <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722>normas sobre permisos</a> están recogidas en la Ley de Tráfico—. Por encima de ese umbral, hasta 7.500 kilos, hace falta el C1.
 
-Existe una excepción que eleva el límite a 4.250 kg para vehículos de energías alternativas, pero está vinculada al **transporte de mercancías**, no a un SUV de pasajeros. Así que, si Yangwang homologa el U8 en Europa manteniendo esos pesos, **en España haría falta un permiso superior al B** para conducirlo. Todo dependerá de la homologación final de la versión europea, que aún no existe.
+Una excepción eleva el tope a 4.250 kilos en vehículos de energías alternativas. Esa excepción, sin embargo, se aplica al transporte de mercancías, no a todoterrenos de pasajeros. De mantenerse esos pesos en una homologación europea del U8, en España se exigiría un permiso superior al B para conducirlo. La clave será la homologación definitiva de la versión europea, todavía inexistente.
 
-## ¿Tiene sentido un BYD de 200.000 € en Europa?
+## ¿Tiene cabida un BYD de 200.000 euros?
 
-La pregunta es legítima. BYD ya ha demostrado que puede vender coches baratos en Europa; ahora quiere demostrar que puede vender **lujo**. El U8 no compite contra el Dacia Duster: compite contra el **Rolls-Royce Cullinan** (5,34 m, 571 CV de su V12 frente a los 1.197 del chino) y contra el **Range Rover** eléctrico.
+La pregunta es legítima. BYD ya ha probado en Europa que puede vender coches baratos. Ahora aspira a demostrar que puede vender lujo. Su rival no es el Dacia Duster. El U8 compite contra el Rolls-Royce Cullinan y contra el Range Rover eléctrico. El primero mide 5,34 metros y su V12 rinde 571 caballos, frente a los 1.197 del chino.
 
-Los aranceles europeos al coche chino serán su gran examen: en China los Yangwang cuestan entre 138.000 y 231.000 €, y el precio europeo aún no existe. Pero que BYD se gaste dos millones en un stand en Goodwood, la catedral del motor británico de combustión, dice mucho de sus intenciones.
+Su gran examen serán los aranceles europeos al coche chino. Al cambio, los Yangwang chinos cuestan entre 138.000 y 231.000 euros. El precio europeo, por ahora, aún no existe. Pero invertir dos millones en un expositor en Goodwood, catedral británica del motor de combustión, revela bastante sobre sus intenciones.
 
 ## Preguntas frecuentes
 
-### ¿Qué es Yangwang?
-La marca de lujo y altas prestaciones de BYD, lanzada en 2023. Su gama: el SUV U8, el superdeportivo U9 y la berlina U7.
+### ¿Qué marca es Yangwang?
+Es la enseña de lujo, altas prestaciones y origen BYD, lanzada en 2023, cuya gama reúne el SUV U8, luego el superdeportivo U9 y, por último, la berlina U7.
 
-### ¿Cuándo llega Yangwang a Europa?
-En **2027**, después del despliegue de Denza, según confirmó la vicepresidenta de BYD, Stella Li, a la revista Autocar.
+### ¿Cuándo aterriza en Europa?
+En 2027. Llegará después del despliegue de Denza. Así lo confirmó Stella Li, vicepresidenta de BYD, a la revista Autocar.
 
-### ¿Es verdad que el Yangwang U8 flota?
-Sí: en modo de emergencia puede flotar y desplazarse por el agua a unos 3 km/h. También puede girar 360° sobre sí mismo gracias a sus cuatro motores independientes.
+### ¿Flota de verdad el U8?
+Sí, en emergencia puede flotar y avanzar por el agua a unos 3 kilómetros por hora. Sus cuatro motores independientes, además, le permiten girar 360 grados sobre sí mismo.
 
-### ¿Cuánto cuesta un Yangwang?
-En China, entre 138.000 y 231.000 € al cambio según modelo. No hay precios europeos anunciados.
+### ¿Qué precios tiene en China?
+Según modelo, la horquilla va de 138.000 a 231.000 euros al cambio. Para Europa todavía no se ha anunciado ningún importe.
 
-### ¿Podré conducir el U8 con el carnet B?
-Depende de la homologación europea final: el modelo chino supera los 3.500 kg de MMA, el límite del permiso B. Está por confirmar.
+### ¿Basta el carnet B para el U8?
+Está por confirmar: todo depende de la homologación europea definitiva. El modelo chino, por ahora, supera los 3.500 kilos de MMA, tope del permiso B.
 
 Fuentes: <a href=https://www.somoselectricos.com/coches-electricos/byd-puede-flotar-tiene-1197-cv-es-tan-pesado-que-espana-hace-falta-carnet-camion-conducirlo/20260929120040063720.html>Somos Eléctricos</a>, <a href=https://forococheselectricos.com/noticias/byd-confirma-llegada-tercera-marca-europa-yangwang-20250721-37764.html>ForoCochesEléctricos (vía Autocar)</a>, <a href=https://soymotor.com/coches/noticias/byd-shark-denza-bao5-denza-z-yangwang-u8-u9-goodwood>SoyMotor</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Si te llegó una multa y sospechas que tiene algún defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
   },
   {
     "title": "Avatr: el familiar chino de 955 CV con Huawei dentro",
@@ -568,9 +568,9 @@ Fuentes: <a href=https://www.autonocion.com/icaur-chery-llega-europa-espana/>Aut
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
   },
   {
-    "title": "Li Auto i8: SUV eléctrico 6 plazas, 780 km, carga 5C",
+    "title": "Li Auto i8: 6 plazas, 780 km y ventas en caída libre",
     "slug": "li-auto-i8-suv-electrico-6-plazas-precio-2026",
-    "excerpt": "Li Auto i8: 6 plazas, 780 km y carga de 500 km en 10 minutos... pero solo 779 ventas al mes en China. Bajada de precio histórica antes de llegar a Europa.",
+    "excerpt": "El familiar eléctrico chino promete 780 km y 500 km en 10 minutos de carga, pero en junio solo vendió 779 unidades y Li Auto ya recortó su precio en China.",
     "category": "Modelos desconocidos",
     "date": "2026-10-03",
     "readTime": 8,
@@ -586,15 +586,15 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
 
 **¿Buscas solo los datos?** <a href=/coches/li-auto-i8-suv-electrico-6-plazas-precio-2026/>Ver ficha técnica del Li Auto i8</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-**Seis plazas, 780 km de autonomía, carga de 500 km en 10 minutos y un precio que en Europa sería de derribo.** El **Li Auto i8** lo tenía todo para triunfar... y sin embargo pincha en China: en junio vendió **779 unidades**, la mitad que en mayo. La marca ha respondido con una bajada de precio histórica. Y mientras tanto, Li Auto prepara su desembarco en Europa para este mismo octubre.
+Un familiar eléctrico de tres filas, con autonomía anunciada de 780 km y recargas ultrarrápidas, debería estar arrasando en su mercado natal. Sin embargo, el i8 atraviesa justo lo contrario: junio cerró con 779 matriculaciones, aproximadamente la mitad de las registradas el mes anterior, y la respuesta de la firma ha sido un recorte de precio sin precedentes en su gama, mientras se acerca su estreno continental en octubre.
 
-Te contamos qué es el i8, por qué no despega y qué significa para ti su llegada al continente.
+A continuación repasamos su planteamiento, las razones de su tropiezo comercial y lo que su aterrizaje europeo puede suponer para quien busca un SUV grande enchufable.
 
-## Qué es el Li Auto i8
+## Un SUV grande pensado para familias numerosas
 
-El i8 es el **SUV eléctrico puro** de Li Auto (Li Xiang), la marca china famosa por sus SUV de autonomía extendida. Presentado en julio de 2025 y a la venta desde agosto, es un familiar grande de **5,09 metros** y tres filas de asientos, con un diseño de líneas suaves inspirado en un yate y un coeficiente aerodinámico de **0,218**, digno de un superdeportivo.
+Li Auto, conocida en China bajo el nombre de Li Xiang, se hizo un hueco vendiendo todocaminos con extensor de autonomía. Con el i8 cambia de registro: se trata de un eléctrico puro, desvelado en julio de 2025 y comercializado a partir de agosto, que mide 5,09 metros y ofrece tres filas. Su silueta fluida, evocadora de un yate, logra un Cx de 0,218, una cifra más propia de un deportivo que de un familiar de este tamaño.
 
-## Ficha técnica: la gama 2026
+## La gama 2026, en cifras
 
 |  | i8 RWD Gran Autonomía | i8 AWD |
 |---|---|---|
@@ -607,54 +607,54 @@ El i8 es el **SUV eléctrico puro** de Li Auto (Li Xiang), la marca china famosa
 | **Carga 5C** | +500 km en 10 min | +500 km en 10 min |
 | **Precio en China** | 309.800 yuanes (≈36.600 €) | 339.800 yuanes (≈40.200 €) |
 
-El **5C** es su gran argumento técnico: la carga ultrarrápida recupera **500 km en 10 minutos**. Y el maletero delantero eléctrico tiene capacidad para una maleta de cabina de 20 pulgadas, un detalle familiar muy chino. Ojo: las autonomías están homologadas en ciclo **CLTC**, más optimista que el WLTP europeo.
+Su baza técnica más llamativa es la carga 5C, capaz de devolver 500 km en apenas 10 minutos. El maletero delantero, de apertura eléctrica, acepta una pieza de equipaje de mano de 20 pulgadas, un guiño muy práctico para viajar en familia. Conviene matizar, eso sí, que las autonomías se anuncian bajo el ciclo CLTC, bastante más benévolo que el WLTP que se aplica en Europa.
 
 <img src=/media/li-auto-i8-hero.webp alt=Li Auto i8, SUV eléctrico familiar de 6 plazas>
 
-## El pinchazo: 779 coches en junio
+## Junio dejó la cifra que lo cambió todo
 
-Los números son duros. Tras un pico de 6.719 unidades en noviembre de 2025, las ventas se desplomaron: **779 unidades en junio de 2026, un 50 % menos que en mayo**, apenas el 2,5 % de las entregas totales de la marca. En el primer semestre de 2026 sumó 8.733 unidades, muy lejos de las expectativas.
+El contraste con finales de 2025 es enorme. Tras alcanzar 6.719 unidades en noviembre de ese año, el modelo se desplomó hasta 779 en junio de 2026, lo que supone alrededor de la mitad de mayo y apenas un 2,5 % del total entregado por la marca. El acumulado del primer semestre de 2026 quedó en 8.733 unidades, muy por debajo de lo esperado.
 
-La respuesta de Li Auto llegó el **6 de agosto de 2026**: una nueva versión de acceso **RWD Gran Autonomía** con 780 km por 309.800 yuanes, 30.000 menos que antes, más incentivos de lanzamiento de hasta 35.750 yuanes (financiación a interés cero, asientos de gravedad cero de regalo y descuento para clientes repetidores).
+La reacción llegó el 6 de agosto de 2026, con una variante de acceso RWD Gran Autonomía: 780 km por 309.800 yuanes, es decir, 30.000 menos que antes. A ello se suman ayudas de lanzamiento de hasta 35.750 yuanes, entre ellas financiación sin intereses, asientos de gravedad cero sin coste y un descuento para quien ya sea cliente de la marca.
 
-¿Por qué pincha? Los analistas apuntan a un posicionamiento incómodo: demasiado caro frente a los BYD y demasiado "familiar tranquilo" frente a la competencia emocional de Xiaomi o Zeekr. El i8 es un gran coche sin un gran relato. La lección para Europa: el producto ya no basta, la historia también vende.
+Los analistas ven un encaje complicado: resulta caro si se compara con BYD y demasiado discreto, demasiado «familiar tranquilo», frente al tirón emocional de Xiaomi o Zeekr. El diagnóstico que circula es que se trata de un gran coche sin un gran relato, y la moraleja para Europa es que un buen producto necesita, además, un relato que enamore.
 
-## La polémica del crash test
+## Un ensayo de choque que acabó en disputa
 
-En agosto de 2025, Li Auto publicó un **crash test contra un camión de 8 toneladas**: el i8 a 60 km/h frente al camión a 40 km/h. El SUV aguantó con la estructura intacta, los 9 airbags desplegados y la batería sin humo ni combustión. Pero el fabricante del camión, **Dongfeng**, acusó a Li Auto de manipulación y de usar el test como marketing. Li Auto respondió que la prueba la hizo un tercero independiente (el instituto estatal CAERI) y que el camión se compró en el mercado de ocasión como simple "obstáculo móvil". La polémica sigue coleando en la prensa china.
+En agosto de 2025, Li Auto difundió un ensayo de choque frente a un camión de 8 toneladas: el i8 circulaba a 60 km/h y el camión, a 40 km/h. El SUV mantuvo intacta su estructura, desplegó sus 9 airbags y su batería no emitió humo ni llegó a arder. Sin embargo, Dongfeng, fabricante del camión, acusó a Li Auto de manipular la prueba y de utilizarla como marketing. La marca replicó que un tercero independiente, el instituto estatal CAERI, realizó el ensayo y que el camión se había adquirido de ocasión para actuar simplemente como «obstáculo móvil». La disputa continúa en la prensa china.
 
-## Li Auto llega a Europa (pero sin el i8... de momento)
+## París 2026: el estreno europeo, sin el i8 por ahora
 
-Aquí viene lo interesante para ti: **Li Auto debuta en Europa en el Salón de París de octubre de 2026**, con ventas previstas antes de fin de año. El primer modelo será el **i6**, rebautizado como **Li 6**, y la marca ya busca concesionarios en Alemania y Países Bajos (con el Reino Unido en el radar por la ausencia de aranceles).
+Para el lector europeo, lo relevante es esto: el debut continental llegará en octubre de 2026, en el marco del Salón de París, y las ventas arrancarían antes de cerrar el año. El modelo elegido para abrir boca será el i6, que pasará a llamarse Li 6, y la firma ya está buscando concesionarios en Alemania y Países Bajos, mientras el Reino Unido se mantiene como opción por no aplicar aranceles.
 
-La estrategia es clara: **eléctricos puros para Europa**, mientras la gama de autonomía extendida (L6, L7, L8, L9) se reserva para otros mercados. Como eléctrico puro, de llegar a España le correspondería la <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero de la DGT</a>, con acceso libre a las ZBE. El i8 no está confirmado para el continente... pero si el Li 6 funciona, es cuestión de tiempo. Y con la bajada de precio china como referencia, su posicionamiento europeo podría ser agresivo.
+La estrategia es nítida: Europa recibirá solo eléctricos puros, mientras la gama con extensor de autonomía (L6, L7, L8, L9) quedará para otros mercados. Si aterriza en España, al tratarse de un eléctrico puro optaría a la <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero de la DGT</a> y, con ella, a circular libremente por las ZBE. El i8, de momento, no figura en los planes confirmados para el continente; ahora bien, un buen arranque del Li 6 lo dejaría a un paso de llegar. Y el recorte aplicado en China apunta a un precio europeo que podría resultar agresivo.
 
-Si te gustan los SUV eléctricos grandes ya disponibles aquí, <a href=/comparador-coches/>compáralos cara a cara</a>.
+¿Buscas un SUV eléctrico grande que ya se venda aquí? <a href=/comparador-coches/>compáralos cara a cara</a>.
 
-## Vídeo: el i8 en un minuto
+## El i8, explicado en un minuto
 
-Este resumen en español del i8 (6 plazas, 720 km, carga 5C) te lo cuenta en un minuto: <a href=https://www.youtube.com/shorts/VJlQJdKHUsw>YouTube — Li Auto i8 2026 en español</a>.
+Un vídeo breve en español repasa el i8, con carga 5C, 6 plazas y 720 km, en apenas un minuto: <a href=https://www.youtube.com/shorts/VJlQJdKHUsw>YouTube — Li Auto i8 2026 en español</a>.
 
 ## Preguntas frecuentes
 
-### ¿Qué es el Li Auto i8?
-Un SUV eléctrico de **6 plazas** y 5,09 metros de la marca china Li Auto, con hasta 780 km de autonomía (CLTC) y carga ultrarrápida 5C.
+### ¿Qué modelo es exactamente el i8?
+Un todocamino eléctrico de la firma china Li Auto, con 5,09 metros, tres filas y 6 plazas, que anuncia hasta 780 km en ciclo CLTC y carga ultrarrápida 5C.
 
-### ¿Cuánto cuesta el Li Auto i8?
-En China, desde 309.800 yuanes (**≈36.600 €** al cambio) en la versión RWD de gran autonomía lanzada en agosto de 2026.
+### ¿Cuál es su precio en China?
+Desde 309.800 yuanes (unos 36.600 € al cambio) para la variante RWD de gran autonomía, puesta a la venta en agosto de 2026.
 
-### ¿El Li Auto i8 se vende en España?
-No. Li Auto llega a Europa a finales de 2026 con el **i6 (Li 6)**; el i8 no tiene fecha europea confirmada.
+### ¿Se puede comprar ya en España?
+No. El primer modelo europeo será el i6 (Li 6), previsto para finales de 2026; del i8 todavía no hay fecha confirmada para el continente.
 
-### ¿Por qué vende tan poco en China?
-Tras un buen arranque (6.719 uds. en noviembre de 2025), cayó a 779 en junio de 2026. Competencia feroz y un posicionamiento de precio incómodo son las causas más citadas.
+### ¿A qué se debe su floja venta en China?
+Después de un arranque prometedor, con 6.719 unidades en noviembre de 2025, bajó a 779 en junio de 2026; la competencia feroz y un precio difícil de encajar son las explicaciones que más se repiten.
 
-### ¿Qué autonomía real tiene?
-Homologa 780 km en ciclo **CLTC** (más optimista que el WLTP europeo); en uso real europeo habría que esperar bastante menos.
+### ¿Qué autonomía real cabe esperar?
+Homologa 780 km en ciclo CLTC (más benévolo que el WLTP europeo); en condiciones reales europeas, la cifra quedaría sensiblemente por debajo.
 
 Fuentes: <a href=https://cnevpost.com/2026/08/06/li-auto-launches-cheaper-entry-version-i8/>CnEVPost</a>, <a href=https://evlife.world/news/li-auto-brings-its-first-electric-car-to-europe-this-year/>EVLife</a>, <a href=https://en.wikipedia.org/wiki/Li_i8>Wikipedia</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+¿Dudas con una sanción? Antes de pagarla, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a>.`
   },
   {
     "title": "ID. UNYX 09: 755 km solo para China",
@@ -1100,9 +1100,9 @@ Fuentes: <a href=https://www.evokemotorcycles.com/NrgySeries>Evoke Motorcycles (
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
   },
   {
-    "title": "Jetour G700: 903 CV híbridos que flotan",
+    "title": "Jetour G700: todoterreno híbrido de 903 CV que flota",
     "slug": "jetour-zongheng-g700-903-cv",
-    "excerpt": "El Jetour Zongheng G700 2027 sale en China con 903 CV híbridos, conducción autónoma de Huawei y modo anfibio. Desde unos 43.900 € al cambio.",
+    "excerpt": "El Zongheng G700 2027 ya se vende en China desde unos 43.900 €: 903 CV híbridos, tecnología Huawei y versión anfibia con hélices.",
     "category": "Modelos desconocidos",
     "date": "2026-10-09",
     "readTime": 8,
@@ -1117,13 +1117,13 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     "content": `<img src=/media/jetour-g700-zongheng-hero.webp alt=Todoterreno híbrido enchufable chino de color verde oscuro con rueda de repuesto en el portón subiendo una pista de montaña al atardecer>
 
-**903 CV. Conducción autónoma de Huawei. Y puede flotar.** El **Jetour Zongheng G700** es el todoterreno más bestial que ha salido de Chery, y su versión 2027 acaba de salir a la venta en China el **30 de septiembre de 2026**. Es un híbrido enchufable de **665 kW (903 CV)**, con bloqueos de diferencial delantero y trasero, suspensión neumática y un modo anfibio que le permite navegar por el agua. Apunta directamente al Mercedes Clase G y al Land Rover Defender... por menos de la mitad de precio.
+**903 CV. Tecnología de conducción autónoma de Huawei. Y capacidad para flotar.** El **Jetour Zongheng G700** representa el todoterreno más extremo lanzado por Chery, y su versión 2027 acaba de estrenarse comercialmente el **30 de septiembre de 2026** en China. Su sistema combina propulsión híbrida enchufable de **665 kW (903 CV)**. Monta bloqueo delantero y trasero en el diferencial, suspensión neumática, además de un modo anfibio que le permite desplazarse sobre el agua. Su objetivo directo son el Mercedes Clase G y el Land Rover Defender, a menos de la mitad de precio.
 
-Zongheng es la submarca de lujo off-road de **Jetour**, que a su vez es la marca aventurera de **Chery**. Fuera de China el modelo se venderá simplemente como **Jetour G700**. Es, junto al Fang Cheng Bao Bao 5 y al Battleship 700 de Geely, la prueba de que la guerra de los 4x4 electrificados chinos está en su momento más salvaje.
+La denominación Zongheng identifica la línea premium todoterreno de **Jetour**, firma aventurera integrada en **Chery**. En mercados fuera de China, el vehículo se comercializa únicamente como **Jetour G700**. Acompañado por el Fang Cheng Bao Bao 5 y el Battleship 700 de Geely, demuestra que la pugna de los 4x4 electrificados chinos vive su fase más feroz.
 
-## La versión 2027: qué trae de nuevo
+## La gama 2027: novedades y precios en China
 
-El lanzamiento del 30 de septiembre no es un simple lavado de cara. El G700 2027 estrena el sistema de conducción inteligente **Huawei Qiankun ADS 5.0**, un interior renovado con materiales soft-touch, parrilla rediseñada y paragolpes del color de la carrocería. Se vende con **5 o 6 plazas** y estos precios oficiales en China:
+La puesta a la venta del 30 de septiembre va más allá de un simple lavado de cara; la gama G700 2027 suma el sistema inteligente de conducción **Huawei Qiankun ADS 5.0**, un habitáculo renovado con materiales soft-touch, una parrilla rediseñada y paragolpes pintados en el color de la carrocería. La oferta contempla **5 o 6 plazas** con estos precios oficiales en China:
 
 | Versión | Precio (yuanes) | ≈ Euros |
 |---|---|---|
@@ -1133,61 +1133,61 @@ El lanzamiento del 30 de septiembre no es un simple lavado de cara. El G700 2027
 | Zhijing Qiankun Edition 260 (5 plazas) | 410.900 | ~54.600 € |
 | Zhijing Qiankun Edition 260 (6 plazas) | 442.900 | ~58.900 € |
 
-*Conversión con 1 € ≈ 7,52 CNY (tipo de cambio publicado el 07/10/2026). Son precios de venta en China; el PVP en otros mercados puede variar.*
+*Cambio aplicado: 1 € ≈ 7,52 CNY, según el tipo publicado el 07/10/2026. Esos importes corresponden al mercado chino; en otros mercados, el PVP puede ser distinto.*
 
-Las versiones "150" montan una batería **LFP de CATL de 34,13 kWh** (150 km CLTC, unos 122 km WLTP), y las "260" una **ternaria de CATL de 59,45 kWh** (260 km CLTC, unos 211 km WLTP).
+Las variantes "150" recurren a acumuladores **LFP de CATL de 34,13 kWh**, con 150 km CLTC y unos 122 km WLTP; las "260", a una química **ternaria de CATL de 59,45 kWh**, con 260 km CLTC y unos 211 km WLTP.
 
-## 903 CV: el híbrido enchufable más potente de su clase
+## Potencia descomunal: 903 CV con enchufe
 
-El sistema combina un **2.0 turbo de gasolina** con motores eléctricos para un total de **665 kW (903 CV)** y **1.135 Nm** de par. Acelera de **0 a 100 km/h en 4,6 segundos** pese a superar las 3 toneladas, y alcanza los **180 km/h** de velocidad máxima.
+El conjunto aúna un **2.0 turbo de gasolina** y motores eléctricos hasta alcanzar **665 kW (903 CV)** con **1.135 Nm** de par. El 0 a 100 km/h le lleva 4,6 segundos pese a rebasar las 3 toneladas, y llega a **180 km/h** de velocidad máxima.
 
-La arquitectura eléctrica es de **800 V** con carga rápida en continua de **170 kW**: del 30 % al 80 % en menos de 10 minutos. Con el depósito de **100 litros**, la autonomía combinada supera los **1.000 km** (el fabricante habla de hasta 1.400 km en condiciones óptimas).
+La recarga rápida en continua de **170 kW** completa el paso del 30 % al 80 % en algo menos de 10 minutos sobre una base eléctrica de **800 V**. Gracias al depósito de **100 litros**, la autonomía combinada rebasa los **1.000 km** (el fabricante menciona hasta 1.400 km en condiciones óptimas).
 
-Por dentro es un salón rodante: pantalla panorámica **"Horizon" de 35,4 pulgadas** más central de 15,6" 2.5K con chip **Snapdragon 8255**, doble cargador inalámbrico de 50 W, **nevera a bordo**, equipo de sonido **Lexicon**, asientos delanteros con calefacción, ventilación y masaje, y segunda fila con **asientos de gravedad cero** en la versión de 6 plazas.
+El habitáculo parece un salón sobre ruedas, con pantalla panorámica **"Horizon" de 35,4 pulgadas** junto a una central de 15,6 pulgadas 2.5K movida por un chip **Snapdragon 8255**, doble base de carga inalámbrica de 50 W, **nevera a bordo** y sonido **Lexicon**; delante, calefacción, ventilación y masaje en los asientos, y detrás, **asientos de gravedad cero** en la variante de 6 plazas.
 
 <img src=/media/jetour-g700-flotando-agua.webp alt=Todoterreno chino de color gris vadeando un río profundo con el agua salpicando a su alrededor>
 
-## Un anfibio con matrícula: flota de verdad
+## Flota de verdad: el G700 anfibio
 
-Aquí viene lo increíble: el G700 no solo vadea **900 mm**... **flota**. La versión Ark Edition incorpora hélices y puede navegar por el agua como una barca, aguantando hasta 60 minutos en modo flotación. No es un truco de marketing: en octubre de 2025 un G700 cruzó el **río Yangtsé** (1,48 km en 22 minutos), convirtiéndose en el primer SUV en lograrlo.
+Aquí está lo asombroso: el G700 no se limita a vadear **900 mm**... **flota**. La variante Ark Edition monta hélices y puede desplazarse por el agua como una barca, resistiendo hasta 60 minutos en modo flotación. No se trata de un truco publicitario: en octubre de 2025 un G700 atravesó el **Yangtsé**: 1,48 km en 22 minutos y se convirtió en el primer SUV capaz de lograrlo.
 
-Y fuera del agua es un 4x4 de verdad: **bloqueos de diferencial delantero y trasero**, bloqueo central, **suspensión neumática**, reductora y modos todoterreno para arena, barro, nieve y roca. La altura libre varía entre **23 y 32 cm** según la suspensión, con ángulos de ataque de hasta **40°**. La capacidad de remolque llega a las **2,5 toneladas**.
+Y en tierra firme es un 4x4 auténtico: bloqueo delantero y trasero del diferencial, bloqueo central, **suspensión neumática**, reductora y programas todoterreno de arena, barro, nieve y roca, y una altura libre que oscila entre **23 y 32 cm** en función de la suspensión, con un ángulo de ataque de hasta **40°**. Su capacidad de remolque alcanza las **2,5 toneladas**.
 
-## Ya lo han probado en Europa (vídeo)
+## Prueba europea: ya rueda en Polonia
 
-Jetour desembarcó oficialmente en Europa en 2025: vende en **Polonia** (X70 Plus, Dashing y T2 de gasolina, para esquivar los aranceles a los eléctricos chinos) con una red de 30 concesionarios en marcha. El G700 aún no está a la venta en el continente, pero el importador polaco **PRIMA AUTO** ya ha cedido una unidad para una **prueba a fondo**: aceleración, consumos reales (unos 11 l/100 km con la batería descargada, según la prueba), interior, maletero de 966 litros y capacidades off-road.
+Jetour llegó oficialmente a Europa en 2025: comercializa en **Polonia** sus X70 Plus, Dashing y T2 de gasolina, una gama térmica para eludir los aranceles a los eléctricos chinos; su red suma 30 concesionarios en desarrollo. El G700 todavía no se comercializa en el continente, aunque el importador polaco **PRIMA AUTO** ya ha prestado una unidad para una **prueba a fondo**. La prueba mide aceleración, gasto real de unos 11 l/100 km sin carga en la batería (según la propia prueba), habitáculo, maletero de 966 litros y aptitudes off-road.
 
-Puedes verla aquí: <a href=https://www.youtube.com/watch?v=dp7ti7NmUKo>prueba completa del Jetour G700 en YouTube</a> (canal polaco; vehículo cedido por PRIMA AUTO).
+El vídeo está disponible aquí: <a href=https://www.youtube.com/watch?v=dp7ti7NmUKo>prueba completa del Jetour G700 en YouTube</a> (grabación polaca con unidad prestada por PRIMA AUTO).
 
 ## ¿Llegará a España?
 
-**De momento, no hay plan confirmado.** Jetour opera oficialmente en Europa solo en Polonia y con modelos de gasolina. El G700, como híbrido enchufable de más de 3 toneladas y 903 CV, tendría que pasar por la homologación europea y un posicionamiento de precio que aún no existe. Su <a href=/coches/jetour-g700-903-cv-precio-ficha-tecnica/>ficha técnica completa está aquí</a>.
+**Por ahora, no existe un plan confirmado.** Jetour trabaja oficialmente en Europa solo en Polonia, con modelos de gasolina. El G700, híbrido enchufable por encima de las 3 toneladas y con 903 CV, debería superar la homologación europea y definir un posicionamiento de precio que todavía no existe. Su <a href=/coches/jetour-g700-903-cv-precio-ficha-tecnica/>ficha técnica completa está aquí</a>.
 
-Si te van los 4x4 chinos extremos, no te pierdas el <a href=/blog/geely-galaxy-battleship-700-zhanjian-700/>Battleship 700 de Geely (1.113 CV)</a> ni <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5/>Fangchengbao, la marca secreta de BYD</a>. Y puedes <a href=/comparador-coches/>comparar todoterrenos en el comparador</a>.
+Para amantes de los todoterreno chinos radicales, merece atención el <a href=/blog/geely-galaxy-battleship-700-zhanjian-700/>Battleship 700 de Geely (1.113 CV)</a> y también <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5/>Fangchengbao, la marca secreta de BYD</a>. Además, se puede <a href=/comparador-coches/>comparar todoterrenos en el comparador</a>.
 
 ## Preguntas frecuentes
 
-### ¿Qué es el Jetour Zongheng G700?
-El todoterreno insignia de Zongheng, la submarca de lujo off-road de Jetour (Chery): un híbrido enchufable de 5,2 metros y 903 CV cuya versión 2027 salió a la venta en China el 30 de septiembre de 2026.
+### ¿Qué modelo es el Jetour Zongheng G700?
+Se trata del todoterreno insignia de Zongheng, la línea premium off-road de Jetour (Chery). Mide 5,2 metros, rinde 903 CV como híbrido enchufable y su variante 2027 se puso a la venta el 30 de septiembre de 2026 en China.
 
-### ¿Cuántos caballos tiene el Jetour G700?
-**665 kW (903 CV)** y 1.135 Nm combinados, con un 0-100 km/h en 4,6 segundos.
+### ¿Qué potencia entrega el Jetour G700?
+Combina **665 kW (903 CV)** con 1.135 Nm; el 0-100 km/h le lleva 4,6 segundos.
 
-### ¿Cuánto cuesta el Jetour G700?
-En China, de **329.900 a 442.900 yuanes** (unos 43.900–58.900 € al cambio). No hay precio europeo anunciado.
+### ¿Qué precio tiene el Jetour G700 en China?
+En China, entre **329.900 y 442.900 yuanes**, equivalentes a unos 43.900–58.900 €. Sin precio europeo anunciado.
 
-### ¿Es verdad que el G700 flota en el agua?
-Sí: además de vadear 900 mm, la versión Ark puede **navegar con hélices** hasta 60 minutos, y un G700 cruzó el río Yangtsé en 2025.
+### ¿Flota realmente el G700?
+Sí: además de vadear 900 mm, la variante Ark puede **desplazarse con hélices** durante 60 minutos, y un G700 atravesó el Yangtsé en 2025.
 
-### ¿Se vende el Jetour G700 en España?
-**No.** Jetour solo opera oficialmente en Polonia (con otros modelos). No hay fecha para el G700 en Europa.
+### ¿Llegará el Jetour G700 a España?
+**No.** Jetour trabaja oficialmente solo en Polonia (con otros modelos). No existe fecha para el G700 en el continente.
 
-### ¿Qué autonomía eléctrica tiene?
-**150 km CLTC** (≈122 km WLTP) con la batería de 34,13 kWh, o **260 km CLTC** (≈211 km WLTP) con la de 59,45 kWh.
+### ¿Qué autonomía eléctrica ofrece?
+La de 34,13 kWh da **150 km CLTC** (≈122 km WLTP); la de 59,45 kWh, **260 km CLTC** (≈211 km WLTP).
 
 Fuentes: <a href=https://carnewschina.com/2026/09/30/cherys-jetour-g700-launched-with-huawei-ads-5-0/>CarNewsChina</a>, <a href=https://www.carsguide.com.au/car-news/chinas-new-landcruiser-rival-is-an-animal-2026-jetour-g700-revealed-ahead-of-potential>Carsguide</a>, <a href=https://www.youtube.com/watch?v=dp7ti7NmUKo>prueba en YouTube (PRIMA AUTO)</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+¿Recibiste una sanción y sospechas un error formal? Compruébalo sin coste con nuestro asistente <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de decidir.`
   },
   {
     "title": "Hongqi G919: el Clase G chino de 831 CV",
