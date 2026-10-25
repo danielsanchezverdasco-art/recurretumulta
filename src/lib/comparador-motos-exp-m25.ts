@@ -4921,7 +4921,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       "Su motor entrega 200 Nm de par en la rueda",
       "La versión de 45 km/h se descatalogó: solo queda la 70",
     ],
-    imagen: "/media/vespa-primavera-elettrica-70-2025-ficha-tecnica-precio-oficial.webp",
+    imagen: null,
     galeria: [
       {
         src: "/media/vespa-primavera-elettrica-70-2025-ficha-tecnica-precio-oficial-2.webp",

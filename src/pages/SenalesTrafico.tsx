@@ -95,12 +95,12 @@ function TarjetaSenal({ senal, onOpen }: { senal: Senal; onOpen: (s: Senal) => v
       onClick={() => onOpen(senal)}
       className="text-left border border-gray-200 rounded-2xl p-4 bg-white hover:border-red-300 hover:shadow-md transition-all focus:outline-none focus:ring-2 focus:ring-red-500"
     >
-      <img
+      {senal.imagen && (<img
         src={senal.imagen}
         alt={`Señal ${senal.codigo}: ${senal.nombre}`}
         className="w-full aspect-square object-contain bg-white rounded-xl"
         loading="lazy"
-      />
+      />)}
       <p className="mt-3 text-[11px] font-black text-gray-400 uppercase tracking-wide">{senal.codigo}</p>
       <h3 className="font-bold text-gray-900 leading-snug text-sm">{senal.nombre}</h3>
       <span className={`inline-block mt-2 text-[11px] font-bold px-2 py-0.5 rounded-full border ${CATEGORIA_STYLE[senal.categoria]}`}>
@@ -137,11 +137,11 @@ function ModalSenal({ senal, onClose }: { senal: Senal; onClose: () => void }) {
             <X className="w-5 h-5 text-gray-700" />
           </button>
         </div>
-        <img
+        {senal.imagen && (<img
           src={senal.imagen}
           alt={`Señal ${senal.codigo}: ${senal.nombre}`}
           className="w-40 h-40 object-contain bg-white mx-auto"
-        />
+        />)}
         <div className="space-y-3 text-sm leading-relaxed">
           <div>
             <p className="font-bold text-gray-900 mb-1">Qué significa</p>

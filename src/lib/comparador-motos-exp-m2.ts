@@ -637,7 +637,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
       "BMW la presentó con una prueba solidaria en Marruecos",
       "Su escape Akrapovic viene de serie",
     ],
-    imagen: "/media/motos/bmw-f-900-gs-2024-ficha-tecnica-precio-1.webp",
+    imagen: null,
     galeria: [
       { src: "/media/motos/bmw-f-900-gs-2024-ficha-tecnica-precio-2.webp", alt: "BMW F 900 GS 2024, vista lateral con rueda de 21 pulgadas", ancho: 1200, alto: 800 },
       { src: "/media/motos/bmw-f-900-gs-2024-ficha-tecnica-precio-3.webp", alt: "BMW F 900 GS 2024 en pista de tierra", ancho: 1200, alto: 800 },
@@ -699,7 +699,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
       "El 'pico' delantero ahora va pintado del color de la carrocería",
       "En 2024 ganó 5 CV y un asiento rediseñado",
     ],
-    imagen: "/media/motos/bmw-s-1000-xr-2024-ficha-tecnica-precio-1.webp",
+    imagen: null,
     galeria: [
       { src: "/media/motos/bmw-s-1000-xr-2024-ficha-tecnica-precio-2.webp", alt: "BMW S 1000 XR 2024, vista lateral deportiva", ancho: 1200, alto: 800 },
       { src: "/media/motos/bmw-s-1000-xr-2024-ficha-tecnica-precio-3.webp", alt: "BMW S 1000 XR 2024 en carretera de montaña", ancho: 1200, alto: 800 },
@@ -759,7 +759,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
       "Su diseño homenajea a la BMW R 5 de 1936",
       "El 0-100 km/h lo hace en 4,8 segundos pese a su peso",
     ],
-    imagen: "/media/motos/bmw-r-18-2024-ficha-tecnica-precio-1.webp",
+    imagen: null,
     galeria: [
       { src: "/media/motos/bmw-r-18-2024-ficha-tecnica-precio-2.webp", alt: "BMW R 18 2024, vista lateral con el motor bóxer visto", ancho: 1200, alto: 800 },
       { src: "/media/motos/bmw-r-18-2024-ficha-tecnica-precio-3.webp", alt: "BMW R 18 2024 en una carretera costera", ancho: 1200, alto: 800 },

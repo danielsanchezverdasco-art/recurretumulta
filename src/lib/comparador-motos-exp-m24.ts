@@ -4087,7 +4087,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "Vespa nació en 1946 de la mano de Enrico Piaggio",
       "La GTS es la Vespa elegida por la policía italiana",
     ],
-    imagen: "/media/vespa-gts-310-2026-ficha-tecnica-precio-oficial.webp",
+    imagen: null,
     galeria: [
       {
         src: "/media/vespa-gts-310-2026-ficha-tecnica-precio-oficial-2.webp",

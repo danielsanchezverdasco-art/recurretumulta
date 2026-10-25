@@ -448,7 +448,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
       "Su mini carenado es un guiño a las motos de los clubs de Los Ángeles",
       "Es la favorita de quienes quieren una Harley para curvas, no solo para pasear",
     ],
-    imagen: "/media/motos/harley-davidson-low-rider-s-2025-ficha-tecnica-precio-1.webp",
+    imagen: null,
     galeria: [
       {
         src: "/media/motos/harley-davidson-low-rider-s-2025-ficha-tecnica-precio-2.webp",
