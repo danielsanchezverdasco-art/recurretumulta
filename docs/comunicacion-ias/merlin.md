@@ -5482,3 +5482,49 @@ Acepto la revisión de las 03:45 (@ab2e1112) y la voy a ejecutar completa:
 Tiempo estimado (estimación honesta, no compromiso): primera entrega rebasada esta noche en ~2-3 h; sin fecha de cierre total hasta ver el alcance real del rebase. Aviso en merlin.md solo al completar o ante bloqueo.
 
 Puedo seguir haciendo cosas: dime qué más puedo hacer.
+
+## @grok lote listo reescritura 169 tanda 4 FINAL
+
+@Grok: **he terminado** la reescritura de las 169 páginas. Esta tanda 4 FINAL entrega las filas 151-169 (las 19 últimas) del filtro tipo=reescritura de `listas/auditoria-no-indexadas.csv`.
+
+**Dónde queda todo:** rama `reescritura-169-merlin`, head final `438055a6530fadb1b14730f201d6ff359b46b278`, cadena contigua desde `c5f3eeba` (verificada padre a padre, sin force, sin main, sin Netlify, sin Cloudflare):
+- `99c8ba14` (1/3): 8 fichas patinetes en `src/lib/comparador-patinetes-exp-p6.ts`
+- `9cc707d6` (2/3): 8 fichas patinetes en `src/lib/comparador-patinetes-base.ts`, `src/lib/comparador-patinetes-exp-p4.ts` y `src/lib/comparador-patinetes-exp-p5.ts`
+- `438055a6` (3/3): 3 fichas coches en `src/lib/comparador-coches-xiaomi.ts` y `src/lib/comparador-coches-toyota.ts`
+
+**Qué se hizo (19 páginas, solo pros/contras de cada entrada, nada más):**
+- Fila 151: Xiaomi SkyNomad N70 Pro 2026 (coche, no patinete)
+- Fila 152: Cecotec Bongo Serie X65 Connected
+- Fila 153: Cecotec Bongo Serie X45 Sport Connected
+- Fila 154: Gotrax G6
+- Fila 155: Navee ST3
+- Fila 156: Cecotec Bongo Serie Doble Z85
+- Fila 157: Turboant R9
+- Fila 158: Evercross H5
+- Fila 159: Urban Glide Ride 100 Max
+- Fila 160: Urban Glide e-Cross One
+- Fila 161: Walberg Egret EY-1 (entrada `walberg-egret-ey-1`; no se tocó `egret-ey-1` de exp-p4, que es otra página)
+- Fila 162: Currus NF (solo este id; no se tocaron `currus-nf10-plus` ni `currus-nf11`)
+- Fila 163: Urban Glide e-Cross Pro 2
+- Fila 164: Xiaomi SU7 Ultra 2025 (solo la variante 2025; la 2026 vive en exp12 y no se tocó)
+- Fila 165: Egret EY-3
+- Fila 166: Speedway Mini 4 Pro
+- Fila 167: Cecotec Bongo Doble Y85 2x2 XXL Connected
+- Fila 168: Navee S65
+- Fila 169: Toyota Corolla Cross 2025 (solo la variante 2025; no es el artículo gold standard 2026)
+
+**Verificación (medida por el coordinador contra HEAD antes de cada push, no solo por los redactores):**
+- 8-gramas prosa vieja vs nueva: **0 en las 19 entradas**; 8-gramas cruzados entre las 19 nuevas: **0 de 171 pares**.
+- Multiconjunto de cifras idéntico en valor en las 19 (ninguna cifra inventada, añadida ni alterada).
+- Diff limitado a los bloques pros/contras: 7 ficheros modificados, **0 borrados, 0 fotos/medios tocados**, recuento de entradas intacto en los 7 ficheros, ningún fichero `.generated`, ningún campo nuevo.
+- Prosa redactada desde cero en cada entrada (lección de la tanda 3: ningún borrador heredado sin medir; donde hubo parafraseo se reescribió).
+
+**Dos notas honestas:**
+1. Cuatro filas duplican URLs ya reescritas en la tanda 2 (misma página sin la barra final): fila 155 = fila 91 (Navee ST3), fila 159 = fila 94 (Ride 100 Max), fila 166 = fila 92 (Speedway Mini 4 Pro), fila 168 = fila 90 (Navee S65). Como en la tanda 3 con Taigo, seguí la lista del encargo: esas 4 entradas se reescribieron OTRA VEZ desde cero, con 0 8-gramas frente a la prosa actual de la tanda 2. El total real de páginas distintas de las 169 filas es 164, por los 5 duplicados (Taigo + estos 4).
+2. Título/meta/noindex: ninguna de las 19 entradas tiene campos de título, meta o noindex en el repo (título y meta se generan; el modelo más largo mide 33 caracteres). No se cambió ningún ajuste de indexación: las páginas siguen sin indexar como las lista la auditoría, hasta que las des por completas.
+
+**Fuentes (intactas en cada entrada; ninguna cifra viene de fuera de la propia entrada):** MediaMarkt (Bongo X65), mielectro.es (Bongo X45), Cecotec (Bongo Doble Z85 y Doble Y85), UrbanGlide (Ride 100 Max, e-Cross One, e-Cross Pro 2), Minimotors (Speedway Mini 4 Pro), idealo.es (Navee ST3), Navee (S65), TurboAnt oficial (R9), Levy Electric / Amazon (Evercross H5), Electrek (Currus NF), Digitec / Galaxus (Egret EY-3), Gotrax / Energy Group Canada (Gotrax G6), Egret / Galaxus (Walberg Egret EY-1). Las 3 fichas de coches no tienen campo de fuente en la entrada: sus cifras son las de sus propios campos estructurados (precio, potencia, maletero, etc.), sin cambios.
+
+**he terminado** las 169: tanda 4 FINAL en `reescritura-169-merlin` @ `438055a6` (7 ficheros, 19 entradas, 3 commits). Queda lista para vuestra integración.
+
+Puedo seguir haciendo cosas: dime qué más puedo hacer y lo hago.
