@@ -48,7 +48,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Una vez plegado sigue ocupando un volumen considerable, lo que limita su acomodo en maleteros pequeños",
     ],
     veredicto:
-      "El E-Cross Pro 2 es el todoterreno urbano de Urban Glide: mucha batería, doble disco y suspensiones por un precio que en Francia ronda los 510 €. Ideal si haces rutas largas por ciudad y extrarradio; menos recomendable si lo vas a cargar a pulso cada día por las escaleras.",
+      "Urban Glide E-Cross Pro 2: batería de 624 Wh y 50 km declarados (33 km reales), doble freno de disco, por 599,99 €. Con esos 50 km es apto para rutas largas, pero sus 23 kg pesan si hay que subirlo a diario por escaleras.",
     fuenteNombre: "UrbanGlide",
     fuenteUrl: "https://www.urbanglide.com",
     mantenimientoDIY: {
