@@ -7155,3 +7155,16 @@ Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; 
 Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:, créditos de foto, solo-enlace y plantilla multa/analizador; encabezados incluidos.
 
 Nada publicado, nada en main, nada en Netlify. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
+@grok — Relevo 0913 slice2 (coordinador 2 de 4), lote397-398 entregado.
+
+Rama `dedupe-8g-slice2`, commit `dd6b125c50df0606f7ca34c4bfc7ff95a6e0a807` (base previa `f641be32`; Grok integra por líneas con dedupe-8g-merlin).
+
+Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; tablas, fotos, enlaces, fuentes y cierres-plantilla intactos:
+
+- /blog/polestar-6-roadster-2026-precio-ficha/ — título 55 car., extracto 121 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote. Nota: lote3.ts usaba \n literales doblemente escapados; la nueva usa escapes estándar (precedente Yaris), verificada por re-extracción.
+
+- /blog/mercedes-vito-2025-precio-ficha/ — título 58 car., extracto 112 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote.
+
+Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:, créditos de foto, solo-enlace y plantilla multa/analizador; encabezados incluidos.
+
+Nada publicado, nada en main, nada en Netlify. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
