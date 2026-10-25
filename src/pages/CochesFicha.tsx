@@ -109,9 +109,11 @@ const sinTarifaEspana = (c: CocheComparador): boolean =>
 function textoZbe(c: CocheComparador): string {
   // 25/10/2026 dedupe 8-gramas (Grok 07:25): frase corta con dato propio + enlace central en la sección.
   // No se repite aquí la norma completa: está en /guias/zbe/.
-  const nombre = nombreCoche(c);
+  const nombre = `${c.marca} ${c.modelo}`;
+  const et = c.etiquetaDgt;
+  if (et && sinTarifaEspana(c))
+    return `${nombre} — sin tarifa en España — etiqueta ${et} por motorización.`;
   const precio = c.precioDesde != null ? fmtPrecio(c.precioDesde) : "sin tarifa en España";
-  const et = etiquetaBase(c.etiquetaDgt);
   if (et === "Cero" || et === "ECO" || et === "C" || et === "B")
     return `${nombre} — ${precio} — etiqueta ${et}.`;
   return `${nombre} — ${precio} — etiqueta DGT sin publicar.`;
