@@ -366,5 +366,85 @@
     "intro": "iScooter es una de las marcas más vendidas por internet en España, y sus 18 fichas lo explican: la familia i10, con la i10, la i10 Pro, la i10 Plus y la i10 Max, cubre el urbano de precio bajo; la familia i9 hace lo propio un escalón por encima; y las iX3, iX4 e iX5, junto con la i8 y la i12, completan una gama pensada para comprar sin probarla antes. Aquí la comparación pasa por la autonomía, el peso y la postventa, porque el precio ya es bajo en todas. Es la marca del que prioriza gastar poco y moverse ya.",
     "n": 18,
     "url": "/patinetes/marca/iscooter/"
+  },
+  "patinetes/joyor": {
+    "nombre": "Joyor",
+    "title": "Joyor: 25 patinetes con baterías grandes",
+    "description": "Las 25 fichas Joyor: S5 Pro, A5, C10, F5S, G3, G5, K4 y familias S, LR y LuxeRider, con mucha batería por poco dinero.",
+    "intro": "Joyor es una de las marcas con más fichas de patinetes de esta web, y su receta no cambia: baterías grandes, precios bajos y modelos para casi todo. La S5 Pro y la A5 son las urbanas de referencia, la C10, la F5S, la G3 y la G5 suben en alcance, y las familias S, LR y LuxeRider, con la K4, completan una gama que parece no tener fin. Con 25 fichas, el riesgo es perderse, así que conviene filtrar por autonomía real y por peso antes que por nombre: dos Joyor parecidos pueden esconder baterías muy distintas. Es la marca del que quiere muchos kilómetros por poco dinero.",
+    "n": 25,
+    "url": "/patinetes/marca/joyor/"
+  },
+  "patinetes/minimotors": {
+    "nombre": "Minimotors",
+    "title": "Minimotors: 3 Dualtron de alta gama",
+    "description": "Las 3 fichas Minimotors: Dualtron City 2024, Dualtron Eagle Pro y Dualtron Victor Luxury Plus, potentes y de largo alcance.",
+    "intro": "Minimotors es el fabricante coreano detrás de Dualtron, y sus 3 fichas en esta web son la prueba: la Dualtron City 2024 para la ciudad con aspiraciones, la Eagle Pro como equilibrio entre potencia y uso, y la Victor Luxury Plus como tope de gama. Son patinetes potentes, pesados y de largo alcance, pensados para quien ya sabe lo que compra y no para el primer patinete. La comparación aquí pasa por la potencia, la batería y el peso, porque el precio ya avisa de que no son urbanos baratos. En España, además, hay que mirar la legalidad VMP antes de decidir.",
+    "n": 3,
+    "url": "/patinetes/marca/minimotors/"
+  },
+  "patinetes/niu": {
+    "nombre": "NIU",
+    "title": "NIU: 14 KQi urbanos con diseño cuidado",
+    "description": "Las 14 fichas NIU: KQi Air X, KQi1, KQi2, KQi3 y KQi 300X, urbanos de diseño cuidado y buena app.",
+    "intro": "NIU traslada a los patinetes lo que ya hacía en scooters eléctricos: diseño cuidado, acabados por encima de la media y una app que funciona. La KQi Air X es la ligera de la gama, las KQi1 y KQi2 cubren el urbano de precio medio, y las KQi3 y la KQi 300X suben en potencia y equipamiento, con la 300X como la más divertida. Son 14 fichas en las que el diseño no es un adorno: se nota en la conducción y en los detalles. Al comparar, pesan tanto la autonomía como el peso y la postura, porque NIU no compite solo por precio.",
+    "n": 14,
+    "url": "/patinetes/marca/niu/"
+  },
+  "patinetes/okai": {
+    "nombre": "Okai",
+    "title": "Okai: 4 patinetes urbanos sencillos",
+    "description": "Las 4 fichas Okai: ES10, ES30, Neon y Neon Pro, urbanos sencillos con luces y diseño funcional.",
+    "intro": "Okai hace patinetes urbanos sin complicaciones: la ES10 y la ES30 son las de entrada, y la Neon y la Neon Pro añaden luces y un punto más de presencia. Son 4 fichas de una marca que viene del mundo de la movilidad compartida, y eso se nota: construcción funcional, pensada para durar y para usarse todos los días. La comparación es rápida: autonomía, peso y precio, sin gamas interminables ni versiones confusas. Es una opción para quien quiere un urbano honesto sin pagar por prestaciones que no va a usar.",
+    "n": 4,
+    "url": "/patinetes/marca/okai/"
+  },
+  "patinetes/ruptor": {
+    "nombre": "Ruptor",
+    "title": "Ruptor: 2 patinetes urbanos R3 y R6",
+    "description": "Las 2 fichas Ruptor: R3 y R6, urbanos compactos para el desplazamiento diario.",
+    "intro": "Ruptor resume su oferta en dos modelos: la R3 y la R6. Son patinetes urbanos compactos, pensados para el desplazamiento diario sin complicaciones ni precios altos. Con solo 2 fichas, la decisión es inmediata: autonomía, peso y presupuesto, sin familias ni versiones que mareen. Es una marca pequeña en esta web, y sus dos modelos se entienden mejor como alternativa sencilla a los urbanos de las grandes marcas que como una gama con aspiraciones de otra cosa.",
+    "n": 2,
+    "url": "/patinetes/marca/ruptor/"
+  },
+  "patinetes/segway": {
+    "nombre": "Segway",
+    "title": "Segway: 12 patinetes urbanos de referencia",
+    "description": "Las 12 fichas Segway: E2, E25, E45, F65 y GT1, urbanos de referencia con la fiabilidad de la marca.",
+    "intro": "Segway es la referencia del patinete urbano para mucha gente, y sus 12 fichas lo justifican: la E2 y la E25 para empezar, la E45 un escalón por encima, la F65 para el día a día con más alcance, y la GT1 para quien quiere potencia de sobra. Son modelos con una red de servicio amplia y una fiabilidad contrastada, dos cosas que pesan cuando el patinete se usa todos los días. Al comparar dentro de Segway, la autonomía y el peso separan unas de otras más que el diseño, que mantiene un aire de familia en toda la gama.",
+    "n": 12,
+    "url": "/patinetes/marca/segway/"
+  },
+  "patinetes/urban-glide": {
+    "nombre": "Urban Glide",
+    "title": "Urban Glide: 19 patinetes de ciudad y todoterreno",
+    "description": "Las 19 fichas Urban Glide: All Road, Ride 100, e-Cross y 1000GT, urbanos y todoterreno con precios ajustados.",
+    "intro": "Urban Glide es una marca francesa con una gama larga y precios ajustados: la Ride 100 City y la Ride 100 Max para la ciudad, la All Road 2, 5 y 6 para firmes rotos, la e-Cross Pro para el campo, y la 1000GT y la 500CT en los extremos de potencia y formato. Son 19 fichas en las que conviene mirar la nota de los usuarios y la garantía, porque la gama es amplia y no todos los modelos envejecen igual. El filtro útil es el uso: ciudad, mixto o campo, y después el presupuesto, porque hay un Urban Glide para cada uno.",
+    "n": 19,
+    "url": "/patinetes/marca/urban-glide/"
+  },
+  "patinetes/vsett": {
+    "nombre": "Vsett",
+    "title": "Vsett: 13 patinetes potentes de doble motor",
+    "description": "Las 13 fichas Vsett: 8, 9, 10 Plus y 11 Plus, potentes de doble motor para exigentes.",
+    "intro": "Vsett juega en la liga de los potentes: la 8 y la 9 son la entrada a la gama, la 10 Plus y sus versiones Apex, R y Super suben en batería y prestaciones, y la 11 Plus y sus variantes Super ponen el tope con doble motor y autonomía de gran turismo. Son 13 fichas para quien ya tiene experiencia con patinetes y busca más: más velocidad, más alcance y más peso también. En España conviene recordar que buena parte de la gama no es VMP legal de calle, así que la comparación debe empezar por el uso previsto, no por la potencia.",
+    "n": 13,
+    "url": "/patinetes/marca/vsett/"
+  },
+  "patinetes/walberg": {
+    "nombre": "Walberg Urban Electrics",
+    "title": "Walberg: 4 Egret alemanes de calidad",
+    "description": "Las 4 fichas Walberg Urban Electrics: Egret EY-1, EY-6, GT y Pro, patinetes alemanes de calidad premium.",
+    "intro": "Walberg Urban Electrics es la empresa alemana detrás de Egret, y sus 4 fichas lo dejan claro: la EY-1 y la EY-6 de la familia Ey!, la GT y la Pro completan una gama corta y de calidad premium. Son patinetes con acabados cuidados, homologación alemana y precios por encima de la media, pensados para quien valora la construcción tanto como la autonomía. Con solo 4 fichas, la elección se hace por formato y por presupuesto, sin perderse entre versiones. Es la marca del que quiere un patinete bien hecho y está dispuesto a pagarlo.",
+    "n": 4,
+    "url": "/patinetes/marca/walberg/"
+  },
+  "patinetes/zwheel": {
+    "nombre": "ZWheel",
+    "title": "ZWheel: 10 patinetes españoles asequibles",
+    "description": "Las 10 fichas ZWheel: ZLion X Max, E9D, E9T, E12, ZFox Max y ZWolf Duo, urbanos españoles con certificado DGT.",
+    "intro": "ZWheel es la marca española de patinetes asequibles con certificado DGT en buena parte de la gama. La ZLion X Max es la referencia por precio y equipamiento, la E9D, la E9T y la E12 cubren el urbano de entrada, y la ZFox Max y la ZWolf Duo completan una gama pensada para la ciudad española. Son 10 fichas con un argumento común: legalidad, precio contenido y servicio cercano. Al comparar, lo que más cambia es la batería y el equipamiento, porque el planteamiento urbano y legal no cambia de unas a otras.",
+    "n": 10,
+    "url": "/patinetes/marca/zwheel/"
   }
 }
