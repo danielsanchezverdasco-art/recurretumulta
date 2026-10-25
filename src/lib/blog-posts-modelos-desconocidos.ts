@@ -5,9 +5,9 @@ import type { BlogPost } from "./blog-data.ts";
 
 export const MODELOS_DESCONOCIDOS_POSTS: BlogPost[] = [
   {
-    "title": "Fangchengbao: la marca secreta de BYD que llega",
+    "title": "Fangchengbao, la desconocida de BYD: Bao 5 y Formula S",
     "slug": "fangchengbao-byd-marca-desconocida-formula-s-bao-5",
-    "excerpt": "Fang Cheng Bao, la benjamina de BYD: 500.000 coches en tres años, un todoterreno que llegará como Denza Bao 5 y una berlina de 900 km por 30.000 €.",
+    "excerpt": "La filial todoterreno de BYD roza el medio millón en tres años: su Bao 5 vendrá como Denza y la berlina Formula S promete 900 km por menos de 30.000 €.",
     "category": "Modelos desconocidos",
     "date": "2026-10-03",
     "readTime": 8,
@@ -22,23 +22,23 @@ export const MODELOS_DESCONOCIDOS_POSTS: BlogPost[] = [
     ],
     "content": `<img src=/media/fangchengbao-desconocidos-hero.webp alt=Todoterreno híbrido enchufable chino de estilo robusto circulando por una pista de montaña al atardecer>
 
-Probablemente nunca has oído hablar de **Fang Cheng Bao**. Y sin embargo es la marca de coches que más rápido ha crecido en la historia reciente de China: **casi 500.000 coches fabricados en apenas tres años de vida**. Es la benjamina del imperio **BYD**, nació para fabricar todoterrenos híbridos enchufables con estética aventurera, y su desembarco en Europa ya ha empezado, aunque con otro nombre en el portón.
+El nombre **Fang Cheng Bao** suena a desconocido para la mayoría de conductores españoles. Detrás de esas tres palabras, sin embargo, se esconde el fabricante chino con el despegue más veloz de los últimos años: **rozando las 500.000 unidades construidas en solo tres ejercicios**. Pertenece al grupo **BYD**, nació orientada a todoterrenos híbridos enchufables de imagen aventurera, y su llegada a Europa ya está en marcha, aunque el emblema del portón será otro.
 
-Si te interesa el coche chino, este es el nombre que tienes que memorizar. Te explicamos quiénes son, qué venden y cuándo podrás conducir uno en España.
+Si sigues el automóvil chino, conviene que retengas este nombre. En las líneas siguientes repasamos su identidad, su gama y el calendario con el que podría ponerse al volante en España.
 
-## Qué es Fang Cheng Bao
+## Origen y hueco dentro de BYD
 
-Fang Cheng Bao (FCB) es una de las submarcas de BYD, lanzada para cubrir el hueco entre la marca generalista BYD y las premium **Denza** y **Yangwang**. Su especialidad inicial fueron los **todoterrenos híbridos enchufables** de estética cuadrada y capacidades reales fuera del asfalto, con el sistema de propulsión **DMO** desarrollado específicamente para el 4x4.
+Fang Cheng Bao (FCB) funciona como una de las enseñas filiales de BYD, pensada para ocupar el espacio que queda entre la marca generalista BYD y las enseñas de lujo **Denza** y **Yangwang**. Su primer terreno fueron los **todoterrenos híbridos enchufables** de líneas cuadradas y aptitudes auténticas fuera del asfalto, impulsados por el sistema **DMO**, concebido expresamente para la tracción total.
 
-El dato que resume su trayectoria: según la prensa especializada, la marca ha fabricado **cerca de 500.000 coches en sus casi tres años de existencia**. Para ponerlo en contexto, muchas marcas europeas centenarias no llegan a esas cifras anuales en todo el continente.
+La cifra que condensa su recorrido, según la prensa especializada, ronda las **500.000 unidades fabricadas en sus casi tres años de vida**. Como referencia, bastantes marcas europeas con un siglo de historia no alcanzan ese volumen anual en todo el continente.
 
 <img src=/media/fangchengbao-bao-5-cuerpo.webp alt=Fang Cheng Bao Bao 5, el todoterreno híbrido enchufable de BYD>
 
-## El Bao 5: el primer Fang Cheng Bao que pisará Europa
+## Bao 5, la puerta de entrada europea
 
-La vía de entrada a Europa ya está decidida: el **Fangchengbao Bao 5** llegará a nuestro continente **rebautizado como Denza Bao 5**, dentro de la marca premium de BYD que ya opera en Europa desde el segundo trimestre de 2026 con la berlina **Z9 GT**.
+El camino hacia Europa ya tiene nombre decidido: el **Fangchengbao Bao 5** se comercializará en nuestro continente **con el nombre de Denza Bao 5**, integrado en la enseña de lujo de BYD que ya trabaja en el continente desde el segundo trimestre de 2026, año en que estrenó la berlina **Z9 GT**.
 
-Los datos oficiales presentados en el **Festival de la Velocidad de Goodwood** son serios:
+Las cifras oficiales difundidas en Goodwood, durante su Festival de la Velocidad, resultan contundentes:
 
 |  | Denza Bao 5 (Fangchengbao Bao 5) |
 |---|---|
@@ -52,53 +52,53 @@ Los datos oficiales presentados en el **Festival de la Velocidad de Goodwood** s
 | **Consumo medio** | 4,2 l/100 km |
 | **Emisiones CO2** | 94 g/km |
 
-Además monta **tres bloqueos electrónicos de diferencial**, suspensión independiente en ambos ejes y, en la versión Ultimate, el sistema **DiSus-P** de control inteligente de la carrocería, capaz de elevar la altura libre al suelo hasta **310 mm**. Es un 4x4 de chasis de largueros de verdad, con una estética que recuerda inevitablemente al Land Rover Defender moderno.
+A eso se suman **tres bloqueos electrónicos de diferencial**, suspensiones independientes en los dos ejes y, en el acabado Ultimate, el control inteligente de carrocería **DiSus-P**, que permite subir la altura libre hasta **310 mm**. Se trata de un 4x4 auténtico de chasis de largueros, cuya imagen evoca de forma inevitable al Land Rover Defender actual.
 
-## El Formula S: 900 km de autonomía por menos de 30.000 €
+## Formula S, la berlina que apunta a Xiaomi y Tesla
 
-Pero la bomba de 2026 no es el todoterreno, sino la berlina **Fang Cheng Bao Formula S**, presentada en China como respuesta directa al **Xiaomi SU7** y al **Tesla Model 3**. Sus cifras, publicadas por la propia marca:
+La gran novedad de 2026, sin embargo, es una berlina, no un todoterreno: se llama Formula S, pertenece a Fang Cheng Bao y se desveló en China como rival frontal del **Xiaomi SU7** y del **Tesla Model 3**. Los números difundidos por la propia marca son estos:
 
-- **900 km de autonomía** homologada, por encima de sus dos rivales.
-- **Carga del 10 al 70 % en cinco minutos** con la tecnología de carga ultrarrápida de BYD.
-- Precio de partida en China **por debajo de los 30.000 €** al cambio: unos 30.000 yuanes menos que el Xiaomi SU7 y 45.600 menos que el Model 3 de acceso.
+- **900 km de autonomía** homologada, una marca superior a la de sus dos competidores.
+- **Recarga del 10 al 70 % en cinco minutos** gracias a la tecnología de carga ultrarrápida de BYD.
+- Tarifa inicial en China **inferior a los 30.000 €** al cambio: alrededor de 30.000 yuanes por debajo del Xiaomi SU7 y 45.600 por debajo del Model 3 de acceso.
 
-La marca también ha lanzado el **Formula S GT**, una variante familiar de corte deportivo (shooting brake) que es, según los analistas, el candidato más probable a cruzar a Europa: un familiar eléctrico de casi cinco metros encaja mucho mejor en el gusto europeo que en el chino, y su lenguaje de diseño coincide con el del Denza Z mostrado en Goodwood. Si llega, lo hará **bajo la marca Denza**, porque Fang Cheng Bao no existe como marca fuera de China. Otra china que juega en esa liga de berlinas eléctricas potentes es <a href=/blog/avatr-changan-huawei-catl-06t-t09/>Avatr, la alianza de Changan, Huawei y CATL</a>.
+La firma también ha presentado el **Formula S GT**, una versión familiar de carácter deportivo (shooting brake) que, en opinión de los analistas, tiene más papeletas que ninguna otra para dar el salto a Europa: un familiar eléctrico que roza los cinco metros casa mejor con el gusto europeo que con el chino, y su estilo coincide con el del Denza Z exhibido en Goodwood. De producirse ese salto, se haría **con el emblema Denza**, porque Fang Cheng Bao no opera como marca fuera de China. En esa misma liga de berlinas eléctricas con mucha potencia también compite <a href=/blog/avatr-changan-huawei-catl-06t-t09/>Avatr, la alianza de Changan, Huawei y CATL</a>.
 
-## El plan de BYD: 6.000 cargadores ultrarrápidos fuera de China
+## La red de carga que acompaña al desembarco
 
-El desembarco no es solo de coches. En su reunión con accionistas, BYD detalló un plan de infraestructura: **6.000 cargadores Flash Charging fuera de China, 3.000 de ellos en Europa**, integrados con su negocio de almacenamiento y energía solar. En China desplegará 20.000 antes de que acabe el año.
+El desembarco abarca más que los coches. En su encuentro con accionistas, BYD expuso un plan de infraestructuras: **6.000 puntos Flash Charging fuera de China, con 3.000 puntos europeos**, combinados con su actividad de almacenamiento y energía solar. Dentro de China instalará 20.000 antes de terminar el año.
 
-La jugada es inteligente: cuando los Fang Cheng Bao (o los Denza que los esconden) lleguen a los concesionarios europeos, la red de megacarga ya llevará meses funcionando. Y no será de nadie más. En el mismo Goodwood, BYD mostró también a su marca de superlujo <a href=/blog/yangwang-byd-u8-u9-europa-2027/>Yangwang, cuyo U8 flota en el agua</a>.
+La estrategia tiene lógica: cuando los Denza que esconden a Fang Cheng Bao lleguen a los concesionarios del continente, la red de megacarga llevará ya meses en servicio. Y no pertenecerá a ningún otro operador. Goodwood sirvió además para exhibir la enseña de superlujo de BYD, <a href=/blog/yangwang-byd-u8-u9-europa-2027/>Yangwang, cuyo U8 flota en el agua</a>.
 
-## ¿Cuándo lo veremos en España?
+## Calendario previsible para España
 
-El **Denza Bao 5** ya ha debutado en Europa y su lanzamiento comercial es cuestión de meses. Del **Formula S** no hay fecha europea ni precio para España: de momento es un fenómeno chino. Pero la ventana está abierta: **Xiaomi no llegará a Europa hasta 2027**, y BYD quiere ocupar ese hueco antes.
+El **Denza Bao 5** ya se ha estrenado en Europa y su puesta a la venta llegará en cuestión de meses. Sobre el **Formula S**, no existe fecha europea ni tarifa para España: por ahora es un fenómeno exclusivamente chino. La oportunidad, eso sí, está abierta: **Xiaomi no desembarcará en Europa hasta 2027**, y BYD pretende ocupar ese espacio antes.
 
-Mientras tanto, si te tienta un todoterreno electrificado ya a la venta aquí, <a href=/comparador-coches/>compáralo con los SUV del comparador</a>: el Bao 5 jugará en la liga de los grandes cuando aterrice. Y si te van los 4x4 con estética aventurera, aquí te contamos quién es <a href=/blog/icaur-chery-marca-aventura-europa-espana-2027/>iCaur, la marca aventurera de Chery que llega a Europa en 2027</a>.
+Si ya andas buscando un todoterreno electrificado disponible en nuestro mercado, <a href=/comparador-coches/>compáralo con los SUV del comparador</a> y sitúa al Bao 5 entre los modelos grandes en cuanto llegue. Para los aficionados a los 4x4 de imagen aventurera, en este otro texto explicamos quién es <a href=/blog/icaur-chery-marca-aventura-europa-espana-2027/>iCaur, la marca aventurera de Chery que llega a Europa en 2027</a>.
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Qué es Fangchengbao?
-Es la marca más joven del grupo BYD, especializada en todoterrenos y berlinas híbridas enchufables y eléctricas. Ha fabricado casi 500.000 coches en tres años.
+### ¿Qué firma es Fangchengbao?
+La enseña más reciente del grupo BYD, centrada en todoterrenos con enchufe, en berlinas híbridas y también en modelos eléctricos. Ha construido casi 500.000 coches en tres años.
 
-### ¿El Fangchengbao Bao 5 se venderá en España?
-Llegará a Europa como **Denza Bao 5**, dentro de la marca premium de BYD que ya opera en el continente. Aún no hay precio ni fecha concreta para España.
+### ¿Se venderá el Fangchengbao Bao 5 en España?
+Llegará a Europa con el nombre de **Denza Bao 5**, dentro de la enseña de lujo de BYD que ya está presente en el continente. Todavía no hay tarifa ni fecha concreta para España.
 
-### ¿Cuánto cuesta el Fang Cheng Bao Formula S?
-En China parte por debajo de los 30.000 € al cambio, con 900 km de autonomía y carga ultrarrápida. No hay planes confirmados para Europa.
+### ¿Qué precio tiene el Fang Cheng Bao Formula S?
+Su tarifa china inicial queda bajo los 30.000 € al cambio; ofrece 900 km homologados y recarga ultrarrápida, pero Europa sigue sin planes confirmados.
 
-### ¿Fang Cheng Bao es lo mismo que Denza?
-No, pero están emparentadas: ambas pertenecen a BYD. Los modelos de Fang Cheng Bao que salen de China se venden en el extranjero bajo la marca **Denza**.
+### ¿Fang Cheng Bao y Denza son lo mismo?
+No, pero guardan parentesco: las dos pertenecen a BYD. Fuera de China, los modelos de la firma se comercializan con el emblema **Denza**.
 
-### ¿Qué es el Formula S GT?
-La variante familiar (shooting brake) de la berlina Formula S, de casi cinco metros de largo. Según los analistas, es el candidato más probable a cruzar a Europa, donde se vendería bajo la marca Denza.
+### ¿Qué variante es el Formula S GT?
+Es la variante familiar, tipo shooting brake, derivada de la berlina Formula S; mide casi cinco metros de longitud. En opinión de los analistas, es la candidata con más opciones de cruzar a Europa, donde se vendería con la marca Denza.
 
-### ¿Qué plan de cargadores tiene BYD para Europa?
-BYD anunció **6.000 cargadores Flash Charging fuera de China, 3.000 de ellos en Europa**, además de 20.000 en China antes de que acabe el año. La idea: que la red de megacarga lleve meses funcionando cuando sus marcas lleguen a los concesionarios europeos.
+### ¿Qué red de cargadores prepara BYD para Europa?
+El plan anunciado por BYD contempla 6.000 puntos Flash Charging fuera de China —3.000 europeos— y otros 20.000 dentro de China antes de que acabe el año, para que la megacarga lleve meses activa al llegar sus marcas a los concesionarios del continente.
 
 Fuentes: <a href=https://www.hibridosyelectricos.com/coches/500000-coches-en-3-anos-marca-mas-joven-byd-lanza-su-primera-berlina-electrica-con-850-km-autonomia-por-29600_89050_102.html>Híbridos y Eléctricos</a>, <a href=https://testcoches.es/noticias/byd-responde-al-xiaomi-su7-el-fang-cheng-bao-formula-s-llega-a-china-con-900-km-de-autonomia-y-carga-del-10-al-70-en-cinco-minutos/>TestCoches</a>, <a href=http://ant-co.in/news/denza-trae-a-europa-su-primer-suv-con-el-bao-5-hibrido-enchufable-con-hasta-835-km-de-autonomia-20260709ab135f30e144b.html>Europa Press vía Ant-Co</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Antes de abonar una sanción que te parezca defectuosa, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> sin pagar todavía.`
   },
   {
     "title": "Yangwang U8: 1.197 CV, flota en agua, llega a Europa",
@@ -189,9 +189,9 @@ Fuentes: <a href=https://www.somoselectricos.com/coches-electricos/byd-puede-flo
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
   },
   {
-    "title": "Avatr: el familiar chino de 955 CV con Huawei dentro",
+    "title": "Avatr 06T y T09: 955 y 857 CV con Huawei y CATL",
     "slug": "avatr-changan-huawei-catl-06t-t09",
-    "excerpt": "Avatr une a Changan, Huawei y CATL: el familiar 06T con 955 CV cuesta como un Corolla, y el T09 de 857 CV con cuatro LiDAR será su buque insignia.",
+    "excerpt": "Changan, Huawei y CATL forman Avatr: el familiar 06T de 955 CV, el SUV T09 de 857 CV con cuatro LiDAR y el sedán 06 de 800 voltios.",
     "category": "Modelos desconocidos",
     "date": "2026-10-03",
     "readTime": 8,
@@ -206,19 +206,19 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     "content": `<img src=/media/avatr-desconocidos-hero.webp alt=Familiar eléctrico deportivo chino de color gris circulando por una carretera de costa al atardecer>
 
-Imagina un familiar con **prestaciones de Ferrari SF90** y espacio de **Audi A6 Avant** por el precio de un **Toyota Corolla**. No es un ejercicio de imaginación: se llama **Avatr 06T**, ya se vende en China, y es obra de una alianza que ningún fabricante europeo puede replicar: **Changan** (el coche), **Huawei** (el software y la conducción autónoma) y **CATL** (las baterías).
+Un familiar con aceleración de superdeportivo italiano, habitabilidad de Audi A6 Avant y precio de Toyota Corolla suena a ejercicio imaginario. Pues bien, ese coche existe, se llama **Avatr 06T** y ya está a la venta en China. Detrás hay un pacto que ningún grupo europeo replica: **Changan** se encarga de fabricar el coche, **Huawei** del software y la conducción autónoma, y **CATL** de las baterías.
 
-Avatr es probablemente la marca china premium con más músculo tecnológico del momento. Y casi nadie en Europa la conoce. Todavía.
+Avatr pasa por ser la marca premium china con mayor músculo tecnológico ahora mismo, y en Europa casi nadie la conoce. De momento.
 
-## Quién está detrás de Avatr
+## Las tres empresas que forman Avatr
 
-La fórmula es única en la industria: el fabricante tradicional **Changan** pone la plataforma y la producción, **CATL** —el mayor fabricante de baterías del mundo— pone la energía, y **Huawei** pone el cerebro: software de cabina, conducción asistida y electrónica. Tres líderes mundiales, cada uno en lo suyo, en una sola marca.
+El reparto no tiene igual en el sector: el constructor clásico **Changan** entrega la plataforma y la fabricación; **CATL**, el mayor productor de baterías del planeta, entrega la energía; y **Huawei** entrega el cerebro, es decir, el software de la cabina, la asistencia a la conducción y la electrónica. Tres líderes mundiales, cada uno en su terreno, dentro de una única marca.
 
 <img src=/media/avatr-06t-familiar-cuerpo.webp alt=Avatr 06T, el familiar eléctrico de altas prestaciones>
 
-## Avatr 06T: el familiar de 955 CV que rompe la baraja
+## 06T: un familiar que descoloca las comparaciones
 
-El **Avatr 06T** es un wagon (familiar) eléctrico que se suma a la tendencia que está renaciendo en China: tras años de dominio SUV, marcas como Nio, Zeekr, MG y BYD están recuperando la silueta familiar porque ofrece mejor aerodinámica —crucial para la autonomía eléctrica— con estética deportiva.
+El **Avatr 06T** es una wagon eléctrica que se apunta a una silueta que vuelve a crecer en China: después de años de dominio de los SUV, firmas como Nio, Zeekr, MG y BYD recuperan el familiar porque su aerodinámica es mejor —algo decisivo para la autonomía de un eléctrico— y su imagen resulta deportiva.
 
 Sus cifras:
 
@@ -228,60 +228,60 @@ Sus cifras:
 | **Precio en China** | 220.000 – 280.000 yuanes (**~28.000 – 36.000 €**) |
 | **Público objetivo** | Familias jóvenes y profesionales |
 
-Un coche con prestaciones de superdeportivo italiano y practicidad familiar por lo que cuesta un compacto generalista en España. Esa es la ecuación que Avatr pone sobre la mesa, y la que debería preocupar en Wolfsburgo, Múnich e Ingolstadt.
+Un modelo con prestaciones de superdeportivo italiano y uso familiar al precio de un compacto generalista español: ahí está la ecuación que Avatr plantea, y la que debería inquietar en Wolfsburgo, Múnich e Ingolstadt.
 
-## Avatr T09: el buque insignia con cuatro LiDAR
+## T09: el futuro tope de gama
 
-Si el 06T es el golpe de efecto, el **Avatr T09** es la declaración de intenciones. Filtrado a través de los documentos del ministerio chino **MIIT** antes de su presentación comercial (prevista antes de que acabe 2026, con entregas aún este año), será el SUV insignia de la marca:
+Si el 06T busca el impacto, el **Avatr T09** aspira a convertirse en la referencia de la marca. Será el SUV tope de gama de la marca. Se conoció por los papeles del ministerio chino **MIIT** antes de su lanzamiento comercial —previsto antes de que termine 2026, con las primeras entregas todavía este año—:
 
-- **5,28 metros** de largo y **6 plazas** en tres filas.
-- **857 CV** eléctricos y 220 km/h de velocidad máxima.
-- **Cuatro LiDAR** y el nuevo sistema **Huawei Qiankun ADS 5** de asistencia a la conducción: el primer Avatr desarrollado de forma integral con Huawei, que no solo aporta software, sino control del vehículo, iluminación, voz y asistencia avanzada.
-- Peso: **3.035 kg**.
+- Mide **5,28 metros** y ofrece **6 plazas** repartidas en tres filas.
+- Potencia de **857 CV** y una punta de 220 km/h.
+- Cuatro LiDAR junto al sistema **Huawei Qiankun ADS 5**: el primer Avatr concebido de manera integral junto a Huawei, que aquí no solo firma el software, sino también la gestión del coche, las luces, los comandos de voz y los sistemas de ayuda avanzada.
+- La báscula marca **3.035 kg**.
 
-El precio no se ha comunicado, pero estará por encima del Avatr 07L (desde 219.900 yuanes, unos 28.200 € al cambio): los analistas lo sitúan en torno a los **33.000 €** al cambio. Un buque insignia de 5,28 metros y 857 CV por el precio de un SUV generalista europeo.
+El precio todavía no se ha anunciado, pero quedará por encima del Avatr 07L (con un punto de partida de 219.900 yuanes, cerca de 28.200 € al cambio): los analistas lo colocan alrededor de los **33.000 €** al cambio. Es decir, un tope de gama de 5,28 metros y 857 CV al precio de un SUV generalista europeo.
 
-## El sedán Avatr 06: 800 voltios por menos de 30.000 €
+## El 06 berlina: 800 voltios y precio por debajo de 30.000 €
 
-La gama se completa con el sedán **Avatr 06**: versión eléctrica pura con batería de 72,88 kWh, hasta **650 km de autonomía CLTC**, arquitectura de **800 voltios** (carga del 0 al 80 % en menos de 17 minutos), 590 CV con tracción total y el sistema Huawei QianKun ADS 3.0 con LiDAR. También existe en versión híbrida de rango extendido con hasta **1.250 km** combinados. Precio de partida: unos **28.750 dólares**.
+La familia se completa con la berlina **Avatr 06**: la variante eléctrica pura lleva una batería de 72,88 kWh, homologa hasta **650 km de autonomía CLTC** y usa una arquitectura de **800 voltios** que recupera del 0 al 80 % en un tiempo inferior a 17 minutos; entrega 590 CV con tracción total y equipa el Huawei QianKun ADS 3.0 con LiDAR. Además, hay una variante híbrida de rango extendido que alcanza **1.250 km** combinados. El precio de partida ronda los **28.750 dólares**.
 
-## ¿Llegará Avatr a Europa?
+## ¿Cuándo podría llegar a Europa?
 
-De momento no hay anuncio oficial de desembarco europeo, y esa es precisamente la gracia de esta sección: son marcas que están a un paso de llegar y que casi nadie conoce aquí. Con la alianza Changan-Huawei-CATL detrás y unos precios que rompen cualquier comparativa, Avatr es candidata natural a seguir el camino de Zeekr, XPeng o MG cuando decida cruzar.
+Por ahora no existe un anuncio oficial de desembarco en Europa, y ahí está justo la gracia de esta sección: son marcas a un paso de llegar que casi nadie conoce aquí. Con Changan, Huawei y CATL detrás y unas tarifas que descolocan cualquier comparativa, Avatr tiene papeletas para recorrer la misma ruta que Zeekr, XPeng o MG el día que decida cruzar.
 
-Si quieres ir calibrando el ojo para cuando lleguen, <a href=/comparador-coches/>el comparador de coches</a> ya incluye a sus futuros rivales chinos con precio en España, como el <a href=/coches/leapmotor-c10-electrico-precio-ficha-tecnica/>Leapmotor C10</a>.
+En <a href=/comparador-coches/>el comparador</a> ya aparecen rivales chinos venideros con su precio español; véase el <a href=/coches/leapmotor-c10-electrico-precio-ficha-tecnica/>Leapmotor C10</a>.
 
-## Por qué Avatr es diferente a las demás marcas chinas
+## Por qué Avatr no se parece a las demás chinas
 
-La mayoría de las marcas chinas son un fabricante intentando hacerlo todo. Avatr es lo contrario: **tres campeones mundiales repartiéndose el trabajo**. Changan aporta más de 160 años de historia industrial combinada y la plataforma; CATL, que fabrica una de cada tres baterías de coche eléctrico del planeta, garantiza suministro y tecnología de celdas; Huawei aporta el sistema operativo del coche y la conducción autónoma que ya prueban millones de vehículos en China.
+Casi todas las marcas chinas son un fabricante que intenta abarcarlo todo. Avatr invierte la lógica: **tres campeones mundiales repartiéndose el trabajo**. Changan suma la plataforma y una trayectoria industrial combinada que supera los 160 años. CATL asegura suministro y tecnología de celdas; fabrican una de cada tres baterías para coches eléctricos en todo el mundo. Huawei pone el sistema operativo del vehículo y la conducción autónoma, una tecnología que ya ruedan millones de coches en China.
 
-Esa división del trabajo explica la velocidad: mientras un fabricante europeo tarda cuatro o cinco años en desarrollar una plataforma nueva, Avatr encadena lanzamientos cada pocos meses. El 06, el 06T, el 07, el 07L, el 11, el 12 y ahora el T09: un ritmo que ningún grupo occidental sigue.
+Ese reparto explica la velocidad: un grupo europeo necesita cuatro o cinco años para una plataforma nueva; Avatr, en cambio, estrena modelos cada pocos meses. La lista lo dice todo: 06, 06T, 07, 07L, 11, 12 y, ahora, T09. Ningún grupo occidental mantiene ese ritmo.
 
-Y hay un detalle que en Europa aún no se valora lo suficiente: **Huawei ya no es solo "el de los móviles"**. Su división de automoción suministra sistemas a una docena de marcas chinas, y el Qiankun ADS es uno de los sistemas de asistencia más avanzados en pruebas reales, con millones de kilómetros recorridos. Cuando el T09 llegue con cuatro LiDAR y el ADS 5, no será un experimento: será la versión más madura de una tecnología que ya circula.
+Y hay un matiz que en Europa todavía no se pondera bastante: **Huawei ya no es únicamente «la de los móviles»**. Su rama de automoción entrega sistemas a una docena de firmas chinas, y su Qiankun ADS está entre las ayudas a la conducción más evolucionadas que se prueban en condiciones reales, con millones de kilómetros a sus espaldas. El día que el T09 aterrice con sus cuatro LiDAR y el ADS 5, no estaremos ante un experimento, sino ante la entrega más madura de una tecnología que ya está en la calle.
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Qué es Avatr?
-Una marca china de coches eléctricos premium respaldada por Changan (fabricante), CATL (baterías) y Huawei (software y conducción autónoma).
+### ¿Qué marca es Avatr?
+Una marca china de eléctricos premium que respaldan Changan como fabricante, CATL en baterías y Huawei en software y conducción autónoma.
 
-### ¿Cuánto cuesta el Avatr 06T?
-En China, entre 220.000 y 280.000 yuanes, unos 28.000 – 36.000 € al cambio, con hasta 955 CV.
+### ¿Cuánto vale el 06T en China?
+Su horquilla china va de 220.000 a 280.000 yuanes —alrededor de 28.000 a 36.000 €— y su potencia máxima alcanza los 955 CV.
 
-### ¿Qué es el Huawei Qiankun ADS 5?
-El sistema de asistencia avanzada a la conducción de Huawei que estrenará el Avatr T09, con arquitectura de cuatro LiDAR.
+### ¿Qué es el Qiankun ADS 5 de Huawei?
+El sistema de asistencia avanzada de Huawei que debutará en el T09, construido sobre una arquitectura de cuatro LiDAR.
 
-### ¿Se vende Avatr en España?
-No hay anuncio oficial de llegada a Europa. De momento es un fenómeno chino con potencial de expansión.
+### ¿Se puede comprar Avatr en España?
+De momento no existe ningún anuncio oficial sobre su llegada a Europa. Por ahora, su mercado es China, aunque tiene potencial para expandirse.
 
-### ¿Qué autonomía tiene el Avatr 06?
-La versión eléctrica pura monta una batería de 72,88 kWh con hasta **650 km de autonomía CLTC** y arquitectura de 800 voltios (carga del 0 al 80 % en menos de 17 minutos). También existe en versión híbrida de rango extendido con hasta **1.250 km** combinados.
+### ¿Qué autonomía ofrece el sedán 06?
+En eléctrico puro, su batería de 72,88 kWh da para **650 km CLTC** como máximo, con arquitectura de 800 voltios que recupera del 0 al 80 % en un tiempo inferior a 17 minutos. La opción híbrida de rango extendido llega a **1.250 km** combinados.
 
-### ¿Por qué Avatr lanza modelos tan rápido?
-Por su división del trabajo: **Changan** pone la plataforma y la producción, **CATL** las baterías y **Huawei** el software y la conducción autónoma. Cada uno es líder mundial en lo suyo, y eso le permite encadenar lanzamientos cada pocos meses.
+### ¿Por qué lanza modelos tan deprisa?
+Porque el trabajo está repartido: **Changan** se encarga de plataforma y fabricación, **CATL** de las baterías y **Huawei** del software y la ayuda a la conducción. Cada socio lidera su campo a nivel mundial, lo que permite estrenar modelos cada pocos meses.
 
 Fuentes: <a href=https://hackercar.com/estas-cosas-solo-pasan-en-china-avatr-06t-wagon-un-familiar-de-955-cv-por-30-000-euros/>HackerCar</a>, <a href=https://www.autonocion.com/motornocion/avatr-t09-changan-catl-huawei/>Autonoción</a>, <a href=https://www.hibridosyelectricos.com/coches/mide-528-metros-tiene-6-plazas-857-cv-pero-este-nuevo-suv-hibrido-chino-suena-con-parecerse-byd_89176_102.html>Híbridos y Eléctricos</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Si una multa te parece defectuosa, <a href=https://recurretumulta.online/>revísala gratis con nuestra IA</a> antes de abonar nada.`
   },
   {
     "title": "Rox 01: SUV chino Pininfarina con 1.115 km autonomía",
@@ -470,9 +470,9 @@ Fuentes: <a href=https://www.hibridosyelectricos.com/coches/antes-comprarte-tesl
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
   },
   {
-    "title": "iCaur",
+    "title": "iCaur llega a Europa en 2027: V23, V25 y V27",
     "slug": "icaur-chery-marca-aventura-europa-espana-2027",
-    "excerpt": "iCaur, la marca aventurera de Chery: V23 eléctrico retro, V25 y V27 de autonomía extendida. Austria este otoño, España en la hoja de ruta, Europa en 2027.",
+    "excerpt": "La firma de aventura de Chery prepara su salto europeo: Austria como primer mercado en otoño, España en la ruta y tres SUV electrificados desde 2027.",
     "category": "Modelos desconocidos",
     "date": "2026-10-03",
     "readTime": 8,
@@ -487,27 +487,27 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     "content": `<img src=/media/icaur-v23-chery-hero.webp alt=SUV eléctrico chino de estilo retro y robusto con faros redondos circulando por una pista de montaña>
 
-Probablemente no has oído hablar de **iCaur**. Es la marca más aventurera del gigante **Chery** (el dueño de Omoda y Jaecoo), y tiene un plan que te afecta directamente: **desembarcar en Europa en 2027, con España en la hoja de ruta**. La noticia saltó esta misma semana: Austria será el banco de pruebas este otoño y el anuncio oficial llegará antes de que termine 2026.
+Seguramente el nombre no te suene todavía. Detrás de **iCaur** está **Chery**, el fabricante chino del que también dependen Omoda y Jaecoo, y su división orientada a la aventura prepara el salto al Viejo Continente durante 2027, con nuestro país incluido entre los destinos previstos. Austria ejercerá de mercado piloto ya este otoño, y la presentación oficial se espera antes de cerrar 2026.
 
-Si el <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5/>Fangchengbao Bao 5</a> te pareció interesante, apunta este nombre: iCaur juega en la misma liga de todoterrenos electrificados con estética retro, pero con una estrategia de expansión aún más agresiva.
+Si aquel <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5/>Fangchengbao Bao 5</a> despertó tu curiosidad, memoriza esta otra denominación: iCaur compite en el terreno de los todoterreno electrificados de aire clásico, aunque con una hoja de ruta expansiva todavía más ambiciosa.
 
-## Qué es iCaur
+## iCaur, explicada en pocas líneas
 
-iCaur es el nombre internacional de **iCar**, la marca que Chery lanzó en China para el público joven y aventurero. Dentro del grupo ocupa el escalón más campero: es la marca de aventura con los modelos más camperos, incluso por encima de **Jaecoo**, con diseños cuadrados y capacidades reales fuera del asfalto.
+En China la firma se conoce como **iCar**; fuera de su mercado natal adopta la denominación iCaur y se dirige a conductores jóvenes con ganas de salir del asfalto. Dentro del grupo, representa el escalón más campestre, incluso por delante de **Jaecoo**: siluetas angulosas y aptitudes reales fuera de carretera.
 
-Su ritmo de expansión en 2026 está siendo espectacular: ya ha desembarcado en **Malasia, Tailandia, Indonesia, Sudáfrica y Arabia Saudí**, y ahora le toca a Europa. El CEO del Grupo Chery ya avanzó la ambición global: llevar la marca a **100 países en tres años** con 2.000 concesionarios.
+El despliegue durante 2026 avanza a gran velocidad: la firma ya opera en **Malasia y Tailandia, además de Indonesia, Sudáfrica y Arabia Saudí**, y Europa es el siguiente capítulo. La dirección del Grupo Chery ha fijado una meta global ambiciosa: alcanzar **100 países en tres años** apoyándose en 2.000 puntos de venta.
 
-El precedente invita al optimismo: **Omoda y Jaecoo** entraron en España hace apenas dos años y hoy son una presencia habitual en nuestras carreteras. iCaur seguiría exactamente el mismo playbook, pero con un producto aún más emocional.
+El ejemplo cercano anima: **Omoda y Jaecoo** llegaron a España hace solo dos años y hoy circulan con normalidad por nuestras vías. iCaur replicaría ese mismo esquema comercial, aunque con un producto de mayor carga emocional.
 
-## El plan europeo: Austria primero, España después
+## Calendario continental: Austria abre, España sigue
 
-Según la prensa especializada, la puerta de entrada a Europa será **Austria**, donde la marca aterrizará este otoño como banco de pruebas y trampolín para el resto del continente. En la hoja de ruta posterior figuran la **República Checa, España, Reino Unido y Alemania**.
+La prensa especializada sitúa la entrada continental en **Austria**, que recibirá la marca este otoño para probar el terreno y servir de trampolín hacia otros mercados. Después, en la lista aparecen **República Checa, España, Reino Unido y Alemania**.
 
-La idea es tener la red lista para un lanzamiento a **principios de 2027**, con el anuncio oficial antes de que termine este 2026 —el mismo año en que <a href=/blog/yangwang-byd-u8-u9-europa-2027/>Yangwang traerá a Europa su SUV que flota</a>—. En España, eso sí, todo apunta a un ritmo algo más lento que en el centro de Europa.
+El objetivo consiste en dejar la red preparada para un estreno a **principios de 2027**, tras una presentación oficial prevista antes de cerrar 2026, el mismo ejercicio en que <a href=/blog/yangwang-byd-u8-u9-europa-2027/>Yangwang traerá a Europa su SUV que flota</a>. En nuestro país, sin embargo, todo indica un compás algo más pausado que en Europa central.
 
-## La gama: V23, V25 y V27
+## Tres SUV: V23, V25 y V27, todos enchufables
 
-La gama de iCaur se articula en torno a tres SUV, y ninguno es 100 % gasolina: **eléctricos puros o eléctricos de autonomía extendida**.
+La oferta gira alrededor de tres todocamino y ninguno recurre solo a la gasolina: se trata de eléctricos puros o de modelos de autonomía extendida.
 
 |  | iCaur V23 | iCaur V25 | iCaur V27 |
 |---|---|---|---|
@@ -518,54 +518,60 @@ La gama de iCaur se articula en torno a tres SUV, y ninguno es 100 % gasolina: *
 | **Autonomía** | Hasta 501 km | n.d. | Hasta 1.000 km (combinada NEDC) |
 | **Maletero** | 234 / 744 l | n.d. | 715 / 1.818 l |
 
-El **V23** es el más compacto (tamaño similar al Jeep Avenger) y el más carismático: diseño cuadrado con faros redondos que recuerda al Suzuki Jimny, pero 100 % eléctrico. Se ofrece con tracción trasera (60 kWh) o total (81 kWh), y en su mejor versión roza los **500 km de autonomía**.
+El **V23** es el pequeño del trío (una talla próxima a la del Jeep Avenger) y también el de mayor carácter: silueta cuadrada, faros redondos y un aire que evoca al Suzuki Jimny, pero movido solo por electricidad. Existe con propulsión trasera (60 kWh) o integral (81 kWh), y la variante más capaz se acerca a los **500 km de autonomía**.
 
-El **V25** combina un motor de gasolina 1.5 con un motor eléctrico y una batería de 34 kWh: el térmico actúa como generador para ampliar la autonomía, la fórmula de rango extendido que tan bien funciona en China.
+El **V25** une un térmico 1.5 con un motor eléctrico y un acumulador de 34 kWh: el primero funciona como generador para alargar el alcance, la receta de rango extendido que tanto éxito cosecha en China.
 
-El **V27** es el buque insignia: un SUV de cinco metros con estética de Land Rover Defender, unos **450 CV** en su versión 4x4 y hasta **1.000 km de autonomía combinada**. Su maletero de 715 litros (1.818 con asientos abatidos) lo pone en la liga de los grandes SUV familiares.
+El **V27** corona la gama: un todocamino de cinco metros con imagen próxima a la del Land Rover Defender, alrededor de **450 CV** en tracción total y una autonomía combinada de hasta **1.000 km**. Su bodega de 715 litros (1.818 con los respaldos plegados) lo sitúa entre los grandes SUV familiares.
 
 <img src=/media/icaur-v27-rex.webp alt=iCaur V27, el SUV de autonomía extendida de cinco metros y 450 CV>
 
-## El V23 en detalle: el Jimny eléctrico por 13.000 €
+## V23 al detalle: el Jimny eléctrico desde unos 13.000 €
 
-El V23 se vende en China en tres configuraciones:
+En China el V23 se comercializa en tres acabados:
 
-- **Acceso**: batería LFP de 47,28 kWh, 135 CV, tracción trasera y **301 km WLTP**, por unos **13.000 €** al cambio.
-- **Intermedia**: batería de 59,93 kWh, 135 CV y 401 km (ciclo CLTC, más optimista que el WLTP).
-- **4x4**: batería de 81,76 kWh, **214 CV**, 292 Nm y **501 km** de autonomía máxima.
+- **Entrada**: acumulador LFP de 47,28 kWh, 135 CV, propulsión trasera y 301 km WLTP, con un precio aproximado de 13.000 € al cambio.
+- **Intermedia**: 135 CV, acumulador de 59,93 kWh y 401 km en ciclo CLTC, un ciclo más optimista que el WLTP.
+- **4x4**: 214 CV, 292 Nm, acumulador de 81,76 kWh y **501 km** de autonomía máxima.
 
-Todas cargan del 30 al 80 % en 30 minutos en corriente continua, y la versión 4x4 acelera de 0 a 100 en 7,5 segundos. Dentro, una pantalla de **15,4 pulgadas** con chip Snapdragon 8155 y un salpicadero de líneas rectas con toberas circulares que remata la estética retro. No está nada mal para un coche que en China cuesta lo que aquí un utilitario básico.
+En todos los casos, la recarga del 30 al 80 % en corriente continua lleva 30 minutos, y la variante 4x4 firma un 0 a 100 en 7,5 segundos. En el habitáculo, una pantalla de **15,4 pulgadas** animada por un chip Snapdragon 8155 y un salpicadero de trazo recto con salidas de aire circulares cierra la estética retro. Nada mal para un modelo que en China se vende por lo que aquí cuesta un utilitario básico.
 
-## Vídeo: el V23 en acción
+## El V23, en marcha en vídeo
 
-Para verlo en movimiento, esta prueba completa del canal <a href=https://www.youtube.com/watch?v=f-ZiFFPjbK8>Cars.co.za en YouTube</a> lo pone a prueba en carretera: diseño, autonomía real, carga, interior y veredicto final.
+Si quieres verlo rodando, esta prueba extensa del canal <a href=https://www.youtube.com/watch?v=f-ZiFFPjbK8>Cars.co.za en YouTube</a> lo examina en carretera: interior, carga, autonomía real, diseño y valoración final.
 
-## ¿Cuándo lo veremos en España?
+## Fechas para España
 
-El calendario es claro: anuncio oficial antes de fin de 2026, Austria este otoño como piloto y lanzamiento europeo a **principios de 2027**, con España en la segunda oleada. Si se mantienen unos precios agresivos al estilo Omoda, el V23 podría llegar como uno de los SUV eléctricos con mejor relación precio/tamaño del mercado.
+El calendario apunta así: presentación oficial antes de cerrar 2026, Austria como piloto este otoño y estreno continental a **principios de 2027**; España llegaría en una oleada posterior. Si los precios se mantienen combativos, al estilo Omoda, el V23 podría situarse entre los SUV eléctricos con mejor equilibrio entre precio y tamaño.
 
-Mientras tanto, si buscas un SUV eléctrico ya a la venta aquí, <a href=/comparador-coches/>pásate por el comparador</a> y mide a sus futuros rivales, o descubre el <a href=/blog/rox-01-erev-pininfarina-autonomia-1115-km/>Rox 01, otro SUV de autonomía extendida con 1.115 km combinados</a>.
+Entretanto, si necesitas un SUV eléctrico disponible ya en nuestro mercado, <a href=/comparador-coches/>pásate por el comparador</a> para medir a sus futuros rivales, o conoce el <a href=/blog/rox-01-erev-pininfarina-autonomia-1115-km/>Rox 01, otro SUV de autonomía extendida con 1.115 km combinados</a>.
 
-## Preguntas frecuentes
+## Dudas frecuentes
 
-### ¿Qué es iCaur?
-La marca aventurera del grupo **Chery** (dueño de Omoda y Jaecoo). Se llamaba iCar en China y usa el nombre iCaur en los mercados internacionales.
+### ¿De qué marca hablamos cuando decimos iCaur?
 
-### ¿iCaur se vende en España?
-Todavía no. El desembarco europeo empieza en **Austria este otoño** y el lanzamiento general está previsto para **principios de 2027**, con España en la hoja de ruta.
+De la división aventurera del grupo **Chery** (propietario de Omoda y Jaecoo). En China se llamaba iCar y fuera adopta el nombre iCaur para los mercados internacionales.
 
-### ¿Cuánto cuesta el iCaur V23?
-En China parte de unos **13.000 €** al cambio en su versión de acceso. El precio europeo aún no se ha anunciado.
+### ¿Ya puede comprarse iCaur en España?
 
-### ¿El iCaur V23 es eléctrico?
-Sí, 100 % eléctrico, con versiones de tracción trasera (60 kWh) y total (81 kWh, hasta 501 km).
+Aún no. El arranque continental se produce en **Austria durante este otoño**, mientras el lanzamiento general queda fijado para **principios de 2027**, con España dentro de la ruta prevista.
 
-### ¿Qué diferencia hay entre el V23, el V25 y el V27?
-El V23 es eléctrico puro y compacto (4,2 m); el V25 (4,6 m) y el V27 (+5 m) usan **autonomía extendida** (motor de gasolina como generador), con el V27 como tope de gama de ≈450 CV.
+### ¿Qué precio tiene el V23 en China?
+
+La versión de acceso ronda los **13.000 €** al cambio. El precio para Europa todavía no se ha comunicado.
+
+### ¿El V23 funciona solo con electricidad?
+
+Sí, es totalmente eléctrico: propulsión trasera con 60 kWh y variante total con 81 kWh, que alcanza hasta 501 km.
+
+### ¿En qué se distinguen V23, V25 y V27?
+
+El V23, compacto (4,2 m), es eléctrico puro; el V27 (más de 5 m) y el V25 (4,6 m) recurren a la **autonomía extendida** (térmico como generador), con el V27 en lo alto de la gama, con unos 450 CV.
 
 Fuentes: <a href=https://www.autonocion.com/icaur-chery-llega-europa-espana/>Autonoción</a>, <a href=https://testcoches.es/noticias/la-duena-de-omoda-estrena-4x4-electrico-por-13-000e-con-500-km-de-autonomia/>TestCoches</a>, <a href=https://www.hibridosyelectricos.com/coches/dueno-omoda-quiere-conquistar-europa-con-suv-electrico-similar-toyota-yaris-cross-suzuki-jimny-icar-v23_79822_102.html>Híbridos y Eléctricos</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Si recibiste una multa y sospechas que puede contener algún error, <a href=https://recurretumulta.online/>revísala gratis con nuestra IA</a> antes de abonar nada.
+`
   },
   {
     "title": "Li Auto i8: SUV eléctrico 6 plazas, 780 km, carga 5C",
@@ -743,9 +749,9 @@ Porque la marca se hunde en China: **-26% de entregas en el primer semestre de 2
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
   },
   {
-    "title": "Geely Galaxy TT: récords y 725 km",
+    "title": "Geely Galaxy TT: berlina eléctrica china con 725 km",
     "slug": "geely-galaxy-tt-berlina-electrica-china",
-    "excerpt": "Geely Galaxy TT: la berlina china lanzada el 10/09/2026 con 725 km CLTC, 578 CV, carga 6C, chasis Lotus y dos récords Guinness. No se vende en Europa.",
+    "excerpt": "La berlina eléctrica Geely Galaxy TT llegó el 10/09/2026 con 725 km CLTC, 578 CV, carga 6C y chasis Lotus; dos récords Guinness y sin venta en Europa.",
     "category": "Modelos desconocidos",
     "date": "2026-10-05",
     "readTime": 8,
@@ -760,11 +766,11 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     "content": `<img src=/media/geely-galaxy-tt-desconocidos-hero.webp alt=Berlina eléctrica deportiva china plateada con alerón trasero activo circulando por una carretera de montaña al atardecer>
 
-**El Geely Galaxy TT es la berlina eléctrica china del momento**: se lanzó en China el **10 de septiembre de 2026**, cuesta desde **129.900 yuanes (unos 17.200 € al cambio)**, homologa **hasta 725 km de autonomía (CLTC)** y, antes de llegar a los concesionarios, ya acumulaba **más de 20.000 reservas en dos semanas** y **dos récords Guinness**. En Europa no se vende y Geely no ha anunciado planes para traerlo.
+**El Geely Galaxy TT se ha convertido en la berlina eléctrica china de moda**: salió a la venta el **10 de septiembre de 2026** en China, arranca en **129.900 yuanes (alrededor de 17.200 € al cambio)**, alcanza una autonomía máxima de **725 km (CLTC)** y, antes de pisar los concesionarios, ya sumaba en dos semanas más de 20.000 reservas, junto a **dos récords Guinness**. En Europa no se comercializa y Geely no ha comunicado planes para importarlo.
 
-Presentado en julio de 2026, el TT es la respuesta de Geely al **Xiaomi SU7** y al **Tesla Model 3**: una berlina deportiva de casi cinco metros con arquitectura de 800 voltios, batería CATL, carga ultrarrápida 6C y un chasis puesto a punto por **Lotus**, con la insignia "Handling by Lotus" en cada coche.
+Desvelado en julio de 2026, el TT planta cara desde Geely al **Tesla Model 3** y al **Xiaomi SU7**: una berlina deportiva de casi cinco metros dotada de arquitectura de 800 voltios, acumulador CATL, carga ultrarrápida 6C y un bastidor afinado por **Lotus**, con el distintivo "Handling by Lotus" en cada unidad.
 
-## Los números del Galaxy TT
+## Las cifras del Galaxy TT
 
 |  | Geely Galaxy TT |
 |---|---|
@@ -780,64 +786,64 @@ Presentado en julio de 2026, el TT es la respuesta de Geely al **Xiaomi SU7** y 
 | **Chasis** | Puesto a punto por Lotus |
 | **Ayudas a la conducción** | LiDAR de serie y sistema G-ASD |
 
-La versión de acceso monta una batería de **63,8 kWh** con la que homologa **640 km en ciclo CLTC** (unos 518 km en WLTP); la RWD de mayor batería (**75,2 kWh**) alcanza los **725 km CLTC**. El Ultra de tracción total sacrifica algo de autonomía (**650 km CLTC**) a cambio de sus dos motores y el 0-100 en 3,8 segundos.
+La variante de acceso equipa un acumulador de **63,8 kWh** y homologa **640 km CLTC** (unos 518 km WLTP). El Ultra de tracción total cede parte de su alcance (**650 km CLTC**) a cambio de contar con dos motores y de un 0-100 en 3,8 segundos; la RWD con el acumulador mayor (**75,2 kWh**) llega a los **725 km CLTC**.
 
-## Dos récords Guinness en el mismo día
+## Dos marcas Guinness logradas la misma jornada
 
-Antes de su lanzamiento comercial, Geely sometió al TT a dos pruebas extremas certificadas por **Guinness World Records**:
+Antes de su estreno comercial, Geely enfrentó al TT a dos ensayos extremos avalados por **Guinness World Records**:
 
-- **El derrape continuo en mojado más largo de la historia**: más de **46 km** derrapando sin parar sobre asfalto empapado.
-- **El menor consumo jamás registrado por un eléctrico de producción**: **8,2 kWh/100 km** rodeando el lago Qinghai.
+- **El derrape continuado sobre mojado más extenso de la historia**: más de **46 km** en derrape ininterrumpido sobre asfalto empapado.
+- **El gasto más reducido que jamás ha firmado un eléctrico de serie**: **8,2 kWh/100 km** bordeando el lago Qinghai.
 
-El secreto es el sistema de propulsión **Leiting 16 en 1**: 12 componentes de hardware y 4 de software integrados en una unidad de solo **75 kg**, con una eficiencia combinada del **93,8 %**. En uso homologado, el consumo combinado es de **10,7 kWh/100 km** en ciclo CLTC.
+La clave reside en la propulsión **Leiting 16 en 1**: 12 elementos de hardware y 4 de software reunidos en un conjunto de apenas **75 kg**, con una eficiencia conjunta del **93,8 %**. En uso homologado, el gasto combinado queda en **10,7 kWh cada 100 km** en ciclo CLTC.
 
 <img src=/media/geely-galaxy-tt-drift-cuerpo.webp alt=Berlina eléctrica plateada derrapando de forma controlada en un circuito mojado al atardecer, con agua pulverizada bajo los neumáticos>
 
-## 800 V, batería CATL y la mano de Lotus
+## Arquitectura de 800 voltios, acumulador CATL y sello Lotus
 
-Toda la gama usa **arquitectura de 800 voltios** con baterías de litio-ferrofosfato **CATL Shenxing TT** y carga ultrarrápida **6C**: Geely promete recuperar **cerca de 500 km de autonomía en 11 minutos**, un nivel de carga propio de berlinas que cuestan el triple.
+Toda la gama emplea **arquitectura de 800 voltios** con acumuladores **CATL Shenxing TT** de litio-ferrofosfato y carga ultrarrápida **6C**: Geely asegura recobrar en 11 minutos cerca de 500 km de autonomía, un ritmo de recarga digno de berlinas que triplican su precio.
 
-El chasis lo firma **Lotus**: doble triángulo delantero de aluminio, multibrazo trasero y un **alerón trasero activo** de tres posiciones capaz de generar **508 N de carga aerodinámica**. Dentro: sistema **Flyme Auto 2**, asistente de IA "Super Eva", equipo de sonido de **23 altavoces** y, de serie en toda la gama, **LiDAR** con el sistema de conducción asistida **G-ASD** para autopista y ciudad. El Ultra añade el chip **Nvidia Thor-U**.
+El bastidor lleva la firma de **Lotus**: multibrazo detrás, doble triángulo de aluminio delante y un **alerón trasero activo** con tres posiciones que produce **508 N de carga aerodinámica**. En el interior: asistente de IA "Super Eva", sistema **Flyme Auto 2**, equipo de audio con **23 altavoces** y, como dotación estándar en toda la gama, **LiDAR** junto al sistema de conducción asistida **G-ASD** para ciudad y autopista. El Ultra suma el chip **Nvidia Thor-U**.
 
-El diseño no esconde su objetivo: **4,99 metros** de largo, silueta fastback, **Cx de 0,22** y una firma luminosa trasera de **108 LED**. Otro chino que juega en esta liga de berlinas eléctricas asequibles es el <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5/>Fang Cheng Bao Formula S, con 900 km por menos de 30.000 €</a>.
+Su diseño no disimula su objetivo: **4,99 metros** de longitud, silueta fastback, **Cx de 0,22**, zaga con una firma luminosa de **108 LED**. Otro rival chino dentro de esta categoría de berlinas eléctricas asequibles: el <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5/>Fang Cheng Bao Formula S, con 900 km por menos de 30.000 €</a>.
 
-## Por qué importa
+## Por qué resulta relevante
 
-Lo relevante del TT no es un dato aislado, sino la combinación: **800 V, carga 6C, LiDAR de serie y chasis Lotus por el precio de un utilitario europeo**. En nuestro mercado, juntar esas cuatro cosas sigue siendo territorio de berlinas premium. Que Geely lo ofrezca desde unos 17.200 € en China —con más de 20.000 reservas en dos semanas— dice mucho de hacia dónde va la industria: la tecnología puntera ya no es un argumento de precio, es el precio de entrada.
+Lo significativo del TT no reside en un dato suelto, sino en la combinación: **800 V, carga 6C, LiDAR estándar y bastidor Lotus al precio de un utilitario del Viejo Continente**. En nuestro mercado, reunir esos cuatro elementos continúa siendo terreno de berlinas premium. Que Geely lo proponga desde unos 17.200 € en China —con, en dos semanas, más de 20.000 reservas— revela mucho sobre el rumbo de la industria: la tecnología puntera ya no constituye un argumento de precio, sino el precio de entrada.
 
-## Vídeo: el Galaxy TT explicado en español
+## Vídeo: así se explica el Galaxy TT en español
 
-Para verlo en detalle, esta prueba del creador <a href=https://www.youtube.com/watch?v=Ix8es4ZUV2A>Ricardo Torres en YouTube</a> repasa el sistema de propulsión 16 en 1, los dos récords Guinness y la tecnología de a bordo, en español.
+Quien prefiera verlo con imágenes tiene esta prueba del creador <a href=https://www.youtube.com/watch?v=Ix8es4ZUV2A>Ricardo Torres en YouTube</a>, que repasa la propulsión 16 en 1, ambas marcas Guinness y la tecnología embarcada, en español.
 
-## ¿Llegará a Europa?
+## ¿Arribará a Europa?
 
-**De momento, no.** El Galaxy TT solo se vende en China y, a septiembre de 2026, Geely **no ha confirmado ningún plan de exportación** de esta generación. Es el mismo caso que el de otros eléctricos desarrollados solo para China, como el <a href=/blog/volkswagen-id-unyx-09-electrico-china-755-km/>Volkswagen ID. UNYX 09, la berlina china de 755 km que VW no trae a Europa</a>.
+**Por ahora, no.** El Galaxy TT únicamente se comercializa en China; a septiembre de 2026, Geely **no ha ratificado ningún plan de exportación** de esta generación. Se trata del mismo caso que el de otros eléctricos concebidos solo para China, como el <a href=/blog/volkswagen-id-unyx-09-electrico-china-755-km/>Volkswagen ID. UNYX 09, la berlina china de 755 km que VW no trae a Europa</a>.
 
-La estrategia de Geely en Europa pasa por sus marcas occidentales —**Volvo, Polestar, Lotus, smart o Zeekr**—, así que el TT quedará, por ahora, como una de esas rarezas chinas que solo se pueden ver en vídeo. Si buscas una berlina eléctrica que sí se venda aquí, <a href=/comparador-coches/>pásate por el comparador de coches eléctricos</a>. Y si te va la tecnología china de Huawei y CATL, aquí te contamos el caso de <a href=/blog/avatr-changan-huawei-catl-06t-t09/>Avatr, el familiar chino de 955 CV con Huawei dentro</a>.
+La estrategia europea de Geely se apoya en sus enseñas occidentales —**Volvo, Polestar, Lotus, smart o Zeekr**—, de modo que el TT permanecerá, por ahora, como una rareza china más, visible solo en vídeo. Quien busque una berlina eléctrica a la venta aquí, <a href=/comparador-coches/>pásate por el comparador de coches eléctricos</a>. Y si te atrae lo chino de Huawei y CATL, aquí tienes el caso de <a href=/blog/avatr-changan-huawei-catl-06t-t09/>Avatr, el familiar chino de 955 CV con Huawei dentro</a>.
 
 ## Preguntas frecuentes
 
-### ¿Qué es el Geely Galaxy TT?
-Una berlina eléctrica deportiva de la marca **Galaxy** de Geely, lanzada en China el 10 de septiembre de 2026. Mide casi 5 metros, ofrece hasta 725 km de autonomía CLTC y parte de 129.900 yuanes (unos 17.200 € al cambio).
+### ¿Qué modelo es el Geely Galaxy TT?
+Es la berlina deportiva eléctrica de la firma Galaxy, de Geely, estrenada el 10 de septiembre de 2026 en China. Ronda los 5 metros, brinda hasta 725 km de autonomía CLTC y arranca en 129.900 yuanes (alrededor de 17.200 € al cambio).
 
-### ¿Cuánto cuesta el Geely Galaxy TT?
-En China, de **129.900 a 185.900 yuanes** (unos 17.200–24.600 € al cambio actual), según versión. El precio de partida es de lanzamiento.
+### ¿Cuál es su precio en China?
+Dentro de China, sus tarifas arrancan en **129.900 yuanes** y culminan en **185.900 yuanes** (entre 17.200 y 24.600 € al cambio actual), en función de la versión. El importe inicial corresponde al lanzamiento.
 
-### ¿El Geely Galaxy TT llegará a España o a Europa?
-**No hay ningún plan confirmado.** Solo se vende en China y Geely no ha anunciado su exportación a Europa.
+### ¿Se venderá en España o en Europa?
+**No existe ningún plan confirmado.** Solo se comercializa en China y Geely no ha comunicado su exportación a Europa.
 
-### ¿Qué autonomía tiene el Galaxy TT?
-Entre **540 y 725 km en ciclo CLTC** según versión. La de acceso homologa 640 km CLTC, unos **518 km en WLTP**.
+### ¿Qué autonomía ofrece el Galaxy TT?
+De **540 a 725 km en ciclo CLTC** en función de la versión. La variante de acceso homologa 640 km CLTC, alrededor de **518 km en WLTP**.
 
-### ¿Qué récords Guinness tiene el Galaxy TT?
-Dos, conseguidos el mismo día: el **derrape continuo en mojado más largo** (más de 46 km) y el **menor consumo de un eléctrico de producción** (8,2 kWh/100 km rodeando el lago Qinghai).
+### ¿Qué marcas Guinness ostenta el Galaxy TT?
+Dos, logradas la misma jornada: el **derrape continuado sobre mojado más extenso** (más de 46 km) y el **gasto más reducido de un eléctrico de serie** (8,2 kWh/100 km bordeando el lago Qinghai).
 
-### ¿Contra qué rivales compite el Galaxy TT?
-Contra el **Xiaomi SU7** y el **Tesla Model 3**, a los que se enfrenta en tamaño, prestaciones y precio dentro del mercado chino.
+### ¿Con qué rivales se mide el Galaxy TT?
+Con el **Tesla Model 3** y el **Xiaomi SU7**, a los que planta cara en dimensiones, rendimiento y tarifa en el mercado chino.
 
 Fuentes: <a href=https://electrek.co/2026/09/11/geely-tt-electric-sedan-launch-price-xiaomi-su7/>Electrek</a>, <a href=https://www.thestreet.com/automotive/china-just-launched-a-19170-electric-vehicle>TheStreet</a>, <a href=https://www.dpccars.com/blog/new-geely-galaxy-tt-first-look-everything-you-need-to-know/>DPCcars</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Si te llega una multa, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de abonar nada.`
   },
   {
     "title": "AIVA ME7: el SUV de Seres, CATL y TikTok",

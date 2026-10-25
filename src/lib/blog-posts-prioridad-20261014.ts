@@ -16,9 +16,9 @@ import type { BlogPost } from "./blog-meta.ts";
 export const PRIORIDAD_20261014_POSTS: BlogPost[] = [
   {
     slug: "fangchengbao-ti-9-2026-precio-ficha-tecnica",
-    title: "Fang Cheng Bao Ti 9: precio a confirmar y 2.300 km",
+    title: "Fang Cheng Bao Ti 9 2026: SUV híbrido de 5,27 m y 310 km",
     excerpt:
-      "El Fang Cheng Bao Ti 9 (también llamado Tai 9) es el SUV híbrido enchufable de 5,27 m y 6 plazas (configuración principal) de BYD: 310 km eléctricos y 2.300 km totales declarados. Precio a confirmar.",
+      "El Ti 9 de Fang Cheng Bao es un SUV híbrido enchufable de 5,27 m y 6 plazas, con 310 km eléctricos y 2.300 km totales declarados. Precio por confirmar.",
     category: "Modelos desconocidos",
     date: "2026-10-14",
     readTime: 4,
@@ -33,31 +33,31 @@ export const PRIORIDAD_20261014_POSTS: BlogPost[] = [
     ],
     content: `<img src=/media/fangchengbao-ti-9-2026-hero.webp alt=Fang Cheng Bao Ti 9, SUV híbrido de 5,27 m, lateral con las puertas abiertas>
 
-*Foto: Fang Cheng Bao (prensa) / Híbridos y Eléctricos. Imagen de prensa distribuida por el medio; licencia desconocida.*
+*Fotos: Fang Cheng Bao (prensa) / Híbridos y Eléctricos. Imagen de prensa distribuida por el medio; licencia desconocida.*
 
-**Ficha completa del modelo:** <a href=/coches/fangchengbao-ti-9-2026/>Fang Cheng Bao Ti 9 2026 — ficha técnica</a>
+Para ver la ficha completa, aquí tienes el <a href=/coches/fangchengbao-ti-9-2026/>Fang Cheng Bao Ti 9 2026 — ficha técnica</a>.
 
-BYD sigue ampliando su gama de híbridos enchufables, y el nuevo **Fang Cheng Bao Ti 9** es su apuesta más grande: un SUV familiar de **5,27 metros** que promete hasta **2.300 km de autonomía combinada** y hasta **310 km solo con electricidad**. Su lanzamiento comercial está previsto para el **cuarto trimestre de 2026 en China**, sin fecha exacta ni precios oficiales por ahora, y **sin confirmación de que llegue a España o a Europa**.
+BYD continúa ensanchando su oferta de híbridos enchufables, y el Ti 9 es el modelo de mayor tamaño dentro de esa apuesta. Se trata de un familiar de 5,27 metros: BYD declara para él 310 km en eléctrico y un total combinado de 2.300 km. Su salida comercial está prevista en China para el cuarto trimestre de 2026, todavía sin día concreto ni precios oficiales, y sin que se haya confirmado su llegada a España o a Europa. También se le conoce como Tai 9, pero se trata del mismo coche, como se explica más abajo.
 
-## Un SUV enorme, pero pensado como familiar
+## Un familiar de 5,27 metros con estructura monocasco
 
-El Ti 9 mide **5.270 mm de largo, 1.999 mm de ancho y 1.850–1.880 mm de alto (según variante)**, con una distancia entre ejes de **3.130 mm**. Es más largo que un BMW X7 o un Mercedes GLS, pero a diferencia de un todoterreno clásico usa **estructura monocasco** y está concebido como SUV familiar, no como 4x4 puro.
+Su altura oscila entre 1.850 y 1.880 mm según la variante; la anchura se queda en 1.999 mm y la longitud alcanza 5.270 mm, con 3.130 mm entre ejes. Supera en largo a un BMW X7 o a un Mercedes GLS, aunque, a diferencia de un todoterreno clásico, recurre a una estructura monocasco y está pensado como SUV familiar, no como 4x4 puro.
 
-Su diseño busca imagen de lujo con presencia contundente: tiradores de puerta semiocultos, molduras en paragolpes y pilares, **llantas de 22 pulgadas** y un **sensor LiDAR sobre el techo** para sus asistencias a la conducción.
+La imagen busca lujo con mucha presencia: sobre el techo va un sensor LiDAR para las asistencias a la conducción, las llantas son de 22 pulgadas, los tiradores de puerta quedan semiocultos y hay molduras en paragolpes y pilares.
 
 <img src=/media/fangchengbao-ti-9-2026-oficial.webp alt=Fang Cheng Bao Ti 9, trasera tres cuartos con piloto vertical en forma de T>
 
-## Interior: 6 plazas y una pantalla de 30 pulgadas
+## Plazas y pantalla gigante en el habitáculo
 
-El habitáculo está configurado para **6 ocupantes** (distribución 2+2+2), aunque la documentación de homologación china cita variantes de 5, 6 y 7 plazas — la configuración definitiva está pendiente de confirmación.
+Dentro caben 6 ocupantes, en disposición 2+2+2, si bien la documentación de homologación china recoge variantes con 5, con 6 y con 7 plazas: la configuración definitiva aún no se ha confirmado.
 
-Lo que domina el salpicadero es una **pantalla central flotante de 30 pulgadas**, acompañada de cuadro de instrumentos digital y proyección de información en el parabrisas (HUD). BYD ha confirmado tres combinaciones de color interior: blanco y marrón, gris y negro, y rojo y negro. La capacidad del maletero todavía no ha sido detallada por la marca.
+El salpicadero lo domina una pantalla central flotante de 30 pulgadas, junto a un cuadro de instrumentos digital y a la proyección de información en el parabrisas (HUD). La marca ha confirmado tres combinaciones de color interior, que son rojo y negro, blanco y marrón, y gris y negro. La marca todavía no ha detallado la capacidad del maletero.
 
 <img src=/media/fangchengbao-ti-9-2026-interior.webp alt=Interior del Fang Cheng Bao Ti 9 con pantalla panorámica de 30 pulgadas>
 
-## Mecánica: 1.5 turbo + dos motores eléctricos
+## Mecánica: extensor 1.5 y dos motores eléctricos
 
-El sistema híbrido enchufable, con arquitectura en serie (EREV: el motor 1.5 actúa como extensor de autonomía), combina:
+Es un híbrido enchufable en serie: el 1.5 solo genera electricidad para extender la autonomía (EREV). Su combinación es:
 
 | Elemento | Dato verificado |
 |---|---|
@@ -70,51 +70,52 @@ El sistema híbrido enchufable, con arquitectura en serie (EREV: el motor 1.5 ac
 | Potencia combinada del sistema | NO publicada |
 | 0–100 km/h, par, consumo | A verificar |
 
-Ojo con la cifra de 544 CV: es la **suma de los dos motores eléctricos**, no la potencia combinada total del sistema, que el fabricante no ha publicado. No debe presentarse como potencia total del coche.
+Ese 544 CV no debe leerse como potencia total del coche: corresponde únicamente a sumar los dos motores eléctricos, mientras la potencia combinada del sistema sigue sin publicar por el fabricante. Presentarlo como potencia total sería un error.
 
-## La recarga: del 10 al 97% en unos 9 minutos
+## Recarga con Flash Charging en pocos minutos
 
-La batería de 66,5 kWh es muy grande para un híbrido enchufable, y por eso llama la atención su compatibilidad con el **Flash Charging de BYD**: según el fabricante, recupera **del 10 al 97% en aproximadamente 9 minutos** en condiciones adecuadas de recarga. La potencia de carga en kW está pendiente de verificar.
+Para un híbrido enchufable, su batería de 66,5 kWh es de tamaño poco habitual, y por eso destaca el Flash Charging de BYD, que, según la marca, pasa del 10 al 97% en aproximadamente nueve minutos cuando las condiciones de recarga acompañan. La potencia en kW aún no se ha difundido.
 
-## ¿Cuándo llega y cuánto costará?
+## Lanzamiento y precio: lo que falta por saber
 
-- **Lanzamiento:** cuarto trimestre de 2026 en China, sin fecha exacta.
-- **Precio:** **A CONFIRMAR**. BYD no ha comunicado precios oficiales del Ti 9.
-- **España / Europa:** **sin confirmación**. Fang Cheng Bao es una marca creada por BYD para el mercado chino; algunos de sus modelos se venden fuera como BYD o Denza, pero no hay confirmación de que el Ti 9 siga ese camino.
+- **Llegada a China:** cuarto trimestre de 2026, sin día concreto.
+- **Precio:** aún sin anunciar; no existen cifras oficiales de BYD para el Ti 9.
+- **En España / Europa:** todavía sin confirmación. Fang Cheng Bao nació como marca de BYD para China; fuera de China, algunos modelos suyos se comercializan con los emblemas BYD o Denza, pero no se ha confirmado que el Ti 9 siga ese camino.
 
-Las primeras unidades ya se exponen en concesionarios chinos desde finales de septiembre de 2026, y el fabricante ha ido publicando imágenes oficiales, incluida una nueva en color «Meteorite Black».
+Desde finales de septiembre de 2026 ya hay unidades expuestas en concesionarios de China, y la marca ha seguido difundiendo imágenes oficiales, entre ellas una con la carrocería en «Meteorite Black».
 
-Si te interesa la marca, lee <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5/>quién es Fangchengbao, la marca secreta de BYD</a>. Y si te van los SUV de la marca, mira el <a href=/coches/fangchengbao-tai-3-2025-precio-ficha-tecnica/>Fangchengbao Tai 3</a> y el <a href=/coches/fangchengbao-bao-3-2025-precio-ficha-tecnica/>Fangchengbao Bao 3</a>.
+Para situar la marca, lee <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5/>quién es Fangchengbao, la marca secreta de BYD</a>. Si prefieres otros SUV de la firma, echa un ojo al <a href=/coches/fangchengbao-tai-3-2025-precio-ficha-tecnica/>Fangchengbao Tai 3</a> y al <a href=/coches/fangchengbao-bao-3-2025-precio-ficha-tecnica/>Fangchengbao Bao 3</a>.
 
 ## Preguntas frecuentes
 
-### ¿El Fang Cheng Bao Ti 9 llegará a España?
+### ¿Está prevista su venta en España?
 
-No hay confirmación. Es un modelo para el mercado chino y BYD no ha anunciado su venta en España o Europa, aunque otros modelos de Fang Cheng Bao se comercializan fuera como BYD o Denza.
+De momento, nada confirmado. BYD no ha comunicado planes de venta para España ni para Europa, aunque fuera de China ya hay modelos de Fang Cheng Bao con emblema BYD o Denza.
 
-### ¿Cuánto cuesta el Fang Cheng Bao Ti 9?
+### ¿Qué precio tendrá?
 
-Precio a confirmar. BYD no ha publicado precios oficiales del Ti 9.
+La marca aún no ha publicado precios oficiales para el Ti 9.
 
-### ¿Cuántos kilómetros hace el Ti 9?
+### ¿Qué autonomía declara?
 
-Hasta 310 km solo con electricidad y hasta 2.300 km combinando batería y depósito, según datos declarados por el fabricante. El ciclo de homologación está pendiente de verificar: unas fuentes citan CLTC y otras WLTC, y el total combinado alternativo que circula es de más de 1.600 km.
+El fabricante declara hasta 2.300 km combinando depósito y batería, con hasta 310 km solo en eléctrico. El ciclo de homologación sigue pendiente de verificar: unas fuentes hablan de CLTC y otras de WLTC, y además circula otro total combinado por encima de 1.600 km.
 
-### ¿Cuánto tarda en cargar la batería del Ti 9?
+### ¿Y la recarga, cuánto dura?
 
-Según BYD, con Flash Charging recupera del 10 al 97% en unos 9 minutos en condiciones adecuadas.
+BYD habla de unos nueve minutos para pasar del 10 al 97% con Flash Charging en condiciones adecuadas.
 
-### ¿Tiene prueba EuroNCAP el Ti 9?
+### ¿Lo ha probado Euro NCAP?
 
-Sin datos EuroNCAP. No hay prueba publicada para este modelo.
+No existe prueba publicada para este modelo, así que no hay datos EuroNCAP.
 
-### ¿Ti 9 y Tai 9 son el mismo coche?
+### ¿Designan Ti 9 y Tai 9 un único modelo?
 
-**Sí. Ti 9 y Tai 9 SON EL MISMO COCHE. No se publican como dos modelos distintos.** El nombre principal es **Fang Cheng Bao Ti 9** (grafía de los materiales en inglés de BYD). **Tai 9** queda como alias: «También conocido como Tai 9». Pruebas: el mismo carácter chino 钛9 (titanio); CnEVPost escribe «Tai 9 (or Ti 9)»; FreshMotors: «badged Ti 9 in BYD's English-language material»; y la misma ficha MIIT con cifras idénticas en el artículo CnEVPost «Tai 9» (07/08/2026) y en CarNewsChina «Ti9» (11/08/2026): 5.270 / 1.999 / 1.850–1.880 mm, batalla 3.130 mm, peso 2.865 / 2.965 kg, 1.5T 110 kW, 2 motores 200 kW, batería 66,48 kWh LFP, 310 km eléctricos, Vmax 220 km/h.
+**Sí: ambos nombres designan un único modelo, no dos distintos.** La denominación prioritaria es Fang Cheng Bao Ti 9, la que BYD usa en sus materiales en inglés. Tai 9 funciona solo como alias: «También conocido como Tai 9». Lo confirman varios indicios: el mismo carácter chino 钛9 (titanio); CnEVPost lo nombra como Tai 9, con Ti 9 entre paréntesis como alternativa; FreshMotors explica que en los materiales en inglés de BYD aparece con la grafía Ti 9; y ambos artículos se apoyan en la misma ficha MIIT, con cifras calcadas. El de CnEVPost es del 07/08/2026 y el de CarNewsChina, del 11/08/2026. Sus cifras: 5.270, 1.999 y 1.850–1.880 mm de largo, ancho y alto, respectivamente; batalla de 3.130 mm; pesos de 2.865 y 2.965 kg; 1.5T de 110 kW; dos motores de 200 kW; batería de 66,48 kWh LFP; 310 km eléctricos; y velocidad máxima de 220 km/h.
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 
-*Fuentes: <a href=https://www.hibridosyelectricos.com/coches/byd-prepara-gigantesco-suv-hibrido-527-metros-con-2300-km-autonomia-bateria-se-recarga-en-solo-9-minutos_89828_102.html>Híbridos y Eléctricos</a>, <a href=https://carnewschina.com/2026/08/11/byd-fang-cheng-bao-ti9-officially-revealed-with-6-seats-dual-200-kw-motors-and-310-km-ev-range/>CarNewsChina (revelación 11/08/2026)</a>, <a href=https://carnewschina.com/2026/08/21/byd-fcb-ti-9-phev-crossover-with-310-km-ev-range-made-live-debut-in-china/>CarNewsChina (debut Chengdu)</a>, <a href=https://carnewschina.com/2026/10/09/byd-fang-cheng-bao-ti-9-reveals-a-new-body-color-ahead-of-q4-launch/>CarNewsChina (color Meteorite Black)</a>, <a href=https://cnevpost.com/2026/08/03/byd-fang-cheng-bao-teases-tai-9/>CnEVPost</a>, <a href=https://www.freshmotors.net/articles/2026-byd-fangchengbao-tai-9-six-seat-phev-flagship-with-1-600-km-range>FreshMotors</a>, <a href=https://en.wikipedia.org/wiki/Fangchengbao_Ti9>Wikipedia</a>, <a href=https://newatlas.com/automotive/byds-fcb-ti9/>NewAtlas</a>. Precio, ciclo de homologación, potencia combinada, par, 0–100, consumo, maletero, kW de carga, garantía y mantenimiento: a verificar.*`,
+*Fuentes: <a href=https://www.hibridosyelectricos.com/coches/byd-prepara-gigantesco-suv-hibrido-527-metros-con-2300-km-autonomia-bateria-se-recarga-en-solo-9-minutos_89828_102.html>Híbridos y Eléctricos</a>, <a href=https://carnewschina.com/2026/08/11/byd-fang-cheng-bao-ti9-officially-revealed-with-6-seats-dual-200-kw-motors-and-310-km-ev-range/>CarNewsChina (revelación 11/08/2026)</a>, <a href=https://carnewschina.com/2026/08/21/byd-fcb-ti-9-phev-crossover-with-310-km-ev-range-made-live-debut-in-china/>CarNewsChina (debut Chengdu)</a>, <a href=https://carnewschina.com/2026/10/09/byd-fang-cheng-bao-ti-9-reveals-a-new-body-color-ahead-of-q4-launch/>CarNewsChina (color Meteorite Black)</a>, <a href=https://cnevpost.com/2026/08/03/byd-fang-cheng-bao-teases-tai-9/>CnEVPost</a>, <a href=https://www.freshmotors.net/articles/2026-byd-fangchengbao-tai-9-six-seat-phev-flagship-with-1-600-km-range>FreshMotors</a>, <a href=https://en.wikipedia.org/wiki/Fangchengbao_Ti9>Wikipedia</a>, <a href=https://newatlas.com/automotive/byds-fcb-ti9/>NewAtlas</a>. Precio, ciclo de homologación, potencia combinada, par, 0–100, consumo, maletero, kW de carga, garantía y mantenimiento: a verificar.*
+`,
   },
   {
     slug: "ds-f3ver-concept-paris-2026",

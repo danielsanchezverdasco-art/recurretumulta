@@ -605,9 +605,9 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
 `,
   },
   {
-    title: "F 450 R vs Hornet vs Z500: ¿cuál?",
+    title: "BMW F 450 R vs Hornet vs Z500: naked A2, duelo total",
     slug: "bmw-f-450-r-vs-honda-cb500-hornet-vs-kawasaki-z500",
-    excerpt: "La BMW F 450 R (6.799 €) se mete en el avispero de las naked A2: 48 CV y 175 kg frente a la Honda CB500 Hornet (6.850 €) y la Kawasaki Z500 (6.450 €). Las comparamos dato a dato y te decimos cuál encaja con cada perfil.",
+    excerpt: "BMW F 450 R (6.799 €, 48 CV, 175 kg) frente a Honda CB500 Hornet (6.850 €) y Kawasaki Z500 (6.450 €): la naked A2 ideal según tu perfil.",
     category: "Novedades Motor",
     date: "2026-10-07",
     readTime: 8,
@@ -620,9 +620,9 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     content: `<img src=/media/bmw-f-450-r-vs-honda-cb500-hornet-vs-kawasaki-z500-hero.webp alt=Tres motos naked aparcadas en fila en una carretera de montaña al atardecer>
 
-La **BMW F 450 R** acaba de aterrizar en el segmento más disputado del carnet A2: las naked de 47-48 CV. Con **6.799 €** de precio de partida, 48 CV y 175 kg, la alemana se coloca justo entre la **Honda CB500 Hornet** (6.850 €) y la **Kawasaki Z500** (6.450 €). Tres motos, tres filosofías y apenas 400 € de diferencia entre la más cara y la más barata. Vamos al grano.
+La **BMW F 450 R** acaba de entrar en el segmento más reñido del permiso A2: las naked de 47 y 48 CV. Arranca en **6.799 €**, anuncia 48 CV y pesa 175 kg, situándose entre la Honda CB500 Hornet, que vale 6.850 €, y la Kawasaki Z500, a 6.450 €. Tres monturas, tres planteamientos y apenas 400 € separando la más cara de la más económica. Al lío.
 
-## El duelo en cifras
+## Las cifras, cara a cara
 
 | | BMW F 450 R | Honda CB500 Hornet | Kawasaki Z500 |
 |---|---|---|---|
@@ -637,25 +637,25 @@ La **BMW F 450 R** acaba de aterrizar en el segmento más disputado del carnet A
 
 <img src=/media/bmw-f-450-r-vs-honda-cb500-hornet-vs-kawasaki-z500-galeria-1.webp alt=Vista del manillar y la pantalla TFT de una naked en una carretera de curvas>
 
-## Qué aporta cada una
+## Lo que ofrece cada modelo
 
-**BMW F 450 R: la tecnológica.** Es la única con electrónica de moto grande (ABS en curva, control de tracción, control dinámico de frenada) y la única que ofrece un embrague automático opcional (Easy Ride Clutch). Pesa 175 kg, 13 menos que la Honda. Su punto débil: la base viene pelada (sin quickshifter ni suspensión Sport) y la red BMW cobra las revisiones más caras.
+**BMW F 450 R: la más tecnológica.** Solo ella equipa ayudas propias de moto grande: ABS sensible a la inclinación, control de tracción y frenada dinámica, y solo ella brinda un embrague automático en opción (Easy Ride Clutch). Con 175 kg, queda 13 por debajo de la Honda. Su flanco débil: la base llega escueta, ni quickshifter ni suspensión Sport de serie, y la red BMW aplica las revisiones más costosas.
 
-**Honda CB500 Hornet: la equilibrada.** El bicilíndrico de 500 cc es un valor seguro, probado en media gama Honda, y su precio (6.850 €) es casi idéntico al de la BMW. Pesa 188 kg y su electrónica es más básica (sin control de tracción). Es la apuesta sensata: reventa fácil y mantenimiento barato.
+**Honda CB500 Hornet: la equilibrada.** Su bicilíndrico de 500 cc es un valor consolidado, presente en media gama de Honda, y su tarifa (6.850 €) prácticamente calca la de la BMW, y su peso en orden de marcha es de 188 kg, con una dotación electrónica más justa, sin control de tracción. Es la opción sensata: reventa sencilla y mantenimiento económico.
 
-**Kawasaki Z500: la accesible.** Con 6.450 € es la más barata del trío por 350 €, y sus 45 CV están a solo 3 de la BMW. Si el presupuesto manda, es la compra racional; si buscas el extra de tecnología, mira a la alemana.
+**Kawasaki Z500: la asequible.** A 6.450 € resulta la más económica del trío, con 350 € de ventaja, y sus 45 CV quedan a solo 3 de la BMW; cuando el presupuesto manda, es la compra lógica; si buscas ese plus tecnológico, mira hacia la alemana.
 
-## Veredicto
+## Conclusión rápida
 
-¿Tecnología y carácter? **BMW F 450 R**. ¿Equilibrio y reventa? **Honda CB500 Hornet**. ¿Precio mínimo? **Kawasaki Z500**. Las tres cumplen el A2 al límite; la diferencia la pone tu prioridad: electrónica, sensatez o bolsillo.
+Si priorizas tecnología y carácter, **BMW F 450 R**. Si valoras equilibrio y reventa, **Honda CB500 Hornet**. Si manda el precio mínimo, la **Kawasaki Z500**. Las tres respetan el tope del A2; lo que cambia es cómo ordenas tus prioridades: electrónica, sensatez o bolsillo.
 
 Fichas completas: <a href=/motos/bmw-f-450-r-2026-ficha-tecnica-precio/>BMW F 450 R</a> · <a href=/comparador-motos/>Comparador de motos</a> · Análisis: <a href=/blog/bmw-f-450-r-naked-a2-precio-espana-2026/>BMW F 450 R, a fondo</a>
 
-## Por qué este segmento está tan disputado
+## Un segmento que se disputa palmo a palmo
 
-Las naked A2 concentran a quien estrena carnet, a quien vuelve tras años y a quien baja de una moto grande. Honda recupera un nombre con historia —su ficha recuerda que nació con la CB600F de 1998— y comparte motor con la Rebel 500, la NX500 y la CL500. Kawasaki apela al diseño Sugomi de la familia Z, nacida en 1972 con la Z1, y comparte casi todo con la Ninja 500 salvo el carenado. BMW entra con la familia F 450, cuyo motor fabrica TVS en India y cuyo cigüeñal a 135 grados busca un sonido propio.
+Las naked A2 atraen a quien estrena permiso, a quien regresa tras años sin moto y a quien baja desde una moto grande. Honda rescata una denominación con pasado: su ficha sitúa el origen en la CB600F de 1998, y el motor se comparte con la Rebel 500, además de con la NX500 y la CL500. Kawasaki recurre al diseño Sugomi de la familia Z, que arrancó en 1972 con la Z1, y coincide con la Ninja 500 en casi todo menos en el carenado. BMW llega con la familia F 450, con motor fabricado por TVS en India y un cigüeñal a 135 grados que persigue un sonido propio.
 
-## La tabla, ampliada con lo que no se ve en el precio
+## La tabla, con lo que el precio no muestra
 
 | Dato | BMW F 450 R | Honda CB500 Hornet | Kawasaki Z500 |
 |---|---|---|---|
@@ -666,36 +666,39 @@ Las naked A2 concentran a quien estrena carnet, a quien vuelve tras años y a qu
 | **Revisión** | Cada 10.000 km | Cada 12.000 km o 12 meses | Cada 12.000 km o 12 meses |
 | **Altura de asiento** | No consta en las fichas del sitio | No consta en las fichas del sitio | No consta en las fichas del sitio |
 
-Consulta cada modelo por separado en su ficha: <a href=/motos/bmw-f-450-r-2026-ficha-tecnica-precio/>ficha de la BMW F 450 R</a>, <a href=/motos/honda-cb500-hornet-2025-ficha-tecnica-precio/>ficha de la Honda CB500 Hornet</a> y <a href=/motos/kawasaki-z500-2024-ficha-tecnica-precio/>ficha de la Kawasaki Z500</a>. Si la Kawasaki te gusta pero quieres mejor acabado, existe la <a href=/motos/kawasaki-z500-se-2025-ficha-tecnica-precio/>Kawasaki Z500 SE</a>, que según su ficha suma pantalla TFT por 6.799 €.
+Para ver cada modelo por separado, abre su ficha: <a href=/motos/bmw-f-450-r-2026-ficha-tecnica-precio/>ficha de la BMW F 450 R</a>, <a href=/motos/honda-cb500-hornet-2025-ficha-tecnica-precio/>ficha de la Honda CB500 Hornet</a> y <a href=/motos/kawasaki-z500-2024-ficha-tecnica-precio/>ficha de la Kawasaki Z500</a>. Y si la Kawasaki te convence pero buscas un acabado superior, tienes la <a href=/motos/kawasaki-z500-se-2025-ficha-tecnica-precio/>Kawasaki Z500 SE</a>, que según su ficha añade pantalla TFT por 6.799 €.
 
-## Uso real: ciudad, curvas y autopista
+## En la calle, en curvas y en autovía
 
-En ciudad manda el peso. La BMW, con 175 kg y el Easy Ride Clutch opcional, promete arranques sin tocar la maneta, ayuda clara entre semáforos; la Honda compensa sus 188 kg con un motor probado y dócil, y la Kawasaki juega la baza de ser ligera y estrecha. En curvas, la BMW suma electrónica sensible a la inclinación y frenos de referencia, la Honda aporta horquilla invertida y doble disco, y la Kawasaki ofrece sencillez. En autopista ninguna es rutera: sin protección aerodinámica, el viento manda en las tres.
+Entre semáforos decide la báscula: la BMW declara 175 kg y, con el Easy Ride Clutch opcional, promete arrancar sin accionar la maneta, un alivio claro en el tráfico urbano; la Honda suple sus 188 kg con un propulsor probado y dócil, y la Kawasaki apuesta por su ligereza y su estrechez. En curvas, la BMW suma ayudas que leen la inclinación y una frenada de referencia; la Honda responde con horquilla invertida y freno delantero de doble disco; la Kawasaki, con sencillez. En autovía, ninguna está pensada para viajar: sin carenado que desvíe el aire, el viento impone su ley en las tres por igual.
 
-## Mantenimiento y costes comparados
+## Revisiones y gasto de mantenimiento
 
-Honda y Kawasaki piden revisión cada 12.000 km o 12 meses —la Kawasaki añade la primera a los 1.000 km—, mientras la BMW marca 10.000 km según su nota oficial. El duelo de arriba advierte de que la red BMW cobra más, y la ficha de la Honda subraya consumo bajo y mantenimiento barato. En casa, las tres usan cadena con retenes: limpieza, engrase y tensión. Honda especifica aceite 10W-30 y Kawasaki 10W-40 en sus fichas. Sin cifras cerradas de taller, la lectura honesta es que las japonesas parten con ventaja en coste por kilómetro.
+Honda y Kawasaki fijan la revisión cada 12.000 km o cada 12 meses —la Kawasaki adelanta una primera revisión a los 1.000 km—; la BMW, por su parte, fija 10.000 km entre revisiones según su nota oficial. Y el duelo de arriba avisa: la red BMW cobra más que las japonesas, y la ficha de la Honda recalca consumo bajo y mantenimiento barato. Para el cuidado en casa, las tres montan cadena con retenes, que pide limpieza, engrase y tensión. Honda indica un 10W-30 y Kawasaki un 10W-40 en sus fichas. Sin importes cerrados de taller, lo prudente es concluir que las japonesas salen con ventaja en coste por kilómetro.
 
-## Carnet A2: el límite que las iguala
+## El A2, el rasero común
 
-Las tres nacen para el mismo permiso: el A2 limita a 35 kW, y por eso la BMW declara exactamente 35 kW, la Honda 34,6 kW y la Kawasaki 33,4 kW. Ninguna necesita limitación adicional. Con la potencia topada por norma, la diferencia real la ponen el peso, la electrónica, el precio y el coste de mantenerla.
+El permiso al que van dirigidas las tres es el mismo: el A2 topa en 35 kW; de ahí que la BMW declare justo 35 kW, que la Honda se quede en 34,6 kW y que la Kawasaki baje a 33,4 kW. Ninguna precisa limitación añadida. Con la potencia capada por norma, la diferencia real la marcan el peso, la electrónica, el precio y lo que cuesta mantenerla.
 
-**Veredicto:** no hay una ganadora única, hay una ganadora por perfil. Si estrenas A2 y quieres la moto más completa y tecnológica, la **BMW F 450 R**, asumiendo revisiones más caras y una base sin extras. Si buscas equilibrio, reventa fácil y gastos contenidos durante años, la **Honda CB500 Hornet**. Si el presupuesto es el factor decisivo y prefieres gastar la diferencia en equipamiento o en el seguro, la **Kawasaki Z500**. 
+**Veredicto:** no existe una ganadora única, sino una ganadora según el perfil. Si estrenas el A2 y buscas la montura más completa y con más tecnología, la **BMW F 450 R**, aceptando un mantenimiento más caro y una base sin extras. Para quien busque equilibrio, una reventa sencilla y un gasto contenido año tras año, la **Honda CB500 Hornet**. Si lo que decide es el presupuesto y prefieres destinar la diferencia a equipamiento o al seguro, la **Kawasaki Z500**.
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuál es la naked A2 más potente de las tres?
-La **BMW F 450 R**, con 48 CV al límite legal del A2, seguida de la Honda CB500 Hornet (47 CV) y la Kawasaki Z500 (45 CV).
+### ¿Cuál de las tres entrega más potencia?
 
-### ¿Cuál es la más barata?
-La **Kawasaki Z500** (6.450 €), 349 € menos que la BMW F 450 R (6.799 €) y 400 € menos que la Honda CB500 Hornet (6.850 €).
+La **BMW F 450 R**: 48 CV en el tope legal del A2, por delante de la Hornet de Honda (47 CV) y de la Z500 de Kawasaki (45 CV).
 
-### ¿Cuál tiene mejor electrónica?
-La **BMW F 450 R** con diferencia: ABS Pro en curva, control de tracción, control dinámico de frenada y 3 modos de conducción de serie, además del Easy Ride Clutch opcional.
+### ¿Cuál tiene el precio más bajo?
 
-### ¿Cuál pesa menos?
-La **BMW F 450 R** (175 kg en orden de marcha), 13 kg menos que la Honda CB500 Hornet (188 kg).
+La **Kawasaki Z500** (6.450 €), 349 € por debajo de la BMW F 450 R, que vale 6.799 €, y 400 € por debajo de la Honda CB500 Hornet, a 6.850 €.
 
+### ¿Cuál equipa la electrónica más completa?
+
+La **BMW F 450 R** con holgura: ABS Pro sensible a la inclinación, control de tracción, frenada dinámica y 3 programas de conducción de serie, más el Easy Ride Clutch en opción.
+
+### ¿Cuál es la más ligera?
+
+La **BMW F 450 R**: declara 175 kg con todos los líquidos, 13 kg por debajo de los 188 kg de la Honda CB500 Hornet.
 
 *Fuentes: <a href=https://www.press.bmwgroup.com/global/article/detail/T0460765EN/bmw-motorrad-presents-the-new-bmw-f-450-r?language=en>nota de prensa oficial de BMW Motorrad</a>, <a href=https://www.honda.es/motorcycles.html>Honda España</a> y <a href=https://www.kawasaki.es/>Kawasaki España</a>.*`,
   },
