@@ -235,18 +235,18 @@ export const COCHES_LOTE5: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "1.245 km de autonomía total: cruza España sin repostar",
-      "214 CV combinados con un 0-100 en 7,9 segundos",
-      "55 km eléctricos: suficientes para el día a día urbano",
-      "Desde ~11.000 € en China: imbatible en relación precio/tamaño",
-      "Batería Blade LFP con la reputación de durabilidad de BYD",
+      "La autonomía total anunciada, de 1.245 km, permite cruzar España sin pensar en repostar ni en recargar",
+      "El sistema híbrido enchufable, con motor eléctrico de 163 CV, completa el sprint hasta 100 km/h en 7,9 segundos según la ficha",
+      "Los 55 km en modo eléctrico cubren la mayoría de los desplazamientos diarios sin gastar una gota de gasolina",
+      "El precio de partida en China, en torno a 11.000 €, es difícil de igualar para una berlina de este tamaño",
+      "La batería Blade LFP de BYD llega con la reputación de durabilidad que la marca ha construido en sus eléctricos"
     ],
     contras: [
-      "No se vende oficialmente en Europa",
-      "La batería de 8,3 kWh limita la autonomía eléctrica a 55 km",
-      "Acabados interiores correctos, sin lujos",
-      "Sin carga rápida en corriente continua",
-      "La marca Qin es desconocida fuera de China",
+      "No se comercializa oficialmente en Europa, así que comprarlo aquí implica importación y sus trámites",
+      "La batería de 8,3 kWh limita el recorrido eléctrico a 55 km; más allá, el motor de gasolina toma el relevo",
+      "Los acabados interiores son correctos, pero no buscan el lujo ni los materiales de una berlina premium",
+      "No dispone de carga rápida en corriente continua, así que las recargas en ruta serán lentas",
+      "Fuera de China, la familia Qin es prácticamente desconocida y eso pesará en su valor de reventa"
     ],
     largoMm: 4765,
     anchoMm: 1837,
@@ -298,7 +298,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no vendido en Europa, no probado",
+      nota: "Al no venderse en Europa, EuroNCAP no lo ha sometido a ninguna prueba.",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 20.000 km, lo que antes ocurra",

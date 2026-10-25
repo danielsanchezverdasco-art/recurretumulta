@@ -49,18 +49,18 @@ export const COCHES_LOTE11: CocheComparador[] = [
     cargaRapidaKw: 55,
     etiquetaDgt: "Cero",
     pros: [
-      "436 CV y 650 Nm: el pick-up híbrido enchufable más potente de su clase",
-      "90 km WLTP en modo eléctrico: el día a día sin gastar gasolina",
-      "Carga útil de 790 kg y 2.500 kg de remolque: un pick-up para trabajar de verdad",
-      "V2L de 6 kW: alimenta herramientas y electrodomésticos donde no hay enchufe",
-      "Llegada a España prevista en el segundo semestre de 2026 con la red BYD",
+      "Con 436 CV y 650 Nm, es el pick-up híbrido enchufable más potente de su clase según los datos de la ficha",
+      "Los 90 km WLTP en modo eléctrico permiten hacer el día a día sin gastar gasolina",
+      "La carga útil de 790 kg y los 2.500 kg de remolque lo acreditan como herramienta de trabajo, no solo como imagen",
+      "La salida V2L de 6 kW alimenta herramientas y electrodomésticos en lugares sin enchufe",
+      "La llegada a España está prevista para el segundo semestre de 2026 a través de la red de BYD"
     ],
     contras: [
-      "Precio orientativo (~52.000 €): la tarifa española aún no se ha anunciado",
-      "5,46 metros de largo: aparcar en ciudad será un ejercicio de paciencia",
-      "La autonomía eléctrica real caerá con carga en la caja o remolque",
-      "Red de concesionarios BYD aún en expansión en España",
-      "Un diésel equivalente sigue siendo más barato de comprar para uso intensivo",
+      "El precio, en torno a 52.000 €, es orientativo: la tarifa española todavía no se ha anunciado",
+      "Con 5,46 metros de largo, aparcar en ciudad exigirá paciencia y plazas generosas",
+      "La autonomía eléctrica real caerá cuando la caja vaya cargada o se arrastre un remolque",
+      "La red de concesionarios de BYD en España sigue en expansión y no está en todas las provincias",
+      "Para un uso intensivo, un diésel equivalente continúa siendo más barato de comprar"
     ],
     largoMm: 5457,
     anchoMm: 1971,
@@ -112,7 +112,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP (ANCAP: 5 estrellas, 2025).",
+      nota: "Euro NCAP no lo ha probado; ANCAP, en cambio, le otorgó 5 estrellas en 2025.",
     },
     planMantenimiento: {
       intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa)",
