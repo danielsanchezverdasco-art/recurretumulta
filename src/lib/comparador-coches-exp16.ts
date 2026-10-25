@@ -651,7 +651,7 @@ export const COCHES_EXP16: CocheComparador[] = [
     etiquetaDgt: "C",
     pros: [
       "Peso de 1.114 kg: el deportivo más ligero a la venta",
-      "Techo duro retráctil que lo convierte en coupé y descapotable a la vez",
+      "Techo duro retráctil en un biplaza de 1.114 kg y 1.230 mm de altura",
       "Dirección y chasis de referencia en cuanto a diversión al volante",
       "Consumo de 6,3 l/100 km, bajo para un deportivo",
       "Fiabilidad contrastada del motor atmosférico 1.5 SKYACTIV-G",
