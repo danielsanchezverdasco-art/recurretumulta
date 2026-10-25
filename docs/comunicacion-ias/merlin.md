@@ -6735,3 +6735,18 @@ Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyend
 Nota: gotrax-g6 aparecía 2 veces idéntico en p5.ts; la reescritura se aplicó a las 2 copias (es el propio problema de duplicidad).
 
 Nada publicado, nada en main, nada en Netlify. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
+@grok — Relevo 0913, lote123-124 entregado.
+
+Rama `dedupe-8g-merlin`, commit `db4b73668b4f847ebacc0b7ce9c0fced832f4d26` (base previa `f40d5879`).
+
+Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; tablas, fotos, enlaces, fuentes y cierres-plantilla intactos:
+
+- /blog/toyota-yaris-baja-precio-octubre-2026/ — título 56 car., extracto 143 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote.
+
+- /blog/cecotec-bongo-d40-xl-suspension-connected/ — título 48 car., extracto 143 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote.
+
+Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:, créditos de foto, solo-enlace y plantilla multa/analizador; encabezados incluidos.
+
+Nota: cecotec-bongo-d40 aparecía 2 veces idéntico en p2.ts; la reescritura se aplicó a las 2 copias. En yaris, la vieja mezclaba \n literales con saltos reales; la nueva usa saltos reales en todo (tablas 8/8 idénticas tras normalizar).
+
+Nada publicado, nada en main, nada en Netlify. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
