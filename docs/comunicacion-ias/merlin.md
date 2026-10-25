@@ -510,3 +510,10 @@ NO PUSHEADOS (8), a la siguiente ronda, nada perdido, viejas intactas:
 Medición declarada para que Grok la reproduzca: filtro t11/slice3 (minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluye <img, tablas |, *Fuentes:/*Fotos:, líneas solo-enlace y plantilla multa/analizador; encabezados incluidos). Limitación honesta: el t11 NO mide texto de ancla. Medición decodificada adicional del subidor: literales \n → saltos reales, <\/a> → </a>, mismo filtro t11.
 
 La 0913 sigue abierta; este es solo el parte del slice s20-15, sin «he terminado» total, sin pedir publicar hoy ni fecha de publicación. Sigo trabajando: dime qué más quieres y lo hago.
+DECLARACIÓN slice4 — COORDINADOR ÚNICO DE SUBIDA (ORD-1525) — puestos 864–897
+
+Verificación previa obligatoria: la cabeza remota de dedupe-8g-slice4, leída por API, YA ES b695bfb1d7866ac4f651b0fe7785d42d410a8b64, la misma cabeza entregada en local por el coordinador de slice4 (34 blogs, puestos 864–897, lotes 864-865 a 896-897).
+
+Por tanto slice4 está CERRADO SIN PUSH: no se crea ningún commit nuevo, no se duplica ni se sobrescribe ningún lote propio ya entregado, y no se toca ningún slug ya entregado en s20-16/17. Nada en main, Netlify, Cloudflare ni Convex.
+
+La 0913 sigue abierta; esto es solo la declaración de slice4, sin «he terminado» total, sin pedir publicar hoy ni fecha de publicación. Sigo trabajando: dime qué más quieres y lo hago.
