@@ -342,9 +342,9 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
 *Fuentes: <a href=https://madridpress.com/index.php?option=com_content&task=view&id=27885&Itemid=122>MadridPress (presentación oficial 07/10/2026)</a>, <a href=https://testcoches.es/modelos/hyundai-ioniq-3-2026/>testcoches.es</a>, <a href=https://forococheselectricos.com/noticias/hyundai-ioniq-3-precio-espana-497-km-autonomia-20260910-42057.html>forococheselectricos.com</a>, <a href=https://www.somoselectricos.com/coches-electricos/hyundai-pone-precio-ioniq-3-espana-135-cv-mas-450-km-autonomia/20260814084019062210.html>somoselectricos.com</a>.*`
   },
   {
-    title: "BYD Atto 3 Evo: 449 CV desde 29.455 €",
+    title: "BYD Atto 3 Evo 2026: 800 V y 449 CV desde 29.455 €",
     slug: "byd-atto-3-evo-2026-precio-espana",
-    excerpt: "El BYD Atto 3 Evo ya está en España: 800 V, batería Blade de 74,8 kWh, hasta 449 CV y 510 km de autonomía desde 29.455 €. Ficha, precios y rivales.",
+    excerpt: "El Atto 3 Evo llega a España con 800 V, batería Blade de 74,8 kWh, hasta 449 CV y 510 km desde 29.455 € con todo aplicado.",
     category: "Novedades Motor",
     date: "2026-10-03",
     readTime: 8,
@@ -356,40 +356,42 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "Atto 3 Evo vs Design Excellence",
       "SUV eléctrico 500 km autonomía"
     ],
-    content: `<img src=/media/byd-atto-3-evo-2026-precio-espana-hero.webp alt=\"SUV familiar eléctrico blanco circulando por una carretera de montaña española entre pinares al atardecer\">
+    content: `<img src=/media/byd-atto-3-evo-2026-precio-espana-hero.webp alt=\\"SUV familiar eléctrico blanco circulando por una carretera de montaña española entre pinares al atardecer\\">
 
 **¿Buscas solo los datos?** <a href=/comparador-coches/>Compara el Atto 3 Evo con sus rivales</a> o <a href=/mejor-coche-por-presupuesto/>descubre el mejor coche por tu presupuesto</a>.
 
-El líder no se duerme. El **BYD Atto 3** fue el C-SUV eléctrico más vendido de España en 2025 (12,8 % de cuota) y su evolución, el **Atto 3 Evo**, sube la apuesta a lo grande: **arquitectura de 800 voltios**, batería Blade de **74,8 kWh**, **tracción trasera o total**, hasta **449 CV** y **510 km de autonomía**. Y el precio de ataque, con todo aplicado, se queda en **29.455 euros**. Parece el mismo coche. No lo es.
+El líder no se relaja. El **BYD Atto 3** encabezó las ventas de C-SUV eléctricos en España durante 2025, con una cuota del 12,8 %, y su evolución, el **Atto 3 Evo**, eleva la apuesta de forma notable: **tensión de 800 voltios y batería Blade con 74,8 kWh**, **tracción trasera o total, potencia de hasta 449 CV, con 510 km de autonomía**. El precio de ataque, con todo aplicado, queda en **29.455 euros**. La silueta recuerda al modelo anterior. La técnica, no.
 
 ## La noticia
 
-El Atto 3 Evo es mucho más que un restyling: estrena la última evolución de la **e-Platform 3.0** con tecnología **Cell to Body** (la batería forma parte estructural del chasis, ganando rigidez y espacio), abandona la tracción delantera exclusiva y adopta una suspensión trasera multibrazo de cinco brazos. Por dentro hay instrumentación digital de 8,8 pulgadas, consola rediseñada y hasta cristales delanteros con doble laminado para un habitáculo más silencioso.
+El Atto 3 Evo va mucho más allá de un restyling: emplea la e-Platform 3.0 en su última evolución, con tecnología Cell to Body (la batería pasa a formar parte estructural del chasis, con más rigidez y más espacio), deja atrás la tracción delantera exclusiva y monta una suspensión trasera multibrazo de cinco brazos. En el interior aparecen una pantalla de instrumentación digital de 8,8 pulgadas, una consola rediseñada y cristales delanteros de doble laminado que dejan un habitáculo más silencioso.
 
-Ya está a la venta en la red de concesionarios BYD en España en dos versiones: **Design** (tracción trasera, 313 CV) y **Excellence** (tracción total, 449 CV).
+Está a la venta en los concesionarios BYD de España con dos versiones: Design, de tracción trasera y 313 CV, y Excellence, de tracción total y 449 CV.
 
-## Precio y versiones en España
+## Cuánto cuesta cada versión en España
 
 | Versión | Tarifa | Con campañas + Auto+ | Con todo + financiación |
 |---|---|---|---|
 | **Design** (313 CV, RWD) | 42.990 € | 33.405 € | **29.455 €** |
 | **Excellence** (449 CV, AWD) | 45.990 € | 37.855 € | **33.905 €** |
 
-El salto de precio entre tarifa y precio "con todo" es grande porque BYD aprieta con campañas comerciales, el Plan Auto+ y descuentos por financiación. Merece la pena pedir presupuesto desglosado en el concesionario.
+La distancia entre la tarifa y el precio «con todo» es amplia porque BYD suma campañas, el Plan Auto+ y descuentos por financiar. Conviene pedir un presupuesto desglosado en el concesionario.
 
-<img src=/media/byd-atto-3-evo-2026-precio-espana-galeria-3.webp alt=\"BYD Atto 3 Evo en tres cuartos trasero mostrando su firma lumínica, imagen editorial\">
+<img src=/media/byd-atto-3-evo-2026-precio-espana-galeria-3.webp alt=\\"BYD Atto 3 Evo en tres cuartos trasero mostrando su firma lumínica, imagen editorial\\">
 
-<img src=/media/byd-atto-3-evo-2026-precio-espana-interior-oficial.webp alt=\"Interior oficial del byd atto 3 evo 2026\">
+<img src=/media/byd-atto-3-evo-2026-precio-espana-interior-oficial.webp alt=\\"Interior oficial del byd atto 3 evo 2026\\">
 
+## Detalles que conviene conocer
 
-## Curiosidades que quizá no sabías
+- **Un maletero delantero por fin**: el Evo añade un frunk de 101 litros, ideal para guardar los cables de carga sin ensuciar el equipaje.
 
-- **El frunk que faltaba**: el Evo estrena un maletero delantero de 101 litros, perfecto para los cables de carga sin manchar el equipaje.
-- **Cristales de doble laminado**: un detalle de coche premium que deja el habitáculo notablemente silencioso.
-- **Plazas traseras de limusina**: con 2,72 m de batalla, adultos de más de 2 metros caben sin problemas y el suelo es completamente plano.
-- **De 0 a 100 en 3,9 segundos**: el Excellence acelera como un deportivo, aunque su filosofía siga siendo familiar.
+- **Doble laminado en los cristales**: un detalle propio de coches premium que deja el habitáculo claramente más silencioso.
 
-## Rivales directos
+- **Traseras de limusina**: con una batalla de 2,72 m, adultos de más de 2 metros viajan sin agobios y el suelo queda completamente plano.
+
+- **Aceleración de 3,9 segundos**: el Excellence firma un 0 a 100 propio de un deportivo, aunque su enfoque siga siendo familiar.
+
+## Con quién compite
 
 | Modelo | Precio desde | Autonomía máxima |
 |---|---|---|
@@ -403,19 +405,19 @@ El salto de precio entre tarifa y precio "con todo" es grande porque BYD aprieta
 
 <a href=/comparador-coches/>Compáralos cara a cara en nuestro comparador</a>.
 
-## Por qué el Evo importa
+## Por qué este Evo cambia el segmento
 
-El Atto 3 original ya era un superventas, y lo lógico habría sido un simple lavado de cara. BYD ha hecho lo contrario: lo ha reconstruido por dentro. La plataforma de 800 voltios era hasta hace poco territorio de coches de 60.000 euros para arriba; que un SUV familiar la ofrezca desde 29.455 euros (con todo aplicado) cambia las reglas del segmento.
+El Atto 3 original ya vendía muchísimo, así que lo esperable habría sido solo un lavado de cara. BYD optó por lo contrario: reconstruirlo por dentro. Hasta hace poco, la plataforma de 800 voltios pertenecía a coches de 60.000 euros en adelante; que un SUV familiar la brinde desde 29.455 euros (con todo aplicado) altera las reglas del segmento.
 
-La tecnología Cell to Body —la batería como parte estructural del chasis— no es marketing: mejora la rigidez, la seguridad en caso de impacto lateral y el aprovechamiento del espacio interior. Sumada a la Blade Battery LFP (química famosa por su seguridad y durabilidad), el Evo presume de una base técnica que pocos rivales pueden igualar a este precio.
+Cell to Body —la batería integrada como parte estructural del chasis— no es un eslogan: aporta rigidez, más seguridad ante un impacto lateral y mejor aprovechamiento del espacio interior. Junto a la Blade Battery LFP, una química conocida por su seguridad y durabilidad, el Evo ofrece una base técnica que pocos rivales igualan por este precio.
 
-Y el cambio de tracción no es menor: pasar de delantera exclusiva a trasera (Design) o total (Excellence), con una multibrazo de cinco brazos detrás, transforma el comportamiento. Las primeras pruebas hablan de un coche notablemente más aplomado y divertido que su predecesor.
+Tampoco es menor el cambio de tracción: de la delantera exclusiva se pasa a tracción trasera o total, con una multibrazo de cinco brazos detrás, y eso transforma el comportamiento. La trasera corresponde al Design y la total, al Excellence. Las primeras pruebas describen un coche claramente más aplomado y divertido que el modelo anterior.
 
-## ¿Para quién es el Atto 3 Evo?
+## ¿Para quién encaja el Atto 3 Evo?
 
-Para familias que quieren el SUV eléctrico "redondo": espacio de sobra, 510 km de autonomía, carga rápida de verdad y un precio que, con ayudas, compite con generalistas de combustión equipados. El Design nos parece la compra sensata: 313 CV sobran para un familiar y la autonomía es la mejor de la gama. El Excellence solo tiene sentido si quieres tracción total o te apetece un 0-100 de 3,9 segundos por puro capricho.
+Va dirigido a familias que buscan el SUV eléctrico «redondo»: mucho espacio, autonomía de 510 km, carga rápida real y un precio que, con ayudas, planta cara a generalistas de combustión equipados. El Design parece la compra sensata: 313 CV bastan para un familiar y su autonomía lidera la gama. El Excellence solo compensa si buscas tracción total o te apetece firmar un 0-100 de 3,9 segundos solo por capricho.
 
-Ojo al dato del precio: la diferencia entre la tarifa (42.990 €) y el precio "con todo" (29.455 €) es enorme. Negocia y pide el desglose por escrito: campañas, Auto+, financiación. El precio real está en la letra pequeña, y esta vez juega a tu favor.
+Conviene mirar el precio con lupa: entre los 42.990 € de tarifa y los 29.455 € «con todo» hay una diferencia enorme. Negocia y exige el desglose por escrito de campañas, Auto+ y financiación. El precio real vive en la letra pequeña, y esta vez esa letra pequeña te beneficia.
 
 ## Míralo en vídeo
 
@@ -423,29 +425,35 @@ Ojo al dato del precio: la diferencia entre la tarifa (42.990 €) y el precio "
 
 Vídeo: <a href=https://www.youtube.com/watch?v=i8hd6_KIx6s>Loading Cars</a> en YouTube
 
-Si buscas alternativas en el segmento, mira el <a href=/blog/deepal-s05-precio-espana-2026/>Deepal S05</a>, el eléctrico chino que más vende en España, y el <a href=/blog/xpeng-g9l-debut-paris-2026/>XPeng G9L</a> que debuta en el Salón de París.
+Dentro del mismo segmento, también merece un vistazo el <a href=/blog/deepal-s05-precio-espana-2026/>Deepal S05</a>, el modelo chino eléctrico con más ventas en España, y el <a href=/blog/xpeng-g9l-debut-paris-2026/>XPeng G9L</a> que se presenta en el Salón de París.
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el BYD Atto 3 Evo en España?
-La tarifa parte de 42.990 € (Design), pero con campañas, Plan Auto+ y financiación se queda en 29.455 €. El Excellence parte de 45.990 € (33.905 € con todo).
+### ¿Qué precio tiene el Atto 3 Evo en España?
 
-### ¿Qué autonomía tiene el Atto 3 Evo?
-510 km WLTP en ciclo combinado (710 km en urbano) para el Design; 470 km para el Excellence.
+El Design parte de 42.990 € de tarifa, pero con campañas, Plan Auto+ y financiación baja a 29.455 €. El Excellence arranca en 45.990 € (33.905 € con todo).
+
+### ¿Cuántos kilómetros recorre con una carga?
+
+En ciclo combinado WLTP, el Design alcanza 510 km (710 km en urbano); el Excellence se queda en 470 km.
 
 ### ¿Cuánto tarda en cargar?
-Del 10 al 80 % en unos 25 minutos gracias a los 800 V y los 220 kW de carga en continua.
 
-### ¿Qué cambia respecto al Atto 3 anterior?
-Casi todo por dentro: plataforma 800 V, batería integrada en el chasis (Cell to Body), tracción trasera o total (antes solo delantera), nueva suspensión multibrazo y frunk de 101 litros.
+Entre el 10 y el 80 % tarda unos 25 minutos, con 800 V y 220 kW de carga en continua.
 
-### ¿Tiene carga bidireccional?
-Sí, V2L de hasta 3,3 kW para alimentar aparatos eléctricos externos.
+### ¿En qué se diferencia del Atto 3 anterior?
+
+Prácticamente todo bajo la carrocería: 800 V, batería que forma parte del chasis con Cell to Body, tracción trasera o total en lugar de solo delantera, suspensión multibrazo nueva y un frunk de 101 litros.
+
+### ¿Dispone de carga bidireccional?
+
+Sí: el V2L entrega hasta 3,3 kW para dar corriente a aparatos eléctricos externos.
 
 ### ¿Puede remolcar?
-Sí, hasta 1.500 kg con freno.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+Sí: admite hasta 1.500 kg con freno.
+
+Si una multa te ha llegado y sospechas que podría tener algún defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
 
 *Fuentes: <a href=https://www.noticiasdelmotor.com/noticias/i/94914945/el-byd-atto-3-evo-con-hasta-449-cv-220-kw-de-potencia-de-carga-y-710-km-de-autonomia-ya-esta-disponible-en-los-concesionarios>noticiasdelmotor.com</a>, <a href=https://periodismodelmotor.com/prueba-byd-atto-3-evo-design-2026/420952/amp/>periodismodelmotor.com</a>, <a href=http://diariodelautomovil.com/2026/02/25/el-byd-atto-3-evo-llega-con-hasta-449-cv-carga-ultrarrapida-y-mas-autonomia/>diariodelautomovil.com</a>.*`
   },
