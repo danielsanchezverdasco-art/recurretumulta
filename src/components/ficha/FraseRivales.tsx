@@ -19,14 +19,11 @@ export default function FraseRivales({ id, nombre, precio, rivales, texto }: { i
   const total = todos.length;
   const barato = todos[0], caro = todos[total - 1];
   const masMenos = Math.abs(dif) < media * 0.02 ? "prácticamente lo mismo que" : dif < 0 ? `${fmt(-dif)} menos (−${pct} %) que` : `${fmt(dif)} más (+${pct} %) que`;
-  // 25/10/2026 prioridad 1 dedupe (Grok 08:50): variantes reestructuradas para que precio,
-  // media, rivales y puesto del modelo aparezcan antes de cualquier racha fija de 8 tokens.
-  // Misma información que antes (precio, media, puesto, más barato / más caro), sin relleno.
   const v = hash(id) % 4;
   let t: string;
-  if (v === 0) t = `${nombre} desde ${fmt(precio)}: ${masMenos} la media ${fmt(media)} de ${rs.length} rivales. Puesto ${pos} de ${total} por precio.`;
-  else if (v === 1) t = `${nombre}, ${pos}.º de ${total} por precio: desde ${fmt(precio)}, entre ${fmt(barato.p)} (${barato.n}) y ${fmt(caro.p)} (${caro.n}).`;
-  else if (v === 2) t = `Media rivales de ${nombre}: ${fmt(media)}. ${nombre} desde ${fmt(precio)}, ${masMenos.replace(/ que$/, "")} respecto a esa media.`;
-  else t = `${nombre} ${fmt(precio)} frente a media ${fmt(media)} (${rs.map((r) => r[1]).slice(0, 3).join(", ")}${rs.length > 3 ? " y otros" : ""}). Puesto ${pos} de ${total}.`;
+  if (v === 0) t = `Con ${fmt(precio)} de partida, ${nombre} cuesta ${masMenos} la media de los ${rs.length} rivales que comparamos en esta ficha (${fmt(media)}). Ocupa el puesto ${pos} de ${total} si los ordenamos de más barato a más caro.`;
+  else if (v === 1) t = `Entre los ${total} modelos de esta comparativa, ${nombre} es el ${pos}.º más asequible: parte de ${fmt(precio)}, frente a ${fmt(barato.p)} del más barato (${barato.n}) y ${fmt(caro.p)} del más caro (${caro.n}).`;
+  else if (v === 2) t = `La media de precio de sus ${rs.length} rivales directos es de ${fmt(media)}; ${nombre}, desde ${fmt(precio)}, se sitúa ${masMenos.replace(/ que$/, "")} respecto a esa media.`;
+  else t = `Precio frente a rivales: ${fmt(precio)} ${nombre}, ${fmt(media)} de media entre ${rs.map((r) => r[1]).slice(0, 3).join(", ")}${rs.length > 3 ? " y otros" : ""}. Puesto ${pos} de ${total} por precio de entrada.`;
   return <p className="mt-3 text-sm text-gray-700">{t}</p>;
 }
