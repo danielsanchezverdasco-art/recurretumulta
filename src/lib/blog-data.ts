@@ -29,9 +29,9 @@ export const BLOG_POSTS_INLINE: BlogPost[] = [
   {
     slug: "como-recurrir-multa-dgt-sin-abogado",
     locale: "es",
-    title: "Recurrir una multa DGT sin abogado, paso a paso",
+    title: "Impugna tu multa de tráfico sin pagar un abogado",
     excerpt:
-      "Puedes recurrir una multa DGT por tu cuenta, gratis y en unos 20 minutos. Te explicamos el proceso exacto, paso a paso.",
+      "Sin letrado y sin coste: presenta tu alegación en unos 20 minutos siguiendo el orden que marca la normativa y sin adelantar el importe.",
     category: "Guías Prácticas",
     date: "2026-08-10",
     readTime: 7,
@@ -47,60 +47,60 @@ export const BLOG_POSTS_INLINE: BlogPost[] = [
       "multa dgt clave firma digital",
       "multa trafico sede electronica dgt",
     ],
-    content: `## ¿Hace falta abogado para recurrir una multa DGT?
+    content: `## ¿Puedes impugnar sin contratar un abogado?
 
-No. El **recurso de reposición** lo puede presentar cualquier ciudadano por su cuenta, gratis y sin abogado ni procurador. Lo regula la <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722>Ley de Tráfico y Seguridad Vial (RDL 6/2015)</a>.
+Sí, tú mismo. Cualquier persona puede interponer el recurso de reposición sin contratar letrado ni procurador y sin abonar tasa alguna. La norma que lo ampara es la <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722>Ley de Tráfico y Seguridad Vial (RDL 6/2015)</a>.
 
-Solo necesitarías abogado en dos supuestos: si decides acudir a la **vía contencioso-administrativa** (en general, multas superiores a 2.000€) o si la cuantía no compensa el coste de la representación legal.
+El letrado solo resulta imprescindible cuando el asunto escala al contencioso-administrativo, escenario habitual con sanciones por encima de 2.000 €, o cuando el gasto de defenderte supera lo que está en juego.
 
 <img src=/media/plazos-dgt-recurso-calendario-cuerpo.webp alt=Calendario con los plazos para recurrir una multa de la DGT>
 
-## Recurre tu multa DGT sin abogado en 5 pasos
+## Cinco fases para impugnar sin letrado
 
-### Paso 1 — Conoce tus opciones desde el primer día
+### Fase 1: decide en cuanto recibas la notificación
 
-Cuando te llega una multa, desde la notificación cuentas con **20 días naturales** para elegir entre dos opciones **incompatibles entre sí**:
+A partir de la fecha en que te notifican la sanción dispones de 20 días naturales para optar por una de dos vías excluyentes:
 
-- **Pagar con el 50% de descuento (pronto pago):** Ya no podrás recurrir.
-- **Presentar alegaciones o recurso:** No pagas mientras se tramita. Si lo deniegan, pagas el 100%.
+- **Abonar con rebaja del 50 % por pronto pago:** esa vía cierra la posibilidad de impugnar después.
+- **Formular alegaciones o interponer recurso:** mientras se resuelve no abonas nada; si la resolución es desfavorable, abonarás el importe íntegro, el 100 %.
 
-**Regla de oro:** Si vas a recurrir, NO pagues la multa.
+**Norma básica:** si tu plan es impugnar, no adelantes ningún pago.
 
-### Paso 2 — Revisa si tu multa presenta vicios de forma
+### Fase 2: busca errores en el expediente antes de redactar
 
-Muchas multas de tráfico traen errores de procedimiento que pueden anularlas. Revisa la <a href=https://recurretumulta.online/guias/vicios-forma>guía de vicios de forma</a> antes de escribir nada:
+Bastantes sanciones contienen fallos de tramitación capaces de dejarlas sin efecto. Consulta la <a href=https://recurretumulta.online/guias/vicios-forma>guía de vicios de forma</a> con calma antes de redactar tu escrito:
 
-- Falta del número TIP o de la placa del agente
-- Falta de la hora exacta de la infracción
-- Matrícula o descripción del vehículo erróneas
-- Notificación fuera de plazo o con defectos
-- Radar sin verificación metrológica en vigor
-- Señalización insuficiente del radar
+- Ausencia del TIP del agente o de su placa identificativa
+- Hora de la infracción omitida o imprecisa
+- Datos del vehículo o su matrícula con errores
+- Aviso entregado tarde o con fallos formales
+- Cinemómetro sin verificación metrológica vigente
+- Avisos del radar escasos o poco visibles
 
-### Paso 3 — Escribe el recurso de reposición
+### Fase 3: redacta el recurso
 
-El recurso debe contener:
-1. Tus datos personales y los del vehículo
-2. El número de expediente sancionador
-3. Los fundamentos jurídicos en los que te apoyas
-4. La petición expresa de anulación de la sanción
-5. Fecha y firma
+Tu escrito debe incluir estos cinco elementos:
+1. Identificación tuya y datos del vehículo afectado
+2. Referencia del expediente sancionador correspondiente
+3. Base jurídica que sostiene tu impugnación
+4. Solicitud clara de que se anule la sanción
+5. Lugar, fecha y tu firma
 
-El análisis de RecurreTuMulta.online te da exactamente los argumentos que debes incluir, gratis.
+La herramienta de RecurreTuMulta.online señala, sin coste, qué razonamientos conviene incorporar a ese escrito.
 
-### Paso 4 — Envía el recurso en la sede electrónica de Tráfico
+### Fase 4: preséntalo por la sede electrónica
 
-Entra en la <a href=https://sede.dgt.gob.es>sede electrónica de Tráfico (sede.dgt.gob.es)</a>, identifícate con Cl@ve, DNI electrónico o certificado digital y adjunta el documento. Recibirás un justificante de registro con sello de tiempo que acredita que presentaste el recurso en plazo.
+Accede a la <a href=https://sede.dgt.gob.es>sede electrónica de Tráfico (sede.dgt.gob.es)</a>, acredita tu identidad con certificado digital, DNI electrónico o Cl@ve y sube el documento. El sistema te entregará un resguardo con marca temporal que demuestra la presentación dentro del plazo.
 
-Si la multa la puso un **Ayuntamiento o la Policía Local**, preséntalo en el Registro Electrónico General del municipio correspondiente.
+Cuando la sanción proceda de un ayuntamiento o de su policía local, el destino será el registro electrónico general de ese municipio.
 
-### Paso 5 — Espera la resolución y piensa el siguiente paso
+### Fase 5: aguarda la respuesta y valora qué hacer después
 
-La DGT dispone de **1 mes** para resolver. Si no responde, se aplica el silencio administrativo negativo (se entiende desestimado). Si lo deniegan, puedes ir a la **vía contencioso-administrativa**.
+Tráfico cuenta con un plazo de 1 mes para dictar resolución. Sin respuesta en ese tiempo, opera el silencio negativo, es decir, se considera desestimado. Ante una denegación, queda abierta la vía contencioso-administrativa.
 
 <img src=/media/carta-multa-radar-buzon-cuerpo.webp alt=Carta de multa de la DGT en el buzón: revísala antes de pagar>
 
-## ¿Compensa recurrir?
+## ¿Sale a cuenta impugnar?
 
 | Escenario | Sin recurrir | Recurriendo con éxito |
 |---|---|---|
@@ -108,30 +108,29 @@ La DGT dispone de **1 mes** para resolver. Si no responde, se aplica el silencio
 | Multa de 300€ | 150€ (pronto pago) | 0€ |
 | Multa de 600€ | 300€ (pronto pago) | 0€ |
 
-Redactarlo lleva aproximadamente **20 minutos**. Cuando hay vicios de forma acreditados, las opciones de que el recurso prospere suben de forma notable.
+La redacción ronda los 20 minutos. Con defectos formales demostrados, las probabilidades de éxito crecen de manera clara.
 
-Antes de escribir nada, puedes <a href=https://recurretumulta.online/#analizador>analizar tu multa gratis con IA</a>: detecta los defectos de forma y te dice si compensa recurrir.
+Antes de redactar, puedes <a href=https://recurretumulta.online/#analizador>analizar tu multa gratis con IA</a>: la herramienta localiza fallos formales y valora si impugnar resulta rentable.
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuánto puede tardar la DGT en resolver un recurso de reposición?
-La DGT dispone de **1 mes** para resolver el recurso de reposición. Si no responde en ese plazo, se aplica el silencio administrativo negativo: se entiende desestimado y puedes ir a la vía contencioso-administrativa.
+### ¿Qué plazo tiene Tráfico para contestar a la reposición?
+Dispone de 1 mes para pronunciarse sobre la reposición. Si transcurre ese plazo sin contestación, rige el silencio negativo: la petición se da por desestimada y se abre la vía contencioso-administrativa.
 
-### ¿Puedo recurrir si ya pagué con el descuento del 50%?
-No. Pagar con pronto pago supone **renunciar al derecho a recurrir** y agota la vía administrativa. Por eso la regla de oro es: si vas a recurrir, no pagues la multa antes.
+### ¿Cabe impugnar después de abonar con el 50 % de rebaja?
+No. Abonar por pronto pago implica renunciar a impugnar y cierra la vía administrativa. Por esa razón, si piensas recurrir, evita pagar antes de presentar el escrito.
 
-### ¿Dónde presento el recurso de reposición?
-Se presenta en la <a href=https://sede.dgt.gob.es>sede electrónica de Tráfico</a>, con certificado digital, Cl@ve o DNI electrónico. Y si la multa es de un Ayuntamiento o Policía Local, en el Registro Electrónico General del municipio correspondiente.
+### ¿En qué registro se entrega la reposición?
+Se entrega en la <a href=https://sede.dgt.gob.es>sede electrónica de Tráfico</a>, usando Cl@ve, certificado digital o DNI electrónico. Cuando la sanción sea municipal o de policía local, el registro electrónico general del municipio correspondiente será el destino.
 
-### ¿Hace falta abogado para recurrir una multa de tráfico?
-Para el recurso de reposición, no: es un trámite administrativo sin coste que puedes hacer tú mismo. El abogado solo entra si llevas el caso a la vía contencioso-administrativa.
+### ¿Resulta obligatorio un abogado para impugnar una sanción?
+En la reposición, no: se trata de un procedimiento administrativo gratuito que puedes gestionar en persona. El letrado solo interviene cuando el asunto llega al contencioso-administrativo.
 
-### ¿Recurrir una multa DGT sin abogado cuesta algo?
-Nada: el recurso de reposición es un trámite administrativo gratuito, sin tasas, sin abogado y sin procurador. Redactarlo y presentarlo te lleva, según esta guía, unos 20 minutos.
+### ¿Tiene algún coste impugnar sin letrado?
+Ninguno: la reposición es un procedimiento administrativo sin tasas, sin letrado y sin procurador. Entre redactarla y entregarla invertirás alrededor de 20 minutos.
 
-### ¿Se puede recurrir una multa de radar sin abogado?
-Sí. Pide en tus alegaciones que aporten el certificado vigente de verificación metrológica del cinemómetro en la fecha de la infracción; si falta o está caducado, la multa debe anularse.
-`,
+### ¿Cabe impugnar sin letrado una sanción de radar?
+Sí. Solicita en tu escrito que adjunten el certificado de verificación metrológica del cinemómetro vigente el día de la infracción; si no existe o ha caducado, la sanción debe quedar anulada.`,
   },
   {
     slug: "defectos-forma-anulan-multa-dgt",
@@ -388,9 +387,9 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
   {
     slug: "multa-trafico-madrid-recurrir",
     locale: "es",
-    title: "Multa de tráfico en Madrid: guía para recurrirla (2026)",
+    title: "Multa en Madrid: cómo recurrirla paso a paso (2026)",
     excerpt:
-      "Madrid tiene más de 450 cámaras de vigilancia y zonas ZBE. Las multas de Policía Municipal y DGT en Madrid tienen sus particularidades. Guía completa.",
+      "Madrid acumula más de 450 cámaras y controles ZBE: esta guía explica ante quién recurrir cada sanción, municipal o de la DGT, y qué plazos usar.",
     category: "Provincias",
     date: "2026-07-15",
     readTime: 6,
@@ -404,58 +403,58 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "multa estacionamiento madrid recurrir",
       "multa dgt madrid 2026",
     ],
-    content: `## Multas de tráfico en Madrid: lo que necesitas saber en 2026
+    content: `## Multas en Madrid en 2026: panorama inicial
 
-Madrid es la ciudad española con mayor densidad de sistemas de vigilancia de tráfico: más de **450 cámaras**, radares fijos en la M-30, M-40 y M-45, y el sistema de control de acceso a la **Zona de Bajas Emisiones (ZBE)** Madrid Central y Madrid 360.
+Ninguna otra ciudad española concentra tantos dispositivos de control de tráfico como Madrid: supera las 450 cámaras, suma radares fijos en la M-30, la M-40 y la M-45, y vigila las entradas a Madrid Central y Madrid 360, sus dos Zonas de Bajas Emisiones (ZBE).
 
-## Tipos de multas más frecuentes en Madrid
+## Las sanciones más habituales en la capital
 
-### Multas de la DGT (vías interurbanas y autovías)
+### Sanciones de la DGT fuera de la ciudad
 
-Las multas en la M-30, M-40, M-45 y accesos a Madrid son competencia de la **Jefatura Provincial de Tráfico de Madrid**:
-- Email: jpt.madrid@dgt.es
-- Dirección: C/ Josefa Valcárcel, 28, 28027 Madrid
-- Sede electrónica: sede.dgt.gob.es
+Las sanciones impuestas en la M-30, la M-40, la M-45 y los accesos a la capital las tramita el organismo provincial de tráfico:
+- Correo: jpt.madrid@dgt.es
+- Oficina: C/ Josefa Valcárcel, 28, 28027 Madrid
+- Web: sede.dgt.gob.es
 
-### Multas de la Policía Municipal de Madrid (vías urbanas)
+### Sanciones municipales en calles y avenidas
 
-Las multas en el interior de la ciudad (calles, avenidas, zonas ORA, Madrid Central) son competencia del **Ayuntamiento de Madrid**:
-- Recurso: Registro Electrónico General del Ayuntamiento
-- Portal: sede.madrid.es
+Las sanciones en vías urbanas (Madrid Central, zonas ORA, calles y avenidas) las gestiona el Ayuntamiento de Madrid:
+- Vía de recurso: Registro Electrónico General del Ayuntamiento
+- Web: sede.madrid.es
 
 <img src=/media/grua-municipal-madrid-cuerpo.webp alt=Grúa municipal en una calle de Madrid>
 
-## Multas por la Zona de Bajas Emisiones (ZBE) Madrid Central / Madrid 360
+## Sanciones por entrar en la ZBE sin etiqueta
 
-Las ZBE de Madrid restringen el acceso a vehículos sin etiqueta ambiental o sin distintivo de residente. Las multas son de **90€** para vehículos sin etiqueta.
+Las ZBE madrileñas vetan la entrada a vehículos sin etiqueta ambiental o sin acreditación de residente. La sanción asciende a 90 € para vehículos sin etiqueta.
 
-**Argumentos frecuentes para recurrir:**
-- Error en la lectura de la matrícula por las cámaras de control
-- Señalización insuficiente en los accesos a la ZBE
-- Acceso por emergencia o causa de fuerza mayor
-- Vehículo de alquiler cuya responsabilidad corresponde al arrendatario
+**Motivos habituales para impugnar:**
+- Fallo al leer la matrícula en las cámaras de vigilancia
+- Carteles escasos en las entradas a la ZBE
+- Entrada justificada por una urgencia o fuerza mayor
+- Coche alquilado: la responsabilidad recae en quien lo arrendó
 
 ### Zonas ORA y tarjeta de residente
 
-Las multas por aparcamiento en zona regulada (ORA) en Madrid son especialmente recurribles cuando:
-- La señalización del tipo de zona era insuficiente o contradictoria
-- El parquímetro más cercano estaba averiado (guarda foto)
-- El tiempo de estacionamiento máximo no estaba claramente indicado
-- La tarjeta de residente estaba vigente pero no fue detectada correctamente
+Las sanciones por estacionar en zona regulada (ORA) en la capital admiten recurso con más facilidad cuando:
+- Los carteles del tipo de zona resultaban escasos o contradictorios
+- El parquímetro próximo no funcionaba (conviene fotografiarlo)
+- El límite máximo de estacionamiento no se indicaba con claridad
+- La tarjeta de residente seguía en vigor pero no se detectó bien
 
 <img src=/media/zbe-madrid-control-camaras-cuerpo.webp alt=Cámaras de control de la ZBE de Madrid>
 
-## Pasos para recurrir una multa del Ayuntamiento de Madrid
+## Cómo presentar el recurso ante el Ayuntamiento
 
-1. Accede a **sede.madrid.es**
-2. Busca "Recursos contra sanciones de tráfico"
-3. Identifícate con Cl@ve o certificado digital
-4. Adjunta el recurso y la notificación original
-5. Guarda el justificante de registro
+1. Entra en sede.madrid.es
+2. Localiza «Recursos contra sanciones de tráfico»
+3. Acredítate con Cl@ve o con certificado digital
+4. Aporta el recurso junto con la notificación original
+5. Conserva el justificante de registro
 
-El Ayuntamiento de Madrid tiene **1 mes** para resolver. Si no contesta, puedes interponer recurso contencioso-administrativo.
+El consistorio madrileño dispone de 1 mes para dictar resolución. Si no responde, cabe interponer recurso contencioso-administrativo.
 
-## ¿A quién recurro cada multa en Madrid?
+## Qué organismo atiende cada sanción
 
 | Tipo de multa | Organismo competente | Dónde recurrir |
 |---|---|---|
@@ -473,22 +472,22 @@ El Ayuntamiento de Madrid tiene **1 mes** para resolver. Si no contesta, puedes 
 
 
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Dónde recurro una multa de la M-30?
-Ante la DGT: las multas en la M-30, M-40, M-45 y los accesos son competencia de la Jefatura Provincial de Tráfico de Madrid (sede.dgt.gob.es).
+### ¿Ante quién se recurre una sanción de la M-30?
+Corresponde a la DGT: las sanciones en la M-30, la M-40, la M-45 y los accesos las gestiona la jefatura provincial madrileña (sede.dgt.gob.es).
 
-### ¿Y una multa de la Policía Municipal de Madrid?
-Ante el Ayuntamiento de Madrid, a través de sede.madrid.es, buscando «Recursos contra sanciones de tráfico».
+### ¿Y si la impone la Policía Municipal?
+Ante el consistorio, en sede.madrid.es, localizando «Recursos contra sanciones de tráfico».
 
-### ¿Cuánto es la multa por acceder a la ZBE de Madrid sin etiqueta?
-90 € para vehículos sin etiqueta, según esta guía.
+### ¿Qué importe tiene entrar en la ZBE sin etiqueta?
+90 € si el vehículo carece de etiqueta, según esta guía.
 
-### ¿Qué plazo tiene el Ayuntamiento de Madrid para resolver?
-1 mes. Si no contesta, puedes interponer recurso contencioso-administrativo.
+### ¿En cuánto tiempo debe resolver el Ayuntamiento?
+Un mes. Si no responde, cabe interponer recurso contencioso-administrativo.
 
-### ¿Qué hago si el parquímetro estaba averiado?
-Guarda una foto del parquímetro con fecha y hora: si no pudiste pagar aunque quisieras, es un argumento sólido para recurrir la multa de zona ORA.
+### ¿Y si el parquímetro no funcionaba?
+Fotografía el parquímetro con fecha y hora: si quisiste pagar y no pudiste, esa prueba respalda el recurso contra la sanción de zona ORA.
 
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.`,

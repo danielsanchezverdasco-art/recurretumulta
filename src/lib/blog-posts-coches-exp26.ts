@@ -112,9 +112,9 @@ No: la generación de 2024 aún no ha sido probada por EuroNCAP.
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
   },
   {
-    "title": "Nissan Micra 2025: eléctrico desde 27.700 €",
+    "title": "Nissan Micra 2025 eléctrico: desde 27.700 €",
     "slug": "nissan-micra-2025-precio",
-    "excerpt": "Precio y ficha técnica del nuevo Nissan Micra 2025, ahora 100% eléctrico: 122 o 150 CV, baterías de 40 o 52 kWh, hasta 419 km de autonomía y etiqueta Cero. Desde 27.700 €.",
+    "excerpt": "El Micra 2025 llega solo eléctrico, con 122 o 150 CV, 40 o 52 kWh, 319 o 419 km WLTP y etiqueta Cero, desde 27.700 €.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "readTime": 7,
@@ -124,9 +124,9 @@ No: la generación de 2024 aún no ha sido probada por EuroNCAP.
 
 **¿Buscas solo los datos?** <a href=/coches/nissan-micra-2025-precio-ficha-tecnica/>Ver la ficha técnica del Nissan Micra 2025</a>: precio, autonomía, batería y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El mítico **Nissan Micra** vuelve en su sexta generación convertido en un coche **100% eléctrico**. Desarrollado sobre la plataforma **AmpR Small** junto al Renault 5, llega con dos baterías (**40 y 52 kWh**), dos potencias (**122 y 150 CV**) y autonomías de **319 a 419 km**. El precio de partida en España es de **27.700 €** y todas las versiones lucen la etiqueta **Cero** de la DGT.
+La sexta entrega del Micra abandona la gasolina y llega solo con motor eléctrico. Nissan lo ha desarrollado sobre la base AmpR Small, compartida con el Renault 5, y lo vende en España a partir de 27.700 €. Hay dos acumuladores, de 40 y 52 kWh, dos niveles de potencia, de 122 y 150 CV, y una autonomía homologada que va de 319 a 419 km. En todas las versiones, la DGT le asigna la etiqueta Cero.
 
-## Ficha técnica resumida
+## Cifras principales
 
 | Concepto | Dato |
 |---|---|
@@ -146,79 +146,79 @@ El mítico **Nissan Micra** vuelve en su sexta generación convertido en un coch
 
 <a href=/coches/nissan-micra-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Nissan Micra con galería de fotos</a>
 
-## Dos baterías para dos usos
+## Dos acumuladores, dos autonomías
 
-La versión de acceso monta **122 CV** y una batería de **40 kWh** con **319 km de autonomía**: suficiente para el uso urbano y periurbano diario, con carga rápida de **80 kW** (del 10 al 80% en unos 30 minutos). La **Long Range** sube a **150 CV**, **52 kWh** y **419 km** de autonomía, con carga a **100 kW**: ya permite plantearse viajes con una sola parada de carga.
+El escalón inicial combina 122 CV con 40 kWh y anuncia 319 km WLTP. Sirve para recorridos urbanos y alrededores, y admite carga rápida de 80 kW: pasar del 10 al 80 % lleva unos 30 minutos. La variante Long Range eleva la potencia a 150 CV, el acumulador a 52 kWh y el alcance a 419 km, con carga a 100 kW, de modo que un viaje largo se resuelve con una única parada para recargar.
 
-El consumo homologado es de solo **14,2 kWh/100 km**, una de las cifras más bajas del segmento, y la garantía de la batería es de **8 años o 160.000 km**, como en el resto de la gama eléctrica de Nissan.
+El consumo WLTP queda en 14,2 kWh/100 km, entre los registros más contenidos de su categoría. La batería queda cubierta durante 8 años o 160.000 km, igual que en el resto de eléctricos de Nissan.
 
 <img src=/media/nissan-micra-2025-precio-ficha-tecnica-interior.webp alt=Interior del Nissan Micra 2025>
 
-## Diseño redondeado con guiños al pasado
+## Estética curva con recuerdos de la saga
 
-El nuevo Micra mantiene el espíritu simpático de la saga: **faros circulares LED**, carrocería bitono disponible, líneas fluidas y una zaga con pilotos de aspecto pixelado. Dentro, **doble pantalla de 10,1 pulgadas**, Google integrado, iluminación ambiental de 48 colores y asistentes de conducción de serie, incluido el control de crucero adaptativo.
+Por fuera, el Micra conserva su carácter amable: ópticas delanteras redondas de LED, opción de carrocería en dos tonos, trazos suaves y pilotos traseros con dibujo pixelado. En el habitáculo aparecen dos pantallas de 10,1 pulgadas, Google integrado, luz ambiental con 48 colores y ayudas a la conducción de serie, entre ellas el regulador adaptativo de velocidad.
 
-Con **3,97 metros** de largo, es un utilitario puro: ágil en ciudad, fácil de aparcar y con un diámetro de giro contenido. El maletero, eso sí, es su talón de Aquiles: **277 litros**, por debajo de la media del segmento.
+Mide 3,97 metros, así que se mueve con soltura entre el tráfico y entra con facilidad en plazas ajustadas, con un radio de giro reducido. Su punto débil está detrás: el maletero ofrece 277 litros, menos que la media de los utilitarios.
 
-## Historia del Micra: seis generaciones desde 1982
+## Trayectoria: seis entregas a partir de 1982
 
-- **1982 — K10:** el Micra original, coche del año en Japón, urbano y económico.
-- **1992 — K11:** el de los faros redondos, superventas europeo de los 90.
-- **2002 — K12:** diseño redondeado rompedor, fabricado en Sunderland.
-- **2010 — K13:** giro global, producido en varios continentes.
-- **2016 — K14:** cambio radical: diseño afilado, fabricado en Francia junto al Clio.
-- **2025 — Sexta generación:** 100% eléctrico sobre la plataforma AmpR Small, gemelo técnico del Renault 5.
+- K10, 1982: el Micra de estreno, urbano y económico, elegido coche del año en Japón.
+- K11, 1992: la entrega de los faros redondos, uno de los superventas europeos de aquella década.
+- K12, 2002: formas redondeadas que rompieron con lo anterior, ensamblado en Sunderland.
+- K13, 2010: apuesta mundial, con producción repartida por varios continentes.
+- K14, 2016: giro hacia un dibujo afilado, montado en Francia al lado del Clio.
+- Sexta generación, 2025: solo eléctrica, sobre AmpR Small, hermana técnica del Renault 5.
 
 <img src=/media/nissan-micra-2025-precio-ficha-tecnica-oficial.webp alt=Trasera del Nissan Micra 2025>
 
-## Mantenimiento
+## Revisiones y gasto de taller
 
-Como eléctrico, el Micra tiene un mantenimiento sencillo: sin aceite, sin correas ni filtros de combustible. Nissan establece revisiones periódicas según su libro oficial (filtro de habitáculo, inspección del sistema de alta tensión, frenos y neumáticos). El coste anual estimado ronda los 250 €, muy por debajo de un utilitario de gasolina equivalente. *Fuente: Nissan España*
+Al no llevar motor de combustión, el mantenimiento se simplifica: no hay aceite que cambiar, ni correas ni filtros de combustible. Nissan pide revisiones periódicas según su libro oficial, con revisión del sistema de alta tensión, neumáticos, frenos y filtro de habitáculo. El gasto anual estimado ronda los 250 €, claramente inferior al de un utilitario de gasolina comparable. *Fuente: Nissan España*
 
-## Precio y rivales
+## Precio frente a la competencia
 
-Desde 27.700 €, su rival natural es su gemelo, el **Renault 5 E-Tech**, que tiene una versión de acceso más barata (desde unos 23.800 €) pero equipara precios en las versiones de 52 kWh. También compite con el **Citroën ë-C3** (más barato, menos autonomía), el **Peugeot E-208** y el **BYD Dolphin Surf**. Con campañas como el Plan Auto+, el Micra puede bajar hasta la zona de los 20.600 €, según la prensa especializada.
+El Micra arranca en 27.700 €. Su pariente más cercano es el Renault 5 E-Tech, que baja hasta unos 23.800 € en su versión inicial, aunque iguala al Micra en las de 52 kWh. Entre las alternativas están el Peugeot E-208, el BYD Dolphin Surf y el Citroën ë-C3, este último más económico pero con menos autonomía. Según la prensa especializada, campañas como el Plan Auto+ pueden situarlo en torno a los 20.600 €.
 
-## Veredicto: el urbano eléctrico con más carisma japonés
+## Balance final: urbano eléctrico con identidad japonesa
 
-El Micra eléctrico acierta en lo esencial: precio de acceso razonable, consumos muy bajos, dos autonomías bien escalonadas y un diseño con personalidad propia que no es un simple Renault 5 con otro logo. Los 419 km de la versión Long Range lo hacen utilizable más allá de la ciudad.
+El Micra eléctrico cumple en lo básico: acceso en 27.700 €, gasto energético bajo, dos autonomías bien separadas y una imagen propia que no se limita a cambiar el logo de un Renault 5. Con 419 km, la Long Range sirve también fuera de la ciudad.
 
-¿Para quién es? Para el conductor urbano que quiere etiqueta Cero sin pagar el sobreprecio de un SUV eléctrico. La versión de 40 kWh es perfecta como segundo coche o para commuting diario.
+Está pensado para quien se mueve sobre todo por ciudad y quiere etiqueta Cero sin saltar al precio de un SUV eléctrico. La variante de 40 kWh funciona como segundo coche o para ir y volver del trabajo cada día.
 
-¿Sus pegas? El maletero de 277 litros limita su versatilidad familiar, la velocidad máxima de 150 km/h penaliza en autopista alemana (en España no es problema) y el Renault 5 gemelo ofrece una versión de acceso más económica. Además, aún no tiene prueba EuroNCAP propia.
+Sus límites son el maletero de 277 litros, que resta versatilidad para uso familiar, la velocidad punta de 150 km/h, que pesa en autopistas alemanas aunque en España no supone un problema, y un Renault 5 hermano que ofrece una entrada más económica. Además, todavía no existe una prueba EuroNCAP propia de esta generación.
 
-## Cuánto cuesta mantenerlo
+## Gasto mensual estimado
 
-Estimación orientativa con 15.000 km al año: unos **112 €/mes**, desglosados en 32 € de electricidad (14,2 kWh/100 km cargando en casa), 57 € de seguro a todo riesgo, 21 € de mantenimiento prorrateado y 2 € de impuesto (bonificado en muchos municipios). Son cifras aproximadas que varían según tu tarifa eléctrica y tu aseguradora.
+Con 15.000 km al año, la estimación orientativa se sitúa en unos 112 €/mes. El reparto cambia el orden: 2 € de impuesto, bonificado en muchos municipios, 21 € de mantenimiento prorrateado, 57 € de seguro a todo riesgo y 32 € de electricidad, calculada con carga en casa a 14,2 kWh/100 km. Son cifras aproximadas y dependen de la tarifa eléctrica y de la aseguradora contratada.
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuánto cuesta el Nissan Micra 2025?
-Desde 27.700 € la versión Acenta de 40 kWh; la Long Range de 52 kWh parte de 32.750 €.
+### ¿Qué precio tiene el Micra 2025?
+La versión Acenta de 40 kWh arranca en 27.700 €, mientras la Long Range de 52 kWh comienza en 32.750 €.
 
-### ¿Qué autonomía tiene el Micra eléctrico?
-319 km (40 kWh) o 419 km (52 kWh) en ciclo WLTP.
+### ¿Cuántos kilómetros recorre con una carga?
+En ciclo WLTP, 319 km con 40 kWh y 419 km con 52 kWh.
 
-### ¿El Micra 2025 es totalmente eléctrico?
-Sí: la sexta generación solo se vende como eléctrico, sin versiones de combustión.
+### ¿Solo se vende eléctrico?
+Sí, la sexta generación no tiene variantes de combustión; toda la gama funciona con batería.
 
-### ¿Qué etiqueta DGT tiene?
-Etiqueta Cero en todas las versiones.
+### ¿Qué distintivo DGT lleva?
+Cero en todas las versiones, sin excepción.
 
-### ¿Qué maletero tiene el nuevo Micra?
-277 litros, ampliables a 959 litros abatiendo los asientos traseros.
+### ¿Cuánto cabe en el maletero?
+Detrás caben 277 litros; si se pliegan las plazas traseras, el hueco sube hasta 959 litros.
 
-### ¿Tiene prueba EuroNCAP?
-No hay prueba publicada de la nueva generación eléctrica.
+### ¿EuroNCAP lo ha probado?
+No hay ninguna prueba publicada de esta generación eléctrica nueva.
 
 *Fuentes: <a href=https://www.km77.com/coches/nissan/micra/2026/5-puertas/datos?amp=1>km77.com</a>, <a href=https://www.nissan.es>Nissan España</a>*
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
   },
   {
-    "title": "BYD Sealion 05: SUV eléctrico trasera",
+    "title": "BYD Sealion 05 2025: datos, maletero y precio en España",
     "slug": "byd-sealion-05-2025-precio",
-    "excerpt": "Ficha técnica del BYD Sealion 05 2025: SUV eléctrico compacto con tracción trasera, 190 CV, maletero de 600 litros y plataforma e-Platform 3.0 Evo. Aún sin precio en España.",
+    "excerpt": "Sealion 05 2025: SUV eléctrico de 4,52 m, tracción trasera, 190 CV y maletero de 600 litros. Sin precio ni fecha confirmados en España por ahora.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "readTime": 7,
@@ -228,7 +228,7 @@ No hay prueba publicada de la nueva generación eléctrica.
 
 **¿Buscas solo los datos?** <a href=/coches/byd-sealion-05-2025-precio-ficha-tecnica/>Ver la ficha técnica del BYD Sealion 05</a>: potencia, batería, medidas y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El **BYD Sealion 05** es el SUV compacto 100% eléctrico con el que la marca china completa por abajo su familia Sealion en 2025. Construido sobre la moderna arquitectura **e-Platform 3.0 Evo**, mide **4,52 metros**, ofrece **tracción trasera** —algo raro en su segmento—, un maletero de **600 litros** más frunk delantero y dos niveles de batería (**50 y 61 kWh**). Aún **no tiene precio ni fecha confirmados para España**: esta ficha recoge los datos publicados por BYD en su lanzamiento.
+BYD sitúa el Sealion 05 como su SUV compacto totalmente eléctrico de acceso dentro de la familia Sealion durante 2025. Mide 4,52 metros, envía su fuerza al eje trasero, ofrece 600 litros de maletero más un frunk delantero, y se anuncia con dos baterías, de 50 y 61 kWh. En España todavía no existe precio ni fecha confirmados: los datos de esta ficha proceden del lanzamiento publicado por BYD.
 
 ## Ficha técnica resumida
 
@@ -247,66 +247,66 @@ El **BYD Sealion 05** es el SUV compacto 100% eléctrico con el que la marca chi
 
 <a href=/coches/byd-sealion-05-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del BYD Sealion 05 con galería de fotos</a>
 
-## e-Platform 3.0 Evo: la base más moderna de BYD
+## La plataforma e-Platform 3.0 Evo
 
-El Sealion 05 EV estrenó en su lanzamiento la evolución de la plataforma eléctrica de BYD, con batería **Blade** integrada en la estructura y arquitectura de 800 V en sus versiones superiores. Las dos variantes anunciadas entregan **190 y 218 CV** al eje trasero, con autonomías en ciclo chino CLTC de **430 a 520 km** (la equivalencia WLTP europea aún no está publicada).
+En su debut, el Sealion 05 EV utilizó la evolución de la arquitectura eléctrica de BYD: la batería Blade forma parte de la estructura y las variantes altas trabajan a 800 V. Las dos variantes anunciadas mueven el eje trasero con 190 CV una y 218 CV la otra, con autonomías CLTC en China de 430 a 520 km; el equivalente WLTP europeo todavía no se ha publicado.
 
-El equipamiento tecnológico incluye el sistema de asistencias **God's Eye** con hasta 12 cámaras y 5 radares, pantalla central giratoria de 15,6 pulgadas y hasta nevera integrada en la consola en los mercados donde se ofrece.
+El sistema de asistencias God's Eye reúne hasta 12 cámaras y 5 radares, la pantalla central giratoria mide 15,6 pulgadas, y en algunos mercados la consola integra una nevera.
 
 <img src=/media/byd-sealion-05-2025-precio-ficha-tecnica-interior.webp alt=Interior del BYD Sealion 05 2025>
 
-## También existe en versión híbrida enchufable
+## Una variante híbrida enchufable en paralelo
 
-En paralelo, BYD comercializa el **Sealion 05 DM-i**, un híbrido enchufable con la tecnología **Super DM-i** de la marca: motor gasolina 1.5 como generador y motor eléctrico principal, con una autonomía combinada que en China supera los 1.000 km. Es la variante pensada para mercados donde la infraestructura de carga aún está en desarrollo, y comparte gran parte del diseño con la versión eléctrica.
+BYD vende en paralelo un híbrido enchufable, el Sealion 05 DM-i, con tecnología Super DM-i: un motor de gasolina 1.5 actúa como generador y el motor eléctrico aporta la tracción principal, con una autonomía combinada superior a 1.000 km en China. Esta variante se orienta a mercados con infraestructura de carga todavía en desarrollo, y su diseño coincide en gran parte con el de la versión eléctrica.
 
-## Diseño Ocean: minimalista y musculoso
+## Lenguaje Ocean en el exterior
 
-El Sealion 05 adopta el lenguaje de la **serie Ocean** de BYD: frontal minimalista con **faros puntiagudos unidos por una franja LED**, tiradores de puerta enrasados, molduras de plástico en los pasos de rueda y una **franja oscura trasera** que integra los pilotos LED. Con 4,52 metros, se sitúa entre el Atto 3 y el Seal U en la gama europea de la marca.
+El Sealion 05 sigue el lenguaje Ocean de la marca: frontal sobrio con faros afilados conectados mediante una tira LED, tiradores enrasados en las puertas, molduras plásticas en los pasos de rueda, además de una franja oscura en la zaga que agrupa los pilotos LED. Con 4,52 metros, queda entre Atto 3 y Seal U dentro de la gama europea de la marca.
 
-## Historia: la familia Sealion crece
+## Cronología de la familia Sealion
 
-- **2023:** BYD lanza el Sealion 07 (luego Sealion 7), el primer SUV de la serie Ocean para Europa.
-- **Marzo 2025:** debut del **Sealion 05 EV** en China sobre la e-Platform 3.0 Evo.
-- **2025:** el **Sealion 05 DM-i** (derivado del Song Pro) amplía la oferta híbrida enchufable.
-- **2025-2026:** BYD estudia su llegada a Europa, donde competiría con el Atto 3 por precio.
+- **2023:** BYD presentó el Sealion 07, rebautizado luego como Sealion 7, como primer SUV Ocean para Europa.
+- **Marzo de 2025:** el Sealion 05 EV debutó en China, usando la e-Platform 3.0 Evo.
+- **En 2025,** el DM-i del Sealion 05, derivado del Song Pro, sumó una opción híbrida enchufable.
+- **2025-2026:** BYD valora su llegada a Europa, donde rivalizaría con el Atto 3 por precio.
 
 <img src=/media/byd-sealion-05-2025-precio-ficha-tecnica-oficial.webp alt=Trasera del BYD Sealion 05 2025>
 
-## Mantenimiento
+## Mantenimiento, todavía sin plan europeo
 
-Al no comercializarse aún en Europa, BYD no ha publicado el plan de mantenimiento para este modelo. Como referencia, los eléctricos de la marca en España siguen revisiones anuales con inspección del sistema de alta tensión y cambio de filtro de habitáculo, con costes contenidos. Actualizaremos esta ficha cuando BYD confirme su llegada.
+Como el modelo aún no se vende en Europa, BYD no ha publicado su plan de mantenimiento. Como orientación, los eléctricos de la marca en España pasan una revisión cada año que incluye inspeccionar el sistema de alta tensión y sustituir el filtro de habitáculo, con costes contenidos. Esta ficha se actualizará en cuanto BYD anuncie su llegada.
 
-## Precio y rivales
+## Rivales y precio esperado
 
-Sin precio oficial, sus rivales naturales en Europa serían el **BYD Atto 3** (su hermano mayor), el **Kia EV3**, el **Skoda Elroq**, el **Renault Scenic E-Tech** y el **Volkswagen ID.4**. Si BYD mantiene su política de precios agresiva, el Sealion 05 podría situarse por debajo del Atto 3, en la franja de los 30.000-35.000 €, aunque esto es una estimación sin confirmar.
+Sin precio oficial, en Europa competiría con el BYD Atto 3, también con el Kia EV3, además frente al Skoda Elroq, junto al Renault Scenic E-Tech y ante el Volkswagen ID.4. Con la política de precios agresiva habitual de BYD, el Sealion 05 podría quedar por debajo del Atto 3, dentro de una horquilla de 30.000-35.000 €, aunque se trata de una estimación sin confirmar.
 
-## Veredicto: el eslabón que le falta a BYD en Europa
+## Veredicto: lo que falta para verlo en España
 
-El Sealion 05 tiene todos los ingredientes para triunfar si llega a España: tamaño ideal (4,52 m), tracción trasera, maletero enorme de 600 litros, plataforma de última generación y el respaldo de la marca que más eléctricos vende del mundo. La incógnita es cuándo y a qué precio desembarca.
+El Sealion 05 reúne tamaño de 4,52 m, tracción trasera, maletero de 600 litros y una plataforma de última generación, además del apoyo de la firma con más ventas de eléctricos del mundo. La incógnita sigue siendo cuándo desembarca y a qué precio.
 
-¿Para quién sería? Para familias que necesitan espacio sin subir a un SUV grande, y para quien valore la tracción trasera en un eléctrico asequible.
+¿Para quién encajaría? Para hogares que buscan espacio sin pasar a un SUV grande, y para conductores que valoren la tracción trasera en un eléctrico asequible.
 
-¿Sus pegas? Hoy por hoy, la principal es que **no se puede comprar en España**. Además, la autonomía WLTP europea sigue sin publicarse y la red comercial de BYD, aunque crece rápido, aún no tiene la capilaridad de las marcas tradicionales.
+¿Qué frena hoy su compra? Que en España todavía no está a la venta. A eso se suma una autonomía WLTP europea sin publicar y una red comercial de BYD en crecimiento rápido pero sin la capilaridad de las marcas tradicionales.
 
-## Preguntas frecuentes
+## Dudas frecuentes
 
-### ¿Cuánto cuesta el BYD Sealion 05?
-Aún no tiene precio oficial en España ni fecha de lanzamiento confirmada.
+### ¿Cuánto costará el BYD Sealion 05 en España?
+Ni precio oficial ni fecha de lanzamiento están confirmados para España.
 
-### ¿Es eléctrico o híbrido?
-Existen las dos variantes: Sealion 05 EV (100% eléctrico) y Sealion 05 DM-i (híbrido enchufable).
+### ¿Existen versiones eléctrica e híbrida?
+Sí: una variante EV totalmente eléctrica y otra DM-i híbrida enchufable.
 
-### ¿Qué autonomía tiene el Sealion 05 eléctrico?
-Entre 430 y 520 km en ciclo chino CLTC; la cifra WLTP europea está pendiente.
+### ¿Qué autonomía anuncia el eléctrico?
+De 430 a 520 km según el ciclo chino CLTC; el dato WLTP europeo sigue pendiente.
 
-### ¿Qué maletero tiene?
-600 litros más un frunk delantero de 110 litros.
+### ¿Cuánto espacio ofrece el maletero?
+Un maletero de 600 litros y un frunk delantero con 110 litros.
 
-### ¿Es tracción delantera o trasera?
-Tracción trasera, algo poco habitual en los SUV eléctricos compactos.
+### ¿El eje motriz es el delantero o el trasero?
+El trasero, una configuración poco habitual en los SUV eléctricos compactos.
 
-### ¿Tiene prueba EuroNCAP?
-No: el modelo no ha sido probado por EuroNCAP.
+### ¿EuroNCAP ha probado ya este modelo?
+No: EuroNCAP no ha probado este modelo.
 
 *Fuentes: <a href=https://www.byd.com>BYD oficial</a>, <a href=https://es.wikipedia.org/wiki/BYD_Sealion_05_EV>Wikipedia</a>*
 
@@ -409,9 +409,9 @@ No: el modelo no ha sido probado por EuroNCAP.
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
   },
   {
-    "title": "GWM Haval H6 2024: híbrido de 243 CV con ECO",
+    "title": "Haval H6 híbrido 2024: 243 CV, ECO y 560 litros",
     "slug": "gwm-haval-h6-2024-precio",
-    "excerpt": "Ficha técnica del GWM Haval H6 2024 híbrido: 243 CV, 5,9 l/100 km, etiqueta ECO, 560 litros de maletero y 5 estrellas ANCAP. El SUV chino más vendido del mundo.",
+    "excerpt": "El Haval H6 híbrido entrega 243 CV, gasta 5,9 l/100 km, lleva ECO y ofrece 560 litros, con 5 estrellas ANCAP y sin precio oficial en España.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "readTime": 7,
@@ -421,7 +421,7 @@ No: el modelo no ha sido probado por EuroNCAP.
 
 **¿Buscas solo los datos?** <a href=/coches/gwm-haval-h6-2024-precio-ficha-tecnica/>Ver la ficha técnica del GWM Haval H6</a>: potencia, consumo, medidas y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El **GWM Haval H6** es el SUV más vendido de la historia de China —más de **cuatro millones de unidades**— y su tercera generación llegó a Europa con una versión **híbrida de 243 CV** que combina un motor turbo de 1.5 litros con un motor eléctrico. Homologa unos **5,9 l/100 km**, emite 134 g/km de CO2 y luce la etiqueta **ECO** de la DGT. GWM aún **no publica el precio oficial en España**: esta ficha recoge los datos técnicos verificados.
+Más de cuatro millones de unidades vendidas sitúan a este modelo como el todocamino con mayor éxito comercial en la historia del mercado chino. La tercera generación desembarcó en Europa apostando por una mecánica híbrida que entrega 243 CV combinados: un bloque turbo de 1,5 litros trabaja junto a un propulsor eléctrico. El gasto homologado queda en 5,9 litros cada 100 kilómetros, las emisiones se sitúan en 134 gramos de CO2 por kilómetro y la DGT le asigna la etiqueta ECO. En España, GWM todavía no ha comunicado una tarifa oficial, así que este artículo se centra en los datos técnicos contrastados.
 
 ## Ficha técnica resumida
 
@@ -443,64 +443,60 @@ El **GWM Haval H6** es el SUV más vendido de la historia de China —más de **
 
 <a href=/coches/gwm-haval-h6-2024-precio-ficha-tecnica/>Ver la ficha técnica completa del Haval H6 con galería de fotos</a>
 
-## Híbrido autorrecargable: 243 CV sin enchufar
+## Potencia híbrida sin cable de carga
 
-El sistema híbrido combina un **1.5 turbo de 147 CV** con un **motor eléctrico de 174 CV**, para una potencia conjunta de **243 CV** y un par de unos **530 Nm**. La caja es una **DHT dedicada a híbridos** y la tracción es delantera. No hay que enchufarlo: la batería de 1,67 kWh se recarga con la frenada regenerativa.
-
-El resultado es un SUV de 4,70 metros que gasta como un utilitario: **5,9 l/100 km** homologados. En ciudad, donde el motor eléctrico hace la mayor parte del trabajo, el consumo real puede ser incluso menor.
+El bloque de gasolina turboalimentado de 1,5 litros rinde 147 CV por sí solo. A su lado actúa un motor eléctrico de 174 CV. Sumados, ambos entregan 243 CV y un par aproximado de 530 Nm. La transmisión DHT, específica para híbridos, envía la fuerza al eje delantero. No existe toma de carga externa: una batería de 1,67 kWh recupera energía al frenar. Pese a medir 4,70 metros, el consumo homologado se queda en 5,9 litros cada 100 kilómetros, una cifra propia de un coche pequeño. En recorridos urbanos, donde la parte eléctrica asume gran parte del esfuerzo, el gasto real puede bajar todavía más.
 
 <img src=/media/gwm-haval-h6-2024-precio-ficha-tecnica-interior.webp alt=Interior del GWM Haval H6 2024>
 
-## Espacio y tecnología de segmento superior
+## Cabina amplia y equipamiento completo
 
-Con **2.738 mm entre ejes** y **560 litros de maletero**, el H6 ofrece habitabilidad de SUV grande. El interior está dominado por una **pantalla central de 14,6 pulgadas** con Apple CarPlay y Android Auto inalámbricos, cuadro digital de 10,25", **Head-up Display**, cámara de 360°, asientos delanteros calefactables y ventilados con regulación eléctrica, techo panorámico y portón con apertura por pie.
+La distancia entre ejes alcanza 2.738 milímetros y el maletero ofrece 560 litros, cifras que garantizan una habitabilidad propia de un SUV grande. En el puesto de conducción destaca una pantalla central de 14,6 pulgadas compatible de forma inalámbrica con Apple CarPlay y Android Auto, acompañada por un cuadro digital de 10,25 pulgadas. También incorpora Head-up Display, visión de 360 grados, asientos delanteros con calefacción, ventilación y reglaje eléctrico, techo panorámico y un portón que se abre con el pie. En el apartado de seguridad, ANCAP le otorgó 5 estrellas en 2022, con un 90% en protección de adultos y un 88% en infantil. EuroNCAP, en cambio, todavía no lo ha sometido a sus pruebas.
 
-En seguridad, el H6 logró **5 estrellas ANCAP en 2022** (90% en protección de adultos, 88% en infantil), aunque aún no ha sido probado por **EuroNCAP**.
+## Cuatro hitos desde 2011
 
-## Historia del H6: el rey de los SUV chinos
-
-- **2011:** nace la primera generación del Haval H6, que pronto se convierte en el SUV más vendido de China.
-- **2016:** segunda generación, con un salto en calidad y diseño.
-- **2020:** tercera generación sobre la plataforma **Lemon**, con versiones gasolina, híbrida e híbrida enchufable.
-- **2024:** restyling profundo (versión Pro) con nuevo interior digital y la gama híbrida ampliada.
+- 2011: debut de la primera generación, que pronto lideró las ventas de SUV en China.
+- 2016: llegó la segunda generación, con un salto claro en calidad y diseño renovado.
+- 2020: tercera generación sobre la plataforma Lemon, disponible en gasolina, en híbrida y en híbrida enchufable.
+- 2024 trajo un restyling profundo de la versión Pro, con interior digital renovado y más variantes híbridas.
 
 <img src=/media/gwm-haval-h6-2024-precio-ficha-tecnica-oficial.webp alt=Trasera del GWM Haval H6 2024>
 
-## Mantenimiento
+## Revisiones pendientes de confirmar
 
-GWM no ha publicado el plan de mantenimiento oficial para España. Como híbrido autorrecargable, las revisiones siguen el esquema de un gasolina (aceite, filtros, inspección) más la revisión del sistema híbrido. Los intervalos y costes están pendientes de publicación por la red oficial de GWM España.
+La marca todavía no ha difundido el programa oficial de mantenimiento para el mercado español. Al tratarse de un híbrido autorrecargable, las revisiones previsibles combinan las operaciones habituales de un motor de gasolina, aceite, filtros e inspección general, con una comprobación específica del sistema híbrido. Tanto los intervalos como los importes dependen de lo que publique la red oficial de GWM en España, información que sigue pendiente.
 
-## Precio y rivales
+## Alternativas sin precio español
 
-Sin precio oficial español, sus rivales son el **Toyota RAV4 hybrid** (la referencia, desde unos 38.000 €), el **Hyundai Tucson híbrido**, el **Kia Sportage híbrido** y el **MG HS híbrido**. En otros mercados, el H6 se posiciona claramente por debajo de los japoneses y coreanos: si GWM replica esa estrategia en España, sería uno de los híbridos de 243 CV más asequibles.
+Mientras no exista tarifa española, la comparación se hace con el Toyota RAV4 hybrid, la referencia del segmento desde unos 38.000 euros, además del Hyundai Tucson en versión híbrida, del Kia Sportage también híbrido y del MG HS con la misma tecnología. Fuera de España, el H6 se sitúa netamente por debajo de las propuestas japonesas y coreanas. Si GWM mantiene esa política aquí, podría convertirse en uno de los híbridos de 243 CV con mejor relación entre prestaciones y precio.
 
-## Veredicto: mucho SUV por (previsiblemente) poco dinero
+## Balance final: capacidad a precio por definir
 
-El Haval H6 híbrido es la demostración de que China ya compite de tú a tú en el segmento más disputado de Europa: 243 CV, 5,9 l/100 km, etiqueta ECO, 560 litros de maletero, 5 estrellas ANCAP y un equipamiento que los generalistas cobran como opciones. Su éxito dependerá del precio que GWM fije en España y de que la red posventa convenza.
+El conjunto demuestra que la industria china ya planta cara en el segmento europeo más competido: 243 CV, un gasto de 5,9 litros, etiqueta ECO, 560 litros de carga, 5 estrellas ANCAP y un equipamiento que otras marcas generalistas suelen cobrar aparte. El resultado comercial dependerá de la tarifa que GWM establezca en España y de la confianza que genere su red posventa.
 
-¿Para quién es? Para familias que necesitan un SUV grande híbrido con etiqueta ECO sin pagar el sobreprecio japonés o coreano.
+¿A quién va dirigido? A familias que buscan un SUV grande de mecánica híbrida y etiqueta ECO, sin asumir el sobrecoste habitual de las marcas japonesas o coreanas.
 
-¿Sus pegas? **Sin precio oficial en España** es difícil recomendarlo hoy. Además, casi todo se controla desde la pantalla táctil (pocos botones físicos), no hay rueda de repuesto y falta la prueba EuroNCAP europea.
+¿Qué inconvenientes tiene? Hoy resulta complicado recomendarlo sin una tarifa oficial española. Además, casi todas las funciones se manejan desde la pantalla táctil y quedan pocos botones físicos, no incluye rueda de repuesto y sigue pendiente la prueba europea de EuroNCAP.
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuánto cuesta el Haval H6 híbrido en España?
-GWM aún no publica el precio oficial en España.
+### ¿Hay precio oficial en España para este híbrido?
+Todavía no: GWM no ha anunciado ninguna tarifa para el mercado español.
 
-### ¿Cuántos caballos tiene el Haval H6 híbrido?
-243 CV combinados (1.5 turbo + motor eléctrico).
+### ¿Qué potencia conjunta entrega?
+243 CV combinados, suma del 1,5 turbo y del motor eléctrico.
 
-### ¿Qué consumo tiene?
-Unos 5,9 l/100 km homologados.
+### ¿Cuánto gasta homologado?
+Aproximadamente 5,9 litros cada 100 kilómetros.
 
-### ¿Tiene etiqueta ECO?
-Sí, por su sistema híbrido autorrecargable.
+### ¿Dispone de distintivo ECO?
+Sí, gracias a su mecánica híbrida autorrecargable.
 
-### ¿Qué maletero tiene?
+### ¿Qué capacidad ofrece el maletero?
 560 litros.
 
-### ¿Es seguro? ¿Tiene EuroNCAP?
-Logró 5 estrellas ANCAP en 2022; EuroNCAP aún no lo ha probado.
+### ¿Cuenta con valoración de seguridad europea?
+ANCAP le concedió 5 estrellas en 2022, pero EuroNCAP aún no lo ha evaluado.
 
 *Fuentes: <a href=https://es.wikipedia.org/wiki/Haval_H6>Wikipedia</a>, <a href=https://www.gwm-mx.com/content/dam/gwm/pages/mx/es/pdf/fichas/gwm-h6-ficha-tecnica-2026.pdf>ficha técnica oficial GWM</a>*
 

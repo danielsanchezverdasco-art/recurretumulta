@@ -9,9 +9,9 @@ import type { BlogPost } from "./blog-data.ts";
 
 export const MOTOR_2026_O_POSTS: BlogPost[] = [
 {
-  "title": "R8 Gordini eléctrico: 270 CV de nostalgia en París",
+  "title": "Renault 8 Gordini Concept: 270 CV eléctricos en París",
   "slug": "renault-8-gordini-concept-paris-2026",
-  "excerpt": "Renault rescata al mítico R8 Gordini de 1964 como coupé eléctrico de 270 CV y propulsión trasera. Se expone en el Salón de París y acabará en el museo de la marca: analizamos la jugada.",
+  "excerpt": "Renault devuelve a la vida el R8 Gordini de 1964 como coupé biplaza eléctrico de 270 CV y tracción trasera. Se exhibe en París y acabará en el museo.",
   "category": "Novedades Motor",
   "date": "2026-10-12",
   "readTime": 7,
@@ -25,20 +25,20 @@ export const MOTOR_2026_O_POSTS: BlogPost[] = [
   ],
   "content": `<img src=/media/renault-8-gordini-concept-paris-2026-oficial.webp alt=Renault 8 Gordini Concept, vista exterior en foto oficial de Renault>
 
-El **Renault 8 Gordini** vuelve. 62 años después del mito de 1964, Renault lo ha reinventado como **coupé biplaza 100 % eléctrico** de **270 CV** y **propulsión trasera**, y lo expone esta semana en el **Salón del Automóvil de París**. No es un ejercicio de nostalgia barata: es la pieza más emocional de la ofensiva con la que la marca juega en casa frente a la avalancha china.
+Sesenta y dos años después del original de 1964, Renault presenta una reinterpretación del 8 Gordini: un coupé de dos plazas, movido solo por electricidad, con 270 CV y el eje trasero como eje motriz, expuesto en el Salón del Automóvil de París. Lejos de un simple guiño nostálgico, el prototipo aporta la carga emotiva a la ofensiva con la que la firma juega en casa ante la llegada de marcas chinas.
 
-## Lo que ha presentado Renault
+## Así es el prototipo
 
-- **Coupé eléctrico biplaza**, motor de **270 CV**, propulsión trasera (como el original)
-- **Medidas:** 4,12 m de largo × 1,88 m de ancho × 1,27 m de alto
-- **Llantas:** 19 pulgadas delante y 20 detrás, como un rally actual
-- **Color:** Bleu de France reinterpretado en una construcción tricapa con nácar
-- **Doble franja blanca:** ya no es decoración, es un elemento estructural que entra hasta el salpicadero
+- **Coupé biplaza eléctrico**, con motor de **270 CV** y tracción en el eje trasero, igual que el modelo original
+- **Dimensiones:** 4,12 m de longitud × 1,88 m de anchura × 1,27 m de altura
+- **Ruedas:** 19 pulgadas en el eje delantero y 20 en el trasero, como un rally actual
+- **Pintura:** Bleu de France reinterpretado con una construcción de tres capas con nácar
+- **Doble banda blanca:** ya no decora, sino que forma parte de la estructura y penetra hasta el salpicadero
 - **Fuente:** <a href=https://prensa.renault.es/?p=64172>Nota de prensa oficial de Renault España</a>
 
-## El original: por qué el R8 Gordini es un mito
+## Por qué el R8 Gordini de 1964 se convirtió en mito
 
-El de 1964 llevaba un motor trasero de **95 CV** y propulsión trasera, y fue la escuela de toda una generación de pilotos, incluido **Jean Ragnotti**. Renault democratizó las altas prestaciones una década antes de que existiera el fenómeno GTI, y la doble franja blanca se convirtió en un símbolo. Apodado «la Gorde», el R8 Gordini exigía manos: eficaz, pero exigente.
+El modelo de 1964 montaba un motor de gasolina trasero de 95 CV con tracción trasera, y sirvió de aprendizaje a toda una generación de pilotos, entre ellos Jean Ragnotti. Renault puso las altas prestaciones al alcance de muchos una década antes de que surgiera el fenómeno GTI, y la doble banda blanca se transformó en un emblema. Conocido como «la Gorde», el R8 Gordini pedía habilidad al volante: resultaba eficaz, pero también exigente.
 
 |  | R8 Gordini 1964 | R8 Gordini Concept 2026 |
 |---|---|---|
@@ -48,39 +48,39 @@ El de 1964 llevaba un motor trasero de **95 CV** y propulsión trasera, y fue la
 | **Largo** | ~4,0 m | 4,12 m |
 | **Espíritu** | Escuela de pilotos | Homenaje de diseño |
 
-## La jugada: patrimonio contra la avalancha china
+## Patrimonio frente a la ofensiva china
 
-Renault no hace esto por romanticismo. Con **25 marcas chinas** exponiendo en París, la marca francesa juega su baza más difícil de copiar: **más de 60 años de historia**. La estrategia retro ya le funcionó con el R5 E-Tech, el R4 y el Twingo; el Gordini es el siguiente capítulo, el más pasional.
+Renault no busca un gesto romántico. Con 25 marcas chinas presentes en París, la firma francesa apuesta por su activo más complicado de copiar. Esa historia supera los 60 años. La línea retro ya dio resultado en el R5 E-Tech, en el R4 y en el Twingo; el Gordini abre el capítulo siguiente, el de mayor carga pasional.
 
-El concept se ha diseñado **íntegramente en Renault** (a diferencia del R17 show car, obra del diseñador Ora Ito): más de **300 bocetos** en un concurso interno de diseño. El interior sigue la filosofía **café racer** —aluminio cepillado, Alcantara, relojes circulares y un botón rojo de cronómetro—, la misma que estrenó el R5 Turbo 3E.
+El prototipo se diseñó por completo dentro de Renault —a diferencia del R17 show car, trabajo del diseñador Ora Ito— tras más de 300 bocetos presentados a un concurso interno de diseño. El habitáculo adopta la filosofía café racer: relojes circulares, aluminio cepillado, Alcantara y un pulsador rojo de cronómetro, la misma que inauguró el R5 Turbo 3E.
 
 <img src=/media/renault-8-gordini-concept-paris-2026-oficial-2.webp alt=Renault 8 Gordini Concept, interior en foto oficial de Renault>
 
-## ¿Homenaje o distracción?
+## ¿Un homenaje o una distracción?
 
-El veredicto honesto: este coche **no se va a fabricar**. Su destino es el futuro **museo Renault Collections de Flins**, cuya apertura está prevista dentro de unos 15 meses. Y quizá sea lo más inteligente: un concept así no necesita venderse, necesita **generar deseo**. La pregunta interesante es otra: ¿qué le enseña a un futuro deportivo eléctrico asequible de Renault? Que la **propulsión trasera** puede volver al segmento popular, algo que hoy casi nadie ofrece por menos de 40.000 €.
+La valoración honesta es clara: este coche no llegará a fabricarse. Su destino será el futuro museo Renault Collections de Flins, que abrirá dentro de unos 15 meses. Y quizá ahí resida lo más acertado: un prototipo así no necesita venderse, necesita despertar deseo. La cuestión interesante es otra: ¿qué puede enseñar a un próximo deportivo eléctrico asequible de Renault? Que la tracción trasera puede regresar al segmento popular; hoy casi nadie propone algo así por menos de 40.000 €.
 
-Si te gusta la filosofía, lo más parecido que puedes comprar hoy es el <a href=/coches/renault-5-turbo-3e-2026-precio-ficha-tecnica/>Renault 5 Turbo 3E</a>, y la gama eléctrica asequible la tienes en el <a href=/coches/renault-5-e-tech-40-kwh-2026-precio-ficha-tecnica/>Renault 5 E-Tech</a>. El concept comparte salón con el <a href=/blog/renault-e-space-concept-paris-2026/>Renault E-Space Concept</a>, la otra gran apuesta de la marca en París. <a href=/comparador-coches/>Compáralos con sus rivales en el comparador de coches</a>.
+Si esa filosofía te atrae, la opción más cercana que hoy está a la venta es el <a href=/coches/renault-5-turbo-3e-2026-precio-ficha-tecnica/>Renault 5 Turbo 3E</a>; la oferta eléctrica asequible está en el <a href=/coches/renault-5-e-tech-40-kwh-2026-precio-ficha-tecnica/>Renault 5 E-Tech</a>. En París comparte protagonismo con el <a href=/blog/renault-e-space-concept-paris-2026/>Renault E-Space Concept</a>, la segunda gran propuesta de la marca en París. <a href=/comparador-coches/>Compáralos con sus rivales en el comparador de coches</a>.
 
 ## Preguntas frecuentes
 
-### ¿El Renault 8 Gordini Concept llegará a producción?
-No. Renault lo presenta como ejercicio de diseño y patrimonio: su destino final es el museo Renault Collections de Flins, que abrirá en unos 15 meses.
+### ¿Se fabricará el Renault 8 Gordini Concept?
+No. Renault lo plantea como ejercicio de diseño y de patrimonio: terminará en el museo Renault Collections de Flins, con apertura prevista en unos 15 meses.
 
-### ¿Qué potencia tiene el Renault 8 Gordini Concept?
-**270 CV** eléctricos, con propulsión trasera como el original de 1964 (que tenía 95 CV de gasolina).
+### ¿Cuánta potencia entrega el concept?
+**270 CV** eléctricos, con tracción trasera, igual que el original de 1964, que montaba 95 CV de gasolina.
 
-### ¿Cuáles son las medidas del concept?
-4,12 metros de largo, 1,88 de ancho y 1,27 de alto, con llantas de 19 pulgadas delante y 20 detrás.
+### ¿Qué dimensiones tiene el prototipo?
+Sus cotas son 4,12 m de longitud, 1,88 m de anchura y 1,27 m de altura; las ruedas son de 19 pulgadas en el eje delantero y 20 en el trasero.
 
-### ¿Dónde se puede ver?
-Se expone en el **Salón del Automóvil de París** (12-18 de octubre de 2026), tras su presentación el 24 de septiembre en el Renault Carwalk.
+### ¿Dónde puede verse en directo?
+Estará expuesto en el **Salón del Automóvil de París** del 12 al 18 de octubre de 2026, después de debutar en el Renault Carwalk el 24 de septiembre.
 
-### ¿Por qué Renault rescata sus iconos?
-Es estrategia, no nostalgia: con 25 marcas chinas en París, el patrimonio es la baza más difícil de copiar. Ya funcionó con el R5, el R4 y el Twingo eléctricos.
+### ¿Por qué Renault recupera sus iconos históricos?
+Se trata de estrategia, no de nostalgia: ante 25 marcas chinas en París, el patrimonio resulta la baza más complicada de copiar. Ya dio resultado en el R5, en el R4 y en el Twingo eléctricos.
 
-### ¿Qué significa la doble franja blanca del Gordini?
-El símbolo histórico de Gordini. En el concept deja de ser decoración y pasa a ser un elemento estructural del diseño que recorre hasta el interior.
+### ¿Qué papel juega la doble banda blanca en el Gordini?
+Es el emblema histórico de Gordini. En el prototipo deja de ser un adorno y se convierte en un elemento estructural del diseño que llega hasta el habitáculo.
 
 *Fuentes: <a href=https://prensa.renault.es/?p=64172>Renault España (oficial)</a> y <a href=https://www.carwow.es/renault/noticias/8246/renault-tira-nostalgia-8-gordini-concept-electrico>Carwow</a>.*
 
@@ -232,9 +232,9 @@ No directamente: es un segmento nuevo para la Fiat actual, el C-SUV familiar, do
 ¿Te han puesto una multa? <a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
 },
 {
-  "title": "Mission Efficiency: 1.278 km con una sola recarga",
+  "title": "Volkswagen Mission Efficiency: 1.278 km sin recargar",
   "slug": "volkswagen-mission-efficiency-record-1278-km",
-  "excerpt": "El prototipo Mission Efficiency de Volkswagen recorrió 1.278 km con una sola recarga y un consumo de 6,89 kWh/100 km. Analizamos el récord y qué tecnología llegará al ID. Polo y al ID. Cross.",
+  "excerpt": "Wolfsburgo-Viena sin enchufar: el prototipo Volkswagen completó 1.278 km gastando 6,89 kWh/100 km. Qué heredarán el ID. Polo y el ID. Cross.",
   "category": "Novedades Motor",
   "date": "2026-10-12",
   "readTime": 8,
@@ -248,11 +248,11 @@ No directamente: es un segmento nuevo para la Fiat actual, el C-SUV familiar, do
   ],
   "content": `<img src=/media/volkswagen-mission-efficiency-concept-paris-2026-oficial.webp alt=Volkswagen Mission Efficiency, vista frontal en foto oficial de Volkswagen>
 
-**1.278 kilómetros con una sola recarga.** No es una promesa de laboratorio: es la distancia que el prototipo **Volkswagen Mission Efficiency** recorrió entre Wolfsburgo y Viena con un consumo real de **6,89 kWh/100 km**, muy por debajo de lo habitual en un eléctrico compacto actual. Presentado en septiembre, es la respuesta de Volkswagen a la pregunta que más hacen los conductores españoles: ¿y si el problema no fuera la batería, sino el consumo?
+**Wolfsburgo-Viena sin pasar por un cargador.** Volkswagen envió a la carretera un prototipo experimental que cubrió 1.278 kilómetros con una única carga y registró 6,89 kWh/100 km durante el trayecto. La marca alemana lo dio a conocer en septiembre y lo plantea como demostración práctica: en un compacto eléctrico, recortar el gasto energético puede importar más que agrandar el acumulador.
 
-## Los tres récords mundiales
+## Tres marcas homologadas por el instituto alemán
 
-Homologados por el instituto alemán de récords (RID) en la categoría de eléctricos de cuatro plazas cercanos a la serie:
+El instituto alemán de récords, RID, certificó los registros dentro de la categoría reservada a turismos eléctricos de cuatro plazas próximos a la producción en serie:
 
 | Récord | Cifra | Condiciones |
 |---|---|---|
@@ -260,44 +260,44 @@ Homologados por el instituto alemán de récords (RID) en la categoría de eléc
 | **Consumo ideal** | **6,48 kWh/100 km** | 68 km/h constantes, sin pendientes ni climatización |
 | **Consumo real** | **6,89 kWh/100 km** | 1.278,36 km en carretera abierta (7,51 con pérdidas de carga) |
 
-- **La ruta:** Wolfsburgo → Poznań → Olomouc → Viena, a 67,72 km/h de media (máxima de 138 km/h)
-- **La batería:** 54,9 kWh netos, una sola recarga en todo el viaje; al llegar quedaban **164 km** de autonomía
-- **El coche:** 4,8 m, plataforma **MEB+**, motor de 99 kW (**135 CV**), 4 plazas, maletero de 481 L
+- **Recorrido:** Wolfsburgo, Poznań, Olomouc y Viena, con 67,72 km/h de promedio y 138 km/h de punta
+- **Acumulador:** 54,9 kWh netos para todo el desplazamiento, con 164 km restantes al alcanzar el destino
+- **Vehículo:** 4,8 m de longitud sobre plataforma MEB+, propulsor de 99 kW (135 CV), cuatro plazas y 481 L de maletero
 - **Fuentes:** <a href=https://volkswagen-mexico.prezly.com/mission-efficiency-volkswagen-presenta-el-auto-electrico-preserie-mas-eficiente-del-mundo>Volkswagen (comunicado oficial)</a> y <a href=https://soloauto.net/volkswagen-mission-efficiency-1278-km/>soloauto.net</a>
 
-## El truco no es la batería: es el aire
+## El aire, antes que una batería mayor
 
-La batería del Mission Efficiency (54,9 kWh) es la que lleva cualquier compacto eléctrico normal. La diferencia está en la **aerodinámica**: carrocería con forma de lágrima, superficie frontal de solo **2,08 m²**, bajos carenados, ruedas traseras revestidas y hasta **paneles solares de 370 W** en techo y portón (hasta 30 km extra al día, según la prensa especializada).
+El acumulador de 54,9 kWh coincide con el de un compacto eléctrico corriente. Lo distinto reside en la forma: silueta en lágrima, frontal de 2,08 m² con bajos carenados y ruedas traseras revestidas, además de paneles solares de 370 W sobre techo y portón, capaces de sumar hasta 30 km diarios según publicaciones especializadas.
 
 <img src=/media/volkswagen-mission-efficiency-concept-paris-2026-oficial-2.webp alt=Volkswagen Mission Efficiency en foto oficial de Volkswagen>
 
-## Traducido a España: Madrid–Barcelona sin parar
+## Qué supone eso en un Madrid-Barcelona
 
-Hagamos las cuentas con los datos oficiales: con 6,89 kWh/100 km y 54,9 kWh útiles, la autonomía teórica ronda los **797 km** (cálculo propio). El trayecto **Madrid–Barcelona** (unos 620 km) se haría **de una tacada, sin cargar**. Y eso con una batería pequeña: la conclusión de Volkswagen es que la eficiencia abarata el coche eléctrico más que agrandar la batería.
+Aplicando las cifras oficiales, 6,89 kWh/100 km junto a 54,9 kWh útiles arrojan una autonomía teórica cercana a 797 km (cálculo propio). Un recorrido Madrid-Barcelona de unos 620 km quedaría cubierto de una tacada, sin detenerse a cargar. La lectura de Volkswagen apunta en esa dirección: mejorar la eficiencia abarata el eléctrico más que instalar un acumulador mayor.
 
-## ¿Qué llegará a los concesionarios?
+## Del prototipo a los modelos de serie
 
-El Mission Efficiency es un **prototipo** y no se va a vender. Pero su tecnología no es ciencia ficción: usa el motor de 99 kW y la plataforma **MEB+ de tracción delantera** que estrenan el <a href=/coches/volkswagen-id-polo-2026-precio-ficha-tecnica/>Volkswagen ID. Polo</a> y el futuro ID. Cross, y que comparte filosofía con el <a href=/coches/volkswagen-id3-2026-precio-ficha-tecnica/>ID.3</a>. Es decir, parte de esta eficiencia —sobre todo la gestión térmica y la aerodinámica— acabará en los eléctricos asequibles de la marca. El <a href=/blog/volkswagen-id-tiguan-2027/>próximo ID. Tiguan</a> también beberá de aquí. <a href=/comparador-coches/>Compáralos en el comparador de coches</a>.
+Nadie podrá comprar el Mission Efficiency, porque se trata de un prototipo demostrativo. Su herencia, en cambio, resulta tangible: comparte propulsor de 99 kW y plataforma MEB+ de tracción delantera con el <a href=/coches/volkswagen-id-polo-2026-precio-ficha-tecnica/>Volkswagen ID. Polo</a> y con el futuro ID. Cross, una filosofía cercana a la del <a href=/coches/volkswagen-id3-2026-precio-ficha-tecnica/>ID.3</a>. Buena parte de esa eficiencia, sobre todo gestión térmica y aerodinámica, terminará en los eléctricos asequibles de la marca, y el <a href=/blog/volkswagen-id-tiguan-2027/>próximo ID. Tiguan</a> también se nutrirá de este trabajo. <a href=/comparador-coches/>Compáralos en el comparador de coches</a>. Esa comparativa ayuda a situar cada modelo en su rango.
 
 ## Preguntas frecuentes
 
-### ¿Se va a vender el Volkswagen Mission Efficiency?
-No: es un prototipo de demostración tecnológica. Su misión es probar soluciones que luego bajarán a los modelos de serie.
+### ¿Llegará el Mission Efficiency a la venta?
+No. Volkswagen lo concibió como ejercicio de demostración tecnológica, destinado a ensayar soluciones que después pasarán a los modelos de serie.
 
-### ¿Cuánto consumió realmente en el viaje a Viena?
-**6,89 kWh/100 km** sin contar pérdidas de carga (7,51 con pérdidas), en 1.278,36 km de carretera real a 67,72 km/h de media.
+### ¿Qué gasto registró en la ruta hacia Viena?
+**6,89 kWh/100 km** sin incluir pérdidas de carga (7,51 con pérdidas), durante 1.278,36 km por vías abiertas, a 67,72 km/h de promedio.
 
-### ¿Qué autonomía le daría esa eficiencia a un coche normal?
-Con su batería de 54,9 kWh, unos **797 km** teóricos (cálculo propio con los datos oficiales). Un Madrid–Barcelona (620 km) se haría sin parar a cargar.
+### ¿Cuántos kilómetros permitiría esa eficiencia con su batería?
+Con 54,9 kWh, alrededor de 797 km teóricos (cálculo propio a partir de las cifras oficiales). Un Madrid-Barcelona de 620 km quedaría cubierto sin detenerse a cargar.
 
-### ¿Qué significa un Cx de 0,158?
-El coeficiente aerodinámico mide la resistencia al aire: cuanto más bajo, menos energía se necesita para avanzar. 0,158 es **récord mundial** en un coche homologado para circular.
+### ¿Qué indica el Cx 0,158?
+El coeficiente aerodinámico expresa la resistencia al avance: cuanto menor sea, menos energía exige desplazarse. Un valor de 0,158 supone récord mundial entre turismos homologados para circular.
 
-### ¿Qué modelos heredarán esta tecnología?
-Los basados en la plataforma **MEB+** de tracción delantera: el ID. Polo, el futuro ID. Cross y, en parte, el próximo ID. Tiguan.
+### ¿Qué modelos aprovecharán esta tecnología?
+Los que empleen la arquitectura MEB+ de tracción delantera: ID. Polo, futuro ID. Cross y, en parte, próximo ID. Tiguan.
 
-### ¿Cuándo se presentó el Mission Efficiency?
-Volkswagen lo presentó en septiembre de 2026, con los tres récords homologados por el instituto alemán RID.
+### ¿Cuándo dio a conocer Volkswagen el Mission Efficiency?
+La marca lo dio a conocer en septiembre de 2026, con los tres registros homologados por el instituto alemán RID.
 
 *Fuentes: <a href=https://volkswagen-mexico.prezly.com/mission-efficiency-volkswagen-presenta-el-auto-electrico-preserie-mas-eficiente-del-mundo>Volkswagen (oficial)</a>, <a href=https://soloauto.net/volkswagen-mission-efficiency-1278-km/>soloauto.net</a>.*
 

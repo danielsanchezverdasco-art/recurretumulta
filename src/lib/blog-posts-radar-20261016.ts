@@ -348,9 +348,9 @@ Del 10 al 80 % en **21 minutos** a 400 kW, recuperando 387 km de autonomía en 1
   },
   {
     slug: "xpeng-l03-2026-precio-espana",
-    title: "¿Cuánto cuesta el XPeng L03? 37.500 €, 1.017 km y 242 CV",
+    title: "XPeng L03: 37.500 €, 1.017 km y 242 CV en España",
     excerpt:
-      "El XPeng L03 abre pedidos en España desde 37.500 €: SUV de autonomía extendida con 215 km eléctricos, 1.017 km combinados y 242 CV. Llega en diciembre.",
+      "El L03 PowerX Long Range abre pedidos en España desde 37.500 €, con 215 km eléctricos, 1.017 km combinados y 242 CV; entregas en diciembre de 2026.",
     category: "Novedades Motor",
     date: "2026-10-16",
     readTime: 6,
@@ -367,11 +367,11 @@ Del 10 al 80 % en **21 minutos** a 400 kW, recuperando 387 km de autonomía en 1
 
 *Foto: sparneuwagen.de (cobertura de la presentación europea del L03). Licencia desconocida.*
 
-XPeng ha abierto oficialmente los pedidos en España del **L03 PowerX Long Range**, su nuevo SUV coupé de autonomía extendida (REEV). Las primeras unidades llegarán en **diciembre de 2026** con un precio que parte de **37.500 €** con campañas y ayudas. Es la primera versión con extensor de autonomía que la marca china vende en nuestro país.
+La marca china XPeng ya admite pedidos del **L03 PowerX Long Range** en España, un SUV coupé con autonomía extendida (REEV). El inicio de las entregas queda fijado en **diciembre de 2026**, con un precio de partida de **37.500 €** con campañas y ayudas. Se trata de la primera variante con extensor de autonomía que la marca vende en España.
 
 **Ficha completa del modelo:** <a href=/coches/xpeng-l03-2026-precio-espana>XPeng L03 PowerX — ficha técnica, precio y autonomía</a>
 
-## XPeng L03 PowerX Long Range: ficha técnica
+## L03 PowerX Long Range: datos técnicos
 
 | Dato | Valor |
 |---|---|
@@ -388,34 +388,34 @@ XPeng ha abierto oficialmente los pedidos en España del **L03 PowerX Long Range
 | **Medidas** | 4,65 × 1,92 × 1,60 m |
 | **Etiqueta DGT** | Cero |
 
-## Cómo funciona: el extensor de autonomía Kunpeng
+## Kunpeng: así trabaja el extensor de autonomía
 
-A diferencia de un híbrido enchufable convencional, en el L03 **las ruedas las mueve siempre el motor eléctrico**. El bloque 1.5 de gasolina no está conectado a la transmisión: actúa solo como generador para producir electricidad cuando la batería lo necesita. El sistema se llama **Kunpeng Range Extender**.
+Frente a un híbrido enchufable convencional, en el L03 **siempre es el motor eléctrico quien mueve las ruedas**. El bloque 1.5 de gasolina carece de conexión con la transmisión: trabaja únicamente como generador y produce electricidad cuando la batería hace falta. El sistema recibe el nombre de **Kunpeng Range Extender**.
 
-El resultado es una conducción 100 % eléctrica en el día a día (215 km sin gastar una gota de gasolina) y 1.017 km combinados para viajar sin depender de los cargadores. La batería LFP de 37,25 kWh es mucho mayor que la de un PHEV típico y admite 123 kW en continua, así que un viaje largo se plantea igual que con un eléctrico: parar unos 20 minutos y recuperar del 10 al 80 %.
+El resultado: 215 km de conducción 100 % eléctrica en el uso diario y un alcance combinado de 1.017 km que permite viajar sin depender de cargadores públicos. La batería LFP de 37,25 kWh supera con mucho la de un PHEV típico y acepta 123 kW en continua; en ruta, una parada cercana a 20 minutos devuelve la carga del 10 al 80 %.
 
 <img src=/media/xpeng-l03-2026-precio-espana-interior.webp alt=Interior del XPeng L03: volante con logo XPeng, pantalla central de 15,6 pulgadas y cuadro digital>
 
 *Foto: headlightmag.com (presentación del L03 en Tailandia). Licencia desconocida.*
 
-## Diseño español y digitalización total
+## Vital Flow, 0,228 y pantalla de 15,6 pulgadas
 
-El L03 sigue el lenguaje «Vital Flow» de XPeng y presume de un coeficiente aerodinámico de solo **0,228**, de los más bajos de su segmento. El responsable del diseño es **JuanMa López**, español y ex-jefe de diseño de Ferrari. Dentro, todo gira en torno a la pantalla central de **15,6 pulgadas**, acompañada de un cuadro digital de 8,88 pulgadas y head-up display. El sistema integra los servicios de Google Maps de forma nativa, sin necesidad de duplicar el móvil.
+El L03 adopta el lenguaje «Vital Flow» de XPeng y anuncia un coeficiente aerodinámico de **0,228**, entre los más bajos de su segmento. El diseño corre a cargo de **JuanMa López**, español que dirigió el diseño de Ferrari. Dentro, todo se organiza alrededor de la pantalla central de **15,6 pulgadas**, junto a un cuadro digital de 8,88 pulgadas, además de head-up display. El sistema incorpora Google Maps de forma nativa, sin recurrir al espejo del móvil.
 
-## Precio y condiciones en España
+## 37.500 € con campañas, financiación y Plan Auto+
 
-El precio anunciado, **desde 37.500 €**, corresponde a la versión PowerX Long Range e incluye campañas de lanzamiento, financiación y el adelanto de 1.800 € del Plan Auto+. No incluye los gastos de matriculación y entrega, y la promoción está vigente hasta el 31 de octubre de 2026 según la red comercial. A lo largo de 2027 llegarán las versiones 100 % eléctricas y las denominadas Ultra, todavía sin precio anunciado.
+Ese importe aplica a la versión PowerX Long Range y suma campañas de lanzamiento, además de financiación y del adelanto de 1.800 € del Plan Auto+. Quedan fuera los gastos de matriculación y entrega; la promoción sigue vigente, según la red comercial, hasta el 31 de octubre de 2026. En 2027 se sumarán variantes 100 % eléctricas y Ultra, todavía sin precio anunciado.
 
-## XPeng L03 frente al XPeng G6
+## L03 frente al G6: extensor contra eléctrico puro
 
 | Modelo | Precio desde | Sistema | Autonomía | Potencia | Maletero |
 |---|---|---|---|---|---|
 | **L03 PowerX** | **37.500 €** | Autonomía extendida | 215 km eléctr. / 1.017 km comb. | 242 CV | 367 L |
 | <a href=/coches/xpeng-g6-2026-restyling-precio-espana>XPeng G6 2026</a> | 43.083 € | Eléctrico | 455 km | 252 CV | 571 L |
 
-El L03 cuesta unos 5.500 € menos que el G6 y añade la tranquilidad del extensor para los viajes largos; el G6, puramente eléctrico, responde con más maletero y carga ultrarrápida de 382 kW.
+El L03 sale unos 5.500 € por debajo del G6 y suma la tranquilidad del extensor en viajes largos; el G6, solo eléctrico, contesta con más maletero y una carga ultrarrápida de 382 kW.
 
-## Calendario del XPeng L03
+## Fechas del L03 en España
 
 | Fecha | Hito |
 |---|---|
@@ -426,29 +426,29 @@ El L03 cuesta unos 5.500 € menos que el G6 y añade la tranquilidad del extens
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el XPeng L03 en España?
+### ¿Qué precio tiene el L03 en España?
 
-Parte de **37.500 €** en la versión PowerX Long Range, con campañas de lanzamiento, financiación y el adelanto de 1.800 € del Plan Auto+. El precio no incluye los gastos de matriculación y entrega.
+Arranca en **37.500 €** para la PowerX Long Range, con campañas de lanzamiento, además de financiación y del adelanto de 1.800 € del Plan Auto+. Los gastos de matriculación y entrega quedan fuera de ese importe.
 
-### ¿Qué autonomía tiene el XPeng L03?
+### ¿Cuánta autonomía ofrece el L03?
 
-**215 km en modo 100 % eléctrico** y **1.017 km combinados** (WLTP), gracias al extensor de autonomía: un motor 1.5 de gasolina que genera electricidad para la batería de 37,25 kWh.
+En modo 100 % eléctrico recorre **215 km**, y **1.017 km combinados** (WLTP): el extensor, un motor 1.5 de gasolina, genera electricidad destinada a la batería de 37,25 kWh.
 
-### ¿El XPeng L03 es un híbrido enchufable?
+### ¿Se trata de un híbrido enchufable?
 
-No exactamente: es un **REEV** (vehículo eléctrico de autonomía extendida). Las ruedas las mueve siempre el motor eléctrico de 242 CV; el motor de gasolina solo recarga la batería y nunca tracciona.
+No: se clasifica como **REEV** (vehículo eléctrico de autonomía extendida). Siempre es el motor eléctrico de 242 CV quien mueve las ruedas; el de gasolina únicamente devuelve carga a la batería y nunca tracciona.
 
-### ¿Cuándo llega el XPeng L03 a España?
+### ¿Cuándo empiezan las entregas en España?
 
-Los pedidos ya están abiertos y las **primeras entregas están previstas para diciembre de 2026**. En 2027 se sumarán las versiones totalmente eléctricas y las Ultra.
+Los pedidos ya están abiertos y el inicio de las entregas queda fijado en **diciembre de 2026**. En 2027 se sumarán variantes totalmente eléctricas y Ultra.
 
-### ¿El XPeng L03 tiene etiqueta Cero de la DGT?
+### ¿Le corresponde la etiqueta Cero de la DGT?
 
-Sí. Con 215 km de autonomía eléctrica supera ampliamente los 40 km mínimos exigidos, así que le corresponde la **etiqueta Cero**.
+Sí. Sus 215 km de autonomía eléctrica rebasan con holgura el mínimo exigido de 40 km, así que le corresponde la **etiqueta Cero**.
 
-### ¿El XPeng L03 tiene prueba EuroNCAP?
+### ¿Existe ya una prueba Euro NCAP del L03?
 
-De momento **no hay ninguna prueba EuroNCAP publicada** del L03. Otros XPeng europeos como el G9 sí tienen 5 estrellas, pero del L03 aún no hay datos: actualizaremos la ficha en cuanto se publiquen.
+Por ahora **no existe ninguna prueba Euro NCAP publicada** del L03. Otros XPeng vendidos en Europa, como el G9, cuentan con 5 estrellas, pero del L03 todavía no hay datos: actualizaremos la ficha cuando se publiquen.
 
 **¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.
 

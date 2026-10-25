@@ -1066,9 +1066,9 @@ Si lo encuentras por ~430 € con envío UE y buscas ligereza, sí. Si el precio
   // ─────────────────────────── EVERCROSS (7) ───────────────────────────
   {
     slug: "evercross-h5",
-    title: "Evercross H5: 800 W con sillín por 490 €",
+    title: "Evercross H5: patinete con asiento por unos 490 €",
     excerpt:
-      "El Evercross H5 es el 'cicloscooter' de la marca: 800 W, batería de 480 Wh, sillín desmontable y 150 kg de carga por ~490 €.",
+      "Patinete con asiento extraíble, motor de 800 W y 480 Wh que admite 150 kg: alcance efectivo cercano a 27 km por alrededor de 490 €.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -1087,9 +1087,9 @@ Si lo encuentras por ~430 € con envío UE y buscas ligereza, sí. Si el precio
 
 **¿Buscas solo los datos?** <a href=/patinetes/evercross-h5/>Ver ficha técnica del Evercross H5</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **Evercross H5** juega en la liga de los patinetes con sillín: **800 W** de pico, batería de **48 V y 10 Ah (480 Wh)**, **sillín desmontable** con amortiguación y **150 kg** de carga máxima, por **~490 €** (<a href=https://www.levyelectric.com/resources/evercross-electric-scooter-complete-guide-app-setup-review>Levy Electric</a> lo compara con toda la gama).
+Con un propulsor que entrega 800 W en su punto máximo, un acumulador de 48 V y 10 Ah que suma 480 Wh, un asiento extraíble dotado de suspensión y una capacidad admitida de 150 kg, el Evercross H5 se vende alrededor de 490 €; la guía de <a href=https://www.levyelectric.com/resources/evercross-electric-scooter-complete-guide-app-setup-review>Levy Electric</a> repasa el catálogo completo de la marca.
 
-## Ficha técnica resumida
+## Datos clave en resumen
 
 | Dato | Valor |
 |---|---|
@@ -1106,25 +1106,25 @@ El **Evercross H5** juega en la liga de los patinetes con sillín: **800 W** de 
 
 ¿Quieres el detalle completo? <a href=/patinetes/evercross-h5/>Ficha técnica completa del Evercross H5</a> con todos los datos verificados.
 
-## Precio del Evercross H5 en España
+## Cuánto cuesta en España
 
-Unos **490 €** al cambio (529 $) en Amazon. El sillín y los 150 kg de carga lo ponen en el punto de mira de riders grandes que no quieren gastarse 800 €.
+En Amazon se anuncia alrededor de 490 €, equivalentes a 529 $ según el cambio. El asiento extraíble y el tope admitido de 150 kg resultan atractivos para conductores corpulentos que prefieren no desembolsar 800 €.
 
 <img src=/media/patinetes/evercross-h5-2.webp alt=Detalle del sillín desmontable del Evercross H5>
 
-## Autonomía real vs declarada
+## Alcance declarado frente al efectivo
 
-Con 480 Wh y 800 W de pico, los 40 km declarados se quedan en **unos 27 km** reales a ritmo normal. El modo sentado ahorra algo de energía frente a ir de pie contra el viento.
+Los 40 km homologados se reducen a cerca de 27 km cuando se circula a velocidad corriente, porque el conjunto de 480 Wh alimenta un motor de 800 W en punta. Circular sentado gasta menos que hacerlo erguido con aire en contra.
 
-## Frenos y neumáticos
+## Frenada y ruedas
 
-**Doble freno de disco** e **intermitentes**: equipamiento serio. Las ruedas **macizas de 10 pulgadas** eliminan pinchazos pero rebotan en firme roto; el sillín con amortiguación compensa parte.
+El equipo de frenada combina dos discos, y los indicadores de giro vienen de serie. Los neumáticos rígidos de 10 pulgadas no se pinchan, aunque transmiten más los baches; la suspensión del asiento atenúa una parte de ese traqueteo.
 
-## Certificado DGT y normativa VMP
+## Certificación DGT y reglas VMP
 
-Sin certificado DGT verificado. Sus **~45 km/h** lo excluyen del VMP legal: **hay que limitarlo a 25 km/h**, y ni así debe pisar la **acera**.
+No consta un certificado DGT comprobado para este modelo. Al declarar cerca de 45 km/h queda fuera de la categoría legal de VMP, de modo que exige una limitación electrónica a 25 km/h, y aun con ese ajuste queda prohibido circular por la acera.
 
-## Puntos fuertes y débiles
+## Ventajas e inconvenientes
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -1136,52 +1136,52 @@ Sin certificado DGT verificado. Sus **~45 km/h** lo excluyen del VMP legal: **ha
 
 <img src=/media/patinetes/evercross-h5-3.webp alt=Evercross H5 con sillín en un camino urbano>
 
-## Sentado o de pie: el sillín lo cambia todo
+## El asiento cambia la forma de viajar
 
-La mayoría de patinetes obligan a ir de pie, y ahí el H5 juega otra partida. Su **sillín desmontable con amortiguación** transforma trayectos de 8-10 km en algo asumible para espalda y piernas, y su **carga máxima de 150 kg** abre la puerta a riders que la mayoría de modelos dejan fuera por límite de peso. De pie, el comportamiento es el de un patinete potente más; sentado, se acerca a una minimoto urbana de baja velocidad.
+Mientras casi todos los patinetes exigen mantenerse erguido, este modelo ofrece otra postura. Su asiento extraíble con suspensión hace llevaderos los recorridos de 8 a 10 km para la espalda y las piernas, y el límite admitido de 150 kg incluye a usuarios que otros modelos excluyen por peso. Erguido se comporta como un patinete enérgico más; con el asiento puesto recuerda a una minimoto urbana de velocidad reducida.
 
-## Frente a su hermano mayor, el Evercross H7
+## Comparación con el Evercross H7
 
 | Modelo | Batería | Autonomía declarada | Peso |
 |---|---|---|---|
 | Evercross H5 | 480 Wh | ≈40 km | ≈23,6 kg |
 | Evercross H7 | 720 Wh | 45 km | 25 kg |
 
-El propio análisis original lo resume: por unos 60 € más, el H7 suma batería (720 Wh) y certificación UL2272. En la <a href=/patinetes/evercross-h7/>ficha del Evercross H7</a> constan sus 45 km declarados y 25 kg. La elección es sencilla: si tus rutas rondan los 15 km reales, el H5 basta; si te acercas a su techo de autonomía a diario, el hermano mayor amortiza la diferencia.
+El sobreprecio ronda los 60 €, y a cambio el H7 incorpora un acumulador de 720 Wh junto con la certificación UL2272. La <a href=/patinetes/evercross-h7/>ficha del Evercross H7</a> recoge sus 45 km declarados y sus 25 kg. Cuando los desplazamientos habituales quedan cerca de 15 km efectivos, el H5 cubre la necesidad; cuando el uso diario roza el máximo alcance, el modelo superior compensa el desembolso extra.
 
-## Normativa VMP: lo que debes saber antes de rodar
+## Reglas VMP antes de rodar
 
-El H5 declara unos **45 km/h**, y eso lo sitúa fuera de la definición legal de VMP, limitada a **25 km/h**. Para circular por vías urbanas españolas hay que limitarlo electrónicamente a esa velocidad; ni siquiera limitado puede pisar aceras ni zonas peatonales. Además, la DGT exige **certificado de circulación** a los vehículos de movilidad personal comercializados desde enero de 2024, un requisito que este modelo no acredita según la ficha, y las ordenanzas municipales pueden añadir obligaciones como el casco. La <a href=https://www.dgt.es>Dirección General de Tráfico</a> publica la normativa vigente de VMP que conviene consultar antes de comprar.
+Este modelo anuncia alrededor de 45 km/h, cifra que lo deja al margen de la definición legal de VMP, cuyo tope es 25 km/h. Rodar por calles españolas requiere un tope electrónico ajustado a ese valor; incluso con ese tope, las aceras y las áreas peatonales quedan vetadas. Desde enero de 2024, la DGT pide un certificado de circulación para los vehículos de movilidad personal puestos a la venta, documento que esta ficha no acredita para el H5, mientras los ayuntamientos pueden imponer deberes adicionales, entre ellos usar casco. La <a href=https://www.dgt.es>Dirección General de Tráfico</a> difunde la regulación actual de VMP y conviene revisarla antes de adquirirlo.
 
-## Mantenimiento: sencillo, con dos puntos de control
+## Cuidarlo sin complicaciones: dos revisiones clave
 
-Las **ruedas macizas de 10 pulgadas** eliminan pinchazos y revisiones de presión, a cambio de filtrar peor el firme. La batería de 480 Wh agradece cargas parciales frecuentes y evitar descargas completas prolongadas. El doble freno de disco pide vigilar pastillas si se usa el modo sentado con carga elevada, porque el conjunto pesa más que un patinete al uso.
+Los neumáticos rígidos de 10 pulgadas suprimen los pinchazos y el control de presiones, a cambio de absorber peor las irregularidades. El acumulador de 480 Wh responde mejor a recargas parciales habituales y a no pasar temporadas largas completamente descargado. Los dos discos de freno obligan a revisar las pastillas cuando se viaja sentado con mucho peso encima, porque el conjunto supera el peso de un patinete corriente.
 
-**Veredicto:** el H5 merece la pena para riders corpulentos o con trayectos medios que valoran el sillín y los **800 W** por unos **490 €**; no es recomendable si necesitas subirlo a un piso a pulso (23,6 kg) o si buscas un VMP certificado sin trámites. 
+**Veredicto:** el H5 encaja para usuarios corpulentos o con recorridos medios que priorizan el asiento y los 800 W por cerca de 490 €; resulta poco aconsejable si hay que subirlo a mano hasta un piso (23,6 kg) o si se busca un VMP certificado sin gestiones.
 
-## Cargar sus 480 Wh: rutinas que alargan la batería
+## Rutinas de carga para los 480 Wh
 
-Una batería de **480 Wh** con el cargador de serie se llena en una sesión de varias horas, típicamente aprovechando la noche, y ese ritmo pausado es también el más amable para las celdas. Dos hábitos marcan la diferencia a largo plazo: no guardar el patinete semanas enteras con la batería agotada y evitar dejarlo enchufado de forma permanente tras completar la carga. Si el H5 va a dormir una temporada, lo ideal es aparcarlo con la carga en torno a la mitad y revisar el nivel cada mes y medio aproximadamente, recargando un poco si ha caído. La app, además del bloqueo y el control de crucero que cita la ficha, permite vigilar el estado de carga sin bajar al garaje.
+Con el cargador incluido, el acumulador de 480 Wh completa su carga en varias horas, normalmente durante la noche, y ese ritmo lento también cuida las celdas. Dos costumbres protegen la vida útil: no almacenar el patinete semanas seguidas con el acumulador vacío y no mantenerlo conectado sin interrupción una vez terminada la carga. Si el H5 queda parado una temporada, conviene guardarlo con el nivel cercano a la mitad y comprobarlo cada mes y medio más o menos, con una recarga breve si ha bajado. La app, junto al bloqueo y al control de crucero que recoge la ficha, deja consultar el nivel sin bajar al garaje.
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuánto cuesta el Evercross H5?
-Unos **490 €** al cambio en Amazon.
+### ¿Qué precio tiene el Evercross H5?
+Alrededor de 490 € en Amazon, según el cambio aplicado.
 
-### ¿El sillín se quita?
-Sí: es **desmontable** y se usa de pie o sentado.
+### ¿Se puede retirar el sillín?
+Sí: se retira y deja circular erguido o con el asiento puesto.
 
-### ¿Qué autonomía real tiene?
-Unos **27 km** en uso normal.
+### ¿Cuál es su alcance efectivo?
+Cerca de 27 km en circulación corriente.
 
-### ¿Es legal en España?
-Solo **limitado a 25 km/h**.
+### ¿Puede circular legalmente en España?
+Únicamente con la limitación electrónica a 25 km/h.
 
-### ¿Aguanta 150 kg?
-Esa es su carga máxima declarada: es de los pocos que la anuncian.
+### ¿Soporta 150 kg?
+Sí: 150 kg figuran como su tope admitido, una cifra que pocos modelos declaran.
 
-### ¿Merece la pena frente al H7?
-El H7 tiene más batería (720 Wh) y certificación UL2272 por ~60 € más. Si el presupuesto lo permite, el H7 compensa.
+### ¿Conviene más el H7?
+El H7 ofrece un acumulador mayor (720 Wh) y la certificación UL2272 por unos 60 € extra. Cuando el presupuesto alcanza, el modelo superior sale a cuenta.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
@@ -3199,9 +3199,9 @@ El Ey! 1 tiene más pico (1.512 W) y más rango (65 km); el Ey! 6 cuesta 500 €
   },
   {
     slug: "egret-ey-2",
-    title: "Egret Ey! 2: triple freno por 899 €",
+    title: "Egret Ey! 2: 500 W y triple freno por 899 €",
     excerpt:
-      "El Egret Ey! 2 es el equilibrado de la familia: 500 W, 446 Wh, 45 km declarados y triple sistema de frenado por 899 €.",
+      "Equilibrio dentro de la gama Ey!: el Egret Ey! 2 combina 500 W, 446 Wh y 45 km declarados con frenada triple, a cambio de 899 €.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -3220,9 +3220,9 @@ El Ey! 1 tiene más pico (1.512 W) y más rango (65 km); el Ey! 6 cuesta 500 €
 
 **¿Buscas solo los datos?** <a href=/patinetes/egret-ey-2/>Ver ficha técnica del Egret Ey! 2</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **Egret Ey! 2** es el todoterreno razonable de la familia: **500 W** (1.188 W de pico), batería de **446 Wh** (47,45 V y 9,4 Ah), **45 km** declarados y **triple freno** (tambor + disco + motor), por **899 €** (<a href=https://www.maxblinker.com/en/electric-scooters/egret-ey-2-de-street-legal>Maxblinker</a>).
+Dentro de la gama, el Egret Ey! 2 ocupa el puesto sensato: entrega 500 W (1.188 W de pico), almacena 446 Wh repartidos en 47,45 V y 9,4 Ah, anuncia 45 km y frena con tres sistemas (tambor, disco y motor), por 899 € (<a href=https://www.maxblinker.com/en/electric-scooters/egret-ey-2-de-street-legal>Maxblinker</a>).
 
-## Ficha técnica resumida
+## Datos esenciales en una tabla
 
 | Dato | Valor |
 |---|---|
@@ -3238,25 +3238,25 @@ El **Egret Ey! 2** es el todoterreno razonable de la familia: **500 W** (1.188 W
 
 ¿Quieres el detalle completo? <a href=/patinetes/egret-ey-2/>Ficha técnica completa del Egret Ey! 2</a> con todos los datos verificados.
 
-## Precio del Egret Ey! 2 en España
+## Precio en España del Ey! 2
 
-**899 €** con IVA. El punto medio de la familia: 400 € menos que el Ey! 1 con el 70 % de sus virtudes.
+El precio queda en **899 €** con IVA. Dentro de la gama ocupa el escalón intermedio: cuesta 400 € menos que el Ey! 1 y conserva el 70 % de sus virtudes.
 
 <img src=/media/patinetes/egret-ey-2-2.webp alt=Detalle del motor trasero del Egret Ey! 2>
 
-## Autonomía real vs declarada
+## Autonomía anunciada frente a la real
 
-Declara **45 km**; en uso mixto calcula **unos 30 km**. El **motor trasero** da tracción silenciosa y el freno regenerativo recupera energía en cada frenada.
+La cifra anunciada es **45 km**; para uso mixto conviene contar con **unos 30 km**. El propulsor trasero mueve el patinete en silencio y la frenada regenerativa devuelve energía en cada frenada.
 
-## Frenos y neumáticos
+## Frenada triple y ruedas autosellantes
 
-**Tambor + disco + freno motor**: triple sistema, lo máximo en seguridad urbana. Los **tubeless de 10 pulgadas con gel autosellante** se reparan solos ante pinchazos pequeños.
+Combina tambor, disco y freno motor: un sistema triple que sitúa la seguridad urbana en lo más alto. Las ruedas tubeless de 10 pulgadas, con gel autosellante, cierran solas los pinchazos pequeños.
 
-## Certificado DGT y normativa VMP
+## Homologación alemana y reglas VMP en España
 
-Sin certificado DGT español verificado; homologado en Alemania a **20 km/h**. En España, VMP legal respetando **25 km/h** y sin **aceras**.
+No consta un certificado DGT español verificado; la homologación alemana lo limita a **20 km/h**. En España puede circular como VMP, con 25 km/h de tope y fuera de aceras.
 
-## Puntos fuertes y débiles
+## Ventajas e inconvenientes a simple vista
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -3268,11 +3268,11 @@ Sin certificado DGT español verificado; homologado en Alemania a **20 km/h**. E
 
 <img src=/media/patinetes/egret-ey-2-3.webp alt=Egret Ey! 2 en un carril bici>
 
-## Egret: diseño alemán de Hamburgo desde 2012
+## Origen alemán: Hamburgo y la marca Egret
 
-Egret es la marca premium de Walberg Urban Electrics, empresa de Hamburgo que desarrolla sus patinetes en Alemania desde 2012 y que se ha posicionado en el extremo opuesto al patinete barato de plataforma: diseño cuidado, componentes propios y homologación alemana como seña de identidad. La familia Ey! es su línea accesible, y el Ey! 2 su propuesta de equilibrio: mantiene el triple freno y las ruedas autosellantes de la casa, con un motor de 500 W y 446 Wh por 899 €. En la <a href=https://my-egret.com/e-models/egret-gt/>web oficial de Egret</a> se aprecia la filosofía de la marca: autonomías medidas con protocolos declarados y garantía de batería con ciclos y capacidad residual definidos, algo poco habitual en el sector.
+Egret pertenece a Walberg Urban Electrics, compañía de Hamburgo que diseña en Alemania sus patinetes desde 2012 y que se sitúa en el extremo contrario al patinete barato de plataforma: cuidado por el diseño, componentes de desarrollo propio y homologación alemana como seña distintiva. La línea Ey! representa su gama accesible, y el Ey! 2 su propuesta equilibrada: conserva la frenada triple y sus ruedas autosellantes, con 500 W de motor y 446 Wh, a 899 €. La <a href=https://my-egret.com/e-models/egret-gt/>web oficial de Egret</a> muestra esa filosofía: rangos medidos según protocolos declarados y una garantía de batería que especifica ciclos y capacidad residual, algo poco habitual en el sector.
 
-## Técnica a fondo: seguridad por encima de prestaciones
+## Seguridad antes que cifras brutas
 
 | Concepto | Dato del Ey! 2 |
 |---|---|
@@ -3284,39 +3284,39 @@ Egret es la marca premium de Walberg Urban Electrics, empresa de Hamburgo que de
 | Ruedas | 10 pulgadas tubeless autosellantes |
 | Carga | 7-8 horas |
 
-El Ey! 2 no compite en cifras brutas: compite en cómo frena y en cómo envejece. El triple sistema de frenado (tambor, disco y freno motor regenerativo) es lo máximo que ofrece el segmento urbano, y los neumáticos tubeless con gel sellan solos la mayoría de pinchazos, el gran enemigo del usuario diario. El motor trasero empuja con silencio y la electrónica recupera energía en cada frenada. Sus límites están claros en la ficha: 20 km/h en la versión homologada en Alemania y una carga completa de 7-8 horas que obliga a planificar.
+El Ey! 2 no busca ganar por cifras brutas: gana por cómo frena y por cómo envejece. Su frenada triple (tambor, disco y freno motor regenerativo) representa lo máximo del segmento urbano; sus neumáticos tubeless con gel cierran solos la mayoría de pinchazos, el principal problema del conductor diario. El propulsor trasero empuja en silencio y la electrónica devuelve energía en cada frenada. Sus límites aparecen claros al revisar la ficha: 20 km/h para la versión homologada en Alemania y una recarga completa de 7-8 horas que exige planificar.
 
-## Uso real: el patinete de diario del usuario prudente
+## Para quién encaja en el día a día
 
-Para commuting urbano de hasta unos 25-30 km diarios, el Ey! 2 cumple con margen y con una sensación de solidez que los patinetes de 400 € no dan. Es un producto pensado para durar y para un usuario que valora frenar bien y no pinchar más que llegar antes. A cambio, quien venga de patinetes de 25 km/h notará la versión alemana limitada a 20 km/h, y quien necesite cargar a mediodía para la vuelta encontrará larga la espera de 7-8 horas. Tampoco consta un peso oficial claro en su ficha, un dato a exigir al vendedor si vas a subirlo a pulso a diario.
+Para trayectos urbanos de hasta 25-30 km al día, el Ey! 2 responde con margen y transmite una solidez que los patinetes de 400 € no ofrecen. Se trata de un producto pensado para durar, dirigido a quien valora frenar bien y evitar pinchazos por encima de llegar antes. A cambio, quien llegue desde otros patinetes de 25 km/h percibirá el límite alemán de 20 km/h; quien necesite cargar a mediodía para regresar encontrará larga una espera de 7-8 horas. Tampoco figura en su ficha un peso oficial claro, un dato que conviene exigir al vendedor si piensas subirlo a pulso a diario.
 
-## Mantenimiento, costes y normativa VMP
+## Cuidado, recambios y circulación legal
 
-El mantenimiento es el de un eléctrico bien hecho: revisar pastillas y tambor, estado de los neumáticos autosellantes (el gel no es eterno), tornillería y batería, evitando descargas completas prolongadas. Al ser un producto europeo con importador, la disponibilidad de recambios y servicio es su ventaja frente a marcas de plataforma. En normativa: en Alemania se homologa a 20 km/h como vehículo eléctrico ligero; en España circula como VMP bajo las reglas de la <a href=https://www.dgt.es>DGT</a> (máximo 25 km/h, sin aceras y con certificado de circulación para los VMP comercializados aquí), y en su ficha consta sin certificado DGT español verificado, así que conviene pedir la documentación al vendedor antes de comprarlo.
+El cuidado es el propio de un eléctrico bien construido: revisar tambor y pastillas, estado de las ruedas autosellantes (el gel no dura para siempre), tornillería y batería, evitando descargas completas prolongadas. Tratándose de un producto europeo con importador, el acceso a recambios y servicio supone su ventaja frente a marcas de plataforma rivales. En cuanto a normativa: Alemania lo homologa a 20 km/h en la categoría de vehículo eléctrico ligero; España lo trata como VMP según las reglas de la <a href=https://www.dgt.es>DGT</a> (tope 25 km/h, fuera de aceras y con certificado de circulación exigido a los VMP comercializados aquí), y su ficha sigue sin certificado DGT español verificado, por eso conviene solicitar la documentación al vendedor antes de comprarlo.
 
-## Rivales y veredicto: ¿merece la pena?
+## Alternativas dentro y fuera de Egret
 
-Dentro de la familia, el <a href=/patinetes/egret-ey-1/>Egret Ey! 1</a> ofrece más pico de potencia y rango por unos 400 € más, y el <a href=/patinetes/egret-pro/>Egret Pro</a> sube un escalón en prestaciones dentro de la misma filosofía. Fuera de casa, los rivales chinos de 25 km/h son más baratos y rápidos, pero no igualan el triple freno ni el enfoque de durabilidad. **Veredicto:** el Ey! 2 merece la pena para el usuario diario que prioriza seguridad, frenos y un producto europeo con servicio; no es la compra para quien busque la máxima velocidad o autonomía por euro. 
+En la familia, el <a href=/patinetes/egret-ey-1/>Egret Ey! 1</a> aporta más potencia pico y rango por unos 400 € más; el <a href=/patinetes/egret-pro/>Egret Pro</a> da un salto en prestaciones dentro de la misma filosofía. Al margen de la marca, los rivales chinos de 25 km/h resultan más baratos y rápidos, pero no igualan la frenada triple ni el enfoque de durabilidad. **Veredicto:** en uso diario, el Ey! 2 compensa para quien pone por delante seguridad, frenada y un producto europeo con servicio; no compensa para quien persiga la máxima velocidad o la mayor autonomía por euro.
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el Egret Ey! 2?
-**899 €** con IVA.
+### ¿Qué precio tiene el Egret Ey! 2?
+Cuesta **899 €** con IVA.
 
-### ¿Qué frenos lleva?
-**Tres**: tambor, disco y freno motor regenerativo.
+### ¿Cómo frena el Egret Ey! 2?
+Con **tres** sistemas: tambor, disco y freno motor regenerativo.
 
-### ¿Pinchan las ruedas?
-Son **tubeless con gel autosellante**: la mayoría de pinchazos se sellan solos.
+### ¿Se pinchan sus ruedas con facilidad?
+Llevan ruedas tubeless con gel autosellante, así que la mayoría de pinchazos se cierran solos.
 
-### ¿Qué autonomía real tiene?
-Unos **30 km** en uso mixto.
+### ¿Cuántos kilómetros reales recorre?
+Alrededor de **30 km** en uso mixto.
 
-### ¿Es legal en España?
-Sí como VMP, respetando 25 km/h y sin aceras.
+### ¿Puede circular legalmente en España?
+Sí, como VMP en España, con 25 km/h de tope y fuera de aceras.
 
-### ¿Merece la pena frente al Ey! 1?
-El Ey! 1 tiene más pico y rango; el Ey! 2 cuesta 400 € menos. Para ciudad, el 2 es la compra sensata.
+### ¿Compensa frente al Ey! 1?
+El Ey! 1 aporta más potencia pico y rango; el Ey! 2 sale 400 € más barato. En ciudad, el 2 resulta la compra sensata.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
