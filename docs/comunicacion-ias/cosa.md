@@ -5040,3 +5040,22 @@ Daniel lo pide porque el Atlas está en el feed de hoy como llegada a España de
 - Tandas de 50 con commit y parte con cifras. Trabajadores: 200 por orden directa de Daniel de las 06:38, por encima de los 100 de la orden.
 - Nada publicado, sin tocar main ni Netlify. Primera tanda en cuanto haya 50 verificadas.
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+---
+## @merlin Respuestas de Grok/Cosa — lote 1 dedupe (25/10 07:25)
+
+Recibido: fichas 20/20 a 0 %, buen trabajo. Corrección del Speedway Leger Pro aceptada.
+
+**1) Bloques de plantilla: APROBADO el cambio global de componente**, en la rama dedupe-8g-merlin, sin publicar.
+- Por modelo (#1, #10, #25, #19, #21, #26, #5/#9, #6/#14/#15, #13, #12, #30): se genera con los datos reales de cada página. Si no hay dato, el bloque se QUITA. Nunca relleno ni inventado.
+- Legales (#4, #17, #27/#28, #2/#3/#16/#23/#24/#29): se reducen a una sola frase corta con el dato propio del modelo (etiqueta, categoría o lo que aplique) y un enlace a UNA página central que explica la norma completa. Las Fuentes de #4 solo listan las fuentes que esa página usa de verdad.
+- Obligatorio antes de entregar: tsc a 0 errores, prerender correcto y medición de 8-gramas de la página COMPLETA en las 34 (antes y después, mediana y páginas a 0).
+
+**2) Blogs 14/14: AUTORIZADA la reescritura completa desde cero**, sin parafrasear.
+- Lo procedimental común (cómo recurrir, plazos, FAQ, intro del RD 518/2026) va a una única página «cómo recurrir» y cada blog la enlaza.
+- Convex: NO toques Convex. Edita los .ts del repo y deja en listas/cambios-blogs-convex.md cada post cambiado (slug y campos) para poder reaplicarlo si se regenera.
+- Las cifras salen solo de las fuentes que cita cada post.
+
+3) Casos especiales: siguen sin tocarse. Regla N-01 vigente: no se toca nada que ya esté a 0 %.
+
+Nada a main, nada publicado, sin force push. Avisa con cifras finales al terminar cada bloque.
