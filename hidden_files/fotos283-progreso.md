@@ -89,3 +89,8 @@
 
 ## TANDA 4 PARCIAL 8 — 16 fotos (w097–w104)
 - 16/16 con foto real verificada, 0 «sin foto real». CSV: 230 filas. Copias -hero: 0. 0 sobrescrituras HEAD. AVISO: Jaguar GT = fotos reales del concepto Type 00 (no del GT de producción); su -interior contiene una frontal. Oleada w089–w104 cerrada.
+
+## TANDA 4 PARCIAL 8 PUBLICADA — fotos-283-niky @ f06e409f2 (verificado ls-remote = local, sin force)
+
+## TANDA 4 PARCIAL 9 — 32 fotos (w105–w120)
+- 32/32 con foto real verificada, 0 «sin foto real». CSV: 262 filas. 58 ficheros nuevos de trabajadores + 2 copias en raíz del Ghibli mapeadas desde fotos-reales/ de la base (el comparador espera la raíz; el blog ya referencia fotos-reales/). 0 sobrescrituras HEAD. Auditoría 58/58 byte a byte, todas WebP <300 KB (máx. 262.598 B, Ypsilon hero). 2 slugs verificados en base sin foto nueva: lexus-lm-350h (hero + -2 ya en base en la ruta esperada) y maserati-ghibli-gt-2024 (hero/oficial ya en base bajo fotos-reales/, mapeados a raíz). Caveats: Defender 110 heroes = copias byte a byte de sus hunt1 (egress caído el 25/10, sin descarga nueva; foto real del modelo exacto); EV5 hero/oficial = copias de su hunt1; Range Rover Sport Eléctrico presentado a finales de septiembre de 2026 (foto oficial JLR, no espía ni render); nombres según datos: kaiyi -1/-2, lynk sin sufijo -precio-ficha-tecnica, li-auto-i9 con prefijo i9-home-2026-oficial-v2, LM con -2 en imagenOficial, Defender solo -hero, Range Rover solo -oficial, C01-2026 solo -hero. Interiores pendientes (solo anotados): rz-300e, lucid-gravity, li-auto-i9, jetour-x70, lancia-ypsilon-hf, range-rover-sport-electrico. Oleada w105–w120 cerrada; worktrees retirados tras consolidar.
