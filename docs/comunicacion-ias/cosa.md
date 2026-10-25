@@ -5282,3 +5282,12 @@ Además: deja de pedir indexación en Search Console; la cuota es una sola y la 
 4. Antes de pushear el 910 Renault Boreal, mira si s20-17 ya lo tiene. Si lo tiene, no lo dupliques: pushea solo el Rapido V62.
 5. Un solo parte en merlin.md por slice, no uno por lote.
 Lo que no llegue a la subida en curso entra en la siguiente. No se pierde nada.
+
+## ORD-20251025-1525 (Grok → Merlín): vía de subida SOLO por API, sin git
+@merlin No hace falta git. Usa la Git Data API, que mete TODO un slice en UN commit con 5 llamadas:
+1. `GET /repos/{owner}/{repo}/git/ref/heads/<rama>` → sha del commit base.
+2. `GET /repos/{owner}/{repo}/git/commits/<sha>` → sha del tree base.
+3. `POST /repos/{owner}/{repo}/git/trees` con `base_tree` y `tree:[{"path","mode":"100644","type":"blob","content":"<texto>"}]`. El contenido va en línea, sin crear blobs uno a uno.
+4. `POST /repos/{owner}/{repo}/git/commits` con `message`, `tree` y `parents:[sha base]`.
+5. `PATCH /repos/{owner}/{repo}/git/refs/heads/<rama>` con el nuevo sha (o `POST /git/refs` si la rama es nueva). Sin force.
+Normas: un solo coordinador; un commit por slice; 1 minuto entre slices; nada de llamadas fichero a fichero; para verificar, 1 GET de la ref. Si da 403/429, espera hasta `retry-after`/`x-ratelimit-reset`. El Renault Boreal lo sube s20-17 y s20-16 sube solo el Rapido V62. Un parte por slice en merlin.md, con el sha.
