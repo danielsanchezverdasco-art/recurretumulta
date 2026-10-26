@@ -1323,3 +1323,27 @@ Dejado con motivo (detalle en la nota del relevo 17):
 Siguiente: exp-m3 cerrado. El siguiente fichero de prioridad de la tanda 1 es trabajo del relevo siguiente (el vigilante lo lanza sin pausa). Los 6 lotes de la base be611e4a1 entran al cerrar la tanda 1. AdSense ORD-1157 sigue encolada tras la cadena de unicidad. La revisión de Cosa sobre esta entrega (su medidor src/** vs deploy c94f7b99e) es la prueba definitiva.
 
 @grok, he terminado esta entrega y sigo disponible: dime qué más puedo hacer y lo hago.
+
+@grok: parte del vigilante — relevo 18 (ORD-0345 tanda 1) ENTREGADO y VERIFICADO.
+
+He terminado: el fichero g08 de la tanda 1 está pusheado y verificado en GitHub. Rama `merlin-unicidad-2610` @ `12c6a71d38b2896ad44980952da467c74e27266e` (verificado por API: GET-ref = cabeza; compare contra `9eca4a8b` = 1 ahead / 0 behind, 1 commit, 1 fichero modificado, 14 adiciones / 14 eliminaciones; sin force push, sin tocar main, Netlify ni Cloudflare). No duplico la aceptación (ya publicada para esta cadena).
+
+Qué se hizo (relevo 18, un solo fichero):
+- `src/lib/blog-posts-autocaravanas-lote125-g08.ts` (9 blogs: Benimar Mileo 243, Carado T 447, Chausson 720 First Line, Etrusco T 7400 SB, Hymer B-Class MasterLine I 780, Laika Kosmo H 1409, Pilote G740FGJ ÉVIDENCE, Rimor Sarus 95 Plus, Weinsberg CaraBus 600 MQ).
+- 375 filas CSV (325 conserva + 50 reescribe); 351 localizadas antes, 405 ocurrencias. Resultado (vista literal y vista renderizada coinciden): todas las reescribe localizadas a 0 y todas las conserva localizadas a exactamente 1, salvo las excepciones documentadas abajo. CTA corto aplicado en los 9 artículos.
+- Contenido pusheado verificado byte a byte contra el local del relevo (blob `02d6b27b7f4a4a68b5c847fcc216e713823ed88c`, 102.755 bytes): idéntico.
+
+Medición y tsc (prueba del relevo 18, nota completa en local tanda1/relevo18/):
+- 8-gramas repetidos entre los 9 artículos (renderizada): 147 → 66; nuevos creados por los textos: 17 → 1 → 0 tras dos rondas fix8.
+- Esqueleto fuera de literales byte-idéntico; 118 literales en ambos. Palabras 14.236 → 14.153 (−83), solo por el CTA corto ordenado por Grok.
+- tsc: standalone con el único error esperado TS2307 (`./blog-meta.ts` sin resolver), idéntico al original; con `blog-meta.ts` resuelto, 0 errores. El tsc -p completo sigue pendiente de integración, como en relevos anteriores.
+
+Dejado con motivo (detalle en la nota del relevo 18):
+- 3 reescribe irresolubles en 1 ocurrencia (todos sus tokens dentro de conservas; mismo patrón que las 6 de g11): Etrusco row52, Chausson row70, Rimor row89.
+- Row26 conserva en 2 copias (no forzada: ambas copias bloqueadas por conservas). Row58 conserva resuelta a 1 por vía alternativa documentada (se reescribió la 1ª copia; la superviviente es la de «Lo mejorable»).
+- 9 conserva ausentes en ambas vistas (viven en otros ficheros/páginas); 10 conserva son 0 en vista literal pero 1 en renderizada (primer token pegado al escape `\n`: copias reales, preservadas). 2 reescrituras solo visibles en vista renderizada, resueltas allí (row166, row372) más la copia extra renderizada de row45, rota en la FAQ del motor.
+- titulos.csv, lista de Niky y no-tocar.txt sin tocar. Sin datos inventados. Reglas 1–4 de Cosa + P5.
+
+Siguiente: g08 cerrado. El siguiente fichero de prioridad de la tanda 1 es trabajo del relevo siguiente (el vigilante lo lanza sin pausa). Los 6 lotes de la base be611e4a1 entran al cerrar la tanda 1. AdSense ORD-1157 sigue encolada tras la cadena de unicidad. La revisión de Cosa sobre esta entrega (su medidor src/** vs deploy c94f7b99e) es la prueba definitiva.
+
+@grok, he terminado esta entrega y sigo disponible: dime qué más puedo hacer y lo hago.
