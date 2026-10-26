@@ -68,9 +68,9 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
+        "Con un trapo seco y limpiador específico para cadenas con retenes, limpia la cadena antes de engrasar.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Con la moto recta, mide la holgura correcta de la cadena y corrígela siguiendo el manual del fabricante.",
       ],
       trucos: [
         "Al ser refrigerada por aire, vigila el nivel de aceite con más frecuencia en verano.",
@@ -136,12 +136,12 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/kawasaki",
     analisisSlug: "kawasaki-kle500-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "Revisión cada 12.000 km o cada año, con la primera a los mil kilómetros",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
         "Limpia la cadena tras cada salida campera con limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para off-road, que repele el polvo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Con la moto apoyada en vertical, comprueba la holgura de la cadena y ajústala según el manual.",
       ],
       trucos: [
         "Tras el off-road, limpia el filtro de aire: el polvo lo satura rápido.",
@@ -207,12 +207,12 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://moteo.es/kawasaki-z900-2024-precio-ficha-tecnica/",
     analisisSlug: "kawasaki-z900-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "Cada 12.000 km o anualmente, pasando la primera revisión tras los primeros 1.000 km",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Aplica lubricante específico para cadenas mientras giras la rueda trasera para distribuirlo bien.",
+        "Verifica que la cadena tenga la holgura correcta con la moto derecha, siguiendo el manual oficial.",
       ],
       trucos: [
         "El modo Rain suaviza la entrega: ideal para rodar con la versión limitada A2.",
@@ -278,12 +278,12 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/kawasaki",
     analisisSlug: "kawasaki-ninja-650-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "El mantenimiento toca cada 12.000 km o una vez al año, empezando al llegar a 1.000 km",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Desengrasa la cadena con un producto específico para cadenas con juntas tóricas y sécala bien después.",
+        "Lubrica la cadena con un lubricante específico, haciendo girar la rueda trasera poco a poco.",
+        "Antes de salir, mide la tensión de la cadena poniéndola en posición vertical y corrígela como indica el manual.",
       ],
       trucos: [
         "El carenado se desmonta por paneles: no fuerces las pestañas de plástico.",
@@ -349,12 +349,12 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/custom/kawasaki/a-2",
     analisisSlug: "kawasaki-vulcan-s-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "Intervalo de 12.000 km o un año, con la primera revisión al cumplir 1.000 km",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
         "La cadena va parcialmente carenada: limpia con trapo y limpiador específico.",
         "Engrasa con lubricante específico para cadenas con retenes.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual.",
+        "Con la moto derecha, comprueba la holgura y ajústala siguiendo las indicaciones del manual.",
       ],
       trucos: [
         "El sistema Ergo-Fit permite cambiar la posición de las estriberas en el conce.",
@@ -420,12 +420,12 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/naked/kawasaki/a-2",
     analisisSlug: "kawasaki-z650rs-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "Pasa revisión cada 12.000 km o cada doce meses, la primera al llegar a los mil kilómetros en tu taller habitual",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Pasa un trapo con limpiador de cadenas por toda la cadena antes de engrasarla de nuevo.",
+        "Engrasa la cadena con lubricante para cadenas selladas, girando la rueda trasera con la mano.",
+        "Con la moto erguida, revisa la tensión de la cadena y ajústala conforme al manual del propietario.",
       ],
       trucos: [
         "El faro redondo LED admite bombillas auxiliares sin romper la estética.",
@@ -491,12 +491,12 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/kawasaki-ninja-500-2024/",
     analisisSlug: "kawasaki-ninja-500-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "Controla la holgura de la cadena poniéndola en vertical y corrígela según indica el fabricante.",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Quita la grasa vieja de la cadena con un producto específico para transmisiones con retenes.",
+        "Reparte lubricante específico por la cadena girando la rueda trasera hasta cubrir todos los eslabones.",
+        "Controla la holgura de la cadena con la moto en vertical y corrígela según indica el fabricante.",
       ],
       trucos: [
         "El control de tracción se puede desconectar para circuito.",
@@ -562,12 +562,12 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/kawasaki/z500",
     analisisSlug: "kawasaki-z500-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "Revisa cada 12.000 km o al cumplir el año, con la primera en cuanto llegues a 1.000 km en el taller",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Limpia a fondo la cadena con limpiador en espray para cadenas selladas y déjala secar.",
+        "Aplica lubricante para cadenas con retenes sobre la cadena mientras mueves la rueda trasera.",
+        "Con la moto recta, mide la tensión de la cadena y ajústala siguiendo el manual del propietario.",
       ],
       trucos: [
         "La app Rideology muestra notificaciones y registro de rutas en la LCD.",
@@ -633,12 +633,12 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/prueba-kawasaki-eliminator-500-2026-opinion/",
     analisisSlug: "kawasaki-eliminator-500-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "Mantenimiento cada 12.000 km o una vez por año, primera revisión a los mil kilómetros en tu taller",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Quita la suciedad acumulada de la cadena usando limpiador específico para cadenas con juntas.",
+        "Lubrica la cadena eslabón a eslabón con lubricante específico, girando la rueda trasera despacio.",
+        "Con la moto apoyada verticalmente, comprueba la holgura de la cadena y corrígela según el manual.",
       ],
       trucos: [
         "Con 12 l de depósito, reposta cada 250 km para no apurar la reserva.",
@@ -670,7 +670,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     pros: [
       "La trail asfáltica de referencia: cómoda, lógica y probadísima",
       "Bicilíndrico de 649 cc con 67 CV: empuje suficiente y consumo contenido",
-      "Pantalla TFT de 4,3\" con conectividad y control de tracción",
+      "Pantalla TFT de 4,3 pulgadas con conectividad y control de tracción",
       "Limitable a 35 kW: trail grande para el A2",
       "Amplio catálogo de maletas y accesorios de viaje",
     ],
@@ -704,12 +704,12 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/kawasaki/versys-650",
     analisisSlug: "kawasaki-versys-650-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "Cada 12.000 km o cada año natural, con la primera revisión al alcanzar 1.000 km en taller",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Frota la cadena con un cepillo y limpiador específico para cadenas selladas hasta dejarla limpia.",
+        "Engrasa la cadena con un lubricante específico para cadenas, moviendo la rueda trasera para repartirlo.",
+        "Verifica que la tensión de la cadena sea correcta con la moto derecha y ajústala como indica el manual oficial.",
       ],
       trucos: [
         "La precarga del amortiguador se regula con un mando remoto: ajústala con carga.",
@@ -776,7 +776,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/suzuki/burgman-400",
     analisisSlug: "suzuki-burgman-400-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses",
+      intervaloMantenimiento: "Cada 6.000 km o cada año, lo que llegue antes",
       aceiteTipo: "10W-40 (Suzuki ECSTAR scooter)",
       cadenaPasos: [],
       trucos: [
@@ -844,11 +844,11 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/suzuki/address-125",
     analisisSlug: "suzuki-address-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses",
+      intervaloMantenimiento: "Revisión cada 6.000 km o una vez al año",
       aceiteTipo: "10W-40 (Suzuki ECSTAR scooter)",
       cadenaPasos: [],
       trucos: [
-        "Sin cadena: la transmisión por correa no necesita engrase.",
+        "Al llevar correa en vez de cadena, la transmisión no necesita ningún engrase.",
         "Con 1,9 l/100 km y 5 l, reposta cada 200 km para no apurar.",
         "El caballete central facilita la limpieza y el mantenimiento.",
       ],
@@ -912,12 +912,12 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/suzuki-sv650-2023/",
     analisisSlug: "suzuki-sv650-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "La revisión periódica es cada 12.000 km o al año, la primera tras los primeros mil kilómetros",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Aplica limpiador en espray sobre la cadena, apto para cadenas con retenes, y pasa un trapo.",
+        "Pulveriza lubricante específico sobre la cadena girando la rueda trasera para que penetre bien.",
+        "Mide la holgura, con la moto ya en posición recta, y corrígela según el manual.",
       ],
       trucos: [
         "El V-twin es de bajo mantenimiento: reglaje de válvulas cada 24.000 km.",
@@ -983,12 +983,12 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/suzuki/sv650-2021",
     analisisSlug: "suzuki-sv650x-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "Cada 12.000 km o transcurrido un año, con la primera revisión cuando sume 1.000 km",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Quita la grasa de la cadena con limpiador específico para cadenas con juntas tóricas antes de lubricar.",
+        "Aplica lubricante específico para cadenas con juntas tóricas girando la rueda trasera varias vueltas.",
+        "Con la moto vertical, revisa la holgura de la cadena y déjala ajustada según el manual del fabricante.",
       ],
       trucos: [
         "Los semimanillares admiten contrapesos más pesados para reducir vibraciones.",
@@ -1054,12 +1054,12 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://moteo.es/la-suzuki-gsx-s1000gx-2025-se-actualiza-con-colores/",
     analisisSlug: "suzuki-gsx-s1000gx-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "Programa la revisión anual o cada 12.000 km, empezando por la de 1.000 km en el concesionario",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Pasa limpiador específico por toda la cadena y retira la grasa vieja con un trapo limpio.",
+        "Lubrica la cadena con lubricante en espray específico, girando la rueda trasera para repartirlo uniformemente.",
+        "Comprueba que la tensión de la cadena sea la adecuada con la moto erguida y corrígela conforme al manual oficial.",
       ],
       trucos: [
         "La suspensión electrónica no necesita reglajes manuales: elige el modo y listo.",
@@ -1125,11 +1125,11 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/scooter/suzuki/125cc",
     analisisSlug: "suzuki-avenis-125-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses",
+      intervaloMantenimiento: "Cada 6.000 km o al cumplir un año",
       aceiteTipo: "10W-40 (Suzuki ECSTAR scooter)",
       cadenaPasos: [],
       trucos: [
-        "Sin cadena: la transmisión por correa no necesita engrase.",
+        "Como la transmisión es por correa y no por cadena, no hay que engrasarla nunca.",
         "El sistema Easy Start arranca con una sola pulsación.",
         "Revisa la presión de los neumáticos cada dos semanas: son estrechos.",
       ],
@@ -1193,11 +1193,11 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "http://moteo.es/suzuki-burgman-street-125ex-2024-precio-ficha-tecnica/",
     analisisSlug: "suzuki-burgman-street-125ex-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses",
+      intervaloMantenimiento: "Intervalo de 6.000 km o un año completo",
       aceiteTipo: "10W-40 (Suzuki ECSTAR scooter)",
       cadenaPasos: [],
       trucos: [
-        "Sin cadena: la transmisión por correa no necesita engrase.",
+        "Sin cadena que lubricar, la transmisión por correa funciona sin necesidad de engrase.",
         "La toma USB bajo el manillar carga el móvil en marcha.",
         "El arranque silencioso no usa motor de arranque convencional: no lo fuerces.",
       ],
@@ -1261,12 +1261,12 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://www.suzukicenter.net/suzuki/v-strom-650xt-2/",
     analisisSlug: "suzuki-v-strom-650xt-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "Cada 12.000 km o como máximo una vez al año, con la primera revisión a los mil kilómetros en taller oficial",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena tras cada salida campera con limpiador específico.",
+        "Después de cada ruta campera, limpia la cadena con limpiador específico y sécala bien.",
         "Engrasa con lubricante específico para off-road.",
-        "Comprueba la tensión con la moto en el caballete y ajusta según el manual.",
+        "Sube la moto al caballete central, mide la tensión de la cadena y corrígela siguiendo las indicaciones del manual.",
       ],
       trucos: [
         "Las llantas de radios llevan cámara: lleva kit de reparación en ruta.",
@@ -1332,12 +1332,12 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/naked/suzuki/125cc",
     analisisSlug: "suzuki-gsx-s125-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "Primera revisión a los 1.000 km y después cada 6.000 km o cada año",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Cepilla la cadena con producto desengrasante para cadenas con retenes y retira la suciedad.",
+        "Engrasa la cadena con lubricante específico para cadenas selladas, haciendo girar la rueda trasera a mano.",
+        "Con la moto apoyada en vertical, mide su holgura y ajústala como dice el manual.",
       ],
       trucos: [
         "El motor agradece el aceite 10W-40 de calidad: gira muy alto.",
@@ -1369,7 +1369,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     pros: [
       "La versión asfáltica de la 800DE: llantas de palos y tubeless",
       "Bicilíndrico de 776 cc con 83 CV: el mejor twin medio de Suzuki",
-      "Limitable a 35 kW: trail grande para el A2",
+      "Limitable a 35 kW, un trail grande apto para el A2",
       "Electrónica completa: modos, control de tracción, quickshifter y ABS",
       "Asiento a 825 mm: accesible para una trail de 800",
     ],
@@ -1403,12 +1403,12 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/suzuki/v-strom-800-tech",
     analisisSlug: "suzuki-v-strom-800-tech-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "Toca revisión cada 12.000 km o al año, siendo la primera al llegar a los 1.000 km en el taller oficial",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Limpia la cadena frotando con limpiador específico y un trapo para quitar toda la suciedad acumulada.",
+        "Reparte el lubricante específico por toda la cadena mientras giras la rueda trasera lentamente.",
+        "Verifica que la holgura de la cadena sea la correcta con la moto recta y corrígela siguiendo el manual del propietario.",
       ],
       trucos: [
         "El quickshifter bidireccional funciona mejor por encima de 3.000 rpm.",
