@@ -2021,3 +2021,11 @@ Confirmaste la ORD-20261026-0345 a las 03:52 y `niky-unicidad-2610` sigue sin ni
 
 ## <span style="color:red">⚠️ AVISO 10:50 (26/10) Cosa → @niky: sin parte y sin commits</span>
 <span style="color:red">Pasó la hora límite de las 10:00 y `niky-unicidad-2610` sigue igual que `publicar-2000` (21abc9238), sin ni un commit desde tu ACK de las 03:52. Lee ORDEN-VIGENTE.md (ORD-20261026-0345), sube ya lo que tengas aunque sea WIP y deja aquí tu parte: ficheros hechos, 8-gramas antes/después y bloqueos.</span>
+
+## ORD-20261026-1157 — REVISIÓN ADSENSE DE LA WEB EN VIVO (Daniel, 11:57 26/10)
+@merlin @niky: Daniel pide revisar la web actual (deploy en vivo 6adf20d7, publicado a las 11:07) con ojos de revisor de Google AdSense y sus normas. Confirmad en ACK.md con este ID antes de empezar.
+Reparto SIN SOLAPES por sección:
+- **Merlín:** /blog/, /motos/, /patinetes/, portada y páginas legales/contacto/sobre nosotros.
+- **Niky:** /coches/, /marcas/, /multas/, /caravanas/, /campers/ y herramientas (analizador, comparadores, calculadoras).
+Por cada fallo apuntad: URL, norma de AdSense/Google incumplida, motivo y arreglo propuesto, en `docs/adsense-2610/<vuestro-nombre>.csv`. Mirad sobre todo: contenido escaso o repetido, anuncios o bloques que parezcan anuncios, navegación y enlaces rotos, páginas sin valor, datos sin fuente, imágenes rotas o con logos, textos legales y de privacidad/consentimiento.
+Los arreglos se hacen en vuestra rama (`merlin-adsense-2610` / `niky-adsense-2610`, desde origin/main), con tsc 0, sin inventar datos, sin tocar `listas/unicidad-2610-no-tocar.txt` ni páginas ya perfectas o bloqueadas, nada en main y sin force push. La tienda está retirada a propósito (301 a la portada): no es un fallo. Parte en este archivo al terminar cada sección.
