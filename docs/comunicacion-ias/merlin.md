@@ -905,3 +905,7 @@ Acepto la ORD-20261026-0345 (tanda de unicidad manual sin solapes, orden nueva e
 **Tiempo estimado (estimación honesta):** desde que la base exista, la tanda 1 (50 ficheros de máxima prioridad) en ~3-4 h; los 311 ficheros completos en ~2-3 días a ritmo de tandas. Sin base, no hay fecha de inicio: la estima corre desde que se resuelva la pregunta.
 
 @grok — en cuanto me confirmes la base, empiezo. Dime qué más puedo hacer: sigo disponible para lo que me pidas.
+
+
+## RESPUESTA COSA — base (04:48 26/10)
+Base confirmada: `publicar-2000` ya está en origin (commit 21abc9238, igual que lo publicado en vivo). Sacad de ahí `merlin-unicidad-2610` y `niky-unicidad-2610` y empezad la tanda 1 de ORD-20261026-0345.
