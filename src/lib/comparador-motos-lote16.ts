@@ -29,11 +29,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["autonomiaKm"],
     pros: [
-      "Motor HPE de 310 cc con 25 CV: el más potente de la gama Vespa clásica",
+      "Motor HPE de 310 cc y 25 CV: el más potente de la gama Vespa clásica",
       "Estética GTV con faro bajo en el guardabarros, la más icónica de Vespa",
       "Control de tracción ASR y ABS de doble canal de serie",
       "Consumo contenido (~3,2 L/100 km) para un 310 cc",
-      "Asiento a 790 mm, accesible para la mayoría de tallas",
+      "Asiento a 790 mm, apto para la mayoría de tallas",
       "Chasis monocasco de acero, sello Vespa auténtico",
     ],
     contras: [
@@ -46,7 +46,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     ],
     curiosidades: [
       "La GTV recupera el faro bajo sobre el guardabarros delantero, homenaje a las Vespa de los años 60",
-      "El motor HPE (High Performance Engine) debutó en la GTS 300 y aquí crece hasta 310 cc",
+      "El motor HPE (High Performance Engine) se estrenó en la GTS 300 y aquí crece hasta 310 cc",
       "En la lista oficial de precios Piaggio España 01-07-2026 figura a 7.600 € tarifa",
     ],
     imagen: "/media/vespa-gtv-310-2026-ficha-tecnica-precio-1.webp",
@@ -189,7 +189,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     aprox: [],
     pros: [
       "Rueda alta de 16 pulgadas delante: estabilidad superior en ciudad",
-      "Hueco bajo el asiento para dos cascos integrales",
+      "Espacio bajo el asiento para dos cascos integrales",
       "Posición de conducción erguida y cómoda",
       "Precio de 4.100 € tarifa (3.600 € con descuento en lista oficial)",
       "Ideal para quien busca un GT sin irse a 300 cc",
@@ -206,7 +206,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     curiosidades: [
       "El Medley 200 E5+ aparece en la lista oficial Piaggio España 01-08-2026 a 4.100 €",
       "La versión S del Medley 200 se tarifa a 4.200 €",
-      "El Medley es el scooter de rueda alta más vendido de Piaggio en Europa",
+      "El Medley es el scooter de rueda alta con más ventas de Piaggio en Europa",
     ],
     imagen: "/media/piaggio-medley-200-2026-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -246,7 +246,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Seguro gratuito el primer año (promoción hasta 30-09-2026)",
       "Matriculación gratuita incluida",
       "Depósito de 12 litros, gran autonomía",
-      "ABS Bosch y control de tracción de serie",
+      "ABS Bosch con control de tracción de serie",
     ],
     contras: [
       "179 kg de peso, de los más pesados entre los 125",
@@ -295,7 +295,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     aprox: [],
     pros: [
       "Precio de 2.599 €, muy competitivo con ABS incluido",
-      "5 años de garantía y seguro del primer año gratis",
+      "Cinco años de garantía y seguro del primer año gratis",
       "Matriculación gratuita",
       "Ruedas de 16 pulgadas, rueda alta estable",
       "Peso contenido de 125 kg",
@@ -665,11 +665,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: [],
     pros: [
-      "Primera moto eléctrica de Honda con carga rápida CCS2 (20-80% en 30 min)",
+      "Primera moto eléctrica de Honda con carga rápida CCS2 (del 20 al 80% en 30 min)",
       "Potencia nominal de 18 kW: homologable para el carnet A2",
       "Basculante monobrazo y horquilla Showa SFF-BP de 41 mm, chasis de nivel premium",
       "Conectividad Honda RoadSync con pantalla TFT de 5 pulgadas",
-      "Transmisión por correa: silenciosa y sin mantenimiento de cadena",
+      "Transmisión por correa: silenciosa y sin necesidad de mantener la cadena",
     ],
     contras: [
       "Precio de 15.000 €: muy superior a las 125 eléctricas",
@@ -735,7 +735,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     contras: [
       "Velocidad máxima de 45 km/h: solo para ciudad",
       "Tiempo de carga de unas 7 horas, lento frente a rivales",
-      "La segunda batería es opcional y encarece el conjunto",
+      "La segunda batería es opcional y sube el precio del conjunto",
       "Peso máximo permitido de 269 kg, justo con dos ocupantes",
       "Acabados mejorables frente a scooters premium",
     ],
@@ -1356,7 +1356,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     aprox: [],
     pros: [
       "Precio de 1.490 € con Plan Moves IV, de los más baratos del mercado",
-      "Se conduce con carnet AM desde los 15 años",
+      "Se puede llevar con carnet AM desde los 15 años",
       "Diseño clásico tipo Vespa que gusta a todos",
       "Ideal para ciudad: 45 km/h y 50 km de autonomía suficientes para el día a día",
       "Marca española con servicio técnico en España",
@@ -1596,15 +1596,15 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     aprox: [],
     pros: [
       "Bicilíndrico de 499,6 cc con 47,6 CV: el tope legal del A2 sin necesidad de limitación",
-      "Doble disco delantero de 320 mm con pinzas radiales, digno de mayor cilindrada",
+      "Doble disco delantero de 320 mm y pinzas radiales, digno de mayor cilindrada",
       "Pantalla TFT a color con conectividad y puertos USB/USB-C de serie",
       "Chasis multitubular de acero con geometría deportiva",
       "Precio de 6.490 € por debajo de sus rivales japonesas",
-      "Neumáticos 120/70-17 y 160/60-17 de medidas deportivas",
+      "Neumáticos deportivos en medidas 120/70-17 y 160/60-17",
     ],
     contras: [
       "Peso en orden de marcha no publicado por la marca: dato pendiente de confirmar",
-      "Red de concesionarios Benelli más reducida que la de las marcas japonesas",
+      "Red de concesionarios Benelli más reducida que la de las firmas japonesas",
       "Sin control de tracción ni modos de conducción",
       "El bicilíndrico deriva de la TRK 502: carácter más rutero que racing",
       "Valor de reventa inferior al de Honda, Yamaha o Kawasaki",
@@ -1639,7 +1639,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Cambio de aceite y filtro, inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -1735,7 +1735,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Motor de 494 cc con 47,6 CV: el máximo permitido para el A2",
+      "Motor de 494 cc con 47 coma 6 CV: el máximo permitido para el A2",
       "Suspensión Kayaba de 41 mm y frenos Nissin: componentes de primer nivel",
       "Neumáticos Pirelli Angel ST de serie",
       "Depósito de 16,5 litros: gran autonomía para una naked A2",
@@ -1743,8 +1743,8 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Precio de 5.287 € muy competitivo",
     ],
     contras: [
-      "198 kg en orden de marcha: de las más pesadas de su categoría",
-      "Sin modos de conducción ni control de tracción",
+      "198 kg en orden de marcha, entre las más pesadas de su categoría",
+      "Sin ayudas: ni modos ni control de tracción",
       "La pantalla LCD, aunque grande, no es TFT a color",
       "Red de servicio en expansión pero aún menor que las japonesas",
       "El bicilíndrico transmite vibraciones a alto régimen",
@@ -1752,7 +1752,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     curiosidades: [
       "El motor 494 cc de Loncin también lo usan la 525DSX y la 525ACX.",
       "Gana 4 CV respecto a la anterior 500R (de 43,5 a 47,6 CV).",
-      "Voge es la marca premium del gigante chino Loncin.",
+      "Voge es la marca premium del grupo chino Loncin.",
     ],
     imagen: "/media/voge-525r-2024-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -1775,11 +1775,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.motosan.es/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Revisiones a los 1.000 / 7.000 / 13.000 / 19.000 / 25.000 / 31.000 / 37.000 km",
+      intervalo: "Controles a los 1.000, 7.000, 13.000, 19.000, 25.000, 31.000 y 37.000 km",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite y filtro nuevos, inspección general y repaso de aprietes",
           costeAproxEur: null,
         },
         {
@@ -1816,7 +1816,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     pros: [
       "Precio de 2.490 €: de las naked 125 más asequibles",
       "Refrigeración líquida y 14,5 CV: cerca del tope del A1",
-      "ABS de doble canal y embrague antirrebote de serie",
+      "ABS de doble canal con embrague antirrebote de serie",
       "Full LED con luz diurna DRL y doble puerto USB/USB-C",
       "Solo 143 kg en orden de marcha",
       "Depósito de 14 litros: gran autonomía urbana",
@@ -1878,7 +1878,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     pros: [
       "Tres modos de conducción y control de tracción: raro en este precio",
       "TFT de 5 pulgadas con conectividad",
-      "Freno delantero de 300 mm con pinza de 4 pistones y ABS Bosch",
+      "Freno delantero con disco de 300 mm, pinza de 4 pistones y ABS Bosch",
       "Precio de 3.990 € muy agresivo para su equipamiento",
       "155 km/h de velocidad máxima declarada",
       "Horquilla invertida de 41 mm",
@@ -1938,7 +1938,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Motor bicilíndrico de 451 cc con 45,4 CV, suave y lleno desde abajo",
+      "Motor bicilíndrico de 451 cc y 45,4 CV, suave y lleno desde abajo",
       "Versión SE: mejor equipamiento que la Ninja 500 estándar",
       "Solo 172 kg: agilidad de 400 con empuje de 500",
       "La saga Ninja: imagen deportiva con décadas de historia",
@@ -1952,7 +1952,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Postura deportiva que cansa en uso diario",
     ],
     curiosidades: [
-      "La Ninja 500 sustituyó a la mítica Ninja 400 en 2024.",
+      "La Ninja 500 relevó a la mítica Ninja 400 en 2024.",
       "El motor 451 cc deriva del de la Eliminator 500.",
       "Las siglas SE identifican el acabado superior de la gama.",
     ],
@@ -2046,7 +2046,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Sustitución de aceite y filtro, con inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -2092,13 +2092,13 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "6.399 € por la generación anterior (la 2025 la sustituye)",
       "42 CV: por debajo de las naked A2 más potentes",
       "Sin TFT ni conectividad: instrumentación básica",
-      "Sin modos de conducción ni control de tracción",
+      "Sin ayudas: ni modos de conducción ni control de tracción",
       "Modelo 2024: buscar unidades en stock ante la llegada de la nueva",
     ],
     curiosidades: [
       "El motor 321 cc deriva del de la YZF-R3.",
       "MT significa 'Master of Torque'.",
-      "Es la puerta de entrada a la familia Hyper Naked de Yamaha.",
+      "Es el acceso de entrada a la familia Hyper Naked de Yamaha.",
     ],
     imagen: "/media/yamaha-mt-03-2024-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -2125,7 +2125,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite nuevo con filtro, inspección general y control de aprietes",
           costeAproxEur: null,
         },
         {
@@ -2169,7 +2169,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     ],
     contras: [
       "4.999 €: de las 125 deportivas más caras",
-      "142 kg: no es la más ligera de su clase",
+      "142 kg: no está entre las más ligeras de su clase",
       "Postura racing exigente para el día a día",
       "Depósito de 11,5 litros: autonomía justa",
       "El VVA se nota más en medios que en punta",
@@ -2200,11 +2200,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://soymotero.net/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Revisiones a los 1.000 / 10.000 / 20.000 / 30.000 / 40.000 km",
+      intervalo: "Controles a los 1.000 y 10.000, 20.000, 30.000 y 40.000 km",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Cambio de aceite, filtro de aceite, inspección general y revisión de aprietes",
           costeAproxEur: null,
         },
         {
@@ -2240,7 +2240,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     aprox: [],
     pros: [
       "Chasis perimetral de aluminio: tecnología de MotoGP en 125",
-      "Pinza radial de 4 pistones con disco de 300 mm",
+      "Pinza radial de 4 pistones y disco de 300 mm",
       "ABS Bosch de doble canal con anti-elevación trasera",
       "Depósito de 14,5 litros: el mayor del segmento",
       "Estética GP réplica inconfundible",
@@ -2303,7 +2303,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     aprox: ["velocidadMax", "autonomiaKm"],
     pros: [
       "Bicilíndrico 471 cc con 47 CV: el tope del A2 con tacto Honda",
-      "Horquilla Showa SFF-BP de 41 mm y doble disco Nissin de 296 mm",
+      "Horquilla Showa SFF-BP de 41 mm con doble disco Nissin de 296 mm",
       "Control de tracción HSTC seleccionable",
       "TFT con conectividad Bluetooth",
       "Depósito de 17,1 litros y unos 480 km de autonomía",
@@ -2311,7 +2311,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     ],
     contras: [
       "7.475 €: de las deportivas A2 más caras",
-      "192 kg en orden de marcha: de las más pesadas",
+      "192 kg en orden de marcha, pesada para su clase",
       "El HSTC es básico frente a controles más avanzados",
       "Estética continuista respecto a generaciones anteriores",
       "Sin quickshifter ni modos de conducción",
@@ -2439,7 +2439,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     aprox: ["velocidadMax"],
     pros: [
       "Solo 155 kg: la deportiva A2 más ligera del segmento",
-      "Ride-by-wire con control de tracción y ABS en curva",
+      "Ride-by-wire con ABS en curva y control de tracción",
       "Suspensión WP APEX de 43 mm",
       "179 km/h de velocidad máxima",
       "Chasis multitubular de acero de tacto racing",
@@ -2478,11 +2478,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Revisiones a los 1.000 / 7.500 / 15.000 km",
+      intervalo: "Controles a los 1.000, 7.500 y 15.000 km",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite y filtro de aceite, revisión general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -2519,7 +2519,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     pros: [
       "Precio de 4.790 €: la naked A2 bicilíndrica más asequible",
       "TFT curva de 5 pulgadas con dos modos de conducción (Sport/Eco)",
-      "Control de tracción y ABS de doble canal de serie",
+      "ABS de doble canal y control de tracción de serie",
       "165 kg: ligera y ágil",
       "Frenos J.Juan (filial de Brembo)",
       "Más de 170 km/h de velocidad máxima declarada",
@@ -2557,7 +2557,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://mpracing.es/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 5.000 km o 6 meses (lo que ocurra antes)",
+      intervalo: "Cada 5.000 km o 6 meses, según lo que suceda primero",
       revisiones: [
         {
           nombre: "Revisión cada 5.000 km / 6 meses",
@@ -2593,7 +2593,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     pros: [
       "Motor Revolution Max 1250 de 150 CV: el bicilíndrico más potente que ha fabricado Harley-Davidson",
       "Altura de conducción adaptativa (Adaptive Ride Height): baja la moto al detenerse y sube en marcha",
-      "Electrónica completa con IMU de 6 ejes: ABS y control de tracción en curva, modos de conducción",
+      "Electrónica completa con IMU de 6 ejes: ABS y tracción en curva, además de modos de conducción",
       "Llantas de radios cruzados sin cámara de 19\" delante y 17\" detrás, aptas para off-road serio",
       "Pantalla TFT táctil con navegación y conectividad, faro LED adaptativo Daymaker",
     ],
@@ -2630,11 +2630,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "8.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.600 km",
+      intervalo: "8.000 km o 12 meses (lo que suceda antes); primera revisión a los 1.600 km",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Renovación de aceite y filtro, inspección general y control de aprietes",
           costeAproxEur: null,
         },
         {
@@ -2680,7 +2680,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Sin electrónica moderna: sin modos de conducción ni pantalla TFT",
       "Red de servicio Mash mucho más pequeña que la de las grandes marcas",
       "Acabados y componentes por debajo de las japonesas y europeas",
-      "Valor de reventa inferior al de las marcas consolidadas",
+      "Reventa inferior a la de las marcas más consolidadas",
     ],
     curiosidades: [
       "Mash es una marca francesa que fabrica sus motos en China con estética vintage europea.",
@@ -2769,7 +2769,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.triumphmotorcycles.es/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "16.000 km o 12 meses, conforme a lo que antes suceda",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
@@ -2783,7 +2783,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Triumph; costes no publicados — consultar red oficial",
+      fuente: "Según manual oficial Triumph; costes sin publicar: consultar la red oficial",
     },
   },
   {
@@ -2815,7 +2815,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Precio desde 16.999 €: muy competitiva frente a las europeas",
     ],
     contras: [
-      "252 kg en orden de marcha: de las más pesadas del segmento",
+      "252 kg en orden de marcha, pesada dentro de su segmento",
       "Diseño continuista que no enamora como las rivales europeas",
       "Parabrisas con regulación algo engorrosa (requiere herramientas)",
       "Sin radar ni suspensiones electrónicas, que ya ofrecen otras",
@@ -2847,7 +2847,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://moto.suzuki.es/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses, según lo que suceda primero",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -2861,7 +2861,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Suzuki; costes no publicados — consultar red oficial",
+      fuente: "Según manual oficial Suzuki; costes sin publicar: consultar la red oficial",
     },
   },
   {
@@ -2886,7 +2886,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Bóxer de 1.170 cc refrigerado por aire/aceite y 109 CV: el motor más carismático de BMW",
+      "Bóxer de 1.170 cc con refrigeración por aire y aceite, y 109 CV: el motor más carismático de BMW",
       "Estética neo-retro que homenajea a la legendaria R 80 G/S de 1980",
       "Rueda delantera de 21\" y suspensiones de largo recorrido: apta para off-road real",
       "Simplicidad mecánica frente a las maxitrail electrónicas: menos peso, menos complejidad",
@@ -2941,7 +2941,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial BMW Motorrad; costes no publicados — consultar red oficial",
+      fuente: "Según manual oficial BMW Motorrad; costes sin publicar: consultar la red oficial",
     },
   },
   {
@@ -2971,7 +2971,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Escape Akrapovic de titanio de serie",
       "Asiento rally plano de 910 mm, ideal para pilotar de pie",
       "Electrónica sencilla y desconectable (ABS y control de tracción off)",
-      "210 kg en orden de marcha, ligera para su capacidad",
+      "210 kg en orden de marcha, contenida para su capacidad",
     ],
     contras: [
       "910 mm de altura de asiento: solo apta para pilotos altos",
@@ -3010,7 +3010,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite y filtro sustituidos, inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -3020,7 +3020,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Yamaha; costes no publicados — consultar red oficial",
+      fuente: "Según manual oficial Yamaha; costes sin publicar: consultar la red oficial",
     },
   },
   {
@@ -3060,7 +3060,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Red Rieju pequeña fuera de España",
     ],
     curiosidades: [
-      "Rieju es una marca española con fábrica en Figueres (Girona).",
+      "Rieju es una marca española con planta en Figueres (Girona).",
       "Pesa menos que muchas motos de 125 cc del mercado.",
       "El motor monocilíndrico de 293 cc lo suministra Loncin.",
     ],
@@ -3173,7 +3173,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     aprox: [],
     pros: [
       "47,6 CV al límite legal del carnet A2",
-      "198 kg en orden de marcha: ligera y manejable",
+      "198 kg en orden de marcha: contenida y muy manejable",
       "Pantalla TFT de 7 pulgadas con conectividad y navegación",
       "Suspensión regulable y frenos J.Juan con ABS desconectable",
       "Dos modos de conducción (Standard y Off-road)",
@@ -3251,7 +3251,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     curiosidades: [
       "La TRK 502 fue la moto más vendida en Italia durante varios años.",
       "Benelli es italiana pero pertenece al grupo chino Qianjiang.",
-      "La 702X es la hermana mayor de la superventas TRK 502X.",
+      "La 702X es la hermana mayor de la exitosa TRK 502X.",
     ],
     imagen: "/media/benelli-trk-702x-2026-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -3400,11 +3400,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses, lo antes que ocurra",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Cambio de aceite con filtro nuevo, inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -3444,7 +3444,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Estética nocturna con detalles en negro muy lograda",
       "Precio desde 18.000 €: la más accesible de la gama Sport",
       "Asiento bajo que da confianza a pilotos de menor estatura",
-      "Electrónica con modos de conducción y control de tracción",
+      "Electrónica con control de tracción y modos de conducción",
     ],
     contras: [
       "Prestaciones justas frente a sus hermanas mayores",
@@ -3474,11 +3474,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "Primera a los 1.600 km; después, cada 8.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite, filtro de aceite, inspección general y ajuste de aprietes",
           costeAproxEur: null,
         },
         {
@@ -3488,7 +3488,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalo estándar Harley-Davidson según manual del propietario (1.000 mi primera / 5.000 mi)",
+      fuente: "Según manual del propietario Harley-Davidson: intervalo habitual de servicio (1.000 mi primera / 5.000 mi)",
     },
   },
   {
@@ -3516,7 +3516,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Motor Milwaukee-Eight 117 High Output de 1.923 cc con 114 CV",
       "Estética club-style con semicarenado y maletas rígidas desmontables",
       "Más ligera y ágil que las touring grandes: 304 kg",
-      "Postura erguida y cómoda para el día a día",
+      "Postura erguida y confortable para el día a día",
       "Precio desde 26.900 €, la custom deportiva más accesible de la gama grande",
       "Transmisión por correa: limpia y sin mantenimiento",
     ],
@@ -3528,7 +3528,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Accesorios originales con precios elevados",
     ],
     curiosidades: [
-      "La Low Rider nació en 1977 como la primera «factory custom» de Harley.",
+      "La Low Rider llegó en 1977 como la primera «factory custom» de Harley.",
       "Las siglas ST recuperan el espíritu de las FXR de los años 80.",
       "El estilo club californiano la ha convertido en favorita de los customizadores.",
     ],
@@ -3553,11 +3553,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "Revisión inicial a los 1.600 km y, a partir de ahí, cada 8.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Sustituir aceite y filtro, inspección general y comprobar aprietes",
           costeAproxEur: null,
         },
         {
@@ -3567,7 +3567,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalo estándar Harley-Davidson según manual del propietario (1.000 mi primera / 5.000 mi)",
+      fuente: "Manual del propietario Harley-Davidson: primera a las 1.000 mi y luego cada 5.000 mi",
     },
   },
   {
@@ -3592,7 +3592,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Motor Milwaukee-Eight 117 de 1.923 cc con 107 CV y gran par a bajo régimen",
+      "Motor Milwaukee-Eight serie 117 de 1.923 cc con 107 CV y gran par a bajo régimen",
       "Configuración Ultra: carenado Batwing, maletas y top case para viajar",
       "Asiento confortable y ergonomía pensada para devorar kilómetros a dúo",
       "Pantalla táctil con navegación y conectividad de serie",
@@ -3632,11 +3632,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "A los 1.600 km la primera y cada 8.000 km o 12 meses, según el primero que se cumpla",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite nuevo y filtro, inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -3646,7 +3646,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalo estándar Harley-Davidson según manual del propietario (1.000 mi primera / 5.000 mi)",
+      fuente: "Intervalos de la marca según su manual del propietario (1.000 mi primera / 5.000 mi)",
     },
   },
   {
@@ -3680,7 +3680,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     ],
     contras: [
       "Precio desde 53.950 €, la cima del catálogo Harley",
-      "380 kg que se notan en parado y en maniobras lentas",
+      "380 kg que se dejan notar en parado y en maniobras lentas",
       "El carenado Batwing transmite más el viento al manillar que el Sharknose",
       "Consumo elevado en uso intensivo",
       "Poco ágil fuera de autopista",
@@ -3711,11 +3711,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "Primera revisión a los 1.600 km; intervalos posteriores cada 8.000 km o cada 12 meses, lo antes que ocurra",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Cambio de aceite y de filtro, inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -3725,7 +3725,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalo estándar Harley-Davidson según manual del propietario (1.000 mi primera / 5.000 mi)",
+      fuente: "Harley-Davidson: intervalo de servicio según manual del propietario (1.000 mi primera / 5.000 mi)",
     },
   },
   {
@@ -3750,7 +3750,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Motor Milwaukee-Eight 121 VVT de 1.977 cc con 115 CV y 183 Nm",
+      "Motor Milwaukee-Eight 121 VVT con 1.977 cc, 115 CV y 183 Nm",
       "CVO: el nivel máximo de equipamiento y acabados de Harley-Davidson",
       "Carenado Sharknose fijo al chasis que no transmite el viento al manillar",
       "Sistema de infoentretenimiento con pantalla táctil y conectividad",
@@ -3759,7 +3759,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     ],
     contras: [
       "Precio desde 53.950 €: la moto más cara del catálogo Harley",
-      "393 kg en orden de marcha: solo para pilotos con experiencia",
+      "393 kg en orden de marcha: solo apta para pilotos con experiencia",
       "En ciudad es torpe y el radio de giro es muy amplio",
       "El calor del V2 en parado se nota en verano",
       "Mantenimiento y recambios con precios premium",
@@ -3790,11 +3790,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "1.600 km para la primera y 8.000 km o 12 meses entre las siguientes, lo primero que llegue",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite y filtro de aceite nuevos, revisión general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -3804,7 +3804,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalo estándar Harley-Davidson según manual del propietario (1.000 mi primera / 5.000 mi)",
+      fuente: "Programa de servicio Harley-Davidson del manual del propietario (1.000 mi primera / 5.000 mi)",
     },
   },
   {
@@ -3830,7 +3830,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     aprox: [],
     pros: [
       "V4 a 65º de 1.099 cc con 180 CV: la hypernaked más brutal de su segmento",
-      "Electrónica APRC predictiva con IMU de 6 ejes, ABS en curva y antiwheelie",
+      "Electrónica APRC predictiva con IMU de 6 ejes y ABS en curva, más antiwheelie",
       "Aerodinámica derivada de MotoGP con aletas que generan carga a alta velocidad",
       "Chasis de doble viga de aluminio y frenos Brembo M50 de anclaje radial",
       "TFT de 5 pulgadas con conectividad Aprilia MIA y quickshifter bidireccional",
@@ -3841,7 +3841,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Sin protección aerodinámica: en autopista el viento cansa",
       "Postura deportiva poco apta para viajar con pasajero",
       "Consumo elevado cuando se aprovechan los 180 CV",
-      "Red de concesionarios más pequeña que la de las japonesas",
+      "Red comercial más pequeña que la de las marcas japonesas",
     ],
     curiosidades: [
       "El V4 de la Tuono deriva del motor de la RSV4 de competición.",
@@ -3906,7 +3906,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Protección aerodinámica mejorable para pilotos altos",
     ],
     curiosidades: [
-      "Versys viene de «versatile system»: versatilidad como filosofía.",
+      "Versys viene de «versatile system»: la versatilidad como filosofía.",
       "La 1100 sustituyó a la Versys 1000 con más cilindrada y par.",
       "Es una de las trail asfálticas con mejor relación precio-prestaciones.",
     ],
@@ -4037,8 +4037,8 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     ],
     curiosidades: [
       "Es la única moto de serie del mundo con compresor volumétrico.",
-      "El compresor lo fabrica la división aeroespacial de Kawasaki.",
-      "Deriva de la Ninja H2R, la moto de serie más potente jamás creada.",
+      "El compresor lo fabrica la división aeroespacial de la marca japonesa.",
+      "Deriva de la Ninja H2R, la moto de serie más potente creada jamás.",
     ],
     imagen: "/media/fotos-reales/kawasaki-ninja-h2-sx-2025-ficha-tecnica-precio/kawasaki-ninja-h2-sx-2025-ficha-tecnica-precio-real-1.webp",
     galeria: [
@@ -4128,11 +4128,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "http://www.indianmotorcycle.es/101-scout/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "800 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "800 km (primera) y cada 8.000 km o un año, lo primero que suceda",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Reponer aceite y filtro, inspección general y repaso de aprietes",
           costeAproxEur: null,
         },
         {
@@ -4167,7 +4167,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "V2 SpeedPlus de 1.250 cc con 94 CV: empuje suave y lleno",
+      "V2 SpeedPlus de 1.250 cc y 94 CV: empuje suave y lleno",
       "La Scout más deportiva: manillar plano y postura atacada",
       "Biplaza con asiento cómodo para el día a día",
       "Precio desde 15.690 €: la custom americana más accesible",
@@ -4209,11 +4209,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.indianmotorcycle-barcelona.com/sport-scout",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "800 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "Primera a los 800 km y, luego, cada 8.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite con filtro nuevo, inspección general y repaso de aprietes",
           costeAproxEur: null,
         },
         {
@@ -4223,7 +4223,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalo estándar Indian Motorcycle según manual del propietario (500 mi primera / 5.000 mi)",
+      fuente: "Según manual del propietario Indian Motorcycle: intervalo habitual (500 mi primera / 5.000 mi)",
     },
   },
   {
@@ -4248,7 +4248,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "V2 Thunderstroke 116 de 1.890 cc con 156 Nm de par: empuje brutal",
+      "V2 Thunderstroke 116 de 1.890 cc y 156 Nm de par: empuje brutal",
       "Versión Limited con parabrisas, maletas y asiento touring de serie",
       "Estética clásica americana con detalles cromados",
       "Muy cómoda para viajar a dúo con el pasajero",
@@ -4258,7 +4258,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     contras: [
       "335 kg: muy pesada en parado y en maniobras",
       "Potencia no declarada oficialmente por la marca",
-      "En ciudad es torpe y el radio de giro es amplio",
+      "En ciudad resulta torpe y el radio de giro es amplio",
       "Consumo elevado del gran V2",
       "Poco ágil en carreteras reviradas",
     ],
@@ -4290,11 +4290,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "http://indianmotorcycle.es/super-chief-limited/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "800 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "Primera revisión a los 800 km; las siguientes, cada 8.000 km o bien cada 12 meses, lo que antes se cumpla",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Cambio de aceite, filtro, inspección general y revisión de aprietes",
           costeAproxEur: null,
         },
         {
@@ -4304,7 +4304,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalo estándar Indian Motorcycle según manual del propietario (500 mi primera / 5.000 mi)",
+      fuente: "Manual del propietario Indian Motorcycle: primera a las 500 mi y luego cada 5.000 mi",
     },
   },
   {
@@ -4341,7 +4341,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Suspensiones no regulables en la versión base",
       "El motor solo despierta de verdad por encima de 6.000 rpm",
       "Acabados mejorables en algunos detalles",
-      "Sin control de crucero ni quickshifter de serie",
+      "Sin control de crucero ni quickshifter incluido de serie",
     ],
     curiosidades: [
       "Su motor deriva de la Fireblade de 2017, adaptado para carretera.",
@@ -4391,9 +4391,9 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Tricilíndrico de 1.160 cc con 150 CV: el más potente de su segmento",
+      "Tres cilindros de 1.160 cc y 150 CV: el más potente de su segmento",
       "Versión GT Pro orientada al asfalto con llantas de 19 pulgadas",
-      "Mantenimiento cada 16.000 km o 12 meses: de los más espaciados",
+      "Revisiones cada 16.000 km o 12 meses, entre los intervalos más espaciados",
       "Garantía oficial de 4 años",
       "Electrónica completa con suspensión semiactiva Showa",
       "Sonido del triple inconfundible y adictivo",
@@ -4407,7 +4407,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     ],
     curiosidades: [
       "El triple de 1.160 cc es el motor más grande jamás montado en una Tiger.",
-      "Triumph ofrece 4 años de garantía, el doble que la mayoría de marcas.",
+      "Triumph ofrece 4 años de garantía, el doble que la mayoría del mercado.",
       "Sus intervalos de 16.000 km son de los más largos entre las maxitrail.",
     ],
     imagen: "/media/triumph-tiger-1200-gt-pro-2025-ficha-tecnica-precio-1.webp",
@@ -4431,11 +4431,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://super7moto.com/revista/salones/24949-triumph-anuncia-nuevas-mejoras-en-la-gama-tiger-1200.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "Cada 16.000 km o 12 meses, lo primero en cumplirse",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite y filtro, inspección general y revisión de aprietes",
           costeAproxEur: null,
         },
         {
@@ -4472,7 +4472,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     pros: [
       "Bicilíndrico de 900 cc con 80 Nm a solo 3.800 rpm: empuje lleno desde abajo",
       "Horquilla invertida Marzocchi de 43 mm y frenos radiales con discos de 320 mm",
-      "Primera Speed Twin con IMU: ABS en curva y control de tracción optimizado",
+      "Primera Speed Twin con IMU: ABS en curva y tracción optimizada para curvas rápidas",
       "3 modos de conducción y kit oficial de limitación para el carnet A2",
       "Chasis y ergonomía revisados en 2025: más ágil sin perder el carácter clásico",
     ],
@@ -4572,11 +4572,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://moteo.es/la-triumph-scrambler-400-xc-ya-esta-aqui/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "16.000 km o un año, lo que primero suceda",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Sustitución del aceite y el filtro, inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -4618,7 +4618,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "4.587 €: de las neoretro A2 más asequibles del mercado español",
     ],
     contras: [
-      "188 kg en orden de marcha: se notan en parado y en ciudad",
+      "188 kg en orden de marcha: se dejan notar en parado y en ciudad",
       "Red de concesionarios Zontes aún pequeña en España",
       "Valor de reventa incierto al ser una marca china joven en Europa",
       "Vibraciones del monocilíndrico a alto régimen en autovía",
@@ -4803,19 +4803,19 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Estética bobber de fábrica con asiento monoplaza flotante",
       "Asiento a solo 649 mm: accesible para pilotos de cualquier talla",
       "Transmisión por correa dentada: cero mantenimiento de cadena",
-      "12.890 €: la puerta de entrada a la gama Indian 2025",
+      "12.890 €: el acceso más asequible a toda la gama Indian 2025",
     ],
     contras: [
       "Monoplaza de serie: el pasajero requiere asiento accesorio",
       "243 kg en orden de marcha",
       "Depósito de 13 litros: autonomía justa para una custom",
-      "Suspensión trasera de corto recorrido, seca en baches",
+      "Suspensión trasera de corto recorrido, seca al pasar baches",
       "Los accesorios oficiales Indian tienen precios elevados",
     ],
     curiosidades: [
       "La Scout es el modelo más vendido de Indian Motorcycle en todo el mundo.",
       "La versión Bobber es la gran novedad de la gama Sixty para 2025.",
-      "Indian, fundada en 1901, es la marca americana de motos más antigua en producción.",
+      "Indian, fundada en 1901, es la marca americana de motos con más años en producción.",
       "El motor SpeedPlus deriva del de la Scout 101, la más potente de la familia.",
     ],
     imagen: "/media/indian-scout-sixty-bobber-2025-ficha-tecnica-precio-1.webp",
@@ -4861,7 +4861,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "V-twin SpeedPlus de 999 cc con 85 CV y 87 Nm",
+      "V-twin SpeedPlus de 999 cc y 85 CV con 87 Nm",
       "Dos plazas de serie con asiento corrido clásico",
       "Asiento a 654 mm y postura relajada: cómoda para el día a día",
       "Transmisión por correa dentada sin mantenimiento",
@@ -4938,7 +4938,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     ],
     curiosidades: [
       "El V2 transversal es el sello de Moto Guzzi desde 1967.",
-      "Se fabrica en Mandello del Lario, a orillas del lago de Como, como todas las Guzzi.",
+      "Se fabrica en Mandello del Lario, junto al lago de Como, igual que todas las Guzzi.",
       "La V9 homenajea a las pequeñas Guzzi de los años 70 con estética dark custom.",
       "En 2025 mantiene su precio por debajo de los 10.600 € en España.",
     ],
@@ -4985,7 +4985,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Bicilíndrico de 451 cc con 45,4 CV: en el tope del carnet A2",
+      "Bicilíndrico de 451 cc, 45,4 CV: en el tope del carnet A2",
       "Solo 176 kg en orden de marcha: la custom A2 más ligera del mercado",
       "Asiento a 735 mm: ideal para pilotos de baja estatura",
       "Pantalla TFT con conectividad para el móvil",
@@ -5051,7 +5051,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     pros: [
       "Estética clásica de la saga W: depósito con rodilleras y doble reloj analógico",
       "Solo 143 kg en orden de marcha: la clásica más ligera de su segmento",
-      "Asiento a 745 mm y postura erguida: cómoda para el día a día",
+      "Asiento a 745 mm y posición erguida: cómoda para el día a día",
       "Motor de 233 cc suave y económico, con caja de 6 velocidades",
       "ABS y homologación Euro 5+ para 2026",
     ],
@@ -5121,7 +5121,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "3.299 € y válida con el carnet B de coche: acceso sin examen",
     ],
     contras: [
-      "139 kg en orden de marcha: pesada para una 125",
+      "139 kg en orden de marcha: pesada para un modelo 125",
       "13 CV justos en cuestas pronunciadas o con pasajero",
       "Sin ABS: solo frenada combinada CBS",
       "Pantalla LCD básica sin conectividad",
@@ -5178,15 +5178,15 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Bicilíndrico de 649 cc con 61 CV y 54 Nm: empuje lineal y agradable",
+      "Bicilíndrico de 649 cc, 61 CV y 54 Nm: empuje lineal y muy agradable",
       "Frenos Brembo y horquilla Kayaba regulable de 43 mm",
       "Llantas de radios con neumáticos Pirelli MT60RS",
-      "Pantalla TFT de 5 pulgadas con conectividad bluetooth",
+      "Pantalla TFT de 5 pulgadas y conexión bluetooth de serie",
       "6.140 € PVP oficial: la bicilíndrica scrambler más asequible del mercado",
     ],
     contras: [
       "200 kg en orden de marcha",
-      "61 CV se quedan cortos frente a rivales de 70-75 CV",
+      "61 CV resultan algo cortos frente a rivales de 70-75 CV",
       "Acabados mejorables en detalles de tornillería y soldaduras",
       "Red de concesionarios pequeña en España",
       "Asiento a 810 mm: los pilotos bajos llegan justo al suelo",
@@ -5242,7 +5242,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Desmodue de 803 cc con 73 CV en solo 170 kg: agilidad total",
+      "Desmodue de 803 cc y 73 CV para solo 170 kg: agilidad total",
       "ABS en curva, control de tracción y 2 modos de conducción de serie",
       "Estética Dark totalmente en negro mate, elegante y discreta",
       "10.890 € de tarifa: la Ducati nueva más accesible del catálogo",
@@ -5282,11 +5282,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.ducati.com/es",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "Cada 12.000 km o 12 meses, lo primero que se cumpla",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite nuevo, filtro de aceite, inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -5296,7 +5296,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Ducati; costes no publicados — consultar red oficial",
+      fuente: "Según manual oficial Ducati; costes sin publicar, hay que consultar red oficial",
     },
   },
   {
@@ -5324,7 +5324,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Desmodue de 803 cc con 73 CV y solo 176 kg: la Scrambler más refinada",
       "Nuevo color Emerald Green 2026 con asiento café racer de cuero marrón",
       "Llantas de radios negras y manillar plano con espejos bar-end",
-      "Ride-by-wire, 2 modos, control de tracción y ABS en curva de serie",
+      "Ride-by-wire, 2 modos, ABS en curva y control de tracción de serie",
       "Nuevo embrague de 8 discos: tacto más suave y 4 kg menos que la anterior",
     ],
     contras: [
@@ -5361,11 +5361,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://soymotero.net",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o un año, lo que antes ocurra",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Cambiar aceite y filtro, con inspección general y repaso de aprietes",
           costeAproxEur: null,
         },
         {
@@ -5375,7 +5375,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Ducati; costes no publicados — consultar red oficial",
+      fuente: "Manual oficial Ducati: intervalos de servicio; precios no publicados, consultar red oficial",
     },
   },
   {
