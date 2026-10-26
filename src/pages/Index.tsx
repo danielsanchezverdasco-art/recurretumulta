@@ -26,6 +26,17 @@ import { cardThumb as P } from "@/lib/blog-image.ts";
 import F, { AD_SLOTS as I } from "@/components/ads/AdBanner.tsx";
 import { BLOG_LITE_HOME, BLOG_COUNT } from "@/lib/blog-lite-home.generated.ts";
 import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
+import { LazyConvexProvider } from "@/components/providers/convex-lazy.tsx";
+// 26/10/2026 (fix menú móvil): estos chunks usan useAction de convex/react. Si
+// terminan de cargar antes que el ConvexProvider raíz (diferido con
+// requestIdleCallback, frecuente en móviles lentos), lanzaban «Could not find
+// Convex client», el ErrorBoundary raíz abortaba la hidratación y la portada
+// quedaba muerta (hamburguesa sin respuesta). Se envuelven con LazyConvexProvider.
+const conConvex = (p) =>
+  p.then((m) => ({
+    default: (props) =>
+      React.createElement(LazyConvexProvider, null, React.createElement(m.default, props)),
+  }));
 const r = (fn) => fn();
 const __vite__mapDeps = () => [];
 var L = a(`scan-search`, [
@@ -434,13 +445,13 @@ function re() {
   });
 }
 var X = (0, z.lazy)(() =>
-    r(() => import("./index/_components/AnalizadorMulta.tsx"), __vite__mapDeps([0])),
+    r(() => conConvex(import("./index/_components/AnalizadorMulta.tsx")), __vite__mapDeps([0])),
   ),
   ie = (0, z.lazy)(() =>
-    r(() => import("./index/_components/AnalizadorSancion.tsx"), __vite__mapDeps([0])),
+    r(() => conConvex(import("./index/_components/AnalizadorSancion.tsx")), __vite__mapDeps([0])),
   ),
   ae = (0, z.lazy)(() =>
-    r(() => import("./index/_components/VerificadorPago.tsx"), __vite__mapDeps([0])),
+    r(() => conConvex(import("./index/_components/VerificadorPago.tsx")), __vite__mapDeps([0])),
   ),
   oe = (0, z.lazy)(() =>
     r(() => import("@/components/Top3VentasMes.tsx"), __vite__mapDeps([0])),
@@ -449,7 +460,7 @@ var X = (0, z.lazy)(() =>
     r(() => import("@/components/caza-monos/SeccionJuegoPortada.tsx"), __vite__mapDeps([0])),
   ),
   ce = (0, z.lazy)(() =>
-    r(() => import("@/components/NewsletterSignup.tsx"), __vite__mapDeps([0])),
+    r(() => conConvex(import("@/components/NewsletterSignup.tsx")), __vite__mapDeps([0])),
   ),
   Z = (0, z.lazy)(() =>
     r(
