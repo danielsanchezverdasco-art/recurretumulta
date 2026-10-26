@@ -31,14 +31,14 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     pros: [
       "7.350 €: la trail A2 de referencia en relación calidad-precio, con el respaldo de la red Honda",
       "Bicilíndrico de 471 cc y 47 CV: suave, fiable y con consumos reales en torno a 3,3 l/100 km",
-      "Depósito de 17,7 litros: más de 500 km de autonomía teórica entre repostajes",
+      "Depósito de 17,7 litros: más de 500 km de autonomía estimada entre repostajes",
       "Ergonomía pensada para viajar: asiento cómodo, pantalla ajustable y buena protección aerodinámica",
       "Embrague asistido/antirrebote de serie, que facilita los cambios y evita bloqueos en reducciones",
       "Fabricada en la planta de Honda en Tailandia con costes contenidos y calidad contrastada",
     ],
     contras: [
       "Velocidad máxima contenida (algo menos de 160 km/h): en autopista va justa cargada",
-      "Sin control de tracción ni modos de conducción: electrónica básica frente a rivales más nuevas",
+      "Electrónica básica: control de tracción ni modos de conducción, electrónica simple frente a rivales más nuevas",
       "Suspensiones sencillas: en uso campero exigen más al piloto que una trail de enfoque off-road",
       "El parabrisas genera turbulencias para pilotos altos según varias pruebas",
       "Instrumentación LCD mejorable frente a las TFT de la competencia actual",
@@ -72,7 +72,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "honda-cb500x-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "cada 12.000 km o cada año, lo que se cumpla primero",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
@@ -86,7 +86,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial Honda España (intervalos de la familia CB500)",
+      fuente: "Manual oficial Honda España (pautas de la familia CB500)",
     },
   },
   {
@@ -111,16 +111,16 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["autonomiaKm", "velocidadMax"],
     pros: [
-      "Nueva generación 2025 con genética de rally: llantas de 21\"/18\" de radios y suspensiones WP de 230 mm",
-      "Monocilíndrico de 399 cc con 45 CV: el más potente y rabioso del segmento trail A2",
+      "Nueva generación 2025 con genética de rally: llantas de radios de 21\"/18\" y suspensiones WP de 230 mm",
+      "Monocilíndrico de 399 cc y 45 CV: el más potente y rabioso del segmento trail A2",
       "Electrónica de moto grande: ABS en curva, control de tracción desconectable y modos de conducción",
       "Pantalla TFT de 5\" con conectividad Bluetooth de serie",
-      "176 kg en orden de marcha: ligera y manejable en pistas para su categoría",
+      "176 kg en orden de marcha: ágil y manejable en pistas para su categoría",
       "Consumo medio de 3,4 l/100 km: unos 426 km de autonomía con sus 14,5 litros",
     ],
     contras: [
       "7.499 €: precio de roadster 700 para una 390, la más cara de su segmento",
-      "Asiento a 870 mm: muy alta para pilotos de talla baja",
+      "Altura de asiento de 870 mm: muy alta para pilotos de talla baja",
       "El monocilíndrico vibra y es brusco a bajo régimen en ciudad",
       "Versión X más barata (5.999 €) pero con llantas de aleación y menos recorrido: ojo al elegir",
       "Protección aerodinámica limitada para viajes largos por autopista",
@@ -201,7 +201,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "Calidad de acabados y valor de reventa superiores a la media del segmento",
     ],
     contras: [
-      "224 kg en orden de marcha: pesada para el off-road serio",
+      "224 kg en orden de marcha: una moto pesada para el off-road serio",
       "Los extras (ESA, quickshifter, maletas) disparan el precio final muy por encima del base",
       "Mantenimiento en servicio oficial BMW más caro que la competencia japonesa",
       "Con 77 CV se queda corta frente a rivales de 95 CV por precio similar",
@@ -236,7 +236,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "bmw-f-750-gs-2024-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "cada 10.000 km o al año, lo que suceda primero",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -245,7 +245,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
         },
         {
           nombre: "Revisión mayor / 20.000 km",
-          queSeCambia: "Aceite + filtros + bujías + filtro de aire + reglaje de válvulas",
+          queSeCambia: "Aceite, filtros y bujías + filtro de aire y reglaje de válvulas",
           costeAproxEur: null,
         },
       ],
@@ -285,7 +285,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     contras: [
       "Por 12.195 € compite con trails japonesas más potentes y equipadas",
       "Sin pantalla TFT a color: instrumentación más sencilla que sus hermanas 900",
-      "El tricilíndrico consume más que los bicilíndricos rivales en uso tranquilo",
+      "El tricilíndrico gasta más que los bicilíndricos rivales en uso tranquilo",
       "Red de concesionarios Triumph más reducida que la japonesa en España",
       "Protección aerodinámica mejorable para su enfoque viajero",
       "Asiento alto para pilotos de talla baja (810 mm en posición baja)",
@@ -318,7 +318,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "triumph-tiger-850-sport-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "cada 16.000 km o cada año, lo que suceda primero",
       revisiones: [
         {
           nombre: "Revisión anual / 16.000 km",
@@ -327,7 +327,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
         },
         {
           nombre: "Revisión mayor / 32.000 km",
-          queSeCambia: "Aceite + filtros + bujías + filtro de aire + reglaje de válvulas",
+          queSeCambia: "Aceite + filtros + bujías + filtro de aire + ajuste de válvulas",
           costeAproxEur: null,
         },
       ],
@@ -367,7 +367,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     contras: [
       "40 CV justos para autopista con pasajero y equipaje",
       "Suspensiones básicas sin regulación: flojas en uso campero exigente",
-      "Sin electrónica: ni modos, ni control de tracción, ni pantalla TFT",
+      "Sin electrónica: ni modos de conducción, ni control de tracción, ni pantalla TFT",
       "El bicilíndrico pequeño pide ir alto de vueltas para rendir",
       "Protección aerodinámica escasa para viajes largos",
       "Estética algo anticuada frente a las trails A2 de nueva generación",
@@ -400,11 +400,11 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "kawasaki-versys-x-300-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "cada 6.000 km o cada año, lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 6.000 km",
-          queSeCambia: "Aceite + filtro de aceite + inspección general",
+          queSeCambia: "Cambio de aceite y filtro + inspección general",
           costeAproxEur: null,
         },
         {
@@ -440,7 +440,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     aprox: ["autonomiaKm", "pesoKg"],
     pros: [
       "Monocilíndrico de 249 cc con tecnología SEP: unos 26 CV con consumos cercanos a 3 l/100 km",
-      "167 kg en orden de marcha: una de las trails A2 más ligeras del mercado",
+      "167 kg en orden de marcha: una de las más ligeras del segmento trail A2",
       "Estética V-Strom con el clásico pico de pato: imagen de trail grande en formato pequeño",
       "Motor derivado de la Gixxer 250: mecánica sencilla, probada y barata de mantener",
       "12 litros de depósito y bajo consumo: unos 400 km de autonomía teórica",
@@ -450,7 +450,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "Sin precio oficial en España: su comercialización europea es limitada y hay que consultar al importador",
       "26 CV justos para carretera abierta: es una moto de ritmo tranquilo",
       "Llantas de 19\"/17\" con neumáticos de dibujo suave: trail de asfalto más que de tierra",
-      "Sin electrónica avanzada: ni modos ni control de tracción",
+      "Sin electrónica avanzada: sin control de tracción y sin modos de conducción",
       "Suspensiones sencillas sin regulación",
       "El monocilíndrico refrigerado por aire y aceite vibra a altas revoluciones",
     ],
@@ -485,11 +485,11 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "suzuki-v-strom-250sx-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "cada 6.000 km o al año, lo primero que se cumpla",
       revisiones: [
         {
           nombre: "Revisión anual / 6.000 km",
-          queSeCambia: "Aceite + filtro de aceite + inspección general",
+          queSeCambia: "Aceite nuevo y filtro de aceite + revisión general",
           costeAproxEur: null,
         },
         {
@@ -527,17 +527,17 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "6.450 €: la NX500 2026 baja de precio y se coloca como la trail A2 Honda más asequible",
       "Bicilíndrico de 471 cc con 47 CV y control de tracción HSTC desconectable",
       "Pantalla TFT de 5\" con Honda RoadSync: navegación y conectividad de serie",
-      "Horquilla invertida Showa de 41 mm y doble disco delantero de 296 mm",
-      "Consumo de 3,6 l/100 km con 17,5 litros: unos 480 km de autonomía",
+      "Horquilla invertida Showa de 41 mm con doble disco delantero de 296 mm",
+      "Con 17,5 litros y un consumo de 3,6 l/100 km: unos 480 km de autonomía",
       "196 kg en orden de marcha: 3 kg menos que la CB500X a la que sustituye",
     ],
     contras: [
       "La versión con E-Clutch cuesta más y añade peso al conjunto",
       "Sin modos de conducción: solo el HSTC como ayuda electrónica",
-      "El asiento a 830 mm puede quedar alto para pilotos bajos",
+      "La altura del asiento, 830 mm, puede quedar alta para pilotos bajos",
       "Protección aerodinámica justa para viajes largos por autopista",
       "Neumáticos de serie más asfálticos que camperos",
-      "La competencia china ofrece más equipamiento por menos dinero",
+      "Las marcas chinas ofrecen más equipamiento por menos dinero",
     ],
     curiosidades: [
       "La NX500 es la heredera directa de la CB500X, rebautizada en 2024 con estética de rally",
@@ -570,16 +570,16 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "honda-nx500-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "cada 12.000 km o al cumplirse el año, lo que suceda primero",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
-          queSeCambia: "Aceite 10W-30 + filtro de aceite + inspección general (frenos, cadena, neumáticos)",
+          queSeCambia: "Aceite 10W-30 y filtro de aceite + inspección general (frenos, cadena, neumáticos)",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 24.000 km",
-          queSeCambia: "Aceite + filtros + bujías + filtro de aire + reglaje de válvulas",
+          queSeCambia: "Cambio de aceite, filtros, bujías y filtro de aire + reglaje de válvulas",
           costeAproxEur: null,
         },
       ],
@@ -613,7 +613,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "Bicilíndrico de 449,5 cc con 44 CV y cigüeñal a 270º: sonido y tacto de moto mayor",
       "175 kg en orden de marcha: ligera para una trail bicilíndrica",
       "Suspensiones KYB regulables y llantas de radios con neumáticos mixtos de serie",
-      "Pantalla TFT con conectividad y control de tracción desconectable",
+      "Pantalla TFT con conectividad, control de tracción desconectable",
       "Depósito de 17,5 litros: más de 400 km de autonomía real",
     ],
     contras: [
@@ -655,16 +655,16 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "cfmoto-450mt-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "cada 5.000 km o cada año, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión anual / 5.000 km",
-          queSeCambia: "Aceite + filtro de aceite + inspección general",
+          queSeCambia: "Sustitución de aceite y filtro + inspección general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 10.000 km",
-          queSeCambia: "Aceite + filtros + bujías + filtro de aire",
+          queSeCambia: "Aceite, filtros y bujías + filtro de aire",
           costeAproxEur: null,
         },
       ],
@@ -694,9 +694,9 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["pesoKg"],
     pros: [
-      "3.792 €: la trail A2 más barata del mercado español, imbatible en precio",
+      "3.792 €: la trail A2 más económica del mercado español, imbatible en precio",
       "147 kg: ligereza de moto de campo, ideal para iniciarse en el off-road",
-      "Monocilíndrico de 292 cc con 28,5 CV: suficiente para pistas y carreteras secundarias",
+      "Monocilíndrico de 292 cc y 28,5 CV: suficiente para pistas y carreteras secundarias",
       "Estética rally con frontal alto y protecciones: imagen muy conseguida",
       "Mecánica sencilla derivada de Loncin: mantenimiento barato y accesible",
       "Perfecta como segunda moto o para el carnet A2 con presupuesto ajustado",
@@ -712,8 +712,8 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     curiosidades: [
       "Voge es la marca global de Loncin, el gigante chino que fabrica motores para BMW",
       "La 300 Rally comparte filosofía con las míticas trail ligeras de los 90",
-      "Su precio la sitúa por debajo de muchas 125 cc de marcas japonesas",
-      "Voge ofrece 5 años de garantía en España, por encima de la media del sector",
+      "Su precio la deja por debajo de muchas 125 cc de marcas japonesas",
+      "Voge da 5 años de garantía en España, por encima de la media del sector",
     ],
     imagen: "/media/voge-300rally-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -740,16 +740,16 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "voge-300rally-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "cada 5.000 km o al año, lo antes que suceda",
       revisiones: [
         {
           nombre: "Revisión anual / 5.000 km",
-          queSeCambia: "Aceite + filtro de aceite + inspección general",
+          queSeCambia: "Aceite y filtro de aceite renovados + inspección general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 10.000 km",
-          queSeCambia: "Aceite + filtros + bujía + filtro de aire",
+          queSeCambia: "Aceite, filtros y bujía + filtro de aire",
           costeAproxEur: null,
         },
       ],
@@ -784,7 +784,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "Bicilíndrico de 471 cc y 47 CV: el tope legal del A2 con entrega suave y progresiva",
       "191 kg en orden de marcha: ligera y ágil para una deportiva carenada",
       "Consumo contenido (~3,6 l/100 km) con 17,7 litros: unos 490 km de autonomía",
-      "Horquilla invertida Showa SFF-BP de 41 mm y doble disco delantero",
+      "Horquilla invertida Showa SFF-BP de 41 mm con doble disco delantero",
       "Posición de conducción menos radical que una supersport: usable a diario",
     ],
     contras: [
@@ -797,7 +797,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     ],
     curiosidades: [
       "La CBR500R debutó en 2013 compitiendo en la European Junior Cup como moto de copa",
-      "Comparte el 90% de los componentes con la CB500F y la CB500X",
+      "Comparte el 90% de sus componentes con la CB500F y la CB500X",
       "Su velocidad máxima ronda los 180 km/h, de las más altas del A2 deportivo",
       "Honda ofrece el embrague electrónico E-Clutch como opción desde 2025",
     ],
@@ -826,21 +826,21 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "honda-cbr500r-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o un año entre revisiones, lo primero que se cumpla",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
-          queSeCambia: "Aceite 10W-30 + filtro de aceite + inspección general (frenos, cadena, neumáticos)",
+          queSeCambia: "Cambio de aceite 10W-30 y filtro + inspección general (frenos, cadena, neumáticos)",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 24.000 km",
-          queSeCambia: "Aceite + filtros + bujías + filtro de aire + reglaje de válvulas",
+          queSeCambia: "Aceite y filtros nuevos, bujías nuevas y filtro de aire con reglaje de válvulas",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial Honda España (intervalos de la familia 500)",
+      fuente: "Manual oficial Honda España (pautas para la familia CB500)",
     },
   },
   {
@@ -870,7 +870,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "Chasis multitubular con geometría derivada de la ZX-10RR del Mundial de SBK",
       "Electrónica completa: KTRC con 3 modos, quickshifter bidireccional KQS y modos de potencia",
       "Suspensiones de nivel: horquilla invertida SFF-BP de 37 mm y amortiguador BFRC lite",
-      "Pantalla TFT de 4,3\" con conectividad Rideology",
+      "Pantalla TFT de 4,3\" con conexión Rideology",
     ],
     contras: [
       "9.225 €: precio de 600 cc para una 400, solo para nostálgicos y puristas",
@@ -878,7 +878,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "Unidades limitadas en Europa: disponibilidad y reventa complicadas",
       "El tetracilíndrico pequeño pide ir siempre alto de vueltas para rendir",
       "Consumo elevado si se usa con alegría: el depósito de 15 litros se queda corto",
-      "Postura radical: incómoda para el día a día y los viajes",
+      "Postura radical: incómoda en el día a día y en los viajes",
     ],
     curiosidades: [
       "Rescata la fórmula de las superdeportivas japonesas de 400 cc y 4 cilindros de los 80 y 90",
@@ -911,21 +911,21 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "kawasaki-ninja-zx-4rr-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o un año entre servicios, lo que se cumpla antes",
       revisiones: [
         {
           nombre: "Revisión anual / 6.000 km",
-          queSeCambia: "Aceite + filtro de aceite + inspección general",
+          queSeCambia: "Cambio de aceite con filtro nuevo + revisión general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 12.000 km",
-          queSeCambia: "Aceite + filtros + bujías + filtro de aire",
+          queSeCambia: "Cambio de aceite, filtros y bujías + filtro de aire",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial Kawasaki (intervalos de la gama Ninja)",
+      fuente: "Manual oficial Kawasaki (pautas de la gama Ninja)",
     },
   },
   {
@@ -951,11 +951,11 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     aprox: ["autonomiaKm", "pesoKg"],
     pros: [
       "Estética de MotoGP: el carenado más agresivo del segmento 125",
-      "Chasis multitubular y suspensiones WP Apex: parte ciclo de moto grande",
+      "Chasis multitubular con suspensiones WP Apex: parte ciclo de moto grande",
       "147 kg en seco: ligera y muy ágil entre el tráfico",
       "Monocilíndrico de 124,7 cc con 15 CV: el tope legal del A1",
-      "Consumo mínimo (~2,5 l/100 km) con 13,7 litros: más de 500 km de autonomía",
-      "Se puede conducir con el carnet B con 3 años de antigüedad",
+      "Consumo mínimo (~2,5 l/100 km) con 13,7 litros: supera los 500 km de autonomía",
+      "Con 3 años de carnet B ya se puede conducir",
     ],
     contras: [
       "4.749 €: la 125 deportiva más cara, muy por encima de las chinas",
@@ -996,21 +996,21 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "ktm-rc-125-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "7.500 km o 12 meses (lo que ocurra antes)",
+      intervalo: "cada 7.500 km o cada año, lo antes que suceda",
       revisiones: [
         {
           nombre: "Revisión anual / 7.500 km",
-          queSeCambia: "Aceite + filtro de aceite + inspección general",
+          queSeCambia: "Aceite + filtro de aceite nuevos e inspección general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 15.000 km",
-          queSeCambia: "Aceite + filtros + bujía + filtro de aire",
+          queSeCambia: "Cambio de aceite, filtros y bujía + filtro de aire",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial KTM (intervalos de la gama 125)",
+      fuente: "Manual oficial KTM (pautas de la gama 125)",
     },
   },
   {
@@ -1081,21 +1081,21 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "ktm-rc-390-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "7.500 km o 12 meses (lo que ocurra antes)",
+      intervalo: "cada 7.500 km o al año, lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 7.500 km",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y electrónica",
+          queSeCambia: "Cambio de aceite y filtro + inspección general y electrónica",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 15.000 km",
-          queSeCambia: "Aceite + filtros + bujía + filtro de aire + reglaje de válvulas",
+          queSeCambia: "Aceite, filtros, bujía y filtro de aire + reglaje de válvulas",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial KTM (intervalos de la gama 390)",
+      fuente: "Manual oficial KTM (pautas para la gama 390)",
     },
   },
   {
@@ -1125,14 +1125,14 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "144 kg: ligera y con una parte ciclo muy superior a su cilindrada",
       "Monocilíndrico de 124,2 cc con 15 CV y distribución de 4 válvulas",
       "Depósito de 14,5 litros: más de 550 km de autonomía teórica",
-      "Se conduce con el carnet B con 3 años de antigüedad",
+      "Con el carnet B y 3 años de antigüedad se puede llevar",
     ],
     contras: [
-      "5.499 €: la 125 más cara del mercado, a precio de 300 cc japonesa",
+      "5.499 €: la 125 más costosa del mercado, a precio de 300 cc japonesa",
       "Postura de carreras: incómoda para ciudad y viajes",
       "El motor de 4T no tiene el carácter de las antiguas RS 2T",
       "Recambios Aprilia más caros y menos disponibles que los japoneses",
-      "Electrónica básica: sin modos ni control de tracción",
+      "Electrónica básica: sin modos de conducción y sin control de tracción",
       "El mantenimiento en servicio oficial Piaggio Group es caro para una 125",
     ],
     curiosidades: [
@@ -1166,16 +1166,16 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "aprilia-rs-125-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "cada 10.000 km o cada año, lo primero que llegue",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
-          queSeCambia: "Aceite + filtro de aceite + inspección general",
+          queSeCambia: "Renovación de aceite y filtro + inspección general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 20.000 km",
-          queSeCambia: "Aceite + filtros + bujía + filtro de aire",
+          queSeCambia: "Aceite y filtros nuevos + bujía y filtro de aire",
           costeAproxEur: null,
         },
       ],
@@ -1213,7 +1213,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "Diseño agresivo que no pasa desapercibido",
     ],
     contras: [
-      "Marca china con red de servicio aún pequeña en España",
+      "Marca china con una red de servicio aún pequeña en España",
       "El tricilíndrico es nuevo y sin historial de fiabilidad a largo plazo",
       "Reventa incierta: el mercado de ocasión aún no la valora",
       "Recambios específicos con plazos de espera",
@@ -1253,16 +1253,16 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "zontes-703r-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o un año entre servicios, según lo que se cumpla",
       revisiones: [
         {
           nombre: "Revisión anual / 5.000 km",
-          queSeCambia: "Aceite + filtro de aceite + inspección general",
+          queSeCambia: "Aceite y filtro sustituidos + inspección general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 10.000 km",
-          queSeCambia: "Aceite + filtros + bujías + filtro de aire",
+          queSeCambia: "Aceite y filtros nuevos + bujías y filtro de aire",
           costeAproxEur: null,
         },
       ],
@@ -1294,16 +1294,16 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     pros: [
       "5.799 €: la 125 deportiva de Yamaha con estética de YZF-R1",
       "Motor de 124,7 cc con distribución variable VVA: más par en medios y mejor eficiencia",
-      "142 kg en orden de marcha: una de las 125 más ligeras",
+      "142 kg en orden de marcha: entre las 125 más ligeras",
       "Consumo homologado de 2,13 l/100 km con 11,5 litros: unos 540 km de autonomía",
-      "Chasis Deltabox y horquilla invertida de 41 mm: parte ciclo seria",
-      "Se conduce con el carnet B con 3 años de antigüedad",
+      "Chasis Deltabox con horquilla invertida de 41 mm: parte ciclo seria",
+      "Se lleva con el carnet B con 3 años de experiencia",
     ],
     contras: [
       "5.799 €: cara frente a las 125 chinas que cuestan la mitad",
       "15 CV: en autopista va justa, es una moto de carreteras secundarias",
       "Postura deportiva que cansa en ciudad",
-      "Sin control de tracción ni modos de conducción",
+      "Sin ayudas electrónicas: sin control de tracción y sin modos",
       "El sistema VVA añade complejidad mecánica frente a motores más simples",
       "Asiento del pasajero muy pequeño",
     ],
@@ -1338,16 +1338,16 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "yamaha-yzf-r125-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o cada año entre servicios, lo primero que se cumpla",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
-          queSeCambia: "Aceite + filtro de aceite + inspección general",
+          queSeCambia: "Cambio de aceite y de filtro + revisión general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 20.000 km",
-          queSeCambia: "Aceite + filtros + bujía + filtro de aire",
+          queSeCambia: "Aceite + filtros + bujía nueva + filtro de aire",
           costeAproxEur: null,
         },
       ],
@@ -1379,10 +1379,10 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     pros: [
       "3.899 €: la 125 deportiva japonesa más asequible, con genes GSX-R",
       "134 kg: la más ligera de las 125 deportivas, agilísima",
-      "Motor de 124 cc con 15 CV: el tope del A1 con fiabilidad Suzuki",
+      "Motor de 124 cc y 15 CV: el tope del A1 con fiabilidad Suzuki",
       "Consumo mínimo (~2,1 l/100 km) con 11 litros: más de 500 km de autonomía",
       "Arranque sin llave y cuadro LCD completo de serie",
-      "Se conduce con el carnet B con 3 años de antigüedad",
+      "Basta el carnet B con 3 años de antigüedad para conducirla",
     ],
     contras: [
       "Estética menos agresiva que la Yamaha R125 o la KTM RC 125",
@@ -1423,21 +1423,21 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "suzuki-gsx-r125-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "cada 6.000 km o 12 meses, lo primero que se cumpla",
       revisiones: [
         {
           nombre: "Revisión anual / 6.000 km",
-          queSeCambia: "Aceite + filtro de aceite + inspección general",
+          queSeCambia: "Aceite nuevo + filtro de aceite nuevo e inspección general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 12.000 km",
-          queSeCambia: "Aceite + filtros + bujía + filtro de aire",
+          queSeCambia: "Sustitución de aceite, filtros y bujía, además del filtro de aire",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial Suzuki (intervalos de la gama 125)",
+      fuente: "Manual oficial Suzuki (pautas de la gama 125)",
     },
   },
   // ── CUSTOM / SCRAMBLER ────────────────────────────────────────
@@ -1465,13 +1465,13 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     pros: [
       "11.695 €: el icono Bonneville con el bicilíndrico de 900 cc y 65 CV",
       "Limitable para el carnet A2 con kit reversible de la red oficial",
-      "2026 con IMU: ABS y control de tracción en curva, faro LED con DRL y USB-C",
+      "2026 con IMU: ABS con control de tracción en curva, faro LED con DRL y USB-C",
       "Modos de conducción Rain y Road de serie",
-      "4 años de garantía sin límite de kilometraje, de las mejores del sector",
+      "4 años de garantía sin límite de kilómetros, de las mejores del sector",
       "Más de 100 accesorios originales para personalizarla",
     ],
     contras: [
-      "228 kg: pesada para mover en parado y en ciudad",
+      "228 kg: cuesta moverla en parado y en ciudad",
       "65 CV con entrega tranquila: no es una moto para buscar prestaciones",
       "Cambio de solo 5 velocidades",
       "El control de crucero es opcional, de serie en la T120",
@@ -1509,21 +1509,21 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "triumph-bonneville-t100-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "cada 16.000 km o al año, lo que ocurra primero",
       revisiones: [
         {
           nombre: "Revisión anual / 16.000 km",
-          queSeCambia: "Aceite + filtro de aceite + inspección general",
+          queSeCambia: "Sustitución del aceite y del filtro + revisión general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 32.000 km",
-          queSeCambia: "Aceite + filtros + bujías + filtro de aire + reglaje de válvulas",
+          queSeCambia: "Aceite + filtros + bujías nuevas + filtro de aire + reglaje de válvulas",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial Triumph (intervalos de la gama Bonneville)",
+      fuente: "Manual oficial Triumph (pautas de la gama Bonneville)",
     },
   },
   {
@@ -1594,7 +1594,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "royal-enfield-classic-350-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses, primera revisión a los 500 km (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses, primera inspección a los 500 km (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión / 500 km",
@@ -1603,7 +1603,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
         },
         {
           nombre: "Revisión anual / 10.000 km",
-          queSeCambia: "Aceite + filtro de aceite + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + revisión general completa",
           costeAproxEur: null,
         },
       ],
@@ -1679,21 +1679,21 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "royal-enfield-meteor-350-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses, primera revisión a los 500 km (lo que ocurra antes)",
+      intervalo: "10.000 km, y también cada 12 meses, primera revisión a los 500 km (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión / 500 km",
-          queSeCambia: "Aceite + filtro de aceite + apriete general",
+          queSeCambia: "Cambio de aceite y filtro + apriete general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión anual / 10.000 km",
-          queSeCambia: "Aceite + filtro de aceite + inspección general",
+          queSeCambia: "Cambio de aceite y filtro + revisión general completa",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial Royal Enfield (intervalos de la gama 350 J)",
+      fuente: "Manual oficial Royal Enfield (pautas de la gama 350 J)",
     },
   },
   {
@@ -1729,7 +1729,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "Depósito de solo 12 litros: unos 330 km de autonomía, justa para viajar",
       "Sin protección aerodinámica: en autopista cansa",
       "Suspensiones básicas sin regulación",
-      "El escape alto limita las opciones de maletas laterales",
+      "Su escape alto limita las opciones de maletas laterales",
       "Sin electrónica más allá del ABS",
       "46 CV se quedan cortos frente a scramblers de mayor cilindrada",
     ],
@@ -1764,21 +1764,21 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "honda-cl500-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "servicio cada 12.000 km o cada 12 meses, lo primero que se cumpla",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
-          queSeCambia: "Aceite 10W-30 + filtro de aceite + inspección general (frenos, cadena, neumáticos)",
+          queSeCambia: "Aceite 10W-30 + filtro de aceite nuevo e inspección general (frenos, cadena, neumáticos)",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 24.000 km",
-          queSeCambia: "Aceite + filtros + bujías + filtro de aire + reglaje de válvulas",
+          queSeCambia: "Sustitución de aceite, filtros y bujías nuevas, filtro de aire y reglaje de válvulas",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial Honda España (intervalos de la familia 500)",
+      fuente: "Manual oficial Honda España (pautas de mantenimiento de la familia 500)",
     },
   },
   {
@@ -1807,7 +1807,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "170 kg en seco: una de las scrambler grandes más ligeras",
       "Estética Nightshift: la versión más elegante y urbana de la gama Scrambler",
       "Limitable para el carnet A2: acceso al mundo Ducati desde el A2",
-      "Electrónica completa: modos de conducción, control de tracción y ABS en curva",
+      "Electrónica completa: modos de conducción y control de tracción, además de ABS en curva",
       "Sonido y tacto inconfundibles del Desmodue",
     ],
     contras: [
@@ -1853,7 +1853,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
-          queSeCambia: "Aceite + filtro de aceite + inspección general",
+          queSeCambia: "Aceite y filtro nuevos + inspección general completa",
           costeAproxEur: null,
         },
         {
@@ -1889,7 +1889,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     aprox: ["autonomiaKm", "pesoKg"],
     pros: [
       "5.490 €: la scrambler italiana A2 con mejor relación precio/equipamiento",
-      "Bicilíndrico de 500 cc con 48 CV: el tope del A2 con muy buenos bajos",
+      "Bicilíndrico de 500 cc y 48 CV: el tope del A2 con muy buenos bajos",
       "Estética neo-retro muy conseguida, con el león de Benelli en el guardabarros",
       "Chasis multitubular y suspensiones regulables",
       "Existe versión Trail con llantas de radios y protecciones",
@@ -1934,16 +1934,16 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "benelli-leoncino-500-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "cada 6.000 km o cada 12 meses, lo que se cumpla antes",
       revisiones: [
         {
           nombre: "Revisión anual / 6.000 km",
-          queSeCambia: "Aceite + filtro de aceite + inspección general",
+          queSeCambia: "Renovación del aceite y del filtro + revisión general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 12.000 km",
-          queSeCambia: "Aceite + filtros + bujías + filtro de aire",
+          queSeCambia: "Aceite + filtros + bujías nuevas + filtro de aire",
           costeAproxEur: null,
         },
       ],
@@ -1976,7 +1976,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "6.999 €: la scrambler española con motor Honda de 471 cc y 47 CV",
       "Bicilíndrico de origen Honda: fiabilidad contrastada y recambios accesibles",
       "195 kg en orden de marcha: contenida para una scrambler de media cilindrada",
-      "Depósito de 18 litros: unos 470 km de autonomía, de las mejores del segmento",
+      "Depósito de 18 litros: unos 470 km de autonomía, entre las mejores del segmento",
       "Estética SCR muy cuidada: la marca española que más mima el diseño",
       "Asiento a 795 mm: accesible para todas las tallas",
     ],
@@ -1989,7 +1989,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "El motor Honda va algo descafeinado frente a la competencia",
     ],
     curiosidades: [
-      "Macbor es una marca española con sede en Elda (Alicante)",
+      "Macbor, marca española con sede en Elda (Alicante)",
       "El nombre Eight Mile rinde homenaje a la mítica ruta 66",
       "Utiliza el bicilíndrico de 471 cc de origen Honda, como la CL500",
       "La versión SCR es la de estética scrambler, con neumáticos mixtos y protecciones",
@@ -2020,16 +2020,16 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "macbor-eight-mile-500-scr-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o cada 12 meses, según lo que se cumpla",
       revisiones: [
         {
           nombre: "Revisión anual / 6.000 km",
-          queSeCambia: "Aceite + filtro de aceite + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + inspección general de la moto",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 12.000 km",
-          queSeCambia: "Aceite + filtros + bujías + filtro de aire",
+          queSeCambia: "Sustitución de aceite, filtros y bujías, además del filtro de aire",
           costeAproxEur: null,
         },
       ],
@@ -2064,7 +2064,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "134 kg en seco: muy ligera y fácil de manejar",
       "Estética cruiser clásica: depósito en lágrima, escape cromado y asiento bajo",
       "Consumo mínimo: una de las motos más baratas de mantener",
-      "Se conduce con el carnet B con 3 años de antigüedad",
+      "El carnet B con 3 años de antigüedad permite conducirla",
     ],
     contras: [
       "10,6 CV: la menos potente de su segmento, solo para ciudad y paseo",
@@ -2077,7 +2077,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     curiosidades: [
       "La Superlight 125 se vende en España desde 2011 con éxito constante",
       "Keeway forma parte del grupo QJMotor, uno de los gigantes chinos",
-      "Es una de las custom 125 más vendidas de Europa en su segmento de precio",
+      "Está entre las custom 125 más vendidas de Europa en su segmento de precio",
       "La versión 125V actualiza la estética manteniendo la mecánica probada",
     ],
     imagen: "/media/keeway-superlight-125v-2025-ficha-tecnica-precio-oficial.webp",
@@ -2111,7 +2111,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
         },
         {
           nombre: "Revisión mayor",
-          queSeCambia: "Aceite + filtros + bujía + filtro de aire",
+          queSeCambia: "Aceite, filtros, bujía y filtro de aire renovados",
           costeAproxEur: null,
         },
       ],
