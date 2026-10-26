@@ -3042,7 +3042,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no probado",
     },
     planMantenimiento: {
-      intervalo: "Como indica el plan, cada cada 12 meses o quince mil kilómetros, lo que se cumpla antes",
+      intervalo: "Como indica el plan de mantenimiento, cada 12 meses o quince mil kilómetros, lo que antes se cumpla",
       revisiones: [
         { nombre: "Servicio programado cada año de 15.000 km", queSeCambia: "Aceite y filtro de aceite con filtro de polen + revisión de 30 puntos", costeAproxEur: 190 },
         { nombre: "Revisión programada / 30.000 km", queSeCambia: "Además, filtro de aire y también líquido de frenos conforme a las indicaciones", costeAproxEur: 290 },
