@@ -4,9 +4,9 @@ import type { BlogPost } from "./blog-data.ts";
 
 export const LOTE_OCT_B_POSTS: BlogPost[] = [
   {
-    title: "Geely E2: desde 20.990 €",
+    title: "Geely E2: urbano eléctrico desde 13.990 € en España",
     slug: "geely-e2-electrico-barato-precio-espana",
-    excerpt: "El Geely E2 ya está en España: 4,13 m, tracción trasera, hasta 345 km de autonomía y 5 estrellas Euro NCAP desde 20.990 € (13.990 € en promo).",
+    excerpt: "El Geely E2 llega a España con 345 km WLTP, tracción trasera y 5 estrellas Euro NCAP: desde 20.990 € de tarifa y 13.990 € con la promo de lanzamiento.",
     category: "Novedades Motor",
     date: "2026-10-03",
     readTime: 8,
@@ -19,19 +19,19 @@ export const LOTE_OCT_B_POSTS: BlogPost[] = [
       "Geely E2 Almussafes",
       "urbano eléctrico chino"
     ],
-    content: `<img src=/media/geely-e2-electrico-barato-precio-espana-hero.webp alt=\"Compacto eléctrico urbano azul circulando por una calle del centro de Madrid al atardecer\">
+    content: `<img src=/media/geely-e2-electrico-barato-precio-espana-hero.webp alt=\\"Compacto eléctrico urbano azul circulando por una calle del centro de Madrid al atardecer\\">
 
 **¿Buscas solo los datos?** <a href=/comparador-coches/>Compara el Geely E2 con sus rivales</a> o <a href=/mejor-coche-por-presupuesto/>descubre el mejor coche por tu presupuesto</a>.
 
-El eléctrico más vendido de China ya está en España. El **Geely E2** aterriza con una receta que suena a trampa: 4,13 metros, **tracción trasera**, cinco plazas, **5 estrellas Euro NCAP** y un precio de tarifa de **20.990 euros** que con la promoción de lanzamiento baja hasta los **13.990 euros**. ¿Demasiado bonito para ser verdad? Lo hemos comprobado dato por dato.
+España recibe ya al urbano eléctrico más vendido en China. Con 4,13 metros, el **Geely E2** ofrece cinco plazas, **tracción trasera** y **5 estrellas Euro NCAP**. ¿Precio? **20.990 euros** de tarifa; **13.990 euros** si se aplica la promoción de lanzamiento. A continuación, cada cifra queda contrastada.
 
-## La noticia
+## Llegada a España
 
-Geely no es una marca cualquiera: es el gigante chino dueño de Volvo, Polestar, Lotus y Zeekr. Su desembarco en España con marca propia llega de la mano del E2, un urbano eléctrico que en China se vende como churros y que aquí quiere pelear con el BYD Dolphin Surf, el Volkswagen ID. Polo y el Leapmotor B03X.
+Detrás del E2 no hay una marca sin respaldo: Geely controla Volvo, Polestar, Lotus y Zeekr. El modelo encabeza el desembarco español con marca propia y, en China, lidera las ventas de su categoría. Sus rivales en España serán el Leapmotor B03X, el Volkswagen ID. Polo y el BYD Dolphin Surf.
 
-La red comercial arranca con **50 concesionarios** y el objetivo de llegar a 80 antes de que acabe el año. Y hay un as en la manga a medio plazo: **Ford y Geely han creado una empresa conjunta para fabricar en Almussafes (Valencia)**, y el E2 es uno de los modelos previstos, con los primeros coches saliendo de la planta valenciana en 2028. Hasta entonces, el E2 que se vende aquí viene de China con baterías LFP de CATL.
+Cincuenta concesionarios abren la red comercial. La meta: ochenta puntos antes de que termine el año. A medio plazo, Ford y Geely compartirán una sociedad conjunta para producir en Almussafes (Valencia). El E2 figura entre los modelos previstos, con las primeras unidades valencianas en 2028. Hasta entonces, las unidades vendidas aquí proceden de China y usan baterías LFP de CATL.
 
-## Precio y versiones en España
+## Precios y versiones en España
 
 | Versión | PVP | Con campañas + Auto+ | Promo lanzamiento* |
 |---|---|---|---|
@@ -39,25 +39,27 @@ La red comercial arranca con **50 concesionarios** y el objetivo de llegar a 80 
 | **E2 PRO+** (115 CV / 47 kWh) | 24.990 € | 20.405 € | **16.485 €** |
 | **E2 MAX+** (115 CV / 47 kWh) | 27.490 € | 22.905 € | **18.485 €** |
 
-*Promoción de lanzamiento con campañas comerciales, financiación y Plan Auto+ incluidos.
+*La promoción de lanzamiento suma campañas comerciales, financiación y Plan Auto+.
 
-Ojo con la letra pequeña del Plan Auto+: al fabricarse hoy en China, el E2 no accede al bonus extra por fabricación europea, así que su techo de ayuda es de 3.375 euros frente a los 4.500 de un eléctrico hecho en la UE. Eso cambiará cuando salga de Almussafes en 2028.
+La letra pequeña del Plan Auto+ importa: al fabricarse hoy en China, este modelo no puede optar al bonus extra de la fabricación europea. Su tope de ayuda queda en 3.375 euros, mientras un eléctrico hecho en la UE alcanza 4.500. Todo cambiará al salir de Almussafes en 2028.
 
-El equipamiento de serie ya es generoso desde el PRO: climatizador automático, acceso y arranque sin llave, asientos delanteros con regulación eléctrica, **función V2L** (puedes enchufar aparatos eléctricos al coche), Apple CarPlay y Android Auto. El MAX+ añade portón trasero eléctrico, asientos delanteros calefactados, techo bitono, cámara de 540 grados y cargador inalámbrico.
+El PRO ya viene bien servido de serie: climatización automática, entrada y arranque sin llave, asientos delanteros de ajuste eléctrico, toma **V2L** para enchufar aparatos externos, Apple CarPlay y Android Auto. En el MAX+ se añaden techo bitono, cámara de 540 grados, cargador inalámbrico, portón trasero eléctrico y calefacción en los asientos delanteros.
 
-<img src=/media/geely-e2-electrico-barato-precio-espana-galeria-3.webp alt=\"Geely E2 en tres cuartos trasero mostrando su firma lumínica, imagen editorial\">
+<img src=/media/geely-e2-electrico-barato-precio-espana-galeria-3.webp alt=\\"Geely E2 en tres cuartos trasero mostrando su firma lumínica, imagen editorial\\">
 
-<img src=/media/geely-e2-electrico-barato-precio-espana-interior-oficial.webp alt=\"Interior oficial del geely e2 electrico barato\">
+<img src=/media/geely-e2-electrico-barato-precio-espana-interior-oficial.webp alt=\\"Interior oficial del geely e2 electrico barato\\">
 
+## Detalles que conviene conocer
 
-## Curiosidades que quizá no sabías
+- **Giro cerrado**: 4,95 metros de radio, una cifra que ayuda mucho a estacionar en zonas céntricas.
 
-- **Gira como una peonza**: su radio de giro de 4,95 metros es de los mejores del segmento, ideal para aparcar en el centro de cualquier ciudad.
-- **Tracción trasera en un urbano de 20.000 €**: una rareza que le da un tacto de conducción más divertido de lo esperado en este precio.
-- **Cuatro modos de conducción**: ECO, CONFORT, SPORT y hasta NIEVE.
-- **Geely ya estuvo aquí antes**: el grupo chino empezó comprando maquinaria industrial europea hace décadas. Hoy es dueño de Volvo, Polestar, Lotus y Zeekr.
+- **Propulsión trasera a precio de urbano**: en un coche de 20.000 €, esa arquitectura aporta un tacto más divertido de lo habitual.
 
-## Rivales directos
+- **Modos de conducción**: ECO, CONFORT, SPORT y NIEVE, cuatro programas entre los que elegir.
+
+- **Un pasado industrial europeo**: el grupo chino, hace décadas, comenzó adquiriendo maquinaria industrial en Europa. Hoy, Volvo, Polestar, Lotus y Zeekr pertenecen al grupo.
+
+## Modelos rivales
 
 | Modelo | Precio desde | Autonomía máxima |
 |---|---|---|
@@ -70,17 +72,17 @@ El equipamiento de serie ya es generoso desde el PRO: climatizador automático, 
 
 ## El plan de Geely en España
 
-Geely no viene de turismo. El grupo chino —dueño de Volvo, Polestar, Lotus y Zeekr— lleva años observando el mercado europeo y ha elegido España como una de sus puertas de entrada con marca propia. El E2 es solo el primer paso: la lógica es la misma que ya aplicaron Omoda y Jaecoo (del grupo Chery), que en dos años se han colado entre las marcas que más crecen en nuestro país.
+Almussafes marca la jugada a largo plazo. La sociedad conjunta de Ford y Geely para producir en Valencia esquiva los aranceles europeos al coche chino. Desde 2028, además, el E2 podrá optar al bonus extra ligado al Plan Auto+ cuando la fabricación sea en la UE, lo que recortaría su precio real en otros 1.125 euros de ayuda. Para quien pueda esperar, ese es un argumento de peso.
 
-La red arranca con 50 concesionarios y el objetivo declarado de llegar a 80 antes de que acabe el año. Es un dato importante, porque la gran duda de cualquier marca china nueva no es el coche —que suele estar bien resuelto— sino la postventa: dónde lo llevas si falla algo, cuánto tardan los repuestos, quién responde de la garantía. Una red de 80 puntos da confianza.
+La red también pesa. Abre con 50 concesionarios y la meta es llegar a 80 antes de cerrar el año. Ante una marca china nueva, la duda principal no suele ser el coche —habitualmente bien resuelto— sino la postventa: dónde acudir si algo falla, cuánto tardan los repuestos y quién responde de la garantía. Ochenta puntos dan confianza.
 
-Y luego está Almussafes. La empresa conjunta entre Ford y Geely para fabricar en Valencia es una jugada maestra por dos motivos: esquiva los aranceles europeos al coche chino y, a partir de 2028, permitirá al E2 acceder al bonus extra del Plan Auto+ por fabricación en la UE. Cuando eso ocurra, el precio real del E2 puede bajar otros 1.125 euros de ayuda. Quien pueda esperar, tiene un argumento para hacerlo.
+España es una de las puertas de entrada elegidas por Geely para su marca propia en Europa, tras años observando el mercado. El E2 abre el camino, con la misma lógica que Omoda y Jaecoo (del grupo Chery): en dos años, esas marcas se han colocado entre las marcas de mayor crecimiento en nuestro país.
 
 ## ¿Para quién es el Geely E2?
 
-Para quien busque un segundo coche —o un primero— eminentemente urbano: trayectos diarios, aparcar en el centro, radio de giro mínimo y coste por kilómetro irrisorio. También para flotas urbanas y conductores que hacen muchos kilómetros en ciudad y amortizan rápido el eléctrico.
+¿A quién va dirigido? A quien necesite un primer o segundo coche sobre todo urbano: desplazamientos diarios, estacionar en el centro, un radio de giro mínimo y un coste por kilómetro reducido. También encaja en flotas urbanas y en conductores con muchos kilómetros en ciudad, que amortizan rápido el eléctrico.
 
-No es el coche para quien haga viajes largos cada fin de semana: con 345 km WLTP y cargas de 25 minutos del 30 al 80 %, los viajes son posibles pero piden planificación. Si tu uso es 90 % ciudad, es difícil encontrar mejor relación precio-equipamiento-seguridad.
+No va dirigido, en cambio, a quien haga escapadas largas todos los fines de semana. Con 345 km WLTP y recargas de 25 minutos del 30 al 80 %, viajar resulta posible, pero exige planificar. Si el uso es 90 % ciudad, la relación precio-equipamiento-seguridad resulta difícil de batir.
 
 ## Míralo en vídeo
 
@@ -88,27 +90,33 @@ No es el coche para quien haga viajes largos cada fin de semana: con 345 km WLTP
 
 Vídeo: <a href=https://www.youtube.com/watch?v=fRPebu_L1SE>carwow.es</a> en YouTube
 
-Si estás comparando urbanos eléctricos asequibles, no te pierdas el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf</a>, el <a href=/blog/volkswagen-id-polo-electrico-precio-espana-2026/>Volkswagen ID. Polo</a> y el <a href=/blog/leapmotor-b03x-suv-electrico-barato-europa/>Leapmotor B03X</a>.
+Para contrastarlo con otros urbanos asequibles, revisa el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf</a>, el <a href=/blog/volkswagen-id-polo-electrico-precio-espana-2026/>Volkswagen ID. Polo</a> y el <a href=/blog/leapmotor-b03x-suv-electrico-barato-europa/>Leapmotor B03X</a>.
 
-## Preguntas frecuentes
+## Dudas frecuentes
 
-### ¿Cuánto cuesta el Geely E2 en España?
-Parte de 20.990 euros de tarifa (versión PRO). Con la promoción de lanzamiento, financiación y Plan Auto+ puede quedarse en 13.990 euros.
+### ¿Cuál es el precio del Geely E2 en España?
 
-### ¿Qué autonomía tiene el Geely E2?
-Hasta 345 km WLTP con la batería de 47 kWh (versiones PRO+ y MAX+). En uso puramente urbano la cifra real sube.
+La tarifa parte de 20.990 euros (versión PRO). Sumando promoción de lanzamiento, financiación y Plan Auto+, el desembolso baja hasta 13.990 euros.
+
+### ¿Cuántos kilómetros recorre el Geely E2 con una carga?
+
+La batería de 47 kWh equipa a las versiones PRO+ y MAX+, con hasta 345 km WLTP. En uso exclusivamente urbano, el alcance real resulta superior.
 
 ### ¿Es seguro el Geely E2?
-Sí: tiene 5 estrellas Euro NCAP, siete airbags y un amplio paquete de asistentes a la conducción.
 
-### ¿Dónde se fabrica el Geely E2?
-Actualmente en China. Ford y Geely lo fabricarán en Almussafes (Valencia) a partir de 2028.
+Sí: la valoración Euro NCAP es de 5 estrellas, con siete airbags y numerosos asistentes a la conducción.
+
+### ¿Dónde se produce el Geely E2?
+
+En la actualidad, en China. A partir de 2028, Ford y Geely lo producirán en Almussafes (Valencia).
 
 ### ¿Qué garantía tiene?
-8 años o 200.000 km tanto para el coche como para la batería, más 3 años de asistencia en carretera 24/7.
 
-### ¿Tiene maletero delantero?
-Sí, el E2 cuenta con frunk, algo poco habitual en su segmento y precio.
+Ocho años o 200.000 km cubren coche y batería por igual, con 3 años más de asistencia en carretera 24/7.
+
+### ¿Dispone de maletero delantero?
+
+Sí: dispone de frunk, un hueco delantero poco habitual en su segmento y precio.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
 
@@ -224,9 +232,9 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
 *Fuentes: <a href=https://testcoches.es/modelos/leapmotor-b03x-2026/>testcoches.es</a>, <a href=https://forococheselectricos.com/noticias/leapmotor-b03x-primeras-pruebas-suv-electrico-barato-20260914-42078.html>forococheselectricos.com</a>, <a href=https://www.somoselectricos.com/coches-electricos/nuevo-leapmotor-b03x-sonroja-peugeot-2008-es-mas-barato-potente-tambien-vende-stellantis/20260714125033058280.html>somoselectricos.com</a>.*`
   },
   {
-    title: "Hyundai Ioniq 3: 497 km",
+    title: "Hyundai Ioniq 3: precio desde 29.995 € y 497 km",
     slug: "hyundai-ioniq-3-precio-espana-2026",
-    excerpt: "El Hyundai Ioniq 3 ya es oficial: compacto eléctrico con hasta 495 km WLTP, desde 29.995 € al contado o 21.535 € con financiación y Plan Auto. Precios, versiones y rivales.",
+    excerpt: "Presentado en España el 07/10/2026: el compacto eléctrico coreano anuncia 29.995 € al contado, 21.535 € con financiación y Plan Auto, y hasta 497 km WLTP.",
     category: "Novedades Motor",
     date: "2026-10-07",
     readTime: 8,
@@ -238,23 +246,23 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "compacto eléctrico 500 km autonomía",
       "Hyundai Ioniq 3 N Line"
     ],
-    content: `<img src=/media/hyundai-ioniq-3-precio-espana-2026-hero.webp alt=\"Hatchback compacto eléctrico plateado de diseño futurista circulando por una carretera costera española al amanecer\">
+    content: `<img src=/media/hyundai-ioniq-3-precio-espana-2026-hero.webp alt=\\"Hatchback compacto eléctrico plateado de diseño futurista circulando por una carretera costera española al amanecer\\">
 
-**Actualización 07/10/2026 — presentación oficial:** Hyundai ha presentado oficialmente el Ioniq 3 en España con dos opciones de batería: autonomía WLTP prevista de **más de 344 km** (estándar) y **más de 495 km** (larga autonomía). El precio de partida es **29.995 € al contado**, y se queda en **21.535 €** aplicando los descuentos de financiación de la marca y el Plan Auto. Lo que sigue es el análisis completo con la letra pequeña de la gama.
+**Novedad del 07/10/2026:** la presentación oficial en España deja dos baterías sobre la mesa: una estándar con una autonomía WLTP prevista por encima de 344 km y otra de larga autonomía por encima de 495 km. El punto de partida queda en 29.995 € si se paga al contado, y baja hasta 21.535 € cuando se suman los descuentos por financiar con la marca y el Plan Auto. El resto del artículo desgrana la gama con sus matices.
 
 **¿Buscas solo los datos?** <a href=/comparador-coches/>Compara el Ioniq 3 con sus rivales</a> o <a href=/calculadora-etiqueta-dgt/>comprueba su etiqueta DGT</a>.
 
-El **Hyundai Ioniq 3** es la gran apuesta coreana para democratizar el eléctrico de gran autonomía: un compacto de 4,15 metros con **hasta 497 km WLTP** y un precio de partida anunciado de **29.995 euros**. Pero ojo, porque hay letra pequeña importante en la gama española: te la contamos sin rodeos.
+Hyundai sitúa al Ioniq 3 como su intento de acercar el eléctrico de largo alcance a más bolsillos: mide 4,15 metros, anuncia un máximo de 497 km WLTP y parte de 29.995 euros según lo comunicado. Ese importe, sin embargo, convive con una gama española que todavía no lo ofrece en el concesionario, y ese desfase conviene tenerlo claro antes de pedir presupuesto.
 
-## La noticia (y la letra pequeña)
+## Lo anunciado y lo que se puede encargar hoy
 
-Hyundai ha abierto los pedidos en España con **una única versión**: el acabado **N Line** con la batería grande de 61 kWh, por **39.390 euros** y 456 km de autonomía WLTP. Los **29.995 euros** corresponden a la futura versión Standard Range de 42,2 kWh, que llegará más adelante sin fecha confirmada. Es decir: el precio de ataque existe, pero el coche que hoy puedes comprar es el N Line.
+Al abrir los pedidos en España, la única variante disponible era el acabado N Line, asociado a la batería grande de 61 kWh, con un precio de 39.390 euros y una autonomía WLTP de 456 km. Los 29.995 euros pertenecen a la futura Standard Range de 42,2 kWh, cuya llegada queda pendiente y sin fecha confirmada. El precio de ataque existe en el anuncio, pero el coche que se puede comprar en este momento es el N Line.
 
-¿Por qué 456 km y no 497? Por las llantas de 18 pulgadas del N Line: la cifra máxima de 497 km corresponde a la Long Range con llantas pequeñas, que en España aún no se vende. En Canarias, eso sí, las primeras unidades ya están disponibles desde 17.990 euros con ayudas.
+La diferencia entre 456 km y 497 km se explica por las ruedas: el N Line calza llantas de 18 pulgadas, mientras que la cifra máxima pertenece a la Long Range de llantas pequeñas, una variante que todavía no se comercializa en España. En Canarias, en cambio, las primeras unidades ya se ofrecen desde 17.990 euros con ayudas.
 
-El Ioniq 3 se fabrica en la planta de Hyundai en **İzmit (Turquía)**, donde la marca ha invertido 250 millones de euros. Al no ser UE, no accede al bonus extra del Plan Auto+ por fabricación europea.
+La producción se ubica en la factoría turca de İzmit, donde la marca ha destinado 250 millones de euros. Al fabricarse fuera de la UE, el modelo queda fuera del complemento europeo del Plan Auto+.
 
-## Precio y versiones en España
+## Tarifas de la gama española
 
 | Versión | Batería | Autonomía WLTP | Precio |
 |---|---|---|---|
@@ -262,23 +270,23 @@ El Ioniq 3 se fabrica en la planta de Hyundai en **İzmit (Turquía)**, donde la
 | **Select Long Range*** | 61 kWh | 497 km | **33.995 €** |
 | **N Line Long Range** (a la venta) | 61 kWh | 456 km | **39.390 €** |
 
-*Precios anunciados; la Standard Range llegará más adelante sin fecha confirmada. Con la presentación oficial del 07/10/2026, Hyundai confirma el precio de partida de **29.995 € al contado** y **21.535 €** con descuentos de financiación de la marca y Plan Auto.
+Los importes son anunciados y la Standard Range llegará más adelante, sin una fecha cerrada. Tras la presentación del 07/10/2026, Hyundai confirma un punto de partida de 29.995 € en pago al contado y de 21.535 € con los descuentos por financiar con la marca y el Plan Auto.
 
-El N Line viene muy equipado de serie: llantas de 18 pulgadas, LED, climatizador bizona, volante calefactable, control de crucero adaptativo con Stop&Go, cámara de 360 grados y asistente inteligente de aparcamiento.
+De serie, el N Line suma climatización de dos zonas, volante con calefacción, cámara perimetral, ayuda de aparcamiento inteligente, regulación adaptativa de velocidad con función Stop&Go, llantas de 18 pulgadas e iluminación LED.
 
-<img src=/media/hyundai-ioniq-3-precio-espana-2026-galeria-3.webp alt=\"Hyundai Ioniq 3 en tres cuartos trasero mostrando su firma lumínica, imagen editorial\">
+<img src=/media/hyundai-ioniq-3-precio-espana-2026-galeria-3.webp alt=\\"Hyundai Ioniq 3 en tres cuartos trasero mostrando su firma lumínica, imagen editorial\\">
 
-<img src=/media/hyundai-ioniq-3-precio-espana-2026-interior-oficial.webp alt=\"Interior oficial del hyundai ioniq 3  2026\">
+<img src=/media/hyundai-ioniq-3-precio-espana-2026-interior-oficial.webp alt=\\"Interior oficial del hyundai ioniq 3  2026\\">
 
 
-## Curiosidades que quizá no sabías
+## Cuatro detalles de diseño y equipamiento
 
-- **Diseño "Art of Steel"**: su estética rompedora evoca al Hyundai Veloster, con guiños como los cuatro puntos de luz de la parrilla (la letra H en código morse).
-- **Estrena Pleos en Europa**: es el primer Hyundai europeo con el nuevo sistema multimedia Pleos Connect.
-- **Megabox**: además del maletero de 441 litros, esconde un compartimento extra de 114 litros.
-- **Aparca solo desde el móvil**: el asistente de aparcamiento remoto se controla desde el teléfono.
+- **Lenguaje "Art of Steel"**: la estética recuerda al Hyundai Veloster, y la parrilla incluye cuatro puntos de luz que reproducen la letra H en código morse.
+- **Debut de Pleos en Europa**: se trata del primer Hyundai europeo que incorpora el sistema multimedia Pleos Connect.
+- **Megabox**: junto al maletero de 441 litros, el coche guarda un hueco adicional de 114 litros.
+- **Aparcamiento a distancia**: el asistente de aparcamiento remoto se maneja desde el teléfono móvil.
 
-## Rivales directos
+## Competidores con precio y autonomía
 
 | Modelo | Precio desde | Autonomía máxima |
 |---|---|---|
@@ -288,58 +296,59 @@ El N Line viene muy equipado de serie: llantas de 18 pulgadas, LED, climatizador
 | **Renault 5 E-Tech** | ~28.000 € | 410 km |
 | **BYD Dolphin Surf** | ~19.990 € | 322 km |
 
-*Precio anunciado de la Standard Range, aún no a la venta en España.
+*Importe anunciado de la Standard Range, todavía sin comercializar en España.
 
 <a href=/comparador-coches/>Compáralos cara a cara en nuestro comparador</a>.
 
-## La jugada de Hyundai
+## La estrategia que hay detrás del precio
 
-El Ioniq 3 es la respuesta coreana a la invasión china del eléctrico barato, y la jugada es inteligente: en lugar de recortar hasta el hueso, Hyundai ofrece un compacto con plataforma dedicada (e-GMP), 497 km de autonomía máxima y tecnología de verdad —carga de 22 kW en alterna, V2L, Pleos Connect— a un precio de ataque anunciado de 29.995 euros.
+El Ioniq 3 planta cara a los eléctricos chinos de precio bajo sin vaciar el producto: plataforma específica e-GMP, un máximo de 497 km de autonomía, recarga en alterna a 22 kW, función V2L y Pleos Connect, todo con un precio de ataque anunciado en 29.995 €. Esa combinación es la base de la apuesta coreana.
 
-Pero conviene leer la jugada completa. Abrir las ventas solo con el N Line de 39.390 euros es una estrategia clásica: primero los early adopters que pagan el acabado alto, luego el volumen con la Standard Range. El riesgo es que, mientras tanto, el titular de "menos de 30.000 €" lo capitalicen rivales que sí lo tienen en el concesionario, como el Cupra Raval (26.000 €) o el propio Geely E2.
+Lanzar las ventas únicamente con el N Line, a 39.390 euros, responde a una secuencia habitual: primero captar a quienes pagan el acabado alto, y después buscar volumen con la Standard Range. El peligro de esa secuencia es que el reclamo de "menos de 30.000 €" lo aprovechen competidores que ya tienen ese precio en el concesionario, como el Cupra Raval, a 26.000 €, o el Geely E2.
 
-La fabricación en Turquía es otro matiz: abarata costes frente a Corea, pero deja al Ioniq 3 fuera del bonus UE del Plan Auto+. Aun así, Hyundai juega con una baza que los chinos no tienen: décadas de red comercial y una reputación de fiabilidad que en España pesa mucho.
+Producir en Turquía reduce costes respecto a Corea, pero excluye al Ioniq 3 del bonus UE del Plan Auto+. Frente a eso, Hyundai cuenta con un activo que las marcas chinas no tienen: una red comercial asentada durante décadas y una imagen de fiabilidad con mucho peso en España.
 
-## ¿Para quién es el Hyundai Ioniq 3?
+## A quién le encaja este compacto
 
-Para quien priorice la autonomía por euro y la tranquilidad de una marca consolidada. Si haces viajes de 300-400 km con frecuencia, la Long Range de 497 km es de lo mejor que puedes comprar por este dinero... cuando llegue la versión de acceso.
+Encaja con quien valora la autonomía por euro y la calma de una marca consolidada. Si los desplazamientos de 300-400 km son habituales, la Long Range de 497 km figura entre las mejores opciones por ese dinero, siempre que llegue la versión de acceso.
 
-Nuestro consejo honesto: si tu presupuesto está en los 30.000 euros, espera a la Standard Range antes de decidir. Si puedes estirarte al N Line y lo quieres ya, es un coche redondo y muy equipado. Y si vives en Canarias, mira bien la oferta local: desde 17.990 euros con ayudas es otro partido.
+La recomendación práctica es clara: con un presupuesto en torno a 30.000 euros, conviene esperar a la Standard Range antes de tomar una decisión. Si el presupuesto alcanza el N Line y se quiere el coche ya, se trata de un modelo completo y bien dotado. Y en Canarias, la oferta local cambia el panorama: desde 17.990 euros con ayudas, la ecuación es otra.
 
-## Míralo en vídeo
+## Vídeo de la presentación
 
 <iframe src=https://www.youtube.com/embed/wbjUokbtE70 title="Vídeo: Hyundai Ioniq 3, presentación oficial" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=wbjUokbtE70>Hyundai España</a> en YouTube
 
-Sus duelos directos, ya analizados: el <a href=/blog/cupra-raval-electrico-precio-espana-2026/>Cupra Raval</a>, el <a href=/blog/volkswagen-id-polo-electrico-precio-espana-2026/>Volkswagen ID. Polo</a> y el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf</a>.
+Análisis ya publicados de sus rivales directos: el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf</a>, el <a href=/blog/cupra-raval-electrico-precio-espana-2026/>Cupra Raval</a> y el <a href=/blog/volkswagen-id-polo-electrico-precio-espana-2026/>Volkswagen ID. Polo</a>. Esos tres análisis permiten comparar precio y autonomía antes de elegir.
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el Hyundai Ioniq 3 con los descuentos?
-Con la presentación oficial (07/10/2026), Hyundai confirma 29.995 € al contado y **21.535 €** aplicando descuentos de financiación de la marca y el Plan Auto.
+### ¿Qué precio queda tras aplicar financiación y ayudas?
+Tras la presentación oficial (07/10/2026), la marca anuncia 29.995 € al contado y 21.535 € cuando se aplican las rebajas por financiar con la marca y el Plan Auto.
 
-### ¿Cuánto cuesta el Hyundai Ioniq 3 en España?
-El precio de partida anunciado es 29.995 € (Standard Range, aún no a la venta). Hoy solo se puede comprar el N Line de 61 kWh por 39.390 €.
+### ¿Cuál es el precio de partida en España y qué versión se vende hoy?
+El importe de partida anunciado es 29.995 €, ligado a la Standard Range, todavía no a la venta. Hoy solo está a la venta el N Line de 61 kWh, a 39.390 €.
 
-### ¿Qué autonomía tiene el Hyundai Ioniq 3?
-Hasta 497 km WLTP en la Long Range con llantas pequeñas. El N Line que se vende en España homologa 456 km.
+### ¿Qué alcance homologa el Ioniq 3?
+La Long Range con llantas pequeñas alcanza 497 km WLTP. En España, el N Line en venta homologa 456 km.
 
-### ¿Cuánto tarda en cargar?
-Del 10 al 80 % en unos 29 minutos en carga rápida de corriente continua.
+### ¿Cuánto dura una carga rápida?
+En carga rápida de corriente continua, pasar del 10 al 80 % lleva unos 29 minutos.
 
-### ¿Dónde se fabrica?
-En İzmit (Turquía). Al no ser fabricación UE, no accede al bonus extra del Plan Auto+.
+### ¿En qué país se produce?
+En İzmit (Turquía), fuera de la UE, por lo que queda fuera del complemento europeo del Plan Auto+.
 
-### ¿Qué es el sistema Pleos?
-El nuevo infoentretenimiento de Hyundai que debuta en Europa con el Ioniq 3, con pantalla de 14,6 pulgadas, navegador y asistente de aparcamiento remoto.
+### ¿En qué consiste Pleos?
+Es el nuevo infoentretenimiento de Hyundai, que se estrena en Europa a bordo del Ioniq 3, con una pantalla de 14,6 pulgadas, navegación y ayuda para aparcar a distancia.
 
-### ¿Tiene carga bidireccional?
-Sí, cuenta con tecnología V2L para alimentar aparatos eléctricos externos.
+### ¿Permite alimentar aparatos externos?
+Sí: dispone de tecnología V2L para alimentar aparatos eléctricos externos.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
 
-*Fuentes: <a href=https://madridpress.com/index.php?option=com_content&task=view&id=27885&Itemid=122>MadridPress (presentación oficial 07/10/2026)</a>, <a href=https://testcoches.es/modelos/hyundai-ioniq-3-2026/>testcoches.es</a>, <a href=https://forococheselectricos.com/noticias/hyundai-ioniq-3-precio-espana-497-km-autonomia-20260910-42057.html>forococheselectricos.com</a>, <a href=https://www.somoselectricos.com/coches-electricos/hyundai-pone-precio-ioniq-3-espana-135-cv-mas-450-km-autonomia/20260814084019062210.html>somoselectricos.com</a>.*`
+*Fuentes: <a href=https://madridpress.com/index.php?option=com_content&task=view&id=27885&Itemid=122>MadridPress (presentación oficial 07/10/2026)</a>, <a href=https://testcoches.es/modelos/hyundai-ioniq-3-2026/>testcoches.es</a>, <a href=https://forococheselectricos.com/noticias/hyundai-ioniq-3-precio-espana-497-km-autonomia-20260910-42057.html>forococheselectricos.com</a>, <a href=https://www.somoselectricos.com/coches-electricos/hyundai-pone-precio-ioniq-3-espana-135-cv-mas-450-km-autonomia/20260814084019062210.html>somoselectricos.com</a>.*
+`
   },
   {
     title: "BYD Atto 3 Evo 2026: 800 V y 449 CV desde 29.455 €",

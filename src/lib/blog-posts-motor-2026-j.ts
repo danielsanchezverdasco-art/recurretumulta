@@ -6,9 +6,9 @@ import type { BlogPost } from "./blog-data.ts";
 
 export const MOTOR_2026_J_POSTS: BlogPost[] = [
 {
-  title: "Liux BIG: el coche español de París",
+  title: "Liux BIG: el cuadriciclo español de París 2026",
   slug: "liux-big-salon-paris-2026",
-  excerpt: "La startup española Liux presenta en el Salón de París su BIG de producción: un cuadriciclo eléctrico L7e de fibra de lino, desde menos de 18.000 € prometidos, 270 km de autonomía y 7.500 interesados en lista de espera.",
+  excerpt: "El Liux BIG se presenta en París: cuadriciclo L7e de fibra de lino, hasta 270 km, precio prometido por debajo de 18.000 € y venta prevista en 2027.",
   category: "Novedades Motor",
   date: "2026-10-06",
   readTime: 6,
@@ -23,40 +23,43 @@ export const MOTOR_2026_J_POSTS: BlogPost[] = [
   ],
   content: `<img src=/media/liux-big-salon-paris-2026-hero.webp alt=Pequeño coche eléctrico español sobre el escenario de un salón del automóvil en París, con focos y público>
 
-La española **Liux** se presenta en el **Salón del Automóvil de París** (12-18 de octubre) con la versión de producción de su **BIG**: un cuadriciclo pesado eléctrico (L7e) con carrocería de **fibra de lino**, precio prometido por **debajo de 18.000 euros** y hasta **270 km de autonomía**. Antes incluso de su puesta de largo, la marca ya acumula unos **7.500 interesados** en su lista de espera.
+Un cuadriciclo con carrocería de fibra de lino, montado en España y con la venta prevista para 2027: así se presenta el BIG de Liux en el Salón de París, que se celebra del 12 al 18 de octubre. La compañía lo enseña como versión de producción, con dos baterías, 15 y 20 kWh, y un precio que, de momento, es solo una promesa: por debajo de 18.000 €. Antes del debut, la lista de espera rondaba los 7.500 interesados, según la propia empresa.
 
-## Datos clave
+Los datos de la compañía los recogen <a href=https://www.somoselectricos.com/coches-electricos/liux-big-electrico-espanol-menos-18000-euros-que-debutara-paris/20260924164553063526.html>Somos Eléctricos</a> y <a href=https://movilidadelectrica.com/liux-big-cuadriciclo-electrico-produccion-lista-espera-7-500-interesados/>Movilidad Eléctrica</a>.
 
-- **Categoría:** cuadriciclo pesado L7e (se conduce desde los 16 años)
-- **Baterías:** 15 kWh (~215 km) y 20 kWh (~270 km), ciclo WMTC
-- **Velocidad máxima:** 90 km/h; peso de 648 kg con batería
-- **Carga:** 3,3 kW de a bordo; del 20 al 80 % en menos de 3 horas en una toma doméstica
-- **Carrocería:** monocasco de biocompuesto con fibra de lino
-- **Precio:** prometido por debajo de 18.000 €
-- **Producción:** arranca este otoño en Azuqueca de Henares (Guadalajara); a la venta en el primer semestre de 2027 en España, Francia e Italia
-- **Fuente:** <a href=https://www.somoselectricos.com/coches-electricos/liux-big-electrico-espanol-menos-18000-euros-que-debutara-paris/20260924164553063526.html>Somos Eléctricos</a> y <a href=https://movilidadelectrica.com/liux-big-cuadriciclo-electrico-produccion-lista-espera-7-500-interesados/>Movilidad Eléctrica</a>, con datos de la compañía
+## Lo esencial, en cifras
 
-## Una startup española que fabrica en España
+- Venta prevista: la primera mitad de 2027 en España, Francia e Italia; el montaje empieza este otoño en la planta de Azuqueca de Henares, en Guadalajara.
 
-Liux es una startup de la Comunidad Valenciana liderada por Antonio Espinosa de los Monteros, nacida hace unos cuatro años con la idea de fabricar los coches más sostenibles del mundo. Tras congelar su primer proyecto (el crossover Animal), se volcó en el BIG, un cuadriciclo L7e ya homologado para Europa. La producción arrancará en Azuqueca de Henares con una capacidad prevista de 15.000 unidades en 2028, mientras los composites de lino se fabrican en Elche y Novelda.
+- Categoría: cuadriciclo pesado L7e, con 648 kg con batería y 90 km/h de velocidad máxima.
+
+- Baterías: 15 kWh, unos 215 km, y 20 kWh, unos 270 km, en ciclo WMTC.
+
+- Carga: 3,3 kW a bordo, en toma doméstica; una recarga parcial, del 20 al 80 %, se completa en menos de tres horas.
+
+- Carrocería: monocasco en biocompuesto de fibra de lino.
+
+- Demanda previa: unos 7.500 interesados en lista de espera antes de París.
+
+- Precio: prometido por debajo de 18.000 €, sin cifra final confirmada.
+
+## Quién fabrica el BIG
+
+Liux nació en la Comunidad Valenciana hace unos cuatro años, bajo la dirección de Antonio Espinosa de los Monteros, con la idea de construir los coches más sostenibles del mundo. Su primer proyecto, el crossover Animal, quedó congelado, y la empresa concentró sus esfuerzos en el BIG, un L7e que ya cuenta con homologación europea. Los composites de lino se producen entre Elche y Novelda, y el ensamblaje se hará en Azuqueca, con un objetivo de 15.000 unidades para 2028.
+
+El consumo declarado es de 6,7 kWh/100 km, y la carga doméstica encaja con recorridos urbanos e interurbanos cortos. Para trayectos diarios, los 270 km anunciados y la punta de 90 km/h dan de sobra. La incógnita no es técnica, sino comercial: pasar de interesados a compradores exige una red de venta y posventa que todavía está por levantar.
 
 <img src=/media/liux-big-2026-1.webp alt=Liux BIG circulando, vista lateral del cuadriciclo eléctrico español en color plata>
 
-El planteamiento es distinto al de un utilitario eléctrico convencional: con 6,7 kWh/100 km de consumo declarado y carga en enchufe doméstico, el BIG apunta al uso urbano e interurbano corto, donde un L7e de 90 km/h y 270 km de autonomía cubre de sobra el día a día. La duda razonable es la de toda startup: convertir 7.500 interesados en clientes con una red comercial y posventa que aún está por construir.
+## Qué significa ser un L7e
 
-## Qué es exactamente un L7e y por qué importa
+El BIG no pretende sustituir al turismo urbano, sino jugar en la categoría europea de cuadriciclos pesados. Esa homologación marca sus límites y sus ventajas: punta contenida, peso bajo y una exigencia normativa menor que la de un turismo M1, a cambio de precios y consumos fuera del alcance de un coche convencional. El peso, 648 kg con batería, y la punta, 90 km/h, derivan directamente de esa norma. Frente a los cuadriciclos habituales, que suelen moverse entre 70 y 150 km con cada carga, el BIG anuncia bastante más autonomía.
 
-El BIG no compite contra el coche urbano tradicional, sino dentro de la categoría europea de cuadriciclos pesados, la L7e. Esa homologación fija sus límites y sus ventajas: velocidad máxima contenida, peso reducido y unos requisitos de seguridad menos exigentes que los de un turismo M1, lo que a cambio permite precios y consumos imposibles para un coche convencional. Sus 648 kg con batería y sus 90 km/h de punta son la traducción directa de esa normativa.
+## El carnet: el matiz que importa en España
 
-Es el marco legal de los cuadriciclos que ya se venden en España, pero con una ambición de autonomía muy superior a la habitual, donde lo normal es moverse entre 70 y 150 km por carga.
+La edad mínima europea para un L7e es de 16 años, con el permiso que exija cada país; en Francia, por ejemplo, sirve el B1. En España, en cambio, el cuadriciclo pesado pide el permiso B: el AM solo vale para los ligeros L6e, que no pasan de 45 km/h. Quien busque un vehículo para un menor con AM debe mirar a los ligeros, no al BIG. A cambio, el L7e circula con normalidad por carreteras a su velocidad legal, algo que un L6e urbano no puede hacer.
 
-## El permiso: matiz importante para España
-
-La marca subraya que en Europa un L7e puede conducirse desde los 16 años, y conviene aterrizarlo en la normativa española: en España el cuadriciclo pesado exige el permiso B, mientras que el AM cubre los ligeros L6e, limitados a 45 km/h. La vía de los 16 años existe en países como Francia con su permiso B1. Quien en España quiera un vehículo de este tipo para un menor con AM debería mirar a los ligeros, no a este BIG.
-
-A cambio, el L7e sí comparte con el coche las ventajas de circulación plena por vías interurbanas a su velocidad legal, algo vedado a un L6e pensado solo para ciudad.
-
-## Técnica sencilla, materiales distintos
+## Materiales distintos, técnica sencilla
 
 | Elemento | Dato del Liux BIG |
 |---|---|
@@ -67,49 +70,54 @@ A cambio, el L7e sí comparte con el coche las ventajas de circulación plena po
 | Consumo declarado | 6,7 kWh/100 km |
 | Carrocería | Monocasco de biocompuesto con fibra de lino |
 
-El ciclo WMTC es el específico de motocicletas y cuadriciclos, distinto del WLTP de los coches, así que sus kilómetros no se comparan uno a uno con los de un turismo eléctrico. La apuesta diferencial está en el material: sustituir fibra de vidrio o carbono por lino reduce la huella de fabricación y simplifica el reciclaje, el corazón del discurso de la marca. La carga lenta de 3,3 kW, lejos de ser un defecto, encaja con su uso: se enchufa en casa como un electrodoméstico más y amanece cargado.
+El WMTC es el ciclo propio de motos y cuadriciclos, no el WLTP de los turismos, así que sus kilómetros no admiten comparación directa con los de un coche eléctrico. La diferencia real está en el material: cambiar la fibra de vidrio o el carbono por lino baja la huella de fabricación y facilita el reciclaje, que es el centro del discurso de Liux. La carga de 3,3 kW no busca rapidez, sino encajar en casa: se enchufa como otro electrodoméstico y amanece cargado.
 
-## Fabricar en España: Azuqueca, Elche y Novelda
+## Tres provincias para un solo coche
 
-Liux ha repartido su producción por el territorio: ensamblaje en Azuqueca de Henares con una capacidad prevista de 15.000 unidades en 2028, y composites de lino entre Elche y Novelda, comarcas con tradición industrial en materiales y calzado. Para una startup que viene de congelar su primer proyecto, el crossover Animal, el BIG representa la apuesta de supervivencia: menos ambición por unidad, mucho más volumen potencial.
+El reparto territorial es claro: montaje en Azuqueca, composites en Elche y Novelda, dos comarcas con tradición en materiales y calzado. Tras congelar el Animal, el BIG es la apuesta de supervivencia de la empresa: menos ambición por unidad y más volumen potencial. La lista de espera previa al debut parisino ronda los 7.500 interesados, según la compañía. El paso de interesado a comprador con señal, junto con la posventa por construir, es donde estas empresas se juegan su futuro.
 
-La lista de espera de unos 7.500 interesados es la cifra que la compañía maneja antes del debut parisino. El salto de interesado a cliente con señal pagada es donde estas startups se juegan la existencia, junto con la red de posventa aún por construir.
+## Mientras tanto, lo que ya está en tienda
 
-## Los cuadriciclos que ya puedes comprar hoy
+Hasta que el BIG llegue en 2027, en España ya hay opciones reales. La referencia en ventas es el Citroën Ami <a href=/coches/citroen-ami-2026-precio-ficha-tecnica/>(ficha del Citroën Ami)</a>, un ligero L6e más barato y con límite de 45 km/h. El polo premium del formato lo pone el Microlino <a href=/coches/microlino-2026/>(ficha del Microlino)</a>, con su puerta frontal heredera del Isetta. Ninguno de los dos ofrece lo que promete el BIG: autonomía para salir de la ciudad sin ir calculando cada kilómetro.
 
-Mientras el BIG llega a los concesionarios en 2027, el mercado español ya ofrece alternativas reales. La referencia de ventas está en la <a href=/coches/citroen-ami-2026-precio-ficha-tecnica/>ficha del Citroën Ami</a>, un ligero L6e mucho más barato y limitado a 45 km/h. El enfoque premium del formato lo representa la <a href=/coches/microlino-2026/>ficha del Microlino</a>, con su puerta frontal de homenaje al Isetta. Frente a ambos, el BIG promete algo que ninguno da: autonomía para salir de la ciudad sin calculadora.
+## Veredicto
 
-
-
-**Veredicto:** el BIG es la propuesta de cuadriciclo más ambiciosa presentada en París por alcance y por planteamiento industrial, y merece atención precisamente porque se fabrica aquí. Pero hoy es una promesa con fecha de 2027 y un precio aún por confirmar por debajo de 18.000 €. Si necesitas moverte ya, Ami y Microlino existen; si puedes esperar y tu vida ocurre en un radio de 40 km, el Liux puede ser el primer L7e que no se queda en juguete urbano.
+El BIG merece atención por alcance y por planteamiento industrial, y porque se fabrica en España. Pero hoy es un calendario y un precio prometido, no un coche que se pueda comprar: la venta no empieza hasta 2027 y el precio final por debajo de 18.000 € sigue sin confirmarse. Si necesitas moverte ya, Ami y Microlino están en tienda; si tu vida transcurre en un radio de 40 km y puedes esperar, el Liux puede convertirse en el primer L7e útil más allá de la ciudad.
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el Liux BIG?
-La marca promete un precio por **debajo de 18.000 euros**, aunque el precio final de lanzamiento aún no se ha confirmado.
+### ¿Quién puede conducir el BIG en España?
+
+Con el permiso B, porque es un L7e. La edad de 16 años vale en Europa con el permiso de cada país, como el B1 francés, pero no en España con el AM, que solo cubre los L6e.
+
+### ¿Cuándo llega a la venta el Liux BIG?
+
+La producción empieza este otoño de 2026 y la venta está prevista para la primera mitad de 2027, en España, Francia e Italia.
 
 ### ¿Qué autonomía tiene el Liux BIG?
-Hasta **270 km** en ciclo WMTC con la batería de 20 kWh; la versión de 15 kWh anuncia unos 215 km.
 
-### ¿Cuándo se podrá comprar el Liux BIG?
-La producción arranca este otoño de 2026 y la comercialización está prevista para el **primer semestre de 2027**, empezando por España, Francia e Italia.
+La batería grande, de 20 kWh, declara unos 270 km WMTC; la pequeña, de 15 kWh, unos 215 km.
 
-### ¿Quién puede conducir el Liux BIG?
-Al ser un cuadriciclo pesado (L7e), en Europa se puede conducir **desde los 16 años** con el permiso correspondiente.
+### ¿Cuánto cuesta el Liux BIG?
+
+La compañía promete menos de 18.000 €, pero el precio final de lanzamiento todavía no está confirmado.
+
+### ¿Qué es un L7e?
+
+Un cuadriciclo pesado europeo: más que un ligero L6e, menos que un turismo M1, con 90 km/h de punta y 648 kg con batería en el caso del BIG.
 
 <img src=/media/liux-big-salon-paris-2026-fabrica.webp alt=Fábrica moderna en España ensamblando pequeños vehículos eléctricos>
 
-París 2026 se está convirtiendo en el escaparate del coche eléctrico asequible: además del Liux BIG, allí debutan el <a href=/blog/citroen-2cv-electrico-2026-paris/>2CV eléctrico de Citroën</a> y el <a href=/blog/xpeng-g9l-debut-paris-2026/>XPeng G9L</a>. Si buscas comparar eléctricos que ya están a la venta, entra en nuestro <a href=/comparador-coches/>comparador de coches</a>.
+París 2026 está siendo el escaparate del eléctrico asequible: además del BIG, allí se presentan el <a href=/blog/citroen-2cv-electrico-2026-paris/>2CV eléctrico de Citroën</a> y el <a href=/blog/xpeng-g9l-debut-paris-2026/>XPeng G9L</a>. Para comparar eléctricos que ya se pueden comprar, está el <a href=/comparador-coches/>comparador de coches</a>.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-
 
 *Fuentes: datos de la compañía recogidos por la prensa especializada citada en el artículo y <a href=https://www.dgt.es>normativa de permisos y categorías de vehículos de la DGT</a>.*`,
 },
 {
-  title: "Velca Nude y Eon: made in Spain",
+  title: "Velca Nude y Eon: eléctricas españolas en venta",
   slug: "velca-nude-eon-motos-electricas-espanolas",
-  excerpt: "La española Velca ya entrega su naked Nude (5.990 €, 130 km, 126 km/h) y su maxiscooter Eon (6.790 € en promo, 290 km, 140 km/h). Baterías extraíbles, cámaras a bordo y red nacional: las analizamos.",
+  excerpt: "La española Velca ya entrega la naked Nude (5.990 €, 130 km, 126 km/h) y la maxiscooter Eon (6.790 € en promo, 290 km, 140 km/h) y red nacional.",
   category: "Novedades Motor",
   date: "2026-10-06",
   readTime: 8,
@@ -124,7 +132,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
   ],
   content: `<img src=/media/velca-nude-eon-naked-maxiscooter-electricas-hero.webp alt=Moto naked eléctrica gris oscuro aparcada en una calle de Madrid al atardecer>
 
-La marca española **Velca** ya está entregando sus dos apuestas grandes: la naked **Nude** (desde **5.990 €** con dos baterías) y la maxiscooter **Eon** (desde **6.790 €** en promoción de lanzamiento). Entre medias, la **Nude Lite** baja la barrera de entrada a **3.990 €**. Las tres son eléctricas, las tres se venden y mantienen en España, y la Eon presume de una cifra que pocas maxiscooters tocan: **290 km de autonomía**.
+Velca, marca española, ya sirve sus dos modelos principales: la naked Nude, con dos baterías desde 5.990 €, y la maxiscooter Eon, que parte de 6.790 € en promoción de lanzamiento. A medio camino, la Nude Lite sitúa el acceso en 3.990 €. Los tres modelos son eléctricos, se comercializan y se mantienen en España, y la Eon exhibe una cifra que pocas maxiscooters alcanzan: 290 km de autonomía.
 
 ## Datos clave
 
@@ -140,45 +148,44 @@ La marca española **Velca** ya está entregando sus dos apuestas grandes: la na
 | Carnet | L3e (A1 o B con 3 años)* | L3e* | L3e: A1 o B con 3 años |
 | Garantía | n.d. | n.d. | 3 años / 80.000 km |
 
-*Dato de prensa especializada; la web oficial no lo publica para la Nude y la Nude Lite.
+*Ese dato procede de prensa especializada: la página oficial no lo recoge para la Nude, y para la Nude Lite tampoco.
 **Fuente:** <a href=http://www.velcamotor.com/velca-nude>VelcaMotor.com (Nude)</a> y <a href=http://www.velcamotor.com/eon>VelcaMotor.com (Eon)</a>, webs oficiales de la marca.
 
-## El análisis: España también juega en eléctrico
+## España también compite en moto eléctrica
 
-Velca no es una importadora con pegatinas: diseña en España y respalda sus motos con **más de 80 puntos de venta y 350 talleres** asociados en todo el país, muchos dentro de la red FeuVert. Eso, en el mundo de la moto eléctrica —donde la posventa es la gran duda—, vale tanto como la ficha técnica.
+Velca no se limita a importar con pegatinas: diseña en España y da respaldo a sus motos mediante más de 80 puntos de venta en todo el país, y con 350 talleres asociados, muchos dentro de la red FeuVert. En el sector de la moto eléctrica —donde la posventa genera la mayor duda—, eso pesa tanto como la ficha técnica.
 
-La **Nude** es la más redonda del trío: motor central con cadena (no un buje), 260 Nm, ABS delantero y trasero, control de tracción, **cámaras delantera y trasera con grabación**, control de crucero y pantalla TFT de 7 pulgadas con keyless NFC. Las baterías extraíbles de Gotion (grupo Volkswagen) se cargan en cualquier enchufe. Por 5.990 € con dos baterías incluidas, juega en la liga de las 125 eléctricas con argumentos de moto mayor.
+La Nude resulta la más completa del trío: 260 Nm, motor central con cadena —no un buje—, ABS en ambas ruedas, control de tracción, cámaras delantera y trasera que graban, control de crucero, además de pantalla TFT de 7 pulgadas y keyless NFC. Sus baterías extraíbles de Gotion (grupo Volkswagen) admiten carga en cualquier enchufe. Por 5.990 € con las dos baterías incluidas, compite con las 125 eléctricas aportando argumentos de moto mayor.
 
 <img src=/media/motos/velca-nude-2026-ficha-1.webp alt=Velca Nude roja, vista lateral de la naked eléctrica española>
 
-La **Nude Lite** recorta potencia y precio para quien solo quiere moverse por ciudad: 90 km/h, 80 km con una batería (ampliables a 160 km con la segunda) y frenos CBS. A 3.990 € es una de las eléctricas con carnet de coche más baratas del mercado.
+La Nude Lite baja potencia y precio para quien solo busca ciudad: frenos CBS, 90 km/h de punta y 80 km con una sola batería, ampliables a 160 km si se monta la segunda. Por 3.990 € figura entre las eléctricas de carnet de coche más económicas del mercado.
 
 <img src=/media/velca-nude-eon-naked-maxiscooter-electricas-carga.webp alt=Maxiscooter eléctrica blanca cargando en un punto de carga público en una ciudad española>
 
-La **Eon** va a por el segmento GT: batería CATL de 13 kWh, 140 km/h de punta, **pantalla táctil de 7 pulgadas con Android Auto y Apple CarPlay**, neumáticos Michelin City Grip 2, hueco para casco integral y parrilla para baúl. Los 290 km de autonomía la ponen por encima de casi todas las maxiscooters eléctricas a la venta en España. La pega: la batería no es extraíble (pesa 60 kg) y el PVP real es 7.490 €; los 6.790 € son la promo de las 100 primeras unidades.
+La Eon apunta al segmento GT con 140 km/h de velocidad máxima y batería CATL de 13 kWh, pantalla táctil de 7 pulgadas compatible con Android Auto y Apple CarPlay, parrilla para baúl, hueco para casco integral y neumáticos Michelin City Grip 2. El inconveniente: su batería no se puede extraer (pesa 60 kg) y el PVP real alcanza 7.490 €, mientras los 6.790 € corresponden a la promo de las 100 primeras unidades. Sus 290 km de autonomía la sitúan entre las mejores de casi todas las maxiscooters eléctricas que se venden en España.
 
 <img src=/media/motos/velca-eon-2026-ficha-1.webp alt=Velca Eon negra, maxiscooter eléctrica española con piloto>
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta la Velca Nude?
-**5.990 €** con las dos baterías incluidas, con entrega inmediata según la web oficial de la marca.
+### ¿Qué precio tiene la Velca Nude?
+**5.990 €** con ambas baterías incluidas, y entrega inmediata según la página oficial de la marca.
 
-### ¿Qué autonomía tiene la Velca Eon?
-Hasta **290 km** con su batería CATL de 13 kWh, la mayor cifra entre las maxiscooters eléctricas a la venta en España.
+### ¿Cuántos kilómetros recorre la Velca Eon?
+Alcanza hasta **290 km** gracias a su batería CATL de 13 kWh, la cifra más alta entre las maxiscooters eléctricas que se venden en España.
 
-### ¿Qué carnet hace falta para las Velca?
-Las tres son L3e (equivalentes a 125): carnet **A1 o B con 3 años de antigüedad**. En la Eon lo confirma la propia web oficial.
+### ¿Qué permiso exige conducir las Velca?
+Las tres pertenecen a la categoría L3e (equivalentes a 125): permiso **A1 o B, siempre con 3 años de antigüedad**. La propia página oficial lo confirma en la Eon.
 
-### ¿Las baterías se pueden extraer para cargar en casa?
-En la Nude y la Nude Lite, sí: son paquetes de 72V/40Ah extraíbles. En la Eon, no: su batería de 13 kWh va fija al chasis.
+### ¿Se pueden sacar las baterías para cargar en casa?
+Sí en la Nude y en la Nude Lite: usan paquetes extraíbles de 72V/40Ah. En la Eon, no: su acumulador de 13 kWh queda fijo al chasis.
 
-### ¿Dónde se mantienen las Velca?
-La marca anuncia más de 80 puntos de venta y 350 talleres asociados en España, muchos integrados en la red FeuVert.
+### ¿Dónde se hace el mantenimiento de las Velca?
+Según la marca, hay más de 80 puntos de venta en España y 350 talleres asociados, muchos integrados en la red FeuVert.
 
-Compara las tres cara a cara en nuestro <a href=/comparador-motos/?a=velca-eon-2026-ficha-tecnica-precio&b=velca-nude-2026-ficha-tecnica-precio>comparador de motos</a>, con sus fichas detalladas: <a href=/motos/velca-nude-2026-ficha-tecnica-precio/>ficha de la Velca Nude</a>, <a href=/motos/velca-nude-lite-2026-ficha-tecnica-precio/>ficha de la Nude Lite</a> y <a href=/motos/velca-eon-2026-ficha-tecnica-precio/>ficha de la Velca Eon</a>. Y si buscas otra eléctrica con pedigrí, lee el <a href=/blog/honda-wn7-electrica-precio-espana-15000/>análisis de la Honda WN7</a>.
+Pon las tres frente a frente en nuestro <a href=/comparador-motos/?a=velca-eon-2026-ficha-tecnica-precio&b=velca-nude-2026-ficha-tecnica-precio>comparador de motos</a>; sus fichas detalladas son la <a href=/motos/velca-nude-2026-ficha-tecnica-precio/>ficha de la Velca Nude</a>, la <a href=/motos/velca-nude-lite-2026-ficha-tecnica-precio/>ficha de la Nude Lite</a> y la <a href=/motos/velca-eon-2026-ficha-tecnica-precio/>ficha de la Velca Eon</a>. Y para otra eléctrica con pedigrí, tienes el <a href=/blog/honda-wn7-electrica-precio-espana-15000/>análisis de la Honda WN7</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+Si te notificaron una multa y crees que podría ser anulable, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagarla.`,
 },
 ];
