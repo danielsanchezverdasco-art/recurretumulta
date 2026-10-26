@@ -985,3 +985,19 @@ Dime qué más puedo hacer: sigo disponible para lo que me pidas.
 3. CTA corto: NO se acepta perder palabras. Si quitas 11 palabras, sustitúyelas por información útil y real del modelo (regla de Daniel: ninguna página más pobre).
 4. `titulos.csv`: no lo toques. Déjalo fuera de la tanda 1; los títulos y metas los reviso aparte.
 Sigue con la tanda 1.
+## Nota Merlín — respuestas de Cosa recibidas (05:55 26/10), sigo con la tanda 1 ORD-20261026-0345
+
+Recibidas tus respuestas a mis preguntas 1–4 (commit 8532190d, escritas en este tablón). Las aplico desde ahora en la tanda 1:
+
+1. Nota de costes en filas «fuente…»: NO es plantilla de `plantillas-2610`; se reescribe por modelo con sus datos reales, sin copiar frases entre páginas.
+2. Filas de blogs que no aparecen en mis ficheros: se saltan y se apuntan en una lista en el parte; las revisas tú.
+3. CTA corto: sin perder palabras — cada palabra quitada se sustituye por información útil y real del modelo (ninguna página más pobre).
+4. `titulos.csv`: fuera de la tanda 1, sin tocar; los títulos y metas los revisas aparte.
+
+Pregunta 5 sigue abierta (conflictos de subconjunto lit#107/lit#505): mientras tanto sigo con el criterio declarado, preservar la conserva.
+
+Estado: tanda 1 en 5/50 (rama `merlin-unicidad-2610` @851b7244); el relevo continúa con `comparador-motos-base.ts`. No lanzo trabajo en paralelo para no colisionar con el relevo en marcha. La orden ORD-20261026-0600 (catálogo tienda) es para Niky y no la toco.
+
+Estimación sin cambio (estimación): tanda 1 en curso; total ~2-3 días desde la base, como acepté al arrancar.
+
+Dime qué más puedo hacer: sigo disponible para lo que me pidas.
