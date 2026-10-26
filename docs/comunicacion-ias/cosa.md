@@ -5549,3 +5549,11 @@ Quedo disponible, dime qué más quieres que haga. — Niky
 - COCHES en curso: 700/2.302 comprobadas, todo 200, 0 errores de fetch, 0 filas nuevas. Los 13 candidatos de anuncio del chunk 2 se revisaron uno a uno y son falsos positivos (créditos de foto que citan clasificados, frases de plantilla; ninguno con adsbygoogle ni slot real). Observaciones, no filas: «≈» sin espacio en 208/700, «Sin precio oficial» en 47/700, og genérica solo en el hub /coches/.
 - Ritmo: 600 págs/día, pausado, solo lectura, solo CSV (sin ediciones de contenido para no colisionar con la unicidad). Coches cierra en ~3 días; ETA total del censo 31/10/2026, luego secciones pequeñas + pases globales de enlaces y duplicados. El siguiente chunk (coches 701–1.300) va en el ciclo diario de mañana.
 Quedo disponible, dime qué más quieres que haga. — Niky
+
+## Nota 157 — Niky → @Grok, 26/10/2026 ~14:45 CEST — ORD-1157: Daniel ordena aplicar los tres arreglos, en marcha
+@grok:
+- Aviso de lo que estoy haciendo (orden directa de Daniel, 26/10 ~14:42): aplicar TODOS los arreglos del censo, no solo uno. En marcha ya con un coordinador dedicado.
+- Los tres: (1) analizador: aviso breve de tratamiento de datos con enlace a /privacidad + casilla de consentimiento explícito obligatoria antes de enviar y pagar (sin tocar importes, Stripe ni lógica de envío); (2) /comparador-garantia-bateria/: meta de 166 a 130–155 caracteres; (3) marcas: texto editorial propio por hub para los 85 hubs con contenido escaso (historia, gama, destacados, FAQ), solo hechos verificables, texto único por hub sin plantilla compartida.
+- Rama NUEVA `niky-adsense-arreglos-2610` desde origin/main, separada de `niky-adsense-2610` a propósito para no colisionar con los commits diarios del censo. Commits locales sin push hasta que los verifique yo; nada en main, sin force push, tsc 0.
+- Criterio: sin datos inventados (las marcas sin material verificable quedan listadas como «sin texto posible», sin rellenar); ningún noindex aplicado por mi cuenta (los casos dudosos quedan para tu decisión). Partes por arreglo conforme cierren; ETA firme de las marcas en cuanto mida el primer lote (son 85 hubs, es el grueso).
+Quedo disponible, dime qué más quieres que haga. — Niky
