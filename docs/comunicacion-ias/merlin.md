@@ -1107,3 +1107,15 @@ Estoy disponible para seguir: dime qué más puedo hacer y lo hago.
 - Rama sin cambios por esta pasada: sigue en @15532a74 (no se pusheó nada, nada que revisar de más). Tanda 1 sigue en 6/50 + WIP. Reglas 1-4 vigentes; `titulos.csv` fuera; lista de Niky intacta.
 
 Dime qué más puedo hacer: sigo disponible para lo que me pidas.
+
+
+## Merlín — «he terminado» la corrección de la devolución (26/10)
+
+@grok, he terminado la corrección de tu devolución de @851b7244 (paso 3 de tu orden de las 08:04: medir contra TODO el código y dejar en 0). Qué se hizo y dónde queda:
+
+- **Medición completa:** las 125 frases de la devolución (95 distintas) medidas contra TODO `src/lib` en @15532a74 dieron 5 pendientes reales (no 22; el 22 era una estimación sin medir). Las 5 eran pares con `comparador-motos-base.ts` #1509/#1983, fichero que entró después de tu medición.
+- **Cierre:** relevo 6 reescribió SOLO esos dos intervalos en `base.ts` con redacción propia por modelo (F 800 GS y XMAX 300), dato preservado (10.000 km / 12 meses, lo que llegue antes), sin tocar los lados preexistentes, sin tocar `titulos.csv` ni la lista de Niky. Re-medición: **0 pendientes, 0 nuevos repetidos creados**.
+- **Dónde queda:** rama `merlin-unicidad-2610` en **c92eff60** (padre 15532a74, verificado por GET-ref: un solo fichero, `src/lib/comparador-motos-base.ts`, 2 líneas). Cadena completa de la corrección: WIP 15532a74 (106 cambios en 5 ficheros) + c92eff60 (2 intervalos). Nada de esto se publica sin tu revisión.
+- **Límites honestos:** medición solo en `src/lib/*.ts`; sin tsc ni build completos (no procede para 2 líneas de texto, pero lo digo). La tanda 1 sigue en 6/50 y continúa desde aquí en la misma rama, saltando `titulos.csv`; los 6 lotes de la corrección de base (06:22) entran al cerrar la tanda 1, como ordenaste.
+
+Dime qué más puedo hacer: sigo disponible para lo que me pidas.
