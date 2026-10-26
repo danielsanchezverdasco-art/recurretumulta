@@ -34,8 +34,8 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     pros: [
       "El scooter 125 más vendido de España durante años: fiabilidad probadísima",
       "Motor eSP+ de 4 válvulas con 12,5 CV: de los más potentes y eficientes del segmento",
-      "Consumo real en torno a 2,1 l/100 km: autonomía de más de 380 km con su depósito de 8,1 l",
-      "Control de tracción HSTC y ABS de serie en la versión 2025/2026",
+      "Consumo real alrededor de 2,1 l/100 km: autonomía de más de 380 km con su depósito de 8,1 l",
+      "HSTC de control de tracción y ABS de serie en la versión 2025/2026",
       "Suelo plano, hueco para casco integral bajo el asiento y toma USB-C",
     ],
     contras: [
@@ -47,7 +47,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     ],
     curiosidades: [
       "El PCX nació en 2010 y lleva más de una década liderando las ventas de 125 en España",
-      "Su motor eSP+ incorpora el sistema Idling Stop que apaga el motor en los semáforos",
+      "Su motor eSP+ incorpora el sistema Idling Stop que detiene el motor en los semáforos",
       "La versión 2025 estrenó control de tracción HSTC, antes reservado a gamas altas",
     ],
     imagen: "/media/honda-pcx125-2026-ficha-tecnica-precio-oficial.webp",
@@ -79,13 +79,13 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
         "No soples el filtro con aire a presión: lo daña y deja pasar polvo al motor.",
       ],
       trucos: [
-        "Revisa la presión de los neumáticos cada dos semanas: el PCX es sensible a llevarlas bajas.",
+        "Controla la presión de las ruedas cada dos semanas: el PCX es sensible a llevarlas bajas.",
         "El variador y la correa se inspeccionan cada 12.000 km; la correa se sustituye hacia los 24.000 km.",
         "Usa siempre gasolina de 95: el eSP+ no necesita más octanaje.",
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 kilómetros o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-30 + inspección general y aprietes", costeAproxEur: 70 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 90 },
@@ -127,13 +127,13 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     contras: [
       "4.190 €: el scooter 125 más caro del mercado generalista",
       "Diseño conservador que apenas cambia de un año a otro",
-      "El hueco bajo el asiento no admite un integral en todas las tallas",
+      "El hueco bajo el asiento no da cabida a un integral en todas las tallas",
       "Suspensiones firmes: transmite los baches más que un PCX",
       "Pesa 134 kg: se nota al moverlo en parado",
     ],
     curiosidades: [
       "El SH125i se fabrica en la planta italiana de Atessa, la misma que las SH de gran cilindrada",
-      "Es el scooter de rueda alta más vendido de Europa desde hace más de una década",
+      "Es el scooter de rueda alta más vendido de toda Europa desde hace más de una década",
       "Su nombre viene de las siglas de la planta donde nació el primer SH en los 80",
     ],
     imagen: "/media/honda-sh125i-2026-ficha-tecnica-precio-oficial.webp",
@@ -157,7 +157,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.honda.es/motorcycles.html",
     analisisSlug: "honda-sh125i-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervaloMantenimiento: "Cada 6.000 km o 12 meses (revisión inicial a los 1.000 km)",
       aceiteTipo: "10W-30 (JASO T 903 MA)",
       filtroAirePasos: [
         "Accede al filtro de aire retirando la tapa lateral con la moto fría y en el caballete central.",
@@ -170,7 +170,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 km o 12 meses (lo primero que llegue); revisión inicial a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 80 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 100 },
@@ -219,7 +219,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     curiosidades: [
       "El SH Mode nació como la versión accesible y ligera de la familia SH",
       "Comparte la filosofía de rueda alta del SH125i pero con un precio mucho más contenido",
-      "Es uno de los scooters favoritos de las flotas de reparto por su bajo coste de uso",
+      "Es uno de los scooters preferidos de las flotas de reparto por su bajo coste de uso",
     ],
     imagen: "/media/honda-sh-mode-125-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -242,7 +242,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.honda.es/motorcycles.html",
     analisisSlug: "honda-sh-mode-125-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervaloMantenimiento: "Cada 6.000 km o 12 meses, con revisión inicial a los 1.000 km",
       aceiteTipo: "10W-30 (JASO T 903 MA)",
       trucos: [
         "El filtro de aire se cambia cada 18.000 km; es una operación sencilla con la tapa lateral.",
@@ -251,7 +251,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 kilómetros o 12 meses (lo primero en llegar); revisión inicial a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 70 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 90 },
@@ -292,7 +292,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     ],
     contras: [
       "5.499 €: precio de maxiscooter para un 125",
-      "167 kg en orden de marcha: el más pesado de su clase, se nota en parado",
+      "167 kg en orden de marcha: el de mayor peso de su clase, se nota en parado",
       "Asiento a 795 mm y anchura considerable: no es para todos los públicos",
       "El mantenimiento y los neumáticos cuestan como los de un 300",
       "En ciudad pura, un NMAX es más ágil y barato",
@@ -323,7 +323,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.yamaha-motor.eu/es/es/",
     analisisSlug: "yamaha-xmax-125-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervaloMantenimiento: "Cada 6.000 km o un año (revisión inicial a los 1.000 km)",
       aceiteTipo: "10W-40 (Yamalube)",
       filtroAirePasos: [
         "El filtro de aire va bajo el asiento: retira la tapa con la moto fría.",
@@ -336,7 +336,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 km o 12 meses (lo antes que venza); revisión inicial a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + filtro + inspección general", costeAproxEur: 90 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite + filtro + inspección general", costeAproxEur: 110 },
@@ -385,7 +385,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     curiosidades: [
       "El NMAX estrenó en los 125 la distribución variable VVA, heredada de la YZF-R125",
       "Es el scooter urbano premium de Yamaha y rival directo del Honda PCX",
-      "Su motor Blue Core es de los más eficientes del segmento 125",
+      "Su propulsor Blue Core está entre los más eficientes del segmento 125",
     ],
     imagen: "/media/yamaha-nmax-125-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -408,16 +408,16 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.yamaha-motor.eu/es/es/",
     analisisSlug: "yamaha-nmax-125-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervaloMantenimiento: "Cada 6.000 kilómetros o 12 meses (revisión inicial al llegar a los 1.000 km)",
       aceiteTipo: "10W-40 (Yamalube)",
       trucos: [
-        "La correa se inspecciona cada 6.000 km; cambio recomendado hacia los 20.000 km.",
+        "La correa se revisa cada 6.000 km; cambio recomendado hacia los 20.000 km.",
         "El filtro de aire se sustituye cada 12.000 km.",
         "Revisa el nivel de refrigerante: el Blue Core es de refrigeración líquida.",
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 kilómetros o 12 meses (lo antes en vencer); revisión inicial a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + filtro + inspección general", costeAproxEur: 80 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite + filtro + inspección general", costeAproxEur: 100 },
@@ -489,7 +489,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.yamaha-motor.eu/es/es/",
     analisisSlug: "yamaha-rayzr-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervaloMantenimiento: "Cada 6.000 kilómetros o 12 meses, con revisión inicial al alcanzar los 1.000 km",
       aceiteTipo: "10W-40 (Yamalube)",
       trucos: [
         "Al ser el Yamaha más sencillo, su mantenimiento es el más barato de la gama.",
@@ -498,7 +498,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 km o doce meses (lo primero que se alcance); revisión inicial a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + inspección general", costeAproxEur: 70 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite + inspección general", costeAproxEur: 85 },
@@ -540,8 +540,8 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       "3.499 €: se paga el diseño italiano y la exclusividad",
       "144 kg: pesado para un 125, se nota en maniobras",
       "Los neumáticos mixtos hacen más ruido y gastan más en asfalto",
-      "El hueco bajo el asiento es justo para su tamaño",
-      "Red de concesionarios más pequeña que Honda o Yamaha",
+      "El espacio bajo el asiento queda justo para su tamaño",
+      "Red de puntos de venta más reducida que Honda o Yamaha",
     ],
     curiosidades: [
       "El SR GT traslada al mundo scooter el espíritu adventure de la Tuareg 660",
@@ -569,7 +569,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.aprilia.com/es_ES/",
     analisisSlug: "aprilia-sr-gt-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervaloMantenimiento: "Cada 10.000 km o 12 meses (revisión inicial cuando se cumplen los 1.000 km)",
       aceiteTipo: "5W-40 sintético",
       trucos: [
         "El filtro de aire se revisa cada 10.000 km; en uso por pistas, antes.",
@@ -578,7 +578,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "10.000 kilómetros o 12 meses (lo primero que se cumpla); revisión inicial a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 5W-40 + inspección general", costeAproxEur: 90 },
         { nombre: "Revisión / 10.000 km", queSeCambia: "Aceite + filtro + bujía + inspección general", costeAproxEur: 150 },
@@ -612,7 +612,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     pros: [
       "El icono italiano: diseño atemporal que no pasa de moda y revaloriza como ninguna",
       "Motor iGet de 14 CV: empuje brillante para un 125 clásico",
-      "Chasis de chapa de acero autoportante: rigidez y sensación premium únicas",
+      "Bastidor de chapa de acero autoportante: rigidez y tacto premium únicos",
       "Freno delantero de disco con ABS y control de tracción ASR",
       "La Vespa con más presencia: la GTS es la gran turismo de la gama clásica",
     ],
@@ -649,16 +649,16 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.vespa.com/es_ES/",
     analisisSlug: "vespa-gts-125-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervaloMantenimiento: "Cada 10.000 kilómetros o 12 meses (revisión inicial tras los primeros 1.000 km)",
       aceiteTipo: "5W-40 sintético",
       trucos: [
-        "La correa se inspecciona cada 10.000 km y se cambia hacia los 20.000 km.",
+        "La correa se revisa cada 10.000 km y se sustituye hacia los 20.000 km.",
         "El filtro de aire va tras la tapa lateral izquierda: cambio cada 10.000 km.",
         "Limpia la chapa con productos neutros: la pintura metalizada es delicada.",
       ],
     },
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "10.000 km o 12 meses (lo primero en cumplirse); revisión inicial a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 5W-40 + inspección general", costeAproxEur: 110 },
         { nombre: "Revisión / 10.000 km", queSeCambia: "Aceite + filtro + bujía + inspección general", costeAproxEur: 180 },
@@ -729,16 +729,16 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.piaggio.com/es_ES/",
     analisisSlug: "piaggio-liberty-125-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervaloMantenimiento: "Cada 10.000 km o doce meses (revisión inicial al primer millar de kilómetros)",
       aceiteTipo: "5W-40 sintético",
       trucos: [
-        "Correa: inspección cada 10.000 km, cambio hacia los 20.000 km.",
+        "Correa: revisión cada 10.000 km, sustitución hacia los 20.000 km.",
         "El filtro de aire se cambia cada 10.000 km.",
         "Las ruedas altas agradecen presiones correctas: revísalas cada dos semanas.",
       ],
     },
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "10.000 km o un año (lo que ocurra antes); revisión inicial a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 5W-40 + inspección general", costeAproxEur: 90 },
         { nombre: "Revisión / 10.000 km", queSeCambia: "Aceite + filtro + bujía", costeAproxEur: 150 },
@@ -774,7 +774,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       "Baúl trasero original de serie: cabe otro casco además del de bajo el asiento",
       "2.990 € con ABS de doble canal y full LED: equipamiento de gama alta",
       "Motor Euro5+ de 10,5 CV con consumo muy bajo: 229 km con 6,2 l",
-      "Incluye un año de seguro con cobertura de robo, como toda la gama Kymco",
+      "Trae un año de seguro con robo cubierto, como toda la gama Kymco",
     ],
     contras: [
       "10,5 CV: de los 125 menos potentes, se nota con pasajero",
@@ -784,7 +784,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       "Reventa peor que Honda o Yamaha",
     ],
     curiosidades: [
-      "El People S es el scooter de rueda alta más vendido de Kymco en España",
+      "El People S es el scooter de rueda alta más demandado de Kymco en España",
       "Kymco incluye de serie un año de seguro con robo en todos sus scooters",
       "Su baúl trasero original está diseñado en el mismo color de la carrocería",
     ],
@@ -809,16 +809,16 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.kymco.es/",
     analisisSlug: "kymco-people-s-125-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 5.000 km o 12 meses (primera a los 1.000 km, segunda a los 5.000 km)",
+      intervaloMantenimiento: "Cada 5.000 km o un año (inicial a los 1.000 km, y segunda a los 5.000 km)",
       aceiteTipo: "10W-40",
       trucos: [
         "Kymco recomienda revisiones cada 5.000 km o un año; cada una ronda los 52 €.",
-        "Correa y rodillos: inspección cada 5.000 km, cambio hacia los 20.000 km.",
-        "El filtro de aire se cambia cada 10.000 km.",
+        "Correa y rodillos: inspección cada 5.000 km, cambio hacia los 20.000 kilómetros.",
+        "El filtro de aire se sustituye cada 10.000 km.",
       ],
     },
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "5.000 kilómetros o 12 meses (lo antes que se cumpla); revisión inicial al primer millar de kilómetros",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + inspección general", costeAproxEur: 52 },
         { nombre: "Revisión / 5.000 km", queSeCambia: "Aceite 10W-40 + inspección general", costeAproxEur: 52 },
@@ -855,7 +855,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       "Autonomía declarada de 333 km con 7 l: de los más eficientes",
       "CBS, full LED y suelo plano de serie",
       "Solo 133 kg y tamaño compacto: ideal para callejear",
-      "Incluye un año de seguro con cobertura de robo",
+      "Incluye el primer año de seguro con cobertura antirrobo",
     ],
     contras: [
       "11 CV justos: el motor cumple pero no emociona",
@@ -867,7 +867,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     curiosidades: [
       "El Agility es el modelo histórico de Kymco y su puerta de entrada en Europa",
       "La versión S añade el diseño anguloso y el equipamiento full LED",
-      "Es uno de los scooters favoritos de las autoescuelas por su docilidad",
+      "Es uno de los scooters preferidos por las autoescuelas por su docilidad",
     ],
     imagen: "/media/kymco-agility-s-125-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -894,12 +894,12 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       aceiteTipo: "10W-40",
       trucos: [
         "Revisiones cada 5.000 km por unos 52 €: el mantenimiento más barato del segmento.",
-        "Correa: inspección cada 5.000 km, cambio hacia los 20.000 km.",
-        "El filtro de aire se cambia cada 10.000 km.",
+        "Correa: revisión cada 5.000 km, reemplazo hacia los 20.000 km.",
+        "Cambio del filtro de aire cada 10.000 km.",
       ],
     },
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "5.000 kilómetros o doce meses (lo primero que llegue); revisión inicial al primer millar de kilómetros",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + inspección general", costeAproxEur: 52 },
         { nombre: "Revisión / 5.000 km", queSeCambia: "Aceite 10W-40 + inspección general", costeAproxEur: 52 },
@@ -941,12 +941,12 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       "11,4 CV: prestaciones discretas, no es para salir a carretera",
       "El hueco bajo el asiento es justo",
       "Ruedas de 12 pulgadas: menos aplomo que un rueda alta",
-      "Red de servicio más pequeña que las japonesas",
+      "Red de asistencia más reducida que las japonesas",
       "El estilo retro no gusta a todo el mundo",
     ],
     curiosidades: [
       "El Fiddle es el scooter retro de SYM y rival directo de la Vespa Primavera en precio",
-      "SYM es el mayor fabricante de scooters de Taiwán",
+      "SYM es el principal fabricante de scooters de Taiwán",
       "Su nombre juega con 'fiddle' (violín): diseño con curvas musicales",
     ],
     imagen: "/media/sym-fiddle-125-2026-ficha-tecnica-precio-oficial.webp",
@@ -1131,16 +1131,16 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.peugeot-motocycles.es/",
     analisisSlug: "peugeot-tweet-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervaloMantenimiento: "Cada 6.000 km o doce meses, con revisión inicial al primer millar de kilómetros",
       aceiteTipo: "10W-40",
       trucos: [
-        "Correa: inspección cada 6.000 km, cambio hacia los 18.000 km.",
+        "Correa: revisión cada 6.000 km, sustitución hacia los 18.000 km.",
         "El filtro de aire se cambia cada 12.000 km.",
         "Con 121 kg es ideal para practicar el mantenimiento en casa.",
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 kilómetros o doce meses (lo primero en llegar); revisión inicial al primer millar de kilómetros",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + inspección general", costeAproxEur: 70 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite + inspección general", costeAproxEur: 90 },
@@ -1212,7 +1212,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.honda.es/motorcycles.html",
     analisisSlug: "honda-cb125r-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 4.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervaloMantenimiento: "Cada 4.000 km o 12 meses (primera puesta a punto a los 1.000 km)",
       aceiteTipo: "10W-30 (JASO T 903 MA)",
       cadenaPasos: [
         "Limpia la cadena cada 500 km con desengrasante específico y un cepillo suave.",
@@ -1221,13 +1221,13 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
         "Revisa el desgaste de piñón y corona cada 12.000 km.",
       ],
       trucos: [
-        "El filtro de aire se cambia cada 18.000 km.",
+        "El filtro de aire se sustituye cada 18.000 km.",
         "La bujía, cada 12.000 km: es de fácil acceso.",
         "Una cadena bien cuidada dura más de 25.000 km en una 125.",
       ],
     },
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "4.000 km o doce meses (lo primero en vencer); revisión inicial al primer millar de kilómetros",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 80 },
         { nombre: "Revisión / 4.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 90 },
@@ -1266,7 +1266,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       "Mantenimiento sencillísimo y baratísimo",
     ],
     contras: [
-      "10,7 CV: la menos potente de las naked japonesas",
+      "10,7 CV: la de menor potencia de las naked japonesas",
       "Estética sencilla que no enamora",
       "Freno trasero de tambor en algunas versiones",
       "Sin horquilla invertida ni extras",
@@ -1298,21 +1298,21 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.honda.es/motorcycles.html",
     analisisSlug: "honda-cb125f-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 4.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervaloMantenimiento: "Cada 4.000 km o un año (revisión inicial al primer millar de kilómetros)",
       aceiteTipo: "10W-30 (JASO T 903 MA)",
       cadenaPasos: [
         "Limpia y engrasa la cadena cada 500 km: es la operación que más alarga su vida.",
-        "Ajusta la tensión según el manual, con la moto en el caballete central.",
+        "Ajusta el tensado siguiendo el manual, con la moto sobre el caballete central.",
         "El kit de arrastre completo cuesta poco: no apures una cadena gastada.",
       ],
       trucos: [
-        "El filtro de aire se cambia cada 18.000 km.",
+        "Cambio del filtro de aire cada 18.000 km.",
         "Revisa el juego de válvulas cada 12.000 km: en este motor es sencillo.",
         "Con un mantenimiento básico supera los 100.000 km sin abrir motor.",
       ],
     },
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "4.000 km o doce meses (lo antes que venza); revisión inicial al primer millar de kilómetros",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 70 },
         { nombre: "Revisión / 4.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 80 },
@@ -1359,7 +1359,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     ],
     curiosidades: [
       "La CB300R comparte la estética Neo Sports Café con sus hermanas mayores",
-      "Su motor de 286 cc deriva del de la CBR300R",
+      "Su motor de 286 cc procede del de la CBR300R",
       "Es la naked ligera favorita de quienes suben de una 125",
     ],
     imagen: "/media/honda-cb300r-2026-ficha-tecnica-precio-oficial.webp",
@@ -1383,11 +1383,11 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.honda.es/motorcycles.html",
     analisisSlug: "honda-cb300r-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervaloMantenimiento: "Cada 6.000 km o doce meses (revisión inicial en los 1.000 km iniciales)",
       aceiteTipo: "10W-30 (JASO T 903 MA)",
       cadenaPasos: [
         "Limpia y engrasa la cadena cada 500 km.",
-        "Ajusta la tensión con la moto en el caballete y la rueda trasera libre.",
+        "Ajusta el tensado con la moto en el caballete y la rueda trasera libre.",
         "El kit de arrastre se revisa cada 12.000 km.",
       ],
       trucos: [
@@ -1397,7 +1397,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 km o un año (lo primero que se alcance); revisión inicial al primer millar de kilómetros",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 80 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 100 },
@@ -1437,7 +1437,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     ],
     contras: [
       "5.499 €: la naked 125 japonesa más cara",
-      "142 kg: de las más pesadas de su clase",
+      "142 kg: de las de mayor peso de su clase",
       "Postura radical que cansa en ciudad",
       "El pasajero va incómodo",
       "Mantenimiento más caro que una 125 básica",
@@ -1468,7 +1468,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.yamaha-motor.eu/es/es/",
     analisisSlug: "yamaha-mt-125-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervaloMantenimiento: "Cada 6.000 kilómetros o doce meses, con primera revisión a los 1.000 km",
       aceiteTipo: "10W-40 (Yamalube)",
       cadenaPasos: [
         "Limpia y engrasa la cadena cada 500 km con producto específico.",
@@ -1476,13 +1476,13 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
         "El kit de arrastre se inspecciona cada 10.000 km.",
       ],
       trucos: [
-        "El filtro de aire se cambia cada 12.000 km.",
+        "Cambio del filtro de aire cada 12.000 km.",
         "Juego de válvulas cada 20.000 km: operación de taller.",
         "La VVA no necesita mantenimiento específico.",
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 kilómetros o un año (lo primero en cumplirse); revisión inicial al primer millar de kilómetros",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + filtro + inspección general", costeAproxEur: 90 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite + filtro + inspección general", costeAproxEur: 110 },
@@ -1516,7 +1516,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     pros: [
       "Estética Sport Heritage neo-retro: la 125 con más estilo de Yamaha",
       "Mismo motor VVA de 15 CV que la MT-125: empuje y sofisticación",
-      "Postura erguida y cómoda para el día a día",
+      "Posición erguida y confortable para el uso diario",
       "Acabados premium con detalles de aluminio",
       "Faro LED redondo y depósito con tapón de aviación",
     ],
@@ -1524,7 +1524,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       "5.099 €: cara para una 125, se paga el diseño",
       "140 kg: no es ligera",
       "Sin protección aerodinámica",
-      "El asiento monoplaza de serie limita al pasajero (existe biplaza accesorio)",
+      "El asiento individual de serie condiciona al pasajero (existe biplaza accesorio)",
       "Neumáticos de dibujo mixto con menos agarre en mojado",
     ],
     curiosidades: [
@@ -1553,7 +1553,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.yamaha-motor.eu/es/es/",
     analisisSlug: "yamaha-xsr125-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervaloMantenimiento: "Cada 6.000 km o un año (primera revisión a los 1.000 km)",
       aceiteTipo: "10W-40 (Yamalube)",
       cadenaPasos: [
         "Limpieza y engrase de cadena cada 500 km.",
@@ -1561,13 +1561,13 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
         "Inspección del kit de arrastre cada 10.000 km.",
       ],
       trucos: [
-        "El filtro de aire se cambia cada 12.000 km.",
+        "El filtro del aire se renueva cada 12.000 km.",
         "Los neumáticos mixtos se desgastan antes: vigílalos.",
         "Un manillar más ancho la hace aún más cómoda en ciudad.",
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 km o al año (lo que ocurra antes); revisión inicial al primer millar de kilómetros",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + filtro + inspección general", costeAproxEur: 90 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite + filtro + inspección general", costeAproxEur: 110 },
@@ -1639,7 +1639,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.yamaha-motor.eu/es/es/",
     analisisSlug: "yamaha-ys125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervaloMantenimiento: "Cada 6.000 kilómetros o 12 meses (primera revisión al llegar a los 1.000 km)",
       aceiteTipo: "10W-40 (Yamalube)",
       cadenaPasos: [
         "Limpia y engrasa la cadena cada 500 km.",
@@ -1647,13 +1647,13 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
         "Kit de arrastre económico: no apures una cadena estirada.",
       ],
       trucos: [
-        "El filtro de aire se cambia cada 12.000 km.",
+        "El filtro de aire hay que cambiarlo cada 12.000 km.",
         "Con 14 l de depósito, controla el peso si la usas solo en ciudad.",
         "Ideal como primera moto de marchas: todo es barato.",
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 kilómetros o doce meses (lo antes que venza); primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + inspección general", costeAproxEur: 70 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite + inspección general", costeAproxEur: 90 },
@@ -1688,7 +1688,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       "La naked 125 más deportiva: deriva directamente de la RS 125",
       "15 CV y 117 km/h de máxima: de las más rápidas del A1",
       "Chasis de aluminio y horquilla invertida de 40 mm: parte ciclo de competición",
-      "Freno delantero de 300 mm con pinza radial y ABS Bosch",
+      "Freno anterior de 300 mm con pinza de anclaje radial y ABS Bosch",
       "Estética Tuono inconfundible con el triple faro",
     ],
     contras: [
@@ -1696,7 +1696,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       "Postura deportiva que carga muñecas en ciudad",
       "Motor puntiagudo: hay que llevarlo alto de vueltas",
       "Mantenimiento más exigente que una naked básica",
-      "El pasajero sufre: colín alto y estriberas retrasadas",
+      "El acompañante padece: colín elevado y estriberas desplazadas hacia atrás",
     ],
     curiosidades: [
       "La Tuono nació en 2002 como la versión naked de la RSV Mille",
@@ -1724,7 +1724,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.aprilia.com/es_ES/",
     analisisSlug: "aprilia-tuono-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervaloMantenimiento: "Cada 10.000 km o 12 meses, con primera revisión al alcanzar los 1.000 km",
       aceiteTipo: "5W-40 sintético",
       cadenaPasos: [
         "Limpieza y engrase de cadena cada 500 km: con 15 CV sufre si se descuida.",
@@ -1738,7 +1738,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "10.000 km o 12 meses (lo antes en vencer); primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 5W-40 + filtro + inspección general", costeAproxEur: 100 },
         { nombre: "Revisión / 10.000 km", queSeCambia: "Aceite + filtro + bujía + inspección general", costeAproxEur: 170 },
@@ -1809,21 +1809,21 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://moto.suzuki.es/",
     analisisSlug: "suzuki-gsx-s125-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervaloMantenimiento: "Cada 6.000 km o doce meses (primera revisión cuando se cumplen los 1.000 km)",
       aceiteTipo: "10W-40 (JASO MA)",
       cadenaPasos: [
         "Limpieza y engrase cada 500 km.",
-        "Tensión según el manual con la moto en el caballete.",
+        "Tensado conforme al manual, con la moto subida al caballete.",
         "Kit de arrastre: inspección cada 12.000 km.",
       ],
       trucos: [
-        "El filtro de aire se cambia cada 18.000 km.",
+        "El filtro del aire se renueva cada 18.000 km.",
         "La bujía de iridio dura hasta los 24.000 km.",
         "Revisa el refrigerante: es de refrigeración líquida.",
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 km o un año (lo que antes se cumpla); primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + filtro + inspección general", costeAproxEur: 80 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite + filtro + inspección general", costeAproxEur: 100 },
@@ -1855,7 +1855,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "2.490 €: una de las naked 125 más baratas del mercado",
+      "2.490 €: una de las naked 125 más económicas del mercado",
       "Diseño italiano agresivo con chasis multitubular rojo a la vista",
       "Horquilla invertida de 35 mm: inusual a este precio",
       "Depósito de 13,5 l y consumo de 1,7 l/100 km: autonomía enorme",
@@ -1894,7 +1894,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.benelli.es/",
     analisisSlug: "benelli-bn-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 4.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervaloMantenimiento: "Cada 4.000 kilómetros o 12 meses (primera revisión tras los primeros 1.000 km)",
       aceiteTipo: "10W-40",
       cadenaPasos: [
         "Limpieza y engrase de cadena cada 500 km.",
@@ -1902,13 +1902,13 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
         "Kit de arrastre: inspección cada 10.000 km.",
       ],
       trucos: [
-        "El filtro de aire se cambia cada 12.000 km.",
+        "Se cambia el filtro de aire cada 12.000 km.",
         "Con 5 años de garantía, respeta las revisiones en servicio oficial.",
         "El consumo real baja de 2 l/100 km con conducción tranquila.",
       ],
     },
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "4.000 kilómetros o un año (lo primero que llegue); primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + inspección general", costeAproxEur: 70 },
         { nombre: "Revisión / 4.000 km", queSeCambia: "Aceite + inspección general", costeAproxEur: 80 },
@@ -1979,7 +1979,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.benelli.es/",
     analisisSlug: "benelli-tnt-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 4.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervaloMantenimiento: "Cada 4.000 kilómetros o 12 meses, con primera revisión al primer millar de kilómetros",
       aceiteTipo: "10W-40",
       cadenaPasos: [
         "Limpieza y engrase de cadena cada 500 km.",
@@ -1988,12 +1988,12 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
       trucos: [
         "Las ruedas de 12\" usan neumáticos económicos: cámbialos sin miedo.",
-        "El filtro de aire se cambia cada 12.000 km.",
+        "El filtro de aire se reemplaza cada 12.000 km.",
         "Perfecta para aprender mecánica: todo es accesible.",
       ],
     },
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "4.000 km o un año (lo primero en llegar); primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + inspección general", costeAproxEur: 70 },
         { nombre: "Revisión / 4.000 km", queSeCambia: "Aceite + inspección general", costeAproxEur: 80 },
