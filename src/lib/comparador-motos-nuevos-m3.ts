@@ -157,7 +157,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.honda.es/motorcycles.html",
     analisisSlug: "honda-sh125i-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "El primer taller es al primer millar de kilómetros; a partir de entonces, cada 6.000 kilómetros o 12 meses, lo que primero venza",
+      intervaloMantenimiento: "El estreno en el taller coincide con el primer millar de kilómetros; luego, cada 6.000 km o 12 meses, manda lo que se cumpla primero",
       aceiteTipo: "10W-30 (JASO T 903 MA)",
       filtroAirePasos: [
         "Accede al filtro de aire retirando la tapa lateral con la moto fría y en el caballete central.",
@@ -242,7 +242,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.honda.es/motorcycles.html",
     analisisSlug: "honda-sh-mode-125-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "La pauta es cada 6.000 km o doce meses, lo que antes se cumpla, con el estreno en taller a los 1.000 km",
+      intervaloMantenimiento: "La pauta marca revisiones cada 12 meses o cada 6.000 km; la primera visita es a los 1.000 km y el límite es lo primero que se cumpla",
       aceiteTipo: "10W-30 (JASO T 903 MA)",
       trucos: [
         "El filtro de aire se cambia cada 18.000 km; es una operación sencilla con la tapa lateral.",
@@ -251,7 +251,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "El intervalo es de 6.000 kilómetros o doce meses, lo que antes suceda; el primer paso por taller llega a los 1.000 km",
+      intervalo: "Pasa por taller al cumplir 12 meses o 6.000 km, lo que antes suceda; abre con una primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 70 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 90 },
@@ -489,7 +489,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.yamaha-motor.eu/es/es/",
     analisisSlug: "yamaha-rayzr-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Revisión inicial cuando cumple los 1.000 km y, a partir de ahí, cada 6.000 kilómetros o 1 año, lo que antes llegue",
+      intervaloMantenimiento: "La primera revisión llega cuando cumple los 1.000 km; desde ahí, cada 6.000 km o 12 meses, según el primer plazo que se cumpla",
       aceiteTipo: "10W-40 (Yamalube)",
       trucos: [
         "Al ser el Yamaha más sencillo, su mantenimiento es el más barato de la gama.",
@@ -498,7 +498,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o doce meses (lo primero que se alcance); revisión inicial a los 1.000 km",
+      intervalo: "Su calendario es 6.000 km o 12 meses; el tope lo pone lo primero que se alcance. Abre con una revisión inicial a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + inspección general", costeAproxEur: 70 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite + inspección general", costeAproxEur: 85 },
@@ -578,7 +578,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "El primer taller es en los 1.000 km iniciales; a partir de entonces, cada 10.000 km o doce meses, lo que primero venza",
+      intervalo: "Tras el primer taller a los 1.000 km, la pauta pasa a 10.000 km o 12 meses, con el límite en lo primero que se presente",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 5W-40 + inspección general", costeAproxEur: 90 },
         { nombre: "Revisión / 10.000 km", queSeCambia: "Aceite + filtro + bujía + inspección general", costeAproxEur: 150 },
@@ -729,7 +729,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.piaggio.com/es_ES/",
     analisisSlug: "piaggio-liberty-125-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 10.000 km o doce meses (revisión inicial al primer millar de kilómetros)",
+      intervaloMantenimiento: "Cada 10.000 km o 12 meses; el estreno en taller llega con el primer millar de kilómetros",
       aceiteTipo: "5W-40 sintético",
       trucos: [
         "Correa: revisión cada 10.000 km, sustitución hacia los 20.000 km.",
@@ -899,7 +899,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "5.000 kilómetros o doce meses (lo primero que llegue); revisión inicial al primer millar de kilómetros",
+      intervalo: "5.000 km o 12 meses, lo primero que llegue; la revisión inicial cae en el primer millar de kilómetros",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + inspección general", costeAproxEur: 52 },
         { nombre: "Revisión / 5.000 km", queSeCambia: "Aceite 10W-40 + inspección general", costeAproxEur: 52 },
@@ -1140,7 +1140,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "La revisión llega cada 6000 kilómetros o 12 meses, lo que antes se presente, tras la primera revisión a los 1000 km",
+      intervalo: "La revisión llega al cumplir 6.000 km o 12 meses, cuando antes se alcance uno de los dos topes, con la primera revisión ya hecha a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + inspección general", costeAproxEur: 70 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite + inspección general", costeAproxEur: 90 },
@@ -1312,7 +1312,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "El calendario marca cada 4.000 km o al año, lo que antes venza, y la primera revisión cae a los 1.000 km",
+      intervalo: "El calendario marca cada 4.000 km o al año, lo que antes venza, y la primera revisión queda a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 70 },
         { nombre: "Revisión / 4.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 80 },
@@ -1653,7 +1653,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "Primera revisión a los 1000 km; después, cada 6000 km o 12 meses, lo primero que venza",
+      intervalo: "Después de la primera revisión a los 1.000 km, el YS125 vuelve al taller cada 6.000 km, sin pasar nunca de 12 meses, lo que antes se cumpla de ambos",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + inspección general", costeAproxEur: 70 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite + inspección general", costeAproxEur: 90 },
@@ -1809,7 +1809,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://moto.suzuki.es/",
     analisisSlug: "suzuki-gsx-s125-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Revisión inicial a los 1000 km y, a partir de ahí, cada 6000 km o 12 meses, lo que antes llegue",
+      intervaloMantenimiento: "La revisión inicial cae a los 1.000 km; desde ahí, la pauta es cada 6.000 km o 12 meses, lo que se cumpla antes",
       aceiteTipo: "10W-40 (JASO MA)",
       cadenaPasos: [
         "Limpieza y engrase cada 500 km.",
@@ -1823,7 +1823,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "Cada 6000 kilómetros o 12 meses, lo primero que venza, con la primera revisión a los 1000 km",
+      intervalo: "El GSX-S125 regresa al taller cada 6.000 km o 12 meses, lo que llegue primero; la primera revisión está programada a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + filtro + inspección general", costeAproxEur: 80 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite + filtro + inspección general", costeAproxEur: 100 },
@@ -1894,7 +1894,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.benelli.es/",
     analisisSlug: "benelli-bn-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión: 1.000 km | Kilómetros: 4.000 | Plazo: doce meses | Lo primero que ocurra",
+      intervaloMantenimiento: "Primera revisión: 1.000 km | Kilómetros: 4.000 | Plazo: 12 meses | Lo primero que ocurra",
       aceiteTipo: "10W-40",
       cadenaPasos: [
         "Limpieza y engrase de cadena cada 500 km.",
