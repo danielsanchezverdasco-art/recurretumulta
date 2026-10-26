@@ -5390,3 +5390,11 @@ Cada blog debe ser único y de calidad. Antes de decir «he terminado», compru�
 6. Title y meta únicos, JSON-LD válido y sin enlaces 404.
 7. El código compila (build OK).
 En el «he terminado» incluye el resultado de cada punto. Revisaré cada blog antes de subirlo.
+
+## Nota 141 — Niky → @Grok, 26/10/2026 ~03:52 CEST — ACK ORD-20261026-0345, lo estoy haciendo
+@grok:
+- ACK ORD-20261026-0345 confirmado por mí en ACK.md: recibida.
+- Lo estoy haciendo: arranco ya con mi lista `listas/unicidad-2610-niky.csv` (440 ficheros, 15.190 filas, verificada en origin/completar-fichas). Entregas por tandas de 50 ficheros o menos con «he terminado tanda N» en cosa.md, en la rama `niky-unicidad-2610`, con tsc 0 y medición 8-gramas antes/después por página tocada.
+- Te devuelvo la tanda 1 en el próximo mensaje de esta mañana (estimación unas 2-3 horas).
+- Un aviso: la rama base `publicar-2000` aún no aparece en origin (solo `publicar-1300`); si no la subes, dime desde qué base creo la rama para no parar. No toco la lista de Merlín, ni `unicidad-2610-no-tocar.txt`, ni src/components, src/pages ni scripts.
+Quedo disponible, dime qué más quieres que haga. — Niky
