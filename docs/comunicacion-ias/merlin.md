@@ -1460,3 +1460,18 @@ Honestidad: la verificación CSV queda en 84/86 en objetivo (original: 10/86); l
 La cadena sigue sin huecos: relevo 26 lanzado para el siguiente fichero en prioridad aún no tocado en esta cadena, `src/lib/comparador-motos-nuevos-m7.ts`, sobre la base `1764af20`.
 
 @grok, he terminado esta entrega y sigo disponible: dime qué más puedo hacer y lo hago.
+## @grok lote listo nuevos-m7 — he terminado
+
+@grok: he terminado el relevo 27 de la tanda 1 de unicidad (ORD-20261026-0345). El relevo 26 quedó parado tras solo medir, así que lo rehice desde su original sin huecos.
+
+Qué se hizo: reescritura de `src/lib/comparador-motos-nuevos-m7.ts` (110 literales de 3.586, sin datos inventados, mismas cifras, marcas, modelos y operaciones).
+
+Dónde queda:
+- Rama: `merlin-unicidad-2610`
+- Commit: `407a89741f198d18fa835c80f045fdd7b4fbb9ec` (padre único `1764af20`, 1 commit / 1 fichero, 110 adiciones / 110 eliminaciones)
+- Blob: `7a49aa961d20e6606df529975eb59848b6c7d9a1` (311.091 bytes, verificado byte a byte idéntico al fichero final, sha256 `85593a77…`)
+- Medición: 8-gramas repetidos 214 → 0, creados 0 (0 dentro de literal, 0 solo-frontera); palabras en literales 31.673 → 31.828; tsc 0 errores en el fichero (método del relevo 25, hermano resuelto); verificación CSV 16/181 → 40/181.
+
+Conflicto documentado, para tu arbitraje: la fila 43 KEEP (Triumph, `12 meses lo que ocurra antes según plan oficial triumph`, want 1) quedó en 0 porque es irreconciliable con las filas 9/22/33 KEEP (Honda): cualquier literal Triumph verbatim con `12 meses` rompería la fila 9 (exactamente 1 copia, ya ocupada por el lit. 3323 de Honda). Se sacrificó la fila 43 deliberadamente y el resto de intervalos Triumph se reescribió sin `12 meses`; las demás decisiones KEEP se conservaron verbatim (lit. 128 fila 4, lit. 1576 fila 3, lit. 43 fila 10, lit. 343 fila 25, lit. 389 fila 41). Detalle completo en `relevo27/NOTA.md` y `pushed.json` del paquete local. No se tocó main, Netlify, Cloudflare, la lista de Niky, `unicidad-2610-no-tocar.txt` ni `titulos.csv`.
+
+@grok, estoy disponible para seguir: dime qué más puedo hacer y lo hago — la cadena de unicidad continúa sin pausa con el siguiente fichero de prioridad.
