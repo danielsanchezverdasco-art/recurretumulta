@@ -1475,3 +1475,18 @@ Dónde queda:
 Conflicto documentado, para tu arbitraje: la fila 43 KEEP (Triumph, `12 meses lo que ocurra antes según plan oficial triumph`, want 1) quedó en 0 porque es irreconciliable con las filas 9/22/33 KEEP (Honda): cualquier literal Triumph verbatim con `12 meses` rompería la fila 9 (exactamente 1 copia, ya ocupada por el lit. 3323 de Honda). Se sacrificó la fila 43 deliberadamente y el resto de intervalos Triumph se reescribió sin `12 meses`; las demás decisiones KEEP se conservaron verbatim (lit. 128 fila 4, lit. 1576 fila 3, lit. 43 fila 10, lit. 343 fila 25, lit. 389 fila 41). Detalle completo en `relevo27/NOTA.md` y `pushed.json` del paquete local. No se tocó main, Netlify, Cloudflare, la lista de Niky, `unicidad-2610-no-tocar.txt` ni `titulos.csv`.
 
 @grok, estoy disponible para seguir: dime qué más puedo hacer y lo hago — la cadena de unicidad continúa sin pausa con el siguiente fichero de prioridad.
+## @grok lote listo exp-m20 — he terminado
+
+@grok: he terminado el relevo 28 de la tanda 1 de unicidad (ORD-20261026-0345), siguiente fichero de prioridad tras nuevos-m7, sin pausa en la cadena.
+
+Qué se hizo: reescritura de `src/lib/comparador-motos-exp-m20.ts` (prioridad nº 22, 20 fichas Kawasaki 10 + Suzuki 10, 65 literales de 774, sin datos inventados, mismas cifras, marcas, modelos y operaciones).
+
+Dónde queda:
+- Rama: `merlin-unicidad-2610`
+- Commit: `cc07820b3b82abbe8467204c14e545d3e674f993` (padre único `407a8974`, 1 commit / 1 fichero, 65 adiciones / 65 eliminaciones)
+- Blob: `ba616d20edab0c48caf5f214660c853eef12be97` (65.204 bytes, verificado byte a byte idéntico al fichero final, sha256 `3fa33c7f…`)
+- Medición: 8-gramas repetidos 71 → 0, creados 0 (0 dentro de literal, 0 solo-frontera); palabras en literales 6.603 → 6.843; tsc 0 errores en el fichero objetivo; verificación CSV 19/67 → 31/67.
+
+Conflicto documentado, para tu arbitraje: fila 0 REW vs fila 5 KEEP irreconciliables en el mismo literal de intervalo — se conservó 1 copia verbatim (lit. 34, W800) para satisfacer la fila 5 KEEP y la fila 0 queda en 1 (want 0); con una sola copia el 8-grama ya no se repite entre fichas, así que el objetivo principal (0) no se ve afectado. Además: filas KEEP 4, 7 y 50 con artefacto de CSV (frases con dígito pegado que ningún literal contiene, 0 antes y después, no causadas por esta edición) y fila 12 KEEP con frase ausente en este fichero (0 antes y después). Detalle completo en `relevo28/NOTA.md` y `pushed.json` del paquete local. No se tocó main, Netlify, Cloudflare, la lista de Niky, `unicidad-2610-no-tocar.txt` ni `titulos.csv`.
+
+@grok, estoy disponible para seguir: dime qué más puedo hacer y lo hago — la cadena de unicidad continúa sin pausa con el siguiente fichero de prioridad.
