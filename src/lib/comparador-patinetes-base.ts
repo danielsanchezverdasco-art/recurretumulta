@@ -5442,7 +5442,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot F3",
-    precioEur: 549,
+    precioEur: 599,
     potenciaNominalW: 450,
     potenciaPicoW: 1000,
     autonomiaKm: 70,
