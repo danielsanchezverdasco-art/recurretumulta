@@ -97,9 +97,9 @@ BMW aplica su garantía estándar de batería de alto voltaje: **8 años o 160.0
   },
   {
     slug: "lexus-tz-espana-precio-88-000-euros-2026",
-    title: "Lexus TZ en España: 6 plazas eléctricas desde 88.000 €",
+    title: "Lexus TZ: 6 plazas y 540 km desde 88.000 € en España",
     excerpt:
-      "El Lexus TZ llega a España desde 88.000 € con 6 plazas, batería de 95,8 kWh, hasta 540 km WLTP y tracción total DIRECT4 en sus dos versiones.",
+      "El Lexus TZ ya se vende en España desde 88.000 €: SUV eléctrico de 5,10 m con 6 plazas, hasta 540 km WLTP, batería de 95,8 kWh y tracción total.",
     category: "Novedades Motor",
     date: "2026-10-22",
     readTime: 7,
@@ -112,17 +112,17 @@ BMW aplica su garantía estándar de batería de alto voltaje: **8 años o 160.0
       "Lexus TZ 550e",
       "SUV eléctrico 6 plazas",
     ],
-    content: `**Datos y precios del modelo:** <a href=/coches/lexus-tz-2026-precio-ficha-tecnica/>Lexus TZ</a> — consulta aquí su ficha con versiones, autonomía y garantía.
+    content: `**Ficha completa del modelo:** <a href=/coches/lexus-tz-2026-precio-ficha-tecnica/>Lexus TZ</a> — ficha técnica, precios por versión, autonomía, batería y garantía.
 
 <img src=/media/lexus-tz-2026-verde-gaia.webp alt=Lexus TZ en color Verde Gaia, frontal tres cuartos>
 
-*Foto: material gráfico de Lexus (comunicado oficial de prensa, newsroom.lexus.eu). Fotografía oficial de prensa; licencia sin confirmar.*
+*Foto: Lexus (nota de prensa oficial, newsroom.lexus.eu). Imagen oficial de prensa; licencia desconocida.*
 
-El Lexus TZ ya se puede encargar en España: el todocamino 100 % eléctrico más grande de la firma japonesa admite pedidos en la red oficial de la Península y Baleares a partir de 88.000 €. Desvelado en mayo, inaugura en Lexus la tercera fila de asientos en un eléctrico y se sitúa un peldaño por encima del <a href=/coches/lexus-rz-450e-2024-precio-ficha-tecnica/>Lexus RZ</a> en la gama.
+El **Lexus TZ** ya está a la venta en España: el SUV 100 % eléctrico más grande de la marca japonesa se puede pedir en los concesionarios oficiales de la Península y Baleares desde **88.000 €**. Presentado en mayo, es el **primer eléctrico de Lexus con tercera fila de asientos** y se coloca un escalón por encima del <a href=/coches/lexus-rz-450e-2024-precio-ficha-tecnica/>Lexus RZ</a>.
 
-El planteamiento responde a la idea «Driving Lounge»: priorizar la comodidad de todos los ocupantes frente a las prestaciones puras. Sus dimensiones son 5.100 mm de largo y una batalla de 3.050 mm, 21 cm por encima de la de un Lexus RX; ofrece 6 plazas de serie repartidas en tres filas de dos, con asientos individuales en la segunda fila.
+Lexus lo ha concebido con la filosofía **«Driving Lounge»**: la comodidad de todos los ocupantes por delante de las prestaciones puras. Mide **5.100 mm** de largo con una distancia entre ejes de **3.050 mm** (21 cm más que un Lexus RX) y ofrece **6 plazas** de serie en tres filas de dos, con butacas individuales en la segunda.
 
-## Precios y versiones en España
+## Precios y versiones del Lexus TZ en España
 
 | Versión | Potencia | Precio España |
 |---|---|---|
@@ -130,56 +130,55 @@ El planteamiento responde a la idea «Driving Lounge»: priorizar la comodidad d
 | TZ 550e Luxury | 408 CV | 103.000 € |
 | TZ 550e Luxury Bitono | 408 CV | 105.000 € |
 
-Las dos variantes equipan DIRECT4, la tracción total eléctrica que distribuye la fuerza entre ambos ejes según el agarre y el modo elegido. De serie incluyen el Lexus Safety System+ 4.0: detector de ángulo muerto, reconocimiento facial del conductor, sistema precolisión y control de crucero adaptativo. La gama cromática suma seis opciones, incluido el inédito Verde Gaia, y la pintura metalizada supone 1.400 € más.
+Las dos versiones montan tracción total eléctrica **DIRECT4**, que reparte la fuerza entre ejes según el agarre y el modo de conducción. De serie llevan el **Lexus Safety System+ 4.0** (control de crucero adaptativo, sistema precolisión, reconocimiento facial del conductor y detector de ángulo muerto). Hay seis colores, entre ellos el nuevo **Verde Gaia**; la pintura metalizada cuesta 1.400 €.
 
 ## Batería, autonomía y carga
 
-Su acumulador es de iones de litio, con 95,8 kWh de capacidad, y el alcance homologado llega hasta 540 km WLTP, dependiendo del acabado. En corriente continua admite hasta 150 kW de carga rápida, con lo que recupera del 10 al 80 % en aproximadamente 35 minutos; en alterna, el cargador embarcado es de 22 kW.
+El TZ usa una batería de iones de litio de **95,8 kWh** con una autonomía de hasta **540 km WLTP** según el acabado. Admite carga rápida en corriente continua de hasta **150 kW** (del 10 al 80 % en unos 35 minutos) y lleva un cargador de **22 kW** para corriente alterna.
 
-El 550e monta en cada eje un propulsor de 167 kW, equivalentes a 227 CV, integrado en un eAxle que agrupa propulsor, electrónica de potencia e inversor. Su base es el conjunto del RZ y del nuevo ES de Lexus, pero con mayor batería y mayor potencia: pesa 2.630 kg en vacío y acelera de 0 a 100 km/h en 5,4 segundos; su remolque máximo es de 1.500 kg.
+En el 550e, cada eje lleva un motor de **167 kW (227 CV)** integrado en un eAxle que reúne motor, electrónica de potencia e inversor. Es una evolución del sistema del RZ y del nuevo Lexus ES, con más batería y más potencia: el 0 a 100 km/h cae en **5,4 segundos**, pesa **2.630 kg** en vacío y puede remolcar **1.500 kg**.
 
-## Un gigante orientado al viaje
+## Un gigante pensado para viajar
 
-La suspensión recurre a McPherson en el tren delantero y a multibrazo en el trasero, y la dirección trasera orienta las ruedas hasta 4 grados, con lo que el radio de giro queda en apenas 5,4 metros pese a superar los cinco metros de largo. El Cx es de 0,27, entre los mejores de su segmento, y debuta un modo de conducción Comfort que coordina frenos, tracción y dirección trasera para minimizar el movimiento de los pasajeros traseros.
+La suspensión combina McPherson delante y multibrazo detrás, y la **dirección trasera** gira las ruedas hasta **4 grados**, dejando el radio de giro en solo **5,4 metros** para un coche de más de cinco metros. El coeficiente aerodinámico es de **0,27**, de los mejores de su categoría, y estrena un modo de conducción **Comfort** que coordina dirección trasera, frenos y tracción para que los pasajeros de atrás se muevan lo menos posible.
 
-Con las seis plazas ocupadas, el maletero queda en 257 litros; plegando las filas traseras crece hasta 1.987 litros.
+Con las seis plazas en uso, el maletero se queda en **257 litros**; abatiendo las filas traseras sube hasta **1.987 litros**.
 
 <img src=/media/lexus-tz-550e-2026.webp alt=Lexus TZ 550e, frontal tres cuartos en azul>
 
-*Foto: material gráfico de Lexus UK (media.lexus.co.uk). Fotografía oficial de prensa; licencia sin confirmar.*
+*Foto: Lexus UK (media.lexus.co.uk). Imagen oficial de prensa; licencia desconocida.*
 
-<a href=/coches/lexus-tz-2026-precio-ficha-tecnica/>Consulta aquí la ficha completa del TZ</a>: versiones, precios, consumos y garantía.
+<a href=/coches/lexus-tz-2026-precio-ficha-tecnica/>Ver la ficha técnica completa del Lexus TZ</a> con versiones, precios, consumos y garantía.
 
 ## Preguntas frecuentes
 
-### ¿Qué precio tiene el Lexus TZ en España?
+### ¿Cuánto cuesta el Lexus TZ en España?
 
-El acceso es el TZ 450e Executive, de 313 CV, por 88.000 €; por encima quedan el TZ 550e Luxury, de 408 CV, por 103.000 €, y el Bitono, también de 408 CV, por 105.000 €.
+Parte de **88.000 €** (TZ 450e Executive, 313 CV). El TZ 550e Luxury (408 CV) cuesta 103.000 € y la versión Bitono con carrocería en dos tonos, 105.000 €.
 
-### ¿Qué alcance homologa el Lexus TZ?
+### ¿Qué autonomía tiene el Lexus TZ?
 
-El alcance llega hasta 540 km WLTP, variando según el acabado, y la batería es de 95,8 kWh. Con 150 kW de carga rápida, el 10-80 % se completa en aproximadamente 35 minutos.
+Hasta **540 km WLTP** según el acabado, con una batería de 95,8 kWh. La carga rápida de 150 kW permite pasar del 10 al 80 % en unos 35 minutos.
 
-### ¿Cuántos asientos ofrece el Lexus TZ?
+### ¿Cuántas plazas tiene el Lexus TZ?
 
-Seis de serie, en tres filas dobles con asientos individuales en la segunda. Es el primer eléctrico de Lexus que ofrece tercera fila.
+Seis, de serie: tres filas de dos asientos con butacas individuales en la segunda fila. Es el primer eléctrico de Lexus con tercera fila.
 
-### ¿Qué capacidad tiene su maletero?
+### ¿Qué maletero tiene el Lexus TZ?
 
-257 litros con las seis plazas ocupadas y hasta 1.987 litros plegando las dos filas traseras.
+257 litros con las seis plazas en uso y hasta 1.987 litros abatiendo las dos filas traseras.
 
-### ¿Lleva tracción total el Lexus TZ?
+### ¿El Lexus TZ tiene tracción total?
 
-Sí, las dos variantes incorporan DIRECT4, la tracción total eléctrica que gestiona el par de cada eje según el agarre y el modo elegido.
+Sí, las dos versiones llevan el sistema **DIRECT4** de tracción total eléctrica, que reparte el par entre los dos ejes según el agarre y el modo de conducción.
 
-### ¿Contra quién compite el Lexus TZ?
+### ¿Qué rivales tiene el Lexus TZ?
 
-Sus rivales naturales son el Kia EV9, el BMW iX y el Mercedes EQE SUV, todos todocaminos eléctricos grandes; el EV9 es el otro con 6-7 plazas.
+Por tamaño y planteamiento compite con el **BMW iX**, el **Mercedes EQE SUV** y el **Kia EV9**, el otro gran SUV eléctrico de 6-7 plazas del mercado.
 
 *Fuentes: <a href=https://www.hibridosyelectricos.com/coches/nuevo-coche-electrico-lexus-ya-se-vende-en-espana-con-6-asientos-540-km-autonomia-precio-minimo-88000_90087_102.html>hibridosyelectricos.com (22/10/2026)</a>, <a href=https://newsroom.lexus.eu/lexus-unveils-the-tz-an-all-new-all-electric-six-seat-suv/>nota de prensa oficial Lexus</a>.*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
-`,
+**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
   },
   {
     slug: "omoda-x-prototipo-presentacion-wuhu-2026",

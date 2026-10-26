@@ -935,9 +935,9 @@ Para quien hace menos de 10 km al día y quiere gastar lo mínimo.
   },
   {
     slug: "aovopro-es60",
-    title: "Aovopro ES60: 12 kg, 378 Wh y 40 km anunciados",
+    title: "Aovopro ES60: 350 W y 35 km por 430 €",
     excerpt:
-      "Patinete de 12 kg con motor de 350 W y batería de 378 Wh: alcance anunciado de 40 km, alcance medido de 20-25 km y precio europeo cercano a 430 €.",
+      "El Aovopro ES60 promete 40 km con 350 W y 378 Wh en solo 12 kg. Precio en Europa, autonomía real y ficha técnica completa.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -956,9 +956,9 @@ Para quien hace menos de 10 km al día y quiere gastar lo mínimo.
 
 **¿Buscas solo los datos?** <a href=/patinetes/aovopro-es60/>Ver ficha técnica del Aovopro ES60</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Aovopro sitúa este ES60 en el segmento de los patinetes que priorizan transportarse sin esfuerzo: motor de 350 W, acumulador de 36 V y 10,5 Ah, equivalentes a 378 Wh, y una cifra de alcance anunciada de 40 km, todo ello sobre una báscula que marca 12 kg. <a href=https://www.priceboon.com/product/aovopro-es60/>Priceboon</a> lo sometió a prueba y en Europa aparece a unos 430 € desde almacén comunitario.
+El **Aovopro ES60** es la apuesta de la marca por la autonomía ligera: **350 W**, batería de **36 V y 10,5 Ah (378 Wh)** y hasta **40 km** declarados en solo **12 kg** (<a href=https://www.priceboon.com/product/aovopro-es60/>Priceboon</a> lo probó). En Europa se vende por **unos 430 €** en almacén UE.
 
-## Datos resumidos
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -975,25 +975,25 @@ Aovopro sitúa este ES60 en el segmento de los patinetes que priorizan transport
 
 ¿Quieres el detalle completo? <a href=/patinetes/aovopro-es60/>Ficha técnica completa del Aovopro ES60</a> con todos los datos verificados.
 
-## Precio en tiendas europeas
+## Precio del Aovopro ES60 en España
 
-La cifra que circula para Europa ronda los 430 €, unos 470 $, en Banggood con expedición desde dentro de la Unión. Frente a pedirlo directamente desde fuera, el desembolso sube, pero desaparecen los trámites aduaneros y la espera prolongada en frontera.
+Unos **430 €** (470 $) en Banggood con envío desde Europa. Caro frente a la importación directa, pero sin aduanas ni esperas.
 
 <img src=/media/patinetes/aovopro-es60-2.webp alt=Detalle de la rueda honeycomb de 8,5 pulgadas del Aovopro ES60>
 
-## Alcance anunciado frente al alcance medido
+## Autonomía real vs declarada
 
-La hoja del fabricante anuncia 40 km. En la prueba de Priceboon, rodando con comodidad a 20 km/h, el intervalo razonable quedó entre 20 y 25 km. Con 378 Wh, los desplazamientos cotidianos quedan cubiertos; recorridos largos seguidos quedan fuera de su planteamiento.
+El fabricante habla de **40 km**; Priceboon midió un crucero cómodo de 20 km/h y un rango realista de **20-25 km**. Los 378 Wh dan para el día a día, no para maratones.
 
-## Frenada y rodadura
+## Frenos y neumáticos
 
-Delante frena con motor eléctrico y detrás con disco. Las cubiertas, de 8,5 pulgadas y estructura de nido de abeja, eliminan el riesgo de pinchazo y absorben algo mejor que una rueda maciza convencional. Al carecer de suspensión, un asfalto deteriorado se transmite con claridad al conductor.
+**Eléctrico delantero + disco trasero** y ruedas **honeycomb de 8,5 pulgadas**: sin pinchazos y algo más amables que las macizas puras, aunque sin suspensión se nota el firme malo.
 
-## Papeles y límites para circular en España
+## Certificado DGT y normativa VMP
 
-Su ficha no recoge ningún certificado DGT verificado. De fábrica circula a 25 km/h, aunque desde los ajustes es posible elevarlo hasta 31 km/h. Para mantenerse dentro de la normativa VMP conviene dejarlo en 25 km/h y no utilizar nunca las aceras.
+Sin certificado DGT verificado. De serie va a **25 km/h** (ampliable a 31 en ajustes): mantenlo en 25 para la normativa VMP y evita las **aceras**.
 
-## Ventajas e inconvenientes
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -1005,11 +1005,11 @@ Su ficha no recoge ningún certificado DGT verificado. De fábrica circula a 25 
 
 <img src=/media/patinetes/aovopro-es60-3.webp alt=Aovopro ES60 en un carril bici urbano>
 
-## Por qué pesa tan poco
+## La ligereza como argumento principal
 
-Doce kilos junto a 378 Wh forman una pareja poco frecuente: otros patinetes con una reserva energética parecida suelen añadir dos o tres kilos en la báscula. Ese perfil apunta a quien combina trayectos en transporte público y maletero, y lo sube por escaleras cargado al hombro. El plegado, completado en 3 segundos, apoya ese uso combinado.
+Doce kilos exactos con una batería de **378 Wh** es una combinación rara en el mercado: la mayoría de patinetes con esa capacidad energética pesa dos o tres kilos más. El ES60 está pensado para quien combina patinete con metro, tren o maletero, y sube escaleras con él al hombro sin convertir cada trayecto en una sesión de gimnasio. Su **plegado en 3 segundos** refuerza ese enfoque intermodal.
 
-## Comparación con ES80 y ESMAX
+## ES60 frente a sus hermanos ES80 y ESMAX
 
 | Modelo | Autonomía declarada | Peso | Velocidad máxima |
 |---|---|---|---|
@@ -1017,52 +1017,51 @@ Doce kilos junto a 378 Wh forman una pareja poco frecuente: otros patinetes con 
 | Aovopro ES80 | 35 km | 12 kg | 25 km/h |
 | Aovopro ESMAX | 43 km | — | 34 km/h |
 
-Las fichas de sus hermanos dejan los términos claros: la <a href=/patinetes/aovopro-es80/>ficha ES80</a> recoge 35 km y 12 kg, mientras la <a href=/patinetes/aovopro-esmax/>ficha ESMAX</a> alcanza 43 km con una punta de 34 km/h. Entre ambos, el ES60 queda en una posición intermedia cuando el peso manda en la elección, porque el ESMAX suma alcance a cambio de renunciar a parte de esa ligereza.
+Los datos de los hermanos salen de sus propias fichas: la <a href=/patinetes/aovopro-es80/>ficha del ES80</a> marca 35 km y 12 kg, y la <a href=/patinetes/aovopro-esmax/>ficha del ESMAX</a> sube a 43 km con 34 km/h de punta. El ES60 se sitúa en el punto dulce de la gama si la prioridad es el peso, porque el ESMAX gana autonomía renunciando a parte de esa ligereza.
 
-## Circular dentro de la ley
+## Legalidad: de serie cumple, el ajuste es cosa tuya
 
-Nada más sacarlo de la caja, el tope queda en 25 km/h, la cifra que delimita un VMP en España, y el menú de ajustes permite elevarlo hasta 31 km/h. Ese segundo valor solo encaja dentro de un recinto privado: por encima de 25 km/h en vía pública, el vehículo queda fuera de la categoría legal, y las aceras permanecen prohibidas en cualquier caso. Su ficha tampoco acredita un certificado DGT verificado, un documento que exige la <a href=https://www.dgt.es>DGT</a> para los VMP comercializados desde enero de 2024.
+El ES60 sale de la caja limitado a **25 km/h**, la velocidad máxima que define a un VMP en España, y en los ajustes puede subir a 31 km/h. Esa segunda cifra solo tendría sentido en recinto privado: en vía pública, circular por encima de 25 km/h saca al patinete de la categoría legal, con aceras siempre prohibidas. Tampoco acredita **certificado DGT** verificado según su ficha, requisito que la <a href=https://www.dgt.es>Dirección General de Tráfico</a> exige a los VMP vendidos desde enero de 2024.
 
-## Cuidados habituales
+## Mantenimiento de un patinete ligero
 
-El acumulador de 378 Wh recupera su carga en pocas horas y conviene no dejarlo semanas seguidas ni vacío del todo ni lleno del todo. Las ruedas de 8,5 pulgadas con estructura de nido de abeja no pinchan ni requieren controlar la presión, aunque trasladan las vibraciones al no existir suspensión. Con un uso diario en ciudad, el disco trasero pide la revisión más frecuente.
+La batería de 378 Wh se carga en pocas horas y agradece no quedar semanas al 0 % ni al 100 %. Las **ruedas honeycomb de 8,5 pulgadas** no pinchan ni piden presión, aunque transmiten vibraciones al no haber suspensión. El freno de disco trasero es el elemento a revisar con más frecuencia si el uso es diario en ciudad.
 
-**Veredicto:** con el peso como prioridad frente al desembolso, el ES60 reúne 12 kg, entre 20 y 25 km reales y protección IP65 por unos 430 € desde almacén europeo. Cuando el precio en reventa se dispara, el ESMAX entrega más alcance por un incremento moderado.
+**Veredicto:** el ES60 es una compra sensata si pesa más tu espalda que tu cartera: **12 kg**, autonomía real de 20-25 km y **resistencia IP65** por unos **430 €** en almacén europeo. Si el precio se dispara en reventa, el ESMAX ofrece más autonomía por un sobreprecio moderado. 
 
-## Bajo la lluvia: qué cubre IP65
+## IP65: qué significa de verdad cuando llueve
 
-La etiqueta IP65 de su ficha ampara frente a chorros de agua y polvo, de modo que un chaparrón en ciudad no tiene por qué derivar en un problema eléctrico. El punto delicado bajo lluvia está en el agarre: ruedas de 8,5 pulgadas con nido de abeja y ausencia de suspensión obligan a bajar el ritmo, porque el asfalto mojado y las marcas pintadas penalizan a cualquier patinete liviano. Ya en casa, seca la base y la toma de carga antes de enchufar, y jamás cargar con el conector mojado.
+La certificación **IP65** que anuncia la ficha protege frente a chorros de agua y polvo, así que un chaparrón urbano no debería ser un drama eléctrico. Otra cosa es el agarre: con ruedas honeycomb de 8,5 pulgadas y sin suspensión, la lluvia exige rebajar el ritmo, porque el firme mojado y las bandas pintadas castigan a cualquier patinete ligero. Al llegar a casa conviene secar la base y el puerto de carga antes de enchufarlo, y no cargar nunca con el conector húmedo.
 
-La aplicación con bloqueo añade una capa de resguardo cuando queda estacionado en la calle: detiene el motor y deja registro de los trayectos, prestaciones poco corrientes en patinetes de este importe con almacén europeo. Junto a un candado físico sujeto al mástil, forma la protección razonable para un vehículo de 430 € que se pliega en segundos.
+La **app con bloqueo** suma una capa de seguridad cuando queda aparcado en la calle: inmoviliza el motor y registra trayectos, funciones poco habituales en patinetes de este precio en almacén europeo. Combinada con un candado físico para el mástil, es la protección razonable para un vehículo que vale 430 € y se pliega en segundos.
 
-## En casa, plegado
+## Guardarlo en casa: 12 kg que no estorban
 
-Una vez plegado, entra en un armario de escobas o debajo de una cama, y sus 12 kg dejan subir hasta un quinto sin ascensor sin acabar la subida sin aire. Al no llevar cámara interior ni requerir control de presión, el guardado se simplifica: se recoge, se carga y queda a la espera del siguiente desplazamiento.
+Plegado, el ES60 cabe en un armario de escobas o bajo una cama, y sus **12 kg** permiten subirlo a un quinto sin ascensor sin llegar arriba sin aliento. Esa facilidad de almacenaje, sumada a que no hay cámara que pinchar ni presión que vigilar, lo convierte en un electrodoméstico más de la casa: se guarda, se carga y se olvida hasta el siguiente trayecto.
 
-## Dudas habituales
+## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Aovopro ES60?
-Alrededor de 430 € con envío desde almacén europeo.
+Unos **430 €** en almacén europeo.
 
 ### ¿Qué autonomía real tiene?
-En uso corriente, entre 20 y 25 km; la cifra de 40 km exige rodar despacio.
+Entre **20 y 25 km** en uso normal; 40 km solo a ritmo tranquilo.
 
 ### ¿En qué se diferencia del ES80?
-Comparten motor y batería; el ES60 anuncia más alcance y registra 12 kg en la báscula.
+En la práctica son primos: mismo motor y batería; el ES60 promete más rango y pesa 12 kg.
 
 ### ¿Es legal en España?
-Sí, circulando con el límite de fábrica de 25 km/h.
+A 25 km/h de serie, sí.
 
 ### ¿Las ruedas pinchan?
-No, porque su estructura de nido de abeja prescinde de cámara interior.
+No: son **honeycomb** (nido de abeja), sin cámara.
 
-### ¿Compensa comprarlo?
-Por unos 430 € con envío UE y con la ligereza como prioridad, encaja; si el precio sube, el ESMAX aporta más alcance por un sobreprecio moderado.
+### ¿Merece la pena?
+Si lo encuentras por ~430 € con envío UE y buscas ligereza, sí. Si el precio sube, el ESMAX da más por poco más.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://www.priceboon.com/product/aovopro-es60/>prueba del ES60 en Priceboon</a>., <a href=https://www.dgt.es>normativa de VMP en la DGT</a>*
-`,
+*Fuentes: <a href=https://www.priceboon.com/product/aovopro-es60/>prueba del ES60 en Priceboon</a>., <a href=https://www.dgt.es>normativa de VMP en la DGT</a>*`,
   },
   // ─────────────────────────── EVERCROSS (7) ───────────────────────────
   {
@@ -2356,9 +2355,9 @@ Como pieza de coleccionista, sí. Como compra racional nueva, no hay unidades.
   },
   {
     slug: "currus-nf",
-    title: "Currus NF: doble motor y 1.680 Wh coreanos",
+    title: "Currus NF: el hiperpatinete coreano original",
     excerpt:
-      "El primer Currus unió dos motores de 3.600 W, batería de 1.680 Wh y frenos hidráulicos con ABS. Historia, cifras y mercado de ocasión.",
+      "El Currus NF puso a la marca en el mapa: doble motor de 3.600 W de pico, 1.680 Wh y construcción coreana de referencia. Ficha y análisis.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -2377,13 +2376,9 @@ Como pieza de coleccionista, sí. Como compra racional nueva, no hay unidades.
 
 **¿Buscas solo los datos?** <a href=/patinetes/currus-nf/>Ver ficha técnica del Currus NF</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Currus se dio a conocer con el NF: dos motores con un pico conjunto de 3.600 W, un acumulador de 28 Ah a 60 V que totaliza 1.680 Wh, y un alcance anunciado de entre 100 y 120 km. La construcción gustó tanto a <a href=https://electrek.co/2019/10/23/review-currus-nf-electric-scooter/>Electrek</a> que la señaló como referencia. Su precio de salida fue de 2.799 $.
+El **Currus NF** es el modelo que lanzó la marca coreana: **doble motor** con **3.600 W de pico**, batería de **60 V y 28 Ah (1.680 Wh)**, **100-120 km** declarados y una construcción que <a href=https://electrek.co/2019/10/23/review-currus-nf-electric-scooter/>Electrek</a> calificó de referencia. Precio de lanzamiento: **2.799 $**.
 
-<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/QCSvLqYurt4 title="Prueba del Currus NF por Electrek" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
-
-Vídeo: <a href=https://www.youtube.com/watch?v=QCSvLqYurt4>Electrek</a> en YouTube — prueba del Currus NF.
-
-## Cifras clave
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -2399,25 +2394,29 @@ Vídeo: <a href=https://www.youtube.com/watch?v=QCSvLqYurt4>Electrek</a> en YouT
 
 ¿Quieres el detalle completo? <a href=/patinetes/currus-nf/>Ficha técnica completa del Currus NF</a> con todos los datos verificados.
 
-## Precio y disponibilidad en España
+## Precio del Currus NF en España
 
-En Estados Unidos salió a 2.799 $. En Europa solo queda la segunda mano, porque Currus jamás tuvo red oficial en España.
+**2.799 $** de lanzamiento en EE. UU. En Europa solo segunda mano: Currus nunca tuvo red oficial en España.
 
 <img src=/media/patinetes/currus-nf-2.webp alt=Detalle del mástil de placas de aluminio del Currus NF>
 
-## Kilómetros prometidos y kilómetros reales
+## Autonomía real vs declarada
 
-La marca promete entre 100 y 120 km. Con 1.680 Wh y un ritmo sosegado, moverse entre 70 y 80 km de verdad entra dentro de lo posible. Como seña visual, el mástil se compone de placas de aluminio atornilladas.
+Declara **100-120 km**; con 1.680 Wh y conducción tranquila, **70-80 km** reales son factibles. El mástil de placas de aluminio atornilladas es su seña de identidad visual.
 
-## Frenos y ruedas
+## Frenos y neumáticos
 
-En ambos ejes monta frenada hidráulica con ABS, y rueda con cubiertas 10x3 sobre suspensión de tipo hidráulico: en 2019, eso equivalía a frenada y confort de moto, algo que casi ningún rival ofrecía entonces.
+**Hidráulicos con ABS** delante y detrás, y **10x3 neumáticos** con **suspensión hidráulica**: frenada y confort de moto en 2019, cuando casi nadie lo ofrecía.
 
-## Por qué no es un VMP legal tal cual
+## Certificado DGT y normativa VMP
 
-No hay certificado <a href=https://www.dgt.es>DGT</a> verificado para este modelo. Su punta de 70 km/h lo deja fuera del VMP legal en España: para rodar por vía pública haría falta caparlo a 25 km/h, mantenerse lejos de las aceras y contar con el certificado de circulación que se reclama a los VMP puestos a la venta. Este análisis no recoge ningún certificado DGT verificado. En la práctica, su uso legal en España se reduce a recintos privados y circuitos, o bien a circular capado y con papeles en regla. Ese es el coste de una ingeniería extrema anterior a la regulación vigente.
+Sin certificado DGT verificado. A **70 km/h** no es VMP legal en España: solo **limitado a 25 km/h** y fuera de **aceras**.
 
-## Puntos a favor y en contra
+<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/QCSvLqYurt4 title="Prueba del Currus NF por Electrek" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
+
+Vídeo: <a href=https://www.youtube.com/watch?v=QCSvLqYurt4>Electrek</a> en YouTube — prueba del Currus NF.
+
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -2429,11 +2428,11 @@ No hay certificado <a href=https://www.dgt.es>DGT</a> verificado para este model
 
 <img src=/media/patinetes/currus-nf-3.webp alt=Currus NF rodando por una vía rápida>
 
-## El origen coreano de un patinete extremo
+## Currus: el pionero coreano de los patinetes extremos
 
-En una época en que el patinete eléctrico era territorio de aparatos urbanos de 350 W, Currus, marca coreana, lanzó el NF con una receta tomada de las motos: dos motores, un acumulador enorme, frenada hidráulica y una estructura de placas de aluminio atornilladas que terminó siendo su sello visual. La prueba de <a href=https://electrek.co/2019/10/23/review-currus-nf-electric-scooter/>Electrek</a>, enlazada entre las fuentes de este análisis, lo colocó como referencia de su época. El precio de salida ascendió a 2.799 dólares. Su hermano mayor, el Panther o NF11, llevó la receta todavía más lejos, hasta 2.100 Wh, con un pico de 5.400 W.
+Cuando el mercado del patinete eléctrico era cosa de modelos urbanos de 350 W, la coreana Currus presentó el NF con una fórmula importada de las motos: doble motor, batería enorme, frenos hidráulicos y una construcción a base de placas de aluminio atornilladas que se convirtió en su firma visual. La prueba de <a href=https://electrek.co/2019/10/23/review-currus-nf-electric-scooter/>Electrek</a>, enlazada en las fuentes de este análisis, lo situó como referencia de su época. Su precio de lanzamiento fue de 2.799 dólares, y su hermano mayor, el Panther o NF11, empujó la fórmula aún más lejos con 2.100 Wh y 5.400 W de pico.
 
-## Números que lo colocan aparte
+## Técnica a fondo: cifras de otra categoría
 
 | Concepto | Dato |
 |---|---|
@@ -2446,39 +2445,43 @@ En una época en que el patinete eléctrico era territorio de aparatos urbanos d
 | Carga máxima | 120 kg |
 | Frenos | Hidráulicos con ABS |
 
-Compararlo con un patinete urbano corriente resulta casi injusto: sus 1.680 Wh triplican lo que ofrece una batería de commuting, y a ritmo sosegado los 70-80 km reales calculados entran dentro de lo posible, un alcance que pocos patinetes de hoy igualan. La frenada hidráulica con ABS en ambos ejes, las cubiertas 10x3 y la suspensión hidráulica daban en 2019 tacto y comodidad de moto. La contrapartida son los kilos: 37 kg que lo destinan al garaje, no a subir escaleras ni a meterlo en un ascensor a diario.
+La comparación con un patinete urbano convencional es casi injusta: 1.680 Wh triplican la batería de un modelo de commuting, y con conducción tranquila los 70-80 km reales estimados son factibles, una autonomía que pocos patinetes actuales igualan. Los frenos hidráulicos con ABS delante y detrás y los neumáticos de 10x3 pulgadas con suspensión hidráulica daban en 2019 una frenada y un confort de moto. La factura es el peso: 37 kg que hacen del NF un patinete para guardar en garaje, no para subir escaleras ni meter en un ascensor a diario.
 
-## Comprar uno usado: qué mirar
+## Uso real hoy: pieza de colección funcional
 
-El NF ya no se fabrica ni se vende nuevo: Currus jamás contó con red oficial en España; el modelo quedó descatalogado, así que hoy se mueve entre la segunda mano y los entusiastas. Al comprar de ocasión, lo decisivo es el estado de la batería: un acumulador de 28 Ah a 60 V con años y ciclos encima puede haber perdido capacidad, y cambiarlo no sale barato ni resulta sencillo sin canales oficiales. Conviene revisar también los tornillos del mástil de placas, la frenada hidráulica y la plataforma. Con todo en buen estado, ofrece sensaciones que los patinetes urbanos de hoy no dan; con la batería floja, se queda en un pisapapeles de 37 kg muy bonito.
+El NF ya no se vende nuevo: Currus nunca tuvo red oficial en España y el modelo está descatalogado, así que su mercado es el de segunda mano y para entusiastas. Comprándolo de ocasión, la revisión crítica es la batería: un pack de 60 V y 28 Ah con años y ciclos a cuestas puede haber perdido capacidad, y sustituirlo no es barato ni sencillo fuera de canales oficiales. También hay que revisar la tornillería del mástil de placas, los frenos hidráulicos y el estado de la plataforma. Si todo está sano, ofrece una experiencia que los patinetes urbanos actuales no dan; si la batería flaquea, es un pisapapeles de 37 kg muy bonito.
 
-## ¿Capricho o transporte diario?
+## Normativa VMP: su gran límite en España
 
-El contrincante más cercano es su propio hermano, el <a href=/patinetes/currus-nf11/>Currus NF11 Panther</a>, todavía más potente; en el mercado de hoy, opciones como el <a href=/patinetes/kaabo-mantis-10-lite/>Kaabo Mantis 10 Lite</a> muestran la vía moderna y adquirible hacia los patinetes prestacionales. **Veredicto:** como pieza histórica y objeto de deseo dentro del movimiento eléctrico personal, el NF compensa cuando la batería sigue sana y el precio de ocasión resulta razonable; como transporte diario legal en España, su ficha promete más de lo que resulta práctico. Antes de pagar, revisa batería y documentación.
+La <a href=https://www.dgt.es>DGT</a> define los vehículos de movilidad personal con una velocidad máxima de 25 km/h, y el NF declara 70 km/h: tal cual sale de la caja no es un VMP legal en España. Para circular por vía pública debería ir limitado a 25 km/h, fuera de aceras y, según la normativa vigente, con el certificado de circulación que se exige a los VMP comercializados; este análisis lo recoge sin certificado DGT verificado. En la práctica, su habitat legal en España queda reducido a espacios privados y circuitos, o a un uso público limitado y documentado. Es el precio de comprar ingeniería extrema anterior a la regulación actual.
 
-## Guardarlo como pieza de época
+## Rivales y veredicto: ¿merece la pena?
 
-Los patinetes extremos de antes de la regulación vigente empiezan a cotizarse como piezas de época: dejar constancia del historial de la unidad, conservar el cargador original y cuidar la batería con cargas parciales de vez en cuando distinguirá, dentro de unos años, una unidad cuidada de un simple trasto viejo.
+Su rival más directo es su propio hermano, el <a href=/patinetes/currus-nf11/>Currus NF11 Panther</a>, aún más potente; y en el mercado actual, propuestas como el <a href=/patinetes/kaabo-mantis-10-lite/>Kaabo Mantis 10 Lite</a> representan la vía moderna y comprable a los patinetes prestacionales. **Veredicto:** como objeto de deseo y pieza histórica del movimiento eléctrico personal, el NF merece la pena si la batería está sana y el precio de ocasión es razonable; como transporte diario legal en España, no es la compra práctica que su ficha promete. Revisa siempre batería y documentación antes de pagar. 
 
-## Dudas que se repiten
+## Un apunte final para coleccionistas
 
-### ¿Cuánta potencia entrega?
-Dos motores con un pico conjunto de 3.600 W.
+Los patinetes extremos anteriores a la regulación actual empiezan a tener un valor de época: documentar el historial de la unidad, conservar su cargador original y mantener la batería con cargas parciales periódicas es lo que separará, dentro de unos años, una pieza cuidada de un simple trasto viejo.
 
-### ¿Cuánto alcance real da?
-Sobre 73 km con ritmo tranquilo.
+## Preguntas frecuentes
 
-### ¿En qué se distingue del Panther?
-El Panther (NF11) es el hermano mayor: lleva más batería, 2.100 Wh, y un pico de 5.400 W.
+### ¿Qué potencia tiene el Currus NF?
+Doble motor con **3.600 W de pico**.
 
-### ¿Se puede usar legalmente en España?
-Solo capado a 25 km/h.
+### ¿Qué autonomía real tiene?
+Unos **73 km** a ritmo tranquilo.
 
-### ¿Sigue fabricándose?
-No: descatalogado, solo se encuentra de segunda mano.
+### ¿En qué se diferencia del Panther?
+El Panther (NF11) es su hermano mayor: más batería (2.100 Wh) y 5.400 W de pico.
 
-### ¿Merece la pena comprarlo usado?
-Si la batería sigue sana y el precio es razonable, sí: es una pieza histórica. Comprueba la batería antes.
+### ¿Es legal en España?
+Solo **limitado a 25 km/h**.
+
+### ¿Se sigue vendiendo?
+No: descatalogado, solo segunda mano.
+
+### ¿Merece la pena de ocasión?
+Si la batería está sana y el precio es razonable, es una pieza histórica. Revisa la batería antes.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
@@ -3451,9 +3454,9 @@ Para quien quiere un Egret ligero y no necesita más de 20 km al día.
   },
   {
     slug: "egret-ey-6",
-    title: "Egret Ey! 6: patinete con 551 Wh y suspensión total",
+    title: "Egret Ey! 6: 551 Wh e intermitentes",
     excerpt:
-      "Egret Ey! 6 por 799 €: patinete con 551 Wh, 55 km anunciados, suspensión en ambos ejes e intermitentes en el manillar.",
+      "El Egret Ey! 6 es el elegante de la familia: 450 W, 551 Wh, 55 km declarados, suspensión integral e intermitentes por 799 €.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -3472,7 +3475,7 @@ Para quien quiere un Egret ligero y no necesita más de 20 km al día.
 
 **¿Buscas solo los datos?** <a href=/patinetes/egret-ey-6/>Ver ficha técnica del Egret Ey! 6</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Dentro del catálogo de Egret, el Ey! 6 ocupa el hueco del modelo refinado: motor de 450 W con picos de 902 W, acumulador de 551 Wh, una autonomía anunciada de 55 km, amortiguación en ambos ejes y guiños luminosos integrados en las empuñaduras, todo por 799 € (<a href=https://www.digitec.ch/en/s1/product/egret-ey-6-e-scooter-20-kmh-55-km-450-w-e-scooters-standing-47502040>Digitec</a> / <a href=https://www.voylt.com/en/e-garage/e-scooter/egret-ey!-6>Voylt</a>).
+El **Egret Ey! 6** es el elegante de la familia: **450 W** (902 W de pico), batería de **551 Wh**, **55 km** declarados, **suspensión integral** e **intermitentes en los puños**, por **799 €** (<a href=https://www.digitec.ch/en/s1/product/egret-ey-6-e-scooter-20-kmh-55-km-450-w-e-scooters-standing-47502040>Digitec</a> / <a href=https://www.voylt.com/en/e-garage/e-scooter/egret-ey!-6>Voylt</a>).
 
 ## Ficha técnica resumida
 
@@ -3493,23 +3496,23 @@ Dentro del catálogo de Egret, el Ey! 6 ocupa el hueco del modelo refinado: moto
 
 ¿Quieres el detalle completo? <a href=/patinetes/egret-ey-6/>Ficha técnica completa del Egret Ey! 6</a> con todos los datos verificados.
 
-## Cuánto cuesta en España
+## Precio del Egret Ey! 6 en España
 
-Pagarás 799 €, IVA incluido. Frente al Ey! 2, este modelo sale 100 € más barato y, pese a ello, monta un acumulador mayor, así que el salto en alcance no exige un desembolso superior.
+**799 €** con IVA. La mejor relación autonomía/precio de la familia Ey!: 100 € menos que el Ey! 2 con más batería.
 
 <img src=/media/patinetes/egret-ey-6-2.webp alt=Detalle de los intermitentes en los puños del Egret Ey! 6>
 
-## Autonomía: de la cifra oficial al uso diario
+## Autonomía real vs declarada
 
-El folleto anuncia 55 km, pero en trayectos corrientes conviene contar con 35-40 km. Esa horquilla encaja con la estimación de la ficha, que sitúa el recorrido práctico en torno a 37 km. La amortiguación delantera y trasera lo convierte en la opción más confortable de su gama, porque absorbe buena parte de las irregularidades del asfalto urbano.
+Declara **55 km**; con 551 Wh calcula **35-40 km** reales. La **suspensión integral** (horquilla delantera + trasera) lo hace el más cómodo de la familia.
 
-## Frenada, ruedas y señalización
+## Frenos y neumáticos
 
-Tres sistemas actúan juntos al frenar: disco, tambor y freno electrónico. Las cubiertas sin cámara, de 10 pulgadas y con gel que sella pinchazos, reducen las paradas imprevistas, mientras los intermitentes situados en los extremos del manillar permiten avisar de un giro sin apartar ninguna mano del manillar. Para moverse por ciudad, ese conjunto resulta especialmente tranquilizador.
+**Disco + tambor + freno electrónico**, **tubeless de 10 pulgadas con gel autosellante** e **intermitentes en los puños**: el pack de seguridad definitivo para ciudad.
 
-## Certificado y circulación en España
+## Certificado DGT y normativa VMP
 
-Aquí aparece el punto que exige más atención antes de comprar. No consta un certificado español de la <a href=https://www.dgt.es>DGT</a> verificado para este modelo, y su homologación alemana lo limita a 20 km/h. En territorio español, un VMP puede rodar hasta 25 km/h y jamás debe utilizar la acera. Por eso conviene pedir al vendedor, por escrito, la certificación válida en España: un patinete impecable en lo mecánico puede generar un quebradero administrativo si falta ese documento.
+Sin certificado DGT español verificado; homologado en Alemania a **20 km/h**. En España, VMP legal a **25 km/h** y sin **aceras**.
 
 ## Puntos fuertes y débiles
 
@@ -3523,11 +3526,11 @@ Aquí aparece el punto que exige más atención antes de comprar. No consta un c
 
 <img src=/media/patinetes/egret-ey-6-3.webp alt=Egret Ey! 6 circulando por la ciudad>
 
-## Una marca alemana a contracorriente
+## Egret: el patinete alemán de Walberg en un mercado de clones
 
-Detrás de Egret está Walberg Urban Electrics, empresa de Hamburgo que lleva años apostando por patinetes de gama alta mientras el mercado se inundaba de copias económicas de especificaciones dudosas. Su enfoque invierte las prioridades habituales: menos obsesión por la velocidad punta anunciada y más trabajo en los elementos que se notan cada día, como la suspensión, la frenada, las ruedas y la iluminación. El Ey! 6 encarna ese equilibrio dentro de la familia, porque reúne el acumulador grande y el equipamiento completo sin alcanzar el precio del modelo superior.
+Egret es la marca de **Walberg Urban Electrics**, una firma de Hamburgo que lleva años vendiendo patinetes premium cuando el mercado se llenó de clones baratos de especificación dudosa. Su planteamiento es el contrario al habitual: menos velocidad punta declarada y más ingeniería en lo que se usa a diario —suspensión, frenos, neumáticos e iluminación—. El Ey! 6 es el equilibrio de esa familia: el que suma la batería grande y el equipamiento completo sin irse al precio del tope de gama.
 
-## Los vatios, explicados sin letra pequeña
+## Los 55 km prometidos y los 37 reales: la cuenta de los vatios
 
 | Concepto | Dato |
 |---|---|
@@ -3536,44 +3539,47 @@ Detrás de Egret está Walberg Urban Electrics, empresa de Hamburgo que lleva a�
 | Autonomía real estimada | **≈37 km** |
 | Carga completa | 9 horas |
 
-La distancia entre la cifra anunciada y la real no responde a un truco publicitario, sino a las condiciones de medición: ritmo sostenido, conductor ligero y ausencia de viento. En un uso mixto —arranques y paradas, pendientes, frío y un adulto al manillar—, la propia ficha calcula unos 37 km, y esa es la referencia útil para organizar la semana. Con 551 Wh sobra energía para los desplazamientos urbanos habituales, siempre que el ciclo de recarga encaje: 9 horas enchufado apuntan a una carga durante la noche o durante la jornada de trabajo.
+La diferencia no es un engaño de la marca, es física: la cifra declarada se mide a ritmo constante, con piloto ligero y sin viento. En uso mixto real —paradas, cuestas, frío, un piloto adulto— la propia ficha estima unos **37 km**, y es la cifra con la que debes planificar: con 551 Wh hay energía de sobra para el día a día urbano, siempre que la rutina de carga encaje con esas **9 horas** enchufado, es decir, carga nocturna o de jornada laboral.
 
-## Confort en los dos ejes
+## Comodidad de verdad: suspensión en las dos ruedas
 
-Ningún otro Ey! ofrece amortiguación en ambos ejes, y la diferencia se percibe justo donde más molesta: adoquines, juntas de dilatación y bordillos llegan mucho más filtrados a las muñecas. Las cubiertas sin cámara de 10 pulgadas, con gel autosellante, dejan el pinchazo casi en anécdota, y los intermitentes de serie en los extremos del manillar solucionan un punto débil clásico de estos vehículos: avisar sin soltar las manos. El contrapeso está en la báscula: 21,6 kg pesan mucho si el recorrido diario obliga a subirlo a mano hasta un tercero sin ascensor.
+El Ey! 6 es el único de su familia con **suspensión integral**, delantera y trasera, y se nota donde más duele: adoquines, juntas de dilatación y bordillos dejan de llegar secos a las muñecas. Los neumáticos **tubeless de 10 pulgadas con gel autosellante** reducen el pinchazo a anécdota y los **intermitentes en los extremos del manillar** —de serie, no un accesorio— resuelven el punto débil histórico de los patinetes: señalizar sin soltar las manos. El peaje es el peso: **21,6 kg** son muchos si tu rutina incluye subirlo a pulso a un tercero sin ascensor.
 
-## Mantenerlo al día
+## Mantenimiento: triple freno, gel y batería paciente
 
-La frenada triple reparte el esfuerzo y el desgaste, algo que se agradece especialmente sobre mojado. Por lo demás, el mantenimiento de un VMP resulta sencillo: vigilar la presión de las cubiertas, revisar pastillas o zapatas, comprobar holguras de dirección y el mecanismo de plegado. Quien marca la vida útil es el acumulador: no dejarlo guardado semanas descargado ni al 100 %, y cargarlo a temperatura ambiente, prolonga su salud más que cualquier otro cuidado.
+El equipo de frenos combina **disco, tambor y freno electrónico**: redundancia que se agradece en mojado y que reparte el desgaste. El mantenimiento de un VMP es sencillo —presión de neumáticos, pastillas o zapatas, holguras de la dirección y plegado—, pero la batería manda en la longevidad: evitar guardarlo descargado o al 100 % durante semanas y cargarlo a temperatura ambiente alarga su vida más que cualquier otro gesto.
 
-## Rivales y veredicto
+## Normativa VMP: su punto débil es el certificado español
 
-Comparado con su hermano Ey! 2, el 6 sale ganando en dos frentes a la vez: acumula 551 Wh frente a 446 Wh y sale 100 € más barato. **Veredicto:** quien pague 799 € obtendrá un modelo que antepone el confort, el alcance práctico y la seguridad activa, aceptando dos condiciones: la limitación alemana a 20 km/h y la comprobación del certificado antes de pagar. Si la prioridad es alcanzar la velocidad máxima legal de 25 km/h en España, conviene buscar rivales homologados aquí en el comparador. Consulta todos los detalles en la <a href=/patinetes/egret-ey-6/>ficha del Ey! 6</a>.
+El propio análisis del modelo lo deja claro: **no tiene certificado DGT español verificado** y está homologado en Alemania limitado a **20 km/h**. En España un VMP debe circular a un máximo de 25 km/h y nunca por la acera, y la <a href=https://www.dgt.es>DGT</a> exige su certificación conforme al manual de características técnicas para comercializarse. Traducción práctica: antes de comprarlo, exige al vendedor el certificado para España; sin él, el patinete puede darte un problema administrativo aunque mecánicamente sea impecable.
+
+## Rivales y veredicto: ¿merece la pena el Ey! 6?
+
+Dentro de su propia casa le gana la partida al Ey! 2: más batería —551 frente a 446 Wh— y cuesta **100 € menos**. **Veredicto:** por **799 €** merece la pena para el usuario que prioriza comodidad, autonomía real y seguridad activa, y acepta sus dos condiciones: los 20 km/h de la versión alemana y verificar el certificado antes de pagar. Si tu prioridad es la velocidad legal máxima de 25 km/h, mira rivales homologados en España en el comparador. Todos los datos, en la <a href=/patinetes/egret-ey-6/>ficha técnica del Egret Ey! 6</a>. 
 
 ## Preguntas frecuentes
 
-### ¿Cuál es su precio?
-799 €, IVA incluido.
+### ¿Cuánto cuesta el Egret Ey! 6?
+**799 €** con IVA.
 
 ### ¿Tiene intermitentes?
-Sí, los lleva de serie en los extremos del manillar.
+Sí: **en los extremos del manillar**, de serie.
 
-### ¿Qué autonomía real ofrece?
-Unos 37 km en un uso combinado.
+### ¿Qué autonomía real tiene?
+Unos **37 km** en uso mixto.
 
-### ¿Resulta el más confortable de la gama?
-Sí: es el único Ey! con amortiguación en ambos ejes.
+### ¿Es el más cómodo de la familia?
+Sí: es el único con **suspensión integral** (delante y detrás).
 
 ### ¿Es legal en España?
-Como VMP, sí, siempre que se respeten 25 km/h como tope y no se circule por aceras.
+Sí como VMP, respetando 25 km/h y sin aceras.
 
-### ¿Conviene más que el Ey! 2?
-Para la mayoría, sí: su batería supera a la del Ey! 2 (551 Wh contra 446 Wh) y su precio queda 100 € por debajo.
+### ¿Merece la pena frente al Ey! 2?
+El Ey! 6 tiene más batería (551 Wh frente a 446 Wh) y cuesta 100 € menos. Para la mayoría, el 6 es mejor compra.
 
-Si recibes una sanción mientras ruedas con este VMP, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de abonar nada: sabrás si admite recurso.
+¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://www.digitec.ch/en/s1/product/egret-ey-6-e-scooter-20-kmh-55-km-450-w-e-scooters-standing-47502040>ficha del Ey! 6 en Digitec</a>. Normativa oficial: <a href=https://www.dgt.es>DGT (vehículos de movilidad personal)</a>.*
-`,
+*Fuentes: <a href=https://www.digitec.ch/en/s1/product/egret-ey-6-e-scooter-20-kmh-55-km-450-w-e-scooters-standing-47502040>ficha del Ey! 6 en Digitec</a>. Normativa oficial: <a href=https://www.dgt.es>DGT (vehículos de movilidad personal)</a>.*`,
   },
   {
     slug: "egret-ey-7",
@@ -3693,9 +3699,9 @@ El Ey! 6 (799 €) ofrece ficha completa y 551 Wh; el Ey! 7 es la apuesta budget
   // ─────────────────────────── TURBOANT (3) ───────────────────────────
   {
     slug: "turboant-x7-max",
-    title: "Turboant X7 Max: batería extraíble y 52 km de alcance",
+    title: "Turboant X7 Max: batería extraíble de 360 Wh",
     excerpt:
-      "Patinete de 15,5 kg con acumulador desmontable de 360 Wh, motor de 350 W y alcance de catálogo de 52 km: ronda los 415 € antes de importar.",
+      "El Turboant X7 Max destaca por su batería extraíble de 360 Wh: 350 W, 52 km declarados y 15,5 kg por ~415 €. Ficha y prueba.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -3714,9 +3720,9 @@ El Ey! 6 (799 €) ofrece ficha completa y 551 Wh; el Ey! 7 es la apuesta budget
 
 **¿Buscas solo los datos?** <a href=/patinetes/turboant-x7-max/>Ver ficha técnica del Turboant X7 Max</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Lo que distingue a este modelo dentro del catálogo de la marca es un detalle práctico: el acumulador sale del mástil y se enchufa aparte, de modo que no hace falta subir todo el vehículo al piso para recargarlo. Basta con llevarse el paquete a casa o al despacho y dejar el chasis aparcado abajo. Ese paquete suma 360 Wh, una cifra poco habitual en un vehículo que pesa solo 15,5 kg y que, sobre el papel, promete recorrer 52 km con una carga. El impulso lo pone un motor de 350 W, capaz de entregar 700 W en puntas cortas, y el desembolso ronda los 415 € si se compra directamente en la tienda oficial. Un medio norteamericano, <a href=https://eridehero.com/turboant-x7-max-electric-scooter-review/>ERideHero</a>, lo sometió a una prueba larga: 200 millas de uso real antes de publicar sus conclusiones. Además, se pliega deprisa, algo que se agradece cuando hay que guardarlo o subirlo al transporte público.
+El **Turboant X7 Max** tiene el truco que todos querrían: **batería extraíble de 360 Wh** que se carga en la oficina sin subir el patinete. Además: **350 W** (700 W de pico), **52 km** declarados y **15,5 kg**, por **~415 €** (<a href=https://eridehero.com/turboant-x7-max-electric-scooter-review/>ERideHero</a> lo probó durante 200 millas).
 
-## Resumen de datos
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -3734,25 +3740,25 @@ Lo que distingue a este modelo dentro del catálogo de la marca es un detalle pr
 
 ¿Quieres el detalle completo? <a href=/patinetes/turboant-x7-max/>Ficha técnica completa del Turboant X7 Max</a> con todos los datos verificados.
 
-## Precio en España
+## Precio del Turboant X7 Max en España
 
-En la tienda oficial de la marca, el importe anunciado es de 449,98 dólares, lo que al cambio queda en torno a 415 €. Ojo: la marca no cuenta con distribuidor en Europa, así que el comprador español debe traerlo desde fuera y el importe que acaba pagando supera esa cifra de partida.
+Unos **415 €** al cambio (449,98 $) en la web oficial. Sin distribución europea: hay que importarlo, con lo que el precio final sube.
 
 <img src=/media/patinetes/turboant-x7-max-2.webp alt=Detalle de la batería extraíble del Turboant X7 Max>
 
-## Alcance: anuncio frente a realidad
+## Autonomía real vs declarada
 
-La cifra de catálogo habla de 52 km, pero la medición independiente rebaja bastante esa promesa: en modo normal, ERideHero registró 29 km antes de agotar la carga. La ventaja del diseño está en que se puede adquirir un segundo paquete por separado y, al intercambiarlo, doblar la distancia total disponible en una jornada.
+Declara **52 km**; ERideHero midió **29 km** reales en modo normal. La batería extraíble permite llevar una segunda y duplicar el rango, y se venden por separado.
 
-## Frenada y ruedas
+## Frenos y neumáticos
 
-Para detenerlo combinan un freno de disco con otro electrónico, y las ruedas de 10 pulgadas se ofrecen en dos acabados distintos. La variante neumática prioriza la comodidad y mantiene la promesa de 52 km; la de panal, en cambio, recorta el alcance hasta 48 km a cambio de eliminar el riesgo de pinchazo. No lleva suspensión, así que la absorción de baches recae por completo en el neumático.
+**Disco + freno electrónico** y **10 pulgadas** en dos versiones: **neumática** (52 km, más cómoda) o **honeycomb** (48 km, sin pinchazos). Sin suspensión: el confort lo pone la rueda.
 
-## Homologación y norma VMP
+## Certificado DGT y normativa VMP
 
-No consta ningún certificado DGT verificado para este modelo. Su velocidad punta ronda los 32 km/h, por encima del tope permitido para los VMP en España, de modo que habría que caparlo a 25 km/h para circular conforme a la norma. Además, queda prohibido usarlo por las aceras.
+Sin certificado DGT verificado. Sus **~32 km/h** de punta piden **limitarlo a 25 km/h** para la normativa VMP; prohibido en **aceras**.
 
-## Lo mejor y lo peor
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -3764,30 +3770,29 @@ No consta ningún certificado DGT verificado para este modelo. Su velocidad punt
 
 <img src=/media/patinetes/turboant-x7-max-3.webp alt=Turboant X7 Max circulando por un carril bici>
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿Qué precio tiene el X7 Max?
-En la web oficial ronda los 415 € al cambio, antes de añadir la importación.
+### ¿Cuánto cuesta el Turboant X7 Max?
+Unos **415 €** al cambio en la web oficial, más importación.
 
 ### ¿La batería se extrae?
-Sí: el paquete va alojado en el mástil y se recarga separado del vehículo.
+Sí: va en el mástil y **se carga separada** del patinete.
 
-### ¿Qué alcance real ofrece?
-ERideHero midió 29 km en uso real, frente a los 52 km del catálogo.
+### ¿Qué autonomía real tiene?
+**29 km** medidos por ERideHero; 52 km declarados.
 
 ### ¿Es legal en España?
-Sí, siempre que se limite a 25 km/h.
+**Limitado a 25 km/h**, sí.
 
 ### ¿Neumática o honeycomb?
-La neumática si priorizas el confort; la honeycomb si prefieres no sufrir pinchazos nunca.
+Neumática para confort, honeycomb para olvidarte de pinchazos.
 
 ### ¿Merece la pena frente al X7 Pro?
-La versión Max suma el acumulador desmontable y un alcance mayor; el Pro ya figuraba en el comparador. Si ese desmontaje te resulta decisivo, el Max es la opción.
+El Max añade batería extraíble y más rango; el Pro ya estaba en el comparador. Si la batería extraíble te importa, el Max.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://eridehero.com/turboant-x7-max-electric-scooter-review/>prueba en ERideHero</a> y <a href=https://turboant.com/products/x7-max-folding-electric-scooter>TurboAnt oficial</a>.*
-`,
+*Fuentes: <a href=https://eridehero.com/turboant-x7-max-electric-scooter-review/>prueba en ERideHero</a> y <a href=https://turboant.com/products/x7-max-folding-electric-scooter>TurboAnt oficial</a>.*`,
   },
   {
     slug: "turboant-r9",

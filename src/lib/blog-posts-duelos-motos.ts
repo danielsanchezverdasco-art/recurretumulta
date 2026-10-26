@@ -107,9 +107,9 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
 `,
   },
   {
-    title: "BMW CE 04 frente a Zero FXE: scooter o supermotard",
+    title: "BMW CE 04 vs Zero FXE 2026",
     slug: "bmw-ce-04-vs-zero-fxe-cual-comprar",
-    excerpt: "CE 04 desde 12.050 € con 130 km y FXE desde 14.235 € con 169 km: compara potencia, peso, carnet, carga y autonomía real antes de elegir.",
+    excerpt: "BMW CE 04 (12.050 €, 130 km) vs Zero FXE (14.235 €, 169 km): enfrentamos el maxi-scooter premium alemán contra la supermotard eléctrica americana.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -126,11 +126,11 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     content: `<img src=/media/bmw-ce-04-vs-zero-fxe-cual-comprar-hero.webp alt=Comparativa entre el BMW CE 04 y la Zero FXE, el maxi-scooter premium frente a la supermotard eléctrica>
 
-Un maxi-scooter alemán de 231 kg se enfrenta a una supermotard estadounidense de 140 kg: ambos funcionan con electricidad, ambos llevan etiqueta Cero, y ambos se mueven en el tramo premium, pero apuntan a conductores distintos.
+Dos formas opuestas de entender la moto eléctrica premium: el BMW CE 04, un maxi-scooter futurista con pantalla de 10,25" y electrónica de moto grande, frente a la Zero FXE, una supermotard de 140 kg y 106 Nm diseñada por Huge Design que se conduce con el carnet de coche convalidado.
 
-En resumen: quien priorice desplazamientos diarios con protección, hueco para casco y pantalla grande encajará con el modelo de BMW; quien priorice ligereza, par y tacto de moto encajará con el modelo de Zero. Así quedan los números:
+La respuesta corta: **el CE 04 es para quien quiere el scooter definitivo para ciudad y extrarradio; la FXE para quien quiere diversión pura con estética de moto de verdad**. La tabla:
 
-## Cifras frente a frente
+## Tabla comparativa: BMW CE 04 vs Zero FXE
 
 | Ficha | BMW CE 04 | Zero FXE 7.2 (2025) |
 |---|---|---|
@@ -148,64 +148,62 @@ En resumen: quien priorice desplazamientos diarios con protección, hueco para c
 
 <img src=/media/bmw-ce-04-zero-fxe-duelo-cuerpo.webp alt=BMW CE 04 y Zero FXE comparadas en una calle de ciudad>
 
-## Qué aporta cada modelo en uso diario
+## Análisis: qué ofrece cada una
 
-**BMW CE 04.** El modelo alemán arranca de 0 a 50 km/h en 2,6 segundos, declara 130 km, admite un cargador opcional de 6,9 kW que recupera del 20 al 80 % en 45 minutos, incluye ABS y control de estabilidad, ambos de serie, y monta una pantalla TFT de 10,25 pulgadas con navegación. El reverso: 231 kg en báscula, 12.050 € de partida antes de paquetes, y una batería fija de 8,9 kWh que obliga a tener punto de carga cerca.
+**BMW CE 04.** El 0-50 km/h en 2,6 s lo dice todo: es el scooter más rápido del segmento. Suma 130 km de autonomía, carga rápida opcional de 6,9 kW (del 20 al 80 % en 45 minutos), ABS y control de estabilidad de serie, y la pantalla TFT más grande del segmento con navegación. Pero pesa 231 kg, cuesta 12.050 € de partida (y los paquetes lo encarecen mucho más), y la batería es fija: dependes de un punto de carga.
 
-**Zero FXE.** El modelo estadounidense pesa 140 kg, entrega 106 Nm, equipa horquilla Showa regulable y neumáticos Pirelli Diablo Rosso II, declara 169 km y cubre su batería con 5 años de garantía. El reverso: carga de serie cercana a 9,7 horas, autonomía cercana a 96 km en modo ECO, precio cercano a 14.235 € para 7,2 kWh, y ausencia de hueco de carga y de USB.
+**Zero FXE.** 140 kg, 106 Nm y una parte ciclo seria (horquilla Showa regulable, Pirelli Diablo Rosso II): es una moto de verdad, divertidísima en ciudad y en curvas, con 169 km declarados y garantía de 5 años en la batería. A cambio, la carga de serie es lentísima (9,7 h), la autonomía real ronda los 96 km en modo ECO y el precio (≈14.235 €) es muy alto para 7,2 kWh.
 
-## Puntos fuertes y puntos débiles
+## Pros y contras
 
 **BMW CE 04:**
-- ✅ Aceleración urbana: 0 a 50 km/h en 2,6 segundos
-- ✅ Marcha atrás incluida y espacio para guardar un casco
-- ✅ Pantalla de 10,25 pulgadas con navegación, ABS y control de estabilidad
-- ✅ Autonomía declarada de 130 km, con cargador rápido opcional
-- ❌ Precio de partida de 12.050 €, el más alto de esta comparativa
-- ❌ Peso de 231 kg, una cifra elevada para ciudad
-- ❌ Batería fija, sin variante extraíble
-- ❌ Los paquetes opcionales elevan mucho el importe final
+- ✅ 0-50 km/h en 2,6 s: el más rápido del segmento
+- ✅ 130 km de autonomía y carga rápida opcional
+- ✅ Pantalla de 10,25" con navegación, ABS y control de estabilidad
+- ✅ Marcha atrás y hueco para un casco
+- ❌ 12.050 € de partida, la más cara de la comparativa
+- ❌ 231 kg: muy pesada
+- ❌ Batería fija, sin opción extraíble
+- ❌ Los paquetes de equipamiento encarecen mucho la factura
 
 **Zero FXE:**
-- ✅ 140 kg y 106 Nm, con agilidad de moto ligera
-- ✅ Tren de rodaje firmado por Showa y Pirelli
-- ✅ 169 km declarados y garantía de batería de 5 años
-- ✅ Estética propia firmada por Huge Design
-- ❌ Precio cercano a 14.235 € para una batería de 7,2 kWh
-- ❌ Carga de serie cercana a 9,7 horas
-- ❌ Autonomía cercana a 96 km en modo ECO
-- ❌ Sin hueco de carga y sin USB
+- ✅ 140 kg y 106 Nm: diversión pura
+- ✅ Parte ciclo seria con Showa y Pirelli
+- ✅ 169 km declarados y 5 años de garantía de batería
+- ✅ Diseño único firmado por Huge Design
+- ❌ ≈14.235 € para 7,2 kWh de batería
+- ❌ Carga de serie lentísima (9,7 h)
+- ❌ Autonomía real de ~96 km en ECO
+- ❌ Sin hueco de carga ni USB
 
-## Veredicto: ¿cuál conviene comprar?
+## Veredicto: ¿cuál comprar?
 
-Elige el BMW CE 04 si tus trayectos diarios piden protección, tecnología y un scooter utilizable cada día sin que el presupuesto marque el límite. Elige la Zero FXE si tus trayectos piden ligereza, carácter y tacto de moto, y dispones de carga nocturna en casa.
+**Compra el BMW CE 04 si** quieres el scooter eléctrico definitivo: rápido, tecnológico y usable a diario, y el presupuesto no es el problema. **Compra la Zero FXE si** lo que buscas es una moto con la que divertirte de verdad, ligera y con carácter, y tienes dónde cargarla durante la noche. Fichas completas: <a href=/motos/bmw-ce-04-ficha-tecnica-precio/>ficha del BMW CE 04</a> y <a href=/motos/zero-fxe-ficha-tecnica-precio/>ficha de la Zero FXE</a>, o cara a cara en el <a href=/comparador-motos/?a=bmw-ce-04-ficha-tecnica-precio&b=zero-fxe-ficha-tecnica-precio>comparador de motos eléctricas</a>.
 
-Fichas completas: <a href=/motos/bmw-ce-04-ficha-tecnica-precio/>ficha del BMW CE 04</a> y <a href=/motos/zero-fxe-ficha-tecnica-precio/>ficha de la Zero FXE</a>, además del enfrentamiento directo en el <a href=/comparador-motos/?a=bmw-ce-04-ficha-tecnica-precio&b=zero-fxe-ficha-tecnica-precio>comparador de motos eléctricas</a>.
-
-## Vídeo de la prueba
+## Míralo en vídeo
 
 <iframe src=https://www.youtube.com/embed/9ZJcX4AfEHE title="Vídeo: Vídeo-prueba BMW CE 04, el nuevo scooter 100% eléctrico" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=9ZJcX4AfEHE>Motorbike Magazine</a> en YouTube
 
-## Dudas frecuentes
+## Preguntas frecuentes
 
-### ¿Qué modelo acelera antes en ciudad y cuál alcanza más velocidad?
-El CE 04 cubre 0 a 50 km/h en 2,6 segundos, mientras la FXE llega a 137 km/h frente a 120 km/h del CE 04; el menor peso de la FXE, 140 kg frente a 231 kg, explica su tacto más deportivo.
+### ¿Cuál es más rápida, el BMW CE 04 o la Zero FXE?
+El CE 04 acelera más fuerte en ciudad (0-50 km/h en 2,6 s), pero la FXE tiene más punta (137 km/h frente a 120) y mucho menos peso, así que en sensaciones deportivas gana la Zero.
 
-### ¿Qué permiso hace falta para conducir cada modelo?
-La FXE de 11 kW admite A1 o B con más de 3 años. El CE 04 de 31 kW pide A2, salvo su variante de 11 kW, que también admite A1 o B.
+### ¿Qué carnet necesito para cada una?
+La Zero FXE (versión 11 kW) se lleva con el A1 o el B con más de 3 años. El BMW CE 04 de 31 kW exige el A2, aunque existe una versión de 11 kW conducible con A1/B.
 
-### ¿Qué autonomía cabe esperar en uso real?
-El CE 04 anuncia 130 km, una cifra más ajustada a uso mixto. La FXE anuncia 169 km y en pruebas se queda cerca de 96 km en modo ECO. Ambas están pensadas para ciudad y extrarradio, no para viajes largos.
+### ¿Cuál tiene más autonomía real?
+La Zero FXE declara 169 km, pero en pruebas reales ronda los 96 km en modo ECO. El CE 04 declara 130 km más creíbles para uso mixto. Ninguna es una moto de viaje: son urbanas y periurbanas.
 
-### ¿Se cargan con un enchufe doméstico?
-Sí. La FXE necesita cerca de 9,7 horas con la carga de serie, y el CE 04 cerca de 4 horas y 20 minutos; con el cargador opcional de 6,9 kW, el CE 04 recupera del 20 al 80 % en 45 minutos.
+### ¿Se pueden cargar en un enchufe normal?
+Sí, pero con matices: la FXE tarda unas 9,7 h de serie y el CE 04 unas 4 h 20 min; el BMW admite cargador rápido opcional de 6,9 kW que lo deja en 45 minutos del 20 al 80 %.
 
-### ¿Cuál conservará mejor su precio de segunda mano?
-Ambas pertenecen a un nicho premium con depreciación difícil de prever. BMW aporta concesionarios y talleres repartidos por España; Zero amplía su red, con un crecimiento del 58 % en 2025, aunque continúa siendo minoritaria.
+### ¿Cuál retiene mejor el valor?
+Las dos son nicho premium con depreciación incierta, pero BMW tiene red de concesionarios y servicio en toda España; Zero está creciendo (+58 % de red en 2025) pero sigue siendo minoritaria.
 
-Si una sanción te ha llegado y dudas de su validez, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de abonar el importe.
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
 `,
   },
   {

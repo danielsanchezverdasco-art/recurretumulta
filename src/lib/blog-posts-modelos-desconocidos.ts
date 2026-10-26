@@ -657,9 +657,9 @@ Fuentes: <a href=https://cnevpost.com/2026/08/06/li-auto-launches-cheaper-entry-
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
   },
   {
-    "title": "Volkswagen ID. UNYX 09: 755 km CLTC solo en China",
+    "title": "ID. UNYX 09: 755 km solo para China",
     "slug": "volkswagen-id-unyx-09-electrico-china-755-km",
-    "excerpt": "Volkswagen ID. UNYX 09: preventa en China desde 199.900 yuanes, fastback de 5,08 m, 755 km CLTC, carga 5C y hasta 503 CV con XPeng. Sin plan para Europa.",
+    "excerpt": "El ID. UNYX 09 abre su preventa en China: 5,08 m, 755 km CLTC, carga 5C y 503 CV con tecnología XPeng desde 199.900 yuanes. A Europa no llega.",
     "category": "Modelos desconocidos",
     "date": "2026-10-05",
     "readTime": 7,
@@ -673,28 +673,28 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     "content": `<img src=/media/volkswagen-id-unyx-09-electrico-china-755-km-hero.webp alt=Gran berlina eléctrica fastback azul oscuro de más de cinco metros en una avenida de Shanghái de noche>
 
-China tiene un Volkswagen que Europa no tiene: el ID. UNYX 09, una berlina fastback de 5,08 metros que acaba de abrir su preventa en el mercado chino. Dos tarifas: 199.900 yuanes para la variante de un motor y 249.900 yuanes para la de tracción total. Al cambio, eso equivale aproximadamente a 26.000 y 32.500 €. Su carta de presentación: 755 km CLTC, recarga 5C y hasta 503 CV. El estreno oficial en China llegará a finales de octubre; a Europa, de momento, no viene.
+Mientras en Europa Volkswagen recorta gama y plantilla, en China juega otra liga completamente distinta. El **ID. UNYX 09** acaba de abrir su preventa: una **berlina eléctrica fastback de 5,08 metros** desarrollada junto a **XPeng**, con **755 km de autonomía**, **carga 5C** y hasta **503 CV**, desde **199.900 yuanes** (unos 26.000 € al cambio). El lanzamiento oficial será a **finales de octubre**. Y no, a Europa no viene. De momento.
 
 ## Datos clave
 
-- **Tarifas de preventa en China:** 199.900 yuanes (un motor) y 249.900 yuanes (tracción total); cambio aproximado: de 26.000 a 32.500 €
-- **Estreno oficial:** finales de octubre de 2026
-- **Alcance:** 755 km CLTC con batería LFP de CATL cercana a 92 kWh
-- **Recarga 5C:** entre el 10 y el 80% en menos de doce minutos, según la prensa especializada
-- **Potencia:** 230 kW (313 CV) con tracción trasera; 370 kW (503 CV) con tracción total
-- **Tamaño:** largo 5.081 mm; ancho 1.980 mm; batalla 3.030 mm
-- **Conducción inteligente:** sistema VLA de XPeng, creado en solo 24 meses
-- **Origen de los datos:** <a href=https://www.reuters.com/world/china/volkswagen-opens-presales-second-xpeng-joint-model-china-2026-09-24/>Reuters (24/09/2026)</a>; detalles técnicos en <a href=https://www.hibridosyelectricos.com/coches/nuevo-coche-electrico-volkswagen-tiene-tamano-tesla-model-s-tiene-755-km-autonomia-cuesta-26000-pero_89491_102.html>Híbridos y Eléctricos</a> y <a href=https://testcoches.es/noticias/del-10-al-80-en-12-minutos-el-volkswagen-id-unyx-09-carga-asi-porque-por-dentro-es-un-xpeng/>TestCoches</a>
+- **Preventa en China:** 199.900 yuanes (1 motor) / 249.900 yuanes (tracción total); unos 26.000-32.500 € al cambio
+- **Lanzamiento oficial:** finales de octubre de 2026
+- **Autonomía:** 755 km (CLTC), batería LFP de CATL de unos 92 kWh
+- **Carga:** 5C; del 10 al 80% en menos de 12 minutos (según prensa especializada)
+- **Potencia:** 230 kW (313 CV) trasera / 370 kW (503 CV) tracción total
+- **Dimensiones:** 5.081 mm de largo, 1.980 mm de ancho, batalla de 3.030 mm
+- **Tecnología:** sistema de conducción inteligente VLA de XPeng, desarrollado en solo 24 meses
+- **Fuente:** <a href=https://www.reuters.com/world/china/volkswagen-opens-presales-second-xpeng-joint-model-china-2026-09-24/>Reuters (24/09/2026)</a>; datos técnicos de <a href=https://www.hibridosyelectricos.com/coches/nuevo-coche-electrico-volkswagen-tiene-tamano-tesla-model-s-tiene-755-km-autonomia-cuesta-26000-pero_89491_102.html>Híbridos y Eléctricos</a> y <a href=https://testcoches.es/noticias/del-10-al-80-en-12-minutos-el-volkswagen-id-unyx-09-carga-asi-porque-por-dentro-es-un-xpeng/>TestCoches</a>
 
-## Un XPeng con insignia de Volkswagen
+## Por dentro es un XPeng con logo de Volkswagen
 
-La clave del coche está en su origen. Volkswagen entró en el capital de XPeng en 2023 con un 5%, y de ese acuerdo nace la arquitectura eléctrica y electrónica compartida del UNYX 09, además del sistema VLA de conducción inteligente. Esa misma base tecnológica equipa al <a href=/coches/xpeng-p7-electrico-precio-ficha-tecnica/>XPeng P7+ que se vende en España</a>.
+Que no te engañe la insignia: el UNYX 09 nace de la alianza que Volkswagen firmó con XPeng en 2023 (los alemanes compraron un 5% del fabricante chino). La **arquitectura eléctrica y electrónica es conjunta**, y el sistema de asistencia a la conducción es el **VLA de XPeng**, la misma familia tecnológica que lleva el <a href=/coches/xpeng-p7-electrico-precio-ficha-tecnica/>XPeng P7+ que ya se vende en España</a>.
 
-El UNYX 09 es el segundo proyecto común tras el SUV ID. UNYX 08. Llega cuando Volkswagen cae en China: en el primer semestre de 2026 sus entregas bajaron un 26%, hasta 971.000 unidades, su cifra más baja en 16 años, con BYD y Geely recortando distancias. La respuesta alemana se resume en *"in China, for China"*: más de veinte modelos electrificados en un solo año, creados al ritmo del mercado local.
+Es el segundo fruto de esa alianza tras el SUV ID. UNYX 08, y llega en un momento dramático para VW en China: sus entregas cayeron un **26% en el primer semestre de 2026** (971.000 unidades, mínimo en 16 años) mientras BYD y Geely le comen el terreno. La respuesta alemana es la campaña *"in China, for China"*: más de **20 modelos electrificados** solo este año, desarrollados a ritmo chino.
 
 <img src=/media/volkswagen-id-unyx-09-electrico-china-755-km-cuerpo.webp alt=Interior tecnológico de berlina eléctrica premium con gran pantalla panorámica y luz ambiental>
 
-## Ficha técnica según la prensa especializada
+## Ficha técnica (datos de prensa especializada)
 
 | Concepto | ID. UNYX 09 |
 |---|---|
@@ -707,38 +707,38 @@ El UNYX 09 es el segundo proyecto común tras el SUV ID. UNYX 08. Llega cuando V
 | Equipamiento | Faros matriciales DLP, frenos Brembo, techo panorámico, llantas 21" |
 | Precio China (preventa) | 199.900 - 249.900 yuanes |
 
-## El precio chino no sirve para Europa
+## El precio chino no es el precio europeo
 
-Convertir 199.900 yuanes en 26.000 € y dar por hecho ese fastback en Europa es un error de cálculo. Sobre el precio chino faltarían IVA, homologación, logística, aranceles de la UE para eléctricos fabricados en China y margen comercial. Como referencia cercana sirve el XPeng P7+: su preventa china arrancó en 209.800 yuanes y en España parte de 45.990 €.
+Antes de soñar con un coche de 5 metros y 755 km por 26.000 €, la realidad: ese precio **no se puede trasladar a Europa**. Faltarían IVA, aranceles de la UE a los eléctricos fabricados en China, homologación, logística y margen comercial. El ejemplo más claro lo tenemos en casa: el **XPeng P7+** abrió su preventa en China por 209.800 yuanes (casi lo mismo) y en España parte de **45.990 €**.
 
 | | Preventa en China | Precio en España |
 |---|---|---|
 | XPeng P7+ | 209.800 yuanes | **45.990 €** |
 | VW ID. UNYX 09 | 199.900 yuanes | No se vende en Europa |
 
-¿Rectificará Volkswagen? Circulan rumores sobre la llegada a Europa de varios eléctricos chinos de la marca, y el UNYX 09 podría ocupar el hueco de un hipotético ID.9, situado entre el ID.7 y la gama premium. Con un precio lógico alrededor de 60.000 €, con rivales del calibre del Hyundai IONIQ 6, el Tesla Model 3 o el BYD Seal, tendría un competidor serio. Pero, hoy por hoy, todo eso es rumor: no hay plan oficial.
+¿Y si Volkswagen cambiara de idea? Los rumores apuntan a que los alemanes estudian **traer a Europa varios de sus eléctricos chinos**, y el UNYX 09 encajaría como un hipotético **ID.9** entre el ID.7 y el segmento premium. Con un posicionamiento lógico en torno a los 60.000 €, tendría rivales como el Tesla Model 3, el BYD Seal o el Hyundai IONIQ 6 temblando. Pero hoy por hoy es solo un rumor: **no hay plan oficial**.
 
-En el <a href=/comparador-coches/>comparador de coches eléctricos</a> puede enfrentarse lo que sí se vende en España.
+Puedes comparar lo que sí se vende aquí en el <a href=/comparador-coches/>comparador de coches eléctricos</a>.
 
 ## Preguntas frecuentes
 
-### ¿Precios de la preventa?
-199.900 yuanes para la variante de un motor y 249.900 yuanes para la de tracción total; al cambio, unos 26.000 a 32.500 €. Solo mercado chino.
+### ¿Cuánto cuesta el Volkswagen ID. UNYX 09?
+En preventa en China: **199.900 yuanes** la versión de un motor y **249.900 yuanes** la de tracción total (unos 26.000-32.500 € al cambio). Son precios solo para el mercado chino.
 
-### ¿Vendrá a Europa?
-De momento, no hay plan oficial. Volkswagen estudia traer algunos modelos desarrollados en China, y el UNYX 09 podría transformarse en un hipotético ID.9.
+### ¿El ID. UNYX 09 llegará a Europa?
+**No hay plan oficial.** Volkswagen dice que de momento no, aunque estudia traer a Europa algunos de sus modelos desarrollados en China; el UNYX 09 podría convertirse en un hipotético ID.9.
 
-### ¿Qué alcance anuncia?
-755 km CLTC —el ciclo chino, más benévolo que el WLTP europeo— con batería LFP de CATL cercana a 92 kWh.
+### ¿Qué autonomía tiene el ID. UNYX 09?
+Homologa **755 km en ciclo CLTC** (el ciclo chino, más optimista que el WLTP europeo), con una batería LFP de CATL de unos 92 kWh.
 
-### ¿Qué pinta XPeng aquí?
-Es el segundo proyecto común tras el ID. UNYX 08: arquitectura eléctrica y electrónica compartida y sistema VLA de conducción inteligente de XPeng.
+### ¿Qué tiene que ver XPeng con este Volkswagen?
+Mucho: es el **segundo modelo desarrollado conjuntamente** tras el ID. UNYX 08. Usa la arquitectura eléctrica/electrónica conjunta y el sistema de conducción inteligente **VLA de XPeng**.
 
-### ¿Cuándo se lanza?
-La preventa se abrió el 24 de septiembre de 2026; el estreno oficial en China llegará a finales de octubre.
+### ¿Cuándo sale a la venta el ID. UNYX 09?
+La preventa abrió el **24 de septiembre de 2026** y el lanzamiento oficial en China será a **finales de octubre**.
 
-### ¿Por qué importa a Volkswagen?
-Porque pierde cuota en China: en el primer semestre de 2026 entregó un 26% menos, hasta 971.000 unidades, su mínimo en 16 años. El UNYX 09 busca recuperar terreno ante BYD y Geely.
+### ¿Por qué es importante este coche para Volkswagen?
+Porque la marca se hunde en China: **-26% de entregas en el primer semestre de 2026**, mínimo en 16 años. El UNYX 09 es su apuesta para recuperar el terreno perdido frente a BYD y Geely.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
   },
@@ -933,9 +933,9 @@ Fuentes: <a href=https://carnewschina.com/2026/09/30/seres-and-catl-backed-aiva-
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
   },
   {
-    "title": "Geely Galaxy Battleship 700: 4x4 híbrido de 1.113 CV",
+    "title": "Battleship 700: 4x4 de 1.113 CV que flota",
     "slug": "geely-galaxy-battleship-700-zhanjian-700",
-    "excerpt": "El Geely Galaxy Battleship 700 llega a China el 10 de octubre de 2026 con 1.113 CV, 305 km eléctricos y modo de flotación; sumó 43.900 pedidos en una hora.",
+    "excerpt": "El Geely Galaxy Battleship 700 sale a la venta en China el 10 de octubre: 1.113 CV, 305 km eléctricos, chasis de largueros y 43.900 pedidos en una hora.",
     "category": "Modelos desconocidos",
     "date": "2026-10-07",
     "readTime": 8,
@@ -950,11 +950,11 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     "content": `<img src=/media/battleship-700-offroad-hero.webp alt=Todoterreno híbrido enchufable de color verde oscuro con barra de luces LED subiendo por una pista de montaña al atardecer>
 
-Tres cifras resumen el estreno: 1.113 CV, 43.900 reservas en sesenta minutos y capacidad de flotar sobre el agua. Su nombre completo es Geely Galaxy Battleship 700 —Zhanjian 700 en su mercado de origen— y supone el primer todoterreno auténtico de Geely, que llega al mercado chino el 10 de octubre de 2026. Se trata de un híbrido enchufable con tres motores, chasis de largueros, 305 kilómetros de autonomía eléctrica y un precio inicial cercano a 26.500 euros al cambio. El Land Rover Defender acaba de ganar un rival nuevo, y se llama Battleship.
+**1.113 CV. 43.900 pedidos en una hora. Y flota en el agua.** El **Geely Galaxy Battleship 700** (Zhanjian 700 en China) es el primer todoterreno de verdad de Geely y sale a la venta en China el **10 de octubre de 2026**. Es un híbrido enchufable de **tres motores** con chasis de largueros, 305 km de autonomía eléctrica y un precio que parte de unos **26.500 € al cambio**. El Land Rover Defender tiene un problema nuevo, y se llama Battleship.
 
-## Récord de reservas en sesenta minutos
+## 43.900 pedidos en 60 minutos
 
-La preventa se abrió en China y las cifras son de récord: 10.000 reservas en 9 minutos y 43.900 al cabo de una hora. Los depósitos son reembolsables, según comunicó la propia Geely en Weibo. La serie especial Land Ark, con solo 700 unidades, quedó agotada a los 12 minutos.
+Geely abrió la preventa en China y los números son de récord: **10.000 pedidos en 9 minutos** y **43.900 en una hora** (depósitos reembolsables, según publicó la propia Geely en Weibo). La edición especial **Land Ark**, limitada a **700 unidades**, se agotó en 12 minutos.
 
 | Versión | Preventa (yuanes) | ≈ Euros |
 |---|---|---|
@@ -965,62 +965,62 @@ La preventa se abrió en China y las cifras son de récord: 10.000 reservas en 9
 | 2.0T Trimotor AWD Summit | 269.800 | ~35.900 € |
 | Land Ark (700 uds., agotada) | 389.800 | ~51.800 € |
 
-La conversión aplica 1 euro ≈ 7,52 CNY, según el cambio publicado el 07/10/2026. Corresponden a precios de preventa en China; el PVP definitivo puede cambiar.
+*Conversión con 1 € ≈ 7,52 CNY (tipo de cambio publicado el 07/10/2026). Son precios de preventa en China; el PVP final puede variar.*
 
-## Thor EM-T: potencia híbrida de 1.113 CV
+## Thor EM-T: 1.113 CV híbridos
 
-El Battleship 700 inaugura Thor EM-T, la tracción total híbrida con IA de Geely: un turbo de gasolina en dos variantes, 1.5T con 161 CV y 2.0T con 215 CV, que trabaja junto a tres motores eléctricos. La variante superior rinde 830 kW (1.113 CV) y firma un 0 a 100 km/h de 3,95 segundos.
+El Battleship 700 estrena el sistema **Thor EM-T** de tracción total híbrida con IA: un motor turbo de gasolina (**1.5T de 161 CV o 2.0T de 215 CV**) combinado con **tres motores eléctricos**. La configuración tope entrega **830 kW (1.113 CV)** y acelera de **0 a 100 km/h en 3,95 segundos**.
 
-El acumulador, una CATL LFP de 47,14 kWh, homologa 305 kilómetros eléctricos en ciclo CLTC (unos 247 kilómetros WLTP) y rebasa los 1.770 kilómetros de autonomía combinada. La suspensión juega en otra liga: hidráulica activa con amortiguación CCD y un sistema de «alfombra mágica» que prevé el firme por delante.
+La batería es una **CATL LFP de 47,14 kWh**: **305 km eléctricos en ciclo CLTC** (≈247 km WLTP) y más de **1.770 km de autonomía combinada**. La suspensión está a otro nivel: **hidráulica activa** con amortiguación CCD y sistema de "alfombra mágica" que anticipa el terreno.
 
 <img src=/media/battleship-700-vadeo-agua.webp alt=Todoterreno chino vadeando un río profundo con el agua salpicando alrededor de la carrocería>
 
-## Un todoterreno auténtico, no un SUV con disfraz
+## Un 4x4 de verdad, no un SUV disfrazado
 
-Sin truco: el Battleship 700 emplea un chasis de largueros integrado, bloqueo del diferencial trasero y una suspensión de largo recorrido. Las medidas impresionan:
+Aquí no hay truco: el Battleship 700 usa un **chasis de largueros** integrado, **bloqueo de diferencial trasero** y suspensión de largo recorrido. Sus cotas asustan:
 
-- **5.085 mm** de longitud, 1.999 mm de anchura y 2.900 mm entre ejes
-- Ángulos de 30° de entrada y 31° de salida, con 233 mm de altura libre
-- Capacidad de vadeo de 800 mm, además de un modo de flotación de emergencia que le permite navegar
-- 17 modos de conducción, entre ellos el Crab Walk (marcha de cangrejo) y el Waltz Turn, que permite un giro sobre sí mismo con un radio de tan solo 3,36 metros
+- **5.085 mm** de largo, 1.999 mm de ancho y 2.900 mm de batalla
+- Ángulos de **30° de ataque y 31° de salida**, 233 mm de altura libre
+- **Vadeo de 800 mm**... y **modo de flotación de emergencia**: puede navegar
+- **17 modos de conducción**, incluidos **Crab Walk** (marcha de cangrejo) y **Waltz Turn**, que lo hace girar sobre sí mismo con un radio de solo 3,36 metros
 
-La estética responde al lenguaje Oriental Lion de la marca: faros Sky Eye, tira LED que recorre todo el ancho y logotipo iluminado. El habitáculo parece un salón rodante: 5 pantallas interactivas, la central de 15,4 pulgadas, asientos delanteros con función de masaje de 14 puntos y una nevera de 18,5 litros y doble puerta, más un equipo de sonido Flyme con 23 altavoces. El maletero, por su parte, cubica 1.050 litros.
+El diseño sigue el lenguaje **"Oriental Lion"** de Geely: ópticas "Sky Eye", tira LED de ancho completo y logo iluminado. Y por dentro es un salón rodante: **5 pantallas interactivas**, central de 15,4", **asientos delanteros con masaje de 14 puntos**, nevera de 18,5 litros con doble puerta y equipo de sonido Flyme de 23 altavoces. El maletero cubica **1.050 litros**.
 
-## Solkuno lo llevó al límite en Shangrao
+## Lo probó Solkuno en Shangrao (vídeo)
 
-El creador Solkuno pudo exprimir el Battleship 700 en las instalaciones de pruebas de Geely en Shangrao: trepó pendientes del 45 %, superó tramos donde la articulación deja ruedas en el aire, lo puso a navegar y llegó a 220 km/h en el óvalo peraltado.
+El creador **Solkuno** tuvo la oportunidad de llevar el Battleship 700 al límite en el centro de pruebas de Geely en Shangrao: subió pendientes de 45°, cruzó zonas de articulación con ruedas en el aire, lo hizo **navegar por el agua** y alcanzó los **220 km/h** en el óvalo peraltado.
 
-Quien quiera verlo en acción tiene esta prueba completa de <a href=https://www.youtube.com/watch?v=yW7MF3kKo2Q>Solkuno en YouTube</a>: vadeo navegando, inclinaciones extremas, cabina con 5 pantallas y modo flotación, narrado en español.
+Para verlo en acción, esta prueba completa de <a href=https://www.youtube.com/watch?v=yW7MF3kKo2Q>Solkuno en YouTube</a> lo exprime de verdad: vadeo con navegación, inclinaciones imposibles, el interior con 5 pantallas y el modo flotación, todo en español.
 
 ## ¿Llegará a Europa?
 
-Por ahora no existe ningún plan confirmado. Se trata de un producto concebido para China, donde rivalizará con Fang Cheng Bao, de BYD, y con los Tank de GWM. En Europa, Geely apuesta por sus firmas occidentales (Volvo, Polestar, Lotus, smart, Zeekr), tal como explicamos con el <a href=/blog/geely-galaxy-tt-berlina-electrica-china/>Geely Galaxy TT</a>. Visto el éxito de la preventa, tampoco sorprendería verlo más adelante en mercados de exportación.
+**De momento, no hay plan confirmado.** El Battleship 700 es un producto pensado para China, donde competirá con el **Fang Cheng Bao de BYD** y los **Tank de GWM**. La estrategia europea de Geely pasa por sus marcas occidentales (Volvo, Polestar, Lotus, smart, Zeekr), como ya contamos con el <a href=/blog/geely-galaxy-tt-berlina-electrica-china/>Geely Galaxy TT</a>. Pero con este éxito de preventa, no sería raro verlo en mercados de exportación más adelante.
 
-Aquí tienes su <a href=/coches/geely-galaxy-battleship-700-2026-precio-ficha-tecnica/>ficha técnica completa</a>; y si te atraen los todoterreno chinos de imagen aventurera, echa un ojo a <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5/>Fangchengbao, la marca secreta de BYD</a>.
+Su <a href=/coches/geely-galaxy-battleship-700-2026-precio-ficha-tecnica/>ficha técnica completa está aquí</a>, y si te van los 4x4 chinos con estética aventurera, no te pierdas <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5/>Fangchengbao, la marca secreta de BYD</a>.
 
-## Dudas frecuentes
+## Preguntas frecuentes
 
-### ¿Qué es exactamente el Battleship 700?
-Se trata del primer todoterreno de Galaxy, la marca de Geely (Zhanjian 700 en China): híbrido enchufable con 3 motores y chasis de largueros, a la venta en China desde el 10 de octubre de 2026.
+### ¿Qué es el Geely Galaxy Battleship 700?
+El primer todoterreno de la marca Galaxy de Geely (Zhanjian 700 en China): un híbrido enchufable de 3 motores y chasis de largueros que sale a la venta en China el 10 de octubre de 2026.
 
-### ¿Qué potencia entrega el Battleship 700?
-La variante tope, 2.0T trimotor, rinde 1.113 CV (830 kW) y tarda 3,95 segundos en pasar de 0 a 100 km/h.
+### ¿Cuántos caballos tiene el Battleship 700?
+**1.113 CV (830 kW)** en la versión tope 2.0T trimotor, con un 0-100 km/h en 3,95 segundos.
 
-### ¿Qué precio tiene en preventa el Battleship 700?
-La preventa china arranca en 199.800 yuanes y llega a 389.800 (unos 26.500–51.800 euros al cambio). Son importes de preventa; el PVP definitivo puede cambiar.
+### ¿Cuánto cuesta el Battleship 700?
+En preventa china, de **199.800 a 389.800 yuanes** (unos 26.500–51.800 € al cambio). Son precios de preventa; el PVP final puede variar.
 
-### ¿De verdad puede flotar el Battleship 700?
-Dispone de modo de flotación de emergencia, aparte del vadeo habitual de 800 mm. Solkuno lo puso a navegar en las instalaciones de pruebas de Geely en Shangrao.
+### ¿El Battleship 700 flota en el agua?
+Tiene **modo de flotación de emergencia** además de un vadeo convencional de 800 mm. Solkuno lo probó navegando en el centro de pruebas de Geely en Shangrao.
 
-### ¿Cuánta autonomía eléctrica homologa?
-Homologa 305 kilómetros eléctricos en ciclo CLTC (unos 247 kilómetros WLTP) gracias a un acumulador CATL LFP de 47,14 kWh; la autonomía combinada rebasa los 1.770 kilómetros CLTC.
+### ¿Qué autonomía eléctrica tiene?
+**305 km en ciclo CLTC** (≈247 km WLTP) con su batería CATL LFP de 47,14 kWh; la combinada supera los 1.770 km CLTC.
 
-### ¿Se venderá en España el Battleship 700?
-No hay plan confirmado: por ahora solo se comercializa en China y Geely no ha comunicado ninguna exportación a Europa.
+### ¿El Battleship 700 llegará a España?
+**Sin plan confirmado.** Solo se vende en China y Geely no ha anunciado su exportación a Europa.
 
 Fuentes: <a href=https://carnewschina.com/2026/09/29/geelys-1113-hp-off-roader-battleship-700-to-launch-october-10/>CarNewsChina</a>, <a href=https://cnevpost.com/2026/09/15/geely-galaxy-cruiser-700-pre-sales/>CnEVPost</a>, <a href=https://carnewschina.com/2026/09/16/geelys-first-off-road-suv-galaxy-zhanjian-700-with-1113-hp-hits-43900-pre-orders-in-one-hour/>CarNewsChina</a>, <a href=https://www.youtube.com/watch?v=yW7MF3kKo2Q>Solkuno en YouTube</a>.
 
-Si recibiste una sanción y sospechas que adolece de algún vicio, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> sin abonar nada todavía.`
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
   },
   {
     title: "Evoke Nrgy: moto eléctrica 120 km/h",

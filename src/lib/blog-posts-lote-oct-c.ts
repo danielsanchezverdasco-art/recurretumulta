@@ -45,9 +45,9 @@ export const LOTE_OCT_C_POSTS: BlogPost[] = [
 ## Curiosidades que quizá no sabías\n\n- **La L es de Luxury**, no de Long: XPeng insiste en que no es un G9 alargado, sino un modelo de categoría superior.\n- **Se ha probado en 26 países** durante tres años, con más de 6,7 millones de kilómetros acumulados: nació pensado para ser global.\n- **El chip Turing también mueve un robot humanoide**: la IA del coche comparte hardware con el robot IRON de XPeng.\n- **33 altavoces** superan a los equipos de audio de berlinas de lujo establecidas.\n\n## Rivales del XPeng G9L\n\n| Modelo | Enfoque |\n|---|---|\n| BMW iX / X5 | El rival a batir en premium |\n| Mercedes EQS SUV | Lujo eléctrico alemán |\n| NIO EL7 | El otro chino premium |\n| Tesla Model X | La referencia americana |\n\n## Por qué París importa\n\nEl Mondial de l'Auto se ha convertido en el escenario favorito de las marcas chinas para su desembarco europeo: es la feria del automóvil más antigua del mundo y el escaparate donde se mide la ambición real. XPeng no presenta el G9L en Shanghái ni en Pekín, sino en París, y además anuncia producción en Austria. El mensaje es doble: producto global y compromiso industrial con Europa. En los últimos años hemos visto la misma jugada con BYD, MG o Chery, y la historia dice que quien invierte en presentarse así no viene de paso.\n\n## Míralo en vídeo\n\n<iframe src=https://www.youtube.com/embed/kfrtXoXgZAQ title="Vídeo: XPeng G9L, presentación mundial en China" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>\n\nVídeo: <a href=https://www.youtube.com/watch?v=kfrtXoXgZAQ>XPeng</a> en YouTube\n\nSi te interesa el asalto chino al premium europeo, lee nuestro especial sobre <a href=/blog/lujo-chino-coches-2026-yangwang-denza-hongqi-maextro/>el lujo chino en Europa</a> y el análisis del <a href=/blog/denza-z-superdeportivo-electrico-2026/>Denza Z</a>, el superdeportivo de 1.604 CV de BYD.\n\n## Preguntas frecuentes\n\n**¿Cuándo se presenta el XPeng G9L en Europa?**\nEl debut mundial será el 12 de octubre de 2026 en el Salón del Automóvil de París (Mondial de l'Auto, del 14 al 20 de octubre).\n\n**¿Cuánto costará en España?**\nAún no hay precio europeo: se anunciará en París. En China parte de unos 31.400 € al cambio, pero en Europa será sensiblemente más caro por aranceles y logística.\n\n**¿Qué autonomía tiene?**\nHasta 755 km en ciclo chino CLTC (versión Dual Motor con batería NMC de 110 kWh). En WLTP europeo espera entre 600 y 640 km.\n\n**¿Cuánto tarda en cargar?**\nCon su arquitectura de 800 V recupera 450 km de autonomía en 9 minutos en un cargador ultrarrápido compatible.\n\n**¿Dónde se fabricará para Europa?**\nEn Graz, Austria, en la planta de Magna Steyr, donde XPeng ya ensambla otros modelos para el mercado europeo.\n\n**¿Qué significa la L de G9L?**\nLuxury: es un modelo de posicionamiento superior al G9, no simplemente una versión alargada.\n\n---\n\nSi te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.\n\n**Fuentes:** <a href=https://www.hibridosyelectricos.com/coches/xpeng-presentara-su-propio-bmw-x5-en-europa-mide-512-metros-1152-litros-maletero-1602-km-autonomia_89376_102.html>Híbridos y Eléctricos</a>, <a href=https://autosdeprimera.com/autos-de-primera/en-el-mundo/xpeng-g9l-nuevo-suv/>Autos de Primera</a>, <a href=https://forococheselectricos.com/noticias/xpeng-g9l-suv-electrico-lujo-seis-plazas-europa-20260810-41783.html>ForoCochesEléctricos</a>. *Imagen editorial generada por IA.*`
   },
   {
-    title: "Denza Z: 1.604 CV, carga en 9 minutos y récord en mente",
+    title: "Denza Z: 1.604 CV",
     slug: "denza-z-superdeportivo-electrico-2026",
-    excerpt: "BYD presenta el Denza Z, su superdeportivo eléctrico: 1.604 CV con tres motores, un Racing por debajo de 2 s en el 0-100 y recarga casi completa en 9 min.",
+    excerpt: "El Denza Z responde al Porsche 911: 1.604 CV, tres motores, 0-100 en 1,96 s y carga del 10 al 97% en 9 minutos. Llega a Europa antes de fin de 2026.",
     category: "Novedades Motor",
     date: "2026-10-03",
     readTime: 8,
@@ -60,88 +60,8 @@ export const LOTE_OCT_C_POSTS: BlogPost[] = [
       "BYD Denza Europa",
       "Denza Z vs Porsche 911"
     ],
-    content: `<img src=/media/denza-z-superdeportivo-electrico-2026-hero.webp alt="Superdeportivo eléctrico rojo con alerón trasero en un circuito al amanecer">
-
-BYD ha puesto a su división premium, Denza, a competir de frente con los superdeportivos europeos. El Z, desvelado en Goodwood, es un eléctrico puro con 1.604 CV repartidos entre tres motores y una variante Racing que anuncia menos de 2 segundos en el 0-100. Además, Denza prepara una Special Edition orientada a buscar un tiempo de referencia en el Nürburgring Nordschleife. El objetivo declarado apunta al Porsche 911 y a Ferrari.
-
-## La noticia
-
-La gama se articula en Coupé, Spider y Racing, a las que se suma una Special Edition de circuito por encima de los 2.000 CV. Todas usan la plataforma e³ Sports Car Platform, desarrollada para altas prestaciones: un motor mueve el eje delantero y otros dos, independientes, mueven el trasero y alcanzan 30.000 rpm.
-
-Denza confirma que el Z se venderá en varios países europeos dentro de 2026. En Reino Unido ya se conoce la tarifa: el Coupé arranca en 142.900 libras, alrededor de 168.000 € al cambio, una pista sólida sobre su posicionamiento en el continente.
-
-## La recarga más rápida del mundo
-
-El registro más sorprendente del Z no está en la potencia, sino en la recarga: el Flash Charging de BYD admite hasta 1.500 kW, es decir, 1,5 megavatios, con un cargador dedicado. Con esa infraestructura, la batería recupera del 10 al 70 % en 5 minutos; la carga casi completa, del 10 al 97 %, exige 9 minutos. El matiz decisivo: esas cifras piden puntos Flash Charging aún inexistentes en Europa, así que, de momento, en Europa se comportará como un eléctrico veloz más.
-
-## Nürburgring en el objetivo
-
-La Special Edition, por encima de 2.000 CV, persigue un solo hito: fijar un tiempo de referencia en el Nordschleife. BYD ya conoce ese trazado: el Yangwang U9 firmó registros en Papenburg y también en Nürburgring, circuito donde el Z afina su puesta a punto. El rival señalado es el Porsche 911.
-
-<img src=/media/denza-z-superdeportivo-electrico-2026-galeria-3.webp alt="Denza Z en tres cuartos trasero mostrando su firma lumínica, imagen editorial">
-
-## Tecnología de competición
-
-Delante, suspensión de doble triángulo; detrás, multibrazo, con amortiguadores magnetorreológicos DiSus-M. El Vehicle Motion Control reparte órdenes entre motores, frenos, suspensión y dirección, y añade control ante un reventón de neumático a alta velocidad. Dentro, el cuadro digital mide 8,88 pulgadas. La pantalla central, de 12,8, integra Google Maps, Assistant y Play Store. El sonido corre a cargo de Devialet, con hasta 12 altavoces, y el coche ofrece programas para circuito, derrape y arranque controlado.
-
-¿Lo quieres ya? <a href=/comparador-coches/>Mientras tanto, compara eléctricos que sí están a la venta en nuestro comparador</a>.
-
-<img src=/media/denza-z-superdeportivo-electrico-2026-interior-oficial.webp alt="Interior oficial del denza z superdeportivo electrico 2026">
-
-## Curiosidades que quizá desconocías
-
-- **Wolfgang Egger firma el diseño**: antes dibujó Alfa Romeo, Audi y Lamborghini, y desde 2017 dirige el diseño de BYD.
-- **A distancia, su silueta recuerda a un Lamborghini**: proporciones cercanas al Lotus Emira, hombros anchos y postura baja.
-- **El Racing monta semislicks de serie**, decisivos para anunciar menos de 2 segundos en el 0-100.
-- **Carga en frío extremo**: con -30 ºC, el fabricante anuncia una recuperación del 20 al 97 % en torno a 12 minutos.
-
-## Rivales del Denza Z
-
-| Modelo | Potencia |
-|---|---|
-| Denza Z Racing | 1.604 CV |
-| Porsche 911 Turbo S | 650 CV |
-| Ferrari 296 GTB | 830 CV |
-| Yangwang U9 | 1.287 CV |
-
-*En potencia bruta, el Z queda en otro escalón; el duelo decisivo se disputará sobre el asfalto.*
-
-## Denza: de sociedad con Mercedes a punta de lanza de BYD
-
-La marca nació en 2010 como empresa conjunta de BYD y Mercedes-Benz para desarrollar eléctricos premium destinados a China. Con el tiempo, BYD asumió el control total y la transformó en su división de tecnología y lujo: después del Z9GT y del Fang Cheng Bao bajo su paraguas ampliado, el Z ejerce de buque insignia deportivo. Que Wolfgang Egger —procedente de Alfa Romeo, Audi y Lamborghini— lidere el diseño explica la impronta italiana de un coche con corazón totalmente chino.
-
-## El Z en vídeo
-
-<iframe src=https://www.youtube.com/embed/jnLiulYXPfE title="Vídeo: Denza Z en Goodwood, lo hemos conducido" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
-
-Vídeo: <a href=https://www.youtube.com/watch?v=jnLiulYXPfE>carwow.es</a> en su canal de YouTube
-
-Más sobre la ofensiva china en el segmento premium: <a href=/blog/lujo-chino-coches-2026-yangwang-denza-hongqi-maextro/>las cuatro marcas chinas de lujo que quieren plantar cara a las alemanas</a> y el <a href=/blog/xpeng-g9l-debut-paris-2026/>XPeng G9L</a> del Salón de París.
-
-## Preguntas y respuestas
-
-**¿Cuántos caballos tiene el Denza Z?**
-Las versiones de calle anuncian 1.604 CV y 1.240 Nm gracias a sus tres motores eléctricos; la versión de circuito, la Special Edition, rebasará los 2.000 CV.
-
-**¿Cuánto tarda de 0 a 100?**
-El Coupé declara 2,25 segundos; el Racing, calzado con semislicks, anuncia 1,96 segundos.
-
-**¿Cuándo llegará a Europa?**
-Denza confirma varios mercados europeos dentro de 2026. Para España todavía no hay precio oficial.
-
-**¿Cuánto cuesta?**
-En Reino Unido, el Coupé arranca en 142.900 libras —alrededor de 168.000 € al cambio—, una referencia útil sobre su posicionamiento. España sigue sin tarifa oficial.
-
-**¿Qué autonomía tiene?**
-El Coupé homologa 410 km WLTP; el Spider, 400; el Racing, 380. Los tres montan una Blade de segunda generación con 76 kWh.
-
-**¿Carga de verdad en 9 minutos?**
-Sí: 9 minutos bastan para pasar del 10 al 97 % con Flash Charging de 1.500 kW, siempre con estaciones específicas todavía ausentes de Europa.
-
----
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-
-**Fuentes:** <a href=https://elperiodicodelaenergia.com/denza-amplia-su-ofensiva-europea-con-los-nuevos-bao-5-y-z-presentados-en-goodwood/>El Periódico de la Energía</a>, <a href=https://www.somoselectricos.com/coches-electricos/byd-presenta-denza-z-1604-cv-tres-motores-carga-ultrarrapida/20260709145920058073.html>Somos Eléctricos</a>, <a href=https://www.elcircuito.es/articulo/marcas-fabricantes/denza-z-superdeportivo-electrico-1604-cv-que-carga-casi-completo-nueve-minutos/20260714093823008687.html>El Circuito</a>. *Imagen editorial generada por IA.*`
+    content: `<img src=/media/denza-z-superdeportivo-electrico-2026-hero.webp alt=\"Superdeportivo eléctrico rojo con alerón trasero en un circuito al amanecer\">\n\nHay declaraciones de intenciones y luego está el **Denza Z**. La marca premium tecnológica de **BYD** presentó en el Festival de la Velocidad de Goodwood un superdeportivo 100 % eléctrico con **1.604 CV, tres motores y una versión Racing que baja de los 2 segundos en el 0-100**. Y no viene solo a acelerar en línea recta: hay una Special Edition preparada para intentar un récord en el **Nürburgring Nordschleife**. El mensaje a Porsche y Ferrari no puede ser más claro.\n\n## La noticia\n\nEl Denza Z llega en **tres carrocerías —Coupé, Spider y Racing—** más una Special Edition de circuito que superará los **2.000 CV**. Todas comparten la plataforma **e³ Sports Car Platform**, específica para altas prestaciones, con un motor en el eje delantero y dos independientes en el trasero que giran hasta 30.000 rpm.\n\nDenza ha confirmado que el Z **llegará a varios mercados europeos antes de que finalice 2026**. En Reino Unido ya hay precios: el Coupé parte de **142.900 libras** (unos 168.000 € al cambio), una referencia de dónde se moverá en el continente.\n\n## La carga más rápida del mundo\n\nEl dato más loco del Z no es la potencia, sino la recarga: el sistema **Flash Charging** de BYD entrega hasta **1.500 kW** —1,5 megavatios— con un cargador específico. Así, la batería pasa del **10 al 70 % en 5 minutos** y del **10 al 97 % en 9 minutos**. Hay un matiz importante: esas cifras exigen estaciones Flash Charging que hoy no existen en Europa, así que en la práctica inicial cargará como un eléctrico rápido convencional.\n\n## Nürburgring en el punto de mira\n\nLa **Special Edition**, con más de 2.000 CV, tiene un único objetivo: establecer un registro de referencia en el Nordschleife. No es la primera vez que BYD juega en casa de los alemanes: ya logró récords con el Yangwang U9 en Papenburg y en el propio Nürburgring, donde el Z está ultimando su puesta a punto. El rival declarado es el **Porsche 911**.\n\n<img src=/media/denza-z-superdeportivo-electrico-2026-galeria-3.webp alt=\"Denza Z en tres cuartos trasero mostrando su firma lumínica, imagen editorial\">\n\n## Tecnología de competición\n\nSuspensión delantera de doble triángulo, multibrazo detrás y amortiguadores magnetorreológicos **DiSus-M**. El sistema **Vehicle Motion Control** coordina motores, frenos, suspensión y dirección, e incluye control para reventón de neumático a alta velocidad. En el interior: cuadro digital de 8,88 pulgadas, pantalla de 12,8 con Google Maps, Assistant y Play Store integrados, sonido Devialet de hasta 12 altavoces y modos de pista, drift y control de salida.\n\n¿Sueñas con uno? <a href=/comparador-coches/>Mientras tanto, compara eléctricos que sí puedes comprar en nuestro comparador</a>.\n\n
+<img src=/media/denza-z-superdeportivo-electrico-2026-interior-oficial.webp alt=\"Interior oficial del denza z superdeportivo electrico 2026\">
+## Curiosidades que quizá no sabías\n\n- **Lo diseñó Wolfgang Egger**, el hombre que dibujó Alfa Romeos, Audis y Lamborghinis antes de liderar el diseño de BYD desde 2017.\n- **De lejos parece un Lamborghini**: las proporciones recuerdan al Lotus Emira, con hombros anchos y postura baja.\n- **El Racing calza semislicks** de serie para bajar de los 2 segundos en el 0-100.\n- **Carga a -30 ºC**: incluso con 30 grados bajo cero recupera del 20 al 97 % en unos 12 minutos, según el fabricante.\n\n## Rivales del Denza Z\n\n| Modelo | Potencia |\n|---|---|\n| Denza Z Racing | 1.604 CV |\n| Porsche 911 Turbo S | 650 CV |\n| Ferrari 296 GTB | 830 CV |\n| Yangwang U9 | 1.287 CV |\n\n*El Z juega en otra liga de potencia bruta; la batalla real será en circuito.*\n\n## Denza: de joint venture con Mercedes a arma de BYD\n\nDenza nació en 2010 como una empresa conjunta entre BYD y Mercedes-Benz, pensada para desarrollar eléctricos premium para China. Con los años, BYD fue tomando el control hasta quedarse con la totalidad de la marca, y la convirtió en su división de tecnología y lujo: primero con el Z9GT, luego con el Fang Cheng Bao bajo su paraguas ampliado, y ahora con el Z como buque insignia deportivo. Que el diseñador jefe sea Wolfgang Egger —ex de Alfa Romeo, Audi y Lamborghini— explica por qué el Z parece esculpido en Italia aunque su corazón sea 100 % chino.\n\n## Míralo en vídeo\n\n<iframe src=https://www.youtube.com/embed/jnLiulYXPfE title="Vídeo: Denza Z en Goodwood, lo hemos conducido" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>\n\nVídeo: <a href=https://www.youtube.com/watch?v=jnLiulYXPfE>carwow.es</a> en YouTube\n\nMás sobre el asalto chino al segmento premium: <a href=/blog/lujo-chino-coches-2026-yangwang-denza-hongqi-maextro/>las cuatro marcas de lujo chinas que quieren hacer temblar a los alemanes</a> y el <a href=/blog/xpeng-g9l-debut-paris-2026/>XPeng G9L</a> que debuta en el Salón de París.\n\n## Preguntas frecuentes\n\n**¿Cuántos caballos tiene el Denza Z?**\n1.604 CV y 1.240 Nm en las versiones de calle, con tres motores eléctricos. La Special Edition de circuito superará los 2.000 CV.\n\n**¿Cuánto acelera de 0 a 100?**\nEl Coupé anuncia 2,25 segundos y el Racing, con neumáticos semislick, baja a 1,96 segundos.\n\n**¿Cuándo llega a Europa?**\nDenza ha confirmado su llegada a varios mercados europeos antes de que finalice 2026. El precio en España aún no se ha anunciado.\n\n**¿Cuánto cuesta?**\nEn Reino Unido el Coupé parte de 142.900 libras (unos 168.000 € al cambio), lo que da una idea de su posicionamiento. Sin precio oficial para España todavía.\n\n**¿Qué autonomía tiene?**\n410 km WLTP el Coupé, 400 el Spider y 380 el Racing, con batería Blade de segunda generación de 76 kWh.\n\n**¿De verdad carga en 9 minutos?**\nDel 10 al 97 % en 9 minutos con el sistema Flash Charging de 1.500 kW, pero requiere estaciones específicas que aún no existen en Europa.\n\n---\n\nSi te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.\n\n**Fuentes:** <a href=https://elperiodicodelaenergia.com/denza-amplia-su-ofensiva-europea-con-los-nuevos-bao-5-y-z-presentados-en-goodwood/>El Periódico de la Energía</a>, <a href=https://www.somoselectricos.com/coches-electricos/byd-presenta-denza-z-1604-cv-tres-motores-carga-ultrarrapida/20260709145920058073.html>Somos Eléctricos</a>, <a href=https://www.elcircuito.es/articulo/marcas-fabricantes/denza-z-superdeportivo-electrico-1604-cv-que-carga-casi-completo-nueve-minutos/20260714093823008687.html>El Circuito</a>. *Imagen editorial generada por IA.*`
   },
 ];
