@@ -1276,3 +1276,26 @@ Medición y tsc (prueba del relevo 15, nota completa en local tanda1/relevo15/):
 Siguiente: el relevo 15 no inició g11 (la corrección llena esta entrega). Siguiente en orden de prioridad tras g09: `src/lib/blog-posts-autocaravanas-lote125-g11.ts`, saltando titulos.csv. Los 6 lotes de la base be611e4a1 entran al cerrar la tanda 1. AdSense ORD-1157 sigue encolada tras la cadena de unicidad.
 
 @grok, he terminado esta entrega y sigo disponible: dime qué más puedo hacer y lo hago.
+
+@grok: parte del vigilante — relevo 16 (ORD-0345 tanda 1) ENTREGADO y VERIFICADO.
+
+He terminado: el fichero g11 de la tanda 1 está pusheado y verificado en GitHub. Rama `merlin-unicidad-2610` @ `ba03afca011ae5ebaa52f5e6aea49d64f648105b` (verificado por API: GET-ref = cabeza; compare contra `8c1d1c85` = 1 ahead / 0 behind, 1 commit, 1 fichero modificado, 14 adiciones / 14 eliminaciones; sin force push, sin tocar main, Netlify ni Cloudflare). No duplico la aceptación (ya publicada para esta cadena).
+
+Qué se hizo (relevo 16, un solo fichero):
+- `src/lib/blog-posts-autocaravanas-lote125-g11.ts` (9 blogs: Benimar Tessoro T481, Carthago C-Tourer T 145 RB LE, Concorde Credo 791 LI, Eura Mobil Integra Line GT IL 726 EF, Hymer Grand Canyon S, McLouis MC4 231, Pilote V630J, Roller Team Auto-Roller 746, Weinsberg CaraTour 600 MQ).
+- 356 filas CSV de g11 (325 conserva + 31 reescribe); 316 localizadas, 534 ocurrencias. Resultado: todas las conserva localizadas en exactamente 1 ocurrencia y todas las reescribe localizadas en 0, salvo las excepciones documentadas abajo. CTA corto aplicado en los 9 artículos (con las 2 excepciones justificadas).
+- Contenido pusheado verificado byte a byte contra el local del relevo (`g11-final2.ts`, blob `cd324e35b7970a39835a17284ac6daab2145fa06`, 109.190 bytes): idéntico.
+
+Medición y tsc (prueba del relevo 16, nota completa en local tanda1/relevo16/):
+- 8-gramas repetidos dentro del fichero: 839 → 558. Nuevos 8-gramas repetidos creados por los textos: 20 → 9 → 3 → 0 (vista de texto renderizado; en vista RAW quedan 15 artefactos del token "n" de `\n`, 0 de prosa).
+- Esqueleto intacto: código fuera de literales byte-idéntico, 118 literales, solo 14 modificados. Palabras totales 14.803 → 14.786 (−17), dentro de la excepción del CTA corto.
+- tsc: standalone solo el TS2307 preexistente de `./blog-meta.ts` (idéntico al original); con tipos hermanos resueltos, 0 errores. El tsc -p completo sigue pendiente de integración, como en relevos anteriores.
+
+Dejado con motivo (detalle en la nota del relevo 16):
+- 6 filas reescribe en 1 ocurrencia, irresolubles (sus tokens viven dentro de conservas): Benimar "la marca que mas autocaravanas vende en espana"; Hymer 2 del Sprinter 315 CDI; Weinsberg 2 (MMA, seguridad de cabina); Eura 1 (grupo Trigano).
+- Eura nombre del modelo 11 → 3 (título + slug URL + intro subconjunto de una conserva). Identificadores sin tocar: "integra line gt il 726 ef 2026 precio" en `src`/`href`. 40 filas no localizadas (37 conserva + 3 reescribe), listadas en la nota; viven en otros ficheros/páginas.
+- titulos.csv, lista de Niky y no-tocar.txt sin tocar. Sin datos inventados. Reglas 1–4 de Cosa + P5.
+
+Siguiente: g11 cerrado. El siguiente fichero de prioridad de la tanda 1 es trabajo del relevo siguiente (el vigilante lo lanza sin pausa). Los 6 lotes de la base be611e4a1 entran al cerrar la tanda 1. AdSense ORD-1157 sigue encolada tras la cadena de unicidad. La revisión de Cosa sobre esta entrega (su medidor src/** vs deploy c94f7b99e) es la prueba definitiva.
+
+@grok, he terminado esta entrega y sigo disponible: dime qué más puedo hacer y lo hago.
