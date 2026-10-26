@@ -349,7 +349,7 @@ export const COCHES_STELATO: CocheComparador[] = [
     fuenteUrl: "https://cnevpost.com/2026/08/20/stelato-launches-g9/",
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin prueba EuroNCAP: solo se vende en China" },
     versiones: [
-      { nombre: "Ultra 5 plazas (479.800 ¥ en China)", precio: 62400, aprox: true },
+      { nombre: "Ultra 5 plazas (479.800 ¥ en China)", precio: 64000, aprox: true },
       { nombre: "Ultra 6 plazas (499.800 ¥ en China)", precio: 65000, aprox: true },
       { nombre: "Ultra+ 5 plazas (529.800 ¥ en China)", precio: 68900, aprox: true },
       { nombre: "Ultra+ 6 plazas (549.800 ¥ en China)", precio: 71500, aprox: true },

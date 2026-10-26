@@ -9578,7 +9578,7 @@
       {"fecha": "2026-10-14", "precio": 14990, "moneda": "EUR", "fuente": "ficha"}
     ],
     "stelato-g9-2026-precio-ficha-tecnica": [
-      {"fecha": "2026-10-14", "precio": 62400, "moneda": "EUR", "fuente": "ficha", "aprox": true}
+      {"fecha": "2026-10-14", "precio": 64000, "moneda": "EUR", "fuente": "ficha", "aprox": true}
     ],
     "stelato-g9-erev-2026-precio-ficha-tecnica": [
       {"fecha": "2026-10-14", "precio": 55900, "moneda": "EUR", "fuente": "ficha", "aprox": true}
