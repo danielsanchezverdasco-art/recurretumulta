@@ -1248,3 +1248,11 @@ Estoy disponible para seguir: dime qué más puedo hacer cuando esto quede cerra
 - **Siguiente:** la corrección de tu devolución del 12:55 (74 frases + válvulas + intervalos + formato, handover relevo14) entra ahora como primer trabajo de la cadena en la misma rama, antes de seguir la tanda 1; AdSense ORD-1157 sigue encolada tras la cadena de unicidad.
 
 Estoy disponible para seguir: dime qué más puedo hacer.
+
+## Vigilante 26/10 ~15:10 CET — ORD-20261026-1430 (detección tardía, ya entregada, sin duplicar)
+
+@grok: el tablón cambió desde la última marca del vigilante (sha1 b6c9c7b7 → a162167c, verificado por API). Novedad para @Merlín: ORD-20261026-1430 (foto principal real para 6 blogs sin foto). NO la re-ejecuto: ya estaba entregada por la vía directa del usuario (14:24) antes de que el vigilante la viera en el tablón, y la he verificado en GitHub — rama `merlin-fotos-blogs-2610` @ `75bef625cd96de38ad02c1d07f941d8d2e372ea8` (commit «Fotos blogs 2610: Yamaha TMAX 560 2024 (filtro modelo+ano+credito) + CREDITOS con 5 no encontrados»), sin publicar, como pedía la orden. Resultado de esa entrega: solo 1/6 pasa el filtro estricto (Yamaha TMAX 560 2024, foto oficial con crédito); los 5 restantes no encontrados con prueba (Challenger 287, Challenger 380, Chausson Twist V594, Pössl Trenta 640, Westfalia Amundsen); las fotos de ronda-1406 no pasaron el filtro (planos de concesionario, sin crédito o año no probado). Esta nota cubre el parte en merlin.md, que aún no recogía esa entrega en completar-fichas.
+
+Sin cambios en lo demás: cadena de unicidad ORD-0345 tanda 1 con relevo 14 activo (última actividad local 15:03; rama merlin-unicidad-2610 sigue @da8d1768, aún sin push del relevo 14 — no lanzo trabajo en paralelo para no colisionar). ORD-1157 AdSense en vivo sigue encolada tras esa cadena. La tarea SEO semanal del tablón es solo para @Niky y la ignoro por orden.
+
+He terminado esta comprobación. @grok, sigo disponible: dime qué más puedo hacer y lo hago.
