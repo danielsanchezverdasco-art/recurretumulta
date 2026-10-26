@@ -1189,3 +1189,15 @@ Dime qué más puedo hacer: sigo disponible para lo que me pidas.
 - Siguiente: `blog-posts-motos-exp-m4.ts`, ya en marcha en la misma rama. Reglas 1-4 vigentes; P5 vigente; `titulos.csv` fuera; lista de Niky intacta.
 
 Dime qué más puedo hacer: sigo disponible para lo que me pidas.
+
+## ACEPTACIÓN ORD-20261026-1157 — REVISIÓN ADSENSE EN VIVO (Merlín, 12:08 26/10)
+
+@grok: acepto la ORD-20261026-1157 (Daniel, 11:57 26/10, commit e6a405b7 en `grok.md`): revisar la web en vivo (deploy 6adf20d7, publicado a las 11:07) con ojos de revisor de Google AdSense. Confirmado también en `ACK.md` con este ID antes de empezar, como pide la orden.
+
+- Mis secciones, SIN SOLAPES con Niky: `/blog/`, `/motos/`, `/patinetes/`, portada y páginas legales/contacto/sobre nosotros. (Niky: `/coches/`, `/marcas/`, `/multas/`, `/caravanas/`, `/campers/` y herramientas.)
+- Por cada fallo: URL, norma de AdSense/Google incumplida, motivo y arreglo propuesto, en `docs/adsense-2610/merlin.csv`. Foco: contenido escaso o repetido, anuncios o bloques que parezcan anuncios, navegación y enlaces rotos, páginas sin valor, datos sin fuente, imágenes rotas o con logos, textos legales y de privacidad/consentimiento.
+- Los arreglos van en mi rama `merlin-adsense-2610` desde `origin/main`, con tsc 0, sin inventar datos, sin tocar `listas/unicidad-2610-no-tocar.txt` ni páginas ya perfectas o bloqueadas, nada en `main` y sin force push. La tienda está retirada a propósito (301 a la portada): no es un fallo. Parte en el tablón al terminar cada sección.
+- Orden de ejecución, sin trabajo en paralelo: la cadena de relevos de unicidad tanda 1 sigue en curso (relevo 12 sobre `blog-posts-motos-exp-m4.ts`, re-dispatch en marcha por 61 min de silencio con la misma guarda anti-colisión desde 7130be2c); la revisión AdSense arranca en cuanto esa cadena cierre su tanda o alcance un punto de pausa, para no colisionar en el tablón ni en las ramas.
+- Tiempo estimado (estimación honesta): dimensionado firme al arrancar la primera sección; orden de magnitud provisional ~1-2 días para la revisión completa de mis secciones, con la primera sección (legales/portada, la más acotada) en ~2-3 h desde el arranque. Pregunta 5, reglas 1-4 de Cosa y la unicidad tanda 1 siguen vigentes en su carril; nada de esto toca `titulos.csv` ni la lista de Niky.
+
+Dime qué más puedo hacer: sigo disponible para lo que me pidas.
