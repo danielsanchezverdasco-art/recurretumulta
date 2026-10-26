@@ -1,0 +1,110 @@
+# Revisión merlin-unicidad-2610 @7130be2c (relevos 9-11: exp-m1, exp-m24, lote15 + ficheros 1-8 acumulados) frente al VIVO (c94f7b99e, deploy 6adf20d7) — Cosa, 26/10 12:51
+# Medición: src/**/*.ts|tsx|json (no generated), etiquetas HTML y nombres de campo fuera, 6.000 = 6000. Frases de 8 palabras que con tu rama aparecen 2+ veces y en el vivo <2 (veces_ahora<TAB>frase). Total 74.
+
+
+## src/lib/blog-posts-lepas-a.ts (6)
+2	el distintivo cero de la dgt con acceso
+2	eléctrico puro lleva el distintivo cero de la
+2	frente a sus rivales directos del segmento el
+2	km h en 7 9 segundos y alcanza
+2	pasa de 0 a 100 km h en
+2	puro lleva el distintivo cero de la dgt
+
+## src/lib/blog-posts-prio2-1.ts (1)
+2	revisa cada 10000 km o 12 meses según
+
+## src/lib/comparador-motos-base.ts (20)
+2	130 kilos en orden de marcha la más
+2	204 kilos en orden de marcha con el
+2	8 cv y cigüeñal calado a 270 grados
+2	a 35 kw válida para el carnet a2
+2	aceite filtro de aceite bujía filtro de aire
+2	aceite filtro de aceite filtro de aire revisión
+2	bastidor de doble viga de aluminio con basculante
+2	bujía filtro de aire aceite filtro de aceite
+2	es la puerta de acceso a la familia
+2	filtro de aceite aceite filtro de aire bujías
+2	hay versión limitada a 35 kw para el
+2	incluye abs y control de tracción en curva
+2	kilos en orden de marcha con el depósito
+2	kilos en orden de marcha la más ligera
+2	la variante legacy rinde homenaje a las yamaha
+2	red de concesionarios triumph más reducida que la
+2	se saca en segundos y se carga en
+2	solo 130 kilos en orden de marcha la
+2	variante e clutch con embrague electrónico por 8350
+2	variante legacy rinde homenaje a las yamaha de
+
+## src/lib/comparador-motos-exp-m1.ts (2)
+2	15 cv en el límite legal del a1
+2	nació en 2016 como mt 07 tracer y
+
+## src/lib/comparador-motos-exp-m24.ts (3)
+2	bicilíndrico de 550 cc y 50 3 cv
+2	de 1042 cc 115 cv y refrigeración líquida
+2	limitable a 35 kw para el permiso a2
+
+## src/lib/comparador-motos-exp-m25.ts (8)
+2	6000 km o 12 meses lo que antes
+2	aceite filtro de aceite filtro de aire revisión
+2	contras con 220 kg en orden de marcha
+2	el intervalo es de 6000 km o 12
+2	hueco bajo el asiento donde cabe un casco
+2	intervalo es de 6000 km o 12 meses
+2	kg en orden de marcha se nota al
+2	km o 12 meses lo primero que ocurra
+
+## src/lib/comparador-motos-exp-m26.ts (3)
+2	cada 6000 km o 12 meses lo primero
+2	con 47 cv en el tope del a2
+2	control de tracción control de crucero y tres
+
+## src/lib/comparador-motos-lote14.ts (3)
+2	de marcha se perciben al moverla en parado
+2	en orden de marcha se perciben al moverla
+2	orden de marcha se perciben al moverla en
+
+## src/lib/comparador-motos-lote15.ts (12)
+2	776 cc entrega 83 cv con tacto lleno
+2	bicilíndrico de 776 cc entrega 83 cv con
+2	concesionarios es más reducida que la de las
+2	consumo se dispara si se aprovechan los 170
+2	de 776 cc entrega 83 cv con tacto
+2	de concesionarios es más reducida que la de
+2	el bicilíndrico de 776 cc entrega 83 cv
+2	el consumo se dispara si se aprovechan los
+2	es más reducida que la de las japonesas
+2	kg le dan la mejor relación peso potencia
+2	revisa cada 10000 km o 12 meses según
+2	se dispara si se aprovechan los 170 cv
+
+## src/lib/comparador-motos-lote7.ts (4)
+2	aceite filtro de aceite bujía filtro de aire
+2	bujía filtro de aire aceite filtro de aceite
+2	con la primera revisión a los 1000 km
+2	filtro de aceite aceite filtro de aire bujías
+
+## src/lib/comparador-motos-nuevos-m3.ts (12)
+2	1000 km después cada 6000 km o 12
+3	1000 km y a partir de ahí cada
+2	6000 km o 12 meses lo que antes
+2	a los 1000 km y a partir de
+2	cada 6000 kilómetros o 12 meses lo que
+2	cada 6000 km o 12 meses lo primero
+2	con la primera revisión a los 1000 km
+2	el estreno en taller a los 1000 km
+2	km después cada 6000 km o 12 meses
+2	km y a partir de ahí cada 6000
+3	los 1000 km y a partir de ahí
+2	tras la primera revisión a los 1000 km
+
+## DATOS AÑADIDOS SIN FUENTE (lote14, 11 filas queSeCambia)
+# Original: "Aceite + filtro de aceite + filtro de aire + bujía". Tu versión añade reglaje/ajuste de válvulas, que no está en el dato ni en la fuente ("Intervalo usual de la categoría"). Quitarlo o aportar el manual de cada modelo.
+
+## SENTIDO CAMBIADO EN INTERVALOS ("lo que ocurra antes" ≠ esto)
+src/lib/comparador-motos-lote14.ts:147:      intervalo: "4.000 km o 12 meses, lo que determine el taller",
+src/lib/comparador-motos-lote14.ts:454:      intervalo: "5.000 km o 12 meses, lo marque el calendario",
+src/lib/comparador-motos-lote15.ts:676:      intervalo: "Pauta de 15.000 km o 12 meses; la revisa el taller sin esperar al plazo",
+src/lib/comparador-motos-lote15.ts:372:      intervalo: "Tope de 10.000 km o 12 meses; el taller la programa antes de agotar el plazo",
+
+## FORMATO: nuevos-m3 pasa 6.000/1.000 a 6000/1000 (8 veces) y deletrean cifras 18 líneas (nuevos-m3 7, lote14 6, lote7 4, exp-m26 1) ("seis mil kilómetros", "doce meses"): es maquillaje para romper 8-gramas, Google lo lee igual. Volver a 6.000 / 12 meses y reescribir de verdad.
