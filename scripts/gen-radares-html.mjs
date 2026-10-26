@@ -317,7 +317,7 @@ for (const r of radares) {
       <section aria-label="Vista Street View del entorno del radar">
         <h2>Street View 3D</h2>
         <iframe title="Street View: radar ${esc(r.id_unico)}" src="${svSrc(r)}" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
-        <p><a href="${svExterno(r)}" target="_blank" rel="noopener noreferrer">Abrir la vista 3D en Google Street View</a></p>
+        <p><a href="${svExterno(r)}" target="_blank" rel="noopener noreferrer">Ver en Google Street View</a></p>
       </section>`
           : `<p>La DGT no publica coordenadas para este radar; consulta la señalización de la vía.</p>`
       }

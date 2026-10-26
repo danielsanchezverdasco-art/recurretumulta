@@ -223,7 +223,15 @@ export function NotaCosa({
               <span className="text-base font-bold text-gray-400">/10</span>
             </p>
           </div>
-          <p className="mt-1.5 text-sm text-gray-600">{justificacion ?? resultado.justificacion}</p>
+          {/* 24/10 (unicidad): solo datos (criterios y puntos), sin frase de plantilla */}
+          <p className="mt-1.5 text-sm text-gray-600">
+            {justificacion ?? [...resultado.criterios]
+              .filter((c) => c.peso > 0)
+              .sort((a, b) => b.puntos - a.puntos)
+              .slice(0, 3)
+              .map((c) => `${c.etiqueta} ${c.puntos.toFixed(1).replace(".", ",")}`)
+              .join(" · ")}
+          </p>
           <p className="mt-1 text-xs text-gray-500">
             Nota automática (<a href="/metodologia/" className="underline">método</a>)
           </p>

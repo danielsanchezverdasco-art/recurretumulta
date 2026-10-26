@@ -67,8 +67,7 @@ export default function MapaRadarLazy({
             referrerPolicy="no-referrer-when-downgrade"
           />
           <p className="mt-1.5 text-[11px] text-gray-500">
-            Mapa: ubicación aproximada del radar según las coordenadas oficiales
-            (WGS84): {formatearCoord(latN)}, {formatearCoord(lngN)}.{" "}
+            WGS84: {formatearCoord(latN)}, {formatearCoord(lngN)}.{" "}
             <a
               href={urlStreetViewExterno(latN, lngN)}
               target="_blank"

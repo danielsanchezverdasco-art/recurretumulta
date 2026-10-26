@@ -57,7 +57,7 @@ export function frasesGeo(d: DatosGeo): { frases: string[]; faqPrecio: string | 
   // El historial solo se cita si su último punto coincide con el precio de la ficha.
   const histOk = !!ult && ok(d.precio) && ult.p === d.precio && (ult.m ?? "EUR") === "EUR";
   if (ok(d.precio)) {
-    const verif = histOk ? ` (${d.precioAprox ? "dato registrado" : "precio registrado"} el ${fecha(ult.f)})` : "";
+    const verif = ""; // (24/10 unicidad) la fecha del precio va como dato en la cabecera, no como coletilla
     const del = `${d.articulo === "El" ? "del" : "de la"} ${d.nombre}`;
     if (d.precioOrigen && ok(d.precioOrigen.price) && d.precioOrigen.priceCurrency !== "EUR") {
       const mon = MON[d.precioOrigen.priceCurrency] ?? d.precioOrigen.priceCurrency;
@@ -66,13 +66,13 @@ export function frasesGeo(d: DatosGeo): { frases: string[]; faqPrecio: string | 
       faq = `${sujeto} cuesta ${resto}`;
     } else if (d.precioOrigen?.pais && ok(d.precioOrigen.price)) {
       // 18/10/2026: tarifa oficial publicada solo para otro país (p. ej. Alemania): se cita tal cual.
-      const resto = `desde ${eur(d.precioOrigen.price)} en ${d.precioOrigen.pais} (tarifa oficial de la marca); aún no tiene precio oficial en España.`;
+      const resto = `desde ${eur(d.precioOrigen.price)} en ${d.precioOrigen.pais}.`;
       precioTxt = `Cuesta ${resto}`;
       faq = `${sujeto} cuesta ${resto}`;
     } else if (d.precioAprox) {
-      const resto = `en España es de aprox. ${eur(d.precio)}, una estimación porque la marca aún no lo ha publicado${verif}.`;
-      precioTxt = `Su precio de partida ${resto}`;
-      faq = `El precio de partida ${del} ${resto}`;
+      // (24/10 plantillas) solo el dato: cifra y que es estimación
+      precioTxt = `≈ ${eur(d.precio)} (estimación)${verif}.`;
+      faq = precioTxt;
     } else {
       precioTxt = `Cuesta desde ${eur(d.precio)} en España${verif}.`;
       faq = `${sujeto} cuesta desde ${eur(d.precio)} en España${verif}.`;
@@ -82,12 +82,12 @@ export function frasesGeo(d: DatosGeo): { frases: string[]; faqPrecio: string | 
       const mismas = pts.filter((p) => (p.m ?? "EUR") === "EUR");
       const primero = mismas[0];
       const delta = ult.p - primero.p;
-      const cambio =
-        mismas.length < 2 || delta === 0
-          ? `Su precio no ha cambiado desde que lo seguimos (${fecha(primero.f)}).`
-          : `Su precio ha ${delta < 0 ? "bajado" : "subido"} ${eur(Math.abs(delta))} desde el ${fecha(primero.f)}.`;
-      frases.push(cambio);
-      faq += " " + cambio;
+      // (24/10 unicidad) solo se cita si hay cambio real (dato propio); sin cambio no se dice nada.
+      if (mismas.length >= 2 && delta !== 0) {
+        const cambio = `Su precio ha ${delta < 0 ? "bajado" : "subido"} ${eur(Math.abs(delta))} desde el ${fecha(primero.f)}.`;
+        frases.push(cambio);
+        faq += " " + cambio;
+      }
     }
   }
   return {

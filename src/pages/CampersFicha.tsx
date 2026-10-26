@@ -206,48 +206,39 @@ function Ficha({ auto }: { auto: Autocaravana }) {
       q: `¿Cuánto cuesta la ${nombre}?`,
       a:
         auto.precioDesde == null
-          ? `La ${nombre} aún no tiene precio confirmado para España: lo publicaremos en cuanto la marca lo anuncie.`
-          : `La ${nombre} parte de ${fmtPrecio(auto.precioDesde)}${precioAprox ? " (estimación: la marca aún no ha publicado la tarifa oficial para España)" : ""}. El detalle de versiones está en la tabla de precio y versiones.`,
+          ? null
+          : `La ${nombre} parte de ${fmtPrecio(auto.precioDesde)}${precioAprox ? " (estimación)" : ""}.`,
     },
     {
       q: `¿Qué carnet necesito para conducir la ${nombre}?`,
       a:
         carnet == null
-          ? `Todavía no tenemos un dato fiable del carnet necesario para la ${nombre}: depende de la MMA de la versión concreta que compres. Como referencia, con el carnet B puedes llevar campers de hasta 3.500 kg de MMA.`
-          : `Necesitas el carnet ${carnet}. Ojo: verifica siempre la MMA de la versión concreta que compres, porque el carnet exigible depende de ella.`,
+          ? null
+          : `Carnet ${carnet}.`,
     },
     {
       q: `¿Cuántas personas pueden dormir y viajar en la ${nombre}?`,
       a:
         auto.plazas == null && auto.plazasDormir == null
-          ? `Las plazas homologadas de la ${nombre} no están publicadas por una fuente fiable: las añadiremos en cuanto haya dato oficial.`
-          : `Homologa ${auto.plazas ?? "—"} plazas de viaje${auto.plazasDormir != null ? ` y ${auto.plazasDormir} plazas para dormir` : ", aunque el número de plazas para dormir no está publicado por una fuente fiable"}. Recuerda: durante la marcha solo se puede viajar en las plazas con cinturón homologadas.`,
+          ? null
+          : `Homologa ${auto.plazas ?? "—"} plazas de viaje${auto.plazasDormir != null ? ` y ${auto.plazasDormir} plazas para dormir` : ""}.`,
     },
     {
       q: `¿Cuánto mide la ${nombre}?`,
       a:
         auto.largoMm == null || auto.anchoMm == null || auto.altoMm == null
-          ? `Las dimensiones de la ${nombre} no están publicadas por una fuente fiable: las añadiremos en cuanto haya dato oficial.`
-          : `Mide ${fmtDimensiones(auto)}. Ten en cuenta la altura si vas a entrar en parkings cubiertos o pasar bajo puentes.`,
+          ? null
+          : `Mide ${fmtDimensiones(auto)}.`,
     },
     ...(auto.etiquetaDgt
       ? [
           {
             q: `¿Qué etiqueta DGT lleva la ${nombre}?`,
-            a:
-              auto.etiquetaDgt === "Cero"
-                ? `La ${nombre} tiene etiqueta DGT «Cero» y puede circular por todas las ZBE sin restricciones, incluida la zona de especial protección de Distrito Centro.`
-                : auto.etiquetaDgt === "ECO"
-                  ? `La ${nombre} tiene etiqueta DGT «ECO»: puede circular por la ZBE de Madrid en condiciones normales, aunque en episodios de alta contaminación algunas ciudades restringen a los ECO.`
-                  : `La ${nombre} tiene etiqueta DGT «${auto.etiquetaDgt}»: puede circular por la ZBE de Madrid, pero para entrar en la zona de especial protección de Distrito Centro necesita aparcar en un parking autorizado o encajar en uno de los supuestos de la ordenanza.`,
+            a: `La ${nombre} tiene etiqueta DGT «${auto.etiquetaDgt ?? "sin etiqueta"}».`,
           },
         ]
       : []),
-    {
-      q: `¿Es segura la ${nombre}? ¿Tiene estrellas Euro NCAP?`,
-      a: `Euro NCAP no evalúa campers: el programa europeo de seguridad solo somete a pruebas de choque a turismos y algunos comerciales ligeros, así que no existen valoraciones oficiales de estrellas para este modelo ni para ninguna camper.`,
-    },
-  ];
+  ].filter((f): f is { q: string; a: string } => !!f.a);
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -609,6 +600,7 @@ function Ficha({ auto }: { auto: Autocaravana }) {
           </section>
         )}
 
+        {auto.planMantenimiento && (
         <section
           id="mantenimiento"
           className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
@@ -617,58 +609,14 @@ function Ficha({ auto }: { auto: Autocaravana }) {
           <h2 className="flex items-center gap-2 text-xl font-extrabold text-gray-900">
             <Wrench className="h-5 w-5 text-red-600" /> Mantenimiento
           </h2>
-          <div className="mt-3 space-y-3 text-gray-700">
-            <p>
-              La mecánica sigue los intervalos del fabricante del chasis (la base sobre
-              la que está construida la camper): respeta sus plazos de aceite,
-              filtros y distribución según el manual oficial.
-            </p>
-            <p>
-              La célula habitable necesita su propio mantenimiento anual: revisión de la
-              estanqueidad de juntas, claraboyas y ventanas; estado y edad de los
-              neumáticos (se recomienda sustituirlos a partir de los 6 años aunque
-              conserven dibujo); revisión de la instalación de gas por personal
-              cualificado; y cuidado de la batería auxiliar y del circuito de agua.
-            </p>
-          </div>
           {auto.planMantenimiento && (
             <Suspense fallback={null}>
               <PlanMantenimientoLazy plan={auto.planMantenimiento} nombre={nombre} />
             </Suspense>
           )}
         </section>
+        )}
 
-        <section
-          id="seguridad"
-          className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
-          aria-label={`Seguridad de la ${nombre}`}
-        >
-          <h2 className="flex items-center gap-2 text-xl font-extrabold text-gray-900">
-            <ShieldCheck className="h-5 w-5 text-red-600" /> Seguridad
-          </h2>
-          <div className="mt-3 space-y-3 text-gray-700">
-            <p>
-              <strong className="text-gray-900">Euro NCAP no evalúa campers.</strong>{" "}
-              El programa europeo de seguridad solo somete a pruebas de choque a turismos
-              y algunos comerciales ligeros: no existen valoraciones oficiales de
-              estrellas para este modelo ni para ninguna camper. Cualquier
-              «puntuación de seguridad» que veas publicada para una camper no es
-              oficial.
-            </p>
-            <p>
-              Lo que sí puedes valorar: el equipamiento de seguridad del chasis de origen
-              (airbags, control de estabilidad y asistentes a la conducción que incorpore
-              la base), los cinturones de seguridad en todas las plazas de viaje
-              homologadas y una distribución de la carga que respete la MMA sin
-              sobrecargar el eje trasero.
-            </p>
-            <p>
-              Durante la marcha solo pueden viajar ocupantes en las plazas con cinturón
-              homologadas: las camas y el resto de la zona habitable no son plazas de
-              viaje. Los niños, siempre en su sistema de retención infantil.
-            </p>
-          </div>
-        </section>
 
         {(auto.precioDesde != null || (auto.versiones?.length ?? 0) > 0) && (
           <section id="precio" className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6" aria-label="Precio y versiones">
@@ -687,7 +635,7 @@ function Ficha({ auto }: { auto: Autocaravana }) {
                     {fmtPrecio(auto.precioDesde)}
                   </strong>
                   {auto.aprox.includes("precioDesde") && (
-                    <> (estimación: la marca aún no ha publicado la tarifa oficial para España)</>
+                    <> (estimación)</>
                   )}
                   .
                 </>

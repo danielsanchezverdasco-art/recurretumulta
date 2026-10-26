@@ -163,61 +163,33 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
   const precioAprox = patinete.aprox.includes("precioEur");
   const compararHref = `/comparador-patinetes/?a=${patinete.id}`;
 
-  // 25/10/2026 REWORK (Grok 12:46, puntos 2 y 5): respuestas naturales con el
-  // dato propio del modelo (peso, velocidad, certificado) y la norma completa
-  // en /guias/seguro-vmp/ y /guias/certificado-dgt/. El nombre aparece una
-  // sola vez por respuesta; sin frases cortas repetidas ni rotaciones por hash.
-  function respuestaSeguroVmp(nombre: string, p: PatineteComparador): string {
-    const peso = p.pesoKg != null ? `${p.pesoKg} kg` : null;
-    const vel = p.velocidadMaxKmh != null ? `${p.velocidadMaxKmh} km/h` : null;
-    let perfil: string;
-    if (peso != null && p.pesoKg! < 25) {
-      perfil = `vehículo personal ligero de ${peso}${vel ? ` y ${vel} de velocidad máxima` : ""}`;
-    } else if (peso != null && p.velocidadMaxKmh != null && p.velocidadMaxKmh <= 14) {
-      perfil = `vehículo personal ligero de ${peso} y ${vel} de velocidad máxima`;
-    } else if (peso != null && p.velocidadMaxKmh != null && p.velocidadMaxKmh > 14) {
-      perfil = `VMP de ${peso} y ${vel} de velocidad máxima, fuera de la definición de vehículo personal ligero`;
-    } else {
-      perfil = `vehículo de movilidad personal${peso ? ` de ${peso}` : ""}${vel ? ` y ${vel} de velocidad máxima` : ""}`;
-    }
-    const certificado =
-      p.certificadoDgt === true
-        ? "tiene certificado de circulación verificado, así que reúne el requisito para inscribirse"
-        : "aún no tiene verificado su certificado de circulación: hay que pedirlo al vendedor antes de inscribirlo, porque sin él no se completa el registro; si la unidad es anterior al 22 de enero de 2024 y no tiene certificado, la inscripción temporal solo permite circular hasta el 22 de enero de 2027";
-    return `Sí: el ${nombre} es un ${perfil} y, desde el 2 de enero de 2026, circular con él exige seguro de responsabilidad civil (Ley 5/2025, de 24 de julio). Antes de asegurarlo hay que inscribirlo en el Registro de Vehículos Personales Ligeros de la DGT, operativo desde el 30 de enero de 2026 (Real Decreto 52/2026): sin inscripción no se puede contratar la póliza. Además, ${certificado}. La póliza obligatoria cubre los daños a terceros; el propio patinete y las lesiones del conductor quedan fuera salvo que se contraten coberturas opcionales.`;
-  }
+  // 26/10 (unicidad): respuestas cortas con el dato de la ficha; la norma completa está en
+  // /guias/seguro-vmp/ y /guias/certificado-dgt/ (sin párrafos legales repetidos en 695 fichas).
   function respuestaCertificadoDgt(nombre: string, verificado: boolean): string {
-    if (verificado)
-      return `Sí: el ${nombre} tiene certificado de circulación verificado, el documento que acredita que el modelo cumple el Manual de características de los VMP (Resolución de 12 de enero de 2022 de la DGT), y por tanto puede inscribirse en el Registro de Vehículos Personales Ligeros.`;
-    return `No: del ${nombre} no tenemos verificado su certificado de circulación en una fuente oficial. Antes de comprar, pide el certificado al vendedor: sin él no se completa la inscripción en el Registro de Vehículos Personales Ligeros, y solo las unidades anteriores al 22 de enero de 2024 sin certificado pueden circular con inscripción temporal, hasta el 22 de enero de 2027.`;
+    return verificado
+      ? `Sí: el ${nombre} tiene certificado de circulación verificado.`
+      : `Del ${nombre} no consta certificado verificado: pídelo al vendedor.`;
   }
 
   const FAQS = [
-    {
-      q: `¿Cuánto cuesta el ${nombre}?`,
-      a:
-        patinete.precioEur == null
-          ? `El ${nombre} no tiene precio oficial publicado para España en este momento: aparece como «No publicado» en la ficha. Lo actualizaremos en cuanto la marca lo anuncie.`
-          : `${geo.faqPrecio ?? `El precio oficial del ${nombre} en España es de ${fmtPrecio(patinete.precioEur)}.`}`,
-    },
-    {
-      q: `¿Cuál es la autonomía real del ${nombre}?`,
-      a:
-        patinete.autonomiaRealKm == null
-          ? `No hay una estimación fiable de autonomía real para el ${nombre}: preferimos no inventarla.`
-          : `El fabricante declara ${fmtKm(patinete.autonomiaKm)}, pero en uso real urbano (semáforos, cuestas, peso del conductor) nuestra estimación es de ≈${patinete.autonomiaRealKm} km. La cifra con ≈ es una estimación, no un dato oficial.`,
-    },
+    ...(patinete.precioEur == null
+      ? []
+      : [{ q: `¿Cuánto cuesta el ${nombre}?`, a: geo.faqPrecio ?? `El ${nombre} cuesta ${fmtPrecio(patinete.precioEur)}.` }]),
+    ...(patinete.autonomiaRealKm == null
+      ? []
+      : [
+          {
+            q: `¿Cuál es la autonomía real del ${nombre}?`,
+            a: `Declarada: ${fmtKm(patinete.autonomiaKm)}. Estimada en ciudad: ≈${patinete.autonomiaRealKm} km.`,
+          },
+        ]),
     {
       q: `¿El ${nombre} tiene certificado de la DGT?`,
       a: respuestaCertificadoDgt(nombre, patinete.certificadoDgt === true),
     },
     {
       q: `¿Necesito seguro para el ${nombre}?`,
-      a: respuestaSeguroVmp(nombre, patinete),
-    },
-    {
-      q: `¿Dónde puedo comparar el ${nombre} con otros patinetes?`,
-      a: `En nuestro comparador de patinetes eléctricos, cara a cara con los otros 9 modelos de la base: precio, potencia, autonomía, peso y puntos fuertes y débiles.`,
+      a: `Sí, obligatorio desde 2026 (Ley 5/2025).`,
     },
   ];
 
@@ -558,11 +530,6 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
               })}
             </tbody>
           </table>
-          <p className="mt-3 text-xs text-gray-500">
-            <strong>≈</strong> estimación
-            «No publicado» = el fabricante no publica el dato; «No verificado» = no pudimos
-            confirmarlo en una fuente oficial.
-          </p>
         </section>
 
         <section id="precio" className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6">
@@ -625,9 +592,6 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
             <h2 className="flex items-center gap-2 text-xl font-extrabold text-gray-900">
               <Wrench className="h-5 w-5 text-red-600" /> Mantenimiento en casa
             </h2>
-            <p className="mt-1 text-sm text-gray-600">
-              Guías paso a paso para el mantenimiento básico de tu {nombre}, sin pasar por el taller.
-            </p>
             {patinete.mantenimientoDIY.intervaloRevision && (
               <p className="mt-2 rounded-lg bg-red-50 border border-red-200 px-3 py-2 text-xs font-semibold text-red-800">
                 🗓️ Intervalo de revisión: {patinete.mantenimientoDIY.intervaloRevision}
@@ -724,12 +688,6 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
           )}
         </section>
 
-        <p className="mt-4 text-center text-sm text-gray-500">
-          ¿Buscas coche en vez de patinete?{" "}
-          <Link to="/comparador-coches/" className="font-semibold text-red-600 hover:underline">
-            Ver el comparador de coches →
-          </Link>
-        </p>
 
         
         <section id="faq" className="mt-10 scroll-mt-32" aria-label="Preguntas frecuentes">
@@ -780,6 +738,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
         </div>
         <BarraInferiorFicha compararHref={compararHref} precio={patinete.precioEur} aprox={precioAprox} />
       </main>
+      <nav aria-label="Herramientas" className="mx-auto max-w-6xl px-4 pb-6 text-center text-sm"><Link to="/comparador-coches/" className="font-semibold text-red-600 hover:underline">Comparador de coches</Link></nav>
       <SharedFooter
         editorial={{
           ambito: "patinetes",

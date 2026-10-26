@@ -90,7 +90,7 @@ describe("componente MapaRadar", () => {
     expect(mapa.getAttribute("loading")).toBe("lazy");
     expect(
       screen
-        .getByText("Abrir la vista 3D en Google Street View")
+        .getByText(/^Street View /)
         .getAttribute("href"),
     ).toBe(urlStreetViewExterno(LAT, LNG));
   });

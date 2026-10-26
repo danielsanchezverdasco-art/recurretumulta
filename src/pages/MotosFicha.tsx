@@ -190,35 +190,27 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
       q: `¿Cuánto cuesta la ${nombre}?`,
       a: tp?.faqPrecio ??
         (moto.precioDesde == null
-          ? `La ${nombre} aún no tiene precio confirmado para España: lo publicaremos en cuanto la marca lo anuncie.`
-          : `${geo.faqPrecio ?? `La ${nombre} parte de ${fmtPrecio(moto.precioDesde)}.`} El detalle de versiones está en la comparativa completa.`),
+          ? `La ${nombre} aún no tiene precio confirmado para España.`
+          : geo.faqPrecio ?? `La ${nombre} parte de ${fmtPrecio(moto.precioDesde)}.`),
     },
     {
       q: `¿Qué carnet necesito para la ${nombre}?`,
-      a: tp?.faqCarnet ?? `Necesitas el carnet ${moto.carnet}. ${
-        /A1/.test(moto.carnet)
-          ? "Recuerda: el carnet B con más de 3 años de antigüedad también habilita para motos de hasta 11 kW (A1)."
-          : "Comprueba que tu permiso cubre la potencia de esta moto antes de comprarla."
-      }`,
+      a: tp?.faqCarnet ?? `Carnet ${moto.carnet}${/A1/.test(moto.carnet) ? " (o B con más de 3 años)" : ""}.`,
     },
     // 17/10/2026: autonomía/carga solo si es eléctrica o hay dato; la etiqueta según etiquetaDgt
     // (antes decía «100 % eléctrica, etiqueta Cero» también en motos de combustión).
     ...(esElectricaFaq
       ? [
-          {
-            q: `¿Cuál es la autonomía de la ${nombre}?`,
-            a:
-              moto.autonomiaKm == null
-                ? `No hay una autonomía publicada por ninguna fuente fiable para la ${nombre}, así que preferimos no inventarla: no la mostramos en la ficha.`
-                : `Homologa ${fmtAutonomia(moto)}. La cifra real depende de tu conducción, el peso y la temperatura.`,
-          },
-          {
-            q: `¿Cómo se carga la ${nombre}?`,
-            a:
-              moto.carga == null
-                ? `La marca no ha publicado los detalles de carga de la ${nombre}: los añadiremos en cuanto haya dato oficial.`
-                : moto.carga,
-          },
+          // (24/10 unicidad) sin dato publicado no hay FAQ de autonomía
+          ...(moto.autonomiaKm == null
+            ? []
+            : [
+                {
+              q: `¿Cuál es la autonomía de la ${nombre}?`,
+                  a: `Homologa ${fmtAutonomia(moto)}.`,
+                },
+              ]),
+          ...(moto.carga == null ? [] : [{ q: `¿Cómo se carga la ${nombre}?`, a: moto.carga }]),
         ]
       : []),
     {
@@ -595,7 +587,6 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
                 <strong className="text-gray-900">{fmtPrecio(moto.precioDesde)}</strong>.
               </>
             )}{" "}
-            El detalle de versiones y opciones está en nuestra comparativa:
           </p>
           )}
           <TablaVersiones versiones={moto.versiones} nombre={nombre} />
@@ -671,9 +662,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
             <h2 className="flex items-center gap-2 text-xl font-extrabold text-gray-900">
               <Wrench className="h-5 w-5 text-red-600" /> Mantenimiento en casa
             </h2>
-            <p className="mt-1 text-sm text-gray-600">
-              {propio(tp, "mantenimientoIntro", `Guías paso a paso para el mantenimiento básico de tu ${nombre}, sin pasar por el taller.`)}
-            </p>
+            {tp?.mantenimientoIntro && <p className="mt-1 text-sm text-gray-600">{tp.mantenimientoIntro}</p>}
             {moto.mantenimientoDIY.intervaloMantenimiento && (
               <p className="mt-2 rounded-lg bg-red-50 border border-red-200 px-3 py-2 text-xs font-semibold text-red-800">
                 🗓️ Intervalo oficial: {moto.mantenimientoDIY.intervaloMantenimiento}
@@ -853,14 +842,10 @@ function esMotoElectrica(m: MotoComparador): boolean {
   return etiquetaBaseMoto(m.etiquetaDgt) === "Cero" || m.bateriaKwh != null || m.autonomiaKm != null;
 }
 function respuestaEtiquetaMoto(nombre: string, e: string | null | undefined): string {
+  // 24/10 (unicidad): solo el dato; sin dato, "consulta con la matrícula" (sin coletilla ZBE)
   const et = etiquetaBaseMoto(e);
-  if (et === "Cero")
-    return `Sí: al ser 100 % eléctrica, la ${nombre} tiene etiqueta DGT «Cero» y puede circular por todas las ZBE sin restricciones.`;
-  if (et === "ECO")
-    return `No: la ${nombre} tiene etiqueta DGT «ECO». Puede circular por la mayoría de ZBE, aunque algunas ciudades aplican restricciones a los vehículos ECO.`;
-  if (et === "C" || et === "B")
-    return `No: la ${nombre} tiene etiqueta DGT «${et}» porque lleva motor de combustión. Revisa la ordenanza de la ZBE de tu ciudad: algunas restringen el acceso a las motos con etiqueta ${et}.`;
-  return `No tenemos confirmada la etiqueta DGT de la ${nombre}: consúltala con la matrícula en la sede electrónica de la DGT antes de entrar en una ZBE.`;
+  if (et) return `La ${nombre} tiene etiqueta DGT «${et}».`;
+  return `Etiqueta DGT de la ${nombre}: sin confirmar.`;
 }
 
 export default function MotosFichaPage() {

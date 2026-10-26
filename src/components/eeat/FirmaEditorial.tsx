@@ -28,7 +28,7 @@ export interface EditorialProps {
   modelo?: string;
 }
 
-const TEXTO_VERIFICACION: Record<NonNullable<EditorialProps["tipo"]>, string> = {
+export const TEXTO_VERIFICACION: Record<NonNullable<EditorialProps["tipo"]>, string> = {
   ficha:
     "Los datos salen de la web oficial de la marca y, si no hay dato oficial, de prensa especializada o tiendas citadas como fuente. Lo que no está confirmado se marca con ≈ o «dato no oficial · en revisión», y lo que no encontramos se deja vacío: nunca inventamos cifras.",
   articulo:
@@ -125,7 +125,7 @@ export default function FirmaEditorial({
           </p>
         )}
         {!sinHerramientas && (
-          <p className="mt-2 text-xs leading-relaxed text-gray-600">
+          <nav aria-label="Herramientas y guías" className="mt-2 text-xs leading-relaxed text-gray-600">
             <strong className="text-gray-800">Herramientas y guías:</strong>{" "}
             {herramientas.map((h, i) => (
               <span key={h.to}>
@@ -135,7 +135,7 @@ export default function FirmaEditorial({
                 </Link>
               </span>
             ))}
-          </p>
+          </nav>
         )}
       </div>
     </aside>
@@ -145,7 +145,7 @@ export default function FirmaEditorial({
 /** Solo la línea de herramientas y guías (para plantillas que ya tienen su propio bloque de fuentes). */
 export function EnlacesHerramientas({ ambito = "general" }: { ambito?: Ambito }) {
   return (
-    <p className="text-xs leading-relaxed text-gray-600" data-eeat-herramientas="1">
+    <nav aria-label="Herramientas y guías" className="text-xs leading-relaxed text-gray-600" data-eeat-herramientas="1">
       <strong className="text-gray-800">Herramientas y guías:</strong>{" "}
       {HERRAMIENTAS_POR_AMBITO[ambito].map((h, i) => (
         <span key={h.to}>
@@ -155,6 +155,6 @@ export function EnlacesHerramientas({ ambito = "general" }: { ambito?: Ambito })
           </Link>
         </span>
       ))}
-    </p>
+    </nav>
   );
 }

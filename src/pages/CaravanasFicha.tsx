@@ -206,41 +206,37 @@ function Ficha({ auto }: { auto: Caravana }) {
       q: `¿Cuánto cuesta la ${nombre}?`,
       a:
         auto.precioDesde == null
-          ? `La ${nombre} aún no tiene precio confirmado para España: lo publicaremos en cuanto la marca lo anuncie.`
-          : `La ${nombre} parte de ${fmtPrecio(auto.precioDesde)}${precioAprox ? " (estimación: la marca aún no ha publicado la tarifa oficial para España)" : ""}. Los extras y el equipamiento opcional no están incluidos en ese precio de partida.`,
+          ? null
+          : `La ${nombre} parte de ${fmtPrecio(auto.precioDesde)}${precioAprox ? " (estimación)" : ""}.`,
     },
     {
       q: `¿Qué carnet necesito para remolcar la ${nombre}?`,
       a:
         carnet == null
-          ? `Todavía no tenemos un dato fiable del carnet necesario para remolcar la ${nombre}: depende de su MMA y de la MMA conjunta del conjunto. Como referencia, con el carnet B puedes remolcar un remolque de hasta 750 kg, o uno más pesado si el conjunto (coche + caravana) no supera 3.500 kg.`
-          : `Necesitas el carnet ${carnet}. Ojo: el carnet exigible depende de la MMA de la caravana Y de la del coche tractor (es la suma del conjunto la que manda), y el coche debe estar homologado para remolcar esa masa: verifica siempre ambos datos antes de enganchar.`,
+          ? null
+          : `Carnet ${carnet}.`,
     },
     {
       q: `¿Cuántas personas pueden dormir en la ${nombre}?`,
       a:
         auto.plazas == null
-          ? `Las plazas para dormir de la ${nombre} no están publicadas por una fuente fiable: las añadiremos en cuanto haya dato oficial.`
-          : `La ${nombre} tiene ${auto.plazas} plazas para dormir. Una caravana no tiene plazas de viaje: durante la marcha todos los ocupantes viajan en el coche tractor, nunca dentro de la caravana.`,
+          ? null
+          : `La ${nombre} tiene ${auto.plazas} plazas para dormir.`,
     },
     {
       q: `¿Cuánto mide la ${nombre}?`,
       a:
         auto.largoMm == null && auto.anchoMm == null && auto.altoMm == null
-          ? `Las dimensiones de la ${nombre} no están publicadas por una fuente fiable: las añadiremos en cuanto haya dato oficial.`
+          ? null
           : `Mide ${[
               auto.largoMm != null ? `${fmtMiles(auto.largoMm)} mm de largo` : null,
               auto.anchoMm != null ? `${fmtMiles(auto.anchoMm)} mm de ancho` : null,
               auto.altoMm != null ? `${fmtMiles(auto.altoMm)} mm de alto` : null,
             ]
               .filter(Boolean)
-              .join(", ")}. Ten en cuenta el largo total (incluye la lanza) al maniobrar y al reservar parcela o garaje.`,
+              .join(", ")}.`,
     },
-    {
-      q: `¿Es segura la ${nombre}? ¿Tiene estrellas Euro NCAP?`,
-      a: `Euro NCAP no evalúa caravanas: el programa europeo de seguridad solo somete a pruebas de choque a turismos y algunos comerciales ligeros, así que no existen valoraciones oficiales de estrellas para este modelo ni para ninguna caravana. En un remolque la seguridad depende sobre todo del enganche, del freno de inercia, de unos neumáticos en fecha y de un reparto de carga que respete la MMA.`,
-    },
-  ];
+  ].filter((f): f is { q: string; a: string } => !!f.a);
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -432,8 +428,7 @@ function Ficha({ auto }: { auto: Caravana }) {
           secciones={[
             { id: "ficha", label: "Ficha técnica" },
             { id: "precio", label: "Precio" },
-            { id: "mantenimiento", label: "Mantenimiento" },
-            { id: "seguridad", label: "Seguridad" },
+            ...(auto.planMantenimiento ? [{ id: "mantenimiento", label: "Mantenimiento" }] : []),
             { id: "faq", label: "FAQ" },
           ]}
         />
@@ -582,6 +577,7 @@ function Ficha({ auto }: { auto: Caravana }) {
           </section>
         )}
 
+        {auto.planMantenimiento && (
         <section
           id="mantenimiento"
           className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
@@ -590,60 +586,14 @@ function Ficha({ auto }: { auto: Caravana }) {
           <h2 className="flex items-center gap-2 text-xl font-extrabold text-gray-900">
             <Wrench className="h-5 w-5 text-red-600" /> Mantenimiento
           </h2>
-          <div className="mt-3 space-y-3 text-gray-700">
-            <p>
-              Una caravana no tiene motor propio: su mantenimiento es el del
-              remolque y el de la célula habitable. El plan de la marca (abajo)
-              marca la revisión anual de estanqueidad, instalación de gas,
-              electricidad y frenos.
-            </p>
-            <p>
-              Además: estado y edad de los neumáticos (se recomienda
-              sustituirlos a partir de los 6 años aunque conserven dibujo),
-              engrase y ajuste del freno de inercia y del cabezal de enganche,
-              funcionamiento de la rueda jockey y de las patas estabilizadoras,
-              y cuidado de la batería auxiliar y del circuito de agua si los
-              equipa.
-            </p>
-          </div>
           {auto.planMantenimiento && (
             <Suspense fallback={null}>
               <PlanMantenimientoLazy plan={auto.planMantenimiento} nombre={nombre} />
             </Suspense>
           )}
         </section>
+        )}
 
-        <section
-          id="seguridad"
-          className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
-          aria-label={`Seguridad de la ${nombre}`}
-        >
-          <h2 className="flex items-center gap-2 text-xl font-extrabold text-gray-900">
-            <ShieldCheck className="h-5 w-5 text-red-600" /> Seguridad
-          </h2>
-          <div className="mt-3 space-y-3 text-gray-700">
-            <p>
-              <strong className="text-gray-900">Euro NCAP no evalúa caravanas.</strong>{" "}
-              El programa europeo de seguridad solo somete a pruebas de choque a turismos
-              y algunos comerciales ligeros: no existen valoraciones oficiales de
-              estrellas para este modelo ni para ninguna caravana. Cualquier
-              «puntuación de seguridad» que veas publicada para una caravana no es
-              oficial.
-            </p>
-            <p>
-              En un remolque la seguridad depende del conjunto: enganche y cabezal
-              en buen estado, freno de inercia revisado, cable de seguridad (freno
-              de ruptura) siempre enganchado, neumáticos en fecha y con la presión
-              correcta, y un reparto de la carga que respete la MMA dejando peso
-              suficiente sobre la bola (sin pasarse del límite del enganche).
-            </p>
-            <p>
-              Durante la marcha nadie puede viajar dentro de la caravana: todos los
-              ocupantes viajan en el coche tractor, con su cinturón y su sistema de
-              retención infantil si procede.
-            </p>
-          </div>
-        </section>
 
         {(auto.precioDesde != null || (auto.versiones?.length ?? 0) > 0) && (
           <section id="precio" className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6" aria-label="Precio y versiones">
@@ -662,7 +612,7 @@ function Ficha({ auto }: { auto: Caravana }) {
                     {fmtPrecio(auto.precioDesde)}
                   </strong>
                   {auto.aprox.includes("precioDesde") && (
-                    <> (estimación: la marca aún no ha publicado la tarifa oficial para España)</>
+                    <> (estimación)</>
                   )}
                   .
                 </>

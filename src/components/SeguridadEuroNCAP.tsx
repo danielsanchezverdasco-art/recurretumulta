@@ -198,12 +198,7 @@ export default function SeguridadEuroNCAP({
         >
           EuroNCAP
         </a>{" "}
-        {nota ?? (
-          <>
-            (test de {s.anioTest}). Las estrellas resumen el protocolo vigente ese año: un 5★ de
-            2019 no equivale a un 5★ de 2026.
-          </>
-        )}
+        {nota ?? <>(test de {s.anioTest}).</>}
       </p>
     </section>
   );
@@ -232,13 +227,7 @@ function InlineEuroNCAP({
           <ShieldCheck className="h-5 w-5 text-red-600" /> Seguridad
         </h2>
         <p className="mt-2 text-sm text-gray-600">
-          {nota ?? (
-            <>
-              {inline?.nota ?? "Sin datos EuroNCAP: modelo no probado."} El programa europeo
-              ensaya los modelos de forma voluntaria (o por iniciativa propia), así que no todos
-              los coches del mercado tienen valoración oficial.
-            </>
-          )}
+          {nota ?? (inline?.nota ?? "Sin test EuroNCAP.")}
         </p>
       </section>
     );

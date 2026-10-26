@@ -133,14 +133,14 @@ export function calcularNotaCosa(input: NotaCosaInput): NotaCosaResultado {
     const ratio = input.precioEur / input.potenciaCv;
     crudos.push({
       clave: "valor",
-      etiqueta: "Relación precio/potencia",
+      etiqueta: "Precio/potencia",
       puntos: escala(ratio, 150, 600),
       nota: `${Math.round(ratio)} €/CV`,
     });
   } else {
     crudos.push({
       clave: "valor",
-      etiqueta: "Relación precio/potencia",
+      etiqueta: "Precio/potencia",
       puntos: null,
       nota: input.precioNoOficialEspana ? "sin precio oficial en España" : "—",
     });
@@ -165,7 +165,7 @@ export function calcularNotaCosa(input: NotaCosaInput): NotaCosaResultado {
     const p = etiquetaAPuntos(input.etiquetaDgt);
     crudos.push({
       clave: "eficiencia",
-      etiqueta: "Eficiencia (estimada por etiqueta DGT)",
+      etiqueta: "Eficiencia por etiqueta",
       puntos: p,
       nota: p != null ? `etiqueta ${input.etiquetaDgt} (estimación)` : "—",
     });
@@ -194,7 +194,7 @@ export function calcularNotaCosa(input: NotaCosaInput): NotaCosaResultado {
   if (input.maleteroL != null) {
     crudos.push({
       clave: "practicidad",
-      etiqueta: "Practicidad (maletero)",
+      etiqueta: "Maletero",
       puntos: escalaInv(input.maleteroL, 600, 200),
       nota: `${input.maleteroL} L`,
     });

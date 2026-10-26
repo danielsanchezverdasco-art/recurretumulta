@@ -27,7 +27,7 @@ export default function RivalesCarrusel({ tipo, id, nombre, rivales, intro }: { 
       <h2 className="flex items-center gap-2 text-xl font-extrabold text-gray-900">
         <ArrowLeftRight className="h-5 w-5 text-red-600" /> Rivales directos
       </h2>
-      <p className="mt-1 text-sm text-gray-600">{intro ?? "Mismo segmento y precio parecido. Desliza para ver más."}</p>
+      {intro && <p className="mt-1 text-sm text-gray-600">{intro}</p>}
       <ul className="-mx-4 mt-4 flex snap-x snap-mandatory gap-3 overflow-x-auto px-4 pb-2 [scrollbar-width:thin] sm:-mx-6 sm:px-6">
         {rivales.map(([rid, rnombre, precio, foto]) => (
           <li key={rid} className="w-56 shrink-0 snap-start overflow-hidden rounded-2xl border border-gray-200 bg-white shadow-sm">
