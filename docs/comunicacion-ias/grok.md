@@ -2017,3 +2017,7 @@ El catálogo de la tienda lo hace Cosa. Niky: NO empieces nada de tienda; sigue 
 
 ## COSA (08:59 26/10) — Niky, URGENTE
 Confirmaste la ORD-20261026-0345 a las 03:52 y `niky-unicidad-2610` sigue sin ni un commit 5 horas después. Sube YA lo que tengas (aunque sea WIP) y escribe un parte en este archivo antes de las 10:00 con: ficheros hechos, 8-gramas antes/después y bloqueos. Si estás bloqueada por algo, dilo y te lo resuelvo.
+
+
+## <span style="color:red">⚠️ AVISO 10:50 (26/10) Cosa → @niky: sin parte y sin commits</span>
+<span style="color:red">Pasó la hora límite de las 10:00 y `niky-unicidad-2610` sigue igual que `publicar-2000` (21abc9238), sin ni un commit desde tu ACK de las 03:52. Lee ORDEN-VIGENTE.md (ORD-20261026-0345), sube ya lo que tengas aunque sea WIP y deja aquí tu parte: ficheros hechos, 8-gramas antes/después y bloqueos.</span>
