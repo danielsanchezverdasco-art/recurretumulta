@@ -14,6 +14,10 @@ FUSION={("coches","mg3"):"mg",("coches","mg4"):"mg",("coches","mg5"):"mg",("coch
 RENOMBRE={("motos","royal"):"royal-alloy",("motos","moto"):"moto-morini",("motos","can"):"can-am",("patinetes","urban"):"urban-glide"}
 H=[r for r in csv.DictReader(open(f"{S}/hubs-propuestos.csv")) if r["tipo"]=="marca"]
 I={r["slug"]:r for r in csv.DictReader(open(f"{S}/intros-marca.csv"))}
+# Editorial por marca (ORD-1157): scripts/datos-seo/editorial-marca.json, clave "cat/marca/slug".
+# NO pasa por el filtro EMPRESA de intro(): aquí solo entra material verificado con fuente.
+try: ED=json.load(open(f"{S}/editorial-marca.json",encoding="utf8"))
+except Exception: ED={}
 NOIDX={r["url"][len(O):] for r in csv.DictReader(open(f"{S}/fichas-pobres.csv")) if r["accion"]=="noindex"}
 def titulo(f):
   h=open(f,encoding="utf8",errors="ignore").read(80000); t=re.search(r'<h1[^>]*>(.*?)</h1>',h,re.S)
@@ -46,6 +50,23 @@ def intro(cat,slug,marca,n,fusion):
   if quitadas: recortes.append((f"{cat}/{slug}"," ".join(quitadas)))
   base=f"En esta página reunimos las {n} fichas técnicas de {CATN[cat]} {marca} que tenemos publicadas." if n!=1 else f"En esta página reunimos la ficha técnica de {CATN[cat]} {marca} que tenemos publicada."
   return " ".join([base]+resto)
+def ed_sec(titulo,paras):
+  if not paras: return ""
+  return f'<section class="space-y-2"><h2 class="text-lg font-black text-gray-900">{e(titulo)}</h2>'+"".join(f'<p class="text-sm text-gray-700 leading-relaxed">{e(p)}</p>' for p in paras)+"</section>"
+def ed_pre(ed):
+  out=ed_sec("Historia",ed.get("historia") or [])
+  if ed.get("gama"): out+=f'<section class="space-y-2"><h2 class="text-lg font-black text-gray-900">Gama</h2><p class="text-sm text-gray-700 leading-relaxed">{e(ed["gama"])}</p></section>'
+  if ed.get("destacados"): out+=f'<section class="space-y-2"><h2 class="text-lg font-black text-gray-900">Modelos destacados</h2><p class="text-sm text-gray-700 leading-relaxed">{e(ed["destacados"])}</p></section>'
+  return out
+def ed_post(ed):
+  out=""
+  fq=ed.get("faq") or []
+  if fq:
+    out+=('<section class="space-y-2"><h2 class="text-lg font-black text-gray-900">Preguntas frecuentes</h2>'+"".join(f'<div class="space-y-1"><h3 class="text-sm font-bold text-gray-900">{e(f["q"])}</h3><p class="text-sm text-gray-700 leading-relaxed">{e(f["a"])}</p></div>' for f in fq)+"</section>")
+  fu=ed.get("fuentes") or []
+  if fu:
+    out+=('<p class="text-xs text-gray-500">Fuentes: '+" · ".join(f'<a href="{e(u["url"])}" target="_blank" rel="noopener noreferrer" class="text-red-600 underline">{e(u["nombre"])}</a>' for u in fu)+"</p>")
+  return out
 def bc(items): return {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":k+1,"name":n,"item":O+u} for k,(n,u) in enumerate(items)]}
 def ld(o,idn): return f'<script type="application/ld+json" data-seo-id="{idn}">'+json.dumps(o,ensure_ascii=False).replace("</","<\\/")+"</script>"
 
@@ -112,9 +133,11 @@ def poner(h,title,desc,url):
 i0=plantilla.index('<main'); i1=plantilla.index("</main>",i0)+7
 for (c,slug),d in pags.items():
   url=f"/{c}/marca/{slug}/"
+  ed=ED.get(f"{c}/marca/{slug}",{})
   cuerpo=(f'<main class="max-w-5xl mx-auto px-4 pt-6 pb-16 space-y-6"><nav aria-label="Migas de pan" class="text-xs text-gray-500"><a href="/">Inicio</a> / <a href="/{c}/">{CAT[c]}</a> / <span>{e(d["nombre"])}</span></nav>'
     f'<h1 class="text-3xl font-black text-gray-900">{e(d["h1"])}</h1><p class="text-sm text-gray-700 max-w-3xl leading-relaxed">{e(d["intro"])}</p>'
-    '<ul class="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-1">'+"".join(f'<li><a href="/{c}/{s}/" class="text-sm text-gray-700 hover:text-red-600">{e(n)}</a></li>' for s,n in d["items"])+"</ul></main>")
+    +ed_pre(ed)+
+    '<ul class="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-1">'+"".join(f'<li><a href="/{c}/{s}/" class="text-sm text-gray-700 hover:text-red-600">{e(n)}</a></li>' for s,n in d["items"])+"</ul>"+ed_post(ed)+"</main>")
   h=plantilla[:i0]+cuerpo+plantilla[i1:]
   h=re.sub(r'<script type="application/ld\+json"[^>]*>.*?</script>','',h,flags=re.S)
   h=re.sub(r'<script type="application/json" id="hub-marca-data">.*?</script>','',h,flags=re.S)
@@ -123,7 +146,9 @@ for (c,slug),d in pags.items():
   h=re.sub(r'<aside aria-label="Autoría y fuentes" data-eeat="1".*?</aside>','',h,flags=re.S)
   h=h.replace("<footer",eeat_aside(c,act)+"<footer",1)
   h=h.replace("</head>",eeat_ld(url,d["title"],act)+"</head>",1)
-  datos=dict(p=url,cat=c,catNombre=CAT[c],h1=d["h1"],title=d["title"],description=d["description"],intro=d["intro"],items=d["items"])
+  if ed.get("faq"):
+    h=h.replace("</head>",ld({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":f["q"],"acceptedAnswer":{"@type":"Answer","text":f["a"]}} for f in ed["faq"]]}, "faq-marca")+"</head>",1)
+  datos=dict(p=url,cat=c,catNombre=CAT[c],h1=d["h1"],title=d["title"],description=d["description"],intro=d["intro"],items=d["items"],editorial=ed)
   h=h.replace("</head>",ld(bc([("Inicio","/"),(CAT[c],f"/{c}/"),(d["nombre"],url)]),"bc-static")+'<script type="application/json" id="hub-marca-data">'+json.dumps(datos,ensure_ascii=False).replace("</","<\\/")+"</script></head>",1)
   os.makedirs(f"{D}{url}",exist_ok=True); open(f"{D}{url}index.html","w",encoding="utf8").write(h)
 # hubs: enlaces de marca + BreadcrumbList

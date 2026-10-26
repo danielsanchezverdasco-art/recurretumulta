@@ -252,6 +252,8 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
 
   // Diálogo de datos personales — se abre al pagar o al generar con el pack.
   const [datosDialogOpen, setDatosDialogOpen] = useState(false);
+  // Consentimiento RGPD explícito: obligatorio antes de enviar o pagar.
+  const [consentimiento, setConsentimiento] = useState(false);
   const [dialogMode, setDialogMode] = useState<DialogMode>("pdf_unico");
   const [confirmando, setConfirmando] = useState(false);
 
@@ -269,7 +271,7 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
   const usarCreditoPack = async (_: any) => ({ ok: false, carta: "", restantes: 0 }); // TODO: restaurar
 
   const emailValido = EMAIL_RE.test(email.trim());
-  const datosCompletos = !!nombre && !!dni && !!domicilio && emailValido;
+  const datosCompletos = !!nombre && !!dni && !!domicilio && emailValido && consentimiento;
 
   const validarCodigoCreador = async () => {
     const c = codigo.trim();
@@ -295,6 +297,7 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
 
   const abrirDialogo = (mode: DialogMode) => {
     setDialogMode(mode);
+    setConsentimiento(false);
     setDatosDialogOpen(true);
   };
 
@@ -475,6 +478,21 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
               <p className="text-[11px] text-red-500 font-bold">{t("dialog.creatorInvalid")}</p>
             )}
           </div>
+          <label className="flex items-start gap-2 text-xs text-gray-700">
+            <input
+              type="checkbox"
+              checked={consentimiento}
+              onChange={(e) => setConsentimiento(e.target.checked)}
+              className="mt-0.5 h-4 w-4 shrink-0 accent-blue-700"
+            />
+            <span>
+              {t("dialog.consentBefore")}{" "}
+              <a href="/privacidad/" className="font-bold text-blue-700 underline">
+                {t("dialog.consentLink")}
+              </a>{" "}
+              {t("dialog.consentAfter")}
+            </span>
+          </label>
           <p className="text-[10px] text-gray-400 flex items-center gap-1">
             <Lock className="w-3 h-3" /> {t("dialog.privacy")}
           </p>
