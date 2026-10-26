@@ -234,7 +234,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carga: "Batería extraíble de 15 kg con asa; 6 h en enchufe doméstico de 220 V",
     etiquetaDgt: "Cero",
     aprox: [],
-    pros: ["Con 94 kg, asiento a 770 mm y plataforma plana, la Active se mueve a pulso en un garaje y entre coches parados sin la torpeza de un 125 de gasolina.", "La batería de 2,3 kWh se saca en segundos y se carga en 6 h en un enchufe doméstico de 220 V: no necesitas plaza con punto de carga para usarla a diario.", "Aunque la batería va bajo el asiento, conserva hueco para un casco jet: Piaggio lo presentaba como el único e-scooter de su categoría con esa capacidad.", "Es la única versión con frenada combinada CBS y discos de 175 mm delante y detrás; la 1 básica de 45 km/h no lleva CBS.", "Frente a la 1 básica, la Active sube a 60 km/h y a 2 kW (2,7 CV), así que no queda limitada a calles de 45 km/h y se defiende en vías urbanas rápidas con permiso A1 o B con 3 años."],
+    pros: ["Con 94 kg, asiento a 770 mm y plataforma plana, la Active se mueve a pulso en un garaje y entre coches parados sin la torpeza de un 125 de gasolina.", "La batería de 2,3 kWh sale en segundos y se carga en 6 h en un enchufe doméstico de 220 V: no necesitas plaza con punto de carga para usarla a diario.", "Aunque la batería va bajo el asiento, conserva hueco para un casco jet: Piaggio lo presentaba como el único e-scooter de su categoría con esa capacidad.", "Es la única versión con frenada combinada CBS y discos de 175 mm delante y detrás; la 1 básica de 45 km/h no lleva CBS.", "Frente a la 1 básica, la Active sube a 60 km/h y a 2 kW (2,7 CV), así que no queda limitada a calles de 45 km/h y se defiende en vías urbanas rápidas con permiso A1 o B con 3 años."],
     contras: ["La autonomía útil depende del modo: 66 km WMTC en Sport frente a 85 km en Eco. Si tu trayecto diario suma ida, vuelta y desvíos, irás justo sin cargar entremedias.", "Cargar del todo lleva 6 horas y no hay carga rápida: una batería vacía a mediodía no está lista para la vuelta de la tarde.", "Extraíble no significa ligera: la batería de la Active pesa 15 kg con asa, un peso serio si hay que subirla a un tercero sin ascensor cada noche.", "Las ruedas de 10 pulgadas y los 60 km/h de punta marcan el límite: baches y bordillos se notan más que en un rueda alta y las rondas rápidas quedan fuera de su terreno."],
     curiosidades: ["Se anunció primero en TikTok, en primavera de 2021, todavía con el nombre Piaggio One, antes de su estreno mundial en Pekín el 28 de mayo de ese año.", "La edición Feng Chen Wang, vista en el EICMA 2021 y a la venta desde febrero de 2022, pintaba a mano con pincel chino el agua y el fénix sobre la carrocería, con casco y colección de ropa a juego."],
     imagen: "/media/piaggio-1-ficha-tecnica-precio-oficial.webp",
@@ -1910,7 +1910,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     curiosidades: [
       "Es la hermana pequeña de la XSR700 y XSR900, con el mismo ADN Sport Heritage",
       "Comparte motor con la YZF-R125 y la MT-125",
-      "La variante Legacy rinde homenaje a las Yamaha de los años 80",
+      "La variante Legacy recuerda a las Yamaha de los años 80",
       "Es una de las 125 retro más vendidas en Europa",
     ],
     imagen: "/media/motos/yamaha-xsr125-2025-ficha-tecnica-precio.webp",
@@ -2465,7 +2465,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "La electrónica más completa del segmento: plataforma APRC, 4 modos de conducción, control de crucero y control de tracción",
       "Suspensiones Kayaba totalmente ajustables con 240 mm de recorrido delante y detrás",
       "Llantas de radios tubeless, un detalle premium que casi ninguna rival ofrece",
-      "Ligera: 204 kilos en orden de marcha con el depósito lleno (187 kg en seco)",
+      "Ligera con el depósito lleno: 204 kilos en orden de marcha (187 kg en seco)",
       "Depósito de 18 litros estrecho y bajo, que facilita pilotar de pie sobre los estribos",
       "Frenos Brembo y pantalla TFT de 5 pulgadas a color de serie",
     ],
@@ -3178,7 +3178,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Tetracilíndrico de 649 cc con 95 CV (70 kW) a 12.000 rpm: el único 4 en línea del segmento, con su sonido y estirada",
       "Honda E-Clutch opcional (10.400 €): embrague electrónico que deja arrancar, parar y cambiar sin usar la maneta",
       "Pantalla TFT de 5 pulgadas a todo color con Honda RoadSync y toma USB-C",
-      "Con limitación a 35 kW, válida para el carnet A2",
+      "Limitada a 35 kW, vale para el carnet A2",
       "Suspensión delantera invertida Showa SFF-BP de 41 mm y doble disco delantero de 310 milímetros con pinzas radiales",
       "Consumo de 4,9 l/100 km con depósito de 15,4 L: más de 300 km de autonomía real",
     ],
@@ -3301,7 +3301,7 @@ export const MOTOS_BASE: MotoComparador[] = [
         },
         {
           nombre: "Revisión / 12.000 km",
-          queSeCambia: "Filtro de aceite + aceite + filtro de aire + bujías",
+          queSeCambia: "Bujías + filtro de aire + aceite con filtro nuevo",
           costeAproxEur: null,
         },
       ],
@@ -3394,7 +3394,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Comparte la base mecánica con la Trident 660 y la Tiger Sport 660: menos exclusiva",
       "Carente de IMU ni ABS en curva: electrónica básica frente a la RS 660",
       "Depósito de 14 L con 4,9 l/100 km de consumo: autonomía justa de unos 286 km",
-      "Red de concesionarios Triumph más reducida que la de las marcas japonesas",
+      "La red de concesionarios Triumph no llega a la de las marcas japonesas",
     ],
     curiosidades: [
       "El nombre Daytona revive la saga que terminó en 2016 con la mítica Daytona 675",
@@ -3482,7 +3482,7 @@ export const MOTOS_BASE: MotoComparador[] = [
         },
         {
           nombre: "Revisión / 20.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + revisión de correa del variador + bujía",
+          queSeCambia: "Revisión de la correa del variador + filtro de aire + bujía + aceite y filtro nuevos",
           costeAproxEur: null,
         },
       ],
@@ -4404,7 +4404,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Los extras (quickshifter, conectividad plena) encarecen la factura",
     ],
     curiosidades: [
-      "La saga Duke nació en 1994 y la 125 es la puerta de acceso a la familia",
+      "La saga Duke nació en 1994 y la 125 abre la puerta de la familia",
       "Comparte plataforma con la Husqvarna Svartpilen 125 dentro del grupo Pierer",
       "Su ABS con modo Supermoto permite derrapar de atrás a propósito",
     ],
@@ -4487,7 +4487,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Solo 130 kilos en orden de marcha: la más ligera de su categoría",
+      "Solo 130 kilos en orden de marcha, y eso la hace la más ligera de su categoría",
       "Suspensión delantera invertida Showa SFF-BP con 41 mm y pinza radial Nissin de 4 pistones",
       "A todo color, pantalla TFT de 5 pulgadas",
       "Autonomía superior a 450 km con un depósito",
@@ -4604,7 +4604,7 @@ export const MOTOS_BASE: MotoComparador[] = [
         },
         {
           nombre: "Revisión / 12.000 km",
-          queSeCambia: "Aceite + filtro de aceite + bujía + filtro de aire",
+          queSeCambia: "Bujía + filtro de aire + aceite nuevo con su filtro",
           costeAproxEur: null,
         },
       ],
@@ -5615,7 +5615,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "En 2025 suma IMU, KTRC, modos de conducción y control de crucero",
       "Quickshifter KQS bidireccional de serie",
       "Navegación paso a paso y Pantalla TFT de 5\" con conectividad",
-      "Hay versión limitada a 35 kW para el carnet de moto A2",
+      "Existe una versión limitada a 35 kW para el carnet de moto A2",
     ],
     contras: [
       "213 kg para 124 CV: la comunidad la ve pesada frente a rivales más ligeras",
@@ -5732,9 +5732,9 @@ export const MOTOS_BASE: MotoComparador[] = [
     aprox: ["velocidadMax"],
     pros: [
       "Motor tricilíndrico de 765 cc con 120 CV, desarrollado con la experiencia de Triumph como motorista de Moto2",
-      "IMU que incluye ABS y control de tracción en curva de serie",
+      "IMU con ABS y control de tracción en curva de serie",
       "Cuatro modos de conducción (Rain, Road, Sport, Rider)",
-      "Bastidor de doble viga de aluminio con basculante de aleación",
+      "Bastidor de aluminio de doble viga con basculante de aleación",
       "Suspensiones Showa multirregulables delante y detrás",
       "Pantalla TFT de 5 pulgadas en color con cronómetro de vueltas",
     ],
@@ -5881,7 +5881,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Bicilíndrico en paralelo, 755 cc con 91,8 CV y cigüeñal calado a 270 grados",
+      "Bicilíndrico en paralelo de 755 cc, 91,8 CV y cigüeñal a 270 grados",
       "Consumo de 4,35 l/100 km con unos 340 km de autonomía real",
       "IMU con control de tracción, anti-wheelie, modos de motor y freno motor regulable",
       "Horquilla de tipo invertido Showa SFF-BP con 41 mm y doble disco delantero de 296 mm",
@@ -5898,7 +5898,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     curiosidades: [
       "Su cigüeñal a 270° le da un sonido y una entrega parecidos a los de un V2",
       "Honda resucitó el nombre Hornet en 2023 tras años sin usarlo",
-      "Existe variante E-Clutch con embrague electrónico por 8.350 €",
+      "Hay una variante E-Clutch con embrague electrónico, a 8.350 €",
       "Está homologada en versión A2 de 35 kW",
     ],
     imagen: "/media/honda-cb750-hornet-2024-ficha-tecnica-precio-hero.webp",
@@ -7236,7 +7236,7 @@ export const MOTOS_BASE: MotoComparador[] = [
         },
         {
           nombre: "Revisión / 12.000 km",
-          queSeCambia: "Bujía + filtro de aire + aceite + filtro de aceite",
+          queSeCambia: "Aceite con su filtro, filtro de aire y bujía",
           costeAproxEur: null,
         },
       ],
