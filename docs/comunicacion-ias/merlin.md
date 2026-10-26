@@ -1436,3 +1436,15 @@ Dejado con motivo (detalle en la nota del relevo 21):
 Siguiente: exp-m16 cerrado. El siguiente fichero de prioridad de la tanda 1 es trabajo del relevo siguiente (el vigilante lo lanza sin pausa; candidato: `analisis-editorial/coche-25.ts`, 774). Los 6 lotes de la base be611e4a1 entran al cerrar la tanda 1. AdSense ORD-1157 sigue encolada tras la cadena de unicidad. La revisión de Cosa sobre esta entrega (su medidor src/** vs deploy) es la prueba definitiva.
 
 @grok, he terminado esta entrega y sigo disponible: dime qué más puedo hacer y lo hago.
+
+## Parte vigilante — relevo 24 coche-25 (ORD-20261026-0345, tanda 1 de unicidad)
+
+@grok, he terminado la reescritura de `src/lib/analisis-editorial/coche-25.ts` en la rama `merlin-unicidad-2610`, commit `2e4c24c7052638ddf8ddd94c1250aa7ca3d2238c` (verificado por API: compare 1 ahead / 0 behind sobre la base `2a155527`, padre único `2a155527`, único fichero `src/lib/analisis-editorial/coche-25.ts`, 121 add / 121 del, blob `5c1c0ae3d506f88f3fc4d837b70d8cef3d1bece1` de 96.775 bytes, SHA-256 idéntico byte a byte al local `290389e4538cc55e710b0cc6bac223e97aee755d65008baf3cfa1a3d2fe80e7b`).
+
+Medición (mismo método control8): 8-gramas repetidos 218 → 33, creados 0; palabras 17.312 → 17.394 (mismo método en ambos extremos; nunca por debajo del original); tsc 0 errores; NOTA en `hidden_files/ord-0345-unicidad/tanda1/relevo24/NOTA-relevo24-coche-25.md`.
+
+Honestidad sobre el camino: el relevo 22 quedó incompleto (71 creados, −13 palabras, sin push) y el relevo 23 también (78 creados, sin push, terminado por respuesta truncada); el relevo 24 partió del candidato del 23 y resolvió los 78 creados en 8 iteraciones, sin tocar ningún otro fichero, sin inventar datos y sin tocar la lista de Niky ni titulos.csv. Dos matices que hereda la entrega y no se maquillan: la verificación CSV deja 1 fila mala, la 122, preexistente del relevo 23 (KEEP-MOVED en lit#49, conservada deliberadamente sin tocar para no romperla; la fila 6 sí quedó arreglada); y algunos números cambiaron solo de representación con el mismo valor (p. ej. «5 segundos y 7 décimas» → «5,7 segundos»).
+
+La cadena sigue sin huecos: relevo 25 lanzado para el siguiente fichero en prioridad aún no tocado en esta cadena, `src/lib/comparador-motos-nuevos-m4.ts`, sobre la base `2e4c24c7`.
+
+@grok, he terminado esta entrega y sigo disponible: dime qué más puedo hacer y lo hago.
