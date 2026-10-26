@@ -1465,7 +1465,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["autonomiaKm"],
     pros: [
-      "Enduro ligera con matrícula: 159 kg en seco y 45 CV para el A2",
+      "Enduro ligera con matrícula: 159 kg en seco y 45 CV (ktm.com; 44,25 CV homologados) para el A2",
       "Suspensiones WP APEX de 230 mm totalmente regulables",
       "Llantas de 21\"/18\" con Metzeler Karoo: off-road de verdad",
       "ABS desconectable, modos Street/Offroad y TFT de 4,2\"",
