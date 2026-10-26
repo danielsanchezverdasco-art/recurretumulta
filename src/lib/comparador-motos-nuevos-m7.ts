@@ -88,18 +88,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     mantenimientoDIY: null,
     planMantenimiento:     {
       costeAnualAproxEur: null,
-      fuente: "Peugeot Motocycles Espana: sin plan de mantenimiento publicado para el Kisbee M 125",
-      intervalo: "Sin programa publicado por Peugeot Motocycles Espana (consultado 11/10/2026); se recomienda inspection anual",
+      fuente: "Para el Kisbee M 125, Peugeot Motocycles España no publica plan de mantenimiento",
+      intervalo: "Sin programa publicado por Peugeot Motocycles Espana (consultado 11/10/2026); se recomienda inspection cada año",
       revisiones: [
         {
           costeAproxEur: null,
           nombre: "Inspeccion anual recomendada",
-          queSeCambia: "Aceite de motor, filtro de aire, bujia, frenos de disco 226 mm, neumaticos 90/80-16 y transmision por variador",
+          queSeCambia: "Filtro de aire, aceite de motor, bujía, frenos de disco de 226 mm, neumáticos 90/80-16 y transmisión por variador",
         },
         {
           costeAproxEur: null,
           nombre: "Frenos y neumaticos",
-          queSeCambia: "Pastillas y neumaticos segun desgaste",
+          queSeCambia: "Pastillas de freno, con neumaticos, según el desgaste",
         },
       ],
     },
@@ -173,13 +173,13 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     mantenimientoDIY: null,
     planMantenimiento:     {
       costeAnualAproxEur: null,
-      fuente: "Peugeot Motocycles Espana: sin plan de mantenimiento publicado para el Speedfight 4 125",
-      intervalo: "Sin programa publicado por Peugeot Motocycles Espana (consultado 11/10/2026); se recomienda inspection anual",
+      fuente: "Peugeot Motocycles España: la marca no publica plan de mantenimiento para el Speedfight 4 125",
+      intervalo: "Peugeot Motocycles Espana no ha publicado un plan (consultado 11/10/2026); se aconseja una inspection anual",
       revisiones: [
         {
           costeAproxEur: null,
           nombre: "Inspeccion anual recomendada",
-          queSeCambia: "Aceite de motor, filtro de aire, bujia, liquido refrigerante, frenos de disco 215/190 mm y variador",
+          queSeCambia: "Aceite del motor, filtro del aire, bujía, líquido refrigerante, frenos de disco 215/190 mm y variador",
         },
         {
           costeAproxEur: null,
@@ -259,17 +259,17 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Hero MotoCorp Espana: sin plan de mantenimiento publicado para la Xoom 125R",
-      intervalo: "Sin programa publicado por Hero MotoCorp Espana (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Hero MotoCorp Espana no ha publicado programa; conviene pasar una inspection anual (consultado el 11/10/2026)",
       revisiones: [
         {
           costeAproxEur: null,
           nombre: "Inspeccion anual recomendada",
-          queSeCambia: "Aceite de motor, filtro de aire, bujia, freno de disco delantero con pinza Bybre y variador",
+          queSeCambia: "Aceite del motor, filtro de aire, bujia, freno de disco delantero con pinza Bybre y variador",
         },
         {
           costeAproxEur: null,
           nombre: "Frenos y neumaticos",
-          queSeCambia: "Pastillas y neumaticos 110/80-14 y 120/70-14 segun desgaste",
+          queSeCambia: "Pastillas de freno y gomas 110/80-14 y 120/70-14, según el desgaste",
         },
       ],
     },
@@ -343,13 +343,13 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     mantenimientoDIY: null,
     planMantenimiento:     {
       costeAnualAproxEur: null,
-      fuente: "Morbidelli MBP Espana: sin plan de mantenimiento publicado para la SC125RE",
-      intervalo: "Sin programa publicado por Morbidelli MBP Espana (consultado 11/10/2026); se recomienda inspection anual",
+      fuente: "Morbidelli MBP España: no consta plan de mantenimiento publicado para la SC125RE",
+      intervalo: "Morbidelli MBP Espana no publica programa propio (consultado 11/10/2026); se aconseja inspection anual",
       revisiones: [
         {
           costeAproxEur: null,
           nombre: "Inspeccion anual recomendada",
-          queSeCambia: "Aceite de motor, filtro de aire, bujia, liquido refrigerante, frenos de disco 200/190 mm con ABS y correa del variador",
+          queSeCambia: "Filtro de aire, bujía, aceite de motor, líquido refrigerante, correa del variador y los frenos de disco 200/190 mm con ABS",
         },
         {
           costeAproxEur: null,
@@ -430,13 +430,13 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     mantenimientoDIY: null,
     planMantenimiento:     {
       costeAnualAproxEur: null,
-      fuente: "QJMotor Espana: revisiones programadas obligatorias en la red oficial para mantener la garantia",
-      intervalo: "Revisiones programadas en concesionarios oficiales QJMotor (obligatorias para los 6 anos de garantia, con limite de 50.000 km)",
+      fuente: "QJMotor España: hacer las revisiones programadas en la red oficial es obligatorio para mantener la garantía",
+      intervalo: "Revisiones programadas en concesionarios oficiales QJMotor: obligatorias durante los 6 años de garantía, con límite de 50.000 km",
       revisiones: [
         {
           costeAproxEur: null,
           nombre: "Revisiones programadas oficiales",
-          queSeCambia: "Aceite de motor, filtro de aire, bujia, liquido refrigerante, frenos ABS de doble canal y correa del variador segun plan oficial",
+          queSeCambia: "Según el plan oficial: aceite del motor, filtro de aire, bujía, líquido refrigerante, correa del variador, junto con los frenos ABS de doble canal",
         },
         {
           costeAproxEur: null,
@@ -514,13 +514,13 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     mantenimientoDIY: null,
     planMantenimiento:     {
       costeAnualAproxEur: null,
-      fuente: "QJMotor Espana: revisiones programadas obligatorias en la red oficial para mantener la garantia",
-      intervalo: "Revisiones programadas en concesionarios oficiales QJMotor (obligatorias para los 6 anos de garantia, con limite de 50.000 km)",
+      fuente: "QJMotor España: las revisiones programadas en la red oficial son obligatorias para mantener la garantía",
+      intervalo: "Pasar las revisiones programadas en la red oficial QJMotor es obligatorio para los 6 años de garantía, hasta 50.000 km",
       revisiones: [
         {
           costeAproxEur: null,
           nombre: "Revisiones programadas oficiales",
-          queSeCambia: "Aceite de motor, filtro de aire, bujia, liquido refrigerante, frenos ABS de doble canal 220/190 mm y correa del variador",
+          queSeCambia: "Aceite de motor, filtro de aire, bujía y líquido refrigerante, correa del variador, además de los frenos ABS de doble canal 220/190 mm",
         },
         {
           costeAproxEur: null,
@@ -598,18 +598,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     mantenimientoDIY: null,
     planMantenimiento:     {
       costeAnualAproxEur: null,
-      fuente: "QJMotor Espana: revisiones programadas obligatorias en la red oficial para mantener la garantia",
-      intervalo: "Revisiones programadas en concesionarios oficiales QJMotor (obligatorias para los 6 anos de garantia, con limite de 50.000 km)",
+      fuente: "QJMotor España: las revisiones programadas deben hacerse en la red oficial para mantener la garantía",
+      intervalo: "Las revisiones programadas deben hacerse en concesionarios oficiales QJMotor para mantener los 6 años de garantía, con tope de 50.000 km",
       revisiones: [
         {
           costeAproxEur: null,
           nombre: "Revisiones programadas oficiales",
-          queSeCambia: "Aceite de motor, filtro de aire, bujia, liquido refrigerante, frenos ABS de doble canal 240/220 mm y correa del variador",
+          queSeCambia: "Líquido refrigerante, aceite de motor, filtro de aire, bujía, frenos ABS de doble canal 240/220 mm y correa del variador",
         },
         {
           costeAproxEur: null,
           nombre: "Frenos y neumaticos",
-          queSeCambia: "Pastillas y neumaticos 110/80-14 y 130/70-13 segun desgaste",
+          queSeCambia: "Pastillas y neumáticos 110/80-14 y 130/70-13, para cambiar según el desgaste",
         },
       ],
     },
@@ -683,13 +683,13 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     mantenimientoDIY: null,
     planMantenimiento:     {
       costeAnualAproxEur: null,
-      fuente: "Voge Espana: sin plan de mantenimiento publicado para el SR16",
-      intervalo: "Sin programa publicado por Voge Espana (consultado 11/10/2026); se recomienda inspection anual",
+      fuente: "Voge España: no hay plan de mantenimiento publicado para el SR16",
+      intervalo: "Sin programa publicado por Voge Espana (consultado 11/10/2026); se recomienda una revisión anual",
       revisiones: [
         {
           costeAproxEur: null,
           nombre: "Inspeccion anual recomendada",
-          queSeCambia: "Aceite de motor, filtro de aire, bujia, liquido refrigerante, frenos ABS de doble canal y correa del variador",
+          queSeCambia: "Correa del variador, aceite de motor, filtro del aire, bujía, frenos ABS de doble canal y líquido refrigerante",
         },
         {
           costeAproxEur: null,
@@ -772,13 +772,13 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     mantenimientoDIY: null,
     planMantenimiento:     {
       costeAnualAproxEur: null,
-      fuente: "Keeway Espana: sin plan de mantenimiento publicado para la Icon 125 S",
-      intervalo: "Sin programa publicado por Keeway Espana (consultado 11/10/2026); se recomienda inspection anual",
+      fuente: "Keeway España: no existe plan de mantenimiento publicado para la Icon 125 S",
+      intervalo: "Sin programa publicado por Keeway Espana (consultado 11/10/2026); se recomienda pasar una revisión anual",
       revisiones: [
         {
           costeAproxEur: null,
           nombre: "Inspeccion anual recomendada",
-          queSeCambia: "Aceite de motor, filtro de aire, bujia, frenos de doble disco y correa del variador",
+          queSeCambia: "Aceite del motor, bujía, filtro de aire, correa del variador y frenos de doble disco",
         },
         {
           costeAproxEur: null,
@@ -857,18 +857,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     mantenimientoDIY: null,
     planMantenimiento:     {
       costeAnualAproxEur: null,
-      fuente: "Keeway Espana: sin plan de mantenimiento publicado para la Gemma 125",
-      intervalo: "Sin programa publicado por Keeway Espana (consultado 11/10/2026); se recomienda inspection anual",
+      fuente: "Keeway España: sin plan de mantenimiento publicado por la marca para la Gemma 125",
+      intervalo: "Keeway España no publica programa (consultado 11/10/2026); conviene pasar una revisión anual",
       revisiones: [
         {
           costeAproxEur: null,
           nombre: "Inspeccion anual recomendada",
-          queSeCambia: "Aceite de motor, filtro de aire, bujia, frenos de disco y correa del variador",
+          queSeCambia: "Bujía, filtro de aire, correa del variador, frenos de disco y aceite de motor",
         },
         {
           costeAproxEur: null,
           nombre: "Frenos y neumaticos",
-          queSeCambia: "Pastillas y neumaticos segun desgaste",
+          queSeCambia: "Pastillas y neumaticos, a cambiar según desgaste",
         },
       ],
     },
@@ -946,13 +946,13 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     mantenimientoDIY: null,
     planMantenimiento:     {
       costeAnualAproxEur: null,
-      fuente: "FB Mondial Espana: sin plan de mantenimiento publicado para la Imola 125",
-      intervalo: "Sin programa publicado por FB Mondial Espana (consultado 11/10/2026); se recomienda inspection anual",
+      fuente: "FB Mondial España: la marca no ha publicado plan de mantenimiento para la Imola 125",
+      intervalo: "FB Mondial Espana no ha publicado programa; conviene una inspection anual, según consulta del 11/10/2026",
       revisiones: [
         {
           costeAproxEur: null,
           nombre: "Inspeccion anual recomendada",
-          queSeCambia: "Aceite de motor, filtro de aire, bujia, frenos CBS de disco 220 mm y correa del variador",
+          queSeCambia: "Filtro de aire, bujía y aceite de motor, correa del variador y frenos CBS de disco de 220 milímetros",
         },
         {
           costeAproxEur: null,
@@ -1031,13 +1031,13 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     mantenimientoDIY: null,
     planMantenimiento:     {
       costeAnualAproxEur: null,
-      fuente: "Malaguti/KSR Espana: sin plan de mantenimiento publicado para la Spectre GP 125",
-      intervalo: "Sin programa publicado por Malaguti Espana (consultado 11/10/2026); se recomienda inspection anual",
+      fuente: "Malaguti/KSR España: la marca no ofrece plan de mantenimiento publicado para la Spectre GP 125",
+      intervalo: "Malaguti Espana no publica programa alguno (consultado 11/10/2026); se sugiere la inspection anual",
       revisiones: [
         {
           costeAproxEur: null,
           nombre: "Inspeccion anual recomendada",
-          queSeCambia: "Aceite de motor, filtro de aire, bujia, frenos CBS de disco 290/190 mm y transmision",
+          queSeCambia: "Aceite de motor, bujía, filtro de aire, frenos CBS de disco 290/190 mm y transmisión",
         },
         {
           costeAproxEur: null,
@@ -1116,13 +1116,13 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     mantenimientoDIY: null,
     planMantenimiento:     {
       costeAnualAproxEur: null,
-      fuente: "SYM Espana: sin plan de mantenimiento publicado para la Jet Evo 125 ABS",
-      intervalo: "Sin programa publicado por SYM Espana (consultado 11/10/2026); se recomienda inspection anual",
+      fuente: "SYM España: no se ha publicado plan de mantenimiento para la Jet Evo 125 ABS",
+      intervalo: "SYM Espana no ha publicado programa oficial alguno; conviene inspection anual; consulta realizada el 11/10/2026",
       revisiones: [
         {
           costeAproxEur: null,
           nombre: "Inspeccion anual recomendada",
-          queSeCambia: "Aceite de motor, filtro de aire, bujia, liquido refrigerante, frenos ABS de doble canal 260/220 mm y correa del variador",
+          queSeCambia: "Bujía, aceite de motor, líquido refrigerante, filtro de aire, correa del variador, con frenos ABS de doble canal 260/220 mm",
         },
         {
           costeAproxEur: null,
@@ -1204,18 +1204,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     mantenimientoDIY: null,
     planMantenimiento:     {
       costeAnualAproxEur: null,
-      fuente: "Keeway Espana: sin plan de mantenimiento publicado para la XDV 125 EVO Pro",
-      intervalo: "Sin programa publicado por Keeway Espana (consultado 11/10/2026); se recomienda inspection anual",
+      fuente: "Keeway España: la marca no tiene plan de mantenimiento publicado para la XDV 125 EVO Pro",
+      intervalo: "Keeway España no tiene programa publicado (consultado 11/10/2026); se aconseja revisión anual",
       revisiones: [
         {
           costeAproxEur: null,
           nombre: "Inspeccion anual recomendada",
-          queSeCambia: "Aceite de motor, filtro de aire, bujia, liquido refrigerante, frenos de disco y correa del variador",
+          queSeCambia: "Aceite de motor y filtro de aire, bujía, líquido refrigerante y correa del variador, con frenos de disco",
         },
         {
           costeAproxEur: null,
           nombre: "Frenos y neumaticos",
-          queSeCambia: "Pastillas y neumaticos mixtos 110/80-14 y 130/70-13 segun desgaste",
+          queSeCambia: "Pastillas y neumáticos mixtos 110/80-14 y 130/70-13, que se sustituyen si el desgaste lo pide",
         },
       ],
     },
@@ -1292,18 +1292,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     mantenimientoDIY: null,
     planMantenimiento:     {
       costeAnualAproxEur: null,
-      fuente: "Linhai Espana: sin plan de mantenimiento publicado para la ADV Buck 125",
-      intervalo: "Sin programa publicado por Linhai Espana (consultado 11/10/2026); se recomienda inspection anual",
+      fuente: "Linhai España: no se conoce plan de mantenimiento publicado para la ADV Buck 125",
+      intervalo: "Linhai Espana no ha publicado programa; conviene pasar inspection anual, según lo consultado el 11 de octubre de 2026",
       revisiones: [
         {
           costeAproxEur: null,
           nombre: "Inspeccion anual recomendada",
-          queSeCambia: "Aceite de motor, filtro de aire, bujia, liquido refrigerante, frenos de disco y correa del variador",
+          queSeCambia: "Bujía, correa del variador, frenos de disco, líquido refrigerante, aceite de motor y filtro de aire",
         },
         {
           costeAproxEur: null,
           nombre: "Frenos y neumaticos",
-          queSeCambia: "Pastillas y neumaticos 110/80-14 y 130/70-13 segun desgaste",
+          queSeCambia: "Pastillas y gomas 110/80-14 y 130/70-13, a reponer según el desgaste observado",
         },
       ],
     },
@@ -1378,12 +1378,12 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Letbe/Wellta Motors: sin plan de mantenimiento publicado para la Island 125",
-      intervalo: "Sin programa publicado por Letbe (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Letbe no ha publicado programa (consultado 11/10/2026); se recomienda pasar inspection anual",
       revisiones: [
         {
           costeAproxEur: null,
           nombre: "Inspeccion anual recomendada",
-          queSeCambia: "Aceite de motor, filtro de aire, bujia, liquido refrigerante, frenos ABS Bosch 220/220 mm y correa del variador",
+          queSeCambia: "Frenos ABS Bosch 220/220 mm, líquido refrigerante, bujía, correa del variador, aceite de motor, con filtro del aire",
         },
         {
           costeAproxEur: null,
@@ -1470,12 +1470,12 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
         {
           costeAproxEur: null,
           nombre: "Revision cada 3.000 km",
-          queSeCambia: "Aceite de motor, filtro de aire, bujia, liquido refrigerante, frenos ABS de doble canal 270/218 mm y correa del variador",
+          queSeCambia: "Correa del variador, frenos ABS de doble canal 270/218 mm, aceite de motor, filtro de aire y bujía, con líquido refrigerante",
         },
         {
           costeAproxEur: null,
           nombre: "Frenos y neumaticos",
-          queSeCambia: "Pastillas y neumaticos 100/80-14 y 120/70-14 segun desgaste",
+          queSeCambia: "Juego de pastillas y neumáticos 100/80-14 y 120/70-14, a cambiar cuando el desgaste lo exija",
         },
       ],
     },
@@ -1552,17 +1552,17 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "MITT/Jets Marivent: sin plan de mantenimiento publicado para la City Vision 125",
-      intervalo: "Sin programa publicado por MITT (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "MITT no publica programa; se aconseja pasar inspection anual (consultado 11/10/2026) para esta ficha",
       revisiones: [
         {
           costeAproxEur: null,
           nombre: "Inspeccion anual recomendada",
-          queSeCambia: "Aceite de motor, filtro de aire, bujia, liquido refrigerante, frenos de disco y correa del variador",
+          queSeCambia: "Líquido refrigerante, filtro de aire, aceite de motor y bujía, correa del variador y frenos de disco",
         },
         {
           costeAproxEur: null,
           nombre: "Frenos y neumaticos",
-          queSeCambia: "Pastillas y neumaticos 110/70-16 y 120/70-14 segun desgaste",
+          queSeCambia: "Pastillas de freno y neumaticos 110/70-16 y 120/70-14 segun desgaste",
         },
       ],
     },
@@ -3068,7 +3068,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "benelli-tornado-naked-t-125-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Benelli España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Benelli España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3150,7 +3150,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "ktm-rc-125-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por KTM España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por KTM España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3231,7 +3231,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "aprilia-tuono-125-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Aprilia España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Aprilia España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3312,7 +3312,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "honda-cb300r-2025",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Honda España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Honda España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3391,7 +3391,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "zontes-125g1-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Zontes España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Zontes España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3472,7 +3472,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "zontes-350r-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Zontes España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Zontes España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3553,7 +3553,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "zontes-125z2-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Zontes España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Zontes España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3632,7 +3632,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "cfmoto-125nk-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por CFMOTO España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por CFMOTO España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3713,7 +3713,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "voge-r125-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Voge España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Voge España; se aconseja inspección anual en servicio oficial (consultado 11/10/2026) en esta revisión",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3792,7 +3792,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "qjmotor-srk-125-s-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por QJMotor España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por QJMotor España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3873,7 +3873,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "voge-125r-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Voge España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Voge España no ha publicado programa oficial (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3952,7 +3952,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "voge-300ac-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Voge España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial de Voge España (consultado 11/10/2026); se aconseja la inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -4031,7 +4031,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "voge-500ac-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Voge España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Voge España no ha publicado programa oficial alguno; se aconseja inspección anual en servicio oficial (consultado 11/10/2026)",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -4112,7 +4112,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "husqvarna-vitpilen-125-2025",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Husqvarna España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Husqvarna España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -4191,7 +4191,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "brixton-crossfire-125-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Brixton España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Brixton España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -4270,7 +4270,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "brixton-cromwell-125-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Brixton España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Brixton España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -4349,7 +4349,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "brixton-cromwell-250-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Brixton España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Brixton España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -4430,7 +4430,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "keeway-rkf-125-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Keeway España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Keeway España; se aconseja inspección anual en servicio oficial (consultado 11/10/2026)",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -5832,7 +5832,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "harley-davidson-road-king-special-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin plan de mantenimiento verificado en esta investigación; Harley-Davidson recomienda revisión anual o cada 8.000 km según manual",
+      intervalo: "Tampoco se verificó plan de mantenimiento en esta investigación; Harley-Davidson recomienda revisión anual o cada 8.000 km según manual",
       revisiones: [
         {
           nombre: "Revisión anual / 8.000 km",
@@ -5917,16 +5917,16 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "indian-chieftain-powerplus-dark-horse-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin plan de mantenimiento verificado en esta investigación",
+      intervalo: "Ningún plan de mantenimiento se verificó en esta investigación",
       revisiones: [
         {
           nombre: "Revisión periódica",
-          queSeCambia: "Aceite, filtros e inspección general según manual oficial Indian Motorcycle",
+          queSeCambia: "Aceite y filtros, con inspección general según manual oficial Indian Motorcycle",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin tarifa de mantenimiento verificada para España en esta investigación",
+      fuente: "No se verificó tarifa de mantenimiento para España en esta investigación",
     },
   },
   {
@@ -6081,7 +6081,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "triumph-speed-twin-1200-rs-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes), según plan oficial Triumph",
+      intervalo: "16.000 km entre revisiones o un año, lo que antes ocurra, según el plan oficial Triumph",
       revisiones: [
         {
           nombre: "Revisión 16.000 km / anual",
@@ -6090,7 +6090,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 32.000 km",
-          queSeCambia: "Aceite, filtros, bujías y reglaje de válvulas según manual",
+          queSeCambia: "Aceite, filtros y bujías, con reglaje de válvulas según manual",
           costeAproxEur: null,
         },
       ],
@@ -6166,16 +6166,16 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "triumph-street-triple-765-r-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes), según plan oficial Triumph",
+      intervalo: "Cada 16.000 km o al cabo de un año, lo que llegue antes, según el plan de Triumph",
       revisiones: [
         {
           nombre: "Revisión 16.000 km / anual",
-          queSeCambia: "Aceite, filtro de aceite e inspección general según manual Triumph",
+          queSeCambia: "Según manual Triumph: aceite, filtro de aceite e inspección general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión 32.000 km",
-          queSeCambia: "Aceite, filtros, bujías y reglaje de válvulas según manual",
+          queSeCambia: "Filtros, aceite, bujías y reglaje de válvulas según manual de Triumph",
           costeAproxEur: null,
         },
       ],
@@ -6251,16 +6251,16 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "triumph-street-triple-765-rx-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes), según plan oficial Triumph",
+      intervalo: "Según plan oficial Triumph: intervalo de 16.000 km o un año, lo que ocurra primero",
       revisiones: [
         {
           nombre: "Revisión 16.000 km / anual",
-          queSeCambia: "Aceite, filtro de aceite e inspección general según manual Triumph",
+          queSeCambia: "Aceite y filtro de aceite, con inspección general según el manual Triumph",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión 32.000 km",
-          queSeCambia: "Aceite, filtros, bujías y reglaje de válvulas según manual",
+          queSeCambia: "Aceite, bujías, filtros y ajuste de válvulas según el manual",
           costeAproxEur: null,
         },
       ],
@@ -6336,21 +6336,21 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "honda-rebel-1100-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes), según manual oficial Honda",
+      intervalo: "12.000 km entre revisiones, o 12 meses, lo que ocurra antes, según manual oficial Honda",
       revisiones: [
         {
           nombre: "Revisión 12.000 km / anual",
-          queSeCambia: "Aceite 10W-30, filtro de aceite e inspección general según manual Honda",
+          queSeCambia: "Aceite 10W-30, filtro de aceite e inspección general, según el manual Honda",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión 24.000 km",
-          queSeCambia: "Aceite, filtros, bujías y reglaje de válvulas según manual",
+          queSeCambia: "Aceite, filtros, bujías y reglaje de válvulas, según el manual",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial Honda (intervalos estándar de la gama, ficha CB650R 2025 del comparador)",
+      fuente: "Manual oficial Honda (intervalos estándar de la gama; se usa la ficha CB650R 2025 del comparador)",
     },
   },
   {
@@ -6421,16 +6421,16 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-z-h2-se-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin plan de mantenimiento verificado en esta investigación",
+      intervalo: "Sin plan de mantenimiento comprobado en esta investigación",
       revisiones: [
         {
           nombre: "Revisión periódica",
-          queSeCambia: "Aceite, filtros e inspección general según manual oficial Kawasaki",
+          queSeCambia: "Aceite, filtros e inspección general, según el manual oficial Kawasaki",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin tarifa de mantenimiento verificada para España en esta investigación",
+      fuente: "Sin tarifa de mantenimiento comprobada para España en esta investigación",
     },
   },
   {
@@ -6501,16 +6501,16 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "aprilia-tuono-v4-factory-1100-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin plan de mantenimiento verificado en esta investigación",
+      intervalo: "No hay plan de mantenimiento verificado en esta investigación",
       revisiones: [
         {
           nombre: "Revisión periódica",
-          queSeCambia: "Aceite, filtros e inspección general según manual oficial Aprilia",
+          queSeCambia: "Filtros y aceite, e inspección general según manual oficial Aprilia",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin tarifa de mantenimiento verificada para España en esta investigación",
+      fuente: "No hay tarifa de mantenimiento verificada para España en esta investigación",
     },
   },
   {
@@ -6581,16 +6581,16 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "triumph-trident-800-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes), según plan oficial Triumph",
+      intervalo: "16.000 km o doce meses, lo que antes llegue, según el plan oficial de Triumph",
       revisiones: [
         {
           nombre: "Revisión 16.000 km / anual",
-          queSeCambia: "Aceite, filtro de aceite e inspección general según manual Triumph",
+          queSeCambia: "Filtro de aceite con aceite, e inspección general según manual de Triumph",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión 32.000 km",
-          queSeCambia: "Aceite, filtros, bujías y reglaje de válvulas según manual",
+          queSeCambia: "Según manual: aceite, filtros, bujías y reglaje de válvulas",
           costeAproxEur: null,
         },
       ],
@@ -6666,16 +6666,16 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-z1100-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin plan de mantenimiento verificado en esta investigación",
+      intervalo: "No se ha verificado un plan de mantenimiento en esta investigación",
       revisiones: [
         {
           nombre: "Revisión periódica",
-          queSeCambia: "Aceite, filtros e inspección general según manual oficial Kawasaki",
+          queSeCambia: "Según manual oficial Kawasaki: aceite, filtros e inspección general",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin tarifa de mantenimiento verificada para España en esta investigación",
+      fuente: "Para España no consta en esta investigación ninguna tarifa de mantenimiento verificada",
     },
   },
   {
@@ -6748,16 +6748,16 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "honda-cb650r-e-clutch-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes), según manual oficial Honda",
+      intervalo: "Cada 12.000 km o al año, lo que antes suceda, según el manual de Honda",
       revisiones: [
         {
           nombre: "Revisión 12.000 km / anual",
-          queSeCambia: "Aceite 10W-30, filtro de aceite e inspección general según manual Honda",
+          queSeCambia: "Según manual Honda: aceite 10W-30 con filtro de aceite e inspección general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión 24.000 km",
-          queSeCambia: "Aceite, filtros, bujías y reglaje de válvulas según manual",
+          queSeCambia: "Reglaje de válvulas, aceite, filtros y bujías según manual",
           costeAproxEur: null,
         },
       ],
@@ -6833,21 +6833,21 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "honda-cb1000-gt-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes), según manual oficial Honda",
+      intervalo: "Intervalo de 12.000 km o un año, lo que llegue primero, según el manual oficial de Honda",
       revisiones: [
         {
           nombre: "Revisión 12.000 km / anual",
-          queSeCambia: "Aceite 10W-30, filtro de aceite e inspección general según manual Honda",
+          queSeCambia: "Filtro de aceite y aceite 10W-30, con inspección general según manual Honda",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión 24.000 km",
-          queSeCambia: "Aceite, filtros, bujías y reglaje de válvulas según manual",
+          queSeCambia: "Aceite y filtros, bujías y reglaje de válvulas según manual",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial Honda (intervalos estándar de la gama)",
+      fuente: "Manual oficial Honda con los intervalos estándar de la gama",
     },
   },
 ];
