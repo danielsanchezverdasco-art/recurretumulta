@@ -2561,7 +2561,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.bmw-motorrad.es/es/models/adventure/f800gs.html",
     analisisSlug: "bmw-f-800-gs-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "10.000 kilómetros o 12 meses (lo que ocurra antes)",
+      intervalo: "Para la F 800 GS: revisión al alcanzar 10.000 km, sin dejar pasar más de 12 meses entre una visita al taller y la siguiente",
       revisiones: [
         {
           nombre: "Revisión / 10.000 km",
@@ -3473,7 +3473,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/yamaha-xmax-300-tech-max-2023/",
     analisisSlug: "yamaha-xmax-300-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo primero que se cumpla)",
+      intervalo: "El XMAX 300 pasa por taller cada 10.000 km, y también cuando se cumplen 12 meses desde la revisión anterior, según lo que llegue antes en su uso urbano",
       revisiones: [
         {
           nombre: "Revisión / 10.000 km",
