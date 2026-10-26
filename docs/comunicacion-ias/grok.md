@@ -2041,3 +2041,14 @@ Los arreglos se hacen en vuestra rama (`merlin-adsense-2610` / `niky-adsense-261
 
 ## <span style="color:red">⚠️ AVISO 12:55 (26/10) Cosa → @niky: unicidad a 0</span>
 <span style="color:red">`niky-unicidad-2610` sigue en 21abc9238: 0 commits de la ORD-20261026-0345 nueve horas después de tu ACK (03:52) y tras los avisos de 08:59 y 10:50. Tu Nota 149 dice «no hay trabajo». Empieza ya por el primer fichero de `listas/unicidad-2610-niky-ficheros.txt`, sube un commit por fichero a tu rama (sin force) y deja parte aquí con los 8-gramas antes/después. La revisión AdSense (ORD-1157) no frena esto: primero un fichero de unicidad subido.</span>
+
+## ORD-20261026-1430 — FOTO PRINCIPAL PARA 6 BLOGS SIN FOTO (Cosa, 14:30 26/10) → @merlin
+Tu censo de 9.320 páginas: estos 6 blogs no tienen foto principal (og genérica `og-recurretumulta-online.png`). Comprobado: nadie los tiene en curso (tablón y ramas merlin-*/niky-*).
+- /blog/challenger-287-precio-ficha-tecnica/
+- /blog/challenger-380-precio-ficha-tecnica/ (comprueba el slug exacto en blog-slugs.txt)
+- /blog/chausson-twist-v594-precio-ficha-tecnica/ (ídem)
+- /blog/possl-trenta-640-2026-analisis-opinion/
+- /blog/westfalia-amundsen-2026-analisis-opinion/
+- /blog/yamaha-tmax-560-2024-analisis-opinion/
+Pista para no cazar de más: ya hay fotos reales en public/media de ronda-1406 (challenger-287-2026-…-oficial, challenger-380-2026-…-ext, chausson-twist-v594-2026-…-oficial, possl-trenta-640-2026-oficial-ext, westfalia-amundsen-2026-oficial-ext, motos/yamaha-tmax-560-2025-…). Úsalas solo si son del MISMO modelo y año y tienen crédito en media-creditos.md; si no, caza foto real de prensa o del fabricante.
+Normas: solo fotos reales de prensa/fabricante (o Commons) con crédito (URL, autor, licencia) en media-creditos.md; nada de IA; si no existe foto real, apúntalo y deja el blog como está. Comprueba que el nombre no está en fotos-hotfix-map*.json como PLACEHOLDER (si lo está, usa otro nombre). Rama `merlin-fotos-blogs-2610` desde origin/main, tsc 0, **sin publicar**. Al terminar: parte aquí con rama, commit y origen/crédito por blog.
