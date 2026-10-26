@@ -217,7 +217,8 @@ export default function MejorCochePresupuesto() {
             position: i + 1,
             // 17/10/2026: página de listado, no de producto: sin Car/Offer (GSC).
             name: `${r.coche.marca} ${r.coche.modelo}`,
-            url: `https://recurretumulta.online/coches/${r.coche.id}/`,
+            // 26/10/2026 (rev26 A2): solo enlazar fichas que existen (fichaUrl); el id no es un slug de ficha.
+            ...(r.coche.fichaUrl ? { url: `https://recurretumulta.online${r.coche.fichaUrl}/` } : {}),
           })),
         },
         {

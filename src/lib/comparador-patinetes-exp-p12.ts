@@ -1392,7 +1392,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     certificadoDgt: null,
     foto: "/media/patinetes/evercross-c3.webp",
     galeria: [
-      { alt: "Neumático autorreparable de gel del Evercross C3", alto: 1200, ancho: 1200, src: "/media/patinetes//media/fotos-reales/evercross-c3/evercross-c3-real-1.webp" },
+      { alt: "Neumático autorreparable de gel del Evercross C3", alto: 1200, ancho: 1200, src: "/media/fotos-reales/evercross-c3/evercross-c3-real-1.webp" },
       { src: "/media/evercross-c3-hunt1.webp", alt: "C3 (foto: Evercross (tienda oficial UE), licencia desconocida)", ancho: 750, alto: 750 },
       { src: "/media/evercross-c3-hunt2.webp", alt: "C3 (foto: Evercross (tienda oficial UE), licencia desconocida)", ancho: 750, alto: 750 },
     ],
@@ -2442,7 +2442,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     certificadoDgt: null,
     foto: "/media/patinetes/velocifero-mad-2000w.webp",
     galeria: [
-      { alt: "Velocifero MAD 2000W con sillín, vista tres cuartos, imagen oficial", alto: 800, ancho: 1200, src: "/media/patinetes//media/fotos-reales/velocifero-mad-2000w/velocifero-mad-2000w-real-1.webp" },
+      { alt: "Velocifero MAD 2000W con sillín, vista tres cuartos, imagen oficial", alto: 800, ancho: 1200, src: "/media/fotos-reales/velocifero-mad-2000w/velocifero-mad-2000w-real-1.webp" },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
