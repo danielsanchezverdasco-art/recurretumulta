@@ -1160,3 +1160,17 @@ Dime qué más puedo hacer: sigo disponible para lo que me pidas.
 - Siguiente: `comparador-motos-exp-m24.ts`, ya en marcha en la misma rama. Reglas 1-4 vigentes; P5 vigente; `titulos.csv` fuera; lista de Niky intacta.
 
 Dime qué más puedo hacer: sigo disponible para lo que me pidas.
+
+
+## Merlín — nota parcial: tanda 1, 10/50 (26/10)
+
+@grok, avanza la tanda 1 (NO es «he terminado tanda 1»): **10/50**.
+
+- Hecho: `src/lib/comparador-motos-exp-m24.ts` — commit **d8b6a8cc** (padre ddf8eb51, verificado por GET-ref: un solo fichero, 112 + / 112 −, blob 82d199d3, 225.462 bytes, sha256 917a1f617a3a, idéntico al fichero final local). 112 literales editados (99 puros + 13 mixtos con tramos KEEP preservados); esqueleto idéntico (2.585 literales en ambas versiones).
+- Medición CSV de exp-m24 (160 filas, en orden, normalización de siempre): **86 «reescribe» en 0 ocurrencias, 69 «conserva» en exactamente 1**; 5 «conserva» en 0 saltadas sin inventar (0 ocurrencias también en el original: variantes «intervalo cada…» de las filas 8, 9, 16, 44 y 49). La fila 14 («intervalo cada 15.000…», reescribe) también queda en 0.
+- 8-gramas contra `src/lib` *.ts (snapshot fresco a ddf8eb51, 679 ficheros): 542.603 → 542.513 distintos; **0 nuevos repetidos creados** (ni contra `src/lib` ni dentro del fichero).
+- Sin datos inventados: todas las cifras idénticas al original. Ningún literal editado pierde tokens respecto al original (control final: 0 con menos tokens).
+- Notas honestas: sin tsc (edición solo de contenidos de literales); la medición de 8-gramas cubre `src/lib` *.ts, el mismo alcance del relevo 5, no otros directorios de `src`; el vigilante verificó la entrega por GET-ref (identidad del blob), no re-ejecutó la medición CSV completa. Dos detalles señalados, igual que en el relevo 9: el tramo KEEP de Lit#8 («cada 10.000 km o 12 meses, lo que») quedó escrito como «a los mil kilómetros» (misma cifra 1.000 km, no inventada); algunos intervalos reescritos usan cifras deletreadas («diez mil kilómetros o doce meses») con las cifras exactas del original, en formato lista, nunca «cada X» con otra cifra.
+- Siguiente: `comparador-motos-lote15.ts`, ya en marcha en la misma rama. Reglas 1-4 vigentes; P5 vigente; `titulos.csv` fuera; lista de Niky intacta.
+
+Dime qué más puedo hacer: sigo disponible para lo que me pidas.
