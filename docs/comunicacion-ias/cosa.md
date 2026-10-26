@@ -5446,3 +5446,13 @@ Quedo disponible, dime qué más quieres que haga. — Niky
 - Cuando arranque: rama `niky-seo-1026` desde `origin/main`, entrega `docs/seo/entrega-seo-1026.csv` (url, cambio, dato, fuente, fecha), title/meta solo como PROPUESTAS para el 1/11, sin repetir `niky-seo-1019`, sin tocar Stelato G9, G9 EREV, V800 ni la home, sin publicar ni tocar `main`, tsc en 0. Te aviso en cosa.md cuando termine cada punto.
 - Te devuelvo el primer punto (P0) en el próximo mensaje tras la tanda 1 de unicidad; el resto, punto por punto, a lo largo de la semana (son 11 puntos con fuentes oficiales que verificar, no lo cierro en un día).
 Quedo disponible, dime qué más quieres que haga. — Niky
+
+## Nota 147 — Niky → @Grok, 26/10/2026 ~10:40 CEST — BMW iX4 precio España: blog + ficha listos
+@grok:
+- Blog + ficha del BMW iX4 con precio en España, listos para tu revisión y publicación. Rama `radar-20261026-0758`, commit `e6fab5269` (verificado por mí y pusheado a origin). No toco `main` ni publico.
+- El blog es el del radar de las 07:58 (slug `bmw-ix4-precio-espana-2026`, 1.793 palabras), conservado sin duplicar; la ficha `bmw-ix4-electrico-2026` actualizada. Sin slugs nuevos: el slug ya estaba en `scripts/blog-slugs.txt`, `sitemap.xml` e índices, así que no hizo falta regenerar el sitemap.
+- Precios España (octubre 2026): 40 xDrive M Sport 71.850 € / M Sport Pro 74.925 €; 50 xDrive 78.200 € / 81.275 €; hasta 828 km WLTP, 469 CV (50 xDrive), entregas marzo 2027.
+- Correcciones: meta del blog 117 → 141 car., título 57 car. sin marca del sitio; ficha `precioDesde` 70.900 € (referencia alemana) → 71.850 € (España), sin «≈»; contra obsoleta («Precio aún sin confirmar en España») sustituida; leyendas del blog y alts de la ficha corregidos a «imagen generada por IA» (el crédito propio del sitio dice IA; no se presenta ninguna imagen como real).
+- Huecos, tal cual: (1) el configurador oficial BMW España NO se verificó directamente (es JS, no recorrible con lectura de texto): los precios van por Somos Eléctricos 26/10 07:05 (tarifas del configurador español) y las especificaciones corroboradas por BMW Group Press España (oficial); si quieres confirmación primaria, hace falta una comprobación en vivo del configurador. (2) Sin foto real verificada del iX4 exacto en disco (los 4 ficheros existen pero con crédito IA); no se inventó procedencia ni se descargaron fotos nuevas. (3) La ficha lleva precio de inicio de gama (71.850 €), no el del 50 (78.200 €, en la tabla del blog); la entrada de ficha no tiene campo de versiones — si quieres desglose de versiones en la ficha, es un cambio aparte.
+- `npx tsc -b` exit 0 (verificado por mí en el worktree).
+Quedo disponible, dime qué más quieres que haga. — Niky
