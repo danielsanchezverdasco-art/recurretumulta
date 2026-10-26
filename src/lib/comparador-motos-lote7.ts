@@ -67,7 +67,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://mpracing.es/10499-kove",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Toca taller cada 6.000 km o doce meses, según lo que antes ocurra",
+      intervalo: "Cada 6.000 km o cada 12 meses: el taller la espera cuando llegue lo primero",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -76,7 +76,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Bujía + filtro de aire + aceite + filtro de aceite + reglaje de válvulas (según km)",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía + reglaje de válvulas (según km)",
           costeAproxEur: 220,
         },
       ],
@@ -447,7 +447,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://vogespain.es/modelos/ds800-rally/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km, con la primera revisión a los 1.000 km",
+      intervalo: "El primer paso por taller es a los 1.000 km; después, cada 6.000 km",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -523,7 +523,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/voge/rr660s",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 6.000 km o doce meses; manda lo primero que llegue",
+      intervalo: "Manda lo primero que llegue: 6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -599,7 +599,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/cfmoto-1000mt-x-2026-prueba-opiniones/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Kilómetros: 6.000 | Plazo: doce meses | Criterio: lo primero que venza",
+      intervalo: "Kilómetros: 6.000 | Plazo: 12 meses | Criterio: lo primero que se cumpla",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -675,7 +675,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.canariasenmoto.com/noticias/todos-los-detalles-de-la-nueva-aventurera-cfmoto-250-dual-33782.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 5.000 km o doce meses; rige lo primero que venza",
+      intervalo: "Cada 5.000 km o 12 meses; el primero de los dos topes decide",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -684,7 +684,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + bujía + filtro de aire",
+          queSeCambia: "Aceite y su filtro, más filtro de aire y bujía",
           costeAproxEur: 180,
         },
       ],
@@ -760,7 +760,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Filtro de aceite + aceite + filtro de aire + bujías (según km)",
+          queSeCambia: "Aceite con su filtro + bujías + filtro de aire (según km)",
           costeAproxEur: 250,
         },
       ],
@@ -1210,7 +1210,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/cyclone-ra600-2026-prueba-opiniones/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o un año, lo que llegue antes",
+      intervalo: "5.000 km o 12 meses, según el límite que se alcance antes",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
