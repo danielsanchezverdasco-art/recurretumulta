@@ -67,10 +67,10 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo y limpiador específico para cadenas con retenes (o detergente neutro con cepillo suave).",
         "Engrasa con lubricante para cadenas deportivas, girando la rueda trasera para repartirlo de forma uniforme.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Con la moto en vertical, comprueba la tensión y ajústala según el manual del propietario.",
       ],
       trucos: [
-        "Revisa el nivel de aceite con la moto en vertical y el motor frío antes de cada salida.",
+        "Antes de cada salida, mira el aceite con la moto derecha y en frío.",
         "En uso de circuito, acorta los intervalos de cambio de aceite a la mitad.",
       ],
     },
@@ -111,7 +111,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     ],
     curiosidades: [
       "Comparte el motor bicilíndrico de 1.084 cc con la Africa Twin, adaptado para carretera",
-      "Honda ha vendido más de 300.000 motos con DCT en Europa desde 2010",
+      "Honda supera las 300.000 motos con DCT vendidas en Europa desde 2010",
       "Es la moto sport-touring más popular de Europa desde su lanzamiento en 2022",
     ],
     imagen: "/media/motos/honda-nt1100-2025-ficha-tecnica-precio-1.webp",
@@ -130,9 +130,9 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "honda-nt1100-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-30 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Aceite 10W-30 de norma JASO MA o MA2 más API SG o mejor",
       cadenaPasos: [
-        "Limpia la cadena con un trapo y limpiador específico para cadenas con retenes.",
+        "Limpia la cadena pasando un trapo con limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante de cadena, girando la rueda trasera para repartirlo.",
         "En la versión DCT, revisa además el filtro del circuito del doble embrague según el manual.",
       ],
@@ -164,7 +164,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     aprox: [],
     pros: [
       "La trail mito: 102 CV con entrega suave y par de 112 Nm desde muy abajo",
-      "IMU de 6 ejes con ABS en curva, control de tracción y anti-wheelie configurables",
+      "Centralita inercial de 6 ejes con ABS en curva, control de tracción y anti-wheelie configurables",
       "Llantas de 21\" y 18\" con neumáticos tubeless de serie: se repara un pinchazo en ruta",
       "DCT opcional que en campo funciona de maravilla: olvídate del embrague en trialeras",
       "Suspensiones Showa de largo recorrido (230/220 mm) que tragan con todo",
@@ -197,7 +197,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "honda-crf1100l-africa-twin-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-30 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Grado 10W-30 indicado JASO MA y MA2 junto a API SG o mejor",
       cadenaPasos: [
         "Tras cada salida por tierra, limpia la cadena con agua a baja presión y sécala antes de engrasar.",
         "Engrasa con lubricante de cadena off-road, más resistente al polvo.",
@@ -238,7 +238,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     ],
     contras: [
       "11.100 €: la nostalgia se paga, hay trails más baratas con similar potencia",
-      "Asiento a 850 mm: alta para pilotos de menos de 1,70 m",
+      "Asiento a 850 mm: alta para pilotos por debajo de 1,70 m",
       "Suspensiones Showa correctas pero sin regulación electrónica ni gran recorrido off-road",
       "El quickshifter es opcional, no de serie",
       "Depósito de 16,9 L: justo para una trail viajera (unos 390 km de autonomía)",
@@ -264,14 +264,14 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "honda-xl750-transalp-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-30 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Fluido 10W-30 con JASO MA/MA2 más API SG o más",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico y cepillo suave, sobre todo tras pistas de tierra.",
         "Engrasa con lubricante de cadena y reparte girando la rueda trasera.",
         "Comprueba la tensión con la moto en vertical según el manual.",
       ],
       trucos: [
-        "El filtro de aire va bajo el depósito: revisarlo es tarea de taller, no lo fuerces.",
+        "El filtro de aire queda bajo el depósito: revisarlo es trabajo de taller, no lo fuerces.",
         "Si la limitas a 35 kW para el A2, la deslimitación posterior la hace el concesionario oficial.",
       ],
     },
@@ -299,7 +299,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     pros: [
       "8.030 € con 92 CV: la naked media con mejor relación precio/potencia de 2025",
       "Motor de 755 cc con 75 Nm: empuja desde abajo como una moto mayor",
-      "Limitable a 35 kW: una de las mejores opciones para estrenar el A2",
+      "Limitable a 35 kW: de las mejores opciones para estrenar el A2",
       "Nuevo faro LED de doble proyector y TFT de 5\" con 3 modos + HSTC y anti-wheelie",
       "192 kg y asiento a 795 mm: ágil en ciudad y accesible para todos",
     ],
@@ -313,7 +313,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     curiosidades: [
       "El nombre Hornet nació en 1998 con la CB600F, una de las naked más míticas",
       "Su motor deriva del de la Transalp, con admisión Vortex Flow Duct propia",
-      "En 2026 llega la versión E-Clutch con embrague electrónico por 8.350 €",
+      "En 2026 llega la versión E-Clutch con embrague electrónico y un precio de 8.350 €",
     ],
     imagen: "/media/motos/honda-cb750-hornet-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -331,15 +331,15 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "honda-cb750-hornet-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-30 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Aceite 10W-30 especificado JASO MA/MA2 así como API SG o superior",
       cadenaPasos: [
-        "Limpia la cadena con un trapo y limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante de cadena, girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual del propietario.",
+        "Pasa un trapo con limpiador para cadenas con retenes por la cadena.",
+        "Engrasa con lubricante de cadena, haciendo girar la rueda trasera.",
+        "Mide la holgura de la cadena con la moto derecha y el manual a mano.",
       ],
       trucos: [
         "Consumo real de 4,3 l/100 km: con 15,2 L supera los 340 km de autonomía.",
-        "Revisa el nivel de aceite con la moto en vertical y el motor frío.",
+        "Mira el nivel de aceite en frío, con la moto derecha.",
       ],
     },
   },
@@ -378,7 +378,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "Seguro y mantenimiento a precio de superbike",
     ],
     curiosidades: [
-      "La Fireblade original de 1992 pesaba 185 kg en seco y cambió para siempre las deportivas",
+      "La Fireblade original de 1992, con 185 kg en seco, cambió las deportivas para siempre",
       "Su nombre rinde homenaje al apodo de la NSR500 de Freddie Spencer",
       "El motor de la versión SP comparte cotas con la RC213V de MotoGP",
     ],
@@ -398,15 +398,15 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "honda-cbr1000rr-r-fireblade-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-30 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Aceite 10W-30 exigido JASO MA o MA2 además de API SG o más",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes tras cada uso en circuito.",
         "Engrasa con lubricante de competición y reparte girando la rueda trasera.",
-        "Comprueba la tensión en frío con la moto en vertical según el manual.",
+        "Con la moto en vertical, mide la holgura de la cadena y compárala con el manual.",
       ],
       trucos: [
         "En uso de circuito, cambia aceite y filtro cada 2-3 tandas.",
-        "Revisa el nivel de refrigerante antes de cada salida: el motor trabaja muy caliente.",
+        "Revisa antes de cada salida el nivel de refrigerante: el motor va muy caliente.",
       ],
     },
   },
@@ -432,7 +432,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     aprox: [],
     pros: [
       "El único scooter adventure de verdad: 29 CV y chasis que aguanta pistas",
-      "Se conduce con el carnet B + 3 años de antigüedad",
+      "Se conduce con el carnet B + 3 años de permiso",
       "Smart Key, control de par HSVC y señal de frenada de emergencia de serie",
       "Parabrisas regulable en 4 posiciones y gran capacidad bajo el asiento",
       "TFT con conectividad Honda RoadSync para el móvil",
@@ -468,7 +468,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       aceiteTipo: "10W-30 (JASO MB, API SG o superior)",
       trucos: [
         "La correa del variador se revisa cada 12.000 km: pide al taller que la inspeccione.",
-        "Revisa la presión de los neumáticos cada 2 semanas: en scooter se nota muchísimo.",
+        "Revisa cada 2 semanas la presión de los neumáticos: en scooter se nota mucho.",
       ],
     },
   },
@@ -494,9 +494,9 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     aprox: [],
     pros: [
       "La custom japonesa con más carácter: 87 CV y 98 Nm del motor de la Africa Twin",
-      "Asiento a solo 700 mm: la custom grande más accesible para todos",
+      "Asiento de solo 700 mm: la custom grande más accesible de todas",
       "DCT opcional: cambia sola y tú a disfrutar del paisaje",
-      "Electrónica completa: 3 modos, control de tracción, anti-wheelie y control de crucero",
+      "Electrónica completa: 3 modos, control de tracción, anti-wheelie y crucero",
       "Estética bobber minimalista que enamora y admite mucha personalización",
     ],
     contras: [
@@ -507,8 +507,8 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "Protección aerodinámica nula",
     ],
     curiosidades: [
-      "Comparte el bicilíndrico de 1.084 cc con la Africa Twin, con reglajes propios",
-      "Es la custom más vendida de Honda en Europa",
+      "Comparte el bicilíndrico de 1.084 cc de la Africa Twin, con su propia puesta a punto",
+      "Es la custom de Honda más vendida en Europa",
       "Su diseño se inspira en las bobber californianas de los años 50",
     ],
     imagen: "/media/motos/honda-rebel-1100-2025-ficha-tecnica-precio-1.webp",
@@ -527,15 +527,15 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "honda-rebel-1100-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-30 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Grado 10W-30 exigido JASO MA o MA2 así como API SG o más",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes y un trapo.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Aplica lubricante a la cadena girando la rueda trasera.",
+        "Verifica la tensión de la cadena sobre el caballete, según el manual.",
       ],
       trucos: [
         "El escape bajo se ensucia mucho: límpialo con producto específico para cromados.",
-        "Revisa el nivel de aceite con la moto en vertical y el motor frío.",
+        "En frío, con la moto derecha, mira el nivel de aceite.",
       ],
     },
   },
@@ -561,7 +561,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     aprox: [],
     pros: [
       "El rey de los scooters de rueda alta: 28,8 CV y 134 km/h de punta",
-      "Se conduce con el carnet B + 3 años: el salto natural desde el SH125i",
+      "Se lleva con el carnet B + 3 años: el salto natural desde el SH125i",
       "172 kg: ágil en ciudad y estable en autovía",
       "Control de tracción HSTC, ABS de doble canal y Smart Key de serie",
       "Gran hueco bajo el asiento para un casco integral",
@@ -614,7 +614,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
         },
         {
           nombre: "Revisión / 24.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía + revisión de correa del variador",
+          queSeCambia: "Aceite y filtro de aceite, filtro de aire, bujía y revisión de la correa del variador",
           costeAproxEur: null,
         },
       ],
@@ -623,9 +623,9 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     },
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-30 (JASO MB, API SG o superior)",
+      aceiteTipo: "Grado 10W-30 norma JASO MB y API SG en adelante",
       trucos: [
-        "La correa del variador se revisa cada 12.000 km en el taller.",
+        "La transmisión por correa del variador se revisa cada 12.000 km en el taller.",
         "Mantén la presión de los neumáticos al día: en rueda alta se nota mucho el desgaste.",
       ],
     },
@@ -652,15 +652,15 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     aprox: [],
     pros: [
       "El GT de 350 más completo: 29 CV, parabrisas eléctrico y Smart Key",
-      "Se conduce con el carnet B + 3 años de antigüedad",
+      "Se puede llevar con el carnet B y 3 años de permiso.",
       "Parabrisas regulable eléctricamente: un lujo en su segmento",
-      "Hueco bajo el asiento para dos cascos integrales",
+      "Bajo el asiento caben dos cascos integrales",
       "TFT con Honda RoadSync: navegación y música desde el manillar",
     ],
     contras: [
       "6.465 €: de los 350 más caros",
       "186 kg: pesado en maniobras a baja velocidad",
-      "Asiento a 780 mm: algo alto para los más bajos",
+      "Asiento a 780 mm: algo alto para los de menor talla",
       "El control de tracción HSTC solo actúa con suavidad",
       "Consumo real superior a 3,3 l/100 km en uso mixto alegre",
     ],
@@ -685,9 +685,9 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "honda-forza-350-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-30 (JASO MB, API SG o superior)",
+      aceiteTipo: "Fluido 10W-30 JASO MB y API SG o superior",
       trucos: [
-        "La correa del variador se revisa cada 12.000 km en el taller.",
+        "Cada 12.000 km, la correa del variador se revisa en el taller.",
         "El parabrisas eléctrico: límpialo con paño suave para no rayar el mecanismo.",
       ],
     },
@@ -722,7 +722,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     contras: [
       "5.050 €: la naked 125 más cara del mercado",
       "Por ese precio hay 300 cc con más potencia",
-      "Asiento a 816 mm: algo alto para los más bajos",
+      "Asiento a 816 mm: algo alto para los de menor estatura",
       "El depósito de 10,1 L da para unos 400 km, justo para viajar",
       "Postura algo comprometida para trayectos largos",
     ],
@@ -747,15 +747,15 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "honda-cb125r-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 4.000 km o 12 meses",
-      aceiteTipo: "10W-30 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Grado 10W-30 especificado JASO MA o MA2 con API SG como mínimo",
       cadenaPasos: [
-        "Limpia la cadena con un trapo y limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Limpia la transmisión con un trapo y limpiador específico para retenes.",
+        "Engrasa la cadena con lubricante, girando la rueda trasera.",
+        "Deja la moto en vertical y comprueba la tensión de la cadena.",
       ],
       trucos: [
         "Revisa el nivel de aceite cada 1.000 km: los monocilíndricos pequeños consumen algo.",
-        "Mantén la presión de los neumáticos al día: se nota mucho en una 125.",
+        "Vigila la presión de los neumáticos: en una 125 se nota mucho.",
       ],
     },
   },
@@ -814,15 +814,15 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "honda-msx125-grom-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 4.000 km o 12 meses",
-      aceiteTipo: "10W-30 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Grado 10W-30 recomendado JASO MA y MA2 además de API SG o superior",
       cadenaPasos: [
-        "Limpia la cadena con un trapo y limpiador específico.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
+        "Limpia la cadena pasando un trapo y limpiador específico.",
+        "Lubrica la cadena girando la rueda trasera para repartir el producto.",
         "Comprueba la tensión según el manual: en motos pequeñas es crítico.",
       ],
       trucos: [
         "Cambia el aceite cada 4.000 km sin falta: el motor es pequeño y trabaja mucho.",
-        "Revisa la tensión de la cadena cada 1.000 km.",
+        "Cada 1.000 km, controla la tensión de la cadena.",
       ],
     },
   },
@@ -881,9 +881,9 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "honda-gold-wing-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-30 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Fluido 10W-30 con JASO MA o MA2 junto a API SG como mínimo",
       trucos: [
-        "Con 373 kg, revisa la presión de los neumáticos antes de cada viaje largo.",
+        "Con 373 kg, revisa antes de cada ruta larga la presión de los neumáticos.",
         "El DCT necesita aceite específico JASO MA: no vale cualquiera.",
       ],
     },
@@ -912,7 +912,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     pros: [
       "El tricilíndrico CP3 de 119 CV: el motor naked con más carácter del mercado",
       "Y-AMT: cambio automatizado opcional sin maneta de embrague",
-      "IMU de 6 ejes con ABS en curva, control de tracción y anti-wheelie",
+      "Control de tracción y anti-wheelie con IMU de 6 ejes y ABS en curva",
       "Limitable a 35 kW: apta para el A2",
       "193 kg y 825 mm de asiento: ágil y accesible",
     ],
@@ -947,12 +947,12 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Con la rueda trasera girando, aplica lubricante a la cadena.",
+        "Controla la holgura de la cadena en el caballete antes de salir.",
       ],
       trucos: [
         "El CP3 consume unos 5 l/100 km: con 14 L tienes 280 km de autonomía.",
-        "Revisa el nivel de aceite con la moto en vertical y el motor frío.",
+        "Comprueba el aceite en frío, con la moto en vertical.",
       ],
     },
   },
@@ -978,7 +978,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     aprox: [],
     pros: [
       "El CP4 de la R1 con 165,9 CV: la hyper naked más brutal de Yamaha",
-      "IMU de 6 ejes, ABS en curva, quickshifter y control de crucero",
+      "Quickshifter y control de crucero con IMU de 6 ejes y ABS en curva",
       "Chasis Deltabox de aluminio derivado de la YZF-R1",
       "Sonido crossplane inconfundible",
       "Versión SP con Öhlins electrónicas por 21.399 €",
@@ -992,7 +992,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     ],
     curiosidades: [
       "Su motor deriva directamente de la YZF-R1 de MotoGP",
-      "Es la naked más potente que Yamaha ha fabricado",
+      "Es la naked más potente fabricada por Yamaha",
       "La versión SP monta la suspensión electrónica Öhlins más avanzada",
     ],
     imagen: "/media/motos/yamaha-mt-10-2025-ficha-tecnica-precio-1.webp",
@@ -1011,11 +1011,11 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "yamaha-mt-10-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 10.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Grado 10W-40 de norma JASO MA o MA2 y API SG en adelante",
       cadenaPasos: [
-        "Limpia la cadena con limpiador específico para retenes tras cada salida exigente.",
+        "Limpia la cadena con limpiador para retenes tras cada salida intensa.",
         "Engrasa con lubricante de cadena de altas prestaciones.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Con la moto derecha, verifica la tensión de la cadena según el manual.",
       ],
       trucos: [
         "El CP4 es tragón: calcula 260 km de autonomía con los 17 L.",
@@ -1051,14 +1051,14 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "Precio contenido frente a las supersport de 600",
     ],
     contras: [
-      "73,4 CV saben a poco si vienes de una 600 tetracilíndrica",
+      "73,4 caballos saben a poco si vienes de una 600 tetracilíndrica",
       "Electrónica básica frente a la competencia (sin IMU)",
       "El quickshifter es opcional",
       "Postura deportiva: incómoda en ciudad",
       "Sin control de tracción en las primeras versiones",
     ],
     curiosidades: [
-      "Es la moto elegida para el Campeonato del Mundo Femenino de la FIM",
+      "Es la moto elegida para el Mundial Femenino de la FIM",
       "A partir de 2026, las deportivas medias como la R7 correrán en la nueva categoría Sportbike de WSBK",
       "Su nombre recupera la mítica YZF-R7 de 1999, una superbike de 500 unidades",
     ],
@@ -1078,15 +1078,15 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "yamaha-yzf-r7-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 10.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Grado 10W-40 con JASO MA/MA2 más API SG en adelante",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Engrasa la cadena mientras giras la rueda trasera a mano.",
+        "Mide la tensión de la cadena en vertical y en frío.",
       ],
       trucos: [
         "El CP2 es duro: con mantenimiento al día supera los 100.000 km.",
-        "Revisa la tensión de la cadena cada 1.000 km si haces circuito.",
+        "Si haces circuito, mide la holgura de la cadena cada 1.000 km.",
       ],
     },
   },
@@ -1112,7 +1112,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     aprox: [],
     pros: [
       "La trail que marcó tendencia: 73,4 CV, 208 kg y espíritu rally",
-      "Limitable a 35 kW: la trail grande más popular del A2",
+      "Limitable a 35 kW: la trail grande de mayor éxito en el A2",
       "TFT con conectividad MyRide y modos Sport y Explorer",
       "Control de tracción desconectable y ABS con 3 niveles",
       "Sencilla, dura y fiable: la favorita de los viajeros de verdad",
@@ -1126,7 +1126,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     ],
     curiosidades: [
       "Su nombre homenajea el desierto del Ténéré, escenario del París-Dakar",
-      "Es la trail media más vendida de Europa desde 2019",
+      "Es la trail media más vendida de Europa a partir de 2019",
       "La versión World Raid monta doble depósito delantero de 23 L",
     ],
     imagen: "/media/motos/yamaha-tenere-700-2025-ficha-tecnica-precio-1.webp",
@@ -1145,14 +1145,14 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "yamaha-tenere-700-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 10.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Aceite 10W-40 aconsejado JASO MA/MA2 además de API SG o más",
       cadenaPasos: [
-        "Tras cada salida por tierra, limpia la cadena con agua a baja presión y sécala.",
+        "Después de cada ruta por tierra, limpia la cadena con agua a baja presión y sécala.",
         "Engrasa con lubricante de cadena off-road.",
-        "Comprueba la tensión con la moto en vertical: en trail va algo más holgada.",
+        "Comprueba la tensión con la moto en vertical: en trail conviene dejarla algo más holgada.",
       ],
       trucos: [
-        "El filtro de aire se ensucia rápido en polvo: revísalo tras cada ruta.",
+        "El elemento de aire se ensucia rápido en polvo: revísalo tras cada ruta.",
         "Con 4,3 l/100 km y 16 L tienes casi 370 km de autonomía.",
       ],
     },
@@ -1179,7 +1179,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     aprox: [],
     pros: [
       "El GT de 300 más equilibrado: 28 CV, 183 kg y consumos de 3 l/100 km",
-      "Se conduce con el carnet B + 3 años",
+      "Se puede conducir con el carnet B + 3 años.",
       "Hueco para dos cascos integrales bajo el asiento",
       "Control de tracción, Smart Key y parabrisas regulable",
       "La versión Tech MAX (7.399 €) añade TFT de 4,2\" y navegador Garmin",
@@ -1192,7 +1192,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "La competencia taiwanesa ofrece más por menos",
     ],
     curiosidades: [
-      "La saga XMAX nació en 2006 y es el scooter deportivo de referencia",
+      "La saga XMAX nació en 2006 y es la referencia entre los scooters deportivos",
       "Su motor Blue Core es uno de los más eficientes del segmento",
       "El Tech MAX + añade puños y asiento calefactables",
     ],
@@ -1239,7 +1239,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: ["La naked 125 más tecnológica: TFT de 5\", control de tracción y válvulas variables", "Su VVA refuerza el par en baja y mantiene el empuje hasta arriba: los 15 CV se sienten llenos en toda la curva, no solo a altas vueltas", "Horquilla invertida de 41 mm y pinza radial", "Se puede llevar con el B y 3 años de antigüedad, y es la puerta de entrada a la familia Hyper Naked: estética y nombre de MT grande en formato A1", "Consumo de solo 2 l/100 km: 500 km con 10 L"],
+    pros: ["La naked 125 más tecnológica: TFT de 5\", control de tracción y válvulas variables", "Su VVA refuerza el par en baja y mantiene el empuje hasta arriba: los 15 CV se sienten llenos en toda la curva, no solo a altas vueltas", "Horquilla invertida de 41 mm y pinza radial", "Se puede llevar con el B y 3 años de permiso, y supone la puerta de entrada a la familia Hyper Naked: estética y nombre de MT grande en formato A1", "Consumo de solo 2 l/100 km: 500 km con 10 L"],
     contras: ["Sus 5.499 € son 449 € más que la Honda CB125R (5.050 €), la otra naked japonesa de 15 CV: el sobreprecio hay que justificarlo con el VVA y el control de tracción", "Pesa 142 kg en orden de marcha, 12 kg más que los 130 kg de la CB125R: la diferencia se nota al maniobrarla en parado y al meterla en el garaje", "El asiento queda a 810 mm del suelo sobre una carrocería ancha de masas adelantadas: quien no llegue bien apoyará de puntillas en cada semáforo", "Por 1.000 € más, la propia Yamaha vende la MT-03 de 321 cc y 42 CV para el A2 (6.499 €): esta 125 cuesta casi como una moto de otro carnet rindiendo 15 CV", "Su mecánica gemela, la XSR125 con el mismo motor VVA de 15 CV, sale por 5.099 €: son 400 € menos, eso sí, con cuadro LCD y horquilla de 37 mm en vez de TFT y 41 mm"],
     curiosidades: [
       "Su motor con distribución variable es único en las 125",
@@ -1262,15 +1262,15 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "yamaha-mt-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 6.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Aceite 10W-40 aconsejado JASO MA y MA2 con API SG o superior",
       cadenaPasos: [
-        "Limpia la cadena con un trapo y limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
+        "Limpia la cadena con un trapo humedecido en limpiador específico para retenes.",
+        "Aplica el lubricante por la cara interna de la cadena, girando la rueda trasera.",
         "Comprueba la tensión según el manual.",
       ],
       trucos: [
         "Con 2 l/100 km, revisa el aceite cada 3.000 km: los pequeños consumen algo.",
-        "Mantén la presión de los neumáticos al día.",
+        "Mantén al día la presión de los neumáticos.",
       ],
     },
   },
@@ -1296,20 +1296,20 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     aprox: [],
     pros: [
       "La sport-turismo definitiva: 119 CV del CP3 y 212 kg",
-      "TFT de 7\" con 5 modos de conducción y control de crucero de serie",
+      "TFT de 7\" con 5 modos de conducción y crucero de serie",
       "19 L de depósito: más de 350 km de autonomía",
       "Asiento regulable en altura (845-860 mm) sin herramientas",
       "Versiones GT (suspensión electrónica) y Y-AMT para todos los gustos",
     ],
     contras: [
       "12.799 € la base; la GT+ se dispara por encima de los 16.000 €",
-      "El quickshifter es opcional en la versión base",
+      "El quickshifter es opcional en la versión de acceso",
       "La conectividad MyRide es opcional, no de serie",
       "212 kg se notan en maniobras lentas",
       "El parabrisas, aunque mejorado, sigue sin ser perfecto",
     ],
     curiosidades: [
-      "La Tracer 9 nació como MT-09 Tracer en 2015",
+      "La Tracer 9 deriva de la MT-09 Tracer, lanzada en 2015",
       "Su pantalla TFT de 7\" es la más grande del segmento",
       "La versión GT monta suspensiones semiactivas KYB desarrolladas con la IMU",
     ],
@@ -1329,15 +1329,15 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "yamaha-tracer-9-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 10.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Fluido 10W-40 de norma JASO MA/MA2 y API SG como mínimo",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Gira la rueda trasera mientras aplicas lubricante a la cadena.",
+        "Antes de cada salida, comprueba la tensión de la cadena en vertical.",
       ],
       trucos: [
-        "Con 5 l/100 km y 19 L tienes más de 350 km de autonomía.",
-        "Revisa el nivel de aceite con la moto en vertical y el motor frío.",
+        "A 5 l/100 km y 19 L tienes más de 350 km de autonomía.",
+        "Mira el aceite en frío con la moto derecha.",
       ],
     },
   },
@@ -1377,7 +1377,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     ],
     curiosidades: [
       "La TMAX nació en 2001 y lleva 25 años liderando el segmento",
-      "Su chasis de doble viga de aluminio es de moto, no de scooter",
+      "Su chasis de doble viga de aluminio es de moto y no de scooter",
       "La edición 25.º Aniversario de 2025 cuesta 14.599 €",
     ],
     imagen: "/media/motos/yamaha-tmax-560-2025-ficha-tecnica-precio-1.webp",
@@ -1396,9 +1396,9 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "yamaha-tmax-560-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 10.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MB, API SG o superior)",
+      aceiteTipo: "Fluido 10W-40 JASO MB y API SG o superior",
       trucos: [
-        "La correa del variador se revisa cada 10.000 km en el taller.",
+        "La correa del variador pide revisión cada 10.000 km en el taller.",
         "Con 4,8 l/100 km y 15 L tienes unos 300 km de autonomía.",
       ],
     },
@@ -1433,14 +1433,14 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     contras: [
       "11.999 €: ha subido de precio en 2025",
       "El estilo retro no es para todos",
-      "El asiento es algo duro en viajes largos",
+      "El asiento es algo duro en rutas largas",
       "La versión GP (con carenado) cuesta más",
-      "El depósito de 14 L limita la autonomía a ~280 km",
+      "El depósito de 14 L deja la autonomía en ~280 km",
     ],
     curiosidades: [
       "Su diseño homenajea a la Yamaha XS650 de los 70",
       "La XSR900 GP recrea la estética de las GP de los 80",
-      "Comparte el motor CP3 con la MT-09 y la Tracer 9",
+      "Comparte el motor CP3 de la MT-09 y de la Tracer 9",
     ],
     imagen: "/media/motos/yamaha-xsr900-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -1458,15 +1458,15 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "yamaha-xsr900-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 10.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Aceite 10W-40 con JASO MA y MA2 y API SG en adelante",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Engrasa la cadena poco a poco, girando la rueda trasera.",
+        "Sobre el caballete, mide la holgura de la cadena.",
       ],
       trucos: [
-        "El CP3 es fiable: con mantenimiento al día supera los 100.000 km.",
-        "Revisa la tensión de la cadena cada 1.000 km.",
+        "El CP3 es fiable: con el mantenimiento al día, rebasa los cien mil kilómetros.",
+        "Controla cada 1.000 km la holgura de la cadena.",
       ],
     },
   },
@@ -1490,7 +1490,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: ["TFT en color de 5 pulgadas con vistas Street y Track: la segunda guarda tiempos de hasta 25 vueltas y permite ajustar el aviso de cambio", "Monocilíndrico con distribución variable VVA y 124,7 cc de cilindrada: declara 15 CV a 10.000 rpm y 11,5 Nm a 8.000 rpm, justo en el techo del A1", "Parte ciclo de deportiva grande: Deltabox de acero, basculante de aluminio, horquilla KYB invertida de 41 mm y disco delantero de 292 mm con pinza de anclaje radial", "Control de tracción desconectable, ABS de dos canales y embrague asistido antirrebote: un paquete de ayudas raro en una carenada de 125", "Homologa 2,1 l/100 km en su ficha oficial Euro5+: con 11 litros de depósito, la autonomía teórica supera los 500 km antes de repostar"],
+    pros: ["TFT en color de 5 pulgadas con vistas Street y Track: la segunda guarda tiempos de hasta 25 vueltas y permite ajustar el aviso de cambio", "Monocilíndrico con distribución variable VVA y 124,7 cc: declara 15 CV a 10.000 rpm, con 11,5 Nm a 8.000 rpm, justo en el techo del A1", "Parte ciclo de deportiva grande: Deltabox de acero, basculante de aluminio, horquilla KYB invertida de 41 mm y disco delantero de 292 mm con pinza de anclaje radial", "Control de tracción desconectable, ABS de dos canales y embrague asistido antirrebote: un paquete de ayudas raro en una carenada de 125", "Homologa 2,1 l/100 km en su ficha oficial Euro5+: con 11 litros de depósito, la autonomía teórica supera los 500 km antes de repostar"],
     contras: ["Precio en lo alto del segmento: sus 5.899 € superan en 400 € a la MT-125, su hermana naked con la misma base mecánica", "Maniobrar a pulso sus 144 kg cuesta más que mover una Honda CB125R, que declara 130 kg con la misma potencia máxima permitida", "Ergonomía de circuito aplicada al día a día: semimanillares bajos y postura inclinada cargan las muñecas en atascos, y el pasajero va en un asiento pensado para trayectos breves", "El quickshifter no viene montado de fábrica: la moto trae la preinstalación, pero el cambio rápido se paga aparte como accesorio", "Asiento a 820 mm según la ficha oficial de Yamaha, con la estrechez propia de una deportiva: quien mida poco apoyará con dificultad en cada parada"],
     curiosidades: ["Nació en 2008 y tardó solo seis años en superar las 45.000 unidades vendidas, cifra que ya recogía la crónica de Visordown de la versión 2014", "La generación vigente es la cuarta: se estrenó en 2023 y la unidad de 2025 se adapta a la Euro5+ manteniendo esa base", "El neumático trasero creció con los años: las primeras R125 montaban un 130/70-17 y la medida de serie pasó después a 140/70-17"],
     imagen: "/media/yamaha-yzf-r125-2025-ficha-tecnica-precio-1.webp",
@@ -1524,19 +1524,19 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Revisión / 6.000 km",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general",
+          queSeCambia: "Aceite 10W-40, filtro de aceite nuevo e inspección general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión / 12.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
+          queSeCambia: "Aceite nuevo, filtro de aceite, filtro de aire y bujía",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
       fuente: "Manual del propietario Yamaha YZF-R125 (intervalo 6.000 km / 12 meses)",
     },
-    mantenimientoDIY: {"aceiteTipo": "10W-40 (JASO MA/MA2, API SG o superior)", "cadenaPasos": ["Apaga el motor y deja la transmisión en punto muerto; limpia la cadena de esta R125 pasando un trapo con limpiador apto para retenes por todo el ramal inferior", "Aplica el lubricante por la cara interna girando despacio la rueda trasera con la mano, sin acercar los dedos a la corona de 48 dientes", "Verifica el juego de la cadena siguiendo la medición que indica el manual del propietario para este modelo, sin dejarla más floja ni más apretada"], "intervaloMantenimiento": "Cada 6.000 km o 12 meses", "trucos": ["Vigila el nivel de aceite con frecuencia: el cárter de la R125 solo alberga 1,15 litros, así que una bajada pequeña ya supone mucho porcentaje", "Comprueba en frío las presiones de los Michelin Pilot Street, 100/80-17 delante y 140/70-17 detrás, porque la agilidad de esta deportiva se pierde enseguida si ruedan bajos"]},
+    mantenimientoDIY: {"aceiteTipo": "Viscosidad 10W-40 con JASO MA y MA2 conforme a API SG en adelante", "cadenaPasos": ["Apaga el motor y deja la transmisión en punto muerto; limpia la cadena de esta R125 pasando un trapo con limpiador apto para retenes por todo el ramal inferior", "Aplica el lubricante por la cara interna girando despacio la rueda trasera con la mano, sin acercar los dedos a la corona de 48 dientes", "Verifica el juego de la cadena siguiendo la medición que indica el manual del propietario para este modelo, sin dejarla más floja ni más apretada"], "intervaloMantenimiento": "Cada 6.000 km o 12 meses", "trucos": ["Vigila el nivel de aceite con frecuencia: el cárter de la R125 solo alberga 1,15 litros, así que una bajada pequeña ya supone mucho porcentaje", "Comprueba en frío las presiones de los Michelin Pilot Street, 100/80-17 delante y 140/70-17 detrás, porque la agilidad de esta deportiva se pierde enseguida si ruedan bajos"]},
   },
   {
     id: "yamaha-xsr700-2025-ficha-tecnica-precio",
@@ -1573,7 +1573,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "El faro redondo alumbra menos que los LED modernos",
     ],
     curiosidades: [
-      "Su diseño homenajea a la Yamaha XS650 de 1968",
+      "Su diseño homenajea a la Yamaha XS650 del año 1968",
       "La gama Faster Sons invita a personalizarla",
       "La XSR700 Legacy añade estilo scrambler con llantas doradas",
     ],
@@ -1593,14 +1593,14 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "yamaha-xsr700-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 10.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Lubricante 10W-40 especificado JASO MA y MA2 y API SG o más",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Reparte lubricante por la cadena girando despacio la rueda trasera.",
+        "Revisa la holgura de la cadena en vertical, como indica el manual.",
       ],
       trucos: [
-        "El CP2 es duro: con mantenimiento al día supera los 100.000 km.",
+        "El CP2 aguanta: con el mantenimiento al día pasa de los 100.000 km.",
         "Con 4,3 l/100 km y 14 L tienes más de 300 km de autonomía.",
       ],
     },
@@ -1660,14 +1660,14 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "yamaha-tenere-700-world-raid-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 10.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Viscosidad 10W-40 de norma JASO MA y MA2 con API SG en adelante",
       cadenaPasos: [
-        "Tras cada salida por tierra, limpia la cadena con agua a baja presión y sécala.",
+        "Tras cada salida campera, aclara la cadena con agua a baja presión y sécala.",
         "Engrasa con lubricante de cadena off-road.",
-        "Comprueba la tensión con la moto en vertical: en trail va algo más holgada.",
+        "Con la moto en vertical, comprueba la tensión: en trail va algo más suelta.",
       ],
       trucos: [
-        "El filtro de aire se ensucia rápido en polvo: revísalo tras cada ruta.",
+        "En polvo, el filtro de aire se colmata rápido: revísalo tras cada ruta.",
         "Con 23 L y 4,5 l/100 km superas los 500 km de autonomía.",
       ],
     },
@@ -1700,11 +1700,11 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "15 L de depósito: más de 300 km de autonomía",
     ],
     contras: [
-      "68 CV saben a poco si vienes de una 600",
+      "68 CV se quedan cortos si vienes de una 600",
       "Suspensiones simples para el uso deportivo",
       "El quickshifter es opcional",
       "8.625 €: la competencia aprieta en precio",
-      "El asiento es algo duro en viajes largos",
+      "El asiento peca de duro en viajes largos",
     ],
     curiosidades: [
       "Es la sport-turismo media más vendida de Europa",
@@ -1727,15 +1727,15 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-ninja-650-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Lubricante 10W-40 aconsejado JASO MA/MA2 junto a API SG o mejor",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Aplica lubricante en la cadena y gira la rueda trasera para extenderlo.",
+        "Comprueba que la holgura de la cadena sea la del manual, con la moto en vertical.",
       ],
       trucos: [
-        "El bicilíndrico de 649 cc es duro: con mantenimiento al día supera los 100.000 km.",
-        "Revisa la tensión de la cadena cada 1.000 km.",
+        "El bicilíndrico de 649 cc es duro: con mantenimiento al día supera los cien mil kilómetros.",
+        "Mide la holgura de la cadena al cumplir 1.000 km.",
       ],
     },
   },
@@ -1794,11 +1794,11 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-ninja-zx-10r-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Aceite 10W-40 aconsejado JASO MA/MA2 y API SG o mejor",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Engrasa la cadena haciendo girar la rueda trasera con la mano.",
+        "Mide la holgura de la cadena en vertical, sin carga y según el manual.",
       ],
       trucos: [
         "Si haces circuito, cambia el aceite cada 2 tandas.",
@@ -1843,7 +1843,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     curiosidades: [
       "Sustituyó a la mítica Ninja 400 en 2024",
       "Es la deportiva A2 más vendida de Europa",
-      "Su motor de 451 cc es nuevo, no un 400 recortado",
+      "Su motor de 451 cc es de nuevo desarrollo, no un 400 recortado",
     ],
     imagen: "/media/motos/kawasaki-ninja-500-2026-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -1861,15 +1861,15 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-ninja-500-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "10W-40 exigido JASO MA/MA2 conforme a API SG o de grado superior",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Lubrica la cadena con el producto, girando la rueda trasera.",
+        "Verifica la holgura de la cadena en frío y según el manual, con la moto derecha.",
       ],
       trucos: [
         "El bicilíndrico de 451 cc es nuevo y muy fiable.",
-        "Con 3,8 l/100 km y 14 L tienes más de 350 km de autonomía.",
+        "Con 3,8 l/100 km y un depósito de 14 L, la autonomía pasa de 350 km.",
       ],
     },
   },
@@ -1923,7 +1923,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     fuenteNombre: "motofichas.com",
     fuenteUrl: "https://www.motofichas.com/marcas/kawasaki/z500-se-2025",
     analisisSlug: "kawasaki-z500-2025-ficha-tecnica-precio",
-    mantenimientoDIY: {"intervaloMantenimiento": "En esta Z500 las revisiones caen cada 12.000 km o, como muy tarde, a los 12 meses; la holgura de válvulas se comprueba a los 24.000 km", "aceiteTipo": "Aceite 10W-40 con norma JASO MA o MA2 y clasificación API SG en adelante, el especificado para este bicilíndrico de 451 cc", "cadenaPasos": ["Con la Z500 sobre el caballete, rocía limpiador apto para cadenas con retenes por la cara interna del ramal inferior y deja que ablande la grasa vieja.", "Gira la rueda trasera a mano aplicando lubricante específico entre eslabones, con cuidado de no salpicar el neumático 150/60-17.", "Ajusta la tensión en el punto medio del ramal según el manual de esta unidad, ni floja que latiguee ni tan tirante que fuerce el piñón de 14 dientes."], "trucos": ["Homologa 3,8 l/100 km y, con un depósito de 14 litros, permite planificar las paradas cada 300 km sin apurar la reserva", "Usa el registro de rutas de la app Rideology como libro de mantenimiento casero: anota ahí kilometraje y fecha de cada engrase de cadena."]},
+    mantenimientoDIY: {"intervaloMantenimiento": "En esta Z500 las revisiones caen cada 12.000 km o, como muy tarde, a los 12 meses; la holgura de válvulas se comprueba a los 24.000 km", "aceiteTipo": "Aceite 10W-40 con norma JASO MA o MA2 y clasificación API SG en adelante, el especificado para este bicilíndrico de 451 cc", "cadenaPasos": ["Con la Z500 sobre el caballete, rocía limpiador apto para cadenas con retenes por la cara interna del ramal inferior y deja que ablande la grasa vieja.", "Gira la rueda trasera a mano aplicando lubricante específico entre eslabones, con cuidado de no salpicar el neumático 150/60-17.", "Ajusta la tensión en la mitad del ramal según el manual de esta unidad, sin dejarla floja ni tan tirante que fuerce el piñón de 14 dientes."], "trucos": ["Homologa 3,8 l/100 km y, con un depósito de 14 litros, permite planificar las paradas cada 300 km sin apurar la reserva", "Usa el registro de rutas de la app Rideology como libro de mantenimiento casero: anota ahí kilometraje y fecha de cada engrase de cadena."]},
   },
   {
     id: "kawasaki-ninja-zx-6r-2025-ficha-tecnica-precio",
@@ -1960,7 +1960,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "La competencia de 1000 cc está cerca en precio",
     ],
     curiosidades: [
-      "Su motor de 636 cc es único: las demás 600 son de 599 cc",
+      "Su motor de 636 cc es único: el resto de 600 son de 599 cc",
       "Ha ganado el Mundial de Supersport en varias ocasiones",
       "La versión 2026 sube a 13.395 €",
     ],
@@ -1980,15 +1980,15 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-ninja-zx-6r-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Viscosidad 10W-40 prescrito JASO MA/MA2 más API SG y superiores",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Echa lubricante a la cadena mientras giras la rueda trasera.",
+        "Con la moto en vertical y sin carga, comprueba la tensión de la cadena.",
       ],
       trucos: [
-        "Si haces circuito, cambia el aceite cada 2 tandas.",
-        "Revisa la tensión de la cadena antes de cada salida.",
+        "Si ruedas en circuito, cambia el aceite cada 2 tandas.",
+        "Antes de cada salida, revisa la tensión de la cadena.",
       ],
     },
   },
@@ -2015,13 +2015,13 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     pros: [
       "La única tetracilíndrica de 400: 77 CV que suben a 16.000 rpm",
       "Sonido y tacto de superbike en formato A2",
-      "Limitable a 35 kW para el carnet A2",
+      "Limitable a 35 kW para el A2",
       "Electrónica completa: KTRC, quickshifter, modos",
       "La ZX-4RR (10.300 €) añade suspensiones Showa",
     ],
     contras: [
       "9.500 €: cara para una 400",
-      "Hay que llevarla alta de vueltas para que ande",
+      "Toca llevarla alta de vueltas para que responda.",
       "188 kg: pesada para su cilindrada",
       "El seguro de una tetracilíndrica es caro",
       "Postura deportiva: incómoda en ciudad",
@@ -2047,15 +2047,15 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-ninja-zx-4r-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Fluido 10W-40 JASO MA/MA2 con API SG o de grado superior",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Con la rueda trasera en movimiento, engrasa la cadena.",
+        "Controla que la tensión de la cadena esté en el margen del manual, con la moto en vertical.",
       ],
       trucos: [
-        "Si haces circuito, cambia el aceite cada 2 tandas.",
-        "Revisa la tensión de la cadena antes de cada salida.",
+        "En uso de circuito, cambia el aceite cada dos tandas.",
+        "Comprueba la tensión de la cadena antes de cada salida.",
       ],
     },
   },
@@ -2081,7 +2081,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     aprox: [],
     pros: [
       "La custom japonesa moderna: 61 CV y motor bicilíndrico",
-      "Limitable a 35 kW para el carnet A2",
+      "Se puede limitar a 35 kW para el carnet A2",
       "Sistema ERGO-FIT: se adapta a cualquier talla",
       "Asiento bajo (705 mm): ideal para los bajos",
       "La versión Café añade cúpula y acabados exclusivos",
@@ -2094,7 +2094,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "8.450 €: la competencia custom aprieta",
     ],
     curiosidades: [
-      "Su motor deriva del de la Ninja 650, recalibrado",
+      "Su motor procede del de la Ninja 650, con otra calibración",
       "El sistema ERGO-FIT permite ajustar manillar, asiento y estriberas",
       "La Vulcan S Café homenajea a las café racer",
     ],
@@ -2114,15 +2114,15 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-vulcan-s-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Fluido 10W-40 especificado JASO MA o MA2 y API SG o mejor",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Aplica lubricante a la cadena y haz girar la rueda trasera.",
+        "Deja la moto derecha y mide la tensión de la cadena antes de salir.",
       ],
       trucos: [
-        "El bicilíndrico de 649 cc es duro: con mantenimiento al día supera los 100.000 km.",
-        "Revisa la tensión de la cadena cada 1.000 km.",
+        "El bicilíndrico de 649 cc aguanta: con el mantenimiento al día, supera los 100.000 km.",
+        "Con 1.000 km recorridos, revisa la holgura de la cadena.",
       ],
     },
   },
@@ -2148,7 +2148,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     aprox: [],
     pros: [
       "Neo-retro con base Z650: 68 CV y 187 kg",
-      "Limitable a 35 kW para el carnet A2",
+      "Limitación a 35 kW disponible para el carnet A2",
       "Estilo Z de los 70 con faro redondo",
       "TFT redondo con conectividad Rideology",
       "Control de tracción KTRC de serie",
@@ -2162,7 +2162,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     ],
     curiosidades: [
       "Homenajea a la mítica Kawasaki Z650 de 1976",
-      "Comparte motor con la Ninja 650 y la Vulcan S",
+      "Comparte motor con la Ninja 650 y con la Vulcan S",
       "Su faro redondo LED es uno de los más bonitos del segmento",
     ],
     imagen: "/media/motos/kawasaki-z650rs-2025-ficha-tecnica-precio-1.webp",
@@ -2181,14 +2181,14 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-z650rs-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Grado 10W-40 prescrito JASO MA/MA2 así como API SG como mínimo",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Engrasa la cadena girando la rueda trasera despacio.",
+        "Comprueba la holgura de la cadena en vertical, con el manual abierto.",
       ],
       trucos: [
-        "El bicilíndrico de 649 cc es duro: con mantenimiento al día supera los 100.000 km.",
+        "Con el mantenimiento al día, el bicilíndrico de 649 cc supera los 100.000 km sin problemas.",
         "Con 4,5 l/100 km y 12 L tienes más de 260 km de autonomía.",
       ],
     },
@@ -2229,7 +2229,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     ],
     curiosidades: [
       "Recupera el nombre de la mítica Eliminator de los 80",
-      "Su asiento a 735 mm es de los más bajos del mercado",
+      "Su asiento a 735 mm está entre los más bajos del mercado",
       "Comparte motor con la Ninja 500 y la Z500",
     ],
     imagen: "/media/motos/kawasaki-eliminator-500-2025-ficha-tecnica-precio-1.webp",
@@ -2248,15 +2248,15 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-eliminator-500-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Lubricante 10W-40 con JASO MA o MA2 conforme a API SG o mejor",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Rocía lubricante sobre la cadena girando la rueda trasera.",
+        "Mide la tensión de la cadena en vertical, como pide el manual del modelo.",
       ],
       trucos: [
         "Con 3,8 l/100 km y 13 L tienes más de 340 km de autonomía.",
-        "Revisa la tensión de la cadena cada 1.000 km.",
+        "Cada 1.000 km, mide la holgura de la cadena.",
       ],
     },
   },
@@ -2315,15 +2315,15 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-ninja-1000sx-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Viscosidad 10W-40 exigido JASO MA/MA2 así como API SG en adelante",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Lubrica la cadena girando la rueda trasera con cuidado.",
+        "Antes de salir, verifica la tensión de la cadena.",
       ],
       trucos: [
-        "Con 5,7 l/100 km y 19 L tienes más de 330 km de autonomía.",
-        "Revisa la tensión de la cadena cada 1.000 km.",
+        "Con 5,7 l/100 km y 19 L, la autonomía supera los 330 km.",
+        "Revisa la holgura de la cadena al llegar a 1.000 km.",
       ],
     },
   },
@@ -2382,15 +2382,15 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-ninja-h2-sx-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Lubricante 10W-40 prescrito JASO MA y MA2 con API SG y superiores",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Engrasa la cadena por su cara interna, girando la rueda trasera.",
+        "Con la moto en vertical, controla la holgura de la cadena y ajústala si hace falta.",
       ],
       trucos: [
         "El compresor exige un mantenimiento escrupuloso del filtro de aire.",
-        "Revisa la tensión de la cadena cada 1.000 km.",
+        "Al llegar a 1.000 km, revisa la holgura de la cadena.",
       ],
     },
   },
@@ -2451,11 +2451,11 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-gsx-8r-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Fluido 10W-40 con JASO MA y MA2 así como API SG o de grado superior",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Aplica el lubricante a la cadena con la rueda girando.",
+        "Revisa que la cadena tenga la holgura del manual, con la moto en vertical.",
       ],
       trucos: [
         "El quickshifter agradece una cadena bien tensada y engrasada.",
@@ -2489,7 +2489,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "Electrónica completa de serie: quickshifter bidireccional, modos SDMS y control de tracción.",
       "Postura naked cómoda y manillar ancho: perfecta para el día a día.",
       "Precio de 8.199 €, muy competitivo frente a sus rivales japonesas y europeas.",
-      "Limitable a 35 kW para el carnet A2 sin perder carácter.",
+      "Limitable a 35 kW para el A2 sin perder carácter.",
     ],
     contras: [
       "Sin carenado: a ritmo de autovía la protección aerodinámica es nula.",
@@ -2500,7 +2500,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "Sin conectividad de serie en la instrumentación TFT.",
     ],
     curiosidades: [
-      "El motor de 776 cc equipa también a la V-Strom 800: un mismo corazón para tres motos.",
+      "El motor de 776 cc equipa también a la V-Strom 800: un corazón para tres motos.",
       "Su nombre rescata la denominación GSX-S estrenada en 2015 con la familia 1000.",
       "El quickshifter de serie es una rareza en las naked medias japonesas.",
     ],
@@ -2520,11 +2520,11 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-gsx-8s-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Viscosidad 10W-40 recomendado JASO MA o MA2 con API SG o superior",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Girando la rueda trasera, aplica lubricante a toda la cadena.",
+        "Mide, con la moto derecha, la holgura de la cadena y cotejala con las cifras del manual.",
       ],
       trucos: [
         "El bicilíndrico calienta: revisa el nivel de refrigerante cada 3.000 km.",
@@ -2553,7 +2553,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Tetracilíndrico de 999 cc con 152 CV derivado de la GSX-R1000: prestaciones de superbike.",
+      "Tetracilíndrico de 999 cc y 152 CV derivado de la GSX-R1000, con prestaciones de superbike.",
       "106 Nm de par con una entrega muy llena en medios: no hay que buscar el corte.",
       "Electrónica S.I.R.S. completa: control de tracción, modos de potencia y quickshifter.",
       "Chasis de doble viga de aluminio ágil pese a sus 214 kg.",
@@ -2569,7 +2569,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "El peso se nota en parado y maniobras a baja velocidad.",
     ],
     curiosidades: [
-      "El motor desciende directamente de la GSX-R1000 K5 de 2005, la 'gixxer' mítica.",
+      "El motor viene directamente de la GSX-R1000 K5 de 2005, la mítica 'gixxer'.",
       "Comparte la base mecánica con la Katana de estilo retro ochentero.",
       "En 2021 recibió la mayor actualización de su historia: electrónica, motor y estética.",
     ],
@@ -2589,11 +2589,11 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-gsx-s1000-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Aceite 10W-40 aconsejado JASO MA o MA2 más API SG como mínimo",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Engrasa la cadena con lubricante específico, girando la rueda trasera.",
+        "Comprueba la tensión de la cadena con la moto en vertical y ajústala según el manual.",
       ],
       trucos: [
         "Con 152 CV, el neumático trasero pide revisión de presiones cada 500 km.",
@@ -2627,7 +2627,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "Modo Gravel en el control de tracción y ABS desconectable en la rueda trasera.",
       "Depósito de 20 litros: autonomía real para viajar.",
       "Asiento a 855 mm y ergonomía pensada para largas distancias.",
-      "Precio muy competitivo frente a las trail medias europeas.",
+      "Precio muy competitivo frente a otras trail medias europeas.",
     ],
     contras: [
       "230 kg en orden de marcha: en campo exige físico y experiencia.",
@@ -2640,7 +2640,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     curiosidades: [
       "La sigla DE significa Dual Explorer: la más campera de las V-Strom 800.",
       "Comparte motor con las GSX-8S y GSX-8R, pero con puesta a punto trail.",
-      "La familia V-Strom nació en 2002 y es la trail más longeva de Suzuki.",
+      "La familia V-Strom nació en 2002: es la trail más longeva de Suzuki.",
     ],
     imagen: "/media/motos/suzuki-v-strom-800de-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -2658,10 +2658,10 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-v-strom-800de-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Lubricante 10W-40 recomendado JASO MA y MA2 más API SG o de grado superior",
       cadenaPasos: [
         "En uso off-road, limpia y engrasa la cadena tras cada salida de campo.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Con la moto en vertical, mide la tensión de la cadena y déjala en su punto.",
         "Revisa que los retenes no tengan barro incrustado.",
       ],
       trucos: [
@@ -2704,7 +2704,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "Suspensiones básicas sin grandes ajustes.",
       "Electrónica mínima: sin modos de conducción ni IMU.",
       "La instrumentación LCD se queda anticuada frente a las TFT rivales.",
-      "El parabrisas genera turbulencias según la talla del piloto.",
+      "El parabrisas genera turbulencias según la altura del piloto.",
     ],
     curiosidades: [
       "El motor en V a 90 grados deriva de la mítica SV650 de 1999.",
@@ -2727,11 +2727,11 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-v-strom-650-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Viscosidad 10W-40 exigido JASO MA/MA2 con API SG o más",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Reparte el lubricante por la cadena girando la rueda trasera.",
+        "Verifica la holgura de la cadena sin peso encima y con la moto en vertical.",
       ],
       trucos: [
         "El V-twin es duro: respeta los intervalos de reglaje de válvulas del manual.",
@@ -2778,7 +2778,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     curiosidades: [
       "Deriva directamente de la GSX-R1000 en diseño: la 'gixxer' en miniatura.",
       "Es la puerta de entrada a la saga GSX-R, que nació en 1985.",
-      "Con el carnet B de más de 3 años se puede conducir sin sacarse el A1.",
+      "Con el carnet B de más de 3 años se puede llevar sin sacarse el A1.",
     ],
     imagen: "/media/motos/suzuki-gsx-r125-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -2796,15 +2796,15 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-gsx-r125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 6.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Grado 10W-40 aconsejado JASO MA/MA2 con API SG como mínimo",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Aplica lubricante de cadena girando la rueda trasera a mano.",
+        "Antes de salir, mide en vertical la holgura de la cadena.",
       ],
       trucos: [
         "En las 125 el intervalo de aceite es más corto: no lo estires.",
-        "Revisa la presión de los neumáticos cada dos semanas.",
+        "Controla la presión de los neumáticos cada dos semanas.",
       ],
     },
   },
@@ -2865,10 +2865,10 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-dr-z4sm-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 6.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Viscosidad 10W-40 exigido JASO MA o MA2 y API SG y superiores",
       cadenaPasos: [
         "En uso supermotard, limpia y engrasa la cadena cada 500 km.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Controla la tensión de la cadena en posición vertical, según indica el manual.",
         "Vigila el desgaste del kit de arrastre: el mono castiga la cadena.",
       ],
       trucos: [
@@ -2915,8 +2915,8 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     ],
     curiosidades: [
       "El nombre Address lleva en el catálogo Suzuki desde los años 80.",
-      "Su consumo de 1,9 l/100 km es de los más bajos de su categoría.",
-      "En 2026 se renovó con faro LED en forma de U y más hueco bajo el asiento.",
+      "Su consumo de 1,9 l/100 km está entre los más bajos de su categoría.",
+      "En 2026 se renovó con un faro LED en forma de U y mayor hueco bajo el asiento.",
     ],
     imagen: "/media/motos/suzuki-address-125-2026-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -2934,7 +2934,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-address-125-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 4.000 km o 12 meses",
-      aceiteTipo: "10W-30 (JASO MB, API SG o superior)",
+      aceiteTipo: "Grado 10W-30 aconsejado JASO MB además de API SG o más",
       trucos: [
         "Revisa la correa del variador según el plan del manual.",
         "Con tan poco consumo, el depósito cunde: aun así no apures la reserva.",
@@ -2963,7 +2963,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "15 CV al límite del A1 con solo 133 kg: la naked 125 más ligera de las japonesas.",
+      "15 CV al límite del A1 con apenas 133 kg: la naked 125 más ligera entre las japonesas.",
       "Motor DOHC de 124,4 cc derivado de la GSX-R125: estira con alegría.",
       "Precio de 3.699 €: naked japonesa a precio de 125 generalista.",
       "ABS Bosch de serie y discos lobulados.",
@@ -2980,7 +2980,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     ],
     curiosidades: [
       "Es la versión naked de la GSX-R125: comparten motor y chasis.",
-      "Con el carnet B de más de 3 años se puede conducir.",
+      "Con el carnet B de más de 3 años se puede llevar.",
       "En 2025 recibió la homologación Euro5+ sin perder prestaciones.",
     ],
     imagen: "/media/motos/suzuki-gsx-s125-2025-ficha-tecnica-precio-1.webp",
@@ -2999,11 +2999,11 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-gsx-s125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 6.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Viscosidad 10W-40 exigido JASO MA/MA2 junto a API SG en adelante",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Engrasa la cadena y mueve la rueda trasera para repartir el lubricante.",
+        "Deja la moto en vertical y ajusta la holgura de la cadena.",
       ],
       trucos: [
         "En las 125 el aceite se degrada antes: respeta los 6.000 km.",
@@ -3033,7 +3033,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     aprox: [],
     pros: [
       "Diseño neo-retro ochentero único: la moto con más personalidad del segmento.",
-      "Motor de 999 cc con 152 CV derivado de la GSX-R1000 K5.",
+      "Motor de 999 cc y 152 CV derivado de la GSX-R1000 K5.",
       "Electrónica completa: tracción, modos, quickshifter y embrague antirrebote.",
       "Horquilla KYB con acabado dorado y frenos de nivel.",
       "Pantalla LCD a color con interfaz específica del modelo.",
@@ -3042,14 +3042,14 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     contras: [
       "16.315 €: cara frente a la GSX-S1000 con la misma base.",
       "215 kg: no es ligera.",
-      "El faro cuadrado divide opiniones: o la amas o la odias.",
+      "El faro cuadrado divide opiniones: o la amas o la detestas.",
       "Postura algo cargada para una neo-retro.",
       "El pasajero va encajado.",
       "Consumo alto si disfrutas de los 152 CV.",
     ],
     curiosidades: [
       "La Katana original de 1981 fue diseñada por el estudio alemán Target Design.",
-      "Su nombre viene de la espada samurái: filo, precisión y corte limpio.",
+      "Su nombre remite a la espada samurái: filo, precisión y corte limpio.",
       "Suzuki la resucitó en 2019 tras casi dos décadas de ausencia.",
     ],
     imagen: "/media/motos/suzuki-katana-2025-ficha-tecnica-precio-1.webp",
@@ -3068,14 +3068,14 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-katana-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Fluido 10W-40 indicado JASO MA/MA2 con API SG o mejor",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Lubrica la cadena con lubricante, girando despacio la rueda trasera.",
+        "Comprueba la tensión de la cadena en frío, con la moto en vertical y sin carga.",
       ],
       trucos: [
-        "El motor K5 es duro: respeta los intervalos de reglaje de válvulas.",
+        "El motor K5 es duro: hay que respetar los intervalos de reglaje de válvulas.",
         "Las pinzas radiales piden líquido de frenos fresco cada 2 años.",
       ],
     },
@@ -3137,11 +3137,11 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-gsx-r1000r-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Grado 10W-40 especificado JASO MA y MA2 más API SG en adelante",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Echa el lubricante sobre la cadena con la rueda en movimiento.",
+        "Anota el valor del manual tras medir en vertical la holgura de la cadena.",
       ],
       trucos: [
         "Con 195 CV, revisa el kit de arrastre cada 5.000 km.",
@@ -3171,7 +3171,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     aprox: [],
     pros: [
       "V-twin de 1.037 cc con 107 CV: suave, lleno y con carácter.",
-      "Versión DE con rueda de 21 pulgadas y suspensiones KYB de largo recorrido.",
+      "Versión DE con rueda de 21 pulgadas y amortiguación KYB de largo recorrido.",
       "Electrónica con IMU: ABS en curva desconectable, modo Gravel y control de crucero.",
       "Depósito de 20 litros para grandes autonomías.",
       "La edición Hamamatsu añade maletas, puños calefactables y faros auxiliares.",
@@ -3186,7 +3186,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "Sin pantalla TFT táctil con conectividad.",
     ],
     curiosidades: [
-      "La DE significa Dual Explorer: la más campera de las V-Strom 1050.",
+      "La DE significa Dual Explorer: la más campera de la gama V-Strom 1050.",
       "El V-twin a 90 grados es un clásico de Suzuki desde los años 80.",
       "La Hamamatsu Edition homenajea a la ciudad natal de Suzuki en Japón.",
     ],
@@ -3206,10 +3206,10 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-v-strom-1050de-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Viscosidad 10W-40 exigido JASO MA/MA2 y API SG o de grado superior",
       cadenaPasos: [
-        "En uso off-road, limpia y engrasa la cadena tras cada salida.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "En uso off-road, limpia y engrasa la cadena después de cada salida.",
+        "Verifica la tensión de la cadena antes de cada ruta, con la moto derecha.",
         "Vigila el desgaste del kit de arrastre reforzado.",
       ],
       trucos: [
@@ -3241,13 +3241,13 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     pros: [
       "Tetracilíndrico de 999 cc con 152 CV: ADN deportivo con vocación viajera.",
       "Carenado diseñado en túnel de viento: protección real a ritmo de autopista.",
-      "Electrónica completa: IMU, ABS en curva, control de crucero y quickshifter.",
+      "Electrónica completa: IMU, ABS en curva, quickshifter y control de crucero.",
       "Depósito de 19 litros y maletas opcionales integradas en el diseño.",
       "Asiento amplio y manillar alto: cómoda para piloto y pasajero.",
       "16.699 €: la sport-turismo japonesa más asequible de su categoría.",
     ],
     contras: [
-      "226 kg: se notan en parado y en puertos revirados.",
+      "226 kg que se notan en parado y en carreteras reviradas.",
       "Las maletas son opcionales y encarecen el conjunto.",
       "El parabrisas es regulable solo de forma manual.",
       "Sin pantalla TFT táctil con navegación integrada.",
@@ -3275,11 +3275,11 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-gsx-s1000gt-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
+      aceiteTipo: "Fluido 10W-40 especificado JASO MA/MA2 junto a API SG y superiores",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Con la cadena en movimiento, aplica el lubricante girando la rueda trasera.",
+        "En frío, con la moto en vertical, comprueba la holgura de la cadena.",
       ],
       trucos: [
         "Viajando cargado, sube la precarga trasera según el manual.",
