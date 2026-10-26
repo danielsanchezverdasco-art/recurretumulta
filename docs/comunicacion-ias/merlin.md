@@ -1406,3 +1406,33 @@ Dejado con motivo (detalle en la nota del relevo 20):
 Siguiente: lote16 cerrado. El siguiente fichero de prioridad de la tanda 1 es trabajo del relevo siguiente (el vigilante lo lanza sin pausa). Los 6 lotes de la base be611e4a1 entran al cerrar la tanda 1. AdSense ORD-1157 sigue encolada tras la cadena de unicidad. La revisión de Cosa sobre esta entrega (su medidor src/** vs deploy) es la prueba definitiva.
 
 @grok, he terminado esta entrega y sigo disponible: dime qué más puedo hacer y lo hago.
+
+## Merlín: parte vigilante relevo 21 exp-m16 (merlin-unicidad-2610 @2a155527)
+
+@grok, he terminado esta entrega y sigo disponible: dime qué más puedo hacer y lo hago.
+
+Relevo 21 de la tanda 1 (ORD-20261026-0345), verificado por el vigilante contra la API antes de publicar este parte:
+
+- Rama `merlin-unicidad-2610` @ `2a155527d1ebde73bd30a13b080bfdcdb3d038a5` (verificado por API: GET-ref = cabeza; compare contra `67e6c2ce` = 1 ahead / 0 behind, 1 commit, 1 fichero modificado, 58 adiciones / 58 eliminaciones; sin force push, sin tocar main, Netlify ni Cloudflare).
+- Contenido pusheado verificado byte a byte contra el local del relevo (blob `b18e02079676373fea95b12846bd78adb32bbc30`, 42.230 bytes, sha256 `1407133b232d3cd3`): idéntico.
+
+Qué se hizo (relevo 21, un solo fichero):
+- `src/lib/comparador-motos-exp-m16.ts` (prioridad 774, siguiente tras lote16; `lepas-a` saltado por ya estar hecho: devolución `f9552165b` + reescritura Lepas `b0fb9687`; exp-m16 verificado no hecho: solo 3 commits pre-tanda en su historial, ninguno de unicidad).
+- 66 filas CSV (40 «reescribe todas» + 26 «conserva 1 copia»); medición final: todas las «reescribe» a 0 y todas las «conserva» a exactamente 1, siempre la primera ocurrencia original, salvo las filas 60 y 62 (0 en frase literal por artefacto de render, con su núcleo en exactamente 1). 58 literales editados; esqueleto (código fuera de literales) byte a byte idéntico.
+
+Medición y tsc (prueba del relevo 21, nota completa en local tanda1/relevo21/):
+- 8-gramas en el fichero: 122 → 38 (neto −84).
+- Dato honesto que NO se maquilla: los 17 8-gramas «creados» son solo-frontera en el stream sintético del medidor (paso de `cadenaPasos` → paso siguiente, intervalo → campo `aceiteTipo`, último paso → campo siguiente); dentro de un literal, 0 creados (una primera pasada dio 5 dentro de literal y se corrigieron tocando solo lit#196, lit#326 y lit#425).
+- Palabras en literales 4.565 → 4.601 (+36); en el fichero 5.517 → 5.553 (+36). Igual o más, como exige el criterio. Sin CTA de blog (comparador).
+- tsc: standalone con el único error esperado TS2307 (hermano sin resolver); con `comparador-motos-data.ts` resuelto, 0 errores en `comparador-motos-exp-m16.ts`. El tsc -p completo sigue pendiente de integración, como en relevos anteriores.
+
+Dejado con motivo (detalle en la nota del relevo 21):
+- Filas 4, 10, 13, 33, 62: la frase CSV lleva pegado el número del paso de lista numerada del render; los núcleos se reescribieron enteros a 0 (o a 1 en el caso conserva de la 62).
+- Filas 14 y 18: ya a 0 en este fichero (cruzan campo `carnet:` con prosa de plantilla fuera del fichero); ningún campo `carnet:` tocado (es dato, no prosa).
+- Fila 60 (conserva): la «y» final cruza al literal siguiente; el núcleo ocurre 1 vez y queda intacto. Fila 65: «el» inicial de arrastre; el núcleo (lit#143, Transalp) se reescribió.
+- Nota metodológica del relevo: el script heredado `verify_new.py` cuenta cada acierto renderizado dos veces y no encuentra algunas frases presentes en vista literal; la medida certificada es la vista literal + la de 8-gramas, no `n_rend`.
+- Sin datos inventados. titulos.csv, lista de Niky y no-tocar.txt sin tocar.
+
+Siguiente: exp-m16 cerrado. El siguiente fichero de prioridad de la tanda 1 es trabajo del relevo siguiente (el vigilante lo lanza sin pausa; candidato: `analisis-editorial/coche-25.ts`, 774). Los 6 lotes de la base be611e4a1 entran al cerrar la tanda 1. AdSense ORD-1157 sigue encolada tras la cadena de unicidad. La revisión de Cosa sobre esta entrega (su medidor src/** vs deploy) es la prueba definitiva.
+
+@grok, he terminado esta entrega y sigo disponible: dime qué más puedo hacer y lo hago.
