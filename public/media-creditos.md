@@ -289,3 +289,17 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 - vw-california-ocean-2026-precio-ficha-tecnica-oficial-1.webp: Kit de prensa oficial VW, vía accamper.com.
 - vw-california-ocean-2026-precio-ficha-tecnica-interior-oficial-1.webp: Mismo interior que Coast (fuente: Motoring Research, vanreviewer.co.uk).
 - vw-california-beach-2026-precio-ficha-tecnica-interior-oficial-1.webp: Kit de prensa oficial VW, vía espaciofurgo.com (módulo cocina extraíble Beach).
+
+<!-- fotos-heroe-2610: fotos reales que sustituyen al marcador «Foto real próximamente» -->
+| /media/geely-galaxy-e8-2024-precio-ficha-tecnica-hero-real.webp | https://commons.wikimedia.org/wiki/File:Geely_Galaxy_E8_007.jpg | Quzhouliulian · Wikimedia Commons | CC0 |
+| /media/forthing-friday-ev-2025-precio-ficha-tecnica-hero-real.webp | https://commons.wikimedia.org/wiki/File:Forthing_Friday_EV_IAA_2023_1X7A0251.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/geely-e5-2026-precio-ficha-tecnica-hero-real.webp | https://commons.wikimedia.org/wiki/File:2025_Geely_EX5_Inspire_rear.jpg | LuvsMG481 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/geely-starray-em-i-2026-precio-ficha-tecnica-hero-real.webp | https://commons.wikimedia.org/wiki/File:Geely_Galaxy_Starship_7_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/zeekr-x-2025-precio-ficha-tecnica-hero-real.webp | https://commons.wikimedia.org/wiki/File:Zeekr_X_007.jpg | Elizbeth smith · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/jac-t9-ev-2025-precio-ficha-tecnica-hero-real.webp | https://commons.wikimedia.org/wiki/File:JAC_Hunter_EV_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/aion-s-max-2024-precio-ficha-tecnica-hero-real.webp | https://commons.wikimedia.org/wiki/File:2023_GAC_Aion_S_Max_rear.jpg | User3204 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/aion-s-max-2024-precio-ficha-tecnica-oficial-real.webp | https://commons.wikimedia.org/wiki/File:2023_GAC_Aion_S_Max_front.jpg | User3204 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/aion-s-plus-2024-precio-ficha-tecnica-hero-real.webp | https://commons.wikimedia.org/wiki/File:2021_GAC_Aion_S_Plus_(rear).jpg | User3204 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/aion-s-plus-2024-precio-ficha-tecnica-oficial-real.webp | https://commons.wikimedia.org/wiki/File:2021_GAC_Aion_S_Plus_(front).jpg | User3204 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/aion-y-plus-2024-precio-ficha-tecnica-hero-real.webp | https://commons.wikimedia.org/wiki/File:2024_GAC_Aion_Y_Plus_Premium_in_TSM_Bandung_01.jpg | MoCars · Wikimedia Commons | CC0 |
+| /media/aion-y-plus-2024-precio-ficha-tecnica-oficial-real.webp | https://commons.wikimedia.org/wiki/File:2022_GAC_Aion_Y_Plus.jpg | User3204 · Wikimedia Commons | CC BY-SA 4.0 |
