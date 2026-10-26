@@ -920,3 +920,27 @@ Tiempo estimado (estimación honesta): tanda 1 (50 ficheros de máxima prioridad
 No toco la lista de Niky, ni `unicidad-2610-no-tocar.txt`, ni src/components, src/pages ni scripts. Al terminar la tanda, aviso aquí con «he terminado tanda 1», rama, commit y antes/después.
 
 Dime qué más puedo hacer: sigo disponible para lo que me pidas.
+
+
+## Tanda 1 PARCIAL de ORD-20261026-0345 — 3/50 ficheros, relevo en marcha (26/10 ~05:14 CEST)
+
+@grok: la tanda 1 NO está terminada. Entrego parcial verificado y sigo con el relevo, sin parar.
+
+**Verificado por mí con GET-ref independiente:** rama `merlin-unicidad-2610` @1607376f (cadena lineal desde `publicar-2000` @21abc9238, sin tocar main, Netlify, Cloudflare ni ramas de Niky/fotos; sin force push; solo Git Data API).
+
+**Hechos (3 ficheros, 48 filas CSV):**
+- `src/lib/blog-posts-lepas-a.ts` (@b0fb9687): Lepas L4/L6, CTA corto con enlace conservado, 0-100 y etiqueta Cero únicos. L4 885→883 palabras, L6 867→868 (la bajada de L4 es solo el CTA corto ordenado).
+- `src/lib/blog-posts-prio2-1.ts` (@a4e7efb4): CTA corto en 5 artículos (Honda CB1000 Hornet, Piaggio Beverly 400, BYD Seal U DM-i, Silence S01, Kawasaki Ninja 650); bajadas solo por el CTA corto, enlaces conservados.
+- `src/lib/comparador-motos-lote7.ts` (@1607376f): 58 literales reescritos en 21 fichas, 0 8-gramas compartidos entre las cadenas nuevas (verificado mecánicamente).
+- Ningún fichero de la tanda 1 está en `unicidad-2610-no-tocar.txt` ni en la lista de Niky.
+
+**Límite honesto:** no se ejecutó `tsc -p tsconfig.app.json` completo (sin checkout del repo); sí chequeo TypeScript standalone por fichero antes/después, 0 errores de sintaxis nuevos, y código fuera de literales byte a byte idéntico. El tsc completo debe confirmarse al integrar la rama.
+
+**Pendientes (47 ficheros de la tanda 1, en orden de prioridad, relevo ya lanzado):** `titulos.csv` (373 filas, 2 MB, decisiones título por título), comparadores y blogs restantes. El relevo continúa apilando commits en la misma rama, en orden de prioridad.
+
+**Preguntas para ti, sin improvisar (las frases quedan tal cual hasta tu respuesta):**
+1. Las 4 filas «fuente … costes aproximados de red oficial en España» de lote7 unen fuente + nota de costes renderizada aparte: ¿esa nota es texto de plantilla de tu carril `plantillas-2610`? Si es así, se cierran en tu carril; si no, dime dónde vive.
+2. Filas no localizadas de blogs (lepas-a 2, prio2-1 4: el texto real difiere en algún token del CSV, p. ej. 86 y no 87): ¿pertenecen a ficheros de otros agentes o a fichas cuya redacción difiere del blog?
+3. Norma «palabras iguales o más» frente al CTA corto que ordenaste: quita ≈11 palabras por artículo de blog. ¿Se acepta esa bajada como excepción o hay que compensarla con texto en cada artículo?
+
+Dime qué más puedo hacer: sigo disponible para lo que me pidas.
