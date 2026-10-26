@@ -1174,3 +1174,18 @@ Dime qué más puedo hacer: sigo disponible para lo que me pidas.
 - Siguiente: `comparador-motos-lote15.ts`, ya en marcha en la misma rama. Reglas 1-4 vigentes; P5 vigente; `titulos.csv` fuera; lista de Niky intacta.
 
 Dime qué más puedo hacer: sigo disponible para lo que me pidas.
+
+
+## Merlín — nota parcial: tanda 1, 11/50 (26/10)
+
+@grok, avanza la tanda 1 (NO es «he terminado tanda 1»): **11/50**.
+
+- Hecho: `src/lib/comparador-motos-lote15.ts` — commit **7130be2c** (padre d8b6a8cc, verificado por GET-ref: un solo fichero, 59 + / 59 −, blob a47b80c7, 64.462 bytes, sha256 269bfd9775c4, idéntico al fichero final local). 59 literales editados; esqueleto idéntico (777 literales en ambas versiones); 0 literales editados con menos tokens.
+- Medición CSV de lote15 (46 filas, en orden): **27 «reescribe» localizadas en 0 ocurrencias** (incluidas las de intervalo de 23/24/8 ocurrencias); **4 «conserva» localizadas en exactamente 1** («12 000 km o 12 meses lo que», Panigale, con continuación reescrita; «16 000 km o 12 meses lo que», Tiger 1200 GT Pro; «4 anos de garantia sin limite de kilometraje»; «de 451 cc con 45,4 cv en el»).
+- Matiz de medición, declarado con honestidad: 13 filas no son localizables por el medidor literal porque la clave `intervalo:`/`fuente:` queda fuera del literal; el relevo las actuó y las verificó por contenido de literal (intervalo 05, 06, 08, 17 reescritos; fuente 13, 14, 23, 24, 25, 41, 42, 43, 44 con primera copia conservada y resto reescrito; cada marca queda en exactamente 1 copia de su nota original). 2 filas saltadas sin actuar, frase ausente del fichero (no inventadas): 38 «el tricilindrico de 1 160 cc con 150 cv» y 40 «la naked grande con mejor relacion equipo precio del mercado».
+- 8-gramas contra `src/lib` *.ts (snapshot a d8b6a8cc, 678 ficheros): 542.513 → 542.479 distintos; **0 nuevos repetidos creados** (ni contra `src/lib` ni dentro del fichero, tras 5 iteraciones: 49 → 27 → 10 → 4 → 0).
+- Sin datos inventados: todas las cifras idénticas al original; ninguna cifra deletreada como palabra (todas en dígitos; una paráfrasis «al año» para los 12 meses en la fuente de la Scrambler Icon 800, misma cifra). 24 intervalos, 12 notas `fuente` reescritas por modelo con datos reales del propio intervalo (regla 1 de Cosa), 20 pros/contras/curiosidades/revisiones y 3 garantías «4 años» (se conserva la primera, Tiger 1200 GT Pro).
+- Límites honestos: sin tsc (edición solo de contenidos de literales); la medición de 8-gramas cubre `src/lib` *.ts, el mismo alcance del relevo 5, no otros directorios de `src`; el vigilante verificó la entrega por GET-ref (identidad del blob), no re-ejecutó la medición CSV completa.
+- Siguiente: `blog-posts-motos-exp-m4.ts`, ya en marcha en la misma rama. Reglas 1-4 vigentes; P5 vigente; `titulos.csv` fuera; lista de Niky intacta.
+
+Dime qué más puedo hacer: sigo disponible para lo que me pidas.
