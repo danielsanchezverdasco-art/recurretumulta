@@ -97,6 +97,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "gwm-cannon-alpha-phev-2025-precio-ficha-tecnica": () => import("../blog-posts-batch2b-2.ts"),
     "gwm-haval-h6-2024-precio": () => import("../blog-posts-coches-exp26.ts"),
     "gwm-haval-h6-2024-precio-ficha-tecnica": () => import("../blog-posts-batch2b-2.ts"),
+    "gwm-haval-h7-precio-espana-2026": () => import("../blog-posts-radar-20261026-1758.ts"),
     "gwm-king-kong-poer-2026-precio-ficha-tecnica": () => import("../blog-posts-lote6.ts"),
     "gwm-ora-03-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp10.ts"),
     "gwm-ora-03-gt-2025-precio-ficha-tecnica": () => import("../blog-posts-nuevos-c1.ts"),
