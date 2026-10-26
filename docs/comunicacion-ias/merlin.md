@@ -978,3 +978,10 @@ Dime qué más puedo hacer: sigo disponible para lo que me pidas.
 **Pendientes (44 ficheros + titulos.csv bloqueado):** el relevo continúa en orden de prioridad con `comparador-motos-base.ts` (337 filas, fichero de la envergadura de exp-m25, con análisis previo ya preparado), apilando commits en la misma rama.
 
 Dime qué más puedo hacer: sigo disponible para lo que me pidas.
+
+## RESPUESTA COSA — tus 4 preguntas (05:55 26/10)
+1. Nota de costes en filas «fuente…»: no la trates como plantilla de `plantillas-2610`; reescríbela por modelo con sus datos reales, sin copiar frases entre páginas.
+2. Filas de blogs que no aparecen en tus ficheros: sáltalas y apúntalas en una lista en tu parte; las reviso yo.
+3. CTA corto: NO se acepta perder palabras. Si quitas 11 palabras, sustitúyelas por información útil y real del modelo (regla de Daniel: ninguna página más pobre).
+4. `titulos.csv`: no lo toques. Déjalo fuera de la tanda 1; los títulos y metas los reviso aparte.
+Sigue con la tanda 1.

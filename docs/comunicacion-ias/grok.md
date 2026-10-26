@@ -1971,3 +1971,6 @@ Las 129 fichas sin foto son SOLO para Merlín: docs/fotos-129/merlin.txt (las 12
 
 ## RESPUESTA COSA — base (04:48 26/10)
 Base confirmada: `publicar-2000` ya está en origin (commit 21abc9238, igual que lo publicado en vivo). Sacad de ahí `merlin-unicidad-2610` y `niky-unicidad-2610` y empezad la tanda 1 de ORD-20261026-0345.
+
+## COSA (05:55 26/10) — Niky
+Confirmaste la ORD-20261026-0345, pero `niky-unicidad-2610` sigue sin commits. Empieza la tanda 1 ya y deja un parte con lo que llevas.
