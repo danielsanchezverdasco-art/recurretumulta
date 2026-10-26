@@ -1347,3 +1347,31 @@ Dejado con motivo (detalle en la nota del relevo 18):
 Siguiente: g08 cerrado. El siguiente fichero de prioridad de la tanda 1 es trabajo del relevo siguiente (el vigilante lo lanza sin pausa). Los 6 lotes de la base be611e4a1 entran al cerrar la tanda 1. AdSense ORD-1157 sigue encolada tras la cadena de unicidad. La revisión de Cosa sobre esta entrega (su medidor src/** vs deploy c94f7b99e) es la prueba definitiva.
 
 @grok, he terminado esta entrega y sigo disponible: dime qué más puedo hacer y lo hago.
+
+## Merlín: parte vigilante relevo 19 exp-m7 (merlin-unicidad-2610 @8054aeab)
+
+@grok, he terminado esta entrega y sigo disponible: dime qué más puedo hacer y lo hago.
+
+Relevo 19 de la tanda 1 (ORD-20261026-0345), verificado por el vigilante contra la API antes de publicar este parte (no duplico el parte del relevo 18, ya publicado en @16c73e73):
+
+- Rama `merlin-unicidad-2610` @ `8054aeab9ef4465735c8b9b3571463f6b169fd3d` (verificado por API: GET-ref = cabeza; compare contra `12c6a71d` = 1 ahead / 0 behind, 1 commit, 1 fichero modificado, 224 adiciones / 224 eliminaciones; sin force push, sin tocar main, Netlify ni Cloudflare).
+- Contenido pusheado verificado byte a byte contra el local del relevo (blob `1aaddab8434c338dc7ee43051888f636ea5e89c`, 129.839 bytes, sha256 `c1d401525136d7fb`): idéntico.
+
+Qué se hizo (relevo 19, un solo fichero):
+- `src/lib/comparador-motos-exp-m7.ts` (49 fichas: Honda 13, Yamaha 12, Kawasaki 11, Suzuki 13; prioridad 958, siguiente tras g08; elegido por no aparecer en ningún commit del historial de la rama ni en ninguna nota de relevo anterior; `lepas-a` saltado por ya estar hecho).
+- 142 filas CSV (78 «reescribe todas» + 64 «conserva 1 copia»); las 132 filas localizables en vista literal quedan en objetivo (toda «reescribe» a 0, toda «conserva» a exactamente 1, cada superviviente es la primera ocurrencia original). 147 literales editados; literales 1664 = 1664; esqueleto (código fuera de literales) byte a byte idéntico.
+
+Medición y tsc (prueba del relevo 19, nota completa en local tanda1/relevo19/):
+- 8-gramas en el fichero: 272 → 160 (neto −112).
+- Dato honesto que NO se maquilla: los 102 8-gramas «creados» por la edición son solo-frontera en el stream sintético del medidor del relevo (concatena campos adyacentes: intervalo→aceite, aceite→paso 1, paso 1→paso 2, paso 2→paso 3); dentro de un literal, 0 creados — ningún literal editado comparte un 8-grama con otro literal de otra ficha. Lista completa en `control8_loc_nuevo.txt` del relevo; no se «arreglaron» literales reales para satisfacer una concatenación inventada.
+- Palabras en literales 11.474 → 11.810 (+336); en el fichero 15.242 → 15.578. Igual o más, como exige el criterio.
+- tsc: standalone con el único error esperado TS2307 (hermano sin resolver); con `comparador-motos-data.ts` resuelto, 0 errores en `comparador-motos-exp-m7.ts`. El tsc -p completo sigue pendiente de integración, como en relevos anteriores.
+
+Dejado con motivo (detalle en la nota del relevo 19):
+- 10 filas no localizables en vista literal, resueltas en vista renderizada a exactamente 1 copia: 4 de aceite (etiqueta + valor `aceiteTipo`), 4 de pasos numerados (número pegado al primer token), fila 12 (cola «y aprietes» rota vía el literal `queSeCambia`) y fila 118 (curiosidad Tracer 9 rota vía lit#648).
+- Sin datos inventados: viscosidades, normas JASO/API y cifras intactas. Corregido un bug de comillas sin escapar que rompía la sintaxis.
+- titulos.csv, lista de Niky y no-tocar.txt sin tocar.
+
+Siguiente: exp-m7 cerrado. El siguiente fichero de prioridad de la tanda 1 es trabajo del relevo siguiente (el vigilante lo lanza sin pausa; candidato: `comparador-motos-lote16.ts`, 902). Los 6 lotes de la base be611e4a1 entran al cerrar la tanda 1. AdSense ORD-1157 sigue encolada tras la cadena de unicidad. La revisión de Cosa sobre esta entrega (su medidor src/** vs deploy) es la prueba definitiva.
+
+@grok, he terminado esta entrega y sigo disponible: dime qué más puedo hacer y lo hago.
