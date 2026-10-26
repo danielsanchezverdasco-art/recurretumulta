@@ -67,7 +67,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://mpracing.es/10499-kove",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 6.000 km o 12 meses, lo primero que se cumpla",
+      intervalo: "Toca taller cada 6.000 km o doce meses, según lo que antes ocurra",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -228,7 +228,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite de motor + filtro de aceite + filtro de aire + bujías (según km)",
+          queSeCambia: "filtro de aceite + filtro de aire + bujías (según km) + Aceite de motor",
           costeAproxEur: 230,
         },
       ],
@@ -371,7 +371,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://fgmotor.com/producto/kove-nk-125-r-nueva",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 4.000 km o 12 meses, al primer vencimiento",
+      intervalo: "Kilómetros: 4.000 | Plazo: 12 meses | Criterio: lo primero que venza",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -523,7 +523,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/voge/rr660s",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 6.000 km o cada 12 meses, lo que ocurra antes",
+      intervalo: "Cada 6.000 km o doce meses; manda lo primero que llegue",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -599,7 +599,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/cfmoto-1000mt-x-2026-prueba-opiniones/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o un año, lo que se cumpla antes",
+      intervalo: "Kilómetros: 6.000 | Plazo: doce meses | Criterio: lo primero que venza",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -675,7 +675,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.canariasenmoto.com/noticias/todos-los-detalles-de-la-nueva-aventurera-cfmoto-250-dual-33782.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 5.000 km o 12 meses, lo primero en llegar",
+      intervalo: "Cada 5.000 km o doce meses; rige lo primero que venza",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1055,7 +1055,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/mbp/morbidelli-t1002vx",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 6.000 kilómetros o 12 meses, lo primero que se alcance",
+      intervalo: "Cada 6.000 kilómetros o un año; rige lo primero que venza",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
