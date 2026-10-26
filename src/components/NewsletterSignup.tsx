@@ -1,3 +1,4 @@
+import type React from "react";
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { Mail, Send, AlertCircle } from "lucide-react";
@@ -6,6 +7,7 @@ import { api } from "@/convex/_generated/api.js";
 import { Button } from "@/components/ui/button.tsx";
 import { Input } from "@/components/ui/input.tsx";
 import { FormSuccessCheck } from "@/components/motion.tsx";
+import { LazyConvexProvider } from "@/components/providers/convex-lazy.tsx";
 
 type Estado = "idle" | "enviando" | "ok" | "ya" | "error";
 
@@ -22,7 +24,7 @@ interface Props {
  * Formulario de suscripción a "La semana del motor en 5 minutos".
  * Sin login: solo email + checkbox de privacidad obligatoria.
  */
-export default function NewsletterSignup({ origen = "web", compact = false, textos }: Props) {
+function NewsletterSignupSinProvider({ origen = "web", compact = false, textos }: Props) {
   const [email, setEmail] = useState("");
   const [privacidad, setPrivacidad] = useState(false);
   const [estado, setEstado] = useState<Estado>("idle");
@@ -141,5 +143,15 @@ export default function NewsletterSignup({ origen = "web", compact = false, text
         )}
       </form>
     </div>
+  );
+}
+
+// 26/10/2026 (fix menú móvil fichas): usa hooks de convex/react; se autoenvuelve en
+// LazyConvexProvider para no depender del provider raíz diferido («Could not find Convex client»).
+export default function NewsletterSignup(props: React.ComponentProps<typeof NewsletterSignupSinProvider>) {
+  return (
+    <LazyConvexProvider>
+      <NewsletterSignupSinProvider {...props} />
+    </LazyConvexProvider>
   );
 }

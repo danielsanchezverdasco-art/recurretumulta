@@ -1,3 +1,4 @@
+import type React from "react";
 import { useState, useRef, useEffect } from "react";
 import { motion, AnimatePresence } from "motion/react";
 import { useTranslation } from "react-i18next";
@@ -19,6 +20,7 @@ import { toast } from "sonner";
 // Pack 10 oculto hasta que exista el backend que consume los créditos (decisión de Daniel, 12/10/2026).
 const PACK10_VISIBLE = false;
 import { getAnonymousFingerprint, withAnalisisTimeout, AnalisisTimeoutError } from "@/lib/analisis-libre.ts";
+import { LazyConvexProvider } from "@/components/providers/convex-lazy.tsx";
 
 async function fileToBase64(file: File): Promise<string> {
   return new Promise((resolve, reject) => {
@@ -229,7 +231,7 @@ function ViabilidadGauge({ value, nivel }: { value: number; nivel: "alta" | "med
 type DialogMode = "pdf_unico" | "pdf_pack_10" | "pack";
 type CodigoEstado = "idle" | "validando" | "valido" | "invalido";
 
-export default function AnalizadorSancion({ packToken }: { packToken?: string }) {
+function AnalizadorSancionSinProvider({ packToken }: { packToken?: string }) {
   // El análisis es gratis y sin registro. packToken (opcional) viene del
   // enlace personal del Pack 10 y permite generar recursos con sus créditos.
   return <AnalizadorInner packToken={packToken} />;
@@ -818,5 +820,15 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
         ))}
       </div>
     </div>
+  );
+}
+
+// 26/10/2026 (fix menú móvil fichas): usa hooks de convex/react; se autoenvuelve en
+// LazyConvexProvider para no depender del provider raíz diferido («Could not find Convex client»).
+export default function AnalizadorSancion(props: React.ComponentProps<typeof AnalizadorSancionSinProvider>) {
+  return (
+    <LazyConvexProvider>
+      <AnalizadorSancionSinProvider {...props} />
+    </LazyConvexProvider>
   );
 }

@@ -1,13 +1,15 @@
+import type React from "react";
 import { useEffect, useRef } from "react";
 import { useMutation } from "convex/react";
 import { api } from "@/convex/_generated/api.js";
+import { LazyConvexProvider } from "@/components/providers/convex-lazy.tsx";
 
 /* ── Sincroniza el progreso de la caza con el ranking (Convex) ───────── */
 // Extraído de CazaMonosContext (07/10/2026, PageSpeed): el `useMutation` metía
 // convex/react en el chunk inicial de TODAS las páginas. Este componente solo
 // se monta cuando el usuario ya cazó ≥1 mono. Throttle: máximo 1 llamada/5s.
 // Silencioso: si el backend no responde, el juego local sigue igual.
-export default function ScoreReporter({ total, apodo, uuid }: {
+function ScoreReporterSinProvider({ total, apodo, uuid }: {
   total: number; apodo: string; uuid: string;
 }) {
   const reportScore = useMutation(api.cazaMonos.reportScore);
@@ -37,4 +39,14 @@ export default function ScoreReporter({ total, apodo, uuid }: {
   }, [total, uuid, apodo, reportScore]);
 
   return null;
+}
+
+// 26/10/2026 (fix menú móvil fichas): usa hooks de convex/react; se autoenvuelve en
+// LazyConvexProvider para no depender del provider raíz diferido («Could not find Convex client»).
+export default function ScoreReporter(props: React.ComponentProps<typeof ScoreReporterSinProvider>) {
+  return (
+    <LazyConvexProvider>
+      <ScoreReporterSinProvider {...props} />
+    </LazyConvexProvider>
+  );
 }

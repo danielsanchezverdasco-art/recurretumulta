@@ -1,3 +1,4 @@
+import type React from "react";
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { AlertCircle, CheckCircle2, Mail, Send } from "lucide-react";
@@ -6,6 +7,7 @@ import { api } from "@/convex/_generated/api.js";
 import { getAnonymousFingerprint } from "@/lib/analisis-libre.ts";
 import { Button } from "@/components/ui/button.tsx";
 import { Input } from "@/components/ui/input.tsx";
+import { LazyConvexProvider } from "@/components/providers/convex-lazy.tsx";
 
 export interface FilaEmail {
   label: string;
@@ -22,7 +24,7 @@ type Estado = "idle" | "enviando" | "ok" | "error";
  * veredicto) a través de la action convex/comparadorEmail.ts.
  * Email y privacidad se validan igual que en NewsletterSignup.
  */
-export default function EnviarComparativaEmail({
+function EnviarComparativaEmailSinProvider({
   tipo,
   nombreA,
   nombreB,
@@ -157,5 +159,15 @@ export default function EnviarComparativaEmail({
         )}
       </form>
     </div>
+  );
+}
+
+// 26/10/2026 (fix menú móvil fichas): usa hooks de convex/react; se autoenvuelve en
+// LazyConvexProvider para no depender del provider raíz diferido («Could not find Convex client»).
+export default function EnviarComparativaEmail(props: React.ComponentProps<typeof EnviarComparativaEmailSinProvider>) {
+  return (
+    <LazyConvexProvider>
+      <EnviarComparativaEmailSinProvider {...props} />
+    </LazyConvexProvider>
   );
 }

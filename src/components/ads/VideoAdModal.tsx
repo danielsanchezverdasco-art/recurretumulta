@@ -201,7 +201,7 @@ export default function VideoAdModal(props: VideoAdModalProps) {
 }
 
 // ── Botón de acceso rápido al video ad (para usar en cualquier página) ────────
-export function VideoAdButton({ className = "" }: { className?: string }) {
+function VideoAdButtonSinProvider({ className = "" }: { className?: string }) {
   const [open, setOpen] = useState(false);
   const { isAuthenticated } = useAuthSimple();
 
@@ -218,5 +218,15 @@ export function VideoAdButton({ className = "" }: { className?: string }) {
       </button>
       <VideoAdModal open={open} onClose={() => setOpen(false)} />
     </>
+  );
+}
+
+// 26/10/2026 (fix menú móvil fichas): usa hooks de convex/react; se autoenvuelve en
+// LazyConvexProvider para no depender del provider raíz diferido («Could not find Convex client»).
+export function VideoAdButton(props: { className?: string }) {
+  return (
+    <LazyConvexProvider>
+      <VideoAdButtonSinProvider {...props} />
+    </LazyConvexProvider>
   );
 }

@@ -13,7 +13,6 @@ import { Label } from "@/components/ui/label.tsx";
 import { toast } from "sonner";
 import { useSeo } from "@/hooks/use-seo.ts";
 import { PageHero } from "@/components/motion.tsx";
-import { useAction } from "convex/react";
 import { api } from "@/convex/_generated/api.js";
 import { Link } from "react-router-dom";
 import SharedNavbar from "@/components/shared-navbar.tsx";

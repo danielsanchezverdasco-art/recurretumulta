@@ -1,3 +1,4 @@
+import type React from "react";
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { Bell, X, Loader2, CheckCircle2, AlertCircle } from "lucide-react";
@@ -11,6 +12,7 @@ interface Props {
 }
 
 import { fmtEur } from "@/lib/formato.ts";
+import { LazyConvexProvider } from "@/components/providers/convex-lazy.tsx";
 
 type Estado = "cerrado" | "form" | "enviando" | "ok" | "ya" | "error";
 
@@ -25,7 +27,7 @@ function fmtPrecio(n: number): string {
  * Abre un modal donde el usuario deja su Gmail (+ precio objetivo opcional)
  * con consentimiento GDPR. Llama a la mutación pública alertasPrecio:suscribirse.
  */
-export default function BotonCazachollos({ cocheId, nombre, precioActual }: Props) {
+function BotonCazachollosSinProvider({ cocheId, nombre, precioActual }: Props) {
   const [estado, setEstado] = useState<Estado>("cerrado");
   const [email, setEmail] = useState("");
   const [objetivo, setObjetivo] = useState("");
@@ -238,5 +240,15 @@ export default function BotonCazachollos({ cocheId, nombre, precioActual }: Prop
         </div>
       )}
     </>
+  );
+}
+
+// 26/10/2026 (fix menú móvil fichas): usa hooks de convex/react; se autoenvuelve en
+// LazyConvexProvider para no depender del provider raíz diferido («Could not find Convex client»).
+export default function BotonCazachollos(props: React.ComponentProps<typeof BotonCazachollosSinProvider>) {
+  return (
+    <LazyConvexProvider>
+      <BotonCazachollosSinProvider {...props} />
+    </LazyConvexProvider>
   );
 }

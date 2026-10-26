@@ -1,3 +1,4 @@
+import type React from "react";
 import { JUEGO_MONOS_ACTIVO } from "@/config/juego.ts";
 // CelebracionLegendario — modal de celebración al cazar el mono legendario dorado (07/10/2026).
 // Registra la caza en Convex (tabla legendaryCatches) para que Daniel vea quién lo cogió.
@@ -5,6 +6,7 @@ import { useEffect, useRef } from "react";
 import { useMutation } from "convex/react";
 import { api } from "@/convex/_generated/api.js";
 import { POSES_COSA } from "@/lib/cosa";
+import { LazyConvexProvider } from "@/components/providers/convex-lazy.tsx";
 
 function CelebracionLegendarioInner({
   hunterId,
@@ -80,7 +82,17 @@ function CelebracionLegendarioInner({
 
 // Interruptor del juego (src/config/juego.ts).
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
-export default function CelebracionLegendario(props: any) {
+function CelebracionLegendarioSinProvider(props: any) {
   if (!JUEGO_MONOS_ACTIVO) return null;
   return <CelebracionLegendarioInner {...props} />;
+}
+
+// 26/10/2026 (fix menú móvil fichas): usa hooks de convex/react; se autoenvuelve en
+// LazyConvexProvider para no depender del provider raíz diferido («Could not find Convex client»).
+export default function CelebracionLegendario(props: React.ComponentProps<typeof CelebracionLegendarioSinProvider>) {
+  return (
+    <LazyConvexProvider>
+      <CelebracionLegendarioSinProvider {...props} />
+    </LazyConvexProvider>
+  );
 }

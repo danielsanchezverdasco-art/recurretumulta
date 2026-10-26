@@ -1,3 +1,4 @@
+import type React from "react";
 import { useEffect, useState } from "react";
 import { Link, useSearchParams } from "react-router-dom";
 import { CheckCircle2, AlertCircle, Loader2, MailX } from "lucide-react";
@@ -7,10 +8,11 @@ import { useSeo } from "@/hooks/use-seo.ts";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import { Button } from "@/components/ui/button.tsx";
+import { LazyConvexProvider } from "@/components/providers/convex-lazy.tsx";
 
 type Estado = "cargando" | "ok" | "error";
 
-export default function AlertasBajaPage() {
+function AlertasBajaPageSinProvider() {
   useSeo({
     title: "Darse de baja de las alertas de precio",
     description:
@@ -121,5 +123,15 @@ export default function AlertasBajaPage() {
       </div>
       <SharedFooter editorial={false} />
     </div>
+  );
+}
+
+// 26/10/2026 (fix menú móvil fichas): usa hooks de convex/react; se autoenvuelve en
+// LazyConvexProvider para no depender del provider raíz diferido («Could not find Convex client»).
+export default function AlertasBajaPage() {
+  return (
+    <LazyConvexProvider>
+      <AlertasBajaPageSinProvider />
+    </LazyConvexProvider>
   );
 }

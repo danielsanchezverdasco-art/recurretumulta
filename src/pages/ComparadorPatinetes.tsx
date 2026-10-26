@@ -20,7 +20,7 @@ import BarraComparar from "@/components/BarraComparar.tsx";
 import DueloVS, { type FilaDuelo, type ItemDuelo } from "@/components/DueloVS.tsx";
 import { elegirCosaIndice, type NotaCosaInput } from "@/lib/cosa.ts";
 import CompartirBotones from "@/components/CompartirBotones.tsx";
-import { useAction } from "convex/react";
+import { loadConvex, getConvexClient } from "@/components/providers/convex-lazy.tsx";
 import { api } from "@/convex/_generated/api.js";
 import { getAnonymousFingerprint } from "@/lib/analisis-libre.ts";
 import {
@@ -633,7 +633,16 @@ export default function ComparadorPatinetesPage() {
   }, [filtrados]);
 
   /* ── Búsqueda libre con IA (se conserva la funcionalidad actual) ── */
-  const investigarPatinete = useAction(api.comparadorPatinetes.investigarPatinete);
+  // 26/10/2026: sin useAction (no hay ConvexProvider ancestro en esta ruta); se
+  // llama al cliente singleton bajo demanda para no crashear ni vaciar el prerender.
+  const investigarPatinete = async (
+    args: Parameters<NonNullable<ReturnType<typeof getConvexClient>>["action"]>[1],
+  ) => {
+    await loadConvex();
+    const c = getConvexClient();
+    if (!c) throw new Error("Convex no disponible");
+    return c.action(api.comparadorPatinetes.investigarPatinete, args as never);
+  };
   const [iaMarca, setIaMarca] = useState("");
   const [iaModelo, setIaModelo] = useState("");
   const [iaCargando, setIaCargando] = useState(false);

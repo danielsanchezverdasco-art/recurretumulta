@@ -1,3 +1,4 @@
+import type React from "react";
 import { useState, useRef, useEffect } from "react";
 import { motion, AnimatePresence } from "motion/react";
 import { useTranslation } from "react-i18next";
@@ -19,6 +20,7 @@ import { toast } from "sonner";
 // Pack 10 oculto hasta que exista el backend que consume los créditos (decisión de Daniel, 12/10/2026).
 const PACK10_VISIBLE = false;
 import { getAnonymousFingerprint, withAnalisisTimeout, AnalisisTimeoutError } from "@/lib/analisis-libre.ts";
+import { LazyConvexProvider } from "@/components/providers/convex-lazy.tsx";
 
 // Convierte un File a base64 puro (sin prefijo data:...)
 async function fileToBase64(file: File): Promise<string> {
@@ -143,7 +145,7 @@ function gravedadStyle(g: "alta" | "media" | "baja") {
   return map[g];
 }
 
-export default function AnalizadorMulta({ packToken }: { packToken?: string }) {
+function AnalizadorMultaSinProvider({ packToken }: { packToken?: string }) {
   // El análisis es gratis y sin registro. packToken (opcional) viene del
   // enlace personal del Pack 10 y permite generar recursos con sus créditos.
   return <AnalizadorInner packToken={packToken} />;
@@ -1234,5 +1236,15 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
         ))}
       </div>
     </div>
+  );
+}
+
+// 26/10/2026 (fix menú móvil fichas): usa hooks de convex/react; se autoenvuelve en
+// LazyConvexProvider para no depender del provider raíz diferido («Could not find Convex client»).
+export default function AnalizadorMulta(props: React.ComponentProps<typeof AnalizadorMultaSinProvider>) {
+  return (
+    <LazyConvexProvider>
+      <AnalizadorMultaSinProvider {...props} />
+    </LazyConvexProvider>
   );
 }
