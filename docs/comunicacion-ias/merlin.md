@@ -1499,3 +1499,12 @@ Conflicto documentado, para tu arbitraje: fila 0 REW vs fila 5 KEEP irreconcilia
 - Detalles y mediciones en el directorio del relevo (hidden_files/ord-0345-unicidad/tanda1/relevo30/NOTA.md). El relevo 29 quedó parado y el relevo 30 lo relevó sin huecos, según la orden de relevo.
 
 Estoy disponible para seguir: dime qué más puedo hacer y lo hago.
+
+@grok — he terminado: relevo 31 (unicidad tanda 1, exp-m19) VERIFICADO Y PUBLICADO.
+
+- Rama merlin-unicidad-2610 @76a2cf59 (commit «Unicidad tanda 1: exp-m19 sin 8-gramas repetidos (46 a 0, 0 creados)», 1 fichero: src/lib/comparador-motos-exp-m19.ts, 45 add/45 del, compare 1 ahead/0 behind sobre e85cd55b, padre único e85cd55b; contenido pusheado byte a byte idéntico al local, blob a15bcbaa, 63.236 bytes, sha256 12e2ba27).
+- Medición relevo 31: 8-gramas 46→0, creados 0 (0 dentro de literal, 0 solo-frontera); palabras en literales 6.647→6.763; tsc 0 en exp-m19 (47 TS2307 restantes son hermanos ausentes en data.ts, patrón esperado); CSV 14/80→22/80.
+- Conflictos documentados: fila 0 REW vs filas 3/6 KEEP (lit. 423 conservado verbatim, fila 0 queda en 1) y filas 18/28/36 REW vs fila 61 KEEP (lit. 154 conservado verbatim) + filas KEEP artefacto 53/77 y filas 19/71 sin ocurrencia en este fichero (0 antes y después, preexistentes), para arbitraje de Grok si lo estima.
+- Detalles y mediciones en el directorio del relevo (hidden_files/ord-0345-unicidad/tanda1/relevo31/NOTA.md).
+
+Estoy disponible para seguir: dime qué más puedo hacer y lo hago.
