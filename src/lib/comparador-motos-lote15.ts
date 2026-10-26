@@ -31,7 +31,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
       "216 CV del V4 Desmosedici Stradale derivado de MotoGP",
       "Edición limitada a 1.000 unidades numeradas con certificado",
       "Decoración Tricolore exclusiva pintada con la bandera italiana",
-      "Electrónica completa con IMU de 6 ejes y ABS en curva",
+      "Paquete electrónico completo: IMU de 6 ejes con ABS en curva",
       "Chasis Front Frame de aluminio como las Desmosedici de carreras",
     ],
     contras: [
@@ -65,11 +65,11 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://thebiketlist.es/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes); servicio Desmo cada 24.000 km",
+      intervalo: "12.000 km o 12 meses, lo que resulte primero; servicio Desmo cada 24.000 km",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite nuevo con su filtro, revisión general y control de aprietes",
           costeAproxEur: null,
         },
         {
@@ -104,7 +104,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "V4 Granturismo de 170 CV, el motor más refinado del segmento",
+      "El V4 Granturismo rinde 170 CV y es el motor más refinado de su clase",
       "Radar delantero y trasero: crucero adaptativo y ángulo muerto",
       "Reglaje de válvulas cada 60.000 km, récord entre las maxitrail",
       "Garantía ampliable hasta 4 años con Ducati Ever Red",
@@ -113,7 +113,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     contras: [
       "Precio de tarifa de 22.790 €: las campañas oficiales lo dejan por debajo",
       "Peso elevado para uso fuera del asfalto",
-      "Consumo alto si se aprovechan los 170 CV",
+      "El consumo se dispara si se aprovechan los 170 CV",
     ],
     curiosidades: [
       "Fue la primera moto del mundo con radar delantero y trasero.",
@@ -155,7 +155,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Ducati; costes no publicados — consultar red oficial",
+      fuente: "El manual de la Multistrada V4 pide aceite a los 15.000 km o 24 meses y reglaje de válvulas a los 60.000 km; Ducati no difunde precios de revisión y hay que pedirlos en su red oficial",
     },
   },
   {
@@ -180,16 +180,16 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "47,6 CV: justo el máximo legal del carnet A2",
-      "175 kg: la mejor relación peso/potencia de su categoría",
+      "Sus 47,6 CV marcan justo el tope legal del carnet A2",
+      "Sus 175 kg le dan la mejor relación peso/potencia de la categoría",
       "Acelerador electrónico Ride-by-Wire con 3 modos de motor",
-      "Chasis de doble viga de aluminio de moto grande",
+      "Bastidor de doble viga en aluminio, propio de motos grandes",
       "Estética RS con aletas aerodinámicas inspiradas en la RSV4",
     ],
     contras: [
       "Postura deportiva que cansa en ciudad",
       "Sin quickshifter de serie",
-      "Red de concesionarios más pequeña que la japonesa",
+      "La red de concesionarios es más reducida que la de las japonesas",
     ],
     curiosidades: [
       "Su motor bicilíndrico se desarrolló desde cero para este modelo.",
@@ -217,7 +217,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/aprilia/rs-457",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "Pauta de 10.000 km o 12 meses; la primera revisión llega con el plazo inicial",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -258,7 +258,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     pros: [
       "Bicilíndrico en L de 803 cc con 74 CV y mucho carácter",
       "Limitable a 35 kW para el carnet A2",
-      "ABS en curva, control de tracción y modos de conducción",
+      "ABS en curva con control de tracción y modos de conducción",
       "Ligera y con asiento bajo: accesible para todas las tallas",
       "El icono neo-retro con más opciones de personalización",
     ],
@@ -293,7 +293,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/ducati/scrambler-icon",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses; el taller marca la revisión al vencer el primer plazo",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -307,7 +307,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Ducati; costes no publicados — consultar red oficial",
+      fuente: "Según el manual Ducati de la Scrambler Icon 800, la revisión llega a los 12.000 km o al año; su coste no lo publica la marca y lo presupuesta su red oficial",
     },
   },
   {
@@ -339,7 +339,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
       "Estética neo-retro que no pasa de moda",
     ],
     contras: [
-      "80 CV se quedan cortos frente a rivales de 100+ CV",
+      "Los 80 CV resultan escasos frente a rivales de más de 100 CV",
       "230 kg: pesada para el campo",
       "Vibraciones del V2 transversal en autopista",
     ],
@@ -369,7 +369,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/trail/moto-guzzi/a-2",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "Tope de 10.000 km o 12 meses; el taller la programa antes de agotar el plazo",
       revisiones: [
         {
           nombre: "Primera revisión (1.500 km)",
@@ -409,7 +409,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     aprox: [],
     pros: [
       "Tricilíndrico de 931 cc con 124 CV y cigüeñal contrarrotante",
-      "5 años de garantía oficial, el doble que la mayoría de rivales",
+      "Garantía oficial de 5 años, dos veces lo habitual entre sus rivales",
       "Suspensiones electrónicas Sachs semi-activas",
       "Acabados de nivel artesanal, la trail más bella del segmento",
       "Llantas de radios tubeless de 21\" y 18\" para off-road real",
@@ -420,7 +420,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
       "Repuestos con plazos de entrega largos",
     ],
     curiosidades: [
-      "Es la primera trail de la historia de MV Agusta.",
+      "Ninguna trail de MV Agusta existía antes que esta Enduro Veloce.",
       "Su tricilíndrico deriva del motor de la Brutale, adaptado al trail.",
       "Para 2026 estrena tres nuevos colores.",
     ],
@@ -445,7 +445,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://millatrece.com/mv-agusta-enduro-veloce-2026/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses; se adelanta la revisión a lo primero que se cumpla",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -521,7 +521,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/ktm/390-smc-r-2025",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "7.500 km o 12 meses (lo que ocurra antes)",
+      intervalo: "7.500 km o 12 meses; la revisión toca cuando se cumple el primer plazo",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -560,7 +560,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "V2 de 1.350 cc con 190 CV y 145 Nm: la naked más salvaje",
+      "Su V2 de 1.350 cc rinde 190 CV con 145 Nm: la naked más salvaje del catálogo",
       "Suspensiones WP semi-activas electrónicas",
       "IMU 6D con ABS en curva y antiwheelie de última generación",
       "4 años de garantía, inusual en el segmento hypernaked",
@@ -597,7 +597,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/ktm",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses; el paso por taller llega con el primer límite",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -611,7 +611,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial KTM; costes no publicados — consultar red oficial",
+      fuente: "KTM fija la revisión de la 1390 Super Duke R EVO a los 15.000 km o 12 meses; el precio no está publicado y la red oficial de la marca da el importe",
     },
   },
   {
@@ -673,7 +673,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/ktm",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "Pauta de 15.000 km o 12 meses; la revisa el taller sin esperar al plazo",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -687,7 +687,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial KTM; costes no publicados — consultar red oficial",
+      fuente: "El manual de la 1390 Super Adventure S programa la revisión cada 15.000 km o 12 meses; KTM no difunde precios de taller y remite a su red oficial",
     },
   },
   {
@@ -749,7 +749,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/husqvarna/svartpilen-801",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses; se hace la revisión al vencer el primer plazo",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -825,7 +825,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://motos.coches.net/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "16.000 km o 12 meses, lo que antes venza",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
@@ -865,7 +865,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     aprox: [],
     pros: [
       "Tricilíndrico de 798 cc con 115 CV y gran entrega en medios",
-      "4 años de garantía sin límite de kilometraje",
+      "Garantía de 4 años sin tope de kilómetros",
       "Mantenimiento cada 16.000 km, de los más espaciados",
       "IMU con ABS y tracción en curva, quickshifter de serie",
       "Nueva versión Tour 2026 con maletas de serie",
@@ -901,7 +901,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/triumph/tiger-sport-800",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "16.000 km o 12 meses; el taller programa la revisión al llegar el plazo",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
@@ -915,7 +915,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Triumph; costes no publicados — consultar red oficial",
+      fuente: "La Tiger Sport 800 se revisa cada 16.000 km o 12 meses según Triumph; el taller no tiene precio publicado y la red oficial lo presupuesta",
     },
   },
   {
@@ -944,7 +944,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
       "Quickshifter Triumph Shift Assist de serie en 2026",
       "Horquilla Showa regulable y neumáticos Metzeler M9RR",
       "Limitable a 35 kW para el carnet A2",
-      "4 años de garantía sin límite de kilometraje",
+      "Cobertura de garantía de 4 años, sin límite de km",
     ],
     contras: [
       "95 CV se quedan cortos frente a la Aprilia RS 660",
@@ -977,7 +977,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/triumph/daytona-660",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "Tope de 16.000 km o 12 meses; al primer plazo adelanta la revisión",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
@@ -991,7 +991,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Triumph; costes no publicados — consultar red oficial",
+      fuente: "Triumph programa la Daytona 660 para revisión a los 16.000 km o 12 meses; sus concesionarios oficiales dan el presupuesto, sin precio publicado",
     },
   },
   {
@@ -1016,7 +1016,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Bóxer de 1.170 cc con 109 CV y el carácter clásico de BMW",
+      "El bóxer de 1.170 cc rinde 109 CV con el carácter clásico de BMW",
       "Homenaje a la R 80 G/S que inventó las trail",
       "Llanta delantera de 21\" con capacidad off-road real",
       "ABS Pro sensible a la inclinación",
@@ -1053,7 +1053,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/bmw",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses; en el taller, al vencer el plazo",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1092,7 +1092,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Bicilíndrico de 895 cc con 105 CV y bajos generosos",
+      "El bicilíndrico de 895 cc entrega 105 CV con bajos generosos",
       "219 kg: muy ligera para una trail de su potencia",
       "ABS Pro y modos de conducción incluido Enduro",
       "Homologación Euro 5+ desde 2025",
@@ -1104,7 +1104,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
       "Vibraciones del bicilíndrico en autopista",
     ],
     curiosidades: [
-      "Se renovó por completo en 2024 con 14 kg menos que la F 850 GS.",
+      "En 2024 se renovó por completo y perdió 14 kg frente a la F 850 GS.",
       "Existe la versión Adventure con depósito grande para viajar.",
       "Su depósito en posición trasera baja el centro de gravedad.",
     ],
@@ -1129,7 +1129,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/trail/bmw",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "Con 10.000 km o 12 meses; pasa por el taller antes de que venza el plazo",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1143,7 +1143,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial BMW Motorrad; costes no publicados — consultar red oficial",
+      fuente: "BMW Motorrad programa la F 900 GS para revisión a los 10.000 km o 12 meses; facilita el importe su red oficial, sin precio publicado",
     },
   },
   {
@@ -1205,7 +1205,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://hondamaquina.com/street/cb-1000-hornet-sp/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses; la revisión llega al vencer el primer plazo",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1281,7 +1281,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.movento.es/es/motos-nuevas/ficha-imprimir/honda-cl500-gasolina-46-ocasion-en-barcelona/43393186",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "Pauta de 12.000 km o 12 meses; programa la revisión al llegar el plazo",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1295,7 +1295,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Honda; costes no publicados — consultar red oficial",
+      fuente: "La CL500 se revisa cada 12.000 km o 12 meses conforme al manual Honda; la marca no difunde el coste y sus concesionarios lo presupuestan",
     },
   },
   {
@@ -1320,7 +1320,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Tricilíndrico CP3 de 890 cc con 119 CV, el mejor motor del segmento",
+      "El tricilíndrico CP3 de 890 cc da 119 CV: el mejor motor de su segmento",
       "IMU de 6 ejes con ayudas sensibles a la inclinación",
       "Cambio automatizado Y-AMT opcional",
       "193 kg: ligera para su potencia",
@@ -1334,7 +1334,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     curiosidades: [
       "La MT-09 creó el segmento hypernaked en 2013.",
       "Su motor CP3 es uno de los más laureados de la industria.",
-      "Existe versión limitada a 35 kW para el A2.",
+      "Hay una variante limitada a 35 kW para el carnet A2.",
     ],
     imagen: "/media/yamaha-mt-09-2026-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -1357,7 +1357,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/yamaha",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "Según el manual, 10.000 km o 12 meses; la revisión se realiza cuando vence el primer plazo",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1433,7 +1433,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://motos.coches.net/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "Límite de 10.000 km o 12 meses; toca la revisión cuando vence el plazo",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1447,7 +1447,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Yamaha; costes no publicados — consultar red oficial",
+      fuente: "El manual Yamaha de la Ténéré 700 Rally pone la revisión en 10.000 km o 12 meses; Yamaha no difunde el importe y su red oficial lo comunica",
     },
   },
   {
@@ -1509,7 +1509,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/kawasaki",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses; revisión en el taller al llegar el primer plazo",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1585,7 +1585,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/kawasaki-ninja-500-2024/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "Con 12.000 km o 12 meses; la revisa su taller al llegar el plazo",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1599,7 +1599,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Kawasaki; costes no publicados — consultar red oficial",
+      fuente: "Kawasaki programa la Ninja 500 SE para revisión a los 12.000 km o 12 meses; su red oficial elabora el presupuesto, sin precio publicado",
     },
   },
   {
@@ -1624,8 +1624,8 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Bicilíndrico de 776 cc con 83 CV y tacto lleno",
-      "Quickshifter bidireccional y control de crucero de serie",
+      "El bicilíndrico de 776 cc entrega 83 CV con tacto lleno",
+      "Quickshifter bidireccional con control de crucero incluido de serie",
       "3 años de garantía oficial Suzuki",
       "Homologable para el carnet A2",
       "10.795 €: la trail rutera con mejor equipo/precio",
@@ -1661,7 +1661,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.plusmoto.com/suzuki-v-strom-800-vs-yamaha-tracer-7-sport-touring-asequibles-para-rodar-todo.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses; adelanta la revisión al vencer el plazo",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1704,7 +1704,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
       "Horquilla Showa y amortiguadores Öhlins totalmente regulables",
       "250 mm de recorrido: aptitud off-road real",
       "Frenos Brembo Stylema con ABS en curva desconectable",
-      "4 años de garantía sin límite de kilometraje",
+      "4 años de cobertura oficial sin límite de kilometraje",
     ],
     contras: [
       "Precio alto para una scrambler",
@@ -1737,7 +1737,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/triumph/scrambler-1200-xe",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "16.000 km o 12 meses; al vencer el plazo, revisión en taller",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
@@ -1751,7 +1751,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Triumph; costes no publicados — consultar red oficial",
+      fuente: "El manual Triumph de la Scrambler 1200 XE pone la revisión en 16.000 km o 12 meses; el importe no se publica y se consulta en su red de concesionarios",
     },
   },
   {
@@ -1813,7 +1813,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://soymotero.net/motos/royal-enfield/guerrilla-450-2026/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses; su taller la revisa cuando vence el primer plazo",
       revisiones: [
         {
           nombre: "Primera revisión (500 km)",
@@ -1889,7 +1889,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://motos.coches.net/nuevas/royal_enfield/interceptor_650/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "La pauta es 10.000 km o 12 meses; llega la revisión al cumplirse el plazo",
       revisiones: [
         {
           nombre: "Primera revisión (500 km)",
@@ -1903,7 +1903,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Royal Enfield; costes no publicados — consultar red oficial",
+      fuente: "La Interceptor 650 se revisa cada 10.000 km o 12 meses según Royal Enfield; la marca no difunde el coste y su red oficial lo presupuesta",
     },
   },
 ];
