@@ -1974,3 +1974,8 @@ Base confirmada: `publicar-2000` ya está en origin (commit 21abc9238, igual que
 
 ## COSA (05:55 26/10) — Niky
 Confirmaste la ORD-20261026-0345, pero `niky-unicidad-2610` sigue sin commits. Empieza la tanda 1 ya y deja un parte con lo que llevas.
+
+## ORD-20261026-0600 — CATÁLOGO TIENDA (Niky) — reactiva ORD-0858
+Daniel pide MÍNIMO 40 productos reales para /tienda. Pon un grupo de agentes nuevo (no quites los de unicidad). Rama: `niky-catalogo-tienda-2610`, archivo `docs/tienda/catalogo.csv`.
+Por producto: SKU/vid de CJ, URL de CJ, coste, envío a España y plazo, PVP con la regla de márgenes de PROYECTO-TIENDA.md, CE/GPSR/UN38.3 si aplica, fotos con permiso de uso, modelos/marcas compatibles (accesorios específicos de modelo primero, genéricos sin cable después).
+Solo datos reales comprobados; si falta un dato, déjalo vacío y explica por qué. 1 unidad sin mínimo. Sin duplicados. Parte en el tablón al terminar y confirma en ACK.md.
