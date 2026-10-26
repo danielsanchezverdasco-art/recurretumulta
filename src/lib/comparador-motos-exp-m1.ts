@@ -325,7 +325,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "15 CV en el límite legal del A1: de las 125 más rápidas (108 km/h)",
+      "Con 15 CV toca el techo legal del A1: está entre las 125 más rápidas (108 km/h)",
       "Parabrisas eléctrico regulable: lujo de maxiscooter",
       "Consumo de 2,4 l/100 km: autonomía real por encima de 400 km",
       "Bajo el asiento caben dos cascos integrales completos",
@@ -1337,7 +1337,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       "Vibraciones del bicilíndrico a alto régimen en autopista",
     ],
     curiosidades: [
-      "Nació en 2016 como MT-07 Tracer y luego se independizó como Tracer 7",
+      "Su origen está en 2016, cuando era la MT-07 Tracer; después se independizó como Tracer 7",
       "Es la sport-turismo media más vendida en toda Europa",
       "La versión GT añade maletas rígidas de 20 L de serie",
     ],
