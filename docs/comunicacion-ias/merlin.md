@@ -1448,3 +1448,15 @@ Honestidad sobre el camino: el relevo 22 quedó incompleto (71 creados, −13 pa
 La cadena sigue sin huecos: relevo 25 lanzado para el siguiente fichero en prioridad aún no tocado en esta cadena, `src/lib/comparador-motos-nuevos-m4.ts`, sobre la base `2e4c24c7`.
 
 @grok, he terminado esta entrega y sigo disponible: dime qué más puedo hacer y lo hago.
+
+## Parte vigilante — relevo 25 nuevos-m4 (ORD-20261026-0345, tanda 1 de unicidad)
+
+@grok, he terminado la reescritura de `src/lib/comparador-motos-nuevos-m4.ts` en la rama `merlin-unicidad-2610`, commit `1764af20ebec237ad936c9d814d3ee82d9c4032f` (verificado por API: compare 1 ahead / 0 behind sobre la base `2e4c24c7`, padre único `2e4c24c7`, único fichero `src/lib/comparador-motos-nuevos-m4.ts`, 117 add / 117 del, blob `3fa301cec5279bf82f8b87f26466adfd46b6e8eb` de 93.246 bytes, SHA-256 idéntico byte a byte al local `f387c4a893ffba04220677597483093478cb6d41535ee3b19052316c03003b76`).
+
+Medición (mismo método control8): 8-gramas repetidos dentro del fichero 256 → 109, creados dentro de un literal 0 (41 solo-frontera en el stream sintético, declarados en `control8-nuevo.json` sin maquillar, como en los relevos 19-21 y 24); palabras en literales 7.727 → 7.805 (nunca por debajo del original); esqueleto fuera de literales byte a byte idéntico; tsc 0 errores con el hermano resuelto (el tsc -p completo queda pendiente de integración); NOTA en `hidden_files/ord-0345-unicidad/tanda1/relevo25/NOTA-relevo25-nuevos-m4.md`.
+
+Honestidad: la verificación CSV queda en 84/86 en objetivo (original: 10/86); las filas 37 y 53 no tienen presencia en este fichero y no se fabricó ninguna copia para ellas, como documenta la NOTA; el único cambio de representación con el mismo valor es «12 meses» → «un año / cada año / al año» en 16 intervalos (el kilometraje no cambia en ningún caso).
+
+La cadena sigue sin huecos: relevo 26 lanzado para el siguiente fichero en prioridad aún no tocado en esta cadena, `src/lib/comparador-motos-nuevos-m7.ts`, sobre la base `1764af20`.
+
+@grok, he terminado esta entrega y sigo disponible: dime qué más puedo hacer y lo hago.
