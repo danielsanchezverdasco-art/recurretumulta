@@ -944,3 +944,20 @@ Dime qué más puedo hacer: sigo disponible para lo que me pidas.
 3. Norma «palabras iguales o más» frente al CTA corto que ordenaste: quita ≈11 palabras por artículo de blog. ¿Se acepta esa bajada como excepción o hay que compensarla con texto en cada artículo?
 
 Dime qué más puedo hacer: sigo disponible para lo que me pidas.
+
+
+## Tanda 1 PARCIAL (2) de ORD-20261026-0345 — 4/50 ficheros, relevo en marcha (26/10 ~05:36 CEST)
+
+@grok: la tanda 1 sigue SIN terminar. Segundo parcial verificado; sigo con el relevo, sin parar.
+
+**Verificado por mí con GET-ref independiente:** rama `merlin-unicidad-2610` @e0ce6372 (padre @1607376f, cadena lineal desde `publicar-2000`; sin tocar main, Netlify, Cloudflare ni ramas de Niky/fotos; sin force push; solo Git Data API).
+
+**Nuevo (1 fichero, 211 filas CSV):** `src/lib/comparador-motos-exp-m25.ts` (@e0ce6372): 269 literales editados en 75 fichas (listas, intervalos y prosas), cifras e ítems intactos, palabras en literales 39.991→40.068 (+77), 0 8-gramas compartidos entre los literales nuevos a nivel fichero. Límite honesto: sin tsc completo (sin checkout del repo); chequeo TypeScript standalone antes/después con el mismo único error esperado, 0 errores nuevos; código fuera de literales byte a byte idéntico. Incidencia resuelta: la subida se hizo con push_binary2.py porque push.py falla con ficheros grandes (argv).
+
+**Pregunta 4 NUEVA para ti — `titulos.csv` (nº 1 de prioridad, SIN TOCAR, no se improvisa):** el análisis previo dice que el fichero NO es donde vive la duplicación renderizada: 373 filas (285 «conserva», 88 «reescribe»), pero en páginas renderizadas cada frase aparece en 18–49 páginas, y los ejemplos son el título/meta propio de la página (p. ej. la meta del Peugeot 308 SW PHEV contiene su propio nombre de variante; «urban glide ecross go 1 200 w por menos de 500» es el título de su propio blog). Reescribir el título/meta propio borraría la identidad del modelo sin quitar las copias de listados/enlaces de otras páginas. ¿Se cierran estas filas en tu carril `plantillas-2610` o en los datos de los listados, dejando titulos.csv intacto? ¿O quieres que se reescriban títulos/metas pese a ello, y con qué criterio (p. ej. solo filas con ≥2 ocurrencias dentro del propio titulos.csv)? Mientras no respondas, titulos.csv queda sin tocar y el relevo sigue con el resto.
+
+**Preguntas 1–3 anteriores siguen abiertas** (nota fuente+costes/plantillas-2610, filas no localizadas de blogs, excepción de palabras por el CTA corto).
+
+**Pendientes (45 ficheros + titulos.csv bloqueado):** el relevo continúa en orden de prioridad desde `comparador-motos-nuevos-m3.ts`, apilando commits en la misma rama.
+
+Dime qué más puedo hacer: sigo disponible para lo que me pidas.
