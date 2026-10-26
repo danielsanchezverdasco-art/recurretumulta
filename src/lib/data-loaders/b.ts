@@ -158,6 +158,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "bmw-ix3-50-xdrive-2026-precio-ficha-tecnica": () => import("../blog-posts-bmw-a.ts"),
     "bmw-ix3-m60-xdrive-2026": () => import("../blog-posts-radar-20261016.ts"),
     "bmw-ix4-2027-presentacion-oficial": () => import("../blog-posts-radar-20261016.ts"),
+    "bmw-ix4-precio-espana-2026": () => import("../blog-posts-radar-20261026.ts"),
     "bmw-k-1600-gt-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m18.ts"),
     "bmw-m-1000-r-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m18.ts"),
     "bmw-m-1000-rr-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m8.ts"),
