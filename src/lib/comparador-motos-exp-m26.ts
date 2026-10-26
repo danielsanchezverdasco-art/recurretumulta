@@ -29,7 +29,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "94 CV y 79 Nm con solo 186 kg: la naked media más afilada por 7.495 €",
       "Dos versiones (Sport 7.495 € y Advance 8.195 €): la Advance añade pantalla táctil vertical de 8 pulgadas con Apple CarPlay, arranque por proximidad y amortiguador de dirección",
       "Parte ciclo seria: horquilla KYB de 43 mm totalmente regulable y frenos J.Juan con ABS de Bosch",
-      "Electrónica completa: quickshifter, control de tracción, control de crucero y tres programas de conducción (Sport, Street y Rain)",
+      "Paquete electrónico completo: quickshifter, control de crucero, control de tracción y tres programas de conducción (Sport, Street y Rain)",
       "Limitable para el carnet A2 y con 3 años de garantía oficial",
       "Diseño premiado con el Red Dot Award 2024",
     ],
@@ -71,7 +71,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, lo que se cumpla",
+      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, según lo primero que se cumpla",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -570,7 +570,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km de rodaje, luego cada 6.000 km o 12 meses, lo primero, con revisión anual obligatoria",
+      intervalo: "Después de 1.000 km de rodaje, la SRK 921 vuelve al taller cada 6.000 km o al cumplir 12 meses, lo que llegue antes, con revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -653,7 +653,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km de rodaje y después cada seis mil kilómetros en taller, o 12 meses, lo que ocurra antes; revisión anual obligatoria",
+      intervalo: "Rodaje de 1.000 km; luego el taller espera cada 6.000 km o cada 12 meses, según lo primero que ocurra; revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1970,7 +1970,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "V-twin de 476 cc con 47 CV: en el tope del A2, sin tener que limitarlo",
+      "V-twin de 476 cc con 47 CV que roza el techo del A2 sin necesidad de limitarlo",
       "Transmisión final por correa: cero mantenimiento frente a la cadena",
       "198 kg, ligera para ser una custom bicilíndrica",
       "Biplaza homologada, con sitio real para el acompañante",
