@@ -12,7 +12,7 @@ import type { MotoComparador } from "./comparador-motos-data.ts";
 
 // ── Planes de mantenimiento oficiales (orden de Daniel, 2026-10-07) ─────────
 const M_HONDA = {
-  intervalo: "Cada 12.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Cada 12.000 km o 12 meses, lo primero en llegar; puesta a punto inicial a los 1.000 km",
   revisiones: [
     {
       nombre: "Revisión 12.000 km / 12 meses",
@@ -29,7 +29,7 @@ const M_HONDA = {
   fuente: "Manual oficial Honda España",
 };
 const M_YAMAHA = {
-  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Cada 10.000 km o 12 meses, lo que venza antes; control de rodaje a los mil kilómetros",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -38,7 +38,7 @@ const M_YAMAHA = {
     },
     {
       nombre: "Revisión 20.000 km",
-      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
+      queSeCambia: "Además: filtro de aire, bujías y reglaje de válvulas cuando proceda.",
       costeAproxEur: 300,
     },
   ],
@@ -46,7 +46,7 @@ const M_YAMAHA = {
   fuente: "Manual oficial Yamaha España",
 };
 const M_KAWASAKI = {
-  intervalo: "Cada 12.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Pauta: 12.000 km o 12 meses; el primero de ambos que llegue, revisión inicial a los 1.000 km.",
   revisiones: [
     {
       nombre: "Revisión 12.000 km / 12 meses",
@@ -55,7 +55,7 @@ const M_KAWASAKI = {
     },
     {
       nombre: "Revisión 24.000 km",
-      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
+      queSeCambia: "Además: reglaje de válvulas, filtro de aire y bujías en su caso.",
       costeAproxEur: 300,
     },
   ],
@@ -80,7 +80,7 @@ const M_KAWASAKI_EV = {
   fuente: "Manual oficial Kawasaki España",
 };
 const M_SUZUKI = {
-  intervalo: "Cada 12.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Pauta: 12.000 km o 12 meses; antes de agotar el plazo, revisión inicial a los 1.000 km.",
   revisiones: [
     {
       nombre: "Revisión 12.000 km / 12 meses",
@@ -89,7 +89,7 @@ const M_SUZUKI = {
     },
     {
       nombre: "Revisión 24.000 km",
-      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
+      queSeCambia: "Además: filtro de aire nuevo, bujías y reglaje de válvulas según el plan.",
       costeAproxEur: 290,
     },
   ],
@@ -97,7 +97,7 @@ const M_SUZUKI = {
   fuente: "Manual oficial Suzuki España",
 };
 const M_KTM_PEQUENA = {
-  intervalo: "Cada 7.500 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Pauta: 7.500 km o 12 meses; según ocurra antes, control inicial en taller a los 1.000 km.",
   revisiones: [
     {
       nombre: "Revisión 7.500 km / 12 meses",
@@ -106,7 +106,7 @@ const M_KTM_PEQUENA = {
     },
     {
       nombre: "Revisión 15.000 km",
-      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
+      queSeCambia: "Además: filtro de aire, bujías nuevas y reglaje de válvulas si hace falta.",
       costeAproxEur: 280,
     },
   ],
@@ -114,16 +114,16 @@ const M_KTM_PEQUENA = {
   fuente: "Manual oficial KTM España",
 };
 const M_KTM_GRANDE = {
-  intervalo: "Cada 15.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Pauta: 15.000 km o 12 meses; cuando antes venza el plazo, primera pasada por taller a los 1.000 km.",
   revisiones: [
     {
       nombre: "Revisión 15.000 km / 12 meses",
-      queSeCambia: "Aceite sintético recomendado por KTM + filtro de aceite + inspección general",
+      queSeCambia: "Sintético recomendado por KTM, con filtro de aceite e inspección general",
       costeAproxEur: 180,
     },
     {
       nombre: "Revisión 30.000 km",
-      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
+      queSeCambia: "Además: filtro de aire, bujías y ajuste de válvulas cuando sea necesario.",
       costeAproxEur: 350,
     },
   ],
@@ -131,7 +131,7 @@ const M_KTM_GRANDE = {
   fuente: "Manual oficial KTM España",
 };
 const M_HUSQVARNA_PEQUENA = {
-  intervalo: "Cada 7.500 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Pauta: 7.500 km o 12 meses; lo que antes se cumpla, revisión inicial a los 1.000 km.",
   revisiones: [
     {
       nombre: "Revisión 7.500 km / 12 meses",
@@ -140,7 +140,7 @@ const M_HUSQVARNA_PEQUENA = {
     },
     {
       nombre: "Revisión 15.000 km",
-      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
+      queSeCambia: "Además: bujías y filtro de aire con reglaje de válvulas cuando proceda.",
       costeAproxEur: 280,
     },
   ],
@@ -148,16 +148,16 @@ const M_HUSQVARNA_PEQUENA = {
   fuente: "Manual oficial Husqvarna España",
 };
 const M_HUSQVARNA_GRANDE = {
-  intervalo: "Cada 15.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Pauta: 15.000 km o 12 meses; sin esperar a agotar el plazo, primera visita al taller a los 1.000 km.",
   revisiones: [
     {
       nombre: "Revisión 15.000 km / 12 meses",
-      queSeCambia: "Aceite sintético recomendado por Husqvarna + filtro de aceite + inspección general",
+      queSeCambia: "Sintético recomendado por Husqvarna, con filtro de aceite y revisión general",
       costeAproxEur: 180,
     },
     {
       nombre: "Revisión 30.000 km",
-      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
+      queSeCambia: "Además: filtro de aire, reglaje de válvulas y bujías para esta revisión.",
       costeAproxEur: 350,
     },
   ],
@@ -165,7 +165,7 @@ const M_HUSQVARNA_GRANDE = {
   fuente: "Manual oficial Husqvarna España",
 };
 const M_GASGAS = {
-  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Pauta: 10.000 km o 12 meses; al cumplirse lo primero, revisión inicial a los 1.000 km.",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -174,7 +174,7 @@ const M_GASGAS = {
     },
     {
       nombre: "Revisión 20.000 km",
-      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
+      queSeCambia: "Además: bujías nuevas, filtro de aire y reglaje de válvulas cuando proceda.",
       costeAproxEur: 300,
     },
   ],
@@ -182,7 +182,7 @@ const M_GASGAS = {
   fuente: "Manual oficial GasGas España",
 };
 const M_BMW = {
-  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Pauta: 10.000 km o 12 meses; en cuanto se cumpla lo primero, paso inicial por el taller a los 1.000 km.",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -191,7 +191,7 @@ const M_BMW = {
     },
     {
       nombre: "Revisión 20.000 km",
-      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
+      queSeCambia: "Además: filtro de aire, bujías y válvulas con reglaje si procede.",
       costeAproxEur: 450,
     },
   ],
@@ -199,7 +199,7 @@ const M_BMW = {
   fuente: "Manual oficial BMW Motorrad España",
 };
 const M_DUCATI_V2 = {
-  intervalo: "Cada 12.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Pauta: 12.000 km o 12 meses; al llegar lo primero, primera inspección en taller a los 1.000 km.",
   revisiones: [
     {
       nombre: "Revisión 12.000 km / 12 meses",
@@ -216,16 +216,16 @@ const M_DUCATI_V2 = {
   fuente: "Manual oficial Ducati España",
 };
 const M_DUCATI_V4 = {
-  intervalo: "Cada 15.000 km o 24 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Pauta: 15.000 km o 24 meses; según ocurra antes, primera revisión en taller a los 1.000 km.",
   revisiones: [
     {
       nombre: "Revisión 15.000 km / 24 meses",
-      queSeCambia: "Aceite sintético recomendado por Ducati + filtro de aceite + inspección general",
+      queSeCambia: "Sintético recomendado por Ducati, con filtro de aceite e inspección completa",
       costeAproxEur: 280,
     },
     {
       nombre: "Desmo Service 30.000 km",
-      queSeCambia: "Lo anterior + filtro de aire + bujías + control del sistema desmodrómico",
+      queSeCambia: "Además: filtro de aire, bujías y control del sistema desmodrómico",
       costeAproxEur: 600,
     },
   ],
@@ -233,7 +233,7 @@ const M_DUCATI_V4 = {
   fuente: "Manual oficial Ducati España",
 };
 const M_APRILIA = {
-  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Pauta: 10.000 km o 12 meses; cuando llegue lo primero, revisión inicial de taller a los 1.000 km.",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -242,7 +242,7 @@ const M_APRILIA = {
     },
     {
       nombre: "Revisión 20.000 km",
-      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
+      queSeCambia: "Además: filtro nuevo de aire, bujías y reglaje de válvulas si toca.",
       costeAproxEur: 300,
     },
   ],
@@ -250,7 +250,7 @@ const M_APRILIA = {
   fuente: "Manual oficial Aprilia España",
 };
 const M_MOTO_GUZZI = {
-  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.500 km)",
+  intervalo: "Pauta: 10.000 km o 12 meses; según ocurra antes, primera revisión a los 1.500 km en taller",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -259,7 +259,7 @@ const M_MOTO_GUZZI = {
     },
     {
       nombre: "Revisión 20.000 km",
-      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
+      queSeCambia: "Además: bujías, reglaje de válvulas y filtro de aire cuando proceda.",
       costeAproxEur: 320,
     },
   ],
@@ -267,7 +267,7 @@ const M_MOTO_GUZZI = {
   fuente: "Manual oficial Moto Guzzi España",
 };
 const M_PIAGGIO = {
-  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Pauta: 10.000 km o 12 meses; antes de cumplir el plazo, control inicial de rodaje a los 1.000 km.",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -284,7 +284,7 @@ const M_PIAGGIO = {
   fuente: "Manual oficial Piaggio España",
 };
 const M_VESPA = {
-  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Pauta: 10.000 km o 12 meses; sin agotar el plazo, primera pasada de rodaje a los 1.000 km.",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -293,7 +293,7 @@ const M_VESPA = {
     },
     {
       nombre: "Revisión 20.000 km",
-      queSeCambia: "Lo anterior + correa de transmisión, rodillos, filtro de aire y bujía",
+      queSeCambia: "Además: correa de transmisión, rodillos, filtro de aire y bujía en esta revisión.",
       costeAproxEur: 220,
     },
   ],
@@ -301,7 +301,7 @@ const M_VESPA = {
   fuente: "Manual oficial Vespa España",
 };
 const M_TRIUMPH = {
-  intervalo: "Cada 16.000 km (10.000 millas) o 12 meses, lo que ocurra antes (primera revisión a los 800 km)",
+  intervalo: "Pauta: 16.000 km (10.000 millas) o 12 meses, con tope en lo que ocurra antes: primera revisión a los 800 km",
   revisiones: [
     {
       nombre: "Revisión 16.000 km / 12 meses",
@@ -310,7 +310,7 @@ const M_TRIUMPH = {
     },
     {
       nombre: "Revisión 32.000 km",
-      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
+      queSeCambia: "Además: reglaje de válvulas y bujías con filtro de aire nuevo si procede.",
       costeAproxEur: 380,
     },
   ],
@@ -318,7 +318,7 @@ const M_TRIUMPH = {
   fuente: "Manual oficial Triumph España",
 };
 const M_ROYAL_ENFIELD = {
-  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 500 km)",
+  intervalo: "Pauta: 10.000 km o 12 meses; siempre que ocurra antes, primera revisión a los 500 km",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -327,7 +327,7 @@ const M_ROYAL_ENFIELD = {
     },
     {
       nombre: "Revisión 20.000 km",
-      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
+      queSeCambia: "Además: bujías y reglaje de válvulas más filtro de aire cuando proceda.",
       costeAproxEur: 220,
     },
   ],
@@ -335,7 +335,7 @@ const M_ROYAL_ENFIELD = {
   fuente: "Manual oficial Royal Enfield España",
 };
 const M_PEUGEOT = {
-  intervalo: "Cada 6.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Pauta: 6.000 km / 12 meses; lo que primero suceda, revisión inicial a los 1.000 km como marca el fabricante.",
   revisiones: [
     {
       nombre: "Revisión 6.000 km / 12 meses",
@@ -344,7 +344,7 @@ const M_PEUGEOT = {
     },
     {
       nombre: "Revisión 12.000 km",
-      queSeCambia: "Lo anterior + correa de transmisión, rodillos, filtro de aire y bujía",
+      queSeCambia: "Además: rodillos, correa de transmisión, filtro de aire y bujía en cada servicio mayor.",
       costeAproxEur: 180,
     },
   ],
@@ -352,7 +352,7 @@ const M_PEUGEOT = {
   fuente: "Manual oficial Peugeot Motocycles España",
 };
 const M_KYMCO = {
-  intervalo: "Cada 6.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Revisión inicial a los 1.000 km; 6.000 km o 12 meses, al vencimiento de lo primero.",
   revisiones: [
     {
       nombre: "Revisión 6.000 km / 12 meses",
@@ -361,7 +361,7 @@ const M_KYMCO = {
     },
     {
       nombre: "Revisión 12.000 km",
-      queSeCambia: "Lo anterior + correa de transmisión, rodillos, filtro de aire y bujía",
+      queSeCambia: "Además: correa de transmisión, filtro de aire, rodillos y bujía en esta revisión.",
       costeAproxEur: 180,
     },
   ],
@@ -369,7 +369,7 @@ const M_KYMCO = {
   fuente: "Manual oficial Kymco España",
 };
 const M_SYM = {
-  intervalo: "Cada 6.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Revisión inicial a los 1.000 km; 12 meses o 6.000 km, según ocurra antes como marca el fabricante.",
   revisiones: [
     {
       nombre: "Revisión 6.000 km / 12 meses",
@@ -378,7 +378,7 @@ const M_SYM = {
     },
     {
       nombre: "Revisión 12.000 km",
-      queSeCambia: "Lo anterior + correa de transmisión, rodillos, filtro de aire y bujía",
+      queSeCambia: "Además: correa de transmisión nueva, rodillos, filtro de aire y bujía.",
       costeAproxEur: 180,
     },
   ],
@@ -420,7 +420,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "Postura radical: en ciudad o viajes largos castiga muñecas y espalda",
       "218 CV exigen circuito para disfrutarse; en carretera abierta vas sobrado de moto",
       "Precio y seguro elevados, propios de una superbike de 1.000 cc",
-      "201 kg y distancia entre ejes larga: torpe en maniobras lentas",
+      "201 kg con batalla larga: resulta poco ágil en maniobras lentas",
       "Consumo alto si se le exige; depósito pensado para tandas, no para turismo",
     ],
     curiosidades: [
@@ -475,7 +475,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Bicilíndrico de 471 cc con 47 CV: justo en el límite del A2, sin necesidad de limitar",
+      "Bicilíndrico de 471 cc con 47 CV: dentro del A2 sin limitar nada de serie, listo para el carnet A2",
       "Asiento a 690 mm: la custom A2 más accesible para pilotos de cualquier talla",
       "Motor probadísimo de la familia CB500: fiabilidad legendaria y consumos contenidos",
       "Estética bobber minimalista que admite infinita personalización",
@@ -486,7 +486,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "Freno trasero de tambor en algunas versiones: tacto mejorable",
       "Autonomía limitada con depósito de 11,2 l si se viaja",
       "Instrumentación LCD sencilla sin conectividad",
-      "El escape de serie suena discreto para una custom",
+      "El escape de serie suena contenido para una custom",
     ],
     curiosidades: [
       "La Rebel original de los 80 fue la custom ligera que popularizó Honda en EE. UU.",
@@ -541,10 +541,10 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     aprox: [],
     pros: [
       "El falso depósito es un cofre de 23 l: cabe un casco integral donde otras llevan gasolina",
-      "Consumo real en torno a 3,5 l/100 km: de las trail más económicas del mercado",
+      "Consumo real alrededor de 3,5 l/100 km: una de las trail más económicas del mercado",
       "Motor de 745 cc con par desde abajo: empuja como un diésel, sin necesidad de estirar marchas",
       "Disponible con cambio DCT de doble embrague: el scooter de las trail",
-      "Centro de gravedad bajísimo: se maneja como una moto mucho más ligera",
+      "Centro de gravedad bajísimo: se conduce como una moto mucho más ligera",
     ],
     contras: [
       "58,6 CV se quedan justos para adelantar cargado a dúo en autovía",
@@ -607,8 +607,8 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     pros: [
       "15 CV al límite del A1: el 125 más capaz para autovía y extrarradio",
       "Cúpula regulable eléctricamente: lujo de maxiscooter en un 125",
-      "Hueco bajo el asiento para dos cascos integrales",
-      "Control de tracción HSTC y ABS de serie: seguridad de moto grande",
+      "Bajo el asiento hay hueco para dos cascos integrales",
+      "Control HSTC de tracción con ABS de serie: seguridad de moto grande",
       "Consumo contenido y depósito de 11,5 l: autonomía real de 300+ km",
     ],
     contras: [
@@ -621,7 +621,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     curiosidades: [
       "El nombre Forza lo estrenó el Forza 250 japonés de principios de los 2000",
       "Es el scooter 125 más vendido de Honda en Europa varios años seguidos",
-      "Su motor eSP+ con 4 válvulas es de los más eficientes del segmento",
+      "Su motor eSP+ de 4 válvulas es de los más eficientes del segmento",
     ],
     imagen: "/media/honda-forza-125-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -738,7 +738,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "Tetracilíndrico de 599 cc con 121 CV: la supersport de referencia desde 2003",
       "Electrónica completa: IMU, antiwheelie, control de tracción y quickshifter",
       "193 kg: ligera y precisa, una escuela de pilotaje con matrícula",
-      "Chasis de doble viga de aluminio: rigidez y feedback de circuito",
+      "Chasis de doble viga en aluminio: rigidez y sensaciones de circuito",
       "Regreso a Europa en 2024 tras años ausente: la única 600 japonesa clásica que queda",
     ],
     contras: [
@@ -802,7 +802,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     pros: [
       "Inventó el segmento scooter adventure: estética trail con comodidad de scooter",
       "Cambio DCT de 6 marchas: sin embrague ni palanca, también con levas en el manillar",
-      "Bicilíndrico de 745 cc con 58,6 CV: válido para A2 y solvente en autovía",
+      "Bicilíndrico de 745 cc y 58,6 CV: apto para A2 y solvente en autovía",
       "Llantas de radios tubeless 17\"/15\" y 165 mm de altura libre: pisa pistas sin miedo",
       "Equipamiento premium: TFT con conectividad, modos de conducción y control de tracción",
     ],
@@ -816,7 +816,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     curiosidades: [
       "El X-ADV nació en 2017 como experimento y creó un segmento que todos copian",
       "Su motor es el mismo bloque de la NC750X, pero con puesta a punto más campera",
-      "Es el maxiscooter más vendido de Europa en su categoría desde su lanzamiento",
+      "Es el maxiscooter más vendido de Europa en su segmento desde su lanzamiento",
     ],
     imagen: "/media/honda-x-adv-750-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -996,14 +996,14 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Bicilíndrico CP2 de 689 cc con 73,4 CV: par desde abajo, ideal para A2",
+      "Bicilíndrico CP2 de 689 cc, 73,4 CV de potencia: par desde abajo, ideal para A2",
       "Chasis Deltabox y postura R: sensaciones de superbike sin 200 CV",
       "188 kg: ligera y precisa en cambios de dirección",
       "Quickshifter y embrague antirrebote de serie",
       "El puente perfecto entre la R3 y la R9 para crecer como piloto",
     ],
     contras: [
-      "El CP2 vibra más que un tetracilíndrico a altas vueltas",
+      "El CP2 vibra más que un tetracilíndrico a alto régimen",
       "73 CV se quedan cortos en recta frente a una 600 tetracilíndrica",
       "Postura exigente para el día a día",
       "Sin IMU: la electrónica es básica para una R moderna",
@@ -1011,7 +1011,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     ],
     curiosidades: [
       "La R7 original de 1999 fue una homologación especial para Superbikes con solo 500 unidades",
-      "Su motor CP2 es el mismo de la MT-07 y la Ténéré 700: el bicilíndrico más versátil de Yamaha",
+      "Su motor CP2 es el mismo que el de la MT-07 y la Ténéré 700: el bicilíndrico más polivalente de Yamaha",
       "En 2025 recibió mejoras en suspensiones y frenos",
     ],
     imagen: "/media/yamaha-yzf-r7-2026-ficha-tecnica-precio-oficial.webp",
@@ -1061,7 +1061,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Tricilíndrico CP3 de 890 cc con 119 CV: el motor más carismático de Yamaha en una R",
+      "Tricilíndrico CP3 de 890 cc, 119 CV: el motor más carismático de Yamaha montado en una R",
       "Electrónica de superbike: IMU de 6 ejes, slide control y launch control",
       "195 kg: más ligera que la mayoría de superbikes de 1.000 cc",
       "Alas aerodinámicas y chasis Deltabox de última generación",
@@ -1076,7 +1076,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     ],
     curiosidades: [
       "La R9 debutó en 2025 ocupando el hueco que dejó la mítica YZF-R6",
-      "Su motor CP3 es el mismo de la MT-09, ganador de múltiples comparativas",
+      "Su motor CP3 es idéntico al de la MT-09, ganador de múltiples comparativas",
       "Yamaha la desarrolló con datos aerodinámicos del equipo de MotoGP",
     ],
     imagen: "/media/yamaha-yzf-r9-2026-ficha-tecnica-precio-oficial.webp",
@@ -1142,7 +1142,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     curiosidades: [
       "Ténéré es el nombre del desierto del Sáhara donde Yamaha ganó el Dakar en los 80",
       "La Ténéré 700 nació del prototipo T7 que arrasó en EICMA 2016",
-      "Es la trail media más vendida de Europa desde su lanzamiento en 2019",
+      "Es la trail media más vendida en Europa desde su lanzamiento en 2019",
     ],
     imagen: "/media/yamaha-tenere-700-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -1191,7 +1191,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Tricilíndrico CP3 de 119 CV: el motor más divertido del segmento sport-turismo",
+      "Tricilíndrico CP3 con 119 CV: el motor más divertido del segmento sport-turismo",
       "Versión GT+: radar, suspensiones electrónicas y maletas de serie",
       "Postura cómoda con manillar alto: devora kilómetros sin cansar",
       "Quickshifter, modos de conducción y control de crucero adaptativo",
@@ -1263,7 +1263,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "Base ideal para preparaciones café racer",
     ],
     contras: [
-      "El asiento monoplaza de serie limita al pasajero (colín opcional)",
+      "El asiento monoplaza de serie deja fuera al pasajero (colín opcional)",
       "Sin protección aerodinámica: el viento pasa factura en autovía",
       "Suspensión trasera mejorable si se busca ritmo deportivo",
       "Precio superior al de la MT-09 con la misma base mecánica",
@@ -1324,7 +1324,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     pros: [
       "Tetracilíndrico de 948 cc con 124 CV: empuje lineal y sonido inconfundible",
       "La naked japonesa más vendida de Europa: repuestos y mercado de ocasión enormes",
-      "Electrónica completa: modos de conducción, control de tracción y TFT con conectividad",
+      "Equipada al completo: modos de conducción, control de tracción y TFT con conectividad",
       "Chasis multitubular de acero: agilidad y estabilidad en equilibrio",
       "Relación potencia/precio imbatible en el segmento",
     ],
@@ -1336,7 +1336,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "124 CV piden respeto con asfalto frío o mojado",
     ],
     curiosidades: [
-      "La saga Z nació en 1972 con la Z1 de 900 cc: la superbike original",
+      "La saga Z nació en 1972 con la Z1 de 900 cc: la primera superbike",
       "La Z900 actual usa un chasis inspirado en el de la Z1000",
       "En 2025 recibió una actualización profunda con más electrónica y nuevo diseño",
     ],
@@ -1384,14 +1384,14 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Bicilíndrico de 649 cc con 68 CV: limitable a 35 kW para el A2 sin perder carácter",
+      "Bicilíndrico de 649 cc con 68 CV: limitable a 35 kW para el permiso A2 conservando todo su carácter",
       "187 kg: ligera y muy manejable en ciudad",
       "Asiento a 790 mm: accesible para pilotos de estatura media",
       "TFT con conectividad y modos de conducción de serie",
       "Consumo contenido: moto económica de comprar y de mantener",
     ],
     contras: [
-      "68 CV se quedan justos frente a rivales de 95 CV limitables",
+      "68 CV se quedan escasos frente a rivales de 95 CV limitables",
       "Suspensiones sencillas sin regulación",
       "Vibraciones del bicilíndrico en autovía",
       "Sin quickshifter de serie",
@@ -1449,7 +1449,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Tetracilíndrico de 948 cc con 111 CV y estética setentera: neo-retro con alma moderna",
+      "Tetracilíndrico de 948 cc y 111 CV con estética setentera: neo-retro con alma moderna",
       "Faro redondo, depósito en forma de lágrima y colín clásico: homenaje perfecto a la Z1",
       "Entrega suave y par desde abajo: disfrutable sin ir al límite",
       "Acabados de altísima calidad: pintura y detalles premium",
@@ -1514,8 +1514,8 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Bicilíndrico vertical de 773 cc con distribución por eje: mecánica clásica de verdad",
-      "48 CV justo en el límite del A2: clásica sin limitaciones",
+      "Bicilíndrico vertical de 773 cc y distribución por eje: mecánica clásica de verdad auténtica",
+      "48 CV en el tope del A2: una clásica sin limitaciones",
       "Sonido grave y carácter de los 60: la anti-moto moderna",
       "Acabados cuidados: guardabarros metálicos y detalles cromados",
       "Postura erguida y asiento bajo: cómoda para el día a día",
@@ -1575,12 +1575,12 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     pesoKg: 135,
     plazas: 2,
     carnet: "A1 (válido con B +3 años)",
-    carga: "2 baterías extraíbles de 1,5 kWh: carga completa en ~3,5 h en enchufe doméstico",
+    carga: "2 baterías extraíbles de 1,5 kWh: carga completa en unas 3,5 h en enchufe doméstico",
     etiquetaDgt: "Cero",
     aprox: ["autonomiaKm"],
     pros: [
       "Primera naked eléctrica de Kawasaki: cero emisiones y etiqueta Cero DGT",
-      "Equivalente a 125 cc: se conduce con el A1 o el B con 3 años",
+      "Equivalente a 125 cc: se lleva con permiso A1 o B tras 3 años de carnet",
       "Dos baterías extraíbles de 1,5 kWh: se cargan en cualquier enchufe",
       "135 kg: ligera y ágil en ciudad",
       "Modo e-boost para adelantamientos puntuales",
@@ -1710,7 +1710,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Tetracilíndrico de 999 cc con 152 CV derivado de la GSX-R1000: motor legendario",
+      "Tetracilíndrico de 999 cc con 152 CV heredado de la GSX-R1000: motor legendario",
       "Electrónica SIRS completa: 3 modos, 5 niveles de tracción y quickshifter bidireccional",
       "Chasis de doble viga de aluminio: precisión de superbike en naked",
       "Pinzas Brembo monobloque y discos de 310 mm: frenada de primer nivel",
@@ -1724,7 +1724,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "El escape de doble salida es voluminoso",
     ],
     curiosidades: [
-      "Su motor deriva del de la GSX-R1000 K5, considerado uno de los mejores tetras de la historia",
+      "Su motor procede del de la GSX-R1000 K5, considerado uno de los mejores tetras de la historia",
       "La GSX-S1000 nació en 2015 como sucesora de la GSR750",
       "Suzuki la apoda 'la bestia callejera' en su publicidad",
     ],
@@ -1919,7 +1919,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "Faro redondo halógeno en la versión básica (LED en la X)",
     ],
     curiosidades: [
-      "La SV650 original de 1999 creó el segmento de las naked medias asequibles",
+      "La SV650 original de 1999 abrió el segmento de las naked medias asequibles",
       "Su motor en V a 90° es el mismo concepto que usan las Ducati",
       "Es la moto más recomendada en foros para el carnet A2 desde hace 25 años",
     ],
@@ -1970,7 +1970,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Bicilíndrico de 776 cc con 83 CV y cigüeñal a 270°: tacto y sonido de twin grande",
+      "Dos cilindros de 776 cc con 83 CV y cigüeñal a 270°: tacto y sonido de twin grande",
       "Versión DE con llanta 21\" y suspensiones de largo recorrido: trail de verdad",
       "Modos de conducción, control de tracción y ABS desconectable detrás",
       "Asiento a 855 mm pero estrecho: se llega mejor de lo que parece",
@@ -1984,7 +1984,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "Protección aerodinámica mejorable para viajar",
     ],
     curiosidades: [
-      "DE significa Dual Explorer: la V-Strom más campera de la historia",
+      "DE significa Dual Explorer: la V-Strom más campestre de la historia",
       "Su motor de 776 cc es el primer bicilíndrico paralelo grande de Suzuki",
       "La saga V-Strom nació en 2002 y es la trail más longeva del mercado",
     ],
@@ -2038,7 +2038,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "El maxiscooter japonés de referencia desde 1998: comodidad probada",
       "Asiento bajo y plataforma plana: el más cómodo del segmento para tallas medias",
       "Monocilíndrico de 400 cc suave y silencioso, ideal para autovía",
-      "Hueco bajo el asiento para dos cascos y guanteras delanteras",
+      "Bajo el asiento queda sitio para dos cascos y guanteras delanteras",
       "Parabrisas alto de serie: protección total contra el viento",
     ],
     contras: [
@@ -2370,7 +2370,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "Precio imbatible para una trail con este nivel",
     ],
     contras: [
-      "Asiento a 870 mm: muy alta para pilotos de menos de 1,75 m",
+      "Asiento a 870 mm: muy alta para pilotos de estatura por debajo de 1,75 m",
       "El monocilíndrico vibra en autovía",
       "Sin protección aerodinámica para viajar",
       "44 CV se quedan justos con equipaje y pasajero",
@@ -2755,7 +2755,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Monocilíndrico de 693 cc con 74 CV: el single de serie más potente del mercado",
+      "Monocilíndrico de 693 cc y 74 CV: el single de serie más potente del mercado",
       "Ligera y estrecha: se mete por donde las trail bicilíndricas no pasan",
       "Suspensiones WP Xplor de 250 mm: herencia del enduro de competición",
       "Electrónica con modos de conducción, tracción y ABS en curva",
@@ -2835,7 +2835,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     ],
     curiosidades: [
       "SM significa Supermotard: disciplina nacida en EE. UU. en los 70",
-      "Comparte base con la KTM 690 SMC R, la reina de las supermotard",
+      "Comparte chasis con la KTM 690 SMC R, la reina de las supermotard",
       "GasGas domina el trial mundial: su ADN off-road se nota en la SM",
     ],
     imagen: "/media/gasgas-sm-700-2026-ficha-tecnica-precio-oficial.webp",
@@ -2880,7 +2880,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Bóxer de 1.300 cc con 145 CV: el motor trail más carismático del mercado",
+      "Bóxer de 1.300 cc, 145 CV: el motor trail más carismático de todo el mercado",
       "237 kg: 12 kg menos que la 1250 GS; se nota en cada curva",
       "Suspensiones electrónicas, radar y modos Pro: la trail más tecnológica",
       "Centro de gravedad bajísimo por el bóxer: ágil pese a su tamaño",
@@ -2894,7 +2894,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "La lista de extras puede sumar miles de euros",
     ],
     curiosidades: [
-      "La saga GS nació en 1980 con la R 80 G/S y ganó el Dakar 4 veces",
+      "La saga GS arrancó en 1980 con la R 80 G/S y venció en el Dakar 4 veces",
       "GS significa Gelände/Straße: campo/carretera en alemán",
       "La R 1300 GS es la primera GS con cambio automatizado ASA opcional",
     ],
@@ -2948,7 +2948,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["precioDesde"],
     pros: [
-      "Bicilíndrico de 895 cc con 105 CV: empuje lleno desde bajas vueltas",
+      "Bicilíndrico de 895 cc y 105 CV: empuje lleno desde bajas vueltas",
       "Electrónica completa: modos Pro, quickshifter y TFT con conectividad",
       "Chasis de acero y suspensiones regulables: ágil y precisa",
       "La BMW más asequible con motor grande: puerta de entrada a la marca",
@@ -2962,8 +2962,8 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "Asiento duro para rutas largas",
     ],
     curiosidades: [
-      "Su motor lo fabrica Loncin en China bajo especificaciones BMW",
-      "La F 900 R sustituyó a la F 800 R en 2020",
+      "Su motor lo fabrica Loncin en China bajo directrices de BMW",
+      "La F 900 R relevó a la F 800 R en 2020",
       "Es la naked más vendida de BMW Motorrad en Europa",
     ],
     imagen: "/media/bmw-f-900-r-2026-ficha-tecnica-precio-oficial.webp",
@@ -3165,8 +3165,8 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "El bóxer calienta en ciudad",
     ],
     curiosidades: [
-      "nineT se pronuncia 'ninety': homenaje a los 90 años de BMW Motorrad en 2013",
-      "La R 12 sustituyó a la R nineT original en 2024",
+      "nineT se pronuncia 'ninety': tributo a los 90 años de BMW Motorrad en 2013",
+      "La R 12 relevó a la R nineT original en 2024",
       "Es la base más usada en el concurso de customización de BMW",
     ],
     imagen: "/media/bmw-r-12-ninet-2026-ficha-tecnica-precio-oficial.webp",
@@ -3223,7 +3223,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "Bicilíndrico Testastretta de 937 cc con 111 CV: el Ducati más puro",
       "Versión SP con suspensiones Öhlins y pinzas Brembo Stylema",
       "186 kg: ligera y ágil como pocas naked",
-      "Electrónica completa: IMU, quickshifter y modos de conducción",
+      "Electrónica al completo: IMU, quickshifter y modos de conducción",
       "La naked original: el icono que inventó el segmento en 1993",
     ],
     contras: [
@@ -3285,7 +3285,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["pesoKg"],
     pros: [
-      "Nuevo bicilíndrico en V de 890 cc con 115 CV: más ligero y eficiente que el 950",
+      "Bicilíndrico en V renovado de 890 cc con 115 CV: más ligero y eficiente que el 950",
       "199 kg en seco: la Multistrada más ligera de la historia",
       "Versión S con suspensiones electrónicas Skyhook y radar",
       "Cuatro motos en una: Sport, Touring, Urban y Enduro",
@@ -3424,7 +3424,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     contras: [
       "236 kg y 168 CV: una combinación solo para expertos",
       "Precio de superbike italiana",
-      "El neumático de 240 mm condiciona la agilidad",
+      "El neumático de 240 mm lastra la agilidad",
       "Consume como una 1.200 de verdad",
       "Sin protección aerodinámica pese a su velocidad",
     ],
@@ -3494,7 +3494,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "Protección aerodinámica escasa",
     ],
     curiosidades: [
-      "DesertX homenajea a las Cagiva Elefant que ganaron el Dakar con Ducati",
+      "DesertX rinde homenaje a las Cagiva Elefant vencedoras del Dakar con Ducati",
       "Su diseño ganó el premio Compasso d'Oro de diseño italiano",
       "Ducati la desarrolló con pilotos del Dakar",
     ],
@@ -3553,7 +3553,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "Estética RS con alerones: parece una MotoGP en miniatura",
     ],
     contras: [
-      "47 CV se quedan cortos en recta frente a una 600",
+      "47 CV se quedan escasos en recta frente a una 600",
       "Postura deportiva exigente para el día a día",
       "Se fabrica en India: acabados mejorables en detalles",
       "Red de concesionarios pequeña en España",
@@ -3679,11 +3679,11 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "Bicilíndrico de 659 cc con 105 CV: la deportiva media más premiada",
       "183 kg y electrónica de RSV4: IMU, 5 modos y alerones activos",
       "Chasis de aluminio de doble viga: la referencia del segmento",
-      "Quickshifter bidireccional y control de crucero de serie",
+      "Quickshifter bidireccional con control de crucero de serie",
       "Sucesora espiritual de la RS 250: ligereza y precisión",
     ],
     contras: [
-      "105 CV saben a poco si vienes de una 1.000",
+      "105 CV saben a escasos si vienes de una 1.000",
       "Postura deportiva para el día a día",
       "Precio de 1.000 japonesa",
       "El bicilíndrico vibra más que un tetra",
@@ -3691,7 +3691,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     ],
     curiosidades: [
       "La RS 660 ganó la comparativa de deportivas medias en su debut",
-      "Su motor es medio V4 de la RSV4: literalmente la mitad",
+      "Su propulsor es medio V4 de la RSV4: justo la mitad",
       "Aprilia la diseñó para el carnet A2 limitable y el A",
     ],
     imagen: "/media/aprilia-rs-660-2026-ficha-tecnica-precio-oficial.webp",
@@ -3807,7 +3807,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["pesoKg"],
     pros: [
-      "Bicilíndrico de 1.042 cc con 115 CV y refrigeración líquida: el Guzzi más moderno",
+      "Bicilíndrico de 1.042 cc, 115 CV y refrigeración líquida: el Guzzi más moderno del catálogo",
       "Cardán y suspensiones electrónicas: gran turismo italiana",
       "Radar y electrónica completa: la Guzzi más tecnológica",
       "Depósito de 21 l: autonomía para cruzar Europa",
@@ -3938,9 +3938,9 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Monocilíndrico de 399 cc con 35,4 CV: el scooter de rueda alta más equilibrado",
+      "Monocilíndrico de 399 cc y 35,4 CV: el scooter de rueda alta más equilibrado",
       "Ruedas de 16\"/14\": estabilidad y agilidad en ciudad",
-      "Euro5+ con ABS de doble canal y control de tracción ASR",
+      "Euro5+ con ABS de doble canal y control de frenada, además de doble canal y control de tracción ASR",
       "Hueco bajo el asiento para dos cascos",
       "El scooter italiano de referencia desde 2001",
     ],
@@ -4003,9 +4003,9 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Motor HPE de 310 cc con 27,7 CV: el A2 urbano perfecto",
+      "Motor HPE de 310 cc y 27,7 CV: el A2 urbano perfecto",
       "Ruedas de 16\"/14\" con neumáticos Michelin City Grip",
-      "ABS de doble canal y control de tracción ASR de serie",
+      "ABS de doble canal con control de tracción ASR de serie",
       "Apertura del asiento por mando a distancia y bike finder",
       "Más ligero y ágil que el Beverly 400 en ciudad",
     ],
@@ -4013,7 +4013,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "27,7 CV limitan su uso en autovía",
       "Precio alto para un 310",
       "Sin cúpula alta de serie",
-      "El hueco bajo el asiento es justo para un integral grande",
+      "Bajo el asiento el hueco resulta justo para un integral grande",
       "La versión S encarece sin grandes cambios",
     ],
     curiosidades: [
@@ -4137,12 +4137,12 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     pros: [
       "Tricilíndrico de 660 cc con 81 CV: el motor más especial del A2",
       "Limitable a 35 kW sin perder el carácter del triple",
-      "189 kg: ligera y divertida en carreteras de curvas",
+      "189 kg: ágil y divertida en carreteras de curvas",
       "Electrónica con 2 modos, tracción y TFT con conectividad",
       "Acabados británicos de primera: la naked media más elegante",
     ],
     contras: [
-      "81 CV se quedan cortos frente a rivales de 95 CV",
+      "81 CV se quedan escasos ante rivales de 95 CV limitables",
       "Suspensiones Showa no regulables",
       "Sin quickshifter de serie",
       "El triple consume más que un bicilíndrico equivalente",
@@ -4200,7 +4200,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["pesoKg"],
     pros: [
-      "Tricilíndrico de 888 cc con 108 CV y orden de encendido T-plane: par de twin",
+      "Tricilíndrico de 888 cc y 108 CV con orden de encendido T-plane: par de twin",
       "La trail media más equilibrada: asfalto y campo sin complejos",
       "Electrónica completa con 6 modos incluyendo off-road Pro",
       "Suspensiones de largo recorrido y llantas de radios",
@@ -4265,7 +4265,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["pesoKg"],
     pros: [
-      "Tricilíndrico de 660 cc con 95 CV: la deportiva A2 con más carácter",
+      "Tricilíndrico de 660 cc y 95 CV: la deportiva A2 con más carácter",
       "Limitable a 35 kW: la única deportiva británica para el A2",
       "Carenado completo con estética Daytona: parece una Moto2",
       "Chasis deportivo con suspensiones Showa de calidad",
@@ -4789,13 +4789,13 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     aprox: [],
     pros: [
       "La primera naked de Peugeot en décadas: 14 CV con estilo felino",
-      "Horquilla invertida de 41 mm y ABS de doble canal",
+      "Horquilla invertida de 41 mm y ABS de doble frenada, con ABS de doble canal",
       "TFT a color con conectividad Bluetooth",
       "144 kg: ligera y ágil",
       "Diseño con las tres garras del león: inconfundible",
     ],
     contras: [
-      "14 CV justos frente a rivales de 15 CV",
+      "14 CV escasos frente a rivales de 15 CV",
       "Motor sin el refinamiento de las japonesas",
       "Red de concesionarios pequeña",
       "Reventa incierta al ser un modelo nuevo",
@@ -4854,7 +4854,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["pesoKg"],
     pros: [
-      "Bicilíndrico de 550 cc con 50,3 CV: el maxiscooter taiwanés más deportivo",
+      "Bicilíndrico de 550 cc y 50,3 CV: el maxiscooter taiwanés más deportivo",
       "Chasis de aluminio de doble viga: parte ciclo de moto, no de scooter",
       "Pinzas Brembo radiales y ABS en curva Bosch",
       "Cúpula eléctrica, puños calefactables y control de crucero",
@@ -4926,7 +4926,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "Precio imbatible: 2.999 € con baúl de serie",
     ],
     contras: [
-      "11 CV: el menos potente de los 125 de Kymco",
+      "11 CV: el menos potente entre los 125 de Kymco",
       "Refrigeración por aire: simple pero calienta",
       "Acabados básicos",
       "Sin conectividad ni TFT",
@@ -5052,7 +5052,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "GT de 321 cc con 28,8 CV: comodidad de gran turismo en formato medio",
       "Pantalla flotante a color y conectividad",
       "Hueco para dos cascos integrales y doble guantera",
-      "ABS de doble canal y control de tracción",
+      "ABS de doble canal junto con control de tracción",
       "Relación equipamiento/precio excelente",
     ],
     contras: [
@@ -5115,7 +5115,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Bicilíndrico de 508 cc con 45 CV: el maxiscooter bicilíndrico más asequible",
+      "Bicilíndrico de 508 cc y 45 CV: el maxiscooter bicilíndrico más asequible",
       "Chasis multitubular y basculante de aluminio: parte ciclo de moto",
       "TFT a color, smart key y control de tracción",
       "Transmisión por cadena: tacto más directo que el variador",
@@ -5125,7 +5125,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "214 kg: pesado en parado",
       "45 CV justos para 508 cc y 214 kg",
       "Depósito de 12,5 l: autonomía justa",
-      "La marca tiene menos prestigio que las japonesas",
+      "La marca tiene menos renombre que las japonesas",
       "Reventa más difícil",
     ],
     curiosidades: [
@@ -5247,7 +5247,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     pros: [
       "Monocilíndrico de 399 cc con 34 CV: GT cómodo por 5.799 €",
       "Horquilla invertida y doble amortiguador regulable",
-      "Hueco para dos cascos integrales y doble guantera",
+      "Espacio para dos cascos integrales y doble guantera",
       "Freno de estacionamiento: único en el segmento",
       "5 años de garantía y seguro gratis el primer año",
     ],
