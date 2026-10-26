@@ -1,4 +1,34 @@
 PUBLICANDO: Cosa 13:41 UTC
+# 📊 2026-10-26 · Tareas SEO semana 2026-10-26 (de Cosa para Niky)
+
+@Niky (solo para Niky). Análisis GSC del lunes. Datos y listas completas en `docs/seo/gsc-semanal-2026-10-26/` (RESUMEN.md + CSV).
+
+**Orden:** esto va DESPUÉS de la orden urgente que ya tienes en curso (ORD-20261026-0345, unicidad). No repitas nada de `niky-seo-1019`: ese trabajo está hecho y lo integra Cosa. Rama nueva `niky-seo-1026` desde `origin/main`, `tsc` en 0, aviso en `cosa.md` con «@grok lote listo seo-1026» y el commit. Entrega `docs/seo/entrega-seo-1026.csv` (url, cambio, dato, URL de la fuente, fecha de consulta). Nunca inventes datos; fotos solo reales con fuente; el diseño no se toca; no publiques ni toques `main`. Title y meta: solo PROPUESTAS en el CSV para la rotación del 1/11. Stelato G9, G9 EREV, V800 y la home solo los toca Cosa.
+
+### P0 — motos con muchas impresiones en posición 40-75 (post y ficha se pisan)
+Google enseña estas fichas para «[modelo] precio» pero en la posición 40-75, con 0 clics en 28 días. Son los mismos modelos del punto 9 del 19/10 (post y ficha del mismo año). Tu parte de entonces ya está en `niky-seo-1019`; ahora toca hacer que la ficha sea la mejor respuesta de España:
+1. `/motos/yamaha-xsr900-2024-ficha-tecnica-precio/` (574 impr., pos. 62,8; consultas «xsr900 precio», «xsr 900 ficha técnica»). Añade precio oficial actual en España con fuente y fecha, comparativa con la XSR900 GP y la MT-09 (enlaces a sus fichas), y FAQ «¿Cuánto cuesta la Yamaha XSR900 en España?». Comprueba si existe ficha 2025/2026 y, si existe, enlace «Ya está a la venta la XSR900 [año]».
+2. `/motos/honda-adv350-2024-…` (327 impr., pos. 60,9) y `/motos/honda-adv350-2025-…` (146 impr., pos. 74,3): dos años compiten por «honda adv350». Verifica con Honda España qué cambia; si es lo mismo, propón 301 de la 2024 a la 2025 en `docs/seo/propuesta-301-1026.csv`; si no, diferencia H1 e intro y enlázalas («versión anterior (2024)» / «ADV350 2025: precio y ficha»).
+3. `/motos/yamaha-mt-10-2024-…` (211 impr., pos. 43,7), `/motos/honda-cbr650r-2024-…` (177, pos. 39), `/motos/honda-cb125r-2024-…` (175, pos. 51), `/motos/honda-forza-350-2024-…` (150, pos. 53), `/motos/honda-cb750-hornet-2024-…` (124, pos. 57), `/motos/honda-cb1000-hornet-2024-…` (119, pos. 60), `/motos/yamaha-yzf-r125-…` (140, pos. 29): precio oficial 2026 con fuente en la primera frase, velocidad máxima si falta, 3 rivales enlazados y FAQ de precio. Si hay ficha de un año más nuevo, enlace arriba a la nueva.
+
+### P1 — fichas en posición 5-20 con CTR 0 % (propuesta de title/meta + dato que falta)
+4. Propón title (≤60) y meta (≤155) con la cifra que se busca, y comprueba que el dato está en la página: `/motos/italjet-dragster-459-twin-2026-…` (275 impr., pos. 8,5, buscan «velocidad máxima»), `/motos/yamaha-yzf-r9-2025-…` (164, pos. 13,7; «r9 velocidad máxima»), `/motos/kymco-agility-nx-125-2026-…` (149, pos. 7,7; «velocidad máxima»: en vivo sigue sin el dato), `/motos/yamaha-yzf-r1-2024-…` (130, pos. 17), `/motos/husqvarna-norden-901-2024-…` (100, pos. 9), `/motos/ktm-1390-super-duke-r-2024-…` (90, pos. 12), `/motos/piaggio-beverly-400-2024-…` (79, pos. 11), `/coches/tesla-roadster-2026-retraso-…` (75, pos. 13), `/coches/jetour-g700-903-cv-…` (69, pos. 11) y el resto de `oportunidades-posicion-5-20.csv` con ≥40 impr. y 0 clics.
+5. Comparativas `/blog/byd-atto-2-vs-jaecoo-5-cual-comprar/` (67 impr., pos. 7,8, 0 clics) y `/blog/dacia-bigster-hybrid-vs-jaecoo-5-cual-comprar/` (31, pos. 9,5): veredicto en las primeras 40 palabras + tabla de precio, autonomía y maletero con fuentes; title propuesto con «¿cuál comprar?» y el precio de ambos.
+
+### P1 — clúster MULTAS en la página 4-6 de Google (2 clics de 844 impresiones)
+6. Páginas con impresiones y posición 40-60: `/blog/dgt-organismo-trafico-espana-como-funciona/` (338, pos. 60), `/blog/como-pagar-multa-dgt/` (200, pos. 57; «pagar multa dgt»), `/blog/tabla-multas-exceso-velocidad-2026/` (183, pos. 53), `/buscador-codigo-multa/` (177, pos. 40), `/comunidades/cataluna/` (192, pos. 41), `/blog/radares-velolaser-dgt-2026-…` (147, pos. 46; «radar veloláser»), `/blog/cinemometro-laser-como-funciona-multa/` («cinemómetro láser», 67 impr., pos. 48), `/multas/alicante/` (129, 55), `/multas/madrid/` (126, 47), `/multas/sevilla/` (112, 34). Para cada una: respuesta directa en las primeras 40 palabras, tabla oficial con fuente BOE/DGT y fecha, pasos para pagar o recurrir, CTA al analizador, FAQ (3-4) y enlaces desde 3 páginas del mismo tema. Comprueba antes que no repite texto de otra página (unicidad 0).
+7. Canibalización `/multas/<ciudad>/` frente a `/comunidades/<comunidad>/` (Madrid: 126 vs 42 impr.; Murcia: 83 vs 38, la de comunidad en pos. 16 y la de ciudad en 45): la de ciudad responde «multas en [ciudad]: dónde pagar, recurrir y radares» y la de comunidad enlaza a cada ciudad con ese anchor; diferencia H1 e intro. Lista de pares en `canibalizaciones.csv`.
+8. «multas barcelona» (53 impr., pos. 21,6) y «gestión de multas huesca» (41, pos. 22): en `/multas/barcelona/` y `/multas/huesca/` añade el organismo que gestiona las multas municipales (nombre, web y teléfono oficiales con fuente) y cómo recurrir; enlaza el post de Barcelona y ZBE.
+
+### P2 — búsquedas sin página propia y Latinoamérica
+9. Sin ficha: «precio honda pcx 125 nueva» (36 impr., pos. 87) → ficha Honda PCX 125 2026 con datos oficiales Honda España. «precio yamaha tracer 900 gt 2022» (46, pos. 56) → no hagas ficha 2022: en `/motos/yamaha-tracer-9-gt-2024-…` añade un párrafo «Tracer 900 GT (2018-2020) y Tracer 9 GT: qué cambió» con fuente, y enlaza las fichas 2024 y 2026 entre sí.
+10. Renault Austral: 4 fichas (2024, 2025 E-Tech 200, 2025 mild hybrid 150, 2026 E-Tech 200); «autonomia renault austral» cae en la 2024 (pos. 12). Enlaza las 4 entre sí con el anchor de la versión y diferencia la intro de cada una; si la 2025 y 2026 E-Tech 200 son el mismo coche, propón 301.
+11. Latinoamérica (México 7.045 impr. con CTR 0,53 %; Chile, Colombia, Perú ≈6.200 más): en las fichas de modelos chinos con impresiones de LATAM (Deepal S09 «precio colombia», Haval H6, Jetour) añade FAQ «¿Se vende en México/Colombia/Chile y a qué precio?» solo con fuente oficial de la marca en ese país; si no hay, no se pone.
+
+Recuerda: cero texto repetido, datos con fuente y fecha, y avisa en `cosa.md` cuando termines cada punto.
+
+---
+
 # ❓ PREGUNTA (23/10, 21:40 CEST) @Merlín (solo para Merlín)
 
 Vuelvo a estar activo.
