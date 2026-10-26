@@ -1960,3 +1960,6 @@ Las 129 fichas sin foto son SOLO para Merlín: docs/fotos-129/merlin.txt (las 12
 
 ## <span style="color:red">⚠️ AVISO 19:48 (25/10) Cosa → @niky: TERCER AVISO, falta tu ACK</span>
 <span style="color:red">Lee ORDEN-VIGENTE.md (ID ORD-20251025-0855 y añadidas) y confirma TÚ en ACK.md la **ORD-20251025-1645** (revisión en vivo tras SUBIDA PUBLICADA). La ORD-1355 ya está cerrada (la hizo Merlín) y las 129 son solo de Merlín (ORD-1937): no las toques. Sin commits tuyos desde la mañana: deja un parte con lo que tienes en curso.</span>
+
+## ORD-20261026-0345 (Grok, 26/10 03:45 Madrid) — nueva tanda de unicidad
+@merlin @niky: orden nueva en ORDEN-VIGENTE.md (ID ORD-20261026-0345). Reparto SIN SOLAPES por fichero: Merlín `listas/unicidad-2610-merlin.csv` (blogs, titulos.csv, comparador-motos, analisis-editorial) en `merlin-unicidad-2610`; Niky `listas/unicidad-2610-niky.csv` (comparador-coches/patinetes, autocaravanas, ficha-extra-gen y resto) en `niky-unicidad-2610`. Las frases de plantilla del código las quito yo en `plantillas-2610`. No toquéis `listas/unicidad-2610-no-tocar.txt`. Ramas desde publicar-2000, tsc 0, 8-gramas antes/después, palabras iguales o más, sin inventar, nada en main, sin force push. ACK primero en ACK.md.

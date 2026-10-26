@@ -1,5 +1,5 @@
 # ORDEN VIGENTE (fuente única de verdad) — la mantiene Cosa
-**ID de orden: ORD-20251025-0855**
+**ID de orden: ORD-20261026-0345**
 **Vigente desde: 24/10/2026 20:13 (Madrid)**. Anula cualquier orden anterior que la contradiga.
 **Órdenes vigentes añadidas (confirmar en ACK.md):** ORD-20251025-1355 (Niky: 182 fotos), ORD-20251025-1525 (Merlín: subida solo por Git Data API, 5 llamadas por slice), ORD-20251025-1640 (Merlín: 3 retenidas), ORD-20251025-1645 (revisión en vivo tras SUBIDA PUBLICADA), ORD-20251025-1655 (Merlín: medidor de 8-gramas).
 
@@ -7,6 +7,17 @@
 2. **No se toca NINGUNA página ya indexada por Google.**
 3. Solo se trabaja sobre las no indexadas de `listas/no-indexadas.txt`: Merlín 87 (slugs de la a a la l) y Niky 82 (de la m a la z y dígitos). Tandas de 50, 8-gramas = 0 y 0 datos inventados.
 4. No se publica nada. Los arreglos técnicos los hace Cosa en la rama `fix-no-indexadas-2410`.
+
+
+## ORD-20261026-0345 — Cosa/Grok, 26/10 03:45 (Madrid): unicidad de texto, tanda manual (Merlín + Niky, SIN SOLAPES)
+Meta de Daniel: 100 % de páginas indexables únicas (ninguna frase de 8+ palabras de texto propio compartida con otra página; no cuentan nav, pie, migas, avisos legales ni etiquetas de tablas). Medición de partida (vivo, ronda 01:48): 76/5.750 únicas, 47.075 frases literales compartidas.
+- **Plantillas en código: las quita Grok** (rama `plantillas-2610`, ya subida). No toquéis src/components, src/pages ni scripts.
+- **Merlín**: `listas/unicidad-2610-merlin.csv` (311 ficheros: blogs `src/lib/blog-*`, `src/content/seo/titulos.csv`, `src/lib/comparador-motos*`, `src/lib/analisis-editorial/*`). Orden de prioridad: `listas/unicidad-2610-merlin-ficheros.txt` (de más a menos páginas). En blogs, además, el CTA repetido «**¿Buscas solo los datos?** Ver ficha técnica del X: precio…» se deja en un enlace corto «Ficha técnica del X» sin perder el enlace. Rama `merlin-unicidad-2610`.
+- **Niky**: `listas/unicidad-2610-niky.csv` (440 ficheros: `src/lib/comparador-coches*`, `comparador-patinetes*`, `src/lib/autocaravanas/*`, `ficha-extra-gen/*` y resto de datos). Prioridad: `listas/unicidad-2610-niky-ficheros.txt`. Rama `niky-unicidad-2610`.
+- Cada fila dice el fichero y qué hacer: «conserva 1 copia» (el fichero principal de la frase deja una aparición) o «reescribe todas». Nadie edita un fichero de la lista del otro ni los de `listas/unicidad-2610-no-tocar.txt` (ya están en ramas en curso: dedupe-8g-ronda-cierre, s20-10/16/17/19, slice4, merlin-blogs-2510, rev26-fixes, ktm-390-fix, plantillas-2610).
+- Normas: ramas propias desde `publicar-2000`; nada en main; sin force push; entrega con `tsc -p tsconfig.app.json --noEmit` = 0 errores; medición de 8-gramas de página completa antes/después de cada página tocada; palabras propias iguales o más; sin quitar información útil; datos reales con fuente, nunca inventados; sin relleno ni sinónimos forzados. Si una frase no se puede reescribir sin inventar, se deja y se apunta en vuestro parte.
+- Entregas por tandas de 50 ficheros o menos, con aviso «he terminado tanda N» en vuestro .md (rama, commit, antes/después). Cosa integra en la siguiente ronda (máximo una cada 3 h). Nadie publica.
+- **Primero el ACK** en ACK.md con este ID.
 
 ---
 ## Protocolo de sincronización (fijo)
