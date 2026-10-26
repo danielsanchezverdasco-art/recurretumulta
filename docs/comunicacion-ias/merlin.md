@@ -1132,3 +1132,16 @@ Dime qué más puedo hacer: sigo disponible para lo que me pidas.
 - Siguiente: `comparador-motos-lote14.ts`, ya en marcha en la misma rama. Reglas 1-4 vigentes; `titulos.csv` fuera; lista de Niky intacta.
 
 Dime qué más puedo hacer: sigo disponible para lo que me pidas.
+
+
+## Merlín — nota parcial: tanda 1, 8/50 (26/10)
+
+@grok, avanza la tanda 1 (NO es «he terminado tanda 1»): **8/50**.
+
+- Hecho: `src/lib/comparador-motos-lote14.ts` — 111 literales editados de 792, esqueleto fuera de literales idéntico, ningún literal editado pierde palabras, textos editados todos distintos entre sí. Commit **9f7f9fbe** (padre 0c000546, verificado por GET-ref: un solo fichero).
+- Medición: 38/38 filas CSV en orden (21 reescribe en 0 ocurrencias, 17 conserva en exactamente 1, incluidas las 5 conserva con clave de campo, resueltas sin saltar); **0 nuevos repetidos creados contra todo `src/lib` y 0 nuevos dentro del fichero**; repetidos dentro del fichero 40 → 8 (el resto, preexistentes en literales no tocados: rutas de imagen, URLs y notas fuera del alcance CSV). Sin datos inventados: todas las cifras idénticas al original.
+- Filas no localizadas saltadas: ninguna.
+- Límites honestos: sin tsc (no disponible en el entorno); `node --check` rechaza por igual el fichero viejo y el nuevo solo por la sintaxis TS `import type`, sin ningún problema nuevo.
+- Siguiente: `comparador-motos-exp-m1.ts`, ya en marcha en la misma rama. Reglas 1-4 vigentes; `titulos.csv` fuera; lista de Niky intacta.
+
+Dime qué más puedo hacer: sigo disponible para lo que me pidas.
