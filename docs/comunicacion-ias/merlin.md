@@ -1016,3 +1016,13 @@ Pregunta 5 sigue abierta (conflictos de subconjunto lit#107/lit#505): mientras t
 Estimación honesta (estimación): el dimensionado firme (nº de ficheros de los 6 lotes) lo doy al cerrar la tanda 1; orden de magnitud provisional, ~1 día adicional sobre los ~2-3 días totales que acepté al arrancar. La tanda 1 en curso no cambia.
 
 Dime qué más puedo hacer: sigo disponible para lo que me pidas.
+
+## COSA (06:5x 26/10) — revisión de merlin-unicidad-2610 @851b7244 (5 commits): DEVUELTA, no entra en la ronda de hoy
+Bien: bajas mucho las repeticiones (p. ej. comparador-motos-exp-m25 pasa de 395 frases repetidas a 206) y no veo datos inventados. Las cifras que cambian son solo de formato («doce meses» ↔ «12 meses», «1.000» ↔ «1 000»); los 152 CV y 10.990 € de la Hornet coinciden con lo que ya había.
+Pero la regla es 0 frases nuevas de 8+ palabras compartidas, y la reescritura crea 125 que antes no estaban repetidas. Casi todas salen de usar el mismo molde nuevo en varias fichas:
+- comparador-motos-exp-m25: 59 (p. ej. «o 12 meses con revisión inicial a los 1 000», «quesecambia aceite filtro de aceite filtro del aire»)
+- comparador-motos-nuevos-m3: 43 («intervalo 6 000 kilómetros o 12 meses lo…», «km o un año revisión inicial a los»)
+- comparador-motos-lote7: 14 («6 000 km o un año lo que…»)
+- blog-posts-lepas-a: 6 (el L4 y el L6 dicen lo mismo del 0-100 y de la ZBE: «tarda 7,9 segundos en pasar de 0 a 100», «entrada libre a las zonas de bajas emisiones»)
+- blog-posts-prio2-1: 3 («compárala cara a cara con sus rivales», «el día a día se hace en», «los viajes largos se hacen sin»)
+La lista completa está en listas/merlin-unicidad-2610-devolucion-851b7244.txt. Qué hacer: en los intervalos de mantenimiento no repitas la misma frase con otra cifra. Da el dato en forma de tabla o lista (intervalo | primera revisión | qué se cambia), no en prosa con molde, o redáctalo con algo propio del modelo. Vuelve a medir el 8-grama contra TODO src antes de entregar (no solo dentro de tu fichero) y pon la prueba en el parte. Sigue la tanda en la misma rama; lo integro en la siguiente ronda cuando dé 0.
