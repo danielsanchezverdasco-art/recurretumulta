@@ -68,7 +68,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://novamotos.com.mx/tienda/lifan/kpt400/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 6.000 km o al cabo de un año, lo que se cumpla primero",
+      intervalo: "Cada 6.000 km o al cabo de un año, lo primero que se alcance manda",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -77,7 +77,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Lubricante y filtro de aceite + filtro de aire + bujía + reglaje de válvulas (según km)",
+          queSeCambia: "Lubricante y filtro de aceite + filtro de aire + bujía",
           costeAproxEur: 220,
         },
       ],
@@ -144,7 +144,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/hanway/sc-125-s",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses, lo que determine el taller",
+      intervalo: "Manda lo que ocurra antes: 4.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -153,7 +153,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Cambio de aceite, filtros de aceite y aire, bujía nueva y reglaje de válvulas según el kilometraje",
+          queSeCambia: "Cambio de aceite, filtros de aceite y aire y bujía nueva",
           costeAproxEur: 160,
         },
       ],
@@ -229,7 +229,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "Aceite renovado y filtros de aceite y de aire sustituidos, bujía cambiada y válvulas ajustadas según km",
+          queSeCambia: "Aceite renovado y filtros de aceite y de aire sustituidos, bujía cambiada",
           costeAproxEur: 150,
         },
       ],
@@ -307,7 +307,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "Lubricante nuevo con filtros de aceite y de aire, bujía de repuesto y ajuste valvular por kilometraje",
+          queSeCambia: "Lubricante nuevo con filtros de aceite y de aire y bujía de repuesto",
           costeAproxEur: 140,
         },
       ],
@@ -375,7 +375,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://www.autoevolution.com/moto/qjmotor-srk-400-rs-2025.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada seis mil kilómetros recorridos, o cada doce meses, lo que suceda en primer término",
+      intervalo: "El taller la espera tras recorrer 6.000 km o cumplir 12 meses, según el primero de los dos límites",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -384,7 +384,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite nuevo y filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+          queSeCambia: "Aceite nuevo y filtro de aceite + filtro de aire + bujías",
           costeAproxEur: 260,
         },
       ],
@@ -451,7 +451,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://cfmotomx.com/producto/250sr/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses, lo marque el calendario",
+      intervalo: "Lo que ocurra antes decide: 5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -460,7 +460,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Sustitución del aceite y filtros de aire y aceite, bujía y reglaje valvular según el uso habitual",
+          queSeCambia: "Sustitución del aceite y filtros de aire y aceite y bujía",
           costeAproxEur: 190,
         },
       ],
@@ -537,7 +537,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Aceite y filtros cambiados en la revisión periódica, bujía sustituida y válvulas regladas según los kilómetros recorridos",
+          queSeCambia: "Aceite y filtros cambiados en la revisión periódica, bujía sustituida",
           costeAproxEur: 190,
         },
       ],
@@ -613,7 +613,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Renovación de aceite y filtros, bujía nueva y ajuste de válvulas conforme al kilometraje",
+          queSeCambia: "Renovación de aceite y filtros, bujía nueva",
           costeAproxEur: 200,
         },
       ],
@@ -689,7 +689,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Cambio de aceite y filtros de aceite y aire, bujías nuevas y reglaje de válvulas según el kilometraje",
+          queSeCambia: "Aceite y filtros renovados, con bujías nuevas",
           costeAproxEur: 260,
         },
       ],
@@ -766,7 +766,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Cambio de lubricante, filtro de aire y de aceite, bujía y reglaje de válvulas al llegar el kilometraje indicado",
+          queSeCambia: "Cambio de lubricante, filtro de aire y de aceite y bujía",
           costeAproxEur: 160,
         },
       ],
@@ -842,7 +842,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite renovado, filtros de aceite y de aire sustituidos, bujías cambiadas y válvulas ajustadas según el kilometraje",
+          queSeCambia: "Aceite renovado, filtros de aceite y de aire sustituidos, bujías cambiadas",
           costeAproxEur: 260,
         },
       ],
@@ -910,7 +910,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://galgo.com/pe/motos/PE308-lifan-lifan-kpf-150",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada cuatro mil kilómetros, o cada año de doce meses, lo que suceda primero",
+      intervalo: "La revisión llega cada 4.000 km o al cumplirse 12 meses, cuando se alcance antes uno de los dos topes",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -919,7 +919,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Aceite sustituido, filtros de aceite y aire nuevos, bujía reemplazada y válvulas ajustadas según kilómetros",
+          queSeCambia: "Aceite sustituido, filtros de aceite y aire nuevos, bujía reemplazada",
           costeAproxEur: 140,
         },
       ],
@@ -987,7 +987,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://motodinamia.com/qjmotor-srk-921rr-race-precio/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Pautada a los 6.000 km o a los doce meses, según el hito que se cumpla antes",
+      intervalo: "Su pauta es 6.000 km o 12 meses, con el tope en lo primero que venza",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -996,7 +996,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Lubricante nuevo con filtros de aceite y aire, bujías de repuesto y ajuste de válvulas por kilometraje",
+          queSeCambia: "Lubricante nuevo con filtros de aceite y aire, bujías de repuesto",
           costeAproxEur: 320,
         },
       ],
@@ -1063,7 +1063,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/Moto/srk-125s/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada cinco mil kilómetros, o bien cada doce meses, lo que suceda antes que nada",
+      intervalo: "La marca pide taller cada 5.000 km o cada 12 meses, lo que llegue antes",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1072,7 +1072,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Nuevo aceite y filtros, bujía cambiada y reglaje de las válvulas según el kilometraje alcanzado",
+          queSeCambia: "Nuevo aceite y filtros y bujía cambiada",
           costeAproxEur: 170,
         },
       ],
@@ -1148,7 +1148,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "Cambio de aceite con sus filtros, bujía de sustitución y ajuste valvular según los km recorridos",
+          queSeCambia: "Cambio de aceite con sus filtros y bujía de sustitución",
           costeAproxEur: 150,
         },
       ],
@@ -1215,7 +1215,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/mbp/morbidelli-t352x",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada seis mil kilómetros o transcurridos doce meses, lo que se dé antes",
+      intervalo: "Toca taller cada 6.000 km o cada 12 meses, cuando antes se cumpla uno de los dos",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1224,7 +1224,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Sustitución del aceite, filtros de aire y aceite, bujías y reglaje valvular según el kilometraje previsto por el fabricante",
+          queSeCambia: "Sustitución del aceite, filtros de aire y aceite y bujías",
           costeAproxEur: 240,
         },
       ],
@@ -1300,7 +1300,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Lubricante y filtros renovados, bujía nueva y válvulas regladas cuando el kilometraje lo pide",
+          queSeCambia: "Lubricante y filtros renovados, bujía nueva",
           costeAproxEur: 190,
         },
       ],
@@ -1376,7 +1376,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Sustitución del aceite con filtros de aire y aceite, bujía cambiada y ajuste de válvulas por kilometraje",
+          queSeCambia: "Sustitución del aceite con filtros de aire y aceite, bujía cambiada",
           costeAproxEur: 170,
         },
       ],
@@ -1414,7 +1414,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     ],
     contras: [
       "3.887 €: de los scooters 125 más caros",
-      "Sus 178 kg en orden de marcha se perciben al moverla en parado",
+      "Al moverla en parado se dejan sentir sus 178 kg en orden de marcha",
       "Tamaño grande para aparcar en ciudad",
     ],
     curiosidades: [
@@ -1748,7 +1748,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://motos125.es/motos/motron/x-nord-125",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Pautada cada 4.000 km o cada doce meses, según el hito que se alcance antes",
+      intervalo: "Pasa por taller cada 4.000 km o cada 12 meses, antes de que venza uno de los dos plazos",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1757,7 +1757,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Aceite nuevo, filtro de aceite y de aire cambiados, bujía sustituida y reglaje valvular según km",
+          queSeCambia: "Aceite nuevo, filtro de aceite y de aire cambiados y bujía sustituida",
           costeAproxEur: 170,
         },
       ],
@@ -1833,7 +1833,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite y filtros cambiados en el taller, bujías sustituidas y válvulas regladas en función de los kilómetros recorridos",
+          queSeCambia: "Aceite y filtros cambiados en el taller, bujías sustituidas",
           costeAproxEur: 260,
         },
       ],
@@ -1909,7 +1909,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Renovación del lubricante y los filtros, bujía de cambio y válvulas ajustadas según el kilometraje",
+          queSeCambia: "Renovación del lubricante y los filtros, bujía de cambio",
           costeAproxEur: 190,
         },
       ],
