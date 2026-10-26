@@ -53,7 +53,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "El intervalo es de 6.000 km o 12 meses, lo que antes suceda",
+      intervalo: "La 675NK pasa por taller cada 12 meses o cada 6.000 km, lo que antes suceda",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -157,7 +157,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
     pros: ["Suspensiones con 230 mm de recorrido delante y detrás y horquilla invertida de 48 mm totalmente regulable: en pista rota trabaja como una trail pensada para tierra, no como una asfáltica disfrazada de campera.", "El depósito de 22,5 litros va bajo y dividido en dos laterales, así que con el tanque lleno no se vuelve tan cabezona en maniobras lentas como sugiere esa capacidad sobre el papel.", "Quickshifter bidireccional, embrague antirrebote e IMU Bosch de seis ejes con ABS en curva forman parte del paquete de la X, sin tener que pasar por la lista de opciones para lo esencial fuera del asfalto.", "Pantalla TFT vertical de 7 pulgadas con conectividad y control de crucero: en el enlace por autovía entre dos pistas se comporta como moto de viaje, no solo como juguete de fin de semana.", "Con 9.995 euros en esta ficha de 2026 queda por debajo de trail medias europeas y japonesas de planteamiento parecido, y aun así existe la posibilidad de limitarla para el carnet A2."],
-    contras: ["Con 220 kg en orden de marcha, se nota al levantarla tras una caída en una trialera o al moverla en parado dentro de un garaje estrecho.", "En la configuración de suspensiones largas el asiento sube hasta los 870 mm según las fichas publicadas: quien no llegue bien al suelo debería probarla con calma, y a ser posible cargada, antes de comprarla.", "Limitada para el A2 pierde parte de su gracia: son 95 CV pensados para el carnet A, y la limitación suma trámite y coste sobre el precio de compra.", "La red comercial de CFMoto en España continúa siendo más breve que la de Honda o Yamaha; en una ruta larga por zonas poco pobladas, encontrar un concesionario cercano no siempre es igual de fácil."],
+    contras: ["Al levantarla tras una caída en una trialera o al moverla en parado dentro de un garaje estrecho, sus 220 kg en orden de marcha se notan.", "En la configuración de suspensiones largas el asiento sube hasta los 870 mm según las fichas publicadas: quien no llegue bien al suelo debería probarla con calma, y a ser posible cargada, antes de comprarla.", "Limitada para el A2 pierde parte de su gracia: son 95 CV pensados para el carnet A, y la limitación suma trámite y coste sobre el precio de compra.", "La red comercial de CFMoto en España continúa siendo más breve que la de Honda o Yamaha; en una ruta larga por zonas poco pobladas, encontrar un concesionario cercano no siempre es igual de fácil."],
     curiosidades: ["El bicilíndrico de 799 cc desciende del LC8c que CFMoto desarrolla y fabrica en colaboración con KTM, de ahí el parecido de su depósito bajo y dividido con el de la 790 Adventure austriaca.", "Admite como accesorio depósitos traseros adicionales de 8 litros por lado, pensados para travesías en las que la siguiente gasolinera queda realmente lejos."],
     imagen: "/media/cfmoto-800mt-x-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -458,7 +458,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + revisión general + bujía (según km)",
+          queSeCambia: "Revisión general + aceite con su filtro, bujía y filtro de aire (según km)",
           costeAproxEur: 190,
         },
       ],
@@ -1894,7 +1894,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Primera revisión: 1.000 km. Intervalo siguiente: 4.000 km o 12 meses, lo primero que ocurra",
+      intervalo: "Primera revisión a los 1.000 km; la siguiente llega a los 4.000 km o al año, lo que llegue antes",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -2850,7 +2850,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: "Batería extraíble; carga en enchufe doméstico",
     etiquetaDgt: "Cero",
     aprox: ["costeAnualAproxEur"],
-    pros: ["En esta anualidad 2026 sigue siendo el Yadea más serio para salir de la calle de barrio: motor lateral de 6 kW (8 CV) y 80 km/h de punta con solo 87 kg, así que entra en rondas y circunvalaciones sin quedarse vendido entre coches.", "Las dos baterías de 72 V y 20 Ah se sacan y se cargan en un enchufe doméstico, montadas o fuera del scooter, con carga completa en unas 4 horas: quien no tiene punto de carga en el garaje no queda fuera del modelo.", "No es un eléctrico pelado: arranque sin llave, dos modos Eco y Sport, marcha atrás para maniobrar y un hueco bajo el asiento donde cabe un casco abierto, todo de serie en el tope de gama de Yadea en España.", "Detrás no hay un importador improvisado: en España lo distribuye Human Mobility, el equipo que levantó KYMCO aquí desde 1995, y eso se nota al buscar taller y recambios frente a marcas que solo venden por internet."],
+    pros: ["En esta anualidad 2026 sigue siendo el Yadea más serio para salir de la calle de barrio: motor lateral de 6 kW (8 CV) y 80 km/h de punta con solo 87 kg, así que entra en rondas y circunvalaciones sin quedarse vendido entre coches.", "Las dos baterías de 72 V y 20 Ah se sacan y se cargan en un enchufe doméstico, montadas o fuera del scooter, con carga completa en unas 4 horas: quien no tiene punto de carga en el garaje no queda fuera del modelo.", "No es un eléctrico pelado: arranque sin llave, dos modos Eco y Sport, marcha atrás para maniobrar y un hueco bajo el asiento donde entra un casco abierto, todo de serie en el tope de gama de Yadea en España.", "Detrás no hay un importador improvisado: en España lo distribuye Human Mobility, el equipo que levantó KYMCO aquí desde 1995, y eso se nota al buscar taller y recambios frente a marcas que solo venden por internet."],
     contras: ["4.890 € es el techo del catálogo Yadea y se pagan por una autonomía declarada en la ficha de 77 km: si tu rutina diaria se acerca a esa cifra, vivirás pendiente del cargador.", "Frena con CBS y discos de 220 mm delante y 180 mm detrás, sin ABS; en las pruebas españolas las manetas se notaron duras y al freno delantero le faltó mordiente, algo a exigir en una frenada de emergencia a 80 km/h.", "Extraíble no es sinónimo de cómodo: son dos módulos que hay que subir a pulso hasta casa, y las pruebas los sitúan en unos 8 kg por batería, un gesto que cansa si se repite cada noche en un piso sin ascensor.", "A dúo va justo: el asiento reserva poco espacio al pasajero y, con 87 kg, a velocidad máxima el conjunto se siente ligero; es un scooter pensado para uno con acompañante ocasional, no para viajar dos a diario."],
     curiosidades: ["Bajo el asiento esconde un interruptor magnetotérmico parecido al del cuadro de luz de casa: permite cortar el circuito y dejar el C1S Pro en hibernación eléctrica durante paradas largas.", "El logotipo de Yadea va iluminado dentro del piloto trasero y el faro delantero LED tiene forma triangular, dos firmas del diseño de KISKA que obtuvo el Red Dot Design Award en 2020."],
     imagen: "/media/yadea-c1s-pro-2026-ficha-tecnica-precio-oficial-2.webp",
