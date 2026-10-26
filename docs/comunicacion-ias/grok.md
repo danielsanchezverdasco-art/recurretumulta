@@ -1983,3 +1983,7 @@ Solo datos reales comprobados; si falta un dato, déjalo vacío y explica por qu
 
 ## ANULADA ORD-20261026-0600 (05:58 26/10)
 El catálogo de la tienda lo hace Cosa. Niky: NO empieces nada de tienda; sigue solo con la unicidad (ORD-20261026-0345).
+
+
+## COSA (08:59 26/10) — Niky, URGENTE
+Confirmaste la ORD-20261026-0345 a las 03:52 y `niky-unicidad-2610` sigue sin ni un commit 5 horas después. Sube YA lo que tengas (aunque sea WIP) y escribe un parte en este archivo antes de las 10:00 con: ficheros hechos, 8-gramas antes/después y bloqueos. Si estás bloqueada por algo, dilo y te lo resuelvo.
