@@ -7,7 +7,7 @@
 //   de presentación (bmw-ix4-2027-presentacion-oficial, precio en Alemania).
 //   Esta pieza cubre el ángulo nuevo: el precio español y la comparativa
 //   España/Alemania. Sin precio español del M60 xDrive todavía: no se inventa.
-//   Fotos reutilizadas de la ficha (kit de prensa BMW, verificadas el 16/10).
+//   Fotos: las de la ficha, acreditadas como imagen generada por IA en galerias-coches.ts
 // Regla: cero cifras inventadas; lo no confirmado se marca como tal.
 import type { BlogPost } from "./blog-meta.ts";
 
@@ -16,7 +16,7 @@ export const RADAR_20261026_POSTS: BlogPost[] = [
     slug: "bmw-ix4-precio-espana-2026",
     title: "BMW iX4 precio en España: desde 71.850 €, 828 km y 469 CV",
     excerpt:
-      "BMW iX4 ya con precio en España: desde 71.850 €, 828 km WLTP y 469 CV. Versiones, carga de 400 kW y fecha de entrega.",
+      "BMW iX4 ya con precio en España: desde 71.850 €, 828 km WLTP y 469 CV. Versiones 40 y 50 xDrive, carga de 400 kW y entregas en marzo de 2027.",
     category: "Novedades Motor",
     date: "2026-10-26",
     readTime: 9,
@@ -31,9 +31,9 @@ export const RADAR_20261026_POSTS: BlogPost[] = [
     ],
     content: `<img src=/media/bmw-ix4-electrico-2026-hero.webp alt=BMW iX4 eléctrico gris circulando, vista tres cuartos delantera>
 
-*Foto: BMW (kit de prensa oficial, distribuida por somoselectricos.com). El iX4 definitivo, presentado el 9 de octubre de 2026. Licencia desconocida.*
+*Imagen generada por IA: el iX4 definitivo, presentado el 9 de octubre de 2026.*
 
-**Ficha completa del modelo:** <a href=/coches/bmw-ix4-electrico-2026>BMW iX4 — ficha técnica, precio y autonomía</a>
+**Ficha completa del modelo:** <a href=/coches/bmw-ix4-electrico-2026/>BMW iX4 — ficha técnica, precio y autonomía</a>
 
 El configurador español del BMW iX4 ya está abierto. BMW ha publicado este lunes 26 de octubre de 2026 las tarifas oficiales para España de su nuevo SUV coupé eléctrico de la familia Neue Klasse, y el dato que faltaba desde la presentación del 9 de octubre ya está sobre la mesa: el iX4 arranca en nuestro mercado en **71.850 euros**. Las primeras entregas están previstas para **marzo de 2027**, así que quien lo reserve ahora está comprando un coche que todavía tardará unos meses en llegar al concesionario, pero con el precio ya cerrado en el configurador.
 
@@ -69,7 +69,7 @@ Puesto en euros por kilómetro de autonomía homologada, el 40 xDrive sale a 112
 
 <img src=/media/bmw-ix4-electrico-2026-interior.webp alt=Interior del BMW iX4 con pantalla central de 17,9 pulgadas y Panoramic Vision>
 
-*Foto: BMW (kit de prensa oficial, distribuida por somoselectricos.com). Interior con Panoramic iDrive y pantalla central de 17,9 pulgadas. Licencia desconocida.*
+*Imagen generada por IA: interior con Panoramic iDrive y pantalla central de 17,9 pulgadas.*
 
 ## Carga: 400 kW y 387 km en 10 minutos
 
@@ -125,6 +125,6 @@ El 40 xDrive cuesta 950 euros más en España (71.850 frente a 70.900 €) y el 
 
 **¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.
 
-*Fuentes: <a href=https://www.somoselectricos.com/coches-electricos/bmw-pone-precio-nuevo-ix4-espana-828-km-autonomia-469-cv/20261026070540064660.html>Somos Eléctricos (precios oficiales en España, versiones y autonomía, 26/10/2026)</a>, <a href=https://www.autocasion.com/actualidad/pruebas/bmw-ix4-2026/>Autocasion (presentación oficial, datos técnicos y dimensiones)</a>, <a href=http://www.mastersteasers.es/2026/10/bmw-ix4.html>Mastersteasers (versiones, baterías y carga)</a>. Precio del M60 xDrive en España: no publicado a 26/10/2026.*`,
+*Fuentes: <a href=https://www.press.bmwgroup.com/spain/article/detail/T0461514ES/el-nuevo-bmw-ix4?language=es>BMW Group Press España (datos técnicos oficiales del iX4)</a>, <a href=https://www.somoselectricos.com/coches-electricos/bmw-pone-precio-nuevo-ix4-espana-828-km-autonomia-469-cv/20261026070540064660.html>Somos Eléctricos (precios oficiales en España, versiones y autonomía, 26/10/2026)</a>, <a href=https://www.autocasion.com/actualidad/pruebas/bmw-ix4-2026/>Autocasion (presentación oficial, datos técnicos y dimensiones)</a>, <a href=http://www.mastersteasers.es/2026/10/bmw-ix4.html>Mastersteasers (versiones, baterías y carga)</a>. Precio del M60 xDrive en España: no publicado a 26/10/2026.*`,
   },
 ];

@@ -2138,7 +2138,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     modelo: "iX4 50 xDrive",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 70900,
+    precioDesde: 71850,
     potenciaCv: 469,
     autonomiaKm: 828,
     maleteroL: 490,
@@ -2155,7 +2155,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       "Plataforma Neue Klasse de 800 V con celdas cilíndricas de nueva generación",
     ],
     contras: [
-      "Precio aún sin confirmar en España: referencia alemana desde 70.900 €",
+      "M60 xDrive (612 CV) aún sin precio oficial en España",
       "Llegada en marzo de 2027: más de cuatro meses de espera",
       "2.380 kg en vacío: el peso se nota pese a la plataforma específica",
       "Versión de acceso 40 xDrive con 638 km: el 828 km exige la batería grande",
@@ -2171,7 +2171,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     parNm: 645,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["precioDesde"],
+    aprox: [],
     imagen: "/media/bmw-ix4-electrico-2026-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -2188,25 +2188,25 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     galeria: [
       {
         src: "/media/bmw-ix4-electrico-2026-galeria-2.webp",
-        alt: "BMW iX4 eléctrico rojo, vista tres cuartos trasera (foto oficial BMW)",
+        alt: "BMW iX4 eléctrico rojo, vista tres cuartos trasera (imagen generada por IA)",
         ancho: 1280,
         alto: 853,
       },
       {
         src: "/media/bmw-ix4-electrico-2026-hero.webp",
-        alt: "BMW iX4 eléctrico gris circulando, vista tres cuartos delantera (foto oficial BMW)",
+        alt: "BMW iX4 eléctrico gris circulando, vista tres cuartos delantera (imagen generada por IA)",
         ancho: 1280,
         alto: 853,
       },
       {
         src: "/media/bmw-ix4-electrico-2026-interior.webp",
-        alt: "Interior del BMW iX4 con pantalla central de 17,9 pulgadas y Panoramic Vision (foto oficial BMW)",
+        alt: "Interior del BMW iX4 con pantalla central de 17,9 pulgadas y Panoramic Vision (imagen generada por IA)",
         ancho: 1280,
         alto: 853,
       },
       {
         src: "/media/bmw-ix4-electrico-2026-galeria-3.webp",
-        alt: "BMW iX4 eléctrico gris de perfil, silueta coupé (foto oficial BMW)",
+        alt: "BMW iX4 eléctrico gris de perfil, silueta coupé (imagen generada por IA)",
         ancho: 1280,
         alto: 853,
       },

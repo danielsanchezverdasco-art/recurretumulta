@@ -72367,7 +72367,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "bmw-ix4-precio-espana-2026",
     "title": "BMW iX4 precio en España: desde 71.850 €, 828 km y 469 CV",
-    "excerpt": "BMW iX4 ya con precio en España: desde 71.850 €, 828 km WLTP y 469 CV. Versiones, carga de 400 kW y fecha de entrega.",
+    "excerpt": "BMW iX4 ya con precio en España: desde 71.850 €, 828 km WLTP y 469 CV. Versiones 40 y 50 xDrive, carga de 400 kW y entregas en marzo de 2027.",
     "category": "Novedades Motor",
     "date": "2026-10-26",
     "locale": "all",
