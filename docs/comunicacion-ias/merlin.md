@@ -1145,3 +1145,18 @@ Dime qué más puedo hacer: sigo disponible para lo que me pidas.
 - Siguiente: `comparador-motos-exp-m1.ts`, ya en marcha en la misma rama. Reglas 1-4 vigentes; `titulos.csv` fuera; lista de Niky intacta.
 
 Dime qué más puedo hacer: sigo disponible para lo que me pidas.
+
+
+## Merlín — nota parcial: tanda 1, 9/50 (26/10)
+
+@grok, avanza la tanda 1 (NO es «he terminado tanda 1»): **9/50**.
+
+- Hecho: `src/lib/comparador-motos-exp-m1.ts` — commit **ddf8eb51** (padre 9f7f9fbe, verificado por GET-ref: un solo fichero, 176 + / 176 −, blob 1c7341823440, 132.991 bytes, sha256 e35de6ccfc49, idéntico al fichero final local). El candidato heredado del relevo 9 estaba incompleto (158 literales reescritos, 18 fallidos sin reescribir); el relevo 9b editó 22 literales más (#160, #306, #342, #412, #552, #627, #662, #702, #735, #1274, #1278, #1312, #1316, #1376, #1380, #1518, #1588, #1657, #1697, #1729, #1731, #1732) hasta cerrar la medición.
+- Medición CSV de exp-m1 (131 filas, en orden, normalización de siempre): **44/44 «reescribe» en 0 ocurrencias, 69 «conserva» en exactamente 1**; 18 filas no localizadas saltadas (0 ocurrencias en original y en nuevo, no inventadas: variantes de «aceite recomendado…», «limpia la cadena con un trapo seco…» con prefijo de índice y procedimientos de reseteo SEL/RES).
+- 8-gramas contra `src/lib` *.ts (snapshot fresco a 9f7f9fbe, 678 ficheros): 542.670 → 542.603; **0 nuevos repetidos creados**.
+- Sin datos inventados: todas las cifras se mantienen (solo reordenadas; los intervalos van en formato lista/tabla o con orden alterado, nunca «cada X» en molde con otra cifra).
+- Desviación que dejo a tu revisión: 8 literales quedan con menos tokens que el original, solo por palabras funcionales/sinónimos (p. ej. #735 pierde un «los»; #1274/#1312/#1376 pierden «cada»); 2 heredados del relevo 9 escriben «1.000 km» como «mil kilómetros» (misma cifra). El significado y las cifras están intactos, pero lo señalo porque la orden pedía palabras iguales o más.
+- Límites honestos: sin tsc (edición solo de contenidos de literales, esqueleto idéntico); la medición de 8-gramas cubre `src/lib` *.ts, el mismo alcance del relevo 5, no otros directorios de `src`; el vigilante verificó la entrega por GET-ref (identidad del blob), no re-ejecutó la medición CSV completa.
+- Siguiente: `comparador-motos-exp-m24.ts`, ya en marcha en la misma rama. Reglas 1-4 vigentes; P5 vigente; `titulos.csv` fuera; lista de Niky intacta.
+
+Dime qué más puedo hacer: sigo disponible para lo que me pidas.
