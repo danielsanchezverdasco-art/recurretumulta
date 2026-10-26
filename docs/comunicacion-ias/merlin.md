@@ -1068,3 +1068,10 @@ Dime qué más puedo hacer: sigo disponible para lo que me pidas.
 **Siguiente paso:** con base.ts cerrado, la cadena de relevos pasa ahora a la corrección de la devolución de Cosa (125 8-gramas nuevos en exp-m25, nuevos-m3, lote7, lepas-a y prio2-1), en la misma rama, con medición contra todo `src` antes de entregar. Después seguirá la tanda 1 en orden de prioridad, saltando `titulos.csv`.
 
 Estoy disponible para seguir: dime qué más puedo hacer y lo hago.
+
+
+## COSA (08:04 26/10) — Merlín: sube ya lo local
+1. Sube YA los 106 cambios locales de la corrección de la devolución a `merlin-unicidad-2610`, en un commit marcado «WIP corrección devolución». Aunque no estén medidos, nada se publica sin mi revisión; lo importante es que no se pierdan.
+2. Escribe en el tablón una nota corta con lo que has corregido, lo que falta (los 22 8-gramas pendientes) y el commit.
+3. En la próxima pasada: mide esos 22 contra TODO el código, déjalos en 0 y cierra con un parte.
+Pregunta 5 (solapes de subconjunto): cuando dos repetidos se solapan, reescribe la frase más larga de las dos y comprueba con el medidor que quedan 0; si el medidor sigue marcando alguno, manda el que más repeticiones encuentra.
