@@ -1384,7 +1384,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Bicilíndrico de 649 cc con 68 CV: limitable a 35 kW para el permiso A2 conservando todo su carácter",
+      "Bicilíndrico de 649 cc con 68 CV, apto para limitar a 35 kW y rodar con el permiso A2 sin perder su carácter",
       "187 kg: ligera y muy manejable en ciudad",
       "Asiento a 790 mm: accesible para pilotos de estatura media",
       "TFT con conectividad y modos de conducción de serie",
@@ -3807,7 +3807,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["pesoKg"],
     pros: [
-      "Bicilíndrico de 1.042 cc, 115 CV y refrigeración líquida: el Guzzi más moderno del catálogo",
+      "El Guzzi más moderno del catálogo: motor bicilíndrico de 1.042 cc, 115 CV y refrigeración por líquido",
       "Cardán y suspensiones electrónicas: gran turismo italiana",
       "Radar y electrónica completa: la Guzzi más tecnológica",
       "Depósito de 21 l: autonomía para cruzar Europa",
@@ -4854,7 +4854,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["pesoKg"],
     pros: [
-      "Bicilíndrico de 550 cc y 50,3 CV: el maxiscooter taiwanés más deportivo",
+      "El maxiscooter taiwanés más deportivo: 550 cc en bicilíndrico con 50,3 CV",
       "Chasis de aluminio de doble viga: parte ciclo de moto, no de scooter",
       "Pinzas Brembo radiales y ABS en curva Bosch",
       "Cúpula eléctrica, puños calefactables y control de crucero",
