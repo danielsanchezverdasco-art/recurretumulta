@@ -165,7 +165,8 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
   const esElectrica = esMotoElectrica(moto);
   const conCilindrada = !esElectrica && moto.cilindradaCc != null;
   const esElectricaFaq =
-    etiquetaBaseMoto(moto.etiquetaDgt) === "Cero" || moto.autonomiaKm != null || moto.carga != null;
+    etiquetaBaseMoto(moto.etiquetaDgt) === "Cero" ||
+    (!esCombustionMoto(moto) && (moto.autonomiaKm != null || moto.carga != null));
   // 18/10/2026 (rediseño): galería superior, datos clave y precio.
   const dimDe = (src: string) => dims[src.split("/").pop() ?? ""];
   const fotosTop: FotoFicha[] = [
@@ -838,8 +839,16 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
 function etiquetaBaseMoto(e: string | null | undefined): string {
   return String(e || "").trim().split(/\s+/)[0] || "";
 }
+// 25/10/2026: una moto con cilindrada y etiqueta de combustión (B/C/ECO) no es eléctrica
+// aunque tenga autonomía declarada (p. ej. KTM 390 Enduro R: 265 km con 9 l).
+function esCombustionMoto(m: MotoComparador): boolean {
+  const et = etiquetaBaseMoto(m.etiquetaDgt);
+  return m.cilindradaCc != null && et !== "Cero";
+}
 function esMotoElectrica(m: MotoComparador): boolean {
-  return etiquetaBaseMoto(m.etiquetaDgt) === "Cero" || m.bateriaKwh != null || m.autonomiaKm != null;
+  if (etiquetaBaseMoto(m.etiquetaDgt) === "Cero") return true;
+  if (esCombustionMoto(m)) return false;
+  return m.bateriaKwh != null || m.autonomiaKm != null;
 }
 function respuestaEtiquetaMoto(nombre: string, e: string | null | undefined): string {
   // 24/10 (unicidad): solo el dato; sin dato, "consulta con la matrícula" (sin coletilla ZBE)
