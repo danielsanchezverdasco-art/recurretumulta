@@ -42,14 +42,14 @@ export const COCHES_DENZA: CocheComparador[] = [
     emisionesCo2: null,
     aprox: [],
     pros: [
-      "210 km eléctricos WLTP: el PHEV con más autonomía eléctrica del segmento",
+      "210 km en modo eléctrico (WLTP): el PHEV con más autonomía eléctrica del segmento",
       "950 km de autonomía combinada para viajar sin parar",
       "7 plazas reales con asientos capitán de masaje de 16 puntos",
       "Asientos Zero-Gravity con ventilación, calefacción y nevera a bordo",
       "Precio de 78.500 €: muy por debajo de un Lexus LM o V-Class",
     ],
     contras: [
-      "2.895 kg de peso: se nota en consumos cuando se agota la batería",
+      "2.895 kg de peso: el consumo se dispara cuando se agota la batería",
       "Marca nueva en Europa, red de servicio aún pequeña",
       "0-100 en 8,6 s: no es un coche para prisas",
       "Sin versión 100 % eléctrica anunciada para Europa",
@@ -77,13 +77,13 @@ export const COCHES_DENZA: CocheComparador[] = [
     galeria: [
       {
         src: "/media/denza-d9-dm-i-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Denza D9 DM-i, tres cuartos delantero en carretera de montaña",
+        alt: "Vista de tres cuartos delantera del Denza D9 DM-i en carretera de montaña",
         ancho: 1920,
         alto: 1280,
       },
       {
         src: "/media/denza-d9-dm-i-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza D9 DM-i, vista lateral en calle europea",
+        alt: "Perfil lateral del Denza D9 DM-i en una calle europea",
         ancho: 1920,
         alto: 1280,
       },
@@ -149,19 +149,19 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 139,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "Cálculo con 15.000 km anuales y carga doméstica a 0,18 €/kWh, incluido el seguro a todo riesgo.",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/denza-d9-ev-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Denza D9 EV, tres cuartos delantero en carretera costera",
+        alt: "Tres cuartos delantero del Denza D9 EV junto a la costa",
         ancho: 1920,
         alto: 1280,
       },
       {
         src: "/media/denza-d9-ev-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza D9 EV, vista lateral en calle europea",
+        alt: "Lateral del Denza D9 EV en una calle europea",
         ancho: 1920,
         alto: 1280,
       },
@@ -212,7 +212,7 @@ export const COCHES_DENZA: CocheComparador[] = [
     contras: [
       "Solo se vende en China: sin planes de exportación confirmados",
       "Ventas flojas en China frente al D9 (cientos de unidades al mes)",
-      "Precio convertido de yuanes, sin tarifa europea",
+      "Precio al cambio desde yuanes, todavía sin tarifa europea",
       "La carga de doble pistola exige dos conectores libres",
       "Marca poco conocida fuera de China",
     ],
@@ -232,19 +232,19 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 132,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo estimado de 15 kWh/100 km.",
+        "Cálculo anual con 15.000 km, carga doméstica a 0,18 €/kWh y consumo estimado de unos 15 kWh cada 100 km.",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/denza-n7-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Denza N7, tres cuartos delantero en carretera de montaña",
+        alt: "Vista de tres cuartos delantera del Denza N7 en carretera de montaña",
         ancho: 1920,
         alto: 1280,
       },
       {
         src: "/media/denza-n7-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza N7, vista lateral en calle europea",
+        alt: "Vista de perfil del Denza N7 en calle europea",
         ancho: 1920,
         alto: 1280,
       },
@@ -310,19 +310,19 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 190,
       notas:
-        "Estimación mixta con 15.000 km/año cargando a diario: coste por 100 km entre electricidad (0,18 €/kWh) y gasolina (1,60 €/l).",
+        "Estimación combinada para 15.000 km al año con carga diaria: lo que cuesta cada 100 km sumando la electricidad (0,18 €/kWh) y la gasolina (1,60 €/l).",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/denza-n8-dm-p-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Denza N8 DM-p, tres cuartos delantero en carretera de montaña",
+        alt: "Tres cuartos delantero del Denza N8 DM-p en una carretera de montaña",
         ancho: 1920,
         alto: 1280,
       },
       {
         src: "/media/denza-n8-dm-p-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza N8 DM-p, vista lateral en calle europea",
+        alt: "Vista lateral del Denza N8 DM-p en calle europea",
         ancho: 1920,
         alto: 1280,
       },
@@ -388,19 +388,19 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 153,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo estimado de 20 kWh/100 km.",
+        "Cálculo con 15.000 km al año y recarga doméstica (0,18 €/kWh), y consumo estimado de 20 kWh/100 km.",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/denza-n8-ev-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Denza N8 EV, tres cuartos delantero en carretera de montaña",
+        alt: "Perspectiva delantera de tres cuartos del Denza N8 EV en carretera de montaña",
         ancho: 1920,
         alto: 1280,
       },
       {
         src: "/media/denza-n8-ev-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza N8 EV, vista lateral en calle europea",
+        alt: "Lateral del Denza N8 EV en una calle europea",
         ancho: 1920,
         alto: 1280,
       },
@@ -447,7 +447,7 @@ export const COCHES_DENZA: CocheComparador[] = [
       "2.980 kg: un peso descomunal",
       "Solo a la venta en China, sin fecha para Europa",
       "Capacidad de batería sin publicar oficialmente",
-      "Precio convertido de yuanes, sin tarifa europea",
+      "Precio convertido desde yuanes; en Europa aún no hay tarifa",
       "Consumo con batería agotada aún sin datos oficiales",
     ],
     imagen: "/media/denza-n8l-dm-2025-precio-ficha-tecnica-hero.webp",
@@ -466,19 +466,19 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 430,
       costeMensualTotal: 203,
       notas:
-        "Estimación mixta con 15.000 km/año cargando a diario: coste por 100 km entre electricidad (0,18 €/kWh) y gasolina (1,60 €/l).",
+        "Cuenta mixta con 15.000 km anuales y carga diaria: coste de cada 100 km repartido entre electricidad doméstica (0,18 euros por kWh) y gasolina (1,60 €/l).",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/denza-n8l-dm-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Denza N8L DM, tres cuartos delantero en carretera de montaña",
+        alt: "Vista frontal de tres cuartos del Denza N8L DM en carretera de montaña",
         ancho: 1920,
         alto: 1280,
       },
       {
         src: "/media/denza-n8l-dm-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza N8L DM, vista lateral en calle europea",
+        alt: "Perfil del Denza N8L DM de lado en calle europea",
         ancho: 1920,
         alto: 1280,
       },
@@ -515,7 +515,7 @@ export const COCHES_DENZA: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: ["precioDesde", "autonomiaKm"],
     pros: [
-      "960 km CLTC (~778 WLTP): el SUV eléctrico con más autonomía del mundo",
+      "960 km CLTC (~778 WLTP): ningún otro SUV eléctrico llega tan lejos",
       "Batería Blade 2.0 de 130,15 kWh con carga flash (10-70 % en 5 min)",
       "Frunk de 208 litros con desagüe: pensado para el día a día",
       "Consumo de solo 13,55 kWh/100 km para su tamaño",
@@ -544,19 +544,19 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 135,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "Estimación anual de 15.000 km con carga doméstica a 0,18 €/kWh, con seguro a todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/denza-n8l-ev-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Denza N8L EV, tres cuartos delantero en carretera de montaña",
+        alt: "Tres cuartos delantero del Denza N8L EV en una vía de montaña",
         ancho: 1920,
         alto: 1280,
       },
       {
         src: "/media/denza-n8l-ev-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza N8L EV, vista lateral en calle europea",
+        alt: "Vista lateral del Denza N8L EV en una calle europea",
         ancho: 1920,
         alto: 1280,
       },
@@ -603,7 +603,7 @@ export const COCHES_DENZA: CocheComparador[] = [
       "2.875 kg: el peso lastra consumos y agilidad",
       "Sin planes de venta en Europa anunciados",
       "0-100 y velocidad máxima sin publicar para el DM",
-      "Precio convertido de yuanes, sin tarifa europea",
+      "Precio tras convertir yuanes, sin tarifa europea publicada",
       "Autonomía eléctrica en ciclo CLTC (optimista)",
     ],
     imagen: "/media/denza-z9-dm-2024-precio-ficha-tecnica-hero.webp",
@@ -622,19 +622,19 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 198,
       notas:
-        "Estimación mixta con 15.000 km/año cargando a diario: coste por 100 km entre electricidad (0,18 €/kWh) y gasolina (1,60 €/l).",
+        "Estimación mixta anual (15.000 km con carga diaria): gasto por 100 km combinando electricidad (0,18 €/kWh) con gasolina (1,60 €/l).",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/denza-z9-dm-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Denza Z9 DM, tres cuartos delantero en carretera de montaña",
+        alt: "Delantera de tres cuartos del Denza Z9 DM en carretera de montaña",
         ancho: 1920,
         alto: 1280,
       },
       {
         src: "/media/denza-z9-dm-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza Z9 DM, vista lateral en calle europea",
+        alt: "Lateral del Denza Z9 DM en calle europea",
         ancho: 1920,
         alto: 1280,
       },
@@ -683,9 +683,9 @@ export const COCHES_DENZA: CocheComparador[] = [
       "Alternativa china al Porsche Taycan por ~46.000 € en China",
     ],
     contras: [
-      "Solo a la venta en China, sin fecha para Europa",
+      "Por ahora solo está a la venta en China; Denza no ha anunciado su llegada a Europa",
       "Potencia de carga en CC sin publicar oficialmente",
-      "Precio convertido de yuanes, sin tarifa europea",
+      "Precio convertido de la tarifa en yuanes, sin tarifa europea",
       "Sustituido en 2026 por el Z9S, más eficiente",
       "Sin calificación Euro NCAP",
     ],
@@ -705,19 +705,19 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 150,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo estimado de 19 kWh/100 km.",
+        "Cálculo para 15.000 km anuales con carga en casa (0,18 €/kWh) y consumo estimado de 19 kWh/100 km.",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/denza-z9-ev-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Denza Z9 EV, tres cuartos delantero en carretera de montaña",
+        alt: "Tres cuartos delantero del Denza Z9 EV en carretera de montaña",
         ancho: 1920,
         alto: 1280,
       },
       {
         src: "/media/denza-z9-ev-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza Z9 EV, vista lateral en calle europea",
+        alt: "De perfil, el Denza Z9 EV en calle europea",
         ancho: 1920,
         alto: 1280,
       },
@@ -756,7 +756,7 @@ export const COCHES_DENZA: CocheComparador[] = [
     pros: [
       "1.100 km CLTC (891 km WLTP): récord mundial de autonomía en un eléctrico",
       "1.194 CV con tres motores: 0-100 en 2,68 s",
-      "Batería Blade 2.0 con carga flash (10-70% en 5 min)",
+      "Batería Blade 2.0 con carga ultrarrápida (del 10 al 70 % en 5 minutos)",
       "Versión de acceso con 920 km al precio de un Tesla Model 3 en China",
       "God's Eye 5.0, dirección trasera y suspensión DiSus-A de serie",
     ],
@@ -782,19 +782,19 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 137,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo estimado de 17 kWh/100 km.",
+        "Estimación con 15.000 km al año, carga doméstica a 0,18 €/kWh y un consumo estimado de 17 kWh/100 km.",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/denza-z9s-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Denza Z9S, tres cuartos delantero en carretera costera",
+        alt: "Delantera de tres cuartos del Denza Z9S junto a la costa",
         ancho: 1920,
         alto: 1280,
       },
       {
         src: "/media/denza-z9s-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza Z9S, vista lateral en calle europea",
+        alt: "Perfil lateral del Denza Z9S en calle europea",
         ancho: 1920,
         alto: 1280,
       },
@@ -842,7 +842,7 @@ export const COCHES_DENZA: CocheComparador[] = [
       "2.740 kg: el peso se nota en consumos con batería agotada",
       "Red de carga flash aún en despliegue en Europa",
       "Consumo de 5,6 l/100 km en modo híbrido: mejorable",
-      "Tamaño de 5,2 m: no apto para todos los garajes",
+      "Con 5,2 m de largo, no cabe en todos los garajes",
     ],
     imagen: "/media/denza-z9gt-dm-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/denza-z9gt-dm-2026-precio-ficha-tecnica-oficial.webp",
@@ -860,19 +860,19 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 500,
       costeMensualTotal: 242,
       notas:
-        "Estimación mixta con 15.000 km/año cargando a diario: coste por 100 km entre electricidad (0,18 €/kWh) y gasolina (1,60 €/l).",
+        "Cálculo mixto con 15.000 km anuales cargando cada día: lo que sale cada 100 km entre la electricidad (0,18 €/kWh) y el combustible (1,60 €/l), con carga diaria.",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/denza-z9gt-dm-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Denza Z9 GT DM, tres cuartos delantero en carretera de montaña",
+        alt: "Vista de tres cuartos delantera del Denza Z9 GT DM en carretera de montaña",
         ancho: 1920,
         alto: 1280,
       },
       {
         src: "/media/denza-z9gt-dm-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza Z9 GT DM, vista lateral en calle europea",
+        alt: "De lado, el Denza Z9 GT DM en una calle europea",
         ancho: 1920,
         alto: 1280,
       },
@@ -909,7 +909,7 @@ export const COCHES_DENZA: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: [],
     pros: [
-      "1.156 CV con tres motores: 0-100 en 2,7 s, nivel hipercoche",
+      "1.156 CV y tres motores: acelera de 0 a 100 en 2,7 s, nivel hipercoche",
       "Batería de 122,5 kWh: la más grande montada en un coche en Europa",
       "Carga flash de 1.500 kW: 10-70 % en 5 minutos, 10-97 % en 9",
       "600 km WLTP y maletero de 495 a 1.680 litros",
@@ -938,19 +938,19 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 183,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "Cálculo anual (15.000 km) con recarga doméstica a 0,18 €/kWh y seguro a todo riesgo.",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/denza-z9gt-ev-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Denza Z9 GT EV, tres cuartos delantero en carretera de montaña",
+        alt: "Delantera de tres cuartos del Denza Z9 GT EV en una carretera de montaña",
         ancho: 1920,
         alto: 1280,
       },
       {
         src: "/media/denza-z9gt-ev-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza Z9 GT EV, vista lateral en calle europea",
+        alt: "Lateral del Denza Z9 GT EV en una calle europea",
         ancho: 1920,
         alto: 1280,
       },
@@ -994,7 +994,7 @@ export const COCHES_DENZA: CocheComparador[] = [
       "Carga flash: 10-70 % en 5 minutos con Blade 2.0",
     ],
     contras: [
-      "Batería y autonomía sin publicar oficialmente",
+      "Denza aún no publica batería ni autonomía oficiales",
       "Precio en libras convertido: la tarifa española aún no existe",
       "Entregas en Reino Unido a finales de 2026: aún sin probar por prensa",
       "Biplaza puro: cero practicidad diaria",
@@ -1016,19 +1016,19 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 600,
       costeMensualTotal: 250,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo estimado de 22 kWh/100 km.",
+        "Estimación anual con 15.000 km y carga particular (0,18 €/kWh), y consumo estimado de 22 kWh/100 km.",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/denza-z-coupe-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Denza Z Coupé, tres cuartos delantero en carretera de montaña",
+        alt: "Vista delantera de tres cuartos del Denza Z Coupé en carretera de montaña",
         ancho: 1920,
         alto: 1280,
       },
       {
         src: "/media/denza-z-coupe-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza Z Coupé, vista lateral en calle europea",
+        alt: "Vista lateral del Denza Z Coupé en calle europea",
         ancho: 1920,
         alto: 1280,
       },
@@ -1094,7 +1094,7 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 600,
       costeMensualTotal: 256,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo estimado de 19 kWh/100 km (76 kWh / 400 km WLTP, dato oficial).",
+        "Cálculo de 15.000 km al año con carga en casa a 0,18 €/kWh, con un gasto medio de 19 kWh cada 100 km (76 kWh / 400 km WLTP, dato oficial).",
       estimado: true,
     },
     euroncap: {
@@ -1104,7 +1104,7 @@ export const COCHES_DENZA: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Denza Z aún no ha sido probado por Euro NCAP",
     },
     planMantenimiento: {
-      intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (orientativo: plan BYD Europa para eléctricos; Denza no publica plan específico del Z)",
+      intervalo: "Revisión cada dos años o 30.000 km, lo que llegue antes (orientativo: plan BYD Europa para eléctricos; Denza no publica plan específico del Z)",
       revisiones: [
         {
           nombre: "Revisión cada 24 meses / 30.000 km",
@@ -1113,20 +1113,20 @@ export const COCHES_DENZA: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan oficial BYD Europa para vehículos eléctricos (Denza no publica el suyo propio para el Z)",
+      fuente: "Plan de mantenimiento oficial de BYD en Europa para eléctricos (Denza no tiene plan propio publicado para el Z)",
     },
     fuenteNombre: "Denza UK (comunicado oficial del Grupo BYD)",
     fuenteUrl: "https://www.denzaukmedia.com/en/news-articles/denza-confirms-uk-pricing-for-z-supercar.html",
     galeria: [
       {
         src: "/media/denza-z-spider-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Denza Z Spider descapotable junto al mar (foto: planetcarsz.com)",
+        alt: "Denza Z Spider descapotable a orillas del mar (foto: planetcarsz.com)",
         ancho: 1280,
         alto: 925,
       },
       {
         src: "/media/denza-z-spider-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza Z Spider, vista lateral del descapotable eléctrico (foto: rpmweb.ca, presentación Goodwood)",
+        alt: "Perfil lateral del descapotable eléctrico Denza Z Spider (foto: rpmweb.ca, presentación Goodwood)",
         ancho: 1280,
         alto: 720,
       },
@@ -1176,7 +1176,7 @@ export const COCHES_DENZA: CocheComparador[] = [
     ],
     contras: [
       "Coche de circuito: inútil (y prohibitivo) para calle",
-      "Batería y autonomía sin publicar oficialmente",
+      "Sin batería ni autonomía publicadas oficialmente por Denza",
       "Precio en libras convertido: sin tarifa española",
       "Sin pruebas independientes publicadas",
       "Neumáticos semi-slick opcionales: coste de uso altísimo",
@@ -1197,19 +1197,19 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 800,
       costeMensualTotal: 283,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo estimado de 22 kWh/100 km. En circuito el coste real es muy superior.",
+        "Cálculo para un año de 15.000 km con carga doméstica (0,18 €/kWh) y un consumo medio estimado de 22 kWh cada 100 km. En circuito el coste real es muy superior.",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/denza-z-racing-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Denza Z Racing, tres cuartos delantero en circuito",
+        alt: "Tres cuartos delantero del Denza Z Racing en el circuito",
         ancho: 1920,
         alto: 1280,
       },
       {
         src: "/media/denza-z-racing-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza Z Racing, vista lateral en paddock",
+        alt: "Vista lateral del Denza Z Racing en el paddock",
         ancho: 1920,
         alto: 1280,
       },
@@ -1246,7 +1246,7 @@ export const COCHES_DENZA: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "autonomiaKm"],
     pros: [
-      "544 CV y 760 Nm: 0-100 en 4,8 s en un todoterreno de chasis de largueros",
+      "544 CV y 760 Nm: acelera de 0 a 100 en 4,8 s siendo un todoterreno de chasis de largueros",
       "Bloqueos electrónicos en ambos ejes y reductora: 4x4 de verdad",
       "Carga rápida de 100 kW en un PHEV: 30-80 % en 18 minutos",
       "864 km de autonomía combinada",
@@ -1275,19 +1275,19 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 223,
       notas:
-        "Estimación mixta con 15.000 km/año cargando a diario: coste por 100 km entre electricidad (0,18 €/kWh) y gasolina (1,60 €/l).",
+        "Estimación combinada de 15.000 km anuales con carga diaria: coste por 100 km con la electricidad a 0,18 €/kWh y la gasolina a 1,60 €/l, cargando a diario.",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/denza-bao-5-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Denza Bao 5, tres cuartos delantero en pista de montaña",
+        alt: "Tres cuartos delantero del Denza Bao 5 en una pista de montaña",
         ancho: 1920,
         alto: 1280,
       },
       {
         src: "/media/denza-bao-5-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza Bao 5, vista lateral en pista de tierra",
+        alt: "Vista lateral del Denza Bao 5 en pista de tierra",
         ancho: 1920,
         alto: 1280,
       },
@@ -1371,19 +1371,19 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 480,
       costeMensualTotal: 242,
       notas:
-        "Estimación mixta con 15.000 km/año cargando a diario: coste por 100 km entre electricidad (0,18 €/kWh) y gasolina (1,60 €/l).",
+        "Cuenta combinada para 15.000 km al año cargando a diario: gasto cada 100 km combinando electricidad (0,18 €/kWh) y gasolina a 1,60 euros el litro.",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/denza-bao-8-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Denza B8, tres cuartos delantero en estudio (foto oficial de prensa)",
+        alt: "Tres cuartos delantero del Denza B8 en estudio (foto oficial de prensa)",
         ancho: 1264,
         alto: 672,
       },
       {
         src: "/media/denza-bao-8-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza B8, tres cuartos delantero (foto oficial de prensa)",
+        alt: "Vista delantera de tres cuartos del Denza B8 (foto oficial de prensa)",
         ancho: 768,
         alto: 428,
       },
@@ -1403,7 +1403,7 @@ export const COCHES_DENZA: CocheComparador[] = [
       nota: "Sin prueba Euro NCAP publicada; 5 estrellas ANCAP 2025 (protocolo alineado con Euro NCAP).",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 20.000 km (lo que ocurra antes)",
+      intervalo: "Revisión cada 12 meses o 20.000 km, según lo que se cumpla antes",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",

@@ -73,7 +73,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 385,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 8,2 l/100 km y todo riesgo.",
+        "Cálculo con 15.000 km anuales, gasolina a 1,60 €/l, consumo de 8,2 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -89,7 +89,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: el Serie 3 Touring (G21) no ha sido probado de forma independiente; el Serie 3 obtuvo 5 estrellas en 2019.",
+      nota: "Sin datos EuroNCAP: el Serie 3 Touring (G21) no ha sido probado por separado; el Serie 3 obtuvo 5 estrellas en 2019.",
     },
     planMantenimiento: {
       intervalo: "Según indicador CBS, aproximadamente cada 25.000 km o 24 meses",
@@ -155,7 +155,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 295,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo de 18,5 kWh/100 km y todo riesgo.",
+        "Cálculo con 15.000 km recorridos al año, carga en casa a 18 céntimos/kWh, consumo WLTP de 18,5 kWh/100 km con cobertura total incluida.",
       estimado: true,
     },
     galeria: [
@@ -171,7 +171,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin datos EuroNCAP: sin prueba independiente.",
     },
     planMantenimiento: {
       intervalo: "Cada 24 meses o 30.000 km (vehículo eléctrico, sin cambio de aceite)",
@@ -222,7 +222,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     ],
     contras: [
       "196.150 €: más caro que un Porsche 911 Carrera",
-      "Etiqueta C: vetado en las ZBE más restrictivas en episodios de alta contaminación",
+      "Etiqueta C: excluido de las ZBE más restrictivas en episodios de alta contaminación",
       "Suspensión CS muy firme: incómodo como coche familiar de diario",
       "Consumo desorbitado en uso deportivo (más de 15 l/100 km)",
       "Solo 50 unidades: conseguir una es casi imposible y el sobreprecio en reventa será alto",
@@ -249,7 +249,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 750,
       costeMensualTotal: 620,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 10,2 l/100 km y todo riesgo.",
+        "Previsión con 15.000 km por año, gasolina 1,60 €/l, consumo estimado de 10,2 l/100 km y todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -268,21 +268,21 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el M3 Touring no ha sido probado de forma independiente.",
     },
     planMantenimiento: {
-      intervalo: "Según indicador CBS, aproximadamente cada 25.000 km o 24 meses",
+      intervalo: "Según el CBS, cada 25.000 km o dos años aproximadamente",
       revisiones: [
         {
-          nombre: "Cambio de aceite / 25.000 km",
-          queSeCambia: "Aceite + filtro de aceite + inspección CBS",
+          nombre: "Cambio de aceite a los 25.000 km",
+          queSeCambia: "Aceite + filtro de aceite + revisión CBS",
           costeAproxEur: 450,
         },
         {
-          nombre: "Inspección mayor / 50.000 km",
-          queSeCambia: "Aceite + todos los filtros + líquido de frenos + bujías + diferencial",
+          nombre: "Inspección mayor a los 50.000 km",
+          queSeCambia: "Aceite con líquido de frenos + todos los filtros + bujías + diferencial",
           costeAproxEur: 950,
         },
       ],
       costeAnualAproxEur: 750,
-      fuente: "BMW Service Inclusive (programa oficial BMW España)",
+      fuente: "BMW Service Inclusive (programa oficial de BMW España)",
     },
   },
 {
@@ -343,7 +343,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 295,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 6,8 l/100 km y todo riesgo.",
+        "Valoración con 15.000 kilómetros por año, gasolina a 160 céntimos/litro, gasto de 6,8 l/100 km con todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -362,16 +362,16 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: "5 estrellas Euro NCAP 2024 (comunicado oficial BMW Group).",
     },
     planMantenimiento: {
-      intervalo: "Según indicador CBS, aproximadamente cada 25.000 km o 24 meses",
+      intervalo: "Según indicador CBS, cada 25.000 km o 24 meses aproximadamente",
       revisiones: [
         {
-          nombre: "Cambio de aceite / 25.000 km",
-          queSeCambia: "Aceite + filtro de aceite + inspección",
+          nombre: "Cambio de aceite cada 25.000 km",
+          queSeCambia: "Aceite + filtro de aceite + chequeo general",
           costeAproxEur: 280,
         },
         {
-          nombre: "Inspección mayor / 50.000 km",
-          queSeCambia: "Aceite + todos los filtros + líquido de frenos + bujías",
+          nombre: "Gran inspección / 50.000 km",
+          queSeCambia: "Aceite + todos los filtros + bujías + líquido de frenos",
           costeAproxEur: 520,
         },
       ],
@@ -425,7 +425,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 240,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo de 15,7 kWh/100 km y todo riesgo.",
+        "Cuenta con 15.000 km cada año, carga doméstica a 0,18 €/kWh, consumo estimado de 15,7 kWh/100 km más cobertura total.",
       estimado: true,
     },
     galeria: [
@@ -441,9 +441,9 @@ export const COCHES_LOTE17: CocheComparador[] = [
       estrellas: 5,
       ano: 2024,
       url: null,
-      nota: "5 estrellas Euro NCAP 2024 (comunicado oficial BMW Group, válido para la gama Countryman).",
+      nota: "5 estrellas Euro NCAP 2024 (comunicado oficial de BMW Group, válido para la gama Countryman).",
     },
-    planMantenimiento: {"intervalo": "Cada 2 años o 30.000 km, lo que antes ocurra; líquido de frenos cada 2 años, según manual y sistema CBS", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión periódica a los 2 años o 30.000 km", "queSeCambia": "Chequeo del vehículo según directrices MINI, servicio de microfiltro y servicio de líquido de frenos cuando el CBS lo indica"}, {"costeAproxEur": null, "nombre": "Revisión periódica a los 4 años o 60.000 km", "queSeCambia": "Nuevo chequeo del vehículo según directrices MINI, servicio de microfiltro y servicio de líquido de frenos cuando el CBS lo indica"}]},
+    planMantenimiento: {"intervalo": "Cada 30.000 km o dos años, lo que antes suceda; líquido de frenos cada 2 años, según manual y sistema CBS", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión periódica cada 2 años o 30.000 km", "queSeCambia": "Chequeo del vehículo según directrices MINI, servicio de microfiltro y servicio de líquido de frenos cuando el CBS lo indica"}, {"costeAproxEur": null, "nombre": "Revisión periódica cada 4 años o 60.000 km", "queSeCambia": "Nuevo chequeo del vehículo según directrices MINI, servicio de microfiltro y servicio de líquido de frenos cuando el CBS lo indica"}]},
   },
 {
     id: "mercedes-glb-250-eq-2026",
@@ -468,8 +468,8 @@ export const COCHES_LOTE17: CocheComparador[] = [
     cargaRapidaKw: 320,
     etiquetaDgt: "Cero",
     pros: [
-      "629 km de autonomía WLTP: récord entre los SUV eléctricos premium compactos",
-      "Arquitectura de 800 V con carga de 320 kW: del 10 al 80 % en 22 minutos",
+      "629 km de autonomía WLTP: la mejor cifra entre los SUV eléctricos premium compactos",
+      "Arquitectura de 800 V con carga de 320 kW de potencia: del 10 al 80 % en 22 minutos",
       "Batería de 85 kWh con química LFP: más duradera y barata de producir",
       "7 plazas opcionales: el único SUV eléctrico compacto con tercera fila",
       "MB.OS con IA: el sistema operativo más avanzado de Mercedes hasta la fecha",
@@ -503,7 +503,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 260,
       costeMensualTotal: 260,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo de 14,5 kWh/100 km y todo riesgo.",
+        "Estimación anual con 15.000 km al año, carga en casa a 0,18 €/kWh, consumo de 14,5 kWh/100 km con todo riesgo y asistencia.",
       estimado: true,
     },
     galeria: [
@@ -573,7 +573,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       "La autonomía cae más en el 350 si se usa la potencia extra con frecuencia",
       "Neumáticos más anchos y llantas grandes: más ruido y consumo que el 250+",
       "El maletero con 7 plazas desplegadas es testimonial (130 litros)",
-      "Pesa más de 2,2 toneladas: la agilidad no es su fuerte en carreteras reviradas",
+      "Pesa más de 2,2 toneladas: la agilidad no es su punto fuerte en carreteras reviradas",
     ],
     largoMm: 4650,
     anchoMm: 1850,
@@ -597,7 +597,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 280,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo de 15,2 kWh/100 km y todo riesgo.",
+        "Valoración con 15.000 kilómetros anuales, recarga doméstica a 18 céntimos/kWh, consumo WLTP de 15,2 kWh/100 km más todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -613,24 +613,24 @@ export const COCHES_LOTE17: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin datos EuroNCAP: aún sin probar.",
     },
     planMantenimiento: {
-      intervalo: "Cada 25.000 km o 12 meses (eléctrico, sin cambio de aceite)",
+      intervalo: "25.000 km o un año (eléctrico, sin aceite que cambiar)",
       revisiones: [
         {
-          nombre: "Servicio A / 25.000 km",
-          queSeCambia: "Filtro de habitáculo + líquido de frenos + revisión batería",
+          nombre: "Servicio A a los 25.000 km",
+          queSeCambia: "Filtro del habitáculo + líquido de frenos + revisión de batería",
           costeAproxEur: 200,
         },
         {
-          nombre: "Servicio B / 50.000 km",
-          queSeCambia: "Filtros + líquido de frenos + refrigerante + pastillas",
+          nombre: "Servicio B a los 50.000 km",
+          queSeCambia: "Filtros y líquido de frenos + refrigerante y pastillas",
           costeAproxEur: 350,
         },
       ],
       costeAnualAproxEur: 280,
-      fuente: "Mercedes-Benz ServiceCare (red oficial Mercedes-Benz España)",
+      fuente: "Mercedes-Benz ServiceCare (red oficial de Mercedes-Benz España)",
     },
   },
 {
@@ -691,7 +691,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 650,
       costeMensualTotal: 520,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 9,8 l/100 km y todo riesgo.",
+        "Previsión anual con 15.000 kilómetros al año, gasolina a 1,60 €/litro, consumo homologado de 9,8 l/100 km y todo riesgo cubierto.",
       estimado: true,
     },
     galeria: [
@@ -719,7 +719,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
         },
         {
           nombre: "Servicio B / 50.000 km",
-          queSeCambia: "Aceite + todos los filtros + líquido de frenos + bujías",
+          queSeCambia: "Aceite + líquido de frenos y bujías + todos los filtros",
           costeAproxEur: 850,
         },
       ],
@@ -785,7 +785,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 330,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo de 5,8 l/100 km y todo riesgo.",
+        "Estimación con 15.000 km recorridos al año, diésel a 1,55 €/l, gasto de 5,8 l/100 km y todo riesgo con asistencia.",
       estimado: true,
     },
     galeria: [
@@ -813,7 +813,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
         },
         {
           nombre: "Inspección mayor / 60.000 km",
-          queSeCambia: "Aceite + todos los filtros + líquido de frenos",
+          queSeCambia: "Aceite, todos los filtros y líquido de frenos",
           costeAproxEur: 550,
         },
       ],
@@ -879,7 +879,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 430,
       costeMensualTotal: 350,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 7,5 l/100 km y todo riesgo.",
+        "Cálculo con 15.000 km por año, gasolina a 160 céntimos/litro, consumo estimado de 7,5 l/100 km y seguro a todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -898,21 +898,21 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: "5 estrellas Euro NCAP 2025 (tanda de mayo, válido para Q5 y Q5 Sportback).",
     },
     planMantenimiento: {
-      intervalo: "LongLife hasta 30.000 km o 24 meses, o fijo 15.000 km/12 meses",
+      intervalo: "LongLife: 30.000 km o 24 meses como máximo; fijo: 15.000 km cada 12 meses",
       revisiones: [
         {
-          nombre: "Inspección / 30.000 km",
-          queSeCambia: "Aceite LongLife + filtro de aceite + filtro de habitáculo",
+          nombre: "Inspección a los 30.000 km",
+          queSeCambia: "Filtro de aceite + aceite LongLife + filtro del habitáculo",
           costeAproxEur: 330,
         },
         {
-          nombre: "Inspección mayor / 60.000 km",
-          queSeCambia: "Aceite + todos los filtros + líquido de frenos + bujías",
+          nombre: "Inspección mayor a los 60.000 km",
+          queSeCambia: "Aceite + líquido de frenos + todos los filtros, más bujías",
           costeAproxEur: 580,
         },
       ],
       costeAnualAproxEur: 430,
-      fuente: "Programa LongLife Audi (red oficial Audi España)",
+      fuente: "Programa LongLife de Audi (red oficial Audi España)",
     },
   },
 {
@@ -973,7 +973,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 290,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 6,5 l/100 km y todo riesgo.",
+        "Previsión con 15.000 kilómetros anuales, gasolina de 1,60 €/l, consumo de 6,5 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -992,21 +992,21 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: null,
     },
     planMantenimiento: {
-      intervalo: "LongLife hasta 30.000 km o 24 meses, o fijo 15.000 km/12 meses",
+      intervalo: "LongLife hasta un máximo de 30.000 km o 24 meses; fijo 15.000 km/12 meses",
       revisiones: [
         {
-          nombre: "Inspección / 30.000 km",
-          queSeCambia: "Aceite LongLife + filtro de aceite + filtro de habitáculo",
+          nombre: "Inspección cada 30.000 km",
+          queSeCambia: "Aceite LongLife con filtro de aceite, filtro de habitáculo",
           costeAproxEur: 300,
         },
         {
-          nombre: "Inspección mayor / 60.000 km",
-          queSeCambia: "Aceite + todos los filtros + líquido de frenos",
+          nombre: "Gran inspección / 60.000 km",
+          queSeCambia: "Todos los filtros y aceite, líquido de frenos",
           costeAproxEur: 520,
         },
       ],
       costeAnualAproxEur: 380,
-      fuente: "Programa LongLife Audi (red oficial Audi España)",
+      fuente: "LongLife Audi (red oficial Audi España)",
     },
   },
 {
@@ -1033,14 +1033,14 @@ export const COCHES_LOTE17: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "272 CV combinados (1.5 TFSI + motor eléctrico): el Q3 más potente sin ser SQ3",
-      "118 km de autonomía eléctrica WLTP: la mayor de un PHEV compacto premium",
-      "Carga rápida en CC de 50 kW: del 10 al 80 % en 30 minutos, inédito en PHEV",
+      "118 km de autonomía eléctrica WLTP: la más amplia de un PHEV compacto premium",
+      "Carga rápida en CC de 50 kW de potencia: del 10 al 80 por ciento en 30 minutos, inédito en PHEV",
       "Batería de 25,7 kWh: casi el doble que la generación anterior",
-      "Etiqueta 0: entra en todas las ZBE y aparca gratis en Madrid Central",
+      "Etiqueta 0: entra en todas las ZBE con aparcamiento gratis en Madrid Central",
     ],
     contras: [
       "52.100 € estimado: el PHEV cuesta 12.000 € más que el 1.5 TFSI MHEV",
-      "El maletero se queda en 375 litros por la batería: 140 menos que el Q3 normal",
+      "El maletero baja a 375 litros por la batería: 140 menos que el Q3 normal",
       "1.900 kg de peso: se nota en cambios de apoyo rápidos",
       "La carga a 50 kW calienta la batería: no es para usar a diario en viajes largos",
       "Sin carga, el consumo del 1.5 TFSI arrastrando 1,9 toneladas sube a 8 l/100 km",
@@ -1067,7 +1067,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 285,
       notas:
-        "Estimación con 15.000 km/año, uso mixto eléctrico/gasolina, recarga a 0,18 €/kWh y todo riesgo.",
+        "Cálculo con 15.000 kilómetros anuales, uso mixto eléctrico/gasolina, recarga a 0,18 €/kWh con todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -1086,21 +1086,21 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: "5 estrellas Euro NCAP 2025 (87/86/80/78, válido para Q3 y Q3 Sportback).",
     },
     planMantenimiento: {
-      intervalo: "LongLife hasta 30.000 km o 24 meses, o fijo 15.000 km/12 meses",
+      intervalo: "LongLife con límite de 30.000 km o 24 meses; intervalo fijo 15.000 km o 12 meses",
       revisiones: [
         {
-          nombre: "Inspección / 30.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + revisión batería",
+          nombre: "Inspección / 30.000 km (LongLife)",
+          queSeCambia: "Aceite + filtro de aceite + filtro del habitáculo + revisión de batería",
           costeAproxEur: 350,
         },
         {
-          nombre: "Inspección mayor / 60.000 km",
-          queSeCambia: "Aceite + todos los filtros + líquido de frenos + bujías",
+          nombre: "Inspección mayor cada 60.000 km",
+          queSeCambia: "Aceite y todos los filtros + líquido de frenos + bujías",
           costeAproxEur: 600,
         },
       ],
       costeAnualAproxEur: 400,
-      fuente: "Programa LongLife Audi (red oficial Audi España)",
+      fuente: "Programa LongLife Audi (red oficial en España)",
     },
   },
 {
@@ -1126,7 +1126,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "V6 3.0 TFSI de 367 CV con hibridación ligera plus: el último V6 no PHEV de Audi",
+      "V6 3.0 TFSI de 367 CV y hibridación ligera plus: el último V6 no PHEV de Audi",
       "0-100 en 4,5 s: más rápido que el BMW M340i Touring y con mejor sonido",
       "5 estrellas Euro NCAP 2024 (válido para S5): seguridad máxima con 367 CV",
       "Tracción quattro con diferencial deportivo: el familiar con mejor motricidad",
@@ -1161,7 +1161,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 550,
       costeMensualTotal: 430,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 8,8 l/100 km y todo riesgo.",
+        "Valoración con 15.000 km cada año, gasolina a 160 céntimos/litro, consumo WLTP de 8,8 l/100 km con cobertura total incluida.",
       estimado: true,
     },
     galeria: [
@@ -1180,21 +1180,21 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: "La calificación de 5 estrellas del A5 (2024) es válida para el S5 Avant.",
     },
     planMantenimiento: {
-      intervalo: "LongLife hasta 30.000 km o 24 meses, o fijo 15.000 km/12 meses",
+      intervalo: "LongLife hasta 30.000 km o dos años; fijo 15.000 km/12 meses",
       revisiones: [
         {
-          nombre: "Inspección / 30.000 km",
-          queSeCambia: "Aceite LongLife + filtro de aceite + filtro de habitáculo",
+          nombre: "Inspección a 30.000 km",
+          queSeCambia: "Aceite LongLife para el motor + filtro de aceite + filtro de habitáculo (cabina)",
           costeAproxEur: 380,
         },
         {
-          nombre: "Inspección mayor / 60.000 km",
-          queSeCambia: "Aceite + todos los filtros + líquido de frenos + bujías",
+          nombre: "Inspección mayor cada 60.000 km",
+          queSeCambia: "Aceite con todos los filtros, líquido de frenos y bujías",
           costeAproxEur: 680,
         },
       ],
       costeAnualAproxEur: 550,
-      fuente: "Programa LongLife Audi (red oficial Audi España)",
+      fuente: "Programa oficial LongLife Audi (red oficial Audi España)",
     },
   },
 {
@@ -1221,7 +1221,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "286 CV y 560 Nm: potencia de turismo en una furgoneta de reparto",
-      "448 km de autonomía WLTP, de las mejores del segmento comercial eléctrico",
+      "448 km de autonomía WLTP, entre las mejores del segmento comercial eléctrico",
       "Carga rápida en continua de 170 kW",
       "3,9 m³ de volumen de carga con 3 plazas delanteras",
       "Etiqueta Cero: acceso libre a las ZBE y aparcamiento bonificado",
@@ -1255,7 +1255,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 105,
       costeMensualTotal: 164,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo estimado de 21 kWh/100 km y seguro a todo riesgo.",
+        "Cuenta con 15.000 km anuales, recarga doméstica a 0,18 €/kWh, consumo homologado de 21 kWh/100 km y todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -1355,7 +1355,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 105,
       costeMensualTotal: 163,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo WLTP de 16,8 kWh/100 km y seguro a todo riesgo.",
+        "Estimación anual con 15.000 kilómetros anuales, recarga en casa a 18 céntimos/kWh, gasto de 16,8 kWh/100 km con todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1387,22 +1387,22 @@ export const COCHES_LOTE17: CocheComparador[] = [
         "EuroNCAP 5 estrellas (2023): 95 % ocupantes adultos, 88 % infantiles, 83 % peatones, 80 % asistencias. Enlace oficial no disponible en la fecha de consulta.",
     },
     planMantenimiento: {
-      intervalo: "Servicio de inspección cada 2 años (Plan de Mantenimiento Gama ID.)",
+      intervalo: "Inspección de servicio bienal (Plan de Mantenimiento de la Gama ID.)",
       revisiones: [
         {
-          nombre: "Servicio de inspección (cada 2 años)",
+          nombre: "Servicio de inspección (bienal)",
           queSeCambia:
-            "Comprobación del cable de carga y de la batería de alto voltaje, frenos, niveles, alumbrado, neumáticos y diagnóstico electrónico",
+            "Revisión de cable de carga y batería de alto voltaje, frenos, niveles y alumbrado, ruedas y diagnóstico electrónico",
           costeAproxEur: 150,
         },
         {
-          nombre: "Líquido de frenos (cada 2 años)",
-          queSeCambia: "Sustitución del líquido de frenos",
+          nombre: "Líquido de frenos (cada dos años)",
+          queSeCambia: "Cambio de líquido de frenos (bienal)",
           costeAproxEur: 60,
         },
       ],
       costeAnualAproxEur: 105,
-      fuente: "Volkswagen — Plan de Mantenimiento Gama ID. y campaña ID Care (volkswagen.es)",
+      fuente: "Volkswagen — Plan de Mantenimiento Gama ID. con campaña ID Care (volkswagen.es)",
     },
     confianza: "alta",
     fuenteNombre: "km77",
@@ -1431,9 +1431,9 @@ export const COCHES_LOTE17: CocheComparador[] = [
     cargaRapidaKw: 50,
     etiquetaDgt: "Cero",
     pros: [
-      "117 km de autonomía eléctrica: el día a día urbano sin gastar gasolina",
+      "117 km de autonomía eléctrica: el uso diario urbano sin gastar gasolina",
       "Etiqueta Cero con 150 CV: entra en todas las ZBE",
-      "Carga rápida en continua de 50 kW, rara en un híbrido enchufable",
+      "Carga rápida en continua de 50 kW, poco habitual en un híbrido enchufable",
       "Disponible en 5 y 7 plazas y en versión Cargo para profesionales",
       "Desde 35.770 €: uno de los híbridos enchufables de 7 plazas más asequibles",
     ],
@@ -1466,7 +1466,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 200,
       costeMensualTotal: 165,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, recarga a 0,18 €/kWh, consumos WLTP de 0,5 l/100 km y 18,9 kWh/100 km, y seguro a todo riesgo.",
+        "Previsión con 15.000 km recorridos al año, gasolina a 160 céntimos/litro, recarga a 0,18 €/kWh, consumos WLTP de 0,5 l/100 km y 18,9 kWh/100 km, con todo riesgo más asistencia.",
       estimado: true,
     },
     galeria: [
@@ -1499,16 +1499,16 @@ export const COCHES_LOTE17: CocheComparador[] = [
     },
     planMantenimiento: {
       intervalo:
-        "Cambio de aceite cada 2 años o 30.000 km; servicio de inspección cada 2 años (MY21+)",
+        "Aceite y filtros bienales o cada 30.000 km; revisión de servicio cada 2 años (MY21+)",
       revisiones: [
         {
-          nombre: "Mantenimiento oficial (anual o 15.000 km)",
-          queSeCambia: "Inspección general, niveles, frenos, alumbrado y diagnóstico electrónico",
+          nombre: "Mantenimiento oficial (cada año o cada 15.000 km)",
+          queSeCambia: "Revisión general, niveles, frenos y alumbrado, diagnóstico electrónico",
           costeAproxEur: 120,
         },
         {
-          nombre: "Cambio de aceite y filtros (2 años o 30.000 km)",
-          queSeCambia: "Aceite, filtro de aceite y filtro de polvo y polen",
+          nombre: "Cambio de aceite y filtros (bienal o cada 30.000 km)",
+          queSeCambia: "Aceite LongLife, filtro, filtro de polvo y polen",
           costeAproxEur: 280,
         },
       ],
@@ -1553,7 +1553,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       "63.635 € de partida: precio de premium alemán",
       "2.365 kg: el sistema híbrido y la tracción total pesan",
       "El consumo real sube mucho cuando se agota la batería",
-      "4,97 m de largo: aparcarlo en ciudad es un ejercicio",
+      "4,97 m de largo: aparcarlo en ciudad es todo un ejercicio",
       "Maletero de 380 litros con las 7 plazas en uso: justo para viajar cargado",
     ],
     largoMm: 4973,
@@ -1578,7 +1578,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 200,
       costeMensualTotal: 141,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo WLTP ponderado de 0,8 l/100 km (sin contar la recarga eléctrica) y seguro a todo riesgo.",
+        "Cuenta con 15.000 kilómetros al año, gasolina de 1,60 €/l, consumo WLTP ponderado de 0,8 l/100 km (sin contar la recarga eléctrica) y todo riesgo con asistencia.",
       estimado: true,
     },
     galeria: [
@@ -1611,22 +1611,22 @@ export const COCHES_LOTE17: CocheComparador[] = [
     },
     planMantenimiento: {
       intervalo:
-        "Cambio de aceite cada 2 años o 30.000 km; servicio de inspección cada 2 años (MY21+)",
+        "Cambio de aceite cada dos años o 30.000 km; chequeo bienal (MY21+)",
       revisiones: [
         {
           nombre: "Mantenimiento oficial (anual o 15.000 km)",
-          queSeCambia: "Inspección general, niveles, frenos, alumbrado y diagnóstico electrónico",
+          queSeCambia: "Revisión completa, niveles, frenos y alumbrado, diagnóstico digital",
           costeAproxEur: 120,
         },
         {
-          nombre: "Cambio de aceite y filtros (2 años o 30.000 km)",
-          queSeCambia: "Aceite, filtro de aceite y filtro de polvo y polen",
+          nombre: "Cambio de aceite y filtros (dos años o 30.000 km)",
+          queSeCambia: "Aceite, filtro de aceite y filtro antipolen",
           costeAproxEur: 280,
         },
       ],
       costeAnualAproxEur: 200,
       fuente:
-        "Volkswagen — Libro de mantenimiento oficial / Plan de Mantenimiento de híbridos enchufables",
+        "Volkswagen — Plan de Mantenimiento de híbridos enchufables / Libro de mantenimiento oficial",
     },
     confianza: "alta",
     fuenteNombre: "km77",
@@ -1691,7 +1691,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 200,
       costeMensualTotal: 151,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo WLTP ponderado de 0,9 l/100 km (sin contar la recarga eléctrica) y seguro a todo riesgo.",
+        "Cuenta con 15.000 km cada año, gasolina 1,60 euros/litro, consumo WLTP ponderado de 0,9 l/100 km (sin incluir la recarga eléctrica) con cobertura total incluida.",
       estimado: true,
     },
     galeria: [
@@ -1717,22 +1717,22 @@ export const COCHES_LOTE17: CocheComparador[] = [
     },
     planMantenimiento: {
       intervalo:
-        "Cambio de aceite cada 2 años o 30.000 km; servicio de inspección cada 2 años (MY21+)",
+        "Cambio de aceite bienal o 30.000 km; revisión de servicio cada dos años (MY21+)",
       revisiones: [
         {
-          nombre: "Mantenimiento oficial (anual o 15.000 km)",
-          queSeCambia: "Inspección general, niveles, frenos, alumbrado y diagnóstico electrónico",
+          nombre: "Mantenimiento oficial anual (15.000 km)",
+          queSeCambia: "Inspección completa, niveles, frenos, alumbrado y revisión electrónica",
           costeAproxEur: 120,
         },
         {
-          nombre: "Cambio de aceite y filtros (2 años o 30.000 km)",
-          queSeCambia: "Aceite, filtro de aceite y filtro de polvo y polen",
+          nombre: "Cambio de aceite y filtros (bienal o 30.000 km)",
+          queSeCambia: "Filtro de aceite con aceite, filtro antipolen",
           costeAproxEur: 280,
         },
       ],
       costeAnualAproxEur: 200,
       fuente:
-        "Volkswagen — Libro de mantenimiento oficial / Plan de Mantenimiento de híbridos enchufables",
+        "Volkswagen — Libro oficial de mantenimiento / Plan de Mantenimiento de híbridos enchufables",
     },
     confianza: "alta",
     fuenteNombre: "km77",
@@ -1797,7 +1797,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 105,
       costeMensualTotal: 167,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo WLTP de 24,1 kWh/100 km y seguro a todo riesgo.",
+        "Cálculo anual con 15.000 km cada año, recarga doméstica a 18 céntimos/kWh, consumo estimado de 24,1 kWh/100 km más cobertura total.",
       estimado: true,
     },
     galeria: [
@@ -1822,22 +1822,22 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no probado.",
     },
     planMantenimiento: {
-      intervalo: "Servicio de inspección cada 2 años (Plan de Mantenimiento Gama ID.)",
+      intervalo: "Servicio de inspección bienal (Plan de Mantenimiento Gama ID.)",
       revisiones: [
         {
-          nombre: "Servicio de inspección (cada 2 años)",
+          nombre: "Inspección de servicio (cada dos años)",
           queSeCambia:
-            "Comprobación del cable de carga y de la batería de alto voltaje, frenos, niveles, alumbrado, neumáticos y diagnóstico electrónico",
+            "Comprobación del cable de carga y la batería de alto voltaje, frenos, alumbrado, niveles, neumáticos y diagnóstico",
           costeAproxEur: 150,
         },
         {
-          nombre: "Líquido de frenos (cada 2 años)",
-          queSeCambia: "Sustitución del líquido de frenos",
+          nombre: "Líquido de frenos (cada dos años)",
+          queSeCambia: "Sustitución del fluido de frenos",
           costeAproxEur: 60,
         },
       ],
       costeAnualAproxEur: 105,
-      fuente: "Volkswagen — Plan de Mantenimiento Gama ID. y campaña ID Care (volkswagen.es)",
+      fuente: "Volkswagen — Plan de Mantenimiento de la Gama ID. más campaña ID Care (volkswagen.es)",
     },
     confianza: "media",
     fuenteNombre: "km77",
@@ -1869,7 +1869,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       "325 CV: el Golf de serie más potente de la historia",
       "270 km/h de velocidad máxima",
       "Edición 50.º aniversario limitada a 350 unidades en España",
-      "5,3 s de 0 a 100 km/h con autoblocante electrónico",
+      "5,3 segundos de 0 a 100 km/h con autoblocante electrónico",
       "Chasis rebajado y puesta a punto específica de la edición",
     ],
     contras: [
@@ -1901,7 +1901,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 185,
       costeMensualTotal: 276,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo WLTP de 7,6 l/100 km y seguro a todo riesgo.",
+        "Cálculo anual con 15.000 kilómetros anuales, gasolina a 160 céntimos/litro, consumo de 7,6 l/100 km con todo riesgo más asistencia.",
       estimado: true,
     },
     galeria: [
@@ -1922,16 +1922,16 @@ export const COCHES_LOTE17: CocheComparador[] = [
     },
     planMantenimiento: {
       intervalo:
-        "Cambio de aceite cada 2 años o 30.000 km (LongLife); servicio de inspección anual a partir de los 2 años o 30.000 km",
+        "Aceite LongLife cada 2 años o 30.000 km; control de servicio anual a partir de los 2 años o 30.000 km",
       revisiones: [
         {
-          nombre: "Servicio de inspección (anual desde el 2.º año)",
-          queSeCambia: "Inspección visual, niveles, frenos, alumbrado y diagnóstico electrónico",
+          nombre: "Inspección de servicio anual (desde el 2.º año)",
+          queSeCambia: "Inspección visual, niveles, frenos, alumbrado y chequeo electrónico",
           costeAproxEur: 90,
         },
         {
-          nombre: "Cambio de aceite y filtros (2 años o 30.000 km)",
-          queSeCambia: "Aceite LongLife, filtro de aceite y filtro de polvo y polen",
+          nombre: "Cambio de aceite y filtros (cada dos años o 30.000 km)",
+          queSeCambia: "Aceite LongLife y filtro de aceite, filtro antipolen",
           costeAproxEur: 280,
         },
       ],
@@ -1967,14 +1967,14 @@ export const COCHES_LOTE17: CocheComparador[] = [
     pros: [
       "286 CV con tracción total: el Enyaq Coupé más equilibrado",
       "551 km de autonomía WLTP: de los mejores registros del segmento",
-      "Carga rápida de 175 kW en corriente continua",
+      "Carga rápida de 175 kW en CC",
       "5 estrellas EuroNCAP 2025 con un 90 % en protección de adultos",
       "Maletero de 570 litros: el coupé no sacrifica carga",
     ],
     contras: [
       "52.780 €: el acabado 85x roza el precio del Enyaq RS",
-      "2.234 kg: el peso se deja notar en carreteras viradas",
-      "La caída del techo coupé resta altura en las plazas traseras",
+      "2.234 kg: el peso se nota en carreteras viradas",
+      "La caída del techo coupé recorta la altura de las plazas traseras",
       "El equipamiento interesante (Matrix LED, head-up) es opcional",
       "15,5 kWh/100 km: eficiente, pero sin batir a sus rivales directos",
     ],
@@ -2000,7 +2000,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 110,
       costeMensualTotal: 148,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo WLTP de 15,5 kWh/100 km y seguro a todo riesgo.",
+        "Cálculo con 15.000 km anuales, carga doméstica a 0,18 €/kWh, gasto estimado de 15,5 kWh/100 km más todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -2099,7 +2099,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 110,
       costeMensualTotal: 140,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo WLTP de 15,5 kWh/100 km y seguro a todo riesgo.",
+        "Cálculo con 15.000 kilómetros al año, carga doméstica a 0,18 €/kWh, gasto homologado de 15,5 kWh/100 km y todo riesgo cubierto.",
       estimado: true,
     },
     galeria: [
@@ -2116,25 +2116,25 @@ export const COCHES_LOTE17: CocheComparador[] = [
       ano: 2025,
       url: "https://cdn.euroncap.com/media/93069/euroncap-2025-škoda-elroq-datasheet.pdf",
       nota:
-        "EuroNCAP 5 estrellas (2025): 90 % adultos, 87 % infantiles, 77 % peatones, 78 % asistencias.",
+        "EuroNCAP 5 estrellas (2025): 90 % en adultos, 87 % en infantiles, 77 % en peatones, 78 % en asistencias.",
     },
     planMantenimiento: {
-      intervalo: "Servicio de inspección cada 2 años; filtro del habitáculo cada 30.000 km o 2 años",
+      intervalo: "Inspección de servicio cada 2 años; filtro del habitáculo cada 2 años o 30.000 km",
       revisiones: [
         {
-          nombre: "Inspección (cada 2 años)",
+          nombre: "Inspección (bienal)",
           queSeCambia:
-            "Revisión general, batería de alto voltaje, frenos, niveles y diagnóstico electrónico",
+            "Revisión completa, batería de alto voltaje, frenos, niveles y chequeo electrónico",
           costeAproxEur: 160,
         },
         {
-          nombre: "Filtro de polvo y polen (cada 2 años o 30.000 km)",
-          queSeCambia: "Sustitución del filtro del habitáculo",
+          nombre: "Filtro de polvo y polen (cada 30.000 km o 2 años)",
+          queSeCambia: "Cambio del filtro del habitáculo",
           costeAproxEur: 60,
         },
       ],
       costeAnualAproxEur: 110,
-      fuente: "Škoda — Catálogo de Servicios / Plan de Mantenimiento (skoda.es)",
+      fuente: "Škoda — Plan de Mantenimiento / Catálogo de Servicios (skoda.es)",
     },
     confianza: "media",
     fuenteNombre: "km77",
@@ -2164,14 +2164,14 @@ export const COCHES_LOTE17: CocheComparador[] = [
     etiquetaDgt: "C",
     pros: [
       "2.0 TDI de 150 CV y 360 Nm: el diésel más equilibrado del León",
-      "4,9 l/100 km WLTP: unos 1.000 km de autonomía real por depósito",
+      "4,9 l/100 km WLTP: cerca de 1.000 km de autonomía real por depósito",
       "213 km/h y 8,5 s de 0 a 100: prestaciones de compacto deportivo",
       "5 estrellas EuroNCAP (retest 2025)",
       "Cambio DSG de 7 velocidades: el diésel también puede divertir",
     ],
     contras: [
       "Etiqueta C: el diésel pierde acceso a las ZBE más estrictas",
-      "AdBlue y filtro de partículas: mantenimiento más caro que un gasolina",
+      "AdBlue y filtro de partículas: un mantenimiento más costoso que el de un gasolina",
       "El diésel en 2026: la reventa a largo plazo es una incógnita",
       "40.652 €: el León más caro sin ser un VZ",
       "Sonoridad diésel en frío: no es el León más refinado",
@@ -2198,7 +2198,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 185,
       costeMensualTotal: 202,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo WLTP de 4,9 l/100 km y seguro a todo riesgo.",
+        "Previsión con 15.000 km cada año, diésel a 155 céntimos/litro, gasto de 4,9 l/100 km con todo riesgo, asistencia incluida.",
       estimado: true,
     },
     galeria: [
@@ -2228,7 +2228,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
         },
         {
           nombre: "Cambio de aceite y filtros (2 años o 30.000 km)",
-          queSeCambia: "Aceite, filtro de aceite, filtro de polvo y polen y filtro de aire",
+          queSeCambia: "Aceite con filtro de aceite, filtro de polvo y polen más filtro de aire",
           costeAproxEur: 280,
         },
       ],
@@ -2263,7 +2263,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     etiquetaDgt: "C",
     pros: [
       "390 CV del 2.5 de cinco cilindros: el CUPRA más potente de la historia",
-      "4,2 s de 0 a 100 km/h y 280 km/h: cifras de deportivo puro",
+      "4,2 segundos de 0 a 100 km/h y 280 km/h de máxima: cifras de deportivo puro",
       "Edición limitada a 4.000 unidades: objeto de colección",
       "El cinco cilindros 2.5 TSI: un motor de culto que desaparece de la gama",
       "Chasis específico VZ5 con frenos sobredimensionados y tracción total",
@@ -2297,7 +2297,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 185,
       costeMensualTotal: 340,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo WLTP de 10,2 l/100 km y seguro a todo riesgo.",
+        "Valoración con 15.000 km al año, gasolina a 160 céntimos/litro, consumo homologado de 10,2 l/100 km más seguro a todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -2318,21 +2318,21 @@ export const COCHES_LOTE17: CocheComparador[] = [
     },
     planMantenimiento: {
       intervalo:
-        "Cambio de aceite cada 2 años o 30.000 km; servicio de inspección anual o 15.000 km a partir de la primera revisión",
+        "Cambio de aceite bienal o cada 30.000 km; inspección de servicio cada año o 15.000 km desde la primera revisión",
       revisiones: [
         {
-          nombre: "Servicio de inspección (anual o 15.000 km)",
-          queSeCambia: "Inspección general, niveles, frenos, alumbrado y diagnóstico",
+          nombre: "Servicio de inspección (cada año o 15.000 km)",
+          queSeCambia: "Revisión general, niveles, frenos, alumbrado y diagnosis",
           costeAproxEur: 90,
         },
         {
-          nombre: "Cambio de aceite y filtros (2 años o 30.000 km)",
-          queSeCambia: "Aceite, filtro de aceite, filtro de polvo y polen y filtro de aire",
+          nombre: "Cambio de aceite y filtros (cada 2 años o 30.000 km)",
+          queSeCambia: "Filtro de aceite y aceite, filtro de aire y filtro antipolen",
           costeAproxEur: 280,
         },
       ],
       costeAnualAproxEur: 185,
-      fuente: "CUPRA — Programa de mantenimiento oficial",
+      fuente: "CUPRA — Programa oficial de mantenimiento",
     },
     confianza: "media",
     fuenteNombre: "CUPRA Media Center",
@@ -2364,8 +2364,8 @@ export const COCHES_LOTE17: CocheComparador[] = [
     pros: [
       "Restyling 2026 con frontal renovado y nuevo acabado GR Sport: el Corolla Cross más atractivo hasta la fecha",
       "Híbrido autorrecargable de 5ª generación (140 o 180 CV) con etiqueta ECO: sin enchufar y sin restricciones en ZBE",
-      "Consumo homologado de 5,0 l/100 km: gasta como un utilitario siendo un SUV de 4,46 m",
-      "Desde 36.500 € con 4.500 € de descuento directo: el híbrido japonés aprieta precios ante los chinos",
+      "5,0 l/100 km homologados: gasta como un utilitario siendo un SUV de 4,46 m",
+      "Desde 36.500 € con un descuento directo de 4.500 €: el híbrido japonés aprieta precios ante los chinos",
       "Toyota Safety Sense de serie y 5 estrellas EuroNCAP (2022): seguridad de primer nivel",
       "Garantía Toyota Relax: hasta 15 años de cobertura pasando el mantenimiento en la red oficial",
     ],
@@ -2412,7 +2412,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 220,
       costeMensualTotal: 189,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 5,0 l/100 km y todo riesgo.",
+        "Cuenta con 15.000 kilómetros anuales, gasolina 1,60 €/l, gasto de 5,0 l/100 km con todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -2443,7 +2443,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: null,
     },
     planMantenimiento: {
-      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra (programa Toyota España)",
+      intervalo: "Cada 12 meses o 15.000 km, lo que suceda primero (programa Toyota España)",
       revisiones: [
         {
           nombre: "Revisión intermedia / 15.000 km",
@@ -2452,7 +2452,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
         },
         {
           nombre: "Revisión principal / 30.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + filtro de polen + líquido de frenos (según plan) + inspección híbrida",
+          queSeCambia: "Aceite y filtro de aceite, filtro de aire y filtro de polen, líquido de frenos (según plan) e inspección híbrida",
           costeAproxEur: null,
         },
       ],
@@ -2522,7 +2522,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 136,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo de 16,1 kWh/100 km y todo riesgo.",
+        "Cálculo anual con 15.000 km al año, recarga doméstica a 18 céntimos/kWh, gasto WLTP de 16,1 kWh/100 km con cobertura completa.",
       estimado: true,
     },
     galeria: [
@@ -2553,11 +2553,11 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: null,
     },
     planMantenimiento: {
-      intervalo: "Cada 20.000 km o 12 meses, lo que antes ocurra (programa de mantenimiento Mazda en Europa)",
+      intervalo: "Cada 12 meses o 20.000 km, lo que suceda antes (programa de mantenimiento Mazda en Europa)",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
-          queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan) + actualización de software",
+          queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según el plan) + actualización de software",
           costeAproxEur: null,
         },
       ],
@@ -2593,9 +2593,9 @@ export const COCHES_LOTE17: CocheComparador[] = [
     pros: [
       "Berlina eléctrica de 5,14 m con 370 CV y tracción total: lujo coreano a precio de alemán básico",
       "Batería de 94,5 kWh con unos 570 km WLTP: de las mayores autonomías del segmento",
-      "Carga ultrarrápida de 800 V (hasta 350 kW): del 10 al 80 % en unos 25 minutos",
+      "Carga ultrarrápida de 800 V (hasta 350 kW): del 10 al 80 % en 25 minutos escasos",
       "Interior con pantalla OLED de 27 pulgadas y materiales de primera: nivel EQS por menos dinero",
-      "5 estrellas Euro NCAP y garantía oficial de 5 años sin límite de kilómetros",
+      "5 estrellas Euro NCAP y garantía oficial de 5 años con kilómetros ilimitados",
       "Techo solar y suspensión adaptativa de serie en la versión Luxury",
     ],
     contras: [
@@ -2628,7 +2628,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 661,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo de 19 kWh/100 km y todo riesgo.",
+        "Cálculo anual con 15.000 km recorridos al año, recarga en casa a 0,18 €/kWh, consumo homologado de 19 kWh/100 km y todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -2698,7 +2698,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       "650 CV y 790 Nm con modo Boost: el Genesis más potente y rápido de la historia (0-100 en 3,4 s)",
       "Chasis recalibrado por el equipo de competición de Genesis: no es solo potencia, es precisión",
       "264 km/h de velocidad máxima: rival declarado del Porsche Macan Turbo",
-      "Carga de 800 V hasta 350 kW: del 10 al 80 % en unos 18 minutos",
+      "Carga de 800 V con 350 kW: del 10 al 80 % en 18 minutos",
       "Interior deportivo con botón Boost en el volante y modos GT, Sprint y Sport",
       "Primera serie de la división Magma: pieza de lanzamiento con potencial coleccionista",
     ],
@@ -2732,7 +2732,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 759,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo de 22 kWh/100 km y todo riesgo.",
+        "Previsión anual con 15.000 kilómetros por año, recarga doméstica a 0,18 €/kWh, gasto de 22 kWh/100 km con todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -2751,26 +2751,26 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: "La variante Magma no se probó por separado; la prueba de 5 estrellas cubre la gama GV60.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 12.000 km (Servicio 1); 24 meses o 24.000 km (Servicio 2), lo que ocurra antes",
+      intervalo: "Servicio 1: 12.000 km o 12 meses; Servicio 2: 24.000 km o 24 meses, lo que antes se cumpla",
       revisiones: [
         {
-          nombre: "Servicio 1 / 12.000 km",
-          queSeCambia: "Inspección general + niveles + actualización de software",
+          nombre: "Servicio 1 a los 12.000 km",
+          queSeCambia: "Revisión general + niveles + actualización de software",
           costeAproxEur: null,
         },
         {
-          nombre: "Servicio 2 / 24.000 km",
-          queSeCambia: "Servicio 1 + filtro de habitáculo + revisión del sistema de frenos",
+          nombre: "Servicio 2 a los 24.000 km",
+          queSeCambia: "Servicio 1 + filtro del habitáculo + revisión de frenos",
           costeAproxEur: null,
         },
         {
-          nombre: "Cada 48 meses / 48.000 km",
-          queSeCambia: "Sustitución del líquido de frenos",
+          nombre: "Cada 48 meses o 48.000 km",
+          queSeCambia: "Cambio del líquido de frenos",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan de mantenimiento oficial Genesis (genesis.com, documento de programa de servicio)",
+      fuente: "Programa de servicio oficial Genesis (genesis.com, documento del plan de mantenimiento)",
     },
     confianza: "alta",
     fuenteNombre: "Genesis",
@@ -2836,7 +2836,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 564,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo de 17,5 kWh/100 km y todo riesgo.",
+        "Estimación con 15.000 kilómetros anuales, carga doméstica a 18 céntimos/kWh, gasto estimado de 17,5 kWh/100 km más cobertura total.",
       estimado: true,
     },
     galeria: [
@@ -2855,7 +2855,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: "Reevaluado en julio de 2025 con 4 estrellas tras mejorar la retención de las plazas traseras (la prueba de 2024 dio 3 estrellas).",
     },
     planMantenimiento: {
-      intervalo: "2 años o 30.000 km, lo que ocurra antes",
+      intervalo: "30.000 km o 2 años, lo que ocurra primero",
       revisiones: [
         {
           nombre: "Revisión principal / 30.000 km",
@@ -2863,8 +2863,8 @@ export const COCHES_LOTE17: CocheComparador[] = [
           costeAproxEur: null,
         },
         {
-          nombre: "Cada 2 años",
-          queSeCambia: "Sustitución del líquido de frenos + revisión de carrocería y pintura",
+          nombre: "Cada 24 meses",
+          queSeCambia: "Cambio del líquido de frenos + revisión de carrocería y pintura",
           costeAproxEur: null,
         },
       ],
@@ -2910,7 +2910,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       "Consumo desorbitado (más de 15 l/100 km reales): el depósito no da para mucho",
       "Solo 2 plazas y maletero testimonial: no es un coche para todos los días",
       "Red de servicio mínima en España: todo pasa por el concesionario de Sevilla",
-      "Etiqueta C: vetado en las ZBE más restrictivas del futuro",
+      "Etiqueta C: sin acceso a las ZBE más restrictivas del futuro",
       "Seguro y neumáticos de superdeportivo: el coste de uso es muy alto",
     ],
     largoMm: 4683,
@@ -2935,7 +2935,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 900,
       costeMensualTotal: 4148,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 16 l/100 km y todo riesgo de superdeportivo.",
+        "Cálculo con 15.000 kilómetros cada año, gasolina a 1,60 €/litro, consumo de 16 l/100 km con todo riesgo y asistencia de superdeportivo.",
       estimado: true,
     },
     galeria: [
@@ -3009,7 +3009,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       "Batería de solo 1,9 kWh: la ayuda eléctrica dura segundos, no es un híbrido eficiente",
       "194.000 €: sigue siendo un capricho de seis cifras",
       "Sonido menos emocionante que el Z06 de cigüeñal plano",
-      "Red de servicio mínima en España: todo pasa por el concesionario de Sevilla",
+      "Red de servicio mínima en el país: todo pasa por el concesionario sevillano",
       "Consumo real alto: la hibridación busca prestaciones, no ahorrar combustible",
     ],
     largoMm: 4688,
@@ -3034,7 +3034,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 800,
       costeMensualTotal: 3403,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 13 l/100 km y todo riesgo de superdeportivo.",
+        "Previsión con 15.000 km al año, gasolina 1,60 €/l, consumo WLTP de 13 l/100 km más todo riesgo de superdeportivo.",
       estimado: true,
     },
     galeria: [
@@ -3050,18 +3050,18 @@ export const COCHES_LOTE17: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin datos EuroNCAP: sin prueba independiente.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (según sistema de vida útil del aceite), lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km (con sistema de vida útil del aceite), lo que antes suceda",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite + filtro + inspección multipunto + rotación de neumáticos + revisión del sistema híbrido",
+          queSeCambia: "Aceite y filtro + inspección multipunto + rotación de neumáticos + revisión del sistema híbrido",
           costeAproxEur: null,
         },
         {
-          nombre: "Cada 2 años",
+          nombre: "Cada dos años",
           queSeCambia: "Sustitución del líquido de frenos + filtro de aire del motor",
           costeAproxEur: null,
         },
@@ -3133,7 +3133,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 700,
       costeMensualTotal: 4442,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 17,5 l/100 km y todo riesgo.",
+        "Valoración con 15.000 kilómetros anuales, gasolina a 1,60 €/litro, consumo estimado de 17,5 l/100 km y todo riesgo cubierto.",
       estimado: true,
     },
     galeria: [
@@ -3149,19 +3149,19 @@ export const COCHES_LOTE17: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin datos EuroNCAP: aún sin probar.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (según testigo de vida útil del aceite), lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km (según el testigo de vida útil del aceite), lo que suceda primero",
       revisiones: [
         {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite + filtro + inspección multipunto + rotación de neumáticos",
+          nombre: "Revisión anual a los 15.000 km",
+          queSeCambia: "Aceite + filtro + revisión multipunto + rotación de neumáticos",
           costeAproxEur: null,
         },
         {
-          nombre: "Cada 2 años",
-          queSeCambia: "Sustitución del líquido de frenos + filtro de aire del motor",
+          nombre: "Bienal",
+          queSeCambia: "Cambio del líquido de frenos y filtro del aire del motor",
           costeAproxEur: null,
         },
       ],
@@ -3204,7 +3204,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     ],
     contras: [
       "Consumo de 15-17 l/100 km reales: el V8 bebe como un cosaco",
-      "5,34 m de largo: aparcar en ciudad es una misión imposible",
+      "5,34 m de largo: aparcar en ciudad se convierte en una misión imposible",
       "119.800 € a través de un importador: sin red oficial GMC en España",
       "Recambios y servicio solo vía importador: esperas y sobrecostes probables",
       "Etiqueta C: problemas futuros en las ZBE",
@@ -3232,7 +3232,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 650,
       costeMensualTotal: 4061,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 16 l/100 km y todo riesgo.",
+        "Cuenta con 15.000 km/año, gasolina de 1,60 €/l, gasto de 16 l/100 km y todo riesgo más asistencia.",
       estimado: true,
     },
     galeria: [
@@ -3248,19 +3248,19 @@ export const COCHES_LOTE17: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin datos EuroNCAP: no hay prueba.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 12.000 km (según sistema de vida útil del aceite), lo que ocurra antes",
+      intervalo: "12.000 km o 12 meses (según el medidor de vida útil del aceite), lo que primero ocurra",
       revisiones: [
         {
-          nombre: "Revisión anual / 12.000 km",
-          queSeCambia: "Aceite + filtro + inspección multipunto + rotación de neumáticos",
+          nombre: "Revisión anual a los 12.000 km",
+          queSeCambia: "Aceite + filtro, inspección multipunto y rotación de ruedas",
           costeAproxEur: null,
         },
         {
-          nombre: "Cada 2 años",
-          queSeCambia: "Sustitución del líquido de frenos + filtro de habitáculo",
+          nombre: "Cada 24 meses",
+          queSeCambia: "Cambio de líquido de frenos + filtro de habitáculo",
           costeAproxEur: null,
         },
       ],
@@ -3331,7 +3331,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 750,
       costeMensualTotal: 4343,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 17 l/100 km y todo riesgo.",
+        "Estimación anual con 15.000 kilómetros recorridos al año, gasolina a 1,60 euros/litro, consumo estimado de 17 l/100 km con seguro a todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -3347,19 +3347,19 @@ export const COCHES_LOTE17: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin datos EuroNCAP: modelo sin probar.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 12.000 km (según sistema de vida útil del aceite), lo que ocurra antes",
+      intervalo: "12 meses o 12.000 km (según el indicador de vida útil del aceite), lo que ocurra primero",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
-          queSeCambia: "Aceite + filtro + inspección multipunto + rotación de neumáticos",
+          queSeCambia: "Aceite y filtro, inspección multipunto y rotación de neumáticos",
           costeAproxEur: null,
         },
         {
-          nombre: "Cada 2 años",
-          queSeCambia: "Sustitución del líquido de frenos + filtro de habitáculo",
+          nombre: "Cada 24 meses",
+          queSeCambia: "Sustitución del líquido de frenos + filtro del habitáculo",
           costeAproxEur: null,
         },
       ],
@@ -3393,17 +3393,17 @@ export const COCHES_LOTE17: CocheComparador[] = [
     cargaRapidaKw: 451,
     etiquetaDgt: "Cero",
     pros: [
-      "487 CV y 660 Nm con tracción total: acelera de 0 a 100 km/h en 4,1 segundos",
-      "Carga a 451 kW con arquitectura de 800 V: del 10 al 80% en 12 minutos",
-      "Batería LFP de 80,8 kWh: más duradera y segura, admite cargas al 100% sin apenas degradar",
+      "487 CV y 660 Nm con tracción total: el 0 a 100 km/h cae en 4,1 segundos",
+      "Carga a 451 kW con plataforma de 800 V: del 10 al 80% en solo 12 minutos",
+      "Batería LFP de 80,8 kWh: más longeva y segura, admite cargas al 100% sin apenas degradar",
       "510 km de autonomía WLTP, la referencia entre los SUV eléctricos de su precio",
       "Asientos delanteros con masaje y retrovisor interior digital con cámara, de serie en el Performance",
-      "Garantía de 5 años o 120.000 km, y 8 años o 160.000 km para batería y motor",
+      "Cobertura de 5 años o 120.000 km, y 8 años o 160.000 km para batería y motor",
     ],
     contras: [
       "48.199 € con ayudas aplicadas: el G6 más caro, entra en territorio del Tesla Model Y Performance",
       "Maletero de 571 litros: correcto pero sin alardes para un SUV de 4,76 m",
-      "Pesa 2.220 kg: el peso se nota en el consumo (18,4 kWh/100 km)",
+      "Pesa 2.220 kg: el peso se deja sentir en el consumo (18,4 kWh/100 km)",
       "La red española rara vez supera los 150 kW: los 451 kW son difíciles de aprovechar hoy",
       "Casi todo pasa por la pantalla: faltan botones físicos para funciones básicas",
       "Llantas grandes de serie: más consumo y neumáticos más caros de reponer",
@@ -3430,7 +3430,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 175,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,20 €/kWh, consumo de 18,4 kWh/100 km y todo riesgo. Precio con ayudas del Plan Auto+ adelantadas por la marca.",
+        "Cálculo anual con 15.000 km por año, recarga doméstica a 0,20 €/kWh, consumo de 18,4 kWh/100 km y todo riesgo. Precio con ayudas del Plan Auto+ adelantadas por la marca.",
       estimado: true,
     },
     galeria: [
@@ -3449,10 +3449,10 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (2024) para el XPeng G6.",
     },
     planMantenimiento: {
-      intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial XPeng en Europa)",
+      intervalo: "Cada 24 meses o 30.000 km, lo que suceda antes (plan oficial XPeng en Europa)",
       revisiones: [
         {
-          nombre: "Revisión cada 30.000 km o 24 meses",
+          nombre: "Control cada 30.000 km o 24 meses",
           queSeCambia: "Mantenimiento según programa oficial XPeng Europa",
           costeAproxEur: null,
         },
@@ -3489,9 +3489,9 @@ export const COCHES_LOTE17: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "575 CV y 695 Nm con dos motores: el XPeng más potente a la venta en España",
-      "0 a 100 km/h en 4,2 segundos con tracción total y suspensión neumática de serie",
+      "El 0 a 100 km/h baja a 4,2 segundos gracias a la tracción total y suspensión neumática de serie",
       "525 kW de carga: recupera unos 300 km en 5 minutos en el cargador adecuado",
-      "540 km de autonomía WLTP pese a las prestaciones deportivas",
+      "540 km de autonomía WLTP a pesar de las prestaciones deportivas",
       "Tres pantallas de hasta 15 pulgadas, sonido Dynaudio y masaje Shiatsu de 10 puntos",
       "73.500 €: hasta 28.000 € menos que un premium alemán de potencia similar",
     ],
@@ -3525,7 +3525,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 200,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,20 €/kWh, consumo de 20,1 kWh/100 km y todo riesgo.",
+        "Previsión anual con 15.000 kilómetros anuales, carga en casa a 20 céntimos/kWh, consumo WLTP de 20,1 kWh/100 km con cobertura total incluida.",
       estimado: true,
     },
     galeria: [
@@ -3544,16 +3544,16 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (2023) para el XPeng G9.",
     },
     planMantenimiento: {
-      intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial XPeng en Europa)",
+      intervalo: "Cada 30.000 km o 24 meses, lo que ocurra antes (plan oficial XPeng en Europa)",
       revisiones: [
         {
-          nombre: "Revisión cada 30.000 km o 24 meses",
-          queSeCambia: "Mantenimiento según programa oficial XPeng Europa",
+          nombre: "Revisión cada 24 meses o 30.000 km",
+          queSeCambia: "Mantenimiento conforme al programa oficial XPeng Europa",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan oficial XPeng Europa (costes de taller no publicados)",
+      fuente: "Plan oficial XPeng en Europa (costes de taller no publicados)",
     },
     confianza: "alta",
     fuenteNombre: "El Periódico de la Energía",

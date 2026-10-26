@@ -32,14 +32,14 @@ export const COCHES_BYD: CocheComparador[] = [
     cargaRapidaKw: 88,
     etiquetaDgt: "Cero",
     pros: [
-      "Autonomía real de 427 km con solo 60,4 kWh de batería",
+      "Autonomía real de 427 km con una batería de solo 60,4 kWh",
       "0-100 km/h en 7,0 segundos, más que suficiente para el segmento",
       "Consumo contenido: 15,9 kWh/100 km",
       "Precio desde 36.690 € con buen equipamiento de serie",
       "Maniobrabilidad excelente: gira en poco espacio (10,1 m)",
     ],
     contras: [
-      "Carga rápida limitada a 88 kW frente a rivales más rápidos",
+      "Carga rápida limitada a 88 kW frente a rivales más veloces",
       "Maletero de solo 345 litros",
       "Plazas traseras algo justas en habitabilidad",
       "Diseño exterior que no pasa desapercibido (polariza)",
@@ -67,7 +67,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 124,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "Cálculo anual con 15.000 km, carga en casa a 0,18 €/kWh y seguro a todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -150,7 +150,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 139,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "Base de 15.000 km al año con recarga doméstica a 0,18 €/kWh, incluyendo todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -227,7 +227,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 340,
       costeMensualTotal: 151,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "Supuesto de 15.000 km anuales, recarga en casa a 0,18 €/kWh y todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -273,7 +273,7 @@ export const COCHES_BYD: CocheComparador[] = [
       "Bomba de calor y función V2L de serie",
       "Carga rápida de 140 kW (30-80 % en 28 min)",
       "Interior muy equipado con pantalla de 15,6 pulgadas",
-      "Garantía de batería de 8 años o 200.000 km",
+      "Garantía de batería de ocho años o 200.000 km",
     ],
     contras: [
       "Prestaciones discretas: 0-100 en 9,3 segundos",
@@ -304,7 +304,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 147,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "Estimación anual: 15.000 km con carga doméstica a 0,18 €/kWh con seguro a todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -347,7 +347,7 @@ export const COCHES_BYD: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "1.505 km de autonomía total con depósito de 65 litros",
-      "55 km de autonomía eléctrica para el día a día",
+      "55 km de autonomía eléctrica para el uso diario",
       "Maletero de 491 litros, líder entre las berlinas PHEV",
       "Precio desde 37.000 € con equipamiento muy completo",
       "Etiqueta Cero con acceso a ZBE y aparcamiento bonificado",
@@ -381,7 +381,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 157,
       notas:
-        "Estimación mixta con 15.000 km/año cargando a diario: coste por 100 km entre electricidad (0,18 €/kWh) y gasolina (1,60 €/l).",
+        "Estimación mixta con 15.000 km al año cargando cada día: coste por 100 km entre electricidad (0,18 €/kWh) y gasolina (1,60 €/l).",
       estimado: true,
     },
     galeria: [
@@ -435,7 +435,7 @@ export const COCHES_BYD: CocheComparador[] = [
       "Etiqueta Cero de la DGT",
     ],
     contras: [
-      "Sin carga rápida en CC en el acabado Boost",
+      "Sin carga rápida en continua en el acabado Boost",
       "Prestaciones modestas para 1.700 kg de coche",
       "Batería pequeña: obliga a cargar cada noche",
       "Ajustes de algunos plásticos mejorables",
@@ -463,7 +463,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 161,
       notas:
-        "Estimación mixta con 15.000 km/año cargando a diario: coste por 100 km entre electricidad (0,18 €/kWh) y gasolina (1,60 €/l).",
+        "Cálculo mixto con 15.000 km anuales y carga diaria: gasto por 100 km repartido entre electricidad (0,18 €/kWh) y gasolina a 1,60 euros el litro.",
       estimado: true,
     },
     galeria: [
@@ -541,7 +541,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 340,
       costeMensualTotal: 152,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "Recorrido de 15.000 km al año, carga doméstica a 0,18 €/kWh, todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -582,7 +582,7 @@ export const COCHES_BYD: CocheComparador[] = [
     bateriaKwh: 91.3,
     cargaRapidaKw: 232,
     etiquetaDgt: "Cero",
-    pros: ["Dos motores, tracción a las cuatro ruedas y 530 CV con 690 Nm: firma el 0 a 100 km/h en 4,5 segundos, territorio de SUV deportivos de marcas premium", "La batería Blade de 91,3 kWh homologa 502 km WLTP, una cifra sólida para un tracción total de 2.435 kg que no renuncia a las prestaciones", "Acepta carga en corriente continua de hasta 232 kW, así que las paradas en viajes largos se acortan frente a buena parte de sus rivales eléctricos", "BYD cubre la batería durante ocho años o 200.000 km, y el conjunto llega con etiqueta Cero de la DGT para circular sin restricciones urbanas", "Pensado para familia viajera: batalla de 2,93 metros, 520 litros de maletero trasero y otros 58 litros bajo el capó delantero para guardar los cables"],
+    pros: ["Dos motores, tracción a las cuatro ruedas y 530 CV con 690 Nm: logra el 0-100 km/h en 4,5 segundos, territorio de SUV deportivos de marcas premium", "La batería Blade de 91,3 kWh homologa 502 km WLTP, una cifra sólida para un tracción total de 2.435 kg que no renuncia a las prestaciones", "Acepta carga en corriente continua de hasta 232 kW, así que las paradas en viajes largos se acortan frente a buena parte de sus rivales eléctricos", "BYD cubre la batería durante ocho años o 200.000 km, y el conjunto llega con etiqueta Cero de la DGT para circular sin restricciones urbanas", "Pensado para familia viajera: batalla de 2,93 metros, 520 litros de maletero trasero y otros 58 litros bajo el capó delantero para guardar los cables"],
     contras: ["Sus 2.435 kg en orden de marcha penalizan todo: frenadas largas, neumáticos caros y una agilidad lejos de lo que sugieren sus 530 CV", "El consumo homologado de 21,9 kWh/100 km es elevado y en autopista a 120 km/h la autonomía real queda muy por debajo de los 502 km WLTP", "Con 54.390 euros, este Excellence ya juega contra Tesla Model Y o Polestar 4 y queda lejos de la imagen de BYD asequible de otros modelos", "Las ayudas electrónicas resultan intrusivas en conducción real: el asistente de mantenimiento de carril interviene con brusquedad y los avisos sonoros cansan hasta desconectarlos", "El chasis prioriza el confort y balancea al enlazar curvas con ritmo, con una dirección ligera que no acompaña al empuje de sus dos motores"],
     largoMm: 4830,
     anchoMm: 1925,
@@ -606,7 +606,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 360,
       costeMensualTotal: 164,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "Hipótesis anual de 15.000 km con recarga en casa a 0,18 €/kWh, más seguro a todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -629,7 +629,7 @@ export const COCHES_BYD: CocheComparador[] = [
         alto: 1280,
       },
     ],
-    planMantenimiento: {"intervalo": "BYD fija para sus eléctricos puros, y por tanto para este Sealion 7 Excellence, una revisión cada dos años o 30.000 km, lo que ocurra primero, en sustitución del anterior paso anual por taller. La visita se limita a inspección general, filtro del habitáculo y controles de frenos, neumáticos y software, sin aceites ni distribución que sustituir. El coste orientativo por revisión ronda los 160-240 euros en la red oficial española.", "revisiones": [], "costeAnualAproxEur": null, "fuente": "https://www.autocasion.com/actualidad/reportajes/coches-electricos-mantenimiento-mas-bajo-comparativa-revisiones-periodicas/"},
+    planMantenimiento: {"intervalo": "BYD fija para sus eléctricos puros, y por tanto para este Sealion 7 Excellence, una revisión cada dos años o 30.000 km, lo que antes ocurra, en sustitución del anterior paso anual por taller. La visita se limita a inspección general, filtro del habitáculo y controles de frenos, neumáticos y software, sin aceites ni distribución que sustituir. El coste orientativo por revisión ronda los 160-240 euros en la red oficial española.", "revisiones": [], "costeAnualAproxEur": null, "fuente": "https://www.autocasion.com/actualidad/reportajes/coches-electricos-mantenimiento-mas-bajo-comparativa-revisiones-periodicas/"},
   },
   {
     id: "byd-han-2024-precio-ficha-tecnica",
@@ -653,7 +653,7 @@ export const COCHES_BYD: CocheComparador[] = [
     bateriaKwh: 85.4,
     cargaRapidaKw: 120,
     etiquetaDgt: "Cero",
-    pros: ["El empuje combinado alcanza 517 CV con 700 Nm instantáneos: el sprint hasta cien se cierra en 3,9 segundos, registro propio de un deportivo disfrazado de berlina.", "Entre recargas declara 521 km gracias a una Blade Battery de 85,4 kWh, margen cómodo para afrontar un viaje largo de autopista sin planificar cada parada.", "En el segmento E eléctrico, donde mandan BMW i5 y Mercedes-Benz EQE, entrar desde 69.990 euros con tracción total juega claramente a su favor.", "La batería queda respaldada durante ocho años o 160.000 km, una cobertura que protege el componente más caro cuando el coche cambie de manos.", "Mide 4.995 mm y ofrece cinco plazas con etiqueta Cero de la DGT, combinación útil para moverse sin restricciones urbanas sin renunciar a viajar en familia."],
+    pros: ["El empuje combinado alcanza 517 CV con 700 Nm instantáneos: el sprint hasta cien se cierra en 3,9 segundos, registro propio de un deportivo disfrazado de berlina.", "Entre recargas declara 521 km gracias a una Blade Battery de 85,4 kWh, margen cómodo para afrontar un viaje largo de autopista sin planificar cada parada.", "En el segmento E eléctrico, donde mandan BMW i5 y Mercedes-Benz EQE, entrar desde 69.990 euros con tracción total juega claramente a su favor.", "La batería queda cubierta durante ocho años o 160.000 km, una cobertura que protege el componente más caro cuando el coche cambie de manos.", "Mide 4.995 mm y ofrece cinco plazas con etiqueta Cero de la DGT, combinación útil para moverse sin restricciones urbanas sin renunciar a viajar en familia."],
     contras: ["Su pico de recarga rápida se detiene en 120 kW pese a cargar una batería de 85,4 kWh, así que las paradas largas en ruta se alargan más de lo deseable.", "Una carrocería que roza los cinco metros debería ofrecer más que 410 litros de maletero: el equipaje de cinco ocupantes obliga a negociar cada hueco.", "Arrastrar 2.250 kg pasa factura al consumo recogido en ficha, 18,5 kWh/100 km, y también al desgaste de neumáticos y frenos en conducción urbana diaria.", "Los 1.910 mm de anchura complican los aparcamientos subterráneos antiguos y las calles estrechas, justo donde una berlina de este tamaño ya parte con desventaja.", "Su etapa comercial europea toca a su fin y la disponibilidad es limitada: antes de comprar conviene confirmar stock, recambios y continuidad del servicio oficial."],
     largoMm: 4995,
     anchoMm: 1910,
@@ -677,7 +677,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 169,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km anuales con recarga doméstica a 0,18 €/kWh con todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -695,7 +695,7 @@ export const COCHES_BYD: CocheComparador[] = [
       },
       
     ],
-    planMantenimiento: {"intervalo": "BYD reestructuró en octubre de 2024 el plan de sus eléctricos puros en España: la revisión del Han pasa cada dos años o 30.000 km, lo primero que ocurra, con carácter retroactivo para clientes anteriores. Al no haber motor térmico, la visita se centra en la inspección general del vehículo en Servicio Oficial. Como coste orientativo, la comparativa de Autocasión sitúa las revisiones BYD entre 160 y 240 euros por visita.", "revisiones": [], "costeAnualAproxEur": null, "fuente": "https://www.autocasion.com/actualidad/reportajes/coches-electricos-mantenimiento-mas-bajo-comparativa-revisiones-periodicas/"},
+    planMantenimiento: {"intervalo": "BYD reestructuró en octubre de 2024 el plan de sus eléctricos puros en España: la revisión del Han toca cada 2 años o a los 30.000 km, lo que antes suceda, con carácter retroactivo para clientes anteriores. Al no haber motor térmico, la visita se centra en la inspección general del vehículo en Servicio Oficial. Como coste orientativo, la comparativa de Autocasión sitúa las revisiones BYD entre 160 y 240 euros por visita.", "revisiones": [], "costeAnualAproxEur": null, "fuente": "https://www.autocasion.com/actualidad/reportajes/coches-electricos-mantenimiento-mas-bajo-comparativa-revisiones-periodicas/"},
     euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: no se ha localizado resultado publicado en euroncap.com para el BYD Han; las cinco estrellas que circulan para este modelo corresponden a C-NCAP chino, no al programa europeo", "url": null},
   },
   {
@@ -731,7 +731,7 @@ export const COCHES_BYD: CocheComparador[] = [
       "Precio desde 72.000 €, el más caro de la gama clásica",
       "Peso de 2.630 kg",
       "Consumo elevado: unos 23,8 kWh/100 km",
-      "Con 7 plazas el maletero se queda en 235 litros",
+      "Con 7 plazas el maletero queda en 235 litros",
       "Tamaño (4,87 m) complicado para ciudad y parkings",
     ],
     largoMm: 4870,
@@ -756,7 +756,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 187,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "Anualidad de 15.000 km con carga en casa a 0,18 €/kWh, más todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -800,12 +800,12 @@ export const COCHES_BYD: CocheComparador[] = [
     pros: [
       "Arquitectura de 800 V: carga de 220 kW (10-80 % en ~25 min)",
       "510 km de autonomía (710 en ciclo urbano)",
-      "313 CV con tracción trasera: 0-100 en 5,5 s",
+      "313 CV y tracción trasera: 0-100 en 5,5 s",
       "Frunk de 101 litros además del maletero de 490",
       "Capacidad de remolque de 1.500 kg y V2L",
     ],
     contras: [
-      "Precio desde 28.888 € solo financiando con la campaña oficial hasta el 31/10/2026 (36.313 € al contado): salto notable frente al Atto 3 original",
+      "Precio desde 28.888 € solo financiando con la campaña oficial vigente hasta el 31/10/2026 (36.313 € al contado): salto notable frente al Atto 3 original",
       "Diseño exterior continuista: cuesta distinguirlo del anterior",
       "Dirección con tacto mejorable según las primeras pruebas",
       "Pantalla de 15,6 pulgadas que distrae al conducir",
@@ -833,7 +833,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 139,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "Para 15.000 km anuales: recarga doméstica a 0,18 €/kWh y a todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -878,7 +878,7 @@ export const COCHES_BYD: CocheComparador[] = [
       "500 km WLTP: el Seal U eléctrico de mayor autonomía",
       "Acabado Design: el tope de gama, muy equipado",
       "Batería Blade LFP de 87 kWh: segura y duradera",
-      "Bomba de calor y función V2L de serie",
+      "Bomba de calor y función V2L incluidas de serie",
       "Carga rápida de 140 kW (10-80 % en ~43 min)",
     ],
     contras: [
@@ -909,7 +909,7 @@ export const COCHES_BYD: CocheComparador[] = [
       "costeMensualTotal": 160,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 20,5 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro a todo riesgo",
+      "notas": "estimación con 15.000 km al año, consumo WLTP de 20,5 kWh cada 100 km y carga doméstica a 0,18 €/kWh; con cobertura a todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -957,7 +957,7 @@ export const COCHES_BYD: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "Desde 29.990 €: el BYD eléctrico más barato",
-      "340 km WLTP: suficiente para el día a día",
+      "340 km WLTP: bastan para el día a día",
       "Maletero de 345 litros, bueno para su tamaño",
       "5 estrellas Euro NCAP",
       "Batería Blade LFP: segura y duradera",
@@ -967,7 +967,7 @@ export const COCHES_BYD: CocheComparador[] = [
       "12,3 s de 0-100 km/h",
       "Carga en continua limitada a 65 kW",
       "El acabado Active es el más básico de la gama",
-      "Red de concesionarios aún en expansión",
+      "Red de concesionarios todavía en expansión",
     ],
     largoMm: 4290,
     anchoMm: 1770,
@@ -990,7 +990,7 @@ export const COCHES_BYD: CocheComparador[] = [
       "costeMensualTotal": 122,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 12.000 km/año, consumo WLTP 15,9 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro a todo riesgo",
+      "notas": "estimación con 12.000 km anuales, consumo WLTP de 15,9 kWh cada 100 km y carga en casa a 0,18 €/kWh; seguro a todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1002,7 +1002,7 @@ export const COCHES_BYD: CocheComparador[] = [
       },
       {
         "src": "/media/byd-dolphin-active-95-2026-precio-ficha-tecnica-interior.webp",
-        "alt": "Interior del BYD Dolphin Active",
+        "alt": "Habitáculo del BYD Dolphin Active",
         "ancho": 1920,
         "alto": 1280
       },
@@ -1036,7 +1036,7 @@ export const COCHES_BYD: CocheComparador[] = [
     bateriaKwh: 7.42,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: ["Es el escalón de acceso al que, en el lanzamiento, BYD presentó como el primer y único híbrido enchufable del segmento B: ningún Polo, Clio o Ibiza se enchufa, y este sí, con 40 km eléctricos WLTP para el trayecto corto diario.", "Su Blade Battery de 7,42 kWh rinde poco en el papel, pero sumada al depósito homologa 1.020 km de autonomía total: sales de casa en eléctrico y el viaje largo no depende de encontrar un cargador libre.", "Cargar es un trámite menor: con su cargador de corriente alterna de 3,3 kW pasa del 15 % al 100 % en poco menos de tres horas, así que no exige un wallbox potente para estar listo cada mañana.", "En la web oficial de BYD España, el Active en color Orange Sunset figura con precio recomendado al contado de 21.725 € en Península y Baleares (oferta vigente hasta el 31/10/2026, sin gestoría, matriculación ni transporte): es la vía más barata de la gama Dolphin G DM-i.", "De serie ya trae llantas de 16 pulgadas, sensores de aparcamiento delanteros y traseros, cámara trasera, pantalla central de 10,1 pulgadas con cuadro digital de 8,8, climatizador automático y el paquete de asistentes con control de crucero adaptativo, detector de ángulo muerto y alerta de tráfico cruzado con frenada."],
+    pros: ["Es el escalón de acceso al que, en el lanzamiento, BYD presentó como el primer y único híbrido enchufable del segmento B: ningún Polo, Clio o Ibiza se enchufa, y este sí, con 40 km eléctricos WLTP para el trayecto corto diario.", "Su Blade Battery de 7,42 kWh rinde poco en el papel, pero sumada al depósito homologa 1.020 km de autonomía total: sales de casa en eléctrico y el viaje largo no depende de encontrar un cargador libre.", "Cargar es un trámite menor: con su cargador de corriente alterna de 3,3 kW pasa del 15 % al 100 % en poco menos de tres horas, así que no exige un wallbox potente para estar listo cada mañana.", "En la web oficial de BYD España, el Active en color Orange Sunset figura con precio recomendado al contado de 21.725 € en Península y Baleares (oferta vigente hasta el 31/10/2026, sin gestoría, matriculación ni transporte): es la vía más barata de la gama Dolphin G DM-i.", "De serie ya trae llantas de 16 pulgadas, sensores de aparcamiento delanteros y traseros, cámara trasera, pantalla central de 10,1 pulgadas con cuadro digital de 8,8, climatizador automático y el paquete de asistentes con crucero adaptativo, detector de ángulo muerto y alerta de tráfico cruzado con frenada."],
     contras: ["Los 40 km eléctricos del Active se agotan enseguida si tu jornada suma ida, vuelta y un desvío: frente a los 105 km WLTP del Boost, aquí el motor 1.5 de gasolina entrará a trabajar casi a diario si no cargas en destino.", "No hay carga rápida en continua y la alterna se queda en 3,3 kW, la mitad que en el Boost: en un viaje largo no compensa parar a cargar, porque la batería pequeña apenas suma kilómetros en una parada razonable.", "El salto al Boost no es solo de batería: el Active se queda sin V2L, sin asientos ni volante calefactables, sin pantalla de 12,8 pulgadas ni carga inalámbrica, y la cámara de 360 grados y el ecosistema de Google quedan aún más arriba, en el Comfort.", "A octubre de 2026 el Dolphin G DM-i no ha sido probado por Euro NCAP, según coinciden varias publicaciones especializadas: lleva muchos asistentes de serie, pero no existe una nota independiente de choque que lo respalde."],
     largoMm: 4290,
     anchoMm: 1770,
@@ -1059,7 +1059,7 @@ export const COCHES_BYD: CocheComparador[] = [
       "costeMensualTotal": 123,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 12.000 km/año combinando uso eléctrico diario y gasolina en viajes; seguro a todo riesgo",
+      "notas": "estimación con 12.000 km anuales combinando uso eléctrico diario y gasolina en viajes; seguro a todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1128,19 +1128,19 @@ export const COCHES_BYD: CocheComparador[] = [
       "costeMensualTotal": 126,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 12.000 km/año combinando uso eléctrico diario (105 km EV) y gasolina en viajes; seguro a todo riesgo",
+      "notas": "estimación con 12.000 km/año combinando uso eléctrico diario (105 km EV) y gasolina en viajes; con seguro a todo riesgo",
       "estimado": true
     },
     galeria: [
       {
         "src": "/media/byd-dolphin-g-dmi-boost-2026-precio-ficha-tecnica-oficial.webp",
-        "alt": "BYD Dolphin G DM-i Boost, tres cuartos delantero",
+        "alt": "El BYD Dolphin G DM-i Boost, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
       },
       {
         "src": "/media/byd-dolphin-g-dmi-boost-2026-precio-ficha-tecnica-interior.webp",
-        "alt": "Interior del BYD Dolphin G DM-i Boost",
+        "alt": "Habitáculo del BYD Dolphin G DM-i Boost",
         "ancho": 1920,
         "alto": 1280
       },
@@ -1157,10 +1157,10 @@ export const COCHES_BYD: CocheComparador[] = [
     id: "byd-great-tang-2026-precio-ficha-tecnica",
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de revisión/servicio",
-        resetAceitePasos: ["Enciende el coche y espera a que cargue por completo la pantalla central (sistema DiLink).", "Entra en Ajustes (icono de engranaje) de la pantalla táctil.", "Ve a Servicio → Mantenimiento inteligente (Intelligent Maintenance).", "Verás los kilómetros restantes hasta la próxima revisión; pulsa sobre el intervalo para modificarlo.", "Fija el intervalo oficial del plan de mantenimiento (eléctricos: 30.000 km / 24 meses) y confirma. El aviso de revisión queda reiniciado."],
-        intervaloMantenimiento: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos, con efecto retroactivo desde 2024)",
+        resetAceitePasos: ["Enciende el coche y espera a que cargue por completo la pantalla central (sistema DiLink).", "Entra en Ajustes (icono de engranaje) de la pantalla táctil.", "Ve a Servicio → Mantenimiento inteligente (Intelligent Maintenance).", "Verás los kilómetros restantes hasta la próxima revisión; pulsa sobre el intervalo para modificarlo.", "Fija el intervalo oficial del plan de mantenimiento (eléctricos: 30.000 km / 24 meses) y confírmalo. El aviso de revisión se reinicia."],
+        intervaloMantenimiento: "Intervalo de 24 meses o 30.000 km, lo que suceda antes (plan oficial BYD en Europa para eléctricos, con retroactividad desde 2024)",
         filtroPolenUbicacion: "Detrás de la guantera (ubicación estándar en la gama BYD)",
-        filtroPolenPasos: ["Apaga el coche por completo.", "Abre la guantera del lado del copiloto.", "Si es necesario, desengancha o desmonta la guantera para acceder a la tapa del alojamiento del filtro.", "Retira la tapa del alojamiento (pestañas o tornillos según versión).", "Antes de sacarlo, fíjate en la dirección de la flecha de flujo de aire impresa en el filtro viejo.", "Extrae el filtro usado y mételo en su embalaje para desecharlo.", "Inserta el filtro nuevo con la flecha de flujo de aire en la misma dirección que el anterior.", "Vuelve a colocar la tapa del alojamiento y monta de nuevo la guantera.", "Enciende el coche y prueba la climatización para comprobar el caudal de aire."],
+        filtroPolenPasos: ["Apaga el coche por completo.", "Abre la guantera del lado del copiloto.", "Si es necesario, desengancha o retira la guantera para acceder a la tapa del alojamiento del filtro.", "Retira la tapa del alojamiento (pestañas o tornillos según versión).", "Antes de sacarlo, fíjate en el sentido de la flecha de flujo de aire marcada en el filtro viejo.", "Extrae el filtro usado y mételo en su embalaje para desecharlo.", "Inserta el filtro nuevo orientando la flecha de flujo de aire en el mismo sentido que el anterior.", "Vuelve a colocar la tapa del alojamiento y monta de nuevo la guantera.", "Enciende el coche y prueba la climatización para comprobar el caudal de aire."],
     },
     marca: "BYD",
     modelo: "Great Tang",
@@ -1216,7 +1216,7 @@ export const COCHES_BYD: CocheComparador[] = [
       nota: "EuroNCAP no lo ha probado todavía: debutó en China en junio de 2026 y sigue sin evaluación europea.",
     },
     planMantenimiento: {
-      intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
+      intervalo: "Revisión cada 2 años o 30.000 km, lo que suceda antes (plan oficial BYD en Europa para eléctricos)",
       revisiones: [
         {
           nombre: "Revisión cada 24 meses / 30.000 km",
@@ -1237,7 +1237,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 168,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado ~22 kWh/100 km.",
+        "Cálculo con 15.000 km anuales, carga doméstica a 0,18 €/kWh, más todo riesgo; consumo estimado ~22 kWh/100 km.",
       estimado: true,
     },
     galeria: [

@@ -151,10 +151,10 @@ export const COCHES_LOTE11: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "367 CV traseros (595 CV el AWD): la berlina china que mira al Tesla Model 3",
-      "Hasta 820 km CLTC con la batería de 92,2 kWh y arquitectura de 800 V",
-      "Carga ultrarrápida 5C: del 10 al 80 % en menos de 20 minutos",
+      "Hasta 820 km CLTC con batería de 92,2 kWh y plataforma de 800 V",
+      "Carga ultrarrápida 5C: del 10 al 80 % en apenas 20 minutos",
       "10.000 pedidos en 7 minutos en China: el lanzamiento eléctrico del año",
-      "5,02 metros con batalla de 3,01 m: habitabilidad de berlina grande",
+      "5,02 metros con batalla de 3,01 m: espacio de berlina grande",
     ],
     contras: [
       "Precio orientativo (~30.000 €): es la conversión del precio chino, sin impuestos europeos",
@@ -185,7 +185,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 198,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado en 19 kWh/100 km.",
+        "Cálculo con 15.000 km cada año, carga en casa a 0,18 €/kWh, todo riesgo incluido. Consumo estimado en 19 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -213,13 +213,13 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: la nueva generación aún no ha sido probada (la anterior obtuvo 5 estrellas en 2023).",
+      nota: "Sin datos EuroNCAP: la nueva generación está aún sin probar (la anterior obtuvo 5 estrellas en 2023).",
     },
     planMantenimiento: {
-      intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial XPeng en Europa)",
+      intervalo: "Bien cada 24 meses, bien 30.000 km, lo que suceda primero (plan XPeng oficial en Europa)",
       revisiones: [
         {
-          nombre: "Revisión cada 24 meses / 30.000 km",
+          nombre: "Revisión bienal / 30.000 km",
           queSeCambia: "Inspección general + filtro de habitáculo + actualización de software",
           costeAproxEur: null,
         },
@@ -255,7 +255,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       "Versión de 53,9 kWh con 418 km WLTP desde 27.900 €",
       "Tracción delantera: más eficiente y más maletero que el MG4 anterior",
       "En China existe versión con batería semisólida de 530 km CLTC",
-      "Garantía MG de 7 años o 150.000 km, batería incluida",
+      "Garantía MG: 7 años o 150.000 km, con batería incluida",
     ],
     contras: [
       "La versión base de 325 km se queda corta para viajes largos",
@@ -286,7 +286,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 138,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado en 15 kWh/100 km.",
+        "Estimación de un año con 15.000 kilómetros, carga casera a 0,18 euros por kWh, con todo riesgo cubierto. Coste estimado en 15 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -314,19 +314,19 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: la nueva generación aún no ha sido probada (el MG4 anterior obtuvo 5 estrellas en 2022).",
+      nota: "Sin datos EuroNCAP: la nueva generación sigue sin probar (el MG4 anterior obtuvo 5 estrellas en 2022).",
     },
     planMantenimiento: {
-      intervalo: "Cada 24 meses o 25.000 km, lo que antes ocurra (plan oficial MG España para eléctricos)",
+      intervalo: "Cada 24 meses o 25.000 km, lo que antes suceda, conforme al plan oficial MG España para eléctricos",
       revisiones: [
         {
           nombre: "Revisión cada 24 meses / 25.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + actualización de software",
+          queSeCambia: "Revisión completa, filtro de habitáculo y actualización de software",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan oficial MG España para vehículos eléctricos (costes de taller no publicados)",
+      fuente: "Plan oficial MG España para eléctricos (sin costes de taller publicados)",
     },
   },
   {
@@ -353,17 +353,17 @@ export const COCHES_LOTE11: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "Hasta 322 CV y 630 km CLTC: la berlina eléctrica que rompe el mercado",
-      "Arquitectura de 800 V con Flash Charging: del 10 al 70 % en 5 minutos",
+      "Arquitectura de 800 V con Flash Charging: del 10 al 70 % en solo 5 minutos",
       "LiDAR y conducción inteligente God's Eye 5.0 de serie",
       "Precio en China desde ~14.000 €: imbatible en relación precio/tecnología",
       "0-100 km/h en 5,9 s: prestaciones de berlina deportiva",
     ],
     contras: [
-      "Precio orientativo (~14.000 €): es la conversión del precio chino, no se vende en Europa",
+      "Precio orientativo (~14.000 €): conversión del precio chino, sin venta europea",
       "La autonomía WLTP real será sensiblemente inferior a los 630 km CLTC",
-      "Sin fecha de llegada a Europa ni red de distribución confirmada",
+      "Llegada a Europa sin fecha y sin red de distribución confirmada",
       "Dimensiones y peso aún no publicados por la marca",
-      "El servicio posventa fuera de China es una incógnita",
+      "El servicio posventa fuera de China es incierto",
     ],
     largoMm: 4870,
     anchoMm: 1890,
@@ -387,7 +387,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 150,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado en 16 kWh/100 km.",
+        "Cuenta con 15.000 km anuales, carga doméstica a 0,18 euros el kWh y todo riesgo. Consumo previsto en 16 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -418,11 +418,11 @@ export const COCHES_LOTE11: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo presentado en 2026, aún no probado.",
     },
     planMantenimiento: {
-      intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
+      intervalo: "Cada dos años o 30.000 km, lo que suceda antes, según el programa oficial BYD en Europa para eléctricos",
       revisiones: [
         {
-          nombre: "Revisión cada 24 meses / 30.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + actualización de software",
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Chequeo general, cambio del filtro de habitáculo y puesta al día del software",
           costeAproxEur: null,
         },
       ],
@@ -457,14 +457,14 @@ export const COCHES_LOTE11: CocheComparador[] = [
     pros: [
       "693 CV con tracción total y 0-100 km/h en 3,3 s: el buque insignia de BYD",
       "Hasta 900 km CLTC de autonomía: el objetivo es llegar a los 1.000 km",
-      "Carga de nivel megavatio: 400 km recuperados en 5 minutos",
+      "Carga de nivel megavatio: 400 km recuperados en solo 5 minutos",
       "5,15 metros con batalla de 3,03 m: una berlina de representación",
-      "También habrá versión híbrida enchufable con más de 400 km eléctricos",
+      "También habrá versión híbrida enchufable con más de 400 km en eléctrico",
     ],
     contras: [
       "Precio orientativo (~54.000 €): estimación para Europa, sin tarifa oficial",
       "Presentado en el Salón de Pekín 2026: aún lejos de los concesionarios",
-      "La autonomía WLTP real será inferior a los 900 km CLTC",
+      "La autonomía WLTP real quedará por debajo de los 900 km CLTC",
       "Capacidad de batería y potencia de carga aún sin confirmar",
       "El segmento de berlinas grandes eléctricas en Europa es muy competido",
     ],
@@ -490,7 +490,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 232,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado en 20 kWh/100 km.",
+        "Estimación para 15.000 km al año, recarga doméstica a 0,18 euros el kWh, todo riesgo incluido. Gasto estimado en 20 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -518,19 +518,19 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo presentado en 2026, aún no probado.",
+      nota: "Sin datos EuroNCAP: presentado en 2026, aún sin probar.",
     },
     planMantenimiento: {
-      intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
+      intervalo: "30.000 km o cada dos años, lo que antes ocurra, según el plan BYD oficial en Europa para eléctricos",
       revisiones: [
         {
           nombre: "Revisión cada 24 meses / 30.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + actualización de software",
+          queSeCambia: "Chequeo general, sustitución del filtro de habitáculo y actualización del sistema",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan oficial BYD Europa para vehículos eléctricos (costes de taller no publicados)",
+      fuente: "Programa BYD oficial en Europa para eléctricos, sin costes de taller publicados",
     },
     fuenteNombre: "CarNewsChina / Wikipedia (lanzamiento del Seal 08)",
     fuenteUrl: "https://carnewschina.com/2026/07/04/byd-seal-08-flagship-sedan-sales-production/",
@@ -565,9 +565,9 @@ export const COCHES_LOTE11: CocheComparador[] = [
       "Precio en China desde ~16.000 €: tecnología DM-i al alcance de todos",
     ],
     contras: [
-      "Precio orientativo (~16.000 €): conversión del precio chino, no se vende en Europa",
+      "Precio orientativo (~16.000 €): conversión del precio chino, sin venta en Europa",
       "No hay planes confirmados de llegada a España",
-      "La autonomía eléctrica real WLTP será inferior a los 160 km CLTC",
+      "La autonomía eléctrica real WLTP quedará por debajo de los 160 km CLTC",
       "Capacidad de batería sin confirmar por la marca",
       "El diseño, aunque atractivo, es continuista dentro de la gama BYD",
     ],
@@ -593,7 +593,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 192,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
+        "Cálculo anual con 15.000 km, carga casera a 0,18 €/kWh con todo riesgo. Híbrido enchufable: el gasto real varía según el uso eléctrico.",
       estimado: true,
     },
     galeria: [
@@ -624,16 +624,16 @@ export const COCHES_LOTE11: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
     },
     planMantenimiento: {
-      intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa)",
+      intervalo: "Revisión cada dos años o bien 30.000 km, lo que ocurra antes (plan oficial BYD en Europa)",
       revisiones: [
         {
-          nombre: "Revisión cada 24 meses / 30.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + revisión del sistema híbrido + actualización de software",
+          nombre: "Revisión cada dos años / 30.000 kilómetros",
+          queSeCambia: "Inspección general, filtro de habitáculo, revisión híbrida y puesta al día del software",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan oficial BYD Europa (costes de taller no publicados)",
+      fuente: "Programa oficial BYD Europa, sin costes de taller publicados",
     },
     fuenteNombre: "CarNewsChina (ficha del Song L DM-i)",
     fuenteUrl: "https://carnewschina.com/2024/06/13/byd-song-l-dm-i-revealed-specs-in-china-as-its-ready-for-launch/",
@@ -670,8 +670,8 @@ export const COCHES_LOTE11: CocheComparador[] = [
     contras: [
       "Precio orientativo (~26.400 €): conversión del precio chino, sin presencia en Europa",
       "IM Motors no tiene red comercial ni servicio en España",
-      "La autonomía WLTP real será inferior a los 650-782 km CLTC",
-      "Garantía de batería no publicada por la marca",
+      "La autonomía WLTP real será menor que los 650-782 km CLTC",
+      "Garantía de batería sin publicar por la marca",
       "La versión Ultra de 680 CV dispara el precio hasta ~33.200 €",
     ],
     largoMm: 4937,
@@ -696,7 +696,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 182,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado en 18 kWh/100 km.",
+        "Estimación con 15.000 kilómetros al año, carga doméstica a 0,18 euros por kWh y todo riesgo. Consumo calculado en 18 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -724,14 +724,14 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin datos EuroNCAP: este modelo no ha sido probado por Euro NCAP.",
     },
     planMantenimiento: {
-      intervalo: "Anual o cada 20.000 km (programa IM Motors en China; sin plan europeo publicado)",
+      intervalo: "Cada año o 20.000 km (programa IM Motors en China; sin programa europeo publicado)",
       revisiones: [
         {
-          nombre: "Revisión anual / 20.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + actualización de software",
+          nombre: "Revisión cada 12 meses / 20.000 km",
+          queSeCambia: "Inspección completa, cambio del filtro de habitáculo y actualización del software",
           costeAproxEur: null,
         },
       ],
@@ -770,8 +770,8 @@ export const COCHES_LOTE11: CocheComparador[] = [
     ],
     contras: [
       "Precio orientativo (~28.000 €): sin tarifa europea anunciada",
-      "En China cuesta ~11.200 dólares: el precio occidental se multiplica",
-      "La autonomía eléctrica real WLTP será inferior a los 128 km CLTC",
+      "En China ronda los ~11.200 dólares: el precio en Occidente se multiplica",
+      "La autonomía eléctrica real WLTP será menor que los 128 km CLTC",
       "Sin fecha de llegada a España",
       "El 1.5 de gasolina rinde 100 CV: en modo híbrido el empuje es justo",
     ],
@@ -797,7 +797,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 181,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
+        "Cuenta anual con 15.000 km, recarga casera a 0,18 €/kWh y todo riesgo, con cobertura total. Híbrido enchufable: el coste efectivo depende de cuánto se use en eléctrico.",
       estimado: true,
     },
     galeria: [
@@ -825,19 +825,19 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin datos EuroNCAP: Euro NCAP no ha probado este modelo.",
     },
     planMantenimiento: {
-      intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa)",
+      intervalo: "30.000 km o cada 24 meses, lo que antes ocurra, según el plan oficial BYD en Europa",
       revisiones: [
         {
-          nombre: "Revisión cada 24 meses / 30.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + revisión del sistema híbrido + actualización de software",
+          nombre: "Revisión bienal / 30.000 kilómetros",
+          queSeCambia: "Revisión general, filtro de habitáculo, revisión del sistema híbrido y actualización de software",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan oficial BYD Europa (costes de taller no publicados)",
+      fuente: "Plan BYD oficial en Europa (costes de taller sin publicar)",
     },
     fuenteNombre: "CarNewsChina (lanzamiento del 2026 Seal 05 DM-i)",
     fuenteUrl: "https://carnewschina.com/2025/10/11/2026-byd-seal-05-dm-i-with-2000-km-range-enters-market-at-11200-usd/",
@@ -872,11 +872,11 @@ export const COCHES_LOTE11: CocheComparador[] = [
       "Consumo de solo 10,8 kWh/100 km: eficiencia sobresaliente",
     ],
     contras: [
-      "Precio orientativo (~15.200 €): conversión del precio chino, no se vende en Europa",
+      "Precio orientativo (~15.200 €): conversión del precio chino, no a la venta en Europa",
       "La versión base de 148 CV puede quedarse justa en autopista",
       "Carga rápida modesta: del 30 al 80 % en 24 minutos",
       "Sin fecha de llegada a España ni red de distribución",
-      "El diseño es conservador frente a rivales más atrevidos",
+      "El diseño resulta conservador frente a rivales más osados",
     ],
     largoMm: 4720,
     anchoMm: 1880,
@@ -900,7 +900,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 240,
       costeMensualTotal: 122,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo homologado de 10,8 kWh/100 km.",
+        "Estimación con 15.000 km cada año, carga casera a 0,18 €/kWh, todo riesgo incluido. Gasto homologado de 10,8 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -918,7 +918,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       },
       {
         src: "/media/byd-qin-l-ev-2025-interior.webp",
-        alt: "Interior del BYD Qin L con pantalla central y asientos claros",
+        alt: "Interior del BYD Qin L con pantalla central y asientos en tonos claros",
         ancho: 1400,
         alto: 1050,
       },
@@ -928,19 +928,19 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin datos EuroNCAP: aún sin prueba de Euro NCAP.",
     },
     planMantenimiento: {
-      intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
+      intervalo: "30.000 km o bien cada 24 meses, lo que antes suceda (plan oficial BYD en Europa para eléctricos)",
       revisiones: [
         {
-          nombre: "Revisión cada 24 meses / 30.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + actualización de software",
+          nombre: "Revisión cada dos años / 30.000 km",
+          queSeCambia: "Inspección general, cambio del filtro de habitáculo y actualización de software",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan oficial BYD Europa para vehículos eléctricos (costes de taller no publicados)",
+      fuente: "Programa oficial BYD Europa para eléctricos (costes de taller sin publicar)",
     },
     fuenteNombre: "CarNewsChina (lanzamiento del Qin L EV)",
     fuenteUrl: "http://carnewschina.com/2025/03/23/byd-qin-l-ev-with-gods-eye-c-and-545-km-range-enters-market-starting-at-16500-usd/",
@@ -976,7 +976,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
     ],
     contras: [
       "Precio orientativo (~47.000 €): estimación para Europa, sin tarifa oficial",
-      "2.315 kg de peso: se nota en consumos cuando se agota la batería",
+      "2.315 kg de peso: se nota en consumos al agotarse la batería",
       "La versión DM-i de 279 CV acelera en 8,6 s: sin alardes",
       "Con 7 plazas el maletero se queda en 270 litros",
       "Aún sin fecha de llegada a los concesionarios españoles",
@@ -1003,7 +1003,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 220,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
+        "Cálculo con 15.000 km al año, recarga en casa a 0,18 €/kWh y todo riesgo. Enchufable: el coste real cambia según el uso eléctrico.",
       estimado: true,
     },
     galeria: [
@@ -1026,19 +1026,19 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin datos EuroNCAP: modelo sin probar por Euro NCAP.",
     },
     planMantenimiento: {
-      intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa)",
+      intervalo: "Cada 24 meses / 30.000 km, lo que antes ocurra, conforme al programa BYD para Europa",
       revisiones: [
         {
-          nombre: "Revisión cada 24 meses / 30.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + revisión del sistema híbrido + actualización de software",
+          nombre: "Revisión cada 24 meses / 30.000 kilómetros",
+          queSeCambia: "Inspección general, sustitución del filtro de habitáculo, revisión híbrida y actualización de software",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan oficial BYD Europa (costes de taller no publicados)",
+      fuente: "Programa oficial BYD en Europa (sin costes de taller publicados)",
     },
     fuenteNombre: "EV Central / BYD (especificaciones oficiales en Australia)",
     fuenteUrl: "https://evcentral.com.au/byd-sealion-8-phev-priced-from-56990-first-seven-seat-suv-from-chinese-giant-undercuts-most-rivals/",
@@ -1075,8 +1075,8 @@ export const COCHES_LOTE11: CocheComparador[] = [
     contras: [
       "Precio orientativo (~32.000 €): conversión sin tarifa europea",
       "Fangchengbao no tiene presencia oficial fuera de China",
-      "La autonomía WLTP real será inferior a los 503 km CLTC",
-      "Garantía de batería no publicada por la marca",
+      "La autonomía WLTP real no llegará a los 503 km CLTC",
+      "Garantía de batería no publicada aún por la marca",
       "El diseño tan cuadrado penaliza la aerodinámica y el consumo",
     ],
     largoMm: 4605,
@@ -1101,7 +1101,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 192,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado en 20 kWh/100 km.",
+        "Estimación cada año con 15.000 km, carga doméstica a 0,18 EUR el kWh, todo riesgo incluido. Consumo previsto en 20 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -1129,14 +1129,14 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin datos EuroNCAP: no consta prueba de Euro NCAP.",
     },
     planMantenimiento: {
-      intervalo: "Anual o cada 20.000 km (programa Fangchengbao en China; sin plan europeo publicado)",
+      intervalo: "Anual o cada 20.000 km (programa Fangchengbao en China; sin plan para Europa publicado)",
       revisiones: [
         {
-          nombre: "Revisión anual / 20.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + actualización de software",
+          nombre: "Revisión cada año / 20.000 km",
+          queSeCambia: "Revisión general, renovación del filtro de habitáculo y actualización de programas",
           costeAproxEur: null,
         },
       ],
@@ -1168,17 +1168,17 @@ export const COCHES_LOTE11: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "335 CV con tracción total i4WD: el SUV insignia de la serie Xiangwang",
-      "153 km eléctricos NEDC y 860 km combinados: autonomía sin ansiedad",
+      "153 km eléctricos en NEDC y 860 km combinados: autonomía sin agobios",
       "Carga rápida de 100 kW en un híbrido enchufable: poco común",
-      "V2L de 3,3 kW: el coche como generador portátil",
-      "10.258 reservas en 12 horas en China: éxito de lanzamiento",
+      "V2L de 3,3 kW: el coche hace de generador portátil",
+      "10.258 reservas en solo 12 horas en China: un éxito de lanzamiento",
     ],
     contras: [
       "Precio orientativo (~36.000 €): conversión sin tarifa europea",
-      "GAC Trumpchi no se vende oficialmente en España",
-      "Garantía de batería no publicada por la marca",
+      "GAC Trumpchi no se comercializa oficialmente en España",
+      "Garantía de batería no comunicada por la marca",
       "Datos de aceleración y velocidad máxima sin confirmar",
-      "El servicio posventa fuera de China es una incógnita",
+      "El servicio posventa fuera de China es una duda",
     ],
     largoMm: null,
     anchoMm: null,
@@ -1202,7 +1202,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 204,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
+        "Cuenta con 15.000 km al año, carga en casa a 0,18 EUR/kWh y todo riesgo. Híbrido enchufable: el gasto efectivo depende del uso en eléctrico.",
       estimado: true,
     },
     galeria: [
@@ -1230,14 +1230,14 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin datos EuroNCAP: Euro NCAP aún no lo ha probado.",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km (programa GAC Trumpchi en China; sin plan europeo publicado)",
       revisiones: [
         {
-          nombre: "Revisión anual / 10.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + revisión del sistema híbrido",
+          nombre: "Revisión cada año / 10.000 km",
+          queSeCambia: "Inspección completa, filtro de habitáculo y chequeo del sistema híbrido",
           costeAproxEur: null,
         },
       ],
@@ -1268,15 +1268,15 @@ export const COCHES_LOTE11: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "1.5T de 166 CV + motor eléctrico de 188 CV: el SUV enchufable de la marca de lujo china",
-      "115 km eléctricos CLTC y 1.100 km de autonomía total",
+      "1.5T con 166 CV + motor eléctrico de 188 CV: el SUV enchufable de la marca china de lujo",
+      "115 km eléctricos CLTC y 1.100 km de autonomía combinada",
       "Batería CATL LFP de 18,4 kWh: química duradera y segura",
       "V2L de 3,3 kW: alimenta dispositivos fuera de casa",
       "Precio estimado ~20.000 €: el Hongqi más accesible con enchufe",
     ],
     contras: [
       "Precio orientativo (~20.000 €): conversión del precio chino, sin tarifa europea",
-      "Potencia combinada sin confirmar por la marca",
+      "Potencia combinada pendiente de confirmar por la marca",
       "Hongqi no tiene red oficial en España",
       "Garantía de batería no publicada",
       "Datos de aceleración, maletero y carga rápida sin confirmar",
@@ -1303,7 +1303,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 188,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
+        "Estimación para 15.000 km anuales, recarga doméstica a 0,18 EUR el kWh con todo riesgo. PHEV: el coste real depende de cuánto se circule en eléctrico.",
       estimado: true,
     },
     galeria: [
@@ -1331,14 +1331,14 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin datos EuroNCAP: sin ensayo de Euro NCAP.",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km (programa Hongqi en China; sin plan europeo publicado)",
+      intervalo: "Cada año o 10.000 km (programa Hongqi en China, sin plan en Europa publicado)",
       revisiones: [
         {
-          nombre: "Revisión anual / 10.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + revisión del sistema híbrido",
+          nombre: "Revisión cada 12 meses / 10.000 km",
+          queSeCambia: "Inspección general, renovación del filtro de habitáculo y revisión del sistema híbrido",
           costeAproxEur: null,
         },
       ],
@@ -1369,9 +1369,9 @@ export const COCHES_LOTE11: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "260 km eléctricos y ~2.000 km combinados: la berlina híbrida de gran autonomía",
+      "260 km en eléctrico y ~2.000 km combinados: la berlina híbrida de largo alcance",
       "5,02 metros con batalla de 3,00 m: formato de berlina de representación",
-      "Sistema Kunpeng Super Hybrid 6.0: 1.5T de 160 kW y 310 Nm",
+      "Sistema Kunpeng Super Hybrid 6.0: 1.5T con 160 kW y 310 Nm de par",
       "Batería LFP de 33,7 kWh: de las mayores en un híbrido enchufable",
       "Cx de 0,23: aerodinámica de referencia para su tamaño",
     ],
@@ -1404,7 +1404,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 196,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
+        "Cálculo anual con 15.000 km, recarga en casa a 0,18 EUR por kWh y todo riesgo. Enchufable: el coste final depende del uso eléctrico.",
       estimado: true,
     },
     galeria: [
@@ -1422,7 +1422,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       },
       {
         src: "/media/chery-fulwin-a9l-2025-interior.webp",
-        alt: "Interior del Chery Fulwin A9L con tapicería clara y pantalla central",
+        alt: "Interior del Chery Fulwin A9L con tapicería clara y pantalla en el centro",
         ancho: 780,
         alto: 520,
       },
@@ -1432,14 +1432,14 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin datos EuroNCAP: modelo sin evaluación de Euro NCAP.",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 15.000 km (red Omoda/Jaecoo/Chery en España; sin plan específico publicado para el Fulwin A9L)",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + revisión del sistema híbrido",
+          queSeCambia: "Inspección general, filtro de habitáculo y chequeo híbrido",
           costeAproxEur: null,
         },
       ],
@@ -1510,7 +1510,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin datos EuroNCAP: no hay prueba Euro NCAP.",
     },
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "GAC Motor — programa latinoamericano del modelo; Europa sin programa publicado", "intervalo": "Cada 10.000 km o 12 meses en los mercados latinoamericanos donde se comercializa el GS4 Max; GAC no publica un programa europeo para este modelo", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión de los 10.000 km del 1.5 TGDI", "queSeCambia": "Cambio de aceite y de su filtro, sustitución del filtro de habitáculo y revisión general del vehículo"}]},
   },
@@ -1545,7 +1545,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
     ],
     contras: [
       "Precio orientativo (~1.400.000 €): nunca se vendió al público general",
-      "No es un coche de calle: es una máquina de récords",
+      "No es un coche de calle: es una máquina para récords",
       "427 km de autonomía que se evaporan en circuito",
       "Mantenimiento a medida, solo en el programa NIO",
       "Sin pruebas Euro NCAP ni homologación europea",
@@ -1642,14 +1642,14 @@ export const COCHES_LOTE11: CocheComparador[] = [
       "Precio en China desde ~9.000 €: imbatible por potencia/precio",
       "Segunda generación con diseño renovado y más tecnología",
       "4,54 metros: el tamaño ideal para un SUV compacto familiar",
-      "Changan es uno de los cuatro grandes fabricantes estatales chinos",
+      "Changan es uno de los cuatro grandes fabricantes públicos chinos",
     ],
     contras: [
-      "Precio orientativo (~9.000 €): conversión del precio chino, no se vende en Europa",
+      "Precio orientativo (~9.000 €): conversión del precio chino, sin comercialización en Europa",
       "Versión de gasolina: etiqueta C y consumos superiores a un híbrido",
       "Changan no tiene red oficial en España",
-      "Datos de maletero, consumo y velocidad máxima sin confirmar",
-      "El servicio posventa fuera de China es una incógnita",
+      "Datos de maletero, consumo y velocidad máxima pendientes de confirmar",
+      "El servicio posventa fuera de China no está claro",
     ],
     largoMm: 4540,
     anchoMm: 1860,
@@ -1673,7 +1673,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 246,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo estimado en 7 l/100 km.",
+        "Cálculo con 15.000 km al año, gasolina a 1,60 EUR/l y todo riesgo. Gasto estimado en 7 l/100 km.",
       estimado: true,
     },
     galeria: [
@@ -1701,14 +1701,14 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin datos EuroNCAP: Euro NCAP no lo ha ensayado.",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km (programa Changan en China; sin plan europeo publicado)",
+      intervalo: "Cada año o 10.000 km (programa Changan en China, sin plan europeo publicado)",
       revisiones: [
         {
-          nombre: "Revisión anual / 10.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección general",
+          nombre: "Revisión anual / 10.000 kilómetros",
+          queSeCambia: "Aceite, filtro de aceite, filtro de habitáculo e inspección general",
           costeAproxEur: null,
         },
       ],
@@ -1740,7 +1740,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "A la venta en España desde 38.650 €: el híbrido enchufable chino que ya puedes comprar",
-      "110 km eléctricos WLTC y 1.250 km combinados: autonomía total sin rival",
+      "110 km eléctricos en WLTC y 1.250 km combinados: autonomía total sin competencia",
       "250 CV con 0-100 en 6,9 s: prestaciones de SUV deportivo",
       "Maletero de 590 a 1.800 litros: familiar de verdad",
       "Red oficial Bestune en España (Barcelona, Madrid, Valencia...)",
@@ -1774,7 +1774,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 198,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
+        "Estimación con 15.000 km al año, carga doméstica a 0,18 EUR/kWh, todo riesgo incluido. Enchufable: el gasto real depende del uso en modo eléctrico.",
       estimado: true,
     },
     galeria: [
@@ -1802,19 +1802,19 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin datos EuroNCAP: pendiente de prueba por Euro NCAP.",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 15.000 km (red oficial Bestune en España)",
+      intervalo: "Cada año o 15.000 km (red oficial Bestune en España)",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + revisión del sistema híbrido",
+          queSeCambia: "Revisión general, filtro de habitáculo y chequeo híbrido",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Red oficial Bestune España (costes de taller no publicados)",
+      fuente: "La red oficial Bestune España (costes de taller no publicados)",
     },
   },
   {
@@ -1906,9 +1906,9 @@ export const COCHES_LOTE11: CocheComparador[] = [
     contras: [
       "Precio orientativo (~45.000 €): sin precio oficial ni tarifa europea",
       "Datos de potencia, batería y autonomía aún sin publicar",
-      "GAC Trumpchi no se vende oficialmente en España",
+      "GAC Trumpchi no se vende de forma oficial en España",
       "Presentado en Shanghái 2025: aún en fase de lanzamiento",
-      "El servicio posventa fuera de China es una incógnita",
+      "El servicio posventa fuera de China sigue siendo una interrogante",
     ],
     largoMm: 5060,
     anchoMm: 1950,
@@ -1932,7 +1932,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 220,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
+        "Cuenta anual con 15.000 km, carga en casa a 0,18 euros el kWh con todo riesgo. Híbrido enchufable: el coste verdadero varía con el uso eléctrico.",
       estimado: true,
     },
     galeria: [
@@ -1963,16 +1963,16 @@ export const COCHES_LOTE11: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo presentado en 2025, aún no probado.",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km (programa GAC Trumpchi en China; sin plan europeo publicado)",
+      intervalo: "Cada año o 10.000 km (programa chino de GAC Trumpchi; sin plan para Europa publicado)",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + revisión del sistema híbrido",
+          queSeCambia: "Chequeo general, filtro de habitáculo y revisión híbrida",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "GAC Trumpchi (sin programa de mantenimiento publicado para Europa)",
+      fuente: "GAC Trumpchi China (sin programa de mantenimiento publicado para Europa)",
     },
   },
   {
@@ -2005,7 +2005,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       "El H6 acumula más de 4 millones de unidades: la fiabilidad de un superventas",
     ],
     contras: [
-      "Precio orientativo (~14.000 €): conversión del precio chino",
+      "Precio orientativo (~14.000 €): conversión del precio en China",
       "Datos técnicos (potencia, medidas, consumo) aún sin publicar",
       "Lanzamiento en noviembre de 2025: aún no está a la venta",
       "Haval no tiene red oficial en España",
@@ -2033,7 +2033,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 252,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo estimado en 7 l/100 km.",
+        "Estimación con 15.000 km anuales, gasolina a 1,60 euros el litro y todo riesgo. Gasto previsto en 7 l/100 km.",
       estimado: true,
     },
     galeria: [
@@ -2068,7 +2068,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección general",
+          queSeCambia: "Aceite y su filtro, filtro de habitáculo e inspección general",
           costeAproxEur: null,
         },
       ],
@@ -2134,7 +2134,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 292,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado en 24 kWh/100 km.",
+        "Estimación con 15.000 kilómetros al año, recarga doméstica a 0,18 EUR por kWh, todo riesgo incluido. Gasto estimado en 24 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -2169,7 +2169,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       revisiones: [
         {
           nombre: "Programa Volvo China",
-          queSeCambia: "Inspección general + filtro de habitáculo + actualización de software",
+          queSeCambia: "Inspección general, filtro de habitáculo y actualización de programas",
           costeAproxEur: null,
         },
       ],
@@ -2201,7 +2201,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "1.001 km de autonomía combinada NEDC: el SUV híbrido para viajar",
-      "71 km eléctricos NEDC: el día a día en modo cero emisiones",
+      "71 km eléctricos NEDC: el día a día en modo sin emisiones",
       "22,7 km/l de consumo con la batería baja: eficiencia sobresaliente",
       "La versión 2026 añade LiDAR y hasta 310 km eléctricos en China",
       "Maletero de 407 a 1.430 litros y pantalla giratoria de 12,8\"",
@@ -2235,7 +2235,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 198,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
+        "Estimación con 15.000 km cada año, recarga en casa a 0,18 euros por kWh, todo riesgo incluido. PHEV: el gasto real depende del uso eléctrico que se haga.",
       estimado: true,
     },
     galeria: [
@@ -2263,19 +2263,19 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin datos EuroNCAP: modelo no ensayado por Euro NCAP.",
     },
     planMantenimiento: {
-      intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa)",
+      intervalo: "Cada dos años / 30.000 km, lo que antes ocurra, con arreglo al plan BYD oficial en Europa",
       revisiones: [
         {
-          nombre: "Revisión cada 24 meses / 30.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + revisión del sistema híbrido + actualización de software",
+          nombre: "Revisión cada 2 años / 30.000 kilómetros",
+          queSeCambia: "Revisión completa, filtro de habitáculo, chequeo del sistema híbrido y puesta al día del software",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan oficial BYD Europa (costes de taller no publicados)",
+      fuente: "Plan BYD oficial europeo, costes de taller sin publicar",
     },
   },
   {
@@ -2336,7 +2336,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 210,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
+        "Cálculo anual con 15.000 kilómetros, carga doméstica a 0,18 €/kWh más todo riesgo. Híbrido enchufable: el coste real va según el uso eléctrico.",
       estimado: true,
     },
     galeria: [
@@ -2359,19 +2359,19 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin datos EuroNCAP: sin prueba Euro NCAP registrada.",
     },
     planMantenimiento: {
-      intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa)",
+      intervalo: "Cada 24 meses o bien 30.000 km, lo que suceda antes (programa BYD para Europa)",
       revisiones: [
         {
-          nombre: "Revisión cada 24 meses / 30.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + revisión del sistema híbrido + actualización de software",
+          nombre: "Revisión cada dos años / 30.000 km",
+          queSeCambia: "Revisión general, sustitución del filtro de habitáculo, chequeo híbrido y actualización de software",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan oficial BYD Europa (costes de taller no publicados)",
+      fuente: "Plan BYD Europa oficial (costes de taller no publicados)",
     },
     fuenteNombre: "AutoChina / AICarGlobal (ficha técnica del Xia)",
     fuenteUrl: "https://autochina.blog/byd-xia-review-2025-hybrid-mpv-price-specs-range/",
@@ -2406,7 +2406,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       "Consumo contenido de 6,45 l/100 km para 178 CV",
     ],
     contras: [
-      "Precio orientativo (~7.600 €): conversión del precio chino, no se vende en Europa",
+      "Precio orientativo (~7.600 €): es la conversión del precio chino, sin venta europea",
       "Versión de gasolina: etiqueta C, sin electrificación",
       "MG no confirma su llegada a España (aquí la marca apuesta por híbridos y eléctricos)",
       "Datos de maletero, peso y velocidad máxima sin confirmar",
@@ -2434,7 +2434,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 232,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo homologado de 6,45 l/100 km.",
+        "Cuenta con 15.000 km cada año, gasolina a 1,60 EUR el litro y todo riesgo. Consumo homologado de 6,45 l/100 km.",
       estimado: true,
     },
     galeria: [
@@ -2462,14 +2462,14 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin datos EuroNCAP: modelo sin probar en Euro NCAP.",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 15.000 km, lo que antes ocurra (plan oficial MG para gasolina)",
+      intervalo: "Anual o 15.000 km, lo que suceda antes, con arreglo al plan MG oficial para gasolina",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección general",
+          queSeCambia: "Cambio de aceite y filtros, más inspección general",
           costeAproxEur: null,
         },
       ],

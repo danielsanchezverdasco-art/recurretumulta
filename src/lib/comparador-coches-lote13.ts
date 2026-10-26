@@ -90,7 +90,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       mantenimientoAnual: 260,
       costeMensualTotal: 125,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio oficial en España sin ayudas.",
+        "Cálculo con 15.000 km anuales, recarga doméstica a 0,18 €/kWh, con seguro total. Precio oficial en España sin ayudas.",
       estimado: true,
     },
     galeria: [
@@ -125,7 +125,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + actualización de software",
+          queSeCambia: "Inspección general, filtro de habitáculo y actualización de software",
           costeAproxEur: 170,
         },
       ],
@@ -158,7 +158,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
     pros: [
       "561 km WLTP con la batería de 84 kWh: la mayor autonomía del restyling",
       "Plataforma de 800 voltios con carga ultrarrápida",
-      "5 años de garantía sin límite de kilometraje, única en el segmento",
+      "5 años de garantía con kilometraje ilimitado, única en el segmento",
       "A la venta en España desde 55.900 € (Madrid, Barcelona, Valencia)",
       "Versión Magma de 609 CV: el Genesis más radical",
     ],
@@ -191,7 +191,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 163,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio oficial Genesis España.",
+        "Estimación con 15.000 km cada año, carga doméstica a 0,18 euros el kWh, con todo riesgo. Precio oficial Genesis España.",
       estimado: true,
     },
     galeria: [
@@ -222,11 +222,11 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2022, válida para la gama GV60.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "15.000 kilómetros o 12 meses, lo que ocurra antes",
       revisiones: [
         {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + actualización de software",
+          nombre: "Revisión cada año / 15.000 km",
+          queSeCambia: "Revisión general + filtro de cabina + actualización del sistema",
           costeAproxEur: 220,
         },
       ],
@@ -268,7 +268,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       "Autonomía justa para salir de la ciudad (300 km)",
       "100 CV: suficiente en ciudad, justo en autopista",
       "Velocidad máxima de 150 km/h",
-      "Interior sencillo acorde a su precio",
+      "Interior sencillo acorde con su precio",
     ],
     largoMm: 4003,
     anchoMm: 1760,
@@ -292,7 +292,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       mantenimientoAnual: 240,
       costeMensualTotal: 115,
       notas:
-        "Estimación con 12.000 km/año (uso urbano), recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde tarifa mexicana.",
+        "Cuenta con 12.000 km anuales, recarga en casa a 0,18 €/kWh, con todo riesgo. Precio orientativo de tarifa mexicana.",
       estimado: true,
     },
     galeria: [
@@ -331,7 +331,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
           costeAproxEur: null,
         },
         {
-          nombre: "Filtro de aire del habitáculo (cada 36.000 km o 24 meses)",
+          nombre: "Filtro de aire de cabina (cada 36.000 km o 24 meses)",
           queSeCambia: "Sustitución del filtro de aire del habitáculo",
           costeAproxEur: null,
         },
@@ -373,7 +373,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
     ],
     contras: [
       "Solo se vende en China; sin confirmación para Europa",
-      "Autonomía CLTC: la real europea sería sensiblemente menor",
+      "Autonomía CLTC: la europea real sería sensiblemente menor",
       "Datos de aceleración y maletero sin publicar",
       "Marca en reconstrucción en el coche eléctrico puro",
       "Ecosistema Xiaomi/Huawei pensado para el mercado chino",
@@ -400,7 +400,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 126,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde tarifa china.",
+        "Previsión anual con 15.000 km, recarga casera a 0,18 EUR/kWh, más todo riesgo. Precio orientativo según tarifa china.",
       estimado: true,
     },
     galeria: [
@@ -428,14 +428,14 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
+      nota: "Sin datos EuroNCAP: no se comercializa en Europa.",
     },
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado por la marca (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "Sin programa oficial publicado por la marca (consultado el 24/10/2026); sigue las revisiones indicadas en el manual del propietario",
       revisiones: [
         {
           nombre: "Revisiones del manual del propietario",
-          queSeCambia: "Toyota no publica un plan de mantenimiento oficial para el bZ7; sigue las revisiones periódicas del manual del propietario",
+          queSeCambia: "Toyota no ha publicado un plan de mantenimiento oficial para el bZ7; sigue las revisiones indicadas en el manual del propietario",
           costeAproxEur: null,
         },
       ],
@@ -523,11 +523,11 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo aún no comercializado.",
     },
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado por la marca (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "Sin programa oficial publicado por la marca (a 24/10/2026); sigue las revisiones del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisiones del manual del propietario",
-          queSeCambia: "Honda no publica un plan de mantenimiento oficial para el GT; sigue las revisiones periódicas del manual del propietario",
+          nombre: "Plan de revisiones según el manual del propietario",
+          queSeCambia: "Honda no ofrece un plan de mantenimiento oficial para el GT; sigue el plan de revisiones del manual del propietario",
           costeAproxEur: null,
         },
       ],
@@ -565,10 +565,10 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       "Chasis de largueros y reductora: todoterreno de verdad",
     ],
     contras: [
-      "No se vende en Europa ni hay planes anunciados",
+      "No se vende en Europa, sin planes",
       "Cerca de 2.800 kg y consumo elevado",
       "Entregas en Australia previstas para 2027",
-      "Etiqueta C: vetado en las ZBE más exigentes",
+      "Etiqueta C: vetado en las ZBE más estrictas",
       "Precio orientativo de 65.000 € antes de impuestos europeos",
     ],
     largoMm: 5350,
@@ -610,14 +610,14 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
+      nota: "Sin datos EuroNCAP: modelo ausente del mercado europeo.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km, lo que ocurra antes",
+      intervalo: "Cada 12 meses o 10.000 kilómetros, lo que ocurra antes",
       revisiones: [
         {
-          nombre: "Revisión anual / 10.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + filtro de habitáculo",
+          nombre: "Revisión cada año / 10.000 km",
+          queSeCambia: "Cambio de aceite, filtros de aceite, aire y habitáculo",
           costeAproxEur: 320,
         },
       ],
@@ -652,7 +652,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       "0-100 km/h en 4,5 s con 211 mm de despeje y X-Mode",
       "Maletero de 619 litros y 1.587 kg de remolque",
       "Conector NACS y carga de 150 kW (10-80 % en 28 minutos)",
-      "Garantía de 5 años o 100.000 km; batería 8 años o 160.000 km",
+      "Garantía de 5 años o 100.000 km; batería con 8 años o 160.000 km",
     ],
     contras: [
       "Sin planes de venta en Europa de momento",
@@ -683,7 +683,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 144,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde tarifa estadounidense.",
+        "Cálculo anual con 15.000 km, carga en casa a 0,18 euros por kWh, todo riesgo incluido. Precio orientativo según la tarifa estadounidense.",
       estimado: true,
     },
     galeria: [
@@ -711,14 +711,14 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
+      nota: "Sin datos EuroNCAP: sin comercialización en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "15.000 km o un año, lo que suceda primero",
       revisiones: [
         {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + revisión de bajos",
+          nombre: "Revisión anual / 15.000 kilómetros",
+          queSeCambia: "Inspección general, filtro de habitáculo y revisión de bajos",
           costeAproxEur: 180,
         },
       ],
@@ -789,7 +789,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 128,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde tarifa china.",
+        "Estimación anual con 15.000 kilómetros, recarga doméstica a 0,18 EUR el kWh, con todo riesgo. Precio orientativo calculado con la tarifa china.",
       estimado: true,
     },
     galeria: [
@@ -820,11 +820,11 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no homologado aún en Europa.",
     },
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado por la marca (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "La marca no ha publicado un programa oficial (visto el 24/10/2026); sigue las revisiones que marca el manual del propietario",
       revisiones: [
         {
-          nombre: "Revisiones del manual del propietario",
-          queSeCambia: "Mazda no publica un plan de mantenimiento oficial para el EZ-60; sigue las revisiones periódicas del manual del propietario",
+          nombre: "Plan de revisiones del manual",
+          queSeCambia: "Mazda no ha divulgado un plan de mantenimiento oficial para el EZ-60; hay que seguir las revisiones periódicas del manual",
           costeAproxEur: null,
         },
       ],
@@ -890,7 +890,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       mantenimientoAnual: 260,
       costeMensualTotal: 118,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde tarifa china.",
+        "Cuenta anual con 15.000 km cada año, carga casera a 0,18 €/kWh, con seguro a todo riesgo. Precio orientativo de tarifa china.",
       estimado: true,
     },
     galeria: [
@@ -921,16 +921,16 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       nota: "EuroNCAP no tiene datos de este modelo, que solo se vende en China.",
     },
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado por la marca (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "Sin programa oficial publicado por la marca (revisado 24/10/2026); se siguen las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisiones del manual del propietario",
-          queSeCambia: "Toyota no publica un plan de mantenimiento oficial para el bZ5; sigue las revisiones periódicas del manual del propietario",
+          nombre: "Plan de revisiones marcadas por el manual",
+          queSeCambia: "Toyota no facilita un plan de mantenimiento oficial para el bZ5; sigue las revisiones del manual del propietario",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Toyota: sin plan de mantenimiento publicado para el bZ5",
+      fuente: "Toyota: sin plan publicado para el bZ5",
     },
   },
   {
@@ -963,11 +963,11 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       "Fabricado en India con precio contenido",
     ],
     contras: [
-      "No se vende en Europa",
+      "Sin venta en Europa",
       "102 CV: prestaciones justas",
       "Sin ayudas ADAS avanzadas",
       "Híbrido ligero, no completo: la etiqueta ECO, no la Cero",
-      "Interior sencillo acorde a su precio",
+      "Interior simple acorde a su precio",
     ],
     largoMm: 3995,
     anchoMm: 1765,
@@ -1008,14 +1008,14 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
+      nota: "Sin datos EuroNCAP: no está a la venta en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "Cada año o 15.000 kilómetros, lo que ocurra antes",
       revisiones: [
         {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección híbrida ligera",
+          nombre: "Revisión al año / 15.000 kilómetros",
+          queSeCambia: "Cambio de aceite con filtro de aceite, filtro de habitáculo e inspección híbrida ligera",
           costeAproxEur: 180,
         },
       ],
@@ -1047,13 +1047,13 @@ const COCHES_LOTE13_B: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "2.5 turbo híbrido con 329 CV: el Palisade más potente y eficiente",
-      "Hasta 1.000 km de autonomía con el depósito de 72 litros",
+      "Hasta 1.000 km de autonomía con un depósito de 72 litros",
       "7 u 8 plazas en 5,06 metros: el familiar definitivo",
       "Garantía de 7 años o 140.000 km; batería híbrida 8 años o 160.000 km",
       "Remolque de hasta 1.814 kg y tracción total",
     ],
     contras: [
-      "No se vende en Europa",
+      "No comercializado en Europa",
       "5 metros de largo: aparcarlo es un reto",
       "Precio orientativo de 40.000 € antes de impuestos europeos",
       "El V6 de 287 CV gasta sensiblemente más",
@@ -1081,7 +1081,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 229,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Precio orientativo desde tarifa estadounidense.",
+        "Estimación con 15.000 km anuales, gasolina a 1,60 €/l, todo riesgo incluido. Precio orientativo según tarifa USA.",
       estimado: true,
     },
     galeria: [
@@ -1114,11 +1114,11 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: la nueva generación no se ha probado en Europa (5 estrellas ANCAP, 2025)",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "15.000 km o 12 meses, lo que ocurra primero",
       revisiones: [
         {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección híbrida",
+          nombre: "Revisión cada año / 15.000 kilómetros",
+          queSeCambia: "Cambio de aceite y filtros con revisión híbrida",
           costeAproxEur: 300,
         },
       ],
@@ -1151,7 +1151,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
     pros: [
       "2.2 diésel de 210 CV y 445 Nm con reductora y bloqueo trasero",
       "Vadeo de 800 mm y 252 mm de despeje: todoterreno serio",
-      "1.195 kg de carga útil y 3.500 kg de remolque",
+      "1.195 kg de carga útil y remolque de 3.500 kg",
       "Chasis de largueros a la vieja usanza",
       "Interior con doble pantalla y Harman Kardon",
     ],
@@ -1201,13 +1201,13 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
+      nota: "Sin datos EuroNCAP: vehículo no comercializado en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "Cada 12 meses / 15.000 kilómetros, lo que ocurra antes",
       revisiones: [
         {
-          nombre: "Revisión anual / 15.000 km",
+          nombre: "Mantenimiento a los 15.000 km",
           queSeCambia: "Aceite + filtro de aceite + filtro de gasoil + filtro de aire",
           costeAproxEur: 350,
         },
@@ -1239,9 +1239,9 @@ const COCHES_LOTE13_B: CocheComparador[] = [
     cargaRapidaKw: 350,
     etiquetaDgt: "Cero",
     pros: [
-      "490 CV y 700 Nm con modo Boost: 0-100 km/h en 4,4 s",
-      "Arquitectura de 800 V: del 10 al 80 % en 18 minutos a 350 kW",
-      "479 km WLTP con la batería de 84 kWh",
+      "490 CV y 700 Nm con modo Boost: de 0 a 100 en 4,4 s",
+      "Plataforma de 800 V: del 10 al 80 % en 18 minutos con 350 kW",
+      "479 km WLTP con batería de 84 kWh",
       "A la venta en España desde 69.400 € con 5 años de garantía sin límite de km",
       "V2L, i-Pedal y Auto-Terrain para nieve, barro y arena",
     ],
@@ -1274,7 +1274,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 177,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio oficial Genesis España.",
+        "Cálculo con 15.000 km al año, recarga en casa a 0,18 euros el kWh, todo riesgo incluido. Precio oficial de Genesis en España.",
       estimado: true,
     },
     galeria: [
@@ -1305,16 +1305,16 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2021, válida para la gama GV70.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 15.000 kilómetros, lo que antes ocurra",
       revisiones: [
         {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + actualización de software",
+          nombre: "Revisión al año / 15.000 km",
+          queSeCambia: "Inspección general + filtro de cabina + actualización de software",
           costeAproxEur: 240,
         },
       ],
       costeAnualAproxEur: 240,
-      fuente: "Programa de mantenimiento Genesis (red europea)",
+      fuente: "Programa de mantenimiento Genesis (red en Europa)",
     },
   },
   {
@@ -1350,7 +1350,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       "Precio aún sin anunciar: estimación orientativa",
       "Llegada prevista para 2027",
       "5,29 metros: un trasatlántico para Europa",
-      "Peso y consumo por confirmar",
+      "Peso y consumo pendientes de confirmar",
       "Genesis aún construye su red en España",
     ],
     largoMm: 5285,
@@ -1375,7 +1375,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 201,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo: la marca aún no lo ha anunciado.",
+        "Previsión para 15.000 km anuales, carga en el hogar a 0,18 €/kWh, todo riesgo cubierto. Precio orientativo: sin anuncio de la marca todavía.",
       estimado: true,
     },
     galeria: [
@@ -1406,16 +1406,16 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: presentado en septiembre de 2026, aún no probado.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "Un año o 15.000 kilómetros, lo que primero ocurra",
       revisiones: [
         {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + actualización de software",
+          nombre: "Mantenimiento de los 15.000 km anuales",
+          queSeCambia: "Inspección general, cambio del filtro de habitáculo y actualización del sistema",
           costeAproxEur: 300,
         },
       ],
       costeAnualAproxEur: 300,
-      fuente: "Programa de mantenimiento Genesis (red europea)",
+      fuente: "Programa Genesis de mantenimiento (red europea)",
     },
   },
   {
@@ -1476,7 +1476,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 242,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Precio orientativo desde tarifa estadounidense.",
+        "Cuenta con 15.000 km cada año, gasolina a 1,60 euros el litro, con todo riesgo. Precio orientativo según tarifa EE. UU.",
       estimado: true,
     },
     galeria: [
@@ -1507,11 +1507,11 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       nota: "La nueva generación todavía no ha pasado por las pruebas de EuroNCAP.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "Cada año o 15.000 km, lo que suceda primero",
       revisiones: [
         {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección híbrida",
+          nombre: "Revisión cada 12 meses / 15.000 kilómetros",
+          queSeCambia: "Cambio de aceite con filtros, inspección híbrida",
           costeAproxEur: 280,
         },
       ],
@@ -1555,9 +1555,9 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       "Desde 44.600 $: el SUV eléctrico americano más asequible",
     ],
     contras: [
-      "No se vende en Europa ni hay planes anunciados",
+      "No se vende en Europa y sin planes anunciados",
       "Sin frunk pese a su tamaño",
-      "Carga de 190 kW: por debajo de los coreanos de 800 V",
+      "Carga de 190 kW: por debajo de los modelos coreanos de 800 V",
       "La gama se solapa con la Equinox EV más barata",
       "Interior con plásticos mejorables para su precio",
     ],
@@ -1583,7 +1583,7 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 148,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde tarifa estadounidense.",
+        "Estimación con 15.000 kilómetros al año, recarga doméstica a 0,18 euros por kWh, y todo riesgo. Precio orientativo según la tarifa norteamericana.",
       estimado: true,
     },
     galeria: [
@@ -1611,24 +1611,24 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
+      nota: "Sin datos EuroNCAP: fuera del mercado europeo.",
     },
     planMantenimiento: {
-      intervalo: "Cada 12.000 km: rotación de neumáticos + inspección multipunto; filtro de habitáculo cada 36.000 km o 24 meses (plan oficial GM)",
+      intervalo: "Inspección multipunto y rotación de neumáticos cada 12.000 km; filtro del habitáculo a los 36.000 km o 24 meses (programa oficial GM)",
       revisiones: [
         {
-          nombre: "Rotación de neumáticos + inspección multipunto (cada 12.000 km)",
-          queSeCambia: "Rotación de neumáticos, inspección multipunto del vehículo y lubricación de componentes de carrocería",
+          nombre: "Rotación de neumáticos e inspección multipunto (cada 12.000 km)",
+          queSeCambia: "Cambio de posición de neumáticos, revisión multipunto y lubricación de componentes de carrocería",
           costeAproxEur: null,
         },
         {
-          nombre: "Filtro de aire del habitáculo (cada 36.000 km o 24 meses)",
-          queSeCambia: "Sustitución del filtro de aire del habitáculo",
+          nombre: "Filtro del habitáculo a los 36.000 km o dos años",
+          queSeCambia: "Cambio del filtro de aire del habitáculo",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "GM: programa oficial de mantenimiento para sus vehículos eléctricos (manual del propietario)",
+      fuente: "General Motors: programa de mantenimiento oficial para eléctricos (manual del propietario)",
     },
     fuenteNombre: "GM — Manual del propietario Chevrolet Blazer EV 2025",
     fuenteUrl: "https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/owners_manuals_browse/2025/chevrolet/blazer_ev/25_CHEV_Blazer_EV_OM_en_US_U_18108609E_2025DEC08_5P.pdf",
@@ -1658,7 +1658,7 @@ const COCHES_LOTE13_C: CocheComparador[] = [
     pros: [
       "6 plazas en configuración 2+2+2: el primer Tesla familiar de verdad",
       "751 km CLTC con la batería de 82 kWh",
-      "0-100 km/h en 4,5 s con tracción total",
+      "De 0 a 100 en 4,5 s con tracción total",
       "Butacas de capitán en la segunda fila con reposabrazos",
       "120.000 pedidos en China; ya se prueba en Europa",
     ],
@@ -1691,7 +1691,7 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 133,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo: sin tarifa europea anunciada.",
+        "Cálculo anual con 15.000 km anuales, carga en casa a 0,18 EUR/kWh, todo riesgo incluido. Precio orientativo: sin tarifa europea por anunciar.",
       estimado: true,
     },
     galeria: [
@@ -1848,13 +1848,13 @@ const COCHES_LOTE13_C: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "765 km EPA con la batería Max Range: la mayor autonomía del segmento",
-      "760 CV y 1.064 Nm: 0-100 km/h en 4,6 s con 4 toneladas",
+      "760 CV y 1.064 Nm: de 0 a 100 en 4,6 s con 4 toneladas",
       "800 V y 350 kW de carga: 160 km en 10 minutos",
       "Remolque de hasta 5.579 kg y frunk de 311 litros",
       "Super Cruise y dirección a las cuatro ruedas",
     ],
     contras: [
-      "No se vende en Europa",
+      "Sin comercialización en Europa",
       "3.990 kg de peso: necesita carnet B96 en la práctica",
       "Precio de seis cifras en la versión Denali Max Range",
       "5,9 metros: imposible fuera de América",
@@ -1882,7 +1882,7 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 194,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde tarifa estadounidense.",
+        "Previsión con 15.000 km al año, recarga casera a 0,18 EUR el kWh, todo riesgo incluido. Precio orientativo según el precio de EE. UU.",
       estimado: true,
     },
     galeria: [
@@ -1910,14 +1910,14 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
+      nota: "Sin datos EuroNCAP: sin presencia en Europa.",
     },
     planMantenimiento: {
       intervalo: "Rotación de neumáticos y servicios requeridos cada 12.000 km + inspección multipunto (plan oficial GM/GMC)",
       revisiones: [
         {
-          nombre: "Rotación de neumáticos + inspección multipunto (cada 12.000 km)",
-          queSeCambia: "Rotación de neumáticos, inspección multipunto del vehículo y lubricación de componentes de carrocería",
+          nombre: "Rotación de neumáticos con revisión multipunto (cada 12.000 km)",
+          queSeCambia: "Rotación de ruedas, revisión multipunto y lubricación de la carrocería",
           costeAproxEur: null,
         },
       ],
@@ -1960,7 +1960,7 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       "Solo se vende en India",
       "Sin sistemas ADAS avanzados",
       "115 CV: prestaciones discretas",
-      "Interior sencillo acorde a su precio",
+      "Interior sencillo en línea con su precio",
       "Sin versión híbrida ni eléctrica anunciada",
     ],
     largoMm: 3995,
@@ -2002,14 +2002,14 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
+      nota: "Sin datos EuroNCAP: no se vende en el mercado europeo.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "15.000 kilómetros o un año, lo que antes suceda",
       revisiones: [
         {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo",
+          nombre: "Revisión de los 15.000 kilómetros anuales",
+          queSeCambia: "Aceite, filtro de aceite y filtro de habitáculo",
           costeAproxEur: 150,
         },
       ],
@@ -2050,7 +2050,7 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       "No llega a Europa",
       "Sin electrificación: solo gasolina",
       "Consumo elevado para su potencia",
-      "El maletero pierde algo de capacidad frente al anterior",
+      "El maletero pierde algo de capacidad frente a su antecesor",
       "Etiqueta C: sin ventajas fiscales",
     ],
     largoMm: null,
@@ -2075,7 +2075,7 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 306,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Precio orientativo desde tarifa estadounidense.",
+        "Cuenta anual con 15.000 km, gasolina a 1,60 EUR/l, todo riesgo incluido. Precio orientativo de tarifa USA.",
       estimado: true,
     },
     galeria: [
@@ -2103,14 +2103,14 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
+      nota: "Sin datos EuroNCAP: modelo no distribuido en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 12.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 12.000 kilómetros, lo que suceda antes",
       revisiones: [
         {
-          nombre: "Revisión anual / 12.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo",
+          nombre: "Revisión cada año / 12.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro del habitáculo",
           costeAproxEur: 260,
         },
       ],
@@ -2142,7 +2142,7 @@ const COCHES_LOTE13_C: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "1.110 km de autonomía total: 233 km eléctricos + V6 generador",
-      "660 CV y 830 Nm: 0-100 km/h en 4,5 s",
+      "660 CV y 830 Nm: de 0 a 100 km/h en 4,5 s",
       "Remolque de 6.350 kg y 1.191 kg de carga útil",
       "V2H de 7,2 kW: alimenta una casa durante 11 días",
       "Carga rápida de 177 kW (20-80 % en 45 minutos)",
@@ -2152,7 +2152,7 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       "Llegada prevista en 2026 con retrasos ya anunciados",
       "Sin planes de venta en Europa",
       "Complejidad mecánica: motor eléctrico + V6 generador",
-      "Peso y consumo por confirmar",
+      "Peso y consumo sin confirmar",
     ],
     largoMm: null,
     anchoMm: null,
@@ -2193,13 +2193,13 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
+      nota: "Sin datos EuroNCAP: ausente de Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "15.000 kilómetros o 12 meses, lo que antes ocurra",
       revisiones: [
         {
-          nombre: "Revisión anual / 15.000 km",
+          nombre: "Revisión de 15.000 km al año",
           queSeCambia: "Aceite del generador + filtros + inspección eléctrica e híbrida",
           costeAproxEur: 350,
         },
@@ -2231,14 +2231,14 @@ const COCHES_LOTE13_C: CocheComparador[] = [
     cargaRapidaKw: 150,
     etiquetaDgt: "Cero",
     pros: [
-      "496 km EPA con la batería de 85 kWh",
+      "496 km EPA con batería de 85 kWh",
       "Plataforma Ultium de GM: mecánica probada en millones de coches",
       "Fue el segundo SUV eléctrico no Tesla más vendido en EE. UU. (Q4 2024)",
       "Versión AWD con 300 CV y 481 Nm",
       "Carga rápida de 150 kW (20-80 % en ~35 minutos)",
     ],
     contras: [
-      "No se vende en Europa",
+      "No disponible en Europa",
       "Futuro incierto: Honda redujo su producción en 2025",
       "220 CV en la versión base: discreto para su tamaño",
       "Interior muy «GM»: poco ADN Honda",
@@ -2266,7 +2266,7 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 147,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde tarifa estadounidense.",
+        "Estimación anual con 15.000 km anuales, carga doméstica a 0,18 €/kWh, todo riesgo incluido. Precio orientativo calculado con la tarifa de Estados Unidos.",
       estimado: true,
     },
     galeria: [
@@ -2294,19 +2294,19 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
+      nota: "Sin datos EuroNCAP: sin ventas en Europa.",
     },
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado por la marca (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "La marca no publica un programa oficial (revisado el 24/10/2026); sigue las revisiones periódicas que indica el manual",
       revisiones: [
         {
-          nombre: "Revisiones del manual del propietario",
-          queSeCambia: "Honda no publica un plan de mantenimiento oficial para el Prologue; sigue las revisiones periódicas del manual del propietario",
+          nombre: "Revisiones según el manual",
+          queSeCambia: "Honda no ha difundido un plan de mantenimiento oficial para el Prologue; sigue las revisiones periódicas que indica el manual",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Honda: sin plan de mantenimiento publicado para el Prologue",
+      fuente: "Honda: sin plan publicado para el Prologue",
     },
   },
   {
@@ -2339,7 +2339,7 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       "Super Cruise y V2L PowerBase de 10,2 kW",
     ],
     contras: [
-      "No se vende en Europa",
+      "Fuera del mercado europeo",
       "Las versiones tope superan los 87.000 $",
       "Batería de 205 kWh: pesada y cara de reemplazar",
       "Tamaño americano: imposible en ciudad europea",
@@ -2367,7 +2367,7 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 193,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde tarifa oficial estadounidense.",
+        "Cálculo con 15.000 km cada año, recarga doméstica a 0,18 €/kWh, con cobertura a todo riesgo. Precio orientativo según la tarifa oficial de EE. UU.",
       estimado: true,
     },
     galeria: [
@@ -2395,24 +2395,24 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
+      nota: "Sin datos EuroNCAP: no comercializado en el mercado europeo.",
     },
     planMantenimiento: {
-      intervalo: "Cada 12.000 km: rotación de neumáticos + inspección multipunto; filtro de habitáculo cada 36.000 km o 24 meses (plan oficial GM)",
+      intervalo: "Cada 12.000 km, rotación de neumáticos e inspección multipunto y filtro del habitáculo cada 36.000 km o cada 24 meses (plan oficial GM)",
       revisiones: [
         {
-          nombre: "Rotación de neumáticos + inspección multipunto (cada 12.000 km)",
-          queSeCambia: "Rotación de neumáticos, inspección multipunto del vehículo y lubricación de componentes de carrocería",
+          nombre: "Inspección multipunto + rotación de neumáticos cada 12.000 km",
+          queSeCambia: "Rotación de neumáticos, revisión de puntos y lubricación de carrocería",
           costeAproxEur: null,
         },
         {
-          nombre: "Filtro de aire del habitáculo (cada 36.000 km o 24 meses)",
-          queSeCambia: "Sustitución del filtro de aire del habitáculo",
+          nombre: "Filtro de cabina cada 36.000 km o cada 24 meses",
+          queSeCambia: "Sustitución del filtro del habitáculo",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "GM: programa oficial de mantenimiento para sus vehículos eléctricos (manual del propietario)",
+      fuente: "GM: programa oficial para vehículos eléctricos (manual del propietario)",
     },
     fuenteNombre: "GM — Manual del propietario Chevrolet Blazer EV 2025",
     fuenteUrl: "https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/owners_manuals_browse/2025/chevrolet/blazer_ev/25_CHEV_Blazer_EV_OM_en_US_U_18108609E_2025DEC08_5P.pdf",
