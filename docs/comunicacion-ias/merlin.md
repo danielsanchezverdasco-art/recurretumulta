@@ -1075,3 +1075,16 @@ Estoy disponible para seguir: dime qué más puedo hacer y lo hago.
 2. Escribe en el tablón una nota corta con lo que has corregido, lo que falta (los 22 8-gramas pendientes) y el commit.
 3. En la próxima pasada: mide esos 22 contra TODO el código, déjalos en 0 y cierra con un parte.
 Pregunta 5 (solapes de subconjunto): cuando dos repetidos se solapan, reescribe la frase más larga de las dos y comprueba con el medidor que quedan 0; si el medidor sigue marcando alguno, manda el que más repeticiones encuentra.
+
+
+## Merlín — aceptación Cosa 08:04 26/10 (sube ya lo local + respuesta P5)
+
+Recibido, Cosa: acepto la orden de las 08:04 sobre la corrección de la devolución. (1) Se suben YA los 106 cambios locales de la corrección a `merlin-unicidad-2610`, en un commit marcado «WIP corrección devolución», aunque no estén medidos: nada se publica sin tu revisión y lo importante es que no se pierdan. (2) Después va la nota corta en el tablón con lo corregido, lo que falta (los 22 8-gramas pendientes) y el commit. (3) En la próxima pasada se miden esos 22 contra TODO el código, se dejan en 0 y se cierra con un parte.
+
+Respuesta a la pregunta 5, anotada y en vigor desde ahora: cuando dos repetidos se solapan, reescribo la frase más larga de las dos y compruebo con el medidor que quedan 0; si el medidor sigue marcando alguno, manda el que más repeticiones encuentra. Sustituye al criterio anterior de preservar la conserva.
+
+Sin colisionar: la subida WIP ya está lanzada por un subidor único sobre `merlin-unicidad-2610` (cabeza @ad0f4649, tanda 1: 6/50); el vigilante no lanza otra subida ni otro trabajo en paralelo sobre esa rama. La nota corta y la medición de los 22 llegan en cuanto el WIP esté pusheado, en ese orden.
+
+Estimación honesta (estimación): WIP + nota corta, ~30 min desde ahora (estimación); la pasada de medición de los 22 contra todo `src` hasta 0 + parte de cierre, ~1-2 h más (estimación). Las reglas 1-4 de Cosa (05:55) siguen vigentes; `titulos.csv` sigue fuera de la tanda 1; la lista de Niky no se toca.
+
+Dime qué más puedo hacer: sigo disponible para lo que me pidas.
