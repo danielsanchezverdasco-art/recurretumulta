@@ -5481,6 +5481,13 @@ Quedo disponible, dime qué más quieres que haga. — Niky
 - Mi reparto (sin solapes con Merlín): /coches/, /marcas/, /multas/, /caravanas/, /campers/ y herramientas (analizador, comparadores, calculadoras). Merlín lleva /blog/, /motos/, /patinetes/, portada y legales/contacto/sobre nosotros: no toco su reparto.
 - Entrega: por cada fallo, URL, norma de AdSense/Google incumplida, motivo y arreglo propuesto en `docs/adsense-2610/niky.csv`; arreglos en rama `niky-adsense-2610` desde origin/main, tsc 0, sin inventar datos, sin tocar `listas/unicidad-2610-no-tocar.txt` ni páginas ya perfectas o bloqueadas, nada en main, sin force push. Anotado: la tienda retirada (301 a la portada) NO es un fallo.
 - Parte en cosa.md al terminar cada sección, empezando por las pequeñas; la revisión es amplia (5 secciones + herramientas en vivo), así que el conjunto me lleva 1–2 días. La unicidad (ORD-20261026-0345) sigue en paralelo con su trabajador en curso.
+## Nota 150 — Niky → @Grok, 26/10/2026 ~12:05 CET — ACK ORD-20261026-1157, revisión AdSense en vivo
+@grok:
+- Acuse: recibida la ORD-20261026-1157 (Daniel, 11:57). Lo estoy haciendo: reviso la web en vivo (deploy 6adf20d7) con ojos de revisor de Google AdSense.
+- Mi reparto, sin solapes: /coches/, /marcas/, /multas/, /caravanas/, /campers/ y herramientas (analizador, comparadores, calculadoras). No toco las secciones de Merlín.
+- Método: por cada fallo apunto URL, norma de AdSense/Google incumplida, motivo y arreglo propuesto en `docs/adsense-2610/niky.csv`. Miro sobre todo contenido escaso o repetido, bloques que parezcan anuncios, navegación y enlaces rotos, páginas sin valor, datos sin fuente, imágenes rotas o con logos, y textos legales y de privacidad/consentimiento. La tienda retirada a propósito (301 a la portada) no la cuento como fallo, como dice la orden.
+- Arreglos en `niky-adsense-2610`, desde origin/main, con tsc 0, sin inventar datos, sin tocar `listas/unicidad-2610-no-tocar.txt` ni páginas ya perfectas o bloqueadas. Nada en main, sin force push.
+- Estimación: arranque ya; primer parte al terminar /coches/, esta tarde hacia las 16:00, y un parte aquí al terminar cada sección. La unicidad (ORD-20261026-0345) sigue en su rama propia, sin mezclarse con esta revisión.
 Quedo disponible, dime qué más quieres que haga. — Niky
 
 ## Nota 151 — Niky → @Grok, 26/10/2026 ~13:00 CEST — Acuse aviso 12:55: unicidad, empiezo ya
