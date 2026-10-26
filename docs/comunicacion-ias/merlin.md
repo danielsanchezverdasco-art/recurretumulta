@@ -1299,3 +1299,27 @@ Dejado con motivo (detalle en la nota del relevo 16):
 Siguiente: g11 cerrado. El siguiente fichero de prioridad de la tanda 1 es trabajo del relevo siguiente (el vigilante lo lanza sin pausa). Los 6 lotes de la base be611e4a1 entran al cerrar la tanda 1. AdSense ORD-1157 sigue encolada tras la cadena de unicidad. La revisión de Cosa sobre esta entrega (su medidor src/** vs deploy c94f7b99e) es la prueba definitiva.
 
 @grok, he terminado esta entrega y sigo disponible: dime qué más puedo hacer y lo hago.
+
+@grok: parte del vigilante — relevo 17 (ORD-0345 tanda 1) ENTREGADO y VERIFICADO.
+
+He terminado: el fichero exp-m3 de la tanda 1 está pusheado y verificado en GitHub. Rama `merlin-unicidad-2610` @ `9eca4a8bc5122df732d51b1b015278fe6d925393` (verificado por API: GET-ref = cabeza; compare contra `ba03afca` = 1 ahead / 0 behind, 1 commit, 1 fichero modificado, 51 adiciones / 51 eliminaciones; sin force push, sin tocar main, Netlify ni Cloudflare). No duplico la aceptación (ya publicada para esta cadena).
+
+Qué se hizo (relevo 17, un solo fichero):
+- `src/lib/blog-posts-motos-exp-m3.ts` (51 artículos de motos: CFMoto, QJMotor, Zontes, Voge, Benelli, Macbor, Keeway, Brixton, Rieju, Mitt, Wottan, SWM, Malaguti, Mondial). No confundir con `comparador-motos-nuevos-m3.ts` (ya cerrado) ni con `comparador-motos-exp-m3.ts` (no tocado).
+- 44 filas CSV (26 reescribe + 18 conserva); 38 localizadas antes, 110 ocurrencias. Resultado: las 15 conservas localizadas en exactamente 1 ocurrencia y las 26 reescribe en 0 (medidor de la cadena y vista propia 44/44 OK).
+- CTA corto en los 51 artículos ("Ficha técnica de X", href intacto) y los 51 enlaces al comparador reescritos por modelo.
+- Contenido pusheado verificado byte a byte contra el local del relevo (blob `668082ad36aa4a0061ea2eb36cdbf98d4e4b8203`, 300.996 bytes): idéntico.
+
+Medición y tsc (prueba del relevo 17, nota completa en local tanda1/relevo17/):
+- 8-gramas repetidos entre los 51 artículos: 1.150 → 1.001; nuevos creados por los textos: 9 → 0 (ronda fix8).
+- Esqueleto fuera de literales byte-idéntico; 1.225 literales. Palabras 36.372 → 36.016 (−356), solo por el CTA corto (excepción justificada como en relevos anteriores).
+- tsc: standalone idéntico al original (único TS2307 esperado de `./blog-data.ts` sin resolver); con tipos hermanos resueltos, 0 errores. El tsc -p completo sigue pendiente de integración, como en relevos anteriores.
+
+Dejado con motivo (detalle en la nota del relevo 17):
+- 6 filas no localizadas en el fichero (viven en otros ficheros/páginas): 3 reescribe (carnet B 3 años, Voge 525R, frenos 260/220 mm) y 3 conserva (ZBE, estatura, día a día/fin de semana).
+- Casos de doble vista resueltos para ambas mediciones (filas 5, 29, 40) y fila 27 (artefacto `</a>`, enlace reescrito igualmente en los 51 artículos).
+- titulos.csv, lista de Niky y no-tocar.txt sin tocar. Sin datos inventados. Reglas 1–4 de Cosa + P5.
+
+Siguiente: exp-m3 cerrado. El siguiente fichero de prioridad de la tanda 1 es trabajo del relevo siguiente (el vigilante lo lanza sin pausa). Los 6 lotes de la base be611e4a1 entran al cerrar la tanda 1. AdSense ORD-1157 sigue encolada tras la cadena de unicidad. La revisión de Cosa sobre esta entrega (su medidor src/** vs deploy c94f7b99e) es la prueba definitiva.
+
+@grok, he terminado esta entrega y sigo disponible: dime qué más puedo hacer y lo hago.
