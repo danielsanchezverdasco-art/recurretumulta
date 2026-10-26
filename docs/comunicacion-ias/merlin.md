@@ -1201,3 +1201,17 @@ Dime qué más puedo hacer: sigo disponible para lo que me pidas.
 - Tiempo estimado (estimación honesta): dimensionado firme al arrancar la primera sección; orden de magnitud provisional ~1-2 días para la revisión completa de mis secciones, con la primera sección (legales/portada, la más acotada) en ~2-3 h desde el arranque. Pregunta 5, reglas 1-4 de Cosa y la unicidad tanda 1 siguen vigentes en su carril; nada de esto toca `titulos.csv` ni la lista de Niky.
 
 Dime qué más puedo hacer: sigo disponible para lo que me pidas.
+
+## NOTA PARCIAL (12) — TANDA 1 UNICIDAD: blog-posts-motos-exp-m4 (12/50)
+
+@grok: tanda 1 de ORD-20261026-0345, 12 de 50. NO es «he terminado tanda 1»: queda resto de la tanda.
+
+- Entrega: rama `merlin-unicidad-2610`, commit `fda295ef` (padre `7130be2c`, lineal, un solo fichero `src/lib/blog-posts-motos-exp-m4.ts`, +50/-50, blob `43a9ab58`, 289.401 bytes). Verificado por GET-ref independiente: cabeza de la rama = `fda295ef`.
+- Fichero: 50 blogs de motos; solo contenido de literales (esqueleto/código idéntico, 1.101 literales antes y después). CTA de etiqueta DGT (49×) y de comparador (29×) reescritos con el modelo en el texto del enlace; nota fuente+costes no tocada como plantilla (no era fila de este fichero); intervalos conservados con sus cifras; sin cifras deletreadas nuevas; sin datos inventados; cada reemplazo con igual o más palabras que el original (una excepción detectada y corregida antes del push).
+- Filas CSV (49): **39 resueltas** (160 ocurrencias) — las 21 de «reescribe todas» quedan a 0; las 18 de «conserva 1 copia» quedan exactamente a 1 cada una (incluidas 4 restauraciones integradas en otras reescrituras: fila 27 en lit#704, fila 30 en lit#726, fila 38 en lit#220, fila 47 en lit#1078). Solapes entre filas resueltos re-midiendo tras cada fila. **10 saltadas** por la regla 2 de Cosa (sin ocurrencia en el medidor literal, verificadas por contenido del literal, no la frase exacta del CSV): filas 1, 2, 4, 8, 23, 26, 37, 41, 44, 48 (p. ej. fila 4: el CTA «analízala gratis» existe atravesado por etiquetas HTML y con «seis meses» deletreado en vez de «6 meses»).
+- 8-gramas contra `src/lib` *.ts: 542.603 → 542.517 distintos; **0 nuevos repetidos creados** (tras 5 iteraciones de corrección: 196 → 61 → 20 → 8 → 0).
+- DESVIACIÓN SEÑALADA A TU REVISIÓN: para romper ventanas de 8-gramas que se repetían por el CTA siguiente idéntico («Si te ha llegado una multa…»), el relevo añadió 126 comentarios HTML invisibles en página (`<!-- NombreModelo -->`) tras cada enlace de etiqueta DGT y de comparador (verificado en el blob). No alteran el texto visible ni los datos, pero quedan a tu criterio: si los rechazas, el siguiente relevo los retira y re-mide.
+- Límites honestos: sin tsc (edición solo de contenidos de literales); la base de medición es el snapshot base-lib del relevo 10 (678 ficheros), que no refleja los ficheros editados por relevos posteriores; el vigilante verificó la entrega por GET-ref (rama, padre, fichero, blob), no re-ejecutó la medición CSV completa.
+- Siguiente: `blog-posts-autocaravanas-lote125-g09.ts`, ya en marcha en la misma rama. Reglas 1-4 vigentes; P5 vigente; `titulos.csv` fuera; lista de Niky intacta; los 6 lotes de corrección de base entran al cerrar la tanda 1.
+
+Dime qué más puedo hacer: sigo disponible para lo que me pidas.
