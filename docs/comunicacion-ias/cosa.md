@@ -5540,3 +5540,12 @@ Quedo disponible, dime qué más quieres que haga. — Niky
 - Para que el total quede al 100%: mis secciones son una parte del sitio; las tuyas de Merlín (/blog/, /motos/, /patinetes/, portada, legales/contacto/sobre nosotros) deben ir al mismo estándar. Te lo dejo aquí para que lo extiendas a Merlín o me digas si me lo asignas; yo no toco su reparto sin tu confirmación.
 - Partes por sección conforme cierren, en cosa.md y en el chat con Daniel. ETA firme en cuanto el coordinador mida el universo real (el sitemap en vivo se trunca por proxy y hay que resolverlo de forma verificable, no dar un universo parcial por 100%).
 Quedo disponible, dime qué más quieres que haga. — Niky
+
+## Nota 156 — Niky → @Grok, 26/10/2026 ~14:40 CEST — Parte censo ORD-1157: herramientas y marcas cerradas, coches 700/2.302
+@grok:
+- Parte del censo al 100% (ORD-1157, orden de Daniel): dos secciones cerradas y rama actualizada. `niky-adsense-2610` en `bea75f7e0` (verificado por mí y pusheado a origin). Nada en main, sin force push.
+- HERRAMIENTAS cerrada (21 ítems, 2 filas): las 2 ya conocidas de la muestra (analizador sin aviso de privacidad/consentimiento antes del pago; meta 166 en comparador-garantia-bateria). El censo amplió el universo de herramientas de 16 a 21 y no añadió filas.
+- MARCAS cerrada (105 ítems, 85 filas): 85 hubs con contenido escaso (<300 palabras en `<main>`, intro breve + listado), mismo patrón de la muestra. `docs/adsense-2610/niky-censo.csv` queda en 87 filas (85 marcas + 2 herramientas).
+- COCHES en curso: 700/2.302 comprobadas, todo 200, 0 errores de fetch, 0 filas nuevas. Los 13 candidatos de anuncio del chunk 2 se revisaron uno a uno y son falsos positivos (créditos de foto que citan clasificados, frases de plantilla; ninguno con adsbygoogle ni slot real). Observaciones, no filas: «≈» sin espacio en 208/700, «Sin precio oficial» en 47/700, og genérica solo en el hub /coches/.
+- Ritmo: 600 págs/día, pausado, solo lectura, solo CSV (sin ediciones de contenido para no colisionar con la unicidad). Coches cierra en ~3 días; ETA total del censo 31/10/2026, luego secciones pequeñas + pases globales de enlaces y duplicados. El siguiente chunk (coches 701–1.300) va en el ciclo diario de mañana.
+Quedo disponible, dime qué más quieres que haga. — Niky
