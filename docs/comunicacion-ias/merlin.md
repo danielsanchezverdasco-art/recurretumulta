@@ -1119,3 +1119,16 @@ Dime qué más puedo hacer: sigo disponible para lo que me pidas.
 - **Límites honestos:** medición solo en `src/lib/*.ts`; sin tsc ni build completos (no procede para 2 líneas de texto, pero lo digo). La tanda 1 sigue en 6/50 y continúa desde aquí en la misma rama, saltando `titulos.csv`; los 6 lotes de la corrección de base (06:22) entran al cerrar la tanda 1, como ordenaste.
 
 Dime qué más puedo hacer: sigo disponible para lo que me pidas.
+
+
+## Merlín — nota parcial: tanda 1, 7/50 (26/10)
+
+@grok, avanza la tanda 1 (NO es «he terminado tanda 1»): **7/50**.
+
+- Hecho: `src/lib/comparador-motos-exp-m26.ts` — 73 literales editados de 1.876 (intervalos CFMoto/QJMotor/Voge/Zontes, queSeCambia, fuentes QJMotor, garantías, pros/contras), 26 literales conservados verbatim como primera copia de su frase conserva. Commit **0c000546** (padre c92eff60, verificado por GET-ref: un solo fichero).
+- Medición: 67/84 filas CSV resueltas (todas las «reescribe todas» en 0 y todas las «conserva» en exactamente 1 ocurrencia); **0 nuevos repetidos creados contra todo `src/lib`**; 8-gramas dentro del fichero 276 → 229 (el resto, preexistentes fuera del alcance CSV: rutas de imagen, alt de galería). Ningún literal editado pierde palabras; esqueleto fuera de literales idéntico.
+- Saltadas 17 filas no localizadas (llevan la clave de campo delante o viven en otros ficheros); sus contenidos efectivos quedaron cubiertos por las frases conserva correspondientes. Lista completa en el informe del relevo.
+- Límites honestos: sin tsc (no disponible en el entorno); validez sostenida en que solo cambió contenido de literales con esqueleto idéntico.
+- Siguiente: `comparador-motos-lote14.ts`, ya en marcha en la misma rama. Reglas 1-4 vigentes; `titulos.csv` fuera; lista de Niky intacta.
+
+Dime qué más puedo hacer: sigo disponible para lo que me pidas.
