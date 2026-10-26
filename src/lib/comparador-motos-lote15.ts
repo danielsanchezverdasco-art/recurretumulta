@@ -113,7 +113,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     contras: [
       "Precio de tarifa de 22.790 €: las campañas oficiales lo dejan por debajo",
       "Peso elevado para uso fuera del asfalto",
-      "El consumo se dispara si se aprovechan los 170 CV",
+      "Aprovechar los 170 CV dispara el consumo",
     ],
     curiosidades: [
       "Fue la primera moto del mundo con radar delantero y trasero.",
@@ -181,7 +181,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     aprox: [],
     pros: [
       "Sus 47,6 CV marcan justo el tope legal del carnet A2",
-      "Sus 175 kg le dan la mejor relación peso/potencia de la categoría",
+      "Con 175 kg, su relación peso/potencia es la mejor de la categoría",
       "Acelerador electrónico Ride-by-Wire con 3 modos de motor",
       "Bastidor de doble viga en aluminio, propio de motos grandes",
       "Estética RS con aletas aerodinámicas inspiradas en la RSV4",
@@ -189,7 +189,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     contras: [
       "Postura deportiva que cansa en ciudad",
       "Sin quickshifter de serie",
-      "La red de concesionarios es más reducida que la de las japonesas",
+      "La red de concesionarios queda por debajo de la de las japonesas",
     ],
     curiosidades: [
       "Su motor bicilíndrico se desarrolló desde cero para este modelo.",
@@ -369,7 +369,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/trail/moto-guzzi/a-2",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Tope de 10.000 km o 12 meses; el taller la programa antes de agotar el plazo",
+      intervalo: "10.000 km o 12 meses, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Primera revisión (1.500 km)",
@@ -445,7 +445,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://millatrece.com/mv-agusta-enduro-veloce-2026/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses; se adelanta la revisión a lo primero que se cumpla",
+      intervalo: "12.000 km o 12 meses; la revisión se adelanta al primero de ambos topes",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -673,7 +673,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/ktm",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Pauta de 15.000 km o 12 meses; la revisa el taller sin esperar al plazo",
+      intervalo: "El criterio es lo que ocurra antes: 15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1624,7 +1624,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "El bicilíndrico de 776 cc entrega 83 CV con tacto lleno",
+      "Con 83 CV, el bicilíndrico de 776 cc tiene un tacto lleno",
       "Quickshifter bidireccional con control de crucero incluido de serie",
       "3 años de garantía oficial Suzuki",
       "Homologable para el carnet A2",
@@ -1903,7 +1903,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "La Interceptor 650 se revisa cada 10.000 km o 12 meses según Royal Enfield; la marca no difunde el coste y su red oficial lo presupuesta",
+      fuente: "Según Royal Enfield, la Interceptor 650 pasa revisión cada 10.000 km o 12 meses; la marca no difunde el coste y su red oficial lo presupuesta",
     },
   },
 ];
