@@ -53,7 +53,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses (lo que llegue primero)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -157,7 +157,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
     pros: ["Suspensiones con 230 mm de recorrido delante y detrás y horquilla invertida de 48 mm totalmente regulable: en pista rota trabaja como una trail pensada para tierra, no como una asfáltica disfrazada de campera.", "El depósito de 22,5 litros va bajo y dividido en dos laterales, así que con el tanque lleno no se vuelve tan cabezona en maniobras lentas como sugiere esa capacidad sobre el papel.", "Quickshifter bidireccional, embrague antirrebote e IMU Bosch de seis ejes con ABS en curva forman parte del paquete de la X, sin tener que pasar por la lista de opciones para lo esencial fuera del asfalto.", "Pantalla TFT vertical de 7 pulgadas con conectividad y control de crucero: en el enlace por autovía entre dos pistas se comporta como moto de viaje, no solo como juguete de fin de semana.", "Con 9.995 euros en esta ficha de 2026 queda por debajo de trail medias europeas y japonesas de planteamiento parecido, y aun así existe la posibilidad de limitarla para el carnet A2."],
-    contras: ["Sus 220 kg en orden de marcha se notan al levantarla tras una caída en una trialera o al moverla en parado dentro de un garaje estrecho.", "En la configuración de suspensiones largas el asiento sube hasta los 870 mm según las fichas publicadas: quien no llegue bien al suelo debería probarla con calma, y a ser posible cargada, antes de comprarla.", "Limitada para el A2 pierde parte de su gracia: son 95 CV pensados para el carnet A, y la limitación suma trámite y coste sobre el precio de compra.", "La red comercial de CFMoto en España sigue siendo más corta que la de Honda o Yamaha; en una ruta larga por zonas poco pobladas, encontrar un concesionario cercano no siempre es igual de fácil."],
+    contras: ["Sus 220 kg en orden de marcha se dejan notar al levantarla tras una caída en una trialera o al moverla en parado dentro de un garaje estrecho.", "En la configuración de suspensiones largas el asiento sube hasta los 870 mm según las fichas publicadas: quien no llegue bien al suelo debería probarla con calma, y a ser posible cargada, antes de comprarla.", "Limitada para el A2 pierde parte de su gracia: son 95 CV pensados para el carnet A, y la limitación suma trámite y coste sobre el precio de compra.", "La red comercial de CFMoto en España continúa siendo más breve que la de Honda o Yamaha; en una ruta larga por zonas poco pobladas, encontrar un concesionario cercano no siempre es igual de fácil."],
     curiosidades: ["El bicilíndrico de 799 cc desciende del LC8c que CFMoto desarrolla y fabrica en colaboración con KTM, de ahí el parecido de su depósito bajo y dividido con el de la 790 Adventure austriaca.", "Admite como accesorio depósitos traseros adicionales de 8 litros por lado, pensados para travesías en las que la siguiente gasolinera queda realmente lejos."],
     imagen: "/media/cfmoto-800mt-x-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -183,16 +183,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses; rige lo primero que llegue",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + revisión general y aprietes",
           costeAproxEur: 130,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + filtro del aire + bujía (según km) + inspección general",
           costeAproxEur: 200,
         },
       ],
@@ -248,16 +248,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses; manda lo primero que llegue",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + control general y reapriete",
           costeAproxEur: 130,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro del aceite + filtro de aire + bujía (según km) + revisión general",
           costeAproxEur: 200,
         },
       ],
@@ -313,16 +313,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses; vence lo primero que llegue",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite 10W-40 + filtro del aceite + inspección general y aprietes",
           costeAproxEur: 130,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro del aceite + filtro del aire + bujía (según km) + revisión general",
           costeAproxEur: 200,
         },
       ],
@@ -351,7 +351,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: ["Parabrisas con servomotor eléctrico y puños calefactables regulables de serie: en un maxiscooter de 4.488 € no hay que pagar packs para salir a carretera en invierno", "El depósito de 16 litros va en el túnel central y, con el consumo declarado de 3,5 l/100 km, espacía mucho las paradas en trayectos interurbanos y de circunvalación", "El monocilíndrico de 349 cc entrega 38 Nm a 6.000 rpm y ofrece modos Eco y Sport desde la piña derecha, algo poco habitual en un GT de acceso al A2", "La TFT no es solo un cuadro bonito: con la conectividad activada muestra llamadas entrantes, permite elegir música y ofrece navegación abreviada o espejo de la pantalla del móvil", "Freno delantero J.Juan con pinza radial y disco de 268 mm, con ABS de doble canal y control de tracción para firmes de baja adherencia"],
+    pros: ["Parabrisas con servomotor eléctrico y puños calefactables regulables de serie: en un maxiscooter de 4.488 € no hay que pagar packs para salir a carretera en invierno", "El depósito de 16 litros va en el túnel central y, con el consumo declarado de 3,5 l/100 km, espacía mucho las paradas en trayectos interurbanos y de circunvalación", "El monocilíndrico de 349 cc entrega 38 Nm a 6.000 rpm y ofrece modos Eco y Sport desde la piña derecha, algo poco habitual en un GT de acceso al A2", "La TFT no es solo un cuadro bonito: con la conectividad activada muestra llamadas entrantes, permite elegir música y ofrece navegación abreviada o espejo de la pantalla del móvil", "Freno delantero J.Juan con pinza radial y disco de 268 mm, con ABS de doble canal junto a control de tracción para firmes de baja adherencia"],
     contras: ["Son 182 kg en seco, y se notan al moverlo a pulso en garajes estrechos o al maniobrar entre coches aparcados, aunque suba al caballete sin gran esfuerzo", "El parabrisas eléctrico solo tiene dos posiciones, sin intermedias: según la talla del piloto, la posición ideal puede quedar justo entre una y otra", "Exige el carnet A2 sí o sí; quien venga del coche con el permiso B y tres años de experiencia no puede conducirlo legalmente en España", "Los neumáticos CST radiales de serie son el punto que las pruebas señalan a mejorar en el primer cambio de gomas, sobre todo si se rueda mucho en mojado"],
     curiosidades: ["La llave inteligente PKE de Zontes puede llevarse en forma de pulsera, sin necesidad de sacar ningún mando del bolsillo para arrancar o abrir el asiento", "Viene preinstalado para montar cámaras de vídeo delantera y trasera y grabar las rutas, y monta de serie sensor de presión y temperatura de los neumáticos"],
     imagen: "/media/zontes-350e-2025-ficha-tecnica-precio-oficial.webp",
@@ -381,16 +381,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 12 meses; rige lo que antes venza",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite 10W-40 + filtro del aceite + revisión general y aprietes",
           costeAproxEur: 120,
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + inspección general + bujía (según km)",
           costeAproxEur: 190,
         },
       ],
@@ -449,16 +449,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 12 meses; manda lo que antes venza",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite 10W-40 + filtro del aceite + control general y reapriete",
           costeAproxEur: 120,
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + revisión general + bujía (según km)",
           costeAproxEur: 190,
         },
       ],
@@ -488,7 +488,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
     pros: ["Frente a un Yamaha XMAX 300 o un Honda Forza 350, su argumento inicial es claro: prestaciones de categoría superior sin disparar la factura de compra, desde 4.592 €", "El motor de 367,6 cc entrega 38,8 CV, una reserva pensada tanto para incorporarse con soltura a vías rápidas como para rodar con pasajero sin ir justo", "Con un gasto declarado que se mueve entre 3,4 y 3,5 l/100 km y un depósito de 17 litros, los repostajes se espacian mucho en desplazamientos diarios por carretera", "Quien llega justo al suelo agradecerá un asiento situado a 770 mm, una cota amable para un scooter de este porte cuando toca maniobrar entre coches", "La cobertura oficial alcanza los 5 años, un respaldo poco habitual en este segmento que suma tranquilidad al elegir una marca todavía en crecimiento"],
-    contras: ["En parado se nota voluminoso: rondando los 180 kg, desplazarlo a pulso en un garaje estrecho exige más maña que en un scooter ligero", "No podrás llevarlo únicamente con el permiso B: esos 38,8 CV lo colocan de lleno en territorio A2, requisito que descarta a muchos conductores de coche", "Sus dimensiones juegan en contra al filtrar entre filas de coches parados o al buscar hueco para aparcar en calles muy saturadas", "La propia ficha carece de peso oficial en orden de marcha publicado, así que cualquier comparación rigurosa frente a un Kymco X-Town queda incompleta", "La cobertura de talleres todavía está creciendo en España, por lo que conviene comprobar qué servicio oficial te queda cerca antes de decidirte"],
+    contras: ["En parado se nota voluminoso: rondando los 180 kg, desplazarlo a pulso en un garaje estrecho exige más maña que en un scooter ligero", "Únicamente con el permiso B no podrás llevarlo: esos 38,8 CV lo colocan de lleno en territorio A2, requisito que descarta a muchos conductores de coche", "Sus dimensiones juegan en contra al filtrar entre filas de coches parados o al buscar hueco para aparcar en calles muy saturadas", "La propia ficha carece de peso oficial en orden de marcha publicado, así que cualquier comparación rigurosa frente a un Kymco X-Town queda incompleta", "La cobertura de talleres todavía está creciendo en España, por lo que conviene comprobar qué servicio oficial te queda cerca antes de decidirte"],
     curiosidades: ["Comparte apellido y planteamiento con el 368G de espíritu aventurero, pero esta declinación K renuncia a esa orientación para centrarse en el asfalto y los trayectos cotidianos", "La receta habitual de la casa china consiste en llenar la dotación de serie mucho más de lo esperable en su franja de precio, y este modelo sigue ese guion al pie de la letra", "Entre esa dotación figura una instrumentación TFT capaz de enlazarse con tu teléfono, algo que varios rivales directos reservan a versiones superiores o a la lista de opciones"],
     imagen: "/media/zontes-368k-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -517,16 +517,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 12 meses; vence lo que antes venza",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite 10W-40 + filtro de lubricante + inspección general y aprietes",
           costeAproxEur: 120,
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + filtro del aire + inspección general + bujía (según km)",
           costeAproxEur: 190,
         },
       ],
@@ -585,16 +585,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 12 meses; impera lo primero que llegue",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite 10W-40 + filtro de lubricante + revisión general y aprietes",
           costeAproxEur: 120,
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + filtro del aire + revisión general + bujía (según km)",
           costeAproxEur: 190,
         },
       ],
@@ -650,16 +650,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses; impera lo que antes venza",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite 10W-40 + filtro de lubricante + control general y reapriete",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + bujía (según km) + filtro de aire + inspección general",
           costeAproxEur: 220,
         },
       ],
@@ -715,16 +715,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses; decide lo primero que llegue",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Lubricante 10W-40 + filtro de aceite + inspección general con aprietes",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + bujía (según kilometraje) + filtro de aire + inspección general",
           costeAproxEur: 220,
         },
       ],
@@ -753,7 +753,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: ["El radar trasero es su firma en esta ficha de 2026: detecta vehículos en el ángulo muerto y avisa de una posible colisión, una ayuda que en un scooter de 349 cc todavía no dan sus rivales directos del A2.", "Bajo el asiento quedan 41 litros, espacio para dos cascos —uno de ellos integral— según Voge, así que el trayecto diario al trabajo no obliga a montar baúl trasero.", "Pantalla TFT a color de 7 pulgadas con presión de neumáticos y navegación giro a giro, cámara frontal HD que se activa desde el manillar y arranque sin llave: el puesto de conducción es de GT grande, no de 350.", "Confort de invierno sin pasar por opciones: parabrisas de altura regulable eléctricamente, puños y asiento calefactables y freno de mano, todo de serie en la SR4 Max.", "Sus 34 CV (25 kW) de monocilíndrico de 349 cc llenan el carnet A2 sin limitación, y los 5.892 euros de esta ficha incluyen, según la presentación del modelo Radar, seguro y cinco años de garantía."],
+    pros: ["El radar trasero es su firma en esta ficha de 2026: detecta vehículos en el ángulo muerto y avisa de una posible colisión, una ayuda que en un scooter de 349 cc todavía no dan sus rivales directos del A2.", "Bajo el asiento quedan 41 litros, espacio para dos cascos —uno de ellos integral— según Voge, así que el trayecto diario al trabajo no obliga a montar baúl trasero.", "Pantalla TFT en color de 7 pulgadas con presión de neumáticos y navegación giro a giro, cámara frontal HD que se activa desde el manillar y arranque sin llave: el puesto de conducción es de GT grande, no de 350.", "Confort de invierno sin pasar por opciones: parabrisas de altura regulable eléctricamente, puños y asiento calefactables y freno de mano, todo de serie en la SR4 Max.", "Sus 34 CV (25 kW) de monocilíndrico de 349 cc llenan el carnet A2 sin limitación, y los 5.892 euros de esta ficha incluyen, según la presentación del modelo Radar, seguro y cinco años de garantía."],
     contras: ["213 kg en orden de marcha: en marcha no se disimulan mal, pero moverla a pulso en un garaje estrecho o en cuesta es el peaje diario de tanto equipamiento.", "5.892 euros es dinero de scooter grande para un 350: la factura solo se entiende si de verdad vas a usar el radar, la calefacción y la TFT, no si buscas un A2 barato.", "La ficha no declara consumo ni autonomía, y con un depósito de 12,8 litros citado en las fichas técnicas del modelo no es la compañera de los que encadenan cientos de kilómetros sin parar.", "Mide 2.185 mm de largo con 1.565 mm entre ejes según esas mismas fichas: es planteamiento GT para carretera y rondas, no el scooter corto y ratonero que se cuela entre coches parados."],
     curiosidades: ["No es solo inspiración BMW: según la prensa del lanzamiento, Loncin fabrica la totalidad del scooter BMW C400, y ese proyecto conjunto es la base sobre la que Voge desarrolló su propio SR4 Max.", "El trazo no salió de un departamento genérico: la prensa especializada atribuye el diseño del SR4 Max al italiano Massimo Zaniboni, autor de sus faros full LED estrechos y verticales."],
     imagen: "/media/voge-sr4-max-2026-ficha-tecnica-precio-oficial.webp",
@@ -780,16 +780,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses; limita lo primero que llegue",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Lubricante 10W-40 + filtro del aceite + inspección general con aprietes",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro del aceite + bujía (según km) + filtro de aire + revisión general",
           costeAproxEur: 220,
         },
       ],
@@ -845,16 +845,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses; marca lo primero que llegue",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Lubricante 10W-40 + filtro de lubricante + inspección general con aprietes",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro del aceite + bujía (según kilometraje) + filtro de aire + revisión general",
           costeAproxEur: 220,
         },
       ],
@@ -910,16 +910,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses; establece lo primero que llegue",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite 10W40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Lubricante + filtro de aceite + bujía (según km) + filtro del aire + inspección general",
           costeAproxEur: 220,
         },
       ],
@@ -948,8 +948,8 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: ["Parte ciclo con apellidos italianos y alemanes: horquilla Marzocchi de 43 mm regulable en precarga, compresión y extensión, pinzas Brembo radiales de cuatro pistones sobre discos delanteros de 320 mm y ABS Bosch 9.1", "El bicilíndrico de 698 cc entrega el par máximo, 67 Nm, a 6.000 rpm: en esta SRT 700 2026 eso significa recuperar a dúo sin tener que vivir pegado a la zona alta del cuentavueltas", "Postura de trail con los pies más cerca del suelo que en su hermana de campo: asiento a 795 mm y llantas de aleación de 17 pulgadas en los dos ejes, que agilizan la dirección en puertos y rotondas", "Viene vestida para viajar sin pasar por el catálogo de extras: puños y asiento calefactables, pantalla TFT de 5 pulgadas con conectividad y mirroring, cubremanos, defensas laterales y piñas retroiluminadas", "Precio anotado en ficha para 2026 de 6.299 € frente a un PVP de 6.999 €, y con versión limitada a 35 kW para quien todavía circula con el A2 y no quiere cambiar de moto al sacarse el A"],
-    contras: ["Electrónica escueta para una viajera de este precio: más allá del ABS no hay modos de conducción ni ayudas ajustables, y el embrague carece de antirrebote, algo que se nota al bajar marchas con alegría", "235 kg en orden de marcha según la ficha especializada del modelo: en parado, en garaje y entre coches en ciudad toca empujar con calma; no es la trail media más ligera del escaparate", "Su terreno es el asfalto y solo el asfalto: llantas de 17 pulgadas y neumáticos Pirelli Gran Turismo dejan la pista de tierra como anécdota ocasional; para campo de verdad QJMotor ya vende la 700X de radios", "En segunda mano lo tendrá más difícil que una trail japonesa equivalente: QJMotor es aún una marca joven en España y su valor de reventa y su demanda de usadas están todavía en despliegue"],
+    pros: ["Parte ciclo con apellidos italianos y alemanes: horquilla Marzocchi de 43 mm regulable en precarga, compresión y extensión, pinzas Brembo radiales de cuatro pistones sobre discos delanteros de 320 mm y ABS Bosch 9.1", "El bicilíndrico de 698 cc entrega el par máximo, 67 Nm, a 6.000 rpm: en esta SRT 700 2026 eso significa recuperar a dúo sin tener que vivir pegado a la zona alta del cuentavueltas", "Postura de trail con los pies más cerca del suelo que en su hermana de campo: asiento a 795 mm y llantas de aleación de 17 pulgadas en los dos ejes, que agilizan la dirección en puertos y rotondas", "Viene vestida para viajar sin pasar por el catálogo de extras: puños y asiento calefactables, display TFT de 5 pulgadas con conectividad y mirroring, cubremanos, defensas laterales y piñas retroiluminadas", "Precio anotado en ficha para 2026 de 6.299 € frente a un PVP de 6.999 €, y con versión limitada a 35 kW para quien todavía circula con el A2 y no quiere cambiar de moto al sacarse el A"],
+    contras: ["Electrónica escueta para una viajera de este precio: más allá del ABS no hay modos de conducción ni ayudas ajustables, y el embrague carece de antirrebote, algo que se nota al bajar marchas con alegría", "235 kg en orden de marcha conforme a la ficha especializada de este modelo: en parado, en garaje y entre coches en ciudad toca empujar con calma; no es la trail media más ligera del escaparate", "Su terreno es el asfalto y solo el asfalto: llantas de 17 pulgadas y neumáticos Pirelli Gran Turismo dejan la pista de tierra como anécdota ocasional; para campo de verdad QJMotor ya vende la 700X de radios", "En segunda mano lo tendrá más difícil que una trail japonesa equivalente: QJMotor es aún una marca joven en España y su valor de reventa y su demanda de usadas están todavía en despliegue"],
     curiosidades: ["En la renovación Euro5+ abandonó la salida de escape baja junto al basculante y adoptó el 2 en 1 alto por el subchasis de su hermana de campo, la SRT 700X: es la forma más rápida de distinguirla de la primera SRT 700", "Nació al revés que muchas trail: primero llegó a España la versión de campo, la 700X, en mayo de 2023, y meses después QJMotor sacó esta variante de carretera apoyándose en que la preventa de la X había funcionado bien"],
     imagen: "/media/fotos-reales/qjmotor-srt-700-2026-ficha-tecnica-precio/qjmotor-srt-700-2026-ficha-tecnica-precio-real-0.webp",
     galeria: [
@@ -975,16 +975,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o un año; rige lo primero que llegue",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite 10W40 + filtro de aceite + revisión general y aprietes",
           costeAproxEur: 130,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Lubricante + filtro de aceite + bujía (según kilometraje) + filtro del aire + inspección general",
           costeAproxEur: 210,
         },
       ],
@@ -1040,16 +1040,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o un año; manda lo primero que llegue",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite 10W40 + filtro de aceite + inspección general con aprietes",
           costeAproxEur: 130,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Lubricante + filtro del aceite + bujía (según km) + filtro del aire + revisión general",
           costeAproxEur: 210,
         },
       ],
@@ -1078,9 +1078,9 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: ["Sistema microhíbrido que echa una mano solo al arrancar: en semáforos y salidas desde parado la ATR 125 2026 responde con más inmediatez que un 125 de gasolina sin ayuda eléctrica", "Pantalla TFT de 5 pulgadas con mirroring del móvil, control de tracción, ABS de doble canal, TPMS y luz de freno automática ABL: un paquete de seguridad impropio de un scooter de 3.199 euros", "Con 15 CV toca el techo que permite el carnet A1 y el B con tres años de antigüedad, pero pesa solo 140 kg en orden de marcha, así que moverla entre coches o aparcarla no exige experiencia", "Viene de serie con top case capaz de guardar un casco integral, mientras bajo el asiento queda hueco para un casco jet: sales del concesionario lista para ir a trabajar sin comprar accesorios", "Seis años de garantía con tope de 50.000 km y, en la promoción de 2026, matrícula y seguro a terceros del primer año incluidos en los 3.199 euros"],
+    pros: ["Sistema microhíbrido que echa una mano solo al arrancar: en semáforos y salidas desde parado la ATR 125 2026 responde con más inmediatez que un 125 de gasolina sin ayuda eléctrica", "Pantalla TFT de 5 pulgadas con duplicación de pantalla del móvil, control de tracción, ABS de doble canal, TPMS y luz de freno automática ABL: un paquete de seguridad impropio de un scooter de 3.199 euros", "Con 15 CV toca el techo que permite el carnet A1 y el B con tres años de antigüedad, pero pesa solo 140 kg en orden de marcha, así que moverla entre coches o aparcarla no exige experiencia", "Viene de serie con top case capaz de guardar un casco integral, mientras bajo el asiento queda hueco para un casco jet: sales del concesionario lista para ir a trabajar sin comprar accesorios", "Seis años de garantía con tope de 50.000 km y, en la promoción de 2026, matrícula y seguro a terceros del primer año incluidos en los 3.199 euros"],
     contras: ["No es un híbrido al uso: no se mueve ni un metro solo con electricidad, porque el apoyo eléctrico se limita a las arrancadas y el resto del trayecto lo hace todo el monocilíndrico de gasolina", "El hueco bajo el asiento solo admite un casco jet; si llevas un integral dependes siempre del top case trasero, con lo que eso supone al aparcar en huecos justos", "Los 15 CV llegan a 8.750 rpm y los 12 Nm a 8.250 rpm: para sacar lo mejor hay que llevarla alta de vueltas, y en vías rápidas con pasajero el margen para adelantar es escaso", "Mantener los seis años de garantía obliga a hacer las revisiones en la red oficial QJMotor con recambio original, una red todavía más pequeña en España que la de Honda o Yamaha"],
-    curiosidades: ["QJMotor la presentó como el primer crossover de 125 con sistema microhíbrido, una solución que en la propia marca ya había estrenado antes el scooter MTX 125", "Su luz de freno no se limita a responder a la maneta: en una frenada brusca el sistema ABL la activa automáticamente para avisar a quien viene detrás, un detalle más habitual en coches que en un 125"],
+    curiosidades: ["QJMotor la presentó como el primer crossover de 125 con sistema microhíbrido, una solución que en la propia marca ya había estrenado antes el scooter MTX 125", "Su luz de freno no se limita a responder a la maneta: en una frenada brusca el sistema ABL la activa automáticamente para alertar a quien viene detrás, un detalle más habitual en coches que en un 125"],
     imagen: "/media/fotos-reales/qjmotor-atr-125-2026-ficha-tecnica-precio/qjmotor-atr-125-2026-ficha-tecnica-precio-real-0.webp",
     galeria: [
       {
@@ -1105,16 +1105,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o un año; vence lo primero que llegue",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite 10W40 + filtro de aceite + control general y reapriete",
           costeAproxEur: 130,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Lubricante + filtro del aceite + bujía (según kilometraje) + filtro del aire + revisión general",
           costeAproxEur: 210,
         },
       ],
@@ -1170,16 +1170,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o un año; impera lo primero que llegue",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite 10W40 + filtro del aceite + inspección general y aprietes",
           costeAproxEur: 130,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + bujía (según km) + inspección general + filtro de aire",
           costeAproxEur: 210,
         },
       ],
@@ -1235,16 +1235,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o un año; decide lo primero que llegue",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite 10W40 + filtro del aceite + revisión general y aprietes",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + bujía (según km) + revisión general + filtro de aire",
           costeAproxEur: 230,
         },
       ],
@@ -1300,16 +1300,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o un año; limita lo primero que llegue",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite 10W40 + filtro del aceite + inspección general con aprietes",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + bujía (según kilometraje) + inspección general + filtro de aire",
           costeAproxEur: 230,
         },
       ],
@@ -1338,8 +1338,8 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: ["Motor de carrera larga —72,7 × 90 mm— que entrega sus 29 Nm a solo 4.500 rpm: en la Imperiale 400 de 2025 no hace falta estirar marchas para salir con soltura de un semáforo o de una rotonda", "Consumo homologado de 3,1 l/100 km en la versión Euro 5 y depósito de 12 litros: la combinación está pensada para espaciar los repostajes en el uso diario, no para perseguir cifras de potencia", "Asiento a 780 mm sobre un conjunto de tamaño contenido —2.170 mm de largo según las pruebas del modelo—: se llega al suelo con los dos pies, algo que en una moto de 205 kg se agradece maniobrando en parado", "Caballete central de serie junto a la pata lateral, detalle cada vez más raro en 2025 y muy práctico para tensar y engrasar la cadena en casa sin caballete auxiliar", "Precio de ficha de 4.450 € para una A2 con ABS de doble canal, discos de 300 mm delante y 240 mm detrás y llantas de radios de 19 y 18 pulgadas: el equipamiento de seguridad no se quedó en la Euro 4"],
-    contras: ["21 CV para mover 205 kg según la ficha: en incorporaciones a vía rápida y adelantamientos en carretera abierta hay que planificar con tiempo, porque el margen de empuje es corto", "Doble amortiguador trasero con solo 55,5 mm de recorrido en la ficha técnica: fiel a la estética de los años cincuenta, pero seco ante baches seguidos y juntas de dilatación", "Sin ayudas más allá del ABS: no hay control de tracción, modos de conducción ni una pantalla completa; la información va en dos esferas analógicas con pequeños insertos digitales", "El monocilíndrico refrigerado por aire y el cambio de cinco velocidades transmiten el carácter —y las vibraciones— de una mecánica de otra época cuando se mantiene un ritmo alto de forma sostenida"],
+    pros: ["Motor de carrera larga —72,7 × 90 mm— que entrega sus 29 Nm a solo 4.500 rpm: en la Imperiale 400 de 2025 no hace falta estirar marchas para salir con soltura de un semáforo o de una rotonda", "Consumo homologado de 3,1 l/100 km en la versión Euro 5 y depósito de 12 litros: la combinación está pensada para espaciar los repostajes en el uso diario, no para perseguir cifras de potencia", "Asiento a 780 mm sobre un conjunto de tamaño contenido —2.170 mm de largo según las pruebas del modelo—: se llega al suelo con los dos pies, algo que en una moto de 205 kg se agradece maniobrando en parado", "Caballete central de serie junto a la pata lateral, detalle cada vez más raro en 2025 y muy práctico para tensar y engrasar la cadena en casa sin caballete auxiliar", "Precio de ficha de 4.450 € para una A2 con ABS de doble canal, discos de 300 mm delante y 240 mm detrás y llantas radiadas de 19 y 18 pulgadas: el equipamiento de seguridad no se quedó en la Euro 4"],
+    contras: ["21 CV para mover 205 kg según la ficha: en incorporaciones a vía rápida y adelantamientos en carretera abierta hay que planificar con tiempo, porque el margen de empuje es corto", "Doble amortiguador trasero con solo 55,5 mm de recorrido en la ficha técnica: fiel a la estética de los años cincuenta, pero seco ante baches seguidos y juntas de dilatación", "Sin ayudas más allá del ABS: no hay control de tracción, programas de conducción ni una pantalla completa; la información va en dos esferas analógicas con pequeños insertos digitales", "El monocilíndrico refrigerado por aire y el cambio de cinco velocidades transmiten el carácter —y las vibraciones— de una mecánica de otra época cuando se mantiene un ritmo alto de forma sostenida"],
     curiosidades: ["El nombre no es un invento de marketing reciente: las Imperiale originales eran MotoBi, la marca que Giuseppe Benelli fundó en 1950 tras abandonar la empresa familiar, y que Benelli acabó comprando en 1962", "El mimo retro llega a los grabados: según la prueba de Motofichas, la Imperiale lleva el león de Benelli hasta en una tapa sobre el cilindro y el logo repetido en puños, torreta y en la parte trasera del asiento del pasajero"],
     imagen: "/media/benelli-imperiale-400-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -1365,16 +1365,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o un año; marca lo primero que llegue",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite 10W40 + filtro del aceite + control general y reapriete",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + bujía (según kilometraje) + revisión general + filtro de aire",
           costeAproxEur: 230,
         },
       ],
@@ -1430,16 +1430,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o un año; establece lo primero que llegue",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite 10W40 + filtro de lubricante + inspección general y aprietes",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro del aceite + bujía (según km) + inspección general + filtro del aire",
           costeAproxEur: 230,
         },
       ],
@@ -1495,16 +1495,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 1 año; rige lo primero que llegue",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite 10W40 + filtro de lubricante + revisión general y aprietes",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro del aceite + bujía (según km) + revisión general + filtro del aire",
           costeAproxEur: 230,
         },
       ],
@@ -1533,7 +1533,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: ["En 2025 sigue en 2.690 € según esta ficha: es el argumento de la RKF, una naked con marchas y estética streetfighter sin saltar a los precios de una 125 europea o japonesa", "Sus 13 CV (9,6 kW) la dejan a 2 CV del techo legal del A1, así que dentro de las Keeway 125 no es la opción recortada: es la que más se acerca a exprimir el carnet", "Se puede llevar con el A1 o con el B con tres años de antigüedad y lleva etiqueta C y dos plazas, justo el perfil de quien deja el scooter pero quiere moto de verdad para diario", "El mantenimiento declarado es asumible de verdad: primera revisión a los 1.000 km y después cada 4.000 km o 12 meses, con un coste anual aproximado de 160 € según el manual citado en la ficha", "Al mantener en 2025 las llantas de aleación de 17 pulgadas, con 100/80 delante y 130/70 detrás, no obliga a medidas raras ni caras cuando toca cambiar neumáticos"],
+    pros: ["En 2025 sigue en 2.690 € según esta ficha: es el argumento de la RKF, una naked con marchas y estética streetfighter sin saltar a los precios de una 125 europea o japonesa", "Sus 13 CV (9,6 kW) la dejan a 2 CV del techo legal del A1, así que dentro de las Keeway 125 no es la opción recortada: es la que más se acerca a exprimir el carnet", "Se puede llevar con el A1 o con el carné B con tres años de antigüedad y lleva etiqueta C y dos plazas, justo el perfil de quien deja el scooter pero quiere moto de verdad para diario", "El mantenimiento declarado es asumible de verdad: revisión inicial al primer millar de km y después cada 4.000 km o 12 meses, con un coste anual aproximado de 160 € según el manual citado en la ficha", "Al mantener en 2025 las llantas de aleación de 17 pulgadas, con 100/80 delante y 130/70 detrás, no obliga a medidas raras ni caras cuando toca cambiar neumáticos"],
     contras: ["La de 2025 no estrena diseño: Keeway la presentó conservando sin variaciones la estética anterior, así que quien busque novedad visual frente a una RKF de años pasados no la va a encontrar aquí", "13 CV dan para ciudad y rondas con margen, pero en vías rápidas cada adelantamiento hay que planearlo: no hay reserva de potencia si el trayecto habitual incluye mucha carretera abierta", "La propia ficha advierte de acabados básicos y de un asiento duro; en una moto pensada para uso diario, ese asiento se nota más en la vuelta a casa que en la foto del catálogo", "Ojo al cerrar la compra: la ficha indica que hay versiones sin ABS, así que conviene confirmar por escrito qué monta la unidad concreta de 2025 que te entregan, no darlo por hecho"],
     curiosidades: ["La RKF 125 nació como respuesta barata a la KTM 125 Duke: en su presentación de 2018 costaba 2.799 € frente a los 4.499 € que Motofichas citaba entonces para la austriaca", "Su prima de presentación fue la Benelli BN 125: ambas se mostraron juntas en 2018 como el doble ataque en 125 de marchas del grupo Qianjiang, cada una con una personalidad naked distinta"],
     imagen: "/media/fotos-reales/keeway-rkf-125-2025-ficha-tecnica-precio/keeway-rkf-125-2025-ficha-tecnica-precio-real-0.webp",
@@ -1560,7 +1560,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervalo: "4.000 km o 12 meses (primera revisión al alcanzar los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1569,7 +1569,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro del aceite + bujía (según kilometraje) + inspección general + filtro del aire",
           costeAproxEur: 150,
         },
       ],
@@ -1598,7 +1598,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: ["Precio desde 2.490 € en esta ficha 2025: una de las formas más baratas de estrenar una custom de 125 cc con marchas en España.", "Se puede llevar con el carnet A1 y también con el B con más de tres años de experiencia, según la ficha, lo que amplía mucho su público.", "Custom moderna y diferenciada: frente a la Superlight, más clásica y cromada, la K-Light apuesta por una silueta musculosa, escape corto e instrumentación digital de una sola esfera.", "Mantenimiento claro y contenido: primera revisión a los 1.000 km y después cada 4.000 km o 12 meses, con coste anual aproximado de 160 € recogido en la ficha.", "Etiqueta C de la DGT y planteamiento pensado para ciudad y paseos tranquilos, sin complicaciones electrónicas innecesarias."],
+    pros: ["Precio desde 2.490 € en esta ficha 2025: una de las vías más económicas de estrenar una custom de 125 cc con marchas en España.", "Se puede llevar con el carnet A1 y también con el B con más de tres años de experiencia, según la ficha, lo que amplía mucho su público.", "Custom moderna y diferenciada: frente a la Superlight, más clásica y cromada, la K-Light apuesta por una silueta musculosa, escape corto e instrumentación digital de una sola esfera.", "Mantenimiento claro y contenido: revisión inicial a los 1.000 km y luego cada 4.000 km o al año, con un coste anual aproximado de 160 € recogido en la ficha.", "Etiqueta C de la DGT y planteamiento pensado para ciudad y paseos tranquilos, sin complicaciones electrónicas innecesarias."],
     contras: ["Con 10,6 CV está en la parte baja de las 125: en vías rápidas y adelantamientos hay que planificar con margen, no es una moto para viajar cargado.", "No lleva ABS: recurre a frenada combinada entre ambos discos al accionar el pedal, una solución más básica que exige anticipación al frenar.", "La segunda plaza es más un recurso para trayectos cortos que una invitación a viajar a dúo; en salidas largas el pasajero lo notará.", "Acabados y equipamiento acordes a su precio: quien busque conectividad, ayudas electrónicas o materiales de gama superior tendrá que mirar más arriba."],
     curiosidades: ["Monta una combinación poco habitual en una 125: llanta de 17 pulgadas delante y de 15 pulgadas detrás, con un neumático trasero ancho que refuerza su imagen custom.", "Comparte mecánica con la Superlight 125, pero se distingue por detalles como los amortiguadores traseros con botella de gas separada y el soporte de matrícula sobre la rueda trasera."],
     imagen: "/media/fotos-reales/keeway-k-light-125-2025-ficha-tecnica-precio/keeway-k-light-125-2025-ficha-tecnica-precio-real-0.webp",
@@ -1625,16 +1625,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervalo: "4.000 km o 12 meses, con primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + revisión general y aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro del aceite + bujía (según kilometraje) + revisión general + filtro del aire",
           costeAproxEur: 150,
         },
       ],
@@ -1690,16 +1690,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervalo: "4.000 km o 12 meses; la primera revisión llega a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general con aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + inspección general + filtro de aire + bujía (según km)",
           costeAproxEur: 150,
         },
       ],
@@ -1758,16 +1758,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervalo: "4.000 km o 12 meses (revisión inicial a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + control general y reapriete",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + revisión general + filtro de aire + bujía (según km)",
           costeAproxEur: 160,
         },
       ],
@@ -1826,16 +1826,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervalo: "4.000 km o 12 meses, y primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite + filtro del aceite + inspección general y aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + inspección general + filtro del aire + bujía (según km)",
           costeAproxEur: 160,
         },
       ],
@@ -1864,8 +1864,8 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: ["Presupuesto de uso cerrado desde la propia ficha: 2.899 € de PVP y un coste anual aproximado de 170 €, con la primera revisión a los 1.000 km por unos 100 € y la de los 4.000 km por unos 160 € según su plan de mantenimiento.", "Puedes estrenarla sin sacarte el A1: la ficha la homologa para ese carnet y también para el B con tres años de antigüedad, lleva dos plazas y viene con la etiqueta C de la DGT.", "La parte campera no es solo el color de la carrocería: los neumáticos de tacos y la pequeña cúpula delantera de serie te dejan salir a una pista de tierra el fin de semana sin pasar antes por un taller a montar nada.", "Mecánica deliberadamente simple en pleno 2025: monocilíndrico de 125 cc refrigerado por aire, con inyección electrónica y homologación Euro5, sin radiador que vigilar, y con la frenada a elegir entre ABS y frenada combinada CBS."],
-    contras: ["No aprovecha el techo del A1: declara 8,1 kW (11 CV) frente a los 11 kW que permite ese carnet, y esa diferencia se paga en autovía, con viento de cara o subiendo un puerto, donde toca bajar de marcha y armarse de paciencia.", "El plan de mantenimiento que trae la ficha es corto de intervalo: primera revisión a los 1.000 km y después cada 4.000 km o 12 meses. Si haces 12.000 km en un año, son tres visitas al taller en ese periodo, aunque cada una salga barata.", "Los tacos que luce en las fotos son su compromiso más claro: en asfalto seco cumplen, pero sobre pintura mojada, pasos de peatones o rotondas con lluvia agarran menos que un neumático de carretera y obligan a frenar y a tumbar con más margen.", "Cuadro y equipamiento de otra época, a propósito: instrumentación minimalista que combina lo analógico con una pequeña pantalla digital, sin modos de conducción, sin control de tracción y sin conectividad para el móvil."],
+    pros: ["Presupuesto de uso cerrado desde la propia ficha: 2.899 € de PVP y un coste anual aproximado de 170 €, con la revisión de los 1.000 km por unos 100 € y la de los 4.000 km por unos 160 € según su plan de mantenimiento.", "Puedes estrenarla sin sacarte el A1: la ficha la homologa para ese carnet y también para el B con tres años de antigüedad, lleva dos plazas y viene con la etiqueta C de la DGT.", "La parte campera no es solo el color de la carrocería: los neumáticos de tacos y la pequeña cúpula delantera de serie te dejan salir a una pista de tierra el fin de semana sin pasar antes por un taller a montar nada.", "Mecánica deliberadamente simple en pleno 2025: monocilíndrico de 125 cc refrigerado por aire, con inyección electrónica y homologación Euro5, sin radiador que vigilar, y con la frenada a elegir entre ABS y frenada combinada CBS."],
+    contras: ["No aprovecha el techo del A1: declara 8,1 kW (11 CV) frente a los 11 kW que permite ese carnet, y esa diferencia se paga en autovía, con viento de cara o subiendo un puerto, donde toca bajar de marcha y armarse de paciencia.", "El plan de mantenimiento que trae la ficha es corto de intervalo: revisión inicial a los 1.000 km; luego, cada 4.000 km o cada año. Si haces 12.000 km en un año, son tres visitas al taller en ese periodo, aunque cada una salga barata.", "Los tacos que luce en las fotos son su compromiso más claro: en asfalto seco cumplen, pero sobre pintura mojada, pasos de peatones o rotondas con lluvia agarran menos que un neumático de carretera y obligan a frenar y a tumbar con más margen.", "Cuadro y equipamiento de otra época, a propósito: instrumentación minimalista que combina lo analógico con una pequeña pantalla digital, sin modos de conducción, sin control de tracción y sin conectividad para el móvil."],
     curiosidades: ["La Felsberg tuvo una hermana mayor con el mismo apellido: la Felsberg 250, con horquilla invertida y escape en forma de S, que la prensa de la época anunciaba por 3.899 €, mil euros más que esta 125."],
     imagen: "/media/brixton-felsberg-125-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -1894,16 +1894,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervalo: "4.000 km o 12 meses (con revisión inicial a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite + filtro del aceite + revisión general y aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + revisión general + filtro del aire + bujía (según km)",
           costeAproxEur: 160,
         },
       ],
@@ -1932,7 +1932,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: ["Entrada asequible al mundo neo-retro: parte de 3.999 €", "Líneas que evocan las británicas clásicas, con acabado convincente", "Solo 145 kg en orden de marcha, muy manejable en parado", "Trae de origen ABS y alumbrado LED", "Gasto contenido, con 2,8 l/100 km declarados", "Propuesta urbana pensada para quien estrena el A2"],
+    pros: ["Entrada asequible al mundo neo-retro: parte de 3.999 €", "Líneas que evocan las británicas clásicas, con acabado convincente", "Solo 145 kg en orden de marcha, muy fácil de mover en parado", "Trae de origen ABS y alumbrado LED", "Gasto contenido, con 2,8 l/100 km declarados", "Propuesta urbana pensada para quien estrena el A2"],
     contras: ["Fuera de la ciudad el empuje se queda justo", "La refrigeración por aire marca un techo técnico claro", "Dotación electrónica escueta, sin ayudas de última hornada", "El sillín resulta firme en recorridos prolongados", "Ritmo pausado si se compara con rivales de 250 cc"],
     curiosidades: ["En una etapa anterior se vendió bajo el nombre Saxby", "El monocilíndrico de 249 cc entrega 16,9 CV al llegar a 7.500 rpm", "La cifra homologada de CO2 se queda en 71 g/km", "Brixton, integrada en el grupo KSR, la sitúa como su retro más accesible"],
     imagen: "/media/brixton-cromwell-250-2025-ficha-tecnica-precio-oficial.webp",
@@ -1962,16 +1962,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervalo: "4.000 km o 12 meses; la revisión inicial llega a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite + filtro del aceite + inspección general con aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + inspección general + bujía (según km) + filtro de aire",
           costeAproxEur: 160,
         },
       ],
@@ -2002,7 +2002,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     aprox: ["costeAnualAproxEur"],
     pros: ["Viene lista para escaparte el fin de semana: baúl y maletas, protecciones laterales, plancha bajo el motor y caballete ya montados de origen", "Empuja hasta el límite permitido en A1: 15 CV con refrigeración líquida y cambio de seis velocidades para ir desahogado", "El antibloqueo se adapta a tu plan: activo en ambas ruedas, anulado del todo o liberando solo la trasera para la tierra", "Entre repostajes pasa mucho tiempo gracias a un tanque de 14 litros pensado para rutear sin prisas", "Maniobrar en parado no asusta: la banqueta queda a 780 mm y ayuda a apoyar los pies con confianza", "La llanta de delante, de 18 pulgadas y con gomas mixtas, pisa con más aplomo cuando se acaba el asfalto", "Cuesta 3.499 €, una cifra muy contenida para todo lo que trae, y suma cobertura oficial durante tres años"],
     contras: ["El peso declara 164 kg, cifra que se nota al moverla en el garaje siendo solo una octavo de litro", "Al ser una firma de tamaño modesto, encontrar servicio oficial fuera de las grandes ciudades cuesta más", "Si la comparas con referencias niponas, algunos plásticos y ajustes transmiten una sensación menos cuidada", "Su monocilíndrico cumple de sobra, pero no alcanza la suavidad ni el tacto de los motores japoneses más pulidos", "Cuando toque venderla, lo normal es recuperar menos dinero que con una trail de marca global consolidada", "Por pistas muy rotas llega antes su límite: no juega en la liga de una enduro especializada y ligera", "Pedir ciertas piezas puede alargarse más de lo deseado si el repuesto no está en stock cercano"],
-    curiosidades: ["Detrás de la enseña está Motos Bordoy, casa barcelonesa que pasó de importar motos ajenas a firmar las suyas propias", "Para 2026 mantiene intacta su fórmula de acceso: la puedes estrenar con el A1 o con el permiso B si ya acumulas tres años de antigüedad", "Aunque su estética imita a las aventureras grandes, en el día a día se usa igual para ir a trabajar que para perderse por pistas fáciles", "Su planteamiento rompe el guion habitual del segmento: normalmente el equipaje y las protecciones se pagan aparte, aquí forman parte del paquete cerrado de 3.499 €"],
+    curiosidades: ["Detrás de la enseña está Motos Bordoy, casa barcelonesa que pasó de importar motos ajenas a firmar las suyas propias", "Para 2026 mantiene intacta su fórmula de acceso: la puedes estrenar con un carnet A1 o con el permiso B si ya sumas tres años de antigüedad", "Aunque su estética imita a las aventureras grandes, en el día a día se usa igual para ir a trabajar que para perderse por pistas fáciles", "Su planteamiento rompe el guion habitual del segmento: normalmente el equipaje y las protecciones se pagan aparte, aquí forman parte del paquete cerrado de 3.499 €"],
     imagen: "/media/macbor-montana-xr1-125-evo-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
       {
@@ -2030,16 +2030,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "3.000 km (primera revisión a los 1.000 km)",
+      intervalo: "3.000 km (revisión inicial a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite + filtro del aceite + control general y reapriete",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + revisión general + bujía (según km) + filtro de aire",
           costeAproxEur: 140,
         },
       ],
@@ -2098,16 +2098,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "3.000 km (primera revisión a los 1.000 km)",
+      intervalo: "3.000 km (primera revisión al llegar a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite + filtro de lubricante + inspección general y aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro del aceite + inspección general + bujía (según kilometraje) + filtro de aire",
           costeAproxEur: 140,
         },
       ],
@@ -2136,8 +2136,8 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: ["Con 46,9 CV a 8.500 rpm, el bicilíndrico de 471 cc roza el techo legal del A2 sin kit de limitación: al sacarse el carnet A no hay que deslimitar nada.", "La Street baja el asiento a 790 mm frente a los 820 mm de la Scrambler y monta llanta delantera de 18 pulgadas de aleación, así que maniobrar en parado y girar en calles estrechas resulta menos torpe que en su hermana.", "El equipamiento de frenos no va de farol: doble disco delantero de 298 mm con pinzas Nissin, disco trasero de 240 mm y ABS con tres modos, incluido desconectar solo la rueda trasera.", "Depósito de 18 litros y consumo declarado de 3,9 l/100 km: las pruebas publicadas hablan de autonomías próximas a 450 km, una cifra rara en una naked retro de este precio.", "Basculante monobrazo, doble escape lateral bajo y portamatrículas flotante sobre la rueda trasera le dan una silueta que no se confunde con la naked A2 japonesa de turno aparcada al lado."],
-    contras: ["La Street recorta donde la Scrambler no: atrás solo regulas la precarga del amortiguador y los recorridos bajan a 155 mm delante y 165 mm detrás, y en baches secos con pasajero se nota el recorte.", "Son 195 kg en orden de marcha para una moto pensada también para quien estrena el A2: en marcha se disimulan, pero al moverla en el garaje o en una rampa pesan desde el primer día.", "A ritmo sostenido de autovía, con dos ocupantes y algo de equipaje, los 43 Nm a 6.500 rpm dejan poco margen para adelantar sin bajar una marcha y estirar el bicilíndrico.", "Macbor no tiene aún la capilaridad de taller de una marca japonesa asentada: fuera de Cataluña y de las grandes ciudades conviene localizar el servicio oficial antes de comprarla, no después de la primera revisión."],
+    pros: ["Con 46,9 CV a 8.500 rpm, el bicilíndrico de 471 cc roza el techo legal del A2 sin kit de limitación: al sacarse el carnet A no hay que deslimitar nada.", "La Street baja el asiento a 790 mm frente a los 820 mm de la Scrambler y monta llanta delantera de 18 pulgadas de aleación, así que maniobrar en parado y girar en calles estrechas resulta menos torpe que en su hermana.", "El equipamiento de frenos no va de farol: doble disco frontal de 298 mm con pinzas Nissin, disco trasero de 240 mm y ABS con tres modos, incluido desconectar solo la rueda trasera.", "Depósito de 18 litros y consumo declarado de 3,9 l/100 km: las pruebas publicadas hablan de autonomías próximas a 450 km, una cifra rara en una naked retro de este precio.", "Basculante monobrazo, doble escape lateral bajo y portamatrículas flotante sobre la rueda trasera le dan una silueta que no se confunde con la naked A2 japonesa de turno aparcada al lado."],
+    contras: ["La Street recorta donde la Scrambler no: atrás solo regulas la precarga del amortiguador y los recorridos bajan a 155 mm delante y 165 mm atrás, y en baches secos con pasajero se nota el recorte.", "Son 195 kg en orden de marcha para una moto pensada también para quien estrena el A2: en marcha se disimulan, pero al moverla en el garaje o en una rampa pesan desde el primer día.", "A ritmo sostenido de autovía, con dos ocupantes y algo de equipaje, los 43 Nm a 6.500 rpm dejan poco margen para adelantar sin bajar una marcha y estirar el bicilíndrico.", "Macbor no tiene aún la capilaridad de taller de una marca japonesa asentada: fuera de Cataluña y de las grandes ciudades conviene localizar el servicio oficial antes de comprarla, no después de la primera revisión."],
     curiosidades: ["Macbor es un apellido abreviado: Mac —hijo de, en gaélico— más Bor, las tres primeras letras de Bordoy, la familia que fundó Motos Bordoy en Barcelona en 1971.", "Comparte el bicilíndrico de 471 cc con la Montana XR5 500 de la misma casa, pero aquí va vestido de naked setentera con faro redondo, mientras que en la trail ese mismo motor trabaja con un enfoque mucho más campero."],
     imagen: "/media/macbor-eight-mile-500-street-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -2165,16 +2165,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "3.000 km (primera revisión a los 1.000 km)",
+      intervalo: "3.000 km (primera revisión tras alcanzar los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite + filtro de lubricante + revisión general y aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro del aceite + revisión general + bujía (según kilometraje) + filtro de aire",
           costeAproxEur: 140,
         },
       ],
@@ -2230,16 +2230,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "3.000 km o 12 meses (primera revisión a los 500 km)",
+      intervalo: "3.000 km o 12 meses; y la revisión inicial a los 500 km)",
       revisiones: [
         {
           nombre: "Primera revisión (500 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite + filtro de lubricante + inspección general con aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Lubricante + filtro de aceite + inspección general + bujía (según kilometraje) + filtro del aire",
           costeAproxEur: 140,
         },
       ],
@@ -2268,7 +2268,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["potenciaCv", "costeAnualAproxEur"],
-    pros: ["Motor Minarelli de cuatro tiempos con distribución variable VVA, refrigeración líquida e inyección electrónica: entrega los 15 CV (11 kW) que esta ficha registra, justo en el techo del carnet A1, con cambio de seis velocidades y arranque eléctrico.", "Ruedas de enduro de verdad, no de trail asfáltica disfrazada: 21 pulgadas delante y 18 detrás, con neumáticos 90/90-21 y 110/80-18 pensados para superar roderas y piedras donde una llanta de 17 pulgadas se quedaría clavada.", "Frenada por encima de lo habitual en una 125 de campo: disco wave de 300 mm con pinza radial de cuatro pistones delante y disco wave de 200 mm detrás, según la ficha técnica oficial de Rieju.", "Chasis de doble viga perimetral en acero de alta resistencia con subchasis trasero desmontable, horquilla invertida de 40 mm y monoamortiguador trasero: si doblas el subchasis en una caída por pistas, se desmonta y se sustituye sin tocar el chasis principal.", "En esta ficha de 2025 sale por 3.999 euros con dos plazas, etiqueta C de la DGT y acceso con el A1 o con el carnet B y tres años de antigüedad: es la puerta de entrada al enduro sin pasar por el carnet A2."],
+    pros: ["Motor Minarelli de cuatro tiempos con distribución variable VVA, refrigeración líquida e inyección electrónica: entrega los 15 CV (11 kW) que esta ficha registra, justo en el techo del carnet A1, con cambio de seis velocidades y arranque eléctrico.", "Ruedas de enduro de verdad, no de trail asfáltica disfrazada: 21 pulgadas delante y 18 detrás, con neumáticos 90/90-21 y 110/80-18 pensados para superar roderas y piedras donde una llanta de 17 pulgadas se quedaría clavada.", "Frenada por encima de lo habitual en una 125 de campo: disco wave de 300 mm con pinza radial de cuatro pistones delante y disco wave de 200 mm detrás, según la ficha técnica oficial de Rieju.", "Chasis de doble viga perimetral en acero de alta resistencia con subchasis trasero desmontable, horquilla invertida de 40 mm y monoamortiguador trasero: si doblas el subchasis en una caída por pistas, se desmonta y se sustituye sin tocar el chasis principal.", "En esta ficha de 2025 sale por 3.999 euros con dos plazas, etiqueta C de la DGT y entrada con el A1 o con el carnet B tras tres años de antigüedad: supone la puerta de entrada al enduro sin pasar por el carnet A2."],
     contras: ["El depósito oficial es de solo 6 litros: en una salida larga por pistas toca planificar la gasolina con mucha más antelación que en una trail 125 con depósito grande, porque fuera del asfalto no siempre hay una estación cerca.", "El sillín queda a 876 mm según la ficha oficial de Rieju y es estrecho, como manda el enduro: quien mida poco llegará de puntillas en parado y quien haga carretera enlazando pistas notará la dureza a la media hora.", "La propia ficha de equipamiento de Rieju marca «No» en protector de cárter y en protector de manos: para hacer campo en serio, esas dos protecciones son la primera compra extra, no un accesorio decorativo.", "Su plan de mantenimiento pide revisiones cada 3.000 km o 12 meses, con la primera ya a los 500 km: usándola a diario, pasarás por el taller con más frecuencia que con una naked 125 de intervalos largos."],
     curiosidades: ["El nombre Marathon no se inventó para esta 125 moderna: AventuraTrail sitúa el nacimiento de la primera Rieju Marathon en 1978 como moto polivalente para ciudad y caminos, y hoy figura entre las clásicas de la marca más buscadas para restaurar en España.", "La ficha oficial de la Marathon declara escape de inox e intermitentes LED, pero mantiene la instrumentación digital sin conectividad de serie: en la web actual de Rieju, el sistema Rieju Connect con localización GPS aparece marcado como opcional."],
     imagen: "/media/rieju-marathon-125-europe-2025-ficha-tecnica-precio-oficial.webp",
@@ -2295,16 +2295,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "3.000 km o 12 meses (primera revisión a los 500 km)",
+      intervalo: "3.000 km o un año, con primera revisión a los 500 km)",
       revisiones: [
         {
           nombre: "Primera revisión (500 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite + filtro de lubricante + control general y reapriete",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Lubricante + filtro de aceite + revisión general + bujía (según kilometraje) + filtro del aire",
           costeAproxEur: 140,
         },
       ],
@@ -2360,16 +2360,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "3.000 km o 12 meses (primera revisión a los 500 km)",
+      intervalo: "3.000 km o un año; la primera revisión llega a los 500 km)",
       revisiones: [
         {
           nombre: "Primera revisión (500 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Lubricante + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Lubricante + filtro del aceite + inspección general + bujía (según km) + filtro del aire",
           costeAproxEur: 140,
         },
       ],
@@ -2398,7 +2398,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: ["Con el B y tres años de antigüedad ya puedes llevarla, sin sacarte otro carnet", "Exprime hasta el último caballo permitido en el A1: sus 15 CV dan juego en ciudad y en vías rápidas", "El dúo de ABS y control de tracción aporta un colchón extra si el asfalto está sucio o mojado", "El cuadro TFT de 7 pulgadas concentra la información a la vista, con una pantalla impropia de una 125 de acceso", "Si cazas una unidad de outlet por 2.895 €, la factura de compra baja mucho frente a los 3.595 € de tarifa", "Trae de fábrica una dotación que normalmente obliga a subir de cilindrada o a pagar extras"],
+    pros: ["Con el B y tres años de carnet ya puedes llevarla, sin sacarte otro carnet", "Exprime hasta el último caballo permitido en el A1: sus 15 CV dan juego en ciudad y en vías rápidas", "El dúo de ABS y control de tracción aporta un colchón extra si el asfalto está sucio o mojado", "El cuadro TFT de 7 pulgadas concentra la información a la vista, con una pantalla impropia de una 125 de acceso", "Si cazas una unidad de outlet por 2.895 €, la factura de compra baja mucho frente a los 3.595 € de tarifa", "Trae de fábrica una dotación que normalmente obliga a subir de cilindrada o a pagar extras"],
     contras: ["A precio de tarifa queda por encima de rivales naked de 125 mucho más baratas", "El control de tracción cumple, pero no esperes una electrónica refinada ni ajustable a tu gusto", "No hay mapas de motor entre los que elegir según el trayecto o tu experiencia", "No es precisamente una pluma para su cilindrada, y eso se nota al exprimirla en aceleración", "Al venderla de segunda mano, una marca poco extendida suele pagarse peor que las más conocidas"],
     curiosidades: ["En el escaparate de Mitt, esta es la 125 que pone la tecnología por delante del resto de argumentos", "Siete pulgadas de pantalla suenan a moto grande: en una naked pequeña, ese tamaño llama la atención al sentarte", "La misma moto convive con dos precios: tarifa completa y una vía outlet bastante más asequible", "Ver un control de tracción en una 125 pensada para empezar sigue siendo una rareza en España"],
     imagen: "/media/mitt-nk-125-2026-ficha-tecnica-precio-oficial.webp",
@@ -2432,12 +2432,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (500 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Lubricante + filtro de aceite + revisión general y aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Lubricante + filtro del aceite + revisión general + bujía (según km) + filtro del aire",
           costeAproxEur: 150,
         },
       ],
@@ -2468,7 +2468,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     aprox: ["costeAnualAproxEur"],
     pros: ["Sale viajera del concesionario: maletas laterales y baúl trasero de aluminio incluidos de serie, sin tener que presupuestar después soportes ni portaequipajes para la primera escapada larga", "Depósito de 18 litros para una bicilíndrica A2 de 47 CV: está planteada para enlazar etapas de carretera, no para vivir de trayectos cortos entre repostajes", "El ABS se puede desconectar en el tren trasero desde la evolución de 2024, un detalle pensado para rodar por pista que muy pocas trail del A2 ofrecen", "Con 34,6 kW (47 CV) y 45 Nm de par, aprovecha el techo legal del carnet A2 tal cual sale de fábrica: no es una moto grande limitada a posteriori", "196 kg con pantalla regulable en altura, defensas, cubrecárter y toma USB de serie: el equipamiento de viaje viene cerrado de fábrica, no en la lista de opciones"],
     contras: ["Rueda de 17 pulgadas también delante, con neumáticos 120/70-17 y 160/60-17: su terreno es el asfalto y la pista fácil, no el off-road serio de las trail con llanta de 19 o 21", "Las tres maletas de aluminio que tanto ayudan viajando estorban en ciudad: anchura extra para filtrar entre coches y más peso y volumen cada día en trayectos cortos", "La electrónica va a lo práctico —ABS desconectable y cuadro TFT con Bluetooth— y no anuncia control de tracción ni modos de conducción, que sí empiezan a verse en rivales del A2", "Mitt es una marca joven de Jets Marivent y su red comercial en España no tiene la capilaridad de las japonesas asentadas: conviene comprobar concesionario y recambios cerca de casa antes de comprar"],
-    curiosidades: ["Se enseñó primero como prototipo en el salón Vive la Moto de Madrid de 2022 y la versión definitiva se presentó después en el EICMA de Milán, como la moto más ambiciosa de Mitt hasta ese momento", "Detrás de Mitt está la española Jets Marivent, que concentra stock de motos nuevas, recambios y accesorios en una nave de 6.000 metros cuadrados en la Ciudad de la Imagen de Pozuelo de Alarcón"],
+    curiosidades: ["Se enseñó primero como prototipo en el salón madrileño Vive la Moto de 2022 y la versión definitiva se presentó después en el EICMA de Milán, como la moto más ambiciosa de Mitt hasta ese momento", "Detrás de Mitt está la española Jets Marivent, que concentra stock de motos nuevas, recambios y accesorios en una nave de 6.000 metros cuadrados en la Ciudad de la Imagen de Pozuelo de Alarcón"],
     imagen: "/media/mitt-530-tt-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
       {
@@ -2500,12 +2500,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (500 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Lubricante + filtro de aceite + inspección general con aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aire + bujía (según km) + filtro de aceite + inspección general",
           costeAproxEur: 150,
         },
       ],
@@ -2534,7 +2534,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: ["Por los 2.890 € de la ficha lleva la configuración cara de la gama: motor con refrigeración líquida, 10,9 CV a 8.500 rpm, ABS y control de tracción, cuando la Storm-X básica de aire y frenada combinada CBS se anunciaba a 2.690 €.", "Pantalla TFT en color con conectividad y navegación sobre mapa, llave inteligente, arranque silencioso y Start&Stop desconectable: al probarla, SoyMotero puso esa instrumentación como ejemplo del que otras marcas más caras podrían aprender.", "Asiento a solo 750 mm y 142 kg en orden de marcha con 1.995 mm de longitud total: quien llega con el carnet B y tres años de antigüedad la mueve en parado y entre coches sin pelearse con ella.", "Depósito de 10,5 litros en un scooter compacto de ruedas de 14 pulgadas delante y 13 detrás: con el consumo declarado de 2,2 l/100 km en su ficha técnica de 2025, las paradas a repostar quedan muy espaciadas en uso urbano.", "Cofre bajo el asiento con sitio para un casco integral y apertura centralizada, más guantera delantera y toma USB: el trayecto diario no obliga a montar un baúl trasero para llevar lo básico."],
+    pros: ["Por los 2.890 € de la ficha lleva la configuración cara de la gama: motor con refrigeración líquida, 10,9 CV a 8.500 rpm, ABS y control de tracción, cuando la Storm-X básica de aire y frenada combinada CBS se anunciaba a 2.690 €.", "Pantalla TFT en color con conectividad y navegación sobre mapa, llave inteligente, arranque silencioso y Start&Stop desconectable: al probarla, SoyMotero puso esa instrumentación como ejemplo del que otras marcas más caras podrían aprender.", "Asiento a solo 750 mm y 142 kg en orden de marcha con 1.995 mm de longitud total: quien llega con el carnet B y tres años de experiencia la mueve en parado y entre coches sin pelearse con ella.", "Depósito de 10,5 litros en un scooter compacto de ruedas de 14 pulgadas delante y 13 detrás: con el consumo declarado de 2,2 l/100 km en su ficha técnica de 2025, las paradas a repostar quedan muy espaciadas en uso urbano.", "Cofre bajo el asiento con hueco para un casco integral y apertura centralizada, más guantera delantera y toma USB: el trayecto diario no obliga a montar un baúl trasero para llevar lo básico."],
     contras: ["La entrega llega arriba: el par máximo se anuncia a 6.500 rpm y la potencia a 8.500 rpm, y la prueba de SoyMotero lo resume sin rodeos: se echa de menos pegada al salir de los semáforos y de las paradas.", "El consumo declarado de 2,2 l/100 km no se repitió en uso real: en la prueba consultada se midieron 3,6 l/100 km en conducción alegre, con lo que la autonomía se queda en unos 292 km con el depósito de 10,5 litros.", "Es compacta de verdad y eso se paga dentro: el probador de esa prueba, con 1,86 m y 100 kg, se vio encajonado a sus mandos y le costó superar los 90 km/h llaneando; los pilotos altos deben sentarse en una antes de firmar.", "Hay que mirar bien qué Storm-X te están vendiendo: conviven la de aire con CBS a 2.690 € y la de refrigeración líquida con ABS y TCS a 2.890 €, y hasta la propia web oficial muestra ambos precios para el modelo en los mismos colores Dark Grey y Snow White."],
     curiosidades: ["Existe una Storm-X 150 con el mismo equipamiento de la Plus española, pero Wottan la reserva al mercado italiano, según contó SoyMotero al probar la 125.", "Su motor, suministrado por Loncin, prescinde del motor de arranque convencional: es el propio alternador el que cumple esa función, y de ahí sale el arranque silencioso Silence Start que anuncia la marca."],
     imagen: "/media/fotos-reales/wottan-storm-x-125-2025-ficha-tecnica-precio/wottan-storm-x-125-2025-ficha-tecnica-precio-real-1.webp",
@@ -2565,12 +2565,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Lubricante + filtro de aceite + control general y reapriete",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aire + bujía (según kilometraje) + filtro de aceite + inspección general",
           costeAproxEur: 140,
         },
       ],
@@ -2600,7 +2600,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
     pros: ["Con 4.490 € accedes a una bicilíndrica A2 de estética clásica contemporánea sin disparar el presupuesto", "Frenar transmite mucha seguridad gracias a su pareja de discos delanteros y al ABS de doble canal", "La instrumentación a color enlaza con el móvil y te guía curva a curva hasta tu destino", "Delante monta barras invertidas que aportan aplomo; detrás puedes ajustar la precarga a tu gusto", "Ofrece 42,8 CV con una entrega llena desde abajo, perfecta tras dejar atrás una 125", "Todo el alumbrado recurre a tecnología LED y el faro circular le da una firma inconfundible"],
-    contras: ["Moverla en parado exige esfuerzo: no es precisamente una pluma para el día a día urbano", "Quien busque acercarse al límite del A2 encontrará propuestas rivales con algo más de empuje", "En trayectos largos el mullido del sillín se hace notar y obliga a parar antes de lo deseado", "No hay mapas de motor seleccionables para adaptar la respuesta según el asfalto o la lluvia", "Al ser una firma modesta, localizar un taller oficial fuera de las grandes ciudades cuesta más", "Su valor futuro en el mercado de ocasión todavía genera dudas entre compradores y vendedores"],
+    contras: ["Moverla en parado exige esfuerzo: no es precisamente una pluma para el día a día urbano", "Quien busque acercarse al límite del A2 encontrará propuestas rivales con algo más de empuje", "En trayectos largos el mullido del sillín se hace notar y obliga a parar antes de lo deseado", "No hay mapas de motor seleccionables para adaptar la respuesta según el asfalto o la lluvia", "Al ser una firma modesta, localizar un taller oficial fuera de las grandes ciudades sale más caro", "Su valor futuro en el mercado de ocasión todavía genera dudas entre compradores y vendedores"],
     curiosidades: ["Nació como evolución natural tras la buena acogida de su versión pequeña para el carné B", "El pico de potencia llega muy arriba, a 9.500 vueltas, y el mejor empuje aparece a 8.000", "Su silenciador tipo megáfono parece sacado de una preparación artesanal más que venir de serie", "Al caer la tarde la pantalla cambia su presentación para resultar más amable a la vista", "Detrás del proyecto está una empresa valenciana que también vende toda su gama por internet"],
     imagen: "/media/fotos-reales/wottan-rebbe-401-2025-ficha-tecnica-precio/wottan-rebbe-401-2025-ficha-tecnica-precio-real-1.webp",
     galeria: [
@@ -2630,19 +2630,19 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Lubricante + filtro del aceite + inspección general y aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro del aire + bujía (según km) + filtro de aceite + revisión general",
           costeAproxEur: 140,
         },
       ],
       costeAnualAproxEur: 150,
       fuente: "Manual oficial Wottan España",
     },
-    mantenimientoDIY: {"aceiteTipo": "El especificado en el manual oficial entregado con la moto; en cada revisión programada toca sustituir aceite y filtro de aceite. No se ha localizado una viscosidad pública verificable para la 401, así que no se consigna ninguna sin esa confirmación", "cadenaPasos": ["Apoya la moto en vertical o sobre caballete y gira la rueda trasera a mano para recorrer toda la cadena", "Limpia los eslabones con un producto específico para cadenas con retenes y un cepillo blando, sin usar gasolina ni alta presión directa", "Seca bien la transmisión antes de aplicar lubricante para cadena por la cara interior, eslabón a eslabón", "Comprueba la tensión en el punto medio del ramal inferior y ajústala solo dentro del margen que indique el manual de tu unidad", "Revisa desgaste de corona y piñón y alineación de la rueda trasera tras cualquier ajuste de tensión"], "intervaloMantenimiento": "Primera revisión a los 1.000 km; después cada 3.000 km o 12 meses, lo que ocurra antes, según el plan recogido en la propia ficha con fuente en el manual oficial de Wottan España", "trucos": ["Engrasa siempre al terminar la ruta, con la cadena templada: el lubricante penetra mejor y se queda adherido", "Aprovecha cada limpieza para revisar también filtro de aire y bujía según el kilometraje que marque el plan de revisiones", "Anota fecha y kilómetros de cada intervención en el libro de mantenimiento: es tu prueba para la garantía y para una futura venta"]},
+    mantenimientoDIY: {"aceiteTipo": "El especificado en el manual oficial entregado con la moto; en cada revisión programada toca sustituir aceite y filtro de aceite. No se ha localizado una viscosidad pública verificable para la 401, así que no se consigna ninguna sin esa confirmación", "cadenaPasos": ["Apoya la moto en vertical o sobre caballete y gira la rueda trasera a mano para recorrer toda la cadena", "Limpia los eslabones con un producto especial para cadenas con retenes y un cepillo blando, sin usar gasolina ni alta presión directa", "Seca bien la transmisión antes de aplicar lubricante para cadena por la cara interior, eslabón a eslabón", "Comprueba la tensión en el punto medio del ramal inferior y ajústala solo dentro del margen que indique el manual de tu unidad", "Revisa desgaste de corona y piñón y alineación de la rueda trasera tras cualquier ajuste de tensión"], "intervaloMantenimiento": "Revisión inicial a los 1.000 km; después cada 3.000 km o al año, lo primero que llegue, según el plan recogido en la propia ficha con fuente en el manual oficial de Wottan España", "trucos": ["Engrasa siempre al terminar la ruta, con la cadena templada: el lubricante penetra mejor y se queda adherido", "Aprovecha cada limpieza para revisar también filtro de aire y bujía según el kilometraje que marque el plan de revisiones", "Anota fecha y kilómetros de cada intervención en el libro de mantenimiento: es tu prueba para la garantía y para una posible venta"]},
   },
   {
     id: "horwin-sk3-2026-ficha-tecnica-precio",
@@ -2665,7 +2665,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: "Batería extraíble de 72 V/36 Ah; unas 4 h la carga completa",
     etiquetaDgt: "Cero",
     aprox: ["bateriaKwh", "velocidadMax", "carga", "costeAnualAproxEur"],
-    pros: ["Por 3.690 euros plantea una alternativa eléctrica accesible para quien busca moverse sin pasar por la gasolinera", "Al llevar el propulsor anclado al chasis, el reparto de masas resulta más equilibrado que en soluciones con propulsor en la rueda trasera", "Alcanza 90 km/h, margen suficiente para enlazar barrios periféricos y vías rápidas urbanas sin quedarse corto", "Admite montar un segundo acumulador y estirar el alcance declarado hasta los 160 km en total", "El hueco bajo el asiento admite un casco cuando circulas únicamente con el acumulador principal instalado", "Dispone de etiqueta Cero y acceso con carnet A1 o con permiso B si acreditas tres años de antigüedad"],
+    pros: ["Por 3.690 euros plantea una alternativa eléctrica accesible para quien busca moverse sin pasar por la gasolinera", "Al llevar el propulsor anclado al chasis, el reparto de masas resulta más equilibrado que en soluciones con propulsor en la rueda trasera", "Alcanza 90 km/h, margen suficiente para enlazar barrios periféricos y vías rápidas urbanas sin quedarse corto", "Admite montar un segundo acumulador y estirar el alcance declarado hasta los 160 km en total", "El hueco bajo el asiento acepta un casco cuando circulas únicamente con el acumulador principal instalado", "Dispone de etiqueta Cero y acceso con carnet A1 o con permiso B si acreditas tres años de antigüedad"],
     contras: ["Con el pack de serie, los 80 km declarados obligan a planificar recargas frecuentes si tu jornada es larga", "Ampliar la autonomía sale caro, porque el segundo pack se paga aparte y eleva mucho la factura final", "La ficha del importador no facilita la masa en orden de marcha, dato que complica comparar con rivales", "La frenada recurre únicamente a reparto combinado CBS, sin asistencia antibloqueo para detenciones sobre firme mojado", "Fuera de las grandes ciudades, localizar un punto oficial Horwin cercano puede requerir desplazamientos largos", "Al tratarse de una firma con escasa implantación local, el valor futuro en el mercado de ocasión resulta imprevisible"],
     curiosidades: ["Horwin decidió alejar el propulsor de la rueda trasera y colocarlo en el centro del conjunto, decisión poco habitual en esta franja de precio", "La transmisión final por cadena acerca su comportamiento al de una moto convencional frente al silencio absoluto de los bujes eléctricos", "Su controlador FOC modula la entrega de energía buscando suavidad al abrir gas y un consumo más contenido en ciudad", "El acumulador de 72 V y 36 Ah se extrae para recargarlo en casa en unas 4 horas, sin depender de un garaje con enchufe"],
     imagen: "/media/fotos-reales/horwin-sk3-2026-ficha-tecnica-precio/horwin-sk3-2026-ficha-tecnica-precio-real-0.webp",
@@ -2696,19 +2696,19 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
+          queSeCambia: "Inspección general + filtro de polen (si lleva) + puesta al día del software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas de freno (según desgaste)",
           costeAproxEur: 150,
         },
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Horwin España",
     },
-    mantenimientoDIY: {"aceiteTipo": "No utiliza aceite de motor al ser eléctrica; emplea únicamente lubricante específico para cadena de transmisión, nunca aceite de motor de combustión", "cadenaPasos": ["Apoya el scooter sobre el caballete central con el contacto apagado y, por seguridad, retira la batería extraíble antes de manipular la transmisión", "Gira la rueda trasera con la mano y revisa que ningún eslabón esté agarrotado, oxidado o con holgura desigual a lo largo del recorrido", "Limpia la cadena con cepillo suave y desengrasante específico para cadenas, evitando chorro a presión directo sobre rodamientos y componentes eléctricos", "Seca por completo con un paño sin pelusa y deja actuar unos minutos antes de aplicar el lubricante para que no salpique al rodar", "Aplica lubricante para cadena en la cara interior, en pequeñas dosis, mientras giras la rueda despacio hasta completar toda la vuelta", "Comprueba la tensión en el punto medio del ramal inferior y, si notas destensado anómalo o ruidos metálicos, acude a taller oficial en lugar de tensar sin útil adecuado"], "intervaloMantenimiento": "Inspección oficial cada 24 meses o 10.000 km según el plan recogido en la ficha con fuente Manual oficial Horwin España; entre revisiones, control visual mensual de frenos, neumáticos, luces y transmisión", "trucos": ["Recarga el acumulador en un enchufe doméstico tras cada jornada en lugar de apurarlo hasta vaciarlo: cuidarás mejor sus 2,6 kWh útiles a largo plazo", "Si instalas el segundo acumulador perderás el hueco para el casco, así que valora top case si necesitas guardar equipación a diario", "Vigila el nivel del líquido de frenos y el grosor de pastillas en cada control mensual, porque el sistema CBS reparte la frenada pero no avisa del desgaste", "Limpia el scooter con paño húmedo y contacto apagado, sin hidrolimpiadora sobre pantalla, controlador FOC ni conectores de la batería", "Revisa presiones en frío con frecuencia: en un scooter ligero y eléctrico, una presión baja se nota enseguida en autonomía y estabilidad"]},
+    mantenimientoDIY: {"aceiteTipo": "No utiliza aceite de motor al ser eléctrica; emplea únicamente lubricante específico para cadena de transmisión, nunca aceite de motor de combustión", "cadenaPasos": ["Apoya el scooter sobre el caballete central con el contacto apagado y, por seguridad, retira la batería extraíble antes de manipular la transmisión", "Gira la rueda trasera con la mano y revisa que ningún eslabón esté agarrotado, oxidado o con holgura desigual a lo largo del recorrido", "Limpia la cadena con cepillo suave y desengrasante específico para cadenas, evitando chorro a presión directo sobre rodamientos y componentes eléctricos", "Seca por completo con un paño sin pelusa y deja actuar unos minutos antes de aplicar el lubricante para que no salpique al rodar", "Aplica lubricante para cadena en la cara interior, en pequeñas dosis, mientras giras la rueda despacio hasta completar toda la vuelta", "Comprueba la tensión en la zona media del ramal inferior y, si notas destensado anómalo o ruidos metálicos, acude a taller oficial en lugar de tensar sin útil adecuado"], "intervaloMantenimiento": "Inspección oficial cada 24 meses o 10.000 km según el plan recogido en la ficha con fuente Manual oficial Horwin España; entre revisiones, control visual mensual de frenos, neumáticos, luces y transmisión", "trucos": ["Recarga el acumulador en un enchufe doméstico tras cada jornada en lugar de apurarlo hasta vaciarlo: cuidarás mejor sus 2,6 kWh útiles a largo plazo", "Si instalas el segundo acumulador perderás el hueco para el casco, así que valora top case si necesitas guardar equipación a diario", "Vigila tu nivel del líquido de frenos y el grosor de pastillas en cada control mensual, porque el sistema CBS reparte la frenada pero no avisa del desgaste", "Limpia el scooter con paño húmedo y contacto apagado, sin hidrolimpiadora sobre pantalla, controlador FOC ni conectores de la batería", "Revisa presiones en frío con frecuencia: en un scooter ligero y eléctrico, una presión baja se nota enseguida en autonomía y estabilidad"]},
   },
   {
     id: "horwin-ek3-2026-ficha-tecnica-precio",
@@ -2728,7 +2728,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     pesoKg: null,
     plazas: 2,
     carnet: "A1 (válido con B +3 años)",
-    carga: "Batería extraíble Samsung de 72 V; 4 h por batería; segunda batería opcional (200 km)",
+    carga: "Batería Samsung extraíble de 72 V; 4 h por acumulador; segunda batería opcional (200 km)",
     etiquetaDgt: "Cero",
     aprox: ["costeAnualAproxEur"],
     pros: ["Su motor va en posición central y mueve la rueda trasera por cadena, no en el buje como en una NIU MQi GT o una Super Soco CPX: con 6,2 kW de pico oficiales acelera de 0 a 60 km/h en seis segundos y empuja hasta 95 km/h con el par disponible desde el primer giro de puño", "En la prueba española de Híbridos y Eléctricos marcó 28,19 km por kWh, unos 2,36 kWh a los 100 km: fue el scooter eléctrico más frugal de cuantos habían probado, por encima incluso del Ecooter E2 Max con 28,11 km por kWh y con menos potencia", "La batería se extrae y pesa unos 17 kg según la prueba británica de 2025, así que quien vive en un piso sin enchufe en el garaje la sube a casa o a la oficina y la deja cargando entre cuatro horas y cuatro horas y media", "Rueda delantera de 14 pulgadas y trasera de 13, batalla de 1.320 mm y asiento a 780 mm: en 2026 sigue siendo un scooter de suelo plano con hueco bajo el asiento para un casco jet con una sola batería y guantera delantera con toma USB", "Mantiene un equipamiento raro en su franja: arranque sin llave deslizando el dedo por la pantalla, control de crucero, marcha atrás, alarma antirrobo y tiras LED también en los laterales, que son su firma cuando se le ve de noche"],
@@ -2762,12 +2762,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
+          queSeCambia: "Inspección general + filtro de polen (si lo lleva) + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas (según su desgaste)",
           costeAproxEur: 150,
         },
       ],
@@ -2815,19 +2815,19 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
+          queSeCambia: "Inspección general + filtro antipolen (si lleva) + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Inspección general + líquido de freno + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Yadea España",
     },
-    mantenimientoDIY: {"aceiteTipo": "No aplica: es eléctrica, sin aceite de motor que cambiar; el manual sí marca sustituir el líquido de frenos cada 2 años", "cadenaPasos": ["Comprueba la presión y el desgaste de ambos neumáticos antes de salir", "Revisa el tacto de las manetas y el estado de pastillas y discos de freno", "Verifica luces, claxon e interruptores de freno en una vuelta rápida al scooter", "Mira el apriete de tuercas y tornillos visibles, con atención a ruedas y dirección", "Inspecciona el conector de carga y el cable del cargador por si hubiera daños", "Si algo no se puede resolver en casa, acude al Servicio de Asistencia Técnica de Yadea"], "intervaloMantenimiento": "Primera revisión a los 1.000 km o 6 meses; después, cada 5.000 km o anual, lo primero que ocurra, según el manual oficial Yadea del G5 S/G5 Pro", "trucos": ["Para guardarla un tiempo, deja la batería en torno al 50 % en un lugar seco y ventilado", "Si no la usas, recarga la batería 2-3 horas cada 2 meses, tal como indica el manual", "Lávala con detergente neutro y paño suave, evitando agua a presión cerca del compartimento de la batería", "Acorta los intervalos si la usas a diario con sobrecarga, baches o subidas frecuentes"]},
+    mantenimientoDIY: {"aceiteTipo": "No aplica: es eléctrica, sin aceite de motor que cambiar; el manual sí marca sustituir el líquido de frenos cada 2 años", "cadenaPasos": ["Comprueba la presión y el desgaste de ambos neumáticos antes de salir", "Revisa el tacto de las manetas y el estado de pastillas y discos de freno", "Verifica luces, claxon e interruptores de freno en una vuelta rápida al scooter", "Mira el apriete de tuercas y tornillos visibles, con atención a ruedas y dirección", "Inspecciona el conector de carga y el cable del cargador por si hubiera daños", "Si algo no se puede resolver en casa, acude al Servicio de Asistencia Técnica de Yadea"], "intervaloMantenimiento": "Primera revisión a los 1.000 km o medio año; después, cada 5.000 km o anual, lo primero que ocurra, según el manual oficial Yadea del G5 S/G5 Pro", "trucos": ["Para guardarla un tiempo, deja la batería en torno al 50 % en un lugar seco y ventilado", "Si no la usas, recarga la batería 2-3 horas cada 2 meses, tal como indica el manual", "Lávala con detergente neutro y paño suave, evitando agua a presión cerca del compartimento de la batería", "Acorta los intervalos si la usas a diario con sobrecarga, baches o subidas frecuentes"]},
   },
   {
     id: "yadea-c1s-pro-2026-ficha-tecnica-precio",
@@ -2850,9 +2850,9 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: "Batería extraíble; carga en enchufe doméstico",
     etiquetaDgt: "Cero",
     aprox: ["costeAnualAproxEur"],
-    pros: ["En esta anualidad 2026 sigue siendo el Yadea más serio para salir de la calle de barrio: motor lateral de 6 kW (8 CV) y 80 km/h de punta con solo 87 kg, así que entra en rondas y circunvalaciones sin quedarse vendido entre coches.", "Las dos baterías de 72 V y 20 Ah se sacan y se cargan en un enchufe doméstico, montadas o fuera del scooter, con carga completa en unas 4 horas: quien no tiene punto de carga en el garaje no queda fuera del modelo.", "No es un eléctrico pelado: arranque sin llave, dos modos Eco y Sport, marcha atrás para maniobrar y hueco bajo el asiento para un casco jet, todo de serie en el tope de gama de Yadea en España.", "Detrás no hay un importador improvisado: en España lo distribuye Human Mobility, el equipo que levantó KYMCO aquí desde 1995, y eso se nota al buscar taller y recambios frente a marcas que solo venden por internet."],
+    pros: ["En esta anualidad 2026 sigue siendo el Yadea más serio para salir de la calle de barrio: motor lateral de 6 kW (8 CV) y 80 km/h de punta con solo 87 kg, así que entra en rondas y circunvalaciones sin quedarse vendido entre coches.", "Las dos baterías de 72 V y 20 Ah se sacan y se cargan en un enchufe doméstico, montadas o fuera del scooter, con carga completa en unas 4 horas: quien no tiene punto de carga en el garaje no queda fuera del modelo.", "No es un eléctrico pelado: arranque sin llave, dos modos Eco y Sport, marcha atrás para maniobrar y hueco bajo el asiento para un casco abierto, todo de serie en el tope de gama de Yadea en España.", "Detrás no hay un importador improvisado: en España lo distribuye Human Mobility, el equipo que levantó KYMCO aquí desde 1995, y eso se nota al buscar taller y recambios frente a marcas que solo venden por internet."],
     contras: ["4.890 € es el techo del catálogo Yadea y se pagan por una autonomía declarada en la ficha de 77 km: si tu rutina diaria se acerca a esa cifra, vivirás pendiente del cargador.", "Frena con CBS y discos de 220 mm delante y 180 mm detrás, sin ABS; en las pruebas españolas las manetas se notaron duras y al freno delantero le faltó mordiente, algo a exigir en una frenada de emergencia a 80 km/h.", "Extraíble no es sinónimo de cómodo: son dos módulos que hay que subir a pulso hasta casa, y las pruebas los sitúan en unos 8 kg por batería, un gesto que cansa si se repite cada noche en un piso sin ascensor.", "A dúo va justo: el asiento reserva poco espacio al pasajero y, con 87 kg, a velocidad máxima el conjunto se siente ligero; es un scooter pensado para uno con acompañante ocasional, no para viajar dos a diario."],
-    curiosidades: ["Bajo el asiento esconde un interruptor magnetotérmico parecido al del cuadro de luz de casa: permite cortar el circuito y dejar el C1S Pro en hibernación eléctrica durante paradas largas.", "El logotipo de Yadea va iluminado dentro del piloto trasero y el faro delantero LED tiene forma triangular, dos firmas del diseño de KISKA que ganó el Red Dot Design Award en 2020."],
+    curiosidades: ["Bajo el asiento esconde un interruptor magnetotérmico parecido al del cuadro de luz de casa: permite cortar el circuito y dejar el C1S Pro en hibernación eléctrica durante paradas largas.", "El logotipo de Yadea va iluminado dentro del piloto trasero y el faro delantero LED tiene forma triangular, dos firmas del diseño de KISKA que obtuvo el Red Dot Design Award en 2020."],
     imagen: "/media/yadea-c1s-pro-2026-ficha-tecnica-precio-oficial-2.webp",
     galeria: [
       { src: "/media/yadea-c1s-pro-2026-ficha-tecnica-precio-hunt1.webp", alt: "Inspección (24 meses / 10.000 km) (foto: InMoto / prensa Yadea (galería exterior oficial del C1S Pro), licencia desconocida)", ancho: 1600, alto: 1066 },
@@ -2869,12 +2869,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
+          queSeCambia: "Inspección general + filtro antipolen (si lleva) + actualización del software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Inspección general + líquido de freno + pastillas de freno (según desgaste)",
           costeAproxEur: 150,
         },
       ],
@@ -2922,19 +2922,19 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
+          queSeCambia: "Inspección general + filtro antipolen (si lleva) + puesta al día del software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Inspección general + líquido de freno + pastillas (según su desgaste)",
           costeAproxEur: 150,
         },
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Segway España",
     },
-    mantenimientoDIY: {"aceiteTipo": "No aplica: es un scooter eléctrico, sin aceite de motor que sustituir ni cadena de transmisión que engrasar", "cadenaPasos": ["Comprobar con regularidad presión, dibujo y posibles cortes en ambos neumáticos, y revisar que las ruedas giren libres sin ruidos", "Revisar pastillas, discos y nivel del líquido de frenos, y acudir al taller si notas tacto esponjoso o pérdida de eficacia", "Mantener limpios y secos los contactos de las dos baterías extraíbles y cargarlas siempre con el cargador suministrado por la marca", "Repasar luces, claxon, caballete, espejos y apriete visible de tornillería, y aplicar las actualizaciones de software cuando la aplicación lo avise", "Cumplir la inspección oficial cada 24 meses o 10.000 km, con revisión general y actualización de software según el plan de la ficha"], "intervaloMantenimiento": "24 meses o 10.000 km (inspección), según el plan de mantenimiento de la propia ficha basado en el manual oficial de Segway España", "trucos": ["Si la vas a dejar parada una temporada, guárdala con carga parcial y en lugar seco y templado, no completamente descargada", "Alternar el uso de ambas baterías ayuda a que envejezcan de forma pareja y a detectar pronto si una rinde menos", "Una conducción suave, sin acelerones constantes a tope, alarga la autonomía real y cuida frenos y neumáticos"]},
+    mantenimientoDIY: {"aceiteTipo": "No aplica: al ser un scooter eléctrico, no hay aceite de motor que renovar ni cadena de transmisión que engrasar", "cadenaPasos": ["Comprobar con regularidad presión, dibujo y posibles cortes en ambos neumáticos, y revisar que las ruedas giren libres sin ruidos", "Revisar pastillas, discos y nivel del líquido de frenos, y acudir al taller si notas tacto esponjoso o pérdida de eficacia", "Mantener limpios y secos los contactos de las dos baterías extraíbles y cargarlas siempre con el cargador suministrado por la marca", "Repasar luces, claxon, caballete, espejos y apriete visible de tornillería, y aplicar las actualizaciones de software cuando la aplicación lo avise", "Cumplir la inspección oficial cada par de años o 10.000 km, con revisión general y actualización de software según el plan de la ficha"], "intervaloMantenimiento": "24 meses o 10.000 km (inspección), según el plan de mantenimiento de la propia ficha basado en el manual oficial de Segway España", "trucos": ["Si la vas a dejar parada una temporada, guárdala con carga parcial y en lugar seco y templado, no completamente descargada", "Alternar el uso de ambas baterías ayuda a que envejezcan de forma pareja y a detectar pronto si una rinde menos", "Una conducción suave, sin acelerones constantes a tope, alarga la autonomía real y cuida frenos y neumáticos"]},
   },
   {
     id: "bmw-ce-04-2026-ficha-tecnica-precio",
@@ -2957,7 +2957,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "Cero",
     aprox: ["costeAnualAproxEur"],
-    pros: ["Su carta de presentación en 2026 sigue siendo la pantalla TFT de 10,25 pulgadas con navegación y conectividad: convierte el cuadro en una extensión del móvil y no en el relojito habitual de un scooter urbano.", "El empuje llega donde más se usa en ciudad: 62 Nm de par, 42 CV y 2,6 segundos de 0 a 50 km/h según la ficha, con salida limpia en cada semáforo sin tener que pelearte con un embrague.", "La batería de 8,9 kWh va plana en el suelo y eso se nota al moverla entre coches: el centro de gravedad bajísimo da una aplomada impropia de un scooter de 231 kg cuando ya estás rodando.", "No hay una sola CE 04 en el catálogo: la de 42 CV es para el A2 y la variante de 11 kW permite entrar con el A1 o con el carnet B, compartiendo chasis, pantalla y etiqueta Cero de la DGT."],
+    pros: ["Su carta de presentación en 2026 sigue siendo la pantalla TFT de 10,25 pulgadas con navegador y conectividad: convierte el cuadro en una extensión del móvil y no en el relojito habitual de un scooter urbano.", "El empuje llega donde más se usa en ciudad: 62 Nm de par, 42 CV y 2,6 segundos de 0 a 50 km/h según la ficha, con salida limpia en cada semáforo sin tener que pelearte con un embrague.", "La batería de 8,9 kWh va plana en el suelo y eso se nota al moverla entre coches: el centro de gravedad bajísimo da una aplomada impropia de un scooter de 231 kg cuando ya estás rodando.", "No hay una sola CE 04 en el catálogo: la de 42 CV es para el A2 y la variante de 11 kW permite entrar con el permiso A1 o con el carnet B, compartiendo chasis, pantalla y etiqueta Cero de la DGT."],
     contras: ["Desde 12.260 euros en esta ficha: en 2026 sigue sin haber una CE 04 barata, y cada extra que la hace más práctica —empezando por el cargador rápido— se paga aparte.", "Sin ese cargador rápido opcional, llenar la batería en un enchufe doméstico ronda las 4 horas y 20 minutos; la cifra de 45 minutos del 20 al 80 % solo llega con el extra montado.", "Los 231 kg están muy repartidos en marcha, pero en parado mandan ellos: meterla marcha atrás en una plaza inclinada o levantarla de un apuro en el garaje exige más brazos que con un 125 de gasolina.", "Los 130 km declarados son en ciclo urbano favorable; si tu vuelta a casa es por vía rápida sostenida a 120 km/h, planifica la carga como parte de la rutina y no como una excepción."],
     curiosidades: ["Las celdas de su batería son las mismas que BMW emplea en el iX, según destacó el propio consejero delegado de BMW AG, Oliver Zipse, en la presentación del modelo de serie.", "El motor, refrigerado por líquido, no va en la rueda: va montado en el bastidor, entre la batería y la rueda trasera, con una arquitectura parecida a la que BMW ya usaba en sus coches electrificados."],
     imagen: "/media/bmw-ce-04-2026-ficha-tecnica-precio-oficial.webp",
@@ -2990,12 +2990,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
+          queSeCambia: "Revisión general + filtro de polen (si lleva) + actualización del software",
           costeAproxEur: 120,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Inspección general + fluido de frenos + pastillas (según desgaste)",
           costeAproxEur: 180,
         },
       ],
@@ -3021,7 +3021,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     pesoKg: 132,
     plazas: 2,
     carnet: "A1",
-    carga: "Baterías extraíbles · 900 W de serie (1.500 W opcional) · 100 min del 20 al 80 % con cargador rápido",
+    carga: "Baterías extraíbles · 900 W de serie (1.500 W en opción) · 100 min del 20 al 80 % con carga rápida",
     etiquetaDgt: "Cero",
     aprox: [],
     pros: ["La novedad que define a esta 2025 es poder extraer las dos baterías de 1,96 kWh cada una —3,92 kWh en total— y cargarlas en casa o en la oficina, sin depender de un garaje con enchufe propio.", "En semáforos no hay 125 eléctrica que la deje atrás: 55 Nm desde parado, 11 kW de pico y 0 a 50 km/h en 3,0 segundos, con una entrega limpia en los modos Flow y Surf.", "Con 132 kg, asiento a solo 750 mm y ruedas de 14 pulgadas delante, se mueve entre coches y se aparca en huecos donde un scooter GT ni cabe; ideal si vienes del carnet B o del A1.", "Trae detalles impropios de una urbana de acceso: marcha atrás para salir de rampas, control de tracción ASC, arranque Keyless Ride, pantalla TFT de 3,5 pulgadas y toma USB-C de serie."],
@@ -3057,12 +3057,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
+          queSeCambia: "Revisión general + filtro de polen (si lo lleva) + puesta al día del software",
           costeAproxEur: 120,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Inspección general + fluido de frenos + pastillas de freno (según desgaste)",
           costeAproxEur: 180,
         },
       ],
@@ -3122,19 +3122,19 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
+          queSeCambia: "Inspección general + actualización de software + filtro de polen (si lleva)",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Inspección general + fluido de frenos + pastillas (según su desgaste)",
           costeAproxEur: 150,
         },
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Zero Motorcycles España",
     },
-    mantenimientoDIY: {"aceiteTipo": "Sin aceite de motor: es eléctrica y no hay lubricante del propulsor que cambiar; el único fluido con renovación programada es el líquido de frenos, cada 12 meses según el manual", "cadenaPasos": ["Antes de cada salida, echa un vistazo a la correa buscando cortes, grietas o dientes dañados y retira cualquier piedrecilla incrustada", "Límpiala solo con agua y un cepillo suave, déjala siempre seca y lejos de grasas o aceites, que degradan el carbono", "Mide la tensión con la app gratuita Gates Carbon Drive acercando el móvil y pulsando la correa como indica el manual", "Si ajustas la tensión, afloja el eje trasero y mueve ambos lados por igual para mantener la rueda alineada, reapretando después al par indicado", "Apunta la sustitución preventiva a los 37.000 km aunque visualmente parezca sana: es el límite que fija el manual del propietario"], "intervaloMantenimiento": "Inspección oficial cada 24 meses o 10.000 km según consta en la propia ficha (fuente: manual Zero); el manual del propietario añade cambio de líquido de frenos cada 12 meses y sustitución de la correa a los 37.000 km", "trucos": ["Si va a dormir más de un mes, no la dejes por debajo del 30 % de carga y al despertarla programa una recarga completa de 24 horas, como recomienda el manual", "Revisa nivel de líquido de frenos y presión de neumáticos en cada inspección casera: en una eléctrica son el mantenimiento real del día a día", "Sin embrague, sin marchas y sin aceite, tu rutina se reduce a correa, frenos, neumáticos y actualizaciones de software mediante Cypher"]},
+    mantenimientoDIY: {"aceiteTipo": "Sin aceite de motor: es eléctrica y no hay lubricante del propulsor que cambiar; el único fluido con renovación programada es el líquido de frenos, cada 12 meses según el manual", "cadenaPasos": ["Antes de cada salida, echa un vistazo a la correa buscando cortes, grietas o dientes dañados y retira cualquier piedrecilla incrustada", "Límpiala solo con agua y un cepillo suave, déjala siempre seca y lejos de grasas o aceites, que degradan el carbono", "Mide la tensión con la app gratuita Gates Carbon Drive acercando el móvil y pulsando la correa como indica el manual", "Si ajustas la tensión, afloja el eje trasero y mueve ambos lados a la par para mantener la rueda alineada, reapretando después al par indicado", "Apunta la sustitución preventiva a los 37.000 km aunque visualmente parezca sana: es el límite que fija el manual del propietario"], "intervaloMantenimiento": "Inspección oficial cada dos años o 10.000 km según consta en la propia ficha (fuente: manual Zero); el manual del propietario añade cambio de líquido de frenos cada 12 meses y sustitución de la correa a los 37.000 km", "trucos": ["Si va a dormir más de un mes, no la dejes por debajo del 30 % de carga y al despertarla programa una recarga completa de 24 horas, como recomienda el manual", "Revisa nivel de líquido de frenos y presión de neumáticos en cada inspección casera: en una eléctrica son el mantenimiento real del día a día", "Sin embrague, sin marchas y sin aceite, tu rutina se reduce a correa, frenos, neumáticos y actualizaciones de software mediante Cypher"]},
   },
   {
     id: "zero-fx-2026-ficha-tecnica-precio",
@@ -3158,7 +3158,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: ["costeAnualAproxEur"],
     pros: ["Con 131 kg en orden de marcha, cambiar de carril o sortear una rotonda cuesta poquísimo esfuerzo", "El pack de 7,2 kWh se desmonta, así que quien vive en un piso puede recargarlo junto a la mesa del salón", "Hasta 161 km declarados dan margen de sobra para ir y volver al trabajo entre semana sin enchufarla a diario", "Su silueta alta y estrecha, a mitad de camino entre enduro y supermoto, invita a enlazar curvas de puerto a ritmo alegre", "Los 44 CV llegan de golpe al abrir el puño, sin marchas ni embrague que interrumpan el empuje", "Pensada para el A2, encaja tanto en trayectos diarios como en escapadas cortas por pistas sencillas el fin de semana"],
-    contras: ["En España la ficha deja el precio en blanco, así que tocará contactar con un distribuidor para conocer la cifra final", "Fuera del entorno urbano el alcance se queda corto y obliga a planificar cada salida con el cargador en mente", "Al no llevar pantalla ni protecciones, los tramos rápidos por autovía se hacen incómodos y consumen batería a mayor velocidad", "Frente a otros modelos de la casa, este pack es el más contenido, y eso marca el límite en uso mixto", "El asiento, plano y angosto, castiga la postura cuando el trayecto se alarga más de lo previsto", "La presencia comercial de la marca aquí es escasa, por lo que verla en persona puede exigir desplazarse lejos"],
+    contras: ["En España la ficha deja el precio en blanco, así que tocará contactar con un distribuidor para conocer la cifra final", "Fuera del entorno urbano el alcance se queda corto y obliga a planificar cada salida con el cargador en mente", "Al no llevar pantalla ni protecciones, los tramos rápidos por autovía se hacen incómodos y consumen batería a mayor velocidad", "Frente a otros modelos de la casa, este pack es el más contenido, y eso marca el límite en uso mixto", "El asiento, plano y angosto, castiga la postura cuando el trayecto se hace más largo de lo previsto", "La presencia comercial de la marca aquí es escasa, por lo que verla en persona puede exigir desplazarse lejos"],
     curiosidades: ["Dentro del catálogo eléctrico de la firma, esta variante actúa como escalón de acceso sin renunciar a una parte ciclo adulta", "Desmontar el acumulador no es tarea de una sola persona a la ligera: su masa aconseja ayuda o un carrito auxiliar", "Su planteamiento mezcla dos mundos: agilidad de moto de campo en la ciudad y aplomo juguetón sobre asfalto retorcido", "Zero la define en clave dual: sirve para moverse a diario y también para perderse por caminos sin complicaciones"],
     imagen: "/media/fotos-reales/zero-fx-2026-ficha-tecnica-precio/zero-fx-2026-ficha-tecnica-precio-real-1.webp",
     galeria: [
@@ -3188,19 +3188,19 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
+          queSeCambia: "Inspección general + actualización del software + filtro de polen (si lleva)",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Revisión general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Zero Motorcycles España",
     },
-    mantenimientoDIY: {"aceiteTipo": "Sin aceite de motor que cambiar: propulsión eléctrica, sin filtro de aceite ni bujías. El control se centra en líquido de frenos y desgaste de pastillas según inspección", "cadenaPasos": ["Quita el contacto y deja la moto apoyada de forma estable antes de tocar la transmisión", "Revisa visualmente la correa dentada buscando cortes, dientes dañados, grietas o bordes deshilachados", "Comprueba su tensión en el tramo superior siguiendo el procedimiento y el útil indicados en el manual del propietario", "Limpia correa y poleas con agua y un poco de jabón suave; nunca apliques grasa ni aceite sobre la correa", "Si tras una salida por campo queda barro o piedras entre los dientes, retíralos antes de volver a rodar", "Ajusta ambos lados por igual si hay que tensar y verifica de nuevo la tensión tras una breve prueba"], "intervaloMantenimiento": "24 meses o 10.000 km (inspección), según el plan ya recogido en la ficha con fuente del manual oficial Zero Motorcycles España", "trucos": ["Al ser eléctrica, gran parte del cuidado diario es revisar presiones, frenos y el estado de la correa antes de salir", "Tras rodar por zonas polvorientas o húmedas, una limpieza temprana de la correa alarga su vida útil", "Anota cada inspección de 24 meses o 10.000 km para no saltarte la actualización de software prevista en la revisión", "Nunca lubriques la correa como si fuera una cadena: el manual pide mantenerla limpia y sin grasa"]},
+    mantenimientoDIY: {"aceiteTipo": "Sin aceite de motor que cambiar: propulsión eléctrica, sin filtro de aceite ni bujías. El control se centra en líquido de frenos y desgaste de pastillas según inspección", "cadenaPasos": ["Quita el contacto y deja la moto apoyada de forma estable antes de tocar la transmisión", "Revisa visualmente la correa dentada buscando cortes, dientes dañados, grietas o bordes deshilachados", "Comprueba su tensión en el tramo superior siguiendo el procedimiento y el útil indicados en el manual del propietario", "Limpia correa y poleas con agua y un poco de jabón suave; nunca apliques grasa ni aceite sobre la correa", "Si tras una salida por campo queda barro o piedras entre los dientes, retíralos antes de volver a rodar", "Ajusta ambos lados por igual si hay que tensar y verifica de nuevo la tensión tras una breve prueba"], "intervaloMantenimiento": "24 meses o 10.000 km (inspección), según el plan ya recogido en la ficha con fuente del manual oficial Zero Motorcycles España", "trucos": ["Al ser eléctrica, gran parte del cuidado diario es revisar presiones, frenos y el estado de la correa antes de salir", "Tras rodar por zonas polvorientas o húmedas, una limpieza temprana de la correa alarga su vida útil", "Anota cada inspección de 24 meses o 10.000 km para no saltarte la actualización de software prevista en la revisión", "Nunca engrases la correa como si fuera una cadena: el manual pide mantenerla limpia y sin grasa"]},
   },
   {
     id: "zero-s-2025-ficha-tecnica-precio",
@@ -3220,12 +3220,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     pesoKg: 223,
     plazas: 2,
     carnet: "A1",
-    carga: "Enchufe doméstico ~9-10 h · Rapid Charge opcional (hasta 12,6 kW) · carga rápida en CC prevista para 2027",
+    carga: "Enchufe doméstico ~9-10 h · Rapid Charge en opción (hasta 12,6 kW) · carga rápida en CC prevista para 2027",
     etiquetaDgt: "Cero",
     aprox: ["costeAnualAproxEur"],
     pros: ["Con 262 km homologados como autonomía declarada, se coloca por delante en distancia por carga dentro de su categoría con permiso A1", "Empuja como una naked de mayor cilindrada gracias a sus 132 Nm inmediatos, con techo de velocidad situado en 139 km/h", "El paquete de ayudas firmado por Bosch aporta estabilidad en frenada y al abrir gas, con función adicional para apoyos inclinados como extra", "Desde el móvil puedes ajustar cómo responde, revisar su estado a distancia y mantener el software al día", "La marca sigue sumando distribuidores: durante 2025 la red subió un 58 % y ya supera los 250 en el planeta"],
     contras: ["Cuesta 18.295 euros, una tarifa que deja muy atrás a las opciones de gasolina equivalentes a una 125", "Si usas el cargador incluido tardarás unas nueve o diez horas; acortar ese tiempo exige pagar el sistema rápido aparte", "Sobre la báscula marca 223 kilos, cifra alta cuando toca maniobrar en parado o en garajes estrechos", "En vías rápidas el alcance práctico se reduce bastante respecto a los 262 km anunciados por la firma", "Cambiar el pack energético una vez vencida su cobertura supondría un desembolso importante para el propietario"],
-    curiosidades: ["Para 2027 está prevista la llegada de recarga continua mediante CCS, aplicable también a unidades S y DS producidas a partir de 2022", "El ejercicio 2025 dejó subidas comerciales desiguales: Norteamérica avanzó un 89 %, mientras Europa y los demás mercados sumaron un 17 %", "Entre las naked sin emisiones aptas para quien convalida el permiso B, ninguna ofrece un nivel de potencia superior en este formato", "El acumulador de 15,6 kWh está respaldado durante cinco años sin tope de kilómetros recorridos"],
+    curiosidades: ["Para 2027 está prevista la llegada de recarga continua mediante CCS, aplicable también a unidades S y DS producidas a partir de 2022", "El ejercicio 2025 dejó subidas comerciales desiguales: Norteamérica avanzó un 89 %, mientras Europa y los demás mercados sumaron un 17 %", "Entre las naked sin emisiones aptas para quien convalida el permiso B, ninguna ofrece un nivel de potencia superior en este formato", "El acumulador de 15,6 kWh está respaldado durante cinco años sin límite de kilómetros recorridos"],
     imagen: "/media/fotos-reales/zero-s-2025-ficha-tecnica-precio/zero-s-2025-ficha-tecnica-precio-real-1.webp",
     galeria: [
       {
@@ -3254,19 +3254,19 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
+          queSeCambia: "Inspección general + puesta al día del software + filtro de polen (si lleva)",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Revisión general + líquido de freno + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Zero Motorcycles España",
     },
-    mantenimientoDIY: {"aceiteTipo": "No aplica: motor eléctrico sin aceite de motor ni filtro de aceite que sustituir; tampoco lleva cadena que engrasar, la transmisión final es por correa", "cadenaPasos": ["Con la moto apagada y en frío, observa la correa por ambos lados buscando cortes, deshilachados, dientes dañados o suciedad acumulada", "Retira polvo y restos con un paño seco o aire suave; mantén correa y piñones alejados de grasas, aceites y disolventes", "Comprueba la tensión siguiendo el manual de Zero, por ejemplo con la aplicación Gates Carbon Drive citada en su documentación, y deja el ajuste fino al taller si sale de rango", "Mira el grosor visible de las pastillas y el nivel del líquido de frenos por la mirilla, sin abrir el circuito hidráulico", "Revisa presiones y dibujo de los neumáticos, tornillería accesible a simple vista y funcionamiento de luces antes de salir"], "intervaloMantenimiento": "Inspección oficial cada 24 meses o 10.000 km según el plan recogido en la ficha con fuente en el manual oficial Zero; entre visitas, control visual frecuente en casa de correa, frenos y neumáticos, sin tocar el sistema de alta tensión", "trucos": ["Evita guardarla largos periodos con la batería muy baja y sigue las indicaciones del manual sobre estado de carga durante el almacenamiento", "Carga habitualmente en enchufe doméstico y reserva la recarga rápida opcional de hasta 12,6 kW para cuando hagas muchos kilómetros seguidos", "Si notas chirridos, tirones o marcas anómalas en la correa, no apliques lubricantes de cadena: acude a un servicio oficial Zero"]},
+    mantenimientoDIY: {"aceiteTipo": "No aplica: motor eléctrico sin aceite de motor ni filtro de aceite que sustituir; tampoco lleva cadena que engrasar, la transmisión final es por correa", "cadenaPasos": ["Con la moto apagada y en frío, observa la correa por ambos lados buscando cortes, deshilachados, dientes dañados o suciedad acumulada", "Retira polvo y restos con un paño seco o aire suave; mantén correa y piñones alejados de grasas, aceites y disolventes", "Comprueba la tensión siguiendo el manual de Zero, por ejemplo con la aplicación Gates Carbon Drive citada en su documentación, y deja el ajuste fino al taller si sale de rango", "Mira el grosor visible de las pastillas y el nivel del líquido de frenos por la mirilla, sin abrir el circuito hidráulico", "Revisa presiones y dibujo de los neumáticos, tornillería accesible a simple vista y funcionamiento de luces antes de salir"], "intervaloMantenimiento": "Inspección oficial bienal o cada 10.000 km según el plan que recoge la ficha con fuente en el manual oficial Zero; entre visitas, control visual frecuente en casa de correa, frenos y neumáticos, sin tocar el sistema de alta tensión", "trucos": ["Evita guardarla largos periodos con la batería muy baja y sigue las indicaciones del manual sobre estado de carga durante el almacenamiento", "Carga habitualmente en enchufe doméstico y reserva la recarga rápida opcional de hasta 12,6 kW para cuando hagas muchos kilómetros seguidos", "Si notas chirridos, tirones o marcas anómalas en la correa, no apliques lubricantes de cadena: acude a un servicio oficial Zero"]},
   },
   {
     id: "energica-eva-ribelle-2025-ficha-tecnica-precio",
@@ -3286,11 +3286,11 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     pesoKg: 270,
     plazas: 2,
     carnet: "A",
-    carga: "Carga rápida CC: 80% en menos de 1 hora; cargador AC de a bordo: ~3,5 h; toma doméstica: ~6 h",
+    carga: "Carga rápida en CC: 80% en menos de 1 hora; cargador AC de a bordo: ~3,5 h; toma doméstica: ~6 h",
     etiquetaDgt: "Cero",
     aprox: ["costeAnualAproxEur"],
     pros: ["El conjunto EMCE de esta última etapa declara 126 kW (171 CV) y 215 Nm sin marchas ni embrague: el 0-100 km/h oficial de la Ribelle estándar es de 2,8 segundos, con la velocidad punta capada a 200 km/h", "Es de las pocas naked que carga en CCS como un coche: en corriente continua pasa del 20 al 80 % en unos 40 minutos, a razón de 6,7 km de autonomía urbana recuperados por minuto enchufada", "La batería de 21,5 kWh máximos (18,9 kWh nominales) no se queda en el titular urbano de la ficha: Energica declaraba 230 km en uso combinado y 180 km en extraurbano, cifras más útiles para salir de Madrid un sábado", "Parte ciclo con nombres concretos y ajustables: horquilla Marzocchi de 43 mm, monoamortiguador Bitubo, pinzas radiales Brembo sobre discos de 330 mm, ABS Bosch desconectable y control de tracción de seis niveles", "Para mover sus 270 kg en garajes lleva asistente de aparcamiento marcha adelante y atrás a 2,8 km/h, y la función LPR equilibra sola la batería si la moto pasa semanas parada"],
-    contras: ["Comprarla como 2025 exige asumir el contexto: Energica acordó su liquidación judicial el 14 de octubre de 2024, así que hablamos de stock de la última etapa, no de una gama 2025 con producción normal y red comercial asentada", "El rescate por inversores de Singapur anunciado en agosto de 2025 marcaba como primera prioridad reponer recambios y después retomar la producción, pero eso no equivale a tener hoy posventa en España al nivel de una marca en activo", "Los 30.214 € de la ficha duelen más con ese panorama: si la reventa cae o una avería electrónica espera pieza de Módena, el coste no es el de una naked premium respaldada por una red amplia", "Fuera de ciudad la autonomía se estrecha hasta los 180 km extraurbanos declarados y el peso de 270 kg se nota en puertos y maniobras, pese al asiento a 790 mm y al asistente de aparcamiento"],
+    contras: ["Comprarla como 2025 exige asumir el contexto: Energica acordó su liquidación judicial del 14 de octubre de 2024, así que hablamos de stock de la última etapa, no de una gama 2025 con producción normal y red comercial asentada", "El rescate por inversores de Singapur anunciado en agosto de 2025 marcaba como primera prioridad reponer recambios y después retomar la producción, pero eso no equivale a tener hoy posventa en España al nivel de una marca en activo", "Los 30.214 € de la ficha duelen más con ese panorama: si la reventa cae o una avería electrónica espera pieza de Módena, el coste no es el de una naked premium respaldada por una red amplia", "Fuera de ciudad la autonomía se estrecha hasta los 180 km extraurbanos declarados y el peso de 270 kg se nota en puertos y maniobras, pese al asiento a 790 mm y al asistente de aparcamiento"],
     curiosidades: ["Energica fue el suministrador único de la Copa del Mundo FIM Enel MotoE durante cuatro temporadas, de 2019 a 2022, y la Ribelle hereda el motor y la electrónica pulidos en esa Ego Corsa de carreras", "En 2023 una Eva Ribelle RS con Kit Corsa Clienti corrió el Super Hooligan de MotoAmerica contra motos de combustión: fue segunda en COTA y terminó cuarta el campeonato, algo inédito para una eléctrica de serie"],
     imagen: "/media/energica-eva-ribelle-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -3320,12 +3320,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
+          queSeCambia: "Inspección general + actualización de software + filtro antipolen (si lleva)",
           costeAproxEur: 120,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Revisión general + fluido de frenos + pastillas (según desgaste)",
           costeAproxEur: 180,
         },
       ],
@@ -3351,10 +3351,10 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     pesoKg: 101,
     plazas: 2,
     carnet: "A1 (válido con B +3 años)",
-    carga: "Batería extraíble de 72 V y 45 Ah; carga nocturna en enchufe doméstico",
+    carga: "Batería desmontable de 72 V y 45 Ah; carga nocturna en enchufe doméstico",
     etiquetaDgt: "Cero",
     aprox: ["autonomiaKm", "costeAnualAproxEur"],
-    pros: ["Sus 95 km/h la sacan de la ciudad pura: con el A1, o con el B y tres años de antigüedad, puede enlazar rondas e interurbanos cortos donde un ciclomotor eléctrico se queda corto", "La batería de 72 V y 45 Ah (3,2 kWh) va alojada en el falso depósito y se extrae: si tu garaje no tiene enchufe, la subes y la cargas de noche en una toma doméstica", "Con 101 kg en orden de marcha se mueve en parado y entre coches con una facilidad que una 125 térmica equivalente no suele ofrecer", "La correa dentada sustituye a la cadena: nada de engrasar ni tensar, y la marcha es tan silenciosa como cabe esperar de una eléctrica sin ese traqueteo", "Etiqueta Cero de la DGT y estética café racer con ruedas de radios: entra en las zonas restringidas sin renunciar a parecer una moto clásica de verdad"],
+    pros: ["Sus 95 km/h la sacan de la ciudad pura: con el A1, o con el B tras tres años de carnet, puede enlazar rondas e interurbanos cortos donde un ciclomotor eléctrico se queda corto", "El acumulador de 72 V y 45 Ah (3,2 kWh) va alojado en el falso depósito y se extrae: si tu garaje no tiene enchufe, la subes y la cargas de noche en una toma doméstica", "Con 101 kg en orden de marcha se mueve en parado y entre coches con una facilidad que una 125 térmica equivalente no suele ofrecer", "La correa dentada sustituye a la cadena: nada de engrasar ni tensar, y la marcha es tan silenciosa como cabe esperar de una eléctrica sin ese traqueteo", "Etiqueta Cero de la DGT y estética café racer con ruedas de radios: entra en las zonas restringidas sin renunciar a parecer una moto clásica de verdad"],
     contras: ["Los 110 km son la autonomía declarada por la marca: sostener ritmos cercanos a su punta de 95 km/h recorta esa cifra de forma sensible, así que el planeamiento de carga manda", "Frena con pinzas Brembo y frenada combinada CBS, pero sin ABS: en mojado o sobre pasos de cebra pintados toca dosificar la maneta con más cabeza que en una rival antibloqueo", "Extraíble no significa ligera: la batería pesa 21,9 kg según la prueba de Moto125, y subirla a diario a un piso sin ascensor acaba pasando factura", "Los 3,9 kW nominales (5,3 CV) van justos a dúo: está homologada para dos plazas, pero en incorporaciones y cuestas con pasajero la reserva de potencia es escasa"],
     curiosidades: ["Lo que parece el depósito de gasolina es en realidad la tapa de la batería: se abre con una cerradura situada bajo el asiento y bajo ella también va el cortacorrientes", "En su presentación europea convivieron dos versiones de llanta, aleación y radios, siendo la de radios la opción estética de pago que define su imagen café racer"],
     imagen: "/media/super-soco-tc-max-2026-ficha-tecnica-precio-oficial.webp",
@@ -3380,12 +3380,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
+          queSeCambia: "Inspección general + actualización del software + filtro antipolen (si lleva)",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Control general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
@@ -3411,12 +3411,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     pesoKg: 144,
     plazas: 2,
     carnet: "A1",
-    carga: "Baterías extraíbles (hasta 2) · ~3,5 h por batería en enchufe doméstico",
+    carga: "Baterías extraíbles (hasta 2) · ~3,5 h por acumulador en enchufe doméstico",
     etiquetaDgt: "Cero",
     aprox: [
       "pesoKg",
     ],
-    pros: ["En la 2025 la autonomía depende de cuántos packs montes: con uno homologa 72 km WMTC y con los dos extraíbles, que suman 5,4 kWh, sube a 137 km WMTC, y cada pack se recarga en unas 3,5 horas en un enchufe doméstico sin dejar el scooter abajo", "El tren de rueda alta de esta CPx —16 pulgadas delante y 14 detrás— afronta badenes, adoquín y tapas de alcantarilla con más aplomo que un eléctrico urbano de rueda de 12 pulgadas, algo que se nota a diario con sus 144 kg en orden de marcha", "La marcha atrás y el modo parking se accionan desde la piña y resuelven la maniobra en aparcamientos en batería o rampas de garaje estrechas, justo donde un scooter de 90 km/h con motor en el buje trasero más se atasca", "Mantiene de serie la localización por GPS con SIM M2M y la app con autodiagnóstico, con dos años de servicio incluidos según la ficha: para una 2025 de 5.589 euros es un antirrobo que la mayoría de rivales A1 cobra aparte o ni ofrece", "Con 4 kW y 5,4 CV, carnet A1 y etiqueta Cero, la CPx 2025 entra en zonas de bajas emisiones y sostiene sus 90 km/h homologados en M-30 y vías de circunvalación cortas sin necesidad de subir de categoría de permiso"],
+    pros: ["En la 2025 la autonomía depende de cuántos packs montes: con uno homologa 72 km WMTC y con los dos extraíbles, que suman 5,4 kWh, sube a 137 km WMTC, y cada pack se recarga en unas 3,5 horas en una toma doméstica sin dejar el scooter abajo", "El tren de rueda alta de esta CPx —16 pulgadas delante y 14 detrás— afronta badenes, adoquín y tapas de alcantarilla con más aplomo que un eléctrico urbano de rueda de 12 pulgadas, algo que se nota a diario con sus 144 kg en orden de marcha", "La marcha atrás y el modo parking se accionan desde la piña y resuelven la maniobra en aparcamientos en batería o rampas de garaje estrechas, justo donde un scooter de 90 km/h con motor en el buje trasero más se atasca", "Mantiene de serie la localización por GPS con SIM M2M y la app con autodiagnóstico, con dos años de servicio incluidos según la ficha: para una 2025 de 5.589 euros es un antirrobo que la mayoría de rivales A1 cobra aparte o ni ofrece", "Con 4 kW y 5,4 CV, carnet A1 y etiqueta Cero, la CPx 2025 entra en zonas de bajas emisiones y sostiene sus 90 km/h homologados en M-30 y vías de circunvalación cortas sin necesidad de subir de categoría de permiso"],
     contras: ["En pleno 2025 sigue sin ABS y se conforma con frenada combinada CBS: en mojado o sobre pintura vial el margen es menor que en los eléctricos A1 que ya montan antibloqueo de doble canal", "Los 137 km solo llegan con las dos baterías; con una sola, la prueba citada en la ficha midió unos 74 km en modo 1, una cifra mucho más justa si encadenas ida, recados y vuelta sin recargar entre medias", "Montar el segundo pack en la 2025 condena el hueco bajo el asiento: ganas autonomía pero pierdes el sitio para el casco jet que sí queda libre en la configuración de una sola batería", "Los 90 km/h de punta dejan poco colchón para adelantar en vías rápidas y el ventilador del cargador hace bastante ruido durante las 3,5 horas por batería, dos pegas concretas si cargas de noche en casa"],
     curiosidades: ["Del mismo chasis de la CPx salió la CPx-D de reparto, con cajón trasero y 130 km de autonomía WMTC declarados para uso profesional", "En la medición citada por la ficha, moto125.cc registró 91 km/h reales —uno por encima de los 90 homologados— y un coste de uso de solo 0,70 euros cada 100 km"],
     imagen: "/media/super-soco-cpx-2025-ficha-tecnica-precio-oficial.webp",
@@ -3447,12 +3447,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
+          queSeCambia: "Revisión general + puesta al día del software + filtro antipolen (si lleva)",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Control general + líquido de freno + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
@@ -3481,7 +3481,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["velocidadMax", "costeAnualAproxEur"],
-    pros: ["Se puede llevar con el A1 o con el carnet B con tres años de antigüedad y lleva etiqueta C de la DGT: entra en la 2025 sin exámenes extra quien ya conduce un coche, algo que la ficha deja claro desde el primer dato.", "La relación entre cifras juega a su favor en ciudad: 14,2 CV (10,4 kW) para solo 133 kg y una velocidad máxima aproximada de 110 km/h según la ficha, suficiente para enlazar rondas y circunvalaciones sin ir vendida.", "El cuadro TFT personalizable es su toque moderno frente a las neo-retro de relojes analógicos: información digital completa en una moto de estética clásica, un equipamiento que la ficha destaca como raro en el segmento 125.", "No es una naked disfrazada de retro: llantas de radios, neumáticos mixtos, escape elevado y doble amortiguador trasero construyen una imagen scrambler coherente, rematada con horquilla invertida de 40 mm delante.", "La versión de esta ficha es directamente la de ABS por 4.449 euros: no hay que pagar un escalón posterior ni conformarse con la frenada combinada de las variantes más baratas de años anteriores."],
+    pros: ["Con el permiso A1 o con el permiso B tras tres años de antigüedad, lleva etiqueta C de la DGT: entra en la 2025 sin exámenes extra quien ya conduce un coche, algo que la ficha deja claro desde el primer dato.", "La relación entre cifras juega a su favor en ciudad: 14,2 CV (10,4 kW) para solo 133 kg y una velocidad máxima aproximada de 110 km/h según la ficha, suficiente para enlazar rondas y circunvalaciones sin ir vendida.", "El cuadro TFT personalizable es su toque moderno frente a las neo-retro de relojes analógicos: información digital completa en una moto de estética clásica, un equipamiento que la ficha destaca como raro en el segmento 125.", "No es una naked disfrazada de retro: llantas de radios, neumáticos mixtos, escape elevado y doble amortiguador trasero construyen una imagen scrambler coherente, rematada con horquilla invertida de 40 mm delante.", "La versión de esta ficha es directamente la de ABS por 4.449 euros: no hay que pagar un escalón posterior ni conformarse con la frenada combinada de las variantes más baratas de años anteriores."],
     contras: ["4.449 euros en la ficha, y marcados como aproximados: es dinero de 125 premium. Quien busque solo transporte A1 barato encontrará opciones muy por debajo sin este diseño.", "El asiento a 795 mm que recoge la ficha original penaliza a los más bajos: los 133 kg ayudan a maniobrar, pero llegar con los dos pies planos al suelo no está garantizado.", "La parte trasera minimalista deja al pasajero justo: hay dos plazas sobre el papel, pero la HPS 2025 está pensada para ir solo casi siempre y a dúo solo en trayectos cortos.", "Su techo aproximado de 110 km/h marca el límite en autovía: cumple, pero sin reserva para adelantar con carga o viento en contra, como le pasa a casi toda 125 llevada al extremo."],
     curiosidades: ["Su pantalla TFT cambia a fondo negativo cuando hay poca luz, un detalle de instrumentación moderna escondido en una moto de estética de los años sesenta que la propia ficha original ya recogía.", "El soporte de la matrícula no va bajo el colín, sino fijado a los extremos del basculante, y el escape es doble, elevado y con las dos salidas superpuestas en un lateral."],
     imagen: "/media/mondial-hps-125-2025-ficha-tecnica-precio-oficial.webp",
@@ -3508,16 +3508,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervalo: "6.000 km o 12 meses, con la revisión inicial a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Lubricante + filtro del aceite + revisión general y aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro del aire + bujía (según kilometraje) + filtro de aceite + revisión general",
           costeAproxEur: 160,
         },
       ],
@@ -3546,7 +3546,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: ["Pantalla TFT a color con dos visualizaciones, Clásica y Racing, y brillo que se ajusta solo según la luz ambiental: un guiño moderno muy poco habitual en una 125 de estética de óvalo de tierra", "Monocilíndrico de 124 cc con culata DOHC de cuatro válvulas y refrigeración líquida que rinde 13,6 CV, cerca del techo del carnet A1, con caja de seis velocidades para estirarlo en ciudad", "Freno delantero de 280 mm con pinza radial de cuatro pistones para un conjunto de solo 133 kg: la frenada va sobrada respecto a lo que pide esta potencia", "Colín afilado de aspecto monoplaza que se desmonta y esconde el asiento del pasajero, así que conserva las dos plazas de la ficha sin romper la silueta de tracker cuando vas solo"],
+    pros: ["Pantalla TFT a color con dos visualizaciones, Clásica y Racing, y brillo que se ajusta solo según la luz ambiental: un guiño moderno muy poco habitual en una 125 de estética de óvalo de tierra", "Monocilíndrico de 124 cc con culata DOHC de cuatro válvulas y refrigeración líquida que rinde 13,6 CV, cerca del techo del carnet A1, con caja de seis velocidades para estirarlo en ciudad", "Freno anterior de 280 mm con pinza radial de 4 pistones para un conjunto de solo 133 kg: la frenada va sobrada respecto a lo que pide esta potencia", "Colín afilado de aspecto monoplaza que se desmonta y esconde el asiento del pasajero, así que conserva las dos plazas de la ficha sin romper la silueta de tracker cuando vas solo"],
     contras: ["Esos 13,6 CV mandan en ciudad, pero en vías rápidas y con pasajero se nota que no hay reserva: adelantar exige planificar y bajar marchas", "El alumbrado va integrado en la placa portanúmeros frontal con dos ópticas LED pequeñas, una solución de competición que de noche en carretera secundaria se queda corta", "La apuesta por la imagen se paga en lo práctico: portanúmeros laterales, guardabarros envolventes y colín de carreras dejan una moto sin apenas espacio útil ni concesiones al día a día", "Mondial es una marca minoritaria en España, y eso se traslada a la reventa y a la disponibilidad de recambios frente a las 125 japonesas y europeas más vendidas"],
     curiosidades: ["Lleva estampado el dorsal 57 en las placas portanúmeros en homenaje a 1957, el año en el que FB Mondial conquistó cuatro títulos mundiales, según recoge RideApart al presentar la actualización del modelo", "Aunque parece monoplaza estricta, bajo el colín se esconde un segundo asiento: la propia prensa especializada lo destaca como el truco que permite llevar pasajero sin alterar su línea de dirt track"],
     imagen: "/media/mondial-flat-track-125-2025-ficha-tecnica-precio-oficial.webp",
@@ -3573,16 +3573,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervalo: "6.000 km o un año (revisión inicial a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Lubricante + filtro del aceite + inspección general con aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Lubricante + filtro de aire + bujía (según km) + filtro del aceite + inspección general",
           costeAproxEur: 160,
         },
       ],
@@ -3608,10 +3608,10 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     pesoKg: 128,
     plazas: 2,
     carnet: "A1 (válido con B +3 años)",
-    carga: "Dos baterías extraíbles de 72 V; recarga en unas 5 h en enchufe doméstico",
+    carga: "Dos baterías extraíbles de 72 V; recarga en unas 5 h en toma doméstica",
     etiquetaDgt: "Cero",
     aprox: ["costeAnualAproxEur"],
-    pros: ["En esta versión 2026 su punta de 100 km/h le permite salir de la ciudad y rodar por circunvalaciones sin quedarse corto", "Puedes llevarlo con el A1 o con el B de más de tres años: sus 8,8 CV y la etiqueta Cero juegan a su favor en ciudad", "Las dos baterías extraíbles de 72 V se recargan en casa en unas 5 horas, sin depender de un garaje con punto fijo", "El cuadro de instrumentos a color se configura a gusto del conductor y el faro con aro luminoso aporta identidad propia", "Lleva localización por GPS y bloqueo electrónico del manillar desde la aplicación, un plus cuando duerme en la calle"],
+    pros: ["En esta versión 2026 su punta de 100 km/h le permite salir de la ciudad y rodar por circunvalaciones sin quedarse corto", "Puedes llevarlo con el A1 o con el B superados los tres años: sus 8,8 CV y la etiqueta Cero juegan a su favor en ciudad", "Las dos baterías extraíbles de 72 V se recargan en casa en unas 5 horas, sin necesitar un garaje con punto fijo", "El cuadro de instrumentos a color se configura a gusto del conductor y el faro con aro luminoso aporta identidad propia", "Lleva localización por GPS y bloqueo electrónico del manillar desde la aplicación, un plus cuando duerme en la calle"],
     contras: ["Los 75 km declarados se quedan cortos si encadenas varios trayectos largos en un mismo día", "Cuesta 4.999 euros, cifra que ya invita a mirar alternativas térmicas equivalentes con depósitos mucho mayores", "En báscula marca 128 kg, algo que se nota al maniobrar despacio o al aparcar en pendiente", "Bajo el asiento manda la segunda batería, por lo que el espacio para guardar un casco queda muy limitado", "La frenada combinada CBS y la regeneración no compensan la ausencia de ABS y de control de tracción"],
     curiosidades: ["Antes de aparecer la familia NQiX, ningún otro modelo de la casa ofrecía tanta potencia como este Evo", "Su propulsor eléctrico, suministrado por Bosch, entrega 6,5 kW y por eso se homologa en la categoría equivalente a 125", "Con el programa E-Save activado, la velocidad queda limitada a 45 km/h a cambio de exprimir cada carga al máximo", "Su debut tuvo lugar en Milán, durante el salón EICMA, compartiendo escenario con el prototipo RQi de la marca"],
     imagen: "/media/niu-mqi-gt-evo-2026-ficha-tecnica-precio-oficial.webp",
@@ -3637,12 +3637,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
+          queSeCambia: "filtro de polen (si lleva) + Inspección general + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Control general + fluido de frenos + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
@@ -3669,7 +3669,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     pesoKg: 127,
     plazas: 2,
     carnet: "A1 (válido con B +3 años)",
-    carga: "Dos baterías extraíbles de 72 V y 28 Ah; carga completa en 3-6 h en enchufe doméstico",
+    carga: "Dos baterías desmontables de 72 V y 28 Ah; carga completa en 3-6 h en enchufe doméstico",
     etiquetaDgt: "Cero",
     aprox: ["autonomiaKm", "costeAnualAproxEur"],
     pros: ["Por 3.799 € ofrece 8,7 CV y una punta de 95 km/h, territorio habitual de un scooter de gasolina de 125", "Puedes subirte cada acumulador a casa y enchufarlo allí, sin obra ni punto de recarga comunitario", "Desde el móvil consultas posición, avisos de movimiento y estado general, mientras la retención al soltar gas ayuda a recuperar energía", "Quedarse a 760 mm del suelo y mover solo 127 kg facilita maniobrar en parado a conductores de estatura muy distinta", "Afronta rampas con una inclinación del 25 % sin quedarse clavada, algo útil en barrios altos o garajes complicados"],
@@ -3703,19 +3703,19 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
+          queSeCambia: "filtro de polen (si lleva) + Inspección general + puesta al día del software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Inspección general + pastillas (según desgaste) + líquido de frenos",
           costeAproxEur: 150,
         },
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Niu España",
     },
-    mantenimientoDIY: {"aceiteTipo": "No aplica: scooter eléctrico sin aceite de motor, sin bujías ni filtro de aire de combustión y sin cadena que engrasar; el líquido de frenos y las pastillas se revisan y sustituyen solo según desgaste en la inspección oficial", "cadenaPasos": ["Con la moto apagada y sobre una superficie plana, extrae los dos acumuladores y examina carcasas, asas y contactos buscando golpes, humedad o suciedad acumulada", "Comprueba presiones, dibujo y posibles cortes en ambos neumáticos, y gira cada rueda en vacío para detectar roces, holguras o ruidos extraños", "Acciona las dos manetas varias veces, revisa el tacto de la frenada, el estado visible de las pastillas y que ninguna luz de freno deje de encenderse", "Enchufa cada batería por separado en una toma doméstica con su cargador original y verifica que el proceso termina dentro del margen de 3 a 6 horas indicado en la ficha", "Pasa un paño suave y seco por el compartimento de las baterías y por los bornes, sin usar agua a presión en esa zona ni en el puerto de carga", "Abre la aplicación de la marca, consulta avisos y diagnóstico, instala las actualizaciones disponibles y anota fecha y kilometraje de cada control casero"], "intervaloMantenimiento": "Inspección en servicio oficial cada 24 meses o 10.000 km, lo que antes ocurra, según el plan ya registrado en el propio objeto de esta ficha con fuente Manual oficial NIU España; entre visitas, controles caseros periódicos de frenos, neumáticos, luces y baterías", "trucos": ["Planifica las recargas completas con margen: la ficha sitúa el proceso entre 3 y 6 horas, así que dejarlas enchufadas durante la jornada laboral o por la noche evita quedarte a medias", "Retira siempre los acumuladores antes de lavar el scooter y no vuelvas a enchufar nada hasta comprobar que contactos y puerto están completamente secos", "Si va a estar parado una temporada, guárdalo en un lugar seco y ventilado y revisa el nivel de carga de ambos packs antes de volver a circular", "Lleva un registro sencillo con presiones, frenos y cualquier aviso de la aplicación: llegar a la inspección oficial de los 24 meses o 10.000 km con ese historial facilita detectar desgastes anómalos"]},
+    mantenimientoDIY: {"aceiteTipo": "No aplica: scooter eléctrico sin aceite de motor, sin bujías ni filtro de aire de combustión y sin cadena que engrasar; el líquido de frenos y las pastillas se revisan y sustituyen solo según desgaste en la inspección oficial", "cadenaPasos": ["Con la moto apagada y sobre una superficie plana, extrae los dos acumuladores y examina carcasas, asas y contactos buscando golpes, humedad o suciedad acumulada", "Comprueba presiones, dibujo y posibles cortes en las dos ruedas, y gira cada rueda en vacío para detectar roces, holguras o ruidos extraños", "Acciona las dos manetas varias veces, revisa el tacto de la frenada, el estado visible de las pastillas y que ninguna luz de freno deje de encenderse", "Enchufa cada batería por separado en una toma doméstica con su cargador original y verifica que el proceso termina dentro del margen de 3 a 6 horas indicado en la ficha", "Pasa un paño suave y seco por el compartimento de las baterías y por los bornes, sin usar agua a presión en esa zona ni en el puerto de carga", "Abre la aplicación de la marca, consulta avisos y diagnóstico, instala las actualizaciones disponibles y anota fecha y kilometraje de cada control casero"], "intervaloMantenimiento": "Inspección en servicio oficial bienal o 10.000 km, lo primero que llegue, según el plan ya registrado en el propio objeto de esta ficha con fuente Manual oficial NIU España; entre visitas, controles caseros periódicos de frenos, neumáticos, luces y baterías", "trucos": ["Planifica las recargas completas con margen: la ficha sitúa el proceso entre 3 y 6 horas, así que dejarlas enchufadas durante la jornada laboral o por la noche evita quedarte a medias", "Retira siempre los acumuladores antes de lavar el scooter y no vuelvas a enchufar nada hasta comprobar que contactos y puerto están completamente secos", "Si va a quedar parado una temporada, guárdalo en un lugar seco y ventilado y revisa el nivel de carga de ambos packs antes de volver a circular", "Lleva un registro sencillo con presiones, frenos y cualquier aviso de la aplicación: llegar a la inspección oficial de los 24 meses o 10.000 km con ese historial facilita detectar desgastes anómalos"]},
   },
   {
     id: "niu-nqi-gts-2025-ficha-tecnica-precio",
@@ -3772,19 +3772,19 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
+          queSeCambia: "filtro de polen (si lo lleva) + Inspección general + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Inspección general + pastillas de freno (según desgaste) + líquido de frenos",
           costeAproxEur: 150,
         },
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial NIU España",
     },
-    mantenimientoDIY: {"aceiteTipo": "No aplica: propulsión eléctrica sin aceite de motor ni bujías de encendido. El líquido de frenos se inspecciona en cada revisión y se sustituye cada 2 años; los latiguillos hidráulicos se renuevan cada 4 años, según el manual", "cadenaPasos": ["Comprueba presión y dibujo de ambos neumáticos y busca cortes o un desgaste irregular", "Revisa el funcionamiento de luces, intermitentes, claxon y mandos antes de salir", "Controla el estado del líquido de frenos y el grosor de las pastillas en ambas ruedas", "Aprieta la tornillería accesible de manillar, ejes y soportes si notas holguras o vibraciones", "Limpia y lubrica el caballete lateral y el central, tal como prevé la tabla oficial", "Inspecciona baterías, cables visibles y puño del acelerador; ante cualquier fallo, acude al servicio oficial"], "intervaloMantenimiento": "Primera inspección tras los 1.000 km iniciales; después, controles cada 3.000 km, revisión más amplia cada 6.000 km y al menos una vez al año (lo que llegue antes), según la tabla del manual de usuario del NQi GTS", "trucos": ["Mantén la carga habitual entre el 20 % y el 80 % para cuidar la batería, consejo recogido en el manual", "Usa siempre el cargador original y carga en un lugar ventilado, nunca con el puerto de carga húmedo", "Evita cargar por debajo de 0 °C y detén la carga si tras 12 horas no se ha completado", "Registra fecha y kilometraje de cada inspección: mantener la garantía exige cumplir el plan previsto"]},
+    mantenimientoDIY: {"aceiteTipo": "No aplica: propulsión eléctrica sin aceite de motor ni bujías de encendido. El líquido de frenos se inspecciona en cada revisión y se sustituye cada 2 años; los latiguillos hidráulicos se renuevan cada 4 años, según el manual", "cadenaPasos": ["Comprueba presión y dibujo de ambos neumáticos y busca cortes o un desgaste irregular", "Revisa el funcionamiento de luces, intermitentes, claxon y mandos antes de salir", "Controla el estado de ese líquido de frenos y el grosor de las pastillas en ambas ruedas", "Aprieta la tornillería accesible de manillar, ejes y soportes si notas holguras o vibraciones", "Limpia y lubrica el caballete lateral y el central, tal como prevé la tabla oficial", "Inspecciona baterías, cables visibles y puño del acelerador; ante cualquier fallo, acude al servicio oficial"], "intervaloMantenimiento": "Primera inspección tras los 1.000 km iniciales; después, controles cada 3.000 km, revisión más amplia cada 6.000 km y al menos una vez al año (lo primero que llegue), según la tabla del manual de usuario del NQi GTS", "trucos": ["Mantén la carga habitual entre el 20 % y el 80 % para cuidar la batería, consejo recogido en el manual", "Usa siempre el cargador original y carga en un lugar ventilado, nunca con el puerto de carga húmedo", "Evita cargar por debajo de 0 °C y detén la carga si tras 12 horas no se ha completado", "Registra fecha y kilometraje de cada inspección: mantener la garantía exige cumplir el plan previsto"]},
   },
   {
     id: "silence-s03-2026-ficha-tecnica-precio",
@@ -3838,12 +3838,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
+          queSeCambia: "filtro antipolen (si lleva) + Inspección general + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Inspección general + pastillas (según su desgaste) + líquido de frenos",
           costeAproxEur: 150,
         },
       ],
@@ -3898,16 +3898,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (primera revisión a los 500 km)",
+      intervalo: "10.000 km o 12 meses, y la primera revisión a los 500 km)",
       revisiones: [
         {
           nombre: "Primera revisión (500 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Lubricante + filtro del aceite + control general y reapriete",
           costeAproxEur: 180,
         },
         {
           nombre: "Revisión 10.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Lubricante + filtro de aire + bujía (según kilometraje) + filtro del aceite + inspección general",
           costeAproxEur: 260,
         },
       ],
@@ -3933,7 +3933,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     pesoKg: 94,
     plazas: 2,
     carnet: "A1 (válido con B +3 años)",
-    carga: "Batería extraíble de 15 kg con asa; 6 h en enchufe doméstico de 220 V",
+    carga: "Batería extraíble de 15 kg con asa; 6 h en toma doméstica de 220 V",
     etiquetaDgt: "Cero",
     aprox: ["costeAnualAproxEur"],
     pros: ["Con 94 kg en orden de marcha se aparca, se gira y se cuela entre coches sin pelearse con el manillar", "Detenerse inspira confianza: monta discos de 175 mm y, en la variante Active, frenada combinada CBS", "La batería de 2,3 kWh sale con asa y se enchufa en casa, en el trabajo o donde haya una toma de 220 V", "A pesar del silencio eléctrico, las reacciones recuerdan a un cincuenta tradicional de combustión", "Cuesta 3.700 €, cifra ajustada para un eléctrico con el escudo Piaggio en el frontal", "Arranca sin llave física, ofrece toma USB, pantalla LCD y ayuda de marcha atrás para maniobrar"],
@@ -3967,19 +3967,19 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
+          queSeCambia: "filtro antipolen (si lleva) + Inspección general + actualización del software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Inspección general + pastillas (según desgaste) + líquido de freno",
           costeAproxEur: 150,
         },
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Piaggio España",
     },
-    mantenimientoDIY: {"aceiteTipo": "Sin aceite de motor y sin cadena: es eléctrica, con el motor integrado en la rueda trasera, por lo que no se le aplican las rutinas de un scooter de gasolina", "cadenaPasos": ["Extrae la batería de 15 kg por su asa y revisa que contactos y alojamiento estén limpios, secos y sin holguras", "Comprueba presión, dibujo y posibles cortes en ambos neumáticos, especialmente sensibles por el diámetro de 10 pulgadas", "Mira el nivel del líquido de frenos y el grosor de las pastillas, y verifica que la frenada no presente tacto esponjoso", "Prueba luces, intermitentes, claxon, pantalla LCD, toma USB y funcionamiento de la marcha atrás con el scooter detenido", "Limpia carrocería y zona del buje trasero con paño húmedo, evitando agua a presión directa sobre batería, conectores y motor", "Recarga en enchufe doméstico de 220 V durante unas 6 horas con el cargador suministrado y guarda la batería fuera de temperaturas extremas"], "intervaloMantenimiento": "Inspección cada 24 meses o 10.000 km, según el plan ya recogido en la propia ficha con fuente Manual oficial Piaggio España; entre revisiones, controles caseros periódicos de frenos, neumáticos, luces y batería", "trucos": ["Si vives en un piso sin garaje, la extracción de la batería resuelve la carga: súbela a casa en lugar de buscar un punto público", "Anota cada carga completa y la autonomía real en Sport y en Eco; una caída llamativa respecto a los 66 km WMTC avisa de degradación", "Antes de un bordillo o un bache acusado, reduce velocidad: con rueda de 10 pulgadas el golpe llega mucho más seco al chasis"]},
+    mantenimientoDIY: {"aceiteTipo": "Sin aceite de motor y sin cadena: es eléctrica, con el motor integrado en la rueda trasera, por lo que no se le aplican las rutinas de un scooter de gasolina", "cadenaPasos": ["Extrae la batería de 15 kg por su asa y revisa que contactos y alojamiento estén limpios, secos y sin holguras", "Comprueba presión, dibujo y posibles cortes en los dos neumáticos, especialmente sensibles por el diámetro de 10 pulgadas", "Revisa los niveles del líquido de frenos y el espesor de las pastillas, y verifica que la frenada no presente tacto esponjoso", "Prueba luces, intermitentes, claxon, pantalla LCD, toma USB y funcionamiento de la marcha atrás con el scooter detenido", "Limpia carrocería y zona del buje trasero con paño húmedo, evitando agua a presión directa sobre batería, conectores y motor", "Recarga en enchufe doméstico de 220 V durante unas 6 horas con el cargador suministrado y guarda la batería fuera de temperaturas extremas"], "intervaloMantenimiento": "Inspección bienal o 10.000 km, según el plan ya recogido en la propia ficha con fuente Manual oficial Piaggio España; entre revisiones, controles caseros periódicos de frenos, ruedas, luces y batería", "trucos": ["Si vives en un piso sin garaje, la extracción de la batería resuelve la carga: súbela a casa en lugar de buscar un punto público", "Anota cada carga completa y la autonomía real en Sport y en Eco; una caída llamativa respecto a los 66 km WMTC avisa de degradación", "Antes de un bordillo o un bache acusado, reduce velocidad: con rueda de 10 pulgadas el golpe llega mucho más seco al chasis"]},
   },
   {
     id: "cfmoto-300sr-2025-ficha-tecnica-precio",
@@ -4011,8 +4011,8 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     ],
     contras: [
       "Sin precio oficial: la 300SR ya no se comercializa en España",
-      "Postura deportiva exigente para el día a día en ciudad",
-      "165 kg en vacío: no es la más ligera de su segmento",
+      "Postura deportiva exigente para el uso diario en ciudad",
+      "165 kg en vacío: no es la más liviana de su segmento",
       "Plaza del pasajero testimonial, como en toda deportiva",
       "Red de concesionarios CFMoto aún en crecimiento en España",
       "El monocilíndrico vibra en la zona alta del cuentarrevoluciones",
@@ -4046,16 +4046,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 1 año; manda lo primero que llegue",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite 10W40 + filtro de lubricante + inspección general con aprietes",
           costeAproxEur: 120,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Lubricante + filtro del aire + bujía (según km) + filtro del aceite + revisión general",
           costeAproxEur: 180,
         },
       ],
@@ -4093,7 +4093,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     ],
     contras: [
       "160 kg: pesada para ser una 125",
-      "Asiento a 830 mm: alta para pilotos de poca estatura",
+      "Asiento a 830 mm: elevada para pilotos de poca estatura",
       "El monocilíndrico se queda justo en autopista",
       "Reventa complicada frente a marcas japonesas",
       "Algunos plásticos con ajustes mejorables",
@@ -4130,16 +4130,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: "https://zontesbcn.com/modelo/g1-125/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 12 meses; decide lo que antes venza",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite 10W40 + filtro de lubricante + control general y reapriete",
           costeAproxEur: 110,
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Lubricante + filtro del aire + bujía (según kilometraje) + filtro del aceite + revisión general",
           costeAproxEur: 160,
         },
       ],
@@ -4170,13 +4170,13 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     aprox: ["pesoKg", "costeAnualAproxEur"],
     pros: [
       "Custom A2 con bicilíndrico de 554 cc y 47 CV, justo al límite",
-      "Transmisión final por correa: silenciosa y sin mantenimiento de cadena",
+      "Transmisión final por correa: silenciosa y sin cuidar cadenas",
       "Asiento bajo (785 mm) y postura relajada, apta para todas las tallas",
       "Pantalla TFT a color y alumbrado full LED de serie",
       "Precio contenido frente a customs japonesas equivalentes",
     ],
     contras: [
-      "206 kg en orden de marcha: hay que moverla con decisión en parado",
+      "206 kilos en orden de marcha: hay que moverla con decisión en parado",
       "Suspensión trasera de corto recorrido, seca en baches",
       "Sin control de tracción ni modos de conducción",
       "La correa exige sustitución periódica, más cara que un kit de cadena",
@@ -4211,16 +4211,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 1 año; vence lo primero que llegue",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite 10W-40 + inspección general y aprietes + filtro de aceite",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aire + bujía (según kilometraje) + inspección general + filtro de aceite",
           costeAproxEur: 220,
         },
       ],
@@ -4292,16 +4292,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 1 año; impera lo primero que llegue",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite 10W-40 + revisión general y aprietes + filtro de aceite",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aire + bujía (según kilometraje) + revisión general + filtro de aceite",
           costeAproxEur: 230,
         },
       ],
@@ -4373,16 +4373,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervalo: "4.000 km o un año; la revisión inicial se hace a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Lubricante + filtro de lubricante + inspección general y aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro del aire + bujía (según kilometraje) + inspección general + filtro del aceite",
           costeAproxEur: 150,
         },
       ],
@@ -4454,16 +4454,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervalo: "4.000 km o un año, con la primera revisión prevista a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Lubricante + filtro de lubricante + revisión general y aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro del aire + bujía (según kilometraje) + revisión general + filtro del aceite",
           costeAproxEur: 150,
         },
       ],
@@ -4542,12 +4542,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (500 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Lubricante + filtro de lubricante + inspección general con aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aire + inspección general + filtro de aceite + bujía (según km)",
           costeAproxEur: 150,
         },
       ],
@@ -4623,12 +4623,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Lubricante + filtro de lubricante + control general y reapriete",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aire + revisión general + filtro de aceite + bujía (según km)",
           costeAproxEur: 140,
         },
       ],
@@ -4704,12 +4704,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
+          queSeCambia: "filtro de polen (si lleva) + Revisión general + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Inspección general + pastillas (según desgaste) + fluido de frenos",
           costeAproxEur: 150,
         },
       ],
@@ -4740,7 +4740,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     aprox: ["velocidadMax", "costeAnualAproxEur"],
     pros: [
       "La versión High Speed del S02: 100 km/h de punta con carnet A1",
-      "Batería extraíble tipo trolley, se carga en cualquier enchufe",
+      "Batería extraíble tipo trolley, se carga en cualquier toma",
       "Red de Battery Stations para intercambio rápido de batería",
       "120 km de autonomía declarada, de sobra para el día a día",
       "Silenciosa, sin vibraciones y con etiqueta CERO",
@@ -4786,12 +4786,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
+          queSeCambia: "filtro de polen (si lleva) + Revisión general + puesta al día del software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Inspección general + pastillas de freno (según desgaste) + fluido de frenos",
           costeAproxEur: 150,
         },
       ],
@@ -4868,12 +4868,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
+          queSeCambia: "filtro de polen (si lo lleva) + Revisión general + actualización de software",
           costeAproxEur: 120,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Inspección general + pastillas (según su desgaste) + fluido de frenos",
           costeAproxEur: 180,
         },
       ],
@@ -4949,12 +4949,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
+          queSeCambia: "filtro antipolen (si lleva) + Revisión general + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Revisión general + pastillas (según desgaste) + líquido de frenos",
           costeAproxEur: 150,
         },
       ],
@@ -5026,16 +5026,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Primera revisión a los 1.000 km; después según el plan del manual oficial",
+      intervalo: "Revisión de inicio a los 1.000 km; después según el plan del manual oficial",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite motor + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 130,
         },
         {
           nombre: "Revisión periódica (según manual oficial)",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aire + inspección general + filtro del aceite + bujía (según km)",
           costeAproxEur: 200,
         },
       ],
@@ -5069,7 +5069,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       "54 CV y 196 kg: ligera y con empuje para el off-road ligero",
       "Rueda de 21 pulgadas delante y ABS desconectable",
       "Frenos Brembo y suspensión con regulación",
-      "Depósito de 18 litros: más de 300 km de autonomía",
+      "Depósito de 18 litros: más de 300 km de alcance",
     ],
     contras: [
       "Vibraciones del monocilíndrico en autopista",
@@ -5110,16 +5110,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "7.500 km o 12 meses (primera revisión a los 1.000 km)",
+      intervalo: "7.500 km o 12 meses; la primera revisión se hace a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite motor + filtro de aceite + revisión general y aprietes",
           costeAproxEur: 150,
         },
         {
           nombre: "Revisión 7.500 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+          queSeCambia: "Aceite + filtro de aire + revisión general + filtro del aceite + bujía (según km)",
           costeAproxEur: 220,
         },
       ],
