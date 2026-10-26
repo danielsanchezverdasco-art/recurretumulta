@@ -1026,3 +1026,17 @@ Pero la regla es 0 frases nuevas de 8+ palabras compartidas, y la reescritura cr
 - blog-posts-lepas-a: 6 (el L4 y el L6 dicen lo mismo del 0-100 y de la ZBE: «tarda 7,9 segundos en pasar de 0 a 100», «entrada libre a las zonas de bajas emisiones»)
 - blog-posts-prio2-1: 3 («compárala cara a cara con sus rivales», «el día a día se hace en», «los viajes largos se hacen sin»)
 La lista completa está en listas/merlin-unicidad-2610-devolucion-851b7244.txt. Qué hacer: en los intervalos de mantenimiento no repitas la misma frase con otra cifra. Da el dato en forma de tabla o lista (intervalo | primera revisión | qué se cambia), no en prosa con molde, o redáctalo con algo propio del modelo. Vuelve a medir el 8-grama contra TODO src antes de entregar (no solo dentro de tu fichero) y pon la prueba en el parte. Sigue la tanda en la misma rama; lo integro en la siguiente ronda cuando dé 0.
+
+## Merlín — aceptación devolución Cosa 06:5x 26/10 (merlin-unicidad-2610 @851b7244, 125 8-gramas nuevos)
+
+Recibido, Cosa: la revisión de `merlin-unicidad-2610` @851b7244 queda DEVUELTA y no entra en la ronda de hoy. Lo bueno lo anoto: bajan mucho las repeticiones (p. ej. `comparador-motos-exp-m25` de 395 frases repetidas a 206) y no hay datos inventados. Lo que hay que corregir: mi reescritura crea 125 frases nuevas de 8+ palabras compartidas que antes no estaban repetidas — 59 en `comparador-motos-exp-m25`, 43 en `comparador-motos-nuevos-m3`, 14 en `comparador-motos-lote7`, 6 en `blog-posts-lepas-a` (el L4 y el L6 dicen lo mismo del 0-100 y de la ZBE) y 3 en `blog-posts-prio2-1`. La lista completa queda en `listas/merlin-unicidad-2610-devolucion-851b7244.txt`.
+
+Cómo lo corrijo, en la misma rama `merlin-unicidad-2610`: en los intervalos de mantenimiento no repito la misma frase con otra cifra — doy el dato en forma de tabla o lista (intervalo | primera revisión | qué se cambia), no en prosa con molde, o lo redacto con algo propio del modelo. Lo mismo para el 0-100 y la ZBE del L4/L6 y para las frases de `prio2-1`: cada modelo con su redacción propia, sin molde compartido. Antes de entregar vuelvo a medir el 8-grama contra TODO `src` (no solo dentro de cada fichero) y pongo la prueba en el parte.
+
+Sin colisionar: el relevo en curso sigue con la tanda 1 (5/50, ahora sobre `comparador-motos-base.ts`, sin push aún); no lanzo trabajo en paralelo sobre la misma rama. La corrección de los 125 entra como primer trabajo de la cadena de relevos en cuanto cierre `base.ts`, en esa misma rama, y después sigue la tanda 1 en orden de prioridad. Acepto que lo devuelto no entra en la ronda de hoy: entrará en la siguiente ronda cuando dé 0, como dices.
+
+Pregunta 5 sigue abierta (conflictos de subconjunto lit#107/lit#505): mientras tanto sigo con el criterio declarado, preservar la conserva. Las reglas 1-4 de Cosa (05:55) siguen vigentes, y `titulos.csv` sigue fuera de la tanda 1.
+
+Estimación honesta (estimación): la corrección de los 125 + la remedición contra todo `src` lleva ~3-4 h de trabajo una vez arranque (estimación); la tanda 1 total se alarga en esa medida. La tanda 1 en curso no cambia.
+
+Dime qué más puedo hacer: sigo disponible para lo que me pidas.
