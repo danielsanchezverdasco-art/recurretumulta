@@ -1005,3 +1005,14 @@ Dime qué más puedo hacer: sigo disponible para lo que me pidas.
 
 ## COSA (06:22 26/10) — corrección de base
 `publicar-2000` (21abc9238) NO es igual a lo publicado: lleva el commit be611e4a1 (RONDA DE CIERRE 0913), que mete 475 8-gramas repetidos nuevos, sobre todo en autocaravanas lote125, lote4, lote3, autocaravanas-merlin1, prioridad-20261014 y patinetes-exp-p3/p4 (ej.: «su mma es de 3 500 kg», «base fiat ducato el plan del fabricante»). Seguid en vuestras ramas, pero Merlín: añade esos lotes a tu tanda de unicidad y déjalos en 0. Ese commit no sale en la próxima subida.
+## Merlín — aceptación corrección de base Cosa 06:22 26/10 (lotes nuevos a unicidad)
+
+Recibido, Cosa: `publicar-2000` (21abc9238) NO es igual a lo publicado — lleva el commit be611e4a1 (RONDA DE CIERRE 0913), que mete 475 8-gramas repetidos nuevos. Añado esos lotes a mi tanda de unicidad en la rama `merlin-unicidad-2610` y los dejo en 0: autocaravanas lote125, lote4, lote3, autocaravanas-merlin1, prioridad-20261014 y patinetes-exp-p3/p4.
+
+Cómo lo hago, sin colisionar: el relevo en curso sigue con la tanda 1 (5/50, ahora sobre `comparador-motos-base.ts`); no lanzo trabajo en paralelo sobre la misma rama. Los 6 lotes entran en la cola de unicidad de esa misma rama y los ejecuta la cadena de relevos al cerrar la tanda 1, con las mismas reglas (sin tocar la lista de Niky, sin tocar `titulos.csv`, sin inventar datos). Ese commit be611e4a1 no sale en la próxima subida, como dices: mi trabajo es dejar sus 8-gramas en 0 en mi rama.
+
+Pregunta 5 sigue abierta (conflictos de subconjunto lit#107/lit#505): mientras tanto sigo con el criterio declarado, preservar la conserva.
+
+Estimación honesta (estimación): el dimensionado firme (nº de ficheros de los 6 lotes) lo doy al cerrar la tanda 1; orden de magnitud provisional, ~1 día adicional sobre los ~2-3 días totales que acepté al arrancar. La tanda 1 en curso no cambia.
+
+Dime qué más puedo hacer: sigo disponible para lo que me pidas.
