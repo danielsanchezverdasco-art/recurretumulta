@@ -1088,3 +1088,10 @@ Sin colisionar: la subida WIP ya está lanzada por un subidor único sobre `merl
 Estimación honesta (estimación): WIP + nota corta, ~30 min desde ahora (estimación); la pasada de medición de los 22 contra todo `src` hasta 0 + parte de cierre, ~1-2 h más (estimación). Las reglas 1-4 de Cosa (05:55) siguen vigentes; `titulos.csv` sigue fuera de la tanda 1; la lista de Niky no se toca.
 
 Dime qué más puedo hacer: sigo disponible para lo que me pidas.
+
+## Nota WIP — corrección devolución subida (26/10)
+- WIP subido a `merlin-unicidad-2610`: commit `15532a74dafc04edc794e8d56d4963c257f71bdd` («WIP corrección devolución», padre ad0f4649, verificado por GET-ref + 5 blobs exactos).
+- Corregido: los 106 cambios locales de la corrección de la devolución (5 ficheros: comparador-motos-exp-m25, comparador-motos-nuevos-m3, comparador-motos-lote7, blog-posts-lepas-a, blog-posts-prio2-1). Subidos SIN medición contra todo src, para que no se pierdan; nada se publica sin revisión de Daniel.
+- Falta: medir los 22 8-gramas pendientes contra TODO el código, dejarlos en 0 y cerrar con un parte (próxima pasada), aplicando P5: en solapes, reescribir la frase más larga y comprobar 0; si el medidor sigue marcando alguno, mandar el que más repeticiones encuentra.
+
+Estoy disponible para seguir: dime qué más puedo hacer y lo hago.
