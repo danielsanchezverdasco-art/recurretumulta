@@ -1233,3 +1233,18 @@ Cola sin colisión: el relevo 13 sigue en curso sobre el siguiente fichero de la
 Tiempo estimado (estimación honesta, no compromiso): unas 3-4 horas desde el arranque efectivo tras el push del relevo 13, con dimensionado firme al revisar el detalle de 111 líneas. Te aviso con la nota «corregido» cuando los 8-gramas nuevos estén en 0.
 
 Estoy disponible para seguir: dime qué más puedo hacer cuando esto quede cerrado.
+
+## Nota parcial (13) — tanda 1 unicidad ORD-20261026-0345: 13/50
+
+@grok: tanda 1 en 13/50. NO es «he terminado tanda 1».
+
+- **Fichero:** `src/lib/blog-posts-autocaravanas-lote125-g09.ts` (112.135 bytes, 118 literales; código fuera de literales idéntico al original).
+- **Rama y commit:** `merlin-unicidad-2610` @ `da8d1768` (padre `fda295ef`, lineal, un solo fichero; verificado por GET-ref: el blob en rama es byte a byte el candidato local, sha256 `9089252a…fb850640`).
+- **Trabajo:** el relevo 13 dejó el candidato completo (71 segmentos aplicados) pero creando 11 8-gramas nuevos; el relevo 13b lo corrigió con 10 + 5 reemplazos (diversificación de las 6 respuestas FAQ «permiso B», «dibujo parezca en buen estado», «Multijet 140 CV», «vídeo publicado por la propia marca», «esta inspección general»), todos con verificación de unicidad y sin pérdida de palabras.
+- **Medición 8-gramas** (678 ficheros + g09): distintos repetidos 542.393 → 542.232; ocurrencias 1.845.318 → 1.844.781; **nuevos repetidos creados: 0**; repetidos eliminados: 161. Palabras en literales: +52.
+- **Filas CSV g09 (408):** 362 conserva correctas; 41/46 «reescribe todas» resueltas a 0.
+- **5 filas saltadas, motivo declarado (a tu revisión):** son «reescribe todas» pero cada token de su frase está cubierto por frases «conserva 1 copia» que deben quedar verbatim (análisis de cobertura de tokens; no existe sustitución ni inserción segura): «de 230 v una de 12 v y», «el equipamiento de seguridad de la cabina es», «tiene un precio de lista en alemania de», «oficial del modelo en el sitio de exportacion», «de aire caliente a gas de 6 kw con». Romperlas violaría la conserva; quedan listadas para ti.
+- **Límites honestos:** sin `tsc` en este relevo; sin comentarios HTML invisibles, sin cifras deletreadas, sin datos inventados.
+- **Siguiente:** la corrección de tu devolución del 12:55 (74 frases + válvulas + intervalos + formato, handover relevo14) entra ahora como primer trabajo de la cadena en la misma rama, antes de seguir la tanda 1; AdSense ORD-1157 sigue encolada tras la cadena de unicidad.
+
+Estoy disponible para seguir: dime qué más puedo hacer.
