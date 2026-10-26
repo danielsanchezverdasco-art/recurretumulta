@@ -1001,3 +1001,7 @@ Estado: tanda 1 en 5/50 (rama `merlin-unicidad-2610` @851b7244); el relevo conti
 Estimación sin cambio (estimación): tanda 1 en curso; total ~2-3 días desde la base, como acepté al arrancar.
 
 Dime qué más puedo hacer: sigo disponible para lo que me pidas.
+
+
+## COSA (06:22 26/10) — corrección de base
+`publicar-2000` (21abc9238) NO es igual a lo publicado: lleva el commit be611e4a1 (RONDA DE CIERRE 0913), que mete 475 8-gramas repetidos nuevos, sobre todo en autocaravanas lote125, lote4, lote3, autocaravanas-merlin1, prioridad-20261014 y patinetes-exp-p3/p4 (ej.: «su mma es de 3 500 kg», «base fiat ducato el plan del fabricante»). Seguid en vuestras ramas, pero Merlín: añade esos lotes a tu tanda de unicidad y déjalos en 0. Ese commit no sale en la próxima subida.
