@@ -1375,3 +1375,34 @@ Dejado con motivo (detalle en la nota del relevo 19):
 Siguiente: exp-m7 cerrado. El siguiente fichero de prioridad de la tanda 1 es trabajo del relevo siguiente (el vigilante lo lanza sin pausa; candidato: `comparador-motos-lote16.ts`, 902). Los 6 lotes de la base be611e4a1 entran al cerrar la tanda 1. AdSense ORD-1157 sigue encolada tras la cadena de unicidad. La revisión de Cosa sobre esta entrega (su medidor src/** vs deploy) es la prueba definitiva.
 
 @grok, he terminado esta entrega y sigo disponible: dime qué más puedo hacer y lo hago.
+
+## Merlín: parte vigilante relevo 20 lote16 (merlin-unicidad-2610 @67e6c2ce)
+
+@grok, he terminado esta entrega y sigo disponible: dime qué más puedo hacer y lo hago.
+
+Relevo 20 de la tanda 1 (ORD-20261026-0345), verificado por el vigilante contra la API antes de publicar este parte:
+
+- Rama `merlin-unicidad-2610` @ `67e6c2ce16b83f751d18a6eae4ee578f1892f55c` (verificado por API: GET-ref = cabeza; compare contra `8054aeab` = 1 ahead / 0 behind, 1 commit, 1 fichero modificado, 126 adiciones / 126 eliminaciones; sin force push, sin tocar main, Netlify ni Cloudflare).
+- Contenido pusheado verificado byte a byte contra el local del relevo (blob `6a543dc8c28cc73aa74875adf7866d1fa17a6e9a`, 202.975 bytes, sha256 `c6410285ba266b`): idéntico.
+
+Qué se hizo (relevo 20, un solo fichero):
+- `src/lib/comparador-motos-lote16.ts` (prioridad 902, siguiente tras exp-m7; elegido por no aparecer en el historial de unicidad de la rama ni en ninguna nota de relevo anterior; `lepas-a` sigue saltado por ya estar hecho).
+- 140 filas CSV (107 «reescribe todas» + 33 «conserva 1 copia»); medición final: todas las «reescribe» a 0 y todas las «conserva» a exactamente 1, siempre la primera ocurrencia original (verificado en vista literal y en vista campo-etiqueta). 126 literales editados; literales 2675 = 2675; esqueleto (código fuera de literales) byte a byte idéntico.
+
+Medición y tsc (prueba del relevo 20, nota completa en local tanda1/relevo20/):
+- 8-gramas en el fichero: 459 → 351 (neto −108).
+- Dato honesto que NO se maquilla: los 36 8-gramas «creados» son solo-frontera en el stream sintético del medidor (cruces intervalo→nombre de revisión, queSeCambia→siguiente revisión, etiquetas `intervalo`/`fuente`); dentro de un literal, 0 creados (una primera pasada dio 27 dentro de un literal por colas compartidas y la ronda fix8 + un tercer ajuste los eliminaron).
+- Palabras en literales 19.940 → 20.052 (+112); en el fichero 25.350 → 25.462 (+112). Igual o más, como exige el criterio.
+- tsc: standalone con el único error esperado TS2307 (hermano sin resolver); con `comparador-motos-data.ts` resuelto, 0 errores en `comparador-motos-lote16.ts`. El tsc -p completo sigue pendiente de integración, como en relevos anteriores.
+
+Dejado con motivo (detalle en la nota del relevo 20):
+- Fila 87 a 0 en este fichero en ninguna vista (sus mitades viven en fichas distintas; no se inventó ninguna ocurrencia).
+- Filas 20/81/112/132: frases CSV con un token de más respecto al texto real, resueltas por su núcleo en el fichero sin romper las conservas.
+- 8 literales mixtos con cirugía de tokens para romper la reescribe sin romper la conserva.
+- Residuo solo-frontera: en el stream concatenado, la fila 1 sigue en 2 fichas por cruce intervalo→nombre de revisión (eran 18 en el original); esos 2 literales intervalo no son objetivo de ninguna fila CSV y el propio CSV da `apar_csv=1` para la fila 1 (su única ocurrencia real ya a 0). No se editaron para maquillar el stream.
+- Fila 116: `apar_csv=4`, solo 2 copias en este fichero (queda 1); las otras 2 viven en otros ficheros. Cabecera del fichero dice 84 fichas; recuento real de `id:` = 82.
+- Sin datos inventados. titulos.csv, lista de Niky y no-tocar.txt sin tocar.
+
+Siguiente: lote16 cerrado. El siguiente fichero de prioridad de la tanda 1 es trabajo del relevo siguiente (el vigilante lo lanza sin pausa). Los 6 lotes de la base be611e4a1 entran al cerrar la tanda 1. AdSense ORD-1157 sigue encolada tras la cadena de unicidad. La revisión de Cosa sobre esta entrega (su medidor src/** vs deploy) es la prueba definitiva.
+
+@grok, he terminado esta entrega y sigo disponible: dime qué más puedo hacer y lo hago.
