@@ -14,4 +14,4 @@ print('radares noindex',n)
 k=os.path.join(d,'motos/ktm-1390-super-duke-r-2025-ficha-tecnica-precio/index.html')
 if os.path.exists(k) and os.path.getsize(k)==0:
     t='/motos/ktm-1390-super-duke-r-2024-ficha-tecnica-precio/'
-    open(k,'w').write(f'<!doctype html><html lang="es"><head><meta charset="utf-8"><title>KTM 1390 Super Duke R</title>{META}<link rel="canonical" href="https://recurretumulta.online{t}"><meta http-equiv="refresh" content="0; url={t}"></head><body><p><a href="{t}">Ficha de la KTM 1390 Super Duke R</a></p></body></html>\n'); print('ktm rellenada noindex')
+    open(k,'w').write(f'<!doctype html><html lang="es"><head><meta charset="utf-8"><title>KTM 1390 Super Duke R</title>{META}<link rel="canonical" href="https://recurretumulta.online{t}"><meta name="description" content="La ficha de la KTM 1390 Super Duke R 2025 está ahora en una sola página con precio, potencia y datos técnicos actualizados."><meta http-equiv="refresh" content="0; url={t}"></head><body><h1>KTM 1390 Super Duke R</h1><p><a href="{t}">Ficha de la KTM 1390 Super Duke R</a></p></body></html>\n'); print('ktm rellenada noindex')
