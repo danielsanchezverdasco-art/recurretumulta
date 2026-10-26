@@ -28,7 +28,7 @@ export interface EditorialProps {
   modelo?: string;
 }
 
-const TEXTO_VERIFICACION: Record<NonNullable<EditorialProps["tipo"]>, string> = {
+export const TEXTO_VERIFICACION: Record<NonNullable<EditorialProps["tipo"]>, string> = {
   ficha:
     "Los datos salen de la web oficial de la marca y, si no hay dato oficial, de prensa especializada o tiendas citadas como fuente. Lo que no está confirmado se marca con ≈ o «dato no oficial · en revisión», y lo que no encontramos se deja vacío: nunca inventamos cifras.",
   articulo:

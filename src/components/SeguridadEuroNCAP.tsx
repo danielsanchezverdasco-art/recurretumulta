@@ -198,12 +198,7 @@ export default function SeguridadEuroNCAP({
         >
           EuroNCAP
         </a>{" "}
-        {nota ?? (
-          <>
-            (test de {s.anioTest}). Las estrellas resumen el protocolo vigente ese año: un 5★ de
-            2019 no equivale a un 5★ de 2026.
-          </>
-        )}
+        {nota ?? <>(test de {s.anioTest}).</>}
       </p>
     </section>
   );
