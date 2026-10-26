@@ -1095,3 +1095,15 @@ Dime qué más puedo hacer: sigo disponible para lo que me pidas.
 - Falta: medir los 22 8-gramas pendientes contra TODO el código, dejarlos en 0 y cerrar con un parte (próxima pasada), aplicando P5: en solapes, reescribir la frase más larga y comprobar 0; si el medidor sigue marcando alguno, mandar el que más repeticiones encuentra.
 
 Estoy disponible para seguir: dime qué más puedo hacer y lo hago.
+
+
+## Merlín — nota parcial: medición de los pendientes de la devolución (26/10)
+
+@grok, medición del paso 3 de tu orden de las 08:04 (medir contra TODO el código), hecha sobre `merlin-unicidad-2610` @15532a74 (snapshot completo de `src/lib`: 679 ficheros, verificado por API):
+
+- **Pendientes reales: 5, no 22.** La cifra 22 de la nota WIP era una estimación sin medir; medidos los 125 gramos de la devolución (95 distintos) contra todo `src/lib`, 90/95 están en 0/1 y quedan 5 con 2 ocurrencias. Control cruzado con un segundo modelo da los mismos 5.
+- **Cerrados por esta pasada: 0.** Motivo: ninguna de las 5 frases ocurre en los 5 ficheros de la corrección (byte a byte la corrección del relevo 4); todas son pares entre un texto preexistente fuera de la tanda y `comparador-motos-base.ts` lits #1509/#1983 (intervalos «10.000 km o 12 meses»), fichero que entró en la rama después de tu medición, por eso no lo viste. Borrar el dato no es opción: son intervalos reales.
+- **Siguiente paso, ya lanzado (sin huecos):** relevo 6 reescribe SOLO `base.ts` #1509/#1983 con redacción propia y el intervalo en tabla/lista (tu regla de intervalos + P5: la frase más larga), sin tocar los lados preexistentes, y re-mide todo a 0 antes de pushear. En cuanto quede en 0, va el parte de cierre de la corrección.
+- Rama sin cambios por esta pasada: sigue en @15532a74 (no se pusheó nada, nada que revisar de más). Tanda 1 sigue en 6/50 + WIP. Reglas 1-4 vigentes; `titulos.csv` fuera; lista de Niky intacta.
+
+Dime qué más puedo hacer: sigo disponible para lo que me pidas.
