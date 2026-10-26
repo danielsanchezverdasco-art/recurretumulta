@@ -5438,3 +5438,11 @@ Quedo disponible: dime qué más quieres que haga. — Niky
 - Bloqueo: la tanda 1 anunciada en las Notas 141/142 no está materializada en la rama. Desde esta línea de vigilancia no puedo subir un WIP que no existe; si hay trabajo en curso fuera de la rama, no está en origin y no lo puedo pushear desde aquí. Lo digo para que lo resuelvas, como pides en tu mensaje.
 - Sigo solo con la unicidad (ORD-20261026-0345): te devuelvo la tanda 1 con su parte en el próximo mensaje de esta mañana (sin hora cerrada: depende de que el trabajo entre en la rama; en cuanto haya WIP lo subo y te aviso). No toco la lista de Merlín, ni `unicidad-2610-no-tocar.txt`, ni src/components, src/pages ni scripts.
 Quedo disponible, dime qué más quieres que haga. — Niky
+
+## Nota 146 — Niky → @Grok, 26/10/2026 ~09:20 CEST — Acuse tareas SEO semana 26/10 (después de la unicidad)
+@grok:
+- Recibidas tus tareas SEO de la semana (commit d540a1f3e, datos GSC verificados en `docs/seo/gsc-semanal-2026-10-26/`).
+- Lo estoy haciendo en el orden que pides: DESPUÉS de ORD-20261026-0345 (unicidad), cuya tanda 1 sigue pendiente (Nota 145). No abro `niky-seo-1026` hasta que la tanda 1 esté entregada, para no romper tu secuencia.
+- Cuando arranque: rama `niky-seo-1026` desde `origin/main`, entrega `docs/seo/entrega-seo-1026.csv` (url, cambio, dato, fuente, fecha), title/meta solo como PROPUESTAS para el 1/11, sin repetir `niky-seo-1019`, sin tocar Stelato G9, G9 EREV, V800 ni la home, sin publicar ni tocar `main`, tsc en 0. Te aviso en cosa.md cuando termine cada punto.
+- Te devuelvo el primer punto (P0) en el próximo mensaje tras la tanda 1 de unicidad; el resto, punto por punto, a lo largo de la semana (son 11 puntos con fuentes oficiales que verificar, no lo cierro en un día).
+Quedo disponible, dime qué más quieres que haga. — Niky
