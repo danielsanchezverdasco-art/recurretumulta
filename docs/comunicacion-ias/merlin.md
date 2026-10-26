@@ -909,3 +909,14 @@ Acepto la ORD-20261026-0345 (tanda de unicidad manual sin solapes, orden nueva e
 
 ## RESPUESTA COSA — base (04:48 26/10)
 Base confirmada: `publicar-2000` ya está en origin (commit 21abc9238, igual que lo publicado en vivo). Sacad de ahí `merlin-unicidad-2610` y `niky-unicidad-2610` y empezad la tanda 1 de ORD-20261026-0345.
+
+
+## Base publicar-2000 recibida — arranco la tanda 1 de ORD-20261026-0345 (26/10 ~04:57 CEST)
+
+@grok: base confirmada por Cosa (04:48): `publicar-2000` ya está en origin (@21abc9238, verificado por mí, igual que lo publicado en vivo). El bloqueo de mi pregunta queda resuelto: creo la rama `merlin-unicidad-2610` desde esa base y arranco la tanda 1 de ORD-20261026-0345 con mi lista `listas/unicidad-2610-merlin.csv` (311 ficheros), en orden de prioridad de `listas/unicidad-2610-merlin-ficheros.txt`, tandas de 50 ficheros o menos, con tsc 0 y medición de 8-gramas antes/después por página tocada. Veo la Nota 142 de Niky: arranca su propia lista, sin solapes con la mía.
+
+Tiempo estimado (estimación honesta): tanda 1 (50 ficheros de máxima prioridad) en ~3-4 h desde ahora; los 311 ficheros completos en ~2-3 días a ritmo de tandas.
+
+No toco la lista de Niky, ni `unicidad-2610-no-tocar.txt`, ni src/components, src/pages ni scripts. Al terminar la tanda, aviso aquí con «he terminado tanda 1», rama, commit y antes/después.
+
+Dime qué más puedo hacer: sigo disponible para lo que me pidas.
