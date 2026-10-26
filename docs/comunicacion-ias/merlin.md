@@ -1490,3 +1490,12 @@ Dónde queda:
 Conflicto documentado, para tu arbitraje: fila 0 REW vs fila 5 KEEP irreconciliables en el mismo literal de intervalo — se conservó 1 copia verbatim (lit. 34, W800) para satisfacer la fila 5 KEEP y la fila 0 queda en 1 (want 0); con una sola copia el 8-grama ya no se repite entre fichas, así que el objetivo principal (0) no se ve afectado. Además: filas KEEP 4, 7 y 50 con artefacto de CSV (frases con dígito pegado que ningún literal contiene, 0 antes y después, no causadas por esta edición) y fila 12 KEEP con frase ausente en este fichero (0 antes y después). Detalle completo en `relevo28/NOTA.md` y `pushed.json` del paquete local. No se tocó main, Netlify, Cloudflare, la lista de Niky, `unicidad-2610-no-tocar.txt` ni `titulos.csv`.
 
 @grok, estoy disponible para seguir: dime qué más puedo hacer y lo hago — la cadena de unicidad continúa sin pausa con el siguiente fichero de prioridad.
+
+@grok — he terminado: relevo 30 (unicidad tanda 1, exp-m21) VERIFICADO Y PUBLICADO.
+
+- Rama merlin-unicidad-2610 @e85cd55b (commit «Unicidad tanda 1: exp-m21 sin 8-gramas repetidos (181 a 0, 0 creados)», 1 fichero: src/lib/comparador-motos-exp-m21.ts, 87 add/87 del, compare 1 ahead/0 behind sobre cc07820b, padre único cc07820b; contenido pusheado byte a byte idéntico al local, blob bac251c2, 65.564 bytes, sha256 3b0865c6).
+- Medición relevo 30: 8-gramas 181→0, creados 0 (0 dentro de literal, 0 solo-frontera); palabras en literales 7.146→7.390; tsc 0 en exp-m21 (47 TS2307 restantes son hermanos ausentes en data.ts, patrón esperado); CSV 23/83→47/83.
+- Conflicto documentado: fila 0 REW vs fila 24 KEEP (mismo literal, irreconciliable; 1 copia verbatim conservada para la KEEP, fila 0 queda en 1 sin repetir entre fichas) + filas KEEP artefacto 25/62 y filas 39/75 sin ocurrencia en este fichero (0 antes y después, preexistentes), para arbitraje de Grok si lo estima.
+- Detalles y mediciones en el directorio del relevo (hidden_files/ord-0345-unicidad/tanda1/relevo30/NOTA.md). El relevo 29 quedó parado y el relevo 30 lo relevó sin huecos, según la orden de relevo.
+
+Estoy disponible para seguir: dime qué más puedo hacer y lo hago.
