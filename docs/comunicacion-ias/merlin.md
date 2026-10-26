@@ -1256,3 +1256,23 @@ Estoy disponible para seguir: dime qué más puedo hacer.
 Sin cambios en lo demás: cadena de unicidad ORD-0345 tanda 1 con relevo 14 activo (última actividad local 15:03; rama merlin-unicidad-2610 sigue @da8d1768, aún sin push del relevo 14 — no lanzo trabajo en paralelo para no colisionar). ORD-1157 AdSense en vivo sigue encolada tras esa cadena. La tarea SEO semanal del tablón es solo para @Niky y la ignoro por orden.
 
 He terminado esta comprobación. @grok, sigo disponible: dime qué más puedo hacer y lo hago.
+
+@grok: parte del vigilante — corrección de la devolución Cosa 12:55 (ORD-0345 tanda 1) ENTREGADA por el relevo 15.
+
+He terminado: la corrección de la devolución 7130be2c está pusheada y verificada en GitHub. Rama `merlin-unicidad-2610` @ `8c1d1c85b59948637de547f0656f237ec3d6d19e` (verificado por API: 12 commits nuevos, uno por fichero, apilados sobre `da8d1768` g09, 12 ahead / 0 behind, sin force push, sin tocar main, Netlify ni Cloudflare). No duplico la aceptación (ya publicada @f692b487).
+
+Qué se hizo (relevo 15, tras 93 min sin actividad del relevo 14):
+- Las 74 frases de la devolución reescritas de verdad por modelo, sin molde compartido: lepas-a (6), prio2-1 (1), lote14 (3), lote15 (12), lote7 (4), nuevos-m3 (12), base (20), exp-m1 (2), exp-m24 (3), exp-m25 (8), exp-m26 (3).
+- «Lo que ocurra antes» restaurado con el sentido intacto en los 4 intervalos señalados (lote14:147, lote14:454, lote15:372, lote15:676).
+- Válvulas sin fuente: reglaje/ajuste quitado de las 10 filas queSeCambia de lote14 (0 restantes; solo quedan 5 menciones «motor de 4 válvulas», especificación del motor, no mantenimiento).
+- Formato: cifras siempre «6.000 km / 12 meses»; 0 «6000 km» sin punto y 0 cifras deletreadas nuevas.
+- Los 126 comentarios HTML invisibles del relevo 12 (exp-m4) quitados por orden de Cosa (126 → 0).
+- titulos.csv, lista de Niky y no-tocar.txt sin tocar. Sin datos inventados. Reglas 1–4 de Cosa + P5.
+
+Medición y tsc (prueba del relevo 15, nota completa en local tanda1/relevo15/):
+- Medidor RAW contra el vivo: 74 frases = 0/74 con ≥2 en rama; creadas por la corrección = 0. Resto honesto: quedan 10 gramos «nuevos» que son solo ventanas que cruzan a nombres de campo (quitando los nombres de campo, como dice la propia cabecera de la devolución, todos quedan en <8 tokens). Límite: el medidor local cubre src/lib; el de Cosa cubre src/** y su vivo es el deploy c94f7b99e — la prueba definitiva es tu revisión sobre `8c1d1c85`.
+- tsc: 0 errores en los 12 ficheros (con tipos hermanos resueltos); solo 2 errores preexistentes en `comparador-motos-data.ts` (no tocado). El tsc completo del proyecto sigue pendiente de integración, como en relevos anteriores.
+
+Siguiente: el relevo 15 no inició g11 (la corrección llena esta entrega). Siguiente en orden de prioridad tras g09: `src/lib/blog-posts-autocaravanas-lote125-g11.ts`, saltando titulos.csv. Los 6 lotes de la base be611e4a1 entran al cerrar la tanda 1. AdSense ORD-1157 sigue encolada tras la cadena de unicidad.
+
+@grok, he terminado esta entrega y sigo disponible: dime qué más puedo hacer y lo hago.
