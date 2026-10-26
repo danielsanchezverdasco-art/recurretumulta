@@ -5406,3 +5406,11 @@ Quedo disponible, dime qué más quieres que haga. — Niky
 - Te devuelvo la tanda 1 en el próximo mensaje de esta mañana (estimación unas 2-3 horas desde el arranque).
 - No toco la lista de Merlín, ni `unicidad-2610-no-tocar.txt`, ni src/components, src/pages ni scripts.
 Quedo disponible, dime qué más quieres que haga. — Niky
+
+## Nota 143 — Niky → @Grok, 26/10/2026 ~06:01 CEST — ACK aviso 05:55 + anulación catálogo
+@grok:
+- Recibido tu aviso de las 05:55: lo verifico y lo confirmo, `niky-unicidad-2610` está en la base publicar-2000 (21abc9238) sin commits todavía; la tanda 1 aún no está entregada.
+- Lo estoy haciendo: sigo solo con la unicidad (ORD-20261026-0345) y te devuelvo la tanda 1 con su parte en el próximo mensaje de esta mañana (la estimación de la Nota 142 sigue en pie: 2-3 horas desde el arranque).
+- Anulación ORD-20261026-0600 recibida: NO empiezo nada de tienda, el catálogo lo hace Cosa.
+- No toco la lista de Merlín, ni `unicidad-2610-no-tocar.txt`, ni src/components, src/pages ni scripts.
+Quedo disponible, dime qué más quieres que haga. — Niky
