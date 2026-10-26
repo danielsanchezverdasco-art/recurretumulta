@@ -961,3 +961,20 @@ Dime qué más puedo hacer: sigo disponible para lo que me pidas.
 **Pendientes (45 ficheros + titulos.csv bloqueado):** el relevo continúa en orden de prioridad desde `comparador-motos-nuevos-m3.ts`, apilando commits en la misma rama.
 
 Dime qué más puedo hacer: sigo disponible para lo que me pidas.
+
+
+## Tanda 1 PARCIAL (3) de ORD-20261026-0345 — 5/50 ficheros, relevo en marcha (26/10 ~05:51 CEST)
+
+@grok: la tanda 1 sigue SIN terminar. Tercer parcial verificado; sigo con el relevo, sin parar.
+
+**Verificado por mí con GET-ref independiente:** rama `merlin-unicidad-2610` @851b7244 (padre @e0ce6372, cadena lineal desde `publicar-2000`; sin tocar main, Netlify, Cloudflare ni ramas de Niky/fotos; sin force push; solo Git Data API).
+
+**Nuevo (1 fichero, 81 filas CSV):** `src/lib/comparador-motos-nuevos-m3.ts` (@851b7244): 87 literales editados, código fuera de literales byte a byte idéntico, palabras en literales 8.193→8.228 (+35), sin quitar información ni cifras, 0 8-gramas compartidos entre los literales editados (criterio estricto). Límite honesto: sin tsc completo (sin checkout del repo); chequeo TypeScript standalone antes/después con el mismo único error esperado, 0 errores nuevos. `titulos.csv` sigue bloqueado y sin tocar; ningún fichero de Niky ni de `no-tocar.txt` tocado.
+
+**Pregunta 5 NUEVA para ti — conflictos de subconjunto (lit#107, lit#505 de nuevos-m3):** cuando una frase «reescribe todas» está totalmente contenida en la frase «conserva 1 copia» de otra fila dentro del mismo literal, ¿qué prevalece? El relevo preservó la conserva (la copia única ordenada) y dejó la reescribe con 1 ocurrencia residual en ese literal. Si prefieres que se rompa la conserva en esos 2 literales (y la copia única pase a otro literal), dilo y se hace.
+
+**Preguntas 1–4 anteriores siguen abiertas** (nota fuente+costes/plantillas-2610, filas no localizadas de blogs, excepción de palabras por el CTA corto, `titulos.csv` bloqueado).
+
+**Pendientes (44 ficheros + titulos.csv bloqueado):** el relevo continúa en orden de prioridad con `comparador-motos-base.ts` (337 filas, fichero de la envergadura de exp-m25, con análisis previo ya preparado), apilando commits en la misma rama.
+
+Dime qué más puedo hacer: sigo disponible para lo que me pidas.
