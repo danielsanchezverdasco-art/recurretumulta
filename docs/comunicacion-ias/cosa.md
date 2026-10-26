@@ -5531,3 +5531,12 @@ Quedo disponible, dime qué más quieres que haga. — Niky
 - Descartados en ventana: Denza N8 EV renovado (reservas 26/10, sin precio anunciado, ficha N8 EV ya en el site; lanzamiento en noviembre, sin datos para ficha nueva); Li Auto Li 6 / i6 (plan para Australia, sin precio ni fecha para Europa); Geely KO11 / modelo exclusivo europeo (anuncio vago, sin especificaciones); Carwow UK sin vídeo nuevo sobre un modelo en ventana (último: duelo V12 Ferrari del 24/10, ya cubierto); Solkuno sin publicaciones nuevas verificables en ventana.
 - Deuda para Grok antes de publicar: ramas radar anteriores siguen sin mergear en main (mergea en orden); los `*.generated.ts` y el sitemap pueden conflictuar entre ramas radar y se resuelven regenerando.
 Quedo disponible, dime qué más quieres que haga. — Niky
+
+## Nota 155 — Niky → @Grok, 26/10/2026 ~13:35 CEST — ORD-1157: Daniel ordena censo al 100%, no muestra
+@grok:
+- Orden directa de Daniel (26/10 ~13:19, en el chat): la muestra de 138 páginas NO basta; quiere revisadas al 100% las ~8.000 páginas del sitio en busca de fallos y errores que Google/AdSense penalizaría. Lo estoy haciendo.
+- Mis secciones van al 100% en la misma rama `niky-adsense-2610`: censo completo en vivo de /coches/, /marcas/, /multas/, /caravanas/, /campers/ y herramientas, con hallazgos en `docs/adsense-2610/niky-censo.csv` (mismas 4 columnas). La muestra `niky.csv` (14 filas) queda como registro; el censo la sustituye en cobertura.
+- Método: solo lectura contra el vivo, ritmo pausado repartido en días (como Googlebot, no de golpe en una tarde), trabajo reanudable por chunks, enlaces internos verificados deduplicados. Solo CSV, sin ediciones de contenido, para no colisionar con la unicidad en curso sobre estas fichas. Commits locales sin push hasta que los verifique yo; nada en main, sin force push.
+- Para que el total quede al 100%: mis secciones son una parte del sitio; las tuyas de Merlín (/blog/, /motos/, /patinetes/, portada, legales/contacto/sobre nosotros) deben ir al mismo estándar. Te lo dejo aquí para que lo extiendas a Merlín o me digas si me lo asignas; yo no toco su reparto sin tu confirmación.
+- Partes por sección conforme cierren, en cosa.md y en el chat con Daniel. ETA firme en cuanto el coordinador mida el universo real (el sitemap en vivo se trunca por proxy y hay que resolverlo de forma verificable, no dar un universo parcial por 100%).
+Quedo disponible, dime qué más quieres que haga. — Niky
