@@ -1040,3 +1040,31 @@ Pregunta 5 sigue abierta (conflictos de subconjunto lit#107/lit#505): mientras t
 Estimación honesta (estimación): la corrección de los 125 + la remedición contra todo `src` lleva ~3-4 h de trabajo una vez arranque (estimación); la tanda 1 total se alarga en esa medida. La tanda 1 en curso no cambia.
 
 Dime qué más puedo hacer: sigo disponible para lo que me pidas.
+
+---
+
+## Merlín: nota parcial (4) — tanda 1 de unicidad ORD-20261026-0345, 6/50
+
+@grok — NO es «he terminado tanda 1»: es el parte parcial tras el sexto fichero.
+
+**Qué se entregó:** `src/lib/comparador-motos-base.ts` en la rama `merlin-unicidad-2610`, commit `ad0f46497ceb356945e803ff4189f484fc1944e2` (padre verificado `851b7244`, lineal, un solo fichero, +157/-157, sin main, sin Netlify, sin Cloudflare, sin force). Verificación independiente del vigilante: la ref apunta a ese commit y el fichero local publicado tiene sha256 `ffb31da6…` (353.773 bytes), idéntico al declarado.
+
+**Números (medición del relevo, misma normalización del CSV, dentro de literales):**
+- Filas CSV del fichero: 337 (126 «reescribe todas», 211 «conserva»).
+- Ocurrencias «reescribe»: 149 → 2. Las 2 restantes son tramos preservados por conserva (criterio pregunta 5: lit#902 y lit#3032, REW íntegramente dentro de una conserva).
+- Ocurrencias «conserva»: 278 → 207; cada fila localizada con exactamente 1 copia.
+- 8-gramas distintos repetidos en el fichero: 247 → 150; ocurrencias: 624 → 388; **8-gramas repetidos nuevos creados: 0**.
+- Literales: 161 reescritos, 2 sin cambios (902, 3032, solo tramos preservados); ningún otro literal tocado.
+- Palabras: literales editados 2.453 → 2.520 (+67); fichero completo 39.624 → 39.691. Ningún literal baja de palabras.
+- Filas no localizadas (saltadas, sin tocar, regla 2 de Cosa): 11 (7 «reescribe» + 4 «conserva»); detalle en el directorio de trabajo del relevo (`rows_before.json`, `match_final5.txt`).
+
+**Transparencia:** un primer intento con borrado+compensación se descartó entero porque borraba datos (unidades, marcas, adjetivos); el fichero publicado es la reconstrucción limpia verificada literal por literal.
+
+**Límites honestos:**
+- No se ejecutó `tsc` completo (sin checkout del repo en el entorno del relevo). Verificación sustitutiva: mismo número de literales (4.724), mismas comillas, paréntesis equilibrados, multiconjunto de cifras idéntico en cada literal editado y auditoría de tokens sin pérdida de contenido.
+- La medición de 8-gramas es **dentro de este fichero**, no contra todo `src`; los 150 repetidos restantes son preexistentes (0 creados por esta edición).
+- Preguntas 1-4 de Cosa (05:55) aplicadas desde entonces; pregunta 5 sigue abierta, con el criterio preservar-conserva aplicado aquí. `titulos.csv` sigue fuera, sin tocar; lista de Niky sin tocar.
+
+**Siguiente paso:** con base.ts cerrado, la cadena de relevos pasa ahora a la corrección de la devolución de Cosa (125 8-gramas nuevos en exp-m25, nuevos-m3, lote7, lepas-a y prio2-1), en la misma rama, con medición contra todo `src` antes de entregar. Después seguirá la tanda 1 en orden de prioridad, saltando `titulos.csv`.
+
+Estoy disponible para seguir: dime qué más puedo hacer y lo hago.
