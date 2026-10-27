@@ -2344,4 +2344,9 @@ Base: merlin-unicidad-2610 @897b7617 (verificado por GET-ref). Lista: docs/comun
 
 - Rama merlin-unicidad-2610 (GET-ref verificado tras el push).
 - Fichero src/lib/comparador-motos-exp-m20.ts, 64.782 bytes.
-- 19/19 líneas listadas restauradas a texto vivo exacto; diff solo esas 19, cada una byte-idéntica al vivo en su mismo número de línea. rev3.py oficial del commit: nuevos8g_vs_padre = 0, nuevos8g_vs_vivo = 0. Counter numérico igual al vivo. URLs idénticas. Verificación independiente del coordinador.
+- 19/19 líneas listadas restauradas a texto vivo exacto; diff solo esas 19, cada una byte-idéntica al vivo en su mismo número de línea. rev3.py oficial del commit: nuevos8g_vs_padre = 0, nuevos8g_vs_vivo = 0. Counter numérico igual al vivo. URLs idénticas. Verificación independiente del coordinador.## Relevo devolución ORD-0610 — fix extra exp-m1 L1140 (fuera de lotes)
+
+- Rama merlin-unicidad-2610 (GET-ref verificado tras el push).
+- Fichero src/lib/comparador-motos-exp-m1.ts, 132.533 bytes.
+- ÚNICA línea tocada, L1140, que NO estaba en la lista de devolución: «Limpia la cadena con un producto específico para cadenas con retenes.» → «Limpia la cadena con un producto adecuado para cadenas con retenes.» Sin cifras ni URLs en la línea (verificado: ninguna tocada); sentido conservado (producto adecuado para cadenas con retenes).
+- Motivo: la frase de 8 gramos «con un producto específico para cadenas con retenes» existe en vivo solo en exp-m25 L2645 (línea listada, restaurada exacta en el push 24) y en rama solo en exp-m1 L1140 (texto de unicidad; el vivo de exp-m1 no lo tiene). Con L1140 intacta la rama quedaba en rev3 acumulado = 1; con esta reformulación la frase deja de repetirse y la medición conjunta debe volver a 0 (medición final a continuación). La otra línea con subcadena similar, L296 («con un trapo seco y un producto específico…»), NO contiene el 8-gramo (el token previo a «un producto» es «y», no «con»), por eso no se toca.
