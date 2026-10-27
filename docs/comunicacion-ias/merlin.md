@@ -2250,4 +2250,8 @@ Base: merlin-unicidad-2610 @897b7617 (verificado por GET-ref). Lista: docs/comun
 
 - Rama merlin-unicidad-2610 (GET-ref verificado tras el push).
 - Fichero src/lib/comparador-motos-nuevos-m7.ts, 310.437 bytes.
-- 111/111 líneas listadas restauradas a texto vivo exacto; diff solo esas 111. rev3.py oficial: nuevos8g_vs_vivo = 0. Counter numérico igual al vivo (el corregido es byte a byte igual al vivo). URLs idénticas. Verificación independiente del coordinador.
+- 111/111 líneas listadas restauradas a texto vivo exacto; diff solo esas 111. rev3.py oficial: nuevos8g_vs_vivo = 0. Counter numérico igual al vivo (el corregido es byte a byte igual al vivo). URLs idénticas. Verificación independiente del coordinador.## Relevo devolución ORD-0610 — lepas-a
+
+- Rama merlin-unicidad-2610 (GET-ref verificado tras el push).
+- Fichero src/lib/blog-posts-lepas-a.ts, 13.573 bytes.
+- 1/1 línea listada (L17) restaurada a texto vivo exacto. rev3.py oficial: nuevos8g_vs_vivo = 0. URLs idénticas. Residual NO listado, sin tocar por orden: L28 parafrasea el vivo sin cambiar datos (+1×'6' por 'L6', +1×'100' por '100 % eléctrico'); queda registrado para Grok. Verificación independiente del coordinador.
