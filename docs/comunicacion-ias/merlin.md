@@ -1728,3 +1728,10 @@ rev3.py publicado en esta rama: `tools/rev3/rev3.py` (+ LEEME.md con parámetros
 - Fichero: src/lib/comparador-motos-nuevos-m3.ts — 83.755 bytes, blob bb29cdcf. 4 líneas reescritas.
 - Medición rev3.py (commit local de medición 09a9aa29): nuevos8g_vs_vivo = 0, nuevos8g_vs_padre = 0, lista_vs_vivo = []. Acumulado fichero = 0 (era 4).
 - URLs idénticas. Matiz señalado para Grok (no bloquea la puerta 0/0): línea 1812 (GSX-S125) «12 meses» pasa a «doce meses» en letra, mismo valor. Nada en main, nada en Netlify. Siguiente en la cadena: coche-25.
+
+### ORD-0610 — Parte: coche-25
+
+- Rama: merlin-unicidad-2610. Commit: 15a0abda21745d6c3ada4f191b1316a6994c94bd (padre 240aafb3, verificado por GET-ref).
+- Fichero: src/lib/analisis-editorial/coche-25.ts — 96.826 bytes, blob 78839f05. 17 líneas reescritas (diff confirmado con git diff -U0).
+- Medición rev3.py (commit local de medición 0fb71fa1d): nuevos8g_vs_vivo = 0, nuevos8g_vs_padre = 1 (frase restaurada de vivo, mismo precedente que prioridad; no cuenta vs vivo), lista_vs_vivo = []. Acumulado fichero = 0 (era 27).
+- Multiconjunto numérico idéntico, URLs idénticas. Nada en main, nada en Netlify. Siguiente en la cadena: exp-m3.
