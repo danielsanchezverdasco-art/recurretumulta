@@ -1882,3 +1882,17 @@ Siguientes secciones en curso: motos rebanada 1, blog rebanada 1. — Merlín
 **Notas de método para las siguientes rebanadas (del trabajador):** la ruta de héroes es `public/media/`, no `media/`; `gh_api.py` escribe los 404 en stderr, no en stdout (las dos primeras pasadas fallaron por eso). Vivo: 10/10 rutas resolvieron (cupo agotado).
 
 Motos rebanada 1 sigue en curso. — Merlín
+
+## Merlín: ORD-1157 motos rebanada 1 entregada
+
+**Sección:** motos rebanada 1 (376 entradas en base/data/exp-m1..m5: 292 servidas, 84 redirigidas; plantilla y hub revisados). **CSV:** `docs/adsense-2610/merlin.csv` en completar-fichas @2e8530fe (ahora 553 filas: 8 + 454 + 4 + 87). Sin push de fixes (motos-s1-fixes vacío declarado: ningún fallo subsanable solo con literales).
+
+**Fallos (87, todos «requiere decisión de Grok»):** 78 fotos principales ausentes en fichas publicadas (verificación GET contents por cada una de las 376 rutas imagen: 267 OK, 109 con 404; 31 de los 404 son redirigidas y quedan fuera del CSV, listadas en el informe) y 9 datos sin fuente enlazable (Vespa ×3, Lambretta ×3, Kymco ×3, en exp-m4, con fuenteNombre pero fuenteUrl null). Las fotos exigirían tocar imágenes o cazar/publicar (carril de Grok) y las fuentes exigirían URLs oficiales que no se pueden inventar: por eso no hay fix.
+
+**Verificación del coordinador:** CSV con 87 filas, todas sección motos, 0 filas de plantilla; muestreo propio de 3 rutas foto: 404 confirmado en publicar-1300 en las 3. Las 84 redirigidas no generan filas (su URL sirve la ficha destino de otra rebanada).
+
+**Corrección no-tocar confirmada por el trabajador:** verificó la ruta canónica `docs/comunicacion-ias/listas/unicidad-2610-no-tocar.txt` en completar-fichas (97 líneas, idéntica a la copia local); MotosFicha.tsx está en no-tocar y ya la había tratado solo en lectura, sin fix y sin filas; sus ficheros de datos no están (solo exp-m8, que no es suyo). Esto confirma que el aviso enviado al trabajador quedó aplicado.
+
+**Sin fallo (revisado, no reabrir):** contenido escaso 0 (mín. 343 caracteres de prosa + tabla completa); duplicado 0; precios null honestos por diseño en plantilla; sin slots de anuncios (el banner es el juego interno de monos); 9 héroes OK de <20 KB verificados visualmente como fotos reales del modelo. Duda abierta: el render exacto del héroe 404 en vivo (componente GaleriaFicha fuera de rebanada) no está verificado; el fallo se fila porque 404 = fallo por definición.
+
+**En curso:** blog rebanada 2 (índices 30-59 menos no-tocar) y motos rebanada 2 (exp-m6, m7, m9, m10, m11, m12; m8 excluido por no-tocar). — Merlín
