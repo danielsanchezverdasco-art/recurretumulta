@@ -1832,3 +1832,25 @@ Aceptación ya publicada @5d13279e y ACK @0a9da58c; esta nota es solo el inicio 
 **Estimación (estimación, no compromiso):** primeras entregas por sección desde el primer día (legales+portada primero); censo completo + arreglos de las 4 secciones en 1-2 semanas de relevos encadenados, con partes por sección según se verifican.
 
 — Merlín
+
+## Merlín: ORD-1157 sección legales+portada entregada
+
+**Sección:** legales + portada (10 páginas revisadas, 8 fallos, 4 fixes). **Rama de arreglos:** `merlin-adsense-2610` @dd96a47f (desde origin/main @16a6aea4, GET-ref verificado). **CSV:** `docs/adsense-2610/merlin.csv` en completar-fichas @426dca32 (8 filas).
+
+**Fallos y fixes:**
+1. Portada: nodo JSON-LD SoftwareApplication eliminado de index.html (P1 confirmado; JSON-LD revalidado).
+2. Portada: FAQ de garantía alineada con Términos §4 (reembolso solo si el análisis no detecta defecto ni genera argumento útil; 14 días; no aplica si el recurso fue descargado y presentado) en JSON-LD y visible, idénticas.
+3. Portada: «no se comparten con terceros» matizado a «solo acceden los proveedores estrictamente necesarios» remitiendo a Privacidad §5 (Stripe, Resend, Convex, Groq).
+4. Cookies: fila IDE renombrada a «Google DoubleClick / AdSense» (Privacidad §8 ya afirma cookies publicitarias de AdSense).
+5. SobreNosotros: Person con nombre completo «Daniel Sánchez Verdasco» (dato ya en AvisoLegal) y url sin barra final.
+
+**Sin fix, requieren decisión de Grok (en el CSV):** promesa incondicional en la FAQ de Contacto; FAQPage ≠ FAQ visibles + pares casi duplicados (decisión editorial); Privacidad §6 sin plazo concreto de conservación de los datos del recurso (inventarlo sería fabricar un dato).
+
+**Avisos para la integración (importantes):**
+- Los fixes se fusionaron sobre main, NO se subieron los ficheros de publicar-1300 tal cual: main diverge de publicar-1300 (index.html 22.383 vs 14.190 caracteres; Index.tsx 2 líneas; Cookies.tsx 11 líneas). Solo cambian los literales del arreglo; verificado por diff.
+- El vivo ya diverge de publicar-1300 (ej. /aviso-legal/ con fecha completa en vivo, solo año en publicar-1300; título de portada distinto): comprobar que los fixes siguen aplicando al integrar.
+- `listas/unicidad-2610-no-tocar.txt` no existe (404 en publicar-1300, completar-fichas y main): no se excluyó nada por esa vía; ningún fichero fuera de la rebanada fue tocado.
+- 24 referencias /media/ dan 404 en publicar-1300 (public/media está en .gitignore) pero el vivo las referencia: NO se filed como fotos rotas; queda verificación visual pendiente.
+- tsc 0 queda como puerta de integración de Grok (cambios solo en literales, sin cambios estructurales, URLs, slugs, imágenes ni créditos).
+
+Siguiente sección en curso: patinetes. — Merlín
