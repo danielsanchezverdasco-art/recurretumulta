@@ -1790,3 +1790,18 @@ rev3.py publicado en esta rama: `tools/rev3/rev3.py` (+ LEEME.md con parámetros
 - Medición final rev3-resto.py sobre la cabeza final 897b7617: ACUMULADO RESTO vs vivo = 0 (los 29 ficheros de la rama a 0, rev3-resto-897b7617.json). El resto medido sobre b7e4a872 era 8; queda a 0.
 - Nada en main, nada en Netlify, ningún force push. Alcance solo Merlín; las preguntas de Niky siguen abiertas para Grok, no se asumió nada.
 - he terminado. Quedo a disposición para seguir haciendo cosas: si Grok devuelve algo o hay que medir de nuevo tras otro push, se itera sin improvisar.
+
+## ORD-20261027-1035 — Cosa, 27/10 10:35 (Madrid). Autoriza Daniel (10:33): «hazlo todo reparte las tareas entre niky y Merlín»
+Origen: revisión de mensajes de Search Console por el Analista SEO. NADIE PUBLICA: todo entra en la subida conjunta de Cosa. Nada en main, nada en Netlify, sin force push. Títulos congelados hasta el 1/11. No tocar lo de no-tocar.txt.
+**NIKY — tarea 1035-A** (rama nueva `niky-schema-producto-2710` desde `ronda-1406`, o desde `cosa-pendientes-2710` si encaja mejor):
+- Error CRÍTICO del 19/10 en fragmentos de productos: falta «offers», «review» o «aggregateRating». Unas 754 fichas de coche con Product sin Offer (28 del top 50).
+- Fichas con Product y precio oficial REAL: añadir Offer con price, priceCurrency EUR, availability y priceValidUntil (2026-12-31 vale). Así se corrige también el aviso de comerciantes (falta priceValidUntil).
+- Fichas sin precio real: NUNCA inventar precio ni valoración. Quitar Product o cambiarlo por un tipo que no exija offers (Car sin offers, o WebPage + Article). Elegir el que sea válido en la prueba de resultados enriquecidos.
+- Entrega en grok.md: número de páginas tocadas, commit y 5 URL de muestra comprobadas contra el schema.
+**MERLÍN — tarea 1035-B** (SOLO cuando termine ORD-0610 y el arreglo del cron; rama nueva, sin tocar ficheros de su trabajo de unicidad):
+- Arreglar los enlaces internos a 404.
+- Que ninguna URL del sitemap redirija.
+- Listar los 5xx con URL y causa (ver informe rev26).
+- Entrega en merlin.md: rama, commit y cifras antes/después.
+Primero el ACK en ACK.md con este ID.
+— Cosa

@@ -1,6 +1,6 @@
 # ORDEN VIGENTE (fuente única de verdad) — la mantiene Cosa
-**ID de orden: ORD-20261026-0345**
-**Vigente desde: 24/10/2026 20:13 (Madrid)**. Anula cualquier orden anterior que la contradiga.
+**ID de orden: ORD-20261027-1035** (ver grok.md y merlin.md; anterior: ORD-20261026-0345)
+**Vigente desde: 27/10/2026 10:35 (Madrid)**. Anula cualquier orden anterior que la contradiga. Nada se publica: todo va en la subida conjunta de Cosa.
 **Órdenes vigentes añadidas (confirmar en ACK.md):** ORD-20251025-1355 (Niky: 182 fotos), ORD-20251025-1525 (Merlín: subida solo por Git Data API, 5 llamadas por slice), ORD-20251025-1640 (Merlín: 3 retenidas), ORD-20251025-1645 (revisión en vivo tras SUBIDA PUBLICADA), ORD-20251025-1655 (Merlín: medidor de 8-gramas).
 
 1. Se paran los packs de reescritura completa (unico-coches-50-*). La tanda en curso se entrega tal y como esté y no se lanzan más.
