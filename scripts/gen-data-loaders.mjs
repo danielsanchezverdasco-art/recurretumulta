@@ -299,10 +299,33 @@ writeFileSync(join(LIB, "comparador-lite.generated.ts"), liteOut);
 // ── 7b. AUTOCARAVANAS_LITE ─────────────────────────────────────────────
 // Subconjunto ligero de AUTOCARAVANAS_COMPARADOR para el hub /autocaravanas/.
 // Las fichas cargan el modelo completo vía el dominio "autocaravana" (§2).
+// 27/10/2026 (Cosa, ORD-20261027-0613 p2): el hub solo leía los módulos de
+// src/lib/ y dejaba fuera las fichas de src/lib/autocaravanas/ (lotes Merlín),
+// p. ej. la Adria Sonic 700 SL. Ahora lee ambas carpetas sin duplicar ids.
 const autocaravanasLite = [];
-for (const f of files(/^comparador-autocaravanas-.*\.ts$/)) {
-  if (/^comparador-autocaravanas-data\.ts$/.test(f)) continue;
-  const text = readFileSync(join(LIB, f), "utf-8");
+const autocaravanasLiteIds = new Set();
+// Fichas camper movidas a /campers/ con 301! en public/_redirects: la tarjeta
+// enlaza directamente al destino final para no enlazar a una redirección.
+const AUTOC_A_CAMPERS = new Set();
+try {
+  const red = readFileSync(join(ROOT, "public", "_redirects"), "utf-8");
+  const reRed = /^\/autocaravanas\/([^\s/]+)\/\s+\/campers\/\1\/\s+301!?\s*$/gm;
+  let mr;
+  while ((mr = reRed.exec(red)) !== null) AUTOC_A_CAMPERS.add(mr[1]);
+} catch {
+  /* sin _redirects: todas las tarjetas apuntan a /autocaravanas/ */
+}
+const AUTOC_SUB = join(LIB, "autocaravanas");
+const autocaravanasLiteFiles = [
+  ...files(/^comparador-autocaravanas-.*\.ts$/).map((f) => join(LIB, f)),
+  ...readdirSync(AUTOC_SUB)
+    .filter((f) => /^comparador-autocaravanas-.*\.ts$/.test(f))
+    .sort()
+    .map((f) => join(AUTOC_SUB, f)),
+];
+for (const fp of autocaravanasLiteFiles) {
+  if (/comparador-autocaravanas-data\.ts$/.test(fp)) continue;
+  const text = readFileSync(fp, "utf-8");
   const idRe = /\bid:\s*"([^"]+)"/g;
   let m;
   const ids = [];
@@ -314,6 +337,9 @@ for (const f of files(/^comparador-autocaravanas-.*\.ts$/)) {
     const entry = { id: ids[i].id };
     for (const k of ["marca", "modelo", "tipo", "imagen", "imagenOficial"]) entry[k] = strVal(block, k);
     for (const k of ["plazas", "precioDesde"]) entry[k] = numVal(block, k);
+    entry.ruta = AUTOC_A_CAMPERS.has(entry.id) ? `/campers/${entry.id}/` : `/autocaravanas/${entry.id}/`;
+    if (autocaravanasLiteIds.has(entry.id)) continue;
+    autocaravanasLiteIds.add(entry.id);
     autocaravanasLite.push(entry);
   }
 }
@@ -329,6 +355,7 @@ export type AutocaravanaLite = {
   precioDesde: number | null;
   imagen: string | null;
   imagenOficial: string | null;
+  ruta: string;
 };
 export const AUTOCARAVANAS_LITE: AutocaravanaLite[] = ${JSON.stringify(autocaravanasLite)};
 `;
