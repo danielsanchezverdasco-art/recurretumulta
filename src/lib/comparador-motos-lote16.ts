@@ -1117,13 +1117,13 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     imagen: "/media/velca-one-2026-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media//media/fotos-reales/velca-one-2026-ficha-tecnica-precio/velca-one-2026-ficha-tecnica-precio-real-1.webp",
+        src: "/media/fotos-reales/velca-one-2026-ficha-tecnica-precio/velca-one-2026-ficha-tecnica-precio-real-1.webp",
         alt: "Velca ONE 2026, vista lateral",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media//media/fotos-reales/velca-one-2026-ficha-tecnica-precio/velca-one-2026-ficha-tecnica-precio-real-2.webp",
+        src: "/media/fotos-reales/velca-one-2026-ficha-tecnica-precio/velca-one-2026-ficha-tecnica-precio-real-2.webp",
         alt: "Velca ONE 2026, detalle del frontal",
         ancho: 1200,
         alto: 800,
@@ -1178,13 +1178,13 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     imagen: "/media/velca-vortex-2026-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media//media/fotos-reales/velca-vortex-2026-ficha-tecnica-precio/velca-vortex-2026-ficha-tecnica-precio-real-1.webp",
+        src: "/media/fotos-reales/velca-vortex-2026-ficha-tecnica-precio/velca-vortex-2026-ficha-tecnica-precio-real-1.webp",
         alt: "Velca Vortex 2026, vista lateral",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media//media/fotos-reales/velca-vortex-2026-ficha-tecnica-precio/velca-vortex-2026-ficha-tecnica-precio-real-2.webp",
+        src: "/media/fotos-reales/velca-vortex-2026-ficha-tecnica-precio/velca-vortex-2026-ficha-tecnica-precio-real-2.webp",
         alt: "Velca Vortex 2026, detalle del frontal",
         ancho: 1200,
         alto: 800,
@@ -1374,9 +1374,9 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Con el Plan Moves IV su precio baja de 2.190 € a 1.490 €.",
       "Homologada como L1e (ciclomotor), no necesita ITV hasta los 3 años.",
     ],
-    imagen: "/media//media/fotos-reales/velca-bora-2025-ficha-tecnica-precio/velca-bora-2025-ficha-tecnica-precio-real-1.webp",
+    imagen: "/media/fotos-reales/velca-bora-2025-ficha-tecnica-precio/velca-bora-2025-ficha-tecnica-precio-real-1.webp",
     galeria: [{
-        src: "/media//media/fotos-reales/velca-bora-2025-ficha-tecnica-precio/velca-bora-2025-ficha-tecnica-precio-real-2.webp",
+        src: "/media/fotos-reales/velca-bora-2025-ficha-tecnica-precio/velca-bora-2025-ficha-tecnica-precio-real-2.webp",
         alt: "Velca Bora 2025, vista frontal",
         ancho: 1200,
         alto: 675,
@@ -1431,13 +1431,13 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     imagen: "/media/velca-bora-plus-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media//media/fotos-reales/velca-bora-plus-2025-ficha-tecnica-precio/velca-bora-plus-2025-ficha-tecnica-precio-real-1.webp",
+        src: "/media/fotos-reales/velca-bora-plus-2025-ficha-tecnica-precio/velca-bora-plus-2025-ficha-tecnica-precio-real-1.webp",
         alt: "Velca Bora+ 2025, vista frontal del ciclomotor eléctrico",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media//media/fotos-reales/velca-bora-plus-2025-ficha-tecnica-precio/velca-bora-plus-2025-ficha-tecnica-precio-real-2.webp",
+        src: "/media/fotos-reales/velca-bora-plus-2025-ficha-tecnica-precio/velca-bora-plus-2025-ficha-tecnica-precio-real-2.webp",
         alt: "Velca Bora+ 2025, vista lateral con badge Bora+",
         ancho: 1200,
         alto: 675,
@@ -5264,13 +5264,13 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     imagen: "/media/ducati-scrambler-800-icon-dark-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media//media/fotos-reales/ducati-scrambler-800-icon-dark-2025-ficha-tecnica-precio/ducati-scrambler-800-icon-dark-2025-ficha-tecnica-precio-real-1.webp",
+        src: "/media/fotos-reales/ducati-scrambler-800-icon-dark-2025-ficha-tecnica-precio/ducati-scrambler-800-icon-dark-2025-ficha-tecnica-precio-real-1.webp",
         alt: "Ducati Scrambler 800 Icon Dark 2025 negra, vista lateral",
         ancho: 1200,
         alto: 960,
       },
       {
-        src: "/media//media/fotos-reales/ducati-scrambler-800-icon-dark-2025-ficha-tecnica-precio/ducati-scrambler-800-icon-dark-2025-ficha-tecnica-precio-real-2.webp",
+        src: "/media/fotos-reales/ducati-scrambler-800-icon-dark-2025-ficha-tecnica-precio/ducati-scrambler-800-icon-dark-2025-ficha-tecnica-precio-real-2.webp",
         alt: "Ducati Scrambler 800 Icon Dark 2025 negra, frontal",
         ancho: 1200,
         alto: 675,
@@ -5343,13 +5343,13 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     imagen: "/media/ducati-scrambler-800-nightshift-2026-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media//media/fotos-reales/ducati-scrambler-800-nightshift-2026-ficha-tecnica-precio/ducati-scrambler-800-nightshift-2026-ficha-tecnica-precio-real-1.webp",
+        src: "/media/fotos-reales/ducati-scrambler-800-nightshift-2026-ficha-tecnica-precio/ducati-scrambler-800-nightshift-2026-ficha-tecnica-precio-real-1.webp",
         alt: "Ducati Scrambler 800 Nightshift 2026 Emerald Green, detalle",
         ancho: 1200,
         alto: 1801,
       },
       {
-        src: "/media//media/fotos-reales/ducati-scrambler-800-nightshift-2026-ficha-tecnica-precio/ducati-scrambler-800-nightshift-2026-ficha-tecnica-precio-real-2.webp",
+        src: "/media/fotos-reales/ducati-scrambler-800-nightshift-2026-ficha-tecnica-precio/ducati-scrambler-800-nightshift-2026-ficha-tecnica-precio-real-2.webp",
         alt: "Ducati Scrambler 800 Nightshift 2026 Emerald Green, vista lateral",
         ancho: 1200,
         alto: 857,

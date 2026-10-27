@@ -59,13 +59,13 @@ export const MOTOS_EXP_M30: MotoComparador[] = [
         alto: 1000,
       },
       {
-        src: "/media//media/fotos-reales/ducati-desmo450-eds-2026-precio-ficha-tecnica/ducati-desmo450-eds-2026-precio-ficha-tecnica-real-1.webp",
+        src: "/media/fotos-reales/ducati-desmo450-eds-2026-precio-ficha-tecnica/ducati-desmo450-eds-2026-precio-ficha-tecnica-real-1.webp",
         alt: "Ducati Desmo450 EDS 2026, vista tres cuartos delantera en foto oficial",
         ancho: 1500,
         alto: 1000,
       },
       {
-        src: "/media//media/fotos-reales/ducati-desmo450-eds-2026-precio-ficha-tecnica/ducati-desmo450-eds-2026-precio-ficha-tecnica-real-2.webp",
+        src: "/media/fotos-reales/ducati-desmo450-eds-2026-precio-ficha-tecnica/ducati-desmo450-eds-2026-precio-ficha-tecnica-real-2.webp",
         alt: "Ducati Desmo450 EDS 2026 en acción en un sendero, foto oficial",
         ancho: 1920,
         alto: 1280,
@@ -149,7 +149,7 @@ export const MOTOS_EXP_M30: MotoComparador[] = [
         alto: 1080,
       },
       {
-        src: "/media//media/fotos-reales/ducati-desmo450-sm-2026-precio-ficha-tecnica/ducati-desmo450-sm-2026-precio-ficha-tecnica-real-1.webp",
+        src: "/media/fotos-reales/ducati-desmo450-sm-2026-precio-ficha-tecnica/ducati-desmo450-sm-2026-precio-ficha-tecnica-real-1.webp",
         alt: "Ducati Desmo450 SM 2026 tumbando en curva, foto oficial",
         ancho: 1600,
         alto: 2000,

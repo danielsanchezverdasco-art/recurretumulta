@@ -1,3 +1,7 @@
+# 26/10/2026 tienda retirada (Daniel 10:40): 301 a portada
+/tienda / 301!
+/tienda/ / 301!
+/tienda/* / 301!
 # 24/10/2026 fix-no-indexadas-2410: 404 de GSC sin equivalente -> 410 (Gone)
 /gana-dinero /404.html 410!
 /gana-dinero/ /404.html 410!

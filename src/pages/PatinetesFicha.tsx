@@ -193,44 +193,53 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
     },
   ];
 
+  // ORD-20261027-1035: sin Offer (sin precio real o sin imagen) no se emite el
+  // nodo Product: un Product sin offers/review/aggregateRating es el error que
+  // marca Search Console. Con Offer, el nodo va completo como antes.
+  const producto = productoFicha({
+    nombre,
+    marca: patinete.marca,
+    modelo: patinete.modelo,
+    slug: patinete.id,
+    image: patinete.fotoPendiente
+      ? undefined
+      : [
+          `https://recurretumulta.online${patinete.foto}`,
+          ...(patinete.galeria ?? []).map((g) => `https://recurretumulta.online${g.src}`),
+        ],
+    url: `https://recurretumulta.online/patinetes/${patinete.id}/`,
+    precio: patinete.precioEur,
+    precioAprox: patinete.aprox.includes("precioEur"),
+    historial,
+  });
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@graph": [
-      {
-        "@type": "Product",
-        ...productoFicha({
-          nombre,
-          marca: patinete.marca,
-          modelo: patinete.modelo,
-          slug: patinete.id,
-          image: patinete.fotoPendiente
-            ? undefined
-            : [
-                `https://recurretumulta.online${patinete.foto}`,
-                ...(patinete.galeria ?? []).map((g) => `https://recurretumulta.online${g.src}`),
-              ],
-          url: `https://recurretumulta.online/patinetes/${patinete.id}/`,
-          precio: patinete.precioEur,
-          precioAprox: patinete.aprox.includes("precioEur"),
-          historial,
-        }),
-        category: patinete.avisoCategoria ?? "Patinete eléctrico (VMP)",
-        description: [geo.frases.join(" "), patinete.veredicto].filter(Boolean).join(" "),
-        ...(patinete.pesoKg != null && {
-          weight: {
-            "@type": "QuantitativeValue",
-            value: patinete.pesoKg,
-            unitText: "kg",
-          },
-        }),
-        ...(patinete.velocidadMaxKmh != null && {
-          speed: {
-            "@type": "QuantitativeValue",
-            value: patinete.velocidadMaxKmh,
-            unitText: "km/h",
-          },
-        }),
-      },
+      ...(producto.offers
+        ? [
+            {
+              "@type": "Product",
+              ...producto,
+              category: patinete.avisoCategoria ?? "Patinete eléctrico (VMP)",
+              description: [geo.frases.join(" "), patinete.veredicto].filter(Boolean).join(" "),
+              ...(patinete.pesoKg != null && {
+                weight: {
+                  "@type": "QuantitativeValue",
+                  value: patinete.pesoKg,
+                  unitText: "kg",
+                },
+              }),
+              ...(patinete.velocidadMaxKmh != null && {
+                speed: {
+                  "@type": "QuantitativeValue",
+                  value: patinete.velocidadMaxKmh,
+                  unitText: "km/h",
+                },
+              }),
+            },
+          ]
+        : []),
       {
         "@type": "FAQPage",
         mainEntity: FAQS.map((f) => ({
@@ -287,10 +296,13 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
       ? {
           ...jsonLd,
           "@graph": [
-            ...(jsonLd["@graph"] as Record<string, unknown>[]).map((nodo, i) =>
+            ...(jsonLd["@graph"] as Record<string, unknown>[]).map((nodo) =>
               // 17/10/2026: reseñas reales aprobadas DENTRO del producto
               // (antes iban sueltas en @graph, sin itemReviewed).
-              i === 0 && (reviewsExtra.aggregateRating || reviewsExtra.reviews.length)
+              // ORD-20261027-1035: se busca el nodo Product por tipo, no por
+              // posición, porque sin Offer el nodo Product ya no está en @graph
+              // y el primero pasaría a ser FAQPage.
+              nodo["@type"] === "Product" && (reviewsExtra.aggregateRating || reviewsExtra.reviews.length)
                 ? {
                     ...nodo,
                     ...(reviewsExtra.aggregateRating ? { aggregateRating: reviewsExtra.aggregateRating } : {}),

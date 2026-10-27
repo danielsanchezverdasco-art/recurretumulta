@@ -3238,16 +3238,16 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "SP significa Sport Production: la versión más deportiva",
       "La Monster ha vendido más de 350.000 unidades en su historia",
     ],
-    imagen: "/media//media/fotos-reales/ducati-monster-sp-2026-ficha-tecnica-precio/ducati-monster-sp-2026-ficha-tecnica-precio-real-1.webp",
+    imagen: "/media/fotos-reales/ducati-monster-sp-2026-ficha-tecnica-precio/ducati-monster-sp-2026-ficha-tecnica-precio-real-1.webp",
     galeria: [
       {
-        src: "/media//media/fotos-reales/ducati-monster-sp-2026-ficha-tecnica-precio/ducati-monster-sp-2026-ficha-tecnica-precio-real-2.webp",
+        src: "/media/fotos-reales/ducati-monster-sp-2026-ficha-tecnica-precio/ducati-monster-sp-2026-ficha-tecnica-precio-real-2.webp",
         alt: "Ducati Monster SP 2026, vista lateral de la naked",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media//media/fotos-reales/ducati-monster-sp-2026-ficha-tecnica-precio/ducati-monster-sp-2026-ficha-tecnica-precio-real-3.webp",
+        src: "/media/fotos-reales/ducati-monster-sp-2026-ficha-tecnica-precio/ducati-monster-sp-2026-ficha-tecnica-precio-real-3.webp",
         alt: "Ducati Monster SP 2026, detalle del depósito",
         ancho: 1200,
         alto: 800,
@@ -3303,16 +3303,16 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "La V2 de 2025 estrenó un motor completamente nuevo de 890 cc",
       "La Multistrada ganó el Pikes Peak varias veces antes de la versión V4",
     ],
-    imagen: "/media//media/fotos-reales/ducati-multistrada-v2-s-2026-ficha-tecnica-precio/ducati-multistrada-v2-s-2026-ficha-tecnica-precio-real-1.webp",
+    imagen: "/media/fotos-reales/ducati-multistrada-v2-s-2026-ficha-tecnica-precio/ducati-multistrada-v2-s-2026-ficha-tecnica-precio-real-1.webp",
     galeria: [
       {
-        src: "/media//media/fotos-reales/ducati-multistrada-v2-s-2026-ficha-tecnica-precio/ducati-multistrada-v2-s-2026-ficha-tecnica-precio-real-2.webp",
+        src: "/media/fotos-reales/ducati-multistrada-v2-s-2026-ficha-tecnica-precio/ducati-multistrada-v2-s-2026-ficha-tecnica-precio-real-2.webp",
         alt: "Ducati Multistrada V2 S 2026, vista lateral de la trail",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media//media/fotos-reales/ducati-multistrada-v2-s-2026-ficha-tecnica-precio/ducati-multistrada-v2-s-2026-ficha-tecnica-precio-real-3.webp",
+        src: "/media/fotos-reales/ducati-multistrada-v2-s-2026-ficha-tecnica-precio/ducati-multistrada-v2-s-2026-ficha-tecnica-precio-real-3.webp",
         alt: "Ducati Multistrada V2 S 2026, detalle del frontal",
         ancho: 1200,
         alto: 800,
@@ -3368,16 +3368,16 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "La V2 de 2025 adoptó el nuevo motor de 890 cc de la Multistrada",
       "Su diseño con alerones deriva de la Panigale V4",
     ],
-    imagen: "/media//media/fotos-reales/ducati-streetfighter-v2-2026-ficha-tecnica-precio/ducati-streetfighter-v2-2026-ficha-tecnica-precio-real-1.webp",
+    imagen: "/media/fotos-reales/ducati-streetfighter-v2-2026-ficha-tecnica-precio/ducati-streetfighter-v2-2026-ficha-tecnica-precio-real-1.webp",
     galeria: [
       {
-        src: "/media//media/fotos-reales/ducati-streetfighter-v2-2026-ficha-tecnica-precio/ducati-streetfighter-v2-2026-ficha-tecnica-precio-real-2.webp",
+        src: "/media/fotos-reales/ducati-streetfighter-v2-2026-ficha-tecnica-precio/ducati-streetfighter-v2-2026-ficha-tecnica-precio-real-2.webp",
         alt: "Ducati Streetfighter V2 2026, vista lateral de la naked",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media//media/fotos-reales/ducati-streetfighter-v2-2026-ficha-tecnica-precio/ducati-streetfighter-v2-2026-ficha-tecnica-precio-real-3.webp",
+        src: "/media/fotos-reales/ducati-streetfighter-v2-2026-ficha-tecnica-precio/ducati-streetfighter-v2-2026-ficha-tecnica-precio-real-3.webp",
         alt: "Ducati Streetfighter V2 2026, detalle de los alerones",
         ancho: 1200,
         alto: 800,
@@ -3436,13 +3436,13 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     imagen: "/media/ducati-diavel-v4-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
       {
-        src: "/media//media/fotos-reales/ducati-diavel-v4-2026-ficha-tecnica-precio/ducati-diavel-v4-2026-ficha-tecnica-precio-real-1.webp",
+        src: "/media/fotos-reales/ducati-diavel-v4-2026-ficha-tecnica-precio/ducati-diavel-v4-2026-ficha-tecnica-precio-real-1.webp",
         alt: "Ducati Diavel V4 2026, vista lateral de la power cruiser",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media//media/fotos-reales/ducati-diavel-v4-2026-ficha-tecnica-precio/ducati-diavel-v4-2026-ficha-tecnica-precio-real-2.webp",
+        src: "/media/fotos-reales/ducati-diavel-v4-2026-ficha-tecnica-precio/ducati-diavel-v4-2026-ficha-tecnica-precio-real-2.webp",
         alt: "Ducati Diavel V4 2026, detalle del neumático trasero de 240",
         ancho: 1200,
         alto: 800,
@@ -3501,13 +3501,13 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     imagen: "/media/ducati-desertx-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
       {
-        src: "/media//media/fotos-reales/ducati-desertx-2026-ficha-tecnica-precio/ducati-desertx-2026-ficha-tecnica-precio-real-1.webp",
+        src: "/media/fotos-reales/ducati-desertx-2026-ficha-tecnica-precio/ducati-desertx-2026-ficha-tecnica-precio-real-1.webp",
         alt: "Ducati DesertX 2026, vista lateral de la trail",
         ancho: 980,
         alto: 657,
       },
       {
-        src: "/media//media/fotos-reales/ducati-desertx-2026-ficha-tecnica-precio/ducati-desertx-2026-ficha-tecnica-precio-real-2.webp",
+        src: "/media/fotos-reales/ducati-desertx-2026-ficha-tecnica-precio/ducati-desertx-2026-ficha-tecnica-precio-real-2.webp",
         alt: "Ducati DesertX 2026 en las dunas del desierto",
         ancho: 980,
         alto: 657,
