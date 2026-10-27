@@ -1643,3 +1643,10 @@ rev3.py publicado en esta rama: `tools/rev3/rev3.py` (+ LEEME.md con parámetros
 - Fichero: src/lib/blog-posts-autocaravanas-lote125-g11.ts — 109.566 bytes, blob 3b929dec. 8 líneas reescritas (44 devueltas + 6 extra).
 - Medición rev3.py (commit local de medición c563e8652): nuevos8g_vs_vivo = 0, nuevos8g_vs_padre = 0, lista_vs_vivo = []. Acumulado fichero = 0 (era 50).
 - Multiconjunto numérico idéntico, URLs idénticas. Arregladas 4 cabeceras de carnet rotas con doble arranque. Nada en main, nada en Netlify. Siguiente en la cadena: exp-m4-blog.
+
+### ORD-0610 — Parte: exp-m4-blog
+
+- Rama: merlin-unicidad-2610. Commit: 043beaa3b6bbddf83bfcb0521acfa06d057e322e (padre 227966c3, verificado por GET-ref).
+- Fichero: src/lib/blog-posts-motos-exp-m4.ts — 285.868 bytes, blob 06d4cd0e. 37 líneas reescritas (50 cierres de multa, enlaces de etiqueta y 4 respuestas de carnet; sin cambio de cifras, datos ni URLs).
+- Medición rev3.py (commit local de medición 22a50ee0b): nuevos8g_vs_vivo = 0, nuevos8g_vs_padre = 0, lista_vs_vivo = []. Acumulado fichero = 0 (era 24).
+- Multiconjunto numérico idéntico, URLs idénticas (el url± 29/1 de rev3 es artefacto de su regex, verificado). Nada en main, nada en Netlify. Siguiente en la cadena: lote16.
