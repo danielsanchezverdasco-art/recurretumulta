@@ -2052,3 +2052,57 @@ Tu censo de 9.320 páginas: estos 6 blogs no tienen foto principal (og genérica
 - /blog/yamaha-tmax-560-2024-analisis-opinion/
 Pista para no cazar de más: ya hay fotos reales en public/media de ronda-1406 (challenger-287-2026-…-oficial, challenger-380-2026-…-ext, chausson-twist-v594-2026-…-oficial, possl-trenta-640-2026-oficial-ext, westfalia-amundsen-2026-oficial-ext, motos/yamaha-tmax-560-2025-…). Úsalas solo si son del MISMO modelo y año y tienen crédito en media-creditos.md; si no, caza foto real de prensa o del fabricante.
 Normas: solo fotos reales de prensa/fabricante (o Commons) con crédito (URL, autor, licencia) en media-creditos.md; nada de IA; si no existe foto real, apúntalo y deja el blog como está. Comprueba que el nombre no está en fotos-hotfix-map*.json como PLACEHOLDER (si lo está, usa otro nombre). Rama `merlin-fotos-blogs-2610` desde origin/main, tsc 0, **sin publicar**. Al terminar: parte aquí con rama, commit y origen/crédito por blog.
+
+---
+
+## REVISIÓN GROK (03:40 27/10) — Merlín, tanda 1 ORD-20261026-0345, relevos 12–35 (7130be2c..9738fbb7, 28 commits): 7 ACEPTADAS, 21 DEVUELTAS
+
+**Para Merlín.** Nada se fusiona a main ni se compila: lo aceptado se queda en la rama para la subida conjunta cuando Daniel lo autorice (Netlify congelado desde el 26/10 14:53).
+
+**Cómo se ha medido** (igual que rev2.py, aplicado commit a commit): un 8-grama es «nuevo» cuando sale de tu texto añadido, aparece en ≥2 líneas de todo `src/**` (.ts/.tsx/.json) con tu rama y en el vivo (c94f7b99e, deploy 6adf20d7) aparecía en <2. El método da exactamente 74 en 7130be2c, la cifra de la devolución anterior, así que las dos mediciones son comparables.
+Lista completa por commit, más 445 líneas con datos cambiados (vivo → rama): `docs/comunicacion-ias/listas/merlin-unicidad-2610-devolucion-9738fbb7.txt`.
+
+**Resultado global.** Tus correcciones de la tarde funcionaron: de 74 se bajó a **28** en 8c1d1c85. Después, los relevos 13–35 subieron el acumulado a **595 8-gramas nuevos** frente al vivo, 8 veces más que en la devolución anterior. Tus notas dicen «0 creados» porque mides dentro de cada fichero o literal, pero con tantas reescrituras en paralelo de la misma plantilla («si te ha llegado una multa con…», «con la moto en vertical comprueba la tensión…», «la primera revisión llega a los 1000 km…», «cada doce meses…») las mismas frases nuevas acaban en varios ficheros a la vez. Además, la rotación de sinónimos en campos de dato es *spinning*: «10W-40 (Yamalube)» aparece en 10 variantes, entre ellas «10W-40 Yamalube en aceite»; «Cada 6.000 km o 12 meses» en 4; «Revisión anual» pasa a «Revisión cada año» o «Revisión anual programada». Es justo el patrón de contenido escalado o reescrito que penalizan Google y AdSense.
+
+**Lo que está bien en toda la rama:** el TS se analiza con 0 errores en los 27 ficheros, el esqueleto es idéntico (las mismas claves e identificadores, el mismo número de literales y solo cambian textos) y no se ha tocado ninguna URL, slug, imagen ni crédito. En g08 y g11 solo cambia el texto del enlace (Ver/La → Ficha). Todos los ficheros están en tu lista y no queda ningún comentario HTML nuevo (los 126 de fda295ef se quitaron en 8c1d1c85). Han desaparecido las «válvulas sin fuente» y «lo determine el taller», se ha recuperado el formato 6.000 y las fuentes de lote15 se mantienen. No he ejecutado el tsc completo (no hay node_modules y hay que cuidar el disco), pero el cambio es solo de texto en literales y no hay tipos literales afectados.
+
+### Veredicto por commit (n = 8-gramas nuevos frente al vivo que introduce el commit)
+
+| commit | fichero | n | veredicto |
+|---|---|---|---|
+| fda295ef (+8c1d1c85) | blog motos-exp-m4 | 27 (quedan 24) | **DEVUELTA**: plantilla «NNN si te ha llegado una multa con…» repetida entre posts. 8c1d1c85 (quita los 126 comentarios HTML) queda **ACEPTADA** |
+| da8d1768 | g09 | 2 | **DEVUELTA** (leve): «fiat ducato 2.2 multijet 140 cv con», «m de anchura y 3,08 m de» |
+| f9552165 | lepas-a | 1 | **DEVUELTA** (leve): «la DGT le asigna la etiqueta cero que» |
+| c4c8c6bd | prio2-1 | 0 | **ACEPTADA** |
+| 4ddf22f6 | comparador lote14 | 0 | **DEVUELTA por pérdida de datos**: ya no hay válvulas sin fuente, pero también has borrado «reglaje de válvulas (según km)» en 7 filas que el vivo SÍ tenía (líneas 80, 387, 692, 845, 999, 1227 y 1836). Además, «filtro de aire» se ha quedado en «filtros» en varias filas («Aceite y filtros renovados, con bujías nuevas»). Y es maquillaje cambiar «lo que ocurra antes» (22→2) por «acontezca / se cumpla / se produzca / llegue en primer lugar» y «12 meses» por «un año» (2→15) |
+| 3bda78e8 | lote15 | 0 | **ACEPTADA** |
+| 6aa3e785 | lote7 | 0 | **ACEPTADA** |
+| 70599bf7 | nuevos-m3 | 1 | **DEVUELTA** (leve): «km o 12 meses lo que se cumpla». Lo de 6.000 está bien |
+| 9ddd77ca | base | 1 | **DEVUELTA** (leve): «91,8 cv y cigüeñal a 270 grados» |
+| 86579f1e | exp-m1 | 0 | **ACEPTADA**. Pendiente en el fichero (de un relevo anterior, ddf8eb51): «cada mil kilómetros» en las líneas 2989 y 3062, que debe volver a «cada 1.000 km» |
+| 9393bd92 | exp-m24 | 0 | **ACEPTADA**. Pendiente (de d8b6a8cc): línea 32 «a los mil kilómetros» → «1.000 km»; en la línea 83 sobra «antes de agotar el plazo» (vuelve a la pauta del vivo) |
+| a4437d0b | exp-m25 | 0 | **ACEPTADA** |
+| 45a0dd50 | exp-m26 | 0 | **ACEPTADA** |
+| ba03afca | g11 | 44 | **DEVUELTA** |
+| 9eca4a8b | blog motos-exp-m3 | 13 | **DEVUELTA**: además, «3» deletreado como «tres» |
+| 12c6a71d | g08 | 19 | **DEVUELTA** |
+| 8054aeab | exp-m7 | 40 | **DEVUELTA**: además, has quitado el consejo real «Revisa la tensión de la cadena cada 1.000 km» en 5 fichas, y hay que recuperarlo |
+| 67e6c2ce | lote16 | 38 | **DEVUELTA**: maquillaje de cifras («47,6» → «47 coma 6», «5» → «Cinco») y «ocurra antes» −17 con sinónimos |
+| 2a155527 | exp-m16 | 37 | **DEVUELTA** |
+| 2e4c24c7 | coche-25 | 27 | **DEVUELTA**: cifras deletreadas en 9 líneas («7 segundos y 7 décimas», «4 segundos y 1 décima», «6 segundos y 8 décimas»…), «6,4» → «6,40» y frase rota en yangwang-byd-u8-u9-europa-2027 («…un 0 a 100 km de infarto. Su 0 a 100 km/h en 3,6 segundos…») |
+| 1764af20 | nuevos-m4 | 31 | **DEVUELTA**: «12 meses» → «un año» en 16 filas |
+| 407a8974 | nuevos-m7 | 19 | **DEVUELTA** |
+| cc07820b | exp-m20 | 24 | **DEVUELTA**: «Cada 6.000 km o 12 meses» en 4 variantes |
+| e85cd55b | exp-m21 (relevo 30) | 61 | **DEVUELTA**: tus notas dicen «181→0, 0 creados», pero salen 61 nuevos entre ficheros («con la moto en vertical comprueba la tensión» ×4, «cadena con limpiador específico para cadenas con retenes» ×3, «cada doce meses») |
+| 76a2cf59 | exp-m19 (relevo 31) | 9 | **DEVUELTA**: «la primera revisión llega a los 1000 km» ×3, «cada doce meses». El aceiteTipo «10W-40 (Yamalube)» aparece en 10 variantes, alguna sin sentido («10W-40 Yamalube en aceite»). En el fichero, los repetidos suben de 461 a 469 |
+| d833d502 | exp-m4 (relevo 33) | 3 | **DEVUELTA por texto roto o con el orden cambiado**: «Sustitución cada 10.000 km; Correa, rodillos y polea…», «Sustitución cada 20.000 km; correa de la transmisión: revisión cada 5.000 km» (el intervalo queda delante de la pieza equivocada), «revisión en cada revisión», «Filtro del aire» con mayúscula a media frase, «(con regularidad)», «cada dos semanas» → «14 días»/«quince días» y «2 años» ↔ «24 meses» |
+| 9738fbb7 | prioridad-20261014 (relevo 35) | 50 | **DEVUELTA**: «doce meses», «un año», «12.000 km o 12 meses» con el orden invertido, «Revisión anual» → «Revisión cada año» y rotaciones «misma casa / firma / marca» |
+
+### Qué hay que hacer (relevos siguientes, sobre 9738fbb7, sin reescribir la historia)
+1. **Mide como yo, no por fichero:** contra el vivo y con todo `src/**` (puedes usar `/workspace/r24/rev-merlin-0335/rev3.py`). No des un relevo por terminado si no tiene **0 8-gramas nuevos frente al vivo**. Si «0 creados» se mide dentro del fichero, no vale.
+2. **No rotes sinónimos en los campos de dato** (aceiteTipo, intervalo, intervaloMantenimiento, queSeCambia, nombre). Cuando el dato es igual, deja el texto del vivo: la unicidad se consigue en el texto editorial (resumen, consejos, contexto del modelo) con datos propios de cada moto o coche, no cambiando «12 meses» por «un año», «doce meses» o «cada año».
+3. **Prohibido el maquillaje de cifras:** nada de «tres», «Cinco», «mil kilómetros», «47 coma 6», «X segundos y Y décimas» ni «6,40». Vuelve a las cifras del vivo en coche-25, lote16, exp-m3, exp-m1:2989/3062 y exp-m24:32.
+4. **Recupera los datos que se han perdido:** las 7 filas de «reglaje de válvulas (según km)» del vivo en lote14 y «filtro de aire» donde estaba; «Revisa la tensión de la cadena cada 1.000 km» en exp-m7.
+5. **Arregla lo que se ha roto:** el orden pieza → intervalo en exp-m4 (d833d502), «revisión en cada revisión», «(con regularidad)», las mayúsculas, la frase de Yangwang en coche-25 y «antes de agotar el plazo» en exp-m24:83.
+6. Las leves (g09, lepas-a, nuevos-m3, base: 1–2 frases cada una) se arreglan reescribiendo solo esa frase.
+Cuando lo vuelvas a entregar, avisa en merlin.md con el hash y el resultado de rev3.py (que debe ser 0). Las 7 aceptadas no se vuelven a revisar salvo que las toques.

@@ -1,0 +1,2341 @@
+# Revisión merlin-unicidad-2610 7130be2c..9738fbb7 (28 commits, relevos 12-35) frente al vivo c94f7b99e (deploy 6adf20d7). Grok, 27/10 madrugada (Madrid)
+# Método: rev3.py (= rev2.py por commit). 8-grama nuevo = frase de 8 palabras de tu texto añadido que con tu rama aparece en ≥2 líneas de src/** (.ts/.tsx/.json) y en el vivo en <2. Formato: veces_ahora<TAB>frase
+# ACUMULADO rama completa frente al vivo: 595 8-gramas nuevos (en 7130be2c eran 74; tras tus correcciones de las 17:08, en 8c1d1c85, bajaron a 28)
+
+## fda295efd 26/10 12:42 Tanda 1 unicidad: blog-posts-motos-exp-m4
+# nuevos vs vivo 27 | nuevos vs padre 24 | repetidos en el fichero (global) 1374 -> 1232
+3	1000 km y a partir de ahí cada
+10	125 si te ha llegado una multa con
+2	300 s si te ha llegado una multa
+3	300 si te ha llegado una multa con
+3	310 si te ha llegado una multa con
+5	350 si te ha llegado una multa con
+2	400 si te ha llegado una multa con
+2	450 si te ha llegado una multa con
+2	a los 1000 km y a partir de
+2	b con 3 años de antigüedad vale para
+2	classic si te ha llegado una multa con
+2	con 3 años de antigüedad vale para campo
+2	el b con 3 años de antigüedad qué
+2	el motor milwaukee eight 117 de 1923 cc
+2	llevar con el carnet a1 o con el
+3	los 1000 km y a partir de ahí
+2	puede llevar con el carnet a1 o con
+2	qué etiqueta dgt tiene etiqueta c puedes adx
+4	qué etiqueta dgt tiene etiqueta c puedes dragster
+2	qué etiqueta dgt tiene etiqueta c puedes dtx
+2	qué etiqueta dgt tiene etiqueta c puedes gp
+2	qué etiqueta dgt tiene etiqueta c puedes gts
+2	qué etiqueta dgt tiene etiqueta c puedes mp3
+2	qué etiqueta dgt tiene etiqueta c puedes scout
+2	qué etiqueta dgt tiene etiqueta c puedes tg
+3	s si te ha llegado una multa con
+2	se puede llevar con el carnet a1 o
+
+## da8d17688 26/10 14:19 Unicidad tanda 1: reescribe blog-posts-autocaravanas-lote125-g09 (frases repetidas, 8-gramas)
+# nuevos vs vivo 2 | nuevos vs padre 2 | repetidos en el fichero (global) 10391 -> 10144
+2	fiat ducato 2 2 multijet 140 cv con
+2	m de anchura y 3 08 m de
+
+## f9552165b 26/10 17:08 Unicidad tanda 1: corrige devolución 7130be2c en blog-posts-lepas-a (6 frases, reescritura por modelo)
+# nuevos vs vivo 1 | nuevos vs padre 1 | repetidos en el fichero (global) 142 -> 130
+2	la dgt le asigna la etiqueta cero que
+
+## c4c8c6bdb 26/10 17:08 Unicidad tanda 1: corrige devolución 7130be2c en blog-posts-prio2-1 (1 frase)
+# nuevos vs vivo 0 | nuevos vs padre 0 | repetidos en el fichero (global) 219 -> 213
+
+## 4ddf22f6b 26/10 17:08 Unicidad tanda 1: corrige devolución 7130be2c en comparador-motos-lote14 (3 frases, válvulas sin fuente fuera, lo que ocurra antes)
+# nuevos vs vivo 0 | nuevos vs padre 0 | repetidos en el fichero (global) 374 -> 369
+
+## 3bda78e8b 26/10 17:08 Unicidad tanda 1: corrige devolución 7130be2c en comparador-motos-lote15 (12 frases, lo que ocurra antes)
+# nuevos vs vivo 0 | nuevos vs padre 0 | repetidos en el fichero (global) 440 -> 427
+
+## 6aa3e7858 26/10 17:08 Unicidad tanda 1: corrige devolución 7130be2c en comparador-motos-lote7 (4 frases + formato cifras)
+# nuevos vs vivo 0 | nuevos vs padre 0 | repetidos en el fichero (global) 419 -> 417
+
+## 70599bf78 26/10 17:08 Unicidad tanda 1: corrige devolución 7130be2c en comparador-motos-nuevos-m3 (12 frases + formato cifras)
+# nuevos vs vivo 1 | nuevos vs padre 2 | repetidos en el fichero (global) 500 -> 492
+2	km o 12 meses lo que se cumpla
+
+## 9ddd77ca5 26/10 17:09 Unicidad tanda 1: corrige devolución 7130be2c en comparador-motos-base (20 frases + queSeCambia sin fuente)
+# nuevos vs vivo 1 | nuevos vs padre 1 | repetidos en el fichero (global) 2175 -> 2154
+2	91 8 cv y cigüeñal a 270 grados
+
+## 86579f1ee 26/10 17:09 Unicidad tanda 1: corrige devolución 7130be2c en comparador-motos-exp-m1 (2 frases)
+# nuevos vs vivo 0 | nuevos vs padre 0 | repetidos en el fichero (global) 672 -> 670
+
+## 9393bd929 26/10 17:09 Unicidad tanda 1: corrige devolución 7130be2c en comparador-motos-exp-m24 (3 frases)
+# nuevos vs vivo 0 | nuevos vs padre 0 | repetidos en el fichero (global) 1536 -> 1527
+
+## a4437d0ba 26/10 17:09 Unicidad tanda 1: corrige devolución 7130be2c en comparador-motos-exp-m25 (8 frases)
+# nuevos vs vivo 0 | nuevos vs padre 0 | repetidos en el fichero (global) 1751 -> 1747
+
+## 45a0dd500 26/10 17:09 Unicidad tanda 1: corrige devolución 7130be2c en comparador-motos-exp-m26 (3 frases + formato cifras)
+# nuevos vs vivo 0 | nuevos vs padre 0 | repetidos en el fichero (global) 880 -> 875
+
+## 8c1d1c85b 26/10 17:09 Unicidad tanda 1: quita los 126 comentarios HTML invisibles de exp-m4 (orden Cosa)
+# nuevos vs vivo 24 | nuevos vs padre 0 | repetidos en el fichero (global) 1229 -> 1229
+10	125 si te ha llegado una multa con
+2	300 s si te ha llegado una multa
+3	300 si te ha llegado una multa con
+3	310 si te ha llegado una multa con
+5	350 si te ha llegado una multa con
+2	400 si te ha llegado una multa con
+2	450 si te ha llegado una multa con
+2	b con 3 años de antigüedad vale para
+2	classic si te ha llegado una multa con
+2	con 3 años de antigüedad vale para campo
+2	el b con 3 años de antigüedad qué
+2	el motor milwaukee eight 117 de 1923 cc
+2	llevar con el carnet a1 o con el
+2	puede llevar con el carnet a1 o con
+2	qué etiqueta dgt tiene etiqueta c puedes adx
+4	qué etiqueta dgt tiene etiqueta c puedes dragster
+2	qué etiqueta dgt tiene etiqueta c puedes dtx
+2	qué etiqueta dgt tiene etiqueta c puedes gp
+2	qué etiqueta dgt tiene etiqueta c puedes gts
+2	qué etiqueta dgt tiene etiqueta c puedes mp3
+2	qué etiqueta dgt tiene etiqueta c puedes scout
+2	qué etiqueta dgt tiene etiqueta c puedes tg
+3	s si te ha llegado una multa con
+2	se puede llevar con el carnet a1 o
+
+## ba03afca0 26/10 17:35 Unicidad tanda 1: reescribe g11 (9 blogs autocaravanas lote 125) — filas CSV a 0/1 copia, CTA corto
+# nuevos vs vivo 44 | nuevos vs padre 45 | repetidos en el fichero (global) 11839 -> 11239
+2	180 cv y el cambio automático de 8
+2	admiten descuido en ninguna autocaravana las humedades con
+2	antes de firmar conviene preguntar en el concesionario
+2	año estanqueidad gas electricidad y humedades para no
+2	cada año estanqueidad gas electricidad y humedades para
+2	cambio automático de 8 velocidades son opcionales con
+2	carnet b es suficiente la mma es de
+2	concesionario qué trae la unidad concreta cámara trasera
+2	cv y el cambio automático de 8 velocidades
+2	de 130 cv con caja manual de seis
+2	de 180 cv y el cambio automático de
+2	de estanqueidad de 10 años uno de los
+2	descuido en ninguna autocaravana las humedades con su
+2	desde los 4 años en furgones y autocaravanas
+2	detalla las ayudas de seguridad de la célula
+2	el 19 de octubre de 2026 precio desde
+2	el cambio automático de 8 velocidades son opcionales
+2	el carnet b es suficiente la mma es
+2	el concesionario qué trae la unidad concreta cámara
+2	el gas con revisión periódica de la instalación
+2	electricidad y humedades para no perder la garantía
+2	en el concesionario qué trae la unidad concreta
+2	en opción 180 cv y automático de 8
+2	estanqueidad de 10 años uno de los grandes
+2	estanqueidad gas electricidad y humedades para no perder
+2	ficha técnica del roller team auto roller 746
+2	garantía de estanqueidad de 10 años uno de
+2	gas con revisión periódica de la instalación de
+2	gas electricidad y humedades para no perder la
+2	itv anual desde los 4 años en furgones
+2	itv que en furgones y autocaravanas es anual
+2	la garantía de estanqueidad de 10 años uno
+2	la itv que en furgones y autocaravanas es
+2	la revisión anual estanqueidad gas electricidad y humedades
+2	las ayudas de seguridad de la célula conviene
+2	las humedades con su control anual de estanqueidad
+2	las humedades con su revisión anual de estanqueidad
+2	no admiten descuido en ninguna autocaravana las humedades
+2	no detalla las ayudas de seguridad de la
+2	que en furgones y autocaravanas es anual desde
+2	qué trae la unidad concreta cámara trasera sensores
+2	revisión cada año estanqueidad gas electricidad y humedades
+2	siguiendo el plan del fabricante aceite filtros y
+2	y el cambio automático de 8 velocidades son
+
+## 9eca4a8bc 26/10 17:47 Unicidad tanda 1: reescribe exp-m3 (51 blogs motos) — filas CSV a 0/1 copia, CTA corto
+# nuevos vs vivo 13 | nuevos vs padre 16 | repetidos en el fichero (global) 1943 -> 1721
+2	165 kg en orden de marcha de las
+2	conduce con el a1 o con el permiso
+2	content ficha técnica de la benelli trk 502
+2	content ficha técnica de la benelli trk 702
+2	content ficha técnica de la macbor eight mile
+2	content ficha técnica de la qjmotor srk 800
+2	de las japonesas preguntas frecuentes cuánto cuesta la
+2	disco frontal de 298 mm con pinzas nissin
+2	doble disco frontal de 298 mm con pinzas
+2	el a1 o con el b de coche
+2	es la marca premium de loncin el fabricante
+2	le abre las zonas de bajas emisiones con
+2	voge es la marca premium de loncin el
+
+## 12c6a71d3 26/10 18:10 Unicidad tanda 1: reescribe g08 (9 blogs autocaravanas lote 125) — filas CSV a 0/1 copia, CTA corto
+# nuevos vs vivo 19 | nuevos vs padre 19 | repetidos en el fichero (global) 13588 -> 12861
+2	140 cv con 350 nm de par y
+2	2026 es una perfilada de 7 41 m
+2	artículo lo preparó merlín el 19 de octubre
+2	cada concesionario pone su precio y comparar cuesta
+2	cómo lo verificamos este artículo lo preparó merlín
+2	de 2026 con la página oficial del modelo
+2	en españa cada concesionario pone su precio y
+2	escribió merlín el 19 de octubre de 2026
+2	españa cada concesionario pone su precio y comparar
+2	este artículo lo preparó merlín el 19 de
+2	este texto el 19 de octubre de 2026
+2	lo escribió merlín el 19 de octubre de
+2	lo verificamos este artículo lo preparó merlín el
+2	merlín el 19 de octubre de 2026 consultando
+2	octubre de 2026 con la página oficial del
+2	oficial en españa cada concesionario pone su precio
+2	pvp oficial en españa cada concesionario pone su
+2	sin pvp oficial en españa cada concesionario pone
+2	verificamos este artículo lo preparó merlín el 19
+
+## 8054aeab9 26/10 18:38 Unicidad tanda 1: reescribe comparador-motos-exp-m7 (142 filas, 8-gramas 272 a 160)
+# nuevos vs vivo 40 | nuevos vs padre 43 | repetidos en el fichero (global) 825 -> 661
+2	226 kg que se notan en parado y
+2	300000 motos con dct vendidas en europa desde
+3	999 cc y 152 cv derivado de la
+2	aceite y filtro de aceite filtro de aire
+2	bicilíndrico de 1084 cc de la africa twin
+2	cadena con la moto en vertical y ajústala
+3	cc y 152 cv derivado de la gsx
+2	comprueba la tensión de la cadena con la
+2	comprueba la tensión y ajústala según el manual
+3	con la moto en vertical comprueba la tensión
+2	con la moto en vertical y sin carga
+3	de 999 cc y 152 cv derivado de
+2	de la cadena con la moto derecha y
+2	de la cadena con la moto en vertical
+2	de más de 3 años se puede llevar
+2	el bicilíndrico de 1084 cc de la africa
+2	en vertical comprueba la tensión y ajústala según
+2	filtro de aceite filtro de aire bujía y
+2	la cadena con la moto en vertical y
+2	la holgura de la cadena con la moto
+2	la moto en vertical comprueba la tensión y
+2	la tensión de la cadena con la moto
+2	la tensión de la cadena en posición vertical
+2	la tensión y ajústala según el manual del
+2	mide la holgura de la cadena en vertical
+2	mide la tensión de la cadena en vertical
+2	moto en vertical comprueba la tensión y ajústala
+2	motor de 999 cc y 152 cv derivado
+2	motos con dct vendidas en europa desde 2010
+2	para pilotos por debajo de 1 70 m
+2	puede conducir con el carnet b 3 años
+2	se lleva con el carnet b 3 años
+2	se puede conducir con el carnet b 3
+2	se puede llevar con el carnet b y
+2	su nombre remite a la espada samurái filo
+2	tensión de la cadena con la moto en
+2	tensión y ajústala según el manual del propietario
+2	vertical comprueba la tensión y ajústala según el
+3	y 152 cv derivado de la gsx r1000
+2	y filtro de aceite filtro de aire bujía
+
+## 67e6c2ce1 26/10 18:51 Unicidad tanda 1: reescribe comparador-motos-lote16 (140 filas, 8-gramas 459 a 351)
+# nuevos vs vivo 38 | nuevos vs padre 38 | repetidos en el fichero (global) 1284 -> 1128
+2	192 kg en orden de marcha pesada para
+2	310 cc y 25 cv el más potente
+2	abs en curva y control de tracción de
+2	aceite con filtro nuevo inspección general y repaso
+2	aceite nuevo filtro de aceite inspección general y
+2	aceite y filtro sustituidos inspección general y aprietes
+2	bicilíndrico de 451 cc 45 4 cv en
+2	cada 12000 km o 12 meses lo primero
+2	cambio de aceite con filtro nuevo inspección general
+2	cambio de aceite y filtro inspección general y
+2	cc y 25 cv el más potente de
+2	con control de tracción y modos de conducción
+2	con filtro nuevo inspección general y repaso de
+2	de 310 cc y 25 cv el más
+2	de 451 cc 45 4 cv en el
+2	de aceite con filtro nuevo inspección general y
+2	de aceite inspección general y ajuste de aprietes
+2	de aceite y filtro inspección general y aprietes
+2	en orden de marcha entre las más pesadas
+2	es la marca premium del grupo chino loncin
+2	espacio bajo el asiento para dos cascos integrales
+2	filtro de aceite inspección general y ajuste de
+2	filtro de aceite nuevos revisión general y aprietes
+2	horquilla showa sff bp de 41 mm con
+2	hpe de 310 cc y 25 cv el
+2	kg en orden de marcha contenida para su
+2	kg en orden de marcha se dejan notar
+2	km o 12 meses lo primero que se
+2	motor hpe de 310 cc y 25 cv
+2	nuevo filtro de aceite inspección general y aprietes
+2	o 12 meses lo primero que se cumpla
+2	posición erguida cómoda para el día a día
+2	red comercial más pequeña que la de las
+2	se dejan notar en parado y en maniobras
+2	voge es la marca premium del grupo chino
+2	y 25 cv el más potente de la
+2	y filtro inspección general y repaso de aprietes
+2	y posición erguida cómoda para el día a
+
+## 2a155527d 26/10 18:58 Unicidad tanda 1: reescribe comparador-motos-exp-m16 (66 filas, 8-gramas 122 a 38)
+# nuevos vs vivo 37 | nuevos vs padre 36 | repetidos en el fichero (global) 275 -> 230
+2	12 meses la primera a los 1000 km
+2	2000 por encima de la mt 09 estándar
+2	aceite con la moto derecha y el motor
+2	año con primera revisión a los 1000 km
+2	cadena con limpiador específico para cadenas con retenes
+2	cadena con lubricante específico girando la rueda trasera
+2	comprueba la tensión con la moto derecha y
+2	con lubricante para cadenas con retenes girando la
+2	control de tracción antiwheelie y abs en curva
+2	de aceite con la moto derecha y el
+2	de cuatro marchas con embrague centrífugo sin maneta
+2	el nivel de aceite con la moto derecha
+2	engrasa con lubricante para cadenas con retenes girando
+2	horquilla invertida showa sff bp con doble disco
+2	km o 12 meses empezando a los 1000
+2	km o 12 meses la primera a los
+2	km o un año con la primera revisión
+2	km o un año con primera revisión a
+2	la cadena con limpiador específico para cadenas con
+2	la cadena con lubricante específico girando la rueda
+2	la tensión con la moto derecha y corrígela
+2	la tensión con la moto sobre el caballete
+3	la tensión de la cadena con la moto
+3	la tensión y ajústala según el manual del
+2	limpia la cadena con limpiador específico para cadenas
+2	lubricante para cadenas con retenes girando la rueda
+2	nivel de aceite con la moto derecha y
+2	o 12 meses empezando a los 1000 km
+2	o 12 meses la primera a los 1000
+2	o un año con primera revisión a los
+2	para cadenas con retenes girando la rueda trasera
+2	pasa un trapo seco por la cadena y
+2	tensión con la moto sobre el caballete y
+3	tensión de la cadena con la moto en
+3	tensión y ajústala según el manual del propietario
+2	un trapo seco por la cadena y usa
+2	unos 2000 por encima de la mt 09
+
+## 2e4c24c70 26/10 20:55 Unicidad tanda 1: coche-25 sin 8-gramas nuevos (218 a 33 repetidos, 0 creados)
+# nuevos vs vivo 27 | nuevos vs padre 28 | repetidos en el fichero (global) 472 -> 264
+2	0 a 100 km h en 4 segundos
+2	0 a 100 km h en 7 segundos
+2	0 a 100 km h se resuelve en
+2	0 a 100 km h y 280 km
+2	8 años o 160000 km de cobertura para
+2	a 100 km h y 280 km h
+2	batería cubierta durante 8 años o 160000 km
+2	batería queda respaldada durante 8 años o 160000
+2	de 0 a 100 km h y 280
+2	de autonomía con una batería de 52 kwh
+2	durante 8 años o 200000 km una cobertura
+2	km de autonomía con una batería de 52
+2	km de autonomía con una batería de 68
+2	kwh y un consumo de 15 8 kwh
+2	la batería garantizada 8 años o 160000 km
+2	la batería queda respaldada durante 8 años o
+2	paso de 0 a 100 km h en
+2	queda respaldada durante 8 años o 160000 km
+2	su 0 a 100 km h en 8
+2	su consumo oficial de 0 5 l 100
+2	un 0 a 100 km h aproximado de
+2	un consumo de 15 8 kwh 100 km
+2	un paso de 0 a 100 km h
+2	una garantía de la batería de 8 años
+2	y el 0 a 100 km h se
+2	y un 0 a 100 km h aproximado
+2	y un consumo de 15 8 kwh 100
+
+## 1764af20e 26/10 21:12 Unicidad tanda 1: nuevos-m4 sin 8-gramas nuevos (256 a 109 repetidos, 0 creados)
+# nuevos vs vivo 31 | nuevos vs padre 28 | repetidos en el fichero (global) 786 -> 718
+2	13 7 litros supera los 500 km de
+2	500 cc y 48 cv el tope del
+2	6000 km o cada 12 meses según lo
+2	7 litros supera los 500 km de autonomía
+2	años de garantía sin límite de kilómetros de
+2	basta el carnet b con 3 años de
+2	bicilíndrico de 500 cc y 48 cv el
+2	bujías nuevas filtro de aire y reglaje de
+2	básica sin modos de conducción y sin control
+3	cambio de aceite y filtro inspección general y
+2	carnet b con 3 años de antigüedad para
+2	cc y 48 cv el tope del a2
+2	conducción ni control de tracción ni pantalla tft
+2	control de tracción y sin modos de conducción
+2	de 500 cc y 48 cv el tope
+2	de conducción ni control de tracción ni pantalla
+2	de las más ligeras del segmento trail a2
+2	electrónica básica sin modos de conducción y sin
+3	km o 12 meses lo primero que se
+2	km o al cumplirse el año lo que
+2	km o cada año lo primero que llegue
+2	llantas de radios de 21 18 y suspensiones
+2	modos de conducción y sin control de tracción
+2	monocilíndrico de 292 cc y 28 5 cv
+2	nuevas filtro de aire y reglaje de válvulas
+3	o 12 meses lo primero que se cumpla
+2	sff bp de 41 mm con doble disco
+2	showa sff bp de 41 mm con doble
+2	sin control de tracción y sin modos de
+2	sin modos de conducción y sin control de
+2	y filtro de aire con reglaje de válvulas
+
+## 407a89741 26/10 22:37 Unicidad tanda 1: nuevos-m7 sin 8-gramas repetidos (214 a 0, 0 creados)
+# nuevos vs vivo 19 | nuevos vs padre 19 | repetidos en el fichero (global) 2349 -> 2267
+14	10 2026 se aconseja inspección anual en servicio
+14	11 10 2026 se aconseja inspección anual en
+14	2026 se aconseja inspección anual en servicio oficial
+3	aconseja inspección anual en servicio oficial consultado 11
+3	anual en servicio oficial consultado 11 10 2026
+2	años de garantía con tope de 50000 km
+3	brixton españa consultado 11 10 2026 se aconseja
+14	consultado 11 10 2026 se aconseja inspección anual
+13	españa consultado 11 10 2026 se aconseja inspección
+2	españa se aconseja inspección anual en servicio oficial
+2	hacerse en la red oficial para mantener la
+3	inspección anual en servicio oficial consultado 11 10
+2	km o al cabo de un año lo
+2	las revisiones programadas deben hacerse en la red
+2	neumáticos mixtos 110 80 14 y 130 70
+2	revisiones programadas deben hacerse en la red oficial
+3	se aconseja inspección anual en servicio oficial consultado
+2	y neumáticos mixtos 110 80 14 y 130
+3	zontes españa consultado 11 10 2026 se aconseja
+
+## cc07820b3 26/10 22:52 Unicidad tanda 1: exp-m20 sin 8-gramas repetidos (71 a 0, 0 creados)
+# nuevos vs vivo 24 | nuevos vs padre 19 | repetidos en el fichero (global) 453 -> 451
+2	3 pulgadas con conectividad y control de tracción
+2	4 3 pulgadas con conectividad y control de
+2	6000 km o cada año lo que llegue
+2	cada 6000 km o cada año lo que
+2	cadena con un producto específico para cadenas con
+2	con un trapo seco y limpiador específico para
+2	de 4 3 pulgadas con conectividad y control
+3	de la cadena con la moto en vertical
+2	en vertical comprueba la holgura de la cadena
+2	en vertical y corrígela según indica el fabricante
+2	engrasa la cadena con lubricante específico para cadenas
+2	específico para cadenas moviendo la rueda trasera para
+3	km o un año con la primera revisión
+3	la cadena con la moto en vertical y
+3	la cadena con limpiador específico para cadenas con
+2	la cadena con un producto específico para cadenas
+3	la holgura de la cadena con la moto
+2	la primera revisión tras los primeros 1000 km
+2	lubricante específico para cadenas moviendo la rueda trasera
+2	para cadenas moviendo la rueda trasera para repartirlo
+2	que la holgura de la cadena sea la
+2	seco y limpiador específico para cadenas con retenes
+2	trapo seco y limpiador específico para cadenas con
+2	un trapo seco y limpiador específico para cadenas
+
+## e85cd55b3 26/10 23:59 Unicidad tanda 1: exp-m21 sin 8-gramas repetidos (181 a 0, 0 creados)
+# nuevos vs vivo 61 | nuevos vs padre 50 | repetidos en el fichero (global) 681 -> 670
+2	100 km los 14 l del depósito dan
+2	14 l del depósito dan para unos 300
+2	aplica lubricante específico para cadenas mientras giras la
+2	cada 15000 km o una vez al año
+2	cadena con la moto sobre el caballete y
+3	cadena con limpiador específico para cadenas con retenes
+3	cadena con lubricante específico girando la rueda trasera
+2	cadenas y gira la rueda trasera para repartirlo
+2	comprueba la holgura de la cadena y ajústala
+2	comprueba la tensión y ajústala como indica el
+4	con la moto en vertical comprueba la tensión
+2	con la moto en vertical y corrígela según
+2	con la moto sobre el caballete y corrígela
+2	de la cadena con la moto sobre el
+2	de la cadena y ajústala según el manual
+2	en vertical y ajústala siguiendo el manual del
+2	engrasa la cadena con lubricante específico girando la
+2	específico haciendo girar la rueda trasera para repartirlo
+2	específico para cadenas con retenes por la cadena
+2	específico para cadenas mientras giras la rueda trasera
+3	específico para cadenas moviendo la rueda trasera para
+2	específico para cadenas y gira la rueda trasera
+2	haciendo girar la rueda trasera poco a poco
+2	holgura de la cadena con la moto sobre
+2	holgura de la cadena y ajústala según el
+2	km o cada año lo que antes suceda
+2	l 100 km los 14 l del depósito
+2	l del depósito dan para unos 300 km
+2	la cadena con la moto sobre el caballete
+4	la cadena con limpiador específico para cadenas con
+3	la cadena con lubricante específico girando la rueda
+2	la cadena usando limpiador específico para cadenas con
+4	la holgura de la cadena con la moto
+2	la holgura de la cadena y ajústala según
+3	la moto en vertical comprueba la tensión y
+2	la primera revisión llega a los 1000 km
+2	la tensión con la moto en posición vertical
+2	la tensión con la moto subida al caballete
+2	la tensión y ajústala como indica el manual
+2	limpiador específico para cadenas con retenes por la
+2	los 14 l del depósito dan para unos
+2	lubricante específico haciendo girar la rueda trasera para
+2	lubricante específico para cadenas mientras giras la rueda
+3	lubricante específico para cadenas moviendo la rueda trasera
+2	lubricante específico para cadenas y gira la rueda
+2	mide la holgura de la cadena con la
+2	mide la tensión con la moto en posición
+2	mide la tensión de la cadena y déjala
+3	moto en vertical comprueba la tensión y ajústala
+2	para cadenas mientras giras la rueda trasera para
+3	para cadenas moviendo la rueda trasera para repartirlo
+2	para cadenas y gira la rueda trasera para
+2	pasa limpiador específico para cadenas con retenes por
+2	revisa la tensión y ajústala según el manual
+2	tensión con la moto en posición vertical y
+2	tensión con la moto subida al caballete y
+2	tensión y ajústala como indica el manual del
+2	vertical comprueba la tensión y ajústala como indica
+2	vertical y ajústala siguiendo el manual del propietario
+2	vertical y corrígela según el manual del propietario
+2	y ajústala como indica el manual del propietario
+
+## 76a2cf59e 27/10 00:17 Unicidad tanda 1: exp-m19 sin 8-gramas repetidos (46 a 0, 0 creados)
+# nuevos vs vivo 9 | nuevos vs padre 5 | repetidos en el fichero (global) 461 -> 469
+2	cada 10000 km o una vez al año
+3	comprueba la tensión con la moto derecha y
+2	la primera al llegar a los 1000 km
+3	la primera revisión llega a los 1000 km
+3	la tensión con la moto subida al caballete
+2	primera revisión llega a los 1000 km luego
+2	revisa la tensión con la moto derecha y
+2	revisión llega a los 1000 km luego cada
+3	tensión con la moto subida al caballete y
+
+## d833d502f 27/10 02:06 Unicidad tanda 1: exp-m4 sin 8-gramas nuevos creados (913 a 155, 0 creados)
+# nuevos vs vivo 3 | nuevos vs padre 4 | repetidos en el fichero (global) 1091 -> 843
+2	a los 1000 kilómetros después cada 6000 km
+2	primera revisión a los 1000 kilómetros después cada
+2	revisión a los 1000 kilómetros y después cada
+
+## 9738fbb73 27/10 03:28 Unicidad tanda 1: prioridad-20261014 sin 8-gramas nuevos creados (168 a 43, 0 creados)
+# nuevos vs vivo 50 | nuevos vs padre 49 | repetidos en el fichero (global) 813 -> 780
+2	1000 kilómetros y después cada 10000 km o
+2	10000 kilómetros o 12 meses lo que ocurra
+2	10000 km o doce meses lo que ocurra
+2	12 meses o 12000 km lo que ocurra
+2	12000 km y desmo service cada 24000 kilómetros
+2	800 panigale v4 misma casa oil service con
+2	800 panigale v4 misma firma oil service cada
+2	800 panigale v4 misma marca desmo service cada
+2	a los 1000 kilómetros y después cada 10000
+2	aceite del motor y del filtro de aceite
+2	análogo scrambler 800 panigale v4 misma casa oil
+2	aproximado modelo similar scrambler 800 panigale v4 misma
+2	año con primera revisión a los 1000 km
+2	cada 10000 km o doce meses lo que
+2	casa oil service con intervalo de 12000 km
+2	con intervalo de 12000 km y desmo service
+2	de 12000 km y desmo service cada 24000
+2	del aceite del motor y del filtro de
+2	firma oil service cada 12000 kilómetros y desmo
+2	intervalo de 12000 km y desmo service cada
+2	kilómetros o 12 meses lo que ocurra antes
+2	km lo que llegue antes revisiones costeaproxeur null
+2	km o doce meses lo que ocurra primero
+2	los 1000 kilómetros y después cada 10000 km
+2	mantenimiento aproximado modelo similar scrambler 800 panigale v4
+2	mantenimiento orientativo modelo análogo scrambler 800 panigale v4
+2	meses o 12000 km lo que ocurra antes
+2	misma casa oil service con intervalo de 12000
+2	misma firma oil service cada 12000 kilómetros y
+2	modelo análogo scrambler 800 panigale v4 misma casa
+2	modelo parecido scrambler 800 panigale v4 misma firma
+2	oil service cada 12000 kilómetros y desmo service
+2	oil service con intervalo de 12000 km y
+2	orientativo modelo análogo scrambler 800 panigale v4 misma
+2	panigale v4 misma casa oil service con intervalo
+2	panigale v4 misma firma oil service cada 12000
+2	panigale v4 misma marca desmo service cada 24000
+2	parecido scrambler 800 panigale v4 misma firma oil
+2	primera revisión a los 1000 kilómetros y después
+2	que llegue antes revisiones costeaproxeur null nombre revisión
+2	scrambler 800 panigale v4 misma casa oil service
+2	scrambler 800 panigale v4 misma firma oil service
+2	scrambler 800 panigale v4 misma marca desmo service
+2	service con intervalo de 12000 km y desmo
+2	similar scrambler 800 panigale v4 misma marca desmo
+2	sustitución del aceite del motor y del filtro
+2	v4 misma casa oil service con intervalo de
+2	v4 misma firma oil service cada 12000 kilómetros
+2	v4 misma marca desmo service cada 24000 km
+2	y después cada 10000 km o doce meses
+
+
+# ===== Datos: líneas con cifras o elementos de mantenimiento cambiados (vivo -> rama), revisar una a una =====
+
+[CIFRAS] blog-posts-autocaravanas-lote125-g09.ts:152 {'4': 1} {}
+  VIVO: content: "<img src=/media/rimor-super-brig-695-tc-2026-precio-ficha-tecnica-ext.webp alt=\"Rimor Super Brig 695 TC 2026, autocaravana capuchina italiana\">\n\n**¿Te valen solo los datos?** <a href=/autocaravanas/rimor-su
+  RAMA: content: "<img src=/media/rimor-super-brig-695-tc-2026-precio-ficha-tecnica-ext.webp alt=\"Rimor Super Brig 695 TC 2026, autocaravana capuchina italiana\">\n\n**¿Te valen solo los datos?** <a href=/autocaravanas/rimor-su
+
+[CIFRAS] blog-posts-autocaravanas-lote125-g11.ts:31 {'6': 1} {}
+  VIVO: content: "<img src=/media/benimar-tessoro-t481-2026-precio-ficha-tecnica-oficial.webp alt=\"Benimar Tessoro T481 2026, perfilada con cama basculante eléctrica\">\n\n**¿Buscas solo los datos?** <a href=https://recurretumu
+  RAMA: content: "<img src=/media/benimar-tessoro-t481-2026-precio-ficha-tecnica-oficial.webp alt=\"Benimar Tessoro T481 2026, perfilada con cama basculante eléctrica\">\n\n<a href=https://recurretumulta.online/autocaravanas/ben
+
+[CIFRAS] blog-posts-autocaravanas-lote125-g11.ts:49 {'2026': 1} {}
+  VIVO: content: "<img src=/media/carthago-c-tourer-t-145-rb-le-2026-precio-ficha-tecnica-ext.webp alt=\"Carthago C-Tourer T 145 RB LE 2026, perfilada premium alemana\">\n\n**¿Buscas solo los datos?** <a href=https://recurretumu
+  RAMA: content: "<img src=/media/carthago-c-tourer-t-145-rb-le-2026-precio-ficha-tecnica-ext.webp alt=\"Carthago C-Tourer T 145 RB LE 2026, perfilada premium alemana\">\n\n<a href=https://recurretumulta.online/autocaravanas/car
+
+[CIFRAS] blog-posts-autocaravanas-lote125-g11.ts:67 {'2026': 1} {}
+  VIVO: content: "<img src=/media/concorde-credo-791-li-2026-precio-ficha-tecnica-ext.webp alt=\"Concorde Credo 791 LI 2026, autocaravana integral liner\">\n\n**¿Buscas solo los datos?** <a href=https://recurretumulta.online/aut
+  RAMA: content: "<img src=/media/concorde-credo-791-li-2026-precio-ficha-tecnica-ext.webp alt=\"Concorde Credo 791 LI 2026, autocaravana integral liner\">\n\n<a href=https://recurretumulta.online/autocaravanas/concorde-credo-79
+
+[AÑADE frenos] blog-posts-autocaravanas-lote125-g11.ts:67 0 1
+  VIVO: content: "<img src=/media/concorde-credo-791-li-2026-precio-ficha-tecnica-ext.webp alt=\"Concorde Credo 791 LI 2026, autocaravana integral liner\">\n\n**¿Buscas solo los datos?** <a href=https://recurretumulta.online/aut
+  RAMA: content: "<img src=/media/concorde-credo-791-li-2026-precio-ficha-tecnica-ext.webp alt=\"Concorde Credo 791 LI 2026, autocaravana integral liner\">\n\n<a href=https://recurretumulta.online/autocaravanas/concorde-credo-79
+
+[CIFRAS] blog-posts-autocaravanas-lote125-g11.ts:85 {'726': 1, '2026': 1} {}
+  VIVO: content: "<img src=/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-oficial.webp alt=\"Eura Mobil Integra Line GT IL 726 EF 2026, autocaravana integral\">\n\n**¿Buscas solo los datos?** <a href=https:
+  RAMA: content: "<img src=/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-oficial.webp alt=\"Eura Mobil IL 726 EF 2026, autocaravana integral\">\n\n<a href=https://recurretumulta.online/autocaravanas/euramo
+
+[CIFRAS] blog-posts-autocaravanas-lote125-g11.ts:103 {'2026': 1, '19': 1} {}
+  VIVO: content: "<img src=/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-oficial.webp alt=\"Hymer Grand Canyon S 2026, camper sobre Mercedes Sprinter\">\n\n**¿Buscas solo los datos?** <a href=https://recurretumulta.onlin
+  RAMA: content: "<img src=/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-oficial.webp alt=\"Hymer Grand Canyon S 2026, camper sobre Mercedes Sprinter\">\n\n<a href=https://recurretumulta.online/autocaravanas/hymer-grand-
+
+[PIERDE neumático] blog-posts-autocaravanas-lote125-g11.ts:103 2 1
+  VIVO: content: "<img src=/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-oficial.webp alt=\"Hymer Grand Canyon S 2026, camper sobre Mercedes Sprinter\">\n\n**¿Buscas solo los datos?** <a href=https://recurretumulta.onlin
+  RAMA: content: "<img src=/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-oficial.webp alt=\"Hymer Grand Canyon S 2026, camper sobre Mercedes Sprinter\">\n\n<a href=https://recurretumulta.online/autocaravanas/hymer-grand-
+
+[CIFRAS] blog-posts-autocaravanas-lote125-g11.ts:121 {'2026': 1} {}
+  VIVO: content: "<img src=/media/mclouis-mc4-231-2026-precio-ficha-tecnica-oficial.webp alt=\"McLouis MC4 231 2026, perfilada compacta italiana\">\n\n**¿Buscas solo los datos?** <a href=https://recurretumulta.online/autocaravan
+  RAMA: content: "<img src=/media/mclouis-mc4-231-2026-precio-ficha-tecnica-oficial.webp alt=\"McLouis MC4 231 2026, perfilada compacta italiana\">\n\n<a href=https://recurretumulta.online/autocaravanas/mclouis-mc4-231-2026-prec
+
+[CIFRAS] blog-posts-autocaravanas-lote125-g11.ts:139 {'2026': 1, '2': 1} {}
+  VIVO: content: "<img src=/media/pilote-v630j-2026-precio-ficha-tecnica-ext.webp alt=\"Pilote V630J 2026, furgón camper con camas gemelas\">\n\n**¿Buscas solo los datos?** <a href=https://recurretumulta.online/autocaravanas/pil
+  RAMA: content: "<img src=/media/pilote-v630j-2026-precio-ficha-tecnica-ext.webp alt=\"Pilote V630J 2026, furgón camper con camas gemelas\">\n\n<a href=https://recurretumulta.online/autocaravanas/pilote-v630j-2026-precio-ficha-
+
+[CIFRAS] blog-posts-autocaravanas-lote125-g11.ts:157 {'2026': 1} {}
+  VIVO: content: "<img src=/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-oficial.webp alt=\"Roller Team Auto-Roller 746 2026, capuchina familiar para seis\">\n\n**¿Buscas solo los datos?** <a href=https://recurret
+  RAMA: content: "<img src=/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-oficial.webp alt=\"Roller Team Auto-Roller 746 2026, capuchina familiar para seis\">\n\n<a href=https://recurretumulta.online/autocaravanas/
+
+[CIFRAS] blog-posts-autocaravanas-lote125-g11.ts:175 {'2026': 1, '6': 1} {}
+  VIVO: content: "<img src=/media/weinsberg-caratour-600-mq-2026-precio-ficha-tecnica-ext.webp alt=\"Weinsberg CaraTour 600 MQ 2026, camper de 5,99 metros\">\n\n**¿Buscas solo los datos?** <a href=https://recurretumulta.online/a
+  RAMA: content: "<img src=/media/weinsberg-caratour-600-mq-2026-precio-ficha-tecnica-ext.webp alt=\"Weinsberg CaraTour 600 MQ 2026, camper de 5,99 metros\">\n\n<a href=https://recurretumulta.online/autocaravanas/weinsberg-carat
+
+[CIFRAS] blog-posts-lepas-a.ts:17 {'100': 1, '0': 1} {'4': 1}
+  VIVO: "content": "<img src=/media/lepas-l4-ev-2026-precio-ficha-tecnica-hero.webp alt=\"Lepas L4 EV eléctrico en carretera de montaña\">\n\n**¿Buscas solo los datos?** <a href=/coches/lepas-l4-ev-2026-precio-ficha-tecnica/>Ver
+  RAMA: "content": "<img src=/media/lepas-l4-ev-2026-precio-ficha-tecnica-hero.webp alt=\"Lepas L4 EV eléctrico en carretera de montaña\">\n\n<a href=/coches/lepas-l4-ev-2026-precio-ficha-tecnica/>Ficha técnica del Lepas L4 EV</
+
+[PIERDE batería] blog-posts-lepas-a.ts:17 4 3
+  VIVO: "content": "<img src=/media/lepas-l4-ev-2026-precio-ficha-tecnica-hero.webp alt=\"Lepas L4 EV eléctrico en carretera de montaña\">\n\n**¿Buscas solo los datos?** <a href=/coches/lepas-l4-ev-2026-precio-ficha-tecnica/>Ver
+  RAMA: "content": "<img src=/media/lepas-l4-ev-2026-precio-ficha-tecnica-hero.webp alt=\"Lepas L4 EV eléctrico en carretera de montaña\">\n\n<a href=/coches/lepas-l4-ev-2026-precio-ficha-tecnica/>Ficha técnica del Lepas L4 EV</
+
+[CIFRAS] blog-posts-lepas-a.ts:28 {} {'6': 1, '100': 1}
+  VIVO: "content": "<img src=/media/lepas-l6-ev-2026-precio-ficha-tecnica-hero.webp alt=\"Lepas L6 EV en carretera costera\">\n\n**¿Buscas solo los datos?** <a href=/coches/lepas-l6-ev-2026-precio-ficha-tecnica/>Ver la ficha téc
+  RAMA: "content": "<img src=/media/lepas-l6-ev-2026-precio-ficha-tecnica-hero.webp alt=\"Lepas L6 EV en carretera costera\">\n\n<a href=/coches/lepas-l6-ev-2026-precio-ficha-tecnica/>Ficha técnica del Lepas L6 EV</a> <a href=/c
+
+[PIERDE batería] blog-posts-lepas-a.ts:28 6 5
+  VIVO: "content": "<img src=/media/lepas-l6-ev-2026-precio-ficha-tecnica-hero.webp alt=\"Lepas L6 EV en carretera costera\">\n\n**¿Buscas solo los datos?** <a href=/coches/lepas-l6-ev-2026-precio-ficha-tecnica/>Ver la ficha téc
+  RAMA: "content": "<img src=/media/lepas-l6-ev-2026-precio-ficha-tecnica-hero.webp alt=\"Lepas L6 EV en carretera costera\">\n\n<a href=/coches/lepas-l6-ev-2026-precio-ficha-tecnica/>Ficha técnica del Lepas L6 EV</a> <a href=/c
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:23 {} {'350': 7}
+  VIVO: "content": "<img src=/media/motos/royal-enfield-classic-350-2025-ficha-tecnica-precio-1.webp alt=Royal Enfield Classic 350 verde en una carretera rural>\n\n**¿Buscas solo los datos?** <a href=/motos/royal-enfield-classic
+  RAMA: "content": "<img src=/media/motos/royal-enfield-classic-350-2025-ficha-tecnica-precio-1.webp alt=Royal Enfield Classic 350 verde en una carretera rural>\n\n**¿Buscas solo los datos?** <a href=/motos/royal-enfield-classic
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:41 {} {'450': 5}
+  VIVO: "content": "<img src=/media/motos/royal-enfield-guerrilla-450-2025-ficha-tecnica-precio-1.webp alt=Royal Enfield Guerrilla 450 amarilla en carretera de curvas>\n\n**¿Buscas solo los datos?** <a href=/motos/royal-enfield-
+  RAMA: "content": "<img src=/media/motos/royal-enfield-guerrilla-450-2025-ficha-tecnica-precio-1.webp alt=Royal Enfield Guerrilla 450 amarilla en carretera de curvas>\n\n**¿Buscas solo los datos?** <a href=/motos/royal-enfield-
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:59 {} {'350': 5}
+  VIVO: "content": "<img src=/media/motos/royal-enfield-hunter-350-2025-ficha-tecnica-precio-1.webp alt=Royal Enfield Hunter 350 en ciudad>\n\n**¿Buscas solo los datos?** <a href=/motos/royal-enfield-hunter-350-2025-ficha-tecnic
+  RAMA: "content": "<img src=/media/motos/royal-enfield-hunter-350-2025-ficha-tecnica-precio-1.webp alt=Royal Enfield Hunter 350 en ciudad>\n\n**¿Buscas solo los datos?** <a href=/motos/royal-enfield-hunter-350-2025-ficha-tecnic
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:77 {} {'350': 5}
+  VIVO: "content": "<img src=/media/motos/royal-enfield-meteor-350-2025-ficha-tecnica-precio-1.webp alt=Royal Enfield Meteor 350 granate en ruta>\n\n**¿Buscas solo los datos?** <a href=/motos/royal-enfield-meteor-350-2025-ficha-
+  RAMA: "content": "<img src=/media/motos/royal-enfield-meteor-350-2025-ficha-tecnica-precio-1.webp alt=Royal Enfield Meteor 350 granate en ruta>\n\n**¿Buscas solo los datos?** <a href=/motos/royal-enfield-meteor-350-2025-ficha-
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:95 {} {'450': 5}
+  VIVO: "content": "<img src=/media/motos/royal-enfield-himalayan-450-2025-ficha-tecnica-precio-1.webp alt=Royal Enfield Himalayan 450 en pista de tierra>\n\n**¿Buscas solo los datos?** <a href=/motos/royal-enfield-himalayan-450
+  RAMA: "content": "<img src=/media/motos/royal-enfield-himalayan-450-2025-ficha-tecnica-precio-1.webp alt=Royal Enfield Himalayan 450 en pista de tierra>\n\n**¿Buscas solo los datos?** <a href=/motos/royal-enfield-himalayan-450
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:257 {} {'101': 5}
+  VIVO: "content": "<img src=/media/motos/indian-101-scout-2026-ficha-tecnica-precio-1.webp alt=Indian 101 Scout en carretera de curvas>\n\n**¿Buscas solo los datos?** <a href=/motos/indian-101-scout-2026-ficha-tecnica-precio/>V
+  RAMA: "content": "<img src=/media/motos/indian-101-scout-2026-ficha-tecnica-precio-1.webp alt=Indian 101 Scout en carretera de curvas>\n\n**¿Buscas solo los datos?** <a href=/motos/indian-101-scout-2026-ficha-tecnica-precio/>V
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:293 {} {'310': 2}
+  VIVO: "content": "<img src=/media/motos/piaggio-beverly-310-2025-ficha-tecnica-precio-1.webp alt=Piaggio Beverly 310 azul en la ciudad>\n\n**¿Buscas solo los datos?** <a href=/motos/piaggio-beverly-310-2025-ficha-tecnica-preci
+  RAMA: "content": "<img src=/media/motos/piaggio-beverly-310-2025-ficha-tecnica-precio-1.webp alt=Piaggio Beverly 310 azul en la ciudad>\n\n**¿Buscas solo los datos?** <a href=/motos/piaggio-beverly-310-2025-ficha-tecnica-preci
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:311 {} {'125': 2}
+  VIVO: "content": "<img src=/media/motos/piaggio-medley-125-2025-ficha-tecnica-precio-1.webp alt=Piaggio Medley 125 gris en tráfico urbano>\n\n**¿Buscas solo los datos?** <a href=/motos/piaggio-medley-125-2025-ficha-tecnica-pre
+  RAMA: "content": "<img src=/media/motos/piaggio-medley-125-2025-ficha-tecnica-precio-1.webp alt=Piaggio Medley 125 gris en tráfico urbano>\n\n**¿Buscas solo los datos?** <a href=/motos/piaggio-medley-125-2025-ficha-tecnica-pre
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:329 {} {'3': 2, '530': 2}
+  VIVO: "content": "<img src=/media/motos/piaggio-mp3-530-exclusive-2025-ficha-tecnica-precio-1.webp alt=Piaggio MP3 530 Exclusive en carretera>\n\n**¿Buscas solo los datos?** <a href=/motos/piaggio-mp3-530-exclusive-2025-ficha-
+  RAMA: "content": "<img src=/media/motos/piaggio-mp3-530-exclusive-2025-ficha-tecnica-precio-1.webp alt=Piaggio MP3 530 Exclusive en carretera>\n\n**¿Buscas solo los datos?** <a href=/motos/piaggio-mp3-530-exclusive-2025-ficha-
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:365 {} {'3': 2, '400': 2}
+  VIVO: "content": "<img src=/media/motos/piaggio-mp3-400-sport-2025-ficha-tecnica-precio-1.webp alt=Piaggio MP3 400 Sport en rotonda urbana>\n\n**¿Buscas solo los datos?** <a href=/motos/piaggio-mp3-400-sport-2025-ficha-tecnica
+  RAMA: "content": "<img src=/media/motos/piaggio-mp3-400-sport-2025-ficha-tecnica-precio-1.webp alt=Piaggio MP3 400 Sport en rotonda urbana>\n\n**¿Buscas solo los datos?** <a href=/motos/piaggio-mp3-400-sport-2025-ficha-tecnica
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:383 {} {'310': 5}
+  VIVO: "content": "<img src=/media/motos/vespa-gts-310-2025-ficha-tecnica-precio-1.webp alt=Vespa GTS 310 verde en una avenida>\n\n**¿Buscas solo los datos?** <a href=/motos/vespa-gts-310-2025-ficha-tecnica-precio/>Ver ficha té
+  RAMA: "content": "<img src=/media/motos/vespa-gts-310-2025-ficha-tecnica-precio-1.webp alt=Vespa GTS 310 verde en una avenida>\n\n**¿Buscas solo los datos?** <a href=/motos/vespa-gts-310-2025-ficha-tecnica-precio/>Ver ficha té
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:401 {} {'310': 5}
+  VIVO: "content": "<img src=/media/motos/vespa-gtv-310-2025-ficha-tecnica-precio-1.webp alt=Vespa GTV 310 en calle histórica>\n\n**¿Buscas solo los datos?** <a href=/motos/vespa-gtv-310-2025-ficha-tecnica-precio/>Ver ficha técn
+  RAMA: "content": "<img src=/media/motos/vespa-gtv-310-2025-ficha-tecnica-precio-1.webp alt=Vespa GTV 310 en calle histórica>\n\n**¿Buscas solo los datos?** <a href=/motos/vespa-gtv-310-2025-ficha-tecnica-precio/>Ver ficha técn
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:419 {} {'125': 5}
+  VIVO: "content": "<img src=/media/motos/vespa-primavera-rst-125-2025-ficha-tecnica-precio-1.webp alt=Vespa Primavera RST 125 beige junto a cafetería>\n\n**¿Buscas solo los datos?** <a href=/motos/vespa-primavera-rst-125-2025-f
+  RAMA: "content": "<img src=/media/motos/vespa-primavera-rst-125-2025-ficha-tecnica-precio-1.webp alt=Vespa Primavera RST 125 beige junto a cafetería>\n\n**¿Buscas solo los datos?** <a href=/motos/vespa-primavera-rst-125-2025-f
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:437 {} {'125': 5, '3': 1}
+  VIVO: "content": "<img src=/media/motos/vespa-sprint-rst-125-s-2025-ficha-tecnica-precio-1.webp alt=Vespa Sprint RST 125 S gris mate al atardecer>\n\n**¿Buscas solo los datos?** <a href=/motos/vespa-sprint-rst-125-s-2025-ficha
+  RAMA: "content": "<img src=/media/motos/vespa-sprint-rst-125-s-2025-ficha-tecnica-precio-1.webp alt=Vespa Sprint RST 125 S gris mate al atardecer>\n\n**¿Buscas solo los datos?** <a href=/motos/vespa-sprint-rst-125-s-2025-ficha
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:455 {} {'125': 5}
+  VIVO: "content": "<img src=/media/motos/vespa-gts-125-2025-ficha-tecnica-precio-1.webp alt=Vespa GTS 125 azul en carretera costera>\n\n**¿Buscas solo los datos?** <a href=/motos/vespa-gts-125-2025-ficha-tecnica-precio/>Ver fic
+  RAMA: "content": "<img src=/media/motos/vespa-gts-125-2025-ficha-tecnica-precio-1.webp alt=Vespa GTS 125 azul en carretera costera>\n\n**¿Buscas solo los datos?** <a href=/motos/vespa-gts-125-2025-ficha-tecnica-precio/>Ver fic
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:473 {} {'125': 2}
+  VIVO: "content": "<img src=/media/motos/italjet-dragster-125-2025-ficha-tecnica-precio-1.webp alt=Italjet Dragster 125 naranja en calle urbana>\n\n**¿Buscas solo los datos?** <a href=/motos/italjet-dragster-125-2025-ficha-tecn
+  RAMA: "content": "<img src=/media/motos/italjet-dragster-125-2025-ficha-tecnica-precio-1.webp alt=Italjet Dragster 125 naranja en calle urbana>\n\n**¿Buscas solo los datos?** <a href=/motos/italjet-dragster-125-2025-ficha-tecn
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:491 {} {'200': 2}
+  VIVO: "content": "<img src=/media/motos/italjet-dragster-200-2025-ficha-tecnica-precio-1.webp alt=Italjet Dragster 200 en ciudad>\n\n**¿Buscas solo los datos?** <a href=/motos/italjet-dragster-200-2025-ficha-tecnica-precio/>Ve
+  RAMA: "content": "<img src=/media/motos/italjet-dragster-200-2025-ficha-tecnica-precio-1.webp alt=Italjet Dragster 200 en ciudad>\n\n**¿Buscas solo los datos?** <a href=/motos/italjet-dragster-200-2025-ficha-tecnica-precio/>Ve
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:509 {} {'300': 2}
+  VIVO: "content": "<img src=/media/motos/italjet-dragster-300-2025-ficha-tecnica-precio-1.webp alt=Italjet Dragster 300 rojo en carretera de curvas>\n\n**¿Buscas solo los datos?** <a href=/motos/italjet-dragster-300-2025-ficha-
+  RAMA: "content": "<img src=/media/motos/italjet-dragster-300-2025-ficha-tecnica-precio-1.webp alt=Italjet Dragster 300 rojo en carretera de curvas>\n\n**¿Buscas solo los datos?** <a href=/motos/italjet-dragster-300-2025-ficha-
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:527 {} {'700': 2}
+  VIVO: "content": "<img src=/media/motos/italjet-dragster-700-twin-2025-ficha-tecnica-precio-1.webp alt=Italjet Dragster 700 Twin en circuito>\n\n**¿Buscas solo los datos?** <a href=/motos/italjet-dragster-700-twin-2025-ficha-t
+  RAMA: "content": "<img src=/media/motos/italjet-dragster-700-twin-2025-ficha-tecnica-precio-1.webp alt=Italjet Dragster 700 Twin en circuito>\n\n**¿Buscas solo los datos?** <a href=/motos/italjet-dragster-700-twin-2025-ficha-t
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:545 {} {'300': 5}
+  VIVO: "content": "<img src=/media/motos/lambretta-x300-2025-ficha-tecnica-precio-1.webp alt=Lambretta X300 SR blanca en la ciudad>\n\n**¿Buscas solo los datos?** <a href=/motos/lambretta-x300-2025-ficha-tecnica-precio/>Ver fic
+  RAMA: "content": "<img src=/media/motos/lambretta-x300-2025-ficha-tecnica-precio-1.webp alt=Lambretta X300 SR blanca en la ciudad>\n\n**¿Buscas solo los datos?** <a href=/motos/lambretta-x300-2025-ficha-tecnica-precio/>Ver fic
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:563 {} {'350': 5}
+  VIVO: "content": "<img src=/media/motos/lambretta-g350-2025-ficha-tecnica-precio-1.webp alt=Lambretta G350 en plaza histórica>\n\n**¿Buscas solo los datos?** <a href=/motos/lambretta-g350-2025-ficha-tecnica-precio/>Ver ficha t
+  RAMA: "content": "<img src=/media/motos/lambretta-g350-2025-ficha-tecnica-precio-1.webp alt=Lambretta G350 en plaza histórica>\n\n**¿Buscas solo los datos?** <a href=/motos/lambretta-g350-2025-ficha-tecnica-precio/>Ver ficha t
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:581 {} {'125': 5}
+  VIVO: "content": "<img src=/media/motos/lambretta-x125-2025-ficha-tecnica-precio-1.webp alt=Lambretta X125 en calle con encanto>\n\n**¿Buscas solo los datos?** <a href=/motos/lambretta-x125-2025-ficha-tecnica-precio/>Ver ficha
+  RAMA: "content": "<img src=/media/motos/lambretta-x125-2025-ficha-tecnica-precio-1.webp alt=Lambretta X125 en calle con encanto>\n\n**¿Buscas solo los datos?** <a href=/motos/lambretta-x125-2025-ficha-tecnica-precio/>Ver ficha
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:599 {} {'125': 5}
+  VIVO: "content": "<img src=/media/motos/lambretta-j-125-2026-ficha-tecnica-precio-1.webp alt=Lambretta J 125 en el centro de la ciudad>\n\n**¿Buscas solo los datos?** <a href=/motos/lambretta-j-125-2026-ficha-tecnica-precio/>V
+  RAMA: "content": "<img src=/media/motos/lambretta-j-125-2026-ficha-tecnica-precio-1.webp alt=Lambretta J 125 en el centro de la ciudad>\n\n**¿Buscas solo los datos?** <a href=/motos/lambretta-j-125-2026-ficha-tecnica-precio/>V
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:617 {} {'125': 5}
+  VIVO: "content": "<img src=/media/motos/lambretta-v125-special-2025-ficha-tecnica-precio-1.webp alt=Lambretta V125 Special en la ciudad>\n\n**¿Buscas solo los datos?** <a href=/motos/lambretta-v125-special-2025-ficha-tecnica-p
+  RAMA: "content": "<img src=/media/motos/lambretta-v125-special-2025-ficha-tecnica-precio-1.webp alt=Lambretta V125 Special en la ciudad>\n\n**¿Buscas solo los datos?** <a href=/motos/lambretta-v125-special-2025-ficha-tecnica-p
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:635 {} {'300': 5}
+  VIVO: "content": "<img src=/media/motos/royal-alloy-gp-300-s-2026-ficha-tecnica-precio-1.webp alt=Royal Alloy GP 300 S en calle londinense>\n\n**¿Buscas solo los datos?** <a href=/motos/royal-alloy-gp-300-s-2026-ficha-tecnica-
+  RAMA: "content": "<img src=/media/motos/royal-alloy-gp-300-s-2026-ficha-tecnica-precio-1.webp alt=Royal Alloy GP 300 S en calle londinense>\n\n**¿Buscas solo los datos?** <a href=/motos/royal-alloy-gp-300-s-2026-ficha-tecnica-
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:653 {} {'300': 5}
+  VIVO: "content": "<img src=/media/motos/royal-alloy-tg-300-s-2026-ficha-tecnica-precio-1.webp alt=Royal Alloy TG 300 S bitono>\n\n**¿Buscas solo los datos?** <a href=/motos/royal-alloy-tg-300-s-2026-ficha-tecnica-precio/>Ver f
+  RAMA: "content": "<img src=/media/motos/royal-alloy-tg-300-s-2026-ficha-tecnica-precio-1.webp alt=Royal Alloy TG 300 S bitono>\n\n**¿Buscas solo los datos?** <a href=/motos/royal-alloy-tg-300-s-2026-ficha-tecnica-precio/>Ver f
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:671 {} {'125': 5}
+  VIVO: "content": "<img src=/media/motos/royal-alloy-gp-125-2026-ficha-tecnica-precio-1.webp alt=Royal Alloy GP 125 en la ciudad>\n\n**¿Buscas solo los datos?** <a href=/motos/royal-alloy-gp-125-2026-ficha-tecnica-precio/>Ver f
+  RAMA: "content": "<img src=/media/motos/royal-alloy-gp-125-2026-ficha-tecnica-precio-1.webp alt=Royal Alloy GP 125 en la ciudad>\n\n**¿Buscas solo los datos?** <a href=/motos/royal-alloy-gp-125-2026-ficha-tecnica-precio/>Ver f
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:689 {} {'125': 5}
+  VIVO: "content": "<img src=/media/motos/royal-alloy-tg-125-2026-ficha-tecnica-precio-1.webp alt=Royal Alloy TG 125 en terraza urbana>\n\n**¿Buscas solo los datos?** <a href=/motos/royal-alloy-tg-125-2026-ficha-tecnica-precio/>
+  RAMA: "content": "<img src=/media/motos/royal-alloy-tg-125-2026-ficha-tecnica-precio-1.webp alt=Royal Alloy TG 125 en terraza urbana>\n\n**¿Buscas solo los datos?** <a href=/motos/royal-alloy-tg-125-2026-ficha-tecnica-precio/>
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:707 {} {'508': 2}
+  VIVO: "content": "<img src=/media/motos/sym-ttlbt-508-2026-ficha-tecnica-precio-1.webp alt=SYM TTLBT 508 en autopista>\n\n**¿Buscas solo los datos?** <a href=/motos/sym-ttlbt-508-2026-ficha-tecnica-precio/>Ver ficha técnica de
+  RAMA: "content": "<img src=/media/motos/sym-ttlbt-508-2026-ficha-tecnica-precio-1.webp alt=SYM TTLBT 508 en autopista>\n\n**¿Buscas solo los datos?** <a href=/motos/sym-ttlbt-508-2026-ficha-tecnica-precio/>Ver ficha técnica de
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:725 {} {'300': 2}
+  VIVO: "content": "<img src=/media/motos/sym-joymax-z-plus-300-2026-ficha-tecnica-precio-1.webp alt=SYM Joymax Z+ 300 en tráfico urbano>\n\n**¿Buscas solo los datos?** <a href=/motos/sym-joymax-z-plus-300-2026-ficha-tecnica-pre
+  RAMA: "content": "<img src=/media/motos/sym-joymax-z-plus-300-2026-ficha-tecnica-precio-1.webp alt=SYM Joymax Z+ 300 en tráfico urbano>\n\n**¿Buscas solo los datos?** <a href=/motos/sym-joymax-z-plus-300-2026-ficha-tecnica-pre
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:743 {} {'300': 2}
+  VIVO: "content": "<img src=/media/motos/sym-adx-300-2025-ficha-tecnica-precio-1.webp alt=SYM ADX 300 en pista de tierra>\n\n**¿Buscas solo los datos?** <a href=/motos/sym-adx-300-2025-ficha-tecnica-precio/>Ver ficha técnica de
+  RAMA: "content": "<img src=/media/motos/sym-adx-300-2025-ficha-tecnica-precio-1.webp alt=SYM ADX 300 en pista de tierra>\n\n**¿Buscas solo los datos?** <a href=/motos/sym-adx-300-2025-ficha-tecnica-precio/>Ver ficha técnica de
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:761 {} {'400': 2}
+  VIVO: "content": "<img src=/media/sym-adxtg-400-2025-ficha-tecnica-precio-1.webp alt=SYM ADXTG 400 blanco, vista delantera de tres cuartos>\n\n**¿Buscas solo los datos?** <a href=/motos/sym-adxtg-400-2025-ficha-tecnica-precio/
+  RAMA: "content": "<img src=/media/sym-adxtg-400-2025-ficha-tecnica-precio-1.webp alt=SYM ADXTG 400 blanco, vista delantera de tres cuartos>\n\n**¿Buscas solo los datos?** <a href=/motos/sym-adxtg-400-2025-ficha-tecnica-precio/
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:779 {} {'125': 2}
+  VIVO: "content": "<img src=/media/motos/sym-adx-125-2025-ficha-tecnica-precio-1.webp alt=SYM ADX 125 en camino rural>\n\n**¿Buscas solo los datos?** <a href=/motos/sym-adx-125-2025-ficha-tecnica-precio/>Ver ficha técnica del S
+  RAMA: "content": "<img src=/media/motos/sym-adx-125-2025-ficha-tecnica-precio-1.webp alt=SYM ADX 125 en camino rural>\n\n**¿Buscas solo los datos?** <a href=/motos/sym-adx-125-2025-ficha-tecnica-precio/>Ver ficha técnica del S
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:797 {} {'3': 1}
+  VIVO: "content": "<img src=/media/motos/sym-symphony-st-125-2026-ficha-tecnica-precio-1.webp alt=SYM Symphony ST 125 gris, vista lateral>\n\n**¿Buscas solo los datos?** <a href=/motos/sym-symphony-st-125-2026-ficha-tecnica-pre
+  RAMA: "content": "<img src=/media/motos/sym-symphony-st-125-2026-ficha-tecnica-precio-1.webp alt=SYM Symphony ST 125 gris, vista lateral>\n\n**¿Buscas solo los datos?** <a href=/motos/sym-symphony-st-125-2026-ficha-tecnica-pre
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:815 {} {'125': 2}
+  VIVO: "content": "<img src=/media/motos/sym-jet-x-125-2026-ficha-tecnica-precio-1.webp alt=SYM Jet X 125 deportivo de noche>\n\n**¿Buscas solo los datos?** <a href=/motos/sym-jet-x-125-2026-ficha-tecnica-precio/>Ver ficha técn
+  RAMA: "content": "<img src=/media/motos/sym-jet-x-125-2026-ficha-tecnica-precio-1.webp alt=SYM Jet X 125 deportivo de noche>\n\n**¿Buscas solo los datos?** <a href=/motos/sym-jet-x-125-2026-ficha-tecnica-precio/>Ver ficha técn
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:833 {} {'400': 2}
+  VIVO: "content": "<img src=/media/motos/kymco-xciting-vs-400-2026-ficha-tecnica-precio-1.webp alt=Kymco Xciting VS 400 en carretera>\n\n**¿Buscas solo los datos?** <a href=/motos/kymco-xciting-vs-400-2026-ficha-tecnica-precio/
+  RAMA: "content": "<img src=/media/motos/kymco-xciting-vs-400-2026-ficha-tecnica-precio-1.webp alt=Kymco Xciting VS 400 en carretera>\n\n**¿Buscas solo los datos?** <a href=/motos/kymco-xciting-vs-400-2026-ficha-tecnica-precio/
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:851 {} {'350': 2}
+  VIVO: "content": "<img src=/media/motos/kymco-dtx-350-2025-ficha-tecnica-precio-1.webp alt=Kymco DTX 350 en un camino>\n\n**¿Buscas solo los datos?** <a href=/motos/kymco-dtx-350-2025-ficha-tecnica-precio/>Ver ficha técnica de
+  RAMA: "content": "<img src=/media/motos/kymco-dtx-350-2025-ficha-tecnica-precio-1.webp alt=Kymco DTX 350 en un camino>\n\n**¿Buscas solo los datos?** <a href=/motos/kymco-dtx-350-2025-ficha-tecnica-precio/>Ver ficha técnica de
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:869 {} {'350': 2}
+  VIVO: "content": "<img src=/media/motos/kymco-super-dink-gt-350-2025-ficha-tecnica-precio-1.webp alt=Kymco Super Dink GT 350 en autopista>\n\n**¿Buscas solo los datos?** <a href=/motos/kymco-super-dink-gt-350-2025-ficha-tecnic
+  RAMA: "content": "<img src=/media/motos/kymco-super-dink-gt-350-2025-ficha-tecnica-precio-1.webp alt=Kymco Super Dink GT 350 en autopista>\n\n**¿Buscas solo los datos?** <a href=/motos/kymco-super-dink-gt-350-2025-ficha-tecnic
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:887 {} {'125': 2}
+  VIVO: "content": "<img src=/media/motos/kymco-agility-nx-125-2026-ficha-tecnica-precio-1.webp alt=Kymco Agility NX 125 en la ciudad>\n\n**¿Buscas solo los datos?** <a href=/motos/kymco-agility-nx-125-2026-ficha-tecnica-precio/
+  RAMA: "content": "<img src=/media/motos/kymco-agility-nx-125-2026-ficha-tecnica-precio-1.webp alt=Kymco Agility NX 125 en la ciudad>\n\n**¿Buscas solo los datos?** <a href=/motos/kymco-agility-nx-125-2026-ficha-tecnica-precio/
+
+[CIFRAS] blog-posts-motos-exp-m4.ts:905 {} {'125': 2}
+  VIVO: "content": "<img src=/media/motos/kymco-dtx-125-2025-ficha-tecnica-precio-1.webp alt=Kymco DTX 125 en camino de tierra>\n\n**¿Buscas solo los datos?** <a href=/motos/kymco-dtx-125-2025-ficha-tecnica-precio/>Ver ficha téc
+  RAMA: "content": "<img src=/media/motos/kymco-dtx-125-2025-ficha-tecnica-precio-1.webp alt=Kymco DTX 125 en camino de tierra>\n\n**¿Buscas solo los datos?** <a href=/motos/kymco-dtx-125-2025-ficha-tecnica-precio/>Ver ficha téc
+
+[CIFRAS] blog-posts-prio2-1.ts:15 {'152': 1} {}
+  VIVO: "content": "<img src=/media/honda-cb1000-hornet-2024-ficha-tecnica-precio-1.webp alt=Honda CB1000 Hornet 2024 negra en carretera>\n\n**¿Buscas solo los datos?** <a href=/motos/honda-cb1000-hornet-2024-ficha-tecnica-preci
+  RAMA: "content": "<img src=/media/honda-cb1000-hornet-2024-ficha-tecnica-precio-1.webp alt=Honda CB1000 Hornet 2024 negra en carretera>\n\n<a href=/motos/honda-cb1000-hornet-2024-ficha-tecnica-precio/>Ficha técnica de la Honda
+
+[CIFRAS] blog-posts-prio2-1.ts:26 {'35,4': 1} {}
+  VIVO: "content": "<img src=/media/piaggio-beverly-400-2024-ficha-tecnica-precio-1.webp alt=Piaggio Beverly 400 2024 en ciudad>\n\n**¿Buscas solo los datos?** <a href=/motos/piaggio-beverly-400-2024-ficha-tecnica-precio/>Ver la
+  RAMA: "content": "<img src=/media/piaggio-beverly-400-2024-ficha-tecnica-precio-1.webp alt=Piaggio Beverly 400 2024 en ciudad>\n\n<a href=/motos/piaggio-beverly-400-2024-ficha-tecnica-precio/>Ficha técnica del Piaggio Beverly 
+
+[CIFRAS] blog-posts-prio2-1.ts:37 {'218': 1, '80': 1} {}
+  VIVO: "content": "<img src=/media/byd-seal-u-dm-i-precio-ficha-tecnica-1.webp alt=BYD Seal U DM-i, SUV híbrido enchufable>\n\n**¿Buscas solo los datos?** <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica/>Ver la ficha técni
+  RAMA: "content": "<img src=/media/byd-seal-u-dm-i-precio-ficha-tecnica-1.webp alt=BYD Seal U DM-i, SUV híbrido enchufable>\n\n<a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica/>Ficha técnica del BYD Seal U DM-i</a>. <a href
+
+[CIFRAS] blog-posts-prio2-1.ts:48 {'133': 1} {}
+  VIVO: "content": "<img src=/media/silence-s01-ficha-tecnica-precio-1.webp alt=Silence S01, scooter eléctrico>\n\n**¿Buscas solo los datos?** <a href=/motos/silence-s01-ficha-tecnica-precio/>Ver la ficha técnica del Silence S01
+  RAMA: "content": "<img src=/media/silence-s01-ficha-tecnica-precio-1.webp alt=Silence S01, scooter eléctrico>\n\n<a href=/motos/silence-s01-ficha-tecnica-precio/>Ficha técnica del Silence S01</a>. <a href=/comparador-motos/>Co
+
+[PIERDE batería] blog-posts-prio2-1.ts:48 16 15
+  VIVO: "content": "<img src=/media/silence-s01-ficha-tecnica-precio-1.webp alt=Silence S01, scooter eléctrico>\n\n**¿Buscas solo los datos?** <a href=/motos/silence-s01-ficha-tecnica-precio/>Ver la ficha técnica del Silence S01
+  RAMA: "content": "<img src=/media/silence-s01-ficha-tecnica-precio-1.webp alt=Silence S01, scooter eléctrico>\n\n<a href=/motos/silence-s01-ficha-tecnica-precio/>Ficha técnica del Silence S01</a>. <a href=/comparador-motos/>Co
+
+[CIFRAS] blog-posts-prio2-1.ts:59 {'68': 1} {}
+  VIVO: "content": "<img src=/media/kawasaki-ninja-650-2024-ficha-tecnica-precio-1.webp alt=Kawasaki Ninja 650 2024 verde>\n\n**¿Buscas solo los datos?** <a href=/motos/kawasaki-ninja-650-2024-ficha-tecnica-precio/>Ver la ficha 
+  RAMA: "content": "<img src=/media/kawasaki-ninja-650-2024-ficha-tecnica-precio-1.webp alt=Kawasaki Ninja 650 2024 verde>\n\n<a href=/motos/kawasaki-ninja-650-2024-ficha-tecnica-precio/>Ficha técnica de la Kawasaki Ninja 650 20
+
+[CIFRAS] comparador-motos-base.ts:2564 {} {'800': 1}
+  VIVO: intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "Para la F 800 GS: revisión al alcanzar 10.000 km, sin dejar pasar más de 12 meses entre una visita al taller y la siguiente",
+
+[PIERDE filtro de aceite] comparador-motos-base.ts:3304 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías",
+  RAMA: queSeCambia: "Bujías + filtro de aire + aceite con filtro nuevo",
+
+[CIFRAS] comparador-motos-base.ts:3476 {} {'300': 1}
+  VIVO: intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "El XMAX 300 pasa por taller cada 10.000 km, y también cuando se cumplen 12 meses desde la revisión anterior, según lo que llegue antes en su uso urbano",
+
+[PIERDE filtro de aceite] comparador-motos-base.ts:4607 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
+  RAMA: queSeCambia: "Bujía + filtro de aire + aceite nuevo con su filtro",
+
+[PIERDE filtro de aceite] comparador-motos-base.ts:7239 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
+  RAMA: queSeCambia: "Aceite con su filtro, filtro de aire y bujía",
+
+[PIERDE cadena] comparador-motos-exp-m1.ts:636 2 1
+  VIVO: "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes O-ring (o detergente neutro con un cepillo suave).",
+  RAMA: "Pasa un trapo seco por la cadena y usa un limpiador con retenes O-ring; también vale detergente neutro con un cepillo suave.",
+
+[CIFRAS] comparador-motos-exp-m1.ts:2989 {'1000': 1} {}
+  VIVO: "Limpia y engrasa la cadena cada 1.000 km, y siempre tras rodar con lluvia o por tierra.",
+  RAMA: "Limpia y engrasa la cadena cada mil kilómetros, y siempre después de rodar con lluvia o por tierra.",
+
+[CIFRAS] comparador-motos-exp-m1.ts:3062 {'1000': 1} {}
+  VIVO: "Limpia y engrasa la cadena cada 1.000 km, y siempre tras rodar con lluvia o por tierra.",
+  RAMA: "Limpia y engrasa la cadena de transmisión cada mil kilómetros, y siempre tras rodar con lluvia o por tierra.",
+
+[PIERDE filtro de aire] comparador-motos-exp-m1.ts:3431 1 0
+  VIVO: "Filtro de aceite: cada 8.000 km. Filtro de aire: cada 12.000 km.",
+  RAMA: "El filtro de aceite se cambia cada 8.000 km y el de aire cada 12.000 km.",
+
+[CIFRAS] comparador-motos-exp-m16.ts:65 {'1000': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 4.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Intervalo de 4.000 km o 12 meses (primera a los mil kilómetros)",
+
+[CIFRAS] comparador-motos-exp-m16.ts:133 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 4.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Cada 4.000 km o un año: la primera revisión va a los 1.000 km",
+
+[CIFRAS] comparador-motos-exp-m16.ts:169 {'4': 1} {}
+  VIVO: "Cambio de 4 marchas con embrague centrífugo: sin maneta, muy fácil",
+  RAMA: "Caja de cuatro marchas con embrague centrífugo, sin maneta y facilísima",
+
+[CIFRAS] comparador-motos-exp-m16.ts:238 {'2': 1} {}
+  VIVO: "Horquilla invertida Showa SFF-BP y doble disco con ABS de 2 canales",
+  RAMA: "Horquilla invertida Showa SFF-BP con doble disco y ABS de dos canales",
+
+[CIFRAS] comparador-motos-exp-m16.ts:372 {'6': 1} {}
+  VIVO: "2026: IMU de 6 ejes con ABS en curva, control de tracción y antiwheelie",
+  RAMA: "Para 2026: IMU de seis ejes con control de tracción, antiwheelie y ABS en curva",
+
+[CIFRAS] comparador-motos-exp-m16.ts:607 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Cada 10.000 km o un año, con la primera revisión a los 1.000 km",
+
+[CIFRAS] comparador-motos-exp-m16.ts:947 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Intervalo de 10.000 km o un año, con primera revisión a los 1.000 km",
+
+[CIFRAS] comparador-motos-exp-m19.ts:69 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "El manual pide revisión cada 12.000 km o una vez al año; la primera, al cumplir 1.000 km",
+
+[CIFRAS] comparador-motos-exp-m19.ts:140 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Toca taller cada 12.000 km o cada doce meses, con primera revisión después de los 1.000 km iniciales",
+
+[CIFRAS] comparador-motos-exp-m19.ts:211 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Pasa la primera revisión a los 1.000 km y luego cada 12.000 km o al año",
+
+[CIFRAS] comparador-motos-exp-m19.ts:282 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Honda establece revisiones cada 12.000 km o anualmente, empezando por la de los 1.000 km",
+
+[CIFRAS] comparador-motos-exp-m19.ts:354 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Revisa cada 12.000 km o cada año: la primera, cuando la moto suma 1.000 km",
+
+[CIFRAS] comparador-motos-exp-m19.ts:426 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Entre revisiones, 12.000 km o un año; la primera, al llegar a los 1.000 km",
+
+[CIFRAS] comparador-motos-exp-m19.ts:497 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Primera revisión a los 1.000 km; después, cada 6.000 km o una vez al año",
+
+[CIFRAS] comparador-motos-exp-m19.ts:568 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "El intervalo es de 12.000 km o un año, y la primera revisión cae a los 1.000 km",
+
+[CIFRAS] comparador-motos-exp-m19.ts:639 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Servicio cada 12.000 km o doce meses; la primera, nada más cumplir 1.000 km",
+
+[CIFRAS] comparador-motos-exp-m19.ts:705 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "La moto pide taller cada 12.000 km o anualmente, tras una primera revisión a los 1.000 km",
+
+[CIFRAS] comparador-motos-exp-m19.ts:848 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Yamaha fija revisiones cada 10.000 km o al año, con la primera a los 1.000 km",
+
+[CIFRAS] comparador-motos-exp-m19.ts:914 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "La primera revisión llega a los 1.000 km; luego, cada 10.000 km o anualmente",
+
+[CIFRAS] comparador-motos-exp-m19.ts:985 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "El manual pide taller cada 10.000 km o cada año; la primera, al rodar 1.000 km",
+
+[CIFRAS] comparador-motos-exp-m19.ts:1056 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Servicio cada 10.000 km o doce meses; la primera, al cumplir 1.000 km",
+
+[CIFRAS] comparador-motos-exp-m19.ts:1122 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Entre revisiones, 10.000 km o un año; la primera llega a los 1.000 km",
+
+[CIFRAS] comparador-motos-exp-m19.ts:1193 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Revisa cada 10.000 km o cada doce meses: la primera, cuando suma 1.000 km",
+
+[CIFRAS] comparador-motos-exp-m19.ts:1259 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Toca taller cada 10.000 km o anualmente, con primera revisión al superar los 1.000 km",
+
+[CIFRAS] comparador-motos-exp-m19.ts:1330 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "La moto pide taller cada 10.000 km o anualmente, y la primera tras 1.000 km",
+
+[CIFRAS] comparador-motos-exp-m19.ts:1401 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Antes de nada, primera revisión a los 1.000 km; tras ella, cada 10.000 km o una vez al año",
+
+[CIFRAS] comparador-motos-exp-m20.ts:139 {'12': 1, '1000': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Revisión cada 12.000 km o cada año, con la primera a los mil kilómetros",
+
+[CIFRAS] comparador-motos-exp-m20.ts:210 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Cada 12.000 km o anualmente, pasando la primera revisión tras los primeros 1.000 km",
+
+[CIFRAS] comparador-motos-exp-m20.ts:281 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "El mantenimiento toca cada 12.000 km o una vez al año, empezando al llegar a 1.000 km",
+
+[CIFRAS] comparador-motos-exp-m20.ts:352 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Intervalo de 12.000 km o un año, con la primera revisión al cumplir 1.000 km",
+
+[CIFRAS] comparador-motos-exp-m20.ts:423 {'12': 1, '1000': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Pasa revisión cada 12.000 km o cada doce meses, la primera al llegar a los mil kilómetros en tu taller habitual",
+
+[CIFRAS] comparador-motos-exp-m20.ts:494 {'12000': 1, '12': 1, '1000': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Controla la holgura de la cadena poniéndola en vertical y corrígela según indica el fabricante.",
+
+[PIERDE cadena] comparador-motos-exp-m20.ts:497 2 1
+  VIVO: "Limpia la cadena con un limpiador específico para cadenas con retenes.",
+  RAMA: "Quita la grasa vieja de la cadena con un producto específico para transmisiones con retenes.",
+
+[CIFRAS] comparador-motos-exp-m20.ts:565 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Revisa cada 12.000 km o al cumplir el año, con la primera en cuanto llegues a 1.000 km en el taller",
+
+[CIFRAS] comparador-motos-exp-m20.ts:636 {'12': 1, '1000': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Mantenimiento cada 12.000 km o una vez por año, primera revisión a los mil kilómetros en tu taller",
+
+[CIFRAS] comparador-motos-exp-m20.ts:707 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Cada 12.000 km o cada año natural, con la primera revisión al alcanzar 1.000 km en taller",
+
+[CIFRAS] comparador-motos-exp-m20.ts:779 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 6.000 km o 12 meses",
+  RAMA: intervaloMantenimiento: "Cada 6.000 km o cada año, lo que llegue antes",
+
+[CIFRAS] comparador-motos-exp-m20.ts:847 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 6.000 km o 12 meses",
+  RAMA: intervaloMantenimiento: "Revisión cada 6.000 km o una vez al año",
+
+[CIFRAS] comparador-motos-exp-m20.ts:915 {'12': 1, '1000': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "La revisión periódica es cada 12.000 km o al año, la primera tras los primeros mil kilómetros",
+
+[CIFRAS] comparador-motos-exp-m20.ts:986 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Cada 12.000 km o transcurrido un año, con la primera revisión cuando sume 1.000 km",
+
+[CIFRAS] comparador-motos-exp-m20.ts:1057 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Programa la revisión anual o cada 12.000 km, empezando por la de 1.000 km en el concesionario",
+
+[PIERDE cadena] comparador-motos-exp-m20.ts:1060 2 1
+  VIVO: "Limpia la cadena con un limpiador específico para cadenas con retenes.",
+  RAMA: "Pasa limpiador específico por toda la cadena y retira la grasa vieja con un trapo limpio.",
+
+[CIFRAS] comparador-motos-exp-m20.ts:1128 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 6.000 km o 12 meses",
+  RAMA: intervaloMantenimiento: "Cada 6.000 km o al cumplir un año",
+
+[CIFRAS] comparador-motos-exp-m20.ts:1196 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 6.000 km o 12 meses",
+  RAMA: intervaloMantenimiento: "Intervalo de 6.000 km o un año completo",
+
+[CIFRAS] comparador-motos-exp-m20.ts:1264 {'12': 1, '1000': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Cada 12.000 km o como máximo una vez al año, con la primera revisión a los mil kilómetros en taller oficial",
+
+[CIFRAS] comparador-motos-exp-m20.ts:1335 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Primera revisión a los 1.000 km y después cada 6.000 km o cada año",
+
+[CIFRAS] comparador-motos-exp-m20.ts:1406 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Toca revisión cada 12.000 km o al año, siendo la primera al llegar a los 1.000 km en el taller oficial",
+
+[PIERDE cadena] comparador-motos-exp-m20.ts:1409 2 1
+  VIVO: "Limpia la cadena con un limpiador específico para cadenas con retenes.",
+  RAMA: "Limpia la cadena frotando con limpiador específico y un trapo para quitar toda la suciedad acumulada.",
+
+[CIFRAS] comparador-motos-exp-m21.ts:149 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 15.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Primera revisión a los 1.000 km; a partir de ahí, cada 15.000 km o cada doce meses.",
+
+[CIFRAS] comparador-motos-exp-m21.ts:220 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 15.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "A los 1.000 km toca la primera revisión; luego, cada 15.000 km o una vez al año.",
+
+[CIFRAS] comparador-motos-exp-m21.ts:291 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Primera a los 1.000 km; después cada 10.000 km o 12 meses",
+  RAMA: intervaloMantenimiento: "La primera es a los 1.000 km; después, revisión cada 10.000 km o cada doce meses.",
+
+[CIFRAS] comparador-motos-exp-m21.ts:362 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 15.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "La primera revisión llega a los 1.000 km; luego, cada 15.000 km o cada año.",
+
+[CIFRAS] comparador-motos-exp-m21.ts:433 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 15.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Primera a los 1.000 km y, después, revisiones cada 15.000 km o anualmente.",
+
+[CIFRAS] comparador-motos-exp-m21.ts:504 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Primera a los 1.000 km; después cada 10.000 km o 12 meses",
+  RAMA: intervaloMantenimiento: "La primera revisión es a los 1.000 km; las siguientes, cada 10.000 km o al año.",
+
+[CIFRAS] comparador-motos-exp-m21.ts:575 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 10.000 km o 12 meses",
+  RAMA: intervaloMantenimiento: "Revisión cada 10.000 km o una vez al año, lo que llegue antes.",
+
+[CIFRAS] comparador-motos-exp-m21.ts:643 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 15.000 km o 12 meses (primera a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "A los 1.000 km, primera revisión; después, cada 15.000 km o doce meses.",
+
+[CIFRAS] comparador-motos-exp-m21.ts:714 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Primera a los 1.000 km; después cada 10.000 km o 12 meses",
+  RAMA: intervaloMantenimiento: "A los 1.000 km la primera; a partir de ahí, cada 10.000 km o cada año.",
+
+[CIFRAS] comparador-motos-exp-m21.ts:786 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 10.000 km o 12 meses",
+  RAMA: intervaloMantenimiento: "Cada 10.000 km o doce meses, lo que ocurra primero, toca revisión.",
+
+[CIFRAS] comparador-motos-exp-m21.ts:854 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 10.000 km o 12 meses",
+  RAMA: intervaloMantenimiento: "Servicio cada 10.000 km o cada año, lo que antes suceda.",
+
+[PIERDE cadena] comparador-motos-exp-m21.ts:858 1 0
+  VIVO: "Sin cadena: la transmisión por cardán no necesita engrase ni tensado.",
+  RAMA: "La transmisión es por cardán, así que no hay nada que engrasar ni tensar.",
+
+[CIFRAS] comparador-motos-exp-m21.ts:922 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 10.000 km o 12 meses",
+  RAMA: intervaloMantenimiento: "Mantenimiento cada 10.000 km o anualmente, lo que llegue primero.",
+
+[CIFRAS] comparador-motos-exp-m21.ts:993 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 10.000 km o 12 meses",
+  RAMA: intervaloMantenimiento: "Cada 10.000 km o al año: ese es el intervalo de revisión.",
+
+[CIFRAS] comparador-motos-exp-m21.ts:1132 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 10.000 km o 12 meses",
+  RAMA: intervaloMantenimiento: "Toca revisión cada 10.000 km o anualmente.",
+
+[CIFRAS] comparador-motos-exp-m21.ts:1200 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 10.000 km o 12 meses",
+  RAMA: intervaloMantenimiento: "El intervalo es de un año o 10.000 km, lo que antes llegue.",
+
+[CIFRAS] comparador-motos-exp-m21.ts:1342 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 10.000 km o 12 meses",
+  RAMA: intervaloMantenimiento: "Revisión: cada 10.000 km o anualmente.",
+
+[CIFRAS] comparador-motos-exp-m24.ts:32 {'1000': 1} {}
+  VIVO: intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  RAMA: intervalo: "Cada 10.000 km o 12 meses, lo que venza antes; control de rodaje a los mil kilómetros",
+
+[PIERDE filtro de aire] comparador-motos-exp-m24.ts:245 1 0
+  VIVO: queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
+  RAMA: queSeCambia: "Además: filtro nuevo de aire, bujías y reglaje de válvulas si toca.",
+
+[CIFRAS] comparador-motos-exp-m24.ts:478 {} {'2': 1}
+  VIVO: "Bicilíndrico de 471 cc con 47 CV: justo en el límite del A2, sin necesidad de limitar",
+  RAMA: "Bicilíndrico de 471 cc con 47 CV: dentro del A2 sin limitar nada de serie, listo para el carnet A2",
+
+[CIFRAS] comparador-motos-exp-m25.ts:56 {} {'675': 1}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "La 675NK pasa por taller cada 12 meses o cada 6.000 km, lo que antes suceda",
+
+[PIERDE filtro de aceite] comparador-motos-exp-m25.ts:461 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
+  RAMA: queSeCambia: "Revisión general + aceite con su filtro, bujía y filtro de aire (según km)",
+
+[PIERDE filtro de aceite] comparador-motos-exp-m25.ts:524 1 0
+  VIVO: queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Aceite 10W-40 + filtro de lubricante + inspección general y aprietes",
+
+[PIERDE filtro de aceite] comparador-motos-exp-m25.ts:592 1 0
+  VIVO: queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Aceite 10W-40 + filtro de lubricante + revisión general y aprietes",
+
+[PIERDE filtro de aceite] comparador-motos-exp-m25.ts:657 1 0
+  VIVO: queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Aceite 10W-40 + filtro de lubricante + control general y reapriete",
+
+[PIERDE filtro de aceite] comparador-motos-exp-m25.ts:852 1 0
+  VIVO: queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Lubricante 10W-40 + filtro de lubricante + inspección general con aprietes",
+
+[CIFRAS] comparador-motos-exp-m25.ts:978 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "6.000 km o un año; rige lo primero que llegue",
+
+[CIFRAS] comparador-motos-exp-m25.ts:1043 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "6.000 km o un año; manda lo primero que llegue",
+
+[CIFRAS] comparador-motos-exp-m25.ts:1108 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "6.000 km o un año; vence lo primero que llegue",
+
+[CIFRAS] comparador-motos-exp-m25.ts:1173 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "6.000 km o un año; impera lo primero que llegue",
+
+[CIFRAS] comparador-motos-exp-m25.ts:1238 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "6.000 km o un año; decide lo primero que llegue",
+
+[CIFRAS] comparador-motos-exp-m25.ts:1303 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "6.000 km o un año; limita lo primero que llegue",
+
+[CIFRAS] comparador-motos-exp-m25.ts:1368 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "6.000 km o un año; marca lo primero que llegue",
+
+[CIFRAS] comparador-motos-exp-m25.ts:1433 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "6.000 km o un año; establece lo primero que llegue",
+
+[PIERDE filtro de aceite] comparador-motos-exp-m25.ts:1437 1 0
+  VIVO: queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "filtro de lubricante + inspección general y aprietes + Aceite 10W40",
+
+[CIFRAS] comparador-motos-exp-m25.ts:1498 {'12': 1} {'1': 1}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "6.000 km o 1 año; rige lo primero que llegue",
+
+[PIERDE filtro de aceite] comparador-motos-exp-m25.ts:1502 1 0
+  VIVO: queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Aceite 10W40 + filtro de lubricante + revisión general y aprietes",
+
+[CIFRAS] comparador-motos-exp-m25.ts:1536 {'1000': 1} {}
+  VIVO: pros: ["En 2025 sigue en 2.690 € según esta ficha: es el argumento de la RKF, una naked con marchas y estética streetfighter sin saltar a los precios de una 125 europea o japonesa", "Sus 13 CV (9,6 kW) la dejan a 2 CV de
+  RAMA: pros: ["En 2025 sigue en 2.690 € según esta ficha: es el argumento de la RKF, una naked con marchas y estética streetfighter sin saltar a los precios de una 125 europea o japonesa", "Sus 13 CV (9,6 kW) la dejan a 2 CV de
+
+[CIFRAS] comparador-motos-exp-m25.ts:1601 {'12': 1} {}
+  VIVO: pros: ["Precio desde 2.490 € en esta ficha 2025: una de las formas más baratas de estrenar una custom de 125 cc con marchas en España.", "Se puede llevar con el carnet A1 y también con el B con más de tres años de experi
+  RAMA: pros: ["Precio desde 2.490 € en esta ficha 2025: una de las vías más económicas de estrenar una custom de 125 cc con marchas en España.", "Se puede llevar con el carnet A1 y también con el B con más de tres años de exper
+
+[CIFRAS] comparador-motos-exp-m25.ts:1868 {'12': 1} {}
+  VIVO: contras: ["No aprovecha el techo del A1: declara 8,1 kW (11 CV) frente a los 11 kW que permite ese carnet, y esa diferencia se paga en autovía, con viento de cara o subiendo un puerto, donde toca bajar de marcha y armars
+  RAMA: contras: ["No aprovecha el techo del A1: declara 8,1 kW (11 CV) frente a los 11 kW que permite ese carnet, y esa diferencia se paga en autovía, con viento de cara o subiendo un puerto, donde toca bajar de marcha y armars
+
+[CIFRAS] comparador-motos-exp-m25.ts:1897 {'12': 1} {}
+  VIVO: intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
+  RAMA: intervalo: "Primera revisión a los 1.000 km; la siguiente llega a los 4.000 km o al año, lo que llegue antes",
+
+[PIERDE filtro de aceite] comparador-motos-exp-m25.ts:2105 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Aceite + filtro de lubricante + inspección general y aprietes",
+
+[PIERDE filtro de aceite] comparador-motos-exp-m25.ts:2172 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Aceite + filtro de lubricante + revisión general y aprietes",
+
+[PIERDE filtro de aceite] comparador-motos-exp-m25.ts:2237 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Aceite + filtro de lubricante + inspección general con aprietes",
+
+[CIFRAS] comparador-motos-exp-m25.ts:2298 {'12': 1} {}
+  VIVO: intervalo: "3.000 km o 12 meses (primera revisión a los 500 km)",
+  RAMA: intervalo: "3.000 km o un año, con primera revisión a los 500 km)",
+
+[PIERDE filtro de aceite] comparador-motos-exp-m25.ts:2302 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Aceite + filtro de lubricante + control general y reapriete",
+
+[CIFRAS] comparador-motos-exp-m25.ts:2363 {'12': 1} {}
+  VIVO: intervalo: "3.000 km o 12 meses (primera revisión a los 500 km)",
+  RAMA: intervalo: "3.000 km o un año; la primera revisión llega a los 500 km)",
+
+[CIFRAS] comparador-motos-exp-m25.ts:2645 {'1000': 1} {}
+  VIVO: mantenimientoDIY: {"aceiteTipo": "El especificado en el manual oficial entregado con la moto; en cada revisión programada toca sustituir aceite y filtro de aceite. No se ha localizado una viscosidad pública verificable p
+  RAMA: mantenimientoDIY: {"aceiteTipo": "El especificado en el manual oficial entregado con la moto; en cada revisión programada toca sustituir aceite y filtro de aceite. No se ha localizado una viscosidad pública verificable p
+
+[AÑADE frenos] comparador-motos-exp-m25.ts:2704 1 2
+  VIVO: queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+  RAMA: queSeCambia: "Inspección general + líquido de frenos + pastillas de freno (según desgaste)",
+
+[PIERDE batería] comparador-motos-exp-m25.ts:2731 3 2
+  VIVO: carga: "Batería extraíble Samsung de 72 V; 4 h por batería; segunda batería opcional (200 km)",
+  RAMA: carga: "Batería Samsung extraíble de 72 V; 4 h por acumulador; segunda batería opcional (200 km)",
+
+[CIFRAS] comparador-motos-exp-m25.ts:2830 {'6': 1} {}
+  VIVO: mantenimientoDIY: {"aceiteTipo": "No aplica: es eléctrica, sin aceite de motor que cambiar; el manual sí marca sustituir el líquido de frenos cada 2 años", "cadenaPasos": ["Comprueba la presión y el desgaste de ambos neu
+  RAMA: mantenimientoDIY: {"aceiteTipo": "No aplica: es eléctrica, sin aceite de motor que cambiar; el manual sí marca sustituir el líquido de frenos cada 2 años", "cadenaPasos": ["Comprueba la presión y el desgaste de ambos neu
+
+[AÑADE frenos] comparador-motos-exp-m25.ts:2877 1 2
+  VIVO: queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+  RAMA: queSeCambia: "Inspección general + líquido de freno + pastillas de freno (según desgaste)",
+
+[CIFRAS] comparador-motos-exp-m25.ts:2937 {'24': 1} {}
+  VIVO: mantenimientoDIY: {"aceiteTipo": "No aplica: es un scooter eléctrico, sin aceite de motor que sustituir ni cadena de transmisión que engrasar", "cadenaPasos": ["Comprobar con regularidad presión, dibujo y posibles cortes
+  RAMA: mantenimientoDIY: {"aceiteTipo": "No aplica: al ser un scooter eléctrico, no hay que renovar aceite de motor ni engrasar cadena de transmisión", "cadenaPasos": ["Comprobar con regularidad presión, dibujo y posibles corte
+
+[AÑADE frenos] comparador-motos-exp-m25.ts:3065 1 2
+  VIVO: queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+  RAMA: queSeCambia: "Inspección general + fluido de frenos + pastillas de freno (según desgaste)",
+
+[CIFRAS] comparador-motos-exp-m25.ts:3137 {'24': 1} {}
+  VIVO: mantenimientoDIY: {"aceiteTipo": "Sin aceite de motor: es eléctrica y no hay lubricante del propulsor que cambiar; el único fluido con renovación programada es el líquido de frenos, cada 12 meses según el manual", "caden
+  RAMA: mantenimientoDIY: {"aceiteTipo": "Sin aceite de motor: es eléctrica y no hay lubricante del propulsor que cambiar; el único fluido con renovación programada es el líquido de frenos, cada 12 meses según el manual", "caden
+
+[CIFRAS] comparador-motos-exp-m25.ts:3269 {'24': 1} {}
+  VIVO: mantenimientoDIY: {"aceiteTipo": "No aplica: motor eléctrico sin aceite de motor ni filtro de aceite que sustituir; tampoco lleva cadena que engrasar, la transmisión final es por correa", "cadenaPasos": ["Con la moto apa
+  RAMA: mantenimientoDIY: {"aceiteTipo": "No aplica: motor eléctrico sin aceite de motor ni filtro de aceite que sustituir; tampoco lleva cadena que engrasar, la transmisión final es por correa", "cadenaPasos": ["Con la moto apa
+
+[PIERDE batería] comparador-motos-exp-m25.ts:3357 1 0
+  VIVO: pros: ["Sus 95 km/h la sacan de la ciudad pura: con el A1, o con el B y tres años de antigüedad, puede enlazar rondas e interurbanos cortos donde un ciclomotor eléctrico se queda corto", "La batería de 72 V y 45 Ah (3,2 
+  RAMA: pros: ["Sus 95 km/h la sacan de la ciudad pura: con el A1, o con el B tras tres años de carnet, puede enlazar rondas e interurbanos cortos donde un ciclomotor eléctrico se queda corto", "El acumulador de 72 V y 45 Ah (3,
+
+[PIERDE batería] comparador-motos-exp-m25.ts:3414 2 1
+  VIVO: carga: "Baterías extraíbles (hasta 2) · ~3,5 h por batería en enchufe doméstico",
+  RAMA: carga: "Baterías extraíbles (hasta 2) · ~3,5 h por acumulador en enchufe doméstico",
+
+[CIFRAS] comparador-motos-exp-m25.ts:3549 {} {'4': 1}
+  VIVO: pros: ["Pantalla TFT a color con dos visualizaciones, Clásica y Racing, y brillo que se ajusta solo según la luz ambiental: un guiño moderno muy poco habitual en una 125 de estética de óvalo de tierra", "Monocilíndrico d
+  RAMA: pros: ["Pantalla TFT a color con dos visualizaciones, Clásica y Racing, y brillo que se ajusta solo según la luz ambiental: un guiño moderno muy poco habitual en una 125 de estética de óvalo de tierra", "Monocilíndrico d
+
+[CIFRAS] comparador-motos-exp-m25.ts:3718 {'24': 1} {}
+  VIVO: mantenimientoDIY: {"aceiteTipo": "No aplica: scooter eléctrico sin aceite de motor, sin bujías ni filtro de aire de combustión y sin cadena que engrasar; el líquido de frenos y las pastillas se revisan y sustituyen solo 
+  RAMA: mantenimientoDIY: {"aceiteTipo": "No aplica: scooter eléctrico sin aceite de motor, sin bujías ni filtro de aire de combustión y sin cadena que engrasar; el líquido de frenos y las pastillas se revisan y sustituyen solo 
+
+[PIERDE neumático] comparador-motos-exp-m25.ts:3718 2 1
+  VIVO: mantenimientoDIY: {"aceiteTipo": "No aplica: scooter eléctrico sin aceite de motor, sin bujías ni filtro de aire de combustión y sin cadena que engrasar; el líquido de frenos y las pastillas se revisan y sustituyen solo 
+  RAMA: mantenimientoDIY: {"aceiteTipo": "No aplica: scooter eléctrico sin aceite de motor, sin bujías ni filtro de aire de combustión y sin cadena que engrasar; el líquido de frenos y las pastillas se revisan y sustituyen solo 
+
+[AÑADE frenos] comparador-motos-exp-m25.ts:3780 1 2
+  VIVO: queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+  RAMA: queSeCambia: "pastillas de freno (según desgaste) + líquido de frenos + Inspección general",
+
+[CIFRAS] comparador-motos-exp-m25.ts:3901 {'500': 1} {}
+  VIVO: intervalo: "10.000 km o 12 meses (primera revisión a los 500 km)",
+  RAMA: intervalo: "El intervalo es de 10.000 kilómetros o 12 meses, lo que antes suceda",
+
+[CIFRAS] comparador-motos-exp-m25.ts:3982 {'24': 1} {}
+  VIVO: mantenimientoDIY: {"aceiteTipo": "Sin aceite de motor y sin cadena: es eléctrica, con el motor integrado en la rueda trasera, por lo que no se le aplican las rutinas de un scooter de gasolina", "cadenaPasos": ["Extrae la
+  RAMA: mantenimientoDIY: {"aceiteTipo": "Sin aceite de motor y sin cadena: es eléctrica, con el motor integrado en la rueda trasera, por lo que no se le aplican las rutinas de un scooter de gasolina", "cadenaPasos": ["Extrae la
+
+[PIERDE neumático] comparador-motos-exp-m25.ts:3982 2 1
+  VIVO: mantenimientoDIY: {"aceiteTipo": "Sin aceite de motor y sin cadena: es eléctrica, con el motor integrado en la rueda trasera, por lo que no se le aplican las rutinas de un scooter de gasolina", "cadenaPasos": ["Extrae la
+  RAMA: mantenimientoDIY: {"aceiteTipo": "Sin aceite de motor y sin cadena: es eléctrica, con el motor integrado en la rueda trasera, por lo que no se le aplican las rutinas de un scooter de gasolina", "cadenaPasos": ["Extrae la
+
+[CIFRAS] comparador-motos-exp-m25.ts:4049 {'12': 1} {'1': 1}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "6.000 km o 1 año; manda lo primero que llegue",
+
+[PIERDE filtro de aceite] comparador-motos-exp-m25.ts:4053 1 0
+  VIVO: queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "filtro de lubricante + inspección general con aprietes + Aceite 10W40",
+
+[PIERDE filtro de aceite] comparador-motos-exp-m25.ts:4137 1 0
+  VIVO: queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Aceite 10W40 + filtro de lubricante + control general y reapriete",
+
+[CIFRAS] comparador-motos-exp-m25.ts:4214 {'12': 1} {'1': 1}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "6.000 km o 1 año; vence lo primero que llegue",
+
+[CIFRAS] comparador-motos-exp-m25.ts:4295 {'12': 1} {'1': 1}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "6.000 km o 1 año; impera lo primero que llegue",
+
+[CIFRAS] comparador-motos-exp-m25.ts:4376 {'12': 1} {}
+  VIVO: intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
+  RAMA: intervalo: "4.000 km o un año; la revisión inicial se hace a los 1.000 km)",
+
+[PIERDE filtro de aceite] comparador-motos-exp-m25.ts:4380 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Lubricante + filtro de lubricante + inspección general y aprietes",
+
+[CIFRAS] comparador-motos-exp-m25.ts:4457 {'12': 1} {}
+  VIVO: intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
+  RAMA: intervalo: "4.000 km o un año, con la primera revisión prevista a los 1.000 km)",
+
+[PIERDE filtro de aceite] comparador-motos-exp-m25.ts:4461 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Lubricante + filtro de lubricante + revisión general y aprietes",
+
+[PIERDE filtro de aceite] comparador-motos-exp-m25.ts:4545 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Lubricante + filtro de lubricante + inspección general con aprietes",
+
+[PIERDE filtro de aceite] comparador-motos-exp-m25.ts:4626 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Lubricante + filtro de lubricante + control general y reapriete",
+
+[AÑADE frenos] comparador-motos-exp-m25.ts:4794 1 2
+  VIVO: queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
+  RAMA: queSeCambia: "pastillas de freno (según desgaste) + fluido de frenos + Inspección general",
+
+[CIFRAS] comparador-motos-exp-m26.ts:32 {'3': 1} {}
+  VIVO: "Electrónica completa: quickshifter, control de tracción, control de crucero y 3 modos de conducción (Sport, Street y Rain)",
+  RAMA: "Paquete electrónico completo: quickshifter, control de crucero, control de tracción y tres programas de conducción (Sport, Street y Rain)",
+
+[CIFRAS] comparador-motos-exp-m26.ts:157 {'12': 1} {}
+  VIVO: intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, lo que ocurra antes",
+  RAMA: intervalo: "Superado el rodaje inicial de 1.000 km, cada 5.000 km le corresponde una revisión, según se alcance primero, el kilometraje o el año",
+
+[CIFRAS] comparador-motos-exp-m26.ts:197 {'5': 1} {}
+  VIVO: "Pantalla TFT a color de 5 pulgadas con sensor crepuscular y conectividad",
+  RAMA: "Pantalla TFT en color de cinco pulgadas con sensor crepuscular y conectividad",
+
+[CIFRAS] comparador-motos-exp-m26.ts:241 {'12': 1} {}
+  VIVO: intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, lo que ocurra antes",
+  RAMA: intervalo: "Una vez pasado el rodaje de 1.000 km, el servicio se programa cada 5.000 km, sin superar el año entre revisiones",
+
+[CIFRAS] comparador-motos-exp-m26.ts:365 {'5': 1} {}
+  VIVO: "Pantalla TFT de 5 pulgadas con conectividad Bluetooth y app CFMoto Ride",
+  RAMA: "Pantalla TFT de cinco pulgadas con Bluetooth y la app CFMoto Ride",
+
+[CIFRAS] comparador-motos-exp-m26.ts:490 {'12': 1} {}
+  VIVO: intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, lo que ocurra antes",
+  RAMA: intervalo: "Con los primeros 1.000 km de rodaje superados, el mantenimiento se programa cada 5.000 km, antes de cumplir el año desde la revisión anterior",
+
+[CIFRAS] comparador-motos-exp-m26.ts:573 {} {'921': 1}
+  VIVO: intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
+  RAMA: intervalo: "Después de 1.000 km de rodaje, la SRK 921 vuelve al taller cada 6.000 km o al cumplir 12 meses, lo que llegue antes, con revisión anual obligatoria",
+
+[PIERDE filtro de aceite] comparador-motos-exp-m26.ts:660 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Cambio de aceite junto con su filtro, revisión general y aprietes",
+
+[CIFRAS] comparador-motos-exp-m26.ts:700 {'6': 1} {}
+  VIVO: "Garantía oficial de 6 años o 75.000 km",
+  RAMA: "Garantía oficial de seis años o 75.000 km",
+
+[PIERDE filtro de aceite] comparador-motos-exp-m26.ts:743 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Aceite nuevo con su filtro, inspección general y control de aprietes",
+
+[CIFRAS] comparador-motos-exp-m26.ts:822 {'12': 1} {}
+  VIVO: intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
+  RAMA: intervalo: "Con el rodaje de 1.000 km ya hecho, el plan marca una revisión cada 6.000 km, con el año como tope entre revisiones, más la revisión anual obligatoria",
+
+[CIFRAS] comparador-motos-exp-m26.ts:988 {'1000': 1, '12': 1} {}
+  VIVO: intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
+  RAMA: intervalo: "Tras el primer millar de kilómetros de rodaje, el mantenimiento se programa cada 6.000 km, y siempre antes de cumplir un año desde la última; la revisión anual es obligatoria",
+
+[CIFRAS] comparador-motos-exp-m26.ts:1002 {'6': 1} {}
+  VIVO: fuente: "Manual del usuario QJMotor (1.000/7.000 km y cada 6.000 km); la garantía de 6 años exige red oficial y recambio original",
+  RAMA: fuente: "Manual del usuario QJMotor: revisiones a 1.000/7.000 km y cada 6.000 km; la garantía de seis años se mantiene con red oficial y repuesto original",
+
+[CIFRAS] comparador-motos-exp-m26.ts:1042 {'4': 1} {}
+  VIVO: "Su motor QJ154MI-4C es un monocilíndrico SOHC de 4 válvulas y refrigeración líquida",
+  RAMA: "Su motor QJ154MI-4C es un monocilíndrico SOHC con cuatro válvulas y refrigeración líquida",
+
+[CIFRAS] comparador-motos-exp-m26.ts:1071 {'12': 1} {}
+  VIVO: intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
+  RAMA: intervalo: "Al cerrar el rodaje de 1.000 km, la moto pasa por el taller cada 6.000 km, y nunca más de un año entre revisiones, además de su revisión anual obligatoria",
+
+[PIERDE filtro de aceite] comparador-motos-exp-m26.ts:1158 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Cambio de aceite con filtro nuevo, inspección general y repaso de los aprietes",
+
+[CIFRAS] comparador-motos-exp-m26.ts:1237 {'12': 1} {}
+  VIVO: intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
+  RAMA: intervalo: "Cumplido el rodaje de 1.000 km, cada 6.000 km corresponde una revisión, con el año como tope entre revisiones; con revisión anual obligatoria en cualquier caso",
+
+[CIFRAS] comparador-motos-exp-m26.ts:1320 {'12': 1} {}
+  VIVO: intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
+  RAMA: intervalo: "Hecho el rodaje de 1.000 km, las visitas al taller se espacian 6.000 km, lo que suceda primero entre kilómetros y año; revisión anual obligatoria en todo caso",
+
+[CIFRAS] comparador-motos-exp-m26.ts:1403 {'12': 1} {}
+  VIVO: intervalo: "1.000 km, luego cada 5.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "Al terminar el rodaje de 1.000 km, la pauta marca una revisión cada 5.000 km, y como mucho un año entre una revisión y la siguiente",
+
+[CIFRAS] comparador-motos-exp-m26.ts:1486 {'12': 1} {}
+  VIVO: intervalo: "1.000 km, luego cada 5.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "Tras rodar los primeros 1.000 km, hay que revisarla cada 5.000 km, sin dejar que pase un año entre revisiones",
+
+[CIFRAS] comparador-motos-exp-m26.ts:1647 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "Cada 6.000 km, con un año como plazo máximo entre visitas al taller",
+
+[CIFRAS] comparador-motos-exp-m26.ts:1722 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "6.000 km o un año entre revisiones, lo que suceda primero",
+
+[CIFRAS] comparador-motos-exp-m26.ts:1797 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "El taller la ve cada 6.000 km, antes de que se cumpla un año desde la anterior",
+
+[PIERDE neumático] comparador-motos-exp-m4.ts:166 1 0
+  VIVO: "Presión de neumáticos: revísala en frío cada dos semanas con el valor del manual",
+  RAMA: "Presión de las ruedas: revísala en frío cada quince días con el valor del manual",
+
+[PIERDE neumático] comparador-motos-exp-m4.ts:244 1 0
+  VIVO: "Presión de neumáticos: revísala en frío cada dos semanas con el valor del manual",
+  RAMA: "Presión de las ruedas: contrólala en frío cada quince días con la cifra del manual",
+
+[CIFRAS] comparador-motos-exp-m4.ts:402 {} {'14': 1}
+  VIVO: "Presión de neumáticos: revísala en frío cada dos semanas con el valor del manual",
+  RAMA: "Presión de neumáticos: revísala en frío cada 14 días con el valor del manual",
+
+[PIERDE neumático] comparador-motos-exp-m4.ts:1224 1 0
+  VIVO: "Presión de neumáticos: revísala en frío; el valor exacto está en el manual",
+  RAMA: "Presión de las ruedas: revísala en frío; la cifra exacta figura en el manual",
+
+[CIFRAS] comparador-motos-exp-m4.ts:1373 {'2': 1} {}
+  VIVO: "Líquido de frenos: sustitución cada 2 años",
+  RAMA: "Líquido de frenos: sustitución cada dos años",
+
+[CIFRAS] comparador-motos-exp-m4.ts:1454 {'2': 1} {'24': 1}
+  VIVO: "Líquido de frenos: sustitución cada 2 años",
+  RAMA: "Líquido de frenos: cambio cada 24 meses",
+
+[PIERDE neumático] comparador-motos-exp-m4.ts:1455 1 0
+  VIVO: "Presión de neumáticos: revísala en frío cada dos semanas",
+  RAMA: "Presión de las cubiertas: compruébala en frío cada dos semanas",
+
+[PIERDE neumático] comparador-motos-exp-m4.ts:1552 1 0
+  VIVO: "Presión de los tres neumáticos: revísala en frío",
+  RAMA: "Presión de los tres ruedas: revísala en frío",
+
+[CIFRAS] comparador-motos-exp-m4.ts:1849 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Primera revisión a los 1.000 km; después cada 10.000 km o 12 meses",
+  RAMA: intervaloMantenimiento: "Primera revisión a los 1.000 km; después cada 10.000 kilómetros o un año",
+
+[CIFRAS] comparador-motos-exp-m4.ts:1853 {'24': 1} {}
+  VIVO: "Líquido de frenos: sustitución cada 24 meses",
+  RAMA: "Líquido de frenos: sustitución cada dos años",
+
+[CIFRAS] comparador-motos-exp-m4.ts:1855 {} {'14': 1}
+  VIVO: "Presión de neumáticos: revísala en frío cada dos semanas",
+  RAMA: "Presión de neumáticos: contrólala en frío cada 14 días",
+
+[CIFRAS] comparador-motos-exp-m4.ts:1924 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Primera revisión a los 1.000 km; después cada 10.000 km o 12 meses",
+  RAMA: intervaloMantenimiento: "Revisión inicial a los 1.000 km; seguidamente cada 10.000 kilómetros o doce meses",
+
+[CIFRAS] comparador-motos-exp-m4.ts:1929 {'2': 1} {}
+  VIVO: "Líquido de frenos DOT 4: sustitución cada 2 años",
+  RAMA: "Líquido para frenos DOT 4: cambio cada dos años",
+
+[PIERDE neumático] comparador-motos-exp-m4.ts:1930 1 0
+  VIVO: "Presión de neumáticos: revísala en frío con el valor del manual",
+  RAMA: "Presión de las cubiertas: compruébala en frío con el valor del manual",
+
+[CIFRAS] comparador-motos-exp-m4.ts:2080 {'2': 1} {}
+  VIVO: "Líquido de frenos: sustitución cada 2 años",
+  RAMA: "Líquido de frenos: sustitución cada dos años (recomendado)",
+
+[CIFRAS] comparador-motos-exp-m4.ts:2081 {} {'14': 1}
+  VIVO: "Presión de neumáticos: revísala en frío cada dos semanas",
+  RAMA: "Presión de las ruedas: compruébala en frío cada 14 días",
+
+[PIERDE neumático] comparador-motos-exp-m4.ts:2081 1 0
+  VIVO: "Presión de neumáticos: revísala en frío cada dos semanas",
+  RAMA: "Presión de las ruedas: compruébala en frío cada 14 días",
+
+[PIERDE neumático] comparador-motos-exp-m4.ts:2156 1 0
+  VIVO: "Presión de neumáticos: revísala en frío cada dos semanas",
+  RAMA: "Presión de las cubiertas: contrólala en frío cada quince días",
+
+[CIFRAS] comparador-motos-exp-m4.ts:2443 {'2': 1} {'24': 1}
+  VIVO: "Líquido de frenos DOT 4: sustitución cada 2 años",
+  RAMA: "Líquido de frenos DOT 4: cambio cada 24 meses",
+
+[PIERDE neumático] comparador-motos-exp-m4.ts:2520 1 0
+  VIVO: "Presión de neumáticos: revísala en frío cada dos semanas",
+  RAMA: "Presión de las cubiertas: revísala en frío cada dos semanas (antes de circular)",
+
+[CIFRAS] comparador-motos-exp-m4.ts:2825 {'2': 1} {'24': 1}
+  VIVO: "Líquido de frenos: sustitución cada 2 años",
+  RAMA: "Líquido de frenos: cambio cada 24 meses (según el manual)",
+
+[CIFRAS] comparador-motos-exp-m4.ts:3129 {'2': 1} {}
+  VIVO: "Líquido de frenos: sustitución cada 2 años o 30.000 km",
+  RAMA: "Líquido de frenos: sustitución cada dos años o 30.000 km",
+
+[CIFRAS] comparador-motos-exp-m4.ts:3211 {'2': 1} {'24': 1}
+  VIVO: "Líquido de frenos: sustitución cada 2 años o 30.000 km",
+  RAMA: "Líquido para frenos: reemplazo cada 24 meses o 30.000 km",
+
+[PIERDE neumático] comparador-motos-exp-m4.ts:3212 1 0
+  VIVO: "Presión de neumáticos: revísala en frío; el valor exacto está en el manual",
+  RAMA: "Presión de las ruedas: revísala en frío; el valor recomendado viene en la documentación",
+
+[CIFRAS] comparador-motos-exp-m4.ts:3615 {} {'14': 1}
+  VIVO: "Presión de neumáticos: revísala en frío cada dos semanas",
+  RAMA: "Presión de neumáticos: compruébala en frío cada 14 días (según el manual)",
+
+[CIFRAS] comparador-motos-exp-m4.ts:3688 {'6': 1} {}
+  VIVO: "Si no llegas a los 5.000 km en 6 meses, cambia el aceite igualmente",
+  RAMA: "Si no llegas a los 5.000 km en cada seis meses, cambia el aceite igualmente",
+
+[PIERDE cadena] comparador-motos-exp-m7.ts:752 1 0
+  VIVO: "Limpia la cadena con un trapo y limpiador específico para retenes.",
+  RAMA: "Limpia la transmisión con un trapo y limpiador específico para retenes.",
+
+[PIERDE filtro de aire] comparador-motos-exp-m7.ts:1155 1 0
+  VIVO: "El filtro de aire se ensucia rápido en polvo: revísalo tras cada ruta.",
+  RAMA: "El elemento de aire se ensucia rápido en polvo: revísalo tras cada ruta.",
+
+[CIFRAS] comparador-motos-exp-m7.ts:1468 {'100000': 1} {}
+  VIVO: "El CP3 es fiable: con mantenimiento al día supera los 100.000 km.",
+  RAMA: "El CP3 es fiable: con el mantenimiento al día, rebasa los cien mil kilómetros.",
+
+[CIFRAS] comparador-motos-exp-m7.ts:1737 {'100000': 1} {}
+  VIVO: "El bicilíndrico de 649 cc es duro: con mantenimiento al día supera los 100.000 km.",
+  RAMA: "El bicilíndrico de 649 cc es duro: con mantenimiento al día supera los cien mil kilómetros.",
+
+[CIFRAS] comparador-motos-exp-m7.ts:2057 {'2': 1} {}
+  VIVO: "Si haces circuito, cambia el aceite cada 2 tandas.",
+  RAMA: "En uso de circuito, cambia el aceite cada dos tandas.",
+
+[CIFRAS] comparador-motos-lote14.ts:71 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "Cada 6.000 km o al cabo de un año, lo primero que se alcance manda",
+
+[PIERDE filtro de aceite] comparador-motos-lote14.ts:75 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Renovación del aceite y de su filtro, revisión general y aprietes comprobados",
+
+[PIERDE válvulas] comparador-motos-lote14.ts:80 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía + reglaje de válvulas (según km)",
+  RAMA: queSeCambia: "Lubricante y filtro de aceite + filtro de aire + bujía",
+
+[PIERDE filtro de aceite] comparador-motos-lote14.ts:151 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Cambio de aceite con filtro nuevo, inspección completa y apriete de tornillería verificado",
+
+[PIERDE filtro de aire] comparador-motos-lote14.ts:156 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
+  RAMA: queSeCambia: "Cambio de aceite, filtros de aceite y aire y bujía nueva",
+
+[PIERDE filtro de aire] comparador-motos-lote14.ts:232 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
+  RAMA: queSeCambia: "Aceite renovado y filtros de aceite y de aire sustituidos, bujía cambiada",
+
+[CIFRAS] comparador-motos-lote14.ts:301 {'1': 2} {}
+  VIVO: intervalo: "1ª revisión a los 1.000 km; siguientes cada 3.000 km o 1 año",
+  RAMA: intervalo: "Tras la revisión de los 1.000 km, las siguientes llegan cada 3.000 km o anualmente",
+
+[PIERDE filtro de aceite] comparador-motos-lote14.ts:305 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Aceite nuevo y filtro sustituido, revisión general de la moto y aprietes controlados",
+
+[PIERDE filtro de aire] comparador-motos-lote14.ts:310 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
+  RAMA: queSeCambia: "Lubricante nuevo con filtros de aceite y de aire y bujía de repuesto",
+
+[PIERDE filtro de aceite] comparador-motos-lote14.ts:382 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Cambio del aceite motor y su filtro, chequeo general y aprietes ajustados",
+
+[PIERDE válvulas] comparador-motos-lote14.ts:387 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+  RAMA: queSeCambia: "Aceite nuevo y filtro de aceite + filtro de aire + bujías",
+
+[PIERDE filtro de aceite] comparador-motos-lote14.ts:458 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Lubricante y filtro renovados, inspección general del vehículo y tornillería apretada",
+
+[CIFRAS] comparador-motos-lote14.ts:531 {'12': 1} {}
+  VIVO: intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "Cada 5.000 km o transcurrido un año, lo que llegue en primer lugar",
+
+[PIERDE filtro de aceite] comparador-motos-lote14.ts:535 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Reposición del aceite y cambio de filtro, revisión completa y aprietes verificados",
+
+[PIERDE filtro de aire] comparador-motos-lote14.ts:540 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
+  RAMA: queSeCambia: "Aceite y filtros cambiados en la revisión periódica, bujía sustituida",
+
+[CIFRAS] comparador-motos-lote14.ts:607 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "Intervalos de 6.000 km o de un año, con el que venza antes como límite",
+
+[PIERDE filtro de aire] comparador-motos-lote14.ts:616 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
+  RAMA: queSeCambia: "Renovación de aceite y filtros, bujía nueva",
+
+[CIFRAS] comparador-motos-lote14.ts:683 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "Cada 6.000 kilómetros o al año cumplido, lo que ocurra en primer lugar",
+
+[PIERDE filtro de aire] comparador-motos-lote14.ts:692 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+  RAMA: queSeCambia: "Aceite y filtros renovados, con bujías nuevas",
+
+[PIERDE válvulas] comparador-motos-lote14.ts:692 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+  RAMA: queSeCambia: "Aceite y filtros renovados, con bujías nuevas",
+
+[CIFRAS] comparador-motos-lote14.ts:760 {'12': 1} {}
+  VIVO: intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "Cada 4.000 km o pasado un año, lo que se cumpla en primer lugar",
+
+[PIERDE filtro de aceite] comparador-motos-lote14.ts:764 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Nuevo aceite con su filtro, revisión general y comprobación de todos los aprietes",
+
+[PIERDE filtro de aceite] comparador-motos-lote14.ts:769 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
+  RAMA: queSeCambia: "Cambio de lubricante, filtro de aire y de aceite y bujía",
+
+[CIFRAS] comparador-motos-lote14.ts:836 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "Al cumplir 6.000 km o al cumplir un año, lo que acontezca antes",
+
+[PIERDE filtro de aceite] comparador-motos-lote14.ts:840 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Cambio de lubricante y filtro, inspección general y repaso de aprietes",
+
+[PIERDE filtro de aire] comparador-motos-lote14.ts:845 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+  RAMA: queSeCambia: "Aceite renovado, filtros de aceite y de aire sustituidos, bujías cambiadas",
+
+[PIERDE válvulas] comparador-motos-lote14.ts:845 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+  RAMA: queSeCambia: "Aceite renovado, filtros de aceite y de aire sustituidos, bujías cambiadas",
+
+[PIERDE filtro de aceite] comparador-motos-lote14.ts:917 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Renovación de aceite motor y filtro, control general y aprietes puestos a punto",
+
+[PIERDE filtro de aire] comparador-motos-lote14.ts:922 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
+  RAMA: queSeCambia: "Aceite sustituido, filtros de aceite y aire nuevos, bujía reemplazada",
+
+[PIERDE filtro de aceite] comparador-motos-lote14.ts:994 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Aceite sustituido y filtro nuevo, revisión general de componentes y aprietes asegurados",
+
+[PIERDE filtro de aire] comparador-motos-lote14.ts:999 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+  RAMA: queSeCambia: "Lubricante nuevo con filtros de aceite y aire, bujías de repuesto",
+
+[PIERDE válvulas] comparador-motos-lote14.ts:999 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+  RAMA: queSeCambia: "Lubricante nuevo con filtros de aceite y aire, bujías de repuesto",
+
+[PIERDE filtro de aire] comparador-motos-lote14.ts:1075 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
+  RAMA: queSeCambia: "Nuevo aceite y filtros y bujía cambiada",
+
+[CIFRAS] comparador-motos-lote14.ts:1142 {'1': 2} {}
+  VIVO: intervalo: "1ª revisión a los 1.000 km; siguientes cada 3.000 km o 1 año",
+  RAMA: intervalo: "El rodaje se revisa a los 1.000 km; luego, cada 3.000 km o cada año",
+
+[PIERDE filtro de aceite] comparador-motos-lote14.ts:1146 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Lubricante nuevo y filtro cambiado, revisión general y aprietes repasados en taller",
+
+[PIERDE filtro de aceite] comparador-motos-lote14.ts:1151 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
+  RAMA: queSeCambia: "Cambio de aceite con sus filtros y bujía de sustitución",
+
+[PIERDE filtro de aire] comparador-motos-lote14.ts:1151 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
+  RAMA: queSeCambia: "Cambio de aceite con sus filtros y bujía de sustitución",
+
+[PIERDE filtro de aceite] comparador-motos-lote14.ts:1227 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+  RAMA: queSeCambia: "Sustitución del aceite, filtros de aire y aceite y bujías",
+
+[PIERDE válvulas] comparador-motos-lote14.ts:1227 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+  RAMA: queSeCambia: "Sustitución del aceite, filtros de aire y aceite y bujías",
+
+[CIFRAS] comparador-motos-lote14.ts:1294 {'12': 1} {}
+  VIVO: intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "Intervalos de 5.000 km o de un año, tomando el que venza antes",
+
+[PIERDE filtro de aceite] comparador-motos-lote14.ts:1298 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Renovación del lubricante con filtro nuevo, inspección general y aprietes comprobados en taller",
+
+[PIERDE filtro de aire] comparador-motos-lote14.ts:1303 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
+  RAMA: queSeCambia: "Lubricante y filtros renovados, bujía nueva",
+
+[CIFRAS] comparador-motos-lote14.ts:1370 {'12': 1} {}
+  VIVO: intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "Intervalos de 4.000 km o de un año, según el que venza antes",
+
+[PIERDE filtro de aceite] comparador-motos-lote14.ts:1374 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Cambio de aceite y de su filtro de motor, revisión general y aprietes verificados uno a uno",
+
+[PIERDE filtro de aceite] comparador-motos-lote14.ts:1379 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
+  RAMA: queSeCambia: "Sustitución del aceite con filtros de aire y aceite, bujía cambiada",
+
+[CIFRAS] comparador-motos-lote14.ts:1446 {'12': 1} {}
+  VIVO: intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "Cada 4.000 kilómetros o una vez al año, lo que ocurra en primer lugar",
+
+[PIERDE filtro de aceite] comparador-motos-lote14.ts:1450 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Sustitución del aceite motor y del filtro, control general de la moto y aprietes ajustados",
+
+[CIFRAS] comparador-motos-lote14.ts:1522 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "Revisión programada a los 6.000 km o al cumplirse el año, lo que se produzca primero",
+
+[PIERDE filtro de aceite] comparador-motos-lote14.ts:1526 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Aceite nuevo con filtro cambiado, inspección general y aprietes revisados por el taller",
+
+[PIERDE filtro de aire] comparador-motos-lote14.ts:1531 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía + correa (según km)",
+  RAMA: queSeCambia: "Cambio de aceite y de los filtros de aceite y aire, bujía de repuesto y correa revisada según el kilometraje",
+
+[CIFRAS] comparador-motos-lote14.ts:1599 {'12': 1} {}
+  VIVO: intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "Al cumplir 4.000 km o al cumplir el año, lo que acontezca antes",
+
+[PIERDE filtro de aceite] comparador-motos-lote14.ts:1603 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Cambio de lubricante y de filtro, revisión general de la moto y aprietes comprobados",
+
+[PIERDE filtro de aire] comparador-motos-lote14.ts:1608 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías",
+  RAMA: queSeCambia: "Cambio de aceite con filtros de aceite y aire y bujías nuevas",
+
+[AÑADE frenos] comparador-motos-lote14.ts:1640 0 1
+  VIVO: "ABS de doble canal y homologación Euro 5",
+  RAMA: "Frenos ABS de doble canal con homologación Euro 5",
+
+[CIFRAS] comparador-motos-lote14.ts:1675 {'12': 1} {}
+  VIVO: intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "Cada 5.000 kilómetros o cada año, lo que ocurra en primer lugar",
+
+[PIERDE filtro de aceite] comparador-motos-lote14.ts:1679 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Lubricante sustituido y filtro renovado, inspección general y aprietes repasados",
+
+[PIERDE filtro de aire] comparador-motos-lote14.ts:1684 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías",
+  RAMA: queSeCambia: "Aceite y filtros renovados, con las bujías sustituidas en la revisión",
+
+[PIERDE filtro de aire] comparador-motos-lote14.ts:1760 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
+  RAMA: queSeCambia: "Aceite nuevo, filtro de aceite y de aire cambiados y bujía sustituida",
+
+[CIFRAS] comparador-motos-lote14.ts:1827 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "Cada 6.000 km recorridos o cada año transcurrido, el plazo que expire antes",
+
+[PIERDE filtro de aire] comparador-motos-lote14.ts:1836 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+  RAMA: queSeCambia: "Aceite y filtros cambiados en el taller, bujías sustituidas",
+
+[PIERDE válvulas] comparador-motos-lote14.ts:1836 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+  RAMA: queSeCambia: "Aceite y filtros cambiados en el taller, bujías sustituidas",
+
+[CIFRAS] comparador-motos-lote14.ts:1903 {'12': 1} {}
+  VIVO: intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "Al cumplir 5.000 km o al llegar el año, lo que acontezca antes",
+
+[PIERDE filtro de aceite] comparador-motos-lote14.ts:1907 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Cambio del lubricante y su filtro, inspección general de la moto y aprietes ajustados",
+
+[PIERDE filtro de aceite] comparador-motos-lote14.ts:1912 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
+  RAMA: queSeCambia: "Renovación del lubricante y los filtros, bujía de cambio",
+
+[PIERDE filtro de aire] comparador-motos-lote14.ts:1912 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
+  RAMA: queSeCambia: "Renovación del lubricante y los filtros, bujía de cambio",
+
+[PIERDE filtro de aceite] comparador-motos-lote15.ts:72 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Aceite nuevo con su filtro, revisión general y control de aprietes",
+
+[CIFRAS] comparador-motos-lote15.ts:158 {} {'4': 1, '15000': 1, '24': 1, '60000': 1}
+  VIVO: fuente: "Intervalos según manual oficial Ducati; costes no publicados — consultar red oficial",
+  RAMA: fuente: "El manual de la Multistrada V4 pide aceite a los 15.000 km o 24 meses y reglaje de válvulas a los 60.000 km; Ducati no difunde precios de revisión y hay que pedirlos en su red oficial",
+
+[AÑADE válvulas] comparador-motos-lote15.ts:158 0 1
+  VIVO: fuente: "Intervalos según manual oficial Ducati; costes no publicados — consultar red oficial",
+  RAMA: fuente: "El manual de la Multistrada V4 pide aceite a los 15.000 km o 24 meses y reglaje de válvulas a los 60.000 km; Ducati no difunde precios de revisión y hay que pedirlos en su red oficial",
+
+[CIFRAS] comparador-motos-lote15.ts:310 {} {'800': 1, '12000': 1}
+  VIVO: fuente: "Intervalos según manual oficial Ducati; costes no publicados — consultar red oficial",
+  RAMA: fuente: "Según el manual Ducati de la Scrambler Icon 800, la revisión llega a los 12.000 km o al año; su coste no lo publica la marca y lo presupuesta su red oficial",
+
+[CIFRAS] comparador-motos-lote15.ts:614 {} {'1390': 1, '15000': 1, '12': 1}
+  VIVO: fuente: "Intervalos según manual oficial KTM; costes no publicados — consultar red oficial",
+  RAMA: fuente: "KTM fija la revisión de la 1390 Super Duke R EVO a los 15.000 km o 12 meses; el precio no está publicado y la red oficial de la marca da el importe",
+
+[CIFRAS] comparador-motos-lote15.ts:690 {} {'1390': 1, '15000': 1, '12': 1}
+  VIVO: fuente: "Intervalos según manual oficial KTM; costes no publicados — consultar red oficial",
+  RAMA: fuente: "El manual de la 1390 Super Adventure S programa la revisión cada 15.000 km o 12 meses; KTM no difunde precios de taller y remite a su red oficial",
+
+[CIFRAS] comparador-motos-lote15.ts:918 {} {'800': 1, '16000': 1, '12': 1}
+  VIVO: fuente: "Intervalos según manual oficial Triumph; costes no publicados — consultar red oficial",
+  RAMA: fuente: "La Tiger Sport 800 se revisa cada 16.000 km o 12 meses según Triumph; el taller no tiene precio publicado y la red oficial lo presupuesta",
+
+[CIFRAS] comparador-motos-lote15.ts:994 {} {'660': 1, '16000': 1, '12': 1}
+  VIVO: fuente: "Intervalos según manual oficial Triumph; costes no publicados — consultar red oficial",
+  RAMA: fuente: "Triumph programa la Daytona 660 para revisión a los 16.000 km o 12 meses; sus concesionarios oficiales dan el presupuesto, sin precio publicado",
+
+[CIFRAS] comparador-motos-lote15.ts:1146 {} {'900': 1, '10000': 1, '12': 1}
+  VIVO: fuente: "Intervalos según manual oficial BMW Motorrad; costes no publicados — consultar red oficial",
+  RAMA: fuente: "BMW Motorrad programa la F 900 GS para revisión a los 10.000 km o 12 meses; facilita el importe su red oficial, sin precio publicado",
+
+[CIFRAS] comparador-motos-lote15.ts:1298 {} {'500': 1, '12000': 1, '12': 1}
+  VIVO: fuente: "Intervalos según manual oficial Honda; costes no publicados — consultar red oficial",
+  RAMA: fuente: "La CL500 se revisa cada 12.000 km o 12 meses conforme al manual Honda; la marca no difunde el coste y sus concesionarios lo presupuestan",
+
+[CIFRAS] comparador-motos-lote15.ts:1450 {} {'700': 1, '10000': 1, '12': 1}
+  VIVO: fuente: "Intervalos según manual oficial Yamaha; costes no publicados — consultar red oficial",
+  RAMA: fuente: "El manual Yamaha de la Ténéré 700 Rally pone la revisión en 10.000 km o 12 meses; Yamaha no difunde el importe y su red oficial lo comunica",
+
+[CIFRAS] comparador-motos-lote15.ts:1602 {} {'500': 1, '12000': 1, '12': 1}
+  VIVO: fuente: "Intervalos según manual oficial Kawasaki; costes no publicados — consultar red oficial",
+  RAMA: fuente: "Kawasaki programa la Ninja 500 SE para revisión a los 12.000 km o 12 meses; su red oficial elabora el presupuesto, sin precio publicado",
+
+[CIFRAS] comparador-motos-lote15.ts:1754 {} {'1200': 1, '16000': 1, '12': 1}
+  VIVO: fuente: "Intervalos según manual oficial Triumph; costes no publicados — consultar red oficial",
+  RAMA: fuente: "El manual Triumph de la Scrambler 1200 XE pone la revisión en 16.000 km o 12 meses; el importe no se publica y se consulta en su red de concesionarios",
+
+[CIFRAS] comparador-motos-lote15.ts:1906 {} {'650': 1, '10000': 1, '12': 1}
+  VIVO: fuente: "Intervalos según manual oficial Royal Enfield; costes no publicados — consultar red oficial",
+  RAMA: fuente: "Según Royal Enfield, la Interceptor 650 pasa revisión cada 10.000 km o 12 meses; la marca no difunde el coste y su red oficial lo presupuesta",
+
+[CIFRAS] comparador-motos-lote16.ts:298 {'5': 1} {}
+  VIVO: "5 años de garantía y seguro del primer año gratis",
+  RAMA: "Cinco años de garantía y seguro del primer año gratis",
+
+[CIFRAS] comparador-motos-lote16.ts:1738 {'47,6': 1} {'47': 1, '6': 1}
+  VIVO: "Motor de 494 cc con 47,6 CV: el máximo permitido para el A2",
+  RAMA: "Motor de 494 cc con 47 coma 6 CV: el máximo permitido para el A2",
+
+[PIERDE filtro de aceite] comparador-motos-lote16.ts:2128 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Aceite nuevo con filtro, inspección general y control de aprietes",
+
+[PIERDE filtro de aceite] comparador-motos-lote16.ts:3407 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Cambio de aceite con filtro nuevo, inspección general y aprietes",
+
+[PIERDE filtro de aceite] comparador-motos-lote16.ts:3639 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Aceite nuevo y filtro, inspección general y aprietes",
+
+[PIERDE filtro de aceite] comparador-motos-lote16.ts:3718 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Cambio de aceite y de filtro, inspección general y aprietes",
+
+[CIFRAS] comparador-motos-lote16.ts:4131 {'12': 1} {}
+  VIVO: intervalo: "800 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "800 km (primera) y cada 8.000 km o un año, lo primero que suceda",
+
+[PIERDE filtro de aceite] comparador-motos-lote16.ts:4216 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Aceite con filtro nuevo, inspección general y repaso de aprietes",
+
+[PIERDE filtro de aceite] comparador-motos-lote16.ts:4297 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Cambio de aceite, filtro, inspección general y revisión de aprietes",
+
+[CIFRAS] comparador-motos-lote16.ts:4575 {'12': 1} {}
+  VIVO: intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "16.000 km o un año, lo que primero suceda",
+
+[PIERDE filtro de aceite] comparador-motos-lote16.ts:4579 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
+  RAMA: queSeCambia: "Sustitución del aceite y el filtro, inspección general y aprietes",
+
+[CIFRAS] comparador-motos-lote16.ts:5364 {'12': 1} {}
+  VIVO: intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "12.000 km o un año, lo que antes ocurra",
+
+[PIERDE filtro de aceite] comparador-motos-lote7.ts:687 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
+  RAMA: queSeCambia: "Aceite y su filtro, más filtro de aire y bujía",
+
+[CIFRAS] comparador-motos-lote7.ts:754 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "Mantenimiento cada 6.000 kilómetros o cada año, lo primero que ocurra",
+
+[PIERDE filtro de aceite] comparador-motos-lote7.ts:763 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
+  RAMA: queSeCambia: "Aceite con su filtro + bujías + filtro de aire (según km)",
+
+[CIFRAS] comparador-motos-lote7.ts:906 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "Revisiones cada 6.000 km o cada año, lo primero que ocurra",
+
+[CIFRAS] comparador-motos-lote7.ts:982 {'12': 1} {}
+  VIVO: intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "Un año o 4.000 km, lo que llegue antes",
+
+[CIFRAS] comparador-motos-lote7.ts:1058 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "Cada 6.000 kilómetros o un año; rige lo primero que venza",
+
+[CIFRAS] comparador-motos-lote7.ts:1521 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "Se revisa cada 6.000 km o cada año, según lo que llegue antes",
+
+[PIERDE neumático] comparador-motos-nuevos-m3.ts:82 1 0
+  VIVO: "Revisa la presión de los neumáticos cada dos semanas: el PCX es sensible a llevarlas bajas.",
+  RAMA: "Controla la presión de las ruedas cada dos semanas: el PCX es sensible a llevarlas bajas.",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:160 {'1000': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "El estreno en el taller coincide con el primer millar de kilómetros; luego, cada 6.000 km o 12 meses, manda lo que se cumpla primero",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:326 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Se revisa cada 6.000 kilómetros o un año, lo que antes venza, tras un primer control a los 1.000 km",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:411 {'12': 1} {'1': 1}
+  VIVO: intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Primera revisión a los 1.000 km; después, cada 6.000 km o 1 año, lo primero que venza",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:420 {'12': 1} {'1': 1}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+  RAMA: intervalo: "El plan marca 6.000 km o 1 año, lo que antes se presente, y abre con una revisión a los 1.000 km",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:661 {'12': 1} {'1': 1}
+  VIVO: intervalo: "10.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+  RAMA: intervalo: "Primera revisión en los 1.000 km iniciales; después, cada 10.000 kilómetros o 1 año, lo primero que venza",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:732 {'1000': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera revisión a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Cada 10.000 km o 12 meses; el estreno en taller llega con el primer millar de kilómetros",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:741 {'12': 1} {}
+  VIVO: intervalo: "10.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+  RAMA: intervalo: "10.000 km o un año (lo que ocurra antes); revisión inicial a los 1.000 km",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:812 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 5.000 km o 12 meses (primera a los 1.000 km, segunda a los 5.000 km)",
+  RAMA: intervaloMantenimiento: "Cada 5.000 km o un año (inicial a los 1.000 km, y segunda a los 5.000 km)",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:821 {'1000': 1} {}
+  VIVO: intervalo: "5.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+  RAMA: intervalo: "5.000 kilómetros o 12 meses (lo antes que se cumpla); revisión inicial al primer millar de kilómetros",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:902 {'1000': 1} {}
+  VIVO: intervalo: "5.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+  RAMA: intervalo: "5.000 km o 12 meses, lo primero que llegue; la revisión inicial cae en el primer millar de kilómetros",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:1134 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Después de la revisión a los 1.000 km, el intervalo queda en 6.000 kilómetros o al año, lo que antes suceda",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:1230 {'12': 1} {}
+  VIVO: intervalo: "4.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+  RAMA: intervalo: "Se programa cada 4.000 km o un año, lo que antes suceda, con el primer control a los 1.000 km",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:1301 {'12': 1, '1000': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 4.000 km o 12 meses (primera revisión a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Cada 4.000 km o un año (revisión inicial al primer millar de kilómetros)",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:1315 {'12': 1} {}
+  VIVO: intervalo: "4.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+  RAMA: intervalo: "El calendario marca cada 4.000 km o al año, lo que antes venza, y la primera revisión queda a los 1.000 km",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:1386 {'12': 1, '1000': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Después de la revisión al primer millar de kilómetros, el intervalo queda en 6.000 km o cada año, lo que antes suceda",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:1400 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+  RAMA: intervalo: "Primera revisión a los 1.000 kilómetros; después, cada 6.000 km o anualmente, lo primero que venza",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:1471 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Con la primera revisión cuando cumple los 1.000 km, el resto llega cada 6.000 km o anualmente, lo que antes venza",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:1485 {'12': 1, '1000': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+  RAMA: intervalo: "6.000 kilómetros o un año (lo primero en cumplirse); revisión inicial al primer millar de kilómetros",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:1556 {'12': 1, '1000': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Primera revisión al primer millar de kilómetros; después, cada 6.000 kilómetros o anualmente, lo primero que venza",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:1570 {'12': 1, '1000': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+  RAMA: intervalo: "6.000 km o al año (lo que ocurra antes); revisión inicial al primer millar de kilómetros",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:1642 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "El taller toca cada 6.000 kilómetros o anualmente, lo que antes venza, con la primera revisión tras los primeros 1.000 km",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:1656 {} {'125': 1}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+  RAMA: intervalo: "Después de la primera revisión a los 1.000 km, el YS125 vuelve al taller cada 6.000 km, sin pasar nunca de 12 meses, lo que antes se cumpla de ambos",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:1727 {'12': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera revisión a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Revisión inicial a los 1.000 kilómetros y, a partir de ahí, cada 10.000 kilómetros o cada año, lo que antes llegue",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:1826 {} {'125': 1}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+  RAMA: intervalo: "El GSX-S125 regresa al taller cada 6.000 km o 12 meses, lo que llegue primero; la primera revisión está programada a los 1.000 km",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:1911 {'12': 1} {}
+  VIVO: intervalo: "4.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+  RAMA: intervalo: "4.000 kilómetros o un año (lo primero que llegue); primera revisión a los 1.000 km",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:1982 {'12': 1, '1000': 1} {}
+  VIVO: intervaloMantenimiento: "Cada 4.000 km o 12 meses (primera revisión a los 1.000 km)",
+  RAMA: intervaloMantenimiento: "Revisión inicial al primer millar de kilómetros y, a partir de ahí, cada 4.000 km o anualmente, lo que antes llegue",
+
+[CIFRAS] comparador-motos-nuevos-m3.ts:1996 {'12': 1} {}
+  VIVO: intervalo: "4.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+  RAMA: intervalo: "4.000 km o un año (lo primero en llegar); primera revisión a los 1.000 km",
+
+[CIFRAS] comparador-motos-nuevos-m4.ts:75 {'12': 1} {}
+  VIVO: intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "cada 12.000 km o cada año, lo que se cumpla primero",
+
+[CIFRAS] comparador-motos-nuevos-m4.ts:239 {'12': 1} {}
+  VIVO: intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "cada 10.000 km o al año, lo que suceda primero",
+
+[CIFRAS] comparador-motos-nuevos-m4.ts:321 {'12': 1} {}
+  VIVO: intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "cada 16.000 km o cada año, lo que suceda primero",
+
+[CIFRAS] comparador-motos-nuevos-m4.ts:403 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "cada 6.000 km o cada año, lo que llegue primero",
+
+[CIFRAS] comparador-motos-nuevos-m4.ts:488 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "cada 6.000 km o al año, lo primero que se cumpla",
+
+[CIFRAS] comparador-motos-nuevos-m4.ts:573 {'12': 1} {}
+  VIVO: intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "cada 12.000 km o al cumplirse el año, lo que suceda primero",
+
+[CIFRAS] comparador-motos-nuevos-m4.ts:658 {'12': 1} {}
+  VIVO: intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "cada 5.000 km o cada año, lo que ocurra antes",
+
+[CIFRAS] comparador-motos-nuevos-m4.ts:743 {'12': 1} {}
+  VIVO: intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "cada 5.000 km o al año, lo antes que suceda",
+
+[CIFRAS] comparador-motos-nuevos-m4.ts:829 {'12': 1} {}
+  VIVO: intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "12.000 km o un año entre revisiones, lo primero que se cumpla",
+
+[PIERDE filtro de aceite] comparador-motos-nuevos-m4.ts:833 1 0
+  VIVO: queSeCambia: "Aceite 10W-30 + filtro de aceite + inspección general (frenos, cadena, neumáticos)",
+  RAMA: queSeCambia: "Cambio de aceite 10W-30 y filtro + inspección general (frenos, cadena, neumáticos)",
+
+[CIFRAS] comparador-motos-nuevos-m4.ts:914 {'12': 1} {}
+  VIVO: intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "6.000 km o un año entre servicios, lo que se cumpla antes",
+
+[PIERDE filtro de aceite] comparador-motos-nuevos-m4.ts:918 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general",
+  RAMA: queSeCambia: "Cambio de aceite con filtro nuevo + revisión general",
+
+[CIFRAS] comparador-motos-nuevos-m4.ts:999 {'12': 1} {}
+  VIVO: intervalo: "7.500 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "cada 7.500 km o cada año, lo antes que suceda",
+
+[CIFRAS] comparador-motos-nuevos-m4.ts:1084 {'12': 1} {}
+  VIVO: intervalo: "7.500 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "cada 7.500 km o al año, lo que llegue primero",
+
+[CIFRAS] comparador-motos-nuevos-m4.ts:1169 {'12': 1} {}
+  VIVO: intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "cada 10.000 km o cada año, lo primero que llegue",
+
+[CIFRAS] comparador-motos-nuevos-m4.ts:1256 {'12': 1} {}
+  VIVO: intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "5.000 km o un año entre servicios, según lo que se cumpla",
+
+[CIFRAS] comparador-motos-nuevos-m4.ts:1341 {'12': 1} {}
+  VIVO: intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "10.000 km o cada año entre servicios, lo primero que se cumpla",
+
+[PIERDE filtro de aceite] comparador-motos-nuevos-m4.ts:1345 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general",
+  RAMA: queSeCambia: "Cambio de aceite y de filtro + revisión general",
+
+[CIFRAS] comparador-motos-nuevos-m4.ts:1512 {'12': 1} {}
+  VIVO: intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "cada 16.000 km o al año, lo que ocurra primero",
+
+[PIERDE filtro de aceite] comparador-motos-nuevos-m4.ts:1516 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general",
+  RAMA: queSeCambia: "Sustitución del aceite y del filtro + revisión general",
+
+[PIERDE filtro de aceite] comparador-motos-nuevos-m4.ts:1941 1 0
+  VIVO: queSeCambia: "Aceite + filtro de aceite + inspección general",
+  RAMA: queSeCambia: "Renovación del aceite y del filtro + revisión general",
+
+[AÑADE frenos] comparador-motos-nuevos-m7.ts:102 0 1
+  VIVO: queSeCambia: "Pastillas y neumaticos segun desgaste",
+  RAMA: queSeCambia: "Pastillas de freno, con neumaticos, según el desgaste",
+
+[AÑADE frenos] comparador-motos-nuevos-m7.ts:272 0 1
+  VIVO: queSeCambia: "Pastillas y neumaticos 110/80-14 y 120/70-14 segun desgaste",
+  RAMA: queSeCambia: "Pastillas de freno y gomas 110/80-14 y 120/70-14, según el desgaste",
+
+[CIFRAS] comparador-motos-nuevos-m7.ts:1296 {'10': 1} {}
+  VIVO: intervalo: "Sin programa publicado por Linhai Espana (consultado 11/10/2026); se recomienda inspection anual",
+  RAMA: intervalo: "Linhai Espana no ha publicado programa; conviene pasar inspection anual, según lo consultado el 11 de octubre de 2026",
+
+[AÑADE frenos] comparador-motos-nuevos-m7.ts:1565 0 1
+  VIVO: queSeCambia: "Pastillas y neumaticos 110/70-16 y 120/70-14 segun desgaste",
+  RAMA: queSeCambia: "Pastillas de freno y neumaticos 110/70-16 y 120/70-14 segun desgaste",
+
+[CIFRAS] comparador-motos-nuevos-m7.ts:6084 {'12': 1} {}
+  VIVO: intervalo: "16.000 km o 12 meses (lo que ocurra antes), según plan oficial Triumph",
+  RAMA: intervalo: "16.000 km entre revisiones o un año, lo que antes ocurra, según el plan oficial Triumph",
+
+[CIFRAS] comparador-motos-nuevos-m7.ts:6169 {'12': 1} {}
+  VIVO: intervalo: "16.000 km o 12 meses (lo que ocurra antes), según plan oficial Triumph",
+  RAMA: intervalo: "Cada 16.000 km o al cabo de un año, lo que llegue antes, según el plan de Triumph",
+
+[CIFRAS] comparador-motos-nuevos-m7.ts:6254 {'12': 1} {}
+  VIVO: intervalo: "16.000 km o 12 meses (lo que ocurra antes), según plan oficial Triumph",
+  RAMA: intervalo: "Según plan oficial Triumph: intervalo de 16.000 km o un año, lo que ocurra primero",
+
+[CIFRAS] comparador-motos-nuevos-m7.ts:6584 {'12': 1} {}
+  VIVO: intervalo: "16.000 km o 12 meses (lo que ocurra antes), según plan oficial Triumph",
+  RAMA: intervalo: "16.000 km o doce meses, lo que antes llegue, según el plan oficial de Triumph",
+
+[CIFRAS] comparador-motos-nuevos-m7.ts:6751 {'12': 1} {}
+  VIVO: intervalo: "12.000 km o 12 meses (lo que ocurra antes), según manual oficial Honda",
+  RAMA: intervalo: "Cada 12.000 km o al año, lo que antes suceda, según el manual de Honda",
+
+[CIFRAS] comparador-motos-nuevos-m7.ts:6836 {'12': 1} {}
+  VIVO: intervalo: "12.000 km o 12 meses (lo que ocurra antes), según manual oficial Honda",
+  RAMA: intervalo: "Intervalo de 12.000 km o un año, lo que llegue primero, según el manual oficial de Honda",
+
+[CIFRAS] comparador-motos-prioridad-20261014.ts:1201 {'12': 1} {}
+  VIVO: planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Según la ficha oficial BRP de la Origin, su guardacadena cerrado protege la cadena silenciosa y un tensor automático mantiene la tensión sin ajustes periódicos; 
+  RAMA: planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Según la ficha oficial BRP de la Origin, su guardacadena cerrado protege la cadena silenciosa y un tensor automático mantiene la tensión sin ajustes periódicos; 
+
+[CIFRAS] comparador-motos-prioridad-20261014.ts:1241 {'12': 1} {}
+  VIVO: intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+  RAMA: intervalo: "un año o 10.000 kilómetros (lo que llegue antes)",
+
+[CIFRAS] comparador-motos-prioridad-20261014.ts:1285 {'12': 1} {}
+  VIVO: planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Mantenimiento orientativo para la CFMOTO 300NK 2026; sin coste publicado por ausencia de tarifa oficial localizada para este modelo en España", "intervalo": "12 
+  RAMA: planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Mantenimiento orientativo para la CFMOTO 300NK 2026; sin coste publicado por ausencia de tarifa oficial localizada para este modelo en España", "intervalo": "doc
+
+[CIFRAS] comparador-motos-prioridad-20261014.ts:1361 {'12': 1} {}
+  VIVO: planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario 400NK/650NK consultado en Scribd para la especificación de aceite y los datos del motor (45 kW a 8.750 rpm y 56 Nm a 7.000 rpm); el interv
+  RAMA: planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario 400NK/650NK consultado en Scribd para la especificación de aceite y los datos del motor (45 kW a 8.750 rpm y 56 Nm a 7.000 rpm); el interv
+
+[CIFRAS] comparador-motos-prioridad-20261014.ts:1399 {'12': 1} {}
+  VIVO: planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario de la CFMoto 675SR (cfmotoitaly.it, tabla de rodaje: aceite y filtro a los 1.000 km) y guía de mantenimiento específica de la 675SR-R de m
+  RAMA: planMantenimiento: {"costeAnualAproxEur": null, "fuente": "El manual del propietario de la CFMoto 675SR (cfmotoitaly.it, tabla de rodaje: aceite y filtro a los 1.000 km) y guía de mantenimiento específica de la 675SR-R d
+
+[CIFRAS] comparador-motos-prioridad-20261014.ts:1443 {'6': 1} {}
+  VIVO: fuente: "Mantenimiento orientativo (modelo similar gama CFMoto / 450MT, misma marca): control de rodaje a los 1.000 km y después cada 6 meses o 5.000 km, lo que ocurra…",
+  RAMA: fuente: "Mantenimiento orientativo (modelo similar gama CFMoto / 450MT, misma marca): control de rodaje a los 1.000 km y después cada medio año o 5.000 km, lo que ocurra…",
+
+[CIFRAS] comparador-motos-prioridad-20261014.ts:1484 {'12': 1} {}
+  VIVO: intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+  RAMA: intervalo: "15.000 kilómetros o un año (lo que llegue antes)",
+
+[CIFRAS] comparador-motos-prioridad-20261014.ts:1691 {'12': 1} {}
+  VIVO: planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual de usuario Ducati Panigale V4 (2024) y mantenimiento oficial Ducati: Oil Service cada 12.000 km, Desmo Service cada 24.000 km y servicio anual cada 12 mes
+  RAMA: planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual de usuario Ducati Panigale V4 (2024) y mantenimiento oficial Ducati: Oil Service cada 12.000 km, Desmo Service cada 24.000 km y servicio anual cada 12 mes
+
+[PIERDE válvulas] comparador-motos-prioridad-20261014.ts:1729 2 1
+  VIVO: planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Ducati, página oficial de mantenimiento (ducati.com/es/es/servicio-de-mantenimiento/mantenimiento): Oil Service espaciado a 12.000 km y Desmo Service a 24.000 km
+  RAMA: planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Ducati, página oficial de mantenimiento (ducati.com/es/es/servicio-de-mantenimiento/mantenimiento): Oil Service espaciado a 12.000 km y Desmo Service a 24.000 km
+
+[CIFRAS] comparador-motos-prioridad-20261014.ts:1858 {'12': 1} {}
+  VIVO: intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+  RAMA: intervalo: "un año o 10.000 km (lo que ocurra primero)",
+
+[CIFRAS] coche-25.ts:21 {'7,7': 1} {'7': 2}
+  VIVO: "volvo-xc90-b5-2025-precio-ficha-tecnica": `El XC90 B5 es el guardián de la esencia clásica del gran SUV sueco: siete plazas, 680 litros de maletero y una mecánica de hibridación ligera que prima la sencillez. Sus 250 CV
+  RAMA: "volvo-xc90-b5-2025-precio-ficha-tecnica": `El XC90 B5 es el guardián de la esencia clásica del gran SUV sueco: siete plazas, 680 litros de maletero y una mecánica de hibridación ligera que prima la sencillez. Sus 250 CV
+
+[CIFRAS] coche-25.ts:31 {'5,4': 1} {'5': 1, '4': 1}
+  VIVO: "volvo-xc90-t8-2025-precio-ficha-tecnica": `El XC90 T8 es la demostración de que un siete plazas familiar también puede ser prestacional y llevar la etiqueta CERO: 455 CV, 709 Nm de par y un 0 a 100 km/h en 5,4 segundos 
+  RAMA: "volvo-xc90-t8-2025-precio-ficha-tecnica": `El XC90 T8 es la demostración de que un siete plazas familiar también puede ser prestacional y llevar la etiqueta CERO: 455 CV, 709 Nm de par motor y un 0 a 100 km/h en 5 segun
+
+[PIERDE batería] coche-25.ts:63 1 0
+  VIVO: Dinámicamente no se queda atrás: acelera de 0 a 100 km/h en 5,9 segundos pese a sus 2.692 kg, alcanza 200 km/h y carga en continua a 113 kW. El consumo de 20 kWh/100 km es coherente con su tamaño (5.315 mm) y su planteam
+  RAMA: Dinámicamente no se queda atrás: ofrece un sprint: 0 a 100 km/h en 5,9 segundos pese a sus 2.692 kg, alcanza 200 km/h y carga en continua a 113 kW. El consumo de 20 kWh/100 km es coherente con su tamaño (5.315 mm) y su p
+
+[CIFRAS] coche-25.ts:76 {'3,8': 1} {'3': 1, '8': 1}
+  VIVO: "voyah-passion-2024-precio-ficha-tecnica": `Con el Passion, Voyah demuestra que las berlinas deportivas eléctricas no tienen por qué costar seis cifras: 510 CV, 730 Nm y un 0 a 100 km/h en 3,8 segundos por 41.977 euros. 
+  RAMA: "voyah-passion-2024-precio-ficha-tecnica": `Con el Passion, Voyah demuestra que las berlinas deportivas eléctricas no tienen por qué costar seis cifras: 510 CV, 730 Nm, que cubre un 0 a 100 km/h en 3 segundos y 8 décimas
+
+[CIFRAS] coche-25.ts:86 {'0': 1} {}
+  VIVO: "voyah-passion-s-2026-precio-ficha-tecnica": `El Passion S es la berlina eficiente de la familia: 402 CV y 390 Nm con tracción trasera, unos 630 km de autonomía y un precio de 29.887 euros que lo convierte en una de las 
+  RAMA: "voyah-passion-s-2026-precio-ficha-tecnica": `El Passion S es la berlina eficiente de la familia: 402 CV y 390 Nm con tracción trasera, unos 630 km de autonomía y un precio de 29.887 euros que lo sitúa entre las berlinas
+
+[CIFRAS] coche-25.ts:93 {'0': 1} {}
+  VIVO: Con 5.230 mm de largo, 2.760 kg de peso y tracción total, es un vehículo imponente que acelera de 0 a 100 km/h en 5,2 segundos, un registro notable para su envergadura. La etiqueta sería la CERO aproximada y el formato d
+  RAMA: Con 5.230 mm de largo, 2.760 kg de peso y tracción total, es un vehículo imponente que firma un sprint hasta los 100 km/h en 5,2 segundos, un registro notable para su envergadura. La etiqueta sería la CERO aproximada y e
+
+[CIFRAS] coche-25.ts:111 {'5,7': 1} {'7': 1, '5': 1}
+  VIVO: "wey-gaoshan-7-2025-precio-ficha-tecnica": `El Wey Gaoshan 7 recupera el formato monovolumen de siete plazas con argumentos modernos: 452 CV, 644 Nm y unos 172 km de autonomía eléctrica con una batería de 44,28 kWh, por 
+  RAMA: "wey-gaoshan-7-2025-precio-ficha-tecnica": `El Wey Gaoshan 7 recupera el formato monovolumen de siete plazas con argumentos modernos: 452 CV, 644 Nm y unos 172 km de autonomía eléctrica gracias a un acumulador de 44,28 k
+
+[PIERDE batería] coche-25.ts:111 1 0
+  VIVO: "wey-gaoshan-7-2025-precio-ficha-tecnica": `El Wey Gaoshan 7 recupera el formato monovolumen de siete plazas con argumentos modernos: 452 CV, 644 Nm y unos 172 km de autonomía eléctrica con una batería de 44,28 kWh, por 
+  RAMA: "wey-gaoshan-7-2025-precio-ficha-tecnica": `El Wey Gaoshan 7 recupera el formato monovolumen de siete plazas con argumentos modernos: 452 CV, 644 Nm y unos 172 km de autonomía eléctrica gracias a un acumulador de 44,28 k
+
+[CIFRAS] coche-25.ts:121 {'0': 1} {}
+  VIVO: "wey-gaoshan-9-2025-precio-ficha-tecnica": `En lo alto de la gama de monovolúmenes de Wey se sitúa el Gaoshan 9: unos 46.000 euros por 487 CV, 762 Nm y una batería de 51,55 kWh, con seis plazas en lugar de siete y 5.410 
+  RAMA: "wey-gaoshan-9-2025-precio-ficha-tecnica": `En lo alto de la gama de monovolúmenes de Wey se sitúa el Gaoshan 9: unos 46.000 euros por 487 CV, 762 Nm y una batería de 51,55 kWh, con seis plazas en lugar de siete y 5.410 
+
+[CIFRAS] coche-25.ts:126 {'4,5': 1} {'4': 1}
+  VIVO: "wey-v8x-2026-precio-ficha-tecnica": `El Wey V8X de 2026 plantea una de las relaciones potencia/precio más agresivas del mercado: unos 31.170 euros por 670 CV y 930 Nm, con tracción total y un 0 a 100 km/h en 4,5 segundo
+  RAMA: "wey-v8x-2026-precio-ficha-tecnica": `El Wey V8X de 2026 plantea una de las relaciones potencia/precio más agresivas del mercado: unos 31.170 euros por 670 CV y 930 Nm, con tracción total y una aceleración de 0 a 100 km/
+
+[CIFRAS] coche-25.ts:136 {'2,9': 1} {'2': 1, '9': 1}
+  VIVO: "wiesmann-project-thunderball-2025-precio-ficha-tecnica": `El Wiesmann Project Thunderball es una rareza deliciosa: un roadster biplaza artesanal alemán, eléctrico, con 680 CV, 1.100 Nm y un 0 a 100 km/h en 2,9 segundos,
+  RAMA: "wiesmann-project-thunderball-2025-precio-ficha-tecnica": `El Wiesmann Project Thunderball es una rareza deliciosa: un roadster biplaza artesanal alemán, eléctrico, con 680 CV, 1.100 Nm que registra un 0 a 100 km/h en 2 
+
+[PIERDE batería] coche-25.ts:173 1 0
+  VIVO: Es probablemente el siete plazas electrificado más barato del mercado, con tracción delantera y un planteamiento puramente familiar. La ficha no publica la potencia, el maletero, el peso ni la garantía de la batería, dat
+  RAMA: Es probablemente el siete plazas electrificado más barato del mercado, con tracción delantera y un planteamiento puramente familiar. La ficha no publica la potencia, el maletero, el peso ni la garantía del acumulador, da
+
+[CIFRAS] coche-25.ts:186 {'0': 1} {}
+  VIVO: "wuling-starlight-s-2024-precio-ficha-tecnica": `El Starlight S lleva la hibridación enchufable al formato SUV: unos 204 CV, 310 Nm y 130 km de autonomía eléctrica con una batería de 20,5 kWh, por 12.974 euros. Con 4.745
+  RAMA: "wuling-starlight-s-2024-precio-ficha-tecnica": `El Starlight S lleva la hibridación enchufable al formato SUV: unos 204 CV, 310 Nm y 130 km de autonomía eléctrica a partir de una batería de 20,5 kWh, por 12.974 euros. C
+
+[PIERDE batería] coche-25.ts:218 1 0
+  VIVO: El 0 a 100 km/h en 5,9 segundos resulta sorprendente para un siete plazas, y la etiqueta CERO con la garantía de batería de 8 años o 160.000 km (mínimo 70 %) completan una ficha muy competitiva. Siete plazas eléctricas c
+  RAMA: Sus 5,9 segundos de 0 a 100 km/h resultan sorprendentes para un siete plazas; la etiqueta CERO y una garantía del acumulador de 8 años o 160.000 kilómetros, con el 70 % mínimo garantizado, completan una ficha muy competi
+
+[PIERDE batería] coche-25.ts:238 2 1
+  VIVO: Con la batería de 101,7 kWh, tracción total, unos 2.205 kg y maletero de unos 598 litros, es una berlina de cinco plazas sin complejos, con etiqueta CERO y garantía de batería de 8 años o 160.000 km (mínimo 70 %). La car
+  RAMA: Con la batería de 101,7 kWh, tracción total, unos 2.205 kg y maletero de unos 598 litros, es una berlina de cinco plazas sin complejos, con etiqueta CERO y garantía del acumulador durante 8 años o 160.000 km (mínimo 70 %
+
+[CIFRAS] coche-25.ts:243 {} {'8': 1}
+  VIVO: Esos 902 km aproximados cambian la experiencia de uso: viajes Madrid-Barcelona sin parar a cargar, o dos semanas de commuting urbano con una sola carga. La etiqueta CERO, las cinco plazas y la garantía de batería de 8 añ
+  RAMA: Esos 902 km aproximados cambian la experiencia de uso: viajes Madrid-Barcelona sin parar a cargar, o dos semanas de commuting urbano con una sola carga. La etiqueta CERO, las cinco plazas y la garantía de batería de 8 añ
+
+[CIFRAS] coche-25.ts:261 {'0': 1} {}
+  VIVO: "xiaomi-yu7-max-2025-precio-ficha-tecnica": `El YU7 Max es el SUV prestacional de Xiaomi: 690 CV, 866 Nm y un 0 a 100 km/h en 3,23 segundos con 253 km/h de punta, por 42.900 euros. La batería de 101,7 kWh declara unos 76
+  RAMA: "xiaomi-yu7-max-2025-precio-ficha-tecnica": `El YU7 Max es el SUV prestacional de Xiaomi: 690 CV, 866 Nm, con una aceleración hasta los 100 km/h en 3,23 segundos con 253 km/h de punta, por 42.900 euros. La batería de 101
+
+[CIFRAS] coche-25.ts:266 {'0': 1} {}
+  VIVO: "xiaomi-yu7-pro-2025-precio-ficha-tecnica": `El YU7 Pro ocupa el punto medio de la gama SUV: 496 CV con tracción total, unos 770 km de autonomía y una batería de 96,3 kWh, por 36.400 euros. El 0 a 100 km/h en 4,27 segund
+  RAMA: "xiaomi-yu7-pro-2025-precio-ficha-tecnica": `El YU7 Pro ocupa el punto medio de la gama SUV: 496 CV con tracción total, unos 770 km de autonomía y una batería de 96,3 kWh, por 36.400 euros. Su aceleración hasta los 100 k
+
+[CIFRAS] coche-25.ts:273 {'8': 1} {}
+  VIVO: El maletero de 678 litros, las cinco plazas y los 4.999 mm lo sitúan entre los SUV grandes, y la etiqueta CERO con la garantía de batería de 8 años o 160.000 km (mínimo 70 %) lo preparan para el mercado europeo. El preci
+  RAMA: El maletero de 678 litros, las cinco plazas y los 4.999 mm lo sitúan entre los SUV grandes, y la etiqueta CERO con la batería asegurada durante ocho años o 160.000 km (mínimo 70 %) lo preparan para el mercado europeo. El
+
+[PIERDE batería] coche-25.ts:283 1 0
+  VIVO: El 0 a 100 km/h en 6,9 segundos, los 202 km/h de punta y los 2.065 kg dibujan un SUV de comportamiento sereno, con maletero de 571 litros, tracción trasera y etiqueta CERO. La garantía de batería de 8 años o 160.000 km s
+  RAMA: Su crono de 0 a 100 km/h en 6,9 segundos, los 202 km/h de punta y los 2.065 kg dibujan un SUV de comportamiento sereno, con maletero de 571 litros, tracción trasera y etiqueta CERO. El acumulador mantiene su cobertura de
+
+[CIFRAS] coche-25.ts:293 {'0': 1, '6,4': 1} {'6,40': 1}
+  VIVO: El 0 a 100 km/h en 6,4 segundos y los 200 km/h de punta, con tracción trasera, ofrecen un comportamiento digno sin buscar el récord. La etiqueta CERO y la garantía de batería de 8 años o 160.000 km completan una propuest
+  RAMA: Su paso hasta los 100 km/h en 6,40 segundos y los 200 km/h de punta, con tracción trasera, ofrecen un comportamiento digno sin buscar el récord. La etiqueta CERO y la batería con garantía de 8 años o 160.000 km redondean
+
+[CIFRAS] coche-25.ts:301 {'0': 1} {}
+  VIVO: "xpeng-mona-m03-2025-precio-ficha-tecnica": `El Mona M03 es el eléctrico eficiente de XPeng: 218 CV, 250 Nm y unos 620 km de autonomía con una batería de solo 62,2 kWh, gracias a un consumo extraordinario de 11,5 kWh/100
+  RAMA: "xpeng-mona-m03-2025-precio-ficha-tecnica": `El Mona M03 es el eléctrico eficiente de XPeng: 218 CV, 250 Nm y unos 620 km de autonomía con una batería de apenas 62,2 kWh, gracias a un consumo extraordinario de 11,5 kWh/1
+
+[CIFRAS] coche-25.ts:313 {'0': 1} {}
+  VIVO: Con 5.056 mm, maletero de 573 litros y 1.967 kg, es una berlina grande y habitable, con un 0 a 100 km/h en 6,9 segundos, 200 km/h de punta y tracción trasera. El consumo de 15,2 kWh/100 km es bueno para su tamaño, y la e
+  RAMA: Con 5.056 mm, maletero de 573 litros y 1.967 kg, es una berlina grande y habitable, y un despegue hasta los 100 km/h en 6,9 segundos, 200 km/h de punta y tracción trasera. El gasto de 15,2 kWh/100 km es bueno para su tam
+
+[CIFRAS] coche-25.ts:331 {} {'0': 1, '100': 1}
+  VIVO: "yangwang-byd-u8-u9-europa-2027": `La ficha que anticipa la llegada a Europa del Yangwang U8 en 2027 dibuja un todoterreno fuera de lo común: 1.197 CV, 1.280 Nm y un 0 a 100 km/h en 3,6 segundos pese a sus aproximadament
+  RAMA: "yangwang-byd-u8-u9-europa-2027": `La ficha que anticipa la llegada a Europa del Yangwang U8 en 2027 dibuja un todoterreno fuera de lo común: 1.197 CV, 1.280 Nm y un 0 a 100 km de infarto. Su 0 a 100 km/h en 3,6 segundos
+
+[CIFRAS] coche-25.ts:351 {'3,6': 1} {'3': 1, '6': 1}
+  VIVO: "yangwang-u8l-2025-precio-ficha-tecnica": `El U8L es la versión alargada y más lujosa del todoterreno insignia: 1.180 CV, 1.280 Nm y seis plazas, por 166.400 euros. La batería de unos 55,5 kWh declara unos 200 km de auto
+  RAMA: "yangwang-u8l-2025-precio-ficha-tecnica": `El U8L es la versión alargada y más lujosa del todoterreno insignia: 1.180 CV, 1.280 Nm y seis plazas, por 166.400 euros. La batería de unos 55,5 kWh declara unos 200 km de auto
+
+[CIFRAS] coche-25.ts:376 {'0': 1, '6,8': 1} {'6': 1, '8': 1}
+  VIVO: "voyah-courage-2026-precio-ficha-tecnica": `El Courage 2026 es la actualización profunda que el SUV de Voyah pedía para medirse con los premium europeos: estrena arquitectura de 800 voltios y una batería LFP de 81 kWh co
+  RAMA: "voyah-courage-2026-precio-ficha-tecnica": `El Courage 2026 es la actualización profunda que el SUV de Voyah pedía para medirse con los premium europeos: estrena arquitectura de 800 voltios y una batería LFP de 81 kWh co
+
+[CIFRAS] coche-25.ts:441 {'4,1': 1} {'4': 1, '1': 1}
+  VIVO: "xpeng-g6-awd-performance-2026": `El G6 AWD Performance 2026 es el todocamino de XPeng sin filtros: dos propulsores que suman 487 caballos y 660 Nm, un 0 a 100 km/h en 4,1 segundos y una batería de 80,8 kWh con la que de
+  RAMA: "xpeng-g6-awd-performance-2026": `El G6 AWD Performance 2026 es el todocamino de XPeng sin filtros: dos propulsores que suman 487 caballos y 660 Nm, además de un 0 a 100 km/h de 4 segundos y 1 décima y una batería de 80,
+
+[CIFRAS] coche-25.ts:456 {'6,8': 1} {'6': 1, '8': 1}
+  VIVO: "xpeng-l03-2026-precio-espana": `El L03 PowerX juega en una liga propia dentro de XPeng: es un SUV de autonomía extendida (EREV) de 4.650 mm que combina 242 CV de tracción trasera y un 0 a 100 km/h en 6,8 segundos con un
+  RAMA: "xpeng-l03-2026-precio-espana": `El L03 PowerX juega en una liga propia dentro de XPeng: es un SUV de autonomía extendida (EREV) de 4.650 mm que combina 242 CV de tracción trasera y 6 segundos y 8 décimas de 0 a 100 km/h
