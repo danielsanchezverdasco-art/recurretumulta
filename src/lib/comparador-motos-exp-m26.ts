@@ -29,7 +29,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "94 CV y 79 Nm con solo 186 kg: la naked media más afilada por 7.495 €",
       "Dos versiones (Sport 7.495 € y Advance 8.195 €): la Advance añade pantalla táctil vertical de 8 pulgadas con Apple CarPlay, arranque por proximidad y amortiguador de dirección",
       "Parte ciclo seria: horquilla KYB de 43 mm totalmente regulable y frenos J.Juan con ABS de Bosch",
-      "Paquete electrónico completo: quickshifter, control de crucero, control de tracción y tres programas de conducción (Sport, Street y Rain)",
+      "Electrónica completa: quickshifter, control de tracción, control de crucero y 3 modos de conducción (Sport, Street y Rain)",
       "Limitable para el carnet A2 y con 3 años de garantía oficial",
       "Diseño premiado con el Red Dot Award 2024",
     ],
@@ -71,7 +71,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, según lo primero que se cumpla",
+      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -111,7 +111,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     aprox: ["velocidadMax"],
     pros: [
       "27,5 CV con solo 151 kg: de las naked A2 más ágiles en ciudad",
-      "Frenos J.Juan con ABS Continental de dos canales y horquilla invertida incluida de serie",
+      "Frenos J.Juan con ABS Continental de doble canal y horquilla invertida de serie",
       "Dos modos de conducción (Eco y Sport) y embrague antirrebote",
       "4.195 €: una de las naked A2 mejor equipadas por ese precio",
       "Inyección Bosch y bajo consumo: barata de comprar y de mantener",
@@ -154,7 +154,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Superado el rodaje inicial de 1.000 km, cada 5.000 km le corresponde una revisión, según se alcance primero, el kilometraje o el año",
+      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -194,7 +194,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     aprox: [],
     pros: [
       "27,5 CV y 25 Nm con solo 151 kg: la 300 más ligera del segmento A2",
-      "Pantalla TFT en color de cinco pulgadas con sensor crepuscular y conectividad",
+      "Pantalla TFT a color de 5 pulgadas con sensor crepuscular y conectividad",
       "ABS Continental de doble canal y embrague antirrebote de serie",
       "Dos modos de conducción (Eco y Sport) e iluminación full LED",
       "Una de las naked A2 más populares en España por su relación calidad-precio",
@@ -238,7 +238,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: "cfmoto-300nk-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Una vez pasado el rodaje de 1.000 km, el servicio se programa cada 5.000 km, sin superar el año entre revisiones",
+      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -321,7 +321,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Hecho el rodaje de 1.000 km, el taller la espera cada 5.000 km, sin que pasen más de 12 meses entre una y otra",
+      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -362,7 +362,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     pros: [
       "Bicilíndrico de 649 cc con 55 CV y 56 Nm: empuje de media cilindrada por 4.699 €",
       "Suspensiones KYB y frenos J.Juan con ABS Continental",
-      "Pantalla TFT de cinco pulgadas con Bluetooth y la app CFMoto Ride",
+      "Pantalla TFT de 5 pulgadas con conectividad Bluetooth y app CFMoto Ride",
       "Depósito de 17 L y unos 340 km de autonomía: apta para viajar",
       "Disponible limitada para el carnet A2",
     ],
@@ -404,7 +404,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Pasados los 1.000 km de rodaje, cada 5.000 km hay que llevarla al taller, con tope anual de 12 meses entre revisiones",
+      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -487,7 +487,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Con los primeros 1.000 km de rodaje superados, el mantenimiento se programa cada 5.000 km, antes de cumplir el año desde la revisión anterior",
+      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -570,11 +570,11 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Después de 1.000 km de rodaje, la SRK 921 vuelve al taller cada 6.000 km o al cumplir 12 meses, lo que llegue antes, con revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite y filtro de aceite nuevos, inspección general y repaso de aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -653,11 +653,11 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Rodaje de 1.000 km; luego el taller espera cada 6.000 km o cada 12 meses, según lo primero que ocurra; revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Cambio de aceite junto con su filtro, revisión general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -667,7 +667,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Según el manual del usuario QJMotor (1.000/7.000 km y cada 6.000 km), la garantía de 6 años pide taller oficial y repuesto original",
+      fuente: "Manual del usuario QJMotor (1.000/7.000 km y cada 6.000 km); la garantía de 6 años exige red oficial y recambio original",
     },
   },
   {
@@ -697,7 +697,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "Bicilíndrico de 904 cc y 95 CV, limitable para el carnet A2",
       "Puños y asiento calefactables de serie para viajar todo el año",
       "Radar ADAS, control de crucero y quickshifter incluidos",
-      "Garantía oficial de seis años o 75.000 km",
+      "Garantía oficial de 6 años o 75.000 km",
     ],
     contras: [
       "Precio de 8.699 € en promoción (PVP anterior 8.999 €)",
@@ -736,11 +736,11 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Pasados los 1.000 km de rodaje, la revisión llega cada 6.000 km, con un máximo de 12 meses entre visitas; con su revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite nuevo con su filtro, inspección general y control de aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -750,7 +750,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "El manual del usuario QJMotor marca 1.000/7.000 km y cada 6.000 km; la garantía de 6 años solo vale con red oficial y recambio original",
+      fuente: "Manual del usuario QJMotor (1.000/7.000 km y cada 6.000 km); la garantía de 6 años exige red oficial y recambio original",
     },
   },
   {
@@ -819,11 +819,11 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Con el rodaje de 1.000 km ya hecho, el plan marca una revisión cada 6.000 km, con el año como tope entre revisiones, más la revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Sustitución de aceite y filtro de aceite, inspección general y ajuste de aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -833,7 +833,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "QJMotor publica en su manual del usuario 1.000/7.000 km y cada 6.000 km; la garantía de 6 años se mantiene pasando por taller oficial con repuesto original",
+      fuente: "Manual del usuario QJMotor (1.000/7.000 km y cada 6.000 km); la garantía de 6 años exige red oficial y recambio original",
     },
   },
   {
@@ -902,11 +902,11 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/Moto/srt-300dx/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Después del rodaje, fijado en 1.000 km, las revisiones se suceden cada 6.000 km, sin rebasar los 12 meses entre una revisión y la siguiente; la revisión anual es obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite y filtro de aceite, más inspección general y aprietes revisados",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -916,7 +916,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Ficha técnica oficial QJMotor España (PDF); la cobertura de 6 años exige taller oficial y repuesto original",
+      fuente: "Ficha técnica oficial QJMotor España (PDF); la garantía de 6 años exige red oficial y recambio original",
     },
   },
   {
@@ -985,11 +985,11 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Tras el primer millar de kilómetros de rodaje, el mantenimiento se programa cada 6.000 km, y siempre antes de cumplir un año desde la última; la revisión anual es obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Renovación de aceite y filtro, revisión general y aprietes comprobados",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -999,7 +999,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual del usuario QJMotor: revisiones a 1.000/7.000 km y cada 6.000 km; la garantía de seis años se mantiene con red oficial y repuesto original",
+      fuente: "Manual del usuario QJMotor (1.000/7.000 km y cada 6.000 km); la garantía de 6 años exige red oficial y recambio original",
     },
   },
   {
@@ -1039,7 +1039,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "La competencia japonesa ofrece más red de talleres",
     ],
     curiosidades: [
-      "Su motor QJ154MI-4C es un monocilíndrico SOHC con cuatro válvulas y refrigeración líquida",
+      "Su motor QJ154MI-4C es un monocilíndrico SOHC de 4 válvulas y refrigeración líquida",
       "Entrega 12,1 Nm de par a 7.000 rpm",
       "Calza CST en 100/80-17 delante y 130/70-17 detrás",
       "El asiento está a 790 mm, accesible para pilotos noveles",
@@ -1068,11 +1068,11 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Al cerrar el rodaje de 1.000 km, la moto pasa por el taller cada 6.000 km, y nunca más de un año entre revisiones, además de su revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite con filtro de aceite nuevos, revisión general y aprietes comprobados",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -1082,7 +1082,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "El manual del usuario QJMotor fija las primeras revisiones en 1.000 y 7.000 km y el resto cada 6.000 km; para la garantía de 6 años hace falta red oficial y recambio original",
+      fuente: "Manual del usuario QJMotor (1.000/7.000 km y cada 6.000 km); la garantía de 6 años exige red oficial y recambio original",
     },
   },
   {
@@ -1151,11 +1151,11 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km de rodaje y luego cada 6.000 km, con una revisión anual obligatoria y sin superar 12 meses entre revisiones",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Cambio de aceite con filtro nuevo, inspección general y repaso de los aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -1165,7 +1165,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Según QJMotor, su manual del usuario fija 1.000/7.000 km y cada 6.000 km; la garantía de 6 años queda ligada a la red oficial y al recambio original",
+      fuente: "Manual del usuario QJMotor (1.000/7.000 km y cada 6.000 km); la garantía de 6 años exige red oficial y recambio original",
     },
   },
   {
@@ -1234,11 +1234,11 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/Moto/cov-125/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cumplido el rodaje de 1.000 km, cada 6.000 km corresponde una revisión, con el año como tope entre revisiones; con revisión anual obligatoria en cualquier caso",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite y filtro sustituidos, inspección general y aprietes verificados",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -1248,7 +1248,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "El usuario QJMotor recoge 1.000/7.000 km y cada 6.000 km en su manual; la garantía de 6 años cubre con red oficial y recambio original",
+      fuente: "Manual del usuario QJMotor (1.000/7.000 km y cada 6.000 km); la garantía de 6 años exige red oficial y recambio original",
     },
   },
   {
@@ -1317,7 +1317,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Hecho el rodaje de 1.000 km, las visitas al taller se espacian 6.000 km, lo que suceda primero entre kilómetros y año; revisión anual obligatoria en todo caso",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1331,7 +1331,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "En el manual del usuario QJMotor figuran 1.000 y 7.000 km y un intervalo posterior de 6.000 km; la garantía de 6 años exige pasar por la red oficial con recambio original",
+      fuente: "Manual del usuario QJMotor (1.000/7.000 km y cada 6.000 km); la garantía de 6 años exige red oficial y recambio original",
     },
   },
   {
@@ -1357,7 +1357,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     aprox: [],
     pros: [
       "Precio imbatible: 2.192 € con 5 años de garantía",
-      "ABS de dos canales y control de tracción de serie",
+      "ABS de doble canal y control de tracción de serie",
       "Baúl de 34 litros incluido de serie",
       "Pantalla LCD con navegación giro a giro",
       "Paramanos y doble toma USB (A y C)",
@@ -1400,7 +1400,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://vogespain.es/modelos/sr16/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Al terminar el rodaje de 1.000 km, la pauta marca una revisión cada 5.000 km, y como mucho un año entre una revisión y la siguiente",
+      intervalo: "1.000 km, luego cada 5.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1483,7 +1483,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Tras rodar los primeros 1.000 km, hay que revisarla cada 5.000 km, sin dejar que pase un año entre revisiones",
+      intervalo: "1.000 km, luego cada 5.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1566,7 +1566,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Cada 6.000 km, sin superar los 12 meses entre revisiones",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión cada 6.000 km",
@@ -1644,7 +1644,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Cada 6.000 km, con un año como plazo máximo entre visitas al taller",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión cada 6.000 km",
@@ -1719,7 +1719,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o un año entre revisiones, lo que suceda primero",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión cada 6.000 km",
@@ -1794,7 +1794,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "El taller la ve cada 6.000 km, antes de que se cumpla un año desde la anterior",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión cada 6.000 km",
