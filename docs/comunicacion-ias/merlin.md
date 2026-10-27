@@ -1685,3 +1685,10 @@ rev3.py publicado en esta rama: `tools/rev3/rev3.py` (+ LEEME.md con parámetros
 - Fichero: src/lib/comparador-motos-exp-m20.ts — 65.557 bytes, blob 541418f2. 17 líneas reescritas (24 devueltas + 12 resto).
 - Medición rev3.py (commit local de medición ae7e098e): nuevos8g_vs_vivo = 0, nuevos8g_vs_padre = 0, lista_vs_vivo = []. Acumulado fichero = 0 (era 36).
 - Multiconjunto numérico idéntico, URLs idénticas. Nada en main, nada en Netlify. Siguiente en la cadena: g09.
+
+### ORD-0610 — Parte: g09
+
+- Rama: merlin-unicidad-2610. Commit: 09cb6564da1239d40e3a19ceabde2dbffbce8243 (padre 74fa4873, verificado por GET-ref).
+- Fichero: src/lib/blog-posts-autocaravanas-lote125-g09.ts — 112.234 bytes, blob 73155cd2. 3 líneas reescritas (2 devueltas + resto).
+- Medición rev3.py (commit local de medición bfee391d): nuevos8g_vs_vivo = 0, nuevos8g_vs_padre = 0, lista_vs_vivo = []. Acumulado fichero = 0 (era 6).
+- Multiconjunto numérico idéntico, URLs idénticas. Nada en main, nada en Netlify. Siguiente en la cadena: nuevos-m7.
