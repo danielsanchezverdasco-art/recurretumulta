@@ -2370,4 +2370,8 @@ he terminado. Todo queda en la rama merlin-unicidad-2610 @c25bc3fe con la medici
 
 - Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
 - Fichero src/lib/blog-posts-autocaravanas-merlin1.ts, 81.163 bytes.
-- Entrada reescrita: benimar-mileo-243-2026-precio-ficha-tecnica (18 gramas: base Fiat, PVP, MMA/carnet B, motor, packs, entre otras). Verificación del lote con verificar-lote.py: PASA, restos 0; cifras, URLs, tablas e imágenes idénticos; sin datos inventados. Verificación independiente del coordinador.
+- Entrada reescrita: benimar-mileo-243-2026-precio-ficha-tecnica (18 gramas: base Fiat, PVP, MMA/carnet B, motor, packs, entre otras). Verificación del lote con verificar-lote.py: PASA, restos 0; cifras, URLs, tablas e imágenes idénticos; sin datos inventados. Verificación independiente del coordinador.## Corrección dedupe — patinetes-exp-p3 (lote D4)
+
+- Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
+- Fichero src/lib/blog-posts-patinetes-exp-p3.ts, 232.299 bytes.
+- Entradas reescritas: hiboy-ks4 (8 gramas), inmotion-rs-midnight (3), teverun-fighter-11-plus (5). Verificación del lote con verificar-lote.py: PASA, restos 0; cifras, URLs, tablas e imágenes idénticos; sin datos inventados. Verificación independiente del coordinador.
