@@ -29,7 +29,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["autonomiaKm"],
     pros: [
-      "Motor HPE de 310 cc y 25 CV: el más potente de la gama Vespa clásica",
+      "El HPE de 310 cc entrega 25 CV, la cifra más alta dentro de la gama clásica de Vespa",
       "Estética GTV con faro bajo en el guardabarros, la más icónica de Vespa",
       "Control de tracción ASR y ABS de doble canal de serie",
       "Consumo contenido (~3,2 L/100 km) para un 310 cc",
@@ -189,7 +189,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     aprox: [],
     pros: [
       "Rueda alta de 16 pulgadas delante: estabilidad superior en ciudad",
-      "Espacio bajo el asiento para dos cascos integrales",
+      "El hueco bajo el asiento guarda dos cascos integrales a la vez",
       "Posición de conducción erguida y cómoda",
       "Precio de 4.100 € tarifa (3.600 € con descuento en lista oficial)",
       "Ideal para quien busca un GT sin irse a 300 cc",
@@ -1639,7 +1639,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Cambio de aceite y filtro, inspección general y aprietes",
+          queSeCambia: "Primera revisión: cambio del aceite y del filtro, inspección general y revisión de aprietes",
           costeAproxEur: null,
         },
         {
@@ -1743,7 +1743,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Precio de 5.287 € muy competitivo",
     ],
     contras: [
-      "198 kg en orden de marcha, entre las más pesadas de su categoría",
+      "Con 198 kg en orden de marcha, queda entre las más pesadas de su categoría",
       "Sin ayudas: ni modos ni control de tracción",
       "La pantalla LCD, aunque grande, no es TFT a color",
       "Red de servicio en expansión pero aún menor que las japonesas",
@@ -1752,7 +1752,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     curiosidades: [
       "El motor 494 cc de Loncin también lo usan la 525DSX y la 525ACX.",
       "Gana 4 CV respecto a la anterior 500R (de 43,5 a 47,6 CV).",
-      "Voge es la marca premium del grupo chino Loncin.",
+      "Dentro del grupo chino Loncin, Voge ocupa el puesto premium.",
     ],
     imagen: "/media/voge-525r-2024-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -2303,7 +2303,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     aprox: ["velocidadMax", "autonomiaKm"],
     pros: [
       "Bicilíndrico 471 cc con 47 CV: el tope del A2 con tacto Honda",
-      "Horquilla Showa SFF-BP de 41 mm con doble disco Nissin de 296 mm",
+      "Delante monta horquilla Showa SFF-BP de 41 mm y dos discos Nissin de 296 mm",
       "Control de tracción HSTC seleccionable",
       "TFT con conectividad Bluetooth",
       "Depósito de 17,1 litros y unos 480 km de autonomía",
@@ -2311,7 +2311,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     ],
     contras: [
       "7.475 €: de las deportivas A2 más caras",
-      "192 kg en orden de marcha, pesada para su clase",
+      "Pesa 192 kg en orden de marcha, una cifra alta para su clase",
       "El HSTC es básico frente a controles más avanzados",
       "Estética continuista respecto a generaciones anteriores",
       "Sin quickshifter ni modos de conducción",
@@ -2971,7 +2971,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Escape Akrapovic de titanio de serie",
       "Asiento rally plano de 910 mm, ideal para pilotar de pie",
       "Electrónica sencilla y desconectable (ABS y control de tracción off)",
-      "210 kg en orden de marcha, contenida para su capacidad",
+      "Sus 210 kg en orden de marcha resultan contenidos para su capacidad",
     ],
     contras: [
       "910 mm de altura de asiento: solo apta para pilotos altos",
@@ -3010,7 +3010,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite y filtro sustituidos, inspección general y aprietes",
+          queSeCambia: "Sustitución del aceite y del filtro, con inspección general y aprietes revisados",
           costeAproxEur: null,
         },
         {
@@ -3404,7 +3404,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
-          queSeCambia: "Cambio de aceite con filtro nuevo, inspección general y aprietes",
+          queSeCambia: "Aceite nuevo con su filtro, más inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -3444,7 +3444,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Estética nocturna con detalles en negro muy lograda",
       "Precio desde 18.000 €: la más accesible de la gama Sport",
       "Asiento bajo que da confianza a pilotos de menor estatura",
-      "Electrónica con control de tracción y modos de conducción",
+      "La electrónica incluye control de tracción y varios modos de conducción",
     ],
     contras: [
       "Prestaciones justas frente a sus hermanas mayores",
@@ -3478,7 +3478,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
-          queSeCambia: "Aceite, filtro de aceite, inspección general y ajuste de aprietes",
+          queSeCambia: "Cambio de aceite y de su filtro, inspección general y ajuste de los aprietes",
           costeAproxEur: null,
         },
         {
@@ -3680,7 +3680,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     ],
     contras: [
       "Precio desde 53.950 €, la cima del catálogo Harley",
-      "380 kg que se dejan notar en parado y en maniobras lentas",
+      "Sus 380 kg se hacen notar al moverla en parado y en maniobras lentas",
       "El carenado Batwing transmite más el viento al manillar que el Sharknose",
       "Consumo elevado en uso intensivo",
       "Poco ágil fuera de autopista",
@@ -3794,7 +3794,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
-          queSeCambia: "Aceite y filtro de aceite nuevos, revisión general y aprietes",
+          queSeCambia: "Aceite y filtro de aceite renovados, con revisión general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -3841,7 +3841,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Sin protección aerodinámica: en autopista el viento cansa",
       "Postura deportiva poco apta para viajar con pasajero",
       "Consumo elevado cuando se aprovechan los 180 CV",
-      "Red comercial más pequeña que la de las marcas japonesas",
+      "Frente a las marcas japonesas, su red comercial es más pequeña",
     ],
     curiosidades: [
       "El V4 de la Tuono deriva del motor de la RSV4 de competición.",
@@ -4132,7 +4132,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
-          queSeCambia: "Reponer aceite y filtro, inspección general y repaso de aprietes",
+          queSeCambia: "Inspección general y repaso de aprietes, además de reponer aceite y filtro",
           costeAproxEur: null,
         },
         {
@@ -4213,7 +4213,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
-          queSeCambia: "Aceite con filtro nuevo, inspección general y repaso de aprietes",
+          queSeCambia: "Se pone aceite con un filtro nuevo, inspección general y repaso de aprietes",
           costeAproxEur: null,
         },
         {
@@ -4618,7 +4618,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "4.587 €: de las neoretro A2 más asequibles del mercado español",
     ],
     contras: [
-      "188 kg en orden de marcha: se dejan notar en parado y en ciudad",
+      "Con 188 kg en orden de marcha, moverla en parado y en ciudad cuesta",
       "Red de concesionarios Zontes aún pequeña en España",
       "Valor de reventa incierto al ser una marca china joven en Europa",
       "Vibraciones del monocilíndrico a alto régimen en autovía",
@@ -4985,7 +4985,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Bicilíndrico de 451 cc, 45,4 CV: en el tope del carnet A2",
+      "Bicilíndrico de 451 cc con 45,4 CV, el máximo del carnet A2",
       "Solo 176 kg en orden de marcha: la custom A2 más ligera del mercado",
       "Asiento a 735 mm: ideal para pilotos de baja estatura",
       "Pantalla TFT con conectividad para el móvil",
@@ -5051,7 +5051,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     pros: [
       "Estética clásica de la saga W: depósito con rodilleras y doble reloj analógico",
       "Solo 143 kg en orden de marcha: la clásica más ligera de su segmento",
-      "Asiento a 745 mm y posición erguida: cómoda para el día a día",
+      "Con el asiento a 745 mm y posición erguida, va cómoda en el día a día",
       "Motor de 233 cc suave y económico, con caja de 6 velocidades",
       "ABS y homologación Euro 5+ para 2026",
     ],
@@ -5282,11 +5282,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.ducati.com/es",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 12.000 km o 12 meses, lo primero que se cumpla",
+      intervalo: "Cada 12 meses o 12.000 km, lo que antes se alcance",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite nuevo, filtro de aceite, inspección general y aprietes",
+          queSeCambia: "Aceite y filtro de aceite nuevos en esta revisión, con inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -5324,7 +5324,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Desmodue de 803 cc con 73 CV y solo 176 kg: la Scrambler más refinada",
       "Nuevo color Emerald Green 2026 con asiento café racer de cuero marrón",
       "Llantas de radios negras y manillar plano con espejos bar-end",
-      "Ride-by-wire, 2 modos, ABS en curva y control de tracción de serie",
+      "Ride-by-wire con 2 modos, ABS en curva y control de tracción incluidos de serie",
       "Nuevo embrague de 8 discos: tacto más suave y 4 kg menos que la anterior",
     ],
     contras: [
