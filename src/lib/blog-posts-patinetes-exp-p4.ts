@@ -1021,7 +1021,7 @@ Las fichas de sus hermanos dejan los términos claros: la <a href=/patinetes/aov
 
 ## Circular dentro de la ley
 
-Nada más sacarlo de la caja, el tope queda en 25 km/h, la cifra que delimita un VMP en España, y el menú de ajustes permite elevarlo hasta 31 km/h. Ese segundo valor solo encaja dentro de un recinto privado: por encima de 25 km/h en vía pública, el vehículo queda fuera de la categoría legal, y las aceras permanecen prohibidas en cualquier caso. Su ficha tampoco acredita un certificado DGT verificado, un documento que exige la <a href=https://www.dgt.es>DGT</a> para los VMP comercializados desde enero de 2024.
+Nada más sacarlo de la caja, el tope queda en 25 km/h, la cifra que delimita un VMP en España, y el menú de ajustes permite elevarlo hasta 31 km/h. Ese segundo valor solo encaja dentro de un recinto privado: por encima de 25 km/h en vía pública, el vehículo queda fuera de la categoría legal, y las aceras permanecen prohibidas en cualquier caso. Su ficha tampoco acredita un certificado DGT verificado, un documento que la <a href=https://www.dgt.es>DGT</a> exige a los VMP puestos en el mercado a partir de enero de 2024.
 
 ## Cuidados habituales
 
@@ -2378,7 +2378,7 @@ Como pieza de coleccionista, sí. Como compra racional nueva, no hay unidades.
 
 **¿Buscas solo los datos?** <a href=/patinetes/currus-nf/>Ver ficha técnica del Currus NF</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Currus se dio a conocer con el NF: dos motores con un pico conjunto de 3.600 W, un acumulador de 28 Ah a 60 V que totaliza 1.680 Wh, y un alcance anunciado de entre 100 y 120 km. La construcción gustó tanto a <a href=https://electrek.co/2019/10/23/review-currus-nf-electric-scooter/>Electrek</a> que la señaló como referencia. Su precio de salida fue de 2.799 $.
+Currus se dio a conocer con el NF: dos motores que suman un pico de 3.600 W, un acumulador de 28 Ah a 60 V que totaliza 1.680 Wh, y un alcance anunciado de entre 100 y 120 km. La construcción gustó tanto a <a href=https://electrek.co/2019/10/23/review-currus-nf-electric-scooter/>Electrek</a> que la señaló como referencia. Su precio de salida fue de 2.799 $.
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/QCSvLqYurt4 title="Prueba del Currus NF por Electrek" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
@@ -2464,7 +2464,7 @@ Los patinetes extremos de antes de la regulación vigente empiezan a cotizarse c
 ## Dudas que se repiten
 
 ### ¿Cuánta potencia entrega?
-Dos motores con un pico conjunto de 3.600 W.
+Dos motores que suman un pico de 3.600 W.
 
 ### ¿Cuánto alcance real da?
 Sobre 73 km con ritmo tranquilo.
@@ -2473,7 +2473,7 @@ Sobre 73 km con ritmo tranquilo.
 El Panther (NF11) es el hermano mayor: lleva más batería, 2.100 Wh, y un pico de 5.400 W.
 
 ### ¿Se puede usar legalmente en España?
-Solo capado a 25 km/h.
+Solo con el tope capado a 25 km/h.
 
 ### ¿Sigue fabricándose?
 No: descatalogado, solo se encuentra de segunda mano.
@@ -3526,7 +3526,7 @@ Aquí aparece el punto que exige más atención antes de comprar. No consta un c
 
 ## Una marca alemana a contracorriente
 
-Detrás de Egret está Walberg Urban Electrics, empresa de Hamburgo que lleva años apostando por patinetes de gama alta mientras el mercado se inundaba de copias económicas de especificaciones dudosas. Su enfoque invierte las prioridades habituales: menos obsesión por la velocidad punta anunciada y más trabajo en los elementos que se notan cada día, como la suspensión, la frenada, las ruedas y la iluminación. El Ey! 6 encarna ese equilibrio dentro de la familia, porque reúne el acumulador grande y el equipamiento completo sin alcanzar el precio del modelo superior.
+Detrás de Egret está la firma Walberg Urban Electrics, radicada en Hamburgo y dedicada desde hace años a apostar por patinetes de gama alta mientras el mercado se inundaba de copias económicas de especificaciones dudosas. Su enfoque invierte las prioridades habituales: menos obsesión por la velocidad punta anunciada y más trabajo en los elementos que se notan cada día, como la suspensión, la frenada, las ruedas y la iluminación. El Ey! 6 encarna ese equilibrio dentro de la familia, porque reúne el acumulador grande y el equipamiento completo sin alcanzar el precio del modelo superior.
 
 ## Los vatios, explicados sin letra pequeña
 
@@ -3751,7 +3751,7 @@ Para detenerlo combinan un freno de disco con otro electrónico, y las ruedas de
 
 ## Homologación y norma VMP
 
-No consta ningún certificado DGT verificado para este modelo. Su velocidad punta ronda los 32 km/h, por encima del tope permitido para los VMP en España, de modo que habría que caparlo a 25 km/h para circular conforme a la norma. Además, queda prohibido usarlo por las aceras.
+Para este modelo no consta ningún certificado DGT verificado. Su velocidad punta ronda los 32 km/h, por encima del tope permitido para los VMP en España, de modo que habría que caparlo a 25 km/h para circular conforme a la norma. Además, las aceras quedan vetadas para su uso.
 
 ## Lo mejor y lo peor
 
