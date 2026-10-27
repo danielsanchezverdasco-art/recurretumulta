@@ -2422,4 +2422,9 @@ he terminado. Todo queda en la rama merlin-unicidad-2610 @c25bc3fe con la medici
 
 - Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
 - Fichero src/lib/blog-posts-autocaravanas-lote125-g12.ts, 112.629 bytes.
-- Entradas reescritas (copias de lote125.ts): possl-2win-plus (20), westfalia-columbus-600d (4). Verificación del lote con verificar-lote.py: PASA, restos 0 en las 22 entradas; cifras, URLs, tablas e imágenes idénticos; mismo nº de líneas; sin datos inventados. Verificación independiente del coordinador.
+- Entradas reescritas (copias de lote125.ts): possl-2win-plus (20), westfalia-columbus-600d (4). Verificación del lote con verificar-lote.py: PASA, restos 0 en las 22 entradas; cifras, URLs, tablas e imágenes idénticos; mismo nº de líneas; sin datos inventados. Verificación independiente del coordinador.## Corrección dedupe FIX — lote125 (tras verificación global)
+
+- Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
+- Fichero src/lib/blog-posts-autocaravanas-lote125.ts, 1.304.379 bytes.
+- Motivo: la verificación global sobre 9aad0cb5 dio 16 gramas distintos / 25 en suma (convergencias entre lotes + un bug de verificar-lote.py que sobreescribía copias divergentes en vez de unirlas; bug corregido).
+- 4 frases reescritas (solo prosa, cifras intactas): adria-matrix-plus-670-sl («queda dentro de lo que autoriza el carnet B»), pilote-v600g («el permiso B cubre su conducción»), dethleffs-globebus-4x4-t-46 («no tiene estrellas que mostrar»), chausson-650-first-line («6,39 m de largo, 2,35 m de ancho y 2,92 m de alto»). Verificación global local con ficheros sustituidos (verificar-fix.py, método v5, unión por slug): PASA 0/0 en todas las entradas cambiadas; solo prosa reescrita, cifras/URLs/tablas/imágenes intactos; sin datos inventados. Verificación global final sobre la cabeza pusheada pendiente tras la serie.
