@@ -67,7 +67,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo y limpiador específico para cadenas con retenes (o detergente neutro con cepillo suave).",
         "Engrasa con lubricante para cadenas deportivas, girando la rueda trasera para repartirlo de forma uniforme.",
-        "Derecha sobre sus dos ruedas, revisa cuánto cede la cadena y corrige ese juego hasta el valor del libro de taller.",
+        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
       ],
       trucos: [
         "Antes de cada salida, mira el aceite con la moto derecha y en frío.",
@@ -130,7 +130,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "honda-nt1100-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Aceite 10W-30 de norma JASO MA o MA2 más API SG o mejor",
+      aceiteTipo: "10W-30 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena pasando un trapo con limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante de cadena, girando la rueda trasera para repartirlo.",
@@ -197,7 +197,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "honda-crf1100l-africa-twin-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Grado 10W-30 indicado JASO MA y MA2 junto a API SG o mejor",
+      aceiteTipo: "10W-30 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Tras cada salida por tierra, limpia la cadena con agua a baja presión y sécala antes de engrasar.",
         "Engrasa con lubricante de cadena off-road, más resistente al polvo.",
@@ -264,7 +264,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "honda-xl750-transalp-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Fluido 10W-30 con JASO MA/MA2 más API SG o más",
+      aceiteTipo: "10W-30 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico y cepillo suave, sobre todo tras pistas de tierra.",
         "Engrasa con lubricante de cadena y reparte girando la rueda trasera.",
@@ -331,7 +331,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "honda-cb750-hornet-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Aceite 10W-30 especificado JASO MA/MA2 así como API SG o superior",
+      aceiteTipo: "10W-30 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Pasa un trapo con limpiador para cadenas con retenes por la cadena.",
         "Engrasa con lubricante de cadena, haciendo girar la rueda trasera.",
@@ -398,7 +398,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "honda-cbr1000rr-r-fireblade-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Aceite 10W-30 exigido JASO MA o MA2 además de API SG o más",
+      aceiteTipo: "10W-30 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes tras cada uso en circuito.",
         "Engrasa con lubricante de competición y reparte girando la rueda trasera.",
@@ -527,7 +527,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "honda-rebel-1100-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Grado 10W-30 exigido JASO MA o MA2 así como API SG o más",
+      aceiteTipo: "10W-30 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes y un trapo.",
         "Aplica lubricante a la cadena girando la rueda trasera.",
@@ -614,7 +614,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
         },
         {
           nombre: "Revisión / 24.000 km",
-          queSeCambia: "Aceite con su filtro, filtro del aire, bujía y revisión de la correa del variador",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía + revisión de correa del variador",
           costeAproxEur: null,
         },
       ],
@@ -623,7 +623,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     },
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Grado 10W-30 norma JASO MB y API SG en adelante",
+      aceiteTipo: "10W-30 (JASO MB, API SG o superior)",
       trucos: [
         "La transmisión por correa del variador se revisa cada 12.000 km en el taller.",
         "Mantén la presión de los neumáticos al día: en rueda alta se nota mucho el desgaste.",
@@ -685,7 +685,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "honda-forza-350-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Fluido 10W-30 JASO MB y API SG o superior",
+      aceiteTipo: "10W-30 (JASO MB, API SG o superior)",
       trucos: [
         "Cada 12.000 km, la correa del variador se revisa en el taller.",
         "El parabrisas eléctrico: límpialo con paño suave para no rayar el mecanismo.",
@@ -747,7 +747,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "honda-cb125r-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 4.000 km o 12 meses",
-      aceiteTipo: "Grado 10W-30 especificado JASO MA o MA2 con API SG como mínimo",
+      aceiteTipo: "10W-30 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la transmisión con un trapo y limpiador específico para retenes.",
         "Engrasa la cadena con lubricante, girando la rueda trasera.",
@@ -814,7 +814,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "honda-msx125-grom-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 4.000 km o 12 meses",
-      aceiteTipo: "Grado 10W-30 recomendado JASO MA y MA2 además de API SG o superior",
+      aceiteTipo: "10W-30 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena pasando un trapo y limpiador específico.",
         "Lubrica la cadena girando la rueda trasera para repartir el producto.",
@@ -881,7 +881,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "honda-gold-wing-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Fluido 10W-30 con JASO MA o MA2 junto a API SG como mínimo",
+      aceiteTipo: "10W-30 (JASO MA/MA2, API SG o superior)",
       trucos: [
         "Con 373 kg, revisa antes de cada ruta larga la presión de los neumáticos.",
         "El DCT necesita aceite específico JASO MA: no vale cualquiera.",
@@ -1011,7 +1011,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "yamaha-mt-10-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 10.000 km o 12 meses",
-      aceiteTipo: "Grado 10W-40 de norma JASO MA o MA2 y API SG en adelante",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador para retenes tras cada salida intensa.",
         "Engrasa con lubricante de cadena de altas prestaciones.",
@@ -1078,7 +1078,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "yamaha-yzf-r7-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 10.000 km o 12 meses",
-      aceiteTipo: "Grado 10W-40 con JASO MA/MA2 más API SG en adelante",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa la cadena mientras giras la rueda trasera a mano.",
@@ -1145,14 +1145,14 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "yamaha-tenere-700-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 10.000 km o 12 meses",
-      aceiteTipo: "Aceite 10W-40 aconsejado JASO MA/MA2 además de API SG o más",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Después de cada ruta por tierra, limpia la cadena con agua a baja presión y sécala.",
         "Engrasa con lubricante de cadena off-road.",
         "Comprueba la tensión con la moto en vertical: en trail conviene dejarla algo más holgada.",
       ],
       trucos: [
-        "El elemento de aire se ensucia rápido en polvo: revísalo tras cada ruta.",
+        "El filtro de aire se ensucia rápido en polvo: revísalo tras cada ruta.",
         "Con 4,3 l/100 km y 16 L tienes casi 370 km de autonomía.",
       ],
     },
@@ -1262,7 +1262,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "yamaha-mt-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 6.000 km o 12 meses",
-      aceiteTipo: "Aceite 10W-40 aconsejado JASO MA y MA2 con API SG o superior",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con un trapo humedecido en limpiador específico para retenes.",
         "Aplica el lubricante por la cara interna de la cadena, girando la rueda trasera.",
@@ -1329,7 +1329,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "yamaha-tracer-9-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 10.000 km o 12 meses",
-      aceiteTipo: "Fluido 10W-40 de norma JASO MA/MA2 y API SG como mínimo",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Gira la rueda trasera mientras aplicas lubricante a la cadena.",
@@ -1396,7 +1396,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "yamaha-tmax-560-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 10.000 km o 12 meses",
-      aceiteTipo: "Fluido 10W-40 JASO MB y API SG o superior",
+      aceiteTipo: "10W-40 (JASO MB, API SG o superior)",
       trucos: [
         "La correa del variador pide revisión cada 10.000 km en el taller.",
         "Con 4,8 l/100 km y 15 L tienes unos 300 km de autonomía.",
@@ -1458,14 +1458,14 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "yamaha-xsr900-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 10.000 km o 12 meses",
-      aceiteTipo: "Aceite 10W-40 con JASO MA y MA2 y API SG en adelante",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa la cadena poco a poco, girando la rueda trasera.",
         "Sobre el caballete, mide la holgura de la cadena.",
       ],
       trucos: [
-        "El CP3 es fiable: con el mantenimiento al día, rebasa los cien mil kilómetros.",
+        "El CP3 es fiable: con mantenimiento al día supera los 100.000 km.",
         "Controla cada 1.000 km la holgura de la cadena.",
       ],
     },
@@ -1524,12 +1524,12 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Revisión / 6.000 km",
-          queSeCambia: "Aceite 10W-40, filtro de aceite nuevo e inspección general",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión / 12.000 km",
-          queSeCambia: "Aceite nuevo, filtro de aceite, filtro de aire y bujía",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
           costeAproxEur: null,
         },
       ],
@@ -1593,7 +1593,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "yamaha-xsr700-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 10.000 km o 12 meses",
-      aceiteTipo: "Lubricante 10W-40 especificado JASO MA y MA2 y API SG o más",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Reparte lubricante por la cadena girando despacio la rueda trasera.",
@@ -1660,7 +1660,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "yamaha-tenere-700-world-raid-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 10.000 km o 12 meses",
-      aceiteTipo: "Viscosidad 10W-40 de norma JASO MA y MA2 con API SG en adelante",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Tras cada salida campera, aclara la cadena con agua a baja presión y sécala.",
         "Engrasa con lubricante de cadena off-road.",
@@ -1727,14 +1727,14 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-ninja-650-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Lubricante 10W-40 aconsejado JASO MA/MA2 junto a API SG o mejor",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Aplica lubricante en la cadena y gira la rueda trasera para extenderlo.",
         "Verifica en la Ninja que el juego de la cadena coincida con el del manual, con la moto derecha.",
       ],
       trucos: [
-        "El bicilíndrico de 649 cc es duro: con mantenimiento al día supera los cien mil kilómetros.",
+        "El bicilíndrico de 649 cc es duro: con mantenimiento al día supera los 100.000 km.",
         "Mide la holgura de la cadena al cumplir 1.000 km.",
       ],
     },
@@ -1794,7 +1794,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-ninja-zx-10r-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Aceite 10W-40 aconsejado JASO MA/MA2 y API SG o mejor",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa la cadena haciendo girar la rueda trasera con la mano.",
@@ -1861,7 +1861,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-ninja-500-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-40 exigido JASO MA/MA2 conforme a API SG o de grado superior",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Lubrica la cadena con el producto, girando la rueda trasera.",
@@ -1980,7 +1980,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-ninja-zx-6r-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Viscosidad 10W-40 prescrito JASO MA/MA2 más API SG y superiores",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Echa lubricante a la cadena mientras giras la rueda trasera.",
@@ -2047,14 +2047,14 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-ninja-zx-4r-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Fluido 10W-40 JASO MA/MA2 con API SG o de grado superior",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Con la rueda trasera en movimiento, engrasa la cadena.",
         "Controla que la tensión de la cadena esté en el margen del manual, con la moto en vertical.",
       ],
       trucos: [
-        "En uso de circuito, cambia el aceite cada dos tandas.",
+        "Si haces circuito, cambia el aceite cada 2 tandas.",
         "Comprueba la tensión de la cadena antes de cada salida.",
       ],
     },
@@ -2114,7 +2114,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-vulcan-s-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Fluido 10W-40 especificado JASO MA o MA2 y API SG o mejor",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Aplica lubricante a la cadena y haz girar la rueda trasera.",
@@ -2181,7 +2181,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-z650rs-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Grado 10W-40 prescrito JASO MA/MA2 así como API SG como mínimo",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa la cadena girando la rueda trasera despacio.",
@@ -2248,7 +2248,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-eliminator-500-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Lubricante 10W-40 con JASO MA o MA2 conforme a API SG o mejor",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Rocía lubricante sobre la cadena girando la rueda trasera.",
@@ -2315,7 +2315,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-ninja-1000sx-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Viscosidad 10W-40 exigido JASO MA/MA2 así como API SG en adelante",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Lubrica la cadena girando la rueda trasera con cuidado.",
@@ -2382,7 +2382,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-ninja-h2-sx-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Lubricante 10W-40 prescrito JASO MA y MA2 con API SG y superiores",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa la cadena por su cara interna, girando la rueda trasera.",
@@ -2451,7 +2451,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-gsx-8r-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Fluido 10W-40 con JASO MA y MA2 así como API SG o de grado superior",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Aplica el lubricante a la cadena con la rueda girando.",
@@ -2520,7 +2520,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-gsx-8s-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Viscosidad 10W-40 recomendado JASO MA o MA2 con API SG o superior",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Girando la rueda trasera, aplica lubricante a toda la cadena.",
@@ -2589,7 +2589,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-gsx-s1000-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Aceite 10W-40 aconsejado JASO MA o MA2 más API SG como mínimo",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Reparte lubricante específico por la cadena mientras haces girar la rueda trasera.",
@@ -2658,7 +2658,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-v-strom-800de-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Lubricante 10W-40 recomendado JASO MA y MA2 más API SG o de grado superior",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "En uso off-road, limpia y engrasa la cadena tras cada salida de campo.",
         "Con la moto derecha, mide la tensión de la cadena y regúlala hasta dejarla en su punto.",
@@ -2727,7 +2727,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-v-strom-650-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Viscosidad 10W-40 exigido JASO MA/MA2 con API SG o más",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Reparte el lubricante por la cadena girando la rueda trasera.",
@@ -2796,7 +2796,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-gsx-r125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 6.000 km o 12 meses",
-      aceiteTipo: "Grado 10W-40 aconsejado JASO MA/MA2 con API SG como mínimo",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Aplica lubricante de cadena girando la rueda trasera a mano.",
@@ -2865,7 +2865,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-dr-z4sm-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 6.000 km o 12 meses",
-      aceiteTipo: "Viscosidad 10W-40 exigido JASO MA o MA2 y API SG y superiores",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "En uso supermotard, limpia y engrasa la cadena cada 500 km.",
         "Vigila la tensión de la cadena de la moto aplomada, como indica el manual.",
@@ -2934,7 +2934,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-address-125-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 4.000 km o 12 meses",
-      aceiteTipo: "Grado 10W-30 aconsejado JASO MB además de API SG o más",
+      aceiteTipo: "10W-30 (JASO MB, API SG o superior)",
       trucos: [
         "Revisa la correa del variador según el plan del manual.",
         "Con tan poco consumo, el depósito cunde: aun así no apures la reserva.",
@@ -2999,7 +2999,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-gsx-s125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 6.000 km o 12 meses",
-      aceiteTipo: "Viscosidad 10W-40 exigido JASO MA/MA2 junto a API SG en adelante",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa la cadena y mueve la rueda trasera para repartir el lubricante.",
@@ -3068,7 +3068,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-katana-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Fluido 10W-40 indicado JASO MA/MA2 con API SG o mejor",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Lubrica la cadena con lubricante, girando despacio la rueda trasera.",
@@ -3137,7 +3137,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-gsx-r1000r-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Grado 10W-40 especificado JASO MA y MA2 más API SG en adelante",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Echa el lubricante sobre la cadena con la rueda en movimiento.",
@@ -3206,7 +3206,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-v-strom-1050de-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Viscosidad 10W-40 exigido JASO MA/MA2 y API SG o de grado superior",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "En uso off-road, limpia y engrasa la cadena después de cada salida.",
         "Verifica la tensión de la cadena antes de cada ruta, con la moto derecha.",
@@ -3275,7 +3275,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     analisisSlug: "suzuki-gsx-s1000gt-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "Fluido 10W-40 especificado JASO MA/MA2 junto a API SG y superiores",
+      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Con la cadena en movimiento, aplica el lubricante girando la rueda trasera.",
