@@ -75,16 +75,16 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.motoplanete.es/ktm/11022/790-Duke-2025/contact.html",
     analisisSlug: "ktm-790-duke-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 15.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "Primera visita al taller al llegar a 1.000 km; a partir de entonces, cada 15.000 km o cada 12 meses.",
       aceiteTipo: "Aceite 10W-50 Motorex Power Synt 4T para el cambio.",
       cadenaPasos: [
-        "Pasa un limpiador específico para cadenas con retenes por toda la cadena.",
-        "Aplica lubricante específico para cadenas mientras giras la rueda trasera, para que se reparta bien.",
-        "Mide la tensión con la moto recta, en vertical, y corrígela según indica el manual del propietario.",
+        "Recorre toda la cadena con un limpiador formulado para transmisiones con juntas tóricas.",
+        "Engrasa mientras haces girar despacio la rueda de atrás para que el producto llegue a todos los eslabones.",
+        "Con la moto derecha sobre sus ruedas, mide la tensión y corrígela hasta el valor del manual del propietario.",
       ],
       trucos: [
         "El modo DEMO desbloquea la electrónica completa los primeros 1.000 km: pruébalo antes de decidir.",
-        "Con un consumo de 4,6 l/100 km, los 14 l del depósito dan para unos 300 km sin apurar.",
+        "Sus 14 l dan para rondar los 300 km si vas tranquilo, con un gasto de 4,6 l/100 km.",
       ],
     },
   },
@@ -146,12 +146,12 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/ktm/990-duke",
     analisisSlug: "ktm-990-duke-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km; a partir de ahí, cada 15.000 km o cada doce meses.",
+      intervaloMantenimiento: "El primer servicio cae a los 1.000 km y los siguientes cada 15.000 km o cada doce meses.",
       aceiteTipo: "El cambio lleva aceite 10W-50 Motorex Power Synt 4T.",
       cadenaPasos: [
-        "Frota la cadena con limpiador específico para cadenas con retenes hasta dejarla limpia.",
-        "Dale lubricante específico para cadenas mientras haces girar la rueda de atrás, para repartirlo por igual.",
-        "Con la moto derecha y en vertical, mide la tensión y ajústala como dice el manual del propietario.",
+        "Frota eslabón por eslabón con desengrasante compatible con cadenas de retenes hasta dejarla sin grasa.",
+        "Aplica el lubricante a la vez que mueves la rueda trasera para repartirlo de manera uniforme.",
+        "Moto en posición recta: comprueba la tensión y ajústala conforme indica el libro del propietario.",
       ],
       trucos: [
         "El ABS con modo Supermoto permite derrapar la trasera en circuito.",
@@ -217,12 +217,12 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/ktm/1390-super-duke-r",
     analisisSlug: "ktm-1390-super-duke-r-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "A los 1.000 km toca la primera revisión; luego, cada 15.000 km o una vez al año.",
+      intervaloMantenimiento: "Pasa la primera revisión con 1.000 km y luego cada 15.000 km, o bien una vez al año.",
       aceiteTipo: "Aceite recomendado: 10W-50 de Motorex, Power Synt 4T.",
       cadenaPasos: [
-        "Limpia la cadena 525 X-Ring con limpiador específico para cadenas con retenes.",
-        "Engrasa la cadena con lubricante específico, girando la rueda trasera poco a poco para que se reparta.",
-        "Revisa que la tensión sea la correcta con la moto en vertical y corrígela según el manual del propietario.",
+        "Limpia la cadena 525 X-Ring con un producto de limpieza apto para cadenas con juntas.",
+        "Engrasa poco a poco girando la rueda de atrás para que el lubricante cubra cada eslabón.",
+        "Verifica la tensión estando la moto derecha y corrígela según la cifra del manual del propietario.",
       ],
       trucos: [
         "Con 190 CV, el neumático trasero 200/55 se gasta rápido: vigila el desgaste.",
@@ -288,12 +288,12 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/ktm",
     analisisSlug: "ktm-390-adventure-x-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "La primera es a los 1.000 km; después, revisión cada 10.000 km o cada doce meses.",
+      intervaloMantenimiento: "Con 1.000 km toca la revisión inicial; después, cada 10.000 km o cada doce meses.",
       aceiteTipo: "Usa 15W-50 Motorex Formula 4T en el cambio de aceite.",
       cadenaPasos: [
-        "Pasa primero un trapo seco por la cadena y luego un limpiador específico para cadenas con retenes.",
-        "Pon lubricante específico para cadenas girando la rueda trasera, así se reparte por todos los eslabones.",
-        "Mide la tensión con la moto en posición vertical y déjala como indica el manual del propietario.",
+        "Empieza con un trapo seco y sigue con un desengrasante apto para cadenas con retenes.",
+        "Pon lubricante girando la rueda de atrás: así llega a cada eslabón de la cadena.",
+        "Con la moto recta, mide la tensión y déjala en el valor que marca el manual del propietario.",
       ],
       trucos: [
         "Cambia el filtro de aire cada 10.000 km y haz el reglaje de válvulas cada 20.000 km.",
@@ -359,12 +359,12 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/ktm/790-adventure",
     analisisSlug: "ktm-790-adventure-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "La primera revisión llega a los 1.000 km; luego, cada 15.000 km o cada año.",
+      intervaloMantenimiento: "Estrena el mantenimiento a los 1.000 km; en adelante, cada 15.000 km o cada año.",
       aceiteTipo: "Para el cambio, aceite 10W-50 Motorex Power Synt 4T.",
       cadenaPasos: [
-        "Limpia la cadena tras cada salida de tierra con agua a presión moderada.",
-        "Engrasa con lubricante específico para off-road, que repele el barro.",
-        "Mide la holgura de la cadena con la moto sobre el caballete y corrígela siguiendo las indicaciones del fabricante.",
+        "Tras rodar por tierra, lava la cadena con agua a presión moderada; después, sécala.",
+        "Unta un lubricante pensado para off-road, que repele el barro y aguanta el polvo.",
+        "Sube la moto al caballete, mide la holgura y corrígela siguiendo la cifra del fabricante.",
       ],
       trucos: [
         "El filtro de aire va bajo el asiento: se cambia sin desmontar el depósito.",
@@ -430,12 +430,12 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/ktm/1390-super-adventure-r",
     analisisSlug: "ktm-1390-super-adventure-r-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera a los 1.000 km y, después, revisiones cada 15.000 km o anualmente.",
+      intervaloMantenimiento: "A los 1.000 km, primera revisión; luego, servicios cada 15.000 km o anualmente.",
       aceiteTipo: "El aceite del cambio es 10W-50 Motorex Power Synt 4T.",
       cadenaPasos: [
-        "Tras cada salida por tierra, lava la cadena con agua a presión moderada.",
-        "Dale lubricante para off-road, específico y que repele el barro, tras limpiar la cadena.",
-        "Con la moto en el caballete, comprueba la holgura de la cadena y ajústala según el manual.",
+        "Después de una salida por tierra, aclara la cadena con agua a presión moderada.",
+        "Una vez limpia, dale lubricante para off-road que repele el barro en toda la cadena.",
+        "Con la moto ya en el caballete, comprueba la holgura y ajústala según el manual.",
       ],
       trucos: [
         "El modo Offroad del ABS permite bloquear la trasera en tierra.",
@@ -501,12 +501,12 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.ktm.com/es-es/powerdeals/2026-Finance-Campaign.html",
     analisisSlug: "ktm-125-duke-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "La primera revisión es a los 1.000 km; las siguientes, cada 10.000 km o al año.",
+      intervaloMantenimiento: "La revisión de rodaje es a los 1.000 km; las demás, cada 10.000 km o al año.",
       aceiteTipo: "El cambio de aceite lleva 15W-50 Motorex Formula 4T.",
       cadenaPasos: [
-        "Limpia la cadena primero con un trapo seco y después con limpiador específico para cadenas con retenes.",
-        "Dale a la cadena su lubricante específico, haciendo girar la rueda trasera para repartirlo bien.",
-        "Comprueba la tensión con la moto derecha en vertical y ajústala siguiendo el manual del propietario.",
+        "Pasa primero un trapo seco y después un limpiador compatible con cadenas de retenes.",
+        "Dale su lubricante haciendo girar despacio la rueda de atrás para repartirlo bien.",
+        "Con la moto derecha, comprueba la tensión y ajústala como marca el libro del propietario.",
       ],
       trucos: [
         "Con el carnet B y 3 años de antigüedad no necesitas sacarte el A1.",
@@ -572,7 +572,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/bmw/r-18-b",
     analisisSlug: "bmw-r-18-b-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Revisión cada 10.000 km o una vez al año, lo que llegue antes.",
+      intervaloMantenimiento: "Taller cada 10.000 km o bien una vez al año, según lo que se cumpla antes.",
       aceiteTipo: "Aceite 5W-40 BMW Motorrad ADVANTEC Ultimate para el motor bóxer.",
       cadenaPasos: [],
       trucos: [
@@ -640,12 +640,12 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/ktm",
     analisisSlug: "ktm-990-duke-r-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "A los 1.000 km, primera revisión; después, cada 15.000 km o doce meses.",
+      intervaloMantenimiento: "Rodaje cerrado con la revisión de los 1.000 km; después, cada 15.000 km o doce meses.",
       aceiteTipo: "Cambio con 10W-50 de Motorex Power Synt 4T.",
       cadenaPasos: [
-        "Deja la cadena limpia con limpiador específico para cadenas con retenes.",
-        "Reparte lubricante específico para cadenas haciendo girar la rueda trasera poco a poco.",
-        "Con la moto en vertical, comprueba la tensión y ajústala como indica el manual del propietario.",
+        "Deja la cadena sin suciedad con un limpiador para cadenas con juntas tóricas.",
+        "Reparte el lubricante haciendo girar poco a poco la rueda de atrás.",
+        "Derecha y en vertical, mide la tensión y déjala según el manual del propietario.",
       ],
       trucos: [
         "Las suspensiones regulables merecen un reglaje profesional según tu peso.",
@@ -711,12 +711,12 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/ktm",
     analisisSlug: "ktm-390-duke-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "A los 1.000 km la primera; a partir de ahí, cada 10.000 km o cada año.",
+      intervaloMantenimiento: "Primera revisión con 1.000 km en el marcador; a partir de ahí, cada 10.000 km o cada año.",
       aceiteTipo: "Para el aceite, 15W-50 de Motorex Formula 4T.",
       cadenaPasos: [
-        "Quita la suciedad de la cadena con un trapo seco y remata con limpiador específico para cadenas con retenes.",
-        "Echa lubricante específico para cadenas y, al girar la rueda trasera, haz que se reparta.",
-        "Mide la tensión con la moto puesta en vertical, y ajústala según el manual del propietario.",
+        "Quita la suciedad con un trapo seco y remata con un desengrasante para cadenas con juntas.",
+        "Echa lubricante y, al mover la rueda de atrás, consigue que se reparta por igual.",
+        "Mide la tensión con la moto recta y ajústala conforme al manual del propietario.",
       ],
       trucos: [
         "El launch control de serie ayuda en salidas rápidas sin quemar embrague.",
@@ -783,7 +783,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/bmw",
     analisisSlug: "bmw-r-1300-gs-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 10.000 km o doce meses, lo que ocurra primero, toca revisión.",
+      intervaloMantenimiento: "Lo que suceda primero marca la revisión: cada 10.000 km o doce meses.",
       aceiteTipo: "El motor lleva 5W-40 BMW Motorrad ADVANTEC Ultimate.",
       cadenaPasos: [],
       trucos: [
@@ -851,7 +851,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.motorpasionmoto.com/zona-de-pruebas/prueba-bmw-r-1300-gs-adventure-2025",
     analisisSlug: "bmw-r-1300-gs-adventure-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Servicio cada 10.000 km o cada año, lo que antes suceda.",
+      intervaloMantenimiento: "El servicio llega cada 10.000 km o cada año, lo que antes se cumpla.",
       aceiteTipo: "Aceite del motor: 5W-40 BMW Motorrad ADVANTEC Ultimate.",
       cadenaPasos: [],
       trucos: [
@@ -919,12 +919,12 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/bmw",
     analisisSlug: "bmw-f-900-gs-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Mantenimiento cada 10.000 km o anualmente, lo que llegue primero.",
+      intervaloMantenimiento: "Mantenimiento cada 10.000 km o anualmente, lo que se alcance primero.",
       aceiteTipo: "En el motor lleva 5W-40 de BMW Motorrad ADVANTEC Ultimate.",
       cadenaPasos: [
-        "Desengrasa bien la cadena usando limpiador específico para cadenas con retenes.",
-        "Aplica lubricante específico para cadenas y, girando la rueda trasera, haz que se reparta.",
-        "Pon la moto en el caballete, mide la tensión de la cadena y déjala según el manual.",
+        "Desengrasa a fondo usando un limpiador apto para cadenas con retenes.",
+        "Aplica lubricante y, mientras giras la rueda de atrás, haz que llegue a todos los eslabones.",
+        "Pon la moto en el caballete y mide la tensión: déjala en el valor del manual.",
       ],
       trucos: [
         "El filtro de aire va bajo el depósito de plástico: acceso sencillo.",
@@ -990,12 +990,12 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/bmw",
     analisisSlug: "bmw-f-800-gs-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 10.000 km o al año: ese es el intervalo de revisión.",
+      intervaloMantenimiento: "Cada 10.000 km o al año marca el intervalo de revisión de esta moto.",
       aceiteTipo: "Aceite recomendado 5W-40 BMW Motorrad ADVANTEC Ultimate.",
       cadenaPasos: [
-        "Limpia la cadena a fondo con limpiador específico para cadenas con retenes.",
-        "Lubrica la cadena dándole lubricante específico y moviendo la rueda de atrás para repartirlo.",
-        "Mide la tensión con la moto subida al caballete y corrígela según el manual.",
+        "Limpia a fondo con un producto limpiador para cadenas con juntas tóricas.",
+        "Lubrica dándole lubricante y moviendo la rueda trasera para repartirlo por igual.",
+        "Con la moto ya subida al caballete, mide la tensión y corrígela como indica el manual.",
       ],
       trucos: [
         "La limitación a 35 kW para el A2 la hace el concesionario con kit oficial.",
@@ -1061,7 +1061,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/bmw",
     analisisSlug: "bmw-r-12-ninet-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Revisión cada 10.000 km o cada 12 meses, lo que antes ocurra.",
+      intervaloMantenimiento: "Revisión cada 10.000 km o cada 12 meses, lo que antes se dé.",
       aceiteTipo: "El bóxer usa 5W-40 BMW Motorrad ADVANTEC Ultimate.",
       cadenaPasos: [],
       trucos: [
@@ -1129,7 +1129,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/bmw",
     analisisSlug: "bmw-r-18-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Toca revisión cada 10.000 km o anualmente.",
+      intervaloMantenimiento: "Anualmente o cada 10.000 km toca revisión, sin más.",
       aceiteTipo: "Motor bóxer con aceite 5W-40 BMW Motorrad ADVANTEC Ultimate.",
       cadenaPasos: [],
       trucos: [
@@ -1197,12 +1197,12 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/bmw",
     analisisSlug: "bmw-f-900-r-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "El intervalo es de un año o 10.000 km, lo que antes llegue.",
+      intervaloMantenimiento: "El plazo es de un año o 10.000 km, lo que antes se cumpla.",
       aceiteTipo: "5W-40 BMW Motorrad ADVANTEC Ultimate: el aceite que lleva.",
       cadenaPasos: [
-        "Pasa limpiador específico para cadenas con retenes por la cadena entera.",
-        "Engrasa con su lubricante específico para cadenas, moviendo la rueda trasera para repartirlo.",
-        "Con la moto sobre el caballete, revisa la tensión y ajústala según el manual.",
+        "Pasa el limpiador para cadenas con retenes por cada eslabón de la cadena.",
+        "Engrasa con lubricante para cadenas moviendo la rueda de atrás para repartirlo.",
+        "Sobre el caballete, revisa la tensión y ajústala conforme al manual.",
       ],
       trucos: [
         "La versión A2 de 95 CV se limita a 35 kW en el concesionario.",
@@ -1268,12 +1268,12 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/bmw",
     analisisSlug: "bmw-s-1000-r-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 10.000 km o 12 meses: revisión al llegar a lo primero.",
+      intervaloMantenimiento: "Cada 10.000 km o 12 meses, y revisión al cumplirse lo primero.",
       aceiteTipo: "Aceite 5W-40 de BMW Motorrad ADVANTEC Ultimate en el cárter.",
       cadenaPasos: [
-        "Limpia la cadena entera con limpiador específico para cadenas con retenes.",
-        "Unta la cadena con lubricante específico para cadenas y gira la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en el caballete y ajusta según el manual.",
+        "Limpia cada eslabón con un desengrasante compatible con cadenas de retenes.",
+        "Unta lubricante para cadenas y gira la rueda de atrás para repartirlo bien.",
+        "Comprueba la tensión con la moto en el caballete y ajusta hasta el valor del manual.",
       ],
       trucos: [
         "El control de derrapada (DTC) permite derrapar con seguridad en circuito.",
@@ -1339,7 +1339,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/bmw",
     analisisSlug: "bmw-r-12-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Revisión: cada 10.000 km o anualmente.",
+      intervaloMantenimiento: "Cada 10.000 km o anualmente: ese es su servicio programado.",
       aceiteTipo: "En el motor, 5W-40 BMW Motorrad ADVANTEC Ultimate.",
       cadenaPasos: [],
       trucos: [
