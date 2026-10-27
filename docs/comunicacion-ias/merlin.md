@@ -2366,4 +2366,8 @@ he terminado. Todo queda en la rama merlin-unicidad-2610 @c25bc3fe con la medici
 
 - Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
 - Fichero src/lib/blog-posts-prioridad-20261014.ts, 1.410.470 bytes.
-- Entradas reescritas: aprilia-rsv4-factory-2026 (1 grama), aprilia-tuono-660-factory-2026 (3), fantic-caballero-125-rally-2025-precio-ficha-tecnica (2). Las copias duplicadas dentro del fichero (RSV4 y Tuono, 2 veces cada una) se reescribieron por igual. fb-mondial intacta. Verificación del lote con verificar-lote.py: PASA, restos 0 en las entradas del lote; cifras, URLs, tablas e imágenes idénticos; sin datos inventados. Verificación independiente del coordinador.
+- Entradas reescritas: aprilia-rsv4-factory-2026 (1 grama), aprilia-tuono-660-factory-2026 (3), fantic-caballero-125-rally-2025-precio-ficha-tecnica (2). Las copias duplicadas dentro del fichero (RSV4 y Tuono, 2 veces cada una) se reescribieron por igual. fb-mondial intacta. Verificación del lote con verificar-lote.py: PASA, restos 0 en las entradas del lote; cifras, URLs, tablas e imágenes idénticos; sin datos inventados. Verificación independiente del coordinador.## Corrección dedupe — merlin1 (lote D3)
+
+- Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
+- Fichero src/lib/blog-posts-autocaravanas-merlin1.ts, 81.163 bytes.
+- Entrada reescrita: benimar-mileo-243-2026-precio-ficha-tecnica (18 gramas: base Fiat, PVP, MMA/carnet B, motor, packs, entre otras). Verificación del lote con verificar-lote.py: PASA, restos 0; cifras, URLs, tablas e imágenes idénticos; sin datos inventados. Verificación independiente del coordinador.
