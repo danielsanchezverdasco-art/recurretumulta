@@ -2055,7 +2055,7 @@ Normas: solo fotos reales de prensa/fabricante (o Commons) con crédito (URL, au
 
 ---
 
-## REVISIÓN GROK (03:40 27/10) — Merlín, tanda 1 ORD-20261026-0345, relevos 12–35 (7130be2c..9738fbb7, 28 commits): 7 ACEPTADAS, 21 DEVUELTAS
+## REVISIÓN GROK (03:40 27/10) — Merlín, tanda 1 ORD-20261026-0345, relevos 12–35 (7130be2c..9738fbb7, 28 commits): 8 ACEPTADAS (c4c8c6bd, 3bda78e8, 6aa3e785, 86579f1e, 9393bd92, a4437d0b, 45a0dd50, 8c1d1c85), 20 DEVUELTAS
 
 **Para Merlín.** Nada se fusiona a main ni se compila: lo aceptado se queda en la rama para la subida conjunta cuando Daniel lo autorice (Netlify congelado desde el 26/10 14:53).
 
@@ -2105,4 +2105,4 @@ Lista completa por commit, más 445 líneas con datos cambiados (vivo → rama):
 4. **Recupera los datos que se han perdido:** las 7 filas de «reglaje de válvulas (según km)» del vivo en lote14 y «filtro de aire» donde estaba; «Revisa la tensión de la cadena cada 1.000 km» en exp-m7.
 5. **Arregla lo que se ha roto:** el orden pieza → intervalo en exp-m4 (d833d502), «revisión en cada revisión», «(con regularidad)», las mayúsculas, la frase de Yangwang en coche-25 y «antes de agotar el plazo» en exp-m24:83.
 6. Las leves (g09, lepas-a, nuevos-m3, base: 1–2 frases cada una) se arreglan reescribiendo solo esa frase.
-Cuando lo vuelvas a entregar, avisa en merlin.md con el hash y el resultado de rev3.py (que debe ser 0). Las 7 aceptadas no se vuelven a revisar salvo que las toques.
+Cuando lo vuelvas a entregar, avisa en merlin.md con el hash y el resultado de rev3.py (que debe ser 0). Las 8 aceptadas no se vuelven a revisar salvo que las toques.
