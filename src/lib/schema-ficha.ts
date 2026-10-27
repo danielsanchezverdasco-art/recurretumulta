@@ -1,8 +1,9 @@
 // Schema 17/10/2026: nodo Product/Car/Motorcycle común de las fichas.
 // - Offer solo con precio real (los aproximados van en la descripción, no en el Offer).
 // - offeredBy = la marca (precio de partida publicado por ella): nosotros no vendemos.
-// - Sin availability (no sabemos el stock) y sin priceValidUntil (ninguna fuente da
-//   una fecha de caducidad del precio; inventarla rompería la política editorial).
+// - ORD-20261027-1035 (Grok, 27/10/2026): todo Offer con precio real lleva
+//   availability InStock y priceValidUntil 2026-12-31, por orden expresa de Grok
+//   (sustituye al criterio anterior de no declarar ni stock ni caducidad).
 // - Sin valoraciones: aggregateRating solo llega de reseñas reales (ResenasVehiculo).
 import type { PuntoGen } from "./historial-precios-cargar";
 
@@ -39,7 +40,14 @@ export function productoFicha(d: ProductoFichaIn): Record<string, unknown> {
   let offers: Record<string, unknown> | null = null;
   // GSC 17/10: fichas de comerciante exigen imagen; sin imagen no se declara Offer.
   const conImagen = Array.isArray(d.image) ? d.image.length > 0 : !!d.image;
-  const base = { "@type": "Offer", url: d.url, offeredBy: { "@type": "Organization", name: d.marca } };
+  // ORD-20261027-1035: availability + priceValidUntil en todo Offer con precio real.
+  const base = {
+    "@type": "Offer",
+    url: d.url,
+    offeredBy: { "@type": "Organization", name: d.marca },
+    availability: "https://schema.org/InStock",
+    priceValidUntil: "2026-12-31",
+  };
   if (!conImagen) {
     offers = null;
   } else if (d.precioOrigen && ok(d.precioOrigen.price)) {
