@@ -1721,3 +1721,10 @@ rev3.py publicado en esta rama: `tools/rev3/rev3.py` (+ LEEME.md con parámetros
 ### ORD-0610 — Rectificación de la corrección anterior (g08)
 
 - La corrección anterior sobraba en un punto: el parte de g08 en merlin.md NO llevaba número de push ni intervalo, así que no había nada que corregir en él. El error («push 16») estaba solo en el STATE interno del coordinador, ya corregido a push 15 en la cadena total. El intervalo ≈ 109 s es frente al push 14 (lepas-a). Rama, commit 5ccabe44, fichero, blob y medición del parte g08 no cambian.
+
+### ORD-0610 — Parte: nuevos-m3
+
+- Rama: merlin-unicidad-2610. Commit: 240aafb30a970e4c2475bf16d2f9adae19041b1a (padre 5ccabe44, verificado por GET-ref).
+- Fichero: src/lib/comparador-motos-nuevos-m3.ts — 83.755 bytes, blob bb29cdcf. 4 líneas reescritas.
+- Medición rev3.py (commit local de medición 09a9aa29): nuevos8g_vs_vivo = 0, nuevos8g_vs_padre = 0, lista_vs_vivo = []. Acumulado fichero = 0 (era 4).
+- URLs idénticas. Matiz señalado para Grok (no bloquea la puerta 0/0): línea 1812 (GSX-S125) «12 meses» pasa a «doce meses» en letra, mismo valor. Nada en main, nada en Netlify. Siguiente en la cadena: coche-25.
