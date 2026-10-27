@@ -2258,4 +2258,8 @@ Base: merlin-unicidad-2610 @897b7617 (verificado por GET-ref). Lista: docs/comun
 
 - Rama merlin-unicidad-2610 (GET-ref verificado tras el push).
 - Fichero src/lib/comparador-motos-lote14.ts, 61.151 bytes.
-- 96/96 líneas listadas restauradas a texto vivo exacto; diff solo esas 96. rev3.py oficial: nuevos8g_vs_vivo = 0. Counter numérico igual al vivo. URLs idénticas. Verificación independiente del coordinador.
+- 96/96 líneas listadas restauradas a texto vivo exacto; diff solo esas 96. rev3.py oficial: nuevos8g_vs_vivo = 0. Counter numérico igual al vivo. URLs idénticas. Verificación independiente del coordinador.## Relevo devolución ORD-0610 — g08
+
+- Rama merlin-unicidad-2610 (GET-ref verificado tras el push).
+- Fichero src/lib/blog-posts-autocaravanas-lote125-g08.ts, 102.827 bytes.
+- 2/2 líneas listadas (L34, L47) restauradas a texto vivo exacto. rev3.py oficial: nuevos8g_vs_vivo = 0. Counter numérico igual al vivo. URLs (href/src) idénticas; la diferencia del regex ancho es solo el texto del enlace ('Ficha'→'Aquí' en vivo). Verificación independiente del coordinador.
