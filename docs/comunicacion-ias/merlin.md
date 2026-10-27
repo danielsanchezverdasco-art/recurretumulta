@@ -1756,3 +1756,10 @@ rev3.py publicado en esta rama: `tools/rev3/rev3.py` (+ LEEME.md con parámetros
 - Fichero: src/lib/comparador-motos-exp-m4.ts — 149.419 bytes, blob ca50579e. 3 líneas reescritas.
 - Medición rev3.py (commit local de medición 7963aa79a): nuevos8g_vs_vivo = 0, nuevos8g_vs_padre = 0, lista_vs_vivo = []. Acumulado fichero = 0 (era 7).
 - Multiconjunto numérico idéntico, URLs idénticas. Nada en main, nada en Netlify. Siguiente en la cadena: base (último de los 16 verificados).
+
+### ORD-0610 — Parte: base (último de los 16 verificados)
+
+- Rama: merlin-unicidad-2610. Commit: b7e4a8720be5cdbf4d996d35ffbb399ea079b75b (padre 332b769d, verificado por GET-ref).
+- Fichero: src/lib/comparador-motos-base.ts — 353.990 bytes, blob 1b6431c7. 3 líneas reescritas.
+- Medición rev3.py (commit local de medición d6b0ec48f): nuevos8g_vs_vivo = 0, nuevos8g_vs_padre = 0, lista_vs_vivo = []. Acumulado fichero = 0 (era 6).
+- Multiconjunto numérico idéntico, URLs idénticas. Nada en main, nada en Netlify. Con este push quedan subidos los 16 ficheros verificados (20 devueltas + moto-09 + relevo 37 = 21 pushes en la cadena). Siguiente fase: RESTO hacia 0 en la rama entera (re-medir cabeza y corregir lo que quede).
