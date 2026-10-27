@@ -2,7 +2,7 @@
 // shared-navbar.tsx del export v2 era una versión anterior: sin «Fichas
 // técnicas», sin WhatsApp y sin el contador de la caza de monos).
 import { Link } from "react-router-dom";
-import { BookOpen, MapPin, Sparkles, Building2, Wrench, ChevronDown, Menu, X, MessageCircle, CarFront, Mail, Store, Radar } from "lucide-react";
+import { BookOpen, MapPin, Sparkles, Building2, Wrench, ChevronDown, Menu, X, MessageCircle, CarFront, Mail, Radar } from "lucide-react";
 import { useEffect, useState, type CSSProperties } from "react";
 import { useTranslation } from "react-i18next";
 import { HERRAMIENTAS, CATEGORIAS_HERRAMIENTAS } from "@/lib/herramientas-data.ts";
@@ -12,7 +12,6 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu.tsx";
-import IconoCarrito from "@/components/tienda/IconoCarrito.tsx";
 import ContadorMonos from "@/components/caza-monos/ContadorMonos.tsx";
 import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
 import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
@@ -97,9 +96,6 @@ export default function SharedNavbar({ ctaMode = "link" }: SharedNavbarProps) {
           >
             <CarFront className="w-3.5 h-3.5" /> Fichas técnicas
           </Link>
-          <Link to="/tienda/" className={"hidden sm:flex items-center gap-1 text-xs font-semibold text-gray-500 hover:text-gray-900 transition-colors cursor-pointer"}>
-            <Store className="w-3.5 h-3.5" /> Tienda
-          </Link>
           <Link to="/empresas/" className={"hidden md:flex items-center gap-1 text-xs font-semibold text-gray-500 hover:text-gray-900 transition-colors cursor-pointer"}>
             <Building2 className="w-3.5 h-3.5" /> Empresas
           </Link>
@@ -144,7 +140,6 @@ export default function SharedNavbar({ ctaMode = "link" }: SharedNavbarProps) {
             </DropdownMenuContent>
           </DropdownMenu>
           <span className="hidden sm:contents">{cta}</span>
-          <IconoCarrito />
           <ContadorMonos />
           <button
             className="sm:hidden flex items-center justify-center w-9 h-9 rounded-full text-gray-700 hover:bg-gray-100 cursor-pointer"
@@ -183,9 +178,6 @@ export default function SharedNavbar({ ctaMode = "link" }: SharedNavbarProps) {
             style={{ "--mi": 3 } as CSSProperties}
           >
             <CarFront className="w-4 h-4" /> Fichas técnicas
-          </Link>
-          <Link to="/tienda/" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 4 } as CSSProperties}>
-            <Store className="w-4 h-4" /> Tienda
           </Link>
           <Link to="/newsletter/" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 4 } as CSSProperties}>
             <Mail className="w-4 h-4" /> Newsletter
