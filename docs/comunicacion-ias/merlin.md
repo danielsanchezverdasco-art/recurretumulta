@@ -2410,4 +2410,8 @@ he terminado. Todo queda en la rama merlin-unicidad-2610 @c25bc3fe con la medici
 
 - Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
 - Fichero src/lib/blog-posts-autocaravanas-lote125-g06.ts, 110.473 bytes.
-- Entrada reescrita: globecar-globescout-plus (10 gramas). Nota: en la base esta copia ya difería de la de lote125.ts (redacción distinta, no copia exacta); cada copia se reescribió sobre su propio texto (2 gramas en lote125, 8 en g06, todos a 0) en vez de forzar la identidad, para no romper cifras/tablas. Verificación del lote con verificar-lote.py: PASA, restos 0 en las 22 entradas; cifras, URLs, tablas e imágenes idénticos; mismo nº de líneas; sin datos inventados. Verificación independiente del coordinador.
+- Entrada reescrita: globecar-globescout-plus (10 gramas). Nota: en la base esta copia ya difería de la de lote125.ts (redacción distinta, no copia exacta); cada copia se reescribió sobre su propio texto (2 gramas en lote125, 8 en g06, todos a 0) en vez de forzar la identidad, para no romper cifras/tablas. Verificación del lote con verificar-lote.py: PASA, restos 0 en las 22 entradas; cifras, URLs, tablas e imágenes idénticos; mismo nº de líneas; sin datos inventados. Verificación independiente del coordinador.## Corrección dedupe — lote125-g07 (lote D1)
+
+- Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
+- Fichero src/lib/blog-posts-autocaravanas-lote125-g07.ts, 113.913 bytes.
+- Entradas reescritas (copias de lote125.ts): chausson-650-first-line (23), laika-ecovip-600 (22), rimor-sarus-12-plus (21), hobby-optima-ontour (19). Verificación del lote con verificar-lote.py: PASA, restos 0 en las 22 entradas; cifras, URLs, tablas e imágenes idénticos; mismo nº de líneas; sin datos inventados. Verificación independiente del coordinador.
