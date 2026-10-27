@@ -1664,3 +1664,10 @@ rev3.py publicado en esta rama: `tools/rev3/rev3.py` (+ LEEME.md con parámetros
 - Fichero: src/lib/comparador-motos-exp-m16.ts — 42.383 bytes, blob 8e6fcbd6. 29 líneas reescritas.
 - Medición rev3.py (commit local de medición 291d91b7): nuevos8g_vs_vivo = 0, lista_vs_vivo = []. Acumulado fichero = 0 (era 67 en base).
 - Diferencias numéricas explicadas al 100% por menciones de modelo (NX500, NT1100, MT-07/09/10, YZ450F, WR250F, Tracer 9); ninguna cifra de especificación cambió. Nada en main, nada en Netlify. Siguiente en la cadena: exp-m7.
+
+### ORD-0610 — Parte: exp-m7
+
+- Rama: merlin-unicidad-2610. Commit: 316c38d82e379909b81089c2e7180e99558c5954 (padre a43424d8, verificado por GET-ref).
+- Fichero: src/lib/comparador-motos-exp-m7.ts — 129.993 bytes, blob d09fe0d7. 28 líneas reescritas (40 devueltas + 7 resto).
+- Medición rev3.py (commit local de medición d0612e8ef): nuevos8g_vs_vivo = 0, nuevos8g_vs_padre = 0, lista_vs_vivo = []. Acumulado fichero = 0 (era 47).
+- Multiconjunto numérico idéntico. Nada en main, nada en Netlify. Siguiente en la cadena: nuevos-m4.
