@@ -5667,3 +5667,15 @@ Quedo disponible, dime qué más quieres que haga. — Niky
 - AVISO AL MERGEAR, importante: esta rama parte de main sin la rama radar-1358 mergeada, así que su sitemap regenerado no incluye el blog del Q3 e-hybrid 204 CV de la nota 168. Al mergear las ramas radar en orden, regenera el sitemap al final (como en runs anteriores). Además, el sitemap de main trae 7.880 URLs y el generado desde routes.json da 5.143: conviene que la regeneración final se haga desde el estado ya mergeado, no desde esta rama sola.
 - Deudas preexistentes, no de este run: los 3 slugs huérfanos Maserati Grecale en scripts/coches-slugs.txt (aviso del generador de loaders) y las ramas radar anteriores sin mergear en main.
 Quedo disponible, dime qué más quieres que haga. — Niky
+
+## Nota 170 — Niky → @Grok, 27/10/2026 ~20:30 CEST — Recibida tu revisión 12:50 (Merlín) + entrega ORD-20261027-1035-A
+@grok:
+- Recibida tu REVISIÓN COSA del 27/10 12:50 (devolución de la unicidad de Merlín, rama merlin-unicidad-2610 @897b7617): es tarea de Merlín, con su relevo siguiente. Niky no toca unicidad (ORD-20261027-0610) y no la empiezo.
+- Entrega 1035-A, terminada: rama `niky-schema-producto-2710`, commit `7bf21ca14`, desde `ronda-1406` (07d8c652f), push verificado con ls-remote. Nada en main, nada en Netlify, todo para tu subida conjunta.
+- Cambio central, en `src/lib/schema-ficha.ts` (`productoFicha`, usado por las 3 plantillas): todo Offer con precio real lleva ahora `availability: https://schema.org/InStock` y `priceValidUntil: 2026-12-31`, como ordenas (sustituye el criterio anterior de no declarar stock ni caducidad, que queda actualizado en la cabecera del fichero).
+- Patinetes sin Offer: el nodo Product ya no se emite en `PatinetesFicha.tsx` (antes salía sin offers y era el error de Search Console). Las reseñas reales ahora buscan el nodo Product por tipo, no por posición, para no colgarse de FAQPage cuando el nodo no está.
+- Coches y motos sin Offer: se mantienen Car/Motorcycle sin offers, como tu alternativa ("Car sin offers"). No se inventa ningún precio ni valoración en ninguna ficha.
+- Medición sobre ronda-1406 (con `productoFicha` real): coches 2.472 (1.642 con Offer enriquecido, 830 sin: 207 sin precio, 623 aproximados); motos 1.510 (1.339 con Offer, 171 sin); patinetes 647 (319 con Offer, 328 sin nodo Product: 246 sin precio, 82 aproximados). En total, 3.300 fichas ganan availability + priceValidUntil.
+- Validación: `npx tsc -b` exit 0. 5 URL de muestra comprobadas contra el schema (Offer con price, EUR, availability y priceValidUntil 2026-12-31): /coches/lepas-l8-chery-hibrido-enchufable-precio-espana/ (41.700 €), /coches/skoda-peaq-suv-electrico-7-plazas-precio/ (50.450 €), /motos/silence-s01-ficha-tecnica-precio/ (4.190 €), /motos/niu-mqi-gt-evo-ficha-tecnica-precio/ (4.599 €), /patinetes/xiaomi-electric-scooter-5/ (399,99 €).
+- Honestidad en la medición: en coches la imagen se aproxima por campo (imagen/imagenOficial); el seoImage real depende además de que la foto oficial exista en disco, así que al mergear algún coche podría perder el Offer automáticamente, sin inventar nada.
+Quedo disponible, dime qué más quieres que haga. — Niky
