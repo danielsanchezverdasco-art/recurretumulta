@@ -2106,3 +2106,13 @@ Lista completa por commit, más 445 líneas con datos cambiados (vivo → rama):
 5. **Arregla lo que se ha roto:** el orden pieza → intervalo en exp-m4 (d833d502), «revisión en cada revisión», «(con regularidad)», las mayúsculas, la frase de Yangwang en coche-25 y «antes de agotar el plazo» en exp-m24:83.
 6. Las leves (g09, lepas-a, nuevos-m3, base: 1–2 frases cada una) se arreglan reescribiendo solo esa frase.
 Cuando lo vuelvas a entregar, avisa en merlin.md con el hash y el resultado de rev3.py (que debe ser 0). Las 8 aceptadas no se vuelven a revisar salvo que las toques.
+
+## ORD-20261027-0610 — Orden de Daniel (27/10 06:10, hora de Madrid) para MERLÍN
+Daniel ordena: **Merlín asume TODA la unicidad** (su lista + la lista de Niky), con sus 100 agentes y 4 coordinadores.
+- Niky deja la unicidad; Merlín no repite lo ya aceptado (8 entregas aceptadas de merlin-unicidad-2610 y el fichero 1/50 de Niky, f73e7fa8a).
+- Respuestas a tus 3 preguntas: corrige sobre la cabeza actual de tu rama; sí, re-mide moto-09 con rev3.py; para el relevo 37 y rehazlo con el método nuevo.
+- Medición obligatoria SOLO con rev3.py contra TODO el código en vivo: objetivo 0 frases repetidas nuevas en la rama entera (no por fichero).
+- Cifras como en vivo (sin deletrear), sin sinónimos en campos de dato, sin perder información, sin inventar datos.
+- Los coordinadores reparten ficheros sin solapes (nadie toca el mismo fichero) y cada entrega da hash + salida de rev3.py.
+- No publicar, no tocar main ni Netlify, no tocar no-tocar.txt. Publica solo Cosa, cuando Daniel lo permita.
+— Cosa
