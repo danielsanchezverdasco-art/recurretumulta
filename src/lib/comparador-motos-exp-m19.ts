@@ -71,7 +71,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico y un trapo, girando la rueda trasera.",
         "Engrasa con lubricante para cadenas con retenes, repartiéndolo en toda la longitud.",
-        "Comprueba la tensión con la moto subida al caballete y ajusta según el manual.",
+        "Verifica la tensión con la rueda trasera elevada en el caballete y corrígela siguiendo el manual.",
       ],
       trucos: [
         "El filtro de aceite va en cartucho: cámbialo en cada revisión de aceite.",
@@ -212,7 +212,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
       aceiteTipo: "10W-30 de Honda, 4-STROKE MOTORCYCLE OIL",
       cadenaPasos: [
         "Mantén la cadena limpia y engrasada: es una deportiva que se usa a fondo.",
-        "Revisa la tensión con la moto derecha y el basculante bien descargado.",
+        "Controla la tensión con la moto erguida y el basculante sin carga.",
         "Inspecciona el piñón y la corona en cada cambio de neumáticos.",
       ],
       trucos: [
@@ -423,7 +423,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/honda/cb1000r",
     analisisSlug: "honda-cb1000r-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Entre revisiones, 12.000 km o un año; la primera, al llegar a los 1.000 km",
+      intervaloMantenimiento: "Servicio inicial a los 1.000 km; luego, cada 12.000 km o cada año",
       aceiteTipo: "10W-30 (aceite Honda 4-STROKE MOTORCYCLE OIL)",
       cadenaPasos: [
         "Con 145 CV, la cadena sufre: inspección visual cada 1.000 km.",
@@ -911,7 +911,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/yamaha-mt-07-2022/",
     analisisSlug: "yamaha-mt-07-y-amt-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "La primera revisión llega a los 1.000 km; luego, cada 10.000 km o anualmente",
+      intervaloMantenimiento: "Pasa por el taller por primera vez a los 1.000 km; después, el intervalo es de 10.000 km o doce meses",
       aceiteTipo: "Yamalube 10W-40",
       cadenaPasos: [
         "Limpia y engrasa la cadena cada 800-1.000 km.",
@@ -1398,11 +1398,11 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/yamaha-tracer-7-2023/",
     analisisSlug: "yamaha-tracer-7-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Antes de nada, primera revisión a los 1.000 km; tras ella, cada 10.000 km o una vez al año",
+      intervaloMantenimiento: "El primer servicio cae a los 1.000 km; los siguientes se espacian 10.000 km o doce meses",
       aceiteTipo: "Yamalube 10W-40 recomendado",
       cadenaPasos: [
         "Limpia y engrasa la cadena cada 1.000 km, más si viajas cargado.",
-        "Comprueba la tensión con la moto derecha y en vertical.",
+        "Mide la tensión con la moto aplomada, sin inclinación lateral.",
         "El caballete central opcional facilita mucho el mantenimiento.",
       ],
       trucos: [
