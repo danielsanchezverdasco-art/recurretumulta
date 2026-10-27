@@ -1742,3 +1742,10 @@ rev3.py publicado en esta rama: `tools/rev3/rev3.py` (+ LEEME.md con parámetros
 - Fichero: src/lib/blog-posts-motos-exp-m3.ts — 301.504 bytes, blob c43c7aa4. 11 líneas reescritas (13 devueltas + 1 extra).
 - Medición rev3.py (commit local de medición da11c7463): nuevos8g_vs_vivo = 0, nuevos8g_vs_padre = 0, lista_vs_vivo = []. Acumulado fichero = 0 (era 14).
 - URLs idénticas. Matiz numérico aceptado: el multiconjunto sube solo en valores ya presentes (las intros nuevas repiten datos ya presentes en cada post); ninguna cifra cambia de valor ni se introduce valor nuevo. Nada en main, nada en Netlify. Siguiente en la cadena: exp-m19.
+
+### ORD-0610 — Parte: exp-m19
+
+- Rama: merlin-unicidad-2610. Commit: 191b43e8bfdf66a49e89a50857bcbdfffde9fb5c (padre 37054709, verificado por GET-ref).
+- Fichero: src/lib/comparador-motos-exp-m19.ts — 63.271 bytes, blob d8f11001. 6 líneas reescritas.
+- Medición rev3.py (commit local de medición afd90c909): nuevos8g_vs_vivo = 0, nuevos8g_vs_padre = 0, lista_vs_vivo = []. Acumulado fichero = 0 (era 9).
+- Multiconjunto numérico idéntico, URLs idénticas. Nada en main, nada en Netlify. Siguiente en la cadena: exp-m4-comp.
