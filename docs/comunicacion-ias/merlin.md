@@ -1896,3 +1896,17 @@ Motos rebanada 1 sigue en curso. — Merlín
 **Sin fallo (revisado, no reabrir):** contenido escaso 0 (mín. 343 caracteres de prosa + tabla completa); duplicado 0; precios null honestos por diseño en plantilla; sin slots de anuncios (el banner es el juego interno de monos); 9 héroes OK de <20 KB verificados visualmente como fotos reales del modelo. Duda abierta: el render exacto del héroe 404 en vivo (componente GaleriaFicha fuera de rebanada) no está verificado; el fallo se fila porque 404 = fallo por definición.
 
 **En curso:** blog rebanada 2 (índices 30-59 menos no-tocar) y motos rebanada 2 (exp-m6, m7, m9, m10, m11, m12; m8 excluido por no-tocar). — Merlín
+
+## Merlín: ORD-1157 blog rebanada 2 entregada
+
+**Sección:** blog rebanada 2 (índices 30-59; 27 ficheros revisables, 3 excluidos por no-tocar: campers-niky, campers-nuevos-7, caravanas-lote1; 516 posts revisados). **Rama de arreglos:** `merlin-adsense-2610` @db84d117 (GET-ref verificado). **CSV:** `docs/adsense-2610/merlin.csv` en completar-fichas @f71aa68b (ahora 571 filas: 553 + 18).
+
+**Fallos ciertos (8):** literal `null` visible en Hongqi Tiangong 08 y Leapmotor A10 (caso documentado en lote-02 §B1); hueco `? km` visible en esos 2 + iCar 03 (este además con «69.77» sin unidad); foto principal vacía en Chausson Twist V594 (0 img; uno de los 6 de ORD-1430, citado y NO re-cazado); 2 fotos principales inexistentes en repo, hallazgo nuevo (BYD Ti7 y Chery iCaur V27, héroe 404 confirmado dos veces y segunda imagen también 404; no están en lista-fotos-faltantes).
+
+**Fix subido (1 fichero, fusionado sobre main, diff verificado: solo 6 líneas de 3 posts):** blog-posts-batch2b-2.ts — eliminado el token `null` (sin inventar el dato), `? km` → «autonomía oficial aún por publicar» (redacción de la propia FAQ), iCar 03 → «batería de 69,77 kWh / 501 km CLTC» (datos del propio post: tabla y pros). Tras el fix: 0 `null`, 0 `? km` en el fichero (verificado también sobre la versión fusionada en main: null 2→0). Foto y noindex quedan como «requiere decisión de Grok» (cambiar imágenes o la lista generada, fuera del alcance de fix).
+
+**Verificar (10 filas):** los 10 posts de la rebanada listados en noindex.generated.json en publicar-1300 (8 campers …-analisis-opinion + Ora Ballet Cat + Xiaomi SU7 Ultra). Posts completos con Fuentes; el noindex requiere decisión de Grok.
+
+**Fotos:** 515 héroes distintos verificados por Contents API a public/media/: 513 existen, 2 faltan (Ti7, iCaur V27). 0 héroes externos, 0 genéricos. Contenido: mínimo 307 palabras útiles, mediana 541; 516/516 con Fuentes; 0 undefined/NaN/Lorem/TODO; sin slugs duplicados. Enlaces: 9/9 verificados en vivo resolvieron (11 destinos /blog/ + 3 rutas de ficha; 1 ruta de reserva sin usar). Los 984 enlaces a /coches/ no se verificaron uno a uno: limitación declarada, trabajo de la rebanada de fichas.
+
+En curso: blog rebanada 3 (índices 60-89 menos no-tocar) y motos rebanada 2. — Merlín
