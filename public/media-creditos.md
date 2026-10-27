@@ -4375,3 +4375,6 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/fotos-reales/zwheel-e12/zwheel-e12-real-3.webp | https://www.zwheel.com/products/zwheel-zsa-plus/ | zwheel.com | desconocida |
 | /media/fotos-reales/zwheel-zwolf-duo/zwheel-zwolf-duo-real-2.webp | https://electricalthingspain.com/comprar/patinete-electrico-zwheel-zwolf-duo/ | electricalthingspain.com | desconocida |
 | /media/fotos-reales/zwheel-zwolf-duo/zwheel-zwolf-duo-real-3.webp | https://www.elcorteingles.pt/desporto/MP_0022337_8436621651864-patinete-eletrico-zwheel-zwolf-duo/ | elcorteingles.pt | desconocida |
+| /media/forthing-friday-reev-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Forthing_5_REEV_IMG_5921.jpg | Alexander Migl (Alexander-93) | CC BY-SA 4.0 |
+| /media/challenger-380-2026-foto-challenger-salon.webp | https://www.challenger-camping-cars.fr/modele/380/ (380-GRAPHITE-GD-INT) | Challenger (web oficial del fabricante) | © Challenger, imagen oficial del fabricante |
+| /media/chausson-v594-2026-foto-chausson-salon.webp | https://www.chausson-camping-cars.fr/modele/v594/ (V594-SPORT-SALON-V2) | Chausson (web oficial del fabricante) | © Chausson, imagen oficial del fabricante |

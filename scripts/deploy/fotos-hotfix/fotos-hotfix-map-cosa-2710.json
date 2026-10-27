@@ -1,0 +1,4 @@
+{
+ "_nota": "cosa-pendientes-2710 (27/10/2026): la hero del Forthing Friday REEV 2025 deja de ser PLACEHOLDER (map-3) y pasa a ser la foto real versionada en public/media (Wikimedia Commons, Alexander Migl, CC BY-SA 4.0). Se mapea a sí misma para que el hotfix no la sustituya por el aviso. No se borra la entrada de map-3: este mapa se carga después y la sobrescribe.",
+ "forthing-friday-reev-2025-precio-ficha-tecnica-hero": "forthing-friday-reev-2025-precio-ficha-tecnica-hero"
+}
