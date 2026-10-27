@@ -68,16 +68,16 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://novamotos.com.mx/tienda/lifan/kpt400/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 6.000 km o al cabo de un año, lo primero que se alcance manda",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Renovación del aceite y de su filtro, revisión general y aprietes comprobados",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 120,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Lubricante y filtro de aceite + filtro de aire + bujía",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía + reglaje de válvulas (según km)",
           costeAproxEur: 220,
         },
       ],
@@ -144,21 +144,21 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/hanway/sc-125-s",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Manda lo que ocurra antes: 4.000 km o 12 meses",
+      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Cambio de aceite con filtro nuevo, inspección completa y apriete de tornillería verificado",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Cambio de aceite, filtros de aceite y aire y bujía nueva",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
           costeAproxEur: 160,
         },
       ],
       costeAnualAproxEur: 160,
-      fuente: "Pauta habitual en su segmento; importes orientativos de taller oficial en España",
+      fuente: "Intervalo estándar del segmento; costes aproximados de red oficial en España",
     },
   },
   {
@@ -224,12 +224,12 @@ export const MOTOS_LOTE14: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Sustitución del lubricante y del filtro de aceite, control general y aprietes repasados",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "Aceite renovado y filtros de aceite y de aire sustituidos, bujía cambiada",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
           costeAproxEur: 150,
         },
       ],
@@ -298,16 +298,16 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://www.motosan.es/motos/la-custom-de-125-cc-que-combina-esencia-clasica-caracter-propio-y-tecnologia-actual/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Tras la revisión de los 1.000 km, las siguientes llegan cada 3.000 km o anualmente",
+      intervalo: "1ª revisión a los 1.000 km; siguientes cada 3.000 km o 1 año",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite nuevo y filtro sustituido, revisión general de la moto y aprietes controlados",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 80,
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "Lubricante nuevo con filtros de aceite y de aire y bujía de repuesto",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
           costeAproxEur: 140,
         },
       ],
@@ -375,21 +375,21 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://www.autoevolution.com/moto/qjmotor-srk-400-rs-2025.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "El taller la espera tras recorrer 6.000 km o cumplir 12 meses, según el primero de los dos límites",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Cambio del aceite motor y su filtro, chequeo general y aprietes ajustados",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 130,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite nuevo y filtro de aceite + filtro de aire + bujías",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
           costeAproxEur: 260,
         },
       ],
       costeAnualAproxEur: 260,
-      fuente: "Intervalo usual de la categoría; precios aproximados en red oficial española",
+      fuente: "Intervalo estándar del segmento; costes aproximados de red oficial en España",
     },
   },
   {
@@ -451,21 +451,21 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://cfmotomx.com/producto/250sr/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Lo que ocurra antes decide: 5.000 km o 12 meses",
+      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Lubricante y filtro renovados, inspección general del vehículo y tornillería apretada",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 110,
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Sustitución del aceite y filtros de aire y aceite y bujía",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
           costeAproxEur: 190,
         },
       ],
       costeAnualAproxEur: 190,
-      fuente: "Cadencia común del segmento; costes orientativos de concesionario oficial en España",
+      fuente: "Intervalo estándar del segmento; costes aproximados de red oficial en España",
     },
   },
   {
@@ -528,21 +528,21 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://cfmotoferbel.com/producto/cfmoto-250cl-x/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 5.000 km o transcurrido un año, lo que llegue en primer lugar",
+      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Reposición del aceite y cambio de filtro, revisión completa y aprietes verificados",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 110,
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Aceite y filtros cambiados en la revisión periódica, bujía sustituida",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
           costeAproxEur: 190,
         },
       ],
       costeAnualAproxEur: 190,
-      fuente: "Plazo acostumbrado en su clase; importes aproximados de servicio oficial español",
+      fuente: "Intervalo estándar del segmento; costes aproximados de red oficial en España",
     },
   },
   {
@@ -604,21 +604,21 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://www.quadis.es/motos-nuevas/voge/300acx/300acx/466552",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Intervalos de 6.000 km o de un año, con el que venza antes como límite",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite y filtro cambiados, control general de la moto y aprietes revisados",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 110,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Renovación de aceite y filtros, bujía nueva",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
           costeAproxEur: 200,
         },
       ],
       costeAnualAproxEur: 200,
-      fuente: "Frecuencia habitual de la categoría; precios orientativos en talleres oficiales de España",
+      fuente: "Intervalo estándar del segmento; costes aproximados de red oficial en España",
     },
   },
   {
@@ -680,21 +680,21 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://mototaller.info/voge-625r-llegan-curvas/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 6.000 kilómetros o al año cumplido, lo que ocurra en primer lugar",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Sustitución de aceite y filtro de lubricación, inspección general y aprietes confirmados",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 130,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite y filtros renovados, con bujías nuevas",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
           costeAproxEur: 260,
         },
       ],
       costeAnualAproxEur: 260,
-      fuente: "Intervalo corriente del segmento; gastos aproximados de red oficial en nuestro país",
+      fuente: "Intervalo estándar del segmento; costes aproximados de red oficial en España",
     },
   },
   {
@@ -757,21 +757,21 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://comotos.co/cfmoto-150nk-ficha-tecnica-caracteristicas-precio/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 4.000 km o pasado un año, lo que se cumpla en primer lugar",
+      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Nuevo aceite con su filtro, revisión general y comprobación de todos los aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Cambio de lubricante, filtro de aire y de aceite y bujía",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
           costeAproxEur: 160,
         },
       ],
       costeAnualAproxEur: 160,
-      fuente: "Pauta corriente en su clase; importes aproximados de taller oficial español",
+      fuente: "Intervalo estándar del segmento; costes aproximados de red oficial en España",
     },
   },
   {
@@ -833,21 +833,21 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://moteo.es/voge-525r-2024-precio-ficha-tecnica-y-fotos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Al cumplir 6.000 km o al cumplir un año, lo que acontezca antes",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Cambio de lubricante y filtro, inspección general y repaso de aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 130,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite renovado, filtros de aceite y de aire sustituidos, bujías cambiadas",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
           costeAproxEur: 260,
         },
       ],
       costeAnualAproxEur: 260,
-      fuente: "Cadencia habitual del segmento; precios orientativos de servicio oficial en España",
+      fuente: "Intervalo estándar del segmento; costes aproximados de red oficial en España",
     },
   },
   {
@@ -910,21 +910,21 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://galgo.com/pe/motos/PE308-lifan-lifan-kpf-150",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "La revisión llega cada 4.000 km o al cumplirse 12 meses, cuando se alcance antes uno de los dos topes",
+      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Renovación de aceite motor y filtro, control general y aprietes puestos a punto",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 80,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Aceite sustituido, filtros de aceite y aire nuevos, bujía reemplazada",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
           costeAproxEur: 140,
         },
       ],
       costeAnualAproxEur: 140,
-      fuente: "Plazo usual de su segmento; gastos orientativos en red de talleres oficiales de España",
+      fuente: "Intervalo estándar del segmento; costes aproximados de red oficial en España",
     },
   },
   {
@@ -987,21 +987,21 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://motodinamia.com/qjmotor-srk-921rr-race-precio/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Su pauta es 6.000 km o 12 meses, con el tope en lo primero que venza",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite sustituido y filtro nuevo, revisión general de componentes y aprietes asegurados",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 150,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Lubricante nuevo con filtros de aceite y aire, bujías de repuesto",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
           costeAproxEur: 320,
         },
       ],
       costeAnualAproxEur: 320,
-      fuente: "Frecuencia común en la categoría; importes aproximados de concesionario oficial español",
+      fuente: "Intervalo estándar del segmento; costes aproximados de red oficial en España",
     },
   },
   {
@@ -1063,21 +1063,21 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/Moto/srk-125s/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "La marca pide taller cada 5.000 km o cada 12 meses, lo que llegue antes",
+      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Cambio de aceite y filtro de motor, inspección general y aprietes controlados a par",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Nuevo aceite y filtros y bujía cambiada",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
           costeAproxEur: 170,
         },
       ],
       costeAnualAproxEur: 170,
-      fuente: "Intervalo acostumbrado en su clase; costes orientativos de taller oficial en España",
+      fuente: "Intervalo estándar del segmento; costes aproximados de red oficial en España",
     },
   },
   {
@@ -1139,21 +1139,21 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://marketing.multimotoespana.es/wp-content/uploads/2025/04/FICHA-TECNICA-BATTLO-2025-V2025_0407.pdf",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "El rodaje se revisa a los 1.000 km; luego, cada 3.000 km o cada año",
+      intervalo: "1ª revisión a los 1.000 km; siguientes cada 3.000 km o 1 año",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Lubricante nuevo y filtro cambiado, revisión general y aprietes repasados en taller",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "Cambio de aceite con sus filtros y bujía de sustitución",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
           costeAproxEur: 150,
         },
       ],
       costeAnualAproxEur: 150,
-      fuente: "Documento técnico oficial de Cyclone España, distribuido por Multimoto",
+      fuente: "Ficha técnica oficial Cyclone España (importador Multimoto)",
     },
   },
   {
@@ -1215,21 +1215,21 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/mbp/morbidelli-t352x",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Toca taller cada 6.000 km o cada 12 meses, cuando antes se cumpla uno de los dos",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite y filtro sustituidos, chequeo general de la moto y tornillería apretada",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 120,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Sustitución del aceite, filtros de aire y aceite y bujías",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
           costeAproxEur: 240,
         },
       ],
       costeAnualAproxEur: 240,
-      fuente: "Pauta usual del segmento; precios aproximados de servicio oficial en nuestro país",
+      fuente: "Intervalo estándar del segmento; costes aproximados de red oficial en España",
     },
   },
   {
@@ -1291,21 +1291,21 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://factory-bike.es/fb-mondial/88798-fb-mondial-hps-125-abs.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Intervalos de 5.000 km o de un año, tomando el que venza antes",
+      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Renovación del lubricante con filtro nuevo, inspección general y aprietes comprobados en taller",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 110,
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Lubricante y filtros renovados, bujía nueva",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
           costeAproxEur: 190,
         },
       ],
       costeAnualAproxEur: 190,
-      fuente: "Cadencia corriente de la categoría; gastos orientativos de red oficial española",
+      fuente: "Intervalo estándar del segmento; costes aproximados de red oficial en España",
     },
   },
   {
@@ -1367,21 +1367,21 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://factory-bike.es/zontes/131187-zontes-125c.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Intervalos de 4.000 km o de un año, según el que venza antes",
+      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Cambio de aceite y de su filtro de motor, revisión general y aprietes verificados uno a uno",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Sustitución del aceite con filtros de aire y aceite, bujía cambiada",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
           costeAproxEur: 170,
         },
       ],
       costeAnualAproxEur: 170,
-      fuente: "Plazo habitual en su segmento; importes orientativos de talleres oficiales españoles",
+      fuente: "Intervalo estándar del segmento; costes aproximados de red oficial en España",
     },
   },
   {
@@ -1443,21 +1443,21 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/zontes/e125",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 4.000 kilómetros o una vez al año, lo que ocurra en primer lugar",
+      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Sustitución del aceite motor y del filtro, control general de la moto y aprietes ajustados",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Lubricante renovado, filtro de aceite + filtro de aire + bujía + correa (según km)",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía + correa (según km)",
           costeAproxEur: 190,
         },
       ],
       costeAnualAproxEur: 190,
-      fuente: "Frecuencia acostumbrada en su clase; importes aproximados en concesionarios oficiales de España",
+      fuente: "Intervalo estándar del segmento; costes aproximados de red oficial en España",
     },
   },
   {
@@ -1519,21 +1519,21 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/zontes/368e",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Revisión programada a los 6.000 km o al cumplirse el año, lo que se produzca primero",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite nuevo con filtro cambiado, inspección general y aprietes revisados por el taller",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 120,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Cambio de aceite y de los filtros de aceite y aire, bujía de repuesto y correa revisada según el kilometraje",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía + correa (según km)",
           costeAproxEur: 230,
         },
       ],
       costeAnualAproxEur: 230,
-      fuente: "Intervalo común de la categoría; costes aproximados de servicio oficial español",
+      fuente: "Intervalo estándar del segmento; costes aproximados de red oficial en España",
     },
   },
   {
@@ -1596,21 +1596,21 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://galgo.com/cl/motos/CL3122-keeway-k-light-250v",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Al cumplir 4.000 km o al cumplir el año, lo que acontezca antes",
+      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Cambio de lubricante y de filtro, revisión general de la moto y aprietes comprobados",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Cambio de aceite con filtros de aceite y aire y bujías nuevas",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías",
           costeAproxEur: 180,
         },
       ],
       costeAnualAproxEur: 180,
-      fuente: "Pauta corriente en su segmento; gastos aproximados de taller oficial en España",
+      fuente: "Intervalo estándar del segmento; costes aproximados de red oficial en España",
     },
   },
   {
@@ -1672,21 +1672,21 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/keeway/v302c",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 5.000 kilómetros o cada año, lo que ocurra en primer lugar",
+      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Lubricante sustituido y filtro renovado, inspección general y aprietes repasados",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 110,
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Aceite y filtros renovados, con las bujías sustituidas en la revisión",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías",
           costeAproxEur: 200,
         },
       ],
       costeAnualAproxEur: 200,
-      fuente: "Cadencia usual de su clase; importes orientativos de red oficial española",
+      fuente: "Intervalo estándar del segmento; costes aproximados de red oficial en España",
     },
   },
   {
@@ -1748,21 +1748,21 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://motos125.es/motos/motron/x-nord-125",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Pasa por taller cada 4.000 km o cada 12 meses, antes de que venza uno de los dos plazos",
+      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite y filtro nuevos, revisión general completa y aprietes comprobados",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Aceite nuevo, filtro de aceite y de aire cambiados y bujía sustituida",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
           costeAproxEur: 170,
         },
       ],
       costeAnualAproxEur: 170,
-      fuente: "Plazo corriente del segmento; precios orientativos en talleres oficiales de España",
+      fuente: "Intervalo estándar del segmento; costes aproximados de red oficial en España",
     },
   },
   {
@@ -1824,21 +1824,21 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://moto.motorionline.com/es/kove-510f-la-scrambler-che-supera-le-tue-aspettative-prova-su-strada/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 6.000 km recorridos o cada año transcurrido, el plazo que expire antes",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Renovación de aceite y filtro de motor, control general y aprietes verificados",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 130,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite y filtros cambiados en el taller, bujías sustituidas",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
           costeAproxEur: 260,
         },
       ],
       costeAnualAproxEur: 260,
-      fuente: "Frecuencia habitual en su segmento; costes orientativos de concesionario oficial español",
+      fuente: "Intervalo estándar del segmento; costes aproximados de red oficial en España",
     },
   },
   {
@@ -1900,21 +1900,21 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/fbmondial/piega-125",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Al cumplir 5.000 km o al llegar el año, lo que acontezca antes",
+      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Cambio del lubricante y su filtro, inspección general de la moto y aprietes ajustados",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 110,
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Renovación del lubricante y los filtros, bujía de cambio",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
           costeAproxEur: 190,
         },
       ],
       costeAnualAproxEur: 190,
-      fuente: "Intervalo habitual de la categoría; gastos aproximados de servicio oficial en España",
+      fuente: "Intervalo estándar del segmento; costes aproximados de red oficial en España",
     },
   },
 ];
