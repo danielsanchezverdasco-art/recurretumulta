@@ -24,6 +24,9 @@ import {
 // módulo src/lib/autocaravanas con export AUTOCARAVANAS: el fichero «lite»
 // dice literalmente en su cabecera que es el subconjunto para el hub
 // /autocaravanas/, así que es la fuente correcta.
+// 27/10/2026 (ORD-20261027-0613 p2): el generador ahora incluye también las
+// fichas de src/lib/autocaravanas/ (antes faltaban, p. ej. la Adria Sonic 700
+// SL) y cada tarjeta usa `ruta` (destino final, /campers/ si la ficha se movió).
 
 const TIPOS = ["camper", "perfilada", "integral", "capuchina"] as const;
 type TipoTab = "todas" | (typeof TIPOS)[number];
@@ -114,7 +117,7 @@ function TarjetaAutocaravana({ auto }: { auto: AutocaravanaLite }) {
         </div>
         <div className="mt-auto pt-1">
           <Link
-            to={`/autocaravanas/${auto.id}/`}
+            to={auto.ruta ?? `/autocaravanas/${auto.id}/`}
             className="block rounded-lg bg-[#cd001d] px-2 py-2 text-center text-xs font-bold text-white transition hover:bg-[#a50018]"
           >
             Ver ficha completa →
