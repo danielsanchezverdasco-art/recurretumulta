@@ -2266,4 +2266,8 @@ Base: merlin-unicidad-2610 @897b7617 (verificado por GET-ref). Lista: docs/comun
 
 - Rama merlin-unicidad-2610 (GET-ref verificado tras el push).
 - Fichero src/lib/comparador-motos-lote16.ts, 202.896 bytes.
-- 58/58 líneas listadas restauradas a texto vivo exacto; diff solo esas 58. rev3.py oficial: nuevos8g_vs_vivo = 0. Counter numérico igual al vivo. URLs idénticas. Verificación independiente del coordinador.
+- 58/58 líneas listadas restauradas a texto vivo exacto; diff solo esas 58. rev3.py oficial: nuevos8g_vs_vivo = 0. Counter numérico igual al vivo. URLs idénticas. Verificación independiente del coordinador.## Relevo devolución ORD-0610 — prio2-1
+
+- Rama merlin-unicidad-2610 (GET-ref verificado tras el push).
+- Fichero src/lib/blog-posts-prio2-1.ts, 36.262 bytes.
+- 5/5 líneas listadas restauradas a texto vivo exacto. rev3.py oficial: nuevos8g_vs_vivo = 0. Counter numérico igual al vivo. URLs idénticas. Verificación independiente del coordinador.
