@@ -2318,4 +2318,8 @@ Base: merlin-unicidad-2610 @897b7617 (verificado por GET-ref). Lista: docs/comun
 
 - Rama merlin-unicidad-2610 (GET-ref verificado tras el push).
 - Fichero src/lib/analisis-editorial/coche-25.ts, 96.470 bytes.
-- 21/21 líneas listadas restauradas a texto vivo exacto. rev3.py oficial: nuevos8g_vs_vivo = 0. URLs idénticas. Residual NO listado, sin tocar por orden: L243 duplica '8 años' por la reescritura de unicidad (rama: 'la garantía de batería de 8 años son su aval, y de 8 años o 160.000 km'; vivo: 'la garantía de batería de 8 años o 160.000 km'); +1×'8'. Queda registrado para Grok. Verificación independiente del coordinador.
+- 21/21 líneas listadas restauradas a texto vivo exacto. rev3.py oficial: nuevos8g_vs_vivo = 0. URLs idénticas. Residual NO listado, sin tocar por orden: L243 duplica '8 años' por la reescritura de unicidad (rama: 'la garantía de batería de 8 años son su aval, y de 8 años o 160.000 km'; vivo: 'la garantía de batería de 8 años o 160.000 km'); +1×'8'. Queda registrado para Grok. Verificación independiente del coordinador.## Relevo devolución ORD-0610 — exp-m19
+
+- Rama merlin-unicidad-2610 (GET-ref verificado tras el push).
+- Fichero src/lib/comparador-motos-exp-m19.ts, 62.554 bytes.
+- 39/39 líneas listadas restauradas a texto vivo exacto; diff solo esas 39. rev3.py oficial: nuevos8g_vs_vivo = 0. Counter numérico igual al vivo. URLs idénticas. Verificación independiente del coordinador.
