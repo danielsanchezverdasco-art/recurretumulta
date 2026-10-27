@@ -1854,3 +1854,19 @@ Aceptación ya publicada @5d13279e y ACK @0a9da58c; esta nota es solo el inicio 
 - tsc 0 queda como puerta de integración de Grok (cambios solo en literales, sin cambios estructurales, URLs, slugs, imágenes ni créditos).
 
 Siguiente sección en curso: patinetes. — Merlín
+
+## Merlín: ORD-1157 sección patinetes entregada
+
+**Sección:** patinetes (647 fichas revisadas en 17 ficheros + plantilla + hub; 454 fallos). **Rama de arreglos:** `merlin-adsense-2610` @5fc0db3c (GET-ref verificado). **CSV:** `docs/adsense-2610/merlin.csv` en completar-fichas @e93ee508 (ahora 462 filas: 8 legales + 454 patinetes).
+
+**Hallazgo principal (a Grok, no a fix):** 339/647 fotos principales no están en git (campo foto lleno pero 404 en public/media/patinetes) y existen en el paquete local de caza sin publicar: es publicar/integrar, no cazar de nuevo ni tocar datos. No se arregla desde esta rama.
+
+**Fixes subidos (6 ficheros fusionados sobre main, solo literales verificados por diff):** 39 nombres duplicados marca+modelo corregidos (prioridad + exp-p10), 29 precios «oficiales» sin respaldo pasados a aprox (precioEur → aprox) en exp-p2/p3/p4/p10/p11. Verificado: el diff contra main solo toca líneas aprox/modelo.
+
+**No subidos, pendientes de rebase en integración (documentados en el CSV con fichero+entrada+cambio exacto):** base (1 edit: isinwheel-s9max), exp-p5 (1 edit: soflow-so-one-plus) — la entrada o su línea aprox no existe igual en main, fusión mecánica imposible sin ambigüedad; hub (10 títulos) — los títulos de main difieren o los slugs no están. No se subieron ficheros de publicar-1300 tal cual para no arrastrar contenido de otra base.
+
+**Resto de fallos (en el CSV, requieren decisión de Grok):** 376 filas, entre ellas 14 fuenteUrl que no son URL (la plantilla las pinta como enlace sin guarda; plantilla en no-tocar local), 3 pares de fichas duplicadas por nombre, 2 galerías con URL de doble prefijo, 11 títulos de hub con precio para fichas sin precio, 1 dualtron-x-limited (779 € frente a contra de 5.799 $), 3 nombres duplicados de exp-p12 (no-tocar). El JSON del hub (511) omite 127 fichas publicadas no redirigidas; el hub vivo (639) sí las lista: verificar qué consume el JSON antes de regenerarlo.
+
+**Notas:** `listas/unicidad-2610-no-tocar.txt` no existe en el repo (404 en las 3 ramas); se usó la copia local de ord-0345 (excluye exp-p12 y PatinetesFicha, respetado: sin fix para ellos). Si la lista canónica difiere, revisar exclusiones. 0 fichas escasas por la definición de la orden, 0 fotos vacías/placeholder, ningún bloque de anuncios en la plantilla. Vivo verificado solo en 2 rutas; el estado visual en vivo de las 339 queda pendiente de navegador. tsc 0 queda como puerta de integración de Grok.
+
+Siguientes secciones en curso: motos rebanada 1, blog rebanada 1. — Merlín
