@@ -12,7 +12,7 @@ import type { MotoComparador } from "./comparador-motos-data.ts";
 
 // ── Planes de mantenimiento oficiales (orden de Daniel, 2026-10-07) ─────────
 const M_HONDA = {
-  intervalo: "Cada 12.000 km o 12 meses, lo primero en llegar; puesta a punto inicial a los 1.000 km",
+  intervalo: "Cada 12.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 12.000 km / 12 meses",
@@ -29,7 +29,7 @@ const M_HONDA = {
   fuente: "Manual oficial Honda España",
 };
 const M_YAMAHA = {
-  intervalo: "Cada 10.000 km o 12 meses, lo que venza antes; control de rodaje a los mil kilómetros",
+  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -38,7 +38,7 @@ const M_YAMAHA = {
     },
     {
       nombre: "Revisión 20.000 km",
-      queSeCambia: "Además: filtro de aire, bujías y reglaje de válvulas cuando proceda.",
+      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
       costeAproxEur: 300,
     },
   ],
@@ -46,7 +46,7 @@ const M_YAMAHA = {
   fuente: "Manual oficial Yamaha España",
 };
 const M_KAWASAKI = {
-  intervalo: "Pauta: 12.000 km o 12 meses; el primero de ambos que llegue, revisión inicial a los 1.000 km.",
+  intervalo: "Cada 12.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 12.000 km / 12 meses",
@@ -55,7 +55,7 @@ const M_KAWASAKI = {
     },
     {
       nombre: "Revisión 24.000 km",
-      queSeCambia: "Además: reglaje de válvulas, filtro de aire y bujías en su caso.",
+      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
       costeAproxEur: 300,
     },
   ],
@@ -80,7 +80,7 @@ const M_KAWASAKI_EV = {
   fuente: "Manual oficial Kawasaki España",
 };
 const M_SUZUKI = {
-  intervalo: "Pauta: 12.000 km o 12 meses; antes de agotar el plazo, revisión inicial a los 1.000 km.",
+  intervalo: "Cada 12.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 12.000 km / 12 meses",
@@ -89,7 +89,7 @@ const M_SUZUKI = {
     },
     {
       nombre: "Revisión 24.000 km",
-      queSeCambia: "Además: filtro de aire nuevo, bujías y reglaje de válvulas según el plan.",
+      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
       costeAproxEur: 290,
     },
   ],
@@ -97,7 +97,7 @@ const M_SUZUKI = {
   fuente: "Manual oficial Suzuki España",
 };
 const M_KTM_PEQUENA = {
-  intervalo: "Pauta: 7.500 km o 12 meses; según ocurra antes, control inicial en taller a los 1.000 km.",
+  intervalo: "Cada 7.500 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 7.500 km / 12 meses",
@@ -106,7 +106,7 @@ const M_KTM_PEQUENA = {
     },
     {
       nombre: "Revisión 15.000 km",
-      queSeCambia: "Además: filtro de aire, bujías nuevas y reglaje de válvulas si hace falta.",
+      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
       costeAproxEur: 280,
     },
   ],
@@ -114,16 +114,16 @@ const M_KTM_PEQUENA = {
   fuente: "Manual oficial KTM España",
 };
 const M_KTM_GRANDE = {
-  intervalo: "Pauta: 15.000 km o 12 meses; cuando antes venza el plazo, primera pasada por taller a los 1.000 km.",
+  intervalo: "Cada 15.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 15.000 km / 12 meses",
-      queSeCambia: "Sintético recomendado por KTM, con filtro de aceite e inspección general",
+      queSeCambia: "Aceite sintético recomendado por KTM + filtro de aceite + inspección general",
       costeAproxEur: 180,
     },
     {
       nombre: "Revisión 30.000 km",
-      queSeCambia: "Además: filtro de aire, bujías y ajuste de válvulas cuando sea necesario.",
+      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
       costeAproxEur: 350,
     },
   ],
@@ -131,7 +131,7 @@ const M_KTM_GRANDE = {
   fuente: "Manual oficial KTM España",
 };
 const M_HUSQVARNA_PEQUENA = {
-  intervalo: "Pauta: 7.500 km o 12 meses; lo que antes se cumpla, revisión inicial a los 1.000 km.",
+  intervalo: "Cada 7.500 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 7.500 km / 12 meses",
@@ -140,7 +140,7 @@ const M_HUSQVARNA_PEQUENA = {
     },
     {
       nombre: "Revisión 15.000 km",
-      queSeCambia: "Además: bujías y filtro de aire con reglaje de válvulas cuando proceda.",
+      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
       costeAproxEur: 280,
     },
   ],
@@ -148,16 +148,16 @@ const M_HUSQVARNA_PEQUENA = {
   fuente: "Manual oficial Husqvarna España",
 };
 const M_HUSQVARNA_GRANDE = {
-  intervalo: "Pauta: 15.000 km o 12 meses; sin esperar a agotar el plazo, primera visita al taller a los 1.000 km.",
+  intervalo: "Cada 15.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 15.000 km / 12 meses",
-      queSeCambia: "Sintético recomendado por Husqvarna, con filtro de aceite y revisión general",
+      queSeCambia: "Aceite sintético recomendado por Husqvarna + filtro de aceite + inspección general",
       costeAproxEur: 180,
     },
     {
       nombre: "Revisión 30.000 km",
-      queSeCambia: "Además: filtro de aire, reglaje de válvulas y bujías para esta revisión.",
+      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
       costeAproxEur: 350,
     },
   ],
@@ -165,7 +165,7 @@ const M_HUSQVARNA_GRANDE = {
   fuente: "Manual oficial Husqvarna España",
 };
 const M_GASGAS = {
-  intervalo: "Pauta: 10.000 km o 12 meses; al cumplirse lo primero, revisión inicial a los 1.000 km.",
+  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -174,7 +174,7 @@ const M_GASGAS = {
     },
     {
       nombre: "Revisión 20.000 km",
-      queSeCambia: "Además: bujías nuevas, filtro de aire y reglaje de válvulas cuando proceda.",
+      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
       costeAproxEur: 300,
     },
   ],
@@ -182,7 +182,7 @@ const M_GASGAS = {
   fuente: "Manual oficial GasGas España",
 };
 const M_BMW = {
-  intervalo: "Pauta: 10.000 km o 12 meses; en cuanto se cumpla lo primero, paso inicial por el taller a los 1.000 km.",
+  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -191,7 +191,7 @@ const M_BMW = {
     },
     {
       nombre: "Revisión 20.000 km",
-      queSeCambia: "Además: filtro de aire, bujías y válvulas con reglaje si procede.",
+      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
       costeAproxEur: 450,
     },
   ],
@@ -199,7 +199,7 @@ const M_BMW = {
   fuente: "Manual oficial BMW Motorrad España",
 };
 const M_DUCATI_V2 = {
-  intervalo: "Pauta: 12.000 km o 12 meses; al llegar lo primero, primera inspección en taller a los 1.000 km.",
+  intervalo: "Cada 12.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 12.000 km / 12 meses",
@@ -216,16 +216,16 @@ const M_DUCATI_V2 = {
   fuente: "Manual oficial Ducati España",
 };
 const M_DUCATI_V4 = {
-  intervalo: "Pauta: 15.000 km o 24 meses; según ocurra antes, primera revisión en taller a los 1.000 km.",
+  intervalo: "Cada 15.000 km o 24 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 15.000 km / 24 meses",
-      queSeCambia: "Sintético recomendado por Ducati, con filtro de aceite e inspección completa",
+      queSeCambia: "Aceite sintético recomendado por Ducati + filtro de aceite + inspección general",
       costeAproxEur: 280,
     },
     {
       nombre: "Desmo Service 30.000 km",
-      queSeCambia: "Además: filtro de aire, bujías y control del sistema desmodrómico",
+      queSeCambia: "Lo anterior + filtro de aire + bujías + control del sistema desmodrómico",
       costeAproxEur: 600,
     },
   ],
@@ -233,7 +233,7 @@ const M_DUCATI_V4 = {
   fuente: "Manual oficial Ducati España",
 };
 const M_APRILIA = {
-  intervalo: "Pauta: 10.000 km o 12 meses; cuando llegue lo primero, revisión inicial de taller a los 1.000 km.",
+  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -242,7 +242,7 @@ const M_APRILIA = {
     },
     {
       nombre: "Revisión 20.000 km",
-      queSeCambia: "Además: filtro nuevo de aire, bujías y reglaje de válvulas si toca.",
+      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
       costeAproxEur: 300,
     },
   ],
@@ -250,7 +250,7 @@ const M_APRILIA = {
   fuente: "Manual oficial Aprilia España",
 };
 const M_MOTO_GUZZI = {
-  intervalo: "Pauta: 10.000 km o 12 meses; según ocurra antes, primera revisión a los 1.500 km en taller",
+  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.500 km)",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -259,7 +259,7 @@ const M_MOTO_GUZZI = {
     },
     {
       nombre: "Revisión 20.000 km",
-      queSeCambia: "Además: bujías, reglaje de válvulas y filtro de aire cuando proceda.",
+      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
       costeAproxEur: 320,
     },
   ],
@@ -267,7 +267,7 @@ const M_MOTO_GUZZI = {
   fuente: "Manual oficial Moto Guzzi España",
 };
 const M_PIAGGIO = {
-  intervalo: "Pauta: 10.000 km o 12 meses; antes de cumplir el plazo, control inicial de rodaje a los 1.000 km.",
+  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -284,7 +284,7 @@ const M_PIAGGIO = {
   fuente: "Manual oficial Piaggio España",
 };
 const M_VESPA = {
-  intervalo: "Pauta: 10.000 km o 12 meses; sin agotar el plazo, primera pasada de rodaje a los 1.000 km.",
+  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -293,7 +293,7 @@ const M_VESPA = {
     },
     {
       nombre: "Revisión 20.000 km",
-      queSeCambia: "Además: correa de transmisión, rodillos, filtro de aire y bujía en esta revisión.",
+      queSeCambia: "Lo anterior + correa de transmisión, rodillos, filtro de aire y bujía",
       costeAproxEur: 220,
     },
   ],
@@ -301,7 +301,7 @@ const M_VESPA = {
   fuente: "Manual oficial Vespa España",
 };
 const M_TRIUMPH = {
-  intervalo: "Pauta: 16.000 km (10.000 millas) o 12 meses, con tope en lo que ocurra antes: primera revisión a los 800 km",
+  intervalo: "Cada 16.000 km (10.000 millas) o 12 meses, lo que ocurra antes (primera revisión a los 800 km)",
   revisiones: [
     {
       nombre: "Revisión 16.000 km / 12 meses",
@@ -310,7 +310,7 @@ const M_TRIUMPH = {
     },
     {
       nombre: "Revisión 32.000 km",
-      queSeCambia: "Además: reglaje de válvulas y bujías con filtro de aire nuevo si procede.",
+      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
       costeAproxEur: 380,
     },
   ],
@@ -318,7 +318,7 @@ const M_TRIUMPH = {
   fuente: "Manual oficial Triumph España",
 };
 const M_ROYAL_ENFIELD = {
-  intervalo: "Pauta: 10.000 km o 12 meses; siempre que ocurra antes, primera revisión a los 500 km",
+  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 500 km)",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -327,7 +327,7 @@ const M_ROYAL_ENFIELD = {
     },
     {
       nombre: "Revisión 20.000 km",
-      queSeCambia: "Además: bujías y reglaje de válvulas más filtro de aire cuando proceda.",
+      queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
       costeAproxEur: 220,
     },
   ],
@@ -335,7 +335,7 @@ const M_ROYAL_ENFIELD = {
   fuente: "Manual oficial Royal Enfield España",
 };
 const M_PEUGEOT = {
-  intervalo: "Pauta: 6.000 km / 12 meses; lo que primero suceda, revisión inicial a los 1.000 km como marca el fabricante.",
+  intervalo: "Cada 6.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 6.000 km / 12 meses",
@@ -344,7 +344,7 @@ const M_PEUGEOT = {
     },
     {
       nombre: "Revisión 12.000 km",
-      queSeCambia: "Además: rodillos, correa de transmisión, filtro de aire y bujía en cada servicio mayor.",
+      queSeCambia: "Lo anterior + correa de transmisión, rodillos, filtro de aire y bujía",
       costeAproxEur: 180,
     },
   ],
@@ -352,7 +352,7 @@ const M_PEUGEOT = {
   fuente: "Manual oficial Peugeot Motocycles España",
 };
 const M_KYMCO = {
-  intervalo: "Revisión inicial a los 1.000 km; 6.000 km o 12 meses, al vencimiento de lo primero.",
+  intervalo: "Cada 6.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 6.000 km / 12 meses",
@@ -361,7 +361,7 @@ const M_KYMCO = {
     },
     {
       nombre: "Revisión 12.000 km",
-      queSeCambia: "Además: correa de transmisión, filtro de aire, rodillos y bujía en esta revisión.",
+      queSeCambia: "Lo anterior + correa de transmisión, rodillos, filtro de aire y bujía",
       costeAproxEur: 180,
     },
   ],
@@ -369,7 +369,7 @@ const M_KYMCO = {
   fuente: "Manual oficial Kymco España",
 };
 const M_SYM = {
-  intervalo: "Revisión inicial a los 1.000 km; 12 meses o 6.000 km, según ocurra antes como marca el fabricante.",
+  intervalo: "Cada 6.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 6.000 km / 12 meses",
@@ -378,7 +378,7 @@ const M_SYM = {
     },
     {
       nombre: "Revisión 12.000 km",
-      queSeCambia: "Además: correa de transmisión nueva, rodillos, filtro de aire y bujía.",
+      queSeCambia: "Lo anterior + correa de transmisión, rodillos, filtro de aire y bujía",
       costeAproxEur: 180,
     },
   ],
@@ -1970,7 +1970,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Dos cilindros de 776 cc con 83 CV y cigüeñal a 270°: tacto y sonido de twin grande",
+      "Bicilíndrico de 776 cc con 83 CV y cigüeñal a 270°: tacto y sonido de twin grande",
       "Versión DE con llanta 21\" y suspensiones de largo recorrido: trail de verdad",
       "Modos de conducción, control de tracción y ABS desconectable detrás",
       "Asiento a 855 mm pero estrecho: se llega mejor de lo que parece",
