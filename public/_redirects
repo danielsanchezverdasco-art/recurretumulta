@@ -5,8 +5,6 @@
 # 24/10/2026 fix-no-indexadas-2410: 404 de GSC sin equivalente -> 410 (Gone)
 /gana-dinero /404.html 410!
 /gana-dinero/ /404.html 410!
-/blog/municipios-mais-multas-transito-portugal-2026 /404.html 410!
-/blog/municipios-mais-multas-transito-portugal-2026/ /404.html 410!
 /blog/malaga-zbe-46562-multas-norma-anulada-como-recurrir /404.html 410!
 /blog/malaga-zbe-46562-multas-norma-anulada-como-recurrir/ /404.html 410!
 /radares/ /provincias/ 301!
@@ -41,7 +39,13 @@
 /pt/blog/gasolina-mas-de-2-euros-espana-2026/ /blog/precio-gasolina-europa-2026-comparativa-paises/ 301!
 /autocaravanas/adria-sonic-700-sl /autocaravanas/adria-sonic-700-sl-2026-precio-ficha-tecnica/ 301!
 /autocaravanas/adria-sonic-700-sl/ /autocaravanas/adria-sonic-700-sl-2026-precio-ficha-tecnica/ 301!
-/herramientas/* /herramientas/ 301
+# 27/10 cosa-pendientes-2710 (ORD-0613 p.1): 410 -> 301 al post de multas en el extranjero (Portugal/ANSR), equivalente vivo
+/blog/municipios-mais-multas-transito-portugal-2026 /blog/multas-de-trafico-en-el-extranjero-francia-portugal-italia-alemania-como-recurrir-multa-radar-extranjero-en-espana-conductor-extranjero-multado-en-espana-dgt-anular-multa-ztl-italia-antai-francia-convenio-intercambio-datos-trafico-union-europea/ 301!
+/blog/municipios-mais-multas-transito-portugal-2026/ /blog/multas-de-trafico-en-el-extranjero-francia-portugal-italia-alemania-como-recurrir-multa-radar-extranjero-en-espana-conductor-extranjero-multado-en-espana-dgt-anular-multa-ztl-italia-antai-francia-convenio-intercambio-datos-trafico-union-europea/ 301!
+# destino de /pt/* -> /:splat (vivo: 301 -> 404)
+/blog/gasolina-mas-de-2-euros-espana-2026 /blog/precio-gasolina-europa-2026-comparativa-paises/ 301!
+/blog/gasolina-mas-de-2-euros-espana-2026/ /blog/precio-gasolina-europa-2026-comparativa-paises/ 301!
+# /herramientas/* no es URL real (sale del <script type=speculationrules> de index.html): se deja 404; quitado el splat no forzado por riesgo sobre /herramientas/precio-itv y contrato-compraventa-vehiculo
 # marcas (gen-marcas.py)
 /coches/marca/mercedes/ /coches/marca/mercedes-benz/ 301!
 /coches/marca/mercedes /coches/marca/mercedes-benz/ 301!
