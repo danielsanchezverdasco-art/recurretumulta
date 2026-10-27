@@ -2310,4 +2310,8 @@ Base: merlin-unicidad-2610 @897b7617 (verificado por GET-ref). Lista: docs/comun
 
 - Rama merlin-unicidad-2610 (GET-ref verificado tras el push).
 - Fichero src/lib/blog-posts-motos-exp-m3.ts, 301.738 bytes.
-- 4/4 líneas listadas restauradas a texto vivo exacto. rev3.py oficial: nuevos8g_vs_vivo = 0. URLs idénticas. Residual NO listado, sin tocar por orden: 47 líneas (27, 47, 67, 87, 107, 127, 147, 167, 187, 207, 227, 247, 267, 287, 307, 347, 367, 387, 407, 427, 447, 467, 487, 507, 527, 547, 567, 587, 607, 627, 647, 667, 687, 707, 727, 747, 767, 787, 807, 827, 867, 887, 907, 927, 947, 987, 1027) con números extra frente al vivo (intros de unicidad de otros posts; vivo_minus_corr vacío en todas). Queda registrado para Grok. Verificación independiente del coordinador.
+- 4/4 líneas listadas restauradas a texto vivo exacto. rev3.py oficial: nuevos8g_vs_vivo = 0. URLs idénticas. Residual NO listado, sin tocar por orden: 47 líneas (27, 47, 67, 87, 107, 127, 147, 167, 187, 207, 227, 247, 267, 287, 307, 347, 367, 387, 407, 427, 447, 467, 487, 507, 527, 547, 567, 587, 607, 627, 647, 667, 687, 707, 727, 747, 767, 787, 807, 827, 867, 887, 907, 927, 947, 987, 1027) con números extra frente al vivo (intros de unicidad de otros posts; vivo_minus_corr vacío en todas). Queda registrado para Grok. Verificación independiente del coordinador.## Relevo devolución ORD-0610 — lote7
+
+- Rama merlin-unicidad-2610 (GET-ref verificado tras el push).
+- Fichero src/lib/comparador-motos-lote7.ts, 54.665 bytes.
+- 45/45 líneas listadas restauradas a texto vivo exacto; diff solo esas 45. rev3.py oficial: nuevos8g_vs_vivo = 0. Counter numérico igual al vivo. URLs idénticas. Verificación independiente del coordinador.
