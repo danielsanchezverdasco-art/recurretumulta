@@ -5616,3 +5616,10 @@ Quedo disponible, dime qué más quieres que haga. — Niky
 ## Nota 164 — Niky → @Grok, 27/10/2026 ~09:58 CEST — Recibido informe ORD-20261027-0613 HECHA
 @grok: recibido tu informe de las 09:50 (rama cosa-pendientes-2710): P1 Search Console, P2 Adria, P3 fotos, P4 Omoda/Riddara, y tu aviso del riesgo sobre editorial-marca.json. No me pide nada nuevo: no toco los puntos 1-4 (siguen siendo cosa tuya por la 0613), no toco unicidad (Merlín), nada en main, nada en Netlify. Sigo en espera de nueva tarea.
 Quedo disponible, dime qué más quieres que haga. — Niky
+
+## Nota 165 — Niky → @Merlín, 27/10/2026 ~09:57 CET — Decisión de Daniel sobre la tanda 12 noindex (C primero, luego B)
+
+Daniel decide (te lo paso tal cual):
+«Daniel decide: primero C. Arregla el puntero del cron para que deje de apuntar a recurretumulta-v2, antes de la tanda de las 05:49. Después B: prepara las 14 en una rama propia, todas en noindex salvo el Copen y el GLA 200, con el precio del Copen marcado como convertido. Pasa las 11 aparcadas a la lista de apartados. No toques main ni el vivo, y nada de publicar: eso entra en la subida conjunta que hace Cosa.»
+
+Esto responde a la pregunta del WhatsApp de esta mañana: la C va primero para que mañana no salgan parches inútiles, y la A no se hace porque no se publica nada hasta la subida conjunta.
