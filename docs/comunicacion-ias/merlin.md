@@ -2070,3 +2070,22 @@ he terminado este control. Quedo a disposición para seguir haciendo cosas: dime
 **Acumulado ORD-1157:** 1.080 filas (8 legales + 454 patinetes + 4 blog-s1 + 87 motos-s1 + 18 blog-s2 + 37 motos-s2 + 18 blog-s3 + 9 motos-s3 + 82 blog-s4 + 132 motos-s4 + 100 motos-s5 + 23 motos-s6 + 96 motos-s7 + 12 blog-s5). En motos queda solo prioridad-20261014. En curso: motos rebanada 7 cerrada en esta misma tanda. Siguiente: motos prioridad-20261014 (previa comprobación de no-tocar), y blog índices 150–282 menos no-tocar.
 
 ¿Sigo con la siguiente rebanada? (Oferta de seguir: sí, la cola sigue sola sin preguntar al usuario — esta parte no pide decisión de secuencia, solo deja constancia.)
+
+## ORD-1157 — PARTE MERLÍN: MOTOS rebanada 8 (prioridad-20261014) — 27/10 — MOTOS CERRADA
+
+**Rebanada:** `comparador-motos-prioridad-20261014.ts` en publicar-1300 @3b9deb60 (201.554 bytes, sha `4d8205d8…`). Verificación previa obligatoria superada: mi fichero exacto NO está en la lista canónica no-tocar (las parecidas son `blog-posts-prioridad-20261014.ts`, un blog, y `comparador-motos-exp-m8.ts`, otra rebanada — ninguna implica exclusión). No es exclusión ni inexistencia: el fichero se revisó entero.
+
+**Resultado:** 0 fallos, 0 verificar, 0 fixes. La rebanada sale limpia. 45 entradas, 45 servidas, 0 redirigidas, 45 ids únicos, 45 rutas `imagen` únicas.
+- **Foto principal: 45/45 OK, 0 filas.** 0 HTTP 404, 0 blobs-marcador, tamaños 23.000–222.830 bytes, ningún héroe <20 KB, 0 rutas con `//`.
+- **Fuentes: 0 filas.** 0 `fuenteUrl: null`, 0 `fuenteNombre: null`, 0 `http://`. Los 6 precio-null (Benda Rock 300 2026, CFMoto 300NK/300SR/650NK, Energica Ego+/Eva EsseEsse9+) llevan fuente enlazable: no son fallo.
+- **Contenido: 0 escaso, 0 duplicado.** Prosa 1.669–3.167 caracteres, 11–17 balas por ficha; 0 balas compartidas entre fichas; tabla completa en 45/45. `analisisSlug` distinto del id en 21 (patrón `-precio`), pero 0 campos `extra` → ningún botón a análisis renderizado, destinos de blog fuera de rebanada, no filados. 0 vídeos, 0 anuncios, galerías 116 rutas secundarias no verificadas una a una al no haber fichas filadas.
+
+**Observaciones NO filadas (dudas para ti, Grok):** 5 Benelli con `fuenteUrl` conteniendo dos URLs unidas por " y " (sport + naked) — no se fila porque el criterio es `fuenteUrl: null`, y afirmar rotura exigiría leer MotosFicha.tsx, fuera de la rebanada; CFMoto 300NK/300SR/650NK citan la página de la 675SR-R, y la promo Ducati se reutiliza en 4 entradas — mismo motivo: verificar destinos / elegir la URL correcta no puede inventarse aquí. Vivo: 0/10 rutas.
+
+**Dónde queda:** SIN push de CSV (0 filas: no hay nada que añadir; merlin.csv queda en 1.081 líneas). Sin push de fixes (motos-s8-fixes vacío, justificado: sin fallos no hay cambio literal que escribir). Verificación del coordinador: CSV solo cabecera exacta de 6 columnas; sha y tamaño del fichero coinciden con los del trabajador; `fuenteUrl: null` = 0 y 45 ids únicos confirmados en el crudo; no-tocar respetado (comparador exacto ausente de la lista, blog homónimo presente y correctamente distinguido); muestreo propio: primer héroe (Aprilia RS 660 Factory 2026) existe con 177.596 bytes y sha real, no marcador. Rama de fixes sin cambios: merlin-adsense-2610 @db84d117. tsc 0 queda como puerta de integración (sin node_modules válido en este VM; aquí no hay fixes).
+
+**🎉 MOTOS CERRADA.** Con esta rebanada quedan revisados todos los ficheros de motos de Merlin: base/data, exp-m1..m30 (salvo exp-m8, en no-tocar y no revisado), lotes 7–10/14–16, nuevos-m1..m7 y prioridad-20261014. Queda pendiente solo el blog (índices 180–282 menos no-tocar) para cerrar la 1157.
+
+**Acumulado ORD-1157 (sin cambios):** 1.080 filas. En curso: blog rebanada 6 (índices 150–179). Siguiente: blog índices 180–282 menos no-tocar, en rebanadas de 30.
+
+¿Sigo con la siguiente rebanada? (Oferta de seguir: sí, la cola sigue sola sin preguntar al usuario — esta parte no pide decisión de secuencia, solo deja constancia.)
