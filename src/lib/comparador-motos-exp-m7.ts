@@ -67,7 +67,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo y limpiador específico para cadenas con retenes (o detergente neutro con cepillo suave).",
         "Engrasa con lubricante para cadenas deportivas, girando la rueda trasera para repartirlo de forma uniforme.",
-        "Con la moto en vertical, comprueba la tensión y ajústala según el manual del propietario.",
+        "Derecha sobre sus dos ruedas, revisa cuánto cede la cadena y corrige ese juego hasta el valor del libro de taller.",
       ],
       trucos: [
         "Antes de cada salida, mira el aceite con la moto derecha y en frío.",
@@ -111,7 +111,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     ],
     curiosidades: [
       "Comparte el motor bicilíndrico de 1.084 cc con la Africa Twin, adaptado para carretera",
-      "Honda supera las 300.000 motos con DCT vendidas en Europa desde 2010",
+      "Desde 2010, Honda ha vendido en Europa más de 300.000 motos equipadas con DCT",
       "Es la moto sport-touring más popular de Europa desde su lanzamiento en 2022",
     ],
     imagen: "/media/motos/honda-nt1100-2025-ficha-tecnica-precio-1.webp",
@@ -238,7 +238,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     ],
     contras: [
       "11.100 €: la nostalgia se paga, hay trails más baratas con similar potencia",
-      "Asiento a 850 mm: alta para pilotos por debajo de 1,70 m",
+      "Con el asiento a 850 mm, la Transalp queda alta para quien mida menos de 1,70 m",
       "Suspensiones Showa correctas pero sin regulación electrónica ni gran recorrido off-road",
       "El quickshifter es opcional, no de serie",
       "Depósito de 16,9 L: justo para una trail viajera (unos 390 km de autonomía)",
@@ -335,7 +335,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Pasa un trapo con limpiador para cadenas con retenes por la cadena.",
         "Engrasa con lubricante de cadena, haciendo girar la rueda trasera.",
-        "Mide la holgura de la cadena con la moto derecha y el manual a mano.",
+        "Con la Hornet recta sobre el suelo y el manual abierto al lado, mide el juego libre de la cadena.",
       ],
       trucos: [
         "Consumo real de 4,3 l/100 km: con 15,2 L supera los 340 km de autonomía.",
@@ -507,7 +507,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "Protección aerodinámica nula",
     ],
     curiosidades: [
-      "Comparte el bicilíndrico de 1.084 cc de la Africa Twin, con su propia puesta a punto",
+      "La Rebel comparte motor con la Africa Twin: un bicilíndrico de 1.084 cc afinado aquí con carácter propio",
       "Es la custom de Honda más vendida en Europa",
       "Su diseño se inspira en las bobber californianas de los años 50",
     ],
@@ -561,7 +561,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     aprox: [],
     pros: [
       "El rey de los scooters de rueda alta: 28,8 CV y 134 km/h de punta",
-      "Se lleva con el carnet B + 3 años: el salto natural desde el SH125i",
+      "Admite el carnet B con 3 años de antigüedad: el salto natural desde la SH125i",
       "172 kg: ágil en ciudad y estable en autovía",
       "Control de tracción HSTC, ABS de doble canal y Smart Key de serie",
       "Gran hueco bajo el asiento para un casco integral",
@@ -614,7 +614,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
         },
         {
           nombre: "Revisión / 24.000 km",
-          queSeCambia: "Aceite y filtro de aceite, filtro de aire, bujía y revisión de la correa del variador",
+          queSeCambia: "Aceite con su filtro, filtro del aire, bujía y revisión de la correa del variador",
           costeAproxEur: null,
         },
       ],
@@ -652,7 +652,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     aprox: [],
     pros: [
       "El GT de 350 más completo: 29 CV, parabrisas eléctrico y Smart Key",
-      "Se puede llevar con el carnet B y 3 años de permiso.",
+      "Basta el permiso B con 3 años de antigüedad para llevarla.",
       "Parabrisas regulable eléctricamente: un lujo en su segmento",
       "Bajo el asiento caben dos cascos integrales",
       "TFT con Honda RoadSync: navegación y música desde el manillar",
@@ -782,7 +782,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     pros: [
       "La minimoto más divertida: 103 kg y 9,9 CV de pura diversión",
       "Cambio de 5 marchas: se conduce como una moto de verdad",
-      "Se lleva con el carnet B + 3 años",
+      "El B con 3 años también sirve para llevarla.",
       "Asiento a 765 mm: apta para todos los tamaños",
       "Consumo ridículo: con 6 L haces más de 350 km",
     ],
@@ -1082,7 +1082,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa la cadena mientras giras la rueda trasera a mano.",
-        "Mide la tensión de la cadena en vertical y en frío.",
+        "En frío y aplomada, mide la tensión de la cadena.",
       ],
       trucos: [
         "El CP2 es duro: con mantenimiento al día supera los 100.000 km.",
@@ -1179,7 +1179,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     aprox: [],
     pros: [
       "El GT de 300 más equilibrado: 28 CV, 183 kg y consumos de 3 l/100 km",
-      "Se puede conducir con el carnet B + 3 años.",
+      "Con el B y 3 años de carnet ya puedes conducirla.",
       "Hueco para dos cascos integrales bajo el asiento",
       "Control de tracción, Smart Key y parabrisas regulable",
       "La versión Tech MAX (7.399 €) añade TFT de 4,2\" y navegador Garmin",
@@ -1664,7 +1664,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Tras cada salida campera, aclara la cadena con agua a baja presión y sécala.",
         "Engrasa con lubricante de cadena off-road.",
-        "Con la moto en vertical, comprueba la tensión: en trail va algo más suelta.",
+        "Derecha sobre el suelo, comprueba la tensión de la trail: en campo va algo más suelta.",
       ],
       trucos: [
         "En polvo, el filtro de aire se colmata rápido: revísalo tras cada ruta.",
@@ -1731,7 +1731,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Aplica lubricante en la cadena y gira la rueda trasera para extenderlo.",
-        "Comprueba que la holgura de la cadena sea la del manual, con la moto en vertical.",
+        "Verifica en la Ninja que el juego de la cadena coincida con el del manual, con la moto derecha.",
       ],
       trucos: [
         "El bicilíndrico de 649 cc es duro: con mantenimiento al día supera los cien mil kilómetros.",
@@ -1798,7 +1798,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa la cadena haciendo girar la rueda trasera con la mano.",
-        "Mide la holgura de la cadena en vertical, sin carga y según el manual.",
+        "Sin carga y derecha, mide el juego de la cadena y compáralo con el manual.",
       ],
       trucos: [
         "Si haces circuito, cambia el aceite cada 2 tandas.",
@@ -1984,7 +1984,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Echa lubricante a la cadena mientras giras la rueda trasera.",
-        "Con la moto en vertical y sin carga, comprueba la tensión de la cadena.",
+        "Comprueba la tensión de la cadena sin carga y con la moto derecha.",
       ],
       trucos: [
         "Si ruedas en circuito, cambia el aceite cada 2 tandas.",
@@ -2252,7 +2252,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Rocía lubricante sobre la cadena girando la rueda trasera.",
-        "Mide la tensión de la cadena en vertical, como pide el manual del modelo.",
+        "Mide la tensión con la moto derecha, siguiendo lo que pida el manual de este modelo.",
       ],
       trucos: [
         "Con 3,8 l/100 km y 13 L tienes más de 340 km de autonomía.",
@@ -2553,7 +2553,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Tetracilíndrico de 999 cc y 152 CV derivado de la GSX-R1000, con prestaciones de superbike.",
+      "Tetracilíndrico de 999 cc y 152 CV, procedente de la GSX-R1000, con prestaciones de superbike.",
       "106 Nm de par con una entrega muy llena en medios: no hay que buscar el corte.",
       "Electrónica S.I.R.S. completa: control de tracción, modos de potencia y quickshifter.",
       "Chasis de doble viga de aluminio ágil pese a sus 214 kg.",
@@ -2592,8 +2592,8 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       aceiteTipo: "Aceite 10W-40 aconsejado JASO MA o MA2 más API SG como mínimo",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa la cadena con lubricante específico, girando la rueda trasera.",
-        "Comprueba la tensión de la cadena con la moto en vertical y ajústala según el manual.",
+        "Reparte lubricante específico por la cadena mientras haces girar la rueda trasera.",
+        "Verifica la tensión de la cadena, moto derecha, y corrígela según el manual.",
       ],
       trucos: [
         "Con 152 CV, el neumático trasero pide revisión de presiones cada 500 km.",
@@ -2661,7 +2661,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       aceiteTipo: "Lubricante 10W-40 recomendado JASO MA y MA2 más API SG o de grado superior",
       cadenaPasos: [
         "En uso off-road, limpia y engrasa la cadena tras cada salida de campo.",
-        "Con la moto en vertical, mide la tensión de la cadena y déjala en su punto.",
+        "Con la moto derecha, mide la tensión de la cadena y regúlala hasta dejarla en su punto.",
         "Revisa que los retenes no tengan barro incrustado.",
       ],
       trucos: [
@@ -2778,7 +2778,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     curiosidades: [
       "Deriva directamente de la GSX-R1000 en diseño: la 'gixxer' en miniatura.",
       "Es la puerta de entrada a la saga GSX-R, que nació en 1985.",
-      "Con el carnet B de más de 3 años se puede llevar sin sacarse el A1.",
+      "Llevarla no exige el A1 si tu B tiene más de 3 años.",
     ],
     imagen: "/media/motos/suzuki-gsx-r125-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -2868,7 +2868,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       aceiteTipo: "Viscosidad 10W-40 exigido JASO MA o MA2 y API SG y superiores",
       cadenaPasos: [
         "En uso supermotard, limpia y engrasa la cadena cada 500 km.",
-        "Controla la tensión de la cadena en posición vertical, según indica el manual.",
+        "Vigila la tensión de la cadena de la moto aplomada, como indica el manual.",
         "Vigila el desgaste del kit de arrastre: el mono castiga la cadena.",
       ],
       trucos: [
@@ -2980,7 +2980,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     ],
     curiosidades: [
       "Es la versión naked de la GSX-R125: comparten motor y chasis.",
-      "Con el carnet B de más de 3 años se puede llevar.",
+      "El B con más de 3 años basta para llevarla.",
       "En 2025 recibió la homologación Euro5+ sin perder prestaciones.",
     ],
     imagen: "/media/motos/suzuki-gsx-s125-2025-ficha-tecnica-precio-1.webp",
@@ -3033,7 +3033,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     aprox: [],
     pros: [
       "Diseño neo-retro ochentero único: la moto con más personalidad del segmento.",
-      "Motor de 999 cc y 152 CV derivado de la GSX-R1000 K5.",
+      "Heredado de la GSX-R1000 K5, su motor cubica 999 cc y entrega 152 CV.",
       "Electrónica completa: tracción, modos, quickshifter y embrague antirrebote.",
       "Horquilla KYB con acabado dorado y frenos de nivel.",
       "Pantalla LCD a color con interfaz específica del modelo.",
@@ -3049,7 +3049,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     ],
     curiosidades: [
       "La Katana original de 1981 fue diseñada por el estudio alemán Target Design.",
-      "Su nombre remite a la espada samurái: filo, precisión y corte limpio.",
+      "Katana evoca la espada samurái: filo, precisión y corte limpio.",
       "Suzuki la resucitó en 2019 tras casi dos décadas de ausencia.",
     ],
     imagen: "/media/motos/suzuki-katana-2025-ficha-tecnica-precio-1.webp",
@@ -3072,7 +3072,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Lubrica la cadena con lubricante, girando despacio la rueda trasera.",
-        "Comprueba la tensión de la cadena en frío, con la moto en vertical y sin carga.",
+        "En frío, descargada y derecha, comprueba la tensión de la cadena.",
       ],
       trucos: [
         "El motor K5 es duro: hay que respetar los intervalos de reglaje de válvulas.",
@@ -3247,7 +3247,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "16.699 €: la sport-turismo japonesa más asequible de su categoría.",
     ],
     contras: [
-      "226 kg que se notan en parado y en carreteras reviradas.",
+      "En parado y en carreteras reviradas se notan sus 226 kg.",
       "Las maletas son opcionales y encarecen el conjunto.",
       "El parabrisas es regulable solo de forma manual.",
       "Sin pantalla TFT táctil con navegación integrada.",
@@ -3279,7 +3279,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Con la cadena en movimiento, aplica el lubricante girando la rueda trasera.",
-        "En frío, con la moto en vertical, comprueba la holgura de la cadena.",
+        "En frío y con la moto derecha, comprueba el juego de la cadena.",
       ],
       trucos: [
         "Viajando cargado, sube la precarga trasera según el manual.",
