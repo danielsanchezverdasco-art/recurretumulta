@@ -1699,3 +1699,10 @@ rev3.py publicado en esta rama: `tools/rev3/rev3.py` (+ LEEME.md con parámetros
 - Fichero: src/lib/comparador-motos-nuevos-m7.ts — 311.654 bytes, blob 84c3815b. 26 líneas reescritas.
 - Medición rev3.py (commit local de medición 77a64078b): nuevos8g_vs_vivo = 0, nuevos8g_vs_padre = 0, lista_vs_vivo = []. Acumulado fichero = 0 (era 19).
 - Multiconjunto numérico idéntico. Nada en main, nada en Netlify. Siguiente en la cadena: lepas-a.
+
+### ORD-0610 — Parte: lepas-a
+
+- Rama: merlin-unicidad-2610. Commit: 2e9a2099924e2946bab31ff878ccfc76708309b3 (padre 2e52556b, verificado por GET-ref).
+- Fichero: src/lib/blog-posts-lepas-a.ts — 13.560 bytes, blob 746e9abd. 1 línea reescrita (FAQ Lepas L6 EV, etiqueta Cero).
+- Medición rev3.py (commit local de medición 36d12e4d): nuevos8g_vs_vivo = 0, nuevos8g_vs_padre = 0, lista_vs_vivo = []. Acumulado fichero = 0 (era 1).
+- Multiconjunto numérico idéntico, URLs idénticas. Nada en main, nada en Netlify. Siguiente en la cadena: g08.
