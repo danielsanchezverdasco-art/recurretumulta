@@ -1166,7 +1166,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.ducati.com/es/es/motocicletas/panigale/panigale-v2",
     analisisSlug: "ducati-panigale-v2-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "15.000 km o 24 meses (lo que ocurra primero)",
+      intervalo: "15.000 km o 24 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión / 15.000 km",
@@ -1175,7 +1175,7 @@ export const MOTOS_BASE: MotoComparador[] = [
         },
         {
           nombre: "Revisión / 30.000 km",
-          queSeCambia: "Aceite + filtro de aceite + bujías + filtro de aire",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías",
           costeAproxEur: null,
         },
       ],
@@ -2561,7 +2561,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.bmw-motorrad.es/es/models/adventure/f800gs.html",
     analisisSlug: "bmw-f-800-gs-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "Para la F 800 GS: revisión al alcanzar 10.000 km, sin dejar pasar más de 12 meses entre una visita al taller y la siguiente",
+      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión / 10.000 km",
@@ -2570,7 +2570,7 @@ export const MOTOS_BASE: MotoComparador[] = [
         },
         {
           nombre: "Revisión / 20.000 km",
-          queSeCambia: "Bujías + filtro de aire + aceite + filtro de aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías",
           costeAproxEur: null,
         },
       ],
@@ -2822,7 +2822,7 @@ export const MOTOS_BASE: MotoComparador[] = [
         },
         {
           nombre: "Revisión / 24.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + reglaje de válvulas si procede + bujías",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas si procede",
           costeAproxEur: null,
         },
       ],
@@ -3301,7 +3301,7 @@ export const MOTOS_BASE: MotoComparador[] = [
         },
         {
           nombre: "Revisión / 12.000 km",
-          queSeCambia: "Bujías + filtro de aire + aceite con filtro nuevo",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías",
           costeAproxEur: null,
         },
       ],
@@ -3473,7 +3473,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/yamaha-xmax-300-tech-max-2023/",
     analisisSlug: "yamaha-xmax-300-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "El XMAX 300 pasa por taller cada 10.000 km, y también cuando se cumplen 12 meses desde la revisión anterior, según lo que llegue antes en su uso urbano",
+      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión / 10.000 km",
@@ -3482,7 +3482,7 @@ export const MOTOS_BASE: MotoComparador[] = [
         },
         {
           nombre: "Revisión / 20.000 km",
-          queSeCambia: "Revisión de la correa del variador + filtro de aire + bujía + aceite y filtro nuevos",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía + revisión de correa del variador",
           costeAproxEur: null,
         },
       ],
@@ -4604,7 +4604,7 @@ export const MOTOS_BASE: MotoComparador[] = [
         },
         {
           nombre: "Revisión / 12.000 km",
-          queSeCambia: "Bujía + filtro de aire + aceite nuevo con su filtro",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
           costeAproxEur: null,
         },
       ],
@@ -5163,7 +5163,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.husqvarna-motorcycles.com/es-es/models/travel/norden-901-2026.html",
     analisisSlug: "husqvarna-norden-901-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "15.000 kilómetros o 24 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 24 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión / 15.000 km",
@@ -5172,7 +5172,7 @@ export const MOTOS_BASE: MotoComparador[] = [
         },
         {
           nombre: "Revisión / 30.000 km",
-          queSeCambia: "Filtro de aire + bujías + filtro de aceite + aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías",
           costeAproxEur: null,
         },
       ],
@@ -6341,7 +6341,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/bmw/s-1000-rr-2023",
     analisisSlug: "bmw-s-1000-rr-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que venza antes)",
+      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión / 10.000 km",
@@ -6350,7 +6350,7 @@ export const MOTOS_BASE: MotoComparador[] = [
         },
         {
           nombre: "Revisión / 20.000 km",
-          queSeCambia: "Filtro de aceite + bujías + aceite + filtro de aire",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías",
           costeAproxEur: null,
         },
       ],
@@ -6777,7 +6777,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/piaggio/beverly-400",
     analisisSlug: "piaggio-beverly-400-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "Cada 10.000 kilómetros o cada 12 meses (según lo que llegue antes)",
+      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -6786,7 +6786,7 @@ export const MOTOS_BASE: MotoComparador[] = [
         },
         {
           nombre: "Revisión / 20.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + correa de transmisión (según desgaste) + bujía",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía + correa de transmisión (según desgaste)",
           costeAproxEur: null,
         },
       ],
@@ -7236,7 +7236,7 @@ export const MOTOS_BASE: MotoComparador[] = [
         },
         {
           nombre: "Revisión / 12.000 km",
-          queSeCambia: "Aceite con su filtro, filtro de aire y bujía",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
           costeAproxEur: null,
         },
       ],
@@ -7720,7 +7720,7 @@ export const MOTOS_BASE: MotoComparador[] = [
         },
         {
           nombre: "Revisión / 24.000 km",
-          queSeCambia: "Bujías + aceite + filtro de aceite + filtro de aire",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías",
           costeAproxEur: null,
         },
       ],
