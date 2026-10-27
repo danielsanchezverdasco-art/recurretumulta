@@ -53,7 +53,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "La 675NK pasa por taller cada 12 meses o cada 6.000 km, lo que antes suceda",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -183,16 +183,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses; rige lo primero que llegue",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + revisión general y aprietes",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 130,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "filtro de aceite + filtro del aire + bujía (según km) + inspección general + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 200,
         },
       ],
@@ -248,16 +248,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses; manda lo primero que llegue",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de aceite + control general y reapriete",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 130,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro del aceite + filtro de aire + bujía (según km) + revisión general",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 200,
         },
       ],
@@ -313,16 +313,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses; vence lo primero que llegue",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro del aceite + inspección general y aprietes",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 130,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro del aceite + filtro del aire + bujía (según km) + revisión general",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 200,
         },
       ],
@@ -381,16 +381,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses; rige lo que antes venza",
+      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro del aceite + revisión general y aprietes",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 120,
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + inspección general + bujía (según km)",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 190,
         },
       ],
@@ -449,16 +449,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses; manda lo que antes venza",
+      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro del aceite + control general y reapriete",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 120,
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Revisión general + aceite con su filtro, bujía y filtro de aire (según km)",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 190,
         },
       ],
@@ -517,16 +517,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses; vence lo que antes venza",
+      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de lubricante + inspección general y aprietes",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 120,
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "filtro de aceite + filtro del aire + inspección general + bujía (según km) + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 190,
         },
       ],
@@ -585,16 +585,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses; impera lo primero que llegue",
+      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de lubricante + revisión general y aprietes",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 120,
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "filtro de aceite + filtro del aire + revisión general + bujía (según km) + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 190,
         },
       ],
@@ -650,16 +650,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses; impera lo que antes venza",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + filtro de lubricante + control general y reapriete",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "filtro de aceite + bujía (según km) + filtro de aire + inspección general + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 220,
         },
       ],
@@ -715,16 +715,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses; decide lo primero que llegue",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Lubricante 10W-40 + filtro de aceite + inspección general con aprietes",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "filtro de aceite + bujía (según kilometraje) + filtro de aire + inspección general + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 220,
         },
       ],
@@ -780,16 +780,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses; limita lo primero que llegue",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Lubricante 10W-40 + filtro del aceite + inspección general con aprietes",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "filtro del aceite + bujía (según km) + filtro de aire + revisión general + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 220,
         },
       ],
@@ -845,16 +845,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses; marca lo primero que llegue",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Lubricante 10W-40 + filtro de lubricante + inspección general con aprietes",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "filtro del aceite + bujía (según kilometraje) + filtro de aire + revisión general + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 220,
         },
       ],
@@ -910,16 +910,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses; establece lo primero que llegue",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "filtro de aceite + inspección general y aprietes + Aceite 10W40",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Lubricante + filtro de aceite + bujía (según km) + filtro del aire + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 220,
         },
       ],
@@ -975,16 +975,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o un año; rige lo primero que llegue",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W40 + filtro de aceite + revisión general y aprietes",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 130,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Lubricante + filtro de aceite + bujía (según kilometraje) + filtro del aire + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 210,
         },
       ],
@@ -1040,16 +1040,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o un año; manda lo primero que llegue",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "filtro de aceite + inspección general con aprietes + Aceite 10W40",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 130,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Lubricante + filtro del aceite + bujía (según km) + filtro del aire + revisión general",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 210,
         },
       ],
@@ -1105,16 +1105,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o un año; vence lo primero que llegue",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W40 + filtro de aceite + control general y reapriete",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 130,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Lubricante + filtro del aceite + bujía (según kilometraje) + filtro del aire + revisión general",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 210,
         },
       ],
@@ -1170,16 +1170,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o un año; impera lo primero que llegue",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "filtro del aceite + inspección general y aprietes + Aceite 10W40",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 130,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "filtro de aceite + bujía (según km) + inspección general + filtro de aire + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 210,
         },
       ],
@@ -1235,16 +1235,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o un año; decide lo primero que llegue",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W40 + filtro del aceite + revisión general y aprietes",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "filtro de aceite + bujía (según km) + revisión general + filtro de aire + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 230,
         },
       ],
@@ -1300,16 +1300,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o un año; limita lo primero que llegue",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "filtro del aceite + inspección general con aprietes + Aceite 10W40",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "filtro de aceite + bujía (según kilometraje) + inspección general + filtro de aire + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 230,
         },
       ],
@@ -1365,16 +1365,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o un año; marca lo primero que llegue",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W40 + filtro del aceite + control general y reapriete",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "filtro de aceite + bujía (según kilometraje) + revisión general + filtro de aire + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 230,
         },
       ],
@@ -1430,16 +1430,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o un año; establece lo primero que llegue",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "filtro de lubricante + inspección general y aprietes + Aceite 10W40",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "filtro del aceite + bujía (según km) + inspección general + filtro del aire + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 230,
         },
       ],
@@ -1495,16 +1495,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 1 año; rige lo primero que llegue",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W40 + filtro de lubricante + revisión general y aprietes",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "filtro del aceite + bujía (según km) + revisión general + filtro del aire + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 230,
         },
       ],
@@ -1533,7 +1533,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: ["En 2025 sigue en 2.690 € según esta ficha: es el argumento de la RKF, una naked con marchas y estética streetfighter sin saltar a los precios de una 125 europea o japonesa", "Sus 13 CV (9,6 kW) la dejan a 2 CV del techo legal del A1, así que dentro de las Keeway 125 no es la opción recortada: es la que más se acerca a exprimir el carnet", "Se puede llevar con el A1 y también con el B con tres años de antigüedad y lleva etiqueta C y dos plazas, justo el perfil de quien deja el scooter pero quiere moto de verdad para diario", "El mantenimiento declarado es asumible de verdad: revisión inicial al primer millar de km y después cada 4.000 km o 12 meses, con un coste anual aproximado de 160 € según el manual citado en la ficha", "Al mantener en 2025 las llantas de aleación de 17 pulgadas, con 100/80 delante y 130/70 detrás, no obliga a medidas raras ni caras cuando toca cambiar neumáticos"],
+    pros: ["En 2025 sigue en 2.690 € según esta ficha: es el argumento de la RKF, una naked con marchas y estética streetfighter sin saltar a los precios de una 125 europea o japonesa", "Sus 13 CV (9,6 kW) la dejan a 2 CV del techo legal del A1, así que dentro de las Keeway 125 no es la opción recortada: es la que más se acerca a exprimir el carnet", "Se puede llevar con el A1 o con el B con tres años de antigüedad y lleva etiqueta C y dos plazas, justo el perfil de quien deja el scooter pero quiere moto de verdad para diario", "El mantenimiento declarado es asumible de verdad: primera revisión a los 1.000 km y después cada 4.000 km o 12 meses, con un coste anual aproximado de 160 € según el manual citado en la ficha", "Al mantener en 2025 las llantas de aleación de 17 pulgadas, con 100/80 delante y 130/70 detrás, no obliga a medidas raras ni caras cuando toca cambiar neumáticos"],
     contras: ["La de 2025 no estrena diseño: Keeway la presentó conservando sin variaciones la estética anterior, así que quien busque novedad visual frente a una RKF de años pasados no la va a encontrar aquí", "13 CV dan para ciudad y rondas con margen, pero en vías rápidas cada adelantamiento hay que planearlo: no hay reserva de potencia si el trayecto habitual incluye mucha carretera abierta", "La propia ficha advierte de acabados básicos y de un asiento duro; en una moto pensada para uso diario, ese asiento se nota más en la vuelta a casa que en la foto del catálogo", "Ojo al cerrar la compra: la ficha indica que hay versiones sin ABS, así que conviene confirmar por escrito qué monta la unidad concreta de 2025 que te entregan, no darlo por hecho"],
     curiosidades: ["La RKF 125 nació como respuesta barata a la KTM 125 Duke: en su presentación de 2018 costaba 2.799 € frente a los 4.499 € que Motofichas citaba entonces para la austriaca", "Su prima de presentación fue la Benelli BN 125: ambas se mostraron juntas en 2018 como el doble ataque en 125 de marchas del grupo Qianjiang, cada una con una personalidad naked distinta"],
     imagen: "/media/fotos-reales/keeway-rkf-125-2025-ficha-tecnica-precio/keeway-rkf-125-2025-ficha-tecnica-precio-real-0.webp",
@@ -1560,7 +1560,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 4.000 km o 12 meses hay que pasar por taller, lo primero que ocurra, con la primera cita a los 1.000 km",
+      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1569,7 +1569,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "filtro del aceite + bujía (según kilometraje) + inspección general + filtro del aire + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 150,
         },
       ],
@@ -1598,7 +1598,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: ["Precio desde 2.490 € en esta ficha 2025: una de las vías más económicas de estrenar una custom de 125 cc con marchas en España.", "Se puede llevar con el carnet A1 y también con el B con más de tres años de experiencia, según la ficha, lo que amplía mucho su público.", "Custom moderna y diferenciada: frente a la Superlight, más clásica y cromada, la K-Light apuesta por una silueta musculosa, escape corto e instrumentación digital de una sola esfera.", "Mantenimiento claro y contenido: revisión inicial a los 1.000 km y luego cada 4.000 km o al año, con un gasto anual aproximado de 160 € recogido en la ficha.", "Etiqueta C de la DGT y planteamiento pensado para ciudad y paseos tranquilos, sin complicaciones electrónicas innecesarias."],
+    pros: ["Precio desde 2.490 € en esta ficha 2025: una de las formas más baratas de estrenar una custom de 125 cc con marchas en España.", "Se puede llevar con el carnet A1 y también con el B con más de tres años de experiencia, según la ficha, lo que amplía mucho su público.", "Custom moderna y diferenciada: frente a la Superlight, más clásica y cromada, la K-Light apuesta por una silueta musculosa, escape corto e instrumentación digital de una sola esfera.", "Mantenimiento claro y contenido: primera revisión a los 1.000 km y después cada 4.000 km o 12 meses, con coste anual aproximado de 160 € recogido en la ficha.", "Etiqueta C de la DGT y planteamiento pensado para ciudad y paseos tranquilos, sin complicaciones electrónicas innecesarias."],
     contras: ["Con 10,6 CV está en la parte baja de las 125: en vías rápidas y adelantamientos hay que planificar con margen, no es una moto para viajar cargado.", "No lleva ABS: recurre a frenada combinada entre ambos discos al accionar el pedal, una solución más básica que exige anticipación al frenar.", "La segunda plaza es más un recurso para trayectos cortos que una invitación a viajar a dúo; en salidas largas el pasajero lo notará.", "Acabados y equipamiento acordes a su precio: quien busque conectividad, ayudas electrónicas o materiales de gama superior tendrá que mirar más arriba."],
     curiosidades: ["Monta una combinación poco habitual en una 125: llanta de 17 pulgadas delante y de 15 pulgadas detrás, con un neumático trasero ancho que refuerza su imagen custom.", "Comparte mecánica con la Superlight 125, pero se distingue por detalles como los amortiguadores traseros con botella de gas separada y el soporte de matrícula sobre la rueda trasera."],
     imagen: "/media/fotos-reales/keeway-k-light-125-2025-ficha-tecnica-precio/keeway-k-light-125-2025-ficha-tecnica-precio-real-0.webp",
@@ -1625,16 +1625,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "El primer taller es a los 1.000 km; a partir de entonces, cada 4.000 km o 12 meses, lo que primero venza",
+      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + revisión general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "filtro del aceite + bujía (según kilometraje) + revisión general + filtro del aire + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 150,
         },
       ],
@@ -1690,16 +1690,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 4.000 kilómetros o 12 meses toca revisión, lo que antes llegue, y la primera de todas cae a los 1.000 km",
+      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + inspección general con aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + inspección general + filtro de aire + bujía (según km)",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 150,
         },
       ],
@@ -1758,16 +1758,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Intervalo: 4.000 km o 12 meses | Primera revisión: 1.000 km | Lo primero que venza",
+      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + control general y reapriete",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "filtro de aceite + revisión general + filtro de aire + bujía (según km) + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 160,
         },
       ],
@@ -1826,16 +1826,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses, y primera revisión a los 1.000 km)",
+      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro del aceite + inspección general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + inspección general + filtro del aire + bujía (según km)",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 160,
         },
       ],
@@ -1865,7 +1865,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
     pros: ["Presupuesto de uso cerrado desde la propia ficha: 2.899 € de PVP y un coste anual aproximado de 170 €, con la revisión de los 1.000 km por unos 100 € y la de los 4.000 km por unos 160 € según su plan de mantenimiento.", "Puedes estrenarla sin sacarte el A1: la ficha la homologa para ese carnet y también para el B con tres años de antigüedad, lleva dos plazas y viene con la etiqueta C de la DGT.", "La parte campera no es solo el color de la carrocería: los neumáticos de tacos y la pequeña cúpula delantera de serie te dejan salir a una pista de tierra el fin de semana sin pasar antes por un taller a montar nada.", "Mecánica deliberadamente simple en pleno 2025: monocilíndrico de 125 cc refrigerado por aire, con inyección electrónica y homologación Euro5, sin radiador que vigilar, y con la frenada a elegir entre ABS y frenada combinada CBS."],
-    contras: ["No aprovecha el techo del A1: declara 8,1 kW (11 CV) frente a los 11 kW que permite ese carnet, y esa diferencia se paga en autovía, con viento de cara o subiendo un puerto, donde toca bajar de marcha y armarse de paciencia.", "El plan de mantenimiento que trae la ficha es corto de intervalo: revisión inicial a los 1.000 km; luego, cada 4.000 km o cada año. Si haces 12.000 km en un año, son tres visitas al taller en ese periodo, aunque cada una salga barata.", "Los tacos que luce en las fotos son su compromiso más claro: en asfalto seco cumplen, pero sobre pintura mojada, pasos de peatones o rotondas con lluvia agarran menos que un neumático de carretera y obligan a frenar y a tumbar con más margen.", "Cuadro y equipamiento de otra época, a propósito: instrumentación minimalista que combina lo analógico con una pequeña pantalla digital, sin modos de conducción, sin control de tracción y sin conectividad para el móvil."],
+    contras: ["No aprovecha el techo del A1: declara 8,1 kW (11 CV) frente a los 11 kW que permite ese carnet, y esa diferencia se paga en autovía, con viento de cara o subiendo un puerto, donde toca bajar de marcha y armarse de paciencia.", "El plan de mantenimiento que trae la ficha es corto de intervalo: primera revisión a los 1.000 km y después cada 4.000 km o 12 meses. Si haces 12.000 km en un año, son tres visitas al taller en ese periodo, aunque cada una salga barata.", "Los tacos que luce en las fotos son su compromiso más claro: en asfalto seco cumplen, pero sobre pintura mojada, pasos de peatones o rotondas con lluvia agarran menos que un neumático de carretera y obligan a frenar y a tumbar con más margen.", "Cuadro y equipamiento de otra época, a propósito: instrumentación minimalista que combina lo analógico con una pequeña pantalla digital, sin modos de conducción, sin control de tracción y sin conectividad para el móvil."],
     curiosidades: ["La Felsberg tuvo una hermana mayor con el mismo apellido: la Felsberg 250, con horquilla invertida y escape en forma de S, que la prensa de la época anunciaba por 3.899 €, mil euros más que esta 125."],
     imagen: "/media/brixton-felsberg-125-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -1894,16 +1894,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Primera revisión a los 1.000 km; la siguiente llega a los 4.000 km o al año, lo que llegue antes",
+      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro del aceite + revisión general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "filtro de aceite + revisión general + filtro del aire + bujía (según km) + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 160,
         },
       ],
@@ -1962,16 +1962,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Kilómetros: 4.000 | Plazo: 12 meses | Primera revisión: 1.000 km | Criterio: lo primero que venza",
+      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro del aceite + inspección general con aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + inspección general + bujía (según km) + filtro de aire",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 160,
         },
       ],
@@ -2030,16 +2030,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "3.000 km (revisión inicial a los 1.000 km)",
+      intervalo: "3.000 km (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro del aceite + control general y reapriete",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km",
-          queSeCambia: "Aceite + filtro de aceite + revisión general + bujía (según km) + filtro de aire",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 140,
         },
       ],
@@ -2098,16 +2098,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Intervalo de 3.000 km; la primera revisión llega a los 1.000 km",
+      intervalo: "3.000 km (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de lubricante + inspección general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km",
-          queSeCambia: "Aceite + filtro del aceite + inspección general + bujía (según kilometraje) + filtro de aire",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 140,
         },
       ],
@@ -2165,16 +2165,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "3.000 km (primera revisión tras alcanzar los 1.000 km)",
+      intervalo: "3.000 km (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de lubricante + revisión general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km",
-          queSeCambia: "Aceite + filtro del aceite + revisión general + bujía (según kilometraje) + filtro de aire",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 140,
         },
       ],
@@ -2230,16 +2230,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "3.000 km o 12 meses; y la revisión inicial a los 500 km)",
+      intervalo: "3.000 km o 12 meses (primera revisión a los 500 km)",
       revisiones: [
         {
           nombre: "Primera revisión (500 km)",
-          queSeCambia: "Aceite + filtro de lubricante + inspección general con aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "Lubricante + filtro de aceite + inspección general + bujía (según kilometraje) + filtro del aire",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 140,
         },
       ],
@@ -2295,16 +2295,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "3.000 km o un año, con primera revisión a los 500 km)",
+      intervalo: "3.000 km o 12 meses (primera revisión a los 500 km)",
       revisiones: [
         {
           nombre: "Primera revisión (500 km)",
-          queSeCambia: "Aceite + filtro de lubricante + control general y reapriete",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "Lubricante + filtro de aceite + revisión general + bujía (según kilometraje) + filtro del aire",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 140,
         },
       ],
@@ -2360,16 +2360,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "3.000 km o un año; la primera revisión llega a los 500 km)",
+      intervalo: "3.000 km o 12 meses (primera revisión a los 500 km)",
       revisiones: [
         {
           nombre: "Primera revisión (500 km)",
-          queSeCambia: "Lubricante + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "Lubricante + filtro del aceite + inspección general + bujía (según km) + filtro del aire",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 140,
         },
       ],
@@ -2432,12 +2432,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (500 km)",
-          queSeCambia: "Lubricante + filtro de aceite + revisión general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "Lubricante + filtro del aceite + revisión general + bujía (según km) + filtro del aire",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 150,
         },
       ],
@@ -2500,12 +2500,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (500 km)",
-          queSeCambia: "Lubricante + filtro de aceite + inspección general con aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "Aceite + filtro de aire + bujía (según km) + filtro de aceite + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 150,
         },
       ],
@@ -2565,12 +2565,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Lubricante + filtro de aceite + control general y reapriete",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "filtro de aire + bujía (según kilometraje) + filtro de aceite + inspección general + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 140,
         },
       ],
@@ -2630,19 +2630,19 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Lubricante + filtro del aceite + inspección general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "Aceite + filtro del aire + bujía (según km) + filtro de aceite + revisión general",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 140,
         },
       ],
       costeAnualAproxEur: 150,
       fuente: "Manual oficial Wottan España",
     },
-    mantenimientoDIY: {"aceiteTipo": "El especificado en el manual oficial entregado con la moto; en cada revisión programada toca sustituir aceite y filtro de aceite. No se ha localizado una viscosidad pública verificable para la 401, así que no se consigna ninguna sin esa confirmación", "cadenaPasos": ["Apoya la moto en vertical o sobre caballete y gira la rueda trasera a mano para recorrer toda la cadena", "Limpia los eslabones con un producto especial para cadenas con retenes y un cepillo blando, sin usar gasolina ni alta presión directa", "Seca bien la transmisión antes de aplicar lubricante para cadena por la cara interior, eslabón a eslabón", "Comprueba la tensión en el punto medio del ramal inferior y ajústala solo dentro del margen que indique el manual de tu unidad", "Revisa desgaste de corona y piñón y alineación de la rueda trasera tras cualquier ajuste de tensión"], "intervaloMantenimiento": "No dejes pasar 3.000 km o 12 meses sin revisión, lo primero que llegue, con la primera revisión al primer millar de kilómetros, según el plan recogido en la propia ficha con fuente en el manual oficial de Wottan España", "trucos": ["Engrasa siempre al terminar la ruta, con la cadena templada: el lubricante penetra mejor y se queda adherido", "Aprovecha cada limpieza para revisar también filtro de aire y bujía según el kilometraje que marque el plan de revisiones", "Anota fecha y kilómetros de cada intervención en el libro de mantenimiento: es tu prueba para la garantía y para una posible venta"]},
+    mantenimientoDIY: {"aceiteTipo": "El especificado en el manual oficial entregado con la moto; en cada revisión programada toca sustituir aceite y filtro de aceite. No se ha localizado una viscosidad pública verificable para la 401, así que no se consigna ninguna sin esa confirmación", "cadenaPasos": ["Apoya la moto en vertical o sobre caballete y gira la rueda trasera a mano para recorrer toda la cadena", "Limpia los eslabones con un producto específico para cadenas con retenes y un cepillo blando, sin usar gasolina ni alta presión directa", "Seca bien la transmisión antes de aplicar lubricante para cadena por la cara interior, eslabón a eslabón", "Comprueba la tensión en el punto medio del ramal inferior y ajústala solo dentro del margen que indique el manual de tu unidad", "Revisa desgaste de corona y piñón y alineación de la rueda trasera tras cualquier ajuste de tensión"], "intervaloMantenimiento": "Primera revisión a los 1.000 km; después cada 3.000 km o 12 meses, lo que ocurra antes, según el plan recogido en la propia ficha con fuente en el manual oficial de Wottan España", "trucos": ["Engrasa siempre al terminar la ruta, con la cadena templada: el lubricante penetra mejor y se queda adherido", "Aprovecha cada limpieza para revisar también filtro de aire y bujía según el kilometraje que marque el plan de revisiones", "Anota fecha y kilómetros de cada intervención en el libro de mantenimiento: es tu prueba para la garantía y para una futura venta"]},
   },
   {
     id: "horwin-sk3-2026-ficha-tecnica-precio",
@@ -2696,12 +2696,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lleva) + puesta al día del software",
+          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas de freno (según desgaste)",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
@@ -2762,12 +2762,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro de polen (si lo lleva) + actualización de software",
+          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de frenos + pastillas (según su desgaste)",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
@@ -2815,19 +2815,19 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "filtro antipolen (si lleva) + actualización de software + Inspección general",
+          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "líquido de freno + pastillas (según desgaste) + Inspección general",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Yadea España",
     },
-    mantenimientoDIY: {"aceiteTipo": "No aplica: es eléctrica, sin aceite de motor que cambiar; el manual sí marca sustituir el líquido de frenos cada 2 años", "cadenaPasos": ["Comprueba la presión y el desgaste de ambos neumáticos antes de salir", "Revisa el tacto de las manetas y el estado de pastillas y discos de freno", "Verifica luces, claxon e interruptores de freno en una vuelta rápida al scooter", "Mira el apriete de tuercas y tornillos visibles, con atención a ruedas y dirección", "Inspecciona el conector de carga y el cable del cargador por si hubiera daños", "Si algo no se puede resolver en casa, acude al Servicio de Asistencia Técnica de Yadea"], "intervaloMantenimiento": "Primera revisión a los 1.000 km o medio año; después, cada 5.000 km o anual, lo primero que ocurra, según el manual oficial Yadea del G5 S/G5 Pro", "trucos": ["Para guardarla un tiempo, deja la batería en torno al 50 % en un lugar seco y ventilado", "Si no la usas, recarga la batería 2-3 horas cada 2 meses, tal como indica el manual", "Lávala con detergente neutro y paño suave, evitando agua a presión cerca del compartimento de la batería", "Acorta los intervalos si la usas a diario con sobrecarga, baches o subidas frecuentes"]},
+    mantenimientoDIY: {"aceiteTipo": "No aplica: es eléctrica, sin aceite de motor que cambiar; el manual sí marca sustituir el líquido de frenos cada 2 años", "cadenaPasos": ["Comprueba la presión y el desgaste de ambos neumáticos antes de salir", "Revisa el tacto de las manetas y el estado de pastillas y discos de freno", "Verifica luces, claxon e interruptores de freno en una vuelta rápida al scooter", "Mira el apriete de tuercas y tornillos visibles, con atención a ruedas y dirección", "Inspecciona el conector de carga y el cable del cargador por si hubiera daños", "Si algo no se puede resolver en casa, acude al Servicio de Asistencia Técnica de Yadea"], "intervaloMantenimiento": "Primera revisión a los 1.000 km o 6 meses; después, cada 5.000 km o anual, lo primero que ocurra, según el manual oficial Yadea del G5 S/G5 Pro", "trucos": ["Para guardarla un tiempo, deja la batería en torno al 50 % en un lugar seco y ventilado", "Si no la usas, recarga la batería 2-3 horas cada 2 meses, tal como indica el manual", "Lávala con detergente neutro y paño suave, evitando agua a presión cerca del compartimento de la batería", "Acorta los intervalos si la usas a diario con sobrecarga, baches o subidas frecuentes"]},
   },
   {
     id: "yadea-c1s-pro-2026-ficha-tecnica-precio",
@@ -2869,12 +2869,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "filtro antipolen (si lleva) + actualización del software + Inspección general",
+          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + líquido de freno + pastillas de freno (según desgaste)",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
@@ -2922,19 +2922,19 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + filtro antipolen (si lleva) + puesta al día del software",
+          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "líquido de freno + pastillas (según su desgaste) + Inspección general",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Segway España",
     },
-    mantenimientoDIY: {"aceiteTipo": "No aplica: al ser un scooter eléctrico, no hay que renovar aceite de motor ni engrasar cadena de transmisión", "cadenaPasos": ["Comprobar con regularidad presión, dibujo y posibles cortes en ambos neumáticos, y revisar que las ruedas giren libres sin ruidos", "Revisar pastillas, discos y nivel del líquido de frenos, y acudir al taller si notas tacto esponjoso o pérdida de eficacia", "Mantener limpios y secos los contactos de las dos baterías extraíbles y cargarlas siempre con el cargador suministrado por la marca", "Repasar luces, claxon, caballete, espejos y apriete visible de tornillería, y aplicar las actualizaciones de software cuando la aplicación lo avise", "Cumplir la inspección oficial cada par de años o 10.000 km, con revisión general y actualización de software según el plan de la ficha"], "intervaloMantenimiento": "24 meses o 10.000 km (inspección), según el plan de mantenimiento de la propia ficha basado en el manual oficial de Segway España", "trucos": ["Si la vas a dejar parada una temporada, guárdala con carga parcial y en lugar seco y templado, no completamente descargada", "Alternar el uso de ambas baterías ayuda a que envejezcan de forma pareja y a detectar pronto si una rinde menos", "Una conducción suave, sin acelerones constantes a tope, alarga la autonomía real y cuida frenos y neumáticos"]},
+    mantenimientoDIY: {"aceiteTipo": "No aplica: es un scooter eléctrico, sin aceite de motor que sustituir ni cadena de transmisión que engrasar", "cadenaPasos": ["Comprobar con regularidad presión, dibujo y posibles cortes en ambos neumáticos, y revisar que las ruedas giren libres sin ruidos", "Revisar pastillas, discos y nivel del líquido de frenos, y acudir al taller si notas tacto esponjoso o pérdida de eficacia", "Mantener limpios y secos los contactos de las dos baterías extraíbles y cargarlas siempre con el cargador suministrado por la marca", "Repasar luces, claxon, caballete, espejos y apriete visible de tornillería, y aplicar las actualizaciones de software cuando la aplicación lo avise", "Cumplir la inspección oficial cada 24 meses o 10.000 km, con revisión general y actualización de software según el plan de la ficha"], "intervaloMantenimiento": "24 meses o 10.000 km (inspección), según el plan de mantenimiento de la propia ficha basado en el manual oficial de Segway España", "trucos": ["Si la vas a dejar parada una temporada, guárdala con carga parcial y en lugar seco y templado, no completamente descargada", "Alternar el uso de ambas baterías ayuda a que envejezcan de forma pareja y a detectar pronto si una rinde menos", "Una conducción suave, sin acelerones constantes a tope, alarga la autonomía real y cuida frenos y neumáticos"]},
   },
   {
     id: "bmw-ce-04-2026-ficha-tecnica-precio",
@@ -2990,12 +2990,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Revisión general + filtro de polen (si lleva) + actualización del software",
+          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
           costeAproxEur: 120,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "fluido de frenos + pastillas (según desgaste) + Inspección general",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 180,
         },
       ],
@@ -3057,12 +3057,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Revisión general + filtro de polen (si lo lleva) + puesta al día del software",
+          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
           costeAproxEur: 120,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + fluido de frenos + pastillas de freno (según desgaste)",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 180,
         },
       ],
@@ -3122,19 +3122,19 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + actualización de software + filtro de polen (si lleva)",
+          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "fluido de frenos + pastillas (según su desgaste) + Inspección general",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Zero Motorcycles España",
     },
-    mantenimientoDIY: {"aceiteTipo": "Sin aceite de motor: es eléctrica y no hay lubricante del propulsor que cambiar; el único fluido con renovación programada es el líquido de frenos, cada 12 meses según el manual", "cadenaPasos": ["Antes de cada salida, echa un vistazo a la correa buscando cortes, grietas o dientes dañados y retira cualquier piedrecilla incrustada", "Límpiala solo con agua y un cepillo suave, déjala siempre seca y lejos de grasas o aceites, que degradan el carbono", "Mide la tensión con la app gratuita Gates Carbon Drive acercando el móvil y pulsando la correa como indica el manual", "Si ajustas la tensión, afloja el eje trasero y mueve ambos lados a la par para mantener la rueda alineada, reapretando después al par indicado", "Apunta la sustitución preventiva a los 37.000 km aunque visualmente parezca sana: es el límite que fija el manual del propietario"], "intervaloMantenimiento": "Inspección oficial cada dos años o 10.000 km según consta en la propia ficha (fuente: manual Zero); el manual del propietario añade cambio de líquido de frenos cada 12 meses y sustitución de la correa a los 37.000 km", "trucos": ["Si va a dormir más de un mes, no la dejes por debajo del 30 % de carga y al despertarla programa una recarga completa de 24 horas, como recomienda el manual", "Revisa nivel de líquido de frenos y presión de neumáticos en cada inspección casera: en una eléctrica son el mantenimiento real del día a día", "Sin embrague, sin marchas y sin aceite, tu rutina se reduce a correa, frenos, neumáticos y actualizaciones de software mediante Cypher"]},
+    mantenimientoDIY: {"aceiteTipo": "Sin aceite de motor: es eléctrica y no hay lubricante del propulsor que cambiar; el único fluido con renovación programada es el líquido de frenos, cada 12 meses según el manual", "cadenaPasos": ["Antes de cada salida, echa un vistazo a la correa buscando cortes, grietas o dientes dañados y retira cualquier piedrecilla incrustada", "Límpiala solo con agua y un cepillo suave, déjala siempre seca y lejos de grasas o aceites, que degradan el carbono", "Mide la tensión con la app gratuita Gates Carbon Drive acercando el móvil y pulsando la correa como indica el manual", "Si ajustas la tensión, afloja el eje trasero y mueve ambos lados por igual para mantener la rueda alineada, reapretando después al par indicado", "Apunta la sustitución preventiva a los 37.000 km aunque visualmente parezca sana: es el límite que fija el manual del propietario"], "intervaloMantenimiento": "Inspección oficial cada 24 meses o 10.000 km según consta en la propia ficha (fuente: manual Zero); el manual del propietario añade cambio de líquido de frenos cada 12 meses y sustitución de la correa a los 37.000 km", "trucos": ["Si va a dormir más de un mes, no la dejes por debajo del 30 % de carga y al despertarla programa una recarga completa de 24 horas, como recomienda el manual", "Revisa nivel de líquido de frenos y presión de neumáticos en cada inspección casera: en una eléctrica son el mantenimiento real del día a día", "Sin embrague, sin marchas y sin aceite, tu rutina se reduce a correa, frenos, neumáticos y actualizaciones de software mediante Cypher"]},
   },
   {
     id: "zero-fx-2026-ficha-tecnica-precio",
@@ -3188,12 +3188,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + actualización del software + filtro de polen (si lleva)",
+          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Revisión general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
@@ -3254,19 +3254,19 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + puesta al día del software + filtro de polen (si lleva)",
+          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Revisión general + líquido de freno + pastillas (según desgaste)",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Zero Motorcycles España",
     },
-    mantenimientoDIY: {"aceiteTipo": "No aplica: motor eléctrico sin aceite de motor ni filtro de aceite que sustituir; tampoco lleva cadena que engrasar, la transmisión final es por correa", "cadenaPasos": ["Con la moto apagada y en frío, observa la correa por ambos lados buscando cortes, deshilachados, dientes dañados o suciedad acumulada", "Retira polvo y restos con un paño seco o aire suave; mantén correa y piñones alejados de grasas, aceites y disolventes", "Comprueba la tensión siguiendo el manual de Zero, por ejemplo con la aplicación Gates Carbon Drive citada en su documentación, y deja el ajuste fino al taller si sale de rango", "Mira el grosor visible de las pastillas y el nivel del líquido de frenos por la mirilla, sin abrir el circuito hidráulico", "Revisa presiones y dibujo de los neumáticos, tornillería accesible a simple vista y funcionamiento de luces antes de salir"], "intervaloMantenimiento": "Inspección oficial bienal o cada 10.000 km según el plan que recoge la ficha con fuente en el manual oficial Zero; entre visitas, control visual frecuente en casa de correa, frenos y neumáticos, sin tocar el sistema de alta tensión", "trucos": ["Evita guardarla largos periodos con la batería muy baja y sigue las indicaciones del manual sobre estado de carga durante el almacenamiento", "Carga habitualmente en enchufe doméstico y reserva la recarga rápida opcional de hasta 12,6 kW para cuando hagas muchos kilómetros seguidos", "Si notas chirridos, tirones o marcas anómalas en la correa, no apliques lubricantes de cadena: acude a un servicio oficial Zero"]},
+    mantenimientoDIY: {"aceiteTipo": "No aplica: motor eléctrico sin aceite de motor ni filtro de aceite que sustituir; tampoco lleva cadena que engrasar, la transmisión final es por correa", "cadenaPasos": ["Con la moto apagada y en frío, observa la correa por ambos lados buscando cortes, deshilachados, dientes dañados o suciedad acumulada", "Retira polvo y restos con un paño seco o aire suave; mantén correa y piñones alejados de grasas, aceites y disolventes", "Comprueba la tensión siguiendo el manual de Zero, por ejemplo con la aplicación Gates Carbon Drive citada en su documentación, y deja el ajuste fino al taller si sale de rango", "Mira el grosor visible de las pastillas y el nivel del líquido de frenos por la mirilla, sin abrir el circuito hidráulico", "Revisa presiones y dibujo de los neumáticos, tornillería accesible a simple vista y funcionamiento de luces antes de salir"], "intervaloMantenimiento": "Inspección oficial cada 24 meses o 10.000 km según el plan recogido en la ficha con fuente en el manual oficial Zero; entre visitas, control visual frecuente en casa de correa, frenos y neumáticos, sin tocar el sistema de alta tensión", "trucos": ["Evita guardarla largos periodos con la batería muy baja y sigue las indicaciones del manual sobre estado de carga durante el almacenamiento", "Carga habitualmente en enchufe doméstico y reserva la recarga rápida opcional de hasta 12,6 kW para cuando hagas muchos kilómetros seguidos", "Si notas chirridos, tirones o marcas anómalas en la correa, no apliques lubricantes de cadena: acude a un servicio oficial Zero"]},
   },
   {
     id: "energica-eva-ribelle-2025-ficha-tecnica-precio",
@@ -3320,12 +3320,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + actualización de software + filtro antipolen (si lleva)",
+          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
           costeAproxEur: 120,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Revisión general + fluido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 180,
         },
       ],
@@ -3380,12 +3380,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Inspección general + actualización del software + filtro antipolen (si lleva)",
+          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Control general + líquido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
@@ -3447,12 +3447,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "Revisión general + puesta al día del software + filtro antipolen (si lleva)",
+          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Control general + líquido de freno + pastillas (según desgaste)",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
@@ -3508,16 +3508,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses, con la revisión inicial a los 1.000 km)",
+      intervalo: "6.000 km o 12 meses (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Lubricante + filtro del aceite + revisión general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "filtro del aire + bujía (según kilometraje) + filtro de aceite + revisión general + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 160,
         },
       ],
@@ -3546,7 +3546,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: ["Pantalla TFT a color con dos visualizaciones, Clásica y Racing, y brillo que se ajusta solo según la luz ambiental: un guiño moderno muy poco habitual en una 125 de estética de óvalo de tierra", "Monocilíndrico de 124 cc con culata DOHC de cuatro válvulas y refrigeración líquida que rinde 13,6 CV, cerca del techo del carnet A1, con caja de seis velocidades para estirarlo en ciudad", "Freno anterior de 280 mm con pinza radial de 4 pistones para un conjunto de solo 133 kg: la frenada va sobrada respecto a lo que pide esta potencia", "Colín afilado de aspecto monoplaza que se desmonta y esconde el asiento del pasajero, así que conserva las dos plazas de la ficha sin romper la silueta de tracker cuando vas solo"],
+    pros: ["Pantalla TFT a color con dos visualizaciones, Clásica y Racing, y brillo que se ajusta solo según la luz ambiental: un guiño moderno muy poco habitual en una 125 de estética de óvalo de tierra", "Monocilíndrico de 124 cc con culata DOHC de cuatro válvulas y refrigeración líquida que rinde 13,6 CV, cerca del techo del carnet A1, con caja de seis velocidades para estirarlo en ciudad", "Freno delantero de 280 mm con pinza radial de cuatro pistones para un conjunto de solo 133 kg: la frenada va sobrada respecto a lo que pide esta potencia", "Colín afilado de aspecto monoplaza que se desmonta y esconde el asiento del pasajero, así que conserva las dos plazas de la ficha sin romper la silueta de tracker cuando vas solo"],
     contras: ["Esos 13,6 CV mandan en ciudad, pero en vías rápidas y con pasajero se nota que no hay reserva: adelantar exige planificar y bajar marchas", "El alumbrado va integrado en la placa portanúmeros frontal con dos ópticas LED pequeñas, una solución de competición que de noche en carretera secundaria se queda corta", "La apuesta por la imagen se paga en lo práctico: portanúmeros laterales, guardabarros envolventes y colín de carreras dejan una moto sin apenas espacio útil ni concesiones al día a día", "Mondial es una marca minoritaria en España, y eso se traslada a la reventa y a la disponibilidad de recambios frente a las 125 japonesas y europeas más vendidas"],
     curiosidades: ["Lleva estampado el dorsal 57 en las placas portanúmeros en homenaje a 1957, el año en el que FB Mondial conquistó cuatro títulos mundiales, según recoge RideApart al presentar la actualización del modelo", "Aunque parece monoplaza estricta, bajo el colín se esconde un segundo asiento: la propia prensa especializada lo destaca como el truco que permite llevar pasajero sin alterar su línea de dirt track"],
     imagen: "/media/mondial-flat-track-125-2025-ficha-tecnica-precio-oficial.webp",
@@ -3573,16 +3573,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Primera revisión: 1.000 km | Kilómetros: 6.000 | Plazo: 12 meses | Lo primero que ocurra",
+      intervalo: "6.000 km o 12 meses (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Lubricante + filtro del aceite + inspección general con aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Lubricante + filtro de aire + bujía (según km) + filtro del aceite + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 160,
         },
       ],
@@ -3637,12 +3637,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "actualización de software + Inspección general + filtro de polen (si lleva)",
+          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Control general + fluido de frenos + pastillas (según desgaste)",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
@@ -3703,19 +3703,19 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "filtro de polen (cuando lo lleva) + Inspección general + puesta al día del software",
+          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "pastillas (según desgaste) + líquido de frenos + Inspección general",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Niu España",
     },
-    mantenimientoDIY: {"aceiteTipo": "No aplica: scooter eléctrico sin aceite de motor, sin bujías ni filtro de aire de combustión y sin cadena que engrasar; el líquido de frenos y las pastillas se revisan y sustituyen solo según desgaste en la inspección oficial", "cadenaPasos": ["Con la moto apagada y sobre una superficie plana, extrae los dos acumuladores y examina carcasas, asas y contactos buscando golpes, humedad o suciedad acumulada", "Comprueba presiones, dibujo y posibles cortes en las dos ruedas, y gira cada rueda en vacío para detectar roces, holguras o ruidos extraños", "Acciona las dos manetas varias veces, revisa el tacto de la frenada, el estado visible de las pastillas y que ninguna luz de freno deje de encenderse", "Enchufa cada batería por separado en una toma doméstica con su cargador original y verifica que el proceso termina dentro del margen de 3 a 6 horas indicado en la ficha", "Pasa un paño suave y seco por el compartimento de las baterías y por los bornes, sin usar agua a presión en esa zona ni en el puerto de carga", "Abre la aplicación de la marca, consulta avisos y diagnóstico, instala las actualizaciones disponibles y anota fecha y kilometraje de cada control casero"], "intervaloMantenimiento": "Inspección en servicio oficial bienal o 10.000 km, lo primero que llegue, según el plan ya registrado en el propio objeto de esta ficha con fuente Manual oficial NIU España; entre visitas, controles caseros periódicos de frenos, neumáticos, luces y baterías", "trucos": ["Planifica las recargas completas con margen: la ficha sitúa el proceso entre 3 y 6 horas, así que dejarlas enchufadas durante la jornada laboral o por la noche evita quedarte a medias", "Retira siempre los acumuladores antes de lavar el scooter y no vuelvas a enchufar nada hasta comprobar que contactos y puerto están completamente secos", "Si va a quedar parado una temporada, guárdalo en un lugar seco y ventilado y revisa el nivel de carga de ambos packs antes de volver a circular", "Lleva un registro sencillo con presiones, frenos y cualquier aviso de la aplicación: llegar a la inspección oficial de los 24 meses o 10.000 km con ese historial facilita detectar desgastes anómalos"]},
+    mantenimientoDIY: {"aceiteTipo": "No aplica: scooter eléctrico sin aceite de motor, sin bujías ni filtro de aire de combustión y sin cadena que engrasar; el líquido de frenos y las pastillas se revisan y sustituyen solo según desgaste en la inspección oficial", "cadenaPasos": ["Con la moto apagada y sobre una superficie plana, extrae los dos acumuladores y examina carcasas, asas y contactos buscando golpes, humedad o suciedad acumulada", "Comprueba presiones, dibujo y posibles cortes en ambos neumáticos, y gira cada rueda en vacío para detectar roces, holguras o ruidos extraños", "Acciona las dos manetas varias veces, revisa el tacto de la frenada, el estado visible de las pastillas y que ninguna luz de freno deje de encenderse", "Enchufa cada batería por separado en una toma doméstica con su cargador original y verifica que el proceso termina dentro del margen de 3 a 6 horas indicado en la ficha", "Pasa un paño suave y seco por el compartimento de las baterías y por los bornes, sin usar agua a presión en esa zona ni en el puerto de carga", "Abre la aplicación de la marca, consulta avisos y diagnóstico, instala las actualizaciones disponibles y anota fecha y kilometraje de cada control casero"], "intervaloMantenimiento": "Inspección en servicio oficial cada 24 meses o 10.000 km, lo que antes ocurra, según el plan ya registrado en el propio objeto de esta ficha con fuente Manual oficial NIU España; entre visitas, controles caseros periódicos de frenos, neumáticos, luces y baterías", "trucos": ["Planifica las recargas completas con margen: la ficha sitúa el proceso entre 3 y 6 horas, así que dejarlas enchufadas durante la jornada laboral o por la noche evita quedarte a medias", "Retira siempre los acumuladores antes de lavar el scooter y no vuelvas a enchufar nada hasta comprobar que contactos y puerto están completamente secos", "Si va a estar parado una temporada, guárdalo en un lugar seco y ventilado y revisa el nivel de carga de ambos packs antes de volver a circular", "Lleva un registro sencillo con presiones, frenos y cualquier aviso de la aplicación: llegar a la inspección oficial de los 24 meses o 10.000 km con ese historial facilita detectar desgastes anómalos"]},
   },
   {
     id: "niu-nqi-gts-2025-ficha-tecnica-precio",
@@ -3772,12 +3772,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "filtro de polen (si lo lleva) + Inspección general + actualización de software",
+          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "pastillas de freno (según desgaste) + líquido de frenos + Inspección general",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
@@ -3838,12 +3838,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "actualización de software + filtro antipolen (si lleva) + Inspección general",
+          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + pastillas (según su desgaste) + líquido de frenos",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
@@ -3898,16 +3898,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "El intervalo es de 10.000 kilómetros o 12 meses, lo que antes suceda",
+      intervalo: "10.000 km o 12 meses (primera revisión a los 500 km)",
       revisiones: [
         {
           nombre: "Primera revisión (500 km)",
-          queSeCambia: "Lubricante + filtro del aceite + control general y reapriete",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 180,
         },
         {
           nombre: "Revisión 10.000 km / anual",
-          queSeCambia: "Lubricante + filtro de aire + bujía (según kilometraje) + filtro del aceite + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 260,
         },
       ],
@@ -3967,19 +3967,19 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "actualización del software + filtro antipolen (si lleva) + Inspección general",
+          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "pastillas (según desgaste) + líquido de freno + Inspección general",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Piaggio España",
     },
-    mantenimientoDIY: {"aceiteTipo": "Sin aceite de motor y sin cadena: es eléctrica, con el motor integrado en la rueda trasera, por lo que no se le aplican las rutinas de un scooter de gasolina", "cadenaPasos": ["Extrae la batería de 15 kg por su asa y revisa que contactos y alojamiento estén limpios, secos y sin holguras", "Comprueba presión, dibujo y posibles cortes en los dos neumáticos, especialmente sensibles por el diámetro de 10 pulgadas", "Revisa los niveles del líquido de frenos y el espesor de las pastillas, y verifica que la frenada no presente tacto esponjoso", "Prueba luces, intermitentes, claxon, pantalla LCD, toma USB y funcionamiento de la marcha atrás con el scooter detenido", "Limpia carrocería y zona del buje trasero con paño húmedo, evitando agua a presión directa sobre batería, conectores y motor", "Recarga en enchufe doméstico de 220 V durante unas 6 horas con el cargador suministrado y guarda la batería fuera de temperaturas extremas"], "intervaloMantenimiento": "Inspección bienal o 10.000 km, según el plan ya recogido en la propia ficha con fuente Manual oficial Piaggio España; entre revisiones, controles caseros periódicos de frenos, ruedas, luces y batería", "trucos": ["Si vives en un piso sin garaje, la extracción de la batería resuelve la carga: súbela a casa en lugar de buscar un punto público", "Anota cada carga completa y la autonomía real en Sport y en Eco; una caída llamativa respecto a los 66 km WMTC avisa de degradación", "Antes de un bordillo o un bache acusado, reduce velocidad: con rueda de 10 pulgadas el golpe llega mucho más seco al chasis"]},
+    mantenimientoDIY: {"aceiteTipo": "Sin aceite de motor y sin cadena: es eléctrica, con el motor integrado en la rueda trasera, por lo que no se le aplican las rutinas de un scooter de gasolina", "cadenaPasos": ["Extrae la batería de 15 kg por su asa y revisa que contactos y alojamiento estén limpios, secos y sin holguras", "Comprueba presión, dibujo y posibles cortes en ambos neumáticos, especialmente sensibles por el diámetro de 10 pulgadas", "Mira el nivel del líquido de frenos y el grosor de las pastillas, y verifica que la frenada no presente tacto esponjoso", "Prueba luces, intermitentes, claxon, pantalla LCD, toma USB y funcionamiento de la marcha atrás con el scooter detenido", "Limpia carrocería y zona del buje trasero con paño húmedo, evitando agua a presión directa sobre batería, conectores y motor", "Recarga en enchufe doméstico de 220 V durante unas 6 horas con el cargador suministrado y guarda la batería fuera de temperaturas extremas"], "intervaloMantenimiento": "Inspección cada 24 meses o 10.000 km, según el plan ya recogido en la propia ficha con fuente Manual oficial Piaggio España; entre revisiones, controles caseros periódicos de frenos, neumáticos, luces y batería", "trucos": ["Si vives en un piso sin garaje, la extracción de la batería resuelve la carga: súbela a casa en lugar de buscar un punto público", "Anota cada carga completa y la autonomía real en Sport y en Eco; una caída llamativa respecto a los 66 km WMTC avisa de degradación", "Antes de un bordillo o un bache acusado, reduce velocidad: con rueda de 10 pulgadas el golpe llega mucho más seco al chasis"]},
   },
   {
     id: "cfmoto-300sr-2025-ficha-tecnica-precio",
@@ -4046,16 +4046,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 1 año; manda lo primero que llegue",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "filtro de lubricante + inspección general con aprietes + Aceite 10W40",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 120,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Lubricante + filtro del aire + bujía (según km) + filtro del aceite + revisión general",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 180,
         },
       ],
@@ -4130,16 +4130,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: "https://zontesbcn.com/modelo/g1-125/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses; decide lo que antes venza",
+      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W40 + filtro de lubricante + control general y reapriete",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 110,
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Lubricante + filtro del aire + bujía (según kilometraje) + filtro del aceite + revisión general",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 160,
         },
       ],
@@ -4211,16 +4211,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 1 año; vence lo primero que llegue",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + inspección general y aprietes + filtro de aceite",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "filtro de aire + bujía (según kilometraje) + inspección general + filtro de aceite + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 220,
         },
       ],
@@ -4292,16 +4292,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 1 año; impera lo primero que llegue",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite 10W-40 + revisión general y aprietes + filtro de aceite",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "filtro de aire + bujía (según kilometraje) + revisión general + filtro de aceite + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 230,
         },
       ],
@@ -4373,16 +4373,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o un año; la revisión inicial se hace a los 1.000 km)",
+      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Lubricante + filtro de lubricante + inspección general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "filtro del aire + bujía (según kilometraje) + inspección general + filtro del aceite + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 150,
         },
       ],
@@ -4454,16 +4454,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o un año, con la primera revisión prevista a los 1.000 km)",
+      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Lubricante + filtro de lubricante + revisión general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 100,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "filtro del aire + bujía (según kilometraje) + revisión general + filtro del aceite + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 150,
         },
       ],
@@ -4542,12 +4542,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (500 km)",
-          queSeCambia: "Lubricante + filtro de lubricante + inspección general con aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "filtro de aire + inspección general + filtro de aceite + bujía (según km) + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 150,
         },
       ],
@@ -4623,12 +4623,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Lubricante + filtro de lubricante + control general y reapriete",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 3.000 km / anual",
-          queSeCambia: "filtro de aceite + bujía (según km) + Aceite + filtro de aire + revisión general",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 140,
         },
       ],
@@ -4704,12 +4704,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "actualización de software + Revisión general + filtro de polen (si lleva)",
+          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + pastillas (según desgaste) + fluido de frenos",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
@@ -4786,12 +4786,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "filtro de polen (cuando lo lleva) + Revisión general + puesta al día del software",
+          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "pastillas de freno (según desgaste) + fluido de frenos + Inspección general",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
@@ -4868,12 +4868,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "filtro de polen (si lo lleva) + Revisión general + actualización de software",
+          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
           costeAproxEur: 120,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Inspección general + pastillas (según su desgaste) + fluido de frenos",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 180,
         },
       ],
@@ -4949,12 +4949,12 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Inspección (24 meses / 10.000 km)",
-          queSeCambia: "filtro antipolen (si lleva) + Revisión general + actualización de software",
+          queSeCambia: "Inspección general + filtro de polen (si lleva) + actualización de software",
           costeAproxEur: 100,
         },
         {
           nombre: "Inspección + frenos (según desgaste)",
-          queSeCambia: "Revisión general + pastillas (según desgaste) + líquido de frenos",
+          queSeCambia: "Inspección general + líquido de frenos + pastillas (según desgaste)",
           costeAproxEur: 150,
         },
       ],
@@ -5026,16 +5026,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Revisión de inicio a los 1.000 km; después según el plan del manual oficial",
+      intervalo: "Primera revisión a los 1.000 km; después según el plan del manual oficial",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite motor + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 130,
         },
         {
           nombre: "Revisión periódica (según manual oficial)",
-          queSeCambia: "filtro de aire + inspección general + filtro del aceite + bujía (según km) + Aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 200,
         },
       ],
@@ -5110,16 +5110,16 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "7.500 km o 12 meses; la primera revisión se hace a los 1.000 km)",
+      intervalo: "7.500 km o 12 meses (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite motor + filtro de aceite + revisión general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 150,
         },
         {
           nombre: "Revisión 7.500 km / anual",
-          queSeCambia: "Aceite + revisión general + filtro de aire + filtro del aceite + bujía (según km)",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía (según km) + inspección general",
           costeAproxEur: 220,
         },
       ],
