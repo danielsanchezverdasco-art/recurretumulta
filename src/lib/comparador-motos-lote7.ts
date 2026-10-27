@@ -67,11 +67,11 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://mpracing.es/10499-kove",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 6.000 km o cada 12 meses: el taller la espera cuando llegue lo primero",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite nuevo + filtro de aceite + inspección general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 120,
         },
         {
@@ -143,16 +143,16 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/kove/800x-rally",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Intervalo de 6.000 km o 12 meses, según lo que llegue antes",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Inspección general y aprietes + aceite + filtro de aceite",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + ajuste de válvulas según kilometraje",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
           costeAproxEur: 260,
         },
       ],
@@ -219,16 +219,16 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/trail/kove/a-2",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Revisión cada 6.000 kilómetros o cada 12 meses, lo primero que suceda",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Filtro de aceite + aceite + inspección general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 130,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "filtro de aceite + filtro de aire + bujías (según km) + Aceite de motor",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
           costeAproxEur: 230,
         },
       ],
@@ -295,16 +295,16 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/trail/kove/a-2",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km / 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite + filtro de aceite + aprietes e inspección general",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 140,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Filtro de aire + bujías + reglaje de válvulas (según km) + aceite + filtro de aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
           costeAproxEur: 260,
         },
       ],
@@ -371,16 +371,16 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://fgmotor.com/producto/kove-nk-125-r-nueva",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Kilómetros: 4.000 | Plazo: 12 meses | Criterio: lo primero que venza",
+      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Inspección general, aprietes, aceite y filtro de aceite",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 90,
         },
         {
           nombre: "Revisión 4.000 km / anual",
-          queSeCambia: "Filtro de aire + bujía + aceite + filtro de aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
           costeAproxEur: 150,
         },
       ],
@@ -447,7 +447,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://vogespain.es/modelos/ds800-rally/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "El primer paso por taller es a los 1.000 km; después, cada 6.000 km",
+      intervalo: "6.000 km (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -456,7 +456,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión cada 6.000 km",
-          queSeCambia: "Filtro de aire + bujías (según km) + aceite + filtro de aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
           costeAproxEur: 240,
         },
       ],
@@ -523,7 +523,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/voge/rr660s",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Manda lo primero que llegue: 6.000 km o 12 meses",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -532,7 +532,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Bujías (según km) + filtro de aire + aceite + filtro de aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
           costeAproxEur: 260,
         },
       ],
@@ -599,16 +599,16 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/cfmoto-1000mt-x-2026-prueba-opiniones/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Kilómetros: 6.000 | Plazo: 12 meses | Criterio: lo primero que se cumpla",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Inspección general y aprietes + aceite 10W-40 + filtro de aceite",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 130,
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + bujías (según km) + filtro de aire",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
           costeAproxEur: 240,
         },
       ],
@@ -675,16 +675,16 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.canariasenmoto.com/noticias/todos-los-detalles-de-la-nueva-aventurera-cfmoto-250-dual-33782.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 5.000 km o 12 meses; el primero de los dos topes decide",
+      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Cambio de aceite y filtro + inspección general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: 110,
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Aceite y su filtro, más filtro de aire y bujía",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
           costeAproxEur: 180,
         },
       ],
@@ -751,7 +751,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/qjmotor/srt-900s-sx",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Mantenimiento cada 6.000 kilómetros o cada año, lo primero que ocurra",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -760,7 +760,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite con su filtro + bujías + filtro de aire (según km)",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
           costeAproxEur: 250,
         },
       ],
@@ -827,7 +827,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://moto.motorionline.com/es/qjmotor-srk-550-rs-poca-spesa-tanta-resa-prova-su-strada/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12 meses o 6.000 km, lo que ocurra antes",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -836,7 +836,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Bujías (según km) + aceite + filtro de aceite + filtro de aire",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
           costeAproxEur: 230,
         },
       ],
@@ -903,7 +903,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://moto.motorionline.com/es/qj-motor-srk-900-2025-lammiraglia-naked-cresce-di-cilindrata-foto/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Revisiones cada 6.000 km o cada año, lo primero que ocurra",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -912,7 +912,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Filtro de aire + aceite + filtro de aceite + bujías (según km)",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
           costeAproxEur: 250,
         },
       ],
@@ -979,7 +979,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://moto.motorionline.com/es/qj-motor-lanza-nueve-modelos-0-km-desde-cero-hasta-el-infinito-a-la-venta-en-concesionarios-foto/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Un año o 4.000 km, lo que llegue antes",
+      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1055,7 +1055,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/mbp/morbidelli-t1002vx",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 6.000 kilómetros o un año; rige lo primero que venza",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1064,7 +1064,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + bujías (según km) + filtro de aire + filtro de aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
           costeAproxEur: 260,
         },
       ],
@@ -1131,7 +1131,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://soymotero.net/motos/benelli/trk-902-xplorer-2026/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12 meses o 6.000 kilómetros, lo que venza antes",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1140,7 +1140,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Filtro de aceite + bujías (según km) + aceite + filtro de aire",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
           costeAproxEur: 260,
         },
       ],
@@ -1210,7 +1210,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/cyclone-ra600-2026-prueba-opiniones/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses, según el límite que se alcance antes",
+      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1219,7 +1219,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Bujías (según km) + filtro de aceite + aceite + filtro de aire",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
           costeAproxEur: 220,
         },
       ],
@@ -1286,7 +1286,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://soymotero.net/noticia/cyclone-rc-600-2025-presentacion-oficial/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Intervalo de 5.000 km o 12 meses, con el primer vencimiento que llegue",
+      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1295,7 +1295,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Aceite + filtro de aire + bujías (según km) + filtro de aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
           costeAproxEur: 220,
         },
       ],
@@ -1363,7 +1363,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://mpracing.es/10705-cyclone",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Intervalo de 4.000 km o 12 meses, hasta el primer vencimiento",
+      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1440,7 +1440,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://mpracing.es/10705-cyclone",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12 meses o 4.000 km, lo que ocurra antes",
+      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1518,7 +1518,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.vitomotorsport.com/blog/cyclone-rx6-trail-650-precio-opinion/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Se revisa cada 6.000 km o cada año, según lo que llegue antes",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1527,7 +1527,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Filtro de aire + filtro de aceite + aceite + bujías (según km)",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
           costeAproxEur: 240,
         },
       ],
@@ -1594,7 +1594,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://motodinamia.com/cyclone-re5-precio/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km, lo que ocurra antes",
+      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1603,7 +1603,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Bujías (según km) + filtro de aceite + filtro de aire + aceite",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
           costeAproxEur: 220,
         },
       ],
