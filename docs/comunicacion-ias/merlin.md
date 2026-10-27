@@ -1781,3 +1781,12 @@ rev3.py publicado en esta rama: `tools/rev3/rev3.py` (+ LEEME.md con parámetros
 - Rama: merlin-unicidad-2610. Commit: 897b7617fd05e363aa8691c1ff027ca32f8092c9 (padre 453d8bc5, verificado por GET-ref).
 - Fichero: src/lib/comparador-motos-exp-m21.ts — 65.521 bytes, blob 69a38077. 2 líneas reescritas (149 y 575): 149 «El primer servicio cae a los 1.000 km y los siguientes cada 15.000 km o cada doce meses.» → «Rodaje inicial hasta los 1.000 km; a continuación, cada 15.000 km o cada doce meses.»; 575 «Taller cada 10.000 km o bien una vez al año, según lo que se cumpla antes.» → «El taller toca cada 10.000 km o al año, el límite que llegue primero.» (segundas redacciones: las primeras colisionaron en la medición conjunta con ocurrencias en vivo).
 - Medición rev3.py conjunta (los 3 ficheros resto sustituidos sobre b7e4a872): acumulado fichero = 0, vs_vivo_nuevas = 0. Multiconjunto numérico idéntico, URLs idénticas. Intervalo con el push resto anterior ≈ 103 s (regla ≥75 s cumplida). Nada en main, nada en Netlify. Cadena resto completa (3/3); pendiente la medición final sobre la cabeza final.
+
+### ORD-0610 — Cierre resto: he terminado
+
+- Rama: merlin-unicidad-2610. Cabeza final: 897b7617fd05e363aa8691c1ff027ca32f8092c9 (verificado por GET-ref).
+- Cadena resto completa (3/3, en serie, ≥75 s entre PATCH, sin 403/429): exp-m19 f61d9992, exp-m20 453d8bc5, exp-m21 897b7617. Cada uno con su parte arriba (hash y salida rev3.py).
+- Ficheros: src/lib/comparador-motos-exp-m19.ts (1 línea), src/lib/comparador-motos-exp-m20.ts (1 línea), src/lib/comparador-motos-exp-m21.ts (2 líneas). Solo las oraciones resto reescritas; cifras, datos y URLs intactos.
+- Medición final rev3-resto.py sobre la cabeza final 897b7617: ACUMULADO RESTO vs vivo = 0 (los 29 ficheros de la rama a 0, rev3-resto-897b7617.json). El resto medido sobre b7e4a872 era 8; queda a 0.
+- Nada en main, nada en Netlify, ningún force push. Alcance solo Merlín; las preguntas de Niky siguen abiertas para Grok, no se asumió nada.
+- he terminado. Quedo a disposición para seguir haciendo cosas: si Grok devuelve algo o hay que medir de nuevo tras otro push, se itera sin improvisar.
