@@ -63,7 +63,7 @@ export default function CookiesPage() {
                   {[
                     { name: "_ga, _gid", provider: "Google Analytics", type: "Analítica", purpose: "Estadísticas de uso anónimas", duration: "2 años / 24h" },
                     { name: "_gcl_au", provider: "Google Ads / Google Tag (vinculador de conversiones)", type: "Publicitaria", purpose: "Medir conversiones de anuncios", duration: "90 días" },
-                    { name: "IDE", provider: "Google DoubleClick", type: "Publicitaria", purpose: "Anuncios personalizados", duration: "1 año" },
+                    { name: "IDE", provider: "Google DoubleClick / AdSense", type: "Publicitaria", purpose: "Anuncios personalizados", duration: "1 año" },
                     { name: "__stripe_*", provider: "Stripe", type: "Técnica/pago", purpose: "Gestión segura de pagos", duration: "Sesión" },
                   ].map((c) => (
                     <tr key={c.name} className="even:bg-gray-50">
