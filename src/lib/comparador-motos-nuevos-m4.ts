@@ -111,7 +111,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["autonomiaKm", "velocidadMax"],
     pros: [
-      "Nueva generación 2025 con genética de rally: llantas de radios de 21\"/18\" y suspensiones WP de 230 mm",
+      "Nueva generación 2025 con genética de rally: llantas con radios de 21\"/18\" y suspensiones WP de 230 mm",
       "Monocilíndrico de 399 cc y 45 CV: el más potente y rabioso del segmento trail A2",
       "Electrónica de moto grande: ABS en curva, control de tracción desconectable y modos de conducción",
       "Pantalla TFT de 5\" con conectividad Bluetooth de serie",
@@ -367,7 +367,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     contras: [
       "40 CV justos para autopista con pasajero y equipaje",
       "Suspensiones básicas sin regulación: flojas en uso campero exigente",
-      "Sin electrónica: ni modos de conducción, ni control de tracción, ni pantalla TFT",
+      "Sin electrónica alguna: ni pantalla TFT, ni modos de conducción, y tampoco control de tracción; nada de ayudas",
       "El bicilíndrico pequeño pide ir alto de vueltas para rendir",
       "Protección aerodinámica escasa para viajes largos",
       "Estética algo anticuada frente a las trails A2 de nueva generación",
@@ -400,7 +400,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "kawasaki-versys-x-300-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "cada 6.000 km o cada año, lo que llegue primero",
+      intervalo: "cada 6.000 km o transcurrido un año, atendiendo al primero de ambos hitos",
       revisiones: [
         {
           nombre: "Revisión anual / 6.000 km",
@@ -440,7 +440,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     aprox: ["autonomiaKm", "pesoKg"],
     pros: [
       "Monocilíndrico de 249 cc con tecnología SEP: unos 26 CV con consumos cercanos a 3 l/100 km",
-      "167 kg en orden de marcha: una de las más ligeras del segmento trail A2",
+      "167 kg en orden de marcha: de las más ligeras entre las trail A2",
       "Estética V-Strom con el clásico pico de pato: imagen de trail grande en formato pequeño",
       "Motor derivado de la Gixxer 250: mecánica sencilla, probada y barata de mantener",
       "12 litros de depósito y bajo consumo: unos 400 km de autonomía teórica",
@@ -450,7 +450,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "Sin precio oficial en España: su comercialización europea es limitada y hay que consultar al importador",
       "26 CV justos para carretera abierta: es una moto de ritmo tranquilo",
       "Llantas de 19\"/17\" con neumáticos de dibujo suave: trail de asfalto más que de tierra",
-      "Sin electrónica avanzada: sin control de tracción y sin modos de conducción",
+      "Ayudas electrónicas avanzadas ausentes: no lleva control de tracción ni modos de conducción",
       "Suspensiones sencillas sin regulación",
       "El monocilíndrico refrigerado por aire y aceite vibra a altas revoluciones",
     ],
@@ -570,7 +570,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "honda-nx500-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "cada 12.000 km o al cumplirse el año, lo que suceda primero",
+      intervalo: "cada 12.000 km o al completarse un año, según el primero de los dos hitos",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
@@ -696,7 +696,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     pros: [
       "3.792 €: la trail A2 más económica del mercado español, imbatible en precio",
       "147 kg: ligereza de moto de campo, ideal para iniciarse en el off-road",
-      "Monocilíndrico de 292 cc y 28,5 CV: suficiente para pistas y carreteras secundarias",
+      "292 cc y 28,5 CV en un monocilíndrico: suficiente para pistas y carreteras secundarias",
       "Estética rally con frontal alto y protecciones: imagen muy conseguida",
       "Mecánica sencilla derivada de Loncin: mantenimiento barato y accesible",
       "Perfecta como segunda moto o para el carnet A2 con presupuesto ajustado",
@@ -784,7 +784,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "Bicilíndrico de 471 cc y 47 CV: el tope legal del A2 con entrega suave y progresiva",
       "191 kg en orden de marcha: ligera y ágil para una deportiva carenada",
       "Consumo contenido (~3,6 l/100 km) con 17,7 litros: unos 490 km de autonomía",
-      "Horquilla invertida Showa SFF-BP de 41 mm con doble disco delantero",
+      "Delante, doble disco y horquilla invertida Showa SFF-BP de 41 mm",
       "Posición de conducción menos radical que una supersport: usable a diario",
     ],
     contras: [
@@ -835,7 +835,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
         },
         {
           nombre: "Revisión mayor / 24.000 km",
-          queSeCambia: "Aceite y filtros nuevos, bujías nuevas y filtro de aire con reglaje de válvulas",
+          queSeCambia: "Aceite y filtros renovados, bujías sustituidas y reglaje de válvulas con filtro de aire nuevo",
           costeAproxEur: null,
         },
       ],
@@ -954,7 +954,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "Chasis multitubular con suspensiones WP Apex: parte ciclo de moto grande",
       "147 kg en seco: ligera y muy ágil entre el tráfico",
       "Monocilíndrico de 124,7 cc con 15 CV: el tope legal del A1",
-      "Consumo mínimo (~2,5 l/100 km) con 13,7 litros: supera los 500 km de autonomía",
+      "Con 13,7 litros y un consumo mínimo (~2,5 l/100 km): autonomía por encima de 500 km",
       "Con 3 años de carnet B ya se puede conducir",
     ],
     contras: [
@@ -1085,7 +1085,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Revisión anual / 7.500 km",
-          queSeCambia: "Cambio de aceite y filtro + inspección general y electrónica",
+          queSeCambia: "Aceite y filtro sustituidos, más revisión general y de la electrónica",
           costeAproxEur: null,
         },
         {
@@ -1132,7 +1132,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "Postura de carreras: incómoda para ciudad y viajes",
       "El motor de 4T no tiene el carácter de las antiguas RS 2T",
       "Recambios Aprilia más caros y menos disponibles que los japoneses",
-      "Electrónica básica: sin modos de conducción y sin control de tracción",
+      "Dotación electrónica básica: ni modos de conducción ni control de tracción",
       "El mantenimiento en servicio oficial Piaggio Group es caro para una 125",
     ],
     curiosidades: [
@@ -1166,7 +1166,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "aprilia-rs-125-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "cada 10.000 km o cada año, lo primero que llegue",
+      intervalo: "cada 10.000 km o al cabo de un año, según el hito que se alcance antes",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -1382,7 +1382,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "Motor de 124 cc y 15 CV: el tope del A1 con fiabilidad Suzuki",
       "Consumo mínimo (~2,1 l/100 km) con 11 litros: más de 500 km de autonomía",
       "Arranque sin llave y cuadro LCD completo de serie",
-      "Basta el carnet B con 3 años de antigüedad para conducirla",
+      "El carnet B con 3 años de antigüedad habilita para conducirla",
     ],
     contras: [
       "Estética menos agresiva que la Yamaha R125 o la KTM RC 125",
@@ -1423,7 +1423,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "suzuki-gsx-r125-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "cada 6.000 km o 12 meses, lo primero que se cumpla",
+      intervalo: "cada 6.000 km o a los 12 meses, tomando el vencimiento que llegue en primer lugar",
       revisiones: [
         {
           nombre: "Revisión anual / 6.000 km",
@@ -1467,7 +1467,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "Limitable para el carnet A2 con kit reversible de la red oficial",
       "2026 con IMU: ABS con control de tracción en curva, faro LED con DRL y USB-C",
       "Modos de conducción Rain y Road de serie",
-      "4 años de garantía sin límite de kilómetros, de las mejores del sector",
+      "Garantía de 4 años sin límite de kilómetros: de las mejores del sector",
       "Más de 100 accesorios originales para personalizarla",
     ],
     contras: [
@@ -1773,7 +1773,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
         },
         {
           nombre: "Revisión mayor / 24.000 km",
-          queSeCambia: "Sustitución de aceite, filtros y bujías nuevas, filtro de aire y reglaje de válvulas",
+          queSeCambia: "Aceite, filtros y bujías sustituidos, con filtro de aire nuevo y reglaje de válvulas",
           costeAproxEur: null,
         },
       ],
@@ -1889,7 +1889,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     aprox: ["autonomiaKm", "pesoKg"],
     pros: [
       "5.490 €: la scrambler italiana A2 con mejor relación precio/equipamiento",
-      "Bicilíndrico de 500 cc y 48 CV: el tope del A2 con muy buenos bajos",
+      "Con muy buenos bajos, el tope del A2: bicilíndrico de 500 cc y 48 CV",
       "Estética neo-retro muy conseguida, con el león de Benelli en el guardabarros",
       "Chasis multitubular y suspensiones regulables",
       "Existe versión Trail con llantas de radios y protecciones",
@@ -2020,7 +2020,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "macbor-eight-mile-500-scr-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o cada 12 meses, según lo que se cumpla",
+      intervalo: "6.000 km o cada 12 meses, atendiendo al vencimiento que se produzca en primer término",
       revisiones: [
         {
           nombre: "Revisión anual / 6.000 km",
