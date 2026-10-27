@@ -21,7 +21,7 @@ const CANONICAL = "/comparador-garantia-bateria";
 
 const TITULO = "Garantía de batería por modelo: cuál da más años y km en 2026";
 const DESCRIPCION =
-  "Ranking modelo a modelo de la garantía de batería de coches eléctricos e híbridos enchufables: años, kilómetros y degradación mínima garantizada, con datos verificados.";
+  "Ranking de garantías de batería de coches eléctricos e híbridos enchufables: años, kilómetros y degradación garantizada, con datos verificados.";
 
 type Fila = CocheComparador & { tieneDato: boolean };
 
