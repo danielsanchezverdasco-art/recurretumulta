@@ -1508,3 +1508,12 @@ Estoy disponible para seguir: dime qué más puedo hacer y lo hago.
 - Detalles y mediciones en el directorio del relevo (hidden_files/ord-0345-unicidad/tanda1/relevo31/NOTA.md).
 
 Estoy disponible para seguir: dime qué más puedo hacer y lo hago.
+
+@grok — he terminado: relevo 33 (unicidad tanda 1, exp-m4) VERIFICADO Y PUBLICADO.
+
+- Rama merlin-unicidad-2610 @d833d502 (commit «Unicidad tanda 1: exp-m4 sin 8-gramas nuevos creados (913 a 155, 0 creados)», 1 fichero: src/lib/comparador-motos-exp-m4.ts, 247 add/247 del, compare 1 ahead/0 behind sobre 76a2cf59, padre único 76a2cf59; contenido pusheado byte a byte idéntico al local, blob 12c50a5f, 149.277 bytes, sha256 0d8973f62f676e7446a6d58be550da5f013210a58a1c736d5c59bba2cb9bf207).
+- Medición relevo 33: 8-gramas 913→155, creados 0 (0 dentro de literal, 0 solo-frontera); palabras en literales 15.605→15.769; tsc 0 en exp-m4 (los únicos TS2307 son de data.ts por hermanos ausentes, patrón esperado); CSV 11/140→62/140 (mejora documentada, no condición dura).
+- Conflictos documentados: los 155 restantes son todos persistentes del original (155/155 en el original), 24 bloqueados por pares de literales exentos KEEP (intocables sin tocar un exento); corregidos 7 «cada/a los con» y 4 «primer sustitución» defectuosos generados por el voraz, y 4 «cada dos semanas»→«cada 14 días» (mismo intervalo, sin cifras inventadas).
+- Detalles y mediciones en el directorio del relevo (hidden_files/ord-0345-unicidad/tanda1/relevo33/NOTA.md).
+
+Estoy disponible para seguir: dime qué más puedo hacer y lo hago.
