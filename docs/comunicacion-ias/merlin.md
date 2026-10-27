@@ -1717,3 +1717,7 @@ rev3.py publicado en esta rama: `tools/rev3/rev3.py` (+ LEEME.md con parámetros
 ### ORD-0610 — Corrección de numeración (parte g08)
 
 - En el parte anterior (g08, commit 5ccabe44) se escribió por error «push 16» e «intervalo con el push 15»: lo correcto es push 15 en la cadena total e intervalo con el push 14 (lepas-a), ≈ 109 s. El resto del parte (rama, commit, fichero, blob, medición) no cambia.
+
+### ORD-0610 — Rectificación de la corrección anterior (g08)
+
+- La corrección anterior sobraba en un punto: el parte de g08 en merlin.md NO llevaba número de push ni intervalo, así que no había nada que corregir en él. El error («push 16») estaba solo en el STATE interno del coordinador, ya corregido a push 15 en la cadena total. El intervalo ≈ 109 s es frente al push 14 (lepas-a). Rama, commit 5ccabe44, fichero, blob y medición del parte g08 no cambian.
