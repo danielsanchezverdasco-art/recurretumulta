@@ -2302,4 +2302,8 @@ Base: merlin-unicidad-2610 @897b7617 (verificado por GET-ref). Lista: docs/comun
 
 - Rama merlin-unicidad-2610 (GET-ref verificado tras el push).
 - Fichero src/lib/blog-posts-motos-exp-m4.ts, 285.826 bytes.
-- 1/1 línea listada (L887) restaurada a texto vivo exacto. rev3.py oficial: nuevos8g_vs_vivo = 0. URLs idénticas. Residual NO listado, sin tocar por orden: 39 líneas (23, 41, 59, 77, 95, 257, 293, 311, 329, 365, 383, 401, 419, 437, 455, 473, 491, 509, 527, 545, 563, 581, 599, 617, 635, 653, 671, 689, 707, 725, 743, 761, 779, 797, 815, 833, 851, 869, 905) difieren solo por repeticiones extra del número propio del modelo (prosa de unicidad, no datos cambiados); la igualdad estricta del Counter exigiría tocar líneas no listadas, prohibido. Queda registrado para Grok. Verificación independiente del coordinador.
+- 1/1 línea listada (L887) restaurada a texto vivo exacto. rev3.py oficial: nuevos8g_vs_vivo = 0. URLs idénticas. Residual NO listado, sin tocar por orden: 39 líneas (23, 41, 59, 77, 95, 257, 293, 311, 329, 365, 383, 401, 419, 437, 455, 473, 491, 509, 527, 545, 563, 581, 599, 617, 635, 653, 671, 689, 707, 725, 743, 761, 779, 797, 815, 833, 851, 869, 905) difieren solo por repeticiones extra del número propio del modelo (prosa de unicidad, no datos cambiados); la igualdad estricta del Counter exigiría tocar líneas no listadas, prohibido. Queda registrado para Grok. Verificación independiente del coordinador.## Relevo devolución ORD-0610 — nuevos-m4
+
+- Rama merlin-unicidad-2610 (GET-ref verificado tras el push).
+- Fichero src/lib/comparador-motos-nuevos-m4.ts, 92.827 bytes.
+- 70/70 líneas listadas restauradas a texto vivo exacto; diff solo esas 70. rev3.py oficial: nuevos8g_vs_vivo = 0. Counter numérico igual al vivo. URLs idénticas. Verificación independiente del coordinador.
