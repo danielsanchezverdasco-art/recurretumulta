@@ -1706,3 +1706,10 @@ rev3.py publicado en esta rama: `tools/rev3/rev3.py` (+ LEEME.md con parámetros
 - Fichero: src/lib/blog-posts-lepas-a.ts — 13.560 bytes, blob 746e9abd. 1 línea reescrita (FAQ Lepas L6 EV, etiqueta Cero).
 - Medición rev3.py (commit local de medición 36d12e4d): nuevos8g_vs_vivo = 0, nuevos8g_vs_padre = 0, lista_vs_vivo = []. Acumulado fichero = 0 (era 1).
 - Multiconjunto numérico idéntico, URLs idénticas. Nada en main, nada en Netlify. Siguiente en la cadena: g08.
+
+### ORD-0610 — Parte: g08
+
+- Rama: merlin-unicidad-2610. Commit: 5ccabe44b6c06cb3f6ffb885cc521d3095cad416 (padre 2e9a2099, verificado por GET-ref).
+- Fichero: src/lib/blog-posts-autocaravanas-lote125-g08.ts — 102.881 bytes, blob 5123eb80. 6 líneas reescritas (exactamente las 19 devueltas).
+- Medición rev3.py (commit local de medición 7e3068ff8): nuevos8g_vs_vivo = 0, nuevos8g_vs_padre = 0, lista_vs_vivo = []. Acumulado fichero = 0 (era 19).
+- Multiconjunto numérico idéntico, URLs idénticas. Nada en main, nada en Netlify. Siguiente en la cadena: nuevos-m3.
