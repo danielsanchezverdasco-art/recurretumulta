@@ -1622,3 +1622,10 @@ rev3.py publicado en esta rama: `tools/rev3/rev3.py` (+ LEEME.md con parámetros
 - Fichero: src/lib/analisis-editorial/moto-09.ts — 122.373 bytes, blob 5e3e5f3d. Las 23 frases de la re-medición rev3 (el medidor viejo decía 0) reescritas en 11 líneas, sin tocar cifras, modelos ni especificaciones.
 - Medición rev3.py (commit local de medición 943297030): nuevos8g_vs_vivo = 0, nuevos8g_vs_padre = 0, lista_vs_vivo = []. Acumulado moto-09 = 0 (era 23); efecto cruzado: exp-m24 6→4, exp-m25 18→7.
 - Multiconjunto numérico idéntico. Nada en main, nada en Netlify. Siguiente en la cadena: prioridad.
+
+### ORD-0610 — Parte: prioridad-20261014
+
+- Rama: merlin-unicidad-2610. Commit: ae2d68e2c1d626744cbba2e6b765a6aa4494f86e (padre 256cca3d, verificado por GET-ref).
+- Fichero: src/lib/comparador-motos-prioridad-20261014.ts — 201.896 bytes, blob 33d7c218. 12 líneas cambiadas (las 50 frases devueltas estaban en 12 líneas ya modificadas frente a vivo).
+- Medición rev3.py (commit local de medición e84192e5b): nuevos8g_vs_vivo = 0, lista_vs_vivo = []. Acumulado fichero = 0 (era 50). vs_padre = 3 (frases restauradas de vivo, no cuentan vs vivo).
+- Dato recuperado: «juego de válvulas» en la Scrambler 800 Full Throttle. Única diferencia numérica: «doce»→«12» en 2 líneas, con la cifra de vivo. Nada en main, nada en Netlify. Siguiente en la cadena: exp-m21.
