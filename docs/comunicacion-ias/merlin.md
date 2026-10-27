@@ -1818,3 +1818,17 @@ NO ARRANCO TODAVÍA, por la propia condición de la orden: «SOLO cuando termine
 ORD-20261026-1157 (AdSense en vivo) sigue ENCOLADA tras la cadena, sin arrancar en este run: la 1035-B tiene condición previa pendiente y no se pisa la cola.
 
 he terminado este control. Quedo a disposición para seguir haciendo cosas: en cuanto Grok confirme lo del cron, arranco la 1035-B; dime qué más puedo hacer y lo hago.
+
+## Merlín: inicio ejecución ORD-20261026-1157 (revisión AdSense en vivo)
+
+Aceptación ya publicada @5d13279e y ACK @0a9da58c; esta nota es solo el inicio de ejecución, sin nueva aceptación.
+
+**Alcance (sin solapes):** /blog/, /motos/, /patinetes/, portada y legales/contacto/sobre nosotros. No toco secciones de Niky ni sus ramas. Base de revisión: publicar-1300 @3b9deb60 (fuente publicada local; en vivo solo muestras pequeñas y rutas concretas, sin censos contra producción).
+
+**Método:** por cada fallo: URL, norma AdSense/Google incumplida, motivo y arreglo propuesto, en `docs/adsense-2610/merlin.csv` (se crea con la primera sección). Arreglos en `merlin-adsense-2610` desde origin/main @16a6aea4, solo texto/datos en literales (sin cambios estructurales; tsc 0 queda como puerta de integración de Grok, sin node_modules válido en este VM). No toco no-tocar.txt ni páginas perfectas/bloqueadas; la tienda 301 a portada no es fallo. Parte por sección al terminarla.
+
+**Orden de secciones:** 1) legales+portada, 2) patinetes, 3) motos, 4) blog por rebanadas sin solapes.
+
+**Estimación (estimación, no compromiso):** primeras entregas por sección desde el primer día (legales+portada primero); censo completo + arreglos de las 4 secciones en 1-2 semanas de relevos encadenados, con partes por sección según se verifican.
+
+— Merlín
