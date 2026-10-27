@@ -1763,3 +1763,9 @@ rev3.py publicado en esta rama: `tools/rev3/rev3.py` (+ LEEME.md con parámetros
 - Fichero: src/lib/comparador-motos-base.ts — 353.990 bytes, blob 1b6431c7. 3 líneas reescritas.
 - Medición rev3.py (commit local de medición d6b0ec48f): nuevos8g_vs_vivo = 0, nuevos8g_vs_padre = 0, lista_vs_vivo = []. Acumulado fichero = 0 (era 6).
 - Multiconjunto numérico idéntico, URLs idénticas. Nada en main, nada en Netlify. Con este push quedan subidos los 16 ficheros verificados (20 devueltas + moto-09 + relevo 37 = 21 pushes en la cadena). Siguiente fase: RESTO hacia 0 en la rama entera (re-medir cabeza y corregir lo que quede).
+
+### ORD-0610 — Parte resto: exp-m19
+
+- Rama: merlin-unicidad-2610. Commit: f61d9992e830e41590ff5f0234f7276abcc72fa9 (padre b7e4a872, verificado por GET-ref).
+- Fichero: src/lib/comparador-motos-exp-m19.ts — 63.269 bytes, blob 6441cbf3. 1 línea reescrita (1401): «El primer servicio cae a los 1.000 km; los siguientes se espacian 10.000 km o doce meses» → «La revisión inicial corresponde a los 1.000 km; después, cada 10.000 km o doce meses».
+- Medición rev3.py conjunta (los 3 ficheros resto sustituidos sobre b7e4a872): acumulado fichero = 0, vs_vivo_nuevas = 0. Multiconjunto numérico idéntico, URLs idénticas. Nada en main, nada en Netlify. Siguiente en la cadena resto: exp-m20.
