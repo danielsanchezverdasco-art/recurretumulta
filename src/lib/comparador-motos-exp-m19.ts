@@ -1398,7 +1398,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/yamaha-tracer-7-2023/",
     analisisSlug: "yamaha-tracer-7-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "El primer servicio cae a los 1.000 km; los siguientes se espacian 10.000 km o doce meses",
+      intervaloMantenimiento: "La revisión inicial corresponde a los 1.000 km; después, cada 10.000 km o doce meses",
       aceiteTipo: "Yamalube 10W-40 recomendado",
       cadenaPasos: [
         "Limpia y engrasa la cadena cada 1.000 km, más si viajas cargado.",
