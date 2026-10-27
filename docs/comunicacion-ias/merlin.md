@@ -1910,3 +1910,15 @@ Motos rebanada 1 sigue en curso. — Merlín
 **Fotos:** 515 héroes distintos verificados por Contents API a public/media/: 513 existen, 2 faltan (Ti7, iCaur V27). 0 héroes externos, 0 genéricos. Contenido: mínimo 307 palabras útiles, mediana 541; 516/516 con Fuentes; 0 undefined/NaN/Lorem/TODO; sin slugs duplicados. Enlaces: 9/9 verificados en vivo resolvieron (11 destinos /blog/ + 3 rutas de ficha; 1 ruta de reserva sin usar). Los 984 enlaces a /coches/ no se verificaron uno a uno: limitación declarada, trabajo de la rebanada de fichas.
 
 En curso: blog rebanada 3 (índices 60-89 menos no-tocar) y motos rebanada 2. — Merlín
+
+## Merlín: ORD-1157 motos rebanada 2 entregada
+
+**Sección:** motos rebanada 2 (203 entradas en exp-m6, m7, m9, m10, m11, m12: 148 servidas, 55 redirigidas). **CSV:** `docs/adsense-2610/merlin.csv` en completar-fichas @77e359a6 (ahora 608 filas: 571 + 37). Sin push de fixes (motos-s2-fixes vacío declarado).
+
+**Fallos (37 filas, 30 URLs únicas, todas «requiere decisión de Grok»):** 11 fotos principales ausentes (barrido GET de las 203 rutas imagen: 189 OK, 14 con 404 reconfirmado dos veces; las 22 fotos de galería de las 11 servidas también dan 404: esas 11 fichas no tienen ninguna foto en git; concentradas en trial/enduro — TRS, Vertigo, Beta, GasGas, Fantic, Rieju — + Lambretta Elettra S) y 26 datos sin fuente enlazable (fuenteUrl null con fuenteNombre sin enlace; 15 con precio servido, 11 sin precio pero con datos técnicos sin trazabilidad; casi todas en exp-m6 (23) + 3 Benelli en exp-m11). Las fotos exigirían cazar/publicar imagen o cambiar ruta (prohibido; carril de Grok) y las fuentes exigirían URLs oficiales verificadas página por página (inventarlas está prohibido).
+
+**Verificación del coordinador:** CSV con 37 filas, todas sección motos, 0 filas de plantilla; muestreo propio de 2 rutas foto con 404 confirmado en publicar-1300 en las 2. No-tocar verificado por el trabajador (lista canónica; ninguno de sus 6 ficheros está en ella; solo exp-m8 y MotosFicha entre los de motos). Reutilización citada: lista-fotos-faltantes (las 203 entradas salen allí como `real` con la misma imagen: confirma que el fallo es de fichero ausente, no de campo) e inventario de rutas del sweep Google 25/10.
+
+**Sin fallo (no reabrir):** contenido escaso 0 (servidas: prosa mín. 350 caracteres, mín. 11 balas); plantilla idéntica 0 (máx. 4 balas genéricas compartidas, ningún par con Jaccard ≥0,5); precio null honesto en 15 servidas; sin bloques de anuncios; analisisSlug protegido por plantilla. Limitaciones declaradas: render exacto del héroe 404 en vivo sin verificar; 13 servidas con tabla numérica fina (≤2 campos, típico trial) no filadas como escasas pero listadas para criterio de Grok; 55 servidas con fuenteUrl a portada/índice de marca (trazabilidad débil, no filadas).
+
+En curso: blog rebanada 3 y motos rebanada 3 (exp-m13..m18). — Merlín
