@@ -72,7 +72,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "honda-cb500x-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "cada 12.000 km o cada año, lo que se cumpla primero",
+      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
@@ -86,7 +86,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial Honda España (pautas de la familia CB500)",
+      fuente: "Manual oficial Honda España (intervalos de la familia CB500)",
     },
   },
   {
@@ -236,7 +236,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "bmw-f-750-gs-2024-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "cada 10.000 km o al año, lo que suceda primero",
+      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -245,7 +245,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
         },
         {
           nombre: "Revisión mayor / 20.000 km",
-          queSeCambia: "Aceite, filtros y bujías + filtro de aire y reglaje de válvulas",
+          queSeCambia: "Aceite + filtros + bujías + filtro de aire + reglaje de válvulas",
           costeAproxEur: null,
         },
       ],
@@ -318,7 +318,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "triumph-tiger-850-sport-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "cada 16.000 km o cada año, lo que suceda primero",
+      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión anual / 16.000 km",
@@ -327,7 +327,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
         },
         {
           nombre: "Revisión mayor / 32.000 km",
-          queSeCambia: "Aceite + filtros + bujías + filtro de aire + ajuste de válvulas",
+          queSeCambia: "Aceite + filtros + bujías + filtro de aire + reglaje de válvulas",
           costeAproxEur: null,
         },
       ],
@@ -400,11 +400,11 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "kawasaki-versys-x-300-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "cada 6.000 km o transcurrido un año, atendiendo al primero de ambos hitos",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión anual / 6.000 km",
-          queSeCambia: "Cambio de aceite y filtro + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + inspección general",
           costeAproxEur: null,
         },
         {
@@ -485,11 +485,11 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "suzuki-v-strom-250sx-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "cada 6.000 km o al año, lo primero que se cumpla",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión anual / 6.000 km",
-          queSeCambia: "Aceite nuevo y filtro de aceite + revisión general",
+          queSeCambia: "Aceite + filtro de aceite + inspección general",
           costeAproxEur: null,
         },
         {
@@ -570,16 +570,16 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "honda-nx500-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "cada 12.000 km o al completarse un año, según el primero de los dos hitos",
+      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
-          queSeCambia: "Aceite 10W-30 y filtro de aceite + inspección general (frenos, cadena, neumáticos)",
+          queSeCambia: "Aceite 10W-30 + filtro de aceite + inspección general (frenos, cadena, neumáticos)",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 24.000 km",
-          queSeCambia: "Cambio de aceite, filtros, bujías y filtro de aire + reglaje de válvulas",
+          queSeCambia: "Aceite + filtros + bujías + filtro de aire + reglaje de válvulas",
           costeAproxEur: null,
         },
       ],
@@ -655,16 +655,16 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "cfmoto-450mt-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "cada 5.000 km o cada año, lo que ocurra antes",
+      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión anual / 5.000 km",
-          queSeCambia: "Sustitución de aceite y filtro + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + inspección general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 10.000 km",
-          queSeCambia: "Aceite, filtros y bujías + filtro de aire",
+          queSeCambia: "Aceite + filtros + bujías + filtro de aire",
           costeAproxEur: null,
         },
       ],
@@ -740,16 +740,16 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "voge-300rally-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "cada 5.000 km o al año, lo antes que suceda",
+      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión anual / 5.000 km",
-          queSeCambia: "Aceite y filtro de aceite renovados + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + inspección general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 10.000 km",
-          queSeCambia: "Aceite, filtros y bujía + filtro de aire",
+          queSeCambia: "Aceite + filtros + bujía + filtro de aire",
           costeAproxEur: null,
         },
       ],
@@ -826,21 +826,21 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "honda-cbr500r-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12.000 km o un año entre revisiones, lo primero que se cumpla",
+      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
-          queSeCambia: "Cambio de aceite 10W-30 y filtro + inspección general (frenos, cadena, neumáticos)",
+          queSeCambia: "Aceite 10W-30 + filtro de aceite + inspección general (frenos, cadena, neumáticos)",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 24.000 km",
-          queSeCambia: "Aceite y filtros renovados, bujías sustituidas y reglaje de válvulas con filtro de aire nuevo",
+          queSeCambia: "Aceite + filtros + bujías + filtro de aire + reglaje de válvulas",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial Honda España (pautas para la familia CB500)",
+      fuente: "Manual oficial Honda España (intervalos de la familia 500)",
     },
   },
   {
@@ -911,21 +911,21 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "kawasaki-ninja-zx-4rr-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o un año entre servicios, lo que se cumpla antes",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión anual / 6.000 km",
-          queSeCambia: "Cambio de aceite con filtro nuevo + revisión general",
+          queSeCambia: "Aceite + filtro de aceite + inspección general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 12.000 km",
-          queSeCambia: "Cambio de aceite, filtros y bujías + filtro de aire",
+          queSeCambia: "Aceite + filtros + bujías + filtro de aire",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial Kawasaki (pautas de la gama Ninja)",
+      fuente: "Manual oficial Kawasaki (intervalos de la gama Ninja)",
     },
   },
   {
@@ -996,21 +996,21 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "ktm-rc-125-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "cada 7.500 km o cada año, lo antes que suceda",
+      intervalo: "7.500 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión anual / 7.500 km",
-          queSeCambia: "Aceite + filtro de aceite nuevos e inspección general",
+          queSeCambia: "Aceite + filtro de aceite + inspección general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 15.000 km",
-          queSeCambia: "Cambio de aceite, filtros y bujía + filtro de aire",
+          queSeCambia: "Aceite + filtros + bujía + filtro de aire",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial KTM (pautas de la gama 125)",
+      fuente: "Manual oficial KTM (intervalos de la gama 125)",
     },
   },
   {
@@ -1081,21 +1081,21 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "ktm-rc-390-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "cada 7.500 km o al año, lo que llegue primero",
+      intervalo: "7.500 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión anual / 7.500 km",
-          queSeCambia: "Aceite y filtro sustituidos, más revisión general y de la electrónica",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y electrónica",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 15.000 km",
-          queSeCambia: "Aceite, filtros, bujía y filtro de aire + reglaje de válvulas",
+          queSeCambia: "Aceite + filtros + bujía + filtro de aire + reglaje de válvulas",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial KTM (pautas para la gama 390)",
+      fuente: "Manual oficial KTM (intervalos de la gama 390)",
     },
   },
   {
@@ -1166,16 +1166,16 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "aprilia-rs-125-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "cada 10.000 km o al cabo de un año, según el hito que se alcance antes",
+      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
-          queSeCambia: "Renovación de aceite y filtro + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + inspección general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 20.000 km",
-          queSeCambia: "Aceite y filtros nuevos + bujía y filtro de aire",
+          queSeCambia: "Aceite + filtros + bujía + filtro de aire",
           costeAproxEur: null,
         },
       ],
@@ -1253,16 +1253,16 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "zontes-703r-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "5.000 km o un año entre servicios, según lo que se cumpla",
+      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión anual / 5.000 km",
-          queSeCambia: "Aceite y filtro sustituidos + inspección general",
+          queSeCambia: "Aceite + filtro de aceite + inspección general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 10.000 km",
-          queSeCambia: "Aceite y filtros nuevos + bujías y filtro de aire",
+          queSeCambia: "Aceite + filtros + bujías + filtro de aire",
           costeAproxEur: null,
         },
       ],
@@ -1338,16 +1338,16 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "yamaha-yzf-r125-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "10.000 km o cada año entre servicios, lo primero que se cumpla",
+      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
-          queSeCambia: "Cambio de aceite y de filtro + revisión general",
+          queSeCambia: "Aceite + filtro de aceite + inspección general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 20.000 km",
-          queSeCambia: "Aceite + filtros + bujía nueva + filtro de aire",
+          queSeCambia: "Aceite + filtros + bujía + filtro de aire",
           costeAproxEur: null,
         },
       ],
@@ -1423,21 +1423,21 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "suzuki-gsx-r125-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "cada 6.000 km o a los 12 meses, tomando el vencimiento que llegue en primer lugar",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión anual / 6.000 km",
-          queSeCambia: "Aceite nuevo + filtro de aceite nuevo e inspección general",
+          queSeCambia: "Aceite + filtro de aceite + inspección general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 12.000 km",
-          queSeCambia: "Sustitución de aceite, filtros y bujía, además del filtro de aire",
+          queSeCambia: "Aceite + filtros + bujía + filtro de aire",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial Suzuki (pautas de la gama 125)",
+      fuente: "Manual oficial Suzuki (intervalos de la gama 125)",
     },
   },
   // ── CUSTOM / SCRAMBLER ────────────────────────────────────────
@@ -1509,21 +1509,21 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "triumph-bonneville-t100-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "cada 16.000 km o al año, lo que ocurra primero",
+      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión anual / 16.000 km",
-          queSeCambia: "Sustitución del aceite y del filtro + revisión general",
+          queSeCambia: "Aceite + filtro de aceite + inspección general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 32.000 km",
-          queSeCambia: "Aceite + filtros + bujías nuevas + filtro de aire + reglaje de válvulas",
+          queSeCambia: "Aceite + filtros + bujías + filtro de aire + reglaje de válvulas",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial Triumph (pautas de la gama Bonneville)",
+      fuente: "Manual oficial Triumph (intervalos de la gama Bonneville)",
     },
   },
   {
@@ -1594,7 +1594,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "royal-enfield-classic-350-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses, primera inspección a los 500 km (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses, primera revisión a los 500 km (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión / 500 km",
@@ -1603,7 +1603,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
         },
         {
           nombre: "Revisión anual / 10.000 km",
-          queSeCambia: "Aceite + filtro de aceite + revisión general completa",
+          queSeCambia: "Aceite + filtro de aceite + inspección general",
           costeAproxEur: null,
         },
       ],
@@ -1679,21 +1679,21 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "royal-enfield-meteor-350-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "10.000 km, y también cada 12 meses, primera revisión a los 500 km (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses, primera revisión a los 500 km (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión / 500 km",
-          queSeCambia: "Cambio de aceite y filtro + apriete general",
+          queSeCambia: "Aceite + filtro de aceite + apriete general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión anual / 10.000 km",
-          queSeCambia: "Cambio de aceite y filtro + revisión general completa",
+          queSeCambia: "Aceite + filtro de aceite + inspección general",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial Royal Enfield (pautas de la gama 350 J)",
+      fuente: "Manual oficial Royal Enfield (intervalos de la gama 350 J)",
     },
   },
   {
@@ -1764,21 +1764,21 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "honda-cl500-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "servicio cada 12.000 km o cada 12 meses, lo primero que se cumpla",
+      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
-          queSeCambia: "Aceite 10W-30 + filtro de aceite nuevo e inspección general (frenos, cadena, neumáticos)",
+          queSeCambia: "Aceite 10W-30 + filtro de aceite + inspección general (frenos, cadena, neumáticos)",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 24.000 km",
-          queSeCambia: "Aceite, filtros y bujías sustituidos, con filtro de aire nuevo y reglaje de válvulas",
+          queSeCambia: "Aceite + filtros + bujías + filtro de aire + reglaje de válvulas",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial Honda España (pautas de mantenimiento de la familia 500)",
+      fuente: "Manual oficial Honda España (intervalos de la familia 500)",
     },
   },
   {
@@ -1853,7 +1853,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
-          queSeCambia: "Aceite y filtro nuevos + inspección general completa",
+          queSeCambia: "Aceite + filtro de aceite + inspección general",
           costeAproxEur: null,
         },
         {
@@ -1934,16 +1934,16 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "benelli-leoncino-500-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "cada 6.000 km o cada 12 meses, lo que se cumpla antes",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión anual / 6.000 km",
-          queSeCambia: "Renovación del aceite y del filtro + revisión general",
+          queSeCambia: "Aceite + filtro de aceite + inspección general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 12.000 km",
-          queSeCambia: "Aceite + filtros + bujías nuevas + filtro de aire",
+          queSeCambia: "Aceite + filtros + bujías + filtro de aire",
           costeAproxEur: null,
         },
       ],
@@ -2020,16 +2020,16 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "macbor-eight-mile-500-scr-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o cada 12 meses, atendiendo al vencimiento que se produzca en primer término",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión anual / 6.000 km",
-          queSeCambia: "Aceite + filtro de aceite + inspección general de la moto",
+          queSeCambia: "Aceite + filtro de aceite + inspección general",
           costeAproxEur: null,
         },
         {
           nombre: "Revisión mayor / 12.000 km",
-          queSeCambia: "Sustitución de aceite, filtros y bujías, además del filtro de aire",
+          queSeCambia: "Aceite + filtros + bujías + filtro de aire",
           costeAproxEur: null,
         },
       ],
@@ -2111,7 +2111,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
         },
         {
           nombre: "Revisión mayor",
-          queSeCambia: "Aceite, filtros, bujía y filtro de aire renovados",
+          queSeCambia: "Aceite + filtros + bujía + filtro de aire",
           costeAproxEur: null,
         },
       ],
