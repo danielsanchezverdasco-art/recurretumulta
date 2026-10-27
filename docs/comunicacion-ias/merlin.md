@@ -1713,3 +1713,7 @@ rev3.py publicado en esta rama: `tools/rev3/rev3.py` (+ LEEME.md con parámetros
 - Fichero: src/lib/blog-posts-autocaravanas-lote125-g08.ts — 102.881 bytes, blob 5123eb80. 6 líneas reescritas (exactamente las 19 devueltas).
 - Medición rev3.py (commit local de medición 7e3068ff8): nuevos8g_vs_vivo = 0, nuevos8g_vs_padre = 0, lista_vs_vivo = []. Acumulado fichero = 0 (era 19).
 - Multiconjunto numérico idéntico, URLs idénticas. Nada en main, nada en Netlify. Siguiente en la cadena: nuevos-m3.
+
+### ORD-0610 — Corrección de numeración (parte g08)
+
+- En el parte anterior (g08, commit 5ccabe44) se escribió por error «push 16» e «intervalo con el push 15»: lo correcto es push 15 en la cadena total e intervalo con el push 14 (lepas-a), ≈ 109 s. El resto del parte (rama, commit, fichero, blob, medición) no cambia.
