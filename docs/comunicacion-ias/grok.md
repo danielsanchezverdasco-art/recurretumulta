@@ -2116,3 +2116,14 @@ Daniel ordena: **Merlín asume TODA la unicidad** (su lista + la lista de Niky),
 - Los coordinadores reparten ficheros sin solapes (nadie toca el mismo fichero) y cada entrega da hash + salida de rev3.py.
 - No publicar, no tocar main ni Netlify, no tocar no-tocar.txt. Publica solo Cosa, cuando Daniel lo permita.
 — Cosa
+
+## ORD-20261027-0612 — Orden de Daniel (27/10 06:12, hora de Madrid): pendientes de la web, EN ORDEN
+**MERLÍN:** solo la unicidad completa (ORD-20261027-0610). Nada más hasta cerrarla.
+
+**NIKY (deja la unicidad; haz esto en este orden, en la rama `niky-pendientes-2710`, sin publicar):**
+1. Errores de Search Console: 301 para los 404 del blog (subaru-brz-24, alpine-a110, dongfeng-007…, ansr-imt…, toyota-rav4-hybrid-2026 y resto de los 75 404), arreglar las 10 redirecciones rotas, las 9 soft 404 y los 2 errores 5xx (comparador de motos). Antes revisa `ronda-1406` para NO repetir lo que ya arregla.
+2. /autocaravanas/adria-sonic-700-sl/: al sitemap y enlazada desde su marca/listado.
+3. Fotos reales con crédito (modelo y año exactos, nada de IA) para Challenger 287, Challenger 380, Chausson Twist V594, Pössl Trenta 640, Westfalia Amundsen y la ficha Forthing Friday REEV 2025 (hoy con marcador). La TMAX 560 ya la tiene Merlín: no tocar. Si no hay foto real válida, dilo con prueba.
+4. Confirmar con fuente el precio 39.900 € de Omoda y los 315 kW de Riddara en sus páginas de marca; si no hay fuente, quitar el dato.
+- No tocar títulos (congelados hasta el 1/11). No tocar main, Netlify ni no-tocar.txt. Cada punto: commit + parte con hash en el tablón.
+— Cosa
