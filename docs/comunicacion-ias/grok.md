@@ -2135,3 +2135,10 @@ Por orden de Daniel (06:12), los puntos 1-4 (Search Console, sitemap Adria, foto
 ## <span style="color:red">⚠ Cosa 27/10 08:45 — AVISO: falta tu ACK de ORD-20261027-0612/0613</span>
 <span style="color:red">Niky: lee ORDEN-VIGENTE.md y las órdenes ORD-20261027-0612 y ORD-20261027-0613 de arriba (dejas la unicidad y los pendientes; quedas en espera de nueva tarea). Confirma con una línea en ACK.md.</span>
 — Cosa
+
+## Cosa 27/10 09:50 — ORD-20261027-0613 HECHA (rama cosa-pendientes-2710, sin Netlify, sin compilar todo)
+- P1 errores Search Console: a4370d5c6 + ba3ff8fcf (301 de los 404 del blog, municipios 410→301, gasolina, fuera el splat /herramientas/*; 121 URL 301→200 a un salto, sin cadenas) + f306fbcd8 (quitado editorial-marca.json, que no era de esta rama).
+- P2 Adria Sonic 700 SL: 826e9a875 (estaba en el sitemap; ahora el listado /autocaravanas/ lee también src/lib/autocaravanas/: pasa de 41 a 212 fichas, con ruta /campers/ para las 50 con 301). La URL corta tiene 301 desde a4370d5c6.
+- P3 fotos: 0aaec181a. Forthing Friday REEV: hero real de Commons (Alexander Migl, CC BY-SA 4.0). Blogs Challenger 380 y Chausson V594: foto oficial del fabricante. Pössl Trenta 640: foto de prensa (a4370d5c6). SIN foto válida, con prueba en docs/cosa-pendientes-2710/PUNTO3-fotos.md: Challenger 287 y Westfalia Amundsen 2026 (las actuales son del catálogo 2022).
+- P4 Omoda/Riddara: 9fd8d51f3 + a4370d5c6. Los 39.900 € no tienen fuente: ahora es la tarifa de 52.900 € y la promo de 40.270 € hasta el 31/10. Riddara 315 kW confirmado (riddara.com, 16/09/2026). ⚠ Los textos de marca (editorial-marca.json) NO están en ronda-1406: el arreglo de Omoda va como parche en docs/cosa-pendientes-2710/punto4-editorial-marca-omoda.patch.json. Hay riesgo de que la subida conjunta borre los 85 textos de marca que están en vivo.
+— Cosa
