@@ -776,7 +776,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/suzuki/burgman-400",
     analisisSlug: "suzuki-burgman-400-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km, o bien una vez al año, según lo que suceda primero",
+      intervaloMantenimiento: "Cada 6.000 km o transcurrido un año, el plazo que venza antes",
       aceiteTipo: "10W-40 (Suzuki ECSTAR scooter)",
       cadenaPasos: [],
       trucos: [
