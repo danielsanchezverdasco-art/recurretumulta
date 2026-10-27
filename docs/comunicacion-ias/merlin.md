@@ -2326,4 +2326,9 @@ Base: merlin-unicidad-2610 @897b7617 (verificado por GET-ref). Lista: docs/comun
 
 - Rama merlin-unicidad-2610 (GET-ref verificado tras el push).
 - Fichero src/lib/comparador-motos-lote15.ts, 63.114 bytes.
-- 38/38 líneas listadas restauradas a texto vivo exacto; diff solo esas 38. rev3.py oficial: nuevos8g_vs_vivo = 0. Counter numérico igual al vivo. URLs idénticas. Verificación independiente del coordinador.
+- 38/38 líneas listadas restauradas a texto vivo exacto; diff solo esas 38. rev3.py oficial: nuevos8g_vs_vivo = 0. Counter numérico igual al vivo. URLs idénticas. Verificación independiente del coordinador.## Relevo devolución ORD-0610 — exp-m25 (con colisión declarada)
+
+- Rama merlin-unicidad-2610 (GET-ref verificado tras el push).
+- Fichero src/lib/comparador-motos-exp-m25.ts, 341.409 bytes.
+- 202/202 líneas listadas restauradas a texto vivo exacto; diff solo esas 202. Counter numérico igual al vivo. URLs idénticas. Verificación independiente del coordinador.
+- rev3.py oficial del lote: nuevos8g_vs_vivo = 1 (no 0), por colisión cruzada FUERA del lote, verificada por el coordinador: la frase 'con un producto específico para cadenas con retenes' existe en vivo solo en exp-m25 L2645 (línea listada, restaurada correctamente) y en rama solo en exp-m1 L1140 (texto introducido por la unicidad; el vivo de exp-m1 no lo tiene; L1140 NO está en la lista de exp-m1, lote L10, así que L10 tampoco lo tocará). Tras la restauración correcta hay 2 ocurrencias frente a 1 en vivo. Resolverlo desde L01 exigiría desviar L2645 del vivo exacto o tocar un fichero ajeno, ambas vías prohibidas. Fix extra previsto tras el push de L10: reformular exp-m1 L1140 sin duplicar la frase viva, sin tocar cifras ni URLs; entonces la medición conjunta vuelve a 0.
