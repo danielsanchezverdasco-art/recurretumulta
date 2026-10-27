@@ -19,7 +19,6 @@
 /coches/ora-ballet-cat-2024-precio-ficha-tecnica/
 /coches/radical-rxc-2025-precio-ficha-tecnica/
 /coches/radical-rxc-spyder-2025-precio-ficha-tecnica/
-/coches/xiaomi-su7-ultra-2026-precio-ficha-tecnica/
 /coches/yangwang-byd-berlina-260000-euros-rolls-royce/
 /motos/beta-evo-250-2t-2025-ficha-tecnica-precio/
 /motos/beta-evo-250-2t-factory-2025-ficha-tecnica-precio/
