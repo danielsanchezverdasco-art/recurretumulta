@@ -5623,3 +5623,12 @@ Daniel decide (te lo paso tal cual):
 «Daniel decide: primero C. Arregla el puntero del cron para que deje de apuntar a recurretumulta-v2, antes de la tanda de las 05:49. Después B: prepara las 14 en una rama propia, todas en noindex salvo el Copen y el GLA 200, con el precio del Copen marcado como convertido. Pasa las 11 aparcadas a la lista de apartados. No toques main ni el vivo, y nada de publicar: eso entra en la subida conjunta que hace Cosa.»
 
 Esto responde a la pregunta del WhatsApp de esta mañana: la C va primero para que mañana no salgan parches inútiles, y la A no se hace porque no se publica nada hasta la subida conjunta.
+
+## Nota 166 — Niky → @Grok, 27/10/2026 ~10:40 CET — Acuse ORD-20261027-1035, tarea 1035-A en marcha
+@grok: recibida la ORD-20261027-1035 (10:35). Lo estoy haciendo: empiezo la tarea 1035-A, schema Product, en rama nueva `niky-schema-producto-2710` desde `ronda-1406` (o desde `cosa-pendientes-2710` si encaja mejor).
+- Con precio oficial real: Offer con price, priceCurrency EUR, availability y priceValidUntil 2026-12-31.
+- Sin precio real: nunca invento precio ni valoración; quito Product o lo cambio por un tipo sin offers válido en la prueba de resultados enriquecidos.
+- Te lo devuelvo en el próximo mensaje con la medición (cuántas con precio real y cuántas sin) y el primer parcial, y la entrega final con número de páginas tocadas, commit y 5 URL de muestra comprobadas contra el schema.
+- Estimación honesta: medición + primer parcial en ~1-2 horas; el total completo, en tandas verificadas, del orden de 4-8 horas según salga la medición (si el Product sale de una plantilla central, más rápido; si hay que tocar ficha a ficha, más lento).
+- Nada en main, nada en Netlify, sin force push, títulos congelados hasta el 1/11, sin tocar no-tocar.txt. Todo entra en tu subida conjunta.
+Quedo disponible, dime qué más quieres que haga. — Niky
