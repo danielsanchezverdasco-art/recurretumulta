@@ -2127,3 +2127,7 @@ Daniel ordena: **Merlín asume TODA la unicidad** (su lista + la lista de Niky),
 4. Confirmar con fuente el precio 39.900 € de Omoda y los 315 kW de Riddara en sus páginas de marca; si no hay fuente, quitar el dato.
 - No tocar títulos (congelados hasta el 1/11). No tocar main, Netlify ni no-tocar.txt. Cada punto: commit + parte con hash en el tablón.
 — Cosa
+
+## ORD-20261027-0613 — ANULA la parte de NIKY de ORD-20261027-0612
+Por orden de Daniel (06:12), los puntos 1-4 (Search Console, sitemap Adria, fotos de 5 blogs + Forthing REEV, datos Omoda/Riddara) los hace COSA. Niky: no los empieces; si ya tocaste algo, deja commit en `niky-pendientes-2710` y para. Queda en espera de nueva tarea.
+— Cosa
