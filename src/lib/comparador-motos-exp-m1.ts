@@ -557,7 +557,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     analisisSlug: "honda-nx500-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-30 con JASO T 903 MA y API SG o superior",
+      aceiteTipo: "10W-30 (JASO T 903 MA, API SG o superior)",
       cadenaPasos: [
         "Limpia la cadena con un trapo limpio y seco y un limpiador para cadenas con retenes O-ring (o detergente neutro con un cepillo suave).",
         "Engrasa con lubricante tipo Pro Honda HP Chain Lube o equivalente, girando la rueda trasera para repartirlo.",
@@ -631,7 +631,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     analisisSlug: "honda-cb500-hornet-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-30, API SG o superior y JASO T 903 MA",
+      aceiteTipo: "10W-30 (JASO T 903 MA, API SG o superior)",
       cadenaPasos: [
         "Pasa un trapo seco por la cadena y usa un limpiador con retenes O-ring; también vale detergente neutro con un cepillo suave.",
         "Engrasa con lubricante tipo Pro Honda HP Chain Lube o equivalente, girando la rueda trasera para repartirlo.",
@@ -705,7 +705,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     analisisSlug: "honda-cl500-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-30 con especificación JASO T 903 MA, API SG o superior",
+      aceiteTipo: "10W-30 (JASO T 903 MA, API SG o superior)",
       cadenaPasos: [
         "Seca la cadena con un paño y usa un spray limpiador de cadenas con retenes O-ring; si no, detergente neutro con cepillo suave.",
         "Engrasa con lubricante tipo Pro Honda HP Chain Lube o equivalente, girando la rueda trasera para repartirlo.",
@@ -852,7 +852,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.honda.es/motorcycles.html",
     analisisSlug: "honda-crf300-rally-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "La primera a los 1.000 km; el resto, cada 12.800 km",
+      intervaloMantenimiento: "Primera a los 1.000 km y después cada 12.800 km",
       aceiteTipo: "10W-30 Honda GN4 (JASO MA, API SJ o superior)",
       cadenaPasos: [
         "Inspecciona y engrasa cada 1.000 km la cadena, sobre todo tras salidas por tierra o barro.",
@@ -995,7 +995,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.honda.es/motorcycles/range/scooter/pcx-125/overview.html",
     analisisSlug: "honda-pcx125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Revisiones cada 8.000 km o 12 meses, empezando a los 1.000 km.",
+      intervaloMantenimiento: "Cada 8.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-30 (JASO T 903 MB, API SG o superior)",
       trucos: [
         "La correa de transmisión se revisa en cada intervalo y se cambia según el manual.",
@@ -1064,7 +1064,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.honda.es/motorcycles.html",
     analisisSlug: "honda-vision-110-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "La pauta es cada 8.000 km o 12 meses, primera visita a los 1.000 km.",
+      intervaloMantenimiento: "Cada 8.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-30 (JASO T 903 MB, API SG o superior)",
       trucos: [
         "La correa de transmisión se controla en cada intervalo y se sustituye como indica el manual.",
@@ -1134,7 +1134,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.yamaha-motor.eu/es/es/motorcycles/",
     analisisSlug: "yamaha-mt-07-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "La pauta es cada 10.000 km o 12 meses, rodaje inicial a los 1.000 km.",
+      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 Yamalube (JASO MA2)",
       cadenaPasos: [
         "Limpia la cadena con un producto específico para cadenas con retenes.",
@@ -1209,7 +1209,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.yamaha-motor.eu/es/es/motorcycles/",
     analisisSlug: "yamaha-xsr900-gp-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Mantenimiento cada 10.000 km o 12 meses, arrancando a los 1.000 km.",
+      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 Yamalube (JASO MA2)",
       cadenaPasos: [
         "Usa un limpiador específico para cadenas con retenes para limpiar la cadena",
@@ -1283,7 +1283,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.yamaha-motor.eu/es/es/motorcycles/",
     analisisSlug: "yamaha-yzf-r3-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Pauta de servicio cada 10.000 km o 12 meses, desde la primera a los 1.000 km.",
+      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (JASO MA)",
       resetServicioTitulo: "Resetear el aviso de cambio de aceite",
       resetServicioPasos: [
@@ -1362,7 +1362,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.yamaha-motor.eu/es/es/motorcycles/",
     analisisSlug: "yamaha-tracer-7-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Intervalo 10.000 km, con tope de 12 meses; empezando en los 1.000 km.",
+      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 Yamalube (JASO MA2)",
       cadenaPasos: [
         "Para limpiar la cadena, emplea un limpiador diseñado para cadenas con retenes.",
@@ -1436,7 +1436,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.yamaha-motor.eu/es/es/motorcycles/",
     analisisSlug: "yamaha-mt-03-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Visitas 10.000 km o 12 meses como máximo, arranque a los 1.000 km.",
+      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (JASO MA)",
       resetServicioTitulo: "Resetear el aviso de cambio de aceite",
       resetServicioPasos: [
@@ -1515,7 +1515,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.yamaha-motor.eu/es/es/motorcycles/",
     analisisSlug: "yamaha-xmax-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera a los 1.000 km, segunda a 5.000 km y después cada 6.000 km",
+      intervaloMantenimiento: "Primera a los 1.000 km, segunda a los 5.000 km y después cada 6.000 km",
       aceiteTipo: "10W-40 Yamalube (API SG o superior, JASO MA)",
       resetServicioTitulo: "Apagar los avisos de aceite y correa",
       resetServicioPasos: [
@@ -1589,7 +1589,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.yamaha-motor.eu/es/es/motorcycles/",
     analisisSlug: "yamaha-nmax-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 4.000 km, con la primera a los 1.000 km",
+      intervaloMantenimiento: "Cada 4.000 km (primera a los 1.000 km)",
       aceiteTipo: "10W-40 Yamalube (API SG o superior, JASO MA o MB)",
       resetServicioTitulo: "Resetear el aviso de cambio de aceite",
       resetServicioPasos: [
@@ -1738,7 +1738,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.yamaha-motor.eu/es/es/motorcycles/",
     analisisSlug: "yamaha-tricity-300-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "A los 1.000 km, a los 4.000 km y luego cada 5.000 km",
+      intervaloMantenimiento: "A los 1.000 km, a los 4.000 km y después cada 5.000 km",
       aceiteTipo: "10W-40 (API SG o superior, JASO MA)",
       resetServicioTitulo: "Resetear el aviso de cambio de aceite",
       resetServicioPasos: [
@@ -1836,7 +1836,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     aprox: [],
     pros: [
       "Estética Ninja de superbike: la deportiva A2 más deseada",
-      "Dos cilindros de 451 cc con 45,4 CV: empuje lleno desde abajo",
+      "Bicilíndrico de 451 cc con 45,4 CV: empuje lleno desde abajo",
       "Muy ligera y manejable: perfecta para aprender",
       "Versión SE (7.450 €) con pantalla TFT y llave KIPASS",
       "Consumo bajo y fiabilidad Kawasaki",
@@ -1874,7 +1874,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.kawasaki.es/",
     analisisSlug: "kawasaki-ninja-500-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "La pauta es cada 12.000 km o 12 meses, primera parada a los 1.000 km.",
+      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (API SG/SH/SJ/SL/SM, JASO MA, MA1 o MA2)",
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
@@ -1948,7 +1948,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.kawasaki.es/",
     analisisSlug: "kawasaki-z500-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Plan 12.000 km, con tope de 12 meses; inicio a los 1.000 km.",
+      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (API SG/SH/SJ/SL/SM, JASO MA, MA1 o MA2)",
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
@@ -2022,7 +2022,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/kawasaki/ninja-7-hybrid",
     analisisSlug: "kawasaki-ninja-7-hybrid-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Intervalo 12.000 km o 12 meses como máximo, inicio a los 1.000 km.",
+      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (API SG/SH/SJ/SL/SM, JASO MA, MA1 o MA2)",
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
@@ -2096,7 +2096,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/kawasaki/z-7-hybrid-2024",
     analisisSlug: "kawasaki-z7-hybrid-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Plan 12.000 km sin pasar de 12 meses, primera revisión en los 1.000 km.",
+      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (API SG/SH/SJ/SL/SM, JASO MA, MA1 o MA2)",
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
@@ -2170,7 +2170,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.kawasaki.es/",
     analisisSlug: "kawasaki-versys-650-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Plan 12.000 km o 12 meses, rodaje hasta los 1.000 km.",
+      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (API SG/SH/SJ/SL/SM, JASO MA, MA1 o MA2)",
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
@@ -2305,7 +2305,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.kawasaki.es/",
     analisisSlug: "kawasaki-z650-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Servicio 12.000 km o 12 meses, desde la revisión de los 1.000 km.",
+      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (API SG/SH/SJ/SL/SM, JASO MA, MA1 o MA2)",
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
@@ -2380,7 +2380,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/kawasaki/versys-1100-s",
     analisisSlug: "kawasaki-versys-1100-s-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Plan 12.000 km o 12 meses, arranque a los 1.000 km.",
+      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (API SG/SH/SJ/SL/SM, JASO MA, MA1 o MA2)",
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
@@ -2393,7 +2393,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "Intervalo de 12.000 km o 12 meses, con revisión inicial a los 1.000 km",
+      intervalo: "Cada 12.000 km o 12 meses (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -2476,7 +2476,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/kawasaki-ninja-zx-6r-2024/",
     analisisSlug: "kawasaki-ninja-zx-6r-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "12.000 km o 12 meses entre revisiones, empezando a los 1.000 km",
+      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (API SG/SH/SJ/SL/SM, JASO MA, MA1 o MA2)",
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
@@ -2550,7 +2550,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/kawasaki/ninja-zx-4r-2024",
     analisisSlug: "kawasaki-ninja-zx-4r-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Al taller cada 12.000 km o 12 meses, desde los 1.000 km iniciales",
+      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (API SG/SH/SJ/SL/SM, JASO MA, MA1 o MA2)",
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
@@ -2624,7 +2624,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.kawasaki.es/",
     analisisSlug: "kawasaki-z-h2-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión: 1.000 km — siguientes: 12.000 km / 12 meses",
+      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (API SG/SH/SJ/SL/SM, JASO MA, MA1 o MA2)",
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
@@ -2698,7 +2698,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.kawasaki.es/",
     analisisSlug: "kawasaki-ninja-1100sx-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "1.000 km (primera) · 12.000 km o 12 meses (siguientes)",
+      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (API SG/SH/SJ/SL/SM, JASO MA, MA1 o MA2)",
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
@@ -2833,7 +2833,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.kawasaki.es/",
     analisisSlug: "kawasaki-ninja-125-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Revisiones: 1.000 km, luego 12.000 km o 12 meses",
+      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (API SG/SH/SJ/SL/SM, JASO MA, MA1 o MA2)",
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
@@ -2910,7 +2910,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.motosan.es/motos/suzuki-v-strom-800-tech-una-trail-muy-versatil/",
     analisisSlug: "suzuki-v-strom-800-tech-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Pauta 6.000 km o 12 meses, primera a 1.000 km en taller oficial",
+      intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (API SJ o superior, JASO MA o MA2)",
       cadenaPasos: [
         "Limpia, engrasa la cadena cada 1.000 km, y siempre tras rodar con lluvia o por tierra en ruta.",
@@ -2983,10 +2983,10 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/suzuki-v-strom-650-2022/",
     analisisSlug: "suzuki-v-strom-650-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Servicio 6.000 km o 12 meses, primera parada en los 1.000 km.",
-      aceiteTipo: "10W-40 con API SJ o superior y norma JASO MA",
+      intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera a los 1.000 km)",
+      aceiteTipo: "10W-40 (API SJ o superior, JASO MA)",
       cadenaPasos: [
-        "Limpia y engrasa la cadena cada mil kilómetros, y siempre después de rodar con lluvia o por tierra.",
+        "Limpia y engrasa la cadena cada 1.000 km, y siempre tras rodar con lluvia o por tierra.",
         "El manual del propietario marca el ajuste: comprueba la tensión con la moto en vertical",
       ],
       trucos: [
@@ -3056,10 +3056,10 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://moto.suzuki.es/motos/trail-sport-turismo/2024/v-strom-1050-tech",
     analisisSlug: "suzuki-v-strom-1050-tech-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Plan 6.000 km o 12 meses como máximo, primera parada en los 1.000 km.",
-      aceiteTipo: "10W-40, API SJ como mínimo y JASO MA",
+      intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera a los 1.000 km)",
+      aceiteTipo: "10W-40 (API SJ o superior, JASO MA)",
       cadenaPasos: [
-        "Limpia y engrasa la cadena de transmisión cada mil kilómetros, y siempre tras rodar con lluvia o por tierra.",
+        "Limpia y engrasa la cadena cada 1.000 km, y siempre tras rodar con lluvia o por tierra.",
         "Ajuste de tensión según el manual del propietario, con la moto en vertical para comprobarla",
       ],
       trucos: [
@@ -3129,7 +3129,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://moto.suzuki.es/",
     analisisSlug: "suzuki-gsx-s1000gx-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Taller: 1.000 km la primera vez; 12.000 km o 12 meses después",
+      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (API SJ o superior, JASO MA2)",
       cadenaPasos: [
         "Engrasa la cadena cada 1.000 km tras limpiarla, y siempre tras rodar con lluvia o por tierra",
@@ -3202,8 +3202,8 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/suzuki/sv650-2021",
     analisisSlug: "suzuki-sv650-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Pauta 6.000 km sin pasar de 12 meses, con la primera en los 1.000 km.",
-      aceiteTipo: "10W-40 de API SJ o superior, con JASO MA",
+      intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera a los 1.000 km)",
+      aceiteTipo: "10W-40 (API SJ o superior, JASO MA)",
       cadenaPasos: [
         "Cada 1.000 km, limpia y engrasa la cadena, y siempre tras rodar con lluvia o por tierra",
         "La tensión de la cadena se mide con la moto en vertical y se deja según el manual del propietario",
@@ -3275,7 +3275,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://moto.suzuki.es/",
     analisisSlug: "suzuki-burgman-400-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Taller a los 1.000 km; luego cada 12 meses o 6.000 km",
+      intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (API SG o superior, JASO MA)",
       trucos: [
         "Aceite de la transmisión final: sustitución cada 12.000 km.",
@@ -3344,7 +3344,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://moto.suzuki.es/",
     analisisSlug: "suzuki-burgman-street-125ex-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "A los 1.000 km la primera y cada 4.000 km las siguientes.",
+      intervaloMantenimiento: "Primera a los 1.000 km y después cada 4.000 km",
       aceiteTipo: "10W-40 (API SG o superior, JASO MA)",
       resetServicioTitulo: "Resetear el aviso de cambio de aceite",
       resetServicioPasos: [
@@ -3419,7 +3419,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://moto.suzuki.es/",
     analisisSlug: "suzuki-avenis-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km; después, cada 4.000 km",
+      intervaloMantenimiento: "Primera a los 1.000 km y después cada 4.000 km",
       aceiteTipo: "10W-40 (API SG o superior, JASO MA)",
       resetServicioTitulo: "Resetear el aviso de cambio de aceite",
       resetServicioPasos: [
@@ -3428,7 +3428,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
         "El aviso parpadea 3 veces y se apaga: el contador queda a cero.",
       ],
       trucos: [
-        "El filtro de aceite se cambia cada 8.000 km y el de aire cada 12.000 km.",
+        "Filtro de aceite: cada 8.000 km. Filtro de aire: cada 12.000 km.",
         "El intervalo del aviso se ajusta entre 500 y 4.000 km desde el cuadro de mandos.",
       ],
     },
@@ -3567,8 +3567,8 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://moto.suzuki.es/",
     analisisSlug: "suzuki-dr-z4s-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km en taller; después cada 6.000 km o 12 meses.",
-      aceiteTipo: "10W-40 que cumpla API SJ o superior y JASO MA",
+      intervaloMantenimiento: "Primera a los 1.000 km y después cada 6.000 km o 12 meses",
+      aceiteTipo: "10W-40 (API SJ o superior, JASO MA)",
       cadenaPasos: [
         "Limpia la cadena y engrásala cada 1.000 km, sobre todo tras rodar por tierra o barro.",
         "Con la moto en posición vertical, regula la tensión de la cadena como indica el manual del propietario.",
