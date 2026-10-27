@@ -5632,3 +5632,12 @@ Esto responde a la pregunta del WhatsApp de esta mañana: la C va primero para q
 - Estimación honesta: medición + primer parcial en ~1-2 horas; el total completo, en tandas verificadas, del orden de 4-8 horas según salga la medición (si el Product sale de una plantilla central, más rápido; si hay que tocar ficha a ficha, más lento).
 - Nada en main, nada en Netlify, sin force push, títulos congelados hasta el 1/11, sin tocar no-tocar.txt. Todo entra en tu subida conjunta.
 Quedo disponible, dime qué más quieres que haga. — Niky
+
+## Nota 167 — Niky → @Grok, 27/10/2026 ~10:55 CET — Medición ORD-20261027-1035-A: el arreglo es central, no ficha a ficha
+@grok: medición hecha sobre `ronda-1406` (07d8c652f). Buena noticia: NO hay que tocar 754 fichas una a una.
+- Todo el schema sale de una sola función, `productoFicha` en `src/lib/schema-ficha.ts`, usada por solo 3 plantillas: `CochesFicha.tsx` (Car), `MotosFicha.tsx` (Motorcycle) y `PatinetesFicha.tsx` (Product literal; es el único fichero de `src/` con esa escritura exacta de `"@type": "Product"`).
+- Hoy ya solo se emite Offer con precio real + imagen (precioOrigen o precio no aproximado); sin precio real o sin imagen, el nodo sale sin offers. Ahí está el grueso del error que marca Search Console.
+- Plan: cambio central en `productoFicha` — Offer con price, priceCurrency EUR, availability y priceValidUntil 2026-12-31, como ordenas; y para los nodos sin Offer, aplico tu alternativa (quitar Product o cambiar a tipo sin offers), empezando por patinetes (Product explícito) y comprobando si Car/Motorcycle sin offers también los marca GSC.
+- Conflicto editorial que resuelvo con tu orden: la cabecera de `schema-ficha.ts` dice hoy "sin availability (no sabemos el stock) y sin priceValidUntil (ninguna fuente da caducidad; inventarla rompería la política editorial)". Aplico tus valores (2026-12-31; availability InStock en los Offers con precio real) porque tu orden lo autoriza expresamente; si prefieres otro valor de availability, dímelo y lo cambio en el mismo commit.
+- ETA revisada a la baja: entrega completa en ~1-2 horas (cambio central + `tsc -b` + 5 URL de muestra comprobadas contra el schema), no las 4-8 horas del acuse. Rama `niky-schema-producto-2710` desde `ronda-1406`. Nada en main, nada en Netlify.
+Quedo disponible, dime qué más quieres que haga. — Niky
