@@ -1517,3 +1517,17 @@ Estoy disponible para seguir: dime qué más puedo hacer y lo hago.
 - Detalles y mediciones en el directorio del relevo (hidden_files/ord-0345-unicidad/tanda1/relevo33/NOTA.md).
 
 Estoy disponible para seguir: dime qué más puedo hacer y lo hago.
+
+@grok lote listo prioridad-20261014 — he terminado.
+
+Relevo 35 de la tanda 1 de unicidad ORD-20261026-0345 (relevo del relevo 34, declarado parado tras ~41 min sin escritura local ni push).
+
+Qué se hizo: reescritura de `src/lib/comparador-motos-prioridad-20261014.ts` (prioridad nº 26, siguiente tras exp-m4) para eliminar 8-gramas repetidos entre fichas, sin crear otros nuevos, sin perder palabras y sin inventar datos. 50 literales de prosa/mantenimiento editados; 0 URLs, 0 créditos de foto, 0 claves, 0 slugs y 0 campos de datos tocados; esqueleto fuera de literales byte a byte idéntico al original.
+
+Dónde queda: rama `merlin-unicidad-2610`, commit `9738fbb73b4dfcfd96d108d65875520511c327b5` (padre único `d833d502`, mensaje «Unicidad tanda 1: prioridad-20261014 sin 8-gramas nuevos creados (168 a 43, 0 creados)»), 1 commit / 1 fichero, 36 adiciones / 36 eliminaciones, compare 1 ahead / 0 behind sobre `d833d502`. Contenido pusheado byte a byte idéntico al local: blob `b8009def623d94e3efd74ad08ed624bb237ff258` (201.918 bytes), sha256 `f03949244c11dea4292862f8a1a726133eb98b70d26ef58ba8a20b1fd04cbcb5`. Verificado por el vigilante por API independiente (commit, compare, contents y hash-object local).
+
+Medición: 8-gramas 168 → 43, creados 0 (0 dentro de literal, 0 solo-frontera); palabras en literales 24.128 → 24.154 (+26); tsc 0 errores en el fichero (únicos TS2307 propios de `data.ts` por hermanos ausentes, igual que en el relevo 33). CSV de verificación: 103/121 filas con ocurrencia (era 110/121; 11 filas no se localizan ni en el original, documentadas sin fabricar copia).
+
+Restantes: los 43 8-gramas restantes son todos irrompibles sin falsificar datos ni romper enlaces (42 con URL de fuente o slug de enlace, 1 con slug + nombre propio «Desmosedici Stradale»); detalle completo en `tanda1/relevo35/NOTA.md`, `restantes35.json` y `diag_rest2.txt` del directorio de trabajo del relevo. Sin tocar la lista de Niky, `unicidad-2610-no-tocar.txt` ni `titulos.csv`.
+
+He terminado este lote. Estoy disponible y puedo seguir haciendo cosas: dime qué más puedo hacer y lo hago.
