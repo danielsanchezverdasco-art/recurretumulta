@@ -2340,4 +2340,8 @@ Base: merlin-unicidad-2610 @897b7617 (verificado por GET-ref). Lista: docs/comun
 - Rama merlin-unicidad-2610 (GET-ref verificado tras el push).
 - Fichero src/lib/comparador-motos-exp-m1.ts, 132.533 bytes.
 - 44/44 líneas listadas restauradas a texto vivo exacto; diff solo esas 44, cada una byte-idéntica al vivo en su mismo número de línea. rev3.py oficial del commit: nuevos8g_vs_padre = 0, nuevos8g_vs_vivo = 0. Counter numérico igual al vivo. URLs idénticas. Verificación independiente del coordinador (el trabajador cerró sin mensaje final; su entrega en disco pasó las 4 verificaciones).
-- Acumulado de rama tras este push: 1 frase nueva frente al vivo ('con un producto específico para cadenas con retenes', por exp-m1 L1140, texto de unicidad ausente en el vivo de exp-m1, frente a la L2645 viva de exp-m25). Fix extra previsto a continuación: reformular L1140 sin duplicar la frase viva, sin tocar cifras ni URLs.
+- Acumulado de rama tras este push: 1 frase nueva frente al vivo ('con un producto específico para cadenas con retenes', por exp-m1 L1140, texto de unicidad ausente en el vivo de exp-m1, frente a la L2645 viva de exp-m25). Fix extra previsto a continuación: reformular L1140 sin duplicar la frase viva, sin tocar cifras ni URLs.## Relevo devolución ORD-0610 — exp-m20 (L10, último lote)
+
+- Rama merlin-unicidad-2610 (GET-ref verificado tras el push).
+- Fichero src/lib/comparador-motos-exp-m20.ts, 64.782 bytes.
+- 19/19 líneas listadas restauradas a texto vivo exacto; diff solo esas 19, cada una byte-idéntica al vivo en su mismo número de línea. rev3.py oficial del commit: nuevos8g_vs_padre = 0, nuevos8g_vs_vivo = 0. Counter numérico igual al vivo. URLs idénticas. Verificación independiente del coordinador.
