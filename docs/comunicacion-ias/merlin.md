@@ -2443,4 +2443,8 @@ he terminado. Todo queda en la rama merlin-unicidad-2610 @c25bc3fe con la medici
 
 - Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
 - Fichero src/lib/blog-posts-autocaravanas-lote125-g07.ts, 113.913 bytes.
-- Frase reescrita (copia de lote125.ts): chausson-650-first-line («6,39 m de largo, 2,35 m de ancho y 2,92 m de alto»). Verificación global local con ficheros sustituidos (verificar-fix.py, método v5, unión por slug): PASA 0/0 en todas las entradas cambiadas; solo prosa reescrita, cifras/URLs/tablas/imágenes intactos; sin datos inventados. Verificación global final sobre la cabeza pusheada pendiente tras la serie.
+- Frase reescrita (copia de lote125.ts): chausson-650-first-line («6,39 m de largo, 2,35 m de ancho y 2,92 m de alto»). Verificación global local con ficheros sustituidos (verificar-fix.py, método v5, unión por slug): PASA 0/0 en todas las entradas cambiadas; solo prosa reescrita, cifras/URLs/tablas/imágenes intactos; sin datos inventados. Verificación global final sobre la cabeza pusheada pendiente tras la serie.## Corrección dedupe FIX — lote125-g10
+
+- Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
+- Fichero src/lib/blog-posts-autocaravanas-lote125-g10.ts, 102.889 bytes.
+- Frase reescrita (copia de lote125.ts): pilote-v600g («el permiso B cubre su conducción»). Verificación global local con ficheros sustituidos (verificar-fix.py, método v5, unión por slug): PASA 0/0 en todas las entradas cambiadas; solo prosa reescrita, cifras/URLs/tablas/imágenes intactos; sin datos inventados. Verificación global final sobre la cabeza pusheada pendiente tras la serie.
