@@ -1383,7 +1383,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.honda.es/motorcycles.html",
     analisisSlug: "honda-cb300r-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Después de la revisión al primer millar de kilómetros, el intervalo queda en 6.000 km o cada año, lo que antes suceda",
+      intervaloMantenimiento: "Superado el primer millar de kilómetros con su revisión, la CB300R pide taller cada 6.000 km sin rebasar el año natural",
       aceiteTipo: "10W-30 (JASO T 903 MA)",
       cadenaPasos: [
         "Limpia y engrasa la cadena cada 500 km.",
@@ -1397,7 +1397,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "Primera revisión a los 1.000 kilómetros; después, cada 6.000 km o anualmente, lo primero que venza",
+      intervalo: "Rodaje cerrado a los 1.000 kilómetros: a partir de entonces, revisión cada 6.000 km o al cumplirse el año, atendiendo al hito que llegue en primer término",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 80 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 100 },
@@ -1639,7 +1639,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://www.yamaha-motor.eu/es/es/",
     analisisSlug: "yamaha-ys125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "El taller toca cada 6.000 kilómetros o anualmente, lo que antes venza, con la primera revisión tras los primeros 1.000 km",
+      intervaloMantenimiento: "YS125: taller cada 6.000 kilómetros y como máximo una vez al año, tras la puesta a punto inaugural de los 1.000 km iniciales",
       aceiteTipo: "10W-40 (Yamalube)",
       cadenaPasos: [
         "Limpia y engrasa la cadena cada 500 km.",
@@ -1809,7 +1809,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     fuenteUrl: "https://moto.suzuki.es/",
     analisisSlug: "suzuki-gsx-s125-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "La revisión inicial cae a los 1.000 km; desde ahí, la pauta es cada 6.000 km o 12 meses, lo que se cumpla antes",
+      intervaloMantenimiento: "GSX-S125: la primera visita al taller llega con 1.000 km en el marcador; luego, cada 6.000 km con tope de doce meses entre visitas",
       aceiteTipo: "10W-40 (JASO MA)",
       cadenaPasos: [
         "Limpieza y engrase cada 500 km.",
