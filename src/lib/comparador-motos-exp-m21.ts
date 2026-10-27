@@ -78,13 +78,13 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       intervaloMantenimiento: "Cada 15.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-50 (Motorex Power Synt 4T)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Recorre toda la cadena con un limpiador formulado para transmisiones con juntas tóricas.",
+        "Engrasa mientras haces girar despacio la rueda de atrás para que el producto llegue a todos los eslabones.",
+        "Con la moto derecha sobre sus ruedas, mide la tensión y corrígela hasta el valor del manual del propietario.",
       ],
       trucos: [
         "El modo DEMO desbloquea la electrónica completa los primeros 1.000 km: pruébalo antes de decidir.",
-        "Con 4,6 l/100 km, el depósito de 14 l da para unos 300 km sin apurar.",
+        "Sus 14 l dan para rondar los 300 km si vas tranquilo, con un gasto de 4,6 l/100 km.",
       ],
     },
   },
@@ -149,9 +149,9 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       intervaloMantenimiento: "Cada 15.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-50 (Motorex Power Synt 4T)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Frota eslabón por eslabón con desengrasante compatible con cadenas de retenes hasta dejarla sin grasa.",
+        "Aplica el lubricante a la vez que mueves la rueda trasera para repartirlo de manera uniforme.",
+        "Moto en posición recta: comprueba la tensión y ajústala conforme indica el libro del propietario.",
       ],
       trucos: [
         "El ABS con modo Supermoto permite derrapar la trasera en circuito.",
@@ -220,9 +220,9 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       intervaloMantenimiento: "Cada 15.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-50 (Motorex Power Synt 4T)",
       cadenaPasos: [
-        "Limpia la cadena 525 X-Ring con limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Limpia la cadena 525 X-Ring con un producto de limpieza apto para cadenas con juntas.",
+        "Engrasa poco a poco girando la rueda de atrás para que el lubricante cubra cada eslabón.",
+        "Verifica la tensión estando la moto derecha y corrígela según la cifra del manual del propietario.",
       ],
       trucos: [
         "Con 190 CV, el neumático trasero 200/55 se gasta rápido: vigila el desgaste.",
@@ -291,13 +291,13 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       intervaloMantenimiento: "Primera a los 1.000 km; después cada 10.000 km o 12 meses",
       aceiteTipo: "15W-50 (Motorex Formula 4T)",
       cadenaPasos: [
-        "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Empieza con un trapo seco y sigue con un desengrasante apto para cadenas con retenes.",
+        "Pon lubricante girando la rueda de atrás: así llega a cada eslabón de la cadena.",
+        "Con la moto recta, mide la tensión y déjala en el valor que marca el manual del propietario.",
       ],
       trucos: [
-        "El filtro de aire se cambia cada 10.000 km; el reglaje de válvulas, cada 20.000 km.",
-        "Tras el off-road, limpia la cadena a fondo: el polvo la desgasta el doble.",
+        "Cambia el filtro de aire cada 10.000 km y haz el reglaje de válvulas cada 20.000 km.",
+        "Tras cada salida off-road, limpia la cadena a fondo: el polvo la desgasta el doble.",
       ],
     },
   },
@@ -362,9 +362,9 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       intervaloMantenimiento: "Cada 15.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-50 (Motorex Power Synt 4T)",
       cadenaPasos: [
-        "Limpia la cadena tras cada salida de tierra con agua a presión moderada.",
-        "Engrasa con lubricante específico para off-road, que repele el barro.",
-        "Comprueba la tensión con la moto en el caballete y ajusta según el manual.",
+        "Tras rodar por tierra, lava la cadena con agua a presión moderada; después, sécala.",
+        "Unta un lubricante pensado para off-road, que repele el barro y aguanta el polvo.",
+        "Sube la moto al caballete, mide la holgura y corrígela siguiendo la cifra del fabricante.",
       ],
       trucos: [
         "El filtro de aire va bajo el asiento: se cambia sin desmontar el depósito.",
@@ -433,13 +433,13 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       intervaloMantenimiento: "Cada 15.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-50 (Motorex Power Synt 4T)",
       cadenaPasos: [
-        "Limpia la cadena tras cada salida de tierra con agua a presión moderada.",
-        "Engrasa con lubricante específico para off-road, que repele el barro.",
-        "Comprueba la tensión con la moto en el caballete y ajusta según el manual.",
+        "Después de una salida por tierra, aclara la cadena con agua a presión moderada.",
+        "Una vez limpia, dale lubricante para off-road que repele el barro en toda la cadena.",
+        "Con la moto ya en el caballete, comprueba la holgura y ajústala según el manual.",
       ],
       trucos: [
         "El modo Offroad del ABS permite bloquear la trasera en tierra.",
-        "El filtro de aire va bajo el asiento: se cambia sin desmontar el depósito.",
+        "El filtro de aire está bajo el asiento y se cambia sin desmontar el depósito.",
       ],
     },
   },
@@ -504,9 +504,9 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       intervaloMantenimiento: "Primera a los 1.000 km; después cada 10.000 km o 12 meses",
       aceiteTipo: "15W-50 (Motorex Formula 4T)",
       cadenaPasos: [
-        "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Pasa primero un trapo seco y después un limpiador compatible con cadenas de retenes.",
+        "Dale su lubricante haciendo girar despacio la rueda de atrás para repartirlo bien.",
+        "Con la moto derecha, comprueba la tensión y ajústala como marca el libro del propietario.",
       ],
       trucos: [
         "Con el carnet B y 3 años de antigüedad no necesitas sacarte el A1.",
@@ -576,7 +576,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       aceiteTipo: "5W-40 (BMW Motorrad ADVANTEC Ultimate)",
       cadenaPasos: [],
       trucos: [
-        "Sin cadena: la transmisión por cardán no necesita engrase ni tensado.",
+        "La transmisión por cardán no lleva cadena: nada de engrase ni de tensado.",
         "Con 398 kg, la presión de los neumáticos es crítica: revísala cada dos semanas.",
         "El Big Bóxer lleva 4 l de aceite: respeta el nivel al milímetro.",
       ],
@@ -643,9 +643,9 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       intervaloMantenimiento: "Cada 15.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-50 (Motorex Power Synt 4T)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Deja la cadena sin suciedad con un limpiador para cadenas con juntas tóricas.",
+        "Reparte el lubricante haciendo girar poco a poco la rueda de atrás.",
+        "Derecha y en vertical, mide la tensión y déjala según el manual del propietario.",
       ],
       trucos: [
         "Las suspensiones regulables merecen un reglaje profesional según tu peso.",
@@ -714,13 +714,13 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       intervaloMantenimiento: "Primera a los 1.000 km; después cada 10.000 km o 12 meses",
       aceiteTipo: "15W-50 (Motorex Formula 4T)",
       cadenaPasos: [
-        "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Quita la suciedad con un trapo seco y remata con un desengrasante para cadenas con juntas.",
+        "Echa lubricante y, al mover la rueda de atrás, consigue que se reparta por igual.",
+        "Mide la tensión con la moto recta y ajústala conforme al manual del propietario.",
       ],
       trucos: [
         "El launch control de serie ayuda en salidas rápidas sin quemar embrague.",
-        "KTM la ofrece con financiación al 0 % en campañas oficiales.",
+        "En campañas oficiales, KTM la ofrece con financiación al 0 %.",
       ],
     },
   },
@@ -789,7 +789,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       trucos: [
         "Sin cadena: la transmisión por cardán no necesita engrase ni tensado.",
         "El cardán sí necesita su aceite: se cambia según el plan de mantenimiento.",
-        "Revisa el nivel de aceite del bóxer con la moto en vertical y el motor templado.",
+        "Mide el nivel de aceite del bóxer con la moto derecha en vertical y con el motor templado.",
       ],
     },
   },
@@ -855,7 +855,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       aceiteTipo: "5W-40 (BMW Motorrad ADVANTEC Ultimate)",
       cadenaPasos: [],
       trucos: [
-        "Sin cadena: la transmisión por cardán no necesita engrase ni tensado.",
+        "La transmisión es por cardán, así que no hay nada que engrasar ni tensar.",
         "El control adaptativo de altura se calibra solo: no lo fuerces en parado.",
         "Con 30 l, reposta cada 500 km aunque el ordenador diga que queda más.",
       ],
@@ -922,13 +922,13 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       intervaloMantenimiento: "Cada 10.000 km o 12 meses",
       aceiteTipo: "5W-40 (BMW Motorrad ADVANTEC Ultimate)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en el caballete y ajusta según el manual.",
+        "Desengrasa a fondo usando un limpiador apto para cadenas con retenes.",
+        "Aplica lubricante y, mientras giras la rueda de atrás, haz que llegue a todos los eslabones.",
+        "Pon la moto en el caballete y mide la tensión: déjala en el valor del manual.",
       ],
       trucos: [
         "El filtro de aire va bajo el depósito de plástico: acceso sencillo.",
-        "Tras el off-road, limpia a fondo la cadena y las pinzas de freno.",
+        "Después del off-road, limpia a fondo la cadena y también las pinzas de freno.",
       ],
     },
   },
@@ -993,9 +993,9 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       intervaloMantenimiento: "Cada 10.000 km o 12 meses",
       aceiteTipo: "5W-40 (BMW Motorrad ADVANTEC Ultimate)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en el caballete y ajusta según el manual.",
+        "Limpia a fondo con un producto limpiador para cadenas con juntas tóricas.",
+        "Lubrica dándole lubricante y moviendo la rueda trasera para repartirlo por igual.",
+        "Con la moto ya subida al caballete, mide la tensión y corrígela como indica el manual.",
       ],
       trucos: [
         "La limitación a 35 kW para el A2 la hace el concesionario con kit oficial.",
@@ -1065,7 +1065,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       aceiteTipo: "5W-40 (BMW Motorrad ADVANTEC Ultimate)",
       cadenaPasos: [],
       trucos: [
-        "Sin cadena: la transmisión por cardán no necesita engrase ni tensado.",
+        "Cardán en vez de cadena: sin engrase ni tensado que hacer.",
         "El bóxer de aire/aceite pide vigilar el nivel con frecuencia en verano.",
         "El reglaje de válvulas del bóxer es accesible: las culatas quedan a mano.",
       ],
@@ -1133,9 +1133,9 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       aceiteTipo: "5W-40 (BMW Motorrad ADVANTEC Ultimate)",
       cadenaPasos: [],
       trucos: [
-        "Sin cadena: la transmisión por cardán no necesita engrase ni tensado.",
-        "Con 345 kg, la presión de los neumáticos es crítica: revísala cada dos semanas.",
-        "El Big Bóxer lleva 4 l de aceite: respeta el nivel al milímetro.",
+        "Va por cardán: no necesita ni engrase ni tensado de cadena.",
+        "Con 345 kg, revisa la presión de los neumáticos cada dos semanas: es crítica.",
+        "El Big Bóxer, con sus 4 l de aceite, exige el nivel al milímetro.",
       ],
     },
   },
@@ -1200,9 +1200,9 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       intervaloMantenimiento: "Cada 10.000 km o 12 meses",
       aceiteTipo: "5W-40 (BMW Motorrad ADVANTEC Ultimate)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en el caballete y ajusta según el manual.",
+        "Pasa el limpiador para cadenas con retenes por cada eslabón de la cadena.",
+        "Engrasa con lubricante para cadenas moviendo la rueda de atrás para repartirlo.",
+        "Sobre el caballete, revisa la tensión y ajústala conforme al manual.",
       ],
       trucos: [
         "La versión A2 de 95 CV se limita a 35 kW en el concesionario.",
@@ -1271,9 +1271,9 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       intervaloMantenimiento: "Cada 10.000 km o 12 meses",
       aceiteTipo: "5W-40 (BMW Motorrad ADVANTEC Ultimate)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en el caballete y ajusta según el manual.",
+        "Limpia cada eslabón con un desengrasante compatible con cadenas de retenes.",
+        "Unta lubricante para cadenas y gira la rueda de atrás para repartirlo bien.",
+        "Comprueba la tensión con la moto en el caballete y ajusta hasta el valor del manual.",
       ],
       trucos: [
         "El control de derrapada (DTC) permite derrapar con seguridad en circuito.",
@@ -1343,8 +1343,8 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       aceiteTipo: "5W-40 (BMW Motorrad ADVANTEC Ultimate)",
       cadenaPasos: [],
       trucos: [
-        "Sin cadena: la transmisión por cardán no necesita engrase ni tensado.",
-        "La limitación a 35 kW para el A2 la hace el concesionario con kit oficial.",
+        "No hay cadena que cuidar: el cardán no pide engrase ni tensado.",
+        "Para el A2, la limitación a 35 kW se hace en el concesionario con kit oficial.",
         "El asiento bajo y el manillar alto la hacen ideal para pilotos de poca estatura.",
       ],
     },

@@ -39,7 +39,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     contras: [
       "Asiento a 960 mm: solo apta para pilotos altos",
       "Monocilíndrica: vibra en tramos largos de autopista",
-      "Red de servicio aún en expansión en España",
+      "La red de servicio todavía está creciendo en España",
     ],
     curiosidades: [
       "Hereda el ADN del Dakar: Kove compite en el rally más duro del mundo con la 450 Rally.",
@@ -106,7 +106,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "94,5 CV y 176 kg: de las mejores relaciones peso-potencia del segmento",
+      "94,5 CV y 176 kg: relación peso-potencia entre las mejores del segmento",
       "Depósito bajo de 19 litros para un reparto de masas óptimo",
       "Torre de navegación vertical estilo rally de serie",
       "Suspensiones de largo recorrido y ABS con 3 niveles",
@@ -336,7 +336,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     pros: [
       "La única naked 125 con basculante monobrazo del mercado",
       "135 kg en orden de marcha: de las 125 más ligeras",
-      "Horquilla invertida de 41 mm y ABS de 3 modos",
+      "ABS de 3 modos y horquilla invertida de 41 mm",
       "Motor Loncin de 14 CV con inyección Bosch",
       "2.999 €: precio rompedor para su equipamiento",
     ],
@@ -576,7 +576,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     curiosidades: [
       "Su motor de 946 cc deriva del acuerdo industrial entre CFMoto y KTM.",
       "CFMoto se desvinculó comercialmente de KTM y volvió a manos de Jets Marivent en España.",
-      "La pantalla TFT vertical de 8 pulgadas es de las más grandes del segmento.",
+      "Su pantalla TFT vertical de 8 pulgadas está entre las más grandes del segmento.",
     ],
     imagen: "/media/cfmoto-1000mt-x-2026-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -642,7 +642,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
       "Ruedas de 21 y 18 pulgadas de verdad, no de postureo",
       "Suspensiones YUAN regulables delante y detrás",
       "Solo 154 kg y consumo de 3,3 l/100 km",
-      "Full LED, pantalla LCD y toma USB de serie",
+      "De serie: toma USB, pantalla LCD y Full LED",
     ],
     contras: [
       "24 CV: justos para autopista con pasajero",
@@ -652,7 +652,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     curiosidades: [
       "Recupera el espíritu de las trail clásicas: ligera, sencilla y sin excesos tecnológicos.",
       "Su motor monocilíndrico de 249 cc con refrigeración líquida rinde 24 CV a 8.000 rpm.",
-      "Es la puerta de entrada más barata al mundo trail con carnet A2.",
+      "Es el acceso más económico al trail para el carnet A2.",
     ],
     imagen: "/media/cfmoto-250-dual-2026-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -949,7 +949,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
       "6 años de garantía QJMotor",
     ],
     contras: [
-      "Sin precio oficial en España: no se comercializa aquí",
+      "No se comercializa en España y no hay precio oficial publicado",
       "Potencia sin confirmar oficialmente",
       "Llegada a España pendiente de calendario",
     ],
@@ -1025,7 +1025,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
       "Kayaba, Bosch y Pirelli en la parte ciclo",
     ],
     contras: [
-      "265 kg: de las más pesadas de su clase",
+      "Con 265 kg, está entre las más pesadas de su clase",
       "Estética imponente pero poco ágil en campo",
       "Marca en plena reconstrucción en Europa",
     ],
@@ -1098,7 +1098,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
       "Radar trasero opcional con detección de ángulo muerto",
       "Pantalla TFT de 7 pulgadas con navegación integrada",
       "Parabrisas regulable manual o eléctricamente",
-      "9.290 € con versión limitada a 35 kW al mismo precio",
+      "Versión limitada a 35 kW por los mismos 9.290 €",
     ],
     contras: [
       "Llegada a concesionarios a lo largo de 2026",
@@ -1405,7 +1405,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
       "Trail 125 con orientación rally 50/50 por 2.490 €",
       "15 CV: el máximo legal para el A1",
       "Componentes robustos para off-road real",
-      "Conducible con carnet A1 o B con 3 años",
+      "Se puede conducir con el carnet A1 o con el B con 3 años",
       "Un escalón por encima de la RX1 Pro",
     ],
     contras: [
@@ -1565,13 +1565,13 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     ],
     contras: [
       "204 kg: pesada para una neo-retro media",
-      "Sin precio oficial en España: no se comercializa aquí",
+      "Este modelo no se vende en España: sin precio oficial",
       "Llegada a Europa pendiente de calendario",
     ],
     curiosidades: [
       "Su diseño lo encargó Cyclone a un estudio italiano que trabaja con McLaren y Bugatti.",
       "Comparte el bicilíndrico de 550 cc con la RA 600 y la RC 600.",
-      "Acelera de 0 a 100 km/h en 4,2 segundos según la marca.",
+      "Según la marca, el 0 a 100 km/h se completa en 4,2 segundos.",
     ],
     imagen: "/media/cyclone-re5-2026-ficha-tecnica-precio-1.webp",
     galeria: [

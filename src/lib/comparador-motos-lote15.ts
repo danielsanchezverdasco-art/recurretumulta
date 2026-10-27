@@ -31,7 +31,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
       "216 CV del V4 Desmosedici Stradale derivado de MotoGP",
       "Edición limitada a 1.000 unidades numeradas con certificado",
       "Decoración Tricolore exclusiva pintada con la bandera italiana",
-      "Electrónica completa con IMU de 6 ejes y ABS en curva",
+      "Paquete electrónico completo: IMU de 6 ejes con ABS en curva",
       "Chasis Front Frame de aluminio como las Desmosedici de carreras",
     ],
     contras: [
@@ -104,7 +104,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "V4 Granturismo de 170 CV, el motor más refinado del segmento",
+      "El V4 Granturismo rinde 170 CV y es el motor más refinado de su clase",
       "Radar delantero y trasero: crucero adaptativo y ángulo muerto",
       "Reglaje de válvulas cada 60.000 km, récord entre las maxitrail",
       "Garantía ampliable hasta 4 años con Ducati Ever Red",
@@ -113,7 +113,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     contras: [
       "Precio de tarifa de 22.790 €: las campañas oficiales lo dejan por debajo",
       "Peso elevado para uso fuera del asfalto",
-      "Consumo alto si se aprovechan los 170 CV",
+      "Aprovechar los 170 CV dispara el consumo",
     ],
     curiosidades: [
       "Fue la primera moto del mundo con radar delantero y trasero.",
@@ -180,16 +180,16 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "47,6 CV: justo el máximo legal del carnet A2",
-      "175 kg: la mejor relación peso/potencia de su categoría",
+      "Sus 47,6 CV marcan justo el tope legal del carnet A2",
+      "Con 175 kg, su relación peso/potencia es la mejor de la categoría",
       "Acelerador electrónico Ride-by-Wire con 3 modos de motor",
-      "Chasis de doble viga de aluminio de moto grande",
+      "Bastidor de doble viga en aluminio, propio de motos grandes",
       "Estética RS con aletas aerodinámicas inspiradas en la RSV4",
     ],
     contras: [
       "Postura deportiva que cansa en ciudad",
       "Sin quickshifter de serie",
-      "Red de concesionarios más pequeña que la japonesa",
+      "La red de concesionarios queda por debajo de la de las japonesas",
     ],
     curiosidades: [
       "Su motor bicilíndrico se desarrolló desde cero para este modelo.",
@@ -258,7 +258,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     pros: [
       "Bicilíndrico en L de 803 cc con 74 CV y mucho carácter",
       "Limitable a 35 kW para el carnet A2",
-      "ABS en curva, control de tracción y modos de conducción",
+      "ABS en curva con control de tracción y modos de conducción",
       "Ligera y con asiento bajo: accesible para todas las tallas",
       "El icono neo-retro con más opciones de personalización",
     ],
@@ -339,7 +339,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
       "Estética neo-retro que no pasa de moda",
     ],
     contras: [
-      "80 CV se quedan cortos frente a rivales de 100+ CV",
+      "Los 80 CV resultan escasos frente a rivales de más de 100 CV",
       "230 kg: pesada para el campo",
       "Vibraciones del V2 transversal en autopista",
     ],
@@ -420,7 +420,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
       "Repuestos con plazos de entrega largos",
     ],
     curiosidades: [
-      "Es la primera trail de la historia de MV Agusta.",
+      "Ninguna trail de MV Agusta existía antes que esta Enduro Veloce.",
       "Su tricilíndrico deriva del motor de la Brutale, adaptado al trail.",
       "Para 2026 estrena tres nuevos colores.",
     ],
@@ -560,7 +560,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "V2 de 1.350 cc con 190 CV y 145 Nm: la naked más salvaje",
+      "Su V2 de 1.350 cc rinde 190 CV con 145 Nm: la naked más salvaje del catálogo",
       "Suspensiones WP semi-activas electrónicas",
       "IMU 6D con ABS en curva y antiwheelie de última generación",
       "4 años de garantía, inusual en el segmento hypernaked",
@@ -865,7 +865,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     aprox: [],
     pros: [
       "Tricilíndrico de 798 cc con 115 CV y gran entrega en medios",
-      "4 años de garantía sin límite de kilometraje",
+      "Garantía de 4 años sin tope de kilómetros",
       "Mantenimiento cada 16.000 km, de los más espaciados",
       "IMU con ABS y tracción en curva, quickshifter de serie",
       "Nueva versión Tour 2026 con maletas de serie",
@@ -944,7 +944,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
       "Quickshifter Triumph Shift Assist de serie en 2026",
       "Horquilla Showa regulable y neumáticos Metzeler M9RR",
       "Limitable a 35 kW para el carnet A2",
-      "4 años de garantía sin límite de kilometraje",
+      "Cobertura de garantía de 4 años, sin límite de km",
     ],
     contras: [
       "95 CV se quedan cortos frente a la Aprilia RS 660",
@@ -1016,7 +1016,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Bóxer de 1.170 cc con 109 CV y el carácter clásico de BMW",
+      "El bóxer de 1.170 cc rinde 109 CV con el carácter clásico de BMW",
       "Homenaje a la R 80 G/S que inventó las trail",
       "Llanta delantera de 21\" con capacidad off-road real",
       "ABS Pro sensible a la inclinación",
@@ -1092,7 +1092,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Bicilíndrico de 895 cc con 105 CV y bajos generosos",
+      "El bicilíndrico de 895 cc entrega 105 CV con bajos generosos",
       "219 kg: muy ligera para una trail de su potencia",
       "ABS Pro y modos de conducción incluido Enduro",
       "Homologación Euro 5+ desde 2025",
@@ -1104,7 +1104,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
       "Vibraciones del bicilíndrico en autopista",
     ],
     curiosidades: [
-      "Se renovó por completo en 2024 con 14 kg menos que la F 850 GS.",
+      "En 2024 se renovó por completo y perdió 14 kg frente a la F 850 GS.",
       "Existe la versión Adventure con depósito grande para viajar.",
       "Su depósito en posición trasera baja el centro de gravedad.",
     ],
@@ -1320,7 +1320,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Tricilíndrico CP3 de 890 cc con 119 CV, el mejor motor del segmento",
+      "El tricilíndrico CP3 de 890 cc da 119 CV: el mejor motor de su segmento",
       "IMU de 6 ejes con ayudas sensibles a la inclinación",
       "Cambio automatizado Y-AMT opcional",
       "193 kg: ligera para su potencia",
@@ -1334,7 +1334,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     curiosidades: [
       "La MT-09 creó el segmento hypernaked en 2013.",
       "Su motor CP3 es uno de los más laureados de la industria.",
-      "Existe versión limitada a 35 kW para el A2.",
+      "Hay una variante limitada a 35 kW para el carnet A2.",
     ],
     imagen: "/media/yamaha-mt-09-2026-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -1624,8 +1624,8 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Bicilíndrico de 776 cc con 83 CV y tacto lleno",
-      "Quickshifter bidireccional y control de crucero de serie",
+      "Con 83 CV, el bicilíndrico de 776 cc tiene un tacto lleno",
+      "Quickshifter bidireccional con control de crucero incluido de serie",
       "3 años de garantía oficial Suzuki",
       "Homologable para el carnet A2",
       "10.795 €: la trail rutera con mejor equipo/precio",
@@ -1704,7 +1704,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
       "Horquilla Showa y amortiguadores Öhlins totalmente regulables",
       "250 mm de recorrido: aptitud off-road real",
       "Frenos Brembo Stylema con ABS en curva desconectable",
-      "4 años de garantía sin límite de kilometraje",
+      "4 años de cobertura oficial sin límite de kilometraje",
     ],
     contras: [
       "Precio alto para una scrambler",

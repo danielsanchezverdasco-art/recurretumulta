@@ -38,7 +38,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     ],
     contras: [
       "Sin precio oficial en España: no se comercializa aquí",
-      "No se comercializa en España: solo disponible en Latinoamérica y Asia",
+      "Su venta no alcanza España: solo se ofrece en Latinoamérica y Asia",
       "220 kg en seco: pesada para su cilindrada",
       "Red de servicio inexistente en Europa",
     ],
@@ -497,7 +497,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
       "Precio orientativo de ~4.300 € al cambio desde México",
     ],
     contras: [
-      "Sin precio oficial en España: no se comercializa aquí",
+      "Carece de tarifa oficial española porque no se vende en nuestro mercado",
       "No se comercializa en España actualmente",
       "26,2 CV: menos empuje que las 300 del segmento",
       "Asiento alto para pilotos bajos",
@@ -574,7 +574,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
       "Motor de 292 cc con 23,5 Nm de par",
     ],
     contras: [
-      "170 kg en orden de marcha: algo pesada para una 300",
+      "Con 170 kg en orden de marcha, resulta algo pesada para una 300",
       "Prestaciones justas en carretera abierta",
       "Suspensiones básicas",
     ],
@@ -652,7 +652,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     contras: [
       "Requiere carnet A (limitable a A2)",
       "185 kg en seco: no es ligera",
-      "Depósito de 16,5 litros algo justo para su consumo real",
+      "Su depósito de 16,5 litros se queda algo justo para su consumo real",
     ],
     curiosidades: [
       "Es la naked media de Voge con motor de origen Loncin.",
@@ -726,7 +726,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
       "Consumo muy contenido",
     ],
     contras: [
-      "Sin precio oficial en España: no se comercializa aquí",
+      "No existe precio oficial en España: su venta no llega aquí",
       "No se comercializa en España: solo Latinoamérica y Asia",
       "11,8 CV: justa para carretera",
       "Sin ABS (según mercados)",
@@ -799,11 +799,11 @@ export const MOTOS_LOTE14: MotoComparador[] = [
       "35 kW exactos: el límite del A2 aprovechado al milímetro",
       "Horquilla Kayaba y frenos Nissin con ABS",
       "47,6 CV y 44,5 Nm con un bicilíndrico muy lleno",
-      "5 años de garantía oficial Voge en España",
+      "Garantía oficial Voge en España durante 5 años",
       "5.287 €: precio rompedor para una naked A2 de 500",
     ],
     contras: [
-      "198 kg en orden de marcha: de las más pesadas del segmento",
+      "198 kg en orden de marcha: de las de mayor peso del segmento",
       "Estética continuista respecto a la 500R",
       "Sin modos de conducción ni control de tracción",
     ],
@@ -879,7 +879,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
       "Ideal como primera moto o para repartidores",
     ],
     contras: [
-      "Sin precio oficial en España: no se comercializa aquí",
+      "Sin tarifa oficial para España, ya que no se comercializa en el país",
       "No se comercializa en España",
       "11,5 CV con refrigeración por aire: justa en cuestas",
       "Acabados básicos",
@@ -1026,8 +1026,8 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "15 CV al límite del A1 con solo 143 kg",
-      "Pantalla TFT de 5 pulgadas con mirroring del móvil",
+      "Sus 15 CV rozan el tope del A1 y solo pesa 143 kg",
+      "Cuadro TFT de 5 pulgadas que replica la pantalla del móvil",
       "6 años de garantía oficial QJMotor en España",
       "Seguro del primer año gratis en promoción",
       "2.999 € PVP oficial: precio muy competitivo",
@@ -1414,7 +1414,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     ],
     contras: [
       "3.887 €: de los scooters 125 más caros",
-      "178 kg en orden de marcha: se notan al maniobrar en parado",
+      "Al moverla en parado se dejan sentir sus 178 kg en orden de marcha",
       "Tamaño grande para aparcar en ciudad",
     ],
     curiosidades: [
@@ -1565,7 +1565,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
       "Ideal para el A2 con carnet de coche",
     ],
     contras: [
-      "Precio orientativo convertido desde la tarifa oficial india (250.000 INR): no se vende en España",
+      "Importe orientativo calculado desde la tarifa oficial india (250.000 INR): sin venta en el mercado de España",
       "No se comercializa en España actualmente",
       "18,1 CV: prestaciones modestas",
       "Peso no declarado oficialmente",
@@ -1636,8 +1636,8 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     aprox: [],
     pros: [
       "V-Twin de 298 cc con refrigeración líquida y 30 CV",
-      "Transmisión final por correa: silenciosa y sin mantenimiento",
-      "ABS de doble canal y homologación Euro 5",
+      "La transmisión final recurre a la correa: silenciosa y sin apenas mantenimiento",
+      "Frenos ABS de doble canal con homologación Euro 5",
       "Depósito de 15 litros y estética bobber muy lograda",
       "4.490 € PVP en España",
     ],
@@ -1649,7 +1649,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     curiosidades: [
       "Es una de las pocas custom con motor en V por menos de 5.000 €.",
       "La correa final la hace casi libre de mantenimiento.",
-      "Keeway la vende en España a través de su red oficial.",
+      "En España, Keeway la distribuye mediante su red oficial de tiendas.",
     ],
     imagen: "/media/keeway-v302c-1.webp",
     galeria: [

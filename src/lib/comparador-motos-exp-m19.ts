@@ -71,7 +71,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico y un trapo, girando la rueda trasera.",
         "Engrasa con lubricante para cadenas con retenes, repartiéndolo en toda la longitud.",
-        "Comprueba la tensión con la moto en el caballete y ajusta según el manual.",
+        "Verifica la tensión con la rueda trasera elevada en el caballete y corrígela siguiendo el manual.",
       ],
       trucos: [
         "El filtro de aceite va en cartucho: cámbialo en cada revisión de aceite.",
@@ -212,7 +212,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
       aceiteTipo: "10W-30 (Honda 4-STROKE MOTORCYCLE OIL)",
       cadenaPasos: [
         "Mantén la cadena limpia y engrasada: es una deportiva que se usa a fondo.",
-        "Revisa la tensión con la moto en vertical y el basculante descargado.",
+        "Controla la tensión con la moto erguida y el basculante sin carga.",
         "Inspecciona el piñón y la corona en cada cambio de neumáticos.",
       ],
       trucos: [
@@ -1123,8 +1123,8 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
       aceiteTipo: "10W-40 (Yamalube)",
       cadenaPasos: [
         "La cadena de la MT-07 es fácil de mantener: limpia cada 800 km.",
-        "Engrasa con lubricante específico para cadenas con retenes.",
-        "Comprueba la holgura según el manual.",
+        "Aplica lubricante específico para cadenas con retenes al engrasar.",
+        "Comprueba la holgura siguiendo las indicaciones del manual.",
       ],
       trucos: [
         "El filtro de aceite es de cartucho y está muy accesible.",
@@ -1264,7 +1264,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
         "Revisa piñón y corona en cada cambio de neumáticos.",
       ],
       trucos: [
-        "El modo Track de la TFT muestra tiempos por vuelta con GPS.",
+        "La TFT en modo Track muestra los tiempos por vuelta con GPS.",
         "Regula el Öhlins trasero según tu peso antes de exigirle.",
       ],
     },
@@ -1402,7 +1402,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
       aceiteTipo: "10W-40 (Yamalube)",
       cadenaPasos: [
         "Limpia y engrasa la cadena cada 1.000 km, más si viajas cargado.",
-        "Comprueba la tensión con la moto en vertical.",
+        "Mide la tensión con la moto aplomada, sin inclinación lateral.",
         "El caballete central opcional facilita mucho el mantenimiento.",
       ],
       trucos: [

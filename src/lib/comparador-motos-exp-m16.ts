@@ -65,13 +65,13 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       intervaloMantenimiento: "Cada 4.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-30 (Honda 4-STROKE MOTORCYCLE OIL)",
       cadenaPasos: [
-        "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
+        "Frota la cadena de la Dax con un paño seco y desengrasante apto para juntas tóricas.",
+        "Aplica grasa para cadena en la Dax mientras giras a mano su rueda posterior para extenderla.",
         "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
       ],
       trucos: [
         "El embrague centrífugo no requiere ajustes: si patina, es trabajo de taller.",
-        "Revisa el nivel de aceite con la moto en vertical y el motor frío antes de cada salida.",
+        "Antes de salir con la Dax, mira el aceite con la moto recta y el motor frío.",
       ],
     },
   },
@@ -133,9 +133,9 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       intervaloMantenimiento: "Cada 4.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-30 (Honda 4-STROKE MOTORCYCLE OIL)",
       cadenaPasos: [
-        "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Pasa un paño seco por la cadena de la Monkey y desengrásala con producto para juntas tóricas.",
+        "Engrasa la cadena de la Monkey girando a mano la rueda de atrás para distribuir bien el producto.",
+        "Con la Monkey en vertical, mide la holgura de su cadena y déjala como indica su manual.",
       ],
       trucos: [
         "Con 1,1 l de cárter, el nivel de aceite hay que vigilarlo con frecuencia.",
@@ -203,7 +203,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       cadenaPasos: [
         "La cadena va semicarenada: limpia con trapo seco y limpiador específico.",
         "Engrasa con lubricante específico para cadenas con retenes.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual.",
+        "Revisa la tensión con la moto derecha, dejándola como pide el manual.",
       ],
       trucos: [
         "El filtro de aire se cambia cada 4.000 km.",
@@ -249,7 +249,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     curiosidades: [
       "La NX500 es la heredera directa de la CB500X, renombrada en 2024",
       "NX revive las siglas de la NX650 Dominator de los 90",
-      "Comparte motor con la Rebel 500 y la CB500 Hornet",
+      "Su motor es el mismo que el de la Rebel 500 y la CB500 Hornet",
     ],
     imagen: "/media/motos/honda-nx500-2024-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -269,7 +269,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
       aceiteTipo: "10W-30 (JASO T 903 MA)",
       cadenaPasos: [
-        "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
+        "Limpia la cadena en seco con un trapo y limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
         "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
       ],
@@ -309,7 +309,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     ],
     contras: [
       "Llantas con cámara: un pinchazo en ruta es más engorroso",
-      "210 kg en orden de marcha: pesada para el off-road exigente",
+      "Con 210 kg en orden de marcha, se hace pesada en off-road exigente",
       "91,8 CV no son limitables de forma útil para el A2",
       "La cúpula Durabio de serie es pequeña para viajar",
       "El E-Clutch es opcional y encarece la factura",
@@ -337,9 +337,9 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
       aceiteTipo: "10W-30 (JASO T 903 MA)",
       cadenaPasos: [
-        "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Con un trapo seco, frota la cadena y aplica limpiador específico para cadenas con retenes.",
+        "Engrasa la cadena de la Transalp haciendo rodar a mano la rueda posterior para distribuir el lubricante.",
+        "Verifica la tensión con la moto derecha, ajustándola como dice el manual del propietario.",
       ],
       trucos: [
         "Tras el off-road, limpia a fondo la cadena: el polvo la desgasta el doble.",
@@ -405,8 +405,8 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
       aceiteTipo: "10W-30 (JASO T 903 MA)",
       cadenaPasos: [
-        "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
+        "Limpia la cadena con un paño seco y producto limpiador específico para cadenas con retenes.",
+        "Unta lubricante específico para cadenas y mueve la rueda trasera para repartirlo.",
         "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
       ],
       trucos: [
@@ -447,7 +447,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       "Sin IMU: la electrónica es básica para su precio",
       "196 kg con el E-Clutch: 4 kg más que la 2025 manual",
       "Sin protección aerodinámica en autopista",
-      "El escape de serie suena discreto para una Hornet",
+      "El escape de serie suena comedido para una Hornet",
       "El asiento a 795 mm queda justo para pilotos altos en viajes largos",
     ],
     curiosidades: [
@@ -473,9 +473,9 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
       aceiteTipo: "10W-30 (JASO T 903 MA)",
       cadenaPasos: [
-        "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Pasa un paño seco por la cadena antes del limpiador específico para cadenas con retenes.",
+        "Engrasa con grasa específica para cadenas, girando la rueda trasera para repartirlo.",
+        "Con la Hornet en vertical, comprueba la holgura y ajústala a la medida que indica su manual.",
       ],
       trucos: [
         "El E-Clutch no necesita mantenimiento específico, pero no lo fuerces en parado con marcha metida.",
@@ -509,7 +509,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       "Monocilíndrico eSP+ de 330 cc con 29,2 CV y solo 3,3 l/100 km",
       "TFT de 5\" con RoadSync, llave keyless y USB-C",
       "Cúpula eléctrica regulable y hueco para dos cascos integrales",
-      "Control de tracción HSTC y ABS de serie",
+      "De serie trae control de tracción HSTC y ABS",
     ],
     contras: [
       "186 kg: se nota al moverlo en parado",
@@ -542,7 +542,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       aceiteTipo: "10W-30 (Honda 4-STROKE SCOOTER OIL)",
       cadenaPasos: [],
       trucos: [
-        "Sin cadena: la transmisión por correa no necesita engrase.",
+        "Al no llevar cadena, la transmisión por correa no necesita engrase.",
         "Revisa la correa de transmisión según el plan del manual (desgaste prematuro en ciudad).",
         "El filtro de aire del variador se ensucia rápido en ciudad: revísalo cada 6.000 km.",
       ],
@@ -578,7 +578,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       "Versión limitable a 35 kW: la SP también vale para el A2",
     ],
     contras: [
-      "2.000 € más que la MT-09 estándar por suspensiones y frenos",
+      "Su precio queda unos 2.000 € por arriba del de la MT-09 estándar, por suspensiones y frenos",
       "Asiento a 825 mm y postura comprometida para viajar",
       "Sin control de crucero",
       "El depósito de 14 l limita la autonomía a unos 250 km alegres",
@@ -608,8 +608,8 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       aceiteTipo: "10W-40 Yamalube (JASO MA2)",
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Lubrica con lubricante específico para cadenas y haz girar la rueda trasera para repartirlo.",
+        "Con la moto en posición vertical, verifica la tensión y déjala según indica el manual del propietario.",
       ],
       trucos: [
         "El modo Track de la TFT registra tiempos por vuelta en circuito.",
@@ -675,7 +675,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 Yamalube (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
+        "Frota la cadena con un producto limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
         "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
       ],
@@ -744,7 +744,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       aceiteTipo: "10W-40 Yamalube (JASO MA2)",
       cadenaPasos: [
         "Limpia la cadena tras cada salida con agua a presión moderada y limpiador específico.",
-        "Engrasa con lubricante específico para off-road, que repele el barro.",
+        "Lubrica con grasa específica para off-road, que repele el barro.",
         "Comprueba la tensión con la moto en el caballete y ajusta según el manual.",
       ],
       trucos: [
@@ -811,7 +811,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       intervaloMantenimiento: "Aceite con frecuencia según uso (consultar manual)",
       aceiteTipo: "10W-40 Yamalube (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena tras cada salida con agua a presión moderada y limpiador específico.",
+        "Tras cada salida, limpia la cadena con agua a presión moderada y limpiador específico.",
         "Engrasa con lubricante específico para off-road.",
         "Comprueba la tensión con la moto en el caballete y ajusta según el manual.",
       ],
@@ -857,7 +857,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       "La Y-AMT sube el precio hasta los 8.299 €",
     ],
     curiosidades: [
-      "La MT-07 nació en 2014 y creó el segmento de las naked medias accesibles",
+      "La MT-07 nació en 2014 y creó el segmento de las naked medias asequibles",
       "MT significa Master of Torque: todo gira en torno al par del CP2",
       "Es la moto más vendida de Yamaha en Europa varios años seguidos",
     ],
@@ -879,8 +879,8 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 Yamalube (JASO MA)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
+        "Limpia la cadena usando un limpiador específico para cadenas con retenes.",
+        "Unta la cadena con grasa específica y gira la rueda trasera para repartirla bien.",
         "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
       ],
       trucos: [
@@ -913,20 +913,20 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     pros: [
       "Tricilíndrico CP3 de 119 CV: empuje y sonido en cualquier marcha",
       "Depósito de 19 l con 5 l/100 km: unos 380 km de autonomía",
-      "Electrónica completa: IMU, ABS en curva, control de crucero y quickshifter",
+      "Electrónica completa: IMU, ABS en curva, control de crucero, además de quickshifter",
       "Cúpula regulable, pantalla TFT y conectividad de serie",
       "Asiento regulable en altura (845/860 mm)",
     ],
     contras: [
-      "212 kg en orden de marcha: se notan en parado y en ciudad",
+      "212 kg en marcha: se notan en parado y en ciudad",
       "La gestión de la TFT por menús resulta engorrosa",
       "Sin radar de ángulo muerto ni suspensión electrónica en la base",
       "El escape lateral limita las maletas en algunas configuraciones",
-      "119 CV no son limitables de forma útil para el A2",
+      "Con 119 CV, no se puede limitar de forma útil para el A2",
     ],
     curiosidades: [
       "La Tracer 9 nació como MT-09 Tracer en 2015",
-      "Es la sport-turismo media más vendida de Europa",
+      "Es la sport-turismo de media cilindrada más vendida de Europa",
       "Las versiones GT y GT+ añaden maletas, suspensión electrónica y radar",
     ],
     imagen: "/media/motos/yamaha-tracer-9-2026-ficha-tecnica-precio-hero.webp",
@@ -952,7 +952,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
         "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
       ],
       trucos: [
-        "El control de crucero se activa a partir de 40 km/h: ideal en autopista.",
+        "El control de crucero entra en funcionamiento desde 40 km/h: ideal en autopista.",
         "Con 5 l/100 km y 19 l, calcula repostar cada 350 km con margen.",
       ],
     },

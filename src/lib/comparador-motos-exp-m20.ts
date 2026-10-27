@@ -68,9 +68,9 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
+        "Antes de engrasar, pasa un paño sin humedad impregnado en producto de limpieza para transmisiones con retenes por toda la cadena.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Con la moto recta, mide la holgura correcta de la cadena y corrígela siguiendo el manual del fabricante.",
       ],
       trucos: [
         "Al ser refrigerada por aire, vigila el nivel de aceite con más frecuencia en verano.",
@@ -141,7 +141,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena tras cada salida campera con limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para off-road, que repele el polvo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Con la moto derecha y bien sujeta, mide el juego libre de la cadena y ponlo en su medida siguiendo las instrucciones del libro de usuario.",
       ],
       trucos: [
         "Tras el off-road, limpia el filtro de aire: el polvo lo satura rápido.",
@@ -211,8 +211,8 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Unta la transmisión con lubricante en espray apto para retenes mientras haces rodar despacio la rueda de atrás para que quede bien repartida.",
+        "Verifica que la cadena tenga la holgura correcta con la moto derecha, siguiendo el manual oficial.",
       ],
       trucos: [
         "El modo Rain suaviza la entrega: ideal para rodar con la versión limitada A2.",
@@ -281,9 +281,9 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Quita la grasa vieja de la transmisión con un desengrasante pensado para juntas tóricas y, una vez limpia, déjala secar por completo.",
+        "Engrasa la transmisión con su lubricante habitual mientras mueves la rueda de atrás muy despacio, vuelta a vuelta.",
+        "Antes de salir, mide la tensión de la cadena poniéndola en posición vertical y corrígela como indica el manual.",
       ],
       trucos: [
         "El carenado se desmonta por paneles: no fuerces las pestañas de plástico.",
@@ -354,7 +354,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       cadenaPasos: [
         "La cadena va parcialmente carenada: limpia con trapo y limpiador específico.",
         "Engrasa con lubricante específico para cadenas con retenes.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual.",
+        "Con la moto derecha, comprueba la holgura y ajústala siguiendo las indicaciones del manual.",
       ],
       trucos: [
         "El sistema Ergo-Fit permite cambiar la posición de las estriberas en el conce.",
@@ -423,9 +423,9 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Pasa un trapo con limpiador de cadenas por toda la cadena antes de engrasarla de nuevo.",
+        "Engrasa la cadena con lubricante para cadenas selladas, girando la rueda trasera con la mano.",
+        "Con la moto erguida, revisa la tensión de la cadena y ajústala conforme al manual del propietario.",
       ],
       trucos: [
         "El faro redondo LED admite bombillas auxiliares sin romper la estética.",
@@ -494,9 +494,9 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Quita la grasa vieja de la cadena con un producto específico para transmisiones con retenes.",
+        "Reparte lubricante específico por la cadena girando la rueda trasera hasta cubrir todos los eslabones.",
+        "Revisa el juego libre de la transmisión estando la moto en posición erguida y déjalo ajustado conforme a lo que dice el fabricante.",
       ],
       trucos: [
         "El control de tracción se puede desconectar para circuito.",
@@ -565,9 +565,9 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Limpia a fondo la cadena con limpiador en espray para cadenas selladas y déjala secar.",
+        "Aplica lubricante para cadenas con retenes sobre la cadena mientras mueves la rueda trasera.",
+        "Con la moto recta, mide la tensión de la cadena y ajústala siguiendo el manual del propietario.",
       ],
       trucos: [
         "La app Rideology muestra notificaciones y registro de rutas en la LCD.",
@@ -636,9 +636,9 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Elimina la suciedad pegada a la transmisión con producto de limpieza adecuado para cadenas con juntas.",
+        "Lubrica la cadena eslabón a eslabón con lubricante específico, girando la rueda trasera despacio.",
+        "Con la moto apoyada verticalmente, comprueba la holgura de la cadena y corrígela según el manual.",
       ],
       trucos: [
         "Con 12 l de depósito, reposta cada 250 km para no apurar la reserva.",
@@ -670,7 +670,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     pros: [
       "La trail asfáltica de referencia: cómoda, lógica y probadísima",
       "Bicilíndrico de 649 cc con 67 CV: empuje suficiente y consumo contenido",
-      "Pantalla TFT de 4,3\" con conectividad y control de tracción",
+      "Instrumentación TFT de 4,3 pulgadas que incluye conectividad y control de tracción",
       "Limitable a 35 kW: trail grande para el A2",
       "Amplio catálogo de maletas y accesorios de viaje",
     ],
@@ -707,9 +707,9 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Frota la cadena con un cepillo y limpiador específico para cadenas selladas hasta dejarla limpia.",
+        "Aplica grasa específica sobre la transmisión mientras giras poco a poco la rueda de atrás para dejarla bien impregnada.",
+        "Verifica que la tensión de la cadena sea correcta con la moto derecha y ajústala como indica el manual oficial.",
       ],
       trucos: [
         "La precarga del amortiguador se regula con un mando remoto: ajústala con carga.",
@@ -848,7 +848,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       aceiteTipo: "10W-40 (Suzuki ECSTAR scooter)",
       cadenaPasos: [],
       trucos: [
-        "Sin cadena: la transmisión por correa no necesita engrase.",
+        "Al llevar correa en vez de cadena, la transmisión no necesita ningún engrase.",
         "Con 1,9 l/100 km y 5 l, reposta cada 200 km para no apurar.",
         "El caballete central facilita la limpieza y el mantenimiento.",
       ],
@@ -915,9 +915,9 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Aplica limpiador en espray sobre la cadena, apto para cadenas con retenes, y pasa un trapo.",
+        "Pulveriza lubricante específico sobre la cadena girando la rueda trasera para que penetre bien.",
+        "Mide la holgura, con la moto ya en posición recta, y corrígela según el manual.",
       ],
       trucos: [
         "El V-twin es de bajo mantenimiento: reglaje de válvulas cada 24.000 km.",
@@ -986,9 +986,9 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Retira la grasa acumulada en la transmisión con limpiador para cadenas con juntas tóricas antes de engrasar de nuevo.",
+        "Aplica lubricante específico para cadenas con juntas tóricas girando la rueda trasera varias vueltas.",
+        "Con la moto vertical, revisa la holgura de la cadena y déjala ajustada según el manual del fabricante.",
       ],
       trucos: [
         "Los semimanillares admiten contrapesos más pesados para reducir vibraciones.",
@@ -1057,9 +1057,9 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Pasa limpiador específico por toda la cadena y retira la grasa vieja con un trapo limpio.",
+        "Lubrica la cadena con lubricante en espray específico, girando la rueda trasera para repartirlo uniformemente.",
+        "Comprueba que la tensión de la cadena sea la adecuada con la moto erguida y corrígela conforme al manual oficial.",
       ],
       trucos: [
         "La suspensión electrónica no necesita reglajes manuales: elige el modo y listo.",
@@ -1129,7 +1129,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       aceiteTipo: "10W-40 (Suzuki ECSTAR scooter)",
       cadenaPasos: [],
       trucos: [
-        "Sin cadena: la transmisión por correa no necesita engrase.",
+        "Como la transmisión es por correa y no por cadena, no hay que engrasarla nunca.",
         "El sistema Easy Start arranca con una sola pulsación.",
         "Revisa la presión de los neumáticos cada dos semanas: son estrechos.",
       ],
@@ -1197,7 +1197,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       aceiteTipo: "10W-40 (Suzuki ECSTAR scooter)",
       cadenaPasos: [],
       trucos: [
-        "Sin cadena: la transmisión por correa no necesita engrase.",
+        "Sin cadena que lubricar, la transmisión por correa funciona sin necesidad de engrase.",
         "La toma USB bajo el manillar carga el móvil en marcha.",
         "El arranque silencioso no usa motor de arranque convencional: no lo fuerces.",
       ],
@@ -1264,9 +1264,9 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena tras cada salida campera con limpiador específico.",
+        "Después de cada ruta campera, limpia la cadena con limpiador específico y sécala bien.",
         "Engrasa con lubricante específico para off-road.",
-        "Comprueba la tensión con la moto en el caballete y ajusta según el manual.",
+        "Sube la moto al caballete central, mide la tensión de la cadena y corrígela siguiendo las indicaciones del manual.",
       ],
       trucos: [
         "Las llantas de radios llevan cámara: lleva kit de reparación en ruta.",
@@ -1335,9 +1335,9 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Cepilla la cadena con producto desengrasante para cadenas con retenes y retira la suciedad.",
+        "Lubrica la transmisión con producto para cadenas selladas moviendo la rueda de atrás a mano, sin prisas.",
+        "Con la moto apoyada en vertical, mide su holgura y ajústala como dice el manual.",
       ],
       trucos: [
         "El motor agradece el aceite 10W-40 de calidad: gira muy alto.",
@@ -1369,7 +1369,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     pros: [
       "La versión asfáltica de la 800DE: llantas de palos y tubeless",
       "Bicilíndrico de 776 cc con 83 CV: el mejor twin medio de Suzuki",
-      "Limitable a 35 kW: trail grande para el A2",
+      "Limitable a 35 kW, un trail grande apto para el A2",
       "Electrónica completa: modos, control de tracción, quickshifter y ABS",
       "Asiento a 825 mm: accesible para una trail de 800",
     ],
@@ -1406,9 +1406,9 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Limpia la cadena frotando con limpiador específico y un trapo para quitar toda la suciedad acumulada.",
+        "Reparte el lubricante específico por toda la cadena mientras giras la rueda trasera lentamente.",
+        "Comprueba que el juego de la transmisión sea el adecuado con la moto en posición recta y corrígelo atendiendo al manual del propietario.",
       ],
       trucos: [
         "El quickshifter bidireccional funciona mejor por encima de 3.000 rpm.",

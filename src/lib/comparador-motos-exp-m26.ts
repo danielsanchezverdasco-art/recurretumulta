@@ -120,7 +120,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "140-145 km/h de punta: justa en autovía con viento en contra",
       "La versión Fun monta pantalla LCD monocroma; la TFT de 5 pulgadas solo está en la High",
       "Depósito de 12,5 L: la autonomía obliga a repostar a menudo",
-      "El monocilíndrico vibra en la zona alta del cuentavueltas",
+      "El monocilíndrico transmite vibraciones cuando el cuentavueltas sube a la zona alta",
       "Asiento del pasajero pequeño y sin asideros",
     ],
     curiosidades: [
@@ -204,7 +204,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "Menos potente que rivales como la KTM Duke 390",
       "Suspensiones algo blandas para una conducción muy deportiva",
       "Velocidad máxima en torno a 139 km/h: justa para autopista",
-      "Valor de reventa inferior al de las marcas japonesas",
+      "Su reventa en segunda mano queda por debajo de la de las marcas japonesas",
       "Sin control de tracción ni cambio rápido",
     ],
     curiosidades: [
@@ -367,7 +367,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "Disponible limitada para el carnet A2",
     ],
     contras: [
-      "206 kg en orden de marcha: pesada para su potencia",
+      "206 kg en orden de marcha: demasiado peso para su potencia",
       "Diseño continuista: la generación actual data de 2021",
       "Sin modos de conducción ni centralita inercial (IMU)",
       "Asiento a 780 mm, pero es una moto ancha y no tan accesible como parece",
@@ -528,17 +528,17 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     pros: [
       "Tetracilíndrico de 921 cc con 127,8 CV: la naked más potente de QJMotor",
       "Parte ciclo de primer nivel: Marzocchi multirregulable y Brembo Stylema",
-      "Electrónica completa con IMU de 6 ejes y ABS en curva de Bosch",
+      "Electrónica completa con IMU de 6 ejes y ABS de Bosch en curva",
       "Quickshifter bidireccional, control de crucero y control de tracción de serie",
       "Pantalla TFT de 5 pulgadas con mirroring y conectividad Bluetooth",
       "Garantía oficial de 6 años o 75.000 km",
     ],
     contras: [
       "Precio en España aún no publicado: solo se puede solicitar la reserva",
-      "215 kg en orden de marcha: pesada para una naked",
+      "215 kg en orden de marcha: mucho peso para una naked",
       "Asiento a 835 mm, algo alto para pilotos de menor estatura",
       "Depósito de 16 litros, justo para una tetracilíndrica de 128 CV",
-      "Red de concesionarios aún en crecimiento frente a las japonesas",
+      "La red de concesionarios todavía crece frente a las marcas japonesas",
     ],
     curiosidades: [
       "Es la naked derivada de la deportiva SRK 921 RR, que declara 128 CV",
@@ -614,10 +614,10 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "Frenos Brembo con pinzas radiales y suspensiones Marzocchi",
       "Pantalla TFT de 7 pulgadas con mirroring para el móvil",
       "Depósito de 24 litros para grandes autonomías",
-      "Garantía oficial de 6 años o 75.000 km",
+      "Cobertura oficial de 6 años o 75.000 km",
     ],
     contras: [
-      "257 kg en orden de marcha: hay que moverla con decisión en parado",
+      "257 kg en orden de marcha: en parado hay que moverla con decisión",
       "Precio de 8.699 €, ya en territorio de rivales japonesas",
       "El radar ADAS encarece y complica la electrónica",
       "Consumo acorde a su potencia y peso en uso exigente",
@@ -783,7 +783,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "Precio de 5.299 € con garantía de 6 años",
     ],
     contras: [
-      "47 CV se quedan justos en autopista con pasajero y equipaje",
+      "47 CV se quedan justos en autopista con acompañante y maletas",
       "Asiento a 865 mm, solo para pilotos con estatura",
       "196 kg para una 450 trail: no es una enduro ligera",
       "El parabrisas protege poco a ritmo alto",
@@ -942,7 +942,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     aprox: [],
     pros: [
       "Precio en promoción de 6.299 € (antes 7.499 €) con kit de 3 maletas gratis",
-      "Bicilíndrico de 698 cc y 73,5 CV, limitable a 35 kW para el A2",
+      "Bicilíndrico de 698 cc y 73,5 CV, con posibilidad de limitarse a 35 kW para el carnet A2",
       "Frenos Brembo y suspensiones Marzocchi multirregulables",
       "Llantas de radios con Metzeler Tourance para uso mixto",
       "Puños y asiento calefactables, defensas y caballete central de serie",
@@ -1122,7 +1122,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "Sin quickshifter ni electrónica avanzada",
     ],
     curiosidades: [
-      "Su motor entrega 12,1 Nm de par a 7.000 rpm",
+      "Su motor entrega un par de 12,1 Nm a 7.000 rpm",
       "El depósito de 12,5 litros es generoso para una 125 deportiva",
       "El asiento está a 785 mm, bajo para su segmento",
       "Comparte la base mecánica con la naked SRK 125S",
@@ -1208,7 +1208,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "Se ofrece en dos versiones: COV 125 S (supermotard) y COV 125 X (enduro)",
       "Su motor SOHC de 4 válvulas entrega 12,1 Nm a 7.000 rpm",
       "El ABS es el sistema SAFE SF20D de Bosch",
-      "Pesa 121 kg en vacío, una de las 125 más ligeras del mercado",
+      "Pesa 121 kg en vacío, entre las 125 más ligeras de todo el mercado",
     ],
     imagen: "/media/qjmotor-cov-125-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -1454,7 +1454,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "Disponibilidad inicial limitada tras su debut en EICMA 2025",
     ],
     curiosidades: [
-      "Se presentó en el EICMA de Milán de 2025 como novedad 2026",
+      "Se dio a conocer en el EICMA de Milán de 2025 como novedad 2026",
       "Es el primer 125 de Voge con motor de 4 válvulas y refrigeración líquida",
       "Integra el motor de arranque en el alternador para un arranque más suave",
       "El asiento está a 775 mm y el depósito es de 9 litros",
@@ -1610,7 +1610,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     contras: [
       "Depósito de 12 litros, justo frente a los 16 del 125E",
       "Zontes no publica consumos oficiales verificables",
-      "Red de servicio más limitada que las marcas japonesas",
+      "Su red de servicio aún no alcanza a la de las marcas japonesas",
       "Mayor depreciación en el mercado de ocasión",
       "El baúl de serie eleva el centro de gravedad con carga",
     ],
@@ -1765,7 +1765,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "Red de concesionarios pequeña frente a las marcas establecidas",
       "Componentes de ciclo de origen no premium confirmado",
       "Reventa con mayor depreciación que las naked japonesas",
-      "Al ser un modelo nuevo, la fiabilidad a largo plazo está por demostrar",
+      "Al ser un modelo nuevo, su fiabilidad a largo plazo aún está por demostrar",
     ],
     curiosidades: [
       "Es el primer motor tricilíndrico desarrollado por Zontes",
@@ -1970,7 +1970,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "V-twin de 476 cc con 47 CV: justo el límite del A2, sin necesidad de limitar",
+      "V-twin de 476 cc con 47 CV que roza el techo del A2 sin necesidad de limitarlo",
       "Transmisión final por correa: cero mantenimiento frente a la cadena",
       "198 kg, ligera para ser una custom bicilíndrica",
       "Biplaza homologada, con sitio real para el acompañante",
@@ -2188,7 +2188,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "129 km/h de velocidad máxima",
       "195 kg para 34 CV: justita de prestaciones",
       "Precio de 6.290 €, alto para una 350 automática",
-      "Red de servicio Benda aún limitada en España",
+      "La red de asistencia Benda en España todavía está creciendo",
     ],
     curiosidades: [
       "Es una de las poquísimas customs con cambio automático CVT del mercado",
@@ -2254,14 +2254,14 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     ],
     contras: [
       "260 kg: muy pesada para 47 CV",
-      "129 km/h de velocidad máxima, justa para viajar",
+      "Velocidad máxima de 129 km/h, justa para viajar",
       "Consumo de 5,9 l/100 km, alto para una 500",
       "Precio de 8.790 €, en zona de customs japonesas",
       "El V4 promete un mantenimiento más complejo y caro",
     ],
     curiosidades: [
       "Su V4 de medio litro es una configuración casi extinta en motos nuevas",
-      "Benda ofrece 5 años de garantía, el doble que la mayoría de marcas",
+      "Benda ofrece 5 años de garantía: el doble que la mayoría, con garantía el doble que la mayoría de marcas",
       "El nombre Darkflag juega con la estética oscura y rebelde",
     ],
     imagen: "/media/benda-darkflag-500-2026-ficha-tecnica-precio-oficial.webp",
@@ -2391,7 +2391,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "Faro LED redondo y cuadro digital con acabado en negro",
     ],
     contras: [
-      "No se comercializa en España: solo disponible en México (precio estimado convertido de la tarifa oficial mexicana)",
+      "En España no se vende: solo está disponible en México y el precio es una estimación convertida de la tarifa oficial mexicana",
       "30 CV justos para una custom de 177 kg",
       "Sin red de servicio oficial en Europa",
       "Estética muy de nicho: o te encanta o no es tu moto",
@@ -2598,7 +2598,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     ],
     contras: [
       "No se vende oficialmente en España: importarlo complica matriculación y repuestos",
-      "130 kg en orden de marcha: pesado para un scooter de 150",
+      "130 kilogramos en orden de marcha: pesado para un scooter de 150",
       "110 km/h de punta: justo para vías rápidas",
       "El ABS es opcional según mercado, no de serie en todas las versiones",
       "Red de servicio inexistente en Europa",
@@ -2670,7 +2670,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "Carenado y ergonomía sport-turismo: no es una R pura ni una naked cómoda",
       "150 kg para 17 CV: la relación peso-potencia limita las prestaciones",
       "Electrónica básica: sin modos de conducción ni control de tracción",
-      "Valor de reventa bajo fuera de sus mercados principales",
+      "Su reventa vale poco fuera de sus mercados principales",
     ],
     curiosidades: [
       "Pertenece a la serie KP que ha ganado 17 de 18 campeonatos CRRC en China desde 2012",
@@ -3021,7 +3021,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "La versión 4V eleva la compresión a 11,5:1 frente al 11:1 de la KPR200",
       "Su motor entrega 17,5 Nm a 7.500 rpm, con entrega pensada para medios",
       "El distribuidor peruano Somos Moto ya lista la KPS200 EFI 2026",
-      "Es la naked de acceso a la gama KP de cuatro válvulas",
+      "Es la naked de entrada a la gama KP, con cuatro válvulas",
       "Su escape elevado con protector de aluminio le da aire de streetfighter",
     ],
     imagen: "/media/lifan-kps200-2025-oficial.webp",
@@ -3292,7 +3292,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "Precio contenido: unos 2.100 USD en mercados asiáticos",
     ],
     contras: [
-      "Sin distribución oficial en España ni en Europa",
+      "Sin distribución oficial ni en España ni en Europa",
       "110 km/h de punta: corta para autopista",
       "Suspensión básica que limita en caminos rotos",
       "Sin ABS ni electrónica avanzada",
@@ -3579,7 +3579,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: ["autonomiaKm"],
     pros: [
-      "Prestaciones de superbike: 0-100 km/h en 2,8 s y 200 km/h de punta",
+      "Prestaciones de superbike: el 0-100 km/h le lleva 2,8 s y su punta es de 200 km/h",
       "Batería de 16,9 kWh con 300 km de autonomía declarada",
       "Carga rápida DC en 30 minutos, como un coche eléctrico",
       "Radar de ángulo muerto, control de crucero adaptativo y cámaras 360",
@@ -3898,7 +3898,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     curiosidades: [
       "El distribuidor francés Moto Super Soco lo vende como la puerta de entrada a Vmoto",
       "Su batería de 60 V y 43 Ah es un 43 % mayor que la del CUx estándar",
-      "Homologación L1e-B: se conduce con el AM desde los 15 años",
+      "Homologación L1e-B: basta el AM desde los 15 años para llevarla",
       "El importador británico lo anuncia con entrega gratuita en 40 millas",
       "Comparte plataforma con el CUx pero con electrónica actualizada",
     ],
