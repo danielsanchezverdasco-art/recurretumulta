@@ -2435,4 +2435,8 @@ he terminado. Todo queda en la rama merlin-unicidad-2610 @c25bc3fe con la medici
 
 - Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
 - Fichero src/lib/blog-posts-autocaravanas-lote125-g02.ts, 106.607 bytes.
-- Frase reescrita (copia de lote125.ts): adria-matrix-plus-670-sl («queda dentro de lo que autoriza el carnet B»). Verificación global local con ficheros sustituidos (verificar-fix.py, método v5, unión por slug): PASA 0/0 en todas las entradas cambiadas; solo prosa reescrita, cifras/URLs/tablas/imágenes intactos; sin datos inventados. Verificación global final sobre la cabeza pusheada pendiente tras la serie.
+- Frase reescrita (copia de lote125.ts): adria-matrix-plus-670-sl («queda dentro de lo que autoriza el carnet B»). Verificación global local con ficheros sustituidos (verificar-fix.py, método v5, unión por slug): PASA 0/0 en todas las entradas cambiadas; solo prosa reescrita, cifras/URLs/tablas/imágenes intactos; sin datos inventados. Verificación global final sobre la cabeza pusheada pendiente tras la serie.## Corrección dedupe FIX — lote125-g06
+
+- Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
+- Fichero src/lib/blog-posts-autocaravanas-lote125-g06.ts, 110.473 bytes.
+- Bloque reescrito: globecar-globescout-plus, mantenimiento («cuando el cuentakilómetros marca 40.000 km, con cambio de aceite y filtros más una inspección completa, por un precio rondando los 350 €. La célula requiere, por su parte, su revisión anual recomendada —humedades, estanqueidad, gas y electricidad— por unos 250 € aproximados»); cifras 40.000 km, 350 € y 250 € intactas. Verificación global local con ficheros sustituidos (verificar-fix.py, método v5, unión por slug): PASA 0/0 en todas las entradas cambiadas; solo prosa reescrita, cifras/URLs/tablas/imágenes intactos; sin datos inventados. Verificación global final sobre la cabeza pusheada pendiente tras la serie.
