@@ -430,7 +430,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     mantenimientoDIY: null,
     planMantenimiento:     {
       costeAnualAproxEur: null,
-      fuente: "QJMotor España: hacer las revisiones programadas en la red oficial es obligatorio para mantener la garantía",
+      fuente: "Fuente QJMotor España: mantener la garantía exige hacer las revisiones en talleres oficiales de la marca",
       intervalo: "Revisiones programadas en concesionarios oficiales QJMotor: obligatorias durante los 6 años de garantía, con límite de 50.000 km",
       revisiones: [
         {
@@ -514,8 +514,8 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     mantenimientoDIY: null,
     planMantenimiento:     {
       costeAnualAproxEur: null,
-      fuente: "QJMotor España: las revisiones programadas en la red oficial son obligatorias para mantener la garantía",
-      intervalo: "Pasar las revisiones programadas en la red oficial QJMotor es obligatorio para los 6 años de garantía, hasta 50.000 km",
+      fuente: "QJMotor España indica que la garantía se conserva solo si las revisiones se hacen en su red oficial",
+      intervalo: "Hay que pasar las revisiones en la red oficial QJMotor para conservar 6 años de garantía, con un máximo de 50.000 km",
       revisiones: [
         {
           costeAproxEur: null,
@@ -598,8 +598,8 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     mantenimientoDIY: null,
     planMantenimiento:     {
       costeAnualAproxEur: null,
-      fuente: "QJMotor España: las revisiones programadas deben hacerse en la red oficial para mantener la garantía",
-      intervalo: "Las revisiones programadas deben hacerse en concesionarios oficiales QJMotor para mantener los 6 años de garantía, con tope de 50.000 km",
+      fuente: "Según QJMotor España, las revisiones programadas han de realizarse en la red oficial para no perder la garantía",
+      intervalo: "La garantía de 6 años, hasta 50.000 km, queda condicionada a realizar las revisiones programadas en concesionarios oficiales QJMotor",
       revisiones: [
         {
           costeAproxEur: null,
@@ -1215,7 +1215,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
         {
           costeAproxEur: null,
           nombre: "Frenos y neumaticos",
-          queSeCambia: "Pastillas y neumáticos mixtos 110/80-14 y 130/70-13, que se sustituyen si el desgaste lo pide",
+          queSeCambia: "El mantenimiento incluye pastillas y cubiertas de uso mixto en medidas 110/80-14 y 130/70-13, sustituibles cuando el desgaste lo requiera",
         },
       ],
     },
@@ -2989,7 +2989,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "benelli-bn-125-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Benelli España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Benelli España no difundía un calendario oficial de mantenimiento al consultarlo el 11/10/2026; conviene pasar una revisión cada año en un taller oficial de la marca",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3068,7 +3068,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "benelli-tornado-naked-t-125-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Benelli España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
+      intervalo: "A 11/10/2026 no constaba programa oficial de revisiones de Benelli España, así que lo prudente es una inspección anual en el servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3150,7 +3150,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "ktm-rc-125-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por KTM España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
+      intervalo: "KTM España, consultada el 11/10/2026, no tenía publicado ningún plan oficial de mantenimiento; se sugiere una visita anual al taller oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3231,7 +3231,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "aprilia-tuono-125-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Aprilia España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
+      intervalo: "No hay plan de mantenimiento oficial publicado por Aprilia España —comprobado el 11/10/2026—, por lo que resulta aconsejable revisar la moto una vez al año en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3312,7 +3312,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "honda-cb300r-2025",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Honda España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
+      intervalo: "El 11/10/2026 Honda España no ofrecía un programa oficial de revisiones publicado; conviene acudir anualmente a un concesionario oficial para una inspección",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3391,7 +3391,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "zontes-125g1-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Zontes España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
+      intervalo: "Zontes España no publicaba calendario oficial de mantenimiento en la consulta del 11/10/2026; lo recomendable es un control anual en taller oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3472,7 +3472,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "zontes-350r-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Zontes España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
+      intervalo: "Consultada el 11/10/2026, Zontes España carecía de programa oficial de revisiones difundido; se recomienda una revisión anual en el servicio oficial de la marca",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3553,7 +3553,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "zontes-125z2-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Zontes España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
+      intervalo: "Para Zontes España no existía un plan oficial de mantenimiento publicado a 11/10/2026; lo sensato es pasar por el servicio oficial una vez cada año",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3632,7 +3632,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "cfmoto-125nk-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por CFMOTO España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
+      intervalo: "CFMOTO España, a fecha 11/10/2026, no había publicado su programa oficial de mantenimiento; conviene una inspección cada doce meses en taller oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3713,7 +3713,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "voge-r125-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Voge España; se aconseja inspección anual en servicio oficial (consultado 11/10/2026) en esta revisión",
+      intervalo: "Voge España no contaba con programa oficial publicado cuando se consultó el 11/10/2026; en esta revisión se sugiere la inspección anual en un servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3792,7 +3792,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "qjmotor-srk-125-s-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por QJMotor España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
+      intervalo: "QJMotor España no tenía programa oficial de mantenimiento publicado el 11/10/2026; lo aconsejable es una revisión anual en la red oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3873,7 +3873,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "voge-125r-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Voge España no ha publicado programa oficial (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
+      intervalo: "A 11/10/2026 Voge España no difundía ningún calendario oficial de revisiones; conviene llevar la moto al taller oficial una vez al año",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3952,7 +3952,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "voge-300ac-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial de Voge España (consultado 11/10/2026); se aconseja la inspección anual en servicio oficial",
+      intervalo: "No constaba programa oficial de Voge España en la consulta del 11/10/2026; se sugiere pasar una inspección anual por el servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -4031,7 +4031,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "voge-500ac-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Voge España no ha publicado programa oficial alguno; se aconseja inspección anual en servicio oficial (consultado 11/10/2026)",
+      intervalo: "Voge España no había difundido programa oficial alguno al revisarse el 11/10/2026; lo prudente es una visita anual a un taller oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -4112,7 +4112,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "husqvarna-vitpilen-125-2025",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Husqvarna España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
+      intervalo: "Husqvarna España no publicaba un plan oficial de mantenimiento el 11/10/2026; se recomienda acudir cada año al servicio oficial para una revisión",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -4191,7 +4191,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "brixton-crossfire-125-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Brixton España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
+      intervalo: "Brixton España, consultada el 11/10/2026, no ofrecía calendario oficial de mantenimiento publicado; conviene una revisión anual en taller oficial de la marca",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -4270,7 +4270,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "brixton-cromwell-125-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Brixton España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
+      intervalo: "El 11/10/2026 no había programa oficial de revisiones publicado por Brixton España; lo recomendable es pasar una inspección anual por un servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -4349,7 +4349,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "brixton-cromwell-250-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Brixton España (consultado 11/10/2026); se aconseja inspección anual en servicio oficial",
+      intervalo: "Para Brixton España no constaba plan oficial de mantenimiento difundido a 11/10/2026; se sugiere un control anual en un taller oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -4430,7 +4430,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "keeway-rkf-125-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Keeway España; se aconseja inspección anual en servicio oficial (consultado 11/10/2026)",
+      intervalo: "Keeway España no tenía publicado programa oficial de mantenimiento —consulta del 11/10/2026—; lo sensato es revisar la moto anualmente en el servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -6166,7 +6166,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "triumph-street-triple-765-r-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Cada 16.000 km o al cabo de un año, lo que llegue antes, según el plan de Triumph",
+      intervalo: "Intervalo Triumph: revisión cada 16.000 km o cada doce meses, lo primero que se cumpla",
       revisiones: [
         {
           nombre: "Revisión 16.000 km / anual",
