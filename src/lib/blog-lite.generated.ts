@@ -17577,7 +17577,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "omoda-9-shs-2025-precio-ficha-tecnica",
     "title": "Omoda 9 SHS: 537 CV, 145 km EV",
-    "excerpt": "Precio y ficha del Omoda 9 SHS 2025: SUV híbrido enchufable con 537 CV, 145 km eléctricos, 5 estrellas Euro NCAP. Desde 39.900 €.",
+    "excerpt": "Precio y ficha del Omoda 9 SHS 2025: SUV híbrido enchufable con 537 CV, 145 km eléctricos, 5 estrellas Euro NCAP. Tarifa oficial de 52.900 €; la marca anuncia 40.270 € con la campaña de octubre.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
