@@ -75,7 +75,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     analisisSlug: "royal-enfield-classic-350-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Primera revisión a los 500 km; después cada 10.000 km o 12 meses",
-      aceiteTipo: "SAE 15W-50 API SL JASO MA2 de base semisintética (1,7 L; 2,2 L en seco)",
+      aceiteTipo: "SAE 15W-50 API SL JASO MA2 semisintético (1,7 L; 2,2 L en seco)",
       cadenaPasos: [
         "Limpia y engrasa la cadena cada 1.000 km con producto específico para cadenas",
         "Comprueba la tensión de la cadena y ajústala con los tensores del basculante, moviéndolos por igual a ambos lados",
@@ -154,8 +154,8 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "https://soymotero.net/motos/royal-enfield/guerrilla-450-2025/",
     analisisSlug: "royal-enfield-guerrilla-450-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Revisión inicial a los 500 kilómetros; a continuación cada 10.000 km o 12 meses",
-      aceiteTipo: "10W-40 API SN JASO MA2 de base semisintética (2,1 L con filtro)",
+      intervaloMantenimiento: "Primera revisión a los 500 km; después cada 10.000 km o 12 meses",
+      aceiteTipo: "10W-40 API SN JASO MA2 semisintético (2,1 L con filtro)",
       cadenaPasos: [
         "Limpia, engrasa y comprueba la tensión de la cadena cada 500 km",
         "Regula la tensión con los tensores del basculante, moviéndolos de forma simétrica a ambos lados",
@@ -232,8 +232,8 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/royal-enfield",
     analisisSlug: "royal-enfield-hunter-350-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 500 km; posteriormente cada 10.000 km o 12 meses",
-      aceiteTipo: "SAE 15W-50 API SL JASO MA2 semisintético (1,7 litros; 2,2 litros en seco)",
+      intervaloMantenimiento: "Primera revisión a los 500 km; después cada 10.000 km o 12 meses",
+      aceiteTipo: "SAE 15W-50 API SL JASO MA2 semisintético (1,7 L; 2,2 L en seco)",
       cadenaPasos: [
         "Limpia y lubrica la cadena cada 1.000 kilómetros con un producto especial para cadenas",
         "Verifica la tensión de la cadena y ajústala con los tensores del basculante, moviéndolos por igual a ambos lados",
@@ -311,8 +311,8 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/royal-enfield",
     analisisSlug: "royal-enfield-meteor-350-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 500 kilómetros; luego cada 10.000 km o 12 meses",
-      aceiteTipo: "SAE de base semisintética 15W-50 API SL JASO MA2 (1,7 litros; 2,2 L en seco)",
+      intervaloMantenimiento: "Primera revisión a los 500 km; después cada 10.000 km o 12 meses",
+      aceiteTipo: "SAE 15W-50 API SL JASO MA2 semisintético (1,7 L; 2,2 L en seco)",
       cadenaPasos: [
         "Engrasa y limpia la cadena cada 1.000 kilómetros con producto específico para cadenas",
         "Comprueba la tensión de la cadena y regúlala con los tensores del basculante, moviéndolos por igual a ambos lados",
@@ -390,8 +390,8 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "https://www.royalenfield.com/es/es/motorcycles/himalayan/",
     analisisSlug: "royal-enfield-himalayan-450-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 500 kilómetros; después cada 10.000 kilómetros o 12 meses",
-      aceiteTipo: "JASO MA2 API SN 10W-40 semisintético (2,1 litros con filtro)",
+      intervaloMantenimiento: "Primera revisión a los 500 km; después cada 10.000 km o 12 meses",
+      aceiteTipo: "10W-40 API SN JASO MA2 semisintético (2,1 L con filtro)",
       cadenaPasos: [
         "Limpia, lubrica y controla la tensión de la cadena cada 500 kilómetros",
         "Ajusta la tensión con los tensores del basculante, desplazándolos por igual en ambos lados",
@@ -399,7 +399,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
       ],
       trucos: [
         "Nivel de aceite: compruébalo con frecuencia entre revisiones",
-        "Presión de neumáticos: revísala en frío cada 14 días con el valor del manual",
+        "Presión de neumáticos: revísala en frío cada dos semanas con el valor del manual",
       ],
     },
   },
@@ -544,7 +544,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: "harley-davidson-breakout-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.600 kilómetros; posteriormente cada 8.000 km",
+      intervaloMantenimiento: "Primera revisión a los 1.600 km; después cada 8.000 km",
       trucos: [
         "Aceite y filtro: cambio en cada servicio (cada 8.000 km)",
         "Bujías: sustitución cada 16.000 kilómetros",
@@ -619,7 +619,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: "harley-davidson-heritage-classic-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.600 km; a continuación cada 8.000 km",
+      intervaloMantenimiento: "Primera revisión a los 1.600 km; después cada 8.000 km",
       trucos: [
         "Aceite y filtro: reemplazo en cada puesta a punto (cada 8.000 kilómetros recorridos)",
         "Bujías: cambio cada 16.000 kilómetros",
@@ -694,7 +694,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: "harley-davidson-street-glide-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.600 kilómetros; luego cada 8.000 km",
+      intervaloMantenimiento: "Primera revisión a los 1.600 km; después cada 8.000 km",
       trucos: [
         "Aceite y filtro: sustitución en cada mantenimiento (cada 8.000 km)",
         "Bujías: reemplazo cada 16.000 km",
@@ -769,10 +769,10 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: "harley-davidson-fat-boy-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.600 kilómetros; después cada 8.000 kilómetros",
+      intervaloMantenimiento: "Primera revisión a los 1.600 km; después cada 8.000 km",
       trucos: [
         "Aceite y filtro: cambio en cada revisión (cada 8.000 kilómetros)",
-        "Bujías: cambio cada 16.000 km (con regularidad)",
+        "Bujías: sustitución cada 16.000 km",
         "Aceite para la caja primaria: cada 16.000 kilómetros; aceite de la transmisión: cada 32.000 kilómetros",
         "Transmisión por correa: no necesita lubricación; controla su tensión y estado en cada mantenimiento",
         "Presión de los neumáticos: veríficala en frío; la presión indicada aparece en la etiqueta del basculante y en la documentación",
@@ -845,8 +845,8 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "https://www.indianmotorcycle.es/scout-bobber/",
     analisisSlug: "indian-scout-bobber-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 16.000 kilómetros (10.000 millas)",
-      aceiteTipo: "15W-60 completamente sintético (kit oficial de cambio de aceite Indian)",
+      intervaloMantenimiento: "Cada 16.000 km (10.000 millas)",
+      aceiteTipo: "15W-60 totalmente sintético (kit oficial de cambio de aceite Indian)",
       trucos: [
         "Transmisión por correa: sin mantenimiento de lubricación; revisa tensión y estado en cada revisión",
         "Presión de neumáticos: revísala en frío; el valor exacto está en el manual del propietario",
@@ -919,8 +919,8 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "http://www.indianmotorcycle.es/scout-family/",
     analisisSlug: "indian-sport-scout-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 10.000 millas (16.000 km)",
-      aceiteTipo: "15W-60 totalmente de síntesis (kit oficial de cambio de aceite Indian)",
+      intervaloMantenimiento: "Cada 16.000 km (10.000 millas)",
+      aceiteTipo: "15W-60 totalmente sintético (kit oficial de cambio de aceite Indian)",
       trucos: [
         "Revisa tensión y estado en cada revisión; Transmisión a correa: sin necesidad de lubricación",
         "Presión de neumáticos: revísala en frío; el valor exacto está en el manual del propietario",
@@ -993,8 +993,8 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "http://www.indianmotorcycle.es/scout-family/",
     analisisSlug: "indian-scout-classic-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Intervalo: cada 16.000 km (10.000 millas)",
-      aceiteTipo: "15W-60 completamente de síntesis (kit oficial de sustitución de aceite Indian)",
+      intervaloMantenimiento: "Cada 16.000 km (10.000 millas)",
+      aceiteTipo: "15W-60 totalmente sintético (kit oficial de cambio de aceite Indian)",
       trucos: [
         "Transmisión mediante correa: sin mantenimiento de lubricación; comprueba tensión y estado en cada revisión",
         "Presión de neumáticos: revísala en frío; el valor exacto está en el manual del propietario",
@@ -1067,8 +1067,8 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "http://www.indianmotorcycle.es/101-scout/",
     analisisSlug: "indian-101-scout-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 16.000 km, es decir, 10.000 millas",
-      aceiteTipo: "15W-60 totalmente sintético (kit oficial de reemplazo de aceite Indian)",
+      intervaloMantenimiento: "Cada 16.000 km (10.000 millas)",
+      aceiteTipo: "15W-60 totalmente sintético (kit oficial de cambio de aceite Indian)",
       trucos: [
         "Transmisión por correa: sin necesidad de lubricación; verifica tensión y desgaste en cada revisión",
         "El valor exacto está en el manual del propietario; presión de los neumáticos: compruébala en frío",
@@ -1216,7 +1216,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     analisisSlug: "piaggio-beverly-310-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Primera revisión a los 1.000 km; después cada 10.000 km o 12 meses",
-      aceiteTipo: "API SL 5W-40 JASO MA ACEA A3 de síntesis",
+      aceiteTipo: "5W-40 sintético API SL ACEA A3 JASO MA",
       trucos: [
         "Aceite y filtro: cambio en cada revisión",
         "Nivel de aceite: compruébalo periódicamente entre revisiones",
@@ -1291,7 +1291,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     analisisSlug: "piaggio-medley-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Primer cambio de aceite a los 1.000 km; después cada 6.000 km o 12 meses",
-      aceiteTipo: "5W-40 sintético ACEA A3 JASO MA API SL",
+      aceiteTipo: "5W-40 sintético API SL ACEA A3 JASO MA",
       trucos: [
         "Nivel de aceite: revisión y relleno cada 3.000 km",
         "Aceite del cubo trasero: revisión en cada servicio",
@@ -1366,11 +1366,11 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     analisisSlug: "piaggio-mp3-530-exclusive-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Primer cambio a los 1.000 km; después cada 6.000 km",
-      aceiteTipo: "5W-40 sintético JASO MA API SL ACEA A3",
+      aceiteTipo: "5W-40 sintético API SL ACEA A3 JASO MA",
       trucos: [
         "Filtro de aceite de cartucho: sustitución en cada cambio de aceite",
         "Nivel de aceite: compruébalo en frío antes de cada uso, entre las marcas MIN y MAX",
-        "Líquido de frenos: sustitución cada dos años",
+        "Líquido de frenos: sustitución cada 2 años",
         "Presión de los tres neumáticos: revísala en frío",
       ],
     },
@@ -1447,16 +1447,16 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     analisisSlug: "piaggio-liberty-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Primer cambio de aceite a los 1.000 km; después cada 5.000 km (manual del propietario)",
-      aceiteTipo: "5W-40 de síntesis con API SL, ACEA A3 y JASO MA",
+      aceiteTipo: "5W-40 sintético API SL ACEA A3 JASO MA",
       trucos: [
         "Nivel del aceite: revisión y relleno cada 3.000 kilómetros",
-        "Aceite del cubo trasero: revisión en cada revisión",
-        "Líquido de frenos: cambio cada 24 meses",
+        "Aceite del cubo trasero: revisión en cada servicio",
+        "Líquido de frenos: sustitución cada 2 años",
         "Presión de las cubiertas: compruébala en frío cada dos semanas",
       ],
     },
     planMantenimiento: {
-      intervalo: "Primera revisión a los 1.000 km; a continuación cada 5.000 km",
+      intervalo: "Primera revisión a los 1.000 km; después cada 5.000 km",
       revisiones: [
         {
           nombre: "Revisión inicial / 1.000 km",
@@ -1543,8 +1543,8 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/piaggio/mp3-400-sport",
     analisisSlug: "piaggio-mp3-400-sport-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Sustitución inaugural al cumplir los 1.000 kilómetros; a partir de ese rodaje, nueva sustitución cada 6.000 km",
-      aceiteTipo: "5W-40 sintético con JASO MA, ACEA A3 y API SL",
+      intervaloMantenimiento: "Primer cambio a los 1.000 km; después cada 6.000 km",
+      aceiteTipo: "5W-40 sintético API SL ACEA A3 JASO MA",
       trucos: [
         "Filtro de aceite de cartucho: cambio en cada cambio de aceite",
         "Nivel del aceite: veríficalo en frío antes de cada arranque, entre las marcas MIN y MAX",
@@ -1619,8 +1619,8 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "https://wlassets.vespa.com/wlassets/vespa/es/tech_sheet/2026/Vespa-GTS-80th-310-FICHA-TECNICA/original/Vespa-GTS-80th-310-FICHA+TECNICA.pdf?1779265145205",
     analisisSlug: "vespa-gts-310-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 kilómetros; luego cada 10.000 kilómetros o 12 meses",
-      aceiteTipo: "5W-40 de síntesis JASO MA/MA2 API SL ACEA A3",
+      intervaloMantenimiento: "Primera revisión a los 1.000 km; después cada 10.000 km o 12 meses",
+      aceiteTipo: "5W-40 sintético JASO MA/MA2 API SL ACEA A3",
       trucos: [
         "Presión de neumáticos (en frío): 1,8 bar delante / 2,0 bar detrás (2,2 bar detrás con pasajero)",
         "Nivel de aceite: revísalo cada 5.000 km y rellena sin superar el MAX",
@@ -1695,8 +1695,8 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "vespa-gtv-310-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "La primera revisión, a los 1.000 km; posteriormente cada 10.000 kilómetros o 12 meses",
-      aceiteTipo: "con 5W-40 sintético API SL ACEA A3 JASO MA/MA2",
+      intervaloMantenimiento: "Primera revisión a los 1.000 km; después cada 10.000 km o 12 meses",
+      aceiteTipo: "5W-40 sintético JASO MA/MA2 API SL ACEA A3",
       trucos: [
         "Presión de los neumáticos (en frío): 1,8 bares delante / 2,0 bares detrás (2,2 bar detrás con pasajero)",
         "Control del nivel de aceite: compruébalo cada 5.000 km y rellena sin rebasar la marca MAX",
@@ -1771,8 +1771,8 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "vespa-primavera-rst-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Rodaje cerrado con una revisión a los 1.000 kilómetros; en adelante, paso por taller cada 10.000 km o, si antes no se alcanzan, 12 meses",
-      aceiteTipo: "5W-40 de síntesis ACEA A3 JASO MA API SL",
+      intervaloMantenimiento: "Primera revisión a los 1.000 km; después cada 10.000 km o 12 meses",
+      aceiteTipo: "5W-40 sintético API SL ACEA A3 JASO MA",
       trucos: [
         "Bujía, correa de transmisión, filtro de aire y rodillos del variador: sustitución cada 20.000 km",
         "Fluido de frenos: cambio cada 24 meses",
@@ -1846,13 +1846,13 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "vespa-sprint-rst-125-s-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km; después cada 10.000 kilómetros o un año",
-      aceiteTipo: "5W-40 sintético API SL, JASO MA y ACEA A3",
+      intervaloMantenimiento: "Primera revisión a los 1.000 km; después cada 10.000 km o 12 meses",
+      aceiteTipo: "5W-40 sintético API SL ACEA A3 JASO MA",
       trucos: [
-        "Bujía, correa de la transmisión, Filtro de admisión y rodillos del variador: reemplazo cada 20.000 km",
-        "Líquido de frenos: sustitución cada dos años",
+        "Bujía, correa de transmisión, filtro de aire y rodillos del variador: sustitución cada 20.000 km",
+        "Líquido de frenos: sustitución cada 24 meses",
         "El testigo de presión de aceite no reemplaza la comprobación del nivel con la varilla",
-        "Presión de neumáticos: contrólala en frío cada 14 días",
+        "Presión de neumáticos: revísala en frío cada dos semanas",
       ],
     },
   },
@@ -1921,12 +1921,12 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "vespa-gts-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Revisión inicial a los 1.000 km; seguidamente cada 10.000 kilómetros o doce meses",
-      aceiteTipo: "5W-40 de síntesis con ACEA A3, API SL y JASO MA/MA2",
+      intervaloMantenimiento: "Primera revisión a los 1.000 km; después cada 10.000 km o 12 meses",
+      aceiteTipo: "5W-40 sintético JASO MA/MA2 API SL ACEA A3",
       trucos: [
         "Nivel de aceite: revísalo cada 5.000 kilómetros y rellena sin superar el MAX",
         "Correa de la transmisión y rodillos: revisión en cada servicio",
-        "Líquido para frenos DOT 4: cambio cada dos años",
+        "Líquido de frenos DOT 4: sustitución cada 2 años",
         "Presión de las cubiertas: compruébala en frío con el valor del manual",
       ],
     },
@@ -2002,7 +2002,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
       trucos: [
         "Aceite y filtro: sustitución en cada servicio",
         "Correa de la transmisión: revisión en cada servicio",
-        "Fluido de frenos: cambio cada 2 años (con regularidad)",
+        "Líquido de frenos: sustitución cada 2 años",
         "Presión de neumáticos: revísala en frío cada quince días",
       ],
     },
@@ -2072,13 +2072,13 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "https://italjet.com/es/collections/all",
     analisisSlug: "italjet-dragster-200-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión: a los 1.000 kilómetros; seguidamente cada 6.000 kilómetros o 6 meses",
-      aceiteTipo: "5W-40 de síntesis JASO MA API SL ACEA A3 (motor Piaggio iGet)",
+      intervaloMantenimiento: "Primera revisión a los 1.000 km; después cada 6.000 km o 6 meses",
+      aceiteTipo: "5W-40 sintético API SL ACEA A3 JASO MA (motor Piaggio iGet)",
       trucos: [
         "Aceite y filtro: cambio en cada mantenimiento",
         "Correa de transmisión: revisión en cada puesta a punto",
-        "Líquido de frenos: sustitución cada dos años (recomendado)",
-        "Presión de las ruedas: compruébala en frío cada 14 días",
+        "Líquido de frenos: sustitución cada 2 años",
+        "Presión de neumáticos: revísala en frío cada dos semanas",
       ],
     },
   },
@@ -2147,12 +2147,12 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "https://italjet.com/es/collections/all",
     analisisSlug: "italjet-dragster-300-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km; luego cada 6.000 kilómetros o 6 meses",
-      aceiteTipo: "API SL 5W-40 sintético ACEA A3 JASO MA (motor Piaggio HPE)",
+      intervaloMantenimiento: "Primera revisión a los 1.000 km; después cada 6.000 km o 6 meses",
+      aceiteTipo: "5W-40 sintético API SL ACEA A3 JASO MA (motor Piaggio HPE)",
       trucos: [
         "Aceite y filtro: sustitución en cada revisión",
         "Nivel de aceite: revísalo regularmente entre revisiones",
-        "Correa de transmisión: revisión en cada revisión",
+        "Correa de transmisión: revisión en cada servicio",
         "Presión de las cubiertas: contrólala en frío cada quince días",
       ],
     },
@@ -2288,7 +2288,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "https://soymotero.net/motos/lambretta/x300sr-2025/",
     analisisSlug: "lambretta-x300-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      aceiteTipo: "10W-40 de base semisintética",
+      aceiteTipo: "10W-40 semisintético",
       trucos: [
         "Nivel de aceite: contrólalo con regularidad entre revisiones",
         "Correa de la transmisión: revisión en cada mantenimiento",
@@ -2364,7 +2364,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
       aceiteTipo: "10W-40 semisintético",
       trucos: [
         "Nivel de aceite: revísalo periódicamente entre mantenimientos",
-        "Correa de transmisión: revisión en cada servicio (con regularidad)",
+        "Correa de transmisión: revisión en cada servicio",
         "Presión de los neumáticos: compruébala en frío con el valor indicado en el manual",
       ],
     },
@@ -2435,12 +2435,12 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     analisisSlug: "lambretta-x125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Primera revisión a los 1.000 km; después cada 4.000 km",
-      aceiteTipo: "5W-40 de síntesis JASO MB API SL ACEA A3",
+      aceiteTipo: "5W-40 sintético JASO MB API SL ACEA A3",
       trucos: [
         "Filtro de aceite: cambio en cada revisión",
         "Aceite de transmisión 80W-90 API GL-4",
         "Correa de transmisión y variador: revisión en cada servicio",
-        "Líquido de frenos DOT 4: cambio cada 24 meses",
+        "Líquido de frenos DOT 4: sustitución cada 2 años",
         "Presión de los neumáticos: revísala en frío cada dos semanas",
       ],
     },
@@ -2510,8 +2510,8 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "lambretta-j-125-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Revisión inicial a los 1.000 kilómetros; seguidamente cada 4.000 km",
-      aceiteTipo: "5W-40 sintético API SL ACEA A3 JASO MB",
+      intervaloMantenimiento: "Primera revisión a los 1.000 km; después cada 4.000 km",
+      aceiteTipo: "5W-40 sintético JASO MB API SL ACEA A3",
       trucos: [
         "Filtro de aceite: sustitución en cada servicio",
         "Aceite de la transmisión 80W-90 API GL-4",
@@ -2586,13 +2586,13 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "lambretta-v125-special-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "La primera revisión, a los 1.000 kilómetros; posteriormente cada 4.000 km",
-      aceiteTipo: "5W-40 sintético con JASO MB, API SL y ACEA A3",
+      intervaloMantenimiento: "Primera revisión a los 1.000 km; después cada 4.000 km",
+      aceiteTipo: "5W-40 sintético JASO MB API SL ACEA A3",
       trucos: [
         "Filtro de aceite: sustitución en cada mantenimiento",
         "Aceite para la transmisión 80W-90 API GL-4",
         "Correa de transmisión y variador: revisión en cada puesta a punto",
-        "Líquido para frenos DOT 4: reemplazo cada 2 años (con regularidad)",
+        "Líquido de frenos DOT 4: sustitución cada 2 años",
         "Presión de los neumáticos: veríficala en frío cada dos semanas",
       ],
     },
@@ -2664,10 +2664,10 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     analisisSlug: "royal-alloy-gp-300-s-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Primera revisión a los 500 km o 6 meses; después cada 3.000 km o 6 meses",
-      aceiteTipo: "de base semisintética API 10W-40 SJ (1.200 ml; 1.250 ml con filtro)",
+      aceiteTipo: "10W-40 semisintético API SJ (1.200 ml; 1.250 ml con filtro)",
       trucos: [
         "Presión de neumáticos (en frío): 2,2 bar delante / 2,3 bar detrás",
-        "Bujía NGK CR8EKB: revisión en cada revisión",
+        "Bujía NGK CR8EKB: revisión en cada servicio",
         "Aceite de la transmisión 75W-80: 200 ml",
         "Combustible sin plomo de 95 octanos",
         "Refrigerante: comprueba el nivel periódicamente",
@@ -2739,8 +2739,8 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "https://royalalloy.es/modelo/tg-300-s/",
     analisisSlug: "royal-alloy-tg-300-s-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 500 kilómetros o 6 meses; a continuación cada 3.000 km o 6 meses",
-      aceiteTipo: "10W-40 semisintético API SJ (1.200 mililitros; 1.250 ml con filtro)",
+      intervaloMantenimiento: "Primera revisión a los 500 km o 6 meses; después cada 3.000 km o 6 meses",
+      aceiteTipo: "10W-40 semisintético API SJ (1.200 ml; 1.250 ml con filtro)",
       trucos: [
         "Presión de los neumáticos (en frío): con 2,2 bar delante / 2,3 bares detrás",
         "Bujía NGK CR8EKB: revisión en cada servicio",
@@ -2816,13 +2816,13 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     analisisSlug: "royal-alloy-gp-125-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Primera revisión a los 500 km; después cada 3.000 km o 6 meses",
-      aceiteTipo: "10W-40 de base semisintética API SE/SD o superior (950 ml)",
+      aceiteTipo: "10W-40 semisintético API SE/SD o superior (950 ml)",
       trucos: [
         "Presión de neumáticos (en frío): 2,2 bares delante / 2,3 bar detrás",
         "Bujía: limpieza y galgado (0,6-0,8 mm) cada 3.000 km; sustitución cada 6.000 km",
         "Aceite de transmisión Hypoid EP 80W-90: sustitución en cada revisión",
         "Correa de transmisión: revisión en cada servicio; sustitución cada 6.000 km",
-        "Líquido de frenos: cambio cada 24 meses (según el manual)",
+        "Líquido de frenos: sustitución cada 2 años",
       ],
     },
   },
@@ -2891,8 +2891,8 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "https://royalalloy.es",
     analisisSlug: "royal-alloy-tg-125-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 500 kilómetros; posteriormente cada 3.000 km o 6 meses",
-      aceiteTipo: "con 10W-40 semisintético API SE/SD o superior (950 mililitros)",
+      intervaloMantenimiento: "Primera revisión a los 500 km; después cada 3.000 km o 6 meses",
+      aceiteTipo: "10W-40 semisintético API SE/SD o superior (950 ml)",
       trucos: [
         "Presión de los neumáticos (en frío): 2,2 bares delante / con 2,3 bar detrás",
         "Bujía: lavado y galgado (0,6-0,8 mm) cada 3.000 km; sustitución cada 6.000 km",
@@ -2968,8 +2968,8 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "https://www.sym.com.es/",
     analisisSlug: "sym-ttlbt-508-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera sustitución de aceite a los 1.000 kilómetros; después cada 5.000 km",
-      aceiteTipo: "10W-30 o 10W-40 con API SL o superior",
+      intervaloMantenimiento: "Primer cambio de aceite a los 1.000 km; después cada 5.000 km",
+      aceiteTipo: "10W-30 o 10W-40 API SL o superior",
       trucos: [
         "Bujía: revisión en cada servicio; sustitución cada 10.000 km",
         "Correa, rodillos y polea del variador: limpieza cada 5.000 km; sustitución cada 10.000 km",
@@ -3044,12 +3044,12 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "https://www.sym.com.es/",
     analisisSlug: "sym-joymax-z-plus-300-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "El primer cambio de aceite tras 1.000 km; seguidamente cada 5.000 km",
-      aceiteTipo: "API SL o superior: 10W-30 o 10W-40",
+      intervaloMantenimiento: "Primer cambio de aceite a los 1.000 km; después cada 5.000 km",
+      aceiteTipo: "10W-30 o 10W-40 API SL o superior",
       trucos: [
         "Presión de neumáticos (en frío): 2,0 bar delante / 2,5 bar detrás",
-        "Bujía: revisión en cada revisión; sustitución cada 10.000 km",
-        "Sustitución cada 10.000 km; Correa, rodillos y polea del variador: limpieza cada 5.000 km",
+        "Bujía: revisión en cada servicio; sustitución cada 10.000 km",
+        "Correa, rodillos y polea del variador: limpieza cada 5.000 km; sustitución cada 10.000 km",
         "Aceite de la transmisión: primer cambio tras 1.000 km; a continuación cada 10.000 km",
         "Líquido del sistema de frenos: sustitución cada 2 años o 30.000 kilómetros",
       ],
@@ -3120,13 +3120,13 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "https://www.sym.com.es/",
     analisisSlug: "sym-adx-300-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primer reemplazo de aceite a los 1.000 kilómetros; luego cada 5.000 kilómetros",
-      aceiteTipo: "con 10W-30 o 10W-40, API SL como mínimo",
+      intervaloMantenimiento: "Primer cambio de aceite a los 1.000 km; después cada 5.000 km",
+      aceiteTipo: "10W-30 o 10W-40 API SL o superior",
       trucos: [
         "Bujía: revisión en cada servicio; cambio cada 10.000 km",
         "Correa, rodillos y polea del variador: limpieza cada 5.000 kilómetros; reemplazo cada 10.000 km",
         "Lubricante de transmisión: primera sustitución a los 1.000 km; luego cada 10.000 kilómetros",
-        "Líquido de frenos: sustitución cada dos años o 30.000 km",
+        "Líquido de frenos: sustitución cada 2 años o 30.000 km",
         "El valor exacto está en el manual; presión de los neumáticos: compruébala en frío",
       ],
     },
@@ -3202,13 +3202,13 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "https://www.motosan.es/motos/sym-adxtg-400-la-aventura-tambien-puede-empezar-sobre-un-scooter/",
     analisisSlug: "sym-adxtg-400-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primer cambio de aceite a los 1.000 km; luego cada 5.000 kilómetros",
-      aceiteTipo: "10W-30 o 10W-40 con especificación API SL o superior",
+      intervaloMantenimiento: "Primer cambio de aceite a los 1.000 km; después cada 5.000 km",
+      aceiteTipo: "10W-30 o 10W-40 API SL o superior",
       trucos: [
         "La bujía: revisión en cada puesta a punto; reemplazo cada 10.000 km",
         "Lavado de la correa, los rodillos y la polea del variador cada 5.000 kilómetros; sustitución cada 10.000 km",
         "Aceite de la transmisión: primer reemplazo a los 1.000 kilómetros; después cada 10.000 km",
-        "Líquido para frenos: reemplazo cada 24 meses o 30.000 km",
+        "Líquido de frenos: sustitución cada 2 años o 30.000 km",
         "Presión de las ruedas: revísala en frío; el valor recomendado viene en la documentación",
       ],
     },
@@ -3278,8 +3278,8 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "https://www.sym.com.es/",
     analisisSlug: "sym-adx-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primer cambio de aceite a los 1.000 km; posteriormente cada 5.000 km",
-      aceiteTipo: "10W-30 o bien 10W-40, API SL o superior",
+      intervaloMantenimiento: "Primer cambio de aceite a los 1.000 km; después cada 5.000 km",
+      aceiteTipo: "10W-30 o 10W-40 API SL o superior",
       trucos: [
         "Bujía: revisión en cada servicio; sustitución cada 10.000 kilómetros",
         "Correa, rodillos y polea del variador: limpieza cada 5.000 km; reemplazo cada 10.000 km",
@@ -3452,8 +3452,8 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "https://www.sym.com.es/",
     analisisSlug: "sym-jet-x-125-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primer cambio de aceite a los 1.000 kilómetros; posteriormente cada 5.000 km",
-      aceiteTipo: "con 10W-30 o 10W-40, norma API SL o superior",
+      intervaloMantenimiento: "Primer cambio de aceite a los 1.000 km; después cada 5.000 km",
+      aceiteTipo: "10W-30 o 10W-40 API SL o superior",
       trucos: [
         "Cambio cada 10.000 kilómetros; bujía: revisión en cada servicio",
         "Correa, rodillos y polea del variador: lavado cada 5.000 km; cambio cada 10.000 km",
@@ -3529,12 +3529,12 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "kymco-xciting-vs-400-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera sustitución de aceite tras 1.000 kilómetros; a continuación cada 5.000 km",
-      aceiteTipo: "10W-40 con API SL",
+      intervaloMantenimiento: "Primer cambio de aceite a los 1.000 km; después cada 5.000 km",
+      aceiteTipo: "10W-40 API SL",
       trucos: [
         "Nivel de aceite: revísalo cada 1.000 km y rellena si hace falta",
         "Si no llegas a los 5.000 km en 6 meses, cambia el aceite igualmente",
-        "Correa de transmisión: revisión en cada revisión",
+        "Correa de transmisión: revisión en cada servicio",
         "Líquido de frenos DOT 4: revísalo periódicamente",
         "Presión de neumáticos: contrólala en frío cada dos semanas",
       ],
@@ -3605,14 +3605,14 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "kymco-dtx-350-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primer cambio de aceite a los 1.000 km; después cada 5.000 kilómetros",
-      aceiteTipo: "API SL 10W-40",
+      intervaloMantenimiento: "Primer cambio de aceite a los 1.000 km; después cada 5.000 km",
+      aceiteTipo: "10W-40 API SL",
       trucos: [
         "Nivel del aceite: compruébalo cada 1.000 km y rellena si es preciso",
         "Si no llegas a los 5.000 kilómetros en 6 meses, cambia el aceite igualmente",
         "Correa de transmisión: revisión en cada mantenimiento",
         "Líquido DOT 4 de frenos: revisión periódica",
-        "Presión de neumáticos: compruébala en frío cada 14 días (según el manual)",
+        "Presión de neumáticos: revísala en frío cada dos semanas",
       ],
     },
   },
@@ -3681,12 +3681,12 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "kymco-super-dink-gt-350-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Sustitución inicial de aceite tras 1.000 km; posteriormente cada 5.000 kilómetros recorridos",
-      aceiteTipo: "10W-40, especificación API SL",
+      intervaloMantenimiento: "Primer cambio de aceite a los 1.000 km; después cada 5.000 km",
+      aceiteTipo: "10W-40 API SL",
       trucos: [
         "Nivel del aceite: revísalo cada 1.000 kilómetros y rellena si hace falta",
-        "Si no llegas a los 5.000 km en cada seis meses, cambia el aceite igualmente",
-        "Correa de la transmisión: revisión en cada revisión (en cada servicio)",
+        "Si no llegas a los 5.000 km en 6 meses, cambia el aceite igualmente",
+        "Correa de transmisión: revisión en cada servicio",
         "Fluido de frenos DOT 4: control periódico",
         "Presión de neumáticos: veríficala en frío cada quince días (en cada puesta a punto)",
       ],
@@ -3758,7 +3758,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     analisisSlug: "kymco-agility-nx-125-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Primera revisión a los 1.000 km; después cada 2.000 km",
-      aceiteTipo: "10W-40 API SL (0,8 litros)",
+      aceiteTipo: "10W-40 API SL (0,8 L)",
       trucos: [
         "Presión de neumáticos (en frío): 1,75 bar delante / 2,0 bar detrás (2,25 bar detrás con pasajero)",
         "Correa de transmisión: revisión cada 5.000 km; sustitución cada 20.000 km",
@@ -3833,12 +3833,12 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "http://www.kymco.es/scooters/dtx-125",
     analisisSlug: "kymco-dtx-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera visita al taller al alcanzar 1.000 kilómetros; después, repítela cada 2.000 km sin alargarla",
-      aceiteTipo: "con 10W-40 API SL (0,8 L)",
+      intervaloMantenimiento: "Primera revisión a los 1.000 km; después cada 2.000 km",
+      aceiteTipo: "10W-40 API SL (0,8 L)",
       trucos: [
         "Presión de los neumáticos (en frío): 1,75 bares delante / 2,0 bares detrás (2,25 bar detrás con pasajero)",
-        "Sustitución cada 20.000 km; correa de la transmisión: revisión cada 5.000 km",
-        "Bujía NGK CR8E (galga 0,7-0,8 mm): revisión en cada revisión",
+        "Correa de transmisión: revisión cada 5.000 km; sustitución cada 20.000 km",
+        "Bujía NGK CR8E (galga 0,7-0,8 mm): revisión en cada servicio",
         "Aceite para la transmisión SAE 90: 0,11 L",
         "Fluido de frenos DOT 4: cambio cada 10.000 km o cada año",
       ],
