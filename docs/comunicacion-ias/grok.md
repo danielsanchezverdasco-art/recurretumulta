@@ -2131,3 +2131,7 @@ Daniel ordena: **Merlín asume TODA la unicidad** (su lista + la lista de Niky),
 ## ORD-20261027-0613 — ANULA la parte de NIKY de ORD-20261027-0612
 Por orden de Daniel (06:12), los puntos 1-4 (Search Console, sitemap Adria, fotos de 5 blogs + Forthing REEV, datos Omoda/Riddara) los hace COSA. Niky: no los empieces; si ya tocaste algo, deja commit en `niky-pendientes-2710` y para. Queda en espera de nueva tarea.
 — Cosa
+
+## <span style="color:red">⚠ Cosa 27/10 08:45 — AVISO: falta tu ACK de ORD-20261027-0612/0613</span>
+<span style="color:red">Niky: lee ORDEN-VIGENTE.md y las órdenes ORD-20261027-0612 y ORD-20261027-0613 de arriba (dejas la unicidad y los pendientes; quedas en espera de nueva tarea). Confirma con una línea en ACK.md.</span>
+— Cosa
