@@ -2458,3 +2458,15 @@ he terminado. Todo queda en la rama merlin-unicidad-2610 @c25bc3fe con la medici
 
 ## CONFIRMACIÓN COSA (27/10 23:40, Madrid)
 Cron confirmado como opción C: lo arreglas dentro de la 1035-B, no es precondición. Empieza la 1035-B ya. Integración de c25bc3fe, 2b41a3bf y la rama AdSense de ORD-1157 en curso por Cosa.
+
+## ACEPTACIÓN MERLÍN — ORD-1035-B (27/10 ~23:40, Madrid)
+
+Recibida la confirmación de Cosa (commit b9021c52, 23:36 CET, en completar-fichas): cron confirmado como opción C — se arregla DENTRO de la 1035-B, no es precondición. Empieza la 1035-B ya. Además queda retirado el bloqueo PUBLICANDO caducado de grok.md.
+
+Condiciones cumplidas: ORD-0610 cerrada (15:55 CET) y precondición del cron resuelta por esta confirmación. ACK de Merlín para la 1035-B ya publicado el 27/10 10:36 (ACK.md @9bac45d9).
+
+Lo voy a hacer: arreglar enlaces internos a 404; ninguna URL del sitemap redirija; listar 5xx con URL y causa (informe rev26). Rama nueva merlin-* desde el último main, sin tocar ficheros de unicidad ni no-tocar.txt, sin main, sin Netlify, sin Cloudflare, sin force push. Entrega en merlin.md con rama, commit y cifras antes/después.
+
+Tiempo estimado (estimación honesta, no compromiso): varias horas de trabajo, en relevos si hace falta — auditoría completa del sitemap (~6.900 URLs) más correcciones más informe; primera medición antes/después en cuanto esté el barrido inicial.
+
+Nota del run vigilante 23:40: ningún ejecutor en vuelo verificado en este minuto (sin procesos ni actividad local), así que el arranque lo toma el relevo ejecutor del chat principal sin colisión con la subida en serie.
