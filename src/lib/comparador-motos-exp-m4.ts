@@ -1543,7 +1543,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/piaggio/mp3-400-sport",
     analisisSlug: "piaggio-mp3-400-sport-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera sustitución a los 1.000 kilómetros; después cada 6.000 km",
+      intervaloMantenimiento: "Sustitución inaugural al cumplir los 1.000 kilómetros; a partir de ese rodaje, nueva sustitución cada 6.000 km",
       aceiteTipo: "5W-40 sintético con JASO MA, ACEA A3 y API SL",
       trucos: [
         "Filtro de aceite de cartucho: cambio en cada cambio de aceite",
@@ -1771,7 +1771,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "vespa-primavera-rst-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 kilómetros; y después cada 10.000 km o 12 meses",
+      intervaloMantenimiento: "Rodaje cerrado con una revisión a los 1.000 kilómetros; en adelante, paso por taller cada 10.000 km o, si antes no se alcanzan, 12 meses",
       aceiteTipo: "5W-40 de síntesis ACEA A3 JASO MA API SL",
       trucos: [
         "Bujía, correa de transmisión, filtro de aire y rodillos del variador: sustitución cada 20.000 km",
@@ -3833,7 +3833,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     fuenteUrl: "http://www.kymco.es/scooters/dtx-125",
     analisisSlug: "kymco-dtx-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 kilómetros; después cada 2.000 km",
+      intervaloMantenimiento: "Primera visita al taller al alcanzar 1.000 kilómetros; después, repítela cada 2.000 km sin alargarla",
       aceiteTipo: "con 10W-40 API SL (0,8 L)",
       trucos: [
         "Presión de los neumáticos (en frío): 1,75 bares delante / 2,0 bares detrás (2,25 bar detrás con pasajero)",
