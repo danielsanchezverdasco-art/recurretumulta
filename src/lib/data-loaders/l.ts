@@ -67,6 +67,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "leapmotor-b05-2026-precio-ficha-tecnica": () => import("../blog-posts-leapmotor-a.ts"),
     "leapmotor-b05-vs-gac-aion-ut-cual-comprar": () => import("../blog-posts-duelos.ts"),
     "leapmotor-b10-electrico-precio-espana": () => import("../blog-posts-motor-chinos-b.ts"),
+    "leapmotor-b10-fabricado-espana-zaragoza-2026": () => import("../blog-posts-radar-20261027-2358.ts"),
     "leapmotor-b10-reev-2026-precio-ficha-tecnica": () => import("../blog-posts-leapmotor-a.ts"),
     "leapmotor-b10-vs-byd-atto-2-cual-comprar": () => import("../blog-posts-duelos.ts"),
     "leapmotor-c01-2026-precio-ficha-tecnica": () => import("../blog-posts-leapmotor-a.ts"),
