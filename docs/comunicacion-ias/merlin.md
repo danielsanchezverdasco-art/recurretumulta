@@ -2286,4 +2286,8 @@ Base: merlin-unicidad-2610 @897b7617 (verificado por GET-ref). Lista: docs/comun
 
 - Rama merlin-unicidad-2610 (GET-ref verificado tras el push).
 - Fichero src/lib/comparador-motos-exp-m24.ts, 225.171 bytes.
-- 43/43 líneas listadas restauradas a texto vivo exacto. rev3.py oficial: nuevos8g_vs_vivo = 0. URLs idénticas. Residual NO listado, sin tocar por orden: L478 repite 'A2' dos veces en rama frente a una en vivo (+1×'2'); queda registrado para Grok. Verificación independiente del coordinador.
+- 43/43 líneas listadas restauradas a texto vivo exacto. rev3.py oficial: nuevos8g_vs_vivo = 0. URLs idénticas. Residual NO listado, sin tocar por orden: L478 repite 'A2' dos veces en rama frente a una en vivo (+1×'2'); queda registrado para Grok. Verificación independiente del coordinador.## Relevo devolución ORD-0610 — nuevos-m3
+
+- Rama merlin-unicidad-2610 (GET-ref verificado tras el push).
+- Fichero src/lib/comparador-motos-nuevos-m3.ts, 82.149 bytes.
+- 42/42 líneas listadas restauradas a texto vivo exacto; diff solo esas 42. rev3.py oficial: nuevos8g_vs_vivo = 0. Counter numérico igual al vivo. URLs idénticas. Verificación independiente del coordinador.
