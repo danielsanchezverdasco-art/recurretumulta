@@ -879,7 +879,7 @@ Su baza principal está en la frenada: sistema hidráulico de cuatro pistones en
 
 ## Homologación DGT y normas VMP
 
-No cuenta con homologación DGT como VMP: en España, el tope es de 25 km/h, las aceras están prohibidas y solo se puede circular por carriles bici o por la calzada. El GPS integrado y la aplicación de Teverun permiten ajustarlo, pero circular deslimitado por la vía pública puede sancionarse. Y una aclaración: Euro NCAP no evalúa patinetes, así que este modelo no tiene estrellas de ese organismo.
+No cuenta con homologación DGT como VMP: el tope en España es de 25 km/h, las aceras están prohibidas y solo se puede circular por carriles bici o por la calzada. El GPS integrado y la aplicación de Teverun permiten ajustarlo, pero circular deslimitado por la vía pública puede sancionarse. Y una aclaración: ese organismo no evalúa patinetes, así que esta variante no tiene estrellas suyas.
 
 ## Lo mejor y lo peor
 
@@ -1687,7 +1687,7 @@ El Midnight tiene más motor (2×2.000 W) y batería (40Ah). El Lite es más bar
     slug: "inmotion-rs-midnight",
     title: "InMotion RS Midnight: 96 km/h solo para circuito privado",
     excerpt:
-      "96 km/h, 8.400 W de pico y batería de 2.880 Wh: el RS Midnight es un hiperpatinete de circuito, ilegal en vía pública en España. Precio y ficha.",
+      "96 km/h, pico de 8.400 W y batería de 2.880 Wh: el RS Midnight es un hiperpatinete de circuito, ilegal en vía pública en España. Precio y ficha.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -1784,7 +1784,7 @@ InMotion no difunde precios de servicio válidos para España, y no vamos a inve
 
 ## Normativa española: sin encaje posible en VMP
 
-En España, la regulación de los vehículos de movilidad personal, consultable en la <a href=https://www.dgt.es>DGT</a>, fija el tope en 25 km/h y reclama certificación para rodar por la calle. Con 96 km/h y 58 kg, este modelo no encaja en esa figura ni se transforma en VMP activando un modo limitado en pantalla: si circulara por vía pública, se consideraría un vehículo sin autorización, con sanciones y responsabilidad añadida ante un accidente. Dicho sin rodeos: circuito privado o nada.
+En España, la norma de los vehículos de movilidad personal, que puede consultarse en la <a href=https://www.dgt.es>DGT</a>, fija el tope en 25 km/h y reclama certificación para rodar por la calle. Con 96 km/h y 58 kg, este modelo no encaja en esa figura ni se transforma en VMP activando un modo limitado en pantalla: si circulara por vía pública, se consideraría un vehículo sin autorización, con sanciones y responsabilidad añadida ante un accidente. Dicho sin rodeos: circuito privado o nada.
 
 ## Comparativa: Nami y Teverun frente al Midnight
 
@@ -2750,7 +2750,7 @@ La marca declara entre 22 y 27 km, aunque en recorridos urbanos la cifra razonab
 
 ## Precio y uso en España
 
-En Estados Unidos se comercializa por 280-350 $, mientras que a Europa llega mediante importadores y no hay un PVP oficial en euros publicado. Su velocidad máxima es de 31 km/h, de modo que para circular en España debe limitarse a 25 km/h. Como cualquier VMP, no puede circular por las aceras. En materia de seguridad, no existe una valoración Euro NCAP para este modelo, porque Euro NCAP no evalúa patinetes.
+En Estados Unidos se comercializa por 280-350 $, mientras que a Europa llega mediante importadores y no hay un PVP oficial en euros publicado. Su velocidad máxima es de 31 km/h, de modo que para circular por España conviene caparlo a 25 km/h. Como cualquier VMP, no puede circular por las aceras. En materia de seguridad, no existe una valoración Euro NCAP para este modelo, porque Euro NCAP no evalúa patinetes.
 
 Dentro de la misma familia, el KS4 Pro añade doble suspensión trasera, sube a 500 W y alcanza 40 km; por un desembolso algo mayor, entrega bastante más patinete.
 
@@ -2781,10 +2781,10 @@ El Pro añade doble suspensión trasera, sube a 500 W y alcanza 40 km. Si el pre
 Desde la aplicación oficial de Hiboy, conectada por Bluetooth.
 
 ### ¿Se puede usar legalmente en España?
-Sí, siempre que circule limitado a 25 km/h.
+Sí, con el limitador puesto en 25 km/h.
 
 ### ¿Tiene nota Euro NCAP?
-No: Euro NCAP no evalúa patinetes, así que este modelo no cuenta con una valoración suya.
+No: ese organismo no evalúa patinetes, así que este patinete no cuenta con una valoración suya.
 
 ¿Te han puesto una multa con el patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
