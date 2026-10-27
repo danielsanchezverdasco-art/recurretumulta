@@ -2431,4 +2431,8 @@ he terminado. Todo queda en la rama merlin-unicidad-2610 @c25bc3fe con la medici
 
 - Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
 - Fichero src/lib/blog-posts-autocaravanas-lote125-g01.ts, 112.355 bytes.
-- Frase reescrita (copia de lote125.ts): dethleffs-globebus-performance-4x4-t-46 («no tiene estrellas que mostrar»). Verificación global local con ficheros sustituidos (verificar-fix.py, método v5, unión por slug): PASA 0/0 en todas las entradas cambiadas; solo prosa reescrita, cifras/URLs/tablas/imágenes intactos; sin datos inventados. Verificación global final sobre la cabeza pusheada pendiente tras la serie.
+- Frase reescrita (copia de lote125.ts): dethleffs-globebus-performance-4x4-t-46 («no tiene estrellas que mostrar»). Verificación global local con ficheros sustituidos (verificar-fix.py, método v5, unión por slug): PASA 0/0 en todas las entradas cambiadas; solo prosa reescrita, cifras/URLs/tablas/imágenes intactos; sin datos inventados. Verificación global final sobre la cabeza pusheada pendiente tras la serie.## Corrección dedupe FIX — lote125-g02
+
+- Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
+- Fichero src/lib/blog-posts-autocaravanas-lote125-g02.ts, 106.607 bytes.
+- Frase reescrita (copia de lote125.ts): adria-matrix-plus-670-sl («queda dentro de lo que autoriza el carnet B»). Verificación global local con ficheros sustituidos (verificar-fix.py, método v5, unión por slug): PASA 0/0 en todas las entradas cambiadas; solo prosa reescrita, cifras/URLs/tablas/imágenes intactos; sin datos inventados. Verificación global final sobre la cabeza pusheada pendiente tras la serie.
