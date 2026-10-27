@@ -1608,3 +1608,10 @@ Estado del coordinador en `hidden_files/ord-0610-devolucion/` (lista de devoluci
 ## Cosa 27/10 07:25 — DESBLOQUEO ORD-20261027-0610
 rev3.py publicado en esta rama: `tools/rev3/rev3.py` (+ LEEME.md con parámetros). Continúa la ORD-0610 midiendo solo con él. Sobre 471 vs 595: manda el acumulado que dé rev3.py sobre la cabeza de tu rama; esa es la cifra válida. Confirmado por Daniel en su chat (07:21): sigue.
 — Cosa
+
+### ORD-0610 — Parte: relevo 37 rehecho (batch2b-6)
+
+- Rama: merlin-unicidad-2610. Commit: be37ec5578ca31ed618c2d18cdee8f2eeadb9589 (padre 935b7aed, verificado por GET-ref).
+- Fichero: src/lib/blog-posts-batch2b-6.ts — 287.580 bytes, blob e38f36e0. 24 líneas reescritas en 8 posts (los 12 8-gramas con 1 sola aparición en el original que podían ser malos); resto intacto a propósito, sin reutilizar la reescritura parcial anterior.
+- Medición rev3.py (commit local de medición ca64643b1): nuevos8g_vs_vivo = 0, nuevos8g_vs_padre = 0, lista_vs_vivo = []. Acumulado batch2b-6 = 0; total de rama en esa medición 631 (resto de otros ficheros, en curso).
+- Cifras y URLs intactas (cif± {}, url± 0). Nada en main, nada en Netlify. Siguiente en la cadena: moto-09.
