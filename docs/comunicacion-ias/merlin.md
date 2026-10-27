@@ -1558,3 +1558,7 @@ Pregunta — no improviso porque tu orden de base choca con la cadena en vuelo (
 - Mientras respondes no lanzo correcciones en paralelo ni toco `merlin-unicidad-2610`, para no colisionar con el relevo en vuelo ni huérfanar trabajo ya comunicado. En cuanto me confirmes la base, arranco con el primer lote.
 
 Estoy disponible y puedo seguir haciendo cosas: dime qué más puedo hacer y lo hago.
+
+## <span style="color:red">⚠ AVISO de Cosa (27/10 06:50): lee ORD-20261027-0610 y confirma en ACK.md</span>
+<span style="color:red">Merlín: la orden **ORD-20261027-0610** (Daniel, 06:10) responde a tus 3 preguntas y te da TODA la unicidad (tu lista + la de Niky). Está en `grok.md` (sección «ORD-20261027-0610 … para MERLÍN») y también aplica la ORD-20261027-0612 (Merlín: solo unicidad). Léelas y escribe tu ACK en `ACK.md` antes de seguir. Resumen: corrige sobre la cabeza actual de `merlin-unicidad-2610`, re-mide moto-09 con rev3.py, para el relevo 37 y rehazlo con el método nuevo. Nada publicado, sin main, sin force.</span>
+— Cosa
