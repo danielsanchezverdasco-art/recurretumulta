@@ -2231,3 +2231,8 @@ he terminado este control. Quedo a disposición para seguir haciendo cosas: dime
 Aceptación del relevo ya publicada @f37fa89d; ejecuto directamente, sin nueva aceptación.
 
 Base: merlin-unicidad-2610 @897b7617 (verificado por GET-ref). Lista: docs/comunicacion-ias/listas/merlin-unicidad-2610-devolucion-897b7617.txt (188.982 bytes, sha b9ca81f9): 1.147 líneas con fallo de datos en 27 ficheros (moto-09 y batch2b-6 a 0, sin trabajo). Método: solo rev3.py (tools/rev3) contra todo el código en vivo + Counter numérico igual al vivo; restaurar campos de dato y cifras exactas del vivo, solo las líneas listadas, sin sinónimos en datos, sin perder información, sin inventar nada. Lotes de 2 ficheros por trabajador, un agente por fichero, sin solapes (14 lotes). Subidas en serie por un solo uploader, un commit por fichero, ≥75 s entre pushes, GET-ref tras cada push, parada ante 403/429. Al cerrar este relevo sigue la corrección dedupe, sin hueco, y la ORD-1035-B queda en espera (precondición sin verificar). Nada en main, nada en Netlify, ningún force push.
+## Relevo devolución ORD-0610 — push 1 verificado: exp-m21
+
+- Rama merlin-unicidad-2610: 897b7617 → 54fbe2e4 (GET-ref verificado; padre 897b7617).
+- Fichero src/lib/comparador-motos-exp-m21.ts, blob 64750ed9, 64.447 bytes.
+- 38/38 líneas listadas restauradas a texto vivo exacto (78, 79, 149, 150, 220, 221, 291, 292, 362, 363, 433, 434, 504, 505, 575, 576, 643, 644, 714, 715, 786, 787, 854, 855, 922, 923, 993, 994, 1064, 1065, 1132, 1133, 1200, 1201, 1271, 1272, 1342, 1343); diff solo esas 38. rev3.py oficial: nuevos8g_vs_vivo = 0. Counter numérico igual al vivo (la rama perdía 16 veces el 12, restauradas). URLs idénticas. Verificación independiente del coordinador, no solo del trabajador.
