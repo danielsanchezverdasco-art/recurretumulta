@@ -2414,4 +2414,8 @@ he terminado. Todo queda en la rama merlin-unicidad-2610 @c25bc3fe con la medici
 
 - Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
 - Fichero src/lib/blog-posts-autocaravanas-lote125-g07.ts, 113.913 bytes.
-- Entradas reescritas (copias de lote125.ts): chausson-650-first-line (23), laika-ecovip-600 (22), rimor-sarus-12-plus (21), hobby-optima-ontour (19). Verificación del lote con verificar-lote.py: PASA, restos 0 en las 22 entradas; cifras, URLs, tablas e imágenes idénticos; mismo nº de líneas; sin datos inventados. Verificación independiente del coordinador.
+- Entradas reescritas (copias de lote125.ts): chausson-650-first-line (23), laika-ecovip-600 (22), rimor-sarus-12-plus (21), hobby-optima-ontour (19). Verificación del lote con verificar-lote.py: PASA, restos 0 en las 22 entradas; cifras, URLs, tablas e imágenes idénticos; mismo nº de líneas; sin datos inventados. Verificación independiente del coordinador.## Corrección dedupe — lote125-g10 (lote D1)
+
+- Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
+- Fichero src/lib/blog-posts-autocaravanas-lote125-g10.ts, 102.889 bytes.
+- Entradas reescritas (copias de lote125.ts): pilote-v600g (18), benimar-sport-340-up (9). Verificación del lote con verificar-lote.py: PASA, restos 0 en las 22 entradas; cifras, URLs, tablas e imágenes idénticos; mismo nº de líneas; sin datos inventados. Verificación independiente del coordinador.
