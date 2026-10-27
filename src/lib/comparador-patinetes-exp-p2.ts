@@ -160,7 +160,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["precioEur", "autonomiaRealKm"],
     pros: [
       "Motor de 250 W: suficiente para ciudad llana y consumo mínimo",
       "Batería compacta de 36 V y 5 Ah (180 Wh): carga rápida y ligera",
@@ -354,7 +354,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["tiempoCargaH", "autonomiaRealKm"],
+    aprox: ["precioEur", "tiempoCargaH", "autonomiaRealKm"],
     pros: [
       "Homologado DGT: certificado verificado",
       "45 km declarados con batería de 460 Wh (36 V y 12,8 Ah)",
@@ -479,7 +479,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["precioEur", "autonomiaRealKm"],
     pros: [
       "500 W nominales (1000 W de pico): el Bongo más potente para cuestas",
       "50 km declarados con batería de 48 V y 10 Ah (480 Wh)",
@@ -541,7 +541,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["precioEur", "autonomiaRealKm"],
     pros: [
       "35 km declarados: 10 más que el Serie A Connected básico",
       "Triple frenada: disco, eléctrico y manual trasero",

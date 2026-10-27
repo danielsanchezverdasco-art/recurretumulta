@@ -162,7 +162,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaKm", "autonomiaRealKm"],
+    aprox: ["precioEur", "autonomiaKm", "autonomiaRealKm"],
     pros: [
       "Motor de 550 W (800 W de pico): de los más potentes en su rango",
       "40 km de autonomía declarada con doble suspensión",
@@ -380,7 +380,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaKm", "autonomiaRealKm", "velocidadMaxKmh"],
+    aprox: ["precioEur", "autonomiaKm", "autonomiaRealKm", "velocidadMaxKmh"],
     pros: [
       "500 W con batería de 42 V y 14,5 Ah (609 Wh): 43 km declarados",
       "Cuádruple suspensión delantera y trasera: la más cómoda de Aovopro",
@@ -1076,7 +1076,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaKm", "autonomiaRealKm"],
+    aprox: ["precioEur", "autonomiaKm", "autonomiaRealKm"],
     pros: [
       "Doble motor de 1.200 W (casi 4.000 W de pico) con 1.500 Wh: 90 km declarados",
       "Ruedas de 15 pulgadas: las más grandes del mercado, pisan de todo",
@@ -1545,7 +1545,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaKm", "autonomiaRealKm"],
+    aprox: ["precioEur", "autonomiaKm", "autonomiaRealKm"],
     pros: [
       "Batería de 50 Ah: hasta 129 km de autonomía declarada",
       "Pantalla TFT a color con voltímetro integrado",

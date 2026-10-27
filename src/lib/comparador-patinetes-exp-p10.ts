@@ -96,6 +96,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       },
     ],
     aprox: [
+      "precioEur",
       "autonomiaRealKm",
     ],
     pros: [
@@ -218,6 +219,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       },
     ],
     aprox: [
+      "precioEur",
       "autonomiaRealKm",
     ],
     pros: [
@@ -449,7 +451,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         src: "/media/patinetes/vmax-vx4-3.webp",
       },
     ],
-    aprox: [],
+    aprox: ["precioEur"],
     pros: [
       "Certificado DGT VMP A1177 (versión ST): legal en España",
       'Batería de 874 Wh con neumáticos tubeless off-road de 10"',
@@ -507,6 +509,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       },
     ],
     aprox: [
+      "precioEur",
       "autonomiaRealKm",
       "tiempoCargaH",
     ],
@@ -1163,7 +1166,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     videoId: null,
     videoCanal: null,
     marca: "Jeep",
-    modelo: "Jeep 2xe Urban Camou",
+    modelo: "2xe Urban Camou",
     precioEur: null,
     potenciaNominalW: 500,
     potenciaPicoW: 700,
@@ -1282,7 +1285,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     videoId: null,
     videoCanal: null,
     marca: "Lamborghini",
-    modelo: "Lamborghini AL-EXT",
+    modelo: "AL-EXT",
     precioEur: 753.34,
     potenciaNominalW: 500,
     potenciaPicoW: null,
@@ -1342,7 +1345,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     videoId: "0iZqRbT5j0s",
     videoCanal: null,
     marca: "MV Agusta",
-    modelo: "MV Agusta Rapido Serie Oro",
+    modelo: "Rapido Serie Oro",
     precioEur: 999,
     potenciaNominalW: 500,
     potenciaPicoW: null,
@@ -1455,7 +1458,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     videoId: null,
     videoCanal: null,
     marca: "Jeep",
-    modelo: "Jeep JAD Advanced Safety",
+    modelo: "JAD Advanced Safety",
     precioEur: null,
     potenciaNominalW: 350,
     potenciaPicoW: 515,
