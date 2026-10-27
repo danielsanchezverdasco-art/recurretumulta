@@ -2006,7 +2006,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteNombre: "motorbikemag.es",
     fuenteUrl: "https://www.motorbikemag.es/prueba-macbor-montana-xr1-125-evo-2025-opinion/",
     analisisSlug: null,
-    mantenimientoDIY: {"aceiteTipo": "SAE 10W-40 con especificación API SG, según el manual oficial Macbor: 1,0 L en el cambio solo de aceite y 1,1 L si también se sustituye el filtro.", "cadenaPasos": ["Apoya la moto en el caballete central, sobre una superficie firme y nivelada, antes de intervenir.", "Retira barro y suciedad con un cepillo y un paño de algodón y aplica grasa específica; el manual pide limpiar y engrasar como mínimo cada 500 km.", "Mide la holgura entre la cadena y el basculante girando la rueda trasera y buscando el punto de menor recorrido libre.", "Deja el recorrido libre entre 15 y 25 mm, que es el valor estándar indicado por Macbor.", "Si hay que tensar, afloja la tuerca del eje trasero, actúa por igual en ambos tensores y comprueba que las marcas de cada lado coinciden.", "Aprieta la tuerca del eje trasero a 70-80 Nm y revisa también el desgaste de piñón y corona."], "intervaloMantenimiento": "Primer revisión a los 1.000 kilómetros y después cada 5.000 km, con revisión anual obligatoria si no se alcanza el kilometraje, según la tabla oficial de Macbor; el aceite se cambia cada 5.000 km o 1 año y el filtro de aceite cada 10.000 km o 1 año.", "trucos": ["Comprueba nivel de aceite, refrigerante y presión de neumáticos cada 1.000 km, tal como insiste el manual.", "Tras rodar por polvo, humedad o barro, acorta los plazos: el propio manual pide aumentar la frecuencia de servicio en uso adverso.", "No añadas aditivos químicos ni lubricantes con siliconas: Macbor advierte de que el embrague puede patinar.", "Para conservar la garantía, el manual exige cumplir el plan en la red oficial Macbor y guardar la factura detallada de cada revisión."]},
+    mantenimientoDIY: {"aceiteTipo": "SAE 10W-40 con especificación API SG, según el manual oficial Macbor: 1,0 L en el cambio solo de aceite y 1,1 L si también se sustituye el filtro.", "cadenaPasos": ["Apoya la moto en el caballete central, sobre una superficie firme y nivelada, antes de intervenir.", "Retira barro y suciedad con un cepillo y un paño de algodón y aplica grasa específica; el manual pide limpiar y engrasar como mínimo cada 500 km.", "Mide la holgura entre la cadena y el basculante girando la rueda trasera y buscando el punto de menor recorrido libre.", "Deja el recorrido libre entre 15 y 25 mm, que es el valor estándar indicado por Macbor.", "Si hay que tensar, afloja la tuerca del eje trasero, actúa por igual en ambos tensores y comprueba que las marcas de cada lado coinciden.", "Aprieta la tuerca del eje trasero a 70-80 Nm y revisa también el desgaste de piñón y corona."], "intervaloMantenimiento": "La tabla oficial de Macbor fija la primera revisión a los 1.000 kilómetros y marca después un paso por taller cada 5.000 km, con revisión anual obligatoria cuando no se alcanza el kilometraje; el aceite se cambia cada 5.000 km o 1 año y el filtro de aceite cada 10.000 km o 1 año.", "trucos": ["Comprueba nivel de aceite, refrigerante y presión de neumáticos cada 1.000 km, tal como insiste el manual.", "Tras rodar por polvo, humedad o barro, acorta los plazos: el propio manual pide aumentar la frecuencia de servicio en uso adverso.", "No añadas aditivos químicos ni lubricantes con siliconas: Macbor advierte de que el embrague puede patinar.", "Para conservar la garantía, el manual exige cumplir el plan en la red oficial Macbor y guardar la factura detallada de cada revisión."]},
   },
   {
     id: "silence-s01-plus-ficha-tecnica-precio",
@@ -2251,7 +2251,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "ABS conmutable en 3 modos y disponible limitada a 35 kW para el carnet A2",
     ],
     contras: [
-      "Electrónica básica: sin modos de conducción y sin control de tracción ni IMU",
+      "Electrónica elemental: IMU ausente, sin control de tracción y sin selector de modos de conducción",
       "Protección aerodinámica escasa, la cúpula es baja para viajar por autopista",
       "Asiento alto (875 mm) y estrecho que penaliza a los pilotos de menor estatura",
       "Sin control de crucero ni quickshifter, ni siquiera como opción",
@@ -5881,7 +5881,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Bicilíndrico en paralelo de 755 cc, 91,8 CV y cigüeñal a 270 grados",
+      "Bicilíndrico en paralelo de 755 cc y 91,8 CV, cuyo cigüeñal está calado a 270 grados",
       "Consumo de 4,35 l/100 km con unos 340 km de autonomía real",
       "IMU con control de tracción, anti-wheelie, modos de motor y freno motor regulable",
       "Horquilla de tipo invertido Showa SFF-BP con 41 mm y doble disco delantero de 296 mm",
