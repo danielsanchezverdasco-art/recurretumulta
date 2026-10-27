@@ -66,8 +66,8 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/honda/cb500-hornet-2024",
     analisisSlug: "honda-cb500-hornet-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "El manual pide revisión cada 12.000 km o una vez al año; la primera, al cumplir 1.000 km",
-      aceiteTipo: "Aceite Honda 4-STROKE MOTORCYCLE OIL 10W-30",
+      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+      aceiteTipo: "10W-30 (Honda 4-STROKE MOTORCYCLE OIL)",
       cadenaPasos: [
         "Limpia la cadena con limpiador específico y un trapo, girando la rueda trasera.",
         "Engrasa con lubricante para cadenas con retenes, repartiéndolo en toda la longitud.",
@@ -137,8 +137,8 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     fuenteUrl: "https://hondanews.eu/es/es/motorcycles/media/pressreleases/473839/honda-anuncia-el-precio-y-disponibilidad-de-las-nuevas-cbr650r-y-cb650r-equipadas-con-e-clutch-y-de",
     analisisSlug: "honda-cb650r-e-clutch-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Toca taller cada 12.000 km o cada doce meses, con primera revisión después de los 1.000 km iniciales",
-      aceiteTipo: "Aceite Honda 4-STROKE MOTORCYCLE OIL en 10W-30",
+      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+      aceiteTipo: "10W-30 (Honda 4-STROKE MOTORCYCLE OIL)",
       cadenaPasos: [
         "Limpia y engrasa la cadena cada 500-1.000 km, sobre todo tras la lluvia.",
         "Comprueba la holgura de la cadena según el manual antes de viajes largos.",
@@ -208,8 +208,8 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     fuenteUrl: "https://hondanews.eu/es/es/motorcycles/media/pressreleases/473839/honda-anuncia-el-precio-y-disponibilidad-de-las-nuevas-cbr650r-y-cb650r-equipadas-con-e-clutch-y-de",
     analisisSlug: "honda-cbr650r-e-clutch-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Pasa la primera revisión a los 1.000 km y luego cada 12.000 km o al año",
-      aceiteTipo: "10W-30 de Honda, 4-STROKE MOTORCYCLE OIL",
+      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+      aceiteTipo: "10W-30 (Honda 4-STROKE MOTORCYCLE OIL)",
       cadenaPasos: [
         "Mantén la cadena limpia y engrasada: es una deportiva que se usa a fondo.",
         "Controla la tensión con la moto erguida y el basculante sin carga.",
@@ -279,8 +279,8 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/honda/cmx1100-rebel-2025",
     analisisSlug: "honda-rebel-1100-dct-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Honda establece revisiones cada 12.000 km o anualmente, empezando por la de los 1.000 km",
-      aceiteTipo: "10W-30 Honda 4-STROKE MOTORCYCLE OIL",
+      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+      aceiteTipo: "10W-30 (Honda 4-STROKE MOTORCYCLE OIL)",
       cadenaPasos: [
         "Limpia y engrasa la cadena con regularidad: el par del bicilíndrico la castiga.",
         "Ajusta la tensión según el manual, con la moto en el caballete lateral.",
@@ -351,8 +351,8 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/honda/cb300r",
     analisisSlug: "honda-cb300r-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Revisa cada 12.000 km o cada año: la primera, cuando la moto suma 1.000 km",
-      aceiteTipo: "De Honda, 4-STROKE MOTORCYCLE OIL 10W-30",
+      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+      aceiteTipo: "10W-30 (Honda 4-STROKE MOTORCYCLE OIL)",
       cadenaPasos: [
         "Cadena ligera: límpiala con frecuencia porque se ensucia rápido.",
         "Engrasa tras cada salida con lluvia.",
@@ -423,8 +423,8 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/honda/cb1000r",
     analisisSlug: "honda-cb1000r-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Servicio inicial a los 1.000 km; luego, cada 12.000 km o cada año",
-      aceiteTipo: "10W-30 (aceite Honda 4-STROKE MOTORCYCLE OIL)",
+      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+      aceiteTipo: "10W-30 (Honda 4-STROKE MOTORCYCLE OIL)",
       cadenaPasos: [
         "Con 145 CV, la cadena sufre: inspección visual cada 1.000 km.",
         "Limpia con limpiador específico y engrasa con producto de alta adherencia.",
@@ -494,8 +494,8 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/honda/msx125",
     analisisSlug: "honda-grom-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km; después, cada 6.000 km o una vez al año",
-      aceiteTipo: "Honda 4-STROKE MOTORCYCLE OIL en viscosidad 10W-30",
+      intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera a los 1.000 km)",
+      aceiteTipo: "10W-30 (Honda 4-STROKE MOTORCYCLE OIL)",
       cadenaPasos: [
         "Cadena pequeña y accesible: limpieza rápida con trapo y limpiador.",
         "Engrasa cada 500 km: se seca antes que en motos grandes.",
@@ -565,8 +565,8 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     fuenteUrl: "https://www.noticiasdelmotor.com/noticias/i/77413695/honda-anuncia-el-precio-y-disponibilidad-de-las-nuevas-africa-twin-y-africa-twin-adventure-sports-2024",
     analisisSlug: "honda-africa-twin-adventure-sports-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "El intervalo es de 12.000 km o un año, y la primera revisión cae a los 1.000 km",
-      aceiteTipo: "Viscosidad 10W-30 Honda 4-STROKE MOTORCYCLE OIL",
+      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+      aceiteTipo: "10W-30 (Honda 4-STROKE MOTORCYCLE OIL)",
       cadenaPasos: [
         "Tras cada salida off-road, lava la cadena con agua a baja presión.",
         "Engrasa con lubricante específico para cadenas con retenes.",
@@ -636,8 +636,8 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/scooter/honda/125cc",
     analisisSlug: "honda-sh-mode-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Servicio cada 12.000 km o doce meses; la primera, nada más cumplir 1.000 km",
-      aceiteTipo: "Honda 4-STROKE MOTORCYCLE OIL recomendado en 10W-30",
+      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+      aceiteTipo: "10W-30 (Honda 4-STROKE MOTORCYCLE OIL)",
       trucos: [
         "La correa del variador se revisa cada 12.000 km y se cambia según desgaste.",
         "El Idle Stop tiene batería específica: no la sustituyas por una convencional.",
@@ -702,8 +702,8 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/honda/forza-750",
     analisisSlug: "honda-forza-750-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "La moto pide taller cada 12.000 km o anualmente, tras una primera revisión a los 1.000 km",
-      aceiteTipo: "Aceite recomendado 10W-30 Honda 4-STROKE MOTORCYCLE OIL",
+      intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
+      aceiteTipo: "10W-30 (Honda 4-STROKE MOTORCYCLE OIL)",
       cadenaPasos: [
         "Aunque parezca un scooter, lleva cadena: límpiala y engrásala como en una moto.",
         "Revisa la tensión con la moto en el caballete central.",
@@ -775,7 +775,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     analisisSlug: "yamaha-tracer-9-gt-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
-      aceiteTipo: "10W-40 Yamalube",
+      aceiteTipo: "10W-40 (Yamalube)",
       cadenaPasos: [
         "Cadena de bajo mantenimiento, pero no de nulo mantenimiento: límpiala cada 1.000 km.",
         "Engrasa con lubricante específico tras cada salida con lluvia.",
@@ -845,8 +845,8 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     fuenteUrl: "https://cdn2.yamaha-motor.eu/prod/product-assets/2022/G150/Factsheets/2022-G150_es-ES.pdf",
     analisisSlug: "yamaha-nmax-155-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Yamaha fija revisiones cada 10.000 km o al año, con la primera a los 1.000 km",
-      aceiteTipo: "Yamalube en 10W-40",
+      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
+      aceiteTipo: "10W-40 (Yamalube)",
       trucos: [
         "La correa del variador se inspecciona cada 10.000 km.",
         "El filtro de aire está bajo el asiento: fácil de revisar en casa.",
@@ -911,8 +911,8 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/yamaha-mt-07-2022/",
     analisisSlug: "yamaha-mt-07-y-amt-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Pasa por el taller por primera vez a los 1.000 km; después, el intervalo es de 10.000 km o doce meses",
-      aceiteTipo: "Yamalube 10W-40",
+      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
+      aceiteTipo: "10W-40 (Yamalube)",
       cadenaPasos: [
         "Limpia y engrasa la cadena cada 800-1.000 km.",
         "El Y-AMT no elimina el mantenimiento de la transmisión secundaria.",
@@ -982,8 +982,8 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/yamaha/tracer-7-gt",
     analisisSlug: "yamaha-tracer-7-gt-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "El manual pide taller cada 10.000 km o cada año; la primera, al rodar 1.000 km",
-      aceiteTipo: "10W-40 de Yamalube",
+      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
+      aceiteTipo: "10W-40 (Yamalube)",
       cadenaPasos: [
         "Con maletas y pasajero, la cadena trabaja más: revísala antes de cada viaje.",
         "Limpia y engrasa cada 1.000 km.",
@@ -1053,8 +1053,8 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     fuenteUrl: "https://ymhmotormadrid.com/tmax-tech-max/",
     analisisSlug: "yamaha-tmax-560-tech-max-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Servicio cada 10.000 km o doce meses; la primera, al cumplir 1.000 km",
-      aceiteTipo: "10W-40 Yamalube en aceite",
+      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
+      aceiteTipo: "10W-40 (Yamalube)",
       trucos: [
         "La correa de transmisión se revisa cada 10.000 km y se cambia cada 20.000 km.",
         "El TPMS avisa de la presión: compruébala en frío una vez al mes.",
@@ -1119,8 +1119,8 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/yamaha-mt-07-2022/",
     analisisSlug: "yamaha-mt-07-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Entre revisiones, 10.000 km o un año; la primera llega a los 1.000 km",
-      aceiteTipo: "Viscosidad 10W-40 Yamalube",
+      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
+      aceiteTipo: "10W-40 (Yamalube)",
       cadenaPasos: [
         "La cadena de la MT-07 es fácil de mantener: limpia cada 800 km.",
         "Aplica lubricante específico para cadenas con retenes al engrasar.",
@@ -1190,8 +1190,8 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/yamaha/xmax-300-tech-max",
     analisisSlug: "yamaha-xmax-300-tech-max-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Revisa cada 10.000 km o cada doce meses: la primera, cuando suma 1.000 km",
-      aceiteTipo: "Aceite Yamalube 10W-40",
+      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
+      aceiteTipo: "10W-40 (Yamalube)",
       trucos: [
         "La correa del variador se revisa cada 10.000 km.",
         "La cúpula eléctrica tiene fusible propio: revisa el manual si falla.",
@@ -1256,8 +1256,8 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     fuenteUrl: "https://www.motorpasionmoto.com/naked/yamaha-mt-09-sp-2024",
     analisisSlug: "yamaha-mt-09-sp-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Toca taller cada 10.000 km o anualmente, con primera revisión al superar los 1.000 km",
-      aceiteTipo: "10W-40 Yamalube recomendado",
+      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
+      aceiteTipo: "10W-40 (Yamalube)",
       cadenaPasos: [
         "Con 119 CV, mantén la cadena impecable: limpieza cada 800 km.",
         "Usa lubricante de alta adherencia para cadenas con retenes.",
@@ -1327,8 +1327,8 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/yamaha-xsr700-xtribute-2022/",
     analisisSlug: "yamaha-xsr700-legacy-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "La moto pide taller cada 10.000 km o anualmente, y la primera tras 1.000 km",
-      aceiteTipo: "Aceite recomendado 10W-40 Yamalube",
+      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
+      aceiteTipo: "10W-40 (Yamalube)",
       cadenaPasos: [
         "Cadena estándar: limpieza y engrase cada 1.000 km.",
         "Si montas el escape Akrapovic, revisa los colectores cada revisión.",
@@ -1398,8 +1398,8 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/yamaha-tracer-7-2023/",
     analisisSlug: "yamaha-tracer-7-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "La revisión inicial corresponde a los 1.000 km; después, cada 10.000 km o doce meses",
-      aceiteTipo: "Yamalube 10W-40 recomendado",
+      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
+      aceiteTipo: "10W-40 (Yamalube)",
       cadenaPasos: [
         "Limpia y engrasa la cadena cada 1.000 km, más si viajas cargado.",
         "Mide la tensión con la moto aplomada, sin inclinación lateral.",
