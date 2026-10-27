@@ -2374,4 +2374,8 @@ he terminado. Todo queda en la rama merlin-unicidad-2610 @c25bc3fe con la medici
 
 - Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
 - Fichero src/lib/blog-posts-patinetes-exp-p3.ts, 232.299 bytes.
-- Entradas reescritas: hiboy-ks4 (8 gramas), inmotion-rs-midnight (3), teverun-fighter-11-plus (5). Verificación del lote con verificar-lote.py: PASA, restos 0; cifras, URLs, tablas e imágenes idénticos; sin datos inventados. Verificación independiente del coordinador.
+- Entradas reescritas: hiboy-ks4 (8 gramas), inmotion-rs-midnight (3), teverun-fighter-11-plus (5). Verificación del lote con verificar-lote.py: PASA, restos 0; cifras, URLs, tablas e imágenes idénticos; sin datos inventados. Verificación independiente del coordinador.## Corrección dedupe — patinetes-exp-p4 (lote D4)
+
+- Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
+- Fichero src/lib/blog-posts-patinetes-exp-p4.ts, 268.035 bytes.
+- Entradas reescritas: aovopro-es60 (1 grama), currus-nf (3), egret-ey-6 (1), turboant-x7-max (2). Verificación del lote con verificar-lote.py: PASA, restos 0; cifras, URLs, tablas e imágenes idénticos; sin datos inventados. Verificación independiente del coordinador.
