@@ -68,7 +68,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Con un trapo seco y limpiador específico para cadenas con retenes, limpia la cadena antes de engrasar.",
+        "Antes de engrasar, pasa un paño sin humedad impregnado en producto de limpieza para transmisiones con retenes por toda la cadena.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
         "Con la moto recta, mide la holgura correcta de la cadena y corrígela siguiendo el manual del fabricante.",
       ],
@@ -141,7 +141,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena tras cada salida campera con limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para off-road, que repele el polvo.",
-        "Con la moto apoyada en vertical, comprueba la holgura de la cadena y ajústala según el manual.",
+        "Con la moto derecha y bien sujeta, mide el juego libre de la cadena y ponlo en su medida siguiendo las instrucciones del libro de usuario.",
       ],
       trucos: [
         "Tras el off-road, limpia el filtro de aire: el polvo lo satura rápido.",
@@ -207,11 +207,11 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://moteo.es/kawasaki-z900-2024-precio-ficha-tecnica/",
     analisisSlug: "kawasaki-z900-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 12.000 km o anualmente, pasando la primera revisión tras los primeros 1.000 km",
+      intervaloMantenimiento: "Revisión cada 12.000 km, o bien una vez al año; la revisión inicial toca después de rodar los primeros 1.000 km",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
-        "Aplica lubricante específico para cadenas mientras giras la rueda trasera para distribuirlo bien.",
+        "Unta la transmisión con lubricante en espray apto para retenes mientras haces rodar despacio la rueda de atrás para que quede bien repartida.",
         "Verifica que la cadena tenga la holgura correcta con la moto derecha, siguiendo el manual oficial.",
       ],
       trucos: [
@@ -281,8 +281,8 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       intervaloMantenimiento: "El mantenimiento toca cada 12.000 km o una vez al año, empezando al llegar a 1.000 km",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Desengrasa la cadena con un producto específico para cadenas con juntas tóricas y sécala bien después.",
-        "Lubrica la cadena con un lubricante específico, haciendo girar la rueda trasera poco a poco.",
+        "Quita la grasa vieja de la transmisión con un desengrasante pensado para juntas tóricas y, una vez limpia, déjala secar por completo.",
+        "Engrasa la transmisión con su lubricante habitual mientras mueves la rueda de atrás muy despacio, vuelta a vuelta.",
         "Antes de salir, mide la tensión de la cadena poniéndola en posición vertical y corrígela como indica el manual.",
       ],
       trucos: [
@@ -349,7 +349,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/custom/kawasaki/a-2",
     analisisSlug: "kawasaki-vulcan-s-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Intervalo de 12.000 km o un año, con la primera revisión al cumplir 1.000 km",
+      intervaloMantenimiento: "El servicio toca cada 12.000 km, o bien al cumplirse un año, y la revisión de estreno al llegar a 1.000 km",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
         "La cadena va parcialmente carenada: limpia con trapo y limpiador específico.",
@@ -491,12 +491,12 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/kawasaki-ninja-500-2024/",
     analisisSlug: "kawasaki-ninja-500-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Controla la holgura de la cadena poniéndola en vertical y corrígela según indica el fabricante.",
+      intervaloMantenimiento: "Vigila el juego de la cadena con la moto puesta en pie y ajústalo como recomienda el fabricante.",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
         "Quita la grasa vieja de la cadena con un producto específico para transmisiones con retenes.",
         "Reparte lubricante específico por la cadena girando la rueda trasera hasta cubrir todos los eslabones.",
-        "Controla la holgura de la cadena con la moto en vertical y corrígela según indica el fabricante.",
+        "Revisa el juego libre de la transmisión estando la moto en posición erguida y déjalo ajustado conforme a lo que dice el fabricante.",
       ],
       trucos: [
         "El control de tracción se puede desconectar para circuito.",
@@ -636,7 +636,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       intervaloMantenimiento: "Mantenimiento cada 12.000 km o una vez por año, primera revisión a los mil kilómetros en tu taller",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Quita la suciedad acumulada de la cadena usando limpiador específico para cadenas con juntas.",
+        "Elimina la suciedad pegada a la transmisión con producto de limpieza adecuado para cadenas con juntas.",
         "Lubrica la cadena eslabón a eslabón con lubricante específico, girando la rueda trasera despacio.",
         "Con la moto apoyada verticalmente, comprueba la holgura de la cadena y corrígela según el manual.",
       ],
@@ -670,7 +670,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     pros: [
       "La trail asfáltica de referencia: cómoda, lógica y probadísima",
       "Bicilíndrico de 649 cc con 67 CV: empuje suficiente y consumo contenido",
-      "Pantalla TFT de 4,3 pulgadas con conectividad y control de tracción",
+      "Instrumentación TFT de 4,3 pulgadas que incluye conectividad y control de tracción",
       "Limitable a 35 kW: trail grande para el A2",
       "Amplio catálogo de maletas y accesorios de viaje",
     ],
@@ -708,7 +708,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
         "Frota la cadena con un cepillo y limpiador específico para cadenas selladas hasta dejarla limpia.",
-        "Engrasa la cadena con un lubricante específico para cadenas, moviendo la rueda trasera para repartirlo.",
+        "Aplica grasa específica sobre la transmisión mientras giras poco a poco la rueda de atrás para dejarla bien impregnada.",
         "Verifica que la tensión de la cadena sea correcta con la moto derecha y ajústala como indica el manual oficial.",
       ],
       trucos: [
@@ -776,7 +776,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/suzuki/burgman-400",
     analisisSlug: "suzuki-burgman-400-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o cada año, lo que llegue antes",
+      intervaloMantenimiento: "Cada 6.000 km, o bien una vez al año, según lo que suceda primero",
       aceiteTipo: "10W-40 (Suzuki ECSTAR scooter)",
       cadenaPasos: [],
       trucos: [
@@ -986,7 +986,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o transcurrido un año, con la primera revisión cuando sume 1.000 km",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
-        "Quita la grasa de la cadena con limpiador específico para cadenas con juntas tóricas antes de lubricar.",
+        "Retira la grasa acumulada en la transmisión con limpiador para cadenas con juntas tóricas antes de engrasar de nuevo.",
         "Aplica lubricante específico para cadenas con juntas tóricas girando la rueda trasera varias vueltas.",
         "Con la moto vertical, revisa la holgura de la cadena y déjala ajustada según el manual del fabricante.",
       ],
@@ -1336,7 +1336,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
         "Cepilla la cadena con producto desengrasante para cadenas con retenes y retira la suciedad.",
-        "Engrasa la cadena con lubricante específico para cadenas selladas, haciendo girar la rueda trasera a mano.",
+        "Lubrica la transmisión con producto para cadenas selladas moviendo la rueda de atrás a mano, sin prisas.",
         "Con la moto apoyada en vertical, mide su holgura y ajústala como dice el manual.",
       ],
       trucos: [
@@ -1403,12 +1403,12 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/suzuki/v-strom-800-tech",
     analisisSlug: "suzuki-v-strom-800-tech-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Toca revisión cada 12.000 km o al año, siendo la primera al llegar a los 1.000 km en el taller oficial",
+      intervaloMantenimiento: "La revisión toca cada 12.000 km o al año, y la de estreno al sumar 1.000 km en el taller oficial",
       aceiteTipo: "10W-40 (JASO MA2)",
       cadenaPasos: [
         "Limpia la cadena frotando con limpiador específico y un trapo para quitar toda la suciedad acumulada.",
         "Reparte el lubricante específico por toda la cadena mientras giras la rueda trasera lentamente.",
-        "Verifica que la holgura de la cadena sea la correcta con la moto recta y corrígela siguiendo el manual del propietario.",
+        "Comprueba que el juego de la transmisión sea el adecuado con la moto en posición recta y corrígelo atendiendo al manual del propietario.",
       ],
       trucos: [
         "El quickshifter bidireccional funciona mejor por encima de 3.000 rpm.",
