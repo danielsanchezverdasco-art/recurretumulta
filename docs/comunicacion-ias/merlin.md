@@ -2378,4 +2378,8 @@ he terminado. Todo queda en la rama merlin-unicidad-2610 @c25bc3fe con la medici
 
 - Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
 - Fichero src/lib/blog-posts-patinetes-exp-p4.ts, 268.035 bytes.
-- Entradas reescritas: aovopro-es60 (1 grama), currus-nf (3), egret-ey-6 (1), turboant-x7-max (2). Verificación del lote con verificar-lote.py: PASA, restos 0; cifras, URLs, tablas e imágenes idénticos; sin datos inventados. Verificación independiente del coordinador.
+- Entradas reescritas: aovopro-es60 (1 grama), currus-nf (3), egret-ey-6 (1), turboant-x7-max (2). Verificación del lote con verificar-lote.py: PASA, restos 0; cifras, URLs, tablas e imágenes idénticos; sin datos inventados. Verificación independiente del coordinador.## Corrección dedupe — autocaravanas-lote4 (lote D2)
+
+- Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
+- Fichero src/lib/blog-posts-autocaravanas-lote4.ts, 453.860 bytes.
+- Entradas reescritas: burstner-campeo-td-690-g (27 gramas), burstner-lyseo-i-726-g (26), laika-kosmo-509 (21), adria-compact-supreme-sl (12), elnagh-t-loft-532 (6), hymer-ml-t-570-xperience (4). Verificación del lote con verificar-lote.py: PASA, restos 0; cifras, URLs, tablas e imágenes idénticos; mismo nº de líneas; sin datos inventados. Verificación independiente del coordinador.
