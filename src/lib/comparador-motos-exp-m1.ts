@@ -1137,7 +1137,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 Yamalube (JASO MA2)",
       cadenaPasos: [
-        "Limpia la cadena con un producto específico para cadenas con retenes.",
+        "Limpia la cadena con un producto adecuado para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
         "Comprueba la holgura de la cadena con la moto sobre el caballete y ajústala siguiendo el manual del propietario.",
       ],
