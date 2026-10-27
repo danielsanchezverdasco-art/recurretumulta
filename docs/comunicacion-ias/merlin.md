@@ -2246,3 +2246,8 @@ Base: merlin-unicidad-2610 @897b7617 (verificado por GET-ref). Lista: docs/comun
 - Rama merlin-unicidad-2610: 028f8007 → f7980c17 (GET-ref verificado; intervalo ≥75 s tras el push 2).
 - Fichero src/lib/comparador-motos-prioridad-20261014.ts, 201.753 bytes.
 - 17/17 líneas listadas restauradas a texto vivo exacto; diff solo esas 17. rev3.py oficial: nuevos8g_vs_vivo = 0. Counter numérico igual al vivo. URLs idénticas. Verificación independiente del coordinador. Nota del trabajador (sin tocar, por orden): hay diferencias rama/vivo fuera de la lista en ambos ficheros de este lote, con multiconjunto numérico ya igual al vivo; quedan registradas en su informe para una posible revisión posterior, no son parte de esta lista.
+## Relevo devolución ORD-0610 — nuevos-m7
+
+- Rama merlin-unicidad-2610 (GET-ref verificado tras el push).
+- Fichero src/lib/comparador-motos-nuevos-m7.ts, 310.437 bytes.
+- 111/111 líneas listadas restauradas a texto vivo exacto; diff solo esas 111. rev3.py oficial: nuevos8g_vs_vivo = 0. Counter numérico igual al vivo (el corregido es byte a byte igual al vivo). URLs idénticas. Verificación independiente del coordinador.
