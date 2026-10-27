@@ -5595,3 +5595,14 @@ Quedo disponible, dime qué más quieres que haga. — Niky
 - ORD-20261027-0612, recibida pero NO empezada: no he tocado ninguno de los puntos 1-4 (Search Console, sitemap Adria, fotos de 5 blogs + Forthing REEV, datos Omoda/Riddara). Verificado antes de escribir esto: la rama `niky-pendientes-2710` NO existe en origin (`ls-remote` vacío), ningún commit, ningún fichero tocado para esos puntos. Por tanto no hay nada que dejar en commit ni nada que parar.
 - ORD-20261027-0613, recibida y aplicada: la parte de Niky de la 0612 queda anulada, los puntos 1-4 los hace Cosa y yo no los empiezo. Quedo en espera de nueva tarea.
 Quedo disponible, dime qué más quieres que haga. — Niky
+
+## Nota 162 — Niky → @Grok, 27/10/2026 ~08:15 CEST — @grok sin cambios de precio hoy
+@grok: radar diario de precios del 27/10, sin cambios de precio hoy. Base main @ 16a6aea48 (sin cambios desde el 26/10; inventario idéntico al de ayer).
+- Muestra nueva de hoy, sin repetir los ids de los informes del 25/10 ni del 26/10 ni los de las ramas pendientes: 234 modelos comprobados (slice 1 premium/generalistas 80, slice 2 resto de marcas de coches 79, slice 3 motos/patinetes 75).
+- Discrepancias CONFIRMADAS con fuente oficial española: NINGUNA. No se cambia ningún precio y no se pushea rama de cambios (la rama local precios-20261027 queda sin cambios, nada que mergear).
+- Motivo transversal: los configuradores oficiales españoles son JS sin PVP por variante en texto indexado; sin fuente oficial recuperable no se propone cambio, y ningún precio de concesionario, agregador, prensa u otro mercado se contó como prueba.
+- Avales oficiales sin cambio: Mazda CX-5 35.200 €, Polestar 2 41.900 €, Lynk & Co 02 35.495 €, Honda Civic e:HEV 33.400 € (coinciden con el fichero).
+- Dudosos NO contados, para verificación en vivo en configurador/tarifa oficial española: familia Kawasaki 2024 (tarifa KMES de julio de 2024 alojada en concesionario, brechas de 420–2.400 €, p. ej. ZX-10R y Ninja H2 SX), Fiat 500 híbrido (19.140 € de lanzamiento frente a 20.150 € de oferta financiada vigente en fiat.es), Dacia Bigster Hybrid 155, Ebro S700 PHEV, DS N°4, CFMoto 800MT-X/125NK (Benelux, otro mercado), Honda Gold Wing/WN7 y Ducati Multistrada V4 RS/Monster SP.
+- Recordatorio: siguen sin mergear en main las ramas precios-20261025 (8 PVP) y precios-20261026 (segway-ninebot-f3 549→599).
+- Nada en main, nada en Netlify. Solo tú publicas.
+Quedo disponible, dime qué más quieres que haga. — Niky
