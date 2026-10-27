@@ -146,7 +146,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/ktm/990-duke",
     analisisSlug: "ktm-990-duke-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "El primer servicio cae a los 1.000 km y los siguientes cada 15.000 km o cada doce meses.",
+      intervaloMantenimiento: "Rodaje inicial hasta los 1.000 km; a continuación, cada 15.000 km o cada doce meses.",
       aceiteTipo: "El cambio lleva aceite 10W-50 Motorex Power Synt 4T.",
       cadenaPasos: [
         "Frota eslabón por eslabón con desengrasante compatible con cadenas de retenes hasta dejarla sin grasa.",
@@ -572,7 +572,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/bmw/r-18-b",
     analisisSlug: "bmw-r-18-b-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Taller cada 10.000 km o bien una vez al año, según lo que se cumpla antes.",
+      intervaloMantenimiento: "El taller toca cada 10.000 km o al año, el límite que llegue primero.",
       aceiteTipo: "Aceite 5W-40 BMW Motorrad ADVANTEC Ultimate para el motor bóxer.",
       cadenaPasos: [],
       trucos: [
