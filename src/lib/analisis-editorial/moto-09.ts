@@ -5,7 +5,7 @@ import type { MapaAnalisis } from "../analisis-editorial-tipos";
 export const ANALISIS_MOTO_09: MapaAnalisis = {
   "moto-guzzi-v85-strada-2025-ficha-tecnica-precio": {
     parrafos: [
-      "La V85 Strada es la respuesta de Moto Guzzi a quienes miran la V85 TT y piensan en asfalto: misma base del bicilíndrico en V transversal de 853 cc con 80 CV, pero sin las pretensiones camperas. Llantas de aleación en lugar de radios, cardán como es tradición en Mandello y una postura de roadster cómoda la convierten en una trail de carretera con estética neo-retro que se distingue de cualquier rival japonesa. Por 13.050 € entra de lleno en el segmento medio con un argumento difícil de replicar: carácter mecánico de verdad.",
+      "La V85 Strada es la respuesta de Moto Guzzi a quienes miran la V85 TT y piensan en asfalto: misma base del bicilíndrico transversal en V de 853 cc, que entrega 80 CV, pero sin las pretensiones camperas. Llantas de aleación en lugar de radios, cardán como es tradición en Mandello y una postura de roadster cómoda la convierten en una trail de carretera con estética neo-retro que se distingue de cualquier rival japonesa. Por 13.050 € entra de lleno en el segmento medio con un argumento difícil de replicar: carácter mecánico de verdad.",
       "El Euro5+ mantiene el encanto del V2 con carter seco y un faro redondo full-LED con DRL que guiña a las Guzzi clásicas, mientras la electrónica aporta modos Road, Sport y Rain y una pantalla TFT de 5 pulgadas con conectividad. El depósito de 23 litros promete una autonomía entre las mejores de su categoría, algo que quien viaja agradece más que la protección aerodinámica, que la ficha reconoce justa con una cúpula pequeña. Los 226 kg en orden de marcha y las vibraciones en la zona alta son el precio del romanticismo italiano.",
       "No es moto de campo: quien quiera tierra mirará la V85 TT. La cúpula pequeña limita su protección, pero con 23 litros de depósito y cardán, destila carácter a precio razonable.",
     ],
@@ -357,7 +357,7 @@ export const ANALISIS_MOTO_09: MapaAnalisis = {
   },
   "niu-fqix-300-2026-ficha-tecnica-precio": {
     parrafos: [
-      "El NIU FQiX 300 de 2026 ataca el segmento medio-bajo con un precio agresivo: 2.999 € por un scooter eléctrico equivalente a 125, con 109 km de autonomía declarada, 80 km/h de velocidad máxima y 126 kg. Válido con el A1 o el permiso B con tres años de antigüedad, es una de las formas más baratas de tener un eléctrico con prestaciones urbanas serias de una marca líder.",
+      "El NIU FQiX 300 de 2026 ataca el segmento medio-bajo con un precio agresivo: 2.999 € por un scooter eléctrico equivalente a 125, con 109 km de autonomía declarada, una velocidad máxima de 80 km/h y 126 kg. Válido con el A1 o el permiso B con tres años de antigüedad, es una de las formas más baratas de tener un eléctrico con prestaciones urbanas serias de una marca líder.",
       "Su equilibrio entre precio y prestaciones lo convierte en candidato ideal para flotas urbanas y particulares que hacen muchos kilómetros en ciudad. La autonomía de 109 km cubre jornadas intensivas y los 80 km/h dan margen en vías rápidas urbanas. NIU amplía con la familia FQiX su dominio del segmento eléctrico asequible.",
       "La FQiX 300 es la apuesta de NIU por el scooter eléctrico popular y su doble batería de 72 V comparte arquitectura con la NQiX 500. Los 126 kg no son pocos para un urbano y los acabados son sencillos, se nota el ajuste de precio. Pero por 2.999 € con 109 km de autonomía, es una de las ofertas eléctricas más agresivas.",
     ],
@@ -429,7 +429,7 @@ export const ANALISIS_MOTO_09: MapaAnalisis = {
   },
   "niu-nqi-gts-2026-ficha-tecnica-precio": {
     parrafos: [
-      "El NIU NQi GTS se mantiene en 2026 con la misma fórmula ganadora: 2.699 €, 5,6 CV, 120 km de autonomía y 80 km/h en 87 kg. Válido con el A1 o el carnet B tras tres años de antigüedad, sigue siendo uno de los scooters eléctricos equivalentes a 125 más asequibles, con una autonomía que destaca en su rango de precio.",
+      "El NIU NQi GTS se mantiene en 2026 con la misma fórmula ganadora: 2.699 €, 5,6 CV, 120 km de autonomía y 80 km/h en 87 kg. Para conducirlo basta el A1 o un B con tres años ya cumplidos; sigue siendo uno de los scooters eléctricos equivalentes a 125 más asequibles, con una autonomía que destaca en su rango de precio.",
       "La continuidad sin cambios confirma que NIU ha dado con la tecla: un scooter eléctrico ligero, con autonomía de sobra para el día a día y un precio que lo hace accesible. Para flotas y particulares que buscan electrificar su movilidad urbana sin complicaciones, el NQi GTS 2026 sigue siendo una de las mejores opciones del mercado.",
       "NIU no ha tocado una fórmula que funciona: 2.699 €, 120 km de autonomía y 87 kg siguen siendo imbatibles en su rango. La competencia china aprieta, pero la red y la marca NIU aportan un plus de confianza. Para electrificar la movilidad diaria sin gastar de más, el GTS 2026 repite como favorito.",
     ],
@@ -437,7 +437,7 @@ export const ANALISIS_MOTO_09: MapaAnalisis = {
   },
   "niu-nqi-sport-2026-ficha-tecnica-precio": {
     parrafos: [
-      "El NIU NQi Sport de 2026 es la puerta de entrada a la gama NIU: desde 1.999 € ofrece 5,2 CV, 130 km de autonomía declarada y 45 km/h de velocidad tope, con carnet AM. Es el ciclomotor eléctrico de la marca china para quienes quieren estrenar moto eléctrica por el menor precio posible dentro de una marca consolidada.",
+      "El NIU NQi Sport de 2026 es la puerta de entrada a la gama NIU: desde 1.999 € ofrece 5,2 CV, una autonomía declarada de 130 km y 45 km/h de velocidad tope, con carnet AM. Es el ciclomotor eléctrico de la marca china para quienes quieren estrenar moto eléctrica por el menor precio posible dentro de una marca consolidada.",
       "Los 130 km de autonomía son una cifra generosa para un ciclomotor, que permite varios días de uso urbano sin recargar. Su planteamiento es puramente ciudadano: ligero, ágil y económico. Como primer vehículo eléctrico o como segunda moto para la ciudad, el NQi Sport 2026 ofrece la tecnología NIU al precio más bajo de su historia reciente.",
       "Los 130 km de autonomía declarada son excepcionales para un ciclomotor y permiten días de uso sin recargar. Limitado a 45 km/h, es pura ciudad, pero como primer vehículo eléctrico o segunda moto urbana por 1.999 €, el NQi Sport 2026 democratiza la marca NIU como nunca.",
     ],
@@ -445,7 +445,7 @@ export const ANALISIS_MOTO_09: MapaAnalisis = {
   },
   "niu-nqi-sport-scooter-electrico-1999-euros-gama-2026": {
     parrafos: [
-      "El NIU NQi Sport de la gama 2026 presume de ser el NIU más barato de su historia: desde 1.999 €, con 5,2 CV, 130 km de autonomía declarada, 45 km/h de velocidad máxima y 99 kg. Con carnet AM, es el ciclomotor eléctrico con el que la marca china quiere democratizar definitivamente la movilidad eléctrica.",
+      "El NIU NQi Sport de la gama 2026 presume de ser el NIU más barato de su historia: desde 1.999 €, con 5,2 CV, una autonomía de 130 km declarada por NIU, 45 km/h de velocidad máxima y 99 kg. Con carnet AM, es el ciclomotor eléctrico con el que la marca china quiere democratizar definitivamente la movilidad eléctrica.",
       "Su ligereza y su autonomía lo hacen ideal para el uso urbano diario, con costes por kilómetro mínimos y la posibilidad de recargar en cualquier enchufe. Como carta de presentación de NIU, el NQi Sport demuestra que la marca puede competir en precio con cualquiera sin renunciar a su tecnología. Una opción muy seria para quien busca el eléctrico más económico con respaldo de marca.",
       "Ser el NIU más barato de la historia no es un título menor: abre la marca a un público que antes la veía inalcanzable. Con 99 kg y 130 km de autonomía, es un urbano ligero y eficiente. Por 1.999 €, es la forma más económica de entrar en el ecosistema NIU con todas sus ventajas de conectividad.",
     ],
@@ -461,7 +461,7 @@ export const ANALISIS_MOTO_09: MapaAnalisis = {
   },
   "niu-nqix-300-2026-ficha-tecnica-precio": {
     parrafos: [
-      "El NIU NQiX 300 de 2026 ocupa el punto dulce de la nueva gama: 3.599 € por un scooter-naked eléctrico con 110 km de autonomía, 80 km/h de velocidad máxima y 134 kg. Válido con el A1 o con el B tras tres años de antigüedad, equilibra precio y prestaciones para el usuario urbano exigente.",
+      "El NIU NQiX 300 de 2026 ocupa el punto dulce de la nueva gama: 3.599 € por un scooter-naked eléctrico con 110 km de autonomía, 80 km/h de velocidad máxima y 134 kg. Válido para titulares del A1 y para quienes llevan tres años con el B, equilibra precio y prestaciones para el usuario urbano exigente.",
       "Su formato a medio camino entre scooter y naked le da un aire más motero que sus hermanos de gama, sin renunciar a la practicidad. Los 110 km de autonomía y los 80 km/h lo hacen apto para ciudad y extrarradio. Dentro de la familia NQiX, el 300 es la opción equilibrada para quien quiere algo más que el acceso sin llegar al tope.",
       "Su formato a medio camino entre scooter y naked le da un carácter más motero que el resto de la gama urbana de NIU. Con 110 km de autonomía y 80 km/h, cubre ciudad y extrarradio sin agobios. Por 3.599 €, el NQiX 300 es la opción con más personalidad dentro de la nueva familia.",
     ],
@@ -470,7 +470,7 @@ export const ANALISIS_MOTO_09: MapaAnalisis = {
   "niu-nqix-500-2025-ficha-tecnica-precio": {
     parrafos: [
       "El NIU NQiX 500 de 2025 destaca por su aceleración: el 0-50 km/h en 2,8 segundos lo convierte en el scooter NIU con la salida más viva, por 4.599 €. Con 6,8 CV, 95 km de autonomía, 100 km/h de máxima velocidad y 128 kg, es un scooter eléctrico con prestaciones de 125 y nervio deportivo.",
-      "Válido con el A1 o con el permiso B tras tres años de antigüedad, su aceleración es su seña de identidad en el tráfico urbano. El formato scooter mantiene la practicidad diaria mientras el motor ofrece diversión. Es el NIU para quien quiere sensaciones eléctricas sin renunciar a la versatilidad del scooter.",
+      "Su aceleración es su seña de identidad en el tráfico urbano; lo puede llevar quien disponga del A1 o de un B que acumule tres años de antigüedad. El formato scooter mantiene la practicidad diaria mientras el motor ofrece diversión. Es el NIU para quien quiere sensaciones eléctricas sin renunciar a la versatilidad del scooter.",
       "El 0-50 km/h en 2,8 segundos lo convierte en el NIU con la salida más viva: en el semáforo no tiene rival. Con 100 km/h de punta y 95 km de autonomía, es un scooter completo y divertido. Por 4.599 €, es el eléctrico de NIU para quien valora las sensaciones al acelerar.",
     ],
     veredicto: "Para quien prioriza la aceleración en un scooter eléctrico; la autonomía sigue siendo de ámbito urbano.",
@@ -582,7 +582,7 @@ export const ANALISIS_MOTO_09: MapaAnalisis = {
   "peugeot-pm-01-125-2025-ficha-tecnica-precio": {
     parrafos: [
       "La Peugeot PM-01 125 de 2025 es un hito para la marca: su primera naked en décadas, con 14 CV, 125 cc y 144 kg por 3.995 €. Con estética felina y el máximo legal para el A1, Peugeot entra en el segmento naked 125 con una propuesta de diseño francés diferenciador.",
-      "Apta con el A1 o el carnet B con tres años de antigüedad, la PM-01 compite con las naked 125 japonesas y chinas aportando estilo propio. Sus 14 CV están en el límite legal y su peso contenido promete agilidad. Es la 125 para el joven motorista que quiere una naked con personalidad y el respaldo de una gran marca europea.",
+      "Apta para quien tenga el A1 y para quien lleve tres años con el B, la PM-01 compite con las naked 125 japonesas y chinas aportando estilo propio. Sus 14 CV están en el límite legal y su peso contenido promete agilidad. Es la 125 para el joven motorista que quiere una naked con personalidad y el respaldo de una gran marca europea.",
       "PM-01 significa Peugeot Motorcycles 01, el renacer de las motos Peugeot, que fabricó motos entre 1898 y 1950 antes de centrarse en scooters. El motor no tiene el refinamiento de las japonesas y la red de concesionarios es pequeña, pero como primera naked de la marca en décadas por 3.995 €, la PM-01 es historia viva.",
     ],
     veredicto: "La naked 125 con estilo francés para el A1; no esperes prestaciones más allá del límite legal de la categoría.",
@@ -621,7 +621,7 @@ export const ANALISIS_MOTO_09: MapaAnalisis = {
   },
   "piaggio-1-2025-ficha-tecnica-precio": {
     parrafos: [
-      "El Piaggio 1 de 2025 es el eléctrico urbano italiano por excelencia: por 3.700 € ofrece 2,7 CV, 66 km de autonomía y 60 km/h de velocidad máxima en solo 94 kg, con un centro de gravedad bajísimo que lo hace facilísimo de mover y de ratonear entre el tráfico. Válido con el permiso A1 o con el permiso B con tres años cumplidos de antigüedad, es el eléctrico de Piaggio para la ciudad.",
+      "El Piaggio 1 de 2025 es el eléctrico urbano italiano por excelencia: por 3.700 € ofrece 2,7 CV, 66 km de autonomía y 60 km/h de velocidad máxima en solo 94 kg, con un centro de gravedad bajísimo que lo hace facilísimo de mover y de ratonear entre el tráfico. Válido con un B que cuente ya con tres años, o con el A1, es el eléctrico de Piaggio para la ciudad.",
       "Su diseño italiano inconfundible lo diferencia de los eléctricos genéricos, y su ligereza lo convierte en uno de los scooters más ágiles del segmento. La autonomía de 66 km es suficiente para el día a día urbano. El Piaggio 1 es la apuesta de la marca de Pontedera por la electrificación urbana con estilo.",
       "Tiene una edición especial diseñada por el modista Feng Chen Wang y el cuadro muestra la palabra 'READY' para indicar que el motor está activo, porque no suena nada: detalles con encanto italiano. Las suspensiones son blanditas e imprecisas con piloto pesado y el modo Eco limita a 30 km/h. Pero como urbano ligero y con estilo, el Piaggio 1 convence.",
     ],
@@ -637,7 +637,7 @@ export const ANALISIS_MOTO_09: MapaAnalisis = {
   },
   "piaggio-1-ficha-tecnica-precio": {
     parrafos: [
-      "La variante Active del Piaggio 1 es el eléctrico urbano de Pontedera con 94 kg y un centro de gravedad muy bajo: moverlo en parado o colarse entre coches resulta trivial. Cuesta 3.700 €, rinde 2,7 CV, alcanza 60 km/h y homologa 66 km de autonomía, y se puede llevar con el A1 o con el carné B con tres años de carnet.",
+      "La variante Active del Piaggio 1 es el eléctrico urbano de Pontedera con 94 kg y un centro de gravedad muy bajo: moverlo en parado o colarse entre coches resulta trivial. Cuesta 3.700 €, rinde 2,7 CV, alcanza 60 km/h y homologa 66 km de autonomía, y lo puede llevar quien tenga un B con tres años o el A1.",
       "Su baza es la manejabilidad extrema: 94 kilos se aparcan en cualquier rincón y el silencio total lo hace ideal para la ciudad. El diseño mantiene el aire Piaggio con líneas actuales, lejos de la estética genérica de muchos eléctricos chinos. La autonomía cubre el día a día urbano sin agobios, aunque no da para salir del entorno metropolitano.",
       "Como el resto de la familia luce la edición especial de Feng Chen Wang y el simpático 'READY' del cuadro que avisa de que el motor está activo. Las suspensiones blandas y el modo Eco capado a 30 km/h son sus limitaciones, pero en agilidad urbana pocos eléctricos le hacen sombra.",
     ],
@@ -653,7 +653,7 @@ export const ANALISIS_MOTO_09: MapaAnalisis = {
   },
   "piaggio-beverly-310-2025-ficha-tecnica-precio": {
     parrafos: [
-      "El Piaggio Beverly 310 de 2025 es el scooter de rueda alta italiano en su punto óptimo: por 5.900 € ofrece el propulsor HPE de 310 cc y 27,7 CV, el equilibrio perfecto para el carnet A2. Es el Beverly para quien quiere prestaciones suficientes sin llegar al 400, con la elegancia y la rueda alta que caracterizan a la familia.",
+      "El Piaggio Beverly 310 de 2025 es el scooter de rueda alta italiano en su punto óptimo: por 5.900 € ofrece el propulsor HPE, de 310 cc, que rinde 27,7 CV; el equilibrio perfecto para el carnet A2. Es el Beverly para quien quiere prestaciones suficientes sin llegar al 400, con la elegancia y la rueda alta que caracterizan a la familia.",
       "Su planteamiento es el del scooter premium urbano e interurbano: cómodo, estable y con presencia, capaz de moverse por ciudad y de salir a carretera con dignidad. El motor HPE es una garantía de rendimiento y fiabilidad. El Beverly 310 es la elección racional dentro de la gama para el A2.",
       "El Beverly es el scooter de rueda alta más vendido en Italia desde hace años y el motor HPE debutó precisamente en esta gama: la receta está probadísima. El hueco bajo el asiento no da para un integral en todas las versiones y la protección aerodinámica mejora con la cúpula alta. Pero como scooter medio premium, el Beverly 310 es referencia.",
     ],
