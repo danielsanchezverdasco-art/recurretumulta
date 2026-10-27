@@ -1615,3 +1615,10 @@ rev3.py publicado en esta rama: `tools/rev3/rev3.py` (+ LEEME.md con parámetros
 - Fichero: src/lib/blog-posts-batch2b-6.ts — 287.580 bytes, blob e38f36e0. 24 líneas reescritas en 8 posts (los 12 8-gramas con 1 sola aparición en el original que podían ser malos); resto intacto a propósito, sin reutilizar la reescritura parcial anterior.
 - Medición rev3.py (commit local de medición ca64643b1): nuevos8g_vs_vivo = 0, nuevos8g_vs_padre = 0, lista_vs_vivo = []. Acumulado batch2b-6 = 0; total de rama en esa medición 631 (resto de otros ficheros, en curso).
 - Cifras y URLs intactas (cif± {}, url± 0). Nada en main, nada en Netlify. Siguiente en la cadena: moto-09.
+
+### ORD-0610 — Parte: moto-09 re-medida (relevo 36)
+
+- Rama: merlin-unicidad-2610. Commit: 256cca3d920c73c77118fc1904457fc9c961defc (padre be37ec55, verificado por GET-ref).
+- Fichero: src/lib/analisis-editorial/moto-09.ts — 122.373 bytes, blob 5e3e5f3d. Las 23 frases de la re-medición rev3 (el medidor viejo decía 0) reescritas en 11 líneas, sin tocar cifras, modelos ni especificaciones.
+- Medición rev3.py (commit local de medición 943297030): nuevos8g_vs_vivo = 0, nuevos8g_vs_padre = 0, lista_vs_vivo = []. Acumulado moto-09 = 0 (era 23); efecto cruzado: exp-m24 6→4, exp-m25 18→7.
+- Multiconjunto numérico idéntico. Nada en main, nada en Netlify. Siguiente en la cadena: prioridad.
