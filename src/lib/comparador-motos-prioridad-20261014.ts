@@ -1198,7 +1198,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       { src: "/media/can-am-origin-2026-ficha-tecnica-precio-hunt2.webp", alt: "Origin (foto: Ultimate Motorcycling (prueba de la Can-Am Origin dual-sport), licencia desconocida)", ancho: 1068, alto: 712 },
     ],
     mantenimientoDIY: null,
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Según la ficha oficial BRP de la Origin, su guardacadena cerrado protege la cadena silenciosa y un tensor automático mantiene la tensión sin ajustes periódicos; al ser eléctrica no hay aceite de motor que cambiar y la revisión se centra en frenos, neumáticos con cámara y estado de la batería.", "intervalo": "10.000 km o cada doce meses (lo que ocurra antes)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual", "queSeCambia": "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Según la ficha oficial BRP de la Origin, su guardacadena cerrado protege la cadena silenciosa y un tensor automático mantiene la tensión sin ajustes periódicos; al ser eléctrica no hay aceite de motor que cambiar y la revisión se centra en frenos, neumáticos con cámara y estado de la batería.", "intervalo": "12 meses o 10.000 km (lo que ocurra antes)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual", "queSeCambia": "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería"}]},
   },
   // ── CAN-AM PULSE 2026 ─────────────────────────────
   {
@@ -1238,7 +1238,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "un año o 10.000 kilómetros (lo que llegue antes)",
+      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
       revisiones: [
         { nombre: "Revisión anual", queSeCambia: "Pastillas de freno + neumáticos + diagnóstico de batería + inspección general", costeAproxEur: null },
       ],
@@ -1282,7 +1282,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       { src: "/media/cfmoto-300nk-2026-ficha-tecnica-precio-hunt1.webp", alt: "300NK (foto: CFMoto Australia (página oficial del modelo 300NK) vía Mojo Motorcycles, licencia desconocida)", ancho: 1440, alto: 990 },
     ],
     mantenimientoDIY: null,
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Mantenimiento orientativo para la CFMOTO 300NK 2026; sin coste publicado por ausencia de tarifa oficial localizada para este modelo en España", "intervalo": "12 meses o 10.000 km (lo que ocurra antes)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión cada año", "queSeCambia": "Plan orientativo aplicado a esta naked de 292 cc: primera comprobación tras el rodaje y después revisiones periódicas con cambio de aceite y filtro, control de cadena, frenos con ABS y horquilla invertida; pendiente de contrastar con el manual español de la 300NK"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Mantenimiento orientativo para la CFMOTO 300NK 2026; sin coste publicado por ausencia de tarifa oficial localizada para este modelo en España", "intervalo": "12 meses o 10.000 km (lo que ocurra antes)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual", "queSeCambia": "Plan orientativo aplicado a esta naked de 292 cc: primera comprobación tras el rodaje y después revisiones periódicas con cambio de aceite y filtro, control de cadena, frenos con ABS y horquilla invertida; pendiente de contrastar con el manual español de la 300NK"}]},
   },
   // ── CFMOTO 300SR 2026 ─────────────────────────────
   {
@@ -1358,7 +1358,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       { src: "/media/cfmoto-650nk-2025-ficha-tecnica-precio-hunt1.webp", alt: "650NK (foto: CFMoto Canada oficial, licencia desconocida)", ancho: 1200, alto: 1200 },
     ],
     mantenimientoDIY: null,
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario 400NK/650NK consultado en Scribd para la especificación de aceite y los datos del motor (45 kW a 8.750 rpm y 56 Nm a 7.000 rpm); el intervalo se mantiene tal como estaba en la ficha y su coste no se ha podido contrastar en una fuente oficial de CFMoto España para la 650NK 2025", "intervalo": "10.000 km o un año (lo que suceda antes)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual", "queSeCambia": "Plan orientativo, no la tabla oficial de la 650NK: comprobaciones propias de su bicilíndrico de 649,3 cc con refrigeración líquida, aceite 10W-40 de especificación JASO MA2 según su manual compartido con la 400NK, cadena de transmisión, frenos J.Juan y niveles, pendientes de confirmación con el manual español del modelo"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario 400NK/650NK consultado en Scribd para la especificación de aceite y los datos del motor (45 kW a 8.750 rpm y 56 Nm a 7.000 rpm); el intervalo se mantiene tal como estaba en la ficha y su coste no se ha podido contrastar en una fuente oficial de CFMoto España para la 650NK 2025", "intervalo": "12 meses o 10.000 km (lo que ocurra antes)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual", "queSeCambia": "Plan orientativo, no la tabla oficial de la 650NK: comprobaciones propias de su bicilíndrico de 649,3 cc con refrigeración líquida, aceite 10W-40 de especificación JASO MA2 según su manual compartido con la 400NK, cadena de transmisión, frenos J.Juan y niveles, pendientes de confirmación con el manual español del modelo"}]},
   },
   // ── CFMOTO 675SR-R 2026 ─────────────────────────────
   {
@@ -1435,12 +1435,12 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 kilómetros (lo que ocurra primero)",
+      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
       revisiones: [
         { nombre: "Revisión anual", queSeCambia: "Mantenimiento orientativo (modelo similar gama CFMoto / 450MT, misma marca): control de rodaje a los 1.000 km y después cada 6 meses o…", costeAproxEur: null },
       ],
       costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar gama CFMoto / 450MT, misma marca): control de rodaje a los 1.000 km y después cada medio año o 5.000 km, lo que ocurra…",
+      fuente: "Mantenimiento orientativo (modelo similar gama CFMoto / 450MT, misma marca): control de rodaje a los 1.000 km y después cada 6 meses o 5.000 km, lo que ocurra…",
     },
   },
   // ── DUCATI DESERTX RALLY 2025 ─────────────────────────────
@@ -1481,7 +1481,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "15.000 kilómetros o un año (lo que llegue antes)",
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         { nombre: "Revisión anual", queSeCambia: "Mantenimiento orientativo (modelo similar Multistrada V2 / DesertX / Hypermotard 698, misma marca): Oil Service cada 15.000 km y Desmo…", costeAproxEur: null },
       ],
@@ -1642,12 +1642,12 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra primero)",
+      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         { nombre: "Revisión anual", queSeCambia: "Desmo Service cada 24.000 km y Oil Service cada 12.000 km, con el calendario aproximado que toman la Scrambler 800 y la Panigale V4, ambas de la misma marca", costeAproxEur: null },
       ],
       costeAnualAproxEur: null,
-      fuente: "Calendario aproximado de la Scrambler 800 y de la Panigale V4, de la misma marca: Oil Service cada 12.000 km y Desmo Service cada 24.000 km (Ducati Madrid,…",
+      fuente: "Mantenimiento orientativo (modelo similar Scrambler 800 / Panigale V4, misma marca): Oil Service cada 12.000 km y Desmo Service cada 24.000 km (Ducati Madrid,…",
     },
   },
   // ── DUCATI PANIGALE V4 S 2026 ─────────────────────────────
@@ -1688,7 +1688,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       { src: "/media/ducati-panigale-v4-s-2026-ficha-tecnica-precio-hunt3.webp", alt: "Panigale V4 S (foto: Cycle News / Ducati (presentación Panigale V4 S 2025), licencia desconocida)", ancho: 730, alto: 487 },
     ],
     mantenimientoDIY: null,
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual de usuario Ducati Panigale V4 (2024) y mantenimiento oficial Ducati: Oil Service cada 12.000 km, Desmo Service cada 24.000 km y servicio anual cada 12 meses", "intervalo": "12.000 km o cada año (lo que ocurra primero)", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión 1.000 km", "queSeCambia": "Control inicial tras el rodaje: dispositivos eléctricos de seguridad, iluminación, controles, nivel de refrigerante y prueba en carretera, con registro del cupón de servicio"}, {"costeAproxEur": null, "nombre": "Oil Service cada 12.000 km", "queSeCambia": "Cambio del aceite del motor y sustitución del filtro de aceite en el Desmosedici Stradale de 1.103 cc"}, {"costeAproxEur": null, "nombre": "Desmo Service cada 24.000 km", "queSeCambia": "Comprobación y ajuste del juego de válvulas desmodrómicas de las 16 válvulas del V4 a 90º"}, {"costeAproxEur": null, "nombre": "Revisión anual cada 12 meses", "queSeCambia": "Revisión por tiempo aunque no se alcancen los 12.000 km: controles generales, frenos, cadena y actualización de vencimientos en el cuadro"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual de usuario Ducati Panigale V4 (2024) y mantenimiento oficial Ducati: Oil Service cada 12.000 km, Desmo Service cada 24.000 km y servicio anual cada 12 meses", "intervalo": "12.000 km o 12 meses (lo que ocurra antes)", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión 1.000 km", "queSeCambia": "Control inicial tras el rodaje: dispositivos eléctricos de seguridad, iluminación, controles, nivel de refrigerante y prueba en carretera, con registro del cupón de servicio"}, {"costeAproxEur": null, "nombre": "Oil Service cada 12.000 km", "queSeCambia": "Cambio de aceite de motor y sustitución del filtro de aceite en el Desmosedici Stradale de 1.103 cc"}, {"costeAproxEur": null, "nombre": "Desmo Service cada 24.000 km", "queSeCambia": "Comprobación y ajuste del juego de válvulas desmodrómicas de las 16 válvulas del V4 a 90º"}, {"costeAproxEur": null, "nombre": "Revisión anual cada 12 meses", "queSeCambia": "Revisión por tiempo aunque no se alcancen los 12.000 km: controles generales, frenos, cadena y actualización de vencimientos en el cuadro"}]},
   },
   // ── DUCATI SCRAMBLER 800 FULL THROTTLE 2026 ─────────────────────────────
   {
@@ -1765,12 +1765,12 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12.000 kilómetros o 12 meses (lo que suceda antes)",
+      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         { nombre: "Revisión anual", queSeCambia: "Pauta orientativa que siguen la Scrambler 800 y la Panigale V4, de la misma firma: Oil Service cada 12.000 kilómetros, con Desmo Service cada 24.000…", costeAproxEur: null },
       ],
       costeAnualAproxEur: null,
-      fuente: "Pauta de referencia de la Scrambler 800 con la Panigale V4, de la misma firma: Desmo Service con intervalo de 24.000 km (Ducati Madrid,… con Oil Service cada 12.000 kilómetros",
+      fuente: "Mantenimiento orientativo (modelo similar Scrambler 800 / Panigale V4, misma marca): Oil Service cada 12.000 km y Desmo Service cada 24.000 km (Ducati Madrid,…",
     },
   },
   // ── DUCATI STREETFIGHTER V4 S 2026 ─────────────────────────────
@@ -1812,10 +1812,10 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     planMantenimiento: {
       intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
-        { nombre: "Revisión cada año", queSeCambia: "Calendario orientativo tomado de la Scrambler 800 junto a la Panigale V4, de la misma casa: Oil Service cada 12.000 km, con Desmo Service cada 24.000 kilómetros…", costeAproxEur: null },
+        { nombre: "Revisión anual", queSeCambia: "Mantenimiento orientativo (modelo similar Scrambler 800 / Panigale V4, misma marca): Oil Service cada 12.000 km y Desmo Service cada 24.000…", costeAproxEur: null },
       ],
       costeAnualAproxEur: null,
-      fuente: "Calendario orientativo de la Panigale V4 y de la Scrambler 800, de la misma casa, con un Oil Service con intervalo de 12.000 km, con un Desmo Service cada 24.000 kilómetros (Ducati Madrid,…",
+      fuente: "Mantenimiento orientativo (modelo similar Scrambler 800 / Panigale V4, misma marca): Oil Service cada 12.000 km y Desmo Service cada 24.000 km (Ducati Madrid,…",
     },
   },
   // ── ENERGICA EGO+ 2025 ─────────────────────────────
@@ -1855,9 +1855,9 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "un año o 10.000 km (lo que ocurra primero)",
+      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
       revisiones: [
-        { nombre: "Revisión cada año", queSeCambia: "Inspección general, pastillas de freno, neumáticos y diagnóstico de batería", costeAproxEur: null },
+        { nombre: "Revisión anual", queSeCambia: "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería", costeAproxEur: null },
       ],
       costeAnualAproxEur: null,
       fuente: "Mantenimiento orientativo (modelo similar Eva, misma marca): revisiones a 1.000 / 10.000 / 20.000 km y cada 12 / 24 meses según manual Energica Eva. Fuente:…",
@@ -1905,7 +1905,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         { nombre: "Revisión anual programada", queSeCambia: "Inspección completa + pastillas de freno + neumáticos + diagnóstico de batería", costeAproxEur: null },
       ],
       costeAnualAproxEur: null,
-      fuente: "Mantenimiento según manual Energica Eva: revisiones a los 1.000 / 10.000 / 20.000 kilómetros y cada 12 / 24 meses. Fuente:…",
+      fuente: "Mantenimiento según manual Energica Eva: revisiones a 1.000 / 10.000 / 20.000 km y cada 12 / 24 meses. Fuente:…",
     },
   },
   // ── FANTIC CABALLERO 125 RALLY 2025 ─────────────────────────────
