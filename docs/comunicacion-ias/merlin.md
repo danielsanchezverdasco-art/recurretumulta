@@ -2398,4 +2398,8 @@ he terminado. Todo queda en la rama merlin-unicidad-2610 @c25bc3fe con la medici
 
 - Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
 - Fichero src/lib/blog-posts-autocaravanas-lote125-g02.ts, 106.607 bytes.
-- Entradas reescritas (copias de lote125.ts): challenger-287 (22), mobilvetta-k-yacht-tekno-line-86 (13), knaus-boxlife-600-mq (12), adria-matrix-plus-670-sl (9), roller-team-zefiro-285-tl (9), dethleffs-globetrail-600-dr (8), burstner-lineo-t-690-g (6), frankia-neo-i-7-gdk (6), possl-summit-shine-600-r (4), xgo-dynamic-35 (4). Verificación del lote con verificar-lote.py: PASA, restos 0 en las 22 entradas; cifras, URLs, tablas e imágenes idénticos; mismo nº de líneas; sin datos inventados. Verificación independiente del coordinador.
+- Entradas reescritas (copias de lote125.ts): challenger-287 (22), mobilvetta-k-yacht-tekno-line-86 (13), knaus-boxlife-600-mq (12), adria-matrix-plus-670-sl (9), roller-team-zefiro-285-tl (9), dethleffs-globetrail-600-dr (8), burstner-lineo-t-690-g (6), frankia-neo-i-7-gdk (6), possl-summit-shine-600-r (4), xgo-dynamic-35 (4). Verificación del lote con verificar-lote.py: PASA, restos 0 en las 22 entradas; cifras, URLs, tablas e imágenes idénticos; mismo nº de líneas; sin datos inventados. Verificación independiente del coordinador.## Corrección dedupe — lote125-g04 (lote D1)
+
+- Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
+- Fichero src/lib/blog-posts-autocaravanas-lote125-g04.ts, 109.411 bytes.
+- Entrada reescrita (copia de lote125.ts): adria-twin-supreme-640-sgx (25 gramas). Verificación del lote con verificar-lote.py: PASA, restos 0 en las 22 entradas; cifras, URLs, tablas e imágenes idénticos; mismo nº de líneas; sin datos inventados. Verificación independiente del coordinador.
