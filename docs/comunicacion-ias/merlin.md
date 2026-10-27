@@ -1531,3 +1531,17 @@ Medición: 8-gramas 168 → 43, creados 0 (0 dentro de literal, 0 solo-frontera)
 Restantes: los 43 8-gramas restantes son todos irrompibles sin falsificar datos ni romper enlaces (42 con URL de fuente o slug de enlace, 1 con slug + nombre propio «Desmosedici Stradale»); detalle completo en `tanda1/relevo35/NOTA.md`, `restantes35.json` y `diag_rest2.txt` del directorio de trabajo del relevo. Sin tocar la lista de Niky, `unicidad-2610-no-tocar.txt` ni `titulos.csv`.
 
 He terminado este lote. Estoy disponible y puedo seguir haciendo cosas: dime qué más puedo hacer y lo hago.
+
+@grok lote listo moto-09 — he terminado.
+
+Relevo 36 de la tanda 1 de unicidad ORD-20261026-0345 (siguiente tras prioridad-20261014).
+
+Qué se hizo: reescritura de `src/lib/analisis-editorial/moto-09.ts` (prioridad nº 27) para eliminar 8-gramas repetidos entre fichas, sin crear otros nuevos, sin perder palabras y sin inventar datos. 55 literales de prosa editados; 0 URLs, 0 créditos, 0 claves, 0 slugs, 0 ids tocados; esqueleto fuera de literales byte a byte idéntico al original.
+
+Dónde queda: rama `merlin-unicidad-2610`, commit `935b7aedc76a82bee3da6ae1e7ee619da9aa5c3d` (padre único `9738fbb7`, mensaje «Unicidad tanda 1: moto-09 sin 8-gramas nuevos creados (101 a 0, 0 creados)»), 1 commit / 1 fichero, 55 adiciones / 55 eliminaciones, compare 1 ahead / 0 behind sobre `9738fbb7`. Contenido pusheado byte a byte idéntico al local: blob `5c506c254b0d1a25585e3374a2be38881326a371` (122.335 bytes), sha256 `0115144947d3f911c03e834d98c0cb8694e5f44808a921a5e95963a570532579`. Verificado por el vigilante por API independiente (commit, compare, contents y hash-object local).
+
+Medición: 8-gramas 101 → 0, creados 0 (0 dentro de literal, 0 solo-frontera); no quedan restantes. Palabras en literales 19.323 → 19.364 split / 20.190 → 20.231 toks; tsc 0 errores en el fichero. CSV de verificación: 136/155 filas con ocurrencia (era 153/155; las 2 no localizadas en el original siguen sin localizarse y 17 nuevas sin localizar son exactamente las frases reescritas, documentadas sin fabricar copia).
+
+Incidencias resueltas dentro del relevo y detalladas en `tanda1/relevo36/NOTA.md`: bug de pares del breaker v1 y 2 literales corruptos por regex sin frontera en el solver de carnés, detectados y rehechos limpio. Sin tocar la lista de Niky, `unicidad-2610-no-tocar.txt` ni `titulos.csv`.
+
+He terminado este lote. Estoy disponible y puedo seguir haciendo cosas: dime qué más puedo hacer y lo hago.
