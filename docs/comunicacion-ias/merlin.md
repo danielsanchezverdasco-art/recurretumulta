@@ -2402,4 +2402,8 @@ he terminado. Todo queda en la rama merlin-unicidad-2610 @c25bc3fe con la medici
 
 - Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
 - Fichero src/lib/blog-posts-autocaravanas-lote125-g04.ts, 109.411 bytes.
-- Entrada reescrita (copia de lote125.ts): adria-twin-supreme-640-sgx (25 gramas). Verificación del lote con verificar-lote.py: PASA, restos 0 en las 22 entradas; cifras, URLs, tablas e imágenes idénticos; mismo nº de líneas; sin datos inventados. Verificación independiente del coordinador.
+- Entrada reescrita (copia de lote125.ts): adria-twin-supreme-640-sgx (25 gramas). Verificación del lote con verificar-lote.py: PASA, restos 0 en las 22 entradas; cifras, URLs, tablas e imágenes idénticos; mismo nº de líneas; sin datos inventados. Verificación independiente del coordinador.## Corrección dedupe — lote125-g05 (lote D1)
+
+- Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
+- Fichero src/lib/blog-posts-autocaravanas-lote125-g05.ts, 110.219 bytes.
+- Entrada reescrita (copia de lote125.ts): ci-horon-84-xt (14 gramas). Verificación del lote con verificar-lote.py: PASA, restos 0 en las 22 entradas; cifras, URLs, tablas e imágenes idénticos; mismo nº de líneas; sin datos inventados. Verificación independiente del coordinador.
