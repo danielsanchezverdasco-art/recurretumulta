@@ -1,0 +1,1208 @@
+# Revisión merlin-unicidad-2610 @897b7617 frente al vivo c94f7b99e (deploy 6adf20d7). Cosa/Grok, 27/10 (Madrid)
+# Formato: Lnnn [motivos] cambios «vivo» → «rama». Nº de línea = el mismo en vivo y rama (la rama no añade ni quita líneas).
+# Totales por motivo: {"cifras": 282, "cifra deletreada/reformulada": 226, "TEXTO ROTO": 14, "«lo que ocurra antes» rotado": 197, "spinning en campo de dato": 707, "DATO PERDIDO": 12}
+
+## src/lib/analisis-editorial/coche-25.ts (21 líneas)
+L21 [cifras: perdidas {'7,7': 1} nuevas {'7': 2}; cifra deletreada/reformulada] «en 7,7» → «que exige 7» | «» → «y 7 décimas»
+L31 [cifras: perdidas {'5,4': 1} nuevas {'5': 1, '4': 1}; cifra deletreada/reformulada] «» → «motor» | «5,4» → «5» | «» → «y 4 décimas»
+L76 [cifras: perdidas {'3,8': 1} nuevas {'3': 1, '8': 1}; cifra deletreada/reformulada] «Nm y» → «Nm, que cubre» | «3,8» → «3» | «» → «y 8 décimas»
+L86 [cifras: perdidas {'0': 1} nuevas {}] «convierte en una de» → «sitúa entre» | «» → «la» | «momento.» → «momento actual.»
+L93 [cifras: perdidas {'0': 1} nuevas {}] «acelera de 0 a» → «firma un sprint hasta los» | «renunciar a nada.» → «perder ninguna prestación.»
+L111 [cifras: perdidas {'5,7': 1} nuevas {'7': 1, '5': 1}; cifra deletreada/reformulada] «con una batería» → «gracias a un acumulador» | «5,7» → «5» | «» → «más 7 décimas»
+L121 [cifras: perdidas {'0': 1} nuevas {}] «El 0 a» → «Su aceleración hasta los» | «en» → «de» | «y la» → «con»
+L126 [cifras: perdidas {'4,5': 1} nuevas {'4': 1}] «» → «sprint de» | «» → «logrado» | «4,5 segundos.» → «4 segundos y medio.»
+L136 [cifras: perdidas {'2,9': 1} nuevas {'2': 1, '9': 1}; cifra deletreada/reformulada] «y» → «que registra» | «2,9 segundos,» → «2 segundos y 9 décimas,»
+L186 [cifras: perdidas {'0': 1} nuevas {}] «con» → «a partir de» | «con» → «y» | «0 a» → «arranque hasta los»
+L261 [cifras: perdidas {'0': 1} nuevas {}] «Nm y un 0 a» → «Nm, con una aceleración hasta los»
+L266 [cifras: perdidas {'0': 1} nuevas {}] «El 0 a» → «Su aceleración hasta los»
+L273 [cifras: perdidas {'8': 1} nuevas {}; cifra deletreada/reformulada] «garantía de» → «» | «de 8» → «asegurada durante ocho»
+L293 [cifras: perdidas {'0': 1, '6,4': 1} nuevas {'6,40': 1}] «El 0 a» → «Su paso hasta los» | «6,4» → «6,40» | «» → «batería con»
+L301 [cifras: perdidas {'0': 1} nuevas {}] «solo» → «apenas» | «con» → «y» | «0 a» → «tiempo hasta los»
+L313 [cifras: perdidas {'0': 1} nuevas {}] «con» → «y» | «0 a» → «despegue hasta los» | «consumo» → «gasto»
+L331 [TEXTO ROTO] «» → «0 a 100 km de infarto. Su»
+L351 [cifras: perdidas {'3,6': 1} nuevas {'3': 1, '6': 1}; cifra deletreada/reformulada] «con el» → «y un» | «en 3,6» → «de 3» | «» → «y 6 décimas»
+L376 [cifras: perdidas {'0': 1, '6,8': 1} nuevas {'6': 1, '8': 1}; cifra deletreada/reformulada] «acelera de 0 a» → «alcanza los» | «6,8 segundos.» → «6 segundos y 8 décimas.»
+L441 [cifras: perdidas {'4,1': 1} nuevas {'4': 1, '1': 1}; cifra deletreada/reformulada] «» → «además de» | «en 4,1» → «de 4» | «» → «y 1 décima»
+L456 [cifras: perdidas {'6,8': 1} nuevas {'6': 1, '8': 1}; cifra deletreada/reformulada] «un» → «6 segundos y 8 décimas de» | «en 6,8 segundos» → «»
+
+## src/lib/analisis-editorial/moto-09.ts (0 líneas)
+
+## src/lib/blog-posts-autocaravanas-lote125-g08.ts (2 líneas)
+L34 [cifra deletreada/reformulada] «"Desde» → «"La Carado T 447 2026 arranca en» | «» → «la» | «ficha de la Carado T 447 2026,» → «»
+L47 [cifra deletreada/reformulada] «gemelas\">\n\n**¿Vas con prisa?** <a href=https://recurretumulta.online/autocaravanas/carado-t-447-2026-precio» → «gemelas\">\n\n<a href=https://recurretumulta.online/autocaravanas/carado-t-447-2026-precio-ficha-tecnica/>Fich» | «447</a> con lo esencial: precio, MMA, plazas, dimensiones y galería.\n\nSi» → «447</a>\n\nSi» | «» → «es la»
+
+## src/lib/blog-posts-autocaravanas-lote125-g09.ts (1 líneas)
+L152 [cifras: perdidas {'4': 1} nuevas {}] «homologadas» → «autorizadas» | «carnet» → «permiso» | «publica» → «declara»
+
+## src/lib/blog-posts-autocaravanas-lote125-g11.ts (9 líneas)
+L31 [cifras: perdidas {'6': 1} nuevas {}; cifra deletreada/reformulada] «eléctrica\">\n\n**¿Buscas solo los datos?** <a» → «eléctrica\">\n\n<a» | «2026</a>: precio, MMA, plazas, dimensiones y galería.\n\nLa» → «2026</a>\n\nLa» | «de» → «con»
+L49 [cifras: perdidas {'2026': 1} nuevas {}; cifra deletreada/reformulada] «alemana\">\n\n**¿Buscas solo los datos?** <a href=https://recurretumulta.online/autocaravanas/carthago-c-toure» → «alemana\">\n\n<a href=https://recurretumulta.online/autocaravanas/carthago-c-tourer-t-145-rb-le-2026-precio-fi» | «de la» → «del» | «LE 2026</a>: precio, MMA, plazas, dimensiones y galería.\n\nLa» → «LE</a>\n\nLa»
+L67 [cifras: perdidas {'2026': 1} nuevas {}; cifra deletreada/reformulada] «liner\">\n\n**¿Buscas solo los datos?** <a href=https://recurretumulta.online/autocaravanas/concorde-credo-791» → «liner\">\n\n<a href=https://recurretumulta.online/autocaravanas/concorde-credo-791-li-2026-precio-ficha-tecnic» | «de la» → «del» | «LI 2026</a>: precio, MMA, plazas, dimensiones y galería.\n\nLa» → «LI</a>\n\nLa»
+L85 [cifras: perdidas {'726': 1, '2026': 1} nuevas {}; cifra deletreada/reformulada] «Integra Line GT» → «» | «integral\">\n\n**¿Buscas solo los datos?** <a href=https://recurretumulta.online/autocaravanas/euramobil-integ» → «integral\">\n\n<a href=https://recurretumulta.online/autocaravanas/euramobil-integra-line-gt-il-726-ef-2026-pr» | «Eura Mobil Integra Line GT IL 726 EF 2026</a>: precio, MMA, plazas, dimensiones y galería.\n\nLa» → «integral</a>\n\nLa»
+L103 [cifras: perdidas {'2026': 1, '19': 1} nuevas {}; cifra deletreada/reformulada] «Sprinter\">\n\n**¿Buscas solo los datos?** <a href=https://recurretumulta.online/autocaravanas/hymer-grand-can» → «Sprinter\">\n\n<a href=https://recurretumulta.online/autocaravanas/hymer-grand-canyon-s-2026-precio-ficha-tecn» | «de la» → «del» | «S 2026</a>: precio, MMA, plazas, dimensiones y galería.\n\nLa» → «S</a>\n\nLa»
+L121 [cifras: perdidas {'2026': 1} nuevas {}; cifra deletreada/reformulada] «italiana\">\n\n**¿Buscas solo los datos?** <a href=https://recurretumulta.online/autocaravanas/mclouis-mc4-231» → «italiana\">\n\n<a href=https://recurretumulta.online/autocaravanas/mclouis-mc4-231-2026-precio-ficha-tecnica/>» | «231 2026</a>: precio, MMA, plazas, dimensiones y galería.\n\nEl» → «231</a>\n\nEl» | «PVP y» → «PVP:»
+L139 [cifras: perdidas {'2026': 1, '2': 1} nuevas {}; cifra deletreada/reformulada] «gemelas\">\n\n**¿Buscas solo los datos?** <a href=https://recurretumulta.online/autocaravanas/pilote-v630j-202» → «gemelas\">\n\n<a href=https://recurretumulta.online/autocaravanas/pilote-v630j-2026-precio-ficha-tecnica/>Fich» | «V630J 2026</a>: precio, MMA, plazas, dimensiones y galería.\n\nEl» → «V630J</a>\n\nEl» | «histórica de» → «que»
+L157 [cifras: perdidas {'2026': 1} nuevas {}; cifra deletreada/reformulada] «seis\">\n\n**¿Buscas solo los datos?** <a href=https://recurretumulta.online/autocaravanas/roller-team-auto-ro» → «seis\">\n\n<a href=https://recurretumulta.online/autocaravanas/roller-team-auto-roller-746-2026-precio-ficha-t» | «de la» → «completa:» | «746 2026</a>: precio, MMA, plazas, dimensiones y galería.\n\nLa» → «746</a>\n\nLa»
+L175 [cifras: perdidas {'2026': 1, '6': 1} nuevas {}; cifra deletreada/reformulada] «metros\">\n\n**¿Buscas solo los datos?** <a href=https://recurretumulta.online/autocaravanas/weinsberg-caratou» → «metros\">\n\n<a href=https://recurretumulta.online/autocaravanas/weinsberg-caratour-600-mq-2026-precio-ficha-t» | «MQ 2026</a>: precio, MMA, plazas, dimensiones y galería.\n\nEl» → «MQ</a>\n\nEl» | «» → «(103 kW)»
+
+## src/lib/blog-posts-batch2b-6.ts (0 líneas)
+
+## src/lib/blog-posts-lepas-a.ts (1 líneas)
+L17 [cifras: perdidas {'100': 1, '0': 1} nuevas {'4': 1}] «montaña\">\n\n**¿Buscas solo los datos?** <a href=/coches/lepas-l4-ev-2026-precio-ficha-tecnica/>Ver la ficha» → «montaña\">\n\n<a href=/coches/lepas-l4-ev-2026-precio-ficha-tecnica/>Ficha» | «EV</a>: precio, autonomía, batería y medidas.» → «EV</a>» | «cara a cara» → «»
+
+## src/lib/blog-posts-motos-exp-m3.ts (4 líneas)
+L327 [cifra deletreada/reformulada] «scrambler>\n\n**¿Buscas solo los datos?** <a href=/motos/voge-525acx-2024-ficha-tecnica-precio/>Ver ficha» → «scrambler>\n\n<a href=/motos/voge-525acx-2024-ficha-tecnica-precio/>Ficha» | «525ACX</a>: precio, motor y etiqueta DGT.» → «525ACX</a>.» | «href=/comparador-motos/>Compárala cara» → «href=/comparador-motos/>Enfrenta la de la Voge 525ACX»
+L847 [cifras: perdidas {'3': 2} nuevas {'125': 2}; cifra deletreada/reformulada] «naked>\n\n**¿Buscas solo los datos?** <a href=/motos/mitt-nk-125-2025-ficha-tecnica-precio/>Ver ficha» → «naked>\n\n<a href=/motos/mitt-nk-125-2025-ficha-tecnica-precio/>Ficha» | «125</a>: precio, motor y etiqueta DGT.» → «125</a>.» | «href=/comparador-motos/>Compárala cara» → «href=/comparador-motos/>Enfrenta la de la Mitt NK 125»
+L967 [cifras: perdidas {'3': 1} nuevas {'125': 1}; cifra deletreada/reformulada] «musa>\n\n**¿Buscas solo los datos?** <a href=/motos/malaguti-drakon-125-2024-ficha-tecnica-precio/>Ver ficha» → «musa>\n\n<a href=/motos/malaguti-drakon-125-2024-ficha-tecnica-precio/>Ficha» | «125</a>: precio, motor y etiqueta DGT.» → «125</a>.» | «href=/comparador-motos/>Compárala cara» → «href=/comparador-motos/>Enfrenta la de la Malaguti Drakon 125»
+L1007 [cifras: perdidas {'3': 1} nuevas {'125': 1}; cifra deletreada/reformulada] «racer>\n\n**¿Buscas solo los datos?** <a href=/motos/mondial-hps-125-2024-ficha-tecnica-precio/>Ver ficha» → «racer>\n\n<a href=/motos/mondial-hps-125-2024-ficha-tecnica-precio/>Ficha» | «125</a>: precio, motor y etiqueta DGT.» → «125</a>.» | «href=/comparador-motos/>Compárala cara» → «href=/comparador-motos/>Enfrenta la de la Mondial HPS 125»
+
+## src/lib/blog-posts-motos-exp-m4.ts (1 líneas)
+L887 [cifra deletreada/reformulada] «**ABS» → «**equipo de frenada» | «» → «de serie» | «doble canal y» → «dos canales con»
+
+## src/lib/blog-posts-prio2-1.ts (5 líneas)
+L15 [cifras: perdidas {'152': 1} nuevas {}] «carretera>\n\n**¿Buscas solo los datos?** <a href=/motos/honda-cb1000-hornet-2024-ficha-tecnica-precio/>Ver la» → «carretera>\n\n<a href=/motos/honda-cb1000-hornet-2024-ficha-tecnica-precio/>Ficha» | «2024</a>: precio, 152 CV, peso y equipamiento.» → «2024</a>.» | «href=/comparador-motos/>Compárala cara» → «href=/comparador-motos/>Mídela frente»
+L26 [cifras: perdidas {'35,4': 1} nuevas {}] «ciudad>\n\n**¿Buscas solo los datos?** <a href=/motos/piaggio-beverly-400-2024-ficha-tecnica-precio/>Ver la fi» → «ciudad>\n\n<a href=/motos/piaggio-beverly-400-2024-ficha-tecnica-precio/>Ficha» | «2024</a>: precio, 35,4 CV, peso y equipamiento.» → «2024</a>.» | «Mantenimiento\n\nEl plan oficial Piaggio marca revisiones» → «Mantenimiento\n\nPiaggio fija para este modelo una revisión»
+L37 [cifras: perdidas {'218': 1, '80': 1} nuevas {}] «enchufable>\n\n**¿Buscas solo los datos?** <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica/>Ver la ficha» → «enchufable>\n\n<a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica/>Ficha» | «DM-i</a>: precio, 218 CV, 80 km eléctricos y equipamiento.» → «DM-i</a>.» | «» → «pensado para»
+L48 [cifras: perdidas {'133': 1} nuevas {}] «eléctrico>\n\n**¿Buscas solo los datos?** <a href=/motos/silence-s01-ficha-tecnica-precio/>Ver la ficha» → «eléctrico>\n\n<a href=/motos/silence-s01-ficha-tecnica-precio/>Ficha» | «S01</a>: precio, 133 km de autonomía, batería extraíble y equipamiento.» → «S01</a>.»
+L59 [cifras: perdidas {'68': 1} nuevas {}] «verde>\n\n**¿Buscas solo los datos?** <a href=/motos/kawasaki-ninja-650-2024-ficha-tecnica-precio/>Ver la fich» → «verde>\n\n<a href=/motos/kawasaki-ninja-650-2024-ficha-tecnica-precio/>Ficha» | «2024</a>: precio, 68 CV, peso y equipamiento.» → «2024</a>.» | «href=/comparador-motos/>Compárala cara a cara» → «href=/comparador-motos/>Enfréntala»
+
+## src/lib/comparador-motos-base.ts (17 líneas)
+L1169 [«lo que ocurra antes» rotado] «antes)",» → «primero)",»
+L1178 [spinning en campo de dato queSeCambia] «» → «bujías +» | «aire + bujías",» → «aire",»
+L2564 [cifras: perdidas {} nuevas {'800': 1}; «lo que ocurra antes» rotado] «"10.000 km o» → «"Para la F 800 GS: revisión al alcanzar 10.000 km, sin dejar pasar más de» | «(lo que ocurra antes)",» → «entre una visita al taller y la siguiente",»
+L2573 [spinning en campo de dato queSeCambia] «"Aceite + filtro de aceite» → «"Bujías» | «bujías",» → «aceite + filtro de aceite",»
+L2825 [spinning en campo de dato queSeCambia] «bujías +» → «» | «procede",» → «procede + bujías",»
+L3304 [spinning en campo de dato queSeCambia] «"Aceite + filtro de aceite» → «"Bujías» | «bujías",» → «aceite con filtro nuevo",»
+L3476 [cifras: perdidas {} nuevas {'300': 1}; «lo que ocurra antes» rotado] «"10.000 km o» → «"El XMAX 300 pasa por taller cada 10.000 km, y también cuando se cumplen» | «(lo» → «desde la revisión anterior, según lo» | «ocurra antes)",» → «llegue antes en su uso urbano",»
+L3485 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Revisión» | «aceite» → «la correa del variador» | «revisión de correa del variador",» → «aceite y filtro nuevos",»
+L4607 [spinning en campo de dato queSeCambia] «"Aceite + filtro de aceite» → «"Bujía» | «bujía",» → «aceite nuevo con su filtro",»
+L5166 [spinning en campo de dato intervalo] «km» → «kilómetros»
+L5175 [spinning en campo de dato queSeCambia] «"Aceite» → «"Filtro de aire + bujías» | «filtro de aire + bujías",» → «aceite",»
+L6344 [«lo que ocurra antes» rotado] «"10.000» → «"12 meses o 10.000» | «o 12 meses» → «» | «ocurra» → «venza»
+L6353 [spinning en campo de dato queSeCambia] «"Aceite» → «"Filtro de aceite» | «filtro de» → «bujías +» | «aire + bujías",» → «aire",»
+L6780 [«lo que ocurra antes» rotado] «"10.000 km» → «"Cada 10.000 kilómetros» | «» → «cada» | «(lo» → «(según lo»
+L6789 [spinning en campo de dato queSeCambia] «bujía +» → «» | «desgaste)",» → «desgaste) + bujía",»
+L7239 [spinning en campo de dato queSeCambia] «+ filtro de aceite +» → «con su filtro,» | «+» → «y»
+L7723 [spinning en campo de dato queSeCambia] «"Aceite» → «"Bujías + aceite» | «aire + bujías",» → «aire",»
+
+## src/lib/comparador-motos-exp-m1.ts (44 líneas)
+L560 [spinning en campo de dato aceiteTipo] «(JASO» → «con JASO» | «MA,» → «MA y» | «superior)",» → «superior",»
+L634 [spinning en campo de dato aceiteTipo] «"10W-30 (JASO T 903 MA,» → «"10W-30,» | «superior)",» → «superior y JASO T 903 MA",»
+L708 [spinning en campo de dato aceiteTipo] «(JASO» → «con especificación JASO» | «superior)",» → «superior",»
+L855 [spinning en campo de dato intervaloMantenimiento] «"Primera» → «"La primera» | «km y después» → «km; el resto,»
+L998 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"Revisiones cada» | «meses (primera» → «meses, empezando» | «km)",» → «km.",»
+L1067 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"La pauta es cada» | «meses (primera» → «meses, primera visita» | «km)",» → «km.",»
+L1137 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"La pauta es cada» | «meses (primera» → «meses, rodaje inicial» | «km)",» → «km.",»
+L1212 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"Mantenimiento cada» | «meses (primera» → «meses, arrancando» | «km)",» → «km.",»
+L1286 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"Pauta de servicio cada» | «meses (primera» → «meses, desde la primera» | «km)",» → «km.",»
+L1365 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"Intervalo» | «km o» → «km, con tope de» | «meses (primera a» → «meses; empezando en»
+L1439 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"Visitas» | «(primera» → «como máximo, arranque» | «km)",» → «km.",»
+L1518 [spinning en campo de dato intervaloMantenimiento] «los» → «»
+L1592 [spinning en campo de dato intervaloMantenimiento] «km (primera» → «km, con la primera» | «km)",» → «km",»
+L1741 [spinning en campo de dato intervaloMantenimiento] «después» → «luego»
+L1839 [cifra deletreada/reformulada] «"Bicilíndrico» → «"Dos cilindros»
+L1877 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"La pauta es cada» | «meses (primera» → «meses, primera parada» | «km)",» → «km.",»
+L1951 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"Plan» | «km o» → «km, con tope de» | «meses (primera» → «meses; inicio»
+L2025 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"Intervalo» | «(primera» → «como máximo, inicio» | «km)",» → «km.",»
+L2099 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"Plan» | «o» → «sin pasar de» | «meses (primera a» → «meses, primera revisión en»
+L2173 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"Plan» | «meses (primera a» → «meses, rodaje hasta» | «km)",» → «km.",»
+L2308 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"Servicio» | «meses (primera a» → «meses, desde la revisión de» | «km)",» → «km.",»
+L2383 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"Plan» | «meses (primera» → «meses, arranque» | «km)",» → «km.",»
+L2396 [spinning en campo de dato intervalo] «"Cada» → «"Intervalo de» | «meses (primera» → «meses, con» | «» → «inicial»
+L2479 [spinning en campo de dato intervaloMantenimiento] «"Cada 12.000» → «"12.000» | «(primera» → «entre revisiones, empezando» | «km)",» → «km",»
+L2553 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"Al taller cada» | «meses (primera a» → «meses, desde» | «km)",» → «km iniciales",»
+L2627 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"Primera revisión: 1.000 km — siguientes:» | «o» → «/» | «meses (primera a los 1.000 km)",» → «meses",»
+L2701 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"1.000 km (primera) ·» | «(primera a los 1.000 km)",» → «(siguientes)",»
+L2836 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"Revisiones: 1.000 km, luego» | «meses (primera a los 1.000 km)",» → «meses",»
+L2913 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"Pauta» | «meses (primera» → «meses, primera» | «los» → «»
+L2986 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"Servicio» | «meses (primera a» → «meses, primera parada en» | «km)",» → «km.",»
+L2987 [spinning en campo de dato aceiteTipo] «(API» → «con API» | «superior,» → «superior y norma» | «MA)",» → «MA",»
+L2989 [cifras: perdidas {'1.000': 1} nuevas {}; cifra deletreada/reformulada] «1.000 km,» → «mil kilómetros,» | «tras» → «después de»
+L3059 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"Plan» | «(primera a» → «como máximo, primera parada en» | «km)",» → «km.",»
+L3060 [spinning en campo de dato aceiteTipo] «"10W-40 (API» → «"10W-40, API» | «o superior,» → «como mínimo y» | «MA)",» → «MA",»
+L3062 [cifras: perdidas {'1.000': 1} nuevas {}; cifra deletreada/reformulada] «» → «de transmisión» | «1.000 km,» → «mil kilómetros,»
+L3132 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"Taller: 1.000 km la primera vez;» | «(primera a los 1.000 km)",» → «después",»
+L3205 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"Pauta» | «o» → «sin pasar de» | «meses (primera a» → «meses, con la primera en»
+L3206 [spinning en campo de dato aceiteTipo] «(API» → «de API» | «» → «con» | «MA)",» → «MA",»
+L3278 [spinning en campo de dato intervaloMantenimiento] «"Cada 6.000 km o 12 meses (primera» → «"Taller» | «km)",» → «km; luego cada 12 meses o 6.000 km",»
+L3347 [spinning en campo de dato intervaloMantenimiento] «"Primera a» → «"A» | «» → «la primera» | «después» → «»
+L3422 [spinning en campo de dato intervaloMantenimiento] «» → «revisión» | «km y después» → «km; después,»
+L3431 [DATO PERDIDO: filtro de aire] «"Filtro» → «"El filtro» | «aceite:» → «aceite se cambia» | «km. Filtro» → «km y el»
+L3570 [spinning en campo de dato intervaloMantenimiento] «» → «revisión» | «y» → «en taller;» | «meses",» → «meses.",»
+L3571 [spinning en campo de dato aceiteTipo] «(API» → «que cumpla API» | «superior,» → «superior y» | «MA)",» → «MA",»
+
+## src/lib/comparador-motos-exp-m16.ts (23 líneas)
+L65 [cifras: perdidas {'1.000': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Intervalo de» | «1.000 km)",» → «mil kilómetros)",»
+L70 [cifra deletreada/reformulada] «"Comprueba» → «"Con» | «tensión con» → «Dax apoyada sobre sus dos ruedas, comprueba» | «moto en vertical» → «holgura»
+L133 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «12 meses (primera» → «un año: la primera revisión va» | «km)",» → «km",»
+L169 [cifras: perdidas {'4': 1} nuevas {}; cifra deletreada/reformulada] «"Cambio» → «"Caja» | «4» → «cuatro» | «centrífugo:» → «centrífugo y»
+L238 [cifras: perdidas {'2': 1} nuevas {}; cifra deletreada/reformulada] «"Horquilla invertida Showa SFF-BP y doble» → «"Doble» | «» → «delantero» | «2 canales",» → «dos canales y horquilla invertida Showa SFF-BP",»
+L273 [cifras: perdidas {} nuevas {'500': 1}] «"Engrasa» → «"Unta la cadena de la NX500» | «específico» → «y haz rodar su rueda posterior» | «cadenas, girando la rueda trasera para repartirlo.",» → «extender el producto.",»
+L274 [cifras: perdidas {} nuevas {'500': 1}] «"Comprueba» → «"Con» | «tensión con» → «NX500 en vertical, controla su holgura de cadena y déjala en» | «moto en vertical y ajusta según el manual del propietario.",» → «medida que indica su manual.",»
+L306 [cifra deletreada/reformulada] «"Bicilíndrico» → «"Dos cilindros» | «con» → «y»
+L372 [cifras: perdidas {'6': 1} nuevas {}; cifra deletreada/reformulada] «"2026:» → «"Para 2026:» | «6» → «seis» | «con ABS» → «que vigila tracción, caballitos y frenada»
+L410 [cifras: perdidas {} nuevas {'1100': 1}] «"Comprueba» → «"Mide» | «tensión» → «holgura de la NT1100» | «en vertical» → «recta»
+L607 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Primera revisión a los 1.000 km; después, cada» | «12 meses (primera a los 1.000 km)",» → «al cumplir un año",»
+L610 [cifras: perdidas {} nuevas {'09': 1}] «"Limpia» → «"Desengrasa» | «» → «de la MT-09 SP» | «un limpiador específico» → «producto»
+L675 [spinning en campo de dato intervaloMantenimiento] «"Cada 10.000 km o 12 meses (primera» → «"Primera» | «km)",» → «km; después, revisiones cada 12 meses o cada 10.000 km",»
+L679 [cifras: perdidas {} nuevas {'10': 1}] «con» → «la cadena de la MT-10 SP repartiendo el» | «específico para cadenas, girando la» → «al hacer rodar su» | «trasera para repartirlo.",» → «posterior.",»
+L680 [cifras: perdidas {} nuevas {'10': 1}] «"Comprueba» → «"Toma» | «tensión» → «holgura de la MT-10 SP» | «» → «recta y déjala»
+L748 [cifras: perdidas {} nuevas {'450': 1}] «"Comprueba» → «"Mide» | «tensión con» → «holgura de» | «moto» → «YZ450F apoyada»
+L816 [cifras: perdidas {} nuevas {'250': 1}] «"Comprueba» → «"Revisa» | «tensión» → «holgura de la WR250F» | «en el» → «subida al»
+L879 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"A los 1.000 km, primera revisión; a partir de ahí, revisiones cada» | «» → «cada» | «meses (primera a los 1.000 km)",» → «meses",»
+L884 [cifras: perdidas {} nuevas {'07': 1}] «"Comprueba» → «"Controla» | «tensión» → «holgura de la MT-07» | «» → «recta, dejándola»
+L947 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Primera revisión con 1.000 km; luego, una revisión al año o cada» | «km o 12 meses (primera a los 1.000 km)",» → «km",»
+L950 [cifras: perdidas {} nuevas {'9': 1}] «"Limpia» → «"Pasa desengrasante para juntas tóricas por» | «con un limpiador específico para cadenas con retenes.",» → «de la Tracer 9.",»
+L951 [cifras: perdidas {} nuevas {'9': 1}] «» → «la cadena de la Tracer 9» | «lubricante específico» → «lubricante, girando a mano su rueda posterior» | «cadenas, girando la rueda trasera para repartirlo.",» → «extenderlo.",»
+L952 [cifras: perdidas {} nuevas {'9': 1}] «"Comprueba» → «"Con» | «tensión con» → «Tracer 9 recta, revisa» | «moto en vertical» → «holgura»
+
+## src/lib/comparador-motos-exp-m19.ts (39 líneas)
+L69 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"El manual pide revisión cada» | «12 meses (primera a los» → «una vez al año; la primera, al cumplir» | «km)",» → «km",»
+L70 [spinning en campo de dato aceiteTipo] «"10W-30 (Honda» → «"Aceite Honda» | «OIL)",» → «OIL 10W-30",»
+L140 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Toca taller cada» | «12 meses (primera a» → «cada doce meses, con primera revisión después de» | «km)",» → «km iniciales",»
+L141 [spinning en campo de dato aceiteTipo] «"10W-30 (Honda» → «"Aceite Honda» | «OIL)",» → «OIL en 10W-30",»
+L211 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Pasa la primera revisión a los 1.000 km y luego cada» | «12 meses (primera a los 1.000 km)",» → «al año",»
+L212 [spinning en campo de dato aceiteTipo] «(Honda» → «de Honda,» | «OIL)",» → «OIL",»
+L282 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Honda establece revisiones cada» | «12 meses (primera a» → «anualmente, empezando por la de» | «km)",» → «km",»
+L283 [spinning en campo de dato aceiteTipo] «(Honda» → «Honda» | «OIL)",» → «OIL",»
+L354 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Revisa cada» | «12 meses (primera a los» → «cada año: la primera, cuando la moto suma» | «km)",» → «km",»
+L355 [spinning en campo de dato aceiteTipo] «"10W-30 (Honda» → «"De Honda,» | «OIL)",» → «OIL 10W-30",»
+L426 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Servicio inicial a los 1.000 km; luego, cada» | «12 meses (primera a los 1.000 km)",» → «cada año",»
+L427 [spinning en campo de dato aceiteTipo] «(Honda» → «(aceite Honda»
+L497 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Primera revisión a los 1.000 km; después, cada» | «12 meses (primera a los 1.000 km)",» → «una vez al año",»
+L498 [spinning en campo de dato aceiteTipo] «"10W-30 (Honda» → «"Honda» | «OIL)",» → «OIL en viscosidad 10W-30",»
+L568 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"El intervalo es de» | «12 meses (primera» → «un año, y la primera revisión cae» | «km)",» → «km",»
+L569 [spinning en campo de dato aceiteTipo] «"10W-30 (Honda» → «"Viscosidad 10W-30 Honda» | «OIL)",» → «OIL",»
+L639 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Servicio cada» | «12 meses (primera a los» → «doce meses; la primera, nada más cumplir» | «km)",» → «km",»
+L640 [spinning en campo de dato aceiteTipo] «"10W-30 (Honda» → «"Honda» | «OIL)",» → «OIL recomendado en 10W-30",»
+L705 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"La moto pide taller cada» | «12 meses (primera» → «anualmente, tras una primera revisión» | «km)",» → «km",»
+L706 [spinning en campo de dato aceiteTipo] «"10W-30 (Honda» → «"Aceite recomendado 10W-30 Honda» | «OIL)",» → «OIL",»
+L778 [spinning en campo de dato aceiteTipo] «(Yamalube)",» → «Yamalube",»
+L848 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Yamaha fija revisiones cada» | «12 meses (primera» → «al año, con la primera» | «km)",» → «km",»
+L849 [spinning en campo de dato aceiteTipo] «"10W-40 (Yamalube)",» → «"Yamalube en 10W-40",»
+L914 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Pasa por el taller por primera vez a los 1.000 km; después, el intervalo es de» | «12 meses (primera a los 1.000 km)",» → «doce meses",»
+L915 [spinning en campo de dato aceiteTipo] «"10W-40 (Yamalube)",» → «"Yamalube 10W-40",»
+L985 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"El manual pide taller cada» | «12 meses (primera a los» → «cada año; la primera, al rodar» | «km)",» → «km",»
+L986 [spinning en campo de dato aceiteTipo] «(Yamalube)",» → «de Yamalube",»
+L1056 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Servicio cada» | «12 meses (primera a los» → «doce meses; la primera, al cumplir» | «km)",» → «km",»
+L1057 [spinning en campo de dato aceiteTipo] «(Yamalube)",» → «Yamalube en aceite",»
+L1122 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Entre revisiones,» | «12 meses (primera» → «un año; la primera llega» | «km)",» → «km",»
+L1123 [spinning en campo de dato aceiteTipo] «"10W-40 (Yamalube)",» → «"Viscosidad 10W-40 Yamalube",»
+L1193 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Revisa cada» | «12 meses (primera a los» → «cada doce meses: la primera, cuando suma» | «km)",» → «km",»
+L1194 [spinning en campo de dato aceiteTipo] «"10W-40 (Yamalube)",» → «"Aceite Yamalube 10W-40",»
+L1259 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Toca taller cada» | «12 meses (primera a» → «anualmente, con primera revisión al superar» | «km)",» → «km",»
+L1260 [spinning en campo de dato aceiteTipo] «(Yamalube)",» → «Yamalube recomendado",»
+L1330 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"La moto pide taller cada» | «12 meses (primera a los» → «anualmente, y la primera tras» | «km)",» → «km",»
+L1331 [spinning en campo de dato aceiteTipo] «"10W-40 (Yamalube)",» → «"Aceite recomendado 10W-40 Yamalube",»
+L1401 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"La revisión inicial corresponde a los 1.000 km; después, cada» | «12 meses (primera a los 1.000 km)",» → «doce meses",»
+L1402 [spinning en campo de dato aceiteTipo] «"10W-40 (Yamalube)",» → «"Yamalube 10W-40 recomendado",»
+
+## src/lib/comparador-motos-exp-m20.ts (19 líneas)
+L139 [cifras: perdidas {'12': 1, '1.000': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Revisión cada» | «12 meses (primera» → «cada año, con la primera» | «1.000 km)",» → «mil kilómetros",»
+L210 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Revisión cada» | «km» → «km,» | «12 meses (primera a» → «bien una vez al año; la revisión inicial toca después de rodar»
+L281 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"El mantenimiento toca cada» | «12 meses (primera» → «una vez al año, empezando al llegar» | «los» → «»
+L352 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"El servicio toca cada» | «km» → «km,» | «12 meses (primera» → «bien al cumplirse un año, y la revisión de estreno al llegar»
+L423 [cifras: perdidas {'12': 1, '1.000': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Pasa revisión cada» | «12 meses (primera» → «cada doce meses, la primera al llegar» | «1.000 km)",» → «mil kilómetros en tu taller habitual",»
+L494 [cifras: perdidas {'12.000': 1, '12': 1, '1.000': 1} nuevas {}] «"Cada 12.000 km o 12 meses (primera a los 1.000 km)",» → «"Vigila el juego de la cadena con la moto puesta en pie y ajústalo como recomienda el fabricante.",»
+L565 [cifras: perdidas {'12': 1} nuevas {}] «"Cada» → «"Revisa cada» | «12 meses (primera» → «al cumplir el año, con la primera en cuanto llegues» | «los» → «»
+L636 [cifras: perdidas {'12': 1, '1.000': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Mantenimiento cada» | «12 meses (primera» → «una vez por año, primera revisión» | «1.000 km)",» → «mil kilómetros en tu taller",»
+L707 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «12 meses (primera a los» → «cada año natural, con la primera revisión al alcanzar» | «km)",» → «km en taller",»
+L779 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «12 meses",» → «transcurrido un año, el plazo que venza antes",»
+L847 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Revisión cada» | «12 meses",» → «una vez al año",»
+L915 [cifras: perdidas {'12': 1, '1.000': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"La revisión periódica es cada» | «12 meses (primera a» → «al año, la primera tras» | «1.000 km)",» → «primeros mil kilómetros",»
+L986 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «12 meses (primera a los» → «transcurrido un año, con la primera revisión cuando sume» | «km)",» → «km",»
+L1057 [cifras: perdidas {'12': 1} nuevas {}] «"Cada» → «"Programa la revisión anual o cada» | «» → «km, empezando por la de 1.000» | «o 12 meses (primera a los 1.000 km)",» → «en el concesionario",»
+L1128 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «12 meses",» → «al cumplir un año",»
+L1196 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Intervalo de» | «12 meses",» → «un año completo",»
+L1264 [cifras: perdidas {'12': 1, '1.000': 1} nuevas {}; cifra deletreada/reformulada] «12 meses (primera» → «como máximo una vez al año, con la primera revisión» | «1.000 km)",» → «mil kilómetros en taller oficial",»
+L1335 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Primera revisión a los 1.000 km y después cada» | «12 meses (primera a los 1.000 km)",» → «cada año",»
+L1406 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"La revisión toca cada» | «12 meses (primera a los» → «al año, y la de estreno al sumar» | «km)",» → «km en el taller oficial",»
+
+## src/lib/comparador-motos-exp-m21.ts (38 líneas)
+L78 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"Primera visita al taller al llegar a 1.000 km; a partir de entonces, cada» | «» → «cada» | «meses (primera a los 1.000 km)",» → «meses.",»
+L79 [spinning en campo de dato aceiteTipo] «"10W-50 (Motorex» → «"Aceite 10W-50 Motorex» | «4T)",» → «4T para el cambio.",»
+L149 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Rodaje inicial hasta los 1.000 km; a continuación, cada» | «12 meses (primera a los 1.000 km)",» → «cada doce meses.",»
+L150 [spinning en campo de dato aceiteTipo] «"10W-50 (Motorex» → «"El cambio lleva aceite 10W-50 Motorex» | «4T)",» → «4T.",»
+L220 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Pasa la primera revisión con 1.000 km y luego cada» | «km» → «km,» | «12 meses (primera a los 1.000 km)",» → «bien una vez al año.",»
+L221 [spinning en campo de dato aceiteTipo] «"10W-50 (Motorex» → «"Aceite recomendado: 10W-50 de Motorex,» | «4T)",» → «4T.",»
+L291 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Primera a los» → «"Con» | «km; después» → «km toca la revisión inicial; después,» | «12 meses",» → «cada doce meses.",»
+L292 [spinning en campo de dato aceiteTipo] «"15W-50 (Motorex» → «"Usa 15W-50 Motorex» | «4T)",» → «4T en el cambio de aceite.",»
+L362 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Estrena el mantenimiento a los 1.000 km; en adelante, cada» | «12 meses (primera a los 1.000 km)",» → «cada año.",»
+L363 [spinning en campo de dato aceiteTipo] «"10W-50 (Motorex» → «"Para el cambio, aceite 10W-50 Motorex» | «4T)",» → «4T.",»
+L433 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"A los 1.000 km, primera revisión; luego, servicios cada» | «12 meses (primera a los 1.000 km)",» → «anualmente.",»
+L434 [spinning en campo de dato aceiteTipo] «"10W-50 (Motorex» → «"El aceite del cambio es 10W-50 Motorex» | «4T)",» → «4T.",»
+L504 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Primera» → «"La revisión de rodaje es» | «después» → «las demás,» | «12 meses",» → «al año.",»
+L505 [spinning en campo de dato aceiteTipo] «"15W-50 (Motorex» → «"El cambio de aceite lleva 15W-50 Motorex» | «4T)",» → «4T.",»
+L575 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"El taller toca cada» | «12 meses",» → «al año, el límite que llegue primero.",»
+L576 [spinning en campo de dato aceiteTipo] «"5W-40 (BMW» → «"Aceite 5W-40 BMW» | «Ultimate)",» → «Ultimate para el motor bóxer.",»
+L643 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Rodaje cerrado con la revisión de los 1.000 km; después, cada» | «12 meses (primera a los 1.000 km)",» → «doce meses.",»
+L644 [spinning en campo de dato aceiteTipo] «"10W-50 (Motorex» → «"Cambio con 10W-50 de Motorex» | «4T)",» → «4T.",»
+L714 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «» → «revisión con 1.000 km en el marcador;» | «los 1.000 km; después» → «partir de ahí,» | «12 meses",» → «cada año.",»
+L715 [spinning en campo de dato aceiteTipo] «"15W-50 (Motorex» → «"Para el aceite, 15W-50 de Motorex» | «4T)",» → «4T.",»
+L786 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Lo que suceda primero marca la revisión: cada» | «12 meses",» → «doce meses.",»
+L787 [spinning en campo de dato aceiteTipo] «"5W-40 (BMW» → «"El motor lleva 5W-40 BMW» | «Ultimate)",» → «Ultimate.",»
+L854 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"El servicio llega cada» | «12 meses",» → «cada año, lo que antes se cumpla.",»
+L855 [spinning en campo de dato aceiteTipo] «"5W-40 (BMW» → «"Aceite del motor: 5W-40 BMW» | «Ultimate)",» → «Ultimate.",»
+L922 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Mantenimiento cada» | «12 meses",» → «anualmente, lo que se alcance primero.",»
+L923 [spinning en campo de dato aceiteTipo] «"5W-40 (BMW» → «"En el motor lleva 5W-40 de BMW» | «Ultimate)",» → «Ultimate.",»
+L993 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «12 meses",» → «al año marca el intervalo de revisión de esta moto.",»
+L994 [spinning en campo de dato aceiteTipo] «"5W-40 (BMW» → «"Aceite recomendado 5W-40 BMW» | «Ultimate)",» → «Ultimate.",»
+L1064 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"Revisión cada» | «» → «cada» | «meses",» → «meses, lo que antes se dé.",»
+L1065 [spinning en campo de dato aceiteTipo] «"5W-40 (BMW» → «"El bóxer usa 5W-40 BMW» | «Ultimate)",» → «Ultimate.",»
+L1132 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Anualmente o cada» | «o 12 meses",» → «toca revisión, sin más.",»
+L1133 [spinning en campo de dato aceiteTipo] «"5W-40 (BMW» → «"Motor bóxer con aceite 5W-40 BMW» | «Ultimate)",» → «Ultimate.",»
+L1200 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"El plazo es de un año o» | «km o 12 meses",» → «km, lo que antes se cumpla.",»
+L1201 [spinning en campo de dato aceiteTipo] «(BMW» → «BMW» | «Ultimate)",» → «Ultimate: el aceite que lleva.",»
+L1271 [spinning en campo de dato intervaloMantenimiento] «meses",» → «meses, y revisión al cumplirse lo primero.",»
+L1272 [spinning en campo de dato aceiteTipo] «"5W-40 (BMW» → «"Aceite 5W-40 de BMW» | «Ultimate)",» → «Ultimate en el cárter.",»
+L1342 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «12 meses",» → «anualmente: ese es su servicio programado.",»
+L1343 [spinning en campo de dato aceiteTipo] «"5W-40 (BMW» → «"En el motor, 5W-40 BMW» | «Ultimate)",» → «Ultimate.",»
+
+## src/lib/comparador-motos-exp-m24.ts (43 líneas)
+L15 [«lo que ocurra antes» rotado] «que ocurra antes (primera revisión» → «primero en llegar; puesta a punto inicial» | «km)",» → «km",»
+L32 [cifras: perdidas {'1.000': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «ocurra antes (primera revisión» → «venza antes; control de rodaje» | «1.000 km)",» → «mil kilómetros",»
+L41 [spinning en campo de dato queSeCambia] «"Lo anterior +» → «"Además:» | «aire +» → «aire,» | «+» → «y»
+L49 [«lo que ocurra antes» rotado] «"Cada» → «"Pauta:» | «meses, lo» → «meses; el primero de ambos» | «ocurra antes (primera» → «llegue,»
+L58 [spinning en campo de dato queSeCambia] «"Lo anterior +» → «"Además: reglaje de válvulas,» | «+» → «y» | «+ reglaje de válvulas si procede",» → «en su caso.",»
+L83 [«lo que ocurra antes» rotado] «"Cada» → «"Pauta:» | «meses, lo que ocurra» → «meses;» | «(primera» → «de agotar el plazo,»
+L92 [spinning en campo de dato queSeCambia] «"Lo anterior +» → «"Además:» | «+» → «nuevo,» | «+» → «y»
+L100 [spinning en campo de dato intervalo] «"Cada» → «"Pauta:» | «meses, lo que» → «meses; según» | «antes (primera revisión» → «antes, control inicial en taller»
+L109 [spinning en campo de dato queSeCambia] «"Lo anterior +» → «"Además:» | «aire +» → «aire,» | «+» → «nuevas y»
+L117 [«lo que ocurra antes» rotado] «"Cada» → «"Pauta:» | «meses, lo que ocurra» → «meses; cuando» | «(primera revisión» → «venza el plazo, primera pasada por taller»
+L121 [spinning en campo de dato queSeCambia] «"Aceite sintético» → «"Sintético» | «KTM +» → «KTM, con» | «+» → «e»
+L126 [spinning en campo de dato queSeCambia] «"Lo anterior +» → «"Además:» | «aire +» → «aire,» | «+ reglaje» → «y ajuste»
+L134 [«lo que ocurra antes» rotado] «"Cada» → «"Pauta:» | «meses,» → «meses;» | «ocurra» → «»
+L143 [spinning en campo de dato queSeCambia] «"Lo anterior +» → «"Además: bujías y» | «+ bujías +» → «con» | «si procede",» → «cuando proceda.",»
+L151 [«lo que ocurra antes» rotado] «"Cada» → «"Pauta:» | «meses, lo que ocurra antes (primera revisión» → «meses; sin esperar a agotar el plazo, primera visita al taller» | «km)",» → «km.",»
+L155 [spinning en campo de dato queSeCambia] «"Aceite sintético» → «"Sintético» | «Husqvarna +» → «Husqvarna, con» | «+ inspección» → «y revisión»
+L160 [spinning en campo de dato queSeCambia] «"Lo anterior +» → «"Además:» | «aire + bujías +» → «aire,» | «si procede",» → «y bujías para esta revisión.",»
+L168 [«lo que ocurra antes» rotado] «"Cada» → «"Pauta:» | «meses,» → «meses; al cumplirse» | «que ocurra antes (primera» → «primero,»
+L177 [spinning en campo de dato queSeCambia] «"Lo anterior +» → «"Además: bujías nuevas,» | «+ bujías +» → «y» | «si procede",» → «cuando proceda.",»
+L185 [«lo que ocurra antes» rotado] «"Cada» → «"Pauta:» | «meses,» → «meses; en cuanto se cumpla» | «que ocurra antes (primera revisión» → «primero, paso inicial por el taller»
+L194 [spinning en campo de dato queSeCambia] «"Lo anterior +» → «"Además:» | «aire +» → «aire,» | «+» → «y válvulas con»
+L202 [«lo que ocurra antes» rotado] «"Cada» → «"Pauta:» | «meses,» → «meses; al llegar» | «que ocurra antes (primera revisión» → «primero, primera inspección en taller»
+L219 [spinning en campo de dato intervalo] «"Cada» → «"Pauta:» | «meses, lo que» → «meses; según» | «antes (primera» → «antes, primera»
+L223 [spinning en campo de dato queSeCambia] «"Aceite sintético» → «"Sintético» | «Ducati +» → «Ducati, con» | «+» → «e»
+L228 [spinning en campo de dato queSeCambia] «"Lo anterior +» → «"Además:» | «aire +» → «aire,» | «+» → «y»
+L236 [«lo que ocurra antes» rotado] «"Cada» → «"Pauta:» | «meses,» → «meses; cuando llegue» | «que ocurra antes (primera» → «primero,»
+L245 [DATO PERDIDO: filtro de aire] «"Lo anterior +» → «"Además:» | «» → «nuevo» | «aire +» → «aire,»
+L253 [spinning en campo de dato intervalo] «"Cada» → «"Pauta:» | «meses, lo que» → «meses; según» | «antes (primera» → «antes, primera»
+L262 [spinning en campo de dato queSeCambia] «"Lo anterior +» → «"Además: bujías, reglaje de válvulas y» | «+ bujías + reglaje de válvulas si procede",» → «cuando proceda.",»
+L270 [«lo que ocurra antes» rotado] «"Cada» → «"Pauta:» | «meses, lo que ocurra» → «meses;» | «(primera revisión» → «de cumplir el plazo, control inicial de rodaje»
+L287 [«lo que ocurra antes» rotado] «"Cada» → «"Pauta:» | «meses, lo que ocurra antes (primera revisión» → «meses; sin agotar el plazo, primera pasada de rodaje» | «km)",» → «km.",»
+L296 [spinning en campo de dato queSeCambia] «"Lo anterior +» → «"Además:» | «bujía",» → «bujía en esta revisión.",»
+L304 [spinning en campo de dato intervalo] «"Cada» → «"Pauta:» | «» → «con tope en» | «antes (primera» → «antes: primera»
+L313 [spinning en campo de dato queSeCambia] «"Lo anterior +» → «"Además: reglaje de válvulas y bujías con» | «+ bujías + reglaje de válvulas» → «nuevo» | «procede",» → «procede.",»
+L321 [spinning en campo de dato intervalo] «"Cada» → «"Pauta:» | «meses, lo» → «meses; siempre» | «antes (primera» → «antes, primera»
+L330 [spinning en campo de dato queSeCambia] «"Lo anterior +» → «"Además: bujías y reglaje de válvulas más» | «+ bujías + reglaje de válvulas si procede",» → «cuando proceda.",»
+L338 [«lo que ocurra antes» rotado] «"Cada» → «"Pauta:» | «o» → «/» | «meses,» → «meses;»
+L347 [spinning en campo de dato queSeCambia] «"Lo anterior +» → «"Además: rodillos,» | «rodillos,» → «» | «bujía",» → «bujía en cada servicio mayor.",»
+L355 [«lo que ocurra antes» rotado] «"Cada» → «"Revisión inicial a los 1.000 km;» | «» → «al vencimiento de» | «que ocurra antes (primera revisión a los 1.000 km)",» → «primero.",»
+L364 [spinning en campo de dato queSeCambia] «"Lo anterior +» → «"Además:» | «rodillos,» → «» | «aire» → «aire, rodillos»
+L372 [spinning en campo de dato intervalo] «"Cada 6.000 km o 12 meses, lo que ocurra antes (primera revisión» → «"Revisión inicial» | «km)",» → «km; 12 meses o 6.000 km, según ocurra antes como marca el fabricante.",»
+L381 [spinning en campo de dato queSeCambia] «"Lo anterior +» → «"Además:» | «transmisión,» → «transmisión nueva,» | «bujía",» → «bujía.",»
+L1973 [cifra deletreada/reformulada] «"Bicilíndrico» → «"Dos cilindros»
+
+## src/lib/comparador-motos-exp-m25.ts (202 líneas)
+L56 [cifras: perdidas {} nuevas {'675': 1}; «lo que ocurra antes» rotado] «"6.000 km o» → «"La 675NK pasa por taller cada» | «(lo» → «o cada 6.000 km, lo» | «ocurra antes)",» → «antes suceda",»
+L186 [«lo que ocurra antes» rotado] «meses (lo» → «meses; rige lo primero» | «ocurra antes)",» → «llegue",»
+L190 [spinning en campo de dato queSeCambia] «inspección» → «revisión»
+L195 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"filtro» | «de» → «del» | «general",» → «general + Aceite",»
+L251 [«lo que ocurra antes» rotado] «meses (lo» → «meses; manda lo primero» | «ocurra antes)",» → «llegue",»
+L255 [spinning en campo de dato queSeCambia] «inspección» → «control» | «aprietes",» → «reapriete",»
+L260 [spinning en campo de dato queSeCambia] «de» → «del» | «inspección» → «revisión»
+L316 [«lo que ocurra antes» rotado] «meses (lo» → «meses; vence lo primero» | «ocurra antes)",» → «llegue",»
+L320 [spinning en campo de dato queSeCambia] «de» → «del»
+L325 [spinning en campo de dato queSeCambia] «de» → «del» | «de» → «del» | «inspección» → «revisión»
+L384 [«lo que ocurra antes» rotado] «meses (lo» → «meses; rige lo» | «ocurra antes)",» → «antes venza",»
+L388 [spinning en campo de dato queSeCambia] «de» → «del» | «inspección» → «revisión»
+L393 [spinning en campo de dato queSeCambia] «» → «inspección general +» | «km) + inspección general",» → «km)",»
+L452 [«lo que ocurra antes» rotado] «meses (lo» → «meses; manda lo» | «ocurra antes)",» → «antes venza",»
+L456 [spinning en campo de dato queSeCambia] «de» → «del» | «inspección» → «control» | «aprietes",» → «reapriete",»
+L461 [spinning en campo de dato queSeCambia] «"Aceite» → «"Revisión general» | «filtro de» → «» | «+» → «con su filtro, bujía y»
+L520 [«lo que ocurra antes» rotado] «meses (lo» → «meses; vence lo» | «ocurra antes)",» → «antes venza",»
+L524 [spinning en campo de dato queSeCambia] «aceite» → «lubricante»
+L529 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"filtro» | «de» → «del» | «» → «+ inspección general»
+L588 [«lo que ocurra antes» rotado] «meses (lo» → «meses; impera lo primero» | «ocurra antes)",» → «llegue",»
+L592 [spinning en campo de dato queSeCambia] «aceite» → «lubricante» | «inspección» → «revisión»
+L597 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"filtro» | «de» → «del» | «» → «+ revisión general»
+L653 [«lo que ocurra antes» rotado] «meses (lo» → «meses; impera lo» | «ocurra antes)",» → «antes venza",»
+L657 [spinning en campo de dato queSeCambia] «aceite» → «lubricante» | «inspección» → «control» | «aprietes",» → «reapriete",»
+L662 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"filtro» | «» → «+ bujía (según km)» | «bujía (según km)» → «inspección general»
+L718 [«lo que ocurra antes» rotado] «meses (lo» → «meses; decide lo primero» | «ocurra antes)",» → «llegue",»
+L722 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «y» → «con»
+L727 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"filtro» | «» → «+ bujía (según kilometraje)» | «bujía (según km)» → «inspección general»
+L783 [«lo que ocurra antes» rotado] «meses (lo» → «meses; limita lo primero» | «ocurra antes)",» → «llegue",»
+L787 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «de» → «del» | «y» → «con»
+L792 [spinning en campo de dato queSeCambia] «"Aceite» → «"filtro del aceite» | «filtro de aceite» → «bujía (según km)» | «bujía (según km)» → «revisión general»
+L848 [«lo que ocurra antes» rotado] «meses (lo» → «meses; marca lo primero» | «ocurra antes)",» → «llegue",»
+L852 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «aceite» → «lubricante» | «y» → «con»
+L857 [spinning en campo de dato queSeCambia] «"Aceite» → «"filtro del aceite» | «filtro de aceite» → «bujía (según kilometraje)» | «bujía (según km)» → «revisión general»
+L913 [«lo que ocurra antes» rotado] «meses (lo» → «meses; establece lo primero» | «ocurra antes)",» → «llegue",»
+L917 [spinning en campo de dato queSeCambia] «"Aceite 10W-40 + filtro» → «"filtro» | «aprietes",» → «aprietes + Aceite 10W40",»
+L922 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «filtro de aire +» → «» | «» → «filtro del aire +»
+L978 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «12 meses (lo» → «un año; rige lo primero» | «ocurra antes)",» → «llegue",»
+L982 [spinning en campo de dato queSeCambia] «10W-40» → «10W40» | «inspección» → «revisión»
+L987 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «filtro de aire +» → «» | «km)» → «kilometraje) + filtro del aire»
+L1043 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «12 meses (lo» → «un año; manda lo primero» | «ocurra antes)",» → «llegue",»
+L1047 [spinning en campo de dato queSeCambia] «"Aceite 10W-40 + filtro» → «"filtro» | «y aprietes",» → «con aprietes + Aceite 10W40",»
+L1052 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «de» → «del» | «+ filtro de aire» → «»
+L1108 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «12 meses (lo» → «un año; vence lo primero» | «ocurra antes)",» → «llegue",»
+L1112 [spinning en campo de dato queSeCambia] «10W-40» → «10W40» | «inspección» → «control» | «aprietes",» → «reapriete",»
+L1117 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «de» → «del» | «+ filtro de aire» → «»
+L1173 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «12 meses (lo» → «un año; impera lo primero» | «ocurra antes)",» → «llegue",»
+L1177 [spinning en campo de dato queSeCambia] «"Aceite 10W-40 + filtro de» → «"filtro del» | «aprietes",» → «aprietes + Aceite 10W40",»
+L1182 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"filtro» | «+ filtro de aire» → «» | «general",» → «general + filtro de aire + Aceite",»
+L1238 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «12 meses (lo» → «un año; decide lo primero» | «ocurra antes)",» → «llegue",»
+L1242 [spinning en campo de dato queSeCambia] «10W-40» → «10W40» | «de» → «del» | «inspección» → «revisión»
+L1247 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"filtro» | «» → «+ bujía (según km) + revisión general» | «bujía (según km) + inspección general",» → «Aceite",»
+L1303 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «12 meses (lo» → «un año; limita lo primero» | «ocurra antes)",» → «llegue",»
+L1307 [spinning en campo de dato queSeCambia] «"Aceite 10W-40 + filtro de» → «"filtro del» | «y aprietes",» → «con aprietes + Aceite 10W40",»
+L1312 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"filtro» | «» → «+ bujía (según kilometraje) + inspección general» | «bujía (según km) + inspección general",» → «Aceite",»
+L1368 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «12 meses (lo» → «un año; marca lo primero» | «ocurra antes)",» → «llegue",»
+L1372 [spinning en campo de dato queSeCambia] «10W-40» → «10W40» | «de» → «del» | «inspección» → «control»
+L1377 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"filtro» | «» → «+ bujía (según kilometraje) + revisión general» | «bujía (según km) + inspección general",» → «Aceite",»
+L1433 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «12 meses (lo» → «un año; establece lo primero» | «ocurra antes)",» → «llegue",»
+L1437 [spinning en campo de dato queSeCambia] «"Aceite 10W-40 + filtro» → «"filtro» | «aceite» → «lubricante» | «aprietes",» → «aprietes + Aceite 10W40",»
+L1442 [spinning en campo de dato queSeCambia] «"Aceite + filtro de» → «"filtro del» | «+ filtro de aire» → «» | «general",» → «general + filtro del aire + Aceite",»
+L1498 [cifras: perdidas {'12': 1} nuevas {'1': 1}; «lo que ocurra antes» rotado] «12 meses (lo» → «1 año; rige lo primero» | «ocurra antes)",» → «llegue",»
+L1502 [spinning en campo de dato queSeCambia] «10W-40» → «10W40» | «aceite» → «lubricante» | «inspección» → «revisión»
+L1507 [spinning en campo de dato queSeCambia] «"Aceite + filtro de» → «"filtro del» | «+ filtro de aire» → «» | «inspección general",» → «revisión general + filtro del aire + Aceite",»
+L1536 [cifras: perdidas {'1.000': 1} nuevas {}] «o» → «y también» | «primera» → «» | «a los 1.000» → «inicial al primer millar de»
+L1563 [spinning en campo de dato intervalo] «"4.000» → «"Cada 4.000» | «(primera revisión» → «hay que pasar por taller, lo primero que ocurra, con la primera cita» | «km)",» → «km",»
+L1572 [spinning en campo de dato queSeCambia] «"Aceite + filtro de» → «"filtro del» | «+ filtro de aire» → «» | «km)» → «kilometraje)»
+L1601 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «formas» → «vías» | «baratas» → «económicas» | «primera» → «»
+L1628 [spinning en campo de dato intervalo] «"4.000» → «"El primer taller es a los 1.000 km; a partir de entonces, cada 4.000» | «meses (primera revisión a los 1.000 km)",» → «meses, lo que primero venza",»
+L1632 [spinning en campo de dato queSeCambia] «inspección» → «revisión»
+L1637 [spinning en campo de dato queSeCambia] «"Aceite + filtro de» → «"filtro del» | «+ filtro de aire» → «» | «km)» → «kilometraje)»
+L1693 [spinning en campo de dato intervalo] «"4.000 km» → «"Cada 4.000 kilómetros» | «(primera revisión» → «toca revisión, lo que antes llegue, y la primera de todas cae» | «km)",» → «km",»
+L1697 [spinning en campo de dato queSeCambia] «y» → «con»
+L1702 [spinning en campo de dato queSeCambia] «» → «inspección general +» | «km) + inspección general",» → «km)",»
+L1761 [spinning en campo de dato intervalo] «"4.000» → «"Intervalo: 4.000» | «(primera revisión a los» → «| Primera revisión:» | «km)",» → «km | Lo primero que venza",»
+L1765 [spinning en campo de dato queSeCambia] «inspección» → «control» | «aprietes",» → «reapriete",»
+L1770 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"filtro» | «» → «+ revisión general» | «inspección general",» → «Aceite",»
+L1829 [spinning en campo de dato intervalo] «meses (primera» → «meses, y primera»
+L1833 [spinning en campo de dato queSeCambia] «de» → «del»
+L1838 [spinning en campo de dato queSeCambia] «» → «inspección general +» | «de» → «del» | «km) + inspección general",» → «km)",»
+L1868 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «primera» → «» | «» → «inicial» | «km y después» → «km; luego,»
+L1897 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"4.000 km o 12 meses (primera» → «"Primera» | «km)",» → «km; la siguiente llega a los 4.000 km o al año, lo que llegue antes",»
+L1901 [spinning en campo de dato queSeCambia] «de» → «del» | «inspección» → «revisión»
+L1906 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"filtro» | «» → «revisión general +» | «de» → «del»
+L1965 [spinning en campo de dato intervalo] «"4.000 km o» → «"Kilómetros: 4.000 | Plazo:» | «(primera revisión a los» → «| Primera revisión:» | «km)",» → «km | Criterio: lo primero que venza",»
+L1969 [spinning en campo de dato queSeCambia] «de» → «del» | «y» → «con»
+L1974 [spinning en campo de dato queSeCambia] «filtro de aire» → «inspección general» | «inspección general",» → «filtro de aire",»
+L2033 [spinning en campo de dato intervalo] «(primera revisión» → «(revisión inicial»
+L2037 [spinning en campo de dato queSeCambia] «de» → «del» | «inspección» → «control» | «aprietes",» → «reapriete",»
+L2042 [spinning en campo de dato queSeCambia] «filtro de aire» → «revisión general» | «inspección general",» → «filtro de aire",»
+L2101 [spinning en campo de dato intervalo] «"3.000 km (primera» → «"Intervalo de 3.000 km; la primera» | «» → «llega» | «km)",» → «km",»
+L2105 [spinning en campo de dato queSeCambia] «aceite» → «lubricante»
+L2110 [spinning en campo de dato queSeCambia] «de» → «del» | «» → «+ inspección general + bujía (según kilometraje)» | «aire + bujía (según km) + inspección general",» → «aire",»
+L2168 [spinning en campo de dato intervalo] «a» → «tras alcanzar»
+L2172 [spinning en campo de dato queSeCambia] «aceite» → «lubricante» | «inspección» → «revisión»
+L2177 [spinning en campo de dato queSeCambia] «de» → «del» | «» → «+ revisión general + bujía (según kilometraje)» | «aire + bujía (según km) + inspección general",» → «aire",»
+L2233 [spinning en campo de dato intervalo] «meses (primera» → «meses; y la» | «» → «inicial»
+L2237 [spinning en campo de dato queSeCambia] «aceite» → «lubricante» | «y» → «con»
+L2242 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «filtro de aire» → «inspección general» | «km)» → «kilometraje)»
+L2298 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «12 meses (primera» → «un año, con primera»
+L2302 [spinning en campo de dato queSeCambia] «aceite» → «lubricante» | «inspección» → «control» | «aprietes",» → «reapriete",»
+L2307 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «filtro de aire» → «revisión general» | «km)» → «kilometraje)»
+L2363 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «12 meses (primera» → «un año; la primera» | «» → «llega»
+L2367 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante»
+L2372 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «de» → «del» | «filtro de aire» → «inspección general»
+L2435 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «inspección» → «revisión»
+L2440 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «de» → «del» | «filtro de aire» → «revisión general»
+L2503 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «y» → «con»
+L2508 [spinning en campo de dato queSeCambia] «+ filtro de aceite» → «» | «» → «filtro de aceite +»
+L2568 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «inspección» → «control» | «aprietes",» → «reapriete",»
+L2573 [spinning en campo de dato queSeCambia] «"Aceite» → «"filtro de aire + bujía (según kilometraje)» | «filtro de aire» → «inspección general» | «bujía (según km) + inspección general",» → «Aceite",»
+L2633 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «de» → «del»
+L2638 [spinning en campo de dato queSeCambia] «de aceite + filtro de» → «del» | «inspección» → «filtro de aceite + revisión»
+L2645 [cifras: perdidas {'1.000': 1} nuevas {}; «lo que ocurra antes» rotado] «específico» → «especial» | «"Primera revisión a los 1.000 km; después cada» → «"No dejes pasar» | «meses,» → «meses sin revisión,»
+L2699 [spinning en campo de dato queSeCambia] «actualización de» → «puesta al día del»
+L2704 [spinning en campo de dato queSeCambia] «» → «de freno»
+L2765 [spinning en campo de dato queSeCambia] «» → «lo»
+L2770 [spinning en campo de dato queSeCambia] «» → «su»
+L2818 [spinning en campo de dato queSeCambia] «"Inspección general + filtro de polen» → «"filtro antipolen» | «software",» → «software + Inspección general",»
+L2823 [spinning en campo de dato queSeCambia] «"Inspección general + líquido» → «"líquido» | «frenos» → «freno» | «desgaste)",» → «desgaste) + Inspección general",»
+L2830 [cifras: perdidas {'6': 1} nuevas {}] «6 meses;» → «medio año;»
+L2872 [spinning en campo de dato queSeCambia] «"Inspección general + filtro de polen» → «"filtro antipolen» | «de software",» → «del software + Inspección general",»
+L2877 [spinning en campo de dato queSeCambia] «frenos» → «freno» | «» → «de freno»
+L2925 [spinning en campo de dato queSeCambia] «de polen» → «antipolen» | «actualización de» → «puesta al día del»
+L2930 [spinning en campo de dato queSeCambia] «"Inspección general + líquido» → «"líquido» | «frenos» → «freno» | «desgaste)",» → «su desgaste) + Inspección general",»
+L2937 [cifras: perdidas {'24': 1} nuevas {}] «es» → «al ser» | «sin» → «no hay que renovar» | «que sustituir» → «»
+L2993 [spinning en campo de dato queSeCambia] «"Inspección» → «"Revisión» | «de» → «del»
+L2998 [spinning en campo de dato queSeCambia] «"Inspección general + líquido» → «"fluido» | «desgaste)",» → «desgaste) + Inspección general",»
+L3060 [spinning en campo de dato queSeCambia] «"Inspección» → «"Revisión» | «» → «lo» | «actualización de» → «puesta al día del»
+L3065 [spinning en campo de dato queSeCambia] «líquido» → «fluido» | «» → «de freno»
+L3125 [spinning en campo de dato queSeCambia] «» → «+ actualización de software» | «lleva) + actualización de software",» → «lleva)",»
+L3130 [spinning en campo de dato queSeCambia] «"Inspección general + líquido» → «"fluido» | «desgaste)",» → «su desgaste) + Inspección general",»
+L3137 [cifras: perdidas {'24': 1} nuevas {}; cifra deletreada/reformulada] «por igual» → «a la par» | «24 meses» → «dos años»
+L3191 [spinning en campo de dato queSeCambia] «» → «+ actualización del software» | «lleva) + actualización de software",» → «lleva)",»
+L3196 [spinning en campo de dato queSeCambia] «"Inspección» → «"Revisión»
+L3257 [spinning en campo de dato queSeCambia] «» → «+ puesta al día del software» | «lleva) + actualización de software",» → «lleva)",»
+L3262 [spinning en campo de dato queSeCambia] «"Inspección» → «"Revisión» | «frenos» → «freno»
+L3269 [cifras: perdidas {'24': 1} nuevas {}] «» → «bienal o» | «24 meses o» → «» | «recogido en» → «que recoge»
+L3323 [spinning en campo de dato queSeCambia] «filtro de polen (si lleva) +» → «» | «software",» → «software + filtro antipolen (si lleva)",»
+L3328 [spinning en campo de dato queSeCambia] «"Inspección» → «"Revisión» | «líquido» → «fluido»
+L3383 [spinning en campo de dato queSeCambia] «» → «actualización del software +» | «de polen» → «antipolen» | «lleva) + actualización de software",» → «lleva)",»
+L3388 [spinning en campo de dato queSeCambia] «"Inspección» → «"Control»
+L3450 [spinning en campo de dato queSeCambia] «"Inspección» → «"Revisión» | «» → «puesta al día del software +» | «de polen» → «antipolen»
+L3455 [spinning en campo de dato queSeCambia] «"Inspección» → «"Control» | «frenos» → «freno»
+L3511 [spinning en campo de dato intervalo] «meses (primera» → «meses, con la» | «» → «inicial»
+L3515 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «de» → «del» | «inspección» → «revisión»
+L3520 [spinning en campo de dato queSeCambia] «"Aceite» → «"filtro del aire + bujía (según kilometraje)» | «filtro de aire» → «revisión general» | «bujía (según km) + inspección general",» → «Aceite",»
+L3549 [cifras: perdidas {} nuevas {'4': 1}] «delantero» → «anterior» | «cuatro» → «4»
+L3576 [spinning en campo de dato intervalo] «"6.000» → «"Primera revisión: 1.000» | «o» → «| Kilómetros: 6.000 | Plazo:» | «(primera revisión a los 1.000 km)",» → «| Lo primero que ocurra",»
+L3580 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «de» → «del» | «y» → «con»
+L3585 [spinning en campo de dato queSeCambia] «"Aceite + filtro de aceite» → «"Lubricante» | «» → «filtro del aceite +»
+L3640 [spinning en campo de dato queSeCambia] «"Inspección» → «"actualización de software + Inspección» | «lleva) + actualización de software",» → «lleva)",»
+L3645 [spinning en campo de dato queSeCambia] «"Inspección» → «"Control» | «líquido» → «fluido»
+L3706 [spinning en campo de dato queSeCambia] «"Inspección» → «"filtro de polen (cuando lo lleva) + Inspección» | «filtro de polen (si lleva) + actualización de» → «puesta al día del»
+L3711 [spinning en campo de dato queSeCambia] «"Inspección general» → «"pastillas (según desgaste)» | «pastillas (según desgaste)",» → «Inspección general",»
+L3718 [cifras: perdidas {'24': 1} nuevas {}; cifra deletreada/reformulada] «ambos neumáticos,» → «las dos ruedas,» | «cada 24 meses» → «bienal» | «» → «primero»
+L3775 [spinning en campo de dato queSeCambia] «"Inspección general + filtro» → «"filtro» | «» → «lo» | «» → «+ Inspección general»
+L3780 [spinning en campo de dato queSeCambia] «"Inspección general» → «"pastillas de freno (según desgaste)» | «pastillas (según desgaste)",» → «Inspección general",»
+L3841 [spinning en campo de dato queSeCambia] «"Inspección general» → «"actualización de software» | «de polen» → «antipolen» | «actualización de software",» → «Inspección general",»
+L3846 [spinning en campo de dato queSeCambia] «» → «pastillas (según su desgaste) +» | «frenos + pastillas (según desgaste)",» → «frenos",»
+L3901 [cifras: perdidas {'500': 1} nuevas {}] «"10.000 km» → «"El intervalo es de 10.000 kilómetros» | «meses (primera revisión a los 500 km)",» → «meses, lo que antes suceda",»
+L3905 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «de» → «del» | «inspección» → «control»
+L3910 [spinning en campo de dato queSeCambia] «"Aceite + filtro de aceite» → «"Lubricante» | «km)» → «kilometraje) + filtro del aceite»
+L3970 [spinning en campo de dato queSeCambia] «"Inspección general» → «"actualización del software» | «de polen» → «antipolen» | «actualización de software",» → «Inspección general",»
+L3975 [spinning en campo de dato queSeCambia] «"Inspección general» → «"pastillas (según desgaste)» | «frenos» → «freno» | «pastillas (según desgaste)",» → «Inspección general",»
+L3982 [cifras: perdidas {'24': 1} nuevas {}; cifra deletreada/reformulada] «ambos» → «los dos» | «"Mira el nivel» → «"Revisa los niveles» | «grosor» → «espesor»
+L4049 [cifras: perdidas {'12': 1} nuevas {'1': 1}; «lo que ocurra antes» rotado] «12 meses (lo» → «1 año; manda lo primero» | «ocurra antes)",» → «llegue",»
+L4053 [spinning en campo de dato queSeCambia] «"Aceite 10W-40 + filtro» → «"filtro» | «aceite» → «lubricante» | «y aprietes",» → «con aprietes + Aceite 10W40",»
+L4058 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «de aceite + filtro de» → «del» | «inspección» → «filtro del aceite + revisión»
+L4133 [«lo que ocurra antes» rotado] «meses (lo» → «meses; decide lo» | «ocurra antes)",» → «antes venza",»
+L4137 [spinning en campo de dato queSeCambia] «10W-40» → «10W40» | «aceite» → «lubricante» | «inspección» → «control»
+L4142 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «de aceite + filtro de» → «del» | «km)» → «kilometraje)»
+L4214 [cifras: perdidas {'12': 1} nuevas {'1': 1}; «lo que ocurra antes» rotado] «12 meses (lo» → «1 año; vence lo primero» | «ocurra antes)",» → «llegue",»
+L4218 [spinning en campo de dato queSeCambia] «filtro de aceite +» → «» | «aprietes",» → «aprietes + filtro de aceite",»
+L4223 [spinning en campo de dato queSeCambia] «"Aceite» → «"filtro de aire + bujía (según kilometraje) + inspección general» | «filtro de aire + bujía (según km) + inspección general",» → «Aceite",»
+L4295 [cifras: perdidas {'12': 1} nuevas {'1': 1}; «lo que ocurra antes» rotado] «12 meses (lo» → «1 año; impera lo primero» | «ocurra antes)",» → «llegue",»
+L4299 [spinning en campo de dato queSeCambia] «» → «revisión general y aprietes +» | «aceite + inspección general y aprietes",» → «aceite",»
+L4304 [spinning en campo de dato queSeCambia] «"Aceite» → «"filtro de aire + bujía (según kilometraje) + revisión general» | «filtro de aire + bujía (según km) + inspección general",» → «Aceite",»
+L4376 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «12 meses (primera» → «un año; la» | «» → «inicial se hace»
+L4380 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «aceite» → «lubricante»
+L4385 [spinning en campo de dato queSeCambia] «"Aceite + filtro de aceite + filtro de» → «"filtro del» | «km)» → «kilometraje)» | «general",» → «general + filtro del aceite + Aceite",»
+L4457 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «12 meses (primera» → «un año, con la primera» | «» → «prevista»
+L4461 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «aceite» → «lubricante» | «inspección» → «revisión»
+L4466 [spinning en campo de dato queSeCambia] «"Aceite + filtro de aceite + filtro de» → «"filtro del» | «km)» → «kilometraje)» | «inspección general",» → «revisión general + filtro del aceite + Aceite",»
+L4545 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «aceite» → «lubricante» | «y» → «con»
+L4550 [spinning en campo de dato queSeCambia] «"Aceite» → «"filtro de aire + inspección general» | «filtro de aire +» → «» | «inspección general",» → «Aceite",»
+L4626 [spinning en campo de dato queSeCambia] «"Aceite» → «"Lubricante» | «aceite» → «lubricante» | «inspección» → «control»
+L4631 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"filtro» | «» → «+ bujía (según km) + Aceite» | «bujía (según km) + inspección» → «revisión»
+L4707 [spinning en campo de dato queSeCambia] «"Inspección» → «"actualización de software + Revisión» | «lleva) + actualización de software",» → «lleva)",»
+L4712 [spinning en campo de dato queSeCambia] «líquido de frenos +» → «» | «desgaste)",» → «desgaste) + fluido de frenos",»
+L4789 [spinning en campo de dato queSeCambia] «"Inspección» → «"filtro de polen (cuando lo lleva) + Revisión» | «filtro de polen (si lleva) + actualización de» → «puesta al día del»
+L4794 [spinning en campo de dato queSeCambia] «"Inspección general» → «"pastillas de freno (según desgaste)» | «líquido» → «fluido» | «pastillas (según desgaste)",» → «Inspección general",»
+L4871 [spinning en campo de dato queSeCambia] «"Inspección general + filtro» → «"filtro» | «» → «lo» | «» → «+ Revisión general»
+L4876 [spinning en campo de dato queSeCambia] «líquido de frenos +» → «» | «desgaste)",» → «su desgaste) + fluido de frenos",»
+L4952 [spinning en campo de dato queSeCambia] «"Inspección general + filtro de polen» → «"filtro antipolen» | «» → «+ Revisión general»
+L4957 [spinning en campo de dato queSeCambia] «"Inspección» → «"Revisión» | «» → «+ pastillas (según desgaste)» | «frenos + pastillas (según desgaste)",» → «frenos",»
+L5029 [spinning en campo de dato intervalo] «"Primera revisión» → «"Revisión de inicio»
+L5033 [spinning en campo de dato queSeCambia] «» → «motor»
+L5038 [spinning en campo de dato queSeCambia] «"Aceite» → «"filtro de aire + inspección general» | «de» → «del» | «+ filtro de aire» → «»
+L5113 [spinning en campo de dato intervalo] «meses (primera» → «meses; la primera» | «» → «se hace»
+L5117 [spinning en campo de dato queSeCambia] «» → «motor» | «inspección» → «revisión»
+L5122 [spinning en campo de dato queSeCambia] «filtro de aceite» → «revisión general» | «» → «filtro del aceite +» | «km) + inspección general",» → «km)",»
+
+## src/lib/comparador-motos-exp-m26.ts (47 líneas)
+L32 [cifras: perdidas {'3': 1} nuevas {}; cifra deletreada/reformulada] «"Electrónica completa:» → «"Paquete electrónico completo:» | «tracción,» → «crucero,» | «crucero» → «tracción»
+L74 [«lo que ocurra antes» rotado] «» → «según» | «» → «primero» | «ocurra antes",» → «se cumpla",»
+L114 [cifra deletreada/reformulada] «doble canal» → «dos canales» | «» → «incluida»
+L157 [cifras: perdidas {'12': 1} nuevas {}; «lo que ocurra antes» rotado] «"1.000 km (rodaje); después» → «"Superado el rodaje inicial de 1.000 km,» | «» → «le corresponde una revisión, según se alcance primero, el kilometraje» | «12 meses, lo que ocurra antes",» → «el año",»
+L197 [cifras: perdidas {'5': 1} nuevas {}; cifra deletreada/reformulada] «a» → «en» | «5» → «cinco»
+L241 [cifras: perdidas {'12': 1} nuevas {}; «lo que ocurra antes» rotado] «"1.000 km (rodaje); después» → «"Una vez pasado el rodaje de 1.000 km, el servicio se programa» | «km o 12 meses, lo que ocurra antes",» → «km, sin superar el año entre revisiones",»
+L324 [«lo que ocurra antes» rotado] «"1.000 km (rodaje); después» → «"Hecho el rodaje de 1.000 km, el taller la espera» | «km o» → «km, sin que pasen más de» | «meses, lo que ocurra antes",» → «meses entre una y otra",»
+L365 [cifras: perdidas {'5': 1} nuevas {}; cifra deletreada/reformulada] «5» → «cinco» | «conectividad» → «» | «» → «la»
+L407 [«lo que ocurra antes» rotado] «"1.000» → «"Pasados los 1.000» | «(rodaje); después» → «de rodaje,» | «o» → «hay que llevarla al taller, con tope anual de»
+L490 [cifras: perdidas {'12': 1} nuevas {}; «lo que ocurra antes» rotado] «"1.000» → «"Con los primeros 1.000» | «(rodaje); después» → «de rodaje superados, el mantenimiento se programa» | «km o 12 meses, lo que ocurra antes",» → «km, antes de cumplir el año desde la revisión anterior",»
+L573 [cifras: perdidas {} nuevas {'921': 1}; «lo que ocurra antes» rotado] «"1.000 km, luego» → «"Después de 1.000 km de rodaje, la SRK 921 vuelve al taller» | «» → «al cumplir» | «meses (lo» → «meses, lo»
+L577 [spinning en campo de dato queSeCambia] «+» → «y» | «+» → «nuevos,» | «» → «repaso de»
+L656 [«lo que ocurra antes» rotado] «"1.000 km,» → «"Rodaje de 1.000 km;» | «» → «el taller espera» | «» → «cada»
+L660 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Cambio» | «+ inspección» → «junto con su filtro, revisión»
+L670 [spinning en campo de dato fuente] «"Manual» → «"Según el manual» | «km);» → «km),» | «exige red» → «pide taller»
+L700 [cifras: perdidas {'6': 1} nuevas {}; cifra deletreada/reformulada] «6» → «seis»
+L739 [«lo que ocurra antes» rotado] «"1.000 km, luego» → «"Pasados los 1.000 km de rodaje, la revisión llega» | «km o» → «km, con un máximo de» | «(lo que ocurra antes);» → «entre visitas; con su»
+L743 [spinning en campo de dato queSeCambia] «+ filtro de aceite +» → «nuevo con su filtro,» | «» → «control de»
+L753 [spinning en campo de dato fuente] «"Manual» → «"El manual» | «(1.000/7.000» → «marca 1.000/7.000» | «km);» → «km;»
+L822 [cifras: perdidas {'12': 1} nuevas {}; «lo que ocurra antes» rotado] «"1.000 km, luego» → «"Con el rodaje de 1.000 km ya hecho, el plan marca una revisión» | «km o 12 meses (lo que ocurra antes);» → «km, con el año como tope entre revisiones, más la»
+L826 [spinning en campo de dato queSeCambia] «"Aceite +» → «"Sustitución de aceite y» | «aceite +» → «aceite,» | «» → «ajuste de»
+L836 [spinning en campo de dato fuente] «"Manual» → «"QJMotor publica en su manual» | «QJMotor (1.000/7.000» → «1.000/7.000» | «km);» → «km;»
+L905 [«lo que ocurra antes» rotado] «"1.000» → «"Después del rodaje, fijado en 1.000» | «luego» → «las revisiones se suceden» | «km o» → «km, sin rebasar los»
+L909 [spinning en campo de dato queSeCambia] «+» → «y» | «aceite +» → «aceite, más» | «aprietes",» → «aprietes revisados",»
+L919 [spinning en campo de dato fuente] «garantía» → «cobertura» | «red» → «taller» | «recambio» → «repuesto»
+L988 [cifras: perdidas {'1.000': 1, '12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"1.000 km, luego» → «"Tras el primer millar de kilómetros de rodaje, el mantenimiento se programa» | «km o 12 meses (lo que ocurra antes);» → «km, y siempre antes de cumplir un año desde la última; la» | «» → «es»
+L992 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Renovación» | «+ inspección» → «y filtro, revisión» | «aprietes",» → «aprietes comprobados",»
+L1002 [cifras: perdidas {'6': 1} nuevas {}; cifra deletreada/reformulada] «QJMotor (1.000/7.000» → «QJMotor: revisiones a 1.000/7.000» | «km);» → «km;» | «6» → «seis»
+L1042 [cifras: perdidas {'4': 1} nuevas {}; cifra deletreada/reformulada] «de 4» → «con cuatro»
+L1071 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"1.000» → «"Al cerrar el rodaje de 1.000» | «luego» → «la moto pasa por el taller» | «km o 12 meses (lo que ocurra antes);» → «km, y nunca más de un año entre revisiones, además de su»
+L1075 [spinning en campo de dato queSeCambia] «+» → «con» | «+ inspección» → «nuevos, revisión» | «aprietes",» → «aprietes comprobados",»
+L1085 [spinning en campo de dato fuente] «"Manual» → «"El manual» | «(1.000/7.000» → «fija las primeras revisiones en 1.000 y 7.000» | «» → «el resto»
+L1154 [«lo que ocurra antes» rotado] «km,» → «km de rodaje y» | «km o» → «km, con una revisión anual obligatoria y sin superar» | «(lo que ocurra antes); revisión anual obligatoria",» → «entre revisiones",»
+L1158 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Cambio» | «+» → «con filtro nuevo,» | «» → «repaso de los»
+L1168 [spinning en campo de dato fuente] «"Manual» → «"Según QJMotor, su manual» | «QJMotor (1.000/7.000» → «fija 1.000/7.000» | «km);» → «km;»
+L1237 [cifras: perdidas {'12': 1} nuevas {}; «lo que ocurra antes» rotado] «"1.000» → «"Cumplido el rodaje de 1.000» | «luego» → «» | «o 12 meses (lo que ocurra antes);» → «corresponde una revisión, con el año como tope entre revisiones; con»
+L1241 [spinning en campo de dato queSeCambia] «+» → «y» | «de aceite +» → «sustituidos,» | «aprietes",» → «aprietes verificados",»
+L1251 [spinning en campo de dato fuente] «"Manual del» → «"El» | «(1.000/7.000» → «recoge 1.000/7.000» | «km);» → «km en su manual;»
+L1320 [cifras: perdidas {'12': 1} nuevas {}; «lo que ocurra antes» rotado] «"1.000» → «"Hecho el rodaje de 1.000» | «luego cada» → «las visitas al taller se espacian» | «km o 12 meses (lo» → «km, lo»
+L1334 [spinning en campo de dato fuente] «"Manual» → «"En el manual» | «(1.000/7.000» → «figuran 1.000 y 7.000» | «cada» → «un intervalo posterior de»
+L1360 [cifra deletreada/reformulada] «doble canal» → «dos canales»
+L1403 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"1.000» → «"Al terminar el rodaje de 1.000» | «luego» → «la pauta marca una revisión» | «km o 12 meses (lo que ocurra antes)",» → «km, y como mucho un año entre una revisión y la siguiente",»
+L1486 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"1.000» → «"Tras rodar los primeros 1.000» | «luego» → «hay que revisarla» | «km o 12 meses (lo» → «km, sin dejar»
+L1569 [«lo que ocurra antes» rotado] «"6.000 km o» → «"Cada 6.000 km, sin superar los» | «(lo que ocurra antes)",» → «entre revisiones",»
+L1647 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"6.000 km o 12 meses (lo que ocurra antes)",» → «"Cada 6.000 km, con un año como plazo máximo entre visitas al taller",»
+L1722 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «12 meses (lo» → «un año entre revisiones, lo» | «ocurra antes)",» → «suceda primero",»
+L1797 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"6.000 km o 12 meses (lo» → «"El taller la ve cada 6.000 km, antes de» | «ocurra antes)",» → «se cumpla un año desde la anterior",»
+
+## src/lib/comparador-motos-exp-m4.ts (103 líneas)
+L78 [spinning en campo de dato aceiteTipo] «semisintético» → «de base semisintética»
+L157 [spinning en campo de dato intervaloMantenimiento] «"Primera revisión» → «"Revisión inicial» | «km; después» → «kilómetros; a continuación»
+L158 [spinning en campo de dato aceiteTipo] «semisintético» → «de base semisintética»
+L235 [spinning en campo de dato intervaloMantenimiento] «después» → «posteriormente»
+L236 [spinning en campo de dato aceiteTipo] «L;» → «litros;» | «L» → «litros»
+L314 [spinning en campo de dato intervaloMantenimiento] «km; después» → «kilómetros; luego»
+L315 [spinning en campo de dato aceiteTipo] «» → «de base semisintética» | «semisintético» → «» | «L;» → «litros;»
+L393 [spinning en campo de dato intervaloMantenimiento] «km;» → «kilómetros;» | «km» → «kilómetros»
+L394 [spinning en campo de dato aceiteTipo] «"10W-40» → «"JASO MA2» | «JASO MA2» → «10W-40» | «L» → «litros»
+L402 [cifras: perdidas {} nuevas {'14': 1}] «dos semanas» → «14 días»
+L547 [spinning en campo de dato intervaloMantenimiento] «km; después» → «kilómetros; posteriormente»
+L622 [spinning en campo de dato intervaloMantenimiento] «después» → «a continuación»
+L697 [spinning en campo de dato intervaloMantenimiento] «km; después» → «kilómetros; luego»
+L772 [spinning en campo de dato intervaloMantenimiento] «km;» → «kilómetros;» | «km",» → «kilómetros",»
+L775 [TEXTO ROTO] «sustitución» → «cambio» | «km",» → «km (con regularidad)",»
+L848 [spinning en campo de dato intervaloMantenimiento] «km» → «kilómetros»
+L849 [spinning en campo de dato aceiteTipo] «totalmente» → «completamente»
+L922 [spinning en campo de dato intervaloMantenimiento] «16.000 km (10.000 millas)",» → «10.000 millas (16.000 km)",»
+L923 [spinning en campo de dato aceiteTipo] «sintético» → «de síntesis»
+L996 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"Intervalo: cada»
+L997 [spinning en campo de dato aceiteTipo] «totalmente sintético» → «completamente de síntesis» | «cambio» → «sustitución»
+L1070 [spinning en campo de dato intervaloMantenimiento] «km (10.000 millas)",» → «km, es decir, 10.000 millas",»
+L1071 [spinning en campo de dato aceiteTipo] «cambio» → «reemplazo»
+L1219 [spinning en campo de dato aceiteTipo] «"5W-40 sintético API» → «"API» | «» → «5W-40 JASO MA» | «JASO MA",» → «de síntesis",»
+L1294 [spinning en campo de dato aceiteTipo] «API SL» → «» | «MA",» → «MA API SL",»
+L1369 [spinning en campo de dato aceiteTipo] «» → «JASO MA» | «A3 JASO MA",» → «A3",»
+L1373 [cifras: perdidas {'2': 1} nuevas {}; cifra deletreada/reformulada] «2» → «dos»
+L1450 [spinning en campo de dato aceiteTipo] «sintético» → «de síntesis con» | «SL» → «SL,» | «» → «y»
+L1453 [TEXTO ROTO] «servicio",» → «revisión",»
+L1454 [cifras: perdidas {'2': 1} nuevas {'24': 1}] «sustitución» → «cambio» | «2 años",» → «24 meses",»
+L1459 [spinning en campo de dato intervalo] «después» → «a continuación»
+L1546 [spinning en campo de dato intervaloMantenimiento] «"Primer cambio a» → «"Sustitución inaugural al cumplir» | «km; después» → «kilómetros; a partir de ese rodaje, nueva sustitución»
+L1547 [spinning en campo de dato aceiteTipo] «API SL» → «con JASO MA,» | «JASO MA",» → «y API SL",»
+L1622 [spinning en campo de dato intervaloMantenimiento] «km; después» → «kilómetros; luego» | «km» → «kilómetros»
+L1623 [spinning en campo de dato aceiteTipo] «sintético» → «de síntesis»
+L1698 [spinning en campo de dato intervaloMantenimiento] «"Primera revisión» → «"La primera revisión,» | «después» → «posteriormente» | «km» → «kilómetros»
+L1699 [spinning en campo de dato aceiteTipo] «"5W-40» → «"con 5W-40» | «JASO MA/MA2» → «» | «A3",» → «A3 JASO MA/MA2",»
+L1774 [spinning en campo de dato intervaloMantenimiento] «"Primera» → «"Rodaje cerrado con una» | «km; después» → «kilómetros; en adelante, paso por taller» | «o» → «o, si antes no se alcanzan,»
+L1775 [spinning en campo de dato aceiteTipo] «sintético API SL» → «de síntesis» | «MA",» → «MA API SL",»
+L1849 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «km» → «kilómetros» | «12 meses",» → «un año",»
+L1850 [spinning en campo de dato aceiteTipo] «SL» → «SL, JASO MA y» | «A3 JASO MA",» → «A3",»
+L1852 [DATO PERDIDO: filtro de aire] «» → «la» | «filtro» → «Filtro» | «aire» → «admisión»
+L1853 [cifras: perdidas {'24': 1} nuevas {}; cifra deletreada/reformulada] «24 meses",» → «dos años",»
+L1855 [cifras: perdidas {} nuevas {'14': 1}] «revísala» → «contrólala» | «dos semanas",» → «14 días",»
+L1924 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Primera revisión» → «"Revisión inicial» | «después» → «seguidamente» | «km» → «kilómetros»
+L1925 [spinning en campo de dato aceiteTipo] «sintético JASO MA/MA2» → «de síntesis con ACEA A3,» | «ACEA A3",» → «y JASO MA/MA2",»
+L1929 [cifras: perdidas {'2': 1} nuevas {}; cifra deletreada/reformulada] «de» → «para» | «sustitución» → «cambio» | «2» → «dos»
+L2005 [TEXTO ROTO] «"Líquido» → «"Fluido» | «sustitución» → «cambio» | «años",» → «años (con regularidad)",»
+L2075 [spinning en campo de dato intervaloMantenimiento] «revisión» → «revisión:» | «km; después» → «kilómetros; seguidamente» | «km» → «kilómetros»
+L2076 [spinning en campo de dato aceiteTipo] «sintético» → «de síntesis JASO MA» | «JASO MA» → «»
+L2080 [cifras: perdidas {'2': 1} nuevas {}; cifra deletreada/reformulada] «2 años",» → «dos años (recomendado)",»
+L2081 [cifras: perdidas {} nuevas {'14': 1}] «neumáticos: revísala» → «las ruedas: compruébala» | «dos semanas",» → «14 días",»
+L2150 [spinning en campo de dato intervaloMantenimiento] «después» → «luego» | «km» → «kilómetros»
+L2151 [spinning en campo de dato aceiteTipo] «"5W-40» → «"API SL 5W-40» | «API SL» → «»
+L2155 [TEXTO ROTO] «servicio",» → «revisión",»
+L2291 [spinning en campo de dato aceiteTipo] «semisintético",» → «de base semisintética",»
+L2367 [TEXTO ROTO] «servicio",» → «servicio (con regularidad)",»
+L2438 [spinning en campo de dato aceiteTipo] «sintético» → «de síntesis»
+L2443 [cifras: perdidas {'2': 1} nuevas {'24': 1}] «sustitución» → «cambio» | «2 años",» → «24 meses",»
+L2513 [spinning en campo de dato intervaloMantenimiento] «"Primera revisión» → «"Revisión inicial» | «km; después» → «kilómetros; seguidamente»
+L2514 [spinning en campo de dato aceiteTipo] «JASO MB» → «» | «A3",» → «A3 JASO MB",»
+L2589 [spinning en campo de dato intervaloMantenimiento] «"Primera revisión» → «"La primera revisión,» | «km; después» → «kilómetros; posteriormente»
+L2590 [spinning en campo de dato aceiteTipo] «» → «con» | «MB» → «MB,» | «» → «y»
+L2595 [TEXTO ROTO] «de» → «para» | «sustitución» → «reemplazo» | «años",» → «años (con regularidad)",»
+L2667 [spinning en campo de dato aceiteTipo] «"10W-40 semisintético» → «"de base semisintética» | «» → «10W-40»
+L2670 [TEXTO ROTO] «servicio",» → «revisión",»
+L2742 [spinning en campo de dato intervaloMantenimiento] «km» → «kilómetros» | «después» → «a continuación»
+L2743 [spinning en campo de dato aceiteTipo] «ml;» → «mililitros;»
+L2819 [spinning en campo de dato aceiteTipo] «semisintético» → «de base semisintética»
+L2825 [cifras: perdidas {'2': 1} nuevas {'24': 1}] «sustitución» → «cambio» | «2 años",» → «24 meses (según el manual)",»
+L2894 [spinning en campo de dato intervaloMantenimiento] «km; después» → «kilómetros; posteriormente»
+L2895 [spinning en campo de dato aceiteTipo] «"10W-40» → «"con 10W-40» | «ml)",» → «mililitros)",»
+L2971 [spinning en campo de dato intervaloMantenimiento] «"Primer cambio» → «"Primera sustitución» | «km;» → «kilómetros;»
+L2972 [spinning en campo de dato aceiteTipo] «» → «con»
+L3047 [spinning en campo de dato intervaloMantenimiento] «"Primer» → «"El primer» | «a los» → «tras» | «después» → «seguidamente»
+L3048 [spinning en campo de dato aceiteTipo] «"10W-30 o 10W-40 API» → «"API» | «superior",» → «superior: 10W-30 o 10W-40",»
+L3051 [TEXTO ROTO] «servicio;» → «revisión;»
+L3052 [TEXTO ROTO] «"Correa,» → «"Sustitución cada 10.000 km; Correa,» | «km; sustitución cada 10.000» → «»
+L3123 [spinning en campo de dato intervaloMantenimiento] «cambio» → «reemplazo» | «km; después» → «kilómetros; luego» | «km",» → «kilómetros",»
+L3124 [spinning en campo de dato aceiteTipo] «"10W-30» → «"con 10W-30» | «10W-40» → «10W-40,» | «o superior",» → «como mínimo",»
+L3129 [cifras: perdidas {'2': 1} nuevas {}; cifra deletreada/reformulada] «2» → «dos»
+L3205 [spinning en campo de dato intervaloMantenimiento] «después» → «luego» | «km",» → «kilómetros",»
+L3206 [spinning en campo de dato aceiteTipo] «» → «con especificación»
+L3211 [cifras: perdidas {'2': 1} nuevas {'24': 1}] «de» → «para» | «sustitución» → «reemplazo» | «2 años» → «24 meses»
+L3281 [spinning en campo de dato intervaloMantenimiento] «después» → «posteriormente»
+L3282 [spinning en campo de dato aceiteTipo] «10W-40» → «bien 10W-40,»
+L3455 [spinning en campo de dato intervaloMantenimiento] «km; después» → «kilómetros; posteriormente»
+L3456 [spinning en campo de dato aceiteTipo] «"10W-30» → «"con 10W-30» | «10W-40» → «10W-40, norma»
+L3532 [spinning en campo de dato intervaloMantenimiento] «"Primer cambio» → «"Primera sustitución» | «» → «tras 1.000 kilómetros;» | «los 1.000 km; después» → «continuación»
+L3533 [spinning en campo de dato aceiteTipo] «» → «con»
+L3537 [TEXTO ROTO] «servicio",» → «revisión",»
+L3608 [spinning en campo de dato intervaloMantenimiento] «km",» → «kilómetros",»
+L3609 [spinning en campo de dato aceiteTipo] «"10W-40 API SL",» → «"API SL 10W-40",»
+L3615 [cifras: perdidas {} nuevas {'14': 1}] «revísala» → «compruébala» | «dos semanas",» → «14 días (según el manual)",»
+L3684 [spinning en campo de dato intervaloMantenimiento] «"Primer cambio» → «"Sustitución inicial» | «a los» → «tras» | «después» → «posteriormente»
+L3685 [spinning en campo de dato aceiteTipo] «"10W-40» → «"10W-40, especificación»
+L3688 [cifras: perdidas {'6': 1} nuevas {}; cifra deletreada/reformulada] «6» → «cada seis»
+L3689 [TEXTO ROTO] «» → «la» | «servicio",» → «revisión (en cada servicio)",»
+L3761 [spinning en campo de dato aceiteTipo] «L)",» → «litros)",»
+L3836 [spinning en campo de dato intervaloMantenimiento] «revisión a los» → «visita al taller al alcanzar» | «km; después» → «kilómetros; después, repítela» | «km",» → «km sin alargarla",»
+L3837 [spinning en campo de dato aceiteTipo] «"10W-40» → «"con 10W-40»
+L3840 [TEXTO ROTO] «"Correa» → «"Sustitución cada 20.000 km; correa» | «» → «la» | «km; sustitución cada 20.000» → «»
+L3841 [TEXTO ROTO] «servicio",» → «revisión",»
+
+## src/lib/comparador-motos-exp-m7.ts (51 líneas)
+L70 [cifra deletreada/reformulada] «"Comprueba» → «"Derecha sobre sus dos ruedas, revisa cuánto cede» | «tensión con la moto en vertical» → «cadena» | «ajusta según» → «corrige ese juego hasta»
+L133 [spinning en campo de dato aceiteTipo] «"10W-30 (JASO MA/MA2,» → «"Aceite 10W-30 de norma JASO MA o MA2 más» | «superior)",» → «mejor",»
+L200 [spinning en campo de dato aceiteTipo] «"10W-30 (JASO MA/MA2,» → «"Grado 10W-30 indicado JASO MA y MA2 junto a» | «superior)",» → «mejor",»
+L267 [spinning en campo de dato aceiteTipo] «"10W-30 (JASO MA/MA2,» → «"Fluido 10W-30 con JASO MA/MA2 más» | «superior)",» → «más",»
+L334 [spinning en campo de dato aceiteTipo] «"10W-30 (JASO MA/MA2,» → «"Aceite 10W-30 especificado JASO MA/MA2 así como» | «superior)",» → «superior",»
+L401 [spinning en campo de dato aceiteTipo] «"10W-30 (JASO MA/MA2,» → «"Aceite 10W-30 exigido JASO MA o MA2 además de» | «superior)",» → «más",»
+L530 [spinning en campo de dato aceiteTipo] «"10W-30 (JASO MA/MA2,» → «"Grado 10W-30 exigido JASO MA o MA2 así como» | «superior)",» → «más",»
+L617 [spinning en campo de dato queSeCambia] «+» → «con su filtro,» | «de aceite + filtro de aire +» → «del aire,» | «+» → «y»
+L626 [spinning en campo de dato aceiteTipo] «"10W-30 (JASO MB,» → «"Grado 10W-30 norma JASO MB y» | «o superior)",» → «en adelante",»
+L688 [spinning en campo de dato aceiteTipo] «"10W-30 (JASO MB,» → «"Fluido 10W-30 JASO MB y» | «superior)",» → «superior",»
+L750 [spinning en campo de dato aceiteTipo] «"10W-30 (JASO MA/MA2,» → «"Grado 10W-30 especificado JASO MA o MA2 con» | «o superior)",» → «como mínimo",»
+L817 [spinning en campo de dato aceiteTipo] «"10W-30 (JASO MA/MA2,» → «"Grado 10W-30 recomendado JASO MA y MA2 además de» | «superior)",» → «superior",»
+L884 [spinning en campo de dato aceiteTipo] «"10W-30 (JASO MA/MA2,» → «"Fluido 10W-30 con JASO MA o MA2 junto a» | «o superior)",» → «como mínimo",»
+L1014 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Grado 10W-40 de norma JASO MA o MA2 y» | «o superior)",» → «en adelante",»
+L1081 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Grado 10W-40 con JASO MA/MA2 más» | «o superior)",» → «en adelante",»
+L1148 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Aceite 10W-40 aconsejado JASO MA/MA2 además de» | «superior)",» → «más",»
+L1155 [DATO PERDIDO: filtro de aire] «filtro» → «elemento»
+L1265 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Aceite 10W-40 aconsejado JASO MA y MA2 con» | «superior)",» → «superior",»
+L1332 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Fluido 10W-40 de norma JASO MA/MA2 y» | «o superior)",» → «como mínimo",»
+L1399 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MB,» → «"Fluido 10W-40 JASO MB y» | «superior)",» → «superior",»
+L1461 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Aceite 10W-40 con JASO MA y MA2 y» | «o superior)",» → «en adelante",»
+L1468 [cifras: perdidas {'100.000': 1} nuevas {}; cifra deletreada/reformulada] «» → «el» | «día supera» → «día, rebasa» | «100.000 km.",» → «cien mil kilómetros.",»
+L1527 [spinning en campo de dato queSeCambia] «10W-40 +» → «10W-40,» | «+» → «nuevo e»
+L1532 [spinning en campo de dato queSeCambia] «+» → «nuevo,» | «aceite +» → «aceite,» | «+» → «y»
+L1596 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Lubricante 10W-40 especificado JASO MA y MA2 y» | «superior)",» → «más",»
+L1663 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Viscosidad 10W-40 de norma JASO MA y MA2 con» | «o superior)",» → «en adelante",»
+L1730 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Lubricante 10W-40 aconsejado JASO MA/MA2 junto a» | «superior)",» → «mejor",»
+L1737 [cifras: perdidas {'100.000': 1} nuevas {}; cifra deletreada/reformulada] «100.000 km.",» → «cien mil kilómetros.",»
+L1797 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Aceite 10W-40 aconsejado JASO MA/MA2 y» | «superior)",» → «mejor",»
+L1864 [spinning en campo de dato aceiteTipo] «(JASO MA/MA2,» → «exigido JASO MA/MA2 conforme a» | «superior)",» → «de grado superior",»
+L1983 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Viscosidad 10W-40 prescrito JASO MA/MA2 más» | «o superior)",» → «y superiores",»
+L2050 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Fluido 10W-40 JASO MA/MA2 con» | «superior)",» → «de grado superior",»
+L2057 [cifras: perdidas {'2': 1} nuevas {}; cifra deletreada/reformulada] «"Si haces» → «"En uso de» | «2» → «dos»
+L2117 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Fluido 10W-40 especificado JASO MA o MA2 y» | «superior)",» → «mejor",»
+L2184 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Grado 10W-40 prescrito JASO MA/MA2 así como» | «o superior)",» → «como mínimo",»
+L2251 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Lubricante 10W-40 con JASO MA o MA2 conforme a» | «superior)",» → «mejor",»
+L2318 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Viscosidad 10W-40 exigido JASO MA/MA2 así como» | «o superior)",» → «en adelante",»
+L2385 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Lubricante 10W-40 prescrito JASO MA y MA2 con» | «o superior)",» → «y superiores",»
+L2454 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Fluido 10W-40 con JASO MA y MA2 así como» | «superior)",» → «de grado superior",»
+L2523 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Viscosidad 10W-40 recomendado JASO MA o MA2 con» | «superior)",» → «superior",»
+L2592 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Aceite 10W-40 aconsejado JASO MA o MA2 más» | «o superior)",» → «como mínimo",»
+L2661 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Lubricante 10W-40 recomendado JASO MA y MA2 más» | «superior)",» → «de grado superior",»
+L2730 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Viscosidad 10W-40 exigido JASO MA/MA2 con» | «superior)",» → «más",»
+L2799 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Grado 10W-40 aconsejado JASO MA/MA2 con» | «o superior)",» → «como mínimo",»
+L2868 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Viscosidad 10W-40 exigido JASO MA o MA2 y» | «o superior)",» → «y superiores",»
+L2937 [spinning en campo de dato aceiteTipo] «"10W-30 (JASO MB,» → «"Grado 10W-30 aconsejado JASO MB además de» | «superior)",» → «más",»
+L3002 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Viscosidad 10W-40 exigido JASO MA/MA2 junto a» | «o superior)",» → «en adelante",»
+L3071 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Fluido 10W-40 indicado JASO MA/MA2 con» | «superior)",» → «mejor",»
+L3140 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Grado 10W-40 especificado JASO MA y MA2 más» | «o superior)",» → «en adelante",»
+L3209 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Viscosidad 10W-40 exigido JASO MA/MA2 y» | «superior)",» → «de grado superior",»
+L3278 [spinning en campo de dato aceiteTipo] «"10W-40 (JASO MA/MA2,» → «"Fluido 10W-40 especificado JASO MA/MA2 junto a» | «o superior)",» → «y superiores",»
+
+## src/lib/comparador-motos-lote14.ts (96 líneas)
+L71 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"6.000» → «"Cada 6.000» | «12 meses (lo» → «al cabo de un año, lo primero» | «ocurra antes)",» → «se alcance manda",»
+L75 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Renovación del aceite y» | «aceite + inspección» → «su filtro, revisión» | «aprietes",» → «aprietes comprobados",»
+L80 [DATO PERDIDO: válvulas] «"Aceite +» → «"Lubricante y» | «bujía + reglaje de válvulas (según km)",» → «bujía",»
+L147 [spinning en campo de dato intervalo] «"4.000» → «"Manda lo que ocurra antes: 4.000» | «meses (lo que ocurra antes)",» → «meses",»
+L151 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Cambio» | «+» → «con filtro nuevo,» | «general» → «completa»
+L156 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Cambio de aceite, filtros» | «+ filtro de» → «y» | «+ bujía",» → «y bujía nueva",»
+L161 [spinning en campo de dato fuente] «"Intervalo estándar del» → «"Pauta habitual en su» | «costes aproximados» → «importes orientativos» | «red» → «taller»
+L227 [spinning en campo de dato queSeCambia] «"Aceite +» → «"Sustitución del lubricante y del» | «aceite + inspección» → «aceite, control» | «aprietes",» → «aprietes repasados",»
+L232 [spinning en campo de dato queSeCambia] «+ filtro» → «renovado y filtros» | «+ filtro» → «y» | «+ bujía",» → «sustituidos, bujía cambiada",»
+L301 [cifras: perdidas {'1': 2} nuevas {}; cifra deletreada/reformulada] «"1ª» → «"Tras la» | «a» → «de» | «km;» → «km, las»
+L305 [spinning en campo de dato queSeCambia] «+» → «nuevo y» | «» → «sustituido, revisión general» | «aceite + inspección general» → «la moto»
+L310 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Lubricante nuevo con filtros» | «+ filtro» → «y» | «+ bujía",» → «y bujía de repuesto",»
+L378 [cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"6.000» → «"El taller la espera tras recorrer 6.000» | «» → «cumplir» | «meses (lo que ocurra antes)",» → «meses, según el primero de los dos límites",»
+L382 [spinning en campo de dato queSeCambia] «"Aceite + filtro de» → «"Cambio del» | «+ inspección» → «motor y su filtro, chequeo» | «aprietes",» → «aprietes ajustados",»
+L387 [DATO PERDIDO: válvulas] «+» → «nuevo y» | «bujías + reglaje de válvulas (según km)",» → «bujías",»
+L392 [spinning en campo de dato fuente] «estándar del segmento; costes» → «usual de la categoría; precios» | «de» → «en» | «en España",» → «española",»
+L454 [spinning en campo de dato intervalo] «"5.000» → «"Lo que ocurra antes decide: 5.000» | «meses (lo que ocurra antes)",» → «meses",»
+L458 [spinning en campo de dato queSeCambia] «"Aceite +» → «"Lubricante y» | «de aceite +» → «renovados,» | «» → «del vehículo»
+L463 [spinning en campo de dato queSeCambia] «"Aceite + filtro de» → «"Sustitución del» | «+ filtro» → «y filtros» | «+» → «y aceite y»
+L468 [spinning en campo de dato fuente] «"Intervalo estándar» → «"Cadencia común» | «aproximados» → «orientativos» | «red» → «concesionario»
+L531 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"5.000» → «"Cada 5.000» | «12 meses (lo» → «transcurrido un año, lo» | «ocurra antes)",» → «llegue en primer lugar",»
+L535 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Reposición del aceite y cambio» | «aceite + inspección general» → «filtro, revisión completa» | «aprietes",» → «aprietes verificados",»
+L540 [spinning en campo de dato queSeCambia] «+ filtro de aceite + filtro de aire + bujía",» → «y filtros cambiados en la revisión periódica, bujía sustituida",»
+L545 [spinning en campo de dato fuente] «"Intervalo estándar del segmento; costes» → «"Plazo acostumbrado en su clase; importes» | «red» → «servicio» | «en España",» → «español",»
+L607 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"6.000» → «"Intervalos de 6.000» | «12 meses (lo» → «de un año, con el» | «ocurra antes)",» → «venza antes como límite",»
+L611 [spinning en campo de dato queSeCambia] «+» → «y» | «» → «cambiados, control general» | «aceite + inspección general» → «la moto»
+L616 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Renovación» | «+ filtro de aire + bujía",» → «y filtros, bujía nueva",»
+L621 [spinning en campo de dato fuente] «"Intervalo estándar del segmento; costes aproximados» → «"Frecuencia habitual» | «red oficial» → «la categoría; precios orientativos» | «» → «talleres oficiales de»
+L683 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"6.000 km» → «"Cada 6.000 kilómetros» | «12 meses (lo» → «al año cumplido, lo» | «antes)",» → «en primer lugar",»
+L687 [spinning en campo de dato queSeCambia] «"Aceite +» → «"Sustitución de aceite y» | «aceite +» → «lubricación,» | «aprietes",» → «aprietes confirmados",»
+L692 [DATO PERDIDO: válvulas] «+ filtro de aceite + filtro de aire +» → «y filtros renovados, con» | «+ reglaje de válvulas (según km)",» → «nuevas",»
+L697 [spinning en campo de dato fuente] «estándar» → «corriente» | «costes» → «gastos» | «España",» → «nuestro país",»
+L760 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"4.000» → «"Cada 4.000» | «12 meses (lo» → «pasado un año, lo» | «ocurra antes)",» → «se cumpla en primer lugar",»
+L764 [spinning en campo de dato queSeCambia] «"Aceite + filtro de» → «"Nuevo» | «+ inspección» → «con su filtro, revisión» | «» → «comprobación de todos los»
+L769 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Cambio» | «aceite +» → «lubricante,» | «+» → «y de aceite y»
+L774 [spinning en campo de dato fuente] «"Intervalo estándar del segmento; costes» → «"Pauta corriente en su clase; importes» | «red» → «taller» | «en España",» → «español",»
+L836 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"6.000» → «"Al cumplir 6.000» | «12 meses (lo» → «al cumplir un año, lo» | «ocurra antes)",» → «acontezca antes",»
+L840 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Cambio» | «aceite +» → «lubricante y filtro,» | «» → «repaso de»
+L845 [DATO PERDIDO: válvulas] «+ filtro» → «renovado, filtros» | «+ filtro» → «y» | «+» → «sustituidos,»
+L850 [spinning en campo de dato fuente] «"Intervalo estándar» → «"Cadencia habitual» | «costes aproximados» → «precios orientativos» | «red» → «servicio»
+L913 [cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"4.000» → «"La revisión llega cada 4.000» | «» → «al cumplirse» | «meses (lo que ocurra antes)",» → «meses, cuando se alcance antes uno de los dos topes",»
+L917 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Renovación» | «+ inspección» → «motor y filtro, control» | «aprietes",» → «aprietes puestos a punto",»
+L922 [spinning en campo de dato queSeCambia] «+ filtro» → «sustituido, filtros» | «+ filtro de» → «y» | «+ bujía",» → «nuevos, bujía reemplazada",»
+L927 [spinning en campo de dato fuente] «"Intervalo estándar del» → «"Plazo usual de su» | «costes aproximados» → «gastos orientativos en red» | «red oficial en» → «talleres oficiales de»
+L990 [«lo que ocurra antes» rotado] «"6.000» → «"Su pauta es 6.000» | «meses (lo» → «meses, con el tope en lo primero» | «ocurra antes)",» → «venza",»
+L994 [spinning en campo de dato queSeCambia] «+» → «sustituido y» | «» → «nuevo, revisión general» | «aceite + inspección general» → «componentes»
+L999 [DATO PERDIDO: válvulas] «"Aceite + filtro» → «"Lubricante nuevo con filtros» | «+ filtro» → «y aire, bujías» | «aire + bujías + reglaje de válvulas (según km)",» → «repuesto",»
+L1004 [spinning en campo de dato fuente] «"Intervalo estándar del segmento; costes» → «"Frecuencia común en la categoría; importes» | «red» → «concesionario» | «en España",» → «español",»
+L1066 [«lo que ocurra antes» rotado] «"5.000» → «"La marca pide taller cada 5.000» | «» → «cada» | «meses (lo» → «meses, lo»
+L1070 [spinning en campo de dato queSeCambia] «"Aceite +» → «"Cambio de aceite y» | «aceite +» → «motor,» | «aprietes",» → «aprietes controlados a par",»
+L1075 [spinning en campo de dato queSeCambia] «"Aceite + filtro de» → «"Nuevo» | «+ filtro de aire + bujía",» → «y filtros y bujía cambiada",»
+L1080 [spinning en campo de dato fuente] «estándar del segmento;» → «acostumbrado en su clase;» | «aproximados» → «orientativos» | «red» → «taller»
+L1142 [cifras: perdidas {'1': 2} nuevas {}; cifra deletreada/reformulada] «"1ª revisión» → «"El rodaje se revisa» | «siguientes» → «luego,» | «1» → «cada»
+L1146 [spinning en campo de dato queSeCambia] «"Aceite +» → «"Lubricante nuevo y» | «de aceite + inspección» → «cambiado, revisión» | «aprietes",» → «aprietes repasados en taller",»
+L1151 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Cambio» | «+ filtro» → «con sus filtros y bujía» | «aire + bujía",» → «sustitución",»
+L1156 [spinning en campo de dato fuente] «"Ficha técnica» → «"Documento técnico» | «» → «de» | «España (importador Multimoto)",» → «España, distribuido por Multimoto",»
+L1218 [cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"6.000» → «"Toca taller cada 6.000» | «» → «cada» | «meses (lo que ocurra antes)",» → «meses, cuando antes se cumpla uno de los dos",»
+L1222 [spinning en campo de dato queSeCambia] «+» → «y» | «» → «sustituidos, chequeo general» | «aceite + inspección general» → «la moto»
+L1227 [DATO PERDIDO: válvulas] «"Aceite + filtro de aceite + filtro» → «"Sustitución del aceite, filtros» | «+ bujías + reglaje de válvulas (según km)",» → «y aceite y bujías",»
+L1232 [spinning en campo de dato fuente] «"Intervalo estándar» → «"Pauta usual» | «costes» → «precios» | «red» → «servicio»
+L1294 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"5.000» → «"Intervalos de 5.000» | «12 meses (lo» → «de un año, tomando el» | «ocurra antes)",» → «venza antes",»
+L1298 [spinning en campo de dato queSeCambia] «"Aceite +» → «"Renovación del lubricante con» | «de aceite +» → «nuevo,» | «aprietes",» → «aprietes comprobados en taller",»
+L1303 [spinning en campo de dato queSeCambia] «"Aceite + filtro de aceite + filtro de aire + bujía",» → «"Lubricante y filtros renovados, bujía nueva",»
+L1308 [spinning en campo de dato fuente] «"Intervalo estándar del segmento; costes aproximados» → «"Cadencia corriente de la categoría; gastos orientativos» | «en España",» → «española",»
+L1370 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"4.000» → «"Intervalos de 4.000» | «12 meses (lo» → «de un año, según el» | «ocurra antes)",» → «venza antes",»
+L1374 [spinning en campo de dato queSeCambia] «"Aceite +» → «"Cambio de aceite y de su» | «aceite + inspección» → «motor, revisión» | «aprietes",» → «aprietes verificados uno a uno",»
+L1379 [spinning en campo de dato queSeCambia] «"Aceite + filtro de» → «"Sustitución del» | «+ filtro» → «con filtros» | «+ bujía",» → «y aceite, bujía cambiada",»
+L1384 [spinning en campo de dato fuente] «"Intervalo estándar del» → «"Plazo habitual en su» | «costes aproximados» → «importes orientativos» | «red oficial en España",» → «talleres oficiales españoles",»
+L1446 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"4.000 km» → «"Cada 4.000 kilómetros» | «12 meses (lo» → «una vez al año, lo» | «antes)",» → «en primer lugar",»
+L1450 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Sustitución del aceite motor y del filtro, control general» | «aceite + inspección general» → «la moto» | «aprietes",» → «aprietes ajustados",»
+L1455 [spinning en campo de dato queSeCambia] «"Aceite +» → «"Lubricante renovado,»
+L1460 [spinning en campo de dato fuente] «"Intervalo estándar del segmento; costes» → «"Frecuencia acostumbrada en su clase; importes» | «» → «en concesionarios oficiales» | «red oficial en» → «»
+L1522 [cifras: perdidas {'12': 1} nuevas {}; «lo que ocurra antes» rotado] «"6.000» → «"Revisión programada a los 6.000» | «12 meses (lo» → «al cumplirse el año, lo» | «ocurra antes)",» → «se produzca primero",»
+L1526 [spinning en campo de dato queSeCambia] «+» → «nuevo con» | «de aceite +» → «cambiado,» | «aprietes",» → «aprietes revisados por el taller",»
+L1531 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Cambio» | «+ filtro» → «y» | «aire +» → «los filtros de aceite y aire,»
+L1536 [spinning en campo de dato fuente] «estándar del segmento;» → «común de la categoría;» | «red» → «servicio» | «en España",» → «español",»
+L1599 [cifras: perdidas {'12': 1} nuevas {}; «lo que ocurra antes» rotado] «"4.000» → «"Al cumplir 4.000» | «12 meses (lo» → «al cumplir el año, lo» | «ocurra antes)",» → «acontezca antes",»
+L1603 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Cambio» | «aceite + inspección» → «lubricante y de filtro, revisión» | «» → «de la moto»
+L1608 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Cambio» | «+ filtro» → «con filtros» | «» → «aceite y»
+L1613 [spinning en campo de dato fuente] «"Intervalo estándar del» → «"Pauta corriente en su» | «costes» → «gastos» | «red» → «taller»
+L1675 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"5.000 km» → «"Cada 5.000 kilómetros» | «12 meses (lo» → «cada año, lo» | «antes)",» → «en primer lugar",»
+L1679 [spinning en campo de dato queSeCambia] «"Aceite +» → «"Lubricante sustituido y» | «de aceite +» → «renovado,» | «aprietes",» → «aprietes repasados",»
+L1684 [spinning en campo de dato queSeCambia] «+ filtro de aceite + filtro de aire + bujías",» → «y filtros renovados, con las bujías sustituidas en la revisión",»
+L1689 [spinning en campo de dato fuente] «"Intervalo estándar del segmento; costes aproximados» → «"Cadencia usual de su clase; importes orientativos» | «en España",» → «española",»
+L1751 [cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"4.000» → «"Pasa por taller cada 4.000» | «» → «cada» | «meses (lo» → «meses, antes de»
+L1755 [spinning en campo de dato queSeCambia] «+» → «y» | «de aceite + inspección» → «nuevos, revisión» | «» → «completa»
+L1760 [DATO PERDIDO: filtro de aire] «+» → «nuevo,» | «+ filtro» → «y» | «+ bujía",» → «cambiados y bujía sustituida",»
+L1765 [spinning en campo de dato fuente] «"Intervalo estándar» → «"Plazo corriente» | «costes aproximados» → «precios orientativos en talleres oficiales» | «red oficial en» → «»
+L1827 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"6.000» → «"Cada 6.000» | «» → «recorridos» | «12 meses (lo» → «cada año transcurrido, el plazo»
+L1831 [spinning en campo de dato queSeCambia] «"Aceite +» → «"Renovación de aceite y» | «aceite + inspección» → «motor, control» | «aprietes",» → «aprietes verificados",»
+L1836 [DATO PERDIDO: válvulas] «+ filtro de aceite + filtro de aire +» → «y filtros cambiados en el taller,» | «+ reglaje de válvulas (según km)",» → «sustituidas",»
+L1841 [spinning en campo de dato fuente] «"Intervalo estándar del» → «"Frecuencia habitual en su» | «aproximados» → «orientativos» | «red» → «concesionario»
+L1903 [cifras: perdidas {'12': 1} nuevas {}; «lo que ocurra antes» rotado] «"5.000» → «"Al cumplir 5.000» | «12 meses (lo» → «al llegar el año, lo» | «ocurra antes)",» → «acontezca antes",»
+L1907 [spinning en campo de dato queSeCambia] «"Aceite + filtro de aceite +» → «"Cambio del lubricante y su filtro,» | «» → «de la moto» | «aprietes",» → «aprietes ajustados",»
+L1912 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Renovación del lubricante y los filtros, bujía» | «aceite + filtro de aire + bujía",» → «cambio",»
+L1917 [spinning en campo de dato fuente] «estándar del segmento; costes» → «habitual de la categoría; gastos» | «red» → «servicio»
+
+## src/lib/comparador-motos-lote15.ts (38 líneas)
+L68 [«lo que ocurra antes» rotado] «meses (lo» → «meses, lo» | «ocurra antes);» → «resulte primero;»
+L72 [spinning en campo de dato queSeCambia] «+ filtro de aceite + inspección» → «nuevo con su filtro, revisión» | «» → «control de»
+L158 [cifras: perdidas {} nuevas {'4': 1, '15.000': 1, '24': 1, '60.000': 1}] «"Intervalos según» → «"El» | «oficial Ducati; costes» → «de la Multistrada V4 pide aceite a los 15.000 km o 24 meses y reglaje de válvulas a los 60.000 km; Ducati» | «publicados — consultar» → «difunde precios de revisión y hay que pedirlos en su»
+L220 [«lo que ocurra antes» rotado] «"10.000» → «"Pauta de 10.000» | «meses (lo que ocurra antes)",» → «meses; la primera revisión llega con el plazo inicial",»
+L296 [«lo que ocurra antes» rotado] «meses (lo que ocurra antes)",» → «meses; el taller marca la revisión al vencer el primer plazo",»
+L310 [cifras: perdidas {} nuevas {'800': 1, '12.000': 1}; cifra deletreada/reformulada] «"Intervalos según» → «"Según el» | «oficial Ducati; costes» → «Ducati de la Scrambler Icon 800, la revisión llega a los 12.000 km o al año; su coste» | «publicados — consultar» → «lo publica la marca y lo presupuesta su»
+L372 [spinning en campo de dato intervalo] «meses (lo» → «meses, lo» | «antes)",» → «antes",»
+L412 [cifra deletreada/reformulada] «"5 años» → «"Garantía oficial» | «garantía oficial, el doble que la mayoría de» → «5 años, dos veces lo habitual entre sus»
+L448 [«lo que ocurra antes» rotado] «meses (lo que ocurra antes)",» → «meses; la revisión se adelanta al primero de ambos topes",»
+L524 [«lo que ocurra antes» rotado] «meses (lo que ocurra antes)",» → «meses; la revisión toca cuando se cumple el primer plazo",»
+L600 [«lo que ocurra antes» rotado] «meses (lo que ocurra antes)",» → «meses; el paso por taller llega con el primer límite",»
+L614 [cifras: perdidas {} nuevas {'1390': 1, '15.000': 1, '12': 1}] «"Intervalos según manual» → «"KTM fija la revisión de la 1390 Super Duke R EVO a los 15.000 km o 12 meses; el precio no está publicado y la» | «KTM; costes no publicados — consultar red oficial",» → «de la marca da el importe",»
+L676 [spinning en campo de dato intervalo] «"15.000» → «"El criterio es lo que ocurra antes: 15.000» | «meses (lo que ocurra antes)",» → «meses",»
+L690 [cifras: perdidas {} nuevas {'1390': 1, '15.000': 1, '12': 1}] «"Intervalos según» → «"El» | «oficial KTM; costes» → «de la 1390 Super Adventure S programa la revisión cada 15.000 km o 12 meses; KTM» | «publicados — consultar» → «difunde precios de taller y remite a su»
+L752 [«lo que ocurra antes» rotado] «meses (lo que ocurra antes)",» → «meses; se hace la revisión al vencer el primer plazo",»
+L828 [«lo que ocurra antes» rotado] «meses (lo» → «meses, lo» | «ocurra antes)",» → «antes venza",»
+L904 [«lo que ocurra antes» rotado] «meses (lo que ocurra antes)",» → «meses; el taller programa la revisión al llegar el plazo",»
+L918 [cifras: perdidas {} nuevas {'800': 1, '16.000': 1, '12': 1}] «"Intervalos» → «"La Tiger Sport 800 se revisa cada 16.000 km o 12 meses» | «manual» → «Triumph; el taller no tiene precio publicado y la red» | «Triumph; costes no publicados — consultar red oficial",» → «lo presupuesta",»
+L980 [«lo que ocurra antes» rotado] «"16.000» → «"Tope de 16.000» | «meses (lo que ocurra antes)",» → «meses; al primer plazo adelanta la revisión",»
+L994 [cifras: perdidas {} nuevas {'660': 1, '16.000': 1, '12': 1}] «"Intervalos según manual oficial Triumph; costes no publicados — consultar red oficial",» → «"Triumph programa la Daytona 660 para revisión a los 16.000 km o 12 meses; sus concesionarios oficiales dan el»
+L1056 [«lo que ocurra antes» rotado] «meses (lo que ocurra antes)",» → «meses; en el taller, al vencer el plazo",»
+L1132 [«lo que ocurra antes» rotado] «"10.000» → «"Con 10.000» | «meses (lo» → «meses; pasa por el taller antes de» | «ocurra antes)",» → «venza el plazo",»
+L1146 [cifras: perdidas {} nuevas {'900': 1, '10.000': 1, '12': 1}] «"Intervalos según manual oficial BMW Motorrad; costes no publicados — consultar» → «"BMW Motorrad programa la F 900 GS para revisión a los 10.000 km o 12 meses; facilita el importe su» | «oficial",» → «oficial, sin precio publicado",»
+L1208 [«lo que ocurra antes» rotado] «meses (lo que ocurra antes)",» → «meses; la revisión llega al vencer el primer plazo",»
+L1284 [«lo que ocurra antes» rotado] «"12.000» → «"Pauta de 12.000» | «meses (lo que ocurra antes)",» → «meses; programa la revisión al llegar el plazo",»
+L1298 [cifras: perdidas {} nuevas {'500': 1, '12.000': 1, '12': 1}] «"Intervalos según» → «"La CL500 se revisa cada 12.000 km o 12 meses conforme al» | «oficial» → «» | «costes» → «la marca»
+L1360 [«lo que ocurra antes» rotado] «"10.000» → «"Según el manual, 10.000» | «meses (lo que ocurra antes)",» → «meses; la revisión se realiza cuando vence el primer plazo",»
+L1436 [«lo que ocurra antes» rotado] «"10.000» → «"Límite de 10.000» | «meses (lo que ocurra antes)",» → «meses; toca la revisión cuando vence el plazo",»
+L1450 [cifras: perdidas {} nuevas {'700': 1, '10.000': 1, '12': 1}] «"Intervalos según» → «"El» | «» → «Yamaha de la Ténéré 700 Rally pone la revisión en 10.000 km o 12 meses; Yamaha no difunde el importe y su red» | «Yamaha; costes no publicados — consultar red oficial",» → «lo comunica",»
+L1512 [«lo que ocurra antes» rotado] «meses (lo que ocurra antes)",» → «meses; revisión en el taller al llegar el primer plazo",»
+L1588 [«lo que ocurra antes» rotado] «"12.000» → «"Con 12.000» | «meses (lo que ocurra antes)",» → «meses; la revisa su taller al llegar el plazo",»
+L1602 [cifras: perdidas {} nuevas {'500': 1, '12.000': 1, '12': 1}] «"Intervalos según manual» → «"Kawasaki programa la Ninja 500 SE para revisión a los 12.000 km o 12 meses; su red» | «Kawasaki; costes no publicados — consultar red oficial",» → «elabora el presupuesto, sin precio publicado",»
+L1664 [«lo que ocurra antes» rotado] «meses (lo que ocurra antes)",» → «meses; adelanta la revisión al vencer el plazo",»
+L1740 [«lo que ocurra antes» rotado] «meses (lo que ocurra antes)",» → «meses; al vencer el plazo, revisión en taller",»
+L1754 [cifras: perdidas {} nuevas {'1200': 1, '16.000': 1, '12': 1}] «"Intervalos según» → «"El» | «oficial Triumph; costes» → «Triumph de la Scrambler 1200 XE pone la revisión en 16.000 km o 12 meses; el importe» | «publicados — consultar» → «se publica y se consulta en su»
+L1816 [«lo que ocurra antes» rotado] «meses (lo que ocurra antes)",» → «meses; su taller la revisa cuando vence el primer plazo",»
+L1892 [«lo que ocurra antes» rotado] «"10.000» → «"La pauta es 10.000» | «meses (lo que ocurra antes)",» → «meses; llega la revisión al cumplirse el plazo",»
+L1906 [cifras: perdidas {} nuevas {'650': 1, '10.000': 1, '12': 1}] «"Intervalos según manual» → «"Según Royal Enfield, la Interceptor 650 pasa revisión cada 10.000 km o 12 meses; la marca no difunde el coste» | «Royal Enfield; costes no publicados — consultar red oficial",» → «lo presupuesta",»
+
+## src/lib/comparador-motos-lote16.ts (58 líneas)
+L298 [cifras: perdidas {'5': 1} nuevas {}; cifra deletreada/reformulada] «"5» → «"Cinco»
+L1642 [spinning en campo de dato queSeCambia] «"Aceite + filtro de» → «"Primera revisión: cambio del» | «+» → «y del filtro,» | «» → «revisión de»
+L1738 [cifras: perdidas {'47,6': 1} nuevas {'47': 1, '6': 1}; cifra deletreada/reformulada] «47,6» → «47 coma 6»
+L1778 [spinning en campo de dato intervalo] «"Revisiones» → «"Controles» | «1.000 / 7.000 / 13.000 / 19.000 / 25.000 /» → «1.000, 7.000, 13.000, 19.000, 25.000,» | «/» → «y»
+L1782 [spinning en campo de dato queSeCambia] «+» → «y» | «de aceite +» → «nuevos,» | «» → «repaso de»
+L2049 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Sustitución» | «+» → «y filtro, con»
+L2128 [spinning en campo de dato queSeCambia] «+ filtro de aceite +» → «nuevo con filtro,» | «» → «control de»
+L2203 [spinning en campo de dato intervalo] «"Revisiones» → «"Controles» | «/ 10.000 / 20.000 /» → «y 10.000, 20.000,» | «/» → «y»
+L2207 [spinning en campo de dato queSeCambia] «"Aceite +» → «"Cambio de aceite,» | «aceite +» → «aceite,» | «» → «revisión de»
+L2306 [cifra deletreada/reformulada] «"Horquilla» → «"Delante monta horquilla» | «doble disco» → «dos discos»
+L2481 [spinning en campo de dato intervalo] «"Revisiones» → «"Controles» | «1.000 /» → «1.000,» | «/» → «y»
+L2485 [spinning en campo de dato queSeCambia] «+» → «y» | «aceite + inspección» → «aceite, revisión»
+L2560 [«lo que ocurra antes» rotado] «meses (lo» → «meses, según lo» | «ocurra antes)",» → «suceda primero",»
+L2633 [«lo que ocurra antes» rotado] «ocurra» → «suceda»
+L2637 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Renovación» | «+» → «y filtro,» | «» → «control de»
+L2772 [«lo que ocurra antes» rotado] «meses (lo» → «meses, conforme a lo» | «ocurra antes)",» → «antes suceda",»
+L2786 [spinning en campo de dato fuente] «"Intervalos según» → «"Según» | «no publicados —» → «sin publicar:» | «» → «la»
+L2850 [«lo que ocurra antes» rotado] «meses (lo» → «meses, según lo» | «ocurra antes)",» → «suceda primero",»
+L2864 [spinning en campo de dato fuente] «"Intervalos según» → «"Según» | «no publicados —» → «sin publicar:» | «» → «la»
+L2944 [spinning en campo de dato fuente] «"Intervalos según» → «"Según» | «no publicados —» → «sin publicar:» | «» → «la»
+L3013 [spinning en campo de dato queSeCambia] «"Aceite + filtro de» → «"Sustitución del» | «+» → «y del filtro, con» | «aprietes",» → «aprietes revisados",»
+L3023 [spinning en campo de dato fuente] «"Intervalos según» → «"Según» | «no publicados —» → «sin publicar:» | «» → «la»
+L3403 [«lo que ocurra antes» rotado] «meses (lo» → «meses, lo antes» | «ocurra antes)",» → «ocurra",»
+L3407 [spinning en campo de dato queSeCambia] «+ filtro de aceite +» → «nuevo con su filtro, más»
+L3477 [«lo que ocurra antes» rotado] «"1.600 km (primera) y» → «"Primera a los 1.600 km; después,» | «meses (lo que ocurra antes)",» → «meses",»
+L3481 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Cambio» | «+» → «y de su filtro,» | «» → «ajuste de los»
+L3491 [spinning en campo de dato fuente] «"Intervalo estándar Harley-Davidson según» → «"Según» | «» → «Harley-Davidson: intervalo habitual de servicio»
+L3556 [«lo que ocurra antes» rotado] «"1.600» → «"Revisión inicial a los 1.600» | «(primera) y» → «y, a partir de ahí,» | «meses (lo que ocurra antes)",» → «meses",»
+L3560 [spinning en campo de dato queSeCambia] «"Aceite + filtro de» → «"Sustituir» | «+» → «y filtro,» | «» → «comprobar»
+L3570 [spinning en campo de dato fuente] «"Intervalo estándar Harley-Davidson según manual» → «"Manual» | «(1.000» → «Harley-Davidson: primera a las 1.000» | «primera /» → «y luego cada»
+L3635 [«lo que ocurra antes» rotado] «"1.600» → «"A los 1.600» | «(primera)» → «la primera» | «meses (lo» → «meses, según el primero»
+L3639 [spinning en campo de dato queSeCambia] «+ filtro de aceite +» → «nuevo y filtro,»
+L3649 [spinning en campo de dato fuente] «"Intervalo estándar Harley-Davidson» → «"Intervalos de la marca» | «» → «su»
+L3714 [«lo que ocurra antes» rotado] «"1.600 km (primera) y» → «"Primera revisión a los 1.600 km; intervalos posteriores» | «» → «cada» | «meses (lo» → «meses, lo antes»
+L3718 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Cambio» | «+» → «y de filtro,»
+L3728 [spinning en campo de dato fuente] «"Intervalo estándar Harley-Davidson» → «"Harley-Davidson: intervalo de servicio»
+L3793 [«lo que ocurra antes» rotado] «(primera)» → «para la primera» | «cada» → «» | «(lo» → «entre las siguientes, lo primero»
+L3797 [spinning en campo de dato queSeCambia] «+» → «y» | «+ inspección» → «renovados, con revisión»
+L3807 [spinning en campo de dato fuente] «"Intervalo estándar» → «"Programa de servicio» | «según» → «del»
+L4131 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «12 meses (lo» → «un año, lo primero» | «ocurra antes)",» → «suceda",»
+L4135 [spinning en campo de dato queSeCambia] «"Aceite + filtro de aceite + inspección» → «"Inspección» | «aprietes",» → «repaso de aprietes, además de reponer aceite y filtro",»
+L4212 [«lo que ocurra antes» rotado] «"800» → «"Primera a los 800» | «(primera) y» → «y, luego,» | «meses (lo que ocurra antes)",» → «meses",»
+L4216 [spinning en campo de dato queSeCambia] «"Aceite +» → «"Se pone aceite con un» | «de aceite +» → «nuevo,» | «» → «repaso de»
+L4226 [spinning en campo de dato fuente] «"Intervalo estándar Indian Motorcycle según» → «"Según» | «» → «Indian Motorcycle: intervalo habitual»
+L4293 [«lo que ocurra antes» rotado] «"800 km (primera) y» → «"Primera revisión a los 800 km; las siguientes,» | «» → «bien cada» | «meses (lo» → «meses, lo»
+L4297 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Cambio» | «aceite +» → «aceite, filtro,» | «» → «revisión de»
+L4307 [spinning en campo de dato fuente] «"Intervalo estándar Indian Motorcycle según manual» → «"Manual» | «(500» → «Indian Motorcycle: primera a las 500» | «primera /» → «y luego cada»
+L4394 [cifra deletreada/reformulada] «"Tricilíndrico» → «"Tres cilindros» | «con» → «y»
+L4434 [«lo que ocurra antes» rotado] «"16.000» → «"Cada 16.000» | «meses (lo que ocurra antes)",» → «meses, lo primero en cumplirse",»
+L4438 [spinning en campo de dato queSeCambia] «+ filtro de aceite +» → «y filtro,» | «» → «revisión de»
+L4575 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «12 meses (lo» → «un año, lo» | «ocurra antes)",» → «primero suceda",»
+L4579 [spinning en campo de dato queSeCambia] «"Aceite + filtro de» → «"Sustitución del» | «+» → «y el filtro,»
+L5285 [«lo que ocurra antes» rotado] «"12.000 km o» → «"Cada» | «(lo» → «o 12.000 km, lo» | «ocurra antes)",» → «antes se alcance",»
+L5289 [spinning en campo de dato queSeCambia] «+» → «y» | «+» → «nuevos en esta revisión, con»
+L5299 [spinning en campo de dato fuente] «"Intervalos según» → «"Según» | «no publicados —» → «sin publicar, hay que»
+L5364 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «12 meses (lo» → «un año, lo» | «ocurra antes)",» → «antes ocurra",»
+L5368 [spinning en campo de dato queSeCambia] «"Aceite + filtro de» → «"Cambiar» | «+» → «y filtro, con» | «» → «repaso de»
+L5378 [spinning en campo de dato fuente] «"Intervalos según manual» → «"Manual» | «Ducati; costes» → «Ducati: intervalos de servicio; precios» | «publicados —» → «publicados,»
+
+## src/lib/comparador-motos-lote7.ts (45 líneas)
+L70 [«lo que ocurra antes» rotado] «"6.000» → «"Cada 6.000» | «» → «cada» | «meses (lo que ocurra antes)",» → «meses: el taller la espera cuando llegue lo primero",»
+L74 [spinning en campo de dato queSeCambia] «» → «nuevo»
+L146 [«lo que ocurra antes» rotado] «"6.000» → «"Intervalo de 6.000» | «meses (lo» → «meses, según lo» | «ocurra antes)",» → «llegue antes",»
+L150 [spinning en campo de dato queSeCambia] «"Aceite» → «"Inspección general y aprietes + aceite» | «aceite + inspección general y aprietes",» → «aceite",»
+L155 [spinning en campo de dato queSeCambia] «reglaje» → «ajuste» | «(según km)",» → «según kilometraje",»
+L222 [«lo que ocurra antes» rotado] «"6.000 km» → «"Revisión cada 6.000 kilómetros» | «» → «cada» | «meses (lo» → «meses, lo primero»
+L226 [spinning en campo de dato queSeCambia] «"Aceite» → «"Filtro de aceite» | «filtro de» → «»
+L231 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"filtro» | «km)",» → «km) + Aceite de motor",»
+L298 [spinning en campo de dato intervalo] «o» → «/»
+L302 [spinning en campo de dato queSeCambia] «» → «aprietes e» | «general y aprietes",» → «general",»
+L307 [spinning en campo de dato queSeCambia] «"Aceite + filtro de aceite + filtro» → «"Filtro» | «km)",» → «km) + aceite + filtro de aceite",»
+L374 [«lo que ocurra antes» rotado] «"4.000 km o» → «"Kilómetros: 4.000 | Plazo:» | «(lo» → «| Criterio: lo primero» | «ocurra antes)",» → «venza",»
+L378 [spinning en campo de dato queSeCambia] «"Aceite +» → «"Inspección general, aprietes, aceite y» | «aceite + inspección general y aprietes",» → «aceite",»
+L383 [spinning en campo de dato queSeCambia] «"Aceite» → «"Filtro de aire» | «filtro de» → «bujía +» | «aire + bujía",» → «aceite",»
+L450 [spinning en campo de dato intervalo] «"6.000 km (primera revisión» → «"El primer paso por taller es» | «km)",» → «km; después, cada 6.000 km",»
+L459 [spinning en campo de dato queSeCambia] «"Aceite + filtro de aceite + filtro» → «"Filtro» | «km)",» → «km) + aceite + filtro de aceite",»
+L526 [«lo que ocurra antes» rotado] «"6.000» → «"Manda lo primero que llegue: 6.000» | «meses (lo que ocurra antes)",» → «meses",»
+L535 [spinning en campo de dato queSeCambia] «"Aceite + filtro de aceite» → «"Bujías (según km)» | «bujías (según km)",» → «aceite + filtro de aceite",»
+L602 [«lo que ocurra antes» rotado] «"6.000 km o» → «"Kilómetros: 6.000 | Plazo:» | «(lo» → «| Criterio: lo primero» | «ocurra antes)",» → «se cumpla",»
+L606 [spinning en campo de dato queSeCambia] «"Aceite» → «"Inspección general y aprietes + aceite» | «aceite + inspección general y aprietes",» → «aceite",»
+L611 [spinning en campo de dato queSeCambia] «» → «bujías (según km) +» | «aire + bujías (según km)",» → «aire",»
+L678 [cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"5.000» → «"Cada 5.000» | «meses (lo que ocurra antes)",» → «meses; el primero de los dos topes decide",»
+L682 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Cambio» | «» → «y filtro»
+L687 [spinning en campo de dato queSeCambia] «+ filtro de aceite +» → «y su filtro, más» | «+» → «y»
+L754 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"6.000 km» → «"Mantenimiento cada 6.000 kilómetros» | «12 meses (lo» → «cada año, lo primero» | «ocurra antes)",» → «ocurra",»
+L763 [spinning en campo de dato queSeCambia] «» → «con su filtro» | «filtro de aceite» → «bujías» | «+ bujías» → «»
+L830 [spinning en campo de dato intervalo] «"6.000 km» → «"12 meses» | «12 meses (lo» → «6.000 km, lo» | «antes)",» → «antes",»
+L839 [spinning en campo de dato queSeCambia] «"Aceite» → «"Bujías (según km) + aceite» | «aire + bujías (según km)",» → «aire",»
+L906 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"6.000» → «"Revisiones cada 6.000» | «12 meses (lo» → «cada año, lo primero» | «ocurra antes)",» → «ocurra",»
+L915 [spinning en campo de dato queSeCambia] «"Aceite» → «"Filtro de aire + aceite» | «filtro de aire +» → «»
+L982 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"4.000 km» → «"Un año» | «12 meses (lo» → «4.000 km, lo» | «ocurra antes)",» → «llegue antes",»
+L1058 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"6.000 km» → «"Cada 6.000 kilómetros» | «12 meses (lo» → «un año; rige lo primero» | «ocurra antes)",» → «venza",»
+L1067 [spinning en campo de dato queSeCambia] «filtro de aceite» → «bujías (según km)» | «bujías (según km)",» → «filtro de aceite",»
+L1134 [«lo que ocurra antes» rotado] «"6.000 km» → «"12 meses» | «12 meses (lo» → «6.000 kilómetros, lo» | «ocurra antes)",» → «venza antes",»
+L1143 [spinning en campo de dato queSeCambia] «"Aceite» → «"Filtro de aceite» | «filtro de» → «bujías (según km) +» | «aire + bujías (según km)",» → «aire",»
+L1213 [«lo que ocurra antes» rotado] «meses (lo» → «meses, según el límite» | «ocurra antes)",» → «se alcance antes",»
+L1222 [spinning en campo de dato queSeCambia] «"Aceite» → «"Bujías (según km)» | «» → «aceite +» | «aire + bujías (según km)",» → «aire",»
+L1289 [«lo que ocurra antes» rotado] «"5.000» → «"Intervalo de 5.000» | «meses (lo» → «meses, con el primer vencimiento» | «ocurra antes)",» → «llegue",»
+L1298 [spinning en campo de dato queSeCambia] «+ filtro de aceite» → «» | «km)",» → «km) + filtro de aceite",»
+L1366 [«lo que ocurra antes» rotado] «"4.000» → «"Intervalo de 4.000» | «meses (lo que ocurra antes)",» → «meses, hasta el primer vencimiento",»
+L1443 [spinning en campo de dato intervalo] «"4.000 km» → «"12 meses» | «12 meses (lo» → «4.000 km, lo» | «antes)",» → «antes",»
+L1521 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"6.000» → «"Se revisa cada 6.000» | «12 meses (lo» → «cada año, según lo» | «ocurra antes)",» → «llegue antes",»
+L1530 [spinning en campo de dato queSeCambia] «"Aceite» → «"Filtro de aire» | «filtro de aire» → «aceite»
+L1597 [spinning en campo de dato intervalo] «"5.000 km» → «"12 meses» | «12 meses (lo» → «5.000 km, lo» | «antes)",» → «antes",»
+L1606 [spinning en campo de dato queSeCambia] «"Aceite» → «"Bujías (según km)» | «bujías (según km)",» → «aceite",»
+
+## src/lib/comparador-motos-nuevos-m3.ts (42 líneas)
+L88 [«lo que ocurra antes» rotado] «"6.000 km» → «"Toca taller cada 6.000 kilómetros» | «meses (lo» → «meses, según lo» | «ocurra antes); primera» → «antes ocurra, empezando por la»
+L160 [cifras: perdidas {'1.000': 1} nuevas {}] «"Cada» → «"El estreno en el taller coincide con el primer millar de kilómetros; luego, cada» | «meses (primera revisión a los 1.000 km)",» → «meses, manda lo que se cumpla primero",»
+L173 [«lo que ocurra antes» rotado] «"6.000 km» → «"Cada 6.000 kilómetros» | «meses (lo» → «meses; rige lo primero» | «ocurra antes);» → «venza, tras la»
+L245 [spinning en campo de dato intervaloMantenimiento] «"Cada 6.000 km o» → «"La pauta marca revisiones cada» | «(primera revisión» → «o cada 6.000 km; la primera visita es» | «km)",» → «km y el límite es lo primero que se cumpla",»
+L254 [«lo que ocurra antes» rotado] «"6.000 km o» → «"Pasa por taller al cumplir» | «(lo» → «o 6.000 km, lo» | «ocurra antes);» → «antes suceda; abre con una»
+L326 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Se revisa cada» | «km» → «kilómetros» | «12 meses (primera revisión» → «un año, lo que antes venza, tras un primer control»
+L339 [«lo que ocurra antes» rotado] «» → «antes» | «ocurra antes); primera» → «venza);» | «» → «inicial»
+L411 [cifras: perdidas {'12': 1} nuevas {'1': 1}] «"Cada 6.000 km o 12 meses (primera» → «"Primera» | «km)",» → «km; después, cada 6.000 km o 1 año, lo primero que venza",»
+L420 [cifras: perdidas {'12': 1} nuevas {'1': 1}; «lo que ocurra antes» rotado] «"6.000» → «"El plan marca 6.000» | «12 meses (lo» → «1 año, lo» | «ocurra antes); primera» → «antes se presente, y abre con una»
+L492 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"La primera revisión llega cuando cumple los 1.000 km; desde ahí, cada» | «meses (primera revisión a los 1.000 km)",» → «meses, según el primer plazo que se cumpla",»
+L501 [«lo que ocurra antes» rotado] «"6.000» → «"Su calendario es 6.000» | «meses (lo» → «meses; el tope lo pone lo primero» | «ocurra antes); primera» → «se alcance. Abre con una»
+L572 [spinning en campo de dato intervaloMantenimiento] «(primera revisión a» → «(revisión inicial cuando se cumplen»
+L581 [«lo que ocurra antes» rotado] «"10.000» → «"Tras el primer taller a los 1.000 km, la pauta pasa a 10.000» | «meses (lo» → «meses, con el límite en lo primero» | «ocurra antes); primera revisión a los 1.000 km",» → «se presente",»
+L652 [spinning en campo de dato intervaloMantenimiento] «km» → «kilómetros» | «(primera revisión a» → «(revisión inicial tras» | «» → «primeros»
+L661 [cifras: perdidas {'12': 1} nuevas {'1': 1}; «lo que ocurra antes» rotado] «"10.000 km o 12 meses (lo que ocurra antes); primera» → «"Primera» | «a» → «en» | «km",» → «km iniciales; después, cada 10.000 kilómetros o 1 año, lo primero que venza",»
+L732 [cifras: perdidas {'1.000': 1} nuevas {}] «meses (primera revisión a los 1.000 km)",» → «meses; el estreno en taller llega con el primer millar de kilómetros",»
+L741 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «12 meses» → «un año» | «primera» → «» | «» → «inicial»
+L812 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «12 meses (primera» → «un año (inicial» | «» → «y»
+L821 [cifras: perdidas {'1.000': 1} nuevas {}; «lo que ocurra antes» rotado] «km» → «kilómetros» | «» → «antes» | «ocurra antes); primera» → «se cumpla);»
+L902 [cifras: perdidas {'1.000': 1} nuevas {}; «lo que ocurra antes» rotado] «meses (lo» → «meses, lo primero» | «ocurra antes); primera» → «llegue; la» | «a los 1.000 km",» → «inicial cae en el primer millar de kilómetros",»
+L1134 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada 6.000 km o 12 meses (primera» → «"Después de la» | «km)",» → «km, el intervalo queda en 6.000 kilómetros o al año, lo que antes suceda",»
+L1143 [cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"6.000» → «"La revisión llega al cumplir 6.000» | «meses (lo que ocurra antes);» → «meses, cuando antes se alcance uno de los dos topes, con la» | «» → «ya hecha»
+L1215 [spinning en campo de dato intervaloMantenimiento] «revisión» → «puesta a punto»
+L1230 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"4.000» → «"Se programa cada 4.000» | «12 meses (lo» → «un año, lo» | «ocurra antes); primera revisión» → «antes suceda, con el primer control»
+L1301 [cifras: perdidas {'12': 1, '1.000': 1} nuevas {}; cifra deletreada/reformulada] «12 meses (primera revisión a los 1.000 km)",» → «un año (revisión inicial al primer millar de kilómetros)",»
+L1315 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"4.000» → «"El calendario marca cada 4.000» | «12 meses (lo» → «al año, lo» | «ocurra antes);» → «antes venza, y la»
+L1386 [cifras: perdidas {'12': 1, '1.000': 1} nuevas {'300': 1}] «"Cada» → «"Superado el primer millar de kilómetros con su revisión, la CB300R pide taller cada» | «o 12 meses (primera revisión a los 1.000 km)",» → «sin rebasar el año natural",»
+L1400 [cifras: perdidas {'12': 1} nuevas {}; «lo que ocurra antes» rotado] «"6.000 km o 12 meses (lo que ocurra antes); primera revisión» → «"Rodaje cerrado» | «km",» → «kilómetros: a partir de entonces, revisión cada 6.000 km o al cumplirse el año, atendiendo al hito que llegue »
+L1471 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Con la primera revisión cuando cumple los 1.000 km, el resto llega cada» | «12 meses (primera revisión a los 1.000 km)",» → «anualmente, lo que antes venza",»
+L1485 [cifras: perdidas {'12': 1, '1.000': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «km» → «kilómetros» | «12 meses» → «un año» | «que ocurra antes); primera» → «primero en cumplirse);»
+L1556 [cifras: perdidas {'12': 1, '1.000': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Primera revisión al primer millar de kilómetros; después, cada» | «km» → «kilómetros» | «12 meses (primera revisión a los 1.000 km)",» → «anualmente, lo primero que venza",»
+L1570 [cifras: perdidas {'12': 1, '1.000': 1} nuevas {}; cifra deletreada/reformulada] «12 meses» → «al año» | «primera» → «» | «a los 1.000 km",» → «inicial al primer millar de kilómetros",»
+L1642 [cifras: perdidas {'12': 1} nuevas {'125': 1}; cifra deletreada/reformulada] «"Cada» → «"YS125: taller cada» | «km o 12 meses (primera revisión» → «kilómetros y como máximo una vez al año, tras la puesta» | «» → «punto inaugural de»
+L1656 [cifras: perdidas {} nuevas {'125': 1}; «lo que ocurra antes» rotado] «"6.000 km o 12 meses (lo que ocurra antes);» → «"Después de la» | «km",» → «km, el YS125 vuelve al taller cada 6.000 km, sin pasar nunca de 12 meses, lo que antes se cumpla de ambos",»
+L1727 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"Cada 10.000 km o 12 meses (primera revisión» → «"Revisión inicial» | «km)",» → «kilómetros y, a partir de ahí, cada 10.000 kilómetros o cada año, lo que antes llegue",»
+L1741 [«lo que ocurra antes» rotado] «que ocurra antes);» → «antes en vencer);»
+L1812 [cifras: perdidas {'12': 1} nuevas {'125': 1}; cifra deletreada/reformulada] «"Cada» → «"GSX-S125: la primera visita al taller llega con 1.000 km en el marcador; luego, cada» | «o 12» → «con tope de doce» | «(primera revisión a los 1.000 km)",» → «entre visitas",»
+L1826 [cifras: perdidas {} nuevas {'125': 1}; «lo que ocurra antes» rotado] «"6.000» → «"El GSX-S125 regresa al taller cada 6.000» | «meses (lo» → «meses, lo» | «ocurra antes);» → «llegue primero; la»
+L1897 [spinning en campo de dato intervaloMantenimiento] «"Cada» → «"Primera revisión: 1.000 km | Kilómetros:» | «km o» → «| Plazo:» | «(primera revisión a los 1.000 km)",» → «| Lo primero que ocurra",»
+L1911 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «km» → «kilómetros» | «12 meses» → «un año» | «» → «primero»
+L1982 [cifras: perdidas {'12': 1, '1.000': 1} nuevas {}; cifra deletreada/reformulada] «"Cada» → «"Revisión inicial al primer millar de kilómetros y, a partir de ahí, cada» | «12 meses (primera revisión a los 1.000 km)",» → «anualmente, lo que antes llegue",»
+L1996 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «12 meses» → «un año» | «que ocurra antes);» → «primero en llegar);»
+
+## src/lib/comparador-motos-nuevos-m4.ts (70 líneas)
+L75 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"12.000» → «"cada 12.000» | «12 meses (lo» → «cada año, lo» | «ocurra antes)",» → «se cumpla primero",»
+L89 [spinning en campo de dato fuente] «(intervalos» → «(pautas»
+L239 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"10.000» → «"cada 10.000» | «12 meses (lo» → «al año, lo» | «ocurra antes)",» → «suceda primero",»
+L248 [spinning en campo de dato queSeCambia] «"Aceite +» → «"Aceite,» | «+» → «y» | «+» → «y»
+L321 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"16.000» → «"cada 16.000» | «12 meses (lo» → «cada año, lo» | «ocurra antes)",» → «suceda primero",»
+L330 [spinning en campo de dato queSeCambia] «reglaje» → «ajuste»
+L403 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"6.000» → «"cada 6.000» | «12 meses (lo que ocurra antes)",» → «transcurrido un año, atendiendo al primero de ambos hitos",»
+L407 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Cambio» | «» → «y filtro»
+L488 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"6.000» → «"cada 6.000» | «12 meses (lo» → «al año, lo primero» | «ocurra antes)",» → «se cumpla",»
+L492 [spinning en campo de dato queSeCambia] «+» → «nuevo y» | «inspección» → «revisión»
+L573 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"12.000» → «"cada 12.000» | «12 meses (lo que ocurra antes)",» → «al completarse un año, según el primero de los dos hitos",»
+L577 [spinning en campo de dato queSeCambia] «+» → «y»
+L582 [spinning en campo de dato queSeCambia] «"Aceite + filtros +» → «"Cambio de aceite, filtros,» | «+» → «y»
+L658 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"5.000» → «"cada 5.000» | «12 meses (lo» → «cada año, lo» | «antes)",» → «antes",»
+L662 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Sustitución» | «» → «y filtro»
+L667 [spinning en campo de dato queSeCambia] «"Aceite +» → «"Aceite,» | «+» → «y»
+L743 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"5.000» → «"cada 5.000» | «12 meses (lo» → «al año, lo antes» | «ocurra antes)",» → «suceda",»
+L747 [spinning en campo de dato queSeCambia] «+» → «y» | «» → «renovados»
+L752 [spinning en campo de dato queSeCambia] «"Aceite +» → «"Aceite,» | «+» → «y»
+L829 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «12 meses (lo» → «un año entre revisiones, lo primero» | «ocurra antes)",» → «se cumpla",»
+L833 [spinning en campo de dato queSeCambia] «"Aceite 10W-30 + filtro» → «"Cambio» | «» → «10W-30 y filtro»
+L838 [spinning en campo de dato queSeCambia] «+» → «y» | «+» → «renovados,» | «+» → «sustituidas y reglaje de válvulas con»
+L843 [spinning en campo de dato fuente] «(intervalos de» → «(pautas para» | «500)",» → «CB500)",»
+L914 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «12 meses (lo» → «un año entre servicios, lo» | «ocurra antes)",» → «se cumpla antes",»
+L918 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Cambio» | «» → «con filtro nuevo» | «inspección» → «revisión»
+L923 [spinning en campo de dato queSeCambia] «"Aceite +» → «"Cambio de aceite,» | «+» → «y»
+L928 [spinning en campo de dato fuente] «(intervalos» → «(pautas»
+L999 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"7.500» → «"cada 7.500» | «12 meses (lo» → «cada año, lo antes» | «ocurra antes)",» → «suceda",»
+L1003 [spinning en campo de dato queSeCambia] «+» → «nuevos e»
+L1008 [spinning en campo de dato queSeCambia] «"Aceite +» → «"Cambio de aceite,» | «+» → «y»
+L1013 [spinning en campo de dato fuente] «(intervalos» → «(pautas»
+L1084 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"7.500» → «"cada 7.500» | «12 meses (lo» → «al año, lo» | «ocurra antes)",» → «llegue primero",»
+L1088 [spinning en campo de dato queSeCambia] «+» → «y» | «de aceite + inspección» → «sustituidos, más revisión» | «» → «de la»
+L1093 [spinning en campo de dato queSeCambia] «"Aceite + filtros +» → «"Aceite, filtros,» | «+» → «y»
+L1098 [spinning en campo de dato fuente] «(intervalos de» → «(pautas para»
+L1169 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"10.000» → «"cada 10.000» | «12 meses (lo» → «al cabo de un año, según el hito» | «ocurra antes)",» → «se alcance antes",»
+L1173 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Renovación» | «» → «y filtro»
+L1178 [spinning en campo de dato queSeCambia] «+» → «y» | «» → «nuevos» | «+» → «y»
+L1256 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «12 meses (lo» → «un año entre servicios, según lo» | «ocurra antes)",» → «se cumpla",»
+L1260 [spinning en campo de dato queSeCambia] «+» → «y» | «de aceite» → «sustituidos»
+L1265 [spinning en campo de dato queSeCambia] «+» → «y» | «» → «nuevos» | «+» → «y»
+L1341 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «12 meses (lo» → «cada año entre servicios, lo primero» | «ocurra antes)",» → «se cumpla",»
+L1345 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Cambio» | «» → «y de filtro» | «inspección» → «revisión»
+L1350 [spinning en campo de dato queSeCambia] «» → «nueva»
+L1426 [«lo que ocurra antes» rotado] «"6.000» → «"cada 6.000» | «» → «a los» | «meses (lo» → «meses, tomando el vencimiento»
+L1430 [spinning en campo de dato queSeCambia] «» → «nuevo» | «+» → «nuevo e»
+L1435 [spinning en campo de dato queSeCambia] «"Aceite +» → «"Sustitución de aceite,» | «+ bujía +» → «y bujía, además del»
+L1440 [spinning en campo de dato fuente] «(intervalos» → «(pautas»
+L1512 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"16.000» → «"cada 16.000» | «12 meses (lo» → «al año, lo» | «antes)",» → «primero",»
+L1516 [spinning en campo de dato queSeCambia] «"Aceite» → «"Sustitución del aceite y del filtro» | «filtro de aceite + inspección» → «revisión»
+L1521 [spinning en campo de dato queSeCambia] «» → «nuevas»
+L1526 [spinning en campo de dato fuente] «(intervalos» → «(pautas»
+L1597 [spinning en campo de dato intervalo] «revisión» → «inspección»
+L1606 [spinning en campo de dato queSeCambia] «inspección general",» → «revisión general completa",»
+L1682 [spinning en campo de dato intervalo] «km o» → «km, y también cada»
+L1686 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Cambio» | «» → «y filtro»
+L1691 [spinning en campo de dato queSeCambia] «"Aceite + filtro» → «"Cambio» | «» → «y filtro» | «inspección general",» → «revisión general completa",»
+L1696 [spinning en campo de dato fuente] «(intervalos» → «(pautas»
+L1767 [«lo que ocurra antes» rotado] «"12.000» → «"servicio cada 12.000» | «» → «cada» | «meses (lo» → «meses, lo primero»
+L1771 [spinning en campo de dato queSeCambia] «+» → «nuevo e»
+L1776 [spinning en campo de dato queSeCambia] «"Aceite +» → «"Aceite,» | «+» → «y» | «+» → «sustituidos, con»
+L1781 [spinning en campo de dato fuente] «(intervalos» → «(pautas de mantenimiento»
+L1856 [spinning en campo de dato queSeCambia] «+» → «y» | «de aceite» → «nuevos» | «general",» → «general completa",»
+L1937 [«lo que ocurra antes» rotado] «"6.000» → «"cada 6.000» | «» → «cada» | «meses (lo» → «meses, lo»
+L1941 [spinning en campo de dato queSeCambia] «"Aceite» → «"Renovación del aceite y del filtro» | «filtro de aceite + inspección» → «revisión»
+L1946 [spinning en campo de dato queSeCambia] «» → «nuevas»
+L2023 [«lo que ocurra antes» rotado] «» → «cada» | «meses (lo» → «meses, atendiendo al vencimiento» | «ocurra antes)",» → «se produzca en primer término",»
+L2027 [spinning en campo de dato queSeCambia] «general",» → «general de la moto",»
+L2032 [spinning en campo de dato queSeCambia] «"Aceite +» → «"Sustitución de aceite,» | «+ bujías +» → «y bujías, además del»
+L2114 [spinning en campo de dato queSeCambia] «"Aceite + filtros +» → «"Aceite, filtros,» | «+» → «y» | «aire",» → «aire renovados",»
+
+## src/lib/comparador-motos-nuevos-m7.ts (111 líneas)
+L91 [spinning en campo de dato fuente] «"Peugeot Motocycles Espana: sin plan de mantenimiento publicado para» → «"Para» | «125",» → «125, Peugeot Motocycles España no publica plan de mantenimiento",»
+L92 [cifra deletreada/reformulada] «anual",» → «cada año",»
+L97 [spinning en campo de dato queSeCambia] «"Aceite» → «"Filtro de aire, aceite» | «filtro de aire, bujia,» → «bujía,» | «» → «de»
+L102 [spinning en campo de dato queSeCambia] «y neumaticos segun» → «de freno, con neumaticos, según el»
+L176 [spinning en campo de dato fuente] «Espana: sin» → «España: la marca no publica» | «publicado» → «»
+L177 [spinning en campo de dato intervalo] «"Sin programa publicado por Peugeot» → «"Peugeot» | «» → «no ha publicado un plan» | «recomienda» → «aconseja una»
+L182 [spinning en campo de dato queSeCambia] «de» → «del» | «de» → «del» | «bujia, liquido» → «bujía, líquido»
+L262 [spinning en campo de dato intervalo] «"Sin programa publicado por Hero» → «"Hero» | «» → «no ha publicado programa; conviene pasar una inspection anual» | «11/10/2026); se recomienda inspection anual",» → «el 11/10/2026)",»
+L267 [spinning en campo de dato queSeCambia] «de» → «del»
+L272 [spinning en campo de dato queSeCambia] «» → «de freno» | «neumaticos» → «gomas» | «120/70-14 segun» → «120/70-14, según el»
+L346 [spinning en campo de dato fuente] «Espana: sin» → «España: no consta»
+L347 [spinning en campo de dato intervalo] «"Sin programa publicado por Morbidelli» → «"Morbidelli» | «» → «no publica programa propio» | «recomienda» → «aconseja»
+L352 [spinning en campo de dato queSeCambia] «"Aceite» → «"Filtro de aire, bujía, aceite» | «filtro de aire, bujia, liquido» → «líquido» | «» → «correa del variador y los»
+L433 [spinning en campo de dato fuente] «"QJMotor Espana: revisiones programadas obligatorias en la red oficial para» → «"Fuente QJMotor España:» | «garantia",» → «garantía exige hacer las revisiones en talleres oficiales de la marca",»
+L434 [spinning en campo de dato intervalo] «QJMotor (obligatorias para» → «QJMotor: obligatorias durante» | «anos» → «años» | «garantia,» → «garantía,»
+L439 [spinning en campo de dato queSeCambia] «"Aceite de» → «"Según el plan oficial: aceite del» | «bujia, liquido» → «bujía, líquido» | «» → «correa del variador, junto con los»
+L517 [spinning en campo de dato fuente] «Espana:» → «España indica que la garantía se conserva solo si las» | «programadas obligatorias» → «se hacen» | «la» → «su»
+L518 [spinning en campo de dato intervalo] «"Revisiones programadas» → «"Hay que pasar las revisiones» | «concesionarios oficiales» → «la red oficial» | «(obligatorias» → «»
+L523 [spinning en campo de dato queSeCambia] «bujia, liquido» → «bujía y líquido» | «» → «correa del variador, además de los» | «mm y correa del variador",» → «mm",»
+L601 [spinning en campo de dato fuente] «"QJMotor Espana:» → «"Según QJMotor España, las» | «obligatorias» → «han de realizarse» | «mantener» → «no perder»
+L602 [spinning en campo de dato intervalo] «"Revisiones» → «"La garantía de 6 años, hasta 50.000 km, queda condicionada a realizar las revisiones» | «QJMotor (obligatorias para los 6 anos de garantia, con limite de 50.000 km)",» → «QJMotor",»
+L607 [spinning en campo de dato queSeCambia] «"Aceite» → «"Líquido refrigerante, aceite» | «bujia, liquido refrigerante,» → «bujía,»
+L612 [spinning en campo de dato queSeCambia] «neumaticos» → «neumáticos» | «130/70-13 segun» → «130/70-13, para cambiar según el»
+L686 [spinning en campo de dato fuente] «Espana: sin» → «España: no hay»
+L687 [spinning en campo de dato intervalo] «inspection» → «una revisión»
+L692 [spinning en campo de dato queSeCambia] «"Aceite» → «"Correa del variador, aceite» | «de» → «del» | «bujia, liquido refrigerante,» → «bujía,»
+L775 [spinning en campo de dato fuente] «Espana: sin» → «España: no existe»
+L776 [spinning en campo de dato intervalo] «inspection» → «pasar una revisión»
+L781 [spinning en campo de dato queSeCambia] «de» → «del» | «» → «bujía,» | «bujia,» → «correa del variador y»
+L860 [spinning en campo de dato fuente] «Espana:» → «España:» | «» → «por la marca»
+L861 [spinning en campo de dato intervalo] «"Sin» → «"Keeway España no publica» | «publicado por Keeway Espana» → «» | «se recomienda inspection» → «conviene pasar una revisión»
+L866 [spinning en campo de dato queSeCambia] «"Aceite de motor,» → «"Bujía,» | «bujia,» → «correa del variador,» | «correa del variador",» → «aceite de motor",»
+L871 [spinning en campo de dato queSeCambia] «neumaticos segun» → «neumaticos, a cambiar según»
+L949 [spinning en campo de dato fuente] «Espana: sin» → «España: la marca no ha publicado» | «publicado» → «»
+L950 [spinning en campo de dato intervalo] «"Sin programa publicado por FB» → «"FB» | «(consultado 11/10/2026); se recomienda» → «no ha publicado programa; conviene una» | «anual",» → «anual, según consulta del 11/10/2026",»
+L955 [spinning en campo de dato queSeCambia] «"Aceite» → «"Filtro de aire, bujía y aceite» | «filtro de aire, bujia,» → «correa del variador y» | «» → «de»
+L1034 [spinning en campo de dato fuente] «Espana: sin» → «España: la marca no ofrece»
+L1035 [spinning en campo de dato intervalo] «"Sin» → «"Malaguti Espana no publica» | «publicado por Malaguti Espana» → «alguno» | «recomienda» → «sugiere la»
+L1040 [spinning en campo de dato queSeCambia] «» → «bujía,» | «bujia,» → «» | «transmision",» → «transmisión",»
+L1119 [spinning en campo de dato fuente] «Espana: sin» → «España: no se ha publicado» | «publicado» → «»
+L1120 [spinning en campo de dato intervalo] «"Sin» → «"SYM Espana no ha publicado» | «publicado por SYM Espana (consultado 11/10/2026); se recomienda» → «oficial alguno; conviene» | «anual",» → «anual; consulta realizada el 11/10/2026",»
+L1125 [spinning en campo de dato queSeCambia] «"Aceite» → «"Bujía, aceite» | «» → «líquido refrigerante,» | «bujia, liquido refrigerante,» → «correa del variador, con»
+L1207 [spinning en campo de dato fuente] «Espana: sin» → «España: la marca no tiene»
+L1208 [spinning en campo de dato intervalo] «"Sin» → «"Keeway España no tiene» | «por Keeway Espana» → «» | «recomienda inspection» → «aconseja revisión»
+L1213 [spinning en campo de dato queSeCambia] «motor,» → «motor y» | «bujia, liquido refrigerante, frenos de disco» → «bujía, líquido refrigerante» | «variador",» → «variador, con frenos de disco",»
+L1218 [spinning en campo de dato queSeCambia] «"Pastillas» → «"El mantenimiento incluye pastillas» | «neumaticos mixtos» → «cubiertas de uso mixto en medidas» | «130/70-13 segun desgaste",» → «130/70-13, sustituibles cuando el desgaste lo requiera",»
+L1295 [spinning en campo de dato fuente] «Espana: sin» → «España: no se conoce»
+L1296 [cifras: perdidas {'10': 1} nuevas {}] «"Sin programa» → «"Linhai Espana no ha» | «por Linhai Espana (consultado 11/10/2026); se recomienda» → «programa; conviene pasar» | «anual",» → «anual, según lo consultado el 11 de octubre de 2026",»
+L1301 [spinning en campo de dato queSeCambia] «"Aceite» → «"Bujía, correa del variador, frenos» | «motor,» → «disco, líquido refrigerante, aceite de motor y» | «aire, bujia, liquido refrigerante, frenos de disco y correa del variador",» → «aire",»
+L1306 [spinning en campo de dato queSeCambia] «neumaticos» → «gomas» | «130/70-13 segun desgaste",» → «130/70-13, a reponer según el desgaste observado",»
+L1381 [spinning en campo de dato intervalo] «"Sin» → «"Letbe no ha publicado» | «publicado por Letbe» → «» | «» → «pasar»
+L1386 [spinning en campo de dato queSeCambia] «"Aceite de motor, filtro de aire, bujia, liquido refrigerante, frenos» → «"Frenos» | «mm y» → «mm, líquido refrigerante, bujía,» | «variador",» → «variador, aceite de motor, con filtro del aire",»
+L1473 [spinning en campo de dato queSeCambia] «"Aceite de motor, filtro de aire, bujia, liquido refrigerante,» → «"Correa del variador,» | «mm» → «mm, aceite de motor, filtro de aire» | «correa del variador",» → «bujía, con líquido refrigerante",»
+L1478 [spinning en campo de dato queSeCambia] «"Pastillas» → «"Juego de pastillas» | «neumaticos» → «neumáticos» | «120/70-14 segun desgaste",» → «120/70-14, a cambiar cuando el desgaste lo exija",»
+L1555 [spinning en campo de dato intervalo] «"Sin programa publicado por MITT» → «"MITT no publica programa; se aconseja pasar inspection anual» | «11/10/2026); se recomienda inspection anual",» → «11/10/2026) para esta ficha",»
+L1560 [spinning en campo de dato queSeCambia] «"Aceite de motor,» → «"Líquido refrigerante,» | «bujia, liquido refrigerante,» → «aceite de motor y bujía, correa del variador y» | «disco y correa del variador",» → «disco",»
+L1565 [spinning en campo de dato queSeCambia] «» → «de freno»
+L2992 [cifra deletreada/reformulada] «"Sin programa» → «"Benelli España no difundía un calendario» | «publicado por Benelli España (consultado 11/10/2026); se recomienda inspección anual» → «de mantenimiento al consultarlo el 11/10/2026; conviene pasar una revisión cada año» | «servicio oficial",» → «un taller oficial de la marca",»
+L3071 [spinning en campo de dato intervalo] «"Sin» → «"A 11/10/2026 no constaba» | «publicado por» → «de revisiones de» | «España (consultado 11/10/2026); se recomienda» → «España, así que lo prudente es una»
+L3153 [spinning en campo de dato intervalo] «"Sin programa» → «"KTM España, consultada el 11/10/2026, no tenía publicado ningún plan» | «publicado por KTM España (consultado 11/10/2026);» → «de mantenimiento;» | «recomienda inspección» → «sugiere una visita»
+L3234 [cifra deletreada/reformulada] «"Sin programa» → «"No hay plan de mantenimiento» | «(consultado 11/10/2026); se recomienda inspección anual» → «—comprobado el 11/10/2026—, por lo que resulta aconsejable revisar la moto una vez al año»
+L3315 [cifra deletreada/reformulada] «"Sin» → «"El 11/10/2026 Honda España no ofrecía un» | «publicado por Honda España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",» → «de revisiones publicado; conviene acudir anualmente a un concesionario oficial para una inspección",»
+L3394 [spinning en campo de dato intervalo] «"Sin programa» → «"Zontes España no publicaba calendario» | «publicado por Zontes España (consultado 11/10/2026); se recomienda inspección» → «de mantenimiento en la consulta del 11/10/2026; lo recomendable es un control» | «servicio» → «taller»
+L3475 [spinning en campo de dato intervalo] «"Sin» → «"Consultada el 11/10/2026, Zontes España carecía de» | «publicado por Zontes España (consultado 11/10/2026);» → «de revisiones difundido;» | «inspección» → «una revisión»
+L3556 [cifra deletreada/reformulada] «"Sin programa oficial publicado por» → «"Para» | «(consultado 11/10/2026); se recomienda inspección anual en» → «no existía un plan oficial de mantenimiento publicado a 11/10/2026; lo sensato es pasar por el» | «oficial",» → «oficial una vez cada año",»
+L3635 [cifra deletreada/reformulada] «"Sin» → «"CFMOTO España, a fecha 11/10/2026, no había publicado su» | «publicado por CFMOTO España (consultado 11/10/2026); se recomienda» → «de mantenimiento; conviene una» | «anual» → «cada doce meses»
+L3716 [spinning en campo de dato intervalo] «"Sin» → «"Voge España no contaba con» | «por Voge España (consultado 11/10/2026);» → «cuando» | «recomienda» → «consultó el 11/10/2026; en esta revisión se sugiere la»
+L3795 [spinning en campo de dato intervalo] «"Sin» → «"QJMotor España no tenía» | «» → «de mantenimiento» | «por QJMotor España (consultado 11/10/2026); se recomienda inspección» → «el 11/10/2026; lo aconsejable es una revisión»
+L3876 [cifra deletreada/reformulada] «"Sin programa oficial publicado por» → «"A 11/10/2026» | «(consultado 11/10/2026); se recomienda inspección anual en servicio oficial",» → «no difundía ningún calendario oficial de revisiones; conviene llevar la moto al taller oficial una vez al año"»
+L3955 [spinning en campo de dato intervalo] «"Sin» → «"No constaba» | «publicado por» → «de» | «(consultado 11/10/2026);» → «en la consulta del 11/10/2026;»
+L4034 [spinning en campo de dato intervalo] «"Sin» → «"Voge España no había difundido» | «publicado por Voge España (consultado 11/10/2026); se recomienda inspección» → «alguno al revisarse el 11/10/2026; lo prudente es una visita» | «en servicio» → «a un taller»
+L4115 [cifra deletreada/reformulada] «"Sin programa» → «"Husqvarna España no publicaba un plan» | «publicado por Husqvarna España (consultado 11/10/2026);» → «de mantenimiento el 11/10/2026;» | «inspección anual en» → «acudir cada año al»
+L4194 [spinning en campo de dato intervalo] «"Sin programa» → «"Brixton España, consultada el 11/10/2026, no ofrecía calendario» | «publicado por Brixton España (consultado 11/10/2026); se recomienda inspección» → «de mantenimiento publicado; conviene una revisión» | «servicio oficial",» → «taller oficial de la marca",»
+L4273 [spinning en campo de dato intervalo] «"Sin» → «"El 11/10/2026 no había» | «» → «de revisiones» | «España (consultado 11/10/2026); se recomienda» → «España; lo recomendable es pasar una»
+L4352 [spinning en campo de dato intervalo] «"Sin programa oficial publicado por» → «"Para» | «(consultado 11/10/2026);» → «no constaba plan oficial de mantenimiento difundido a 11/10/2026;» | «recomienda inspección» → «sugiere un control»
+L4433 [cifra deletreada/reformulada] «"Sin» → «"Keeway España no tenía publicado» | «publicado por Keeway España (consultado 11/10/2026); se recomienda inspección anual» → «de mantenimiento —consulta del 11/10/2026—; lo sensato es revisar la moto anualmente» | «» → «el»
+L5835 [spinning en campo de dato intervalo] «"Sin» → «"Tampoco se verificó» | «verificado» → «»
+L5920 [spinning en campo de dato intervalo] «"Sin» → «"Ningún» | «verificado» → «se verificó»
+L5924 [spinning en campo de dato queSeCambia] «"Aceite, filtros e» → «"Aceite y filtros, con»
+L5929 [spinning en campo de dato fuente] «"Sin» → «"No se verificó» | «verificada» → «»
+L6084 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «» → «entre revisiones» | «12 meses (lo» → «un año, lo» | «ocurra antes),» → «antes ocurra,»
+L6093 [spinning en campo de dato queSeCambia] «filtros, bujías» → «filtros» | «» → «bujías, con»
+L6169 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"16.000» → «"Intervalo Triumph: revisión cada 16.000» | «12 meses (lo» → «cada doce meses, lo primero» | «ocurra antes), según plan oficial Triumph",» → «se cumpla",»
+L6173 [spinning en campo de dato queSeCambia] «"Aceite,» → «"Según manual Triumph: aceite,» | «general según manual Triumph",» → «general",»
+L6178 [spinning en campo de dato queSeCambia] «"Aceite, filtros,» → «"Filtros, aceite,» | «manual",» → «manual de Triumph",»
+L6254 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"16.000» → «"Según plan oficial Triumph: intervalo de 16.000» | «12 meses (lo» → «un año, lo» | «antes), según plan oficial Triumph",» → «primero",»
+L6258 [spinning en campo de dato queSeCambia] «"Aceite,» → «"Aceite y» | «aceite e» → «aceite, con» | «» → «el»
+L6263 [spinning en campo de dato queSeCambia] «filtros, bujías» → «bujías, filtros» | «reglaje» → «ajuste» | «» → «el»
+L6339 [spinning en campo de dato intervalo] «» → «entre revisiones,» | «meses (lo» → «meses, lo» | «antes),» → «antes,»
+L6343 [spinning en campo de dato queSeCambia] «general» → «general,» | «» → «el»
+L6348 [spinning en campo de dato queSeCambia] «válvulas» → «válvulas,» | «» → «el»
+L6353 [spinning en campo de dato fuente] «gama,» → «gama; se usa la»
+L6424 [spinning en campo de dato intervalo] «verificado» → «comprobado»
+L6428 [spinning en campo de dato queSeCambia] «general» → «general,» | «» → «el»
+L6433 [spinning en campo de dato fuente] «verificada» → «comprobada»
+L6504 [spinning en campo de dato intervalo] «"Sin» → «"No hay»
+L6508 [spinning en campo de dato queSeCambia] «"Aceite, filtros» → «"Filtros y aceite,»
+L6513 [spinning en campo de dato fuente] «"Sin» → «"No hay»
+L6584 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «12 meses (lo» → «doce meses, lo» | «ocurra antes),» → «antes llegue,» | «» → «el»
+L6588 [spinning en campo de dato queSeCambia] «"Aceite, filtro» → «"Filtro» | «» → «con aceite,» | «» → «de»
+L6593 [spinning en campo de dato queSeCambia] «"Aceite,» → «"Según manual: aceite,» | «válvulas según manual",» → «válvulas",»
+L6669 [spinning en campo de dato intervalo] «"Sin» → «"No se ha verificado un» | «verificado» → «»
+L6673 [spinning en campo de dato queSeCambia] «"Aceite,» → «"Según manual oficial Kawasaki: aceite,» | «general según manual oficial Kawasaki",» → «general",»
+L6678 [spinning en campo de dato fuente] «"Sin» → «"Para España no consta en esta investigación ninguna» | «verificada para España en esta investigación",» → «verificada",»
+L6751 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"12.000» → «"Cada 12.000» | «12 meses (lo» → «al año, lo» | «ocurra antes),» → «antes suceda,»
+L6755 [spinning en campo de dato queSeCambia] «"Aceite 10W-30,» → «"Según manual Honda: aceite 10W-30 con» | «general según manual Honda",» → «general",»
+L6760 [spinning en campo de dato queSeCambia] «"Aceite, filtros,» → «"Reglaje de válvulas, aceite, filtros y» | «y reglaje de válvulas» → «»
+L6836 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"12.000» → «"Intervalo de 12.000» | «12 meses (lo» → «un año, lo» | «ocurra antes),» → «llegue primero,»
+L6840 [spinning en campo de dato queSeCambia] «"Aceite 10W-30, filtro» → «"Filtro» | «e» → «y aceite 10W-30, con»
+L6845 [spinning en campo de dato queSeCambia] «"Aceite,» → «"Aceite y»
+L6850 [spinning en campo de dato fuente] «(intervalos» → «con los intervalos» | «gama)",» → «gama",»
+
+## src/lib/comparador-motos-prioridad-20261014.ts (17 líneas)
+L1201 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada] «"12» → «"10.000 km o cada doce» | «o 10.000 km» → «»
+L1241 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"12 meses» → «"un año» | «km» → «kilómetros» | «ocurra» → «llegue»
+L1285 [cifra deletreada/reformulada] «anual",» → «cada año",»
+L1361 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"12 meses» → «"10.000 km» | «10.000 km» → «un año» | «ocurra» → «suceda»
+L1438 [«lo que ocurra antes» rotado] «km» → «kilómetros» | «antes)",» → «primero)",»
+L1443 [cifras: perdidas {'6': 1} nuevas {}] «6 meses» → «medio año»
+L1484 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «km» → «kilómetros» | «12 meses» → «un año» | «ocurra» → «llegue»
+L1645 [«lo que ocurra antes» rotado] «antes)",» → «primero)",»
+L1650 [spinning en campo de dato fuente] «"Mantenimiento orientativo (modelo similar» → «"Calendario aproximado de la» | «/» → «y de la» | «» → «de la»
+L1691 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «12 meses» → «cada año» | «antes)",» → «primero)",» | «de» → «del»
+L1768 [«lo que ocurra antes» rotado] «km» → «kilómetros» | «ocurra» → «suceda»
+L1773 [spinning en campo de dato fuente] «"Mantenimiento orientativo (modelo similar» → «"Pauta de referencia de la» | «/» → «con la» | «» → «de la»
+L1815 [cifra deletreada/reformulada] «anual",» → «cada año",» | «"Mantenimiento» → «"Calendario» | «(modelo similar» → «tomado de la»
+L1818 [spinning en campo de dato fuente] «"Mantenimiento» → «"Calendario» | «(modelo similar» → «de la Panigale V4 y de la» | «800 / Panigale V4,» → «800, de la»
+L1858 [cifras: perdidas {'12': 1} nuevas {}; cifra deletreada/reformulada; «lo que ocurra antes» rotado] «"12 meses» → «"un año» | «antes)",» → «primero)",»
+L1860 [cifra deletreada/reformulada] «anual",» → «cada año",» | «general +» → «general,» | «freno +» → «freno,»
+L1908 [spinning en campo de dato fuente] «» → «los» | «km» → «kilómetros»
