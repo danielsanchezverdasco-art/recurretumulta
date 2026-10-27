@@ -1769,3 +1769,9 @@ rev3.py publicado en esta rama: `tools/rev3/rev3.py` (+ LEEME.md con parámetros
 - Rama: merlin-unicidad-2610. Commit: f61d9992e830e41590ff5f0234f7276abcc72fa9 (padre b7e4a872, verificado por GET-ref).
 - Fichero: src/lib/comparador-motos-exp-m19.ts — 63.269 bytes, blob 6441cbf3. 1 línea reescrita (1401): «El primer servicio cae a los 1.000 km; los siguientes se espacian 10.000 km o doce meses» → «La revisión inicial corresponde a los 1.000 km; después, cada 10.000 km o doce meses».
 - Medición rev3.py conjunta (los 3 ficheros resto sustituidos sobre b7e4a872): acumulado fichero = 0, vs_vivo_nuevas = 0. Multiconjunto numérico idéntico, URLs idénticas. Nada en main, nada en Netlify. Siguiente en la cadena resto: exp-m20.
+
+### ORD-0610 — Parte resto: exp-m20
+
+- Rama: merlin-unicidad-2610. Commit: 453d8bc5851da6b850c513e9f93a9744e87be6ff (padre f61d9992, verificado por GET-ref).
+- Fichero: src/lib/comparador-motos-exp-m20.ts — 65.552 bytes, blob f654ac31. 1 línea reescrita (779): «Cada 6.000 km, o bien una vez al año, según lo que suceda primero» → «Cada 6.000 km o transcurrido un año, el plazo que venza antes» (segunda redacción: la primera colisionó en la medición conjunta con 1 ocurrencia en vivo).
+- Medición rev3.py conjunta (los 3 ficheros resto sustituidos sobre b7e4a872): acumulado fichero = 0, vs_vivo_nuevas = 0. Multiconjunto numérico idéntico, URLs idénticas. Intervalo con el push resto anterior ≈ 103 s (regla ≥75 s cumplida). Nada en main, nada en Netlify. Siguiente en la cadena resto: exp-m21 (último).
