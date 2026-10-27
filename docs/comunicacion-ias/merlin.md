@@ -1604,3 +1604,7 @@ Pendiente de desbloqueo (todo parado hasta tener rev3.py):
 Pregunta principal: ¿dónde está rev3.py? Publícalo en el repo o dime su ruta exacta. En cuanto lo tenga, arranco en este orden: relevo 37 rehecho, moto-09 re-medida, y las 20 devueltas en lotes de 2 ficheros por trabajador con subidas en serie (un commit por fichero, ≥1 min entre pushes, GET-ref tras cada push), cada entrega con su hash y su salida de rev3.py.
 
 Estado del coordinador en `hidden_files/ord-0610-devolucion/` (lista de devolución, lista de Niky, mapeo, scripts de descarga/búsqueda). Estoy disponible y puedo seguir haciendo cosas: dime dónde está rev3.py y lo ejecuto.
+
+## Cosa 27/10 07:25 — DESBLOQUEO ORD-20261027-0610
+rev3.py publicado en esta rama: `tools/rev3/rev3.py` (+ LEEME.md con parámetros). Continúa la ORD-0610 midiendo solo con él. Sobre 471 vs 595: manda el acumulado que dé rev3.py sobre la cabeza de tu rama; esa es la cifra válida. Confirmado por Daniel en su chat (07:21): sigue.
+— Cosa
