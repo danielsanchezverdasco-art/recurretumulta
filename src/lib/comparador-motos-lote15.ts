@@ -65,11 +65,11 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://thebiketlist.es/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses, lo que resulte primero; servicio Desmo cada 24.000 km",
+      intervalo: "12.000 km o 12 meses (lo que ocurra antes); servicio Desmo cada 24.000 km",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite nuevo con su filtro, revisión general y control de aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -155,7 +155,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "El manual de la Multistrada V4 pide aceite a los 15.000 km o 24 meses y reglaje de válvulas a los 60.000 km; Ducati no difunde precios de revisión y hay que pedirlos en su red oficial",
+      fuente: "Intervalos según manual oficial Ducati; costes no publicados — consultar red oficial",
     },
   },
   {
@@ -217,7 +217,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/aprilia/rs-457",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Pauta de 10.000 km o 12 meses; la primera revisión llega con el plazo inicial",
+      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -293,7 +293,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/ducati/scrambler-icon",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses; el taller marca la revisión al vencer el primer plazo",
+      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -307,7 +307,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Según el manual Ducati de la Scrambler Icon 800, la revisión llega a los 12.000 km o al año; su coste no lo publica la marca y lo presupuesta su red oficial",
+      fuente: "Intervalos según manual oficial Ducati; costes no publicados — consultar red oficial",
     },
   },
   {
@@ -369,7 +369,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/trail/moto-guzzi/a-2",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses, lo que ocurra antes",
+      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.500 km)",
@@ -409,7 +409,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     aprox: [],
     pros: [
       "Tricilíndrico de 931 cc con 124 CV y cigüeñal contrarrotante",
-      "Garantía oficial de 5 años, dos veces lo habitual entre sus rivales",
+      "5 años de garantía oficial, el doble que la mayoría de rivales",
       "Suspensiones electrónicas Sachs semi-activas",
       "Acabados de nivel artesanal, la trail más bella del segmento",
       "Llantas de radios tubeless de 21\" y 18\" para off-road real",
@@ -445,7 +445,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://millatrece.com/mv-agusta-enduro-veloce-2026/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses; la revisión se adelanta al primero de ambos topes",
+      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -521,7 +521,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/ktm/390-smc-r-2025",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "7.500 km o 12 meses; la revisión toca cuando se cumple el primer plazo",
+      intervalo: "7.500 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -597,7 +597,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/ktm",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses; el paso por taller llega con el primer límite",
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -611,7 +611,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "KTM fija la revisión de la 1390 Super Duke R EVO a los 15.000 km o 12 meses; el precio no está publicado y la red oficial de la marca da el importe",
+      fuente: "Intervalos según manual oficial KTM; costes no publicados — consultar red oficial",
     },
   },
   {
@@ -673,7 +673,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/ktm",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "El criterio es lo que ocurra antes: 15.000 km o 12 meses",
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -687,7 +687,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "El manual de la 1390 Super Adventure S programa la revisión cada 15.000 km o 12 meses; KTM no difunde precios de taller y remite a su red oficial",
+      fuente: "Intervalos según manual oficial KTM; costes no publicados — consultar red oficial",
     },
   },
   {
@@ -749,7 +749,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/husqvarna/svartpilen-801",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses; se hace la revisión al vencer el primer plazo",
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -825,7 +825,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://motos.coches.net/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses, lo que antes venza",
+      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
@@ -901,7 +901,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/triumph/tiger-sport-800",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses; el taller programa la revisión al llegar el plazo",
+      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
@@ -915,7 +915,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "La Tiger Sport 800 se revisa cada 16.000 km o 12 meses según Triumph; el taller no tiene precio publicado y la red oficial lo presupuesta",
+      fuente: "Intervalos según manual oficial Triumph; costes no publicados — consultar red oficial",
     },
   },
   {
@@ -977,7 +977,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/triumph/daytona-660",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Tope de 16.000 km o 12 meses; al primer plazo adelanta la revisión",
+      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
@@ -991,7 +991,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Triumph programa la Daytona 660 para revisión a los 16.000 km o 12 meses; sus concesionarios oficiales dan el presupuesto, sin precio publicado",
+      fuente: "Intervalos según manual oficial Triumph; costes no publicados — consultar red oficial",
     },
   },
   {
@@ -1053,7 +1053,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/bmw",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses; en el taller, al vencer el plazo",
+      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1129,7 +1129,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/trail/bmw",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Con 10.000 km o 12 meses; pasa por el taller antes de que venza el plazo",
+      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1143,7 +1143,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "BMW Motorrad programa la F 900 GS para revisión a los 10.000 km o 12 meses; facilita el importe su red oficial, sin precio publicado",
+      fuente: "Intervalos según manual oficial BMW Motorrad; costes no publicados — consultar red oficial",
     },
   },
   {
@@ -1205,7 +1205,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://hondamaquina.com/street/cb-1000-hornet-sp/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses; la revisión llega al vencer el primer plazo",
+      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1281,7 +1281,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.movento.es/es/motos-nuevas/ficha-imprimir/honda-cl500-gasolina-46-ocasion-en-barcelona/43393186",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Pauta de 12.000 km o 12 meses; programa la revisión al llegar el plazo",
+      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1295,7 +1295,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "La CL500 se revisa cada 12.000 km o 12 meses conforme al manual Honda; la marca no difunde el coste y sus concesionarios lo presupuestan",
+      fuente: "Intervalos según manual oficial Honda; costes no publicados — consultar red oficial",
     },
   },
   {
@@ -1357,7 +1357,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/yamaha",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Según el manual, 10.000 km o 12 meses; la revisión se realiza cuando vence el primer plazo",
+      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1433,7 +1433,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://motos.coches.net/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Límite de 10.000 km o 12 meses; toca la revisión cuando vence el plazo",
+      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1447,7 +1447,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "El manual Yamaha de la Ténéré 700 Rally pone la revisión en 10.000 km o 12 meses; Yamaha no difunde el importe y su red oficial lo comunica",
+      fuente: "Intervalos según manual oficial Yamaha; costes no publicados — consultar red oficial",
     },
   },
   {
@@ -1509,7 +1509,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/kawasaki",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses; revisión en el taller al llegar el primer plazo",
+      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1585,7 +1585,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/kawasaki-ninja-500-2024/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Con 12.000 km o 12 meses; la revisa su taller al llegar el plazo",
+      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1599,7 +1599,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Kawasaki programa la Ninja 500 SE para revisión a los 12.000 km o 12 meses; su red oficial elabora el presupuesto, sin precio publicado",
+      fuente: "Intervalos según manual oficial Kawasaki; costes no publicados — consultar red oficial",
     },
   },
   {
@@ -1661,7 +1661,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.plusmoto.com/suzuki-v-strom-800-vs-yamaha-tracer-7-sport-touring-asequibles-para-rodar-todo.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses; adelanta la revisión al vencer el plazo",
+      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1737,7 +1737,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/triumph/scrambler-1200-xe",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses; al vencer el plazo, revisión en taller",
+      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
@@ -1751,7 +1751,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "El manual Triumph de la Scrambler 1200 XE pone la revisión en 16.000 km o 12 meses; el importe no se publica y se consulta en su red de concesionarios",
+      fuente: "Intervalos según manual oficial Triumph; costes no publicados — consultar red oficial",
     },
   },
   {
@@ -1813,7 +1813,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://soymotero.net/motos/royal-enfield/guerrilla-450-2026/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses; su taller la revisa cuando vence el primer plazo",
+      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (500 km)",
@@ -1889,7 +1889,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://motos.coches.net/nuevas/royal_enfield/interceptor_650/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "La pauta es 10.000 km o 12 meses; llega la revisión al cumplirse el plazo",
+      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (500 km)",
@@ -1903,7 +1903,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Según Royal Enfield, la Interceptor 650 pasa revisión cada 10.000 km o 12 meses; la marca no difunde el coste y su red oficial lo presupuesta",
+      fuente: "Intervalos según manual oficial Royal Enfield; costes no publicados — consultar red oficial",
     },
   },
 ];
