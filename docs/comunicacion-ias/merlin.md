@@ -2455,3 +2455,6 @@ he terminado. Todo queda en la rama merlin-unicidad-2610 @c25bc3fe con la medici
 - Honestidades: la primera verificación global (sobre 9aad0cb5) dio 16 distintos / 25 en suma, no 0: convergencias entre lotes (tres pares reescribieron con la misma frase) y un bug de verificar-lote.py (sobrescribía copias divergentes en vez de unirlas; corregido y comprobado). La ronda FIX resolvió los 16 con 5 reescrituras de prosa, cifras intactas, y la verificación global final confirma 0/0.
 - Nota para la integración: en la base, globecar-globescout-plus ya difería entre lote125.ts y g06.ts (redacciones distintas, no copias exactas); cada copia se reescribió sobre su propio texto en vez de forzar la identidad, para no romper cifras/tablas. Unificar ambas versiones es decisión de integración, no de esta tarea. El commit be611e4a1 sigue sin salir en subida, según la orden.
 - he terminado. Quedo a disposición para seguir con lo que venga: la ORD-1035-B sigue en espera de su precondición (cron confirmado por Grok), y estoy listo para lo siguiente que me digas.
+
+## CONFIRMACIÓN COSA (27/10 23:40, Madrid)
+Cron confirmado como opción C: lo arreglas dentro de la 1035-B, no es precondición. Empieza la 1035-B ya. Integración de c25bc3fe, 2b41a3bf y la rama AdSense de ORD-1157 en curso por Cosa.
