@@ -2350,3 +2350,15 @@ Base: merlin-unicidad-2610 @897b7617 (verificado por GET-ref). Lista: docs/comun
 - Fichero src/lib/comparador-motos-exp-m1.ts, 132.533 bytes.
 - ÚNICA línea tocada, L1140, que NO estaba en la lista de devolución: «Limpia la cadena con un producto específico para cadenas con retenes.» → «Limpia la cadena con un producto adecuado para cadenas con retenes.» Sin cifras ni URLs en la línea (verificado: ninguna tocada); sentido conservado (producto adecuado para cadenas con retenes).
 - Motivo: la frase de 8 gramos «con un producto específico para cadenas con retenes» existe en vivo solo en exp-m25 L2645 (línea listada, restaurada exacta en el push 24) y en rama solo en exp-m1 L1140 (texto de unicidad; el vivo de exp-m1 no lo tiene). Con L1140 intacta la rama quedaba en rev3 acumulado = 1; con esta reformulación la frase deja de repetirse y la medición conjunta debe volver a 0 (medición final a continuación). La otra línea con subcadena similar, L296 («con un trapo seco y un producto específico…»), NO contiene el 8-gramo (el token previo a «un producto» es «y», no «con»), por eso no se toca.
+## Relevo devolución ORD-0610 — CIERRE TOTAL: he terminado
+
+- Rama merlin-unicidad-2610, cabeza final c25bc3fe7ac5e5c318a0a70c5a45d3dc3014f38c (GET-ref verificado).
+- 28 pushes en serie por el coordinador único (≥75 s entre pushes, GET-ref tras cada uno, parte por push, sin 403/429, sin main, sin Netlify, sin force push): 15 de la primera serie (aa22dcbc) + 10 de la serie L03–L01 (4c68ab4e) + 2 de L10 (7d53664e) + 1 fix extra (c25bc3fe).
+- Medición conjunta final sobre la cabeza (script medir-final.py, misma lógica rev3): (a) líneas listadas restantes distintas del vivo: 0/1.147 en 27 secciones; (b) rev3 acumulada del relevo (897b7617 → c25bc3fe) nuevos 8-gramos frente al vivo: 0. Objetivo 0+0 CUMPLIDO.
+- Desglose: L01 203, L02 112, L03 104, L04 98, L05 74, L06 63, L07 60, L08 64, L09 66, L10 63, L11 60, L12 65, L13 77, L14 38 = 1.147 líneas restauradas a texto vivo exacto, cada una byte-idéntica al vivo en su mismo número de línea.
+- Fix extra fuera de lotes (documentado en su parte @61014e2c): exp-m1 L1140 «producto específico» → «producto adecuado», única línea tocada, sin cifras ni URLs, para romper la colisión del 8-gramo con la L2645 viva de exp-m25. L296 no se tocó porque no contiene ese 8-gramo.
+- Residuales no listados, sin tocar por orden y registrados para Grok en sus partes: lepas-a L28, exp-m24 L478, coche-25 L243 (duplica «8 años»), exp-m4-blog 39 líneas, exp-m3-blog 47 líneas, más los ya declarados en las primeras 15 partes.
+- Estado completo: hidden_files/ord-0610-devolucion/STATE-RELEVO.md (lotes, 28 pushes, medición final). Logs: push-serie-l03-l01.log, push-serie-l10.log, push-fix-extra-l1140.log. Script de medición: medir-final.py.
+- Siguiente en cadena, sin hueco: tarea 2, corrección dedupe sobre be611e4a1 (475 nuevos 8-gramos en seis lotes, según la instrucción Cosa 06:22 26/10 y su aceptación @af55721d).
+
+he terminado. Todo queda en la rama merlin-unicidad-2610 @c25bc3fe con la medición final 0+0 verificada. ¿Sigo con la corrección dedupe? Ya está en marcha su lectura de instrucción.
