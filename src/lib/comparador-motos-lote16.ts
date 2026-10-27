@@ -295,7 +295,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     aprox: [],
     pros: [
       "Precio de 2.599 €, muy competitivo con ABS incluido",
-      "Cinco años de garantía y seguro del primer año gratis",
+      "5 años de garantía y seguro del primer año gratis",
       "Matriculación gratuita",
       "Ruedas de 16 pulgadas, rueda alta estable",
       "Peso contenido de 125 kg",
@@ -1639,7 +1639,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Primera revisión: cambio del aceite y del filtro, inspección general y revisión de aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -1735,7 +1735,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Motor de 494 cc con 47 coma 6 CV: el máximo permitido para el A2",
+      "Motor de 494 cc con 47,6 CV: el máximo permitido para el A2",
       "Suspensión Kayaba de 41 mm y frenos Nissin: componentes de primer nivel",
       "Neumáticos Pirelli Angel ST de serie",
       "Depósito de 16,5 litros: gran autonomía para una naked A2",
@@ -1775,11 +1775,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.motosan.es/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Controles a los 1.000, 7.000, 13.000, 19.000, 25.000, 31.000 y 37.000 km",
+      intervalo: "Revisiones a los 1.000 / 7.000 / 13.000 / 19.000 / 25.000 / 31.000 / 37.000 km",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite y filtro nuevos, inspección general y repaso de aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -2046,7 +2046,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Sustitución de aceite y filtro, con inspección general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -2125,7 +2125,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite nuevo con filtro, inspección general y control de aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -2200,11 +2200,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://soymotero.net/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Controles a los 1.000 y 10.000, 20.000, 30.000 y 40.000 km",
+      intervalo: "Revisiones a los 1.000 / 10.000 / 20.000 / 30.000 / 40.000 km",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Cambio de aceite, filtro de aceite, inspección general y revisión de aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -2303,7 +2303,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     aprox: ["velocidadMax", "autonomiaKm"],
     pros: [
       "Bicilíndrico 471 cc con 47 CV: el tope del A2 con tacto Honda",
-      "Delante monta horquilla Showa SFF-BP de 41 mm y dos discos Nissin de 296 mm",
+      "Horquilla Showa SFF-BP de 41 mm y doble disco Nissin de 296 mm",
       "Control de tracción HSTC seleccionable",
       "TFT con conectividad Bluetooth",
       "Depósito de 17,1 litros y unos 480 km de autonomía",
@@ -2478,11 +2478,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Controles a los 1.000, 7.500 y 15.000 km",
+      intervalo: "Revisiones a los 1.000 / 7.500 / 15.000 km",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite y filtro de aceite, revisión general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -2557,7 +2557,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://mpracing.es/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 5.000 km o 6 meses, según lo que suceda primero",
+      intervalo: "Cada 5.000 km o 6 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión cada 5.000 km / 6 meses",
@@ -2630,11 +2630,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "8.000 km o 12 meses (lo que suceda antes); primera revisión a los 1.600 km",
+      intervalo: "8.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.600 km",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
-          queSeCambia: "Renovación de aceite y filtro, inspección general y control de aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -2769,7 +2769,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.triumphmotorcycles.es/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses, conforme a lo que antes suceda",
+      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
@@ -2783,7 +2783,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Según manual oficial Triumph; costes sin publicar: consultar la red oficial",
+      fuente: "Intervalos según manual oficial Triumph; costes no publicados — consultar red oficial",
     },
   },
   {
@@ -2847,7 +2847,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://moto.suzuki.es/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses, según lo que suceda primero",
+      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -2861,7 +2861,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Según manual oficial Suzuki; costes sin publicar: consultar la red oficial",
+      fuente: "Intervalos según manual oficial Suzuki; costes no publicados — consultar red oficial",
     },
   },
   {
@@ -2941,7 +2941,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Según manual oficial BMW Motorrad; costes sin publicar: consultar la red oficial",
+      fuente: "Intervalos según manual oficial BMW Motorrad; costes no publicados — consultar red oficial",
     },
   },
   {
@@ -3010,7 +3010,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Sustitución del aceite y del filtro, con inspección general y aprietes revisados",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -3020,7 +3020,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Según manual oficial Yamaha; costes sin publicar: consultar la red oficial",
+      fuente: "Intervalos según manual oficial Yamaha; costes no publicados — consultar red oficial",
     },
   },
   {
@@ -3400,11 +3400,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses, lo antes que ocurra",
+      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
-          queSeCambia: "Aceite nuevo con su filtro, más inspección general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -3474,11 +3474,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Primera a los 1.600 km; después, cada 8.000 km o 12 meses",
+      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
-          queSeCambia: "Cambio de aceite y de su filtro, inspección general y ajuste de los aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -3488,7 +3488,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Según manual del propietario Harley-Davidson: intervalo habitual de servicio (1.000 mi primera / 5.000 mi)",
+      fuente: "Intervalo estándar Harley-Davidson según manual del propietario (1.000 mi primera / 5.000 mi)",
     },
   },
   {
@@ -3553,11 +3553,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Revisión inicial a los 1.600 km y, a partir de ahí, cada 8.000 km o 12 meses",
+      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
-          queSeCambia: "Sustituir aceite y filtro, inspección general y comprobar aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -3567,7 +3567,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual del propietario Harley-Davidson: primera a las 1.000 mi y luego cada 5.000 mi",
+      fuente: "Intervalo estándar Harley-Davidson según manual del propietario (1.000 mi primera / 5.000 mi)",
     },
   },
   {
@@ -3632,11 +3632,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "A los 1.600 km la primera y cada 8.000 km o 12 meses, según el primero que se cumpla",
+      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
-          queSeCambia: "Aceite nuevo y filtro, inspección general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -3646,7 +3646,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos de la marca según su manual del propietario (1.000 mi primera / 5.000 mi)",
+      fuente: "Intervalo estándar Harley-Davidson según manual del propietario (1.000 mi primera / 5.000 mi)",
     },
   },
   {
@@ -3711,11 +3711,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Primera revisión a los 1.600 km; intervalos posteriores cada 8.000 km o cada 12 meses, lo antes que ocurra",
+      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
-          queSeCambia: "Cambio de aceite y de filtro, inspección general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -3725,7 +3725,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Harley-Davidson: intervalo de servicio según manual del propietario (1.000 mi primera / 5.000 mi)",
+      fuente: "Intervalo estándar Harley-Davidson según manual del propietario (1.000 mi primera / 5.000 mi)",
     },
   },
   {
@@ -3790,11 +3790,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km para la primera y 8.000 km o 12 meses entre las siguientes, lo primero que llegue",
+      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
-          queSeCambia: "Aceite y filtro de aceite renovados, con revisión general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -3804,7 +3804,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Programa de servicio Harley-Davidson del manual del propietario (1.000 mi primera / 5.000 mi)",
+      fuente: "Intervalo estándar Harley-Davidson según manual del propietario (1.000 mi primera / 5.000 mi)",
     },
   },
   {
@@ -4128,11 +4128,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "http://www.indianmotorcycle.es/101-scout/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "800 km (primera) y cada 8.000 km o un año, lo primero que suceda",
+      intervalo: "800 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
-          queSeCambia: "Inspección general y repaso de aprietes, además de reponer aceite y filtro",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -4209,11 +4209,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.indianmotorcycle-barcelona.com/sport-scout",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Primera a los 800 km y, luego, cada 8.000 km o 12 meses",
+      intervalo: "800 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
-          queSeCambia: "Se pone aceite con un filtro nuevo, inspección general y repaso de aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -4223,7 +4223,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Según manual del propietario Indian Motorcycle: intervalo habitual (500 mi primera / 5.000 mi)",
+      fuente: "Intervalo estándar Indian Motorcycle según manual del propietario (500 mi primera / 5.000 mi)",
     },
   },
   {
@@ -4290,11 +4290,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "http://indianmotorcycle.es/super-chief-limited/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Primera revisión a los 800 km; las siguientes, cada 8.000 km o bien cada 12 meses, lo que antes se cumpla",
+      intervalo: "800 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
-          queSeCambia: "Cambio de aceite, filtro, inspección general y revisión de aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -4304,7 +4304,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual del propietario Indian Motorcycle: primera a las 500 mi y luego cada 5.000 mi",
+      fuente: "Intervalo estándar Indian Motorcycle según manual del propietario (500 mi primera / 5.000 mi)",
     },
   },
   {
@@ -4391,7 +4391,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Tres cilindros de 1.160 cc y 150 CV: el más potente de su segmento",
+      "Tricilíndrico de 1.160 cc con 150 CV: el más potente de su segmento",
       "Versión GT Pro orientada al asfalto con llantas de 19 pulgadas",
       "Revisiones cada 16.000 km o 12 meses, entre los intervalos más espaciados",
       "Garantía oficial de 4 años",
@@ -4431,11 +4431,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://super7moto.com/revista/salones/24949-triumph-anuncia-nuevas-mejoras-en-la-gama-tiger-1200.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 16.000 km o 12 meses, lo primero en cumplirse",
+      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite y filtro, inspección general y revisión de aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -4572,11 +4572,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://moteo.es/la-triumph-scrambler-400-xc-ya-esta-aqui/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "16.000 km o un año, lo que primero suceda",
+      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Sustitución del aceite y el filtro, inspección general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -5282,11 +5282,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.ducati.com/es",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 12.000 km, lo que antes se alcance",
+      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Aceite y filtro de aceite nuevos en esta revisión, con inspección general y aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -5296,7 +5296,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Según manual oficial Ducati; costes sin publicar, hay que consultar red oficial",
+      fuente: "Intervalos según manual oficial Ducati; costes no publicados — consultar red oficial",
     },
   },
   {
@@ -5361,11 +5361,11 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://soymotero.net",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o un año, lo que antes ocurra",
+      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
-          queSeCambia: "Cambiar aceite y filtro, con inspección general y repaso de aprietes",
+          queSeCambia: "Aceite + filtro de aceite + inspección general y aprietes",
           costeAproxEur: null,
         },
         {
@@ -5375,7 +5375,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial Ducati: intervalos de servicio; precios no publicados, consultar red oficial",
+      fuente: "Intervalos según manual oficial Ducati; costes no publicados — consultar red oficial",
     },
   },
   {
