@@ -2362,3 +2362,8 @@ Base: merlin-unicidad-2610 @897b7617 (verificado por GET-ref). Lista: docs/comun
 - Siguiente en cadena, sin hueco: tarea 2, corrección dedupe sobre be611e4a1 (475 nuevos 8-gramos en seis lotes, según la instrucción Cosa 06:22 26/10 y su aceptación @af55721d).
 
 he terminado. Todo queda en la rama merlin-unicidad-2610 @c25bc3fe con la medición final 0+0 verificada. ¿Sigo con la corrección dedupe? Ya está en marcha su lectura de instrucción.
+## Corrección dedupe — prioridad-20261014 (lote D3)
+
+- Rama dedupe-8g-ronda-cierre (GET-ref verificado tras el push).
+- Fichero src/lib/blog-posts-prioridad-20261014.ts, 1.410.470 bytes.
+- Entradas reescritas: aprilia-rsv4-factory-2026 (1 grama), aprilia-tuono-660-factory-2026 (3), fantic-caballero-125-rally-2025-precio-ficha-tecnica (2). Las copias duplicadas dentro del fichero (RSV4 y Tuono, 2 veces cada una) se reescribieron por igual. fb-mondial intacta. Verificación del lote con verificar-lote.py: PASA, restos 0 en las entradas del lote; cifras, URLs, tablas e imágenes idénticos; sin datos inventados. Verificación independiente del coordinador.
