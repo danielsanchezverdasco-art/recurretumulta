@@ -1081,9 +1081,9 @@ export const COCHES_AUDI: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "El Audi más grande de la historia: 5,31 m y 7 plazas de serie",
-      "V6 TDI de 299 CV y 630 Nm con hibridación ligera MHEV plus",
-      "Maletero de 832 L con la tercera fila abatida (2.308 L en total)",
-      "Puertas automáticas y el techo panorámico más grande de Audi",
+      "V6 TDI de 299 CV y 630 Nm, con hibridación ligera MHEV plus",
+      "832 L de maletero con la tercera fila plegada (2.308 L como máximo)",
+      "Puertas con cierre automático y el mayor techo panorámico de Audi",
       "Suspensión neumática y dirección en las cuatro ruedas de serie",
     ],
     contras: [

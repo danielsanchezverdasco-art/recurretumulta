@@ -1,5 +1,5 @@
 // Radar de noticias 24/10/2026 16:58 (cron recurretumulta-radar-noticias-5h).
-// - BYD enseña el interior de la segunda generación del Seal 07 (teasers oficiales
+// - Se publican imágenes del habitáculo del Seal 07 de segunda generación (teasers oficiales
 //   del 23/10/2026 en Weibo, recogidos por CnEVPost y ForoCochesEléctricos el 24/10).
 //   Ficha + blog: el modelo no existía en el site (el Seal europeo es otro coche).
 //   Todas las cifras son de la ficha MIIT china y de los teasers oficiales; la
@@ -32,7 +32,7 @@ export const RADAR_20261024D_POSTS: BlogPost[] = [
 
 *El Seal 07 de segunda generación en su teaser oficial: silueta fastback, tiradores semiocultos y LiDAR sobre el techo. Foto: BYD, vía CnEVPost (licencia desconocida).*
 
-BYD no deja respirar a su propia gama. El Seal 07 eléctrico que se puso a la venta en China en marzo de 2026 ya tiene relevo en camino: la segunda generación, desvelada en la documentación del ministerio chino MIIT el 7 de agosto de 2026, mostró su exterior el 28 de septiembre y, desde el 23 de octubre, también su interior. Zhang Zhuo, director general de ventas de la línea Ocean de BYD, ha publicado en Weibo durante dos días seguidos los teasers del coche, el segundo de ellos dedicado al habitáculo, al que la marca llama cabina de lujo ligero. La noticia la han recogido el 23 y 24 de octubre CnEVPost y ForoCochesEléctricos, y es la primera vez que se ve por dentro el que será uno de los BYD más importantes de 2027.
+BYD no deja respirar a su propia gama. El Seal 07 eléctrico, a la venta en China desde marzo de 2026, ya tiene sucesor en el horizonte: la segunda generación apareció primero en la documentación del ministerio chino MIIT (7 de agosto de 2026), enseñó su carrocería el 28 de septiembre y, desde el 23 de octubre, deja ver además el habitáculo. Zhang Zhuo, director general de ventas de la línea Ocean de BYD, ha publicado en Weibo durante dos días seguidos los teasers del coche, el segundo de ellos dedicado al habitáculo, al que la marca llama cabina de lujo ligero. La noticia la han recogido el 23 y 24 de octubre CnEVPost y ForoCochesEléctricos, y es la primera vez que se ve por dentro el que será uno de los BYD más importantes de 2027.
 
 Antes de entrar en cifras, una aclaración necesaria para no mezclar modelos: este Seal 07 es el sedán chino de la familia Ocean, no el Seal que BYD vende en España. El europeo es un coche más pequeño y distinto, con su propia ficha en esta web. El Seal 07 de segunda generación mide 5,08 metros, juega en la liga de las berlinas grandes y, de momento, solo está confirmado para China. Nada de lo que sigue es un precio europeo ni una fecha de llegada a España, porque BYD no ha anunciado ninguna de las dos cosas.
 

@@ -294,7 +294,7 @@ export const COCHES_EBRO: CocheComparador[] = [
     pros: [
       "Primer eléctrico de EBRO: 122 CV, tracción trasera y unos 310 km de autonomía",
       "Se fabricará en Barcelona: acceso al Plan MOVES III sin los aranceles de los chinos importados",
-      "Batería LFP de 41 kWh con carga rápida de 85 kW (del 30 al 80 % en unos 17 minutos)",
+      "Batería LFP de 41 kWh y carga rápida de 85 kW: del 30 al 80 % en aproximadamente 17 minutos",
       "Maletero de 375 litros más frunk delantero de 70: el más capaz del segmento",
       "Pantalla de 15,6 pulgadas, función V2L y 38 huecos portaobjetos en el habitáculo",
     ],

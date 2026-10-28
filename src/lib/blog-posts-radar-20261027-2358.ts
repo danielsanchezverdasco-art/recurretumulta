@@ -1,12 +1,12 @@
 // Radar de noticias 27/10/2026 23:58 (cron recurretumulta-radar-noticias-5h).
 // - Leapmotor B10: producción en España. Disparador: El Periódico /
 //   Superdeporte publicó el 27/10/2026 a las 19:04 CET que la producción
-//   del B10 en la planta de Stellantis en Figueruelas (Zaragoza) está en
+//   del B10 en la fábrica de Stellantis de Figueruelas (Zaragoza) se ha puesto en
 //   marcha de forma oficial: es el primer Leapmotor fabricado en España.
 //   El B10 ya tenía fichas en esta web (BEV y REEV), así que esta pieza
 //   es solo blog de noticia, enlazado a las dos fichas, sin ficha nueva.
 //   Precios de España de las fichas de esta web: REEV desde 27.900 €,
-//   BEV desde 29.900 €. Precio de la versión BEV ProMax (67,1 kWh) no
+//   BEV desde 29.900 €. El precio de la versión BEV ProMax (67,1 kWh) no
 //   publicado en la ficha: no se inventa. Qué versiones concretas salen
 //   de la línea de Figueruelas y cuándo llegan las primeras unidades
 //   "made in Spain" a los concesionarios: pendiente de confirmación
@@ -36,7 +36,7 @@ export const RADAR_20261027_2358_POSTS: BlogPost[] = [
 
 *El Leapmotor B10 REEV: el SUV de 4,52 metros que Stellantis y Leapmotor ya fabrican en Figueruelas, Zaragoza. Foto de prensa del modelo, la misma que usa la ficha del B10 REEV en esta web.*
 
-Hay noticias que se cuentan en una línea y noticias que cambian la posición de una marca en un mercado entero. La del Leapmotor B10 pertenece al segundo grupo, y por eso va más allá del titular: Stellantis y Leapmotor han puesto en marcha de forma oficial la producción del B10 en España, en la planta de Figueruelas, en Zaragoza. Es el primer modelo de Leapmotor que se fabrica en nuestro país, y llega en el mejor momento posible para la marca, porque el B10 ya es uno de los coches eléctricos más vendidos de España sin haber nacido aquí. En septiembre fue el sexto turismo 100% eléctrico más matriculado del país, con 486 unidades y una cuota del 2,8% en su segmento, a pocos meses de su lanzamiento. Fabricarlo en Zaragoza no es un gesto simbólico: es la manera de acortar plazos, de asegurar suministro y de convertir un éxito de ventas en una apuesta industrial con raíces en España. En este artículo te contamos qué significa exactamente ese arranque de producción, qué versiones del B10 existen y cuánto cuestan en España, qué cambia para ti si estás pensando en comprar uno, y qué queda todavía por confirmar, porque hay dos datos que la información disponible no cierra y no vamos a inventarlos: qué versiones concretas salen de la línea de Figueruelas y cuándo llegan a los concesionarios las primeras unidades con sello español. Si quieres los números secos, los tienes en las fichas: la <a href=/coches/leapmotor-b10-reev-2026-precio-ficha-tecnica/>ficha del Leapmotor B10 REEV</a> y la <a href=/coches/leapmotor-b10-electrico-precio-espana/>ficha del Leapmotor B10 eléctrico</a>.
+Hay noticias que se cuentan en una línea y noticias que cambian la posición de una marca en un mercado entero. La del Leapmotor B10 pertenece al segundo grupo, y por eso va más allá del titular: Stellantis y Leapmotor han puesto en marcha de forma oficial la producción del B10 en España, en la planta de Figueruelas, en Zaragoza. Es el primer modelo de Leapmotor que se fabrica en nuestro país, y llega en el mejor momento posible para la marca, porque el B10 ya es uno de los coches eléctricos más vendidos de España sin haber nacido aquí. Septiembre lo situó como el sexto turismo 100% eléctrico más matriculado del país, con 486 unidades y un 2,8% de cuota en su segmento, a pocos meses de salir a la venta. Fabricarlo en Zaragoza no es un gesto simbólico: es la manera de acortar plazos, de asegurar suministro y de convertir un éxito de ventas en una apuesta industrial con raíces en España. Aquí te explicamos qué supone realmente ese inicio de producción, qué versiones del B10 hay y cuánto valen en España, qué cambia si estás valorando comprar uno y qué falta por confirmar, porque hay dos datos que la información disponible no resuelve y que no vamos a inventar: qué versiones concretas fabricará la línea de Figueruelas y cuándo recibirán los concesionarios las primeras unidades con sello español. Si quieres los números secos, los tienes en las fichas: la <a href=/coches/leapmotor-b10-reev-2026-precio-ficha-tecnica/>ficha del Leapmotor B10 REEV</a> y la <a href=/coches/leapmotor-b10-electrico-precio-espana/>ficha del Leapmotor B10 eléctrico</a>.
 
 ## Figueruelas: por qué Zaragoza y por qué ahora
 
@@ -78,7 +78,7 @@ A eso se suman 17 funciones de ayuda a la conducción, el paquete ADAS que en la
 
 ## Lo que todavía falta por confirmar
 
-Un artículo honesto no termina sin decir lo que no sabe, y en este caso hay dos huecos que conviene dejar señalados. El primero es qué versiones concretas del B10 salen de la línea de Figueruelas: la información publicada confirma que la producción del B10 está en marcha en Zaragoza, pero no detalla si la línea arranca con el eléctrico, con el REEV o con las dos versiones a la vez, ni qué acabados se fabrican aquí en esta primera fase. El segundo es cuándo llegan a los concesionarios las primeras unidades fabricadas en España y si habrá alguna forma de distinguirlas, algo que hoy no está publicado. Tampoco está publicado el precio de la versión BEV ProMax con la batería de 67,1 kWh, así que en la tabla anterior aparece como pendiente y no como cifra inventada. Cuando Stellantis o Leapmotor publiquen esos datos, actualizaremos este artículo y las fichas.
+Un texto riguroso debe reconocer lo que ignora, y aquí quedan dos lagunas que conviene señalar. El primero es qué versiones concretas del B10 salen de la línea de Figueruelas: la información publicada confirma que la producción del B10 está en marcha en Zaragoza, pero no detalla si la línea arranca con el eléctrico, con el REEV o con las dos versiones a la vez, ni qué acabados se fabrican aquí en esta primera fase. El segundo es cuándo llegan a los concesionarios las primeras unidades fabricadas en España y si habrá alguna forma de distinguirlas, algo que hoy no está publicado. Tampoco está publicado el precio de la versión BEV ProMax con la batería de 67,1 kWh, así que en la tabla anterior aparece como pendiente y no como cifra inventada. Cuando Stellantis o Leapmotor publiquen esos datos, actualizaremos este artículo y las fichas.
 
 | Confirmado | Pendiente de confirmación |
 |---|---|
@@ -105,7 +105,7 @@ Sí: tiene 5 estrellas EuroNCAP, con buenos resultados en ocupantes adultos, seg
 486 unidades en España, lo que lo situó como el sexto turismo 100% eléctrico más matriculado del mes, con una cuota del 2,8%, a pocos meses de su lanzamiento.
 
 ### ¿Merece la pena esperar a un B10 fabricado en España?
-Si tu pedido ya está en marcha, pregunta en el concesionario si tu unidad vendrá de Figueruelas y qué plazo te dan por escrito: la producción española debería mejorar la disponibilidad, pero la fecha de llegada de las primeras unidades españolas a la red aún no está publicada.
+Si ya has hecho el pedido, consulta en el concesionario si tu coche saldrá de Figueruelas y qué plazo te confirman por escrito: fabricar en España debería facilitar la disponibilidad, aunque aún no se ha publicado cuándo llegarán a la red las primeras unidades nacionales.
 
 **Fichas en esta web:** <a href=/coches/leapmotor-b10-reev-2026-precio-ficha-tecnica/>Leapmotor B10 REEV — ficha técnica</a> · <a href=/coches/leapmotor-b10-electrico-precio-espana/>Leapmotor B10 eléctrico — ficha técnica</a> · <a href=/coches/leapmotor-c10-reev-2025-precio-ficha-tecnica/>Leapmotor C10 REEV — ficha técnica</a> · <a href=/comparador-coches/>Comparador de coches</a>
 

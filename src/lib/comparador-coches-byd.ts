@@ -1276,7 +1276,7 @@ export const COCHES_BYD: CocheComparador[] = [
     categoria: "Berlina",
     precioDesde: null, // BYD aún no ha anunciado el precio (teasers 23/10/2026)
     potenciaCv: 408, // versión de gran autonomía, 300 kW; la de acceso da 333 CV
-    autonomiaKm: 875, // ciclo CLTC chino, no WLTP europeo (ver pros)
+    autonomiaKm: 875, // medida en ciclo CLTC chino y no WLTP europeo (ver pros)
     maleteroL: null,
     ceroCien: null, // sin publicar en la ficha MIIT
     velocidadMax: 240,

@@ -2151,7 +2151,7 @@ export const COCHES_BMW: CocheComparador[] = [
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com",
   },
-  // 26. BMW Serie 7 2027 (nueva generación con tecnología Neue Klasse, 2026)
+  // 26. BMW Serie 7 2027 (nueva generación, tecnología Neue Klasse, 2026)
   {
     id: "bmw-serie-7-2027-precio-ficha-tecnica",
     garantiaBateriaAnos: 8,

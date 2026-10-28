@@ -33,9 +33,9 @@ export const RADAR_20261024C_POSTS: BlogPost[] = [
 
 Carwow ha publicado hoy, 24 de octubre de 2026, uno de esos vídeos que sirven para medir el paso del tiempo mejor que cualquier calendario: ha reunido en su pista de aceleración a cuatro Ferrari con motor V12 delantero, uno por generación, desde mediados de la década de 2000 hasta hoy. La pregunta que plantea Mat Watson es tan sencilla como difícil de responder con una ficha técnica en la mano: ¿cuánto ha progresado Ferrari en veinte años con la misma receta, un gran V12 atmosférico delante del conductor y la tracción atrás?
 
-Los cuatro elegidos son el 599, el F12 Berlinetta, el 812 GTS y el 12Cilindri. Ninguno lleva turbo, ninguno lleva hibridación y ninguno esconde el motor detrás de los asientos. Esa pureza es precisamente lo que hace interesante la comparación: sin ayudas eléctricas ni sobrealimentación que distorsionen las cifras, cada salto de potencia, cada kilo ganado o perdido y cada cambio de caja se puede leer como lo que es, la evolución de una idea.
+La prueba enfrenta al 599, al F12 Berlinetta, al 812 GTS y al 12Cilindri. Ninguno lleva turbo, ninguno lleva hibridación y ninguno esconde el motor detrás de los asientos. Esa pureza es precisamente lo que hace interesante la comparación: sin ayudas eléctricas ni sobrealimentación que distorsionen las cifras, cada salto de potencia, cada kilo ganado o perdido y cada cambio de caja se puede leer como lo que es, la evolución de una idea.
 
-Este artículo recoge todas las cifras que Carwow publica en su pieza, las ordena, calcula la relación peso-potencia de cada coche y explica qué cambió de verdad en dos décadas. Y una advertencia honesta desde el principio: el resultado cronometrado de la carrera está en el vídeo de Carwow, no en el texto de su artículo, así que aquí no vas a encontrar un ganador inventado ni unos tiempos que nadie ha publicado. Lo que sí vas a encontrar es todo lo necesario para entender por qué la carrera podía salir de varias maneras distintas.
+Este artículo recoge todas las cifras que Carwow publica en su pieza, las ordena, calcula la relación peso-potencia de cada coche y explica qué cambió de verdad en dos décadas. Una aclaración antes de seguir: los tiempos de la carrera solo constan en el vídeo de Carwow y no en su artículo escrito, de modo que aquí no aparece ningún ganador ni cronometraje que no haya sido publicado. Lo que sí vas a encontrar es todo lo necesario para entender por qué la carrera podía salir de varias maneras distintas.
 
 ## Los cuatro protagonistas, uno a uno
 
@@ -45,7 +45,7 @@ Este artículo recoge todas las cifras que Carwow publica en su pieza, las orden
 
 **Ferrari 812 GTS: el techo de par.** El tercer coche es el descapotable de la familia 812, con un V12 de 6,5 litros que entrega 800 CV y 718 Nm de par, la cifra de par más alta de todo el grupo, gestionados por un cambio de doble embrague y tracción trasera. Pesa 1.705 kg, es decir, 75 kg más que el F12, y costaba 293.000 libras cuando era nuevo. El 812 es el punto en el que la familia alcanza su máxima fuerza bruta de empuje, y también el coche que mejor resume la madurez de esta arquitectura: más cilindrada, más potencia y un chasis que ya no necesita adelgazar para seguir siendo rápido.
 
-**Ferrari 12Cilindri: el heredero.** El coche nuevo del grupo mantiene los 6,5 litros y la aspiración natural, y sube la potencia hasta 830 CV, la mayor de los cuatro. Su par máximo es de 678 Nm, por debajo de los 718 Nm del 812, un detalle que merece su propio apartado más abajo. El cambio es un doble embrague automático, la tracción es trasera, el peso es de 1.720 kg —el mayor del grupo, 15 kg por encima del 812— y su precio de nuevo es de 336.500 libras, casi el doble que el del 599. Es el coche que demuestra que la receta sigue viva en 2026, sin turbo y sin electricidad, y que todavía hay clientes dispuestos a pagar por ella.
+**Ferrari 12Cilindri: el heredero.** El coche nuevo del grupo mantiene los 6,5 litros y la aspiración natural, y sube la potencia hasta 830 CV, la mayor de los cuatro. Rinde 678 Nm de par máximo, cifra inferior a los 718 Nm del 812, y esa diferencia se analiza en un apartado propio más adelante. El cambio es un doble embrague automático, la tracción es trasera, el peso es de 1.720 kg —el mayor del grupo, 15 kg por encima del 812— y su precio de nuevo es de 336.500 libras, casi el doble que el del 599. Es el coche que demuestra que la receta sigue viva en 2026, sin turbo y sin electricidad, y que todavía hay clientes dispuestos a pagar por ella.
 
 ## La tabla completa, con las cifras de Carwow
 
@@ -56,7 +56,7 @@ Este artículo recoge todas las cifras que Carwow publica en su pieza, las orden
 | Ferrari 812 GTS | V12 6,5 atmosférico | 800 CV | 718 Nm | Doble embrague | 1.705 kg | 293.000 £ |
 | Ferrari 12Cilindri | V12 6,5 atmosférico | 830 CV | 678 Nm | Doble embrague | 1.720 kg | 336.500 £ |
 
-Todas las cifras de esta tabla son las que publica Carwow en su artículo del 24 de octubre de 2026. Los precios son precios británicos de coche nuevo en su momento, no precios españoles ni precios actuales de ocasión, y sirven para comparar la escalada entre generaciones, no para comprar ninguno de ellos.
+Todas las cifras de esta tabla son las que publica Carwow en su artículo del 24 de octubre de 2026. Los importes son precios de lista británicos del coche nuevo en su día, no tarifas españolas ni valores actuales de segunda mano; valen para ver cómo escala el precio entre generaciones, no como guía de compra.
 
 ## La relación peso-potencia: el dato que ordena la carrera
 
@@ -91,7 +91,7 @@ Tampoco hay que confundir los precios de la tabla con precios de compra en Espa�
 
 ## Si te tienta un V12 de Maranello
 
-De los cuatro, dos tienen ficha completa en esta web. El **12Cilindri** es el modelo actual: 830 CV, 0 a 100 km/h en 2,9 segundos y 340 km/h de velocidad máxima, con un precio de partida en España de 425.000 euros según su ficha. El **812 GTS** es el descapotable de la generación anterior, con 800 CV y el par más alto del grupo, 718 Nm. Los dos enlaces están al final de este artículo, junto a las fuentes.
+De los cuatro, dos tienen ficha completa en esta web. El **12Cilindri** representa la generación vigente: 830 CV, aceleración de 0 a 100 km/h en 2,9 s y 340 km/h de punta, con tarifa de entrada en España de 425.000 euros según su ficha. El **812 GTS** es el descapotable de la generación anterior, con 800 CV y el par más alto del grupo, 718 Nm. Los dos enlaces están al final de este artículo, junto a las fuentes.
 
 El 599 y el F12 Berlinetta, en cambio, solo se encuentran ya en el mercado de ocasión, y ahí la compra cambia de lógica: lo que importa no es la ficha técnica, sino el historial de mantenimiento, el estado del cambio —sobre todo el manual automatizado del 599, más delicado que un doble embrague moderno— y la documentación completa. Son coches que han pasado por varias manos y por muchos años, y un V12 mal mantenido puede convertir el sueño en una factura. Si estás mirando uno, exige revisiones en servicio oficial, comprueba el estado de los neumáticos y los frenos, y recuerda que el consumo y el mantenimiento de un V12 atmosférico de este calibre no se parecen a nada que hayas tenido antes.
 

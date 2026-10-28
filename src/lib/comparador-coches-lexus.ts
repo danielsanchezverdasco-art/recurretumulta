@@ -1210,7 +1210,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/lexus/lc/2017/estandar/estandar/lc-500h-sport2/datos",
   },
-  // 15. Lexus TZ (eléctrico, SUV de 6 plazas, 2026+) — radar 23/10/2026
+  // 15. Lexus TZ (SUV eléctrico de 6 plazas, 2026+) — radar del 23/10/2026
   {
     id: "lexus-tz-2026-precio-ficha-tecnica",
     garantiaBateriaAnos: null,

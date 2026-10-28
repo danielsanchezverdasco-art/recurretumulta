@@ -59,7 +59,7 @@ Ford ha puesto en marcha su **ofensiva de modelos baratos**: la pickup eléctric
 
 El nombre costó **nueve meses** de trabajo: Ford descartó códigos alfanuméricos tipo F-150 y nombres retro como Ranchero. "Fathom" significa "llegar a comprender en profundidad", y según la marca refleja el trabajo de entender al cliente al que va dirigido. La camioneta se desarrolló en el centro de vehículos eléctricos de Ford en Long Beach (California), dentro de un programa en el que la compañía ha invertido unos **5.000 millones de dólares**.
 
-Lo que Ford **no ha dicho todavía**: capacidad de la batería, autonomía homologada, potencia de carga ni capacidad de remolque. La prensa espera al menos unas 300 millas (unos 480 km) de autonomía, pero es una estimación, no un dato oficial.
+Lo que Ford **no ha dicho todavía**: capacidad de la batería, autonomía homologada, potencia de carga ni capacidad de remolque. Los medios barajan una autonomía de como mínimo 300 millas (en torno a 480 km); se trata de una previsión periodística y no de una cifra confirmada por la marca.
 
 **Su rival en casa:** <a href=/coches/ford-mustang-mach-e-2026-precio-ficha-tecnica/>Ford Mustang Mach-E — ficha técnica y precio</a>
 

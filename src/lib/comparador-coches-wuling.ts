@@ -1004,7 +1004,7 @@ export const COCHES_WULING: CocheComparador[] = [
       "Velocidad máxima de 100 km/h: solo reparto urbano y periurbano",
       "Los 440 km son ciclo CLTC chino, sin WLTP oficial publicado",
       "Equipamiento justo: radio 1DIN, sin pantalla táctil ni ADAS avanzados",
-      "Sin prueba EuroNCAP: furgón en lanzamiento europeo, aún no probado",
+      "No existe prueba EuroNCAP: es un furgón que acaba de llegar a Europa y no ha sido ensayado",
       "Pendientes: importador español, red de talleres y garantía en España",
       "Sin datos europeos del minibús ni del minicamper (precio, carga, autonomía)",
     ],

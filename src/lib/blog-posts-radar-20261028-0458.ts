@@ -6,13 +6,13 @@
 //   madrugada del 28/10 (Autonoción, El Periódico Digital) y en Reino
 //   Unido el 28/10 (evo). Por la regla del radar, modelo nuevo o
 //   variante nueva = ficha + blog inseparables.
-//   Precio: Aston Martin NO ha anunciado precio oficial. La cifra de
+//   Precio: Aston Martin NO ha comunicado una tarifa oficial. La cifra de
 //   unas 935.000 libras es una ESTIMACIÓN de evo (un ~40 % más que el
 //   coupé), no un precio oficial, y no hay precio en España ni en
 //   euros: por eso la ficha lleva precioDesde null y el blog lo dice
 //   así de claro. Entregas: tercer trimestre de 2027 (nota oficial).
-//   Producción: el Spider forma parte de las 999 unidades totales del
-//   Valhalla, alrededor de una de cada cuatro, según evo.
+//   Producción: el Spider se reparte entre las 999 unidades totales del
+//   Valhalla, cerca de una de cada cuatro, según evo.
 //   EuroNCAP: sin prueba publicada para el Valhalla; no se traslada
 //   ninguna puntuación. Mantenimiento y garantía para España:
 //   pendientes de confirmación, declarados así en el texto.
@@ -56,11 +56,11 @@ Hay descapotables que nacen recortando un techo y otros que nacen repensando el 
 | **Cambio** | DCT de 8 velocidades |
 | **Tracción** | Total, sin conexión mecánica entre ejes |
 | **0-100 km/h** | 2,5 s (como el coupé) |
-| **Velocidad máxima** | 350 km/h sin techo y con techo duro; 200 km/h con la capota de tela |
-| **Peso** | 1.680 kg en seco (con opciones ligeras), 25 kg más que el coupé |
+| **Velocidad máxima** | 350 km/h con la carrocería abierta o con techo duro; 200 km/h con la capota de tela |
+| **Peso** | 1.680 kg en seco (con opciones ligeras): 25 kg por encima del coupé |
 | **Plazas** | 2 |
 | **Techos** | Tela desmontable de serie; techo duro de carbono en opción |
-| **Producción** | Dentro de las 999 unidades del Valhalla; alrededor de 1 de cada 4 será Spider |
+| **Producción** | Incluido en las 999 unidades del Valhalla; en torno a una de cada cuatro será Spider |
 | **Entregas** | Desde el tercer trimestre de 2027 |
 | **Precio** | Sin precio oficial; estimación británica de unas 935.000 libras |
 | **Etiqueta DGT** | ECO (híbrido enchufable, como el coupé) |
@@ -69,17 +69,17 @@ Hay descapotables que nacen recortando un techo y otros que nacen repensando el 
 
 ## Presentación oficial: 28 de octubre de 2026, Gaydon
 
-Aston Martin presentó el Valhalla Spider el 28 de octubre de 2026 desde Gaydon, su sede británica, como la variante abierta de un coche que ya había roto moldes en la marca: su primer superdeportivo de producción con motor central, su primer híbrido enchufable y el primero con su V8 de cigüeñal plano diseñado a medida. El Spider no es un ejercicio de estilo para un salón: es un modelo de producción, con entregas previstas a partir del tercer trimestre de 2027, y su debut público está programado para el fin de semana siguiente a la presentación, en el Concours de Wynn Las Vegas, un escenario elegido a conciencia porque Estados Unidos será, según evo, el mayor mercado del coche. Antes de la presentación pública ya se habían celebrado visionados privados para clientes, lo que explica que un coche de este precio y esta exclusividad llegue al público con parte de su producción ya comprometida en la práctica, aunque Aston Martin no haya publicado cifras de pedidos.
+Aston Martin presentó el Valhalla Spider el 28 de octubre de 2026 desde Gaydon, su sede británica, como la variante abierta de un coche que ya había roto moldes en la marca: su primer superdeportivo de producción con motor central, su primer híbrido enchufable y el primero con su V8 de cigüeñal plano diseñado a medida. El Spider no es un ejercicio de estilo para un salón: es un modelo de producción, con entregas previstas a partir del tercer trimestre de 2027, y su debut público está programado para el fin de semana siguiente a la presentación, en el Concours de Wynn Las Vegas, un escenario elegido a conciencia porque Estados Unidos será, según evo, el mayor mercado del coche. Antes de la presentación pública hubo pases privados para clientes, así que un coche de este precio y esta exclusividad llega al público con parte de su producción ya comprometida de facto, aunque Aston Martin no ha dado cifras de pedidos.
 
 El contexto importa. El Valhalla coupé se presentó como el Aston Martin más potente de la historia y como la respuesta británica al Ferrari F80 y al McLaren W1, con una producción limitada a 999 unidades en total. El Spider no amplía esa cifra: forma parte de esas 999 unidades, y según evo representará alrededor de una de cada cuatro, lo que lo sitúa en el entorno de las 250 unidades si esa proporción se cumple. No es un número oficial cerrado, y conviene decirlo así: Aston Martin confirma el total de 999 Valhalla, y evo aporta la proporción aproximada de Spider. En cualquier caso, hablamos de un coche que se contará por centenares en todo el mundo, no por miles, y que en España se verá con cuentagotas, si es que llega alguna unidad a nuestras carreteras fuera de concentraciones y eventos.
 
 ## El techo: tres soluciones y una velocidad distinta para cada una
 
-La primera pregunta que hay que hacerse ante un descapotable de 1.079 CV es qué pasa con el techo, y aquí la respuesta tiene tres partes. De serie, el Spider lleva una capota de tela negra desmontable y guardable, pensada para llevarla en el coche y montarla si cambia el tiempo. En opción, hay un techo duro de fibra de carbono, que es el que permite exprimir el coche al máximo con el techo puesto. Y además se suministra una cubierta para la lluvia, solo para uso en parado, para proteger el interior si el coche queda aparcado y empieza a llover. No es un techo eléctrico que se pliega con un botón: son paneles que se quitan y se guardan, una solución más propia de un hiperdeportivo que de un gran turismo, y que tiene una consecuencia práctica que hay que conocer antes de enamorarse del coche.
+La primera pregunta que hay que hacerse ante un descapotable de 1.079 CV es qué pasa con el techo, y aquí la respuesta tiene tres partes. De serie incorpora una capota de tela negra que se desmonta y se puede guardar a bordo, concebida para llevarla encima y colocarla si el tiempo cambia. En opción, hay un techo duro de fibra de carbono, que es el que permite exprimir el coche al máximo con el techo puesto. Y además se suministra una cubierta para la lluvia, solo para uso en parado, para proteger el interior si el coche queda aparcado y empieza a llover. No es un techo eléctrico que se pliega con un botón: son paneles que se quitan y se guardan, una solución más propia de un hiperdeportivo que de un gran turismo, y que tiene una consecuencia práctica que hay que conocer antes de enamorarse del coche.
 
 Esa consecuencia es el espacio. El Valhalla no tiene maletero útil, ni en el coupé ni en el Spider, y los techos desmontables se guardan detrás del asiento del acompañante, lo que recorta su recorrido. A cambio, los ingenieros encontraron un hueco donde nadie lo esperaba: dos compartimentos de 15 litros en los umbrales de las puertas, uno a cada lado, donde cabe la cubierta de lluvia plegada, además del botiquín o el triángulo de emergencia. Los paneles del deflector de viento, del que hablaremos enseguida, se pliegan en tres partes y también caben ahí. Es ingeniería de aprovechamiento al milímetro, propia de un coche en el que cada litro de volumen interior está disputado por la mecánica, la batería y la aerodinámica.
 
-La velocidad máxima depende del techo que lleves, y aquí no hay letra pequeña que esconder. Sin techo, el Spider llega a 350 km/h, la misma cifra que el coupé y que con el techo duro de carbono puesto. Con la capota de tela montada, la máxima queda limitada automáticamente a 200 km/h. No es un capricho: una capota de tela a 350 km/h es un problema de seguridad y de durabilidad, y Aston Martin lo resuelve con un límite electrónico claro. Quien compre el Spider para ir a 350 km/h tendrá que hacerlo sin techo o con el techo duro; quien lo compre para viajar con la capota puesta tiene 200 km/h de sobra para cualquier carretera del mundo, y la tranquilidad de que el coche no le dejará pasar de ahí con la tela montada.
+La velocidad máxima depende del techo que lleves, y aquí no hay letra pequeña que esconder. A cielo abierto el Spider alcanza 350 km/h, igual que el coupé y que con el techo duro de carbono colocado. Con la capota de tela puesta, el límite baja de forma automática a 200 km/h. No es un capricho: una capota de tela a 350 km/h es un problema de seguridad y de durabilidad, y Aston Martin lo resuelve con un límite electrónico claro. Quien compre el Spider para ir a 350 km/h tendrá que hacerlo sin techo o con el techo duro; quien lo compre para viajar con la capota puesta tiene 200 km/h de sobra para cualquier carretera del mundo, y la tranquilidad de que el coche no le dejará pasar de ahí con la tela montada.
 
 <img src=/media/aston-martin-valhalla-spider-2027-precio-ficha-tecnica-oficial.webp alt=Aston Martin Valhalla Spider de frente, descapotado, circulando por una carretera de montaña>
 
@@ -135,11 +135,11 @@ Frente a sus rivales descapotables, el Spider juega una carta que ninguno puede 
 
 | ✅ Pros | ❌ Contras |
 |---|---|
-| 1.079 CV y 350 km/h sin techo: el descapotable más rápido de Aston Martin | Sin precio oficial: la estimación británica ronda las 935.000 libras, un ~40 % más que el coupé |
-| Techo de tela desmontable de serie y techo duro de carbono en opción, sin renunciar a la máxima | Sin maletero útil: los techos se guardan detrás del asiento del acompañante |
-| Solo 25 kg más en seco que el coupé (1.680 kg), gracias al monocasco de carbono | Con la capota de tela, la máxima baja a 200 km/h; sin deflector, solo velocidad de aparcamiento |
-| Más de 600 kg de carga aerodinámica con techo puesto, con aerodinámica activa recalibrada | Sin prueba EuroNCAP publicada para el Valhalla; mantenimiento y garantía para España pendientes |
-| Dentro de las 999 unidades del Valhalla: alrededor de una de cada cuatro será Spider | Entregas desde el tercer trimestre de 2027: casi un año de espera desde la presentación |
+| 1.079 CV y 350 km/h a cielo abierto: el descapotable más veloz de Aston Martin | Sin precio oficial: evo estima unas 935.000 libras, cerca de un 40 % más que el coupé |
+| Capota de tela desmontable de serie y techo duro de carbono opcional, sin perder velocidad punta | Sin maletero aprovechable: los techos se almacenan tras el asiento del copiloto |
+| Apenas 25 kg más que el coupé en seco (1.680 kg) por su monocasco de carbono | Con la capota de tela la punta cae a 200 km/h; sin deflector solo se puede circular a velocidad de aparcamiento |
+| Más de 600 kg de carga aerodinámica con el techo colocado y aerodinámica activa reajustada | No hay prueba EuroNCAP del Valhalla; mantenimiento y garantía en España, por confirmar |
+| Forma parte de las 999 unidades del Valhalla: en torno a una de cada cuatro será Spider | Entregas a partir del tercer trimestre de 2027: casi un año tras la presentación |
 
 ## Lo que todavía falta por confirmar
 
@@ -149,7 +149,7 @@ Un artículo honesto no termina sin decir lo que no sabe, y en el caso del Spide
 |---|---|
 | Presentación oficial el 28/10/2026 en Gaydon; debut en el Concours de Wynn Las Vegas | Precio oficial en Reino Unido y en España, y tarifa de opciones |
 | 1.079 CV, 1.100 Nm, V8 de 828 CV + 3 motores eléctricos, DCT de 8 velocidades | Número exacto de Spider dentro de las 999 unidades del Valhalla |
-| 350 km/h sin techo y con techo duro; 200 km/h con la capota de tela | Autonomía eléctrica y consumo homologados propios del Spider |
+| 350 km/h con la carrocería abierta o con techo duro; 200 km/h con la capota de tela | Autonomía eléctrica y consumo homologados propios del Spider |
 | 1.680 kg en seco, 25 kg más que el coupé; más de 600 kg de carga con techo | Prueba EuroNCAP del Valhalla |
 | Entregas desde el tercer trimestre de 2027 | Plan de mantenimiento y garantía para España |
 | Snorkel 35 mm más alto, deflector de viento y huecos de 15 litros en los umbrales | Equipamiento de serie y opciones para el mercado español |
@@ -169,13 +169,13 @@ Las entregas empiezan en el **tercer trimestre de 2027**, tras su debut público
 El Spider forma parte de las **999 unidades totales** del Valhalla. Según evo, alrededor de una de cada cuatro Valhalla será Spider, pero Aston Martin no ha confirmado una cifra exacta para la variante abierta.
 
 ### ¿Qué techo lleva el Valhalla Spider?
-De serie, una **capota de tela negra desmontable y guardable**; en opción, un **techo duro de fibra de carbono**. Además incluye una cubierta para la lluvia solo para uso en parado. Los techos se guardan detrás del asiento del acompañante, y el deflector de viento es obligatorio para circular con el techo quitado.
+De serie, una **capota de tela negra desmontable y guardable**; en opción, un **techo duro de fibra de carbono**. Incluye además una funda contra la lluvia, solo válida con el coche parado. Los techos viajan tras el asiento del copiloto, y para circular sin techo es obligatorio montar el deflector de viento.
 
 ### ¿Tiene prueba EuroNCAP el Valhalla Spider?
 No hay **ninguna prueba EuroNCAP publicada** para el Valhalla, ni coupé ni Spider, y por eso la ficha no muestra estrellas. Cuando EuroNCAP lo pruebe, se añadirá el resultado.
 
 Si te han puesto una multa circulando con un coche así, antes de pagarla <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 
-*Fuentes: <a href=https://media.astonmartin.com/?p=79545>nota oficial de Aston Martin — Valhalla Spider, 28/10/2026, Gaydon (1.079 CV, 1.100 Nm, V8 de 828 CV + 3 motores eléctricos con 251 CV, 350 km/h con y sin techo, 200 km/h con la capota de tela, snorkel 35 mm más alto, deflector de viento, huecos de 15 litros, más de 600 kg de carga, entregas en el tercer trimestre de 2027, debut en el Concours de Wynn Las Vegas)</a> · <a href=https://www.evo.co.uk/aston-martin/valhalla/209231/new-aston-martin-valhalla-spider-ferraris-849-testarossa-spider-has-a>evo, 28/10/2026 (999 unidades en total, alrededor de 1 de cada 4 Spider, unos 4 años de desarrollo, 1.680 kg en seco frente a 1.655 kg del coupé, estimación de unas 935.000 libras con un ~40 % más que el coupé, Estados Unidos como mayor mercado)</a> · <a href=https://www.autonocion.com/aston-martin-valhalla-spider/>Autonoción — Valhalla Spider (techo de tela, 350 km/h, descapotable más rápido de la marca)</a> · <a href=https://www.elperiodico.digital/deportes/aston-martin-lleva-la-f1-al-descapotable-de-1-079-cv-519942.html>El Periódico Digital — el descapotable de 1.079 CV con primeras entregas en 2027</a> · <a href=/coches/aston-martin-valhalla-2025-precio-ficha-tecnica/>ficha del Valhalla coupé en esta web (1.079 CV, 2,5 s, 350 km/h, 999 unidades, desde ~1.000.000 €)</a>. Fotos: prensa del Valhalla Spider exacto, verificadas visualmente (exterior descapotado en las tres; la vista cenital muestra el habitáculo abierto, ya que las fotos de prensa difundidas son exteriores). Pendientes declarados en el texto: precio oficial, número exacto de Spider, homologación propia del Spider, EuroNCAP, mantenimiento y garantía para España.*`,
+*Fuentes: <a href=https://media.astonmartin.com/?p=79545>nota oficial de Aston Martin — Valhalla Spider, 28/10/2026, Gaydon (1.079 CV y 1.100 Nm; V8 de 828 CV más tres motores eléctricos con 251 CV; 350 km/h con o sin techo; 200 km/h con la capota de tela; snorkel 35 mm más alto; deflector de viento; huecos de 15 litros; más de 600 kg de carga; entregas en el tercer trimestre de 2027; debut en el Concours de Wynn de Las Vegas)</a> · <a href=https://www.evo.co.uk/aston-martin/valhalla/209231/new-aston-martin-valhalla-spider-ferraris-849-testarossa-spider-has-a>evo, 28/10/2026 (999 unidades en total, alrededor de 1 de cada 4 Spider, unos 4 años de desarrollo, 1.680 kg en seco frente a 1.655 kg del coupé, estimación de unas 935.000 libras con un ~40 % más que el coupé, Estados Unidos como mayor mercado)</a> · <a href=https://www.autonocion.com/aston-martin-valhalla-spider/>Autonoción — Valhalla Spider (techo de tela, 350 km/h, descapotable más rápido de la marca)</a> · <a href=https://www.elperiodico.digital/deportes/aston-martin-lleva-la-f1-al-descapotable-de-1-079-cv-519942.html>El Periódico Digital — el descapotable de 1.079 CV con primeras entregas en 2027</a> · <a href=/coches/aston-martin-valhalla-2025-precio-ficha-tecnica/>ficha del Valhalla coupé en esta web (1.079 CV, 2,5 s, 350 km/h, 999 unidades, desde ~1.000.000 €)</a>. Fotos: prensa del Valhalla Spider exacto, verificadas visualmente (exterior descapotado en las tres; la vista cenital muestra el habitáculo abierto, ya que las fotos de prensa difundidas son exteriores). Pendientes declarados en el texto: precio oficial, número exacto de Spider, homologación propia del Spider, EuroNCAP, mantenimiento y garantía para España.*`,
   },
 ];

@@ -35,7 +35,7 @@ export const RADAR_20261026_POSTS: BlogPost[] = [
 
 **Ficha completa del modelo:** <a href=/coches/bmw-ix4-electrico-2026/>BMW iX4 — ficha técnica, precio y autonomía</a>
 
-El configurador español del BMW iX4 ya está abierto. BMW ha publicado este lunes 26 de octubre de 2026 las tarifas oficiales para España de su nuevo SUV coupé eléctrico de la familia Neue Klasse, y el dato que faltaba desde la presentación del 9 de octubre ya está sobre la mesa: el iX4 arranca en nuestro mercado en **71.850 euros**. Las primeras entregas están previstas para **marzo de 2027**, así que quien lo reserve ahora está comprando un coche que todavía tardará unos meses en llegar al concesionario, pero con el precio ya cerrado en el configurador.
+El configurador español del BMW iX4 ya está abierto. BMW ha publicado este lunes 26 de octubre de 2026 las tarifas oficiales para España de su nuevo SUV coupé eléctrico de la familia Neue Klasse, y el dato que faltaba desde la presentación del 9 de octubre ya está sobre la mesa: el iX4 arranca en nuestro mercado en **71.850 euros**. Las entregas iniciales se anuncian para **marzo de 2027**, de modo que quien lo reserve hoy compra un coche que aún tardará unos meses en llegar a la red, aunque con el precio ya fijado en el configurador.
 
 Hasta ahora, la única referencia de precio que manejábamos en España era la alemana: 70.900 euros para el 40 xDrive y 75.900 para el 50 xDrive, tal como contamos en el <a href=/blog/bmw-ix4-2027-presentacion-oficial/>blog de la presentación del iX4</a>. La tarifa española sube respecto a Alemania, pero no de forma uniforme: el acceso sube 950 euros y la versión de batería grande sube 2.300. Ese detalle importa, porque cambia la recomendación entre una versión y otra, como verás más abajo.
 
@@ -113,7 +113,7 @@ Hasta **828 km en ciclo WLTP** en el 50 xDrive (batería de 108,7 kWh útiles). 
 
 ### ¿Cuánto tarda en cargar el BMW iX4?
 
-El 50 xDrive carga hasta 400 kW en continua, recupera **387 km en 10 minutos** y pasa del 10 al 80 % en 21 minutos en condiciones adecuadas. El 40 xDrive carga hasta 300 kW.
+El 50 xDrive admite hasta 400 kW en corriente continua, repone **387 km en 10 minutos** y completa del 10 al 80 % en 21 minutos si las condiciones son favorables. El 40 xDrive carga hasta 300 kW.
 
 ### ¿Cuándo llega el BMW iX4 a España?
 
@@ -149,7 +149,7 @@ El 40 xDrive cuesta 950 euros más en España (71.850 frente a 70.900 €) y el 
 
 *El XPeng Mona L05 en su imagen oficial de lanzamiento global: SUV de 4,87 m, puertas sin marco y llantas bitono. Foto: XPeng, vía CnEVPost (licencia desconocida).*
 
-XPeng no ha esperado a presentar su nuevo SUV en casa para ponerlo rumbo al resto del mundo. La marca china anunció el lunes 26 de octubre, en Weibo, que ya ha iniciado los envíos globales del Mona L05, un SUV de cinco plazas que todavía no se ha lanzado oficialmente en China: su presentación comercial está fijada para el 29 de octubre. El plan declarado es venderlo en 65 países y regiones, una cifra que lo convierte, desde el primer día, en el modelo de la gama Mona con vocación más internacional. No es un anuncio de intenciones lejano: los coches ya están en camino, y la propia XPeng subraya que ha desarrollado en paralelo las versiones con volante a la izquierda y a la derecha, el paso imprescindible para vender el mismo modelo en Europa continental y en mercados como Reino Unido o Australia sin rediseñarlo después.
+XPeng no ha esperado a presentar su nuevo SUV en casa para ponerlo rumbo al resto del mundo. La marca china anunció el lunes 26 de octubre, en Weibo, que ya ha iniciado los envíos globales del Mona L05, un SUV de cinco plazas que todavía no se ha lanzado oficialmente en China: su presentación comercial está fijada para el 29 de octubre. El plan declarado es venderlo en 65 países y regiones, una cifra que lo convierte, desde el primer día, en el modelo de la gama Mona con vocación más internacional. No se trata de una declaración de intenciones a largo plazo: los coches ya van de camino, y la propia XPeng recalca que ha desarrollado a la vez las versiones con volante a la izquierda y a la derecha, requisito indispensable para vender un mismo modelo en la Europa continental y en mercados como Reino Unido o Australia sin tener que rediseñarlo más tarde.
 
 La noticia importa en España por una razón sencilla: XPeng ya vende aquí, y la familia Mona es la que la marca usa para bajar el precio de entrada sin renunciar a la tecnología. El L05 se sitúa por encima del L03, el SUV compacto que llegó a España en octubre, y por encima también de la berlina M03, el primer Mona. Es, en la práctica, el SUV familiar de la gama joven de XPeng: más grande, con más maletero y con dos formas muy distintas de moverse, eléctrica pura o de autonomía extendida, al mismo precio de partida en China. Eso sí, y conviene dejarlo claro desde el primer párrafo: a 26 de octubre no hay precio, ni fecha, ni lista de versiones para Europa o España. Todo lo que sigue sobre precios en euros es una conversión aproximada del precio chino, y las autonomías son cifras del ciclo chino CLTC, no del WLTP europeo. Cuando XPeng publique la ficha europea, esas dos cifras cambiarán, y este artículo habrá que actualizarlo.
 
@@ -169,12 +169,12 @@ El Mona L05 es el tercer modelo de la serie Mona, tras la berlina M03 y el SUV c
 | Batalla | 2.940 mm |
 | Plazas | 5 |
 | Motor | Un motor trasero de 183 kW (249 CV) |
-| Batería BEV | 58,2 o 71,1 kWh LFP |
+| Batería (eléctrico puro) | 58,2 o 71,1 kWh, química LFP |
 | Batería EREV | 37,2 kWh LFP + motor 1.5 de gasolina como generador |
 | Autonomía BEV (CLTC) | 535 o 635 km según versión |
 | Autonomía EREV (CLTC) | 310 km eléctrica + 1.310 km combinada |
 | Maletero | 702 litros (1.913 litros con asientos abatidos) + 102 litros delanteros |
-| Pantallas | Central de 17,3 pulgadas y HUD de 26,8 pulgadas |
+| Pantallas | Táctil central de 17,3 pulgadas; HUD de 26,8 pulgadas |
 | Precio en China (preventa) | 169.800-191.800 yuanes |
 
 El diseño sigue el lenguaje Starship de la marca, con una parrilla activa integrada en el paragolpes delantero, puertas sin marco, espejos flotantes, llantas bitono y unas pinzas de freno amarillas que XPeng enseña sin disimulo. Detrás, la firma luminosa Star Ring recorre todo el portón con más de 300 ledes grabados por láser. No es un coche discreto: es un SUV que quiere que se le reconozca de noche, y que apuesta por una silueta de SUV coupé sin renunciar a un maletero de verdad, con 702 litros de serie y 1.913 litros con los asientos traseros abatidos, más un maletero delantero de 102 litros. Para una familia, esa combinación de maletero trasero grande y hueco delantero para los cables de carga es más útil que cualquier cifra de potencia.
@@ -183,14 +183,14 @@ El diseño sigue el lenguaje Starship de la marca, con una parrilla activa integ
 
 La decisión más interesante del L05 es que no obliga a elegir entre eléctrico y gasolina: ofrece las dos cosas con el mismo motor y el mismo precio de partida. Todas las versiones usan un único motor trasero de 183 kW, que con la conversión que usa esta web (kW por 1,36) equivale a 249 CV. A partir de ahí, el comprador chino elige entre una batería grande y un extensor de autonomía, y esa elección cambia por completo el uso del coche.
 
-La versión eléctrica pura usa baterías de litio-ferrofosfato (LFP), más baratas y estables que las de níquel, en dos tamaños: 58,2 kWh en la versión de acceso y 71,1 kWh en las dos superiores. Con la pequeña, la autonomía CLTC es de 535 km; con la grande, de 635 km. La versión de autonomía extendida, en cambio, combina una batería LFP de 37,2 kWh con un motor de gasolina de 1,5 litros y 70 kW que solo genera electricidad, nunca mueve las ruedas. Así recorre 310 km en modo eléctrico CLTC y hasta 1.310 km combinando batería y depósito. Es la fórmula que ya usa el L03 en España, pero con más batería, más autonomía eléctrica y más autonomía total.
+La versión eléctrica pura usa baterías de litio-ferrofosfato (LFP), más baratas y estables que las de níquel, en dos tamaños: 58,2 kWh en la versión de acceso y 71,1 kWh en las dos superiores. Con la pequeña, la autonomía CLTC es de 535 km; con la grande, de 635 km. La variante de autonomía extendida, por contra, junta una batería LFP de 37,2 kWh con un motor de gasolina de 1,5 litros y 70 kW cuya única función es generar electricidad, sin transmitir nunca tracción a las ruedas. El resultado: 310 km en eléctrico según CLTC y hasta 1.310 km sumando batería y depósito. Es la fórmula que ya usa el L03 en España, pero con más batería, más autonomía eléctrica y más autonomía total.
 
 | Versión (preventa en China) | Sistema | Batería | Autonomía CLTC | Precio en China |
 |---|---|---|---|---|
 | 535 Max | Eléctrico puro | 58,2 kWh LFP | 535 km | 169.800 yuanes |
-| 635 Max | Eléctrico puro | 71,1 kWh LFP | 635 km | 179.800 yuanes |
+| 635 Max | Eléctrico puro | batería LFP de 71,1 kWh | 635 km | 179.800 yuanes |
 | 635 Ultra SE | Eléctrico puro | 71,1 kWh LFP | 635 km | 191.800 yuanes |
-| 1310 Max | Autonomía extendida | 37,2 kWh LFP + 1.5 gasolina | 310 km eléctrica / 1.310 km combinada | 169.800 yuanes |
+| 1310 Max | Autonomía extendida | LFP de 37,2 kWh + gasolina 1.5 | 310 km en eléctrico / 1.310 km en total | 169.800 yuanes |
 | 1310 Ultra SE | Autonomía extendida | 37,2 kWh LFP + 1.5 gasolina | 310 km eléctrica / 1.310 km combinada | 181.800 yuanes |
 
 Hay que advertir de una discrepancia entre fuentes que conviene no esconder. CarNewsChina, al recoger los datos de homologación china, cita para el eléctrico variantes de 615, 635, 640 y 660 km CLTC, mientras que la hoja de preventa que recoge CnEVPost solo ofrece 535 y 635 km en las cinco versiones a la venta. La lectura honesta es que la homologación admite más combinaciones de las que XPeng ha puesto a la venta en preventa, y que la cifra que debe usar un comprador hoy es la de su versión concreta, no la máxima de la gama. En este artículo, la autonomía de referencia del eléctrico es 635 km CLTC, la de las versiones 635, y la del extensor es 1.310 km combinados. Ninguna de las dos es WLTP: en ciclo europeo, las cifras serán inferiores, como ocurre con todos los modelos chinos.
@@ -205,7 +205,7 @@ El resultado equivale al 94,77 % de la autonomía CLTC declarada, lo que es un b
 
 Dentro, el L05 apuesta por lo que XPeng mejor sabe vender: pantallas y asientos. La pantalla central mide 17,3 pulgadas y se acompaña de un head-up display de 26,8 pulgadas proyectado en el parabrisas, una combinación que deja el salpicadero casi limpio de botones físicos. La cabina, de diseño envolvente, incluye 22 puntos de expansión para accesorios, desde cámaras de acción hasta soportes, un detalle pensado para compradores jóvenes que usan el coche también como estudio móvil. Los asientos delanteros ofrecen apoyo lumbar y para las piernas, masaje, calefacción y ventilación, y el del acompañante tiene un modo de gravedad cero con un solo toque. Detrás, los pasajeros tienen asientos calefactados, cristales de privacidad, una mesita, una pantalla de entretenimiento también de 17,3 pulgadas, cajones bajo el cojín y un techo panorámico en dos secciones.
 
-Esa lista de equipamiento es la que explica por qué XPeng habla de experiencia de clase superior: en un SUV de este precio en China, lo normal es encontrar pantallas grandes pero asientos sencillos, o asientos cómodos pero tecnología justa. El L05 intenta dar las dos cosas a la vez, y lo hace con una plataforma que, según la marca, se ha desarrollado para cumplir los estándares de 5 estrellas en China, Europa y Australia, con 7 airbags, una estructura de hasta 2.000 MPa y varias capas de protección de la batería. Ojo con ese matiz: desarrollado para 5 estrellas no es lo mismo que probado con 5 estrellas. A 26 de octubre no hay ninguna prueba EuroNCAP publicada del L05, y las referencias a C-NCAP 2024, Euro NCAP 2027 y ANCAP 2027 que aparecen en el material promocional describen los estándares de desarrollo, no calificaciones obtenidas. En la ficha de esta web, EuroNCAP queda por tanto como sin datos, hasta que una prueba real lo confirme o lo desmienta.
+Esa lista de equipamiento es la que explica por qué XPeng habla de experiencia de clase superior: en un SUV de este precio en China, lo normal es encontrar pantallas grandes pero asientos sencillos, o asientos cómodos pero tecnología justa. El L05 aspira a ofrecer ambas cosas, apoyado en una plataforma que, según el fabricante, nació para cumplir los requisitos de 5 estrellas en China, Europa y Australia, con 7 airbags, una estructura de hasta 2.000 MPa y varias capas que protegen la batería. Ojo con ese matiz: desarrollado para 5 estrellas no es lo mismo que probado con 5 estrellas. A 26 de octubre no hay ninguna prueba EuroNCAP publicada del L05, y las referencias a C-NCAP 2024, Euro NCAP 2027 y ANCAP 2027 que aparecen en el material promocional describen los estándares de desarrollo, no calificaciones obtenidas. En la ficha de esta web, EuroNCAP queda por tanto como sin datos, hasta que una prueba real lo confirme o lo desmienta.
 
 ## Precio: qué significa ese 21.500 € y qué no significa
 
@@ -241,7 +241,7 @@ En China, desde 169.800 yuanes en preventa, unos 21.500 € al cambio aproximado
 El eléctrico puro homologa 535 o 635 km en ciclo chino CLTC, según la batería. El de autonomía extendida recorre 310 km en modo eléctrico CLTC y hasta 1.310 km combinando batería y depósito. Ninguna de esas cifras es WLTP.
 
 ### ¿El Mona L05 es eléctrico o híbrido?
-Las dos cosas, según la versión: hay versiones 100 % eléctricas (BEV) y versiones de autonomía extendida (EREV) con un motor de gasolina de 1,5 litros que solo genera electricidad. Todas usan el mismo motor trasero de 183 kW (249 CV).
+Depende de la versión: existen variantes 100 % eléctricas (BEV) y otras de autonomía extendida (EREV) cuyo motor de gasolina de 1,5 litros se limita a producir electricidad. Todas usan el mismo motor trasero de 183 kW (249 CV).
 
 ### ¿Tiene el Mona L05 prueba EuroNCAP?
 No. XPeng dice que se ha desarrollado para cumplir los estándares de 5 estrellas en China, Europa y Australia, con 7 airbags, pero a 26 de octubre de 2026 no hay ninguna calificación EuroNCAP publicada del L05.
@@ -253,6 +253,6 @@ XPeng prevé venderlo en 65 países y regiones y ha desarrollado versiones con v
 
 **¿Te han puesto una multa?** Antes de pagarla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 
-*Fuentes: <a href=https://cnevpost.com/2026/10/26/xpeng-starts-global-shipments-mona-l05/>CnEVPost — envíos globales del Mona L05, 26/10/2026 (anuncio en Weibo, 65 países, 660 vehículos de pruebas, Turing AI, seguridad, precios de preventa)</a>, <a href=https://carnewschina.com/2026/10/15/xpeng-opens-pre-sales-for-mona-l05-ev-and-erev-suv-in-china-starting-from-25300-usd/>CarNewsChina — preventa del Mona L05, 15/10/2026 (versiones, dimensiones, interior, prueba real EREV de 1.194 km, 23/10/2026)</a>, <a href=https://cnevpost.com/2026/10/15/xpeng-opens-mona-l05-pre-sales/>CnEVPost — preventa del Mona L05, 15/10/2026 (precios y versiones, 535/635 km, 1.310 km)</a>, <a href=https://technode.com/2026/10/16/xpeng-opens-mona-l05-suv-presales-from-rmb-169800/>TechNode — preventa del Mona L05, 16/10/2026 (169.800-191.800 yuanes, lanzamiento 29/10)</a>. Precio en euros: conversión aproximada del precio chino, no precio europeo. Autonomías: ciclo CLTC, no WLTP. EuroNCAP: sin prueba publicada a 26/10/2026. Fotos: XPeng, vía CnEVPost y CarNewsChina, licencia desconocida.*`,
+*Fuentes: <a href=https://cnevpost.com/2026/10/26/xpeng-starts-global-shipments-mona-l05/>CnEVPost — envíos globales del Mona L05, 26/10/2026 (anuncio en Weibo, 65 países, 660 vehículos de pruebas, Turing AI, seguridad, precios de preventa)</a>, <a href=https://carnewschina.com/2026/10/15/xpeng-opens-pre-sales-for-mona-l05-ev-and-erev-suv-in-china-starting-from-25300-usd/>CarNewsChina — preventa del Mona L05, 15/10/2026 (versiones, dimensiones, interior, prueba real EREV de 1.194 km, 23/10/2026)</a>, <a href=https://cnevpost.com/2026/10/15/xpeng-opens-mona-l05-pre-sales/>CnEVPost — preventa del Mona L05, 15/10/2026 (precios y versiones, 535/635 km, 1.310 km)</a>, <a href=https://technode.com/2026/10/16/xpeng-opens-mona-l05-suv-presales-from-rmb-169800/>TechNode — preventa del Mona L05, 16/10/2026 (169.800-191.800 yuanes, lanzamiento 29/10)</a>. Importe en euros: equivalencia orientativa del precio en China, no tarifa europea. Autonomías: ciclo CLTC, no WLTP. EuroNCAP: sin prueba publicada a 26/10/2026. Fotos: XPeng, vía CnEVPost y CarNewsChina, licencia desconocida.*`,
   },
 ];

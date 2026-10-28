@@ -28,11 +28,11 @@ export const RADAR_20261024B_POSTS: BlogPost[] = [
     ],
     content: `<img src=/media/renault-clio-rally5-2027-precio-ficha-tecnica-hero.webp alt=Renault Clio VI, base del futuro Clio Rally5 2027, vista tres cuartos delantera en rojo>
 
-*Renault Clio VI: el Rally5 2027 se basará en esta sexta generación, aún sin desvelar. Foto: Renault (prensa; licencia desconocida).*
+*Renault Clio VI, la base del futuro Rally5 2027, que todavía no se ha desvelado. Foto: Renault (prensa; licencia desconocida).*
 
 **Ficha completa:** <a href=/coches/renault-clio-rally5-2027-precio-ficha-tecnica/>Renault Clio Rally5 2027 — ficha técnica, precio y copas monomarca</a>
 
-Renault no piensa soltar el volante de los rallyes de base. La marca del rombo ha anunciado que está preparando el **Clio Rally5 de sexta generación**, su coche de carreras de acceso, y que lo desvelará **en las próximas semanas** junto a los calendarios de competición de 2027. Será el primer Clio de carreras construido sobre la sexta generación del utilitario, presentada en Múnich en septiembre de 2025, y su estreno en los tramos llegará el año que viene: **debutará en competición en Francia en 2027**.
+Renault no piensa soltar el volante de los rallyes de base. Renault confirma que trabaja en el **Clio Rally5 de sexta generación**, su modelo de competición de entrada, y que lo mostrará **dentro de pocas semanas**, en paralelo a los calendarios deportivos de 2027. Será el primer Clio de carreras construido sobre la sexta generación del utilitario, presentada en Múnich en septiembre de 2025, y su estreno en los tramos llegará el año que viene: **debutará en competición en Francia en 2027**.
 
 La noticia, adelantada por AutoHebdo, confirma que Renault mantiene viva una de sus tradiciones más longevas: fabricar coches de rallyes asequibles para que cualquiera con licencia y presupuesto contenido pueda medirse en los tramos. El nuevo Rally5 nace con una ambición clara y un plan por etapas: primero Francia, con **dos copas monomarca** —una sobre asfalto y otra sobre tierra— y después la expansión internacional.
 
@@ -56,7 +56,7 @@ Todo lo demás —precio, potencia, peso, calendario exacto de las copas— sigu
 
 Para situar el coche conviene entender la escalera. La FIA organiza los rallyes en una pirámide de categorías: en la cúspide están los Rally1 del Mundial, y en la base, el **Rally5**. Es la puerta de entrada: coches derivados estrechamente de modelos de serie, con **tracción delantera**, preparaciones contenidas y un reglamento pensado para que el coste de compra y de mantenimiento no se dispare.
 
-Esa contención es la clave de todo. Un Rally5 no pretende ser el coche más rápido del parque cerrado; pretende ser el coche con el que un piloto joven aprende el oficio —notas, ritmo, gestión de neumáticos, estrategia— sin arruinarse en el intento. Por eso las copas monomarca encajan tan bien con la categoría: todos compiten con la misma máquina, el presupuesto se iguala y lo que decide es el talento.
+Esa contención es la clave de todo. La misión de un Rally5 no es ganar en velocidad punta; es ofrecer a un piloto joven una herramienta con la que aprender —notas, ritmo, cuidado de los neumáticos, estrategia— sin que el presupuesto se dispare. Por eso las copas monomarca encajan tan bien con la categoría: todos compiten con la misma máquina, el presupuesto se iguala y lo que decide es el talento.
 
 La versión del reglamento que usará el nuevo Clio será la **actualizada para 2027**, según confirma el anuncio. Es un detalle relevante: quien compre uno de los primeros Rally5 de sexta generación lo hará con una homologación recién estrenada, no con un reglamento a punto de caducar.
 
@@ -70,7 +70,7 @@ El kit de prensa oficial de Renault detalla sus cifras: **4,116 metros de largo,
 
 *Renault Clio VI: el Rally5 2027 se basará en esta sexta generación, aún sin desvelar. Foto: Renault (prensa; licencia desconocida).*
 
-Ojo: el Rally5 de carreras no llevará el sistema híbrido. La categoría impone mecánicas térmicas derivadas de la serie con preparación limitada, así que lo esperable es un motor de gasolina turbo de la familia del Clio con la electrónica, la jaula, las suspensiones y los frenos propios de un coche de rallyes. Cuál exactamente, con qué potencia y con qué peso mínimo: eso forma parte de lo que Renault desvelará en las próximas semanas.
+Ojo: el Rally5 de carreras no llevará el sistema híbrido. La categoría impone mecánicas térmicas derivadas de la serie con preparación limitada, así que lo esperable es un motor de gasolina turbo de la familia del Clio con la electrónica, la jaula, las suspensiones y los frenos propios de un coche de rallyes. Qué motor llevará, cuánta potencia entregará y cuál será su peso mínimo son datos que la marca todavía no ha dado a conocer.
 
 ## Sesenta años de copas monomarca: del Renault 8 Gordini al Clio Trophy
 
@@ -124,7 +124,7 @@ Actualizaremos la ficha en cuanto Renault publique los datos. Mientras tanto, lo
 
 ### ¿Cuándo se desvelará el Renault Clio Rally5 2027?
 
-Renault lo presentará en las próximas semanas, junto a los calendarios de competición de 2027. El anuncio lo ha adelantado AutoHebdo el 24 de octubre de 2026. Su debut en los tramos está previsto para 2027, con una primera temporada disputada exclusivamente en Francia.
+La presentación oficial llegará en breve, acompañada del calendario de pruebas de 2027. El anuncio lo ha adelantado AutoHebdo el 24 de octubre de 2026. Su debut en los tramos está previsto para 2027, con una primera temporada disputada exclusivamente en Francia.
 
 ### ¿Cuánto costará el Renault Clio Rally5?
 
@@ -132,7 +132,7 @@ Aún no hay precio oficial. Renault no ha publicado la tarifa y todo lo que circ
 
 ### ¿Qué potencia tendrá el Clio Rally5?
 
-Tampoco está confirmada. Será un coche de gasolina con preparación de carreras según el reglamento FIA Rally5 actualizado para 2027, pero Renault no ha desvelado ni la mecánica concreta ni sus cifras. En cuanto haya datos oficiales, actualizaremos la ficha.
+Tampoco está confirmada. Se espera un coche de gasolina preparado para carreras bajo la normativa FIA Rally5 que se aplicará en 2027, aunque Renault no ha detallado ni su mecánica concreta ni sus cifras. En cuanto haya datos oficiales, actualizaremos la ficha.
 
 ### ¿Qué es la categoría FIA Rally5?
 
@@ -172,13 +172,13 @@ Dos copas monomarca en Francia durante su primera temporada: una sobre asfalto y
 
 *Foto: Audi / Spotify (prensa; licencia desconocida). La app nativa de Spotify instalada desde el Audi Application Store, integrada en la pantalla central del MMI.*
 
-Llegar al coche, sentarse y que la música suene sola. Sin cable, sin Bluetooth, sin pelearte con el móvil cada mañana. Eso es exactamente lo que prometen Spotify y Audi con el lanzamiento del **21 de octubre de 2026**: la primera **app nativa de Spotify diseñada para el coche**, que se ejecuta directamente sobre el sistema de infoentretenimiento del vehículo y que Audi estrenó en exclusiva mundial desde su **Audi Application Store**, disponible tanto para usuarios **Free** como **Premium** en **47 mercados** (datos del newsroom de Spotify y de la sala de prensa de Audi).
+Llegar al coche, sentarse y que la música suene sola. Sin cable, sin Bluetooth, sin pelearte con el móvil cada mañana. Esa es la promesa de Spotify y Audi con la novedad del **21 de octubre de 2026**: la primera **app nativa de Spotify pensada para el coche**, que funciona directamente en el sistema de infoentretenimiento del vehículo y que Audi estrenó en exclusiva mundial a través de su **Audi Application Store**, para usuarios **Free** y **Premium** de **47 mercados** (datos del newsroom de Spotify y de la sala de prensa de Audi).
 
 La diferencia con todo lo que existía hasta ahora es de fondo, no de forma. Hasta la fecha, llevar Spotify al coche pasaba por la proyección del teléfono —CarPlay, Android Auto o la pantalla auxiliar del coche como un mero espejo—. Esta nueva app es otra cosa: corre instalada en el propio MMI del Audi, se integra con sus pantallas, sus altavoces y sus controles de voz, y la sesión queda vinculada al coche. Te sientas, arrancas y la reproducción arranca donde la dejaste.
 
 ## El móvil deja de ser el mando del coche
 
-El gesto más rompedor de la app es lo que elimina. El comunicado de Spotify lo dice con claridad: **no necesitas cable ni emparejar el teléfono por Bluetooth para reproducir**. El móvil sí aparece una vez en todo el proceso —para iniciar sesión, escaneando un **código QR** en la pantalla del coche o entrando en spotify.com/pair con el código que muestra el vehículo—, pero después de eso la reproducción es autónoma: la maneja el propio coche a través de su conexión.
+El gesto más rompedor de la app es lo que elimina. El comunicado de Spotify lo dice con claridad: **no necesitas cable ni emparejar el teléfono por Bluetooth para reproducir**. El teléfono interviene una sola vez —para iniciar sesión, ya sea escaneando un **código QR** en la pantalla del coche o introduciendo en spotify.com/pair el código que enseña el vehículo—; a partir de ahí la música se reproduce sin él, gestionada por el propio coche mediante su conexión.
 
 Esto resuelve tres dolores de cabeza cotidianos del conductor conectado. Primero, la batería del teléfono: si Spotify corre en el coche, tu móvil ya no está transmitiendo por Bluetooth ni manteniendo la pantalla encendida. Segundo, la entrada al vehículo deja de ser un ritual de conexiones y desconexiones cada vez que entras y sales con prisas. Y tercero, la app se convierte en una herramienta de la familia: con la función **Spotify Jam**, los acompañantes escanean un QR en pantalla y se unen a una sesión compartida, añadiendo canciones a una cola común directamente desde sus propios teléfonos.
 
@@ -186,7 +186,7 @@ La letra pequeña existe y conviene leerla: Spotify avisa de que **"el paquete A
 
 ## Lo que anunció Spotify el 21 de octubre de 2026
 
-El anuncio lo hizo la propia Spotify en su newsroom el **21 de octubre de 2026**, con el titular "Spotify's New In-Car App Is Available for Audi Vehicles Starting Today". La compañía lo presenta como su **app de nueva generación para el coche** ("next-generation in-car app"), construida expresamente para el entorno del automóvil y no como una adaptación de la del teléfono.
+El anuncio lo hizo la propia Spotify en su newsroom el **21 de octubre de 2026**, con el titular "Newsroom de Spotify: app nativa para vehículos Audi (21/10/2026)". La compañía lo presenta como su **app de nueva generación para el coche** ("next-generation in-car app"), construida expresamente para el entorno del automóvil y no como una adaptación de la del teléfono.
 
 Tres ideas definen el producto en palabras de Spotify. La primera, que **la experiencia se adapta a la conducción**: con el vehículo en movimiento, la pantalla central restringe vídeo y letras para mantener la atención del conductor en la carretera, y el control pasa a ser manos libres por voz con navegación simplificada. La segunda, que al aparcar —incluido mientras cargas un eléctrico— la pantalla principal ofrece **vídeopodcasts y vídeos musicales a pantalla completa, con letras en tiempo real**. Y la tercera, que la app habla con las dos voces del coche: puedes usar los controles nativos con **"Hey Audi"** o hablar directamente con el **DJ de Spotify** para darle forma a lo que suena a continuación.
 
@@ -206,16 +206,16 @@ Sobre la magnitud del socio, Audi aporta un dato de contexto: describe a Spotify
 
 ## Modelos compatibles y calendario: la tabla
 
-La disponibilidad inicial cubre **cinco modelos** de Audi del **año modelo 2026**, todos descargables desde el Audi Application Store desde el 21 de octubre de 2026 (según el newsroom de Spotify). La marca añade que **la disponibilidad puede variar por vehículo y mercado**.
+En esta primera fase, la app llega a **cinco modelos** Audi del **año modelo 2026**, que pueden descargarla en el Audi Application Store desde el 21 de octubre de 2026 (según el newsroom de Spotify). Audi precisa que **el acceso depende de cada vehículo y de cada mercado**.
 
 | Modelo | Arquitectura | Estado |
 |---|---|---|
-| A6 e-tron | PPE (eléctrica) | ✅ Disponible desde el 21/10/2026 |
+| A6 e-tron | PPE (eléctrica) | ✅ Ya disponible (21/10/2026) |
 | Q6 e-tron | PPE (eléctrica) | ✅ Disponible desde el 21/10/2026 |
-| A5 | PPC (combustión) | ✅ Disponible desde el 21/10/2026 |
-| Q5 | PPC (combustión) | ✅ Disponible desde el 21/10/2026 |
+| A5 | PPC (combustión) | ✅ Descarga abierta desde el 21/10/2026 |
+| Q5 | PPC (combustión) | ✅ Activa desde el 21/10/2026 |
 | A6 | PPC (combustión) | ✅ Disponible desde el 21/10/2026 |
-| Q7 | Pendiente de confirmación | ⏳ Llegará con su lanzamiento al mercado |
+| Q7 | Pendiente de confirmación | ⏳ Se sumará cuando salga a la venta |
 | Q9 | Pendiente de confirmación | ⏳ Llegará con su lanzamiento al mercado |
 
 Audi anuncia que los próximos SUV **Q7** y **Q9** la incorporarán cuando lleguen al mercado, y Spotify anticipa que durante **el próximo año** extenderá la app a más socios automovilísticos en todo el mundo. Audi es la primera marca; el resto del tablero se repartirá en 2027.
@@ -246,7 +246,7 @@ La app está diseñada para cambiar de comportamiento según el estado del coche
 - Funciones de inicio de sesión y ajustes **no disponibles** mientras se conduce
 - Los controles relacionados desaparecen de la vista "reproduciendo"
 - **Sí funcionan**: controles de voz ("Hey Audi" y Spotify DJ), navegación simplificada
-- En vehículos equipados con **pantalla para el acompañante delantero**, los pasajeros pueden seguir viendo letras y vídeos en marcha sin distraer al conductor
+- Si el coche monta **pantalla para el copiloto**, quien va a su lado puede consultar letras y vídeos durante la marcha sin molestar a quien conduce
 - Spotify Jam sigue activo: los pasajeros se unen escaneando el QR y añaden canciones a la cola desde sus móviles
 
 Es una división sensata: el conductor mantiene los ojos en la carretera con voz y controles simples, mientras la parte lúdica se traslada a los acompañantes o al momento de la carga. Para un propietario de un A6 e-tron o un Q6 e-tron, la parada en el cargador rápido deja de ser tiempo muerto para convertirse en sala de cine con letras de karaoke.
@@ -255,7 +255,7 @@ Es una división sensata: el conductor mantiene los ojos en la carretera con voz
 
 El coche no es un escenario más para el streaming: es, junto al móvil, el escenario donde se juega la batalla por los oídos del usuario Premium.
 
-A eso hay que sumar la escala. Los **47 mercados** cubiertos —Europa, América del Norte y del Sur, Asia, África y Australia (según Audi)— y los **777 millones de usuarios** dibujan el mayor desembarco de una app nativa de música en el automóvil hasta la fecha. Y hay una dimensión estratégica que no debería pasar desapercibida: Spotify avisa de que Audi es **el primer fabricante**, no el último. La compañía planea llevar la experiencia a más socios automovilísticos a lo largo del próximo año. Quien hoy ve a Audi como pionero verá mañana una carrera: el fabricante que no ofrezca una app nativa de música quedará atrás en la experiencia de a bordo.
+A eso hay que sumar la escala. La cobertura de **47 mercados** —repartidos entre Europa, Norteamérica y Sudamérica, Asia, África y Australia, según Audi— y los **777 millones de usuarios** de Spotify componen el desembarco más amplio de una app musical nativa en el coche hasta hoy. Y hay una dimensión estratégica que no debería pasar desapercibida: Spotify avisa de que Audi es **el primer fabricante**, no el último. La compañía planea llevar la experiencia a más socios automovilísticos a lo largo del próximo año. Quien hoy ve a Audi como pionero verá mañana una carrera: el fabricante que no ofrezca una app nativa de música quedará atrás en la experiencia de a bordo.
 
 ## El contexto: dos años después del fin del Car Thing
 

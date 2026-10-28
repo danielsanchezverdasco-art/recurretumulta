@@ -950,7 +950,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     "content": `<img src=/media/battleship-700-offroad-hero.webp alt=Todoterreno híbrido enchufable de color verde oscuro con barra de luces LED subiendo por una pista de montaña al atardecer>
 
-*Actualizado el 18 de octubre de 2026: Geely confirmó en el Salón de París 2026 que el Battleship 700 llegará a Europa en la segunda mitad de 2027.*
+*Actualizado el 18 de octubre de 2026: Geely anunció en París 2026 que el Battleship 700 tendrá versión europea, con ventas a partir del segundo semestre de 2027.*
 
 **1.113 CV. 43.900 pedidos en una hora. Y flota en el agua.** El **Geely Galaxy Battleship 700** (Zhanjian 700 en China) es el primer todoterreno de verdad de Geely y sale a la venta en China el **10 de octubre de 2026**. Es un híbrido enchufable de **tres motores** con chasis de largueros, 305 km de autonomía eléctrica y un precio que parte de unos **26.500 € al cambio**. El Land Rover Defender tiene un problema nuevo, y se llama Battleship.
 
@@ -996,7 +996,7 @@ Para verlo en acción, esta prueba completa de <a href=https://www.youtube.com/w
 
 ## Confirmado: llegará a Europa en la segunda mitad de 2027
 
-**Ya es oficial.** Geely confirmó en el **Salón del Automóvil de París 2026** que el Battleship 700 se venderá en Europa en la **segunda mitad de 2027** (en el salón se expuso como KO11, su código interno de desarrollo). Fue el debut del grupo Geely como expositor en París, con las marcas Geely, Lynk & Co y Zeekr. El precio europeo aún no se ha anunciado.
+**Ya es oficial.** Durante el **Salón del Automóvil de París 2026**, Geely comunicó que el Battleship 700 llegará a los concesionarios del continente en el **segundo semestre de 2027** (en el stand se mostró bajo su código de desarrollo, KO11). Fue el debut del grupo Geely como expositor en París, con las marcas Geely, Lynk & Co y Zeekr. El precio europeo aún no se ha anunciado.
 
 La apuesta tiene lógica: en septiembre de 2026, Geely, Lynk & Co y Zeekr superaron por primera vez las **10.000 ventas mensuales en la Unión Europea**, y el grupo ya opera en 27 países europeos con más de 450 puntos de venta. El Battleship 700 también llegará a Australia.
 
