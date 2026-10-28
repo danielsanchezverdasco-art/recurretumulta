@@ -269,7 +269,7 @@ export const COCHES_EBRO: CocheComparador[] = [
         resetAceitePasos: ["Enciende el coche y espera a que cargue la pantalla central de 15,6 pulgadas.", "Entra en Ajustes del sistema multimedia.", "Busca el apartado de mantenimiento o servicio.", "Consulta los kilómetros o días restantes hasta la próxima revisión.", "Tras pasar la revisión en el servicio oficial, el aviso se reinicia desde el menú o con el equipo de diagnosis."],
         intervaloMantenimiento: "EBRO aún no ha publicado el plan del Q (llegada prevista en 2027); como referencia orientativa, los eléctricos del segmento revisan cada 24 meses o 30.000 km",
         filtroPolenUbicacion: "Detrás de la guantera (ubicación estándar)",
-        filtroPolenPasos: ["Apaga el coche por completo.", "Abre la guantera del lado del copiloto.", "Desengancha o desmonta la guantera para acceder a la tapa del alojamiento del filtro.", "Retira la tapa del alojamiento.", "Fíjate en la dirección de la flecha de flujo de aire impresa en el filtro viejo.", "Extrae el filtro usado.", "Inserta el filtro nuevo con la flecha en la misma dirección.", "Vuelve a colocar la tapa del alojamiento y monta de nuevo la guantera.", "Enciende el coche y prueba la climatización para comprobar el caudal de aire."],
+        filtroPolenPasos: ["Apaga el coche por completo.", "Abre la guantera del lado del acompañante.", "Suelta o retira la guantera para llegar a la tapa donde está el filtro.", "Retira la tapa del alojamiento.", "Fíjate en la dirección de la flecha de flujo de aire impresa en el filtro viejo.", "Extrae el filtro usado.", "Coloca el filtro nuevo con la flecha orientada igual que el anterior.", "Cierra la tapa del alojamiento y vuelve a montar la guantera.", "Enciende el coche y prueba la climatización para comprobar el caudal de aire."],
     },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
@@ -294,7 +294,7 @@ export const COCHES_EBRO: CocheComparador[] = [
     pros: [
       "Primer eléctrico de EBRO: 122 CV, tracción trasera y unos 310 km de autonomía",
       "Se fabricará en Barcelona: acceso al Plan MOVES III sin los aranceles de los chinos importados",
-      "Batería LFP de 41 kWh y carga rápida de 85 kW: del 30 al 80 % en aproximadamente 17 minutos",
+      "Batería LFP de 41 kWh y recarga rápida de 85 kW: del 30 al 80 % en unos 17 minutos",
       "Maletero de 375 litros más frunk delantero de 70: el más capaz del segmento",
       "Pantalla de 15,6 pulgadas, función V2L y 38 huecos portaobjetos en el habitáculo",
     ],

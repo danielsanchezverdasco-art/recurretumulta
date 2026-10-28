@@ -43,7 +43,7 @@ Este artículo recoge todas las cifras que Carwow publica en su pieza, las orden
 
 **Ferrari F12 Berlinetta: el salto grande.** El representante de la década de 2010 sube la cilindrada a 6,3 litros y la potencia a 740 CV, con 690 Nm de par. El cambio ya es un doble embrague automático, mucho más rápido que el manual automatizado del 599, y la tracción sigue siendo trasera. Aquí llega la primera sorpresa de la tabla: el F12 pesa 1.630 kg, nada menos que 163 kg menos que el 599, lo que lo convierte en el coche más ligero de los cuatro. Su precio de nuevo era de 240.000 libras. Dicho de otro modo, Ferrari consiguió en este paso lo más difícil de todo: más potencia y menos peso a la vez.
 
-**Ferrari 812 GTS: el techo de par.** El tercer coche es el descapotable de la familia 812, con un V12 de 6,5 litros que entrega 800 CV y 718 Nm de par, la cifra de par más alta de todo el grupo, gestionados por un cambio de doble embrague y tracción trasera. Pesa 1.705 kg, es decir, 75 kg más que el F12, y costaba 293.000 libras cuando era nuevo. El 812 es el punto en el que la familia alcanza su máxima fuerza bruta de empuje, y también el coche que mejor resume la madurez de esta arquitectura: más cilindrada, más potencia y un chasis que ya no necesita adelgazar para seguir siendo rápido.
+**Ferrari 812 GTS: el de más par.** Es la versión descapotable de la familia 812, con un V12 de 6,5 litros, 800 CV y 718 Nm —el valor de par más elevado de los cuatro—, caja de doble embrague y propulsión trasera. Pesa 1.705 kg, es decir, 75 kg más que el F12, y costaba 293.000 libras cuando era nuevo. El 812 es el punto en el que la familia alcanza su máxima fuerza bruta de empuje, y también el coche que mejor resume la madurez de esta arquitectura: más cilindrada, más potencia y un chasis que ya no necesita adelgazar para seguir siendo rápido.
 
 **Ferrari 12Cilindri: el heredero.** El coche nuevo del grupo mantiene los 6,5 litros y la aspiración natural, y sube la potencia hasta 830 CV, la mayor de los cuatro. Rinde 678 Nm de par máximo, cifra inferior a los 718 Nm del 812, y esa diferencia se analiza en un apartado propio más adelante. El cambio es un doble embrague automático, la tracción es trasera, el peso es de 1.720 kg —el mayor del grupo, 15 kg por encima del 812— y su precio de nuevo es de 336.500 libras, casi el doble que el del 599. Es el coche que demuestra que la receta sigue viva en 2026, sin turbo y sin electricidad, y que todavía hay clientes dispuestos a pagar por ella.
 
@@ -121,7 +121,7 @@ El F12 Berlinetta, con 1.630 kg, por debajo del 812 GTS (1.705 kg), del 12Cilind
 
 ### ¿Se pueden comprar nuevos en España?
 
-El 12Cilindri sí: es el modelo actual y su ficha en esta web recoge un precio de partida en España de 425.000 euros. El 812 GTS también tiene ficha, pero como modelo de la generación anterior su oferta nueva es residual. El 599 y el F12 solo se encuentran en el mercado de ocasión.
+El 12Cilindri sí: es el modelo actual y su ficha en esta web recoge un precio de partida en España de 425.000 euros. El 812 GTS también tiene ficha, pero como modelo de la generación anterior su oferta nueva es residual. Del 599 y del F12 solo hay unidades de segunda mano.
 
 **Fichas en esta web:** <a href=/coches/ferrari-12cilindri-2025-precio-ficha-tecnica/>Ferrari 12Cilindri — ficha técnica y precio</a> · <a href=/coches/ferrari-812-gts-2024-precio-ficha-tecnica/>Ferrari 812 GTS — ficha técnica y precio</a>
 

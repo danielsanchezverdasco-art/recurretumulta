@@ -9947,7 +9947,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       "Frunk de 94 L y hasta 1.380 L de carga con los asientos abatidos",
     ],
     contras: [
-      "De momento solo se vende en China: sin precio ni fecha para Europa",
+      "Por ahora solo en China: Europa, sin precio ni fecha",
       "La carga flash solo funciona en estaciones propias de BYD",
       "Las versiones básicas no tienen carga flash: 320 km CLTC con 30,1 kWh",
       "Homologación CLTC, más optimista que el WLTP europeo",
@@ -9981,7 +9981,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       { nombre: "Smart (99.900 ¥ en China)", precio: 13300, potenciaCv: 127, autonomiaKm: 420, aprox: true },
     ],
     curiosidad: {
-      texto: "Las tres versiones con carga flash incluyen un año de recarga gratis en la red propia de BYD (uso no comercial): la batería pasa del 10 al 70 % en 5 minutos.",
+      texto: "Las tres versiones con carga flash incluyen un año de recargas sin coste en la red de BYD (uso no comercial): del 10 al 70 % en cinco minutos.",
       fuenteNombre: "CnEVPost",
       fuenteUrl: "https://cnevpost.com/2026/10/20/byd-launches-second-gen-seagull/",
     },

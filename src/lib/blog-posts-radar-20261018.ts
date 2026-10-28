@@ -105,11 +105,11 @@ En EE. UU. parte de **28.350 $** para la versión estándar, más 1.595 $ de des
 
 ### ¿Cuándo se puede comprar el Ford Fathom?
 
-Los **pedidos se abren a principios de 2027** y las primeras entregas están previstas para **finales de 2027**. Ya se pueden pedir invitaciones para ser de los primeros.
+Los **encargos se abrirán a comienzos de 2027** y las primeras unidades llegarán a los clientes **a finales de ese mismo año**. Ya se pueden pedir invitaciones para ser de los primeros.
 
 ### ¿Qué autonomía tiene el Fathom?
 
-Ford **no ha publicado** la capacidad de la batería ni la autonomía. La prensa especializada espera al menos unas 300 millas (unos 480 km), pero es una estimación sin confirmar.
+De la batería y de la autonomía, Ford **no ha dado ningún dato**. La prensa especializada espera al menos unas 300 millas (unos 480 km), pero es una estimación sin confirmar.
 
 ### ¿Es verdad que Ford prepara un SUV de 25.000 $?
 

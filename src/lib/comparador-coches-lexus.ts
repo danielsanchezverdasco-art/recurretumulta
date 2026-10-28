@@ -1210,7 +1210,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/lexus/lc/2017/estandar/estandar/lc-500h-sport2/datos",
   },
-  // 15. Lexus TZ (SUV eléctrico de 6 plazas, 2026+) — radar del 23/10/2026
+  // 15. Lexus TZ (SUV eléctrico de seis plazas, 2026 en adelante) — radar del 23/10/2026
   {
     id: "lexus-tz-2026-precio-ficha-tecnica",
     garantiaBateriaAnos: null,
@@ -1315,10 +1315,10 @@ export const COCHES_LEXUS: CocheComparador[] = [
     fuenteNombre: "pruebascoches.com",
     fuenteUrl: "https://pruebascoches.com/lexus-tz-precio-espana/",
   },
-  // Radar 21/10/2026: Lexus TZ, el SUV eléctrico más grande de la marca.
+  // Radar 21/10/2026: Lexus TZ, el mayor SUV eléctrico de la firma.
   // Precios para España desvelados hoy (fuente: Lexus vía ForoCochesEléctricos):
   // 450e Executive 313 CV desde 88.000 €, 550e Luxury 408 CV desde 103.000 €.
   // 6 plazas (2+2+2), batería 95,8 kWh, hasta 530 km WLTP. Sin test EuroNCAP.
-  // 10. Lexus TZ (SUV eléctrico de 6 plazas, 2026; a la venta en España desde 88.000 €)
+  // 10. Lexus TZ (SUV eléctrico de seis plazas, 2026; en venta en España desde 88.000 €)
   // 15. Lexus TZ (eléctrico, SUV de 6 plazas, 2026+) — radar 23/10/2026
 ];

@@ -33,11 +33,11 @@ export const RADAR_20261026_POSTS: BlogPost[] = [
 
 *Imagen generada por IA: el iX4 definitivo, presentado el 9 de octubre de 2026.*
 
-**Ficha completa del modelo:** <a href=/coches/bmw-ix4-electrico-2026/>BMW iX4 — ficha técnica, precio y autonomía</a>
+**Más datos en la ficha:** <a href=/coches/bmw-ix4-electrico-2026/>BMW iX4: precio, autonomía y especificaciones</a>
 
 El configurador español del BMW iX4 ya está abierto. BMW ha publicado este lunes 26 de octubre de 2026 las tarifas oficiales para España de su nuevo SUV coupé eléctrico de la familia Neue Klasse, y el dato que faltaba desde la presentación del 9 de octubre ya está sobre la mesa: el iX4 arranca en nuestro mercado en **71.850 euros**. Las entregas iniciales se anuncian para **marzo de 2027**, de modo que quien lo reserve hoy compra un coche que aún tardará unos meses en llegar a la red, aunque con el precio ya fijado en el configurador.
 
-Hasta ahora, la única referencia de precio que manejábamos en España era la alemana: 70.900 euros para el 40 xDrive y 75.900 para el 50 xDrive, tal como contamos en el <a href=/blog/bmw-ix4-2027-presentacion-oficial/>blog de la presentación del iX4</a>. La tarifa española sube respecto a Alemania, pero no de forma uniforme: el acceso sube 950 euros y la versión de batería grande sube 2.300. Ese detalle importa, porque cambia la recomendación entre una versión y otra, como verás más abajo.
+Hasta el momento, el único precio de referencia en España era el alemán: 70.900 euros el 40 xDrive y 75.900 el 50 xDrive, como ya explicamos en el <a href=/blog/bmw-ix4-2027-presentacion-oficial/>blog de la presentación del iX4</a>. La tarifa española sube respecto a Alemania, pero no de forma uniforme: el acceso sube 950 euros y la versión de batería grande sube 2.300. Ese detalle importa, porque cambia la recomendación entre una versión y otra, como verás más abajo.
 
 ## Los precios oficiales del BMW iX4 en España
 
@@ -73,19 +73,19 @@ Puesto en euros por kilómetro de autonomía homologada, el 40 xDrive sale a 112
 
 ## Carga: 400 kW y 387 km en 10 minutos
 
-La otra gran baza del iX4 es la carga. Sobre la arquitectura de 800 voltios de la Neue Klasse, el 50 xDrive admite hasta **400 kW en corriente continua**, recupera **387 km de autonomía WLTP en 10 minutos** y pasa del 10 al 80 % en 21 minutos en las condiciones adecuadas. El 40 xDrive, con la batería pequeña, carga hasta 300 kW en continua.
+La otra gran baza del iX4 es la carga. La arquitectura de 800 voltios de la Neue Klasse permite al 50 xDrive cargar hasta **400 kW en continua**: **387 km WLTP en 10 minutos** y del 10 al 80 % en 21 minutos, con buenas condiciones. El 40 xDrive, con la batería pequeña, carga hasta 300 kW en continua.
 
 En la práctica, esto significa que un viaje largo con el 50 xDrive se plantea con paradas cortas y planificadas, no con esperas eternas en el cargador. Los 828 km WLTP no son la autonomía que vas a ver en autopista a 120 km/h con frío y equipaje —ningún eléctrico homologa así—, pero con una red de carga rápida de 400 kW disponible, la combinación de batería grande y carga ultrarrápida es justo lo que hace viable este coche como único coche familiar, y no solo como segundo coche urbano.
 
 ## Medidas, maletero y dónde se fabrica
 
-El iX4 mide **4,78 metros de largo, 1,89 de ancho y 1,59 de alto**, con una batalla de 2,89 metros y un coeficiente aerodinámico de 0,23, que es una de las claves de su autonomía: la silueta coupé recorta altura frente al iX3 y mejora el paso por el aire. El maletero cubica **490 litros** y suma un maletero delantero de **58 litros** para los cables de carga, un detalle práctico que muchos SUV eléctricos de este precio no ofrecen.
+El iX4 mide **4,78 metros de largo, 1,89 de ancho y 1,59 de alto**, con una batalla de 2,89 metros y un coeficiente aerodinámico de 0,23, que es una de las claves de su autonomía: la silueta coupé recorta altura frente al iX3 y mejora el paso por el aire. Además de **490 litros** detrás, hay un maletero frontal de **58 litros** donde guardar los cables de carga, algo práctico que muchos SUV eléctricos de esta gama no incluyen.
 
 La producción se realiza en la nueva planta de BMW en **Debrecen (Hungría)**, y el modelo comparte la sexta generación del eDrive con el resto de la familia Neue Klasse. Dentro, el puesto de conducción gira en torno al BMW Panoramic Vision, que proyecta la información en la base del parabrisas, y a la pantalla táctil central de 17,9 pulgadas. El techo panorámico es de serie, un equipamiento que en otros modelos premium suele ir en la lista de opciones.
 
 ## El M60 xDrive, todavía sin precio en España
 
-BMW también prepara el **iX4 M60 xDrive**, la variante de altas prestaciones con **612 CV** y hasta 777 km WLTP, que ampliará la familia próximamente. De momento no hay precio oficial para España, así que no vamos a inventarlo: cuando BMW España lo publique, lo contaremos con la misma tabla que hoy estrenamos para las versiones 40 y 50. Lo mismo vale para posibles versiones de acceso más asequibles: hoy por hoy, la gama española empieza en 71.850 euros y no hay nada por debajo.
+BMW también prepara el **iX4 M60 xDrive**, la variante de altas prestaciones con **612 CV** y hasta 777 km WLTP, que ampliará la familia próximamente. Por ahora BMW no ha dado precio para España y no lo vamos a suponer: cuando lo publique, lo añadiremos en el mismo cuadro que ya usamos para las versiones 40 y 50. Lo mismo vale para posibles versiones de acceso más asequibles: hoy por hoy, la gama española empieza en 71.850 euros y no hay nada por debajo.
 
 Tampoco hay que perder de vista el calendario: los pedidos del M60 se abrirán más adelante y las primeras entregas de la gama arrancan en marzo de 2027. Si tu idea es estrenar un iX4 en primavera, la decisión real hoy es entre el 40 y el 50 xDrive, no entre esperar o no al M60, salvo que busques expresamente los 612 CV.
 
@@ -113,7 +113,7 @@ Hasta **828 km en ciclo WLTP** en el 50 xDrive (batería de 108,7 kWh útiles). 
 
 ### ¿Cuánto tarda en cargar el BMW iX4?
 
-El 50 xDrive admite hasta 400 kW en corriente continua, repone **387 km en 10 minutos** y completa del 10 al 80 % en 21 minutos si las condiciones son favorables. El 40 xDrive carga hasta 300 kW.
+En corriente continua el 50 xDrive llega a los 400 kW; en 10 minutos añade **387 km** y en 21 pasa del 10 al 80 %, siempre que las condiciones acompañen. El 40 xDrive carga hasta 300 kW.
 
 ### ¿Cuándo llega el BMW iX4 a España?
 
@@ -149,7 +149,7 @@ El 40 xDrive cuesta 950 euros más en España (71.850 frente a 70.900 €) y el 
 
 *El XPeng Mona L05 en su imagen oficial de lanzamiento global: SUV de 4,87 m, puertas sin marco y llantas bitono. Foto: XPeng, vía CnEVPost (licencia desconocida).*
 
-XPeng no ha esperado a presentar su nuevo SUV en casa para ponerlo rumbo al resto del mundo. La marca china anunció el lunes 26 de octubre, en Weibo, que ya ha iniciado los envíos globales del Mona L05, un SUV de cinco plazas que todavía no se ha lanzado oficialmente en China: su presentación comercial está fijada para el 29 de octubre. El plan declarado es venderlo en 65 países y regiones, una cifra que lo convierte, desde el primer día, en el modelo de la gama Mona con vocación más internacional. No se trata de una declaración de intenciones a largo plazo: los coches ya van de camino, y la propia XPeng recalca que ha desarrollado a la vez las versiones con volante a la izquierda y a la derecha, requisito indispensable para vender un mismo modelo en la Europa continental y en mercados como Reino Unido o Australia sin tener que rediseñarlo más tarde.
+XPeng no ha esperado a presentar su nuevo SUV en casa para ponerlo rumbo al resto del mundo. La marca china anunció el lunes 26 de octubre, en Weibo, que ya ha iniciado los envíos globales del Mona L05, un SUV de cinco plazas que todavía no se ha lanzado oficialmente en China: su presentación comercial está fijada para el 29 de octubre. El plan declarado es venderlo en 65 países y regiones, una cifra que lo convierte, desde el primer día, en el modelo de la gama Mona con vocación más internacional. No son promesas lejanas: las unidades ya están en camino. XPeng subraya además que ha preparado a la vez la versión con el volante a la izquierda y la de la derecha, imprescindible para un mismo modelo que se venda tanto en la Europa continental como en Reino Unido o Australia, sin rehacerlo después.
 
 La noticia importa en España por una razón sencilla: XPeng ya vende aquí, y la familia Mona es la que la marca usa para bajar el precio de entrada sin renunciar a la tecnología. El L05 se sitúa por encima del L03, el SUV compacto que llegó a España en octubre, y por encima también de la berlina M03, el primer Mona. Es, en la práctica, el SUV familiar de la gama joven de XPeng: más grande, con más maletero y con dos formas muy distintas de moverse, eléctrica pura o de autonomía extendida, al mismo precio de partida en China. Eso sí, y conviene dejarlo claro desde el primer párrafo: a 26 de octubre no hay precio, ni fecha, ni lista de versiones para Europa o España. Todo lo que sigue sobre precios en euros es una conversión aproximada del precio chino, y las autonomías son cifras del ciclo chino CLTC, no del WLTP europeo. Cuando XPeng publique la ficha europea, esas dos cifras cambiarán, y este artículo habrá que actualizarlo.
 
@@ -161,7 +161,7 @@ Ese enfoque global tiene una segunda lectura. En las imágenes promocionales del
 
 ## Qué es el Mona L05: el SUV familiar de la gama Mona
 
-El Mona L05 es el tercer modelo de la serie Mona, tras la berlina M03 y el SUV compacto L03. XPeng lo describe como un SUV grande de cinco plazas para compradores jóvenes, con una experiencia que, según su fundador, se acerca a la de coches de la clase de 300.000 yuanes. Más allá del eslogan, las medidas lo sitúan con claridad en el segmento medio-alto: mide 4.870 mm de largo, 1.930 mm de ancho y 1.636 mm de alto, con una batalla de 2.940 mm. Es 220 mm más largo que el L03 y su batalla crece 90 mm, lo que se traduce en más espacio para las piernas traseras y en un maletero mayor, las dos cosas que más se notan en un SUV familiar.
+El Mona L05 es el tercer modelo de la serie Mona, tras la berlina M03 y el SUV compacto L03. XPeng lo describe como un SUV grande de cinco plazas para compradores jóvenes, con una experiencia que, según su fundador, se acerca a la de coches de la clase de 300.000 yuanes. Pasada la retórica, las cifras lo colocan en un segmento medio-alto: 4.870 mm de longitud, 1.930 mm de anchura, 1.636 mm de altura y 2.940 mm entre ejes. Es 220 mm más largo que el L03 y su batalla crece 90 mm, lo que se traduce en más espacio para las piernas traseras y en un maletero mayor, las dos cosas que más se notan en un SUV familiar.
 
 | Dato | XPeng Mona L05 |
 |---|---|
@@ -183,7 +183,7 @@ El diseño sigue el lenguaje Starship de la marca, con una parrilla activa integ
 
 La decisión más interesante del L05 es que no obliga a elegir entre eléctrico y gasolina: ofrece las dos cosas con el mismo motor y el mismo precio de partida. Todas las versiones usan un único motor trasero de 183 kW, que con la conversión que usa esta web (kW por 1,36) equivale a 249 CV. A partir de ahí, el comprador chino elige entre una batería grande y un extensor de autonomía, y esa elección cambia por completo el uso del coche.
 
-La versión eléctrica pura usa baterías de litio-ferrofosfato (LFP), más baratas y estables que las de níquel, en dos tamaños: 58,2 kWh en la versión de acceso y 71,1 kWh en las dos superiores. Con la pequeña, la autonomía CLTC es de 535 km; con la grande, de 635 km. La variante de autonomía extendida, por contra, junta una batería LFP de 37,2 kWh con un motor de gasolina de 1,5 litros y 70 kW cuya única función es generar electricidad, sin transmitir nunca tracción a las ruedas. El resultado: 310 km en eléctrico según CLTC y hasta 1.310 km sumando batería y depósito. Es la fórmula que ya usa el L03 en España, pero con más batería, más autonomía eléctrica y más autonomía total.
+La versión eléctrica pura usa baterías de litio-ferrofosfato (LFP), más baratas y estables que las de níquel, en dos tamaños: 58,2 kWh en la versión de acceso y 71,1 kWh en las dos superiores. Con la pequeña, la autonomía CLTC es de 535 km; con la grande, de 635 km. La versión de autonomía extendida combina una batería LFP de 37,2 kWh y un motor de gasolina de 1,5 litros y 70 kW que solo actúa como generador y jamás mueve las ruedas. El resultado: 310 km en eléctrico según CLTC y hasta 1.310 km sumando batería y depósito. Es la fórmula que ya usa el L03 en España, pero con más batería, más autonomía eléctrica y más autonomía total.
 
 | Versión (preventa en China) | Sistema | Batería | Autonomía CLTC | Precio en China |
 |---|---|---|---|---|
@@ -205,7 +205,7 @@ El resultado equivale al 94,77 % de la autonomía CLTC declarada, lo que es un b
 
 Dentro, el L05 apuesta por lo que XPeng mejor sabe vender: pantallas y asientos. La pantalla central mide 17,3 pulgadas y se acompaña de un head-up display de 26,8 pulgadas proyectado en el parabrisas, una combinación que deja el salpicadero casi limpio de botones físicos. La cabina, de diseño envolvente, incluye 22 puntos de expansión para accesorios, desde cámaras de acción hasta soportes, un detalle pensado para compradores jóvenes que usan el coche también como estudio móvil. Los asientos delanteros ofrecen apoyo lumbar y para las piernas, masaje, calefacción y ventilación, y el del acompañante tiene un modo de gravedad cero con un solo toque. Detrás, los pasajeros tienen asientos calefactados, cristales de privacidad, una mesita, una pantalla de entretenimiento también de 17,3 pulgadas, cajones bajo el cojín y un techo panorámico en dos secciones.
 
-Esa lista de equipamiento es la que explica por qué XPeng habla de experiencia de clase superior: en un SUV de este precio en China, lo normal es encontrar pantallas grandes pero asientos sencillos, o asientos cómodos pero tecnología justa. El L05 aspira a ofrecer ambas cosas, apoyado en una plataforma que, según el fabricante, nació para cumplir los requisitos de 5 estrellas en China, Europa y Australia, con 7 airbags, una estructura de hasta 2.000 MPa y varias capas que protegen la batería. Ojo con ese matiz: desarrollado para 5 estrellas no es lo mismo que probado con 5 estrellas. A 26 de octubre no hay ninguna prueba EuroNCAP publicada del L05, y las referencias a C-NCAP 2024, Euro NCAP 2027 y ANCAP 2027 que aparecen en el material promocional describen los estándares de desarrollo, no calificaciones obtenidas. En la ficha de esta web, EuroNCAP queda por tanto como sin datos, hasta que una prueba real lo confirme o lo desmienta.
+Por eso XPeng habla de una vivienda de gama superior: en un SUV de este precio en China suele haber pantallas enormes y asientos básicos, o butacas cómodas y poca tecnología. El L05 pretende reunir las dos cosas sobre una plataforma que, según la marca, se concibió para lograr cinco estrellas en China, Europa y Australia: 7 airbags, estructura de hasta 2.000 MPa y varias protecciones de la batería. Ojo con ese matiz: desarrollado para 5 estrellas no es lo mismo que probado con 5 estrellas. A 26 de octubre no hay ninguna prueba EuroNCAP publicada del L05, y las referencias a C-NCAP 2024, Euro NCAP 2027 y ANCAP 2027 que aparecen en el material promocional describen los estándares de desarrollo, no calificaciones obtenidas. En la ficha de esta web, EuroNCAP queda por tanto como sin datos, hasta que una prueba real lo confirme o lo desmienta.
 
 ## Precio: qué significa ese 21.500 € y qué no significa
 
@@ -238,16 +238,16 @@ En China, el lanzamiento oficial es el 29 de octubre de 2026, tras una preventa 
 En China, desde 169.800 yuanes en preventa, unos 21.500 € al cambio aproximado, tanto para el eléctrico como para el extensor de autonomía. No hay precio para Europa o España: esa cifra china no incluye aranceles, transporte, homologación ni impuestos europeos.
 
 ### ¿Qué autonomía tiene el XPeng Mona L05?
-El eléctrico puro homologa 535 o 635 km en ciclo chino CLTC, según la batería. El de autonomía extendida recorre 310 km en modo eléctrico CLTC y hasta 1.310 km combinando batería y depósito. Ninguna de esas cifras es WLTP.
+El eléctrico puro homologa 535 o 635 km en ciclo chino CLTC, según la batería. La de autonomía extendida declara 310 km eléctricos en CLTC y hasta 1.310 km sumando batería y depósito. Ninguna de esas cifras es WLTP.
 
 ### ¿El Mona L05 es eléctrico o híbrido?
-Depende de la versión: existen variantes 100 % eléctricas (BEV) y otras de autonomía extendida (EREV) cuyo motor de gasolina de 1,5 litros se limita a producir electricidad. Todas usan el mismo motor trasero de 183 kW (249 CV).
+Según la versión: hay modelos puramente eléctricos (BEV) y otros de autonomía extendida (EREV), cuyo motor de gasolina de 1,5 litros solo genera corriente. Todas usan el mismo motor trasero de 183 kW (249 CV).
 
 ### ¿Tiene el Mona L05 prueba EuroNCAP?
-No. XPeng dice que se ha desarrollado para cumplir los estándares de 5 estrellas en China, Europa y Australia, con 7 airbags, pero a 26 de octubre de 2026 no hay ninguna calificación EuroNCAP publicada del L05.
+No. XPeng afirma que lo ha diseñado para obtener cinco estrellas en China, Europa y Australia, con 7 airbags, pero a 26 de octubre de 2026 no existe ninguna nota EuroNCAP del L05.
 
 ### ¿Llegará el Mona L05 a España?
-XPeng prevé venderlo en 65 países y regiones y ha desarrollado versiones con volante a la izquierda y a la derecha, pero no ha confirmado que España esté en la primera oleada, ni con qué versiones ni a qué precio. Habrá que esperar al anuncio europeo.
+La marca planea comercializarlo en 65 países y regiones, con versión de conducción a izquierda y a derecha, pero no ha dicho si España entra en el primer reparto, ni con qué versiones ni a qué tarifa. Habrá que esperar al anuncio europeo.
 
 **Ficha en esta web:** <a href=/coches/xpeng-mona-l05-2026-precio-ficha-tecnica/>XPeng Mona L05 — ficha técnica</a> · <a href=/coches/xpeng-l03-2026-precio-espana/>XPeng L03 — ficha técnica</a> · <a href=/coches/xpeng-mona-m03-2025-precio-ficha-tecnica/>XPeng Mona M03 — ficha técnica</a> · <a href=/coches/xpeng-g6-long-range-2025-precio-ficha-tecnica/>XPeng G6 Long Range — ficha técnica</a>
 
