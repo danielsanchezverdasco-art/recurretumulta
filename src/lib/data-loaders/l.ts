@@ -142,6 +142,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "lexus-rz-500e-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp15.ts"),
     "lexus-rz-550e-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp15.ts"),
     "lexus-tz-2026-precio-ficha-tecnica": () => import("../blog-posts-radar-20261023b.ts"),
+    "lexus-tz-electrico-2026-precio-6-plazas": () => import("../blog-posts-radar-tz-20261021.ts"),
     "lexus-tz-espana-precio-88-000-euros-2026": () => import("../blog-posts-radar-20261022-1458.ts"),
     "lexus-ux-300e-2024-precio-ficha-tecnica": () => import("../blog-posts-lexus-a.ts"),
     "lexus-ux-300h-2026-precio-ficha-tecnica": () => import("../blog-posts-batch2b-4.ts"),
