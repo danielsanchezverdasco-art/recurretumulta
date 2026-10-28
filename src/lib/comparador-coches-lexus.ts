@@ -1502,4 +1502,109 @@ export const COCHES_LEXUS: CocheComparador[] = [
     fuenteNombre: "hibridosyelectricos.com",
     fuenteUrl: "https://www.hibridosyelectricos.com/coches/nuevo-coche-electrico-lexus-ya-se-vende-en-espana-con-6-asientos-540-km-autonomia-precio-minimo-88000_90087_102.html",
   },
+  // 15. Lexus TZ (eléctrico, SUV de 6 plazas, 2026+) — radar 23/10/2026
+  {
+    id: "lexus-tz-2026-precio-ficha-tecnica",
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagenOficial: "/media/lexus-tz-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "/media/lexus-tz-2026-precio-ficha-tecnica-interior.webp",
+    videoId: null,
+    videoCanal: null,
+    marca: "Lexus",
+    modelo: "TZ",
+    tipo: "Eléctrico",
+    categoria: "SUV",
+    precioDesde: 88000,
+    potenciaCv: 313,
+    autonomiaKm: 540,
+    maleteroL: 290,
+    ceroCien: 5.2,
+    velocidadMax: 180,
+    bateriaKwh: 95.8,
+    cargaRapidaKw: 150,
+    etiquetaDgt: "Cero",
+    pros: [
+      "Hasta 540 km de autonomía WLTP con la batería de 95,8 kWh (versión 450e)",
+      "6 plazas reales en configuración 2+2+2: el primer eléctrico Lexus con tercera fila",
+      "Concepto Driving Lounge: el habitáculo más silencioso de todos los SUV Lexus",
+      "Tracción total DIRECT4 y dirección en el eje trasero de serie en las dos versiones",
+      "Etiqueta Cero de la DGT y carga rápida de 150 kW (del 10 al 80 % en ~35 min)",
+    ],
+    contras: [
+      "Carga de 150 kW inferior a rivales coreanos: el Kia EV9 supera los 230 kW",
+      "Precio premium: desde 88.000 €, muy por encima del Kia EV9 y del Volvo EX90",
+      "Maletero de solo 290 litros con las tres filas en uso",
+      "Sin pruebas EuroNCAP publicadas todavía",
+      "El 0-100 en 5,2 s corresponde al 550e (408 CV); la autonomía varía por versión (pendiente de confirmación oficial)",
+    ],
+    largoMm: 5100,
+    anchoMm: 1990,
+    altoMm: 1705,
+    pesoKg: null,
+    consumo: null,
+    consumoUnidad: null,
+    plazas: 6,
+    parNm: null,
+    traccion: "Total",
+    emisionesCo2: 0,
+    aprox: [],
+    imagen: "/media/lexus-tz-2026-precio-ficha-tecnica-hero.webp",
+    opiniones: [],
+    costeMensual: {
+      "costeEnergia100km": 3.4,
+      "seguroTercerosAnual": 750,
+      "seguroAmpliadoAnual": 1450,
+      "mantenimientoAnual": 450,
+      "costeMensualTotal": 209,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.85,
+      "notas": "consumo estimado 19 kWh/100 km (Lexus aún no publica el WLTP oficial); recarga doméstica a 0,18 €/kWh; 1.500 km/mes; seguro estimado para un SUV premium de 88.000 €",
+      "estimado": true
+    },
+    galeria: [
+      {
+        "src": "/media/lexus-tz-2026-precio-ficha-tecnica-oficial.webp",
+        "alt": "Lexus TZ 450e, vista trasera tres cuartos",
+        "ancho": 1200,
+        "alto": 566
+      },
+      {
+        "src": "/media/lexus-tz-2026-precio-ficha-tecnica-interior.webp",
+        "alt": "Interior del Lexus TZ, puesto de conducción con pantalla de 14 pulgadas",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/lexus-tz-2026-precio-ficha-tecnica-hero.webp",
+        "alt": "Lexus TZ 550e, vista delantera tres cuartos",
+        "ancho": 1200,
+        "alto": 676
+      }
+    ],
+    versiones: [
+      {
+        nombre: "TZ 450e Executive (313 CV)",
+        precio: 88000,
+      },
+      {
+        nombre: "TZ 550e Luxury (408 CV)",
+        precio: 103000,
+      },
+      {
+        nombre: "TZ 550e Luxury Bitono (408 CV)",
+        precio: 105000,
+      }
+    ],
+    euroncap: {
+      "estrellas": null,
+      "ano": null,
+      "url": null,
+      "nota": "Sin datos EuroNCAP publicados: el Lexus TZ aún no ha sido sometido a pruebas Euro NCAP"
+    },
+    analisisSlug: "lexus-tz-2026-precio-ficha-tecnica",
+    fuenteNombre: "pruebascoches.com",
+    fuenteUrl: "https://pruebascoches.com/lexus-tz-precio-espana/",
+  },
 ];
