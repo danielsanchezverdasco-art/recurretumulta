@@ -499,4 +499,90 @@ export const COCHES_XPENG: CocheComparador[] = [
       }
     ],
   },
+
+  {
+    // Radar 26/10/2026 12:58 CEST — XPeng Mona L05 (modelo nuevo).
+    // Envíos globales anunciados por XPeng en Weibo el 26/10/2026 (CnEVPost),
+    // lanzamiento en China el 29/10/2026; preventa en China desde el 15/10.
+    // Precio en euros: conversión aproximada del precio chino (169.800 yuanes),
+    // sin precio ni fecha para Europa/España. Autonomía CLTC, no WLTP.
+    // EuroNCAP: sin prueba publicada (solo objetivo de desarrollo a 5 estrellas).
+    // Fuentes: CnEVPost 26/10/2026 y 15/10/2026, CarNewsChina 15/10/2026 y
+    // 23/10/2026 (prueba real EREV 1.194 km), TechNode 16/10/2026.
+    id: "xpeng-mona-l05-2026-precio-ficha-tecnica",
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagenOficial: "/media/xpeng-mona-l05-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "/media/xpeng-mona-l05-2026-precio-ficha-tecnica-interior.webp",
+    videoId: null,
+    videoCanal: null,
+    marca: "XPeng",
+    modelo: "Mona L05",
+    tipo: "Eléctrico",
+    categoria: "SUV",
+    precioDesde: 21500,
+    potenciaCv: 249,
+    autonomiaKm: 635,
+    maleteroL: 702,
+    ceroCien: null,
+    velocidadMax: null,
+    bateriaKwh: 71.1,
+    cargaRapidaKw: null,
+    etiquetaDgt: null,
+    pros: [
+      "249 CV con hasta 635 km CLTC y batería LFP de 71,1 kWh",
+      "Versión de autonomía extendida con 1.310 km combinados al mismo precio de partida",
+      "Maletero de 702 litros (1.913 litros abatido) más 102 litros delanteros",
+      "Envíos globales a 65 países antes del lanzamiento chino del 29/10",
+      "Pantalla central de 17,3 pulgadas y HUD de 26,8 pulgadas",
+    ],
+    contras: [
+      "Sin precio ni fecha para Europa o España: el precio en euros es aproximado (China)",
+      "Autonomía en ciclo chino CLTC, no WLTP",
+      "Sin prueba EuroNCAP publicada",
+      "Sin datos de carga rápida, aceleración ni consumo WLTP publicados",
+      "Red comercial y de servicio en España aún en crecimiento para la gama Mona",
+    ],
+    largoMm: 4870,
+    anchoMm: 1930,
+    altoMm: 1636,
+    pesoKg: null,
+    consumo: null,
+    consumoUnidad: "kWh/100 km",
+    plazas: 5,
+    parNm: null,
+    traccion: "Trasera",
+    emisionesCo2: null,
+    aprox: ["precioDesde", "autonomiaKm"],
+    imagen: "/media/xpeng-mona-l05-2026-precio-ficha-tecnica-hero.webp",
+    opiniones: [],
+    galeria: [
+      {
+        src: "/media/xpeng-mona-l05-2026-precio-ficha-tecnica-hero.webp",
+        alt: "XPeng Mona L05 plateado, SUV de cinco plazas, vista lateral (foto: XPeng, licencia desconocida)",
+        ancho: 1600,
+        alto: 900,
+      },
+      {
+        src: "/media/xpeng-mona-l05-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "XPeng Mona L05 morado, vista delantera de tres cuartos con placa L05 (foto: XPeng, licencia desconocida)",
+        ancho: 660,
+        alto: 495,
+      },
+      {
+        src: "/media/xpeng-mona-l05-2026-precio-ficha-tecnica-interior.webp",
+        alt: "Interior del XPeng Mona L05: volante con logo XPeng, pantalla central y asientos claros (foto: XPeng, licencia desconocida)",
+        ancho: 660,
+        alto: 495,
+      },
+    ],
+    analisisSlug: "xpeng-mona-l05-envios-globales-65-paises",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo no probado (desarrollado para 5 estrellas, sin prueba publicada)",
+    },
+  },
 ];
