@@ -100,6 +100,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "gotrax-xr-ultra": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "govecs-e-schwalbe-l1e-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m2.ts"),
     "govecs-e-schwalbe-l3e-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m2.ts"),
+    "grok-llega-tesla-espana-que-puede-hacer": () => import("../blog-posts-radar-20261020.ts"),
     "guantes-calzado-obligatorios-moto-octubre": () => import("../blog-posts-db.ts"),
     "gwm-cannon-alpha-2024-precio-ficha-tecnica": () => import("../blog-posts-batch2b-2.ts"),
     "gwm-cannon-alpha-phev-2025-precio-ficha-tecnica": () => import("../blog-posts-batch2b-2.ts"),
