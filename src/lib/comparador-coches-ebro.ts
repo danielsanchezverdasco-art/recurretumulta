@@ -7,8 +7,10 @@
 // hibridosyelectricos.com, soymotor.com, autonocion.com, hackercar.com,
 // pruebatucoche.es, movilidadelectrica.com y ebroauto.com (web oficial).
 // El pick-up Ebro anunciado en 2023 sigue sin datos oficiales de venta
-// (sin precio ni ficha), y el urbano eléctrico es aún un prototipo sin nombre
-// ni especificaciones: no se incluyen (prohibido inventar).
+// (sin precio ni ficha): no se incluye (prohibido inventar).
+// Actualización 21/10/2026 (radar): el urbano eléctrico ya tiene nombre (Q) y
+// especificaciones verificadas del Chery Q (París 2026): ficha ebro-q-2027
+// incluida con precio europeo aproximado y campos pendientes marcados en aprox.
 // Formato CocheComparador idéntico a comparador-coches-data.ts.
 import type { CocheComparador } from "./comparador-coches-data.ts";
 
@@ -255,5 +257,94 @@ export const COCHES_EBRO: CocheComparador[] = [
         "alto": 1280
       }
     ],
+  },
+  {
+    // Radar 21/10/2026: primer eléctrico de EBRO, basado en el Chery Q (QQ3 en China,
+    // presentado en el Salón de París 2026). Llegada prevista en 2027, fabricado en
+    // Barcelona. Sin precio oficial en España: precioDesde ≈15.000 € (estimación
+    // europea con ayudas según Autonoción); campos sin confirmar marcados en aprox.
+    id: "ebro-q-2027-precio-ficha-tecnica",
+    mantenimientoDIY: {
+        resetAceiteTitulo: "Resetear aviso de revisión/servicio",
+        resetAceitePasos: ["Enciende el coche y espera a que cargue la pantalla central de 15,6 pulgadas.", "Entra en Ajustes del sistema multimedia.", "Busca el apartado de mantenimiento o servicio.", "Consulta los kilómetros o días restantes hasta la próxima revisión.", "Tras pasar la revisión en el servicio oficial, el aviso se reinicia desde el menú o con el equipo de diagnosis."],
+        intervaloMantenimiento: "EBRO aún no ha publicado el plan del Q (llegada prevista en 2027); como referencia orientativa, los eléctricos del segmento revisan cada 24 meses o 30.000 km",
+        filtroPolenUbicacion: "Detrás de la guantera (ubicación estándar)",
+        filtroPolenPasos: ["Apaga el coche por completo.", "Abre la guantera del lado del copiloto.", "Desengancha o desmonta la guantera para acceder a la tapa del alojamiento del filtro.", "Retira la tapa del alojamiento.", "Fíjate en la dirección de la flecha de flujo de aire impresa en el filtro viejo.", "Extrae el filtro usado.", "Inserta el filtro nuevo con la flecha en la misma dirección.", "Vuelve a colocar la tapa del alojamiento y monta de nuevo la guantera.", "Enciende el coche y prueba la climatización para comprobar el caudal de aire."],
+    },
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
+    garantiaBateriaDegradacionPct: null,
+    imagenOficial: "/media/ebro-q-2027-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "",
+    videoId: null,
+    videoCanal: null,
+    marca: "Ebro",
+    modelo: "Q",
+    tipo: "Eléctrico",
+    categoria: "Urbano",
+    precioDesde: 15000,
+    potenciaCv: 122,
+    autonomiaKm: 310,
+    maleteroL: 375,
+    ceroCien: null,
+    velocidadMax: null,
+    bateriaKwh: 41,
+    cargaRapidaKw: 85,
+    etiquetaDgt: "Cero",
+    pros: [
+      "Primer eléctrico de EBRO: 122 CV, tracción trasera y unos 310 km de autonomía",
+      "Se fabricará en Barcelona: acceso al Plan MOVES III sin los aranceles de los chinos importados",
+      "Batería LFP de 41 kWh con carga rápida de 85 kW (del 30 al 80 % en unos 17 minutos)",
+      "Maletero de 375 litros más frunk delantero de 70: el más capaz del segmento",
+      "Pantalla de 15,6 pulgadas, función V2L y 38 huecos portaobjetos en el habitáculo",
+    ],
+    contras: [
+      "Sin precio oficial en España: las estimaciones europeas bailan entre 15.000 y 25.000 €",
+      "Llegada prevista en 2027 y denominación definitiva aún sin confirmar",
+      "Autonomía WLTP sin homologar: las estimaciones rondan los 280-320 km",
+      "Sin prueba EuroNCAP ni datos oficiales de 0-100 o velocidad máxima",
+      "Segmento saturado: Dolphin Surf, Renault 5, ë-C3 e INSTER ya están a la venta",
+    ],
+    largoMm: 4195,
+    anchoMm: 1811,
+    altoMm: 1560,
+    pesoKg: null,
+    consumo: null,
+    consumoUnidad: null,
+    plazas: 5,
+    parNm: null,
+    traccion: "Trasera",
+    emisionesCo2: 0,
+    aprox: ["precioDesde", "autonomiaKm", "maleteroL", "bateriaKwh"],
+    imagen: "/media/ebro-q-2027-precio-ficha-tecnica-oficial.webp",
+    opiniones: [],
+    analisisSlug: "ebro-q-electrico-2027-precio-barcelona",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin prueba EuroNCAP: el modelo llegará en 2027 y aún no ha sido probado",
+    },
+    curiosidad: {
+      texto: "El Chery QQ3, el modelo chino en el que se basa, acumuló 56.897 pedidos en sus primeras horas a la venta en China.",
+      fuenteNombre: "Autonoción",
+      fuenteUrl: "https://www.autonocion.com/motornocion/chery-q-tiggo-x-europa/",
+    },
+    galeria: [
+      {
+        "src": "/media/ebro-q-2027-precio-ficha-tecnica-oficial.webp",
+        "alt": "Chery Q, modelo en el que se basará el EBRO Q, tres cuartos frontal",
+        "ancho": 1600,
+        "alto": 1067,
+      },
+      {
+        "src": "/media/ebro-q-2027-precio-ficha-tecnica-oficial-2.webp",
+        "alt": "Chery Q en el salón del automóvil, vista tres cuartos trasera",
+        "ancho": 1024,
+        "alto": 683,
+      },
+    ],
+    fuenteNombre: "TestCoches, Autonoción y ForoCochesEléctricos (datos del Chery Q, octubre 2026)",
+    fuenteUrl: "https://testcoches.es/noticias/ebro-anuncia-su-primer-coche-electrico-es-el-chery-qq3-que-ya-se-vende-en-china/",
   },
 ];
