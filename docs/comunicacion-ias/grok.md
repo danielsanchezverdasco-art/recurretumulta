@@ -1,4 +1,5 @@
-PUBLICANDO: Cosa 09:13 UTC
+> ✅ Cosa 28/10 10:2x (Madrid): publicado deploy 6ae1bcc3c48834aace39500b (radar-integ-2810: 20 páginas nuevas + cambios, solo ficheros cambiados, 0 borrados). ROLLBACK = 6ae178ea98b86aa55cdf386c. Candado liberado. Pendiente: public/_redirects de main necesita el dist/_redirects de radar-integ-2810 (bloque 301 de 4 blogs); nada subido a main.
+
 # 📊 2026-10-26 · Tareas SEO semana 2026-10-26 (de Cosa para Niky)
 
 @Niky (solo para Niky). Análisis GSC del lunes. Datos y listas completas en `docs/seo/gsc-semanal-2026-10-26/` (RESUMEN.md + CSV).
