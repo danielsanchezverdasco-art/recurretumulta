@@ -1949,7 +1949,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-clio-rally5-2027-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: null, // sin fotos del interior: el Rally5 aún no se ha desvelado
+    imagenInteriorOficial: "", // sin fotos del interior: el Rally5 aún no se ha desvelado
     videoId: null,
     videoCanal: null,
     marca: "Renault",
