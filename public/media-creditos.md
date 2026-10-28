@@ -4419,3 +4419,27 @@ Licencia desconocida; fotos reales del modelo exacto.
 - renault-clio-rally5-2027-precio-ficha-tecnica-hero.webp: Renault Clio VI (sexta generación) tres cuartos delantera, rojo. Origen: artículo oficial Renault Group «New Clio: the legend enters its sixth chapter» (https://www.renaultgroup.com/en/magazine/our-group-news/new-clio-the-legend-enters-its-sixth-chapter/, imagen https://assets.renaultgroup.com/uploads/2025/09/image-20.jpg). El Rally5 2027 aún no se ha desvelado; la foto es del Clio VI de calle, base del futuro coche de carreras (licencia desconocida).
 - renault-clio-rally5-2027-precio-ficha-tecnica-oficial.webp: Renault Clio VI circulando por ciudad, frontal. Origen: kit de prensa oficial Renault «New Renault Clio: the superpowered hatch» (https://media.renault.com/download/?n=New+Renault+Clio%3A+the+superpowered+hatch&picid=551546). Misma nota sobre el Rally5 sin desvelar (licencia desconocida).
 - spotify-app-nativa-audi-47-paises-hero.webp: app nativa de Spotify en el MMI del Audi A6 e-tron. Origen: presskit oficial Audi «Audi Application Store» (https://www.audi.com/en/presskits/audi-application-store-16930, imagen https://uploads.audi.com/system/production/media/134006/images/864152dab1b07970eaf32f46ebb90da014eea95b/A264816_web_1920.jpg). Foto: Audi / Spotify (prensa; licencia desconocida).
+
+## Radar integ 28/10/2026 — origen de las fotos nuevas (artículo o web citados en la propia página)
+
+| Foto | Origen | Crédito | Licencia |
+|---|---|---|---|
+| /media/avatr-espana-2027-paris-hero.webp | https://www.nosolomotor.es/novedades-toma-contacto/avatr-llega-espana-06t-07l-2027/20261021100500002727.html | No Sólo Motor (Concept T09 en París) | desconocida |
+| /media/avatr-espana-2027-06-interior.webp | https://www.nosolomotor.es/novedades-toma-contacto/avatr-llega-espana-06t-07l-2027/20261021100500002727.html | No Sólo Motor (interior AVATR 06) | desconocida |
+| /media/byd-seagull-2026-oficial.webp | https://cnevpost.com/2026/10/20/byd-launches-second-gen-seagull/ | BYD, vía CnEVPost | desconocida |
+| /media/byd-seal-07-2027-hero.webp | https://cnevpost.com/2026/10/23/byd-steps-up-teasers-2nd-gen-seal-07/ | BYD, vía CnEVPost | desconocida |
+| /media/byd-seal-07-2027-interior.webp | https://cnevpost.com/2026/10/23/byd-steps-up-teasers-2nd-gen-seal-07/ | BYD, vía CnEVPost | desconocida |
+| /media/byd-seal-07-2027-oficial.webp | https://cnevpost.com/2026/10/23/byd-steps-up-teasers-2nd-gen-seal-07/ | BYD, vía CnEVPost | desconocida |
+| /media/ebro-s400-2027-224cv-hero.webp | https://www.autonocion.com/ebro-s400-motor-hibrido-nuevo-eco/ | material de prensa difundido por Autonoción | desconocida |
+| /media/ebro-s400-2027-224cv-trasera.webp | https://www.autonocion.com/ebro-s400-motor-hibrido-nuevo-eco/ | material de prensa difundido por Autonoción | desconocida |
+| /media/ford-fathom-2026-prototipos-oficial.webp | https://electrek.co/2026/10/15/fords-fathom-ev-pickup-spotted-again-ahead-of-debut/ | Ford Motor Company, vía Electrek | desconocida |
+| /media/porsche-975-rse-monza-hero.webp | https://newsroom.porsche.com/en/2026/motorsports/porsche-975-rse-formula-e-gen4-technic-43154.html | Porsche AG / Andi Mayr (Porsche Newsroom) | desconocida |
+| /media/renault-clio-rally5-2027-hero.webp | https://www.renaultgroup.com/en/magazine/our-group-news/new-clio-the-legend-enters-its-sixth-chapter/ | Renault Group | desconocida |
+| /media/renault-clio-rally5-2027-oficial.webp | https://media.renault.com/download/?n=New+Renault+Clio%3A+the+superpowered+hatch&picid=551546 | Renault (kit de prensa) | desconocida |
+| /media/spotify-app-nativa-audi-47-paises-hero.webp | https://www.audi.com/en/presskits/audi-application-store-16930 | Audi (presskit Audi Application Store) | desconocida |
+| /media/wuling-atlas-ev-hero.webp | https://www.wulingeurope.com/ | Wuling Europe | desconocida |
+| /media/wuling-atlas-ev-interior.webp | https://www.wulingeurope.com/ | Wuling Europe | desconocida |
+| /media/wuling-atlas-ev-oficial.webp | https://www.wulingeurope.com/ | Wuling Europe | desconocida |
+| /media/xpeng-mona-l05-2026-hero.webp | https://cnevpost.com/2026/10/26/xpeng-starts-global-shipments-mona-l05/ | XPeng, vía CnEVPost | desconocida |
+| /media/xpeng-mona-l05-2026-interior.webp | https://cnevpost.com/2026/10/26/xpeng-starts-global-shipments-mona-l05/ | XPeng, vía CnEVPost | desconocida |
+| /media/xpeng-mona-l05-2026-oficial.webp | https://cnevpost.com/2026/10/26/xpeng-starts-global-shipments-mona-l05/ | XPeng, vía CnEVPost | desconocida |

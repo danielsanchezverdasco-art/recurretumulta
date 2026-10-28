@@ -1177,12 +1177,6 @@ export const COCHES_BMW: CocheComparador[] = [
         ancho: 2048,
         alto: 1152
       },
-      {
-        "src": "/media/bmw-i7-carwow-ofertas.webp",
-        "alt": "BMW i7 blanco, vista de tres cuartos delantera (imagen de Carwow)",
-        "ancho": 800,
-        "alto": 500
-      },
     ],
     fuenteNombre: "motor.es (tarifa oficial i7 60 xDrive, octubre 2026)",
     fuenteUrl: "https://www.motor.es/bmw/i7/",
