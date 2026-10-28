@@ -1943,4 +1943,80 @@ export const COCHES_RENAULT: CocheComparador[] = [
       }
     ]
   },
+  {
+    id: "renault-clio-rally5-2027-precio-ficha-tecnica",
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagenOficial: "/media/renault-clio-rally5-2027-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: null, // sin fotos del interior: el Rally5 aún no se ha desvelado
+    videoId: null,
+    videoCanal: null,
+    marca: "Renault",
+    modelo: "Clio Rally5",
+    tipo: "Competición (Rally5)",
+    categoria: "Deportivo",
+    precioDesde: null, // Renault aún no ha anunciado el precio (desvelo en las próximas semanas; AutoHebdo 24/10/2026)
+    potenciaCv: null, // sin confirmar: el coche aún no se ha desvelado
+    autonomiaKm: null,
+    maleteroL: null,
+    ceroCien: null,
+    velocidadMax: null,
+    bateriaKwh: null,
+    cargaRapidaKw: null,
+    etiquetaDgt: null, // vehículo de competición, no matriculable para circular
+    pros: [
+      "Puerta de entrada a los rallyes FIA con el respaldo de Renault y 60 años de filosofía de motor accesible",
+      "Dos copas monomarca en Francia en 2027, una de asfalto y otra de tierra: calendario listo desde el primer año",
+      "Herencia de la Copa Renault 8 Gordini: seis décadas de competición de base de la marca del rombo",
+      "Base del Clio VI, la sexta generación desvelada en Múnich con un diseño más marcado y musculoso",
+      "Desarrollado según el reglamento FIA Rally5 actualizado para 2027: homologación al día",
+    ],
+    contras: [
+      "Precio sin anunciar: Renault lo desvelará en las próximas semanas junto a los calendarios 2027",
+      "Sin especificaciones confirmadas: potencia, peso y cotas definitivas, pendientes de anuncio oficial",
+      "No matriculable para circular por carretera: uso exclusivo en competición",
+      "Sin datos EuroNCAP: es un coche de carreras, no un turismo de calle",
+      "Mantenimiento de coche de competición: revisiones y recambios a ritmo de rallyes",
+    ],
+    // Cotas del Clio VI de calle (kit de prensa oficial Renault, media.renault.com):
+    // el Rally5 deriva de esa base; sus cotas definitivas están pendientes de anuncio.
+    largoMm: 4116,
+    anchoMm: 1768,
+    altoMm: null,
+    pesoKg: null,
+    consumo: null,
+    consumoUnidad: null,
+    plazas: null,
+    parNm: null,
+    traccion: "Delantera", // la clase FIA Rally5 es de tracción delantera; el coche se desarrolla según ese reglamento (AutoHebdo)
+    emisionesCo2: null,
+    aprox: [],
+    imagen: "/media/renault-clio-rally5-2027-precio-ficha-tecnica-hero.webp",
+    opiniones: [],
+    // costeMensual: no aplica a un vehículo de competición
+    analisisSlug: "renault-clio-rally5-2027-anuncio-copa-rallyes",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: vehículo de competición, no matriculable para circular",
+    },
+    fuenteNombre: "AutoHebdo",
+    fuenteUrl: "https://www.autohebdof1.com/news/rally/Renault-is-preparing-the-sixth-generation-Clio-Rally5--expected-to-compete-in-2027..html",
+    galeria: [
+      {
+        "src": "/media/renault-clio-rally5-2027-precio-ficha-tecnica-hero.webp",
+        "alt": "Renault Clio VI, base del futuro Clio Rally5 2027, vista tres cuartos delantera",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/renault-clio-rally5-2027-precio-ficha-tecnica-oficial.webp",
+        "alt": "Renault Clio VI de sexta generación circulando por ciudad, frontal",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ],
+  },
 ];
