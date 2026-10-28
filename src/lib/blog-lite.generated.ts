@@ -16,7 +16,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "accesorios-caravana-autocaravana-virales-gadgets-chinos-2026",
     "title": "Gadgets chinos virales para caravana y autocaravana 2026",
-    "excerpt": "Starlink Mini, EcoFlow Delta 2, horno Omnia, LevelMatePRO y más gadgets chinos virales para caravana: precios comprobados, tiendas y vídeos.",
+    "excerpt": "Los gadgets de caravana que lo petan en TikTok y YouTube: Starlink Mini, EcoFlow Delta 2, horno Omnia, LevelMatePRO y más. Precios reales, dónde comprarlos y vídeos.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -36,8 +36,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "accesorios-patinete-electrico-silla-bebe-gadgets-2026",
-    "title": "Patinete eléctrico: accesorios útiles y la silla de bebé",
-    "excerpt": "Luces, candados, infladores y soportes con precios comprobados, más la advertencia clave: llevar a un bebé en patinete está prohibido en España y se multa.",
+    "title": "Accesorios para patinete eléctrico: los gadgets chinos que sí merecen la pena (y la verdad sobre la silla de bebé)",
+    "excerpt": "Los mejores accesorios para patinete eléctrico: iluminación, antirrobo, mantenimiento y confort con precios reales. Y la verdad clara sobre la silla de bebé: existe, pero es ilegal en España.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -52,7 +52,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "multa llevar niño patinete",
       "normativa patinete electrico DGT"
     ],
-    "readTime": 9
+    "readTime": 8
   },
   {
     "slug": "aion-v-2025-precio-ficha-tecnica",
@@ -2337,7 +2337,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "adria-coral-plus-670-sl-precio-ficha-tecnica",
     "title": "Adria Coral Plus 670 SL: Skyroof y camas gemelas",
-    "excerpt": "Perfilada eslovena de 7,49 m con Fiat Ducato de 140 CV, camas traseras, cama abatible y doble techo panorámico. Sin precio oficial: toca pedir presupuesto.",
+    "excerpt": "Precio no publicado oficialmente: la Adria Coral Plus 670 SL 2026 es una perfilada de 7,49 m con camas gemelas traseras, doble techo panorámico Skyroof, Fiat Ducato de 140 CV, 4 plazas y carnet B.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -2432,7 +2432,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "itineo-pf600-precio-ficha-tecnica",
     "title": "Itineo PF600: perfilada de 5,99 m para dormir cuatro",
-    "excerpt": "Perfilada francesa de 5,99 m, 4 plazas para viajar y 4 para dormir, con Boxer o Ducato de 140 CV y carnet B. Sin PVP: precio en concesionario.",
+    "excerpt": "Precio no publicado oficialmente: la Itineo PF600 2026 es una perfilada de 5,99 m de la marca joven del grupo Rapido, con 4 plazas para viajar y 4 para dormir, Peugeot Boxer/Fiat Ducato de 140 CV y ca",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -2450,8 +2450,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "mclouis-menfys-van-3-maxi-s-line-precio-ficha-tecnica",
-    "title": "Menfys Van 3 Maxi S-Line: camper con 4 literas fijas",
-    "excerpt": "Sin precio oficial publicado, McLouis Menfys Van 3 Maxi S-Line duerme a cuatro en literas fijas dentro de 5,995 m, con Jumper de 140 CV y carnet B.",
+    "title": "McLouis Menfys Van 3 Maxi S-Line 2026: ficha técnica, literas en 5,99 m",
+    "excerpt": "Precio no publicado oficialmente: la McLouis Menfys Van 3 Maxi S-Line 2026 es un camper de 5,995 m con literas traseras para 4 camas fijas, Citroën Jumper de 140 CV, 4 plazas y carnet B.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -2469,8 +2469,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "possl-summit-600-plus-precio-ficha-tecnica",
-    "title": "Pössl Summit 600 Plus 2026: baño giratorio y 5,99 m",
-    "excerpt": "Sin PVP oficial: el camper alemán de 5,99 m combina baño giratorio, nevera accesible desde fuera y Jumper de 140 CV con carnet B.",
+    "title": "Pössl Summit 600 Plus 2026: ficha técnica, baño giratorio y nevera exterior",
+    "excerpt": "Precio no publicado oficialmente: la Pössl Summit 600 Plus 2026 es un camper alemán de 5,99 m con baño giratorio, nevera de compresor accesible desde fuera, Citroën Jumper de 140 CV, 4 plazas y carnet",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -2488,8 +2488,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "roller-team-kronos-285-tl-precio-ficha-tecnica",
-    "title": "Roller Team Kronos 285 TL: familiar de 5 plazas y 6,99 m",
-    "excerpt": "Perfilada familiar de 6,99 m con cinco asientos en ruta y cinco camas, base Ford Transit y precio de referencia alemán de 81.431 €. Cabe en el carnet B.",
+    "title": "Roller Team Kronos 285 TL 2026: ficha técnica, 5 plazas familiares y precio",
+    "excerpt": "Desde 81.431 € (UVP oficial Alemania): la Roller Team Kronos 285 TL 2026 es una perfilada familiar de 6,99 m con 5 plazas para viajar y 5 para dormir, Ford Transit de 130 CV, camas gemelas y carnet B.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -2507,7 +2507,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "westfalia-james-cook-precio-ficha-tecnica",
-    "title": "Westfalia James Cook 2026: Sprinter premium en 5,93 m",
+    "title": "Westfalia James Cook 2026: ficha técnica, Sprinter premium en 5,93 m",
     "excerpt": "Camper premium sobre Sprinter desde 95.790 € en Alemania: 5,93 m, 150 CV, 4 plazas para viajar, 2 para dormir y carnet B en la Classic.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
@@ -2726,7 +2726,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "burstner-lyseo-td-690-g-precio-ficha-tecnica",
     "title": "Bürstner Lyseo TD 690 G: precio, ficha y doble suelo",
-    "excerpt": "La Bürstner Lyseo TD 690 G 2026 cuesta 82.530 CHF en Suiza: perfilada de 6,99 m con camas gemelas, doble suelo técnico, carnet B y 4-5 plazas.",
+    "excerpt": "82.530 CHF en Suiza: la Bürstner Lyseo TD 690 G 2026 es una perfilada de 6,99 m con camas gemelas, doble suelo técnico y Vario-Seat. Carnet B, 4-5 plazas y construcción alemana.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -2744,13 +2744,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "challenger-380-precio-ficha-tecnica",
-    "title": "Challenger 380 2026: 6 camas en 7,29 m con base Ford",
-    "excerpt": "Capuchina de 7,29 metros para seis: Ford Transit de 155 CV, literas traseras de 78 x 200 cm, garaje amplio y carnet B, sin tarifa oficial española.",
+    "title": "Challenger 380 2026: capuchina familiar de 6 plazas, ficha técnica y precio",
+    "excerpt": "Sin precio oficial en España: la Challenger 380 2026 es una capuchina de 7,29 m sobre Ford Transit 155 CV con 6 plazas de noche, literas traseras y gran garaje. Carnet B.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/challenger-380-2026-foto-challenger-salon.webp",
+    "heroAlt": "Salón con dinette en L de la Challenger 380 Graphite Edition 2026",
     "keywords": [
       "Challenger 380 2026",
       "Challenger 380 ficha técnica",
@@ -2934,8 +2934,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "challenger-v114-start-edition-precio-ficha-tecnica",
-    "title": "Challenger V114 2026: camper 5,99 m, precio y ficha",
-    "excerpt": "La V114 Road Edition, antes Start Edition, mide 5,99 m, lleva baño con ventana y Jumper de 120 CV: Challenger no publica PVP oficial en 2026.",
+    "title": "Challenger V114 2026: ficha técnica, camper de 5,99 m y precio",
+    "excerpt": "Sin PVP oficial publicado: la Challenger V114 Road Edition 2026 (antes Start Edition) es la camper de 5,99 m con cama trasera amovible, gran baño con ventana, Citroën Jumper de 120 CV y carnet B.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -2953,8 +2953,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "dreamer-d55-up-precio-ficha-tecnica",
-    "title": "Dreamer D55 UP 2026: camper 5,99 m, 4 camas y precio",
-    "excerpt": "Sin PVP oficial (refs. desde 77.710 € en Bélgica): camper 5,99 m con techo elevable, 4 plazas adultas, armario pivotante, base 120 CV y permiso B.",
+    "title": "Dreamer D55 UP 2026: ficha técnica, techo elevable y precio",
+    "excerpt": "Sin PVP oficial (referencias: desde 77.710 € en Bélgica): la Dreamer D55 UP 2026 es la camper de 5,99 m con techo elevable, 4 plazas de adulto, Modul'Space, Fiat Ducato de 120 CV y carnet B.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3049,7 +3049,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "sunlight-cliff-602-precio-ficha-tecnica",
     "title": "Sunlight Cliff 602 2026: camper Adventure de 5,99 m",
-    "excerpt": "Camper Adventure de 5,99 m con camas gemelas traseras, baño Vario y frigo de 156 litros: tarifa alemana desde 61.848,62 €, Ducato de 140 CV y carnet B.",
+    "excerpt": "Desde 61.848,62 € (tarifa oficial Alemania; sin PVP en España): la Sunlight Cliff 602 2026 es la camper Adventure de 5,99 m con techo elevable opcional, Fiat Ducato de 140 CV y carnet B.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3063,7 +3063,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "camper Sunlight 599",
       "Sunlight Adventure"
     ],
-    "readTime": 8
+    "readTime": 7
   },
   {
     "slug": "xgo-x-van-104-precio-ficha-tecnica",
@@ -3087,7 +3087,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "ahorncamp-t-690-precio-ficha-tecnica",
     "title": "Ahorn Camp T 690 Eclipse 2026: tarifa, medidas y dormitorio",
-    "excerpt": "La T 690 Eclipse cuesta 61.900 € en Alemania, mide 6,99 m, duerme entre 2 y 4 personas y se conduce con el B en su versión de 3.500 kg.",
+    "excerpt": "61.900 € de PVP recomendado en Alemania: ficha de la Ahorn Camp T 690 Eclipse 2026, perfilada de 6,99 m sobre Renault Master de 130 CV, camas gemelas unificables, garantía de estanqueidad de 7 años y ",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3101,7 +3101,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "perfilada Ahorn Camp camas gemelas",
       "autocaravana Ahorn Camp España"
     ],
-    "readTime": 11
+    "readTime": 9
   },
   {
     "slug": "ci-horon-84-xt-precio-ficha-tecnica",
@@ -3124,8 +3124,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "chausson-640-first-line-precio-ficha-tecnica",
-    "title": "Chausson 640 First Line 2026: baño trasero completo, 6,99 m",
-    "excerpt": "Perfilada de 6,99 m desde 65.490 € en Francia: baño trasero completo, salón Smart Lounge, basculante eléctrica de 160 × 190, Transit de 130 CV y permiso B.",
+    "title": "Chausson 640 First Line 2026: precio, ficha técnica y opinión",
+    "excerpt": "Desde 65.490 € de tarifa en Francia: ficha del Chausson 640 First Line 2026, perfilada de 6,99 m con baño trasero de ancho completo, salón Smart Lounge, cama basculante eléctrica de 160 × 190, Ford Tr",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3143,8 +3143,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "elnagh-baron-565-precio-ficha-tecnica",
-    "title": "Elnagh Baron 565: dormir cinco con calor diésel",
-    "excerpt": "Perfilada italiana de 6,99 m con gemelas, basculante eléctrica y calor diésel de serie. Sin PVP oficial: el precio sale de la oferta del concesionario.",
+    "title": "Elnagh Baron 565 2026: ficha técnica, camas gemelas y precio",
+    "excerpt": "Sin PVP oficial publicado: ficha de la Elnagh Baron 565 2026, perfilada italiana de 6,99 m con camas gemelas traseras sobre maxi-garaje, cama basculante eléctrica, calefacción diésel Truma Combi 4 de ",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3162,8 +3162,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "giottiline-toscan-69gc-precio-ficha-tecnica",
-    "title": "Giottiline Toscan 69GC: 6,99 m, fibroplast y 71.400 €",
-    "excerpt": "Perfilada de 6,99 m con camas gemelas, Stellantis 2.2 de 140 CV, fibroplast y 10 años anti-infiltraciones, desde 71.400 € en Italia.",
+    "title": "Giottiline Toscan 69GC 2026: precio, ficha técnica y opinión",
+    "excerpt": "Desde 71.400 € de tarifa en Italia: ficha del Giottiline Toscan 69GC 2026, perfilada compacta de 6,99 m con camas gemelas traseras, base Stellantis 2.2 de 140 CV, construcción en fibroplast sin madera",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3177,12 +3177,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "perfilada Giottiline Toscan",
       "autocaravana Giottiline España"
     ],
-    "readTime": 9
+    "readTime": 8
   },
   {
     "slug": "knaus-sky-ti-650-mf-precio-ficha-tecnica",
-    "title": "Knaus Sky TI 650 MF: precio y cama francesa en 6,95 m",
-    "excerpt": "Perfilada ancha desde 81.000 € en Alemania: 6,95 m, cama francesa trasera, basculante, garaje y Ducato 120 CV, con carnet B.",
+    "title": "Knaus Sky TI 650 MF 2026: precio, ficha técnica y cama francesa",
+    "excerpt": "Desde 81.000 € de tarifa en Alemania: ficha del Knaus Sky TI 650 MF 2026, perfilada ancha de 6,95 m con cama francesa trasera siempre hecha, garaje trasero, Fiat Ducato de 120 CV, 3 plazas y carnet B.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3196,12 +3196,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "perfilada Knaus Sky TI",
       "autocaravana Knaus España"
     ],
-    "readTime": 9
+    "readTime": 8
   },
   {
     "slug": "morelo-palace-88-lb-precio-ficha-tecnica",
-    "title": "Morelo Palace 88 LB 2026: lujo alemán en 8,99 metros",
-    "excerpt": "Integral de lujo desde 293.900 € en Alemania, con base Iveco Daily de 175 CV, cambio ZF de 8 marchas, 1.810 kg de carga útil, carnet C1 y 8,99 m.",
+    "title": "Morelo Palace 88 LB 2026: precio, ficha técnica y lujo alemán",
+    "excerpt": "Desde 293.900 € de tarifa oficial en Alemania: ficha del Morelo Palace 88 LB 2026, integral de lujo de 8,99 m sobre Iveco Daily de 175 CV, cambio automático ZF de 8 marchas de serie, 1.810 kg de carga",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3219,8 +3219,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "rapido-v55-precio-ficha-tecnica",
-    "title": "Rapido V55 2026: camper 5,99 m con ducha MODUL'SPACE",
-    "excerpt": "Camper Rapido V55 Optimum Line 2026 de 5,99 m sobre Boxer 140 CV, 4 plazas de viaje y ducha MODUL'SPACE. Sin PVP oficial: cifras de concesionarios.",
+    "title": "Rapido V55 Optimum Line 2026: ficha técnica, Modul'Space y precio",
+    "excerpt": "Sin PVP oficial publicado: ficha del Rapido V55 Optimum Line 2026, camper de 5,99 m sobre Peugeot Boxer de 140 CV con el ingenioso sistema patentado MODUL'SPACE, cama transversal trasera de 195 × 132,",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3277,7 +3277,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "campereve-magellan-643-precio-ficha-tecnica",
     "title": "Magellan 643 2026: el camper francés del baño pivotante",
-    "excerpt": "Sin PVP oficial: Magellan 643 2026, camper francés de 5,99 m, Modul'Space pivotante con ducha independiente, cama 192×132 cm y edición Saphir.",
+    "excerpt": "Sin PVP oficial: el Campérêve Magellan 643 2026, camper francés de 5,99 m con el sistema Modul'Space patentado —un armario que pivota y crea una ducha independiente—, cama transversal de 192×132 cm y ",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3291,12 +3291,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "camper Campérêve opiniones",
       "camper 6 metros Francia"
     ],
-    "readTime": 8
+    "readTime": 9
   },
   {
     "slug": "chausson-640-titanium-precio-ficha-tecnica",
-    "title": "Chausson 640 Titanium: perfilada de 6,99 m desde 69.490 €",
-    "excerpt": "Perfilada de 6,99 metros, cuatro plazas y permiso B: salón SmartLounge, cama abatible ancha, base Ford de 130 CV y precio de referencia de 69.490 €.",
+    "title": "Chausson 640 Titanium 2026: precio 69.490 €, el superventas europeo con cama basculante de 160 cm",
+    "excerpt": "Precio desde 69.490 €: la Chausson 640 Titanium 2026, perfilada de 6,99 m con el concepto SmartLounge —maxi-salón cara a cara y cama basculante de 160 cm—, Ford Transit de 130 CV, 4 plazas y carnet B.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3314,8 +3314,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "etrusco-cv-600-sb-precio-ficha-tecnica",
-    "title": "Etrusco CV 600 SB 2026: camper de 6 m desde 57.990 €",
-    "excerpt": "Camper italiano de 5,99 m con dos lechos traseros de 191 cm, base abatible, Ducato 140 CV y tarifa europea desde 57.990 €, válido con el carnet B.",
+    "title": "Etrusco CV 600 SB 2026: precio desde 57.990 €, el primer camper de 6 m con dos camas individuales grandes",
+    "excerpt": "Precio oficial europeo desde 57.990 €: el Etrusco CV 600 SB 2026, camper de 5,99 m con la primicia de dos camas individuales de hasta 191 cm, somier abatible con 180 cm de altura de carga, Fiat Ducato",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3352,8 +3352,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "knaus-van-ti-650-meg-precio-ficha-tecnica",
-    "title": "Knaus Van TI 650 MEG: perfilada de 2,20 m desde 77.890 €",
-    "excerpt": "Perfilada alemana de 6,96 m y solo 2,20 m de ancho: camas traseras, garaje calefactado, Truma diésel de serie y precio desde 77.890 € con carnet B.",
+    "title": "Knaus Van TI 650 MEG Vansation 2026: precio desde 77.890 €, perfilada estrecha de 2,20 m con diésel de serie",
+    "excerpt": "Precio desde 77.890 €: el Knaus Van TI 650 MEG Vansation 2026, perfilada de 6,96 m y solo 2,20 m de ancho con camas gemelas traseras, garaje calefactado de doble acceso, calefacción Truma Combi 6D de ",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3371,8 +3371,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "niesmann-bischoff-flair-920-precio-ficha-tecnica",
-    "title": "Niesmann+Bischoff Flair 920: liner de 9,27 m y 207 CV",
-    "excerpt": "Liner insignia de 9,27 m sobre Iveco Daily de 207 CV, con carnet C por sus 7.490 kg y calefacción Alde; sin tarifa oficial, entre 359.000 y 380.000 €.",
+    "title": "Niesmann+Bischoff Flair 920 2026: el liner premium de 9,27 m con carnet C y 207 CV",
+    "excerpt": "Sin tarifa oficial: el Niesmann+Bischoff Flair 920 2026, liner insignia de 9,27 m con Iveco Daily 3.0 de 207 CV y cambio ZF, 7.490 kg de MMA con carnet C, camas gemelas de 2,01×2,04 m, calefacción Ald",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3386,7 +3386,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Flair 920 opiniones",
       "autocaravana premium Alemania"
     ],
-    "readTime": 8
+    "readTime": 9
   },
   {
     "slug": "rapido-v62-precio-ficha-tecnica",
@@ -3429,7 +3429,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "benimar-amphitryon-940-precio-ficha-tecnica",
     "title": "Benimar Amphitryon 940: integral de 6,99 m para cinco",
-    "excerpt": "Integral española sin PVP oficial: 6,99 m, cinco plazas, tres camas fijas, calefacción a gasóleo y garaje regulable, con datos de concesionario.",
+    "excerpt": "Sin precio oficial publicado: ficha de la Benimar Amphitryon 940 2026, integral española de 6,99 m con 5 plazas para viajar y dormir, triple sistema de camas, calefacción a gasóleo y garaje regulable.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3447,8 +3447,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "carado-a-361-pro-precio-ficha-tecnica",
-    "title": "Carado A 361 PRO 2026: 6 plazas desde 65.499 €",
-    "excerpt": "Capuchina alemana de 6,61 m para 6 viajeros y 6 durmientes, cama alta de 210x160, literas traseras y tarifa oficial de 65.499 €.",
+    "title": "Carado A 361 PRO 2026: capuchina de 6 plazas por 65.499 €, ficha técnica y opinión",
+    "excerpt": "Precio oficial 65.499 € en Alemania: ficha de la Carado A 361 PRO 2026, capuchina alemana de 6,61 m con 6 plazas para viajar y 6 para dormir, cama de capuchina de 210x160 cm y acabado PRO todo incluid",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3485,8 +3485,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "etrusco-t-6900-sb-precio-ficha-tecnica",
-    "title": "Etrusco T 6900 SB 2026: perfilada de 6,95 m y 68.999 €",
-    "excerpt": "La T 6900 SB 2026, perfilada de 6,95 m con camas gemelas y motor Ducato de 140 CV, parte de 68.999 € en Alemania y baja a 66.499 € en promoción.",
+    "title": "Etrusco T 6900 SB 2026: la perfilada sub-7 m por 68.999 €, ficha técnica y opinión",
+    "excerpt": "Precio oficial 68.999 € (66.499 € en promoción): ficha de la Etrusco T 6900 SB 2026, la única perfilada de menos de 7 m de la serie T-Model Fiat, con camas gemelas, diseño italiano y lenguaje Type X. ",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3500,7 +3500,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "perfilada Etrusco camas gemelas",
       "Etrusco T 6900 opiniones"
     ],
-    "readTime": 10
+    "readTime": 9
   },
   {
     "slug": "hobby-optima-ontour-edition-f-v65-ge-precio-ficha-tecnica",
@@ -3580,7 +3580,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "sunlight-t-68-precio-ficha-tecnica",
-    "title": "Sunlight T 68 Adventure 2026: perfilada familiar con garaje",
+    "title": "Sunlight T 68 Adventure 2026: ficha técnica y opinión de la perfilada aventurera",
     "excerpt": "Perfilada de 7,41 m sin precio oficial en España: 5 plazas para dormir, camas gemelas traseras, garaje pasante y sello Adventure del grupo Hymer.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
@@ -3600,7 +3600,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "benimar-mileo-243-precio-ficha-tecnica",
     "title": "Benimar Mileo 243: perfilada de 6,99 m y cama trasera fija",
-    "excerpt": "Benimar Mileo 243 sin precio oficial: perfilada de 6,99 m, Ducato 140 CV, 4 plazas, cama trasera fija y basculante eléctrica, sistema ISB sin madera.",
+    "excerpt": "Sin precio oficial publicado: la Benimar Mileo 243 2026, perfilada española de 6,99 m con cama transversal trasera y cama basculante eléctrica, Fiat Ducato de 140 CV, 4 plazas y permiso B.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3618,8 +3618,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "carado-t-447-precio-ficha-tecnica",
-    "title": "Carado T 447 2026: perfilada de 7,41 m desde 62.599 €",
-    "excerpt": "Perfilada Carado T 447 2026 desde 62.599 € en tarifa alemana: 7,41 m, camas gemelas, garaje de doble acceso, Jumper de 140 CV y carnet B.",
+    "title": "Carado T 447 2026: ficha técnica, camas gemelas y la perfilada familiar más asequible del grupo Hymer",
+    "excerpt": "Desde 62.599 € en tarifa oficial alemana: ficha de la Carado T 447 2026, perfilada de 7,41 m con camas gemelas traseras, garaje de doble acceso, Citroën Jumper de 140 CV y carnet B.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3637,8 +3637,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "chausson-720-first-line-precio-ficha-tecnica",
-    "title": "Chausson 720 First Line 2026: seis camas y carnet B",
-    "excerpt": "Perfilada familiar de 7,19 m con seis plazas para dormir, litera trasera y salón Smart Lounge con ISOFIX, sobre Ford Transit de 130 CV.",
+    "title": "Chausson 720 First Line 2026: ficha técnica, seis plazas para dormir y salón Smart Lounge con ISOFIX",
+    "excerpt": "63.990 € en una unidad nueva anunciada en Francia: ficha de la Chausson 720 First Line 2026, perfilada familiar de 7,19 m con seis plazas para dormir, litera trasera, Ford Transit de 130 CV y carnet B",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3652,12 +3652,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "perfilada familiar seis plazas",
       "autocaravana Chausson España"
     ],
-    "readTime": 9
+    "readTime": 8
   },
   {
     "slug": "etrusco-t-7400-sb-precio-ficha-tecnica",
-    "title": "Etrusco T 7400 SB 2026: gemelas de 217 cm y ducha aparte",
-    "excerpt": "El Etrusco T 7400 SB 2026 sin tarifa en euros: perfilada italiana de 7,40 m, lechos gemelos de 217 cm, ducha separada y motor Fiat de 140 CV con carnet B.",
+    "title": "Etrusco T 7400 SB 2026: ficha técnica, camas gemelas de 217 cm y ducha separada",
+    "excerpt": "Sin tarifa oficial en euros: el Etrusco T 7400 SB 2026 es una perfilada italiana de 7,40 m, con camas gemelas de 217 cm, ducha separada, motor Fiat Ducato de 140 CV, con permiso B.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3671,12 +3671,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "perfilada Etrusco camas gemelas",
       "autocaravana Etrusco España"
     ],
-    "readTime": 8
+    "readTime": 7
   },
   {
     "slug": "hymer-b-class-masterline-i-780-precio-ficha-tecnica",
-    "title": "Hymer MasterLine I 780: integral premium desde 166.700 €",
-    "excerpt": "Integral Hymer de 7,89 m sobre Mercedes Sprinter, con 150 CV, camas gemelas y ALDE de serie: desde 166.700 €, pero exige carnet C1 por sus 4.430 kg de MMA.",
+    "title": "Hymer B-Class MasterLine I 780 2026: ficha técnica, integral sobre Mercedes Sprinter y carnet C1",
+    "excerpt": "Desde 166.700 € según la tarifa oficial de Hymer España: el B-Class MasterLine I 780 2026 es una integral de 7,89 m sobre Mercedes Sprinter, con 150 CV, calefacción ALDE y permiso C1.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3714,7 +3714,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "pilote-g740fgj-evidence-precio-ficha-tecnica",
     "title": "Pilote G740FGJ ÉVIDENCE 2026: ficha técnica, serie lista para partir y 160 CV automáticos de serie",
-    "excerpt": "Precio no publicado oficialmente: ficha del Pilote G740FGJ ÉVIDENCE 2026, integral francesa de 7,56 m con litio de 200 Ah y solar de serie, 160 CV automáticos, 4 plazas y carnet B.",
+    "excerpt": "Sin precio oficial publicado: el Pilote G740FGJ ÉVIDENCE 2026 es una integral francesa de 7,56 m, con litio de 200 Ah y solar de serie, 160 CV automáticos, 4 plazas y permiso B.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3771,7 +3771,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "benimar-mileo-m263-precio-ficha-tecnica",
     "title": "Benimar Mileo M263: perfilada de 7,39 m y camas gemelas",
-    "excerpt": "Sin PVP oficial en España: perfilada de 7,39 m con camas gemelas, cama de techo eléctrica, Ducato de 140 CV, 4 plazas y carnet B.",
+    "excerpt": "Sin precio oficial publicado: ficha de la Benimar Mileo M263 2026, perfilada española de 7,39 m con camas gemelas traseras, cama de techo eléctrica, Fiat Ducato de 140 CV, 4 plazas y carnet B.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3789,8 +3789,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "carthago-c-compactline-i-138-db-precio-ficha-tecnica",
-    "title": "Carthago I 138 DB: integral corta, ligera y ya sin gama",
-    "excerpt": "Integral alemana de 6,41 m y 2.830 kg, con cama trasera y basculante eléctrica. Desde £106.990 en Reino Unido; en España, precio en concesionario.",
+    "title": "Carthago C-Compactline I 138 DB 2026: la integral premium de 6,41 metros con carnet B",
+    "excerpt": "Desde £106.990 (tarifa oficial en el Reino Unido; sin PVP en España): ficha de la Carthago C-Compactline I 138 DB 2026, integral premium de 6,41 m con cama doble transversal, basculante eléctrica, Fia",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3808,8 +3808,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "chausson-777-titanium-line-precio-ficha-tecnica",
-    "title": "Chausson 777 Titanium Line: camas gemelas y baño central",
-    "excerpt": "Sin PVP oficial: el Chausson 777 Titanium Line 2026 mide 7,19 m, duerme a 4 con camas gemelas king-size, baño central y motores Ford o Fiat de 130-140 CV.",
+    "title": "Chausson 777 Titanium Line 2026: el tres ambientes con baño central y camas king-size",
+    "excerpt": "Precio no publicado oficialmente: análisis del Chausson 777 Titanium Line 2026, perfilada francesa de 7,19 m con camas gemelas king-size, baño central de doble puerta, Ford Transit o Fiat Ducato de 13",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3827,8 +3827,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "etrusco-t-7400-sbc-precio-ficha-tecnica",
-    "title": "Etrusco T 7400 SBC 2026: baño central y 5 plazas",
-    "excerpt": "Desde 69.999 € en Alemania (67.499 € en promo hasta el 31/10/2026), sin PVP en España: perfilada de 7,40 m con baño central, camas gemelas y 5 plazas.",
+    "title": "Etrusco T 7400 SBC 2026: precio, baño central y cinco plazas en 7,40 metros",
+    "excerpt": "Desde 69.999 € (tarifa oficial en Alemania; promoción de otoño a 67.499 € hasta el 31/10/2026; sin PVP en España): ficha de la Etrusco T 7400 SBC 2026, perfilada familiar de 7,40 m con baño central, c",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3847,7 +3847,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "hymer-b-mc-i-600-precio-ficha-tecnica",
     "title": "Hymer B-MC I 600 2026: la integral premium sobre Mercedes Sprinter con carnet B",
-    "excerpt": "Desde 141.000 € («desde» oficial de la gama B-MC I en Alemania; sin PVP en España): ficha de la Hymer B-MC I 600 2026, integral de 7,19 m sobre Mercedes Sprinter de 150 CV, parabrisas panorámico, 4-5 ",
+    "excerpt": "Desde 141.000 € («desde» oficial de la gama B-MC I en Alemania; sin PVP en España): ficha de la Hymer B-MC I 600 2026, integral de 7,19 m con base Mercedes Sprinter de 150 CV, parabrisas panorámico, 4",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3866,7 +3866,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "laika-kosmo-l-319-precio-ficha-tecnica",
     "title": "Laika Kosmo L 319 2026: diseño Giugiaro y camas de 205 cm en 6,95 metros",
-    "excerpt": "Desde unos 82.500 € (referencia no oficial de un concesionario alemán; Laika no publica PVP): ficha de la Laika Kosmo L 319 2026, perfilada italiana de 6,95 m con camas gemelas de hasta 205 cm, baño V",
+    "excerpt": "Desde unos 82.500 € (referencia no oficial facilitada por un concesionario alemán; Laika no publica PVP): ficha de la Laika Kosmo L 319 2026, perfilada italiana de 6,95 m con camas gemelas de 205 cm c",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3923,7 +3923,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "weinsberg-caracompact-600-meg-precio-ficha-tecnica",
     "title": "Weinsberg CaraCompact 600 MEG 2026: camas gemelas de 2 metros en 6,75 m",
-    "excerpt": "Desde 69.290 € (precio de lista en Alemania de una unidad 2026 Edition Pepper con extras; sin PVP en España): ficha del Weinsberg CaraCompact 600 MEG 2026, perfilada compacta de 6,75 m con camas gemel",
+    "excerpt": "Desde 69.290 € (precio de catálogo en Alemania de una unidad 2026 Edition Pepper con extras; sin PVP en España): ficha del Weinsberg CaraCompact 600 MEG 2026, perfilada compacta de 6,75 m con camas ge",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3960,8 +3960,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "carthago-c-tourer-i-148-le-precio-ficha-tecnica",
-    "title": "Carthago C-Tourer I 148 LE: integral 7,39 m, camas gemelas",
-    "excerpt": "Integral alemana de gama 2024, sin PVP oficial: 7,39 m, Fiat Ducato 140 CV, doble suelo de 220 mm y 4 plazas con carnet B.",
+    "title": "Carthago C-Tourer I 148 LE 2026: integral alemana de camas gemelas, doble suelo y 2,27 m de ancho",
+    "excerpt": "Precio no publicado: ficha de la Carthago C-Tourer I 148 LE 2026, integral de 7,39 m (gama 2024) con camas gemelas longitudinales, doble suelo de 220 mm, Fiat Ducato de 140 CV, 4 plazas y carnet B. So",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3975,12 +3975,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "integral Carthago camas gemelas",
       "autocaravana Carthago ocasión"
     ],
-    "readTime": 7
+    "readTime": 8
   },
   {
     "slug": "chausson-s514-first-line-precio-ficha-tecnica",
-    "title": "Chausson S514 First Line: perfilada slim de 5,99 m",
-    "excerpt": "Sin tarifa oficial en España: el Chausson S514 First Line 2026 mide 5,99 m por 2,10 m, duerme a 2-3 con cama butterfly, Ducato de 140 CV y caldera Webasto.",
+    "title": "Chausson S514 First Line 2026: la perfilada estrecha de 2,10 m con cama butterfly y calefacción diésel",
+    "excerpt": "Sin tarifa oficial para España: ficha del Chausson S514 First Line 2026, perfilada slim de 5,99 m y solo 2,10 m de ancho, cama trasera butterfly abatible, Fiat Ducato de 140 CV, caldera diésel Webasto",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -3998,8 +3998,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "eura-mobil-activa-one-650-hs-precio-ficha-tecnica",
-    "title": "Eura Mobil Activa One 650 HS: capuchina invernal",
-    "excerpt": "Capuchina de 6,50 m sobre Fiat Ducato de 140 CV, con doble suelo calefactado de 37 cm, norma EN 1646 y precio de referencia de 80.500 € en Alemania.",
+    "title": "Eura Mobil Activa One 650 HS 2026: la capuchina invernal con doble suelo calefactado de 37 cm",
+    "excerpt": "Precio de entrada aprox. 80.500 € en Alemania: ficha del Eura Mobil Activa One 650 HS 2026, capuchina de 6,50 m sobre Fiat Ducato de 140 CV, doble suelo calefactado de 37 cm, norma EN 1646, 10 años de",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -4013,12 +4013,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "capuchina invierno doble suelo",
       "autocaravana Eura Mobil España"
     ],
-    "readTime": 8
+    "readTime": 7
   },
   {
     "slug": "hymer-b-mc-i-600-whiteline-precio-ficha-tecnica",
-    "title": "Hymer B-MC I 600 WhiteLine 2026: 7,19 m desde 142.500 €",
-    "excerpt": "Integral Mercedes de 7,19 m con paquete WhiteLine: 177 CV, cambio de 9 marchas, MBUX y cuero Napoli desde 142.500 € en Alemania. Plazas, medidas y ficha.",
+    "title": "Hymer B-MC I 600 WhiteLine 2026: la integral Mercedes de 7,19 m con edición que ahorra en extras",
+    "excerpt": "PVP oficial en Alemania desde 142.500 €: ficha del Hymer B-MC I 600 WhiteLine 2026, integral de 7,19 m sobre Mercedes Sprinter con chasis SLC, edición WhiteLine con 177 CV, automático de 9V, toldo, MB",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -4036,8 +4036,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "laika-kreos-l-5009-precio-ficha-tecnica",
-    "title": "Laika Kreos L 5009: lujo italiano, 7,89 m y carnet C1",
-    "excerpt": "Referencia alemana de 166.797 € (unidad de 2024): la perfilada toscana de 7,89 m, con doble suelo calefactado, Alde de 6 kW y 4.500 kg que piden el C1.",
+    "title": "Laika Kreos L 5009 2026: la perfilada italiana de Giugiaro con calefacción Alde y doble suelo",
+    "excerpt": "UVP oficial en Alemania de 166.797 €: ficha del Laika Kreos L 5009 2026, perfilada de 7,89 m diseñada por GFG Style, camas gemelas de 195×80, calefacción Alde de 6 kW, doble suelo calefactado de 250 m",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -4051,7 +4051,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "perfilada premium italiana",
       "autocaravana Laika España"
     ],
-    "readTime": 10
+    "readTime": 8
   },
   {
     "slug": "pilote-v600g-precio-ficha-tecnica",
@@ -4074,8 +4074,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "rimor-superbrig-687-tc-precio-ficha-tecnica",
-    "title": "Rimor SuperBrig 687 TC 2026: capuchina de 4 camas, 70.840 €",
-    "excerpt": "Capuchina italiana de 6,97 m con cuatro lechos siempre listos, Transit de 130 CV, 556 kg útiles y tarifa alemana de 70.840 €. Permiso B.",
+    "title": "Rimor SuperBrig 687 TC 2026: la capuchina familiar con precio oficial por escrito",
+    "excerpt": "PVP oficial de 70.840 € (lista Alemania): ficha de la Rimor SuperBrig 687 TC 2026, capuchina de 6,97 m sobre Ford Transit de 130 CV, 4 camas siempre hechas, 556 kg de carga útil oficial y sistema MEB-",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -4089,11 +4089,11 @@ export const BLOG_LITE: BlogLitePost[] = [
       "capuchina familiar 4 camas",
       "autocaravana Rimor España"
     ],
-    "readTime": 8
+    "readTime": 7
   },
   {
     "slug": "weinsberg-carahome-600-dkg-precio-ficha-tecnica",
-    "title": "Weinsberg CaraHome 600 DKG: seis plazas en 6,45 m",
+    "title": "Weinsberg CaraHome 600 DKG 2026: seis plazas reales en 6,45 m por menos de 3,5 toneladas",
     "excerpt": "Capuchina sobre Ducato de 140 CV: cama de 210×140, literas para adultos, garaje de 2,26 m³ y precio alemán de referencia de 80.003 €. Con carnet B.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
@@ -4113,7 +4113,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "benimar-tessoro-t481-precio-ficha-tecnica",
     "title": "Benimar Tessoro T481 2026: perfilada española de 5,99 m",
-    "excerpt": "Benimar Tessoro T481 2026: perfilada de 5,99 m con Ford Transit de 130 CV, cama basculante eléctrica sin escalera y 4 plazas. Sin PVP oficial.",
+    "excerpt": "Sin PVP oficial publicado: ficha de la Benimar Tessoro T481 2026, perfilada española que mide 5,99 m, con Ford Transit de 130 CV, cama basculante eléctrica sin escalera, 4 plazas para dormir y carnet ",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -4150,8 +4150,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "concorde-credo-791-li-precio-ficha-tecnica",
-    "title": "Concorde Credo 791 LI 2026: liner de 7,99 m desde 212.250 €",
-    "excerpt": "Desde 212.250 € en Alemania: la Concorde Credo 791 LI 2026 mide 7,99 m, ofrece 940 kg de carga útil, motor Iveco de 156 CV y exige carnet C1.",
+    "title": "Concorde Credo 791 LI 2026: el liner de entrada a la gama Concorde, ficha técnica y precio",
+    "excerpt": "Tarifa desde 212.250 € en Alemania: ficha de la Concorde Credo 791 LI 2026, el liner más compacto de la marca alemana con 7,99 m, concepto One-Level, Iveco Daily de 156 CV y carnet C1.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -4169,27 +4169,27 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "eura-mobil-integra-line-gt-il-726-ef-precio-ficha-tecnica",
-    "title": "Eura Mobil IL 726 EF: integral alemana para el invierno",
-    "excerpt": "Integral alemana de 7,47 metros sobre Sprinter, con calefacción Alde, suelo doble calefactado y 4 plazas: exige carnet C1 y no tiene precio oficial.",
+    "title": "Eura Mobil Integra Line GT IL 726 EF 2026: integral gran turismo con Alde de serie, ficha técnica y precio",
+    "excerpt": "Precio no publicado oficialmente: ficha de la Eura Mobil Integra Line GT IL 2026, 726 EF, integral alemana de 7,47 m sobre Mercedes Sprinter con calefacción Alde de serie, doble suelo calefactado y ca",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
     "heroSrc": "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-oficial.webp",
     "heroAlt": "Eura Mobil Integra Line GT IL 726 EF 2026, autocaravana integral",
     "keywords": [
-      "Eura Mobil Integra Line GT IL 726 EF 2026",
+      "Integral Eura Mobil IL 726 EF 2026",
       "Integra Line GT ficha técnica",
       "Eura Mobil Integra precio",
       "Eura Mobil IL 726 EF opiniones",
       "integral Eura Mobil Mercedes Sprinter",
       "autocaravana integral alemana"
     ],
-    "readTime": 7
+    "readTime": 8
   },
   {
     "slug": "hymer-grand-canyon-s-precio-ficha-tecnica",
-    "title": "Hymer Grand Canyon S 2026: camper Sprinter desde 98.200 €",
-    "excerpt": "Camper de 5,93 m sobre Mercedes Sprinter, con camas gemelas enrollables, 80 Ah de litio de serie y 4x4 opcional, por 98.200 € en Alemania.",
+    "title": "Hymer Grand Canyon S 2026: la camper premium sobre Sprinter, ficha técnica y precio",
+    "excerpt": "PVP recomendado 98.200 € en Alemania: ficha de la Hymer Grand Canyon S 2026, la camper de 5,93 m sobre Mercedes Sprinter con camas gemelas enrollables, litio de serie, 4x4 opcional y carnet B.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -4203,7 +4203,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "camper Hymer Sprinter",
       "Hymer Grand Canyon opiniones"
     ],
-    "readTime": 9
+    "readTime": 8
   },
   {
     "slug": "mclouis-mc4-231-precio-ficha-tecnica",
@@ -4265,7 +4265,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "weinsberg-caratour-600-mq-precio-ficha-tecnica",
     "title": "Weinsberg CaraTour 600 MQ 2026: la camper de 5,99 m con mejor relación cama/euro, ficha técnica y precio",
-    "excerpt": "Precio de referencia 53.100 € en Alemania: ficha del Weinsberg CaraTour 600 MQ 2026, camper de 5,99 m con cama transversal de 194×152 cm, Fiat Ducato de 140 CV, 10 años de garantía de estanqueidad y c",
+    "excerpt": "Precio de referencia 53.100 € en Alemania: ficha del Weinsberg CaraTour 600 MQ 2026, camper que mide 5,99 m y ofrece cama transversal de 194×152 cm, Fiat Ducato de 140 CV, 10 años de garantía de estan",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -4302,8 +4302,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "carthago-c2-tourer-i-145-rb-le-precio-ficha-tecnica",
-    "title": "Carthago C2-tourer I 145 RB-LE: integral premium de 2,17 m",
-    "excerpt": "Carthago C2-tourer I 145 RB-LE 2026: integral premium de 7,21 m, Sprinter 170 CV, camas 200 x 85 cm, doble suelo, MMA 4.200 kg (C1). Sin precio oficial.",
+    "title": "Carthago C2-tourer I 145 RB-LE 2026: ficha técnica del smart liner de 2,17 m",
+    "excerpt": "Ficha del Carthago C2-tourer I 145 RB-LE 2026: integral premium de 7,21 m, Mercedes Sprinter de 170 CV, camas individuales traseras de 200 x 85 cm, doble suelo continuo y MMA de 4.200 kg (carnet C1). ",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -4321,8 +4321,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "dethleffs-alpa-i-7820-2-precio-ficha-tecnica",
-    "title": "Dethleffs Alpa I 7820-2 2026: integral grande, tres ejes",
-    "excerpt": "Integral de 8,55 m, tres ejes y 5,4 t de MMA sobre Fiat Ducato Maxi AL-KO, 180 CV y automática de 8 marchas. Cuatro plazas, permiso C1, sin precio oficial.",
+    "title": "Dethleffs Alpa I 7820-2 2026: ficha técnica del integral de tres ejes y 8,55 m",
+    "excerpt": "Ficha del Dethleffs Alpa I 7820-2 2026: integral de 8,55 metros, tres ejes y 5,4 toneladas de MMA sobre Fiat Ducato Maxi AL-KO de 180 CV con automático de 8 velocidades. 4 plazas y carnet C1. Precio n",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -4336,12 +4336,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Dethleffs Alpa opiniones",
       "autocaravana 8 metros carnet C1"
     ],
-    "readTime": 9
+    "readTime": 8
   },
   {
     "slug": "fleurette-baxter-68-lmc-precio-ficha-tecnica",
-    "title": "Fleurette Baxter 68 LMC: perfilada de 6,85 m sin madera",
-    "excerpt": "Perfilada francesa de 6,85 m con cama central, carrocería de poliéster sin madera y Ducato de 120 CV. Sin precio ni plazas publicados oficialmente.",
+    "title": "Fleurette Baxter 68 LMC 2026: ficha técnica de la perfilada francesa de poliéster",
+    "excerpt": "Ficha de la Fleurette Baxter 68 LMC 2026: perfilada francesa de 6,85 m con carrocería 100 % poliéster sin madera, cama central de matrimonio y Fiat Ducato de 120 CV. Carnet B. Precio y plazas no publi",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -4355,12 +4355,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Fleurette Florium opiniones",
       "autocaravana poliéster sin madera"
     ],
-    "readTime": 7
+    "readTime": 8
   },
   {
     "slug": "hymer-ml-t-580-4x4-precio-ficha-tecnica",
-    "title": "Hymer ML-T 580 4x4 CrossTrail 2026: precio y ficha",
-    "excerpt": "Perfilada 4x4 de 6,98 m sobre Sprinter 419 CDI de 190 CV: 320 Ah de litio, 4.100 kg de MMA y un precio de salida de 165.900 €. Análisis completo.",
+    "title": "Hymer ML-T 580 4x4 CrossTrail 2026: ficha técnica y precio de la 4x4 de expedición",
+    "excerpt": "Ficha de la Hymer ML-T 580 4x4 CrossTrail 2026: perfilada de 6,98 m con tracción total, Mercedes Sprinter de 190 CV, 320 Ah de litio y 4.100 kg de MMA (carnet C1). Precio oficial: desde 165.900 €.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -4374,12 +4374,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Hymer CrossTrail opiniones",
       "perfilada todoterreno 190 CV"
     ],
-    "readTime": 9
+    "readTime": 8
   },
   {
     "slug": "mclouis-mc4-slim-337-precio-ficha-tecnica",
-    "title": "McLouis Mc4 Slim 337: perfilada estrecha de 2,15 m",
-    "excerpt": "Perfilada de 6,39 m y 2,15 m de ancho, con Ford Transit de 130 CV, cama basculante eléctrica y 10 años de garantía antiinfiltraciones. Sin PVP oficial.",
+    "title": "McLouis Mc4 Slim 337 2026: ficha técnica de la perfilada estrecha de 2,15 m",
+    "excerpt": "Ficha del McLouis Mc4 Slim 337 2026: perfilada italiana de 6,39 m y solo 2,15 m de ancho, Ford Transit de 130 CV, cama basculante eléctrica y 10 años de garantía contra infiltraciones. Carnet B. Preci",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -4393,7 +4393,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "McLouis Mc4 opiniones",
       "autocaravana 2,15 metros ancho"
     ],
-    "readTime": 8
+    "readTime": 7
   },
   {
     "slug": "possl-2win-plus-precio-ficha-tecnica",
@@ -4416,8 +4416,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "roller-team-kronos-265-tl-precio-ficha-tecnica",
-    "title": "Roller Team Kronos 265 TL: cama isla y 5 plazas, 71.000 €",
-    "excerpt": "Perfilada de 7,45 m con cama isla trasera de 190 x 150 cm, Ford Transit de 165 CV automático y 5 plazas con carnet B. Medidas, garaje y precio de tarifa.",
+    "title": "Roller Team Kronos 265 TL 2026: ficha técnica, precio y cama isla regulable",
+    "excerpt": "Ficha del Roller Team Kronos 265 TL 2026: perfilada de 7,45 m con cama isla de 190 x 150 cm regulable en altura, Ford Transit de 165 CV con automático de 8 velocidades y 5 plazas con carnet B. Precio ",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -4455,7 +4455,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "adria-matrix-axess-670-sl-precio-ficha-tecnica",
     "title": "Adria Matrix Axess 670 SL 2026: 7,50 m y camas gemelas",
-    "excerpt": "Perfilada de 7,50 m sin precio oficial: camas gemelas, cama basculante eléctrica, 140 CV, cuatro plazas y 12,4 l/100 km reales.",
+    "excerpt": "Precio no publicado oficialmente: ficha de la Adria Matrix Axess 670 SL 2026, perfilada de 7,50 m con camas gemelas, cama basculante eléctrica, Fiat Ducato o Citroën Jumper de 140 CV, 4 plazas y carne",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -4473,8 +4473,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "adria-sonic-700-sl-precio-ficha-tecnica",
-    "title": "Adria Sonic 700 SL: integral luminosa de 7,49 m y 4 plazas",
-    "excerpt": "Integral eslovena de 7,49 m con camas gemelas, cama abatible y gran cristal sobre la cabina. Ducato 140 CV, carnet B, precio sin publicar.",
+    "title": "Adria Sonic 700 SL 2026: ficha técnica y techo panorámico de la integral",
+    "excerpt": "Precio no publicado oficialmente: la Adria Sonic 700 SL 2026 es una integral de 7,49 m con camas gemelas, cama basculante delantera, techo solar panorámico, Fiat Ducato de 140 CV y 4 plazas con carnet",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -4492,8 +4492,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "adria-twin-sports-640-sgx-precio-ficha-tecnica",
-    "title": "Adria Twin Sports 640 SGX: camper de 6,36 m y cama elevable",
-    "excerpt": "Camper de 6,36 m con Ducato de 140 CV, cama trasera elevable eléctrica y 4 plazas con carnet B. Premio europeo de diseño y precio sin publicar.",
+    "title": "Adria Twin Sports 640 SGX 2026: ficha técnica, cama elevable y premio europeo",
+    "excerpt": "Precio no publicado oficialmente: la Adria Twin Sports 640 SGX 2026 es una camper de 6,36 m con cama trasera elevable eléctrica, Fiat Ducato de 140 CV, 4 plazas con carnet B y un premio europeo de dis",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -4511,8 +4511,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "benimar-mileo-297-precio-ficha-tecnica",
-    "title": "Benimar Mileo 297 2026: cama isla regulable de 150 cm",
-    "excerpt": "Sin tarifa oficial: Benimar Mileo 297 2026, perfilada española de 7,39 m, cama isla de 150 cm regulable en altura, Ducato 140 CV, 4 plazas y permiso B.",
+    "title": "Benimar Mileo 297 2026: ficha técnica y cama isla regulable de 150 cm",
+    "excerpt": "Precio no publicado oficialmente: la Benimar Mileo 297 2026 es una perfilada española de 7,39 m con cama isla trasera de 150 cm regulable en altura, Fiat Ducato de 140 CV, 4 plazas y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -4526,12 +4526,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "perfilada Benimar cama isla",
       "autocaravana española Fiat Ducato"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "benimar-tessoro-440-up-precio-ficha-tecnica",
-    "title": "Benimar Tessoro 440 UP: perfilada corta, cama eléctrica",
-    "excerpt": "Sin precio oficial publicado: la Tessoro 440 UP 2026 mide 6,34 m, duerme a 4 y se conduce con el carnet B sobre un Ford Transit de 165 CV.",
+    "title": "Benimar Tessoro 440 UP 2026: ficha técnica, cama basculante y 4 plazas",
+    "excerpt": "Precio no publicado oficialmente: la Benimar Tessoro 440 UP 2026 es la perfilada compacta de 6,34 m con cama basculante eléctrica, 4 plazas y carnet B, sobre Ford Transit de 165 CV.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -4549,8 +4549,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "benimar-mileo-286-precio-ficha-tecnica",
-    "title": "Benimar Mileo 286 2026: perfilada de 180 CV con carnet C1",
-    "excerpt": "La Mileo 286 2026 mide 6,95 m, monta un Ducato de 180 CV y exige el C1 por sus 4.400 kg de MMA. Sin precio oficial: lo fija el concesionario.",
+    "title": "Benimar Mileo 286 2026: ficha técnica, 180 CV y carnet C1",
+    "excerpt": "Precio no publicado oficialmente: la Benimar Mileo 286 2026 es una perfilada de 6,95 m con motor de 180 CV, 4,4 t de MMA (carnet C1 obligatorio) y célula construida sin madera.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -4564,12 +4564,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Benimar Mileo 286 opiniones",
       "autocaravana 180 CV España"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "burstner-ixeo-it-680-g-precio-ficha-tecnica",
-    "title": "Bürstner Ixeo IT 680 G: cama longitudinal y 4 plazas",
-    "excerpt": "Ixeo IT 680 G: perfilada de 6,90 m, primera basculante longitudinal de Bürstner, 4 plazas, carnet B, sin PVP oficial.",
+    "title": "Bürstner Ixeo IT 680 G 2026: ficha técnica y cama basculante longitudinal",
+    "excerpt": "Precio no publicado oficialmente: el Bürstner Ixeo IT 680 G 2026 es una perfilada de 6,90 m con la primera cama basculante longitudinal de la marca, 4 plazas y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -4583,7 +4583,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Ixeo IT 680 G plazas",
       "autocaravana alemana familiar"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "burstner-elegance-i-920-g-precio-ficha-tecnica",
@@ -4606,8 +4606,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "carado-t-338-edition27-precio-ficha-tecnica",
-    "title": "Carado T 338 EDITION27 2026: precio, camas y ficha",
-    "excerpt": "Carado T 338 EDITION27 2026 desde 69.490 €: perfilada de 6,99 m con Transit 2.0 de 165 CV, 4 plazas de viaje, camas gemelas y carnet B.",
+    "title": "Carado T 338 EDITION27 2026: precio, ficha técnica y camas gemelas",
+    "excerpt": "Precio y ficha del Carado T 338 EDITION27 2026: perfilada de 6,99 m sobre Ford Transit 2.0 de 165 CV, desde 69.490 €, 4 plazas de viaje, camas gemelas traseras y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -4625,8 +4625,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "carado-v-337-precio-ficha-tecnica",
-    "title": "Carado V 337 2026: perfilada estrecha desde 56.590 €",
-    "excerpt": "Carado V 337 2026: perfilada de 6,66 m y solo 2,14 m de ancho con Citroën Jumper 140 CV, 4 plazas, carnet B y precio desde 56.590 €.",
+    "title": "Carado V 337 2026: precio, ficha técnica y solo 2,14 m de ancho",
+    "excerpt": "Precio y ficha del Carado V 337 2026: perfilada estrecha de 6,66 m y solo 2,14 m de ancho sobre Citroën Jumper 140 CV, desde 56.590 €, 4 plazas y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -4644,8 +4644,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "carthago-chic-c-line-i-59-xl-le-precio-ficha-tecnica",
-    "title": "Carthago chic c-line I 5.9 XL LE: integral de 8,39 m",
-    "excerpt": "Integral de 8,39 m con 4 plazas, base Fiat o Mercedes de 170 CV y MMA de 5.000 kg: exige carnet C1 y aún no tiene precio oficial en España.",
+    "title": "Carthago chic c-line I 5.9 XL LE 2026: ficha técnica, 8,39 m y carnet C1",
+    "excerpt": "Precio no publicado oficialmente: ficha de la Carthago chic c-line I 5.9 XL LE 2026, integral de 8,39 m sobre Fiat o Mercedes de 170 CV, 4 plazas, MMA de 5.000 kg y carnet C1.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -4659,12 +4659,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Carthago chic c-line opiniones",
       "autocaravana integral premium"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "challenger-328-precio-ficha-tecnica",
-    "title": "Challenger 328 2026: cama central, abatible y 7,19 metros",
-    "excerpt": "Challenger 328 2026: perfilada de 7,19 m con cama central trasera y abatible eléctrica, Transit 130 CV, 4 plazas y carnet B, sin PVP oficial en España.",
+    "title": "Challenger 328 2026: ficha técnica, cama central y 4 plazas",
+    "excerpt": "Precio no publicado oficialmente: ficha del Challenger 328 2026, perfilada de 7,19 m sobre Ford Transit 130 CV con cama central trasera y cama abatible eléctrica, 4 plazas y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -4720,8 +4720,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "chausson-720-etapa-precio-ficha-tecnica",
-    "title": "Chausson 720 Etapa 2026: familiar de 7,19 m y literas",
-    "excerpt": "La perfilada francesa para viajar con niños: 5 plazas en ruta, 6 camas, motor Ford de 165 CV, carnet B y precio de partida de 67.490 € con el extra Etapa.",
+    "title": "Chausson 720 Etapa 2026: precio, ficha técnica y literas traseras",
+    "excerpt": "Precio y ficha del Chausson 720 Etapa 2026: perfilada familiar de 7,19 m desde 67.490 €, con literas traseras, 5 plazas para circular y 6 para dormir, motor Ford de 165 CV y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -4735,12 +4735,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "perfilada familiar 6 plazas",
       "autocaravana 5 plazas carnet B"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "concorde-charisma-910-li-precio-ficha-tecnica",
-    "title": "Concorde Charisma 910 LI 2026: integral con suelo radiante",
-    "excerpt": "Sin precio oficial, la integral alemana monta el Iveco Daily 70C de 207 CV, pesa 7.490 kg, exige carnet C1 e incluye suelo radiante en salón y baño.",
+    "title": "Concorde Charisma 910 LI 2026: ficha técnica, suelo radiante y carnet C1",
+    "excerpt": "Precio no publicado oficialmente: ficha técnica del Concorde Charisma 910 LI 2026, la integral alemana sobre Iveco Daily de 207 CV con suelo radiante de serie, 7.490 kg de MMA y carnet C1.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -4754,12 +4754,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "integral Concorde carnet C1",
       "autocaravana Iveco Daily 207 CV"
     ],
-    "readTime": 7
+    "readTime": 5
   },
   {
     "slug": "dethleffs-trend-i-7017-eb-precio-ficha-tecnica",
-    "title": "Dethleffs Trend I 7017 EB: integral 4+1 y cama abatible",
-    "excerpt": "Sin PVP oficial en España: la Dethleffs Trend I 7017 EB mide 7,41 m, duerme a 5 con camas gemelas y abatible eléctrica, y se conduce con carnet B.",
+    "title": "Dethleffs Trend I 7017 EB 2026: ficha técnica, 5 plazas y cama abatible eléctrica",
+    "excerpt": "Dethleffs Trend I 7017 EB 2026: integral alemana de 7,41 m con camas gemelas, cama abatible eléctrica sobre la cabina, 4+1 plazas y carnet B. Precio no publicado oficialmente: la marca no difunde PVP ",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -4773,7 +4773,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Dethleffs Trend I 7017 plazas",
       "autocaravana integral alemana"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "dethleffs-just-go-t-7055-dbl-precio-ficha-tecnica",
@@ -4796,8 +4796,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "dreamer-d62-select-precio-ficha-tecnica",
-    "title": "Dreamer D62 Select 2026: camper de 6,36 m y 3 camas",
-    "excerpt": "La D62 Select 2026 de Dreamer: camper de 6,36 m, Ducato 2.2 de 140 CV, cuatro asientos en marcha, tres camas, carnet B y serie del 20.º aniversario.",
+    "title": "Dreamer D62 Select 2026: ficha técnica, camper 6,36 m y edición 20.º aniversario",
+    "excerpt": "Dreamer D62 Select 2026: camper francesa de 6,36 m sobre Fiat Ducato 2.2 de 140 CV, 4 plazas para circular y 3 para dormir, carnet B. Precio no publicado oficialmente: pide presupuesto en la red de di",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -4815,8 +4815,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "dreamer-d68-up-precio-ficha-tecnica",
-    "title": "Dreamer D68 UP 2026: camper 6,36 m con techo elevable",
-    "excerpt": "Dreamer D68 UP 2026: camper de 6,36 m, 140 CV y carnet B, con cuatro camas hechas y techo elevable de serie. Sin precio oficial publicado.",
+    "title": "Dreamer D68 UP 2026: ficha técnica, camas gemelas y techo elevable de serie",
+    "excerpt": "Dreamer D68 UP 2026: camper familiar de 6,36 m con camas gemelas y techo elevable de serie, cama doble de 2.000 x 1.300 mm, 4 plazas y carnet B. Precio no publicado oficialmente: consúltalo en distrib",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -4834,8 +4834,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "etrusco-cv-600-db-precio-ficha-tecnica",
-    "title": "Etrusco CV 600 DB 2026: camper 5,99 m y cama fija",
-    "excerpt": "Etrusco CV 600 DB 2026: camper de 5,99 m con Ducato de 140 CV, cama transversal fija para 2 personas y carnet B; precio en España sin publicar.",
+    "title": "Etrusco CV 600 DB 2026: ficha técnica y cama doble transversal",
+    "excerpt": "Precio no publicado oficialmente: la Etrusco CV 600 DB 2026 es una camper de 5,99 m sobre Fiat Ducato 140 CV con cama doble transversal permanente, 4 plazas de viaje, 2 para dormir y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -4849,7 +4849,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "camper 6 metros Fiat Ducato",
       "autocaravana Etrusco opiniones"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "etrusco-i-7400-qbc-precio-ficha-tecnica",
@@ -4891,8 +4891,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "eura-mobil-contura-766-eb-precio-ficha-tecnica",
-    "title": "Eura Mobil Contura 766 EB 2026: premio y 4 plazas",
-    "excerpt": "La Contura 766 EB 2026: perfilada de 7,84 m sobre Mercedes Sprinter 170 CV, con camas gemelas, permiso C1 y el European Innovation Award 2021.",
+    "title": "Eura Mobil Contura 766 EB 2026: ficha técnica y premio europeo",
+    "excerpt": "Precio no publicado oficialmente: la Eura Mobil Contura 766 EB 2026 es una perfilada de 7,84 m sobre Mercedes Sprinter 170 CV, con camas gemelas, 4 plazas, carnet C1 y el European Innovation Award 202",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -4929,8 +4929,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "hobby-optima-de-luxe-t70-ge-precio-ficha-tecnica",
-    "title": "Hobby Optima De Luxe T70 GE: perfilada 7,41 m con carnet B",
-    "excerpt": "Hobby Optima De Luxe T70 GE: perfilada de 7,41 m, Ducato 130 CV, 4 plazas, carnet B y nevera torre Super Slim. Sin PVP oficial.",
+    "title": "Hobby Optima De Luxe T70 GE 2026: ficha técnica, 7,41 m y carnet B",
+    "excerpt": "Precio no publicado oficialmente: ficha de la Hobby Optima De Luxe T70 GE 2026, perfilada de 7,41 m sobre Fiat Ducato 130 CV, 4 plazas, carnet B y frigorífico torre «Super Slim» de serie.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -4948,8 +4948,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "hobby-vantana-k60-ft-precio-ficha-tecnica",
-    "title": "Hobby Vantana K60 FT 2026: camper de 5,998 m y 4 plazas",
-    "excerpt": "Sin PVP oficial en España: la Hobby Vantana K60 FT 2026 es una camper de 5,998 m, con 4 plazas para dormir, carnet B y una cama de techo de 215 x 170 cm.",
+    "title": "Hobby Vantana K60 FT 2026: ficha técnica, camper de 6 m y 4 plazas",
+    "excerpt": "Precio no publicado oficialmente: ficha de la Hobby Vantana K60 FT 2026, camper de 5,99 m con cama extraíble de techo de 215 x 170 cm, 4 plazas para dormir y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5005,8 +5005,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "knaus-sky-ti-700-meg-precio-ficha-tecnica",
-    "title": "Knaus Sky TI 700 MEG: 7,50 m y último año sobre Fiat Ducato",
-    "excerpt": "Sin PVP oficial en España: Knaus Sky TI 700 MEG, perfilada de 7,50 m con cuatro plazas, permiso B y 2026 como último año sobre Fiat Ducato.",
+    "title": "Knaus Sky TI 700 MEG 2026: ficha técnica, 4 plazas y último año sobre Fiat Ducato",
+    "excerpt": "Precio no publicado oficialmente: Knaus Sky TI 700 MEG 2026, perfilada alemana de 7,50 m, 4 plazas, carnet B y último año-modelo sobre chasis Fiat Ducato antes del salto al Crafter.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5043,8 +5043,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "laika-kosmo-h-1319-precio-ficha-tecnica",
-    "title": "Laika Kosmo H 1319: integral de 6,95 m con 4 camas reales",
-    "excerpt": "Sin PVP oficial en España: la integral Laika Kosmo H 1319 mide 6,95 m, duerme a 4 en camas gemelas y abatible, y se conduce con carnet B.",
+    "title": "Laika Kosmo H 1319 2026: ficha técnica, integral de 6,95 m y 4 plazas",
+    "excerpt": "Precio no publicado oficialmente: Laika Kosmo H 1319 2026, integral de 6,95 m con camas gemelas traseras y cama abatible, 4 plazas, carnet B y Fiat Ducato 140 CV.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5081,8 +5081,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "lmc-tourer-lift-h-664-g-precio-ficha-tecnica",
-    "title": "LMC Tourer Lift H 664 G: cama de techo y 4 plazas",
-    "excerpt": "LMC Tourer Lift H 664 G 2026: perfilada de 7,06 m sobre Ford Transit de 130 CV, con lecho abatible sobre el estar, cuatro plazas y permiso B.",
+    "title": "LMC Tourer Lift H 664 G 2026: ficha técnica, cama abatible y 4 plazas",
+    "excerpt": "Precio no publicado oficialmente: perfilada alemana de 7,06 m sobre Ford Transit con cama abatible sobre el salón, 4 plazas y carnet B. Ficha técnica del LMC Tourer Lift H 664 G.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5120,7 +5120,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "malibu-van-diversity-640-le-k-precio-ficha-tecnica",
     "title": "Malibu Van diversity 640 LE K: camper premium de 6,36 m",
-    "excerpt": "Camper premium de 6,36 m con base Fiat Ducato de 140 CV: 4 plazas en marcha, 2 camas gemelas y carnet B. Sin precio oficial publicado.",
+    "excerpt": "Precio no publicado oficialmente: camper premium de 6,36 m sobre Fiat Ducato 140 CV, 4 plazas para circular y 2 para dormir, carnet B. Ficha técnica del Malibu Van diversity 640 LE K.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5134,7 +5134,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Malibu Van 640 LE K opiniones",
       "furgoneta camper premium España"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "malibu-i-500-qb-precio-ficha-tecnica",
@@ -5157,8 +5157,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "morelo-loft-82-m-precio-ficha-tecnica",
-    "title": "Morelo Loft 82 M 2026: liner desde 244.900 €",
-    "excerpt": "El Morelo Loft 82 M es un liner sobre Iveco Daily de 175 CV: 7.490 kg de MMA, 4 plazas, carnet C1 y parabrisas curvo, desde unos 244.900 €.",
+    "title": "Morelo Loft 82 M 2026: precio, ficha técnica y parabrisas panorámico",
+    "excerpt": "Precio y ficha del Morelo Loft 82 M 2026: liner sobre Iveco Daily 175 CV, tracción trasera, 7.490 kg de MMA, 4 plazas y carnet C1. Desde ~244.900 €.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5172,7 +5172,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Morelo Loft 82 M carnet C1",
       "autocaravana lujo Alemania"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "niesmann-bischoff-arto-88-lf-precio-ficha-tecnica",
@@ -5214,8 +5214,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "pilote-vega-v630j-precio-ficha-tecnica",
-    "title": "Pilote Vega V630J 2026: camper francés de 6,36 m y gasóleo",
-    "excerpt": "Vega V630J 2026, camper de 6,36 m y Ducato de 140 CV, sin PVP oficial en España: 4 plazas de viaje, 2 para dormir, carnet B y Truma D4 diésel de serie.",
+    "title": "Pilote Vega V630J 2026: ficha técnica y calefacción diésel Truma",
+    "excerpt": "Pilote no publica PVP oficial en España: ficha del Vega V630J 2026, camper francés de 6,36 m sobre Fiat Ducato 140 CV, 4 plazas de viaje, 2 para dormir, carnet B y calefacción diésel Truma D4 de serie",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5233,8 +5233,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "pilote-atlas-a696g-precio-ficha-tecnica",
-    "title": "Pilote Atlas A696G 2026: 170 CV, 6,99 m y carnet B",
-    "excerpt": "Perfilada estrecha de 2,19 m sobre Ford Transit 170 CV, 4 plazas para viajar y dormir y carnet B: sin PVP oficial en España.",
+    "title": "Pilote Atlas A696G 2026: ficha técnica y 170 CV sobre Ford Transit",
+    "excerpt": "Pilote no publica PVP oficial en España: ficha del Atlas A696G 2026, perfilada estrecha de 6,99 m sobre Ford Transit 170 CV, 4 plazas para viajar y dormir, carnet B y espíritu aventurero del 60.º aniv",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5252,8 +5252,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "possl-summit-540-precio-ficha-tecnica",
-    "title": "Pössl Summit 540 2026: camper de 5,41 m y techo Shine",
-    "excerpt": "Sin PVP oficial en España: Summit 540 2026, camper de 5,41 m con Jumper/Ducato 2.2 de 140 CV, 4 plazas de viaje, 2 camas (4 con techo Shine) y carnet B.",
+    "title": "Pössl Summit 540 2026: ficha técnica y techo elevable Shine",
+    "excerpt": "Pössl no publica PVP oficial en España: ficha del Summit 540 2026, camper alemán de 5,41 m sobre Citroën Jumper 140 CV, 4 plazas de viaje, 2 para dormir (4 con el techo elevable Shine) y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5271,8 +5271,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "possl-trenta-600-r-precio-ficha-tecnica",
-    "title": "Pössl Trenta 600 R 2026: 6 metros, nevera doble y 30 años",
-    "excerpt": "Trenta 600 R 2026: camper del 30.º aniversario de Pössl, 6,00 m, Jumper 140 CV, 4 asientos, 2 camas, carnet B y frigorífico con doble apertura.",
+    "title": "Pössl Trenta 600 R 2026: ficha técnica y nevera de doble apertura",
+    "excerpt": "Pössl no publica PVP oficial en España: ficha del Trenta 600 R 2026, el camper del 30.º aniversario de Pössl, 6,00 m sobre Citroën Jumper 140 CV, 4 plazas de viaje, 2 para dormir y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5290,8 +5290,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "rapido-896f-precio-ficha-tecnica",
-    "title": "Rapido 896F: integral 7,49 m, cama central y carnet B",
-    "excerpt": "Integral francesa de gama alta: 7,49 metros, cama trasera centrada, cuatro plazas, motor Ducato 2.2 de 140 CV y permiso B, sin tarifa oficial en España.",
+    "title": "Rapido 896F 2026: ficha técnica y 7,49 m de integral francesa",
+    "excerpt": "Precio no publicado oficialmente: el Rapido 896F es la integral de la serie 8F —la gama alta de la marca—, con 7,49 m, cama central, 4 plazas, Fiat Ducato 2.2 de 140 CV y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5305,12 +5305,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Rapido 896F plazas",
       "autocaravana integral francesa"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "rapido-c55-precio-ficha-tecnica",
-    "title": "Rapido C55: perfilada de 6,72 m con techo Skyview",
-    "excerpt": "Perfilada compacta: 6,72 m, Boxer 140 CV, permiso B, 4 plazas de viaje y 3 de descanso, Skyview calefactado y baño Duo'Space; sin precio oficial.",
+    "title": "Rapido C55 2026: ficha técnica y la perfilada compacta de 6,72 m",
+    "excerpt": "Precio no publicado oficialmente: el Rapido C55 es una perfilada compacta de 6,72 m con techo panorámico Skyview calefactado, Peugeot Boxer de 140 CV, 4 plazas y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5324,12 +5324,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Rapido C55 Skyview",
       "autocaravana perfilada francesa"
     ],
-    "readTime": 12
+    "readTime": 7
   },
   {
     "slug": "roller-team-zefiro-675-precio-ficha-tecnica",
-    "title": "Roller Team Zefiro 675: capuchina de 6 plazas y carnet B",
-    "excerpt": "Zefiro 675 sin precio oficial: capuchina de 6,99 m con 6 plazas para circular y dormir, Ford Transit 130 CV y MMA de 3.500 kg.",
+    "title": "Roller Team Zefiro 675 2026: ficha técnica y capuchina familiar de 6 plazas",
+    "excerpt": "Precio no publicado oficialmente: el Roller Team Zefiro 675 es una capuchina de 6,99 m con 6 plazas para circular y dormir, Ford Transit de 130 CV y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5343,12 +5343,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Zefiro 675 plazas",
       "autocaravana capuchina familiar"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "roller-team-kronos-294-tl-precio-ficha-tecnica",
-    "title": "Kronos 294 TL: perfilada Roller Team para cinco en 6,47 m",
-    "excerpt": "Perfilada de 6,47 metros para cinco ocupantes, con cama trasera de altura regulable y motor Ford Transit de 170 CV; sin precio oficial publicado en España.",
+    "title": "Roller Team Kronos 294 TL 2026: ficha técnica y 5 plazas en 6,47 m",
+    "excerpt": "Precio no publicado oficialmente: el Roller Team Kronos 294 TL es una perfilada de 6,47 m con 5 plazas, cama trasera Flex Space regulable en altura, Ford Transit de 170 CV y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5362,12 +5362,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Kronos 294 TL Flex Space",
       "autocaravana familiar 5 plazas"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "westfalia-james-cook-ad-190-precio-ficha-tecnica",
-    "title": "Westfalia James Cook AD 190: zaga extensible y cama de 2 m",
-    "excerpt": "James Cook AD 190: camper de 5,93 m sobre Sprinter de 190 CV, con dormitorio trasero extensible hasta 2 m, 4 plazas y carnet C1 por sus 4.100 kg.",
+    "title": "Westfalia James Cook AD 190 2026: ficha técnica y dormitorio extensible de 2 metros",
+    "excerpt": "Precio no publicado oficialmente: ficha del Westfalia James Cook AD 190 2026, la camper de 5,93 m con zaga extensible y camas de 2 metros, motor de 190 CV y carnet C1.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5385,8 +5385,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "westfalia-columbus-640-e-precio-ficha-tecnica",
-    "title": "Westfalia Columbus 640 E 2026: camper para dos, cama lounge",
-    "excerpt": "Camper de 6,40 m sobre Fiat Ducato de 120 CV, con camas gemelas, carné B y un banco trasero patentado que se convierte en cama. Sin precio oficial.",
+    "title": "Westfalia Columbus 640 E 2026: ficha técnica y banco lounge patentado",
+    "excerpt": "Precio no publicado oficialmente: la Westfalia Columbus 640 E 2026, camper de 6,40 m sobre Fiat Ducato con 120 CV, camas gemelas, carnet B y banco trasero que se hace cama en dos segundos.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5405,7 +5405,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "adria-matrix-supreme-670-dl-precio-ficha-tecnica",
     "title": "Adria Matrix Supreme 670 DL: cama abatible y 7,49 m",
-    "excerpt": "Sin precio oficial en España: perfilada de 7,49 m sobre Ducato de 140 CV, cama abatible delantera incluida, cuatro plazas y MMA de 4.400 kg (carnet C1).",
+    "excerpt": "Precio no publicado oficialmente: la Adria Matrix Supreme 670 DL 2026, perfilada de 7,49 m con cama abatible delantera de serie, 4 plazas y MMA de 4.400 kg (carnet C1).",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5419,7 +5419,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Adria Matrix carnet C1",
       "autocaravana Adria Supreme"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "adria-compact-supreme-sl-precio-ficha-tecnica",
@@ -5442,8 +5442,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "autostar-passion-p730lc-lift-precio-ficha-tecnica",
-    "title": "Autostar Passion P730LC Lift: 64.990 € y cama regulable",
-    "excerpt": "Autostar Passion P730LC Lift 2026: perfilada de 7,39 m con Fiat Ducato de 140 CV, 4 plazas, carnet B y cama central regulable 25 cm. Desde 64.990 €.",
+    "title": "Autostar Passion P730LC Lift 2026: precio, ficha técnica y cama regulable",
+    "excerpt": "Precio y ficha del Autostar Passion P730LC Lift 2026: perfilada de 7,39 m sobre Fiat Ducato de 140 CV, 4 plazas para viajar y dormir, carnet B y sistema LIFT que regula la cama central en 25 cm. Desde",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5457,7 +5457,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Autostar Passion P730LC opiniones",
       "autocaravana Autostar España"
     ],
-    "readTime": 5
+    "readTime": 7
   },
   {
     "slug": "bavaria-i-700-c-precio-ficha-tecnica",
@@ -5480,8 +5480,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "benimar-benivan-120-up-precio-ficha-tecnica",
-    "title": "Benimar Benivan 120 UP: camper de 5,99 m con 4 plazas",
-    "excerpt": "Sin PVP oficial: camper Benimar de 5,99 m sobre Fiat Ducato 2.2 de 140 CV, tracción delantera, etiqueta C, 4 plazas y carnet B.",
+    "title": "Benimar Benivan 120 UP 2026: ficha técnica, 5,99 m y 4 plazas",
+    "excerpt": "Precio no publicado oficialmente: ficha de la Benimar Benivan 120 UP 2026, camper de 5,99 m sobre Fiat Ducato de 140 CV, tracción delantera, etiqueta C y 4 plazas con carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5499,8 +5499,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "benimar-sport-363-precio-ficha-tecnica",
-    "title": "Benimar Sport 363 2026: capuchina de 6 plazas, carnet B",
-    "excerpt": "Capuchina de 7,43 m con 6 camas, Transit de 165 CV y carnet B. Sin PVP oficial de Benimar: conviene comparar presupuestos entre concesionarios.",
+    "title": "Benimar Sport 363 2026: ficha técnica, 6 plazas y capuchina familiar",
+    "excerpt": "Precio no publicado oficialmente: ficha de la Benimar Sport 363 2026, capuchina de 7,43 m sobre Ford Transit de 165 CV, tracción delantera, etiqueta C y 6 plazas para dormir con carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5514,12 +5514,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Benimar Sport España",
       "autocaravana familiar 6 plazas"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "benimar-mileo-268-precio-ficha-tecnica",
-    "title": "Benimar Mileo 268 2026: 7,39 m, 140 CV y carnet B",
-    "excerpt": "La Mileo 268 2026 es una perfilada de 7,39 m con 140 CV, 4 plazas y carnet B. Sin precio oficial: te explicamos qué ofrece y cuánto cuesta mantenerla.",
+    "title": "Benimar Mileo 268 2026: ficha técnica, 4 plazas y fabricación española",
+    "excerpt": "Precio no publicado oficialmente: la Benimar Mileo 268 2026 es una perfilada española de 7,39 m sobre Fiat Ducato 140 CV, 4 plazas, carnet B y fabricada en Peñíscola.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5575,8 +5575,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "campereve-cap-land-precio-ficha-tecnica",
-    "title": "Campérêve Cap Land 2026: la camper con dos puertas",
-    "excerpt": "La Cap Land 2026 mide 5,45 m, cuesta desde 65.400 € y abre su salón por los dos costados con una segunda puerta lateral. Transit Custom 136 CV, carnet B.",
+    "title": "Campérêve Cap Land 2026: precio, ficha técnica y doble puerta lateral",
+    "excerpt": "Precio y ficha de la Campérêve Cap Land 2026: camper de 5,45 m desde 65.400 €, con doble puerta lateral corredera, 4 plazas, carnet B y base Ford Transit Custom.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5590,7 +5590,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Cap Land opiniones España",
       "furgoneta camper doble puerta"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "carthago-liner-for-two-i-53-l-precio-ficha-tecnica",
@@ -5613,8 +5613,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "challenger-s-194-precio-ficha-tecnica",
-    "title": "Challenger S194: perfilada slim de 5,99 m y cama mariposa",
-    "excerpt": "Perfilada slim de 5,99 m y 2,10 m de ancho sobre Ford Transit de 165 CV: el Challenger S194 ofrece 4 plazas, cama papillon y carnet B desde 60.990 €.",
+    "title": "Challenger S194 2026: precio, ficha técnica y cama mariposa",
+    "excerpt": "Precio y ficha del Challenger S194 2026: perfilada slim de 5,99 m y solo 2,10 m de ancho sobre Ford Transit 165 CV, 4 plazas, cama papillon y carnet B. Desde 60.990 €.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5632,8 +5632,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "chausson-v594-road-line-precio-ficha-tecnica",
-    "title": "Chausson V594 Road Line: camper de 5,99 m con carnet B",
-    "excerpt": "Chausson V594 Road Line 2026: camper de 5,99 m sobre Citroën Jumper 120 CV, 4 plazas para viajar y 3 para dormir, con carnet B. Sin PVP oficial.",
+    "title": "Chausson V594 Road Line 2026: ficha técnica y la camper más accesible",
+    "excerpt": "Ficha del Chausson V594 Road Line 2026: camper de 5,99 m sobre Citroën Jumper 120 CV, 4 plazas y carnet B. Es la gama más accesible de Chausson; precio no publicado oficialmente.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5647,12 +5647,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Chausson V594 opiniones",
       "furgoneta camper económica"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "dethleffs-esprit-i-7150-dbl-precio-ficha-tecnica",
-    "title": "Dethleffs Esprit I 7150-2 DBL 2026: 7,79 m y C1",
-    "excerpt": "Integral Dethleffs de 7,79 m con cama isla, Ducato Maxi AL-KO de 180 CV, 4 plazas, permiso C1 y década de garantía; sin tarifa oficial en España.",
+    "title": "Dethleffs Esprit I 7150-2 DBL 2026: ficha técnica y 10 años de garantía",
+    "excerpt": "Ficha del Dethleffs Esprit I 7150-2 DBL 2026: integral de 7,79 m sobre Fiat Ducato Maxi AL-KO 180 CV, 4 plazas, carnet C1 y 10 años de garantía de estanqueidad. Precio no publicado en España.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5670,8 +5670,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "dethleffs-globebus-i-6-precio-ficha-tecnica",
-    "title": "Dethleffs Globebus I 6: integral de 6,95 m y 4 plazas",
-    "excerpt": "Integral alemana compacta sobre Ducato 140 CV: 6,95 m, carnet B, camas gemelas, 4 plazas y agua para varios días desde unos 86.690 €.",
+    "title": "Dethleffs Globebus I 6 2026: precio, ficha técnica y camas gemelas",
+    "excerpt": "Precio y ficha de la Dethleffs Globebus I 6 2026: integral alemana de 6,95 m sobre Fiat Ducato de 140 CV, 4 plazas, carnet B, camas gemelas y depósito de agua de 116 litros.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5708,8 +5708,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "elnagh-baron-573-precio-ficha-tecnica",
-    "title": "Elnagh Baron 573 2026: gemelas, baño aparte y carnet B",
-    "excerpt": "Baron 573 2026: Elnagh de 7,41 m con camas gemelas para 4 personas, baño separado de la zona de noche y carnet B; sin precio oficial en España.",
+    "title": "Elnagh Baron 573 2026: ficha técnica, camas gemelas y 4 plazas",
+    "excerpt": "Precio no publicado oficialmente: ficha técnica de la Elnagh Baron 573 2026, perfilada italiana de 7,41 m con camas gemelas traseras y aseo articulado, 4 plazas, 140 CV y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5727,8 +5727,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "etrusco-v-5-9-db-precio-ficha-tecnica",
-    "title": "Etrusco V 5.9 DB 2026: camper estrecha a buen precio",
-    "excerpt": "Etrusco V 5.9 DB 2026: 5,95 m, 2,14 m de ancho, 120 CV, 4 plazas en marcha y 2 para dormir, permiso B y precio desde unos 54.100 €.",
+    "title": "Etrusco V 5.9 DB 2026: precio, ficha técnica y 2,14 metros de ancho",
+    "excerpt": "Precio y ficha de la Etrusco V 5.9 DB 2026: van camper de 5,95 m y solo 2,14 m de ancho, 120 CV, 4 plazas para circular y 2 para dormir, carnet B; la más manejable de su gama.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5746,8 +5746,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "fleurette-magister-70-lmf-precio-ficha-tecnica",
-    "title": "Fleurette Magister 70 LMF: perfilada de poliéster",
-    "excerpt": "Magister 70 LMF 2026: perfilada francesa de 6,97 m con carrocería de poliéster, carnet B y cama isla. 4 plazas en ruta, 3 para dormir, sin precio oficial.",
+    "title": "Fleurette Magister 70 LMF 2026: ficha técnica y carrocería 100% poliéster",
+    "excerpt": "Precio no publicado oficialmente: ficha de la Fleurette Magister 70 LMF 2026, perfilada francesa de 6,97 m con carrocería 100% poliéster, 4 plazas, carnet B y cama isla regulable.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5761,12 +5761,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Fleurette Magister opiniones",
       "autocaravana francesa Fleurette"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "font-vendome-randocamp-precio-ficha-tecnica",
-    "title": "Font Vendôme RandoCamp 2026: camper de 5,41 m y cama XL",
-    "excerpt": "Camper francesa de 5,41 m sobre Fiat Ducato 140 CV: cama transversal de 194 cm, 4 plazas, baño completo y carnet B. Sin precio oficial en España.",
+    "title": "Font Vendôme RandoCamp 2026: ficha técnica y cama de 194 cm en 5,41 m",
+    "excerpt": "Precio no publicado oficialmente: ficha de la Font Vendôme RandoCamp 2026, camper francesa de 5,41 m con cama transversal de 194 cm, 4 plazas y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5784,8 +5784,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "frankia-titan-i-840-gd-precio-ficha-tecnica",
-    "title": "Frankia Titan I 840 GD: integral de 8,46 m y 5.000 kg",
-    "excerpt": "Frankia Titan I 840 GD 2026: integral alemana de 8,46 m, 5.000 kg y carnet C1, con doble suelo, 4 plazas y precio sin publicar oficialmente.",
+    "title": "Frankia Titan I 840 GD 2026: ficha técnica de la integral alemana de 8,46 m",
+    "excerpt": "Precio no publicado oficialmente: ficha de la Frankia Titan I 840 GD 2026, integral alemana de 8,46 m y 5.000 kg con doble suelo, 4 plazas y carnet C1.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5803,8 +5803,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "frankia-platin-i-8400-qd-precio-ficha-tecnica",
-    "title": "Frankia Platin I 8400 QD: integral de lujo sobre Sprinter",
-    "excerpt": "Integral de lujo de 8,62 m sobre Mercedes Sprinter 190 CV, con cama queen, calefacción Alde y carnet C1. Frankia no publica precio oficial por modelo.",
+    "title": "Frankia Platin I 8400 QD 2026: ficha técnica del buque insignia sobre Sprinter",
+    "excerpt": "Precio no publicado oficialmente: ficha de la Frankia Platin I 8400 QD 2026, integral de 8,62 m sobre Mercedes Sprinter 190 CV, cama queen, calefacción Alde y carnet C1.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5842,7 +5842,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "giottiline-siena-330-precio-ficha-tecnica",
     "title": "Giottiline Siena 330: perfilada de 5,99 m y cama a lo largo",
-    "excerpt": "Sin precio oficial: la Giottiline Siena 330 es una perfilada de 5,99 m con cama doble a lo largo, 140 CV, permiso B y cuatro plazas en marcha.",
+    "excerpt": "Precio no publicado oficialmente: ficha de la Giottiline Siena 330 2026, perfilada compacta de 5,99 m con cama matrimonial longitudinal, 140 CV, carnet B y 4 plazas.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5856,7 +5856,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Giottiline Siena 330 plazas",
       "autocaravana pequeña carnet B"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "globecar-summit-600-plus-precio-ficha-tecnica",
@@ -5879,8 +5879,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "globecar-campscout-b-precio-ficha-tecnica",
-    "title": "Globecar CampScout B: dormir en gemelas en solo 6,36 m",
-    "excerpt": "La CampScout B de Globecar ofrece dos camas traseras siempre listas en 6,36 m, permiso B, cuatro plazas y precio solo en concesionario.",
+    "title": "Globecar CampScout B 2026: ficha técnica y camas gemelas en 6,36 m",
+    "excerpt": "Precio no publicado oficialmente: ficha del Globecar CampScout B 2026, camper de 6,36 m con camas gemelas traseras, carnet B y 4 plazas.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5894,12 +5894,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Globecar CampScout B plazas",
       "camper 6 metros opiniones España"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "hymer-exsis-i-580-pure-precio-ficha-tecnica",
-    "title": "Hymer Exsis-i 580 Pure: integral de 6,99 m y 4 plazas",
-    "excerpt": "Exsis-i 580 Pure: integral alemana de 6,99 m, Ducato de 140 CV, 4 plazas, gemelas traseras y serie cerrada, sin tarifa oficial.",
+    "title": "Hymer Exsis-i 580 Pure 2026: ficha técnica, camas gemelas y 4 plazas",
+    "excerpt": "Precio no publicado oficialmente: ficha técnica del Hymer Exsis-i 580 Pure 2026, la integral estrecha de 6,99 m sobre Fiat Ducato 140 CV, 4 plazas, carnet B y serie especial Pure todo equipada.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5936,8 +5936,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "hymer-tramp-s-585-precio-ficha-tecnica",
-    "title": "Hymer Tramp S 585 2026: Sprinter, baño vario y 109.900 €",
-    "excerpt": "Perfilada Hymer sobre Sprinter desde 109.900 €: 7,09 m, cuatro plazas, camas gemelas traseras, carnet B y un aseo que gira para convertirse en ducha.",
+    "title": "Hymer Tramp S 585 2026: precio, ficha técnica y baño vario",
+    "excerpt": "Precio desde 109.900 €: ficha técnica del Hymer Tramp S 585 2026, perfilada de 7,09 m sobre Mercedes Sprinter 150 CV, 4 plazas, carnet B y el ingenioso baño vario de tabique pivotante.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5951,12 +5951,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "perfilada Hymer Mercedes Sprinter",
       "autocaravana 4 plazas carnet B"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "itineo-cj660-precio-ficha-tecnica",
-    "title": "Itineo CJ660: integral compacto de 2,19 m de ancho",
-    "excerpt": "El CJ660 une carrocería integral, 6,61 m de longitud, cuatro plazas y Boxer diésel de 140 CV, con carnet B y sin precio oficial publicado.",
+    "title": "Itineo CJ660 2026: ficha técnica y el integral estrecho de 2,19 m",
+    "excerpt": "Precio no publicado oficialmente: el Itineo CJ660 2026 es un integral de solo 6,61 m de largo y 2,19 m de anchura sobre Peugeot Boxer 140 CV, 4 plazas para viajar y dormir, con carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5974,8 +5974,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "itineo-sbd700-precio-ficha-tecnica",
-    "title": "Itineo SBD700 2026: 6 plazas, 6,99 m y carnet B",
-    "excerpt": "La Itineo SBD700 2026 duerme a seis en menos de siete metros, con 140 CV y permiso B. Sin PVP oficial en España: pide presupuesto en concesionarios.",
+    "title": "Itineo SBD700 2026: integral de 6,99 m que duerme a 6, ficha técnica",
+    "excerpt": "Ficha técnica de la Itineo SBD700 2026: integral de 6,99 metros con 6 plazas para dormir, motor de 140 CV y carnet B. Precio no publicado oficialmente: Itineo no comunica PVP en España.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -6031,8 +6031,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "knaus-live-i-700-meg-precio-ficha-tecnica",
-    "title": "Knaus Live I 700 MEG: integral grande para viajar con niños",
-    "excerpt": "La Live I 700 MEG es la integral de Knaus para familias: 7,51 m, 180 CV, cuatro plazas para viajar y dormir, Isofix doble y MMA de 4.000 kg con carnet C1.",
+    "title": "Knaus Live I 700 MEG 2026: integral familiar con Isofix, ficha técnica",
+    "excerpt": "Ficha técnica de la Knaus Live I 700 MEG 2026: integral de 7,51 m con motor de 180 CV, 4 plazas, MMA de 4.000 kg y carnet C1. Precio no publicado oficialmente.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -6046,12 +6046,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Live I 700 MEG plazas",
       "Knaus integral Isofix"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "laika-ecovip-h-4109-precio-ficha-tecnica",
-    "title": "Laika Ecovip H 4109 2026: integral de 7,40 m para el frío",
-    "excerpt": "Integral italiana de 7,40 m con base Fiat Ducato de 140 CV, 4 plazas y MMA de 4.400 kg: exige carnet C1 y su precio oficial no está publicado.",
+    "title": "Laika Ecovip H 4109 2026: ficha técnica, medidas y carnet C1",
+    "excerpt": "Precio no publicado oficialmente: ficha técnica de la Laika Ecovip H 4109 2026, integral italiana de 7,40 m pensada para el invierno, 140 CV, 4 plazas y carnet C1.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -6126,8 +6126,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "mclouis-mc4-373-precio-ficha-tecnica",
-    "title": "McLouis MC4 373: 5 plazas y dos chasis a elegir en 7,45 m",
-    "excerpt": "McLouis MC4 373 2026: perfilada de 7,45 m con 5 plazas, carnet B y dos chasis a elegir: Fiat Ducato 140 CV o Ford Transit 130 CV. Sin PVP oficial.",
+    "title": "McLouis MC4 373 2026: ficha técnica, 5 plazas y dos chasis a elegir",
+    "excerpt": "Precio no publicado oficialmente: ficha de la McLouis MC4 373 2026, perfilada de 7,45 m con 5 plazas, carnet B y la rareza de poder elegir entre Fiat Ducato 140 CV o Ford Transit 130 CV.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -6145,8 +6145,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "mclouis-fusion-367-precio-ficha-tecnica",
-    "title": "McLouis Fusion 367: perfilada británica de 6,99 m, 5 plazas",
-    "excerpt": "Perfilada italiana de 6,99 m vendida solo en el Reino Unido: 5 plazas de viaje, 4 para dormir, motor Fiat Ducato de 140 CV y un 78 % en el test británico.",
+    "title": "McLouis Fusion 367 2026: ficha técnica y la McLouis que solo se vende en Reino Unido",
+    "excerpt": "Precio no publicado oficialmente: la McLouis Fusion 367 2026 es una perfilada de 6,99 m fabricada en Italia solo para el mercado británico, con 5 plazas, carnet B y Lux Pack de serie.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -6164,8 +6164,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "mobilvetta-krosser-p86-precio-ficha-tecnica",
-    "title": "Mobilvetta Krosser P86 2026: 7,45 m y 10 años de garantía",
-    "excerpt": "7,45 m sobre Ducato 140 CV, 4 plazas y carnet B: el iTech 4.0 respalda 10 años de garantía anti-infiltraciones; Mobilvetta no publica precio oficial.",
+    "title": "Mobilvetta Krosser P86 2026: ficha técnica y 10 años de garantía contra infiltraciones",
+    "excerpt": "Precio no publicado oficialmente: la Mobilvetta Krosser P86 2026, perfilada de 7,45 m con 4 plazas, carnet B y el sistema iTech 4.0 que le da 10 años de garantía contra infiltraciones.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -6183,8 +6183,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "mooveo-van-63eb-precio-ficha-tecnica",
-    "title": "Mooveo Van 63EB 2026: camper 'All in One' de 6,36 m",
-    "excerpt": "Camper Mooveo Van 63EB 2026: 6,36 m, Ducato 140 CV, 4 plazas de viaje y 3 de cama, carnet B y equipamiento de serie sin PVP oficial en España.",
+    "title": "Mooveo Van 63EB 2026: ficha técnica y filosofía 'All in One'",
+    "excerpt": "Precio no publicado oficialmente: la Mooveo Van 63EB 2026 es una camper de 6,36 m sobre Fiat Ducato 140 CV, con 4 plazas, carnet B y la filosofía 'All in One' de Mooveo: el equipamiento importante vie",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -6202,8 +6202,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "notin-sevilla-jf-precio-ficha-tecnica",
-    "title": "Notin Sevilla JF: perfilada francesa de 7,49 m",
-    "excerpt": "Desde 99.900 €, la Notin Sevilla JF 2026 es una perfilada francesa de 7,49 m con camas gemelas, Ducato 140 CV, 4 plazas y carnet B.",
+    "title": "Notin Sevilla JF 2026: precio, ficha técnica y camas gemelas",
+    "excerpt": "Precio y ficha del Notin Sevilla JF 2026: perfilada francesa de 7,49 m desde 99.900 €, camas gemelas traseras, Fiat Ducato 140 CV, 4 plazas y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -6221,8 +6221,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "rimor-kilig-69-plus-precio-ficha-tecnica",
-    "title": "Rimor Kilig 69 Plus 2026: precio, 5 plazas y calor diésel",
-    "excerpt": "Rimor Kilig 69 Plus 2026 desde 57.960 €: perfilada de 7,308 m, 5 plazas en ruta, cama trasera y calor diésel Truma de serie.",
+    "title": "Rimor Kilig 69 Plus 2026: precio, ficha técnica y 5 plazas",
+    "excerpt": "Precio y ficha del Rimor Kilig 69 Plus 2026: perfilada italiana de 7,31 m desde 57.960 € con calefacción diésel Truma de serie, 5 plazas, Ford Transit 130 CV y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -6236,12 +6236,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "calefacción diésel Truma Combi",
       "autocaravana italiana 5 plazas"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "rimor-kilig-66-plus-precio-ficha-tecnica",
-    "title": "Rimor Kilig 66 Plus 2026: cama que sube y baja a medida",
-    "excerpt": "Perfilada de 7,34 metros desde 58.300 €, con cama central trasera que regula su altura, motor Ford Transit de 130 CV, cuatro plazas y permiso B.",
+    "title": "Rimor Kilig 66 Plus 2026: precio, ficha técnica y cama regulable",
+    "excerpt": "Precio y ficha del Rimor Kilig 66 Plus 2026: perfilada italiana de 7,34 m desde 58.300 € con cama central regulable en altura, Ford Transit 130 CV, 4 plazas y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -6259,8 +6259,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "sunlight-t-69-l-precio-ficha-tecnica",
-    "title": "Sunlight T 69 L 2026: cama queen, carnet B y 7,41 m",
-    "excerpt": "Perfilada Sunlight de 7,41 metros: dormitorio trasero con cama queen, motor de 140 CV, permiso B, tarifa sin publicar y piloto trasero Bridge Light.",
+    "title": "Sunlight T 69 L 2026: ficha técnica, cama queen y 4 plazas",
+    "excerpt": "Precio no publicado oficialmente: el Sunlight T 69 L 2026 es una perfilada de 7,41 m con cama queen trasera, motor de 140 CV, 4 plazas, carnet B y el Bridge Light trasero de la marca.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -6278,8 +6278,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "sunlight-i-68-precio-ficha-tecnica",
-    "title": "Sunlight I 68: integral 7,41 m, 180 CV y carnet C1",
-    "excerpt": "La Sunlight I 68 2026: integral de 7,41 m, 180 CV, 4 plazas para viajar y dormir, MMA de 3.650 kg con carnet C1 y edición Adventure, sin PVP oficial.",
+    "title": "Sunlight I 68 2026: ficha técnica, carnet C1 y edición Adventure",
+    "excerpt": "Precio no publicado oficialmente: ficha de la Sunlight I 68 2026, integral de 7,41 m con 180 CV, 4 plazas, carnet C1 y edición Adventure con doble trampilla de garaje.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -6297,8 +6297,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "weinsberg-caracore-650-meg-precio-ficha-tecnica",
-    "title": "Weinsberg CaraCore 650 MEG: primera integral y carnet B",
-    "excerpt": "La primera integral de Weinsberg: 6,99 m, Fiat Ducato de 140 CV, 3 plazas en ruta y 4 camas, con carnet B y sin PVP oficial en España.",
+    "title": "Weinsberg CaraCore 650 MEG 2026: ficha técnica y la primera integral de la marca",
+    "excerpt": "Precio no publicado oficialmente: ficha del Weinsberg CaraCore 650 MEG 2026, la primera integral de la historia de Weinsberg, 6,99 m, 140 CV, 3/4 plazas y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -6312,12 +6312,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "CaraCore 650 MEG plazas",
       "autocaravana integral carnet B"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "weinsberg-x-cursion-500-lt-precio-ficha-tecnica",
-    "title": "Weinsberg X-Cursion 500 LT: base VW, 5,88 m y carnet B",
-    "excerpt": "Weinsberg X-Cursion 500 LT: la perfilada compacta con base Volkswagen T6.1, 150 CV, 4 plazas y carnet B; sin precio oficial en España.",
+    "title": "Weinsberg X-Cursion 500 LT 2026: ficha técnica, base VW y 4 plazas",
+    "excerpt": "Precio no publicado oficialmente: ficha del Weinsberg X-Cursion 500 LT 2026, la única Weinsberg con chasis Volkswagen T6.1, perfilada compacta de 5,88 m, 150 CV y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -6331,12 +6331,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "X-Cursion 500 LT opiniones",
       "perfilada compacta 4 plazas"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "xgo-x-van-102-precio-ficha-tecnica",
-    "title": "XGO X-Van 102 2026: la camper con dormitorio transformable",
-    "excerpt": "Sin tarifa oficial en España: la XGO X-Van 102 2026 es una camper de 6,00 m con dormitorio reconfigurable, motor Ducato de 120 CV y 4 plazas con permiso B.",
+    "title": "XGO X-Van 102 2026: ficha técnica, camper de 6 m y camas modulares",
+    "excerpt": "Precio no publicado oficialmente: ficha del XGO X-Van 102 2026, camper de 6,00 m con camas modulares (individuales, literas o nido), 120 CV, 4 plazas y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -6350,7 +6350,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "X-Van 102 plazas",
       "furgoneta camper 4 plazas"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "hymer-grand-canyon-s-2026-precio-ficha-tecnica",
@@ -6373,8 +6373,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "hymer-b-mc-i-600-2026-precio-ficha-tecnica",
-    "title": "Hymer B-MC I 600 2026: integral alemana desde 139.900 €",
-    "excerpt": "Integral alemana de 7,19 m con cama basculante eléctrica y cuatro plazas: precio, ficha y costes de la Hymer B-MC I 600 2026.",
+    "title": "Hymer B-MC I 600 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Hymer B-MC I 600 2026: integral alemana de 7,19 m con cama basculante eléctrica, 4 plazas, carnet B y chasis Mercedes Sprinter.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -6388,12 +6388,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Hymer B-MC I 600 plazas",
       "autocaravana integral alemana"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica",
-    "title": "Adria Twin Supreme 640 SGX 2026: camper con cama elevable",
-    "excerpt": "Camper de 6,36 m con cama trasera elevable eléctrica, Ducato 140 CV, 4 plazas y precio orientativo de 67.490 €.",
+    "title": "Adria Twin Supreme 640 SGX 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Adria Twin Supreme 640 SGX 2026: camper de 6,36 m con cama trasera elevable eléctrica, Fiat Ducato 140 CV, 4 plazas y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -6411,8 +6411,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "chausson-640-titanium-2026-precio-ficha-tecnica",
-    "title": "Chausson 640 Titanium 2026: SmartLounge y 4 plazas",
-    "excerpt": "Chausson 640 Titanium 2026: perfilada de 6,99 m con SmartLounge, cama basculante de 160 cm, cuatro plazas, permiso B y precio galo orientativo.",
+    "title": "Chausson 640 Titanium 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Chausson 640 Titanium 2026: perfilada francesa de 6,99 m con salón SmartLounge, cama basculante de 160 cm, 4 plazas y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -6430,8 +6430,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "sunlight-t-68-2026-precio-ficha-tecnica",
-    "title": "Sunlight T 68 2026: perfilada de 7,41 m con 5 plazas reales",
-    "excerpt": "La Sunlight T 68 2026 mide 7,41 m, duerme a 5 con camas gemelas y basculante, se conduce con el carnet B y apuesta por la Adventure Edition.",
+    "title": "Sunlight T 68 2026: precio, ficha técnica y 5 plazas",
+    "excerpt": "Precio y ficha de la Sunlight T 68 2026: perfilada de 7,41 m con camas gemelas, cama basculante, 5 plazas, carnet B y edición Adventure.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -6445,12 +6445,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Sunlight T 68 Adventure",
       "autocaravana camas gemelas"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "sunlight-a-70-2026-precio-ficha-tecnica",
-    "title": "Sunlight A 70 2026: capuchina de 7,26 m para seis personas",
-    "excerpt": "Capuchina familiar de 7,26 metros con seis plazas para dormir, motor Citroën Jumper de 140 CV y precio orientativo alemán cercano a 66.799 euros.",
+    "title": "Sunlight A 70 2026: precio, ficha técnica y 6 plazas",
+    "excerpt": "Precio y ficha de la Sunlight A 70 2026: capuchina familiar de 7,26 m para 6 personas, Citroën Jumper 140 CV, carnet B y precio contenido.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -6464,7 +6464,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Sunlight A 70 familiar",
       "autocaravana capuchina barata"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica",
@@ -6487,8 +6487,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "roller-team-auto-roller-746-2026-precio-ficha-tecnica",
-    "title": "Auto-Roller 746 2026: capuchina para 6 con salón en U",
-    "excerpt": "Auto-Roller 746 2026: capuchina de 7,24 m con seis plazas, salón trasero en U, base Ford Transit y carnet B. Sin precio oficial en España.",
+    "title": "Roller Team Auto-Roller 746 2026: precio, ficha técnica y 6 plazas",
+    "excerpt": "Precio y ficha del Roller Team Auto-Roller 746 2026: capuchina italiana de 7,24 m para 6 personas, salón trasero en U, Ford Transit y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -6502,7 +6502,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Auto-Roller 746 opiniones",
       "autocaravana italiana familiar"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "benimar-mileo-243-2026-precio-ficha-tecnica",
@@ -6526,7 +6526,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "dethleffs-trend-t-6717-eb-2026-precio-ficha-tecnica",
     "title": "Dethleffs Trend T 6717 EB 2026: ficha, 4 plazas y garantía",
-    "excerpt": "La perfilada alemana de 6,96 m con camas gemelas traseras: 4 plazas, permiso B, 10 años frente a infiltraciones y precio sin publicar oficial.",
+    "excerpt": "Precio y ficha de la Dethleffs Trend T 6717 EB 2026: perfilada alemana de 6,96 m, camas gemelas, 4 plazas, carnet B y garantía de 10 años contra infiltraciones.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -6540,12 +6540,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Dethleffs Trend T 6717 plazas",
       "autocaravana alemana garantía"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "knaus-boxlife-600-mq-2026-precio-ficha-tecnica",
     "title": "Knaus BoxLife 600 MQ 2026: camper diésel para el invierno",
-    "excerpt": "La BoxLife 600 MQ 2026 calienta con gasóleo de serie, ofrece baño XL transformable y cuatro plazas en 5,99 metros con acabado Platinum.",
+    "excerpt": "Precio y ficha de la Knaus BoxLife 600 MQ 2026: camper de 5,99 m con calefacción diésel Truma Combi 6 D de serie, baño XL con pared giratoria y acabado Platinum.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -6559,7 +6559,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "BoxLife 600 MQ plazas",
       "furgoneta camper Knaus"
     ],
-    "readTime": 8
+    "readTime": 7
   },
   {
     "slug": "possl-2win-plus-2026-precio-ficha-tecnica",
@@ -6582,8 +6582,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "globecar-globescout-plus-2026-precio-ficha-tecnica",
-    "title": "Globecar GlobeScout Plus: guía de ocasión y ficha 2026",
-    "excerpt": "GlobeScout Plus descatalogada: qué mirar al comprar una usada 2016-2021, medidas de 6 m, Citroën Jumper 120-180 CV, cama fija y garaje trasero.",
+    "title": "Globecar GlobeScout Plus 2026: precio de ocasión, ficha técnica y 4 plazas",
+    "excerpt": "Globecar GlobeScout Plus: está descatalogada y solo hay ocasión. Guía honesta de compra de segunda mano: qué revisar, precios y alternativas nuevas.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -6597,12 +6597,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "camper ocasión 6 metros",
       "GlobeScout Plus precio segunda mano"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "westfalia-columbus-600d-2026-precio-ficha-tecnica",
-    "title": "Westfalia Columbus 600 D 2026: camper diésel 5 plazas",
-    "excerpt": "Columbus 600 D 2026: camper Westfalia de 5,998 m, calefacción diésel de doble zona, hasta 5 plazas y precio oficial desde 67.650 € en Alemania.",
+    "title": "Westfalia Columbus 600 D 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Westfalia Columbus 600 D 2026: camper de 6 m con calefacción diésel Eberspächer doble zona, banqueta plegable hasta 5 plazas y precio oficial.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -6616,12 +6616,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Westfalia Columbus plazas",
       "furgoneta camper Westfalia"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "dreamer-d55-fun-up-2026-precio-ficha-tecnica",
-    "title": "Dreamer D55 UP 2026: 5,99 m, 4 camas fijas y techo elevable",
-    "excerpt": "La D55 UP 2026 duerme a cuatro personas en camas fijas dentro de 5,99 m, con baño separado y nevera de 149 l. Medidas, motor y equipamiento.",
+    "title": "Dreamer D55 UP 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Dreamer D55 UP 2026: camper francesa de 5,99 m con techo elevable para 4 adultos, baño Modul'Space y nevera de 149 l.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -6635,12 +6635,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Dreamer D55 UP plazas",
       "furgoneta camper Dreamer"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "challenger-v114-start-edition-2026-precio-ficha-tecnica",
-    "title": "Challenger V114 2026: Road Edition, pesos claros y gran baño",
-    "excerpt": "La Challenger V114 Road Edition 2026 mide 5,99 m, declara 335 kg restantes para opciones y equipa Traction+, Isofix y precableado solar y de litio.",
+    "title": "Challenger V114 Road Edition 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Challenger V114 Road Edition 2026: camper francesa de 5,99 m con 335 kg de carga útil para opciones publicados, gran baño y dotación de serie completa.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -6654,12 +6654,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "V114 Road Edition plazas",
       "furgoneta camper Challenger"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "sunlight-cliff-640-2026-precio-ficha-tecnica",
-    "title": "Sunlight Cliff 640 Adventure 2026: 60.990 € y camas gemelas",
-    "excerpt": "Sunlight Cliff 640 Adventure 2026: camper de 6,36 m con camas gemelas, precio oficial de 60.990 € en España y MMA ampliable a 4.250 kg.",
+    "title": "Sunlight Cliff 640 Adventure 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Sunlight Cliff 640 Adventure 2026: camper de 6,36 m con camas gemelas, precio oficial en España y MMA ampliable a 4.250 kg.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -6673,7 +6673,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Cliff 640 Adventure plazas",
       "furgoneta camper Sunlight"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "rapido-v55-2026-precio-ficha-tecnica",
@@ -6716,7 +6716,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "laika-ecovip-600-2026-precio-ficha-tecnica",
     "title": "Laika Ecovip 600 2026: camper con doble suelo y 4 plazas",
-    "excerpt": "Laika Ecovip 600 2026: camper italiana de 5,99 m, Ducato 2.2 de 140 CV, doble suelo aislado, baño Vario y 4 plazas. Precio oficial: 71.314 € en Francia.",
+    "excerpt": "Precio y ficha de la Laika Ecovip 600 2026: camper italiana de 5,99 m con doble suelo real aislado, baño Vario y precio oficial publicado.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -6730,12 +6730,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Laika Ecovip 600 plazas",
       "furgoneta camper Laika"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "burstner-lyseo-td-690-g-2026-precio-ficha-tecnica",
     "title": "Bürstner Lyseo TD 690 G 2026: precio y ficha invernal",
-    "excerpt": "Perfilada de 6,99 m para viajar todo el año: la Lyseo TD 690 G 2026 combina camas gemelas, 4 plazas y carnet B desde unos 80.750 € en Alemania.",
+    "excerpt": "Precio y ficha de la Bürstner Lyseo TD 690 G 2026: perfilada de 6,99 m con aislamiento winterproof, suelo Thermofloor, camas gemelas traseras, 4 plazas y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -6749,12 +6749,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Lyseo TD 690 G plazas",
       "autocaravana winterproof"
     ],
-    "readTime": 6
+    "readTime": 8
   },
   {
     "slug": "hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica",
-    "title": "Hobby Optima OnTour V65 GE 2026: todo incluido sin extras",
-    "excerpt": "Perfilada Hobby de 6,78 m, 140 CV y 4 plazas con toldo, navegación, cámara y SAT de fábrica; sin PVP oficial, el importe lo marca el concesionario.",
+    "title": "Hobby Optima OnTour Edition F V65 GE 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Hobby Optima OnTour Edition F V65 GE 2026: perfilada de 6,78 m con pack ALL-INCLUSIVE de serie, 4 plazas, carnet B y Fiat Ducato 140 CV.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -6768,12 +6768,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Hobby Optima OnTour plazas",
       "perfilada Hobby 4 plazas"
     ],
-    "readTime": 9
+    "readTime": 7
   },
   {
     "slug": "weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica",
-    "title": "Weinsberg CaraBus Grey FIRE 600 MQ: precio y ficha 2026",
-    "excerpt": "La Weinsberg CaraBus FIRE 600 MQ 2026: camper de 5,99 m, 4 plazas y carnet B sobre Fiat Ducato 140 CV, sin PVP oficial y con 241 kg de carga útil.",
+    "title": "Weinsberg CaraBus Grey Edition (FIRE) 600 MQ 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del Weinsberg CaraBus Grey Edition [FIRE] 600 MQ 2026: camper de 5,99 m con edición FIRE de serie, 4 plazas, carnet B y Fiat Ducato 140 CV.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -6787,12 +6787,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "CaraBus 600 MQ opiniones",
       "furgoneta camper 5,99 m"
     ],
-    "readTime": 8
+    "readTime": 7
   },
   {
     "slug": "mclouis-mc4-231-2026-precio-ficha-tecnica",
-    "title": "McLouis MC4 231 2026: 742 kg de carga útil y garaje XXL",
-    "excerpt": "McLouis MC4 231 2026: perfilada compacta de 5,99 m, hasta 742 kg de carga, 4 plazas con carnet B y Ducato de 120 CV, sin precio oficial publicado.",
+    "title": "McLouis MC4 231 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del McLouis MC4 231 2026: perfilada de 5,99 m con hasta 742 kg de carga útil, 4 plazas, carnet B y Fiat Ducato 120 CV.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -6810,8 +6810,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica",
-    "title": "Eura Mobil IL 726 EF 2026: integral de invierno con C1",
-    "excerpt": "Integral alemana para el frío: Alde de serie, doble suelo y 4.500 kg de MMA. Te contamos qué permiso pide y qué anuncian los concesionarios.",
+    "title": "Eura Mobil Integra Line GT IL 726 EF 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Eura Mobil Integra Line GT IL 726 EF 2026: integral de 7,47 m con MMA de 4.500 kg (carnet C1), calefacción Alde y 4 plazas.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -6825,7 +6825,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "IL 726 EF plazas",
       "autocaravana 4500 kg carnet C1"
     ],
-    "readTime": 5
+    "readTime": 7
   },
   {
     "slug": "rimor-superbrig-687-tc-2026-precio-ficha-tecnica",
@@ -6867,8 +6867,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "giottiline-siena-322-2026-precio-ficha-tecnica",
-    "title": "Giottiline Siena 322 2026: perfilada 5,99 m sin madera",
-    "excerpt": "La Siena 322 2026, perfilada italiana de 5,99 m con carrocería íntegramente de fibra de vidrio, 4 plazas, Ducato de 140 CV y carnet B, sin precio oficial.",
+    "title": "Giottiline Siena 322 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Giottiline Siena 322 2026: perfilada de 5,99 m con carrocería 100 % fibra de vidrio, 4 plazas, carnet B y Fiat Ducato 140 CV.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -6886,8 +6886,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "mobilvetta-k-yacht-tekno-line-86-2026-precio-ficha-tecnica",
-    "title": "Mobilvetta K-Yacht Tekno Line 86 2026: SkyDome",
-    "excerpt": "Integral de 7,45 m con SkyDome de serie, Ducato 140 CV, cuatro plazas y permiso B. Sin precio oficial; anuncios 2026 entre 109.888 y 121.050 €.",
+    "title": "Mobilvetta K-Yacht Tekno Line 86 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Mobilvetta K-Yacht Tekno Line 86 2026: integral de 7,45 m con techo SkyDome, 4 plazas, carnet B y Fiat Ducato 140 CV.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -6943,8 +6943,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "font-vendome-mondea-2026-precio-ficha-tecnica",
-    "title": "Font Vendôme Mondéa 2026: camper 5,99 m con ducha propia",
-    "excerpt": "Ficha del Font Vendôme Mondéa 2026: furgón camper francés de 5,99 m, ducha separada con bac de poliéster, Ducato 140 CV con Traction+, 4 plazas y carnet B.",
+    "title": "Font Vendôme Mondéa 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del Font Vendôme Mondéa 2026: furgón camper francés de 5,99 m con ducha separada de verdad, Fiat Ducato 140 CV con Traction+, 4 plazas y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -6981,8 +6981,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "mooveo-tei-60fb-2026-precio-ficha-tecnica",
-    "title": "Mooveo TEI-60FB 2026: baño trasero en menos de 6 m",
-    "excerpt": "Perfilada de 5,99 m con baño trasero completo, garaje grande, 4 plazas para viajar y motor de 140 CV: descatalogada en 2026, solo queda stock u ocasión.",
+    "title": "Mooveo TEI-60FB 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del Mooveo TEI-60FB 2026: perfilada de menos de 6 m con baño trasero completo separado, gran garaje, Citroën Jumper 140 CV, 4 plazas y carnet B. Descatalogado en 2026: solo stock u ocas",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -6996,7 +6996,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Mooveo TEI-62DH",
       "perfilada compacta 4 plazas"
     ],
-    "readTime": 8
+    "readTime": 7
   },
   {
     "slug": "xgo-x-van-104-2026-precio-ficha-tecnica",
@@ -7020,7 +7020,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "elnagh-baron-565-2026-precio-ficha-tecnica",
     "title": "Elnagh Baron 565 2026: 5 plazas, camas fijas y precio",
-    "excerpt": "El Baron 565 2026: perfilada italiana de 6,99 m, cinco plazas, gemelas traseras, basculante de serie, Truma diésel y 10 años de garantía.",
+    "excerpt": "Precio y ficha del Elnagh Baron 565 2026: perfilada italiana de 6,99 m con camas gemelas sobre maxi-garage y letto basculante eléctrico de serie, Truma Combi 4 diésel, 5 plazas y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -7058,7 +7058,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "bavaria-i740fgj-nomade-2026-precio-ficha-tecnica",
     "title": "Bavaria I740FGJ Nomade 2026: integral de 7,56 m y 4 plazas",
-    "excerpt": "Integral francesa de 7,56 m con dormitorio trasero doble XL sobre un gran garaje, cambio automático, 4 plazas para viajar y dormir, y carnet B.",
+    "excerpt": "Precio y ficha de la Bavaria I740FGJ Nomade 2026: integral francesa de 7,56 m con camas individuales combinables en cama doble XL sobre gran garaje, caja automática, 4 plazas y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -7076,8 +7076,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "ci-horon-84-xt-2026-precio-ficha-tecnica",
-    "title": "CI Horon 84 XT 2026: perfilada familiar de 5 plazas",
-    "excerpt": "El CI Horon 84 XT 2026 es una autocaravana perfilada italiana de 7,45 m, 5 plazas, motor Ford de 165 CV, camas gemelas convertibles y carnet B.",
+    "title": "CI Horon 84 XT 2026: precio, ficha técnica y 5 plazas",
+    "excerpt": "Precio y ficha del CI Horon 84 XT 2026: perfilada italiana de 7,45 m con camas gemelas convertibles en king size, maxi garaje, Ford Transit 165 CV, 5 plazas y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -7095,8 +7095,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "fleurette-baxter-68-lmc-2026-precio-ficha-tecnica",
-    "title": "Fleurette Baxter 68 LMC 2026: perfilada estrecha y carnet B",
-    "excerpt": "La perfilada francesa Baxter 68 LMC 2026 mide 6,85 m y solo 2,23 m de ancho, monta el Fiat Ducato de 120 CV y se conduce con el carnet B; sin PVP oficial.",
+    "title": "Fleurette Baxter 68 LMC 2026: precio, ficha técnica y plazas",
+    "excerpt": "Precio y ficha del Fleurette Baxter 68 LMC 2026: perfilada francesa estrecha de 6,85 m y solo 2,23 m de ancho, Fiat Ducato 120 CV, especialista en formatos compactos y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -7153,7 +7153,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "adria-coral-plus-670-sl-2026-precio-ficha-tecnica",
     "title": "Adria Coral Plus 670 SL 2026: precio, ficha y plazas",
-    "excerpt": "Adria Coral Plus 670 SL 2026: perfilada de 7,49 m, Skyroof, gemelas unibles, baño en-suite, Ducato 140 CV, 4 plazas y precio de referencia británico.",
+    "excerpt": "Precio y ficha del Adria Coral Plus 670 SL 2026: perfilada eslovena de 7,49 m con Skyroof panorámico, camas gemelas unibles en doble, baño en-suite con ducha independiente, Fiat Ducato 140 CV y 4 plaz",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -7171,8 +7171,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "hymer-ml-t-580-4x4-2026-precio-ficha-tecnica",
-    "title": "Hymer ML-T 580 4x4 2026: precio y tracción integral",
-    "excerpt": "La ML-T 580 4x4 2026: perfilada premium de 6,98 m, Sprinter 419 CDI de 190 CV, CrossTrail con 320 Ah y permiso C1. Precio base alemán y datos.",
+    "title": "Hymer ML-T 580 4x4 2026: precio, ficha técnica y 4x4",
+    "excerpt": "Precio y ficha del Hymer ML-T 580 4x4 2026: perfilada todoterreno de 6,98 m con tracción total, Mercedes Sprinter 419 CDI de 190 CV con 9G-Tronic, edición CrossTrail con 320 Ah de litio y carnet C1.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -7186,12 +7186,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "autocaravana 4x4 Sprinter",
       "perfilada todoterreno 6,98 m"
     ],
-    "readTime": 9
+    "readTime": 8
   },
   {
     "slug": "knaus-sky-ti-650-meg-2026-precio-ficha-tecnica",
-    "title": "Knaus Sky TI 650 MEG: perfilada 2026 con trasera plegable",
-    "excerpt": "Perfilada para cuatro con portón trasero plegable y ServiceBox exterior, sobre Ducato de 140 CV. Sin tarifa oficial: orientativo, 81.000 € en Alemania.",
+    "title": "Knaus Sky TI 650 MEG 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del Knaus Sky TI 650 MEG 2026: perfilada alemana de 6,96 m con trasera FoldXpand, ServiceBox exterior, camas gemelas unibles en doble, Fiat Ducato 140 CV y 4 plazas.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -7205,7 +7205,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Knaus Sky TI opiniones",
       "perfilada 6,96 m 4 plazas"
     ],
-    "readTime": 9
+    "readTime": 7
   },
   {
     "slug": "etrusco-t-7400-sb-2026-precio-ficha-tecnica",
@@ -7229,7 +7229,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "benimar-amphitryon-940-2026-precio-ficha-tecnica",
     "title": "Benimar Amphitryon 940 2026: integral de 6,99 m para 5",
-    "excerpt": "Integral española de 6,99 m con 5 plazas, triple cama, calor a gasóleo de 4.000 W y garaje regulable, sin precio de catálogo: así es el Amphitryon 940.",
+    "excerpt": "Precio y ficha del Benimar Amphitryon 940 2026: integral española de 6,99 m con 5 plazas reales, triple sistema de camas, calefacción a gasóleo de 4.000 W, garaje de altura regulable y Fiat Ducato 140",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -7243,7 +7243,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Amphitryon 940 opiniones",
       "integral 6,99 m familiar"
     ],
-    "readTime": 8
+    "readTime": 7
   },
   {
     "slug": "benimar-sport-340-up-2026-precio-ficha-tecnica",
@@ -7285,8 +7285,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "laika-kosmo-l-319-2026-precio-ficha-tecnica",
-    "title": "Laika Kosmo L 319 2026: perfilada de 6,95 m y 4 plazas",
-    "excerpt": "Laika Kosmo L 319 2026: perfilada de 6,95 m, camas gemelas de hasta 205 cm, baño Vario y Ducato 140 CV, sin PVP oficial y con 82.500 € orientativos.",
+    "title": "Laika Kosmo L 319 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del Laika Kosmo L 319 2026: perfilada italiana de 6,95 m con camas gemelas de hasta 205 cm con elevación eléctrica, baño Vario de nueva generación, garaje calefactado y Fiat Ducato 140 ",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -8122,7 +8122,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "citroen-2cv-electrico-2028",
     "title": "Citroën 2CV eléctrico 2028: regreso desde 15.000 €",
-    "excerpt": "El mito del dos caballos regresa como urbano eléctrico, ligero y europeo: precio objetivo por debajo de 15.000 € y producción prevista para 2028.",
+    "excerpt": "El Citroën 2CV eléctrico llega con novedades importantes: desde 15.000 €. Datos, pros, contras y ficha técnica.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
@@ -12207,7 +12207,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "volkswagen-id-tiguan",
     "title": "Volkswagen ID. Tiguan: eléctrico familiar desde 32.400 €",
-    "excerpt": "El ID. Tiguan releva a los ID.4 e ID.5 con 190 CV, batería de 58 kWh, 454 km WLTP y maletero de 534 litros, desde 32.400 euros con ayudas.",
+    "excerpt": "El Volkswagen ID. Tiguan parte de 32.400 € con 190 CV y 454 km de autonomía: el SUV eléctrico familiar que jubila a los ID.4 e ID.5.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
@@ -12221,7 +12221,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "comprar volkswagen id. tiguan",
       "id. tiguan vs rivales"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "byd-shark-6-2025-precio-ficha-tecnica",
@@ -12263,8 +12263,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "mg-4-urban-ev-2026-precio-ficha-tecnica",
-    "title": "El eléctrico urbano de 149 CV por 25.490 €",
-    "excerpt": "El MG4 Urban EV parte de 25.490 € con 149 CV y 325 km de autonomía: el eléctrico que más se acerca al precio de un gasolina.",
+    "title": "149 CV por 25.490 €: el eléctrico urbano",
+    "excerpt": "El MG4 Urban EV arranca en 25.490 €, con 149 CV y 325 km de autonomía: el eléctrico más próximo al precio de un gasolina.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
@@ -12282,8 +12282,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "byd-seal-06-ev-2026-precio-ficha-tecnica",
-    "title": "322 CV eléctricos por 14.000 €: la berlina Seal 06",
-    "excerpt": "El BYD Seal 06 EV promete 322 CV y 630 km de autonomía por unos 14.000 € en China: la berlina eléctrica con mejor relación autonomía-precio.",
+    "title": "La berlina Seal 06: 322 CV eléctricos por 14.000 €",
+    "excerpt": "El BYD Seal 06 EV anuncia 322 CV y 630 km de autonomía por unos 14.000 € en China: la berlina eléctrica con mejor relación entre autonomía y precio.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
@@ -12301,8 +12301,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "byd-seal-08-2026-precio-ficha-tecnica",
-    "title": "693 CV y 900 km: la berlina que asusta a los premium",
-    "excerpt": "El BYD Seal 08 parte de 54.000 € con 693 CV, tracción total y hasta 900 km de autonomía: la berlina insignia que apunta a los alemanes premium.",
+    "title": "La berlina que asusta a los premium: 693 CV y 900 km",
+    "excerpt": "El BYD Seal 08 arranca en 54.000 €, con 693 CV, tracción total y hasta 900 km de autonomía: la berlina insignia que apunta a los alemanes premium.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
@@ -12320,8 +12320,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "byd-song-l-dm-i-2025-precio-ficha-tecnica",
-    "title": "160 km eléctricos y 218 CV por 16.000 €: Song L",
-    "excerpt": "El BYD Song L DM-i ofrece 160 km de autonomía eléctrica y 218 CV por unos 16.000 € en China: el SUV híbrido enchufable eficiente por definición.",
+    "title": "Song L: 160 km eléctricos y 218 CV por 16.000 €",
+    "excerpt": "El BYD Song L DM-i brinda 160 km de autonomía eléctrica y 218 CV por unos 16.000 € en China: el SUV híbrido enchufable eficiente por definición.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
@@ -12681,8 +12681,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "mg5-2026-precio-ficha-tecnica",
-    "title": "178 CV por 7.600 €: el MG5 rompe el mercado",
-    "excerpt": "El MG5 2026 cuesta unos 7.600 € en China con 178 CV: la berlina compacta que demuestra hasta dónde puede llegar MG en precio.",
+    "title": "El MG5 rompe el mercado: 178 CV por 7.600 €",
+    "excerpt": "El MG5 2026 ronda los 7.600 € en China con 178 CV: la berlina compacta que demuestra hasta dónde puede llegar MG en precio.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
@@ -12795,8 +12795,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "bmw-serie-1-2025-precio-ficha-tecnica",
-    "title": "El compacto diésel de 163 CV por 35.300 €",
-    "excerpt": "El BMW Serie 1 parte de 35.300 € con el diésel de 163 CV y 4,3 l/100 km: el compacto premium para los que hacen kilómetros.",
+    "title": "163 CV diésel por 35.300 €: el compacto",
+    "excerpt": "El BMW Serie 1 arranca en 35.300 €, con el diésel de 163 CV y 4,3 l/100 km: el compacto premium para los que hacen kilómetros.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
@@ -12833,8 +12833,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "bmw-serie-3-2025-precio-ficha-tecnica",
-    "title": "La berlina diésel de referencia: 190 CV por 49.550 €",
-    "excerpt": "El BMW Serie 3 parte de 49.550 € con el diésel de 190 CV y 4,9 l/100 km: la berlina que inventó el segmento sigue siendo la referencia.",
+    "title": "190 CV por 49.550 €: la berlina diésel de referencia",
+    "excerpt": "El BMW Serie 3 arranca en 49.550 €, con el diésel de 190 CV y 4,9 l/100 km: la berlina que inventó el segmento sigue siendo la referencia.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
@@ -12852,8 +12852,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "bmw-serie-4-2025-precio-ficha-tecnica",
-    "title": "El coupé de 184 CV por 56.500 €",
-    "excerpt": "El BMW Serie 4 Coupé parte de 56.500 € con 184 CV y tracción trasera: el coupé elegante de BMW, 0-100 en 7,5 segundos.",
+    "title": "184 CV por 56.500 €: el coupé",
+    "excerpt": "El BMW Serie 4 Coupé arranca en 56.500 €, con 184 CV y tracción trasera: el coupé elegante de BMW, 0-100 en 7,5 segundos.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
@@ -14760,8 +14760,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/chausson-v594-2026-foto-chausson-salon.webp",
+    "heroAlt": "Cocina y salón con asientos giratorios del Chausson V594 2026",
     "keywords": [
       "Chausson Twist V594",
       "Chausson Twist V594 precio",
@@ -14851,7 +14851,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "ford-nugget-trail-2026-analisis-opinion",
     "title": "Ford Nugget Trail 2026: camper AWD con techo elevable",
-    "excerpt": "La Ford Nugget Trail 2026 añade tracción total AWD a la camper Westfalia de 5,05 m, con techo elevable, 4 plazas para dormir y motor diésel de 170 CV.",
+    "excerpt": "Análisis de la Ford Nugget Trail 2026: la camper con tracción total, techo elevable y camperización Westfalia. Ficha técnica, precios y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -14864,7 +14864,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "camper Ford Trail",
       "Nugget Trail vs California"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "ford-nugget-active-2026-analisis-opinion",
@@ -14886,7 +14886,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "possl-campster-2026-analisis-opinion",
     "title": "Pössl Campster 2026: cocina que gira 180° y 4,95 m",
-    "excerpt": "La camper compacta de Pössl mide 4,95 m, gira su cocina 180° para cocinar dentro o fuera y duerme a cuatro con techo elevable. Desde 49.999 € en Alemania.",
+    "excerpt": "Análisis del Pössl Campster 2026: la camper compacta con cocina giratoria, 4 plazas y base Citroën. Ficha técnica, precio y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -14918,8 +14918,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "possl-summit-640-2026-analisis-opinion",
-    "title": "Pössl Summit 640 2026: gran volumen de 6,36 m y cama fija",
-    "excerpt": "La Summit 640 2026 alarga la receta del camper más vendido de Europa hasta 6,36 m, con cama transversal fija, baño completo y base Ducato.",
+    "title": "Pössl Summit 640 2026: precio, ficha técnica y opinión",
+    "excerpt": "Análisis de la Pössl Summit 640 2026: la versión larga del camper más vendido de Europa. Ficha técnica y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -14930,12 +14930,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Summit 640 precio",
       "Pössl camper grande"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "possl-trenta-640-2026-analisis-opinion",
-    "title": "Pössl Trenta 640: la edición 30 aniversario, analizada",
-    "excerpt": "La Pössl Trenta 640 convierte la Summit 640 en serie aniversario: más dotación, detalles propios y base de 6,36 m. Análisis y para quién compensa.",
+    "title": "Pössl Trenta 640 2026: precio, ficha técnica y opinión",
+    "excerpt": "Análisis de la Pössl Trenta 640 2026: la edición especial por los 30 años de Pössl. Ficha técnica y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -14946,12 +14946,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Trenta precio",
       "Pössl edición especial"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "westfalia-kepler-2026-analisis-opinion",
-    "title": "Westfalia Kepler 2026: la camper de acceso desde 57.000 €",
-    "excerpt": "La camper más asequible de Westfalia: 5,30 m, techo elevable, 4 plazas y carnet B desde 57.000 € en Alemania. Qué trae, qué le falta y para quién encaja.",
+    "title": "Westfalia Kepler 2026: precio, ficha técnica y opinión",
+    "excerpt": "Análisis del Westfalia Kepler 2026: la puerta de entrada a Westfalia desde 57.000 €. Ficha técnica y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -14962,7 +14962,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Kepler precio",
       "Westfalia camper"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "westfalia-columbus-2026-analisis-opinion",
@@ -14999,7 +14999,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "westfalia-sven-hedin-2026-analisis-opinion",
     "title": "Westfalia Sven Hedin 2026: vivir de pie y viajar lejos",
-    "excerpt": "La Sven Hedin 2026 apuesta por el techo alto fijo: altura permanente, baño completo y base Crafter/TGE para rutas largas sin montar nada.",
+    "excerpt": "Análisis de la Westfalia Sven Hedin 2026: el clásico con techo alto fijo y baño completo. Ficha técnica y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -15010,7 +15010,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Sven Hedin precio",
       "Westfalia techo alto"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "peugeot-traveller-camper-2026-analisis-opinion",
@@ -15033,7 +15033,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "ford-transit-custom-nugget-2026-analisis-opinion",
     "title": "Ford Transit Custom Nugget 2026: camper Westfalia 72.290 €",
-    "excerpt": "Camper de fábrica sobre Transit Custom, camperizada por Westfalia: techo elevable, 4 plazas para dormir y precio desde 72.290 € en 2026.",
+    "excerpt": "Análisis de la Ford Transit Custom Nugget 2026: la camper original con camperización Westfalia, techo elevable y 4 plazas. Ficha técnica, precio y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -15068,8 +15068,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "camperiz-peugeot-rifter-2026-analisis-opinion",
-    "title": "Camperiz Peugeot Rifter 2026: camper española 5 plazas",
-    "excerpt": "Rifter camperizada por Camperiz: turismo con 5 plazas, módulo de 170 litros, batería Victron de 100 Ah y frigo de 15 litros. Sin precio publicado.",
+    "title": "Camperiz Peugeot Rifter 2026: camper española con 5 plazas",
+    "excerpt": "Análisis de la Rifter camperizada por Camperiz: homologada como turismo, batería Victron de 100 Ah y 170 litros de almacenaje. Ficha técnica y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -15086,8 +15086,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "renault-kangoo-camper-2026-analisis-opinion",
-    "title": "Renault Kangoo Camper 2026: camper compacta de 115 CV",
-    "excerpt": "La Kangoo Camper 2026 convierte una furgoneta compacta de 4,49 m en casa rodante de fin de semana: diésel 115 CV, 5 plazas y precio sin publicar.",
+    "title": "Renault Kangoo Camper 2026: precio, 115 CV y ficha técnica",
+    "excerpt": "Análisis de la Renault Kangoo Camper 2026: la camper compacta con motor diésel de 115 CV, 5 plazas y base de 4,49 m. Ficha técnica, precio y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -15104,8 +15104,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "ford-transit-custom-nugget-plus-2026-analisis-opinion",
-    "title": "Ford Nugget Plus 2026: camper alta de 5,34 m y baño",
-    "excerpt": "La Nugget Plus 2026 mide 5,34 m, con techo fijo de 2,80 m, cama trasera fija y baño con WC, diésel de 150 o 170 CV y precio orientativo cercano a 75.000 €.",
+    "title": "Nugget Plus 2026: precio 75.000 €, ficha técnica y opinión",
+    "excerpt": "Análisis de la Ford Transit Custom Nugget Plus 2026: la camper más grande de Ford, techo alto fijo y baño completo. Ficha técnica, precio y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -15160,7 +15160,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "vw-california-coast-2026-analisis-opinion",
     "title": "California Coast 2026: la camper VW con cocina",
-    "excerpt": "El Coast 2026 ofrece cocina interior con nevera cajón, 4 plazas, 4 camas, 80 Ah y 28 l. Precio de referencia desde 76.850 €, tarifa oficial francesa.",
+    "excerpt": "Análisis del Volkswagen California Coast 2026: cocina completa con nevera cajón, 4 plazas y 4 camas, batería de 80 Ah y depósito de 28 l. Precio aproximado desde 76.850 € (tarifa oficial Francia).",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -15174,12 +15174,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "California T7 Coast",
       "furgoneta camper con cocina"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "vw-california-ocean-2026-analisis-opinion",
-    "title": "VW California Ocean 2026: equipamiento máximo camper",
-    "excerpt": "California Ocean 2026: techo eléctrico, asientos calefactados y Matrix LED, con referencia de 84.000 € en Francia y sin tarifa oficial en España.",
+    "title": "VW California Ocean 2026: precio y equipamiento top",
+    "excerpt": "Análisis del Volkswagen California Ocean 2026: techo elevable eléctrico, asientos calefactados, Climatronic y faros Matrix LED. Precio aproximado desde 84.000 € (tarifa oficial Francia).",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -15198,7 +15198,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "hobby-de-luxe-540-ul-2026-precio-ficha-tecnica",
     "title": "Hobby De Luxe 540 UL: caravana 4 plazas desde 34.500 €",
-    "excerpt": "Hobby De Luxe 540 UL: caravana de un eje para 4, con camas individuales, 1.800 kg de MMA y carnet B, desde unos 34.500 € orientativos.",
+    "excerpt": "Precio y ficha de la Hobby De Luxe 540 UL: la caravana más vendida de Europa, 4 plazas, camas individuales, 1.800 kg de MMA y carnet B desde ~34.500 €.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -15216,8 +15216,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "knaus-sport-500-qdk-2026-precio-ficha-tecnica",
-    "title": "Knaus Sport 500 QDK: litera doble y 4 plazas",
-    "excerpt": "Caravana familiar de 7,32 m con litera doble trasera, cama transversal, 4 plazas, 1.800 kg de MMA y carnet B, desde unos 31.000 €.",
+    "title": "Knaus Sport 500 QDK 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Knaus Sport 500 QDK: caravana familiar con litera doble, 4 plazas, 1.800 kg de MMA y carnet B desde ~31.000 €.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -15235,8 +15235,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "adria-aviva-522-pt-2026-precio-ficha-tecnica",
-    "title": "Adria Aviva 522 PT 2026: 23.500 €, 7,06 m y 6 camas",
-    "excerpt": "Caravana Adria Aviva 522 PT 2026 para seis: 7,06 metros, cama doble al frente, literas atrás, MMA hasta 1.500 kg y precio desde 23.500 €.",
+    "title": "Adria Aviva 522 PT 2026: precio, ficha técnica, 6 plazas",
+    "excerpt": "Precio y ficha de la Adria Aviva 522 PT 2026: caravana familiar de 7,06 m, 6 plazas, cama doble y literas, 1.500 kg de MMA y carnet B desde ~23.500 €.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -15250,12 +15250,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Aviva 522 PT vs Hobby",
       "caravana familiar barata"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "adria-action-361-lh-2026-precio-ficha-tecnica",
-    "title": "Adria Action 361 LH 2026: precio, ficha y 2 plazas",
-    "excerpt": "La Adria Action 361 LH 2026 parte de unos 23.000 €: caravana compacta de 5,19 m, 1.400 kg de MMA, 2 plazas y baño con ducha, remolcable con el carnet B.",
+    "title": "Adria Action 361 LH 2026: precio, ficha y caravana icono",
+    "excerpt": "Precio y ficha de la Adria Action 361 LH 2026: la caravana icono de 5,19 m, 2 plazas, 1.400 kg de MMA, baño con ducha y carnet B desde ~23.000 €.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -15269,12 +15269,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Action 361 LH vs 391",
       "caravana ligera 2 plazas"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "burstner-premio-life-480-ts-2026-precio-ficha-tecnica",
-    "title": "Bürstner Premio Life 480 TS 2026: precio y cama king",
-    "excerpt": "La Bürstner Premio Life 480 TS 2026 es una caravana compacta para 3 personas con cama de 200x160 cm, carnet B y precio orientativo desde unos 22.000 €.",
+    "title": "Caravana con cama king de 200 cm: precio y ficha técnica",
+    "excerpt": "Precio y ficha de la Bürstner Premio Life 480 TS 2026: caravana con cama king de 200x160 cm, 3 plazas, carnet B y precio orientativo desde ~22.000 €.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -15312,7 +15312,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "hobby-excellent-540-wlu-2026-precio-ficha-tecnica",
     "title": "Hobby Excellent 540 WLU 2026: camas, baño y precio",
-    "excerpt": "La Excellent 540 WLU 2026 ofrece 4 plazas, camas individuales y baño trasero con ducha desde unos 30.900 €, con Truma Combi 6 y 2.000 kg de MMA.",
+    "excerpt": "Precio y ficha de la Hobby Excellent 540 WLU 2026: camas individuales, baño trasero con ducha, Truma Combi 6 y 2.000 kg de MMA desde ~30.900 €.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -15350,7 +15350,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "eriba-touring-542-2026-precio-ficha-tecnica",
     "title": "Eriba Touring 542 2026: techo elevable y solo 1.006 kg",
-    "excerpt": "La Eriba Touring 542 2026 mide 5,99 m, pesa 1.006 kg, duerme a 3 personas y se remolca con el carnet B desde ~21.290 €. Ficha, equipamiento y rivales.",
+    "excerpt": "Precio y ficha de la Eriba Touring 542 2026: el icono con techo elevable, 5,99 m, 1.006 kg, 3 plazas y carnet B desde ~21.290 €.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -15364,12 +15364,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Eriba Touring 2026",
       "caravana compacta 3 plazas"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "knaus-sport-450-fu-2026-precio-ficha-tecnica",
-    "title": "Knaus Sport 450 FU 2026: caravana de 4 plazas, 6,72 m",
-    "excerpt": "Caravana alemana de 6,72 m con cama francesa, 4 plazas, 1.056 kg en vacío, MMA hasta 1.800 kg y precio desde unos 25.000 €.",
+    "title": "Knaus Sport 450 FU 2026: precio, ficha técnica, 4 plazas",
+    "excerpt": "Precio y ficha de la Knaus Sport 450 FU 2026: cama francesa, 4 plazas en 6,72 m, 1.800 kg de MMA y techo anti-granizo desde ~25.000 €.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -15387,8 +15387,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "hobby-prestige-560-ul-2026-precio-ficha-tecnica",
-    "title": "Hobby Prestige 560 UL 2026: 7,57 m, camas gemelas y 32.000 €",
-    "excerpt": "Hobby Prestige 560 UL 2026: caravana alemana de 7,57 m, camas individuales de 194x85 cm, salón en U, Truma Combi 6 y ducha separada desde ~32.000 €.",
+    "title": "Hobby Prestige 560 UL 2026: precio, ficha y camas gemelas",
+    "excerpt": "Precio y ficha de la Hobby Prestige 560 UL 2026: caravana de 7,57 m con camas individuales, Truma Combi 6 y baño trasero desde ~32.000 €.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -15402,12 +15402,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Hobby Prestige 560 plazas",
       "caravana 7,57 metros"
     ],
-    "readTime": 7
+    "readTime": 4
   },
   {
     "slug": "weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica",
-    "title": "Weinsberg CaraOne 550 QDK 2026: 5 plazas desde 27.570 €",
-    "excerpt": "Caravana familiar de 7,59 m con 5 plazas, literas y cama transversal: la Weinsberg CaraOne 550 QDK 2026 cuesta unos 27.570 € según el catálogo alemán.",
+    "title": "Weinsberg CaraOne 550 QDK 2026: precio, ficha y 5 plazas",
+    "excerpt": "Precio y ficha de la Weinsberg CaraOne 550 QDK 2026: caravana familiar de 7,59 m con 5 plazas, literas y cama transversal desde ~27.570 €.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -15421,12 +15421,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "CaraOne 550 QDK plazas",
       "caravana familiar barata"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "dethleffs-beduin-scandinavia-550-bet-2026-precio-ficha-tecnica",
-    "title": "Dethleffs Beduin 550 BET: caravana de invierno, 43.199 €",
-    "excerpt": "Caravana premium de 8,06 m para el invierno: Alde de serie, 3 plazas, 1.800 kg de MMA y 10 años de estanqueidad desde 43.199 €.",
+    "title": "Dethleffs Beduin Scandinavia 550 BET: precio y ficha",
+    "excerpt": "Precio y ficha del Dethleffs Beduin Scandinavia 550 BET 2026: caravana premium de 8,06 m con calefacción Alde, 3 plazas y 1.800 kg de MMA desde 43.199 €.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -15440,12 +15440,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Beduin Scandinavia 2026",
       "caravana premium invierno"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "dethleffs-nomad-560-fmk-2026-precio-ficha-tecnica",
-    "title": "Dethleffs Nomad 560 FMK: caravana familiar para seis",
-    "excerpt": "Caravana alemana de 8,18 m para seis personas, 1.700 kg de MMA y 34.199 €. Ancha, familiar y remolcable con B96 en la mayoría de casos.",
+    "title": "Dethleffs Nomad 560 FMK 2026: precio, 6 plazas y ficha",
+    "excerpt": "Precio y ficha del Dethleffs Nomad 560 FMK 2026: caravana familiar de 8,18 m, 6 plazas, 2,50 m de ancho y 1.700 kg de MMA con carnet B desde 34.199 €.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -15459,12 +15459,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Nomad 560 FMK plazas",
       "caravana familiar grande"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "burstner-averso-535-tl-2026-precio-ficha-tecnica",
-    "title": "Bürstner Averso 535 TL 2026: cama fija, ducha y 4 plazas",
-    "excerpt": "Caravana alemana de 7,63 m para dos: cama delantera a lo ancho siempre hecha, salón trasero en U, ducha independiente y MMA de 1.600 kg desde 30.210 CHF.",
+    "title": "Bürstner Averso 535 TL 2026: precio y ficha técnica",
+    "excerpt": "Precio y ficha del Bürstner Averso 535 TL 2026: caravana de 7,63 m con cama transversal, 4 plazas, baño con ducha y 1.600 kg de MMA desde 30.210 CHF.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -15482,8 +15482,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "eriba-touring-530-2026-precio-ficha-tecnica",
-    "title": "Eriba Touring 530 2026: caravana icono desde 27.220 CHF",
-    "excerpt": "La Touring 530 mide 5,99 m, duerme a 3 personas y pesa 1.300 kg de MMA con solo 2,27 m de alto. Precio oficial en Suiza: 27.220 CHF.",
+    "title": "Eriba Touring 530 2026: precio, techo elevable y ficha",
+    "excerpt": "Precio y ficha de la Eriba Touring 530 2026: la caravana icono con techo elevable, 5,99 m, 3 plazas, 1.300 kg de MMA y 2,27 m de alto desde 27.220 CHF.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -15521,7 +15521,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "weinsberg-caraone-390-qd-2026-precio-ficha-tecnica",
     "title": "Weinsberg CaraOne 390 QD: 4 plazas por 16.650 €",
-    "excerpt": "Caravana de acceso a la gama CaraOne: 16.650 € oficiales, 4 plazas, 1.200 kg de MMA, carnet B y 257 kg de carga útil en solo 5,92 metros.",
+    "excerpt": "Precio y ficha de la Weinsberg CaraOne 390 QD: 16.650 € oficiales, 4 plazas, 1.200 kg de MMA, carnet B y 257 kg de carga útil.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -15539,8 +15539,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "weinsberg-caraone-400-lk-2026-precio-ficha-tecnica",
-    "title": "Weinsberg CaraOne 400 LK: literas desde 16.790 €",
-    "excerpt": "La CaraOne 400 LK de Weinsberg mete literas traseras en 5,92 m por 16.790 €: 4-5 plazas, 1.200 kg de MMA y carnet B para remolcar con un turismo.",
+    "title": "Weinsberg CaraOne 400 LK: precio, literas y ficha técnica",
+    "excerpt": "Precio y ficha de la Weinsberg CaraOne 400 LK: 16.790 € oficiales, literas para niños, 4-5 plazas, 1.200 kg de MMA y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -15558,8 +15558,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "weinsberg-caraone-450-fu-2026-precio-ficha-tecnica",
-    "title": "Weinsberg CaraOne 450 FU 2026: salón en U desde 20.290 €",
-    "excerpt": "Caravana de un eje con salón trasero en U convertible, 4 plazas y 297 kg de carga útil. Tarifa oficial MJ 2027: desde 20.290 €.",
+    "title": "Weinsberg CaraOne 450 FU: precio y ficha técnica 2026",
+    "excerpt": "Precio y ficha de la Weinsberg CaraOne 450 FU: 20.290 € oficiales, salón en U, 4 plazas, 1.350 kg de MMA y 297 kg de carga útil.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -15577,7 +15577,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "weinsberg-caraone-480-eu-2026-precio-ficha-tecnica",
-    "title": "Weinsberg CaraOne 480 EU: 21.450 €, cama isla y ficha",
+    "title": "Weinsberg CaraOne 480 EU: precio, 21.450 € y ficha técnica",
     "excerpt": "Precio y ficha de la Weinsberg CaraOne 480 EU: 21.450 € oficiales, cama isla, 4 plazas, 1.350 kg de MMA y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
@@ -15597,7 +15597,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "dethleffs-cjoy-480-qlk-2026-precio-ficha-tecnica",
     "title": "Dethleffs c'joy 480 QLK: 21.999 €, 5-6 plazas y literas",
-    "excerpt": "Caravana familiar de un eje por 21.999 € oficiales: 7,14 m, literas traseras, 1.300 kg de MMA y 232 kg de carga útil.",
+    "excerpt": "Precio y ficha del Dethleffs c'joy 480 QLK: 21.999 € oficiales, 5-6 plazas con literas, 1.300 kg de MMA y 232 kg de carga útil.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -15611,7 +15611,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "caravana familiar 2026",
       "c'joy 480 QLK opiniones"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "dethleffs-cjoy-420-qsh-2026-precio-ficha-tecnica",
@@ -15654,7 +15654,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "burstner-premio-plus-510-tk-2026-precio-ficha-tecnica",
     "title": "Bürstner Premio Plus 510 TK: 7 plazas desde 29.360 €",
-    "excerpt": "Caravana Bürstner de un eje para 7 personas, con cama abatible, 1.500 kg de MMA y 155 kg de carga útil: precio oficial y permiso necesario.",
+    "excerpt": "Precio y ficha del Bürstner Premio Plus 510 TK: 29.360 € oficiales, 7 plazas con cama abatible, 1.500 kg de MMA y nevera de 142 l.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -15672,8 +15672,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "burstner-premio-life-415-tk-2026-precio-ficha-tecnica",
-    "title": "Bürstner Premio Life 415 TK: literas desde 20.070 €",
-    "excerpt": "Caravana Bürstner Premio Life 415 TK desde 20.070 €: 4-5 plazas, 950 kg en orden de marcha, 1.100 kg de MMA y carnet B. Medidas y carga útil.",
+    "title": "Bürstner Premio Life 415 TK: precio y ficha técnica",
+    "excerpt": "Precio y ficha del Bürstner Premio Life 415 TK: 20.070 € oficiales, 4-5 plazas con literas, 1.100 kg de MMA y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -15687,12 +15687,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "caravana 5 plazas barata",
       "Premio Life 415 TK opiniones"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "eriba-feeling-425-2026-precio-ficha-tecnica",
-    "title": "Eriba Feeling 425: caravana baja con cama en el techo",
-    "excerpt": "Mide 6,03 m, pesa 1.200 kg de MMA y duerme hasta cinco: la Feeling 425 de Eriba esconde dos camas bajo un techo que se levanta.",
+    "title": "Eriba Feeling 425: precio, techo elevable y ficha técnica",
+    "excerpt": "Precio y ficha del Eriba Feeling 425: ~28.390 €, techo elevable, 3-5 plazas, 1.200 kg de MMA y carnet B.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -15706,7 +15706,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Eriba Feeling 425 opiniones",
       "caravana compacta premium"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "changan-e06-2026-precio-ficha-tecnica",
@@ -16109,7 +16109,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "chery-icaur-v27-2027-precio-ficha-tecnica",
-    "title": "iCAUR V27 2027: el 4x4 chino de 455 CV desde 54.900 €",
+    "title": "Chery iCAUR V27: 455 CV, 900 km y 54.900 € en Europa",
     "excerpt": "El iCAUR V27 aterriza en Europa desde Grecia: 4x4 de autonomía extendida, 455 CV, 900 km WLTP y reservas abiertas antes de llegar a España en 2027.",
     "category": "Novedades Motor",
     "date": "2026-10-07",
@@ -20441,8 +20441,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "omoda-c7-2025-precio",
-    "title": "Omoda C7 2025: 279 CV, 92 km eléctricos y 42.900 €",
-    "excerpt": "El Omoda C7 2025 (Omoda 7 SHS en España) es un PHEV de 279 CV con 92 km eléctricos WLTP, recarga de 40 kW, etiqueta Cero y precio desde 42.900 €.",
+    "title": "Omoda C7 2025: PHEV de 279 CV y 92 km",
+    "excerpt": "Precio y ficha técnica del Omoda C7 2025 (en España, Omoda 7 SHS): híbrido enchufable de 279 CV, 92 km eléctricos WLTP, carga rápida de 40 kW y etiqueta Cero. Desde 42.900 €.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -20459,8 +20459,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "opel-frontera-2024-precio",
-    "title": "Opel Frontera Electric desde 24.900 €, 308 km",
-    "excerpt": "Opel Frontera Electric desde 24.900 €: 113 CV, batería LFP de 44 kWh, 308 km WLTP, maletero de 460 litros y opción de 7 plazas en híbrido.",
+    "title": "Opel Frontera Electric desde 24.900 €",
+    "excerpt": "Precio y ficha técnica del Opel Frontera Electric 2024: SUV eléctrico de 113 CV, 308 km WLTP, maletero de 460 litros y hasta 7 plazas. Desde 24.900 €, uno de los eléctricos más baratos.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -20477,8 +20477,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "gac-aion-v-2024-precio",
-    "title": "GAC Aion V 2024: 510 km WLTP por 37.995 €",
-    "excerpt": "SUV eléctrico familiar con 204 CV, batería LFP de 75,3 kWh y 510 km WLTP: el GAC Aion V parte de 37.995 € en España, con carga de 180 kW.",
+    "title": "GAC Aion V: 510 km desde 37.995 €",
+    "excerpt": "Precio y ficha técnica del GAC Aion V 2024: SUV eléctrico de 204 CV, batería LFP de 75,3 kWh, 510 km WLTP, 5 estrellas Euro NCAP y carga de 180 kW. Ya a la venta en España desde 37.995 €.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -20495,8 +20495,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "icar-03-2025-precio",
-    "title": "iCar 03 2025: 279 CV y estética todoterreno",
-    "excerpt": "Chery iCar 03 2025: 279 CV, tracción total, batería CATL de 69,77 kWh y 0-100 en 6,5 s, con estética de todoterreno clásico. Aún no se vende en España.",
+    "title": "iCar 03: el SUV eléctrico off-road de Chery",
+    "excerpt": "Ficha técnica del iCar 03 2025 de Chery: SUV eléctrico con estética todoterreno retro, 279 CV, tracción total, batería CATL de 69,77 kWh y 0-100 en 6,5 s. De momento no se vende en España.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -20514,7 +20514,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "lancia-ypsilon-2024-precio",
     "title": "Lancia Ypsilon 2024: precio, híbrido ECO y eléctrico",
-    "excerpt": "El Ypsilon 2024 arranca en 23.019 € como híbrido de 110 CV con etiqueta ECO; la variante eléctrica de 156 CV homologa 425 km y se fabrica en Zaragoza.",
+    "excerpt": "Precio y ficha técnica del Lancia Ypsilon 2024: híbrido de 110 CV con etiqueta ECO desde 23.019 € y eléctrico de 156 CV con 425 km de autonomía. Fabricado en España.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -20590,7 +20590,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "gwm-haval-h6-2024-precio",
     "title": "GWM Haval H6 2024: SUV híbrido de 243 CV y ECO",
-    "excerpt": "El GWM Haval H6 híbrido entrega 243 CV, gasta 5,9 l/100 km, lleva etiqueta ECO y ofrece 560 litros: el SUV chino más vendido, sin precio aún en España.",
+    "excerpt": "Ficha técnica del GWM Haval H6 2024 híbrido: 243 CV, 5,9 l/100 km, etiqueta ECO, 560 litros de maletero y 5 estrellas ANCAP. El SUV chino más vendido del mundo.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -20604,7 +20604,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "SUV híbrido chino",
       "Haval H6 243 CV"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "volkswagen-passat-variant-20-tsi-2026-precio-ficha-tecnica",
@@ -24300,7 +24300,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "límite alcohol DGT",
       "recurrir multa alcoholemia"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "descubre-las-nuevas-medidas-de-la-dgt-para-octubre-uso-obligatorio-de-guantes-y-calzado-para-motoristas-fin-de-exenciones-del-cinturon-y-como-recurrir-multas",
@@ -24377,8 +24377,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "como-recurrir-multas-de-la-zbe-en-madrid-barcelona-y-toda-espana-guia-definitiva-y-modelos-con-ia",
-    "title": "Multas ZBE 2026: Madrid, Barcelona y cómo recurrirlas",
-    "excerpt": "Madrid veta desde 2026 los coches sin etiqueta: 200 € de multa, 100 € con pronto pago y 20 días para alegar. Excepciones, vías estatales libres y recurso.",
+    "title": "ZBE Madrid 2026: multas, coches prohibidos y recurso",
+    "excerpt": "Desde el 1 de enero de 2026 ningún coche sin etiqueta puede circular por Madrid. Te explicamos la multa de 200 €, excepciones y cómo recurrirla.",
     "category": "Guías Prácticas",
     "date": "2026-09-14",
     "locale": "es",
@@ -24391,7 +24391,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "recurrir multa ZBE",
       "zona bajas emisiones Madrid"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "margenes-de-error-de-los-radares-de-la-dgt-te-han-multado-injustamente-tablas-oficiales-multas-falsas-y-como-recurrirlas",
@@ -24524,7 +24524,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "adelantar-ciclistas-nueva-norma-octubre",
     "title": "Adelantar ciclistas desde octubre: 20 km/h menos y 1,5 m",
-    "excerpt": "Con la reforma vigente desde octubre de 2026, para rebasar a un ciclista en vía interurbana hay que reducir 20 km/h la velocidad, guardar 1,5 m y ocupar otro carril cuando existan varios. Maniobra y multa.",
+    "excerpt": "Con la reforma vigente desde octubre de 2026, para rebasar a un ciclista en vía interurbana hay que reducir 20 km/h la velocidad, guardar 1,5 m y ocupar otro carril cuando existan varios. Maniobra y m",
     "category": "Actualidad",
     "date": "2026-09-29",
     "locale": "es",
@@ -25063,8 +25063,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "como-recurrir-multas-de-trafico-en-canarias-guia-legal-especifica-peculiaridades-insulares-plazos-y-recursos-en-las-islas",
-    "title": "Recurrir multas en Canarias: plazos, órganos y claves",
-    "excerpt": "Multa en Canarias: veinte días para alegar o pagar con descuento. Interurbanas ante Tráfico de Tenerife o Las Palmas; urbanas, ante tu ayuntamiento.",
+    "title": "Multas de tráfico en Canarias: cómo recurrirlas",
+    "excerpt": "¿Multa en Canarias? 20 días para recurrir ante Tráfico de Tenerife o Las Palmas, o tu ayuntamiento. Errores de radar y alegaciones.",
     "category": "Guías Prácticas",
     "date": "2026-09-20",
     "locale": "es",
@@ -25136,8 +25136,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "multas-de-trafico-en-el-extranjero-francia-portugal-italia-alemania-como-recurrir-multa-radar-extranjero-en-espana-conductor-extranjero-multado-en-espana-dgt-anular-multa-ztl-italia-antai-francia-convenio-intercambio-datos-trafico-union-europea",
-    "title": "Multa en España con matrícula extranjera: cómo recurrirla",
-    "excerpt": "Multado en España con coche extranjero: la DGT te localiza por el intercambio de datos. Derechos, veinte días para recurrir y sin pérdida de puntos.",
+    "title": "Extranjero multado en España 2026: guía",
+    "excerpt": "Con matrícula extranjera por España, la DGT puede identificarte por el intercambio de datos de la UE. Tus derechos y cómo recurrirla.",
     "category": "Guías Prácticas",
     "date": "2026-09-14",
     "locale": "es",
@@ -25150,7 +25150,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "recurrir multa España extranjero",
       "ANTAI"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "llevas-la-nueva-luz-v16-conectada-en-el-coche-descubre-la-normativa-oficial-de-la-dgt-el-importe-de-las-multas-y-como-evitar-sanciones",
@@ -25929,7 +25929,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "silence-s01-vs-niu-mqi-gt-evo-cual-comprar",
     "title": "Silence S01 o NIU MQi GT Evo: duelo eléctrico 125",
-    "excerpt": "S01 o MQi GT Evo: precios, autonomía y baterías frente a frente para elegir el scooter eléctrico 125 de tu día a día.",
+    "excerpt": "Silence S01 (3.950 €, 133 km) vs NIU MQi GT Evo (4.999 €, 100 km/h): comparativa del scooter eléctrico 125 con baterías, precio y equipamiento.",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -25971,7 +25971,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "vespa-elettrica-vs-piaggio-1-cual-comprar",
     "title": "Vespa Elettrica o Piaggio 1: ¿cuál te conviene más?",
-    "excerpt": "La Elettrica cuesta 6.799 € y el Piaggio 1 Active 3.700 €. Comparamos autonomía, batería, velocidad, peso y carnet para elegir tu scooter eléctrico urbano.",
+    "excerpt": "Vespa Elettrica (6.799 €) vs Piaggio 1 Active (3.700 €): duelo de scooters eléctricos italianos. Precio, autonomía, batería y carnet necesario.",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -25987,12 +25987,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "scooter eléctrico ciudad",
       "Vespa Elettrica 45"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "honda-em1-e-vs-yamaha-neos-cual-comprar",
-    "title": "Honda EM1 e: contra Yamaha NEO's: duelo eléctrico urbano",
-    "excerpt": "Dos ciclomotores eléctricos japoneses frente a frente: precio, autonomía, baterías extraíbles y carga de la Honda EM1 e: y la Yamaha NEO's.",
+    "title": "Honda EM1 e 2026",
+    "excerpt": "Honda EM1 e: (3.999 €) vs Yamaha NEO's (2.999 €): duelo japonés de ciclomotores eléctricos. Autonomía, baterías extraíbles, peso y precio.",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -26008,12 +26008,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Yamaha NEO's autonomía",
       "ciclomotor eléctrico 45 km/h"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "bmw-ce-02-vs-super-soco-cpx-cual-comprar",
-    "title": "BMW CE 02 vs Super Soco CPx: 95 o 137 km, ¿cuál?",
-    "excerpt": "BMW CE 02 desde 8.400 € frente a Super Soco CPx 125 Pro por 5.589 €: diseño y diversión contra autonomía de 137 km y dos baterías extraíbles.",
+    "title": "BMW CE 02 vs Super Soco CPx 2026",
+    "excerpt": "BMW CE 02 (8.400 €) vs Super Soco CPx 125 Pro (5.589 €): el 'e-parkourer' alemán contra el scooter de rueda alta con dos baterías extraíbles.",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -26029,12 +26029,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Super Soco CPx opiniones",
       "moto eléctrica carnet B"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "zero-s-vs-can-am-pulse-cual-comprar",
-    "title": "Zero S contra Can-Am Pulse: ¿cuál eléctrica comprar?",
-    "excerpt": "Zero S desde 18.295 € y 262 km frente a Can-Am Pulse desde 13.199 € y recarga en 50 minutos: duelo de naked eléctricas.",
+    "title": "Zero S vs Can-Am Pulse 2026",
+    "excerpt": "Zero S (18.295 €, 262 km) vs Can-Am Pulse (13.199 €, carga en 50 min): las dos naked eléctricas más serias del mercado, frente a frente.",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -26050,12 +26050,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Can-Am Pulse opiniones",
       "moto eléctrica A2"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "bmw-f-450-r-vs-honda-cb500-hornet-vs-kawasaki-z500",
-    "title": "BMW F 450 R vs Hornet vs Z500: naked A2, duelo total",
-    "excerpt": "BMW F 450 R (6.799 €, 48 CV, 175 kg) frente a Honda CB500 Hornet (6.850 €) y Kawasaki Z500 (6.450 €): la naked A2 ideal según tu perfil.",
+    "title": "F 450 R vs Hornet vs Z500: ¿cuál?",
+    "excerpt": "La BMW F 450 R (6.799 €) se mete en el avispero de las naked A2: 48 CV y 175 kg frente a la Honda CB500 Hornet (6.850 €) y la Kawasaki Z500 (6.450 €). Las comparamos dato a dato y te decimos cuál enca",
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
@@ -26067,12 +26067,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "F 450 R vs Z500",
       "naked A2 comparativa precio"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "flying-flea-c6-vs-honda-cuv-e-vs-niu-nqi-sport-cual-comprar",
-    "title": "C6, CUV e: y NQi Sport: elige por tu carnet",
-    "excerpt": "Flying Flea C6 (5.990 €, 115 km/h), Honda CUV e: (baterías extraíbles) y NIU NQi Sport (1.999 €, 130 km): comparativa urbana donde tu permiso decide.",
+    "title": "C6 vs CUV e: vs NQi Sport: la eléctrica urbana ideal",
+    "excerpt": "Flying Flea C6 (5.990 €, 115 km/h) vs Honda CUV e: (4.000 €, baterías extraíbles) vs NIU NQi Sport (1.999 €, 130 km): duelo de motos eléctricas urbanas. La decisión la marca tu carnet. Tablas y veredi",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -26085,12 +26085,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "moto eléctrica 6000 euros",
       "scooter eléctrico baterías extraíbles"
     ],
-    "readTime": 6
+    "readTime": 4
   },
   {
     "slug": "renault-5-e-tech-2026-vs-dacia-spring-2026-cual-comprar",
     "title": "Renault 5 vs Spring 2026: ¿cuál te conviene más?",
-    "excerpt": "El R5 baja a 20.170 € con ayudas y el Spring nuevo queda por debajo de 18.000 €: autonomía, potencia, carga y equipamiento cara a cara para elegir bien.",
+    "excerpt": "El Renault 5 E-Tech parte de 20.170 € con ayudas y el nuevo Dacia Spring baja de los 18.000 €. Comparamos precio, autonomía, potencia y equipamiento",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -26110,8 +26110,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "renault-4-e-tech-vs-renault-5-e-tech-cual-comprar",
-    "title": "Renault 4 o Renault 5 E-Tech: ¿cuál elegir en 2026?",
-    "excerpt": "El Renault 4 E-Tech es más práctico y caro; el Renault 5, más barato con ayudas y con más autonomía. Así se elige entre los dos retro eléctricos.",
+    "title": "Renault 4 E-Tech vs Renault 5 E-Tech 2026",
+    "excerpt": "El Renault 4 E-Tech comparte el 68 % de las piezas con el Renault 5, pero cuesta más y es más práctico. Comparamos precio, autonomía, maletero y",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -26127,12 +26127,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Renault 4L eléctrico 2026",
       "R4 E-Tech maletero"
     ],
-    "readTime": 7
+    "readTime": 5
   },
   {
     "slug": "byd-atto-2-vs-jaecoo-5-cual-comprar",
-    "title": "BYD Atto 2 o Jaecoo 5: cuál conviene comprar en 2026",
-    "excerpt": "Dos SUV chinos por menos de 23.000 €: uno eléctrico desde 18.739 € financiado y otro con gasolina, híbrido y eléctrico. ¿Cuál encaja contigo?",
+    "title": "BYD Atto 2 vs Jaecoo 5 2026",
+    "excerpt": "Dos SUV chinos por menos de 23.000 €: el BYD Atto 2 eléctrico desde 18.739 € financiado y el Jaecoo 5 con tres motorizaciones a elegir. Comparamos",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -26152,8 +26152,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "xpeng-g6-vs-tesla-model-y-cual-comprar",
-    "title": "G6 contra Model Y: carga, precio y autonomía en 2026",
-    "excerpt": "Duelo 2026: el G6 recarga del 10 al 80 % en 12 minutos desde 43.083 €; el Model Y Standard, desde 39.990 € con 534 km.",
+    "title": "XPeng G6 2026 vs Tesla Model Y",
+    "excerpt": "El XPeng G6 2026 carga del 10 al 80 % en 12 minutos y parte de 43.083 €; el Tesla Model Y Standard es más barato y eficiente. Comparamos sin fanatismos",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -26169,12 +26169,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Model Y o XPeng G6",
       "carga ultrarrápida eléctrico"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "leapmotor-b10-vs-byd-atto-2-cual-comprar",
-    "title": "Leapmotor B10 o BYD Atto 2: potencia frente a chollo",
-    "excerpt": "El B10 ofrece 218 CV, 361 km y carga de 140 kW desde 27.000 €; el Atto 2 baja a 18.739 € financiado. Dos SUV eléctricos chinos, dos formas de gastar.",
+    "title": "Leapmotor B10 vs BYD Atto 2 2026",
+    "excerpt": "El Leapmotor B10 parte de 27.000 € con 218 CV y tracción trasera; el BYD Atto 2 baja a 18.739 € financiado. Dos SUV eléctricos chinos, dos precios y",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -26190,12 +26190,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "BYD Atto 2 autonomía",
       "comparativa SUV eléctricos baratos"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "alpine-a390-vs-skoda-peaq-cual-comprar",
-    "title": "Alpine A390 frente a Skoda Peaq: ¿cuál elegir?",
-    "excerpt": "Un fastback deportivo francés de 400 CV frente a un SUV checo de 7 plazas: precio, autonomía y maletero cara a cara para elegir entre capricho y razón.",
+    "title": "Alpine A390 vs Skoda Peaq 2026",
+    "excerpt": "El Alpine A390 (400 CV, 555 km, desde 67.500 €) y el Skoda Peaq (286 CV, 646 km, desde 54.550 €) no son rivales directos... pero muchos dudan entre",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -26211,12 +26211,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Skoda Peaq autonomía",
       "qué SUV eléctrico grande comprar"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "peugeot-e-5008-vs-skoda-peaq-cual-comprar",
-    "title": "Peugeot E-5008 o Skoda Peaq: ¿cuál conviene a tu familia?",
-    "excerpt": "Siete plazas, electricidad y unos 10.000 € de separación inicial: comparamos autonomía, maletero, carga y prestaciones del E-5008 y el Peaq.",
+    "title": "Peugeot E-5008 vs Skoda Peaq 2026",
+    "excerpt": "Los dos SUV eléctricos de 7 plazas que se disputan a las familias: el Peugeot E-5008 desde 44.380 € y el Skoda Peaq desde 54.550 €. Comparamos",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -26232,12 +26232,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Skoda Peaq autonomía",
       "coche familiar eléctrico 7 plazas"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "dacia-bigster-hybrid-vs-jaecoo-5-cual-comprar",
-    "title": "Dacia Bigster Hybrid o Jaecoo 5: duelo de SUV baratos",
-    "excerpt": "El Bigster Hybrid 155 parte de 29.390 € con etiqueta ECO y 4,6 l/100 km; el Jaecoo 5 arranca en 19.990 € financiado con gasolina, híbrido y eléctrico.",
+    "title": "Dacia Bigster Hybrid vs Jaecoo 5 2026",
+    "excerpt": "El Dacia Bigster Hybrid 155 (desde 29.390 €, etiqueta ECO) contra el Jaecoo 5 (desde 19.990 € financiado, con versiones C, ECO y CERO). El duelo de los",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -26257,8 +26257,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "mg4-electric-vs-byd-dolphin-2025-cual-comprar",
-    "title": "MG4 o Dolphin: duelo eléctrico chino 2025",
-    "excerpt": "MG4 Electric desde 30.690 € frente a BYD Dolphin desde 36.690 €: comparamos recorrido, potencia, recarga y maletero de ambos compactos eléctricos.",
+    "title": "MG4 Electric vs BYD Dolphin 2025",
+    "excerpt": "El MG4 Electric Standard (30.690 €) contra el BYD Dolphin (36.690 €): precio, autonomía, potencia y carga de los dos compactos eléctricos chinos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -26274,12 +26274,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "eléctrico chino barato",
       "MG4 o Dolphin cuál comprar"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "hyundai-ioniq-3-vs-renault-5-vs-dolphin-surf-cual-comprar",
-    "title": "Ioniq 3, Renault 5 y Dolphin Surf: ¿qué eléctrico comprar?",
-    "excerpt": "Tres compactos eléctricos frente a frente: Ioniq 3 con 497 km, Renault 5 en 20.170 € con ayudas y Dolphin Surf desde 12.605 €. Veredicto incluido.",
+    "title": "Ioniq 3 vs R5 E-Tech vs Dolphin Surf",
+    "excerpt": "El Ioniq 3 promete 497 km, el Renault 5 E-Tech baja a 20.170 € con ayudas y el Dolphin Surf parte de 12.605 €. Duelo de compactos eléctricos con veredicto.",
     "category": "Novedades Motor",
     "date": "2026-10-06",
     "locale": "all",
@@ -26295,12 +26295,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "eléctrico 500 km autonomía barato",
       "Dolphin Surf autonomía"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "leapmotor-b05-vs-gac-aion-ut-cual-comprar",
-    "title": "Leapmotor B05 frente a GAC AION UT: ¿cuál elegir?",
-    "excerpt": "B05 (23.775 €, 218 CV, 482 km) contra AION UT (30.995 €, 204 CV, 430 km): dos compactos eléctricos chinos con 5 estrellas Euro NCAP y un veredicto claro.",
+    "title": "Leapmotor B05 vs GAC AION UT: el duelo chino barato",
+    "excerpt": "Leapmotor B05 (23.775 €, 218 CV, hasta 482 km) vs GAC AION UT (30.995 €, 204 CV, 430 km): duelo de los compactos eléctricos chinos con 5 estrellas Euro NCAP. Tablas, diferencias reales y veredicto.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -26313,12 +26313,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "GAC AION UT precio España",
       "eléctrico compacto barato cual comprar"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "aion-v-vs-deepal-s05-cual-comprar",
-    "title": "GAC Aion V vs Deepal S05: duelo eléctrico chino 2026",
-    "excerpt": "El Aion V cuesta 37.995 € y promete 510 km; el S05 baja a 37.390 € con 272 CV y 200 kW de carga. Autonomía, maletero y garantía, comparados.",
+    "title": "GAC Aion V vs Deepal S05: cuál comprar",
+    "excerpt": "GAC Aion V (37.995 €, 204 CV, 510 km) vs Deepal S05 (37.390 €, 272 CV, 485 km): duelo de los SUV eléctricos chinos que más están dando que hablar. Tabla comparativa, análisis honesto y veredicto.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
@@ -26334,7 +26334,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "comparativa SUV eléctricos chinos",
       "mejor SUV eléctrico chino 2026"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "ebro-s700-hibrido-2026-precio-ficha-tecnica",
@@ -26396,7 +26396,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "ebro-s800-phev-2027-perfiles-adas-personales",
     "title": "Ebro s800 PHEV 2027: tus ADAS, guardados al arrancar",
-    "excerpt": "El Ebro s800 PHEV MY2027 guarda tus ajustes de ADAS en un perfil personal y los recupera al arrancar, sin reconfigurar ayudas cada mañana. Así funciona.",
+    "excerpt": "El Ebro s800 PHEV MY2027 estrena perfiles personales: guarda tus ADAS favoritos y los recupera al arrancar. Se acabó reconfigurar pitidos cada mañana.",
     "category": "Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -26716,7 +26716,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "ds-n7-nueva-generacion-salon-paris-2026",
     "title": "DS N°7 2026: estreno en París con 740 km WLTP",
-    "excerpt": "La nueva generación del DS N°7 se presenta en París 2026 con 740 km WLTP en su versión E-Tense Long Range, hasta 345 CV AWD y gama multienergía.",
+    "excerpt": "El nuevo DS N°7 debuta en el Salón de París 2026: E-Tense Long Range con 740 km WLTP, hasta 345 CV AWD y estrategia multienergía. Datos y rivales.",
     "category": "Novedades Motor",
     "date": "2026-10-06",
     "locale": "all",
@@ -26735,7 +26735,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "xiaomi-skynomad-lanzamiento-ventas-china-1705-km",
-    "title": "SkyNomad de Xiaomi: el SUV chino que promete 1.705 km",
+    "title": "Xiaomi SkyNomad: 1.705 km en China",
     "excerpt": "Los SkyNomad N70 y N90 ya se venden en China: Xiaomi estrena su gama EREV con hasta 1.705 km, 10.000 pedidos en 4 minutos y precios desde ~27.800 €.",
     "category": "Novedades Motor",
     "date": "2026-10-06",
@@ -27483,8 +27483,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "dacia-spring-baja-precio-octubre-2026",
-    "title": "Dacia Spring 2026: desde 16.245 €, el eléctrico más barato",
-    "excerpt": "Dacia rebaja el Spring 2026 hasta 16.245 €: 1.755 € menos, con 226 km WLTP, 70 CV y etiqueta Cero. El eléctrico nuevo más asequible de España.",
+    "title": "El Dacia Spring baja a 16.245 €: 16.245 €",
+    "excerpt": "El blog oficial de Dacia fija el precio de salida del Spring 2026 en 16.245 €, 1.755 € menos de lo que costaba hasta ahora: sigue siendo el coche",
     "category": "Motor",
     "date": "2026-10-03",
     "locale": "all",
@@ -27501,8 +27501,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "dacia-sandero-baja-precio-octubre-2026",
-    "title": "Dacia Sandero desde 13.502 €: baja 988 € en 2026",
-    "excerpt": "El Sandero Essential TCe 100 parte de 13.502 € en la web de Dacia España: 988 € menos que antes. Precio, etiqueta C y garantía Dacia Zen.",
+    "title": "El Dacia Sandero baja a 13.502 €: 988 € menos",
+    "excerpt": "La web oficial de Dacia España anuncia el Sandero desde 13.502 €: 988 € menos. Sigue siendo el coche nuevo más barato.",
     "category": "Motor",
     "date": "2026-10-03",
     "locale": "all",
@@ -27515,12 +27515,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Sandero 13.502 euros",
       "Sandero TCe 100"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "hyundai-i20-baja-precio-octubre-2026",
-    "title": "Hyundai i20: desde 20.910 € tras una rebaja de 970 €",
-    "excerpt": "El Hyundai i20 arranca en 20.910 € con la tarifa de enero de 2026: 970 € menos que antes y un nuevo motor de acceso 1.2 MPI de 79 CV.",
+    "title": "El Hyundai i20 baja a 20.910 €: 970 € menos",
+    "excerpt": "El Hyundai i20 parte ahora de 20.910 € según la tarifa de enero de 2026: 970 € menos que antes. Ojo al matiz: el motor de acceso es ahora el 1.2 MPI de",
     "category": "Motor",
     "date": "2026-10-03",
     "locale": "all",
@@ -27532,7 +27532,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "i20 20.910 euros",
       "utilitario barato 2026"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "nuevo-hyundai-tucson-2027-presentacion-precio-ficha-tecnica",
@@ -27610,8 +27610,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "kia-ev3-baja-precio-octubre-2026",
-    "title": "Kia EV3: su precio auténtico en octubre de 2026",
-    "excerpt": "El listado oficial del Kia EV3 arranca en 37.020 €; las ofertas desde 24.530 € exigen financiar. Te contamos qué cifra es real y qué pide cada campaña.",
+    "title": "Kia EV3: el precio real en octubre de 2026",
+    "excerpt": "Aclaramos el lío de precios del Kia EV3: los 28.620 € eran un precio promocional financiado; la tarifa oficial parte de 37.020 €. Cuánto cuesta de verdad.",
     "category": "Motor",
     "date": "2026-10-07",
     "locale": "all",
@@ -27628,8 +27628,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "opel-frontera-electric-baja-precio-octubre-2026",
-    "title": "Opel Frontera Electric: baja a 25.350 € en octubre",
-    "excerpt": "El Frontera Electric arranca en 25.350 € tras rebajar 5.150 € su tarifa anterior: SUV familiar eléctrico, 113 CV, acumulador de 44 kWh y distintivo Cero.",
+    "title": "El Opel Frontera Electric baja a 25.350 €: 5.150 €",
+    "excerpt": "El Opel Frontera Electric parte ahora de 25.350 € con la oferta oficial de Opel: 5.150 € menos. SUV familiar eléctrico con 113 CV, batería de 44 kWh y",
     "category": "Motor",
     "date": "2026-10-04",
     "locale": "all",
@@ -27646,8 +27646,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "citroen-e-c3-aircross-baja-precio-octubre-2026",
-    "title": "Citroën e-C3 Aircross desde 25.690 € con 44 kWh",
-    "excerpt": "La gama del SUV urbano eléctrico de Citroën suma una variante de acceso de 44 kWh y 113 CV que deja el precio inicial en 25.690 €, con etiqueta Cero.",
+    "title": "El Citroën e-C3 Aircross baja a 25.690 €: 2.500 €",
+    "excerpt": "El Citroën e-C3 Aircross estrena la versión Autonomía Confort (44 kWh) y parte de 25.690 €: 2.500 € menos. SUV urbano eléctrico con 113 CV y etiqueta Cero.",
     "category": "Motor",
     "date": "2026-10-04",
     "locale": "all",
@@ -27683,7 +27683,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "nissan-qashqai-baja-precio-octubre-2026",
     "title": "Qashqai octubre 2026: desde 27.600 € con campaña",
-    "excerpt": "Nissan rebaja el Qashqai DIG-T 158 CV Acenta a 27.600 € al contado, 26.350 € con Flex 4D, hasta el 31/10/2026 en Península y Baleares.",
+    "excerpt": "El Nissan Qashqai DIG-T 158 CV parte de 27.600 € con la campaña oficial de octubre (26.350 € financiando): 5.122 € menos. Válida hasta el 31/10/2026.",
     "category": "Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -27718,8 +27718,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "robotaxis-madrid-furgonetas-mapeo-octubre-2026",
-    "title": "Madrid prepara sus robotaxis: 20 furgonetas mapean el norte",
-    "excerpt": "Uber, WeRide y Avomo cartografían Alcobendas, Hortaleza y la M-40 con 20 furgonetas con conductor: el paso previo al piloto de robotaxis de Nivel 4.",
+    "title": "Robotaxis en Madrid: 20 furgonetas mapeando",
+    "excerpt": "20 furgonetas de Uber, WeRide y Avomo recorren Alcobendas, Hortaleza y la M-40 con cámaras y sensores: fase de mapeo de los primeros robotaxis de España.",
     "category": "Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -27736,8 +27736,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "zbe-vitoria-multas-6000-euros-octubre-2026",
-    "title": "Vitoria: multas de hasta 6.000 € desde octubre de 2026",
-    "excerpt": "Vitoria aplica desde octubre de 2026 multas de hasta 6.000 € y 200 € por la ZBE, con 36 cámaras: importes, exenciones y cómo recurrir.",
+    "title": "Vitoria: multas de hasta 6.000 \\u20ac en octubre",
+    "excerpt": "Vitoria endurece sus multas desde octubre de 2026: hasta 6.000 \\u20ac, 200 \\u20ac por la ZBE y 36 c\\u00e1maras. Importes, exenciones y c\\u00f3mo recurrir.",
     "category": "Actualidad",
     "date": "2026-10-05",
     "locale": "all",
@@ -27755,8 +27755,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "leapmotor-t03-baja-precio-octubre-2026",
-    "title": "Leapmotor T03: desde 20.110 € tras la rebaja de octubre",
-    "excerpt": "El urbano eléctrico de Leapmotor baja a 20.110 €, 300 € menos: 265 km WLTP, 95 CV, carga de 48 kW y etiqueta Cero; con ayudas, en torno a 12.950 €.",
+    "title": "El Leapmotor T03 baja a 20.110 €",
+    "excerpt": "El Leapmotor T03 baja a 20.110 € de PVP (300 € menos): sigue siendo uno de los eléctricos urbanos más baratos de España, con 265 km de autonomía.",
     "category": "Motor",
     "date": "2026-10-06",
     "locale": "all",
@@ -27773,8 +27773,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "toyota-corolla-baja-precio-octubre-2026",
-    "title": "Toyota Corolla MY27: desde 25.450 € en octubre",
-    "excerpt": "La gama del Corolla por su 60.º aniversario arranca en 25.450 € con el Hybrid 140 en Active, 500 € por debajo del precio anterior.",
+    "title": "El Toyota Corolla baja a 25.450 €",
+    "excerpt": "La nueva gama Toyota Corolla MY27 por el 60.º aniversario parte de 25.450 € en el acabado Active: 500 € menos que antes, con el Hybrid 140.",
     "category": "Motor",
     "date": "2026-10-06",
     "locale": "all",
@@ -27791,8 +27791,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "toyota-yaris-baja-precio-octubre-2026",
-    "title": "Toyota Yaris 2026: desde 21.500 € y nuevo acabado Trendy",
-    "excerpt": "El Yaris híbrido 2026 arranca en 21.500 € tras recortar 400 € el acceso, y estrena el acabado Trendy desde 22.500 € entre el Active y el Style.",
+    "title": "El Toyota Yaris baja a 21.500 €",
+    "excerpt": "La gama Toyota Yaris 2026 rebaja 400 € el acabado de acceso: el Active Hybrid 120 parte de 21.500 € y llega el nuevo acabado Trendy desde 22.500 €.",
     "category": "Motor",
     "date": "2026-10-06",
     "locale": "all",
@@ -27809,8 +27809,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "seat-ibiza-baja-precio-octubre-2026",
-    "title": "SEAT Ibiza: 15.390 € tras una rebaja de 3.130 €",
-    "excerpt": "El Ibiza 2026 de acceso (1.0 MPI, 80 CV) queda en 15.390 € con 3.300 € de descuento oficial: 3.130 € menos que los 18.520 € anteriores.",
+    "title": "El SEAT Ibiza baja a 15.390 €",
+    "excerpt": "El SEAT Ibiza 2026 (1.0 MPI de 80 CV) baja a 15.390 € con el descuento oficial de la marca: 3.130 € menos, la mayor rebaja del día.",
     "category": "Motor",
     "date": "2026-10-06",
     "locale": "all",
@@ -27827,8 +27827,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "leapmotor-c10-baja-precio-octubre-2026",
-    "title": "Leapmotor C10 eléctrico desde 37.765 € en octubre",
-    "excerpt": "El Leapmotor C10 eléctrico arranca en 37.765 € de tarifa, 635 € menos que antes: repasamos la gama, el próximo MY27 y si conviene esperar.",
+    "title": "El Leapmotor C10 baja a 37.765 €",
+    "excerpt": "El Leapmotor C10 eléctrico baja a 37.765 € de tarifa (635 € menos): el SUV familiar de 218 CV y batería de 69,9 kWh se abarata.",
     "category": "Motor",
     "date": "2026-10-06",
     "locale": "all",
@@ -27920,7 +27920,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "zero-s-baja-precio-octubre-2026",
     "title": "Zero S 2027: 17.280 € tras recortar 1.015 €",
-    "excerpt": "La naked eléctrica Zero S arranca en 17.280 € con la gama 2027: 1.015 € menos que en 2026, con 262 km declarados y carnet A1.",
+    "excerpt": "La Zero S 2027 baja a 17.280 € en Europa: 1.015 € menos que la versión 2026. La naked eléctrica de carnet A1 se abarata con la nueva gama.",
     "category": "Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -27937,8 +27937,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "operativo-dgt-puente-pilar-2026-57-millones",
-    "title": "Puente del Pilar 2026: operativo DGT, horarios y multas",
-    "excerpt": "La DGT despliega su dispositivo del puente del Pilar 2026 del viernes 9 al lunes 12 de octubre: 5,7 millones de viajes, controles y sanciones a vigilar.",
+    "title": "Operativo DGT puente del Pilar 2026",
+    "excerpt": "La DGT activa desde este viernes a las 15:00 el operativo especial del puente del Pilar: 5,7 millones de desplazamientos previstos, radares, helicópteros, drones y cámaras de móvil y cinturón. Horario",
     "category": "Actualidad",
     "date": "2026-10-08",
     "locale": "all",
@@ -27975,8 +27975,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "toyota-corolla-touring-sports-baja-precio-octubre-2026",
-    "title": "Corolla Touring Sports Hybrid 140, ahora desde 27.450 €",
-    "excerpt": "Corolla Touring Sports Hybrid 140 desde 27.450 €: la gama de octubre de 2026 recorta 7.537 € frente a los 34.987 € previos.",
+    "title": "El Toyota Corolla Touring Sports baja a 27.450 €",
+    "excerpt": "El Toyota Corolla Touring Sports Hybrid 140 baja a 27.450 € en España: 7.537 € menos con la nueva gama de octubre de 2026. El familiar híbrido se abarata un 21 %.",
     "category": "Motor",
     "date": "2026-10-09",
     "locale": "all",
@@ -27989,12 +27989,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Toyota Corolla 2026 precio España",
       "familiar híbrido barato 2026"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "ford-puma-gen-e-baja-precio-octubre-2026",
-    "title": "Ford Puma Gen-E 2026: 28.526 € y 417 km de autonomía",
-    "excerpt": "El Ford Puma Gen-E baja a 28.526 € en España (6.358 € menos) con batería nueva de 46,8 kWh y 417 km WLTP.",
+    "title": "El Ford Puma Gen-E baja a 28.526 €",
+    "excerpt": "El Ford Puma Gen-E eléctrico baja a 28.526 € en España: 6.358 € menos y con batería nueva de 46,8 kWh (417 km de autonomía). El SUV eléctrico se abarata un 18 %.",
     "category": "Motor",
     "date": "2026-10-09",
     "locale": "all",
@@ -28011,8 +28011,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "ford-puma-st-baja-precio-octubre-2026",
-    "title": "Ford Puma ST: ahora desde 33.641 € en España",
-    "excerpt": "El ST deportivo del Puma arranca en 33.641 € tras el descuento oficial de Ford: 3.759 € menos que antes, con 1.0 EcoBoost mHEV de 160 CV y etiqueta ECO.",
+    "title": "El Ford Puma ST baja a 33.641 €",
+    "excerpt": "El Ford Puma ST 1.0 EcoBoost mHEV de 160 CV baja a 33.641 € en España: 3.759 € menos con el descuento oficial de la marca. El SUV deportivo se abarata un 10 %.",
     "category": "Motor",
     "date": "2026-10-09",
     "locale": "all",
@@ -28025,7 +28025,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "SUV deportivo barato",
       "Ford Puma ST descuento"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "aito-m9-2024-precio-ficha-tecnica",
@@ -28639,7 +28639,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/forthing-friday-reev-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Forthing Friday REEV verde en carretera de montaña",
+    "heroAlt": "Forthing Friday REEV (Forthing 5 REEV) blanco, vista delantera tres cuartos. Foto: Alexander Migl, CC BY-SA 4.0, Wikimedia Commons",
     "keywords": [
       "Forthing Friday REEV",
       "Friday autonomía extendida",
@@ -32515,8 +32515,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "leapmotor-paris-2026-b03-d19-debut-europa",
-    "title": "Leapmotor B03 y D19: estreno europeo en París 2026",
-    "excerpt": "Leapmotor debuta en Europa en el Salón de París 2026 con el B03, compacto eléctrico de unos 20.000 €, y el D19 REEV de 80,3 kWh. Datos y fechas.",
+    "title": "Leapmotor en París: B03 eléctrico y D19 de 80,3 kWh",
+    "excerpt": "Debut europeo del Leapmotor B03 y el D19 en el Salón de París 2026: compacto eléctrico asequible y SUV insignia de 80,3 kWh. Datos, fechas y fichas.",
     "category": "Actualidad",
     "date": "2026-10-05",
     "locale": "all",
@@ -32530,7 +32530,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "B03 eléctrico precio",
       "D19 80,3 kWh"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "leapmotor-b03-2026-precio-ficha-tecnica",
@@ -33446,7 +33446,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "multa-conducir-sin-seguro",
     "title": "Circular sin seguro: multa, inmovilización y cómo actuar",
-    "excerpt": "Circular sin póliza obligatoria: 601 a 3.005 € (RDL 8/2004), veto a circular y vehículo inmovilizado. Responde el titular, sin perder puntos.",
+    "excerpt": "Sin seguro obligatorio: multa de 601 a 3.005 € (RDL 8/2004), prohibición de circular e inmovilización. La paga el propietario, condujera o no.",
     "category": "Tipos de Multa",
     "date": "2026-10-02",
     "locale": "es",
@@ -33463,8 +33463,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "tabla-multas-exceso-velocidad-2026",
-    "title": "Multas por velocidad 2026: importes y puntos DGT",
-    "excerpt": "Cuánto pagarás y cuántos puntos perderás según límite y velocidad medida, cuándo el rebase es delito y cómo funciona el pago con el 50 % de rebaja.",
+    "title": "Exceso velocidad 2026: tabla de multas y puntos DGT",
+    "excerpt": "Tabla oficial del Anexo IV: cuánto pagas y cuántos puntos pierdes según tu velocidad, cuándo el exceso es delito (art. 379 CP) y el pronto pago del 50 %.",
     "category": "Radares y Velocidad",
     "date": "2026-10-02",
     "locale": "es",
@@ -33482,8 +33482,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "como-pagar-multa-dgt",
-    "title": "Cómo pagar tu multa DGT y aprovechar el 50 % de rebaja",
-    "excerpt": "Formas de abonar una sanción de tráfico en España, el plazo de 20 días para pagar la mitad y qué pasa si dejas pasar la fecha sin abonar ni alegar.",
+    "title": "¿Multa DGT? Paga con 50% descuento (sin errores)",
+    "excerpt": "Paga tu multa DGT en 2026: sede electrónica, app miDGT, 060, CaixaBank, Correos o Jefatura. Por qué el descuento del 50 % te cierra la puerta al recurso.",
     "category": "Procedimiento",
     "date": "2026-10-02",
     "locale": "es",
@@ -33539,8 +33539,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "cuanto-tarda-en-llegar-una-multa-de-radar",
-    "title": "Multa de radar: cuándo llega y qué plazos te protegen",
-    "excerpt": "Radar: la carta suele tardar 1-3 semanas, pero los plazos legales mandan — 3 meses en leves y 6 en graves. Canales oficiales para revisar pendientes.",
+    "title": "Cuánto tarda una multa de radar en llegar 2026",
+    "excerpt": "Una multa de radar llega en 1-3 semanas, pero mandan los plazos legales: 3 meses leves, 6 graves. Dónde consultar tus pendientes (DEV, miDGT, TEU).",
     "category": "Procedimiento",
     "date": "2026-10-02",
     "locale": "es",
@@ -33558,8 +33558,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "multa-saltarse-stop",
-    "title": "Multa por saltarse un stop: 200 € y 4 puntos",
-    "excerpt": "Saltarse un stop o un ceda el paso: 200 € y 4 puntos. Qué debe acreditar la denuncia y por qué no identificar al conductor puede triplicar la multa.",
+    "title": "¿Te saltaste un stop? 200 € y 4 puntos: cómo recurrir",
+    "excerpt": "No respetar el stop: 200 € y 4 puntos (infracción grave). Qué debe probar la denuncia y por qué no identificar al conductor convierte la multa en 600 €.",
     "category": "Tipos de Multa",
     "date": "2026-10-02",
     "locale": "es",
@@ -33576,8 +33576,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "cinemometro-laser-como-funciona-multa",
-    "title": "Cinemómetro láser: así mide y así se recurre",
-    "excerpt": "El láser de la DGT mide tu velocidad con pulsos infrarrojos: cómo funciona, el margen del 3 % que deben aplicarte y qué pedir para recurrir la multa.",
+    "title": "Cinemómetro láser: cómo funciona y cómo recurrir",
+    "excerpt": "El cinemómetro láser de la DGT (Veloláser y pistola láser): cómo mide tu velocidad, qué margen de error deben aplicarte y cómo recurrir la multa gratis.",
     "category": "Radares y Velocidad",
     "date": "2026-10-04",
     "locale": "es",
@@ -33595,8 +33595,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "testra-dgt-consultar-multas-publicadas",
-    "title": "TESTRA: consulta tus multas publicadas en la DGT",
-    "excerpt": "TESTRA publica las sanciones que no pudieron notificarse por otras vías. Cómo buscar gratis por DNI, matrícula o nombre y qué plazos corren si apareces.",
+    "title": "TESTRA: cómo consultar si tienes multas publicadas",
+    "excerpt": "El TESTRA de la DGT publica las multas que no te llegan por correo. Cómo consultarlo gratis paso a paso y qué hacer si apareces publicado.",
     "category": "Procedimiento",
     "date": "2026-10-04",
     "locale": "es",
@@ -33614,8 +33614,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "chatgpt-vs-analizador-multas",
-    "title": "ChatGPT o analizador de multas: cuál acierta de verdad",
-    "excerpt": "ChatGPT inventa artículos y plazos al hablar de multas. Un analizador especializado aplica la ley española de tráfico: comparativa honesta entre ambos.",
+    "title": "ChatGPT vs analizador de multas",
+    "excerpt": "ChatGPT inventa artículos y plazos cuando le preguntas por multas. Un analizador especializado conoce la ley de tráfico española. Comparativa honesta.",
     "category": "Guías Prácticas",
     "date": "2026-10-07",
     "locale": "es",
@@ -33634,7 +33634,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "lujo-chino-coches-2026-yangwang-denza-hongqi-maextro",
     "title": "Lujo chino 2026: Yangwang, Denza, Hongqi y Maextro",
-    "excerpt": "Yangwang U8, Denza Z, Hongqi EHS5 y Maextro S800 retan al premium europeo: potencias, precios y llegada, con datos verificados.",
+    "excerpt": "Cuatro marcas chinas de lujo retan a Mercedes, BMW y Audi: Yangwang, Denza, Hongqi y Maextro. Quién es quién, cifras reales, precios y llegada a Europa.",
     "category": "Novedades Motor",
     "date": "2026-10-03",
     "locale": "all",
@@ -33648,7 +33648,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Maextro S800",
       "coches chinos premium 2026"
     ],
-    "readTime": 10
+    "readTime": 9
   },
   {
     "slug": "volkswagen-id-polo-electrico-precio-espana-2026",
@@ -33691,7 +33691,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "cupra-raval-electrico-precio-espana-2026",
     "title": "Cupra Raval 2026: precio, 446 km y versiones",
-    "excerpt": "El Cupra Raval llega desde Martorell con hasta 446 km WLTP y 24.200 € con ayudas. Versiones, precios, duelo con el ID. Polo y datos clave.",
+    "excerpt": "El Cupra Raval, primer eléctrico diseñado y fabricado en España: hasta 446 km de autonomía y desde 24.200 € con ayudas. Versiones y precios.",
     "category": "Novedades Motor",
     "date": "2026-10-03",
     "locale": "all",
@@ -33705,7 +33705,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "cupra raval vs id polo",
       "coches eléctricos españa"
     ],
-    "readTime": 11
+    "readTime": 10
   },
   {
     "slug": "geely-e2-electrico-barato-precio-espana",
@@ -33729,7 +33729,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "leapmotor-b03x-suv-electrico-barato-europa",
     "title": "Leapmotor B03X: SUV eléctrico desde 24.264 € en España",
-    "excerpt": "SUV eléctrico chino de 4,27 m y 407 litros con 382 km, hasta 197 CV y red Stellantis, a la venta en España desde 24.264 €.",
+    "excerpt": "El Leapmotor B03X ya está en España desde 24.264 €: SUV del segmento B con hasta 197 CV, 382 km de autonomía y el respaldo industrial de Stellantis.",
     "category": "Novedades Motor",
     "date": "2026-10-03",
     "locale": "all",
@@ -33743,7 +33743,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "B03X vs Atto 2",
       "Leapmotor B03X ficha técnica"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "hyundai-ioniq-3-precio-espana-2026",
@@ -33784,7 +33784,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "deepal-s05-precio-espana-2026",
     "title": "Deepal S05: SUV eléctrico desde 37.390 € en España",
-    "excerpt": "El SUV eléctrico de Changan llega fuerte a España: 485 km WLTP, 272 CV, recarga de 200 kW, cinco estrellas Euro NCAP y precio desde 37.390 €.",
+    "excerpt": "El Deepal S05 de Changan ya está entre los eléctricos más vendidos en España: 485 km de autonomía, 272 CV, carga de 200 kW y 5 estrellas Euro NCAP.",
     "category": "Novedades Motor",
     "date": "2026-10-03",
     "locale": "all",
@@ -33798,7 +33798,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Deepal S05 opiniones",
       "coche eléctrico barato autonomía"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "xpeng-g9l-debut-paris-2026",
@@ -33860,7 +33860,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "isuzu-d-max-ev-2026-precio-autonomia",
     "title": "Isuzu D-Max EV 2026: pick-up eléctrico con 263 km WLTP",
-    "excerpt": "El primer pick-up medio eléctrico de Europa: 188 CV, batería de 66,9 kWh, 263 km WLTP, 1.000 kg de carga y 3,5 t de remolque. Precio orientativo ~70.000 €.",
+    "excerpt": "Precio, ficha técnica y autonomía del Isuzu D-Max EV 2026: 188 CV, batería de 66,9 kWh, 263 km WLTP, 1.000 kg de carga y 3,5 t de remolque. Entregas...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -33873,12 +33873,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Isuzu D-Max EV autonomía",
       "D-Max EV España"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "arcfox-t1-2025-precio-autonomia",
-    "title": "Arcfox T1: precio, autonomía de 425 km y ficha",
-    "excerpt": "El Arcfox T1 es el B-SUV eléctrico de BAIC: 425 km CLTC, 42,3 kWh, 459 litros de maletero y etiqueta Cero. Precio orientativo en torno a 25.000 €.",
+    "title": "Arcfox T1: 425 km de autonomía por ~25.000 €",
+    "excerpt": "Precio, ficha técnica y autonomía del Arcfox T1: el SUV eléctrico de BAIC con 94-127 CV, batería LFP de hasta 42,3 kWh, 425 km CLTC y maletero de 459...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34004,7 +34004,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "lynk-co-10-em-p-2025-precio-autonomia",
     "title": "Lynk & Co 10 EM-P: 523 CV con 192 km sin gasolina",
-    "excerpt": "La berlina enchufable de Lynk & Co combina 523 CV, tracción integral y hasta 192 km CLTC en eléctrico, con LiDAR y un 1.5 turbo de eficiencia récord.",
+    "excerpt": "Precio, ficha técnica y autonomía del Lynk & Co 10 EM-P: berlina híbrida enchufable con 523 CV, 755 Nm, hasta 192 km CLTC en eléctrico y LiDAR. Llegará...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34017,12 +34017,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "berlina híbrida enchufable 523 CV",
       "Lynk & Co 10 Europa"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "gwm-ora-5-2026-precio-autonomia",
-    "title": "GWM Ora 5 2026: SUV eléctrico 435 km desde 34.950 €",
-    "excerpt": "El Ora 5 llega a España en gasolina, híbrido y eléctrico: el EV rinde 435 km WLTP, carga a 120 kW y parte de 34.950 €, o 23.950 € con ayudas.",
+    "title": "GWM Ora 5: 435 km WLTP por 34.950 €",
+    "excerpt": "Precio, ficha técnica y autonomía del GWM Ora 5 en España: 204 CV, batería LFP de 58,3 kWh, 435 km WLTP y 120 kW de carga desde 34.950 € (23.950 € con...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34057,8 +34057,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "gac-gs8-2025-precio-autonomia",
-    "title": "GAC GS8 2025: SUV de 7 plazas, 248 CV y 1.859 l",
-    "excerpt": "El SUV de GAC mide 4,98 m, ofrece 7 plazas y un 2.0 turbo de 248 CV con cambio Aisin de 8 marchas; ronda 30.000 € fuera de Europa, donde no se vende.",
+    "title": "GAC GS8: 248 CV y 7 plazas por ~30.000 €",
+    "excerpt": "Precio, ficha técnica y medidas del GAC GS8: SUV de 7 plazas y 4,98 metros con motor 2.0 turbo de 248 CV, cambio Aisin de 8 velocidades y versiones 4x4.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34075,8 +34075,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "chery-fulwin-t11-2025-precio-autonomia",
-    "title": "Chery Fulwin T11: 6 plazas y 460 CV por 24.700 €",
-    "excerpt": "El Chery Fulwin T11 es un SUV de autonomía extendida con 6 plazas, hasta 460 CV y 1.400 km totales. Precio en China, ficha y claves de su llegada a Europa.",
+    "title": "Chery Fulwin T11: 460 CV por ~24.700 €",
+    "excerpt": "Precio, ficha técnica y autonomía del Chery Fulwin T11: el SUV insignia de autonomía extendida con hasta 460 CV, 220 km CLTC en eléctrico, 1.400 km...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34089,12 +34089,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Fulwin T11 EREV",
       "SUV chino 6 plazas"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "geely-ex2-2025-precio-autonomia",
-    "title": "Geely EX2 2025: 410 km CLTC y 116 CV traseros",
-    "excerpt": "El Geely EX2, conocido en China como Xingyuan, combina 116 CV traseros, batería LFP de 40,2 kWh y 410 km CLTC. Precio chino y llegada europea como E2.",
+    "title": "Geely EX2: el más vendido por ~8.700 €",
+    "excerpt": "Precio, ficha técnica y autonomía del Geely EX2: el urbano eléctrico más vendido de China (465.775 unidades) con 116 CV, tracción trasera, 410 km CLTC...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34108,12 +34108,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "urbano eléctrico chino",
       "Geely E2 Europa"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "nio-es8-2025-precio-autonomia",
-    "title": "NIO ES8 2025: un SUV familiar de 707 CV y 655 km",
-    "excerpt": "El ES8 renovado combina 707 CV, batería de 102 kWh y carga de 420 kW, pero en España aún no se vende: precio chino, BaaS y qué falta para verlo aquí.",
+    "title": "NIO ES8: 707 CV por ~53.000 €",
+    "excerpt": "Precio, ficha técnica y autonomía del nuevo NIO ES8 2025: 707 CV, batería de 102 kWh, 655 km CLTC, carga de 420 kW y 0-100 en 3,9 s. El SUV familiar...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34126,7 +34126,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "NIO ES8 707 CV",
       "SUV eléctrico 7 plazas chino"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "icaur-03t-2026-precio-autonomia",
@@ -34149,7 +34149,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "qjmotor-fort-250-2026-precio-ficha-tecnica",
     "title": "QJMotor Fort 250: scooter trail de 26 CV y 2.600 €",
-    "excerpt": "El QJMotor Fort 250 Adventure no se vende en España: scooter de aires trail con 26 CV, ABS y control de tracción, a unos 2.600 € en Indonesia.",
+    "excerpt": "El QJMotor Fort 250 Adventure: scooter aventura de 250 cc con 26 CV, ABS, control de tracción y estética trail. Precio orientativo desde Indonesia.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34221,7 +34221,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "macbor-xr1-125-2026-precio-ficha-tecnica",
     "title": "Macbor XR1 125 EVO: aventura completa por 3.499 €",
-    "excerpt": "Trail 125 de Barcelona con 15 CV, ABS con tres modos desconectable y equipaje incluido: la XR1 125 EVO cuesta 3.499 € y se conduce con el A1.",
+    "excerpt": "La Macbor Montana XR1 125 EVO: trail 125 española con 15 CV, ABS desconectable de 3 modos y maletas de regalo por 3.499 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34275,7 +34275,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "mutt-mastiff-125-2026-precio-ficha-tecnica",
     "title": "Mutt Mastiff 125 2026: precio, ficha y estilo vintage",
-    "excerpt": "Por 3.599 €, la Mastiff 125 ofrece estética setentera británica, 127 kg, asiento de 790 mm y 11 CV para el A1.",
+    "excerpt": "La Mutt Mastiff 125: custom vintage británica de 125 cc, 11 CV y 127 kg por 3.599 € según el distribuidor Life Motorcycles. Estilo setentero para el carnet A1.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34311,7 +34311,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "bluroc-legend-125-2026-precio-ficha-tecnica",
     "title": "Bluroc Legend 125: scrambler retro desde 2.599 €",
-    "excerpt": "Scrambler de 125 cc y 11,6 CV por unos 2.599 €: la Bluroc Legend 125 combina estética retro, asiento bajo y depósito grande, con A1 o B con tres años.",
+    "excerpt": "La Bluroc Legend 125: scrambler belga de 125 cc, 11,6 CV y 110 kg por 2.599 €. Una de las 125 con más estilo por menos dinero.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34328,8 +34328,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "fb-mondial-flex-300-2026-precio-ficha-tecnica",
-    "title": "Flex 300: naked neo-retro con 5 años de garantía",
-    "excerpt": "La FB Mondial Flex 300: naked neo-retro de 292 cc y 27,5 CV, horquilla invertida y pinza radial por 3.999 €, con 5 años de garantía. Para el A2.",
+    "title": "Flex 300: naked neo-retro de 27 CV por 3.999 €",
+    "excerpt": "La FB Mondial Flex 300: naked neo-retro italiana de 292 cc y 27,5 CV con 5 años de garantía por 3.999 €. Para el carnet A2.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34346,8 +34346,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "fb-mondial-imola-125-2026-precio-ficha-tecnica",
-    "title": "FB Mondial Imola 125: scooter italiano por 2.499 €",
-    "excerpt": "Imola 125, primer scooter de FB Mondial: 125 cc, 9 CV, llave por cercanía y hueco para casco integral, por 2.499 € con 5 años de garantía.",
+    "title": "Imola 125: scooter deportivo por 2.499 €",
+    "excerpt": "El FB Mondial Imola 125: scooter deportivo italiano de 125 cc con llave por proximidad y hueco para casco integral por 2.499 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34360,7 +34360,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "scooter 125 deportivo",
       "fb mondial imola prueba"
     ],
-    "readTime": 10
+    "readTime": 9
   },
   {
     "slug": "bsa-bantam-350-2026-precio-ficha-tecnica",
@@ -34400,8 +34400,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "tm-en-300-2026-precio-ficha-tecnica",
-    "title": "TM EN 300 ES Fi 2T: enduro italiana hecha a mano",
-    "excerpt": "TM EN 300 ES Fi 2T: enduro italiana de 293 cc y 2 tiempos, hecha a mano en Pesaro, Euro 5, entre 11.000 y 12.500 € orientativos.",
+    "title": "EN 300: enduro 2T de competición por 12.500 €",
+    "excerpt": "La TM EN 300: enduro italiana de 300 cc y 2 tiempos fabricada a mano. Exclusividad y competición por un precio orientativo de 12.500 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34527,7 +34527,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "bultaco-brinco-2026-precio-ficha-tecnica",
     "title": "Bultaco Brinco: precios de 2015, ficha y compra de ocasión",
-    "excerpt": "La moto-bike española de 2 kW y 60 km/h: cuánto costó nueva, qué versiones se matricularon y qué revisar hoy antes de comprar una de segunda mano.",
+    "excerpt": "La Bultaco Brinco: la primera moto-bike eléctrica del mundo. Pedaleas o aceleras, 60 km/h y batería extraíble desde 4.800 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34544,8 +34544,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "mecatecno-t8-2026-precio-ficha-tecnica",
-    "title": "Mecatecno T8: la primera trial eléctrica de los niños",
-    "excerpt": "La T8 de Mecatecno inicia a los niños en el trial con motor a batería, sin ruido ni humos, y con velocidad graduable. Costaba 754 € en su época.",
+    "title": "T8: trial eléctrica infantil por 754 €",
+    "excerpt": "La Mecatecno T8: trial eléctrica para niños, silenciosa y sin humos. Precio de época de 754 € según Motorpasión Moto. La puerta al trial.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34558,12 +34558,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "trial eléctrica infantil",
       "moto trial niños"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "electric-motion-escape-r-2026-precio-ficha-tecnica",
-    "title": "Electric Motion Escape R 2026: trial eléctrica, 9.649,50 €",
-    "excerpt": "Trial eléctrica francesa con batería de 3,5 kWh, unas 3,5 horas de uso y antirretroceso en pendiente, a 9.649,50 € en Trialworld.",
+    "title": "Escape R: trial eléctrica de 3,5 kWh por 9.649,50 €",
+    "excerpt": "La Electric Motion Escape R 2026: trial eléctrica francesa con batería de 3,5 kWh, unas 3,5 horas de autonomía y antirretroceso en pendiente por 9.649,50 € según Trialworld.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34576,12 +34576,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "trial eléctrica 2026",
       "escape r trialworld"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "byd-shark-6-2025-precio-autonomia",
     "title": "BYD Shark 6 2026: pick-up híbrido de 436 CV y 90 km",
-    "excerpt": "El Shark 6 combina un 1.5 turbo con dos motores eléctricos, remolca 2.500 kg y llegaría a España en el segundo semestre de 2026 por unos 52.000 €.",
+    "excerpt": "Precio, ficha técnica y autonomía del BYD Shark 6: el pick-up híbrido enchufable con 436 CV, 90 km eléctricos WLTP, 2.500 kg de remolque y V2L. Llega...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34594,12 +34594,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "BYD Shark 6 España",
       "Shark 6 autonomía"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "xpeng-p7-2025-precio-autonomia",
-    "title": "XPeng P7 2025: 820 km CLTC, carga 5C y 595 CV",
-    "excerpt": "La segunda generación del XPeng P7 llegó en agosto de 2025 con 10.000 pedidos en 7 minutos, hasta 820 km CLTC, carga 800 V 5C y 367-595 CV.",
+    "title": "XPeng P7: 820 km de autonomía por ~30.000 €",
+    "excerpt": "Precio, ficha técnica y autonomía del nuevo XPeng P7 2025: berlina eléctrica de 367 CV, hasta 820 km CLTC, 800 V con carga 5C y 10.000 pedidos en 7...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34612,7 +34612,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "XPeng P7 segunda generación",
       "berlina eléctrica china"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "mg-4-urban-ev-2026-precio-autonomia",
@@ -35013,7 +35013,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "mg5-2026-precio-autonomia",
     "title": "MG5 2026: 178 CV por 7.600 € que España no verá",
-    "excerpt": "La berlina de MG con 178 CV, 285 Nm y 0-100 en 6,9 s cuesta desde ~7.600 € en China. En España no se vende: aquí su nombre lo llevó el eléctrico.",
+    "excerpt": "Precio, ficha técnica y equipamiento del MG5 2026: la berlina con 1.5T de 178 CV, 0-100 en 6,9 s, pantalla de 12,3\" y precio desde ~7.600 € en...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35211,7 +35211,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "audi-tt-2025-precio-autonomia",
     "title": "Audi TT: coupé de 245 CV desde 44.220 €",
-    "excerpt": "El Audi TT 45 TFSI S tronic ofrecía 245 CV, 370 Nm, 5,8 s de 0 a 100 y 250 km/h; la gama arrancaba en 44.220 € y la producción acabó en 2023.",
+    "excerpt": "Precio y ficha técnica del Audi TT: el coupé con 45 TFSI de 245 CV, 0-100 en 5,8 s y 250 km/h desde 44.220 €. Producción terminada en 2023.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35224,12 +35224,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "TT ocasión",
       "deportivo compacto Audi"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "audi-r8-2025-precio-autonomia",
-    "title": "Audi R8 V10: 620 CV, 331 km/h y fin de producción",
-    "excerpt": "El Audi R8 V10 performance quattro costaba 236.220 €, aceleraba de 0 a 100 en 3,1 s y alcanzaba 331 km/h. Historia y ficha del último V10 atmosférico.",
+    "title": "Audi R8: 620 CV y 331 km/h por 236.220 €",
+    "excerpt": "Precio y ficha técnica del Audi R8 V10 performance quattro: 620 CV, 0-100 en 3,1 s y 331 km/h por 236.220 €. El último V10 atmosférico alemán.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35242,7 +35242,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "R8 ocasión",
       "superdeportivo atmosférico"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "audi-rs7-sportback-2025-precio-autonomia",
@@ -35427,7 +35427,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "jaguar-e-pace-2025-precio-autonomia",
     "title": "Jaguar E-Pace D200: 204 CV diésel desde 41.550 €",
-    "excerpt": "El Jaguar E-Pace D200 ofrece 204 CV diésel, 430 Nm, etiqueta ECO y 6,4 l/100 km desde 41.550 €, con maletero de 470 litros.",
+    "excerpt": "Precio y ficha técnica del Jaguar E-Pace D200: SUV compacto con 204 CV diésel, 430 Nm, 6,4 l/100 km y etiqueta ECO desde 41.550 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35444,8 +35444,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "jaguar-f-type-2025-precio-autonomia",
-    "title": "Jaguar F-Type V8: el último rugido británico",
-    "excerpt": "El Jaguar F-Type V8 450 cerró su producción en junio de 2024: 450 CV, 580 Nm y 285 km/h desde 73.550 €, un deportivo que ya apunta a clásico.",
+    "title": "Jaguar F-Type: V8 de 450 CV por 73.550 €",
+    "excerpt": "Precio y ficha técnica del Jaguar F-Type V8 450: el deportivo británico con 450 CV, 0-100 en 4,6 s y 285 km/h desde 73.550 €. Fin de producción 2024.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35458,12 +35458,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "deportivo británico",
       "F-Type ocasión"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "ford-fiesta-2025-precio-autonomia",
-    "title": "Ford Fiesta ST-Line MHEV 125: precio y datos",
-    "excerpt": "El utilitario ST-Line 1.0 MHEV de 125 CV costó 21.521 €, gasta 5,0 l/100 km y lleva ECO. Su producción acabó en julio de 2023; hoy solo hay ocasión.",
+    "title": "Ford Fiesta: 125 CV con ECO por 21.521 €",
+    "excerpt": "Precio y ficha técnica del Ford Fiesta ST-Line 1.0 MHEV 125: 125 CV, 5,0 l/100 km y etiqueta ECO por 21.521 €. Producción terminada en 2023.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35481,7 +35481,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "honda-eny1-2025-precio-autonomia",
     "title": "Honda e:Ny1: 412 km por 37.200 € tras bajar 10.900 €",
-    "excerpt": "El Honda e:Ny1 cuesta desde 37.200 € tras la rebaja de abril de 2025: 204 CV, batería de 68,8 kWh, 412 km WLTP y carga de 78 kW. Análisis y ficha.",
+    "excerpt": "Precio, ficha técnica y autonomía del Honda e:Ny1: SUV eléctrico de 204 CV, batería de 68,8 kWh, 412 km WLTP y carga de 78 kW. Desde 37.200 € en España.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35494,12 +35494,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Honda e:Ny1 España",
       "SUV eléctrico Honda"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "suzuki-evitara-2025-precio-autonomia",
-    "title": "Suzuki eVitara 2025: precio, 426 km y tracción total",
-    "excerpt": "El primer eléctrico de Suzuki llega a España desde 35.550 € (28.675 € con ayudas), con baterías de 49 y 61 kWh, hasta 426 km WLTP y una variante 4x4.",
+    "title": "Suzuki eVitara: 426 km y 4x4 por 28.675 €",
+    "excerpt": "Precio y ficha técnica del Suzuki eVitara: el primer eléctrico de Suzuki con 144-184 CV, baterías de 49 y 61 kWh, hasta 426 km WLTP y versión 4x4 AllGrip-e.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35512,12 +35512,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Suzuki eléctrico",
       "eVitara España"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "genesis-gv60-2025-precio-autonomia",
-    "title": "Genesis GV60: eléctrico premium con hasta 561 km",
-    "excerpt": "El Genesis GV60 renovado ofrece batería de 84 kWh, hasta 561 km WLTP y versiones de 229 a 609 CV, desde 55.900 €, con 5 años de garantía sin límite de km.",
+    "title": "Genesis GV60: 561 km por 55.900 €",
+    "excerpt": "Precio y ficha del Genesis GV60 facelift: 229-609 CV, batería de 84 kWh, hasta 561 km WLTP, 800 V y 5 años de garantía sin límite de km. Desde 55.900 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35534,8 +35534,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "chevrolet-spark-euv-2026-precio-autonomia",
-    "title": "Chevrolet Spark EUV 2026: urbano eléctrico de 300 km",
-    "excerpt": "El Chevrolet Spark EUV es un mini SUV eléctrico de 100 CV, 42 kWh y 300 km estimados, con 6 airbags y 355 litros, por unos 20.000 € en México.",
+    "title": "Chevrolet Spark EUV: 300 km por ~20.000 €",
+    "excerpt": "Ficha del Chevrolet Spark EUV: el mini SUV eléctrico de 100 CV, batería de 42 kWh, 300 km de autonomía y 6 airbags por unos 20.000 €. Solo para LatAm.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35552,7 +35552,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "toyota-bz7-2026-precio-autonomia",
-    "title": "Toyota bZ7: 710 km CLTC, Huawei y 22.000 €",
+    "title": "Toyota bZ7: 710 km de autonomía y Huawei",
     "excerpt": "El Toyota bZ7 es una berlina eléctrica de más de 5,1 m con motor Huawei de 278 CV, baterías LFP de hasta 88 kWh y 710 km CLTC. Solo en China.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
@@ -35607,7 +35607,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "subaru-trailseeker-2026-precio-autonomia",
     "title": "Subaru Trailseeker 2026: 375 CV eléctricos y 450 km",
-    "excerpt": "El Trailseeker, segundo eléctrico de Subaru, combina 375 CV, tracción total y 450 km EPA desde unos 37.000 € en EE. UU., sin venta europea confirmada.",
+    "excerpt": "Ficha del Subaru Trailseeker 2026: SUV eléctrico de 375 CV, batería de 74,7 kWh, 450 km de autonomía, 619 litros de maletero y tracción total. Desde ~37.000 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35620,12 +35620,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Subaru eléctrico",
       "Trailseeker 375 CV"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "mazda-ez-60-2026-precio-autonomia",
-    "title": "Mazda EZ-60 2026: 600 km CLTC, 258 CV y pantalla 5K",
-    "excerpt": "El Mazda EZ-60, desarrollado con Changan y vendido en Europa como CX-6e, ofrece 258 CV traseros, 77,94 kWh y 600 km CLTC. Precio chino y versión EREV.",
+    "title": "Mazda EZ-60: 600 km por ~15.500 €",
+    "excerpt": "Ficha del Mazda EZ-60: SUV eléctrico de 258 CV con tracción trasera, batería de 77,94 kWh, 600 km CLTC y pantalla 5K de 26,45\". En China desde ~15.500 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35638,12 +35638,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "EZ-60 autonomía",
       "Mazda eléctrico China"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "toyota-bz5-2026-precio-autonomia",
-    "title": "Toyota bZ5: el eléctrico chino que Europa no verá",
-    "excerpt": "El Toyota bZ5 une baterías Blade de BYD, 268 CV y 630 km CLTC en un SUV que solo se vende en China desde unos 16.150 €. Sin planes para Europa.",
+    "title": "Toyota bZ5: 630 km por ~16.000 €",
+    "excerpt": "Ficha del Toyota bZ5: SUV eléctrico con baterías Blade de BYD, 268 CV, hasta 630 km CLTC y conducción autónoma Momenta 5.0. En China desde ~16.000 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35660,8 +35660,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "suzuki-fronx-2025-precio-ficha",
-    "title": "Suzuki Fronx: el B-SUV híbrido que no llega a Europa",
-    "excerpt": "El Suzuki Fronx es un B-SUV híbrido ligero de 102 CV, con menos de 4 metros, 304 litros y etiqueta ECO. No se vende en Europa, desde unos 15.000 €.",
+    "title": "Suzuki Fronx: SUV híbrido por ~15.000 €",
+    "excerpt": "Ficha del Suzuki Fronx: B-SUV híbrido ligero de 102 CV, menos de 4 metros, maletero de 304 litros y etiqueta ECO. Precio orientativo de ~15.000 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35697,7 +35697,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "kia-tasman-2025-precio-ficha",
     "title": "Kia Tasman: el pick-up 4x4 que no viene a Europa",
-    "excerpt": "Kia entra en los pick-up con el Tasman: 210 CV diésel, reductora, 800 mm de vadeo y 3.500 kg de remolque por ~43.000 €. No se venderá en Europa.",
+    "excerpt": "Ficha del Kia Tasman: el primer pick-up de Kia con diésel 2.2 de 210 CV, reductora, 800 mm de vadeo y 3.500 kg de remolque. Desde ~43.000 €. No llega a Europa.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35714,8 +35714,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "genesis-gv70-2025-precio-autonomia",
-    "title": "Genesis GV70 Electrified: 490 CV y 479 km por 69.400 €",
-    "excerpt": "SUV eléctrico premium: 490 CV en Boost, 479 km WLTP con batería de 84 kWh, carga de 350 kW y garantía de 5 años sin tope de kilómetros, desde 69.400 €.",
+    "title": "Genesis GV70: 490 CV por 69.400 €",
+    "excerpt": "Precio y ficha del Genesis GV70 Electrified: 490 CV, batería de 84 kWh, 479 km WLTP, carga de 350 kW y 5 años de garantía sin límite de km. Desde 69.400 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35732,8 +35732,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "genesis-gv90-2027-precio-autonomia",
-    "title": "Genesis GV90 2027: SUV eléctrico gigante de 657 CV",
-    "excerpt": "El buque insignia eléctrico de Genesis llegará en 2027 con 657 CV, batería de 123,5 kWh, unos 500 km de autonomía y hasta 7 plazas.",
+    "title": "Genesis GV90: el SUV eléctrico de 657 CV",
+    "excerpt": "Todo sobre el Genesis GV90: el SUV eléctrico insignia con 657 CV, batería de 123,5 kWh, 500 km de autonomía, puertas suicidas Neolun y 7 plazas. Llega en 2027.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35750,8 +35750,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "jeep-cherokee-2026-precio-ficha",
-    "title": "Jeep Cherokee 2026: híbrido 4x4 con 800 km de autonomía",
-    "excerpt": "Jeep Cherokee 2026: híbrido 1.6T de 210 CV, 4x4 de serie, más de 800 km de autonomía y 795 litros de maletero, desde unos 30.000 €.",
+    "title": "Jeep Cherokee: híbrido 4x4 por ~30.000 €",
+    "excerpt": "Ficha del Jeep Cherokee 2026: nueva generación con híbrido 1.6T de 210 CV, tracción 4x4 de serie, 800 km de autonomía y 795 litros de maletero. Desde ~30.000 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35764,12 +35764,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Cherokee ficha técnica",
       "Jeep Cherokee 4x4"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "chevrolet-blazer-ev-2025-precio-autonomia",
-    "title": "Chevrolet Blazer EV 2025: hasta 538 km y 615 CV",
-    "excerpt": "El todocamino eléctrico de General Motors: de 220 a 615 CV, baterías de 85 o 102 kWh, carga de 190 kW y precio en EE. UU. desde unos 41.000 €.",
+    "title": "Blazer EV: 538 km de autonomía eléctrica",
+    "excerpt": "Ficha del Chevrolet Blazer EV: 220-615 CV, baterías de 85 y 102 kWh, hasta 538 km EPA y versión SS de 3,4 s. Desde ~41.000 €. Solo en América.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35782,12 +35782,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Blazer EV SS",
       "Chevrolet eléctrico"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "tesla-model-y-l-2026-precio-autonomia",
-    "title": "Tesla Model Y L 2026: el Model Y alargado de seis plazas",
-    "excerpt": "Versión estirada del Model Y con seis asientos, 82 kWh y 751 km CLTC: en China desde 339.000 yuanes y ya en pruebas por Europa sin fecha de llegada.",
+    "title": "Tesla Model Y L: 6 plazas por ~44.000 €",
+    "excerpt": "Ficha del Tesla Model Y L: versión alargada con 6 plazas, batería de 82 kWh, 751 km CLTC y 0-100 en 4,5 s. En China desde 339.000 yuanes (~44.000 €).",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35800,7 +35800,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Model Y L autonomía",
       "Tesla Model Y L Europa"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "tesla-cybercab-2026-precio-ficha",
@@ -35823,7 +35823,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "gmc-sierra-ev-2025-precio-autonomia",
     "title": "GMC Sierra EV Denali: pick-up eléctrico de 760 CV",
-    "excerpt": "El pick-up eléctrico de GMC combina 765 km EPA, batería de 205 kWh, carga a 350 kW y remolque de 5.579 kg, con acabado Denali desde unos 84.000 €.",
+    "excerpt": "Ficha del GMC Sierra EV: pick-up eléctrico de 760 CV, batería de 205 kWh, 765 km EPA, carga de 350 kW y remolque de 5.579 kg. Desde ~84.000 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35836,11 +35836,11 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Sierra EV autonomía",
       "Sierra EV Denali"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "skoda-kylaq-2025-precio-ficha",
-    "title": "Skoda Kylaq 2025: pequeño, barato y solo para India",
+    "title": "Skoda Kylaq: el SUV de Skoda por 8.700 €",
     "excerpt": "El Kylaq es el Skoda más económico del planeta: mide menos de cuatro metros, rinde 115 CV y cuesta unos 8.700 €, pero Skoda solo lo vende en India.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
@@ -35859,7 +35859,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "nissan-murano-2025-precio-ficha",
     "title": "Nissan Murano 2025: turbo de 241 CV que no llega a Europa",
-    "excerpt": "Cuarta generación del Murano: 2.0 VC-Turbo de 241 CV, cambio de 9 marchas, masaje en las butacas y 5 estrellas NHTSA, desde ~37.000 €.",
+    "excerpt": "Ficha del Nissan Murano 2025: cuarta generación con 2.0 VC-Turbo de 241 CV, caja de 9 velocidades, Safety Shield 360 y asientos con masaje. Desde ~37.000 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35872,12 +35872,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Murano VC-Turbo",
       "Nissan Murano 4 generación"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "ram-1500-ramcharger-2026-precio-ficha",
-    "title": "Ram 1500 Ramcharger: 660 CV, 233 km eléctricos",
-    "excerpt": "Con 660 CV y un V6 de 3.6 como generador, el pick-up de autonomía extendida ofrece 233 km en eléctrico puro y 1.110 km totales. Precio estimado: ~60.000 €.",
+    "title": "Ram Ramcharger: 660 CV y 1.110 km",
+    "excerpt": "Ficha del Ram 1500 Ramcharger: pick-up eléctrico de autonomía extendida con 660 CV, 233 km eléctricos, 1.110 km totales y V6 como generador. Desde ~60.000 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35894,8 +35894,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "honda-prologue-2025-precio-autonomia",
-    "title": "Honda Prologue 2025: SUV eléctrico USA, 496 km",
-    "excerpt": "El Honda Prologue es el SUV eléctrico de Honda para Norteamérica: Ultium de GM, 85 kWh, hasta 496 km EPA y desde 47.400 dólares. No llega a Europa.",
+    "title": "Honda Prologue: 496 km por ~44.000 €",
+    "excerpt": "Ficha del Honda Prologue: SUV eléctrico de 220-300 CV, batería de 85 kWh, 496 km EPA y plataforma Ultium de GM. Desde ~44.000 €. Solo en Norteamérica.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35931,7 +35931,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "lifan-kpt-400-trail-42-cv-precio",
     "title": "Lifan KPT 400: trail china de 400 cc para el A2",
-    "excerpt": "Trail china de 378 cc y 42 CV, con depósito de 18,5 litros y pantalla TFT, que se vende en México por 139.900 pesos. En España no hay distribución.",
+    "excerpt": "Precio, ficha técnica y datos de la Lifan KPT 400: trail china de 378 cc y 42 CV con 18,5 litros de depósito por unos 6.700 € al cambio.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35947,8 +35947,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "hanway-sc-125-s-precio-ficha",
-    "title": "Hanway SC 125 S: scrambler 125 con depósito de 20 litros",
-    "excerpt": "Naked de estética scrambler con 124 cc, 15 CV, 149 kilos y un depósito enorme de 20 litros: cuesta 3.489 € y se puede llevar con el A1 o con el B.",
+    "title": "Hanway SC 125 S: neo-retro por 3.489 €",
+    "excerpt": "Precio, ficha técnica y datos de la Hanway SC 125 S: naked neo-retro de 125 cc y 15 CV con depósito de 20 litros por 3.489 € en España.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35964,8 +35964,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "cyclone-rx1-125-trail-precio",
-    "title": "Cyclone RX1 125: equipaje incluido por 3.190 €",
-    "excerpt": "Trail 125 de Cyclone en España: 3.190 € con maletas montadas, motor de 12,5 CV, cambio de 6 marchas, depósito de 14 litros y garantía oficial de 3 años.",
+    "title": "Cyclone RX1: trail 125 por 3.190 €",
+    "excerpt": "Precio, ficha técnica y datos de la Cyclone RX1: trail 125 con maletas de serie, 12,5 CV y 6 marchas por 3.190 € en España.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35977,12 +35977,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "trail 125 con maletas",
       "motos trail 125"
     ],
-    "readTime": 8
+    "readTime": 6
   },
   {
     "slug": "cyclone-ra2-125-custom-precio",
-    "title": "Cyclone RA2 125: la custom más barata, 2.490 €",
-    "excerpt": "La RA2 pone el estilo cruiser al alcance del carnet A1 y del B veterano: motor 125 de aire, 144 kg, CBS y tres años de cobertura por 2.490 €.",
+    "title": "Cyclone RA2: custom 125 por 2.490 €",
+    "excerpt": "Precio, ficha técnica y datos de la Cyclone RA2: custom 125 de 12,6 CV con 3 años de garantía por solo 2.490 € en España.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -35994,12 +35994,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "custom 125 barata",
       "motos custom 125"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "qjmotor-srk-400rs-4-cilindros-precio",
-    "title": "QJMotor SRK 400RS: cuatro cilindros y 77,6 CV en 400 cc",
-    "excerpt": "La SRK 400RS de QJMotor es una naked de 399 cc con cuatro cilindros, 77,6 CV a 14.000 rpm y 176 kg, a la venta en Asia por unos 11.000 € al cambio.",
+    "title": "QJMotor SRK 400RS: 78 CV por ~11.000 €",
+    "excerpt": "Precio, ficha técnica y datos de la QJMotor SRK 400RS: naked tetracilíndrica de 399 cc y 77,6 CV por ~11.000 € al cambio.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36033,7 +36033,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "cfmoto-250cl-x-neo-retro-precio",
     "title": "CFMoto 250CL-X: la neo-retro 250 que no llegó a España",
-    "excerpt": "La CFMoto 250CL-X combina 249 cc, 26,2 CV, TFT de 5 pulgadas y ABS por unos 4.300 € en México. En España no se vende: ficha, rivales y por qué.",
+    "excerpt": "Precio, ficha técnica y datos de la CFMoto 250CL-X: neo-retro de 249 cc y 26,2 CV con TFT y ABS por ~4.300 € al cambio.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36045,12 +36045,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "neo-retro 250 china",
       "motos neo-retro"
     ],
-    "readTime": 9
+    "readTime": 8
   },
   {
     "slug": "voge-300acx-scrambler-precio",
-    "title": "Voge 300ACX: scrambler A2 de 292 cc por 4.069 €",
-    "excerpt": "Con ABS de doble canal y cinco años de garantía, esta scrambler A2 de 292 cc rinde 28,5 CV y cuesta 4.069 € en España.",
+    "title": "Voge 300ACX: scrambler A2 por 4.069 €",
+    "excerpt": "Precio, ficha técnica y datos de la Voge 300ACX: scrambler de 292 cc y 28,5 CV con 5 años de garantía por 4.069 € en España.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36066,8 +36066,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "voge-625r-naked-64-cv-precio",
-    "title": "Voge 625R: naked de 64 CV por 5.184 €",
-    "excerpt": "La Voge 625R cuesta 5.184 € en España: bicilíndrico de 581 cc, 64 CV, TFT, control de tracción y 5 años de garantía en una naked media.",
+    "title": "Voge 625R: 64 CV naked por 5.184 €",
+    "excerpt": "Precio, ficha técnica y datos de la Voge 625R: naked de 581 cc y 64 CV con TFT y control de tracción por 5.184 € en España.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36079,12 +36079,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "naked 600 china",
       "motos naked 64 CV"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "cfmoto-150nk-naked-precio",
-    "title": "CFMoto 150NK: naked de 149 cc por 2.300 €",
-    "excerpt": "La CFMoto 150NK abre la gama NK: 149,4 cc, 11,8 CV, seis marchas y 142 kg por unos 2.300 € al cambio. No se vende en España.",
+    "title": "CFMoto 150NK: naked 150 por ~2.300 €",
+    "excerpt": "Precio, ficha técnica y datos de la CFMoto 150NK: naked de 149 cc y 11,8 CV con 6 marchas por ~2.300 € al cambio.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36096,12 +36096,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "naked 150 china",
       "motos 150 baratas"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "voge-525r-naked-a2-precio",
-    "title": "Voge 525R: naked A2 de 494 cc y 47,6 CV por 5.287 €",
-    "excerpt": "La Voge 525R cuesta 5.287 € en España: naked A2 con 494 cc, 47,6 CV, Kayaba, Nissin y cinco años de garantía. Precio, ficha y rivales.",
+    "title": "Voge 525R: 48 CV para el A2 por 5.287 €",
+    "excerpt": "Precio, ficha técnica y datos de la Voge 525R: naked A2 de 494 cc y 47,6 CV con 5 años de garantía por 5.287 € en España.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36113,12 +36113,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "naked A2 500",
       "motos A2 chinas"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "lifan-kpf-150-urbana-precio",
-    "title": "Lifan KPF 150: urbana barata de 149 cc por 1.750 €",
-    "excerpt": "Urbana Lifan de 149 cc, 11,5 CV, 134 kg y 110 km/h, con depósito de 15 litros y cambio de 5 marchas; cuesta unos 1.750 € en Perú y no se vende en España.",
+    "title": "Lifan KPF 150: urbana 150 por ~1.750 €",
+    "excerpt": "Precio, ficha técnica y datos de la Lifan KPF 150: urbana de 149 cc y 11,5 CV por ~1.750 € al cambio, una de las más baratas.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36130,7 +36130,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "moto urbana 150 barata",
       "motos 150 chinas"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "qjmotor-srk-921rr-deportiva-precio",
@@ -36186,7 +36186,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "morbidelli-t352x-trail-precio",
     "title": "Morbidelli T352X: trail A2 con ABS Bosch por 4.790 €",
-    "excerpt": "La T352X cuesta 4.790 € y ofrece 349 cc, 40,9 CV, ABS Bosch off-road, control de tracción, pantalla TFT y 5 años de garantía para el carnet A2.",
+    "excerpt": "Precio, ficha técnica y datos de la Morbidelli T352X: trail A2 de 349 cc y 40,9 CV con 5 años de garantía por 4.790 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36254,7 +36254,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "zontes-368e-maxiscooter-precio",
     "title": "Zontes 368E: maxiscooter con cámaras de serie por 4.592 €",
-    "excerpt": "El Zontes 368E cuesta 4.592 € en promoción: 367,6 cc, 38,8 CV, cámaras de serie, parabrisas eléctrico y 3 años de garantía.",
+    "excerpt": "Precio, ficha técnica y datos del Zontes 368E: maxiscooter de 368 cc y 38,8 CV con cámaras y parabrisas eléctrico por 4.592 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36270,8 +36270,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "keeway-k-light-250v-custom-precio",
-    "title": "Keeway K Light 250V: la custom V-Twin de 3.200 €",
-    "excerpt": "La Keeway K Light 250V une un bicilíndrico en V de 248,9 cc con el carnet A2: 18,1 CV, 16 Nm y un precio cercano a 3.200 € al cambio desde Chile.",
+    "title": "Keeway K Light 250V: custom por ~3.200 €",
+    "excerpt": "Precio, ficha técnica y datos de la Keeway K Light 250V: custom con motor bicilíndrico en V de 250 cc por ~3.200 € al cambio.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36287,8 +36287,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "keeway-v302c-custom-precio",
-    "title": "Keeway V302C: custom V-Twin A2 por 4.490 €",
-    "excerpt": "La Keeway V302C es una custom bobber con motor V-Twin de 298 cc, 30 CV, correa final y ABS de doble canal, a la venta en España por 4.490 € con carnet A2.",
+    "title": "Keeway V302C: V-Twin 300 por 4.490 €",
+    "excerpt": "Precio, ficha técnica y datos de la Keeway V302C: custom V-Twin de 298 cc y 30 CV con correa por 4.490 € en España.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36300,12 +36300,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "custom V-Twin 300",
       "moto custom correa"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "motron-x-nord-125-trail-precio",
-    "title": "Motron X-Nord 125 Touring: trail equipada por 3.599 €",
-    "excerpt": "Trail de 125 cc con tres maletas incluidas, refrigeración líquida, 12,5 CV y depósito de 14 litros, conducible con A1 o B con tres años por 3.599 €.",
+    "title": "Motron X-Nord 125: trail por 3.599 €",
+    "excerpt": "Precio, ficha técnica y datos de la Motron X-Nord 125: trail 125 con maletas de serie y motor líquida por 3.599 € en España.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36356,7 +36356,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "ducati-panigale-v4-tricolore-2025-precio-ficha",
     "title": "Ducati Panigale V4 Tricolore: 1.000 unidades, 216 CV",
-    "excerpt": "La Panigale V4 Tricolore 2025, serie numerada de 1.000 unidades con 216 CV y colores de Italia, ronda los 60.000 € en España.",
+    "excerpt": "Precio, ficha técnica y curiosidades de la Ducati Panigale V4 Tricolore 2025: edición limitada de 1.000 unidades con 216 CV y bandera italiana, desde 60.000 €...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36373,8 +36373,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "ducati-multistrada-v4-2026-precio-ficha",
-    "title": "Ducati Multistrada V4 2026: precio con campaña y radar",
-    "excerpt": "La Multistrada V4 2026 parte de 20.790 € con la campaña oficial: 170 CV, radar delantero y trasero y revisiones de válvulas cada 60.000 km.",
+    "title": "Multistrada V4 2026: 170 CV por 20.790 €",
+    "excerpt": "Precio, ficha técnica y novedades de la Ducati Multistrada V4 2026: el V4 Granturismo de 170 CV con radar, desde 20.790 € con la campaña oficial...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36391,8 +36391,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "aprilia-rs-457-2026-precio-ficha",
-    "title": "Aprilia RS 457 2026: precio, ficha y rivales A2",
-    "excerpt": "La Aprilia RS 457 2026 cuesta 7.300 €, da 47,6 CV y pesa 175 kg: la deportiva A2 con gas electrónico y tres modos, frente a Ninja 500, R3 y RC 390.",
+    "title": "RS 457 2026: 47,6 CV A2 por 7.300 €",
+    "excerpt": "Precio y ficha técnica de la Aprilia RS 457 2026: la deportiva A2 con 47,6 CV, 175 kg y electrónica de Aprilia Racing, desde 7.300 €...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36409,8 +36409,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "ducati-scrambler-icon-800-2026-precio-ficha",
-    "title": "Ducati Scrambler Icon 800 2026: precio y ficha técnica",
-    "excerpt": "La neo-retro italiana arranca en 11.190 € en España: motor de 803 cc, 74 CV y posible limitación a 35 kW para el A2.",
+    "title": "Scrambler Icon 800: 74 CV por 11.190 €",
+    "excerpt": "Precio y ficha técnica de la Ducati Scrambler Icon 800 2026: el icono neo-retro con 74 CV, limitable al A2, desde 11.190 €...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36427,8 +36427,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "moto-guzzi-v85-tt-2026-precio-ficha",
-    "title": "Moto Guzzi V85 TT 2026: cardán, 80 CV y alma retro",
-    "excerpt": "La V85 TT 2026 une un V2 transversal de 853 cc y 80 CV con cardán, tres modos y limitación a 35 kW para el A2, por 14.100 € en España.",
+    "title": "V85 TT 2026: la trail italiana por 14.100 €",
+    "excerpt": "Precio y ficha técnica de la Moto Guzzi V85 TT 2026: la trail clásica con motor transversal de 80 CV, limitable al A2, desde 14.100 €...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36441,11 +36441,11 @@ export const BLOG_LITE: BlogLitePost[] = [
       "V85 TT España",
       "moto trail clásica A2"
     ],
-    "readTime": 4
+    "readTime": 2
   },
   {
     "slug": "mv-agusta-enduro-veloce-2026-precio-ficha",
-    "title": "MV Agusta Enduro Veloce 2026: 124 CV desde 21.399 €",
+    "title": "Enduro Veloce 2026: 124 CV por 21.399 €",
     "excerpt": "Maxitrail italiana MV Agusta Enduro Veloce 2026: tricilíndrico de 931 cc con 124 CV, garantía oficial de 5 años y precio en España desde 21.399 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
@@ -36464,7 +36464,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "ktm-390-smc-r-2026-precio-ficha",
     "title": "KTM 390 SMC R 2026: supermotard A2 desde 6.249 €",
-    "excerpt": "La KTM 390 SMC R 2026 llega como supermotard A2: motor de 399 cc, 44,25 CV, 154 kg y precio de 6.249 € en España.",
+    "excerpt": "Precio y ficha técnica de la KTM 390 SMC R 2026: la supermotard A2 con 44,25 CV y 154 kg, desde 6.249 €...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36477,12 +36477,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "390 SMC R España",
       "supermotard 2026"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "ktm-1390-super-duke-r-evo-2026-precio-ficha",
-    "title": "KTM 1390 Super Duke R EVO 2026: precio y ficha",
-    "excerpt": "La KTM 1390 Super Duke R EVO 2026 cuesta 24.499 € y entrega 190 CV con suspensiones WP semi-activas: repasamos sus datos, su electrónica y sus rivales.",
+    "title": "1390 Super Duke R EVO: 190 CV por 24.499 €",
+    "excerpt": "Precio y ficha técnica de la KTM 1390 Super Duke R EVO 2026: la hypernaked con 190 CV y suspensiones electrónicas, desde 24.499 €...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36495,12 +36495,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "hypernaked 190 CV",
       "KTM Super Duke España"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "ktm-1390-super-adventure-s-2026-precio-ficha",
-    "title": "KTM 1390 Super Adventure S 2026: 21.899 €",
-    "excerpt": "La maxitrail rutera de KTM para 2026 monta un V2 de 1.350 cc con 173 CV, radar con crucero adaptativo y TFT de 8,8 pulgadas, desde 21.899 €.",
+    "title": "1390 Super Adventure S: 173 CV, 21.899 €",
+    "excerpt": "Precio y ficha técnica de la KTM 1390 Super Adventure S 2026: la maxitrail austriaca con 173 CV, radar y TFT de 8,8 pulgadas, desde 21.899 €...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36513,7 +36513,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "maxitrail KTM 2026",
       "KTM adventure España"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "husqvarna-svartpilen-801-2026-precio-ficha",
@@ -36535,8 +36535,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "triumph-tiger-1200-gt-pro-2026-precio-ficha",
-    "title": "Triumph Tiger 1200 GT Pro 2026: cardán y 150 CV",
-    "excerpt": "La Tiger 1200 GT Pro 2026, la maxitrail de Hinckley con tricilíndrico de 1.160 cc, 150 CV y cardán, cuesta 20.195 € en España.",
+    "title": "Tiger 1200 GT Pro: 150 CV por 20.195 €",
+    "excerpt": "Precio y ficha técnica de la Triumph Tiger 1200 GT Pro 2026: la maxitrail británica con 150 CV y cardán, desde 20.195 €...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36549,12 +36549,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "maxitrail Triumph 2026",
       "Tiger 1200 150 CV"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "triumph-tiger-sport-800-2026-precio-ficha",
-    "title": "Triumph Tiger Sport 800: 115 CV desde 12.445 €",
-    "excerpt": "La Triumph Tiger Sport 800 2026 es una sport-touring de 115 CV, postura cómoda y 4 años de garantía, con precio en España desde 12.445 €.",
+    "title": "Tiger Sport 800: 115 CV por 12.445 €",
+    "excerpt": "Precio y ficha técnica de la Triumph Tiger Sport 800 2026: la sport-touring con 115 CV y 4 años de garantía, desde 12.445 €...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36571,8 +36571,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "triumph-daytona-660-2026-precio-ficha",
-    "title": "Triumph Daytona 660 2026: 95 CV y cambio rápido",
-    "excerpt": "La Triumph Daytona 660 2026 cuesta 10.395 €: tres cilindros de 660 cc con 95 CV, horquilla Showa regulable, cambio rápido de serie y 4 años de garantía.",
+    "title": "Daytona 660 2026: 95 CV por 10.395 €",
+    "excerpt": "Precio y ficha técnica de la Triumph Daytona 660 2026: la supersport media con 95 CV, quickshifter de serie y 4 años de garantía, desde 10.395 €...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36585,12 +36585,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "deportiva 660 2026",
       "Daytona 660 A2"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "bmw-r-12-gs-2026-precio-ficha",
-    "title": "BMW R 12 G/S 2026: trail bóxer retro desde 18.090 €",
-    "excerpt": "Trail retro con bóxer de 109 CV y 1.170 cc: la BMW R 12 G/S 2026 cuesta 18.090 € en España, pesa 229 kg y calza llanta delantera de 21 pulgadas.",
+    "title": "R 12 G/S 2026: la boxer retro por 18.090 €",
+    "excerpt": "Precio y ficha técnica de la BMW R 12 G/S 2026: la trail retro con motor bóxer de 109 CV, desde 18.090 €...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36603,12 +36603,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "trail retro BMW",
       "boxer 109 CV"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "bmw-f-900-gs-2026-precio-ficha",
-    "title": "BMW F 900 GS 2026: trail de 105 CV desde 14.210 €",
-    "excerpt": "La trail media más campera de BMW combina un bicilíndrico de 895 cc y 105 CV con 219 kg. Precio, electrónica, versión Adventure y rivales.",
+    "title": "F 900 GS 2026: 105 CV por 14.210 €",
+    "excerpt": "Precio y ficha técnica de la BMW F 900 GS 2026: la trail media con 105 CV y 219 kg, desde 14.210 €...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36621,12 +36621,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "trail media 2026",
       "F 900 GS 105 CV"
     ],
-    "readTime": 4
+    "readTime": 2
   },
   {
     "slug": "honda-cb1000-hornet-sp-2026-precio-ficha",
-    "title": "Honda CB1000 Hornet SP 2026: Öhlins por 13.450 €",
-    "excerpt": "La naked grande de Honda para 2026 combina un cuatro cilindros de 999 cc y 157 CV con Öhlins, Brembo Stylema y quickshifter, por 13.450 € en España.",
+    "title": "CB1000 Hornet SP: 157 CV por 13.450 €",
+    "excerpt": "Precio y ficha técnica de la Honda CB1000 Hornet SP 2026: la naked con 157 CV, Öhlins y quickshifter, desde 13.450 €...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36639,12 +36639,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "naked Honda 157 CV",
       "CB1000 Hornet SP Öhlins"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "honda-cl500-2026-precio-ficha",
-    "title": "Honda CL500 2026: scrambler retro A2 desde 6.790 €",
-    "excerpt": "Precio y ficha de la Honda CL500 2026: scrambler A2 de 46 CV, 471 cc y 191 kg, con escape alto y asiento a 790 mm, desde 6.790 € de tarifa.",
+    "title": "CL500 2026: scrambler A2 por 6.790 €",
+    "excerpt": "Precio y ficha técnica de la Honda CL500 2026: la scrambler A2 con 46 CV y estilo retro, desde 6.790 €...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36661,8 +36661,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "yamaha-mt-09-2026-precio-ficha",
-    "title": "Yamaha MT-09 2026: 119 CV desde 11.299 €",
-    "excerpt": "La Yamaha MT-09 2026 combina el tricilíndrico CP3 de 890 cc y 119 CV con IMU de 6 ejes y Y-AMT opcional, desde 11.299 €.",
+    "title": "MT-09 2026: 119 CV por 11.299 €",
+    "excerpt": "Precio y ficha técnica de la Yamaha MT-09 2026: la hypernaked con 119 CV, IMU y cambio Y-AMT opcional, desde 11.299 €...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36675,12 +36675,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "hypernaked 119 CV",
       "MT-09 Y-AMT"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "yamaha-tenere-700-rally-2026-precio-ficha",
-    "title": "Ténéré 700 Rally 2026: la trail Dakar desde 12.399 €",
-    "excerpt": "La Yamaha Ténéré 700 Rally 2026 llega con el CP2 de 689 cc y 73 CV, llantas 21/18 y estética Dakar por 12.399 €. Qué cambia y para quién encaja.",
+    "title": "Ténéré 700 Rally 2026: 73 CV por 12.399 €",
+    "excerpt": "Precio y ficha técnica de la Yamaha Ténéré 700 Rally 2026: la trail rally con 73 CV y decoración Dakar, desde 12.399 €...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36693,7 +36693,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "trail rally 2026",
       "Ténéré 700 73 CV"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "kawasaki-z900-se-2026-precio-ficha",
@@ -36734,7 +36734,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "suzuki-v-strom-800-2026-precio-ficha",
     "title": "V-Strom 800 2026: trail rutera con 83 CV desde 10.795 €",
-    "excerpt": "La Suzuki V-Strom 800 2026 combina un bicilíndrico de 776 cc y 83 CV con quickshifter y crucero de serie, garantía de 3 años y tarifa de 10.795 €.",
+    "excerpt": "Precio y ficha técnica de la Suzuki V-Strom 800 2026: la trail rutera con 83 CV, quickshifter de serie y 3 años de garantía, desde 10.795 €...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36747,12 +36747,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "trail Suzuki 2026",
       "V-Strom 800 83 CV"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "triumph-scrambler-1200-xe-2026-precio-ficha",
-    "title": "Triumph Scrambler 1200 XE 2026: precio y ficha",
-    "excerpt": "La Triumph Scrambler 1200 XE 2026 cuesta 16.995 € y entrega 90 CV con suspensiones Showa y Öhlins de 250 mm. Precio, ficha y rivales.",
+    "title": "Scrambler 1200 XE: 90 CV por 16.995 €",
+    "excerpt": "Precio y ficha técnica de la Triumph Scrambler 1200 XE 2026: la maxiscrambler con 90 CV, Öhlins y Showa, desde 16.995 €...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36769,8 +36769,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "royal-enfield-guerrilla-450-2026-precio-ficha",
-    "title": "Royal Enfield Guerrilla 450 2026: naked A2 por 5.387 €",
-    "excerpt": "La Guerrilla 450 2026 cuesta 5.387 €: naked A2 con 40 CV, TFT de 4 pulgadas, 184 kg y 3 años de garantía. APEX y Dash, al mismo precio.",
+    "title": "Guerrilla 450 2026: 40 CV por 5.387 €",
+    "excerpt": "Precio y ficha técnica de la Royal Enfield Guerrilla 450 2026: la naked A2 con 40 CV, TFT y 3 años de garantía, desde 5.387 €...",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36783,7 +36783,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "naked A2 2026",
       "Guerrilla 450 APEX"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "royal-enfield-interceptor-650-2026-precio-ficha",
@@ -36860,7 +36860,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "mercedes-marco-polo-2025-precio-camper",
     "title": "Mercedes Marco Polo 2025: camper Clase V desde 90.279 €",
-    "excerpt": "Camper Mercedes sobre el Clase V: techo que se eleva, cocina integrada y cuatro plazas para dormir desde 90.279 €, diésel 220 d de 163 CV.",
+    "excerpt": "Precio, ficha técnica y equipamiento del Mercedes Marco Polo 2025: la camper premium sobre el Clase V, diésel desde 90.279 € con techo elevable y cocina.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36873,12 +36873,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "camper premium precio",
       "Marco Polo ficha técnica"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "mercedes-vito-2025-precio-ficha",
-    "title": "Mercedes Vito Tourer 2025: ocho plazas desde 42.299 €",
-    "excerpt": "El Tourer 2025 combina 136 CV diésel, cambio manual o 9G-Tronic y hasta ocho asientos: precio, versiones y rivales de la furgoneta de Mercedes.",
+    "title": "Vito Tourer: 8 plazas diésel por 42.299 €",
+    "excerpt": "Precio, ficha técnica y versiones del Mercedes Vito Tourer 2025: 114 CDI de 136 CV, 8 plazas y cambio 9G-Tronic desde 42.299 € según la lista oficial de Mercedes-Benz España.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36895,8 +36895,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "mercedes-citan-tourer-2025-precio-ficha",
-    "title": "Mercedes Citan Tourer: 5 plazas desde 26.075 €",
-    "excerpt": "Furgoneta compacta Mercedes con 5 plazas, diésel 1.5 de 116 CV y maletero de hasta 775 litros: el Citan Tourer 2025 arranca en 26.075 €.",
+    "title": "Citan Tourer: furgoneta por 26.075 €",
+    "excerpt": "Precio, ficha técnica y versiones del Mercedes Citan Tourer 2025: la furgoneta compacta de 5 plazas con diésel de 116 CV desde 26.075 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36950,7 +36950,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "iveco-daily-2025-precio-furgon",
     "title": "Iveco Daily 2025: el furgón camión desde 48.280 €",
-    "excerpt": "Precio, ficha y variantes del Iveco Daily 2025: el 35S16H de 160 CV y 10,8 m³ arranca en 48.280 €, con bastidor de largueros.",
+    "excerpt": "Precio, ficha técnica y versiones del Iveco Daily 2025: 35S16H de 160 CV con 10,8 m³ de carga desde 48.280 €. El furgón de chasis de largueros.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36963,12 +36963,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "furgón Iveco",
       "Daily ficha técnica"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "mercedes-e-vito-2025-precio-electrica",
-    "title": "Mercedes eVito 2025: furgón eléctrico desde 67.700 €",
-    "excerpt": "Furgón eléctrico con 116 CV, batería útil de 60 kWh y 365 km WLTP: precio orientativo, carga rápida de 80 kW y etiqueta Cero del Mercedes eVito 2025.",
+    "title": "eVito: furgón eléctrico por 67.700 €",
+    "excerpt": "Precio, ficha técnica y autonomía del Mercedes eVito 2025: el furgón eléctrico con 116 CV, batería de 60 kWh y 365 km WLTP desde ~67.700 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36981,12 +36981,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "furgoneta eléctrica precio",
       "eVito ficha técnica"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "opel-zafira-life-2025-precio-ficha",
-    "title": "Opel Zafira Life 2025: 8 plazas, 180 CV y 42.999 €",
-    "excerpt": "El Opel Zafira Life 2025 parte de 42.999 € en su versión XL: diésel 2.0 de 180 CV, cambio automático, hasta 8 plazas y 5,31 metros. Ficha y respuestas.",
+    "title": "Zafira Life: 8 plazas y 180 CV por 42.999 €",
+    "excerpt": "Precio, ficha técnica y versiones del Opel Zafira Life 2025: 2.0 diésel de 180 CV con cambio automático, 8 plazas y tamaño XL desde 42.999 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -37003,7 +37003,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "renault-trafic-spaceclass-2025-precio-ficha",
-    "title": "Renault Trafic SpaceClass 2025: 8 plazas, 47.622 €",
+    "title": "Trafic SpaceClass: 8 plazas por 47.622 €",
     "excerpt": "La variante más cuidada del Trafic Combi: 8 plazas, diésel 2.0 dCi de 150 CV, clima trizona y acabado premium desde 47.622 € según Renault España.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
@@ -37022,7 +37022,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "citroen-spacetourer-campster-2025-precio-camper",
     "title": "Citroën Campster: camper con techo desde 59.762 €",
-    "excerpt": "Techo elevable, cocina y cuatro plazas para dormir desde 59.762 €: así es el SpaceTourer Campster, la camper oficial de Citroën con diésel de 180 CV.",
+    "excerpt": "Precio, ficha técnica y equipamiento del Citroën SpaceTourer Campster 2025: la camper oficial de Stellantis con techo elevable desde 59.762 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -37035,12 +37035,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Campster techo elevable",
       "camper Stellantis"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "benimar-mileo-286-2026-precio-autocaravana",
-    "title": "Benimar Mileo 286 2026: 5 plazas y camas gemelas, ~79.900 €",
-    "excerpt": "La Mileo 286 2026 es una perfilada española con camas gemelas traseras, baño completo y 5 plazas, desde un precio orientativo de ~79.900 €.",
+    "title": "Benimar Mileo 286 2026: autocaravana con camas gemelas ~79.900 €",
+    "excerpt": "Precio, ficha técnica y distribución del Benimar Mileo 286 2026: autocaravana perfilada española con camas gemelas y 5 plazas desde ~79.900 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -37057,8 +37057,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "adria-matrix-supreme-2026-precio-autocaravana",
-    "title": "Adria Matrix Supreme 670 SL: 72.985 € con cama isla",
-    "excerpt": "El Adria Matrix Supreme 670 SL parte de 72.985 €: perfilada de 7,49 m, cama isla, baño completo, 5 plazas y motor Fiat de 140 CV.",
+    "title": "Matrix Supreme: 5 plazas por 72.985 €",
+    "excerpt": "Precio, ficha técnica y distribución del Adria Matrix Supreme 670 SL 2026: perfilada eslovena con cama isla y 5 plazas desde 72.985 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -37071,12 +37071,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "autocaravana Adria",
       "perfilada cama isla"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "mclouis-menfys-2026-precio-camper",
-    "title": "McLouis Menfys 2026: camper 6 m desde 64.900 €",
-    "excerpt": "Camper italiana de gran volumen: 6 metros, 4 plazas, baño completo y cama trasera fija, con motor Fiat 2.2 de 140 CV desde 64.900 €.",
+    "title": "Menfys: camper de 6 metros por 64.900 €",
+    "excerpt": "Precio, ficha técnica y distribución del McLouis Menfys 2026: camper gran volumen de 6 metros con 4 plazas desde 64.900 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -37089,12 +37089,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "camper gran volumen",
       "Menfys ficha técnica"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "chausson-640-2026-precio-autocaravana",
-    "title": "Chausson 640 2026: compacta con cama isla por 69.900 €",
-    "excerpt": "La perfilada francesa mide 6,99 metros, duerme cuatro personas y arranca en torno a 69.900 euros con el diésel Fiat de 140 CV y el acabado Titanium.",
+    "title": "640: perfilada compacta por ~69.900 €",
+    "excerpt": "Precio, ficha técnica y distribución del Chausson 640 2026: autocaravana perfilada compacta francesa con cama isla desde ~69.900 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -37107,7 +37107,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "perfilada compacta",
       "autocaravana francesa"
     ],
-    "readTime": 8
+    "readTime": 5
   },
   {
     "slug": "roller-team-zefiro-696-2026-precio-autocaravana",
@@ -37148,7 +37148,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "hobby-vantana-2026-precio-camper",
     "title": "Hobby Vantana 2026: camper de 6 m desde 55.900 €",
-    "excerpt": "La Hobby Vantana 2026 ofrece cama transversal, baño completo y cuatro plazas en seis metros, con diésel de 140 CV y precio orientativo en torno a 55.900 €.",
+    "excerpt": "Precio, ficha técnica y distribución del Hobby Vantana 2026: la camper gran volumen alemana más asequible, 6 metros desde ~55.900 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -37165,8 +37165,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "carado-t-447-2026-precio-autocaravana",
-    "title": "Carado T 447 2026: familiar de 5 plazas desde 65.900 €",
-    "excerpt": "La perfilada T 447 de Carado para familias: 5 plazas, 7,40 m, motor Fiat de 140 CV y precio orientativo desde ~65.900 €, con versión Pro+ automática.",
+    "title": "T 447: perfilada familiar por ~65.900 €",
+    "excerpt": "Precio, ficha técnica y distribución del Carado T 447 2026: la perfilada familiar del grupo Hymer con 5 plazas desde ~65.900 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -37179,12 +37179,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "perfilada familiar",
       "autocaravana Hymer barata"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "fiat-panda-pandina-2025-precio-hibrido",
-    "title": "Fiat Panda Pandina 2025: híbrido ECO desde 18.539 €",
-    "excerpt": "El Fiat Panda Pandina 2025 cuesta 18.539 €: motor 1.0 Hybrid de 70 CV, etiqueta ECO, 5 plazas y 3,65 metros. El urbano más barato con híbrido ligero.",
+    "title": "Panda Pandina: híbrido ECO por 18.539 €",
+    "excerpt": "Precio, ficha técnica y equipamiento del Fiat Panda Pandina 2025: 1.0 Hybrid de 70 CV con etiqueta ECO desde 18.539 € según km77.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -37201,8 +37201,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "volkswagen-id-4-2025-precio-electrico",
-    "title": "Volkswagen ID.4 Pro 2025: 286 CV y 544 km por 41.420 €",
-    "excerpt": "El ID.4 Pro 2025 ofrece 286 CV, batería útil de 77 kWh y 544 km WLTP desde 41.420 €, con carga de 175 kW y 5 estrellas Euro NCAP.",
+    "title": "ID.4: 286 CV eléctricos por 41.420 €",
+    "excerpt": "Precio, ficha técnica y autonomía del Volkswagen ID.4 Pro 2025: 286 CV, batería de 77 kWh y 544 km WLTP desde 41.420 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -37215,12 +37215,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ID.4 autonomía",
       "SUV eléctrico precio"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "microlino-2026-precio-microcoche",
-    "title": "Microlino 2026: microcoche eléctrico Isetta desde 22.990 €",
-    "excerpt": "Microcoche eléctrico suizo con puerta frontal, dos plazas y 228 km de autonomía con batería de 14 kWh, desde 22.990 €.",
+    "title": "Microlino: el Isetta eléctrico por 22.990 €",
+    "excerpt": "Precio, ficha técnica y autonomía del Microlino 2026: el microcoche eléctrico inspirado en el Isetta, 17 CV y 228 km desde 22.990 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -37237,7 +37237,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "smart-fortwo-eq-2025-precio-electrico",
-    "title": "smart fortwo EQ 2025: 24.450 € y 159 km urbanos",
+    "title": "fortwo EQ: biplaza eléctrico por 24.450 €",
     "excerpt": "Biplaza eléctrico de 2,69 m, 82 CV y batería de 17,6 kWh con 159 km: precio desde 24.450 €, carga, etiqueta Cero y rivales.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
@@ -37706,7 +37706,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "ds-9-e-tense-250-2026-precio-ficha",
     "title": "DS 9 E-Tense 250: berlina híbrida desde 61.621 €",
-    "excerpt": "El DS 9 E-Tense 250 combina 250 CV híbridos enchufables, 74 km eléctricos WLTP y etiqueta Cero desde 61.621 €, con maletero de 510 litros.",
+    "excerpt": "El DS 9 E-Tense es la berlina premium híbrida enchufable francesa: 250 o 360 CV, 74 km eléctricos y etiqueta Cero desde 61.621 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -37720,12 +37720,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ds 9 vs audi a6 peugeot 508",
       "ds 9 e-tense opiniones"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "volkswagen-id-cross-2026-precio-ficha",
-    "title": "VW ID. Cross: SUV eléctrico desde 28.000 € y 426 km",
-    "excerpt": "El Volkswagen ID. Cross llegará en otoño de 2026 desde ~28.000 €, fabricado en Navarra y con hasta 426 km WLTP. Versiones, carga y rivales.",
+    "title": "VW ID. Cross: 426 km eléctricos por 28.000 €",
+    "excerpt": "El Volkswagen ID. Cross será el SUV eléctrico barato de VW: desde ~28.000 €, hasta 426 km WLTP y fabricado en Navarra. Llega en otoño de 2026.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -37743,8 +37743,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "bmw-i3-neue-klasse-2026-precio-ficha",
-    "title": "BMW i3 2026: berlina eléctrica con 906 km desde 57.740 €",
-    "excerpt": "El BMW i3 renace como berlina eléctrica Neue Klasse: 800 V, hasta 906 km WLTP, 374 o 469 CV y precio desde 57.740 € en España.",
+    "title": "BMW i3: 906 km de autonomía por 57.740 €",
+    "excerpt": "El nuevo BMW i3 de la era Neue Klasse: berlina eléctrica con 800 V, hasta 906 km WLTP y 469 CV desde 57.740 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -37762,8 +37762,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "honda-super-n-ev-2026-precio-ficha",
-    "title": "Honda Super-N: urbano eléctrico diminuto desde 21.000 €",
-    "excerpt": "El pequeño eléctrico de Honda para la ciudad: 3,59 m, cuatro plazas, 206 km y un precio británico que ronda los 21.000 €.",
+    "title": "Honda Super-N: el urbano eléctrico por 21.000 €",
+    "excerpt": "El Honda Super-N (Super EV) es el sucesor espiritual del Honda e: urbano eléctrico de 3,59 m, 206 km de autonomía y precio desde ~21.000 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -37781,8 +37781,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "toyota-bz3x-electrico-2026-precio-ficha",
-    "title": "Toyota bZ3X: SUV eléctrico desde 13.000 €, solo en China",
-    "excerpt": "El bZ3X es el eléctrico barato de Toyota que arrasa en China: hasta 224 CV, 610 km CLTC y un precio que ronda los 13.000 €. En Europa no se vende.",
+    "title": "Toyota bZ3X: SUV eléctrico por 13.000 €",
+    "excerpt": "El Toyota bZ3X es el SUV eléctrico barato que triunfa en China: 224 CV, hasta 610 km CLTC y precio desde ~13.000 €. No llega a España.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -37796,12 +37796,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "suv eléctrico barato china",
       "toyota bz3x vs byd yuan"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "polestar-6-roadster-2026-precio-ficha",
-    "title": "Polestar 6 Roadster: 884 CV eléctricos y capota rígida",
-    "excerpt": "El primer descapotable de Polestar llegará en 2026 con 884 CV, 800 V y 500 unidades de lanzamiento: precio estimado, rivales y claves.",
+    "title": "Polestar 6: roadster de 884 CV por 200.000 €",
+    "excerpt": "El Polestar 6 será el descapotable eléctrico más potente del mundo: 884 CV, 0-100 en 3,2 s y capota rígida. Producción en 2026 desde ~200.000 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -37819,8 +37819,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "mg-u9-ev-pickup-2026-precio-ficha",
-    "title": "MG U9 EV 2026: pick-up eléctrica de 442 CV y 430 km",
-    "excerpt": "La pick-up eléctrica de MG no se vende en Europa: en Australia cuesta 78.990 AU$, remolca 3.500 kg y lleva batería LFP de 102,2 kWh. Gemela del Terron 9.",
+    "title": "MG U9 EV: pick-up de 442 CV por 50.000 €",
+    "excerpt": "La MG U9 EV es la pick-up eléctrica de 442 CV con batería LFP de 102,2 kWh, 430 km WLTP y 3.500 kg de remolque. Precio estimado ~50.000 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -37834,7 +37834,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "mg u9 vs maxus terron 9",
       "mg u9 ev autonomía"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "kgm-rexton-sports-2026-precio-ficha",
@@ -37858,7 +37858,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "maxus-d90-suv-2026-precio-ficha",
     "title": "Maxus D90: SUV de 7 plazas y 4x4 desde Chile",
-    "excerpt": "SUV grande de SAIC con 7 asientos reales, 5,05 m y tracción total. En Chile ronda los 25.000 €; en España no tiene venta oficial.",
+    "excerpt": "El Maxus D90 es el SUV chino de 7 plazas y 5,05 m con motor 2.0 biturbo y 4x4. En Chile desde ~25.000 €. No se vende en España.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -37872,7 +37872,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "maxus d90 españa",
       "maxus d90 vs toyota land cruiser"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "swm-tiger-suv-2026-precio-ficha",
@@ -37895,8 +37895,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "dacia-hipster-2027-precio-ficha",
-    "title": "Dacia Hipster 2027: cuadriciclo de 11.000 € y 4 plazas",
-    "excerpt": "Concept eléctrico de 3 m, 4 plazas y ~15 kWh: el Dacia Hipster apunta a ~11.000 € y a producirse en 2027 como cuadriciclo L7e. Datos, rivales y dudas.",
+    "title": "Dacia Hipster: el cuadriciclo por 11.000 €",
+    "excerpt": "El Dacia Hipster será el cuadriciclo eléctrico de 3 m, 4 plazas y ~15 kWh con precio objetivo de 11.000 €. Producción prevista en 2027.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -37934,7 +37934,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "kia-k4-2026-precio-ficha",
     "title": "Kia K4 2026: berlina ECO desde 30.770 €",
-    "excerpt": "El K4 releva al Ceed con 4,44 m, maletero de 438 litros y etiqueta ECO: desde 30.770 € con el 1.0 MHEV de 115 CV y hasta 180 CV en el 1.6 T-GDi.",
+    "excerpt": "El Kia K4 es la nueva berlina compacta: 4,44 m, maletero de 438 litros, motores 1.0 MHEV y 1.6 T-GDi hasta 180 CV desde 30.770 € en España.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -37972,7 +37972,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "jaguar-gt-electrico-2026-precio-ficha",
     "title": "Jaguar GT eléctrico: +1.000 CV y 770 km por 120.000 €",
-    "excerpt": "El Jaguar GT (Type 00) inaugura la Jaguar 100 % eléctrica: más de 1.000 CV, batería de 120 kWh y hasta 770 km WLTP. Llega a finales de 2026.",
+    "excerpt": "El Jaguar GT eléctrico (Type 00) será la berlina de lujo de +1.000 CV, 120 kWh y hasta 770 km WLTP. Producción a finales de 2026, precio ~120.000 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -38029,7 +38029,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "lucid-gravity-2026-precio-ficha",
     "title": "Lucid Gravity: 748 km y 839 CV desde 99.900 €",
-    "excerpt": "SUV eléctrico de 7 plazas con 748 km WLTP, carga de 400 kW y hasta 839 CV. Precios alemanes desde 99.900 € y sin venta oficial en España.",
+    "excerpt": "El Lucid Gravity es el SUV eléctrico de 7 plazas con hasta 839 CV, 748 km WLTP y carga de 400 kW. En Alemania desde 99.900 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -38047,8 +38047,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "vinfast-vf-6-2026-precio-ficha",
-    "title": "VinFast VF 6 2026: precio, autonomía y garantía en Europa",
-    "excerpt": "El SUV eléctrico vietnamita parte de 35.550 € en Europa: dos versiones, 177 y 204 CV, batería de 59,6 kWh, hasta 410 km y cobertura de 7 años o 160.000 km.",
+    "title": "VinFast VF 6: SUV eléctrico por 35.550 €",
+    "excerpt": "El VinFast VF 6 es el SUV eléctrico vietnamita: 177-204 CV, 59,6 kWh, hasta 410 km y 7 años de garantía desde 35.550 € en Europa.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -38062,12 +38062,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "vinfast garantía 7 años",
       "vinfast vf 6 vs byd atto 3"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "vinfast-vf-7-2026-precio-ficha",
-    "title": "VinFast VF 7: SUV eléctrico de 204 a 354 CV desde 35.000 €",
-    "excerpt": "SUV eléctrico vietnamita con 75,3 kWh, hasta 450 km y tracción total de 354 CV en la Plus. Precio europeo estimado desde 35.000 € y garantía de 7 años.",
+    "title": "VinFast VF 7: 354 CV eléctricos por 35.000 €",
+    "excerpt": "El VinFast VF 7 es el SUV eléctrico vietnamita de 204 CV (Eco) o 354 CV AWD (Plus), 75,3 kWh y 450 km. Precio europeo estimado ~35.000 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -38081,7 +38081,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "vinfast vf 7 españa",
       "vinfast vf 7 vs vf 6"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "togg-t10x-2026-precio-ficha",
@@ -43361,7 +43361,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "fangchengbao-byd-marca-desconocida-formula-s-bao-5",
     "title": "Fangchengbao, la desconocida de BYD: Bao 5 y Formula S",
-    "excerpt": "La filial todoterreno de BYD roza el medio millón en tres años: su Bao 5 vendrá como Denza y la berlina Formula S promete 900 km por menos de 30.000 €.",
+    "excerpt": "Fang Cheng Bao, la benjamina de BYD: 500.000 coches en tres años, un todoterreno que llegará como Denza Bao 5 y una berlina de 900 km por 30.000 €.",
     "category": "Modelos desconocidos",
     "date": "2026-10-03",
     "locale": "all",
@@ -43379,8 +43379,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "yangwang-byd-u8-u9-europa-2027",
-    "title": "Yangwang U8 y U9: 1.197 CV y llegada a Europa en 2027",
-    "excerpt": "Yangwang, la marca de superlujo de BYD, traerá a Europa en 2027 el U8 que flota, el U9 que salta y la berlina U7 de 1.250 CV.",
+    "title": "Yangwang U8: 1.197 CV, flota en agua, llega a Europa",
+    "excerpt": "Yangwang, el superlujo de BYD: el U8 flota, el U9 salta y el U7 tiene 1.250 CV. Llega a Europa en 2027, pero con el carnet B no podrías conducirlo.",
     "category": "Modelos desconocidos",
     "date": "2026-10-03",
     "locale": "all",
@@ -43398,8 +43398,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "avatr-changan-huawei-catl-06t-t09",
-    "title": "Avatr 06T y T09: 955 y 857 CV con Huawei y CATL",
-    "excerpt": "Changan, Huawei y CATL forman Avatr: el familiar 06T de 955 CV, el SUV T09 de 857 CV con cuatro LiDAR y el sedán 06 de 800 voltios.",
+    "title": "Avatr: el familiar chino de 955 CV con Huawei dentro",
+    "excerpt": "Avatr une a Changan, Huawei y CATL: el familiar 06T con 955 CV cuesta como un Corolla, y el T09 de 857 CV con cuatro LiDAR será su buque insignia.",
     "category": "Modelos desconocidos",
     "date": "2026-10-03",
     "locale": "all",
@@ -43417,8 +43417,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "rox-01-erev-pininfarina-autonomia-1115-km",
-    "title": "Rox 01: el SUV chino de Pininfarina con 1.115 km de alcance",
-    "excerpt": "El Rox 01 combina motores eléctricos con un generador de gasolina, firma Pininfarina y 1.115 km combinados. Así es el SUV chino de lujo outdoor.",
+    "title": "Rox 01: SUV chino Pininfarina con 1.115 km autonomía",
+    "excerpt": "Rox 01: SUV chino diseñado por Pininfarina con 350 kW, 235 km eléctricos y 1.115 km combinados. Lujo outdoor que casi nadie conoce en Europa.",
     "category": "Modelos desconocidos",
     "date": "2026-10-03",
     "locale": "all",
@@ -43456,7 +43456,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "icaur-chery-marca-aventura-europa-espana-2027",
     "title": "iCaur llega a Europa en 2027: V23, V25 y V27",
-    "excerpt": "La firma de aventura de Chery prepara su salto europeo: Austria como primer mercado en otoño, España en la ruta y tres SUV electrificados desde 2027.",
+    "excerpt": "iCaur, la marca aventurera de Chery: V23 eléctrico retro, V25 y V27 de autonomía extendida. Austria este otoño, España en la hoja de ruta, Europa en 2027.",
     "category": "Modelos desconocidos",
     "date": "2026-10-03",
     "locale": "all",
@@ -43474,8 +43474,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "li-auto-i8-suv-electrico-6-plazas-precio-2026",
-    "title": "Li Auto i8: 6 plazas, 780 km y ventas en caída libre",
-    "excerpt": "El familiar eléctrico chino promete 780 km y 500 km en 10 minutos de carga, pero en junio solo vendió 779 unidades y Li Auto ya recortó su precio en China.",
+    "title": "Li Auto i8: SUV eléctrico 6 plazas, 780 km, carga 5C",
+    "excerpt": "Li Auto i8: 6 plazas, 780 km y carga de 500 km en 10 minutos... pero solo 779 ventas al mes en China. Bajada de precio histórica antes de llegar a Europa.",
     "category": "Modelos desconocidos",
     "date": "2026-10-03",
     "locale": "all",
@@ -43488,7 +43488,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "SUV eléctrico 6 plazas chino",
       "Li Auto i8 autonomía"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "volkswagen-id-unyx-09-electrico-china-755-km",
@@ -43511,7 +43511,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "geely-galaxy-tt-berlina-electrica-china",
     "title": "Geely Galaxy TT: berlina eléctrica china con 725 km",
-    "excerpt": "La berlina eléctrica Geely Galaxy TT llegó el 10/09/2026 con 725 km CLTC, 578 CV, carga 6C y chasis Lotus; dos récords Guinness y sin venta en Europa.",
+    "excerpt": "Geely Galaxy TT: la berlina china lanzada el 10/09/2026 con 725 km CLTC, 578 CV, carga 6C, chasis Lotus y dos récords Guinness. No se vende en Europa.",
     "category": "Modelos desconocidos",
     "date": "2026-10-05",
     "locale": "all",
@@ -43587,7 +43587,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "jetour-zongheng-g700-903-cv",
     "title": "Jetour G700: todoterreno híbrido de 903 CV que flota",
-    "excerpt": "El Zongheng G700 2027 ya se vende en China desde unos 43.900 €: 903 CV híbridos, tecnología Huawei y versión anfibia con hélices.",
+    "excerpt": "El Jetour Zongheng G700 2027 sale en China con 903 CV híbridos, conducción autónoma de Huawei y modo anfibio. Desde unos 43.900 € al cambio.",
     "category": "Modelos desconocidos",
     "date": "2026-10-09",
     "locale": "all",
@@ -43601,12 +43601,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Jetour G700 Huawei",
       "coches chinos desconocidos"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "hongqi-g919-4x4-electrico-831-cv",
-    "title": "Hongqi G919: el 4x4 eléctrico chino de 831 CV",
-    "excerpt": "El Hongqi G919 abre su preventa en China: todoterreno EREV con un motor por rueda, 831 CV y chasis de largueros, desde unos 47.800 €.",
+    "title": "Hongqi G919: el Clase G chino de 831 CV",
+    "excerpt": "Hongqi abre la preventa del G919, su primer todoterreno: EREV de 4 motores y 831 CV con chasis de largueros. En China desde unos 47.800 €.",
     "category": "Modelos desconocidos",
     "date": "2026-10-09",
     "locale": "all",
@@ -43620,12 +43620,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "4x4 chino EREV",
       "coches chinos desconocidos"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "anfac-septiembre-2026-record-electrificacion-model-3-lider",
     "title": "Septiembre de 2026: el eléctrico alcanza el 34% en España",
-    "excerpt": "Septiembre de 2026, récord en España: 31.945 electrificados, el 34% del mercado, y el Model 3, con 2.528 unidades, fue el turismo más vendido del mes.",
+    "excerpt": "Septiembre de 2026, récord del eléctrico en España: los electrificados llegaron al 34% del mercado y el Tesla Model 3 fue el coche más vendido del país.",
     "category": "Novedades Motor",
     "date": "2026-10-04",
     "locale": "all",
@@ -43676,7 +43676,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "omoda-jaecoo-record-ventas-septiembre-2026",
     "title": "Omoda y Jaecoo: 4.010 ventas en septiembre (+91,5%)",
-    "excerpt": "Tercer mejor mes en España para Omoda y Jaecoo: 4.010 matriculaciones en septiembre, un 91,5% más, con un 6,1% en particulares y un 98% electrificado.",
+    "excerpt": "Omoda y Jaecoo firman su tercer mejor mes en España: 4.010 matriculaciones en septiembre (+91,5%), récord en particulares (6,1%) y 98% electrificado.",
     "category": "Novedades Motor",
     "date": "2026-10-04",
     "locale": "all",
@@ -43688,7 +43688,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Jaecoo 5 Omoda 5 ventas",
       "matriculaciones Omoda Jaecoo récord"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "mg-hs-hybrid-plus-225-cv-precio-espana",
@@ -43727,7 +43727,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "dongfeng-vigo-mage-phev-precio-espana-ficha",
     "title": "Dongfeng Vigo y Mage: eléctricos desde 26.615 € en España",
-    "excerpt": "Dongfeng Vigo eléctrico desde 26.615 € y Mage PHEV desde 28.740 €: etiqueta Cero, 7 años de garantía y 25 concesionarios en España.",
+    "excerpt": "Dongfeng abre pedidos en España de dos SUV con etiqueta Cero: el Vigo eléctrico (340 km, 167 kW) desde 26.615 € y el Mage PHEV (299 CV) desde 28.740 €.",
     "category": "Novedades Motor",
     "date": "2026-10-04",
     "locale": "all",
@@ -43739,12 +43739,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "SUV eléctrico chino barato",
       "Dongfeng Vigo ficha técnica"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "zero-srf-20-aniversario-40-unidades",
     "title": "Zero SR/F 20 aniversario: solo 40 motos en el mundo",
-    "excerpt": "Edición conmemorativa de la SR/F por los 20 años de Zero: 40 ejemplares en el mundo, estética negra y dorada y 2.000 € más que la versión estándar.",
+    "excerpt": "Zero cumple 20 años con una SR/F 20th Anniversary limitada a 40 unidades en todo el mundo (20 en Europa): negro Jet Black con dorado, piezas premium y 2.000 € de sobreprecio sobre la normal.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -43760,8 +43760,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "honda-wn7-electrica-precio-espana-15000",
-    "title": "Honda WN7: naked eléctrica de 68 CV por 15.000 €",
-    "excerpt": "Naked eléctrica de Honda en España por 15.000 €, con 68 CV, par de 100 Nm y hasta 140 km según WMTC, batería de 9,3 kWh y CCS2 en 30 minutos.",
+    "title": "Honda WN7 eléctrica por 15.000 €",
+    "excerpt": "La primera moto grande eléctrica de Honda ya está en España: 15.000 €, 68 CV, 100 Nm, 140 km WMTC y carga rápida CCS2. Ficha completa y análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -43851,8 +43851,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "ducati-monster-2026-quinta-generacion-precio-espana",
-    "title": "Ducati Monster 2026: V2 de 890 cc y 111 CV",
-    "excerpt": "Quinta generación de la Monster: V2 de 890 cc con 111 CV, 175 kg sin gasolina y un precio europeo que ronda los 12.990 €.",
+    "title": "Monster 2026: 111 CV, 12.990 €",
+    "excerpt": "Ducati renueva su icono: la Monster 2026 estrena el V2 de 890 cc con 111 CV, pesa 4 kg menos y parte de unos 12.990 €. Quinta generación del mito nacido en 1993.",
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
@@ -43887,7 +43887,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "kia-pv5-furgoneta-electrica-espana",
     "title": "Kia PV5: furgoneta eléctrica modular PBV para España",
-    "excerpt": "Presentada en Canarias: la PV5 eléctrica de Kia, con 412 km WLTP en Passenger, Cargo de 4,4 m³ apta para europalé y recarga 10-80 % en unos 30 minutos.",
+    "excerpt": "Kia presenta en el Salón del Automóvil de Canarias la PV5: su furgoneta eléctrica modular PBV con 412 km de autonomía, 4,4 m³ de carga y apta para europalé. La 'Kangoo eléctrica' coreana.",
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
@@ -43904,8 +43904,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "salon-paris-2026-estrenos-electricos-guia",
-    "title": "París 2026: guía de eléctricos, estrenos y marcas",
-    "excerpt": "París reunió del 12 al 18 de octubre 20 marcas chinas con 7 estrenos mundiales y la réplica europea: urbanos y compactos eléctricos baratos hechos en casa.",
+    "title": "París 2026: todos los eléctricos",
+    "excerpt": "Guía del Salón de París 2026 (12-18 oct): 20 marcas chinas, 7 estrenos mundiales y la respuesta europea con eléctricos baratos. Todos los estrenos eléctricos, quién ataca a quién.",
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
@@ -43923,7 +43923,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "ue-bruselas-cuotas-hibridos-chinos",
     "title": "Bruselas prepara cuotas contra los híbridos chinos",
-    "excerpt": "Pekín dijo no al tope y Bruselas responde con cupos y aranceles. BYD exhibe sus DM-i en París y los PHEV chinos encaran 2027 con el precio en el aire.",
+    "excerpt": "Pekín rechaza limitar sus híbridos enchufables y Bruselas prepara cuotas unilaterales con aranceles. BYD responde llevando a París su artillería DM-i. Qué cambia para los precios en España.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -43940,7 +43940,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "renault-600-millones-electricos-espana",
-    "title": "Renault: 600 M€ para fabricar eléctricos en España",
+    "title": "Renault hará eléctricos en España",
     "excerpt": "Renault invertirá 600 millones hasta 2030 en Valladolid y Palencia: 5 modelos, línea de baterías y la RGEV Medium 2.0, primera eléctrica nativa en España.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
@@ -43959,7 +43959,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "jaguar-type-01-electrico-1030-cv",
     "title": "Jaguar Type 01: GT eléctrico de 1.030 CV y 720 km",
-    "excerpt": "Jaguar presenta en Nueva York el Type 01: GT eléctrico de 4 puertas con 1.030 CV, 720 km WLTP y carga de 350 kW; pedidos en 2027 desde 130.000 libras.",
+    "excerpt": "Jaguar desvela en Nueva York el Type 01: GT eléctrico de 4 puertas con 1.030 CV, 720 km WLTP y 350 kW de carga. Pedidos en 2027 desde 130.000 libras. El renacer eléctrico de la marca.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -44013,7 +44013,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "dacia-striker-2026-precio-ficha",
     "title": "Dacia Striker 2026: familiar híbrido por menos de 25.000 €",
-    "excerpt": "El Striker debuta en París con 4,62 m, 600 litros de maletero y tres mecánicas electrificadas: híbrida, 4x4 y GLP. Precio anunciado por debajo de 25.000 €.",
+    "excerpt": "Dacia desvela el Striker en el Salón de París: crossover familiar de 4,62 m con 600 litros de maletero, versiones híbrida, 4x4 y GLP, y precio por debajo de 25.000 €. Lo que se sabe.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -44026,12 +44026,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Dacia Striker híbrido",
       "Dacia Salón de París 2026"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "byd-great-han-1008-km-autonomia-carga-9-minutos",
     "title": "BYD Great Han: 1.008 km y carga en 9 minutos",
-    "excerpt": "El Great Han llega a China el 13 de octubre de 2026 con 1.008 km CLTC, batería de 102,3 kWh y recarga del 10 al 97 % en 9 minutos desde 249.900 yuanes.",
+    "excerpt": "BYD lanza en China el Great Han (13/10): berlina de 5,26 m con 1.008 km CLTC, batería LFP de 102,3 kWh y carga del 10 al 97 % en 9 minutos. Preventa desde 249.900 yuanes.",
     "category": "Novedades Motor",
     "date": "2026-10-09",
     "locale": "all",
@@ -44044,11 +44044,11 @@ export const BLOG_LITE: BlogLitePost[] = [
       "berlina eléctrica china 1000 km autonomía",
       "BYD Da Han precio"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "renault-10000-millones-electricos-paris-2026-plan",
-    "title": "Renault destinará 10.000 M€ a eléctricos asequibles",
+    "title": "Renault: 10.000 M€ y plan París",
     "excerpt": "Más de 10.000 millones en Francia en cinco años para abaratar los eléctricos de Renault. En París 2026: E-Space Concept, Mégane LFP y Trafic 800V.",
     "category": "Novedades Motor",
     "date": "2026-10-09",
@@ -44103,8 +44103,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "leapmotor-b03-electrico-paris-2026",
-    "title": "Leapmotor B03 París 2026: compacto eléctrico de 392 km",
-    "excerpt": "El B03 debuta fuera de China en París: 4,20 m, hasta 392 km WLTC y un precio aún sin confirmar que apunta por debajo del B03X.",
+    "title": "Leapmotor B03: el compacto que reta al R5 en París",
+    "excerpt": "Leapmotor presenta en París el B03, un compacto eléctrico de 4,20 m con hasta 392 km de autonomía. Llega en el mejor momento de la marca en España: 1.705 matriculaciones en septiembre.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
@@ -44121,7 +44121,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "fiat-grizzly-fastback-paris-2026",
-    "title": "Fiat Grizzly: SUV familiar de 4,4 m con versión eléctrica",
+    "title": "Fiat Grizzly: el SUV familiar que vuelve a lo esencial",
     "excerpt": "París estrena Fiat Grizzly y Fastback, SUV de 4,4 y 4,5 m con gasolina, microhíbrido y eléctrico, a la venta a finales de 2026 desde 20.000 € estimados.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
@@ -44212,8 +44212,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "skoda-peaq-suv-electrico-7-plazas-precio",
-    "title": "Skoda Peaq 2026: SUV eléctrico de 7 plazas desde 54.550 €",
-    "excerpt": "El mayor SUV de Skoda: 4,87 m, hasta 7 plazas, 646 km WLTP y 935 litros de maletero. En España arranca en 54.550 € con la versión Peaq 90.",
+    "title": "Skoda Peaq: 646 km",
+    "excerpt": "El Skoda Peaq es el SUV más grande de la marca: 4,87 m, hasta 7 plazas, batería de 86 kWh y 646 km WLTP. Precio en España desde 54.550 €.",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -44231,8 +44231,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "renault-5-e-tech-2026-precio-autonomia",
-    "title": "Renault 5 E-Tech 2026: urbano eléctrico con 430 km",
-    "excerpt": "El Renault 5 eléctrico de 2026 ya admite pedidos en España: 315 km con 40 kWh y 430 km con 52 kWh, Gemini por OTA y precio desde 20.170 € con ayudas.",
+    "title": "Renault 5 E-Tech 2026: 430 km desde 20.170 €",
+    "excerpt": "El Renault 5 eléctrico se actualiza para 2026: hasta 430 km WLTP, Gemini vía OTA y precio desde 20.170 € con ayudas. Todos los precios y versiones.",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -44246,7 +44246,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "coche eléctrico urbano barato 2026",
       "Renault 5 E-Tech análisis"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "tesla-roadster-2026-retraso-precio-ficha-tecnica",
@@ -44311,7 +44311,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "lynk-co-07-gt-debut-europa-paris-2026",
     "title": "Lynk & Co 07 GT: 523 CV para el estreno europeo en París",
-    "excerpt": "El 07 GT se presenta en París: primer familiar de Lynk & Co, híbrido enchufable de 523 CV y 200 km eléctricos, con llegada a Europa en 2027.",
+    "excerpt": "El Lynk & Co 07 GT debuta en el Salón de París 2026: familiar híbrido enchufable de hasta 523 CV, 10.000 reservas en 27 minutos y llegada en 2027.",
     "category": "Novedades Motor",
     "date": "2026-10-03",
     "locale": "all",
@@ -44324,7 +44324,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Salón París 2026 coches",
       "Lynk & Co Europa 2027"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "omoda-9-shs-precio-ficha-tecnica",
@@ -44367,7 +44367,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "leapmotor-b10-electrico-precio-espana",
     "title": "Leapmotor B10 eléctrico: precio, 434 km y 218 CV",
-    "excerpt": "El SUV eléctrico chino que Stellantis fabricará en Zaragoza: 218 CV, tracción trasera, hasta 434 km WLTP, carga de 168 kW y REEV de 900 km desde 27.000 €.",
+    "excerpt": "El Leapmotor B10 es el SUV eléctrico de 218 CV que Stellantis fabricará en Zaragoza: 434 km de autonomía, carga de 168 kW y precio desde 27.000 €.",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -44424,7 +44424,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "xpeng-g6-2026-restyling-precio-espana",
     "title": "XPeng G6 2026: carga de 451 kW desde 43.083 €",
-    "excerpt": "El G6 renovado adopta LFP en toda la gama y recupera del 10 al 80 % en 12 minutos gracias a sus 451 kW, con tarifa española desde 43.083 €. Lo desgranamos.",
+    "excerpt": "El XPeng G6 se actualiza: batería LFP en toda la gama, carga de 451 kW (10-80 % en 12 minutos) y precio desde 43.083 € en España. Análisis y rivales.",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -44442,8 +44442,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "xiaomi-yu7-suv-electrico-llegada-europa",
-    "title": "Xiaomi YU7: récord en China y llegada a Europa en 2027",
-    "excerpt": "El YU7, segundo modelo de Xiaomi EV, sumó 200.000 pedidos en 3 minutos y superó al Model Y; su llegada a Europa está confirmada para 2027.",
+    "title": "Xiaomi YU7: 835 km",
+    "excerpt": "El segundo coche de Xiaomi es un SUV que batió récords en China: 200.000 pedidos en 3 minutos y más ventas que el Model Y. Llega a Europa en 2027.",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -44457,7 +44457,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "suv eléctrico xiaomi españa",
       "xiaomi yu7 vs tesla model y"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "deepal-s07-precio-espana-ficha-tecnica",
@@ -44502,7 +44502,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "dacia-bigster-hybrid-precio-espana",
     "title": "Bigster Hybrid 155: precio, versiones y consumo en España",
-    "excerpt": "El Bigster híbrido de Dacia llega desde 29.390 € con 156 CV, etiqueta ECO y 546 litros de maletero: repasamos su gama, sus rivales y el nuevo Tribrid 4x4.",
+    "excerpt": "El Dacia Bigster Hybrid 155 ya está en España: 156 CV, etiqueta ECO, maletero de 546 litros y precio desde 29.390 €. Análisis, versiones y rivales.",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -44654,7 +44654,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "renault-4-e-tech-precio-autonomia",
     "title": "Renault 4 E-Tech: desde 27.954 €",
-    "excerpt": "El Renault 4 vuelve como SUV urbano eléctrico: 4,14 m, hasta 408 km y 375 L de maletero, desde 27.954 € en España.",
+    "excerpt": "El Renault 4 resucita como SUV urbano 100 % eléctrico: 4,14 m, hasta 408 km de autonomía y maletero de 375 litros. Precios en España desde 27.954 €.",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -44668,12 +44668,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Renault 4 vs Renault 5",
       "SUV urbano eléctrico barato"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "peugeot-e-5008-electrico-7-plazas-precio",
-    "title": "Peugeot E-5008 eléctrico: 7 plazas y 668 km desde 44.380 €",
-    "excerpt": "El familiar eléctrico francés de 7 plazas reales: hasta 668 km WLTP con la batería Long Range de 96,9 kWh, i-Cockpit de 21 pulgadas y gama desde 44.380 €.",
+    "title": "Peugeot E-5008: 668 km",
+    "excerpt": "El Peugeot E-5008 es el familiar eléctrico de 7 plazas con más autonomía: hasta 668 km WLTP, i-Cockpit de 21 pulgadas y versiones desde 44.380 €.",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -44687,12 +44687,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "E-5008 Long Range",
       "familiar eléctrico 7 plazas 2026"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "dacia-spring-2026-nueva-generacion-precio",
-    "title": "Dacia Spring 2026: urbano eléctrico por menos de 18.000 €",
-    "excerpt": "El Spring nuevo crece, estrena plataforma RGEV Small, ofrece 80 CV y 250 km, se fabrica en Eslovenia y seguirá por debajo de 18.000 € antes de ayudas.",
+    "title": "Dacia Spring 2026: 18.000 €",
+    "excerpt": "El Dacia Spring se reinventa: nueva plataforma, 80 CV, 250 km de autonomía, más grande y fabricado en Eslovenia. Por debajo de 18.000 € antes de ayudas.",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -51775,7 +51775,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "kove-450rr-2024-precio",
     "title": "Kove 450RR 2024: tetra de 443 cc, 66,6 CV y 6.297 €",
-    "excerpt": "Kove 450RR 2024 desde 6.297 €: deportiva con cuatro cilindros, 443 cc, 66,6 CV a 13.250 rpm, 165 kg, KYB regulable y ABS de tres modos.",
+    "excerpt": "La Kove 450RR 2024 desde 6.297 €: tetracilíndrico de 443 cc con 66,6 CV a 13.250 rpm, 165 kg, KYB multirregulable, winglets y ABS configurable. Ficha técnica, precio y rivales.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -51791,12 +51791,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "kove 450rr españa",
       "tetracilindrica 450 precio"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "kove-800x-2025-precio",
-    "title": "Kove 800X Pro 2025: trail de 94,5 CV por 9.899 €",
-    "excerpt": "Trail media china con 799 cc, 94,5 CV y 190 kg: KYB de 240 mm, ABS en 3 modos y TFT de 7 pulgadas desde 9.899 €. Versiones Pro, Rally y GT.",
+    "title": "Kove 800X 2025: precio, ficha y prueba",
+    "excerpt": "La Kove 800X Pro 2025 desde 9.899 €: bicilíndrico de 799 cc con 94,5 CV, 190 kg, suspensiones KYB de 240 mm, ABS de 3 modos y TFT de 7 pulgadas. Ficha técnica, versiones y rivales.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -51812,12 +51812,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "trail china 94 cv",
       "kove 800x españa"
     ],
-    "readTime": 6
+    "readTime": 4
   },
   {
     "slug": "morbidelli-t502x-2025-precio",
-    "title": "Morbidelli T502X 2025: trail A2 desde 5.390 €",
-    "excerpt": "La trail A2 de Morbidelli parte de 5.390 €: 47 CV, TFT vertical de 7 pulgadas con GPS, defensas y cubrecárter de serie, ABS Bosch y 5 años de garantía.",
+    "title": "Morbidelli T502X 2025: precio y ficha técnica",
+    "excerpt": "La Morbidelli T502X 2025 desde 5.390 €: trail A2 con 47 CV, pantalla TFT vertical de 7 pulgadas con GPS, defensas y cubrecárter de serie, ABS Bosch y 5 años de garantía.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -51837,8 +51837,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "morbidelli-c1002v-2025-precio",
-    "title": "Morbidelli C1002V 2025: custom V-twin desde 9.990 €",
-    "excerpt": "La C1002V 2025 cuesta 9.990 €: custom de 997 cc y 88,4 CV, rueda trasera de 240 mm, correa final, crucero de serie y garantía de 5 años.",
+    "title": "Morbidelli C1002V 2025: precio y ficha",
+    "excerpt": "La Morbidelli C1002V 2025 desde 9.990 €: custom con V-twin de 997 cc y 88,4 CV, rueda trasera de 240, transmisión por correa, control de crucero y 5 años de garantía.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -51854,12 +51854,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "morbidelli custom precio españa",
       "power cruiser 2025"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "macbor-xr5-2024-precio",
-    "title": "Macbor XR5 2024: trail A2 española, 47 CV y solo 178 kg",
-    "excerpt": "La Montana XR5 2024 ronda los 6.999 €: bicilíndrica de 471 cc para el A2, 178 kg, suspensiones KYB regulables y ABS de tres modos para asfalto y pista.",
+    "title": "Macbor XR5 2024: precio y ficha técnica",
+    "excerpt": "La Macbor Montana XR5 2024 desde 6.999 €: trail A2 española con 47 CV, 178 kg, suspensiones KYB multirregulables, ABS de 3 modos y ganadora de la Enduroc 2024.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -51875,12 +51875,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "macbor xr5 500 precio españa",
       "trail 47 cv 2024"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "wottan-storm-125-2025-precio",
     "title": "Wottan Storm 125 2025: scooter GT desde 2.499 €",
-    "excerpt": "Scooter GT urbano desde 2.499 € con TFT de 7 pulgadas, full LED y hueco para casco integral: ficha, versiones y rivales de la Storm 125.",
+    "excerpt": "La Wottan Storm 125 2025 desde 2.499 €: el scooter GT de la marca española con pantalla TFT de 7 pulgadas, full LED y hueco para casco integral. Ficha técnica, opiniones y rivales.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -51916,7 +51916,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "qjmotor-srt-800sx-2024-precio",
     "title": "QJMotor SRT 800SX 2024: trail rutera de 91,5 CV",
-    "excerpt": "Trail rutera china de 799 cc y 91,5 CV, con Marzocchi, Brembo y 24 litros. Sin precio oficial en España: motor, referencia europea y familia SRT.",
+    "excerpt": "La QJMotor SRT 800SX 2024: trail rutera de 799 cc con 91,5 CV, suspensiones Marzocchi, frenos Brembo y depósito de 24 litros. Ficha técnica y precio.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -51933,8 +51933,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "qjmotor-svt-650-2024-precio",
-    "title": "QJMotor SVT 650 2024: trail V-twin, precio y ficha",
-    "excerpt": "QJMotor SVT 650 2024: trail con V-twin de 645 cc y 75 CV, Brembo, Marzocchi, maletas rígidas de serie y precio desde 5.699 £ en Reino Unido.",
+    "title": "QJMotor SVT 650 2024: ficha técnica y precio",
+    "excerpt": "La QJMotor SVT 650 2024: trail media con V-twin de 645 cc y 75 CV, Brembo, Marzocchi, puños calefactados y maletas de serie. Ficha técnica y precio.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -51947,12 +51947,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "trail v-twin 650 comparativa",
       "qjmotor svt 650 vs v-strom 650"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "swm-superdual-650-2024-precio",
     "title": "SWM Superdual 650 2024: 5.990 €, 54 CV y trail",
-    "excerpt": "Trail italiana de 5.990 € con motor de 600 cc, 54 CV, 169 kg en seco y depósito de 18 litros: versiones X, T y GT, y carnet necesario.",
+    "excerpt": "La SWM Superdual 650 2024 desde 5.990 €: la trail monocilíndrica italiana con ADN Husqvarna, 54 CV, 18 litros de depósito y frenos Brembo. Ficha técnica, precio y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -52385,7 +52385,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "trk 702 vs 702 x",
       "benelli adventure 2024"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "benelli-trk-502-2024-ficha-tecnica-precio",
@@ -58934,9 +58934,30 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 3
   },
   {
+    "slug": "vmoto-off-r-2025-ficha-tecnica-precio",
+    "title": "Vmoto OFF-R: trail eléctrica de 104 km con carnet A1",
+    "excerpt": "La Vmoto OFF-R es la trail eléctrica matriculable de Vmoto: 8,0 kW de pico, 104 km WMTC y 85 kg. Sin precio oficial en España todavía. Ficha y análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-25",
+    "locale": "all",
+    "heroSrc": "/media/vmoto-off-r-2025-ficha-tecnica-precio.webp",
+    "heroAlt": "Vmoto OFF-R, moto trail eléctrica",
+    "keywords": [
+      "vmoto off-r",
+      "vmoto off-r precio",
+      "trail eléctrica a1",
+      "moto eléctrica campo 104 km",
+      "vmoto off-r ficha técnica",
+      "off-r 8 kw",
+      "moto eléctrica matriculable",
+      "vmoto off-r autonomía"
+    ],
+    "readTime": 7
+  },
+  {
     "slug": "beta-evo-300-2024-analisis-opinion",
-    "title": "Beta Evo 300 2024: precio, trial 2T y opinión",
-    "excerpt": "La trialera italiana de 296,5 cc pesa 72 kg y parte de 7.648 € en España: doble mapa, llave electrónica y 6 marchas frente a la Sherco ST 300.",
+    "title": "Beta Evo 300 2024: análisis, opinión y rivales",
+    "excerpt": "La Beta Evo 300 2T 2024, tope de gama de las trialeras de Beta, cuesta 7.648 € en España: 296,5 cc de dos tiempos y solo 72 kg.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -58956,8 +58977,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "ducati-panigale-v2-2025-analisis-opinion",
-    "title": "Ducati Panigale V2 2025: precio, 120 CV y opinión",
-    "excerpt": "La Panigale V2 2025 cambia de motor: V2 de 890 cc, 120 CV, 179 kg en orden de marcha y PVP de 17.690 €, con oferta de Ducati Madrid en 16.490 €.",
+    "title": "Ducati Panigale V2 2025: análisis, opinión y rivales",
+    "excerpt": "La Ducati Panigale V2 2025 estrena un motor V2 de 890 cc con 120 CV y tiene un PVP oficial de 17.690 € en España (Ducati Madrid la oferta por 16.490 € en octubre de 2026).",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -59040,8 +59061,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "kawasaki-z900-2025-analisis-opinion",
-    "title": "Kawasaki Z900 2025: precio, 124 CV y opinión",
-    "excerpt": "La Z900 2025 arranca en 10.325 €: tetracilíndrica de 948 cc con 124 CV, IMU de seis ejes, control de crucero y quickshifter de serie.",
+    "title": "Kawasaki Z900 2025: análisis, opinión y rivales",
+    "excerpt": "La Kawasaki Z900 2025 parte de 10.325 € con 124 CV, IMU, control de crucero y quickshifter de serie. Precio, ficha técnica y consumo real.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -59057,12 +59078,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "quickshifter z900",
       "moto naked 124 cv"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "maeving-rm1-2024-analisis-opinion",
-    "title": "Maeving RM1: café racer eléctrica desde £4.995",
-    "excerpt": "La Maeving RM1 es la café racer eléctrica británica equivalente a 125 cc: 4,4 kW, 72 km/h y hasta 129 km con doble batería. Solo en Reino Unido.",
+    "title": "Maeving RM1 2024: análisis, opinión y rivales",
+    "excerpt": "La Maeving RM1 es la café racer eléctrica británica equivalente a 125 cc: 4,4 kW, 72 km/h y hasta 129 km de autonomía con doble batería. No se vende en España: solo en Reino Unido desde £4.995.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -59166,8 +59187,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "bmw-s-1000-rr-2024-analisis-opinion",
-    "title": "BMW S 1000 RR 2024: superbike de 210 CV desde 23.070 €",
-    "excerpt": "La S 1000 RR 2024 arrancaba en 23.070 € en España con 210 CV, 197 kg, alerones y un consumo homologado de 6,4 l/100 km.",
+    "title": "BMW S 1000 RR 2024: análisis, opinión y rivales",
+    "excerpt": "La BMW S 1000 RR 2024 partió de 23.070 €: tetracilíndrico ShiftCam de 210 CV, 197 kg y alerones de serie, con un consumo homologado de 6,4 l/100 km.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -59187,8 +59208,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "honda-rebel-1100-2024-analisis-opinion",
-    "title": "Honda Rebel 1100 2024: custom, precio y rivales",
-    "excerpt": "Custom grande de Honda en 2024: 11.250 €, bicilíndrico de 1.084 cc con 87 CV, asiento a 700 mm, DCT opcional y 4,9 l/100 km.",
+    "title": "Honda Rebel 1100 2024: análisis, opinión y rivales",
+    "excerpt": "La Honda Rebel 1100 2024 costó 11.250 €: bicilíndrico de 1.084 cc con 87 CV, asiento a 700 mm y cambio DCT opcional, con 4,9 l/100 km declarados.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -59229,8 +59250,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "husqvarna-norden-901-2024-analisis-opinion",
-    "title": "Husqvarna Norden 901 2024: trail dakariana de 105 CV",
-    "excerpt": "Norden 901 2024: 105 CV, 19 litros y 14.399 €. Trail sueca con base KTM, lista para viajar lejos.",
+    "title": "Husqvarna Norden 901 2024: análisis, opinión y rivales",
+    "excerpt": "La Husqvarna Norden 901 2024 cuesta desde 14.399 €: 105 CV, 19 litros de depósito y unos 5 l/100 km de consumo real en una trail con alma sueca.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -59250,8 +59271,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "kawasaki-z500-2025-analisis-opinion",
-    "title": "Kawasaki Z500 2025: precio, ficha y rivales A2",
-    "excerpt": "La naked A2 de Kawasaki cuesta 6.350 €, rinde 45,4 CV, pesa 168 kg y gasta 4,9 l/100 km en prueba real.",
+    "title": "Kawasaki Z500 2025: análisis, opinión y rivales",
+    "excerpt": "La Kawasaki Z500 2025 cuesta 6.350 €: la naked del carnet A2 con 45,4 CV, 168 kg y un consumo real de 4,9 l/100 km.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -59267,12 +59288,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "kawasaki z500 se",
       "z500 vs cb500 hornet"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "yamaha-niken-gt-2025-analisis-opinion",
-    "title": "Yamaha Niken GT 2025: tres ruedas, 115 CV y 19.599 €",
-    "excerpt": "La GT de Yamaha para 2025 inclina sus dos ruedas delanteras hasta 45º, rinde 115 CV con el CP3 de 890 cc y ronda los 19.599 € en tienda oficial.",
+    "title": "Yamaha Niken GT 2025: análisis, opinión y rivales",
+    "excerpt": "La Yamaha Niken GT 2025 cuesta 19.599 €: la única moto de tres ruedas que se inclina, con el CP3 de 890 cc y 115 CV y un consumo real de 6,6 l/100 km.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -59313,8 +59334,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "yamaha-tmax-560-2024-analisis-opinion",
-    "title": "Yamaha TMAX 560 2024: precio, motor A2 y consumo real",
-    "excerpt": "El TMAX 560 2024 costó 13.990 € al llegar a España; hoy la gama arranca en 14.299 €, rinde 47,6 CV sin limitar para el A2 y gasta entre 4,5 y 5,5 l/100 km.",
+    "title": "Yamaha TMAX 560 2024: análisis, opinión y rivales",
+    "excerpt": "La Yamaha TMAX 560 2024, el maxiscooter de referencia, se lanzó a 13.990 €; la gama actual parte de 14.299 € con 47,6 CV aptos para el carnet A2 y un consumo real de 4,5 a 5,5 l/100 km.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -59439,8 +59460,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "suzuki-hayabusa-2025-analisis-opinion",
-    "title": "Suzuki Hayabusa 2025: el halcón sigue volando",
-    "excerpt": "La Hayabusa 2025 conserva 190 CV y Euro5+ con 264 kg y 299 km/h autolimitados; Suzuki España no publica su precio y el consumo real ronda 6,1 l/100 km.",
+    "title": "Suzuki Hayabusa 2025: análisis, opinión y rivales",
+    "excerpt": "La Suzuki Hayabusa 2025 mantiene sus 190 CV con Euro5+: 264 kg, 299 km/h autolimitados y 6,1 l/100 km medidos en prueba. El precio oficial no se publica.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -59481,8 +59502,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "honda-gold-wing-2024-analisis-opinion",
-    "title": "Honda Gold Wing 2024: la rutera bóxer de 126 CV",
-    "excerpt": "Gold Wing 2024: bóxer de seis cilindros, DCT con marcha atrás y 367 kg. Costó 30.700 € y la 2025 la relevó.",
+    "title": "Honda Gold Wing 2024: análisis, opinión y rivales",
+    "excerpt": "La Honda Gold Wing 2024 costaba 30.700 €: bóxer de 6 cilindros y 1.833 cc, 126 CV, DCT con marcha atrás y 367 kg. Modelo descatalogado en favor del 2025.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -59498,7 +59519,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "gold wing consumo",
       "moto 6 cilindros"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "ktm-1390-super-duke-r-2024-analisis-opinion",
@@ -59544,8 +59565,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "benelli-leoncino-800-2024-analisis-opinion",
-    "title": "Benelli Leoncino 800 2024: 76 CV neo-retro por 6.990 €",
-    "excerpt": "La scrambler del león cuesta 6.990 € llave en mano, con 76,2 CV, Marzocchi de 50 mm, Brembo y versión A2; Benelli declara 4,9 l/100 km.",
+    "title": "Benelli Leoncino 800 2024: análisis, opinión y rivales",
+    "excerpt": "La Benelli Leoncino 800 2024 cuesta 6.990 € en promoción llave en mano en España: scrambler neo-retro de 76,2 CV con horquilla Marzocchi de 50 mm, frenos Brembo y versión limitable para el A2, con un ",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -59561,12 +59582,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "leoncino 800 opiniones",
       "leoncino 800 opiniones prueba"
     ],
-    "readTime": 8
+    "readTime": 7
   },
   {
     "slug": "bmw-r-12-ninet-2024-analisis-opinion",
-    "title": "BMW R 12 nineT 2024: precio, motor bóxer y opinión",
-    "excerpt": "La R 12 nineT 2024 vale 17.900 € en España y combina un bóxer de 1.170 cc con 109 CV, chasis nuevo y estética retro con electrónica actual.",
+    "title": "BMW R 12 nineT 2024: análisis, opinión y rivales",
+    "excerpt": "La BMW R 12 nineT 2024 cuesta 17.900 € en España: bóxer de 1.170 cc con 109 CV y 115 Nm, chasis nuevo y el carácter retro alemán en estado puro.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -59582,7 +59603,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "motos retro 2024",
       "bmw r 12 ninet a2"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "fantic-xe-125-2025-analisis-opinion",
@@ -59607,8 +59628,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "kymco-downtown-350-2024-analisis-opinion",
-    "title": "Kymco Downtown 350 GT 2024: prueba, consumo y precio",
-    "excerpt": "El Downtown 350 GT 2024 no se vende oficialmente en España: 321 cc, 28,5 CV, 185 kg, 4 l/100 km en prueba y 310 km con 12,5 litros.",
+    "title": "Kymco Downtown 350 GT 2024: análisis, opinión y rivales",
+    "excerpt": "El Kymco Downtown 350 GT 2024 no tiene precio oficial en España (Kymco no lo comercializa aquí): 321 cc, 28,5 CV, 185 kg y 4 l/100 km reales medidos en prueba, con 310 km de autonomía.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -59628,8 +59649,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "livewire-one-2024-analisis-opinion",
-    "title": "LiveWire ONE 2024: 15.090 €, 100 CV y carga rápida",
-    "excerpt": "La LiveWire ONE 2024 cuesta 15.090 € en España: 100 CV, batería de 15,4 kWh, carga del 0 al 80% en 40 minutos y casi 200 km reales en Eco.",
+    "title": "LiveWire ONE 2024: análisis, opinión y rivales",
+    "excerpt": "La LiveWire ONE 2024 cuesta 15.090 € en España, su precio más bajo de la historia: naked eléctrica de 100 CV, batería de 15,4 kWh, carga rápida del 0 al 80% en 40 minutos y casi 200 km de autonomía re",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -59645,7 +59666,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "livewire one carga rápida",
       "livewire one opiniones"
     ],
-    "readTime": 7
+    "readTime": 8
   },
   {
     "slug": "macbor-rockster-410-2025-analisis-opinion",
@@ -59670,8 +59691,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "niu-rqi-sport-2025-analisis-opinion",
-    "title": "NIU RQi Sport 2025: naked eléctrica por 3.999 €",
-    "excerpt": "La NIU RQi Sport 2025 llega a España por 3.999 €: 110 km/h, 8,7 kW, ABS Brembo y 95-105 km declarados, en unidades limitadas hasta agotar stock.",
+    "title": "NIU RQi Sport 2025: análisis, opinión y rivales",
+    "excerpt": "La NIU RQi Sport 2025 cuesta 3.999 € en España: naked eléctrica con 8,7 kW, 110 km/h, frenos Brembo con ABS y 95-105 km de autonomía declarada, en unidades limitadas.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -59712,8 +59733,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "super-soco-cpx-analisis-opinion",
-    "title": "Super Soco CPx 2024: precio, autonomía real y rivales",
-    "excerpt": "La CPx Pro cuesta 5.589 €: eléctrica equivalente a 125, 90 km/h, 137 km homologados con dos baterías y 69 km reales con una.",
+    "title": "Super Soco CPx 2024: análisis, opinión y rivales",
+    "excerpt": "El Super Soco CPx Pro cuesta 5.589 € en España: scooter eléctrico equivalente a 125 con 90 km/h, hasta 137 km de autonomía homologada y unos 69 km reales medidos con una batería.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -59754,8 +59775,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "yamaha-neos-analisis-opinion",
-    "title": "Yamaha NEO's Dual Battery: precio y autonomía real",
-    "excerpt": "El NEO's Dual Battery se vende por 2.999 €: ciclomotor eléctrico con baterías de 8 kg, 29 km reales por batería y una carga que cuesta céntimos.",
+    "title": "Yamaha NEO's: análisis, opinión y rivales",
+    "excerpt": "El Yamaha NEO's Dual Battery cuesta 2.999 € en España: scooter eléctrico equivalente a 50 cc con 29 km de autonomía real por batería, baterías extraíbles de 8 kg y recargas de céntimos.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -63909,7 +63930,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "honda-cb500x-2025-precio",
     "title": "Honda CB500X 2025: trail A2 por 7.350 €",
-    "excerpt": "La CB500X 2025 cuesta 7.350 € y entrega 47 CV con 471 cc, depósito de 17,7 litros y revisiones cada 12.000 km: la trail para el carnet A2.",
+    "excerpt": "La Honda CB500X 2025 desde 7.350 €: la trail A2 de referencia con 47 CV, 471 cc y 17,7 litros de depósito. Ficha técnica, precio y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -63923,12 +63944,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "cb500x vs nx500",
       "moto trail carnet a2"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "ktm-390-adventure-2025-precio",
-    "title": "KTM 390 Adventure 2025: precio, ficha y opinión real",
-    "excerpt": "La KTM 390 Adventure R 2025 cuesta 7.499 €: 45 CV, ruedas de 21 y 18 pulgadas y electrónica de trail grande. Te contamos la R, la X y para quién es.",
+    "title": "KTM 390 Adventure 2025: precio y ficha",
+    "excerpt": "La KTM 390 Adventure R 2025 desde 7.499 €: trail A2 con 45 CV, llantas 21/18 y electrónica de moto grande. Ficha, precio y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -63942,7 +63963,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ktm 390 adventure x precio",
       "moto trail 400cc carnet a2"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "bmw-f-750-gs-2024-precio",
@@ -63965,8 +63986,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "triumph-tiger-850-sport-2025-precio",
-    "title": "Triumph Tiger 850 Sport 2025: precio, motor triple y A2",
-    "excerpt": "Desde 12.195 €, la Tiger 850 Sport 2025 combina un triple de 888 cc y 85 CV, depósito de 20 litros, 192 kg en seco y limitación a 35 kW para el A2.",
+    "title": "Triumph Tiger 850 Sport: precio 2025",
+    "excerpt": "La Triumph Tiger 850 Sport 2025 desde 12.195 €: trail con tricilíndrico de 888 cc y 85 CV, limitable al A2. Ficha, precio y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -63980,12 +64001,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "triumph tiger 850 vs bmw f 750 gs",
       "moto trail tricilindrica"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "kawasaki-versys-x-300-2025-precio",
-    "title": "Versys-X 300 2025: trail A2 japonesa por 6.280 €",
-    "excerpt": "Trail A2 japonesa con 40 CV, 296 cc, 175 kg y depósito de 17 litros: la Versys-X 300 2025 cuesta 6.280 € y promete cerca de 480 km por depósito.",
+    "title": "Kawasaki Versys-X 300: precio y ficha",
+    "excerpt": "La Kawasaki Versys-X 300 2025 desde 6.280 €: trail A2 con bicilíndrico de 296 cc y 40 CV, 175 kg y 17 litros de depósito. Ficha técnica, precio y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -63999,7 +64020,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "kawasaki versys 300 autonomía",
       "moto trail 300cc carnet a2"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "suzuki-v-strom-250sx-2025-precio",
@@ -64023,7 +64044,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "honda-nx500-2026-precio",
     "title": "Honda NX500 2026: trail A2 desde 6.450 € con TFT",
-    "excerpt": "La NX500 2026 baja a 6.450 €: bicilíndrico de 471 cc y 47 CV, pantalla TFT de 5 pulgadas, control HSTC y E-Clutch opcional, con unos 480 km de autonomía.",
+    "excerpt": "La Honda NX500 2026 desde 6.450 €: la trail A2 con 47 CV, TFT de 5 pulgadas y 480 km de autonomía. Ficha, precio y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -64041,8 +64062,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "cfmoto-450mt-2026-precio",
-    "title": "CFMOTO 450MT 2026: precio, trail A2 y equipamiento",
-    "excerpt": "La CFMOTO 450MT 2026 cuesta 6.495 € y reúne 44 CV, KYB regulable y TFT en una trail A2 lista para viajar y pisar pistas. Precio y datos.",
+    "title": "CFMOTO 450MT 2026: precio y ficha",
+    "excerpt": "La CFMOTO 450MT 2026 desde 6.495 €: la trail A2 con 44 CV, suspensiones KYB y TFT. La rival de la NX500. Ficha, precio y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -64056,12 +64077,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "cfmoto 450mt autonomía",
       "moto trail 450cc carnet a2"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "voge-300rally-2026-precio",
-    "title": "Voge 300 Rally 2026: la trail A2 desde 3.792 €",
-    "excerpt": "La Voge 300 Rally 2026 cuesta 3.792 €: motor de 292 cc y 28,5 CV, 147 kg, ruedas de 21/18 y 5 años de garantía para el trail con carnet A2.",
+    "title": "Voge 300 Rally 2026: precio y ficha",
+    "excerpt": "La Voge 300 Rally 2026 desde 3.792 €: la trail A2 más barata de España con 28,5 CV, 147 kg y estética rally. Ficha técnica, precio y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -64075,7 +64096,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "moto trail 300cc barata",
       "voge motos españa"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "honda-cbr500r-2025-precio",
@@ -64136,8 +64157,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "ktm-rc-390-2025-precio",
-    "title": "KTM RC 390 2025: la A2 de circuito desde 6.919 €",
-    "excerpt": "La KTM RC 390 2025 desde 6.919 €: 44 CV, 155 kg, ABS en curva y quickshifter para tandas. Deportiva A2 afilada, exigente fuera del circuito.",
+    "title": "KTM RC 390 2025: precio y ficha",
+    "excerpt": "La KTM RC 390 2025 desde 6.919 €: la deportiva A2 más afilada con 44 CV, 155 kg, ABS en curva y quickshifter. Ficha técnica, precio y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -64155,8 +64176,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "aprilia-rs-125-2026-precio",
-    "title": "Aprilia RS 125 2026: precio, 15 CV y chasis de aluminio",
-    "excerpt": "La RS 125 2026 cuesta 5.499 € y ofrece 15 CV, chasis de aluminio y 144 kg. Te contamos su precio, su parte ciclo y si compensa frente a la YZF-R125.",
+    "title": "Aprilia RS 125 2026: precio y ficha",
+    "excerpt": "La Aprilia RS 125 2026 desde 5.499 €: la 125 deportiva con chasis de aluminio, 15 CV y genes de la RSV4. Se conduce con el B. Ficha, precio y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -64174,8 +64195,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "zontes-703r-2025-precio",
-    "title": "Zontes 703R 2025: tricilíndrico de 95 CV desde 6.488 €",
-    "excerpt": "Zontes 703R 2025 desde 6.488 €: naked tricilíndrica de 699 cc y 95 CV, con variante A2 de 35 kW, 196 kg y equipamiento completo de serie.",
+    "title": "Zontes 703R 2025: precio y ficha",
+    "excerpt": "La Zontes 703R 2025 desde 6.488 €: deportiva china con tricilíndrico de 699 cc y 95 CV, versión A2 disponible. Ficha técnica, precio y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -64189,12 +64210,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "zontes 703r opiniones",
       "tricilindrica china 700"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "yamaha-yzf-r125-2026-precio",
-    "title": "Yamaha YZF-R125 2026: 5.799 € con VVA y 142 kg",
-    "excerpt": "La deportiva YZF-R125 2026 cuesta 5.799 €: motor VVA de 15 CV, 142 kg, 540 km de autonomía y carnet A1 o B con tres años.",
+    "title": "Yamaha YZF-R125 2026: precio y ficha",
+    "excerpt": "La Yamaha YZF-R125 2026 desde 5.799 €: la 125 deportiva con motor VVA, 15 CV, 142 kg y 540 km de autonomía. Se conduce con el B. Ficha, precio y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -64212,8 +64233,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "suzuki-gsx-r125-2026-precio",
-    "title": "Suzuki GSX-R125 2026: precio, peso y 15 CV",
-    "excerpt": "La deportiva japonesa de 125 cc arranca en 3.899 €: 15 CV, 134 kg y herencia GSX-R para el A1 o el B con tres años. Datos, precio y valoración.",
+    "title": "Suzuki GSX-R125 2026: precio y ficha",
+    "excerpt": "La Suzuki GSX-R125 2026 desde 3.899 €: la 125 deportiva japonesa más barata con 15 CV, 134 kg y genes GSX-R. Se conduce con el B. Ficha, precio y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -64231,8 +64252,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "triumph-bonneville-t100-2026-precio",
-    "title": "Triumph Bonneville T100 2026: precio y ficha del icono",
-    "excerpt": "La Bonneville T100 2026 arranca en 11.695 € con su twin de 900 cc y 65 CV, electrónica con IMU y garantía de 4 años. Además, se puede limitar al A2.",
+    "title": "Triumph Bonneville T100: precio 2026",
+    "excerpt": "La Triumph Bonneville T100 2026 desde 11.695 €: el icono británico con 65 CV y 4 años de garantía. Limitable al A2. Ficha y precio.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -64246,12 +64267,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "triumph clásica precio",
       "moto custom triumph"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "royal-enfield-classic-350-2026-precio",
-    "title": "Royal Enfield Classic 350 2026: clásica desde 4.887 €",
-    "excerpt": "La Classic 350 2026 une estética vintage, motor J de 20,2 CV y más de 400 km de autonomía por 4.887 € con carnet A2.",
+    "title": "Royal Enfield Classic 350: precio 2026",
+    "excerpt": "La Royal Enfield Classic 350 2026 desde 4.887 €: la custom clásica con 20,2 CV y 400 km de autonomía. Ficha, precio y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -64269,8 +64290,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "royal-enfield-meteor-350-2026-precio",
-    "title": "Royal Enfield Meteor 350: la cruiser A2 más barata",
-    "excerpt": "La Meteor 350 2026 desde 4.589 €: custom A2 con 20 CV, 349 cc, 191 kg y unos 500 km por depósito. Precio, cifras y opinión de la cruiser más económica.",
+    "title": "Royal Enfield Meteor 350: precio 2026",
+    "excerpt": "La Royal Enfield Meteor 350 2026 desde 4.589 €: la cruiser A2 más barata con 20 CV, 191 kg y 500 km de autonomía. Ficha técnica, precio y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -64284,12 +64305,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "royal enfield cruiser",
       "moto custom 350cc"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "honda-cl500-2025-precio",
-    "title": "Honda CL500 2025: scrambler A2 desde 6.100 €",
-    "excerpt": "La CL500 2025, scrambler A2 de Honda desde 6.100 €, con 471 cc, 46 CV, 192 kg y asiento a 790 mm: precio, ficha y veredicto.",
+    "title": "Honda CL500 2025: precio y ficha",
+    "excerpt": "La Honda CL500 2025 desde 6.100 €: la scrambler A2 con 46 CV, 471 cc y estética retro. Ficha técnica, precio y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -64307,8 +64328,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "ducati-scrambler-800-nightshift-2025-precio",
-    "title": "Ducati Scrambler Nightshift 2025: precio y ficha",
-    "excerpt": "La Ducati Scrambler 800 Nightshift 2025 desde 12.990 €: 73 CV, 803 cc, 170 kg en seco y estética nocturna. Precio, ficha y opinión.",
+    "title": "Ducati Scrambler Nightshift: precio",
+    "excerpt": "La Ducati Scrambler 800 Nightshift 2025 desde 12.990 €: la scrambler italiana con 73 CV y estética nocturna. Ficha, precio y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -64322,12 +64343,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "nightshift vs icon",
       "moto scrambler ducati"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "benelli-leoncino-500-2026-precio",
-    "title": "Leoncino 500 2026: precio, motor y opinión",
-    "excerpt": "La Leoncino 500 2026 arranca en 5.490 €: scrambler de 500 cc y 48 CV para el A2, con estética neo-retro, versión Trail y 5 años de garantía en promoción.",
+    "title": "Benelli Leoncino 500: precio 2026",
+    "excerpt": "La Benelli Leoncino 500 2026 desde 5.490 €: la scrambler italiana A2 con 48 CV, 500 cc y estética neo-retro. Ficha técnica, precio y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -64341,12 +64362,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "leoncino 500 trail",
       "moto scrambler a2 barata"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "macbor-eight-mile-500-scr-2026-precio",
-    "title": "Eight Mile 500 SCR 2026: precio y datos clave",
-    "excerpt": "Scrambler española desde 6.999 € con mecánica Honda de 471 cc y 47 CV, depósito de 18 litros y 470 km de autonomía estimada. Precio, datos y veredicto.",
+    "title": "Macbor Eight Mile 500: precio 2026",
+    "excerpt": "La Macbor Eight Mile 500 SCR 2026 desde 6.999 €: la scrambler española con motor Honda de 471 cc, 47 CV y 18 litros. Ficha técnica, precio y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -64360,12 +64381,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "macbor vs honda cl500",
       "moto española 500cc"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "keeway-superlight-125v-2025-precio",
-    "title": "Superlight 125V 2025: la custom 125 más barata",
-    "excerpt": "La Superlight 125V 2025 sigue siendo la puerta barata al custom: 124,6 cc, 10,6 CV, 134 kg, estética chopper y carnet B con 3 años. Precio y opinión.",
+    "title": "Keeway Superlight 125V: ficha 2025",
+    "excerpt": "La Keeway Superlight 125V 2025: la custom 125 más barata con 10,6 CV, 134 kg y estética chopper. Se conduce con el B. Ficha técnica y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -64379,7 +64400,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "moto chopper 125",
       "custom carnet b"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "piaggio-1-plus-2025-ficha-tecnica-precio",
@@ -64514,7 +64535,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "campana-dgt-distracciones-octubre-2026",
     "title": "Campaña DGT 5–11 octubre: móvil, 200 € y 6 puntos",
-    "excerpt": "Del 5 al 11 de octubre, la DGT vigila distracciones al volante con 245 cámaras y más controles: el móvil en la mano cuesta 200 € y 6 puntos.",
+    "excerpt": "Del 5 al 11 de octubre la DGT despliega su campaña nacional contra las distracciones al volante, coordinada con la operación europea Focus on the Road",
     "category": "Actualidad",
     "date": "2026-10-02",
     "locale": "es",
@@ -64531,8 +64552,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "velocidad-variable-ap7-ap2-limites-paneles",
-    "title": "Velocidad variable en la AP-7 y la AP-2: el panel manda",
-    "excerpt": "El panel luminoso de la AP-7 y la AP-2 puede bajar el límite de 120 km/h a 40 km/h según tráfico o niebla. Así se multa y así se recurre.",
+    "title": "Límites velocidad variables: el panel manda en 2026",
+    "excerpt": "En la AP-7 y la AP-2 los 120 km/h ya no están garantizados: los paneles luminosos pueden bajar el límite hasta los 40 km/h según el tráfico o la",
     "category": "Radares y Velocidad",
     "date": "2026-10-02",
     "locale": "es",
@@ -64549,8 +64570,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "balance-siniestralidad-septiembre-2026-dgt",
-    "title": "Septiembre: 87 fallecidos, 29 menos que en 2025",
-    "excerpt": "Balance DGT de septiembre de 2026: 87 fallecidos en 81 siniestros mortales, 29 menos que en 2025. Las convencionales concentran el 69% y la moto resiste.",
+    "title": "87 fallecidos en septiembre: la DGT pide prudencia",
+    "excerpt": "La DGT publica el balance de siniestralidad de septiembre de 2026: 87 fallecidos en 81 siniestros mortales, 29 menos que en 2025. Datos y tablas.",
     "category": "Actualidad",
     "date": "2026-10-02",
     "locale": "es",
@@ -64604,7 +64625,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "peugeot-salon-paris-2026-stand-dos-concepts",
     "title": "Peugeot en París 2026: dos concepts y duelo GTi",
-    "excerpt": "Peugeot lleva a París 2026 un stand de 1.291 m² en el pabellón 4: dos prototipos inéditos, el POLYGON Concept y el duelo E-208 GTi frente al 205 GTi.",
+    "excerpt": "Peugeot desvela su stand del Salón de París 2026: 1.291 m² en el pabellón 4, dos concept-cars de estreno mundial, el POLYGON Concept y una zona",
     "category": "Actualidad",
     "date": "2026-10-03",
     "locale": "es",
@@ -64621,7 +64642,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "alfa-romeo-cuorerosso-concept-salon-paris-2026",
-    "title": "Alfa Romeo Cuorerosso, el prototipo que París espera en 2026",
+    "title": "Alfa Romeo Cuorerosso: el concept de París 2026",
     "excerpt": "Cuorerosso es el nombre del prototipo de Alfa Romeo para París 2026: corazón y rojo, sin motor, precio ni fotos oficiales por ahora.",
     "category": "Actualidad",
     "date": "2026-10-03",
@@ -64676,7 +64697,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "citroen-2cv-electrico-2026-paris",
     "title": "Citroën 2CV eléctrico: el icono vuelve por menos de 15.000 €",
-    "excerpt": "Citroën presenta en París el prototipo del 2CV eléctrico: meta por debajo de 15.000 €, producción en 2028 y todo lo oficial frente a los rumores.",
+    "excerpt": "Citroën desvela el 12 de octubre en París el concept del 2CV eléctrico: objetivo por debajo de 15.000 €. Todo lo confirmado oficialmente, los rumores y",
     "category": "Motor",
     "date": "2026-10-04",
     "locale": "es",
@@ -64711,8 +64732,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "detector-radar-vs-avisador-legal-multa",
-    "title": "Detector de radar: multa de 200 € y 3 puntos",
-    "excerpt": "Un detector cuesta 200 € y 3 puntos; un inhibidor, 6.000 € y 6 puntos. Los avisadores GPS siguen siendo legales: qué dice la norma en 2026.",
+    "title": "Detector de radar: 200€ y 3 puntos",
+    "excerpt": "Llevar un detector de radar son 200€ y 3 puntos; el inhibidor, 6.000€ y 6 puntos. Los avisadores GPS como Waze son legales. La norma vigente en 2026.",
     "category": "Guías Prácticas",
     "date": "2026-10-05",
     "locale": "es",
@@ -64802,7 +64823,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "irlanda-norte-noveles-restriccion-nocturna-multas",
     "title": "Irlanda del Norte: noveles, tope nocturno y 1.000 £",
-    "excerpt": "Desde el 1 de octubre de 2026, Irlanda del Norte limita a los noveles menores de 24 años: un solo pasajero joven de noche y hasta 1.000 £ de multa.",
+    "excerpt": "Irlanda del Norte limita a los noveles desde octubre: un pasajero joven de madrugada y multas de hasta 1.000 £. La UE pedirá lo mismo a España en 2028.",
     "category": "Actualidad",
     "date": "2026-10-07",
     "locale": "es",
@@ -64819,8 +64840,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "multa-carnet-caducado-200-euros",
-    "title": "Carnet caducado: multa de 200 € y cuándo es delito",
-    "excerpt": "Circular con el permiso vencido cuesta 200 € y no resta puntos, pero conducir sin haberlo obtenido nunca o tras perderlos todos es delito.",
+    "title": "¿Carnet caducado? 200 € de multa",
+    "excerpt": "Conducir con el carnet caducado son 200 € de multa, sin puntos. Si nunca tuviste permiso o perdiste todos los puntos, es delito. Te explicamos cada caso.",
     "category": "Actualidad",
     "date": "2026-10-07",
     "locale": "es",
@@ -64856,7 +64877,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "radar-senal-falsa-400-multas-como-recurrir",
     "title": "Multa de radar por señal errónea: recurso paso a paso",
-    "excerpt": "Una señal sustituida provocó más de 400 sanciones en 48 horas en Haldensleben. En España, un límite mal comunicado puede anular la multa: cómo recurrirla.",
+    "excerpt": "Una señal cambiada generó 400 multas en 48 h en Haldensleben. En España, la señalización defectuosa anula multas de radar: cómo recurrir paso a paso.",
     "category": "Radares y Velocidad",
     "date": "2026-10-08",
     "locale": "es",
@@ -64892,7 +64913,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "carril-emergencia-atascos-multa-200-euros",
     "title": "Atascos: abre el pasillo de emergencia o paga 200 €",
-    "excerpt": "Desde el 1 de octubre de 2026 hay que abrir un pasillo de emergencia en los atascos de autopista: cómo apartarse y la multa de 200 € si no lo haces.",
+    "excerpt": "Desde el 1 de octubre, en los atascos de autopista hay que abrir un pasillo de emergencia: cómo hacerlo y la multa de 200 € si no lo haces.",
     "category": "Actualidad",
     "date": "2026-10-09",
     "locale": "es",
@@ -64909,8 +64930,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "motos-arcen-30-kmh-atascos-norma-dgt",
-    "title": "Motos en el arcén: 30 km/h solo en atascos señalizados",
-    "excerpt": "Motos por el arcén a 30 km/h en atascos desde octubre de 2026, solo en tramos con señal: requisitos y multa de 200 €.",
+    "title": "Motos por el arcén: 30 km/h en atascos",
+    "excerpt": "Las motos ya pueden ir por el arcén a 30 km/h en atascos, pero solo en tramos señalizados. Condiciones, multa de 200 € y la polémica.",
     "category": "Actualidad",
     "date": "2026-10-09",
     "locale": "es",
@@ -64923,7 +64944,64 @@ export const BLOG_LITE: BlogLitePost[] = [
       "multa moto arcén indebido 200 euros",
       "RD 518/2026 motos arcén"
     ],
-    "readTime": 6
+    "readTime": 5
+  },
+  {
+    "slug": "nobo-concept-chino-suv-pickup-boton",
+    "title": "NOBO: el concept chino que pasa de SUV a pickup con un botón",
+    "excerpt": "El NOBO de NOBO Auto se transforma de SUV a pickup con un botón: asientos que giran 180°, mesa de picnic, máquina de café y TV oculta en el techo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "es",
+    "heroSrc": "/media/nobo-concept-car.webp",
+    "heroAlt": "NOBO Concept Car: interior con consola central y trasera en modo pickup con la caja extendida",
+    "keywords": [
+      "nobo concept car",
+      "concept car chino nobo",
+      "nobo auto",
+      "suv pickup transformable",
+      "supercar blondie nobo",
+      "concept cars chinos"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "ebro-s400-2027-224-cv-hibrido-eco",
+    "title": "Ebro S400 2027: 224 CV y 5,3 l/100 km con etiqueta ECO",
+    "excerpt": "El nuevo Ebro S400 2027 estrena un híbrido 1.5 TGDI de 224 CV con etiqueta ECO y 5,3 l/100 km. Diseño renovado, más equipamiento, fabricado en Barcelona",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/ebro-s400-2027-224cv-hero.webp",
+    "heroAlt": "Ebro S400 2027 híbrido en blanco, vista tres cuartos delantera con la nueva parrilla octogonal",
+    "keywords": [
+      "ebro s400 2027",
+      "ebro s400 híbrido 224 cv",
+      "ebro s400 nuevo motor 1.5 tgdi",
+      "ebro s400 precio españa",
+      "suv híbrido etiqueta eco 2026",
+      "ebro s400 vs toyota c-hr"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "coche-electrico-siete-veces-diesel-espana-septiembre-2026",
+    "title": "El coche eléctrico vende 7 veces más que el diésel en España",
+    "excerpt": "Septiembre de 2026 marca un hito: se matricularon 17.366 coches eléctricos frente a 2.363 diésel en España. Uno de cada tres turismos fue electrificado.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/electrico-vs-diesel-2026-hero.webp",
+    "heroAlt": "Coche eléctrico moderno cargando en una estación de carga rápida en una ciudad española",
+    "keywords": [
+      "coche eléctrico vende más que diésel",
+      "matriculaciones coches eléctricos septiembre 2026",
+      "fin era diésel españa",
+      "plan auto+ ayudas coche eléctrico",
+      "ventas coches eléctricos españa 2026",
+      "cuota diésel españa 2026"
+    ],
+    "readTime": 4
   },
   {
     "slug": "omoda-5-gasolina-2026-precio-ficha-tecnica",
@@ -65553,7 +65631,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "multa-patinete-sin-registro-1220-euros",
     "title": "Patinete sin registro ni seguro: multa de 1.220 €",
-    "excerpt": "Hasta 1.220 € por circular en patinete sin registro DGT ni seguro: la OCU avisa de que solo 140.000 de 4 millones están inscritos.",
+    "excerpt": "Multa de hasta 1.220 € por ir en patinete sin registro DGT ni seguro, más inmovilización. La OCU avisa: solo 140.000 de 4 millones están registrados.",
     "category": "Actualidad",
     "date": "2026-10-05",
     "locale": "es",
@@ -65572,7 +65650,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "xiaomi-electric-scooter-5-max",
     "title": "Xiaomi Electric Scooter 5 Max: precio y autonomía real",
-    "excerpt": "El Xiaomi Electric Scooter 5 Max cuesta unos 600 € y promete 60 km: doble suspensión, E-ABS, 477 Wh y certificado DGT. Su autonomía real, aquí.",
+    "excerpt": "El Xiaomi Electric Scooter 5 Max por ~600 €: 60 km declarados, doble suspensión hidráulica, intermitentes y certificado DGT. Ficha y análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -65592,8 +65670,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "xiaomi-electric-scooter-4-pro-2nd-gen",
-    "title": "Xiaomi 4 Pro 2nd Gen: 60 km, 19 kg y 549,99 €",
-    "excerpt": "Segunda generación del Xiaomi 4 Pro: mantiene 400 W, 468 Wh y 60 km declarados, suma intermitentes E-Mark y cuesta 549,99 €. Pesa solo 19 kg.",
+    "title": "Xiaomi 4 Pro 2nd Gen: precio, autonomía y ficha",
+    "excerpt": "El Xiaomi Electric Scooter 4 Pro 2nd Gen por ~550 €: 60 km declarados, 19 kg, intermitentes E-Mark y certificado DGT. Análisis completo.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -65613,8 +65691,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "xiaomi-electric-scooter-4-lite-2nd-gen",
-    "title": "Xiaomi 4 Lite 2nd Gen: el patinete eléctrico más barato",
-    "excerpt": "El Xiaomi 4 Lite 2nd Gen cuesta unos 255 euros, pesa 16,2 kilos y declara 25 km: entrada barata y ligera al patinete eléctrico, con límites claros.",
+    "title": "Xiaomi 4 Lite 2nd Gen: el más barato",
+    "excerpt": "El Xiaomi Electric Scooter 4 Lite 2nd Gen por ~255 €: 16,2 kg, 25 km declarados y precio mínimo. Análisis honesto de sus límites.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -65634,8 +65712,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "xiaomi-electric-scooter-6",
-    "title": "Xiaomi Electric Scooter 6: ruedas grandes de 12 pulgadas",
-    "excerpt": "El Xiaomi Electric Scooter 6 llega a Europa en febrero de 2026 con ruedas tubeless de 12 pulgadas, homologación DGT y precio cercano a 400 €.",
+    "title": "Xiaomi Electric Scooter 6: ruedas de 12\" y DGT",
+    "excerpt": "El Xiaomi Electric Scooter 6 (2026) por ~400 €: ruedas de 12\", 45 km declarados, IPX5 y serie homologada DGT. Análisis completo.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -65651,12 +65729,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "nueva serie xiaomi scooter 6",
       "patinete eléctrico 400 euros 2026"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "xiaomi-electric-scooter-6-lite",
-    "title": "Xiaomi 6 Lite: homologado DGT y suspensión delantera",
-    "excerpt": "Xiaomi Electric Scooter 6 Lite por unos 330 €: homologación DGT de serie, horquilla delantera de doble muelle y 25 km anunciados. Análisis y ficha.",
+    "title": "Xiaomi Electric Scooter 6 Lite: precio",
+    "excerpt": "El Xiaomi Electric Scooter 6 Lite por ~330 €: serie homologada DGT, suspensión delantera y 25 km declarados. Análisis completo.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -65676,8 +65754,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "xiaomi-electric-scooter-6-pro",
-    "title": "Xiaomi Scooter 6 Pro: campero, con TCS y 70 km",
-    "excerpt": "La variante Pro de la serie 6 de Xiaomi apuesta por el campo: rueda grande de 12\", doble suspensión, TCS y 70 km anunciados por unos 550 €.",
+    "title": "Xiaomi Electric Scooter 6 Pro: 70 km y ruedas 12\"",
+    "excerpt": "El Xiaomi Electric Scooter 6 Pro por ~550 €: 70 km declarados, doble suspensión, TCS y ruedas todoterreno de 12\". Análisis completo.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -65697,8 +65775,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "xiaomi-electric-scooter-6-max",
-    "title": "Xiaomi 6 Max: TFT a color y doble disco por 650 €",
-    "excerpt": "El Xiaomi 6 Max ronda los 650 € con pantalla TFT de 3 pulgadas, doble disco, suspensión hidráulica, IPX6 y Apple Find My; su autonomía real ronda 45 km.",
+    "title": "Xiaomi Electric Scooter 6 Max: pantalla TFT",
+    "excerpt": "El Xiaomi Electric Scooter 6 Max por ~650 €: pantalla TFT de 3\", doble disco, IPX6 y Apple Find My. Análisis honesto.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -65718,8 +65796,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "xiaomi-electric-scooter-6-ultra",
-    "title": "Xiaomi Scooter 6 Ultra: Boost de 1200 W y 75 km",
-    "excerpt": "Tope de gama de Xiaomi por 799,99 €: Boost de 1200 W, 75 km declarados, batería de 585 Wh, 140 kg de carga y certificado DGT.",
+    "title": "Xiaomi Electric Scooter 6 Ultra: 1200 W y 75 km",
+    "excerpt": "El Xiaomi Electric Scooter 6 Ultra por 799,99 €: modo Boost de 1200 W, 75 km declarados, 140 kg de carga y DGT. Análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -65735,12 +65813,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "xiaomi 6 ultra homologado",
       "patinete eléctrico potente 2026"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "segway-ninebot-max-g3",
-    "title": "Segway MAX G3 E: 80 km, carga rápida y TFT",
-    "excerpt": "El Ninebot MAX G3 E ronda los 900 € en tienda: promete 80 km, recarga en 3,5 h, suspensión hidráulica doble y certificado DGT Tipo 1.",
+    "title": "Segway MAX G3 E: 80 km de autonomía y pantalla TFT",
+    "excerpt": "El Segway Ninebot MAX G3 E por ~900 €: 80 km declarados, carga en 3,5 h, doble suspensión hidráulica y certificado DGT. Análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -65756,12 +65834,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "segway max g3 vs xiaomi 6 ultra",
       "patinete eléctrico 900 euros"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "segway-ninebot-f3-pro",
-    "title": "Segway Ninebot F3 Pro E: 70 km, pantalla TFT y DGT, ~650 €",
-    "excerpt": "Patinete de 19,3 kg con 550 W nominales, 70 km anunciados, TFT a color con navegación y certificado DGT Tipo 1 / VPL, en torno a 650 €.",
+    "title": "Segway F3 Pro E: 70 km, TFT y 19,3 kg",
+    "excerpt": "El Segway Ninebot F3 Pro E por ~650 €: 70 km declarados, pantalla TFT con navegación, TCS y certificado DGT en 19,3 kg.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -65781,8 +65859,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "segway-ninebot-e3-pro",
-    "title": "Segway E3 Pro E: 17,9 kg y doble suspensión por 450 €",
-    "excerpt": "Pesa 17,9 kg, amortigua en ambos ejes y cuesta 449,99 €: el E3 Pro E de Segway-Ninebot, con papeles DGT y 55 km anunciados.",
+    "title": "Segway E3 Pro E: ligero, homologado y 450 €",
+    "excerpt": "El Segway Ninebot E3 Pro E por ~450 €: 17,9 kg, doble suspensión, intermitentes y homologación DGT. Análisis completo.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -65798,12 +65876,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete eléctrico 450 euros",
       "segway e3 pro vs e2 pro"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "segway-ninebot-e2-pro",
-    "title": "Segway E2 Pro E: homologado desde 329 €",
-    "excerpt": "El KickScooter E2 Pro E de Segway-Ninebot combina certificado DGT, intermitentes, localización Apple y recarga de 5 horas por unos 330 €.",
+    "title": "Segway E2 Pro E: el homologado más barato",
+    "excerpt": "El Segway Ninebot E2 Pro E por ~330 €: certificado DGT, carga en 5 h, intermitentes y Apple Find My. El Segway más barato.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -65823,8 +65901,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "segway-ninebot-gt3-e",
-    "title": "Segway Ninebot GT3 E: alcance de 95 km y 150 kg",
-    "excerpt": "Patinete grande de Segway con 95 km declarados en Eco, 2400 W de pico y 150 kg de carga: sin precio estable, con doble disco y DGT sin verificar.",
+    "title": "Segway GT3 E: 95 km y 150 kg de carga máxima",
+    "excerpt": "El Segway Ninebot GT3 E: 95 km en modo Eco, 2400 W de pico, 150 kg de carga y 39,5 kg de peso. La bestia de Segway, analizada.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -65844,8 +65922,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "niu-kqi-300p",
-    "title": "NIU KQi 300P: frenada doble disco por ~500 €",
-    "excerpt": "El NIU KQi 300P cuesta 499 € (329 € en oferta): doble disco, suspensión hidráulica, 48 km y certificado DGT. La apuesta segura de NIU.",
+    "title": "NIU KQi 300P: doble disco y 5 h de carga",
+    "excerpt": "El NIU KQi 300P por ~500 €: doble freno de disco, suspensión hidráulica, 48 km declarados y certificado DGT. Análisis completo.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -65886,8 +65964,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "niu-kqi-200f",
-    "title": "NIU KQi 200F: manillar abatible y 54 km por ~500 €",
-    "excerpt": "El KQi 200F añade al 200P un manillar que se pliega hasta 17,4 cm, con 54 km anunciados, 350 W y certificado DGT. Precio, alcance real y frenos.",
+    "title": "NIU KQi 200F: el 200P con manillar plegable",
+    "excerpt": "El NIU KQi 200F por ~500 €: como el 200P pero con manillar plegable de 17,4 cm. 54 km, DGT y app NIU. Análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -65903,12 +65981,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete maletero coche",
       "niu kqi 200f autonomía"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "niu-kqi-100p",
-    "title": "NIU KQi 100P: el patinete asequible que sorprende",
-    "excerpt": "El NIU KQi 100P ronda los 350 €, pesa 17,3 kg y trae suspensión hidráulica y certificado DGT. Un urbano corto con una construcción que sorprende.",
+    "title": "NIU KQi 100P: el NIU barato que sí merece la pena",
+    "excerpt": "El NIU KQi 100P por ~350 €: 17,3 kg, suspensión hidráulica, homologado DGT y gran calidad por su precio según mp365.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -65928,8 +66006,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "navee-s40",
-    "title": "Navee S40: confort de suspensión por 499,99 €",
-    "excerpt": "Suspensión de doble brazo, localización Apple y unos 17 kilos: el urbano de Navee a 499,99 €, con un aviso serio sobre su homologación.",
+    "title": "Navee S40: suspensión ShockMaster por 500 €",
+    "excerpt": "El Navee S40 por 499,99 €: suspensión ShockMaster de doble brazo, Apple Find My y 40 km declarados. Análisis honesto.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -65945,12 +66023,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "navee s40 vs xiaomi",
       "patinete suspensión shockmaster"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "navee-gt3-max",
-    "title": "Navee GT3 Max: 75 km, 1000 W y doble suspensión",
-    "excerpt": "Largo alcance de Navee con 75 km anunciados, 1000 W de pico, doble suspensión, certificado DGT y carga de 10 horas: luces y sombras del GT3 Max.",
+    "title": "Navee GT3 Max: 75 km y certificado DGT",
+    "excerpt": "El Navee GT3 Max: 75 km declarados, 1000 W de pico, doble suspensión y certificado DGT. Análisis de sus luces y sombras.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -65970,8 +66048,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "navee-st3-pro",
-    "title": "Navee ST3 Pro: frenada triple y 1350 W de pico",
-    "excerpt": "El ST3 Pro de Navee ronda los 800 € con freno triple, amortiguación de cuatro brazos, 75 km declarados y rampas del 28 %, pero sin DGT verificado.",
+    "title": "Navee ST3 Pro: triple freno y 1350 W",
+    "excerpt": "El Navee ST3 Pro por ~800 €: triple freno, suspensión cuádruple, 75 km y 28 % de pendiente. Análisis honesto.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66013,7 +66091,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "acer-es-series-5-advance",
     "title": "Acer ES Series 5 Advance: 60 km, DGT y 677,59 €",
-    "excerpt": "Patinete de 500 W con pico de 833 W, batería de 576 Wh y 60 km declarados, con intermitentes LED y homologación DGT por 677,59 €.",
+    "excerpt": "El Acer ES Series 5 Advance: 500 W con pico de 833 W, 576 Wh, 60 km declarados e intermitentes LED. Homologado DGT por 677,59 €. Ficha y análisis completo.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
@@ -66029,12 +66107,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "acer escooter 500w",
       "patinete eléctrico con intermitentes"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "aprilia-esr2-evo",
-    "title": "Aprilia eSR2 EVO: 500 W, 691 Wh y doble suspensión",
-    "excerpt": "Aprilia eSR2 EVO: 500 W con picos de 700 W, batería de 691 Wh, suspensión en ambos ejes y 50 km declarados por 786,10 €.",
+    "title": "Aprilia eSR2 EVO: 500 W y 691 Wh para exigentes",
+    "excerpt": "El Aprilia eSR2 EVO: 500 W con pico de 700 W, batería de 691 Wh, doble suspensión y 50 km declarados por 786,10 €. Análisis completo.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
@@ -66054,8 +66132,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "cecotec-bongo-serie-a-plus-max-45-connected",
-    "title": "Bongo Max 45 Connected: batería extraíble por 449 €",
-    "excerpt": "El Bongo Serie A+ Max 45 Connected de Cecotec: acumulador extraíble de 461 Wh, 13,5 kg, 45 km anunciados y homologación DGT por 449 €.",
+    "title": "Cecotec Bongo Serie A+ Max 45: batería extraíble",
+    "excerpt": "El Cecotec Bongo Serie A+ Max 45 Connected: batería extraíble de 461 Wh, 13,5 kg, 45 km declarados y homologación DGT por 449 €. Superventas analizado.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
@@ -66071,12 +66149,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "cecotec bongo 45 km autonomía",
       "bongo serie a+ vs xiaomi"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "ducati-pro-3",
-    "title": "Ducati Pro-III: llave NFC, 17,5 kg y 799 €",
-    "excerpt": "Patinete urbano con llave NFC, bastidor de magnesio de 17,5 kg, ruedas tubeless de 10 pulgadas y 50 km anunciados, a 799 €: así rinde el Ducati Pro-III.",
+    "title": "Ducati Pro-III: NFC, magnesio y 50 km",
+    "excerpt": "El Ducati Pro-III: desbloqueo NFC, chasis de magnesio, tubeless antipinchazos y 50 km declarados por 799 €. El más tecnológico de Ducati, analizado.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
@@ -66118,7 +66196,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "cecotec-bongo-d40-xl-connected",
     "title": "Bongo D40 XL Connected: 40 km y app por ~458 €",
-    "excerpt": "El Cecotec Bongo D40 XL Connected ronda los 458 €: 350 W, 360 Wh, 40 km declarados, ruedas de 10 pulgadas y app con bloqueo antirrobo.",
+    "excerpt": "El Cecotec Bongo D40 XL Connected por ~458 €: 40 km declarados, 360 Wh, ruedas de 10\" y app Connected. Ficha técnica y análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66134,7 +66212,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete eléctrico 350w 40 km",
       "cecotec bongo d40 vs d40 xl"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "cecotec-bongo-d20-xl-connected",
@@ -66160,7 +66238,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "cecotec-bongo-d20-mobile",
     "title": "Cecotec Bongo D20 Mobile: el acceso más simple",
-    "excerpt": "El D20 Mobile es el Bongo de entrada: 250 W, 180 Wh y 20 km anunciados para el último kilómetro, con ruedas hinchables y protección IPX4.",
+    "excerpt": "El Cecotec Bongo D20 Mobile: 250 W, 20 km declarados, 180 Wh y ruedas de 8,5\". El Bongo minimalista para el último kilómetro.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66176,12 +66254,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete último kilómetro",
       "patinete eléctrico ligero barato"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "cecotec-bongo-serie-s-infinity",
-    "title": "Bongo Serie S Infinity: el Cecotec urbano homologado",
-    "excerpt": "El Bongo Serie S Infinity sube la Serie S al máximo: 350 W, 30 km anunciados, ruedas tubeless de 10 pulgadas, e-ABS regenerativo y homologación DGT.",
+    "title": "Cecotec Bongo Serie S Infinity: ficha y precio",
+    "excerpt": "El Cecotec Bongo Serie S Infinity: 350 W, 30 km, tubeless de 10\", e-ABS regenerativo y homologación DGT. Análisis completo.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66201,8 +66279,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "cecotec-bongo-gs50-xxl-connected",
-    "title": "Cecotec Bongo GS50 XXL Connected: 50 km por 369 €",
-    "excerpt": "El Bongo GS50 XXL Connected de Cecotec cuesta 369 € y anuncia 50 km con 450 Wh, amortiguación en ambos ejes, 120 kg de carga y certificado DGT.",
+    "title": "Cecotec Bongo GS50 XXL: 50 km por 369 €",
+    "excerpt": "El Cecotec Bongo GS50 XXL Connected por 369 €: 50 km declarados, 450 Wh, doble suspensión, 120 kg de carga y homologación DGT.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66222,8 +66300,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "cecotec-bongo-serie-a-advance-connected-max",
-    "title": "Bongo Serie A Advance Connected Max: 15 kg y 45 km",
-    "excerpt": "El Bongo Serie A Advance Connected Max combina 460 Wh, 15 kg y 45 km anunciados con triple frenada, batería extraíble y certificado DGT.",
+    "title": "Cecotec Bongo A Advance Connected Max: 45 km",
+    "excerpt": "El Cecotec Bongo Serie A Advance Connected Max: 45 km declarados, 460 Wh, 15 kg, triple frenada, app y homologación DGT. Análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66243,8 +66321,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "cecotec-bongo-d40-xl-suspension-connected",
-    "title": "Cecotec Bongo D40 XL Suspension Connected: 386 €",
-    "excerpt": "El Bongo D40 XL Suspension Connected cuesta 386 € en Pixmania: añade suspensión al D40 XL, mantiene 350 W, 40 km declarados y la app Connected.",
+    "title": "Cecotec Bongo D40 XL Suspension: precio",
+    "excerpt": "El Cecotec Bongo D40 XL Suspension Connected por 386 €: la variante del D40 XL con suspensión, 40 km y app Connected.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66260,12 +66338,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "d40 xl connected opiniones",
       "patinete 40 km con suspensión"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "cecotec-bongo-z-plus",
-    "title": "Cecotec Bongo Z+: 500 W, 50 km y suspensión SXƧ",
-    "excerpt": "El Bongo Z+ (07306) combina 500 W nominales, 480 Wh, 50 km declarados y pantalla táctil: el tope de gama de Cecotec en patinetes.",
+    "title": "Cecotec Bongo Z+: 500 W y 50 km, ficha técnica",
+    "excerpt": "El Cecotec Bongo Z+ (07306): 500 W nominales, 1000 W de pico, 50 km, suspensión SXƧ y pantalla táctil. El Bongo más ambicioso.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66285,7 +66363,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "cecotec-bongo-serie-a-advance-connected",
-    "title": "Bongo Serie A Advance Connected: el Cecotec de 35 km",
+    "title": "Cecotec Bongo A Advance Connected: 35 km",
     "excerpt": "El Cecotec Bongo Serie A Advance Connected (07028): 35 km declarados, triple frenada, tubeless de 8,5\" y app completa. Ficha y análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
@@ -66306,8 +66384,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "smartgyro-rockway-evo",
-    "title": "Rockway Evo: 50 km declarados por unos 505 €",
-    "excerpt": "El Rockway Evo, acceso a la gama Rockway: 500 W, 50 km declarados y ruedas de 10 pulgadas por unos 505 €. Análisis completo.",
+    "title": "Smartgyro Rockway Evo: precio y ficha técnica",
+    "excerpt": "El Smartgyro Rockway Evo por ~505 €: 50 km declarados, 500 W y ruedas de 10\". La entrada a la gama Rockway. Ficha y análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66323,12 +66401,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "rockway evo vs pro",
       "patinete eléctrico 50 km barato"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "smartgyro-rockway-pro-evo",
-    "title": "Smartgyro Rockway Pro Evo: suspensión regulable y NFC",
-    "excerpt": "El monomotor más completo de Smartgyro: 800 W, 60 km anunciados, suspensión regulable, ruedas Dualgrip de 10\" y desbloqueo NFC por 799 €.",
+    "title": "Smartgyro Rockway Pro Evo: 800 W y 60 km",
+    "excerpt": "El Smartgyro Rockway Pro Evo por 799 €: 800 W, 60 km, doble suspensión regulable, tubeless Dualgrip y NFC. Análisis completo.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66344,7 +66422,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "rockway pro evo vs gt",
       "patinete 799 euros"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "smartgyro-rockway-gt",
@@ -66391,7 +66469,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "smartgyro-rockway-gts",
     "title": "Smartgyro Rockway GTS: rutero español con 60 km",
-    "excerpt": "Rockway GTS por 690-779 €: 60 km anunciados, 800 W, certificado DGT y red española. Análisis con datos oficiales frente a tiendas.",
+    "excerpt": "El Smartgyro Rockway GTS por 779 €: 60 km declarados, 800 W y certificado DGT. El rutero puro de la gama Rockway. Ficha y análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66433,7 +66511,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "smartgyro-k1",
     "title": "Smartgyro K1: 499 € con placa DGT y solo 20 kg",
-    "excerpt": "El K1 de Smartgyro cuesta 499 €, pesa 20 kg, declara 50 km y ya circula con homologación DGT y placa. Un patinete sensato para el día a día.",
+    "excerpt": "El Smartgyro K1 por 499 €: 500 W, 1300 W de pico, 50 km, 20 kg, NFC y homologación DGT con placa. El Smartgyro racional.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66449,7 +66527,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "smartgyro k1 opiniones",
       "smartgyro nfc app"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "smartgyro-k5-pro-lr",
@@ -66496,7 +66574,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "dualtron-thunder-3",
     "title": "Dualtron Thunder 3: 10800 W y 100 km/h solo para circuito",
-    "excerpt": "El Thunder 3 de Minimotors (2025) es una bestia de circuito: 10800 W de pico, 2880 Wh, 100 km/h y 125 km anunciados. En España no es legal en la calle.",
+    "excerpt": "El Dualtron Thunder 3 (2025): doble motor de 2500 W, 10800 W de pico, 2880 Wh, 100 km/h y 125 km. La bestia de Minimotors.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66580,7 +66658,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "dualtron-togo",
     "title": "Dualtron TOGO: urbano, legal y con tres baterías",
-    "excerpt": "El TOGO baja la gama Dualtron a la calle: 420 W, 25 km/h y tres baterías de 20, 30 o 40 km, con doble tambor y ABS. Guía de elección.",
+    "excerpt": "El Dualtron TOGO: 420 W, 25 km/h, doble tambor + ABS y baterías de 20, 30 o 40 km. El Dualtron para la calle.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66596,12 +66674,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "dualtron togo opiniones",
       "minimotors togo"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "dualtron-togo-plus",
-    "title": "Dualtron TOGO Plus: 720 Wh Samsung y DGT por 799 €",
-    "excerpt": "TOGO Plus por 799 €: motor de 600 W, batería Samsung de 720 Wh, 50 km declarados, doble tambor y homologación DGT.",
+    "title": "Dualtron TOGO Plus: homologado DGT por 799 €",
+    "excerpt": "El Dualtron TOGO Plus por 799 €: 600 W, 50 km, 720 Wh Samsung, doble tambor y homologación DGT. El Dualtron con sentido.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66617,12 +66695,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "dualtron legal españa",
       "patinete samsung 720wh"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "dualtron-spider-2",
-    "title": "Dualtron Spider 2: 3.600 W y 26,2 kg de pura ligereza",
-    "excerpt": "Patinete Dualtron Spider 2: potencia pico de 3.600 W, acumulador LG de 1.800 Wh, 105 km anunciados y 80 km/h, en un chasis de apenas 26,2 kg.",
+    "title": "Dualtron Spider 2: 3600 W en 26 kg",
+    "excerpt": "El Dualtron Spider 2: 3600 W de pico, 1800 Wh LG, 105 km y solo 26,2 kg. La mejor relación peso/potencia de Dualtron.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66638,7 +66716,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "dualtron spider opiniones",
       "minimotors spider 2"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "kaabo-mantis-urban",
@@ -66685,7 +66763,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "kaabo-mantis-x-pro",
     "title": "Kaabo Mantis X Pro: doble motor y hasta 75 km",
-    "excerpt": "El Kaabo Mantis X Pro (2025), desde el King GT: Pro con doble 800 W, hasta 75 km y frenos hidráulicos. Versiones ECO y Pro, precio y legalidad.",
+    "excerpt": "El Kaabo Mantis X Pro (2025): doble motor de 800 W, hasta 75 km, frenos hidráulicos y base del King GT. Novedad Kaabo.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66701,12 +66779,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "kaabo king gt pequeño",
       "mantis x opiniones"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "kaabo-mantis-10-eco",
-    "title": "Kaabo Mantis 10 Eco: ligero, con 1600 W de pico",
-    "excerpt": "Patinete Kaabo de 21,8 kg con doble motor, batería de 624 Wh y más de 50 km en modo eco: potencia seria en un chasis ligero, con matices legales.",
+    "title": "Kaabo Mantis 10 Eco: 624 Wh en 21,8 kg",
+    "excerpt": "El Kaabo Mantis 10 Eco: 500 W, 1600 W de pico, 624 Wh, 21,8 kg y 50+ km en modo eco. El Kaabo ligero con chispa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66722,7 +66800,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "kaabo 50 km eco",
       "patinete 10 pulgadas ligero"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "kaabo-wolf-king-gtr",
@@ -66748,7 +66826,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "kaabo-wolf-warrior-x-gt",
     "title": "Kaabo Wolf Warrior X GT: 110 km con doble motor",
-    "excerpt": "Doble motor de 1100 W, batería de 1728 Wh y 110 km declarados, limitado a 25 km/h: el Wolf Warrior X GT domesticado para el día a día.",
+    "excerpt": "El Kaabo Wolf Warrior X GT: doble 1100 W, 1728 Wh, 110 km, 25 km/h limitado e hidráulicos de 140 mm. El Wolf racional.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66764,12 +66842,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "kaabo hidráulicos 140mm",
       "patinete 38 kg"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "kaabo-skywalker-8s",
-    "title": "Kaabo Skywalker 8S: patinete ligero con 800 W traseros",
-    "excerpt": "Patinete urbano de 22 kg con motor trasero de 800 W, batería de 672 Wh y rueda trasera maciza antipinchazos. Alcance anunciado de 45 km.",
+    "title": "Kaabo Skywalker 8S: 800 W en 22 kg",
+    "excerpt": "El Kaabo Skywalker 8S: 800 W traseros, 672 Wh, 45 km y 22 kg con rueda trasera sólida. El Kaabo compacto con genio.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66785,7 +66863,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete compacto potente",
       "kaabo 672 wh"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "kaabo-mantis-8-eco-800",
@@ -66874,7 +66952,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "vsett-9-apex",
     "title": "Vsett 9 Apex: doble motor legal a 25 km/h",
-    "excerpt": "Doble motor de 2 × 650 W capado a 25 km/h, batería LG de 922 Wh, hasta 70 km declarados y cierre NFC: fuerza con cabeza.",
+    "excerpt": "El Vsett 9 Apex: doble motor de 2x650 W limitado a 25 km/h, 922 Wh, 70 km declarados y NFC. Potencia con cabeza.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66999,8 +67077,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "nami-burn-e-3-max",
-    "title": "Nami Burn-e 3 Max: hiperpatinete de 8.400 W y 150 km",
-    "excerpt": "Doble motor, 8.400 W de pico, batería de 2.880 Wh y hasta 150 km: el Burn-e 3 Max es el patinete más extremo de Nami. Precio y autonomía real.",
+    "title": "Nami Burn-e 3 Max: 8.400 W y 150 km de autonomía",
+    "excerpt": "El Nami Burn-e 3 Max es el hiperpatinete definitivo: doble motor de 1.500 W, 8.400 W de pico, batería de 2.880 Wh y 105 km/h. Precio y ficha completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -67045,8 +67123,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "nami-klima",
-    "title": "Nami Klima: doble motor y 5.360 W en solo 38 kg",
-    "excerpt": "El Nami Klima baja el Burn-e a 38 kg sin perder el doble motor: 1.000 W por rueda, 5.360 W de pico y 1.500 Wh para unos 44 km reales.",
+    "title": "Nami Klima: el Burn-e compacto de 5.360 W",
+    "excerpt": "El Nami Klima condensa lo mejor del Burn-e en 38 kg: doble motor de 1.000 W, 5.360 W de pico y batería de 1.500 Wh. Ficha técnica completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -67068,8 +67146,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "nami-klima-max",
-    "title": "Nami Klima Max: batería LG de 1.800 Wh por 2.449 €",
-    "excerpt": "Doble motor, celdas LG y 85-90 km anunciados: el Klima Max sube a 70 km/h y pesa unos 38 kg. Precio, autonomía real y norma española.",
+    "title": "Nami Klima Max: 90 km de autonomía por 2.449 €",
+    "excerpt": "El Nami Klima Max añade batería LG de 1.800 Wh al Klima: 85-90 km declarados, 5.360 W de pico y 70 km/h. Precio y ficha técnica.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -67091,8 +67169,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "nami-blast",
-    "title": "Nami Blast: tracción en dos ruedas por 2.299 €",
-    "excerpt": "Dos motores de 1.000 W, 1.680 Wh y unos 40 km reales por 2.299 €: el Blast es el acceso más económico a la gama extrema de Nami, sin homologación DGT.",
+    "title": "Nami Blast: doble motor por 2.299 €",
+    "excerpt": "El Nami Blast es el doble motor más barato de la marca: 2.000 W, batería de 1.680 Wh y 60 km por 2.299 €. Ficha técnica y opiniones.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -67110,12 +67188,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "nami electric blast",
       "patinete tracción total"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "nami-blast-max",
-    "title": "Nami Blast Max: 8.400 W de pico y 100 km en un Blast",
-    "excerpt": "El Blast Max traslada el empuje del Burn-e a un chasis más ligero: 2 × 1.500 W, 8.400 W de pico, 2.400 Wh, 100 km y 80 km/h. Precio y legalidad.",
+    "title": "Nami Blast Max: 8.400 W en formato Blast",
+    "excerpt": "El Nami Blast Max lleva el Blast al extremo: doble motor de 1.500 W, 8.400 W de pico, batería de 2.400 Wh y 100 km. Ficha completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -67137,8 +67215,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "teverun-fighter-11",
-    "title": "Teverun Fighter 11: potencia doble y 85 km/h, sin DGT",
-    "excerpt": "El Fighter 11 combina dos motores, batería LG y frenos Zoom por unos 2.250 €. Alcance real, precio y límites legales en España.",
+    "title": "Teverun Fighter 11: 5.000 W por 2.250 €",
+    "excerpt": "El Teverun Fighter 11 es el superventas de la marca: doble motor de 1.200 W, batería LG de 1.500 Wh, frenos Zoom hidráulicos y 85 km/h. Precio y ficha.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -67156,7 +67234,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete doble motor 1200w",
       "teverun fighter homologación"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "teverun-fighter-11-plus",
@@ -67183,8 +67261,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "teverun-fighter-supreme",
-    "title": "Teverun Fighter Supreme: 10.000 W por 4.500 €",
-    "excerpt": "Hiperpatinete 7260R con 10.000 W de pico, 4.320 Wh, 200 km anunciados y 120 km/h. Cuesta 4.499,90 € y solo cabe en circuito privado en España.",
+    "title": "Teverun Fighter Supreme: 10.000 W y 120 km/h",
+    "excerpt": "El Teverun Fighter Supreme 7260R es el patinete de serie más potente: 10.000 W de pico, batería de 4.320 Wh, 200 km y 120 km/h. Precio y ficha.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -67206,8 +67284,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "teverun-blade-gt-2",
-    "title": "Teverun Blade GT II: 85 km/h con doble motor",
-    "excerpt": "Con dos motores de 1.600 W, baterías de hasta 2.100 Wh y 85 km/h de punta, el Blade GT II resulta más manejable que un Fighter. Guía completa.",
+    "title": "Teverun Blade GT II: doble motor de 1.600 W",
+    "excerpt": "El Teverun Blade GT II ofrece doble motor de 1.600 W, hasta 2.100 Wh de batería y 85 km/h en un chasis más ágil que el Fighter. Ficha completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -67298,8 +67376,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "inmotion-air",
-    "title": "InMotion Air: urbano ligero de 15,6 kg y 720 W",
-    "excerpt": "Patinete urbano pensado para combinar con transporte público: pesa 15,6 kg, entrega 720 W de pico, declara 35 km y protege con IP55. Datos y mantenimiento.",
+    "title": "InMotion Air: 15,6 kg y 720 W de pico",
+    "excerpt": "El InMotion Air es el urbano ligero bien hecho: 15,6 kg, motor de 350 W con 720 W de pico, 35 km e IP55. Ficha técnica y mantenimiento.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -67317,12 +67395,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "inmotion app",
       "patinete urbano ligero"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "inmotion-air-pro",
-    "title": "InMotion Air Pro: 48 km sin pasar de 17,7 kg",
-    "excerpt": "El Air Pro estira el Air con 438 Wh: 48 km anunciados, 750 W de pico y solo 17,7 kg, con rueda trasera maciza y carga de 8,5 horas.",
+    "title": "InMotion Air Pro: 48 km de autonomía",
+    "excerpt": "El InMotion Air Pro añade batería de 438 Wh al Air: 48 km declarados, 750 W de pico y 17,7 kg. Ficha técnica y diferencias con el Air.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -67390,8 +67468,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "inmotion-s1f",
-    "title": "InMotion S1F: 625 €, 675 Wh y 59 km reales",
-    "excerpt": "InMotion S1F por 625 €: batería 675 Wh, motor 500 W con pico 1.000 W, 80-95 km declarados, 59 km reales y 24 kg. Limitarlo a 25 km/h en España.",
+    "title": "InMotion S1F: 95 km por 625 €",
+    "excerpt": "El InMotion S1F rompe el mercado: 675 Wh, 80-95 km declarados, 500 W y 24 kg por 625 €. Ficha técnica y por qué es tan barato.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -67409,7 +67487,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete barato gran autonomía",
       "inmotion s1f 625"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "inmotion-l9",
@@ -67436,8 +67514,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "hiboy-s2-lite",
-    "title": "Hiboy S2 Lite: el patinete de 9,9 kg para ir al metro",
-    "excerpt": "El Hiboy S2 Lite pesa 9,9 kg, rinde 250 W y promete 17 km: el patinete ultraligero pensado para combinar con metro, bus o tren.",
+    "title": "Hiboy S2 Lite: 9,9 kg para el último kilómetro",
+    "excerpt": "El Hiboy S2 Lite pesa 9,9 kg: motor de 250 W, 17 km y formato pluma para combinar con transporte público. Ficha técnica completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -67666,8 +67744,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "iscooter-ix5s",
-    "title": "iScooter iX5S: fuerza todoterreno por menos de 500 €",
-    "excerpt": "El iX5S une motor de 1.000 W, batería de 720 Wh y 150 kg de carga por unos 430 €, con doble suspensión y ruedas de taco de 11 pulgadas.",
+    "title": "iScooter iX5S: 1.000 W por 486 €",
+    "excerpt": "El iScooter iX5S es el caballo de batalla: 1.000 W, 720 Wh, 64 km, 150 kg de carga y doble suspensión por 486 €. Ficha y vídeo.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -67758,8 +67836,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "kukirin-g4",
-    "title": "KuKirin G4: 2.000 W y 75 km por 859 €",
-    "excerpt": "El KuKirin G4 ofrece 2.000 W, 1.200 Wh, 70 km/h y 75 km anunciados por 859 €, con suspensión de largo recorrido y frenos de disco.",
+    "title": "KuKirin G4: 2.000 W por 859 €",
+    "excerpt": "El KuKirin G4 es potencia bruta barata: 2.000 W con 2.400 W de pico, 1.200 Wh, 70 km/h y 75 km por 859 €. Ficha técnica completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -67850,8 +67928,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "kukirin-g2-ultra",
-    "title": "KuKirin G2 Ultra: dos motores, 55 km y pantalla táctil",
-    "excerpt": "Con dos motores de 800 W, 864 Wh y pantalla táctil, el G2 Ultra cuesta unos 680 € y promete 55 km. Aquí va su autonomía real y su punto débil.",
+    "title": "KuKirin G2 Ultra: doble motor y pantalla táctil",
+    "excerpt": "El KuKirin G2 Ultra añade tracción total al G2: 2x800 W, pantalla táctil, 864 Wh y 50 km/h por ~680 €. Ficha técnica completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -67869,7 +67947,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete smart display",
       "kukirin 2x800w"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "kukirin-m5-pro",
@@ -67919,8 +67997,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "joyor-lr10",
-    "title": "Joyor LR10: tracción total, 1.080 Wh y compra de ocasión",
-    "excerpt": "Doble motor de 2.000 W, batería de 1.080 Wh y hasta 92 km anunciados: qué daba el LR10, por qué ya no se vende nuevo y cómo acertar si lo buscas usado.",
+    "title": "Joyor LR10: doble motor y 92 km declarados",
+    "excerpt": "El Joyor LR10: doble motor 2x1.000 W, 1.080 Wh y hasta 92 km declarados (60–75 km reales). Ruedas off-road de 10 pulgadas.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68032,8 +68110,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "bogist-m3-pro",
-    "title": "Bogist M3 Pro: urbano compacto de 350 W y 24 LED",
-    "excerpt": "El Bogist M3 Pro combina 350 W, 270 Wh y un frontal de 24 LED en un patinete urbano de acceso: autonomía real, frenos y precio en España.",
+    "title": "Bogist M3 Pro: 350 W urbano con luces LED",
+    "excerpt": "El Bogist M3 Pro sube a 350 W con batería de 270 Wh, amortiguadores y un frontal de 24 LED. Precio, autonomía y ficha técnica.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68049,12 +68127,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete eléctrico luces led",
       "bogist m3 pro review"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "bogist-c1-pro",
-    "title": "Bogist C1 Pro: 550 W, sillín y 45 km/h de punta",
-    "excerpt": "Sillín desmontable, 550 W con picos de 800 W, 40 km anunciados y doble suspensión: el C1 Pro une potencia y asiento, limitado a 25 km/h.",
+    "title": "Bogist C1 Pro: 550 W y sillín extraíble",
+    "excerpt": "El Bogist C1 Pro apuesta por la potencia: 550 W (800 W de pico), 40 km de autonomía, doble suspensión y sillín extraíble. Ficha completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68074,8 +68152,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "bogist-m5-pro",
-    "title": "Bogist M5 Pro: minimoto con sillín y cesta, 429 €",
-    "excerpt": "Patinete con asiento que parece una minimoto: motor de 500 W, batería de 624 Wh, ruedas de 12 pulgadas, sillín con respaldo y cesta por unos 429 €.",
+    "title": "Bogist M5 Pro: 500 W, 624 Wh y sillín por 429 €",
+    "excerpt": "El Bogist M5 Pro es el todoterreno de la marca: 500 W, batería de 624 Wh, ruedas de 12 pulgadas, sillín y cesta por unos 429 €.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68095,8 +68173,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "bogist-m5-pro-s",
-    "title": "Bogist M5 Pro S: minimoto eléctrica con sillín por 429 €",
-    "excerpt": "Minimoto eléctrica con sillín y 720 Wh: el Bogist M5 Pro S promete 40 km, frena con doble disco y cuesta 429 €, pero hay que limitarlo a 25 km/h.",
+    "title": "Bogist M5 Pro S: 720 Wh y 40 km por 429 €",
+    "excerpt": "El Bogist M5 Pro S sube la apuesta: batería de 720 Wh, 40 km de autonomía, ruedas de 12,5 pulgadas y doble disco por 429 €.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68112,12 +68190,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "bogist m5 pro s autonomía",
       "patinete con sillín barato"
     ],
-    "readTime": 8
+    "readTime": 6
   },
   {
     "slug": "bogist-m5-pro-plus",
-    "title": "Bogist M5 Pro+: sillín, cesta y 55 km declarados",
-    "excerpt": "El M5 de mayor alcance de Bogist une asiento y cesta con 720 Wh, 55 km anunciados, doble disco y ruedas de 12 pulgadas. Análisis completo.",
+    "title": "Bogist M5 Pro+: 55 km de autonomía con sillín",
+    "excerpt": "El Bogist M5 Pro+ es el M5 con más rango: 55 km declarados gracias a sus 720 Wh, con sillín, cesta y doble disco. Ficha técnica.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68137,8 +68215,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "aovopro-esmax",
-    "title": "Aovopro ESMAX: 500 W y suspensión cuádruple",
-    "excerpt": "El Aovopro ESMAX es el tope de gama de la marca: 500 W, 609 Wh, 43 km anunciados y suspensión cuádruple. Precio de mercado y ficha completa.",
+    "title": "Aovopro ESMAX: 500 W y 609 Wh, el patinete tope de gama",
+    "excerpt": "El Aovopro ESMAX es lo máximo de la marca: 500 W, batería de 609 Wh, 43 km declarados y cuádruple suspensión. Precio y ficha.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68154,12 +68232,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "aovopro esmax autonomía",
       "aovopro esmax review"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "aovopro-365-go",
-    "title": "Aovopro 365 Go: patinete de 12,5 kg por 199 €",
-    "excerpt": "Alternativa liviana y económica dentro de la gama Aovopro: motor de 350 W, 12,5 kilos, aplicación móvil y 20 km homologados por alrededor de 199 €.",
+    "title": "Aovopro 365 Go: 350 W ligero por 199 €",
+    "excerpt": "El Aovopro 365 Go es el hermano pequeño del ES80: 350 W, 12,5 kg, app propia y 20 km de autonomía por unos 199 €. Ficha técnica.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68221,8 +68299,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "evercross-h7",
-    "title": "Evercross H7: patinete con sillín, 800 W y 720 Wh",
-    "excerpt": "Evercross H7 por ~550 €: patinete con asiento extraíble, motor de 800 W, batería de 720 Wh, 30 km reales y certificación UL2272.",
+    "title": "Evercross H7: 800 W, 720 Wh y certificación UL",
+    "excerpt": "El Evercross H7 es el mejor de la serie H: 800 W, 720 Wh, 45 km declarados, certificación UL2272 y sillín, por ~550 €.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68238,12 +68316,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "evercross h7 autonomía",
       "evercross h7 amazon"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "evercross-h9",
-    "title": "Evercross H9 2026: patinete con sillín de solo 20 kg",
-    "excerpt": "El H9 recorta peso hasta 20 kg con motor de 800 W, batería de 672 Wh y sillín extraíble: autonomía anunciada de 45 km y precio cercano a 610 €.",
+    "title": "Evercross H9: el H con sillín más ligero",
+    "excerpt": "El Evercross H9 aligera la serie H: 800 W, 672 Wh y sillín en solo 20 kg, con 45 km declarados por ~610 €. Ficha técnica.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68259,12 +68337,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "evercross h9 autonomía",
       "patinete 800w 20 kg"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "evercross-ev10k-pro",
-    "title": "Evercross EV10K Pro: 500 W con intermitentes por ~275 €",
-    "excerpt": "El EV10K Pro de Evercross reúne 500 W, 410 Wh, intermitentes delanteros y traseros y 150 kg de carga por unos 275 €. Análisis completo.",
+    "title": "Evercross EV10K Pro: 500 W e intermitentes",
+    "excerpt": "El Evercross EV10K Pro es el punto dulce de la marca: 500 W, 410 Wh, intermitentes y 150 kg de carga por ~275 €. Ficha completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68284,8 +68362,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "evercross-ev85f",
-    "title": "Evercross EV85F: patinete ligero de 350 W por 230 €",
-    "excerpt": "El EV85F de Evercross pesa 15 kg, rinde unos 20 km reales y se controla desde la app: repaso de precio, frenos y límites legales en España.",
+    "title": "Evercross EV85F: 350 W con app por 230 €",
+    "excerpt": "El Evercross EV85F es el urbanita barato: 350 W, 15 kg, app propia y doble freno por ~230 €. Precio, autonomía y ficha.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68305,8 +68383,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "evercross-ev08e",
-    "title": "Evercross EV08E: patinete con sillín por 230 €",
-    "excerpt": "Asiento de serie por unos 230 €: así es el EV08E, un patinete de 350 W con doble disco, 32 km declarados y ruedas que no pinchan.",
+    "title": "Evercross EV08E: el más barato con sillín",
+    "excerpt": "El Evercross EV08E pone sillín a un 350 W por ~230 €: doble disco, 32 km declarados y plegable. La opción más barata con asiento.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68322,12 +68400,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete con asiento 230 euros",
       "evercross ev08e vs h5"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "evercross-ev10-max",
-    "title": "Evercross EV10 Max: 1.200 W y 64 km declarados",
-    "excerpt": "El Evercross EV10 Max encabeza la gama con 1.200 W y 64 km declarados, pero llega sin precio oficial, sin batería publicada y sin certificado DGT.",
+    "title": "Evercross EV10 Max: 1.200 W y 64 km",
+    "excerpt": "El Evercross EV10 Max es el tope de la marca: 1.200 W, 64 km declarados y neumáticos de 10 pulgadas. Ficha técnica y análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68368,8 +68446,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "minimotors-dualtron-victor-luxury-plus",
-    "title": "Dualtron Victor Luxury Plus: el patinete alto de 4.400 W",
-    "excerpt": "El Victor alto de Minimotors: dos motores, 2.100 Wh, bastidor elevado 60 mm y pantalla EY4, desde 1.890 € en España.",
+    "title": "Dualtron Victor Luxury Plus: 4.400 W de pico",
+    "excerpt": "El Dualtron Victor Luxury Plus sube el listón: doble motor de 2.000 W, hasta 2.100 Wh, chasis alto y pantalla EY4 desde 1.890 €.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68385,7 +68463,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete 4400w",
       "dualtron victor luxury plus autonomía"
     ],
-    "readTime": 8
+    "readTime": 7
   },
   {
     "slug": "minimotors-dualtron-eagle-pro",
@@ -68410,8 +68488,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "currus-panther",
-    "title": "Currus Panther NF11: hiperpatinete coreano de 5.400 W",
-    "excerpt": "Currus Panther NF11: doble motor de 1.200 W, batería Samsung de 2.100 Wh y 80 km/h. En España solo circula limitado a 25 km/h; hoy, de segunda mano.",
+    "title": "Currus Panther NF11: 5.400 W coreanos",
+    "excerpt": "El Currus Panther NF11 es la alternativa coreana al Dualtron Thunder: 5.400 W de pico, 2.100 Wh y 120 km declarados. Ficha completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68427,7 +68505,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "currus panther vs dualtron thunder",
       "currus panther autonomía"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "currus-nf",
@@ -68452,8 +68530,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "currus-nf10-plus",
-    "title": "Currus NF10 Plus: el patinete sin ficha oficial",
-    "excerpt": "El Currus NF10 Plus existe, pero sin ficha oficial: solo se conoce su batería de 60 V y 28 Ah (1.680 Wh), su doble motor y su precio de repuesto, 1.077 €.",
+    "title": "Currus NF10 Plus: el eslabón perdido",
+    "excerpt": "El Currus NF10 Plus es el modelo entre el NF y el Panther del que casi no hay datos oficiales: 1.680 Wh y plataforma de doble motor.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68469,7 +68547,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete currus modelos",
       "currus nf10 plus autonomía"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "bronco-xtreme-11",
@@ -68515,8 +68593,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "etwow-gt-se",
-    "title": "E-TWOW GT SE: gran autonomía en solo 13,2 kg",
-    "excerpt": "El GT SE de E-TWOW combina 500 W, batería Samsung de 504 Wh y 50 km de alcance con un peso pluma de 13,2 kg. Precio, autonomía real y normativa.",
+    "title": "E-TWOW GT SE: 50 km con 13,2 kg",
+    "excerpt": "El E-TWOW GT SE es el GT de más autonomía: 500 W, 504 Wh, 50 km declarados y solo 13,2 kg. Precio, ficha y mantenimiento.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68536,8 +68614,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "etwow-gt-se-sport",
-    "title": "E-TWOW GT SE Sport: 1.000 W con solo 12,3 kg",
-    "excerpt": "El GT SE Sport con Kit Sport une 1.000 W de pico, 504 Wh y app Bluetooth en 12,3 kg, por 1.240 €. Alcance, frenos y legalidad, aquí.",
+    "title": "E-TWOW GT SE Sport: 1.000 W en 12,3 kg",
+    "excerpt": "El E-TWOW GT SE Sport con Kit Sport: 1.000 W de pico en 12,3 kg, 504 Wh y app Bluetooth por 1.240 € en España. Ficha completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68557,8 +68635,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "egret-ey-1",
-    "title": "Egret Ey! 1: tope alemán con suspensión doble y 65 km",
-    "excerpt": "Desde Hamburgo llega el tope de la familia Ey!: doble amortiguación, 65 km anunciados, 500 W nominales y 1.512 W de pico por 1.299 €.",
+    "title": "Egret Ey! 1: 1.512 W de pico alemanes",
+    "excerpt": "El Egret Ey! 1 es el buque insignia de la nueva familia: 500 W (1.512 W de pico), 65 km de autonomía y doble suspensión por 1.299 €.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68574,7 +68652,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "egret ey 1 autonomía",
       "egret hamburgo patinete"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "egret-ey-2",
@@ -68599,8 +68677,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "egret-ey-3",
-    "title": "Egret Ey! 3: patinete alemán ultraligero de última milla",
-    "excerpt": "Modelo de acceso de la gama Ey!: 350 W, batería de 275 Wh, 30 km anunciados y 18,6 kg, con homologación alemana y suiza.",
+    "title": "Egret Ey! 3: el alemán ligero de 18,6 kg",
+    "excerpt": "El Egret Ey! 3 es el acceso a la familia: 350 W, 275 Wh, 30 km declarados y solo 18,6 kg con homologación alemana.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68616,7 +68694,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "egret ey 3 autonomía",
       "patinete 18 kg"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "egret-ey-6",
@@ -68704,8 +68782,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "turboant-m10-lite",
-    "title": "Turboant M10 Lite: 14 kg y plegado en 3 segundos",
-    "excerpt": "El acceso a Turboant: motor de 350 W, 14 kg, 25 km anunciados y plegado en 3 segundos por unos 230 €, pensado para el campus y trayectos cortos.",
+    "title": "Turboant M10 Lite: 350 W por 230 €",
+    "excerpt": "El Turboant M10 Lite es el acceso a la marca: 350 W, 14 kg, 25 km declarados y plegado en 3 segundos por ~230 €. Ficha completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68747,7 +68825,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "soflow-so-one-plus",
     "title": "SoFlow SO ONE+: 500 W en solo 17 kg",
-    "excerpt": "El SO ONE+ combina 500 W nominales con 17 kg, 40 km declarados y carga en 3,5 h. Análisis, ficha y comparativa con el SO4 Pro Gen 2.",
+    "excerpt": "SoFlow SO ONE+: 500 W nominales, 40 km declarados, solo 17 kg y carga en 3,5 h. El SoFlow ligero con motor serio. Ficha y análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68767,8 +68845,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "soflow-so4-pro-gt",
-    "title": "SoFlow SO4 Pro GT: patinete suizo de 864 Wh y 100 km",
-    "excerpt": "SO4 Pro GT: batería desmontable de 864 Wh, 100 km anunciados y un pico de 1.600 W con 70 Nm. Alcance real, precio y comparativa con el Gen 2.",
+    "title": "SoFlow SO4 Pro GT: 1.600 W y 100 km de autonomía",
+    "excerpt": "SoFlow SO4 Pro GT: 1.600 W de pico, 70 Nm, batería extraíble de 864 Wh y 100 km declarados. El SoFlow más ambicioso. Ficha y análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68784,12 +68862,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete potente europa",
       "soflow so4 pro gt vs gen 2"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "soflow-so2-air-gen-3",
-    "title": "SoFlow SO2 Air Gen 3: 15 kg, 350 W y 30 km",
-    "excerpt": "El acceso a SoFlow pesa alrededor de 15 kg, rinde 350 W y anuncia 30 km, con plataforma amplia y desbloqueo NFC desde la app. Análisis completo.",
+    "title": "SoFlow SO2 Air Gen 3: ligero con app y NFC",
+    "excerpt": "SoFlow SO2 Air Gen 3: unos 15 kg, 350 W, 30 km declarados, plataforma ancha y app con NFC. El SoFlow de entrada. Ficha y análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68809,8 +68887,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "walberg-egret-pro",
-    "title": "Egret Pro: patinete alemán de 80 km y freno hidráulico",
-    "excerpt": "El urbano premium de Walberg: 500 W, batería Samsung de 840 Wh, candado en el chasis y doble disco hidráulico. Alcance, peso y rivales, explicados.",
+    "title": "Egret Pro: 80 km y frenos hidráulicos alemanes",
+    "excerpt": "Egret Pro de Walberg Urban Electrics: 500 W, 80 km declarados, batería de 840 Wh, frenos hidráulicos y candado integrado. Análisis completo.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68826,12 +68904,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete alemán",
       "egret vs soflow"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "walberg-egret-ey-1",
-    "title": "Egret Ey! 1: patinete premium con 1.502 W de pico",
-    "excerpt": "El Egret Ey! 1 combina 500 W nominales con picos de 1.502 W, 65 km anunciados y suspensión en ambos ejes, con base Yadea y acabado Egret. Análisis.",
+    "title": "Egret Ey! 1: 1.500 W de pico y suspensión total",
+    "excerpt": "Egret Ey! 1: 500 W nominales con picos de 1.502 W, 65 km declarados, suspensión integral y 40 Nm. Lo nuevo de Walberg con Yadea. Análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68847,12 +68925,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "walberg egret 2024",
       "patinete premium alemán"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "walberg-egret-ey-6",
-    "title": "Egret Ey! 6: la entrada premium a los patinetes Egret",
-    "excerpt": "Con 450 W y 55 km anunciados, el Egret Ey! 6 baja el listón de acceso a la gama Ey! sin renunciar a intermitentes ni a su acabado cuidado.",
+    "title": "Egret Ey! 6: el acceso a la gama Ey!",
+    "excerpt": "Egret Ey! 6: 450 W, 55 km declarados y el acabado premium de Walberg Urban Electrics a precio contenido. La puerta de entrada a la gama Ey!.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68868,12 +68946,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "egret ey 6 vs ey 1",
       "patinete alemán barato"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "walberg-egret-gt",
-    "title": "Egret GT: ruedas de 13 pulgadas y batería extraíble",
-    "excerpt": "El tope de Walberg: 1.350 W de pico, 59 Nm, ruedas tubeless de 13 pulgadas, batería extraíble de 100 km y suspensión hidráulica regulable. Pesa 32 kg.",
+    "title": "Egret GT: 13 pulgadas y 1.350 W, el tope Egret",
+    "excerpt": "Egret GT: 1.350 W de pico, 59 Nm, ruedas de 13 pulgadas, batería extraíble de 100 km y suspensión premium. El tope de Walberg Urban Electrics.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68889,12 +68967,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "egret tope gama",
       "patinete premium 2025"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "isinwheel-s10max",
-    "title": "iSinwheel S10Max: todoterreno eléctrico de 1.000 W",
-    "excerpt": "Patinete todoterreno con 60 km declarados, batería de 720 Wh y motor de 1.000 W: suspensión en las dos ruedas, ruedas de 10\" y app con bloqueo.",
+    "title": "iSinwheel S10Max: 1.000 W y 60 km declarados",
+    "excerpt": "iSinwheel S10Max: motor de 1.000 W, batería de 720 Wh, 60 km declarados, doble suspensión y neumáticos todoterreno. Análisis completo.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68910,12 +68988,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete todoterreno",
       "isinwheel españa"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "isinwheel-s10pro",
-    "title": "iSinwheel S10Pro: 600 Wh, triple freno y 51 km declarados",
-    "excerpt": "El S10Pro une 500 W nominales, 600 Wh y doble suspensión en un urbano de 20,2 kg. Precio fuera de catálogo, alcance real y frenada triple, analizados.",
+    "title": "iSinwheel S10Pro: 500 W nominales (800 W pico), 51 km",
+    "excerpt": "iSinwheel S10Pro: 500 W nominales (800 W de pico), 600 Wh, 51 km declarados y doble suspensión. El punto medio de la gama S10. Análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68956,8 +69034,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "isinwheel-s9pro",
-    "title": "iSinwheel S9Pro: 11,8 kg, 350 W y 25–30 km prometidos",
-    "excerpt": "El S9Pro es el patinete más ligero de iSinwheel: 11,8 kg, 350 W y 25–30 km prometidos para el metro y el último kilómetro. Peso real y límites, analizados.",
+    "title": "iSinwheel S9Pro: 11,8 kg para el día a día",
+    "excerpt": "iSinwheel S9Pro: solo 11,8 kg, 350 W y 31 km declarados. El iSinwheel más ligero, pensado para el metro y el último kilómetro.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68973,7 +69051,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "isinwheel s9pro opiniones",
       "patinete metro"
     ],
-    "readTime": 9
+    "readTime": 10
   },
   {
     "slug": "isinwheel-s10plus",
@@ -68999,7 +69077,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "gotrax-gx1",
     "title": "Gotrax GX1: doble motor 2x600 W y 56 km",
-    "excerpt": "El GX1 monta dos motores de 600 W, doble suspensión y 720 Wh, con 56 km anunciados, por 1.499 $ (a menudo 999 $). Análisis completo.",
+    "excerpt": "Gotrax GX1: doble motor de 2x600 W, 56 km declarados, doble suspensión y 720 Wh por ~999 $. El doble motor más barato. Análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -69040,8 +69118,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "gotrax-g6",
-    "title": "Gotrax G6: 500 W, 720 Wh y candado para el día a día",
-    "excerpt": "Un urbano equilibrado de Gotrax: candado integrado, doble disco, 56 km declarados y batería LG de 720 Wh con motor de 500 W. Sin venta oficial en España.",
+    "title": "Gotrax G6: 500 W y 720 Wh, el más sensato",
+    "excerpt": "Gotrax G6: 500 W, batería LG de 720 Wh, 56 km declarados, doble disco y candado integrado. El Gotrax más redondo para Europa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -69057,7 +69135,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete batería lg",
       "gotrax europa"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "gotrax-gxl-v2",
@@ -69083,7 +69161,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "gotrax-g3-plus",
     "title": "Gotrax G3 Plus: patinete de 300 W y 29 km",
-    "excerpt": "El G3 Plus de Gotrax rinde 300 W, promete 29 km y ronda los 319 $ en Estados Unidos: un urbano ligero para ciudad llana, sin venta oficial en España.",
+    "excerpt": "Gotrax G3 Plus: 300 W, 29 km declarados y unos 319 $ en EE. UU. Un escalón por encima del GXL V2. Ficha y análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -69099,7 +69177,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete 29 km autonomía",
       "gotrax barato"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "gotrax-gx-zero",
@@ -69145,8 +69223,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "apollo-go",
-    "title": "Apollo Go 2024: doble motor, 48 km y solo 21 kg",
-    "excerpt": "Apollo Go 2024: tracción total con dos motores de 350 W, batería de 540 Wh, 48 km homologados y un peso de solo 21 kg. Análisis completo.",
+    "title": "Apollo Go 2024: doble motor en 21 kg",
+    "excerpt": "Apollo Go 2024: doble motor de 2x350 W, 540 Wh, 48 km declarados y solo 21 kg. El Apollo compacto con tracción total. Análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -69162,11 +69240,11 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete 21 kg",
       "apollo go review"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "razor-c25",
-    "title": "Razor C25: rueda delantera de 12,5\" para calles con baches",
+    "title": "Razor C25: la rueda grande que suaviza baches",
     "excerpt": "Razor C25: rueda delantera de 12,5 pulgadas, motor trasero de 250 W, 29 km declarados y tres modos. El Razor adulto clásico. Análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
@@ -69293,7 +69371,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "zwheel-zwolf-duo",
     "title": "Zwheel ZWolf Duo: doble motor y DGT",
-    "excerpt": "El Zwheel ZWolf Duo trae doble motor, certificado DGT, doble disco y app: la apuesta española de 2025, ficha y análisis.",
+    "excerpt": "Zwheel ZWolf Duo: doble motor, certificado DGT, doble disco y app. La gran apuesta española de 2025. Ficha y análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -69309,12 +69387,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete español doble motor",
       "zwheel gama zwolf"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "urban-glide-e-cross-pro-2",
     "title": "Urban Glide E-Cross Pro 2: todoterreno eléctrico por 510 €",
-    "excerpt": "El patinete mixto de Urban Glide: doble disco, 624 Wh, 50 km anunciados y un precio francés que ronda los 510 €.",
+    "excerpt": "Urban Glide E-Cross Pro 2: 800 W de pico, 624 Wh y 50 km declarados. Precio en Europa, autonomía real, frenos y ficha técnica completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -69334,8 +69412,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "urban-glide-ecross-go",
-    "title": "Urban Glide eCross Go: 1200 W por menos de 500 €",
-    "excerpt": "1.200 W de pico, 499 Wh, intermitentes e IPX5 por unos 480 € en Francia: el eCross Go apuesta por la potencia a precio contenido.",
+    "title": "Urban Glide eCross Go: 1.200 W por menos de 500 €",
+    "excerpt": "Urban Glide eCross Go: 1.200 W de pico, 499 Wh, intermitentes e IPX5 por unos 480 €. Ficha técnica, autonomía real y opiniones.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -69355,8 +69433,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "urban-glide-all-road-6-2x2",
-    "title": "Urban Glide All Road 6 2x2: doble motor por ~690 €",
-    "excerpt": "Dos motores de 800 W, 874 Wh y 80 km anunciados por unos 690 € en Francia: el All Road 6 2x2 es el tracción total más asequible, aunque pesa 30 kg.",
+    "title": "Urban Glide All Road 6 2x2: tracción total barata",
+    "excerpt": "Urban Glide All Road 6 2x2: doble motor de 800 W, 874 Wh y 80 km declarados por ~690 €. Ficha técnica y autonomía real.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -69376,8 +69454,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "urban-glide-ride-100-pro-2",
-    "title": "Urban Glide Ride 100 Pro 2: autonomía para días",
-    "excerpt": "El Urban Glide Ride 100 Pro 2 combina un motor de 500 W con una batería de 624 Wh y 40 km declarados, en un urbano de 23 kg. Precio y autonomía real.",
+    "title": "Urban Glide Ride 100 Pro 2: 624 Wh en urbano",
+    "excerpt": "Urban Glide Ride 100 Pro 2: 500 W, batería de 624 Wh y 40 km declarados. Ficha técnica, autonomía real y veredicto.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -69393,7 +69471,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete urbano batería grande",
       "ride 100 pro 2 opiniones"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "urban-glide-ride-100-max",
@@ -69419,7 +69497,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "urban-glide-1000gt-2x2",
     "title": "Urban Glide 1000GT 2x2: doble motor y 100 km",
-    "excerpt": "Hyper-scooter francés con dos motores de 1.000 W, 2.800 W de pico, batería de 1.217 Wh y 100 km declarados, frenos hidráulicos y desbloqueo NFC.",
+    "excerpt": "Urban Glide 1000GT 2x2: doble motor de 1.000 W, 2.800 W de pico, 1.217 Wh y 100 km declarados. Ficha técnica del hyper-scooter francés.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -69435,7 +69513,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete 1217 wh",
       "urban glide 1000gt autonomía"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "urban-glide-all-road-2",
@@ -69502,8 +69580,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "urban-glide-e-cross-pro-boost-2",
-    "title": "E-Cross Pro Boost 2: doble motor por 649,99 €",
-    "excerpt": "Doble motor 2x800 W, 600 Wh y 60 km declarados por 649,99 €: el E-Cross Pro Boost 2, con seis suspensiones y doble disco, al detalle.",
+    "title": "Urban Glide E-Cross Pro Boost 2: 2x800 W por 650 €",
+    "excerpt": "Urban Glide E-Cross Pro Boost 2: doble motor 2x800 W, 600 Wh, 60 km y seis suspensiones por 649,99 €. Ficha técnica completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -69519,7 +69597,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "urban glide 1600w",
       "tracción total 650 euros"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "urban-glide-500ct",
@@ -69544,7 +69622,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "urban-glide-all-road-5",
-    "title": "Urban Glide All Road 5: 800 W y 40 km por 509,99 €",
+    "title": "Urban Glide All Road 5: 800 W por 510 €",
     "excerpt": "Patinete de 800 W, batería de 480 Wh y 40 km declarados por 509,99 €, con suspensión trasera y una nota de usuarios de 2,3/5 que invita a la prudencia.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
@@ -69629,7 +69707,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "urban-glide-eon-x",
     "title": "Urban Glide EON X: fuerza bruta para rutas largas",
-    "excerpt": "El EON X combina 2.200 W nominales y picos de 4.000 W con una batería de 1.800 Wh: declara 140 km y ronda 90-100 km reales, limitado a 25 km/h.",
+    "excerpt": "Urban Glide EON X: 2.200 W nominales, 4.000 W de pico, 1.800 Wh y 140 km declarados con ruedas de 12\". La bestia de Urban Glide.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -69645,7 +69723,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete ruedas 12 pulgadas",
       "hyper scooter urban glide"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "urban-glide-urbanride-85-plus",
@@ -69755,7 +69833,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "hiley-maxspeed-x10",
     "title": "Hiley MaxSpeed X10: 873 Wh, 55 km y 50 km/h",
-    "excerpt": "Con 600 W, batería de 873 Wh, 55 km de alcance y 50 km/h de punta, el Hiley MaxSpeed X10 es un rutero veloz que en España no encaja como VMP.",
+    "excerpt": "Hiley MaxSpeed X10: 600 W, 873 Wh, hasta 55 km y 50 km/h de punta. El rutero rápido de Hiley, ficha completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70343,7 +70421,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "xiaomi-electric-scooter-6-essential",
     "title": "Xiaomi Electric Scooter 6 Essential: ligero y urbano",
-    "excerpt": "El Essential de la serie 6 de Xiaomi: 16,3 kg, motor de 300 W, 25 km declarados y plegado en 3 pasos, pensado para la ciudad.",
+    "excerpt": "El Xiaomi Electric Scooter 6 Essential: 300 W, 25 km de autonomía, 16,3 kg y plegado en 3 pasos. La puerta de entrada a la serie 6.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70358,12 +70436,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete eléctrico ligero 16 kg",
       "xiaomi scooter 6 essential vs 6"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "segway-ninebot-e2-ii",
-    "title": "Segway Ninebot E2 II: urbano económico con suspensión",
-    "excerpt": "El E2 II renueva el urbano asequible de Segway: muelle delantero, direccionales, 25 km anunciados y ruedas macizas de 8,1 pulgadas en solo 16,2 kg.",
+    "title": "Segway Ninebot E2 II: el urbano barato renovado",
+    "excerpt": "El Segway Ninebot E2 II renueva el urbano de entrada: suspensión delantera, intermitentes, 25 km y neumáticos sin pinchazos. Análisis completo.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70378,12 +70456,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete eléctrico barato segway",
       "segway e2 segunda generación"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "segway-ninebot-gt3-pro-e",
-    "title": "Segway Ninebot GT3 Pro E: potencia de circuito, tope legal",
-    "excerpt": "Doble motor de 6000 W y acumulador de 2160 Wh en un patinete europeo capado a 25 km/h: 90 km anunciados, 53,1 kg y frenada hidráulica.",
+    "title": "Segway Ninebot GT3 Pro E: 6000 W limitados a 25 km/h",
+    "excerpt": "El Segway Ninebot GT3 Pro E trae 6000 W, batería de 2160 Wh y frenos hidráulicos a Europa, limitado a 25 km/h. El SuperScooter domesticado.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70398,12 +70476,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "segway superscooter gt3 pro",
       "gt3 pro e vs gt3"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "segway-ninebot-zt3-max",
-    "title": "Segway Ninebot ZT3 Max: todoterreno con oro en IFA 2026",
-    "excerpt": "Segway presenta en Berlín su todoterreno ZT3 Max, galardonado en la IFA 2026 y con llegada en octubre: qué está confirmado y qué falta por publicar.",
+    "title": "Segway ZT3 Max: el todoterreno premiado en la IFA",
+    "excerpt": "El Segway ZT3 Max ganó el oro en la IFA 2026 antes de salir: el nuevo todoterreno llega a Europa en octubre. Todo lo que se sabe.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70418,12 +70496,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "segway ifa 2026",
       "patinete offroad eléctrico"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "segway-ninebot-max-g3-pro",
-    "title": "Segway Max G3 Pro: oro en IFA y llegada en octubre",
-    "excerpt": "Segway presentó en la IFA de Berlín el Max G3 Pro, galardonado por su tecnología de larga distancia, con llegada europea en octubre de 2026.",
+    "title": "Segway Max G3 Pro: el largo alcance premiado en IFA",
+    "excerpt": "El Segway Max G3 Pro ganó el oro en la IFA 2026 por su tecnología de largo alcance. Llega a Europa en octubre: todo lo anunciado.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70442,8 +70520,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "navee-gt3-pro",
-    "title": "Navee GT3 Pro: rutero de 60 km, suspensión doble y TCS",
-    "excerpt": "El GT3 Pro de Navee declara 60 km, amortigua en ambos ejes y suma TCS y Apple Find My. Sin precio oficial en España: qué ofrece y qué conviene saber.",
+    "title": "Navee GT3 Pro: 60 km con doble suspensión",
+    "excerpt": "El Navee GT3 Pro ofrece 60 km, doble suspensión, control de tracción y Apple Find My. El rutero de Navee analizado a fondo.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70458,12 +70536,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete 60 km autonomía",
       "navee gt3 pro vs xiaomi"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "navee-v25",
-    "title": "Navee V25: patinete ligero de 17,1 kg y 25 km",
-    "excerpt": "El Navee V25 pesa 17,1 kg, se carga en 4 horas y declara 25 km: urbano ligero para trayectos cortos y combinar con transporte público.",
+    "title": "Navee V25: el urbano ligero de 17 kg",
+    "excerpt": "El Navee V25 pesa 17,1 kg, carga en 4 horas y ofrece 25 km. El urbano ligero de Navee para trayectos cortos, analizado.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70482,8 +70560,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "navee-v25i-pro-ii",
-    "title": "Navee V25i Pro II: horquilla, TCS y Find My por 17,7 kg",
-    "excerpt": "El V25i Pro II añade horquilla, control de tracción y Apple Find My al V25, en un urbano de 17,7 kilos que carga en 4,5 horas.",
+    "title": "Navee V25i Pro II: suspensión y TCS en 17,7 kg",
+    "excerpt": "El Navee V25i Pro II suma horquilla delantera, control de tracción y Apple Find My al V25. El urbano equipado de Navee, a fondo.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70502,8 +70580,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "navee-v40i-pro",
-    "title": "Navee V40i Pro: 40 km declarados con solo 17,7 kg",
-    "excerpt": "El V40i Pro declara 40 km y pesa 17,7 kg, con motor de 350 W, batería de 275 Wh y versión española a 25 km/h. A esa velocidad ronda los 25 km.",
+    "title": "Navee V40i Pro: 40 km y 17,7 kg, el equilibrio",
+    "excerpt": "El Navee V40i Pro combina 40 km declarados con solo 17,7 kg y motor de 350 W. El punto dulce de la serie V, analizado.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70518,12 +70596,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete 40 km autonomía ligero",
       "navee v40i pro vs v50i"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "navee-v40i-pro-ii",
-    "title": "Navee V40i Pro II: horquilla, TCS y Find My en 17,7 kg",
-    "excerpt": "El Navee V40i Pro II suma horquilla, TCS y Apple Find My a los 40 km y 17,7 kg del V40i Pro. Precio, autonomía real y DGT.",
+    "title": "Navee V40i Pro II: el V40 definitivo con TCS",
+    "excerpt": "El Navee V40i Pro II añade horquilla delantera, control de tracción y Apple Find My al V40i Pro. El Navee de 40 km más completo.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70538,12 +70616,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "navee v40i pro vs pro ii",
       "patinete 40 km ligero"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "navee-v50i-pro",
-    "title": "Navee V50i Pro: 50 km de autonomía en 18,3 kg",
-    "excerpt": "El Navee V50i Pro promete 50 km por carga con 367 Wh y 18,3 kg, freno de disco trasero y E-ABS. Aquí va su análisis completo.",
+    "title": "Navee V50i Pro: 50 km para no cargar a diario",
+    "excerpt": "El Navee V50i Pro declara 50 km con batería de 367 Wh y solo 18,3 kg. El Navee para grandes distancias, analizado.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70558,12 +70636,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete 50 km autonomía",
       "navee v50i pro vs v40i"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "navee-v40",
-    "title": "Navee V40: 16,2 kg, 40 km y AirTag por ~400 €",
-    "excerpt": "El Navee V40 de 2023 sigue a la venta en Europa por unos 400 €: 16,2 kg, 40 km declarados, disco trasero y hueco oculto para AirTag.",
+    "title": "Navee V40: el clásico de 2023 que sigue vigente",
+    "excerpt": "El Navee V40 (2023) sigue a la venta: 16,2 kg, 40 km, disco trasero y AirTag por ~400 €. ¿Merece la pena en 2026?",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70582,8 +70660,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "niu-kqi3-sport",
-    "title": "NIU KQi3 Sport: 599 €, 40 km y el más cómodo",
-    "excerpt": "El NIU KQi3 Sport cuesta 599 €: 300 W, 40 km declarados, 18,4 kg y plataforma ancha. Comodidad, frenos y app, con certificado DGT sin publicar.",
+    "title": "NIU KQi3 Sport: el más cómodo por 600 €",
+    "excerpt": "El NIU KQi3 Sport: 300 W, 40 km, plataforma ancha y freno de disco por 599 €. El NIU más equilibrado, analizado a fondo.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70598,12 +70676,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "niu kqi3 sport vs xiaomi",
       "patinete eléctrico cómodo"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "niu-kqi1-sport",
-    "title": "NIU KQi1 Sport: el NIU de 14,6 kg para la ciudad",
-    "excerpt": "Con 14,6 kg es el NIU más ligero: 25 km/h, 25 km declarados y un precio sin confirmar, visto en torno a 200 €. Análisis para ciudad.",
+    "title": "NIU KQi1 Sport: 14,6 kg con calidad NIU",
+    "excerpt": "El NIU KQi1 Sport pesa 14,6 kg, llega a 25 km/h y cuesta menos de 300 €. El NIU ligero para la ciudad, analizado.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70623,7 +70701,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "pure-advance",
     "title": "Pure Advance: postura frontal y 57,5 km declarados",
-    "excerpt": "El Pure Advance cambia la postura al manillar: declara 57,5 km, pesa 16,2 kg y tiene IP65. Precio, autonomía real y normas para España.",
+    "excerpt": "El Pure Advance: 57,5 km máximos declarados, postura frontal patentada, IP65 e intermitentes. Análisis completo con ficha técnica.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70639,12 +70717,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "pure advance vs flex",
       "patinete eléctrico ip65"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "pure-advance-flex",
-    "title": "Pure Advance Flex: plegado mínimo por 899 £",
-    "excerpt": "El Pure Advance Flex cuesta 899 £ en Reino Unido y se pliega hasta ocupar un 70 % menos de ancho: 52 km declarados, 342 Wh y 16,2 kg con postura frontal.",
+    "title": "Pure Advance Flex: el plegable más compacto",
+    "excerpt": "El Pure Advance Flex por 899 £: el patinete más compacto del mundo, 52 km declarados, IP65 y postura frontal. Análisis honesto.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70664,8 +70742,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "pure-advance-plus",
-    "title": "Pure Advance+: 50 km declarados con solo 16,2 kg",
-    "excerpt": "El Pure Advance+ declara 50 km con una batería de 352 Wh y pesa 16,2 kg. Intermitentes, Pure Control e IP65 por 899 £: ficha, autonomía real y carga.",
+    "title": "Pure Advance+: 50 km y postura frontal",
+    "excerpt": "El Pure Advance+ por 899 £: batería de 37 V 9,5 Ah, 50 km declarados, 16,2 kg e intermitentes. Ficha técnica y análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70681,12 +70759,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "pure electric advance plus",
       "patinete ligero 16 kg"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "pure-x-mclaren",
-    "title": "Pure x McLaren: papaya, 62,4 km y 924 W",
-    "excerpt": "Edición oficial junto a McLaren: el Pure x McLaren, en papaya y con postura frontal, anuncia 924 W de pico y 62,4 km máximos; ronda las 999 £.",
+    "title": "Pure x McLaren: el patinete papaya, ficha y precio",
+    "excerpt": "El Pure x McLaren: edición oficial con McLaren, 62,4 km máximos, 924 W de pico y color papaya. Ficha técnica y análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70706,8 +70784,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "pure-air-4",
-    "title": "Pure Air 4: patinete ligero de 16,2 kg",
-    "excerpt": "El Pure Air 4 de 2024 apuesta por poco peso y sencillez: motor de 500 W, recarga rápida y unas dimensiones pensadas para llevarlo a cuestas.",
+    "title": "Pure Air 4: 16,2 kg y 30 km, ficha técnica",
+    "excerpt": "El Pure Air 4: 500 W, 30 km declarados, 16,2 kg y carga en 4 h. El Pure ligero y honesto. Ficha técnica completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70723,12 +70801,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "pure air 4 españa",
       "patinete 500w ligero"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "pure-air-4-pro",
-    "title": "Pure Air 4 Pro: 355 Wh y 40 km en solo 17,2 kg",
-    "excerpt": "El Air 4 Pro sube a 355 Wh y 40 km declarados con 500 W y 17,2 kg: la variante de la familia Air 4 que equilibra distancia y peso.",
+    "title": "Pure Air 4 Pro: 40 km y 500 W, ficha técnica",
+    "excerpt": "El Pure Air 4 Pro: 500 W, 40 km declarados, 17,2 kg y batería de 355 Wh. El Air 4 que deberías comprar. Ficha completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70744,12 +70822,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "pure air 4 pro españa",
       "patinete 500w 40km"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "pure-air-6",
-    "title": "Pure Air 6: doble amortiguación y 45 km por 399 £",
-    "excerpt": "Pure Air 6 (2025): amortiguación GlideMotion en ambos ejes, 45 km anunciados, 21,4 kg, 924 W de pico y precio de 399 £. Datos, peso y normativa.",
+    "title": "Pure Air 6: suspensión doble y 45 km por 399 £",
+    "excerpt": "El Pure Air 6 (2025): doble suspensión GlideMotion, 45 km declarados, 21,4 kg y 924 W de pico por 399 £. Ficha técnica.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70765,7 +70843,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete doble suspensión",
       "pure air 6 2025"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "pure-air-6-pro-plus",
@@ -70812,7 +70890,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "pure-air-6-ultra-max",
     "title": "Pure Air 6 Ultra Max: potencia para cuestas duras",
-    "excerpt": "El Pure Air 6 Ultra Max de 2025 combina 1900 W de pico, 90 km declarados y disco trasero por 649 £ en Reino Unido, con doble suspensión GlideMotion.",
+    "excerpt": "El Pure Air 6 Ultra Max (2025): 1900 W de pico, 90 km, disco trasero y doble suspensión por 649 £. El Pure más potente.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70828,7 +70906,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "pure air 6 ultra max españa",
       "patinete 90 km 1900w"
     ],
-    "readTime": 4
+    "readTime": 2
   },
   {
     "slug": "pure-escape-pro-plus",
@@ -70874,8 +70952,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "dualtron-pop",
-    "title": "Dualtron Pop: el urbano monomotor de 450 W",
-    "excerpt": "Monomotor de acceso a Dualtron: 450 W, 45 km de autonomía declarada, doble tambor con ABS y EBS, intermitentes y 29,6 kg de peso.",
+    "title": "Dualtron Pop: ficha técnica y precio del monomotor",
+    "excerpt": "Dualtron Pop monomotor: 450 W, 45 km de autonomía, doble freno de tambor e intermitentes. Ficha técnica completa, precio y certificado DGT.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70895,8 +70973,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "dualtron-pop-dual",
-    "title": "Dualtron Pop Dual: doble motor en solo 32,5 kilos",
-    "excerpt": "En 32,5 kg, el Pop Dual ofrece tracción total con batería Samsung de 1300 Wh para un alcance declarado de 60 km. Te contamos para quién compensa.",
+    "title": "Dualtron Pop Dual Motor: doble tracción por poco",
+    "excerpt": "Dualtron Pop Dual Motor: dos motores de 450 W, batería Samsung de 1300 Wh y 60 km de autonomía. Ficha técnica, precio y certificado DGT.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70912,7 +70990,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "dualtron 2025",
       "dualtron pop autonomía"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "dualtron-mini-special",
@@ -70937,8 +71015,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "dualtron-mini-special-dual",
-    "title": "Dualtron Mini Special Dual: doble motor ligero",
-    "excerpt": "El Mini Special Dual combina 900 W nominales y 2900 W de pico con batería LG de 1092 Wh, 65 km declarados y homologación DGT según el distribuidor.",
+    "title": "Dualtron Mini Special Dual: homologado DGT",
+    "excerpt": "Dualtron Mini Special Dual Motor: 2900 W de pico, 65 km de autonomía y homologación DGT en España. Ficha técnica completa y precio.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -71000,8 +71078,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "dualtron-raptor-2",
-    "title": "Dualtron Raptor 2: doble motor en solo 22,6 kilos",
-    "excerpt": "Dos motores de 900 W, ruedas sólidas de 8 pulgadas y 45 km declarados en solo 22,6 kg. Así es el Raptor 2, el Dualtron compacto de tracción total.",
+    "title": "Dualtron Raptor 2: el dual motor más ligero",
+    "excerpt": "Dualtron Raptor 2: doble motor de 900 W en solo 22,6 kg y ruedas sólidas antipinchazos. Ficha técnica completa, precio y certificado DGT.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -71017,7 +71095,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "dualtron 2025",
       "dualtron raptor ficha"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "dualtron-compact",
@@ -71252,8 +71330,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "kaabo-wolf-warrior-gt-pro",
-    "title": "Kaabo Wolf Warrior GT Pro: potencia extrema y 180 km",
-    "excerpt": "El tope de Kaabo combina 4000 W nominales, 8400 W de pico, batería Samsung de 2520 Wh y hasta 180 km, con TFT, intermitentes y frenos hidráulicos.",
+    "title": "Kaabo Wolf Warrior GT Pro: 8400 W de pico",
+    "excerpt": "Kaabo Wolf Warrior GT Pro: 4000 W nominales, 8400 W de pico, batería Samsung de 2520 Wh y hasta 180 km. Ficha técnica, precio y certificado DGT.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -71269,7 +71347,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "kaabo españa",
       "wolf warrior gt ficha"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "kaabo-mantis-10-pro",
@@ -71589,7 +71667,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "gotrax-eclipse",
     "title": "Gotrax Eclipse: patinete con código antirrobo y 45 km",
-    "excerpt": "El Gotrax Eclipse combina 432 Wh, 45 km anunciados y arranque por código en la pantalla, con ruedas macizas de 10 pulgadas que eliminan los pinchazos.",
+    "excerpt": "El Gotrax Eclipse: 432 Wh, 45 km declarados, bloqueo por código digital y neumáticos sólidos antipinchazos. Ficha y análisis completo.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -71609,8 +71687,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "smartgyro-raptor-black",
-    "title": "Smartgyro Raptor Black: 1000 W, doble suspensión y 27 kg",
-    "excerpt": "El patinete más potente de Smartgyro: 1000 W nominales, 1300 W de pico, batería de 624 Wh, doble suspensión con brazos y frenos con EABS hidráulico.",
+    "title": "Smartgyro Raptor Black: 1300 W y doble suspensión",
+    "excerpt": "El Smartgyro Raptor Black: 1000 W nominales, 1300 W de pico, 624 Wh y doble suspensión con brazos. El Smartgyro más potente, analizado.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -71630,8 +71708,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "smartgyro-z-one",
-    "title": "Smartgyro Z-One: 17 kg, DGT y 25-30 km",
-    "excerpt": "El Smartgyro Z-One pesa 17 kg, tiene certificado DGT, intermitentes delante y detrás y 25-30 km declarados: el urbano ligero de Smartgyro.",
+    "title": "Smartgyro Z-One: ligero, certificado DGT y 28 km",
+    "excerpt": "El Smartgyro Z-One: 17 kg, certificado DGT, intermitentes y 25-30 km declarados. El urbano ligero de Smartgyro, ficha y análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -71651,8 +71729,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "inokim-light-2-max",
-    "title": "Inokim Light 2 Max: 14 kg de calidad CNC premium",
-    "excerpt": "Con menos de 14 kg, el Light 2 Max esconde 461 Wh para 40 km anunciados, con doble tambor y chasis CNC. El urbano ligero premium, a examen.",
+    "title": "Inokim Light 2 Max: 14 kg y 40 km de autonomía",
+    "excerpt": "El Inokim Light 2 Max pesa menos de 14 kg, monta 461 Wh y promete 40 km. Calidad CNC israelí para el commuter exigente: analizamos sus datos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -71670,8 +71748,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "inokim-quick-4-hero",
-    "title": "Inokim Quick 4 Hero: 50 km, 676 Wh y doble tambor",
-    "excerpt": "El Hero de Inokim combina 600 W, 676 Wh y 50 km en 21,5 kg, con tambor en las dos ruedas y suspensión completa. Precio visto: 1.149 € en Letonia.",
+    "title": "Inokim Quick 4 Hero: 676 Wh y 50 km rutero",
+    "excerpt": "El Inokim Quick 4 Hero monta 600 W, 676 Wh y promete 50 km con 21,5 kg. El rutero urbano israelí con doble tambor: analizamos sus datos reales.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -71685,12 +71763,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete rutero urbano",
       "patinete 21 kg"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "inokim-light-3",
-    "title": "Inokim Light 3: pantalla conectada, GPS y antirrobo",
-    "excerpt": "El Inokim Light 3 (2026) estrena pantalla conectada integrada, GPS y Ghost Shield. Precio y especificaciones siguen pendientes: esto es lo anunciado.",
+    "title": "Inokim Light 3: pantalla inteligente y GPS en 2026",
+    "excerpt": "Inokim presenta el Light 3 (2026): primera pantalla inteligente conectada del mundo, GPS y Ghost Shield antirrobo. Te contamos lo anunciado.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -71708,8 +71786,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "etwow-booster-plus-s",
-    "title": "E-TWOW Booster Plus S: pluma urbana de 500 W",
-    "excerpt": "Pesa 11,5 kg, entrega 500 W y monta 281 Wh con frenada regenerativa: el Booster Plus S, ultraligero rumano, y su alcance real en ciudad.",
+    "title": "E-TWOW Booster Plus S: 500 W en 11,5 kg",
+    "excerpt": "El E-TWOW Booster Plus S pesa 11,5 kg, monta 500 W y 281 Wh con 40 km declarados. El ultraligero rumano con KERS: analizamos su autonomía real.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -71723,12 +71801,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete KERS",
       "patinete 500W ligero"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "etwow-s2-booster-plus",
-    "title": "E-TWOW S2 Booster Plus: 10,9 kg y carga en 2 horas",
-    "excerpt": "El E-TWOW S2 Booster Plus pesa 10,9 kg, carga en 1,5-2 horas y declara 30-35 km con 500 W y batería de 270 Wh: el más ligero de la familia.",
+    "title": "E-TWOW S2 Booster Plus: 10,9 kg y carga en 2 h",
+    "excerpt": "El E-TWOW S2 Booster Plus pesa 10,9 kg, carga en 1,5-2 horas y declara 30-35 km. El más ligero de la familia rumana: analizamos sus datos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -71746,8 +71824,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "etwow-booster-sport",
-    "title": "E-TWOW Booster Sport: el patinete deportivo de 10,9 kg",
-    "excerpt": "Deportivo y ultraligero: motor de 500 W con 650 W de pico, batería de 378 Wh, pantalla LCD a color y solo 10,9 kg para moverte con agilidad.",
+    "title": "E-TWOW Booster Sport: 650 W de pico y LCD",
+    "excerpt": "El E-TWOW Booster Sport monta 500 W (650 W de pico), 378 Wh y pantalla LCD a color con 10,9 kg. El deportivo ligero rumano: analizamos sus datos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -71761,12 +71839,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "E-TWOW Sport",
       "patinete 378Wh"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "gotrax-rival",
-    "title": "Gotrax Rival: 12 kg, 250 W y ciudad a 25 km/h",
-    "excerpt": "Patinete ligero de 12 kg con 250 W, batería de 187 Wh y unos 14 km reales en ciudad. Precio sin publicar en España: qué ofrece y dónde se vende.",
+    "title": "Gotrax Rival: el clásico ligero de 250 W",
+    "excerpt": "El Gotrax Rival es el superventas económico: 250 W, 187 Wh, 20 km declarados y 12 kg con neumáticos de aire y freno de disco + EABS. Lo analizamos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -71780,7 +71858,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete ligero 12 kg",
       "patinete económico"
     ],
-    "readTime": 4
+    "readTime": 2
   },
   {
     "slug": "gotrax-g5",
@@ -71823,7 +71901,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "turboant-x7",
     "title": "TurboAnt X7: batería extraíble en el mástil",
-    "excerpt": "El TurboAnt X7 original guarda su batería de 230 Wh en el mástil: se extrae con llave en 3 segundos, rinde 350 W y recorre unos 17 km reales.",
+    "excerpt": "El TurboAnt X7 original: 350 W, 25 km declarados, triple freno y batería extraíble de 230 Wh. El primero con la batería en el mástil.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -71861,7 +71939,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "razor-e-prime-air",
     "title": "Razor E Prime Air: 9,9 kg y rueda delantera de aire",
-    "excerpt": "El Razor E Prime Air es el ligero para el último tramo: rueda de aire delante, 250 W, 118 Wh, 16 km declarados y 9,9 kg. Lo analizamos a fondo.",
+    "excerpt": "El Razor E Prime Air suma rueda delantera de aire al E Prime: 250 W, 118 Wh, 16 km y 9,9 kg. El clásico, más cómodo: lo analizamos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -71875,7 +71953,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete rueda de aire",
       "patinete ligero 10 kg"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "hiboy-nex3",
@@ -71899,7 +71977,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "hiboy-nex5",
     "title": "Hiboy NEX5: doble acumulador y 55 km",
-    "excerpt": "El Hiboy NEX5 suma dos acumuladores extraíbles de 540 Wh, motor de 350 W y un alcance anunciado de 55 km, con amortiguación trasera doble.",
+    "excerpt": "El Hiboy NEX5 monta doble batería extraíble de 540 Wh, 350 W y hasta 55 km declarados con suspensión trasera doble. El rutero de Hiboy: lo analizamos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -71913,12 +71991,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete batería extraíble",
       "Hiboy app"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "iscooter-i10-pro",
-    "title": "iScooter i10 Pro UE: batería de 720 Wh",
-    "excerpt": "Versión europea del i10 Pro: motor de 600 W, batería grande, suspensión en ambos ejes y tope legal de velocidad. Repasamos sus cifras y su uso diario.",
+    "title": "iScooter i10 Pro: 720 Wh y 60 km (versión UE)",
+    "excerpt": "El iScooter i10 Pro europeo monta 600 W (800 W de pico), 720 Wh y 50-60 km declarados a 25 km/h con doble suspensión e IP54. Lo analizamos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -71932,12 +72010,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete doble suspensión",
       "patinete 600W"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "kugoo-kirin-s1-pro",
-    "title": "Kugoo Kirin S1 Pro: el patinete de 11 kg",
-    "excerpt": "Pesa 11 kg, rueda sobre goma maciza con dibujo de panal y anuncia 30 km con una batería de 270 Wh. Ligero y barato, pero con límites claros en España.",
+    "title": "Kugoo Kirin S1 Pro: 11 kg y 30 km",
+    "excerpt": "El Kugoo Kirin S1 Pro monta 350 W, 270 Wh, 30 km declarados y 11 kg con ruedas de panal, LCD e IP54. El superventas ligero: lo analizamos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -71951,7 +72029,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete ruedas panal",
       "patinete barato 350W"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "kugoo-kirin-s4",
@@ -71975,7 +72053,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "evercross-a1",
     "title": "Evercross A1: ruta larga, frenos triples y 672 Wh",
-    "excerpt": "Evercross A1: 672 Wh, doble suspensión y triple freno para rutas de 40-50 km declarados. Peso, carga y precio en EE. UU. analizados.",
+    "excerpt": "El Evercross A1 monta 500 W (800 W de pico), 672 Wh, 40-50 km declarados, doble suspensión y triple freno con IP54. El rutero asequible: lo analizamos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -71989,12 +72067,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete 500W",
       "patinete 50 km"
     ],
-    "readTime": 4
+    "readTime": 2
   },
   {
     "slug": "gotrax-fusion",
-    "title": "Gotrax Fusion: el patinete que se conduce sentado o de pie",
-    "excerpt": "Un patinete pensado para alternar postura: Gotrax ofrece el Fusion con sillín abatible, motor moderado y peso contenido para trayectos cortos en ciudad.",
+    "title": "Gotrax Fusion: 300 W con asiento opcional",
+    "excerpt": "El Gotrax Fusion monta 300 W, 209 Wh, 22 km declarados y 28 km/h con opción de asiento plegable y UL2272. El versátil de Gotrax: lo analizamos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -72008,7 +72086,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete plegado rápido",
       "Gotrax UL2272"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "gotrax-xr-elite",
@@ -72031,8 +72109,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "hiboy-s2r",
-    "title": "Hiboy S2R: batería extraíble y 27 km declarados",
-    "excerpt": "El Hiboy S2R ofrece 350 W y 270 Wh con batería que sale en 3 segundos, app con crucero y 27 km declarados. Descatalogado: solo compensa de segunda mano.",
+    "title": "Hiboy S2R: batería extraíble en 3 segundos",
+    "excerpt": "El Hiboy S2R monta 350 W, 270 Wh con batería extraíble en 3 segundos y app con crucero. El commuter con batería de repuesto: lo analizamos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -72046,7 +72124,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Hiboy app crucero",
       "patinete 270Wh"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "kugoo-kirin-m3",
@@ -72070,7 +72148,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "inokim-quick-3",
     "title": "Inokim Quick 3: ligero, con celdas LG y sin suspensión",
-    "excerpt": "Con 624 Wh de celdas LG, 45 km anunciados y 16,5 kg, el Quick 3 apuesta por la calidad de construcción. Sin suspensión y con precio alto.",
+    "excerpt": "El Inokim Quick 3 monta 450 W (1000 W de pico), 624 Wh LG, 45 km declarados y 16,5 kg. El Inokim equilibrado con celdas LG: lo analizamos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -72084,7 +72162,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Inokim batería LG",
       "patinete premium ligero"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "smartgyro-xtreme",
@@ -72393,7 +72471,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "turboant-thunder-t1",
     "title": "TurboAnt Thunder T1: la fat e-bike de 750 W, no patinete",
-    "excerpt": "El Thunder T1 no es un patinete: es una fat e-bike de 750 W, 672 Wh y 56–97 km pedaleando, descatalogada y fuera de la norma EPAC europea.",
+    "excerpt": "El TurboAnt Thunder T1 es una e-bike fat con 750 W, 672 Wh y 56–97 km de autonomía pedaleando. No es un patinete: lo analizamos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -72503,6 +72581,27 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete diseño"
     ],
     "readTime": 2
+  },
+  {
+    "slug": "acer-es-series-3-advance",
+    "title": "Acer ES Series 3 Advance: 25 km por 187 €",
+    "excerpt": "El Acer ES Series 3 Advance (AES023) es el patinete barato de Acer: 350 W, 25 km declarados, 16 kg e intermitentes, por 187 € en PcComponentes. Sin certificado DGT verificado. Ficha y análisis complet",
+    "category": "Novedades Motor",
+    "date": "2026-10-25",
+    "locale": "all",
+    "heroSrc": "/media/acer-es-series-3-advance-hunt1.webp",
+    "heroAlt": "Acer ES Series 3 Advance (AES023), vista tres cuartos",
+    "keywords": [
+      "acer es series 3 advance",
+      "acer es series 3 advance precio",
+      "acer aes023",
+      "patinete acer 187",
+      "acer es series 3 autonomía",
+      "patinete barato 16 kg",
+      "acer es series 3 certificado dgt",
+      "patinete acer intermitentes"
+    ],
+    "readTime": 8
   },
   {
     "slug": "peugeot-e-208-electrico-2026-precio-ficha-tecnica",
@@ -74350,8 +74449,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "fangchengbao-ti-9-2026-precio-ficha-tecnica",
-    "title": "Fang Cheng Bao Ti 9 2026: SUV híbrido de 5,27 m y 310 km",
-    "excerpt": "El Ti 9 de Fang Cheng Bao es un SUV híbrido enchufable de 5,27 m y 6 plazas, con 310 km eléctricos y 2.300 km totales declarados. Precio por confirmar.",
+    "title": "Fang Cheng Bao Ti 9: precio a confirmar y 2.300 km",
+    "excerpt": "El Fang Cheng Bao Ti 9 (también llamado Tai 9) es el SUV híbrido enchufable de 5,27 m y 6 plazas (configuración principal) de BYD: 310 km eléctricos y 2.300 km totales declarados. Precio a confirmar.",
     "category": "Modelos desconocidos",
     "date": "2026-10-14",
     "locale": "all",
@@ -74365,12 +74464,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "SUV chino 6 plazas",
       "Ti 9 ficha técnica"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "ds-f3ver-concept-paris-2026",
-    "title": "DS F3VER París 2026: concept eléctrico de 4,19 m",
-    "excerpt": "El DS F3VER abre el nuevo diseño de DS en París 2026: 4,19 m, maletero de 400 litros, firma en Y y 16 paneles LED. Es un concept: sin precio ni fecha.",
+    "title": "DS F3VER concept París 2026: 4,19 m y maletero de 400 litros",
+    "excerpt": "El DS F3VER es el concept eléctrico con el que DS abre su nuevo capítulo de diseño en París 2026: 4,19 m, 400 litros de maletero, luz en Y y 16 paneles LED traseros. Sin precio ni fecha de venta.",
     "category": "Novedades Motor",
     "date": "2026-10-14",
     "locale": "all",
@@ -74387,8 +74486,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "fiat-multiplay-concept-paris-2026",
-    "title": "FIAT Multiplay: el concept 3 en 1 de París 2026",
-    "excerpt": "FIAT Multiplay, concept 3 en 1 de 4,45 m de París 2026: de familiar 6+1 a pick-up de 4 plazas con Metamorfosi. No es modelo de serie.",
+    "title": "FIAT Multiplay: concept 3 en 1 de 4,45 m en París 2026",
+    "excerpt": "El FIAT Multiplay es un concept 3 en 1 de 4,45 m: familiar 6+1 que se transforma en pick-up de 4 plazas con la arquitectura Metamorfosi. Laboratorio de ideas, no coche de serie.",
     "category": "Novedades Motor",
     "date": "2026-10-14",
     "locale": "all",
@@ -74423,8 +74522,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "peugeot-rcz-vision-concept-paris-2026",
-    "title": "Peugeot RCZ Vision: el concept de 500 CV que no se vende",
-    "excerpt": "El RCZ Vision es el manifiesto eléctrico de Peugeot para París 2026: 500 CV, 600 km, batería sólida e Hypersquare, sin versión de serie.",
+    "title": "Peugeot RCZ Vision: 500 CV, 600 km y carga en 10 minutos",
+    "excerpt": "El Peugeot RCZ Vision es el concept eléctrico de París 2026 con 500 CV, hasta 600 km, batería de estado sólido y mando Hypersquare. Manifiesto de marca, no coche a la venta.",
     "category": "Novedades Motor",
     "date": "2026-10-14",
     "locale": "all",
@@ -75369,8 +75468,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "aprilia-rx-125-2026",
-    "title": "Aprilia RX 125 2026: enduro A1 desde 4.500 €",
-    "excerpt": "La RX 125 2026 de Aprilia, enduro ligera para el A1: 15 CV, 123 kg y un precio orientativo de 4.500 €. Guía con rivales, costes y consejos.",
+    "title": "Aprilia RX 125 2026 precio en España: 4.500 €, 15 CV",
+    "excerpt": "Aprilia RX 125 2026: precio aproximado no oficial en España, 15 CV y ficha técnica. Desde 4.500 €. Opinión, rivales y qué mirar antes de comprar.",
     "category": "Novedades Motor",
     "date": "2026-10-14",
     "locale": "es",
@@ -75387,8 +75486,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "aprilia-sr-gt-200-2026",
-    "title": "Aprilia SR GT 200 2026: 18 CV, A2 y precio orientativo",
-    "excerpt": "La SR GT 200 2026, scooter A2 con 18 CV y 174 cc, ronda un precio orientativo no oficial de 4.700 €. Ficha, mantenimiento y garantía, con sus límites.",
+    "title": "Aprilia SR GT 200 2026 precio: desde 4.700 €, 18 CV",
+    "excerpt": "Aprilia SR GT 200 2026: precio aproximado no oficial en España, 18 CV y ficha técnica. Desde 4.700 €. Opinión, rivales y qué mirar antes de comprar.",
     "category": "Novedades Motor",
     "date": "2026-10-14",
     "locale": "es",
@@ -75401,12 +75500,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "scooter a2 2026",
       "aprilia sr gt 200 2026"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "aprilia-sx-125-2026",
-    "title": "Aprilia SX 125 2026: supermotard A1 desde 4.600 €",
-    "excerpt": "La SX 125 2026 de Aprilia, supermotard ligera para el A1: 15 CV, 123 kg y un precio orientativo de 4.600 €. Ciudad, curvas, rivales y consejos.",
+    "title": "Aprilia SX 125 2026 precio en España: 4.600 €, 15 CV",
+    "excerpt": "Aprilia SX 125 2026: precio aproximado no oficial en España, 15 CV y ficha técnica. Desde 4.600 €. Opinión, rivales y qué mirar antes de comprar.",
     "category": "Novedades Motor",
     "date": "2026-10-14",
     "locale": "es",
@@ -75423,8 +75522,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "aprilia-tuareg-660-rally-2026",
-    "title": "Aprilia Tuareg 660 Rally 2026: 80 CV desde 14.050 €",
-    "excerpt": "Trail A de 659 cc y 80 CV: la Tuareg 660 Rally 2026 ronda los 14.050 € aproximados, con 187 kg y asiento a 860 mm. Precio, ficha, rivales y dudas.",
+    "title": "Aprilia Tuareg 660 Rally 2026 precio: desde 14.050 €, 80 CV",
+    "excerpt": "Aprilia Tuareg 660 Rally 2026: precio aproximado no oficial en España, 80 CV y ficha técnica. Desde 14.050 €. Opinión, rivales y qué mirar antes de.",
     "category": "Novedades Motor",
     "date": "2026-10-14",
     "locale": "es",
@@ -75437,7 +75536,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "trail a 2026",
       "aprilia tuareg 660 rally 2026"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "aprilia-tuono-660-factory-2026",
@@ -75459,8 +75558,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "benda-rock-300-2026",
-    "title": "Benda Rock 300 2026: 6.290 € aprox, 30 CV y carnet A2",
-    "excerpt": "Benda Rock 300 2026: cruiser A2 de 298 cc y 30 CV, asiento a 700 mm y 170 kg. Precio aproximado no oficial: 6.290 €. Ficha, historia y qué exigir.",
+    "title": "Benda Rock 300 2026 precio en España: 6.290 €, 30 CV",
+    "excerpt": "Benda Rock 300 2026: precio aproximado no oficial en España, 30 CV y ficha técnica. Desde 6.290 €. Opinión, rivales y qué mirar antes de comprar.",
     "category": "Novedades Motor",
     "date": "2026-10-14",
     "locale": "es",
@@ -75473,12 +75572,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "cruiser a2 2026",
       "benda rock 300 2026"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "benelli-imperiale-400-2026",
-    "title": "Benelli Imperiale 400 2026: custom retro A2 desde 3.990 €",
-    "excerpt": "La Imperiale 400 2026 es la custom clásica de Benelli para el A2: 374 cc, 21 CV, 205 kg y precio aproximado de 3.990 € en España, sin garantía verificada.",
+    "title": "Benelli Imperiale 400 2026 precio: desde 3.990 €, 21 CV",
+    "excerpt": "Benelli Imperiale 400 2026: precio aproximado no oficial en España, 21 CV y ficha técnica. Desde 3.990 €. Opinión, rivales y qué mirar antes de comprar.",
     "category": "Novedades Motor",
     "date": "2026-10-14",
     "locale": "es",
@@ -75491,7 +75590,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "custom a2 2026",
       "benelli imperiale 400 2026"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "benelli-leoncino-800-trail-2026",
@@ -75513,8 +75612,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "benelli-tornado-500-2025",
-    "title": "Benelli Tornado 500 2025: 48 CV A2 desde 6.490 €",
-    "excerpt": "Benelli Tornado 500 2025: deportiva A2 de 48 CV y 186 kg, con precio aproximado no oficial de 6.490 €. Ficha, rivales, garantía y mantenimiento.",
+    "title": "Benelli Tornado 500 2025 precio: desde 6.490 €, 48 CV",
+    "excerpt": "Benelli Tornado 500 2025: precio aproximado no oficial en España, 48 CV y ficha técnica. Desde 6.490 €. Opinión, rivales y qué mirar antes de comprar.",
     "category": "Novedades Motor",
     "date": "2026-10-14",
     "locale": "es",
@@ -75527,12 +75626,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "deportiva a2 2025",
       "benelli tornado 500 2025"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "benelli-trk-502-2026",
-    "title": "Benelli TRK 502 2026: 5.990 € y 48 CV para el A2",
-    "excerpt": "La trail A2 de Benelli se anuncia desde unos 5.990 € sin precio oficial: 48 CV, 500 cc, 213 kg, depósito de 20 l y asiento a 835 mm.",
+    "title": "Benelli TRK 502 2026 precio en España: 5.990 €, 48 CV",
+    "excerpt": "Benelli TRK 502 2026: precio aproximado no oficial en España, 48 CV y ficha técnica. Desde 5.990 €. Opinión, rivales y qué mirar antes de comprar.",
     "category": "Novedades Motor",
     "date": "2026-10-14",
     "locale": "es",
@@ -75549,8 +75648,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "benelli-trk-502x-2026",
-    "title": "Benelli TRK 502 X 2026: 6.990 € y 48 CV en trail A2",
-    "excerpt": "Benelli TRK 502 X 2026: trail para el carnet A2 con 48 CV, 500 cc y un precio orientativo en España de 6.990 €. Rivales, mantenimiento y garantía.",
+    "title": "Benelli TRK 502 X 2026 precio: desde 6.990 €, 48 CV",
+    "excerpt": "Benelli TRK 502 X 2026: precio aproximado no oficial en España, 48 CV y ficha técnica. Desde 6.990 €. Opinión, rivales y qué mirar antes de comprar.",
     "category": "Novedades Motor",
     "date": "2026-10-14",
     "locale": "es",
@@ -75563,12 +75662,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "trail a2 2026",
       "benelli trk 502 x 2026"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "benelli-trk-702-2026",
-    "title": "Benelli TRK 702 2026: trail A con 70 CV desde 7.490 €",
-    "excerpt": "Trail para el carnet A con 698 cc y 70 CV: la TRK 702 2026 parte de unos 7.490 € aproximados. Ficha, rivales y puntos a revisar.",
+    "title": "Benelli TRK 702 2026 precio en España: 7.490 €, 70 CV",
+    "excerpt": "Benelli TRK 702 2026: precio aproximado no oficial en España, 70 CV y ficha técnica. Desde 7.490 €. Opinión, rivales y qué mirar antes de comprar.",
     "category": "Novedades Motor",
     "date": "2026-10-14",
     "locale": "es",
@@ -75765,8 +75864,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "can-am-origin-2026-precio-ficha-tecnica",
-    "title": "Can-Am Origin 2026: 13.799 € y 47 CV eléctricos",
-    "excerpt": "La Can-Am Origin 2026 es la trail eléctrica A2 con 47 CV, 72 Nm y un precio aproximado de 13.799 € en España. Datos, garantía y rivales.",
+    "title": "Can-Am Origin 2026 precio en España: 13.799 €, 47 CV",
+    "excerpt": "Can-Am Origin 2026: precio aproximado no oficial en España, 47 CV y ficha técnica. Desde 13.799 €. Opinión, rivales y qué mirar antes de comprar.",
     "category": "Novedades Motor",
     "date": "2026-10-14",
     "locale": "es",
@@ -75783,8 +75882,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "can-am-pulse-2026-precio-ficha-tecnica",
-    "title": "Can-Am Pulse 2026: eléctrica urbana A2 desde 13.199 €",
-    "excerpt": "La Pulse 2026 combina 47 CV, 72 Nm y 176 kg para ciudad con carnet A2, cadena que se tensa sola y batería con 5 años de cobertura.",
+    "title": "Can-Am Pulse 2026 precio en España: 13.199 €, 47 CV",
+    "excerpt": "Can-Am Pulse 2026: precio aproximado no oficial en España, 47 CV y ficha técnica. Desde 13.199 €. Opinión, rivales y qué mirar antes de comprar.",
     "category": "Novedades Motor",
     "date": "2026-10-14",
     "locale": "es",
@@ -76071,8 +76170,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "energica-eva-esseesse9-plus-2025-precio-ficha-tecnica",
-    "title": "Energica Eva EsseEsse9+ 2025: 109 CV y 24.590 £",
-    "excerpt": "Naked eléctrica italiana con 109 CV, batería de 21,5 kWh y 400 km urbanos: precio británico aproximado, ficha y dudas resueltas.",
+    "title": "Energica Eva EsseEsse9+ 2025 precio: 24.590 £, 109 CV",
+    "excerpt": "Energica Eva EsseEsse9+ 2025: precio aproximado 24.590 £ (Reino Unido), 109 CV y 80 kW. Naked eléctrica italiana. Ficha y FAQ incluidos.",
     "category": "Novedades Motor",
     "date": "2026-10-14",
     "locale": "es",
@@ -76922,8 +77021,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "skoda-epiq-sportline-2026-paris",
-    "title": "Skoda Epiq Sportline: el acabado deportivo de París",
-    "excerpt": "Debut en París 2026 del Epiq Sportline, fabricado en Pamplona: Epiq 40 de 99 kW y más de 310 km, Epiq 55 de 155 kW y hasta 440 km, sin precio aún.",
+    "title": "Skoda Epiq Sportline: 440 km de autonomía y 211 CV",
+    "excerpt": "El Skoda Epiq Sportline debuta en el Salón de París 2026: el acabado más deportivo y equipado del SUV eléctrico hecho en Pamplona, con versiones Epiq 40 (99 kW) y Epiq 55 (155 kW) y hasta 440 km de au",
     "category": "Novedades Motor",
     "date": "2026-10-15",
     "locale": "all",
@@ -76937,7 +77036,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Skoda Epiq autonomía",
       "Epiq Sportline París 2026"
     ],
-    "readTime": 7
+    "readTime": 5
   },
   {
     "slug": "alpine-a310-vision-concept-paris-2026",
@@ -77110,9 +77209,28 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 5
   },
   {
+    "slug": "ford-fathom-2026-precio-pickup-electrica",
+    "title": "Ford Fathom: pickup eléctrica desde 28.350 $, fecha y datos",
+    "excerpt": "Ford desvela su ofensiva barata: la pickup eléctrica Fathom desde 28.350 $, un SUV de 25.000 $ filtrado y un Mustang de 4 puertas. Precios y fechas.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/ford-fathom-2026-prototipos-oficial.webp",
+    "heroAlt": "Prototipos camuflados de la pickup eléctrica Ford Fathom circulando de noche por Las Vegas",
+    "keywords": [
+      "Ford Fathom",
+      "Ford Fathom precio",
+      "pickup eléctrica barata",
+      "Ford SUV 25.000 dólares",
+      "Mustang 4 puertas",
+      "Ford Mustang Mach 4"
+    ],
+    "readTime": 6
+  },
+  {
     "slug": "byd-seagull-2027-carga-flash-9-minutos",
     "title": "BYD Seagull 2027: del 10 al 97% en solo 9 minutos",
-    "excerpt": "La segunda generación del Seagull estrena carga Flash: del 10 al 97% en 9 minutos, con 4,21 m, 129 CV y reservas desde 85.000 yuanes en China.",
+    "excerpt": "BYD confirma en vídeos oficiales la carga Flash del nuevo Seagull: del 10 al 97% en 9 minutos. Segunda generación de 4,21 m y 129 CV, desde 85.000 yuanes.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -77126,12 +77244,107 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Seagull carga 9 minutos",
       "BYD Seagull precio China"
     ],
-    "readTime": 7
+    "readTime": 6
+  },
+  {
+    "slug": "grok-llega-tesla-espana-que-puede-hacer",
+    "title": "Grok llega a los Tesla en España: qué puede hacer por ti",
+    "excerpt": "Grok, la IA de xAI, ya funciona en los Tesla de España: asistente de voz en Model Y, 3, S y X con el software 2026.2.6. Qué hace y qué necesitas.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/grok-tesla-espana.webp",
+    "heroAlt": "Interior de un Tesla con el logotipo de Grok en la pantalla central",
+    "keywords": [
+      "Grok Tesla España",
+      "Grok en Tesla",
+      "asistente Grok Tesla",
+      "Tesla Grok IA voz",
+      "Tesla software 2026.2.6 Grok",
+      "Grok Model Y"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "waymo-robotaxis-madrid-2027",
+    "title": "Waymo llega a Madrid: robotaxis autónomos desde 2027",
+    "excerpt": "Google despliega sus Jaguar I-PACE autónomos en Madrid, Alcobendas y Getafe: tres fases de pruebas y servicio abierto a usuarios en 2027.",
+    "category": "Actualidad",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/waymo-jaguar-i-pace-madrid-hero.webp",
+    "heroAlt": "Waymo Jaguar I-PACE robotaxi con LiDAR en el techo circulando por una calle urbana",
+    "keywords": [
+      "Waymo Madrid",
+      "robotaxis Madrid",
+      "robotaxi autónomo España",
+      "Waymo Jaguar I-PACE",
+      "coches autónomos Madrid 2027",
+      "Waymo España"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "avatr-espana-2027-06t-07l-lanzamiento",
+    "title": "Avatr llega a España en 2027: los chinos de Huawei y CATL",
+    "excerpt": "AVATR confirma su llegada a España: los eléctricos 06T y 07L tendrán coches de demostración en noviembre de 2026 y lanzamiento comercial en marzo-abril de 2027, junto a Noruega.",
+    "category": "Novedades Motor",
+    "date": "2026-10-21",
+    "locale": "all",
+    "heroSrc": "/media/avatr-espana-2027-paris-hero.webp",
+    "heroAlt": "Presentación de AVATR en París con el Concept T09",
+    "keywords": [
+      "Avatr España 2027",
+      "Avatr llega a España",
+      "Avatr 06T España",
+      "Avatr 07L España",
+      "Avatr Changan Huawei CATL",
+      "coches chinos España 2027"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "omoda-x-concept-suv-china-2026",
+    "title": "Omoda X: el SUV chino con visión nocturna que será real",
+    "excerpt": "Omoda presenta el X, un SUV concept de estilo mecha con cámara térmica nocturna de 90 m, pantalla de 13,2\" y datos todoterreno reales: previsualiza un modelo de producción.",
+    "category": "Novedades Motor",
+    "date": "2026-10-21",
+    "locale": "all",
+    "heroSrc": "/media/omoda-x-concept-china-hero.webp",
+    "heroAlt": "Omoda X concept, SUV todoterreno con cámara térmica nocturna",
+    "keywords": [
+      "Omoda X",
+      "Omoda X concept",
+      "Omoda X precio",
+      "Omoda SUV nuevo",
+      "Omoda visión nocturna",
+      "SUV chino concept"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "porsche-975-rse-formula-e-gen4-monza",
+    "title": "Porsche 975 RSE: 320 km/h en Monza, la Fórmula E GEN4",
+    "excerpt": "El Porsche 975 RSE rueda en Monza: 816 CV, 335 km/h y vuelta en 1m32s. Así es la bestia GEN4 que debuta en la Fórmula E en diciembre de 2026.",
+    "category": "Novedades Motor",
+    "date": "2026-10-21",
+    "locale": "all",
+    "heroSrc": "/media/porsche-975-rse-monza-hero.webp",
+    "heroAlt": "Porsche 975 RSE, datos técnicos oficiales del GEN4",
+    "keywords": [
+      "Porsche 975 RSE",
+      "Porsche Formula E GEN4",
+      "975 RSE Monza",
+      "Formula E 2026",
+      "Porsche 975 RSE velocidad",
+      "GEN4 Formula E"
+    ],
+    "readTime": 4
   },
   {
     "slug": "bmw-serie-7-2027-precio-autonomia-carwow",
-    "title": "BMW Serie 7 2027: berlina de lujo desde 121.400 €",
-    "excerpt": "Precios en España desde 121.400 € y hasta 728 km WLTP en el i7. Seis versiones, cine trasero 8K de 31,3 pulgadas y estreno de la era Neue Klasse.",
+    "title": "BMW Serie 7 2027: 728 km de autonomía y desde 121.400 €",
+    "excerpt": "El BMW Serie 7 2027 ya tiene precios en España: desde 121.400 € con 728 km WLTP. Seis versiones, pantalla 8K de 31,3 pulgadas y tecnología Neue Klasse.",
     "category": "Novedades Motor",
     "date": "2026-10-22",
     "locale": "all",
@@ -77145,7 +77358,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Carwow BMW Serie 7",
       "BMW Serie 7 2027 España"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "lexus-tz-espana-precio-88-000-euros-2026",
@@ -77168,8 +77381,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "omoda-x-prototipo-presentacion-wuhu-2026",
-    "title": "Omoda X: el prototipo SUV que mira con calor y pisa barro",
-    "excerpt": "El Omoda X debuta en Wuhu como anticipo SUV de casi cinco metros: detecta calor a 90 metros y promete híbrido, enchufable y eléctrico. Sin precio aún.",
+    "title": "Omoda X: SUV chino con cámara térmica y alma off-road",
+    "excerpt": "Omoda presenta el X: prototipo SUV de estética mecha con cámara térmica de 90 m y versiones híbridas, enchufables y eléctricas. Sin precio aún.",
     "category": "Novedades Motor",
     "date": "2026-10-22",
     "locale": "all",
@@ -77225,7 +77438,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "mg2-electrico-2027-ferrol-precio",
     "title": "MG2 eléctrico 2027: el utilitario que se hará en Ferrol",
-    "excerpt": "El futuro MG2 eléctrico, adelantado por el concept MG Go, llegará en 2027 y se fabricará en Ferrol desde finales de 2028. Precio aún sin confirmar.",
+    "excerpt": "MG lanzará en 2027 su utilitario eléctrico de 4 m y 5 puertas, rival del Renault 5. Se ensamblará en la planta SAIC de Ferrol desde finales de 2028.",
     "category": "Novedades Motor",
     "date": "2026-10-22",
     "locale": "all",
@@ -77243,8 +77456,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "cupra-raval-vz-custom-abt-2026-pedidos",
-    "title": "Cupra Raval VZ Custom ABT: 226 CV con traje de carreras",
-    "excerpt": "Ya se puede pedir el Raval VZ Custom by ABT: 226 CV y 386 km con kit aerodinámico, llantas de 19 pulgadas y spoiler con firma ABT.",
+    "title": "Cupra Raval VZ Custom by ABT: 226 CV y estética de carreras",
+    "excerpt": "El Cupra Raval VZ Custom by ABT ya admite pedidos: 226 CV, 386 km y pack aerodinámico inspirado en el UrbanRebel. Precio del pack, por anunciar.",
     "category": "Novedades Motor",
     "date": "2026-10-22",
     "locale": "all",
@@ -77261,7 +77474,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "nissan-z-kaze-concept-t-top-2026",
-    "title": "Nissan Z Kaze: el Z con techo T-top que homenajea los 90",
+    "title": "Nissan Z Kaze: techo T-top y llantas NISMO para el Z",
     "excerpt": "Nissan muestra en la ZCON 2026 el Z Kaze: un Z único con techo T-top, pintura Pacific Teal, llantas NISMO LMGT2 y preparación GReddy.",
     "category": "Novedades Motor",
     "date": "2026-10-22",
@@ -77301,7 +77514,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "lepas-aura-concept-2026-presentacion",
     "title": "Lepas Aura: el prototipo que anticipa el diseño de Chery",
-    "excerpt": "LEPAS desvela Aura, su primer prototipo mundial: un familiar plateado cuyo frontal con pantalla luminosa marcará la imagen de todos sus coches venideros.",
+    "excerpt": "LEPAS presenta el Aura, su primer concept car: familiar plateado con pantalla en el frontal que proyecta imágenes y faros de leopardo.",
     "category": "Novedades Motor",
     "date": "2026-10-23",
     "locale": "all",
@@ -77315,11 +77528,11 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Lepas diseño leopardo",
       "LEPAS Global Elegance Night"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "lepas-l6-primeras-pruebas-385-km-autonomia",
-    "title": "Lepas L6: 385 km reales en su primera prueba en China",
+    "title": "Lepas L6: 385 km de autonomía real en sus primeras pruebas",
     "excerpt": "Auto Express ya ha probado el Lepas L6 en China: unos 385 km reales frente a 450 km WLTP, un interior que convence y una puesta a punto aún por pulir.",
     "category": "Novedades Motor",
     "date": "2026-10-23",
@@ -77358,7 +77571,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "lepas-aura-concept-2026-precio-ficha-tecnica",
     "title": "Lepas Aura Concept: shooting brake de 3 puertas",
-    "excerpt": "Lepas Aura: prototipo shooting brake de 3 puertas que anticipa el diseño Leopard Aesthetics, sin motor, precio ni fecha confirmados.",
+    "excerpt": "Lepas, la marca de Chery, presenta el Aura: un concept shooting brake de 3 puertas con frontal 'enfadado' de inspiración Audi. Sin fecha de producción.",
     "category": "Novedades Motor",
     "date": "2026-10-23",
     "locale": "all",
@@ -77468,6 +77681,323 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Bentley Torcal 2026"
     ],
     "readTime": 9
+  },
+  {
+    "slug": "renault-clio-rally5-2027-anuncio-copa-rallyes",
+    "title": "Renault Clio Rally5 2027: debut en Francia con dos copas",
+    "excerpt": "Renault prepara el Clio Rally5 de sexta generación: se desvelará en las próximas semanas y debutará en competición en Francia en 2027 con dos copas monomarca, una de asfalto y otra de tierra.",
+    "category": "Novedades Motor",
+    "date": "2026-10-24",
+    "locale": "all",
+    "heroSrc": "/media/renault-clio-rally5-2027-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Renault Clio VI, base del futuro Clio Rally5 2027, vista tres cuartos delantera en rojo",
+    "keywords": [
+      "Renault Clio Rally5 2027",
+      "Clio Rally5 precio",
+      "Clio Rally5 ficha técnica",
+      "copa Clio Rally5 asfalto tierra",
+      "Renault Clio rally historia",
+      "FIA Rally5 reglamento 2027",
+      "Clio VI competición"
+    ],
+    "readTime": 12
+  },
+  {
+    "slug": "spotify-app-nativa-audi-47-paises",
+    "title": "Spotify llega al coche: app nativa en Audi en 47 países",
+    "excerpt": "Audi estrena la app nativa de Spotify desde su Application Store: sin móvil emparejado, inicio por QR y vídeos con letras al aparcar. Para Free y Premium en 47 países desde el 21/10/2026.",
+    "category": "Novedades Motor",
+    "date": "2026-10-24",
+    "locale": "all",
+    "heroSrc": "/media/spotify-app-nativa-audi-47-paises-hero.webp",
+    "heroAlt": "App nativa de Spotify funcionando en el MMI de un Audi, con la pantalla central mostrando la interfaz del reproductor",
+    "keywords": [
+      "Spotify coche app nativa",
+      "Spotify Audi Application Store",
+      "Spotify en el coche sin móvil",
+      "Audi A6 e-tron Spotify",
+      "Spotify en marcha vídeos letras",
+      "Spotify Jam coche",
+      "Car Thing Spotify"
+    ],
+    "readTime": 15
+  },
+  {
+    "slug": "ferrari-v12-drag-race-carwow-2026",
+    "title": "Carwow enfrenta cuatro Ferrari V12: 620, 740, 800 y 830 CV",
+    "excerpt": "Carwow enfrenta hoy cuatro Ferrari V12 con motor delantero, del 599 al 12Cilindri: 620, 740, 800 y 830 CV y dos décadas de evolución.",
+    "category": "Novedades Motor",
+    "date": "2026-10-24",
+    "locale": "all",
+    "heroSrc": "/media/ferrari-12cilindri-2025-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Ferrari 12Cilindri, el más moderno de los cuatro Ferrari V12 del duelo de Carwow",
+    "keywords": [
+      "Carwow Ferrari V12 drag race",
+      "Ferrari 599 vs F12 vs 812 vs 12Cilindri",
+      "Ferrari 12Cilindri 830 CV",
+      "Ferrari 812 GTS ficha técnica",
+      "Ferrari V12 atmosférico evolución",
+      "drag race Ferrari V12 Carwow",
+      "Ferrari F12 Berlinetta 740 CV"
+    ],
+    "readTime": 13
+  },
+  {
+    "slug": "byd-seal-07-2027-segunda-generacion-interior-autonomia",
+    "title": "Nuevo BYD Seal 07 2027: 875 km CLTC, 408 CV y 5,08 m",
+    "excerpt": "BYD enseña el interior de la segunda generación del Seal 07: 5,08 m, hasta 875 km CLTC, 408 CV y un habitáculo Ocean Rhythm con 20 altavoces Devialet.",
+    "category": "Novedades Motor",
+    "date": "2026-10-24",
+    "locale": "all",
+    "heroSrc": "/media/byd-seal-07-2027-segunda-generacion-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "BYD Seal 07 de segunda generación, perfil lateral con sensor LiDAR en el techo",
+    "keywords": [
+      "BYD Seal 07 2027 segunda generación",
+      "BYD Seal 07 autonomía 875 km",
+      "BYD Seal 07 interior Ocean Rhythm",
+      "BYD Seal 07 precio China",
+      "BYD Seal 07 DM-i híbrido enchufable",
+      "BYD Seal 07 ficha técnica",
+      "BYD Seal 07 MIIT 5080"
+    ],
+    "readTime": 13
+  },
+  {
+    "slug": "wuling-atlas-furgon-electrico-28675-euros-autonomia",
+    "title": "Wuling Atlas eléctrico: 28.675 €, 82 CV y 4.000 L de carga",
+    "excerpt": "El Wuling Atlas llega a Europa: furgón eléctrico de 4,95 m, 4.000 litros de carga, 1.249 kg útiles y 440 km CLTC, desde 28.675 € con etiqueta Cero.",
+    "category": "Novedades Motor",
+    "date": "2026-10-24",
+    "locale": "all",
+    "heroSrc": "/media/wuling-atlas-ev-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Wuling Atlas eléctrico blanco, vista trasera de tres cuartos con el logo de Wuling en el portón",
+    "keywords": [
+      "Wuling Atlas precio España",
+      "Wuling Atlas furgón eléctrico",
+      "Wuling Atlas autonomía 440 km",
+      "Wuling Atlas carga 4000 litros",
+      "Wuling Atlas etiqueta Cero",
+      "Wuling Atlas ficha técnica",
+      "furgón eléctrico chino barato"
+    ],
+    "readTime": 14
+  },
+  {
+    "slug": "gwm-haval-h7-precio-espana-2026",
+    "title": "GWM Haval H7 en España: desde 28.000 € y 150 km eléctricos",
+    "excerpt": "GWM lanza el Haval H7 en España: SUV híbrido e híbrido enchufable desde 28.000 € con ayudas, hasta 435 CV y 150 km eléctricos WLTP.",
+    "category": "Novedades Motor",
+    "date": "2026-10-26",
+    "locale": "all",
+    "heroSrc": "/media/haval-h7-2025-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "GWM Haval H7 gris, SUV de líneas rectas con aspecto todoterreno, vista lateral",
+    "keywords": [
+      "GWM Haval H7 precio España",
+      "Haval H7 PHEV precio",
+      "Haval H7 híbrido enchufable",
+      "Haval H7 150 km eléctricos",
+      "GWM Haval H7 ficha técnica",
+      "SUV chino híbrido enchufable España",
+      "Haval H7 Explore Advance"
+    ],
+    "readTime": 16
+  },
+  {
+    "slug": "bmw-ix4-precio-espana-2026",
+    "title": "BMW iX4 precio en España: desde 71.850 €, 828 km y 469 CV",
+    "excerpt": "BMW iX4 ya con precio en España: desde 71.850 €, 828 km WLTP y 469 CV. Versiones 40 y 50 xDrive, carga de 400 kW y entregas en marzo de 2027.",
+    "category": "Novedades Motor",
+    "date": "2026-10-26",
+    "locale": "all",
+    "heroSrc": "/media/bmw-ix4-electrico-2026-hero.webp",
+    "heroAlt": "BMW iX4 eléctrico gris circulando, vista tres cuartos delantera",
+    "keywords": [
+      "BMW iX4 precio España",
+      "BMW iX4 71.850",
+      "BMW iX4 828 km",
+      "BMW iX4 50 xDrive",
+      "BMW iX4 M Sport",
+      "BMW iX4 configurador España"
+    ],
+    "readTime": 9
+  },
+  {
+    "slug": "xpeng-mona-l05-envios-globales-65-paises",
+    "title": "XPeng Mona L05: 1.310 km por 21.500 € y envíos a 65 países",
+    "excerpt": "El XPeng Mona L05 sale de China hacia 65 países antes de su lanzamiento del 29 de octubre: SUV de 249 CV, hasta 635 km CLTC y versión de 1.310 km.",
+    "category": "Novedades Motor",
+    "date": "2026-10-26",
+    "locale": "all",
+    "heroSrc": "/media/xpeng-mona-l05-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "XPeng Mona L05 plateado, SUV de cinco plazas, vista lateral en la calle",
+    "keywords": [
+      "XPeng Mona L05 precio",
+      "XPeng Mona L05 autonomía",
+      "XPeng Mona L05 envíos globales",
+      "Mona L05 EREV 1310 km",
+      "XPeng Mona L05 ficha técnica",
+      "SUV eléctrico chino barato",
+      "XPeng Mona Europa"
+    ],
+    "readTime": 17
+  },
+  {
+    "slug": "audi-q3-e-hybrid-204-cv-precio-espana-2026",
+    "title": "Audi Q3 e-hybrid 204 CV: 55.910 € y 118 km eléctricos",
+    "excerpt": "Audi estrena el Q3 e-hybrid de 204 CV: desde 55.910 €, 118 km eléctricos WLTP, carga a 50 kW y etiqueta Cero; los TFSI ganan potencia y ECO.",
+    "category": "Novedades Motor",
+    "date": "2026-10-27",
+    "locale": "all",
+    "heroSrc": "/media/audi-q3-2025-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Audi Q3 blanco de tercera generación, vista trasera en carretera junto al mar",
+    "keywords": [
+      "Audi Q3 e-hybrid 204 CV precio",
+      "Audi Q3 e-hybrid 150 kW",
+      "Q3 e-hybrid 118 km precio España",
+      "Audi Q3 Sportback e-hybrid precio",
+      "Audi Q3 TFSI 160 CV ECO",
+      "Q3 e-hybrid vs 272 CV",
+      "Audi Q3 híbrido enchufable 2026"
+    ],
+    "readTime": 17
+  },
+  {
+    "slug": "audi-q9-tdi-299-cv-precio-alemania-2026",
+    "title": "Audi Q9 TDI 299 CV: 7 plazas desde 108.400 € en Alemania",
+    "excerpt": "El Audi Q9 llega como el SUV más grande de Audi: 5,31 m, 7 plazas, TDI de 299 CV y desde 108.400 € en Alemania, a la espera del precio en España.",
+    "category": "Novedades Motor",
+    "date": "2026-10-27",
+    "locale": "all",
+    "heroSrc": "/media/audi-q9-tdi-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Audi Q9 azul, vista trasera tres cuartos con la tira luminosa OLED y la insignia Q9",
+    "keywords": [
+      "Audi Q9 precio",
+      "Audi Q9 TDI 299 CV",
+      "Audi Q9 7 plazas",
+      "Audi Q9 Alemania precio",
+      "Audi Q9 vs BMW X7",
+      "Audi Q9 SQ9 V8",
+      "Audi Q9 maletero 832 litros"
+    ],
+    "readTime": 19
+  },
+  {
+    "slug": "leapmotor-b10-fabricado-espana-zaragoza-2026",
+    "title": "Leapmotor B10 ya se fabrica en España: desde 27.900 €",
+    "excerpt": "El Leapmotor B10 ya sale de Figueruelas, en Zaragoza: primer Leapmotor fabricado en España, con el REEV desde 27.900 € y el eléctrico desde 29.900 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-27",
+    "locale": "all",
+    "heroSrc": "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Leapmotor B10 REEV, vista de estudio del SUV chino que ahora se fabrica en Zaragoza",
+    "keywords": [
+      "Leapmotor B10 fabricado España",
+      "Leapmotor B10 Zaragoza",
+      "Leapmotor B10 precio España",
+      "Leapmotor B10 REEV 27.900",
+      "Leapmotor B10 eléctrico 29.900",
+      "Leapmotor B10 486 ventas septiembre",
+      "Leapmotor B10 EuroNCAP 5 estrellas"
+    ],
+    "readTime": 14
+  },
+  {
+    "slug": "aston-martin-valhalla-spider-2027-precio-ficha-tecnica",
+    "title": "Aston Martin Valhalla Spider: 1.079 CV sin techo, 350 km/h",
+    "excerpt": "El Valhalla Spider es el descapotable más rápido de Aston Martin: 1.079 CV, 350 km/h sin techo y entregas en el tercer trimestre de 2027.",
+    "category": "Novedades Motor",
+    "date": "2026-10-28",
+    "locale": "all",
+    "heroSrc": "/media/aston-martin-valhalla-spider-2027-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Aston Martin Valhalla Spider plateado y dorado, descapotado, en carretera de montaña al atardecer",
+    "keywords": [
+      "Aston Martin Valhalla Spider precio",
+      "Valhalla Spider 1079 CV",
+      "Valhalla Spider 350 km/h",
+      "Aston Martin descapotable más rápido",
+      "Valhalla Spider entregas 2027",
+      "Valhalla Spider vs coupé"
+    ],
+    "readTime": 21
+  },
+  {
+    "slug": "ebro-q-electrico-2027-precio-barcelona",
+    "title": "EBRO Q eléctrico 2027: de 8.000 € en China a Barcelona",
+    "excerpt": "El primer eléctrico de EBRO llega en 2027: 122 CV, 310 km de autonomía y fabricación en Barcelona. En China cuesta 8.000 €; en Europa el reto será otro.",
+    "category": "Actualidad",
+    "date": "2026-10-21",
+    "locale": "all",
+    "heroSrc": "/media/ebro-q-2027-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "Chery Q, modelo en el que se basará el EBRO Q, tres cuartos frontal",
+    "keywords": [
+      "EBRO Q",
+      "EBRO Q 2027 precio",
+      "EBRO eléctrico 2027",
+      "primer coche eléctrico EBRO",
+      "Chery Q Europa",
+      "EBRO Q Barcelona",
+      "coches eléctricos baratos 2027"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "audi-q7-2026-tercera-generacion-precio",
+    "title": "Audi Q7 2026: ya a la venta en España desde 95.630 €",
+    "excerpt": "La tercera generación del Audi Q7 ya se vende en España: V6 TDI de 245 y 299 CV con etiqueta ECO, hasta 7 plazas y 806 litros de maletero. Precios y datos.",
+    "category": "Actualidad",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/audi-q7-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "Audi Q7 2026 de tercera generación, vista frontal tres cuartos",
+    "keywords": [
+      "Audi Q7 2026",
+      "Audi Q7 tercera generación precio",
+      "Audi Q7 2026 diésel",
+      "Audi Q7 299 CV",
+      "SUV 7 plazas diésel",
+      "Audi Q7 etiqueta ECO"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "byd-seagull-2026-segunda-generacion-precio",
+    "title": "BYD Seagull 2026: precios oficiales y carga en 5 minutos",
+    "excerpt": "Segunda generación del BYD Seagull: precios oficiales desde 65.900 yuanes, 420 km CLTC y carga flash del 10 al 70 % en 5 minutos. Todas las versiones.",
+    "category": "Actualidad",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/byd-seagull-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "BYD Seagull 2026 de segunda generación, vista tres cuartos delantera",
+    "keywords": [
+      "BYD Seagull 2026",
+      "BYD Seagull segunda generación precio",
+      "BYD Seagull carga flash 5 minutos",
+      "BYD Seagull 420 km",
+      "eléctrico barato China 2026",
+      "BYD Dolphin Surf 2027"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "lexus-tz-electrico-2026-precio-6-plazas",
+    "title": "Lexus TZ eléctrico: 6 plazas, 530 km y desde 88.000 €",
+    "excerpt": "Lexus ya tiene precio en España para el TZ: su SUV eléctrico de 6 plazas con 313 o 408 CV, hasta 530 km de autonomía WLTP y carga rápida de 150 kW.",
+    "category": "Actualidad",
+    "date": "2026-10-21",
+    "locale": "all",
+    "heroSrc": "/media/lexus-tz-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "Lexus TZ 450e, vista trasera tres cuartos del SUV eléctrico de seis plazas",
+    "keywords": [
+      "Lexus TZ",
+      "Lexus TZ precio España",
+      "Lexus TZ 2026",
+      "Lexus TZ 450e",
+      "Lexus TZ 550e",
+      "SUV eléctrico 6 plazas",
+      "Lexus TZ autonomía",
+      "Lexus TZ ficha técnica"
+    ],
+    "readTime": 5
   },
   {
     "slug": "radical-sr1-xxr-2025-precio-ficha-tecnica",
@@ -77719,7 +78249,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "renault-megane-e-tech-2026-precio-autonomia",
     "title": "Mégane E-Tech 2026: 67 kWh LFP y 494 km WLTP",
-    "excerpt": "El compacto eléctrico de Renault parte de 34.990 € con 218 CV, batería LFP de 67 kWh, 494 km WLTP y carga del 15 al 80 % en 24 minutos.",
+    "excerpt": "El nuevo Renault Mégane E-Tech 2026 cuesta desde 34.990 €: 218 CV, batería LFP de 67 kWh y 494 km de autonomía. Carga del 15 al 80 % en 24 minutos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -77737,8 +78267,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "renault-kangoo-e-tech-combi-2024-precio-autonomia",
-    "title": "Kangoo E-Tech Combi: precio, 284 km y etiqueta Cero",
-    "excerpt": "El Kangoo eléctrico para pasajeros arranca en 35.260 € con 122 CV, batería de 45 kWh, 284 km WLTP, distintivo Cero y 517 litros de carga.",
+    "title": "Renault Kangoo E-Tech: precio y autonomía 2024",
+    "excerpt": "El Renault Kangoo E-Tech Combi parte de 35.260 €: 122 CV, 45 kWh, 284 km de autonomía, etiqueta Cero y 517 L. El familiar eléctrico a fondo.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -77795,7 +78325,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "renault-5-e-tech-52-kwh-2025-precio-autonomia",
     "title": "Renault 5 E-Tech 52 kWh: precio y autonomía 2025",
-    "excerpt": "El urbano eléctrico francés arranca en 31.085 € con la batería grande: 150 CV, 430 km WLTP, recarga rápida de 100 kW y distintivo Cero. Gama y datos.",
+    "excerpt": "El Renault 5 E-Tech 52 kWh parte de 31.085 € en España: 150 CV, 430 km de autonomía, carga a 100 kW y etiqueta Cero. Ficha y prueba completas.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -81363,7 +81893,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "toyota-corolla-cross-2026-precio-restyling",
     "title": "Toyota Corolla Cross 2026: restyling, GR Sport y precio",
-    "excerpt": "El Corolla Cross 2026 renueva su imagen y añade el GR Sport: híbridos de 140 y 180 CV, 5,0 l/100 km, etiqueta ECO y precio desde 36.500 €.",
+    "excerpt": "El Toyota Corolla Cross 2026 estrena restyling: frontal renovado, acabado GR Sport, híbridos de 140 y 180 CV y precio desde 36.500 € en España.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
@@ -83262,8 +83792,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "xpeng-x9-2026-precio-europa",
-    "title": "XPeng X9 en Europa: 7 plazas, 615 km y 77.600 €",
-    "excerpt": "El X9 llega a siete países europeos con 7 plazas, hasta 615 km WLTP y recarga en 12 minutos desde 77.600 €. España, por ahora, queda fuera.",
+    "title": "XPeng X9: monovolumen eléctrico de 7 plazas",
+    "excerpt": "El XPeng X9 ya se vende en Europa: monovolumen eléctrico de 7 plazas, 615 km WLTP y carga en 12 minutos desde 77.600 €. Versiones y datos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -83277,7 +83807,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "xpeng x9 vs lexus lm",
       "xpeng x9 el prix 2026"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "xpeng-p7-2024-precio-ficha-tecnica",
@@ -83301,7 +83831,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "xpeng-g6-2025-precio-espana",
     "title": "XPeng G6 2025: SUV coupé eléctrico desde 42.559 €",
-    "excerpt": "El XPeng G6 llegó a España en mayo de 2025 desde 42.559 €: 258 CV, 435 km WLTP, carga de 280 kW y arquitectura de 800 V en un SUV coupé de 4,75 m.",
+    "excerpt": "El XPeng G6 llegó a España en 2025 desde 42.559 €: SUV coupé eléctrico con 258 CV, 435 km WLTP y carga de 280 kW. Precio, versiones y ficha completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -83318,8 +83848,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "xpeng-g9-2024-precio-espana",
-    "title": "XPeng G9 2024: el SUV eléctrico grande que estrenó la marca",
-    "excerpt": "El primer G9 llegó en septiembre de 2024: SUV eléctrico, 800 V, 260 kW de carga y 660 litros. Versiones, precios de lanzamiento y qué buscar hoy en stock.",
+    "title": "XPeng G9: SUV eléctrico grande desde 59.990 €",
+    "excerpt": "El XPeng G9 llegó a España en 2024 desde 59.990 €: SUV eléctrico de 4,89 m, 313 CV, 460 km WLTP y carga de 260 kW. Precio, versiones y ficha.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -83332,7 +83862,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "xpeng g9 313 cv 460 km",
       "xpeng g9 vs tesla model x"
     ],
-    "readTime": 6
+    "readTime": 4
   },
   {
     "slug": "yangwang-u8-2024-precio-ficha-tecnica",
