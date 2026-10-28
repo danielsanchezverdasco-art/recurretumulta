@@ -112,6 +112,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "volkswagen-mission-efficiency-record-1278-km": () => import("../blog-posts-motor-2026-o.ts"),
     "volkswagen-multivan-20-tdi-2026-precio-ficha-tecnica": () => import("../blog-posts-batch2b-4.ts"),
     "volkswagen-multivan-t7-2026-precio-ficha-tecnica": () => import("../blog-posts-volkswagen-a.ts"),
+    "volkswagen-nivel-3-china-hefei-pruebas-2026": () => import("../blog-posts-feed-20261028-vw3.ts"),
     "volkswagen-passat-variant-20-tdi-2026-precio-ficha-tecnica": () => import("../blog-posts-volkswagen-a.ts"),
     "volkswagen-passat-variant-20-tsi-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp7.ts"),
     "volkswagen-passat-variant-ehybrid-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp7.ts"),
