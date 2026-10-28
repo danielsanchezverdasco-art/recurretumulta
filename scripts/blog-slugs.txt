@@ -5243,3 +5243,5 @@ ebro-q-electrico-2027-precio-barcelona
 lexus-tz-electrico-2026-precio-6-plazas
 lepas-aura-concept-2026-presentacion
 lepas-l6-primeras-pruebas-385-km-autonomia
+bmw-ix7-2027-precio-ficha-tecnica
+audi-q9-2026-precio-ficha-tecnica

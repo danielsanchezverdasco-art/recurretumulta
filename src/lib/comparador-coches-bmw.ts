@@ -1176,7 +1176,37 @@ export const COCHES_BMW: CocheComparador[] = [
         alt: "Interior del BMW i7, pantalla de cine trasera",
         ancho: 2048,
         alto: 1152
-      }
+      },
+      {
+        "src": "/media/bmw-i7-xdrive60-2026-precio-ficha-tecnica-1.webp",
+        "alt": "BMW i7 2026, berlina eléctrica de lujo, vista de tres cuartos delantera en movimiento",
+        "ancho": 1280,
+        "alto": 720
+      },
+      {
+        "src": "/media/bmw-i7-xdrive60-2026-precio-ficha-tecnica-2.webp",
+        "alt": "BMW i7 2026 bitono, vista frontal con parrilla iluminada Iconic Glow",
+        "ancho": 1280,
+        "alto": 852
+      },
+      {
+        "src": "/media/bmw-i7-xdrive60-2026-precio-ficha-tecnica-3.webp",
+        "alt": "BMW i7 2026 bitono, perfil lateral de la berlina eléctrica",
+        "ancho": 1280,
+        "alto": 852
+      },
+      {
+        "src": "/media/bmw-i7-xdrive60-2026-precio-ficha-tecnica-4.webp",
+        "alt": "BMW i7 2026 plateado, vista de tres cuartos delantera circulando",
+        "ancho": 1280,
+        "alto": 720
+      },
+      {
+        "src": "/media/bmw-i7-carwow-ofertas.webp",
+        "alt": "BMW i7 blanco, vista de tres cuartos delantera (imagen de Carwow)",
+        "ancho": 800,
+        "alto": 500
+      },
     ],
     fuenteNombre: "motor.es (tarifa oficial i7 60 xDrive, octubre 2026)",
     fuenteUrl: "https://www.motor.es/bmw/i7/",

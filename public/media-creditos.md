@@ -4398,3 +4398,19 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 - lexus-tz-2026-precio-ficha-tecnica-oficial.webp: Lexus, kit de prensa oficial (vía forococheselectricos.com, 21/10/2026). Vista trasera tres cuartos del TZ 450e.
 - lexus-tz-2026-precio-ficha-tecnica-interior.webp: Lexus, kit de prensa oficial (vía forococheselectricos.com, 21/10/2026). Interior de 6 plazas (2+2+2).
 Licencia desconocida; fotos reales del modelo exacto.
+
+## BMW iX7 2027 — fotos espía del prototipo (23/10/2026)
+| /media/bmw-ix7-2027-precio-ficha-tecnica-hero.webp | https://newmobility.news/en/2026/10/23/bmw-prepares-ix7-seven-seater/ | SHProshots (vía newmobility.news) | prensa |
+| /media/bmw-ix7-2027-precio-ficha-tecnica-oficial.webp | https://www.carscoops.com/2291932/bmw-ix7-x7-m60-spy-shots/ | SHProshots (vía CarScoops) | prensa |
+| /media/bmw-ix7-2027-precio-ficha-tecnica-spy-1.webp | https://www.autonocion.com/bmw-ix7-fotos-espia-nurburgring-2026/ | AutoNoción | prensa |
+| /media/bmw-ix7-2027-precio-ficha-tecnica-spy-2.webp | https://www.autonocion.com/bmw-ix7-fotos-espia-nurburgring-2026/ | AutoNoción | prensa |
+| /media/bmw-ix7-2027-precio-ficha-tecnica-spy-3.webp | https://www.autonocion.com/bmw-ix7-fotos-espia-nurburgring-2026/ | AutoNoción | prensa |
+| /media/bmw-ix7-2027-precio-ficha-tecnica-spy-4.webp | https://www.autonocion.com/bmw-ix7-fotos-espia-nurburgring-2026/ | AutoNoción | prensa |
+| /media/bmw-ix7-2027-precio-ficha-tecnica-spy-5.webp | https://www.autonocion.com/bmw-ix7-fotos-espia-nurburgring-2026/ | AutoNoción | prensa |
+| /media/bmw-ix7-2027-precio-ficha-tecnica-spy-6.webp | https://forococheselectricos.com/noticias/bmw-ix7-2028-fotos-espia-suv-electrico-20260403-40457.html | ForoCochesEléctricos | prensa |
+| /media/bmw-ix7-2027-precio-ficha-tecnica-spy-7.webp | https://forococheselectricos.com/noticias/bmw-ix7-2028-fotos-espia-suv-electrico-20260403-40457.html | ForoCochesEléctricos | prensa |
+| /media/bmw-ix7-2027-precio-ficha-tecnica-spy-8.webp | https://forococheselectricos.com/noticias/bmw-ix7-2028-fotos-espia-suv-electrico-20260403-40457.html | ForoCochesEléctricos | prensa |
+| /media/bmw-i7-xdrive60-2026-precio-ficha-tecnica-1.webp | https://forococheselectricos.com/noticias/bmw-renueva-i7-728-km-autonomia-20260422-40681.html | ForoCochesEléctricos (foto oficial de prensa BMW) | prensa |
+| /media/bmw-i7-xdrive60-2026-precio-ficha-tecnica-2.webp | https://www.cochesyconcesionarios.com/novedades/novedades/06-2026-56568.html | CochesyConcesionarios (foto oficial de prensa BMW) | prensa |
+| /media/bmw-i7-xdrive60-2026-precio-ficha-tecnica-3.webp | https://www.cochesyconcesionarios.com/novedades/novedades/06-2026-56568.html | CochesyConcesionarios (foto oficial de prensa BMW) | prensa |
+| /media/bmw-i7-xdrive60-2026-precio-ficha-tecnica-4.webp | https://www.km77.com/coches/bmw/i7/2026/estandar/informacion | km77 (foto oficial de prensa BMW) | prensa |
