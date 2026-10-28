@@ -969,4 +969,86 @@ export const COCHES_WULING: CocheComparador[] = [
     ],
     analisisSlug: "wuling-yangguang-ev-2024-precio-ficha-tecnica",
   },
+  {
+    id: "wuling-atlas-ev-precio-ficha-tecnica",
+    garantiaBateriaAnos: 8, // webs oficiales europea y británica
+    garantiaBateriaKm: null, // sin cifra publicada para la batería
+    garantiaBateriaDegradacionPct: null,
+    imagenOficial: "/media/wuling-atlas-ev-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "/media/wuling-atlas-ev-precio-ficha-tecnica-interior.webp",
+    videoId: null,
+    videoCanal: null,
+    marca: "Wuling",
+    modelo: "Atlas EV",
+    tipo: "Eléctrico",
+    categoria: "Furgoneta",
+    precioDesde: 28675, // web oficial europea, impuestos incluidos, sin ayudas
+    potenciaCv: 82, // 60 kW x 1,36
+    autonomiaKm: 440, // ciclo CLTC chino, no WLTP europeo (ver pros)
+    maleteroL: null, // furgón: el volumen de carga (4.000 L) va en pros
+    ceroCien: null, // sin publicar
+    velocidadMax: 100,
+    bateriaKwh: 41.9,
+    cargaRapidaKw: null, // solo tiempo publicado: 30-80 % en 30 minutos
+    etiquetaDgt: "Cero",
+    pros: [
+      "Desde 28.675 € en Europa: el furgón eléctrico más barato de su tamaño",
+      "4.000 litros de carga y 1.249 kg de carga útil con carnet B",
+      "440 km CLTC con batería LFP de 41,9 kWh y carga 30-80 % en 30 minutos",
+      "Tracción trasera y ballestas: pensado para ir cargado a diario",
+      "Etiqueta Cero: acceso libre a todas las zonas de bajas emisiones",
+      "Tres versiones: furgón, minibús de 9 plazas y minicamper Adventure",
+      "Batería con 8 años de garantía según las webs oficiales",
+    ],
+    contras: [
+      "Velocidad máxima de 100 km/h: solo reparto urbano y periurbano",
+      "Los 440 km son ciclo CLTC chino, sin WLTP oficial publicado",
+      "Equipamiento justo: radio 1DIN, sin pantalla táctil ni ADAS avanzados",
+      "Sin prueba EuroNCAP: furgón en lanzamiento europeo, aún no probado",
+      "Pendientes: importador español, red de talleres y garantía en España",
+      "Sin datos europeos del minibús ni del minicamper (precio, carga, autonomía)",
+    ],
+    largoMm: 4945,
+    anchoMm: 1800,
+    altoMm: 1975,
+    pesoKg: 1841,
+    consumo: null, // sin cifra oficial; Autonoción estima ~21 kWh/100 km reales
+    consumoUnidad: null,
+    plazas: 2,
+    parNm: 220,
+    traccion: "Trasera",
+    emisionesCo2: 0,
+    aprox: [],
+    imagen: "/media/wuling-atlas-ev-precio-ficha-tecnica-hero.webp",
+    opiniones: [],
+    analisisSlug: "wuling-atlas-furgon-electrico-28675-euros-autonomia",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: furgón en lanzamiento europeo, aún no probado",
+    },
+    fuenteNombre: "Wuling Europe / Autonoción",
+    fuenteUrl: "https://www.wulingeurope.com/",
+    galeria: [
+      {
+        src: "/media/wuling-atlas-ev-precio-ficha-tecnica-hero.webp",
+        alt: "Wuling Atlas eléctrico blanco, vista trasera de tres cuartos",
+        ancho: 1200,
+        alto: 670,
+      },
+      {
+        src: "/media/wuling-atlas-ev-precio-ficha-tecnica-oficial.webp",
+        alt: "Wuling Atlas eléctrico blanco, vista frontal en una nave",
+        ancho: 1000,
+        alto: 1209,
+      },
+      {
+        src: "/media/wuling-atlas-ev-precio-ficha-tecnica-interior.webp",
+        alt: "Interior del Wuling Atlas, puesto de conducción con volante Wuling",
+        ancho: 1200,
+        alto: 670,
+      },
+    ],
+  },
 ];
