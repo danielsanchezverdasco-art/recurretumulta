@@ -220,7 +220,6 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "citroen-jumpy-diesel-2026-precio-ficha-tecnica": () => import("../blog-posts-citroen-a.ts"),
     "citroen-spacetourer-2026-precio-ficha-tecnica": () => import("../blog-posts-citroen-a.ts"),
     "citroen-spacetourer-campster-2025-precio-camper": () => import("../blog-posts-lote16.ts"),
-    "coche-electrico-siete-veces-diesel-espana-septiembre-2026": () => import("../blog-posts-octubre-2026.ts"),
     "coches-autonomos-de-nivel-3-y-4-en-espana-quien-asume-la-responsabilidad-legal-en-caso-de-accidente": () => import("../blog-posts-db.ts"),
     "coches-mas-seguros-2026-euroncap-ranking": () => import("../blog-posts-euroncap-2026.ts"),
     "codigo-78-carnet-automatico-manual-curso-7-horas": () => import("../blog-posts-db.ts"),

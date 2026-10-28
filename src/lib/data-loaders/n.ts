@@ -131,7 +131,6 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "niu-rqi-sport-2025-analisis-opinion": () => import("../blog-posts-motos-rescate-m3.ts"),
     "niu-rqi-sport-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m9.ts"),
     "noble-m500-2025-precio-ficha-tecnica": () => import("../blog-posts-noble-a.ts"),
-    "nobo-concept-chino-suv-pickup-boton": () => import("../blog-posts-octubre-2026.ts"),
     "normas-de-trafico-mas-raras-y-estrictas-en-europa-delito-penal-en-francia-prohibicion-del-movil-en-semaforos-y-multas-absurdas-al-volante": () => import("../blog-posts-db.ts"),
     "norton-v4sv-2026-precio-ficha-tecnica": () => import("../blog-posts-lote10.ts"),
     "notin-sevilla-jf-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-lote4.ts"),

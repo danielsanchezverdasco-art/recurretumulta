@@ -3,9 +3,7 @@
 export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   blog: {
     "e-zi-miniscooter-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m1.ts"),
-    "ebro-q-electrico-2027-precio-barcelona": () => import("../blog-posts-radar-ebro-q-20261021.ts"),
     "ebro-s400-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp11.ts"),
-    "ebro-s400-2027-224-cv-hibrido-eco": () => import("../blog-posts-octubre-2026.ts"),
     "ebro-s400-excellence-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp11.ts"),
     "ebro-s400-hibrido-precio-ficha-tecnica": () => import("../blog-posts-motor-nuevos-f.ts"),
     "ebro-s700-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp11.ts"),
@@ -100,7 +98,6 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "exeed-vx-c-dm-2025-precio-ficha-tecnica": () => import("../blog-posts-exeed-a.ts"),
   },
   coche: {
-    "ebro-q-2027-precio-ficha-tecnica": () => import("../comparador-coches-ebro.ts"),
     "ebro-s400-2025-precio-ficha-tecnica": () => import("../comparador-coches-exp11.ts"),
     "ebro-s400-excellence-2025-precio-ficha-tecnica": () => import("../comparador-coches-exp11.ts"),
     "ebro-s400-hibrido-precio-ficha-tecnica": () => import("../comparador-coches-nuevos.ts"),
@@ -199,7 +196,6 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "eriba-touring-542-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-eriba.ts"),
   },
   historia: {
-    "ebro-q-2027-precio-ficha-tecnica": () => import("../historia-modelos.ts"),
     "ebro-s400-2025-precio-ficha-tecnica": () => import("../historia-exp11.ts"),
     "ebro-s400-excellence-2025-precio-ficha-tecnica": () => import("../historia-exp11.ts"),
     "ebro-s400-hibrido-precio-ficha-tecnica": () => import("../historia-modelos.ts"),

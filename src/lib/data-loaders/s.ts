@@ -179,7 +179,6 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "speedway-leger": () => import("../blog-posts-patinetes-exp-p6.ts"),
     "speedway-leger-pro": () => import("../blog-posts-patinetes-exp-p6.ts"),
     "speedway-mini-4-pro": () => import("../blog-posts-patinetes-exp-p6.ts"),
-    "spotify-app-nativa-audi-47-paises": () => import("../blog-posts-radar-20261024b.ts"),
     "ssc-tuatara-2025-precio-ficha-tecnica": () => import("../blog-posts-lote4.ts"),
     "stark-future-varg-ex-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m6.ts"),
     "stark-future-varg-mx-1-2-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m6.ts"),
