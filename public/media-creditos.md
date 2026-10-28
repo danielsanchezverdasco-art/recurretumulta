@@ -4378,3 +4378,6 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/forthing-friday-reev-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Forthing_5_REEV_IMG_5921.jpg | Alexander Migl (Alexander-93) | CC BY-SA 4.0 |
 | /media/challenger-380-2026-foto-challenger-salon.webp | https://www.challenger-camping-cars.fr/modele/380/ (380-GRAPHITE-GD-INT) | Challenger (web oficial del fabricante) | © Challenger, imagen oficial del fabricante |
 | /media/chausson-v594-2026-foto-chausson-salon.webp | https://www.chausson-camping-cars.fr/modele/v594/ (V594-SPORT-SALON-V2) | Chausson (web oficial del fabricante) | © Chausson, imagen oficial del fabricante |
+
+## Waymo robotaxis Madrid — radar 20/10/2026 (blog)
+- waymo-jaguar-i-pace-madrid-hero.webp: Alamy, vía tribunetimes.co.uk (https://tribunetimes.co.uk/). Foto real de Jaguar I-PACE blanco con Waymo Driver (LiDAR en techo, sensores laterales). Licencia desconocida.
