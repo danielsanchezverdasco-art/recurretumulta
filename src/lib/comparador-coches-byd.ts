@@ -1261,4 +1261,85 @@ export const COCHES_BYD: CocheComparador[] = [
       },
     ],
   },
+  {
+    id: "byd-seal-07-2027-segunda-generacion-precio-ficha-tecnica",
+    garantiaBateriaAnos: null, // sin confirmar para el mercado chino
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagenOficial: "/media/byd-seal-07-2027-segunda-generacion-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "/media/byd-seal-07-2027-segunda-generacion-precio-ficha-tecnica-interior.webp",
+    videoId: null,
+    videoCanal: null,
+    marca: "BYD",
+    modelo: "Seal 07 (2ª generación)",
+    tipo: "Eléctrico",
+    categoria: "Berlina",
+    precioDesde: null, // BYD aún no ha anunciado el precio (teasers 23/10/2026)
+    potenciaCv: 408, // versión de gran autonomía, 300 kW; la de acceso da 333 CV
+    autonomiaKm: 875, // ciclo CLTC chino, no WLTP europeo (ver pros)
+    maleteroL: null,
+    ceroCien: null, // sin publicar en la ficha MIIT
+    velocidadMax: 240,
+    bateriaKwh: 88.68, // versión de gran autonomía; la de acceso lleva 76,74 kWh
+    cargaRapidaKw: null, // BYD no publica la potencia pico; CarNewsChina cita 10-97 % en 9 min
+    etiquetaDgt: null, // modelo chino sin homologación europea confirmada
+    pros: [
+      "Hasta 875 km CLTC con la batería de 88,68 kWh (718 km WLTP estimados)",
+      "408 CV con tracción trasera y 240 km/h de velocidad máxima",
+      "Interior Ocean Rhythm nuevo: palanca en la columna y dos cargadores inalámbricos",
+      "Sonido Devialet de 20 altavoces y asientos con calefacción, ventilación y masaje",
+      "Carga flash: del 10 % al 97 % en 9 minutos según CarNewsChina (catálogo MIIT)",
+      "También en híbrido enchufable DM-i con 245 km de autonomía eléctrica",
+    ],
+    contras: [
+      "Precio sin anunciar: BYD no ha desvelado ni precio ni fecha de lanzamiento",
+      "Los 875 km son ciclo CLTC chino, no WLTP europeo",
+      "Sin aceleración 0-100 publicada y sin potencia pico de carga",
+      "Modelo chino: sin planes confirmados para Europa o España",
+      "Sin datos EuroNCAP: aún no probado",
+      "Berlina de 5,08 m: complicada en ciudad y aparcamientos",
+    ],
+    largoMm: 5080,
+    anchoMm: 1960,
+    altoMm: 1495,
+    pesoKg: 2060, // versión de 408 CV; la de 333 CV pesa 1.975 kg
+    consumo: null,
+    consumoUnidad: null,
+    plazas: 5,
+    parNm: null,
+    traccion: "Trasera",
+    emisionesCo2: 0,
+    aprox: [],
+    imagen: "/media/byd-seal-07-2027-segunda-generacion-precio-ficha-tecnica-hero.webp",
+    opiniones: [],
+    analisisSlug: "byd-seal-07-2027-segunda-generacion-interior-autonomia",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo chino presentado en 2026, aún no probado",
+    },
+    fuenteNombre: "CnEVPost / MIIT",
+    fuenteUrl: "https://cnevpost.com/2026/10/23/byd-steps-up-teasers-2nd-gen-seal-07/",
+    galeria: [
+      {
+        src: "/media/byd-seal-07-2027-segunda-generacion-precio-ficha-tecnica-hero.webp",
+        alt: "BYD Seal 07 de segunda generación, perfil lateral con LiDAR en el techo",
+        ancho: 1200,
+        alto: 675,
+      },
+      {
+        src: "/media/byd-seal-07-2027-segunda-generacion-precio-ficha-tecnica-oficial.webp",
+        alt: "Trasera del BYD Seal 07 de segunda generación, franja luminosa de lado a lado (MIIT)",
+        ancho: 798,
+        alto: 450,
+      },
+      {
+        src: "/media/byd-seal-07-2027-segunda-generacion-precio-ficha-tecnica-interior.webp",
+        alt: "Interior Ocean Rhythm del BYD Seal 07 de segunda generación",
+        ancho: 1200,
+        alto: 675,
+      },
+    ],
+  },
 ];
