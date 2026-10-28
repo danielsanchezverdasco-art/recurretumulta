@@ -572,10 +572,11 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
       "305 km eléctricos CLTC con batería CATL LFP de 47,14 kWh y arquitectura 800 V",
       "Flotación de emergencia, Crab Walk y 800 mm de vadeo: tecnología 4x4 extrema",
       "43.900 reservas en la primera hora de preventa en China",
+      "Venta en Europa confirmada: segunda mitad de 2027 (anunciado en el Salón de París 2026)",
     ],
     contras: [
       "En preventa en China desde septiembre de 2026: precios definitivos aún por anunciar (10/10/2026)",
-      "Solo mercado chino de momento: se estudia su llegada a Europa como 'Battleship 700'",
+      "Precio europeo aún sin anunciar",
       "Casi 2,9 toneladas: peso que penaliza fuera del asfalto",
       "Sin datos oficiales de consumo ni de carga rápida DC publicados",
     ],
