@@ -110,7 +110,7 @@ export default function GuiaPrescripcionPage() {
       <li>Cualquier notificación válida que te dirijan (incluida la publicación en el BOE tras dos intentos fallidos en tu domicilio).</li>
       <li>Tus propios escritos y recursos también reinician el cómputo: ojo con recurrir "por si acaso" si el plazo estaba a punto de cumplirse.</li>
       </ul>
-      <p className="text-slate-600 mb-4">El análisis completo, con mitos y casos, en <a href="https://recurretumulta.online/blog/prescripcion-y-caducidad-de-las-multas-de-trafico-cuando-expira-una-sancion-de-la-dgt-plazos-legales-mitos-y-como-anular-expedientes-fuera-de-plazo" className="text-green-700 font-semibold hover:underline">prescripción y caducidad de las multas de tráfico</a> y en <a href="https://recurretumulta.online/blog/prescripcion-multas-trafico-plazos" className="text-green-700 font-semibold hover:underline">prescripción de multas: plazos</a>.</p>
+      <p className="text-slate-600 mb-4">El análisis completo, con mitos y casos, en <a href="https://recurretumulta.online/blog/prescripcion-y-caducidad-de-las-multas-de-trafico-cuando-expira-una-sancion-de-la-dgt-plazos-legales-mitos-y-como-anular-expedientes-fuera-de-plazo" className="text-green-700 font-semibold hover:underline">prescripción y caducidad de las multas de tráfico</a> y en <a href="https://recurretumulta.online/blog/prescripcion-y-caducidad-de-las-multas-de-trafico-cuando-expira-una-sancion-de-la-dgt-plazos-legales-mitos-y-como-anular-expedientes-fuera-de-plazo" className="text-green-700 font-semibold hover:underline">prescripción de multas: plazos</a>.</p>
 
       <h2 className="text-2xl font-bold mt-10 mb-4">Fuentes oficiales</h2>
       <ul className="list-disc pl-6 space-y-2 text-slate-600 mb-4">
