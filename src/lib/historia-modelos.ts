@@ -272,6 +272,7 @@ export const HISTORIA_MODELOS: Record<string, HistoriaModelo> = {
   "lexus-es-300h-2026-precio-ficha-tecnica": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: null }] },
   "lexus-es-350e-2026-precio-ficha-tecnica": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: null }] },
   "lexus-es-500e-2026-precio-ficha-tecnica": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: null }] },
+  "lexus-tz-2026-precio-ficha-tecnica": { lanzamiento: 2026, hitos: [{ anio: 2026, tipo: "lanzamiento", cambio: "desvelados gama y precios para España (450e Executive desde 88.000 €, 550e Luxury 103.000 €); llegada en noviembre de 2026", foto: "/media/lexus-tz-2026-precio-ficha-tecnica-oficial.webp" }] },
   "lexus-ls-500h-2024-precio-ficha-tecnica": { lanzamiento: 2017, hitos: [{ anio: 2017, tipo: "lanzamiento", cambio: null, foto: null }, { anio: 2020, tipo: "restyling", cambio: "restyling/facelift de mitad de ciclo", foto: null }] },
   "lexus-lc-500-2024-precio-ficha-tecnica": { lanzamiento: 2017, hitos: [{ anio: 2017, tipo: "lanzamiento", cambio: null, foto: "/media/historia-lexus-lc-500-2024-precio-ficha-tecnica-2017.webp" }, { anio: 2026, tipo: "fin", cambio: null, foto: null }] },
   "lexus-lc-500h-2024-precio-ficha-tecnica": { lanzamiento: 2017, hitos: [{ anio: 2017, tipo: "lanzamiento", cambio: null, foto: null }, { anio: 2026, tipo: "fin", cambio: null, foto: null }] },

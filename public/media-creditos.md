@@ -4393,3 +4393,8 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 - avatr-espana-2027-06-interior.webp: No Sólo Motor (nosolomotor.es), interior del AVATR 06. Licencia desconocida.
 - omoda-x-concept-china-hero.webp: Hipertextual (hipertextual.com), imagen oficial del Omoda X concept con cámara térmica. Licencia desconocida.
 - porsche-975-rse-monza-hero.webp: Porsche AG / Andi Mayr, infografía oficial de datos técnicos del 975 RSE (newsroom.porsche.com). Licencia desconocida.
+
+## Lexus TZ 2026 — ficha + blog radar (21/10/2026)
+- lexus-tz-2026-precio-ficha-tecnica-oficial.webp: Lexus, kit de prensa oficial (vía forococheselectricos.com, 21/10/2026). Vista trasera tres cuartos del TZ 450e.
+- lexus-tz-2026-precio-ficha-tecnica-interior.webp: Lexus, kit de prensa oficial (vía forococheselectricos.com, 21/10/2026). Interior de 6 plazas (2+2+2).
+Licencia desconocida; fotos reales del modelo exacto.
