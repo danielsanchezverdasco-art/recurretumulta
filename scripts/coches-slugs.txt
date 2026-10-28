@@ -2540,3 +2540,5 @@ audi-q7-2026-precio-ficha-tecnica
 byd-seagull-2026-precio-ficha-tecnica
 ebro-q-2027-precio-ficha-tecnica
 lexus-tz-2026-precio-ficha-tecnica
+bmw-serie-7-2027-precio-ficha-tecnica
+lexus-tz-2026-precio-ficha-tecnica

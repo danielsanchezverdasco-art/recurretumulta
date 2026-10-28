@@ -1415,4 +1415,91 @@ export const COCHES_LEXUS: CocheComparador[] = [
     fuenteNombre: "ForoCochesEléctricos (fuente: Lexus), pruebascoches.com y motormundial.es (octubre 2026)",
     fuenteUrl: "https://forococheselectricos.com/noticias/nuevo-lexus-tz-precio-espana-20261021-42525.html",
   },
+  // 10. Lexus TZ (SUV eléctrico de 6 plazas, 2026; a la venta en España desde 88.000 €)
+  {
+    id: "lexus-tz-2026-precio-ficha-tecnica",
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagenOficial: "/media/lexus-tz-2026-verde-gaia.webp",
+    imagenInteriorOficial: "",
+    videoId: null,
+    videoCanal: null,
+    marca: "Lexus",
+    modelo: "TZ",
+    tipo: "Eléctrico",
+    categoria: "SUV",
+    precioDesde: 88000,
+    potenciaCv: 313,
+    autonomiaKm: 540,
+    maleteroL: 257,
+    ceroCien: 5.4,
+    velocidadMax: null,
+    bateriaKwh: 95.8,
+    cargaRapidaKw: 150,
+    etiquetaDgt: "Cero",
+    pros: [
+      "6 plazas de serie en tres filas: el primer eléctrico de Lexus con tercera fila",
+      "Hasta 540 km WLTP con batería de 95,8 kWh y carga rápida de 150 kW",
+      "Tracción total DIRECT4 de serie en las dos versiones",
+      "Dirección trasera (4°): radio de giro de solo 5,4 m para sus 5,10 m",
+      "Cargador de 22 kW en alterna y Lexus Safety System+ 4.0 de serie",
+    ],
+    contras: [
+      "Desde 88.000 € y hasta 105.000 €: precio de superlujo",
+      "Maletero de solo 257 litros con las seis plazas en uso",
+      "2.630 kg en vacío: el peso lastra la eficiencia",
+      "Sin prueba Euro NCAP publicada todavía",
+      "Garantía de la batería aún no publicada por Lexus",
+    ],
+    largoMm: 5100,
+    anchoMm: null,
+    altoMm: null,
+    pesoKg: 2630,
+    consumo: null,
+    consumoUnidad: "kWh/100 km",
+    plazas: 6,
+    parNm: null,
+    traccion: "Total",
+    emisionesCo2: 0,
+    aprox: [],
+    imagen: "/media/lexus-tz-2026-verde-gaia.webp",
+    analisisSlug: "lexus-tz-espana-precio-88-000-euros-2026",
+    opiniones: [],
+    costeMensual: null,
+    galeria: [
+      {
+        "src": "/media/lexus-tz-2026-verde-gaia.webp",
+        "alt": "Lexus TZ en color Verde Gaia, frontal tres cuartos",
+        "ancho": 1400,
+        "alto": 933
+      },
+      {
+        "src": "/media/lexus-tz-550e-2026.webp",
+        "alt": "Lexus TZ 550e en azul, frontal tres cuartos",
+        "ancho": 1024,
+        "alto": 677
+      }
+    ],
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo no probado todavía"
+    },
+    planMantenimiento: null,
+    mantenimientoDIY: null,
+    versiones: [
+      { nombre: "TZ 450e Executive", precio: 88000, potenciaCv: 313 },
+      { nombre: "TZ 550e Luxury", precio: 103000, potenciaCv: 408, autonomiaKm: 540 },
+      { nombre: "TZ 550e Luxury Bitono", precio: 105000, potenciaCv: 408 }
+    ],
+    curiosidad: {
+      texto: "La dirección trasera gira las ruedas hasta 4 grados y deja el radio de giro en 5,4 metros, pese a sus 5,10 metros de largo. El modo Comfort coordina dirección, frenos y tracción para que los pasajeros traseros se muevan lo menos posible.",
+      fuenteNombre: "hibridosyelectricos.com",
+      fuenteUrl: "https://www.hibridosyelectricos.com/coches/nuevo-coche-electrico-lexus-ya-se-vende-en-espana-con-6-asientos-540-km-autonomia-precio-minimo-88000_90087_102.html"
+    },
+    fuenteNombre: "hibridosyelectricos.com",
+    fuenteUrl: "https://www.hibridosyelectricos.com/coches/nuevo-coche-electrico-lexus-ya-se-vende-en-espana-con-6-asientos-540-km-autonomia-precio-minimo-88000_90087_102.html",
+  },
 ];
