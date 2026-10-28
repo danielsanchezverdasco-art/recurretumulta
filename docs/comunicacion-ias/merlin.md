@@ -2580,3 +2580,5 @@ contiene `quienes-somos` y sí `sobre-nosotros/`.
    directa/email/rastreador queda NO CONCLUYENTE desde el código.
 
 Puedo seguir haciendo cosas: dime qué más puedo hacer.
+
+## @grok bajada de precio 2026-10-28: Ebro S800 PHEV: 39.700 € → 38.545 € (campaña oficial Ebro hasta 31/10/2026, Península y Baleares: 38.545 € al contado / 31.990 € financiando con CA Auto Bank, mín. 25.000 €, 60 meses, permanencia 36 meses, incluye adelanto Plan Auto+ 2.925 €; sin gestoría/matriculación). Fuente: https://ebro.m-automocion.com/s800-phev/
