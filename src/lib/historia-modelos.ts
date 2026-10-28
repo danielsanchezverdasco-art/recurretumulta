@@ -883,6 +883,7 @@ export const HISTORIA_MODELOS: Record<string, HistoriaModelo> = {
   "audi-sq5-2025-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2024, tipo: "lanzamiento", cambio: null, foto: null }] },
   "audi-q6-e-tron-2025-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2024, tipo: "lanzamiento", cambio: null, foto: null }] },
   "audi-q7-2025-precio-ficha-tecnica": { lanzamiento: 2015, hitos: [{ anio: 2015, tipo: "lanzamiento", cambio: null, foto: null }, { anio: 2019, tipo: "restyling", cambio: "restyling", foto: null }, { anio: 2024, tipo: "restyling", cambio: "segundo restyling", foto: null }, { anio: 2026, tipo: "fin", cambio: null, foto: null }] },
+  "audi-q7-2026-precio-ficha-tecnica": { lanzamiento: 2026, hitos: [{ anio: 2026, tipo: "lanzamiento", cambio: "tercera generación: V6 TDI MHEV plus con compresor eléctrico EPC", foto: null }] },
   "audi-q8-2025-precio-ficha-tecnica": { lanzamiento: 2018, hitos: [{ anio: 2018, tipo: "lanzamiento", cambio: null, foto: null }, { anio: 2023, tipo: "restyling", cambio: "restyling", foto: null }] },
   "audi-e-tron-gt-2025-precio-ficha-tecnica": { lanzamiento: 2021, hitos: [{ anio: 2021, tipo: "lanzamiento", cambio: null, foto: null }, { anio: 2024, tipo: "restyling", cambio: "restyling", foto: null }] },
   "audi-rs-e-tron-gt-2025-precio-ficha-tecnica": { lanzamiento: 2021, hitos: [{ anio: 2021, tipo: "lanzamiento", cambio: null, foto: null }, { anio: 2024, tipo: "restyling", cambio: "restyling", foto: null }] },
