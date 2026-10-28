@@ -25,7 +25,7 @@ import type { BlogPost } from "./blog-meta.ts";
 
 export const RADAR_20261028_0458_POSTS: BlogPost[] = [
   {
-    slug: "aston-martin-valhalla-spider-2027-precio-ficha-tecnica",
+    slug: "aston-martin-valhalla-spider-precio-ficha-tecnica",
     title: "Aston Martin Valhalla Spider: 1.079 CV sin techo, 350 km/h",
     excerpt:
       "El Valhalla Spider es el descapotable más rápido de Aston Martin: 1.079 CV, 350 km/h sin techo y entregas en el tercer trimestre de 2027.",
@@ -41,11 +41,11 @@ export const RADAR_20261028_0458_POSTS: BlogPost[] = [
       "Valhalla Spider entregas 2027",
       "Valhalla Spider vs coupé",
     ],
-    content: `<img src=/media/aston-martin-valhalla-spider-2027-precio-ficha-tecnica-hero.webp alt=Aston Martin Valhalla Spider plateado y dorado, descapotado, en carretera de montaña al atardecer>
+    content: `<img src=/media/valhalla-spider-2027-hero.webp alt=Aston Martin Valhalla Spider plateado y dorado, descapotado, en carretera de montaña al atardecer>
 
 *El Valhalla Spider, descapotado y en marcha: el mismo V8 híbrido del coupé, con el cielo por techo y la misma velocidad máxima. Foto de prensa del Spider exacto, verificada visualmente como el modelo descapotable, no el coupé.*
 
-Hay descapotables que nacen recortando un techo y otros que nacen repensando el coche entero. El Aston Martin Valhalla Spider pertenece al segundo grupo, y la prueba está en el dato que más cuesta creer de su nota de presentación: alcanza los 350 km/h con el techo quitado. No con el techo duro puesto, ni en una configuración especial de circuito, sino a cielo abierto, con el viento entrando en el habitáculo. Eso lo convierte, según la propia Aston Martin, en el descapotable más rápido que la marca ha fabricado jamás, por encima incluso del Valkyrie Spider, que se quedaba en unos 330 km/h sin techo. Y lo hace sin perder ni un caballo respecto al coupé: el mismo sistema híbrido enchufable, los mismos 1.079 CV, el mismo par de 1.100 Nm y la misma caja de doble embrague de ocho velocidades. Si buscas los números secos, los tienes en la <a href=/coches/aston-martin-valhalla-spider-2027-precio-ficha-tecnica/>ficha técnica del Valhalla Spider</a>, y si quieres comparar con el coche cerrado, ahí está la <a href=/coches/aston-martin-valhalla-2025-precio-ficha-tecnica/>ficha del Valhalla coupé</a>. Este artículo cuenta lo demás: por qué quitar el techo a un hiperdeportivo de motor central es un problema de ingeniería serio, cómo lo ha resuelto Aston Martin, qué techos lleva, cuánto cuesta de verdad (y cuánto no se sabe todavía) y qué queda pendiente antes de que las primeras unidades lleguen a sus dueños en el tercer trimestre de 2027.
+Hay descapotables que nacen recortando un techo y otros que nacen repensando el coche entero. El Aston Martin Valhalla Spider pertenece al segundo grupo, y la prueba está en el dato que más cuesta creer de su nota de presentación: alcanza los 350 km/h con el techo quitado. No con el techo duro puesto, ni en una configuración especial de circuito, sino a cielo abierto, con el viento entrando en el habitáculo. Eso lo convierte, según la propia Aston Martin, en el descapotable más rápido que la marca ha fabricado jamás, por encima incluso del Valkyrie Spider, que se quedaba en unos 330 km/h sin techo. Y lo hace sin perder ni un caballo respecto al coupé: el mismo sistema híbrido enchufable, los mismos 1.079 CV, el mismo par de 1.100 Nm y la misma caja de doble embrague de ocho velocidades. Si buscas los números secos, los tienes en la <a href=/coches/aston-martin-valhalla-spider-precio-ficha-tecnica/>ficha técnica del Valhalla Spider</a>, y si quieres comparar con el coche cerrado, ahí está la <a href=/coches/aston-martin-valhalla-2025-precio-ficha-tecnica/>ficha del Valhalla coupé</a>. Este artículo cuenta lo demás: por qué quitar el techo a un hiperdeportivo de motor central es un problema de ingeniería serio, cómo lo ha resuelto Aston Martin, qué techos lleva, cuánto cuesta de verdad (y cuánto no se sabe todavía) y qué queda pendiente antes de que las primeras unidades lleguen a sus dueños en el tercer trimestre de 2027.
 
 ## Ficha técnica resumida: Aston Martin Valhalla Spider
 
@@ -65,7 +65,7 @@ Hay descapotables que nacen recortando un techo y otros que nacen repensando el 
 | **Precio** | Sin precio oficial; estimación británica de unas 935.000 libras |
 | **Etiqueta DGT** | ECO (híbrido enchufable, como el coupé) |
 
-¿Prefieres todos los datos? Están en la <a href=/coches/aston-martin-valhalla-spider-2027-precio-ficha-tecnica/>ficha del Valhalla Spider</a> con galería y costes mensuales estimados.
+¿Prefieres todos los datos? Están en la <a href=/coches/aston-martin-valhalla-spider-precio-ficha-tecnica/>ficha del Valhalla Spider</a> con galería y costes mensuales estimados.
 
 ## Presentación oficial: 28 de octubre de 2026, Gaydon
 
@@ -81,7 +81,7 @@ Esa consecuencia es el espacio. El Valhalla no tiene maletero útil, ni en el co
 
 La velocidad máxima depende del techo que lleves, y aquí no hay letra pequeña que esconder. A cielo abierto el Spider alcanza 350 km/h, igual que el coupé y que con el techo duro de carbono colocado. Con la capota de tela puesta, el límite baja de forma automática a 200 km/h. No es un capricho: una capota de tela a 350 km/h es un problema de seguridad y de durabilidad, y Aston Martin lo resuelve con un límite electrónico claro. Quien compre el Spider para ir a 350 km/h tendrá que hacerlo sin techo o con el techo duro; quien lo compre para viajar con la capota puesta tiene 200 km/h de sobra para cualquier carretera del mundo, y la tranquilidad de que el coche no le dejará pasar de ahí con la tela montada.
 
-<img src=/media/aston-martin-valhalla-spider-2027-precio-ficha-tecnica-oficial.webp alt=Aston Martin Valhalla Spider de frente, descapotado, circulando por una carretera de montaña>
+<img src=/media/valhalla-spider-2027-oficial.webp alt=Aston Martin Valhalla Spider de frente, descapotado, circulando por una carretera de montaña>
 
 *De frente, el Spider mantiene la cara del coupé: faros finos, morro bajo y una parrilla enorme que alimenta la refrigeración del V8. Foto de prensa del Spider exacto.*
 
@@ -99,7 +99,7 @@ En lo mecánico, el Spider es el coupé sin techo, y eso es una buena noticia. E
 
 Las prestaciones coinciden con las del coupé: de 0 a 100 km/h en 2,5 s y 350 km/h de punta, velocidad que también se logra sin techo, según hemos explicado. La nota oficial del Spider no publica una cifra de aceleración separada para la variante abierta, y por eso la ficha y este artículo hablan del 2,5 segundos del coupé como referencia del sistema, no como una medición independiente del Spider: con el mismo sistema y solo 25 kg más en seco, no hay motivo para esperar una cifra distinta, pero tampoco hay una medición oficial propia que citar. Lo mismo ocurre con la autonomía eléctrica y el consumo: la nota oficial del Spider no da cifras separadas, y por eso no las inventamos aquí. El coupé homologa 14 km eléctricos, una cifra que le basta para la etiqueta ECO, y el Spider, como híbrido enchufable con el mismo sistema, comparte esa etiqueta, pero su autonomía eléctrica propia queda pendiente de homologación y no se copia sin más.
 
-<img src=/media/aston-martin-valhalla-spider-2027-precio-ficha-tecnica-interior.webp alt=Habitáculo abierto del Aston Martin Valhalla Spider, con asientos deportivos rojos y el techo quitado>
+<img src=/media/valhalla-spider-2027-interior.webp alt=Habitáculo abierto del Aston Martin Valhalla Spider, con asientos deportivos rojos y el techo quitado>
 
 *El habitáculo abierto, visto desde arriba: asientos deportivos rojos, puesto de conducción bajo y el techo ya quitado. Las fotos de prensa del Spider son todas exteriores; esta vista cenital es la que mejor muestra el cockpit.*
 

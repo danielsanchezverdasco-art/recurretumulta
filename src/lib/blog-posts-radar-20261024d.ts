@@ -11,7 +11,7 @@ import type { BlogPost } from "./blog-meta.ts";
 
 export const RADAR_20261024D_POSTS: BlogPost[] = [
   {
-    slug: "byd-seal-07-2027-segunda-generacion-interior-autonomia",
+    slug: "byd-seal-07-2027-interior-autonomia",
     title: "Nuevo BYD Seal 07 2027: 875 km CLTC, 408 CV y 5,08 m",
     excerpt:
       "BYD enseña el interior de la segunda generación del Seal 07: 5,08 m, hasta 875 km CLTC, 408 CV y un habitáculo Ocean Rhythm con 20 altavoces Devialet.",
@@ -28,7 +28,7 @@ export const RADAR_20261024D_POSTS: BlogPost[] = [
       "BYD Seal 07 ficha técnica",
       "BYD Seal 07 MIIT 5080",
     ],
-    content: `<img src=/media/byd-seal-07-2027-segunda-generacion-precio-ficha-tecnica-hero.webp alt=BYD Seal 07 de segunda generación, perfil lateral con sensor LiDAR en el techo>
+    content: `<img src=/media/byd-seal-07-2027-hero.webp alt=BYD Seal 07 de segunda generación, perfil lateral con sensor LiDAR en el techo>
 
 *El Seal 07 de segunda generación en su teaser oficial: silueta fastback, tiradores semiocultos y LiDAR sobre el techo. Foto: BYD, vía CnEVPost (licencia desconocida).*
 
@@ -54,7 +54,7 @@ El diseño acompaña al crecimiento. BYD aplica el lenguaje Ocean Aesthetics 2.0
 
 El interior es la gran novedad de esta semana, y el motivo por el que el coche vuelve a ser noticia dos meses después de aparecer en el MIIT. BYD lo ha rediseñado por completo bajo el concepto Ocean Rhythm, y el cambio más práctico salta a la vista en cuanto se mira la consola central: desaparece el selector de cristal del modelo anterior y la selección de marcha pasa a una palanca situada en la columna de dirección, al estilo de lo que hacen ya muchos eléctricos premium.
 
-<img src=/media/byd-seal-07-2027-segunda-generacion-precio-ficha-tecnica-interior.webp alt=Interior del BYD Seal 07 de segunda generación, cabina Ocean Rhythm con pantalla flotante y asientos en tono morado>
+<img src=/media/byd-seal-07-2027-interior.webp alt=Interior del BYD Seal 07 de segunda generación, cabina Ocean Rhythm con pantalla flotante y asientos en tono morado>
 
 *La cabina Ocean Rhythm del nuevo Seal 07: volante de tres radios achatado, instrumentación digital independiente y consola flotante. Foto: BYD, vía CnEVPost (licencia desconocida).*
 
@@ -120,7 +120,7 @@ Todo el habitáculo es nuevo: concepto Ocean Rhythm, palanca de cambios en la co
 ### ¿Solo será eléctrico?
 No. Habrá dos versiones eléctricas de tracción trasera y una híbrida enchufable DM-i, con el mismo cuerpo de 5,08 metros y cinco plazas en todas las variantes.
 
-**Ficha en esta web:** <a href=/coches/byd-seal-07-2027-segunda-generacion-precio-ficha-tecnica/>BYD Seal 07 (2ª generación) — ficha técnica</a> · <a href=/coches/byd-seal-2024-precio-ficha-tecnica/>BYD Seal (Europa) — ficha técnica y precio</a> · <a href=/coches/byd-seal-08-2026-precio-ficha-tecnica/>BYD Seal 08 — ficha técnica</a>
+**Ficha en esta web:** <a href=/coches/byd-seal-07-gen2-precio-ficha-tecnica/>BYD Seal 07 (2ª generación) — ficha técnica</a> · <a href=/coches/byd-seal-2024-precio-ficha-tecnica/>BYD Seal (Europa) — ficha técnica y precio</a> · <a href=/coches/byd-seal-08-2026-precio-ficha-tecnica/>BYD Seal 08 — ficha técnica</a>
 
 **¿Te han puesto una multa?** Antes de pagarla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 

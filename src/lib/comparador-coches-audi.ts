@@ -1062,8 +1062,8 @@ export const COCHES_AUDI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/audi-q9-tdi-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/audi-q9-tdi-2026-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/audi-q9-tdi-2026-oficial.webp",
+    imagenInteriorOficial: "/media/audi-q9-tdi-2026-interior.webp",
     videoId: null,
     videoCanal: null,
     marca: "Audi",
@@ -1104,7 +1104,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: 205,
     aprox: [],
-    imagen: "/media/audi-q9-tdi-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "/media/audi-q9-tdi-2026-hero.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 14.43,
@@ -1119,19 +1119,19 @@ export const COCHES_AUDI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/audi-q9-tdi-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "/media/audi-q9-tdi-2026-oficial.webp",
         "alt": "Audi Q9 azul, vista delantera tres cuartos",
         "ancho": 1200,
         "alto": 676
       },
       {
-        "src": "/media/audi-q9-tdi-2026-precio-ficha-tecnica-hero.webp",
+        "src": "/media/audi-q9-tdi-2026-hero.webp",
         "alt": "Audi Q9 azul, vista trasera tres cuartos con pilotos OLED",
         "ancho": 1200,
         "alto": 752
       },
       {
-        "src": "/media/audi-q9-tdi-2026-precio-ficha-tecnica-interior.webp",
+        "src": "/media/audi-q9-tdi-2026-interior.webp",
         "alt": "Interior del Audi Q9 con Digital Stage de tres pantallas",
         "ancho": 1200,
         "alto": 1200
@@ -2210,7 +2210,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/audi-q7-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/audi-q7-2026-oficial.webp",
     imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
@@ -2252,7 +2252,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/audi-q7-2026-precio-ficha-tecnica-oficial.webp",
+    imagen: "/media/audi-q7-2026-oficial.webp",
     opiniones: [],
     analisisSlug: "audi-q7-2026-tercera-generacion-precio",
     euroncap: {
@@ -2273,7 +2273,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/audi-q7-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "/media/audi-q7-2026-oficial.webp",
         "alt": "Audi Q7 2026 (tercera generación), vista frontal tres cuartos",
         "ancho": 650,
         "alto": 339,

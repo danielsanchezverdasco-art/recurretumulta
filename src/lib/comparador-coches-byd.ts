@@ -1262,12 +1262,12 @@ export const COCHES_BYD: CocheComparador[] = [
     ],
   },
   {
-    id: "byd-seal-07-2027-segunda-generacion-precio-ficha-tecnica",
+    id: "byd-seal-07-gen2-precio-ficha-tecnica",
     garantiaBateriaAnos: null, // sin confirmar para el mercado chino
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/byd-seal-07-2027-segunda-generacion-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/byd-seal-07-2027-segunda-generacion-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/byd-seal-07-2027-oficial.webp",
+    imagenInteriorOficial: "/media/byd-seal-07-2027-interior.webp",
     videoId: null,
     videoCanal: null,
     marca: "BYD",
@@ -1310,9 +1310,9 @@ export const COCHES_BYD: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: [],
-    imagen: "/media/byd-seal-07-2027-segunda-generacion-precio-ficha-tecnica-hero.webp",
+    imagen: "/media/byd-seal-07-2027-hero.webp",
     opiniones: [],
-    analisisSlug: "byd-seal-07-2027-segunda-generacion-interior-autonomia",
+    analisisSlug: "byd-seal-07-2027-interior-autonomia",
     euroncap: {
       estrellas: null,
       ano: null,
@@ -1323,19 +1323,19 @@ export const COCHES_BYD: CocheComparador[] = [
     fuenteUrl: "https://cnevpost.com/2026/10/23/byd-steps-up-teasers-2nd-gen-seal-07/",
     galeria: [
       {
-        src: "/media/byd-seal-07-2027-segunda-generacion-precio-ficha-tecnica-hero.webp",
+        src: "/media/byd-seal-07-2027-hero.webp",
         alt: "BYD Seal 07 de segunda generación, perfil lateral con LiDAR en el techo",
         ancho: 1200,
         alto: 675,
       },
       {
-        src: "/media/byd-seal-07-2027-segunda-generacion-precio-ficha-tecnica-oficial.webp",
+        src: "/media/byd-seal-07-2027-oficial.webp",
         alt: "Trasera del BYD Seal 07 de segunda generación, franja luminosa de lado a lado (MIIT)",
         ancho: 798,
         alto: 450,
       },
       {
-        src: "/media/byd-seal-07-2027-segunda-generacion-precio-ficha-tecnica-interior.webp",
+        src: "/media/byd-seal-07-2027-interior.webp",
         alt: "Interior Ocean Rhythm del BYD Seal 07 de segunda generación",
         ancho: 1200,
         alto: 675,

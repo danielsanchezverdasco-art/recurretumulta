@@ -32,7 +32,7 @@ export const RADAR_20261027_1858_POSTS: BlogPost[] = [
       "Audi Q9 SQ9 V8",
       "Audi Q9 maletero 832 litros",
     ],
-    content: `<img src=/media/audi-q9-tdi-2026-precio-ficha-tecnica-hero.webp alt=Audi Q9 azul, vista trasera tres cuartos con la tira luminosa OLED y la insignia Q9>
+    content: `<img src=/media/audi-q9-tdi-2026-hero.webp alt=Audi Q9 azul, vista trasera tres cuartos con la tira luminosa OLED y la insignia Q9>
 
 *El Audi Q9, el primer SUV de tamaño completo de la marca. Esta es la vista trasera del coche de prensa, con los pilotos OLED curvos que son su firma luminosa. Foto de prensa del modelo, verificada como el Q9 exacto.*
 
@@ -68,7 +68,7 @@ Si el exterior del Q9 impone por tamaño, el interior impone por tecnología. La
 
 En plazas, el Q9 es de serie un siete plazas con banqueta trasera dividida en tres partes y puntos Isofix en las tres plazas de la segunda fila, además de una tercera fila plegable eléctricamente. En opción, el paquete Lounge, que en Reino Unido cuesta 5.000 libras, sustituye la segunda fila por dos asientos individuales eléctricos, con calefacción y ventilación, y convierte el coche en un seis plazas con pasillo central. El maletero, con la tercera fila abatida, cubica 832 litros según Carwow UK, ochenta más que el BMW X7 en la misma configuración, y con todas las filas abatidas llega a 2.308 litros según la página de Carwow. Tras la tercera fila, en la versión para Estados Unidos, hay unos 19,3 pies cúbicos; lo citamos únicamente como dato americano, ya que no se ha publicado un valor europeo medido con el mismo criterio. Para remolcar, el Q9 admite hasta 3.500 kilos con freno, una cifra que lo pone a la altura de los todoterrenos grandes y que explica por qué en Estados Unidos se presenta también como coche para remolcar barcos y remolques de caballos.
 
-<img src=/media/audi-q9-tdi-2026-precio-ficha-tecnica-interior.webp alt=Interior del Audi Q9 con tres pantallas, volante de cuatro radios y asientos claros>
+<img src=/media/audi-q9-tdi-2026-interior.webp alt=Interior del Audi Q9 con tres pantallas, volante de cuatro radios y asientos claros>
 
 *Interior del Q9, con Digital Stage —cuadro de 11,9 pulgadas, central de 14,5 y pantalla del copiloto— y asientos delanteros con calefacción, ventilación y masaje en los acabados superiores. Foto de prensa de Audi, verificada como el interior del Q9.*
 

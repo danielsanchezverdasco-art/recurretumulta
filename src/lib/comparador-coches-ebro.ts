@@ -274,7 +274,7 @@ export const COCHES_EBRO: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/ebro-q-2027-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/ebro-q-2027-oficial.webp",
     imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
@@ -316,7 +316,7 @@ export const COCHES_EBRO: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precioDesde", "autonomiaKm", "maleteroL", "bateriaKwh"],
-    imagen: "/media/ebro-q-2027-precio-ficha-tecnica-oficial.webp",
+    imagen: "/media/ebro-q-2027-oficial.webp",
     opiniones: [],
     analisisSlug: "ebro-q-electrico-2027-precio-barcelona",
     euroncap: {
@@ -332,13 +332,13 @@ export const COCHES_EBRO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/ebro-q-2027-precio-ficha-tecnica-oficial.webp",
+        "src": "/media/ebro-q-2027-oficial.webp",
         "alt": "Chery Q, modelo en el que se basará el EBRO Q, tres cuartos frontal",
         "ancho": 1600,
         "alto": 1067,
       },
       {
-        "src": "/media/ebro-q-2027-precio-ficha-tecnica-oficial-2.webp",
+        "src": "/media/ebro-q-2027-oficial-2.webp",
         "alt": "Chery Q en el salón del automóvil, vista tres cuartos trasera",
         "ancho": 1024,
         "alto": 683,

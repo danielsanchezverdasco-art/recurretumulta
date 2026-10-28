@@ -974,8 +974,8 @@ export const COCHES_WULING: CocheComparador[] = [
     garantiaBateriaAnos: 8, // webs oficiales europea y británica
     garantiaBateriaKm: null, // sin cifra publicada para la batería
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/wuling-atlas-ev-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/wuling-atlas-ev-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/wuling-atlas-ev-oficial.webp",
+    imagenInteriorOficial: "/media/wuling-atlas-ev-interior.webp",
     videoId: null,
     videoCanal: null,
     marca: "Wuling",
@@ -1019,7 +1019,7 @@ export const COCHES_WULING: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: [],
-    imagen: "/media/wuling-atlas-ev-precio-ficha-tecnica-hero.webp",
+    imagen: "/media/wuling-atlas-ev-hero.webp",
     opiniones: [],
     analisisSlug: "wuling-atlas-furgon-electrico-28675-euros-autonomia",
     euroncap: {
@@ -1032,19 +1032,19 @@ export const COCHES_WULING: CocheComparador[] = [
     fuenteUrl: "https://www.wulingeurope.com/",
     galeria: [
       {
-        src: "/media/wuling-atlas-ev-precio-ficha-tecnica-hero.webp",
+        src: "/media/wuling-atlas-ev-hero.webp",
         alt: "Wuling Atlas eléctrico blanco, vista trasera de tres cuartos",
         ancho: 1200,
         alto: 670,
       },
       {
-        src: "/media/wuling-atlas-ev-precio-ficha-tecnica-oficial.webp",
+        src: "/media/wuling-atlas-ev-oficial.webp",
         alt: "Wuling Atlas eléctrico blanco, vista frontal en una nave",
         ancho: 1000,
         alto: 1209,
       },
       {
-        src: "/media/wuling-atlas-ev-precio-ficha-tecnica-interior.webp",
+        src: "/media/wuling-atlas-ev-interior.webp",
         alt: "Interior del Wuling Atlas, puesto de conducción con volante Wuling",
         ancho: 1200,
         alto: 670,

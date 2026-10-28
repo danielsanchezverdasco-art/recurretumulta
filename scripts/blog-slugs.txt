@@ -187,7 +187,7 @@ aston-martin-dbx-gt-2026-precio-ficha-tecnica
 aston-martin-dbx-s-2025-precio-ficha-tecnica
 aston-martin-dbx707-2024-precio-ficha-tecnica
 aston-martin-valhalla-2025-precio-ficha-tecnica
-aston-martin-valhalla-spider-2027-precio-ficha-tecnica
+aston-martin-valhalla-spider-precio-ficha-tecnica
 aston-martin-valiant-2024-precio-ficha-tecnica
 aston-martin-valkyrie-2024-precio-ficha-tecnica
 aston-martin-valkyrie-spider-2024-precio-ficha-tecnica
@@ -5250,7 +5250,7 @@ bentley-torcal-first-edition-2026-precio-ficha-tecnica
 renault-clio-rally5-2027-anuncio-copa-rallyes
 spotify-app-nativa-audi-47-paises
 ferrari-v12-drag-race-carwow-2026
-byd-seal-07-2027-segunda-generacion-interior-autonomia
+byd-seal-07-2027-interior-autonomia
 wuling-atlas-furgon-electrico-28675-euros-autonomia
 bmw-ix4-precio-espana-2026
 xpeng-mona-l05-envios-globales-65-paises

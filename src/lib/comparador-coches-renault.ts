@@ -1948,7 +1948,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/renault-clio-rally5-2027-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/renault-clio-rally5-2027-oficial.webp",
     imagenInteriorOficial: "", // sin fotos del interior: el Rally5 aún no se ha desvelado
     videoId: null,
     videoCanal: null,
@@ -1992,7 +1992,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     traccion: "Delantera", // la clase FIA Rally5 es de tracción delantera; el coche se desarrolla según ese reglamento (AutoHebdo)
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/renault-clio-rally5-2027-precio-ficha-tecnica-hero.webp",
+    imagen: "/media/renault-clio-rally5-2027-hero.webp",
     opiniones: [],
     // costeMensual: no aplica a un vehículo de competición
     analisisSlug: "renault-clio-rally5-2027-anuncio-copa-rallyes",
@@ -2006,13 +2006,13 @@ export const COCHES_RENAULT: CocheComparador[] = [
     fuenteUrl: "https://www.autohebdof1.com/news/rally/Renault-is-preparing-the-sixth-generation-Clio-Rally5--expected-to-compete-in-2027..html",
     galeria: [
       {
-        "src": "/media/renault-clio-rally5-2027-precio-ficha-tecnica-hero.webp",
+        "src": "/media/renault-clio-rally5-2027-hero.webp",
         "alt": "Renault Clio VI, base del futuro Clio Rally5 2027, vista tres cuartos delantera",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/renault-clio-rally5-2027-precio-ficha-tecnica-oficial.webp",
+        "src": "/media/renault-clio-rally5-2027-oficial.webp",
         "alt": "Renault Clio VI de sexta generación circulando por ciudad, frontal",
         "ancho": 1200,
         "alto": 800

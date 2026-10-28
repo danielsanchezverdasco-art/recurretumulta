@@ -26,7 +26,7 @@ export const RADAR_20261024B_POSTS: BlogPost[] = [
       "FIA Rally5 reglamento 2027",
       "Clio VI competición",
     ],
-    content: `<img src=/media/renault-clio-rally5-2027-precio-ficha-tecnica-hero.webp alt=Renault Clio VI, base del futuro Clio Rally5 2027, vista tres cuartos delantera en rojo>
+    content: `<img src=/media/renault-clio-rally5-2027-hero.webp alt=Renault Clio VI, base del futuro Clio Rally5 2027, vista tres cuartos delantera en rojo>
 
 *Renault Clio VI, la base del futuro Rally5 2027, que todavía no se ha desvelado. Foto: Renault (prensa; licencia desconocida).*
 
@@ -66,7 +66,7 @@ El Rally5 aún no existe a la vista del público, pero su base sí: el **Clio de
 
 El kit de prensa oficial de Renault detalla sus cifras: **4,116 metros de largo, 1,768 de ancho y 1,451 de alto**, con una batalla de 2,591 metros y un maletero de 391 litros. El escalón mecánico superior es el **E-Tech 160**, un híbrido completo: motor 1.8 de cuatro cilindros (160 CV, 172 Nm) y un motor eléctrico de 205 Nm, transmisión multimodo, 8,3 segundos de 0 a 100 km/h, 3,9 l/100 km y **89 g/km de CO₂**. La versión de acceso es el **TCe 115**, un tricilíndrico 1.2 de 115 CV y 190 Nm.
 
-<img src=/media/renault-clio-rally5-2027-precio-ficha-tecnica-oficial.webp alt=Renault Clio VI de sexta generación en rojo circulando por ciudad, vista frontal>
+<img src=/media/renault-clio-rally5-2027-oficial.webp alt=Renault Clio VI de sexta generación en rojo circulando por ciudad, vista frontal>
 
 *Renault Clio VI: el Rally5 2027 se basará en esta sexta generación, aún sin desvelar. Foto: Renault (prensa; licencia desconocida).*
 

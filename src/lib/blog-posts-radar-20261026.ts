@@ -145,7 +145,7 @@ El 40 xDrive cuesta 950 euros más en España (71.850 frente a 70.900 €) y el 
       "SUV eléctrico chino barato",
       "XPeng Mona Europa",
     ],
-    content: `<img src=/media/xpeng-mona-l05-2026-precio-ficha-tecnica-hero.webp alt=XPeng Mona L05 plateado, SUV de cinco plazas, vista lateral en la calle>
+    content: `<img src=/media/xpeng-mona-l05-2026-hero.webp alt=XPeng Mona L05 plateado, SUV de cinco plazas, vista lateral en la calle>
 
 *El XPeng Mona L05 en su imagen oficial de lanzamiento global: SUV de 4,87 m, puertas sin marco y llantas bitono. Foto: XPeng, vía CnEVPost (licencia desconocida).*
 

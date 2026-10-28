@@ -9921,7 +9921,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "/media/byd-seagull-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/byd-seagull-2026-oficial.webp",
     imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
@@ -9964,7 +9964,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precioDesde", "autonomiaKm"],
-    imagen: "/media/byd-seagull-2026-precio-ficha-tecnica-oficial.webp",
+    imagen: "/media/byd-seagull-2026-oficial.webp",
     opiniones: [],
     analisisSlug: "byd-seagull-2026-segunda-generacion-precio",
     euroncap: {
@@ -9987,7 +9987,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/byd-seagull-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "/media/byd-seagull-2026-oficial.webp",
         "alt": "BYD Seagull 2026 de segunda generación, vista tres cuartos delantera",
         "ancho": 1600,
         "alto": 900,

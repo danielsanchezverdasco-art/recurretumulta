@@ -996,12 +996,12 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     ],
   },
   {
-    id: "aston-martin-valhalla-spider-2027-precio-ficha-tecnica",
+    id: "aston-martin-valhalla-spider-precio-ficha-tecnica",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/aston-martin-valhalla-spider-2027-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aston-martin-valhalla-spider-2027-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/valhalla-spider-2027-oficial.webp",
+    imagenInteriorOficial: "/media/valhalla-spider-2027-interior.webp",
     videoId: null,
     videoCanal: null,
     marca: "Aston Martin",
@@ -1042,7 +1042,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/aston-martin-valhalla-spider-2027-precio-ficha-tecnica-hero.webp",
+    imagen: "/media/valhalla-spider-2027-hero.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 15.0,
@@ -1057,19 +1057,19 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/aston-martin-valhalla-spider-2027-precio-ficha-tecnica-oficial.webp",
+        "src": "/media/valhalla-spider-2027-oficial.webp",
         "alt": "Aston Martin Valhalla Spider plateado, descapotado, de frente en carretera",
         "ancho": 1024,
         "alto": 576
       },
       {
-        "src": "/media/aston-martin-valhalla-spider-2027-precio-ficha-tecnica-hero.webp",
+        "src": "/media/valhalla-spider-2027-hero.webp",
         "alt": "Aston Martin Valhalla Spider descapotado en carretera de montaña al atardecer",
         "ancho": 1024,
         "alto": 576
       },
       {
-        "src": "/media/aston-martin-valhalla-spider-2027-precio-ficha-tecnica-interior.webp",
+        "src": "/media/valhalla-spider-2027-interior.webp",
         "alt": "Habitáculo abierto del Aston Martin Valhalla Spider, visto desde arriba, con asientos rojos",
         "ancho": 1024,
         "alto": 576

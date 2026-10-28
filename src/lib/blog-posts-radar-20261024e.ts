@@ -29,7 +29,7 @@ export const RADAR_20261024E_POSTS: BlogPost[] = [
       "Wuling Atlas ficha técnica",
       "furgón eléctrico chino barato",
     ],
-    content: `<img src=/media/wuling-atlas-ev-precio-ficha-tecnica-hero.webp alt=Wuling Atlas eléctrico blanco, vista trasera de tres cuartos con el logo de Wuling en el portón>
+    content: `<img src=/media/wuling-atlas-ev-hero.webp alt=Wuling Atlas eléctrico blanco, vista trasera de tres cuartos con el logo de Wuling en el portón>
 
 *El Wuling Atlas en su foto oficial europea: furgón blanco de 4,95 m, doble puerta trasera y logo rojo de Wuling. Foto: Wuling Europe (licencia desconocida).*
 
@@ -80,7 +80,7 @@ La suspensión trasera de ballestas y los frenos de tambor traseros delatan su n
 
 ## Interior: puesto de trabajo, sin adornos
 
-<img src=/media/wuling-atlas-ev-precio-ficha-tecnica-interior.webp alt=Interior del Wuling Atlas, puesto de conducción con volante con logo Wuling y radio 1DIN>
+<img src=/media/wuling-atlas-ev-interior.webp alt=Interior del Wuling Atlas, puesto de conducción con volante con logo Wuling y radio 1DIN>
 
 *La cabina del Atlas es de vehículo de trabajo: volante con el logo de Wuling, instrumentación analógica, radio 1DIN y mandos manuales de climatización. Foto: Wuling Europe (licencia desconocida).*
 
