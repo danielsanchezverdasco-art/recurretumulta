@@ -2294,6 +2294,785 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 3
   },
   {
+    "slug": "hymer-grand-canyon-s-2026-precio-ficha-tecnica",
+    "title": "Hymer Grand Canyon S 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Hymer Grand Canyon S 2026: camper premium de 5,93 m sobre Mercedes Sprinter, 4x4 opcional, 4 plazas, carnet B y batería de litio de serie.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Hymer Grand Canyon S 2026, camper sobre Mercedes Sprinter\\",
+    "keywords": [
+      "Hymer Grand Canyon S 2026",
+      "Grand Canyon S precio",
+      "Hymer Grand Canyon ficha técnica",
+      "camper 4x4 Mercedes Sprinter",
+      "Hymer Grand Canyon S plazas",
+      "furgoneta camper premium"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "hymer-b-mc-i-600-2026-precio-ficha-tecnica",
+    "title": "Hymer B-MC I 600 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Hymer B-MC I 600 2026: integral alemana de 7,19 m con cama basculante eléctrica, 4 plazas, carnet B y chasis Mercedes Sprinter.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/hymer-b-mc-i-600-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Hymer B-MC I 600 2026, autocaravana integral\\",
+    "keywords": [
+      "Hymer B-MC I 600 2026",
+      "B-MC I 600 precio",
+      "Hymer B-MC I ficha técnica",
+      "integral Hymer cama basculante",
+      "Hymer B-MC I 600 plazas",
+      "autocaravana integral alemana"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica",
+    "title": "Adria Twin Supreme 640 SGX 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Adria Twin Supreme 640 SGX 2026: camper de 6,36 m con cama trasera elevable eléctrica, Fiat Ducato 140 CV, 4 plazas y carnet B.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Adria Twin Supreme 640 SGX 2026, camper con cama elevable\\",
+    "keywords": [
+      "Adria Twin Supreme 640 SGX 2026",
+      "Twin Supreme 640 SGX precio",
+      "Adria Twin Supreme ficha técnica",
+      "camper cama elevable eléctrica",
+      "Adria Twin 640 SGX plazas",
+      "furgoneta camper Adria"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "chausson-640-titanium-2026-precio-ficha-tecnica",
+    "title": "Chausson 640 Titanium 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Chausson 640 Titanium 2026: perfilada francesa de 6,99 m con salón SmartLounge, cama basculante de 160 cm, 4 plazas y carnet B.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/chausson-640-titanium-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Chausson 640 Titanium 2026, autocaravana perfilada\\",
+    "keywords": [
+      "Chausson 640 Titanium 2026",
+      "640 Titanium precio",
+      "Chausson Titanium ficha técnica",
+      "perfilada Chausson SmartLounge",
+      "Chausson 640 plazas",
+      "autocaravana francesa 4 plazas"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "sunlight-t-68-2026-precio-ficha-tecnica",
+    "title": "Sunlight T 68 2026: precio, ficha técnica y 5 plazas",
+    "excerpt": "Precio y ficha de la Sunlight T 68 2026: perfilada de 7,41 m con camas gemelas, cama basculante, 5 plazas, carnet B y edición Adventure.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/sunlight-t-68-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Sunlight T 68 2026, autocaravana perfilada\\",
+    "keywords": [
+      "Sunlight T 68 2026",
+      "T 68 precio",
+      "Sunlight T 68 ficha técnica",
+      "perfilada Sunlight 5 plazas",
+      "Sunlight T 68 Adventure",
+      "autocaravana camas gemelas"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "sunlight-a-70-2026-precio-ficha-tecnica",
+    "title": "Sunlight A 70 2026: precio, ficha técnica y 6 plazas",
+    "excerpt": "Precio y ficha de la Sunlight A 70 2026: capuchina familiar de 7,26 m para 6 personas, Citroën Jumper 140 CV, carnet B y precio contenido.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/sunlight-a-70-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Sunlight A 70 2026, autocaravana capuchina\\",
+    "keywords": [
+      "Sunlight A 70 2026",
+      "A 70 precio",
+      "Sunlight A 70 ficha técnica",
+      "capuchina Sunlight 6 plazas",
+      "Sunlight A 70 familiar",
+      "autocaravana capuchina barata"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica",
+    "title": "Carthago C-Tourer I 148 LE 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del Carthago C-Tourer I 148 LE 2026: integral premium de 7,39 m con doble suelo, camas gemelas de 200 cm, 4 plazas y carnet B.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Carthago C-Tourer I 148 LE 2026, autocaravana integral\\",
+    "keywords": [
+      "Carthago C-Tourer I 148 LE 2026",
+      "C-Tourer I 148 LE precio",
+      "Carthago C-Tourer ficha técnica",
+      "integral Carthago premium",
+      "C-Tourer I 148 LE plazas",
+      "autocaravana integral lujo"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "roller-team-auto-roller-746-2026-precio-ficha-tecnica",
+    "title": "Roller Team Auto-Roller 746 2026: precio, ficha técnica y 6 plazas",
+    "excerpt": "Precio y ficha del Roller Team Auto-Roller 746 2026: capuchina italiana de 7,24 m para 6 personas, salón trasero en U, Ford Transit y carnet B.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Roller Team Auto-Roller 746 2026, autocaravana capuchina\\",
+    "keywords": [
+      "Roller Team Auto-Roller 746 2026",
+      "Auto-Roller 746 precio",
+      "Roller Team 746 ficha técnica",
+      "capuchina Roller Team 6 plazas",
+      "Auto-Roller 746 opiniones",
+      "autocaravana italiana familiar"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "knaus-boxlife-600-mq-2026-precio-ficha-tecnica",
+    "title": "Knaus BoxLife 600 MQ 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Knaus BoxLife 600 MQ 2026: camper de 5,99 m con calefacción diésel Truma Combi 6 D de serie, baño XL con pared giratoria y acabado Platinum.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/knaus-boxlife-600-mq-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Knaus BoxLife 600 MQ 2026, camper sobre Fiat Ducato\\",
+    "keywords": [
+      "Knaus BoxLife 600 MQ 2026",
+      "BoxLife 600 MQ precio",
+      "Knaus BoxLife ficha técnica",
+      "camper calefacción diésel",
+      "BoxLife 600 MQ plazas",
+      "furgoneta camper Knaus"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "possl-2win-plus-2026-precio-ficha-tecnica",
+    "title": "Pössl 2Win Plus 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Pössl 2Win Plus 2026: camper alemana de 5,99 m con ~640 kg de carga útil, cama transversal de 196 cm y paquete D-Line Plus de serie.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/possl-2win-plus-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Pössl 2Win Plus 2026, camper sobre Citroën Jumper\\",
+    "keywords": [
+      "Pössl 2Win Plus 2026",
+      "2Win Plus precio",
+      "Pössl 2Win ficha técnica",
+      "camper carga útil",
+      "Pössl 2Win Plus plazas",
+      "furgoneta camper Pössl"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "globecar-globescout-plus-2026-precio-ficha-tecnica",
+    "title": "Globecar GlobeScout Plus 2026: precio de ocasión, ficha técnica y 4 plazas",
+    "excerpt": "Globecar GlobeScout Plus: está descatalogada y solo hay ocasión. Guía honesta de compra de segunda mano: qué revisar, precios y alternativas nuevas.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/globecar-globescout-plus-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Globecar GlobeScout Plus, camper descatalogada\\",
+    "keywords": [
+      "Globecar GlobeScout Plus",
+      "GlobeScout Plus ocasión",
+      "Globecar descatalogada",
+      "GlobeScout Plus ficha técnica",
+      "camper ocasión 6 metros",
+      "GlobeScout Plus precio segunda mano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "westfalia-columbus-600d-2026-precio-ficha-tecnica",
+    "title": "Westfalia Columbus 600 D 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Westfalia Columbus 600 D 2026: camper de 6 m con calefacción diésel Eberspächer doble zona, banqueta plegable hasta 5 plazas y precio oficial.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Westfalia Columbus 600 D 2026, camper\\",
+    "keywords": [
+      "Westfalia Columbus 600 D 2026",
+      "Columbus 600 D precio",
+      "Westfalia Columbus ficha técnica",
+      "camper calefacción diésel",
+      "Westfalia Columbus plazas",
+      "furgoneta camper Westfalia"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "dreamer-d55-fun-up-2026-precio-ficha-tecnica",
+    "title": "Dreamer D55 UP 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Dreamer D55 UP 2026: camper francesa de 5,99 m con techo elevable para 4 adultos, baño Modul'Space y nevera de 149 l.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Dreamer D55 UP 2026, camper francesa\\",
+    "keywords": [
+      "Dreamer D55 UP 2026",
+      "D55 UP precio",
+      "Dreamer D55 ficha técnica",
+      "camper techo elevable",
+      "Dreamer D55 UP plazas",
+      "furgoneta camper Dreamer"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "challenger-v114-start-edition-2026-precio-ficha-tecnica",
+    "title": "Challenger V114 Road Edition 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Challenger V114 Road Edition 2026: camper francesa de 5,99 m con 335 kg de carga útil para opciones publicados, gran baño y dotación de serie completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Challenger V114 Road Edition 2026, camper\\",
+    "keywords": [
+      "Challenger V114 2026",
+      "V114 Road Edition precio",
+      "Challenger V114 ficha técnica",
+      "camper Challenger",
+      "V114 Road Edition plazas",
+      "furgoneta camper Challenger"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "sunlight-cliff-640-2026-precio-ficha-tecnica",
+    "title": "Sunlight Cliff 640 Adventure 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Sunlight Cliff 640 Adventure 2026: camper de 6,36 m con camas gemelas, precio oficial en España y MMA ampliable a 4.250 kg.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/sunlight-cliff-640-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Sunlight Cliff 640 Adventure 2026, camper de 6,36 m\\",
+    "keywords": [
+      "Sunlight Cliff 640 Adventure 2026",
+      "Cliff 640 precio",
+      "Sunlight Cliff ficha técnica",
+      "camper camas gemelas",
+      "Cliff 640 Adventure plazas",
+      "furgoneta camper Sunlight"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "rapido-v55-2026-precio-ficha-tecnica",
+    "title": "Rapido V55 Optimum Line 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Rapido V55 Optimum Line 2026: camper de 5,99 m con el sistema patentado MODUL'SPACE (ducha y WC separados) y serie sobre-equipada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/rapido-v55-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Rapido V55 Optimum Line 2026, camper\\",
+    "keywords": [
+      "Rapido V55 2026",
+      "V55 Optimum Line precio",
+      "Rapido V55 ficha técnica",
+      "camper Modul Space",
+      "Rapido V55 plazas",
+      "furgoneta camper Rapido"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "pilote-v600g-2026-precio-ficha-tecnica",
+    "title": "Pilote V600G 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Pilote V600G 2026: camper de 5,99 m con baño 3-en-1 de tabique pivotante, cama fija con somier Froli y 630 kg de carga útil oficial.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/pilote-v600g-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Pilote V600G 2026, camper\\",
+    "keywords": [
+      "Pilote V600G 2026",
+      "V600G precio",
+      "Pilote V600G ficha técnica",
+      "camper baño ducha separada",
+      "Pilote V600G plazas",
+      "furgoneta camper Pilote"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "laika-ecovip-600-2026-precio-ficha-tecnica",
+    "title": "Laika Ecovip 600 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Laika Ecovip 600 2026: camper italiana de 5,99 m con doble suelo real aislado, baño Vario y precio oficial publicado.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/laika-ecovip-600-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Laika Ecovip 600 2026, camper italiana\\",
+    "keywords": [
+      "Laika Ecovip 600 2026",
+      "Ecovip 600 precio",
+      "Laika Ecovip ficha técnica",
+      "camper doble suelo",
+      "Laika Ecovip 600 plazas",
+      "furgoneta camper Laika"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "burstner-lyseo-td-690-g-2026-precio-ficha-tecnica",
+    "title": "Bürstner Lyseo TD 690 G 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Bürstner Lyseo TD 690 G 2026: perfilada de 6,99 m con aislamiento winterproof, suelo Thermofloor, camas gemelas traseras, 4 plazas y carnet B.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Bürstner Lyseo TD 690 G 2026, autocaravana perfilada\\",
+    "keywords": [
+      "Bürstner Lyseo TD 690 G 2026",
+      "Lyseo TD 690 G precio",
+      "Bürstner Lyseo ficha técnica",
+      "perfilada Bürstner invierno",
+      "Lyseo TD 690 G plazas",
+      "autocaravana winterproof"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica",
+    "title": "Hobby Optima OnTour Edition F V65 GE 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Hobby Optima OnTour Edition F V65 GE 2026: perfilada de 6,78 m con pack ALL-INCLUSIVE de serie, 4 plazas, carnet B y Fiat Ducato 140 CV.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Hobby Optima OnTour Edition F V65 GE 2026, autocaravana perfilada\\",
+    "keywords": [
+      "Hobby Optima OnTour Edition 2026",
+      "Hobby V65 GE precio",
+      "Hobby Optima ficha técnica",
+      "Hobby ALL-INCLUSIVE",
+      "Hobby Optima OnTour plazas",
+      "perfilada Hobby 4 plazas"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica",
+    "title": "Weinsberg CaraBus Grey Edition (FIRE) 600 MQ 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del Weinsberg CaraBus Grey Edition [FIRE] 600 MQ 2026: camper de 5,99 m con edición FIRE de serie, 4 plazas, carnet B y Fiat Ducato 140 CV.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Weinsberg CaraBus Grey Edition [FIRE] 600 MQ 2026, furgoneta camper\\",
+    "keywords": [
+      "Weinsberg CaraBus 600 MQ 2026",
+      "CaraBus Grey Edition FIRE precio",
+      "Weinsberg CaraBus ficha técnica",
+      "camper Weinsberg 4 plazas",
+      "CaraBus 600 MQ opiniones",
+      "furgoneta camper 5,99 m"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "mclouis-mc4-231-2026-precio-ficha-tecnica",
+    "title": "McLouis MC4 231 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del McLouis MC4 231 2026: perfilada de 5,99 m con hasta 742 kg de carga útil, 4 plazas, carnet B y Fiat Ducato 120 CV.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/mclouis-mc4-231-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"McLouis MC4 231 2026, autocaravana perfilada\\",
+    "keywords": [
+      "McLouis MC4 231 2026",
+      "McLouis MC4 231 precio",
+      "McLouis MC4 ficha técnica",
+      "perfilada McLouis 4 plazas",
+      "MC4 231 carga útil",
+      "autocaravana italiana compacta"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica",
+    "title": "Eura Mobil Integra Line GT IL 726 EF 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Eura Mobil Integra Line GT IL 726 EF 2026: integral de 7,47 m con MMA de 4.500 kg (carnet C1), calefacción Alde y 4 plazas.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Eura Mobil Integra Line GT IL 726 EF 2026, autocaravana integral\\",
+    "keywords": [
+      "Eura Mobil Integra Line GT 2026",
+      "IL 726 EF precio",
+      "Eura Mobil ficha técnica",
+      "integral Eura Mobil C1",
+      "IL 726 EF plazas",
+      "autocaravana 4500 kg carnet C1"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "rimor-superbrig-687-tc-2026-precio-ficha-tecnica",
+    "title": "Rimor SuperBrig 687 TC 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Rimor SuperBrig 687 TC 2026: capuchina de 6,97 m con PVP oficial de 70.840 €, 4 plazas siempre hechas, carnet B y Ford Transit 130 CV.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/rimor-superbrig-687-tc-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Rimor SuperBrig 687 TC 2026, autocaravana capuchina\\",
+    "keywords": [
+      "Rimor SuperBrig 687 TC 2026",
+      "SuperBrig 687 TC precio",
+      "Rimor SuperBrig ficha técnica",
+      "capuchina Rimor 4 plazas",
+      "Rimor 687 TC opiniones",
+      "autocaravana capuchina familiar"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "frankia-neo-i-7-gdk-2026-precio-ficha-tecnica",
+    "title": "Frankia Neo I 7 GDK 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del Frankia Neo I 7 GDK 2026: integral de 7,05 m con doble suelo calefactado AL-KO, 7 años de garantía de estanqueidad, 4 plazas y carnet B.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Frankia Neo I 7 GDK 2026, autocaravana integral\\",
+    "keywords": [
+      "Frankia Neo I 7 GDK 2026",
+      "Frankia Neo precio",
+      "Frankia Neo ficha técnica",
+      "integral Frankia 4 plazas",
+      "Neo I 7 GDK opiniones",
+      "autocaravana alemana invierno"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "giottiline-siena-322-2026-precio-ficha-tecnica",
+    "title": "Giottiline Siena 322 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Giottiline Siena 322 2026: perfilada de 5,99 m con carrocería 100 % fibra de vidrio, 4 plazas, carnet B y Fiat Ducato 140 CV.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/giottiline-siena-322-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Giottiline Siena 322 2026, autocaravana perfilada\\",
+    "keywords": [
+      "Giottiline Siena 322 2026",
+      "Giottiline Siena precio",
+      "Giottiline ficha técnica",
+      "perfilada Giottiline 4 plazas",
+      "Siena 322 opiniones",
+      "autocaravana italiana sin madera"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "mobilvetta-k-yacht-tekno-line-86-2026-precio-ficha-tecnica",
+    "title": "Mobilvetta K-Yacht Tekno Line 86 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Mobilvetta K-Yacht Tekno Line 86 2026: integral de 7,45 m con techo SkyDome, 4 plazas, carnet B y Fiat Ducato 140 CV.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/mobilvetta-k-yacht-tekno-line-86-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Mobilvetta K-Yacht Tekno Line 86 2026, autocaravana integral\\",
+    "keywords": [
+      "Mobilvetta K-Yacht Tekno Line 86 2026",
+      "K-Yacht 86 precio",
+      "Mobilvetta ficha técnica",
+      "integral Mobilvetta 4 plazas",
+      "K-Yacht Tekno Line opiniones",
+      "autocaravana italiana integral"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "ahorncamp-t-690-2026-precio-ficha-tecnica",
+    "title": "Ahorn Camp T 690 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del Ahorn Camp T 690 2026: perfilada de 6,99 m con PVP oficial de 61.900 €, 4 plazas, carnet B y Renault Master 130 CV.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/ahorncamp-t-690-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Ahorn Camp T 690 2026, autocaravana perfilada\\",
+    "keywords": [
+      "Ahorn Camp T 690 2026",
+      "Ahorn Camp T 690 precio",
+      "Ahorn Camp ficha técnica",
+      "perfilada Ahorn Camp 4 plazas",
+      "Ahorn Camp opiniones",
+      "autocaravana alemana barata"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "itineo-pf600-2026-precio-ficha-tecnica",
+    "title": "Itineo PF600 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del Itineo PF600 2026: perfilada francesa de 5,99 m de la gama Cozi (grupo Rapido), cama francesa trasera de 136×196 cm, lit pavillon opcional, 4 plazas y Peugeot Boxer 140 CV.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/itineo-pf600-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Itineo PF600 2026, autocaravana perfilada de 5,99 metros\\",
+    "keywords": [
+      "Itineo PF600 2026",
+      "Itineo PF600 precio",
+      "Itineo PF600 ficha técnica",
+      "Itineo Cozi perfilada",
+      "PF600 cama francesa",
+      "perfilada 5,99 m 4 plazas"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "font-vendome-mondea-2026-precio-ficha-tecnica",
+    "title": "Font Vendôme Mondéa 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del Font Vendôme Mondéa 2026: furgón camper francés de 5,99 m con ducha separada de verdad, Fiat Ducato 140 CV con Traction+, 4 plazas y carnet B.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/font-vendome-mondea-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Font Vendôme Mondéa 2026, furgón camper de 5,99 metros\\",
+    "keywords": [
+      "Font Vendôme Mondéa 2026",
+      "Font Vendome Mondea precio",
+      "Font Vendôme ficha técnica",
+      "furgón camper ducha separada",
+      "Mondéa Traction+",
+      "camper 5,99 m 4 plazas"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "campereve-magellan-643-2026-precio-ficha-tecnica",
+    "title": "Campérêve Magellan 643 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del Campérêve Magellan 643 2026: furgón camper de 6 m con el sistema Modul'Space patentado, cama transversal de 192×132 cm, base L3H2 de 2,56 m y 4 plazas.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/campereve-magellan-643-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Campérêve Magellan 643 2026, furgón camper\\",
+    "keywords": [
+      "Campérêve Magellan 643 2026",
+      "Campereve Magellan 643 precio",
+      "Magellan 643 ficha técnica",
+      "Modul'Space Campérêve",
+      "furgón camper 6 metros",
+      "Campérêve Magellan opiniones"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "mooveo-tei-60fb-2026-precio-ficha-tecnica",
+    "title": "Mooveo TEI-60FB 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del Mooveo TEI-60FB 2026: perfilada de menos de 6 m con baño trasero completo separado, gran garaje, Citroën Jumper 140 CV, 4 plazas y carnet B. Descatalogado en 2026: solo stock u ocas",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/mooveo-tei-60fb-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Mooveo TEI-60FB 2026, autocaravana perfilada de menos de 6 metros\\",
+    "keywords": [
+      "Mooveo TEI-60FB 2026",
+      "Mooveo TEI 60FB precio",
+      "Mooveo TEI-60FB ficha técnica",
+      "perfilada baño trasero 6 metros",
+      "Mooveo TEI-62DH",
+      "perfilada compacta 4 plazas"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "xgo-x-van-104-2026-precio-ficha-tecnica",
+    "title": "XGO X Van 104 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del XGO X Van 104 2026: furgón camper italiano de 6,36 m con sistema energético MEB-300 controlable por app, portón trasero panorámico, 4 plazas y Fiat Ducato 140 CV.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/xgo-x-van-104-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"XGO X Van 104 2026, furgón camper de 6,36 metros\\",
+    "keywords": [
+      "XGO X Van 104 2026",
+      "XGO X Van 104 precio",
+      "X Van 104 ficha técnica",
+      "XGO MEB-300",
+      "furgón camper app",
+      "XGO camper opiniones"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "elnagh-baron-565-2026-precio-ficha-tecnica",
+    "title": "Elnagh Baron 565 2026: precio, ficha técnica y 5 plazas",
+    "excerpt": "Precio y ficha del Elnagh Baron 565 2026: perfilada italiana de 6,99 m con camas gemelas sobre maxi-garage y letto basculante eléctrico de serie, Truma Combi 4 diésel, 5 plazas y carnet B.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/elnagh-baron-565-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Elnagh Baron 565 2026, autocaravana perfilada de 6,99 metros\\",
+    "keywords": [
+      "Elnagh Baron 565 2026",
+      "Elnagh Baron 565 precio",
+      "Baron 565 ficha técnica",
+      "Elnagh autocaravana",
+      "perfilada 5 plazas",
+      "letto basculante Elnagh"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "niesmann-bischoff-ismove-69-e-2026-precio-ficha-tecnica",
+    "title": "Niesmann+Bischoff iSmove 6.9 E 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del Niesmann+Bischoff iSmove 6.9 E 2026: perfilada premium alemana de menos de 7 m y 3,5 t, 180 CV con automático de 8 marchas, chasis AL-KO, 4 plazas y carnet B.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/niesmann-bischoff-ismove-69-e-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Niesmann+Bischoff iSmove 6.9 E 2026, autocaravana perfilada premium\\",
+    "keywords": [
+      "Niesmann Bischoff iSmove 6.9 E 2026",
+      "iSmove 6.9 E precio",
+      "Niesmann Bischoff iSmove ficha técnica",
+      "iSmove 69 E",
+      "perfilada premium menos 7 metros",
+      "Niesmann Bischoff precio"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "rapido-606f-2026-precio-ficha-tecnica",
+    "title": "Rapido 606F 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del Rapido 606F 2026: perfilada francesa Serie 6F de 6,69 m con cama de techo eléctrica de serie, garaje transversal calefactado de 85×217×120 cm, Truma Combi 4 diésel, Peugeot Boxer 14",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/rapido-606f-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Rapido 606F 2026, autocaravana perfilada Serie 6F de 6,69 metros\\",
+    "keywords": [
+      "Rapido 606F 2026",
+      "Rapido 606F precio",
+      "Rapido 606F ficha técnica",
+      "Rapido Serie 6F perfilada",
+      "606F cama de techo",
+      "perfilada 6,69 m 4 plazas"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "pilote-g740fgj-evidence-2026-precio-ficha-tecnica",
+    "title": "Pilote G740FGJ ÉVIDENCE 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del Pilote G740FGJ ÉVIDENCE 2026: integral francesa de 7,56 m de la serie especial lista para partir, con 200 Ah de litio, 210 W solar, Truma D6E híbrida, Fiat Ducato 160 CV automático ",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/pilote-g740fgj-evidence-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Pilote G740FGJ ÉVIDENCE 2026, autocaravana integral de 7,56 metros\\",
+    "keywords": [
+      "Pilote G740FGJ 2026",
+      "Pilote G740FGJ precio",
+      "Pilote Evidence ficha técnica",
+      "Pilote integral serie G",
+      "G740FGJ Truma D6E",
+      "integral 7,56 m 4 plazas"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "adria-coral-plus-670-sl-2026-precio-ficha-tecnica",
+    "title": "Adria Coral Plus 670 SL 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del Adria Coral Plus 670 SL 2026: perfilada eslovena de 7,49 m con Skyroof panorámico, camas gemelas unibles en doble, baño en-suite con ducha independiente, Fiat Ducato 140 CV y 4 plaz",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/adria-coral-plus-670-sl-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Adria Coral Plus 670 SL 2026, autocaravana perfilada de 7,49 metros\\",
+    "keywords": [
+      "Adria Coral Plus 670 SL 2026",
+      "Adria Coral Plus precio",
+      "Coral Plus 670 SL ficha técnica",
+      "Adria Skyroof",
+      "Adria Coral perfilada",
+      "perfilada 7,49 m 4 plazas"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "hymer-ml-t-580-4x4-2026-precio-ficha-tecnica",
+    "title": "Hymer ML-T 580 4x4 2026: precio, ficha técnica y 4x4",
+    "excerpt": "Precio y ficha del Hymer ML-T 580 4x4 2026: perfilada todoterreno de 6,98 m con tracción total, Mercedes Sprinter 419 CDI de 190 CV con 9G-Tronic, edición CrossTrail con 320 Ah de litio y carnet C1.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Hymer ML-T 580 4x4 2026, autocaravana perfilada todoterreno de 6,98 metros\\",
+    "keywords": [
+      "Hymer ML-T 580 4x4 2026",
+      "Hymer ML-T 580 precio",
+      "ML-T 580 CrossTrail",
+      "Hymer 4x4 ficha técnica",
+      "autocaravana 4x4 Sprinter",
+      "perfilada todoterreno 6,98 m"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "knaus-sky-ti-650-meg-2026-precio-ficha-tecnica",
+    "title": "Knaus Sky TI 650 MEG 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del Knaus Sky TI 650 MEG 2026: perfilada alemana de 6,96 m con trasera FoldXpand, ServiceBox exterior, camas gemelas unibles en doble, Fiat Ducato 140 CV y 4 plazas.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/knaus-sky-ti-650-meg-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Knaus Sky TI 650 MEG 2026, autocaravana perfilada de 6,96 metros\\",
+    "keywords": [
+      "Knaus Sky TI 650 MEG 2026",
+      "Knaus Sky TI precio",
+      "Sky TI 650 MEG ficha técnica",
+      "Knaus FoldXpand",
+      "Knaus Sky TI opiniones",
+      "perfilada 6,96 m 4 plazas"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "etrusco-t-7400-sb-2026-precio-ficha-tecnica",
+    "title": "Etrusco T 7400 SB 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del Etrusco T 7400 SB 2026: perfilada de 7,40 m del grupo Hymer con camas gemelas de 217×80 cm unibles en doble gigante, ducha separada independiente, gran garaje y 699 kg de carga útil",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/etrusco-t-7400-sb-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Etrusco T 7400 SB 2026, autocaravana perfilada de 7,40 metros\\",
+    "keywords": [
+      "Etrusco T 7400 SB 2026",
+      "Etrusco T 7400 precio",
+      "T 7400 SB ficha técnica",
+      "Etrusco perfilada 7,40",
+      "Etrusco grupo Hymer",
+      "perfilada 7,4 m 4 plazas"
+    ],
+    "readTime": 8
+  },
+  {
     "slug": "baojun-yep-2024-precio-ficha-tecnica",
     "title": "Baojun Yep: el mini SUV eléctrico por 10.504 €",
     "excerpt": "Precio y ficha del Baojun Yep 2024: mini SUV eléctrico de 3 puertas, 68 CV, 303 km de autonomía y pantalla trasera por unos 10.500 € al cambio.",
@@ -9669,6 +10448,522 @@ export const BLOG_LITE: BlogLitePost[] = [
       "suv eléctrico 7 plazas 2026"
     ],
     "readTime": 4
+  },
+  {
+    "slug": "byd-ti7-2026-precio-ficha-tecnica",
+    "title": "BYD Ti7 2026: 354 CV, 1.015 km y precio en Argentina",
+    "excerpt": "BYD Ti7 2026: SUV híbrido enchufable de 354 CV, 1.015 km de autonomía y tracción total. Precio desde 59.990 dólares en Argentina. Ficha y análisis.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/byd-ti7-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "\\\"BYD Ti7 2026, vista frontal del SUV híbrido\\",
+    "keywords": [
+      "BYD Ti7 precio",
+      "BYD Ti7 2026",
+      "BYD Ti7 ficha técnica",
+      "SUV híbrido enchufable",
+      "BYD Ti7 Argentina",
+      "Ti7 354 CV"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "adria-matrix-supreme-670-sl-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Adria Matrix Supreme 670 SL 2026: 140 CV y 7,5 m de lujo",
+    "excerpt": "El Adria Matrix Supreme 670 SL 2026 es el perfilado de 7,5 m con camas gemelas, cama abatible eléctrica y calefacción Alde diésel sobre Fiat Ducato 140 CV.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/adria-matrix-supreme-670-sl-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Adria Matrix Supreme 670 SL 2026, vista frontal del perfilado\\",
+    "keywords": [
+      "Adria Matrix Supreme 670 SL",
+      "Adria Matrix Supreme 670 SL precio",
+      "Adria Matrix 670 SL 2026",
+      "perfilado Adria",
+      "autocaravana Adria Matrix"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "buerstner-campeo-c-600-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Bürstner Campeo C 600 2026: precio, 140 CV y 4 plazas",
+    "excerpt": "El Bürstner Campeo C 600 es el camper de 5,99 m con cama trasera de 197 cm, techo elevable opcional y precio recomendado oficial de 61.600 francos suizos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/buerstner-campeo-c-600-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Bürstner Campeo C 600 2026, vista exterior del camper\\",
+    "keywords": [
+      "Bürstner Campeo C 600",
+      "Bürstner Campeo C 600 precio",
+      "Campeo C 600 2026",
+      "camper Bürstner",
+      "furgoneta camper 6 metros"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "pilote-v630j-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Pilote V630J 2026: ficha técnica, 140 CV y camas gemelas",
+    "excerpt": "El Pilote V630J 2026 es el fourgon de 6,36 m con camas gemelas de 77 × 200 cm, motor Fiat Ducato 2.2 de 140 CV y gran soute para dos bicis.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/pilote-v630j-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Pilote V630J 2026, vista exterior del fourgon\\",
+    "keywords": [
+      "Pilote V630J",
+      "Pilote V630J precio",
+      "Pilote V630J 2026",
+      "fourgon Pilote",
+      "camper Pilote",
+      "furgoneta camper 6 metros"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "chausson-twist-v594-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Chausson Twist V594 2026: ficha técnica, 120 CV y 5,99 m",
+    "excerpt": "El Chausson Twist V594 2026 es el fourgon de 5,99 m con cama transversal de 149 × 186 cm, motor 2.2 diésel de 120 CV y garantía de estanqueidad de 7 años.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "",
+    "heroAlt": "",
+    "keywords": [
+      "Chausson Twist V594",
+      "Chausson Twist V594 precio",
+      "Chausson Twist 2026",
+      "fourgon Chausson",
+      "camper Chausson",
+      "furgoneta camper 6 metros"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "rapido-v55-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Rapido V55 2026: precio desde 63.350 € y ficha técnica",
+    "excerpt": "El Rapido V55 2026 parte de 63.350 € en Francia: camper de 5,99 m con cama transversal, ducha separada y 140 CV sobre Peugeot Boxer. Ficha y análisis.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/rapido-v55-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Rapido V55 2026, furgón camper sobre Peugeot Boxer en vista exterior",
+    "keywords": [
+      "Rapido V55",
+      "Rapido V55 2026",
+      "Rapido V55 precio",
+      "Rapido V55 ficha técnica",
+      "furgón camper 5,99 m",
+      "camper MODUL'SPACE"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "dreamer-d55-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Dreamer D55 2026: precio desde 69.850 € y ficha técnica",
+    "excerpt": "El Dreamer D55 2026 parte de 69.850 € en Bélgica: camper de 5,99 m con cama transversal, ducha separada y 140 CV sobre Fiat Ducato. Ficha y análisis.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/dreamer-d55-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Dreamer D55 2026, furgón camper sobre Fiat Ducato en vista exterior",
+    "keywords": [
+      "Dreamer D55",
+      "Dreamer D55 2026",
+      "Dreamer D55 precio",
+      "Dreamer D55 ficha técnica",
+      "furgón camper 5,99 m",
+      "camper grupo Rapido"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "font-vendome-mondea-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Font Vendôme Mondéa 2026: ficha técnica y camper de 5,99 m",
+    "excerpt": "El Font Vendôme Mondéa 2026 vuelve renovado: cama de techo eléctrica, baño con ducha separada y 140 CV sobre Fiat Ducato en 5,99 metros.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/font-vendome-mondea-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Font Vendôme Mondéa 2026, furgón camper sobre Fiat Ducato en vista exterior",
+    "keywords": [
+      "Font Vendôme Mondéa",
+      "Mondéa 2026",
+      "Mondéa ficha técnica",
+      "camper Font Vendôme",
+      "furgón camper 5,99 m",
+      "camper con ducha separada"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "campereve-magellan-643-air-saphir-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Campérêve Magellan 643 Air Saphir 2026: ficha del camper",
+    "excerpt": "El Campérêve Magellan 643 Air Saphir 2026 estrena techo elevable: 2+2 plazas, ducha separada y 140 CV en 5,99 m. Ficha técnica y análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/campereve-magellan-643-air-saphir-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Campérêve Magellan 643 Air Saphir 2026, furgón camper de 5,99 m en vista exterior",
+    "keywords": [
+      "Campérêve Magellan 643",
+      "Magellan 643 Air Saphir",
+      "Magellan 643 ficha técnica",
+      "camper Campérêve",
+      "furgón camper techo elevable",
+      "camper 5,99 m"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "ford-nugget-trail-2026-analisis-opinion",
+    "title": "Ford Nugget Trail 2026: precio, ficha técnica y camper 4x4",
+    "excerpt": "Análisis de la Ford Nugget Trail 2026: la camper con tracción total, techo elevable y camperización Westfalia. Ficha técnica, precios y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/ford-nugget-trail-2026-oficial-ext.webp",
+    "heroAlt": "\\\"Ford Nugget Trail 2026, camper\\",
+    "keywords": [
+      "Ford Nugget Trail 2026",
+      "Nugget Trail precio",
+      "Ford Nugget 4x4",
+      "camper Ford Trail",
+      "Nugget Trail vs California"
+    ],
+    "readTime": 2
+  },
+  {
+    "slug": "ford-nugget-active-2026-analisis-opinion",
+    "title": "Ford Nugget Active 2026: precio, ficha técnica y opinión",
+    "excerpt": "Análisis de la Ford Nugget Active 2026: el acabado más equipado de la camper Ford con camperización Westfalia. Ficha técnica y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/ford-nugget-active-2026-oficial-ext.webp",
+    "heroAlt": "\\\"Ford Nugget Active 2026, camper\\",
+    "keywords": [
+      "Ford Nugget Active 2026",
+      "Nugget Active precio",
+      "Ford Nugget acabados",
+      "camper Ford Active"
+    ],
+    "readTime": 2
+  },
+  {
+    "slug": "possl-campster-2026-analisis-opinion",
+    "title": "Pössl Campster 2026: precio, ficha técnica y cocina giratoria",
+    "excerpt": "Análisis del Pössl Campster 2026: la camper compacta con cocina giratoria, 4 plazas y base Citroën. Ficha técnica, precio y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/possl-campster-2026-oficial-ext.webp",
+    "heroAlt": "\\\"Pössl Campster 2026\\",
+    "keywords": [
+      "Pössl Campster 2026",
+      "Campster precio",
+      "Pössl camper",
+      "camper compacta"
+    ],
+    "readTime": 1
+  },
+  {
+    "slug": "possl-vanster-2026-analisis-opinion",
+    "title": "Pössl Vanster 2026: precio, ficha técnica y opinión",
+    "excerpt": "Análisis de la Pössl Vanster 2026: la camper compacta premium con CampBox y base Citroën. Ficha técnica y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/possl-vanster-2026-oficial-ext.webp",
+    "heroAlt": "\\\"Pössl Vanster 2026\\",
+    "keywords": [
+      "Pössl Vanster 2026",
+      "Vanster precio",
+      "Pössl camper compacta"
+    ],
+    "readTime": 1
+  },
+  {
+    "slug": "possl-summit-640-2026-analisis-opinion",
+    "title": "Pössl Summit 640 2026: precio, ficha técnica y opinión",
+    "excerpt": "Análisis de la Pössl Summit 640 2026: la versión larga del camper más vendido de Europa. Ficha técnica y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/possl-summit-640-2026-oficial-ext.webp",
+    "heroAlt": "\\\"Pössl Summit 640 2026\\",
+    "keywords": [
+      "Pössl Summit 640 2026",
+      "Summit 640 precio",
+      "Pössl camper grande"
+    ],
+    "readTime": 1
+  },
+  {
+    "slug": "possl-trenta-640-2026-analisis-opinion",
+    "title": "Pössl Trenta 640 2026: precio, ficha técnica y opinión",
+    "excerpt": "Análisis de la Pössl Trenta 640 2026: la edición especial por los 30 años de Pössl. Ficha técnica y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/possl-trenta-640-2026-oficial-ext.webp",
+    "heroAlt": "\\\"Pössl Trenta 640 2026\\",
+    "keywords": [
+      "Pössl Trenta 640",
+      "Trenta precio",
+      "Pössl edición especial"
+    ],
+    "readTime": 1
+  },
+  {
+    "slug": "westfalia-kepler-2026-analisis-opinion",
+    "title": "Westfalia Kepler 2026: precio, ficha técnica y opinión",
+    "excerpt": "Análisis del Westfalia Kepler 2026: la puerta de entrada a Westfalia desde 57.000 €. Ficha técnica y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/westfalia-kepler-2026-oficial-ext.webp",
+    "heroAlt": "\\\"Westfalia Kepler 2026\\",
+    "keywords": [
+      "Westfalia Kepler 2026",
+      "Kepler precio",
+      "Westfalia camper"
+    ],
+    "readTime": 1
+  },
+  {
+    "slug": "westfalia-columbus-2026-analisis-opinion",
+    "title": "Westfalia Columbus 600 2026: precio, ficha técnica y opinión",
+    "excerpt": "Análisis del Westfalia Columbus 600 2026: la camper más popular de Westfalia con baño completo. Ficha técnica y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/westfalia-columbus-2026-oficial-ext.webp",
+    "heroAlt": "\\\"Westfalia Columbus 600 2026\\",
+    "keywords": [
+      "Westfalia Columbus 600",
+      "Columbus precio",
+      "Westfalia camper"
+    ],
+    "readTime": 1
+  },
+  {
+    "slug": "westfalia-amundsen-2026-analisis-opinion",
+    "title": "Westfalia Amundsen 2026: precio, ficha técnica y opinión",
+    "excerpt": "Análisis de la Westfalia Amundsen 2026: la camper Westfalia sobre base Ford Transit. Ficha técnica y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/westfalia-amundsen-2026-oficial-ext.webp",
+    "heroAlt": "\\\"Westfalia Amundsen 2026\\",
+    "keywords": [
+      "Westfalia Amundsen 2026",
+      "Amundsen precio",
+      "Westfalia Ford"
+    ],
+    "readTime": 1
+  },
+  {
+    "slug": "westfalia-sven-hedin-2026-analisis-opinion",
+    "title": "Westfalia Sven Hedin 2026: precio, ficha técnica y opinión",
+    "excerpt": "Análisis de la Westfalia Sven Hedin 2026: el clásico con techo alto fijo y baño completo. Ficha técnica y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/westfalia-sven-hedin-2026-oficial-ext.webp",
+    "heroAlt": "\\\"Westfalia Sven Hedin 2026\\",
+    "keywords": [
+      "Westfalia Sven Hedin 2026",
+      "Sven Hedin precio",
+      "Westfalia techo alto"
+    ],
+    "readTime": 1
+  },
+  {
+    "slug": "peugeot-traveller-camper-2026-analisis-opinion",
+    "title": "Peugeot Traveller Camper 2026: 180 CV, precio y ficha",
+    "excerpt": "Análisis de la Peugeot Traveller Camper 2026: camperizada por Tinkervan, con 180 CV diésel, techo elevable y menos de 2 m de alto. Precio y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/peugeot-traveller-camper-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Peugeot Traveller by Tinkervan blanco con toldo y zona de acampada\\",
+    "keywords": [
+      "Peugeot Traveller Camper 2026",
+      "Traveller Camper 180 CV",
+      "Tinkervan Traveller precio",
+      "camper Peugeot Traveller",
+      "Traveller Camper vs California"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "ford-transit-custom-nugget-2026-analisis-opinion",
+    "title": "Ford Transit Custom Nugget 2026: 72.290 €, ficha y opinión",
+    "excerpt": "Análisis de la Ford Transit Custom Nugget 2026: la camper original con camperización Westfalia, techo elevable y 4 plazas. Ficha técnica, precio y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/ford-transit-custom-nugget-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Ford Transit Custom Nugget 2026, camper\\",
+    "keywords": [
+      "Ford Transit Custom Nugget 2026",
+      "Nugget 2026 precio",
+      "Ford Nugget camper",
+      "Transit Custom camper",
+      "Nugget vs California"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "ford-transit-custom-nugget-active-2026-analisis-opinion",
+    "title": "Ford Transit Custom Nugget Active 2026: 233 CV PHEV",
+    "excerpt": "Análisis de la Ford Transit Custom Nugget Active 2026: la camper híbrida enchufable de 233 CV, 56 km eléctricos y etiqueta CERO. Precio y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/ford-transit-custom-nugget-active-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Ford Transit Custom Nugget Active 2026 PHEV, camper\\",
+    "keywords": [
+      "Ford Nugget Active PHEV 2026",
+      "Nugget Active 233 CV",
+      "Ford Nugget híbrida enchufable precio",
+      "camper híbrida enchufable 2026",
+      "Nugget Active etiqueta CERO"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "camperiz-peugeot-rifter-2026-analisis-opinion",
+    "title": "Camperiz Peugeot Rifter 2026: camper española con 5 plazas",
+    "excerpt": "Análisis de la Rifter camperizada por Camperiz: homologada como turismo, batería Victron de 100 Ah y 170 litros de almacenaje. Ficha técnica y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/camperiz-peugeot-rifter-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Peugeot Rifter Camperiz, vista exterior con toldo y cofre de techo\\",
+    "keywords": [
+      "Camperiz Peugeot Rifter 2026",
+      "Rifter camperizada precio",
+      "Camperiz Rifter homologación",
+      "Peugeot Rifter camper",
+      "camper española Rifter"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "renault-kangoo-camper-2026-analisis-opinion",
+    "title": "Renault Kangoo Camper 2026: precio, 115 CV y ficha técnica",
+    "excerpt": "Análisis de la Renault Kangoo Camper 2026: la camper compacta con motor diésel de 115 CV, 5 plazas y base de 4,49 m. Ficha técnica, precio y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/renault-kangoo-camper-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Renault Kangoo Camper 2026, vista exterior\\",
+    "keywords": [
+      "Renault Kangoo Camper 2026",
+      "Kangoo Camper precio",
+      "Renault Kangoo camperizar",
+      "camper compacta 115 CV",
+      "Kangoo camper ficha técnica"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "ford-transit-custom-nugget-plus-2026-analisis-opinion",
+    "title": "Nugget Plus 2026: precio 75.000 €, ficha técnica y opinión",
+    "excerpt": "Análisis de la Ford Transit Custom Nugget Plus 2026: la camper más grande de Ford, techo alto fijo y baño completo. Ficha técnica, precio y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/ford-transit-custom-nugget-plus-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Ford Transit Custom Nugget Plus 2026, camper gran volumen\\",
+    "keywords": [
+      "Ford Nugget Plus 2026",
+      "Nugget Plus precio",
+      "Ford Transit Custom Nugget Plus",
+      "camper Nugget Plus",
+      "Nugget Plus vs California"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "camperiz-dacia-dokker-2026-analisis-opinion",
+    "title": "Camperiz Dacia Dokker 2026: la camper accesible de 4,36 m",
+    "excerpt": "Análisis de la Camperiz Dacia Dokker 2026: la camper low-cost española sobre base Dacia, con módulos extraíbles y 5 plazas. Ficha técnica y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/camperiz-dacia-dokker-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Dacia Dokker camperizada por Camperiz, vista exterior\\",
+    "keywords": [
+      "Camperiz Dacia Dokker 2026",
+      "Dacia Dokker camper precio",
+      "Camperiz camper",
+      "camper low cost",
+      "Dacia Dokker camperizada"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "vw-california-beach-2026-analisis-opinion",
+    "title": "VW California Beach 2026: precio, 150 CV y 5 plazas",
+    "excerpt": "Análisis del Volkswagen California Beach 2026: precio oficial en España de 72.790 €, 150 CV TDI, 5 plazas, techo elevable y mini-cocina extraíble. La camper T7 más asequible, al detalle.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/vw-california-beach-2026-precio-ficha-tecnica-oficial-1.webp",
+    "heroAlt": "\\\"Volkswagen California Beach 2026 naranja con techo elevable\\",
+    "keywords": [
+      "Volkswagen California Beach 2026 precio",
+      "California Beach ficha técnica",
+      "California Beach 150 CV",
+      "camper Volkswagen precio España",
+      "California T7 Beach",
+      "furgoneta camper 5 plazas"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "vw-california-coast-2026-analisis-opinion",
+    "title": "VW California Coast 2026: precio, cocina y 4 camas",
+    "excerpt": "Análisis del Volkswagen California Coast 2026: cocina completa con nevera cajón, 4 plazas y 4 camas, batería de 80 Ah y depósito de 28 l. Precio aproximado desde 76.850 € (tarifa oficial Francia).",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/vw-california-coast-2026-precio-ficha-tecnica-oficial-1.webp",
+    "heroAlt": "\\\"Volkswagen California Coast 2026 con techo elevable\\",
+    "keywords": [
+      "Volkswagen California Coast 2026 precio",
+      "California Coast ficha técnica",
+      "California Coast cocina",
+      "camper 4 plazas cocina interior",
+      "California T7 Coast",
+      "furgoneta camper con cocina"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "vw-california-ocean-2026-analisis-opinion",
+    "title": "VW California Ocean 2026: precio y equipamiento top",
+    "excerpt": "Análisis del Volkswagen California Ocean 2026: techo elevable eléctrico, asientos calefactados, Climatronic y faros Matrix LED. Precio aproximado desde 84.000 € (tarifa oficial Francia).",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/vw-california-ocean-2026-precio-ficha-tecnica-oficial-1.webp",
+    "heroAlt": "\\\"Volkswagen California Ocean 2026 bicolor con toldo lateral\\",
+    "keywords": [
+      "Volkswagen California Ocean 2026 precio",
+      "California Ocean ficha técnica",
+      "California Ocean equipamiento",
+      "camper lujo Volkswagen",
+      "California T7 Ocean",
+      "mejor furgoneta camper 2026"
+    ],
+    "readTime": 5
   },
   {
     "slug": "changan-e06-2026-precio-ficha-tecnica",
@@ -20695,6 +21990,25 @@ export const BLOG_LITE: BlogLitePost[] = [
       "SkyNomad precio Europa"
     ],
     "readTime": 5
+  },
+  {
+    "slug": "nhtsa-luces-cian-vehiculos-autonomos-2026",
+    "title": "Luces cian para coches autónomos: la NHTSA propone el color",
+    "excerpt": "La NHTSA propone luces cian opcionales para señalar cuándo conduce un sistema automatizado y no una persona, dentro de la norma FMVSS 108.",
+    "category": "Novedades Motor",
+    "date": "2026-10-28",
+    "locale": "all",
+    "heroSrc": "/media/nhtsa-luces-cian-vehiculos-autonomos-hero.webp",
+    "heroAlt": "\\\"Ilustración de un coche autónomo de noche con tiras de luz cian encendidas\\",
+    "keywords": [
+      "luces cian coches autónomos",
+      "NHTSA luces cian",
+      "FMVSS 108",
+      "coche autónomo señal luminosa",
+      "robotaxi luz cian",
+      "conducción automatizada color"
+    ],
+    "readTime": 10
   },
   {
     "slug": "ferrari-12cilindri-2025-precio-ficha-tecnica",
@@ -52875,6 +54189,846 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 3
   },
   {
+    "slug": "beta-evo-300-2024-analisis-opinion",
+    "title": "Beta Evo 300 2024: análisis, opinión y rivales",
+    "excerpt": "La Beta Evo 300 2T 2024, tope de gama de las trialeras de Beta, cuesta 7.648 € en España: 296,5 cc de dos tiempos y solo 72 kg.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/beta-evo-300-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "Beta Evo 300 2024",
+    "keywords": [
+      "beta evo 300 2024",
+      "precio beta evo 300",
+      "moto trial 300 2t",
+      "beta evo 300 ficha técnica",
+      "trial 300 dos tiempos",
+      "beta evo vs sherco",
+      "mantenimiento trial beta",
+      "comprar moto trial"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "ducati-panigale-v2-2025-analisis-opinion",
+    "title": "Ducati Panigale V2 2025: análisis, opinión y rivales",
+    "excerpt": "La Ducati Panigale V2 2025 estrena un motor V2 de 890 cc con 120 CV y tiene un PVP oficial de 17.690 € en España (Ducati Madrid la oferta por 16.490 € en octubre de 2026).",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/ducati-panigale-v2-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Ducati Panigale V2 2025",
+    "keywords": [
+      "ducati panigale v2 2025",
+      "precio panigale v2",
+      "ficha técnica panigale v2",
+      "panigale v2 carnet a2",
+      "deportiva 120 cv",
+      "panigale v2 consumo",
+      "panigale v2 vs ninja 1100sx",
+      "comprar panigale v2"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "harley-davidson-sportster-s-2024-analisis-opinion",
+    "title": "Harley-Davidson Sportster S 2024: análisis, opinión y rivales",
+    "excerpt": "La Harley-Davidson Sportster S parte ahora desde 17.800 € en España: 122 CV del motor Revolution Max 1250T, electrónica con IMU de 6 ejes y un consumo real de 5,0 l/100 km.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "\\\"/media/motos/harley-davidson-sportster-s-2024-ficha-tecnica-precio.webp\\",
+    "heroAlt": "\\\"Harley-Davidson Sportster S 2024\\",
+    "keywords": [
+      "harley-davidson sportster s",
+      "sportster s precio",
+      "sportster s 2024",
+      "ficha tecnica sportster s",
+      "revolution max 1250t",
+      "custom harley-davidson",
+      "sportster s consumo",
+      "motos custom americanas"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "kawasaki-vulcan-s-2024-analisis-opinion",
+    "title": "Kawasaki Vulcan S 2024: análisis, opinión y rivales",
+    "excerpt": "La Kawasaki Vulcan S 2026 cuesta 8.760 € en España: custom de 649 cc y 61 CV limitable para el A2, con ergonomía Ergo-Fit ajustable y un consumo real de solo 4,5 l/100 km.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "\\\"/media/motos/kawasaki-vulcan-s-2024-ficha-tecnica-precio.webp\\",
+    "heroAlt": "\\\"Kawasaki Vulcan S 2024\\",
+    "keywords": [
+      "kawasaki vulcan s",
+      "vulcan s precio",
+      "vulcan s 2026",
+      "ficha tecnica vulcan s",
+      "custom kawasaki",
+      "motos custom a2",
+      "vulcan s consumo",
+      "ergo-fit kawasaki"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "kawasaki-z650rs-2024-analisis-opinion",
+    "title": "Kawasaki Z650RS 2024: análisis, opinión y rivales",
+    "excerpt": "La Z650RS 2024, la neo-retro de Kawasaki para el A2: 68 CV, 187 kg y 8.625 €. Precio, datos y gasto real.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "\\\"/media/motos/kawasaki-z650rs-2024-ficha-tecnica-precio.webp\\",
+    "heroAlt": "\\\"Kawasaki Z650RS 2024\\",
+    "keywords": [
+      "kawasaki z650rs precio",
+      "z650rs 2024 ficha",
+      "naked retro a2",
+      "moto clásica 68 cv",
+      "z650rs colores 2024",
+      "xsr700 vs z650rs",
+      "moto a2 limitable",
+      "kawasaki retro 650"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "kawasaki-z900-2025-analisis-opinion",
+    "title": "Kawasaki Z900 2025: análisis, opinión y rivales",
+    "excerpt": "La Kawasaki Z900 2025 parte de 10.325 € con 124 CV, IMU, control de crucero y quickshifter de serie. Precio, ficha técnica y consumo real.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/kawasaki-z900-2025-ficha-tecnica-precio.webp",
+    "heroAlt": "Kawasaki Z900 2025",
+    "keywords": [
+      "kawasaki z900",
+      "z900 2025",
+      "precio kawasaki z900",
+      "ficha técnica z900",
+      "naked 1000 kawasaki",
+      "z900 vs trident 800",
+      "quickshifter z900",
+      "moto naked 124 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "maeving-rm1-2024-analisis-opinion",
+    "title": "Maeving RM1 2024: análisis, opinión y rivales",
+    "excerpt": "La Maeving RM1 es la café racer eléctrica británica equivalente a 125 cc: 4,4 kW, 72 km/h y hasta 129 km de autonomía con doble batería. No se vende en España: solo en Reino Unido desde £4.995.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/maeving-rm1-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "Maeving RM1 2024, café racer eléctrica británica",
+    "keywords": [
+      "maeving rm1",
+      "maeving rm1 precio",
+      "moto eléctrica retro",
+      "café racer eléctrica",
+      "moto eléctrica 125",
+      "maeving españa",
+      "baterías extraíbles moto",
+      "autonomía maeving rm1"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "sym-maxsym-tl-508-2024-analisis-opinion",
+    "title": "SYM Maxsym TL 508 2024: análisis, opinión y rivales",
+    "excerpt": "El SYM Maxsym TL 508 2024, maxiscooter deportivo bicilíndrico de 45,5 CV, cuesta 8.999 € en España con 5 años de garantía y seguro gratis incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/sym-maxsym-tl-508-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "SYM Maxsym TL 508 2024",
+    "keywords": [
+      "sym maxsym tl 508 2024",
+      "precio maxsym tl 508",
+      "maxiscooter 508 cc",
+      "sym maxsym tl 508 ficha técnica",
+      "maxiscooter carnet a2",
+      "maxsym tl 508 consumo",
+      "maxsym tl 508 vs dragster 459",
+      "comprar maxiscooter"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "yamaha-tenere-700-2024-analisis-opinion",
+    "title": "Yamaha Ténéré 700 2024: análisis, opinión y rivales",
+    "excerpt": "La Yamaha Ténéré 700 2024 cuesta desde 11.199 €: bicilíndrico CP2 de 73,4 CV, 204 kg y unos 350 km de autonomía con su depósito de 16 litros.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/yamaha-tenere-700-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "Yamaha Ténéré 700 2024, trail media con motor CP2",
+    "keywords": [
+      "yamaha ténéré 700",
+      "ténéré 700 2024 precio",
+      "yamaha tenere 700 ficha técnica",
+      "trail media cilindrada",
+      "ténéré 700 consumo",
+      "moto trail a2",
+      "motor cp2 yamaha",
+      "tenere 700 autonomía"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "yamaha-xsr700-2024-analisis-opinion",
+    "title": "Yamaha XSR700 2024: análisis, opinión y rivales",
+    "excerpt": "Yamaha XSR700 2024 por 8.499 €: la neo-retro con el CP2 de 73,4 CV. Precio, cifras y gasto real.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/yamaha-xsr700-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "Yamaha XSR700 2024",
+    "keywords": [
+      "yamaha xsr700 precio",
+      "xsr700 2024 ficha",
+      "naked retro yamaha",
+      "moto a2 73 cv",
+      "xsr700 consumo real",
+      "z650rs o xsr700",
+      "sport heritage yamaha",
+      "moto ligera 188 kg"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "piaggio-beverly-400-2024-analisis-opinion",
+    "title": "Piaggio Beverly 400 2024: análisis, opinión y rivales",
+    "excerpt": "El Piaggio Beverly 400 2024 cuesta desde 6.799 €: monocilíndrico HPE de 35,4 CV, 195 kg y rueda alta de 16 pulgadas, con un consumo real en torno a 4 l/100 km.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/piaggio-beverly-400-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Piaggio Beverly 400 2024, scooter GT de rueda alta",
+    "keywords": [
+      "piaggio beverly 400",
+      "beverly 400 2024 precio",
+      "piaggio beverly 400 ficha técnica",
+      "scooter 400 carnet a2",
+      "beverly 400 consumo",
+      "scooter rueda alta gt",
+      "piaggio beverly 400 opiniones",
+      "beverly 400 autonomía"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "bmw-s-1000-rr-2024-analisis-opinion",
+    "title": "BMW S 1000 RR 2024: análisis, opinión y rivales",
+    "excerpt": "La BMW S 1000 RR 2024 partió de 23.070 €: tetracilíndrico ShiftCam de 210 CV, 197 kg y alerones de serie, con un consumo homologado de 6,4 l/100 km.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/bmw-s-1000-rr-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "BMW S 1000 RR 2024, superbike alemana de 210 CV",
+    "keywords": [
+      "bmw s 1000 rr",
+      "s 1000 rr 2024 precio",
+      "bmw s1000rr ficha técnica",
+      "superbike bmw 2024",
+      "s 1000 rr consumo",
+      "moto deportiva 200 cv",
+      "shiftcam bmw",
+      "bmw s 1000 rr peso"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "honda-rebel-1100-2024-analisis-opinion",
+    "title": "Honda Rebel 1100 2024: análisis, opinión y rivales",
+    "excerpt": "La Honda Rebel 1100 2024 costó 11.250 €: bicilíndrico de 1.084 cc con 87 CV, asiento a 700 mm y cambio DCT opcional, con 4,9 l/100 km declarados.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/honda-rebel-1100-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Honda Rebel 1100 2024, custom con motor de 1.084 cc",
+    "keywords": [
+      "honda rebel 1100",
+      "rebel 1100 2024 precio",
+      "honda cmx1100 ficha técnica",
+      "custom honda 2024",
+      "rebel 1100 consumo",
+      "moto custom carnet a",
+      "honda rebel 1100 dct",
+      "rebel 1100 autonomía"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "sym-adxtg-400-2025-analisis-opinion",
+    "title": "SYM ADXTG 400 2025: análisis, opinión y rivales",
+    "excerpt": "El SYM ADXTG 400 2025 cuesta 6.999 € oficiales: monocilíndrico de 399 cc con 35 CV, transmisión por cadena, 213 kg y un consumo medido de 4 l/100 km.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/sym-adxtg-400-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "SYM ADXTG 400 2025, scooter crossover adventure",
+    "keywords": [
+      "sym adxtg 400",
+      "adxtg 400 2025 precio",
+      "sym adxtg 400 ficha técnica",
+      "scooter crossover 400",
+      "adxtg 400 consumo",
+      "scooter adventure a2",
+      "sym adxtg opiniones",
+      "scooter trail 400"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "husqvarna-norden-901-2024-analisis-opinion",
+    "title": "Husqvarna Norden 901 2024: análisis, opinión y rivales",
+    "excerpt": "La Husqvarna Norden 901 2024 cuesta desde 14.399 €: 105 CV, 19 litros de depósito y unos 5 l/100 km de consumo real en una trail con alma sueca.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/husqvarna-norden-901-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Husqvarna Norden 901 2024, trail de 105 CV con estética neo-retro",
+    "keywords": [
+      "husqvarna norden 901",
+      "norden 901 2024 precio",
+      "husqvarna norden 901 ficha técnica",
+      "trail 105 cv",
+      "norden 901 consumo",
+      "moto trail adventure",
+      "norden 901 expedition",
+      "husqvarna trail precio"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "kawasaki-z500-2025-analisis-opinion",
+    "title": "Kawasaki Z500 2025: análisis, opinión y rivales",
+    "excerpt": "La Kawasaki Z500 2025 cuesta 6.350 €: la naked del carnet A2 con 45,4 CV, 168 kg y un consumo real de 4,9 l/100 km.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/kawasaki-z500-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Kawasaki Z500 2025, naked del carnet A2 con estilo Sugomi",
+    "keywords": [
+      "kawasaki z500",
+      "z500 2025 precio",
+      "kawasaki z500 ficha técnica",
+      "naked carnet a2",
+      "z500 consumo",
+      "moto a2 2025",
+      "kawasaki z500 se",
+      "z500 vs cb500 hornet"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "yamaha-niken-gt-2025-analisis-opinion",
+    "title": "Yamaha Niken GT 2025: análisis, opinión y rivales",
+    "excerpt": "La Yamaha Niken GT 2025 cuesta 19.599 €: la única moto de tres ruedas que se inclina, con el CP3 de 890 cc y 115 CV y un consumo real de 6,6 l/100 km.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/yamaha-niken-gt-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Yamaha Niken GT 2025, sport touring de tres ruedas inclinables",
+    "keywords": [
+      "yamaha niken gt",
+      "niken gt 2025 precio",
+      "yamaha niken ficha técnica",
+      "moto tres ruedas",
+      "niken gt consumo",
+      "sport touring yamaha",
+      "niken gt descatalogada",
+      "moto leaning multi wheel"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "aprilia-tuono-660-2024-analisis-opinion",
+    "title": "Aprilia Tuono 660 2024: análisis, opinión y rivales",
+    "excerpt": "La Aprilia Tuono 660 2024, con última tarifa de 10.949 €, es la naked media de Noale: 95 CV, 183 kg y un consumo real de 4,8 l/100 km. Hoy, descatalogada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/aprilia-tuono-660-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "Aprilia Tuono 660 2024, naked deportiva italiana de 95 CV",
+    "keywords": [
+      "aprilia tuono 660",
+      "tuono 660 2024 precio",
+      "aprilia tuono 660 ficha técnica",
+      "naked 95 cv",
+      "tuono 660 consumo",
+      "tuono 660 factory",
+      "moto naked a2",
+      "aprilia tuono 660 descatalogada"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "yamaha-tmax-560-2024-analisis-opinion",
+    "title": "Yamaha TMAX 560 2024: análisis, opinión y rivales",
+    "excerpt": "La Yamaha TMAX 560 2024, el maxiscooter de referencia, se lanzó a 13.990 €; la gama actual parte de 14.299 € con 47,6 CV aptos para el carnet A2 y un consumo real de 4,5 a 5,5 l/100 km.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "",
+    "heroAlt": "",
+    "keywords": [
+      "yamaha tmax 560",
+      "tmax 560 2024 precio",
+      "yamaha tmax ficha técnica",
+      "maxiscooter a2",
+      "tmax 560 consumo",
+      "tmax tech max precio",
+      "scooter gt 560",
+      "tmax 560 autonomía"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "bmw-r-1300-rt-2025-analisis-opinion",
+    "title": "BMW R 1300 RT 2025: análisis, opinión y rivales",
+    "excerpt": "La BMW R 1300 RT 2025 cuesta desde 24.680 €: bóxer de 145 CV, 281 kg, depósito de 24 litros y un consumo real medido de 4,7 l/100 km que le da más de 450 km de autonomía.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/bmw-r-1300-rt-2025-ficha-tecnica-precio.webp",
+    "heroAlt": "BMW R 1300 RT 2025, gran turismo",
+    "keywords": [
+      "bmw r 1300 rt",
+      "r 1300 rt precio",
+      "bmw r 1300 rt 2025 ficha",
+      "gran turismo bmw",
+      "r 1300 rt consumo",
+      "tourer bmw precio",
+      "moto rutera 2025",
+      "r 1300 rt autonomía"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "sym-adx-300-2025-analisis-opinion",
+    "title": "SYM ADX 300 2025: análisis, opinión y rivales",
+    "excerpt": "El SYM ADX 300 2025 cuesta 3.999 € en España: crossover adventure de 26 CV para el carnet A2, TFT de 7 pulgadas, ABS Bosch y un depósito de 16 litros, con seguro gratis y 5 años de garantía.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/sym-adx-300-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "SYM ADX 300 2025, scooter crossover adventure",
+    "keywords": [
+      "sym adx 300",
+      "adx 300 precio",
+      "sym adx 300 2025 ficha",
+      "scooter adventure 300",
+      "adx 300 consumo",
+      "scooter crossover a2",
+      "sym adx 300 autonomía",
+      "scooter 300 barato"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "benelli-trk-902-stradale-2025-analisis-opinion",
+    "title": "Benelli TRK 902 Stradale 2025: análisis, opinión y rivales",
+    "excerpt": "La Benelli TRK 902 Stradale 2025 cuesta 8.990 € en España: crossover asfáltica de 95,2 CV, radar de ángulo muerto opcional, TFT de 7 pulgadas y quickshifter de serie, con versión limitada para el A2.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/benelli-trk-902-stradale-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Benelli TRK 902 Stradale 2025, crossover asfáltica",
+    "keywords": [
+      "benelli trk 902",
+      "trk 902 stradale precio",
+      "benelli trk 902 2025 ficha",
+      "crossover 900 benelli",
+      "trk 902 consumo",
+      "trail asfáltica 900",
+      "benelli trk 902 a2",
+      "trk stradale vs xplorer"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "kawasaki-z125-2024-analisis-opinion",
+    "title": "Kawasaki Z125 2024: análisis, opinión y rivales",
+    "excerpt": "La Kawasaki Z125 2024 cuesta desde 5.150 €: naked de 15 CV al límite legal para el A1 y el carnet B, chasis Trellis, 146 kg y estética Sugomi heredada de la familia Z.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/kawasaki-z125-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "Kawasaki Z125 2024, naked 125",
+    "keywords": [
+      "kawasaki z125",
+      "z125 2024 precio",
+      "kawasaki z125 ficha técnica",
+      "naked 125 carnet b",
+      "z125 consumo",
+      "moto 125 a1",
+      "kawasaki z125 autonomía",
+      "z125 vs mt-125"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "gasgas-ec-250-2t-2025-analisis-opinion",
+    "title": "GasGas EC 250 2T 2025: análisis, opinión y rivales",
+    "excerpt": "La GasGas EC 250 2T 2025 cuesta 9.955 €: enduro de competición con inyección TBI, 107,6 kg y chasis revisado para 2025, homologada Euro5+.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/gasgas-ec-250-2t-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "GasGas EC 250 2T 2025, enduro de competición",
+    "keywords": [
+      "gasgas ec 250 2025",
+      "gasgas ec 250 2t precio",
+      "ec 250 2025 ficha técnica",
+      "enduro 2t 250 precio",
+      "gasgas ec 250 peso",
+      "moto enduro matriculable",
+      "gasgas ec 250 2t 2025",
+      "enduro dos tiempos españa"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "suzuki-hayabusa-2025-analisis-opinion",
+    "title": "Suzuki Hayabusa 2025: análisis, opinión y rivales",
+    "excerpt": "La Suzuki Hayabusa 2025 mantiene sus 190 CV con Euro5+: 264 kg, 299 km/h autolimitados y 6,1 l/100 km medidos en prueba. El precio oficial no se publica.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/suzuki-hayabusa-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Suzuki Hayabusa 2025, hyperdeportiva",
+    "keywords": [
+      "suzuki hayabusa 2025",
+      "hayabusa 2025 precio",
+      "hayabusa ficha técnica",
+      "suzuki hayabusa 190 cv",
+      "hayabusa consumo",
+      "hyperdeportiva 2025",
+      "hayabusa velocidad máxima",
+      "moto 1340 cc"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "ktm-890-adventure-2024-analisis-opinion",
+    "title": "KTM 890 Adventure 2024: análisis, opinión y rivales",
+    "excerpt": "La KTM 890 Adventure 2024 cuesta 14.999 €: 105 CV, 215 kg, depósito bajo tipo rally y 4,7 l/100 km medidos en prueba con unos 400 km de autonomía.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/ktm-890-adventure-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "KTM 890 Adventure 2024, trail media",
+    "keywords": [
+      "ktm 890 adventure 2024",
+      "890 adventure precio",
+      "ktm 890 adventure ficha técnica",
+      "trail media 2024",
+      "890 adventure consumo",
+      "ktm adventure autonomía",
+      "moto trail austriaca",
+      "lc8c 105 cv"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "honda-gold-wing-2024-analisis-opinion",
+    "title": "Honda Gold Wing 2024: análisis, opinión y rivales",
+    "excerpt": "La Honda Gold Wing 2024 costaba 30.700 €: bóxer de 6 cilindros y 1.833 cc, 126 CV, DCT con marcha atrás y 367 kg. Modelo descatalogado en favor del 2025.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/honda-gold-wing-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "Honda Gold Wing 2024, gran turismo",
+    "keywords": [
+      "honda gold wing 2024",
+      "gold wing precio",
+      "gold wing ficha técnica",
+      "honda gl1800 2024",
+      "gold wing dct",
+      "gran turismo moto",
+      "gold wing consumo",
+      "moto 6 cilindros"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "ktm-1390-super-duke-r-2024-analisis-opinion",
+    "title": "KTM 1390 Super Duke R 2024: análisis, opinión y rivales",
+    "excerpt": "La KTM 1390 Super Duke R 2024 cuesta 22.699 €: V2 de 1.350 cc con 190 CV y distribución variable, 200 kg en seco y 5,8 l/100 km medidos en prueba.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/ktm-1390-super-duke-r-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "KTM 1390 Super Duke R 2024, hypernaked",
+    "keywords": [
+      "ktm 1390 super duke r 2024",
+      "1390 super duke r precio",
+      "super duke r ficha técnica",
+      "hypernaked 2024",
+      "ktm 1390 190 cv",
+      "super duke r consumo",
+      "naked más potente",
+      "ktm lc8 1350"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "aprilia-rs-660-2024-analisis-opinion",
+    "title": "Aprilia RS 660 2024: análisis, opinión y rivales",
+    "excerpt": "La Aprilia RS 660 2024 cuesta 11.999 € en España: 100 CV, 169 kg en seco y electrónica de MotoGP, la deportiva media más refinada del segmento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/aprilia-rs-660-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "Aprilia RS 660 2024, deportiva italiana de media cilindrada",
+    "keywords": [
+      "aprilia rs 660",
+      "precio aprilia rs 660 2024",
+      "ficha técnica rs 660",
+      "deportiva media 100 cv",
+      "rs 660 vs r7",
+      "consumo aprilia rs 660",
+      "rs 660 a2",
+      "motos deportivas 2024"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "benelli-leoncino-800-2024-analisis-opinion",
+    "title": "Benelli Leoncino 800 2024: análisis, opinión y rivales",
+    "excerpt": "La Benelli Leoncino 800 2024 cuesta 6.990 € en promoción llave en mano en España: scrambler neo-retro de 76,2 CV con horquilla Marzocchi de 50 mm, frenos Brembo y versión limitable para el A2, con un ",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/benelli-leoncino-800-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "Benelli Leoncino 800 2024, scrambler neo-retro",
+    "keywords": [
+      "benelli leoncino 800 precio",
+      "leoncino 800 2024 ficha",
+      "leoncino 800 consumo",
+      "leoncino 800 vs trail",
+      "benelli leoncino 800 a2",
+      "scrambler 800 comparativa",
+      "leoncino 800 opiniones",
+      "leoncino 800 opiniones prueba"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "bmw-r-12-ninet-2024-analisis-opinion",
+    "title": "BMW R 12 nineT 2024: análisis, opinión y rivales",
+    "excerpt": "La BMW R 12 nineT 2024 cuesta 17.900 € en España: bóxer de 1.170 cc con 109 CV y 115 Nm, chasis nuevo y el carácter retro alemán en estado puro.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/bmw-r-12-ninet-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "BMW R 12 nineT 2024, roadster heritage en estudio",
+    "keywords": [
+      "bmw r 12 ninet",
+      "precio bmw r 12 ninet 2024",
+      "ficha técnica r 12 ninet",
+      "roadster heritage",
+      "r 12 ninet vs speed twin",
+      "consumo bmw r 12 ninet",
+      "motos retro 2024",
+      "bmw r 12 ninet a2"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "fantic-xe-125-2025-analisis-opinion",
+    "title": "Fantic XE 125 2025: análisis, opinión y rivales",
+    "excerpt": "La Fantic XE 125 2025 es una enduro 2T de gasolina homologada Euro5+ (no eléctrica): tres títulos mundiales Youth, chasis de aluminio y Kayaba SSS de 48 mm. El PVP de la 2026 es de 9.990 €; el de la 2",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/fantic-xe-125-2025-ficha-tecnica-precio.webp",
+    "heroAlt": "Fantic XE 125 2025, enduro 2T de 125 cc en tramo de tierra",
+    "keywords": [
+      "fantic xe 125",
+      "xe 125 2025 precio",
+      "fantic xe 125 ficha técnica",
+      "enduro 125 2t",
+      "fantic enduro 125",
+      "xe 125 opiniones",
+      "enduro a1 125",
+      "fantic xe 125 prueba"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "kymco-downtown-350-2024-analisis-opinion",
+    "title": "Kymco Downtown 350 GT 2024: análisis, opinión y rivales",
+    "excerpt": "El Kymco Downtown 350 GT 2024 no tiene precio oficial en España (Kymco no lo comercializa aquí): 321 cc, 28,5 CV, 185 kg y 4 l/100 km reales medidos en prueba, con 310 km de autonomía.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/kymco-downtown-350-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "Kymco Downtown 350 GT 2024, scooter GT de 321 cc",
+    "keywords": [
+      "kymco downtown 350 gt",
+      "downtown 350 gt precio",
+      "kymco downtown 350 gt 2024",
+      "scooter gt 350",
+      "downtown 350 gt consumo",
+      "kymco 350 españa",
+      "maxiscooter 350",
+      "downtown vs dtx 350"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "livewire-one-2024-analisis-opinion",
+    "title": "LiveWire ONE 2024: análisis, opinión y rivales",
+    "excerpt": "La LiveWire ONE 2024 cuesta 15.090 € en España, su precio más bajo de la historia: naked eléctrica de 100 CV, batería de 15,4 kWh, carga rápida del 0 al 80% en 40 minutos y casi 200 km de autonomía re",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/livewire-one-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "LiveWire ONE 2024, naked eléctrica",
+    "keywords": [
+      "livewire one precio",
+      "livewire one 2024 ficha",
+      "livewire one autonomía real",
+      "moto eléctrica naked 100 cv",
+      "livewire one españa",
+      "livewire one vs honda wn7",
+      "livewire one carga rápida",
+      "livewire one opiniones"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "macbor-rockster-410-2025-analisis-opinion",
+    "title": "Macbor Rockster 410 2025: análisis, opinión y rivales",
+    "excerpt": "La Macbor Rockster 410 2025 cuesta 4.999 € en España: la primera custom de la marca para el carnet A2, con bicilíndrico de 401 cc y 42 CV, control de tracción y pantalla TFT con mirroring.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/macbor-rockster-410-2025-ficha-tecnica-precio.webp",
+    "heroAlt": "Macbor Rockster 410 2025, custom bicilíndrica para el carnet A2",
+    "keywords": [
+      "macbor rockster 410",
+      "rockster 410 2025 precio",
+      "macbor rockster 410 ficha técnica",
+      "custom a2 5000 euros",
+      "moto custom carnet a2",
+      "macbor rockster 410 consumo",
+      "rockster 410 opiniones",
+      "custom bicilíndrica a2"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "niu-rqi-sport-2025-analisis-opinion",
+    "title": "NIU RQi Sport 2025: análisis, opinión y rivales",
+    "excerpt": "La NIU RQi Sport 2025 cuesta 3.999 € en España: naked eléctrica con 8,7 kW, 110 km/h, frenos Brembo con ABS y 95-105 km de autonomía declarada, en unidades limitadas.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/niu-rqi-sport-2025-ficha-tecnica-precio.webp",
+    "heroAlt": "NIU RQi Sport 2025, naked eléctrica equivalente a 125",
+    "keywords": [
+      "niu rqi sport precio",
+      "niu rqi sport 2025",
+      "moto eléctrica naked 125",
+      "rqi sport autonomía",
+      "niu españa",
+      "moto eléctrica 110 km/h",
+      "rqi sport ficha técnica",
+      "brembo abs moto eléctrica"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "qjmotor-fort-125n-2026-analisis-opinion",
+    "title": "QJMotor Fort 125N 2026: análisis, opinión y rivales",
+    "excerpt": "El QJMotor Fort 125N 2026 cuesta 3.999 € en España con matrícula y seguro gratis y 6 años de garantía: scooter GT 125 con sistema microhíbrido, TFT de 7 pulgadas, control de tracción y un consumo prob",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/qjmotor-fort-125n-2026-ficha-tecnica-precio.webp",
+    "heroAlt": "QJMotor Fort 125N 2026, scooter GT 125",
+    "keywords": [
+      "qjmotor fort 125n precio",
+      "fort 125n 2026 ficha",
+      "qjmotor fort 125n consumo",
+      "scooter 125 microhíbrido",
+      "fort 125n opiniones",
+      "scooter gt 125 comparativa",
+      "qjmotor fort 125n carnet b",
+      "fort 125n vs forza 125"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "super-soco-cpx-analisis-opinion",
+    "title": "Super Soco CPx 2024: análisis, opinión y rivales",
+    "excerpt": "El Super Soco CPx Pro cuesta 5.589 € en España: scooter eléctrico equivalente a 125 con 90 km/h, hasta 137 km de autonomía homologada y unos 69 km reales medidos con una batería.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/super-soco-cpx-ficha-tecnica-precio.webp",
+    "heroAlt": "Super Soco CPx 2024, scooter eléctrico equivalente a 125",
+    "keywords": [
+      "super soco cpx precio",
+      "super soco cpx pro",
+      "scooter eléctrico 125",
+      "cpx autonomía real",
+      "super soco cpx ficha técnica",
+      "moto eléctrica equivalente 125",
+      "super soco cpx 2024",
+      "cpx vs silence s01"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "triumph-tiger-900-gt-2024-analisis-opinion",
+    "title": "Triumph Tiger 900 GT 2024: análisis, opinión y rivales",
+    "excerpt": "La Triumph Tiger 900 GT 2024 parte de 14.195 € en España: 108 CV, 90 Nm y un tricilíndrico de 888 cc renovado que gasta apenas 4,7 l/100 km homologados.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/triumph-tiger-900-gt-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "Triumph Tiger 900 GT 2024, trail asfáltica en estudio",
+    "keywords": [
+      "triumph tiger 900 gt",
+      "precio tiger 900 gt 2024",
+      "ficha técnica tiger 900",
+      "trail asfáltica",
+      "tiger 900 gt vs gt pro",
+      "consumo triumph tiger 900",
+      "motos trail 2024",
+      "tiger 900 gt a2"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "yamaha-neos-analisis-opinion",
+    "title": "Yamaha NEO's: análisis, opinión y rivales",
+    "excerpt": "El Yamaha NEO's Dual Battery cuesta 2.999 € en España: scooter eléctrico equivalente a 50 cc con 29 km de autonomía real por batería, baterías extraíbles de 8 kg y recargas de céntimos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/yamaha-neos-ficha-tecnica-precio.webp",
+    "heroAlt": "Yamaha NEO's Dual Battery, scooter eléctrico equivalente a 50cc en blanco",
+    "keywords": [
+      "yamaha neos",
+      "neos dual battery precio",
+      "yamaha neos ficha técnica",
+      "scooter eléctrico 50cc",
+      "yamaha neos autonomía real",
+      "ciclomotor eléctrico yamaha",
+      "neos batería extraíble",
+      "yamaha neos 2025 precio"
+    ],
+    "readTime": 7
+  },
+  {
     "slug": "neta-aya-2025-precio-ficha-tecnica",
     "title": "Neta Aya: 401 km por 9.600 €",
     "excerpt": "El Neta Aya es el urbano eléctrico de Hozon Auto: 95 CV, batería de 40,93 kWh, 401 km de autonomía y V2L desde unos 9.600 €. Precio, ficha y análisis.",
@@ -70209,6 +72363,25 @@ export const BLOG_LITE: BlogLitePost[] = [
       "coches chinos ventas 2026"
     ],
     "readTime": 5
+  },
+  {
+    "slug": "byd-seagull-2027-carga-flash-9-minutos",
+    "title": "BYD Seagull 2027: carga Flash del 10 al 97% en 9 minutos",
+    "excerpt": "BYD confirma en vídeos oficiales la carga Flash del nuevo Seagull: del 10 al 97% en 9 minutos. Segunda generación de 4,21 m y 129 CV, desde 85.000 yuanes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/byd-dolphin-surf-2027-hero.webp",
+    "heroAlt": "BYD Seagull segunda generación 2027, coche eléctrico blanco vista tres cuartos delantera",
+    "keywords": [
+      "BYD Seagull 2027",
+      "BYD Seagull carga flash",
+      "Seagull segunda generación",
+      "BYD Dolphin Surf 2027",
+      "Seagull carga 9 minutos",
+      "BYD Seagull precio China"
+    ],
+    "readTime": 6
   },
   {
     "slug": "radical-sr1-xxr-2025-precio-ficha-tecnica",
