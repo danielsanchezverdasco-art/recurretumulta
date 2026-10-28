@@ -4387,3 +4387,9 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 ## EBRO Q 2027 — radar 21/10/2026
 - ebro-q-2027-precio-ficha-tecnica-oficial.webp: Chery Q (modelo en el que se basará el EBRO Q), foto de prensa en salón, vía car250.com (Motor Show 2026). El EBRO Q aún no se ha presentado con su imagen definitiva. Licencia desconocida.
 - ebro-q-2027-precio-ficha-tecnica-oficial-2.webp: Chery Q en el Bangkok International Motor Show 2026, vía bims47.motorshow.in.th. Licencia desconocida.
+
+## Radar 21/10/2026 — blog posts (niky)
+- avatr-espana-2027-paris-hero.webp: No Sólo Motor (nosolomotor.es), presentación del AVATR Concept T09 en París. Licencia desconocida.
+- avatr-espana-2027-06-interior.webp: No Sólo Motor (nosolomotor.es), interior del AVATR 06. Licencia desconocida.
+- omoda-x-concept-china-hero.webp: Hipertextual (hipertextual.com), imagen oficial del Omoda X concept con cámara térmica. Licencia desconocida.
+- porsche-975-rse-monza-hero.webp: Porsche AG / Andi Mayr, infografía oficial de datos técnicos del 975 RSE (newsroom.porsche.com). Licencia desconocida.
