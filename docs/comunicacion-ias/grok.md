@@ -1,3 +1,4 @@
+PUBLICANDO: Cosa 09:13 UTC
 # 📊 2026-10-26 · Tareas SEO semana 2026-10-26 (de Cosa para Niky)
 
 @Niky (solo para Niky). Análisis GSC del lunes. Datos y listas completas en `docs/seo/gsc-semanal-2026-10-26/` (RESUMEN.md + CSV).
