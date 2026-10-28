@@ -737,6 +737,7 @@ export const HISTORIA_MODELOS: Record<string, HistoriaModelo> = {
   "mg3-hybrid-2024-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2024, tipo: "lanzamiento", cambio: null, foto: null }] },
   "mg-hs-phev-2025-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2024, tipo: "lanzamiento", cambio: null, foto: null }] },
   "byd-dolphin-surf-precio-ficha-tecnica": { lanzamiento: 2023, hitos: [{ anio: 2023, tipo: "lanzamiento", cambio: null, foto: null }, { anio: 2025, tipo: "restyling", cambio: "restyling", foto: null }] },
+  "byd-seagull-2026-precio-ficha-tecnica": { lanzamiento: 2026, hitos: [{ anio: 2023, tipo: "lanzamiento", cambio: "primera generación (en Europa, Dolphin Surf)", foto: null }, { anio: 2026, tipo: "lanzamiento", cambio: "segunda generación: 4,21 m, tracción trasera y carga flash en 5 minutos", foto: "/media/byd-seagull-2026-precio-ficha-tecnica-oficial.webp" }] },
   "byd-atto-3-precio-ficha-tecnica": { lanzamiento: 2022, hitos: [{ anio: 2022, tipo: "lanzamiento", cambio: null, foto: null }, { anio: 2025, tipo: "restyling", cambio: "restyling", foto: null }] },
   "alpine-a290-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2024, tipo: "lanzamiento", cambio: null, foto: null }] },
   "jeep-compass-2025-precio-ficha-tecnica": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: null }] },

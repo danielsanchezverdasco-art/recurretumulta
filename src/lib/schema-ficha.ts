@@ -10,6 +10,8 @@ import type { PuntoGen } from "./historial-precios-cargar";
 /** Precio real en origen cuando solo hay conversión a euros (p. ej. Stelato G9, China). */
 export const PRECIO_ORIGEN: Record<string, { price: number; priceCurrency: string; pais?: string }> = {
   "stelato-g9-2026-precio-ficha-tecnica": { price: 479800, priceCurrency: "CNY" },
+  // Lanzamiento 20/10/2026 en Zhengzhou: 5 versiones, 65.900–99.900 yuanes (CnEVPost).
+  "byd-seagull-2026-precio-ficha-tecnica": { price: 65900, priceCurrency: "CNY", pais: "China" },
   // Nota de prensa Mercedes-AMG 17/10/2026: AMG GT 53 SUV desde 113.050 € en Alemania (IVA 19 %); sin tarifa en España.
   "mercedes-amg-gt-suv-precio-ficha-tecnica": { price: 113050, priceCurrency: "EUR", pais: "Alemania" },
 };

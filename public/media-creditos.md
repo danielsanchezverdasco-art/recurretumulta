@@ -4382,3 +4382,4 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 ## Waymo robotaxis Madrid — radar 20/10/2026 (blog)
 - waymo-jaguar-i-pace-madrid-hero.webp: Alamy, vía tribunetimes.co.uk (https://tribunetimes.co.uk/). Foto real de Jaguar I-PACE blanco con Waymo Driver (LiDAR en techo, sensores laterales). Licencia desconocida.
 - audi-q7-2026-precio-ficha-tecnica-oficial.webp: Il Sole 24 Ore (imagen oficial de Audi, tercera generación del Q7). Licencia desconocida.
+- byd-seagull-2026-precio-ficha-tecnica-oficial.webp: Foto oficial de BYD del Seagull de segunda generación, vía CnEVPost (artículo del lanzamiento 20/10/2026). Licencia desconocida.
