@@ -1,7 +1,7 @@
 // Radar de noticias 27/10/2026 23:58 (cron recurretumulta-radar-noticias-5h).
 // - Leapmotor B10: producción en España. Disparador: El Periódico /
 //   Superdeporte publicó el 27/10/2026 a las 19:04 CET que la producción
-//   del B10 en la planta de Stellantis en Figueruelas (Zaragoza) se ha puesto en
+//   del B10 en la factoría que Stellantis tiene en Figueruelas (Zaragoza) se ha puesto en
 //   marcha de forma oficial: es el primer Leapmotor fabricado en España.
 //   El B10 ya tenía fichas en esta web (BEV y REEV), así que esta pieza
 //   es solo blog de noticia, enlazado a las dos fichas, sin ficha nueva.
