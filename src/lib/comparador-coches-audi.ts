@@ -1081,7 +1081,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "El mayor Audi de su historia: 5,31 m de largo y siete plazas de serie",
-      "V6 TDI de 299 CV y 630 Nm con hibridación ligera MHEV plus",
+      "Motor V6 TDI con microhibridación MHEV plus y 299 CV de potencia (630 Nm de par)",
       "832 L de maletero con la tercera fila abatida (hasta 2.308 L)",
       "Puertas con cierre automático y el mayor techo panorámico de Audi",
       "Suspensión neumática y dirección en las cuatro ruedas de serie",

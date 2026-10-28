@@ -32,7 +32,7 @@ export const RADAR_20261024D_POSTS: BlogPost[] = [
 
 *El Seal 07 de segunda generación en su teaser oficial: silueta fastback, tiradores semiocultos y LiDAR sobre el techo. Foto: BYD, vía CnEVPost (licencia desconocida).*
 
-BYD no deja respirar a su propia gama. El Seal 07 eléctrico lleva a la venta en China desde marzo de 2026 y ya se perfila su relevo: la segunda generación se dejó ver en los papeles del ministerio chino MIIT (7 de agosto de 2026), mostró su exterior el 28 de septiembre y, a partir del 23 de octubre, también su interior. Zhang Zhuo, director general de ventas de la línea Ocean de BYD, ha publicado en Weibo durante dos días seguidos los teasers del coche, el segundo de ellos dedicado al habitáculo, al que la marca llama cabina de lujo ligero. La noticia la han recogido el 23 y 24 de octubre CnEVPost y ForoCochesEléctricos, y es la primera vez que se ve por dentro el que será uno de los BYD más importantes de 2027.
+BYD no deja respirar a su propia gama. El Seal 07 eléctrico se vende en China desde marzo de 2026 y ya asoma su relevo: la segunda generación apareció en la documentación del ministerio chino MIIT el 7 de agosto de 2026, enseñó la carrocería el 28 de septiembre y, desde el 23 de octubre, el habitáculo. Zhang Zhuo, director general de ventas de la línea Ocean de BYD, ha publicado en Weibo durante dos días seguidos los teasers del coche, el segundo de ellos dedicado al habitáculo, al que la marca llama cabina de lujo ligero. La noticia la han recogido el 23 y 24 de octubre CnEVPost y ForoCochesEléctricos, y es la primera vez que se ve por dentro el que será uno de los BYD más importantes de 2027.
 
 Antes de entrar en cifras, una aclaración necesaria para no mezclar modelos: este Seal 07 es el sedán chino de la familia Ocean, no el Seal que BYD vende en España. El europeo es un coche más pequeño y distinto, con su propia ficha en esta web. El Seal 07 de segunda generación mide 5,08 metros, juega en la liga de las berlinas grandes y, de momento, solo está confirmado para China. Nada de lo que sigue es un precio europeo ni una fecha de llegada a España, porque BYD no ha anunciado ninguna de las dos cosas.
 
@@ -83,7 +83,7 @@ La gama, por tanto, queda así: dos eléctricos de tracción trasera y un híbri
 
 Aquí conviene pararse un momento, porque la cifra de 875 km es espectacular y, a la vez, fácil de malinterpretar. El ciclo chino CLTC resulta más indulgente que el europeo WLTP —velocidades medias menores, menos autopista— y por eso da cifras de autonomía mayores para un mismo coche con la misma batería. Los 775 y 875 km son cifras CLTC, no europeas, y no se pueden trasladar tal cual a una ficha de un coche vendido en España.
 
-¿Qué autonomía tendría en WLTP? No hay cifra oficial de BYD, y las estimaciones publicadas no coinciden. CarNewsChina, a partir del catálogo del MIIT, calcula 636 km WLTP para la versión de acceso y 718 km para la de gran autonomía. ForoCochesEléctricos, por su parte, estima alrededor de 674 y 761 km respectivamente. La diferencia entre ambas estimaciones es de unos 40 km en cada versión, y ninguna de las dos es un dato oficial: hasta que BYD publique la homologación europea —si es que el coche llega a Europa—, la autonomía WLTP del Seal 07 de segunda generación debe leerse como una horquilla estimada, no como una promesa. Con toda la cautela, incluso con la cifra más prudente el modelo figura entre las berlinas eléctricas con más autonomía del mercado de China.
+¿Qué autonomía tendría en WLTP? No hay cifra oficial de BYD, y las estimaciones publicadas no coinciden. CarNewsChina, a partir del catálogo del MIIT, calcula 636 km WLTP para la versión de acceso y 718 km para la de gran autonomía. ForoCochesEléctricos, por su parte, estima alrededor de 674 y 761 km respectivamente. La diferencia entre ambas estimaciones es de unos 40 km en cada versión, y ninguna de las dos es un dato oficial: hasta que BYD publique la homologación europea —si es que el coche llega a Europa—, la autonomía WLTP del Seal 07 de segunda generación debe leerse como una horquilla estimada, no como una promesa. Con toda la cautela, hasta con la cifra más conservadora este modelo queda entre las berlinas eléctricas de mayor autonomía que se venden en China.
 
 ## Precio y lanzamiento: lo que se sabe y lo que falta
 
@@ -103,7 +103,7 @@ El contexto ayuda a entender por qué BYD mueve ficha tan rápido: la familia Se
 | LiDAR en la versión mostrada en el teaser | Planes para Europa o España |
 
 ### ¿Cuándo sale a la venta el nuevo BYD Seal 07?
-BYD no ha anunciado fecha. El coche apareció en el catálogo del MIIT el 7 de agosto de 2026, mostró su exterior el 28 de septiembre y su interior el 23 de octubre, así que el lanzamiento en China parece cercano, pero no hay día confirmado.
+BYD no ha anunciado fecha. Tras figurar en el catálogo del MIIT (7 de agosto de 2026) y enseñarse por fuera (28 de septiembre) y por dentro (23 de octubre), el lanzamiento en China parece cercano, aunque no hay fecha confirmada.
 
 ### ¿Cuánto costará?
 Sin precio oficial. Como referencia del modelo anterior en China, el Seal 07 EV saliente partía de 169.900 yuanes y el DM-i, de 149.800 yuanes. Esas cifras no son el precio del nuevo modelo ni un precio europeo.
@@ -115,7 +115,7 @@ En ciclo chino CLTC, hasta 775 km la versión de 333 CV y hasta 875 km la de 408
 De momento, no está confirmado. Ojo: el Seal 07 mide 5,08 metros, es un modelo para China y no coincide con el Seal que BYD comercializa en España; la marca no ha hablado de Europa para esta nueva generación.
 
 ### ¿Qué cambia en el interior?
-Todo el habitáculo es nuevo: concepto Ocean Rhythm, palanca de cambios en la columna en lugar del selector de cristal, dos bases de carga inalámbrica, mandos físicos metálicos, sonido Devialet de 20 altavoces y asientos delanteros con calefacción, ventilación y masaje.
+El habitáculo cambia por completo: concepto Ocean Rhythm, palanca de cambios en la columna en vez del selector de cristal, dos bases de carga inalámbrica, mandos físicos metálicos, sonido Devialet de 20 altavoces y, delante, asientos con calefacción, ventilación y masaje.
 
 ### ¿Solo será eléctrico?
 No. Habrá dos versiones eléctricas de tracción trasera y una híbrida enchufable DM-i, con el mismo cuerpo de 5,08 metros y cinco plazas en todas las variantes.

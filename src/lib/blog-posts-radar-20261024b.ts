@@ -64,7 +64,7 @@ La versión del reglamento que usará el nuevo Clio será la **actualizada para 
 
 El Rally5 aún no existe a la vista del público, pero su base sí: el **Clio de sexta generación**, desvelado en Múnich el 8 de septiembre de 2025 y a la venta desde finales de ese año. Es el turismo pequeño más vendido del continente —130.000 unidades en la primera mitad de 2025— y el modelo francés con más ventas de toda su historia, con más de 17 millones de unidades fabricadas desde 1990.
 
-El kit de prensa oficial de Renault detalla sus cifras: **4,116 metros de largo, 1,768 de ancho y 1,451 de alto**, con una batalla de 2,591 metros y un maletero de 391 litros. El escalón mecánico superior es el **E-Tech 160**, un híbrido completo: motor 1.8 de cuatro cilindros (160 CV, 172 Nm) y un motor eléctrico de 205 Nm, transmisión multimodo, 8,3 segundos de 0 a 100 km/h, 3,9 l/100 km y **89 g/km de CO₂**. La versión de acceso es el **TCe 115**, un tricilíndrico 1.2 de 115 CV y 190 Nm.
+El kit de prensa oficial de Renault detalla sus cifras: **4,116 metros de largo, 1,768 de ancho y 1,451 de alto**, con una batalla de 2,591 metros y un maletero de 391 litros. Por encima queda el **E-Tech 160**, híbrido completo con un 1.8 de cuatro cilindros (160 CV y 172 Nm) más un motor eléctrico de 205 Nm y transmisión multimodo; acelera de 0 a 100 km/h en 8,3 segundos, consume 3,9 l/100 km y emite **89 g/km de CO₂**. La versión de acceso es el **TCe 115**, un tricilíndrico 1.2 de 115 CV y 190 Nm.
 
 <img src=/media/renault-clio-rally5-2027-oficial.webp alt=Renault Clio VI de sexta generación en rojo circulando por ciudad, vista frontal>
 

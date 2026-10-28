@@ -1029,7 +1029,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
       "No hay espacio de carga útil: los techos van guardados tras el asiento del copiloto",
       "Con la capota de tela, la punta se limita a 200 km/h; sin deflector solo se puede circular a paso de aparcamiento",
       "El Valhalla no tiene prueba EuroNCAP publicada; faltan mantenimiento y garantía para España",
-      "Entregas desde el tercer trimestre de 2027, casi un año después de la presentación",
+      "Entregas a partir del tercer trimestre de 2027, cerca de un año tras la presentación",
     ],
     largoMm: null,
     anchoMm: null,

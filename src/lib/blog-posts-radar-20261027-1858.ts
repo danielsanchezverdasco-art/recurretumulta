@@ -70,7 +70,7 @@ En plazas, el Q9 es de serie un siete plazas con banqueta trasera dividida en tr
 
 <img src=/media/audi-q9-tdi-2026-interior.webp alt=Interior del Audi Q9 con tres pantallas, volante de cuatro radios y asientos claros>
 
-*Interior del Q9, con Digital Stage —cuadro de 11,9 pulgadas, central de 14,5 y pantalla del copiloto— y asientos delanteros con calefacción, ventilación y masaje en los acabados superiores. Foto de prensa de Audi, verificada como el interior del Q9.*
+*Interior del Q9, con Digital Stage —cuadro de 11,9 pulgadas, central de 14,5 y pantalla del copiloto— y, en los acabados superiores, butacas delanteras con calefacción, ventilación y masaje. Foto de prensa de Audi, verificada como el interior del Q9.*
 
 ## El SQ9 y las versiones americanas: no mezclarlas con el coche europeo
 
@@ -123,7 +123,7 @@ Si el Q9 te encaja, el consejo práctico es triple: pide por escrito el precio y
 En Alemania parte de 108.400 euros con el TDI de 220 kW (299 CV). En Reino Unido parte de 103.900 libras. En España aún no hay precio oficial confirmado, así que ninguna cifra española que circule sin fuente oficial debe tomarse como válida.
 
 ### ¿Qué motor tiene el Audi Q9 en Europa?
-Motor V6 3.0 TDI de 299 CV y 630 Nm con microhibridación MHEV plus (48 V), compresor eléctrico, caja tiptronic de 8 marchas y tracción quattro permanente. Es el único motor europeo en el lanzamiento; el SQ9 V8 de 591 CV es, de momento, solo americano.
+El motor es un V6 3.0 TDI de 299 CV (630 Nm de par) con microhibridación MHEV plus de 48 V, compresor eléctrico, caja tiptronic de 8 marchas y tracción quattro permanente. Es el único motor europeo en el lanzamiento; el SQ9 V8 de 591 CV es, de momento, solo americano.
 
 ### ¿Cuántas plazas tiene el Audi Q9?
 De serie son siete plazas: la banqueta de la segunda fila se divide en tres partes, con Isofix en las tres posiciones, y la tercera fila se pliega con accionamiento eléctrico. Como opción, el paquete Lounge transforma el coche en un seis plazas con dos butacas individuales eléctricas en la segunda fila.

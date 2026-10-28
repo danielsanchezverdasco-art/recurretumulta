@@ -1,7 +1,7 @@
 // Radar de noticias 27/10/2026 23:58 (cron recurretumulta-radar-noticias-5h).
 // - Leapmotor B10: producción en España. Disparador: El Periódico /
 //   Superdeporte publicó el 27/10/2026 a las 19:04 CET que la producción
-//   del B10 en la fábrica de Stellantis de Figueruelas (Zaragoza) se ha puesto en
+//   del B10 en la planta de Stellantis en Figueruelas (Zaragoza) se ha puesto en
 //   marcha de forma oficial: es el primer Leapmotor fabricado en España.
 //   El B10 ya tenía fichas en esta web (BEV y REEV), así que esta pieza
 //   es solo blog de noticia, enlazado a las dos fichas, sin ficha nueva.
@@ -66,7 +66,7 @@ El BEV, la versión 100% eléctrica, es la opción para quien tiene claro que qu
 
 ## Septiembre: 486 unidades y sexto eléctrico de España
 
-El dato que mejor resume el momento del B10 no es la producción, sino lo que pasó antes de ella: en septiembre, el B10 fue el sexto turismo 100% eléctrico más matriculado en España, con 486 unidades y una cuota de mercado del 2,8%. Son cifras que hay que leer en su contexto. Primero, porque se consiguieron a pocos meses del lanzamiento, cuando la marca todavía estaba desplegando su red y muchos compradores aún no conocían el modelo. Segundo, porque se lograron en un mercado eléctrico cada vez más competido, con marcas chinas y europeas peleando por el mismo comprador con precios agresivos y campañas constantes. Y en tercer lugar, porque el B10 no es solo un coche económico: es un SUV compacto eléctrico con cinco estrellas EuroNCAP, 17 asistentes a la conducción y la plataforma LEAP 3.5, que concentra la electrónica del coche en una arquitectura pensada para la conducción inteligente y un interior configurable.
+El dato que mejor resume el momento del B10 no es la producción, sino lo que pasó antes de ella: en septiembre, el B10 fue el sexto turismo 100% eléctrico más matriculado en España, con 486 unidades y una cuota de mercado del 2,8%. Son cifras que hay que leer en su contexto. Primero, porque se consiguieron a pocos meses del lanzamiento, cuando la marca todavía estaba desplegando su red y muchos compradores aún no conocían el modelo. Segundo, porque se lograron en un mercado eléctrico cada vez más competido, con marcas chinas y europeas peleando por el mismo comprador con precios agresivos y campañas constantes. En tercer lugar, porque el B10 no se queda en barato: es un SUV compacto eléctrico con cinco estrellas EuroNCAP, 17 asistentes a la conducción y la plataforma LEAP 3.5, que reúne la electrónica del coche en una arquitectura diseñada para la conducción inteligente y un interior configurable.
 
 Ese sexto puesto explica también por qué la producción en Zaragoza llega ahora y no dentro de un año. Cuando un modelo entra entre los más vendidos de su categoría, la prioridad pasa de darlo a conocer a poder servirlo: asegurar que quien lo pide lo recibe en un plazo razonable y que la red no se queda sin stock en los meses fuertes. La fabricación española no garantiza por sí sola que eso ocurra, pero elimina la mayor fuente de incertidumbre, que era depender por completo de la producción y el transporte desde China. Si las ventas mantienen el ritmo de septiembre, Figueruelas puede convertirse en el factor que sostenga el crecimiento del B10 en España y en el resto de Europa.
 
@@ -74,7 +74,7 @@ Ese sexto puesto explica también por qué la producción en Zaragoza llega ahor
 
 En un coche de menos de 30.000 euros, la seguridad es donde muchas marcas recortan, y por eso conviene destacar lo que el B10 hace bien en este apartado. El modelo ha conseguido las cinco estrellas en las pruebas de EuroNCAP, con buenos resultados en protección de ocupantes adultos, seguridad infantil y protección de los usuarios vulnerables de la vía. No es un detalle menor: hay SUV eléctricos de precio parecido que se quedan en cuatro estrellas, y la diferencia entre una y otra puntuación se nota en la estructura, en los sistemas de retención y en la protección en caso de impacto lateral o contra peatones.
 
-A eso se suman 17 funciones de ayuda a la conducción, el paquete ADAS que en la práctica significa asistente de mantenimiento de carril, frenada automática de emergencia, control de crucero adaptativo y vigilancia del ángulo muerto, entre otras. La plataforma LEAP 3.5, la arquitectura inteligente sobre la que se construye el B10, integra esos sistemas con el resto de la electrónica del coche, en lugar de añadirlos como piezas sueltas. Quien viene de un coche de combustión de hace una década notará un gran salto en seguridad activa, y es una de las razones por las que se aconseja a las familias que buscan su primer eléctrico: además de barato, protege como un vehículo de una categoría superior.
+A eso se suman 17 funciones de ayuda a la conducción, el paquete ADAS que en la práctica significa asistente de mantenimiento de carril, frenada automática de emergencia, control de crucero adaptativo y vigilancia del ángulo muerto, entre otras. La plataforma LEAP 3.5, la arquitectura inteligente sobre la que se construye el B10, integra esos sistemas con el resto de la electrónica del coche, en lugar de añadirlos como piezas sueltas. Para quien viene de un coche de combustión de hace diez años, el salto en seguridad activa es notable, y por eso se recomienda a las familias que buscan su primer eléctrico: además de económico, protege como un vehículo de categoría superior.
 
 ## Lo que todavía falta por confirmar
 
@@ -96,7 +96,7 @@ En la fábrica de Stellantis de Figueruelas (Zaragoza). Su producción en Españ
 El B10 REEV parte de 27.900 euros y el B10 eléctrico parte de 29.900 euros, según las fichas de esta web. El precio de la versión eléctrica ProMax con batería de 67,1 kWh no está publicado en la ficha y no se incluye como cifra oficial.
 
 ### ¿Qué autonomía tiene el Leapmotor B10?
-El REEV ofrece hasta 86 km en modo eléctrico y hasta 900 km en total con el depósito de 50 litros. La versión eléctrica homologa hasta 361 km con la batería de 56,2 kWh y hasta 434 km con la de 67,1 kWh (WLTP).
+El REEV ofrece hasta 86 km en modo eléctrico y hasta 900 km en total con el depósito de 50 litros. En la versión eléctrica, la batería de 56,2 kWh homologa hasta 361 km y la de 67,1 kWh llega a 434 km (WLTP).
 
 ### ¿El Leapmotor B10 es seguro?
 Sí: tiene 5 estrellas EuroNCAP, con buenos resultados en ocupantes adultos, seguridad infantil y usuarios vulnerables, y equipa 17 funciones de ayuda a la conducción sobre la plataforma LEAP 3.5.

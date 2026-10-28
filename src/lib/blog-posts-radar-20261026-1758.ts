@@ -38,7 +38,7 @@ export const RADAR_20261026_1758_POSTS: BlogPost[] = [
     ],
     content: `<img src=/media/haval-h7-2025-precio-ficha-tecnica-hero.webp alt=GWM Haval H7 gris, SUV de líneas rectas con aspecto todoterreno, vista lateral>
 
-*El GWM Haval H7, el SUV campero con el que la marca china desembarca en España. Fotografía procedente de la ficha del modelo en esta web.*
+*El GWM Haval H7, el SUV campero con el que la marca china desembarca en España. Imagen tomada de la ficha del modelo publicada en este sitio.*
 
 El precio del GWM Haval H7 en España ya no es una incógnita. Great Wall Motor, el gigante chino que vende sus todoterrenos bajo la marca Haval, ha puesto a la venta en nuestro país su SUV de aspecto más campero, y con él llegan las primeras tarifas oficiales para el mercado español. El dato tiene un valor añadido para quien siga esta web: hasta hoy, la ficha del H7 que publicamos el 12 de octubre decía, negro sobre blanco, que el precio en España estaba aún por confirmar. Esa frase ya está desfasada. Desde el 26 de octubre de 2026, el H7 tiene precio, versiones y gama completa en España, y este artículo recoge exactamente lo que se sabe, lo que incluye cada cifra y lo que todavía no ha publicado la marca.
 
@@ -70,7 +70,7 @@ Ese matiz no quita mérito al posicionamiento del H7. Un SUV de casi cinco metro
 
 ## La gama: gasolina, híbrida e híbrida enchufable
 
-El Haval H7 es lo que en el sector se llama un coche multienergía: la misma carrocería se vende con tres tipos de propulsión distintos, y elegir bien entre ellos es más importante que elegir el acabado. La variante de gasolina monta un 2.0 turbo de 215 CV y tracción total, orientada a quien busca imagen campera y tracción integral sin pasar por la hibridación. La versión híbrida convencional (HEV) une un 1.5 de gasolina de 150 CV con un motor eléctrico de 130 kW (unos 177 CV) y rinde en conjunto unos 247 CV; su batería es diminuta, de 1,53 kWh, y se carga sobre la marcha sin enchufe. Encaja con quien recorre muchos kilómetros sin querer depender de un cargador, y es la variante que fija el precio de acceso de la gama.
+El Haval H7 es lo que en el sector se llama un coche multienergía: la misma carrocería se vende con tres tipos de propulsión distintos, y elegir bien entre ellos es más importante que elegir el acabado. La variante de gasolina monta un 2.0 turbo de 215 CV y tracción total, orientada a quien busca imagen campera y tracción integral sin pasar por la hibridación. La versión híbrida convencional (HEV) une un 1.5 de gasolina de 150 CV con un motor eléctrico de 130 kW (unos 177 CV) y rinde en conjunto unos 247 CV; su batería es diminuta, de 1,53 kWh, y se carga sobre la marcha sin enchufe. Le irá bien a quien hace muchos kilómetros al año y no quiere preocuparse por dónde cargar; además es la versión que marca el precio de entrada de la gama.
 
 Las versiones que más interés van a despertar, sin embargo, son las híbridas enchufables, las PHEV, que se venden bajo los apellidos Hi2 y Hi4 según la tracción. La Hi2, con tracción delantera, une ese mismo 1,5 de gasolina a la parte eléctrica hasta alcanzar 326 CV (240 kW) y homologa en ciclo WLTP hasta 150 km recorridos solo con electricidad. La Hi4 añade un segundo motor eléctrico en el eje trasero, con 150 kW adicionales, y eleva la potencia combinada hasta 435 CV, 320 kW, a cambio de una autonomía eléctrica algo menor, de 129 km WLTP, por el mayor consumo del sistema de tracción total. A cambio, el Hi4 acelera de 0 a 100 km/h en apenas 4,9 segundos, una cifra más propia de un deportivo que de un SUV familiar de aspecto todoterreno.
 
@@ -112,7 +112,7 @@ Un lanzamiento no lo resuelve todo, y un artículo honesto debe decir también l
 | PHEV Hi2 326 CV, 150 km WLTP; Hi4 435 CV, 129 km WLTP, 0-100 en 4,9 s | Consumos combinados WLTP de cada versión |
 | Gasolina 2.0T 215 CV con tracción total, desde 32.500 € | Prueba EuroNCAP publicada |
 | Medidas: 4,80 m de largo, batalla 2,74 m, 5 plazas, 210 mm de altura libre | Garantía oficial confirmada para España |
-| Pantallas de 12,3 y 15,6 pulgadas; HUD en ciertas versiones | Capacidad del maletero según versión: se confirma en el concesionario |
+| Dos pantallas, de 12,3 y de 15,6 pulgadas; HUD según versión | Capacidad del maletero según versión: se confirma en el concesionario |
 
 ### ¿Cuánto cuesta el GWM Haval H7 en España?
 Desde 28.000 euros con descuentos y ayudas para la versión híbrida Explore Hi2. La híbrida enchufable parte de 29.625 euros con ayudas para el PHEV Explore Hi2, y la versión más completa, el PHEV Advance Hi4 con tracción total, cuesta 34.125 euros. Sin la ayuda del Plan Auto+, los enchufables parten de 31.875, 33.875 y 36.375 euros respectivamente. GWM no ha publicado el precio al contado.
