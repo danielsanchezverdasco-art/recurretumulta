@@ -1,0 +1,9 @@
+# Estado de lo que está EN VIVO. Lo lee y lo actualiza publicar.py (no lo edites a mano salvo que sepas lo que haces).
+# deploy_id        = deploy publicado en Netlify (tu ROLLBACK en la siguiente subida)
+# commit_codigo    = commit de git del que salió ese deploy (base para rev3, no-tocar, títulos)
+# redirects_sha1   = sha1 del _redirects en vivo (la copia está en tools/publicar/redirects-vivo.txt)
+deploy_id=6ae1bcc3c48834aace39500b
+deploy_anterior=6ae178ea98b86aa55cdf386c
+commit_codigo=864f848462d263845f5f29d7bc225405c00e8963
+redirects_sha1=1b2f6a0e059ae758e666d749e0fe9bb17797a965
+publicado=2026-10-28 10:15 Madrid (Cosa, rama radar-integ-2810, subida parcial --solo de 103 rutas)

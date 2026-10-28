@@ -1,0 +1,6 @@
+# Rutas de scripts/*-slugs.txt que el prerender NO puede generar y que NO existen en vivo (28/10/2026).
+# Son inocuas: no hay página en vivo que se pierda. Quítalas de aquí cuando su contenido exista.
+/blog/lexus-tz-2026-precio-ficha-tecnica
+/blog/bmw-ix7-2027-precio-ficha-tecnica
+/blog/audi-q9-2026-precio-ficha-tecnica
+/blog/bentley-torcal-first-edition-2026-precio-ficha-tecnica

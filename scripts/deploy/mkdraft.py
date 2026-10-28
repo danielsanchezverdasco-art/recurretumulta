@@ -42,7 +42,9 @@ if a.solo:
 
 # _redirects: comprobar que no se pierde ninguna regla en vivo
 if "/_redirects" in files:
-    rep = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "public", "_redirects")
+    rep = os.environ.get("REDIRECTS_VIVO") or os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "public", "_redirects")
+    # REDIRECTS_VIVO (lo pone tools/publicar/publicar.py): copia verificada del _redirects EN VIVO, para poder
+    # añadir reglas nuevas en public/_redirects sin tener que intercambiar ficheros a mano.
     if not (os.path.exists(rep) and sha1_file(rep) == live["/_redirects"]):
         sys.exit("ABORT: no tengo copia verificada del _redirects en vivo (public/_redirects del repo != vivo). Avisa a Cosa/Daniel.")
     quit_ = {s.rstrip("/").lower() or "/" for s in lines(a.quitar_reglas)}

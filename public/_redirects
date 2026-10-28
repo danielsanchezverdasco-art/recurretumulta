@@ -1,3 +1,12 @@
+# blog-duplicados radar-integ-2810 (blog con ficha de mismo slug: 301 a la ficha)
+/blog/lexus-tz-2026-precio-ficha-tecnica/ /coches/lexus-tz-2026-precio-ficha-tecnica/ 301!
+/blog/lexus-tz-2026-precio-ficha-tecnica /coches/lexus-tz-2026-precio-ficha-tecnica/ 301!
+/blog/audi-q9-2026-precio-ficha-tecnica/ /coches/audi-q9-2026-precio-ficha-tecnica/ 301!
+/blog/audi-q9-2026-precio-ficha-tecnica /coches/audi-q9-2026-precio-ficha-tecnica/ 301!
+/blog/bmw-ix7-2027-precio-ficha-tecnica/ /coches/bmw-ix7-2027-precio-ficha-tecnica/ 301!
+/blog/bmw-ix7-2027-precio-ficha-tecnica /coches/bmw-ix7-2027-precio-ficha-tecnica/ 301!
+/blog/bentley-torcal-first-edition-2026-precio-ficha-tecnica/ /coches/bentley-torcal-first-edition-2026-precio-ficha-tecnica/ 301!
+/blog/bentley-torcal-first-edition-2026-precio-ficha-tecnica /coches/bentley-torcal-first-edition-2026-precio-ficha-tecnica/ 301!
 # 26/10/2026 tienda retirada (Daniel 10:40): 301 a portada
 /tienda / 301!
 /tienda/ / 301!

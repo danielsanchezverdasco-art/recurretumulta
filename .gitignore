@@ -2,3 +2,10 @@ node_modules
 dist
 .env*
 public/media/
+
+# kit de publicación: claves y trabajo local (NUNCA subir)
+tools/publicar/.env
+tools/publicar/.deploy-work/
+.deploy-work/
+tools/publicar/__pycache__/
+!tools/publicar/.env.ejemplo
