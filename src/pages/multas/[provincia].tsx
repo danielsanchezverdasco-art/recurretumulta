@@ -84,7 +84,7 @@ export default function MultaProvinciaPage() {
             "@type": "Person",
             "name": "Daniel",
             "description": "Fundador y responsable de contenidos de RecurreTuMulta.online",
-            "url": "https://recurretumulta.online/quienes-somos",
+            "url": "https://recurretumulta.online/sobre-nosotros/",
           },
           "dateModified": "2026-10-04",
           "isPartOf": { "@id": "https://recurretumulta.online/#website" },
