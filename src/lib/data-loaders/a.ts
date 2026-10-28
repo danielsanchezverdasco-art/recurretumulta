@@ -228,6 +228,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "audi-q2-2025-precio-ficha-tecnica": () => import("../blog-posts-audi-a.ts"),
     "audi-q3-2025-precio-ficha-tecnica": () => import("../blog-posts-audi-a.ts"),
     "audi-q3-e-hybrid-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp7.ts"),
+    "audi-q3-e-hybrid-204-cv-precio-espana-2026": () => import("../blog-posts-radar-20261027-1358.ts"),
     "audi-q3-sportback-35-tfsi-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp21.ts"),
     "audi-q3-sportback-tdi-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp7.ts"),
     "audi-q4-e-tron-2025-precio-ficha-tecnica": () => import("../blog-posts-audi-a.ts"),
