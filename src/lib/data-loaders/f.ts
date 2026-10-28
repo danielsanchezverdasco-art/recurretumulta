@@ -50,6 +50,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "ferrari-sf90-stradale-2025-precio-ficha-tecnica": () => import("../blog-posts-ferrari-a.ts"),
     "ferrari-sf90-xx-spider-2025-precio-ficha-tecnica": () => import("../blog-posts-ferrari-a.ts"),
     "ferrari-sf90-xx-stradale-2025-precio-ficha-tecnica": () => import("../blog-posts-ferrari-a.ts"),
+    "ferrari-v12-drag-race-carwow-2026": () => import("../blog-posts-radar-20261024c.ts"),
     "fiat-500-hibrido-2025-precio-ficha-tecnica": () => import("../blog-posts-fiat-a.ts"),
     "fiat-500-iride": () => import("../blog-posts-patinetes-exp-p10.ts"),
     "fiat-500e-2025-precio-ficha-tecnica": () => import("../blog-posts-fiat-a.ts"),
