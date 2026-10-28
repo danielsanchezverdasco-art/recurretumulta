@@ -2470,3 +2470,113 @@ Lo voy a hacer: arreglar enlaces internos a 404; ninguna URL del sitemap redirij
 Tiempo estimado (estimación honesta, no compromiso): varias horas de trabajo, en relevos si hace falta — auditoría completa del sitemap (~6.900 URLs) más correcciones más informe; primera medición antes/después en cuanto esté el barrido inicial.
 
 Nota del run vigilante 23:40: ningún ejecutor en vuelo verificado en este minuto (sin procesos ni actividad local), así que el arranque lo toma el relevo ejecutor del chat principal sin colisión con la subida en serie.
+
+## CIERRE ORD-20261027-1035-B — he terminado
+
+@grok: he terminado la 1035-B. Queda entregada en la rama
+`merlin-1035b` (desde main @16a6aea4), cabeza @26d2fc0c, 3 commits en
+serie (un commit por fichero, ≥75 s entre push y push, GET-ref tras
+cada push, sin 403/429, sin main, sin Netlify, sin Cloudflare, sin
+force push):
+
+1. @ef3512a7 — `public/sitemap.xml`: sitemap sin URLs que redirijan
+   (7.880 → 5.083 `<loc>`).
+2. @30dadfc8 — `src/pages/guias/prescripcion.tsx:113`: enlace
+   actualizado al destino 301 (sin salto).
+3. @26d2fc0c — `src/pages/multas/[provincia].tsx:87`: schema
+   `quienes-somos` corregido a `https://recurretumulta.online/sobre-nosotros/`.
+
+Re-medición sobre la cabeza pusheada (verificada, no afirmada): el
+sitemap en cabeza es el blob @c5e69d31 (1.052.502 B, 5.083 locs, XML
+válido, con el bloque Italjet añadido); prescripcion.tsx ya no
+contiene el slug corto y sí el destino largo; [provincia].tsx ya no
+contiene `quienes-somos` y sí `sobre-nosotros/`.
+
+### Cifras antes/después
+
+- Sitemap: 7.880 → 5.083 (se quitan las 2.798 URLs que son fuente
+  exacta de un redirect 301! en `_redirects`: 2.056 → /coches/, 742 →
+  /motos/, 2.797 de sus destinos ya en el sitemap; se añade 1: la ficha
+  /motos/italjet-dragster-300-2025-ficha-tecnica-precio/, verificada
+  existente en datos de main, cuyo destino era la única excepción
+  (2.797/2.798)). Las 40 /blog/ con `ficha-tecnica` afectadas solo por
+  el splat `/blog/*ficha-tecnica` se MANTIENEN (0 verificadas con
+  certeza como redirigidas por patrón; el destino del splat es
+  defectuoso por construcción, termina en `-/`).
+- Enlaces templates (24 sin ruta): 22 placements FICHA-EXISTE (sin fix),
+  1 prescripcion REDIRIGIDO-301 (corregido), 1 quienes-somos ROTA
+  (corregida), 2 Index.v2-antiguo NO-SE-COMPILA (ignorados).
+- Enlaces lib (574 destinos distintos): 508 EXISTE, 66 ROTO (45 por
+  falta de ruta + 21 sin destino claro), 0 YA-ARREGLADO, 0
+  NO-VERIFICABLE, 0 destinos corregidos inequívocos propuestos.
+- Enlaces resto (4): 0 acciones (3 loc de sitemap dinámico + 1 enlace
+  de newsletter válido).
+- Barra final: 0 ediciones por barra (SIRVE-DIRECTO en el sitio).
+- 5xx: 6 URLs, causa registrada por Cosa (ba3ff8fc): fallo transitorio,
+  sin función/edge en esas rutas; ya 301 → 200 en vivo. Nada que
+  cambiar (lista: 3 blog → ficha /coches/, 2 comparador-motos ?a= con
+  barra, 1 patinetes; sin subcódigo registrado, no se afirma 500/502/503).
+- Cron opción C: SIN defecto verificable (convex/crons.ts bien formado;
+  convex/audiencia.ts SÍ exporta purgar, l.354, args {} coherentes).
+  Queda como pregunta abierta abajo, sin arreglo inventado.
+
+### Honestidades
+
+- El enlace de prescripcion NO era un 404 (resolvía por 301 al post
+  existente); la corrección quita el salto. La frase queda con dos
+  enlaces al mismo post (el largo ya estaba en la misma línea 113): no
+  se borró contenido editorial unilateralmente.
+- Base divergente: main está desfasado frente al vivo (sitemap main
+  7.880 URLs; vivo medido en v4.5.5.1: 7.001). Todo se midió sobre main
+  y la integración es de Grok (orden del usuario 25/10).
+- Sin comprobación HTTP ni censo contra producción (disciplina): los
+  veredictos son de código + datos + redirects en main.
+- titulos.csv NO lo importa ningún src/ revisado (solo comentarios):
+  sus 644 rutas fuera de sitemap/redirects NO se tocaron.
+- Solapes excluidos por ya-arreglado: 89 URLs del conjunto
+  sitemap-redirect (todas /blog/, lista en fase2/sitemap/verificacion.md
+  §2); 0 destinos lib solaparon ya-arreglado (conjuntos disjuntos).
+- 1 URL ya-arreglado de tipo redir sigue en el corregido sin ser
+  fuente exacta de redirect en main:
+  /blog/multa-carnet-caducado-200-euros/ (punto abierto abajo).
+
+### Decisiones y preguntas abiertas para Grok (no ejecutadas sin ti)
+
+1. 45 ROTO-por-ruta (41 /autocaravanas/ + 4 /fichas-tecnicas/): el
+   slug SÍ existe en datos, pero NO hay ruta en App.tsx ni regla en
+   _redirects. Añadir las rutas /autocaravanas/:slug y
+   /fichas-tecnicas/:slug (o redirecciones) es cambio de código/rutas:
+   no se hizo unilateralmente. Lista completa en
+   work/fase2/lib/correcciones.csv (acción: «sin fix de enlace»).
+2. 21 ROTO-sin-destino-claro (13 /coches/, 1 /autocaravanas/ Dethleffs
+   Trend T 6717 EB, 7 /fichas-tecnicas/): sin destino inequívoco; no se
+   corrigió a ciegas ni se borró ningún enlace de contenido. Revisar
+   modelo o descartar enlace (misma lista, mismo CSV).
+3. 19 URLs del sitemap DINÁMICO (BLOG_SLUGS de convex/http.ts) sin post
+   en el índice blog de data-loaders de main (verificadas una a una
+   por el coordinador, con control positivo): lista en
+   work/fase2/resto/verificacion.md §2.2. Regenerar el snapshot o
+   quitar las entradas; y decidir qué sitemap sirve en vivo (estático
+   public/sitemap.xml o dinámico /sitemap-dynamic.xml), porque el
+   estático no contiene los 4 legales (/contacto, /privacidad,
+   /terminos, /cookies) que el dinámico sí lista.
+4. Entrada al sitemap (decisión, no fix de enlace): 35 rutas App.tsx
+   (legales, hubs /motos/ /patinetes/, /moderar-resenas, /gana-dinero
+   Navigate) + 22 placements + /motos/ y /patinetes/ como índices.
+   ¿Deben entrar?
+5. Fotos de la ficha Italjet 300 (/media/motos/italjet-dragster-300-
+   2025-…-1/2/3.webp) NO están como rutas en el árbol de main en esta
+   base (la ficha existe en datos; sus fotos no están en el repo).
+6. Placements: NO se actualizaron a las variantes canónicas de
+   fichas-redirigidas.generated.json (la ficha antigua se sigue
+   sirviendo; la tabla antiguo→nuevo está en
+   work/fase2/templates/verificacion.md §1).
+7. Cron opción C: ¿qué cron hay que arreglar y con qué defecto/síntoma?
+   El único cron horario de audiencia en main está bien formado.
+8. Barra final: el comentario de barra-final.ts:2 afirma que «Netlify
+   redirige /x → /x/ con 301», pero NO hay regla genérica que lo
+   respalde en el repo (7.034 reglas revisadas, sin regla genérica ni
+   fallback SPA 200; netlify.toml sin [[redirects]]). Para entrada
+   directa/email/rastreador queda NO CONCLUYENTE desde el código.
+
+Puedo seguir haciendo cosas: dime qué más puedo hacer.
