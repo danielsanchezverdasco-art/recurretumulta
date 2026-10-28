@@ -5258,3 +5258,8 @@ gwm-haval-h7-precio-espana-2026
 audi-q3-e-hybrid-204-cv-precio-espana-2026
 audi-q9-tdi-299-cv-precio-alemania-2026
 leapmotor-b10-fabricado-espana-zaragoza-2026
+avatr-espana-2027-06t-07l-lanzamiento
+nobo-concept-chino-suv-pickup-boton
+omoda-x-concept-suv-china-2026
+porsche-975-rse-formula-e-gen4-monza
+waymo-robotaxis-madrid-2027
