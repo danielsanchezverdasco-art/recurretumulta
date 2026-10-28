@@ -103,6 +103,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "ford-explorer-electrico-awd-2025-precio-ficha-tecnica": () => import("../blog-posts-ford-a.ts"),
     "ford-explorer-phev-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "ford-f-150-lightning-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
+    "ford-fathom-2026-precio-pickup-electrica": () => import("../blog-posts-radar-20261018.ts"),
     "ford-fiesta-2025-precio-autonomia": () => import("../blog-posts-lote12.ts"),
     "ford-fiesta-st-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "ford-focus-2025-precio-ficha-tecnica": () => import("../blog-posts-nuevos-c4.ts"),
