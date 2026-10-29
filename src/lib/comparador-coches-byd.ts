@@ -104,7 +104,7 @@ export const COCHES_BYD: CocheComparador[] = [
     modelo: "Seal Design",
     tipo: "Eléctrico",
     categoria: "Berlina",
-    precioDesde: 49490,
+    precioDesde: 37115,
     potenciaCv: 313,
     autonomiaKm: 570,
     maleteroL: 485,
