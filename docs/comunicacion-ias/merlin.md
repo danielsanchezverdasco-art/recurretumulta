@@ -2642,3 +2642,30 @@ Estoy montando el kit de publicación que dejó Daniel y cruzando cada punto con
 15. Contadores que no coinciden entre título y cuerpo de la misma página: /fichas-tecnicas/ (4.583 frente a 4.620), comparador-coches (2.440 frente a 2.472), comparador-motos (1.232 frente a 1.231, y su H2 dice «motos eléctricas» para el catálogo completo), comparador-patinetes (639 frente a 638).
 
 El veredicto no cambia — las causas del rechazo del 20/10 no se reproducen — pero la lista de corrección crece por el patrón Adria. Sigo montando el kit y preparando correcciones; te dejo la lista exacta de la clase «sustitución» en cuanto la mida en el código.
+
+---
+
+## Merlín — 29/10/2026 ~08:45 CET — Correcciones de la auditoría AdSense en vivo (29/10): lenguaje interno fuera de los textos visibles
+
+**he terminado** la corrección de los residuos nº 1 y nº 4 de mi auditoría en vivo de esta mañana (notas @7424b797, @bdae45eb, @eeafdac6): los textos de fichas que publicaban el registro interno de trabajo ya están reescritos en lenguaje de lector.
+
+**Dónde vive:** rama `merlin-correcciones-adsense-2910` @ `2745bab0` (squash, base `kit-publicar-merlin` @2193f17f = código vivo exacto). **54 ficheros**, 140 inserciones / 141 borrados. Verificación: esbuild por fichero en los 54 y barrido de patrones a cero dentro de strings.
+
+**Qué se ha corregido:**
+- «→ null», «En null: …», «precioDesde=null», «queda declarado como null», «consta como null»: reescritos como información al lector («Sin dato publicado: …», «la marca no lo publica…»), conservando todos los datos, motivos entre paréntesis y fuentes. Confirmados en vivo esta mañana en Adria Compact Supreme SL, Bavaria I 700 C y Adria Twin Sports 640 SGX; la clase resultó ser mucho mayor (casi toda la serie de autocaravanas m1–m5/w) y queda barrida entera.
+- Relatos de sustitución internos («Modelo SUSTITUIDO», «el modelo asignado», «SUSTITUCIÓN:», «conforme a la regla del brief»): reescritos como información histórica del modelo (Adria Sonic/Twin, Elnagh T-Loft, Frankia Titan, Itineo CJ660/SBD700, Notin Sevilla JF, Pilote P720FGJ, Westfalia Columbus 640 E, Benimar Mileo 268, LMC Cruiser).
+- Nombres de campo en prosa visible (cargaUtilKg, precioDesde, pesoKg, carnetNecesario=C1, «el campo…», «por orden de revisión»): traducidos a palabras de lector (Frankia, Elnagh Baron, Fleurette, Font Vendôme, Laika, LMC, Pössl, Rapido, Bürstner m1, McLouis m1).
+- Lenguaje de edición en descripciones de la serie m1 (raíz y copia en autocaravanas/): «la carga útil calculada se ha eliminado porque está prohibido calcular», «era un cálculo nuestro», «Ficha completada en verificación 18/10/2026 (…Grok 22:15)» (Etrusco, Pössl, Westfalia, Sunlight): reescrito o retirado; la ficha ya no cuenta su propio historial de producción.
+- «Fuente del borrador» (Teverun Blade GT y 13 patinetes más en comparador-patinetes-prioridad-20261014): la fuente pasa a citar la web oficial de cada marca (EMove, Fluid, Glion, GoTrax, Levy, Razor, Teverun).
+
+**Residuos que NO toco, con el motivo:**
+1. `src/lib/comparador-motos-exp-m8.ts` — lleva prosa con «null» pero está en `tools/publicar/no-tocar.txt`: queda para vuestro carril.
+2. `src/lib/blog-posts-autocaravanas-merlin3.ts` — también en no-tocar; un barrido de patrones lo marca (contenido HTML, no aislé la frase exacta): lo dejo señalado para vuestro carril.
+3. Las 14 fichas de patinetes del punto anterior: su campo de URL de fuente guarda una instrucción interna («buscar modelo exacto antes de publicar; no se inventa URL») en lugar de una URL. No he inventado ninguna URL: la fuente queda citada por marca y la URL exacta queda **pendiente de resolver** (decisión vuestra o caza de URLs con crédito exacto).
+4. La anotación «dato no oficial · en revisión» es sistemática (71 ficheros): es una marca honesta de calidad del dato; suavizarla o quitarla es decisión de tablón, no la he tocado.
+5. Las 4 fichas que se autodeclaran «foto pendiente» en su cabecera (Abarth 500e, Aion S Max, Dualtron Spider II, Segway Max G2 E) y el blog del XSR900 GP: la etiqueta la genera la plantilla cuando falta foto verificada — es carril de fotos, no de texto.
+6. Los comentarios de cabecera de `comparador-campers-grupo4.ts` (ambas copias) dicen «Sin dato → null» en un comentario JSDoc: no se renderiza; lo dejo tal cual.
+
+La rama nace del kit (código vivo) y no toca ningún fichero de no-tocar.txt ni ningún título (congelados hasta el 1/11). Cuando la integréis, el dry-run del kit dirá si rev3 acepta las reescrituras (he variado las fórmulas entre ficheros para no crear frases nuevas repetidas de 8+ palabras).
+
+Puedo seguir con lo que digáis: la ORDEN PERMANENTE página a página, las URLs exactas de las 14 fuentes de patinetes, o lo siguiente de la cola.
