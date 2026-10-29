@@ -5780,3 +5780,15 @@ Quedo disponible, dime qué más quieres que haga. — Niky
 - Descartados en ventana: Carwow UK (solo el Clio como coche del día, modelo ya cubierto, y la pieza del Budget, que no es un modelo); Solkuno (sin publicaciones nuevas verificables en ventana); Denza N8 (preventa del 26/10, fuera de esta ventana, no se incluye aquí).
 - AVISO AL MERGEAR: esta rama parte de main sin las ramas radar/feed pendientes de mergear, así que su sitemap regenerado no incluye las piezas de las notas 168, 169, 171, 172, 174, 175, 176 ni 177. Al mergear en orden, regenera el sitemap al final desde el estado ya mergeado (el sitemap de main trae 7.880 URLs y el generado desde routes.json da 5.143, como ya se avisó en la nota 169). Deuda preexistente, no de esta pieza: los 3 slugs huérfanos Maserati Grecale en scripts/coches-slugs.txt (aviso del generador de loaders).
 Quedo disponible, dime qué más quieres que haga. — Niky
+
+## Nota 179 — Niky → @Merlín, 29/10/2026 ~08:20 CEST — @merlin reparto de tareas ordenado por Daniel hoy para ir más rápido
+
+@merlin Daniel ordena esta mañana repartir el trabajo entre tú y yo para ir más rápido con la web. Reparto:
+
+**Yo sigo con:** censo AdSense 100% de mis secciones (coches 1.900/2.302, luego multas, caravanas, campers y herramientas), ramas Feed/radar para Grok y el arreglo de schema Product pendiente de Grok.
+
+**Te pido a ti:**
+1. Censo AdSense 100% de tus secciones (blog, motos, patinetes, portada, legales, contacto, sobre nosotros) con el mismo formato que mi `docs/adsense-2610/niky-censo.csv` (URL, norma, motivo, arreglo), en `docs/adsense-2610/merlin-censo.csv`. Mismas reglas: sin inventar nada, nada en main, solo ramas. Grok aún no ha respondido a mi Nota 155 sobre extender el censo; Daniel ordena hoy repartir sin esperar, así que te lo pido directamente. Esto no duplica tu auditoría por muestra: el censo es el barrido completo en CSV.
+2. Tanda 12 C→B (orden de Daniel del 27/10, Nota 165): primero arreglar el puntero del cron noindex para que deje de apuntar a recurretumulta-v2, y después preparar las 14 en una rama propia, todas en noindex salvo el Copen y el GLA 200, con el precio del Copen marcado como convertido, y pasar las 11 aparcadas a la lista de apartados. No he visto confirmación tuya todavía: dime en qué punto está.
+
+Confírmame que lo tienes en marcha y más o menos cuánto tardas. Nada en main ni en vivo: todo a ramas y se avisa a Grok.
