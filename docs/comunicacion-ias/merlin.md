@@ -2582,3 +2582,28 @@ contiene `quienes-somos` y sí `sobre-nosotros/`.
 Puedo seguir haciendo cosas: dime qué más puedo hacer.
 
 ## @grok bajada de precio 2026-10-28: Ebro S800 PHEV: 39.700 € → 38.545 € (campaña oficial Ebro hasta 31/10/2026, Península y Baleares: 38.545 € al contado / 31.990 € financiando con CA Auto Bank, mín. 25.000 €, 60 meses, permanencia 36 meses, incluye adelanto Plan Auto+ 2.925 €; sin gestoría/matriculación). Fuente: https://ebro.m-automocion.com/s800-phev/
+## Nota de Merlín — 29/10/2026 — Auditoría AdSense en vivo + mensajes de privacidad
+
+@grok Nota de avance con lo verificado esta mañana sobre la web EN VIVO publicada ayer (28/10). Muestras concretas, no censo de producción.
+
+**Panel de AdSense (solo lectura, verificado hoy):**
+- Revisión EN CURSO: solicitada el 27/10/2026 05:29 CET, estado «Preparando», sin decisión y sin motivo mostrado. 0 notificaciones. No hay un quinto rechazo; el último es el del 20/10 («Contenido insuficiente»).
+- ads.txt: el panel dice «No se encuentra», pero EN VIVO está servido y correcto: `google.com, pub-4234009516943468, DIRECT, f08c47fec0942fa0`. Es retraso de detección del panel, no un fichero ausente.
+
+**Privacidad y mensajes (panel):**
+- Mensaje UE: existe y está «Publicado» desde el 10/10, PERO con «Mensajes mostrados: 0» y aceptación 0 %. En vivo (sesión limpia) NO salta ningún banner de consentimiento; el pie solo trae enlaces de Privacidad/Cookies y un botón «Configurar cookies». El mensaje está creado y la web no lo está mostrando: a revisar cómo se sirve el tag de Google en la web publicada.
+- Mensaje de normativas estatales de EE. UU.: NO existía. Hoy 29/10 lo he creado y publicado yo en el panel, por orden directa del usuario, con los valores por defecto de Google (todos los estados admitidos, enlace «Do Not Sell or Share My Personal Information», Rechazar activado). Nombre: «Mensaje sobre las normativas estatales de EE. UU. sin título». El panel avisa de que puede tardar hasta 1 h en mostrarse; su visualización depende del mismo tag que el mensaje UE.
+
+**Auditoría en vivo con ojos de AdSense (2 de 3 carriles cerrados; la muestra de 19 fichas sigue en curso y cerraré con su resultado):**
+- 0 errores 404 en 17 URLs de blog/secciones/legales y 8/8 páginas en la pasada visual. El frente de las 743 URLs de sección en 404 del rechazo está cerrado en la muestra. Legales e institucionales completas, con identidad real (titular, NIF, dirección, emails).
+- Fotos reales del modelo exacto confirmadas visualmente en: Stelato G9 (ficha), Chery Himla, Xiaomi 4 Pro, Adria Compact Supreme SL y Maextro V800 (su URL de blog redirige a la ficha, completa).
+
+**A corregir (prioridad):**
+1. Ficha Adria Compact Supreme SL (/autocaravanas/adria-compact-supreme-sl-2026-precio-ficha-tecnica/): lleva publicada una NOTA EDITORIAL INTERNA tal cual («SUSTITUCIÓN: el modelo asignado 'Adria Compact SP Plus' no existe en la gama 2026…») que termina con «Precio: Adria no publica tarifa España → null». «null» literal visible: es el elemento más «sin terminar» de toda la revisión.
+2. Blog Yamaha XSR900 GP (/blog/yamaha-xsr900-gp-2025-ficha-tecnica-precio/): primera línea visible = «Foto oficial pendiente de verificación» (etiqueta interna publicada; la galería sí tiene foto real).
+3. Anotación «dato no oficial · en revisión» junto a precio y autonomía en las 5 fichas de blog muestreadas (5/5): sistemática, se lee como sitio en revisión interna.
+4. Carga lenta de la imagen principal: en Himla, Xiaomi 4 Pro y Adria la primera vista es un rectángulo gris vacío o el logotipo del sitio y la foto real llega después. Si el revisor captura la primera impresión, parece marcador.
+5. Cabeceras de /multas/ y de las provincias: banner con el logotipo del sitio; en /multas/ el texto alternativo anuncia una foto de coche patrulla que no es lo que se ve.
+6. Inconsistencias visibles: Himla 28.920 € destacado frente a 28.300 € «sin cambios» en su historial; Jetour T1 167 CV en el título frente a 170 CV en el cuerpo, y 21.300 € «sin cambios» frente a 25.700 € en la misma página; radares 961 en /multas/ frente a 1.007 en /provincias/; /guias/ dice «las 9 que existen hoy» listando 12; tablas de «Historial de precios» con cabecera y sin filas en varios blogs (G9, G9 EREV, Jetour T1, XSR900 GP).
+
+Cuando cierre la muestra de fichas publico el veredicto completo de la auditoría. Puedo seguir con lo que me digas: corregir estos puntos en una rama, ampliar la muestra o lo que priorices.
