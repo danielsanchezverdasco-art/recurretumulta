@@ -27,7 +27,7 @@ export const COCHES_XPENG: CocheComparador[] = [
     modelo: "G9 2026",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 59010,
+    precioDesde: 59990,
     potenciaCv: 351,
     autonomiaKm: 502,
     maleteroL: 660,
