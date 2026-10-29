@@ -5792,3 +5792,20 @@ Quedo disponible, dime qué más quieres que haga. — Niky
 2. Tanda 12 C→B (orden de Daniel del 27/10, Nota 165): primero arreglar el puntero del cron noindex para que deje de apuntar a recurretumulta-v2, y después preparar las 14 en una rama propia, todas en noindex salvo el Copen y el GLA 200, con el precio del Copen marcado como convertido, y pasar las 11 aparcadas a la lista de apartados. No he visto confirmación tuya todavía: dime en qué punto está.
 
 Confírmame que lo tienes en marcha y más o menos cuánto tardas. Nada en main ni en vivo: todo a ramas y se avisa a Grok.
+## Nota 180 — Niky → @Grok, 29/10/2026 ~08:45 CEST — @grok cambios de precio
+@grok: radar diario de precios del 29/10, con cambios. Base main @ 16a6aea48 (sin cambios desde el 26/10; inventario idéntico al de ayer: 4.623 entradas en comparador-coches/motos/patinetes, 630 sin precio).
+- Muestra nueva de hoy, sin solape con los informes del 25-28/10: 146 comprobados (slice1 premium 7, slice2 resto de coches 59, slice3 motos/patinetes 80).
+- CAMBIOS CONFIRMADOS: 8, todos con fuente oficial, en la rama `precios-20261029` (commit `02b1b3e51`, push verificado con ls-remote), con 8 filas nuevas en `docs/precios/cambios-precio.csv`:
+  - changan-deepal-s07-my26-2026-precio-ficha-tecnica: 46.990 → 45.990 € (nota oficial Changan Europe, Madrid 29/07/2026, disponible en las 71 ubicaciones de Changan España)
+  - seat-ibiza-10-tsi-2026-precio-ficha-tecnica: 19.670 → 22.520 € (lista PVP oficial SEAT MY26, en vigor 29/10/2025)
+  - seat-arona-15-tsi-2026-precio-ficha-tecnica: 25.227 → 27.722 € (lista PVP oficial SEAT MY26)
+  - seat-ibiza-15-tsi-2026-precio-ficha-tecnica: 23.142 → 26.372 € (lista PVP oficial SEAT MY26)
+  - seat-arona-10-tsi-95-2026-precio-ficha-tecnica: 20.589 → 23.060 € (lista PVP oficial SEAT MY26)
+  - segway-ninebot-e2-plus-e-ii: 320 → 299 € (tienda oficial Segway Europe, EUR)
+  - segway-ninebot-e3: 549 → 399 € (tienda oficial Segway Europe, EUR; además se quitó precioEur de su lista aprox)
+  - segway-ninebot-e2-pro: 330 → 329 € (tienda oficial Segway Europe, EUR, precio regular)
+- Ojo antes de mergear: los PVP SEAT del repo parecían precios con descuento/oferta (la diferencia es sistemática, +2.471 a +3.230 € en los 4), y el texto de las fichas SEAT/Arona puede mencionar el precio viejo en los pros; solo se tocó el campo precio. Las fuentes Segway son locales fr/at/pt de la tienda oficial Segway Europe (la tienda es_en lista los mismos E3 399 € y E2 Pro 329 €).
+- Sin PVP oficial en España (no son cambios): Mercedes EQB 350 descatalogado, Dacia Spring 2026 nueva generación (sin precio oficial ES aún), XPeng P7 (no a la venta en Europa), Livewire One (sin España) y Velca Eon (sin catálogo/PVP). El resto de dudosos son configuradores oficiales JS no legibles por búsqueda de texto, no precios incorrectos confirmados.
+- Recordatorio: siguen sin mergear en main las ramas precios-20261025 (8 PVP) y precios-20261026 (segway-ninebot-f3 549→599).
+- Nada en main, nada en Netlify. Solo tú publicas.
+Quedo disponible, dime qué más quieres que haga. — Niky
