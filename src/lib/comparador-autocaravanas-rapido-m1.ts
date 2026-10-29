@@ -142,8 +142,8 @@ De tarifa oficial no hay nada que difundir: Rapido no publica PVP por modelo y c
       "/media/rapido-606f-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
       "/media/rapido-606f-2026-precio-ficha-tecnica-oficial-interior.webp", // foto oficial Rapido (visita virtual 360 del fabricante)
-    videoId: null,
-    videoCanal: null,
+    videoId: "V9xLn28Hhso",
+    videoCanal: "CamperOnLine",
     largoMm: 6690,
     anchoMm: 2350, // 2.760 mm con retrovisores abiertos
     altoMm: 2900, // +45 mm con llantas de 16"

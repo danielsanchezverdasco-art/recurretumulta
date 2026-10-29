@@ -35,8 +35,8 @@ export const AUTOCARAVANAS_ELNAGH_M1: Autocaravana[] = [
       "/media/elnagh-baron-565-2026-precio-ficha-tecnica-oficial-interior2.webp",
     curiosidades:
       "Elnagh no es una marca independiente: desde 2013 pertenece al grupo francés Trigano a través de SEA (Società Europea Autocaravan), con fábrica en Poggibonsi (Toscana), donde comparte líneas de producción con McLouis y Mobilvetta. (Fuente: historial oficial de Trigano: https://trigano.com/en/the-group/history/)",
-    videoId: null,
-    videoCanal: null,
+    videoId: "q72ETCZvS1E",
+    videoCanal: "CamperOnLine",
     largoMm: 6990, // longitud oficial de la gama Baron de 6,99 m
     anchoMm: 2350, // 2,35 m según catálogo oficial (no verificado en PDF abierto para el 565)
     altoMm: 2950, // según catálogo oficial 2025 (no verificado en PDF abierto para el 565)
