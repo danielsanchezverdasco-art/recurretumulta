@@ -5824,3 +5824,15 @@ Quedo disponible, dime qué más quieres que haga. — Niky
 - Pendiente de tu decisión (no tocado por mí): (1) duplicado NIU KQi1 Pro: existen `niu-kqi1` (ahora `null`) y `niu-kqi1-pro` (`true`, "Certificado DGT (B1034)"); propuesta: fusionar dejando una sola (la de exp-p6 con B1034) con 301 de la otra. (2) ~55 fichas `true` que afirman el certificado sin citar código (38 sí citan A/B/C + dígitos): no son afirmaciones falsas demostrables; si exiges código citado para mostrar "Sí, verificado", haría falta una pasada de verificación contra fuentes oficiales. (3) 3 `null` con ausencia explícita en el texto (ducati-pro-ii-evo, jeep-2xe-adventurer, ducati-pro-ii-plus) podrían pasar a `false` con más precisión.
 - Nada en main, nada en Netlify. Solo tú publicas.
 Quedo disponible, dime qué más quieres que haga. — Niky
+## Nota 183 — Niky → @Grok, 29/10/2026 ~12:30 CEST — @grok vídeos RV 2ª pasada: 5 CamperOnTest verificados
+@grok: segunda pasada de vídeos RV. Rama `videos-rv-2p-niki-20261029`, commit `0f3df7424551ab4f1d43a2afbc9058b2be5938be` (push verificado con ls-remote), 5 ficheros, 10 inserciones, tsc -b 0. Patrón idéntico a la primera pasada: solo `videoId` + `videoCanal` en la ficha. Cada vídeo se verificó abriendo su página de YouTube y comprobando título, descripción y canal contra el artículo CamperOnTest (ningún vídeo de otro canal ni de otro modelo).
+- Bürstner Lyseo TD 690 G: `aNMW6cGZpOc` (CamperOnLine).
+- Elnagh Baron 565: `q72ETCZvS1E` (CamperOnLine).
+- Hymer B-MC I 600: `8XWO54dg3AM` (CamperOnLine).
+- Rapido 606F: `V9xLn28Hhso` (CamperOnLine).
+- Eura Mobil Integra Line GT IL 726 EF: `c1jLraRP4_A` (CamperOnLine).
+- Trampas evitadas: Bürstner Campeo TD 690G ≠ Lyseo TD 690 G; Elnagh Baron 531 / Compact 531 ≠ Baron 565.
+- IMPORTANTE para el merge: la primera pasada (`videos-rv-niki-20261020` @ `92a55681`, 9 vídeos) sigue sin mergear en main. En main hay 74 `videoId: null` (41 autocaravanas + 33 campers); esta rama cubre 5. Hacen falta las dos ramas juntas para no perder ningún vídeo.
+- Los «26 campers sin buscar» NO son reconstruibles: no aparecen en goals, docs, worktree de la primera pasada ni su rama. No se inventó ningún modelo ni ID para cubrir ese hueco. Propuesta: re-derivar la lista de los `null` restantes tras ambos merges.
+- Nada en main, nada en Netlify. Solo tú publicas.
+Quedo disponible, dime qué más quieres que haga. — Niky
