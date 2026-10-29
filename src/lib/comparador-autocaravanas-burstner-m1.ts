@@ -54,7 +54,7 @@ export const AUTOCARAVANAS_BURSTNER_M1: Autocaravana[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "potenciaCv"],
     notas:
-      "Precio de tarifa en Suiza (82.530 CHF, PVP publicado en buerstner.com); puede diferir en España. Medidas, masas y plazas, de la tabla técnica oficial del modelo. Los 160 kg publicados son masa para equipamiento opcional, no carga útil: el campo cargaUtilKg va sin dato. Potencia: «dato no oficial · en revisión».",
+      "Precio de tarifa en Suiza (82.530 CHF, PVP publicado en buerstner.com); puede diferir en España. Medidas, masas y plazas, de la tabla técnica oficial del modelo. Los 160 kg publicados son masa para equipamiento opcional, no carga útil: la carga útil va sin dato. Potencia: «dato no oficial · en revisión».",
     curiosidades:
       "El Lyseo TD 690 G fue uno de los pocos modelos elegidos por Bürstner para estrenar el asiento "
       + "Vario-Seat, un invento concebido a mediados de la década de 2010 que convierte el asiento lateral del "

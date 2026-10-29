@@ -69,7 +69,7 @@ La gama PROGRESS, a la que pertenece el Sevilla JF, es la forma que tiene Notin 
 
 Comprar un Sevilla JF es, en cierto modo, comprar una forma de viajar: pausada, confortable y con la certeza de que cada mueble está en su sitio por una razón. No es la perfilada más barata ni la más tecnológica, pero es de las que mejor envejecen, y eso se nota cuando se visita una unidad de ocasión de hace unos años junto a una generalista de la misma edad.
 
-Cómo lo verificamos: la existencia del modelo, sus 7,49 metros, las camas gemelas, las banquetas enfrentadas y la ducha/WC XXL separados proceden del catálogo oficial Notin Collection 2027 (gama PROGRESS), consultado el 19/10/2026. El precio (99.900 €), la base (Fiat Ducato 2,2 L 140 ch) y el PTAC (3,5 t) los publica la tarifa oficial 2025 recogida por campingcarlesite.com. Las dimensiones completas (7,49×2,30×2,89 m), las aguas (115/110 L) y la Truma 6EH figuran en un anuncio de distribuidor de 2023. El modelo originalmente asignado, «Notin Candia 750 JF», no existe en ningún catálogo oficial ni en búsquedas web, por lo que se sustituyó por el Sevilla JF conforme a la regla del brief. Lo que la marca no publica —consumo, etiqueta DGT, carga útil única— queda declarado como null.
+Cómo lo verificamos: la existencia del modelo, sus 7,49 metros, las camas gemelas, las banquetas enfrentadas y la ducha/WC XXL separados proceden del catálogo oficial Notin Collection 2027 (gama PROGRESS), consultado el 19/10/2026. El precio (99.900 €), la base (Fiat Ducato 2,2 L 140 ch) y el PTAC (3,5 t) los publica la tarifa oficial 2025 recogida por campingcarlesite.com. Las dimensiones completas (7,49×2,30×2,89 m), las aguas (115/110 L) y la Truma 6EH figuran en un anuncio de distribuidor de 2023. El modelo «Notin Candia 750 JF» no existe en ningún catálogo oficial ni en búsquedas web; esta ficha cubre el Sevilla JF. Lo que la marca no publica —consumo, etiqueta DGT, carga útil única— queda sin dato.
 
 Para quién es: encaja con parejas que quieren una perfilada premium con camas gemelas y baño separado sin subir a los 8 metros ni a una integral, y con compradores que valoran la fabricación artesanal francesa y están dispuestos a pagarla. Es ideal para viajes largos a dúo con mucho confort a bordo. No encaja con familias que necesiten más de cuatro plazas para dormir, con quien busque el precio más ajustado del segmento —hay perfiladas generalistas más baratas—, ni con quien necesite una red de servicio muy densa en España: conviene localizar el distribuidor más cercano antes de decidir.`,
     pros: [
@@ -84,7 +84,7 @@ Para quién es: encaja con parejas que quieren una perfilada premium con camas g
       "La marca no publica la carga útil: hay que verificarla en cada unidad",
       "Red de distribuidores reducida en España: conviene localizar el más cercano",
       "Solo 4 plazas para dormir: no apta para familias numerosas",
-      "El modelo asignado originalmente (Candia 750 JF) no existe; esta ficha cubre el Sevilla JF",
+      "El Candia 750 JF no existe; esta ficha cubre el Sevilla JF",
     ],
     opiniones: [],
     galeria: [

@@ -72,8 +72,8 @@ export const AUTOCARAVANAS_LMC_M3: Autocaravana[] = [
       "(manual o automático); camas: abatible delantera de 213x110-55, individuales " +
       "centrales de 200x88 y traseras de 185x88/200x88 según la configuración; depósitos " +
       "de 100 l de agua y 90 l de grises, batería de 95 Ah y calefacción Truma Combi de " +
-      "gas. Quedan sin dato precioDesde (la marca no publica PVP para España; la prensa " +
-      "alemana habla de 83.500 € de base en Alemania), cargaUtilKg, par, tracción y " +
+      "gas. Quedan sin dato el precio (la marca no publica PVP para España; la prensa " +
+      "alemana habla de 83.500 € de base en Alemania), la carga útil, el par, la tracción y " +
       "emisiones. La masa en orden de marcha varía entre fuentes: 3.035 kg según " +
       "camperstyle y 3.048 kg según alpacacamping. Imágenes de la prueba de prensa de " +
       "camperstyle.de con la unidad exacta (no son fotos oficiales de fábrica), sin  Precio: se deja sin dato porque no se ha localizado lista de precios oficial abierta de LMC (Erwin Hymer Group): la marca no expone PVP por modelo en su web oficial y el precio base solo se obtiene en su configurador en línea; solo constan precios de concesionarios y portales, que no se usan como oficiales." +
@@ -177,7 +177,7 @@ Para quién es: familias de cuatro que buscan una perfilada con camas gemelas y 
       "transporte e impuestos. Medidas oficiales: 738 x 232 x 276 cm, batalla 403,5 cm, MMA 3.500 kg. " +
       "Camas traseras individuales de 202 x 74 / 202 x 74,5 cm, convertibles en doble. " +
       "Motor Fiat Ducato 103 kW (140 CV) automático Euro 6E de serie; opcional 132 kW (180 CV) con chasis Maxi " +
-      "y elevación de MMA a 3,65/4,25/4,4 t. En null: carga útil (la marca no la publica como tal), consumo, " +
+      "y elevación de MMA a 3,65/4,25/4,4 t. Sin dato publicado: carga útil (la marca no la publica como tal), consumo, " +
       "emisiones CO2, par motor y autonomía (ninguno publicado en la ficha oficial).",
     curiosidades:
       "A diferencia de la inmensa mayoría de perfiladas, el Cruiser sale de fábrica con calefacción de gasóleo " +
@@ -224,10 +224,10 @@ LMC Home con pantalla de 4 pulgadas; en opción hay baterías de litio de 150 Ah
 elevable calefactado con cama de 234 x 133 cm, que eleva las plazas de 2 a 5.
 
 Cómo lo verificamos: todos los datos técnicos, medidas y precios proceden de la ficha oficial del
-Cruiser 740 EL publicada en lmc-caravan.com, consultada el 19/10/2026. El modelo asignado
-originalmente (Explorer I 675 G) no aparece en la gama oficial actual de LMC —la marca solo lista
-Tracer, Tourer y Cruiser—, por lo que se sustituyó por este modelo vigente con datos completos. La
-carga útil queda sin dato porque LMC no la publica como tal (prohibido calcularla restando masas);
+Cruiser 740 EL publicada en lmc-caravan.com, consultada el 19/10/2026. El Explorer I 675 G
+ya no aparece en la gama oficial actual de LMC —la marca solo lista
+Tracer, Tourer y Cruiser—; esta ficha cubre un modelo vigente de la gama con datos completos. La
+carga útil queda sin dato porque LMC no la publica como tal (no la calculamos restando masas);
 el consumo, las emisiones de CO2 y el par motor no figuran en la documentación oficial y también
 quedan sin dato.
 

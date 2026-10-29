@@ -58,7 +58,7 @@ export const AUTOCARAVANAS_DETHLEFFS_M4: Autocaravana[] = [
       "oficial del grupo Erwin Hymer). Distribución DBL (salón enfrentado + cama isla) y medidas " +
       "generales de la gama: nota de prensa oficial de Dethleffs. Precio: no hay PVP oficial para " +
       "España (referencia: 129.990 CHF en Suiza; unidades nuevas en Alemania " +
-      "anunciadas en torno a 149.900 €); el precio aplicado es el de la Preisliste oficial «Wohnmobile 2025» de Dethleffs (133.299 €). En null: carga útil (no publicada), consumo, par, " +
+      "anunciadas en torno a 149.900 €); el precio aplicado es el de la Preisliste oficial «Wohnmobile 2025» de Dethleffs (133.299 €). Sin dato publicado: carga útil (no publicada), consumo, par, " +
       "tracción y emisiones (no publicados). Fotos: las 4 son oficiales de la marca (mediateca  Precio: precio con IVA de la Preisliste oficial de Dethleffs (Alemania), «Wohnmobile 2025» (válida desde 01/08/2024), Esprit I 7150-2 DBL: 133.299 €; no hay tarifa oficial para España." +
       "Dethleffs: freisteller lateral y highlights de salón, cocina y dormitorio con cama isla).",
     curiosidades:
@@ -204,7 +204,7 @@ export const AUTOCARAVANAS_DETHLEFFS_M4: Autocaravana[] = [
       "congelador), agua limpia (116/20 L), residuales (90 L), puertas de garaje (95×105 y " +
       "95×85 cm), motor (Fiat Ducato Light 140 MultiJet 3, 103 kW, Euro 6e-bis) y precio " +
       "oficial ES (86.690 € IVA incl.): página oficial dethleffs.es del Globebus Active I 6, " +
-      "consultada el 19/10/2026. En null: carga útil (no publicada), consumo, par, tracción y " +
+      "consultada el 19/10/2026. Sin dato publicado: carga útil (no publicada), consumo, par, tracción y " +
       "emisiones (no publicados). Fotos: las 4 son oficiales de la marca (mediateca Dethleffs: " +
       "freisteller lateral, vista del salón, camas gemelas y cabina).",
     curiosidades:

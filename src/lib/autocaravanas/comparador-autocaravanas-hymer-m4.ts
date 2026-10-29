@@ -81,7 +81,7 @@ export const AUTOCARAVANAS_HYMER_M4: Autocaravana[] = [
       "Review camperonline.it (04/01/2021): 699x222x277 cm, MMA 3.500 kg, 3.011 kg en orden de marcha, 4 plazas para viajar y 4 para dormir, " +
       "camas gemelas traseras, garaje pasante y precio base en Italia de 77.990 € con IVA (dato italiano, no válido como precio ES). " +
       "Autoevolution.com confirma 6,99 m de largo, 2,22 m de ancho, 2,83 m de alto, motor 140 CV y MMA 3.500 kg.  Precio: precio del Exsis-i 580 Pure en el listino oficial de Hymer 2026 para Italia (PDF de precios del fabricante, 111.900 €); no hay tarifa oficial para España y el modelo sale de la lista 2027." +
-      "En null: precio oficial ES (Hymer no publica tarifa para España), consumo, par y carga útil.",
+      "Sin dato publicado: precio oficial ES (Hymer no publica tarifa para España), consumo, par y carga útil.",
     curiosidades:
       "El apellido 'Pure' no es un acabado más: Hymer lanzó el Exsis-i 580 Pure como una serie especial 'todo equipado' con precio cerrado, " +
       "pensada para quien quiere la integral estrecha sin pasar por la lista de opcionales. La prensa italiana lo presentó así en enero de 2021: " +
@@ -173,7 +173,7 @@ Para quién es. La Exsis-i 580 Pure encaja con parejas viajeras que quieren una 
       "proceden de la nota de prensa oficial de Hymer y de las fichas de catálogo 2026 de concesionarios " +
       "(TruckScout24, Schaffer-Mobil). Camas gemelas traseras de 190 y 186 cm, nevera de compresor de 154 l, " +
       "agua limpia 120 l y grises 100 l, según ficha técnica de catálogo (FindMyLeisureVehicle). " +
-      "En null: precio ES (Hymer no publica tarifa oficial en España), tara exacta, carga útil, consumo,  Precio: PVP oficial España del ML-T 570: la web oficial de Hymer en España publica la gama ML-T «desde 117.490 €» (precio basado en los precios de venta españoles) y la lista oficial de precios Hymer España 2027 (válida desde 01/07/2026) incluye el ML-T 570; la edición Xperience suma su pack homónimo (10.170 € según esa misma lista)." +
+      "Sin dato publicado: precio ES (Hymer no publica tarifa oficial en España), tara exacta, carga útil, consumo,  Precio: PVP oficial España del ML-T 570: la web oficial de Hymer en España publica la gama ML-T «desde 117.490 €» (precio basado en los precios de venta españoles) y la lista oficial de precios Hymer España 2027 (válida desde 01/07/2026) incluye el ML-T 570; la edición Xperience suma su pack homónimo (10.170 € según esa misma lista)." +
       "emisiones de CO2 y par motor (la marca no los publica para este conjunto).",
     curiosidades:
       "La edición Xperience del ML-T 570 se presentó en el Caravan Salon de Düsseldorf 2026 con acabado " +

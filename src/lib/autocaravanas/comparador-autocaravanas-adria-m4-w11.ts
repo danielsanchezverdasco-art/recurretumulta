@@ -56,10 +56,10 @@ export const AUTOCARAVANAS_ADRIA_M4: Autocaravana[] = [
       "140 CV manual de serie en Supreme, calefacción Alde y cama abatible delantera " +
       "de serie: adria-mobil.com/motorhomes/matrix (oficial). Variante Mercedes " +
       "Sprinter 150/170 CV automático: 7.690 mm, 3.880 kg (abacusmotorhomes, " +
-      "outandaboutlive). Precio: Adria no publica tarifa España → null (en Reino " +
+      "outandaboutlive). Precio: Adria no publica tarifa para España (en Reino " +
       "Unido parte de £93.950 según findmyleisurevehicle, solo referencia). " +
       "Plazas: 4 para viajar y 4 para dormir (algunas configuraciones anuncian 5.ª " +
-      "plaza). MRO, consumo y carga útil: no publicados → null.",
+      "plaza). MRO, consumo y carga útil: la marca no los publica.",
     curiosidades:
       "En el acabado Supreme la cama abatible delantera es de serie en toda la gama " +
       "Matrix —no un opcional—, junto con la calefacción de agua caliente Alde, la " +
@@ -150,16 +150,15 @@ Para quién es: para parejas o familias de cuatro que quieren una perfilada prem
     emisionesCo2: null,
     aprox: [],
     notas:
-      "SUSTITUCIÓN: el modelo asignado 'Adria Compact SP Plus' no existe en la gama " +
-      "2026 —la gama Compact actual ofrece las distribuciones DL/SL en los paquetes " +
-      "Select/Supreme/Max (adria-mobil.com/motorhomes/compact)—. Se sustituye por la " +
+      "La gama Compact 2026 ofrece las distribuciones DL/SL en los paquetes " +
+      "Select/Supreme/Max (adria-mobil.com/motorhomes/compact). Esta ficha cubre la " +
       "Compact Supreme SL, verificada en la web oficial (imágenes 'COMPACT_SUPREME_SL') " +
       "y en distribuidores (p. ej. anuncio 'ADRIA Compact Sl Supreme'). Ancho 2.120 mm: " +
       "oficial Adria ('the narrowest in its class'). Largo 6,99 m y 3 plazas: datos de " +
       "distribuidor (alpacacamping.de); la marca no publica ficha técnica detallada " +
       "por distribución. Alto 2.780 mm coherente con la generación (Compact 60Y DL: " +
       "6.990/2.120/2.780 mm). MMA 3.500 kg, base Fiat Ducato 140 CV, tracción delantera. " +
-      "Precio: Adria no publica tarifa España → null.",
+      "Precio: Adria no publica tarifa para España.",
     curiosidades:
       "Con solo 2.120 mm de anchura exterior, Adria presenta la Compact como 'la más " +
       "estrecha de su clase' (the narrowest in its class): cabe por calles y caminos " +

@@ -55,10 +55,10 @@ export const AUTOCARAVANAS_MALIBU_M3: Autocaravana[] = [
       "longitud 6.363 mm, anchura 2.050 mm (f35) / 2.100 mm (f40 heavy), altura 2.590 mm, " +
       "MMA 3.500 kg, Fiat Ducato 2.2 Multijet de 140 CV de serie (180 CV opcional), camas " +
       "individuales de 202/189 x 90/102 cm, depósito de agua 100 l, aguas grises 90 l, " +
-      "frigorífico de compresor Thetford de 84 l y calefacción Truma Combi 6 E. En null: " +
-      "precioDesde (Malibu no publica PVP para España; el portal alemán alpacacamping.de " +
+      "frigorífico de compresor Thetford de 84 l y calefacción Truma Combi 6 E. Sin dato publicado: " +
+      "precio (Malibu no publica PVP para España; el portal alemán alpacacamping.de " +
       "sitúa el precio de partida en torno a 65.000 € en Alemania, cifra aproximada y no " +
-      "oficial), pesoKg (sin dato oficial; un anuncio cita 3.144 kg), cargaUtilKg, consumo, " +
+      "oficial), peso (sin dato oficial; un anuncio cita 3.144 kg), carga útil, consumo, " +
       "par, tracción y emisiones (la marca no los publica). Plazas para dormir: 2 de serie,  Precio: se deja sin dato porque Malibu (grupo Carthago) solo ofrece el precio base por modelo en su configurador en línea; sin PVP abierto verificable por modelo." +
       "4 con el techo elevable opcional family-for-4.",
     curiosidades:
@@ -212,9 +212,9 @@ segmento: Malibu juega en la parte alta y lo cobra.`,
       "guía Malibu 2026 del mismo medio. Medidas oficiales: 748 x 227 x 294 cm; camas: queen " +
       "195 x 160 cm + cama abatible sobre el salón 195 x 160 cm; plazas 4/5 y 2/4 para dormir " +
       "según configuración; baño comfort luxury con ducha separada y vestidor separable; " +
-      "doble suelo calefactado; garaje 112 cm (124 cm con la opción Pedelec). En null: " +
-      "precioDesde (Malibu no publica PVP para España; la guía 2026 británica parte de " +
-      "74.340 £, precio de otro mercado), cargaUtilKg, consumo, par, tracción y emisiones " +
+      "doble suelo calefactado; garaje 112 cm (124 cm con la opción Pedelec). Sin dato publicado: " +
+      "precio (Malibu no publica PVP para España; la guía 2026 británica parte de " +
+      "74.340 £, precio de otro mercado), carga útil, consumo, par, tracción y emisiones " +
       "(la marca no los publica). En la gama 2026 el modelo figura en el configurador " +
       "oficial como «I 500 RB-QB comfort 4.2 t». Fotos: prueba de prensa de Out & About Live  Precio: se deja sin dato porque Malibu (grupo Carthago) solo ofrece el precio base por modelo en su configurador en línea; sin PVP abierto verificable por modelo." +
       "sobre la unidad exacta (no oficiales de fábrica), sin marcas de agua ni concesionario.",

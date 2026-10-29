@@ -62,7 +62,7 @@ export const AUTOCARAVANAS_CHAUSSON_M3: Autocaravana[] = [
       "de la ficha del concesionario YpoCamp. Las fotos son oficiales de la marca " +
       "(web chausson-motorhomes.com, páginas del modelo 630): corresponden al floor " +
       "plan exacto del 630; la decoración mostrada es la Titanium 2026, idéntica " +
-      "implantación que el First Line 2025. En null: consumo, par, tracción y " +
+      "implantación que el First Line 2025. Sin dato publicado: consumo, par, tracción y " +
       "emisiones (no publicados de forma verificable).",
     curiosidades:
       "El Chausson 630 es, según la propia marca, la única perfilada del mercado " +
@@ -166,7 +166,7 @@ export const AUTOCARAVANAS_CHAUSSON_M3: Autocaravana[] = [
       "la base del 720: comparte floor plan (cama abatible + literas traseras, maxi " +
       "salón cara a cara familiar). Las fotos son oficiales de la marca " +
       "(chausson-motorhomes.com, página del modelo 720): corresponden al floor " +
-      "plan exacto; la decoración mostrada es la Titanium 2026. En null: anchura, " +
+      "plan exacto; la decoración mostrada es la Titanium 2026. Sin dato publicado: anchura, " +
       "altura, peso en vacío, consumo, par, tracción y emisiones (no publicados de " +
       "forma verificable para la serie Etape).",
     curiosidades:

@@ -54,14 +54,14 @@ export const AUTOCARAVANAS_ITINEO_M4: Autocaravana[] = [
     emisionesCo2: null,
     aprox: [],
     notas:
-      "SUSTITUCIÓN: el modelo asignado «Itineo CJ650» no existe en el catálogo oficial de Itineo " +
-      "(colecciones 2025, 2026 y 2027 verificadas); se sustituye por el CJ660, el integral estrecho " +
+      "El «Itineo CJ650» no existe en el catálogo oficial de Itineo " +
+      "(colecciones 2025, 2026 y 2027 verificadas); esta ficha cubre el CJ660, el integral estrecho " +
       "real de la gama Famili Compact. Datos: 6.610 x 2.190 x 2.800 mm, MMA 3.500 kg, 4 plazas de viaje " +
       "y 4 de noche según la ficha técnica oficial de la colección 2026 (ITINEO_CT-2026). Motor Peugeot " +
       "Boxer 2.2 l de 140 CV, camas gemelas de 80x210/190 cm con extensión king-size de 150x202 cm en " +
       "opción y cama de cabina basculante de 140x188 cm según extracto de tarifa oficial (concesionario " +
       "AJD). Nevera 128 l, agua limpia 110 l y grises 90 l, batería 2x100 Ah, calefacción Truma Combi 4, " +
-      "según fichas de catálogo de la red de distribución. En null: precio ES (Itineo no publica tarifa  Precio: se deja sin dato porque Itineo (Groupe Rapido) no publica PVP en su web oficial (los precios se obtienen en su red de concesionarios); sin tarifa oficial abierta verificable." +
+      "según fichas de catálogo de la red de distribución. Sin dato publicado: precio ES (Itineo no publica tarifa  Precio: se deja sin dato porque Itineo (Groupe Rapido) no publica PVP en su web oficial (los precios se obtienen en su red de concesionarios); sin tarifa oficial abierta verificable." +
       "oficial en España), tara exacta, carga útil, consumo y emisiones.",
     curiosidades:
       "Con solo 2,19 m de anchura de carrocería, el CJ660 es uno de los integrales más estrechos del " +
@@ -196,14 +196,14 @@ numerosas la propia Itineo ofrece el SBD700 o el SB740 en la gama Famili de anch
     emisionesCo2: null,
     aprox: [],
     notas:
-      "SUSTITUCIÓN: el modelo asignado «Itineo SB700» no figura en la colección oficial 2026 de Itineo " +
-      "(la gama Famili vigente incluye SBD700, JC740, MC740 y SB740); se sustituye por el SBD700, el " +
+      "El «Itineo SB700» no figura en la colección oficial 2026 de Itineo " +
+      "(la gama Famili vigente incluye SBD700, JC740, MC740 y SB740); esta ficha cubre el SBD700, el " +
       "integral familiar vigente de la marca, lanzado en 2024. Datos: 6.990 x 2.340 x 2.940 mm, MMA " +
       "3.500 kg, 6 plazas de viaje y 6 de noche según la ficha técnica oficial de la colección 2026 " +
       "(ITINEO_CT-2026). Motor Fiat Ducato 2.0 l de 140 CV. Masa en orden de marcha 2.995 kg y carga " +
       "útil de catálogo UK 505 kg según ficha técnica de distribuidor (FindMyLeisureVehicle); no se " +
-      "traslada a cargaUtilKg por ser cifra de mercado británico. Literas traseras, cama basculante de " +
-      "cabina de 140x190 cm y cama de dinette según documentación de la red. En null: precio ES (Itineo  Precio: se deja sin dato porque Itineo (Groupe Rapido) no publica PVP en su web oficial (los precios se obtienen en su red de concesionarios); sin tarifa oficial abierta verificable." +
+      "aplica como carga útil de esta ficha por ser cifra de mercado británico. Literas traseras, cama basculante de " +
+      "cabina de 140x190 cm y cama de dinette según documentación de la red. Sin dato publicado: precio ES (Itineo  Precio: se deja sin dato porque Itineo (Groupe Rapido) no publica PVP en su web oficial (los precios se obtienen en su red de concesionarios); sin tarifa oficial abierta verificable." +
       "no publica tarifa oficial en España), tara exacta, consumo y emisiones.",
     curiosidades:
       "El SBD700 se lanzó en 2024 como el primer integral Itineo de menos de 7 metros capaz de dormir " +

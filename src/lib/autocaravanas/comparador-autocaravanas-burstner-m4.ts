@@ -73,9 +73,9 @@ export const AUTOCARAVANAS_BURSTNER_M4: Autocaravana[] = [
       "(truckscout24.fr/.nl/.es, caravana.de, bytbil.com). La tabla técnica oficial " +
       "de buerstner.com para la gama Lyseo I recoge valores idénticos (736/232/291 " +
       "cm, 4.400 kg, 4 plazas, 4-5 camas, frigorífico 142 l, agua 105 l, residuales " +
-      "90 l). Precio: Bürstner no publica tarifa España → null. MRO: la tabla " +
+      "90 l). Precio: Bürstner no publica tarifa para España. MRO: la tabla " +
       "oficial da 3.315 kg para el 736 G, pero no se atribuye a la denominación  Precio: precio recomendado oficial (no vinculante) publicado por Bürstner en su web oficial de Bürstner (buerstner.com), ficha técnica del Lyseo I 726 G, basado en los precios de venta de Alemania; no hay tarifa oficial para España." +
-      "726 G → null. Consumo y carga útil: no publicados → null.",
+      "726 G. Consumo y carga útil: no los publica la marca.",
     curiosidades:
       "La gama Lyseo I nació en 2023 como la integral 'media' de Bürstner sobre base " +
       "Fiat Ducato, por debajo de la Elegance en tamaño y precio, con cinco " +
@@ -174,7 +174,7 @@ Para quién es: para quienes quieren una integral de verdad —conducción panor
       "residuales (90 L): buerstner.com, páginas oficiales FR/NL/CH del Campeo TD. Motor Fiat " +
       "Ducato 140 CV: anuncios de concesionario del modelo exacto. Precio: Bürstner no publica " +
       "PVP para España; en la web oficial francesa el Campeo TD parte de " +
-      "75.290 €. En null: carga útil (la marca no la publica), consumo, par, tracción y emisiones " +
+      "75.290 €. Sin dato publicado: carga útil (la marca no la publica), consumo, par, tracción y emisiones " +
       "CO2 (no publicados). Fotos: unidad real del modelo exacto, galería de concesionario en  Precio: precio recomendado oficial publicado por Bürstner en su web oficial de Bürstner (buerstner.com), ficha técnica del Campeo TD 690 G, basado en los precios de venta de Francia; no hay tarifa oficial para España." +
       "caraworld.de (anuncio 26057034), sin marcas de agua; no son fotos oficiales de prensa.",
     curiosidades:

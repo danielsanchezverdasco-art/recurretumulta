@@ -57,7 +57,7 @@ export const AUTOCARAVANAS_MORELO_M3: Autocaravana[] = [
       "Chasis Iveco Daily 70 C 18: 3.0 turbodiésel de 129 kW (175 CV), cambio manual de 6 velocidades " +
       "(automático ZF de 8 relaciones en opción), MMA 7.490 kg, 2,40 m de ancho, depósitos de ~300 l de " +
       "aguas limpias y ~200 l de grises y ~200 l de negras. Precio 'desde 244.900 €' = base de la gama Loft " +
-      "en Alemania. En null: longitud exacta del layout (la marca solo da el rango 7,99–8,39 m), altura total, " +
+      "en Alemania. Sin dato publicado: longitud exacta del layout (la marca solo da el rango 7,99–8,39 m), altura total, " +
       "carga útil, consumo y emisiones (no publicados). Carnet C1 obligatorio por superar los 3.500 kg.",
     curiosidades:
       "El Loft estrena un parabrisas curvado que se prolonga sobre los pilares A hasta las paredes laterales: " +

@@ -54,9 +54,9 @@ export const AUTOCARAVANAS_FLEURETTE_M4: Autocaravana[] = [
       "(https://www.fleurette-florium.fr/listings/camping-car-lit-pavillon-magister-70-lmf-edition-wellness/), " +
       "catálogo Fleurette FR 2025 y catálogo DE 2023. plazasDormir=3 de serie " +
       "(cama central trasera + plaza convertible en el salón); el lit pavillon " +
-      "eléctrico opcional sobre el salón añade la cuarta plaza. precioDesde=null: " +
+      "eléctrico opcional sobre el salón añade la cuarta plaza. Sin precio aplicado: " +
       "Fleurette no publica tarifa; la venta es por red de concesionarios. " +
-      "cargaUtilKg=null: la marca no publica la carga útil (prohibido calcularla). " +
+      "La carga útil no está publicada por la marca y no la calculamos. " +
       "Fotos: las cuatro son oficiales de Fleurette (web y catálogo 2025); no se  Precio: se deja sin dato porque Fleurette no publica PVP en su web oficial (los precios se obtienen en su red de concesionarios); sin tarifa oficial abierta verificable." +
       "localizó ningún exterior verificado del 70 LMF, queda anotado como hueco.",
     curiosidades:
@@ -116,8 +116,8 @@ export const AUTOCARAVANAS_FLEURETTE_M4: Autocaravana[] = [
       página oficial del Magister 70 LMF Edition Wellness en fleurette-florium.fr,
       consultada el 19/10/2026, y se contrastaron con los catálogos oficiales
       Fleurette 2025 (francés) y 2023 (alemán). La edición Wellness y sus detalles
-      (Beige Moka, bergamota) figuran en la misma página oficial. El precio queda en
-      null porque Fleurette no publica tarifa: la venta se hace por red de
+      (Beige Moka, bergamota) figuran en la misma página oficial. El precio queda
+      sin precio porque Fleurette no publica tarifa: la venta se hace por red de
       concesionarios y cada unidad se presupuesta según opciones.
 
       Para quién es: el 70 LMF encaja con parejas que quieren cama central accesible

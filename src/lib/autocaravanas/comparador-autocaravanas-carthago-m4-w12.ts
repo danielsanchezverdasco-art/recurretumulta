@@ -54,7 +54,7 @@ export const AUTOCARAVANAS_CARTHAGO_M4: Autocaravana[] = [
       "(año modelo 2026, matriculación 16.03.2026) y su PDF exposé. Precio: la unidad anunciada " +
       "tiene un precio de lista en Alemania de 317.310 € (PDF del concesionario); Carthago " +
       "publica en carthago.com un «desde» de 198.300 € para la gama liner-for-two, pero no hay " +
-      "PVP oficial para España → precioDesde=null. En null: carga útil (no publicada), consumo, " +
+      "PVP oficial para España: sin precio aplicado. Sin dato publicado: carga útil (no publicada), consumo, " +
       "par, tracción y emisiones (no publicados). Fotos: las 4 son oficiales de prensa Carthago " +
       "(carthago.com, verificadas 19/10/2026): freisteller exterior del liner-for-two I 53 L " +
       "sobre Iveco Daily, exterior real (Flugplatz), salón con TV y zona de descanso con TV. " +

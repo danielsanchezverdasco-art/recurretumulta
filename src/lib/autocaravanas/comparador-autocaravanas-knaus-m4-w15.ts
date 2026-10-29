@@ -62,7 +62,7 @@ export const AUTOCARAVANAS_KNAUS_M4: Autocaravana[] = [
       "(diésel), nevera de 69 l, agua limpia 100 l y grises 80 l, batería de 92 Ah, altura interior " +
       "225 cm, batalla 364 cm y capacidad de remolque frenado de 3.000 kg según fichas de catálogo. " +
       "La altura total varía en las fichas de la red entre 2.971 y 3.200 mm según configuración " +
-      "(techo alto, 4x4); se adopta 3.200 mm por ser el valor más repetido. En null: precio ES (Knaus " +
+      "(techo alto, 4x4); se adopta 3.200 mm por ser el valor más repetido. Sin dato publicado: precio ES (Knaus " +
       "no publica tarifa oficial en España), tara exacta, carga útil, consumo y emisiones.",
     curiosidades:
       "El Boxdrive es uno de los pocos camper del mercado construido sobre el MAN TGE en lugar del " +
@@ -207,7 +207,7 @@ autocaravanas con garaje pasante.`,
       "(177 l en algunas configuraciones), agua limpia 100 l y grises 95 l, batería de 80 Ah y " +
       "cargador de 25 A. Masa en orden de marcha 3.098-3.122 kg y carga útil de 1.278-1.302 kg según " +
       "fichas de distribuidor; no se trasladan a los campos por ser cifras de unidades concretas. " +
-      "En null: precio ES (Knaus no publica tarifa oficial en España), tara exacta, consumo y emisiones. " +
+      "Sin dato publicado: precio ES (Knaus no publica tarifa oficial en España), tara exacta, consumo y emisiones. " +
       "ATENCIÓN: con 4.000 kg de MMA requiere carnet C1.",
     curiosidades:
       "El L!VE I 700 MEG equipa de serie fijaciones Isofix para dos sillas infantiles y colchón EvoPore " +

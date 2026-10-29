@@ -66,7 +66,7 @@ export const AUTOCARAVANAS_DETHLEFFS_M3: Autocaravana[] = [
       "(agregador, sin valor de tarifa). Fotografías oficiales de la marca " +
       "(dethleffs.de, gama Trend): la marca no publica fotos por variante individual, " +
       "así que son imágenes de la gama; la foto del dormitorio muestra la versión con cama doble, " +
-      "mientras que el 7017 EB monta camas gemelas (Einzelbetten). En null: precioDesde (sin PVP oficial), altura,  Precio: se deja sin dato porque la designación Trend I 7017 EB no figura en la Preisliste oficial vigente de Dethleffs (la gama Trend actual usa otras designaciones: I 6617 EB, I 6817 EB, I 7057…); sin tarifa oficial vigente verificable para este modelo." +
+      "mientras que el 7017 EB monta camas gemelas (Einzelbetten). Sin dato publicado: precio (sin PVP oficial), altura,  Precio: se deja sin dato porque la designación Trend I 7017 EB no figura en la Preisliste oficial vigente de Dethleffs (la gama Trend actual usa otras designaciones: I 6617 EB, I 6817 EB, I 7057…); sin tarifa oficial vigente verificable para este modelo." +
       "peso en vacío, consumo, par, tracción y emisiones.",
     curiosidades:
       "En los integrales de la gama Trend la cama abatible eléctrica sobre la cabina " +
@@ -170,7 +170,7 @@ Para quién es: la Trend I 7017 EB casa con parejas que desean una integral con 
       "cm (2/5 plazas para dormir), frigorífico 137 L, aguas grises 95 L y limpia " +
       "115/20 L, puertas de garaje de 95x95 y 93x115 cm, capacidad de remolque " +
       "2.000/750 kg. Pack Active T 7055 DBL (6.000 €): motor Ford de 121 kW " +
-      "(165 CV), cambio automático de 8 velocidades y +77,8 kg de peso. En null: " +
+      "(165 CV), cambio automático de 8 velocidades y +77,8 kg de peso. Sin dato publicado: " +
       "consumo, par, tracción y emisiones (no publicados de forma verificable).",
     curiosidades:
       "El pack Active del Just Go T 7055 DBL (6.000 €) sustituye el motor de " +

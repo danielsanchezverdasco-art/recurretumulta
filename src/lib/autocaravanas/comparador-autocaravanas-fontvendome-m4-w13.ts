@@ -57,10 +57,10 @@ export const AUTOCARAVANAS_FONTVENDOME_M4: Autocaravana[] = [
       "(https://docs.campingcar-infos.com/docs/Font-Vendome%20(vans)/FontVendome%202026%20RandoCamp%20Serie%20S.pdf) " +
       "y página oficial https://www.font-vendome.fr/van/rando-camp/. El modelo " +
       "asignado («Rando 45») no existe en ningún catálogo de la marca; se sustituyó " +
-      "por el RandoCamp, el camper de 5,41 m de la gama 2026. precioDesde=null: la " +
+      "por el RandoCamp, el camper de 5,41 m de la gama 2026. Sin precio aplicado: la " +
       "marca no publica tarifa oficial; el concesionario Groupe Jean " +
       "(https://groupejean-auto.fr/fiche-technique-font-vendome-rando-camp/) lo  Precio: se deja sin dato porque Groupe Pilote no publica tarifas/PVP en abierto en sus webs oficiales (Pilote, Bavaria, Le Voyageur, Mooveo, Font Vendôme): los precios se facilitan a través de su red de concesionarios; sin PVP oficial verificable." +
-      "anuncia desde 59.990 €. cargaUtilKg=null: no publicada por la marca.",
+      "anuncia desde 59.990 €. La carga útil no la publica la marca.",
     curiosidades:
       "El RandoCamp mete una cama transversal de 194 cm de largo en un furgón de " +
       "solo 5,41 metros, una de las mejores relaciones cama/longitud del segmento " +

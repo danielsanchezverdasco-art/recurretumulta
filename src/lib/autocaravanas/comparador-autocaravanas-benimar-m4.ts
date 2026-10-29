@@ -61,8 +61,8 @@ export const AUTOCARAVANAS_BENIMAR_M4: Autocaravana[] = [
       "caravanascruz.es). Literas traseras 140 × 186 cm, 4 viajar / 4 dormir, " +
       "calefacción Truma Combi 4 diésel, frigorífico 80 l: motorvision.es. " +
       "Pack UP (oscurecedores, toldo, solar 120 W, portabicis): clasf.es/mundovan. " +
-      "Precio: Benimar no publica tarifa España → null (concesionarios la anuncian " +
-      "desde ~61.500 €, solo referencia). MRO, consumo y carga útil: no publicados → null.",
+      "Precio: Benimar no publica tarifa para España (concesionarios la anuncian " +
+      "desde ~61.500 €, solo referencia). MRO, consumo y carga útil: no los publica la marca.",
     curiosidades:
       "La Benivan 120 UP mete cuatro plazas para dormir en 5,99 metros gracias a sus " +
       "literas traseras de 140 × 186 cm: es una de las pocas campers del mercado que " +
@@ -162,7 +162,7 @@ Para quién es: para familias de cuatro (dos adultos y dos niños como máximo, 
       "convertible), ducha independiente, Truma Combi diésel 4000 W, frigorífico " +
       "compresor 150 l, aguas 105/105 l, pack UP (solar 200 W MPPT, Smart TV 22', " +
       "toldo 4,5 m, ISOFIX): autocaravanasnavarro.com. Precio: Benimar no publica " +
-      "tarifa España → null. MRO, consumo y carga útil: no publicados → null.",
+      "tarifa para España. MRO, consumo y carga útil: la marca no los publica.",
     curiosidades:
       "El acabado UP de la Sport 363 incluye de serie un panel solar de 200 W con " +
       "regulador MPPT y una Smart TV de 22 pulgadas, además de ISOFIX en los asientos " +
@@ -251,7 +251,7 @@ Para quién es: para familias de cinco o seis que necesitan dormir todos en cama
     emisionesCo2: null,
     aprox: [],
     notas:
-      "Modelo sustituido: el «Benimar Mileo 201» asignado no existe en la gama actual (el 201 fue un modelo de ~2015; el catálogo oficial 2026/2027 solo lista M263/M268/M298); se documenta el Mileo 268 (M268) real y vigente. Cotas (739/230/289 cm), motor Fiat Ducato 2.2 de 140 CV manual Euro 6, 4 plazas (4-5 opcional), MMA 3.500 kg y garaje con capacidad de 225 kg: ficha del distribuidor caravaningplaza.com (verificada 19/10/2026). Benimar no publica PVP oficial (precioDesde = null). Fotos no oficiales (distribuidor, sin marcas de agua). Carga útil, consumo, par, emisiones y MRO: no publicados; quedan sin dato.",
+      "El «Benimar Mileo 201» no existe en la gama actual (el 201 fue un modelo de ~2015; el catálogo oficial 2026/2027 solo lista M263/M268/M298); esta ficha documenta el Mileo 268 (M268), real y vigente. Cotas (739/230/289 cm), motor Fiat Ducato 2.2 de 140 CV manual Euro 6, 4 plazas (4-5 opcional), MMA 3.500 kg y garaje con capacidad de 225 kg: ficha del distribuidor caravaningplaza.com (verificada 19/10/2026). Benimar no publica PVP oficial. Fotos no oficiales (distribuidor, sin marcas de agua). Carga útil, consumo, par, emisiones y MRO: no publicados; quedan sin dato.",
     curiosidades:
       "El Mileo 268 se fabrica íntegramente en Peñíscola (Castellón), en la planta de Benimar: la marca española, con más de cuatro décadas de trayectoria, exporta actualmente sus autocaravanas a más de 25 países y es uno de los principales fabricantes europeos del sector. Fuente: AC-Llar, distribuidor oficial Benimar (https://ac-llar.com//ac-llar-llevara-las-novedades-de-benimar-y-roller-team-con-descuentos-a-la-i-feria-del-caravaning-de-valencia/).",
     descripcion: `El Benimar Mileo 268 es la perfilada española que demuestra que no hace falta cruzar los Pirineos para encontrar una autocaravana bien pensada: se diseña y fabrica íntegramente en Peñíscola, en la planta de una marca que lleva más de cuatro décadas construyendo autocaravanas y que hoy exporta a más de 25 países. Dentro de la gama Mileo —la familia de perfiladas de Benimar—, el 268 ocupa el punto dulce: 7,39 metros de eslora con una distribución para cuatro personas que no renuncia a nada esencial, sobre la base más popular del caravaning europeo, el Fiat Ducato.

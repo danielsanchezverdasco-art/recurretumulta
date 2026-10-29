@@ -54,7 +54,7 @@ export const AUTOCARAVANAS_CARADO_M3: Autocaravana[] = [
       "375 cm; 4 plazas; masa en orden de marcha 2.876 kg (rango 2.732-3.020); MMA 3.500 kg; " +
       "remolque 2.000/750 kg; camas traseras 192x80 / 200x80 / 210x153 OPT; cama abatible " +
       "opcional 195x140-110; frigorífico 156 l; calefacción Combi 6 Gas; agua 122/20 l; " +
-      "grises 92 l; 4 enchufes 230 V; 4 USB; gas 2x11 kg. En null: cargaUtilKg (la marca no " +
+      "grises 92 l; 4 enchufes 230 V; 4 USB; gas 2x11 kg. Sin dato publicado: carga útil (la marca no " +
       "la publica), consumo, par y emisiones (no publicados por la marca).",
     curiosidades:
       "El T338 EDITION27 que Carado vende en España lleva de serie el Ford Transit 2.0 de " +
@@ -211,7 +211,7 @@ kilo cuenta.`,
       "camas traseras de 200x70 / 195x80 (ampliables a 200-195x194 como opción); " +
       "frigorífico de 78 l con 11 l de congelador; calefacción Combi 4 de gas; 116/20 l " +
       "de agua; 92 l de grises; cuatro tomas de 230 V; dos USB; gas en 2x11 kg. " +
-      "Permanecen sin dato: cargaUtilKg (no publicada), consumo, par y emisiones (sin " +
+      "Permanecen sin dato: carga útil (no publicada), consumo, par y emisiones (sin " +
       "dato oficial).",
     curiosidades:
       "El V 337 milita en la gama «Van» de Carado: perfiladas estrechas de tan solo " +

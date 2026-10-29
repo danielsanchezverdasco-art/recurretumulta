@@ -209,7 +209,7 @@ export const AUTOCARAVANAS_CHALLENGER_M3: Autocaravana[] = [
       "proceden del catálogo oficial Challenger 2019 (camperonline.it/magazine/" +
       "cataloghi/2019-challenger-catalogo.pdf, págs. 13-15). El sitemap oficial de " +
       "modelos de challenger-camping-cars.fr confirma que el 396 no está en la gama " +
-      "2026. En null: precioDesde (sin PVP oficial actual), pesoKg, consumo, par, " +
+      "2026. Sin dato publicado: precio (sin PVP oficial actual), peso, consumo, par, " +
       "tracción y emisiones (no publicados de forma verificable).",
     curiosidades:
       "El Challenger 396 ganó el Premio Europeo de la Innovación 2018 gracias a su " +

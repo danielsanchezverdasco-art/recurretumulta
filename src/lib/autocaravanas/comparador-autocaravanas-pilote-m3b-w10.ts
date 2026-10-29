@@ -60,7 +60,7 @@ export const AUTOCARAVANAS_PILOTE_M3B: Autocaravana[] = [
       "transversal fija sobre el garaje más cama doble abatible eléctrica sobre el salón, 4 plazas de " +
       "viaje y 4 para dormir. Base Ford Transit Trail con motor de 170 CV y cambio automático de serie, " +
       "diferencial de deslizamiento limitado mecánico, llantas negras de 16'' y neumáticos de cuatro " +
-      "estaciones. En null: precio en España (no publicado; en UK partía de £84.500 en 2024), altura total, " +
+      "estaciones. Sin dato publicado: precio en España (no publicado; en UK partía de £84.500 en 2024), altura total, " +
       "carga útil (485 kg según la prensa, no dato de marca), consumo y emisiones. Fotos: imágenes de " +
       "marketing de Pilote del modelo exacto, obtenidas del anuncio verificado de una unidad 2024; se  Precio: se deja sin dato porque Groupe Pilote no publica tarifas/PVP en abierto en sus webs oficiales (Pilote, Bavaria, Le Voyageur, Mooveo, Font Vendôme): los precios se facilitan a través de su red de concesionarios; sin PVP oficial verificable." +
       "marcan como no oficiales.",
