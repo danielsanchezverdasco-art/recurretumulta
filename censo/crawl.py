@@ -14,12 +14,15 @@ CK = os.path.join(BASE, "censo", "checkpoints")
 os.makedirs(CK, exist_ok=True)
 
 TITLE_RE = re.compile(r"<title[^>]*>(.*?)</title>", re.I | re.S)
-META_RE1 = re.compile(r'<meta[^>]+name=["\']description["\'][^>]+content=["\'](.*?)["\']', re.I | re.S)
-META_RE2 = re.compile(r'<meta[^>]+content=["\'](.*?)["\'][^>]+name=["\']description["\']', re.I | re.S)
-CANON_RE1 = re.compile(r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\'](.*?)["\']', re.I | re.S)
-CANON_RE2 = re.compile(r'<link[^>]+href=["\'](.*?)["\'][^>]+rel=["\']canonical["\']', re.I | re.S)
-OG_RE1 = re.compile(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\'](.*?)["\']', re.I | re.S)
-OG_RE2 = re.compile(r'<meta[^>]+content=["\'](.*?)["\'][^>]+property=["\']og:image["\']', re.I | re.S)
+# NOTA 29/10/2026: backreference (\1) en la comilla de cierre: (.*?)["\'] cortaba
+# en el apóstrofo de modelos como c'go/c'joy y daba metas truncadas idénticas
+# (falso duplicado en Dethleffs, verificado en vivo el 29/10).
+META_RE1 = re.compile(r'<meta[^>]+name=["\']description["\'][^>]+content=(["\'])(.*?)\1', re.I | re.S)
+META_RE2 = re.compile(r'<meta[^>]+content=(["\'])(.*?)\1[^>]+name=["\']description["\']', re.I | re.S)
+CANON_RE1 = re.compile(r'<link[^>]+rel=["\']canonical["\'][^>]+href=(["\'])(.*?)\1', re.I | re.S)
+CANON_RE2 = re.compile(r'<link[^>]+href=(["\'])(.*?)\1[^>]+rel=["\']canonical["\']', re.I | re.S)
+OG_RE1 = re.compile(r'<meta[^>]+property=["\']og:image["\'][^>]+content=(["\'])(.*?)\1', re.I | re.S)
+OG_RE2 = re.compile(r'<meta[^>]+content=(["\'])(.*?)\1[^>]+property=["\']og:image["\']', re.I | re.S)
 MAIN_RE = re.compile(r"<main\b[^>]*>(.*?)</main>", re.I | re.S)
 H1_RE = re.compile(r"<h1\b", re.I)
 A_RE = re.compile(r'<a\b[^>]+href=["\'](.*?)["\']', re.I | re.S)
@@ -62,13 +65,13 @@ def analyze(url, body, status, is_tool):
     rec["title"] = ihtml.unescape(m.group(1)).strip() if m else ""
     rec["title_len"] = len(rec["title"])
     mm = META_RE1.search(body) or META_RE2.search(body)
-    rec["meta"] = ihtml.unescape(mm.group(1)).strip() if mm else ""
+    rec["meta"] = ihtml.unescape(mm.group(2)).strip() if mm else ""
     rec["meta_len"] = len(rec["meta"])
     rec["h1"] = len(H1_RE.findall(body))
     cm = CANON_RE1.search(body) or CANON_RE2.search(body)
-    rec["canonical"] = ihtml.unescape(cm.group(1)).strip() if cm else ""
+    rec["canonical"] = ihtml.unescape(cm.group(2)).strip() if cm else ""
     om = OG_RE1.search(body) or OG_RE2.search(body)
-    rec["og"] = ihtml.unescape(om.group(1)).strip() if om else ""
+    rec["og"] = ihtml.unescape(om.group(2)).strip() if om else ""
     main = MAIN_RE.search(body)
     if main:
         txt = clean_text(main.group(1))
