@@ -2246,7 +2246,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   bateriaWh: 243,
   frenos: "Freno de tambor delantero + freno electrónico trasero (E-ABS)",
   neumaticos: "Neumáticos de 9″ x 2,3″",
-  certificadoDgt: true,
+  certificadoDgt: null,
   foto: "/media/patinetes/niu-kqi1.webp",
   aprox: ["autonomiaRealKm", "bateriaWh"],
   pros: [
@@ -3330,7 +3330,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   bateriaWh: 2880,
   frenos: "Disco hidráulicos NUTT 160 mm (delantero y trasero)",
   neumaticos: '11" ultra-anchas tubeless',
-  certificadoDgt: true,
+  certificadoDgt: false,
   foto: "/media/patinetes/dualtron-thunder-2.webp",
   aprox: ["autonomiaRealKm", "precioEur"],
   pros: [
@@ -3411,7 +3411,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   bateriaWh: 2520,
   frenos: "Disco hidráulicos 160 mm + ABS (delantero y trasero)",
   neumaticos: '11" con cámara (calle o todoterreno)',
-  certificadoDgt: true,
+  certificadoDgt: false,
   foto: "/media/patinetes/kaabo-wolf-king-gt-pro.webp",
   aprox: ["autonomiaRealKm", "pesoKg", "tiempoCargaH", "precioEur"],
   pros: [
@@ -4830,7 +4830,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     bateriaWh: 360,
     frenos: "Tambor delantero + E-ABS trasero",
     neumaticos: "10\" tubeless de baja resistencia a la rodadura",
-    certificadoDgt: true,
+    certificadoDgt: null,
     foto: "/media/patinetes/xiaomi-5-elite.webp",
     aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: [
@@ -4956,7 +4956,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     bateriaWh: 451.2,
     frenos: "Disco delantero + regenerativo",
     neumaticos: "9.5\" tubeless",
-    certificadoDgt: true,
+    certificadoDgt: null,
     foto: "/media/patinetes/niu-kqi-air.webp",
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -5038,7 +5038,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     bateriaWh: 1040,
     frenos: "Disco trasero",
     neumaticos: "10\" neumáticos",
-    certificadoDgt: true,
+    certificadoDgt: false,
     foto: "/media/patinetes/dualtron-popular.webp",
     aprox: ["autonomiaRealKm", "potenciaNominalW", "precioEur", "cargaMaxKg", "tiempoCargaH", "bateriaWh"],
     pros: [
@@ -5243,7 +5243,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     bateriaWh: 720,
     frenos: "Doble disco de 140 mm + electrónico",
     neumaticos: "11\" neumáticos off-road",
-    certificadoDgt: true,
+    certificadoDgt: null,
     foto: "/media/patinetes/isinwheel-gt2.webp",
     aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: [
@@ -5538,7 +5538,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     bateriaWh: 243,
     frenos: "Freno de tambor delantero + frenada regenerativa trasera",
     neumaticos: "Neumáticos hinchables de 9,5 pulgadas",
-    certificadoDgt: true,
+    certificadoDgt: false,
     foto: "/media/patinetes/niu-kqi-100f.webp",
     aprox: ["autonomiaRealKm", "velocidadMaxKmh", "precioEur"],
     pros: [
@@ -5580,7 +5580,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     bateriaWh: 540,
     frenos: "Doble freno de tambor + ABS + EBS",
     neumaticos: "Delantero tubeless de 9\" + trasero macizo de 9\"",
-    certificadoDgt: true,
+    certificadoDgt: false,
     foto: "/media/patinetes/dualtron-dolphin.webp",
     aprox: ["autonomiaRealKm", "velocidadMaxKmh"],
     pros: [
@@ -6084,7 +6084,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     bateriaWh: 1081,
     frenos: "Frenos de disco hidráulicos delanteros y traseros + regenerativo",
     neumaticos: "10 x 3 pulgadas tubeless",
-    certificadoDgt: true,
+    certificadoDgt: false,
     foto: "/media/patinetes/teverun-fighter-mini.webp",
     aprox: ["autonomiaRealKm", "bateriaWh", "precioEur"],
     pros: [
