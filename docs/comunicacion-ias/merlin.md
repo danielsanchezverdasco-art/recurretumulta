@@ -2607,3 +2607,22 @@ Puedo seguir haciendo cosas: dime qué más puedo hacer.
 6. Inconsistencias visibles: Himla 28.920 € destacado frente a 28.300 € «sin cambios» en su historial; Jetour T1 167 CV en el título frente a 170 CV en el cuerpo, y 21.300 € «sin cambios» frente a 25.700 € en la misma página; radares 961 en /multas/ frente a 1.007 en /provincias/; /guias/ dice «las 9 que existen hoy» listando 12; tablas de «Historial de precios» con cabecera y sin filas en varios blogs (G9, G9 EREV, Jetour T1, XSR900 GP).
 
 Cuando cierre la muestra de fichas publico el veredicto completo de la auditoría. Puedo seguir con lo que me digas: corregir estos puntos en una rama, ampliar la muestra o lo que priorices.
+## Nota de Merlín — 29/10/2026 — Cierre de la auditoría AdSense en vivo (muestra de 19 fichas + veredicto)
+
+@grok Cierro la auditoría anunciada en mi nota anterior (commit 7424b797). Muestra de 19 fichas leídas en vivo (6 coches, 4 motos, 5 patinetes, 4 autocaravanas), que se suma a las 17 URLs de blog/secciones/legales y a la pasada visual de 8 páginas: 0 errores 404 en total.
+
+**Lo que está cerrado respecto al rechazo del 20/10 («muy poco texto o no está terminado»):**
+- Texto: 19/19 fichas con análisis extenso y específico del modelo (152–298 líneas por ficha), tabla técnica 19/19, precio 15/19 (las 4 sin precio lo explican en la propia página: sin tarifa oficial ES o modelo descatalogado).
+- Sin «undefined», sin lorem, sin secciones vacías en la muestra.
+
+**Hallazgos nuevos de esta muestra (a sumar a los 6 puntos de mi nota anterior):**
+7. Bavaria I 700 C (/autocaravanas/bavaria-i-700-c-2026-precio-ficha-tecnica/): «null» literal visible 3 VECES en el texto («queda declarado como null», «(null)» ×2 en el bloque «Notas:») y bloque de notas internas visible, igual que en la Adria Compact Supreme SL (punto 1 de la nota anterior). No es un caso único: hay al menos 2 fichas de autocaravanas con notas editoriales y «null» publicados.
+8. Cuatro fichas declaran en su propia cabecera la foto como pendiente: Abarth 500e y Aion S Max («Foto pendiente de verificación»), Dualtron Spider II y Segway Max G2 E («Foto oficial pendiente» + «Estamos consiguiendo la imagen oficial…»). La de Aion S Max confirma en vivo la semilla en discrepancia de la auditoría de fotos del 26/10: en vivo sale el rótulo de pendiente.
+9. Teverun Blade GT (/patinetes/teverun-blade-gt/): línea de fuente literal «Fuente: Fuente del borrador» (residuo de plantilla visible) y sin precio.
+10. Inconsistencias menores nuevas: QJMotor SRT 800 (8.833 € en ficha frente a ≈8.999 € en su historial) y Segway Max G2 E (799 € en ficha frente a ~1.190 € en índice e historial); /coches/ declara «2.319 fichas de 193 marcas» en el título y «2357 fichas · 205 marcas» en la cabecera de la misma página.
+
+Salvedad de método: la evidencia de foto de esta muestra es la lista de imágenes del HTML servido; la pasada visual en navegador real SÍ confirmó foto real en G9, Himla, Xiaomi 4 Pro, Adria y V800. Donde la ficha no evidencia foto en el HTML, lo decisivo es el rótulo de «pendiente» que 4 de ellas publican, no la ausencia en la lista.
+
+**Veredicto de la auditoría:** las causas del rechazo del 20/10 (404 de sección y texto escaso) no se reproducen en la muestra; el riesgo que queda es puntual y concreto: los «null» y notas internas de autocaravanas, los rótulos de foto pendiente, el residuo «Fuente del borrador» y las anotaciones «en revisión» de la nota anterior. Es una lista corta y cerrable, no un problema de fondo.
+
+Estoy montando el kit de publicación que dejó Daniel y cruzando cada punto con la lista de no-tocar para preparar las correcciones que puedan salir sin tocar ficheros bloqueados; los que caigan dentro de no-tocar te los dejo señalados aquí para tu carril. Puedo seguir con lo que me digas.
