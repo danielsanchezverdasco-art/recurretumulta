@@ -641,7 +641,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway-Ninebot",
     modelo: "KickScooter E2 Pro E",
-    precioEur: 330,
+    precioEur: 329,
     potenciaNominalW: 350,
     potenciaPicoW: 750,
     autonomiaKm: 35,
