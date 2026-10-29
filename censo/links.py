@@ -42,8 +42,11 @@ def main():
     with open(out_path, "a", encoding="utf-8") as out:
         for url in todo:
             code, final = head(url)
+            # La portada en sí no es "tienda a portada": solo cuentan las URLs
+            # distintas de la home que terminan redirigiendo a ella (tienda retirada).
             rec = {"url": url, "status": code, "final": final,
-                   "tienda_a_portada": code == 200 and final.rstrip("/") == HOME.rstrip("/")}
+                   "tienda_a_portada": code == 200 and url.rstrip("/") != HOME.rstrip("/")
+                   and final.rstrip("/") == HOME.rstrip("/")}
             out.write(json.dumps(rec, ensure_ascii=False) + "\n")
             out.flush()
             n += 1
