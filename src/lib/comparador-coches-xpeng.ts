@@ -529,4 +529,85 @@ export const COCHES_XPENG: CocheComparador[] = [
       }
     ],
   },
+  {
+    // Radar 29/10/2026 15:58 CEST — XPeng MONA L05: lanzamiento en China 29/10/2026.
+    // Precio oficial de lanzamiento en China: guía 144.800-176.800 yuanes;
+    // con la rebaja por reserva (5.000 yuanes de señal antes del 15/12/2026),
+    // 139.800-171.800 yuanes. Conversión a euros con el factor de la web
+    // (1 CNY = 0,1325 EUR): desde ~18.500 €, marcado en aprox.
+    // Fuentes: CnEVPost (lanzamiento 29/10/2026 y envíos globales 26/10/2026),
+    // CarNewsChina (versiones, precios y WLTP convertidos 29/10/2026),
+    // testcoches.es (baterías, Europa principios de 2027).
+    // Cero cifras inventadas: lo no publicado (0-100, velocidad máx., peso,
+    // consumo WLTP, par, potencia de carga, EuroNCAP, precio y fecha para
+    // España, garantía de batería) queda en null/omitido.
+    id: "xpeng-mona-l05-2026-precio-ficha-tecnica",
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagenOficial: "/media/xpeng-mona-l05-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "/media/xpeng-mona-l05-2026-precio-ficha-tecnica-interior.webp",
+    videoId: null,
+    videoCanal: null,
+    marca: "XPeng",
+    modelo: "MONA L05",
+    tipo: "Eléctrico",
+    categoria: "SUV",
+    precioDesde: 18500,
+    potenciaCv: 249,
+    autonomiaKm: 635,
+    maleteroL: 702,
+    ceroCien: null,
+    velocidadMax: null,
+    bateriaKwh: 71.1,
+    cargaRapidaKw: null,
+    etiquetaDgt: "Cero",
+    pros: [
+      "Desde 139.800 yuanes con la promoción de lanzamiento (~18.500 € al cambio): un SUV de 4,87 m por precio de compacto eléctrico en China",
+      "Dos formas de viajar: eléctrico puro con hasta 635 km CLTC o autonomía extendida con 1.310 km combinados y 310 km eléctricos",
+      "Maletero de 702 litros (1.913 con los asientos abatidos) más frunk de 102 litros en la versión eléctrica",
+      "Chips Turing propios: 750 TOPS en las Max y 1.500 TOPS con dos chips en las Ultra SE, con VLA de segunda generación",
+      "Envíos globales ya en marcha a 65 países y regiones, con versiones de volante a izquierda y derecha desde el inicio"
+    ],
+    contras: [
+      "El precio chino no es el europeo: con aranceles, transporte y homologación, en España costará bastante más (el L03 pasó de 123.800 yuanes a 35.600 € en Alemania)",
+      "Sin precio ni fecha para España: Europa se anuncia para principios de 2027, sin calendario por países",
+      "Sin prueba EuroNCAP publicada: solo el objetivo de desarrollo a 5 estrellas, no una puntuación real",
+      "Autonomías en ciclo chino CLTC, más optimista que el WLTP: la conversión publicada deja el eléctrico en 439-521 km WLTP",
+      "La versión de autonomía extendida usa un motor 1.5 de gasolina como generador: no es un eléctrico puro, aunque circule en modo eléctrico"
+    ],
+    largoMm: 4870,
+    anchoMm: 1930,
+    altoMm: 1636,
+    pesoKg: null,
+    consumo: null,
+    consumoUnidad: "kWh/100 km",
+    plazas: 5,
+    parNm: null,
+    traccion: "Trasera",
+    emisionesCo2: null,
+    aprox: ["precioDesde"],
+    imagen: "/media/xpeng-mona-l05-2026-precio-ficha-tecnica-hero.webp",
+    opiniones: [],
+    galeria: [
+      {
+        src: "/media/xpeng-mona-l05-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "XPeng MONA L05 plateado circulando por una carretera junto al agua, vista tres cuartos delantera (foto oficial de XPeng, vía CnEVPost)",
+        ancho: 800,
+        alto: 450
+      },
+      {
+        src: "/media/xpeng-mona-l05-2026-precio-ficha-tecnica-hero.webp",
+        alt: "XPeng MONA L05 plateado de perfil en una calle urbana (foto oficial de XPeng, vía CarNewsChina)",
+        ancho: 800,
+        alto: 450
+      },
+      {
+        src: "/media/xpeng-mona-l05-2026-precio-ficha-tecnica-interior.webp",
+        alt: "Interior del XPeng MONA L05 con pantalla de techo trasera de 17,3 pulgadas y asientos claros (foto oficial de XPeng, vía CarNewsChina)",
+        ancho: 800,
+        alto: 450
+      }
+    ],
+  },
 ];
