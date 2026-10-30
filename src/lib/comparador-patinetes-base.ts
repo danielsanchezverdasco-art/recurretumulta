@@ -2252,6 +2252,47 @@ export const PATINETES_BASE: PatineteComparador[] = [
   fuenteUrl: "https://apolloscooters.co/pages/tech-specs-power-riding-modes-terrain-apollo-air-2023-24"
 },
   {
+  id: "niu-kqi1",
+  videoId: null,
+  videoCanal: null,
+  marca: "Niu",
+  modelo: "KQi1 Pro",
+  precioEur: 199,
+  potenciaNominalW: 250,
+  potenciaPicoW: 450,
+  autonomiaKm: 25,
+  autonomiaRealKm: 17,
+  velocidadMaxKmh: 25,
+  pesoKg: 15.4,
+  cargaMaxKg: 100,
+  tiempoCargaH: 5,
+  bateriaWh: 243,
+  frenos: "Freno de tambor delantero + freno electrónico trasero (E-ABS)",
+  neumaticos: "Neumáticos de 9″ x 2,3″",
+  certificadoDgt: null,
+  foto: "/media/patinetes/niu-kqi1.webp",
+  aprox: ["autonomiaRealKm", "bateriaWh"],
+  pros: [
+    "Precio imbatible en oferta: 199 € en El Corte Inglés (PVP oficial 399 €)",
+    "Muy ligero: 15,4 kg, fácil de cargar y plegar",
+    "Doble sistema de frenado: tambor delantero fiable + electrónico trasero",
+    "App NIU con bloqueo inteligente, estadísticas y modo personalizado",
+    "Neumáticos anchos de 9″ y chasis de acero de grado automotriz",
+    "Cuatro modos de conducción (E-Save, Sport, Custom y Peatón)"
+  ],
+  contras: [
+    "Potencia nominal de solo 250 W: flojo en cuestas (14% máximo declarado)",
+    "Batería pequeña (243 Wh): autonomía real de unos 17 km",
+    "Sin suspensión: depende de los neumáticos para absorber baches",
+    "Ruedas de 9″, menores que las 10″ de la mayoría de rivales",
+    "Sin evidencia pública de certificado DGT: verifica la placa antes de comprar",
+    "El precio de 199 € es oferta puntual; el PVP habitual es 399 €"
+  ],
+  veredicto: "El Niu KQi1 Pro es el patinete más barato de marca seria si lo pillas en oferta, pero sus 250 W se quedan cortos en cuestas y su batería da para trayectos cortos. Compáralo con el Niu KQi2 Pro del comparador para ver si te compensa subir de gama.",
+  fuenteNombre: "El Corte Inglés + NIU EU",
+  fuenteUrl: "https://www.elcorteingles.es/electronica/A50811074-patinete-electrico-niu-kqi1-pro-gris-negro/"
+},
+  {
   id: "navee-n40",
   videoId: null,
   videoCanal: null,
@@ -3269,7 +3310,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   bateriaWh: 2880,
   frenos: "Disco hidráulicos NUTT 160 mm (delantero y trasero)",
   neumaticos: '11" ultra-anchas tubeless',
-  certificadoDgt: true,
+  certificadoDgt: false,
   foto: "/media/patinetes/dualtron-thunder-2.webp",
   aprox: ["autonomiaRealKm", "precioEur"],
   pros: ["Su propulsión conjunta alcanza 10.080 W en puntas, empuje reservado a muy pocos patinetes de serie", "El bloque LG reúne 2.880 Wh con 72 V y 40 Ah: aval de los 170 km anunciados y de los 115 estimados en uso corriente", "Detenerlo corre a cargo de pinzas NUTT hidráulicas mordiendo discos de 160 mm delante y detrás", "Calza cubiertas tubeless ultraanchas de 11 pulgadas, con más huella de contacto que las estrechas habituales", "La pantalla EY4 enlaza con la aplicación de Minimotors y deja ajustar modos de conducción al gusto"],
@@ -3337,7 +3378,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   bateriaWh: 2520,
   frenos: "Disco hidráulicos 160 mm + ABS (delantero y trasero)",
   neumaticos: '11" con cámara (calle o todoterreno)',
-  certificadoDgt: true,
+  certificadoDgt: false,
   foto: "/media/patinetes/kaabo-wolf-king-gt-pro.webp",
   aprox: ["autonomiaRealKm", "pesoKg", "tiempoCargaH", "precioEur"],
   pros: ["Pantalla TFT a color de 4,2 pulgadas con clave de acceso y acelerador de pulgar, el salto del GT Pro frente al EY3 de los Wolf anteriores", "Dos controladoras de onda sinusoidal de 50 A que entregan los 8.400 W de pico con una respuesta mucho más progresiva que los Minimotors de gatillo", "Pack de 2.520 Wh con celdas 21700 LG M50 o Samsung 50E bajo la plataforma: Kaabo declara 180 km en modo eco con un solo motor", "Horquilla hidráulica patentada delante y muelle trasero en forma de C, un conjunto pensado para pista y tierra, no para bordillos urbanos", "Chasis de aluminio forjado 6082-T6 en negro o dorado, doble foco delantero, tiras LED en la base y bocina de moto", "Admite pilotos de hasta 150 kg y anuncia pendientes del 50°, cifras de gama alta incluso entre los hiperpatinetes de doble motor"],
@@ -4622,7 +4663,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     bateriaWh: 360,
     frenos: "Tambor delantero + E-ABS trasero",
     neumaticos: "10\" tubeless de baja resistencia a la rodadura",
-    certificadoDgt: true,
+    certificadoDgt: null,
     foto: "/media/patinetes/xiaomi-5-elite.webp",
     aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: [
@@ -4749,7 +4790,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     bateriaWh: 451.2,
     frenos: "Disco delantero + regenerativo",
     neumaticos: "9.5\" tubeless",
-    certificadoDgt: true,
+    certificadoDgt: null,
     foto: "/media/patinetes/niu-kqi-air.webp",
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -4832,7 +4873,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     bateriaWh: 1040,
     frenos: "Disco trasero",
     neumaticos: "10\" neumáticos",
-    certificadoDgt: true,
+    certificadoDgt: false,
     foto: "/media/patinetes/dualtron-popular.webp",
     aprox: ["autonomiaRealKm", "potenciaNominalW", "cargaMaxKg", "tiempoCargaH", "bateriaWh"],
     pros: [
@@ -5025,7 +5066,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     bateriaWh: 720,
     frenos: "Doble disco de 140 mm + electrónico",
     neumaticos: "11\" neumáticos off-road",
-    certificadoDgt: true,
+    certificadoDgt: null,
     foto: "/media/patinetes/isinwheel-gt2.webp",
     aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: [
@@ -5324,7 +5365,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     bateriaWh: 243,
     frenos: "Freno de tambor delantero + frenada regenerativa trasera",
     neumaticos: "Neumáticos hinchables de 9,5 pulgadas",
-    certificadoDgt: true,
+    certificadoDgt: false,
     foto: "/media/patinetes/niu-kqi-100f.webp",
     aprox: ["autonomiaRealKm", "velocidadMaxKmh"],
     pros: [
@@ -5366,7 +5407,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     bateriaWh: 540,
     frenos: "Doble freno de tambor + ABS + EBS",
     neumaticos: "Delantero tubeless de 9\" + trasero macizo de 9\"",
-    certificadoDgt: true,
+    certificadoDgt: false,
     foto: "/media/patinetes/dualtron-dolphin.webp",
     aprox: ["autonomiaRealKm", "velocidadMaxKmh"],
     pros: [
@@ -5853,7 +5894,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     bateriaWh: 1081,
     frenos: "Frenos de disco hidráulicos delanteros y traseros + regenerativo",
     neumaticos: "10 x 3 pulgadas tubeless",
-    certificadoDgt: true,
+    certificadoDgt: false,
     foto: "/media/patinetes/teverun-fighter-mini.webp",
     aprox: ["autonomiaRealKm", "bateriaWh", "precioEur"],
     pros: [
