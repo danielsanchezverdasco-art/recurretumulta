@@ -3,6 +3,7 @@ import subprocess,re,collections,sys,json
 R,LIVE,B,M=sys.argv[1:5]
 sh=lambda *a: subprocess.run(a,capture_output=True,text=True,cwd=R).stdout
 def W(t):
+    t=re.sub(r'(?i)redacci[oó]n (?:de )?(?:recurretumulta\.online|merl[ií]n)|merl[ií]n','redaccionrtm',t); t=re.sub(r'/media/[^\s"\'`)]+|\b[\w.-]+\.(?:webp|jpe?g|png|avif)\b',' ',t)  # 31/10: renombre mecánico de autoría y rutas de imagen no son prosa
     t=re.sub(r'<[^>]+>|\\n|https?://\S+',' ',t); t=re.sub(r'[A-Za-z_]\w*\s*:\s*(?=["\'`])',' | ',t); t=re.sub(r'(\d)\.(\d{3})',r'\1\2',t); return re.findall(r'[a-záéíóúñü0-9]+',t.lower())
 def G(t):
     w=W(t); return {' '.join(w[i:i+8]) for i in range(len(w)-7)}
