@@ -4450,3 +4450,7 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/leapmotor-b10-reev-2026-precio-ficha-tecnica-foto5.webp | https://commons.wikimedia.org/wiki/File:Leapmotor_B10_IAA_2025_DSC_1468.jpg | Alexander-93 vía Wikimedia Commons | CC BY-SA 4.0 |
 | /media/audi-q3-e-hybrid-2026-precio-ficha-tecnica-foto1.webp | https://commons.wikimedia.org/wiki/File:Audi_Q3_1.5_TFSI_e-hybrid_S_line_(FJ)_%E2%80%93_f_29032026.jpg | © M 93 vía Wikimedia Commons | CC BY-SA 3.0 de |
 | /media/audi-q3-e-hybrid-2026-precio-ficha-tecnica-foto2.webp | https://commons.wikimedia.org/wiki/File:Audi_Q3_1.5_TFSI_e-hybrid_S_line_(FJ)_%E2%80%93_h_29032026.jpg | © M 93 vía Wikimedia Commons | CC BY-SA 3.0 de |
+| /media/omoda-9-shs-precio-ficha-tecnica-oficial.webp | https://www.omodajaecoo.es/ | Omoda (foto de prensa oficial; URL exacta de origen no registrada) | prensa |
+| /media/omoda-9-shs-precio-ficha-tecnica-hero.webp | https://www.omodajaecoo.es/ | Omoda (foto de prensa oficial; URL exacta de origen no registrada) | prensa |
+| /media/omoda-9-shs-precio-ficha-tecnica-interior-oficial.webp | https://www.omodajaecoo.es/ | Omoda (foto de prensa oficial; URL exacta de origen no registrada) | prensa |
+| /media/omoda-9-shs-precio-ficha-tecnica-galeria-4.webp | https://www.omodajaecoo.es/ | Omoda (foto de prensa oficial; URL exacta de origen no registrada) | prensa |

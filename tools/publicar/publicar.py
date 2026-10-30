@@ -365,7 +365,7 @@ def f_build(c):
         cmd = [sys.executable if x == "python3" else x for x in cmd]
         c.say("  paso: " + " ".join(os.path.basename(x) if i == 0 else x for i, x in enumerate(cmd[:3])))
         c.run(cmd, cwd=cwd, quiet=True)
-    c.ok("postproceso (17 pasos) OK")
+    c.ok("postproceso (18 pasos) OK")
     dirty = [l for l in c.git("status", "--porcelain").splitlines() if l.strip()]
     malos = [l for l in dirty if not DIRT_OK.search(l[3:].strip().strip('"'))]
     if malos: c.abort("El build ha modificado ficheros fuente inesperados: " + "; ".join(malos[:6]))
