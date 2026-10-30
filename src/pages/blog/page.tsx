@@ -281,7 +281,7 @@ function BlogPage() {
                             onError={(e) => {
                               // Fallback a la original si el thumbnail no existe
                               const t = e.currentTarget;
-                              if (!t.dataset.fb) {
+                              if (!t.dataset.fb && !(window as any).__PRERENDER__) {
                                 t.dataset.fb = "1";
                                 t.src = heroSrc;
                               }

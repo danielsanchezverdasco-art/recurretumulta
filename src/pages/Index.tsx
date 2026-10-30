@@ -1238,7 +1238,8 @@ function $() {
                                       className: `h-full w-full object-cover`,
                                       onError: (e) => {
                                         let n = e.currentTarget;
-                                        n.dataset.fb ||
+                                        (window as any).__PRERENDER__ ||
+                                          n.dataset.fb ||
                                           ((n.dataset.fb = `1`), (n.src = t));
                                       },
                                     })

@@ -34,6 +34,7 @@
     window.addEventListener("error", function (e) {
       var t = e.target;
       if (!t || t.tagName !== "IMG") return;
+      if (window.__PRERENDER__) return; // 31/10/2026: en el prerender NO se hornea el fallback OG (parpadeo de imagen al cargar)
       var s = t.getAttribute("src") || "";
       if (s.indexOf("/media/") < 0 || s.indexOf("/media/og-") >= 0 || t.dataset.fb === "og") return;
       t.removeAttribute("srcset");
