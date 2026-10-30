@@ -4443,3 +4443,10 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/xpeng-mona-l05-2026-hero.webp | https://cnevpost.com/2026/10/26/xpeng-starts-global-shipments-mona-l05/ | XPeng, vía CnEVPost | desconocida |
 | /media/xpeng-mona-l05-2026-interior.webp | https://cnevpost.com/2026/10/26/xpeng-starts-global-shipments-mona-l05/ | XPeng, vía CnEVPost | desconocida |
 | /media/xpeng-mona-l05-2026-oficial.webp | https://cnevpost.com/2026/10/26/xpeng-starts-global-shipments-mona-l05/ | XPeng, vía CnEVPost | desconocida |
+| /media/leapmotor-b10-reev-2026-precio-ficha-tecnica-foto1.webp | https://commons.wikimedia.org/wiki/File:Leapmotor_B10_Design_Pro_Max_%E2%80%93_f_25012026.jpg | © M 93 vía Wikimedia Commons | CC BY-SA 3.0 de |
+| /media/leapmotor-b10-reev-2026-precio-ficha-tecnica-foto2.webp | https://commons.wikimedia.org/wiki/File:Leapmotor_B10_Design_Pro_Max_%E2%80%93_h_25012026.jpg | © M 93 vía Wikimedia Commons | CC BY-SA 3.0 de |
+| /media/leapmotor-b10-reev-2026-precio-ficha-tecnica-foto3.webp | https://commons.wikimedia.org/wiki/File:Leapmotor_B10_IAA_2025_DSC_2069.jpg | Alexander-93 vía Wikimedia Commons | CC BY-SA 4.0 |
+| /media/leapmotor-b10-reev-2026-precio-ficha-tecnica-foto4.webp | https://commons.wikimedia.org/wiki/File:Leapmotor_B10_Lighting_White.jpg | Ethan Llamas vía Wikimedia Commons | CC BY-SA 4.0 |
+| /media/leapmotor-b10-reev-2026-precio-ficha-tecnica-foto5.webp | https://commons.wikimedia.org/wiki/File:Leapmotor_B10_IAA_2025_DSC_1468.jpg | Alexander-93 vía Wikimedia Commons | CC BY-SA 4.0 |
+| /media/audi-q3-e-hybrid-2026-precio-ficha-tecnica-foto1.webp | https://commons.wikimedia.org/wiki/File:Audi_Q3_1.5_TFSI_e-hybrid_S_line_(FJ)_%E2%80%93_f_29032026.jpg | © M 93 vía Wikimedia Commons | CC BY-SA 3.0 de |
+| /media/audi-q3-e-hybrid-2026-precio-ficha-tecnica-foto2.webp | https://commons.wikimedia.org/wiki/File:Audi_Q3_1.5_TFSI_e-hybrid_S_line_(FJ)_%E2%80%93_h_29032026.jpg | © M 93 vía Wikimedia Commons | CC BY-SA 3.0 de |

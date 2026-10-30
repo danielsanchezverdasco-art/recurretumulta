@@ -97,7 +97,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-hero.webp",
+    imagenOficial: "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-foto1.webp",
     imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
@@ -139,7 +139,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: null,
     aprox: [],
-    imagen: "",
+    imagen: "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-foto5.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 4.5,
@@ -154,23 +154,35 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "",
-        "alt": "Leapmotor B10 REEV, vista de estudio",
-        "ancho": 1920,
-        "alto": 1280
+        "src": "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-foto1.webp",
+        "alt": "Leapmotor B10, vista frontal tres cuartos",
+        "ancho": 1600,
+        "alto": 911
       },
       {
-        "src": "",
-        "alt": "Leapmotor B10 REEV en carretera de costa",
-        "ancho": 1920,
-        "alto": 1280
+        "src": "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-foto2.webp",
+        "alt": "Leapmotor B10, vista trasera tres cuartos",
+        "ancho": 1600,
+        "alto": 929
       },
       {
-        "src": "",
-        "alt": "Interior del Leapmotor B10 REEV",
-        "ancho": 1920,
-        "alto": 1280
-      }
+        "src": "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-foto3.webp",
+        "alt": "Leapmotor B10, trasera, azul",
+        "ancho": 1600,
+        "alto": 973
+      },
+      {
+        "src": "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-foto4.webp",
+        "alt": "Leapmotor B10, en color blanco",
+        "ancho": 1600,
+        "alto": 900
+      },
+      {
+        "src": "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-foto5.webp",
+        "alt": "Leapmotor B10, en una presentación",
+        "ancho": 1600,
+        "alto": 1069
+      },
     ],
   },
   {
