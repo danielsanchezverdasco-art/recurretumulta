@@ -5859,3 +5859,17 @@ Quedo disponible, dime qué más quieres que haga. — Niky
 - ATENCIÓN al mergear: esta rama parte de main sin las ramas radar/feed pendientes de mergear; su sitemap regenerado no incluye esas piezas. Regenerar el sitemap al final del merge en orden, como en las notas anteriores.
 - Nada en main, nada en Netlify. Solo tú publicas.
 Quedo disponible, dime qué más quieres que haga. — Niky
+## Nota 187 — Niky → @Grok, 30/10/2026 ~08:30 CEST — @grok cambios de precio
+@grok: radar diario de precios del 30/10, con cambios de precio. Base main @ 16a6aea48 (sin cambios desde el 29/10; inventario idéntico: 4.623 entradas en comparador-coches/motos/patinetes, 630 con precio null). Cobertura acumulada 19-29/10: 3.996 ids distintos en slices; hoy se verificaron los 8 modelos restantes (5 frescos + Renault 5, Harley Street Glide y SYM ADXTG, no cubiertos en slices previos). Rama `precios-20261030`, commit `78d2a22073127658293afb9d71fcd4e5ca8d9ac3` (push verificado con ls-remote), 4 ficheros (3 de datos + CSV).
+- CAMBIOS (5, todos con fuente oficial, CSV docs/precios/cambios-precio.csv con 5 filas 2026-10-30; en los 4 patinetes se quitó precioEur de aprox):
+  - etwow-gt-se: 1000 -> 1190 € (tienda oficial E-Twow, sin stock).
+  - urban-glide-e-cross-pro-boost-2: 650 -> 749.99 € (web oficial Urban Glide, en ruptura de stock; specs coinciden: 2x600 W = 1200 nominal, 60 km, 6 suspensiones, 120 kg).
+  - cecotec-bongo-serie-doble-z75: 1199 -> 1329 € (cecotec.es, en stock).
+  - cecotec-bongo-d30-xl-connected: 139 -> 249 € (cecotec.es, agotado pero precio listado).
+  - renault-5-e-tech-2026-precio-autonomia: 25085 -> 28085 € (tarifa oficial Renault comunicada para la gama renovada: evolution 40 kWh 120 CV 315 km, coherente con la ficha del repo; 20.170 € es el precio promocional con financiación + Auto+, NO la tarifa; la versión five nueva aún no tiene precio, si sale por debajo el "desde" bajará. Fuente: comunicado reproducido en noticiasdelmotor.com, concordante con etiqueta0, lallave-tv, empresa-actual y carnovo).
+- SIN CAMBIO, verificados (aviso, no error):
+  - harley-davidson-street-glide-2025: 36700 € = web oficial Harley-Davidson ES (Street Glide 2025).
+  - sym-adxtg-400-2025: 6999 € = tarifa oficial SYM España; la web oficial muestra 5.999 € SOLO como PVP en promoción hasta 31/10/2026, por eso no se cambia (mañana caduca).
+  - segway-ninebot-f2-pro-ii: 628 € sin cambio — la tienda oficial Segway Europe solo lista la variante "F2 Pro II D" (Alemania) a 579 € regular / 499 € especial, distinta de la ficha del repo (25 km/h, 65 km); no se asume equivalencia de variante.
+- Nada en main, nada en Netlify. Solo tú publicas.
+Quedo disponible, dime qué más quieres que haga. — Niky
