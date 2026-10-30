@@ -1425,6 +1425,7 @@ export const HISTORIA_MODELOS: Record<string, HistoriaModelo> = {
   "li-auto-l9-2026-precio-ficha-tecnica": { lanzamiento: 2026, hitos: [{ anio: 2026, tipo: "lanzamiento", cambio: null, foto: null }] },
   "li-auto-mega-2026-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2024, tipo: "lanzamiento", cambio: null, foto: null }, { anio: 2026, tipo: "restyling", cambio: "restyling/facelift de mitad de ciclo", foto: null }] },
   "li-auto-i6-2025-precio-ficha-tecnica": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: null }] },
+  "li-auto-i6-2026-precio-ficha-tecnica": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: null }, { anio: 2026, tipo: "restyling", cambio: "año modelo 2026: batería propia de 96 kWh, chip Mach M100 y faros ADB", foto: null }] },
   "li-auto-i9-2026-precio-ficha-tecnica": { lanzamiento: 2026, hitos: [{ anio: 2026, tipo: "lanzamiento", cambio: null, foto: null }] },
   "luxeed-s7-2026-precio-ficha-tecnica": { lanzamiento: 2023, hitos: [{ anio: 2023, tipo: "lanzamiento", cambio: null, foto: null }, { anio: 2025, tipo: "restyling", cambio: "restyling/facelift de mitad de ciclo", foto: null }] },
   "luxeed-v9-2026-precio-ficha-tecnica": { lanzamiento: 2026, hitos: [{ anio: 2026, tipo: "lanzamiento", cambio: null, foto: null }] },

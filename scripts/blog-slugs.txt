@@ -2286,6 +2286,7 @@ lexus-rz-550e-2025-precio-ficha-tecnica
 lexus-ux-300e-2024-precio-ficha-tecnica
 lexus-ux-300h-2026-precio-ficha-tecnica
 li-auto-i6-2025-precio-ficha-tecnica
+li-auto-i6-2026-precio-ficha-tecnica
 li-auto-i8-suv-electrico-6-plazas-precio-2026
 li-auto-i9-2026-precio-ficha-tecnica
 li-auto-l6-ficha-tecnica-precio
