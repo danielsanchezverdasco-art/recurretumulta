@@ -4,6 +4,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   blog: {
     "e-zi-miniscooter-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m1.ts"),
     "ebro-s400-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp11.ts"),
+    "ebro-s400-2027-224-cv-hibrido-eco": () => import("../blog-posts-octubre-2026.ts"),
     "ebro-s400-excellence-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp11.ts"),
     "ebro-s400-hibrido-precio-ficha-tecnica": () => import("../blog-posts-motor-nuevos-f.ts"),
     "ebro-s700-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp11.ts"),

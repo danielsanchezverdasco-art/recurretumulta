@@ -8,6 +8,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "ac-cobra-gt-roadster-2025-precio-ficha-tecnica": () => import("../blog-posts-lote4.ts"),
     "accesorios-caravana-autocaravana-virales-gadgets-chinos-2026": () => import("../blog-posts-accesorios.ts"),
     "accesorios-patinete-electrico-silla-bebe-gadgets-2026": () => import("../blog-posts-accesorios.ts"),
+    "acer-es-series-3-advance": () => import("../blog-posts-patinetes-ord2033.ts"),
     "acer-es-series-5-advance": () => import("../blog-posts-patinetes-exp-p10.ts"),
     "adelantar-ciclistas-nueva-norma-octubre": () => import("../blog-posts-db.ts"),
     "adria-action-361-lh-2026-precio-ficha-tecnica": () => import("../blog-posts-caravanas-lote1.ts"),
@@ -228,6 +229,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "audi-q2-2025-precio-ficha-tecnica": () => import("../blog-posts-audi-a.ts"),
     "audi-q3-2025-precio-ficha-tecnica": () => import("../blog-posts-audi-a.ts"),
     "audi-q3-e-hybrid-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp7.ts"),
+    "audi-q3-e-hybrid-204-cv-precio-espana-2026": () => import("../blog-posts-radar-20261027-1358.ts"),
     "audi-q3-sportback-35-tfsi-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp21.ts"),
     "audi-q3-sportback-tdi-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp7.ts"),
     "audi-q4-e-tron-2025-precio-ficha-tecnica": () => import("../blog-posts-audi-a.ts"),
@@ -279,6 +281,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "avatr-11-2024-precio-ficha-tecnica": () => import("../blog-posts-batch2b-1.ts"),
     "avatr-12-2024-precio-ficha-tecnica": () => import("../blog-posts-batch2b-1.ts"),
     "avatr-changan-huawei-catl-06t-t09": () => import("../blog-posts-modelos-desconocidos.ts"),
+    "avatr-espana-2027-06t-07l-lanzamiento": () => import("../blog-posts-radar-20261021.ts"),
   },
   coche: {
     "abarth-500e-2025-precio-ficha-tecnica": () => import("../comparador-coches-exp10.ts"),

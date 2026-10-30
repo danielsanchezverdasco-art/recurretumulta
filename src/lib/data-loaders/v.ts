@@ -28,6 +28,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "vinfast-vf-7-2026-precio-ficha": () => import("../blog-posts-lote3.ts"),
     "vinfast-vf-7-2026-precio-ficha-tecnica": () => import("../blog-posts-batch2b-5.ts"),
     "vmoto-cpx-explorer-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m1.ts"),
+    "vmoto-off-r-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-ord2033.ts"),
     "vmoto-stash-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m5.ts"),
     "vmoto-tc-max-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m18.ts"),
     "vmoto-vs2-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m1.ts"),

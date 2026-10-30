@@ -110,6 +110,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "porsche-911-gt3-rs-2025-precio-ficha-tecnica": () => import("../blog-posts-porsche-a.ts"),
     "porsche-911-targa-4-gts-2026-precio-ficha-tecnica": () => import("../blog-posts-porsche-a.ts"),
     "porsche-911-turbo-s-2026-precio-ficha-tecnica": () => import("../blog-posts-porsche-a.ts"),
+    "porsche-975-rse-formula-e-gen4-monza": () => import("../blog-posts-radar-20261021.ts"),
     "porsche-cayenne-2026-precio-ficha-tecnica": () => import("../blog-posts-porsche-a.ts"),
     "porsche-cayenne-coupe-2026-precio-ficha-tecnica": () => import("../blog-posts-porsche-a.ts"),
     "porsche-cayenne-e-hybrid-2026-precio-ficha-tecnica": () => import("../blog-posts-porsche-a.ts"),

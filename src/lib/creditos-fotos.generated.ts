@@ -1749,5 +1749,40 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "km77 (foto oficial de prensa BMW)",
 "licencia": "prensa",
 "url": "https://www.km77.com/coches/bmw/i7/2026/estandar/informacion"
+},
+"/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-foto1.webp": {
+"autor": "© M 93 vía Wikimedia Commons",
+"licencia": "CC BY-SA 3.0 de",
+"url": "https://commons.wikimedia.org/wiki/File:Leapmotor_B10_Design_Pro_Max_%E2%80%93_f_25012026.jpg"
+},
+"/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-foto2.webp": {
+"autor": "© M 93 vía Wikimedia Commons",
+"licencia": "CC BY-SA 3.0 de",
+"url": "https://commons.wikimedia.org/wiki/File:Leapmotor_B10_Design_Pro_Max_%E2%80%93_h_25012026.jpg"
+},
+"/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-foto3.webp": {
+"autor": "Alexander-93 vía Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Leapmotor_B10_IAA_2025_DSC_2069.jpg"
+},
+"/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-foto4.webp": {
+"autor": "Ethan Llamas vía Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Leapmotor_B10_Lighting_White.jpg"
+},
+"/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-foto5.webp": {
+"autor": "Alexander-93 vía Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Leapmotor_B10_IAA_2025_DSC_1468.jpg"
+},
+"/media/audi-q3-e-hybrid-2026-precio-ficha-tecnica-foto1.webp": {
+"autor": "© M 93 vía Wikimedia Commons",
+"licencia": "CC BY-SA 3.0 de",
+"url": "https://commons.wikimedia.org/wiki/File:Audi_Q3_1.5_TFSI_e-hybrid_S_line_(FJ)_%E2%80%93_f_29032026.jpg"
+},
+"/media/audi-q3-e-hybrid-2026-precio-ficha-tecnica-foto2.webp": {
+"autor": "© M 93 vía Wikimedia Commons",
+"licencia": "CC BY-SA 3.0 de",
+"url": "https://commons.wikimedia.org/wiki/File:Audi_Q3_1.5_TFSI_e-hybrid_S_line_(FJ)_%E2%80%93_h_29032026.jpg"
 }
 };

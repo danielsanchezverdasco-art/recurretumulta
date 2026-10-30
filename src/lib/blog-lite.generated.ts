@@ -1900,7 +1900,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "audi-s3-2025-precio-ficha-tecnica",
     "title": "Audi S3 Sportback: 333 CV por 67.620 €",
-    "excerpt": "El Audi S3 Sportback cuesta 67.620 € con 333 CV, tracción quattro y 0-100 en 4,7 s: el compacto deportivo con distribuidor de par trasero.",
+    "excerpt": "El Audi S3 Sportback cuesta 69.390 € con 333 CV, tracción quattro y 0-100 en 4,7 s: el compacto deportivo con distribuidor de par trasero.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -2071,7 +2071,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "audi-q7-2025-precio-ficha-tecnica",
     "title": "Audi Q7 45 TDI: 7 plazas desde 86.940 €",
-    "excerpt": "El Audi Q7 45 TDI parte de 86.940 € con 231 CV, 7 plazas, 867 L de maletero y etiqueta ECO: el SUV familiar grande de Audi.",
+    "excerpt": "El Audi Q7 45 TDI parte de 86.940 € con 231 CV, 7 plazas opcionales, 867 L de maletero y etiqueta ECO: el SUV familiar grande de Audi.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -26754,6 +26754,44 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 6
   },
   {
+    "slug": "nhtsa-luces-cian-vehiculos-autonomos-2026",
+    "title": "Luces cian para coches autónomos: la NHTSA propone el color",
+    "excerpt": "La NHTSA propone luces cian opcionales para señalar cuándo conduce un sistema automatizado y no una persona, dentro de la norma FMVSS 108.",
+    "category": "Novedades Motor",
+    "date": "2026-10-28",
+    "locale": "all",
+    "heroSrc": "/media/nhtsa-luces-cian-vehiculos-autonomos-hero.webp",
+    "heroAlt": "Ilustración de un coche autónomo de noche con tiras de luz cian encendidas",
+    "keywords": [
+      "luces cian coches autónomos",
+      "NHTSA luces cian",
+      "FMVSS 108",
+      "coche autónomo señal luminosa",
+      "robotaxi luz cian",
+      "conducción automatizada color"
+    ],
+    "readTime": 10
+  },
+  {
+    "slug": "volkswagen-nivel-3-china-hefei-pruebas-2026",
+    "title": "Volkswagen prueba coches de nivel 3 en las calles de China",
+    "excerpt": "Volkswagen ya prueba vehículos con nivel 3 en vías públicas de Hefei (China): el permiso solo cubre pruebas y datos, no la venta de coches autónomos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-28",
+    "locale": "all",
+    "heroSrc": "/media/volkswagen-nivel-3-china-hefei-pruebas-hero.webp",
+    "heroAlt": "Ilustración de un coche eléctrico de pruebas con sensores circulando solo por una avenida de una ciudad china al atardecer",
+    "keywords": [
+      "Volkswagen nivel 3 China",
+      "conducción autónoma nivel 3",
+      "Volkswagen Hefei pruebas",
+      "nivel 3 coche autónomo",
+      "CARIZON Hyper Sense 8",
+      "coches autónomos China 2026"
+    ],
+    "readTime": 10
+  },
+  {
     "slug": "ferrari-12cilindri-2025-precio-ficha-tecnica",
     "title": "Ferrari 12Cilindri: 830 CV de V12 atmosférico puro",
     "excerpt": "El Ferrari 12Cilindri mantiene vivo el V12 atmosférico: 830 CV, 9.500 rpm, 0-100 en 2,9 s y 340 km/h. Precio en España, ficha técnica y vídeo.",
@@ -36950,7 +36988,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "iveco-daily-2025-precio-furgon",
     "title": "Iveco Daily 2025: el furgón camión desde 48.280 €",
-    "excerpt": "Precio, ficha técnica y versiones del Iveco Daily 2025: 35S16H de 160 CV con 10,8 m³ de carga desde 48.280 €. El furgón de chasis de largueros.",
+    "excerpt": "Precio, ficha técnica y versiones del Iveco Daily 2025: 35S16H de 156 CV con 10,8 m³ de carga desde 48.280 €. El furgón de chasis de largueros.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36968,7 +37006,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "mercedes-e-vito-2025-precio-electrica",
     "title": "eVito: furgón eléctrico por 67.700 €",
-    "excerpt": "Precio, ficha técnica y autonomía del Mercedes eVito 2025: el furgón eléctrico con 116 CV, batería de 60 kWh y 365 km WLTP desde ~67.700 €.",
+    "excerpt": "Precio, ficha técnica y autonomía del Mercedes eVito 2025: el furgón eléctrico con 116 CV, batería de 60 kWh y 309 km WLTP desde ~67.700 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -64947,25 +64985,6 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 5
   },
   {
-    "slug": "nobo-concept-chino-suv-pickup-boton",
-    "title": "NOBO: el concept chino que pasa de SUV a pickup con un botón",
-    "excerpt": "El NOBO de NOBO Auto se transforma de SUV a pickup con un botón: asientos que giran 180°, mesa de picnic, máquina de café y TV oculta en el techo.",
-    "category": "Novedades Motor",
-    "date": "2026-10-18",
-    "locale": "es",
-    "heroSrc": "/media/nobo-concept-car.webp",
-    "heroAlt": "NOBO Concept Car: interior con consola central y trasera en modo pickup con la caja extendida",
-    "keywords": [
-      "nobo concept car",
-      "concept car chino nobo",
-      "nobo auto",
-      "suv pickup transformable",
-      "supercar blondie nobo",
-      "concept cars chinos"
-    ],
-    "readTime": 4
-  },
-  {
     "slug": "ebro-s400-2027-224-cv-hibrido-eco",
     "title": "Ebro S400 2027: 224 CV y 5,3 l/100 km con etiqueta ECO",
     "excerpt": "El nuevo Ebro S400 2027 estrena un híbrido 1.5 TGDI de 224 CV con etiqueta ECO y 5,3 l/100 km. Diseño renovado, más equipamiento, fabricado en Barcelona",
@@ -64983,25 +65002,6 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ebro s400 vs toyota c-hr"
     ],
     "readTime": 5
-  },
-  {
-    "slug": "coche-electrico-siete-veces-diesel-espana-septiembre-2026",
-    "title": "El coche eléctrico vende 7 veces más que el diésel en España",
-    "excerpt": "Septiembre de 2026 marca un hito: se matricularon 17.366 coches eléctricos frente a 2.363 diésel en España. Uno de cada tres turismos fue electrificado.",
-    "category": "Novedades Motor",
-    "date": "2026-10-19",
-    "locale": "all",
-    "heroSrc": "/media/electrico-vs-diesel-2026-hero.webp",
-    "heroAlt": "Coche eléctrico moderno cargando en una estación de carga rápida en una ciudad española",
-    "keywords": [
-      "coche eléctrico vende más que diésel",
-      "matriculaciones coches eléctricos septiembre 2026",
-      "fin era diésel españa",
-      "plan auto+ ayudas coche eléctrico",
-      "ventas coches eléctricos españa 2026",
-      "cuota diésel españa 2026"
-    ],
-    "readTime": 4
   },
   {
     "slug": "omoda-5-gasolina-2026-precio-ficha-tecnica",
@@ -77247,44 +77247,6 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 6
   },
   {
-    "slug": "grok-llega-tesla-espana-que-puede-hacer",
-    "title": "Grok llega a los Tesla en España: qué puede hacer por ti",
-    "excerpt": "Grok, la IA de xAI, ya funciona en los Tesla de España: asistente de voz en Model Y, 3, S y X con el software 2026.2.6. Qué hace y qué necesitas.",
-    "category": "Novedades Motor",
-    "date": "2026-10-20",
-    "locale": "all",
-    "heroSrc": "/media/grok-tesla-espana.webp",
-    "heroAlt": "Interior de un Tesla con el logotipo de Grok en la pantalla central",
-    "keywords": [
-      "Grok Tesla España",
-      "Grok en Tesla",
-      "asistente Grok Tesla",
-      "Tesla Grok IA voz",
-      "Tesla software 2026.2.6 Grok",
-      "Grok Model Y"
-    ],
-    "readTime": 3
-  },
-  {
-    "slug": "waymo-robotaxis-madrid-2027",
-    "title": "Waymo llega a Madrid: robotaxis autónomos desde 2027",
-    "excerpt": "Google despliega sus Jaguar I-PACE autónomos en Madrid, Alcobendas y Getafe: tres fases de pruebas y servicio abierto a usuarios en 2027.",
-    "category": "Actualidad",
-    "date": "2026-10-20",
-    "locale": "all",
-    "heroSrc": "/media/waymo-jaguar-i-pace-madrid-hero.webp",
-    "heroAlt": "Waymo Jaguar I-PACE robotaxi con LiDAR en el techo circulando por una calle urbana",
-    "keywords": [
-      "Waymo Madrid",
-      "robotaxis Madrid",
-      "robotaxi autónomo España",
-      "Waymo Jaguar I-PACE",
-      "coches autónomos Madrid 2027",
-      "Waymo España"
-    ],
-    "readTime": 5
-  },
-  {
     "slug": "avatr-espana-2027-06t-07l-lanzamiento",
     "title": "Avatr llega a España en 2027: los chinos de Huawei y CATL",
     "excerpt": "AVATR confirma su llegada a España: los eléctricos 06T y 07L tendrán coches de demostración en noviembre de 2026 y lanzamiento comercial en marzo-abril de 2027, junto a Noruega.",
@@ -77302,25 +77264,6 @@ export const BLOG_LITE: BlogLitePost[] = [
       "coches chinos España 2027"
     ],
     "readTime": 4
-  },
-  {
-    "slug": "omoda-x-concept-suv-china-2026",
-    "title": "Omoda X: el SUV chino con visión nocturna que será real",
-    "excerpt": "Omoda presenta el X, un SUV concept de estilo mecha con cámara térmica nocturna de 90 m, pantalla de 13,2\" y datos todoterreno reales: previsualiza un modelo de producción.",
-    "category": "Novedades Motor",
-    "date": "2026-10-21",
-    "locale": "all",
-    "heroSrc": "/media/omoda-x-concept-china-hero.webp",
-    "heroAlt": "Omoda X concept, SUV todoterreno con cámara térmica nocturna",
-    "keywords": [
-      "Omoda X",
-      "Omoda X concept",
-      "Omoda X precio",
-      "Omoda SUV nuevo",
-      "Omoda visión nocturna",
-      "SUV chino concept"
-    ],
-    "readTime": 3
   },
   {
     "slug": "porsche-975-rse-formula-e-gen4-monza",
@@ -77689,7 +77632,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-24",
     "locale": "all",
-    "heroSrc": "/media/renault-clio-rally5-2027-precio-ficha-tecnica-hero.webp",
+    "heroSrc": "/media/renault-clio-rally5-2027-hero.webp",
     "heroAlt": "Renault Clio VI, base del futuro Clio Rally5 2027, vista tres cuartos delantera en rojo",
     "keywords": [
       "Renault Clio Rally5 2027",
@@ -77743,13 +77686,13 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 13
   },
   {
-    "slug": "byd-seal-07-2027-segunda-generacion-interior-autonomia",
+    "slug": "byd-seal-07-2027-interior-autonomia",
     "title": "Nuevo BYD Seal 07 2027: 875 km CLTC, 408 CV y 5,08 m",
     "excerpt": "BYD enseña el interior de la segunda generación del Seal 07: 5,08 m, hasta 875 km CLTC, 408 CV y un habitáculo Ocean Rhythm con 20 altavoces Devialet.",
     "category": "Novedades Motor",
     "date": "2026-10-24",
     "locale": "all",
-    "heroSrc": "/media/byd-seal-07-2027-segunda-generacion-precio-ficha-tecnica-hero.webp",
+    "heroSrc": "/media/byd-seal-07-2027-hero.webp",
     "heroAlt": "BYD Seal 07 de segunda generación, perfil lateral con sensor LiDAR en el techo",
     "keywords": [
       "BYD Seal 07 2027 segunda generación",
@@ -77760,7 +77703,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "BYD Seal 07 ficha técnica",
       "BYD Seal 07 MIIT 5080"
     ],
-    "readTime": 13
+    "readTime": 12
   },
   {
     "slug": "wuling-atlas-furgon-electrico-28675-euros-autonomia",
@@ -77769,7 +77712,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-24",
     "locale": "all",
-    "heroSrc": "/media/wuling-atlas-ev-precio-ficha-tecnica-hero.webp",
+    "heroSrc": "/media/wuling-atlas-ev-hero.webp",
     "heroAlt": "Wuling Atlas eléctrico blanco, vista trasera de tres cuartos con el logo de Wuling en el portón",
     "keywords": [
       "Wuling Atlas precio España",
@@ -77803,32 +77746,13 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 16
   },
   {
-    "slug": "bmw-ix4-precio-espana-2026",
-    "title": "BMW iX4 precio en España: desde 71.850 €, 828 km y 469 CV",
-    "excerpt": "BMW iX4 ya con precio en España: desde 71.850 €, 828 km WLTP y 469 CV. Versiones 40 y 50 xDrive, carga de 400 kW y entregas en marzo de 2027.",
-    "category": "Novedades Motor",
-    "date": "2026-10-26",
-    "locale": "all",
-    "heroSrc": "/media/bmw-ix4-electrico-2026-hero.webp",
-    "heroAlt": "BMW iX4 eléctrico gris circulando, vista tres cuartos delantera",
-    "keywords": [
-      "BMW iX4 precio España",
-      "BMW iX4 71.850",
-      "BMW iX4 828 km",
-      "BMW iX4 50 xDrive",
-      "BMW iX4 M Sport",
-      "BMW iX4 configurador España"
-    ],
-    "readTime": 9
-  },
-  {
     "slug": "xpeng-mona-l05-envios-globales-65-paises",
     "title": "XPeng Mona L05: 1.310 km por 21.500 € y envíos a 65 países",
     "excerpt": "El XPeng Mona L05 sale de China hacia 65 países antes de su lanzamiento del 29 de octubre: SUV de 249 CV, hasta 635 km CLTC y versión de 1.310 km.",
     "category": "Novedades Motor",
     "date": "2026-10-26",
     "locale": "all",
-    "heroSrc": "/media/xpeng-mona-l05-2026-precio-ficha-tecnica-hero.webp",
+    "heroSrc": "/media/xpeng-mona-l05-2026-hero.webp",
     "heroAlt": "XPeng Mona L05 plateado, SUV de cinco plazas, vista lateral en la calle",
     "keywords": [
       "XPeng Mona L05 precio",
@@ -77862,26 +77786,6 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 17
   },
   {
-    "slug": "audi-q9-tdi-299-cv-precio-alemania-2026",
-    "title": "Audi Q9 TDI 299 CV: 7 plazas desde 108.400 € en Alemania",
-    "excerpt": "El Audi Q9 llega como el SUV más grande de Audi: 5,31 m, 7 plazas, TDI de 299 CV y desde 108.400 € en Alemania, a la espera del precio en España.",
-    "category": "Novedades Motor",
-    "date": "2026-10-27",
-    "locale": "all",
-    "heroSrc": "/media/audi-q9-tdi-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Audi Q9 azul, vista trasera tres cuartos con la tira luminosa OLED y la insignia Q9",
-    "keywords": [
-      "Audi Q9 precio",
-      "Audi Q9 TDI 299 CV",
-      "Audi Q9 7 plazas",
-      "Audi Q9 Alemania precio",
-      "Audi Q9 vs BMW X7",
-      "Audi Q9 SQ9 V8",
-      "Audi Q9 maletero 832 litros"
-    ],
-    "readTime": 19
-  },
-  {
     "slug": "leapmotor-b10-fabricado-espana-zaragoza-2026",
     "title": "Leapmotor B10 ya se fabrica en España: desde 27.900 €",
     "excerpt": "El Leapmotor B10 ya sale de Figueruelas, en Zaragoza: primer Leapmotor fabricado en España, con el REEV desde 27.900 € y el eléctrico desde 29.900 €.",
@@ -77902,71 +77806,51 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 14
   },
   {
-    "slug": "aston-martin-valhalla-spider-2027-precio-ficha-tecnica",
-    "title": "Aston Martin Valhalla Spider: 1.079 CV sin techo, 350 km/h",
-    "excerpt": "El Valhalla Spider es el descapotable más rápido de Aston Martin: 1.079 CV, 350 km/h sin techo y entregas en el tercer trimestre de 2027.",
+    "slug": "byd-qin-plus-dm-i-2026-precio-ficha-tecnica",
+    "title": "BYD Qin Plus DM-i 2026: 2.290 km desde 10.735 € en China",
+    "excerpt": "La tercera generación del BYD Qin Plus DM-i ya está en China: 4,84 m, hasta 220 km eléctricos y 2.290 km totales desde 79.900 yuanes.",
     "category": "Novedades Motor",
     "date": "2026-10-28",
     "locale": "all",
-    "heroSrc": "/media/aston-martin-valhalla-spider-2027-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Aston Martin Valhalla Spider plateado y dorado, descapotado, en carretera de montaña al atardecer",
+    "heroSrc": "/media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "BYD Qin Plus DM-i 2026 azul Island Blue, vista lateral en estudio",
     "keywords": [
-      "Aston Martin Valhalla Spider precio",
-      "Valhalla Spider 1079 CV",
-      "Valhalla Spider 350 km/h",
-      "Aston Martin descapotable más rápido",
-      "Valhalla Spider entregas 2027",
-      "Valhalla Spider vs coupé"
+      "BYD Qin Plus DM-i 2026 precio",
+      "BYD Qin Plus tercera generación",
+      "Qin Plus DM-i 2290 km",
+      "BYD Qin Plus autonomía eléctrica 220 km",
+      "BYD Qin Plus China precio yuanes",
+      "berlina híbrida enchufable barata"
     ],
-    "readTime": 21
+    "readTime": 14
   },
   {
-    "slug": "ebro-q-electrico-2027-precio-barcelona",
-    "title": "EBRO Q eléctrico 2027: de 8.000 € en China a Barcelona",
-    "excerpt": "El primer eléctrico de EBRO llega en 2027: 122 CV, 310 km de autonomía y fabricación en Barcelona. En China cuesta 8.000 €; en Europa el reto será otro.",
-    "category": "Actualidad",
-    "date": "2026-10-21",
+    "slug": "li-auto-i6-2026-precio-ficha-tecnica",
+    "title": "Li Auto i6 2026: 640 km WLTP y carga en 10 minutos",
+    "excerpt": "El Li Auto i6 2026 ya rueda en China: batería de 96 kWh, 640 km WLTP y chip Mach M100 desde 249.800 yuanes. En Europa se llamará Li 6.",
+    "category": "Novedades Motor",
+    "date": "2026-10-28",
     "locale": "all",
-    "heroSrc": "/media/ebro-q-2027-precio-ficha-tecnica-oficial.webp",
-    "heroAlt": "Chery Q, modelo en el que se basará el EBRO Q, tres cuartos frontal",
+    "heroSrc": "/media/li-auto-i6-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Li Auto i6 2026 blanco circulando por una calle urbana",
     "keywords": [
-      "EBRO Q",
-      "EBRO Q 2027 precio",
-      "EBRO eléctrico 2027",
-      "primer coche eléctrico EBRO",
-      "Chery Q Europa",
-      "EBRO Q Barcelona",
-      "coches eléctricos baratos 2027"
+      "Li Auto i6 2026",
+      "Li Auto i6 2026 precio",
+      "Li 6 Europa",
+      "Li Auto i6 96 kWh",
+      "i6 Mach M100",
+      "Li Auto i6 ficha técnica"
     ],
-    "readTime": 4
-  },
-  {
-    "slug": "audi-q7-2026-tercera-generacion-precio",
-    "title": "Audi Q7 2026: ya a la venta en España desde 95.630 €",
-    "excerpt": "La tercera generación del Audi Q7 ya se vende en España: V6 TDI de 245 y 299 CV con etiqueta ECO, hasta 7 plazas y 806 litros de maletero. Precios y datos.",
-    "category": "Actualidad",
-    "date": "2026-10-20",
-    "locale": "all",
-    "heroSrc": "/media/audi-q7-2026-precio-ficha-tecnica-oficial.webp",
-    "heroAlt": "Audi Q7 2026 de tercera generación, vista frontal tres cuartos",
-    "keywords": [
-      "Audi Q7 2026",
-      "Audi Q7 tercera generación precio",
-      "Audi Q7 2026 diésel",
-      "Audi Q7 299 CV",
-      "SUV 7 plazas diésel",
-      "Audi Q7 etiqueta ECO"
-    ],
-    "readTime": 4
+    "readTime": 12
   },
   {
     "slug": "byd-seagull-2026-segunda-generacion-precio",
     "title": "BYD Seagull 2026: precios oficiales y carga en 5 minutos",
-    "excerpt": "Segunda generación del BYD Seagull: precios oficiales desde 65.900 yuanes, 420 km CLTC y carga flash del 10 al 70 % en 5 minutos. Todas las versiones.",
+    "excerpt": "Así es el BYD Seagull de segunda generación: tarifas oficiales desde 65.900 yuanes, 420 km en ciclo CLTC y carga flash del 10 al 70 % en solo 5 minutos. Todas las versiones.",
     "category": "Actualidad",
     "date": "2026-10-20",
     "locale": "all",
-    "heroSrc": "/media/byd-seagull-2026-precio-ficha-tecnica-oficial.webp",
+    "heroSrc": "/media/byd-seagull-2026-oficial.webp",
     "heroAlt": "BYD Seagull 2026 de segunda generación, vista tres cuartos delantera",
     "keywords": [
       "BYD Seagull 2026",
@@ -77981,7 +77865,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "lexus-tz-electrico-2026-precio-6-plazas",
     "title": "Lexus TZ eléctrico: 6 plazas, 530 km y desde 88.000 €",
-    "excerpt": "Lexus ya tiene precio en España para el TZ: su SUV eléctrico de 6 plazas con 313 o 408 CV, hasta 530 km de autonomía WLTP y carga rápida de 150 kW.",
+    "excerpt": "Lexus ya ha fijado el precio del TZ en España: un SUV eléctrico de 6 plazas con 313 o 408 CV, hasta 530 km de autonomía WLTP y carga rápida de hasta 150 kW.",
     "category": "Actualidad",
     "date": "2026-10-21",
     "locale": "all",
