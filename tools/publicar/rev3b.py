@@ -19,7 +19,9 @@ def readall(rev,files):
         if hdr[-1]==b'missing': out[f]=''; i=nl+1; continue
         size=int(hdr[2]); out[f]=data[nl+1:nl+1+size].decode('utf-8','replace'); i=nl+1+size+1
     return out
-ok=lambda f: re.search(r'\.(ts|tsx|json)$',f) and 'generated' not in f and f.startswith('src')
+# 31/10: datos estructurados (listas de modelos/precios/rutas), no prosa: no cuentan como texto repetido
+DATOS=('src/lib/ficha-extra-gen/','src/lib/historial-precios-gen/','src/lib/fichas-fechas-eeat','src/lib/data-loaders','src/lib/media-dimensiones','src/lib/fotos-saneadas','src/lib/fotos-malas')
+ok=lambda f: re.search(r'\.(ts|tsx|json)$',f) and 'generated' not in f and f.startswith('src') and not f.startswith(DATOS)
 allf=[f for f in sh('git','ls-tree','-r','--name-only',LIVE,'src').split() if ok(f)]
 livetxt=readall(LIVE,allf)
 fcount={f:fc(t) for f,t in livetxt.items()}
