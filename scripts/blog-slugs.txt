@@ -567,6 +567,7 @@ byd-seal-05-dm-i-2025-precio-autonomia
 byd-seal-05-dm-i-2025-precio-ficha-tecnica
 byd-seal-06-ev-2026-precio-autonomia
 byd-seal-06-ev-2026-precio-ficha-tecnica
+byd-qin-plus-dm-i-2026-precio-ficha-tecnica
 byd-seal-06-gt-2025-precio-ficha-tecnica
 byd-seal-08-2026-precio-autonomia
 byd-seal-08-2026-precio-ficha-tecnica

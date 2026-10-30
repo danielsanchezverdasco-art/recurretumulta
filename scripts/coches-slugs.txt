@@ -342,6 +342,7 @@ byd-han-l-2025-precio-ficha-tecnica
 byd-qin-l-dm-i-2025-precio-ficha-tecnica
 byd-qin-l-ev-2025-precio-ficha-tecnica
 byd-qin-plus-dm-i-2025-precio-ficha-tecnica
+byd-qin-plus-dm-i-2026-precio-ficha-tecnica
 byd-seal-05-dm-i-2025-precio-ficha-tecnica
 byd-seal-06-ev-2026-precio-ficha-tecnica
 byd-seal-06-gt-2025-precio-ficha-tecnica
