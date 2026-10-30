@@ -147,6 +147,7 @@ export const GARANTIAS_MARCAS: GarantiaMarca[] = [
   { marca: "McLaren", categoria: "coches", anios: 3, km: null, nota: null, fuente: "https://sportsweek.org/es/auto-racing/news/407330139/" },
   { marca: "Mercedes-Benz", categoria: "coches", anios: 3, km: null, nota: null, fuente: "https://sportsweek.org/es/auto-racing/news/407330139/" },
   { marca: "MG", categoria: "coches", anios: 7, km: 150000, nota: null, fuente: "https://cdn.mgmotor.eu/files/Política-de-garantías-de-MG-para-vehiculos-matriculados-a-partir-del-1-de-enero-de-2022.pdf" },
+  { marca: "MINI", categoria: "coches", anios: 3, km: null, nota: "3 años sin límite de km (garantía oficial MINI); batería de alto voltaje 8 años/160.000 km en eléctricos", fuente: "https://www.mini.co.uk/en_GB/home/owners/mini-warranties.html" },
   { marca: "Mitsubishi", categoria: "coches", anios: 5, km: 100000, nota: null, fuente: "https://sportsweek.org/es/auto-racing/news/407330139/" },
   { marca: "Neta", categoria: "coches", anios: null, km: null, nota: "sin datos oficiales", fuente: null },
   { marca: "Nevo", categoria: "coches", anios: null, km: null, nota: "sin datos oficiales", fuente: null },

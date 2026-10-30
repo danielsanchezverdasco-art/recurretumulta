@@ -918,7 +918,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "7 plazas reales y maletero de 867 L: el familiar definitivo",
+      "7 plazas opcionales y maletero de 867 L: el familiar definitivo",
       "V6 TDI de 231 CV con etiqueta ECO (microhibridación)",
       "Confort de marcha de referencia con suspensión neumática",
       "Calidad interior de buque insignia",
