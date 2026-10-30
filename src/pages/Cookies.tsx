@@ -38,7 +38,7 @@ export default function CookiesPage() {
               Configurar cookies
             </button>
           </div>
-          <p className="text-sm text-gray-500">{"Última actualización: 24 de octubre de 2026"}</p>
+          <p className="text-sm text-gray-500">{"Última actualización: 31 de octubre de 2026"}</p>
         </div>
         <img src="/media/cookies-web.webp" alt="Política de cookies: cómo usamos las cookies en tu navegador" className="w-full h-48 sm:h-64 object-cover rounded-2xl shadow-lg" loading="lazy" />
 
@@ -63,10 +63,12 @@ export default function CookiesPage() {
                 </thead>
                 <tbody>
                   {[
-                    { name: "_ga, _gid", provider: "Google Analytics", type: "Analítica", purpose: "Estadísticas de uso anónimas", duration: "2 años / 24h" },
-                    { name: "_gcl_au", provider: "Google Ads / Google Tag (vinculador de conversiones)", type: "Publicitaria", purpose: "Medir conversiones de anuncios", duration: "90 días" },
-                    { name: "IDE", provider: "Google DoubleClick", type: "Publicitaria", purpose: "Anuncios personalizados", duration: "1 año" },
-                    { name: "__stripe_*", provider: "Stripe", type: "Técnica/pago", purpose: "Gestión segura de pagos", duration: "Sesión" },
+                    { name: "rtm_consent_v1 (localStorage)", provider: "RecurreTuMulta.online", type: "Técnica", purpose: "Guarda tu elección sobre cookies para no volver a preguntarte", duration: "Hasta que la borres" },
+                    { name: "FCCDCF, FCNEC", provider: "Google (Funding Choices, gestor de consentimiento)", type: "Técnica", purpose: "Guardan tu elección de consentimiento y que el aviso ya se mostró", duration: "Hasta 13 meses" },
+                    { name: "_ga, _ga_NQD5QTRJPH", provider: "Google Analytics 4", type: "Analítica", purpose: "Estadísticas de uso (solo si aceptas analítica)", duration: "2 años" },
+                    { name: "__gads, __gpi", provider: "Google AdSense", type: "Publicitaria", purpose: "Mostrar y medir anuncios, limitar su frecuencia y prevenir fraude (solo si aceptas publicidad)", duration: "13 meses" },
+                    { name: "IDE, DSID", provider: "Google (DoubleClick)", type: "Publicitaria", purpose: "Anuncios personalizados y medición de su eficacia (solo si aceptas publicidad)", duration: "IDE: 13 meses en el EEE; DSID: 2 semanas" },
+                    { name: "__stripe_mid, __stripe_sid", provider: "Stripe", type: "Técnica/pago", purpose: "Prevención de fraude y gestión segura de pagos (solo en el pago)", duration: "1 año / 30 minutos" },
                   ].map((c) => (
                     <tr key={c.name} className="even:bg-gray-50">
                       <td className="border border-gray-200 px-4 py-2 font-mono text-xs">{c.name}</td>
@@ -97,6 +99,7 @@ export default function CookiesPage() {
               <li><strong>Safari:</strong> Preferencias → Privacidad → Gestionar datos de sitios web</li>
               <li><strong>Edge:</strong> Configuración → Privacidad → Cookies y permisos del sitio</li>
             </ul>
+            <p>Si aceptas, <strong>Google</strong> y sus socios publicitarios pueden usar cookies para mostrarte anuncios. Más información: <a href="https://policies.google.com/technologies/partner-sites" className="text-red-600 underline" target="_blank" rel="noopener noreferrer">cómo utiliza Google los datos de sitios que usan sus servicios</a> · <a href="https://adssettings.google.com" className="text-red-600 underline" target="_blank" rel="noopener noreferrer">adssettings.google.com</a> · <a href="https://www.aboutads.info/choices/" className="text-red-600 underline" target="_blank" rel="noopener noreferrer">aboutads.info</a> · <a href="https://www.youronlinechoices.eu/" className="text-red-600 underline" target="_blank" rel="noopener noreferrer">youronlinechoices.eu</a>. Puedes cambiar tu elección en cualquier momento con el botón «Configurar cookies» de esta página o del pie. Más datos sobre el tratamiento en la <Link to="/privacidad/" className="text-red-600 underline">Política de Privacidad</Link>.</p>
             <p>Para desactivar las cookies de Google Analytics: <a href="https://tools.google.com/dlpage/gaoptout" className="text-red-600 underline" target="_blank" rel="noopener noreferrer">Google Analytics Opt-out Browser Add-on</a></p>
           </section>
         </div>

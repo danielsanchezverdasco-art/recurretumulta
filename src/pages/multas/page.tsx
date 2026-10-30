@@ -182,7 +182,7 @@ export default function MultasIndexPage() {
           </div>
 
           {/* Radares: acceso al mapa completo (también dentro de cada provincia) */}
-          <Link to="/radares/" className="block group">
+          <Link to="/provincias/" className="block group">
             <div className="border-2 border-red-200 bg-red-50/60 rounded-3xl p-5 flex items-center gap-4">
               <div className="w-10 h-10 bg-red-600 rounded-2xl flex items-center justify-center shrink-0">
                 <Radar className="w-5 h-5 text-white" />

@@ -37,7 +37,7 @@ export default function CosaEnBanner({
       `}</style>
       <img
         src="/media/cosa-banner-cut.webp"
-        alt=""
+        alt="Cosa, la mascota robot de RecurreTuMulta.online"
         loading="lazy"
         decoding="async"
         draggable={false}

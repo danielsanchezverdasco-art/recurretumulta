@@ -23,7 +23,7 @@ export default function SharedFooter({ editorial }: { editorial?: EditorialProps
     <Link to="/blog/" className={L}>{t("nav.blog")} DGT</Link>,
     <Link to="/guias/" className={L}>Guías</Link>,
     <Link to="/provincias/" className={L}>52 {t("nav.provinces")}</Link>,
-    <Link to="/radares/" className={L}>Radares</Link>,
+    <Link to="/provincias/" className={L}>Radares</Link>,
     <Link to="/herramientas/" className={L}>Herramientas</Link>,
     <Link to="/newsletter/" className={L}>Newsletter</Link>,
     <Link to="/glosario-multa/" className={L}>Glosario</Link>,

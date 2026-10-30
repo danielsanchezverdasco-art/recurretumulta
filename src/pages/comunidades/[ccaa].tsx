@@ -239,7 +239,7 @@ export default function ComunidadPage() {
                 {
                   n: "1",
                   title: "Analiza tu multa con IA (gratis)",
-                  desc: "Sube tu multa a RecurreTuMulta.online. La IA detecta en segundos los defectos legales, el % de viabilidad y los argumentos exactos para tu recurso.",
+                  desc: "Sube tu multa a RecurreTuMulta.online. La IA detecta en segundos los defectos legales, una puntuación orientativa de viabilidad y los argumentos exactos para tu recurso.",
                 },
                 {
                   n: "2",
@@ -372,7 +372,7 @@ export default function ComunidadPage() {
                 </div>
                 <p className="text-xs text-gray-500">
                   ¿No está tu radar? Consulta el{" "}
-                  <Link to="/radares/" className="text-red-700 underline">índice completo de radares</Link>{" "}
+                  <Link to="/provincias/" className="text-red-700 underline">índice completo de radares</Link>{" "}
                   o la{" "}
                   <Link to="/guias/radares/" className="text-red-700 underline">guía de radares y cómo recurrir sus multas</Link>.
                 </p>
@@ -381,7 +381,7 @@ export default function ComunidadPage() {
               <p className="text-sm text-gray-600 leading-relaxed">
                 El listado de radares con ficha individual de {c.nombre} se está completando por
                 comunidades. Mientras tanto, consulta el{" "}
-                <Link to="/radares/" className="text-red-700 underline">índice completo de radares</Link>{" "}
+                <Link to="/provincias/" className="text-red-700 underline">índice completo de radares</Link>{" "}
                 y la{" "}
                 <Link to="/guias/radares/" className="text-red-700 underline">guía de radares de tráfico</Link>:
                 una multa de radar se puede recurrir si el cinemómetro no tenía la verificación

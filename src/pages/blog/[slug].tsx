@@ -825,7 +825,7 @@ function BlogPostPage() {
               <ul className="space-y-1.5">
                 {(tpBlog?.cajaPuntos ?? [
                   "Análisis con IA en menos de 60 segundos",
-                  "% de viabilidad del recurso",
+                  "Puntuación orientativa de viabilidad (no garantiza el resultado)",
                   "Argumentos legales específicos de tu multa",
                   "PDF del recurso completo por 4,99€",
                 ]).map((b) => (

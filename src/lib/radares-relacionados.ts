@@ -455,7 +455,7 @@ export function bloqueRadaresRelacionadosHtml(
   const slugComunidad = slugifyES(rel.comunidad);
   const out: string[] = [];
   out.push('<nav class="radares-relacionados" aria-label="Radares relacionados">');
-  out.push('<p class="rr-ver-todos"><a href="/radares/">Ver todos los radares</a>' +
+  out.push('<p class="rr-ver-todos"><a href="/provincias/">Ver todos los radares</a>' +
     ` · <a href="/radares/comunidad/${slugComunidad}/">Radares en ${escHtml(rel.comunidad)}</a></p>`);
   if (rel.cercanos.length > 0) {
     const titulo = propio && propio.carretera

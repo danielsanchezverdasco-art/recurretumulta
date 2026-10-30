@@ -152,12 +152,14 @@ export default function ComparadorGarantiaBateriaPage() {
                 to={`/coches/${c.id}/`}
                 className="overflow-hidden rounded-2xl border-2 border-red-100 bg-white shadow-sm transition hover:border-red-300 hover:shadow-md"
               >
-                <img
-                  src={c.imagenOficial}
-                  alt={`Foto oficial del ${c.marca} ${c.modelo}`}
-                  className="aspect-[16/10] w-full object-cover"
-                  loading="lazy"
-                />
+                {c.imagenOficial && (
+                  <img
+                    src={c.imagenOficial}
+                    alt={`Foto oficial del ${c.marca} ${c.modelo}`}
+                    className="aspect-[16/10] w-full object-cover"
+                    loading="lazy"
+                  />
+                )}
                 <div className="p-4">
                   <p className="text-2xl">{MEDALLAS[i]}</p>
                   <p className="mt-1 text-xs font-bold uppercase tracking-widest text-red-700">
@@ -192,13 +194,17 @@ export default function ComparadorGarantiaBateriaPage() {
                   <span className="w-8 shrink-0 text-center text-sm font-black text-gray-400">
                     {i + 4}
                   </span>
-                  <img
-                    src={c.imagenOficial}
-                    alt=""
-                    aria-hidden="true"
-                    className="h-12 w-20 shrink-0 rounded-lg object-cover"
-                    loading="lazy"
-                  />
+                  {/* 31/10/2026 (auditoría A3/M2): miniatura solo en las 60 primeras filas y con alt; el resto, texto. */}
+                  {i < 60 && c.imagenOficial && (
+                    <img
+                      src={c.imagenOficial}
+                      alt={`${c.marca} ${c.modelo}`}
+                      width={80}
+                      height={48}
+                      className="h-12 w-20 shrink-0 rounded-lg object-cover"
+                      loading="lazy"
+                    />
+                  )}
                   <span className="min-w-0 flex-1">
                     <span className="block truncate font-bold text-gray-900">
                       {c.marca} {c.modelo}

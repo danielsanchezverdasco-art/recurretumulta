@@ -28,7 +28,7 @@ const FEATURES = [
   {
     icon: <Headphones className="w-6 h-6" />,
     title: "Asistencia prioritaria",
-    desc: "Acceso directo al equipo de soporte. Sin colas, sin esperas. Respuesta garantizada en menos de 2 horas laborables.",
+    desc: "Acceso directo al equipo de soporte. Sin colas, sin esperas. Respuesta prioritaria: nuestro objetivo es contestar en menos de 2 horas laborables (sin compromiso contractual).",
   },
   {
     icon: <Zap className="w-6 h-6" />,
@@ -67,7 +67,7 @@ const FAQS = [
   },
   {
     q: "¿Qué significa 'asistencia prioritaria sin colas'?",
-    a: "Las empresas tienen una línea de soporte separada con respuesta garantizada en menos de 2 horas laborables. No compartes cola con los miles de usuarios individuales.",
+    a: "Las empresas tienen una línea de soporte separada con respuesta prioritaria (objetivo: menos de 2 horas laborables, sin compromiso contractual). No compartes cola con los miles de usuarios individuales.",
   },
   {
     q: "¿Vale la pena para una empresa con solo 2-3 coches?",

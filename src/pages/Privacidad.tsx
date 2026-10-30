@@ -40,7 +40,7 @@ export default function PrivacidadPage() {
             </div>
             <h1 className="text-3xl font-black text-gray-900">{"Política de Privacidad"}</h1>
           </div>
-          <p className="text-sm text-gray-500">{"Última actualización: 24 de octubre de 2026"}</p>
+          <p className="text-sm text-gray-500">{"Última actualización: 31 de octubre de 2026"}</p>
         </div>
         <img src="/media/privacidad-datos.webp" alt="Protección de datos personales: candado digital que simboliza la seguridad de tu privacidad" className="w-full h-48 sm:h-64 object-cover rounded-2xl shadow-lg" loading="lazy" />
 
@@ -78,14 +78,15 @@ export default function PrivacidadPage() {
           <section>
             <h2 className="text-xl font-black text-gray-900">5. Destinatarios y transferencias</h2>
             <img src="/media/vicios-forma-documento.webp" alt="Expediente con documentos oficiales: tus datos solo se comparten con quien la ley exige" className="w-full h-40 sm:h-52 object-cover rounded-2xl shadow mb-6" loading="lazy" />
-            <p>No cedemos tus datos a terceros. Solo acceden a ellos los encargados estrictamente necesarios para prestarte el servicio:</p>
+            <p>No vendemos tus datos ni los cedemos a terceros para sus propios fines. Solo acceden a ellos los <strong>encargados del tratamiento</strong> estrictamente necesarios para prestarte el servicio, con los que tenemos las garantías exigidas por el RGPD (art. 28):</p>
             <ul className="list-disc pl-5 space-y-1">
               <li><strong>Stripe Inc.</strong> (procesamiento de pagos) — EEUU, con garantías adecuadas.</li>
               <li><strong>Resend Inc.</strong> (envío de emails con tu recurso) — EEUU, con garantías adecuadas.</li>
               <li><strong>Convex Inc.</strong> (base de datos: guarda tus pedidos y los datos necesarios para generar tu recurso) — EEUU, con garantías adecuadas.</li>
               <li><strong>Groq Inc.</strong> (inteligencia artificial que analiza tu multa o sanción) — EEUU, con garantías adecuadas.</li>
             </ul>
-            <p>No vendemos tus datos a terceros.</p>
+            <p>Además, si aceptas las cookies de publicidad y medición, <strong>Google Ireland Limited / Google LLC</strong> (Google Analytics y Google AdSense) y los proveedores publicitarios que participan en sus anuncios pueden tratar datos de tu navegador (identificadores de cookies, dirección IP, datos del dispositivo) como responsables de su propio tratamiento. Puedes ver cómo usa Google esos datos en <a href="https://policies.google.com/technologies/partner-sites" className="text-red-600 underline" target="_blank" rel="noopener noreferrer">«Cómo utiliza Google los datos de sitios o aplicaciones que usan sus servicios»</a>. Las transferencias a EEUU se apoyan en el Marco de Privacidad de Datos UE-EEUU o en cláusulas contractuales tipo.</p>
+            <p>No compartimos con Google ni con terceros los datos de tus multas, tu DNI ni tus datos personales de contacto.</p>
           </section>
 
           <section>
@@ -99,8 +100,17 @@ export default function PrivacidadPage() {
           </section>
 
           <section>
-            <h2 className="text-xl font-black text-gray-900">8. Cookies</h2>
-            <p>Usamos cookies técnicas (necesarias para el funcionamiento), analíticas (Google Analytics) y publicitarias (Google AdSense). Puedes gestionar tus preferencias en nuestra <Link to="/cookies/" className="text-red-600 underline">Política de Cookies</Link>.</p>
+            <h2 className="text-xl font-black text-gray-900">8. Cookies, publicidad y analítica</h2>
+            <p>Usamos cookies técnicas (necesarias para el funcionamiento), analíticas (Google Analytics 4) y publicitarias (Google AdSense). Las analíticas y publicitarias <strong>solo se activan si las aceptas</strong> en el aviso de cookies: hasta entonces Google Analytics y AdSense funcionan en modo «denegado» (Consent Mode v2, sin almacenar cookies de analítica ni de publicidad personalizada). Puedes cambiar tu elección en cualquier momento con el enlace «Configurar cookies» del pie de página. La base legal es tu <strong>consentimiento</strong> (art. 6.1.a RGPD y art. 22.2 LSSI) y puedes retirarlo cuando quieras sin que afecte a lo anterior.</p>
+            <p>Detalle de cada cookie, proveedor y duración en nuestra <Link to="/cookies/" className="text-red-600 underline">Política de Cookies</Link>.</p>
+            <p>Cómo gestionar o rechazar la publicidad personalizada:</p>
+            <ul className="list-disc pl-5 space-y-1">
+              <li><a href="https://adssettings.google.com" className="text-red-600 underline" target="_blank" rel="noopener noreferrer">Configuración de anuncios de Google (adssettings.google.com)</a></li>
+              <li><a href="https://www.aboutads.info/choices/" className="text-red-600 underline" target="_blank" rel="noopener noreferrer">aboutads.info/choices</a> y <a href="https://www.youronlinechoices.eu/" className="text-red-600 underline" target="_blank" rel="noopener noreferrer">youronlinechoices.eu</a> (opciones de publicidad basada en intereses)</li>
+              <li><a href="https://policies.google.com/technologies/partner-sites" className="text-red-600 underline" target="_blank" rel="noopener noreferrer">policies.google.com/technologies/partner-sites</a> (cómo usa Google los datos de sitios que usan sus servicios)</li>
+              <li><a href="https://tools.google.com/dlpage/gaoptout" className="text-red-600 underline" target="_blank" rel="noopener noreferrer">Complemento de inhabilitación de Google Analytics</a></li>
+            </ul>
+            <p>Para consultas de privacidad o para ejercer tus derechos, escribe a soporte@recurretumulta.online. Si consideras que no hemos atendido tu solicitud, puedes reclamar ante la <a href="https://www.aepd.es" className="text-red-600 underline" target="_blank" rel="noopener noreferrer">Agencia Española de Protección de Datos (aepd.es)</a>.</p>
           </section>
         </div>
       </main>

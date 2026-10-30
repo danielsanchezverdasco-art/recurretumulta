@@ -86,7 +86,7 @@ export default function ProvinciasIndexPage() {
           radar te contamos qué revisar antes de pagar: verificación metrológica en vigor,
           señalización del límite y si la foto identifica tu vehículo. Y si prefieres buscar por
           carretera o ver el mapa completo, tienes el{" "}
-          <Link to="/radares/" className="font-semibold text-red-600 hover:underline">
+          <Link to="/provincias/" className="font-semibold text-red-600 hover:underline">
             índice general de radares
           </Link>
           .
@@ -125,7 +125,7 @@ export default function ProvinciasIndexPage() {
           </h2>
           <ul className="mt-3 list-disc space-y-2 pl-5 text-sm leading-relaxed text-gray-700">
             <li>
-              <Link to="/radares/" className="font-semibold text-red-600 hover:underline">
+              <Link to="/provincias/" className="font-semibold text-red-600 hover:underline">
                 Índice de radares
               </Link>
               : todos los radares con ficha, ordenados por comunidades.

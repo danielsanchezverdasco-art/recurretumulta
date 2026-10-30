@@ -345,10 +345,24 @@ const SELECT_CLASE =
   "w-full rounded-lg border border-gray-300 bg-white px-3 py-2 text-sm text-gray-900 shadow-sm focus:border-[#cd001d] focus:outline-none focus:ring-2 focus:ring-[#cd001d]/20";
 
 // ── Tarjeta con volteo 3D: delante resumen, detrás más datos ──────────────────
-function TarjetaFicha({ ficha }: { ficha: FichaCard }) {
+function TarjetaFicha({ ficha, compacta = false }: { ficha: FichaCard; compacta?: boolean }) {
   const [volteada, setVolteada] = useState(false);
   const [fotoRota, setFotoRota] = useState(false);
   const mostrarFoto = ficha.foto && !fotoRota;
+  // 31/10/2026 (auditoría AdSense A3): en el HTML prerenderizado la lista completa (miles de fichas) se mantiene para que
+  // los enlaces sean rastreables, pero pasadas las 24 primeras la tarjeta es solo texto + enlace (sin imagen ni cara trasera):
+  // el HTML de /fichas-tecnicas/ pasa de ~13 MB y 2.400 imágenes a una fracción.
+  if (compacta) {
+    return (
+      <article className="rounded-xl border border-gray-200 bg-white p-3 shadow-sm">
+        <p className="truncate text-[10px] font-semibold uppercase tracking-wider text-gray-500">{ficha.marca}</p>
+        <h3 className="line-clamp-2 text-sm font-extrabold leading-tight text-gray-900">
+          <Link to={ficha.ruta}>{ficha.modelo}</Link>
+        </h3>
+        <p className="text-sm font-extrabold text-[#cd001d]">{fmtPrecioCard(ficha)}</p>
+      </article>
+    );
+  }
   return (
     <div className="[perspective:900px]">
       <article
@@ -809,8 +823,12 @@ export default function FichasTecnicasPage() {
         ) : (
           <>
           <section aria-label={`Fichas de ${tabActual.plural}`} className="mt-4 grid grid-cols-2 gap-3 sm:gap-4 lg:grid-cols-3">
-            {visibles.map((f) => (
-              <TarjetaFicha key={`${f.kind}-${f.id}`} ficha={f} />
+            {visibles.map((f, i) => (
+              <TarjetaFicha
+                key={`${f.kind}-${f.id}`}
+                ficha={f}
+                compacta={i >= PAGE_SIZE && typeof window !== "undefined" && !!(window as unknown as { __PRERENDER__?: boolean }).__PRERENDER__}
+              />
             ))}
           </section>
           {filtradas.length > visibleCount && (

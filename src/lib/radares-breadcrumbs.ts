@@ -29,7 +29,7 @@ export function slugComunidad(comunidad: string): string {
 export function breadcrumbRadar(radar: RadarMin): BreadcrumbItem[] {
   return [
     { nombre: "Inicio", url: "/" },
-    { nombre: "Radares", url: "/radares/" },
+    { nombre: "Radares", url: "/provincias/" },
     { nombre: radar.comunidad, url: `/radares/comunidad/${slugComunidad(radar.comunidad)}/` },
     { nombre: `Radar ${radar.carretera} pk ${radar.pk}`, url: `/radares/${radar.id_unico}/` },
   ];

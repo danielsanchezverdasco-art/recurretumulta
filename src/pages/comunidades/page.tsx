@@ -231,7 +231,7 @@ export default function ComunidadesIndexPage() {
             <h2 className="text-lg md:text-xl font-black text-gray-900">También te puede interesar</h2>
             <ul className="space-y-2 text-sm">
               <li><Link to="/multas/" className="text-red-700 underline">Multas por provincia: las 52 guías locales</Link></li>
-              <li><Link to="/radares/" className="text-red-700 underline">Índice completo de radares de velocidad</Link></li>
+              <li><Link to="/provincias/" className="text-red-700 underline">Índice completo de radares de velocidad</Link></li>
               <li><Link to="/guias/radares/" className="text-red-700 underline">Guía: radares de tráfico y cómo recurrir sus multas</Link></li>
               <li><Link to="/guias/zbe/" className="text-red-700 underline">Guía: zonas de bajas emisiones y sus multas</Link></li>
               <li><Link to="/blog/recurrir-multa-radar-velocidad/" className="text-red-700 underline">Cómo recurrir una multa de radar de velocidad</Link></li>

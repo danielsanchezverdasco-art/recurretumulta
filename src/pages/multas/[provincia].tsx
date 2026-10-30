@@ -338,7 +338,7 @@ export default function MultaProvinciaPage() {
               <h2 className="text-xl font-black text-gray-900">
                 {esCiudadSinProvincia ? `Radares en la provincia de ${nombreProvinciaRadares}` : `Radares en ${p.nombre}`}
               </h2>
-              <Link to="/radares/" className="text-xs font-bold text-red-600 hover:underline">
+              <Link to="/provincias/" className="text-xs font-bold text-red-600 hover:underline">
                 Mapa de radares de España →
               </Link>
             </div>
@@ -382,7 +382,7 @@ export default function MultaProvinciaPage() {
               </>
             ) : (
               <p className="text-sm text-gray-600">
-                {fuenteRadaresDe(slugRadares).art} {fuenteRadaresDe(slugRadares).nombre} no publica un listado de radares fijos para {nombreProvinciaRadares} (comprobado el 24/10/2026): lo declaramos así antes que inventar ubicaciones. Los controles móviles no aparecen en ningún listado público. Consulta el <Link to="/radares/" className="text-red-600 hover:underline font-semibold">índice general de radares</Link>.
+                {fuenteRadaresDe(slugRadares).art} {fuenteRadaresDe(slugRadares).nombre} no publica un listado de radares fijos para {nombreProvinciaRadares} (comprobado el 24/10/2026): lo declaramos así antes que inventar ubicaciones. Los controles móviles no aparecen en ningún listado público. Consulta el <Link to="/provincias/" className="text-red-600 hover:underline font-semibold">índice general de radares</Link>.
               </p>
             )}
           </section>
