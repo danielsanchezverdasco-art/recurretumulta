@@ -752,7 +752,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway-Ninebot",
     modelo: "E2 Plus E II",
-    precioEur: 320,
+    precioEur: 299,
     potenciaNominalW: 300,
     potenciaPicoW: 500,
     autonomiaKm: 25,

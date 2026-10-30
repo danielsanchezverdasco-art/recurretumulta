@@ -992,7 +992,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     modelo: "Deepal S07 MY26",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 46990,
+    precioDesde: 45990,
     potenciaCv: 258,
     autonomiaKm: 500,
     maleteroL: 510,
