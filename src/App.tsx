@@ -17,7 +17,6 @@ import { fijoId } from "./components/caza-monos/CazaMonosContext.tsx";
 const MonoEnRuta = lazy(() => import("./components/caza-monos/MonoEnRuta.tsx"));
 const TutorialCaza = lazy(() => import("./components/caza-monos/TutorialCaza.tsx"));
 const HitosCaza = lazy(() => import("./components/caza-monos/HitosCaza.tsx"));
-import { Splash } from "./components/splash.tsx";
 // Carga diferida también para la portada (05/10/2026, rendimiento): Index
 // importaba BLOG_LITE (1.5MB) y lo metía en el chunk principal que cargan
 // TODAS las páginas. El HTML prerenderizado pinta igual de rápido.
@@ -298,7 +297,6 @@ export default function App() {
                 <ReferralCapture />
               </LazyConvexProvider>
             </Suspense>
-            <Splash />
             <Suspense fallback={<PageLoader />}>
               <FadedRoutes />
             </Suspense>
