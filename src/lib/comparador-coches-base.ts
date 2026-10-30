@@ -188,7 +188,7 @@ export const COCHES_BASE: CocheComparador[] = [
     modelo: "5 E-Tech",
     tipo: "Eléctrico",
     categoria: "Urbano",
-    precioDesde: 25085,
+    precioDesde: 28085,
     potenciaCv: 120,
     autonomiaKm: 315,
     maleteroL: 277,

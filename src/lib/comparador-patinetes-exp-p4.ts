@@ -1573,7 +1573,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     videoCanal: "ERideHero",
     marca: "E-Twow",
     modelo: "GT SE",
-    precioEur: 1000,
+    precioEur: 1190,
     potenciaNominalW: 500,
     potenciaPicoW: 700,
     autonomiaKm: 50,
@@ -1601,7 +1601,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["precioEur", "autonomiaKm", "autonomiaRealKm"],
+    aprox: ["autonomiaKm", "autonomiaRealKm"],
     pros: [
       "500 W (700 W de pico) con 504 Wh: 50 km declarados, el GT de más rango",
       "13,2 kg: pluma para su potencia y batería",
