@@ -35,8 +35,8 @@ export const AUTOCARAVANAS_EURAMOBIL_M1: Autocaravana[] = [
       "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-oficial.webp", // F5 19/10: foto oficial de prensa del fabricante
     imagenInteriorOficial:
       "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-oficial-interior.webp", // F5 19/10: interior oficial (prensa Eura Mobil)
-    videoId: null,
-    videoCanal: null,
+    videoId: "c1jLraRP4_A",
+    videoCanal: "CamperOnLine",
     largoMm: 7471,
     anchoMm: 2322,
     altoMm: 2980,

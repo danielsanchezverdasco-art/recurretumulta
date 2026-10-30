@@ -38,8 +38,8 @@ export const AUTOCARAVANAS_HYMER_M1: Autocaravana[] = [
       "/media/hymer-b-mc-i-600-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
       "/media/hymer-b-mc-i-600-2026-precio-ficha-tecnica-oficial-interior.webp",
-    videoId: null,
-    videoCanal: null,
+    videoId: "8XWO54dg3AM",
+    videoCanal: "CamperOnLine",
     largoMm: 7190, // lista oficial: 719 cm
     anchoMm: 2290, // lista oficial: 229 cm
     altoMm: 2980, // lista oficial: 298 cm

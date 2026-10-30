@@ -36,8 +36,8 @@ export const AUTOCARAVANAS_BURSTNER_M1: Autocaravana[] = [
     imagen: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-oficial.webp",
     imagenOficial: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-oficial-interior.webp", // FIX-cideth 19/10/2026: interior oficial del 690 G Harmony Line MJ25 (buerstner.com)
-    videoId: null,
-    videoCanal: null,
+    videoId: "aNMW6cGZpOc",
+    videoCanal: "CamperOnLine",
     largoMm: 6990, // página oficial: 699 cm
     anchoMm: 2300, // página oficial: 230 cm
     altoMm: 2950, // página oficial: 295 cm
