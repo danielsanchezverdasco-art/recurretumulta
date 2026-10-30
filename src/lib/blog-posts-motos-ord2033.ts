@@ -1,4 +1,4 @@
-// ORD-2033 (Cosa, 25/10 20:33, encargo de Daniel a Redacción RecurreTuMulta.online): blog de la Vmoto OFF-R.
+// ORD-2033 (Cosa, 25/10 20:33, encargo de Daniel a Merlín): blog de la Vmoto OFF-R.
 // Datos del folleto oficial Vmoto OFF-R (vmoto.com) + lanzamiento ON-R/OFF-R (evmagz).
 // Sin precio oficial en España: se dice con honestidad, no se inventa.
 // Fecha de publicación: 2026-10-25.

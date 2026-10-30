@@ -275,7 +275,7 @@ export default function RadarPage() {
         <nav aria-label="Migas de pan" className="flex items-center gap-1.5 text-xs text-slate-500 mb-5">
           <Link to="/" className="hover:text-slate-900">Inicio</Link>
           <span aria-hidden="true">/</span>
-          <Link to="/provincias/" className="hover:text-slate-900">Radares</Link>
+          <Link to="/radares/" className="hover:text-slate-900">Radares</Link>
           <span aria-hidden="true">/</span>
           {radar ? (
             <>

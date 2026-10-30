@@ -47,7 +47,7 @@ const BLOG_LOTE1_A: BlogPost[] = [
       "cajaTexto": "Envía la notificación y el analizador señala los fallos de forma y los argumentos de recurso, sin coste.",
       "cajaPuntos": [
         "Resultado en un minuto",
-        "Puntuación orientativa de viabilidad (no garantiza el resultado)",
+        "% de viabilidad del recurso",
         "Argumentos para tu caso concreto",
         "Recurso listo en PDF: 4,99€"
       ],

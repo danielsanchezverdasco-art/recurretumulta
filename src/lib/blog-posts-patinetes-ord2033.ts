@@ -1,4 +1,4 @@
-// ORD-2033 (Cosa, 25/10 20:33, encargo de Daniel a Redacción RecurreTuMulta.online): blog del Acer ES Series 3 Advance.
+// ORD-2033 (Cosa, 25/10 20:33, encargo de Daniel a Merlín): blog del Acer ES Series 3 Advance.
 // Datos de Acer España (ficha AES023) + precio de PcComponentes (registrado el 14/10/2026).
 // Certificado DGT no verificado: se dice con honestidad, no se inventa.
 // Fecha de publicación: 2026-10-25.
