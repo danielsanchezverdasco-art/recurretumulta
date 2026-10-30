@@ -1,5 +1,6 @@
 // Agregado de las 50 fichas de autocaravanas (lotes Merlín, 18/10/2026).
 // Necesario para scripts/gen-ficha-extra.mjs (rivales) y listados.
+import { sanearCoche } from "./fotos-saneadas.ts";
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 import { AUTOCARAVANAS_ADRIA_M1 } from "./comparador-autocaravanas-adria-m1.ts";
 import { AUTOCARAVANAS_AHORNCAMP_M1 } from "./comparador-autocaravanas-ahorncamp-m1.ts";
@@ -130,4 +131,4 @@ export const AUTOCARAVANAS_COMPARADOR: Autocaravana[] = [
   ...AUTOCARAVANAS_WEINSBERG_M1,
   ...AUTOCARAVANAS_WESTFALIA_M1,
   ...AUTOCARAVANAS_XGO_M1,
-].filter((f) => IDS_PASAN.has(f.id));
+].filter((f) => IDS_PASAN.has(f.id)).map(sanearCoche);

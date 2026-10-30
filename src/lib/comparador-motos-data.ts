@@ -1,3 +1,4 @@
+import { sanearMoto } from "./fotos-saneadas.ts";
 // Datos estructurados para el comparador de motos eléctricas.
 // Fuente principal: webs oficiales de las marcas (fichas técnicas España).
 // Solo datos publicados por fuentes fiables; si un dato no aparece, null.
@@ -161,7 +162,7 @@ export const MOTOS_COMPARADOR: MotoComparador[] = [
   ...MOTOS_LOTE16,
   ...MOTOS_PRIORIDAD_20261014,
   ...MOTOS_NUEVOS_M6,
-];
+].map(sanearMoto);
 /** 18/10/2026: ids de datos sin ficha propia publicada. No se cuentan ni se enlazan.
  *  (18/10 tarde: cyclone-battlo, keeway-k-light-250v, zontes-368e, zontes-e125 y ktm-1390-super-adventure-s-2026
  *  ya tienen ficha 200 indexable en vivo, así que vuelven a contar: hub y comparador = mismo recuento.) */

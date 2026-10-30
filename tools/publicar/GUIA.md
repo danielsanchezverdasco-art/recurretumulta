@@ -45,7 +45,7 @@ Duración: el dry-run completo con build y prerender tarda bastante (decenas de 
 | src | 0 ficheros de `no-tocar.txt` cambiados; títulos de `titulos.csv` sin cambios (hasta 1/11); tienda fuera de rutas/navbar/embudo |
 | rev3 | `rev3b.py`: **0** frases de 8+ palabras nuevas repetidas frente a lo vivo (mismo medidor que `tools/rev3/rev3.py`) |
 | build | `npm run build` + Convex de prod + `bajar_vivo --rellenar` + prerender + 17 pasos de postproceso; toda ruta con página |
-| dist | `mkdraft --check`: **0 eliminaciones** y **0 reglas de `_redirects` perdidas** (`_redirects` completo); ninguna página con enlace a /tienda, «Algo salió mal» o localhost; **0 fotos rotas nuevas**; `chequeo_fotos.py` (sin fotos IA, fuente en fotos nuevas); títulos del HTML = los de vivo (muestra); sitemap ≥97 % del vivo y con todas sus URLs con página |
+| dist | `mkdraft --check`: **0 eliminaciones** y **0 reglas de `_redirects` perdidas** (`_redirects` completo); ninguna página con enlace a /tienda, «Algo salió mal» o localhost; **0 fotos rotas nuevas**; `chequeo_fotos.py` (sin fotos IA, fuente en fotos nuevas); **`validar-dist-publicable.py` (BLOQUEANTE, 31/10/2026): 0 páginas indexables con «Foto pendiente / Foto real próximamente», imagen placeholder (md5 en `scripts/placeholder-md5.txt`), `<img src="">` ni texto interno (`null`, `undefined`, `precioDesde`, `cargaUtilKg`, `Grok 22:15`…)**; títulos del HTML = los de vivo (muestra); sitemap ≥97 % del vivo y con todas sus URLs con página |
 | publicar | borrador sobre el vivo actual → espera `ready` → portada, páginas nuevas y muestra dan 200 + `qa.py` → publica (`restoreSiteDeploy`) → **purga Cloudflare** → verifica producción (portada, nuevas, muestra, sitemap, `/tienda` igual que antes, `qa.py`) |
 
 Los avisos (`AVISO`) no abortan, pero **cuéntaselos a Daniel**.
@@ -70,6 +70,7 @@ python3 scripts/deploy/rollback.py --a <deploy_anterior> --desde <deploy_nuevo> 
 | «El vivo es X pero ESTADO-VIVO dice Y» | Alguien publicó. `git pull`; si el estado no se actualiza, PARA y avisa a Daniel/Cosa. |
 | «TÍTULOS CONGELADOS» / «BLOQUEADOS (no-tocar)» | Revierte esos ficheros (`git checkout <base> -- <fichero>`). No se negocia. |
 | «rev3: N frases repetidas» | Reescribe esos textos sin repetir (detalle en `$DEPLOY_WORK/rev3new.json`). |
+| `validar-dist-publicable.py` | Mira `validar-dist.txt` (en el directorio de trabajo): quita el texto interno del dato, o pon la foto real del MISMO modelo con su fuente. Una ficha sin foto real no se publica indexable: `postfix-foto-pendiente.py` la deja noindex y fuera del sitemap. Si aparece otra variante de placeholder, añade su md5 a `scripts/placeholder-md5.txt` y su ruta a `src/lib/fotos-malas.generated.ts`. |
 | «FOTOS ROTAS» / chequeo_fotos | Quita la foto o añade la real con su URL de fuente; nunca imágenes IA de coches. |
 | «Prerender sin página para …» | Repite con `PRERENDER_CONCURRENCY=1`; si sigue, es contenido roto: pregunta. |
 | «Árbol con cambios sin commit» | Haz commit o `git stash`: lo que se publica debe ser lo revisado. |
@@ -79,3 +80,8 @@ Log completo de cada ejecución: `$DEPLOY_WORK/publicar-*.log` (por defecto `.de
 ## 6. _redirects: nunca se pierde una regla del vivo
 Netlify no sirve `/_redirects` por la web (da 404) ni lo entrega por API (solo su sha1), así que la copia de referencia es `redirects-vivo.txt`, que el script **verifica por sha1 contra el deploy vivo** en cada ejecución. Después compara **regla a regla**: si el `_redirects` a publicar pierde cualquiera de las del vivo, **ABORTA** (y `mkdraft --check` lo vuelve a comprobar).
 Caso real (28/10): `main` NO tiene los 301 de `lexus-tz-2026`, `audi-q9-2026`, `bmw-ix7-2027` y `bentley-torcal-first-edition-2026` (`/blog/<slug>-precio-ficha-tecnica` → `/coches/…`), que sí están en vivo y en `radar-integ-2810`. Construir desde `main` los perdería: por eso se parte de la rama del kit.
+
+
+## Pasos nuevos (31/10/2026)
+- `scripts/rellenar-media-vivo.py` (en f_build, tras `bajar_vivo`): baja a `dist/media` las ~1.200 fotos que solo existen en producción, para que el prerender no hornee «Foto pendiente» ni og-fallback en fichas con foto real.
+- `scripts/postfix-foto-pendiente.py` entra en la lista de postproceso (antes de `sitemap-final.py`): ficha sin foto real = `noindex,follow` + fuera del sitemap. Antes solo estaba en `npm run build:full` y nunca llegó a producción.

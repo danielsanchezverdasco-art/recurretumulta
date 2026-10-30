@@ -1,4 +1,5 @@
 import { useParams, Link, useLocation } from "react-router-dom";
+import { sanearPostBlog } from "@/lib/fotos-saneadas.ts";
 import { lazy, Suspense, useEffect, useState } from "react";
 import {
   Shield, Clock, ArrowLeft, ArrowRight, Sparkles, Share2, Check, AlertTriangle, UserRound, BookOpen, Loader2
@@ -433,7 +434,7 @@ function BlogPostPage() {
 
   // El fichero estático es la fuente canónica (revisado y enriquecido con vídeos);
   // Convex queda como fallback para artículos que aún no estén en el estático.
-  const post = staticPost ?? (dbPost ?? null);
+  const post = sanearPostBlog(staticPost ?? (dbPost ?? null)) as typeof staticPost | null;
   const tpBlog: BlogTextosPropios | undefined = post && "textosPropios" in post ? (post as BlogPost).textosPropios : undefined;
 
   // Estado "cargando": el módulo estático aún no resolvió. Si el estático dice

@@ -8,7 +8,7 @@ Uso: postfix-foto-pendiente.py dist [--solo-lista]   Lista: scripts/noindex-foto
 import os, re, sys
 D = sys.argv[1] if len(sys.argv) > 1 else "dist"
 SOLO = "--solo-lista" in sys.argv
-HUECO = re.compile(r'data-foto-pendiente|<p\b[^>]*>\s*Foto (?:oficial )?pendiente de verificaci(?:ó|&oacute;)n\s*</p>')
+HUECO = re.compile(r'data-foto-pendiente|<p\b[^>]*>\s*Foto (?:oficial )?pendiente(?: de verificaci(?:ó|&oacute;)n)?\s*</p>')
 FICHA = re.compile(r'^/(coches|motos|patinetes|autocaravanas|campers|caravanas)/[^/]+/$')
 ROBOTS = re.compile(r'<meta\s+name="robots"\s+content="[^"]*"\s*/?>', re.I)
 FOTO_REAL = re.compile(r'<img\b[^>]*\bsrc="/media/(?:coches|motos|patinetes|autocaravanas|campers|caravanas)/', re.I)
@@ -20,8 +20,8 @@ for root, _, files in os.walk(D):
     if not FICHA.match(rel): continue
     p = os.path.join(root, "index.html"); s = open(p, encoding="utf-8").read()
     if not HUECO.search(s): continue
-    # si la ficha ya tiene alguna foto real del modelo (galería, cuerpo), no se toca
-    if FOTO_REAL.search(s): continue
+    # 31/10/2026: el hueco solo se pinta cuando GaleriaFicha no tiene NINGUNA foto: ficha sin foto real = noindex siempre
+    # (antes se salvaba si había cualquier /media/coches/... en la página, p. ej. en una tarjeta de «relacionados»).
     lista.append(rel)
     if SOLO: continue
     n = ROBOTS.sub(NOI, s, 1) if ROBOTS.search(s) else s.replace("</head>", NOI + "</head>", 1)

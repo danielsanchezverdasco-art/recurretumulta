@@ -22,19 +22,23 @@ function desescaparComillas(s) {
   return out;
 }
 
+import { readFileSync as _rf } from "node:fs";
+// 31/10/2026: las fotos que no existen / son el placeholder no pueden ser la portada (src/lib/fotos-malas.generated.ts).
+const MALAS = new Set((_rf(new URL("../src/lib/fotos-malas.generated.ts", import.meta.url), "utf8").match(/= ("(?:[^"\\]|\\.)*");/) ? JSON.parse(_rf(new URL("../src/lib/fotos-malas.generated.ts", import.meta.url), "utf8").match(/= ("(?:[^"\\]|\\.)*");/)[1]) : "").split("\n"));
 function postHeroImage(content) {
-  const heroTag = content.match(/<img[^>]*>/i);
-  if (!heroTag) return null;
-  const tag = desescaparComillas(heroTag[0]);
-  const srcM = tag.match(/src=("[^"]*"|'[^']*'|[^\s>]+)/i);
-  if (!srcM) return null;
-  const src = srcM[1].replace(/^["']|["']$/g, "");
-  if (!src) return null;
-  const altM = tag.match(/alt=("[^"]*"|'[^']*'|[^>]+)/i);
-  const alt = altM
-    ? altM[1].replace(/^["']|["']$/g, "").replace(/\s*\/?$/, "").trim()
-    : "";
-  return { src, alt };
+  for (const heroTag of content.match(/<img[^>]*>/gi) ?? []) {
+    const tag = desescaparComillas(heroTag);
+    const srcM = tag.match(/src=("[^"]*"|'[^']*'|[^\s>]+)/i);
+    if (!srcM) continue;
+    const src = srcM[1].replace(/^["']|["']$/g, "");
+    if (!src || MALAS.has(src)) continue;
+    const altM = tag.match(/alt=("[^"]*"|'[^']*'|[^>]+)/i);
+    const alt = altM
+      ? altM[1].replace(/^["']|["']$/g, "").replace(/\s*\/?$/, "").trim()
+      : "";
+    return { src, alt };
+  }
+  return null;
 }
 
 function extractPostsFromFile(filePath) {

@@ -15,7 +15,7 @@ PROD = "https://recurretumulta.online"
 SECRETOS = ["NETLIFY_AUTH_TOKEN", "CF_API_TOKEN", "CLOUDFLARE_API_TOKEN", "CF_ZONE_ID"]
 FASES = ["entorno", "candado", "vivo", "git", "src", "rev3", "build", "dist", "publicar"]
 # Ficheros que `npm run build` y el postproceso regeneran y dejan "modificados" en git: es normal.
-DIRT_OK = re.compile(r"(\.generated\.|__pycache__|^sitemap-final-informe\.json$|^scripts/noindex-vacios\.txt$|"
+DIRT_OK = re.compile(r"(\.generated\.|__pycache__|^sitemap-final-informe\.json$|^scripts/noindex-vacios\.txt$|^scripts/noindex-foto-pendiente\.txt$|"
                      r"^src/lib/(data-loaders|historial-precios-gen|ficha-extra-gen|fichas-fechas-eeat|audiencia)/|"
                      r"^tools/publicar/(\.env$|\.deploy-work)|^\.deploy-work)")
 # Cambios que solo tocan datos/contenido: permiten prerender parcial. Cualquier otro cambio de src/ exige prerender TOTAL.
@@ -330,6 +330,7 @@ def f_build(c):
     if not cu or cu.group(1).rstrip("/") not in js or re.search(r"(localhost|127\.0\.0\.1):\d+", js): c.abort("El build apunta a Convex equivocado (.env.production). No se publica.")
     c.ok("build OK y Convex de producción")
     c.py("bajar_vivo.py", "dist", "--rellenar", "--patron", r"\.html$")
+    c.run([sys.executable, os.path.join(c.repo, "scripts", "rellenar-media-vivo.py"), "dist"])
     todas, estaticas = rutas_todas(c)
     modo = c.a.prerender
     env = {"PRERENDER_CONCURRENCY": os.environ.get("PRERENDER_CONCURRENCY", "4")}
@@ -358,6 +359,7 @@ def f_build(c):
                 ["node", "scripts/apply-seo.mjs", "dist"], ["python3", "scripts/postfix-dist.py", "dist"], ["python3", "scripts/postfix-vacios.py", "dist"],
                 ["python3", "scripts/fix-redirects.py"], ["python3", "../scripts/fix-chains.py"], ["python3", "scripts/postproceso-seo-20261019.py", "dist"],
                 ["python3", "scripts/deploy/fotos-hotfix/fotos_hotfix.py", "dist/media", "--bajar-origenes", "--lista-salida", os.path.join(c.work, "media-forzar.txt")],
+                ["python3", "scripts/postfix-foto-pendiente.py", "dist"],
                 ["python3", "scripts/sitemap-final.py", "dist"]]:
         cwd = os.path.join(c.repo, "dist") if cmd[1] == "../scripts/fix-chains.py" else c.repo
         cmd = [sys.executable if x == "python3" else x for x in cmd]
@@ -427,6 +429,10 @@ def f_dist(c):
     c.ok("0 fotos rotas nuevas (%d ya estaban rotas en vivo)" % len(rotas))
     c.py("chequeo_fotos.py", "--dist", c.dist, "--cambios", os.path.join(c.work, "cambios.json"), quiet=True)
     c.ok("chequeo_fotos.py OK (sin fotos IA, fotos nuevas con URL de fuente)")
+    # 31/10/2026: BLOQUEANTE — ninguna página indexable con foto placeholder, <img src vacío> ni texto interno (null, precioDesde, Grok 22:15...).
+    rc, t = c.run([sys.executable, os.path.join(c.repo, "scripts", "validar-dist-publicable.py"), c.dist, "--informe", os.path.join(c.work, "validar-dist.txt")], check=False, quiet=True)
+    if rc != 0: c.abort("validar-dist-publicable.py: páginas indexables con foto placeholder / texto interno. Informe: %s. %s" % (os.path.join(c.work, "validar-dist.txt"), "; ".join(t.strip().splitlines()[:4])[:400]))
+    c.ok("validar-dist-publicable.py OK (0 placeholders ni texto interno en páginas indexables)")
     # títulos congelados en el HTML real: muestra de páginas cambiadas vs vivo
     exist = [p for p in cam["chg"] if p.endswith(".html")]
     random.seed(1); muestra = random.sample(exist, min(len(exist), c.a.muestra_titulos))

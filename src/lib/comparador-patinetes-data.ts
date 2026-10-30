@@ -1,3 +1,4 @@
+import { sanearPatinete } from "./fotos-saneadas.ts";
 // Datos estructurados para el comparador de patinetes eléctricos (herramienta "Novedades Motor").
 // Verificados el 02/10/2026 en webs oficiales de las marcas (mi.com, segway.com,
 // cecotec.es, niu.com, navee.tech) y manuales oficiales. Solo datos que aparecen
@@ -101,7 +102,7 @@ export const PATINETES_COMPARADOR: PatineteComparador[] = [
   ...PATINETES_EXP_P11,
   ...PATINETES_EXP_P12,
   ...PATINETES_PRIORIDAD_20261014,
-];
+].map(sanearPatinete);
 
 /** 18/10/2026: solo patinetes con ficha propia publicada. Fuera los duplicados con 301 a otra
  *  ficha que sí existe (p. ej. xiaomi-electric-scooter-4 -> su ficha vigente). Mismo recuento que el hub /patinetes/. */

@@ -81,7 +81,8 @@ export default function GaleriaFicha({
     };
   }, [grande, n]);
 
-  if (n === 0) return <>{vacio}</>;
+  // 31/10/2026: marcador para scripts/postfix-foto-pendiente.py (ficha sin foto real = noindex + fuera del sitemap).
+  if (n === 0) return <div data-foto-pendiente="1">{vacio}</div>;
   const fit = ajuste === "cover" ? "object-cover" : "object-contain bg-white";
 
   return (
