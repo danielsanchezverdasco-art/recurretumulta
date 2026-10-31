@@ -25,9 +25,9 @@ const MULTAS_COMUNES: [string, string, string][] = [
   ["Exceso de velocidad captado por cinemómetro (cuadro del anexo IV)", "100 a 600 €", "0 a 6"],
   ["Sujetar el móvil con la mano al conducir", "200 €", "6"],
   ["No usar cinturón, casco u otro elemento de protección obligatorio", "200 €", "4"],
-  ["No respetar la luz roja de un semáforo", "200 €", "4"],
+  ["Saltarse un semáforo en rojo", "200 €", "4"],
   ["Alcohol, conductores en general: más de 0,25 y hasta 0,50 mg/l en aire espirado", "500 €", "4"],
-  ["Alcohol, conductores en general: más de 0,50 mg/l en aire espirado", "1.000 €", "6"],
+  ["Alcohol, conductores en general: por encima de 0,50 mg/l en aire espirado", "1.000 €", "6"],
   ["Parar o estacionar en un lugar peligroso o que obstaculice gravemente", "200 €", "0"],
   ["Infracciones relativas a la inspección técnica de vehículos", "200 €", "0"],
 ];

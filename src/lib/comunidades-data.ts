@@ -48,7 +48,7 @@ function respuestaOrganismo(c: Omit<Comunidad, "faq">): { pregunta: string; resp
       return {
         pregunta: `¿A quién recurro una multa de tráfico en ${n}, a la DGT o al Servei Català de Trànsit?`,
         respuesta:
-          "Al Servei Català de Trànsit, que instruye y resuelve los expedientes; los Mossos d'Esquadra denuncian las infracciones. El recurso de reposición se presenta ante la Dirección del Servei Català de Trànsit en el plazo de un mes desde el día siguiente a la notificación, y solo cabe en el procedimiento ordinario: si se pagó con la reducción del 50 %, queda la vía contencioso-administrativa. Fuente: transit.gencat.cat, consulta del 31/10/2026.",
+          "Al Servei Català de Trànsit, que instruye y resuelve los expedientes; los Mossos d'Esquadra denuncian las infracciones. El recurso de reposición se presenta ante la Dirección del Servei Català de Trànsit dentro del mes posterior a la notificación, y solo cabe en el procedimiento ordinario: si se pagó con la reducción del 50 %, queda la vía contencioso-administrativa. Fuente: transit.gencat.cat, consulta del 31/10/2026.",
       };
     case "ERT":
       return {
@@ -61,7 +61,7 @@ function respuestaOrganismo(c: Omit<Comunidad, "faq">): { pregunta: string; resp
       return {
         pregunta: `¿Dónde presento el recurso de una multa de tráfico en ${n}?`,
         respuesta:
-          "A partir del 1/07/2026 tramita, resuelve y cobra el Gobierno de Navarra; por tanto las alegaciones y los recursos se dirigen a la Administración foral y no a la DGT. Hay 20 días naturales desde la notificación para alegar y se presentan por Mi Carpeta Ciudadana o de forma presencial; el pago se hace en navarra.es/es/trafico (fuente: Gobierno de Navarra, 30/06/2026).",
+          "A partir del 1/07/2026 tramita, resuelve y cobra el Gobierno de Navarra; por tanto las alegaciones y los recursos se dirigen a la Administración foral y no a la DGT. El plazo para alegar son 20 días naturales; el escrito se entrega a través de Mi Carpeta Ciudadana o de forma presencial; el pago se hace en navarra.es/es/trafico (fuente: Gobierno de Navarra, 30/06/2026).",
       };
     default:
       return {
@@ -118,7 +118,7 @@ function faqComun(c: Omit<Comunidad, "faq">): Comunidad["faq"] {
     {
       pregunta: "¿Cuándo prescribe una multa de tráfico?",
       respuesta:
-        "Las infracciones leves prescriben a los 3 meses y las graves y muy graves a los 6 meses (artículo 112 del Real Decreto Legislativo 6/2015). Si pasa un año desde que se inicia el procedimiento sin resolución sancionadora, la ley prevé la caducidad.",
+        "Las infracciones leves prescriben a los 3 meses y las graves y muy graves a los 6 meses (art. 112 RDL 6/2015). Si pasa un año desde que se inicia el procedimiento sin resolución sancionadora, la ley prevé la caducidad.",
     },
   ];
 }
@@ -331,7 +331,7 @@ const BASE: Omit<Comunidad, "faq">[] = [
     provincias: ["bilbao", "san-sebastian", "vitoria"],
     capital: "Vitoria-Gasteiz",
     foto: "/media/pilar-radares.webp",
-    descripcion: "El País Vasco tiene competencia propia en tráfico: la Dirección de Tráfico del Gobierno Vasco ejerce la potestad sancionadora (Decreto 318/2024) y la Ertzaintza es el cuerpo que denuncia en sus vías interurbanas. Álava, Bizkaia y Gipuzkoa son sus tres provincias.",
+    descripcion: "El País Vasco tiene competencia propia en tráfico: la Dirección de Tráfico vasca es el órgano sancionador (Decreto 318/2024) y la Ertzaintza es el cuerpo que denuncia en sus vías interurbanas. Álava, Bizkaia y Gipuzkoa son sus tres provincias.",
     particularidades: ["La instrucción y la resolución de los expedientes corresponden a las Oficinas Territoriales de Tráfico de Álava, Bizkaia y Gipuzkoa, según el lugar de la infracción, o al Centro Automatizado de Tramitación de Infracciones de Tráfico (CATIT); los trámites se hacen en euskadi.eus.", ],
     zbe: ["Bilbao", "Donostia-San Sebastián", "Vitoria-Gasteiz"],
     keywords: ["multas de tráfico en el País Vasco", "cómo recurrir una multa en Euskadi", "recurso Ertzaintza multa", "multa Gobierno Vasco recurrir", "dónde recurrir multa País Vasco 2026"],
