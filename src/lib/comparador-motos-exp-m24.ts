@@ -4954,6 +4954,8 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       { src: "/media/kymco-skytown-125-2025-ficha-tecnica-precio-hunt1.webp", alt: "SkyTown 125 (foto: Kymco España, licencia desconocida)", ancho: 1600, alto: 1200 },
       { src: "/media/kymco-skytown-125-2025-ficha-tecnica-precio-hunt2.webp", alt: "SkyTown 125 (foto: Kymco España, licencia desconocida)", ancho: 1600, alto: 1200 },
       { src: "/media/kymco-skytown-125-2025-ficha-tecnica-precio-hunt3.webp", alt: "SkyTown 125 (foto: Kymco España, licencia desconocida)", ancho: 1400, alto: 1400 },
+      { src: "/media/kymco-skytown-125-2025-ficha-tecnica-precio-commons-1.webp", alt: "Kymco Skytown 125 2025 gris oscuro con baúl trasero", ancho: 1600, alto: 1200 },
+      { src: "/media/kymco-skytown-125-2025-ficha-tecnica-precio-commons-2.webp", alt: "Kymco Skytown 125 junto a su cartel de datos en el expositor", ancho: 897, alto: 1109 },
     ],
     videoId: null,
     videoCanal: null,

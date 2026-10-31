@@ -71,6 +71,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
         ancho: 1400,
         alto: 933,
       },
+      { src: "/media/cfmoto-500sr-voom-2026-ficha-tecnica-precio-commons-1.webp", alt: "Imagen de referencia: CFMoto 500SR con carenado plateado en un stand", ancho: 1418, alto: 1373 },
     ],
     videoId: null,
     videoCanal: null,

@@ -596,7 +596,8 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
         alt: "NIU FQiX 150 en entorno urbano",
         ancho: 1024,
         alto: 768,
-      }
+      },
+      { src: "/media/niu-fqix-150-2026-ficha-tecnica-precio-commons-1.webp", alt: "Imagen de referencia: NIU FQiX 2026 naranja y negra en un stand", ancho: 900, alto: 1200 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1212,7 +1213,9 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
         alt: "Piaggio 1 Active en ciudad",
         ancho: 920,
         alto: 566,
-      }
+      },
+      { src: "/media/piaggio-1-active-2025-ficha-tecnica-precio-commons-1.webp", alt: "Imagen de referencia: Piaggio 1 Active 2022 blanco con baúl, en una tienda", ancho: 960, alto: 720 },
+      { src: "/media/piaggio-1-active-2025-ficha-tecnica-precio-commons-2.webp", alt: "Imagen de referencia: Piaggio 1 Active verde junto a un coche", ancho: 1399, alto: 1177 },
     ],
     videoId: null,
     videoCanal: null,
