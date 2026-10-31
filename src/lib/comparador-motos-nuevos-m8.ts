@@ -6,7 +6,7 @@ import type { MotoComparador } from "./comparador-motos-data.ts";
 
 export const MOTOS_NUEVOS_M8: MotoComparador[] = [
   {
-    "id": "voge-sr450x-2026-ficha-tecnica-precio",
+    id: "voge-sr450x-2026-ficha-tecnica-precio",
     "marca": "Voge",
     "modelo": "SR450X",
     "version": "2026",
@@ -52,7 +52,7 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
     "imagen": "/media/motos/voge-sr450x-2026-ficha-tecnica-precio-1.webp"
   },
   {
-    "id": "kymco-cv3-575-2026-ficha-tecnica-precio",
+    id: "kymco-cv3-575-2026-ficha-tecnica-precio",
     "marca": "Kymco",
     "modelo": "CV3 575",
     "version": "2026",
@@ -102,7 +102,7 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
     "imagen": "/media/motos/kymco-cv3-575-2026-ficha-tecnica-precio-1.webp"
   },
   {
-    "id": "voge-125rs-2026-ficha-tecnica-precio",
+    id: "voge-125rs-2026-ficha-tecnica-precio",
     "marca": "Voge",
     "modelo": "125RS",
     "version": "2026",
@@ -145,7 +145,7 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
     "imagen": "/media/motos/voge-125rs-2026-ficha-tecnica-precio-1.webp"
   },
   {
-    "id": "peugeot-pulsion-evo-125-2026-ficha-tecnica-precio",
+    id: "peugeot-pulsion-evo-125-2026-ficha-tecnica-precio",
     "marca": "Peugeot",
     "modelo": "Pulsion EVO 125",
     "version": "2026",
@@ -195,7 +195,7 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
     "imagen": "/media/motos/peugeot-pulsion-evo-125-2026-ficha-tecnica-precio-1.webp"
   },
   {
-    "id": "keeway-terrafina-350i-2026-ficha-tecnica-precio",
+    id: "keeway-terrafina-350i-2026-ficha-tecnica-precio",
     "marca": "Keeway",
     "modelo": "TerraFina 350i",
     "version": "2026",
@@ -249,7 +249,7 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
     "imagen": "/media/motos/keeway-terrafina-350i-2026-ficha-tecnica-precio-1.webp"
   },
   {
-    "id": "voge-rr500s-2026-ficha-tecnica-precio",
+    id: "voge-rr500s-2026-ficha-tecnica-precio",
     "marca": "Voge",
     "modelo": "RR500S",
     "version": "2026",
@@ -295,7 +295,7 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
     "imagen": "/media/motos/voge-rr500s-2026-ficha-tecnica-precio-1.webp"
   },
   {
-    "id": "voge-300rr-2025-ficha-tecnica-precio",
+    id: "voge-300rr-2025-ficha-tecnica-precio",
     "marca": "Voge",
     "modelo": "300RR",
     "version": "2025",
@@ -348,7 +348,7 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
     "imagen": "/media/motos/voge-300rr-2025-ficha-tecnica-precio-1.webp"
   },
   {
-    "id": "verge-ts-pro-2026-ficha-tecnica-precio",
+    id: "verge-ts-pro-2026-ficha-tecnica-precio",
     "marca": "Verge",
     "modelo": "TS Pro",
     "version": "2026",
@@ -392,7 +392,7 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
     "imagen": "/media/motos/verge-ts-pro-2026-ficha-tecnica-precio-1.webp"
   },
   {
-    "id": "kove-321rr-2025-ficha-tecnica-precio",
+    id: "kove-321rr-2025-ficha-tecnica-precio",
     "marca": "Kove",
     "modelo": "321RR",
     "version": "2025",
