@@ -471,11 +471,11 @@ export const HISTORIAS_PROVINCIA: Record<string, HistoriaProvincia[]> = {
   ],
   "melilla": [
     {
-      titulo: "Melilla pondrá en marcha dos fotorrojos para controlar los semáforos",
-      resumen: "La Consejería de Seguridad Ciudadana anunció dos sistemas fotorrojos en Melilla para controlar que los conductores no se salten los semáforos en rojo, con la idea de instalar más de este tipo.",
-      fuente: "COPE Melilla",
-      url: "http://copemelilla.com/actualidad/seguridad-ciudadana-pondra-en-funcionamiento-proximamente-varios-fotorrojos-en-la-ciudad-para-controlar-que-los-conductores-respeten-los-semaforos/182227",
-      fecha: "",
+      titulo: "Melilla activa el sistema de Foto Rojo, con multas de 200 euros y retirada de cuatro puntos",
+      resumen: "El sistema Foto Rojo de Melilla se activó el 16/06/2026 en los cruces de General Polavieja con Alfonso Gurrea y de Álvaro de Bazán con General Ordóñez; saltarse el semáforo en rojo supone 200 euros y 4 puntos.",
+      fuente: "El Faro de Melilla",
+      url: "https://elfarodemelilla.es/melilla-activa-el-sistema-de-foto-rojo-con-multas-de-200-euros-y-retirada-de-cuatro-puntos/",
+      fecha: "2026-06-16",
     },
     {
       titulo: "Melilla, entre las cifras más bajas del récord de multas de la DGT",

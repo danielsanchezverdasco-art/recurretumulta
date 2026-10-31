@@ -18,18 +18,19 @@ import { DriveInImage } from "@/components/motion.tsx";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import CosaEnBanner from "@/components/CosaEnBanner.tsx";
+import { CIUDADES_MULTAS } from "@/lib/ciudades-multas";
 
 // Cumplimiento 18/10/2026 (A2): en Cataluña y País Vasco las multas de las vías
 // interurbanas NO las tramita la DGT. Webs oficiales verificadas el 18/10/2026.
-const AUTONOMICO: Record<string, { nombre: string; url: string; urlTexto: string; texto: string }> = (() => {
-  const sct = { nombre: "Servei Català de Trànsit (SCT)", url: "https://transit.gencat.cat/ca/inici/", urlTexto: "transit.gencat.cat",
+const AUTONOMICO: Record<string, { art: string; nombre: string; url: string; urlTexto: string; texto: string }> = (() => {
+  const sct = { art: "el", nombre: "Servei Català de Trànsit (SCT)", url: "https://transit.gencat.cat/ca/inici/", urlTexto: "transit.gencat.cat",
     texto: "Cataluña tiene competencia propia en tráfico: las denuncias en carreteras y autopistas catalanas las formulan los Mossos d'Esquadra y las tramita el Servei Català de Trànsit, no la DGT. Las alegaciones y recursos de esas multas se dirigen al SCT. Las multas urbanas (zona azul, semáforos, ZBE) son del ayuntamiento." };
-  const gv = { nombre: "Dirección de Tráfico del Gobierno Vasco", url: "https://www.trafikoa.euskadi.eus/inicio/", urlTexto: "trafikoa.euskadi.eus",
-    texto: "Euskadi tiene competencia propia en tráfico: la Ertzaintza denuncia en las carreteras vascas y la Dirección de Tráfico del Gobierno Vasco tramita esas sanciones, no la DGT. Las alegaciones y recursos de multas interurbanas se dirigen al Gobierno Vasco. Las multas urbanas (OTA, ZBE, semáforos) son del ayuntamiento." };
+  const gv = { art: "la", nombre: "Dirección de Tráfico del Gobierno Vasco (Trafikoa)", url: "https://www.trafikoa.euskadi.eus/inicio/", urlTexto: "trafikoa.euskadi.eus",
+    texto: "Euskadi tiene competencia propia en tráfico: la Ertzaintza denuncia en las carreteras vascas y la Dirección de Tráfico del Gobierno Vasco (Trafikoa) tramita esas sanciones, no la DGT. Las alegaciones y recursos de multas interurbanas se dirigen al Gobierno Vasco. Las multas urbanas (OTA, ZBE, semáforos) son del ayuntamiento." };
   return { barcelona: sct, girona: sct, lleida: sct, tarragona: sct, bilbao: gv, "san-sebastian": gv, vitoria: gv };
 })();
-// Páginas de ciudad que no son provincia (noindex): sus radares son los de su
-// provincia (Vigo → Pontevedra, Santiago → A Coruña), según provincias-data.
+// Vigo y Santiago comparten datos de radares con su provincia (Pontevedra y A Coruña);
+// en sus fichas solo se muestran los radares de su propio municipio.
 const CIUDAD_A_PROVINCIA: Record<string, string> = { vigo: "pontevedra", "santiago-compostela": "a-coruna" };
 // 24/10/2026 (fusión radares↔provincias): organismo que publica el listado
 // oficial de radares fijos de cada provincia (verificado el 24/10/2026). En
@@ -44,9 +45,8 @@ const FUENTE_RADARES: Record<string, { art: string; nombre: string; url: string;
 })();
 const DGT_RADAR = { art: "La", nombre: "DGT", url: "https://www.dgt.es/inicio/", urlTexto: "dgt.es" };
 const fuenteRadaresDe = (slug: string) => FUENTE_RADARES[slug] ?? DGT_RADAR;
-// A1 (doorway): Vigo y Santiago duplican a Pontevedra y A Coruña (75 % y 70 % de texto
-// compartido). noindex,follow hasta tener contenido municipal propio.
-// noindex,follow vía src/lib/noindex.generated.json (/multas/vigo/, /multas/santiago-compostela/).
+// Las siete fichas de ciudad (Bilbao, San Sebastián, Vitoria, Ceuta, Melilla, Vigo y
+// Santiago) llevan contenido local propio en src/lib/ciudades-multas.ts (31/10/2026).
 
 export default function MultaProvinciaPage() {
   const { provincia: slug } = useParams<{ provincia: string }>();
@@ -60,12 +60,14 @@ export default function MultaProvinciaPage() {
     valladolid: { title: "Multa en Valladolid: recúrrela gratis con IA (2026)", h1: "Multa en Valladolid: recúrrela gratis con IA" },
   };
   const seoOverride = TITULOS_SEO[slug ?? ""];
+  const cm = CIUDADES_MULTAS[slug ?? ""];
+  const FECHA_MOD = cm ? "2026-10-31" : "2026-10-04";
   // Datos rápidos 2026 (07/10/2026): tabla universal para las 54 provincias.
   // Fuente: directorio oficial de Jefaturas Provinciales y Oficinas Locales de la
   // DGT (Carta de Servicios, dgt.es), sede.dgt.gob.es y RDL 6/2015 (BOE).
   // Solo se muestran filas con dato verificado; si falta un campo, su fila se oculta.
 
-  const FOTOS: Record<string, string> = { madrid: "/media/file_sG1QGXHmBmVNNxxkWkdoekLf.webp", barcelona: "/media/file_NwTcVnMEc6kvu0BEmGS06Dij.webp", sevilla: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", malaga: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", granada: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", cordoba: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", cadiz: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", huelva: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", jaen: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", almeria: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", pontevedra: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", "a-coruna": "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", "santiago-compostela": "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", vigo: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", lugo: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", ourense: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", oviedo: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", santander: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", bilbao: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", "san-sebastian": "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", vitoria: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", valencia: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", alicante: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", murcia: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", tarragona: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", girona: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", lleida: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", castellon: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", "palma-mallorca": "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp" }; const FOTO_DEFAULT = "/media/file_Z8djfEFD5PFw1iuocMtty02V.webp"; const fotoProvincia = FOTOS[slug ?? ""] ?? FOTO_DEFAULT; const auto = AUTONOMICO[slug ?? ""]; const todasFaqs = (p?.faq ?? []).filter((f) => !/^¿Cuánto tarda en resolverse un recurso|^¿Las multas del Ayuntamiento de .* se recurren igual/.test(f.pregunta)).map((f) => auto ? { pregunta: f.pregunta, respuesta: /presento el recurso/i.test(f.pregunta) ? `Las multas de carretera en ${p?.nombre} las tramita el ${auto.nombre} (${auto.urlTexto}), no la DGT: las alegaciones y el recurso se presentan ante ese organismo. Las multas municipales, ante el ayuntamiento.` : f.respuesta.replace(/Las multas de la DGT \(carreteras\) se recurren ante la Jefatura Provincial de Tráfico/g, `Las multas de carretera se recurren ante el ${auto.nombre}`).replace(/Las multas de carretera estatal en el País Vasco siguen el mismo procedimiento DGT\./, "Las multas de carretera en Euskadi las tramita la Dirección de Tráfico del Gobierno Vasco, con el mismo procedimiento sancionador de la Ley de Tráfico.") } : f);
+  const FOTOS: Record<string, string> = { madrid: "/media/file_sG1QGXHmBmVNNxxkWkdoekLf.webp", barcelona: "/media/file_NwTcVnMEc6kvu0BEmGS06Dij.webp", sevilla: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", malaga: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", granada: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", cordoba: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", cadiz: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", huelva: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", jaen: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", almeria: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", pontevedra: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", "a-coruna": "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", "santiago-compostela": "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", vigo: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", lugo: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", ourense: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", oviedo: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", santander: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", bilbao: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", "san-sebastian": "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", vitoria: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", valencia: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", alicante: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", murcia: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", tarragona: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", girona: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", lleida: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", castellon: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", "palma-mallorca": "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp" }; const FOTO_DEFAULT = "/media/file_Z8djfEFD5PFw1iuocMtty02V.webp"; const fotoProvincia = FOTOS[slug ?? ""] ?? FOTO_DEFAULT; const auto = AUTONOMICO[slug ?? ""]; const todasFaqs = (p?.faq ?? []).filter((f) => !/^¿Cuánto tarda en resolverse un recurso|^¿Las multas del Ayuntamiento de .* se recurren igual/.test(f.pregunta)).map((f) => auto ? { pregunta: f.pregunta, respuesta: /presento el recurso/i.test(f.pregunta) ? `Las multas de carretera en ${p?.nombre} las tramita ${auto.art} ${auto.nombre} (${auto.urlTexto}), no la DGT: las alegaciones y el recurso se presentan ante ese organismo. Las multas municipales, ante el ayuntamiento.` : f.respuesta.replace(/Las multas de la DGT \(carreteras\) se recurren ante la Jefatura Provincial de Tráfico/g, `Las multas de carretera se recurren ante ${auto.art} ${auto.nombre}`).replace(/Las multas de carretera estatal en el País Vasco siguen el mismo procedimiento DGT\./, "Las multas de carretera en Euskadi las tramita la Dirección de Tráfico del Gobierno Vasco, con el mismo procedimiento sancionador de la Ley de Tráfico.") } : f);
 
 
   // SEO dinámico por provincia. Se llama siempre (nunca condicionalmente antes
@@ -80,7 +82,7 @@ export default function MultaProvinciaPage() {
     description: `¿Multa de la DGT o Policía Local en ${p.nombre}? Analízala gratis con IA: detecta vicios de forma y genera tu recurso en PDF.`,
     canonical: `/multas/${p.slug}/`,
     // E-E-A-T 17/10/2026: misma fecha que el JSON-LD de la página (fecha de publicación no registrada).
-    dateModified: "2026-10-04",
+    dateModified: FECHA_MOD,
     keywords: [
       ...p.keywords,
       `recurrir multa ${p.nombre}`,
@@ -106,7 +108,7 @@ export default function MultaProvinciaPage() {
             "description": "Fundador y responsable de contenidos de RecurreTuMulta.online",
             "url": "https://recurretumulta.online/quienes-somos",
           },
-          "dateModified": "2026-10-04",
+          "dateModified": FECHA_MOD,
           "isPartOf": { "@id": "https://recurretumulta.online/#website" },
           "breadcrumb": {
             "@type": "BreadcrumbList",
@@ -120,7 +122,7 @@ export default function MultaProvinciaPage() {
         {
           "@type": "GovernmentOffice",
           "name": p.dgtDelegacion,
-          "description": AUTONOMICO[p.slug] ? `Jefatura de la DGT en ${p.nombre} (vehículos y permisos). Las multas interurbanas las tramita el ${AUTONOMICO[p.slug].nombre}.` : `Oficina oficial de la DGT para presentar recursos de multas en ${p.nombre}.`,
+          "description": AUTONOMICO[p.slug] ? `Jefatura de la DGT en ${p.nombre} (vehículos y permisos). Las multas interurbanas las tramita ${AUTONOMICO[p.slug].art} ${AUTONOMICO[p.slug].nombre}.` : `Oficina oficial de la DGT para presentar recursos de multas en ${p.nombre}.`,
           "address": {
             "@type": "PostalAddress",
             "streetAddress": (p as {direccionDgt?: string}).direccionDgt ?? "",
@@ -174,7 +176,7 @@ export default function MultaProvinciaPage() {
         <div className="relative overflow-hidden">
           <DriveInImage
             src={fotoProvincia}
-            alt={`Recurrir multas de tráfico en ${p.nombre}`}
+            alt={cm?.altHero ?? `Recurrir multas de tráfico en ${p.nombre}`}
             eager={true}
             className="absolute inset-0"
             imgClassName="w-full h-full object-cover"
@@ -221,7 +223,7 @@ export default function MultaProvinciaPage() {
               </span>
               <span>Por <Link to="/sobre-nosotros/" rel="author" className="underline underline-offset-2">Daniel</Link>, fundador y responsable de contenidos de RecurreTuMulta.online</span>
               <span aria-hidden="true">·</span>
-              <span>Actualizado: octubre 2026</span>
+              <span>{cm ? "Actualizado: 31/10/2026" : "Actualizado: octubre 2026"}</span>
             </div>
           </div>
         </div>
@@ -251,13 +253,19 @@ export default function MultaProvinciaPage() {
                   {auto && (
                     <tr>
                       <td className="py-2 pr-3 font-semibold text-gray-700 align-top whitespace-nowrap">Multas de carretera</td>
-                      <td className="py-2 text-gray-600">Las tramita el {auto.nombre}: <a href={auto.url} target="_blank" rel="noopener noreferrer" className="text-red-600 hover:underline">{auto.urlTexto}</a></td>
+                      <td className="py-2 text-gray-600">Las tramita {auto.art} {auto.nombre}: <a href={auto.url} target="_blank" rel="noopener noreferrer" className="text-red-600 hover:underline">{auto.urlTexto}</a></td>
                     </tr>
                   )}
                   {!auto && <tr>
                     <td className="py-2 pr-3 font-semibold text-gray-700 align-top whitespace-nowrap">Pagar online</td>
                     <td className="py-2 text-gray-600"><a href={PORTAL_PAGO_MULTAS_DGT} target="_blank" rel="noopener noreferrer" className="text-red-600 hover:underline">sede.dgt.gob.es — Paga tu multa</a></td>
                   </tr>}
+                  {cm && (
+                    <tr>
+                      <td className="py-2 pr-3 font-semibold text-gray-700 align-top whitespace-nowrap">Pronto pago</td>
+                      <td className="py-2 text-gray-600">Reducción del 50 % si pagas en los 20 días naturales siguientes a la notificación (art. 94 del RDL 6/2015). Pagar supone renunciar a las alegaciones y cierra la vía administrativa: solo queda el recurso contencioso-administrativo.</td>
+                    </tr>
+                  )}
                   <tr>
                     <td className="py-2 pr-3 font-semibold text-gray-700 align-top whitespace-nowrap">Plazo para recurrir</td>
                     <td className="py-2 text-gray-600">Alegaciones: {PLAZO_ALEGACIONES_MULTAS} de la denuncia. Recurso de reposición: 1 mes desde la resolución sancionadora.</td>
@@ -312,6 +320,7 @@ export default function MultaProvinciaPage() {
                 </ul>
               </CardContent>
             </Card>
+            {!cm && (
             <Card className="border border-gray-200">
               <CardContent className="p-4 space-y-3">
                 <p className="text-xs font-bold uppercase tracking-widest text-gray-400">Radares conocidos</p>
@@ -330,9 +339,11 @@ export default function MultaProvinciaPage() {
                 <p className="text-[11px] text-gray-400">Tramos donde la DGT suele colocar controles de velocidad fijos o móviles.</p>
               </CardContent>
             </Card>
+            )}
           </div>
 
           {/* Radares oficiales de la provincia (dataset de radares: ficha + mapa + Street View) */}
+          {!cm && (
           <section className="space-y-3">
             <div className="flex items-end justify-between gap-3 flex-wrap">
               <h2 className="text-xl font-black text-gray-900">
@@ -386,6 +397,44 @@ export default function MultaProvinciaPage() {
               </p>
             )}
           </section>
+          )}
+          {cm?.radaresIntro && (
+            <section className="space-y-3">
+              <div className="flex items-end justify-between gap-3 flex-wrap">
+                <h2 className="text-xl font-black text-gray-900">Radares en {p.nombre}</h2>
+                <Link to="/provincias/" className="text-xs font-bold text-red-600 hover:underline">
+                  Mapa de radares de España →
+                </Link>
+              </div>
+              <p className="text-sm text-gray-600">{cm.radaresIntro}</p>
+              <ul className="grid sm:grid-cols-2 gap-2">
+                {(cm.radares ?? radaresProvincia.filter((r) => r.municipio === cm.radaresMunicipio).map((r) => ({ via: r.carretera, pk: r.pk.replace(".", ","), sentido: r.sentido ?? "", limite: r.limite != null ? String(r.limite) : "", zona: r.municipio ?? "" }))).map((r) => (
+                  <li key={`${r.via}-${r.pk}-${r.sentido}`} className="border border-gray-200 rounded-xl px-3 py-2.5 bg-white">
+                    <div className="flex items-center justify-between gap-2">
+                      <span className="text-sm text-gray-700">
+                        <span className="font-bold text-gray-900">{r.via} pk {r.pk}</span> — {r.zona}
+                        {r.sentido ? <span className="text-gray-400"> (sentido {r.sentido})</span> : null}
+                      </span>
+                      {r.limite ? (
+                        <span className="shrink-0 rounded-full bg-[#cd001d] px-2 py-0.5 text-[11px] font-extrabold text-white">{r.limite} km/h</span>
+                      ) : (
+                        <span className="shrink-0 text-[10px] font-semibold text-gray-400">límite no publicado</span>
+                      )}
+                    </div>
+                  </li>
+                ))}
+              </ul>
+              {cm.radaresCercanos && (
+                <p className="text-sm text-gray-600">
+                  {cm.radaresCercanos}
+                  {esCiudadSinProvincia && <> <Link to={`/multas/${slugRadares}/`} className="text-red-600 hover:underline font-semibold">{nombreProvinciaRadares}</Link>.</>}
+                </p>
+              )}
+              {cm.radaresFuente && (
+                <p className="text-[11px] text-gray-400">Fuente: {cm.radaresFuente.texto} (<a href={cm.radaresFuente.url} target="_blank" rel="noopener noreferrer" className="underline">{cm.radaresFuente.urlTexto}</a>).</p>
+              )}
+            </section>
+          )}
 
           {/* Historias reales con fuente (24/10/2026, fusión radares↔provincias):
               noticias reales verificadas 1x1 sobre radares y multas en la provincia. */}
@@ -423,7 +472,9 @@ export default function MultaProvinciaPage() {
                     </li>
                   ))}
                 </ul>
-                <p className="text-xs text-amber-700">Las multas de ZBE se anulan frecuentemente por falta de señalización o error en la etiqueta del vehículo.</p>
+                {cm ? (cm.zbeNota && <p className="text-xs text-amber-700">{cm.zbeNota}</p>) : (
+                  <p className="text-xs text-amber-700">Las multas de ZBE se anulan frecuentemente por falta de señalización o error en la etiqueta del vehículo.</p>
+                )}
               </CardContent>
             </Card>
           )}
@@ -446,13 +497,30 @@ export default function MultaProvinciaPage() {
             <h2 className="text-xl font-black text-gray-900">Dónde y en qué plazo recurrir en {p.nombre}</h2>
             <p className="text-sm text-gray-600 leading-relaxed">
               {auto
-                ? <>Si la denuncia es de carretera, preséntala ante el {auto.nombre} ({auto.urlTexto}).</>
-                : <>Si la denuncia es de la DGT, preséntala ante la {p.dgtDelegacion} ({p.emailDgt}) o en sede.dgt.gob.es.</>}
-              {" "}Si es del Ayuntamiento de {p.capital}, ante el propio ayuntamiento.
+                ? <>Si la denuncia es de carretera, preséntala ante {auto.art} {auto.nombre} ({auto.urlTexto}).</>
+                : <>Si la denuncia es de la DGT, preséntala ante la {p.dgtDelegacion}{p.emailDgt ? ` (${p.emailDgt})` : ""} o en sede.dgt.gob.es.</>}
+              {" "}{cm ? cm.municipal : `Si es del Ayuntamiento de ${p.capital}, ante el propio ayuntamiento.`}
               {" "}<strong>Alegaciones:</strong> {PLAZO_ALEGACIONES_MULTAS} de la denuncia. <strong>Recurso de reposición:</strong> 1 mes desde la resolución sancionadora.
               {" "}Explicamos el procedimiento completo en la <Link to="/multas/" className="text-red-600 hover:underline">guía general para recurrir multas</Link>.
             </p>
           </section>
+
+          {cm?.bloques.map((bl) => (
+            <section key={bl.titulo} className="space-y-3">
+              <h2 className="text-xl font-black text-gray-900">{bl.titulo}</h2>
+              {bl.parrafos.map((t, i) => (
+                <p key={i} className="text-sm text-gray-600 leading-relaxed">{t}</p>
+              ))}
+              {bl.enlaces && (
+                <ul className="space-y-1">
+                  {bl.enlaces.map((e) => (
+                    <li key={e.url} className="text-sm"><a href={e.url} target="_blank" rel="noopener noreferrer" className="text-red-600 hover:underline font-semibold">{e.texto}</a></li>
+                  ))}
+                </ul>
+              )}
+              <p className="text-[11px] text-gray-400">Fuente: {bl.fuente}.</p>
+            </section>
+          ))}
 
           {/* FAQ provincia */}
           {todasFaqs.length > 0 && (
@@ -503,7 +571,7 @@ export default function MultaProvinciaPage() {
           </div>
 
           {/* Footer */}
-          <SharedFooter editorial={{ ambito: "multas", tipo: "articulo", actualizado: "2026-10-04", sinHerramientas: true }} />
+          <SharedFooter editorial={{ ambito: "multas", tipo: "articulo", actualizado: FECHA_MOD, sinHerramientas: true }} />
         </div>
       </main>
     </div>
