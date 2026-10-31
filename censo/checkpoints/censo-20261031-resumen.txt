@@ -1,0 +1,11 @@
+Censo AdSense 2610 — resumen ejecución 31/10/2026 (Niky, solo lectura, sin push)
+Secciones cerradas (de checkpoints previos, sin repetir páginas):
+  coches 2.302, marcas 105, multas 48, caravanas 73, campers 51, herramientas 21
+  Total secciones: 2.600 páginas.
+Pase global de duplicados: CERRADO el 30/10 (2.599 páginas 200; 0 duplicados reales).
+Pase global de enlaces (curl HEAD, 1,5 s de pausa, chunk máximo 600):
+  Hoy: 600 HEADs en 1.522 s, 600x200, 0 fallos, 0 tienda_a_portada.
+  Acumulado pase global: 1.248/17.544 URLs distintas; pendientes 16.296.
+  El único no-200 acumulado es el status 0 transitorio del 30/10 (re-verificado 200).
+Hallazgos nuevos hoy: 0. docs/adsense-2610/niky-censo.csv SIN CAMBIOS (377 hallazgos).
+CENSO NO COMPLETO: falta el resto del pase global de enlaces (16.296 HEADs).

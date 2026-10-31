@@ -1,0 +1,9 @@
+[links-chunk] distintos=17544 hechos=648 pendientes=16896 chunk=600 pace=1.5
+[links-chunk] 100/600 ultimo=https://recurretumulta.online/coches/mg4-electric-standard-2025-precio-ficha-tecnica/ status=200
+[links-chunk] 200/600 ultimo=https://recurretumulta.online/coches/citroen-c5-x-phev-2026-precio-ficha-tecnica/ status=200
+[links-chunk] 300/600 ultimo=https://recurretumulta.online/coches/volkswagen-t-roc-2024-precio-ficha-tecnica/ status=200
+[links-chunk] 400/600 ultimo=https://recurretumulta.online/coches/camperiz-dacia-dokker-2026-precio-ficha-tecnica/ status=200
+[links-chunk] 500/600 ultimo=https://recurretumulta.online/coches/skoda-elroq-85x-2026/ status=200
+[links-chunk] 600/600 ultimo=https://recurretumulta.online/coches/skoda-kodiaq-rs-2026-precio-ficha-tecnica/ status=200
+[links-chunk] hecho: 600 HEADs en 1522s; total_hechos=1248 pendientes_restantes=16296 parada_por_errores=False
+[links-20261031] chunk hoy: 600 HEADs, 600x200, 0 fallos, 0 tienda_a_portada. Total pase global: 1248/17544, pendientes 16296. El unico registro no-200 acumulado sigue siendo el status 0 transitorio del 30/10 (re-verificado 200 entonces); el unico tienda_a_portada acumulado es la propia home, artefacto del registro, no una tienda retirada.
