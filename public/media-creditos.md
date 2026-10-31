@@ -5049,9 +5049,9 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/motos/kove-321rr-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Kove_321_RR_-_EICMA_2024.jpg | Saggittarius A · Wikimedia Commons | CC BY 4.0 |
 | /media/patinetes/segway-zt3-max-e-oficial.webp | https://www.segwayfrance.com/products/segway-zt3-max-e | Segway France (foto de producto oficial) | prensa |
 | /media/patinetes/segway-ninebot-max-g3-pro-e-oficial.webp | https://www.segwayfrance.com/products/ninebot-max-g3-pro-e | Segway France (foto de producto oficial) | prensa |
-| /media/patinetes/vsett-9-oficial.webp | https://vsett-shop.com/wp-content/uploads/2021/02/VSETT-9-BIG-DISPLAY-4.jpg | Vsett Shop Europe (foto de producto oficial) | prensa |
-| /media/patinetes/vsett-8-plus-oficial.webp | https://vsett-shop.com/wp-content/uploads/2021/04/VSETT-8-FRONT-BIG-DISPLAY-.jpeg | Vsett Shop Europe (foto de producto oficial) | prensa |
-| /media/patinetes/vsett-10-plus-apex-oficial.webp | https://vsett-shop.com/wp-content/uploads/2024/07/VSETT-10-APEX-1.jpeg | Vsett Shop Europe (foto de producto oficial) | prensa |
+| /media/patinetes/vsett-9-oficial.webp | https://vsett-shop.com/wp-content/uploads/2021/02/VSETT-9-BIG-DISPLAY-4.jpg | Vsett Shop Europe (foto de producto del distribuidor) | prensa |
+| /media/patinetes/vsett-8-plus-oficial.webp | https://vsett-shop.com/wp-content/uploads/2021/04/VSETT-8-FRONT-BIG-DISPLAY-.jpeg | Vsett Shop Europe (foto de producto del distribuidor) | prensa |
+| /media/patinetes/vsett-10-plus-apex-oficial.webp | https://vsett-shop.com/wp-content/uploads/2024/07/VSETT-10-APEX-1.jpeg | Vsett Shop Europe (foto de producto del distribuidor) | prensa |
 | /media/patinetes/kukirin-m5-pro-oficial.webp | https://kukirin.es/wp-content/uploads/2023/02/KuKirin-M5-Pro_-patinete_electrico-PRINCIPAL.jpg | KuKirin.es (foto de producto oficial) | prensa |
 | /media/patinetes/pure-air-6-ultra-oficial.webp | https://www.pureelectric.com/cdn/shop/files/pure-scooter-air-ultra-suspension-1244805437.jpg | Pure Electric (foto de producto oficial) | prensa |
 | /media/patinetes/teverun-blade-q-pro-oficial.webp | https://teverun-official.de/wp-content/uploads/2024/04/12fe57a9c05463cef2b4dcf8826e8806.jpg | Teverun Alemania (foto de producto oficial) | prensa |
@@ -5063,7 +5063,7 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/patinetes/hiley-tiger-10-pro-oficial.webp | https://www.hileyrider.com/cdn/shop/products/hiley-T10P-1_e84bc599-9b0b-4379-b6e0-d008752e400b.png | Hiley Rider (foto de producto oficial) | prensa |
 | /media/patinetes/gotrax-g-pro-oficial.webp | https://gotrax.com/cdn/shop/products/g-pro-3-wheel-electric-scooter-189232.jpg | GOTRAX (foto de producto oficial) | prensa |
 | /media/patinetes/zero-9-oficial.webp | https://zeroelectricscooter.com/cdn/shop/products/zero-9_1024x1024.png | Zero Electric Scooter (foto de producto oficial) | prensa |
-| /media/patinetes/vsett-11-plus-oficial.webp | https://cdn.shopify.com/s/files/1/0210/2694/files/vsett-11-p-01.jpg | Vsett (foto de producto oficial) | prensa |
+| /media/patinetes/vsett-11-plus-oficial.webp | https://cdn.shopify.com/s/files/1/0210/2694/files/vsett-11-p-01.jpg | Vsett (foto de producto del distribuidor) | prensa |
 | /media/patinetes/segway-superscooter-gt3-pro-oficial.webp | https://www.ninebot.com/content/dam/segway-ninebot/ap/en/content-import/product-image/ekickscooter-GT3Pro.png | Segway-Ninebot (foto de producto oficial) | prensa |
 | /media/patinetes/segway-ninebot-f30-oficial.webp | https://s7ap1.scene7.com/is/image/ninebotstage/assets_segway_cdn_com_Product-Pictures__product_full_F30D-F30E_Product-pictures_360-side-view-12 | Segway-Ninebot (foto de producto oficial) | prensa |
 | /media/patinetes/segway-ninebot-f40e-oficial.webp | https://s7ap1.scene7.com/is/image/ninebotstage/assets_segway_cdn_com_Product-Pictures__product_full_F40D-F40E_Product-picture_360-side-view-6 | Segway-Ninebot (foto de producto oficial) | prensa |

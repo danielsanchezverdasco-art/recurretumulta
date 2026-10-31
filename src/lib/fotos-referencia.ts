@@ -7,6 +7,7 @@ export const FOTOS_REFERENCIA: Record<string, string> = {
   "forthing-t5-2025-": "Forthing T5 (generación original)",
   "volkswagen-golf-8-2026-": "Volkswagen Golf VIII 1.5 TSI",
   "leapmotor-b10-reev-2026-": "Leapmotor B10 eléctrico (Design Pro Max)",
+  "kaabo-wolf-king-gt-pro-oficial": "Kaabo Wolf King GT",
 };
 
 export function referenciaDe(src?: string | null): string | null {

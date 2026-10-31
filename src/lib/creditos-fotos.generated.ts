@@ -4036,17 +4036,17 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "url": "https://www.segwayfrance.com/products/ninebot-max-g3-pro-e"
 },
 "/media/patinetes/vsett-9-oficial.webp": {
-"autor": "Vsett Shop Europe (foto de producto oficial)",
+"autor": "Vsett Shop Europe (foto de producto del distribuidor)",
 "licencia": "prensa",
 "url": "https://vsett-shop.com/wp-content/uploads/2021/02/VSETT-9-BIG-DISPLAY-4.jpg"
 },
 "/media/patinetes/vsett-8-plus-oficial.webp": {
-"autor": "Vsett Shop Europe (foto de producto oficial)",
+"autor": "Vsett Shop Europe (foto de producto del distribuidor)",
 "licencia": "prensa",
 "url": "https://vsett-shop.com/wp-content/uploads/2021/04/VSETT-8-FRONT-BIG-DISPLAY-.jpeg"
 },
 "/media/patinetes/vsett-10-plus-apex-oficial.webp": {
-"autor": "Vsett Shop Europe (foto de producto oficial)",
+"autor": "Vsett Shop Europe (foto de producto del distribuidor)",
 "licencia": "prensa",
 "url": "https://vsett-shop.com/wp-content/uploads/2024/07/VSETT-10-APEX-1.jpeg"
 },
@@ -4106,7 +4106,7 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "url": "https://zeroelectricscooter.com/cdn/shop/products/zero-9_1024x1024.png"
 },
 "/media/patinetes/vsett-11-plus-oficial.webp": {
-"autor": "Vsett (foto de producto oficial)",
+"autor": "Vsett (foto de producto del distribuidor)",
 "licencia": "prensa",
 "url": "https://cdn.shopify.com/s/files/1/0210/2694/files/vsett-11-p-01.jpg"
 },
