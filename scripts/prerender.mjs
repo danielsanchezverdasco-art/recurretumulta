@@ -329,6 +329,12 @@ async function main() {
       // 07/10/2026 ~16:00: el preload del hero LCP ya vive en index.html
       // (con imagesrcset/imagesizes correctos); la inyección aquí era un
       // duplicado que descargaba el hero dos veces. Eliminada.
+      // 31/10/2026 (velocidad): index.html precarga hero-jungla-selva (~145 KB, prioridad alta) en TODAS
+      // las páginas, pero solo la usa la portada (HeroCosaJungla, img.hj-bg). En fichas y posts competía con
+      // el LCP real. Se quita del HTML capturado cuando la página no pinta ese hero.
+      if (!/class="hj-bg"/.test(html)) {
+        html = html.replace(/<link\s+rel="preload"\s+as="image"[^>]*hero-jungla-selva[^>]*>\s*/s, "");
+      }
       const dest = outPath(route);
       mkdirSync(dirname(dest), { recursive: true });
       writeFileSync(dest, html);
