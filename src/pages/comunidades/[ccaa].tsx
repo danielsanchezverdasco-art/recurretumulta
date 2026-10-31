@@ -26,8 +26,8 @@ const MULTAS_COMUNES: [string, string, string][] = [
   ["Sujetar el móvil con la mano al conducir", "200 €", "6"],
   ["No usar cinturón, casco u otro elemento de protección obligatorio", "200 €", "4"],
   ["No respetar la luz roja de un semáforo", "200 €", "4"],
-  ["Alcohol: más de 0,25 y hasta 0,50 mg/l en aire espirado (conductores en general)", "500 €", "4"],
-  ["Alcohol: más de 0,50 mg/l en aire espirado (conductores en general)", "1.000 €", "6"],
+  ["Alcohol: más de 0,25 y hasta 0,50 mg/l en aire espirado (población general)", "500 €", "4"],
+  ["Alcohol: más de 0,50 mg/l en aire espirado (población general)", "1.000 €", "6"],
   ["Parar o estacionar en un lugar peligroso o que obstaculice gravemente", "200 €", "0"],
   ["Infracciones relativas a la inspección técnica de vehículos", "200 €", "0"],
 ];
@@ -345,7 +345,7 @@ export default function ComunidadPage() {
                     <>Cataluña tiene competencia propia en tráfico. El Servei Català de Trànsit tramita las sanciones en vías interurbanas catalanas y los Mossos d'Esquadra ejercen como policía de tráfico. Los recursos se presentan ante el Servei Català de Trànsit, no ante la DGT.</>
                   )}
                   {c.organismo === "ERT" && (
-                    <>El País Vasco tiene competencia propia en tráfico. La Ertzaintza colabora en la vigilancia y la Dirección de Tráfico del Departamento de Seguridad del Gobierno Vasco ejerce la potestad sancionadora. Los recursos se presentan ante el órgano que dictó la resolución.</>
+                    <>El País Vasco tiene competencia propia en tráfico. La Ertzaintza colabora en la vigilancia; sancionar es competencia de la Dirección de Tráfico vasca. Los recursos se presentan ante el órgano que dictó la resolución.</>
                   )}
                   {c.organismo === "PF" && (
                     <>Navarra tiene competencia propia en tráfico. Con efectos del 1/07/2026, el Gobierno de Navarra tramita, resuelve y recauda las sanciones de tráfico, con denuncias de la Policía Foral, la Guardia Civil y las policías locales. Los recursos se presentan ante el Gobierno de Navarra.</>
