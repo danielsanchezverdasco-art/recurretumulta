@@ -1,0 +1,12 @@
+{
+ "_nota": "cosa fotos-cosa-3110 (31/10/2026): heroes/portadas que dejan de ser PLACEHOLDER y pasan a ser la foto real versionada en public/media (con crédito en public/media-creditos.md). Cada una se mapea a sí misma para que fotos_hotfix.py no la vuelva a pisar con el aviso (los mapas anteriores no se tocan: este se carga después y los sobrescribe).",
+ "aion-s-max-2024-precio-ficha-tecnica-hero": "aion-s-max-2024-precio-ficha-tecnica-hero",
+ "aion-s-plus-2024-precio-ficha-tecnica-hero": "aion-s-plus-2024-precio-ficha-tecnica-hero",
+ "aion-y-plus-2024-precio-ficha-tecnica-hero": "aion-y-plus-2024-precio-ficha-tecnica-hero",
+ "forthing-friday-ev-2025-precio-ficha-tecnica-hero": "forthing-friday-ev-2025-precio-ficha-tecnica-hero",
+ "geely-e5-2026-precio-ficha-tecnica-hero": "geely-e5-2026-precio-ficha-tecnica-hero",
+ "geely-galaxy-e8-2024-precio-ficha-tecnica-hero": "geely-galaxy-e8-2024-precio-ficha-tecnica-hero",
+ "geely-starray-em-i-2026-precio-ficha-tecnica-hero": "geely-starray-em-i-2026-precio-ficha-tecnica-hero",
+ "jac-t9-ev-2025-precio-ficha-tecnica-hero": "jac-t9-ev-2025-precio-ficha-tecnica-hero",
+ "leapmotor-b10-reev-2026-precio-ficha-tecnica-hero": "leapmotor-b10-reev-2026-precio-ficha-tecnica-hero"
+}

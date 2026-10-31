@@ -1804,5 +1804,70 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "Omoda (foto de prensa oficial; URL exacta de origen no registrada)",
 "licencia": "prensa",
 "url": "https://www.omodajaecoo.es/"
+},
+"/media/forthing-friday-ev-2025-precio-ficha-tecnica-hero-real.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Forthing_Friday_EV_IAA_2023_1X7A0251.jpg"
+},
+"/media/geely-e5-2026-precio-ficha-tecnica-hero-real.webp": {
+"autor": "LuvsMG481 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2025_Geely_EX5_Inspire_rear.jpg"
+},
+"/media/zeekr-x-2025-precio-ficha-tecnica-hero-real.webp": {
+"autor": "Elizbeth smith · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Zeekr_X_007.jpg"
+},
+"/media/aion-s-max-2024-precio-ficha-tecnica-hero-real.webp": {
+"autor": "User3204 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2023_GAC_Aion_S_Max_rear.jpg"
+},
+"/media/aion-s-max-2024-precio-ficha-tecnica-oficial-real.webp": {
+"autor": "User3204 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2023_GAC_Aion_S_Max_front.jpg"
+},
+"/media/aion-s-plus-2024-precio-ficha-tecnica-hero-real.webp": {
+"autor": "User3204 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2021_GAC_Aion_S_Plus_(rear).jpg"
+},
+"/media/aion-s-plus-2024-precio-ficha-tecnica-oficial-real.webp": {
+"autor": "User3204 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2021_GAC_Aion_S_Plus_(front).jpg"
+},
+"/media/aion-y-plus-2024-precio-ficha-tecnica-oficial-real.webp": {
+"autor": "User3204 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2022_GAC_Aion_Y_Plus.jpg"
+},
+"/media/aion-s-max-2024-precio-ficha-tecnica-hero.webp": {
+"autor": "User3204 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2023_GAC_Aion_S_Max_rear.jpg"
+},
+"/media/aion-s-plus-2024-precio-ficha-tecnica-hero.webp": {
+"autor": "User3204 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2021_GAC_Aion_S_Plus_(rear).jpg"
+},
+"/media/forthing-friday-ev-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Forthing_Friday_EV_IAA_2023_1X7A0251.jpg"
+},
+"/media/geely-e5-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "LuvsMG481 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2025_Geely_EX5_Inspire_rear.jpg"
+},
+"/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "© M 93 vía Wikimedia Commons",
+"licencia": "CC BY-SA 3.0 de",
+"url": "https://commons.wikimedia.org/wiki/File:Leapmotor_B10_Design_Pro_Max_%E2%80%93_f_25012026.jpg"
 }
 };
