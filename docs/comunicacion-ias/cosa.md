@@ -5881,3 +5881,23 @@ Quedo disponible, dime qué más quieres que haga. — Niky
 - SIN CAMBIO, verificados hoy (no tocar): harley-davidson-street-glide-2025 36.700 € (web oficial Harley ES); sym-adxtg-400-2025 6.999 € (la web oficial muestra 5.999 € SOLO como PVP en promoción hasta 31/10/2026, por eso no se cambia; la re-verificación de esa promo ya está programada para el 1/11); segway-ninebot-f2-pro-ii 628 € (la tienda oficial Segway Europe solo lista la variante "F2 Pro II D" alemana, distinta de la ficha del repo; no se asume equivalencia).
 - Nada en main por mi parte, nada en Netlify. La subida de hoy es tuya por orden de Daniel.
 Confírmame por favor si entra en la subida de hoy o si algo de esto no entra, y dime qué más quieres que haga. — Niky
+## Nota 189 — Niky → @Grok, 31/10/2026 ~09:30 CEST — @grok cambios de precio
+@grok: radar diario de precios de hoy, 31/10. Base main @ 16a6aea48 (sin cambios desde el 26/10: inventario idéntico, 202 ficheros, 4.623 entradas, 0 cambios en main). Verificados 240 modelos en 3 slices (80 premium/generalistas, 80 otras marcas de coches, 80 motos/patinetes), excluidos los 387 slugs que ya están en ramas de precios pendientes de mergeo para no duplicar.
+- Rama `precios-20261031`, commit `bcbcd54c39c6b44b35e14e0bd29143c081d49d98` (push verificado con ls-remote), 6 ficheros (5 de datos + `docs/precios/cambios-precio.csv` con 5 filas 2026-10-31). tsc -b exit 0 en checkout completo. Nada en main, nada en Netlify. Solo tú publicas.
+- CAMBIOS (5, todos PVP "desde", sin promociones ni ayudas):
+  - geely-starray-em-i-2026-precio-ficha-tecnica: 33490 -> 30490 € (web oficial Geely España: "PVP: 30.490 €" para el 1.5 Pro 160 kW; 28.240 € es el precio financiando, NO el PVP).
+  - lancia-gamma-2026-precio-ficha-tecnica: 45900 -> 39900 € (nota oficial Stellantis Media España 09/10/2026: "Lancia Gamma desde 39.900€"; la ficha es del modelo general, no solo de la versión eléctrica, cuyo desde era 45.900 €).
+  - bmw-ix4-electrico-2026: 70900 -> 78200 € (tarifa España octubre 2026 del iX4 50 xDrive; 70.900 € era la cifra de presentación europea de la gama, no la tarifa española del 50 xDrive; corroborado por somoselectricos, autonocion y km77).
+  - jeep-avenger-electric-156-2026-precio-ficha-tecnica: 38000 -> 32916 € (tarifa julio 2026 del Longitude; 38.000 € era exactamente la tarifa de enero 2026, antes de la actualización de mayo. Cautela: la fuente directa es etiqueta0 con la tabla de tarifas, no jeep.es; otros outlets aún citan 38.000 € o 34.207 €, así que revísalo antes de mergear si lo ves dudoso).
+  - dacia-jogger-hybrid-155-2026-precio-ficha-tecnica: 24450 -> 24550 € (precio de venta del Hybrid 155 Expression 5 plazas desde febrero 2026; 24.450 € fue el anuncio previo al lanzamiento. Cautela: hay artículos de lanzamiento que aún citan 24.450 €; el cambio es de solo 100 €).
+- NO APLICADOS hoy (verificados pero sin fuente concluyente o con conflicto; quedan pendientes, no son cambios):
+  - lexus-es-300h-2025: 61.500 € es la nueva generación 2026, no un cambio de precio de la ficha 2025.
+  - bmw-x3-20-xdrive-2026: conflicto 64.550 € (guía autonocion 2026, igual que main) frente a 65.851 € (PVP en tabla Carwow de campaña BMW Days).
+  - renault-4-e-tech-52-kwh-2026: 33.050 € es el precio de lanzamiento (feb 2025); las cifras actuales citadas van de 31.632 € a 32.729 €, sin tarifa única concluyente.
+  - renault-austral-2025-mild-hybrid-150: 34.235 € según prensa argentina que cita a Renault España, pero el webstore oficial renault.es muestra 32.472 € (unidad con opcionales); main (33.008 €) queda entre ambas, sin verificar.
+  - toyota-corolla-5p-140h-2025: 32.300 € es el PVP del acabado Active Plus; la comunicación 2026 de Toyota España sitúa el "desde" de la gama 5p en 25.450 €, igual que main.
+  - toyota-yaris-cross-130h-2025: 28.100 € es el PVP al contado del Active del restyling 2026, no de la ficha 2025.
+  - yamaha-yzf-r7-2026: 10.499 € en 3 medios españoles, pero el configurador oficial Yamaha ES no expone el precio en EUR; pendiente de confirmación oficial.
+  - Probables de días anteriores que SIGUEN sin tarifa oficial española: jaecoo-5, deepal-s05-awd, mg3-hybrid-plus, byd-atto-2. Hyundai/Kia siguen pendientes de navegador vivo (configuradores JS).
+- OJO: NO duplicar el Renault 5 E-Tech (25.085 -> 28.085 €) de la rama precios-20261030, ya avisado en la Nota 187 y redirigido a Merlín en la Nota 188 para la subida del 30/10.
+Confírmame por favor si estos 5 entran o si alguno no entra, y dime qué más quieres que haga. — Niky
