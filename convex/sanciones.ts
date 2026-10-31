@@ -8,6 +8,7 @@ import { ConvexError } from "convex/values";
 import { internal, api } from "./_generated/api";
 import { renderPdfFirstPageToJpegBase64 } from "./lib/pdfToImage";
 import { getUserFromSession } from "./authSimple";
+import { cartaSancionCompleta, cartaSancionDeterminista, limpiarCartaSancion } from "./lib/cartaSancion";
 
 const MODEL_TEXT   = "openai/gpt-oss-120b";
 const MODEL_VISION = "qwen/qwen3.8-27b";
@@ -26,6 +27,7 @@ const RATE_LIMIT_RETRY_DELAY_MS = 21000;
 const MAX_OUTPUT_TOKENS_ANALISIS = 4000;
 const MAX_OUTPUT_TOKENS_CARTA = 4000;
 const REASONING_EFFORT_TEXT = "low" as const;
+const CARTA_BUDGET_MS = 25_000;
 
 function groq(): OpenAI {
   const apiKey = process.env.GROQ_API_KEY ?? "";
@@ -265,18 +267,20 @@ ESTRUCTURA OBLIGATORIA:
 2. IDENTIFICACIÓN: nombre completo, DNI/NIE, domicilio
 3. EXPONE (numerado): hechos relevantes — cuándo, dónde, qué ocurrió según la denuncia y la versión del recurrente
 4. ALEGA (numerado): desarrolla CADA defecto detectado con:
-   - Artículos exactos de LO 4/2015, Ley 39/2015, Ley 40/2015, CE
-   - Jurisprudencia del TC/TS relevante (menciona sentencias concretas si aplica)
+   - Artículos de Ley 39/2015, Ley 40/2015 y CE SOLO de la lista permitida (abajo); de la LO 4/2015 o de la ordenanza, SOLO el artículo que figure en el documento
    - Principios de proporcionalidad, tipicidad, legalidad sancionadora
 5. SUPLICA: nulidad de la resolución sancionadora y archivo del expediente
 6. OTROSÍ: solicitud de suspensión cautelar del pago durante la tramitación
 7. PIE: lugar, fecha, firma
 
-Lenguaje jurídico formal. Datos desconocidos → "[COMPLETAR]". Primera persona. Sé contundente y exhaustivo.`;
+Lenguaje jurídico formal. Datos desconocidos o "No encontrado/No especificado" → "[COMPLETAR: lo que falte]"; NUNCA te inventes un dato. Primera persona. Sé firme pero completo (no lo dejes a medias).
+CITAS: PROHIBIDO citar sentencias, jurisprudencia o números de resolución. Artículos permitidos: Ley 39/2015 arts. 21, 25, 53, 64, 76, 77, 112, 117, 124; Ley 40/2015 arts. 25 (legalidad), 27 (tipicidad), 28 (responsabilidad), 29 (proporcionalidad), 30 (prescripción); CE arts. 20, 21, 24, 25. No atribuyas a un artículo exigencias que no contiene.
+No añadas alegaciones que no estén en DEFECTOS LEGALES DETECTADOS. Si no hay defectos, limita el escrito a pedir copia del expediente y de la prueba (art. 53 Ley 39/2015).
+FORMATO: texto plano, sin markdown (sin asteriscos, almohadillas ni líneas de guiones). Títulos en MAYÚSCULAS.`;
 
-  const recursoUser = `Recurrente: ${personal.nombreRecurrente ?? "[COMPLETAR: Nombre y apellidos]"}
-DNI/NIE: ${personal.dniRecurrente ?? "[COMPLETAR: DNI/NIE]"}
-Domicilio: ${personal.domicilioRecurrente ?? "[COMPLETAR: Domicilio completo]"}
+  const recursoUser = `Recurrente: ${personal.nombreRecurrente || "[COMPLETAR: Nombre y apellidos]"}
+DNI/NIE: ${personal.dniRecurrente || "[COMPLETAR: DNI/NIE]"}
+Domicilio: ${personal.domicilioRecurrente || "[COMPLETAR: Domicilio completo]"}
 Fecha de redacción: ${hoy}
 Expediente sancionador: ${datos.expediente}
 Importe de la sanción: ${datos.importe}
@@ -290,18 +294,34 @@ ${defectos.map((d, i) => `${i + 1}. [${d.gravedad.toUpperCase()}] ${d.titulo}: $
 
 Redacta el recurso de reposición completo con todos los argumentos jurídicos. Incluye artículos exactos y jurisprudencia constitucional cuando sea relevante.`;
 
-  const client = groq();
-  const cartaResponse = await withRetry(() => client.chat.completions.create({
-    model: MODEL_TEXT,
-    max_completion_tokens: MAX_OUTPUT_TOKENS_CARTA,
-    reasoning_effort: REASONING_EFFORT_TEXT,
-    messages: [
-      { role: "system", content: recursoSystem },
-      { role: "user", content: recursoUser },
-    ],
-  }));
-
-  return cartaResponse.choices[0]?.message?.content ?? "";
+  // Respaldo sin IA: la carta SIEMPRE se entrega (antes, un fallo o un corte por tokens dejaba la carta vacía o a medias).
+  const respaldo = () => cartaSancionDeterminista(datos, defectos, personal, hoy);
+  try {
+    const client = groq();
+    const cartaResponse = await Promise.race([
+      withRetry(() => client.chat.completions.create({
+        model: MODEL_TEXT,
+        temperature: 0,
+        max_completion_tokens: MAX_OUTPUT_TOKENS_CARTA,
+        reasoning_effort: REASONING_EFFORT_TEXT,
+        messages: [
+          { role: "system", content: recursoSystem },
+          { role: "user", content: recursoUser },
+        ],
+      })),
+      new Promise<never>((_, rej) => setTimeout(() => rej(new Error("timeout carta")), CARTA_BUDGET_MS)),
+    ]);
+    const choice = cartaResponse.choices[0];
+    const texto = limpiarCartaSancion(choice?.message?.content ?? "");
+    if (choice?.finish_reason === "length" || !cartaSancionCompleta(texto)) {
+      console.log(`[sancion] carta de la IA incompleta (finish=${choice?.finish_reason}); se usa la determinista`);
+      return respaldo();
+    }
+    return texto;
+  } catch (e) {
+    console.log("[sancion] fallo al redactar con IA; se usa la determinista:", String((e as { message?: string })?.message ?? e).slice(0, 120));
+    return respaldo();
+  }
 }
 
 export const analizarSancion = action({

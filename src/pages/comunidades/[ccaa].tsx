@@ -239,7 +239,7 @@ export default function ComunidadPage() {
                 {
                   n: "1",
                   title: "Analiza tu multa con IA (gratis)",
-                  desc: "Sube tu multa a RecurreTuMulta.online. La IA detecta en segundos los defectos legales, una puntuación orientativa de viabilidad y los argumentos exactos para tu recurso.",
+                  desc: "Sube tu multa a RecurreTuMulta.online. La IA detecta en segundos los defectos legales, una valoración orientativa de los motivos para recurrir (sin porcentajes) y los argumentos exactos para tu recurso.",
                 },
                 {
                   n: "2",

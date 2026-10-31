@@ -82,8 +82,9 @@ export default defineSchema({
     // Texto completo del recurso para poder re-descargar el PDF
     carta: v.optional(v.string()),
     // Resultados del análisis IA
+    // `viabilidad` está obsoleto (ya no se guarda); se conserva opcional para no invalidar documentos antiguos.
     viabilidad: v.optional(v.number()),
-    nivel: v.optional(v.union(v.literal("alta"), v.literal("media"), v.literal("baja"))),
+    nivel: v.optional(v.union(v.literal("alta"), v.literal("media"), v.literal("baja"), v.literal("no_valorable"))),
     status: v.union(v.literal("pendiente"), v.literal("enviado"), v.literal("resuelto")),
     createdAt: v.string(),
   }).index("by_user", ["userId"]),

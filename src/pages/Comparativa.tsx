@@ -22,7 +22,7 @@ const FAQS = [
   },
   {
     q: "¿Puedo analizar gratis y luego decidir?",
-    a: "Sí, y es lo que recomendamos: analiza tu multa gratis con la IA, mira la viabilidad que detecta, y con esa información decides si generas el recurso (4,99 €), si vas a un abogado, o si te compensa pagar con descuento. La información primero, el dinero después.",
+    a: "Sí, y es lo que recomendamos: analiza tu multa gratis con la IA, mira los motivos que detecta, y con esa información decides si generas el recurso (4,99 €), si vas a un abogado, o si te compensa pagar con descuento. La información primero, el dinero después.",
   },
   {
     q: "¿Cuánto cobra un abogado o un gestor por recurrir una multa?",
@@ -72,7 +72,7 @@ const COMPARATIVA = [
 const POR_CASO = [
   {
     caso: "Multa de 200 € con posible defecto de forma",
-    recomendacion: "Analiza gratis con IA. Si detecta viabilidad, genera el recurso por 4,99 €.",
+    recomendacion: "Analiza gratis con IA. Si detecta motivos para recurrir, genera el recurso por 4,99 €.",
   },
   {
     caso: "No sabes si la multa es recurrible",
