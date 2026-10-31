@@ -99,13 +99,24 @@ type DatosMulta = {
   limiteVia?: string;
   organo?: string;
   fechaNotificacion?: string;
+  fechaNotificacionEsEmision?: boolean;
+  precepto?: string;
+  puntos?: string;
+  hora?: string;
+  lugar?: string;
+  importeReducido?: string;
 };
 
+// 31/10/2026: ya no hay porcentaje de "viabilidad" (era una precisión inventada). Hay un nivel cualitativo
+// con sus motivos; "no_valorable" cuando faltan datos para opinar.
+type Nivel = "alta" | "media" | "baja" | "no_valorable";
 type AnalysisResult = {
   carta: string;
   anexoPruebas?: string;
-  viabilidad: number;
-  nivel: "alta" | "media" | "baja";
+  nivel: Nivel;
+  motivosNivel?: string[];
+  datosFaltantes?: string[];
+  advertencias?: string[];
   resumen: string;
   defectos: Defecto[];
   datosMulta: DatosMulta;
@@ -125,17 +136,25 @@ const DGT_EMAILS: Record<string, { email: string; address: string }> = {
 };
 const DEFAULT_DGT = { email: "jpt.PROVINCIA@dgt.es", address: "Jefatura Provincial de Tráfico de su provincia" };
 
-// Viability gauge color helpers
-function viabilidadColor(n: number): string {
-  if (n >= 70) return "text-green-600";
-  if (n >= 40) return "text-amber-600";
-  return "text-red-600";
+// Colores del nivel cualitativo
+function nivelColor(n: Nivel): string {
+  if (n === "alta") return "text-green-600";
+  if (n === "media") return "text-amber-600";
+  if (n === "baja") return "text-red-600";
+  return "text-gray-600";
 }
-function viabilidadRing(n: number): string {
-  if (n >= 70) return "border-green-200";
-  if (n >= 40) return "border-amber-200";
-  return "border-red-200";
+function nivelRing(n: Nivel): string {
+  if (n === "alta") return "border-green-200";
+  if (n === "media") return "border-amber-200";
+  if (n === "baja") return "border-red-200";
+  return "border-gray-200";
 }
+const NIVEL_TEXTO: Record<Nivel, { titulo: string; sub: string }> = {
+  alta: { titulo: "Hay motivos sólidos", sub: "Motivo objetivo para recurrir" },
+  media: { titulo: "Posibles motivos", sub: "Merece la pena presentarlo" },
+  baja: { titulo: "Pocos motivos", sub: "No se aprecian defectos claros" },
+  no_valorable: { titulo: "No se puede valorar", sub: "Faltan datos del documento" },
+};
 function gravedadStyle(g: "alta" | "media" | "baja") {
   const map = {
     alta: { bg: "bg-red-50", text: "text-red-700", border: "border-red-200", dot: "bg-red-500" },
@@ -151,48 +170,15 @@ function AnalizadorMultaSinProvider({ packToken }: { packToken?: string }) {
   return <AnalizadorInner packToken={packToken} />;
 }
 
-function ViabilidadGauge({ value, nivel }: { value: number; nivel: "alta" | "media" | "baja" }) {
-  const { t } = useTranslation("analyzer");
-  const nivelLabel = { alta: t("gauge.high"), media: t("gauge.medium"), baja: t("gauge.low") };
-  const circumference = 2 * Math.PI * 40;
-  const offset = circumference - (value / 100) * circumference;
-
+function NivelBadge({ nivel }: { nivel: Nivel }) {
+  const tx = NIVEL_TEXTO[nivel] ?? NIVEL_TEXTO.no_valorable;
+  const cls = nivel === "alta" ? "bg-green-50 text-green-700 border-green-200" : nivel === "media" ? "bg-amber-50 text-amber-700 border-amber-200"
+    : nivel === "baja" ? "bg-red-50 text-red-700 border-red-200" : "bg-gray-50 text-gray-700 border-gray-200";
   return (
-    <div className="flex flex-col items-center gap-2">
-      <div className="relative w-28 h-28">
-        <svg className="w-28 h-28 -rotate-90" viewBox="0 0 100 100">
-          {/* Track */}
-          <circle cx="50" cy="50" r="40" fill="none" stroke="#f0f0f0" strokeWidth="10" />
-          {/* Progress */}
-          <motion.circle
-            cx="50" cy="50" r="40" fill="none"
-            stroke={value >= 70 ? "#16a34a" : value >= 40 ? "#d97706" : "#dc2626"}
-            strokeWidth="10"
-            strokeLinecap="round"
-            strokeDasharray={circumference}
-            initial={{ strokeDashoffset: circumference }}
-            animate={{ strokeDashoffset: offset }}
-            transition={{ duration: 1.2, ease: "easeOut" }}
-          />
-        </svg>
-        <div className="absolute inset-0 flex flex-col items-center justify-center">
-          <motion.span
-            className={`text-2xl font-black ${viabilidadColor(value)}`}
-            initial={{ opacity: 0, scale: 0.5 }}
-            animate={{ opacity: 1, scale: 1 }}
-            transition={{ delay: 0.4, duration: 0.4 }}
-          >
-            {value}%
-          </motion.span>
-        </div>
-      </div>
-      <Badge className={`text-xs font-black px-3 py-1 border ${
-        nivel === "alta" ? "bg-green-50 text-green-700 border-green-200" :
-        nivel === "media" ? "bg-amber-50 text-amber-700 border-amber-200" :
-        "bg-red-50 text-red-700 border-red-200"
-      }`}>
-        {nivelLabel[nivel]}
-      </Badge>
+    <div className="flex flex-col items-center gap-1.5 w-28 shrink-0 text-center">
+      <TrendingUp className={`w-9 h-9 ${nivelColor(nivel)}`} />
+      <Badge className={`text-[11px] font-black px-2.5 py-1 border whitespace-normal leading-tight ${cls}`}>{tx.titulo}</Badge>
+      <span className="text-[10px] text-gray-400 leading-tight">{tx.sub}</span>
     </div>
   );
 }
@@ -469,6 +455,7 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
   const [consentimiento, setConsentimiento] = useState(false);
   const [dialogMode, setDialogMode] = useState<DialogMode>("pdf_unico");
   const [confirmando, setConfirmando] = useState(false);
+  const [descargando, setDescargando] = useState(false);
 
   // Código de creador/colaborador (opcional)
   const [codigo, setCodigo] = useState("");
@@ -549,9 +536,9 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
           }));
         } catch {
           carta = cartaBase
-            .replace(/\[COMPLETAR:\s*Nombre y apellidos\]/gi, nombre.trim())
-            .replace(/\[COMPLETAR:\s*DNI\/NIE\]/gi, dni.trim().toUpperCase())
-            .replace(/\[COMPLETAR:\s*Domicilio( completo)?\]/gi, domicilio.trim());
+            .replace(/\[COMPLETAR:\s*nombre[^\]]*\]/gi, () => nombre.trim())
+            .replace(/\[COMPLETAR:\s*(?:DNI|NIE)[^\]]*\]/gi, () => dni.trim().toUpperCase())
+            .replace(/\[COMPLETAR:\s*domicilio[^\]]*\]/gi, () => domicilio.trim());
         }
         carta = conAnexo(carta, result.anexoPruebas);
         const { url } = await createCheckoutSinRegistro({
@@ -620,7 +607,10 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
       }));
       const r = res as AnalysisResult;
       const vacio = (v: string) => !v || /no (encontrado|especificad[oa]|disponible)/i.test(String(v).trim());
-      if (vacio(r?.datosMulta?.expediente) && vacio(r?.datosMulta?.importe) && vacio(r?.datosMulta?.fecha)) {
+      // Una foto de radar sin expediente es válida si trae matrícula o velocidad; el backend ya rechaza lo realmente ilegible.
+      const dm = r?.datosMulta;
+      const tieneRadar = !vacio(dm?.matricula ?? "") || /\d/.test(dm?.velocidadDetectada ?? "");
+      if (vacio(dm?.expediente) && vacio(dm?.importe) && vacio(dm?.fecha) && !tieneRadar) {
         // Nunca mostrar aviso de ilegible + veredicto a la vez: solo el aviso.
         throw new Error(`${t("result.unreadableTitle")} ${t("result.unreadableBody")}`);
       }
@@ -645,23 +635,22 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
   }
 
   const descargarPdf = async () => {
-    if (!result?.carta) return;
-    // jsPDF se carga solo al pulsar (no pesa en la carga inicial).
-    const { jsPDF } = await import("jspdf");
-    const doc = new jsPDF({ unit: "mm", format: "a4" });
-    const margen = 20, ancho = 170, alto = 297, linea = 5.2;
-    doc.setFont("helvetica", "normal");
-    doc.setFontSize(10.5);
-    let y = margen;
-    for (const parrafo of result.carta.replace(/\r/g, "").split("\n")) {
-      const lineas = parrafo.trim() ? doc.splitTextToSize(parrafo, ancho) : [""];
-      for (const l of lineas) {
-        if (y > alto - margen) { doc.addPage(); y = margen; }
-        doc.text(l, margen, y);
-        y += linea;
-      }
+    if (!result?.carta || descargando) return;
+    setDescargando(true);
+    try {
+      // jsPDF se carga solo al pulsar (no pesa en la carga inicial). Mismo constructor que el PDF del correo.
+      const [{ jsPDF }, { construirPdfRecurso }] = await Promise.all([import("jspdf"), import("@/convex/lib/recursoPdf.ts")]);
+      const d = result.datosMulta;
+      const doc = construirPdfRecurso(jsPDF, result.carta, {
+        expediente: d.expediente, importe: d.importe, infraccion: d.infraccion, fecha: d.fecha, plazoRecurso: d.plazoRecurso,
+      });
+      doc.save("recurso-multa.pdf");
+    } catch (e) {
+      console.error("[pdf] error generando el PDF", e);
+      toast.error("No se ha podido generar el PDF. Inténtalo de nuevo; si falla otra vez, copia el texto del recurso y pégalo en un documento.");
+    } finally {
+      setDescargando(false);
     }
-    doc.save("recurso-multa.pdf");
   };
 
   const datosDialog = (
@@ -800,7 +789,8 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
       faltan(result.datosMulta.expediente) &&
       faltan(result.datosMulta.importe) &&
       faltan(result.datosMulta.fecha);
-    return (
+  
+  return (
       <>
         {datosDialog}
         <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} className="space-y-4">
@@ -820,11 +810,11 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
           initial={{ opacity: 0, scale: 0.95 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.5 }}
-          className={`rounded-2xl border-2 ${viabilidadRing(result.viabilidad)} bg-white p-5 space-y-4`}
+          className={`rounded-2xl border-2 ${nivelRing(result.nivel)} bg-white p-5 space-y-4`}
         >
           {/* Header */}
           <div className="flex items-center gap-2">
-            <TrendingUp className={`w-4 h-4 ${viabilidadColor(result.viabilidad)}`} />
+            <TrendingUp className={`w-4 h-4 ${nivelColor(result.nivel)}`} />
             <p className="text-xs font-bold uppercase tracking-widest text-gray-400">{t("result.label")}</p>
             <Badge className="bg-green-50 text-green-700 border-green-200 text-[10px] font-bold ml-auto">
               {t("result.free")}
@@ -833,7 +823,7 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
 
           {/* Gauge + summary side by side */}
           <div className="flex items-center gap-4">
-            <ViabilidadGauge value={result.viabilidad} nivel={result.nivel} />
+            <NivelBadge nivel={result.nivel} />
             <div className="flex-1 space-y-2">
               <p className="text-xs font-black text-gray-900 leading-snug">{t("result.summary")}</p>
               <p className="text-xs text-gray-600 leading-relaxed">{result.resumen}</p>
@@ -843,6 +833,22 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
               </div>
             </div>
           </div>
+          {(result.motivosNivel?.length ?? 0) > 0 && (
+            <ul className="space-y-1 text-xs text-gray-600 list-disc pl-4">
+              {result.motivosNivel!.map((m, i) => <li key={i}>{m}</li>)}
+            </ul>
+          )}
+          {(result.datosFaltantes?.length ?? 0) > 0 && (
+            <p className="text-xs text-amber-800 bg-amber-50 border border-amber-200 rounded-lg p-2.5 leading-relaxed">
+              <strong>Datos que no hemos podido leer:</strong> {result.datosFaltantes!.join(", ")}. Si los tienes, sube una imagen más nítida o el documento completo.
+            </p>
+          )}
+          {(result.advertencias?.length ?? 0) > 0 && (
+            <ul className="space-y-1 text-[11px] text-gray-500 list-disc pl-4">
+              {result.advertencias!.map((m, i) => <li key={i}>{m}</li>)}
+            </ul>
+          )}
+          <p className="text-[10px] text-gray-400 leading-relaxed">Valoración orientativa basada solo en los datos leídos y en la normativa; no es una probabilidad de éxito ni asesoramiento jurídico.</p>
         </motion.div>
 
         {/* ── DEFECTOS DETECTADOS ── */}
@@ -893,7 +899,12 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
                 { icon: MapPin, label: t("result.field.provincia"), value: result.datosMulta.provincia },
                 ...(/\d/.test(result.datosMulta.velocidadDetectada ?? "") ? [{ icon: TrendingUp, label: "Velocidad medida / límite", value: `${result.datosMulta.velocidadDetectada} / ${result.datosMulta.limiteVia ?? "—"}` }] : []),
                 ...(result.datosMulta.organo ? [{ icon: Shield, label: "Órgano", value: result.datosMulta.organo }] : []),
-                ...(/\d/.test(result.datosMulta.fechaNotificacion ?? "") ? [{ icon: Calendar, label: "Notificación", value: result.datosMulta.fechaNotificacion! }] : []),
+                ...(/\d/.test(result.datosMulta.fechaNotificacion ?? "") ? [{ icon: Calendar, label: result.datosMulta.fechaNotificacionEsEmision ? "Emisión (la notificación no consta)" : "Notificación", value: result.datosMulta.fechaNotificacion! }] : []),
+                ...(result.datosMulta.precepto ? [{ icon: FileText, label: "Precepto", value: result.datosMulta.precepto }] : []),
+                ...(/\d/.test(result.datosMulta.puntos ?? "") ? [{ icon: AlertTriangle, label: "Puntos", value: result.datosMulta.puntos! }] : []),
+                ...(result.datosMulta.hora ? [{ icon: Clock, label: "Hora", value: result.datosMulta.hora }] : []),
+                ...(result.datosMulta.lugar ? [{ icon: MapPin, label: "Lugar", value: result.datosMulta.lugar }] : []),
+                ...(result.datosMulta.importeReducido ? [{ icon: Euro, label: "Con pronto pago", value: result.datosMulta.importeReducido }] : []),
                 { icon: Clock, label: t("result.field.plazo"), value: result.datosMulta.plazoRecurso },
               ].filter((x) => x.value && x.value.trim()).map(({ icon: Icon, label, value }) => (
                 <div key={label} className="bg-muted/30 rounded-lg p-2.5">
@@ -944,8 +955,9 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
                 <Button
                   className="w-full font-black h-12 text-base bg-green-600 hover:bg-green-700 text-white rounded-xl shadow-lg shadow-green-200"
                   onClick={descargarPdf}
+                  disabled={descargando}
                 >
-                  <Download className="w-4 h-4 mr-2" />
+                  {descargando ? <Spinner className="w-4 h-4 mr-2" /> : <Download className="w-4 h-4 mr-2" />}
                   {t("pack.download")}
                 </Button>
               ) : packToken ? (

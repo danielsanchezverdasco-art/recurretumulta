@@ -89,8 +89,8 @@ async function withRetry<T>(fn: () => Promise<T>, attempts = MAX_RETRY_ATTEMPTS)
 
 type Defecto = { titulo: string; descripcion: string; gravedad: "alta" | "media" | "baja" };
 type AnalisisSancionRaw = {
-  viabilidad: number;
-  nivel: "alta" | "media" | "baja";
+  nivel: "alta" | "media" | "baja" | "no_valorable";
+  motivosNivel: string[];
   resumen: string;
   defectos: Defecto[];
   municipio: string;
@@ -114,8 +114,7 @@ const ANALISIS_SANCION_SYSTEM = `Eres un abogado experto en derecho administrati
 
 Analiza la sanción y devuelve SOLO JSON puro sin markdown con esta estructura:
 {
-  "viabilidad": <entero 0-100, probabilidad de éxito del recurso>,
-  "nivel": <"alta" | "media" | "baja">,
+  "motivosNivel": [<máx. 3 frases cortas con el motivo concreto de cada defecto, citando el dato del documento>],
   "resumen": <2-3 frases: hallazgos y recomendación concreta>,
   "defectos": [
     { "titulo": <nombre del defecto>, "descripcion": <1 frase explicativa con referencia legal>, "gravedad": <"alta"|"media"|"baja"> }
@@ -142,6 +141,7 @@ DEFECTOS MÁS FRECUENTES EN SANCIONES POLICIALES (analiza TODOS):
 10. Vulneración de derechos fundamentales (libertad de expresión art. 20 CE, reunión art. 21 CE)
 11. Falta de graduación motivada de la sanción dentro del rango legal
 
+REGLAS ANTI-INVENCIÓN: lista un defecto SOLO si se desprende de lo que se lee en el documento (p. ej. "falta el lugar" solo si el documento no trae lugar). Si no puedes leer el documento, devuelve "defectos": [] y los datos como "No encontrado". NO des porcentajes ni probabilidades de éxito: el nivel lo calcula el sistema.
 EXTRAE los datos DIRECTAMENTE del documento. NO inventes. Incluye como máximo los 4 defectos más relevantes. Sé conciso: "resumen" máximo 2 frases y "descripcion" de cada defecto máximo 1 frase corta.`;
 
 async function analizarSancionConVision(base64Data: string, mimeType: string): Promise<AnalisisSancionRaw> {
@@ -194,30 +194,59 @@ async function extractPdfText(base64Data: string): Promise<string> {
   return textPages.join("\n\n").trim();
 }
 
+const VACIO_RE = /^(|no (encontrado|especificad[oa]|detectado|disponible)|desconocido)$/i;
+const vacioS = (x: unknown) => typeof x !== "string" || VACIO_RE.test(x.trim());
+
+// Interpreta la respuesta del modelo SIN rellenar nada inventado: si no hay datos reales, error claro.
+// El nivel lo calcula el sistema a partir de los defectos; nunca hay porcentaje.
 function parseSancion(raw: string): AnalisisSancionRaw {
-  const defaults: AnalisisSancionRaw = {
-    viabilidad: 65,
-    nivel: "media",
-    resumen: "Se han detectado posibles irregularidades en la tramitación. Se recomienda presentar recurso de reposición.",
-    defectos: [
-      { titulo: "Descripción genérica de la conducta", descripcion: "La denuncia policial no describe con precisión los hechos, generando indefensión material.", gravedad: "alta" },
-      { titulo: "Falta de motivación en la graduación", descripcion: "La resolución no explica por qué se impone el importe máximo o mínimo del rango legal.", gravedad: "media" },
-    ],
-    municipio: "No detectado",
-    expediente: "No encontrado",
-    importe: "No especificado",
-    infraccion: "No especificada",
-    fecha: "No especificada",
-    ley: "LO 4/2015",
-    plazoRecurso: "30 días hábiles desde la notificación",
-  };
+  const ilegible = () => new ConvexError({ code: "ANALISIS_VACIO", message: "No hemos podido leer el documento, prueba con una foto más nítida (o sube el PDF original)." });
+  let parsed: Record<string, unknown>;
   try {
     const cleaned = raw.replace(/^```(?:json)?\s*/i, "").replace(/\s*```\s*$/i, "").trim();
-    const parsed = JSON.parse(cleaned) as Partial<AnalisisSancionRaw>;
-    return { ...defaults, ...parsed };
+    parsed = JSON.parse(cleaned) as Record<string, unknown>;
   } catch {
-    return defaults;
+    throw ilegible();
   }
+  const str = (k: string, def: string) => (typeof parsed[k] === "string" && (parsed[k] as string).trim() ? (parsed[k] as string).trim() : def);
+  const datos = {
+    municipio: str("municipio", "No detectado"),
+    expediente: str("expediente", "No encontrado"),
+    importe: str("importe", "No especificado"),
+    infraccion: str("infraccion", "No especificada"),
+    fecha: str("fecha", "No especificada"),
+    ley: str("ley", "No especificada"),
+    plazoRecurso: str("plazoRecurso", "30 días hábiles desde la notificación"),
+  };
+  if (vacioS(datos.expediente) && vacioS(datos.importe) && vacioS(datos.fecha) && vacioS(datos.infraccion)) throw ilegible();
+  const GRAV = new Set(["alta", "media", "baja"]);
+  const defectos: Defecto[] = (Array.isArray(parsed.defectos) ? parsed.defectos : [])
+    .filter((d): d is Record<string, unknown> => !!d && typeof d === "object")
+    .map((d) => ({
+      titulo: String(d.titulo ?? "").trim(),
+      descripcion: String(d.descripcion ?? "").trim(),
+      gravedad: (GRAV.has(String(d.gravedad)) ? d.gravedad : "media") as Defecto["gravedad"],
+    }))
+    .filter((d) => d.titulo && d.descripcion)
+    .slice(0, 4);
+  const faltan = [["la infracción", datos.infraccion], ["la fecha", datos.fecha], ["el importe", datos.importe]].filter(([, v]) => vacioS(v)).map(([n]) => n);
+  let nivel: AnalisisSancionRaw["nivel"];
+  const motivosNivel: string[] = [];
+  if (vacioS(datos.infraccion) && vacioS(datos.fecha)) {
+    nivel = "no_valorable";
+    motivosNivel.push(`No se ha podido leer ${faltan.join(", ")}; sin ellos no se puede valorar el recurso.`);
+  } else if (defectos.some((d) => d.gravedad === "alta")) {
+    nivel = "alta";
+  } else if (defectos.length > 0) {
+    nivel = "media";
+  } else {
+    nivel = "baja";
+    motivosNivel.push("No se aprecian defectos claros en los datos leídos.");
+  }
+  if (nivel !== "no_valorable") for (const d of defectos) motivosNivel.push(`${d.titulo}: ${d.descripcion}`);
+  if (nivel !== "no_valorable" && faltan.length) motivosNivel.push(`No se han podido leer: ${faltan.join(", ")}.`);
+  const resumen = str("resumen", defectos.length ? "Se han detectado posibles motivos de recurso en el documento." : "No se aprecian defectos claros en los datos leídos.");
+  return { ...datos, nivel, motivosNivel: motivosNivel.slice(0, 6), resumen, defectos };
 }
 
 // ── Genera el texto del recurso de reposición dado el análisis y los datos personales ──
@@ -289,8 +318,8 @@ export const analizarSancion = action({
   },
   handler: async (ctx, { fileBase64, fileMimeType, nombreRecurrente, dniRecurrente, domicilioRecurrente, fingerprint, sessionToken }): Promise<{
     carta: string;
-    viabilidad: number;
-    nivel: "alta" | "media" | "baja";
+    nivel: "alta" | "media" | "baja" | "no_valorable";
+    motivosNivel: string[];
     resumen: string;
     defectos: Defecto[];
     datosSancion: {
@@ -345,8 +374,8 @@ export const analizarSancion = action({
 
     return {
       carta,
-      viabilidad: analisis.viabilidad,
       nivel: analisis.nivel,
+      motivosNivel: analisis.motivosNivel,
       resumen: analisis.resumen,
       defectos: analisis.defectos,
       datosSancion: {

@@ -63,24 +63,21 @@ type DatosSancion = {
   plazoRecurso: string;
 };
 
+type Nivel = "alta" | "media" | "baja" | "no_valorable";
 type AnalysisResult = {
   carta: string;
-  viabilidad: number;
-  nivel: "alta" | "media" | "baja";
+  nivel: Nivel;
+  motivosNivel?: string[];
   resumen: string;
   defectos: Defecto[];
   datosSancion: DatosSancion;
 };
 
-function viabilidadColor(n: number): string {
-  if (n >= 70) return "text-green-600";
-  if (n >= 40) return "text-amber-600";
-  return "text-red-600";
+function nivelColor(n: Nivel): string {
+  return n === "alta" ? "text-green-600" : n === "media" ? "text-amber-600" : n === "baja" ? "text-red-600" : "text-gray-600";
 }
-function viabilidadRing(n: number): string {
-  if (n >= 70) return "border-green-200";
-  if (n >= 40) return "border-amber-200";
-  return "border-red-200";
+function nivelRing(n: Nivel): string {
+  return n === "alta" ? "border-green-200" : n === "media" ? "border-amber-200" : n === "baja" ? "border-red-200" : "border-gray-200";
 }
 function gravedadStyle(g: "alta" | "media" | "baja") {
   const map = {
@@ -106,7 +103,7 @@ const SCAN_STEPS = [
   { icon: "📄", label: "Leyendo el documento...", detail: "Extrayendo texto e imágenes" },
   { icon: "🔍", label: "Identificando la infracción...", detail: "Ley aplicada, expediente, importe" },
   { icon: "⚖️", label: "Analizando vicios de forma...", detail: "RGC, Ley 39/2015, CE" },
-  { icon: "🧠", label: "Calculando viabilidad...", detail: "Proporcionalidad, tipicidad, motivación" },
+  { icon: "🧠", label: "Valorando los motivos...", detail: "Proporcionalidad, tipicidad, motivación" },
   { icon: "📝", label: "Redactando el recurso...", detail: "Generando texto jurídico con jurisprudencia TC" },
 ];
 
@@ -197,33 +194,22 @@ function ScanAnimation() {
   );
 }
 
-function ViabilidadGauge({ value, nivel }: { value: number; nivel: "alta" | "media" | "baja" }) {
-  const { t } = useTranslation("analyzer");
-  const nivelLabel = { alta: t("gauge.high"), media: t("gauge.medium"), baja: t("gauge.low") };
-  const circumference = 2 * Math.PI * 40;
-  const offset = circumference - (value / 100) * circumference;
+// Nivel cualitativo (sin porcentaje: un % sería una precisión inventada).
+const NIVEL_TEXTO: Record<Nivel, { titulo: string; sub: string }> = {
+  alta: { titulo: "Hay motivos sólidos", sub: "Motivo objetivo para recurrir" },
+  media: { titulo: "Posibles motivos", sub: "Merece la pena presentarlo" },
+  baja: { titulo: "Pocos motivos", sub: "No se aprecian defectos claros" },
+  no_valorable: { titulo: "No se puede valorar", sub: "Faltan datos del documento" },
+};
+function NivelBadge({ nivel }: { nivel: Nivel }) {
+  const tx = NIVEL_TEXTO[nivel] ?? NIVEL_TEXTO.no_valorable;
+  const cls = nivel === "alta" ? "bg-green-50 text-green-700 border-green-200" : nivel === "media" ? "bg-amber-50 text-amber-700 border-amber-200"
+    : nivel === "baja" ? "bg-red-50 text-red-700 border-red-200" : "bg-gray-50 text-gray-700 border-gray-200";
   return (
-    <div className="flex flex-col items-center gap-2">
-      <div className="relative w-28 h-28">
-        <svg className="w-28 h-28 -rotate-90" viewBox="0 0 100 100">
-          <circle cx="50" cy="50" r="40" fill="none" stroke="#f0f0f0" strokeWidth="10" />
-          <motion.circle cx="50" cy="50" r="40" fill="none"
-            stroke={value >= 70 ? "#16a34a" : value >= 40 ? "#d97706" : "#dc2626"}
-            strokeWidth="10" strokeLinecap="round" strokeDasharray={circumference}
-            initial={{ strokeDashoffset: circumference }} animate={{ strokeDashoffset: offset }}
-            transition={{ duration: 1.2, ease: "easeOut" }}
-          />
-        </svg>
-        <div className="absolute inset-0 flex flex-col items-center justify-center">
-          <motion.span className={`text-2xl font-black ${viabilidadColor(value)}`}
-            initial={{ opacity: 0, scale: 0.5 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: 0.4, duration: 0.4 }}>
-            {value}%
-          </motion.span>
-        </div>
-      </div>
-      <Badge className={`text-xs font-black px-3 py-1 border ${nivel === "alta" ? "bg-green-50 text-green-700 border-green-200" : nivel === "media" ? "bg-amber-50 text-amber-700 border-amber-200" : "bg-red-50 text-red-700 border-red-200"}`}>
-        {nivelLabel[nivel]}
-      </Badge>
+    <div className="flex flex-col items-center gap-1.5 w-28 shrink-0 text-center">
+      <TrendingUp className={`w-9 h-9 ${nivelColor(nivel)}`} />
+      <Badge className={`text-[11px] font-black px-2.5 py-1 border whitespace-normal leading-tight ${cls}`}>{tx.titulo}</Badge>
+      <span className="text-[10px] text-gray-400 leading-tight">{tx.sub}</span>
     </div>
   );
 }
@@ -258,6 +244,7 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
   const [consentimiento, setConsentimiento] = useState(false);
   const [dialogMode, setDialogMode] = useState<DialogMode>("pdf_unico");
   const [confirmando, setConfirmando] = useState(false);
+  const [descargando, setDescargando] = useState(false);
 
   // Código de creador/colaborador (opcional)
   const [codigo, setCodigo] = useState("");
@@ -385,8 +372,22 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
 
   if (step === "processing") return <ScanAnimation />;
 
-  const descargarPdf = () => {
-    if (!result) return;
+  const descargarPdf = async () => {
+    if (!result?.carta || descargando) return;
+    setDescargando(true);
+    try {
+      const [{ jsPDF }, { construirPdfRecurso }] = await Promise.all([import("jspdf"), import("@/convex/lib/recursoPdf.ts")]);
+      const d = result.datosSancion;
+      const doc = construirPdfRecurso(jsPDF, result.carta, {
+        expediente: d.expediente, importe: d.importe, infraccion: d.infraccion, fecha: d.fecha, plazoRecurso: d.plazoRecurso,
+      });
+      doc.save("recurso-sancion.pdf");
+    } catch (e) {
+      console.error("[pdf] error generando el PDF", e);
+      toast.error("No se ha podido generar el PDF. Inténtalo de nuevo; si falla otra vez, copia el texto del recurso y pégalo en un documento.");
+    } finally {
+      setDescargando(false);
+    }
   };
 
   const datosDialog = (
@@ -542,14 +543,14 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
 
         {/* VIABILIDAD */}
         <motion.div initial={{ opacity: 0, scale: 0.95 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: 0.5 }}
-          className={`rounded-2xl border-2 ${viabilidadRing(result.viabilidad)} bg-white p-5 space-y-4`}>
+          className={`rounded-2xl border-2 ${nivelRing(result.nivel)} bg-white p-5 space-y-4`}>
           <div className="flex items-center gap-2">
-            <TrendingUp className={`w-4 h-4 ${viabilidadColor(result.viabilidad)}`} />
+            <TrendingUp className={`w-4 h-4 ${nivelColor(result.nivel)}`} />
             <p className="text-xs font-bold uppercase tracking-widest text-gray-400">{t("result.label")}</p>
             <Badge className="bg-green-50 text-green-700 border-green-200 text-[10px] font-bold ml-auto">{t("result.free")}</Badge>
           </div>
           <div className="flex items-center gap-4">
-            <ViabilidadGauge value={result.viabilidad} nivel={result.nivel} />
+            <NivelBadge nivel={result.nivel} />
             <div className="flex-1 space-y-2">
               <p className="text-xs font-black text-gray-900 leading-snug">{t("result.summary")}</p>
               <p className="text-xs text-gray-600 leading-relaxed">{result.resumen}</p>
@@ -559,6 +560,12 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
               </div>
             </div>
           </div>
+          {(result.motivosNivel?.length ?? 0) > 0 && (
+            <ul className="space-y-1 text-xs text-gray-600 list-disc pl-4">
+              {result.motivosNivel!.map((m, i) => <li key={i}>{m}</li>)}
+            </ul>
+          )}
+          <p className="text-[10px] text-gray-400 leading-relaxed">Valoración orientativa basada solo en los datos leídos y en la normativa; no es una probabilidad de éxito ni asesoramiento jurídico.</p>
         </motion.div>
 
         {/* DEFECTOS */}
@@ -644,8 +651,8 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
             <div className="space-y-2">
               {packGenerado ? (
                 <Button className="w-full font-black h-12 text-base bg-green-600 hover:bg-green-700 text-white rounded-xl shadow-lg shadow-green-200"
-                  onClick={descargarPdf}>
-                  <Download className="w-4 h-4 mr-2" /> {t("pack.download")}
+                  onClick={descargarPdf} disabled={descargando}>
+                  {descargando ? <Spinner className="w-4 h-4 mr-2" /> : <Download className="w-4 h-4 mr-2" />} {t("pack.download")}
                 </Button>
               ) : packToken ? (
                 <Button className="w-full font-black h-16 text-lg bg-blue-700 hover:bg-blue-800 text-white rounded-xl shadow-xl shadow-blue-200"
