@@ -55,3 +55,4 @@ _rp.run_path(os.path.join(os.path.dirname(os.path.abspath(__file__)),"dedupe-est
 # 31/10/2026: quitar referencias a /media/ inexistentes (404 en vivo, no en dist)
 import subprocess
 subprocess.run([sys.executable, os.path.join(os.path.dirname(os.path.abspath(__file__)), "fix-media-rotas.py"), D], check=False)
+subprocess.run([sys.executable, os.path.join(os.path.dirname(os.path.abspath(__file__)), "fix-preciodesde-visible.py"), D], check=False)
