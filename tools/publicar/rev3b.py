@@ -6,6 +6,7 @@ def W(t):
     t=re.sub(r'^\s*(?:import|export)\b.*\bfrom\s+["\'][^"\']+["\'];?\s*$',' ',t)  # 31/10: imports (codigo)
     t=re.sub(r'(["\'`])(?=[^"\'`]*\b(?:bg|text|border|ring|rounded|flex|grid|px|py|gap|font|shadow)-)[a-z0-9:\[\]/%.#!-]+(?: [a-z0-9:\[\]/%.#!-]+)*\1',' ',t)  # 31/10: clases Tailwind (codigo)
     t=re.sub(r'(?:className|class)\s*=\s*(?:"[^"]*"|\'[^\']*\'|\{`[^`]*`\}|\{"[^"]*"\}|\{\'[^\']*\'\})',' ',t)  # 31/10: atributos de clase CSS (codigo, no prosa)
+    t=re.sub(r'\b(?:id|slug|analisisSlug|fotoSlug|fichaSlug)"?\s*:\s*["\'][a-z0-9-]+["\']',' ',t)  # 31/10: identificadores/slugs (no visibles)
     t=re.sub(r'(?i)redacci[oó]n (?:de )?(?:recurretumulta\.online|merl[ií]n)|merl[ií]n','redaccionrtm',t); t=re.sub(r'/media/[^\s"\'`)]+|\b[\w.-]+\.(?:webp|jpe?g|png|avif)\b',' ',t)  # 31/10: renombre mecánico de autoría y rutas de imagen no son prosa
     t=re.sub(r'<[^>]+>|\\n|https?://\S+',' ',t); t=re.sub(r'[A-Za-z_]\w*\s*:\s*(?=["\'`])',' | ',t); t=re.sub(r'(\d)\.(\d{3})',r'\1\2',t); return re.findall(r'[a-záéíóúñü0-9]+',t.lower())
 def G(t):
