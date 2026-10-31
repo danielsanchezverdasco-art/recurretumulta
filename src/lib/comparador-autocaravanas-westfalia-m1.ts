@@ -126,7 +126,7 @@ La red Westfalia, aunque más pequeña que la de los gigantes generalistas, es u
     },
     euroncap: null,
     notas:
-      "«precio de tarifa en Alemania»: 67.650 € es el precio de partida publicado por Westfalia en su web oficial (mercado alemán); en España el importe final lo fija la red. La carga útil no consta: Westfalia no la publica y no la calculamos restando masas. Dormitorio: 2 plazas de serie (hasta 5 con cama de banqueta y techo elevable opcionales). La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante: dato no oficial · en revisión.",
+      "«precio de tarifa en Alemania»: 67.650 € es el precio de partida publicado por Westfalia en su web oficial (mercado alemán); en España el importe final lo fija la red. La carga útil no consta: Westfalia no la publica y no la calculamos restando masas. Dormitorio: 2 plazas de fábrica (hasta 5 con cama de banqueta y techo elevable opcionales). La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante: dato no oficial · en revisión.",
     curiosidades:
       "La banqueta del Columbus es una cama patentada por Westfalia que se despliega en dos segundos: 180 × 90 cm que convierten el salón en una plaza extra sin montar nada. Fuente: página oficial del Columbus 600 D en westfalia-mobil.com (https://westfalia-mobil.com/en/motorhomes/columbus-600-d/).",
     fuenteNombre: "Westfalia (web oficial + catálogo 2026)",
