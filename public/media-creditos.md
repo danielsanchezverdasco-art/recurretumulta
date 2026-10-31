@@ -5038,3 +5038,5 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/patinetes/xiaomi-electric-scooter-6-lite-oficial.webp | https://i05.appmifile.com/621_item_es/25/02/2026/6e8eedeb23ac21d531d2601c75216687.png | Xiaomi (foto de producto oficial, mi.com/es) | prensa |
 | /media/patinetes/segway-ninebot-e2-ii-e-oficial.webp | https://shop.segway.com/media/catalog/product/e/2/e2.png | Segway-Ninebot (foto de producto de la tienda oficial de España) | prensa |
 | /media/patinetes/segway-ninebot-f2-pro-ii-e-oficial.webp | https://shop.segway.com/media/catalog/product/2/_/2_12.png | Segway-Ninebot (foto de producto de la tienda oficial de España) | prensa |
+| /media/patinetes/segway-ninebot-f3-pro-e-oficial.webp | https://shop.segway.com/media/catalog/product/u/n/untitled_design_9__1.png | Segway-Ninebot (foto de producto de la tienda oficial de España) | prensa |
+| /media/patinetes/segway-ninebot-gt3-e-oficial.webp | https://shop.segway.com/media/catalog/product/u/n/untitled_design_5_.png | Segway-Ninebot (foto de producto de la tienda oficial de España) | prensa |

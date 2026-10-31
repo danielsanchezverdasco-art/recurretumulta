@@ -268,7 +268,6 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     foto: "/media/patinetes/xiaomi-electric-scooter-6-lite-oficial.webp",
     galeria: [],
     aprox: [
-      "precioEur",
       "potenciaNominalW",
       "bateriaWh",
       "tiempoCargaH"
@@ -278,10 +277,10 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
       "Motor sin escobillas tipo Hall que Xiaomi anuncia en 500 W máximos, y rampa de hasta el 15 %",
       "Faro delantero de 2,5 W con 15 m de alcance y luz trasera que parpadea al frenar",
       "Batería con IPX6 dentro de un conjunto IPX4 y BMS con seis protecciones",
-      "Tres modos de marcha (6, 15 y 25 km/h) y plegado en tres pasos"
+      "Tres modos de marcha (6, 15 y 25 km/h) y plegado en tres pasos",
+      "329,99 € según la página de compra de Xiaomi España, consultada el 31/10/2026"
     ],
     contras: [
-      "329,99 € es un importe aproximado que cita la prensa (Mundo Xiaomi) y que puede variar",
       "Autonomía de solo 25 km a 15 km/h y de 20 km a 25 km/h, lejos de los modelos Pro y Max de la serie",
       "La ficha oficial no da el tiempo de carga ni el peso, y la capacidad de 216 Wh es un dato de prensa",
       "Soporta un máximo de 100 kg y solo tiene protección IPX4 contra salpicaduras",
@@ -289,8 +288,8 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
       "Ligero o no, el 6 Lite pide casco y 15 años cumplidos según el RD 518/2026"
     ],
     veredicto: "El 6 Lite es el Xiaomi más sencillo de la serie: 500 W de pico, 25 mm de suspensión delantera y 25 km de autonomía declarada. A 25 km/h baja a 20 km, así que solo encaja en trayectos urbanos muy cortos.",
-    fuenteNombre: "Web oficial de Xiaomi en España, página del 6 Lite (potencia, autonomía, carga y protección IPX4); precio aproximado: Mundo Xiaomi",
-    fuenteUrl: "https://www.mi.com/es/product/xiaomi-electric-scooter-6-lite/",
+    fuenteNombre: "Xiaomi España: precio de la página de compra del 6 Lite (329,99 €; consulta del 31/10/2026) y datos de su página oficial (potencia, autonomía, carga, IPX4)",
+    fuenteUrl: "https://www.mi.com/es/product/xiaomi-electric-scooter-6-lite/buy/",
     mantenimientoDIY: {
       actualizacionFirmware: "A través de la app oficial Xiaomi Home (iOS/Android)"
     }
@@ -317,7 +316,6 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     foto: "/media/patinetes/xiaomi-electric-scooter-6-pro-oficial.webp",
     galeria: [],
     aprox: [
-      "precioEur",
       "potenciaNominalW",
       "pesoKg",
       "tiempoCargaH"
@@ -327,19 +325,19 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
       "Suspensión delantera de doble resorte con 40 mm de recorrido y amortiguador central trasero",
       "Tracción trasera con motor de 1000 W de pico; subida máxima anunciada: 22 %",
       "Distancia al suelo de 143 mm y plataforma de 75 cm con kicktail de 30 grados",
-      "Protección IPX5, TCS opcional desde la app y recuperación de energía que puedes quitar"
+      "Protección IPX5, TCS opcional desde la app y recuperación de energía que puedes quitar",
+      "Xiaomi España lo vende a 549,99 € (consulta del 31/10/2026) y su página de compra no marca rebaja"
     ],
     contras: [
-      "El precio de 549,99 € es aproximado: lo cita un artículo de Mundo Xiaomi y puede cambiar con ofertas",
       "Los 70 km de portada son a 15 km/h; yendo a 25 km/h Xiaomi reconoce 45 km",
       "TCS y recuperación de energía vienen desactivados de fábrica y hay que encenderlos en la app Xiaomi Home",
       "En la web de Xiaomi faltan el peso y el certificado DGT; pregunta ambos antes de pagar",
       "Frena con disco solo en la rueda delantera; la trasera depende del E-ABS electrónico",
       "Aunque sea un todoterreno, el 6 Pro se rige por el RD 518/2026: casco puesto y 15 años cumplidos"
     ],
-    veredicto: "Con 468 Wh, 1000 W de pico y suspensión en las dos ruedas, el 6 Pro de Xiaomi está pensado para caminos de tierra y asfalto roto, no para el trayecto corto. Su autonomía real a 25 km/h ronda los 45 km y el precio hay que contrastarlo en tienda.",
-    fuenteNombre: "Xiaomi España, página oficial del 6 Pro (468 Wh, motor de 1000 W, 70 km, hasta 120 kg); precio aproximado: Mundo Xiaomi",
-    fuenteUrl: "https://www.mi.com/es/product/xiaomi-electric-scooter-6-pro/",
+    veredicto: "Con 468 Wh, 1000 W de pico y suspensión en las dos ruedas, el 6 Pro de Xiaomi está pensado para caminos de tierra y asfalto roto, no para el trayecto corto. Su autonomía real a 25 km/h ronda los 45 km y Xiaomi España lo vende a 549,99 €.",
+    fuenteNombre: "Xiaomi España: página /buy/ del 6 Pro con 549,99 € (consulta del 31/10/2026); ficha oficial para batería de 468 Wh, motor de 1000 W, 70 km y 120 kg",
+    fuenteUrl: "https://www.mi.com/es/product/xiaomi-electric-scooter-6-pro/buy/",
     mantenimientoDIY: {
       actualizacionFirmware: "A través de la app oficial Xiaomi Home (iOS/Android)"
     }
@@ -366,7 +364,6 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     foto: "/media/patinetes/xiaomi-electric-scooter-6-max-oficial.webp",
     galeria: [],
     aprox: [
-      "precioEur",
       "potenciaNominalW"
     ],
     pros: [
@@ -374,19 +371,19 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
       "Suspensión delantera de 45 mm de recorrido y dos amortiguadores traseros",
       "Doble freno de disco y E-ABS trasero, con IPX6 en todo el vehículo",
       "468 Wh en total: 70 km yendo a 15 km/h, 45 km a tope de velocidad, y 2 h 45 min para llenarla con el cargador rápido",
-      "Plataforma de 600 x 190 mm, manillar de 606,6 mm y pantalla TFT en color de 3 pulgadas"
+      "Plataforma de 600 x 190 mm, manillar de 606,6 mm y pantalla TFT en color de 3 pulgadas",
+      "En la web de compra de Xiaomi España cuesta 649,99 €, 30 € por debajo del PVR de 679,99 € (31/10/2026)"
     ],
     contras: [
-      "La cifra de 649,99 € es orientativa: la publica Mundo Xiaomi y puede moverse con las promociones",
       "El cargador rápido se compra por separado, y la ficha oficial no indica el tiempo con el cargador de serie",
       "TCS y recuperación de energía llegan apagados y se conectan desde la aplicación Xiaomi Home",
       "El peso y el certificado de la DGT no se mencionan en la ficha oficial: confírmalos con el vendedor",
       "El chasis de acero al carbono soporta 130 kg, menos que los 140 kg del Ultra",
       "En la calle, el 6 Max exige casco abrochado y 15 años por el RD 518/2026, y está vetado en las aceras"
     ],
-    veredicto: "El 6 Max reúne ruedas de 12 pulgadas sin cámara, discos en ambos ejes y 468 Wh por unos 650 €. Sus 70 km de autonomía solo valen a ritmo tranquilo: a velocidad máxima son 45 km, que es la cifra útil para planificar.",
-    fuenteNombre: "Xiaomi España, página oficial del 6 Max (468 Wh, motor de 1100 W, 70 km, hasta 130 kg); precio aproximado: Mundo Xiaomi",
-    fuenteUrl: "https://www.mi.com/es/product/xiaomi-electric-scooter-6-max/",
+    veredicto: "El 6 Max reúne ruedas de 12 pulgadas sin cámara, discos en ambos ejes y 468 Wh por 649,99 € en Xiaomi España. Sus 70 km de autonomía solo valen a ritmo tranquilo: a velocidad máxima son 45 km, que es la cifra útil para planificar.",
+    fuenteNombre: "Xiaomi España, 6 Max: precio de 649,99 € en su página /buy/ consultada el 31/10/2026, y 468 Wh, 1100 W, 70 km y 130 kg en la ficha del producto",
+    fuenteUrl: "https://www.mi.com/es/product/xiaomi-electric-scooter-6-max/buy/",
     mantenimientoDIY: {
       actualizacionFirmware: "A través de la app oficial Xiaomi Home (iOS/Android)"
     }
@@ -413,7 +410,6 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     foto: "/media/patinetes/xiaomi-electric-scooter-6-ultra-oficial.webp",
     galeria: [],
     aprox: [
-      "precioEur",
       "potenciaNominalW",
       "pesoKg"
     ],
@@ -422,19 +418,19 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
       "Motor de 1200 W con par máximo de 45 N·m, pendiente del 25 % y modo Boost de +200 W al arrancar en Sport",
       "Doble brazo oscilante con elastómeros reforzados y 172 mm de distancia al suelo en la batería",
       "Admite hasta 140 kg de conductor, el tope más alto de la serie 6",
-      "Pantalla TFT de 3 pulgadas, IPX6 en todo el conjunto y localización con Apple Find My"
+      "Pantalla TFT de 3 pulgadas, IPX6 en todo el conjunto y localización con Apple Find My",
+      "Precio de 799,99 € frente a un PVR de 849,99 € que Xiaomi España mostraba el 31/10/2026 en su página /buy/"
     ],
     contras: [
-      "Su precio de 799,99 € es aproximado y viene de Mundo Xiaomi, en su artículo sobre los nuevos Scooter 6; puede variar",
       "Con el cargador de serie tarda unas 10,5 horas en cargar; el cargador rápido (3 h 20 min) se vende aparte",
       "Boost, TCS y E-ABS hay que activarlos en la app, porque salen desactivados de fábrica",
       "Ni el peso ni el certificado de la DGT figuran en la ficha oficial: pide ambos datos al vendedor",
       "Con ruedas todoterreno de 3 pulgadas de ancho el plegado y el transporte resultan voluminosos",
       "Con 1200 W de pico, la norma (RD 518/2026) sigue pidiendo casco homologado y tener 15 años, sin excepciones"
     ],
-    veredicto: "El Ultra reúne 585 Wh, 1200 W y 140 kg de carga máxima en un Xiaomi que cuesta unos 800 €. A 25 km/h Xiaomi anuncia 55 km, y lo más difícil de justificar es su tiempo de carga con el cargador estándar.",
-    fuenteNombre: "Xiaomi España, página oficial del 6 Ultra (585 Wh, motor de 1200 W, 75 km, hasta 140 kg); precio aproximado: Mundo Xiaomi",
-    fuenteUrl: "https://www.mi.com/es/product/xiaomi-electric-scooter-6-ultra/",
+    veredicto: "El Ultra reúne 585 Wh, 1200 W y 140 kg de carga máxima en un Xiaomi que Xiaomi España vende a 799,99 €. A 25 km/h Xiaomi anuncia 55 km, y lo más difícil de justificar es su tiempo de carga con el cargador estándar.",
+    fuenteNombre: "Xiaomi España, 6 Ultra: 799,99 € según su página /buy/ (visitada el 31/10/2026); batería de 585 Wh, 1200 W, 75 km y 140 kg según la página del producto",
+    fuenteUrl: "https://www.mi.com/es/product/xiaomi-electric-scooter-6-ultra/buy/",
     mantenimientoDIY: {
       actualizacionFirmware: "A través de la app oficial Xiaomi Home (iOS/Android)"
     }
@@ -506,60 +502,68 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway-Ninebot",
     modelo: "KickScooter F3 Pro E",
-    precioEur: 699, // tarifa oficial España (verificado 20/10/2026),
+    precioEur: 649,
     potenciaNominalW: 550,
     potenciaPicoW: 1200,
     autonomiaKm: 70,
     autonomiaRealKm: 50,
     velocidadMaxKmh: 25,
-    pesoKg: 19.3,
+    pesoKg: 18.6,
     cargaMaxKg: 120,
     tiempoCargaH: 8,
     bateriaWh: 477,
-    frenos: "Disco delantero + freno electrónico trasero",
-    neumaticos: 'Neumáticos autosellantes sin cámara de 10"',
-    certificadoDgt: true,
-    foto: "/media/patinetes/segway-ninebot-f3-pro-1.webp",
+    frenos: "Disco en ambas ruedas y freno electrónico",
+    neumaticos: "Neumáticos autorreparables tubeless de 10\"",
+    certificadoDgt: null,
+    foto: "/media/patinetes/segway-ninebot-f3-pro-e-oficial.webp",
     galeria: [
       {
-        src: "/media/patinetes/segway-ninebot-f3-pro-2.webp",
-        alt: "Pantalla TFT a color del Segway Ninebot F3 Pro E",
-        ancho: 1200,
-        alto: 800,
+        src: "/media/segway-ninebot-f3-pro-hunt1.webp",
+        alt: "KickScooter F3 Pro E (foto: Segway-Ninebot (imagen oficial de producto) vía Vodafone CZ / Wee-Bot, licencia desconocida)",
+        ancho: 1024,
+        alto: 1024
       },
       {
-        src: "/media/patinetes/segway-ninebot-f3-pro-3.webp",
-        alt: "Segway Ninebot F3 Pro E en uso urbano nocturno",
-        ancho: 1200,
-        alto: 800,
+        src: "/media/segway-ninebot-f3-pro-hunt2.webp",
+        alt: "KickScooter F3 Pro E (foto: Segway-Ninebot (imagen oficial de producto) vía Voltride, licencia desconocida)",
+        ancho: 630,
+        alto: 520
       },
-      { src: "/media/segway-ninebot-f3-pro-hunt1.webp", alt: "KickScooter F3 Pro E (foto: Segway-Ninebot (imagen oficial de producto) vía Vodafone CZ / Wee-Bot, licencia desconocida)", ancho: 1024, alto: 1024 },
-      { src: "/media/segway-ninebot-f3-pro-hunt2.webp", alt: "KickScooter F3 Pro E (foto: Segway-Ninebot (imagen oficial de producto) vía Voltride, licencia desconocida)", ancho: 630, alto: 520 },
-      { src: "/media/segway-ninebot-f3-pro-hunt3.webp", alt: "KickScooter F3 Pro E (foto: Segway-Ninebot (imagen oficial de producto) vía Voltride, licencia desconocida)", ancho: 630, alto: 520 },
+      {
+        src: "/media/segway-ninebot-f3-pro-hunt3.webp",
+        alt: "KickScooter F3 Pro E (foto: Segway-Ninebot (imagen oficial de producto) vía Voltride, licencia desconocida)",
+        ancho: 630,
+        alto: 520
+      }
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: [
+      "potenciaNominalW",
+      "tiempoCargaH",
+      "autonomiaRealKm"
+    ],
     pros: [
-      "Tipo 1 / VPL en MediaMarkt: certificado DGT verificado",
-      "Solo 19,3 kg con 70 km declarados: gran relación peso/autonomía",
-      "Pantalla TFT a color con navegación integrada",
-      "SegRide, control de tracción TCS, Apple Find My y AirLock",
-      "Batería extra opcional que amplía la autonomía hasta 131 km",
+      "La tienda de Segway España pedía 649 € el 31/10/2026 y no mostraba ninguna oferta",
+      "Con 477 Wh (46,8 V), Segway anuncia un alcance teórico de 70 km rodando a 15 km/h con 75 kg",
+      "Discos de freno delante y detrás más freno electrónico, con suspensión delantera hidráulica y trasera de elastómero",
+      "Pendiente máxima del 24 %, 1200 W de potencia máxima y ruedas tubeless autorreparables de 10 pulgadas",
+      "Pantalla TFT, desbloqueo AirLock por Bluetooth, sistema Segride y reflectores E-MARK delante, detrás y a los lados"
     ],
     contras: [
-      "Carga lenta: 8 horas con el cargador incluido",
-      "La batería extra se vende por separado y encarece el conjunto",
-      "Suspensión trasera de torsión de goma, menos refinada que la hidráulica",
-      "El PVP de 699 € tiene competencia dura (Xiaomi 5 Max, NIU KQi 300P)",
-      "Neumáticos de 10\": menos aplomo que los de 11\" del MAX G3",
+      "El alcance de 70 km se mide a 15 km/h con 75 kg; el comparador estima 50 km para un uso real a 25 km/h",
+      "Faltan en la tienda oficial la potencia nominal (550 W) y la carga completa (8 h): ambos datos proceden de fuentes no oficiales",
+      "Sus 18,6 kg declarados se notan al subirlo a mano por escaleras",
+      "La batería externa de 48 V compatible se vende aparte, por 249,95 € en la misma tienda",
+      "No consta certificado DGT en la web oficial; consúltalo con el vendedor antes de comprar",
+      "Segway-Ninebot lo recomienda a partir de los 16 años, según la ficha de su tienda de España",
+      "En el F3 Pro E rigen igualmente el casco y la edad mínima de 15 años que fija el RD 518/2026"
     ],
-    veredicto:
-      "El F3 Pro E es el Segway equilibrado: 70 km declarados en 19,3 kg con pantalla TFT y navegación. La carga de 8 horas es su gran pega; si lo cargas de noche, es de lo mejor por 650 €.",
-    fuenteNombre: "MediaMarkt",
-    fuenteUrl: "https://www.mediamarkt.es/es/product/_patinete-electrico-segway-ninebot-f3-pro-potencia-max-1200w-potencia-nominal-550w-carga-max-120-kg-477-mah-25-kmh-gris-y-negro-1598240.html",
+    veredicto: "El F3 Pro E cuesta 649 € en Segway España y reúne 477 Wh, discos en las dos ruedas y 70 km declarados en 18,6 kg. A 25 km/h la autonomía quedará por debajo de la cifra de catálogo, y su tiempo de carga conviene confirmarlo con el vendedor.",
+    fuenteNombre: "Segway-Ninebot España, Ninebot F3 Pro E: 649 € el 31/10/2026, 477 Wh, 70 km, 18,6 kg y 120 kg en su tienda; 550 W y 8 h de otras fuentes, no oficiales",
+    fuenteUrl: "https://shop.segway.com/es_es/ninebot-f3-pro-e.html",
     mantenimientoDIY: {
       presionNeumaticos: "2,9-3,3 bar (42-48 psi, según el manual oficial)",
-      actualizacionFirmware: "A través de la app oficial Segway Mobility (iOS/Android)",
-    },
+      actualizacionFirmware: "A través de la app oficial Segway Mobility (iOS/Android)"
+    }
   },
   {
     id: "segway-ninebot-e3-pro",
@@ -665,7 +669,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway-Ninebot",
     modelo: "KickScooter GT3 E",
-    precioEur: 1499, // PVP oficial Segway Europa (shop.segway.com), verificado 21/10/2026 (antes 330: sin respaldo oficial),
+    precioEur: 1499,
     potenciaNominalW: 700,
     potenciaPicoW: 2400,
     autonomiaKm: 95,
@@ -674,50 +678,58 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     pesoKg: 39.5,
     cargaMaxKg: 150,
     tiempoCargaH: 5.5,
-    bateriaWh: null,
-    frenos: "Frenos de doble disco",
-    neumaticos: 'Neumáticos autosellantes de 11"',
+    bateriaWh: 899,
+    frenos: "Doble freno de disco",
+    neumaticos: "Neumáticos autosellantes de 11\"",
     certificadoDgt: null,
-    foto: "/media/patinetes/segway-ninebot-gt3-e-1.webp",
+    foto: "/media/patinetes/segway-ninebot-gt3-e-oficial.webp",
     galeria: [
       {
-        src: "/media/patinetes/segway-ninebot-gt3-e-2.webp",
-        alt: "Pantalla TFT del Segway Ninebot GT3 E",
-        ancho: 1200,
-        alto: 800,
+        src: "/media/segway-ninebot-gt3-e-hunt1.webp",
+        alt: "KickScooter GT3 E (foto: Segway-Ninebot (foto de producto) vía Merlin Dinamarca, licencia desconocida)",
+        ancho: 1600,
+        alto: 1200
       },
       {
-        src: "/media/patinetes/segway-ninebot-gt3-e-3.webp",
-        alt: "Segway Ninebot GT3 E en marcha por carretera",
-        ancho: 1200,
-        alto: 800,
+        src: "/media/segway-ninebot-gt3-e-hunt2.webp",
+        alt: "KickScooter GT3 E (foto: Segway-Ninebot (foto de producto) vía IQ Mobile, licencia desconocida)",
+        ancho: 1000,
+        alto: 1000
       },
-      { src: "/media/segway-ninebot-gt3-e-hunt1.webp", alt: "KickScooter GT3 E (foto: Segway-Ninebot (foto de producto) vía Merlin Dinamarca, licencia desconocida)", ancho: 1600, alto: 1200 },
-      { src: "/media/segway-ninebot-gt3-e-hunt2.webp", alt: "KickScooter GT3 E (foto: Segway-Ninebot (foto de producto) vía IQ Mobile, licencia desconocida)", ancho: 1000, alto: 1000 },
-      { src: "/media/segway-ninebot-gt3-e-hunt3.webp", alt: "KickScooter GT3 E (foto: Segway-Ninebot (foto de producto) vía i-Phonik, licencia desconocida)", ancho: 800, alto: 800 },
+      {
+        src: "/media/segway-ninebot-gt3-e-hunt3.webp",
+        alt: "KickScooter GT3 E (foto: Segway-Ninebot (foto de producto) vía i-Phonik, licencia desconocida)",
+        ancho: 800,
+        alto: 800
+      }
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: [
+      "potenciaNominalW",
+      "tiempoCargaH",
+      "autonomiaRealKm"
+    ],
     pros: [
-      "95 km en modo Eco (75 km en Sport a 25 km/h): autonomía descomunal",
-      "Carga máxima de 150 kg, la más alta del lote",
-      "Doble freno de disco y doble suspensión hidráulica",
-      "Pantalla TFT de 2,4\" con navegación y sistema SegRide",
-      "Sube pendientes de hasta el 30 %",
+      "Precio de 1.499 € en Segway España el 31/10/2026, sin promoción visible",
+      "Batería grande de 899 Wh (46,8 V), con hasta 95 km de recorrido teórico según la prueba del fabricante",
+      "Potencia máxima de 2400 W y pendiente máxima del 30 %",
+      "Doble freno de disco, suspensiones hidráulicas, control de tracción TCS y sistema Segride",
+      "Admite 150 kg de conductor, según la ficha oficial"
     ],
     contras: [
       "Pesa 39,5 kg: es más una moto pequeña que un patinete plegable",
+      "El alcance de 95 km corresponde a 15 km/h y 75 kg; los 62 km del comparador son una estimación a 25 km/h",
+      "Segway no publica en España la potencia nominal ni la carga completa: 700 W y 5,5 h son cifras no oficiales",
       "MediaMarkt lo clasifica como Tipo 2 / VPM: sin certificado DGT verificado",
-      "Precio sin referencia estable en España (ofertas infladas o de segunda mano)",
-      "Tamaño enorme: transportarlo o guardarlo en casa es un problema",
       "2400 W de pico limitados a 25 km/h por ley: potencia que no se puede usar",
+      "Segway-Ninebot lo indica para mayores de 14 años en su tienda oficial de España",
+      "Por muy grande que sea el GT3 E, la ley (RD 518/2026) pide casco abrochado y 15 años cumplidos para conducirlo"
     ],
-    veredicto:
-      "El GT3 E es una bestia: 95 km de autonomía y 150 kg de carga. Pero 39,5 kg y la clasificación como Tipo 2 lo sacan del uso urbano normal. Solo para quien necesite el máximo y tenga dónde guardarlo.",
-    fuenteNombre: "MediaMarkt",
-    fuenteUrl: "https://www.mediamarkt.es/es/product/_patinete-electrico-segway-ninebot-gt3-e-pot-max-2400-w-carga-max-150-kg-95-km-autonomia-vel-25-kmh-19209-mah-gris-152143121.html",
+    veredicto: "El GT3 E es el gran escalón de la gama Segway: batería enorme, 95 km declarados y un peso de 39,5 kg. Por 1.499 € solo tiene sentido si necesitas ese nivel y dispones de espacio para guardarlo.",
+    fuenteNombre: "Segway-Ninebot España, Superscooter GT3 E: 1.499 € el 31/10/2026, 899 Wh, 95 km, 39,5 kg y 150 kg en su tienda; 700 W y 5,5 h de otras fuentes, no oficiales",
+    fuenteUrl: "https://shop.segway.com/es_es/segway-superscooter-gt3-e.html",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Segway Mobility (iOS/Android)",
-    },
+      actualizacionFirmware: "A través de la app oficial Segway Mobility (iOS/Android)"
+    }
   },
   {
     id: "niu-kqi-300p",
