@@ -18,7 +18,7 @@ export const LOTE_20: MapaEnriquecimiento = {
       { etiqueta: "Porcentajes del Kona", valor: "80 % adultos; 83 % niños; 64 % vulnerables; 60 % asistencias", fuente: "Euro NCAP, desglose de áreas del KONA", url: KONA, anio: "2023" },
       { etiqueta: "Fila de la lista que coincide", valor: "1.6 petrol hybrid, KONA Hybrid, 4x2", fuente: "Euro NCAP, tabla de variantes cubiertas del KONA", url: KONA, anio: "2023" },
       { etiqueta: "Kona ensayado", valor: "GLS eléctrico, volante a la izquierda; 1.750 kg", fuente: "Euro NCAP, modelo probado del KONA", url: KONA, anio: "2023" },
-      { etiqueta: "Pecho del conductor", valor: "Marginal en el frontal desplazado; débil en el de ancho completo", fuente: "Euro NCAP, comentario sobre los impactos frontales del KONA", url: KONA, anio: "2023" },
+      { etiqueta: "Pecho del conductor", valor: "Marginal si el choque es desplazado; débil con ancho completo", fuente: "Euro NCAP, comentario sobre los impactos frontales del KONA", url: KONA, anio: "2023" },
     ],
   },
   "dacia-spring-2024-precio-ficha-tecnica": {

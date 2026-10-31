@@ -34,7 +34,7 @@ export const LOTE_10: MapaEnriquecimiento = {
     ],
     filas: [
       { etiqueta: "Euro NCAP (3 estrellas)", valor: "Adultos 67 %; niños 65 %; usuarios vulnerables 76 %; asistencias 62 %", fuente: "Euro NCAP, evaluación del Suzuki Swift 2024", url: NCS, anio: "2024" },
-      { etiqueta: "Publicación de la nota", valor: "10 de julio de 2024", fuente: "Euro NCAP, ficha del Swift: historial de revisiones", url: NCS, anio: "2024" },
+      { etiqueta: "Publicación de la nota", valor: "10 de julio de 2024", fuente: "Ficha del Swift en Euro NCAP: historial de revisiones", url: NCS, anio: "2024" },
       { etiqueta: "Variante ensayada", valor: "1.2 gasolina GL+ 4x2; la nota aplica también al 4x4 y a GL y GLX", fuente: "Euro NCAP, ficha del Swift: variantes cubiertas", url: NCS, anio: "2024" },
       { etiqueta: "Fortalezas", valor: "Poste lateral con máxima puntuación; frenado automático con ciclistas bueno; asientos con buena protección contra latigazo", fuente: "Euro NCAP, veredicto del Suzuki Swift", url: NCS, anio: "2024" },
       { etiqueta: "Puntos débiles", valor: "Pecho del conductor débil en el frontal; golpe del lado contrario pobre; sin detección de niños olvidados", fuente: "Euro NCAP, veredicto del Suzuki Swift", url: NCS, anio: "2024" },
