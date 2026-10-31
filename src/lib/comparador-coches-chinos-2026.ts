@@ -351,13 +351,6 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     fuenteUrl: "https://hima.auto/zunjie/v800/configuration/",
     videoId: null,
     videoCanal: null,
-    fuenteNombre: "CnEVPost y HIMA: ficha de lanzamiento, 5 de agosto de 2026",
-    fuenteUrl: "https://cnevpost.com/2026/08/05/maextro-launches-v680-v800-mpvs/",
-    versiones: [
-      { nombre: "Premium (766.000 ¥ en China)", precio: 102100, aprox: true },
-      { nombre: "Executive (866.000 ¥ en China)", precio: 115500, aprox: true },
-      { nombre: "Flagship (1.016.000 ¥ en China)", precio: 135500, aprox: true },
-    ],
   },
   {
     id: "byd-tang-l-2026-precio-ficha-tecnica",
