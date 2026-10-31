@@ -29,18 +29,18 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
       "pesoKg"
     ],
     "pros": [
-      "Bicilíndrico de 398 cc con 31 kW: unos 10 kW más que sus rivales directos",
-      "6.288 € en España, menos que la Honda ADV350 (6.790 €) y el Yamaha XMAX 300 (6.499 €)",
-      "TFT de 7\", control de tracción y ABS de doble canal",
+      "Motor de dos cilindros y 398 cc, 31 kW: bastante más potencia que los scooters rivales de 300 cc",
+      "Precio de 6.288 € en España, por debajo del de la ADV350 y del XMAX 300",
+      "Pantalla TFT de 7 pulgadas, tracción controlada y ABS en ambos ejes",
       "Pinza radial de cuatro pistones delante",
-      "Euro 5+ y consumo homologado de unos 4,3 l/100 km (WMTC, datos Voge)"
+      "Norma Euro 5+ y un gasto declarado por Voge de unos 4,3 l cada 100 km"
     ],
     "contras": [
-      "Peso entre 197 y 220 kg según la ficha",
-      "Datos de par y medidas distintos entre Francia, Italia y Singapur",
-      "Ruedas de carretera: aspecto de aventura sin capacidad de tierra",
-      "Prueba de Motofichas con reacciones menos precisas en frenada fuerte",
-      "Marca con menos trayectoria que Honda o Yamaha"
+      "El peso oscila entre 197 y 220 kg según la fuente consultada",
+      "Par motor y medidas cambian de un país a otro (Francia, Italia, Singapur)",
+      "Llantas de asfalto: look aventurero, pero no pensado para pistas",
+      "En la prueba de Motofichas la frenada fuerte resultó menos precisa",
+      "Fabricante con menor recorrido en este segmento que las marcas japonesas"
     ],
     "curiosidades": [],
     "galeria": [],
@@ -73,9 +73,9 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
     "etiquetaDgt": null,
     "aprox": [],
     "pros": [
-      "51,1 CV y 54,4 Nm, más que el MP3 530 y el Metropolis 400",
-      "Se conduce con carnet B desde los 21 años",
-      "Control de crucero, keyless, puños calefactables y TFT",
+      "Rinde 51,1 CV y 54,4 Nm, cifras por encima de las del MP3 y del Metropolis",
+      "Basta el permiso B si el conductor tiene 21 años cumplidos",
+      "Equipa crucero, arranque sin llave, puños con calefacción y pantalla TFT",
       "Cuatro amortiguadores delanteros con KALS",
       "11.990 € frente a 13.250 € del MP3"
     ],
@@ -83,7 +83,7 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
       "287 kg: pesado para maniobrar",
       "Más caro que el Metropolis 400 SW",
       "Fotos del modelo 2025",
-      "Peso y precio de las rivales no oficiales"
+      "Los datos de las rivales no proceden de fuente oficial"
     ],
     "curiosidades": [],
     "galeria": [
@@ -123,15 +123,15 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
     "etiquetaDgt": null,
     "aprox": [],
     "pros": [
-      "3.088 € con 5 años de garantía y seguro de un año",
+      "Cuesta 3.088 € e incluye cinco años de garantía y un año de seguro",
       "Horquilla invertida, ABS doble canal y TCS",
       "Pantalla LCD en color con navegación",
-      "Depósito de 15 l: hasta 500 km según Voge",
-      "2.400 € menos que MT-125 y CB125R en precio de tarifa"
+      "Tanque de 15 litros con autonomía de hasta 500 km, dice la marca",
+      "Unos 2.400 € más barata que la MT-125 y la CB125R en tarifa"
     ],
     "contras": [
-      "Marca con menos red que Yamaha o Honda",
-      "Seguro regalado solo con ciertas condiciones de edad",
+      "Red de concesionarios más reducida que la de las marcas japonesas",
+      "El seguro de regalo exige cumplir unos requisitos de edad y carnet",
       "Precios de rivales no oficiales",
       "Peso comparado con criterios distintos"
     ],
@@ -166,17 +166,17 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
     "etiquetaDgt": null,
     "aprox": [],
     "pros": [
-      "13,2 CV y 12 Nm, más que la PCX125 y la NMAX 125 en ficha",
-      "45 l bajo el asiento (casco integral y jet)",
-      "440 km de autonomía declarados con 11,1 l",
-      "4 años (3+1) de garantía o 60.000 km en España",
-      "Desde 3.399 €, versión EVO Urban con top case de serie"
+      "Declara 13,2 CV y 12 Nm, por encima de la PCX125 y la NMAX 125",
+      "Cofre de 45 litros bajo la silla, caben un integral y un jet",
+      "Autonomía anunciada de 440 km con un depósito de 11,1 litros",
+      "Garantía en España de cuatro años (3+1) o 60.000 km",
+      "Parte de 3.399 €; la EVO Urban añade baúl trasero de serie"
     ],
     "contras": [
       "Peso oficial no publicado",
       "Más caro que la Honda PCX125 (3.199 €)",
-      "La autonomía de 440 km es una cifra del fabricante, no medida",
-      "Menos red y reventa que Honda y Yamaha"
+      "Los 440 km de autonomía son cifra del fabricante, sin medición propia",
+      "Menor red de servicio y valor de reventa que Honda o Yamaha"
     ],
     "curiosidades": [],
     "galeria": [
@@ -220,17 +220,17 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
       "pesoKg"
     ],
     "pros": [
-      "4.990 € de lista en Italia, claramente por debajo de la Honda ADV350",
-      "27,2 CV, Euro 5+, ABS de doble canal y control de tracción",
-      "Full LED, TPMS, USB A+C, portaequipajes y parabrisas",
+      "Tarifa italiana de 4.990 €, muy inferior a la de la ADV350",
+      "Entrega 27,2 CV con Euro 5+, doble ABS y control de tracción",
+      "Luces LED, sensores de presión, tomas USB, parrilla y pantalla de serie",
       "Asiento bajo, a 755 mm",
       "Depósito de 17,4 l"
     ],
     "contras": [
       "Sin precio oficial verificado en España",
-      "208 kg en seco, más que las rivales en orden de marcha",
-      "Par inferior al de la Honda ADV350 (28,5 frente a 31,5 Nm)",
-      "Marca con menos red y reventa que Honda y Yamaha"
+      "Pesa 208 kg en seco y las rivales miden en orden de marcha",
+      "Menos par que la ADV350: 28,5 Nm contra 31,5 Nm",
+      "Marca con menor implantación y reventa que las japonesas"
     ],
     "curiosidades": [],
     "galeria": [
@@ -272,16 +272,16 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
       "potenciaCv"
     ],
     "pros": [
-      "Motor de cuatro cilindros en línea de 475 cc con 57 kW",
-      "Régimen máximo de 14.000 rpm y válvula variable de escape",
-      "220 km/h declarados y reparto 50:50",
-      "Doble disco delantero con pinzas de 4 pistones",
-      "ABS, control de tracción, launch control y quickshifter de serie (Mega China Motor)"
+      "Cuatro cilindros en línea, 475 cc y 57 kW de potencia",
+      "Gira hasta 14.000 rpm y monta escape con válvula variable",
+      "Velocidad máxima de 220 km/h y pesos repartidos al 50 %",
+      "Frenos delanteros de dos discos y pinzas de cuatro pistones",
+      "Según Mega China Motor incluye ABS, tracción, salida asistida y cambio rápido"
     ],
     "contras": [
       "Sin precio ni distribuidor verificados en España",
-      "Necesita el carnet A: 57 kW superan el límite del A2",
-      "192 kg «neto» sin aclarar si incluye líquidos",
+      "Exige el permiso A completo, pues 57 kW rebasan el tope del A2",
+      "Los 192 kg figuran como peso neto, sin precisar si hay líquidos",
       "Horquilla sin ajustes, según Mega China Motor",
       "Marca sin trayectoria en el segmento deportivo"
     ],
@@ -319,15 +319,15 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
     ],
     "pros": [
       "Asiento a 780 mm, bajo",
-      "ABS de doble canal y doble disco flotante delante",
+      "Doble ABS y dos discos flotantes en el tren delantero",
       "Depósito de 16 l",
       "153 kg netos",
       "Iluminación Full LED"
     ],
     "contras": [
-      "Solo 21 kW y 25 Nm, menos que R3 y Ninja 500",
+      "Rinde 21 kW y 25 Nm, bastante menos que una R3 o una Ninja 500",
       "Sin precio oficial verificado en España",
-      "135 km/h declarados, menos que las rivales",
+      "Velocidad punta anunciada de 135 km/h, inferior a la de sus rivales",
       "Sin datos de garantía ni mantenimiento",
       "Cuadro LCD, no TFT"
     ],
@@ -369,17 +369,17 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
     "etiquetaDgt": "Cero",
     "aprox": [],
     "pros": [
-      "102 kW y 1.000 Nm declarados, 0-100 km/h en 3,5 s",
-      "Motor sin buje: sin cadena ni correa que mantener",
-      "Carga CCS hasta 100 kW con la batería de 20,2 kWh",
+      "Anuncia 102 kW y 1.000 Nm, con aceleración 0-100 km/h en 3,5 segundos",
+      "Motor sin buje: no hay cadena ni correa que cuidar",
+      "Recarga rápida CCS de hasta 100 kW en la batería de 20,2 kWh",
       "Brembo y Öhlins/Wilbers de serie",
-      "24 meses de garantía y 5 años para la batería"
+      "Garantía de dos años y de cinco para el acumulador"
     ],
     "contras": [
-      "Precio incierto: 29.900 € (Verge) frente a 36.581 € (prensa)",
+      "Precio dudoso: 29.900 € según la marca y 36.581 € según la prensa",
       "Sin precio con IVA verificado en España",
-      "235 kg, igual que la Zero SR/S",
-      "Entregas desde el cuarto trimestre de 2026; 2027 en Reino Unido",
+      "Pesa 235 kg, lo mismo que la Zero SR/S",
+      "Se entrega a partir del último trimestre de 2026, y en 2027 en el Reino Unido",
       "Foto de una unidad de 2025"
     ],
     "curiosidades": [],
@@ -415,18 +415,18 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
       "potenciaCv"
     ],
     "pros": [
-      "151 kg declarados, 18-20 kg menos que R3 y Ninja 500",
-      "Pinza Brembo de 4 pistones y disco de 320 mm",
+      "Declara 151 kg, entre 18 y 20 menos que la R3 y la Ninja 500",
+      "Freno Brembo de cuatro pistones con disco de 320 milímetros",
       "Quickshifter arriba y abajo y launch control",
       "Pantalla TFT",
       "190 km/h declarados"
     ],
     "contras": [
       "Sin precio oficial en España",
-      "Fuente de ficha: distribuidor, no la web global de Kove",
-      "A2 en el límite (0,20 kW/kg): confirmar homologación",
+      "Los datos vienen de un distribuidor y no de la web global de Kove",
+      "Roza el límite del A2 (0,20 kW/kg), así que conviene confirmar su homologación",
       "Peso sin aclarar líquidos",
-      "Red de servicio de Kove limitada en España"
+      "Servicio oficial de Kove poco extendido en España"
     ],
     "curiosidades": [],
     "galeria": [],

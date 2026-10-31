@@ -479,7 +479,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       { src: "/media/suzuki-v-strom-250sx-2025-ficha-tecnica-precio-hunt2.webp", alt: "Revisión anual / 6.000 km (foto: Scooterazzi (concesionario Suzuki Nueva Zelanda) / foto de prensa oficial Suzuki, licencia desconocida)", ancho: 1400, alto: 933 },
       { src: "/media/suzuki-v-strom-250sx-2025-ficha-tecnica-precio-hunt3.webp", alt: "Revisión anual / 6.000 km (foto: Rising Sun Suzuki (concesionario Suzuki Australia) / foto de prensa oficial Suzuki, licencia desconocida)", ancho: 1399, alto: 933 },
       { src: "/media/suzuki-v-strom-250sx-2025-ficha-tecnica-precio-commons-1.webp", alt: "Imagen de referencia: Suzuki V-Strom 250SX amarilla de 2023, vista frontal", ancho: 1200, alto: 2128 },
-      { src: "/media/suzuki-v-strom-250sx-2025-ficha-tecnica-precio-commons-2.webp", alt: "Imagen de referencia: Suzuki V-Strom 250SX amarilla de 2023, vista trasera", ancho: 1200, alto: 2128 },
+      { src: "/media/suzuki-v-strom-250sx-2025-ficha-tecnica-precio-commons-2.webp", alt: "Imagen de referencia: Suzuki V-Strom 250SX 2023 en color amarillo, ángulo trasero", ancho: 1200, alto: 2128 },
     ],
     videoId: null,
     videoCanal: null,
