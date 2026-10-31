@@ -136,61 +136,127 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Tarumo",
     marca: "Urban Glide",
     modelo: "All Road 6 2x2",
-    precioEur: 849.99, // tarifa oficial Europa (verificado 20/10/2026)
-    potenciaNominalW: 1600,
-    potenciaPicoW: null,
+    precioEur: 849.99,
+    potenciaNominalW: 1000,
+    potenciaPicoW: 1600,
     autonomiaKm: 80,
     autonomiaRealKm: 54,
     velocidadMaxKmh: 25,
     pesoKg: 30,
     cargaMaxKg: 120,
-    tiempoCargaH: null,
+    tiempoCargaH: 12,
     bateriaWh: 874,
-    frenos: "Doble freno de disco",
-    neumaticos: "10\" cross tubeless",
+    frenos: "Doble freno de disco (delantero y trasero)",
+    neumaticos: "10\" tubeless todoterreno",
     certificadoDgt: null,
-    foto: "/media/patinetes/urban-glide-all-road-6-2x2-1.webp",
-    galeria: [
-      { src: "/media/patinetes/urban-glide-all-road-6-2x2-2.webp", alt: "Detalle de los dos motores del Urban Glide All Road 6 2x2", ancho: 1200, alto: 800 },
-      { src: "/media/patinetes/urban-glide-all-road-6-2x2-3.webp", alt: "Urban Glide All Road 6 2x2 en un camino de tierra", ancho: 1200, alto: 800 },
+    foto: "/media/patinetes/urban-glide-all-road-6-2x2-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm"
     ],
-    aprox: ["autonomiaRealKm"],
     pros: [
-      "Tracción total 2x2 con dos motores de 800 W: tracción brutal en tierra y barro",
-      "Batería de 874 Wh (48 V 18,2 Ah): 80 km declarados",
-      "Neumáticos cross tubeless de 10\": agarre serio fuera del asfalto",
-      "Doble disco para detener 30 kg de patinete con seguridad",
-      "Carga máxima de 120 kg",
-      "En Francia ronda los 690 €: el 2x2 más barato del mercado",
+      "Tracción total con dos motores de 500 W nominales y 800 W máximos cada uno, y selector de tracción trasera, delantera o integral",
+      "Batería de 874 Wh (48 V y 18,2 Ah) y 80 km declarados por el fabricante en condiciones ideales",
+      "Neumáticos tubeless todoterreno de 10\" con doble freno de disco para parar 30 kg",
+      "Arranque con llave, luces RGB, intermitentes integrados y protección IPX5",
+      "Soporta hasta 120 kg y declara pendientes de hasta 20°"
     ],
     contras: [
-      "30 kg: no es un patinete para llevarlo a cuestas",
-      "Tiempo de carga no publicado; con 874 Wh no será corto",
-      "La autonomía real con los dos motores a pleno baja mucho de los 80 km",
-      "Sin certificación DGT verificada",
-      "Poco ágil en ciudad: es un patinete de campo",
-      "Repuestos y servicio técnico más limitados que las grandes marcas",
+      "Pesa 30 kg: no es un patinete para subir escaleras ni para llevar en transporte público",
+      "Carga completa en unas 12 horas, según el fabricante",
+      "Los 80 km se miden con 70 kg, a 15 km/h de media y sobre plano; con los dos motores a fondo la autonomía real baja bastante",
+      "UrbanGlide no indica certificación DGT en su ficha: antes de usarlo en vías públicas, exige el certificado de circulación",
+      "Es un patinete de campo, poco ágil en ciudad; el fabricante advierte que no es apto para acrobacias ni saltos"
     ],
-    veredicto:
-      "El All Road 6 2x2 es un capricho: tracción total y casi 900 Wh por menos de 700 €. Si buscas un patinete para pistas y caminos, no hay nada parecido por ese precio. Para ciudad pura, sus 30 kg y su tamaño lo hacen poco práctico.",
-    fuenteNombre: "UrbanGlide",
-    fuenteUrl: "https://www.urbanglide.com",
+    veredicto: "El All Road 6 2x2 cuesta 849,99 € en la web de UrbanGlide y ofrece tracción total, 874 Wh y neumáticos todoterreno. Es un patinete para pistas y caminos: en ciudad lo penalizan sus 30 kg, y su autonomía real queda muy por debajo de los 80 km declarados.",
+    fuenteNombre: "UrbanGlide: ficha oficial del All Road 6 2x2 (urbanglide.com)",
+    fuenteUrl: "https://urbanglide.com/en/produit/all-road-6-2x2/",
     mantenimientoDIY: {
-      intervaloRevision: "Antes de cada uso: comprobar que todas las piezas están bien montadas y en buen estado (manillar, frenos, ruedas, luces)",
-      presionNeumaticos: "Presión máxima de inflado: 6,40 bar (ver el valor indicado en el lateral del neumático)",
-      ajusteFrenosPasos: [
+      "intervaloRevision": "Antes de cada uso: comprobar que todas las piezas están bien montadas y en buen estado (manillar, frenos, ruedas, luces)",
+      "presionNeumaticos": "Presión máxima de inflado: 6,40 bar (ver el valor indicado en el lateral del neumático)",
+      "ajusteFrenosPasos": [
         "Comprobar el juego de la maneta de freno y el estado de discos y pastillas",
         "Sustituir los discos si el espesor baja de 2,5 mm o hay ruido anormal al frenar",
         "Prueba de frenada: circular a 15 km/h y frenar en 1 m; el patinete debe detenerse",
-        "Para los ajustes básicos, el manual remite a los videotutoriales del canal de YouTube «UrbanGlide Channel»",
+        "Para los ajustes básicos, el manual remite a los videotutoriales del canal de YouTube «UrbanGlide Channel»"
       ],
-      aprieteTornilleria: "Comprobar que el manillar y la potencia están correctamente apretados, y que los tornillos, pernos y tuercas están bien apretados",
-      trucos: [
+      "aprieteTornilleria": "Comprobar que el manillar y la potencia están correctamente apretados, y que los tornillos, pernos y tuercas están bien apretados",
+      "trucos": [
         "La batería mantiene un rendimiento estable durante unos 750 ciclos de carga (≈3 años de uso medio)",
         "Sustituir los neumáticos si pierden su forma original o presentan grietas, cortes u otros signos de desgaste",
-        "Evitar la lluvia intensa: los componentes eléctricos no deben sumergirse en agua",
-      ],
+        "Evitar la lluvia intensa: los componentes eléctricos no deben sumergirse en agua"
+      ]
     },
+    fuentesExtra: [
+      {
+        "nombre": "UrbanGlide: ficha oficial del All Road 6 2x2 (849,99 €, 2 motores de 500 W nominales y 800 W máximos, 48 V 18,2 Ah, 80 km, 12 h de carga, 20°, IPX5, 120 kg, 30 kg)",
+        "url": "https://urbanglide.com/en/produit/all-road-6-2x2/",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "UrbanGlide: manual oficial del All Road 6 Pro y 2x2 (modos de 6, 15 y 25 km/h y selección de tracción trasera, delantera o integral)",
+        "url": "https://urbanglide.com/wp-content/uploads/2025/04/AR6-PRO-Manual-FR-EN-ES-PT-1.pdf",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "UrbanGlide: ficha técnica del fabricante en francés, inglés, español y portugués (misma tabla, con la advertencia «no apto para acrobacias y saltos»)",
+        "url": "https://www.auchan.pt/on/demandware.static/-/Library-Sites-AuchanPTSharedLibrary/default/dw514f5c38/documents/003961355_fd36cf25-6872-45cc-915d-eaaa494c679c.pdf",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "urban-glide-all-road-5",
+        "nombre": "Urban Glide All Road 5",
+        "precioEur": 509.99,
+        "autonomiaKm": 40,
+        "potenciaW": 800,
+        "pesoKg": 27.6,
+        "nota": "800 W y 480 Wh; más ligero y barato, pero con un solo motor"
+      },
+      {
+        "id": "urban-glide-1000gt-2x2",
+        "nombre": "Urban Glide 1000GT 2x2",
+        "precioEur": null,
+        "autonomiaKm": 100,
+        "potenciaW": 2000,
+        "pesoKg": 33.5,
+        "nota": "Dos motores y 1.217 Wh; datos de la ficha de este comparador"
+      },
+      {
+        "id": "smartgyro-raptor-dual-evo",
+        "nombre": "SmartGyro Raptor Dual Evo",
+        "precioEur": null,
+        "autonomiaKm": 60,
+        "potenciaW": 1000,
+        "pesoKg": 30.4,
+        "nota": "Doble motor certificado, pero con 768 Wh; datos de la ficha de este comparador"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuánto cuesta el Urban Glide All Road 6 2x2?",
+        "a": "849,99 € en la web de UrbanGlide, consultada el 31/10/2026, con opción de pago en 3, 4 o 10 plazos. Es más que el precio de unos 690 € que se vio en Francia hace tiempo, así que compara antes de comprar."
+      },
+      {
+        "q": "¿Qué potencia tiene realmente?",
+        "a": "Dos motores, uno en cada rueda, de 500 W nominales y 800 W máximos cada uno: 1.000 W nominales y 1.600 W de pico en total. La ficha oficial lo escribe como «500 W - 800 W x2»."
+      },
+      {
+        "q": "¿Cuántos km hace en uso real?",
+        "a": "UrbanGlide declara hasta 80 km con 70 kg de carga, a 15 km/h de media y sin viento. En la prueba en vídeo que usa este comparador salieron unos 54 km; es un dato orientativo, no oficial: puede contener errores."
+      },
+      {
+        "q": "¿Puedo circular con él por la calle?",
+        "a": "Solo si tiene certificado de circulación, y la ficha de UrbanGlide no lo indica. Si lo tiene: Casco homologado o certificado y abrochado (artículo 118.3 del Reglamento General de Circulación) y 15 años cumplidos (artículo 155.3), según el Real Decreto 518/2026 en vigor desde el 1 de octubre de 2026. Está prohibido circular por aceras (artículo 152.1)."
+      }
+    ]
   },
   {
     id: "urban-glide-ride-100-pro-2",
@@ -2392,42 +2458,120 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot KickScooter F2 II",
-    precioEur: null, // sin tarifa oficial publicada en ningún mercado (verificado 20/10/2026)
+    precioEur: 429,
     potenciaNominalW: 400,
     potenciaPicoW: 800,
     autonomiaKm: 55,
     autonomiaRealKm: 30,
     velocidadMaxKmh: 25,
     pesoKg: 17.3,
-    cargaMaxKg: null,
+    cargaMaxKg: 100,
     tiempoCargaH: 6.5,
     bateriaWh: 367,
-    frenos: "Disco + freno eléctrico",
-    neumaticos: "10\" tubeless",
+    frenos: "Disco delantero + freno electrónico trasero (E-ABS)",
+    neumaticos: "10\" autosellantes de 60 mm de ancho",
     certificadoDgt: true,
-    foto: "/media/patinetes/segway-ninebot-f2-ii-1.webp",
-    galeria: [
-      { src: "/media/patinetes/segway-ninebot-f2-ii-2.webp", alt: "Detalle de los intermitentes del Segway Ninebot F2 II", ancho: 1200, alto: 800 },
-      { src: "/media/patinetes/segway-ninebot-f2-ii-3.webp", alt: "Segway Ninebot F2 II en una ciudad española", ancho: 1200, alto: 800 },
+    foto: "/media/patinetes/segway-ninebot-f2-ii-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm"
     ],
-    aprox: ["autonomiaRealKm", "bateriaWh", "tiempoCargaH"],
-    pros: ["Con el certificado DGT B1103 ya de serie no necesitas buscar una versión homologada aparte: tal cual sale de la caja circula como VMP en España, limitado a los 25 km/h legales", "La suspensión delantera de doble muelle con 30 mm de recorrido, que el F2 original no llevaba, trabaja junto a los neumáticos de 10 pulgadas y 60 mm de ancho para que adoquines y juntas no te lleguen directos a las muñecas", "Integra intermitentes en el manillar ancho de 570 mm y compatibilidad con Apple Find My: señalizas el giro sin soltar las manos y, si tienes iPhone, localizas el patinete desde la app Encontrar", "Mantiene los 17,3 kg pese a subir a 400 W nominales y conservar la batería de 367 Wh, así que sigue siendo asumible para plegarlo, meterlo en el maletero o combinarlo con metro y cercanías"],
-    contras: ["Su pendiente máxima oficial es del 18 % y los 400 W nominales se quedan justos en rampas sostenidas, sobre todo con un conductor cercano a los 100 kg de carga máxima que Segway declara para esta generación", "Repite la batería de 367 Wh del F2 original pese a ganar potencia: en uso real se queda en unos 30 km, lejos de los 460 Wh y los 65 km en ECO de su hermano F2 Pro II si necesitas margen de sobra", "Recargar por completo pide 6,5 horas y no hay carga rápida que salve un olvido: si te quedas seco por la mañana, no lo resuelves en la pausa del café", "Su función estrella de localización solo la aprovechas con ecosistema Apple —exige iOS 14,5 o posterior—; con Android te quedas sin Find My y dependes de un candado físico de toda la vida"],
-    veredicto:
-      "Con 400 W nominales y 800 W de pico, batería de 367 Wh y unos 30 km reales frente a los 55 km que declara Segway en modo ECO, el F2 II cubre el desplazamiento diario a 25 km/h pesando 17,3 kg y con certificado DGT B1103. Encaja si quieres un VMP legal para España, con intermitentes integrados y localizable con Apple Find My, y tu ida y vuelta habitual cabe en esa autonomía real sin cargar cada noche. No encaja si vives entre cuestas largas, te acercas a los 100 kg de carga máxima oficial o necesitas encadenar trayectos largos: ahí tendrás que asumir sus 6,5 horas de enchufe o mirar a su hermano Pro II, con batería mayor.",
-    fuenteNombre: "Segway",
-    fuenteUrl: "https://www.segway.com",
+    pros: [
+      "Con el certificado DGT B1103 ya de serie no necesitas buscar una versión homologada aparte: tal cual sale de la caja circula como VMP en España, limitado a los 25 km/h legales",
+      "La suspensión delantera de doble muelle con 30 mm de recorrido, que el F2 original no llevaba, trabaja junto a los neumáticos de 10 pulgadas y 60 mm de ancho para que adoquines y juntas no te lleguen directos a las muñecas",
+      "Integra intermitentes en el manillar ancho de 570 mm y compatibilidad con Apple Find My: señalizas el giro sin soltar las manos y, si tienes iPhone, localizas el patinete desde la app Encontrar",
+      "Mantiene los 17,3 kg pese a subir a 400 W nominales y conservar la batería de 367 Wh, así que sigue siendo asumible para plegarlo, meterlo en el maletero o combinarlo con metro y cercanías"
+    ],
+    contras: [
+      "Su pendiente máxima oficial es del 18 % y los 400 W nominales se quedan justos en rampas sostenidas, sobre todo con un conductor cercano a los 100 kg de carga máxima que Segway declara para esta generación",
+      "Repite la batería de 367 Wh del F2 original pese a ganar potencia: en uso real se queda en unos 30 km, lejos de los 460 Wh y los 65 km en ECO de su hermano F2 Pro II si necesitas margen de sobra",
+      "Recargar por completo pide 6,5 horas y no hay carga rápida que salve un olvido: si te quedas seco por la mañana, no lo resuelves en la pausa del café",
+      "Su función estrella de localización solo la aprovechas con ecosistema Apple —exige iOS 14,5 o posterior—; con Android te quedas sin Find My y dependes de un candado físico de toda la vida"
+    ],
+    veredicto: "Con 400 W nominales y 800 W de pico, batería de 367 Wh y unos 30 km reales frente a los 55 km que declara Segway en modo ECO, el F2 II cubre el desplazamiento diario a 25 km/h pesando 17,3 kg y con certificado DGT B1103. Encaja si quieres un VMP legal para España, con intermitentes integrados y localizable con Apple Find My, y tu ida y vuelta habitual cabe en esa autonomía real sin cargar cada noche. No encaja si vives entre cuestas largas, te acercas a los 100 kg de carga máxima oficial o necesitas encadenar trayectos largos: ahí tendrás que asumir sus 6,5 horas de enchufe o mirar a su hermano Pro II, con batería mayor.",
+    fuenteNombre: "Segway-Ninebot: ficha oficial del F2 II y tienda oficial de España (F2 E II)",
+    fuenteUrl: "https://ap-en.segway.com/ekickscooter/products/f2-ii.html",
     mantenimientoDIY: {
-      intervaloRevision: "Cada 3 meses o 500 km; revisión completa cada 6 meses; revisión mayor a los 5.000 km o 2 años (plan del manual Ninebot)",
-      presionNeumaticos: "42–48 PSI en ambos neumáticos, inflados por igual (manual Ninebot)",
-      aprieteTornilleria: "Manillar y mástil: 5,5 ± 0,5 N·m; acelerador: 3,5 ± 0,1 N·m; maneta de freno: 5,5 ± 0,1 N·m; parte superior del mástil: 10 ± 0,5 N·m; base del freno de disco: 7,7 ± 0,2 N·m",
-      actualizacionFirmware: "Conectar con la app Segway-Ninebot y actualizar el firmware a la última versión",
-      trucos: [
+      "intervaloRevision": "Cada 3 meses o 500 km; revisión completa cada 6 meses; revisión mayor a los 5.000 km o 2 años (plan del manual Ninebot)",
+      "presionNeumaticos": "42–48 PSI en ambos neumáticos, inflados por igual (manual Ninebot)",
+      "aprieteTornilleria": "Manillar y mástil: 5,5 ± 0,5 N·m; acelerador: 3,5 ± 0,1 N·m; maneta de freno: 5,5 ± 0,1 N·m; parte superior del mástil: 10 ± 0,5 N·m; base del freno de disco: 7,7 ± 0,2 N·m",
+      "actualizacionFirmware": "Conectar con la app Segway-Ninebot y actualizar el firmware a la última versión",
+      "trucos": [
         "Comprobar que intermitentes, claxon y panel de control funcionan con normalidad",
         "Verificar que el acelerador vuelve solo a su posición al soltarlo",
-        "Guardar en un lugar fresco y seco, lejos de la luz solar directa",
-      ],
+        "Guardar en un lugar fresco y seco, lejos de la luz solar directa"
+      ]
     },
+    fuentesExtra: [
+      {
+        "nombre": "Segway-Ninebot: ficha oficial del F2 II (55 km en Eco a 15 km/h, 40 km en Sport, 400 W nominales y 800 W máximos, 367 Wh, IPX5, 17,3 kg, 100 kg de carga)",
+        "url": "https://ap-en.segway.com/ekickscooter/products/f2-ii.html",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "Segway-Ninebot: manual de usuario oficial del F2 II (367 Wh, 10,2 Ah, 6,5 h de carga, edad recomendada 14+)",
+        "url": "https://response-nordic.com/media/multicase/documents/segway/f2-ii_f2-pro-ii_user_manual.pdf",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "Tienda oficial de Segway en España: Ninebot F2 E II a 379 € (precio especial) y 429 € (precio normal)",
+        "url": "https://shop.segway.com/es_es/ninebot-f2-e-ii.html",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "segway-ninebot-f2-pro-ii",
+        "nombre": "Segway Ninebot KickScooter F2 Pro II",
+        "precioEur": 499,
+        "autonomiaKm": 65,
+        "potenciaW": 450,
+        "pesoKg": 17.8,
+        "nota": "450 W nominales y 460 Wh: el hermano con más batería; precio y datos de este comparador"
+      },
+      {
+        "id": "segway-ninebot-f2-plus",
+        "nombre": "Segway-Ninebot F2 Plus E",
+        "precioEur": 549,
+        "autonomiaKm": 55,
+        "potenciaW": 400,
+        "pesoKg": 17.7,
+        "nota": "460 Wh y 17,7 kg; ficha de Segway en este comparador"
+      },
+      {
+        "id": "xiaomi-electric-scooter-4-pro",
+        "nombre": "Xiaomi Electric Scooter 4 Pro",
+        "precioEur": null,
+        "autonomiaKm": 55,
+        "potenciaW": 350,
+        "pesoKg": 17,
+        "nota": "350 W y 17 kg; datos de este comparador, sin precio oficial"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuánto cuesta el Segway Ninebot F2 II en España?",
+        "a": "La tienda oficial de Segway en España lo vende como Ninebot F2 E II a 429 € de precio normal y a 379 € en el precio especial que mostraba el 31/10/2026. Los comercios pueden aplicar otros precios."
+      },
+      {
+        "q": "¿Cuántos kilómetros hace de verdad?",
+        "a": "Segway declara 55 km en modo Eco a 15 km/h y 40 km en modo Sport a 25 km/h, medidos con 75 kg de carga a 25 °C. Con paradas, cuestas y frío la cifra baja; en este comparador usamos unos 30 km como estimación de uso real, y es un dato orientativo, no oficial: puede contener errores."
+      },
+      {
+        "q": "¿En qué se diferencia del Segway F2 original?",
+        "a": "Según la tabla oficial, el F2 II sube de 300 a 400 W nominales y de 700 a 800 W máximos, añade suspensión delantera de doble muelle y pasa de 40 a 55 km de autonomía en Eco. Mantiene los 367 Wh, los 17,3 kg y el IPX5, pero baja la carga máxima de 120 a 100 kg."
+      },
+      {
+        "q": "¿Qué edad mínima tiene y qué casco necesito?",
+        "a": "El manual de Segway recomienda 14 años o más, pero en España manda la norma: Casco homologado o certificado y abrochado (artículo 118.3 del Reglamento General de Circulación) y 15 años cumplidos (artículo 155.3), según el Real Decreto 518/2026 en vigor desde el 1 de octubre de 2026. Está prohibido circular por aceras (artículo 152.1)."
+      }
+    ]
   },
   {
     id: "segway-ninebot-f2-pro-ii",

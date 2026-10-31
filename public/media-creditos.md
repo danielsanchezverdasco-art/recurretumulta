@@ -4482,3 +4482,6 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/patinetes/xiaomi-electric-scooter-4-oficial.webp | https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-electric-scooter-4/pc/98b7f22c429460539501595a65a2755a.png | Xiaomi (foto de producto oficial) | prensa |
 | /media/patinetes/xiaomi-electric-scooter-4-pro-oficial.webp | https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666838244.98981922.png | Xiaomi (foto de producto oficial) | prensa |
 | /media/patinetes/cecotec-bongo-serie-a-connected-oficial.webp | https://media.cecotec.cloud/07026/bongo-serie-a-connected_11.jpg | Cecotec (foto de producto oficial) | prensa |
+| /media/patinetes/segway-ninebot-f2-ii-oficial.webp | https://ap-en.segway.com/content/dam/segway-ninebot/ap/en/content-import/product-image/Ekickscooter-F2Ⅱ.png | Segway-Ninebot (foto de producto oficial) | prensa |
+| /media/patinetes/urban-glide-all-road-6-2x2-oficial.webp | https://urbanglide.com/wp-content/uploads/2025/04/AR62x2-2.webp | UrbanGlide (foto de producto oficial) | prensa |
+| /media/patinetes/kaabo-wolf-king-gt-pro-oficial.webp | https://www.kaabo.com/wp-content/uploads/2023/05/Kaabo-Wolf-King-Gt.png | Kaabo (foto de producto oficial, Wolf King GT) | prensa |

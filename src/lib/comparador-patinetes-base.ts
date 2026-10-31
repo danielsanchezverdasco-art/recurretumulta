@@ -3398,46 +3398,120 @@ export const PATINETES_BASE: PatineteComparador[] = [
   fuenteUrl: "https://smartgyro.es/gama-pro/patinete-electrico-smartgyro-speedway-certificado",
 },
 {
-  id: "smartgyro-raptor-evo",
-  videoId: null,
-  videoCanal: null,
-  marca: "SmartGyro",
-  modelo: "Raptor Evo",
-  precioEur: 999,
-  potenciaNominalW: 1000,
-  potenciaPicoW: 2000,
-  autonomiaKm: 60,
-  autonomiaRealKm: 40,
-  velocidadMaxKmh: 25,
-  pesoKg: 22,
-  cargaMaxKg: 140,
-  tiempoCargaH: 8,
-  bateriaWh: 768,
-  frenos: "Hidráulicos delantero y trasero + regenerativa",
-  neumaticos: '10" tubeless Dual Grip',
-  certificadoDgt: true,
-  foto: "/media/patinetes/smartgyro-raptor-evo.webp",
-  aprox: ["autonomiaRealKm", "tiempoCargaH"],
-  pros: [
-    "1000 W nominales (2000 W pico) a 48 V: el más potente de Smartgyro",
-    "60 km de autonomía con batería de 16 Ah (768 Wh)",
-    "Frenos hidráulicos delantero y trasero + frenada regenerativa",
-    "Doble suspensión delantera y trasera por elastómeros",
-    "Intermitentes, iluminación full LED y app con bloqueo antirrobo",
-    "Certificado DGT con placa identificativa",
-    "3 años de garantía con marca española",
-  ],
-  contras: [
-    "22 kg: no es para subirlo por las escaleras a diario",
-    "Carga lenta: 8 h según la ficha (el fabricante habla de ~5 h en su FAQ)",
-    "999 € de PVP: compite con el K2 Pro, más equilibrado",
-    "1000 W nominales: revisa la normativa de tu ayuntamiento",
-    "Estética agresiva que no pasa desapercibida",
-  ],
-  veredicto: "El tope de gama urbano de Smartgyro: 1000 W, 60 km, frenos hidráulicos y certificado DGT por 999 € de PVP (en oferta a 799 € en su web). Para quien quiere el VMP legal más potente sin irse a marcas sin red en España.",
-  fuenteNombre: "Smartgyro (smartgyro.es)",
-  fuenteUrl: "https://smartgyro.es/patinetes-electricos/patinete-electrico-smartgyro-raptor-evo",
-},
+    id: "smartgyro-raptor-evo",
+    videoId: null,
+    videoCanal: null,
+    marca: "SmartGyro",
+    modelo: "Raptor Evo",
+    precioEur: 799,
+    potenciaNominalW: 1000,
+    potenciaPicoW: 2000,
+    autonomiaKm: 60,
+    autonomiaRealKm: 40,
+    velocidadMaxKmh: 25,
+    pesoKg: 22,
+    cargaMaxKg: 140,
+    tiempoCargaH: 8,
+    bateriaWh: 768,
+    frenos: "Disco hidráulico delantero y trasero + frenada regenerativa",
+    neumaticos: "10\" neumáticos tubeless Dual Grip",
+    certificadoDgt: true,
+    foto: "/media/patinetes/smartgyro-raptor-evo.webp",
+    aprox: [
+      "autonomiaRealKm",
+      "pesoKg"
+    ],
+    pros: [
+      "Motor de 1000 W nominales y 2000 W de pico a 48 V, según la ficha oficial",
+      "Batería de 16.000 mAh a 48 V (768 Wh) y hasta 60 km declarados en la ficha oficial",
+      "Frenos hidráulicos de disco delante y detrás, más frenada regenerativa",
+      "Doble suspensión por elastómeros, neumáticos tubeless de 10\" e intermitentes Full Line desde el mástil hasta la base",
+      "App con bloqueo antirrobo a distancia, modos de marcha y datos de la batería",
+      "Se vende como patinete certificado por la DGT, con placa identificativa",
+      "Soporta hasta 140 kg de peso máximo, según la ficha oficial"
+    ],
+    contras: [
+      "Con unos 22 kg (la ficha oficial solo dice que es un VPL de 25 kg o menos) no es cómodo de subir por escaleras",
+      "Carga completa de hasta 8 horas, según la ficha oficial",
+      "La web declara 60 km y la presentación de la marca habla de 70 km para esta misma batería: conviene contar con bastante menos en uso real",
+      "Solo protección IPX4 (salpicaduras): no es para lluvia fuerte",
+      "Batería no extraíble",
+      "Estética deportiva que no pasa desapercibida"
+    ],
+    veredicto: "El Raptor Evo cuesta 799 € en la web de Smartgyro y es un patinete de un solo motor con 1000 W nominales, hasta 60 km, frenos hidráulicos y certificado DGT. Pesa en torno a 22 kg y la marca da dos cifras de autonomía distintas, así que lee bien las condiciones antes de fiarte de los km.",
+    fuenteNombre: "Smartgyro: ficha oficial del Raptor Evo (smartgyro.es)",
+    fuenteUrl: "https://smartgyro.es/single-motor/patinete-electrico-smartgyro-raptor-evo",
+    fuentesExtra: [
+      {
+        "nombre": "Smartgyro: ficha oficial del Raptor Evo (799 € con IVA, 1.000 W nominales y 2.000 W máximos, 48 V y 16.000 mAh, hasta 60 km, 8 h de carga, IPX4, hasta 140 kg, peso VPL de 25 kg o menos)",
+        "url": "https://smartgyro.es/single-motor/patinete-electrico-smartgyro-raptor-evo",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "Smartgyro: presentación oficial del Raptor Evo (batería de 16.000 mAh con hasta 70 km y versión LR de 20.000 mAh con hasta 80 km)",
+        "url": "https://smartgyro.es/blog/entradas/smartgyro-raptor-evo-nuestro-patinete-electrico-mas-iconico-evoluciona-",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "Ficha reducida VMP del Raptor Evo S20 (certificado A1164): 22,9 kg en orden de marcha, 120 kg de MMTA, batería de 48 V y 20 Ah (versión de 20 Ah)",
+        "url": "https://cdn.tallerdelpatinete.es/tdp-media/wp-content/uploads/FICHATECNICA_VMPCERTIFICADO_RAPTOR_EVO_S20.pdf",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "smartgyro-raptor-evo-lr",
+        "nombre": "SmartGyro Raptor Evo LR",
+        "precioEur": 899,
+        "autonomiaKm": 75,
+        "potenciaW": 1000,
+        "pesoKg": 22,
+        "nota": "Misma base con 960 Wh y 75 km declarados; precio de la ficha de este comparador"
+      },
+      {
+        "id": "smartgyro-raptor-dual-evo",
+        "nombre": "SmartGyro Raptor Dual Evo",
+        "precioEur": null,
+        "autonomiaKm": 60,
+        "potenciaW": 1000,
+        "pesoKg": 30.4,
+        "nota": "Doble motor de 2800 W de pico; 30,4 kg en la ficha de este comparador"
+      },
+      {
+        "id": "smartgyro-k2-pro",
+        "nombre": "SmartGyro K2 Pro",
+        "precioEur": 799,
+        "autonomiaKm": 60,
+        "potenciaW": 900,
+        "pesoKg": 22,
+        "nota": "900 W nominales y 720 Wh; precio de un comercio, no oficial"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuánto cuesta el Smartgyro Raptor Evo?",
+        "a": "799 € con IVA incluido y envío gratuito en smartgyro.es el 31/10/2026. La ficha anterior de este comparador recogía 999 € como precio de venta recomendado."
+      },
+      {
+        "q": "¿Cuántos km hace?",
+        "a": "La ficha del producto dice hasta 60 km, medidos con 75 kg, a 25 °C y a un 60 % de la velocidad máxima de media. La presentación de la marca habla de hasta 70 km para la batería de 16.000 mAh. Nuestra estimación de uso real (unos 40 km) es un dato orientativo, no oficial: puede contener errores."
+      },
+      {
+        "q": "¿Cuánto pesa?",
+        "a": "La web solo indica que es un VPL de 25 kg o menos a efectos del seguro obligatorio. La ficha técnica del certificado del Raptor Evo S20, que lleva batería de 20 Ah, da 22,9 kg. El peso de esta versión de 16 Ah no figura en las fuentes oficiales que hemos podido consultar."
+      },
+      {
+        "q": "¿Qué casco y qué edad necesito?",
+        "a": "Casco homologado o certificado y abrochado (artículo 118.3 del Reglamento General de Circulación) y 15 años cumplidos (artículo 155.3), según el Real Decreto 518/2026 en vigor desde el 1 de octubre de 2026. Está prohibido circular por aceras (artículo 152.1)."
+      }
+    ]
+  },
 {
   id: "smartgyro-k2-pro",
   videoId: null,
@@ -3576,32 +3650,119 @@ export const PATINETES_BASE: PatineteComparador[] = [
   fuenteUrl: "https://www.dualtron.es/producto/dualtron-achilleus-limited-homologado-dgt/",
 },
 {
-  id: "kaabo-wolf-king-gt-pro",
-  videoId: null,
-  videoCanal: null,
-  marca: "Kaabo",
-  modelo: "Wolf King GT Pro",
-  precioEur: 3700, // 4.199 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
-  potenciaNominalW: 4000,
-  potenciaPicoW: 8400,
-  autonomiaKm: 180,
-  autonomiaRealKm: 120,
-  velocidadMaxKmh: 25,
-  pesoKg: 52,
-  cargaMaxKg: 150,
-  tiempoCargaH: 13,
-  bateriaWh: 2520,
-  frenos: "Disco hidráulicos 160 mm + ABS (delantero y trasero)",
-  neumaticos: '11" con cámara (calle o todoterreno)',
-  certificadoDgt: false,
-  foto: "/media/patinetes/kaabo-wolf-king-gt-pro.webp",
-  aprox: ["autonomiaRealKm", "pesoKg", "tiempoCargaH", "precioEur"],
-  pros: ["Pantalla TFT a color de 4,2 pulgadas con clave de acceso y acelerador de pulgar, el salto del GT Pro frente al EY3 de los Wolf anteriores", "Dos controladoras de onda sinusoidal de 50 A que entregan los 8.400 W de pico con una respuesta mucho más progresiva que los Minimotors de gatillo", "Pack de 2.520 Wh con celdas 21700 LG M50 o Samsung 50E bajo la plataforma: Kaabo declara 180 km en modo eco con un solo motor", "Horquilla hidráulica patentada delante y muelle trasero en forma de C, un conjunto pensado para pista y tierra, no para bordillos urbanos", "Chasis de aluminio forjado 6082-T6 en negro o dorado, doble foco delantero, tiras LED en la base y bocina de moto", "Admite pilotos de hasta 150 kg y anuncia pendientes del 50°, cifras de gama alta incluso entre los hiperpatinetes de doble motor"],
-  contras: ["Queda fuera de la homologación VMP: con sus prestaciones, en España su sitio es el circuito o la finca privada, no la calle", "Pesa 52 kg y plegado supera el metro y medio de largo: subirlo a un piso o meterlo en un maletero no es una opción realista", "Recargar el pack completo ronda las 13 horas con el equipo incluido, así que un uso intensivo diario obliga a planificar la noche anterior", "Su velocidad de 100 km/h sin limitación exige casco integral y experiencia: no es un primer patinete ni un juguete prestable", "El precio baila según la tienda española que lo venda —la propia ficha recoge una horquilla de 3.195 a 3.376 €— y Kaabo no publica un PVP único para España", "Frente a Dualtron, Kaabo tiene en España una red comercial y de recambios bastante más corta, algo que se nota si falla una controladora"],
-  veredicto: "El Wolf King GT Pro es el buque insignia con pantalla TFT y onda sinusoidal de Kaabo: empuje brutal, autonomía de gran turismo sobre el papel y un chasis forjado que se conduce más como una moto pequeña que como un patinete. A cambio pide 52 kg, recargas eternas y asumir que en España vive relegado a espacios privados. Compra de capricho informado, no de transporte diario.",
-  fuenteNombre: "Kaabo Mantis España (kaabomantis.es)",
-  fuenteUrl: "https://kaabomantis.es/shop/kaabo-wolf-king-gt-pro/",
-},
+    id: "kaabo-wolf-king-gt-pro",
+    videoId: null,
+    videoCanal: null,
+    marca: "Kaabo",
+    modelo: "Wolf King GT Pro",
+    precioEur: 3599,
+    potenciaNominalW: 4000,
+    potenciaPicoW: 8400,
+    autonomiaKm: 180,
+    autonomiaRealKm: 120,
+    velocidadMaxKmh: 25,
+    pesoKg: 52,
+    cargaMaxKg: 150,
+    tiempoCargaH: 11.6,
+    bateriaWh: 2520,
+    frenos: "Disco hidráulico de 160 mm delantero y trasero + ABS",
+    neumaticos: "11\" a prueba de pinchazos (calle o todoterreno)",
+    certificadoDgt: false,
+    foto: "/media/patinetes/kaabo-wolf-king-gt-pro-oficial.webp",
+    aprox: [
+      "autonomiaRealKm"
+    ],
+    pros: [
+      "Pantalla TFT a color de 4,2 pulgadas con clave de acceso y acelerador de pulgar, el salto del GT Pro frente al EY3 de los Wolf anteriores",
+      "Dos controladoras de onda sinusoidal de 50 A que entregan los 8.400 W de pico con una respuesta mucho más progresiva que los Minimotors de gatillo",
+      "Pack de 2.520 Wh con celdas 21700 LG M50 o Samsung 50E bajo la plataforma: Kaabo declara 180 km en modo eco con un solo motor",
+      "Horquilla hidráulica patentada delante y muelle trasero en forma de C, un conjunto pensado para pista y tierra, no para bordillos urbanos",
+      "Chasis de aluminio forjado 6082-T6 en negro o dorado, doble foco delantero, tiras LED en la base y bocina de moto",
+      "Admite pilotos de hasta 150 kg y anuncia pendientes del 50°, cifras de gama alta incluso entre los hiperpatinetes de doble motor"
+    ],
+    contras: [
+      "Queda fuera de la homologación VMP: con sus prestaciones, en España su sitio es el circuito o la finca privada, no la calle",
+      "Pesa 52 kg y plegado supera el metro y medio de largo: subirlo a un piso o meterlo en un maletero no es una opción realista",
+      "Recargar el pack completo lleva unas 11,6 horas con los dos cargadores de 1,5 A incluidos, así que un uso intensivo diario obliga a planificar la noche anterior",
+      "Su velocidad de más de 100 km/h sin limitación exige casco integral y experiencia: no es un primer patinete ni un juguete prestable",
+      "Precio variable: 3.599 € en Kaabo Europe, y de 3.195 a 3.376 € en las tiendas españolas que recogía esta ficha; Kaabo no publica un PVP único para España",
+      "Frente a Dualtron, Kaabo tiene en España una red comercial y de recambios bastante más corta, algo que se nota si falla una controladora"
+    ],
+    veredicto: "El Wolf King GT Pro es el buque insignia con pantalla TFT y onda sinusoidal de Kaabo: empuje brutal, autonomía de gran turismo sobre el papel y un chasis forjado que se conduce más como una moto pequeña que como un patinete. A cambio pide 52 kg, recargas eternas y asumir que en España vive relegado a espacios privados. Compra de capricho informado, no de transporte diario.",
+    fuenteNombre: "Kaabo: ficha oficial del Wolf King GT / GT Pro (kaabo.com) y Kaabo Europe",
+    fuenteUrl: "https://www.kaabo.com/wolf-king-gt/",
+    galeria: [],
+    fuentesExtra: [
+      {
+        "nombre": "Kaabo: ficha oficial del Wolf King GT Pro (2 × 2000 W, 72 V y 35 Ah, 180 km en Eco, más de 100 km/h, 50°, 150 kg, 52 kg, cargadores de 84 V y 1,5 A)",
+        "url": "https://www.kaabo.com/wolf-king-gt/",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "Kaabo Europe, distribuidor autorizado en la UE: 3.599 € con IVA (antes 4.999 €), 8.400 W de pico, 3 años de garantía",
+        "url": "https://kaaboeurope.com/product/kaabo-wolf-king-gt-electric-scooter-72v-35ah-dual-2000w-motors-100-km-h-high-performance-off-road-scooter/",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "Kaabo (tienda oficial de la República Checa): Wolf King GT Pro con velocidad limitada a 25 km/h, 2.520 Wh, IPX5 y 180 kg de carga",
+        "url": "https://eshop.kaabo-official.cz/cs/emobilita/1295-wolf-king-gt-pro-2022-cz-edition-8594176662527.html",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "kaabo-wolf-king-gtr",
+        "nombre": "Kaabo Wolf King GTR",
+        "precioEur": null,
+        "autonomiaKm": 180,
+        "potenciaW": 4000,
+        "pesoKg": 63,
+        "nota": "13.440 W de pico y 63 kg; ficha de este comparador, sin precio oficial"
+      },
+      {
+        "id": "kaabo-mantis-king-gt",
+        "nombre": "Kaabo Mantis King GT",
+        "precioEur": 2400,
+        "autonomiaKm": 90,
+        "potenciaW": 1000,
+        "pesoKg": 33,
+        "nota": "Mucho más ligero y barato, con 1.440 Wh; precio de un comercio, no oficial"
+      },
+      {
+        "id": "dualtron-victor-60v",
+        "nombre": "Dualtron Victor 60V",
+        "precioEur": 2400,
+        "autonomiaKm": 80,
+        "potenciaW": 1000,
+        "pesoKg": 33.5,
+        "nota": "33,5 kg y 1.440 Wh; precio de una tienda, no oficial"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuánto cuesta el Kaabo Wolf King GT Pro?",
+        "a": "Kaabo Europe, distribuidor autorizado en la UE, lo vendía el 31/10/2026 a 3.599 € con IVA, rebajado desde 4.999 €. En España los precios de las tiendas varían."
+      },
+      {
+        "q": "¿Cuánto corre y cuánto dura la batería?",
+        "a": "Kaabo declara más de 100 km/h y hasta 180 km en modo Eco con un solo motor, con 75 kg de carga y a 25 km/h constantes en plano. Con los dos motores a fondo la autonomía real baja mucho: nuestra estimación de 120 km es un dato orientativo, no oficial: puede contener errores."
+      },
+      {
+        "q": "¿Por qué la web de Kaabo dice más de 100 km/h y otras tiendas 25 km/h?",
+        "a": "La ficha oficial de Kaabo recoge la velocidad sin limitar (más de 100 km/h). La tienda oficial checa vende el mismo modelo con la velocidad limitada a 25 km/h. La cifra de la ficha del comparador es la de la versión limitada; infórmate de cuál compras."
+      },
+      {
+        "q": "¿Puedo usarlo por la calle en España?",
+        "a": "Sin limitar y sin certificado de VMP, no. Aunque lo limites, deberás cumplir: Casco homologado o certificado y abrochado (artículo 118.3 del Reglamento General de Circulación) y 15 años cumplidos (artículo 155.3), según el Real Decreto 518/2026 en vigor desde el 1 de octubre de 2026. Está prohibido circular por aceras (artículo 152.1)."
+      }
+    ]
+  },
 {
   id: "kaabo-wolf-warrior-11",
   videoId: null,

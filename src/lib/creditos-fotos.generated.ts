@@ -1924,5 +1924,20 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "Cecotec (foto de producto oficial)",
 "licencia": "prensa",
 "url": "https://media.cecotec.cloud/07026/bongo-serie-a-connected_11.jpg"
+},
+"/media/patinetes/segway-ninebot-f2-ii-oficial.webp": {
+"autor": "Segway-Ninebot (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://ap-en.segway.com/content/dam/segway-ninebot/ap/en/content-import/product-image/Ekickscooter-F2Ⅱ.png"
+},
+"/media/patinetes/urban-glide-all-road-6-2x2-oficial.webp": {
+"autor": "UrbanGlide (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://urbanglide.com/wp-content/uploads/2025/04/AR62x2-2.webp"
+},
+"/media/patinetes/kaabo-wolf-king-gt-pro-oficial.webp": {
+"autor": "Kaabo (foto de producto oficial, Wolf King GT)",
+"licencia": "prensa",
+"url": "https://www.kaabo.com/wp-content/uploads/2023/05/Kaabo-Wolf-King-Gt.png"
 }
 };
