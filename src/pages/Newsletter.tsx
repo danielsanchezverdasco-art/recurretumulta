@@ -160,7 +160,32 @@ export default function Newsletter() {
         <img src="/media/newsletter-semana-motor.webp" alt="Resumen semanal de noticias del motor: volante, llaves y prensa sobre una mesa" className="w-full rounded-3xl border border-slate-200" loading="lazy" />
       </figure>
 
-{/* FAQ */}
+{/* Normativa con fecha */}
+        <section aria-label="Normativa que seguimos cada semana" className="mt-10 max-w-2xl mx-auto space-y-3">
+          <h2 className="text-xl font-black text-gray-900 text-center">Dos cambios de normativa que ya están en vigor</h2>
+          <p className="text-sm text-gray-600 leading-relaxed">
+            La sección de normativa se escribe a partir del BOE y de las notas de la DGT, con enlace a la fuente. Dos ejemplos de lo que ya hemos explicado a los lectores:
+          </p>
+          <div className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm space-y-1">
+            <p className="text-sm font-bold text-gray-900">Baliza V16 conectada</p>
+            <p className="text-xs text-gray-600 leading-relaxed">
+              Desde el 1 de enero de 2026, la V16 conectada a la plataforma DGT 3.0 es el único dispositivo legal para señalizar un vehículo inmovilizado en la calzada, en lugar de los triángulos. Deben llevarla turismos, vehículos mixtos, autobuses y vehículos de mercancías; las motos no están obligadas, aunque se recomienda.{" "}
+              <a href="https://www.dgt.es/comunicacion/notas-de-prensa/20251125-dgt-recuerda-la-obligacion-de-disponer-de-la-baliza-v-16-para-senalizar-averias-y-accidentes-en-carretera" target="_blank" rel="noopener noreferrer" className="text-red-600 font-semibold hover:underline">Nota de la DGT del 25/11/2025</a>.
+            </p>
+          </div>
+          <div className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm space-y-1">
+            <p className="text-sm font-bold text-gray-900">Zonas de bajas emisiones</p>
+            <p className="text-xs text-gray-600 leading-relaxed">
+              Según la Ley 7/2021, las ciudades que superan los 50.000 vecinos y los territorios insulares tienen que prever una zona de bajas emisiones dentro de su plan de movilidad urbana sostenible. El Real Decreto 1052/2022 fija los requisitos mínimos: delimitación, control de accesos y seguimiento. Cada ayuntamiento decide qué etiqueta ambiental puede entrar, así que la norma local es la que manda al circular.{" "}
+              <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2022-22689" target="_blank" rel="noopener noreferrer" className="text-red-600 font-semibold hover:underline">Real Decreto 1052/2022 en el BOE</a>.
+            </p>
+          </div>
+          <p className="text-xs text-gray-500 leading-relaxed">
+            Sobre la baja: el Reglamento europeo de protección de datos (artículo 7.3) exige que retirar el consentimiento sea tan fácil como darlo, y por eso cada email lleva un enlace que te borra de la lista sin pedirte ningún dato más. Fuentes consultadas el 31/10/2026. Redacción: Equipo editorial de RecurreTuMulta.
+          </p>
+        </section>
+
+        {/* FAQ */}
         <section aria-label="Preguntas frecuentes" className="mt-10 max-w-2xl mx-auto space-y-3">
           <h2 className="text-xl font-black text-gray-900 text-center">Preguntas frecuentes</h2>
           {FAQ_ITEMS.map((f) => (

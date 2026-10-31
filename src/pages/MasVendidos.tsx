@@ -26,6 +26,28 @@ import {
 const DOMAIN = "https://recurretumulta.online";
 const RUTA = "/comparador/mas-vendidos";
 
+
+// Lectura del año calculada solo con las cifras de mas-vendidos-data.ts (sin datos añadidos).
+const sumaMercado = (ps: PeriodoVentas[]) =>
+  ps.reduce((a, p) => a + (p.totalMercado ?? 0), 0);
+const mesesConTotal = (ps: PeriodoVentas[]) => ps.filter((p) => p.totalMercado != null);
+const extremos = (ps: PeriodoVentas[]) => {
+  const ordenados = [...mesesConTotal(ps)].sort(
+    (x, y) => (y.totalMercado ?? 0) - (x.totalMercado ?? 0)
+  );
+  return { alto: ordenados[0], bajo: ordenados[ordenados.length - 1] };
+};
+const lideresPorModelo = (ps: PeriodoVentas[]) => {
+  const cuenta: Record<string, number> = {};
+  for (const p of ps) {
+    const l = p.ranking[0]?.modelo;
+    if (l) cuenta[l] = (cuenta[l] ?? 0) + 1;
+  }
+  return Object.entries(cuenta).sort((x, y) => y[1] - x[1]);
+};
+const mes = (p: PeriodoVentas) => p.etiqueta.split(" ")[0].toLowerCase();
+const pct1 = (n: number) => (Math.round(n * 10) / 10).toFixed(1).replace(".", ",");
+
 const MEDALLAS = ["🥇", "🥈", "🥉"];
 
 const fmtUnidades = (u: number | null) =>
@@ -369,6 +391,51 @@ export default function MasVendidos() {
             )}
           </>
         )}
+
+        {/* Lectura de los datos */}
+        {categoria !== "patinetes" && (() => {
+          const ps = periodos;
+          const ext = extremos(ps);
+          const lid = lideresPorModelo(ps);
+          const totalAnio = sumaMercado(ps);
+          const nTot = mesesConTotal(ps).length;
+          const lider = acumulado[0];
+          const esCoches = categoria === "coches";
+          return (
+            <section aria-label="Lectura de las cifras" className="mt-10 max-w-3xl rounded-2xl border border-gray-200 bg-white p-5">
+              <h2 className="text-xl font-extrabold text-gray-900">
+                {esCoches ? "Qué dicen las cifras de turismos de 2026" : "Qué dicen las cifras de motos de 2026"}
+              </h2>
+              <ul className="mt-3 list-disc space-y-2 pl-5 text-sm text-gray-700">
+                <li>
+                  {esCoches
+                    ? `Entre enero y septiembre se matricularon ${fmtMiles(totalAnio)} turismos en España, sumando los nueve totales mensuales de ANFAC.`
+                    : `ANESDOR publicó el total de ${nTot} de los nueve meses: suman ${fmtMiles(totalAnio)} vehículos ligeros matriculados en esos ${nTot} meses.`}
+                </li>
+                <li>
+                  {`El mes con más matriculaciones fue ${mes(ext.alto)} (${fmtMiles(ext.alto.totalMercado ?? 0)}) y el de menos, ${mes(ext.bajo)} (${fmtMiles(ext.bajo.totalMercado ?? 0)}), una diferencia de ${fmtMiles((ext.alto.totalMercado ?? 0) - (ext.bajo.totalMercado ?? 0))} unidades${esCoches ? "" : " entre los meses con total publicado"}.`}
+                </li>
+                <li>
+                  {lid.length > 0 && `${lid[0][0]} encabezó el ranking mensual en ${lid[0][1]} de los ${ps.filter((p) => p.ranking.length > 0).length} meses con ranking publicado.`}
+                  {lid.length > 1 && ` Le siguen ${lid.slice(1).map(([n, c]) => `${n} (${c})`).join(", ")}.`}
+                </li>
+                {lider?.unidades != null && esCoches && (
+                  <li>
+                    {`${lider.modelo} suma ${fmtMiles(lider.unidades)} unidades en el acumulado, un ${pct1((lider.unidades / totalAnio) * 100)} % del total de turismos matriculados de enero a septiembre.`}
+                  </li>
+                )}
+                {lider?.unidades != null && !esCoches && (
+                  <li>
+                    {`${lider.modelo} lidera el acumulado con ${fmtMiles(lider.unidades)} unidades, ${fmtMiles(lider.unidades - (acumulado[1]?.unidades ?? 0))} más que ${acumulado[1]?.modelo}, el segundo de la tabla.`}
+                  </li>
+                )}
+              </ul>
+              <p className="mt-3 text-xs text-gray-500">
+                Cálculo propio con las cifras de la tabla de esta página, consultadas el 31/10/2026. Los porcentajes y las diferencias son aritmética sobre datos de ANFAC o ANESDOR; no son cifras publicadas por ellos. Las cifras de octubre se publican a principios de noviembre. Redacción: Equipo editorial de RecurreTuMulta.
+              </p>
+            </section>
+          );
+        })()}
 
         {/* FAQ */}
         <section className="mt-12 max-w-3xl">

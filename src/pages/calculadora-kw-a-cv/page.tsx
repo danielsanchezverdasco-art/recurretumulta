@@ -89,6 +89,43 @@ export default function CalculadoraKwACvPage() {
           <p className="text-sm text-slate-500 mt-4">Ten en cuenta que un defecto de forma no garantiza la anulación: la decisión la toma el organismo sancionador.</p>
         </section>
 
+        <section className="bg-white rounded-3xl border border-slate-200 p-6 sm:p-8 space-y-4">
+          <h2 className="text-2xl font-bold">De dónde sale el factor 1,35962</h2>
+          <p className="text-slate-600">El caballo de vapor métrico (CV, o PS en alemán) se define como la potencia necesaria para elevar 75 kilogramos a un metro de altura en un segundo, que equivale a 735,49875 vatios. Dividiendo 1.000 W entre esa cifra sale el factor de esta página: 1 kW son 1,35962 CV, y 1 CV son 0,73550 kW. No hay que confundirlo con el «hp» anglosajón, que vale 745,69987 W: un hp es un 1,4 % más potente que un CV, así que 100 hp son 101,39 CV. Si la ficha de un coche importado indica hp, conviene convertirlo antes de compararlo con el permiso español.</p>
+
+          <h3 className="text-lg font-bold">Umbrales de potencia que fija la ley</h3>
+          <p className="text-slate-600">El artículo 4 del Reglamento General de Conductores (Real Decreto 818/2009) pone límites en kW que en las fichas comerciales suelen aparecer en CV. Esta tabla los traduce con el mismo factor de la calculadora:</p>
+          <div className="overflow-x-auto rounded-xl border border-slate-200">
+            <table className="w-full text-sm">
+              <thead className="bg-slate-50 text-left text-slate-700"><tr><th className="px-3 py-2">Límite en la norma</th><th className="px-3 py-2">kW</th><th className="px-3 py-2">CV</th></tr></thead>
+              <tbody className="text-slate-600">
+                <tr className="border-t border-slate-100"><td className="px-3 py-2">Permiso A1 (moto hasta 125 cm³, 0,1 kW/kg)</td><td className="px-3 py-2">11</td><td className="px-3 py-2">14,96</td></tr>
+                <tr className="border-t border-slate-100"><td className="px-3 py-2">Triciclo de motor accesible con A1 o B antes de los 21 años</td><td className="px-3 py-2">15</td><td className="px-3 py-2">20,39</td></tr>
+                <tr className="border-t border-slate-100"><td className="px-3 py-2">Permiso A2 (0,2 kW/kg)</td><td className="px-3 py-2">35</td><td className="px-3 py-2">47,59</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <p className="text-slate-600">La DGT resume el límite del A2 como «algo menos de 47 cv», que coincide con el cálculo. Los 35 kW solo son una de las dos condiciones: la moto tampoco puede superar 0,2 kW por kilo ni derivar de un modelo con más del doble de potencia. Circular con una moto que excede esos valores sin el permiso correspondiente es una infracción distinta de las multas de velocidad.</p>
+
+          <h3 className="text-lg font-bold">Potencia real y caballos fiscales no son lo mismo</h3>
+          <p className="text-slate-600">En la tarjeta ITV y en el recibo del impuesto de circulación aparece también la potencia fiscal, que no se mide en un banco de pruebas. El Anexo V del Reglamento General de Vehículos (Real Decreto 2822/1998) la calcula con la fórmula 0,08 × cilindrada unitaria elevada a 0,6 × número de cilindros para los motores de cuatro tiempos, y con kW ÷ 5,152 para los eléctricos, siempre redondeando por defecto a dos decimales. El resultado decide la cuota base del impuesto de vehículos de tracción mecánica según el artículo 95 del texto refundido de la Ley de Haciendas Locales, que luego cada ayuntamiento puede multiplicar por un coeficiente de hasta 2.</p>
+          <div className="overflow-x-auto rounded-xl border border-slate-200">
+            <table className="w-full text-sm">
+              <thead className="bg-slate-50 text-left text-slate-700"><tr><th className="px-3 py-2">Motor (ejemplo calculado)</th><th className="px-3 py-2">Potencia fiscal</th><th className="px-3 py-2">Cuota base turismo</th></tr></thead>
+              <tbody className="text-slate-600">
+                <tr className="border-t border-slate-100"><td className="px-3 py-2">999 cm³, 3 cilindros</td><td className="px-3 py-2">7,82 CVF</td><td className="px-3 py-2">12,62 €</td></tr>
+                <tr className="border-t border-slate-100"><td className="px-3 py-2">1.598 cm³, 4 cilindros</td><td className="px-3 py-2">11,64 CVF</td><td className="px-3 py-2">34,08 €</td></tr>
+                <tr className="border-t border-slate-100"><td className="px-3 py-2">1.998 cm³, 4 cilindros</td><td className="px-3 py-2">13,31 CVF</td><td className="px-3 py-2">71,94 €</td></tr>
+                <tr className="border-t border-slate-100"><td className="px-3 py-2">2.999 cm³, 6 cilindros</td><td className="px-3 py-2">19,97 CVF</td><td className="px-3 py-2">89,61 €</td></tr>
+                <tr className="border-t border-slate-100"><td className="px-3 py-2">Eléctrico de 100 kW</td><td className="px-3 py-2">19,40 CVF</td><td className="px-3 py-2">89,61 €</td></tr>
+                <tr className="border-t border-slate-100"><td className="px-3 py-2">Eléctrico de 150 kW</td><td className="px-3 py-2">29,11 CVF</td><td className="px-3 py-2">112,00 €</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <p className="text-xs text-slate-500">Cálculos propios aplicando las fórmulas del BOE a los motores de ejemplo. Los tramos son los del artículo 95.1 del Real Decreto Legislativo 2/2004 (menos de 8 CVF: 12,62 €; de 8 a 11,99: 34,08 €; de 12 a 15,99: 71,94 €; de 16 a 19,99: 89,61 €; desde 20: 112,00 €), según su texto consolidado consultado el 31/10/2026. Fuentes: <a className="underline" href="https://www.boe.es/buscar/act.php?id=BOE-A-2009-9481" target="_blank" rel="noopener noreferrer">Reglamento General de Conductores</a>, <a className="underline" href="https://www.boe.es/buscar/act.php?id=BOE-A-1999-1826" target="_blank" rel="noopener noreferrer">Reglamento General de Vehículos</a>, <a className="underline" href="https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214" target="_blank" rel="noopener noreferrer">Ley de Haciendas Locales</a> y la <a className="underline" href="https://www.dgt.es/nuestros-servicios/permisos-de-conducir/clases-de-permisos-de-conducir/" target="_blank" rel="noopener noreferrer">página de clases de permisos de la DGT</a>.</p>
+          <p className="text-xs text-slate-500">Redacción: Equipo editorial de RecurreTuMulta.</p>
+        </section>
+
         <div className="flex items-center gap-2 flex-wrap">
           <span className="text-sm font-semibold text-slate-700">Compartir:</span>
           <a href="https://wa.me/?text=Conversor%20gratuito%20de%20kW%20a%20CV%20y%20CV%20a%20kW%20https%3A%2F%2Frecurretumulta.online%2Fcalculadora-kw-a-cv" target="_blank" rel="noopener noreferrer" aria-label="Compartir en WhatsApp" title="Compartir en WhatsApp" className="w-9 h-9 rounded-full bg-slate-100 text-slate-500 flex items-center justify-center hover:bg-green-600 hover:text-white transition-colors">

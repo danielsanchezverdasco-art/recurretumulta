@@ -8,6 +8,7 @@ import { Badge } from "@/components/ui/badge.tsx";
 import { Card, CardContent } from "@/components/ui/card.tsx";
 import { getComunidadBySlug, COMUNIDADES } from "@/lib/comunidades-data.ts";
 import { getRadaresComunidad } from "@/lib/comunidades-radares.ts";
+import { DATOS_OFICIALES_CCAA } from "@/lib/comunidades-datos-oficiales.ts";
 import { destinoRadar } from "@/lib/radar-a-multas.generated.ts";
 import { getProvinciaBySlug } from "@/lib/provincias-data.ts";
 import { useSeo } from "@/hooks/use-seo.ts";
@@ -17,6 +18,8 @@ import { DriveInImage } from "@/components/motion.tsx";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import CosaEnBanner from "@/components/CosaEnBanner.tsx";
+
+const fmtNum = (n: number) => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ".");
 
 const MULTAS_COMUNES: [string, string, string][] = [
   ["Exceso de velocidad leve", "100 €", "0"],
@@ -35,6 +38,7 @@ const MULTAS_COMUNES: [string, string, string][] = [
 export default function ComunidadPage() {
   const { ccaa: slug } = useParams<{ ccaa: string }>();
   const c = getComunidadBySlug(slug ?? "");
+  const datosOf = c ? DATOS_OFICIALES_CCAA[c.slug] : undefined;
 
   useSeo(!c ? {
     title: "Comunidad no encontrada",
@@ -209,6 +213,47 @@ export default function ComunidadPage() {
               {c.descripcion}
             </p>
           </div>
+
+          {/* Datos oficiales por CCAA (DGT, Anuario 2024, ficheros abiertos de radares) */}
+          {datosOf && (
+            <section className="space-y-3">
+              <h2 className="text-xl font-black text-gray-900">
+                Siniestralidad, parque y radares en {c.nombre}: datos oficiales
+              </h2>
+              <div className="overflow-x-auto rounded-xl border border-gray-200">
+                <table className="w-full text-sm">
+                  <tbody>
+                    {[
+                      ["Fallecidos en vías interurbanas, 2019", fmtNum(datosOf.fallecidos[0])],
+                      ["Fallecidos en vías interurbanas, 2023", fmtNum(datosOf.fallecidos[1])],
+                      ["Fallecidos en vías interurbanas, 2024", fmtNum(datosOf.fallecidos[2])],
+                      ["Fallecidos en vías interurbanas, 2025 (provisional)", fmtNum(datosOf.fallecidos[3])],
+                      ["Parque de vehículos 2024", fmtNum(datosOf.parque)],
+                      ["Turismos / motocicletas 2024", `${fmtNum(datosOf.turismos)} / ${fmtNum(datosOf.motos)}`],
+                      ["Vehículos por 1.000 habitantes (puesto de 18)", `${datosOf.vehPorMilHab} (${datosOf.puestoVehPorMilHab}.º)`],
+                      ...(datosOf.denuncias2024 !== null ? [["Denuncias formuladas en 2024", fmtNum(datosOf.denuncias2024)]] : []),
+                      ...(datosOf.radaresFijos !== null ? [["Radares fijos / tramos publicados", `${datosOf.radaresFijos} / ${datosOf.radaresTramo ?? 0}`]] : []),
+                    ].map(([k, v]) => (
+                      <tr key={k} className="border-b border-gray-100 last:border-0">
+                        <td className="px-3 py-2 text-gray-600">{k}</td>
+                        <td className="px-3 py-2 font-bold text-gray-900 text-right">{v}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+              {datosOf.analisis.map((par, i) => (
+                <p key={i} className="text-sm text-gray-700 leading-relaxed">{par}</p>
+              ))}
+              <p className="text-xs text-gray-500 leading-relaxed">
+                Fuentes, consultadas el 31/10/2026: balance provisional de siniestralidad 2025 de la DGT (nota de prensa del 08/01/2026, víctimas a 24 horas en vías interurbanas);{" "}
+                <a href="https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/dgt-en-cifras/publicaciones/Anuario_Estadistico_General/Anuario-Estadistico-General-2024.pdf" target="_blank" rel="noopener noreferrer" className="text-red-700 underline">Anuario Estadístico General 2024 de la DGT</a>{" "}
+                (tablas 64 y 113); fichero{" "}
+                <a href="https://nap.dgt.es/es/dataset/radares-fijos-dgt" target="_blank" rel="noopener noreferrer" className="text-red-700 underline">Radares fijos DGT</a>{" "}
+                del Punto de Acceso Nacional. Las ratios por vehículo son cálculo propio.
+              </p>
+            </section>
+          )}
 
           {/* Particularidades de la CCAA */}
           <div className="space-y-3">
