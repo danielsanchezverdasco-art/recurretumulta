@@ -15,7 +15,7 @@ export const LOTE_18: MapaEnriquecimiento = {
       "La lista cubre también el 1.5 TSI de 110 kW, el 2.0 TSI de 150 kW con tracción total, el VZ de 221 kW y el de 245 kW con 4Drive, y dos híbridos enchufables 1.5 TSI e-Hybrid de 150 y 200 kW. Todas son de tracción delantera salvo las marcadas con 4Drive.",
     ],
     filas: [
-      { etiqueta: "Calificación Euro NCAP del León", valor: "Cinco estrellas; publicada el 19/11/2025", fuente: "Euro NCAP, ficha del SEAT León (noviembre de 2025)", url: LEON, anio: "2025" },
+      { etiqueta: "Calificación Euro NCAP del León", valor: "Cinco estrellas; publicada el 19/11/2025", fuente: "Ficha de SEAT León en Euro NCAP (noviembre de 2025)", url: LEON, anio: "2025" },
       { etiqueta: "Puntuación por apartados (León)", valor: "88 % adultos; 86 % niños; 81 % usuarios vulnerables; 77 % asistencias", fuente: "Euro NCAP, apartados de puntuación del SEAT León", url: LEON, anio: "2025" },
       { etiqueta: "Variante ensayada (León)", valor: "2.0 TDI de 110 kW, tracción delantera", fuente: "Euro NCAP, variantes del León: fila ensayada", url: LEON, anio: "2025" },
       { etiqueta: "Motor eTSI en la lista", valor: "1.5 eTSI de 110 kW (aprox. 150 CV); falta la fila de unos 85 kW", fuente: "Euro NCAP, variantes del León: filas eTSI", url: LEON, anio: "2025" },
@@ -29,7 +29,7 @@ export const LOTE_18: MapaEnriquecimiento = {
       "Aquí hay un matiz importante: esta página se ocupa del restyling de 2026, que estrena un 1.5 TSI de 150 CV. La tabla de variantes de Euro NCAP no contiene ningún motor de 1,5 litros; sus filas son todas 1.0 (59, 66 en GNC, 81, 110 y 70 kW). La nota de 2022 es, por tanto, la del Ibiza de entonces, y la ficha del organismo no recoge expresamente esta versión ni el cambio de imagen de 2026.",
     ],
     filas: [
-      { etiqueta: "Estrellas del Ibiza", valor: "Cinco; publicadas el 12/10/2022", fuente: "Euro NCAP, ficha del SEAT Ibiza (2022)", url: IBIZA, anio: "2022" },
+      { etiqueta: "Estrellas del Ibiza", valor: "Cinco; publicadas el 12/10/2022", fuente: "Ficha de SEAT Ibiza en Euro NCAP (2022)", url: IBIZA, anio: "2022" },
       { etiqueta: "Resultado por área (Ibiza)", valor: "83 % adultos, 82 % niños, 66 % usuarios vulnerables y 70 % asistencias", fuente: "Euro NCAP, resultados por área del SEAT Ibiza", url: IBIZA, anio: "2022" },
       { etiqueta: "Ibiza ensayado", valor: "1.0 gasolina de 70 kW EcoTSI, 4x2", fuente: "Euro NCAP, variantes del Ibiza: fila ensayada", url: IBIZA, anio: "2022" },
       { etiqueta: "Motores de la lista del Ibiza", valor: "1.0 de 59 kW (MPI), 66 kW (GNC), 70 kW, 81 kW y 110 kW; ninguno de 1,5 l", fuente: "Euro NCAP, variantes del Ibiza: lista completa", url: IBIZA, anio: "2022" },
@@ -79,7 +79,7 @@ export const LOTE_18: MapaEnriquecimiento = {
       "La lista del organismo recoge cuatro acabados eléctricos: Active, Boost, Comfort y Design. La tabla no indica potencia ni batería de cada uno, por lo que ninguno de los datos de motor de la ficha de arriba (204 CV, 60,4 kWh) se puede contrastar con Euro NCAP.",
     ],
     filas: [
-      { etiqueta: "Nota del Dolphin", valor: "Cinco estrellas; publicada el 25/10/2023", fuente: "Euro NCAP, ficha del BYD Dolphin (2023)", url: DOLPHIN, anio: "2023" },
+      { etiqueta: "Nota del Dolphin", valor: "Cinco estrellas; publicada el 25/10/2023", fuente: "Ficha de BYD Dolphin en Euro NCAP (2023)", url: DOLPHIN, anio: "2023" },
       { etiqueta: "Puntos por área del Dolphin", valor: "89 % adultos; 87 % niños; 85 % usuarios vulnerables; 79 % asistencias", fuente: "Euro NCAP, resultados del BYD Dolphin por área", url: DOLPHIN, anio: "2023" },
       { etiqueta: "Acabados cubiertos del Dolphin", valor: "Active, Boost, Comfort y Design (este último, el ensayado)", fuente: "Euro NCAP, variantes del BYD Dolphin", url: DOLPHIN, anio: "2023" },
     ],

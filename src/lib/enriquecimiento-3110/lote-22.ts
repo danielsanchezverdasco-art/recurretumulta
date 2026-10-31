@@ -17,7 +17,7 @@ export const LOTE_22: MapaEnriquecimiento = {
       "El informe anota varios reparos: estructuras del salpicadero con riesgo para las piernas del conductor, con penalización; pecho trasero «débil» en el choque de ancho completo; nada que evite que los ocupantes se golpeen entre sí en un choque lateral, y un control «pobre» del desplazamiento hacia el lado contrario. Sí tiene eCall avanzado y freno de colisiones secundarias.",
     ],
     filas: [
-      { etiqueta: "Nota del Bayon", valor: "Cuatro estrellas; publicada el 27 de octubre de 2021", fuente: "Euro NCAP, ficha del Hyundai BAYON (octubre de 2021)", url: BAYON, anio: "2021" },
+      { etiqueta: "Nota del Bayon", valor: "Cuatro estrellas; publicada el 27 de octubre de 2021", fuente: "Ficha de Hyundai BAYON en Euro NCAP (octubre de 2021)", url: BAYON, anio: "2021" },
       { etiqueta: "Resultado del Bayon por áreas", valor: "Adultos 76; niños 82; vulnerables 76; asistencias 67 (en %)", fuente: "Euro NCAP, cuadro de áreas del BAYON", url: BAYON, anio: "2021" },
       { etiqueta: "Bayon que se probó", valor: "1.0 T-GDI GL, volante a la izquierda, 1.230 kg", fuente: "Euro NCAP, modelo ensayado del BAYON", url: BAYON, anio: "2021" },
       { etiqueta: "Fila del Bayon ligero híbrido", valor: "1.0 T-GDI 48V MHEV, 4x2; también 1.2 MPI", fuente: "Euro NCAP, variantes cubiertas del BAYON", url: BAYON, anio: "2021" },
@@ -32,7 +32,7 @@ export const LOTE_22: MapaEnriquecimiento = {
       "Del texto del informe sobresalen el pecho en el choque contra poste, con protección marginal, y que la Serie 5 carece de detector de niños olvidados en el coche. Entre lo positivo, BMW demostró que puertas y ventanillas seguirían funcionando bajo el agua el tiempo suficiente para salir.",
     ],
     filas: [
-      { etiqueta: "Estrellas de la Serie 5", valor: "Cinco; fecha de publicación 6 de diciembre de 2023", fuente: "Euro NCAP, ficha del BMW 5 Series (diciembre de 2023)", url: S5, anio: "2023" },
+      { etiqueta: "Estrellas de la Serie 5", valor: "Cinco; fecha de publicación 6 de diciembre de 2023", fuente: "Ficha de BMW 5 Series en Euro NCAP (diciembre de 2023)", url: S5, anio: "2023" },
       { etiqueta: "Resultado de la Serie 5", valor: "89 % adultos; 85 % niños; 86 % vulnerables; 78 % asistencias", fuente: "Euro NCAP, desglose de áreas del 5 Series", url: S5, anio: "2023" },
       { etiqueta: "Coche probado de la Serie 5", valor: "i5 eDrive40; 2.345 kg", fuente: "Euro NCAP, modelo ensayado del 5 Series", url: S5, anio: "2023" },
       { etiqueta: "Filas del 530e en la lista", valor: "2.0 petrol hybrid 530e y 530e xDrive; 4x2 y 4x4", fuente: "Euro NCAP, variantes del 5 Series con motor híbrido", url: S5, anio: "2023" },
@@ -46,7 +46,7 @@ export const LOTE_22: MapaEnriquecimiento = {
       "La misma nota cubre al 20d xDrive, al 30e xDrive híbrido enchufable, al 40d xDrive y al M50 xDrive, todos con tracción a las cuatro ruedas. El informe califica el pecho del conductor como marginal en el frontal desplazado y el del pasajero trasero igual en el choque de ancho completo; el lateral con barrera dio puntuación máxima.",
     ],
     filas: [
-      { etiqueta: "Valoración del X3", valor: "Cinco estrellas; publicada el 15 de octubre de 2025", fuente: "Euro NCAP, ficha del BMW X3 (octubre de 2025)", url: X3, anio: "2025" },
+      { etiqueta: "Valoración del X3", valor: "Cinco estrellas; publicada el 15 de octubre de 2025", fuente: "Ficha de BMW X3 en Euro NCAP (octubre de 2025)", url: X3, anio: "2025" },
       { etiqueta: "Puntos del X3 por área", valor: "88 % adultos; 84 % niños; 77 % vulnerables; 80 % asistencias", fuente: "Euro NCAP, apartados de puntuación del X3", url: X3, anio: "2025" },
       { etiqueta: "Versión del X3 que se ensayó", valor: "20 xDrive M Sport, 4x4, volante a la izquierda; 1.976 kg", fuente: "Euro NCAP, modelo probado del X3", url: X3, anio: "2025" },
       { etiqueta: "Otros X3 cubiertos", valor: "20d, 30e (híbrido), 40d y M50, todos xDrive", fuente: "Euro NCAP, lista de variantes del X3", url: X3, anio: "2025" },
@@ -59,7 +59,7 @@ export const LOTE_22: MapaEnriquecimiento = {
       "La lista incluye el 1.5 eTSI de 110 kW, de tracción delantera, equivalente a los 150 CV de esta ficha, junto al 1.5 eHybrid de 150 kW, el 2.0 TSI de 150 kW y el 2.0 TSI VZ de 195 kW, estos dos con tracción total. Euro NCAP considera al Terramar un compañero de choque algo agresivo en un frontal con otro vehículo, y el pecho del pasajero trasero quedó marginal en la prueba de ancho completo.",
     ],
     filas: [
-      { etiqueta: "Cinco estrellas del Terramar", valor: "Valoración de abril de 2025", fuente: "Euro NCAP, ficha del CUPRA TERRAMAR (abril de 2025)", url: TERRA, anio: "2025" },
+      { etiqueta: "Cinco estrellas del Terramar", valor: "Valoración de abril de 2025", fuente: "Ficha de CUPRA TERRAMAR en Euro NCAP (abril de 2025)", url: TERRA, anio: "2025" },
       { etiqueta: "Los cuatro porcentajes del Terramar", valor: "89, 87, 82 y 76 % (adultos, niños, vulnerables, asistencias)", fuente: "Euro NCAP, desglose del TERRAMAR", url: TERRA, anio: "2025" },
       { etiqueta: "Terramar de pruebas", valor: "1.5 TSI 200 kW eHybrid VZ, 4x2; 1.839 kg", fuente: "Euro NCAP, modelo ensayado del TERRAMAR", url: TERRA, anio: "2025" },
       { etiqueta: "Fila del Terramar de 150 CV", valor: "1.5 eTSI 110 kW, 4x2", fuente: "Euro NCAP, variantes cubiertas del TERRAMAR", url: TERRA, anio: "2025" },
@@ -72,7 +72,7 @@ export const LOTE_22: MapaEnriquecimiento = {
       "La lista recoge el 1.6 T-GDI HEV tanto en 4x2 como en 4x4, lo que cubre la tracción delantera de esta ficha, además de las variantes diésel, microhíbridas y enchufables. El informe aclara que el Sportage comparte plataforma con el Hyundai Tucson ensayado el año anterior, y que en algunos apartados se usaron los resultados del Tucson. Frente a eso, el pecho del conductor puntuó marginal en la prueba de ancho completo y la protección trasera contra latigazo cervical también fue marginal.",
     ],
     filas: [
-      { etiqueta: "Nota del Sportage", valor: "Cinco estrellas desde el 6 de julio de 2022", fuente: "Euro NCAP, ficha del Kia Sportage (julio de 2022)", url: SPORT, anio: "2022" },
+      { etiqueta: "Nota del Sportage", valor: "Cinco estrellas desde el 6 de julio de 2022", fuente: "Ficha de Kia Sportage en Euro NCAP (julio de 2022)", url: SPORT, anio: "2022" },
       { etiqueta: "Desglose del Sportage", valor: "87 adultos; 86 niños; 66 vulnerables; 72 asistencias (%)", fuente: "Euro NCAP, áreas del Sportage", url: SPORT, anio: "2022" },
       { etiqueta: "Sportage ensayado", valor: "1.6 T-GDI HEV, 4x4, volante a la izquierda; 1.748 kg", fuente: "Euro NCAP, modelo probado del Sportage", url: SPORT, anio: "2022" },
       { etiqueta: "Filas del Sportage híbrido", valor: "1.6 T-GDI HEV en 4x2 y en 4x4", fuente: "Euro NCAP, variantes con HEV del Sportage", url: SPORT, anio: "2022" },
@@ -86,7 +86,7 @@ export const LOTE_22: MapaEnriquecimiento = {
       "El coche usado fue el e3008 eléctrico de 73 kWh, con 2.104 kg y volante a la izquierda, y entre las filas cubiertas figura la del enchufable de 195 CV con caja e-DSC7 y eje delantero, que es la de esta ficha. Entre las pegas, el control de la inercia hacia el otro costado fue marginal y falta la contramedida que reduce el choque entre ocupantes en un impacto lateral.",
     ],
     filas: [
-      { etiqueta: "Estrellas del 5008", valor: "Cuatro; salió el 21 de mayo de 2025", fuente: "Euro NCAP, ficha del Peugeot 5008 (mayo de 2025)", url: P5008, anio: "2025" },
+      { etiqueta: "Estrellas del 5008", valor: "Cuatro; salió el 21 de mayo de 2025", fuente: "Ficha de Peugeot 5008 en Euro NCAP (mayo de 2025)", url: P5008, anio: "2025" },
       { etiqueta: "Porcentajes del 5008", valor: "80 adultos; 85 niños; 79 vulnerables; 62 asistencias (en %)", fuente: "Euro NCAP, cuadro de resultados del 5008", url: P5008, anio: "2025" },
       { etiqueta: "Coche base del 5008", valor: "e3008 de 73 kWh, LHD; 2.104 kg", fuente: "Euro NCAP, coche usado en la prueba del 5008", url: P5008, anio: "2025" },
       { etiqueta: "Fila del 5008 enchufable", valor: "Versión enchufable de 195 con caja e-DSC7; eje delantero", fuente: "Euro NCAP, variantes cubiertas del 5008", url: P5008, anio: "2025" },

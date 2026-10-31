@@ -13,7 +13,7 @@ export const LOTE_21: MapaEnriquecimiento = {
       "La lista de variantes cubiertas incluye el 1.5 híbrido enchufable en acabados Comfort y Premium, de tracción delantera. Es la familia mecánica de esta ficha, aunque la lista no usa la sigla CSH ni da la potencia, de modo que los 315 CV de esta página no se pueden contrastar con ella. Quedan dos reservas fijadas por el organismo: la bolsa de rodilla no se desplegó del todo en el frontal, y el detector de niños olvidados no se puntuó.",
     ],
     filas: [
-      { etiqueta: "Estrellas del Tiggo 8 tras la repetición", valor: "Cinco; reevaluado el 15 de octubre de 2025", fuente: "Euro NCAP, ficha del CHERY TIGGO 8 (reevaluación de octubre de 2025)", url: T8, anio: "2025" },
+      { etiqueta: "Estrellas del Tiggo 8 tras la repetición", valor: "Cinco; reevaluado el 15 de octubre de 2025", fuente: "Ficha de CHERY TIGGO 8 en Euro NCAP (reevaluación de octubre de 2025)", url: T8, anio: "2025" },
       { etiqueta: "Porcentajes de la repetición", valor: "82 % adultos; 85 % niños; 80 % vulnerables; 78 % asistencias", fuente: "Euro NCAP, desglose del Tiggo 8 reevaluado", url: T8, anio: "2025" },
       { etiqueta: "Primera nota del Tiggo 8", valor: "Cuatro estrellas el 9 de julio de 2025; 81, 77, 80 y 78 %", fuente: "Euro NCAP, primera ficha del Tiggo 8 (julio de 2025)", url: T8_JULIO, anio: "2025" },
       { etiqueta: "Base de la valoración del Tiggo 8", valor: "Tiggo 7 PHEV Premium, volante a la izquierda; 1.790 kg", fuente: "Euro NCAP, modelo probado en la ficha del Tiggo 8", url: T8, anio: "2025" },
