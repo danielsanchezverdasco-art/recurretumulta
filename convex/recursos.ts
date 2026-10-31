@@ -1,7 +1,6 @@
 import { ConvexError, v } from "convex/values";
 import { mutation, query } from "./_generated/server";
 import { paginationOptsValidator } from "convex/server";
-import { internal } from "./_generated/api";
 import { requireUser } from "./authSimple";
 
 export const saveRecurso = mutation({
@@ -14,8 +13,9 @@ export const saveRecurso = mutation({
     fecha: v.optional(v.string()),
     plazo: v.optional(v.string()),
     carta: v.optional(v.string()),
+    // Obsoleto (31/10/2026): se acepta por compatibilidad con clientes antiguos pero se IGNORA; ya no hay % de viabilidad.
     viabilidad: v.optional(v.number()),
-    nivel: v.optional(v.union(v.literal("alta"), v.literal("media"), v.literal("baja"))),
+    nivel: v.optional(v.union(v.literal("alta"), v.literal("media"), v.literal("baja"), v.literal("no_valorable"))),
   },
   handler: async (ctx, args): Promise<string> => {
     const user = await requireUser(ctx, args.sessionToken);
@@ -29,25 +29,10 @@ export const saveRecurso = mutation({
       fecha: args.fecha,
       plazo: args.plazo,
       carta: args.carta,
-      viabilidad: args.viabilidad,
       nivel: args.nivel,
       status: "pendiente",
       createdAt: new Date().toISOString(),
     });
-
-    // Enviar email de resultados si el usuario tiene email
-    if (user.email && args.viabilidad !== undefined) {
-      await ctx.scheduler.runAfter(0, internal.emails.sendResultadosAnalisis, {
-        to: user.email,
-        nombre: user.name,
-        viabilidad: args.viabilidad,
-        nivel: args.nivel ?? "media",
-        infraccion: args.infraccion ?? "Infracción DGT",
-        importe: args.importe ?? "No especificado",
-        expediente: args.expediente ?? "No encontrado",
-        plazoRecurso: args.plazo ?? "20 días hábiles",
-      });
-    }
 
     return recursoId;
   },

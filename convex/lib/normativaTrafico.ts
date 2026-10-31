@@ -76,8 +76,14 @@ export function evaluarVelocidad(d: {
     lineas.push(`Según el anexo IV de la LSV, ese exceso corresponde a ${tramo.multa} € y ${tramo.puntos} puntos.`);
     if (supuesto) {
       lineas.push("El tramo depende del tipo de cinemómetro, que no consta: no se puede afirmar que el importe sea incorrecto.");
-    } else if (imp != null && imp !== tramo.multa && imp !== tramo.multa / 2) {
-      motivosFuertes.push(`El importe impuesto (${imp} €) no corresponde al tramo del anexo IV de la LSV para la velocidad corregida (${tramo.multa} €): posible error en la aplicación del margen o del cuadro de sanciones.`);
+    } else {
+      if (imp != null && imp !== tramo.multa && imp !== tramo.multa / 2) {
+        motivosFuertes.push(`El importe impuesto (${imp} €) no corresponde al tramo del anexo IV de la LSV para la velocidad corregida (${tramo.multa} €): posible error en la aplicación del margen o del cuadro de sanciones.`);
+      }
+      const pt = d.puntos != null && /\d/.test(d.puntos) ? Number(/\d+/.exec(d.puntos)![0]) : null;
+      if (pt != null && pt !== tramo.puntos) {
+        motivosFuertes.push(`Los puntos que figuran (${pt}) no corresponden al anexo IV de la LSV para la velocidad corregida (${tramo.puntos} puntos): posible error en la sanción.`);
+      }
     }
   } else {
     lineas.push(`Límite de ${lim} km/h no previsto en el cuadro del anexo IV de la LSV: revisar a mano.`);
@@ -108,7 +114,7 @@ export function leerFecha(s?: string): Date | null {
 }
 
 /** Prescripción (art. 112 LSV): 3 meses leves, 6 meses graves/muy graves, hasta la notificación de la denuncia. */
-export function evaluarPrescripcion(d: { fecha?: string; fechaNotificacion?: string; calificacion?: string }): { linea?: string; motivo?: string; falta?: string } {
+export function evaluarPrescripcion(d: { fecha?: string; fechaNotificacion?: string; calificacion?: string; esEmision?: boolean }): { linea?: string; motivo?: string; falta?: string } {
   const ini = leerFecha(d.fecha), fin = leerFecha(d.fechaNotificacion);
   const cal = (d.calificacion ?? "").toLowerCase();
   const meses = /muy grave|grave/.test(cal) ? 6 : /leve/.test(cal) ? 3 : null;
@@ -118,6 +124,9 @@ export function evaluarPrescripcion(d: { fecha?: string; fechaNotificacion?: str
   const f = (x: Date) => x.toISOString().slice(0, 10).split("-").reverse().join("/");
   if (fin > limite) {
     return { motivo: `La infracción (${f(ini)}) se notificó el ${f(fin)}, después de los ${meses} meses de prescripción de una infracción ${cal} (vencía el ${f(limite)}), salvo que conste en el expediente un acto interruptivo notificado antes (art. 112 LSV).` };
+  }
+  if (d.esEmision) {
+    return { linea: `La notificación se emitió el ${f(fin)}, dentro del plazo de prescripción de ${meses} meses (vence el ${f(limite)}; art. 112 LSV). La fecha real de recepción no consta en el documento: si la recibiste más tarde, comprueba que no pasara ese límite.` };
   }
   return { linea: `Notificación (${f(fin)}) dentro del plazo de prescripción de ${meses} meses (vence el ${f(limite)}; art. 112 LSV).` };
 }

@@ -8,6 +8,7 @@ import { ConvexError } from "convex/values";
 import { internal, api } from "./_generated/api";
 import { renderPdfFirstPageToJpegBase64 } from "./lib/pdfToImage";
 import { getUserFromSession } from "./authSimple";
+import { cartaSancionCompleta, cartaSancionDeterminista, limpiarCartaSancion } from "./lib/cartaSancion";
 
 const MODEL_TEXT   = "openai/gpt-oss-120b";
 const MODEL_VISION = "qwen/qwen3.8-27b";
@@ -26,6 +27,7 @@ const RATE_LIMIT_RETRY_DELAY_MS = 21000;
 const MAX_OUTPUT_TOKENS_ANALISIS = 4000;
 const MAX_OUTPUT_TOKENS_CARTA = 4000;
 const REASONING_EFFORT_TEXT = "low" as const;
+const CARTA_BUDGET_MS = 25_000;
 
 function groq(): OpenAI {
   const apiKey = process.env.GROQ_API_KEY ?? "";
@@ -89,8 +91,8 @@ async function withRetry<T>(fn: () => Promise<T>, attempts = MAX_RETRY_ATTEMPTS)
 
 type Defecto = { titulo: string; descripcion: string; gravedad: "alta" | "media" | "baja" };
 type AnalisisSancionRaw = {
-  viabilidad: number;
-  nivel: "alta" | "media" | "baja";
+  nivel: "alta" | "media" | "baja" | "no_valorable";
+  motivosNivel: string[];
   resumen: string;
   defectos: Defecto[];
   municipio: string;
@@ -114,8 +116,7 @@ const ANALISIS_SANCION_SYSTEM = `Eres un abogado experto en derecho administrati
 
 Analiza la sanción y devuelve SOLO JSON puro sin markdown con esta estructura:
 {
-  "viabilidad": <entero 0-100, probabilidad de éxito del recurso>,
-  "nivel": <"alta" | "media" | "baja">,
+  "motivosNivel": [<máx. 3 frases cortas con el motivo concreto de cada defecto, citando el dato del documento>],
   "resumen": <2-3 frases: hallazgos y recomendación concreta>,
   "defectos": [
     { "titulo": <nombre del defecto>, "descripcion": <1 frase explicativa con referencia legal>, "gravedad": <"alta"|"media"|"baja"> }
@@ -142,6 +143,7 @@ DEFECTOS MÁS FRECUENTES EN SANCIONES POLICIALES (analiza TODOS):
 10. Vulneración de derechos fundamentales (libertad de expresión art. 20 CE, reunión art. 21 CE)
 11. Falta de graduación motivada de la sanción dentro del rango legal
 
+REGLAS ANTI-INVENCIÓN: lista un defecto SOLO si se desprende de lo que se lee en el documento (p. ej. "falta el lugar" solo si el documento no trae lugar). Si no puedes leer el documento, devuelve "defectos": [] y los datos como "No encontrado". NO des porcentajes ni probabilidades de éxito: el nivel lo calcula el sistema.
 EXTRAE los datos DIRECTAMENTE del documento. NO inventes. Incluye como máximo los 4 defectos más relevantes. Sé conciso: "resumen" máximo 2 frases y "descripcion" de cada defecto máximo 1 frase corta.`;
 
 async function analizarSancionConVision(base64Data: string, mimeType: string): Promise<AnalisisSancionRaw> {
@@ -194,30 +196,59 @@ async function extractPdfText(base64Data: string): Promise<string> {
   return textPages.join("\n\n").trim();
 }
 
+const VACIO_RE = /^(|no (encontrado|especificad[oa]|detectado|disponible)|desconocido)$/i;
+const vacioS = (x: unknown) => typeof x !== "string" || VACIO_RE.test(x.trim());
+
+// Interpreta la respuesta del modelo SIN rellenar nada inventado: si no hay datos reales, error claro.
+// El nivel lo calcula el sistema a partir de los defectos; nunca hay porcentaje.
 function parseSancion(raw: string): AnalisisSancionRaw {
-  const defaults: AnalisisSancionRaw = {
-    viabilidad: 65,
-    nivel: "media",
-    resumen: "Se han detectado posibles irregularidades en la tramitación. Se recomienda presentar recurso de reposición.",
-    defectos: [
-      { titulo: "Descripción genérica de la conducta", descripcion: "La denuncia policial no describe con precisión los hechos, generando indefensión material.", gravedad: "alta" },
-      { titulo: "Falta de motivación en la graduación", descripcion: "La resolución no explica por qué se impone el importe máximo o mínimo del rango legal.", gravedad: "media" },
-    ],
-    municipio: "No detectado",
-    expediente: "No encontrado",
-    importe: "No especificado",
-    infraccion: "No especificada",
-    fecha: "No especificada",
-    ley: "LO 4/2015",
-    plazoRecurso: "30 días hábiles desde la notificación",
-  };
+  const ilegible = () => new ConvexError({ code: "ANALISIS_VACIO", message: "No hemos podido leer el documento, prueba con una foto más nítida (o sube el PDF original)." });
+  let parsed: Record<string, unknown>;
   try {
     const cleaned = raw.replace(/^```(?:json)?\s*/i, "").replace(/\s*```\s*$/i, "").trim();
-    const parsed = JSON.parse(cleaned) as Partial<AnalisisSancionRaw>;
-    return { ...defaults, ...parsed };
+    parsed = JSON.parse(cleaned) as Record<string, unknown>;
   } catch {
-    return defaults;
+    throw ilegible();
   }
+  const str = (k: string, def: string) => (typeof parsed[k] === "string" && (parsed[k] as string).trim() ? (parsed[k] as string).trim() : def);
+  const datos = {
+    municipio: str("municipio", "No detectado"),
+    expediente: str("expediente", "No encontrado"),
+    importe: str("importe", "No especificado"),
+    infraccion: str("infraccion", "No especificada"),
+    fecha: str("fecha", "No especificada"),
+    ley: str("ley", "No especificada"),
+    plazoRecurso: str("plazoRecurso", "30 días hábiles desde la notificación"),
+  };
+  if (vacioS(datos.expediente) && vacioS(datos.importe) && vacioS(datos.fecha) && vacioS(datos.infraccion)) throw ilegible();
+  const GRAV = new Set(["alta", "media", "baja"]);
+  const defectos: Defecto[] = (Array.isArray(parsed.defectos) ? parsed.defectos : [])
+    .filter((d): d is Record<string, unknown> => !!d && typeof d === "object")
+    .map((d) => ({
+      titulo: String(d.titulo ?? "").trim(),
+      descripcion: String(d.descripcion ?? "").trim(),
+      gravedad: (GRAV.has(String(d.gravedad)) ? d.gravedad : "media") as Defecto["gravedad"],
+    }))
+    .filter((d) => d.titulo && d.descripcion)
+    .slice(0, 4);
+  const faltan = [["la infracción", datos.infraccion], ["la fecha", datos.fecha], ["el importe", datos.importe]].filter(([, v]) => vacioS(v)).map(([n]) => n);
+  let nivel: AnalisisSancionRaw["nivel"];
+  const motivosNivel: string[] = [];
+  if (vacioS(datos.infraccion) && vacioS(datos.fecha)) {
+    nivel = "no_valorable";
+    motivosNivel.push(`No se ha podido leer ${faltan.join(", ")}; sin ellos no se puede valorar el recurso.`);
+  } else if (defectos.some((d) => d.gravedad === "alta")) {
+    nivel = "alta";
+  } else if (defectos.length > 0) {
+    nivel = "media";
+  } else {
+    nivel = "baja";
+    motivosNivel.push("No se aprecian defectos claros en los datos leídos.");
+  }
+  if (nivel !== "no_valorable") for (const d of defectos) motivosNivel.push(`${d.titulo}: ${d.descripcion}`);
+  if (nivel !== "no_valorable" && faltan.length) motivosNivel.push(`No se han podido leer: ${faltan.join(", ")}.`);
+  const resumen = str("resumen", defectos.length ? "Se han detectado posibles motivos de recurso en el documento." : "No se aprecian defectos claros en los datos leídos.");
+  return { ...datos, nivel, motivosNivel: motivosNivel.slice(0, 6), resumen, defectos };
 }
 
 // ── Genera el texto del recurso de reposición dado el análisis y los datos personales ──
@@ -236,18 +267,20 @@ ESTRUCTURA OBLIGATORIA:
 2. IDENTIFICACIÓN: nombre completo, DNI/NIE, domicilio
 3. EXPONE (numerado): hechos relevantes — cuándo, dónde, qué ocurrió según la denuncia y la versión del recurrente
 4. ALEGA (numerado): desarrolla CADA defecto detectado con:
-   - Artículos exactos de LO 4/2015, Ley 39/2015, Ley 40/2015, CE
-   - Jurisprudencia del TC/TS relevante (menciona sentencias concretas si aplica)
+   - Artículos de Ley 39/2015, Ley 40/2015 y CE SOLO de la lista permitida (abajo); de la LO 4/2015 o de la ordenanza, SOLO el artículo que figure en el documento
    - Principios de proporcionalidad, tipicidad, legalidad sancionadora
 5. SUPLICA: nulidad de la resolución sancionadora y archivo del expediente
 6. OTROSÍ: solicitud de suspensión cautelar del pago durante la tramitación
 7. PIE: lugar, fecha, firma
 
-Lenguaje jurídico formal. Datos desconocidos → "[COMPLETAR]". Primera persona. Sé contundente y exhaustivo.`;
+Lenguaje jurídico formal. Datos desconocidos o "No encontrado/No especificado" → "[COMPLETAR: lo que falte]"; NUNCA te inventes un dato. Primera persona. Sé firme pero completo (no lo dejes a medias).
+CITAS: PROHIBIDO citar sentencias, jurisprudencia o números de resolución. Artículos permitidos: Ley 39/2015 arts. 21, 25, 53, 64, 76, 77, 112, 117, 124; Ley 40/2015 arts. 25 (legalidad), 27 (tipicidad), 28 (responsabilidad), 29 (proporcionalidad), 30 (prescripción); CE arts. 20, 21, 24, 25. No atribuyas a un artículo exigencias que no contiene.
+No añadas alegaciones que no estén en DEFECTOS LEGALES DETECTADOS. Si no hay defectos, limita el escrito a pedir copia del expediente y de la prueba (art. 53 Ley 39/2015).
+FORMATO: texto plano, sin markdown (sin asteriscos, almohadillas ni líneas de guiones). Títulos en MAYÚSCULAS.`;
 
-  const recursoUser = `Recurrente: ${personal.nombreRecurrente ?? "[COMPLETAR: Nombre y apellidos]"}
-DNI/NIE: ${personal.dniRecurrente ?? "[COMPLETAR: DNI/NIE]"}
-Domicilio: ${personal.domicilioRecurrente ?? "[COMPLETAR: Domicilio completo]"}
+  const recursoUser = `Recurrente: ${personal.nombreRecurrente || "[COMPLETAR: Nombre y apellidos]"}
+DNI/NIE: ${personal.dniRecurrente || "[COMPLETAR: DNI/NIE]"}
+Domicilio: ${personal.domicilioRecurrente || "[COMPLETAR: Domicilio completo]"}
 Fecha de redacción: ${hoy}
 Expediente sancionador: ${datos.expediente}
 Importe de la sanción: ${datos.importe}
@@ -261,18 +294,34 @@ ${defectos.map((d, i) => `${i + 1}. [${d.gravedad.toUpperCase()}] ${d.titulo}: $
 
 Redacta el recurso de reposición completo con todos los argumentos jurídicos. Incluye artículos exactos y jurisprudencia constitucional cuando sea relevante.`;
 
-  const client = groq();
-  const cartaResponse = await withRetry(() => client.chat.completions.create({
-    model: MODEL_TEXT,
-    max_completion_tokens: MAX_OUTPUT_TOKENS_CARTA,
-    reasoning_effort: REASONING_EFFORT_TEXT,
-    messages: [
-      { role: "system", content: recursoSystem },
-      { role: "user", content: recursoUser },
-    ],
-  }));
-
-  return cartaResponse.choices[0]?.message?.content ?? "";
+  // Respaldo sin IA: la carta SIEMPRE se entrega (antes, un fallo o un corte por tokens dejaba la carta vacía o a medias).
+  const respaldo = () => cartaSancionDeterminista(datos, defectos, personal, hoy);
+  try {
+    const client = groq();
+    const cartaResponse = await Promise.race([
+      withRetry(() => client.chat.completions.create({
+        model: MODEL_TEXT,
+        temperature: 0,
+        max_completion_tokens: MAX_OUTPUT_TOKENS_CARTA,
+        reasoning_effort: REASONING_EFFORT_TEXT,
+        messages: [
+          { role: "system", content: recursoSystem },
+          { role: "user", content: recursoUser },
+        ],
+      })),
+      new Promise<never>((_, rej) => setTimeout(() => rej(new Error("timeout carta")), CARTA_BUDGET_MS)),
+    ]);
+    const choice = cartaResponse.choices[0];
+    const texto = limpiarCartaSancion(choice?.message?.content ?? "");
+    if (choice?.finish_reason === "length" || !cartaSancionCompleta(texto)) {
+      console.log(`[sancion] carta de la IA incompleta (finish=${choice?.finish_reason}); se usa la determinista`);
+      return respaldo();
+    }
+    return texto;
+  } catch (e) {
+    console.log("[sancion] fallo al redactar con IA; se usa la determinista:", String((e as { message?: string })?.message ?? e).slice(0, 120));
+    return respaldo();
+  }
 }
 
 export const analizarSancion = action({
@@ -289,8 +338,8 @@ export const analizarSancion = action({
   },
   handler: async (ctx, { fileBase64, fileMimeType, nombreRecurrente, dniRecurrente, domicilioRecurrente, fingerprint, sessionToken }): Promise<{
     carta: string;
-    viabilidad: number;
-    nivel: "alta" | "media" | "baja";
+    nivel: "alta" | "media" | "baja" | "no_valorable";
+    motivosNivel: string[];
     resumen: string;
     defectos: Defecto[];
     datosSancion: {
@@ -345,8 +394,8 @@ export const analizarSancion = action({
 
     return {
       carta,
-      viabilidad: analisis.viabilidad,
       nivel: analisis.nivel,
+      motivosNivel: analisis.motivosNivel,
       resumen: analisis.resumen,
       defectos: analisis.defectos,
       datosSancion: {

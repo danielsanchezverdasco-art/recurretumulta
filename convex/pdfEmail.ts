@@ -4,6 +4,7 @@
 import escapeHtml from "escape-html";
 import { jsPDF } from "jspdf";
 import { Resend } from "resend";
+import { construirPdfRecurso, type DatosPdf } from "./lib/recursoPdf";
 import { v } from "convex/values";
 import { internalAction } from "./_generated/server";
 import { internal } from "./_generated/api";
@@ -27,7 +28,8 @@ const LOGO_URL = "https://www.recurretumulta.online/media/file_JCUW0M5ZDov5VKrmq
 // Descarga el logo y lo convierte a base64 puro para incrustarlo en el PDF.
 async function fetchLogoBase64(): Promise<string | null> {
   try {
-    const res = await fetch(LOGO_URL);
+    // Sin timeout, un servidor que no respondía dejaba el envío del PDF colgado para siempre.
+    const res = await fetch(LOGO_URL, { signal: AbortSignal.timeout(4000) });
     if (!res.ok) return null;
     const buffer = await res.arrayBuffer();
     return Buffer.from(buffer).toString("base64");
@@ -36,94 +38,11 @@ async function fetchLogoBase64(): Promise<string | null> {
   }
 }
 
-type DatosRecurso = {
-  expediente: string;
-  importe: string;
-  infraccion: string;
-  fecha: string;
-  plazoRecurso: string;
-};
-
-// ── Genera el PDF del recurso con el mismo diseño que la descarga desde la web ──
-function generarPdfBase64(carta: string, datos: DatosRecurso, logoBase64: string | null): string {
-  const doc = new jsPDF({ unit: "mm", format: "a4" });
-  const margin = 20;
-  const pageW = 210;
-  const usableW = pageW - margin * 2;
-  let y = margin;
-
-  const addText = (text: string, size: number, bold = false, color: [number, number, number] = [0, 0, 0]) => {
-    doc.setFontSize(size);
-    doc.setFont("helvetica", bold ? "bold" : "normal");
-    doc.setTextColor(...color);
-    const lines = doc.splitTextToSize(text, usableW) as string[];
-    lines.forEach((line) => {
-      if (y > 275) { doc.addPage(); y = margin; }
-      doc.text(line, margin, y);
-      y += size * 0.45;
-    });
-    y += 2;
-  };
-
-  doc.setFillColor(220, 38, 38);
-  doc.rect(0, 0, 210, 12, "F");
-  doc.setFontSize(9);
-  doc.setTextColor(255, 255, 255);
-  doc.setFont("helvetica", "bold");
-  doc.text(/^\s*\S*\s*ESCRITO DE ALEGACIONES|ALEGACIONES/i.test(carta.slice(0, 600)) ? "ESCRITO DE ALEGACIONES" : "RECURSO DE REPOSICIÓN", 105, 8, { align: "center" });
-  y = 20;
-
-  // Logo de RecurreTuMulta.online junto al título
-  if (logoBase64) {
-    try { doc.addImage(`data:image/png;base64,${logoBase64}`, "PNG", margin, y - 4, 14, 14); } catch { /* ignorar si falla la carga */ }
-  }
-  const titleX = logoBase64 ? margin + 18 : margin;
-  doc.setFontSize(16);
-  doc.setFont("helvetica", "bold");
-  doc.setTextColor(220, 38, 38);
-  doc.text(/ALEGACIONES/i.test(carta.slice(0, 600)) ? "ESCRITO DE ALEGACIONES" : "RECURSO DE REPOSICIÓN", titleX, y + 6);
-  y += 12;
-  addText(`Expediente: ${datos.expediente}`, 10, false, [100, 100, 100]);
-  y += 4;
-  doc.setDrawColor(220, 38, 38);
-  doc.setLineWidth(0.5);
-  doc.line(margin, y, 210 - margin, y);
-  y += 6;
-
-  doc.setFillColor(252, 245, 245);
-  doc.roundedRect(margin, y, usableW, 28, 3, 3, "F");
-  doc.setFontSize(8);
-  doc.setTextColor(80, 80, 80);
-  const cols = [
-    ["Infracción", datos.infraccion],
-    ["Importe", datos.importe],
-    ["Fecha", datos.fecha],
-    ["Plazo recurso", datos.plazoRecurso],
-  ];
-  cols.forEach(([label, val], i) => {
-    const x = margin + (i % 2) * (usableW / 2) + 4;
-    const boxY = y + 6 + Math.floor(i / 2) * 12;
-    doc.setFont("helvetica", "bold");
-    doc.text(label + ":", x, boxY);
-    doc.setFont("helvetica", "normal");
-    doc.text(String(val).slice(0, 40), x + 28, boxY);
-  });
-  y += 34;
-
-  addText(carta, 10, false, [20, 20, 20]);
-
-  if (y > 250) { doc.addPage(); y = margin; }
-  y += 8;
-  doc.setDrawColor(220, 38, 38);
-  doc.line(margin, y, 210 - margin, y);
-  y += 6;
-  doc.setFontSize(8);
-  doc.setTextColor(120, 120, 120);
-  doc.text("Documento generado por RecurreTuMulta.online — Sólo orientativo, no sustituye asesoramiento jurídico profesional.", 105, y, { align: "center" });
-
-  // dataurlstring devuelve "data:application/pdf;filename=...;base64,XXXX" — extraemos solo el base64
-  const dataUrl = doc.output("dataurlstring");
-  return dataUrl.split("base64,")[1] ?? "";
+// ── Genera el PDF con el MISMO constructor que la descarga desde la web (convex/lib/recursoPdf.ts) ──
+function generarPdfBase64(carta: string, datos: DatosPdf, logoBase64: string | null): string {
+  const doc = construirPdfRecurso(jsPDF, carta, datos, { logoBase64 });
+  // output("datauristring") devuelve "data:application/pdf;filename=...;base64,XXXX": solo el base64
+  return doc.output("datauristring").split("base64,")[1] ?? "";
 }
 
 export const sendRecursoPdfEmail = internalAction({
@@ -212,7 +131,7 @@ RecurreTuMulta.online
 `.trim();
 
     try {
-      await getResend().emails.send({
+      const { error } = await getResend().emails.send({
         from: FROM,
         to: args.to,
         subject: `Tu recurso PDF está listo — RecurreTuMulta.online`,
@@ -221,12 +140,14 @@ RecurreTuMulta.online
         attachments: [
           {
             content: pdfBase64,
-            filename: `recurso-dgt-${args.expediente.replace(/\s+/g, "-")}.pdf`,
+            filename: `recurso-multa-${(args.expediente.replace(/[^A-Za-z0-9._-]+/g, "-").replace(/^-+|-+$/g, "") || "expediente").slice(0, 40)}.pdf`,
             contentType: "application/pdf",
           },
         ],
         tags: [{ name: "tipo", value: "recurso-pdf-comprado" }],
       });
+      // El SDK de Resend NO lanza excepción ante un error de la API: lo devuelve en `error`.
+      if (error) throw new Error(`Resend: ${error.message ?? "error desconocido"}`);
     } catch (err) {
       console.error("[pdfEmail] sendRecursoPdfEmail error (intento", attempt, "):", err);
       await scheduleRetryOrGiveUp(ctx, args, attempt);

@@ -772,7 +772,7 @@ function $() {
             name: `¿Es realmente gratis el análisis?`,
             acceptedAnswer: {
               "@type": `Answer`,
-              text: `Sí, 100% gratis y sin trampa. Subes tu multa, la IA la analiza y te dice qué argumentos tienes, qué probabilidad de éxito hay y cómo presentar el recurso. Sin registrarte, sin tarjeta bancaria. Solo pagas si quieres el PDF listo para firmar (4,99€) — y eso es completamente opcional.`,
+              text: `Sí, 100% gratis y sin trampa. Subes tu multa, la IA la analiza y te dice qué argumentos tienes, una valoración orientativa (alta, media, baja o no valorable) y cómo presentar el recurso. Sin registrarte, sin tarjeta bancaria. Solo pagas si quieres el PDF listo para firmar (4,99€) — y eso es completamente opcional.`,
             },
           },
           {
@@ -1799,7 +1799,7 @@ function $() {
                   [
                     {
                       q: `¿Es realmente gratis el análisis?`,
-                      a: `Sí, 100% gratis y sin trampa. Subes tu multa, la IA la analiza y te dice qué argumentos tienes, qué probabilidad de éxito hay y cómo presentar el recurso. Sin registrarte, sin tarjeta bancaria. Solo pagas si quieres el PDF listo para firmar (4,99€) — y eso es completamente opcional.`,
+                      a: `Sí, 100% gratis y sin trampa. Subes tu multa, la IA la analiza y te dice qué argumentos tienes, una valoración orientativa (alta, media, baja o no valorable) y cómo presentar el recurso. Sin registrarte, sin tarjeta bancaria. Solo pagas si quieres el PDF listo para firmar (4,99€) — y eso es completamente opcional.`,
                     },
                     {
                       q: `¿Qué pasa si mi multa no se puede recurrir?`,

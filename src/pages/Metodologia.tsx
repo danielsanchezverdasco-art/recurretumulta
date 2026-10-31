@@ -20,7 +20,7 @@ const TABLA_REVISION: { campo: string; queBusca: string; porQueImporta: string }
 
 const TABLA_ABOGADO: { situacion: string; recomendacion: string; motivo: string }[] = [
   { situacion: "Multa de tráfico estándar (velocidad, móvil, cinturón…)", recomendacion: "Analizar con IA", motivo: "Los defectos de forma se detectan en el documento; no necesitas pagar un abogado para eso" },
-  { situacion: "Dudas sobre si la multa es recurrible", recomendacion: "Analizar con IA", motivo: "El análisis es gratis y te da una puntuación de viabilidad honesta antes de gastar un euro" },
+  { situacion: "Dudas sobre si la multa es recurrible", recomendacion: "Analizar con IA", motivo: "El análisis es gratis y te da una valoración orientativa honesta (con sus motivos) antes de gastar un euro" },
   { situacion: "Quieres el modelo de recurso redactado", recomendacion: "Analizar con IA", motivo: "La IA genera la carta de alegaciones o el recurso adaptado a los defectos encontrados" },
   { situacion: "Delito contra la seguridad vial (alcohol muy alto, conducción temeraria…)", recomendacion: "Ir a un abogado", motivo: "Hay consecuencias penales: necesitas defensa jurídica profesional, no un análisis documental" },
   { situacion: "Ya agotaste la vía administrativa y vas al juzgado", recomendacion: "Ir a un abogado", motivo: "El contencioso-administrativo exige procurador y letrado; la IA no litiga" },
@@ -34,11 +34,11 @@ const FAQS = [
   },
   {
     q: "¿Cómo sabe la IA si mi multa es recurrible?",
-    a: "Lee tu documento con un modelo de visión artificial, extrae los campos clave (agente, hechos, precepto, fechas, matrícula, importe) y los cruza con la normativa vigente: Reglamento General de Circulación, Ley de Tráfico y los plazos de prescripción y caducidad. Después puntúa la viabilidad del 0 al 100 y te muestra los defectos concretos que ha encontrado.",
+    a: "Lee tu documento con un modelo de visión artificial, extrae los campos clave (agente, hechos, precepto, fechas, matrícula, importe) y los cruza con la normativa vigente: Reglamento General de Circulación, Ley de Tráfico y los plazos de prescripción y caducidad. Después valora si hay motivos para recurrir (alta, media, baja o «no valorable» si faltan datos), te explica por qué y te muestra los defectos concretos que ha encontrado. No usa porcentajes.",
   },
   {
-    q: "¿La puntuación de viabilidad es una garantía?",
-    a: "No, y quien te garantice un resultado miente. La puntuación refleja la probabilidad estimada a partir de los defectos detectados en el documento. La decisión final siempre la toma la Administración (y, en su caso, el juez). Lo que sí garantizamos es honestidad: si no vemos motivos, te lo decimos.",
+    q: "¿La valoración es una garantía?",
+    a: "No, y quien te garantice un resultado miente. La valoración es cualitativa y se apoya solo en los datos leídos del documento y en la normativa; no es una probabilidad de éxito. Si falta algún dato, te lo indicamos en lugar de suponerlo. La decisión final siempre la toma la Administración (y, en su caso, el juez). Lo que sí garantizamos es honestidad: si no vemos motivos, te lo decimos.",
   },
   {
     q: "¿Qué datos utilizáis para entrenar o mejorar la IA?",
@@ -140,7 +140,7 @@ export default function MetodologiaPage() {
             <ShieldCheck className="h-8 w-8 text-red-600 shrink-0" />
             <div>
               <h3 className="font-bold text-lg mb-1">3. Veredicto honesto y carta de recurso</h3>
-              <p className="text-slate-600">Recibes una puntuación de viabilidad del 0 al 100, los defectos concretos encontrados (hasta los 4 más relevantes) y, si decides recurrir, la carta de alegaciones o el recurso redactado a partir de esos defectos.</p>
+              <p className="text-slate-600">Recibes una valoración orientativa (alta, media, baja o no valorable) con sus motivos, los defectos concretos encontrados (hasta los 4 más relevantes) y, si decides recurrir, la carta de alegaciones o el recurso redactado a partir de esos defectos.</p>
             </div>
           </div>
         </div>
@@ -176,7 +176,7 @@ export default function MetodologiaPage() {
         <div className="bg-white rounded-2xl border border-slate-200 p-5 sm:p-6 mb-12">
           <ul className="space-y-3 text-slate-600">
             <li className="flex gap-3"><XCircle className="h-5 w-5 text-red-600 shrink-0 mt-0.5" /><span><strong>No somos abogados.</strong> No te representamos, no actuamos en juzgados y nuestro análisis no es asesoramiento jurídico.</span></li>
-            <li className="flex gap-3"><XCircle className="h-5 w-5 text-red-600 shrink-0 mt-0.5" /><span><strong>No garantizamos resultados.</strong> La puntuación de viabilidad es una estimación honesta, no una promesa. Quien te garantice ganar un recurso, miente.</span></li>
+            <li className="flex gap-3"><XCircle className="h-5 w-5 text-red-600 shrink-0 mt-0.5" /><span><strong>No garantizamos resultados.</strong> La valoración es orientativa, no una promesa. Quien te garantice ganar un recurso, miente.</span></li>
             <li className="flex gap-3"><XCircle className="h-5 w-5 text-red-600 shrink-0 mt-0.5" /><span><strong>No vemos lo que no está en el papel.</strong> Analizamos el documento que subes. Si hubo testigos, vídeos o circunstancias que no constan en la denuncia, no podemos valorarlas.</span></li>
             <li className="flex gap-3"><XCircle className="h-5 w-5 text-red-600 shrink-0 mt-0.5" /><span><strong>No decidimos por ti.</strong> Te damos los datos y los defectos encontrados; la decisión de recurrir o pagar es tuya.</span></li>
           </ul>
@@ -215,7 +215,7 @@ export default function MetodologiaPage() {
           <ul className="space-y-3 text-slate-600">
             <li><strong className="text-slate-800">Caso 1: pagas una multa anulable.</strong> Te llega una multa de 200 €, pagas 100 € con el descuento y descubres meses después que tenía un defecto de forma. Has regalado 100 €.</li>
             <li><strong className="text-slate-800">Caso 2: recurres una multa sin defectos.</strong> Pagas a un profesional por recurrir y la Administración desestima el recurso porque la denuncia estaba perfecta. Has perdido los honorarios y la multa.</li>
-            <li><strong className="text-slate-800">Caso 3: analizas primero (gratis).</strong> En segundos sabes si hay defectos y con qué viabilidad. Solo entonces decides: recurrir con la carta generada o pagar con descuento. Sin apuestas a ciegas.</li>
+            <li><strong className="text-slate-800">Caso 3: analizas primero (gratis).</strong> En segundos sabes si hay defectos y qué motivos hay para recurrir. Solo entonces decides: recurrir con la carta generada o pagar con descuento. Sin apuestas a ciegas.</li>
           </ul>
         </div>
 
