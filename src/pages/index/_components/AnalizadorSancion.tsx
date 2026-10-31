@@ -202,14 +202,14 @@ const NIVEL_TEXTO: Record<Nivel, { titulo: string; sub: string }> = {
   no_valorable: { titulo: "Sin valoración posible", sub: "El documento no aporta datos suficientes" },
 };
 function NivelBadge({ nivel }: { nivel: Nivel }) {
-  const tx = NIVEL_TEXTO[nivel] ?? NIVEL_TEXTO.no_valorable;
+  const txt = NIVEL_TEXTO[nivel] ?? NIVEL_TEXTO.no_valorable;
   const cls = nivel === "alta" ? "bg-green-50 text-green-700 border-green-200" : nivel === "media" ? "bg-amber-50 text-amber-700 border-amber-200"
     : nivel === "baja" ? "bg-red-50 text-red-700 border-red-200" : "bg-gray-50 text-gray-700 border-gray-200";
   return (
     <div className="flex flex-col items-center gap-1.5 w-28 shrink-0 text-center">
       <TrendingUp className={`w-9 h-9 ${nivelColor(nivel)}`} />
-      <Badge className={`text-[11px] font-black px-2.5 py-1 border whitespace-normal leading-tight ${cls}`}>{tx.titulo}</Badge>
-      <span className="text-[10px] text-gray-400 leading-tight">{tx.sub}</span>
+      <Badge className={`text-[11px] font-black px-2.5 py-1 border whitespace-normal leading-tight ${cls}`}>{txt.titulo}</Badge>
+      <span className="text-[10px] text-gray-400 leading-tight">{txt.sub}</span>
     </div>
   );
 }

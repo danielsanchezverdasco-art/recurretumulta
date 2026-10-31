@@ -642,7 +642,7 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
       const [{ jsPDF }, { construirPdfRecurso }] = await Promise.all([import("jspdf"), import("@/convex/lib/recursoPdf.ts")]);
       const d = result.datosMulta;
       const doc = construirPdfRecurso(jsPDF, result.carta, {
-        expediente: d.expediente, importe: d.importe, infraccion: d.infraccion, fecha: d.fecha, plazoRecurso: d.plazoRecurso,
+        importe: d.importe, expediente: d.expediente, plazoRecurso: d.plazoRecurso, fecha: d.fecha, infraccion: d.infraccion,
       });
       doc.save("recurso-multa.pdf");
     } catch (e) {
