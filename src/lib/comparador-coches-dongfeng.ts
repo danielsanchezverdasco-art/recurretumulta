@@ -402,6 +402,9 @@ export const COCHES_DONGFENG: CocheComparador[] = [
   },
   {
     id: "dongfeng-shine-2025-precio-ficha-tecnica",
+    textosPropios: {
+      precio: "Dongfeng no ha publicado una tarifa del Shine en España: su web española muestra BOX, VIGO y MAGE. En Italia cuesta 21.900 € con cambio manual y 23.800 € con automático (alVolante, 12/08/2025), y en Estonia parte de 20.500 € (dongfengmotor.ee). Los 15.900 € de esta ficha son una cifra aproximada de otro mercado.",
+    },
     marca: "Dongfeng",
     modelo: "Shine",
     tipo: "Gasolina",

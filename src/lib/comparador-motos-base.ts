@@ -6713,6 +6713,9 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "piaggio-beverly-400-2024-ficha-tecnica-precio",
+    textosPropios: {
+      precio: "Referencia de esta ficha: 6.799 € (tarifa del modelo 2024). En enero de 2024 el Beverly 400 HPE se anunciaba desde 6.099 € con 500 € de descuento de campaña, es decir, 6.599 € de tarifa (Diariomotor, 27/12/2023). Piaggio no publicó una tarifa actual accesible el 31/10/2026: confirma el precio final con el concesionario.",
+    },
     marca: "Piaggio",
     modelo: "Beverly 400",
     version: "Beverly 400 2024",
@@ -6733,7 +6736,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Motor HPE monocilíndrico de 399 cc con 35,4 CV: justo en el límite del carnet A2",
+      "Motor HPE monocilíndrico de 399 cc con 35,4 CV (26 kW): cabe en el carnet A2 sin limitar",
       "Ruedas altas de 16\" delante y 14\" detrás, que aportan estabilidad en baches y rondas",
       "ABS y control de tracción ASR incluido de fábrica",
       "Sistema keyless y cuadro digital LCD de 5,5\" con conectividad Piaggio MIA por Bluetooth",
