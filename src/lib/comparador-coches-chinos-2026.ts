@@ -312,7 +312,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde"],
     pros: [
-      "Segunda fila con asientos de masaje de 20 puntos con una pantalla de proyección de 41,6 pulgadas",
+      "Segunda fila con masaje de 20 puntos; pantalla de proyección de 41,6 pulgadas",
       "523 CV eléctricos con 1.300-1.335 km combinados (CLTC)",
       "Huawei ADS 5 con seis LiDAR (asistencia a la conducción)",
       "Rivales declarados: Toyota Alphard y Lexus LM, de los que se diferencia por tamaño y por la tecnología de Huawei",

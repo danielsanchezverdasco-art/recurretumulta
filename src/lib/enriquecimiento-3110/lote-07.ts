@@ -19,7 +19,7 @@ export const LOTE_07: MapaEnriquecimiento = {
       "Con la suspensión neumática en altura normal, la hoja anota una entrada de 12,6°, una rampa de 10,9° y una salida de 16,4°. Al ser una hoja estadounidense, los 5,3 s hasta 100 km/h de la ficha de arriba corresponden a otra medición.",
     ],
     filas: [
-      { etiqueta: "Motor", valor: "V6 biturbo, 2.894 cc; 348 hp/353 PS a 5.400 rpm; relación de compresión 10,5:1", ...SRC1 },
+      { etiqueta: "Motor", valor: "V6 biturbo, 2.894 cc; potencia de 348 hp (353 PS) a 5.400 rpm; relación de compresión 10,5:1", ...SRC1 },
       { etiqueta: "Par máximo", valor: "368 lb-ft (≈499 Nm) a 1.900 rpm", ...SRC1 },
       { etiqueta: "Transmisión", valor: "PDK de 8 marchas; tracción trasera", ...SRC1 },
       { etiqueta: "Frenos", valor: "Pinzas monobloc fijas 6/4 pistones; discos 360 × 36 mm delante y 330 × 28 mm detrás", ...SRC1 },

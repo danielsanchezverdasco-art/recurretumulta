@@ -31,8 +31,8 @@ export const LOTE_15: MapaEnriquecimiento = {
       "Ante un atropello, la cabeza de la persona golpeada quedó protegida de forma mayormente adecuada, con resultados pobres en los montantes rígidos del parabrisas y en la base del cristal. Pelvis y fémur puntuaron al máximo, y rodilla y tibia fueron mayormente buenas. El frenado automático respondió bien ante peatones, rindió al máximo ante ciclistas y casi al máximo en el caso de una puerta abierta ante un ciclista que llega por detrás. Ante motoristas puntuó entero en el frenado y bien en el mantenimiento de carril.",
     ],
     filas: [
-      { etiqueta: "Protección de niños", valor: "87 % de los puntos posibles", fuente: "Euro NCAP Superb: ocupantes infantiles (apartado)", url: SUP, anio: "2024" },
-      { etiqueta: "Usuarios vulnerables de la vía", valor: "82 % de los puntos posibles", fuente: "Euro NCAP Superb: peatones y ciclistas (apartado)", url: SUP, anio: "2024" },
+      { etiqueta: "Protección de niños", valor: "87 % de la puntuación posible", fuente: "Euro NCAP Superb: ocupantes infantiles (apartado)", url: SUP, anio: "2024" },
+      { etiqueta: "Usuarios vulnerables de la vía", valor: "82 % de los puntos en juego", fuente: "Euro NCAP Superb: peatones y ciclistas (apartado)", url: SUP, anio: "2024" },
       { etiqueta: "Motor 2.0 TSI en la evaluación", valor: "Listado con tracción total (4x4) y con tracción delantera (4x2)", fuente: "Euro NCAP, líneas de gasolina TSI en el cuadro del Superb", url: SUP, anio: "2024" },
       { etiqueta: "Detección de niños olvidados", valor: "No disponible en el Superb", fuente: "Euro NCAP, descripción de ocupantes infantiles", url: SUP, anio: "2024" },
       { etiqueta: "Punto débil en atropellos", valor: "Montantes del parabrisas y base del cristal: resultados pobres", fuente: "Euro NCAP, descripción de usuarios vulnerables", url: SUP, anio: "2024" },
@@ -46,7 +46,7 @@ export const LOTE_15: MapaEnriquecimiento = {
       "Euro NCAP señala además que el eCall avanzado avisa a los servicios de emergencia tras un accidente y que existe un sistema contra impactos secundarios. Para el resto de la nota, el organismo se basa en los ensayos hechos sobre el Volkswagen Passat, gemelo del Superb.",
     ],
     filas: [
-      { etiqueta: "Asistencias a la seguridad", valor: "80 % de los puntos posibles", fuente: "Euro NCAP Superb: asistencias (apartado)", url: SUP, anio: "2024" },
+      { etiqueta: "Asistencias a la seguridad", valor: "80 % del máximo posible", fuente: "Euro NCAP Superb: asistencias (apartado)", url: SUP, anio: "2024" },
       { etiqueta: "Fecha de la calificación", valor: "10 de julio de 2024, cinco estrellas", fuente: "Euro NCAP, revisiones anuales del Superb", url: SUP, anio: "2024" },
       { etiqueta: "Híbrido enchufable en la evaluación", valor: "1.5 TSI iV con tracción delantera, listado en dos carrocerías", fuente: "Euro NCAP, renglón del PHEV en el listado del Superb", url: SUP, anio: "2024" },
       { etiqueta: "Vigilancia del conductor", valor: "Indirecta, de serie; detecta fatiga", ...SRC1 },
@@ -78,7 +78,7 @@ export const LOTE_15: MapaEnriquecimiento = {
     filas: [
       { etiqueta: "Protección de niños", valor: "73 % de los puntos posibles", fuente: "Euro NCAP MG 3: ocupantes infantiles (apartado)", url: MG3, anio: "2025" },
       { etiqueta: "Usuarios vulnerables", valor: "81 % de los puntos posibles", fuente: "Euro NCAP, valoración de peatones y ciclistas, MG 3", url: MG3, anio: "2025" },
-      { etiqueta: "Asistencias a la seguridad", valor: "69 % de los puntos posibles", fuente: "Euro NCAP MG 3: asistencias (apartado)", url: MG3, anio: "2025" },
+      { etiqueta: "Asistencias a la seguridad", valor: "69 % del máximo posible", fuente: "Euro NCAP MG 3: asistencias (apartado)", url: MG3, anio: "2025" },
       { etiqueta: "Maniquí de 10 años en el lateral", valor: "Airbag contra el montante trasero; cero puntos en ese ensayo", fuente: "Euro NCAP MG 3: ocupantes infantiles (descripción)", url: MG3, anio: "2025" },
       { etiqueta: "Pasajero trasero en choque frontal", valor: "Cabeza: protección pobre; pecho: marginal", fuente: "Euro NCAP, texto sobre el pasajero trasero del MG 3", url: MG3, anio: "2025" },
       { etiqueta: "Vigilancia del conductor", valor: "Directa, de serie; detecta fatiga pero no distracción", fuente: "Euro NCAP MG 3: asistencias (descripción)", url: MG3, anio: "2025" },

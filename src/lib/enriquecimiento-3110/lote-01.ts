@@ -99,7 +99,7 @@ export const LOTE_01: MapaEnriquecimiento = {
       { etiqueta: "Peso en vacío", valor: "3.120 kg (Premium) y 3.190 kg (Flagship)", ...SRC4 },
       { etiqueta: "Motor de gasolina (generador)", valor: "1.5 turbo, 127 kW; depósito de 62 l", ...SRC4 },
       { etiqueta: "Motores eléctricos", valor: "160 kW delante + 230 kW detrás; 208 + 396 Nm; total 390 kW (523 CV)", ...SRC5 },
-      { etiqueta: "Batería", valor: "65 kWh ternaria (NMC), de CATL; 800 V; recarga 6C de 10 a 80 % en 10,5 min", ...SRC5 },
+      { etiqueta: "Batería", valor: "65 kWh ternaria (NMC), de CATL; 800 V; carga rápida 6C (10–80 % en 10,5 min)", ...SRC5 },
       { etiqueta: "Autonomía CLTC", valor: "340 km eléctricos y 1.335 km combinados (Premium); 330 y 1.300 km (Executive y Flagship). CLTC no equivale a WLTP", ...SRC4 },
       { etiqueta: "Prestaciones", valor: "0–100 km/h en 5,7 s; máxima 200 km/h (210 km/h en la Flagship)", ...SRC4 },
       { etiqueta: "Maletero", valor: "758 l con tres filas; 1.926 l con la tercera plegada", ...SRC5 },

@@ -59,7 +59,7 @@ export const LOTE_09: MapaEnriquecimiento = {
     ],
     filas: [
       { etiqueta: "Motor TCe 110", valor: "999 cm³, 3 cilindros, turbo, inyección directa; 81 kW (110 CV); 200 Nm", fuente: "Folleto Dacia PT TCe 110 5 pl., motorizaciones", url: BRO, anio: "2025" },
-      { etiqueta: "Consumo y CO₂", valor: "6,0 l/100 km; 136 g/km de CO₂ (WLTP)", fuente: "Folleto Dacia PT TCe 110 5 pl., consumos", url: BRO, anio: "2025" },
+      { etiqueta: "Consumo y CO₂", valor: "CO₂ de 136 g/km y 6,0 l/100 km (WLTP)", fuente: "Folleto Dacia PT TCe 110 5 pl., consumos", url: BRO, anio: "2025" },
       { etiqueta: "Aceleración (5 plazas)", valor: "10,5 s hasta 100 km/h", fuente: "Folleto Dacia PT TCe 110 5 pl., prestaciones", url: BRO, anio: "2025" },
       { etiqueta: "Masa en vacío (TCe 110, 5 plazas)", valor: "1.193–1.230 kg", fuente: "Folleto Dacia PT TCe 110 5 pl., pesos", url: BRO, anio: "2025" },
       { etiqueta: "Maletero (5 plazas)", valor: "708 dm³ VDA (829 l) mínimo; 1.819 dm³ VDA (2.094 l) máximo", fuente: "Folleto Dacia PT TCe 110 5 pl., volúmenes", url: BRO, anio: "2025" },
