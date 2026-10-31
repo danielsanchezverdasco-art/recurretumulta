@@ -5029,3 +5029,10 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/patinetes/urban-glide-all-road-6-2x2-oficial.webp | https://urbanglide.com/wp-content/uploads/2025/04/AR62x2-2.webp | UrbanGlide (foto de producto oficial) | prensa |
 | /media/patinetes/kaabo-wolf-king-gt-pro-oficial.webp | https://www.kaabo.com/wp-content/uploads/2023/05/Kaabo-Wolf-King-Gt.png | Kaabo (foto de producto oficial, Wolf King GT) | prensa |
 | /media/patinetes/speedway-leger-pro-oficial.webp | https://voltride.com/wp-content/uploads/2025/04/electric-scooter-speedway-leger-pro-main-product-image.jpg | Voltride (foto de producto de tienda) | prensa |
+| /media/patinetes/segway-ninebot-e3-pro-e-oficial.webp | https://shop.segway.com/media/catalog/product/2/_/2_12_4.png | Segway-Ninebot (foto de producto de la tienda oficial de España) | prensa |
+| /media/patinetes/segway-ninebot-e2-pro-e-oficial.webp | https://shop.segway.com/media/catalog/product/e/2/e2_pro_e.png | Segway-Ninebot (foto de producto de la tienda oficial de España) | prensa |
+| /media/patinetes/cecotec-bongo-x65-connected-oficial.webp | https://media.cecotec.cloud/07109/bongo-x65-connected_hpog7c_1.png | Cecotec (foto de producto oficial) | prensa |
+| /media/patinetes/xiaomi-electric-scooter-6-pro-oficial.webp | https://i05.appmifile.com/884_item_es/04/03/2026/bf1c2d3743b4a2a443252f8c7737606c.png | Xiaomi (foto de producto oficial, mi.com/es) | prensa |
+| /media/patinetes/xiaomi-electric-scooter-6-ultra-oficial.webp | https://i05.appmifile.com/622_item_es/24/02/2026/0bbdc0de25669bbb7faab2262e40ebc0.png | Xiaomi (foto de producto oficial, mi.com/es) | prensa |
+| /media/patinetes/xiaomi-electric-scooter-6-max-oficial.webp | https://i05.appmifile.com/495_item_es/04/03/2026/ff783b67501c9a63a301cfb36c7ca2d7.png | Xiaomi (foto de producto oficial, mi.com/es) | prensa |
+| /media/patinetes/xiaomi-electric-scooter-6-lite-oficial.webp | https://i05.appmifile.com/621_item_es/25/02/2026/6e8eedeb23ac21d531d2601c75216687.png | Xiaomi (foto de producto oficial, mi.com/es) | prensa |

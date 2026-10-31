@@ -1801,52 +1801,49 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Serie X65 Connected",
-    precioEur: null, // Cecotec ya no lo comercializa ni publica tarifa oficial (verificado 20/10/2026)
+    precioEur: 499,
     potenciaNominalW: 500,
     potenciaPicoW: 1000,
     autonomiaKm: 65,
     autonomiaRealKm: 44,
     velocidadMaxKmh: 25,
-    pesoKg: null,
-    cargaMaxKg: 120,
-    tiempoCargaH: null,
+    pesoKg: 17.8,
+    cargaMaxKg: 100,
+    tiempoCargaH: 6,
     bateriaWh: 576,
-    frenos: "Triple freno: doble disco + e-ABS",
-    neumaticos: "10\" tubeless",
-    certificadoDgt: null,
-    foto: "/media/patinetes/cecotec-bongo-serie-x65-connected-1.webp",
-    galeria: [
-      { src: "/media/patinetes/cecotec-bongo-serie-x65-connected-2.webp", alt: "Detalle del Cecotec Bongo Serie X65 Connected", ancho: 1200, alto: 800 },
-      { src: "/media/fotos-reales/cecotec-bongo-serie-x65-connected/cecotec-bongo-serie-x65-connected-real-2.webp", alt: "Cecotec Bongo Serie X65 Connected en la ciudad", ancho: 1200, alto: 800 },
+    frenos: "Doble freno de disco + e-ABS con frenada regenerativa",
+    neumaticos: "Neumáticos tubeless de 10\"",
+    certificadoDgt: true,
+    foto: "/media/patinetes/cecotec-bongo-x65-connected-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm"
     ],
-    aprox: ["autonomiaRealKm"],
     pros: [
-      "Un alcance anunciado de 65 km acompañado de una entrega de 500 W permite cubrir trayectos largos con un consumo ajustado",
-      "El acumulador, de 576 Wh con arquitectura de 48 V y 12 Ah, aporta reserva suficiente para varios desplazamientos antes de enchufarlo de nuevo",
-      "La frenada combina tres sistemas y un par de discos de gran exactitud, lo que transmite confianza al detener el vehículo en calles concurridas",
-      "El sistema S-Driving regula el ritmo cuando el terreno se inclina, de modo que el avance no decae en rampas prolongadas",
-      "Un detector luminoso que se adapta al entorno junto con una alerta ante caídas añade una capa de protección poco habitual en este segmento",
-      "Desde el teléfono, mediante conexión inalámbrica, se pueden modificar parámetros y revisar el uso, sin depender de controles físicos complejos",
+      "Motor de 500 W nominales con 1000 W de pico y batería de 48 V y 12 Ah (576 Wh)",
+      "Hasta 65 km en modo Confort con 80 kg; el manual da 75 km en modo Peatón y 55 km en Sport",
+      "Triple frenado: dos discos de alta precisión y e-ABS con frenada regenerativa",
+      "Garantía de 3 años en España y certificado de homologación española según la web de Cecotec",
+      "Neumáticos tubeless de 10 pulgadas, aluminio, IPX4 y app por Bluetooth con aviso a un contacto de emergencia"
     ],
     contras: [
-      "El fabricante no difunde el peso, así que resulta imposible anticipar cómo se comportará al transportarlo a mano o guardarlo en casa",
-      "Tampoco se comunica cuánto tarda una recarga completa, un dato clave para organizar los desplazamientos diarios",
-      "Su presencia en el registro oficial de vehículos de movilidad personal no aparece confirmada, por lo que conviene revisar la situación normativa antes de circular",
-      "La potencia nominal de 500 W cumple en terreno urbano, aunque no brinda sensaciones deportivas ni reservas para pendientes exigentes",
-      "Como modelo nuevo apenas se anuncia, la oferta visible corresponde mayoritariamente a unidades reacondicionadas, lo que limita la compra en estreno",
-      "La familia a la que pertenece acumula ya cierto recorrido, y las líneas D y M ofrecen planteamientos más recientes para quien busque lo último",
+      "En la web de Cecotec figura «Sin Stock» a 499 € el 31/10/2026",
+      "Los 65 km son en modo Confort con 80 kg y en llano; los 44 km de este comparador son un cálculo propio",
+      "El manual indica 100 kg de peso máximo, mientras otras tiendas anuncian 120 kg",
+      "Carga lenta: el manual da entre 6 y 8 horas con el cargador de 2 A",
+      "El manual pide más de 16 años, un año por encima del mínimo legal de 15",
+      "Un X65 de 1000 W de pico exige casco y mayoría de 15 años por el RD 518/2026, además de circular lejos de las aceras"
     ],
-    veredicto:
-      "El X65 Connected es el rutero clásico de Cecotec: 65 km declarados y triple freno. Un valor seguro de segunda mano o reacondicionado; nuevo, las series D y M ofrecen lo mismo con certificación más clara.",
-    fuenteNombre: "MediaMarkt",
-    fuenteUrl: "https://www.mediamarkt.es/es/product/_patinete-electrico-bongo-serie-x65-connected-cecotec-1000-w-black-128205637.html",
+    veredicto: "El Bongo X65 Connected cuesta 499 € en Cecotec y ofrece 576 Wh, 500 W y doble disco con e-ABS. Ahora figura sin stock en la web oficial y su manual fija 100 kg de peso máximo, un dato que conviene comparar con lo que anuncian otras tiendas.",
+    fuenteNombre: "Cecotec: ficha del Bongo X65 Connected (ref. 07109) y manual de usuario oficial",
+    fuenteUrl: "https://cecotec.es/es/patinetes-electricos/patinete-electrico-bongo-x65-connected",
     mantenimientoDIY: {
       intervaloRevision: "Revisiones visuales periódicas de chasis, horquilla, neumáticos y frenos; comprobar la presión de los neumáticos antes de cada uso",
       presionNeumaticos: "36 PSI / 2,5 bares / 250 kPa (presión óptima según el manual oficial)",
       ajusteFrenosPasos: [
         "Comprobar que el disco de freno está en perfectas condiciones y alineado con la pinza de freno",
         "Usar la llave Allen incluida con el patinete para facilitar el ajuste de la alineación",
-        "Las pastillas de freno son consumibles: sustituirlas cuando se agote su vida útil",
+        "Las pastillas de freno son consumibles: sustituirlas cuando se agote su vida útil"
       ],
       aprieteTornilleria: "Revisar periódicamente el apriete de los elementos atornillados: ejes de las ruedas, sistema de plegado, sistema de dirección y sistema de frenado",
       actualizacionFirmware: "A través de la app oficial de Cecotec (escanea el código QR del manual de usuario para descargarla y vincular el patinete)",
@@ -1854,9 +1851,9 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
         "Recargar solo cuando la batería esté por agotarse; si no se usa, recargarla al menos una vez al mes",
         "Si va a estar inactivo más de 30 días: cargarlo al completo, guardarlo en lugar seco y fresco, y recargarlo cada 60 días",
         "El manual recomienda usar geles de termosellado para prevenir pinchazos",
-        "Limpiar con un paño suave; nunca con alcohol, gasolina, queroseno ni agua a presión",
-      ],
-    },
+        "Limpiar con un paño suave; nunca con alcohol, gasolina, queroseno ni agua a presión"
+      ]
+    }
   },
   {
     id: "cecotec-bongo-serie-x45-sport-connected",
