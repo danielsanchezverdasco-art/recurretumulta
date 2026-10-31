@@ -123,7 +123,7 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
     "etiquetaDgt": null,
     "aprox": [],
     "pros": [
-      "Cuesta 3.088 € e incluye cinco años de garantía y un año de seguro",
+      "3.088 € con garantía de cinco años y seguro del primer año incluido",
       "Horquilla invertida, ABS doble canal y TCS",
       "Pantalla LCD en color con navegación",
       "Tanque de 15 litros con autonomía de hasta 500 km, dice la marca",
@@ -365,11 +365,11 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
     "pesoKg": 235,
     "plazas": 2,
     "carnet": "A",
-    "carga": "CCS hasta 100 kW con la batería de 20,2 kWh (+200 km en 10 min según Verge); carga AC con cargador integrado",
+    "carga": "Recarga CCS de hasta 100 kW (batería de 20,2 kWh); Verge anuncia 200 km de autonomía en 10 minutos; en AC, cargador a bordo",
     "etiquetaDgt": "Cero",
     "aprox": [],
     "pros": [
-      "Anuncia 102 kW y 1.000 Nm, con aceleración 0-100 km/h en 3,5 segundos",
+      "Anuncia 102 kW y 1.000 Nm; de 0 a 100 km/h en 3,5 segundos",
       "Motor sin buje: no hay cadena ni correa que cuidar",
       "Recarga rápida CCS de hasta 100 kW en la batería de 20,2 kWh",
       "Brembo y Öhlins/Wilbers de serie",
