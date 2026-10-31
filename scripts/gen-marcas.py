@@ -204,7 +204,10 @@ def normas(c,filas):
     a1=[f[1] for f in filas if "carnet A1" in f[3] and re.search(r"\b(12[0-5]|1[01]\d|\d{2}) cc",f[3])]
     if a1: return [f"{_y(a1)}, de 125 cc, también se puede llevar con el carnet B si tiene más de 3 años (Reglamento General de Conductores, art. 5)."]
   return []
-def _y(xs): return xs[0] if len(xs)==1 else ", ".join(xs[:-1])+" y "+xs[-1]
+def _y(xs):
+  xs=list(dict.fromkeys(xs))
+  if len(xs)>5: return ", ".join(xs[:5])+f" y {len(xs)-5} más"
+  return xs[0] if len(xs)==1 else ", ".join(xs[:-1])+" y "+xs[-1]
 def resumen(c,d,filas):
   # Frases cortas con modelos/precios intercalados: ningún 8-grama se repite entre hubs.
   con=sorted([f for f in filas if f[2]],key=lambda f:int(f[2].replace(".","").split()[0]))
@@ -221,6 +224,51 @@ def resumen(c,d,filas):
     txt.append(f"Con precio publicado en España, {con[0][1]} ({con[0][2]}) es la más asequible y {con[-1][1]} ({con[-1][2]}) la más cara.")
   if sin: txt.append(f"Sin precio oficial confirmado: {_y(sin)}.")
   return " ".join(txt+normas(c,filas))
+
+# 31/10/2026 (auditoría A2): 102 marcas con <300 palabras. Se amplía con datos propios de sus fichas (precio, potencia, cilindrada,
+# peso, carnet, autonomía, años: todo sale del JSON-LD de cada ficha, nada inventado) y, si aun así quedan <300 palabras, noindex + fuera del sitemap.
+FINAS={l.strip() for l in open(os.path.join(S,"marcas-finas.txt"),encoding="utf8") if l.strip()}
+NOIDX_MARCA=set()
+def _num(rx,t):
+  m=re.search(rx,t or ""); return float(m.group(1).replace(".","").replace(",",".")) if m else None
+def perfil(c,d,filas):
+  P=[]
+  for s_,n,pr,dt in filas:
+    p=prod(c,s_); ds=p.get("description","")
+    kw=(((p.get("vehicleEngine") or {}).get("enginePower") or {}).get("value"))
+    P.append(dict(n=n,dt=dt,pr=pr,y=p.get("vehicleModelDate"),kg=((p.get("weight") or {}).get("value")),cv=_num(r"(\d[\d.]*) CV",dt),cc=_num(r"(\d[\d.]*) cc",dt),au=_num(r"(\d[\d.]*) km de autonom",dt),vel=_num(r"(\d+) km/h",dt),w=_num(r"(\d[\d.]*) W\b",dt),carnet=(re.search(r"carnet ([A-Z0-9]+)",dt) or [None,None])[1],fuel=(p.get("fuelType") or "").lower(),ds=ds))
+  out=[]
+  def ext(k,fmt_hi,fmt_lo):
+    v=[x for x in P if x.get(k) not in (None,0,"")]
+    if len(v)<2: return
+    hi=max(v,key=lambda x:float(x[k])); lo=min(v,key=lambda x:float(x[k]))
+    if float(hi[k])==float(lo[k]): return
+    out.append(fmt_hi(hi,lo))
+  ys=sorted({str(x["y"]) for x in P if x["y"]})
+  if len(P)>=2 and len(ys)>=2: out.append(f"Las fichas cubren modelos de {ys[0]} a {ys[-1]}.")
+  elif len(P)>=1 and len(ys)==1: out.append(f"{'Todas las fichas son' if len(P)>1 else 'La ficha es'} del año modelo {ys[0]}.")
+  if c=="motos":
+    ext("cc",lambda h,l:f"En cilindrada, {h['n']} marca el techo con {h['cc']:g} cc y {l['n']} el suelo con {l['cc']:g} cc.".replace(".0 cc"," cc"),None)
+    P=[x for x in P if not (x.get("cv") and x["cv"]<3)] if False else P
+    g={}
+    for x in P:
+      if x["carnet"]: g.setdefault(x["carnet"],[]).append(x["n"])
+    if g: out.append("Por carnet, "+", ".join(f"{len(set(v))} con {k}" for k,v in sorted(g.items(),key=lambda kv:-len(kv[1])))+".")
+  elif c=="patinetes":
+    ext("au",lambda h,l:f"La mayor autonomía declarada es la de {h['n']} ({h['au']:g} km) frente a los {l['au']:g} km de {l['n']}.",None)
+    ext("w",lambda h,l:f"En potencia nominal, {h['n']} anuncia {h['w']:g} W y {l['n']} {l['w']:g} W.",None)
+    ext("vel",lambda h,l:f"{h['n']} alcanza {h['vel']:g} km/h, mientras que {l['n']} se queda en {l['vel']:g} km/h.",None)
+  else:
+    g={}
+    for x in P:
+      if x["fuel"]: g.setdefault(x["fuel"],[]).append(x["n"])
+    if g: out.append("Por mecánica: "+", ".join(f"{k} ({len(set(v))})" for k,v in sorted(g.items(),key=lambda kv:-len(kv[1])))+".")
+  for x in P:
+    if c=="coches" or (x["kg"] and float(x["kg"])<5): x["kg"]=None
+  ext("kg",lambda h,l:f"En la báscula, {l['n']} es la más ligera ({str(l['kg']).replace('.',',') if l['kg']!=int(l['kg']) else int(l['kg'])} kg) y {h['n']} la más pesada ({str(h['kg']).replace('.',',') if h['kg']!=int(h['kg']) else int(h['kg'])} kg).",None)
+  pv=[(int(x["pr"].replace(".","").split()[0]),x["n"]) for x in P if x["pr"]]
+  if len(pv)>=2 and max(pv)[0]!=min(pv)[0]: out.append(f"Entre la ficha con precio más bajo y la más alta hay {eur(max(pv)[0]-min(pv)[0])} de diferencia.")
+  return " ".join(out)
 def tabla_html(c,d):
   if not d.get("tabla"): return ""
   fl_="".join(f'<tr><td class="py-1 pr-3"><a href="/{c}/{s}/" class="text-red-600 hover:underline">{e(n)}</a></td><td class="py-1 pr-3 whitespace-nowrap">{e(pr or "Sin precio oficial")}</td><td class="py-1">{e(dt or "—")}</td></tr>' for s,n,pr,dt in d["tabla"])
@@ -239,14 +287,20 @@ for (c,slug),d in pags.items():
   ed=ED.get(f"{c}/marca/{slug}",{})
   _filas=tabla(c,d["items"])
   if f"{c}/{slug}" in DELGADOS: d["tabla"]=_filas; d["resumen"]=resumen(c,d,_filas)
+  elif f"{c}/marca/{slug}" in FINAS or f"{c}/marca/{slug}" in FINAS: d["tabla"]=_filas; d["resumen"]=(resumen(c,d,_filas)+" "+perfil(c,d,_filas)).strip()
   cuerpo=(f'<main class="max-w-5xl mx-auto px-4 pt-6 pb-16 space-y-6"><nav aria-label="Migas de pan" class="text-xs text-gray-500"><a href="/">Inicio</a> / <a href="/{c}/">{CAT[c]}</a> / <span>{e(d["nombre"])}</span></nav>'
     f'<h1 class="text-3xl font-black text-gray-900">{e(d["h1"])}</h1><p class="text-sm text-gray-700 max-w-3xl leading-relaxed">{e(d["intro"])}</p>'
     +ed_pre(ed)+
     '<ul class="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-1">'+"".join(f'<li><a href="/{c}/{s}/" class="text-sm text-gray-700 hover:text-red-600">{e(n)}</a></li>' for s,n in d["items"])+"</ul>"+tabla_html(c,d)+ed_post(ed)+"</main>")
   h=plantilla[:i0]+cuerpo+plantilla[i1:]
+  if f"{c}/marca/{slug}" in FINAS and len(re.sub(r"<[^>]+>"," ",cuerpo).split())<300:
+    NOIDX_MARCA.add(url); d["_noidx"]=1
   h=re.sub(r'<script type="application/ld\+json"[^>]*>.*?</script>','',h,flags=re.S)
   h=re.sub(r'<script type="application/json" id="hub-marca-data">.*?</script>','',h,flags=re.S)
   h=poner(h,d["title"],d["description"],url)
+  if d.get("_noidx"):
+    h2=re.sub(r'<meta name="robots" content="[^"]*"[^>]*>','<meta name="robots" content="noindex, follow" data-fijo="1">',h,count=1)
+    h=h2 if h2!=h else h.replace("</head>",'<meta name="robots" content="noindex, follow" data-fijo="1"></head>',1)
   act=max([FE[s_][1] for s_,_ in d["items"] if s_ in FE] or [None], key=lambda x: x or "")
   h=re.sub(r'<aside aria-label="Autoría y fuentes" data-eeat="1".*?</aside>','',h,flags=re.S)
   h=h.replace("<footer",eeat_aside(c,act)+"<footer",1)
@@ -285,7 +339,9 @@ open(rp,"w",encoding="utf8").write(R)
 # sitemap
 sm=open(f"{D}/sitemap.xml",encoding="utf8").read()
 urls=[u for u in re.findall(r"<url>.*?</url>",sm,re.S) if "/marca/" not in u and not any(f"<loc>{O}{p}</loc>" in u for p in NOIDX)]
-urls+=[f"<url>\n    <loc>{O}/{c}/marca/{s}/</loc>\n    <changefreq>weekly</changefreq>\n    <priority>0.6</priority>\n  </url>" for (c,s) in pags]
+urls+=[f"<url>\n    <loc>{O}/{c}/marca/{s}/</loc>\n    <changefreq>weekly</changefreq>\n    <priority>0.6</priority>\n  </url>" for (c,s) in pags if f"/{c}/marca/{s}/" not in NOIDX_MARCA]
 open(f"{D}/sitemap.xml","w",encoding="utf8").write(sm[:sm.index("<url>")]+"\n  ".join(urls)+"\n</urlset>\n")
 json.dump(recortes,open("/tmp/recortes-marca.json","w"),ensure_ascii=False,indent=0)
+json.dump(sorted(NOIDX_MARCA),open("/workspace/subida-3110/marcas-noindex.json","w"),indent=0)
+print("marcas finas noindex",len(NOIDX_MARCA),"de",len(FINAS))
 print("marcas",len(pags),"redirects",len(redir),"noindex",nn,"recortes",len(recortes),"sitemap",len(urls))
