@@ -18,8 +18,10 @@ import { LOTE_15 } from "./lote-15";
 import { LOTE_16 } from "./lote-16";
 import { LOTE_17 } from "./lote-17";
 import { LOTE_18 } from "./lote-18";
+import { LOTE_19 } from "./lote-19";
+import { LOTE_20 } from "./lote-20";
 
-const TODOS: MapaEnriquecimiento = { ...LOTE_01, ...LOTE_02, ...LOTE_03, ...LOTE_04, ...LOTE_05, ...LOTE_06, ...LOTE_07, ...LOTE_08, ...LOTE_09, ...LOTE_10, ...LOTE_11, ...LOTE_12, ...LOTE_13, ...LOTE_14, ...LOTE_15, ...LOTE_16, ...LOTE_17, ...LOTE_18 };
+const TODOS: MapaEnriquecimiento = { ...LOTE_01, ...LOTE_02, ...LOTE_03, ...LOTE_04, ...LOTE_05, ...LOTE_06, ...LOTE_07, ...LOTE_08, ...LOTE_09, ...LOTE_10, ...LOTE_11, ...LOTE_12, ...LOTE_13, ...LOTE_14, ...LOTE_15, ...LOTE_16, ...LOTE_17, ...LOTE_18, ...LOTE_19, ...LOTE_20 };
 
 export function getEnriquecimiento(slug: string): EnriquecimientoFicha | null {
   return TODOS[slug] ?? null;
