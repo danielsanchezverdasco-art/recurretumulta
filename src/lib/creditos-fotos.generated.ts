@@ -1814,5 +1814,30 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "Segway France (foto de producto oficial)",
 "licencia": "prensa",
 "url": "https://www.segwayfrance.com/products/ninebot-max-g3-pro-e"
+},
+"/media/patinetes/vsett-9-oficial.webp": {
+"autor": "Vsett Shop Europe (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://vsett-shop.com/wp-content/uploads/2021/02/VSETT-9-BIG-DISPLAY-4.jpg"
+},
+"/media/patinetes/vsett-8-plus-oficial.webp": {
+"autor": "Vsett Shop Europe (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://vsett-shop.com/wp-content/uploads/2021/04/VSETT-8-FRONT-BIG-DISPLAY-.jpeg"
+},
+"/media/patinetes/vsett-10-plus-apex-oficial.webp": {
+"autor": "Vsett Shop Europe (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://vsett-shop.com/wp-content/uploads/2024/07/VSETT-10-APEX-1.jpeg"
+},
+"/media/patinetes/kukirin-m5-pro-oficial.webp": {
+"autor": "KuKirin.es (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://kukirin.es/wp-content/uploads/2023/02/KuKirin-M5-Pro_-patinete_electrico-PRINCIPAL.jpg"
+},
+"/media/patinetes/pure-air-6-ultra-oficial.webp": {
+"autor": "Pure Electric (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://www.pureelectric.com/cdn/shop/files/pure-scooter-air-ultra-suspension-1244805437.jpg"
 }
 };

@@ -360,8 +360,8 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Air 6 Ultra",
-    precioEur: 700, // 549 £ (tarifa oficial Reino Unido) ÷ 0,84205 (BCE 19/10/2026), redondeado a la centena
-    potenciaNominalW: null,
+    precioEur: 700,
+    potenciaNominalW: 500,
     potenciaPicoW: 1200,
     autonomiaKm: 90,
     autonomiaRealKm: 60,
@@ -369,27 +369,114 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     pesoKg: null,
     cargaMaxKg: 120,
     tiempoCargaH: null,
-    bateriaWh: null,
+    bateriaWh: 624,
     frenos: "Freno de tambor + eléctrico regenerativo",
-    neumaticos: 'Tubeless de 10" antipinchazos',
+    neumaticos: "Tubeless de 10\" antipinchazos",
     certificadoDgt: null,
-    foto: "/media/patinetes/pure-air-6-ultra-1.webp",
+    foto: "/media/patinetes/pure-air-6-ultra-oficial.webp",
     galeria: [
       {
-        src: "/media/patinetes/pure-air-6-ultra-2.webp",
-        alt: "Pure Air 6 Ultra con estabilización de dirección activa",
-        ancho: 1200,
-        alto: 800,
-      },
+        "src": "/media/patinetes/pure-air-6-ultra-2.webp",
+        "alt": "Pure Air 6 Ultra con estabilización de dirección activa",
+        "ancho": 1200,
+        "alto": 800
+      }
     ],
-    aprox: ["autonomiaRealKm", "precioEur"],
-    pros: ["Con 90 km anunciados y unos 60 km reales estimados, encadena varios desplazamientos sin pasar por el enchufe", "El sistema que centra el manillar aporta serenidad cuando el firme se rompe o aparecen baches seguidos", "Conjunto pensado para uso diario duro: GlideMotion en ambos ejes, sellado IP65 y aguante hasta 120 kg", "Su empuje puntual llega a 1.200 W, un extra que se nota al arrancar y al salvar pendientes urbanas"],
-    contras: ["La ficha no recoge peso oficial, un vacío importante si toca subirlo a pulso por escaleras cada día", "Tampoco figura cuánto tarda en recargar, dato clave en un modelo orientado a cubrir trayectos largos", "Su comercialización se centra en el mercado británico, lo que complica probarlo o comprarlo desde España", "Sin certificado DGT consignado, conviene confirmarlo antes de plantearse circular por vías públicas españolas"],
-    veredicto:
-      "Dentro de la familia Air 6, la Ultra apuesta por llegar lejos: 90 km declarados, unos 60 km reales estimados y dirección estabilizada sobre doble suspensión. Antes de decidir, toca aclarar peso, tiempo de carga y certificado DGT, ausentes en la ficha.",
-    fuenteNombre: "Pure Electric (oficial)",
-    fuenteUrl: "https://www.pureelectric.com/blogs/all/electric-scooter-buying-guide",
-    mantenimientoDIY: {"intervaloRevision": "Comprobaciones rápidas antes de cada salida; revisión mensual o cada 300 km; chequeo completo de seguridad cada seis meses o 1.500 km; servicio completo cada año o 3.000 km, según la guía oficial de Pure Electric", "presionNeumaticos": "35 psi en las cubiertas tubeless de 10 pulgadas de la gama Air 6, según la guía oficial de mantenimiento de Pure Electric; comprobar la presión antes de cada salida", "ajusteFrenosPasos": ["Antes de salir, aprieta la maneta y comprueba que el tacto es firme y la respuesta inmediata", "En el chequeo semestral o a los 1.500 km, revisa y ajusta los frenos dentro de la inspección completa de seguridad", "Si tras el ajuste el tacto sigue blando o aparece recorrido muerto, acude a un servicio autorizado y usa recambios originales"], "aprieteTornilleria": "Revisar tuercas, tornillos y cierres antes de cada salida, prestando atención a manillar, bisagras de plegado y ruedas; en la revisión semestral, reapretar al par que indique el manual del modelo", "actualizacionFirmware": "Mediante la aplicación oficial de Pure Electric para iOS y Android, como ya recoge la propia ficha", "trucos": ["No apures la batería hasta vaciarla ni guardes el patinete descargado: recarga antes de que baje en exceso", "Carga siempre con el cargador oficial suministrado; un cargador de otro modelo puede dañar la batería", "En la revisión mensual, límpialo con un paño húmedo y revisa cables, cargador y cubiertas en busca de cortes o daños"]},
+    aprox: [
+      "autonomiaRealKm",
+      "precioEur"
+    ],
+    pros: [
+      "Con 90 km anunciados y unos 60 km reales estimados, encadena varios desplazamientos sin pasar por el enchufe",
+      "El sistema que centra el manillar aporta serenidad cuando el firme se rompe o aparecen baches seguidos",
+      "Conjunto pensado para uso diario duro: GlideMotion en ambos ejes, sellado IP65 y aguante hasta 120 kg",
+      "Su empuje puntual llega a 1.200 W, un extra que se nota al arrancar y al salvar pendientes urbanas"
+    ],
+    contras: [
+      "La ficha no recoge peso oficial, un vacío importante si toca subirlo a pulso por escaleras cada día",
+      "Tampoco figura cuánto tarda en recargar, dato clave en un modelo orientado a cubrir trayectos largos",
+      "Su comercialización se centra en el mercado británico, lo que complica probarlo o comprarlo desde España",
+      "Sin certificado DGT consignado, conviene confirmarlo antes de plantearse circular por vías públicas españolas"
+    ],
+    veredicto: "Dentro de la familia Air 6, la Ultra apuesta por llegar lejos: 90 km declarados, unos 60 km reales estimados y dirección estabilizada sobre doble suspensión. Antes de decidir, toca aclarar peso, tiempo de carga y certificado DGT, ausentes en la ficha.",
+    fuenteNombre: "Pure Electric (ficha oficial Air⁶ Ultra Suspension)",
+    fuenteUrl: "https://www.pureelectric.com/products/air-6-ultra-suspension",
+    mantenimientoDIY: {
+      "intervaloRevision": "Comprobaciones rápidas antes de cada salida; revisión mensual o cada 300 km; chequeo completo de seguridad cada seis meses o 1.500 km; servicio completo cada año o 3.000 km, según la guía oficial de Pure Electric",
+      "presionNeumaticos": "35 psi en las cubiertas tubeless de 10 pulgadas de la gama Air 6, según la guía oficial de mantenimiento de Pure Electric; comprobar la presión antes de cada salida",
+      "ajusteFrenosPasos": [
+        "Antes de salir, aprieta la maneta y comprueba que el tacto es firme y la respuesta inmediata",
+        "En el chequeo semestral o a los 1.500 km, revisa y ajusta los frenos dentro de la inspección completa de seguridad",
+        "Si tras el ajuste el tacto sigue blando o aparece recorrido muerto, acude a un servicio autorizado y usa recambios originales"
+      ],
+      "aprieteTornilleria": "Revisar tuercas, tornillos y cierres antes de cada salida, prestando atención a manillar, bisagras de plegado y ruedas; en la revisión semestral, reapretar al par que indique el manual del modelo",
+      "actualizacionFirmware": "Mediante la aplicación oficial de Pure Electric para iOS y Android, como ya recoge la propia ficha",
+      "trucos": [
+        "No apures la batería hasta vaciarla ni guardes el patinete descargado: recarga antes de que baje en exceso",
+        "Carga siempre con el cargador oficial suministrado; un cargador de otro modelo puede dañar la batería",
+        "En la revisión mensual, límpialo con un paño húmedo y revisa cables, cargador y cubiertas en busca de cortes o daños"
+      ]
+    },
+    fuentesExtra: [
+      {
+        "nombre": "Pure Electric: ficha oficial del Air⁶ Ultra Suspension (25 km/h, 90 km anunciados, 624 Wh, 120 kg; 599 £ en su web británica)",
+        "url": "https://www.pureelectric.com/products/air-6-ultra-suspension",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "pure-air-6-ultra-max",
+        "nombre": "Pure Air⁶ Ultra Max",
+        "precioEur": null,
+        "autonomiaKm": 90,
+        "potenciaW": null,
+        "pesoKg": null,
+        "nota": "Pure Electric (oficial)"
+      },
+      {
+        "id": "pure-air-6-pro-plus",
+        "nombre": "Pure Air⁶ Pro+",
+        "precioEur": null,
+        "autonomiaKm": 75,
+        "potenciaW": null,
+        "pesoKg": 23,
+        "nota": "Pure Electric (oficial)"
+      },
+      {
+        "id": "segway-ninebot-max-g3",
+        "nombre": "Segway Ninebot Max G3",
+        "precioEur": 899.99,
+        "autonomiaKm": 80,
+        "potenciaW": 700,
+        "pesoKg": 24.6,
+        "nota": "MediaMarkt"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuánto cuesta el Pure Air6 Ultra en España?",
+        "a": "La ficha oficial de Pure Electric que hemos consultado el 31/10/2026 muestra el precio de su tienda británica (599 £); no hemos encontrado un precio oficial en euros para España, por lo que el importe de nuestra ficha es orientativo. Dato orientativo, no oficial: puede contener errores. Comprueba antes de comprar el envío y la garantía aplicables en España."
+      },
+      {
+        "q": "¿Qué potencia y batería declara Pure Electric?",
+        "a": "La marca declara un motor de 500 W de potencia nominal con picos de 1.200 W, una batería de 624 Wh, neumáticos tubeless de 10 pulgadas y una velocidad máxima de 25 km/h. Los 90 km son autonomía anunciada en condiciones ideales; en uso real con cuestas y viento es normal quedarse por debajo."
+      },
+      {
+        "q": "¿El Air6 Ultra cumple el límite de 25 km/h de los VMP?",
+        "a": "Su velocidad máxima declarada es de 25 km/h, el límite de construcción de un VMP (Reglamento General de Vehículos, modificado por el Real Decreto 970/2020). Para circular con él en España conviene comprobar el certificado de características de la DGT, que la ficha oficial no menciona."
+      },
+      {
+        "q": "¿Casco y edad mínima con este patinete?",
+        "a": "Casco homologado o certificado y abrochado (artículo 118.3 del Reglamento General de Circulación) y 15 años cumplidos (artículo 155.3), según el Real Decreto 518/2026."
+      }
+    ]
   },
   {
     id: "pure-air-6-ultra-max",
