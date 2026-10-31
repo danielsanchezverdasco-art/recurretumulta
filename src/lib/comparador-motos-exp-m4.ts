@@ -675,7 +675,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/harley-davidson-street-glide-2025-ficha-tecnica-precio-1.webp", alt: "Harley-Davidson Street Glide (foto: Chris Woodrich / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 933 },
+      { src: "/media/motos/harley-davidson-street-glide-2025-ficha-tecnica-precio-1.webp", alt: "Harley-Davidson Street Glide", ancho: 1400, alto: 933 },
       {
         src: "/media/motos/harley-davidson-street-glide-2025-ficha-tecnica-precio-2.webp",
         alt: "Harley-Davidson Street Glide, vista frontal del carenado batwing",

@@ -972,7 +972,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         ancho: 1200,
         alto: 400,
       },
-      { src: "/media/bmw-g-310-r-2025-hunt1.webp", alt: "G 310 R (foto: Erluw / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1000, alto: 562 },
+      { src: "/media/bmw-g-310-r-2025-hunt1.webp", alt: "G 310 R", ancho: 1000, alto: 562 },
     ],
     videoId: null,
     videoCanal: null,

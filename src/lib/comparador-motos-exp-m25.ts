@@ -4923,7 +4923,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/vespa-primavera-elettrica-70-2025-ficha-tecnica-precio-oficial.webp", alt: "Vespa Primavera Elettrica 70 (versión RED en EICMA 2024) (foto: AVMOTO / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 972, alto: 1008 },
+      { src: "/media/vespa-primavera-elettrica-70-2025-ficha-tecnica-precio-oficial.webp", alt: "Vespa Primavera Elettrica 70 (versión RED en EICMA 2024)", ancho: 972, alto: 1008 },
       {
         src: "/media/vespa-primavera-elettrica-70-2025-ficha-tecnica-precio-oficial-2.webp",
         alt: "Vespa Primavera Elettrica 70 2025, vista tres cuartos",

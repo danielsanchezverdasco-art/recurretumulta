@@ -59,7 +59,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/ktm-790-duke-2025-ficha-tecnica-precio-hero.webp", alt: "KTM 790 Duke (foto: Cjp24 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 866 },
+      { src: "/media/motos/ktm-790-duke-2025-ficha-tecnica-precio-hero.webp", alt: "KTM 790 Duke", ancho: 1400, alto: 866 },
       {
         src: "/media/motos/ktm-790-duke-2025-ficha-tecnica-precio-oficial.webp",
         alt: "KTM 790 Duke 2025, naked naranja en tres cuartos",
@@ -344,7 +344,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/ktm-790-adventure-2025-ficha-tecnica-precio-hero.webp", alt: "KTM 790 Adventure (foto: Cjp24 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1050 },
+      { src: "/media/motos/ktm-790-adventure-2025-ficha-tecnica-precio-hero.webp", alt: "KTM 790 Adventure", ancho: 1400, alto: 1050 },
       {
         src: "/media/motos/ktm-790-adventure-2025-ficha-tecnica-precio-oficial.webp",
         alt: "KTM 790 Adventure 2025, trail con depósito bajo en dunas",
@@ -1377,7 +1377,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     curiosidades: ["El «04» no es la cilindrada: BMW lo usa para situar a la CE 04 frente al segmento de los scooters de gasolina de unos 400 cc.", "Antes de ser moto de serie fue dos veces prototipo: el Concept Link de 2017 ya anticipaba el asiento flotante y el hueco de carga bajo el piloto que luego heredó esta CE 04."],
     imagen: null,
     galeria: [
-      { src: "/media/motos/bmw-ce-04-2025-ficha-tecnica-precio-hero.webp", alt: "BMW Motorrad CE 04 (foto: Wikisympathisant / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 924 },
+      { src: "/media/motos/bmw-ce-04-2025-ficha-tecnica-precio-hero.webp", alt: "BMW Motorrad CE 04", ancho: 1400, alto: 924 },
       {
         src: "/media/motos/bmw-ce-04-2025-ficha-tecnica-precio-oficial.webp",
         alt: "BMW CE 04 2025, scooter eléctrico en ciudad",

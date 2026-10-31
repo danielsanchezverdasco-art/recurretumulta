@@ -57,7 +57,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/royal-enfield-interceptor-650-2025-ficha-tecnica-precio-hero.webp", alt: "Royal Enfield Interceptor 650 (foto: Andrzej Otrębski / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 933 },
+      { src: "/media/motos/royal-enfield-interceptor-650-2025-ficha-tecnica-precio-hero.webp", alt: "Royal Enfield Interceptor 650", ancho: 1400, alto: 933 },
       {
         src: "/media/motos/royal-enfield-interceptor-650-2025-ficha-tecnica-precio-oficial.webp",
         alt: "Royal Enfield Interceptor 650 2025, vista tres cuartos del bicilíndrico",
@@ -129,7 +129,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/royal-enfield-continental-gt-650-2025-ficha-tecnica-precio-hero.webp", alt: "Royal Enfield Continental GT 650 (foto: Kiranpawar3210 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 918, alto: 690 },
+      { src: "/media/motos/royal-enfield-continental-gt-650-2025-ficha-tecnica-precio-hero.webp", alt: "Royal Enfield Continental GT 650", ancho: 918, alto: 690 },
       {
         src: "/media/motos/royal-enfield-continental-gt-650-2025-ficha-tecnica-precio-oficial.webp",
         alt: "Royal Enfield Continental GT 650 2025, café racer en tres cuartos",
@@ -201,7 +201,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/royal-enfield-classic-650-2026-ficha-tecnica-precio-hero.webp", alt: "Royal Enfield Classic 650 (foto: Al*from*Lig / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1100, alto: 825 },
+      { src: "/media/motos/royal-enfield-classic-650-2026-ficha-tecnica-precio-hero.webp", alt: "Royal Enfield Classic 650", ancho: 1100, alto: 825 },
       {
         src: "/media/motos/royal-enfield-classic-650-2026-ficha-tecnica-precio-oficial.webp",
         alt: "Royal Enfield Classic 650 2026, vista lateral clásica con doble escape",
@@ -273,7 +273,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/royal-enfield-himalayan-450-2026-ficha-tecnica-precio-hero.webp", alt: "Royal Enfield Himalayan 450 (foto: MotorideSA / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1050 },
+      { src: "/media/motos/royal-enfield-himalayan-450-2026-ficha-tecnica-precio-hero.webp", alt: "Royal Enfield Himalayan 450", ancho: 1400, alto: 1050 },
       {
         src: "/media/motos/royal-enfield-himalayan-450-2026-ficha-tecnica-precio-oficial.webp",
         alt: "Royal Enfield Himalayan 450 2026, trail en tres cuartos",
@@ -345,16 +345,16 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/royal-enfield-super-meteor-650-2025-ficha-tecnica-precio-hero.webp", alt: "Royal Enfield Super Meteor 650 (foto: iMahesh / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1134, alto: 755 },
+      { src: "/media/motos/royal-enfield-super-meteor-650-2025-ficha-tecnica-precio-hero.webp", alt: "Royal Enfield Super Meteor 650", ancho: 1134, alto: 755 },
       {
         src: "/media/motos/royal-enfield-super-meteor-650-2025-ficha-tecnica-precio-oficial.webp",
         alt: "Royal Enfield Super Meteor 650 2025, cruiser en tres cuartos",
         ancho: 1200,
         alto: 800,
       },
-      { src: "/media/royal-enfield-super-meteor-650-2025-ficha-tecnica-precio-hunt1.webp", alt: "Super Meteor 650 (foto: iMahesh / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1067 },
-      { src: "/media/royal-enfield-super-meteor-650-2025-ficha-tecnica-precio-hunt2.webp", alt: "Super Meteor 650 (foto: iMahesh / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1200, alto: 1800 },
-      { src: "/media/royal-enfield-super-meteor-650-2025-ficha-tecnica-precio-hunt3.webp", alt: "Super Meteor 650 (foto: iMahesh / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1200, alto: 1800 },
+      { src: "/media/royal-enfield-super-meteor-650-2025-ficha-tecnica-precio-hunt1.webp", alt: "Super Meteor 650", ancho: 1600, alto: 1067 },
+      { src: "/media/royal-enfield-super-meteor-650-2025-ficha-tecnica-precio-hunt2.webp", alt: "Super Meteor 650", ancho: 1200, alto: 1800 },
+      { src: "/media/royal-enfield-super-meteor-650-2025-ficha-tecnica-precio-hunt3.webp", alt: "Super Meteor 650", ancho: 1200, alto: 1800 },
     ],
     videoId: null,
     videoCanal: null,

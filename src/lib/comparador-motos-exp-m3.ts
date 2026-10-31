@@ -1458,7 +1458,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     curiosidades: ["Frente a la TRK 502 de carretera, esta variante X cambia el enfoque con radios, escape elevado y rueda grande delante", "La cifra pasa de 213 kg en vacío hasta alcanzar 235 kg cuando está lista para circular", "Convertida en una superventas dentro de Benelli, marca integrada en QJMotor, es la elección viajera habitual entre motoristas con permiso A2", "Esos 20 L de combustible estiran la autonomía más allá de los 400 km si mantienes un ritmo tranquilo"],
     imagen: null,
     galeria: [
-      { src: "/media/motos/benelli-trk-502x-2024-ficha-tecnica-precio-1.webp", alt: "Benelli TRK 502 X (foto: Herodotptlomeu / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1131 },
+      { src: "/media/motos/benelli-trk-502x-2024-ficha-tecnica-precio-1.webp", alt: "Benelli TRK 502 X", ancho: 1400, alto: 1131 },
       {
         src: "/media/motos/benelli-trk-502x-2024-ficha-tecnica-precio-2.webp",
         alt: "Benelli TRK 502 X 2024, vista lateral adventure",
@@ -2265,7 +2265,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/rieju-aventura-500-2024-ficha-tecnica-precio-1.webp", alt: "Rieju Aventura 500 (foto: ADVrache155 / Wikimedia Commons, licencia CC BY 4.0)", ancho: 1400, alto: 1011 },
+      { src: "/media/motos/rieju-aventura-500-2024-ficha-tecnica-precio-1.webp", alt: "Rieju Aventura 500", ancho: 1400, alto: 1011 },
       {
         src: "/media/motos/rieju-aventura-500-2024-ficha-tecnica-precio-3.webp",
         alt: "Rieju Aventura 500 2024 en ruta de viaje",

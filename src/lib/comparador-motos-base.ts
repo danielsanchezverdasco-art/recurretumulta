@@ -199,7 +199,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/vespa-elettrica-ficha-tecnica-precio-oficial.webp", alt: "Vespa Elettrica (foto: AVMOTO / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1440, alto: 1080 },
+      { src: "/media/vespa-elettrica-ficha-tecnica-precio-oficial.webp", alt: "Vespa Elettrica", ancho: 1440, alto: 1080 },
       
       {
         src: "/media/vespa-elettrica-ficha-tecnica-precio-oficial-3.webp",
@@ -540,7 +540,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/zero-fxe-ficha-tecnica-precio-oficial.webp", alt: "Zero FXE (foto: Matti Blume / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1050 },
+      { src: "/media/zero-fxe-ficha-tecnica-precio-oficial.webp", alt: "Zero FXE", ancho: 1400, alto: 1050 },
       {
         src: "/media/zero-fxe-ficha-tecnica-precio-oficial-2.webp",
         alt: "Zero FXE, vista frontal",
@@ -2436,7 +2436,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/suzuki-v-strom-800de-2024-ficha-tecnica-precio.webp", alt: "Suzuki V-Strom 800DE (foto: GIM - Giri in Moto / Wikimedia Commons, licencia CC BY 3.0)", ancho: 1400, alto: 934 },
+      { src: "/media/motos/suzuki-v-strom-800de-2024-ficha-tecnica-precio.webp", alt: "Suzuki V-Strom 800DE", ancho: 1400, alto: 934 },
     ],
     videoId: "v8QuV9VKrKs",
     videoCanal: "autoX",
@@ -4847,7 +4847,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/bmw-r-1300-gs-2024-ficha-tecnica-precio.webp", alt: "BMW Motorrad R 1300 GS (foto: Corvettec6r / Wikimedia Commons, licencia CC BY 4.0)", ancho: 1400, alto: 1589 },
+      { src: "/media/motos/bmw-r-1300-gs-2024-ficha-tecnica-precio.webp", alt: "BMW Motorrad R 1300 GS", ancho: 1400, alto: 1589 },
     ],
     videoId: "FUYXSsNr0u0",
     videoCanal: "Motorbike Magazine",

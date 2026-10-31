@@ -95,7 +95,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/ktm-390-adventure-r-2025-ficha-tecnica-precio-1.webp", alt: "KTM 390 Adventure (generación 2024) (foto: KTM AG / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 918, alto: 629 },
+      { src: "/media/motos/ktm-390-adventure-r-2025-ficha-tecnica-precio-1.webp", alt: "KTM 390 Adventure (generación 2024)", ancho: 918, alto: 629 },
       { src: "/media/motos/ktm-390-adventure-r-2025-ficha-tecnica-precio-2.webp", alt: "KTM 390 Adventure R 2025, vista lateral con maletas de aventura", ancho: 1200, alto: 800 },
       { src: "/media/motos/ktm-390-adventure-r-2025-ficha-tecnica-precio-3.webp", alt: "KTM 390 Adventure R 2025 en una pista de tierra", ancho: 1200, alto: 800 },
       { src: "/media/ktm-390-adventure-r-2025-ficha-tecnica-precio-hunt1.webp", alt: "390 Adventure R (foto: KTM (prensa oficial) / Cycle News, licencia desconocida)", ancho: 1000, alto: 667 },
@@ -642,8 +642,8 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     galeria: [
       { src: "/media/motos/bmw-f-900-gs-2024-ficha-tecnica-precio-2.webp", alt: "BMW F 900 GS 2024, vista lateral con rueda de 21 pulgadas", ancho: 1200, alto: 800 },
       { src: "/media/motos/bmw-f-900-gs-2024-ficha-tecnica-precio-3.webp", alt: "BMW F 900 GS 2024 en pista de tierra", ancho: 1200, alto: 800 },
-      { src: "/media/bmw-f-900-gs-2024-ficha-tecnica-precio-hunt1.webp", alt: "F 900 GS (foto: Wikisympathisant / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1066 },
-      { src: "/media/bmw-f-900-gs-2024-ficha-tecnica-precio-hunt2.webp", alt: "F 900 GS (foto: Wikisympathisant / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1599 },
+      { src: "/media/bmw-f-900-gs-2024-ficha-tecnica-precio-hunt1.webp", alt: "F 900 GS", ancho: 1600, alto: 1066 },
+      { src: "/media/bmw-f-900-gs-2024-ficha-tecnica-precio-hunt2.webp", alt: "F 900 GS", ancho: 1600, alto: 1599 },
       { src: "/media/bmw-f-900-gs-2024-ficha-tecnica-precio-hunt3.webp", alt: "F 900 GS (foto: BMW Motorrad (prensa) vía Total Motorcycle, licencia desconocida)", ancho: 1200, alto: 800 },
     ],
     videoId: "u_oP-z9fgw8",
@@ -762,12 +762,12 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/bmw-r-18-2024-ficha-tecnica-precio-1.webp", alt: "BMW Motorrad R 18 (foto: AVMOTO / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1344 },
+      { src: "/media/motos/bmw-r-18-2024-ficha-tecnica-precio-1.webp", alt: "BMW Motorrad R 18", ancho: 1400, alto: 1344 },
       { src: "/media/motos/bmw-r-18-2024-ficha-tecnica-precio-2.webp", alt: "BMW R 18 2024, vista lateral con el motor bóxer visto", ancho: 1200, alto: 800 },
       { src: "/media/motos/bmw-r-18-2024-ficha-tecnica-precio-3.webp", alt: "BMW R 18 2024 en una carretera costera", ancho: 1200, alto: 800 },
       { src: "/media/bmw-r-18-2024-ficha-tecnica-precio-hunt1.webp", alt: "R 18 (foto: BMW Group PressClub (prensa oficial BMW Motorrad, MY 2024), licencia desconocida)", ancho: 2121, alto: 1500 },
       { src: "/media/bmw-r-18-2024-ficha-tecnica-precio-hunt2.webp", alt: "R 18 (foto: BMW Group PressClub (prensa oficial BMW Motorrad, MY 2024), licencia desconocida)", ancho: 2121, alto: 1500 },
-      { src: "/media/bmw-r-18-2024-ficha-tecnica-precio-hunt3.webp", alt: "R 18 (foto: Bullenwächter / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1280, alto: 864 },
+      { src: "/media/bmw-r-18-2024-ficha-tecnica-precio-hunt3.webp", alt: "R 18", ancho: 1280, alto: 864 },
     ],
     videoId: "pJiazG2bEEs",
     videoCanal: "Todocircuito.com",
@@ -884,7 +884,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/bmw-r-12-2024-ficha-tecnica-precio-1.webp", alt: "BMW Motorrad R 12 (foto: Franken-Guzzista / Wikimedia Commons, licencia CC0)", ancho: 1400, alto: 1050 },
+      { src: "/media/motos/bmw-r-12-2024-ficha-tecnica-precio-1.webp", alt: "BMW Motorrad R 12", ancho: 1400, alto: 1050 },
       { src: "/media/motos/bmw-r-12-2024-ficha-tecnica-precio-2.webp", alt: "BMW R 12 2024, vista lateral cruiser", ancho: 1200, alto: 800 },
       { src: "/media/motos/bmw-r-12-2024-ficha-tecnica-precio-3.webp", alt: "BMW R 12 2024 en una avenida urbana", ancho: 1200, alto: 800 },
       { src: "/media/bmw-r-12-2024-ficha-tecnica-precio-hunt1.webp", alt: "R 12 (foto: Ultimate Motorcycling (foto de prensa BMW Motorrad), licencia desconocida)", ancho: 1620, alto: 1080 },
@@ -2279,7 +2279,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/moto-guzzi-v9-bobber-2024-ficha-tecnica-precio-1.webp", alt: "Moto Guzzi V9 Bobber (foto: Corvettec6r / Wikimedia Commons, licencia CC BY 4.0)", ancho: 1400, alto: 1251 },
+      { src: "/media/motos/moto-guzzi-v9-bobber-2024-ficha-tecnica-precio-1.webp", alt: "Moto Guzzi V9 Bobber", ancho: 1400, alto: 1251 },
       { src: "/media/motos/moto-guzzi-v9-bobber-2024-ficha-tecnica-precio-2.webp", alt: "Moto Guzzi V9 Bobber 2024, vista lateral", ancho: 1200, alto: 800 },
       { src: "/media/motos/moto-guzzi-v9-bobber-2024-ficha-tecnica-precio-3.webp", alt: "Moto Guzzi V9 Bobber 2024 en carretera", ancho: 1200, alto: 800 },
       { src: "/media/moto-guzzi-v9-bobber-2024-ficha-tecnica-precio-hunt1.webp", alt: "V9 Bobber (foto: CrazyWheels.it — prueba Moto Guzzi V9 Bobber 2024, licencia desconocida)", ancho: 831, alto: 525 },
@@ -2406,7 +2406,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/moto-morini-calibro-700-2024-ficha-tecnica-precio-1.webp", alt: "Moto Morini Calibro 700 (foto: MotorideSA / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1234, alto: 1052 },
+      { src: "/media/motos/moto-morini-calibro-700-2024-ficha-tecnica-precio-1.webp", alt: "Moto Morini Calibro 700", ancho: 1234, alto: 1052 },
       { src: "/media/motos/moto-morini-calibro-700-2024-ficha-tecnica-precio-2.webp", alt: "Moto Morini Calibro 700 2024, vista lateral", ancho: 1200, alto: 800 },
       { src: "/media/fotos-reales/moto-morini-calibro-700-2024-ficha-tecnica-precio/moto-morini-calibro-700-2024-ficha-tecnica-precio-real-3.webp", alt: "Moto Morini Calibro 700 2024 en carretera", ancho: 1200, alto: 800 },
       { src: "/media/moto-morini-calibro-700-2024-ficha-tecnica-precio-hunt1.webp", alt: "Calibro 700 (foto: Ultimate Motorcycling / Moto Morini (prensa oficial), licencia desconocida)", ancho: 696, alto: 464 },
@@ -2529,7 +2529,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/bimota-tesi-h2-2024-ficha-tecnica-precio-1.webp", alt: "Bimota Tesi H2 (foto: Matthb1395 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1210 },
+      { src: "/media/motos/bimota-tesi-h2-2024-ficha-tecnica-precio-1.webp", alt: "Bimota Tesi H2", ancho: 1400, alto: 1210 },
       { src: "/media/motos/bimota-tesi-h2-2024-ficha-tecnica-precio-2.webp", alt: "Bimota Tesi H2 2024, vista lateral", ancho: 1200, alto: 800 },
       { src: "/media/motos/bimota-tesi-h2-2024-ficha-tecnica-precio-3.webp", alt: "Bimota Tesi H2 2024 en circuito", ancho: 1200, alto: 800 },
       { src: "/media/bimota-tesi-h2-2024-ficha-tecnica-precio-hunt1.webp", alt: "Tesi H2 (foto: Bimota (foto de prensa) vía RevZilla, licencia desconocida)", ancho: 1000, alto: 733 },

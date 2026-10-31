@@ -678,8 +678,8 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
         alto: 684,
       },
       { src: "/media/italjet-dragster-125-2026-ficha-tecnica-precio-hunt1.webp", alt: "Inspección anual recomendada (foto: Canariasenmoto.com (prueba del Italjet Dragster 125, unidad de Más Que Motos Tenerife), licencia desconocida)", ancho: 1500, alto: 1001 },
-      { src: "/media/italjet-dragster-125-2026-ficha-tecnica-precio-hunt2.webp", alt: "Inspección anual recomendada (foto: MotorideSA / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 960, alto: 720 },
-      { src: "/media/italjet-dragster-125-2026-ficha-tecnica-precio-hunt3.webp", alt: "Inspección anual recomendada (foto: Kawasaki ninja 400 / Wikimedia Commons, licencia CC0)", ancho: 1280, alto: 1088 },
+      { src: "/media/italjet-dragster-125-2026-ficha-tecnica-precio-hunt2.webp", alt: "Inspección anual recomendada", ancho: 960, alto: 720 },
+      { src: "/media/italjet-dragster-125-2026-ficha-tecnica-precio-hunt3.webp", alt: "Inspección anual recomendada", ancho: 1280, alto: 1088 },
     ],
     videoId: "Vce_QQ0DDis",
     videoCanal: "Motosx1000",
@@ -1333,7 +1333,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/silence-s01-plus-2026-ficha-tecnica-precio-oficial.webp", alt: "Silence S01+ (foto: Herodotptlomeu / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 999 },
+      { src: "/media/motos/silence-s01-plus-2026-ficha-tecnica-precio-oficial.webp", alt: "Silence S01+", ancho: 1400, alto: 999 },
       {
         src: "/media/motos/silence-s01-plus-2026-ficha-tecnica-precio-oficial-2.webp",
         alt: "Silence S01+ 2026, vista frontal tres cuartos",

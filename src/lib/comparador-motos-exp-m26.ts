@@ -1635,7 +1635,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       }, // DIMS zontes-125m-2025-ficha-tecnica-precio-oficial-3.webp,
       { src: "/media/zontes-125m-2025-ficha-tecnica-precio-hunt1.webp", alt: "Revisión cada 6.000 km (foto: Zontes España (web oficial), licencia desconocida)", ancho: 918, alto: 629 },
       { src: "/media/zontes-125m-2025-ficha-tecnica-precio-hunt2.webp", alt: "Revisión cada 6.000 km (foto: Zontes España (web oficial), licencia desconocida)", ancho: 600, alto: 600 },
-      { src: "/media/zontes-125m-2025-ficha-tecnica-precio-hunt3.webp", alt: "Revisión cada 6.000 km (foto: Estevoaei / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1100, alto: 825 },
+      { src: "/media/zontes-125m-2025-ficha-tecnica-precio-hunt3.webp", alt: "Revisión cada 6.000 km", ancho: 1100, alto: 825 },
     ],
     videoId: null,
     videoCanal: null,

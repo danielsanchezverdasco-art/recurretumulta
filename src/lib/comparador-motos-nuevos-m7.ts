@@ -5210,7 +5210,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/royal-enfield-himalayan-450-2024-ficha-tecnica-precio-oficial.webp", alt: "Royal Enfield Himalayan 450 (foto: Rouv1505 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1020, alto: 730 },
+      { src: "/media/motos/royal-enfield-himalayan-450-2024-ficha-tecnica-precio-oficial.webp", alt: "Royal Enfield Himalayan 450", ancho: 1020, alto: 730 },
       {
         src: "/media/motos/royal-enfield-himalayan-450-2024-ficha-tecnica-precio-oficial-2.webp",
         alt: "Royal Enfield Himalayan 450 2024 negra y amarilla",
@@ -5477,7 +5477,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/swm-superdual-650-2025-ficha-tecnica-precio-oficial.webp", alt: "SWM Motorcycles Superdual 650 (foto: AVMOTO / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1034, alto: 1269 },
+      { src: "/media/motos/swm-superdual-650-2025-ficha-tecnica-precio-oficial.webp", alt: "SWM Motorcycles Superdual 650", ancho: 1034, alto: 1269 },
       {
         src: "/media/motos/swm-superdual-650-2025-ficha-tecnica-precio-oficial-2.webp",
         alt: "SWM Superdual 650 X 2025 roja con maleta",
@@ -5896,7 +5896,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/indian-chieftain-powerplus-dark-horse-2025-ficha-tecnica-precio-oficial.webp", alt: "Indian Motorcycle Chieftain PowerPlus Dark Horse (foto: Chris Woodrich / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1082 },
+      { src: "/media/motos/indian-chieftain-powerplus-dark-horse-2025-ficha-tecnica-precio-oficial.webp", alt: "Indian Motorcycle Chieftain PowerPlus Dark Horse", ancho: 1400, alto: 1082 },
       {
         src: "/media/motos/indian-chieftain-powerplus-dark-horse-2025-ficha-tecnica-precio-oficial-2.webp",
         alt: "Indian Chieftain PowerPlus Dark Horse 2025 en negro con piloto",
@@ -5979,7 +5979,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/bmw-k-1600-gtl-2025-ficha-tecnica-precio-oficial.webp", alt: "BMW Motorrad K 1600 GTL (foto: Cjp24 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1134, alto: 1009 },
+      { src: "/media/motos/bmw-k-1600-gtl-2025-ficha-tecnica-precio-oficial.webp", alt: "BMW Motorrad K 1600 GTL", ancho: 1134, alto: 1009 },
       {
         src: "/media/motos/bmw-k-1600-gtl-2025-ficha-tecnica-precio-oficial-2.webp",
         alt: "BMW K 1600 GTL 2025 en negro, vista lateral con top case",
@@ -6329,7 +6329,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
         ancho: 1024,
         alto: 768,
       },
-      { src: "/media/honda-rebel-1100-2026-ficha-tecnica-precio-hunt1.webp", alt: "Revisión 12.000 km / anual (foto: MotorideSA / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1200 },
+      { src: "/media/honda-rebel-1100-2026-ficha-tecnica-precio-hunt1.webp", alt: "Revisión 12.000 km / anual", ancho: 1600, alto: 1200 },
       { src: "/media/honda-rebel-1100-2026-ficha-tecnica-precio-hunt2.webp", alt: "Revisión 12.000 km / anual (foto: RuinDig (Yuji Shibasaki) / Wikimedia Commons, licencia CC BY 4.0)", ancho: 1600, alto: 1200 },
       { src: "/media/honda-rebel-1100-2026-ficha-tecnica-precio-hunt3.webp", alt: "Revisión 12.000 km / anual (foto: RuinDig (Yuji Shibasaki) / Wikimedia Commons, licencia CC BY 4.0)", ancho: 1600, alto: 1200 },
     ],
@@ -6826,9 +6826,9 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
         ancho: 992,
         alto: 661,
       },
-      { src: "/media/honda-cb1000-gt-2026-ficha-tecnica-precio-hunt1.webp", alt: "Revisión 12.000 km / anual (foto: MotorideSA / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1920, alto: 1446 },
-      { src: "/media/honda-cb1000-gt-2026-ficha-tecnica-precio-hunt2.webp", alt: "Revisión 12.000 km / anual (foto: Chanokchon / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1920, alto: 1920 },
-      { src: "/media/honda-cb1000-gt-2026-ficha-tecnica-precio-hunt3.webp", alt: "Revisión 12.000 km / anual (foto: BRNO1991 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1239, alto: 1153 },
+      { src: "/media/honda-cb1000-gt-2026-ficha-tecnica-precio-hunt1.webp", alt: "Revisión 12.000 km / anual", ancho: 1920, alto: 1446 },
+      { src: "/media/honda-cb1000-gt-2026-ficha-tecnica-precio-hunt2.webp", alt: "Revisión 12.000 km / anual", ancho: 1920, alto: 1920 },
+      { src: "/media/honda-cb1000-gt-2026-ficha-tecnica-precio-hunt3.webp", alt: "Revisión 12.000 km / anual", ancho: 1239, alto: 1153 },
     ],
     videoId: "f41WpuSMTsw",
     videoCanal: "Honda",

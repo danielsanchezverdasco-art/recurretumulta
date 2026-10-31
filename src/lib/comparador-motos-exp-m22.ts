@@ -49,7 +49,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/ducati-panigale-v4-s-2025-ficha-tecnica-precio-hero.webp", alt: "Ducati Panigale V4 S (foto: TaurusEmerald / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1070 },
+      { src: "/media/motos/ducati-panigale-v4-s-2025-ficha-tecnica-precio-hero.webp", alt: "Ducati Panigale V4 S", ancho: 1400, alto: 1070 },
       {
         src: "/media/motos/ducati-panigale-v4-s-2025-ficha-tecnica-precio-oficial.webp",
         alt: "Ducati Panigale V4 S 2025, superbike roja en tres cuartos",
@@ -192,7 +192,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/ducati-monster-2025-ficha-tecnica-precio-hero.webp", alt: "Ducati Monster (foto: AnotherLocalAuthor / Wikimedia Commons, licencia CC0)", ancho: 1020, alto: 765 },
+      { src: "/media/motos/ducati-monster-2025-ficha-tecnica-precio-hero.webp", alt: "Ducati Monster", ancho: 1020, alto: 765 },
       {
         src: "/media/motos/ducati-monster-2025-ficha-tecnica-precio-oficial.webp",
         alt: "Ducati Monster 2025, naked italiana en tres cuartos",
@@ -406,7 +406,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/ducati-scrambler-icon-800-2025-ficha-tecnica-precio-hero.webp", alt: "Ducati Scrambler Icon 800 (foto: MotorideSA / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1132 },
+      { src: "/media/motos/ducati-scrambler-icon-800-2025-ficha-tecnica-precio-hero.webp", alt: "Ducati Scrambler Icon 800", ancho: 1400, alto: 1132 },
       {
         src: "/media/motos/ducati-scrambler-icon-800-2025-ficha-tecnica-precio-oficial.webp",
         alt: "Ducati Scrambler Icon 800 2025 amarilla en tres cuartos",
@@ -478,7 +478,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/ducati-diavel-v4-2025-ficha-tecnica-precio-hero.webp", alt: "Ducati Diavel V4 (foto: XDVRACE / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1050 },
+      { src: "/media/motos/ducati-diavel-v4-2025-ficha-tecnica-precio-hero.webp", alt: "Ducati Diavel V4", ancho: 1400, alto: 1050 },
       {
         src: "/media/motos/ducati-diavel-v4-2025-ficha-tecnica-precio-oficial.webp",
         alt: "Ducati Diavel V4 2025 negra, muscle cruiser en tres cuartos",
@@ -551,7 +551,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/triumph-street-triple-765-2025-ficha-tecnica-precio-hero.webp", alt: "Triumph Street Triple 765 (foto: Darktiger0512 / Wikimedia Commons, licencia CC BY 4.0)", ancho: 826, alto: 1101 },
+      { src: "/media/motos/triumph-street-triple-765-2025-ficha-tecnica-precio-hero.webp", alt: "Triumph Street Triple 765", ancho: 826, alto: 1101 },
       {
         src: "/media/motos/triumph-street-triple-765-2025-ficha-tecnica-precio-oficial.webp",
         alt: "Triumph Street Triple 765 2025, naked tricilíndrica en tres cuartos",
@@ -765,7 +765,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
-      { src: "/media/motos/triumph-scrambler-900-2025-ficha-tecnica-precio-hero.webp", alt: "Triumph Scrambler 900 (foto: MotorideSA / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1114 },
+      { src: "/media/motos/triumph-scrambler-900-2025-ficha-tecnica-precio-hero.webp", alt: "Triumph Scrambler 900", ancho: 1400, alto: 1114 },
       {
         src: "/media/motos/triumph-scrambler-900-2025-ficha-tecnica-precio-oficial.webp",
         alt: "Triumph Scrambler 900 2025 con escape alto en tres cuartos",
@@ -1337,9 +1337,9 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
         ancho: 1200,
         alto: 800,
       },
-      { src: "/media/aprilia-sx-125-2025-ficha-tecnica-precio-hunt1.webp", alt: "SX 125 (foto: MotorideSA / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1065, alto: 1600 },
-      { src: "/media/aprilia-sx-125-2025-ficha-tecnica-precio-hunt2.webp", alt: "SX 125 (foto: MotorideSA / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 900, alto: 1600 },
-      { src: "/media/aprilia-sx-125-2025-ficha-tecnica-precio-hunt3.webp", alt: "SX 125 (foto: MotorideSA / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 900, alto: 1600 },
+      { src: "/media/aprilia-sx-125-2025-ficha-tecnica-precio-hunt1.webp", alt: "SX 125", ancho: 1065, alto: 1600 },
+      { src: "/media/aprilia-sx-125-2025-ficha-tecnica-precio-hunt2.webp", alt: "SX 125", ancho: 900, alto: 1600 },
+      { src: "/media/aprilia-sx-125-2025-ficha-tecnica-precio-hunt3.webp", alt: "SX 125", ancho: 900, alto: 1600 },
     ],
     videoId: null,
     videoCanal: null,
