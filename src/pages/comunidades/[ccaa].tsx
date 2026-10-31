@@ -26,8 +26,8 @@ const MULTAS_COMUNES: [string, string, string][] = [
   ["Sujetar el móvil con la mano al conducir", "200 €", "6"],
   ["No usar cinturón, casco u otro elemento de protección obligatorio", "200 €", "4"],
   ["No respetar la luz roja de un semáforo", "200 €", "4"],
-  ["Alcohol: más de 0,25 y hasta 0,50 mg/l en aire espirado (población general)", "500 €", "4"],
-  ["Alcohol: más de 0,50 mg/l en aire espirado (población general)", "1.000 €", "6"],
+  ["Alcohol, conductores en general: más de 0,25 y hasta 0,50 mg/l en aire espirado", "500 €", "4"],
+  ["Alcohol, conductores en general: más de 0,50 mg/l en aire espirado", "1.000 €", "6"],
   ["Parar o estacionar en un lugar peligroso o que obstaculice gravemente", "200 €", "0"],
   ["Infracciones relativas a la inspección técnica de vehículos", "200 €", "0"],
 ];
@@ -339,7 +339,7 @@ export default function ComunidadPage() {
                 </div>
                 <p className="text-xs text-gray-600 leading-relaxed">
                   {c.organismo === "DGT" && (
-                    <>En {c.nombre} las multas interurbanas las tramita la Dirección General de Tráfico. El recurso de reposición se presenta ante el órgano que dictó la resolución, que es quien lo resuelve (art. 96.2 del texto refundido de la Ley de Tráfico), también por vía electrónica en la sede de la DGT.</>
+                    <>En {c.nombre} las multas interurbanas las tramita la Dirección General de Tráfico. La reposición se interpone ante el órgano que dictó la resolución, que es quien la resuelve (art. 96.2 del texto refundido de la Ley de Tráfico), también por vía electrónica en la sede de la DGT.</>
                   )}
                   {c.organismo === "SCT" && (
                     <>Cataluña tiene competencia propia en tráfico. El Servei Català de Trànsit tramita las sanciones en vías interurbanas catalanas y los Mossos d'Esquadra ejercen como policía de tráfico. Los recursos se presentan ante el Servei Català de Trànsit, no ante la DGT.</>
@@ -382,7 +382,7 @@ export default function ComunidadPage() {
                       </li>
                     ))}
                   </ul>
-                  <p className="text-xs text-amber-700">Cada ayuntamiento define en su ordenanza el perímetro, los horarios y la fecha desde la que sanciona, y las restricciones dependen de la etiqueta ambiental del vehículo (definición de la Ley 7/2021 que recoge el Ministerio para la Transición Ecológica). Los municipios listados constan en el Punto de Acceso Nacional de la DGT según la consulta del 31/10/2026; el listado no pretende ser exhaustivo.</p>
+                  <p className="text-xs text-amber-700">Cada ayuntamiento define en su ordenanza el perímetro, los horarios y la fecha desde la que sanciona, y las restricciones dependen de la etiqueta ambiental del vehículo (definición de la Ley 7/2021 que recoge el Ministerio para la Transición Ecológica). Los municipios listados figuran en el NAP de la DGT según la consulta del 31/10/2026; el listado no pretende ser exhaustivo.</p>
                 </CardContent>
               </Card>
             </div>

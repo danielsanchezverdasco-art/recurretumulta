@@ -73,10 +73,11 @@ function respuestaOrganismo(c: Omit<Comunidad, "faq">): { pregunta: string; resp
 
 function faqComun(c: Omit<Comunidad, "faq">): Comunidad["faq"] {
   const n = c.nombre;
-  const zbeResp =
+  const listado =
     c.zbe.length > 0
-      ? `La multa por entrar en una ZBE la impone el ayuntamiento que la gestiona, y los recursos se dirigen a él. En el Punto de Acceso Nacional de la DGT, a 31/10/2026, constan en ${n}: ${unir(c.zbe)}. Antes de pagar conviene comprobar la etiqueta ambiental del vehículo en el registro de la DGT, la señalización de la zona y el horario que fija la ordenanza municipal.`
-      : `La multa por entrar en una ZBE la impone el ayuntamiento que la gestiona, y los recursos se dirigen a él. A 31/10/2026 ningún municipio de ${n} figura en el conjunto de ZBE del Punto de Acceso Nacional de la DGT; eso no significa que no exista una zona, así que conviene consultar la ordenanza del ayuntamiento. Antes de pagar se comprueban la etiqueta ambiental en el registro de la DGT, la señalización y el horario.`;
+      ? `En el NAP de la DGT, a 31/10/2026, constan en ${n}: ${unir(c.zbe)}.`
+      : `A 31/10/2026 ningún municipio de ${n} figura en el conjunto de ZBE del NAP de la DGT; eso no significa que no exista una zona, así que conviene consultar la ordenanza del ayuntamiento.`;
+  const zbeResp = `La multa por entrar en una ZBE la impone el ayuntamiento que la gestiona, y los recursos se dirigen a él. ${listado} Antes de pagar se comprueban la etiqueta ambiental en el registro de la DGT, la señalización de la zona y el horario que fija la ordenanza.`;
   const extra: Comunidad["faq"] =
     c.organismo === "SCT" || c.organismo === "ERT" || c.organismo === "PF"
       ? [
@@ -134,7 +135,7 @@ const BASE: Omit<Comunidad, "faq">[] = [
     provincias: ["sevilla", "malaga", "cordoba", "granada", "cadiz", "huelva", "jaen", "almeria"],
     capital: "Sevilla",
     foto: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp",
-    descripcion: `${"Andalucía agrupa ocho provincias (Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga y Sevilla) y tiene su capital en Sevilla. Sus carreteras interurbanas las sanciona la DGT; las vías urbanas, cada ayuntamiento."} ${radares("Andalucía", 148, [["A-7", 13], ["A-4", 12], ["A-92", 10], ["A-45", 7], ["SE-30", 6]], "Sevilla (30), Málaga (28) y Cádiz (20)")}`,
+    descripcion: `${"Andalucía agrupa ocho provincias (Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga y Sevilla) y tiene su capital en Sevilla."} ${radares("Andalucía", 148, [["A-7", 13], ["A-4", 12], ["A-92", 10], ["A-45", 7], ["SE-30", 6]], "Sevilla (30), Málaga (28) y Cádiz (20)")}`,
     particularidades: ["Sevilla tiene dos zonas de bajas emisiones en la Isla de la Cartuja, Cartuja Norte y Cartuja Sur, aprobadas por la Resolución 8441 de 30/09/2022 y publicadas en el BOP de Sevilla núm. 245 de 22/10/2022. El régimen general rige de lunes a viernes no festivos, de 7:00 a 19:00 (fuente: Ayuntamiento de Sevilla)."],
     zbe: ["Sevilla (Isla de la Cartuja)", "Málaga", "Granada", "Torremolinos", "Dos Hermanas", "Motril"],
     keywords: ["multas de tráfico en Andalucía", "cómo recurrir una multa en Andalucía", "recurso multa DGT Andalucía", "multa velocidad A-4 recurso", "zona bajas emisiones Sevilla multa", "dónde recurrir multa Andalucía 2026"],
@@ -148,7 +149,7 @@ const BASE: Omit<Comunidad, "faq">[] = [
     provincias: ["zaragoza", "teruel", "huesca"],
     capital: "Zaragoza",
     foto: "/media/cuanto-tarda-en-llegar-una-multa-de-radar.webp",
-    descripcion: `${"Aragón reúne tres provincias (Huesca, Teruel y Zaragoza), con capital en Zaragoza. La DGT sanciona en sus carreteras interurbanas y los ayuntamientos en sus calles."} ${radares("Aragón", 57, [["N-330", 9], ["A-2", 6], ["A-68", 6], ["N-240", 4], ["N-232", 4]], "Zaragoza (27), Huesca (21) y Teruel (9)")}`,
+    descripcion: `${"Aragón reúne tres provincias (Huesca, Teruel y Zaragoza), con capital en Zaragoza."} ${radares("Aragón", 57, [["N-330", 9], ["A-2", 6], ["A-68", 6], ["N-240", 4], ["N-232", 4]], "Zaragoza (27), Huesca (21) y Teruel (9)")}`,
     particularidades: [],
     zbe: [],
     keywords: ["multas de tráfico en Aragón", "cómo recurrir una multa en Aragón", "recurso multa DGT Aragón", "multa radar A-2 Zaragoza recurso", "zona bajas emisiones Zaragoza multa"],
@@ -176,8 +177,8 @@ const BASE: Omit<Comunidad, "faq">[] = [
     provincias: ["palma-mallorca"],
     capital: "Palma",
     foto: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp",
-    descripcion: `${"Illes Balears es una comunidad uniprovincial con capital en Palma. Las multas de sus carreteras interurbanas las sanciona la DGT; las de las calles, cada ayuntamiento."} ${radares("Baleares", 29, [["Me-1", 4], ["Ma-1", 3], ["EI-700", 3], ["Ma-13", 3]], undefined)}`,
-    particularidades: ["La ZBE de Palma consta en el Punto de Acceso Nacional de la DGT: su ordenanza se publicó en el BOIB núm. 167 de 21/12/2024 y la restricción rige todos los días a todas horas (artículo 7 y anexo 2)."],
+    descripcion: `${"Illes Balears es una comunidad uniprovincial con capital en Palma."} ${radares("Baleares", 29, [["Me-1", 4], ["Ma-1", 3], ["EI-700", 3], ["Ma-13", 3]], undefined)}`,
+    particularidades: ["La ZBE de Palma aparece en ese conjunto de datos: su ordenanza se publicó en el BOIB núm. 167 de 21/12/2024 y la restricción rige todos los días a todas horas (artículo 7 y anexo 2)."],
     zbe: ["Palma"],
     keywords: ["multas de tráfico en Baleares", "cómo recurrir una multa en Mallorca", "recurso multa DGT Baleares", "zona bajas emisiones Palma multa"],
   },
@@ -190,7 +191,7 @@ const BASE: Omit<Comunidad, "faq">[] = [
     provincias: ["las-palmas", "santa-cruz-tenerife"],
     capital: "Las Palmas de Gran Canaria / Santa Cruz de Tenerife",
     foto: "/media/carta-multa-radar-buzon-cuerpo.webp",
-    descripcion: `${"Canarias tiene dos provincias, Las Palmas y Santa Cruz de Tenerife, con redes viarias en islas distintas. La DGT sanciona en sus carreteras interurbanas y los ayuntamientos en sus calles."} ${radares("Canarias", 17, [["GC-1", 5], ["TF-13", 2], ["TF-1", 2], ["FV-2", 2], ["GC-3", 2]], "Las Palmas (11) y Santa Cruz de Tenerife (6)")}`,
+    descripcion: `${"Canarias tiene dos provincias, Las Palmas y Santa Cruz de Tenerife, con redes viarias en islas distintas."} ${radares("Canarias", 17, [["GC-1", 5], ["TF-13", 2], ["TF-1", 2], ["FV-2", 2], ["GC-3", 2]], "Las Palmas (11) y Santa Cruz de Tenerife (6)")}`,
     particularidades: [],
     zbe: [],
     keywords: ["multas de tráfico en Canarias", "cómo recurrir una multa en Canarias", "recurso multa DGT Canarias", "multa TF-1 radar recurso"],
@@ -204,7 +205,7 @@ const BASE: Omit<Comunidad, "faq">[] = [
     provincias: ["santander"],
     capital: "Santander",
     foto: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp",
-    descripcion: `${"Cantabria es una comunidad uniprovincial con capital en Santander. Las multas de sus carreteras interurbanas las sanciona la DGT y las de las calles, cada ayuntamiento."} ${radares("Cantabria", 10, [["A-67", 4], ["A-8", 4], ["S-10", 2]], undefined)}`,
+    descripcion: `${"Cantabria es una comunidad uniprovincial con capital en Santander."} ${radares("Cantabria", 10, [["A-67", 4], ["A-8", 4], ["S-10", 2]], undefined)}`,
     particularidades: [],
     zbe: [],
     keywords: ["multas de tráfico en Cantabria", "cómo recurrir una multa en Cantabria", "recurso multa DGT Cantabria", "multa A-8 radar recurso"],
@@ -218,7 +219,7 @@ const BASE: Omit<Comunidad, "faq">[] = [
     provincias: ["toledo", "ciudad-real", "cuenca", "guadalajara", "albacete"],
     capital: "Toledo",
     foto: "/media/cuanto-tarda-en-llegar-una-multa-de-radar.webp",
-    descripcion: `${"Castilla-La Mancha reúne cinco provincias (Albacete, Ciudad Real, Cuenca, Guadalajara y Toledo), con capital en Toledo. La DGT sanciona en sus carreteras interurbanas y los ayuntamientos en sus calles."} ${radares("Castilla-La Mancha", 64, [["A-4", 8], ["N-320", 7], ["N-401", 4], ["A-42", 4], ["A-2", 4]], "Toledo (19), Ciudad Real (13) y Guadalajara (13)")}`,
+    descripcion: `${"Castilla-La Mancha reúne cinco provincias (Albacete, Ciudad Real, Cuenca, Guadalajara y Toledo), con capital en Toledo."} ${radares("Castilla-La Mancha", 64, [["A-4", 8], ["N-320", 7], ["N-401", 4], ["A-42", 4], ["A-2", 4]], "Toledo (19), Ciudad Real (13) y Guadalajara (13)")}`,
     particularidades: [],
     zbe: [],
     keywords: ["multas de tráfico en Castilla-La Mancha", "cómo recurrir una multa en Castilla-La Mancha", "recurso multa DGT Castilla-La Mancha", "multa radar A-4 recurso"],
@@ -232,7 +233,7 @@ const BASE: Omit<Comunidad, "faq">[] = [
     provincias: ["valladolid", "burgos", "leon", "salamanca", "zamora", "palencia", "avila", "segovia", "soria"],
     capital: "Valladolid",
     foto: "/media/carta-multa-radar-buzon-cuerpo.webp",
-    descripcion: `${"Castilla y León es la comunidad más extensa de España por superficie y reúne nueve provincias: Ávila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid y Zamora. La DGT sanciona en sus carreteras interurbanas y los ayuntamientos en sus calles."} ${radares("Castilla y León", 86, [["A-6", 10], ["A-62", 9], ["A-1", 5], ["AP-6", 4], ["N-122", 4]], "Burgos (16), León (14) y Valladolid (10)")}`,
+    descripcion: `${"Castilla y León es la comunidad más extensa de España por superficie y reúne nueve provincias: Ávila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid y Zamora."} ${radares("Castilla y León", 86, [["A-6", 10], ["A-62", 9], ["A-1", 5], ["AP-6", 4], ["N-122", 4]], "Burgos (16), León (14) y Valladolid (10)")}`,
     particularidades: [],
     zbe: ["Valladolid", "Salamanca", "Ávila"],
     keywords: ["multas de tráfico en Castilla y León", "cómo recurrir una multa en Castilla y León", "recurso multa DGT Castilla y León", "multa radar A-6 recurso"],
@@ -260,7 +261,7 @@ const BASE: Omit<Comunidad, "faq">[] = [
     provincias: ["badajoz", "caceres"],
     capital: "Mérida",
     foto: "/media/cuanto-tarda-en-llegar-una-multa-de-radar.webp",
-    descripcion: `${"Extremadura tiene dos provincias, Badajoz y Cáceres, y su capital es Mérida. La DGT sanciona en sus carreteras interurbanas y los ayuntamientos en sus calles."} ${radares("Extremadura", 20, [["A-5", 5], ["A-66", 3], ["N-432", 2]], "Badajoz (11) y Cáceres (9)")}`,
+    descripcion: `${"Extremadura tiene dos provincias, Badajoz y Cáceres, y su capital es Mérida."} ${radares("Extremadura", 20, [["A-5", 5], ["A-66", 3], ["N-432", 2]], "Badajoz (11) y Cáceres (9)")}`,
     particularidades: [],
     zbe: [],
     keywords: ["multas de tráfico en Extremadura", "cómo recurrir una multa en Extremadura", "recurso multa DGT Extremadura", "multa radar A-5 recurso"],
@@ -274,7 +275,7 @@ const BASE: Omit<Comunidad, "faq">[] = [
     provincias: ["a-coruna", "santiago-compostela", "vigo", "pontevedra", "lugo", "ourense"],
     capital: "Santiago de Compostela",
     foto: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp",
-    descripcion: `${"Galicia reúne cuatro provincias (A Coruña, Lugo, Ourense y Pontevedra), con capital en Santiago de Compostela. La DGT sanciona en sus carreteras interurbanas y los ayuntamientos en sus calles."} ${radares("Galicia", 68, [["A-52", 8], ["A-6", 7], ["A-55", 6], ["N-550", 5], ["AG-11", 4]], "A Coruña (22), Pontevedra (19) y Ourense (14)")}`,
+    descripcion: `${"Galicia reúne cuatro provincias (A Coruña, Lugo, Ourense y Pontevedra), con capital en Santiago de Compostela."} ${radares("Galicia", 68, [["A-52", 8], ["A-6", 7], ["A-55", 6], ["N-550", 5], ["AG-11", 4]], "A Coruña (22), Pontevedra (19) y Ourense (14)")}`,
     particularidades: [],
     zbe: ["A Coruña", "Pontevedra"],
     keywords: ["multas de tráfico en Galicia", "cómo recurrir una multa en Galicia", "recurso multa DGT Galicia", "multa radar AP-9 recurso", "zona bajas emisiones Vigo multa"],
@@ -302,7 +303,7 @@ const BASE: Omit<Comunidad, "faq">[] = [
     provincias: ["murcia"],
     capital: "Murcia",
     foto: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp",
-    descripcion: `${"La Región de Murcia es uniprovincial, con capital en Murcia. La DGT sanciona en sus carreteras interurbanas y los ayuntamientos en sus calles."} ${radares("la Región de Murcia", 14, [["A-30", 5], ["RM-11", 2]], undefined)}`,
+    descripcion: `${"La Región de Murcia es uniprovincial, con capital en Murcia."} ${radares("la Región de Murcia", 14, [["A-30", 5], ["RM-11", 2]], undefined)}`,
     particularidades: [],
     zbe: ["Cartagena", "Molina de Segura"],
     keywords: ["multas de tráfico en Murcia", "cómo recurrir una multa en Murcia", "recurso multa DGT Murcia", "multa radar A-7 Murcia recurso"],
@@ -317,7 +318,7 @@ const BASE: Omit<Comunidad, "faq">[] = [
     capital: "Pamplona",
     foto: "/media/carta-multa-radar-buzon-cuerpo.webp",
     descripcion: `${"Navarra tiene competencia propia en tráfico: desde el 1 de julio de 2026 el Gobierno de Navarra gestiona, tramita, resuelve y recauda las multas de tráfico, y los recursos ya no se presentan ante la DGT. La Policía Foral, la Guardia Civil de Tráfico y las policías locales registran sus denuncias en la plataforma del Gobierno foral (Gobierno de Navarra, 30/06/2026)."} ${radares("Navarra", 7, [["N-121-A", 3], ["A-15", 1], ["AP-68", 1], ["N-113", 1], ["A-1", 1]], undefined)}`,
-    particularidades: ["La reducción del 50 % por pronto pago y las alegaciones comparten plazo, y estas últimas se presentan por Mi Carpeta Ciudadana en navarra.es o de forma presencial.", "La ZBE de Pamplona consta en el Punto de Acceso Nacional de la DGT como ZBE del Ensanche; su ordenanza se publicó en el Boletín Oficial de Navarra núm. 257 de 29/12/2025."],
+    particularidades: ["La reducción del 50 % por pronto pago y las alegaciones comparten plazo, y estas últimas se presentan por Mi Carpeta Ciudadana en navarra.es o de forma presencial.", "Pamplona figura con su ZBE del Ensanche; la ordenanza se publicó en el Boletín Oficial de Navarra núm. 257 de 29/12/2025."],
     zbe: ["Pamplona (Ensanche)"],
     keywords: ["multas de tráfico en Navarra", "cómo recurrir una multa en Navarra", "recurso Policía Foral multa", "multa Gobierno de Navarra recurrir", "dónde recurrir multa Navarra 2026"],
   },
@@ -344,7 +345,7 @@ const BASE: Omit<Comunidad, "faq">[] = [
     provincias: ["logrono"],
     capital: "Logroño",
     foto: "/media/cuanto-tarda-en-llegar-una-multa-de-radar.webp",
-    descripcion: `${"La Rioja es uniprovincial, con capital en Logroño. La DGT sanciona en sus carreteras interurbanas y los ayuntamientos en sus calles."} ${radares("La Rioja", 13, [["AP-68", 4], ["N-232", 3], ["A-12", 2]], undefined)}`,
+    descripcion: `${"La Rioja es uniprovincial, con capital en Logroño."} ${radares("La Rioja", 13, [["AP-68", 4], ["N-232", 3], ["A-12", 2]], undefined)}`,
     particularidades: [],
     zbe: [],
     keywords: ["multas de tráfico en La Rioja", "cómo recurrir una multa en La Rioja", "recurso multa DGT La Rioja", "multa radar AP-68 recurso"],
@@ -358,7 +359,7 @@ const BASE: Omit<Comunidad, "faq">[] = [
     provincias: ["valencia", "alicante", "castellon"],
     capital: "Valencia",
     foto: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp",
-    descripcion: `${"La Comunitat Valenciana reúne tres provincias (Alicante, Castellón y Valencia), con capital en Valencia. La DGT sanciona en sus carreteras interurbanas y los ayuntamientos en sus calles."} ${radares("la Comunitat Valenciana", 79, [["N-332", 15], ["A-7", 10], ["A-70", 6], ["N-340", 6], ["AP-7", 4]], "Alicante (32), Valencia (31) y Castellón (16)")}`,
+    descripcion: `${"La Comunitat Valenciana reúne tres provincias (Alicante, Castellón y Valencia), con capital en Valencia."} ${radares("la Comunitat Valenciana", 79, [["N-332", 15], ["A-7", 10], ["A-70", 6], ["N-340", 6], ["AP-7", 4]], "Alicante (32), Valencia (31) y Castellón (16)")}`,
     particularidades: [],
     zbe: ["Castellón", "Benidorm"],
     keywords: ["multas de tráfico en la Comunidad Valenciana", "cómo recurrir una multa en Valencia", "recurso multa DGT Comunidad Valenciana", "multa radar AP-7 recurso", "zona bajas emisiones Valencia multa"],
