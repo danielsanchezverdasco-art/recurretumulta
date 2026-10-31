@@ -14,7 +14,7 @@ export const LOTE_20: MapaEnriquecimiento = {
       "El informe señala que unas estructuras del salpicadero suponían riesgo de lesión para ocupantes de distinta talla y recibieron penalización, que el pecho del conductor quedó en «marginal» en el frontal desplazado y en «débil» en el de ancho completo, donde el maniquí además se deslizó bajo el cinturón. En cambio, en los dos choques laterales, barrera y poste, la protección fue buena y se logró la puntuación máxima.",
     ],
     filas: [
-      { etiqueta: "Estrellas del Kona", valor: "Cuatro; publicadas el 6 de diciembre de 2023", fuente: "Euro NCAP, ficha del Hyundai KONA (diciembre de 2023)", url: KONA, anio: "2023" },
+      { etiqueta: "Estrellas del Kona", valor: "Cuatro; publicadas el 6 de diciembre de 2023", fuente: "Ficha de Hyundai KONA en Euro NCAP (diciembre de 2023)", url: KONA, anio: "2023" },
       { etiqueta: "Porcentajes del Kona", valor: "80 % adultos; 83 % niños; 64 % vulnerables; 60 % asistencias", fuente: "Euro NCAP, desglose de áreas del KONA", url: KONA, anio: "2023" },
       { etiqueta: "Fila de la lista que coincide", valor: "1.6 petrol hybrid, KONA Hybrid, 4x2", fuente: "Euro NCAP, tabla de variantes cubiertas del KONA", url: KONA, anio: "2023" },
       { etiqueta: "Kona ensayado", valor: "GLS eléctrico, volante a la izquierda; 1.750 kg", fuente: "Euro NCAP, modelo probado del KONA", url: KONA, anio: "2023" },
@@ -29,7 +29,7 @@ export const LOTE_20: MapaEnriquecimiento = {
       "Los comentarios del informe son duros: protección pobre de piernas, pecho y pelvis del conductor en el frontal desplazado; sin airbag central en los choques laterales; AEB que solo reacciona ante otros vehículos, y no ante peatones ni ciclistas; sin alerta de fatiga ni mantenimiento de carril; marcas de los anclajes Isofix invisibles; y ninguna fijación i-Size, de modo que no admite esas sillas infantiles.",
     ],
     filas: [
-      { etiqueta: "Estrellas del Spring", valor: "Una; publicada el 8 de diciembre de 2021", fuente: "Euro NCAP, ficha del Dacia Spring (diciembre de 2021)", url: SPRING, anio: "2021" },
+      { etiqueta: "Estrellas del Spring", valor: "Una; publicada el 8 de diciembre de 2021", fuente: "Ficha de Dacia Spring en Euro NCAP (diciembre de 2021)", url: SPRING, anio: "2021" },
       { etiqueta: "Porcentajes del Spring", valor: "49 % adultos; 56 % niños; 39 % vulnerables; 32 % asistencias", fuente: "Euro NCAP, cuadro de resultados del Spring", url: SPRING, anio: "2021" },
       { etiqueta: "Spring ensayado", valor: "Eléctrico de 33 kW, volante a la izquierda; 970 kg", fuente: "Euro NCAP, modelo probado del Spring", url: SPRING, anio: "2021" },
       { etiqueta: "Única fila de la lista del Spring", valor: "E2 Comfort Plus, 33 kW, 4x2", fuente: "Euro NCAP, variantes cubiertas del Spring", url: SPRING, anio: "2021" },
@@ -44,7 +44,7 @@ export const LOTE_20: MapaEnriquecimiento = {
       "Como puntos débiles, el informe cita que el pecho del conductor obtuvo una protección «débil» en el frontal desplazado, que el control de movimiento hacia el lado contrario fue «marginal» y que Toyota no demostró que el airbag central protegiera de forma robusta a ocupantes de distintas tallas. Entre los aciertos están un freno de colisiones secundarias y el eCall avanzado, y la protección de las piernas de peatones, buena en todos los puntos.",
     ],
     filas: [
-      { etiqueta: "Valoración del Corolla Cross", valor: "Cinco estrellas; publicada el 16 de noviembre de 2022", fuente: "Euro NCAP, ficha del Toyota Corolla Cross (noviembre de 2022)", url: CCROSS, anio: "2022" },
+      { etiqueta: "Valoración del Corolla Cross", valor: "Cinco estrellas; publicada el 16 de noviembre de 2022", fuente: "Ficha de Toyota Corolla Cross en Euro NCAP (noviembre de 2022)", url: CCROSS, anio: "2022" },
       { etiqueta: "Resultado en las cuatro áreas", valor: "85 % adultos, 83 % niños, 87 % vulnerables y 82 % asistencias", fuente: "Euro NCAP, porcentajes del Corolla Cross", url: CCROSS, anio: "2022" },
       { etiqueta: "Mecánica ensayada del Corolla Cross", valor: "2.0 híbrido, volante a la izquierda; 1.500 kg", fuente: "Euro NCAP, modelo probado del Corolla Cross", url: CCROSS, anio: "2022" },
       { etiqueta: "Variantes cubiertas del Corolla Cross", valor: "La tabla de la ficha aparece sin filas; no consta el 140 CV", fuente: "Euro NCAP, apartado de variantes del Corolla Cross", url: CCROSS, anio: "2022" },

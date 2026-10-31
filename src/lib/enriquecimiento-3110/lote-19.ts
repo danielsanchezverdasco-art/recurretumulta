@@ -13,7 +13,7 @@ export const LOTE_19: MapaEnriquecimiento = {
       "Entre los puntos débiles que cita Euro NCAP está que muchos mandos esenciales dependen de la pantalla central, algo que el organismo puntúa por debajo de los botones físicos, y que el eCall de servicio externo (TPS) no está disponible.",
     ],
     filas: [
-      { etiqueta: "Valoración global (7 GT)", valor: "Cinco estrellas; publicada el 8 de julio de 2026", fuente: "Euro NCAP, ficha del ZEEKR 7GT (julio de 2026)", url: Z7GT, anio: "2026" },
+      { etiqueta: "Valoración global (7 GT)", valor: "Cinco estrellas; publicada el 8 de julio de 2026", fuente: "Ficha de ZEEKR 7GT en Euro NCAP (julio de 2026)", url: Z7GT, anio: "2026" },
       { etiqueta: "Las cuatro etapas del protocolo 2026", valor: "79 % conducción segura; 89 % evitación; 93 % protección; 95 % tras el choque", fuente: "Euro NCAP, etapas de puntuación del 7GT", url: Z7GT, anio: "2026" },
       { etiqueta: "Variante ensayada (7 GT)", valor: "Privilege AWD, 4x4, volante a la izquierda; 2.405 kg", fuente: "Euro NCAP, modelo ensayado del 7GT", url: Z7GT, anio: "2026" },
       { etiqueta: "Variantes de tracción trasera cubiertas", valor: "Core RWD y Long Range RWD, ambas 4x2", fuente: "Euro NCAP, variantes del 7GT con tracción trasera", url: Z7GT, anio: "2026" },
@@ -42,7 +42,7 @@ export const LOTE_19: MapaEnriquecimiento = {
       "La ficha de Euro NCAP también deja constancia de un fallo: en el choque lateral, la parte trasera del airbag de cortina se enganchó en el revestimiento del pilar C y no se desplegó bien, porque un clip no se había montado correctamente en fábrica. El fabricante dijo haber mejorado el control de calidad de la línea y el organismo aplicó una penalización. Tampoco hay sistema que evite impactos secundarios, y el detector de presencia de niños no cumplió los requisitos del protocolo.",
     ],
     filas: [
-      { etiqueta: "Estrellas del Jaecoo 7 PHEV", valor: "Cinco; publicadas el 9 de abril de 2025", fuente: "Euro NCAP, ficha del JAECOO 7 PHEV (abril de 2025)", url: J7, anio: "2025" },
+      { etiqueta: "Estrellas del Jaecoo 7 PHEV", valor: "Cinco; publicadas el 9 de abril de 2025", fuente: "Ficha de JAECOO 7 PHEV en Euro NCAP (abril de 2025)", url: J7, anio: "2025" },
       { etiqueta: "Resultado por área (Jaecoo)", valor: "81 % adultos; 80 % niños; 80 % usuarios vulnerables; 80 % asistencias", fuente: "Euro NCAP, desglose del JAECOO 7 PHEV", url: J7, anio: "2025" },
       { etiqueta: "Jaecoo 7 ensayado", valor: "Exclusive, PHEV 4x2, volante a la izquierda; 1.809 kg", fuente: "Euro NCAP, modelo probado del JAECOO 7", url: J7, anio: "2025" },
       { etiqueta: "Variantes de la lista (Jaecoo)", valor: "PHEV Select y PHEV Exclusive, 4x2; ningún híbrido sin enchufe", fuente: "Euro NCAP, tabla de variantes del JAECOO 7", url: J7, anio: "2025" },

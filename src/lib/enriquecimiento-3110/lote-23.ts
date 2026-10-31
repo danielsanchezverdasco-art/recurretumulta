@@ -18,7 +18,7 @@ export const LOTE_23: MapaEnriquecimiento = {
       "Dos detalles del informe: el pecho del conductor puntuó marginal en el frontal y el pecho en el poste lateral también, mientras que en la barrera lateral se lograron todos los puntos. Hay además una contramedida contra lesiones entre ocupantes en un impacto desde el lado opuesto.",
     ],
     filas: [
-      { etiqueta: "Estrellas del Santa Fe", valor: "Cuatro; resultado del 4 de diciembre de 2024", fuente: "Euro NCAP, ficha del Hyundai Santa Fe (diciembre de 2024)", url: SANTAFE, anio: "2024" },
+      { etiqueta: "Estrellas del Santa Fe", valor: "Cuatro; resultado del 4 de diciembre de 2024", fuente: "Ficha de Hyundai Santa Fe en Euro NCAP (diciembre de 2024)", url: SANTAFE, anio: "2024" },
       { etiqueta: "Porcentajes del Santa Fe", valor: "84 adultos; 88 niños; 70 vulnerables; 69 asistencias", fuente: "Euro NCAP, desglose de áreas del Santa Fe", url: SANTAFE, anio: "2024" },
       { etiqueta: "Santa Fe del ensayo", valor: "HEV AWD, volante a la izquierda; 2.050 kg", fuente: "Euro NCAP, coche ensayado del Santa Fe", url: SANTAFE, anio: "2024" },
       { etiqueta: "Filas del Santa Fe cubiertas", valor: "Hybrid 4x2; Hybrid 4x4; Plug-in Hybrid 4x4", fuente: "Euro NCAP, variantes del Santa Fe con rótulo genérico", url: SANTAFE, anio: "2024" },
@@ -32,7 +32,7 @@ export const LOTE_23: MapaEnriquecimiento = {
       "Entre los detalles del informe destacan que el control del desplazamiento hacia el otro costado fue adecuado, que existe una contramedida para impactos entre ocupantes y que, en el lateral con barrera, la cabeza del maniquí de diez años se calificó como marginal.",
     ],
     filas: [
-      { etiqueta: "Nota del Taigo", valor: "Cinco estrellas desde el 2 de marzo de 2022", fuente: "Euro NCAP, ficha del Volkswagen Taigo (marzo de 2022)", url: TAIGO, anio: "2022" },
+      { etiqueta: "Nota del Taigo", valor: "Cinco estrellas desde el 2 de marzo de 2022", fuente: "Ficha de Volkswagen Taigo en Euro NCAP (marzo de 2022)", url: TAIGO, anio: "2022" },
       { etiqueta: "Valores del Taigo por área", valor: "Adultos 94; niños 84; vulnerables 71; asistencias 70 (%)", fuente: "Euro NCAP, cuadro de puntuación del Taigo", url: TAIGO, anio: "2022" },
       { etiqueta: "Coche base del Taigo", valor: "Polo 1.0 TSI Life, volante a la izquierda; 1.216 kg", fuente: "Euro NCAP, modelo de pruebas citado en el Taigo", url: TAIGO, anio: "2022" },
       { etiqueta: "Filas del Taigo", valor: "1.0 TSI y 1.5 TSI, de gasolina, 4x2", fuente: "Euro NCAP, variantes cubiertas del Taigo", url: TAIGO, anio: "2022" },
@@ -46,7 +46,7 @@ export const LOTE_23: MapaEnriquecimiento = {
       "En el informe, el pecho del conductor se calificó como débil en el frontal desplazado y el control del desplazamiento en un golpe por el lado contrario como marginal, aunque el Jazz lleva un airbag central que funcionó bien. Una sillita infantil no pudo fijarse con estabilidad en la plaza central trasera.",
     ],
     filas: [
-      { etiqueta: "Estrellas del Jazz", valor: "Cinco; ficha del 12 de noviembre de 2020", fuente: "Euro NCAP, ficha del Honda Jazz (noviembre de 2020)", url: JAZZ, anio: "2020" },
+      { etiqueta: "Estrellas del Jazz", valor: "Cinco; ficha del 12 de noviembre de 2020", fuente: "Ficha de Honda Jazz en Euro NCAP (noviembre de 2020)", url: JAZZ, anio: "2020" },
       { etiqueta: "Notas parciales del Jazz", valor: "87 adultos; 83 niños; 80 vulnerables; 76 asistencias", fuente: "Euro NCAP, áreas puntuadas del Jazz", url: JAZZ, anio: "2020" },
       { etiqueta: "Jazz ensayado", valor: "1.5 Hybrid Elegance, volante a la izquierda; 1.246 kg", fuente: "Euro NCAP, unidad de pruebas del Jazz", url: JAZZ, anio: "2020" },
       { etiqueta: "Fila del Crosstar", valor: "1.5 litre hybrid, Crosstar, 4x2", fuente: "Euro NCAP, variantes del Jazz con nombre Crosstar", url: JAZZ, anio: "2020" },
@@ -61,7 +61,7 @@ export const LOTE_23: MapaEnriquecimiento = {
       "El Clase E incorpora un sistema indirecto que avisa si se ha dejado a un niño en el coche y en los dos laterales, barrera y poste, logró la puntuación máxima.",
     ],
     filas: [
-      { etiqueta: "Valoración del Clase E", valor: "Cinco estrellas; fecha 2024-07-10", fuente: "Euro NCAP, ficha del Mercedes-Benz E-Class (julio de 2024)", url: CLASEE, anio: "2024" },
+      { etiqueta: "Valoración del Clase E", valor: "Cinco estrellas; fecha 2024-07-10", fuente: "Ficha de Mercedes-Benz E-Class en Euro NCAP (julio de 2024)", url: CLASEE, anio: "2024" },
       { etiqueta: "Áreas del Clase E", valor: "92 adultos; 90 niños; 84 vulnerables; 87 asistencias (%)", fuente: "Euro NCAP, resultados por áreas del E-Class", url: CLASEE, anio: "2024" },
       { etiqueta: "Clase E de las pruebas", valor: "E 300 de, 2.255 kg", fuente: "Euro NCAP, vehículo ensayado del E-Class", url: CLASEE, anio: "2024" },
       { etiqueta: "Filas del E 200", valor: "2.0 petrol E 200: berlina y cinco puertas, 4x2; con 4MATIC, 4x4", fuente: "Euro NCAP, variantes del E-Class con gasolina", url: CLASEE, anio: "2024" },
@@ -75,7 +75,7 @@ export const LOTE_23: MapaEnriquecimiento = {
       "El informe anota estructuras del salpicadero que degradaron la protección de las rodillas a marginal, pecho marginal en los dos ocupantes delanteros, control pobre en un golpe por el lado contrario y ausencia de un airbag central para ese caso. Para el maniquí de diez años, el pecho y el cuello se calificaron como débiles en el frontal, y una sillita de espalda a la marcha a tamaño completo se dio por fallida porque el manual de Dacia indica que el coche no puede alojarla.",
     ],
     filas: [
-      { etiqueta: "Estrellas del Sandero Stepway", valor: "Dos; fecha de la ficha 14 de abril de 2021", fuente: "Euro NCAP, ficha del Dacia Sandero Stepway (abril de 2021)", url: SANDERO, anio: "2021" },
+      { etiqueta: "Estrellas del Sandero Stepway", valor: "Dos; fecha de la ficha 14 de abril de 2021", fuente: "Ficha de Dacia Sandero Stepway en Euro NCAP (abril de 2021)", url: SANDERO, anio: "2021" },
       { etiqueta: "Puntos del Sandero Stepway", valor: "70 adultos; 72 niños; 41 vulnerables; 42 asistencias (%)", fuente: "Euro NCAP, desglose del Sandero Stepway", url: SANDERO, anio: "2021" },
       { etiqueta: "Stepway ensayado", valor: "1.0 TCe, volante a la izquierda; 1.111 kg", fuente: "Euro NCAP, modelo ensayado del Sandero Stepway", url: SANDERO, anio: "2021" },
     ],
@@ -102,7 +102,7 @@ export const LOTE_23: MapaEnriquecimiento = {
       "El informe anota un control marginal del desplazamiento en un golpe por el costado contrario y la falta de contramedida entre ocupantes. El Compass tampoco tiene detector de niños olvidados, y su frenado automático rindió solo de forma marginal ante peatones y no protege a quien esté detrás del coche.",
     ],
     filas: [
-      { etiqueta: "Estrellas del Compass", valor: "Cuatro; resultado del 10 de diciembre de 2025", fuente: "Euro NCAP, ficha del Jeep Compass (diciembre de 2025)", url: COMPASS, anio: "2025" },
+      { etiqueta: "Estrellas del Compass", valor: "Cuatro; resultado del 10 de diciembre de 2025", fuente: "Ficha de Jeep Compass en Euro NCAP (diciembre de 2025)", url: COMPASS, anio: "2025" },
       { etiqueta: "Puntuaciones del Compass", valor: "80 adultos; 85 niños; 74 vulnerables; 66 asistencias", fuente: "Euro NCAP, áreas del Compass", url: COMPASS, anio: "2025" },
       { etiqueta: "Compass probado", valor: "Eléctrico 74 kWh FWD Altitude; 2.115 kg", fuente: "Euro NCAP, modelo de ensayo del Compass", url: COMPASS, anio: "2025" },
       { etiqueta: "Fila del e-Hybrid 145", valor: "MHEV 145 FWD, 4x2", fuente: "Euro NCAP, variantes cubiertas del Compass", url: COMPASS, anio: "2025" },
