@@ -2,10 +2,26 @@
 // redactados por el equipo editorial a partir de los datos de la ficha
 // (estándar AdSense 2026-10-19). Se muestra tras la descripción principal;
 // si la ficha no tiene análisis, no renderiza nada.
-import { getAnalisisEditorial } from "@/lib/analisis-editorial";
+import { useEffect, useState } from "react";
+import type { AnalisisEditorial as Analisis } from "@/lib/analisis-editorial-tipos";
+import { cargarAnalisisEditorial } from "@/lib/analisis-editorial/cargar";
 
+// 31/10/2026 (velocidad): el análisis llega de un shard diferido (~100 KB) en vez de un chunk
+// estático de 5,4 MB. Mientras carga se pinta un marcador oculto (data-editorial-cargando) que
+// el prerender espera a que desaparezca antes de capturar el HTML (el texto sigue horneado).
 export default function AnalisisEditorial({ slug }: { slug: string }) {
-  const analisis = getAnalisisEditorial(slug);
+  const [res, setRes] = useState<{ slug: string; a: Analisis | null } | null>(null);
+  useEffect(() => {
+    let vivo = true;
+    cargarAnalisisEditorial(slug)
+      .then((a) => vivo && setRes({ slug, a }))
+      .catch(() => vivo && setRes({ slug, a: null }));
+    return () => {
+      vivo = false;
+    };
+  }, [slug]);
+  if (!res || res.slug !== slug) return <span data-editorial-cargando="" hidden />;
+  const analisis = res.a;
   if (!analisis || analisis.parrafos.length === 0) return null;
   return (
     <section

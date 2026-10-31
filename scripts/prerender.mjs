@@ -278,6 +278,7 @@ async function main() {
             // wait se resolvía antes del arranque y se bakeaba el spinner.
             if (!window.__rootMutated) return false;
             if (document.querySelector("[data-pageloader]")) return false;
+            if (document.querySelector("[data-editorial-cargando]")) return false; // 31/10/2026: shard del análisis editorial
             if (waitReady && document.body.dataset.pageReady !== "1") return false;
             return true;
           },
