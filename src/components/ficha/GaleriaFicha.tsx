@@ -128,7 +128,18 @@ export default function GaleriaFicha({
                 fetchPriority={i === 0 ? "high" : undefined}
                 decoding={i === 0 ? "sync" : "async"}
                 draggable={false}
-                onError={() => marcarRota(f.src)}
+                onError={(e) => {
+                  // 31/10/2026: si falla una variante del srcset (-480w/-828w) pero la foto original existe, no se
+                  // descarta la foto: se quita el srcset y se carga el original. Solo es «rota» si falla el src.
+                  const im = e.currentTarget;
+                  if (im.getAttribute("srcset")) {
+                    im.removeAttribute("srcset");
+                    im.removeAttribute("sizes");
+                    im.src = f.src;
+                    return;
+                  }
+                  marcarRota(f.src);
+                }}
                 className={`aspect-video w-full select-none ${fit}`}
               />
             </figure>
