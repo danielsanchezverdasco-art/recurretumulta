@@ -8,7 +8,7 @@ export const LOTE_19: MapaEnriquecimiento = {
   "zeekr-7-gt-2026-precio-ficha-tecnica": {
     titulo: "Zeekr 7 GT: ya tiene crash test de Euro NCAP, cinco estrellas en julio de 2026",
     parrafos: [
-      "La ficha de arriba señala que el 7 GT carecía de crash test de Euro NCAP, y eso ha cambiado: el organismo publicó el 8 de julio de 2026 la valoración del ZEEKR 7GT, con cinco estrellas. Se evalúa ya con el protocolo de 2026, que puntúa cuatro etapas en lugar de cuatro áreas clásicas: conducción segura, 79 %; evitación de la colisión, 89 %; protección en el choque, 93 %; y seguridad tras el choque, 95 %.",
+      "Hasta julio de 2026 el 7 GT no tenía crash test de Euro NCAP, y eso ha cambiado: el organismo publicó el 8 de julio de 2026 la valoración del ZEEKR 7GT, con cinco estrellas. Se evalúa ya con el protocolo de 2026, que puntúa cuatro etapas en lugar de cuatro áreas clásicas: conducción segura, 79 %; evitación de la colisión, 89 %; protección en el choque, 93 %; y seguridad tras el choque, 95 %.",
       "El coche ensayado fue el Privilege AWD, de tracción total y 2.405 kg en vacío, con volante a la izquierda. La lista de variantes cubiertas añade dos de tracción trasera, la Core RWD y la Long Range RWD. La ficha de esta página describe un 7 GT de propulsión trasera, pero no indica cuál de esos dos acabados es, así que conviene confirmarlo en el concesionario.",
       "Entre los puntos débiles que cita Euro NCAP está que muchos mandos esenciales dependen de la pantalla central, algo que el organismo puntúa por debajo de los botones físicos, y que el eCall de servicio externo (TPS) no está disponible.",
     ],

@@ -12,7 +12,7 @@ export const LOTE_13: MapaEnriquecimiento = {
     parrafos: [
       "El catálogo español de febrero de 2026 describe el nuevo Captur full hybrid E-Tech como una mecánica con un cuatro cilindros de 1.789 cm³ de gasolina, con 80 kW (109 CV) en el motor térmico y 116 kW (160 CV) de potencia combinada, entre 5.250 y 5.500 rpm. El par es de 170 Nm a 3.500 rpm en el térmico, más 205 Nm del eléctrico entre 0 y 1.630 rpm. La caja es automática multimodo y la batería de iones de litio tiene 1,4 kWh y 280 V.",
       "Renault anota 8,9 s de 0 a 100 km/h, 7,7 s en la recuperación de 80 a 120 km/h, 30,9 s en el kilómetro con salida parada y 180 km/h de punta. La homologación WLTP, con norma Euro 6 E bis, da de 4,4 a 4,5 l/100 km y de 99 a 100 g/km de CO₂, con un depósito de 48 litros.",
-      "En masas, el catálogo da 1.366 kg en orden de marcha, 1.890 kg de máximo autorizado y 2.890 kg de peso total rodante, con 1.000 kg de remolque frenado. Esa cifra en orden de marcha se aleja de los 1.514 kg de la ficha de arriba, donde no se aclara qué criterio se usó. Los neumáticos disponibles van de 215/60 R17 a 225/45 R19.",
+      "En masas, el catálogo da 1.366 kg en orden de marcha, 1.890 kg de máximo autorizado y 2.890 kg de peso total rodante, con 1.000 kg de remolque frenado. Es el peso en orden de marcha que figura también en la ficha de arriba. Los neumáticos disponibles van de 215/60 R17 a 225/45 R19.",
     ],
     filas: [
       { etiqueta: "Conjunto híbrido (potencia)", valor: "Térmico 80 kW (109 CV); sistema 116 kW (160 CV) entre 5.250 y 5.500 rpm", fuente: F26, url: C26, anio: "2026" },
@@ -30,7 +30,7 @@ export const LOTE_13: MapaEnriquecimiento = {
     parrafos: [
       "En su catálogo de mayo de 2024, Renault España define el Captur E-Tech full hybrid 145 como un cuatro cilindros de gasolina de 1.598 cm³ más un motor eléctrico. La potencia es de 69 kW a 5.600 rpm en el térmico y 105 kW (145 CV) acumulados, y el par es de 148 Nm entre 3.200 y 3.600 rpm, más 205 Nm del eléctrico. La caja es automática inteligente multimodo.",
       "La batería de iones de litio tiene entre 150 y 285 V y 1,26 kWh. El catálogo da 10,6 segundos en la aceleración de cero a cien, 32,6 s en 1.000 metros, 8 s en recuperaciones de 80 a 120 km/h y 170 km/h de velocidad máxima. El ciclo WLTP mixto marca de 4,6 a 4,8 l/100 km y de 105 a 108 g/km, con depósito de 48 litros y norma Euro 6.",
-      "Esas cifras difieren de la ficha de arriba en varios puntos: el catálogo habla de 145 CV y no de 143, de 1,26 kWh en lugar de 1,2 kWh, de 1.370 kg en orden de marcha y no de 1.445 kg, y de un máximo autorizado de 1.900 kg. El remolque frenado admite 750 kg, y el peso total rodante es de 2.650 kg.",
+      "Estas son también las cifras de la ficha de arriba: 145 CV, 1,26 kWh y 1.370 kg en orden de marcha, con un máximo autorizado de 1.900 kg. El remolque frenado admite 750 kg, y el peso total rodante es de 2.650 kg.",
     ],
     filas: [
       { etiqueta: "Potencia del full hybrid 145", valor: "Térmico 69 kW a 5.600 rpm; sistema 105 kW (145 CV)", fuente: F24, url: C24, anio: "2024" },

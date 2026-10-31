@@ -922,20 +922,20 @@ export const COCHES_SKODA: CocheComparador[] = [
       "Maletero de 745 L según la ficha oficial de Škoda",
       "Desde 38.375 €: el SUV familiar PHEV más asequible",
       "Carga rápida en continua de 50 kW",
-      "Nuevo acabado Laurin & Klement (tope de gama): asientos con función de masaje, barras de techo plateadas y llantas específicas (anunciado el 23/10/2026)",
+      "Nuevo acabado Laurin & Klement (tope de gama): asientos con función de masaje, barras de techo plateadas y llantas específicas (anunciado el 22/10/2026)",
       "Nueva versión PHEV de 200 kW (272 CV): 50 kW más que el iV actual, con batería de 25,7 kWh (19,7 kWh netos) y carga DC de 50 kW"
     ],
     contras: [
       "Solo 5 plazas: pierde la tercera fila del Kodiaq",
       "Tracción delantera, sin opción 4x4",
-      "Pesa 1.813 kg en orden de marcha",
+      "Pesa 1.917 kg como mínimo (con conductor de 75 kg) y hasta 2.087 kg según equipamiento",
       "El precio 'desde' está sujeto a financiación",
       "Si no lo enchufas, mueves 25,7 kWh de batería con el motor de gasolina"
     ],
     largoMm: 4758,
     anchoMm: 1864,
     altoMm: 1678,
-    pesoKg: 1813,
+    pesoKg: 1917,
     consumo: 17.4,
     consumoUnidad: "kWh/100 km",
     plazas: 5,

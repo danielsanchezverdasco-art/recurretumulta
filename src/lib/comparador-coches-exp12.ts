@@ -1192,7 +1192,7 @@ export const COCHES_EXP12: CocheComparador[] = [
       "La versión de 646 CV sube hasta los 59.990 €",
       "Marca recién llegada a España con Salvador Caetano",
       "2.265 kg de peso en orden de marcha",
-      "Sin test Euro NCAP publicado todavía",
+      "Euro NCAP ensayó la versión AWD de 2.405 kg; la de tracción trasera hereda su nota",
     ],
     largoMm: 4817,
     anchoMm: 1910,

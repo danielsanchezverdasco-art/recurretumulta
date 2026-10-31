@@ -10,7 +10,7 @@ export const LOTE_09: MapaEnriquecimiento = {
     titulo: "Jogger Eco-G 120: motor, depósitos y homologación según Dacia",
     parrafos: [
       "El Eco-G 120 monta un tricilíndrico de 1.199 cm³ que puede funcionar con gasolina o con GLP, con inyección indirecta en modo gas y directa en modo gasolina. Según la tabla del folleto de Dacia Portugal de noviembre 2025, con GLP rinde 90 kW (unos 122 CV) y 197 Nm entre 1.750 y 3.750 rpm. Con gasolina baja a 84 kW (unos 114 CV) y 190 Nm entre 2.000 y 4.000 rpm. Cumple Euro 6e bis. Son datos del folleto portugués, no del catálogo español, y pueden diferir ligeramente.",
-      "Para el cambio manual, el mismo folleto anota con GLP un gasto de 7,4 litros cada 100 km y 121 gramos de CO₂ por kilómetro, y con gasolina 5,9 litros y 134 gramos (ciclo WLTP). El coche lleva un depósito de gasolina de 50 l y otro de GLP de 50 l de volumen total y 40 l de llenado. En su web española, Dacia habla de «más de 1.400 km» de autonomía combinada y de emisiones desde 119 g/km, por lo que el alcance de 1.480 km de la ficha de arriba no coincide con lo que la marca publica.",
+      "Para el cambio manual, el mismo folleto anota con GLP un gasto de 7,4 litros cada 100 km y 121 gramos de CO₂ por kilómetro, y con gasolina 5,9 litros y 134 gramos (ciclo WLTP). El coche lleva un depósito de gasolina de 50 l y otro de GLP de 50 l de volumen total y 40 l de llenado. En su web española, Dacia habla de «más de 1.400 km» de autonomía combinada y de emisiones desde 119 g/km, que es el alcance que ahora recoge la ficha de arriba.",
       "En la versión de cinco plazas con cambio manual, el sprint hasta 100 km/h lleva 10,9 s en modo GLP y 11,9 s en gasolina, y la elasticidad en cuarta entre 80 y 120 km/h es de 8,1 s y 9,1 s respectivamente. La tara va de 1.292 a 1.312 kg, y un remolque con frenos puede pesar hasta 1.200 kg.",
     ],
     filas: [
@@ -28,8 +28,8 @@ export const LOTE_09: MapaEnriquecimiento = {
     titulo: "Jogger Hybrid 155: datos del sistema híbrido según Dacia",
     parrafos: [
       "El Jogger Hybrid 155 combina un 1.8 de gasolina de 1.789 cm³ y cuatro cilindros con dos motores eléctricos y un cambio automático multimodo. Dacia España indica una potencia combinada de 158 CV, aunque el modelo se vende con el nombre 155. El folleto de Dacia Portugal da 172 Nm para el motor térmico entre 3.000 y 4.000 rpm y 205 Nm para el eléctrico.",
-      "La batería de tracción es de iones de litio, de 230 V y 1,4 kWh, es decir, 1,4 kWh frente a los 1,7 kWh que repite la descripción general de arriba. Dacia no recarga este híbrido por enchufe: la batería se regenera con la frenada y las deceleraciones, y la marca asegura que hasta un 80 % de la marcha urbana puede hacerse sin gasolina.",
-      "El folleto homologa 4,6 litros cada 100 km y 104 g de CO₂ por kilómetro, una décima y un gramo más que lo que muestra la ficha de arriba. Con cinco plazas, el sprint hasta 100 km/h cuesta 8,9 s y con siete 9,0 s; en cuarta, pasar de 80 a 120 km/h cuesta 6,4 s y 6,5 s. Sin carga pero listo para rodar, pesa entre 1.359 y 1.373 kg con cinco plazas y entre 1.388 y 1.405 kg con siete.",
+      "La batería de tracción es de iones de litio, de 230 V y 1,4 kWh, es decir, 1,4 kWh y no los 1,7 kWh que se citan en algunas descripciones antiguas. Dacia no recarga este híbrido por enchufe: la batería se regenera con la frenada y las deceleraciones, y la marca asegura que hasta un 80 % de la marcha urbana puede hacerse sin gasolina.",
+      "El folleto homologa 4,6 litros cada 100 km y 104 g de CO₂ por kilómetro, las mismas cifras que muestra ahora la ficha de arriba. Con cinco plazas, el sprint hasta 100 km/h cuesta 8,9 s y con siete 9,0 s; en cuarta, pasar de 80 a 120 km/h cuesta 6,4 s y 6,5 s. Sin carga pero listo para rodar, pesa entre 1.359 y 1.373 kg con cinco plazas y entre 1.388 y 1.405 kg con siete.",
       "Son cifras del folleto portugués y no del catálogo español. Puede arrastrar un remolque con frenos de 1.200 kg con cinco plazas y de 1.000 kg con siete. Esta versión comparte con el resto de la gama los neumáticos 205/60 R16 92H, un diámetro de giro entre aceras de 11,39 m, tren delantero pseudo-MacPherson y eje trasero semirrígido, y un depósito de 50 l.",
     ],
     filas: [
@@ -46,9 +46,9 @@ export const LOTE_09: MapaEnriquecimiento = {
   "dacia-jogger-tce-110-2026-precio-ficha-tecnica": {
     titulo: "Jogger TCe 110 de 5 plazas: motor, maletero y medidas según Dacia",
     parrafos: [
-      "El TCe 110 usa un tricilíndrico turbo de 999 cm³ con inyección directa y 12 válvulas, 81 kW (110 CV) entre 5.000 y 5.250 rpm y 200 Nm entre 2.900 y 3.500 rpm. Va unido a un cambio manual. Según el folleto de Dacia Portugal, el gasto homologado es de 6,0 litros cada 100 km y las emisiones son de 136 g de CO₂ por kilómetro, cifras algo peores que las de la ficha de arriba.",
-      "La versión de cinco plazas necesita 10,5 s para llegar a 100 km/h desde parado. Su masa en vacío va de 1.193 a 1.230 kg, sin rastro en el folleto de los 1.251 kg que cita la ficha de arriba, y el depósito es de 50 l.",
-      "El maletero de la variante de cinco plazas mide 708 dm³ medidos con la norma VDA (829 l en la columna de litros) con la fila trasera en uso, y llega a 1.819 dm³ VDA (2.094 l) con los asientos abatidos. Los 607 l que cita la ficha de arriba no figuran en esa tabla, que además es del mercado portugués.",
+      "El TCe 110 usa un tricilíndrico turbo de 999 cm³ con inyección directa y 12 válvulas, 81 kW (110 CV) entre 5.000 y 5.250 rpm y 200 Nm entre 2.900 y 3.500 rpm. Va unido a un cambio manual. Según el folleto de Dacia Portugal, el gasto homologado es de 6,0 litros cada 100 km y las emisiones son de 136 g de CO₂ por kilómetro, las mismas que recoge ahora la ficha de arriba.",
+      "La versión de cinco plazas necesita 10,5 s para llegar a 100 km/h desde parado. Su masa en vacío va de 1.193 a 1.230 kg, y el depósito es de 50 l.",
+      "El maletero de la variante de cinco plazas mide 708 dm³ medidos con la norma VDA (829 l en la columna de litros) con la fila trasera en uso, y llega a 1.819 dm³ VDA (2.094 l) con los asientos abatidos. La tabla es del mercado portugués, y esas son las cifras que usa la ficha de arriba.",
       "Las cotas del folleto son 4.550 mm de largo, 2.898 mm de distancia entre ejes, 833 mm de voladizo delantero, 819 mm de voladizo trasero y 195 mm de altura libre. Con el portón abierto la altura es de 2.012 mm, la misma cifra que da la ficha española de Dacia.",
     ],
     filas: [
