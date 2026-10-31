@@ -27,6 +27,8 @@ import F, { AD_SLOTS as I } from "@/components/ads/AdBanner.tsx";
 import { BLOG_LITE_HOME, BLOG_COUNT } from "@/lib/blog-lite-home.generated.ts";
 import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
 import { LazyConvexProvider } from "@/components/providers/convex-lazy.tsx";
+
+const FAQ_GRATIS_TXT = `Sí, 100% gratis y sin trampa. Subes tu multa, la IA la analiza y te dice qué argumentos tienes, una valoración orientativa (alta, media, baja o no valorable) y cómo presentar el recurso. Sin registrarte, sin tarjeta bancaria. Solo pagas si quieres el PDF listo para firmar (4,99€) — y eso es completamente opcional.`;
 // 26/10/2026 (fix menú móvil): estos chunks usan useAction de convex/react. Si
 // terminan de cargar antes que el ConvexProvider raíz (diferido con
 // requestIdleCallback, frecuente en móviles lentos), lanzaban «Could not find
@@ -772,7 +774,7 @@ function $() {
             name: `¿Es realmente gratis el análisis?`,
             acceptedAnswer: {
               "@type": `Answer`,
-              text: `Sí, 100% gratis y sin trampa. Subes tu multa, la IA la analiza y te dice qué argumentos tienes, una valoración orientativa (alta, media, baja o no valorable) y cómo presentar el recurso. Sin registrarte, sin tarjeta bancaria. Solo pagas si quieres el PDF listo para firmar (4,99€) — y eso es completamente opcional.`,
+              text: FAQ_GRATIS_TXT,
             },
           },
           {
@@ -1799,7 +1801,7 @@ function $() {
                   [
                     {
                       q: `¿Es realmente gratis el análisis?`,
-                      a: `Sí, 100% gratis y sin trampa. Subes tu multa, la IA la analiza y te dice qué argumentos tienes, una valoración orientativa (alta, media, baja o no valorable) y cómo presentar el recurso. Sin registrarte, sin tarjeta bancaria. Solo pagas si quieres el PDF listo para firmar (4,99€) — y eso es completamente opcional.`,
+                      a: FAQ_GRATIS_TXT,
                     },
                     {
                       q: `¿Qué pasa si mi multa no se puede recurrir?`,

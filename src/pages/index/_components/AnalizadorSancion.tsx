@@ -196,10 +196,10 @@ function ScanAnimation() {
 
 // Nivel cualitativo (sin porcentaje: un % sería una precisión inventada).
 const NIVEL_TEXTO: Record<Nivel, { titulo: string; sub: string }> = {
-  alta: { titulo: "Hay motivos sólidos", sub: "Motivo objetivo para recurrir" },
+  alta: { titulo: "Motivos sólidos", sub: "Hay un fundamento claro para recurrir la sanción" },
   media: { titulo: "Posibles motivos", sub: "Merece la pena presentarlo" },
-  baja: { titulo: "Pocos motivos", sub: "No se aprecian defectos claros" },
-  no_valorable: { titulo: "No se puede valorar", sub: "Faltan datos del documento" },
+  baja: { titulo: "Pocos motivos", sub: "En el documento no se ven defectos evidentes" },
+  no_valorable: { titulo: "Sin valoración posible", sub: "El documento no aporta datos suficientes" },
 };
 function NivelBadge({ nivel }: { nivel: Nivel }) {
   const tx = NIVEL_TEXTO[nivel] ?? NIVEL_TEXTO.no_valorable;
@@ -376,15 +376,16 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
     if (!result?.carta || descargando) return;
     setDescargando(true);
     try {
-      const [{ jsPDF }, { construirPdfRecurso }] = await Promise.all([import("jspdf"), import("@/convex/lib/recursoPdf.ts")]);
+      const { construirPdfRecurso } = await import("@/convex/lib/recursoPdf.ts");
+      const { jsPDF } = await import("jspdf");
       const d = result.datosSancion;
       const doc = construirPdfRecurso(jsPDF, result.carta, {
-        expediente: d.expediente, importe: d.importe, infraccion: d.infraccion, fecha: d.fecha, plazoRecurso: d.plazoRecurso,
+        fecha: d.fecha, plazoRecurso: d.plazoRecurso, infraccion: d.infraccion, importe: d.importe, expediente: d.expediente,
       });
       doc.save("recurso-sancion.pdf");
     } catch (e) {
-      console.error("[pdf] error generando el PDF", e);
-      toast.error("No se ha podido generar el PDF. Inténtalo de nuevo; si falla otra vez, copia el texto del recurso y pégalo en un documento.");
+      console.error("[pdf] la carta de la sanción no se pudo convertir", e);
+      toast.error("El PDF no se ha creado. Reinténtalo y, si vuelve a fallar, copia el texto de la carta en un documento propio.");
     } finally {
       setDescargando(false);
     }
@@ -565,7 +566,7 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
               {result.motivosNivel!.map((m, i) => <li key={i}>{m}</li>)}
             </ul>
           )}
-          <p className="text-[10px] text-gray-400 leading-relaxed">Valoración orientativa basada solo en los datos leídos y en la normativa; no es una probabilidad de éxito ni asesoramiento jurídico.</p>
+          <p className="text-[10px] text-gray-400 leading-relaxed">Esta valoración es orientativa: parte únicamente de lo que se lee en la sanción y de la normativa aplicable. No mide probabilidades de éxito ni sustituye a un abogado.</p>
         </motion.div>
 
         {/* DEFECTOS */}

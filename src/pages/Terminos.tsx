@@ -54,7 +54,7 @@ export default function TerminosPage() {
           <section>
             <h2 className="text-xl font-black text-gray-900">3. Precios y pagos</h2>
             <ul className="list-disc pl-5 space-y-1">
-              <li><strong>Análisis con IA:</strong> Siempre gratuito. Incluye una valoración orientativa (alta, media, baja o no valorable) con sus motivos, los defectos detectados y un resumen.</li>
+              <li><strong>Análisis con IA:</strong> Siempre gratuito. Incluye una valoración cualitativa orientativa, los motivos que la sostienen, los defectos detectados y un resumen.</li>
               <li><strong>Recurso PDF único:</strong> 4,99 € por documento. Pago único, no recurrente.</li>
             </ul>
             <p>Los pagos se procesan de forma segura a través de Stripe. Emitimos factura por cada compra.</p>

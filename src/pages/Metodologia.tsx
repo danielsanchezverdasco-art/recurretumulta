@@ -34,11 +34,11 @@ const FAQS = [
   },
   {
     q: "¿Cómo sabe la IA si mi multa es recurrible?",
-    a: "Lee tu documento con un modelo de visión artificial, extrae los campos clave (agente, hechos, precepto, fechas, matrícula, importe) y los cruza con la normativa vigente: Reglamento General de Circulación, Ley de Tráfico y los plazos de prescripción y caducidad. Después valora si hay motivos para recurrir (alta, media, baja o «no valorable» si faltan datos), te explica por qué y te muestra los defectos concretos que ha encontrado. No usa porcentajes.",
+    a: "Lee tu documento con un modelo de visión artificial, extrae los campos clave (agente, hechos, precepto, fechas, matrícula, importe) y los cruza con la normativa vigente: Reglamento General de Circulación, Ley de Tráfico y los plazos de prescripción y caducidad. Después valora si hay motivos para recurrir (alta, media, baja o «no valorable» cuando faltan datos), te explica por qué y te muestra los defectos concretos que ha encontrado. No usa porcentajes.",
   },
   {
     q: "¿La valoración es una garantía?",
-    a: "No, y quien te garantice un resultado miente. La valoración es cualitativa y se apoya solo en los datos leídos del documento y en la normativa; no es una probabilidad de éxito. Si falta algún dato, te lo indicamos en lugar de suponerlo. La decisión final siempre la toma la Administración (y, en su caso, el juez). Lo que sí garantizamos es honestidad: si no vemos motivos, te lo decimos.",
+    a: "No, y quien te garantice un resultado miente. La valoración es cualitativa: se apoya únicamente en lo que se lee en el documento y en las normas aplicables, y no equivale a un porcentaje de éxito. Si falta algún dato, te lo indicamos en lugar de suponerlo. La decisión final siempre la toma la Administración (y, en su caso, el juez). Lo que sí garantizamos es honestidad: si no vemos motivos, te lo decimos.",
   },
   {
     q: "¿Qué datos utilizáis para entrenar o mejorar la IA?",
@@ -140,7 +140,7 @@ export default function MetodologiaPage() {
             <ShieldCheck className="h-8 w-8 text-red-600 shrink-0" />
             <div>
               <h3 className="font-bold text-lg mb-1">3. Veredicto honesto y carta de recurso</h3>
-              <p className="text-slate-600">Recibes una valoración orientativa (alta, media, baja o no valorable) con sus motivos, los defectos concretos encontrados (hasta los 4 más relevantes) y, si decides recurrir, la carta de alegaciones o el recurso redactado a partir de esos defectos.</p>
+              <p className="text-slate-600">Recibes una valoración orientativa en cuatro niveles (alta, media, baja o sin valoración posible), cada uno con sus razones, los defectos concretos encontrados (hasta los 4 más relevantes) y, si decides recurrir, la carta de alegaciones o el recurso redactado a partir de esos defectos.</p>
             </div>
           </div>
         </div>
