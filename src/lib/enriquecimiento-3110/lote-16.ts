@@ -14,7 +14,7 @@ export const LOTE_16: MapaEnriquecimiento = {
       "El frenado automático detecta peatones, ciclistas y otros vehículos, y logró evitar o suavizar el golpe en casi todas las situaciones de prueba. El aviso de cinturón con detección de ocupante es de serie en todas las plazas, y el vigilante de conducción analiza los movimientos del volante para reconocer fatiga o distracción.",
     ],
     filas: [
-      { etiqueta: "Calificación global", valor: "Cinco estrellas; protocolo de 2022; publicada el 10 de julio de 2024", fuente: "Euro NCAP, ficha del Renault Rafale", url: RAF, anio: "2024" },
+      { etiqueta: "Calificación global", valor: "Cinco estrellas; protocolo de 2022; publicada el 10 de julio de 2024", fuente: "Ficha del Renault Rafale en Euro NCAP", url: RAF, anio: "2024" },
       { etiqueta: "Adultos y niños", valor: "Adultos 87 %; niños 83 %", fuente: "Euro NCAP, ocupantes del Renault Rafale", url: RAF, anio: "2024" },
       { etiqueta: "Peatones, ciclistas y asistencias", valor: "Usuarios vulnerables 69 %; asistencias 87 %", fuente: "Euro NCAP, apartados de usuarios vulnerables y asistencias del Rafale", url: RAF, anio: "2024" },
       { etiqueta: "Variante ensayada", valor: "1.2 Tce E-Tech 200 híbrido, 4x2 (asterisco en la tabla)", fuente: "Euro NCAP, tabla de variantes del Rafale", url: RAF, anio: "2024" },

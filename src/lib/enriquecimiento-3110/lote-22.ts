@@ -56,7 +56,7 @@ export const LOTE_22: MapaEnriquecimiento = {
     titulo: "Cupra Terramar: nota de cinco estrellas en Euro NCAP y qué motores abarca",
     parrafos: [
       "El Terramar fue valorado por Euro NCAP en abril de 2025 con cinco estrellas. Sus notas parciales fueron 89 % en adultos, 87 % en niños, 82 % en vulnerables y 76 % en las ayudas a la conducción. El coche del ensayo fue el 1.5 TSI de 200 kW eHybrid VZ, con 1.839 kg en vacío.",
-      "La lista incluye el 1.5 eTSI de 110 kW, de tracción delantera, equivalente a los 150 CV de esta ficha, junto al 1.5 eHybrid de 150 kW, el 2.0 TSI de 150 kW y el 2.0 TSI VZ de 195 kW, estos dos con tracción total. Euro NCAP considera al Terramar un compañero de choque algo agresivo en un frontal con otro vehículo, y el pecho del pasajero trasero quedó marginal en la prueba de ancho completo.",
+      "La lista incluye el 1.5 eTSI de 110 kW, de tracción delantera, equivalente a los 150 CV de esta ficha, junto al 1.5 eHybrid de 150 kW, un 2.0 TSI de 150 kW y el 2.0 TSI VZ de 195 kW, estos dos con tracción total. Euro NCAP considera al Terramar un compañero de choque algo agresivo en un frontal con otro vehículo, y el pecho del pasajero trasero quedó marginal en la prueba de ancho completo.",
     ],
     filas: [
       { etiqueta: "Cinco estrellas del Terramar", valor: "Valoración de abril de 2025", fuente: "Ficha de CUPRA TERRAMAR en Euro NCAP (abril de 2025)", url: TERRA, anio: "2025" },
