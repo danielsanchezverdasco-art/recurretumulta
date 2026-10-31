@@ -1,4 +1,4 @@
-import { lazy, Suspense, useEffect, useState } from "react";
+import { lazy, Suspense, useEffect, useRef, useState } from "react";
 import { BrowserRouter, Link, Navigate, Route, Routes, useLocation } from "react-router-dom";
 import { DefaultProviders } from "./components/providers/default.tsx";
 import { ErrorBoundary } from "./components/error-boundary.tsx";
@@ -249,8 +249,13 @@ function ContentRoutes() {
 // en cada navegación. Debe vivir dentro del BrowserRouter (useLocation).
 function FadedRoutes() {
   const location = useLocation();
+  // 31/10/2026 (velocidad): la carga inicial NO lleva fundido. Con rtm-page-enter (opacity 0 → 1)
+  // horneado en el HTML prerenderizado, Chrome no contaba el H1/hero como LCP en el primer pintado
+  // (LCP de 8-10 s en móvil en posts). El fundido solo se aplica en navegaciones SPA posteriores.
+  const rutaInicial = useRef(location.pathname);
+  const alEntrar = location.pathname === rutaInicial.current ? "relative" : "rtm-page-enter relative";
   return (
-    <div key={location.pathname} className="rtm-page-enter relative">
+    <div key={location.pathname} className={alEntrar}>
       <Routes>
         {/* Español (idioma por defecto) — sin prefijo de idioma en la URL */}
         {ContentRoutes()}

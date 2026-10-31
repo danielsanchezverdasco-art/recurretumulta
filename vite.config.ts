@@ -2,6 +2,7 @@ import path from "node:path";
 import tailwindcss from "@tailwindcss/vite";
 import react from "@vitejs/plugin-react-swc";
 import { defineConfig } from "vite";
+import analisisShards from "./scripts/vite/analisis-shards.ts";
 
 // https://vite.dev/config/
 export default defineConfig({
@@ -13,7 +14,7 @@ export default defineConfig({
       overlay: false,
     },
   },
-  plugins: [react(), tailwindcss()],
+  plugins: [react(), tailwindcss(), analisisShards()],
   resolve: {
     alias: [
       // 13/10/2026 (indexación): <Link>/<NavLink> con barra final (src/lib/router-barra.tsx).

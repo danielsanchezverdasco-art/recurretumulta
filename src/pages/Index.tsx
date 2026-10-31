@@ -304,7 +304,7 @@ function q() {
           sizes: `170px`,
           width: `240`,
           height: `326`,
-          loading: `lazy`,
+          decoding: `async`,
           alt: ``,
           "aria-hidden": `true`,
         }),

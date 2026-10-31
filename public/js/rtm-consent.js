@@ -36,7 +36,15 @@
   if (prev) update(!!prev.a);
   function inicio() {
     if (prev) return;
-    setTimeout(function () { if (!fcActivo() && !read()) show(); }, 2500);
+    /* 31/10/2026: el CMP de Google se carga en diferido (index.html). Se espera a que haya cargado
+       (máx. 9 s) + 2,5 s antes de decidir si hace falta este banner, para no duplicar mensajes. */
+    var t0 = Date.now(), tFc = 0;
+    (function chequear() {
+      if (window.__rtmFcListo && !tFc) tFc = Date.now();
+      var espera = tFc ? Date.now() - tFc >= 2500 : Date.now() - t0 >= 9000;
+      if (!espera) return setTimeout(chequear, 400);
+      if (!fcActivo() && !read()) show();
+    })();
   }
   if (document.readyState === 'complete') inicio(); else window.addEventListener('load', inicio);
   /* Botón «Configurar cookies» del pie: si no hay mensaje de Google, reabre este banner. */

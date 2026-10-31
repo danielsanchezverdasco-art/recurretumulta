@@ -8,6 +8,10 @@ export function Splash() {
   const [show, setShow] = useState(false);
   const [done, setDone] = useState(false);
   useEffect(() => {
+    // 24/10/2026 (velocidad): nunca en el prerender. Según cuándo se capturase, el
+    // splash (fijo, blanco, pantalla completa) quedaba horneado en el HTML estático
+    // (332 páginas en vivo) y tapaba el contenido hasta que cargaba el JS.
+    if ((window as unknown as { __PRERENDER__?: boolean }).__PRERENDER__) return;
     try {
       if (sessionStorage.getItem("rtm-splash") === "1") return;
     } catch { /* noop */ }

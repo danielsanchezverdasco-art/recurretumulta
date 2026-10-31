@@ -38,7 +38,11 @@ if (rootEl.innerHTML.trim().length > 200) {
 // Así el contenido prerenderizado sigue visible (es el LCP) y no se sustituye por el
 // cargador mientras llegan los chunks diferidos.
 // No en el prerender (navegador automatizado): allí se monta directamente sobre #root.
-const prerender = rootEl.innerHTML.trim().length > 200 && !navigator.webdriver && !/[?&]sinswap\b/.test(location.search);
+// 24/10/2026 (velocidad): antes se excluía con navigator.webdriver, que también es true
+// en Lighthouse/PageSpeed (Chrome headless): allí React borraba el HTML prerenderizado y
+// el LCP esperaba a todo el JS. Ahora solo se excluye el prerender (window.__PRERENDER__).
+const esPrerender = !!(window as unknown as { __PRERENDER__?: boolean }).__PRERENDER__;
+const prerender = rootEl.innerHTML.trim().length > 200 && !esPrerender && !/[?&]sinswap\b/.test(location.search);
 let destino = rootEl;
 if (prerender) {
   destino = document.createElement("div");
