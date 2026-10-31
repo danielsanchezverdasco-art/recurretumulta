@@ -5,11 +5,11 @@ const BRO = "https://e-brochure.dacia.pt/jogger/mobile/m_ebro_dacia_jogger_pt_no
 const MOT = "https://www.dacia.es/modelos/jogger/motores.html";
 const FT = "https://www.dacia.es/modelos/jogger/ficha-tecnica.html";
 
-const SRC1 = { fuente: "Dacia Portugal, folleto Jogger Eco-G 120, tabla de motorizaciones", url: BRO, anio: "2025" };
-const SRC2 = { fuente: "Dacia Portugal, folleto Jogger Eco-G 120, apartado de consumos", url: BRO, anio: "2025" };
-const SRC3 = { fuente: "Dacia Portugal, folleto Jogger Hybrid 155, apartado de pesos", url: BRO, anio: "2025" };
-const SRC4 = { fuente: "Dacia Portugal, folleto Jogger de 7 plazas, tabla de volúmenes de carga", url: BRO, anio: "2025" };
-const SRC5 = { fuente: "Dacia Portugal, folleto Jogger de 7 plazas, tabla de pesos", url: BRO, anio: "2025" };
+const SRC1 = { fuente: "Folleto Dacia PT Eco-G 120, motorizaciones", url: BRO, anio: "2025" };
+const SRC2 = { fuente: "Folleto Dacia PT Eco-G 120, consumos", url: BRO, anio: "2025" };
+const SRC3 = { fuente: "Folleto Dacia PT Hybrid 155, pesos", url: BRO, anio: "2025" };
+const SRC4 = { fuente: "Folleto Dacia PT 7 pl., volúmenes de carga", url: BRO, anio: "2025" };
+const SRC5 = { fuente: "Folleto Dacia PT 7 pl., pesos", url: BRO, anio: "2025" };
 
 export const LOTE_09: MapaEnriquecimiento = {
   "dacia-jogger-eco-g-120-2026-precio-ficha-tecnica": {
@@ -26,8 +26,8 @@ export const LOTE_09: MapaEnriquecimiento = {
       { etiqueta: "Consumo y CO₂ (gasolina)", valor: "5,9 litros cada 100 km y 134 g de CO₂ por km (WLTP, manual)", ...SRC2 },
       { etiqueta: "Depósitos", valor: "Gasolina 50 l; GLP 50 l totales y 40 l de llenado", ...SRC2 },
       { etiqueta: "Autonomía anunciada", valor: "Más de 1.400 km combinados", fuente: "Dacia España, página de motores del Jogger", url: MOT, anio: "2025" },
-      { etiqueta: "Aceleración hasta 100 km/h (5 plazas, manual)", valor: "10,9 s con GLP; 11,9 s con gasolina", fuente: "Dacia Portugal, folleto Jogger Eco-G 120, apartado de prestaciones", url: BRO, anio: "2025" },
-      { etiqueta: "Masa remolcable frenada (Eco-G 120)", valor: "1.200 kg", fuente: "Dacia Portugal, folleto Jogger Eco-G 120, apartado de pesos", url: BRO, anio: "2025" },
+      { etiqueta: "Aceleración hasta 100 km/h (5 plazas, manual)", valor: "10,9 s con GLP; 11,9 s con gasolina", fuente: "Folleto Dacia PT Eco-G 120, prestaciones", url: BRO, anio: "2025" },
+      { etiqueta: "Masa remolcable frenada (Eco-G 120)", valor: "1.200 kg", fuente: "Folleto Dacia PT Eco-G 120, pesos", url: BRO, anio: "2025" },
     ],
   },
   "dacia-jogger-hybrid-155-2026-precio-ficha-tecnica": {
@@ -40,13 +40,13 @@ export const LOTE_09: MapaEnriquecimiento = {
     ],
     filas: [
       { etiqueta: "Sistema híbrido", valor: "1.8 de 1.789 cm³ y 4 cilindros; 2 motores eléctricos; potencia combinada de 158 CV según Dacia España", fuente: "Dacia España, página de motores del Jogger Hybrid 155", url: MOT, anio: "2025" },
-      { etiqueta: "Par motor", valor: "172 Nm térmico (3.000–4.000 rpm) y 205 Nm eléctrico", fuente: "Dacia Portugal, folleto Jogger Hybrid 155, tabla de motorizaciones", url: BRO, anio: "2025" },
-      { etiqueta: "Batería de tracción", valor: "Iones de litio, 230 V, 1,4 kWh", fuente: "Dacia Portugal, folleto Jogger Hybrid 155, apartado de batería", url: BRO, anio: "2025" },
-      { etiqueta: "Consumo y CO₂", valor: "4,6 litros cada 100 km y 104 g de CO₂ por km (WLTP)", fuente: "Dacia Portugal, folleto Jogger Hybrid 155, apartado de consumos", url: BRO, anio: "2025" },
-      { etiqueta: "Aceleración hasta 100 km/h", valor: "8,9 s con 5 plazas; 9,0 s con 7 plazas", fuente: "Dacia Portugal, folleto Jogger Hybrid 155, apartado de prestaciones", url: BRO, anio: "2025" },
+      { etiqueta: "Par motor", valor: "172 Nm térmico (3.000–4.000 rpm) y 205 Nm eléctrico", fuente: "Folleto Dacia PT Hybrid 155, motorizaciones", url: BRO, anio: "2025" },
+      { etiqueta: "Batería de tracción", valor: "Iones de litio, 230 V, 1,4 kWh", fuente: "Folleto Dacia PT Hybrid 155, batería", url: BRO, anio: "2025" },
+      { etiqueta: "Consumo y CO₂", valor: "4,6 litros cada 100 km y 104 g de CO₂ por km (WLTP)", fuente: "Folleto Dacia PT Hybrid 155, consumos", url: BRO, anio: "2025" },
+      { etiqueta: "Aceleración hasta 100 km/h", valor: "8,9 s con 5 plazas; 9,0 s con 7 plazas", fuente: "Folleto Dacia PT Hybrid 155, prestaciones", url: BRO, anio: "2025" },
       { etiqueta: "Tara del Hybrid 155", valor: "1.359–1.373 kg (5 plazas); 1.388–1.405 kg (7 plazas)", ...SRC3 },
       { etiqueta: "Masa remolcable frenada (Hybrid 155)", valor: "1.200 kg (5 plazas); 1.000 kg (7 plazas)", ...SRC3 },
-      { etiqueta: "Neumáticos y giro", valor: "205/60 R16 92H; 11,39 m entre aceras", fuente: "Dacia Portugal, folleto Jogger Hybrid 155, apartado de chasis", url: BRO, anio: "2025" },
+      { etiqueta: "Neumáticos y giro", valor: "205/60 R16 92H; 11,39 m entre aceras", fuente: "Folleto Dacia PT Hybrid 155, chasis", url: BRO, anio: "2025" },
     ],
   },
   "dacia-jogger-tce-110-2026-precio-ficha-tecnica": {
@@ -58,12 +58,12 @@ export const LOTE_09: MapaEnriquecimiento = {
       "Las cotas del folleto son 4.550 mm de largo, 2.898 mm de distancia entre ejes, 833 mm de voladizo delantero, 819 mm de voladizo trasero y 195 mm de altura libre. Con el portón abierto la altura es de 2.012 mm, la misma cifra que da la ficha española de Dacia.",
     ],
     filas: [
-      { etiqueta: "Motor TCe 110", valor: "999 cm³, 3 cilindros, turbo, inyección directa; 81 kW (110 CV); 200 Nm", fuente: "Dacia Portugal, folleto Jogger TCe 110 de 5 plazas, tabla de motorizaciones", url: BRO, anio: "2025" },
-      { etiqueta: "Consumo y CO₂", valor: "6,0 litros cada 100 km y 136 g de CO₂ por km (WLTP)", fuente: "Dacia Portugal, folleto Jogger TCe 110 de 5 plazas, apartado de consumos", url: BRO, anio: "2025" },
-      { etiqueta: "Aceleración (5 plazas)", valor: "10,5 s hasta 100 km/h", fuente: "Dacia Portugal, folleto Jogger TCe 110 de 5 plazas, apartado de prestaciones", url: BRO, anio: "2025" },
-      { etiqueta: "Masa en vacío (TCe 110, 5 plazas)", valor: "1.193–1.230 kg", fuente: "Dacia Portugal, folleto Jogger TCe 110 de 5 plazas, apartado de pesos", url: BRO, anio: "2025" },
-      { etiqueta: "Maletero (5 plazas)", valor: "708 dm³ VDA (829 l) mínimo; 1.819 dm³ VDA (2.094 l) máximo", fuente: "Dacia Portugal, folleto Jogger TCe 110 de 5 plazas, apartado de volúmenes", url: BRO, anio: "2025" },
-      { etiqueta: "Cotas de carrocería", valor: "Largo 4.550 mm; batalla 2.898 mm; voladizos 833 mm y 819 mm; altura libre 195 mm", fuente: "Dacia Portugal, folleto Jogger TCe 110 de 5 plazas, esquema de dimensiones", url: BRO, anio: "2025" },
+      { etiqueta: "Motor TCe 110", valor: "999 cm³, 3 cilindros, turbo, inyección directa; 81 kW (110 CV); 200 Nm", fuente: "Folleto Dacia PT TCe 110 5 pl., motorizaciones", url: BRO, anio: "2025" },
+      { etiqueta: "Consumo y CO₂", valor: "6,0 litros cada 100 km y 136 g de CO₂ por km (WLTP)", fuente: "Folleto Dacia PT TCe 110 5 pl., consumos", url: BRO, anio: "2025" },
+      { etiqueta: "Aceleración (5 plazas)", valor: "10,5 s hasta 100 km/h", fuente: "Folleto Dacia PT TCe 110 5 pl., prestaciones", url: BRO, anio: "2025" },
+      { etiqueta: "Masa en vacío (TCe 110, 5 plazas)", valor: "1.193–1.230 kg", fuente: "Folleto Dacia PT TCe 110 5 pl., pesos", url: BRO, anio: "2025" },
+      { etiqueta: "Maletero (5 plazas)", valor: "708 dm³ VDA (829 l) mínimo; 1.819 dm³ VDA (2.094 l) máximo", fuente: "Folleto Dacia PT TCe 110 5 pl., volúmenes", url: BRO, anio: "2025" },
+      { etiqueta: "Cotas de carrocería", valor: "Largo 4.550 mm; batalla 2.898 mm; voladizos 833 mm y 819 mm; altura libre 195 mm", fuente: "Folleto Dacia PT TCe 110 5 pl., esquema de dimensiones", url: BRO, anio: "2025" },
       { etiqueta: "Altura con portón abierto", valor: "2.012 mm", fuente: "Dacia España, ficha técnica del Jogger TCe 110 Essential", url: FT, anio: "2026" },
     ],
   },
@@ -77,7 +77,7 @@ export const LOTE_09: MapaEnriquecimiento = {
     filas: [
       { etiqueta: "Maletero con 7 asientos", valor: "160 dm³ VDA (212 l) con 3 filas; 565 dm³ (699 l) con la 3.ª plegada; 696 dm³ (820 l) con la 3.ª desmontada", ...SRC4 },
       { etiqueta: "Maletero máximo con 7 plazas", valor: "1.807 dm³ VDA (2.085 l)", ...SRC4 },
-      { etiqueta: "Aceleración (7 plazas)", valor: "11,2 s hasta 100 km/h", fuente: "Dacia Portugal, folleto Jogger de 7 plazas, tabla de prestaciones", url: BRO, anio: "2025" },
+      { etiqueta: "Aceleración (7 plazas)", valor: "11,2 s hasta 100 km/h", fuente: "Folleto Dacia PT 7 pl., prestaciones", url: BRO, anio: "2025" },
       { etiqueta: "Masa en vacío (TCe 110, 7 plazas)", valor: "1.221–1.261 kg", ...SRC5 },
       { etiqueta: "Peso total rodante autorizado", valor: "3.055 kg", ...SRC5 },
       { etiqueta: "Masa remolcable frenada (7 plazas)", valor: "1.200 kg", ...SRC5 },
