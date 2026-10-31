@@ -4209,5 +4209,15 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "Segway-Ninebot (foto de producto de la tienda oficial de España)",
 "licencia": "prensa",
 "url": "https://shop.segway.com/media/catalog/product/2/_/2_12.png"
+},
+"/media/patinetes/segway-ninebot-f3-pro-e-oficial.webp": {
+"autor": "Segway-Ninebot (foto de producto de la tienda oficial de España)",
+"licencia": "prensa",
+"url": "https://shop.segway.com/media/catalog/product/u/n/untitled_design_9__1.png"
+},
+"/media/patinetes/segway-ninebot-gt3-e-oficial.webp": {
+"autor": "Segway-Ninebot (foto de producto de la tienda oficial de España)",
+"licencia": "prensa",
+"url": "https://shop.segway.com/media/catalog/product/u/n/untitled_design_5_.png"
 }
 };
