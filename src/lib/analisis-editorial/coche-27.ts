@@ -1,0 +1,17 @@
+// Análisis editorial lote coche-27 (31/10/2026, Equipo editorial de RecurreTuMulta).
+// Fichas con impresiones reescritas con datos verificados de fuente (cada ficha cita la suya en su texto de precio).
+// Este lote va el ÚLTIMO de los de coches en fusionar(): sustituye al análisis breve anterior de la misma ficha.
+import type { MapaAnalisis } from "../analisis-editorial-tipos.ts";
+
+export const ANALISIS_COCHE_27: MapaAnalisis = {
+  "maextro-v800-huawei-precio-ficha-tecnica": {
+    parrafos: [
+      "El Maextro V800 es un monovolumen de siete plazas de 5.495 mm de largo y 3.430 mm de distancia entre ejes, el más grande y caro de la marca de lujo que Huawei levantó con JAC. Es un híbrido de autonomía extendida: el motor 1.5 turbo de 127 kW solo genera electricidad para alimentar dos motores eléctricos, uno delantero de 160 kW y otro trasero de 230 kW, que suman 390 kW, los 523 CV de la ficha. La tracción es total y la aceleración de 0 a 100 km/h se queda en 5,7 segundos en las tres versiones, algo llamativo para un vehículo que pesa entre 3.120 y 3.190 kg.",
+      "Las tres versiones chinas no se distinguen por la mecánica sino por el chasis y el interior. La Premium (766.000 yuanes) lleva suspensión neumática con amortiguación variable y dirección a las cuatro ruedas de hasta 12 grados; la suspensión activa de 800 V y la dirección por cable son opcionales. La Executive (866.000 yuanes) las monta de serie y añade faros proyectores de dos millones de píxeles. La Flagship (1.016.000 yuanes) suma el techo de estrellas, bicolores exclusivos y 210 km/h de punta frente a los 200 de las otras dos; además existe un paquete de diseño opcional de 150.000 yuanes. La Premium es la de más alcance (340 km eléctricos CLTC) y las otras dos bajan a 330 km.",
+      "La batería es una NMC de 65 kWh de CATL con arquitectura de 800 V y carga 6C: de 10 a 80 % en 10,5 minutos según la marca, y de 20 a 90 % en unas siete horas con carga lenta. En ciclo chino CLTC la autonomía total con depósito (62 litros) y batería llena es de 1.335 km en la Premium y 1.300 km en las demás; el mismo dato en ciclo WLTC baja a 1.158 y 1.128 km, que es la referencia más cercana a lo que se mediría en Europa. Esa diferencia es la razón por la que no conviene tomar los 340 km eléctricos como autonomía real en autopista.",
+      "En maniobra, la dirección trasera permite un radio de giro de 5,4 metros y un modo de avance en diagonal; en seguridad activa lleva el sistema Qiankun ADS 5 con 40 sensores y seis LiDAR, sobre una arquitectura que la marca describe como preparada para conducción de nivel 3. En la segunda fila hay dos butacas con masaje de 20 puntos y una pantalla de proyección de 41,6 pulgadas. Sus rivales declarados son el Toyota Alphard y el Lexus LM, pero a un precio muy superior al de ambos en China.",
+      "Se presentó el 5 de agosto de 2026 y la marca anunció 2.115 pedidos en firme en la primera hora; los precios finales quedaron por debajo del rango de preventa de junio (800.000 a 1,2 millones de yuanes). Las entregas empezaron en septiembre. No hay importador ni tarifa en España, por lo que el precio en euros de esta ficha es una conversión orientativa y no una oferta de venta.",
+    ],
+    veredicto: "Para quien quiera saber qué ofrece hoy el monovolumen eléctrico de autonomía extendida más lujoso del mercado chino; no es una opción de compra en España, donde no se vende.",
+  },
+};
