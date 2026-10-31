@@ -43,6 +43,7 @@ const ART_RECURSO =
 
 function respuestaOrganismo(c: Omit<Comunidad, "faq">): { pregunta: string; respuesta: string } {
   const n = c.nombre;
+  const preguntaGenerica = `¿Dónde presento el recurso de una multa de tráfico en ${n}?`;
   switch (c.organismo) {
     case "SCT":
       return {
@@ -52,14 +53,14 @@ function respuestaOrganismo(c: Omit<Comunidad, "faq">): { pregunta: string; resp
       };
     case "ERT":
       return {
-        pregunta: `¿Dónde presento el recurso de una multa de tráfico en ${n}?`,
+        pregunta: preguntaGenerica,
         respuesta:
           "La Dirección de Tráfico del Departamento de Seguridad del Gobierno Vasco ejerce la potestad sancionadora (Decreto 318/2024, artículo 17), a través de las Oficinas Territoriales de Tráfico de Álava, Bizkaia y Gipuzkoa y del CATIT. Las alegaciones y los recursos se tramitan en euskadi.eus. " +
           ART_RECURSO,
       };
     case "PF":
       return {
-        pregunta: `¿Dónde presento el recurso de una multa de tráfico en ${n}?`,
+        pregunta: preguntaGenerica,
         respuesta:
           "A partir del 1/07/2026 tramita, resuelve y cobra el Gobierno de Navarra; por tanto las alegaciones y los recursos se dirigen a la Administración foral y no a la DGT. El plazo para alegar son 20 días naturales; el escrito se entrega a través de Mi Carpeta Ciudadana o de forma presencial; el pago se hace en navarra.es/es/trafico (fuente: Gobierno de Navarra, 30/06/2026).",
       };
@@ -103,7 +104,7 @@ function faqComun(c: Omit<Comunidad, "faq">): Comunidad["faq"] {
     {
       pregunta: "¿Cuánto tiempo tengo para recurrir una multa de tráfico?",
       respuesta:
-        "Hay 20 días naturales desde el día siguiente a la notificación para pagar con el 50 % de reducción o presentar alegaciones (artículos 94 y 95 del Real Decreto Legislativo 6/2015). Contra la resolución sancionadora cabe el recurso de reposición en un mes o acudir a la vía contencioso-administrativa.",
+        "Desde el día siguiente a la notificación corren 20 días naturales para abonar con la rebaja del 50 % o presentar alegaciones (artículos 94 y 95 del Real Decreto Legislativo 6/2015). Contra la resolución sancionadora cabe el recurso de reposición en un mes o acudir a la vía contencioso-administrativa.",
     },
     {
       pregunta: "¿Puedo recurrir una multa si ya la he pagado?",
@@ -332,7 +333,7 @@ const BASE: Omit<Comunidad, "faq">[] = [
     capital: "Vitoria-Gasteiz",
     foto: "/media/pilar-radares.webp",
     descripcion: "El País Vasco tiene competencia propia en tráfico: la Dirección de Tráfico vasca es el órgano sancionador (Decreto 318/2024) y la Ertzaintza es el cuerpo que denuncia en sus vías interurbanas. Álava, Bizkaia y Gipuzkoa son sus tres provincias.",
-    particularidades: ["La instrucción y la resolución de los expedientes corresponden a las Oficinas Territoriales de Tráfico de Álava, Bizkaia y Gipuzkoa, según el lugar de la infracción, o al Centro Automatizado de Tramitación de Infracciones de Tráfico (CATIT); los trámites se hacen en euskadi.eus.", ],
+    particularidades: ["La instrucción y la resolución de los expedientes dependen de la oficina de tráfico de cada territorio histórico, según el lugar de la infracción, o del Centro Automatizado de Tramitación de Infracciones de Tráfico (CATIT); los trámites se hacen en euskadi.eus.", ],
     zbe: ["Bilbao", "Donostia-San Sebastián", "Vitoria-Gasteiz"],
     keywords: ["multas de tráfico en el País Vasco", "cómo recurrir una multa en Euskadi", "recurso Ertzaintza multa", "multa Gobierno Vasco recurrir", "dónde recurrir multa País Vasco 2026"],
   },
