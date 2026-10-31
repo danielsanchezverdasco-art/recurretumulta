@@ -2278,7 +2278,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Doble sistema de frenado: tambor delantero fiable + electrónico trasero",
     "App NIU con bloqueo inteligente, estadísticas y modo personalizado",
     "Neumáticos anchos de 9″ y chasis de acero de grado automotriz",
-    "Cuatro modos de conducción (E-Save, Sport, Custom y Peatón)"
+    "Modos E-Save, Sport, Custom y Peatón (cuatro en total)"
   ],
   contras: [
     "Potencia nominal de solo 250 W: flojo en cuestas (14% máximo declarado)",

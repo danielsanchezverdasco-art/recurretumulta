@@ -459,7 +459,7 @@ export const COCHES_LIAUTO: CocheComparador[] = [
     contras: [
       "Precio europeo aún sin anunciar: costará bastante más que los ~33.100 € chinos",
       "Sin fecha para España: el desembarco europeo empieza por Noruega y Países Bajos",
-      "Sin prueba EuroNCAP publicada: el modelo aún no se vende en Europa",
+      "Sin prueba EuroNCAP publicada porque el modelo todavía no llega a Europa",
       "Maletero, peso, velocidad máxima y consumo WLTP aún sin publicar para el 2026",
       "Marca sin red europea consolidada: servicio y recambios en construcción",
     ],

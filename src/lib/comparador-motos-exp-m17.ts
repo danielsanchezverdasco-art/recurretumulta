@@ -582,7 +582,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Bicilíndrico LC8c de 799 cc con 95 CV y 87 Nm: la 'Scalpel' original",
+      "Bicilíndrico LC8c (799 cc, 95 CV y 87 Nm): la 'Scalpel' original",
       "Solo 174 kg: relación peso-potencia de referencia",
       "Electrónica con IMU: MTC sensible a la inclinación, ABS en curva y anti-wheelie",
       "4 modos de conducción, quickshifter y pantalla TFT de 5 pulgadas",

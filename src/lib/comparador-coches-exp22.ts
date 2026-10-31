@@ -557,7 +557,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     emisionesCo2: 22,
     aprox: ["precioDesde", "anchoMm"],
     pros: [
-      "7 plazas reales en un SUV de 4,70 m",
+      "Siete plazas útiles en un SUV de 4,70 metros",
       "El modelo más grande y familiar de DR",
       "Acabado Sportequipe deportivo",
       "Alternativa asequible a los SUV de 7 plazas",
