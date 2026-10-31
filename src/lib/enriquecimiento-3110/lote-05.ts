@@ -41,7 +41,7 @@ export const LOTE_05: MapaEnriquecimiento = {
     ],
     filas: [
       { etiqueta: "Motor", valor: "V8 de 4.969 cc, igual que el coupé; 477 PS y 540 Nm, o 464 PS y 530 Nm con filtro de partículas", ...SRC3 },
-      { etiqueta: "Prestaciones", valor: "Aceleración 0–100 km/h: 5,0 s; velocidad máxima 270 km/h", ...SRC3 },
+      { etiqueta: "Prestaciones", valor: "Hasta 100 km/h en 5,0 s; techo de 270 km/h", ...SRC3 },
       { etiqueta: "Masas", valor: "Vacío 2.035–2.055 kg; autorizada 2.450 kg", ...SRC3 },
       { etiqueta: "Maletero y altura", valor: "149 l VDA; altura 1.350 mm; altura libre mínima 131 mm", ...SRC3 },
       { etiqueta: "Consumo y CO₂", valor: "WLTP: 11,72 l/100 km, 275,17 g/km; NEDC: 12,63 l/100 km, 288,32 g/km", ...SRC3 },
