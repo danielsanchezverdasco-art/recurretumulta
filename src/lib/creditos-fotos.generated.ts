@@ -2044,5 +2044,90 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "RL GNZLZ · Wikimedia Commons",
 "licencia": "CC BY-SA 2.0",
 "url": "https://commons.wikimedia.org/wiki/File:2021_JAC_JS4_1.6_Comfort.jpg"
+},
+"/media/jac-qx-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "JustAnotherCarDesigner · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Sehol_QX_001.jpg"
+},
+"/media/jac-qx-phev-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "JustAnotherCarDesigner · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:JAC_QX_PHEV_001.jpg"
+},
+"/media/jaecoo-7-shs-hibrido-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Jaecoo_7_SHS_IMG_8113.jpg"
+},
+"/media/jeep-avenger-gasolina-100-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Jeep_Avenger_1.2_1X7A1600.jpg"
+},
+"/media/leapmotor-c01-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "Quzhouliulian · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Leapmotor_C01_006.jpg"
+},
+"/media/mazda-mx-5-rf-15-skyactiv-g-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Mazda_MX-5_RF_IMG_7340.jpg"
+},
+"/media/porsche-911-turbo-s-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "Oleg Yunakov · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2024_Porsche_911_Turbo_S.jpg"
+},
+"/media/porsche-cayenne-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Porsche_Cayenne_(2023%E2%80%93)_IMG_5392.jpg"
+},
+"/media/volkswagen-california-t7-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Volkswagen_T7_California_Auto_Zuerich_2024_DSC_6634.jpg"
+},
+"/media/volkswagen-tayron-ehybrid-204-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Volkswagen_Tayron_II_eHybrid_DSC_7824.jpg"
+},
+"/media/motos/harley-davidson-street-glide-2025-ficha-tecnica-precio-1.webp": {
+"autor": "Chris Woodrich · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Harley-Davidson_Street_Glide,_Petrolia,_Ontario,_2026-05-17_02.jpg"
+},
+"/media/motos/rieju-aventura-500-2024-ficha-tecnica-precio-1.webp": {
+"autor": "ADVrache155 · Wikimedia Commons",
+"licencia": "CC BY 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Rieju_Aventura_500.jpg"
+},
+"/media/motos/rieju-aventura-rally-307-2026-ficha-tecnica-precio-1.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Rieju_Aventura_Rally_307.jpg"
+},
+"/media/motos/royal-enfield-continental-gt-650-2024-ficha-tecnica-precio.webp": {
+"autor": "Cjp24 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_Continental_GT_650_(1).jpg"
+},
+"/media/motos/royal-enfield-himalayan-450-2025-ficha-tecnica-precio-1.webp": {
+"autor": "Rouv1505 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Royal-Enfield-Himalayan-450.jpg"
+},
+"/media/volkswagen-golf-8-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "Thomas doerfer · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:VW_Golf_VIII_Life_1.5_TSI.jpg"
+},
+"/media/jaecoo-5-shs-hibrido-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "CarsofGlasgow · Wikimedia Commons",
+"licencia": "CC BY 3.0",
+"url": "https://commons.wikimedia.org/wiki/File:2025_Jaecoo_5_1.6_Luxury_(United_Kingdom)_front_view.jpg"
 }
 };

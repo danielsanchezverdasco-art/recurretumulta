@@ -4541,3 +4541,23 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/im-ls7-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:IM_LS7_GIMS_2024_1X7A2396.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
 | /media/jac-j7-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:JAC_J7_Plus_Pozna%C5%84_Motor_Show_2026.jpg | Peżot · Wikimedia Commons | CC BY-SA 4.0 |
 | /media/jac-js4-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2021_JAC_JS4_1.6_Comfort.jpg | RL GNZLZ · Wikimedia Commons | CC BY-SA 2.0 |
+| /media/jac-qx-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Sehol_QX_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/jac-qx-phev-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:JAC_QX_PHEV_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/jaecoo-7-shs-hibrido-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Jaecoo_7_SHS_IMG_8113.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/jeep-avenger-gasolina-100-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Jeep_Avenger_1.2_1X7A1600.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/leapmotor-c01-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Leapmotor_C01_006.jpg | Quzhouliulian · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/leapmotor-c16-erev-280-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Leapmotor_C16_013.jpg | Quzhouliulian · Wikimedia Commons | CC0 |
+| /media/mazda-mx-5-rf-15-skyactiv-g-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Mazda_MX-5_RF_IMG_7340.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/porsche-911-turbo-s-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2024_Porsche_911_Turbo_S.jpg | Oleg Yunakov · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/porsche-cayenne-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Porsche_Cayenne_(2023%E2%80%93)_IMG_5392.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/porsche-macan-turbo-electric-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Porsche_Macan_Turbo_Electric_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/volkswagen-california-t7-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Volkswagen_T7_California_Auto_Zuerich_2024_DSC_6634.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/volkswagen-tayron-ehybrid-204-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Volkswagen_Tayron_II_eHybrid_DSC_7824.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/bmw-r-12-s-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:BMW_R12S_2025.jpg | Franken-Guzzista · Wikimedia Commons | CC0 |
+| /media/motos/harley-davidson-street-glide-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Harley-Davidson_Street_Glide,_Petrolia,_Ontario,_2026-05-17_02.jpg | Chris Woodrich · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/rieju-aventura-500-2024-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Rieju_Aventura_500.jpg | ADVrache155 · Wikimedia Commons | CC BY 4.0 |
+| /media/motos/rieju-aventura-rally-307-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Rieju_Aventura_Rally_307.jpg | MotorideSA · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/royal-enfield-continental-gt-650-2024-ficha-tecnica-precio.webp | https://commons.wikimedia.org/wiki/File:Royal_Enfield_Continental_GT_650_(1).jpg | Cjp24 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/royal-enfield-himalayan-450-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Royal-Enfield-Himalayan-450.jpg | Rouv1505 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/volkswagen-golf-8-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:VW_Golf_VIII_Life_1.5_TSI.jpg | Thomas doerfer · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/jaecoo-5-shs-hibrido-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2025_Jaecoo_5_1.6_Luxury_(United_Kingdom)_front_view.jpg | CarsofGlasgow · Wikimedia Commons | CC BY 3.0 |
