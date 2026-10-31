@@ -2071,7 +2071,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       "Garantía de 7 años o 150.000 km de MG",
     ],
     contras: [
-      "3 estrellas EuroNCAP 2024, mejorable en seguridad",
+      "4 estrellas Euro NCAP (2025): la protección de niños (73 %) y las asistencias (69 %) son mejorables",
       "Motor 1.5 de 115 CV sin hibridación",
       "Acabados sencillos",
       "Cambio manual de tacto mejorable",
