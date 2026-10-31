@@ -968,7 +968,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   {
     id: "zontes-368g-2025-ficha-tecnica-precio",
     textosPropios: {
-      precio: "Zontes España publica 5.592 € PVR para el 368G ETC, con seguro de moto incluido el primer año en una promoción válida hasta el 30/06/2026 (zontesmotos.es, consultado el 31/10/2026). Pide al concesionario el precio final con gastos y si la promoción sigue activa.",
+      precio: "El PVR oficial del 368G ETC es 5.592 € (zontesmotos.es, 31/10/2026). La web lo une a un año de seguro gratis para particulares, con una promoción que caducó el 30/06/2026 salvo prórroga. Solicita al concesionario el importe final con gastos.",
     },
     marca: "Zontes",
     modelo: "368G",
@@ -994,7 +994,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "Depósito de 17,5 L",
       "Cámara HD de serie",
       "ABS desconectable",
-      "Pantalla TFT de 8 pulgadas con navegación y mirroring",
+      "TFT de 8\" con navegación y espejo del móvil",
     ],
     contras: [
       "203 kg en orden de marcha: pesado para un scooter",

@@ -2387,8 +2387,8 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   {
     id: "tesla-roadster-2026-retraso-precio-ficha-tecnica",
     textosPropios: {
-      precio: "Tesla no ha publicado el precio de venta del nuevo Roadster. Lo único oficial es la reserva: 50.000 $ para el Performance y 250.000 $ para el Thrust; el Rocket es solo por invitación (TechCrunch, 15/10/2026; Fortune, 17/10/2026). La producción está anunciada para 2028 y no hay precio ni fecha para España.",
-      faqPrecio: "Tesla no ha anunciado el precio del Roadster: solo cobra una reserva de 50.000 $ (Performance) o 250.000 $ (Thrust), y el Rocket es solo por invitación. La producción empezará en 2028 y no hay PVP en euros.",
+      precio: "Tesla aún no tiene precio de venta para el Roadster. La cifra oficial es una reserva: 50.000 $ Performance, 250.000 $ Thrust, y Rocket solo con invitación; fuentes: TechCrunch del 15 de octubre y Fortune del 17 de octubre de 2026. Producción anunciada para 2028, sin precio ni fecha para España.",
+      faqPrecio: "No hay precio: Tesla solo pide reservar, con 50.000 $ Performance o 250.000 $ Thrust, y reserva el Rocket a clientes invitados. Fabricación prevista en 2028 y sin PVP en euros.",
     },
     // 17/10/2026: actualizada a la presentación de Waco (15/10/2026, producción en 2028).
     // Fuente: anuncio de Tesla en X y crónicas de InsideEVs, Jalopnik y TechCrunch (ver /blog/tesla-roadster-2028-presentacion/).
@@ -6950,7 +6950,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   {
     id: "renault-austral-2024-precio-ficha-tecnica",
     textosPropios: {
-      precio: "La tarifa oficial del Renault Austral de marzo de 2026 es de 34.235 € (150 CV mild hybrid Evolution) y 38.054 € (Full Hybrid 200 CV Evolution), según Motor.es. En la tienda online de Renault España (31/10/2026) hay unidades de stock del Full Hybrid Evolution entre 34.992 € y 35.361 € con IVA incluido. El precio de la ficha, 35.815 €, es el de referencia con el que catalogamos el modelo.",
+      precio: "Tarifa de marzo de 2026 según Motor.es: 34.235 € el mild hybrid de 150 CV y 38.054 € el Full Hybrid de 200 CV, ambos Evolution. Renault España anunciaba el 31/10/2026 unidades en stock del Full Hybrid desde 34.992 hasta 35.361 €, IVA incluido. Los 35.815 € del encabezado son una referencia anterior de nuestro catálogo.",
     },
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de cambio de aceite",
@@ -7268,7 +7268,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   {
     id: "dacia-bigster-2025-precio-ficha-tecnica",
     textosPropios: {
-      precio: "El Dacia Bigster Essential mild hybrid-G 140 (GLP) cuesta 25.020 € al contado en la oferta de octubre de 2026 de Dacia España, con IVA, matriculación, transporte y descuentos promocionales incluidos; financiado con Preference parte de 23.051,31 €. El precio de la ficha, 24.990 €, es el de referencia con el que catalogamos el modelo.",
+      precio: "Oferta de octubre de 2026 de Dacia España: el Essential mild hybrid-G 140 (GLP) sale a 25.020 € al contado, con IVA, matriculación, transporte y descuentos promocionales dentro; con financiación Preference, desde 23.051,31 €. La ficha usa 24.990 € como cifra de partida.",
     },
     analisisSlug: "dacia-bigster-2025-precio-ficha-tecnica",
     mantenimientoDIY: {

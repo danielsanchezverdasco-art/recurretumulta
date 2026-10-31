@@ -3493,7 +3493,7 @@ export const MOTOS_BASE: MotoComparador[] = [
   {
     id: "honda-forza-350-2024-ficha-tecnica-precio",
     textosPropios: {
-      precio: "El Honda Forza 350 de 2024 salió a 6.380 € en España, según Moteo; la gama 2026 que vende ahora Honda España cuesta desde 6.550 € (6.675 € la Special Edition, honda.es a 31/10/2026). El precio de la ficha es el de lanzamiento del modelo 2024, sin campañas ni gastos de matriculación.",
+      precio: "Moteo da 6.380 € como precio de salida del Forza 350 en 2024. Honda España lista hoy el modelo 2026 desde 6.550 €, o 6.675 € con la edición especial (honda.es, 31/10/2026). La cifra de la ficha corresponde al lanzamiento de 2024 y no incluye campañas ni gastos de matriculación.",
     },
     marca: "Honda",
     modelo: "Forza 350",

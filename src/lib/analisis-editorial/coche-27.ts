@@ -1,6 +1,6 @@
 // Análisis editorial lote coche-27 (31/10/2026, Equipo editorial de RecurreTuMulta).
-// Fichas con impresiones reescritas con datos verificados de fuente (cada ficha cita la suya en su texto de precio).
-// Este lote va el ÚLTIMO de los de coches en fusionar(): sustituye al análisis breve anterior de la misma ficha.
+// Lote editorial 27 (coches): se aplica al final y prevalece sobre los análisis previos.
+// Cada ficha de este archivo cita sus fuentes dentro del propio texto.
 import type { MapaAnalisis } from "../analisis-editorial-tipos.ts";
 
 export const ANALISIS_COCHE_27: MapaAnalisis = {

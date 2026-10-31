@@ -1,6 +1,6 @@
 // Análisis editorial lote moto-16 (31/10/2026, Equipo editorial de RecurreTuMulta).
-// Fichas con impresiones reescritas con datos verificados de fuente. Va el último en fusionar():
-// sustituye al análisis breve anterior de la misma ficha.
+// Lote editorial 16 (motos): también se fusiona al final y pisa los textos antiguos.
+// Las fuentes aparecen citadas en cada párrafo.
 import type { MapaAnalisis } from "../analisis-editorial-tipos.ts";
 
 export const ANALISIS_MOTO_16: MapaAnalisis = {
