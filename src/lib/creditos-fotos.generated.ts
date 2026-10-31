@@ -4024,6 +4024,7 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "Saggittarius A · Wikimedia Commons",
 "licencia": "CC BY 4.0",
 "url": "https://commons.wikimedia.org/wiki/File:Kove_321_RR_-_EICMA_2024.jpg"
+},
 "/media/patinetes/segway-zt3-max-e-oficial.webp": {
 "autor": "Segway France (foto de producto oficial)",
 "licencia": "prensa",
