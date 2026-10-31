@@ -46,7 +46,9 @@ for (const l of readFileSync(join(ROOT, "public/_redirects"), "utf-8").split(/\r
   const m = l.trim().match(/^\/(coches|motos|patinetes)\/([^/\s*:]+)\/?\s+\/(?:coches|motos|patinetes)\/[^\s]+\s+301/);
   if (m) REDIR_VIEJOS.add(`${m[1]}/${m[2]}`);
 }
-const enDisco = (src) => !!src;
+// 31/10/2026: no usar como foto de «rivales» una imagen mala (404 o placeholder «Foto real próximamente»): lista de fotos-malas.generated.ts
+const MALAS = new Set((readFileSync(join(ROOT, "src/lib/fotos-malas.generated.ts"), "utf-8").match(/FOTOS_MALAS_TXT = "(.*)";/)?.[1] || "").split("\\n"));
+const enDisco = (src) => !!src && !MALAS.has(src);
 const primeraFoto = (...xs) => xs.find(enDisco) || "";
 function rivales(items, { id, nombre, precio, foto, seg, extra, afin, blog }, pref) {
   const byId = new Map(items.map((x) => [id(x), x]));

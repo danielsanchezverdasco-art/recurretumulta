@@ -23,7 +23,7 @@ except Exception:
 NOIDX = re.compile(r'<meta[^>]+name="robots"[^>]+content="[^"]*noindex', re.I)
 STRIP = re.compile(r"<(script|style|noscript|template|svg)\b.*?</\1>|<!--.*?-->", re.S | re.I)
 TAG = re.compile(r"<[^>]+>")
-FOTO_TXT = re.compile(r"foto\s*(?:real|oficial)?\s*(?:pendiente|próximamente|proximamente)|fotoreal\s*pr[oó]ximamente|pendiente de verificaci[oó]n", re.I)
+FOTO_TXT = re.compile(r"foto\s*(?:real|oficial)?\s*(?:pendiente(?:\s+de\s+verificaci[oó]n)?|próximamente|proximamente)|fotoreal\s*pr[oó]ximamente", re.I)
 TEXTO = re.compile(r"\b(?:null|undefined|NaN|precioDesde|cargaUtilKg|SUSTITUIDO)\b|\bTODO:|Grok\s*\d|\{\{|\[object Object\]|\bcosteAproxEur\b")
 IMG = re.compile(r"<img\b[^>]*>", re.I)
 SRC = re.compile(r'\bsrc=(?:"([^"]*)"|\'([^\']*)\')', re.I)
