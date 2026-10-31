@@ -48,4 +48,12 @@ export const ANALISIS_COCHE_27: MapaAnalisis = {
     ],
     veredicto: "Para una familia que quiera un SUV de 4,57 m con el menor coste de compra y uso; el GLP necesita poder repostar AutoGas cerca.",
   },
+  "tesla-roadster-2026-retraso-precio-ficha-tecnica": {
+    parrafos: [
+      "Tesla enseñó el 15 de octubre de 2026, cerca de Waco (Texas), la segunda generación rediseñada del Roadster, casi nueve años después de su primera presentación en 2017. Habrá tres acabados: Performance, descrito como apto para carretera, de dos plazas y con aerodinámica activa y un sistema de succión multimodo; Thrust, de dos plazas y orientado a circuito, con propulsores de gas frío en la parte trasera para bajar de un segundo de 0 a 60 mph (unos 97 km/h); y Rocket, de una sola plaza, solo por invitación y con diez propulsores repartidos por la carrocería. Según TechCrunch, los tres anuncian unas 300 millas de autonomía (unos 480 km) y más de 230 mph (unos 370 km/h).",
+      "El dato que importa para el precio es que no existe precio de venta. Tesla solo cobra una reserva: 50.000 dólares para el Performance y 250.000 para el Thrust, y el Rocket es únicamente por invitación, sin cifra pública (TechCrunch, 15/10/2026; Fortune, 17/10/2026). Tampoco ha dicho qué pasará con quienes pagaron el depósito de 2017, ni ha publicado potencia, capacidad de batería, medidas o peso. El ingeniero Lars Moravy explicó que los propulsores funcionan con unos 600 litros de aire comprimido recargable, y el propio Musk reconoció que no es un coche optimizado para la seguridad.",
+      "Para un comprador de España, lo útil es conocer los plazos y los límites. Tesla sitúa el inicio de la producción en 2028, sin fecha de entregas ni calendario europeo, mientras que el Roadster original prometía 620 millas de autonomía y cuatro plazas para 2020. La versión Rocket figura en la web de Tesla como no aprobada para circular por vía pública, y la FAA ha dicho que el vehículo no cumple su definición de aeronave, así que no tendrá que certificarlo. Hasta que Tesla fije un PVP, esta ficha solo puede recoger la reserva, no un precio de compra en euros.",
+    ],
+    veredicto: "Un coche de escaparate: sin precio, sin fecha de entrega y con una reserva de 50.000 dólares como única cifra oficial.",
+  },
 };

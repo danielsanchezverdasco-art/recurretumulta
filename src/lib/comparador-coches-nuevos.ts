@@ -2386,6 +2386,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "tesla-roadster-2026-retraso-precio-ficha-tecnica",
+    textosPropios: {
+      precio: "Tesla no ha publicado el precio de venta del nuevo Roadster. Lo único oficial es la reserva: 50.000 $ para el Performance y 250.000 $ para el Thrust; el Rocket es solo por invitación (TechCrunch, 15/10/2026; Fortune, 17/10/2026). La producción está anunciada para 2028 y no hay precio ni fecha para España.",
+      faqPrecio: "Tesla no ha anunciado el precio del Roadster: solo cobra una reserva de 50.000 $ (Performance) o 250.000 $ (Thrust), y el Rocket es solo por invitación. La producción empezará en 2028 y no hay PVP en euros.",
+    },
     // 17/10/2026: actualizada a la presentación de Waco (15/10/2026, producción en 2028).
     // Fuente: anuncio de Tesla en X y crónicas de InsideEVs, Jalopnik y TechCrunch (ver /blog/tesla-roadster-2028-presentacion/).
     // Tesla no ha publicado potencia, batería, medidas, peso ni precio: se dejan sin dato en vez de inventarlos.
@@ -2426,7 +2430,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       "Más de 300 millas (unos 480 km) de autonomía anunciada para las tres versiones",
     ],
     contras: [
-      "Sin precio: solo una reserva de 50.000 $ (5.000 $ + 45.000 $ por transferencia)",
+      "Sin precio de venta: solo reservas de 50.000 $ (Performance) y 250.000 $ (Thrust); el Rocket es solo por invitación",
       "Cifras anunciadas por Tesla, sin homologación ni medición independiente",
       "Autonomía muy por debajo de los 1.000 km que se prometieron en 2017",
       "Solo 2 plazas (1 en la Rocket), frente a las 4 del prototipo de 2017",
