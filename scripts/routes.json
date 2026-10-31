@@ -199,10 +199,7 @@
     }
   ],
   "sitemapExclude": [
-    "/privacidad",
-    "/terminos",
     "/cookies",
-    "/aviso-legal",
     "/contacto",
     "/multas/bilbao",
     "/multas/ceuta",

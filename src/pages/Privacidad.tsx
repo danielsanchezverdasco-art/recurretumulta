@@ -102,6 +102,7 @@ export default function PrivacidadPage() {
           <section>
             <h2 className="text-xl font-black text-gray-900">8. Cookies, publicidad y analítica</h2>
             <p>Usamos cookies técnicas (necesarias para el funcionamiento), analíticas (Google Analytics 4) y publicitarias (Google AdSense). Las analíticas y publicitarias <strong>solo se activan si las aceptas</strong> en el aviso de cookies: hasta entonces Google Analytics y AdSense funcionan en modo «denegado» (Consent Mode v2, sin almacenar cookies de analítica ni de publicidad personalizada). Si cambias de opinión, vuelve a decidir desde «Configurar cookies», en el pie de cada página. La base legal es tu <strong>consentimiento</strong> (art. 6.1.a RGPD y art. 22.2 LSSI) y puedes retirarlo cuando quieras sin que afecte a lo anterior.</p>
+            <p>Google, como proveedor de publicidad, y sus socios usan cookies para mostrar anuncios basados en tus visitas anteriores a este y a otros sitios web. Si no aceptas las cookies de publicidad, los anuncios que veas no estarán personalizados con esos datos.</p>
             <p>Detalle de cada cookie, proveedor y duración en nuestra <Link to="/cookies/" className="text-red-600 underline">Política de Cookies</Link>.</p>
             <p>Cómo gestionar o rechazar la publicidad personalizada:</p>
             <ul className="list-disc pl-5 space-y-1">

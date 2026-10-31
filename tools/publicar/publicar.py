@@ -368,6 +368,7 @@ def f_build(c):
                 ["python3", "scripts/fix-redirects.py"], ["python3", "../scripts/fix-chains.py"], ["python3", "scripts/postproceso-seo-20261019.py", "dist"],
                 ["python3", "scripts/deploy/fotos-hotfix/fotos_hotfix.py", "dist/media", "--bajar-origenes", "--lista-salida", os.path.join(c.work, "media-forzar.txt")],
                 ["python3", "scripts/postfix-foto-pendiente.py", "dist"],
+                ["python3", "scripts/fix-contenido-final.py", "dist"],  # 31/10: texto interno, Merlín, viabilidad, enlaces del comparador (sin 301 nuevos)
                 ["python3", "scripts/politica-noindex.py", "dist"],  # 31/10: regla de Daniel, sin noindex salvo scripts/noindex-permitidos.txt
                 ["python3", "scripts/sitemap-final.py", "dist"]]:
         cwd = os.path.join(c.repo, "dist") if cmd[1] == "../scripts/fix-chains.py" else c.repo

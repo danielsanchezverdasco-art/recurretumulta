@@ -6,7 +6,3 @@
 /newsletter/baja/
 /alertas/baja/
 /reportar-carretera/gracias/
-# Legales: ya eran noindex EN VIVO antes del 25/10 (routes.json sitemapExclude desde el 12/10). Quitar estas 3 líneas si Daniel las quiere indexables.
-/privacidad/
-/aviso-legal/
-/terminos/

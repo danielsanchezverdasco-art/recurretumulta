@@ -591,7 +591,9 @@ export default function FichasTecnicasPage() {
     return lista;
   }, [base, q, fMarca, fPrecioMax, fAutMin, fEtiqueta, fCertificado, orden]);
 
-  const visibles = filtradas.slice(0, visibleCount);
+  // En el prerender salen TODAS las fichas de la pestaña (enlaces rastreables); pasadas las primeras PAGE_SIZE son tarjetas compactas (texto + enlace).
+  const esPrerender = typeof window !== "undefined" && !!(window as unknown as { __PRERENDER__?: boolean }).__PRERENDER__;
+  const visibles = esPrerender ? filtradas : filtradas.slice(0, visibleCount);
 
   const hayFiltros =
     q !== "" || fMarca !== "todas" || fPrecioMax !== 0 || fAutMin !== 0 ||
@@ -827,11 +829,11 @@ export default function FichasTecnicasPage() {
               <TarjetaFicha
                 key={`${f.kind}-${f.id}`}
                 ficha={f}
-                compacta={i >= PAGE_SIZE && typeof window !== "undefined" && !!(window as unknown as { __PRERENDER__?: boolean }).__PRERENDER__}
+                compacta={i >= PAGE_SIZE && esPrerender}
               />
             ))}
           </section>
-          {filtradas.length > visibleCount && (
+          {!esPrerender && filtradas.length > visibleCount && (
             <div className="mt-8 text-center">
               <p className="mb-3 text-sm text-gray-600">
                 Mostrando {visibles.length} de {filtradas.length} fichas
