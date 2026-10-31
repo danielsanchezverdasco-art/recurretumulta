@@ -58,7 +58,6 @@ src/lib/blog-posts-motor-2026-o.ts
 src/lib/blog-posts-motor-2026.ts
 src/lib/blog-posts-motos-exp-m28.ts
 src/lib/blog-posts-motos-ord2033.ts
-src/lib/blog-posts-motos-rescate-m1.ts
 src/lib/blog-posts-motos-rescate-m2.ts
 src/lib/blog-posts-motos-rescate-m3.ts
 src/lib/blog-posts-nuevos-m4.ts
