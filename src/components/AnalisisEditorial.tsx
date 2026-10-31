@@ -22,8 +22,9 @@ export default function AnalisisEditorial({ slug }: { slug: string }) {
   }, [slug]);
   if (!res || res.slug !== slug) return <span data-editorial-cargando="" hidden />;
   const analisis = res.a;
-  if (!analisis || analisis.parrafos.length === 0) return null;
+  if (!analisis || analisis.parrafos.length === 0) return <DatosVerificados slug={slug} />;
   return (
+    <>
     <section
       className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
       aria-label="Análisis editorial"
@@ -42,5 +43,7 @@ export default function AnalisisEditorial({ slug }: { slug: string }) {
         </p>
       ) : null}
     </section>
+    <DatosVerificados slug={slug} />
+    </>
   );
 }
