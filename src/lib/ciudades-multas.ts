@@ -25,7 +25,7 @@ export type CiudadMultas = {
 };
 
 const TRAFIKOA = {
-  texto: "listado oficial de cabinas de radar fijo de Trafikoa (Gobierno Vasco), comprobado el 31/10/2026; la ausencia de un radar en la lista no implica que no exista. Los controles móviles tampoco figuran en un listado público",
+  texto: "listado oficial de cabinas de radar fijo de Trafikoa (Gobierno Vasco), comprobado el 31/10/2026; si un radar falta en esa relación, eso no implica que no exista. Los controles móviles tampoco figuran en un listado público",
   url: "https://apps.trafikoa.euskadi.eus/lfr/web/trafikoa/cabinas-de-radar-fijo",
   urlTexto: "apps.trafikoa.euskadi.eus",
 };
@@ -53,7 +53,7 @@ export const CIUDADES_MULTAS: Record<string, CiudadMultas> = {
       { via: "AP-68", pk: "0,270", sentido: "Bilbao", limite: "80", zona: "Buia" },
     ],
     radaresCercanos: "En municipios vecinos, Trafikoa lista además Max Center y Cruces (Barakaldo, A-8 pk 123,500 y 121,480) y Kukularra (Erandio, N-637 pk 11,475).",
-    zbeNota: "La ZBE de Bilbao afecta sobre todo a Abando e Indautxu y se aplica de 07:00 a 20:00 en días laborables (El Correo, 18/05/2026; ordenanza en vigor, verificada el 21/10/2026).",
+    zbeNota: "La ZBE de Bilbao afecta sobre todo a Abando e Indautxu y se aplica entre las 07:00 y las 20:00 de los días laborables (El Correo, 18/05/2026; ordenanza en vigor, verificada el 21/10/2026).",
     bloques: [
       {
         titulo: "Multas municipales en Bilbao",
@@ -67,7 +67,7 @@ export const CIUDADES_MULTAS: Record<string, CiudadMultas> = {
           { texto: "Sede electrónica del Ayuntamiento de Bilbao (bilbao.eus)", url: "https://www.bilbao.eus/" },
           { texto: "Trafikoa, Dirección de Tráfico del Gobierno Vasco", url: "https://www.trafikoa.euskadi.eus/inicio/" },
         ],
-        fuente: "sede electrónica del Ayuntamiento de Bilbao y listado oficial de Trafikoa, consultados el 31/10/2026",
+        fuente: "sede electrónica del Ayuntamiento de Bilbao y relación de cabinas de Trafikoa (consulta del 31/10/2026)",
       },
     ],
   },
@@ -88,7 +88,7 @@ export const CIUDADES_MULTAS: Record<string, CiudadMultas> = {
       { via: "GI-11", pk: "1,700", sentido: "Irun", limite: "80", zona: "Usurbil" },
       { via: "GI-636", pk: "1,220", sentido: "Irun", limite: "80", zona: "Túnel de Molinao" },
     ],
-    zbeNota: "La ZBE de Donostia-San Sebastián rige todos los días, de 0:00 a 24:00 (ordenanza publicada en el BOG nº 241 de 16/12/2024, verificada el 20/10/2026).",
+    zbeNota: "La ZBE de Donostia-San Sebastián está activa las 24 horas del día (ordenanza publicada en el BOG nº 241 de 16/12/2024, verificada el 20/10/2026).",
     bloques: [
       {
         titulo: "Multas y ZBE en Donostia-San Sebastián",
@@ -101,7 +101,7 @@ export const CIUDADES_MULTAS: Record<string, CiudadMultas> = {
           { texto: "Sede del Ayuntamiento de Donostia-San Sebastián", url: "https://www.donostia.eus/" },
           { texto: "Trafikoa, listado de cabinas de radar fijo", url: "https://apps.trafikoa.euskadi.eus/lfr/web/trafikoa/cabinas-de-radar-fijo" },
         ],
-        fuente: "sede del Ayuntamiento de Donostia-San Sebastián, Diario Vasco y listado oficial de Trafikoa, consultados el 31/10/2026",
+        fuente: "sede del Ayuntamiento donostiarra, Diario Vasco y cabinas fijas de Trafikoa (revisadas el 31/10/2026)",
       },
     ],
   },
@@ -146,7 +146,7 @@ export const CIUDADES_MULTAS: Record<string, CiudadMultas> = {
           { texto: "Ayuntamiento de Vitoria-Gasteiz", url: "https://www.vitoria-gasteiz.org/" },
           { texto: "Trafikoa, listado de cabinas de radar fijo", url: "https://apps.trafikoa.euskadi.eus/lfr/web/trafikoa/cabinas-de-radar-fijo" },
         ],
-        fuente: "web y sede del Ayuntamiento de Vitoria-Gasteiz, Cadena SER (27/03/2026), El Correo (06/09/2026) y listado oficial de Trafikoa, consultados el 31/10/2026",
+        fuente: "web y sede del Ayuntamiento de Vitoria-Gasteiz, Cadena SER (27/03/2026), El Correo (06/09/2026) y lista oficial de Trafikoa, verificada ese mismo 31/10/2026",
       },
     ],
   },
@@ -217,7 +217,7 @@ export const CIUDADES_MULTAS: Record<string, CiudadMultas> = {
     radaresMunicipio: "Santiago de Compostela",
     radaresFuente: DGT_LISTADO,
     radaresCercanos: "Cerca, en el municipio de Teo, la DGT lista la cabina de la AP-9 pk 83,5 (sentido creciente, 120 km/h). El resto de radares de la provincia están en la ficha de",
-    zbeNota: "El casco histórico de Santiago se controla con 11 bolardos y 5 cámaras de matrícula: solo entran los vehículos autorizados, y la etiqueta ambiental no da acceso (santiago.es, actualizado el 15/10/2026).",
+    zbeNota: "En el casco histórico de Santiago vigilan bolardos y cámaras de matrícula: solo pasan los vehículos autorizados, y la etiqueta ambiental no da acceso (santiago.es, actualizado el 15/10/2026).",
     bloques: [
       {
         titulo: "Denuncias municipales y casco histórico en Santiago",

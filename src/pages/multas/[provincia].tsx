@@ -26,7 +26,7 @@ const AUTONOMICO: Record<string, { nombre: string; url: string; urlTexto: string
   const sct = { nombre: "Servei Català de Trànsit (SCT)", url: "https://transit.gencat.cat/ca/inici/", urlTexto: "transit.gencat.cat",
     texto: "Cataluña tiene competencia propia en tráfico: las denuncias en carreteras y autopistas catalanas las formulan los Mossos d'Esquadra y las tramita el Servei Català de Trànsit, no la DGT. Las alegaciones y recursos de esas multas se dirigen al SCT. Las multas urbanas (zona azul, semáforos, ZBE) son del ayuntamiento.", art: "el" };
   const gv = { nombre: "Dirección de Tráfico del Gobierno Vasco (Trafikoa)", url: "https://www.trafikoa.euskadi.eus/inicio/", urlTexto: "trafikoa.euskadi.eus",
-    texto: "Euskadi tiene competencia propia en tráfico: la Ertzaintza denuncia en las carreteras vascas y la Dirección de Tráfico del Gobierno Vasco (Trafikoa) tramita esas sanciones, no la DGT. Las alegaciones y recursos de multas interurbanas se dirigen al Gobierno Vasco. Las multas urbanas (OTA, ZBE, semáforos) son del ayuntamiento.", art: "la" };
+    texto: "Euskadi tiene competencia propia en tráfico: la Ertzaintza denuncia en las carreteras vascas y la Dirección de Tráfico del Gobierno Vasco tramita esas sanciones, no la DGT. Las alegaciones y recursos de multas interurbanas se dirigen al Gobierno Vasco. Las multas urbanas (OTA, ZBE, semáforos) son del ayuntamiento.", art: "la" };
   return { barcelona: sct, girona: sct, lleida: sct, tarragona: sct, bilbao: gv, "san-sebastian": gv, vitoria: gv };
 })();
 // Vigo y Santiago comparten datos de radares con su provincia (Pontevedra y A Coruña);
@@ -250,7 +250,7 @@ export default function MultaProvinciaPage() {
                   {auto && (
                     <tr>
                       <td className="py-2 pr-3 font-semibold text-gray-700 align-top whitespace-nowrap">Multas de carretera</td>
-                      <td className="py-2 text-gray-600">Las tramita {auto.art} {auto.nombre}: <a href={auto.url} target="_blank" rel="noopener noreferrer" className="text-red-600 hover:underline">{auto.urlTexto}</a></td>
+                      <td className="py-2 text-gray-600">Las gestiona {auto.art} {auto.nombre}: <a href={auto.url} target="_blank" rel="noopener noreferrer" className="text-red-600 hover:underline">{auto.urlTexto}</a></td>
                     </tr>
                   )}
                   {!auto && <tr>
@@ -260,7 +260,7 @@ export default function MultaProvinciaPage() {
                   {cm && (
                     <tr>
                       <td className="py-2 pr-3 font-semibold text-gray-700 align-top whitespace-nowrap">Pronto pago</td>
-                      <td className="py-2 text-gray-600">Si abonas la multa dentro de los 20 días naturales posteriores a la notificación, se rebaja a la mitad. Es el artículo 94 del RDL 6/2015. Al pagar renuncias a alegar y terminas el expediente: después solo cabe acudir a los juzgados.</td>
+                      <td className="py-2 text-gray-600">Pagando antes de que pasen 20 días naturales desde la notificación, la sanción se queda en la mitad. Es el artículo 94 del RDL 6/2015. Al pagar renuncias a alegar y terminas el expediente: después solo cabe acudir a los juzgados.</td>
                     </tr>
                   )}
                   <tr>
