@@ -202,6 +202,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "zeekr-001-2024-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "zeekr-001-fr-2024-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "zeekr-001-fr-2025-precio-ficha-tecnica": () => import("../euroncap-exp12.ts"),
+    "zeekr-7-gt-2026-precio-ficha-tecnica": () => import("../euroncap-enriquecer-3110.ts"),
     "zeekr-7x-2025-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "zeekr-7x-2026-precio-ficha-tecnica": () => import("../euroncap-exp12.ts"),
     "zeekr-x-2024-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),

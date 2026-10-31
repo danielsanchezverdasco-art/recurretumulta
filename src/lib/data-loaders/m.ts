@@ -954,6 +954,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "mercedes-eqe-300-electrico-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "mercedes-gla-250-e-2025-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "mercedes-glc-300-e-2025-precio-ficha-tecnica": () => import("../euroncap-exp14.ts"),
+    "mg-3-2025-precio-ficha-tecnica": () => import("../euroncap-enriquecer-3110.ts"),
     "mg-hs-gasolina-2025-precio-ficha-tecnica": () => import("../euroncap-enriquecer-t4.ts"),
     "mg-hs-hybrid-plus-2025-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "mg-hs-phev-2025-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),

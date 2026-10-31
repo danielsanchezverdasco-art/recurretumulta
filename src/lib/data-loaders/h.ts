@@ -804,6 +804,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "honda-hr-v-ehev-2024-precio-ficha-tecnica": () => import("../euroncap-exp16.ts"),
     "honda-hr-v-ehev-2025-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "honda-hr-v-ehev-2026-precio-ficha-tecnica": () => import("../euroncap-exp16.ts"),
+    "honda-jazz-crosstar-2026-precio-ficha-tecnica": () => import("../euroncap-enriquecer-3110.ts"),
     "honda-jazz-e-hev": () => import("../seguridad-euroncap.ts"),
     "honda-jazz-ehev-2024-precio-ficha-tecnica": () => import("../euroncap-exp16.ts"),
     "honda-jazz-ehev-2025-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
