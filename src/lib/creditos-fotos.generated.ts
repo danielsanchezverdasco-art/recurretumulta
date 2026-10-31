@@ -3674,5 +3674,305 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "Thesupermat · Wikimedia Commons",
 "licencia": "CC BY-SA 4.0",
 "url": "https://commons.wikimedia.org/wiki/File:Kawasaki_Vulcan_S_-_MRS_Oficina_-_Mondial_de_l%27Automobile_de_Paris_2018_-_001.jpg"
+},
+"/media/motos/suzuki-v-strom-800de-2024-ficha-tecnica-precio.webp": {
+"autor": "GIM - Giri in Moto · Wikimedia Commons",
+"licencia": "CC BY 3.0",
+"url": "https://commons.wikimedia.org/wiki/File:Suzuki_V-Strom_800DE_(3).jpg"
+},
+"/media/motos/bmw-r-1300-gs-2024-ficha-tecnica-precio.webp": {
+"autor": "Corvettec6r · Wikimedia Commons",
+"licencia": "CC BY 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:BMW_R1300_GS_Option_719_Tramuntana.jpg"
+},
+"/media/motos/bmw-r-18-2024-ficha-tecnica-precio-1.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:BMW_R18_2025.jpg"
+},
+"/media/motos/moto-guzzi-v9-bobber-2024-ficha-tecnica-precio-1.webp": {
+"autor": "Corvettec6r · Wikimedia Commons",
+"licencia": "CC BY 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Moto_Guzzi_V9_Bobber.jpg"
+},
+"/media/motos/bimota-tesi-h2-2024-ficha-tecnica-precio-1.webp": {
+"autor": "Matthb1395 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Bimota_Tesi_H2_(2020).jpg"
+},
+"/media/motos/lambretta-elettra-s-2026-ficha-tecnica-precio-1.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Lambretta_Elettra_S.jpg"
+},
+"/media/motos/suzuki-burgman-400-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Suzuki_Burgman_400_2025.jpg"
+},
+"/media/motos/ktm-790-duke-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "Cjp24 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:KTM_790_Duke_(1).jpg"
+},
+"/media/motos/ktm-790-adventure-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "Cjp24 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:KTM_790_Adventure,_topcase.jpg"
+},
+"/media/motos/ducati-panigale-v4-s-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "TaurusEmerald · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Ducati_Panigale_V4_S_Corse.jpg"
+},
+"/media/motos/bmw-ce-04-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "Wikisympathisant · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2024-06_BMW_CE_04.jpg"
+},
+"/media/motos/ducati-diavel-v4-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "XDVRACE · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Ducati_Diavel_V4.jpg"
+},
+"/media/motos/triumph-street-triple-765-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "Darktiger0512 · Wikimedia Commons",
+"licencia": "CC BY 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Triumph_Street_Triple_765_RS_(2022).jpg"
+},
+"/media/motos/triumph-scrambler-900-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Triumph_Scrambler_900_2026.jpg"
+},
+"/media/motos/royal-enfield-continental-gt-650-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "Kiranpawar3210 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_Continental_GT_650.jpg"
+},
+"/media/motos/royal-enfield-super-meteor-650-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "iMahesh · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_Super_Meteor_650_(02).jpg"
+},
+"/media/motos/royal-enfield-interceptor-650-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "Andrzej Otrębski · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Wien_Royal_Enfield_Interceptor_650.jpg"
+},
+"/media/motos/royal-enfield-himalayan-450-2026-ficha-tecnica-precio-hero.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_Himalayan_450_Mana_Black.jpg"
+},
+"/media/motos/royal-enfield-himalayan-450-2024-ficha-tecnica-precio-oficial.webp": {
+"autor": "Rouv1505 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Royal-Enfield-Himalayan-450.jpg"
+},
+"/media/vespa-gts-310-2026-ficha-tecnica-precio-oficial.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Vespa_GTS_310_2025.jpg"
+},
+"/media/motos/swm-superdual-650-2025-ficha-tecnica-precio-oficial.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:SWM_Superdual_650_2025.jpg"
+},
+"/media/motos/bmw-k-1600-gtl-2025-ficha-tecnica-precio-oficial.webp": {
+"autor": "Cjp24 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:BMW_K_1600_GTL,_white.jpg"
+},
+"/media/motos/silence-s01-plus-2026-ficha-tecnica-precio-oficial.webp": {
+"autor": "Herodotptlomeu · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Silence_S01_-_Seat_M%C3%B3.jpg"
+},
+"/media/motos/ducati-scrambler-icon-800-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Ducati_Scrambler_800_Icon.jpg"
+},
+"/media/wottan-rebbe-401-2025-ficha-tecnica-precio-oficial.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Wottan_Rebbe_2025.jpg"
+},
+"/media/motos/benelli-trk-502x-2024-ficha-tecnica-precio-1.webp": {
+"autor": "Herodotptlomeu · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Benelli_TRK_502X_-_groc.jpg"
+},
+"/media/motos/moto-morini-calibro-700-2024-ficha-tecnica-precio-1.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Moto_Morini_Calibro_2026.jpg"
+},
+"/media/motos/indian-chieftain-powerplus-dark-horse-2025-ficha-tecnica-precio-oficial.webp": {
+"autor": "Chris Woodrich · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Indian_Chieftain_parked_at_Hogs_for_Hospice,_Leamington,_Ontario,_2025-08-02.jpg"
+},
+"/media/zero-fxe-ficha-tecnica-precio-oficial.webp": {
+"autor": "Matti Blume · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Zero,_BAS_24,_Brussels_(P1170326-RR).jpg"
+},
+"/media/vespa-primavera-elettrica-70-2025-ficha-tecnica-precio-oficial.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Vespa_RED_Elettrica_2025_Eicma_2024.jpg"
+},
+"/media/motos/ktm-390-adventure-r-2025-ficha-tecnica-precio-1.webp": {
+"autor": "KTM AG · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Ktm-390-adventure-2024.png"
+},
+"/media/motos/royal-enfield-classic-650-2026-ficha-tecnica-precio-hero.webp": {
+"autor": "Al*from*Lig · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_(39759).jpg"
+},
+"/media/patinetes/segway-zt3-max-e-oficial.webp": {
+"autor": "Segway France (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://www.segwayfrance.com/products/segway-zt3-max-e"
+},
+"/media/patinetes/segway-ninebot-max-g3-pro-e-oficial.webp": {
+"autor": "Segway France (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://www.segwayfrance.com/products/ninebot-max-g3-pro-e"
+},
+"/media/patinetes/vsett-9-oficial.webp": {
+"autor": "Vsett Shop Europe (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://vsett-shop.com/wp-content/uploads/2021/02/VSETT-9-BIG-DISPLAY-4.jpg"
+},
+"/media/patinetes/vsett-8-plus-oficial.webp": {
+"autor": "Vsett Shop Europe (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://vsett-shop.com/wp-content/uploads/2021/04/VSETT-8-FRONT-BIG-DISPLAY-.jpeg"
+},
+"/media/patinetes/vsett-10-plus-apex-oficial.webp": {
+"autor": "Vsett Shop Europe (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://vsett-shop.com/wp-content/uploads/2024/07/VSETT-10-APEX-1.jpeg"
+},
+"/media/patinetes/kukirin-m5-pro-oficial.webp": {
+"autor": "KuKirin.es (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://kukirin.es/wp-content/uploads/2023/02/KuKirin-M5-Pro_-patinete_electrico-PRINCIPAL.jpg"
+},
+"/media/patinetes/pure-air-6-ultra-oficial.webp": {
+"autor": "Pure Electric (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://www.pureelectric.com/cdn/shop/files/pure-scooter-air-ultra-suspension-1244805437.jpg"
+},
+"/media/patinetes/teverun-blade-q-pro-oficial.webp": {
+"autor": "Teverun Alemania (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://teverun-official.de/wp-content/uploads/2024/04/12fe57a9c05463cef2b4dcf8826e8806.jpg"
+},
+"/media/patinetes/kaabo-mantis-8-eco-800-oficial.webp": {
+"autor": "Kaabo Mantis (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://kaabomantis.com/wp-content/uploads/2022/07/Offroad-Kaabo-Mantis-8-ECO-800-single-motor-800W-EU-warehouse-free-shipping-fast-delivery-buy-now-kaabomantis.webp"
+},
+"/media/patinetes/hiboy-ve1-pro-oficial.webp": {
+"autor": "Hiboy (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://www.hiboy.com/cdn/shop/products/VE1-PRO_614fbc68-7176-46ce-9acd-e3707779505e.jpg"
+},
+"/media/patinetes/hiboy-u2-pro-oficial.webp": {
+"autor": "Hiboy (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://www.hiboy.com/cdn/shop/files/1_821fba6e-92b0-4edd-850d-5411b9f30f85.jpg"
+},
+"/media/patinetes/iscooter-i8-oficial.webp": {
+"autor": "iScooter (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://www.iscooterglobal.com/cdn/shop/files/1_1f833738-712c-4e6d-ac3d-f18122a1f135.jpg"
+},
+"/media/patinetes/kukirin-m4-max-oficial.webp": {
+"autor": "KuKirin España (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://kukirin.com.es/cdn/shop/files/eu-kukirin-m4-max-main-image_01.webp"
+},
+"/media/patinetes/hiley-tiger-10-pro-oficial.webp": {
+"autor": "Hiley Rider (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://www.hileyrider.com/cdn/shop/products/hiley-T10P-1_e84bc599-9b0b-4379-b6e0-d008752e400b.png"
+},
+"/media/patinetes/gotrax-g-pro-oficial.webp": {
+"autor": "GOTRAX (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://gotrax.com/cdn/shop/products/g-pro-3-wheel-electric-scooter-189232.jpg"
+},
+"/media/patinetes/zero-9-oficial.webp": {
+"autor": "Zero Electric Scooter (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://zeroelectricscooter.com/cdn/shop/products/zero-9_1024x1024.png"
+},
+"/media/patinetes/vsett-11-plus-oficial.webp": {
+"autor": "Vsett (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://cdn.shopify.com/s/files/1/0210/2694/files/vsett-11-p-01.jpg"
+},
+"/media/patinetes/segway-superscooter-gt3-pro-oficial.webp": {
+"autor": "Segway-Ninebot (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://www.ninebot.com/content/dam/segway-ninebot/ap/en/content-import/product-image/ekickscooter-GT3Pro.png"
+},
+"/media/patinetes/segway-ninebot-f30-oficial.webp": {
+"autor": "Segway-Ninebot (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://s7ap1.scene7.com/is/image/ninebotstage/assets_segway_cdn_com_Product-Pictures__product_full_F30D-F30E_Product-pictures_360-side-view-12"
+},
+"/media/patinetes/segway-ninebot-f40e-oficial.webp": {
+"autor": "Segway-Ninebot (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://s7ap1.scene7.com/is/image/ninebotstage/assets_segway_cdn_com_Product-Pictures__product_full_F40D-F40E_Product-picture_360-side-view-6"
+},
+"/media/patinetes/segway-ninebot-e25e-oficial.webp": {
+"autor": "Segway-Ninebot (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://s7ap1.scene7.com/is/image/ninebotstage/assets_segway_cdn_com_Product-Pictures__product_full_E25E_Product-picture-4"
+},
+"/media/patinetes/xiaomi-electric-scooter-4-oficial.webp": {
+"autor": "Xiaomi (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-electric-scooter-4/pc/98b7f22c429460539501595a65a2755a.png"
+},
+"/media/patinetes/xiaomi-electric-scooter-4-pro-oficial.webp": {
+"autor": "Xiaomi (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666838244.98981922.png"
+},
+"/media/patinetes/cecotec-bongo-serie-a-connected-oficial.webp": {
+"autor": "Cecotec (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://media.cecotec.cloud/07026/bongo-serie-a-connected_11.jpg"
+},
+"/media/patinetes/segway-ninebot-f2-ii-oficial.webp": {
+"autor": "Segway-Ninebot (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://ap-en.segway.com/content/dam/segway-ninebot/ap/en/content-import/product-image/Ekickscooter-F2Ⅱ.png"
+},
+"/media/patinetes/urban-glide-all-road-6-2x2-oficial.webp": {
+"autor": "UrbanGlide (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://urbanglide.com/wp-content/uploads/2025/04/AR62x2-2.webp"
+},
+"/media/patinetes/kaabo-wolf-king-gt-pro-oficial.webp": {
+"autor": "Kaabo (foto de producto oficial, Wolf King GT)",
+"licencia": "prensa",
+"url": "https://www.kaabo.com/wp-content/uploads/2023/05/Kaabo-Wolf-King-Gt.png"
+},
+"/media/patinetes/speedway-leger-pro-oficial.webp": {
+"autor": "Voltride (foto de producto de tienda)",
+"licencia": "prensa",
+"url": "https://voltride.com/wp-content/uploads/2025/04/electric-scooter-speedway-leger-pro-main-product-image.jpg"
 }
 };

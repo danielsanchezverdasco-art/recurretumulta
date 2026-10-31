@@ -136,45 +136,42 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Tarumo",
     marca: "Urban Glide",
     modelo: "All Road 6 2x2",
-    precioEur: 849.99, // tarifa oficial Europa (verificado 20/10/2026)
-    potenciaNominalW: 1600,
-    potenciaPicoW: null,
+    precioEur: 849.99,
+    potenciaNominalW: 1000,
+    potenciaPicoW: 1600,
     autonomiaKm: 80,
     autonomiaRealKm: 54,
     velocidadMaxKmh: 25,
     pesoKg: 30,
     cargaMaxKg: 120,
-    tiempoCargaH: null,
+    tiempoCargaH: 12,
     bateriaWh: 874,
-    frenos: "Doble freno de disco",
-    neumaticos: "10\" cross tubeless",
+    frenos: "Doble freno de disco (delantero y trasero)",
+    neumaticos: "10\" tubeless todoterreno",
     certificadoDgt: null,
-    foto: "/media/patinetes/urban-glide-all-road-6-2x2-1.webp",
-    galeria: [
-      { src: "/media/patinetes/urban-glide-all-road-6-2x2-2.webp", alt: "Detalle de los dos motores del Urban Glide All Road 6 2x2", ancho: 1200, alto: 800 },
-      { src: "/media/patinetes/urban-glide-all-road-6-2x2-3.webp", alt: "Urban Glide All Road 6 2x2 en un camino de tierra", ancho: 1200, alto: 800 },
+    foto: "/media/patinetes/urban-glide-all-road-6-2x2-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm"
     ],
-    aprox: ["autonomiaRealKm"],
     pros: [
-      "Tracción total 2x2 con dos motores de 800 W: tracción brutal en tierra y barro",
-      "Batería de 874 Wh (48 V 18,2 Ah): 80 km declarados",
-      "Neumáticos cross tubeless de 10\": agarre serio fuera del asfalto",
-      "Doble disco para detener 30 kg de patinete con seguridad",
-      "Carga máxima de 120 kg",
-      "En Francia ronda los 690 €: el 2x2 más barato del mercado",
+      "Tracción total con dos motores de 500 W nominales y 800 W máximos cada uno, y selector de tracción trasera, delantera o integral",
+      "Batería de 874 Wh (48 V y 18,2 Ah) y 80 km declarados por el fabricante en condiciones ideales",
+      "Neumáticos tubeless todoterreno de 10\" con doble freno de disco para parar 30 kg",
+      "Arranque con llave, luces RGB, intermitentes integrados y protección IPX5",
+      "Soporta hasta 120 kg y declara pendientes de hasta 20°"
     ],
     contras: [
-      "30 kg: no es un patinete para llevarlo a cuestas",
-      "Tiempo de carga no publicado; con 874 Wh no será corto",
-      "La autonomía real con los dos motores a pleno baja mucho de los 80 km",
-      "Sin certificación DGT verificada",
-      "Poco ágil en ciudad: es un patinete de campo",
-      "Repuestos y servicio técnico más limitados que las grandes marcas",
+      "Con 30 kg, subir escaleras o viajar en transporte público con él es poco realista",
+      "Carga completa en unas 12 horas, según el fabricante",
+      "Los 80 km se miden con 70 kg, a 15 km/h de media y sobre plano; con los dos motores a fondo la autonomía real baja bastante",
+      "UrbanGlide no indica certificación DGT en su ficha: antes de usarlo en vías públicas, exige el certificado de circulación",
+      "Es un patinete de campo, poco ágil en ciudad; el fabricante advierte que no es apto para acrobacias ni saltos",
+      "Pesa 30 kg y corre bastante: exige casco puesto y haber cumplido 15 años (RD 518/2026)"
     ],
-    veredicto:
-      "El All Road 6 2x2 es un capricho: tracción total y casi 900 Wh por menos de 700 €. Si buscas un patinete para pistas y caminos, no hay nada parecido por ese precio. Para ciudad pura, sus 30 kg y su tamaño lo hacen poco práctico.",
-    fuenteNombre: "UrbanGlide",
-    fuenteUrl: "https://www.urbanglide.com",
+    veredicto: "El All Road 6 2x2 cuesta 849,99 € en la web de UrbanGlide y ofrece tracción total, 874 Wh y neumáticos todoterreno. Es un patinete para pistas y caminos: en ciudad lo penalizan sus 30 kg, y su autonomía real será bastante inferior a los 80 km declarados.",
+    fuenteNombre: "UrbanGlide: ficha oficial del All Road 6 2x2 (urbanglide.com)",
+    fuenteUrl: "https://urbanglide.com/en/produit/all-road-6-2x2/",
     mantenimientoDIY: {
       intervaloRevision: "Antes de cada uso: comprobar que todas las piezas están bien montadas y en buen estado (manillar, frenos, ruedas, luces)",
       presionNeumaticos: "Presión máxima de inflado: 6,40 bar (ver el valor indicado en el lateral del neumático)",
@@ -182,15 +179,15 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
         "Comprobar el juego de la maneta de freno y el estado de discos y pastillas",
         "Sustituir los discos si el espesor baja de 2,5 mm o hay ruido anormal al frenar",
         "Prueba de frenada: circular a 15 km/h y frenar en 1 m; el patinete debe detenerse",
-        "Para los ajustes básicos, el manual remite a los videotutoriales del canal de YouTube «UrbanGlide Channel»",
+        "Para los ajustes básicos, el manual remite a los videotutoriales del canal de YouTube «UrbanGlide Channel»"
       ],
       aprieteTornilleria: "Comprobar que el manillar y la potencia están correctamente apretados, y que los tornillos, pernos y tuercas están bien apretados",
       trucos: [
         "La batería mantiene un rendimiento estable durante unos 750 ciclos de carga (≈3 años de uso medio)",
         "Sustituir los neumáticos si pierden su forma original o presentan grietas, cortes u otros signos de desgaste",
-        "Evitar la lluvia intensa: los componentes eléctricos no deben sumergirse en agua",
-      ],
-    },
+        "Evitar la lluvia intensa: los componentes eléctricos no deben sumergirse en agua"
+      ]
+    }
   },
   {
     id: "urban-glide-ride-100-pro-2",
@@ -1353,52 +1350,49 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Careless Kingdom",
     marca: "Hiley",
     modelo: "Tiger 10 Pro",
-    precioEur: null, // Hiley no publica PVP oficial de este modelo (verificado 20/10/2026)
+    precioEur: null,
     potenciaNominalW: 2400,
-    potenciaPicoW: null,
-    autonomiaKm: 60,
-    autonomiaRealKm: 41,
-    velocidadMaxKmh: 25,
-    pesoKg: null,
-    cargaMaxKg: null,
-    tiempoCargaH: null,
-    bateriaWh: null,
-    frenos: "Doble freno de disco",
-    neumaticos: "10\"",
+    autonomiaKm: 76,
+    autonomiaRealKm: 53,
+    velocidadMaxKmh: 64,
+    pesoKg: 32.7,
+    cargaMaxKg: 163,
+    tiempoCargaH: 11,
+    bateriaWh: 1248,
+    frenos: "Doble freno hidráulico + EBS",
+    neumaticos: "Neumáticos de aire de 10×3 pulgadas",
     certificadoDgt: null,
-    foto: "/media/patinetes/hiley-tiger-10-pro-1.webp",
-    galeria: [
-      { src: "/media/patinetes/hiley-tiger-10-pro-2.webp", alt: "Detalle de la suspensión del Hiley Tiger 10 Pro", ancho: 1200, alto: 800 },
-      { src: "/media/patinetes/hiley-tiger-10-pro-3.webp", alt: "Hiley Tiger 10 Pro en Amazon España", ancho: 1200, alto: 800 },
+    foto: "/media/patinetes/hiley-tiger-10-pro-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm"
     ],
-    aprox: ["potenciaNominalW", "autonomiaRealKm"],
     pros: [
-      "Doble motor de 1.200 W: 2.400 W nominales de tracción total",
-      "Vendido limitado a 25 km/h en Amazon España: usable como VMP",
-      "Suspensión hidráulica: comodidad de gama alta",
-      "60 km declarados",
-      "Doble disco para detener tanta potencia",
-      "Disponible en Amazon España con garantía local",
+      "Dos motores de buje de 1.200 W (2.400 W en total) y pendiente declarada superior a 30°",
+      "Batería de 60 V 20,8 Ah (1.248 Wh) y 47 millas (unos 76 km) de autonomía máxima declarada",
+      "Suspensión hidráulica doble, delantera y trasera independiente, y frenos hidráulicos con EBS",
+      "Carga máxima de 360 libras (163 kg)",
+      "Cuadro de aluminio 6061 y luces RGB controladas desde una app"
     ],
     contras: [
-      "Batería en Wh no publicada",
-      "Peso no publicado; con doble motor será pesado",
-      "Tiempo de carga no publicado",
-      "Sin certificación DGT verificada",
-      "Sin precio oficial en Europa: Hiley no publica PVP del Tiger 10 Pro",
-      "Excesivo si solo vas a hacer ciudad tranquila",
+      "72 libras (32,7 kg): es un patinete de planta baja o de garaje",
+      "40 mph (64 km/h): casi tres veces el límite legal de 25 km/h",
+      "Hiley lo vende en dólares (1.299 $ con un precio de lista de 1.599 $); la ficha oficial no da precio en euros",
+      "Carga de 10 a 12 horas con un cargador y de 5 a 6 con dos",
+      "No muestra certificado DGT ni marcado CE en su ficha",
+      "Dos motores no eximen de nada: casco siempre y edad mínima de 15 años desde el 1 de octubre de 2026"
     ],
-    veredicto:
-      "El Tiger 10 Pro es el doble motor 'civilizado' de Hiley: 2.400 W limitados a 25 km/h y suspensión hidráulica. Para quien quiere prestaciones de hyper-scooter sin salir del marco VMP, es una de las opciones más serias.",
-    fuenteNombre: "Hiley",
-    fuenteUrl: "https://www.hiley.es",
+    veredicto: "El Tiger T10 Pro es un patinete de rendimiento, no de ciudad: 2.400 W, 64 km/h y 32,7 kg. En vía pública española no puede circular así; sus datos sirven para quien lo quiera para circuito o terreno privado.",
+    fuenteNombre: "Hiley Rider (ficha oficial del Tiger T10 Pro)",
+    fuenteUrl: "https://www.hileyrider.com/products/hiley-tiger-t10-pro-dual-motor-electric-scooter",
     mantenimientoDIY: {
       intervaloRevision: "Inspección periódica de los consumibles: suspensión, neumáticos, cámaras, ruedas, rodamientos, discos, pastillas de freno, cables y piezas de plegado",
       trucos: [
         "Detener la marcha de inmediato si: el motor se calienta de forma anormal, hay error de frenada, aparecen mensajes de error en el panel, ruido anormal, humo u olor",
-        "Las piezas que superan su vida útil pueden provocar accidentes: respetar el plan de sustitución de cada componente",
-      ],
+        "Las piezas que superan su vida útil pueden provocar accidentes: respetar el plan de sustitución de cada componente"
+      ]
     },
+    potenciaPicoW: null
   },
   {
     id: "hiley-tiger-10-lite",
@@ -1997,9 +1991,9 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Electron Surfer",
     marca: "Speedway",
     modelo: "Leger Pro",
-    precioEur: null, // Minimotors no publica tarifa oficial de venta al público (verificado 20/10/2026)
+    precioEur: 799.99,
     potenciaNominalW: 600,
-    potenciaPicoW: 1450,
+    potenciaPicoW: null,
     autonomiaKm: 75,
     autonomiaRealKm: 51,
     velocidadMaxKmh: 25,
@@ -2007,50 +2001,49 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     cargaMaxKg: 120,
     tiempoCargaH: 11,
     bateriaWh: 1081,
-    frenos: "Tambor trasero + frenada regenerativa",
-    neumaticos: "8,5\"",
+    frenos: "Tambor delantero y trasero + frenada regenerativa (KERS)",
+    neumaticos: "8,5\" × 2\" con cámara",
     certificadoDgt: null,
-    foto: "/media/patinetes/speedway-leger-pro-1.webp",
-    galeria: [
-      { src: "/media/patinetes/speedway-leger-pro-2.webp", alt: "Detalle del Speedway Leger Pro", ancho: 1200, alto: 800 },
-      { src: "/media/patinetes/speedway-leger-pro-3.webp", alt: "Speedway Leger Pro en una avenida", ancho: 1200, alto: 800 },
+    foto: "/media/patinetes/speedway-leger-pro-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm"
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: [
-      "Batería de 1.081 Wh (52 V): 75 km declarados, una barbaridad",
-      "Solo 20 kg con más de 1 kWh: récord de densidad",
-      "1.450 W de pico: empuje serio",
-      "Protección IP54",
-      "Carga máxima de 120 kg",
-      "800 € en Voltride Europa: rutero premium a precio razonable",
+      "Batería de 1.081 Wh (52 V): 75 km declarados de fábrica y 55 km en la prueba de Voltride",
+      "Solo 20 kg con más de 1 kWh de batería",
+      "Manillar plegable y diseño compacto para guardarlo en casa o subirlo al transporte público",
+      "Suspensión de muelle delantera y trasera, reposapiés trasero elevado e intermitentes",
+      "Carga máxima de 120 kg y pendientes de hasta 30° declaradas",
+      "799,99 € en Voltride (antes 1.249,99 €) con 2 años de garantía comercial y 1 año en la batería"
     ],
     contras: [
-      "11 horas de carga completa",
-      "Freno de tambor trasero + regenerativa: mejorable para 1.450 W",
-      "Ruedas de 8,5\": pequeñas para tanta autonomía",
-      "Sin certificación DGT verificada",
-      "Minimotors tiene servicio técnico limitado en España",
-      "20 kg con batería enorme: si falla, la reparación es cara",
-      "Sin precio oficial en España: la marca no publica tarifa oficial para este modelo",
+      "11 horas de carga completa con el cargador de 2 A",
+      "Frenos de tambor (delante y detrás) y frenada regenerativa: sin disco, su potencia de frenado es limitada",
+      "Ruedas de 8,5\" con cámara: pequeñas para tanta autonomía y más propensas al pinchazo",
+      "Voltride indica «ninguno» como nivel de resistencia al agua: sin protección IP declarada",
+      "Sin app ni GPS, y los candados y la alarma son accesorios aparte",
+      "Sin certificado DGT verificado ni precio oficial en España: la marca no publica tarifa para este modelo",
+      "20 kg con una batería grande: si falla, la reparación es cara",
+      "El Leger Pro de 20 kg también está sujeto al casco obligatorio y a la edad mínima de 15 años"
     ],
-    veredicto:
-      "El Leger Pro es el rutero definitivo: 1.081 Wh en 20 kg. Si haces 40+ km al día y no quieres cargar cada noche, no hay nada parecido. La frenada de tambor es su único pero serio.",
-    fuenteNombre: "Voltride",
-    fuenteUrl: "https://www.voltride.com",
+    veredicto: "El Leger Pro ofrece 1.081 Wh en 20 kg por 799,99 € en Voltride, con una autonomía real de unos 55 km medida por el propio distribuidor. Lo penalizan los frenos de tambor, la falta de protección IP y que no tiene certificado DGT verificado.",
+    fuenteNombre: "Voltride (distribuidor oficial de Speedway en la UE): ficha del Leger Pro",
+    fuenteUrl: "https://voltride.com/speedway-leger-pro/",
     mantenimientoDIY: {
       intervaloRevision: "Antes de cada uso: comprobar el estado de frenos y cables, la presión de los neumáticos y el apriete de tornillos y tuercas",
       presionNeumaticos: "45–50 PSI (presión adecuada para los neumáticos)",
       ajusteFrenosPasos: [
         "Comprobar que la fuerza de frenado es suficiente",
         "Revisar que las pastillas no están desgastadas y que el cable no está suelto ni dañado",
-        "Comprobar que los tornillos de fijación del freno no están flojos",
+        "Comprobar que los tornillos de fijación del freno no están flojos"
       ],
       aprieteTornilleria: "Revisar el apriete de todos los tornillos y tuercas, en especial los del sistema de plegado y el manillar",
       trucos: [
         "Con poco aire aumenta el riesgo de pinchazo: revisar la presión con frecuencia",
-        "Si aparece un ruido o sensación extraña durante la marcha, detenerse y revisar roturas, desgaste o deformaciones",
-      ],
-    },
+        "Si aparece un ruido o sensación extraña durante la marcha, detenerse y revisar roturas, desgaste o deformaciones"
+      ]
+    }
   },
   {
     id: "speedway-leger",
@@ -2224,45 +2217,42 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Freshly Charged",
     marca: "Segway",
     modelo: "SuperScooter GT3 Pro",
-    precioEur: 2599, // tarifa oficial España (verificado 20/10/2026)
-    potenciaNominalW: null,
+    precioEur: 2599,
+    potenciaNominalW: 3400,
     potenciaPicoW: 7000,
     autonomiaKm: 138,
     autonomiaRealKm: 94,
     velocidadMaxKmh: 80,
     pesoKg: 53.1,
     cargaMaxKg: 150,
-    tiempoCargaH: null,
+    tiempoCargaH: 8,
     bateriaWh: 2160,
-    frenos: "Frenos hidráulicos + S-ABS",
-    neumaticos: null,
+    frenos: "Discos hidráulicos de doble pistón (delante y detrás) con S-ABS",
+    neumaticos: "Neumáticos sin cámara autosellantes de 11\"",
     certificadoDgt: null,
-    foto: "/media/patinetes/segway-superscooter-gt3-pro-1.webp",
-    galeria: [
-      { src: "/media/patinetes/segway-superscooter-gt3-pro-2.webp", alt: "Detalle de la suspensión hidráulica del Segway SuperScooter GT3 Pro", ancho: 1200, alto: 800 },
-      { src: "/media/patinetes/segway-superscooter-gt3-pro-3.webp", alt: "Segway SuperScooter GT3 Pro en circuito", ancho: 1200, alto: 800 },
+    foto: "/media/patinetes/segway-superscooter-gt3-pro-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm"
     ],
-    aprox: ["potenciaPicoW", "autonomiaRealKm"],
     pros: [
-      "Doble motor con 7.000 W en conjunto: aceleración de moto",
-      "Batería de 2.160 Wh (72 V): 138 km declarados",
-      "80 km/h de velocidad máxima",
-      "Frenos hidráulicos + S-ABS y suspensión hidráulica",
-      "Aceleración de 3,9 s hasta 48 km/h",
-      "Carga máxima de 150 kg y protección IPX6",
+      "Dos motores de 1.700 W nominales (3.500 W de pico cada uno, 7.000 W en total) y una pendiente máxima declarada del 38 %",
+      "Batería de 72 V y 2.160 Wh con 138 km en modo Eco, 72 km en Sport y 55 km en Race según el manual",
+      "Frenos hidráulicos de doble pistón con S-ABS y suspensión hidráulica con ajuste de compresión delante",
+      "Carcasa IPX6, neumáticos de 11 pulgadas sin cámara autosellantes y 150 kg de carga máxima",
+      "Precio publicado en la tienda oficial de Segway España: 2.599 €"
     ],
     contras: [
-      "53,1 kg: una moto sin asiento",
-      "80 km/h: no puede circular legalmente en España",
-      "Sin certificación DGT",
-      "2.599 € en la tienda oficial de Segway en España: precio de moto",
-      "Tiempo de carga no publicado",
-      "Excesivo para cualquier uso urbano",
+      "Segway indica en su tienda que solo puede usarse en propiedad privada: a 80 km/h queda fuera de los VMP",
+      "53,1 kg y 1,37 m de largo incluso plegado: no es un patinete para subir escaleras",
+      "La carga completa tarda unas 8 horas (±0,5 h)",
+      "La marca recomienda de 18 a 60 años y una estatura de 160 a 200 cm",
+      "Los 138 km son en modo Eco, a unos 25 km/h: a unos 50 km/h son 72 km y a 80 km/h, 55 km (nota de prensa)",
+      "A estas potencias, el casco es lo mínimo; y la edad legal mínima en España es de 15 años"
     ],
-    veredicto:
-      "El GT3 Pro es el hyper-scooter de Segway: 7.000 W, 138 km declarados y 80 km/h. Una bestia de la ingeniería con el respaldo de la marca; en España, solo para circuito. El GT3 E es su hermano legal de 25 km/h.",
-    fuenteNombre: "Segway",
-    fuenteUrl: "https://www.segway.com",
+    veredicto: "El GT3 Pro es el patinete más rápido de Segway: 7.000 W, 80 km/h y 2.160 Wh por 2.599 € en su tienda oficial. Su propio fabricante lo limita a propiedad privada; en vía pública española no es un VMP.",
+    fuenteNombre: "Segway: manual del GT3 Pro y tienda oficial de España",
+    fuenteUrl: "https://store.segway.com/media/product/GT3Pro_product/Segway_GT3_Pro_Product_Manual_v2.pdf"
   },
   {
     id: "segway-ninebot-f2-ii",
@@ -2270,31 +2260,40 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot KickScooter F2 II",
-    precioEur: null, // sin tarifa oficial publicada en ningún mercado (verificado 20/10/2026)
+    precioEur: 429,
     potenciaNominalW: 400,
     potenciaPicoW: 800,
     autonomiaKm: 55,
     autonomiaRealKm: 30,
     velocidadMaxKmh: 25,
     pesoKg: 17.3,
-    cargaMaxKg: null,
+    cargaMaxKg: 100,
     tiempoCargaH: 6.5,
     bateriaWh: 367,
-    frenos: "Disco + freno eléctrico",
-    neumaticos: "10\" tubeless",
+    frenos: "Disco delantero + freno electrónico trasero (E-ABS)",
+    neumaticos: "10\" autosellantes de 60 mm de ancho",
     certificadoDgt: true,
-    foto: "/media/patinetes/segway-ninebot-f2-ii-1.webp",
-    galeria: [
-      { src: "/media/patinetes/segway-ninebot-f2-ii-2.webp", alt: "Detalle de los intermitentes del Segway Ninebot F2 II", ancho: 1200, alto: 800 },
-      { src: "/media/patinetes/segway-ninebot-f2-ii-3.webp", alt: "Segway Ninebot F2 II en una ciudad española", ancho: 1200, alto: 800 },
+    foto: "/media/patinetes/segway-ninebot-f2-ii-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm"
     ],
-    aprox: ["autonomiaRealKm", "bateriaWh", "tiempoCargaH"],
-    pros: ["Con el certificado DGT B1103 ya de serie no necesitas buscar una versión homologada aparte: tal cual sale de la caja circula como VMP en España, limitado a los 25 km/h legales", "La suspensión delantera de doble muelle con 30 mm de recorrido, que el F2 original no llevaba, trabaja junto a los neumáticos de 10 pulgadas y 60 mm de ancho para que adoquines y juntas no te lleguen directos a las muñecas", "Integra intermitentes en el manillar ancho de 570 mm y compatibilidad con Apple Find My: señalizas el giro sin soltar las manos y, si tienes iPhone, localizas el patinete desde la app Encontrar", "Mantiene los 17,3 kg pese a subir a 400 W nominales y conservar la batería de 367 Wh, así que sigue siendo asumible para plegarlo, meterlo en el maletero o combinarlo con metro y cercanías"],
-    contras: ["Su pendiente máxima oficial es del 18 % y los 400 W nominales se quedan justos en rampas sostenidas, sobre todo con un conductor cercano a los 100 kg de carga máxima que Segway declara para esta generación", "Repite la batería de 367 Wh del F2 original pese a ganar potencia: en uso real se queda en unos 30 km, lejos de los 460 Wh y los 65 km en ECO de su hermano F2 Pro II si necesitas margen de sobra", "Recargar por completo pide 6,5 horas y no hay carga rápida que salve un olvido: si te quedas seco por la mañana, no lo resuelves en la pausa del café", "Su función estrella de localización solo la aprovechas con ecosistema Apple —exige iOS 14,5 o posterior—; con Android te quedas sin Find My y dependes de un candado físico de toda la vida"],
-    veredicto:
-      "Con 400 W nominales y 800 W de pico, batería de 367 Wh y unos 30 km reales frente a los 55 km que declara Segway en modo ECO, el F2 II cubre el desplazamiento diario a 25 km/h pesando 17,3 kg y con certificado DGT B1103. Encaja si quieres un VMP legal para España, con intermitentes integrados y localizable con Apple Find My, y tu ida y vuelta habitual cabe en esa autonomía real sin cargar cada noche. No encaja si vives entre cuestas largas, te acercas a los 100 kg de carga máxima oficial o necesitas encadenar trayectos largos: ahí tendrás que asumir sus 6,5 horas de enchufe o mirar a su hermano Pro II, con batería mayor.",
-    fuenteNombre: "Segway",
-    fuenteUrl: "https://www.segway.com",
+    pros: [
+      "Con el certificado DGT B1103 ya de serie no necesitas buscar una versión homologada aparte: tal cual sale de la caja circula como VMP en España, limitado a los 25 km/h legales",
+      "La suspensión delantera de doble muelle con 30 mm de recorrido, que el F2 original no llevaba, trabaja junto a los neumáticos de 10 pulgadas y 60 mm de ancho para que adoquines y juntas no te lleguen directos a las muñecas",
+      "Integra intermitentes en el manillar ancho de 570 mm y compatibilidad con Apple Find My: señalizas el giro sin soltar las manos y, si tienes iPhone, localizas el patinete desde la app Encontrar",
+      "Mantiene los 17,3 kg pese a subir a 400 W nominales y conservar la batería de 367 Wh, así que sigue siendo asumible para plegarlo, meterlo en el maletero o combinarlo con metro y cercanías"
+    ],
+    contras: [
+      "Su pendiente máxima oficial es del 18 % y los 400 W nominales se quedan justos en rampas sostenidas, sobre todo con un conductor cercano a los 100 kg de carga máxima que Segway declara para esta generación",
+      "Repite la batería de 367 Wh del F2 original pese a ganar potencia: en uso real se queda en unos 30 km, lejos de los 460 Wh y los 65 km en ECO de su hermano F2 Pro II si necesitas margen de sobra",
+      "Recargar por completo pide 6,5 horas y no hay carga rápida que salve un olvido: si te quedas seco por la mañana, no lo resuelves en la pausa del café",
+      "Su función estrella de localización solo la aprovechas con ecosistema Apple —exige iOS 14,5 o posterior—; con Android te quedas sin Find My y dependes de un candado físico de toda la vida",
+      "Ni siquiera con 17,3 kg se libra del RD 518/2026: casco y mayoría de 15 años"
+    ],
+    veredicto: "Con 400 W nominales y 800 W de pico, batería de 367 Wh y unos 30 km reales frente a los 55 km que declara Segway en modo ECO, el F2 II cubre el desplazamiento diario a 25 km/h pesando 17,3 kg y con certificado DGT B1103. Encaja si quieres un VMP legal para España, con intermitentes integrados y localizable con Apple Find My, y tu ida y vuelta habitual cabe en esa autonomía real sin cargar cada noche. No encaja si vives entre cuestas largas, te acercas a los 100 kg de carga máxima oficial o necesitas encadenar trayectos largos: ahí tendrás que asumir sus 6,5 horas de enchufe o mirar a su hermano Pro II, con batería mayor.",
+    fuenteNombre: "Segway-Ninebot: ficha oficial del F2 II y tienda oficial de España (F2 E II)",
+    fuenteUrl: "https://ap-en.segway.com/ekickscooter/products/f2-ii.html",
     mantenimientoDIY: {
       intervaloRevision: "Cada 3 meses o 500 km; revisión completa cada 6 meses; revisión mayor a los 5.000 km o 2 años (plan del manual Ninebot)",
       presionNeumaticos: "42–48 PSI en ambos neumáticos, inflados por igual (manual Ninebot)",
@@ -2303,9 +2302,9 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       trucos: [
         "Comprobar que intermitentes, claxon y panel de control funcionan con normalidad",
         "Verificar que el acelerador vuelve solo a su posición al soltarlo",
-        "Guardar en un lugar fresco y seco, lejos de la luz solar directa",
-      ],
-    },
+        "Guardar en un lugar fresco y seco, lejos de la luz solar directa"
+      ]
+    }
   },
   {
     id: "segway-ninebot-f2-pro-ii",
