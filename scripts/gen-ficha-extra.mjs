@@ -40,18 +40,25 @@ if (existsSync(csv)) {
   }
 }
 
+// 31/10/2026 (auditoría A7): no enlazar como rival una ficha cuyo slug es origen 301 en public/_redirects (enlace interno a redirección).
+const REDIR_VIEJOS = new Set();
+for (const l of readFileSync(join(ROOT, "public/_redirects"), "utf-8").split(/\r?\n/)) {
+  const m = l.trim().match(/^\/(coches|motos|patinetes)\/([^/\s*:]+)\/?\s+\/(?:coches|motos|patinetes)\/[^\s]+\s+301/);
+  if (m) REDIR_VIEJOS.add(`${m[1]}/${m[2]}`);
+}
 const enDisco = (src) => !!src;
 const primeraFoto = (...xs) => xs.find(enDisco) || "";
 function rivales(items, { id, nombre, precio, foto, seg, extra, afin, blog }, pref) {
   const byId = new Map(items.map((x) => [id(x), x]));
   const norm = (x) => nombre(x).toLowerCase().replace(/\s+20\d\d.*$/, "").trim();
   const out = {};
+  const TIPO = { c: "coches", m: "motos", p: "patinetes" }[pref];
   for (const x of items) {
     const p = precio(x);
     const vistos = new Set([norm(x)]);
     const res = [];
     const add = (y) => {
-      if (!y || id(y) === id(x) || vistos.has(norm(y)) || res.length >= 6) return;
+      if (!y || id(y) === id(x) || REDIR_VIEJOS.has(`${TIPO}/${id(y)}`) || vistos.has(norm(y)) || res.length >= 6) return;
       vistos.add(norm(y));
       res.push([id(y), nombre(y), precio(y), foto(y) || ""]);
     };

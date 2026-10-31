@@ -61,7 +61,7 @@ export const AUTOCARAVANAS_ITINEO_M4: Autocaravana[] = [
       "Boxer 2.2 l de 140 CV, camas gemelas de 80x210/190 cm con extensión king-size de 150x202 cm en " +
       "opción y cama de cabina basculante de 140x188 cm según extracto de tarifa oficial (concesionario " +
       "AJD). Nevera 128 l, agua limpia 110 l y grises 90 l, batería 2x100 Ah, calefacción Truma Combi 4, " +
-      "según fichas de catálogo de la red de distribución. Sin dato publicado: precio ES (Itineo no publica tarifa  Precio: se deja sin dato porque Itineo (Groupe Rapido) no publica PVP en su web oficial (los precios se obtienen en su red de concesionarios); sin tarifa oficial abierta verificable." +
+      "según fichas de catálogo de la red de distribución. sin tarifa oficial abierta verificable." +
       "oficial en España), tara exacta, carga útil, consumo y emisiones.",
     curiosidades:
       "Con solo 2,19 m de anchura de carrocería, el CJ660 es uno de los integrales más estrechos del " +
@@ -203,7 +203,7 @@ numerosas la propia Itineo ofrece el SBD700 o el SB740 en la gama Famili de anch
       "(ITINEO_CT-2026). Motor Fiat Ducato 2.0 l de 140 CV. Masa en orden de marcha 2.995 kg y carga " +
       "útil de catálogo UK 505 kg según ficha técnica de distribuidor (FindMyLeisureVehicle); no se " +
       "aplica como carga útil de esta ficha por ser cifra de mercado británico. Literas traseras, cama basculante de " +
-      "cabina de 140x190 cm y cama de dinette según documentación de la red. Sin dato publicado: precio ES (Itineo  Precio: se deja sin dato porque Itineo (Groupe Rapido) no publica PVP en su web oficial (los precios se obtienen en su red de concesionarios); sin tarifa oficial abierta verificable." +
+      "cabina de 140x190 cm y cama de dinette según documentación de la red. sin tarifa oficial abierta verificable." +
       "no publica tarifa oficial en España), tara exacta, consumo y emisiones.",
     curiosidades:
       "El SBD700 se lanzó en 2024 como el primer integral Itineo de menos de 7 metros capaz de dormir " +

@@ -59,7 +59,7 @@ export const AUTOCARAVANAS_ETRUSCO_M3: Autocaravana[] = [
       "Motor de serie 103 kW (140 CV) y opcional 130 kW (180 CV) con cambio automático: nota de prensa oficial de Etrusco sobre la serie Campervan Plus. " +
       "La sigla DB identifica la cama doble transversal trasera («cozy transverse bed», nota de prensa oficial). " +
       "Gama oficial 2026 (etrusco.com, modeloverview): serie CV Fiat desde 55.799 € y serie CV Plus desde 58.999 € (PVP Alemania, solo referencia; no hay tarifa ES). " +
-      "Precio null en España: la marca no publica tarifa ES.  Precio: se deja sin dato porque no se ha podido localizar una tarifa oficial abierta y verificable de Etrusco para este modelo (la marca no expone el PVP por modelo en su web oficial); sin PVP oficial verificable." +
+      "sin PVP oficial verificable." +
       "Fotos verificadas visualmente el 19/10/2026 (worker V3-05): 4 fotos reales del modelo exacto, sin marcas de agua ni concesionario; el baño es foto oficial de la galería de etrusco.com.",
     curiosidades:
       "Para la temporada 2026 Etrusco amplía su gama camper con el nuevo CV 600 SB —el primer camper de 6 metros de la marca con dos camas individuales de hasta 191 cm— y mantiene el CV 600 DB con su cama doble transversal; la serie Campervan Plus, a la que pertenece, parte de 58.999 € en Alemania (fuente: nota de prensa oficial de Etrusco, 8/5/2025, https://www.etrusco.com/it/it/stampa/articolo-2025/cv-600-sb; y nota de prensa de la serie Plus https://www.etrusco.com/gb/en/press/article-2024/cv-plus).",
@@ -151,7 +151,7 @@ Para quién es: para parejas que buscan un camper compacto de verdad —5,99 m�
       "Medidas 7400x2320x2950 mm, MMA de 3500 kg, ampliable a 3650 kg, y propulsor Fiat Ducato 2.2 MultiJet de 140 CV con cambio manual (180 CV con automático bajo pedido): datos de fichas de la red europea de unidades 2024-2025. " +
       "La distribución QBC monta cama queen posterior y una gran cama abatible delantera junto a la zona de día; la red resalta el parabrisas panorámico y la decoración Emilia/type X. " +
       "En la web de la marca (etrusco.com) la serie I Fiat parte de 78.999 € en Alemania, cifra solo orientativa porque no existe tarifa ES. " +
-      "En España: null, sin tarifa publicada.  Precio: se deja sin dato porque no se ha podido localizar una tarifa oficial abierta y verificable de Etrusco para este modelo (la marca no expone el PVP por modelo en su web oficial); sin PVP oficial verificable." +
+      "sin PVP oficial verificable." +
       "Fotos: 4 fotos oficiales del PDF del expositor Etrusco en el NEC 2026 (contenido del fabricante), verificadas visualmente el 19/10/2026 (worker V3-05).",
     curiosidades:
       "La ficha de expositor de Etrusco en la feria NEC de Birmingham recoge el I 7400 QBC como modelo 2026: integral de clase A sobre Fiat con 4 plazas de viaje, 4 camas y tarifa de salida en Reino Unido de 72.290 £ (origen: https://findmyleisurevehicle.co.uk/pdf/product/6527?signature=ddafc60dde5b001921aa9a749bba1693508385b8cf56123cd303acdafea1ea06, consultada el 19/10/2026).",

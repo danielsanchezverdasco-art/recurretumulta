@@ -36988,7 +36988,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "iveco-daily-2025-precio-furgon",
     "title": "Iveco Daily 2025: el furgón camión desde 48.280 €",
-    "excerpt": "Precio, ficha técnica y versiones del Iveco Daily 2025: 35S16H de 156 CV con 10,8 m³ de carga desde 48.280 €. El furgón de chasis de largueros.",
+    "excerpt": "Precio, ficha técnica y versiones del Iveco Daily 2025: 35S16H de 160 CV con 10,8 m³ de carga desde 48.280 €. El furgón de chasis de largueros.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -37006,7 +37006,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "mercedes-e-vito-2025-precio-electrica",
     "title": "eVito: furgón eléctrico por 67.700 €",
-    "excerpt": "Precio, ficha técnica y autonomía del Mercedes eVito 2025: el furgón eléctrico con 116 CV, batería de 60 kWh y 309 km WLTP desde ~67.700 €.",
+    "excerpt": "Precio, ficha técnica y autonomía del Mercedes eVito 2025: el furgón eléctrico con 116 CV, batería de 60 kWh y 365 km WLTP desde ~67.700 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",

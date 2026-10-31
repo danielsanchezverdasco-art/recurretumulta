@@ -109,7 +109,7 @@ En precio no hay PVP oficial verificable del 2Win Plus para dar una cifra de fá
     },
     euroncap: null,
     notas:
-      "«dato no oficial · en revisión»: todos los valores numéricos proceden de fichas coincidentes de concesionarios del modelo exacto y de ADAC Wohnmobilmarkt (prensa especializada); la web oficial del fabricante no publica ficha del 2Win Plus. La carga útil calculada se ha eliminado (pasa a null). La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante. Precio: se deja sin dato porque el precio base de Pössl/Globecar (Pössl Group) solo se ofrece a través de su configurador oficial en línea y no existe una tarifa oficial abierta (PDF o web) verificable para este modelo fuera de España; la tarifa oficial española localizada cubre solo la gama VAN LINE (Vanster/Campster).",
+      "«dato no oficial · en revisión»: todos los valores numéricos proceden de fichas coincidentes de concesionarios del modelo exacto y de ADAC Wohnmobilmarkt (prensa especializada); la web oficial del fabricante no publica ficha del 2Win Plus. La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante. la tarifa oficial española localizada cubre solo la gama VAN LINE (Vanster/Campster).",
     curiosidades:
       "Pössl la creó Peter Pössl en 1989 y con ella nació en Alemania la categoría del furgón camper; el 2Win, lanzado en 2002, es uno de los modelos históricos de la casa. Fuente: https://de.wikipedia.org/wiki/P%C3%B6ssl_Freizeit_und_Sport",
     fuenteNombre:

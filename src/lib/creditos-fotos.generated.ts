@@ -1784,5 +1784,25 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "© M 93 vía Wikimedia Commons",
 "licencia": "CC BY-SA 3.0 de",
 "url": "https://commons.wikimedia.org/wiki/File:Audi_Q3_1.5_TFSI_e-hybrid_S_line_(FJ)_%E2%80%93_h_29032026.jpg"
+},
+"/media/omoda-9-shs-precio-ficha-tecnica-oficial.webp": {
+"autor": "Omoda (foto de prensa oficial; URL exacta de origen no registrada)",
+"licencia": "prensa",
+"url": "https://www.omodajaecoo.es/"
+},
+"/media/omoda-9-shs-precio-ficha-tecnica-hero.webp": {
+"autor": "Omoda (foto de prensa oficial; URL exacta de origen no registrada)",
+"licencia": "prensa",
+"url": "https://www.omodajaecoo.es/"
+},
+"/media/omoda-9-shs-precio-ficha-tecnica-interior-oficial.webp": {
+"autor": "Omoda (foto de prensa oficial; URL exacta de origen no registrada)",
+"licencia": "prensa",
+"url": "https://www.omodajaecoo.es/"
+},
+"/media/omoda-9-shs-precio-ficha-tecnica-galeria-4.webp": {
+"autor": "Omoda (foto de prensa oficial; URL exacta de origen no registrada)",
+"licencia": "prensa",
+"url": "https://www.omodajaecoo.es/"
 }
 };

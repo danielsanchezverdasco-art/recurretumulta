@@ -116,7 +116,7 @@ export const AUTOCARAVANAS_GIOTTILINE_M1: Autocaravana[] = [
     fuenteNombre: "CamperOnLine Magazine (prensa especializada, prueba técnica del Siena 322)",
     fuenteUrl: "https://www.camperonline.it/magazine/2021/04/30/giottiline-siena-322/print/",
     notas:
-      "Giottiline no publica PVP ni ficha técnica detallada del Siena 322 para 2026 (la gama Siena figura en giottiline.com sin datos del modelo). Masa en orden de marcha (2.834 kg): prueba de CamperOnLine de 2021 con base Citroën, dato no oficial en revisión. Medidas y MMA de la prueba técnica del modelo exacto. Plazas para dormir no publicadas por la marca. Precio: se deja sin dato porque el Siena 322 no figura en el listino oficial vigente de Giottiline (colección 2025/2026: Siena 330, 422, 350, 440, 385, 485, 396, 397, 390F y 395F); sin tarifa oficial vigente verificable para este modelo.",
+      "Giottiline no publica PVP ni ficha técnica detallada del Siena 322 para 2026 (la gama Siena figura en giottiline.com sin datos del modelo). Masa en orden de marcha (2.834 kg): prueba de CamperOnLine de 2021 con base Citroën, dato no oficial en revisión. Medidas y MMA de la prueba técnica del modelo exacto. Plazas para dormir no publicadas por la marca. sin tarifa oficial vigente verificable para este modelo.",
     curiosidades:
       "Pese a medir menos de 6 metros, el Siena 322 homologa un garaje trasero con 300 kg de capacidad de carga, un valor por encima de la media de su categoría. Lo midió CamperOnLine Magazine en su prueba técnica del modelo exacto: https://www.camperonline.it/magazine/2021/04/30/giottiline-siena-322/print/.",
     descripcion:

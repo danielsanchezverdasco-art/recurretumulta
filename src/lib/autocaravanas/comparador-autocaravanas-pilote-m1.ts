@@ -114,7 +114,7 @@ export const AUTOCARAVANAS_PILOTE_M1: Autocaravana[] = [
     },
     euroncap: null,
     notas:
-      "La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato publicado por el fabricante: dato no oficial · en revisión. Precio: se deja sin dato porque Groupe Pilote no publica tarifas/PVP en abierto en sus webs oficiales (Pilote, Bavaria, Le Voyageur, Mooveo, Font Vendôme): los precios se facilitan a través de su red de concesionarios; sin PVP oficial verificable.",
+      "La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato publicado por el fabricante: dato no oficial · en revisión. sin PVP oficial verificable.",
     curiosidades:
       "Pilote nació en 1962, cuando André Padiou construyó su primera caravana en el taller de ebanistería de su padre en La Limouzinière (Loira Atlántico); su primer camping-car, la capuchina R430 (1976-78), iba a llamarse «Rally» y a última hora se bautizó «Pilote». Fuente: Pilote (web oficial, «Notre histoire»): https://www.pilote.fr/notre-histoire/",
     fuenteNombre: "Pilote (web oficial + catálogo colección 2027)",
@@ -247,7 +247,7 @@ Origen de los datos: las medidas (7,56 × 2,30 × 2,85 m), las 4 plazas de viaje
     },
     euroncap: null,
     notas:
-      "La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato publicado por el fabricante: dato no oficial · en revisión. Precio: se deja sin dato porque Groupe Pilote no publica tarifas/PVP en abierto en sus webs oficiales (Pilote, Bavaria, Le Voyageur, Mooveo, Font Vendôme): los precios se facilitan a través de su red de concesionarios; sin PVP oficial verificable.",
+      "La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato publicado por el fabricante: dato no oficial · en revisión. sin PVP oficial verificable.",
     curiosidades:
       "En 1981 Pilote inventó el concepto de la autocaravana perfilada, un formato hoy omnipresente que entonces no existía en el mercado. Fuente: catálogo oficial Pilote 2024: https://docs.campingcar-infos.com/docs/Pilote/Pilote%202024%20Catalogue.pdf",
     fuenteNombre: "Pilote (web oficial, colección 2027)",

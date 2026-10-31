@@ -59,7 +59,7 @@ export const AUTOCARAVANAS_CONCORDE_M3: Autocaravana[] = [
       "se sustituye por el Charisma 910 LI, vigente y documentado. Chasis Iveco Daily 70C: motor C21 3.0 de " +
       "152 kW (207 CV) y 470 Nm, cambio automático ZF de 8 relaciones, MMA 7.490 kg. Concorde no publica " +
       "precios (el PVP aplicado, 308.450 €, es el del Listino Prezzi oficial Concorde 2026 para Italia); la longitud exacta del layout 910 LI no se publica en la web oficial " +
-      "(rango de la gama 8,77–9,27 m) y queda sin dato, igual que la altura, la carga útil, el consumo y las  Precio: precio del Charisma 910 LI en el Listino Prezzi oficial de Concorde 2026 para Italia (PDF del fabricante, válido desde 01/07/2025), 308.450 € con IVA italiana del 22% incluida; no hay tarifa oficial para España." +
+      "no hay tarifa oficial para España." +
       "emisiones. Carnet C1 obligatorio.",
     curiosidades:
       "El Charisma lleva de serie suelo radiante en dos zonas independientes: el salón y el baño se calientan " +

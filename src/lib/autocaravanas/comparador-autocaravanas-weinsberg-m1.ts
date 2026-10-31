@@ -123,7 +123,7 @@ La red del grupo Knaus Tabbert es otro argumento silencioso: concesionarios por 
     },
     euroncap: null,
     notas:
-      "El «Maximum payload» de 241 kg es el publicado por Weinsberg para el 600 MQ, con nota al pie y definición particular de la marca en su ficha oficial; no es un cálculo. Plazas para dormir: 3 de serie (4 máx. con cama de invitada opcional). La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante: dato no oficial · en revisión. Precio: se deja sin dato porque la única tarifa oficial localizada de Weinsberg (Knaus Tabbert) es la lista de precios oficial de Weinsberg Suecia 2026, en coronas suecas (CaraBus GREY Edition [FIRE] 600 MQ: 876.200 SEK); no se ha verificado tarifa oficial en euros y no se convierte sin fuente oficial.",
+      "El «Maximum payload» de 241 kg es el publicado por Weinsberg para el 600 MQ, con nota al pie y definición particular de la marca en su ficha oficial; no es un cálculo. Plazas para dormir: 3 de serie (4 máx. con cama de invitada opcional). La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante: dato no oficial · en revisión. no se ha verificado tarifa oficial en euros y no se convierte sin fuente oficial.",
     curiosidades:
       "Hasta la tapicería lleva el apellido de la edición: la Grey Edition [FIRE] incluye de serie la tapicería especial «FUSION GREY» con el bordado [FIRE] en los respaldos, además de los gráficos exteriores específicos «EDITION [FIRE]». Fuente: ficha oficial del modelo 600 MQ en weinsberg.com (https://weinsberg.com/en-uk/camper-vans/grey-edition-fire/layout-plans/600-mq/).",
     fuenteNombre: "Weinsberg (web oficial)",

@@ -60,7 +60,7 @@ export const AUTOCARAVANAS_GIOTTILINE_M4: Autocaravana[] = [
       "lalbacaravaning.com 'PACK THERRY 2022/23'. Sin dato publicado: precio (Giottiline no publica tarifa ES), MMA, altura, peso, consumo y tracción (sin fuente oficial). " +
       "Fotos (verificación 19/10/2026): 3 fotos OFICIALES del catálogo oficial Giottiline 2019 (https://www.camperonline.it/magazine/cataloghi/2019-giottiline.pdf, " +
       "página del Therry T34): salón comedor, cama central posterior y baño. La foto exterior es real del modelo exacto (anuncio de concesionario, sin rótulos " +
-      "ni marcas de agua): el catálogo oficial solo incluye un render ilustrado del exterior, no una foto, así que se mantiene la mejor foto real disponible.  Precio: se deja sin dato porque el Therry 34 no figura en el listino oficial vigente de Giottiline (colección 2025/2026); sin tarifa oficial vigente verificable para este modelo." +
+      "ni marcas de agua): el catálogo oficial solo incluye un render ilustrado del exterior, no una foto, así que se mantiene la mejor foto real disponible.  sin tarifa oficial vigente verificable para este modelo." +
       "Anchura 232 cm tomada del diagrama de planta del catálogo oficial 2019.",
     curiosidades:
       "El T34 estrenó en la temporada 2020 una distribución inédita en la gama Therry: cama central posterior en solo 6,99 metros, con la zona de baño " +

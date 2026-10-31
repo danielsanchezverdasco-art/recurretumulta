@@ -59,7 +59,7 @@ export const AUTOCARAVANAS_FRANKIA_M4: Autocaravana[] = [
       "depósito diésel 90 L, agua limpia 150 L / residuales 130 L: exposés de " +
       "caraworld.de y alpacacamping.de de unidades del modelo. Sin precio aplicado: " +
       "Frankia no publica tarifa oficial en España. Hace falta el carnet C1 por la MMA " +
-      "de 5.000 kg. La carga útil no está publicada por la marca. Fotos: 4 oficiales  Precio: se deja sin dato porque el Titan I 840 GD no figura como tal en la Preisliste oficial vigente de Frankia localizada (2026); sin tarifa oficial vigente verificable para esta designación." +
+      "de 5.000 kg. La carga útil no está publicada por la marca. sin tarifa oficial vigente verificable para esta designación." +
       "del folleto Frankia Titan 2023.",
     curiosidades:
       "Frankia es una empresa del grupo Pilote, el gigante francés de las " +
@@ -252,7 +252,7 @@ export const AUTOCARAVANAS_FRANKIA_M4: Autocaravana[] = [
       "2022 (https://www.camperonline.it/magazine/cataloghi/2022-Frankia-Platin.pdf) " +
       "y listados de unidades nuevas 2026 de Reisemobile Dülmen en truckscout24 " +
       "(exposé de caraworld.de: masa en orden de marcha 4.753 kg, 747 kg de carga). " +
-      "precioDesde = Preisliste oficial Frankia 2026 (208.900 €, «aprox»): Frankia no publica tarifa oficial en España. " +
+      "" +
       "hace falta el carnet C1 por la MMA de 5.500 kg. La carga útil no está publicada " +
       "por la marca. Fotos: 4 oficiales del catálogo Frankia Platin 2022, incluidas  Precio: PVP de Alemania de la Preisliste oficial de Frankia 2026 (Alemania) (precios base, IVA 19% incl.), I 8400 QD Platin = 208.900 €; no hay tarifa oficial para España." +
       "dos de la sección dedicada al I 8400 QD.",

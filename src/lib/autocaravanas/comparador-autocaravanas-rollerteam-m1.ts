@@ -146,7 +146,7 @@ Para el comprador español, la vía sensata es el mercado de ocasión británico
     },
     euroncap: null,
     notas:
-      "La marca no publica la carga útil del modelo: se muestran la MMA (3.500 kg) y la masa en orden de marcha (2.935 kg), ambas oficiales, sin calcular. La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante: dato no oficial · en revisión. Precio: se deja sin dato porque no se ha podido verificar una tarifa oficial abierta de Roller Team para estos modelos (la marca no expone PVP por modelo en su web oficial); sin PVP oficial verificable.",
+      "La marca no publica la carga útil del modelo: se muestran la MMA (3.500 kg) y la masa en orden de marcha (2.935 kg), ambas oficiales, sin calcular. La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante: dato no oficial · en revisión. sin PVP oficial verificable.",
     fuenteNombre: "Roller Team (web oficial UK, PDF especificaciones 2026)",
     fuenteUrl:
       "https://www.rollerteammotorhomes.co.uk/wp-content/uploads/sites/4/2025/06/auto-roller-tech-spec-tables-2026.pdf",

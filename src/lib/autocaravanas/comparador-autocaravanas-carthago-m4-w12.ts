@@ -59,7 +59,7 @@ export const AUTOCARAVANAS_CARTHAGO_M4: Autocaravana[] = [
       "(carthago.com, verificadas 19/10/2026): freisteller exterior del liner-for-two I 53 L " +
       "sobre Iveco Daily, exterior real (Flugplatz), salón con TV y zona de descanso con TV. " +
       "El 19/10/2026 se sustituyeron la cama abatible del concesionario niesmann.de, el " +
-      "freisteller Fiat I 53 de la imagen principal y la foto de detalle por imágenes  Precio: se deja sin dato porque Carthago solo ofrece el precio base por modelo en su configurador en línea (su lista de precios oficial en PDF no lo expone como tarifa consultable por modelo); sin PVP abierto verificable." +
+      "sin PVP abierto verificable." +
       "oficiales del modelo.",
     curiosidades:
       "El I 53 L no usa la omnipresente Fiat Ducato: monta un Iveco Daily 3.0 de 207 CV con cambio " +

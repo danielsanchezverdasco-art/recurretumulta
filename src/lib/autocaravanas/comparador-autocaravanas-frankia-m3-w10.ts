@@ -60,7 +60,7 @@ export const AUTOCARAVANAS_FRANKIA_M3: Autocaravana[] = [
       "catálogo oficial vigente de la gama F-Line (los layouts de 7 m son I 680, I 680 SG y I 680 PLUS, " +
       "según el catálogo 'F-Line Experience'); se sustituye por el I 680 SG. La potencia por layout no " +
       "la publica Frankia (la gama F-Line monta Fiat Ducato 2.2 de 140/180 CV); la carga útil de 1.110 kg " +
-      "procede de la ficha del expositor, no de la marca, y queda sin dato. Sin tarifa oficial para España:  Precio: se deja sin dato porque la designación I 680 SG no figura en la Preisliste oficial vigente de Frankia (2026: la gama F-Line 680 se ofrece como I 680 PLUS); sin tarifa oficial vigente verificable para esta designación." +
+      "sin tarifa oficial vigente verificable para esta designación." +
       "sin precio oficial publicado. Carnet C1 obligatorio (4.500 kg).",
     curiosidades:
       "Frankia ofrece 11 años de garantía contra la entrada de agua gracias a su construcción Thermo Guard Plus (fuente: prueba del Frankia Together I 740 Plus en Out & About Live, https://www.outandaboutlive.co.uk/motorhomes/reviews/frankia-together-i-740-plus-motorhome). " +

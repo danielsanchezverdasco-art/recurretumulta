@@ -54,7 +54,7 @@ export const AUTOCARAVANAS_KNAUS_M4: Autocaravana[] = [
     emisionesCo2: null,
     aprox: [],
     notas:
-      "Procedencia de los datos: 5.986 x 2.040 x 3.200 mm, MMA 3.500 kg, base MAN TGE 35, motor 2.0 TDI  Precio: se deja sin dato porque el BoxDrive (MAN TGE) está descatalogado y no consta Grundpreis EUR en la lista oficial vigente de Knaus (sustituido); la única referencia oficial localizada es el configurador Knaus UK en GBP, no convertible a tarifa EUR." +
+      "la única referencia oficial localizada es el configurador Knaus UK en GBP, no convertible a tarifa EUR." +
       "de 120 kW/163 CV (opcional 130 kW/177 CV), cambio automático de 8 velocidades, 4 plazas de viaje " +
       "y 4 de noche según fichas de catálogo de la red de distribución (AlpaCamping, TruckScout24, " +
       "Caraworld) y ficha de configuración oficial del configurador de knaus.com (modelo 2025). Camas: " +

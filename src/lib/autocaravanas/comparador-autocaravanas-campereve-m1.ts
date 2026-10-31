@@ -49,7 +49,7 @@ export const AUTOCARAVANAS_CAMPEREVE_M1: Autocaravana[] = [
     emisionesCo2: null,
     aprox: ["potenciaCv", "largoMm", "anchoMm", "altoMm", "mmaKg", "plazas", "carnetNecesario"],
     notas:
-      "El fabricante no publica la ficha técnica completa del Magellan 643. Todos los datos numéricos proceden de prensa especializada y fichas de concesionarios: «dato no oficial · en revisión». Ficha excluida del primer lote publicado. Precio: se deja sin dato porque Campérêve (Groupe Rapido) no publica PVP en su web oficial (los precios se obtienen en su red de concesionarios); sin tarifa oficial abierta verificable.",
+      "El fabricante no publica la ficha técnica completa del Magellan 643. Todos los datos numéricos proceden de prensa especializada y fichas de concesionarios: «dato no oficial · en revisión». Ficha excluida del primer lote publicado. sin tarifa oficial abierta verificable.",
     curiosidades:
       "Campérêve nació en 1978 como especialista francés en furgones camper y el grupo Rapido la adquirió en 2008: es la marca «van» del grupo galo. Fuente: https://en.wikipedia.org/wiki/Rapido_Group",
     pros: [

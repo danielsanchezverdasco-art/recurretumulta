@@ -59,7 +59,7 @@ export const AUTOCARAVANAS_MALIBU_M3: Autocaravana[] = [
       "precio (Malibu no publica PVP para España; el portal alemán alpacacamping.de " +
       "sitúa el precio de partida en torno a 65.000 € en Alemania, cifra aproximada y no " +
       "oficial), peso (sin dato oficial; un anuncio cita 3.144 kg), carga útil, consumo, " +
-      "par, tracción y emisiones (la marca no los publica). Plazas para dormir: 2 de serie,  Precio: se deja sin dato porque Malibu (grupo Carthago) solo ofrece el precio base por modelo en su configurador en línea; sin PVP abierto verificable por modelo." +
+      "par, tracción y emisiones (la marca no los publica). sin PVP abierto verificable por modelo." +
       "4 con el techo elevable opcional family-for-4.",
     curiosidades:
       "El Van diversity coupé 640 LE K puede pedirse con unos característicos «ojos de buey» " +
@@ -216,7 +216,7 @@ segmento: Malibu juega en la parte alta y lo cobra.`,
       "precio (Malibu no publica PVP para España; la guía 2026 británica parte de " +
       "74.340 £, precio de otro mercado), carga útil, consumo, par, tracción y emisiones " +
       "(la marca no los publica). En la gama 2026 el modelo figura en el configurador " +
-      "oficial como «I 500 RB-QB comfort 4.2 t». Fotos: prueba de prensa de Out & About Live  Precio: se deja sin dato porque Malibu (grupo Carthago) solo ofrece el precio base por modelo en su configurador en línea; sin PVP abierto verificable por modelo." +
+      "oficial como «I 500 RB-QB comfort 4.2 t». sin PVP abierto verificable por modelo." +
       "sobre la unidad exacta (no oficiales de fábrica), sin marcas de agua ni concesionario.",
     curiosidades:
       "Malibu diseñó un garaje específico para los modelos con cama queen como el I 500 QB: " +

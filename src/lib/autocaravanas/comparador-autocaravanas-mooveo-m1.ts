@@ -107,7 +107,7 @@ En precio no hay cifra oficial posible: Mooveo no publica PVP y, al estar descat
     },
     euroncap: null,
     notas:
-      "«dato no oficial · en revisión»: potencia, medidas, MMA, plazas, carnet y tracción proceden de exposés de concesionarios del modelo exacto (Mooveo TEI-60FB, descatalogado de la gama 2026); el fabricante no los publica. La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante. Precio: se deja sin dato porque Groupe Pilote no publica tarifas/PVP en abierto en sus webs oficiales (Pilote, Bavaria, Le Voyageur, Mooveo, Font Vendôme): los precios se facilitan a través de su red de concesionarios; sin PVP oficial verificable.",
+      "«dato no oficial · en revisión»: potencia, medidas, MMA, plazas, carnet y tracción proceden de exposés de concesionarios del modelo exacto (Mooveo TEI-60FB, descatalogado de la gama 2026); el fabricante no los publica. La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante. sin PVP oficial verificable.",
     curiosidades:
       "Mooveo se relanzó con el lema «All in One»: todo el equipamiento importante viene de serie, de modo que el precio de partida puede ser el precio final, sin la lista de opcionales habitual del sector. Fuente: https://camprest.com/en/blog/motorhome-caravan-news/mooveo-enters-poland",
     fuenteNombre: "Mooveo (catálogo oficial TEI 2026) («no oficial» para el TEI-60FB: descatalogado de la gama 2026, datos de exposés de concesionarios)",

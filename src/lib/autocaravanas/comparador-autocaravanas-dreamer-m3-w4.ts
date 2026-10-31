@@ -58,9 +58,9 @@ export const AUTOCARAVANAS_DREAMER_M3: Autocaravana[] = [
       "Motor base Fiat Ducato 2.2 MultiJet 140 CV: CamperOnLine 2020 (opcionales 160/180 CV entonces). " +
       "Nevera 146 L, agua 110 L, grises 85 L, Truma Combi 4: catálogo oficial Dreamer Colección 2026. " +
       "Plazas 4 y camas 2+1: catálogo 2026 y CamperOnLine. " +
-      "Precio null: Dreamer no publica tarifa oficial en España; como contexto, la tarifa italiana 2020 partía de 55.300 € (CamperOnLine) y Vanomobil anuncia «desde 70.369 €» (distribuidor belga, 2026). " +
+      "como contexto, la tarifa italiana 2020 partía de 55.300 € (CamperOnLine) y Vanomobil anuncia «desde 70.369 €» (distribuidor belga, 2026)." +
       "Fotos: la marca no publica galería oficial del D62 Select en su web (solo el catálogo oficial, con imágenes de baja resolución); " +
-      "el exterior procede del concesionario oficial alemán (dreamer-wohnmobile.de) y los 3 interiores son fotos de prensa reales del D62 Select  Precio: se deja sin dato porque Dreamer (Groupe Rapido) no publica PVP en su web oficial (los precios se obtienen en su red de concesionarios); sin tarifa oficial abierta verificable." +
+      "sin tarifa oficial abierta verificable." +
       "de la prueba de Reisemobil International (2019), del modelo exacto, sin marcas de agua.",
     curiosidades:
       "En 2026 Dreamer celebra su 20.º aniversario y lanza la edición especial «Select 20 Jahre»: el D62 Select puede pedirse en esa versión conmemorativa, con tapicería a elegir y el logo del aniversario como firma en la carrocería (fuente: catálogo oficial Dreamer Colección 2026, https://www.reisemobile-staudt.de/wp-content/uploads/2025/08/DREAMER_CATA_2026_EXPORT_BD_ALL.pdf; y ficha Vanomobil https://ct.vanomobil.be/api/products/181/pdf/en?start=&end=).",
@@ -155,7 +155,7 @@ Para quién es: para parejas viajeras que quieren un furgón con verdadero baño
       "Según la ficha oficial: nevera de 84 L con acceso interior y exterior, calefacción Webasto diésel de 4 kW, depósitos de 110 L de limpias y 85 L de grises. " +
       "Camas gemelas atrás y dos plazas más en el techo elevable (2.000 x 1.300 mm): ficha oficial. " +
       "El distribuidor documenta el D68 UP con el Fiat Ducato 2.2 MultiJet de 103 kW/140 CV, con automática disponible. " +
-      "Precio sin dato: Dreamer no publica tarifa oficial en España.  Precio: se deja sin dato porque Dreamer (Groupe Rapido) no publica PVP en su web oficial (los precios se obtienen en su red de concesionarios); sin tarifa oficial abierta verificable." +
+      "Precio sin dato: Dreamer no publica tarifa oficial en España.  sin tarifa oficial abierta verificable." +
       "Las 4 imágenes son oficiales de dreamer-van.es (galería del modelo).",
     curiosidades:
       "El D68 UP llega con la gama Dreamer 2027: un furgón familiar de 6,36 m con camas gemelas y techo elevable de serie cuya cama doble mide 2.000 x 1.300 mm, así que cuatro personas duermen con las camas siempre hechas (fuente: web oficial https://www.dreamer-van.es/fourgon-dreamer-d68-up.php, verificada el 19/10/2026).",

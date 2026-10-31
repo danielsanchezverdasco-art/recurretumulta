@@ -62,7 +62,7 @@ export const AUTOCARAVANAS_PILOTE_M3B: Autocaravana[] = [
       "diferencial de deslizamiento limitado mecánico, llantas negras de 16'' y neumáticos de cuatro " +
       "estaciones. Sin dato publicado: precio en España (no publicado; en UK partía de £84.500 en 2024), altura total, " +
       "carga útil (485 kg según la prensa, no dato de marca), consumo y emisiones. Fotos: imágenes de " +
-      "marketing de Pilote del modelo exacto, obtenidas del anuncio verificado de una unidad 2024; se  Precio: se deja sin dato porque Groupe Pilote no publica tarifas/PVP en abierto en sus webs oficiales (Pilote, Bavaria, Le Voyageur, Mooveo, Font Vendôme): los precios se facilitan a través de su red de concesionarios; sin PVP oficial verificable." +
+      "marketing de Pilote del modelo exacto, obtenidas del anuncio verificado de una unidad 2024; sin PVP oficial verificable." +
       "marcan como no oficiales.",
     curiosidades:
       "El Atlas nació para celebrar el 60.º aniversario de Pilote en 2023 y supuso el regreso de la marca " +

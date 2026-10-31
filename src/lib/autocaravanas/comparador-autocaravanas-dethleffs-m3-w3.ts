@@ -66,7 +66,7 @@ export const AUTOCARAVANAS_DETHLEFFS_M3: Autocaravana[] = [
       "(agregador, sin valor de tarifa). Fotografías oficiales de la marca " +
       "(dethleffs.de, gama Trend): la marca no publica fotos por variante individual, " +
       "así que son imágenes de la gama; la foto del dormitorio muestra la versión con cama doble, " +
-      "mientras que el 7017 EB monta camas gemelas (Einzelbetten). Sin dato publicado: precio (sin PVP oficial), altura,  Precio: se deja sin dato porque la designación Trend I 7017 EB no figura en la Preisliste oficial vigente de Dethleffs (la gama Trend actual usa otras designaciones: I 6617 EB, I 6817 EB, I 7057…); sin tarifa oficial vigente verificable para este modelo." +
+      "mientras que el 7017 EB monta camas gemelas (Einzelbetten). sin tarifa oficial vigente verificable para este modelo." +
       "peso en vacío, consumo, par, tracción y emisiones.",
     curiosidades:
       "En los integrales de la gama Trend la cama abatible eléctrica sobre la cabina " +

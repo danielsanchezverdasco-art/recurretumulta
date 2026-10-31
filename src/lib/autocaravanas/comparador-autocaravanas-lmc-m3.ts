@@ -72,11 +72,11 @@ export const AUTOCARAVANAS_LMC_M3: Autocaravana[] = [
       "(manual o automático); camas: abatible delantera de 213x110-55, individuales " +
       "centrales de 200x88 y traseras de 185x88/200x88 según la configuración; depósitos " +
       "de 100 l de agua y 90 l de grises, batería de 95 Ah y calefacción Truma Combi de " +
-      "gas. Quedan sin dato el precio (la marca no publica PVP para España; la prensa " +
+      "gas. la prensa" +
       "alemana habla de 83.500 € de base en Alemania), la carga útil, el par, la tracción y " +
       "emisiones. La masa en orden de marcha varía entre fuentes: 3.035 kg según " +
       "camperstyle y 3.048 kg según alpacacamping. Imágenes de la prueba de prensa de " +
-      "camperstyle.de con la unidad exacta (no son fotos oficiales de fábrica), sin  Precio: se deja sin dato porque no se ha localizado lista de precios oficial abierta de LMC (Erwin Hymer Group): la marca no expone PVP por modelo en su web oficial y el precio base solo se obtiene en su configurador en línea; solo constan precios de concesionarios y portales, que no se usan como oficiales." +
+      "solo constan precios de concesionarios y portales, que no se usan como oficiales." +
       "marcas de agua ni imágenes de concesionario.",
     curiosidades:
       "El «Lift» de su denominación se toma al pie de la letra: una cama abatible " +
