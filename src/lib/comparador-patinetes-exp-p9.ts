@@ -1429,7 +1429,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot KickScooter F30",
-    precioEur: null, // modelo descatalogado; Segway ya no publica tarifa oficial (verificado 20/10/2026)
+    precioEur: null,
     potenciaNominalW: 300,
     potenciaPicoW: null,
     bateriaWh: 275,
@@ -1439,26 +1439,109 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     pesoKg: 15.1,
     cargaMaxKg: 120,
     tiempoCargaH: 5,
-    frenos: "E-ABS delantero + disco trasero",
-    neumaticos: 'Neumáticos autoreparables de 10"',
+    frenos: "Freno eléctrico regenerativo delante + disco trasero",
+    neumaticos: "Neumáticos de aire de 10\" (el F30E europeo lleva capa de gel interior)",
     certificadoDgt: null,
-    foto: "/media/patinetes/segway-ninebot-f30-1.webp",
-    galeria: [
-      {
-        src: "/media/patinetes/segway-ninebot-f30-2.webp",
-        alt: "Segway Ninebot F30 con plataforma cerrada",
-        ancho: 1200,
-        alto: 800,
-      },
+    foto: "/media/patinetes/segway-ninebot-f30-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm"
     ],
-    aprox: ["autonomiaRealKm"],
-    pros: ["Admite hasta 120 kg de carga pese a pesar solo 15,1 kg, una relación poco habitual en patinetes de 300 W", "Las ruedas de 10 pulgadas llevan capa de gel autorreparable, así que un pinchazo pequeño no te deja tirado a mitad de trayecto", "Combina freno electrónico E-ABS delante, que recupera energía al frenar, con disco trasero para detener sus 25 km/h", "La batería de 275 Wh se recarga por completo en unas 5 horas, así que queda lista entre la llegada al trabajo y la salida"],
-    contras: ["Entre el dato oficial de 30 km y el uso real hay unos 10 km de diferencia: con cerca de 20 km, los recorridos largos de ida y vuelta exigen planificar la carga", "Su pendiente máxima declarada es del 15 % y el motor es de 300 W, por lo que las rampas se le atragantan, sobre todo acercándote a los 120 kg de carga", "Carece de suspensión y todo lo que no absorban los neumáticos de 10 pulgadas llega directo a los pies en adoquines o asfalto roto", "En la ficha no consta certificado DGT verificado, un punto a comprobar antes de comprarlo si lo quieres con la documentación en regla en España"],
-    veredicto:
-      "Con 275 Wh y unos 20 km utilizables, el F30 cubre el trayecto urbano corto sin cargar cada noche, y sus 15,1 kg se agradecen si toca subirlo a un piso o meterlo en el maletero. Es para quien se mueve en llano y valora las ruedas de 10 pulgadas autorreparables; no es para quien viva en una zona de cuestas fuertes o necesite encadenar más de 20 km en el día.",
-    fuenteNombre: "Manual oficial Segway (F30/F40)",
-    fuenteUrl: "https://manuals.plus/segway/f30-ninebot-kickscooter-manual",
-    mantenimientoDIY: {"actualizacionFirmware": "Desde la app Segway-Ninebot, enlaza el F30 por Bluetooth y aplica la actualización de firmware con el patinete parado; la propia app muestra también los códigos de error cuando el patinete detecta un fallo", "trucos": ["Mantén los neumáticos de 10 pulgadas entre 40 y 45 psi, como indica el manual del F30: con la presión baja pierdes parte de los ya ajustados 20 km reales y el motor de 300 W trabaja forzado", "Aprovecha la capa de gel autorreparable para pinchazos pequeños, pero revisa la rueda después: si el objeto sigue clavado o la pérdida es grande, el sellado no sustituye a la reparación", "Carga solo entre 0 y 40 °C con su cargador de 41 V y 1,7 A, y no lo dejes semanas descargado si quieres que la batería de 275 Wh conserve su autonomía"]},
+    pros: [
+      "Motor de 300 W con 25 km/h de velocidad máxima y 15 % de pendiente, según el manual",
+      "15,1 kg según el manual de Segway",
+      "Freno eléctrico regenerativo delante y disco trasero, con IPX5 y carga en unas 5 horas",
+      "Tres modos de conducción (energía, estándar y sport) y modo caminar a 5 km/h en el F30E",
+      "Aplicación Segway-Ninebot por Bluetooth y luz delantera, luz de freno y reflectores"
+    ],
+    contras: [
+      "Sin suspensión declarada: solo amortiguan los neumáticos de 10 pulgadas",
+      "Los 30 km son un rango «típico» de la marca, no una garantía",
+      "El F30 de este manual lleva 275 Wh; el F30E vendido en Europa lleva 367 Wh y pesa 16,4 kg, así que conviene mirar la referencia exacta",
+      "No figura en el catálogo de la tienda oficial de Segway España (31/10/2026) y no tiene precio de marca",
+      "La edad mínima del manual es de 14 años, por debajo de los 15 que exige el Real Decreto 518/2026"
+    ],
+    veredicto: "El F30 es un Ninebot de 300 W y 25 km/h pensado para trayectos urbanos llanos. Si lo compras en Europa, comprueba si es el F30E, con 367 Wh y 16,4 kg, porque la batería cambia respecto del manual.",
+    fuenteNombre: "Segway: manual oficial de la serie F y web del F30E",
+    fuenteUrl: "https://support.segway.com/product_files/20230721050652_Ninebot-eKickScooter-F-Series-Product%20Manual.pdf",
+    mantenimientoDIY: {
+      "actualizacionFirmware": "Desde la app Segway-Ninebot, enlaza el F30 por Bluetooth y aplica la actualización de firmware con el patinete parado; la propia app muestra también los códigos de error cuando el patinete detecta un fallo",
+      "trucos": [
+        "Mantén los neumáticos de 10 pulgadas entre 40 y 45 psi, como indica el manual de la serie F: con la presión baja pierdes parte de la autonomía y el motor de 300 W trabaja forzado",
+        "Revisa las ruedas de aire con regularidad: el F30 del manual no menciona capa de gel (la lleva el F30E europeo), así que un pinchazo exige reparar o cambiar la cámara",
+        "Carga solo entre 0 y 40 °C con su cargador de 41 V y 1,7 A, y no lo dejes semanas descargado si quieres que la batería de 275 Wh conserve su autonomía"
+      ]
+    },
+    fuentesExtra: [
+      {
+        "nombre": "Segway: manual de la serie F (F30: 300 W, 275 Wh, 15,1 kg, 30 km, 25 km/h, IPX5, 5 h)",
+        "url": "https://support.segway.com/product_files/20230721050652_Ninebot-eKickScooter-F-Series-Product%20Manual.pdf",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "Segway Italia: ficha del F30E (versión europea: 367 Wh, 16,4 kg, 6,5 h, neumáticos con capa de gel)",
+        "url": "https://it-it.segway.com/ekickscooter/products/f30e.html",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "Segway España (tienda oficial): el F30 no figura en el catálogo",
+        "url": "https://shop.segway.com/es_es/products.html",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "segway-ninebot-f2-plus",
+        "nombre": "Segway-Ninebot F2 Plus E",
+        "precioEur": 549,
+        "autonomiaKm": 55,
+        "potenciaW": 400,
+        "pesoKg": 17.7,
+        "nota": "400 W y 55 km declarados"
+      },
+      {
+        "id": "xiaomi-electric-scooter-4-lite",
+        "nombre": "Xiaomi Electric Scooter 4 Lite (2.ª Gen)",
+        "precioEur": 299.99,
+        "autonomiaKm": 25,
+        "potenciaW": 300,
+        "pesoKg": 16.2,
+        "nota": "300 W, 16,2 kg y 25 km declarados; precio de PcComponentes"
+      },
+      {
+        "id": "cecotec-bongo-serie-a",
+        "nombre": "Cecotec Bongo Serie A",
+        "precioEur": 299,
+        "autonomiaKm": 25,
+        "potenciaW": 350,
+        "pesoKg": 13.5,
+        "nota": "350 W, 13,5 kg y 25 km declarados; precio de cecotec.es"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuánta batería tiene el F30?",
+        "a": "275 Wh (36 V, 7.650 mAh) según el manual de la serie F. El F30E europeo lleva 367 Wh (10,2 Ah), según la web de Segway Italia."
+      },
+      {
+        "q": "¿Cuánto pesa el Segway F30?",
+        "a": "15,1 kg según el manual de Segway; el F30E de la web europea indica 16,4 kg."
+      },
+      {
+        "q": "¿El F30 pincha?",
+        "a": "Lleva neumáticos de aire de 10 pulgadas, con una presión recomendada de 40 a 45 psi en el manual. El F30E añade una capa de gel interior para reducir el riesgo."
+      },
+      {
+        "q": "¿Qué edad mínima tiene?",
+        "a": "El manual de Segway indica 14 años o más. En España el Real Decreto 518/2026 exige 15 años cumplidos para circular en VMP (artículo 155.3)."
+      }
+    ]
   },
   {
     id: "segway-ninebot-e22e",
@@ -2028,7 +2111,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot F40E",
-    precioEur: null, // modelo descatalogado; Segway ya no publica tarifa oficial (verificado 20/10/2026)
+    precioEur: null,
     potenciaNominalW: 350,
     potenciaPicoW: null,
     bateriaWh: 367,
@@ -2038,26 +2121,114 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     pesoKg: 17.1,
     cargaMaxKg: 120,
     tiempoCargaH: 6.5,
-    frenos: "Tambor delantero + regenerativo trasero",
-    neumaticos: 'Neumáticos tubeless de 10"',
+    frenos: "Freno eléctrico regenerativo delante + disco trasero",
+    neumaticos: "Neumáticos de aire sin cámara de 10\" con capa de gel",
     certificadoDgt: null,
-    foto: "/media/patinetes/segway-ninebot-f40e-1.webp",
-    galeria: [
-      {
-        src: "/media/patinetes/segway-ninebot-f40e-2.webp",
-        alt: "Segway Ninebot F40E con soporte para placa",
-        ancho: 1200,
-        alto: 800,
-      },
+    foto: "/media/patinetes/segway-ninebot-f40e-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm"
     ],
-    aprox: ["autonomiaRealKm"],
-    pros: ["367 Wh y unos 27 km reales por carga: cubre la ida y la vuelta urbana sin buscar un enchufe a mitad de jornada", "Neumáticos tubeless de 10 pulgadas con capa de gel interna, que sella pinchazos pequeños y da más aplomo que una rueda de menor diámetro", "Freno electrónico delantero y disco trasero según Segway, con reflectores E-MARK, faro LED de 2,1 W y luz de freno", "Soporte para placa de seguro de serie en esta versión E, con IPX5 y carga máxima de 120 kg pese a pesar solo 17,1 kg"],
-    contras: ["Sin suspensión de ningún tipo: en adoquines, baches y juntas de dilatación todo el golpe llega a las ruedas y a las muñecas", "350 W nominales y pendiente máxima del 20 %: con un conductor pesado o rampas largas y sostenidas se queda justo", "Los 40 km anunciados se quedan en unos 27 km reales, así que un uso diario de más de 20 km obliga a cargar en destino", "Sin intermitentes integrados ni control de crucero y sin certificado DGT verificado en la ficha, un escalón por debajo de un F2 Pro E posterior"],
-    veredicto:
-      "Con 367 Wh, unos 27 km reales y 17,1 kg, el F40E es el tope de la serie F de 2021 pensado para trayectos urbanos cortos y medios a 25 km/h sin complicarse. Encaja si buscas ruedas de 10 pulgadas con gel antipinchazos, doble freno y soporte para placa de seguro, y aceptas una recarga de 6,5 horas tras una jornada larga. No encaja si necesitas suspensión, intermitentes integrados o autonomía para olvidarte del cargador durante varios días.",
-    fuenteNombre: "Manual oficial Segway Ninebot F40E (Manuals.plus)",
-    fuenteUrl: "https://manuals.plus/m/3f89266b8eb24bcc73bc0dead2a0a97751eb93adf38e98f4b1d43ae72c2cb8e6.pdf",
-    mantenimientoDIY: {"actualizacionFirmware": "Desde la app Segway-Ninebot por Bluetooth: conecta el F40E, busca la actualización de firmware en la app y no lo uses mientras se instala; la pantalla a color también avisa de mantenimiento y la app muestra los códigos de error.", "trucos": ["Mantén las tubeless de 10 pulgadas entre 50 y 55 psi, la presión indicada en el manual del F40E, y vuelve a roscar el tapón de la válvula tras hincharlas: por debajo de ese rango se resienten el consumo y los 27 km reales.", "La capa de gel interna sella pinchazos pequeños, pero no sustituye la inspección: gira ambas ruedas y busca cortes, deformación o desgaste acusado antes de que deje de sellar.", "Después de rodar con lluvia, pese al IPX5, seca el disco trasero y comprueba que la luz de freno responde al accionar la maneta, porque ese disco complementa al freno electrónico delantero."]},
+    pros: [
+      "Motor de 350 W, 20 % de pendiente y 25 km/h, según la web oficial",
+      "Batería de 367 Wh con 40 km declarados y carga en 6,5 horas",
+      "Neumáticos sin cámara de 10\" con capa de gel interior para reducir el riesgo de pinchazo",
+      "Frenado con freno eléctrico regenerativo delante y disco trasero",
+      "Marco de acero estructural, plegado en dos pasos con una mano y pantalla LED con Bluetooth"
+    ],
+    contras: [
+      "Sin suspensión declarada: solo amortiguan los neumáticos",
+      "El peso de 17,1 kg procede de una presentación de la serie alojada fuera de segway.com (dato orientativo, no oficial)",
+      "No figura en el catálogo de la tienda oficial de Segway España (31/10/2026) y no tiene precio de marca",
+      "El rango de 40 km depende de la carga, la pendiente y el modo; nuestra cifra real es una estimación",
+      "La carga completa tarda 6,5 horas"
+    ],
+    veredicto: "El F40E es el F de más batería de la gama europea: 350 W, 367 Wh y 40 km declarados. Es una opción sencilla para trayectos urbanos, pero no figura ya en la tienda oficial española y su peso procede de un dato no oficial.",
+    fuenteNombre: "Segway: web oficial del Ninebot F40E",
+    fuenteUrl: "https://eg-en.segway.com/ekickscooter/products/f40e.html",
+    mantenimientoDIY: {
+      "actualizacionFirmware": "Desde la app Segway-Ninebot por Bluetooth: conecta el F40E, busca la actualización de firmware en la app y no lo uses mientras se instala; la pantalla a color también avisa de mantenimiento y la app muestra los códigos de error.",
+      "trucos": [
+        "Mantén las ruedas de 10 pulgadas entre 40 y 45 psi, el rango del manual de la serie F, y vuelve a roscar el tapón de la válvula tras hincharlas: con menos presión se resiente el consumo.",
+        "La capa de gel interna sella pinchazos pequeños, pero no sustituye la inspección: gira ambas ruedas y busca cortes, deformación o desgaste acusado antes de que deje de sellar.",
+        "Después de rodar con lluvia, pese al IPX5, seca el disco trasero y comprueba que la luz de freno responde al accionar la maneta, porque ese disco complementa al freno electrónico delantero."
+      ]
+    },
+    fuentesExtra: [
+      {
+        "nombre": "Segway: ficha oficial del F40E (350 W, 367 Wh, 40 km, 25 km/h, 20 %, 6,5 h, neumáticos de 10\" con capa de gel)",
+        "url": "https://eg-en.segway.com/ekickscooter/products/f40e.html",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "Segway: manual de la serie F (IPX5, edad mínima, carga máxima)",
+        "url": "https://support.segway.com/product_files/20230721050652_Ninebot-eKickScooter-F-Series-Product%20Manual.pdf",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "Dato orientativo, no oficial: puede contener errores. Presentación de la serie F E-Version (17,1 kg, CE EN17128), alojada en campaignme.com",
+        "url": "https://campaignme.com/wp-content/uploads/2022/03/F25E-F30E-F40E_E-VERSION_Product-Introduction-Copy.pdf",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "Segway España (tienda oficial): el F40E no figura en el catálogo",
+        "url": "https://shop.segway.com/es_es/products.html",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "segway-ninebot-f3",
+        "nombre": "Segway Ninebot F3",
+        "precioEur": 549,
+        "autonomiaKm": 70,
+        "potenciaW": 450,
+        "pesoKg": 19,
+        "nota": "450 W y 70 km declarados; precio de PcComponentes"
+      },
+      {
+        "id": "navee-v50",
+        "nombre": "NAVEE V50",
+        "precioEur": 549,
+        "autonomiaKm": 50,
+        "potenciaW": 350,
+        "pesoKg": 17,
+        "nota": "350 W, 17 kg y 50 km declarados; precio de un distribuidor"
+      },
+      {
+        "id": "xiaomi-electric-scooter-5-pro",
+        "nombre": "Xiaomi Electric Scooter 5 Pro",
+        "precioEur": 400,
+        "autonomiaKm": 60,
+        "potenciaW": 400,
+        "pesoKg": 22.4,
+        "nota": "400 W, 22,4 kg y 60 km declarados"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuántos km hace el F40E?",
+        "a": "Segway declara hasta 40 km con la batería de 367 Wh. Es un rango máximo en condiciones ideales; en uso real será menor."
+      },
+      {
+        "q": "¿Lleva suspensión?",
+        "a": "No. La web oficial destaca los neumáticos de 10 pulgadas con capa de gel y el marco de acero, pero no menciona amortiguadores."
+      },
+      {
+        "q": "¿Cuánto tarda en cargarse?",
+        "a": "6,5 horas, según la web oficial de Segway."
+      },
+      {
+        "q": "¿Se vende en la tienda oficial de Segway España?",
+        "a": "No figura en su catálogo consultado el 31/10/2026. Puede encontrarse en algunos comercios, con precio no oficial."
+      }
+    ]
   },
   {
     id: "smartgyro-dual-max-2",
@@ -2115,36 +2286,120 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot E25E",
-    precioEur: null, // modelo descatalogado; Segway ya no publica tarifa oficial (verificado 20/10/2026)
+    precioEur: null,
     potenciaNominalW: 300,
-    potenciaPicoW: null,
+    potenciaPicoW: 600,
     bateriaWh: 215,
     autonomiaKm: 25,
     autonomiaRealKm: 18,
     velocidadMaxKmh: 25,
-    pesoKg: 14.4,
+    pesoKg: 14.3,
     cargaMaxKg: 100,
     tiempoCargaH: 4,
-    frenos: "Eléctrico delantero + mecánico trasero",
-    neumaticos: 'Neumáticos macizos de 9"',
+    frenos: "Freno eléctrico y regenerativo delante, freno de pie y magnético detrás",
+    neumaticos: "Neumáticos antipinchazos de 9\" (doble densidad)",
     certificadoDgt: null,
-    foto: "/media/patinetes/segway-ninebot-e25e-1.webp",
-    galeria: [
-      {
-        src: "/media/patinetes/segway-ninebot-e25e-2.webp",
-        alt: "Segway Ninebot E25E con luz ambiental",
-        ancho: 1200,
-        alto: 800,
-      },
+    foto: "/media/patinetes/segway-ninebot-e25e-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm"
     ],
-    aprox: ["autonomiaRealKm"],
-    pros: ["Llega a los 25 km/h con el motor delantero de 300 W, el escalón que le falta a su hermano E22E de 20 km/h, sin saltar a un chasis más pesado: se queda en 14,4 kg", "Es el modelo de la serie E pensado para crecer: con la batería externa específica NEB1002-U1 atornillada al mástil pasa de 25 a 45 km declarados y la pendiente máxima sube del 15 % al 20 %", "Combina amortiguador delantero, triple frenada —electrónica y regenerativa delante, magnética y de pie detrás— y luz ambiental personalizable bajo la base, un paquete que el E22E no reúne", "Las ruedas de 9 pulgadas de doble densidad rellenas de espuma eliminan los pinchazos y la recarga completa de los 215 Wh tarda 4 horas, así que no hay presión que vigilar entre semana"],
-    contras: ["Los 215 Wh se traducen en unos 18 km reales según la ficha: una ida de más de 9 km ya te obliga a cargar en destino o a pagar la batería externa aparte", "En la ficha no consta certificado DGT verificado: como VMP anterior a 2024 sin ese certificado, su circulación en España tiene fecha límite el 22 de enero de 2027", "Aunque lleva amortiguador delantero, las ruedas macizas de 9 pulgadas transmiten adoquines, rejillas y juntas de dilatación mucho más que una neumática de 10 pulgadas", "La carga máxima es de solo 100 kg y, sin la segunda batería, la pendiente se queda en el 15 %: con un conductor pesado o equipaje, las rampas largas recortan velocidad y autonomía antes que en un F40E"],
-    veredicto:
-      "Con 300 W nominales, 215 Wh en el mástil y unos 18 km reales frente a los 25 km declarados, el E25E es un patinete de trayecto corto que sí llega a 25 km/h y solo pesa 14,4 kg. Encaja si tu recorrido diario es llano, cabe en esa autonomía y valoras poder ampliarlo después a 45 km con la batería externa; no encaja si necesitas ida y vuelta larga sin recargar, ruedas neumáticas o un certificado DGT verificado para más allá de enero de 2027.",
-    fuenteNombre: "Manual oficial Ninebot E25E (Manuals.plus)",
-    fuenteUrl: "https://manuals.plus/ninebot/kickscooter-e22e25e45-manual",
-    mantenimientoDIY: {"actualizacionFirmware": "Desde la app Segway-Ninebot, con el E25E encendido y enlazado por Bluetooth, entra en la ficha del vehículo y aplica las actualizaciones OTA que ofrezca; no lo pliegues ni lo apagues durante el proceso y comprueba después en la misma app los códigos de error y el estado de la batería de 215 Wh.", "trucos": ["Usa solo la batería externa NEB1002-U1, la específica de la serie E25: la NEB1002-H1 es de las series ES y E22 y no es la suya. Al montarla sobre el mástil la autonomía declarada pasa a 45 km y la pendiente al 20 %, pero la velocidad del E25E se mantiene en 25 km/h.", "Revisa el desgaste de las ruedas macizas de 9 pulgadas por zonas planas o brillos desiguales y limpia la espuma y la suciedad del amortiguador delantero: sin cámara de aire no hay pinchazo, pero una rueda deformada se nota en vibraciones constantes al manillar.", "Guárdalo plegado con la batería del mástil a media carga si va a estar parado semanas y recárgalo antes de volver a usarlo; dejar los 215 Wh a cero durante mucho tiempo es la forma más rápida de que esos 18 km reales se queden en bastante menos."]},
+    pros: [
+      "25 km/h con motor delantero de 300 W (600 W máx.) y 15 % de pendiente",
+      "14,3 kg según Segway Italia",
+      "Neumáticos de 9\" antipinchazos de doble densidad, sin mantenimiento",
+      "Tres frenos: eléctrico y regenerativo delante, magnético y de pie detrás",
+      "Control de crucero, luces ambientales personalizables y luz delantera de 2,5 W",
+      "Se puede ampliar a 45 km con una batería externa opcional (20 % de pendiente)"
+    ],
+    contras: [
+      "215 Wh: 25 km declarados y sin batería externa, que se vende aparte",
+      "IPX4: solo resiste salpicaduras, según la propia web",
+      "Carga máxima de 100 kg y sin intermitentes",
+      "La edad mínima de la ficha de Segway Italia es de 16 años, por encima de los 15 que exige el Real Decreto 518/2026 en España",
+      "No figura en el catálogo de la tienda oficial de Segway España (31/10/2026)"
+    ],
+    veredicto: "El E25E es un patinete ligero y de 25 km/h para trayectos cortos, con ruedas sin pinchazos y batería ampliable. Su batería de 215 Wh limita el rango a unos 25 km y ya no figura en la tienda oficial de Segway España.",
+    fuenteNombre: "Segway Italia: web oficial del Ninebot E25E",
+    fuenteUrl: "https://it-it.segway.com/ekickscooter/products/e25e.html",
+    mantenimientoDIY: {
+      "actualizacionFirmware": "Desde la app Segway-Ninebot, con el E25E encendido y enlazado por Bluetooth, entra en la ficha del vehículo y aplica las actualizaciones OTA que ofrezca; no lo pliegues ni lo apagues durante el proceso y comprueba después en la misma app los códigos de error y el estado de la batería de 215 Wh.",
+      "trucos": [
+        "Usa solo la batería externa NEB1002-U1, la específica de la serie E25: la NEB1002-H1 es de las series ES y E22 y no es la suya. Al montarla sobre el mástil la autonomía declarada pasa a 45 km y la pendiente al 20 %, pero la velocidad del E25E se mantiene en 25 km/h.",
+        "Revisa el desgaste de las ruedas macizas de 9 pulgadas por zonas planas o brillos desiguales y limpia la espuma y la suciedad del amortiguador delantero: sin cámara de aire no hay pinchazo, pero una rueda deformada se nota en vibraciones constantes al manillar.",
+        "Guárdalo plegado con la batería del mástil a media carga si va a estar parado semanas y recárgalo antes de volver a usarlo; dejar los 215 Wh a cero durante mucho tiempo es la forma más rápida de que esos 18 km reales se queden en bastante menos."
+      ]
+    },
+    fuentesExtra: [
+      {
+        "nombre": "Segway Italia: ficha del E25E (300 W, 600 W máx., 215 Wh, 14,3 kg, 25 km, IPX4, 4 h, 3 frenos)",
+        "url": "https://it-it.segway.com/ekickscooter/products/e25e.html",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "Segway Egipto (web oficial en inglés): E25E con 9\" sin pinchazos, modos y batería externa opcional",
+        "url": "https://eg-en.segway.com/ekickscooter/products/e25e.html",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "Segway España (tienda oficial): el E25E no figura en el catálogo",
+        "url": "https://shop.segway.com/es_es/products.html",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "segway-ninebot-e2-ii",
+        "nombre": "Segway Ninebot E2 II",
+        "precioEur": null,
+        "autonomiaKm": 25,
+        "potenciaW": 250,
+        "pesoKg": 16.2,
+        "nota": "250 W, 16,2 kg y 25 km declarados"
+      },
+      {
+        "id": "xiaomi-electric-scooter-4-lite",
+        "nombre": "Xiaomi Electric Scooter 4 Lite (2.ª Gen)",
+        "precioEur": 299.99,
+        "autonomiaKm": 25,
+        "potenciaW": 300,
+        "pesoKg": 16.2,
+        "nota": "300 W, 16,2 kg y 25 km declarados; precio de PcComponentes"
+      },
+      {
+        "id": "cecotec-bongo-serie-a",
+        "nombre": "Cecotec Bongo Serie A",
+        "precioEur": 299,
+        "autonomiaKm": 25,
+        "potenciaW": 350,
+        "pesoKg": 13.5,
+        "nota": "350 W, 13,5 kg y 25 km declarados; precio de cecotec.es"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuánto pesa el Segway E25E?",
+        "a": "14,3 kg según la ficha de Segway Italia. Nuestra ficha anterior recogía 14,4 kg."
+      },
+      {
+        "q": "¿Se puede ampliar la batería?",
+        "a": "Sí: Segway indica 45 km con una batería externa opcional (sin ella son 25 km), y la pendiente máxima sube del 15 % al 20 %."
+      },
+      {
+        "q": "¿Se pincha?",
+        "a": "No: sus neumáticos de 9 pulgadas son de doble densidad y antipinchazos, sin mantenimiento."
+      },
+      {
+        "q": "¿Qué edad mínima tiene?",
+        "a": "Segway Italia indica 16 años o más. El Real Decreto 518/2026 exige en España 15 años cumplidos para circular en VMP (artículo 155.3)."
+      }
+    ]
   },
   {
     id: "okai-neon",

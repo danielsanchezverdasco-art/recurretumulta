@@ -62,37 +62,110 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Xiaomi",
     modelo: "Electric Scooter 4",
-    precioEur: null, // Xiaomi ya no lo vende en su tienda oficial; sin PVP oficial vigente (verificado 20/10/2026)
+    precioEur: null,
     potenciaNominalW: 300,
     potenciaPicoW: 600,
     autonomiaKm: 35,
     autonomiaRealKm: 25,
     velocidadMaxKmh: 25,
-    pesoKg: 17.2,
+    pesoKg: 15,
     cargaMaxKg: 110,
     tiempoCargaH: 5,
     bateriaWh: 275,
-    frenos: "E-ABS delantero + disco trasero",
-    neumaticos: '10" con cámara',
+    frenos: "E-ABS delantero + freno de disco trasero de doble pastilla",
+    neumaticos: "Neumáticos sin cámara (tubeless) de 10\"",
     certificadoDgt: true,
-    foto: "/media/patinetes/xiaomi-electric-scooter-4.webp",
-    aprox: ["autonomiaRealKm"],
+    foto: "/media/patinetes/xiaomi-electric-scooter-4-oficial.webp",
+    aprox: [
+      "autonomiaRealKm"
+    ],
     pros: [
-      "Carga en unas 5 horas: de los más rápidos de la gama Xiaomi",
-      "17,2 kg: más ligero y manejable que el Scooter 5",
-      "Se encuentra en oferta con frecuencia por menos de 300 €",
-      "Doble freno con KERS y modos de conducción (peatón/estándar/deportivo)",
+      "Neumáticos sin cámara de 10 pulgadas, que evitan el pinchazo por cámara y amortiguan algo más que los de 8,5\"",
+      "Freno electrónico E-ABS delante y disco trasero de doble pastilla",
+      "Se carga en unas 5 horas con el adaptador de 70 W",
+      "Tres modos de conducción: peatón (6 km/h), D (20 km/h) y S (25 km/h)",
+      "Soporta hasta 110 kg y declara una pendiente máxima del 16 %"
     ],
     contras: [
-      "Sin precio oficial vigente: Xiaomi ya no lo vende en su tienda oficial",
-      "35 km de autonomía: justo para ir y volver del trabajo",
-      "Neumáticos con cámara: más propensos a pinchazos que los tubeless",
-      "Motor de 300 W nominales: sufre en cuestas pronunciadas",
+      "Xiaomi España declara aprox. 35 km solo con una actualización OTA; la página principal indica 30 km",
+      "Sin precio oficial vigente: lo dejamos sin PVP porque no lo hemos podido confirmar",
+      "La web de España dice 15 kg e IP55 y la web global 17,2 kg e IP54: conviene confirmarlo al comprar",
+      "Xiaomi recomienda de 16 a 50 años y de 120 a 200 cm de estatura; con el RD 518/2026 la edad mínima legal es de 15",
+      "Sin intermitentes ni suspensión"
     ],
-    veredicto:
-      "El más barato de Xiaomi para ciudad: si tus trayectos son cortos y lo quieres ligero, es la compra racional. Para más autonomía, mira el Scooter 5.",
-    fuenteNombre: "Ficha técnica oficial Xiaomi",
-    fuenteUrl: "https://www.mi.com/es/product/xiaomi-electric-scooter-4/",
+    veredicto: "El Electric Scooter 4 es un patinete sencillo de Xiaomi: 300 W, 25 km/h, 275 Wh y ruedas de 10\" sin cámara. Los datos de peso y protección de Xiaomi no coinciden entre su web de España y la global, así que verifícalos en la caja antes de comprar.",
+    fuenteNombre: "Xiaomi España (mi.com): página y especificaciones del Electric Scooter 4",
+    fuenteUrl: "https://www.mi.com/es/product/xiaomi-electric-scooter-4/specs/",
+    fuentesExtra: [
+      {
+        "nombre": "Xiaomi España: especificaciones del Electric Scooter 4 (15 kg, IP55, neumático sin cámara de 10\", 7.650 mAh / 275,4 Wh, carga de unas 5 horas, 110 kg)",
+        "url": "https://www.mi.com/es/product/xiaomi-electric-scooter-4/specs/",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "Xiaomi España: página de producto (300 W nominales, 600 W de pico, pendiente máxima del 16 %)",
+        "url": "https://www.mi.com/es/product/xiaomi-electric-scooter-4/",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "Xiaomi (web global): el mismo modelo figura con 17,2 kg e IP54, distinto de la web de España",
+        "url": "https://www.mi.com/global/product/xiaomi-electric-scooter-4/",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "xiaomi-electric-scooter-4-lite",
+        "nombre": "Xiaomi Electric Scooter 4 Lite (2.ª Gen)",
+        "precioEur": 299.99,
+        "autonomiaKm": 25,
+        "potenciaW": 300,
+        "pesoKg": 16.2,
+        "nota": "300 W y 16,2 kg; precio de un comercio, no oficial"
+      },
+      {
+        "id": "xiaomi-electric-scooter-5",
+        "nombre": "Xiaomi Electric Scooter 5",
+        "precioEur": 399.99,
+        "autonomiaKm": 60,
+        "potenciaW": 350,
+        "pesoKg": 20.1,
+        "nota": "350 W y 477 Wh frente a los 275 Wh del 4"
+      },
+      {
+        "id": "segway-ninebot-max-g2",
+        "nombre": "Segway-Ninebot Max G2 E",
+        "precioEur": 399,
+        "autonomiaKm": 70,
+        "potenciaW": 450,
+        "pesoKg": 24.3,
+        "nota": "450 W y 551 Wh; precio de la ficha de Segway"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuántos km hace el Xiaomi Electric Scooter 4?",
+        "a": "Xiaomi España indica aprox. 35 km en su página de especificaciones, tras una actualización OTA; en la página principal figuran 30 km. Es una cifra de laboratorio, no un recorrido real."
+      },
+      {
+        "q": "¿Lleva neumáticos con cámara?",
+        "a": "No: según Xiaomi España son neumáticos sin cámara de 10 pulgadas. Una versión anterior de esta ficha decía lo contrario y estaba equivocada."
+      },
+      {
+        "q": "¿Cuánto pesa y qué protección tiene?",
+        "a": "La web de Xiaomi España indica 15 kg e IP55; la web global lista 17,2 kg e IP54. Es un dato oficial pero contradictorio: confírmalo en la caja."
+      },
+      {
+        "q": "¿Necesito casco con este patinete?",
+        "a": "Casco homologado o certificado y abrochado (artículo 118.3 del Reglamento General de Circulación) y 15 años cumplidos (artículo 155.3), según el Real Decreto 518/2026 en vigor desde el 1 de octubre de 2026. Está prohibido circular por aceras (artículo 152.1)."
+      }
+    ]
   },
   {
     id: "xiaomi-electric-scooter-4-pro",
@@ -100,7 +173,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Xiaomi",
     modelo: "Electric Scooter 4 Pro",
-    precioEur: 799,
+    precioEur: null,
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 55,
@@ -110,40 +183,115 @@ export const PATINETES_BASE: PatineteComparador[] = [
     cargaMaxKg: 120,
     tiempoCargaH: 8.5,
     bateriaWh: 446,
-    frenos: "E-ABS delantero + disco trasero de doble pastilla",
-    neumaticos: '10"',
+    frenos: "E-ABS delantero + freno de disco trasero de 130 mm",
+    neumaticos: "Neumáticos sin cámara autosellantes DuraGel de 10\"",
     certificadoDgt: true,
-    foto: "/media/patinetes/xiaomi-electric-scooter-4-pro.webp",
+    foto: "/media/patinetes/xiaomi-electric-scooter-4-pro-oficial.webp",
     galeria: [
       {
-        src: "/media/fotos-reales/xiaomi-electric-scooter-4-pro/xiaomi-electric-scooter-4-pro-real-2.webp",
-        alt: "Xiaomi Electric Scooter 4 Pro en ciudad con conductor (foto oficial)",
-        ancho: 1200,
-        alto: 584,
+        "src": "/media/fotos-reales/xiaomi-electric-scooter-4-pro/xiaomi-electric-scooter-4-pro-real-2.webp",
+        "alt": "Xiaomi Electric Scooter 4 Pro en ciudad con conductor (foto oficial)",
+        "ancho": 1200,
+        "alto": 584
       },
       {
-        src: "/media/patinetes/xiaomi-electric-scooter-4-pro-3.webp",
-        alt: "Comparativa de dimensiones del Xiaomi Electric Scooter 4 Pro (foto oficial)",
-        ancho: 1200,
-        alto: 953,
-      },
+        "src": "/media/patinetes/xiaomi-electric-scooter-4-pro-3.webp",
+        "alt": "Comparativa de dimensiones del Xiaomi Electric Scooter 4 Pro (foto oficial)",
+        "ancho": 1200,
+        "alto": 953
+      }
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: [
+      "autonomiaRealKm",
+      "tiempoCargaH"
+    ],
     pros: [
-      "17 kg con 55 km de autonomía: la mejor relación peso/autonomía de Xiaomi",
-      "Sube pendientes del 20 %: el más capaz de la gama en cuestas",
-      "Freno de disco trasero de doble pastilla: frenada más potente",
-      "Protección IPX5: resiste la lluvia sin dramas",
+      "Batería de 446 Wh (12.400 mAh) con 17 kg de peso declarado",
+      "Motor de 350 W nominales y 700 W de pico, con pendiente máxima declarada del 20 %",
+      "Neumáticos de 10\" sin cámara y autosellantes DuraGel",
+      "Freno de disco trasero de 130 mm más E-ABS delantero y recuperación KERS",
+      "Soporta hasta 120 kg"
     ],
     contras: [
-      "799 € de PVP: entra en territorio Segway Max G2, más equipado",
-      "8-9 horas de carga: el más lento de cargar de la familia",
-      "A ese precio ya compite con patinetes de doble suspensión",
+      "Protección IPX4 según Xiaomi España: resiste salpicaduras, no está pensado para lluvia fuerte",
+      "Carga lenta: de 8 a 9 horas según Xiaomi",
+      "Los 55 km de Xiaomi dependen de una actualización OTA, y otro texto de la misma página dice 45 km",
+      "Sin precio oficial vigente confirmado: no mostramos PVP",
+      "Xiaomi recomienda de 16 a 50 años; con el RD 518/2026 la edad mínima legal es de 15"
     ],
-    veredicto:
-      "El Xiaomi más serio: ligero, potente en cuestas y con buena autonomía. Pero a 799 € el Segway Max G2 le planta cara con intermitentes y más batería.",
-    fuenteNombre: "Xiaomi España (mi.com)",
-    fuenteUrl: "https://www.mi.com/es/product/xiaomi-electric-scooter-4-pro/",
+    veredicto: "El 4 Pro es el Xiaomi de esta generación con más batería: 446 Wh, 350 W y neumáticos autosellantes de 10\". Frente a la ficha anterior, la protección real es IPX4 (no IPX5) y la autonomía de 55 km depende de una actualización de firmware.",
+    fuenteNombre: "Xiaomi España (mi.com): página y especificaciones del Electric Scooter 4 Pro",
+    fuenteUrl: "https://www.mi.com/es/product/xiaomi-electric-scooter-4-pro/specs/",
+    fuentesExtra: [
+      {
+        "nombre": "Xiaomi España: especificaciones del Electric Scooter 4 Pro (17 kg, 120 kg de carga, IPX4, 12.400 mAh / 446 Wh, carga de 8 a 9 horas)",
+        "url": "https://www.mi.com/es/product/xiaomi-electric-scooter-4-pro/specs/",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "Xiaomi España: página de producto (350 W nominales, 700 W de pico, 25 km/h, pendiente del 20 %, neumáticos DuraGel)",
+        "url": "https://www.mi.com/es/product/xiaomi-electric-scooter-4-pro/",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "Xiaomi (web global): página del mismo modelo",
+        "url": "https://www.mi.com/global/product/xiaomi-electric-scooter-4-pro/",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "xiaomi-electric-scooter-5",
+        "nombre": "Xiaomi Electric Scooter 5",
+        "precioEur": 399.99,
+        "autonomiaKm": 60,
+        "potenciaW": 350,
+        "pesoKg": 20.1,
+        "nota": "350 W y 477 Wh; 20,1 kg"
+      },
+      {
+        "id": "xiaomi-electric-scooter-5-pro",
+        "nombre": "Xiaomi Electric Scooter 5 Pro",
+        "precioEur": 400,
+        "autonomiaKm": 60,
+        "potenciaW": 400,
+        "pesoKg": 22.4,
+        "nota": "400 W y 477 Wh; precio de un comercio"
+      },
+      {
+        "id": "segway-ninebot-max-g2",
+        "nombre": "Segway-Ninebot Max G2 E",
+        "precioEur": 399,
+        "autonomiaKm": 70,
+        "potenciaW": 450,
+        "pesoKg": 24.3,
+        "nota": "450 W y 551 Wh; precio de la ficha de Segway"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuántos km hace el Xiaomi 4 Pro?",
+        "a": "Xiaomi España declara aprox. 55 km tras una actualización OTA; en otro texto de la misma página habla de 45 km. Son datos de prueba con 75 kg y a 15 km/h; el recorrido real será menor."
+      },
+      {
+        "q": "¿Es resistente al agua?",
+        "a": "Xiaomi España le da IPX4 (salpicaduras). Una versión anterior de esta ficha decía IPX5 y no lo respalda la web oficial."
+      },
+      {
+        "q": "¿Cuánto tarda en cargarse?",
+        "a": "De 8 a 9 horas según las especificaciones de Xiaomi España."
+      },
+      {
+        "q": "¿Necesito casco con este patinete?",
+        "a": "Casco homologado o certificado y abrochado (artículo 118.3 del Reglamento General de Circulación) y 15 años cumplidos (artículo 155.3), según el Real Decreto 518/2026 en vigor desde el 1 de octubre de 2026. Está prohibido circular por aceras (artículo 152.1)."
+      }
+    ]
   },
   {
     id: "segway-ninebot-max-g2",

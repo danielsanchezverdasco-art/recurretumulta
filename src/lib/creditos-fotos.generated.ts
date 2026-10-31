@@ -1889,5 +1889,35 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "Vsett (foto de producto oficial)",
 "licencia": "prensa",
 "url": "https://cdn.shopify.com/s/files/1/0210/2694/files/vsett-11-p-01.jpg"
+},
+"/media/patinetes/segway-superscooter-gt3-pro-oficial.webp": {
+"autor": "Segway-Ninebot (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://www.ninebot.com/content/dam/segway-ninebot/ap/en/content-import/product-image/ekickscooter-GT3Pro.png"
+},
+"/media/patinetes/segway-ninebot-f30-oficial.webp": {
+"autor": "Segway-Ninebot (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://s7ap1.scene7.com/is/image/ninebotstage/assets_segway_cdn_com_Product-Pictures__product_full_F30D-F30E_Product-pictures_360-side-view-12"
+},
+"/media/patinetes/segway-ninebot-f40e-oficial.webp": {
+"autor": "Segway-Ninebot (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://s7ap1.scene7.com/is/image/ninebotstage/assets_segway_cdn_com_Product-Pictures__product_full_F40D-F40E_Product-picture_360-side-view-6"
+},
+"/media/patinetes/segway-ninebot-e25e-oficial.webp": {
+"autor": "Segway-Ninebot (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://s7ap1.scene7.com/is/image/ninebotstage/assets_segway_cdn_com_Product-Pictures__product_full_E25E_Product-picture-4"
+},
+"/media/patinetes/xiaomi-electric-scooter-4-oficial.webp": {
+"autor": "Xiaomi (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-electric-scooter-4/pc/98b7f22c429460539501595a65a2755a.png"
+},
+"/media/patinetes/xiaomi-electric-scooter-4-pro-oficial.webp": {
+"autor": "Xiaomi (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666838244.98981922.png"
 }
 };

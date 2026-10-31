@@ -2280,45 +2280,111 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Freshly Charged",
     marca: "Segway",
     modelo: "SuperScooter GT3 Pro",
-    precioEur: 2599, // tarifa oficial España (verificado 20/10/2026)
-    potenciaNominalW: null,
+    precioEur: 2599,
+    potenciaNominalW: 3400,
     potenciaPicoW: 7000,
     autonomiaKm: 138,
     autonomiaRealKm: 94,
     velocidadMaxKmh: 80,
     pesoKg: 53.1,
     cargaMaxKg: 150,
-    tiempoCargaH: null,
+    tiempoCargaH: 8,
     bateriaWh: 2160,
-    frenos: "Frenos hidráulicos + S-ABS",
-    neumaticos: null,
+    frenos: "Discos hidráulicos de doble pistón (delante y detrás) con S-ABS",
+    neumaticos: "Neumáticos sin cámara autosellantes de 11\"",
     certificadoDgt: null,
-    foto: "/media/patinetes/segway-superscooter-gt3-pro-1.webp",
-    galeria: [
-      { src: "/media/patinetes/segway-superscooter-gt3-pro-2.webp", alt: "Detalle de la suspensión hidráulica del Segway SuperScooter GT3 Pro", ancho: 1200, alto: 800 },
-      { src: "/media/patinetes/segway-superscooter-gt3-pro-3.webp", alt: "Segway SuperScooter GT3 Pro en circuito", ancho: 1200, alto: 800 },
+    foto: "/media/patinetes/segway-superscooter-gt3-pro-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm"
     ],
-    aprox: ["potenciaPicoW", "autonomiaRealKm"],
     pros: [
-      "Doble motor con 7.000 W en conjunto: aceleración de moto",
-      "Batería de 2.160 Wh (72 V): 138 km declarados",
-      "80 km/h de velocidad máxima",
-      "Frenos hidráulicos + S-ABS y suspensión hidráulica",
-      "Aceleración de 3,9 s hasta 48 km/h",
-      "Carga máxima de 150 kg y protección IPX6",
+      "Dos motores de 1.700 W nominales (3.500 W de pico cada uno, 7.000 W en total) y una pendiente máxima declarada del 38 %",
+      "Batería de 72 V y 2.160 Wh con 138 km en modo Eco, 72 km en Sport y 55 km en Race según el manual",
+      "Frenos hidráulicos de doble pistón con S-ABS y suspensión hidráulica con ajuste de compresión delante",
+      "Carcasa IPX6, neumáticos de 11 pulgadas sin cámara autosellantes y 150 kg de carga máxima",
+      "Precio publicado en la tienda oficial de Segway España: 2.599 €"
     ],
     contras: [
-      "53,1 kg: una moto sin asiento",
-      "80 km/h: no puede circular legalmente en España",
-      "Sin certificación DGT",
-      "2.599 € en la tienda oficial de Segway en España: precio de moto",
-      "Tiempo de carga no publicado",
-      "Excesivo para cualquier uso urbano",
+      "Segway indica en su tienda que solo puede usarse en propiedad privada: con 80 km/h no es un VMP",
+      "53,1 kg y 1,37 m de largo incluso plegado: no es un patinete para subir escaleras",
+      "La carga completa tarda unas 8 horas (±0,5 h)",
+      "La marca recomienda de 18 a 60 años y una estatura de 160 a 200 cm",
+      "Los 138 km son en modo Eco, a unos 25 km/h: a unos 50 km/h son 72 km y a 80 km/h, 55 km (nota de prensa)"
     ],
-    veredicto:
-      "El GT3 Pro es el hyper-scooter de Segway: 7.000 W, 138 km declarados y 80 km/h. Una bestia de la ingeniería con el respaldo de la marca; en España, solo para circuito. El GT3 E es su hermano legal de 25 km/h.",
-    fuenteNombre: "Segway",
-    fuenteUrl: "https://www.segway.com",
+    veredicto: "El GT3 Pro es el patinete más rápido de Segway: 7.000 W, 80 km/h y 2.160 Wh por 2.599 € en su tienda oficial. Su propio fabricante lo limita a propiedad privada; en vía pública española no es un VMP.",
+    fuenteNombre: "Segway: manual del GT3 Pro y tienda oficial de España",
+    fuenteUrl: "https://store.segway.com/media/product/GT3Pro_product/Segway_GT3_Pro_Product_Manual_v2.pdf",
+    fuentesExtra: [
+      {
+        "nombre": "Segway: manual de producto del SuperScooter GT3 Pro (2 × 1.700 W nominales y 2 × 3.500 W máx., 2.160 Wh, 53,1 kg, IPX6, 138/72/55 km por modo)",
+        "url": "https://store.segway.com/media/product/GT3Pro_product/Segway_GT3_Pro_Product_Manual_v2.pdf",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "Segway España (tienda oficial): 2.599 €, «solo puede ser utilizado en propiedad privada»",
+        "url": "https://shop.segway.com/es_es/segway-superscooter-gt3-pro.html",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "Segway (nota de prensa del lanzamiento): 0-30 mph en 3,9 s, frenos de doble pistón, S-ABS y suspensión",
+        "url": "https://www.prnewswire.com/news-releases/segway-launches-50-mph-gt3-pro-superscooter-302527311.html",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "vsett-10-plus",
+        "nombre": "Vsett 10+",
+        "precioEur": 2000,
+        "autonomiaKm": 130,
+        "potenciaW": 2800,
+        "pesoKg": 36,
+        "nota": "2.800 W y 36 kg; precio de un distribuidor español, no oficial"
+      },
+      {
+        "id": "zero-10x",
+        "nombre": "Zero 10X",
+        "precioEur": 2899,
+        "autonomiaKm": 90,
+        "potenciaW": 2000,
+        "pesoKg": 35,
+        "nota": "2.000 W y 35 kg; precio no oficial de un distribuidor"
+      },
+      {
+        "id": "kukirin-g4",
+        "nombre": "KuKirin G4",
+        "precioEur": 859,
+        "autonomiaKm": 75,
+        "potenciaW": 2000,
+        "pesoKg": 34.5,
+        "nota": "859 € y 34,5 kg según la web de KuKirin EU"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuánto cuesta el Segway GT3 Pro en España?",
+        "a": "2.599 € en la tienda oficial de Segway España (consultada el 31/10/2026). Algunos comercios lo anunciaban por debajo, pero ese dato no es oficial."
+      },
+      {
+        "q": "¿Cuántos km hace de verdad?",
+        "a": "El manual declara 138 km en modo Eco, 72 km en Sport y 55 km en Race. Nuestra cifra de autonomía real es una estimación y no un dato de la marca."
+      },
+      {
+        "q": "¿Puede circular por la calle en España?",
+        "a": "No como VMP: llega a 80 km/h y la tienda oficial de Segway indica que solo se use en propiedad privada. Casco homologado o certificado y abrochado (artículo 118.3 del Reglamento General de Circulación) y 15 años cumplidos (artículo 155.3), según el Real Decreto 518/2026 en vigor desde el 1 de octubre de 2026. Está prohibido circular por aceras (artículo 152.1)."
+      },
+      {
+        "q": "¿Cuánto tarda en cargarse?",
+        "a": "Unas 8 horas (±0,5 h) con el cargador de 84 V y 4 A, según el manual de Segway."
+      }
+    ]
   },
   {
     id: "segway-ninebot-f2-ii",

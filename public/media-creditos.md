@@ -4475,3 +4475,9 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/patinetes/gotrax-g-pro-oficial.webp | https://gotrax.com/cdn/shop/products/g-pro-3-wheel-electric-scooter-189232.jpg | GOTRAX (foto de producto oficial) | prensa |
 | /media/patinetes/zero-9-oficial.webp | https://zeroelectricscooter.com/cdn/shop/products/zero-9_1024x1024.png | Zero Electric Scooter (foto de producto oficial) | prensa |
 | /media/patinetes/vsett-11-plus-oficial.webp | https://cdn.shopify.com/s/files/1/0210/2694/files/vsett-11-p-01.jpg | Vsett (foto de producto oficial) | prensa |
+| /media/patinetes/segway-superscooter-gt3-pro-oficial.webp | https://www.ninebot.com/content/dam/segway-ninebot/ap/en/content-import/product-image/ekickscooter-GT3Pro.png | Segway-Ninebot (foto de producto oficial) | prensa |
+| /media/patinetes/segway-ninebot-f30-oficial.webp | https://s7ap1.scene7.com/is/image/ninebotstage/assets_segway_cdn_com_Product-Pictures__product_full_F30D-F30E_Product-pictures_360-side-view-12 | Segway-Ninebot (foto de producto oficial) | prensa |
+| /media/patinetes/segway-ninebot-f40e-oficial.webp | https://s7ap1.scene7.com/is/image/ninebotstage/assets_segway_cdn_com_Product-Pictures__product_full_F40D-F40E_Product-picture_360-side-view-6 | Segway-Ninebot (foto de producto oficial) | prensa |
+| /media/patinetes/segway-ninebot-e25e-oficial.webp | https://s7ap1.scene7.com/is/image/ninebotstage/assets_segway_cdn_com_Product-Pictures__product_full_E25E_Product-picture-4 | Segway-Ninebot (foto de producto oficial) | prensa |
+| /media/patinetes/xiaomi-electric-scooter-4-oficial.webp | https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-electric-scooter-4/pc/98b7f22c429460539501595a65a2755a.png | Xiaomi (foto de producto oficial) | prensa |
+| /media/patinetes/xiaomi-electric-scooter-4-pro-oficial.webp | https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666838244.98981922.png | Xiaomi (foto de producto oficial) | prensa |
