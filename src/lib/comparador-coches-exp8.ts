@@ -2313,7 +2313,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Jogger Hybrid 155",
     tipo: "Híbrido (HEV)",
     categoria: "Familiar",
-    precioDesde: 24450,
+    precioDesde: 24550,
     potenciaCv: 155,
     autonomiaKm: null,
     maleteroL: 607,

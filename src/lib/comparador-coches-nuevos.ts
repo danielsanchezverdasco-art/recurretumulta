@@ -2138,7 +2138,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     modelo: "iX4 50 xDrive",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 70900,
+    precioDesde: 78200,
     potenciaCv: 469,
     autonomiaKm: 828,
     maleteroL: 490,

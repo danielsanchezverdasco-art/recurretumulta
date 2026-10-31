@@ -770,7 +770,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     modelo: "Avenger Electric 156 CV",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 38000,
+    precioDesde: 32916,
     potenciaCv: 156,
     autonomiaKm: 400,
     maleteroL: 282,
