@@ -7153,6 +7153,17 @@
 /blog/volkswagen-taigo-2024-precio-ficha-tecnica /coches/volkswagen-taigo-2024-precio-ficha-tecnica/ 301!
 /blog/volvo-ex30-precio-ficha-tecnica/ /coches/volvo-ex30-precio-ficha-tecnica/ 301!
 /blog/volvo-ex30-precio-ficha-tecnica /coches/volvo-ex30-precio-ficha-tecnica/ 301!
+# 31/10 (GSC 404): /blog/<slug> -> ficha real /coches/<slug>/ en un salto (5 que faltaban)
+/blog/cupra-formentor-2024-precio-ficha-tecnica/ /coches/cupra-formentor-2024-precio-ficha-tecnica/ 301!
+/blog/cupra-formentor-2024-precio-ficha-tecnica /coches/cupra-formentor-2024-precio-ficha-tecnica/ 301!
+/blog/dacia-spring-2024-precio-ficha-tecnica/ /coches/dacia-spring-2024-precio-ficha-tecnica/ 301!
+/blog/dacia-spring-2024-precio-ficha-tecnica /coches/dacia-spring-2024-precio-ficha-tecnica/ 301!
+/blog/peugeot-2008-2024-precio-ficha-tecnica/ /coches/peugeot-2008-2024-precio-ficha-tecnica/ 301!
+/blog/peugeot-2008-2024-precio-ficha-tecnica /coches/peugeot-2008-2024-precio-ficha-tecnica/ 301!
+/blog/renault-austral-2024-precio-ficha-tecnica/ /coches/renault-austral-2024-precio-ficha-tecnica/ 301!
+/blog/renault-austral-2024-precio-ficha-tecnica /coches/renault-austral-2024-precio-ficha-tecnica/ 301!
+/blog/renault-rafale-2024-precio-ficha-tecnica/ /coches/renault-rafale-2024-precio-ficha-tecnica/ 301!
+/blog/renault-rafale-2024-precio-ficha-tecnica /coches/renault-rafale-2024-precio-ficha-tecnica/ 301!
 /blog/*ficha-tecnica /coches/:splat/ 301
 
 # 13/10/2026 (indexación): cadenas de idioma -> destino final con barra, en 1 solo salto.
