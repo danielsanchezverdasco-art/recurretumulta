@@ -295,7 +295,7 @@ export const ANALISIS_PATINETE_02: MapaAnalisis = {
     parrafos: [
       "El Air Pro alarga la fórmula de su hermano. El acumulador crece a 438 Wh para 48 km declarados. En la práctica rondan los 32 km reales: de lo mejor en su peso. El propulsor de 400 W (750 W de pico) encara pendientes del 20 %. Con 17,7 kg sigue siendo portable. Los 438 Wh en 17,7 kg son una densidad energética muy buena. Subir pendientes del 20 % con 400 W nominales tiene mérito.",
       "Conserva el blindaje IP55/IP67, su seña de identidad. La rueda trasera maciza transmite más vibración al piloto. Y la suspensión sigue sin existir en el conjunto. Luces y sombras de un superventas ligero. La rueda trasera maciza evita pinchazos donde más molestan.",
-      "Ocho horas y media de enchufe obligan a la noche entera. Sus 35 km/h lo expulsan de la legalidad viaria española. Gran ligero urbano con dos losas: velocidad y recarga. Una pena, porque el producto es redondo. Si Inmotion lo limitara a 25 km/h, sería un urbano legal casi perfecto.",
+      "Ocho horas y media de enchufe obligan a la noche entera. Con 35 km/h de máxima, queda fuera de la vía pública española como VMP. Gran ligero urbano con dos losas: velocidad y recarga. Una pena, porque el producto es redondo. Si Inmotion lo limitara a 25 km/h, sería un urbano legal casi perfecto.",
     ],
     veredicto: "Alcance de lujo en poco peso; ilegal y de recarga eterna.",
   },

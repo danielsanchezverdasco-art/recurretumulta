@@ -356,7 +356,7 @@ export const ANALISIS_COCHE_11: MapaAnalisis = {
   },
   "jeep-cherokee-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El Cherokee vuelve en 2026 y lo hace híbrido por primera vez: un 1.6 turbo con 210 CV y 312 Nm, tracción total, etiqueta ECO y un maletero de 795 litros en 4,65 metros. El 0-100 en 8,6 segundos y el consumo de 6,7 l/100 km lo sitúan como el SUV familiar eficiente de la marca, desde unos 30.000 euros. La tracción 4x4 es de serie con Selec-Terrain y promete más de 800 km de autonomía con un depósito.",
+      "El Cherokee vuelve en 2026 y lo hace híbrido por primera vez: un 1.6 turbo con 210 CV y 312 Nm, tracción total, etiqueta ECO y un maletero de 795 litros en 4,65 metros. Con un 0-100 en 8,6 segundos y 6,7 l/100 km de consumo, se sitúa como el SUV familiar eficiente de la marca, desde unos 30.000 euros. La tracción 4x4 es de serie con Selec-Terrain y promete más de 800 km de autonomía con un depósito.",
       "La ficha advierte de que no está confirmado para Europa, así que el comprador español debe esperar. La batería de solo 1,08 kWh hace el modo eléctrico testimonial, y el 0-100 en 8,6 segundos confirma que no es un mechero. El Cherokee fue un nombre mítico de Jeep, y su regreso electrificado tiene carga simbólica. Si llega a España a ese precio, competirá con los híbridos japoneses y coreanos; hasta entonces, es una promesa americana.",
     ],
     veredicto: "Para esperar el regreso de un mito en versión híbrida; sin confirmar en Europa.",
