@@ -1885,61 +1885,49 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "Electrek Revolution",
     marca: "Kaabo",
     modelo: "Mantis 8 Eco 800",
-    precioEur: null, // Sin precio oficial en EUR verificado el 21/10/2026: No publicado en EUR: la variante Eco 800 (monomotor 800W) no consta en la tienda oficial de Kaabo, que solo publica precios en USD de la gama Mantis 8.
+    precioEur: 1399,
     potenciaNominalW: 800,
     potenciaPicoW: null,
     autonomiaKm: 60,
     autonomiaRealKm: 41,
-    velocidadMaxKmh: 25,
+    velocidadMaxKmh: 45,
     pesoKg: 23,
     cargaMaxKg: 120,
-    tiempoCargaH: 9,
+    tiempoCargaH: null,
     bateriaWh: 874,
-    frenos: "Freno de disco delantero + disco trasero + EABS",
-    neumaticos: 'Neumáticos anchos de 8x3" sin cámara',
+    frenos: "Discos delantero y trasero de 120 mm más freno electrónico EABS",
+    neumaticos: "Neumáticos de aire de 8×3\"",
     certificadoDgt: null,
-    foto: "/media/patinetes/kaabo-mantis-8-eco-800-1.webp",
-    galeria: [
-      {
-        src: "/media/patinetes/kaabo-mantis-8-eco-800-2.webp",
-        alt: "Detalle del Kaabo Mantis 8 Eco 800",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/patinetes/kaabo-mantis-8-eco-800-3.webp",
-        alt: "Kaabo Mantis 8 Eco 800 en la ciudad",
-        ancho: 1200,
-        alto: 800,
-      },
+    foto: "/media/patinetes/kaabo-mantis-8-eco-800-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm"
     ],
-    aprox: ["autonomiaRealKm"],
     pros: [
-      "800 W con batería de 48 V y 18,2 Ah (874 Wh): 60 km declarados",
-      "Doble disco (delantero y trasero) más EABS",
-      "Neumáticos anchos de 8x3 sin cámara",
-      "Suspensión de muelle delantera y trasera",
-      "23 kg con 120 kg de carga: robusto y manejable",
-      "Chasis de aluminio 6061/6082",
+      "Un solo motor de 800 W en la rueda trasera, con subida declarada del 25 % (30 % en otro apartado de la web)",
+      "Batería DMEGC de 48 V 18,2 Ah (874 Wh) y 60 km declarados en modo eco con un solo motor",
+      "Doble disco de 120 mm con frenado electrónico EABS",
+      "Suspensión de brazos con muelles delante y detrás",
+      "23 kg y plegado con una sola pieza de 116 × 56 × 47,8 cm"
     ],
     contras: [
-      "Sin precio publicado en España",
-      "Carga de hasta 9 horas",
-      "Sin certificado DGT verificado",
-      "Ruedas de 8 pulgadas: menos rodadura que un 10",
-      "El Mantis 8 dual (1600 W) lo supera en potencia",
+      "La web oficial da 45 km/h en la descripción y 50 km/h en la tabla de especificaciones",
+      "Los 60 km se miden en modo «eco / single drive», no a velocidad de crucero",
+      "Ruedas de 8×3 pulgadas: menos volumen de aire que en los Mantis de 10 pulgadas",
+      "El precio de lista es de 1.599 € y está rebajado a 1.399 €: conviene comprobar que sigue así",
+      "La web de Kaabo no publica el certificado de la DGT",
+      "Su carácter campero no cambia la ley: cualquier conductor debe tener 15 años y llevar casco (RD 518/2026)"
     ],
-    veredicto:
-      "El Mantis 8 Eco 800 es el monomotor sensato de Kaabo: 874 Wh, doble disco y 60 km en 23 kg. Para quien no necesita el doble motor del Mantis 8.",
-    fuenteNombre: "Ecoscooter",
-    fuenteUrl: "https://ecoscooter.ee/",
+    veredicto: "El ECO 800 es el Mantis 8 de un solo motor con la batería grande de la gama: 874 Wh y 23 kg por 1.399 €. Es una opción coherente si quieres la suspensión de brazos de Kaabo con un solo motor; antes de comprarlo, compara con rivales de 800 W de otras marcas.",
+    fuenteNombre: "Kaabo Mantis (tienda oficial)",
+    fuenteUrl: "https://kaabomantis.com/shop/kaabo-mantis-8-eco-800/",
     mantenimientoDIY: {
       aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar, los ejes de las ruedas y los anclajes de la suspensión",
       ajusteFrenosPasos: [
         "Los discos son mecánicos: tensar el cable desde el tensor del manillar",
-        "Centrar la pinza aflojando sus dos tornillos, apretar la maneta y volver a apretar",
-      ],
-    },
+        "Centrar la pinza aflojando sus dos tornillos, apretar la maneta y volver a apretar"
+      ]
+    }
   },
   {
     id: "kaabo-wolf-king-gtr-max",
@@ -1990,7 +1978,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: null,
     marca: "Vsett",
     modelo: "8 Plus",
-    precioEur: null, // Sin precio oficial en EUR verificado el 21/10/2026: No publicado: VSETT no vende directamente ni publica tarifas oficiales; el 8+ solo se ofrece a través de distribuidores (en la UE ~1.091 € en retailer.
+    precioEur: null,
     potenciaNominalW: null,
     potenciaPicoW: null,
     autonomiaKm: 88,
@@ -2001,30 +1989,33 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     tiempoCargaH: 10.5,
     bateriaWh: null,
     frenos: "Frenos de tambor delanteros y traseros",
-    neumaticos: 'Neumáticos de 8,5"',
+    neumaticos: "Neumáticos de 8,5\"",
     certificadoDgt: null,
-    foto: "/media/patinetes/vsett-8-plus-1.webp",
+    foto: "/media/patinetes/vsett-8-plus-oficial.webp",
     galeria: [
       {
         src: "/media/patinetes/vsett-8-plus-2.webp",
         alt: "Detalle del Vsett 8 Plus",
         ancho: 1200,
-        alto: 800,
+        alto: 800
       },
       {
         src: "/media/patinetes/vsett-8-plus-3.webp",
         alt: "Vsett 8 Plus en la ciudad",
         ancho: 1200,
-        alto: 800,
-      },
+        alto: 800
+      }
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: [
+      "autonomiaRealKm",
+      "tiempoCargaH"
+    ],
     pros: [
       "Batería LG de 21 Ah: 59-88 km declarados",
       "Doble freno de tambor: frenada sin mantenimiento",
       "Solo 20,8 kg: ligero para su autonomía",
       "Ruedas de 8,5 pulgadas",
-      "La gama 8 de Vsett, probada durante años",
+      "La gama 8 de Vsett, probada durante años"
     ],
     contras: [
       "Sin precio publicado en Europa",
@@ -2032,18 +2023,18 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
       "Los tambores frenan menos que un disco",
       "Sin certificado DGT verificado",
       "Ruedas de 8,5 pulgadas: justas para baches",
+      "El Vsett 8+ rebasa los 25 km/h de un VMP legal, y cualquier uso exige casco y 15 años cumplidos"
     ],
-    veredicto:
-      "El 8 Plus es el Vsett urbano ligero: 21 Ah LG y 20,8 kg. Para ciudad con mucha autonomía sin cargar kilos de más.",
-    fuenteNombre: "Vsett (oficial)",
-    fuenteUrl: "https://vsett.com/",
+    veredicto: "El 8 Plus es el Vsett urbano ligero: 21 Ah LG y 20,8 kg. Para ciudad con mucha autonomía sin cargar kilos de más.",
+    fuenteNombre: "Vsett Shop Europe (tienda oficial en español)",
+    fuenteUrl: "https://vsett-shop.com/es/producto/vsett-8/",
     mantenimientoDIY: {
       aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
       ajusteFrenosPasos: [
         "Los frenos de tambor se tensan desde el tensor del cable en el manillar",
-        "Revisar el desgaste de las zapatas cada 1.000 km",
-      ],
-    },
+        "Revisar el desgaste de las zapatas cada 1.000 km"
+      ]
+    }
   },
   {
     id: "vsett-9",
@@ -2051,41 +2042,43 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: null,
     marca: "Vsett",
     modelo: "9",
-    precioEur: null, // Sin precio oficial en EUR verificado el 21/10/2026: Vsett no tiene tienda oficial directa con precios; el Vsett 9 solo aparece en distribuidores (Green220, Scooteroo, Rafplay, etc., con precios dispares.
+    precioEur: 949,
     potenciaNominalW: 650,
     potenciaPicoW: null,
-    autonomiaKm: 80,
+    autonomiaKm: 70,
     autonomiaRealKm: 54,
     velocidadMaxKmh: 45,
-    pesoKg: 26,
+    pesoKg: 24,
     cargaMaxKg: null,
     tiempoCargaH: null,
     bateriaWh: 910,
     frenos: "Freno de disco",
     neumaticos: null,
     certificadoDgt: null,
-    foto: "/media/patinetes/vsett-9-1.webp",
+    foto: "/media/patinetes/vsett-9-oficial.webp",
     galeria: [
       {
         src: "/media/patinetes/vsett-9-2.webp",
         alt: "Detalle del Vsett 9",
         ancho: 1200,
-        alto: 800,
+        alto: 800
       },
       {
         src: "/media/patinetes/vsett-9-3.webp",
         alt: "Vsett 9 en carretera",
         ancho: 1200,
-        alto: 800,
-      },
+        alto: 800
+      }
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: [
+      "autonomiaRealKm"
+    ],
     pros: [
       "Motor trasero de 650 W con batería LG de 52 V y 17,5 Ah (910 Wh)",
       "80 km declarados",
       "45 km/h de máxima",
       "26 kg: contenido para sus prestaciones",
-      "La base de la familia 9, la más popular de Vsett",
+      "La base de la familia 9, la más popular de Vsett"
     ],
     contras: [
       "Sin precio publicado",
@@ -2093,18 +2086,18 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
       "Freno de disco simple: justo para 45 km/h",
       "Sin certificado DGT verificado",
       "El 9 Apex lo supera en casi todo",
+      "A 45 km/h no es un VMP; en vía pública solo cabe un patinete de 25 km/h, con casco y 15 años"
     ],
-    veredicto:
-      "El Vsett 9 es el clásico de la marca: 910 Wh LG y 80 km en 26 kg. Como base para tunear o limitar a 25, sigue siendo una referencia.",
-    fuenteNombre: "Freshly Charged",
-    fuenteUrl: "https://freshlycharged.com/",
+    veredicto: "El Vsett 9 es el clásico de la marca: 910 Wh LG y 80 km en 26 kg. Como base para tunear o limitar a 25, sigue siendo una referencia.",
+    fuenteNombre: "Vsett Shop Europe (tienda oficial en español)",
+    fuenteUrl: "https://vsett-shop.com/es/producto/vsett-9/",
     mantenimientoDIY: {
       aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
       ajusteFrenosPasos: [
         "El freno de disco es mecánico: tensar el cable desde el tensor del manillar",
-        "Centrar la pinza aflojando sus dos tornillos, apretar la maneta y volver a apretar",
-      ],
-    },
+        "Centrar la pinza aflojando sus dos tornillos, apretar la maneta y volver a apretar"
+      ]
+    }
   },
   {
     id: "vsett-9-apex",
@@ -2167,42 +2160,42 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: null,
     marca: "Vsett",
     modelo: "10+ Apex",
-    precioEur: null, // Sin precio oficial en EUR verificado el 21/10/2026: Vsett no tiene tienda oficial directa con precios; el 10+ Apex solo se vende a través de distribuidores (p.
+    precioEur: 1799,
     potenciaNominalW: 3000,
     potenciaPicoW: null,
-    autonomiaKm: null,
+    autonomiaKm: 90,
     autonomiaRealKm: null,
     velocidadMaxKmh: 80,
     pesoKg: 40,
     cargaMaxKg: 130,
     tiempoCargaH: null,
-    bateriaWh: null,
+    bateriaWh: 1248,
     frenos: "Frenos hidráulicos de 4 pistones",
     neumaticos: null,
     certificadoDgt: null,
-    foto: "/media/patinetes/vsett-10-plus-apex-1.webp",
+    foto: "/media/patinetes/vsett-10-plus-apex-oficial.webp",
     galeria: [
       {
         src: "/media/patinetes/vsett-10-plus-apex-2.webp",
         alt: "Frenos del Vsett 10+ Apex",
         ancho: 1200,
-        alto: 800,
+        alto: 800
       },
       {
         src: "/media/patinetes/vsett-10-plus-apex-3.webp",
         alt: "Vsett 10+ Apex, doble motor",
         ancho: 1200,
-        alto: 800,
-      },
+        alto: 800
+      }
     ],
-    aprox: ["potenciaNominalW"],
+    aprox: [],
     pros: [
       "Doble motor de 1500 W (3000 W combinados)",
       "80 km/h de velocidad máxima",
       "Frenos hidráulicos de 4 pistones",
       "Suspensión hidráulica",
       "130 kg de carga máxima",
-      "Dos baterías a elegir (20,8 o 25,6 Ah)",
+      "Dos baterías a elegir (20,8 o 25,6 Ah)"
     ],
     contras: [
       "Pesa 40 kg",
@@ -2210,18 +2203,18 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
       "No es un VMP legal: solo circuito privado",
       "1.248 o 1.536 Wh según la batería elegida (20,8 o 25,6 Ah)",
       "El 10+ R ofrece más autonomía",
+      "Para el Apex hay que ponerse casco y tener 15 años; sin certificado de VMP, además, queda fuera de la vía pública"
     ],
-    veredicto:
-      "El 10+ Apex es el Vsett prestacional puro: 3000 W, 4 pistones y 80 km/h. Para circuito; en la calle, ni lo intentes.",
-    fuenteNombre: "eBike Super Shop",
-    fuenteUrl: "https://ebikesupershop.com/",
+    veredicto: "El 10+ Apex es el Vsett prestacional puro: 3000 W, 4 pistones y 80 km/h. Para circuito; en la calle, ni lo intentes.",
+    fuenteNombre: "Vsett Shop Europe (tienda oficial en español)",
+    fuenteUrl: "https://vsett-shop.com/es/producto/vsett-10-apex-2/",
     mantenimientoDIY: {
       aprieteTornilleria: "Revisar los anclajes de la suspensión hidráulica, la potencia del manillar y los ejes de ambas ruedas motrices",
       ajusteFrenosPasos: [
         "Frenos hidráulicos de 4 pistones: purgar el circuito en taller si la maneta se hunde",
-        "Revisar las pastillas cada 1.000 km",
-      ],
-    },
+        "Revisar las pastillas cada 1.000 km"
+      ]
+    }
   },
   {
     id: "vsett-10-plus-r",
@@ -2345,42 +2338,55 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "Thing Adventures",
     marca: "Vsett",
     modelo: "11+",
-    precioEur: 4200,
-    potenciaNominalW: null,
+    potenciaNominalW: 3000,
     potenciaPicoW: null,
     autonomiaKm: 160,
     autonomiaRealKm: 109,
-    velocidadMaxKmh: null,
+    velocidadMaxKmh: 85,
     pesoKg: 58,
     cargaMaxKg: 150,
     tiempoCargaH: null,
     bateriaWh: 1872,
-    frenos: "Frenos hidráulicos en ambos ejes + freno eléctrico con corte de potencia",
-    neumaticos: 'Neumáticos de 11×4"',
+    frenos: "Freno de disco hidráulico delante y detrás + ABS eléctrico",
+    neumaticos: "Neumáticos de aire de 11×4\"",
     certificadoDgt: null,
-    foto: "/media/patinetes/vsett-11-plus-1.webp",
-    galeria: [
-      {
-        src: "/media/patinetes/vsett-11-plus-2.webp",
-        alt: "Detalle del Vsett 11+",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/patinetes/vsett-11-plus-3.webp",
-        alt: "Vsett 11+, el buque insignia",
-        ancho: 1200,
-        alto: 800,
-      },
+    foto: "/media/patinetes/vsett-11-plus-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm"
     ],
-    aprox: ["autonomiaRealKm", "bateriaWh"],
-    pros: ["Dos motores brushless de 60 V y 1.500 W, uno por rueda, con modo Sport de 2 minutos", "Batería de 60 V y 31,2 Ah (1.872 Wh): la versión contenida del 11+, frente a la variante de 42 Ah", "Hasta 135 km con un solo motor según el manual; con los dos en marcha la cifra cae a 70 km", "Frenos hidráulicos en ambas ruedas, con freno eléctrico y corte de alimentación al frenar", "Sucesor del Zero 11X: plataforma de 11 pulgadas con bloqueo NFC y suspensión hidráulica delantera y trasera"],
-    contras: ["58 kg: aunque se pliegue, ese peso descarta escaleras y transporte público en el día a día", "Sin PVP publicado por Vsett para este modelo: cada tienda extranjera pone el suyo y toca comparar una a una", "Con 70-85 km/h según el manual, queda fuera de la definición de VMP en España: su sitio es un recinto cerrado, no la calzada urbana", "El manual también lista una versión de 42 Ah: en segunda mano hay que exigir la factura que acredite qué batería lleva", "Su propio hermano, el 11+ Super 72V, le roba el titular: 72 V y 2.520 Wh frente a sus 60 V y 1.872 Wh"],
-    veredicto:
-      "El 11+ de 60 V es el Vsett grande original, anterior al salto a 72 V del Super: 3.000 W sumando sus dos motores, 1.872 Wh y una promesa de 135 km que solo se acerca rodando con un motor. A cambio, 58 kg y un uso real limitado a recintos privados.",
-    fuenteNombre: "Vsett (oficial)",
-    fuenteUrl: "https://vsett.com/",
-    mantenimientoDIY: {"presionNeumaticos": "Comprobar antes de salir y ajustar al valor grabado en el flanco del neumático de 11×4 pulgadas: el manual del 11+ no fija una cifra única en bar o PSI", "ajusteFrenosPasos": ["Antes de cada salida, comprobar que ninguna pinza hidráulica roza la rueda y que ambas giran libres, como pide la revisión previa del manual", "Si una maneta pierde tacto o falta alguna pieza, el manual manda acudir al distribuidor autorizado en lugar de seguir rodando con un solo freno"], "aprieteTornilleria": "Inspección visual de toda la tornillería antes de cada uso, según el manual: con dos motores de 1.500 W empujando 58 kg, un tornillo flojo en la dirección, en el plegado o en las ruedas de 11 pulgadas se nota enseguida", "trucos": ["La autonomía depende del modo elegido: 135 km declarados con un motor y 70 km con los dos, así que la ruta se planifica antes de salir, no sobre la marcha", "Si salta la protección térmica de los controladores —a los 100 °C en el 11+, según su tabla del manual—, para y deja que se enfríen: insistir activa la segunda protección, de 2 a 3 minutos sin poder rodar", "Con 1.872 Wh por llenar, deja la recarga para la noche y con el patinete apagado y desconectado al terminar"]},
+    pros: [
+      "Dos motores de 1.500 W (3.000 W en total) y pendiente declarada de unos 45°",
+      "Batería de 60 V 31,2 Ah (1.872 Wh) o de 42 Ah según la versión, con hasta 160 km (220 km con la grande) usando un solo motor",
+      "Suspensión hidráulica patentada delante y detrás, frenos de disco hidráulicos con ABS eléctrico",
+      "Bloqueo NFC con llave, intermitentes, claxon y luces LED delanteras y traseras",
+      "Carga máxima de 150 kg en llano y 120 kg en montaña"
+    ],
+    contras: [
+      "58 kg: imposible subirlo por una escalera o llevarlo en el transporte público",
+      "Entre 70 km/h en modo dual y 80 a 85 km/h en Sport, queda fuera de la categoría VMP y no puede ir por vía pública",
+      "La web oficial no publica precio en euros",
+      "Con los dos motores la autonomía baja a 80 km (110 km con la batería grande)",
+      "La carga completa tarda 8 horas o más con dos cargadores y 16 horas o más con uno",
+      "Aunque su velocidad lo deja fuera de la norma de VMP, quien lo use en un recinto privado debería llevar casco y tener 15 años"
+    ],
+    veredicto: "El Vsett 11+ es un patinete de prestaciones extremas: 3.000 W, 80-85 km/h y 58 kg. Sus datos oficiales no encajan con ninguna norma de vía pública española y la web oficial no da precio.",
+    fuenteNombre: "Vsett (web oficial del 11+)",
+    fuenteUrl: "https://vsettscooters.com/pages/vsett-11-plus",
+    mantenimientoDIY: {
+      presionNeumaticos: "Comprobar antes de salir y ajustar al valor grabado en el flanco del neumático de 11×4 pulgadas: el manual del 11+ no fija una cifra única en bar o PSI",
+      ajusteFrenosPasos: [
+        "Antes de cada salida, comprobar que ninguna pinza hidráulica roza la rueda y que ambas giran libres, como pide la revisión previa del manual",
+        "Si una maneta pierde tacto o falta alguna pieza, el manual manda acudir al distribuidor autorizado en lugar de seguir rodando con un solo freno"
+      ],
+      aprieteTornilleria: "Inspección visual de toda la tornillería antes de cada uso, según el manual: con dos motores de 1.500 W empujando 58 kg, un tornillo flojo en la dirección, en el plegado o en las ruedas de 11 pulgadas se nota enseguida",
+      trucos: [
+        "La autonomía depende del modo elegido: 135 km declarados con un motor y 70 km con los dos, así que la ruta se planifica antes de salir, no sobre la marcha",
+        "Si salta la protección térmica de los controladores —a los 100 °C en el 11+, según su tabla del manual—, para y deja que se enfríen: insistir activa la segunda protección, de 2 a 3 minutos sin poder rodar",
+        "Con 1.872 Wh por llenar, deja la recarga para la noche y con el patinete apagado y desconectado al terminar"
+      ]
+    },
+    precioEur: null
   },
   {
     id: "vsett-11-plus-super-72",

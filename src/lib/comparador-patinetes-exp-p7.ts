@@ -167,38 +167,43 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot ZT3 Max",
-    precioEur: null, // Segway aún no ha publicado especificaciones ni tarifa oficial (verificado 20/10/2026)
+    precioEur: 999,
     potenciaNominalW: null,
-    potenciaPicoW: null,
-    autonomiaKm: null,
+    potenciaPicoW: 2200,
+    autonomiaKm: 60,
     autonomiaRealKm: null,
-    velocidadMaxKmh: null,
-    pesoKg: null,
-    cargaMaxKg: null,
+    velocidadMaxKmh: 25,
+    pesoKg: 33.6,
+    cargaMaxKg: 120,
     tiempoCargaH: null,
-    bateriaWh: null,
-    frenos: null,
-    neumaticos: null,
+    bateriaWh: 717,
+    frenos: "Doble disco mecánico de 140 mm con frenada combinada ICBS (4,62 m desde 25 km/h según Segway)",
+    neumaticos: "Tubeless todoterreno: 12\" delante y 11\" detrás (172 mm de altura libre)",
     certificadoDgt: null,
-    foto: "/media/patinetes/segway-ninebot-zt3-max-1.webp",
-    galeria: [
-      {
-        src: "/media/patinetes/segway-ninebot-zt3-max-2.webp",
-        alt: "Segway Ninebot ZT3 Max en camino de tierra",
-        ancho: 1200,
-        alto: 800,
-      },
-    ],
+    foto: "/media/patinetes/segway-zt3-max-e-oficial.webp",
+    galeria: [],
     aprox: [],
-    pros: ["Motor de 2.200 W: Segway declara un 38 % más de potencia que el ZT3 Pro y capacidad para pendientes de hasta el 30 %, justo lo que se le pide a un ZT al salir de una rampa de garaje o de una calle en cuesta con el firme roto", "Suspensión hidráulica de dos etapas delante y detrás, una solución muy distinta a la telescópica con muelle trasero del ZT3 Pro y pensada en el comunicado para adoquines, baches y carreteras irregulares, no para caminos de tierra en abstracto", "Frenada con dos discos de 140 mm apoyados por el sistema ICBS de frenada combinada inteligente y el E-ABS: el reparto entre ambas ruedas es el punto clave cuando se frena cuesta abajo sobre una superficie desigual", "Rueda delantera de 12 pulgadas y trasera de 11: ese reparto desigual busca que la delantera supere bordillos y obstáculos sin que la trasera copie cada golpe, un detalle que solo tiene sentido en este chasis mixto urbano-todoterreno", "Su autonomía no sale de un modo Eco domesticado: con el estándar Real Range de Segway, basado en el protocolo de TÜV Rheinland, la cifra declarada es de 60 a 72 km según el mercado, y para España el comunicado anuncia la versión E de 25 km/h"],
-    contras: ["El precio español sigue sin anunciarse: el comunicado del 7 de octubre de 2026 dice que las tarifas por región se comunicarán cerca del inicio de ventas, así que hoy no hay forma honesta de juzgar si compensa frente al ZT3 Pro que ya se vende", "La ficha técnica del ZT3 Max aún está incompleta a propósito: Segway no ha publicado su batería, su peso ni su carga máxima, tres datos que deciden si cabe en un ascensor, si se puede subir a pulso a un piso y si sirve a un conductor corpulento", "A 21 de octubre de 2026 todavía no se puede comprar ni probar en España: la disponibilidad europea arranca en noviembre, primero en Alemania y Francia según la cobertura del lanzamiento, y no existe aún una sola prueba independiente con usuarios reales", "La horquilla de autonomía, de 60 a 72 km, depende de la regulación de cada mercado: antes de reservarlo hay que exigir la cifra exacta de la versión española, porque la de otro país no tiene por qué coincidir con la que ruede aquí"],
-    veredicto:
-      "El ZT3 Max es la gran apuesta todoterreno de Segway para finales de 2026, premiada en la IFA antes de salir. Aún sin ficha técnica oficial, parte de la base del ZT3 Pro, que ya era referencia. Si buscas un patinete para ciudad y caminos, espera a su lanzamiento europeo.",
-    fuenteNombre: "PR Newswire / IFA 2026 (vía The Best Times)",
-    fuenteUrl: "https://www.thebesttimes.com/entertainment/outdoors/los-nuevos-patinetes-el-ctricos-insignia-de-segway-ganan-dos-premios-de-oro-en-la/article_2689009e-3584-5929-b5e7-1f2821a65d79.html",
+    pros: [
+      "Los 60 km a 25 km/h salen de un protocolo medido por TÜV Rheinland (batería nueva, piloto de 75 ± 3 kg, acelerador a fondo hasta caer al 60 % de la velocidad), no de un modo Eco a 15 km/h: es la cifra menos inflada de la gama alta de Segway.",
+      "Par de 43 N·m y subida de pendientes del 30 % según Segway: pensado para rampas de garaje y cuestas con firme malo, donde un patinete de 600 W se queda sin fuerza.",
+      "Suspensión hidráulica de dos etapas con horquilla de doble corona y 172 mm de altura libre al suelo, frente al muelle trasero que montaba el ZT3 Pro.",
+      "Frenada combinada ICBS con dos discos de 140 mm y 4,62 m de distancia desde 25 km/h, el dato de frenada más concreto que publica Segway para un patinete de esta gama.",
+      "Rueda de 12\" delante y 11\" detrás, ambas tubeless: se pincha menos que con cámara y el reparto de tamaños ayuda a pasar bordillos sin que la trasera copie cada golpe."
+    ],
+    contras: [
+      "Con 33,6 kg es el patinete de la gama ZT que más cuesta subir a un piso sin ascensor; si vives en un tercero a pie, pesa más que un ZT3 Pro (29,7 kg en nuestra ficha).",
+      "A 999 € se sitúa 250 € por encima del ZT3 Pro de 749 € que ya se vende, y aún no hay pruebas independientes largas: toda la cifra de rendimiento es, de momento, del fabricante.",
+      "Segway solo publica la potencia máxima (2.200 W), no la nominal: sin ese dato y sin certificado de circulación verificado en España, no se puede dar por hecho que la versión E sea homologable como VMP; pídelo por escrito al vender.",
+      "Disponibilidad prevista desde noviembre de 2026 en España, Alemania y Francia; Segway France avisa de que el envío no está garantizado y de cantidades limitadas en la primera tanda.",
+      "IPX5 en el chasis (la batería sí es IPX7): aguanta lluvia, pero es un grado de protección inferior al IPX6 del nuevo Max G3 Pro.",
+      "El ZT3 Max se conduce con casco y desde los 15 años, según el artículo 155.3 del reglamento"
+    ],
+    veredicto: "El ZT3 Max E es el ZT3 más serio hasta la fecha: 999 €, batería de 717 Wh con 60 km medidos a 25 km/h y una suspensión de otra liga que la del ZT3 Pro. Compensa si tu trayecto incluye cuestas, adoquín o firme roto; si solo haces asfalto liso, el ZT3 Pro E de 689 € cumple casi igual por 310 € menos. Espera a ver el certificado de circulación antes de pagar.",
+    fuenteNombre: "Segway France (ficha oficial del ZT3 MAX E)",
+    fuenteUrl: "https://www.segwayfrance.com/products/segway-zt3-max-e",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la. En la práctica, app oficial Segway-Ninebot (es decir) (iOS/Android)",
-    },
+      actualizacionFirmware: "A través de la. En la práctica, app oficial Segway-Ninebot (es decir) (iOS/Android)"
+    }
   },
   {
     id: "segway-ninebot-max-g3-pro",
@@ -206,38 +211,43 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot Max G3 Pro",
-    precioEur: null, // Segway aún no ha publicado especificaciones ni tarifa oficial (verificado 20/10/2026)
+    precioEur: 1099,
     potenciaNominalW: null,
-    potenciaPicoW: null,
-    autonomiaKm: null,
+    potenciaPicoW: 2300,
+    autonomiaKm: 80,
     autonomiaRealKm: null,
-    velocidadMaxKmh: null,
-    pesoKg: null,
-    cargaMaxKg: null,
-    tiempoCargaH: null,
-    bateriaWh: null,
-    frenos: null,
-    neumaticos: null,
+    velocidadMaxKmh: 25,
+    pesoKg: 24.9,
+    cargaMaxKg: 130,
+    tiempoCargaH: 5.5,
+    bateriaWh: 899,
+    frenos: "Doble disco de 140 mm (delante y detrás) con sistema IBS",
+    neumaticos: "Tubeless autorreparables: 12 × 2,8\" delante y 11 × 2,8\" detrás",
     certificadoDgt: null,
-    foto: "/media/patinetes/segway-ninebot-max-g3-pro-1.webp",
-    galeria: [
-      {
-        src: "/media/patinetes/segway-ninebot-max-g3-pro-2.webp",
-        alt: "Segway Ninebot Max G3 Pro en calle urbana",
-        ancho: 1200,
-        alto: 800,
-      },
-    ],
+    foto: "/media/patinetes/segway-ninebot-max-g3-pro-e-oficial.webp",
+    galeria: [],
     aprox: [],
-    pros: ["Llega con un Premio de Oro en la IFA 2026 a la mejor tecnología de conducción de largo alcance, un reconocimiento que ningún otro Max puede lucir antes ni siquiera de venderse.", "No parte de cero: evoluciona directamente el Max G3, el commuter premium de Segway que ya se ha consolidado entre los más vendidos en Europa.", "Su razón de ser no es la ciudad corta, sino el trayecto largo de cada día, para el que la serie Max G se ha diseñado buscando fiabilidad y confort sostenido.", "Segway lo presenta como su nuevo buque insignia de largo alcance, con avances prometidos en tecnología, rendimiento y experiencia de conducción frente al Max G3 actual."],
-    contras: ["A día de hoy Segway aún no ha publicado sus especificaciones ni su precio, así que cualquier comparación de autonomía o potencia frente al Max G3 sería inventada.", "Todavía no se puede comprar ni reservar en Europa, con un lanzamiento europeo previsto para octubre de 2026 que puede hacer larga la espera si necesitas patinete ya.", "Si cumple lo que promete en largo alcance, la batería necesaria para lograrlo probablemente elevará su peso y lo hará menos cómodo de subir a un piso o a un tren.", "Su propio hermano le hará sombra: cuando salga, el Max G3 actual previsiblemente bajará de precio y puede convertirse en la compra más sensata para quien no haga tantos kilómetros."],
-    veredicto:
-      "El Max G3 Pro es el nuevo rey del largo alcance de Segway, premiado en la IFA 2026 antes de su lanzamiento europeo de octubre. Sin ficha oficial aún, hereda la reputación del Max G3. Si haces muchos kilómetros al día, merece la pena esperar a conocerlo.",
-    fuenteNombre: "PR Newswire / IFA 2026 (vía The Best Times)",
-    fuenteUrl: "https://www.thebesttimes.com/entertainment/outdoors/los-nuevos-patinetes-el-ctricos-insignia-de-segway-ganan-dos-premios-de-oro-en-la/article_2689009e-3584-5929-b5e7-1f2821a65d79.html",
+    pros: [
+      "899 Wh y 80 km medidos a 25 km/h con TÜV Rheinland (100 km a 20 km/h y 120 km a 15 km/h): una autonomía a velocidad máxima que ningún Max anterior publicaba así.",
+      "Pesa 24,9 kg con esa batería: son casi 9 kg menos que el ZT3 Max (33,6 kg) y casi lo mismo que el Max G3 (24,6 kg en nuestra ficha), pero con 302 Wh más de batería.",
+      "Doble suspensión hidráulica de 50 mm y ruedas tubeless autorreparables de 12\" y 11\": mejor respuesta en adoquín y menos sustos con pinchazos que un patinete con cámara.",
+      "Carga integrada con un solo cable (unas 5,5 h) y entrada doble opcional con cargador rápido (unas 3,5 h); la batería externa de 468 Wh que vende Segway lleva el alcance a 120 km a 25 km/h.",
+      "Pantalla TFT de 2,4\" con navegación giro a giro, desbloqueo Bluetooth Segway AirLock y compatibilidad con Apple Buscar para localizarlo si te lo roban."
+    ],
+    contras: [
+      "1.099 € es 200 € más que el Max G3 (899,99 € en nuestra ficha): si tus trayectos no pasan de 40 km, esa batería extra no la vas a aprovechar.",
+      "Segway no publica la potencia nominal (solo 2.300 W de pico) y en nuestra ficha no consta certificado de circulación verificado: pídelo antes de pagar.",
+      "Llega en noviembre de 2026 y se vende por reserva en la primera tanda; Xataka habla de prerreserva y Segway France avisa de que la disponibilidad no está garantizada.",
+      "Con cargador integrado tarda unas 5,5 h en cargar del todo; para bajar a 3,5 h necesitas el cargador rápido, que se vende aparte.",
+      "El IPX6 del chasis protege de lluvia fuerte, no de sumergirlo: la protección IPX7 es solo de la batería.",
+      "Casco certificado y abrochado, y mínimo 15 años según el nuevo RD 518/2026, aunque el patinete sea tan estable como este"
+    ],
+    veredicto: "El Max G3 Pro E es el commuter de Segway para quien hace trayectos largos a diario: 899 Wh, 80 km medidos a 25 km/h, 24,9 kg y 1.099 €. Frente al Max G3 de 899,99 € paga la diferencia solo quien supere los 40 km al día. Antes de comprarlo, comprueba que el vendedor aporte el certificado de circulación.",
+    fuenteNombre: "Segway France (ficha oficial del Ninebot MAX G3 Pro E)",
+    fuenteUrl: "https://www.segwayfrance.com/products/ninebot-max-g3-pro-e",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la, en este punto, app oficial Segway-Ninebot (para ser precisos) (iOS/Android)",
-    },
+      actualizacionFirmware: "A través de la, en este punto, app oficial Segway-Ninebot (para ser precisos) (iOS/Android)"
+    }
   },
   {
     id: "navee-gt3-pro",
@@ -439,7 +449,6 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     videoCanal: null,
     marca: "NAVEE",
     modelo: "V40i Pro II",
-    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 40,
@@ -449,8 +458,8 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     cargaMaxKg: 120,
     tiempoCargaH: 6,
     bateriaWh: 275,
-    frenos: "Tambor delantero + E-ABS trasero",
-    neumaticos: 'Neumáticos de 10"',
+    frenos: "Tambor delantero + freno electrónico E-ABS trasero",
+    neumaticos: "10\" neumáticos",
     certificadoDgt: null,
     foto: "/media/patinetes/navee-v40i-pro-ii-1.webp",
     galeria: [
@@ -458,32 +467,38 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
         src: "/media/patinetes/navee-v40i-pro-ii-2.webp",
         alt: "Detalle del manillar del Navee V40i Pro II",
         ancho: 1200,
-        alto: 800,
-      },
+        alto: 800
+      }
     ],
-    aprox: [],
+    aprox: [
+      "autonomiaRealKm"
+    ],
     pros: [
-      "Horquilla delantera y control de tracción (TCS): el V40 definitivo",
+      "Horquilla delantera de 28 mm de recorrido y control de tracción TCS (se activa desde la app)",
       "Integración con Apple Find My para localizarlo desde el iPhone",
-      "Plegado DoubleFlip de manillar y mástil, muy compacto guardado",
-      "40 km declarados manteniendo los 17,7 kg del V40i Pro",
-      "Intermitentes E-Mark y pantalla suspendida de fácil lectura",
+      "Plegado DoubleFlip de manillar y mástil, que reduce su volumen un 66 % según Navee",
+      "40 km declarados a 15 km/h con 17,7 kg de peso y protección IPX5",
+      "Intermitentes y pantalla suspendida de 4\", fácil de leer al aire libre"
     ],
     contras: [
-      "Sin precio oficial confirmado en España",
-      "La autonomía real a 25 km/h ronda los 25 km, no los 40 declarados",
+      "Navee no publica precio para España en su web: el precio varía mucho según la tienda",
+      "Navee mide sus 40 km rodando a 15 km/h y con 75 kg encima; a 25 km/h la autonomía real es bastante menor",
       "El freno delantero de tambor es menos potente que un disco",
-      "Carga de 6 horas",
-      "Convive con el V40i Pro original y es fácil confundirlos al comprar",
+      "Carga completa en unas 6 horas",
+      "Convive con el V40i Pro original y con el V50i Pro II, que tiene 10,2 Ah en lugar de 7,65: es fácil confundirlos al comprar",
+      "Navee aconseja de 16 a 50 años, mientras que la normativa española exige 15 cumplidos",
+      "Navee recomienda 16 a 50 años; en España la edad mínima legal es 15 y el casco es obligatorio"
     ],
-    veredicto:
-      "El V40i Pro II pule la fórmula del V40i Pro con suspensión delantera, TCS y Find My sin subir de peso. Es el Navee de 40 km más completo; si lo encuentras al mismo precio que el Pro original, no hay duda.",
-    fuenteNombre: "NAVEE TECH (web oficial)",
-    fuenteUrl: "https://www.naveetech.com/navee-v40i-pro-ii/",
+    veredicto: "El V40i Pro II suma horquilla con suspensión, control de tracción y Find My a un patinete de 17,7 kg y 40 km declarados. Navee no publica precio en España, así que compáralo con el V50i Pro II, que añade batería por un peso casi igual.",
+    fuenteNombre: "NAVEE TECH: ficha oficial del V40i Pro II (versión europea)",
+    fuenteUrl: "https://www.naveetech.com/euro/navee-v40i-pro-ii/",
     mantenimientoDIY: {
       actualizacionFirmware: "A través de la app oficial NAVEE (iOS/Android)",
-      trucos: ["El TCS se activa desde la app; sin activarlo, el control de tracción no interviene"],
+      trucos: [
+        "El TCS se activa desde la app; sin activarlo, el control de tracción no interviene"
+      ]
     },
+    precioEur: null
   },
   {
     id: "navee-v50i-pro",
