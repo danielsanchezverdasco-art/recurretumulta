@@ -75,7 +75,7 @@ export const CIUDADES_MULTAS: Record<string, CiudadMultas> = {
   "san-sebastian": {
     altHero: "Recurrir multas de tráfico en San Sebastián: ZBE de Donostia, GI-20 y A-15",
     municipal: "Si la firma la Policía Municipal, se resuelve en el Ayuntamiento donostiarra.",
-    radaresIntro: INTRO_TRAFIKOA,
+    radaresIntro: "Cabinas fijas del listado de Trafikoa (Gobierno Vasco) en Donostia / San Sebastián y la de Villabona que figura con sentido Donostia:",
     radaresFuente: TRAFIKOA,
     radares: [
       { via: "GI-20-9-2-S", pk: "0,675", sentido: "Donostia", limite: "50", zona: "Carlos I" },
@@ -83,17 +83,17 @@ export const CIUDADES_MULTAS: Record<string, CiudadMultas> = {
       { via: "GI-20", pk: "4,200", sentido: "Behobia", limite: "100", zona: "Pasaia" },
       { via: "GI-20", pk: "8,100", sentido: "Bilbao", limite: "80", zona: "La Salle" },
       { via: "GI-20", pk: "10,800", sentido: "Bilbao", limite: "80", zona: "Túnel de Aiete" },
-      { via: "A-15", pk: "155,525", sentido: "Donostia", limite: "80", zona: "Billabona (enlace)" },
       { via: "GI-11", pk: "1,370", sentido: "Madrid", limite: "80", zona: "Usurbil" },
       { via: "GI-11", pk: "1,700", sentido: "Irun", limite: "80", zona: "Usurbil" },
       { via: "GI-636", pk: "1,220", sentido: "Irun", limite: "80", zona: "Túnel de Molinao" },
+      { via: "A-15", pk: "155,525", sentido: "Donostia", limite: "80", zona: "Curva de Billabona (Villabona)" },
     ],
     zbeNota: "La ZBE de Donostia-San Sebastián está activa las 24 horas del día (ordenanza publicada en el BOG nº 241 de 16/12/2024, verificada el 20/10/2026).",
     bloques: [
       {
         titulo: "Multas y ZBE en Donostia-San Sebastián",
         parrafos: [
-          "Donostia reparte sus sanciones entre dos administraciones. En la GI-20, la A-15 y los túneles de acceso, la Ertzaintza denuncia y Trafikoa instruye; dentro de las calles, la Policía Municipal denuncia y el Ayuntamiento resuelve. El listado oficial de Trafikoa recoge nueve cabinas fijas bajo el municipio de Donostia / San Sebastián, y una de ellas, la de Carlos I (GI-20-9-2-S, pk 0,675), tiene un límite de 50 km/h, muy inferior al de las circunvalaciones.",
+          "Donostia reparte sus sanciones entre dos administraciones. En la GI-20, la A-15 y los túneles de acceso, la Ertzaintza denuncia y Trafikoa instruye; dentro de las calles, la Policía Municipal denuncia y el Ayuntamiento resuelve. El listado oficial de Trafikoa recoge ocho cabinas fijas en el municipio de Donostia / San Sebastián, más la de Villabona (A-15, pk 155,525), que figura con sentido Donostia. Entre las ocho, la de Carlos I (GI-20-9-2-S, pk 0,675), tiene un límite de 50 km/h, muy inferior al de las circunvalaciones.",
           "La zona de bajas emisiones merece atención aparte. El trámite «Acceso a Zona de Bajas Emisiones (ZBE)» de la sede municipal obliga a los vehículos sin distintivo ambiental a presentar antes una declaración responsable, por internet con identificación electrónica (B@kQ) o en las oficinas Udalinfo. Según Diario Vasco, las sanciones se aplican desde el 14/03/2025 y son de 200 euros. Si te multan, comprueba si tu vehículo tenía esa declaración registrada antes de pasar.",
           "Los escritos contra una multa municipal se presentan con los trámites «Multas de tráfico. Alegaciones» y «Recursos de reposición a la sanción». Es posible hacerlo con certificado electrónico o en persona en la Oficina de Recaudación, calle Ijentea 1, 20003 Donostia. El pago reducido cierra el procedimiento administrativo y solo deja abierta la vía contencioso-administrativa.",
         ],
@@ -109,30 +109,12 @@ export const CIUDADES_MULTAS: Record<string, CiudadMultas> = {
   vitoria: {
     altHero: "Recurrir multas de tráfico en Vitoria-Gasteiz: ZBE del Casco Medieval y radares de Álava",
     municipal: "Cuando la denuncia viene de la Policía Local vitoriana, contesta el Ayuntamiento.",
-    radaresIntro: INTRO_TRAFIKOA,
+    radaresIntro: "Cabina de radar fija de Trafikoa (Gobierno Vasco) dentro del término municipal de Vitoria-Gasteiz:",
     radaresFuente: TRAFIKOA,
     radares: [
-      { via: "N-104", pk: "356,080", sentido: "Vitoria-Gasteiz", limite: "70", zona: "Arkaute" },
-      { via: "A-1", pk: "390,700", sentido: "Madrid", limite: "120", zona: "Egino (Asparrena)" },
-      { via: "AP-68", pk: "29,600", sentido: "Zaragoza", limite: "120", zona: "Ziorroga (Zuia)" },
-      { via: "AP-68", pk: "33,000", sentido: "Bilbao", limite: "120", zona: "Altube (Zuia)" },
-      { via: "AP-68", pk: "50,500", sentido: "Zaragoza", limite: "120", zona: "Subijana (Kuartango)" },
-      { via: "AP-68", pk: "51,800", sentido: "Zaragoza", limite: "100", zona: "Subijana (Kuartango)" },
-      { via: "AP-68", pk: "54,070", sentido: "Bilbao", limite: "100", zona: "Subijana (Ribera Alta)" },
-      { via: "AP-1", pk: "82,300", sentido: "Irun", limite: "80", zona: "Armiñón" },
-      { via: "A-625", pk: "365,000", sentido: "Vitoria-Gasteiz", limite: "70", zona: "Luiaondo (Aiara)" },
-      { via: "A-625", pk: "365,895", sentido: "Bilbao", limite: "70", zona: "Gardea (Laudio)" },
-      { via: "N-240", pk: "16,120", sentido: "Bilbao", limite: "60", zona: "Legutio" },
-      { via: "N-622", pk: "11,870", sentido: "Bilbao", limite: "100", zona: "Gopegi (Zigoitia)" },
-      { via: "N-622", pk: "12,200", sentido: "Vitoria-Gasteiz", limite: "100", zona: "Letona (Zigoitia)" },
-      { via: "N-622", pk: "15,400", sentido: "Vitoria-Gasteiz", limite: "120", zona: "Aiurdin (Zigoitia)" },
-      { via: "A-124", pk: "58,015", sentido: "Logroño", limite: "80", zona: "Leza" },
-      { via: "A-124", pk: "58,460", sentido: "Vitoria-Gasteiz", limite: "80", zona: "Leza" },
-      { via: "A-124", pk: "64,300", sentido: "Vitoria-Gasteiz", limite: "50", zona: "Laguardia" },
-      { via: "A-124", pk: "68,600", sentido: "Vitoria-Gasteiz", limite: "90", zona: "Laguardia" },
-      { via: "A-124", pk: "68,700", sentido: "Logroño", limite: "90", zona: "Laguardia" },
-      { via: "A-124", pk: "74,510", sentido: "Logroño", limite: "70", zona: "Laserna" },
+      { via: "N-104", pk: "356,080", sentido: "Vitoria-Gasteiz", limite: "70", zona: "Arkaute (concejo de Vitoria-Gasteiz)" },
     ],
+    radaresCercanos: "El resto de las cabinas alavesas de Trafikoa, como Altube, Egino y Subijana, están fuera del término municipal; se resumen en las preguntas frecuentes de esta misma ficha.",
     zbeNota: "La ZBE de Vitoria-Gasteiz está en vigor desde el 15/09/2025 y sanciona desde el 15/12/2025: 200 euros, o 100 con pago anticipado (web municipal, consultada el 31/10/2026).",
     bloques: [
       {
