@@ -4967,3 +4967,37 @@ Licencia desconocida; fotos reales del modelo exacto.
 
 <!-- cosecha: merlin-heroes-blog-lote06 — foto real verificada contra la imagen original de Wikimedia Commons (comparación visual) -->
 | /media/motos/kawasaki-vulcan-s-2024-ficha-tecnica-precio.webp | https://commons.wikimedia.org/wiki/File:Kawasaki_Vulcan_S_-_MRS_Oficina_-_Mondial_de_l%27Automobile_de_Paris_2018_-_001.jpg | Thesupermat · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/suzuki-v-strom-800de-2024-ficha-tecnica-precio.webp | https://commons.wikimedia.org/wiki/File:Suzuki_V-Strom_800DE_(3).jpg | GIM - Giri in Moto · Wikimedia Commons | CC BY 3.0 |
+| /media/motos/bmw-r-1300-gs-2024-ficha-tecnica-precio.webp | https://commons.wikimedia.org/wiki/File:BMW_R1300_GS_Option_719_Tramuntana.jpg | Corvettec6r · Wikimedia Commons | CC BY 4.0 |
+| /media/motos/bmw-r-18-2024-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:BMW_R18_2025.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/bmw-r-12-2024-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:BMW_R12_2024.jpg | Franken-Guzzista · Wikimedia Commons | CC0 |
+| /media/motos/moto-guzzi-v9-bobber-2024-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Moto_Guzzi_V9_Bobber.jpg | Corvettec6r · Wikimedia Commons | CC BY 4.0 |
+| /media/motos/bimota-tesi-h2-2024-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Bimota_Tesi_H2_(2020).jpg | Matthb1395 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/lambretta-elettra-s-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Lambretta_Elettra_S.jpg | MotorideSA · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/suzuki-burgman-400-2025-ficha-tecnica-precio-hero.webp | https://commons.wikimedia.org/wiki/File:Suzuki_Burgman_400_2025.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/ktm-790-duke-2025-ficha-tecnica-precio-hero.webp | https://commons.wikimedia.org/wiki/File:KTM_790_Duke_(1).jpg | Cjp24 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/ktm-790-adventure-2025-ficha-tecnica-precio-hero.webp | https://commons.wikimedia.org/wiki/File:KTM_790_Adventure,_topcase.jpg | Cjp24 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/ducati-panigale-v4-s-2025-ficha-tecnica-precio-hero.webp | https://commons.wikimedia.org/wiki/File:Ducati_Panigale_V4_S_Corse.jpg | TaurusEmerald · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/bmw-ce-04-2025-ficha-tecnica-precio-hero.webp | https://commons.wikimedia.org/wiki/File:2024-06_BMW_CE_04.jpg | Wikisympathisant · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/ducati-diavel-v4-2025-ficha-tecnica-precio-hero.webp | https://commons.wikimedia.org/wiki/File:Ducati_Diavel_V4.jpg | XDVRACE · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/triumph-street-triple-765-2025-ficha-tecnica-precio-hero.webp | https://commons.wikimedia.org/wiki/File:Triumph_Street_Triple_765_RS_(2022).jpg | Darktiger0512 · Wikimedia Commons | CC BY 4.0 |
+| /media/motos/triumph-scrambler-900-2025-ficha-tecnica-precio-hero.webp | https://commons.wikimedia.org/wiki/File:Triumph_Scrambler_900_2026.jpg | MotorideSA · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/royal-enfield-continental-gt-650-2025-ficha-tecnica-precio-hero.webp | https://commons.wikimedia.org/wiki/File:Royal_Enfield_Continental_GT_650.jpg | Kiranpawar3210 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/royal-enfield-super-meteor-650-2025-ficha-tecnica-precio-hero.webp | https://commons.wikimedia.org/wiki/File:Royal_Enfield_Super_Meteor_650_(02).jpg | iMahesh · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/royal-enfield-interceptor-650-2025-ficha-tecnica-precio-hero.webp | https://commons.wikimedia.org/wiki/File:Wien_Royal_Enfield_Interceptor_650.jpg | Andrzej Otrębski · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/royal-enfield-himalayan-450-2026-ficha-tecnica-precio-hero.webp | https://commons.wikimedia.org/wiki/File:Royal_Enfield_Himalayan_450_Mana_Black.jpg | MotorideSA · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/royal-enfield-himalayan-450-2024-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Royal-Enfield-Himalayan-450.jpg | Rouv1505 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/vespa-gts-310-2026-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Vespa_GTS_310_2025.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/swm-superdual-650-2025-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:SWM_Superdual_650_2025.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/bmw-k-1600-gtl-2025-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:BMW_K_1600_GTL,_white.jpg | Cjp24 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/silence-s01-plus-2026-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Silence_S01_-_Seat_M%C3%B3.jpg | Herodotptlomeu · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/ducati-monster-2025-ficha-tecnica-precio-hero.webp | https://commons.wikimedia.org/wiki/File:Monster%2B_937_a.jpg | AnotherLocalAuthor · Wikimedia Commons | CC0 |
+| /media/motos/ducati-scrambler-icon-800-2025-ficha-tecnica-precio-hero.webp | https://commons.wikimedia.org/wiki/File:Ducati_Scrambler_800_Icon.jpg | MotorideSA · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/wottan-rebbe-401-2025-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Wottan_Rebbe_2025.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/benelli-trk-502x-2024-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Benelli_TRK_502X_-_groc.jpg | Herodotptlomeu · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/moto-morini-calibro-700-2024-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Moto_Morini_Calibro_2026.jpg | MotorideSA · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/indian-chieftain-powerplus-dark-horse-2025-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Indian_Chieftain_parked_at_Hogs_for_Hospice,_Leamington,_Ontario,_2025-08-02.jpg | Chris Woodrich · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/zero-fxe-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Zero,_BAS_24,_Brussels_(P1170326-RR).jpg | Matti Blume · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/vespa-primavera-elettrica-70-2025-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Vespa_RED_Elettrica_2025_Eicma_2024.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/ktm-390-adventure-r-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Ktm-390-adventure-2024.png | KTM AG · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/royal-enfield-classic-650-2026-ficha-tecnica-precio-hero.webp | https://commons.wikimedia.org/wiki/File:Royal_Enfield_(39759).jpg | Al*from*Lig · Wikimedia Commons | CC BY-SA 4.0 |
