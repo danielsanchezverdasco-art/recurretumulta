@@ -51,3 +51,7 @@ print(f"[postfix] hrefs con barra/arreglados: {cambios}; sitemap: {len(ok)} URLs
 import runpy as _rp; sys.argv=[sys.argv[0],D]; _rp.run_path(os.path.join(os.path.dirname(os.path.abspath(__file__)),"fix-enlaces-301.py"),run_name="__main__")
 # 18/10/2026: una sola copia del <style> de sonner por página (dedupe-estilos.py).
 _rp.run_path(os.path.join(os.path.dirname(os.path.abspath(__file__)),"dedupe-estilos.py"),run_name="__main__")
+
+# 31/10/2026: quitar referencias a /media/ inexistentes (404 en vivo, no en dist)
+import subprocess
+subprocess.run([sys.executable, os.path.join(os.path.dirname(os.path.abspath(__file__)), "fix-media-rotas.py"), D], check=False)
