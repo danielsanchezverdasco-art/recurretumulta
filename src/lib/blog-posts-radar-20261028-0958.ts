@@ -7,7 +7,7 @@
 //   CET, sobre el lanzamiento en China de la tercera generación.
 //   Datos usados solo de esa fuente: 4.840 x 1.900 x 1.498 mm, batalla
 //   2.800 mm, motor 1.5 de unos 100 CV + eléctrico de 163 CV (BYD no ha
-//   comunicado potencia combinada), baterías LFP de 16,2 y 24,3 kWh,
+//   comunicado potencia combinada), dos baterías LFP (16,2 y 24,3 kWh),
 //   140 y 220 km eléctricos CLTC, 2.290 km combinados, consumo de
 //   2,58 l/100 km con la batería descargada, recarga del 30 al 80 % en
 //   un mínimo de 20 minutos, y precios en China de 79.900, 90.900 y
@@ -45,7 +45,7 @@ export const RADAR_20261028_0958_POSTS: BlogPost[] = [
 
 *El nuevo Qin Plus DM-i de tercera generación, en el azul Island Blue que estrena la gama. Es más largo, más ancho y con más batalla que el modelo al que sustituye, y su silueta tiende al fastback. Foto de prensa del modelo exacto, difundida con el lanzamiento en China.*
 
-Hay coches que se venden por la etiqueta y otros que se venden por la calculadora. El BYD Qin Plus DM-i pertenece, desde hace años, al segundo grupo, y su tercera generación, que acaba de salir a la venta en China, sube la apuesta en los dos frentes que de verdad importan a quien hace muchos kilómetros: cuesta menos que cualquier berlina de su tamaño y promete recorrer 2.290 kilómetros sin repostar ni enchufar. El precio de partida es de 79.900 yuanes, unos 10.735 euros al cambio que publica la prensa española, y la versión de acceso ya anuncia 140 kilómetros en modo eléctrico. No es un coche que vayas a ver mañana en un concesionario español, porque BYD no ha anunciado su llegada a Europa, pero sí es el termómetro más claro de hasta dónde ha llegado la hibridación enchufable barata en China. Si quieres los números secos, están en la <a href=/coches/byd-qin-plus-dm-i-2026-precio-ficha-tecnica/>ficha técnica del nuevo Qin Plus DM-i 2026</a>; este artículo explica qué cambia de verdad, qué sigue siendo una incógnita y por qué un coche que no se vende aquí interesa tanto a quien sí compra en España.
+Hay coches que se venden por la etiqueta y otros que se venden por la calculadora. El BYD Qin Plus DM-i pertenece, desde hace años, al segundo grupo, y su tercera generación, recién puesta a la venta en China, sube la apuesta en los dos frentes que de verdad importan a quien hace muchos kilómetros: cuesta menos que cualquier berlina de su tamaño y promete recorrer 2.290 kilómetros sin repostar ni enchufar. El precio de partida es de 79.900 yuanes, unos 10.735 euros al cambio que publica la prensa española, y la versión de acceso ya anuncia 140 kilómetros en modo eléctrico. No es un coche que vayas a ver mañana en un concesionario español, porque la marca no ha anunciado que vaya a venderlo en Europa, pero sí es el termómetro más claro de hasta dónde ha llegado la hibridación enchufable barata en China. Si quieres los números secos, están en la <a href=/coches/byd-qin-plus-dm-i-2026-precio-ficha-tecnica/>ficha técnica del nuevo Qin Plus DM-i 2026</a>; este artículo explica qué cambia de verdad, qué sigue siendo una incógnita y por qué un coche que no se vende aquí interesa tanto a quien sí compra en España.
 
 ## Ficha técnica resumida: BYD Qin Plus DM-i 2026
 
@@ -60,7 +60,7 @@ Hay coches que se venden por la etiqueta y otros que se venden por la calculador
 | **Baterías LFP** | 16,2 kWh (140 km CLTC) o 24,3 kWh (220 km CLTC) |
 | **Autonomía total combinada** | 2.290 km |
 | **Consumo con batería descargada** | 2,58 l/100 km (dato BYD) |
-| **Recarga del 30 al 80 %** | En un mínimo de 20 minutos |
+| **Recarga (30-80 %)** | Desde 20 minutos |
 | **Plazas** | 5 |
 | **Venta en España o Europa** | No anunciada |
 
@@ -78,13 +78,13 @@ En tecnología, el protagonista es el sistema multimedia DiLink 150, acompañado
 
 <img src=/media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-interior.webp alt=Interior del BYD Qin Plus DM-i 2026, salpicadero claro con pantalla central y volante de dos radios>
 
-*El interior apuesta por líneas sencillas, instrumentación digital de 8,8 pulgadas y pantalla central de hasta 12,8 pulgadas. La foto muestra el habitáculo de la nueva generación, no el del modelo anterior.*
+*El interior apuesta por líneas sencillas, cuadro digital de 8,8" y pantalla central que llega a 12,8". La foto muestra el habitáculo de la nueva generación, no el del modelo anterior.*
 
 ## La mecánica: quinta generación del sistema DM-i, sin cifra combinada
 
 El sistema híbrido enchufable es la quinta evolución de la tecnología DM-i de BYD, la misma familia que ya conocemos de otros modelos de la marca. Combina un motor de gasolina de 1.5 litros, con una potencia máxima de unos 100 CV, y un propulsor eléctrico de 163 CV. Aquí hay que ser precisos, porque es fácil caer en el error: BYD no ha comunicado una cifra de potencia conjunta del sistema para esta generación, así que este artículo no da un total combinado. Quien busque un único número de caballos tendrá que esperar a que la marca lo publique o a que las fichas chinas lo detallen; lo que sí está confirmado son las dos potencias por separado y el funcionamiento que ya conocemos del DM-i, que en ciudad tira de electricidad y en carretera combina ambos motores con un consumo mínimo.
 
-La gran novedad está en las baterías, ambas de química LFP, la tecnología Blade que BYD ha convertido en su seña de identidad por durabilidad y coste. La versión de acceso monta una unidad de 16,2 kWh que permite recorrer hasta 140 kilómetros en modo eléctrico, mientras que las dos variantes superiores incorporan una batería de 24,3 kWh con la que la autonomía eléctrica sube hasta los 220 kilómetros. Las dos cifras son según el ciclo CLTC chino, más optimista que el WLTP europeo, así que no se pueden trasladar tal cual a una homologación española: en WLTP serían sensiblemente menores, aunque BYD no ha publicado equivalencias. BYD también anuncia una recarga del 30 al 80 % en un mínimo de 20 minutos, sin publicar la potencia de carga en kilovatios, otro dato que queda pendiente.
+La gran novedad está en las baterías, ambas de química LFP, la tecnología Blade que BYD ha convertido en su seña de identidad por durabilidad y coste. La versión de acceso monta una unidad de 16,2 kWh que permite recorrer hasta 140 kilómetros en modo eléctrico, mientras que las dos variantes superiores incorporan una batería de 24,3 kWh con la que la autonomía eléctrica sube hasta los 220 kilómetros. Las dos cifras son según el ciclo CLTC chino, más generoso que el WLTP europeo, por lo que no valen sin más como homologación española: en WLTP serían sensiblemente menores, aunque BYD no ha publicado equivalencias. BYD también anuncia que la batería pasa del 30 al 80 % en 20 minutos como mínimo, sin publicar la potencia de carga en kilovatios, otro dato que queda pendiente.
 
 Y luego está la cifra que da título a este artículo: 2.290 kilómetros de autonomía combinada con la batería completamente cargada y el depósito de combustible lleno. Es una cifra CLTC y de uso combinado, no una promesa de hacer Madrid-Barcelona-Madrid sin parar en condiciones reales, pero marca el salto respecto a la generación anterior, que en nuestra <a href=/coches/byd-qin-plus-dm-i-2025-precio-ficha-tecnica/>ficha del Qin Plus DM-i 2025</a> anunciaba 1.245 kilómetros totales. El consumo de gasolina declarado con la batería descargada es de 2,58 litros cada 100 kilómetros, una cifra que, de confirmarse en uso real, dejaría al Qin Plus entre los híbridos enchufables más eficientes del mercado chino.
 
@@ -104,27 +104,27 @@ Conviene leer estos precios con la prudencia que merecen: son precios chinos, si
 
 El lanzamiento llega en un momento delicado para la familia Qin. Según Híbridos y Eléctricos, las ventas de la familia han caído un 54,71 % durante el presente 2026, así que la responsabilidad de esta tercera generación es doble: recuperar volumen y demostrar que el Qin Plus sigue siendo la puerta de entrada a la hibridación enchufable de BYD. El contexto chino ayuda a entenderlo: la competencia interna es feroz, con marcas que lanzan modelos nuevos cada pocos meses, y un modelo que no se renueva pierde fuelle en cuestión de trimestres. La respuesta de BYD es crecer en tamaño, en batería y en autonomía sin subir el precio de acceso, que se mantiene en el entorno de los 80.000 yuanes.
 
-Para España, la lectura es indirecta pero útil. BYD sí vende aquí berlinas híbridas enchufables, y la más cercana en concepto es el <a href=/coches/byd-seal-6-dm-i-2025-precio-ficha-tecnica/>BYD Seal 6 DM-i</a>, la berlina que la marca trae a Europa con el mismo sistema DM-i adaptado a nuestro mercado, con homologación WLTP, garantía europea y red de servicio. Si el Qin Plus de tercera generación llegara algún día a Europa, probablemente lo haría con otro nombre o como parte de otra gama, como ya ocurrió con otros modelos chinos de BYD, y con un precio muy superior al chino. Por ahora, BYD no ha anunciado planes en ese sentido, ni para España ni para el resto de Europa, y este artículo no especula con fechas: cuando haya un anuncio oficial, lo contaremos y actualizaremos la ficha.
+Para España, la lectura es indirecta pero útil. BYD sí vende aquí berlinas híbridas enchufables, y la más parecida en concepto es el <a href=/coches/byd-seal-6-dm-i-2025-precio-ficha-tecnica/>BYD Seal 6 DM-i</a>, la berlina que la marca trae a Europa con el mismo sistema DM-i adaptado a nuestro mercado, con homologación WLTP, garantía europea y red de servicio. Si el Qin Plus de tercera generación llegara algún día a Europa, probablemente lo haría con otro nombre o como parte de otra gama, como ya ocurrió con otros modelos chinos de BYD, y con un precio muy superior al chino. Por ahora, BYD no ha anunciado planes en ese sentido, ni para España ni para el resto de Europa, y este artículo no especula con fechas: cuando haya un anuncio oficial, lo contaremos y actualizaremos la ficha.
 
 <img src=/media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-oficial.webp alt=BYD Qin Plus DM-i 2026 azul, vista trasera tres cuartos con pilotos unidos por franja luminosa>
 
 *La trasera conserva la franja luminosa continua de la familia Qin, inspirada en los nudos chinos, y añade una caída de techo más dinámica que la generación anterior.*
 
-## Qué cambia respecto al Qin Plus DM-i 2025
+## Diferencias con el Qin Plus DM-i 2025
 
-La comparación con la generación anterior, que ya tiene ficha y artículo en esta web, deja claro que no estamos ante un simple lavado de cara. La longitud pasa de 4.765 a 4.840 milímetros, la anchura de 1.837 a 1.900 y la altura de 1.495 a 1.498, con 82 milímetros más de batalla. La batería de acceso crece y, sobre todo, aparece una batería grande de 24,3 kWh con 220 kilómetros eléctricos CLTC, frente a los 55 kilómetros eléctricos que anunciaba la generación anterior en nuestra ficha. La autonomía total combinada pasa de 1.245 a 2.290 kilómetros, aunque hay que recordar que las dos cifras no son directamente comparables sin conocer los ciclos exactos de cada homologación, y que la cifra nueva es CLTC.
+La comparación con la generación anterior, con ficha y artículo propios en esta web, deja claro que no estamos ante un simple lavado de cara. La longitud pasa de 4.765 a 4.840 milímetros, la anchura de 1.837 a 1.900 y la altura de 1.495 a 1.498, con 82 milímetros más de batalla. La batería de acceso crece y, sobre todo, aparece una batería grande de 24,3 kWh con 220 kilómetros eléctricos CLTC, frente a los 55 kilómetros eléctricos que anunciaba la generación anterior en nuestra ficha. La autonomía total combinada pasa de 1.245 a 2.290 kilómetros, aunque hay que recordar que las dos cifras no son directamente comparables sin conocer los ciclos exactos de cada homologación, y que la cifra nueva es CLTC.
 
-También cambia el planteamiento interior, con el sistema DiLink 150 y una instrumentación digital de 8,8 pulgadas, y el diseño exterior, con el lenguaje Dynasty más reciente y el color Island Blue. Lo que no cambia es la idea de fondo: una berlina familiar híbrida enchufable, con etiqueta que en España sería Cero si se vendiera aquí, pensada para quien hace mucha ciudad en eléctrico y viajes largos sin pensar en dónde cargar. Esa idea, a precio de utilitario en China, es la que ha convertido al Qin Plus en uno de los coches más vendidos de su país, y la que explica que cada generación suya se siga con atención fuera de China.
+También cambia el planteamiento interior, con el sistema DiLink 150 y un cuadro digital de 8,8 pulgadas, y el diseño exterior, con la última versión del lenguaje Dynasty y el color Island Blue. Lo que no cambia es la idea de fondo: una berlina familiar híbrida enchufable, con etiqueta que en España sería Cero si se vendiera aquí, pensada para quien hace mucha ciudad en eléctrico y viajes largos sin pensar en dónde cargar. Esa idea, a precio de utilitario en China, es la que ha convertido al Qin Plus en uno de los coches más vendidos de su país, y la que explica que cada generación suya se siga con atención fuera de China.
 
-## Mantenimiento y garantía: lo que se sabe y lo que no
+## Mantenimiento y garantía: datos confirmados y huecos
 
-Como modelo que no se vende en Europa, el Qin Plus DM-i 2026 no tiene un plan de mantenimiento oficial publicado para España, ni una garantía europea que trasladar. La ficha de esta web recoge un plan orientativo basado en la generación anterior de la misma familia DM-i, con revisiones anuales, y lo marca como orientativo precisamente porque BYD no ha publicado el plan específico de la tercera generación en las fuentes consultadas. Tampoco se publica una garantía de batería específica para esta generación en China: la garantía de 8 años o 200.000 kilómetros que BYD ofrece en Europa para sus eléctricos es una referencia de la marca en nuestro mercado, no una cifra de este modelo chino, y por eso no se presenta como tal.
+Como modelo que no se vende en Europa, el Qin Plus DM-i 2026 no tiene un plan de mantenimiento oficial publicado para España, ni una garantía europea que trasladar. La ficha de esta web recoge un plan orientativo basado en la generación anterior de la misma familia DM-i, con revisiones anuales, y lo marca como orientativo precisamente porque, en las fuentes consultadas, BYD no ofrece el plan propio de la tercera generación. Tampoco se publica una garantía de batería específica para esta generación en China: la garantía de 8 años o 200.000 kilómetros que BYD ofrece en Europa para sus eléctricos es una referencia de la marca en nuestro mercado, no una cifra de este modelo chino, y por eso no se presenta como tal.
 
 Lo mismo ocurre con la seguridad: el Qin Plus DM-i no tiene prueba EuroNCAP publicada, porque EuroNCAP prueba modelos que se venden en Europa, y este no es el caso. La ficha lo dice así, sin estrellas y sin nota inventada. Si BYD decidiera traer esta generación a Europa, la homologación WLTP, la prueba de choque y la garantía europea serían los tres trámites que habría que esperar antes de hablar de precio español, y ninguno de ellos está anunciado.
 
 ## Lo bueno y lo mejorable
 
-**Nos encanta:** los 2.290 kilómetros de autonomía total y los 220 kilómetros eléctricos de las versiones altas, por un precio de acceso de unos 10.735 euros en China; el salto de tamaño, con 4,84 metros y 2,80 metros de batalla; la batería LFP Blade en dos tamaños, con recarga del 30 al 80 % en un mínimo de 20 minutos; y el consumo declarado de 2,58 litros con la batería descargada, que si se confirma en uso real es de referencia.
+**Nos encanta:** los 2.290 kilómetros de autonomía total y los 220 kilómetros eléctricos de las versiones altas, por un precio de acceso de unos 10.735 euros en China; el salto de tamaño, con 4,84 metros y 2,80 metros de batalla; la batería LFP Blade en dos tamaños, con una recarga 30-80 % que tarda 20 minutos como mínimo; y el consumo declarado de 2,58 litros con la batería descargada, que si se confirma en uso real es de referencia.
 
 **Mejoraría:** que BYD no haya comunicado la potencia combinada del sistema, ni el 0-100, ni la velocidad máxima, ni el maletero, ni la potencia de carga en kilovatios de esta generación; que las autonomías eléctricas sean CLTC y no WLTP, sin equivalencia oficial; que no haya planes anunciados para España ni Europa, así que el precio en euros es solo una conversión y no un precio de venta; y que no exista prueba EuroNCAP ni garantía europea para este modelo.
 
@@ -138,17 +138,17 @@ Desde 79.900 yuanes en China, unos 10.735 euros al cambio, en la versión Leadin
 
 Hasta 140 kilómetros en modo eléctrico con la batería de 16,2 kWh y hasta 220 kilómetros con la de 24,3 kWh, ambas en ciclo chino CLTC. La autonomía total combinada, con batería cargada y depósito lleno, es de 2.290 kilómetros según BYD.
 
-### ¿Cuántos caballos tiene el Qin Plus DM-i 2026?
+### ¿Qué potencia tiene el Qin Plus DM-i 2026?
 
 El motor de gasolina de 1.5 litros ronda los 100 CV y el eléctrico entrega 163 CV. BYD no ha comunicado la potencia combinada del sistema para esta generación, así que no damos un total que la marca no haya publicado.
 
 ### ¿Se vende el Qin Plus DM-i 2026 en España?
 
-No. BYD no ha anunciado planes para comercializar esta tercera generación en España ni en el resto de Europa. En España, la berlina híbrida enchufable equivalente de BYD es el Seal 6 DM-i.
+No. BYD no ha anunciado planes para comercializar esta tercera generación ni en España ni en el resto de Europa. Aquí, la berlina híbrida enchufable equivalente de BYD es el Seal 6 DM-i.
 
-### ¿Qué cambia respecto al Qin Plus DM-i anterior?
+### ¿En qué mejora al Qin Plus DM-i anterior?
 
-Crece en todas las medidas (4.840 mm de largo, 1.900 de ancho, 2.800 mm de batalla), estrena el diseño Dynasty más reciente y el color Island Blue, monta baterías LFP de 16,2 y 24,3 kWh con hasta 220 km eléctricos CLTC, y anuncia 2.290 km de autonomía total, frente a los 1.245 km de la generación anterior.
+Crece en todas las medidas (4.840 mm de largo, 1.900 de ancho, 2.800 mm de batalla), estrena la última versión del diseño Dynasty y el azul Island Blue, monta dos baterías LFP, de 16,2 y de 24,3 kWh, con un máximo de 220 km eléctricos CLTC, y anuncia 2.290 km de autonomía total, frente a los 1.245 km de la generación anterior.
 
 ### ¿Tiene prueba EuroNCAP el Qin Plus DM-i 2026?
 
@@ -156,6 +156,6 @@ No. Al no venderse en Europa, no hay prueba EuroNCAP publicada para este modelo,
 
 **¿Te han puesto una multa?** Antes de pagarla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 
-*Fuentes: <a href=https://www.hibridosyelectricos.com/coches/por-10735-byd-vuelve-romper-precios-lanza-berlina-hibrida-48-metros-2290-km-autonomia-258-l-100-km_90180_102.html>Híbridos y Eléctricos (lanzamiento en China, 28/10/2026)</a>, <a href=https://www.byd.com>BYD</a>.*`,
+*Fuentes: <a href=https://www.hibridosyelectricos.com/coches/por-10735-byd-vuelve-romper-precios-lanza-berlina-hibrida-48-metros-2290-km-autonomia-258-l-100-km_90180_102.html>Híbridos y Eléctricos, artículo del 28/10/2026 sobre el lanzamiento en China</a>, <a href=https://www.byd.com>BYD</a>.*`,
   },
 ];
