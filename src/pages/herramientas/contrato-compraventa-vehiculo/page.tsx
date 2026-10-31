@@ -283,6 +283,35 @@ export default function ContratoCompraventaPage() {
           </div>
         </section>
 
+        <section className="bg-white rounded-3xl border border-slate-200 p-6 sm:p-8 contrato-no-print space-y-4">
+          <h2 className="text-2xl font-bold">Qué exige Tráfico después de firmar el contrato</h2>
+          <p className="text-slate-600">El contrato solo es la primera parte de la compraventa. Según la sede electrónica de la DGT, quien compra tiene un máximo de 30 días desde la firma para inscribir el cambio de titularidad, y el nuevo permiso de circulación solo será válido si el coche tiene la ITV en vigor. Quien vende debe hacer la notificación de venta nada más cerrar la operación: es lo que le libera de las sanciones que lleguen a su nombre mientras el comprador no haya completado el trámite.</p>
+
+          <h3 className="text-lg font-bold">Costes oficiales del trámite</h3>
+          <div className="overflow-x-auto rounded-xl border border-slate-200">
+            <table className="w-full text-sm">
+              <thead className="bg-slate-50 text-left text-slate-700"><tr><th className="px-3 py-2">Concepto</th><th className="px-3 py-2">Tasa DGT</th><th className="px-3 py-2">Importe</th></tr></thead>
+              <tbody className="text-slate-600">
+                <tr className="border-t border-slate-100"><td className="px-3 py-2">Transferencia ordinaria de un turismo</td><td className="px-3 py-2">1.5</td><td className="px-3 py-2">55,70 €</td></tr>
+                <tr className="border-t border-slate-100"><td className="px-3 py-2">Transferencia de un ciclomotor</td><td className="px-3 py-2">1.2</td><td className="px-3 py-2">27,85 €</td></tr>
+                <tr className="border-t border-slate-100"><td className="px-3 py-2">Informe detallado del vehículo antes de comprar</td><td className="px-3 py-2">4.1</td><td className="px-3 py-2">8,67 €</td></tr>
+                <tr className="border-t border-slate-100"><td className="px-3 py-2">Transferencia por fusión, escisión o aportación no dineraria</td><td className="px-3 py-2">1.6</td><td className="px-3 py-2">9,89 €</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <p className="text-slate-600">A esas tasas se suma el Impuesto de Transmisiones Patrimoniales, que se liquida en la comunidad autónoma del comprador con el modelo 620 o 621. Cuando el vendedor es un empresario que actúa como tal, no se presenta ese modelo y se aporta la factura. Si el coche se regala en lugar de venderse, el impuesto que se justifica es el de Sucesiones y Donaciones y el documento debe decir que es una donación.</p>
+
+          <h3 className="text-lg font-bold">Comprobaciones previas que pide la DGT</h3>
+          <ul className="list-disc pl-5 space-y-2 text-slate-600">
+            <li>El vehículo debe estar de alta, con el impuesto de circulación del año anterior pagado y sin sanciones pendientes.</li>
+            <li>Una reserva de dominio, normalmente por compra a plazos, impide tanto la transferencia como la notificación de venta hasta que se cancele en el Registro de Bienes Muebles o el comprador asuma la deuda.</li>
+            <li>Si hay embargo o precinto, la operación es posible si el comprador firma que lo conoce o si el contrato lo recoge, pero con precinto no se emite el permiso de circulación.</li>
+            <li>El contrato debe ir firmado en cada una de sus hojas por ambas partes, y la DGT recomienda indicar la hora exacta de la entrega y guardar fotocopia del DNI del vendedor.</li>
+          </ul>
+          <p className="text-slate-600">Un informe reducido del vehículo muestra con un semáforo si se puede transferir: verde si no hay obstáculos y rojo o naranja si el informe detallado debe aclarar algún impedimento. Antes de entregar la señal conviene mirarlo, porque las sanciones pendientes y los impagos de impuestos locales bloquean el trámite.</p>
+          <p className="text-xs text-slate-500">Fuente: <a className="underline" href="https://sede.dgt.gob.es/es/vehiculos/transferencias-de-vehiculos/index.html" target="_blank" rel="noopener noreferrer">sede electrónica de la DGT, Transferencia o cambio de titularidad de un vehículo</a>, importes consultados el 31/10/2026. Las tasas se actualizan cada año; comprueba el importe vigente en la sede antes de pagar. Redacción: Equipo editorial de RecurreTuMulta.</p>
+        </section>
+
         <div className="bg-slate-900 text-white rounded-3xl p-8 text-center contrato-no-print">
           <h2 className="text-2xl font-bold mb-3">¿Te ha llegado una multa?</h2>
           <p className="text-slate-300 mb-6">Analízala gratis con nuestra IA y descubre si tiene defectos recurribles.</p>
