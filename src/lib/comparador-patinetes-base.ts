@@ -1094,49 +1094,116 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie A Connected",
-    precioEur: 299,
+    precioEur: 449,
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 25,
     autonomiaRealKm: 17,
     velocidadMaxKmh: 25,
-    pesoKg: 14,
-    cargaMaxKg: 100,
+    pesoKg: 13.4,
+    cargaMaxKg: 120,
     tiempoCargaH: 4.5,
     bateriaWh: 230,
-    frenos: "Disco + eléctrico + manual trasero",
-    neumaticos: '8,5" tubeless',
+    frenos: "Freno eléctrico delantero + disco trasero + freno de pie (triple sistema)",
+    neumaticos: "Neumáticos sin cámara (tubeless) de 8,5\"",
     certificadoDgt: null,
-    foto: "/media/patinetes/cecotec-bongo-serie-a-connected.webp",
-    galeria: [
-      {
-        src: "/media/patinetes/cecotec-bongo-serie-a-connected-2.webp",
-        alt: "Cecotec Bongo Serie A Connected, vista adicional (foto oficial)",
-        ancho: 1200,
-        alto: 675,
-      },
-      {
-        src: "/media/patinetes/cecotec-bongo-serie-a-connected-3.webp",
-        alt: "Cecotec Bongo Serie A Connected, detalle (foto oficial)",
-        ancho: 1200,
-        alto: 675,
-      },
+    foto: "/media/patinetes/cecotec-bongo-serie-a-connected-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm",
+      "bateriaWh"
     ],
-    aprox: ["autonomiaRealKm", "cargaMaxKg", "bateriaWh"],
     pros: [
-      "Unos 299 €: el más barato del comparativo con marca española detrás",
-      "Batería extraíble e intercambiable: la forma más barata de ampliar autonomía",
-      "~14 kg y triple freno: práctico para ciudad y fácil de transportar",
+      "Batería extraíble e intercambiable en el mástil: puedes cargarla fuera del patinete o llevar una de repuesto",
+      "Motor de 350 W nominales y 700 W de pico, con pendiente máxima declarada del 10 %",
+      "Triple sistema de frenado: freno eléctrico delantero, disco trasero y freno de pie",
+      "Neumáticos sin cámara de 8,5\" y app por Bluetooth para bloquear el patinete y ver los km",
+      "Soporta hasta 120 kg y tiene tres modos: Eco (18 km/h), Confort (22 km/h) y Sport (25 km/h)"
     ],
     contras: [
-      "Autonomía base de solo 25 km: corta para desplazamientos largos",
-      "350 W nominales: justo en cuestas pronunciadas",
-      'Ruedas de 8,5" sin suspensión: incómodo en asfalto en mal estado',
+      "Cecotec lo muestra como «Agotado» en su web a fecha 31/10/2026",
+      "Autonomía de 25 km medida en modo Eco a 18 km/h con 60-80 kg: en uso real será menos (Xataka midió entre 15 y 20 km)",
+      "230 Wh de batería (36 V × 6,4 Ah): corto para trayectos largos",
+      "Sin suspensión y con protección IPX4 (salpicaduras)",
+      "Con el RD 518/2026, casco obligatorio y 15 años de edad mínima"
     ],
-    veredicto:
-      "El superventas de entrada de Cecotec: barato, ligero y con batería intercambiable, pero con autonomía y potencia justas para ciudad llana.",
-    fuenteNombre: "PcComponentes (retailer español)",
-    fuenteUrl: "https://www.pccomponentes.com/cecotec-bongo-serie-a-patinete-electrico",
+    veredicto: "El Bongo Serie A Connected cuesta 449 € en la web de Cecotec y destaca por su batería extraíble y su app, con 350 W y 25 km/h. Su autonomía real ronda los 15-20 km y ahora mismo figura agotado en la web oficial.",
+    fuenteNombre: "Cecotec: ficha de producto y PDF técnico oficial del Bongo Serie A Connected (ref. 07026)",
+    fuenteUrl: "https://cecotec.es/es/patinetes-electricos/bongo-serie-a-connected",
+    fuentesExtra: [
+      {
+        "nombre": "Cecotec España: ficha del Bongo Serie A Connected (449 €, 350 W nominales y 700 W de pico, 120 kg, IPX4, pendiente del 10 %, 3 años de garantía; «Agotado» el 31/10/2026)",
+        "url": "https://cecotec.es/es/patinetes-electricos/bongo-serie-a-connected",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "Cecotec: PDF técnico oficial (ref. 7026): 6,4 Ah a 36 V, carga de 4-5 h, modos Eco 18 / Confort 22 / Sport 25 km/h, 13,4 kg sin caja",
+        "url": "https://cdn.cecotec.cloud/media/files/bongo-serie-a-connected_technical_specs_es.pdf",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "Xataka: análisis independiente (más de 15 km en el modo más exigente y más de 20 km conduciendo con eficiencia)",
+        "url": "https://www.xataka.com/analisis/cecotec-bongo-serie-a-connected-analisis-caracteristicas-precio-especificaciones",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "cecotec-bongo-serie-a",
+        "nombre": "Cecotec Bongo Serie A",
+        "precioEur": 299,
+        "autonomiaKm": 25,
+        "potenciaW": 350,
+        "pesoKg": 13.5,
+        "nota": "El Serie A sin app; 13,5 kg en la ficha de este comparador"
+      },
+      {
+        "id": "xiaomi-electric-scooter-4-lite",
+        "nombre": "Xiaomi Electric Scooter 4 Lite (2.ª Gen)",
+        "precioEur": 299.99,
+        "autonomiaKm": 25,
+        "potenciaW": 300,
+        "pesoKg": 16.2,
+        "nota": "300 W y 16,2 kg; precio de un comercio, no oficial"
+      },
+      {
+        "id": "segway-ninebot-e25e",
+        "nombre": "Segway Ninebot E25E",
+        "precioEur": null,
+        "autonomiaKm": 25,
+        "potenciaW": 300,
+        "pesoKg": 14.3,
+        "nota": "300 W nominales; ficha oficial de Segway en este comparador"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuánto cuesta el Cecotec Bongo Serie A Connected?",
+        "a": "449 € con IVA en la web de Cecotec España (consultada el 31/10/2026), donde figura como agotado. Algún análisis lo citó en su día por 349 €."
+      },
+      {
+        "q": "¿Cuánto pesa?",
+        "a": "El PDF técnico de Cecotec indica 13,4 kg para el patinete y 15,9 kg con las medidas de la caja. Algunos análisis hablan de 13,5 kg."
+      },
+      {
+        "q": "¿Tiene neumáticos con cámara?",
+        "a": "El PDF técnico y la descripción de Cecotec dicen que son neumáticos sin cámara de 8,5\", aunque la tabla comparativa de la web los marca como «rueda con cámara». Confírmalo con Cecotec antes de comprar."
+      },
+      {
+        "q": "¿Cuántos km hace de verdad?",
+        "a": "Cecotec declara hasta 25 km en modo Eco, a 18 km/h y con 60-80 kg. En la prueba de Xataka, más de 15 km en el modo exigente y más de 20 km conduciendo con eficiencia."
+      },
+      {
+        "q": "¿Necesito casco con este patinete?",
+        "a": "Casco homologado o certificado y abrochado (artículo 118.3 del Reglamento General de Circulación) y 15 años cumplidos (artículo 155.3), según el Real Decreto 518/2026 en vigor desde el 1 de octubre de 2026. Está prohibido circular por aceras (artículo 152.1)."
+      }
+    ]
   },
   {
     id: "niu-kqi2-pro",

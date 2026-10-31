@@ -1919,5 +1919,10 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "Xiaomi (foto de producto oficial)",
 "licencia": "prensa",
 "url": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666838244.98981922.png"
+},
+"/media/patinetes/cecotec-bongo-serie-a-connected-oficial.webp": {
+"autor": "Cecotec (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://media.cecotec.cloud/07026/bongo-serie-a-connected_11.jpg"
 }
 };

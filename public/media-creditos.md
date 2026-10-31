@@ -4481,3 +4481,4 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/patinetes/segway-ninebot-e25e-oficial.webp | https://s7ap1.scene7.com/is/image/ninebotstage/assets_segway_cdn_com_Product-Pictures__product_full_E25E_Product-picture-4 | Segway-Ninebot (foto de producto oficial) | prensa |
 | /media/patinetes/xiaomi-electric-scooter-4-oficial.webp | https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-electric-scooter-4/pc/98b7f22c429460539501595a65a2755a.png | Xiaomi (foto de producto oficial) | prensa |
 | /media/patinetes/xiaomi-electric-scooter-4-pro-oficial.webp | https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666838244.98981922.png | Xiaomi (foto de producto oficial) | prensa |
+| /media/patinetes/cecotec-bongo-serie-a-connected-oficial.webp | https://media.cecotec.cloud/07026/bongo-serie-a-connected_11.jpg | Cecotec (foto de producto oficial) | prensa |
