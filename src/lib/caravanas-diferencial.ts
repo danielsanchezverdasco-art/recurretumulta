@@ -73,7 +73,7 @@ export const CARAVANAS_DIFERENCIAL: Record<string, { titulo: string; parrafos: s
     titulo: "Qué distingue a la Sport Edition 496PE: la familiar de la serie",
     parrafos: [
       "La Sport Edition 496PE es la más familiar de las Sterckeman de la web, con 5 plazas para dormir: cama doble delantera (140x205), una individual central (100x170) y dos literas de 85x185 detrás. Cuesta 24.990 €, 2.000 € más que la 455CP, y mide 7,01 m, es decir, 30 cm más que ella con el mismo ancho de 2,30 m.",
-      "Pesa 1.170 kg en orden de marcha, con 1.300 kg de masa máxima que se pueden ampliar oficialmente a 1.500 kg. Eso la sitúa entre la 455CP (1.250 kg) y la Open Edition 540CP (1.500 kg). Una caravana monoeje con ese margen exige repartir bien la carga; la propia ficha señala el reparto de pesos como punto débil.",
+      "Pesa 1.170 kg listos para circular y su masa máxima es de 1.300 kg que se pueden ampliar oficialmente a 1.500 kg. Eso la sitúa entre la 455CP (1.250 kg) y la Open Edition 540CP (1.500 kg). Una caravana monoeje con ese margen exige repartir bien la carga; la propia ficha señala el reparto de pesos como punto débil.",
       "Para familias merece la pena mirar el confort a bordo: colchones Comfort Plus de 15 cm de espesor y el mismo equipo de frío y agua caliente que la 455CP. Las dos literas de 85x185 se quedan cortas para adolescentes altos. El conjunto supera con facilidad los 3.500 kg, así que hay que contar con el B96 o el BE. Como mantenimiento anual orientativo, la ficha anota 200 €.",
     ],
   },
@@ -130,7 +130,7 @@ export const CARAVANAS_DIFERENCIAL: Record<string, { titulo: string; parrafos: s
     parrafos: [
       "La Imperial 630 TDL abre la serie Imperial, la cumbre de Kabe: 87.050 € de tarifa finlandesa, 11.000 € más que la Royal 600 CXL y 17.300 € menos que la Imperial 780 TDL. Su largo de 8,50 m supera en 70 cm a las Royal 560.",
       "Lo más visible es la anchura King Size de 2,50 m, 20 cm más que las Royal y las Ametist, y que da el habitáculo más amplio de esta clase. El peso lo acompaña: 1.855 kg en orden de marcha, 2.000 kg de masa máxima y 145 kg de carga útil declarada, la menor de la serie Imperial.",
-      "Sus 2.000 kg de masa máxima se mantienen en el B96, aunque con un todoterreno pesado como tractor podría pedirse el BE. A cambio, es la Imperial más manejable: la 780 TDL pasa a 9,40 m y a doble eje. Pesan los 2,50 m de ancho en carreteras estrechas y hace falta sitio donde guardarla. La ficha calcula 220 € de revisión anual.",
+      "Sus 2.000 kg de masa máxima se mantienen en el B96, aunque con un todoterreno pesado como tractor podría pedirse el BE. A cambio, es la Imperial más manejable: la 780 TDL pasa a 9,40 m y a doble eje. Se notan los 2,50 m de ancho en carreteras estrechas y hace falta sitio donde guardarla. La ficha calcula 220 € de revisión anual.",
     ],
   },
   "kabe-imperial-780-tdl-2026-precio-ficha-tecnica": {
@@ -153,7 +153,7 @@ export const CARAVANAS_DIFERENCIAL: Record<string, { titulo: string; parrafos: s
     titulo: "Qué distingue a la Premio Life 415 TK entre las Bürstner",
     parrafos: [
       "La Premio Life 415 TK es la Bürstner más corta y económica de la web: 6,22 m y 20.070 €, frente a 7,00 m y 22.000 € de la Premio Life 480 TS, o 7,57 m y 29.360 € de la Premio Plus 510 TK. Aun así reparte 5 plazas, con literas y cama doble, dos más que las 3 de la 480 TS.",
-      "Los datos de la unidad 2026 recogidos en la ficha son 1.023 kg en orden de marcha, 1.360 kg de masa máxima y 337 kg de carga útil. Con un coche de hasta 2.140 kg de MMA, el conjunto no pasa de los 3.500 kg que permite el carnet B. Con 337 kg de margen conviene no cargar de más cuando viajan cinco.",
+      "Los datos de la unidad 2026 recogidos en la ficha son 1.023 kg en orden de marcha, 1.360 kg de masa máxima y 337 kg de carga útil. Con un coche de hasta 2.140 kg de MMA, el conjunto queda dentro del tope de 3.500 kg del carnet B. Con 337 kg de margen conviene no cargar de más cuando viajan cinco.",
       "Otro número que la define es la anchura: 2,12 m entre paredes, lo que la ficha presenta como la Bürstner más estrecha, de modo que el interior pide orden con cinco a bordo. En altura mide 2,61 m. Los remates son sencillos, como corresponde a una caravana de entrada. La revisión anual orientativa de la ficha es de 200 €.",
     ],
   },
