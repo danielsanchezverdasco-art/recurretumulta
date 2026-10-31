@@ -28,7 +28,14 @@ if a.cambios:
     c = json.load(open(a.cambios)); html_cambiados = [p for p in c["new"] + c["chg"] if p.endswith(".html")]
     nuevas = [p for p in c["new"] if p.startswith("/media/") and not re.search(r"-(480w|828w|1200w|card)\.webp$", p)]
     for p in nuevas:
-        if p not in con_fuente: fallos.append(f"foto nueva SIN URL de fuente: {p}")
+        if p not in con_fuente:
+            # 31/10/2026: el listado de ficheros de vivo es incompleto. Si vivo YA sirve esa foto con los mismos bytes, no es nueva.
+            try:
+                import hashlib, urllib.request, urllib.parse
+                _l = urllib.request.urlopen(urllib.request.Request("https://recurretumulta.online" + urllib.parse.quote(p), headers={"User-Agent": "Mozilla/5.0"}), timeout=30).read()
+                if hashlib.md5(_l).hexdigest() == hashlib.md5(open(os.path.join(a.dist, p.lstrip("/")), "rb").read()).hexdigest(): continue
+            except Exception: pass
+            fallos.append(f"foto nueva SIN URL de fuente: {p}")
 paginas = html_cambiados if html_cambiados is not None else []
 for p in paginas:
     f = os.path.join(a.dist, p.lstrip("/"))
