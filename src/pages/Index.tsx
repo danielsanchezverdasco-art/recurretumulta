@@ -798,7 +798,7 @@ function $() {
             name: `¿Qué garantías tengo? ¿Y si no funciona?`,
             acceptedAnswer: {
               "@type": `Answer`,
-              text: `Si el análisis no detecta ningún error legal en tu multa, te lo decimos con total honestidad — no te cobramos nada. Si compras el PDF, ofrecemos reembolso completo si el análisis no detecta ningún defecto ni genera ningún argumento útil; puedes solicitarlo en los 14 días posteriores a la compra escribiendo a soporte@recurretumulta.online. El reembolso no aplica si el recurso generado fue descargado y presentado.`,
+              text: `Si el análisis no detecta ningún error legal en tu multa, te lo decimos con total honestidad — no te cobramos nada. Tras comprar el PDF tienes 14 días para pedir la devolución del importe, por correo a soporte@recurretumulta.online, siempre que el estudio de tu expediente no haya encontrado fallos ni argumentos aprovechables. Una vez descargado y presentado el escrito, ya no procede devolverlo.`,
             },
           },
           {
@@ -1957,7 +1957,7 @@ function $() {
                       {
                         icon: v,
                         title: `Datos protegidos (RGPD)`,
-                        desc: `Tus documentos se procesan solo para generar el recurso; solo acceden a ellos los proveedores estrictamente necesarios para prestarte el servicio.`,
+                        desc: `Tus documentos sirven únicamente para redactar tu recurso, y solo los tratan los terceros imprescindibles para prestar el servicio.`,
                       },
                       {
                         icon: y,
