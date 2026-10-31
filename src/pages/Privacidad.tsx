@@ -101,16 +101,16 @@ export default function PrivacidadPage() {
 
           <section>
             <h2 className="text-xl font-black text-gray-900">8. Cookies, publicidad y analítica</h2>
-            <p>Usamos cookies técnicas (necesarias para el funcionamiento), analíticas (Google Analytics 4) y publicitarias (Google AdSense). Las analíticas y publicitarias <strong>solo se activan si las aceptas</strong> en el aviso de cookies: hasta entonces Google Analytics y AdSense funcionan en modo «denegado» (Consent Mode v2, sin almacenar cookies de analítica ni de publicidad personalizada). Puedes cambiar tu elección en cualquier momento con el enlace «Configurar cookies» del pie de página. La base legal es tu <strong>consentimiento</strong> (art. 6.1.a RGPD y art. 22.2 LSSI) y puedes retirarlo cuando quieras sin que afecte a lo anterior.</p>
+            <p>Usamos cookies técnicas (necesarias para el funcionamiento), analíticas (Google Analytics 4) y publicitarias (Google AdSense). Las analíticas y publicitarias <strong>solo se activan si las aceptas</strong> en el aviso de cookies: hasta entonces Google Analytics y AdSense funcionan en modo «denegado» (Consent Mode v2, sin almacenar cookies de analítica ni de publicidad personalizada). Si cambias de opinión, vuelve a decidir desde «Configurar cookies», en el pie de cada página. La base legal es tu <strong>consentimiento</strong> (art. 6.1.a RGPD y art. 22.2 LSSI) y puedes retirarlo cuando quieras sin que afecte a lo anterior.</p>
             <p>Detalle de cada cookie, proveedor y duración en nuestra <Link to="/cookies/" className="text-red-600 underline">Política de Cookies</Link>.</p>
             <p>Cómo gestionar o rechazar la publicidad personalizada:</p>
             <ul className="list-disc pl-5 space-y-1">
               <li><a href="https://adssettings.google.com" className="text-red-600 underline" target="_blank" rel="noopener noreferrer">Configuración de anuncios de Google (adssettings.google.com)</a></li>
               <li><a href="https://www.aboutads.info/choices/" className="text-red-600 underline" target="_blank" rel="noopener noreferrer">aboutads.info/choices</a> y <a href="https://www.youronlinechoices.eu/" className="text-red-600 underline" target="_blank" rel="noopener noreferrer">youronlinechoices.eu</a> (opciones de publicidad basada en intereses)</li>
-              <li><a href="https://policies.google.com/technologies/partner-sites" className="text-red-600 underline" target="_blank" rel="noopener noreferrer">policies.google.com/technologies/partner-sites</a> (cómo usa Google los datos de sitios que usan sus servicios)</li>
+              <li><a href="https://policies.google.com/technologies/partner-sites" className="text-red-600 underline" target="_blank" rel="noopener noreferrer">policies.google.com/technologies/partner-sites</a> (explicación de Google sobre el uso de datos en webs socias)</li>
               <li><a href="https://tools.google.com/dlpage/gaoptout" className="text-red-600 underline" target="_blank" rel="noopener noreferrer">Complemento de inhabilitación de Google Analytics</a></li>
             </ul>
-            <p>Para consultas de privacidad o para ejercer tus derechos, escribe a soporte@recurretumulta.online. Si consideras que no hemos atendido tu solicitud, puedes reclamar ante la <a href="https://www.aepd.es" className="text-red-600 underline" target="_blank" rel="noopener noreferrer">Agencia Española de Protección de Datos (aepd.es)</a>.</p>
+            <p>Para consultas de privacidad o para ejercer tus derechos, escribe a soporte@recurretumulta.online. Si consideras que no hemos atendido tu solicitud, tienes la vía de reclamación ante la <a href="https://www.aepd.es" className="text-red-600 underline" target="_blank" rel="noopener noreferrer">autoridad de control, la AEPD (aepd.es)</a>.</p>
           </section>
         </div>
       </main>

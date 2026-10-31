@@ -28,7 +28,7 @@ const FEATURES = [
   {
     icon: <Headphones className="w-6 h-6" />,
     title: "Asistencia prioritaria",
-    desc: "Acceso directo al equipo de soporte. Sin colas, sin esperas. Respuesta prioritaria: nuestro objetivo es contestar en menos de 2 horas laborables (sin compromiso contractual).",
+    desc: "Acceso directo al equipo de soporte. Sin colas, sin esperas. Respuesta prioritaria: nuestro objetivo es contestar el mismo día laborable, sin compromiso contractual.",
   },
   {
     icon: <Zap className="w-6 h-6" />,
