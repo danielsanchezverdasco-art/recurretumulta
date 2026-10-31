@@ -4800,3 +4800,41 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/zeekr-007-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Zeekr_007_006_(cropped).jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
 | /media/zeekr-x-2025-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:Zeekr_X_006.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
 | /media/zeekr-x-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2023_Zeekr_X_(front).jpg | User3204 · Wikimedia Commons | CC BY-SA 4.0 |
+
+<!-- cosecha: merlin-heroes-blog-web — foto real verificada contra la imagen original de Wikimedia Commons (comparación visual) -->
+| /media/opel-astra-electrico-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Opel_Astra_L_Electric_Automesse_Ludwigsburg_2023_1X7A0049.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/opel-astra-hibrido-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Opel_Astra_L_1X7A0336.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/opel-astra-sports-tourer-electrico-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2026_Opel_Astra_L_Sports_Tourer_Electric_IMG_6325.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/opel-astra-sports-tourer-hibrido-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Opel_Astra_L_Sports_Tourer_1X7A6252.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/opel-corsa-electrico-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2023_Opel_Corsa-e_IAA_2023_1X7A0385.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/opel-corsa-hibrido-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2023_Opel_Corsa_F_Hybrid_IMG_8487.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/opel-frontera-electrico-54kwh-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Opel_Frontera_C_Electric_Auto_Zuerich_2024_DSC_6135.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/opel-grandland-electrico-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Opel_Grandland_B_DSC_8539.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/opel-grandland-electrico-awd-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Opel_Grandland_B_DSC_8689.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/opel-grandland-electrico-long-range-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Opel_Grandland_B_DSC_7224.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/opel-grandland-hibrido-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Opel_Grandland_B_AMA_Marbach_2025_DSC_8630.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/opel-grandland-hibrido-enchufable-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Opel_Grandland_B_DSC_8322.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/opel-mokka-electrico-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Opel_Mokka_Electric_Edition_(B,_Facelift)_%E2%80%93_f_12102025.jpg | © M 93 · Wikimedia Commons | CC BY-SA 3.0 de |
+| /media/opel-vivaro-electrico-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Opel_Vivaro-e_IMG_5430.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/peugeot-208-hibrido-110-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Peugeot_208_Active_2023.jpg | RL GNZLZ · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/peugeot-3008-phev-195-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Peugeot_3008,_BAS_24,_Brussels_(P1170251-RR).jpg | Matti Blume · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/peugeot-308-phev-195-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2021_-_Peugeot_308_III_(C)_-_02.jpg | A.BourgeoisP · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/peugeot-308-sw-phev-195-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Peugeot_308_C_SW_Leonberg_2022_1X7A0460.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/peugeot-408-hibrido-145-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Peugeot_408_(crossover)_1X7A6559.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/peugeot-408-phev-240-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Peugeot408-2022-blanche-01-byRundvald.jpg | Rundvald · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/peugeot-5008-hibrido-145-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Peugeot_5008_C_Automesse_Ludwigsburg_2024_IMG_1364.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/peugeot-5008-phev-225-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Peugeot_5008_C_Leonberg_2024_IMG_0827.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/peugeot-508-phev-225-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2024_Peugeot_508_PSE_PHEV_Auto.jpg | Calreyn88 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/peugeot-508-sw-phev-225-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Peugeot_508_B_SW_(2023)_1X7A2504.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/peugeot-e-2008-electrico-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2024_Peugeot_2008_PureTech_130_Allure_(Front).jpg | MoCars · Wikimedia Commons | CC0 |
+| /media/peugeot-e-208-electrico-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2023_Peugeot_E-208.jpg | Rutger van der Maar · Wikimedia Commons | CC BY 2.0 |
+| /media/peugeot-e-208-gti-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Peugeot_E-208_GTi_Auto_Zuerich_2025_DSC_3025.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/peugeot-e-3008-electrico-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Peugeot_3008,_BAS_24,_Brussels_(P1170251-RR).jpg | Matti Blume · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/peugeot-e-3008-long-range-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2024_Peugeot_3008.jpg | Oleg Yunakov · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/peugeot-e-308-electrico-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2021_-_Peugeot_308_III_(C)_-_01.jpg | A.BourgeoisP · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/renault-4-e-tech-52-kwh-2025-precio-autonomia-hero.webp | https://commons.wikimedia.org/wiki/File:Renault_4_E-Tech_02.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/renault-austral-2025-e-tech-200-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2023_Renault_Austral_1.2_E-Tech_Hybrid_techno_at_Renault_Manchester_01.jpg | MoCars · Wikimedia Commons | CC0 |
+| /media/renault-captur-2024-tce-90-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2024_Renault_Captur_II_Automesse_Ludwigsburg_2024_IMG_1375.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/renault-scenic-e-tech-60-kwh-2024-precio-autonomia-hero.webp | https://commons.wikimedia.org/wiki/File:2024_Renault_Scenic_Esprit_Alpine_E-Tech.jpg | Calreyn88 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/skoda-enyaq-85-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2025_%C5%A0koda_Enyaq_DSC_8029.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/skoda-kodiaq-rs-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:%C5%A0koda_Kodiaq_II_RS_DSC_2663.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
