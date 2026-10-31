@@ -55,8 +55,9 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
       "El motor lo desarrolló el equipo de Harris Performance, comprado por RE",
       "Es una de las motos más vendidas de su segmento en Europa desde 2019",
     ],
-    imagen: "/media/motos/royal-enfield-interceptor-650-2025-ficha-tecnica-precio-hero.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/royal-enfield-interceptor-650-2025-ficha-tecnica-precio-hero.webp", alt: "Royal Enfield Interceptor 650 (foto: Andrzej Otrębski / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 933 },
       {
         src: "/media/motos/royal-enfield-interceptor-650-2025-ficha-tecnica-precio-oficial.webp",
         alt: "Royal Enfield Interceptor 650 2025, vista tres cuartos del bicilíndrico",
@@ -126,8 +127,9 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
       "Comparte motor, chasis y ciclo con la Interceptor 650",
       "En 2024 recibió la edición Thunder con colores exclusivos",
     ],
-    imagen: "/media/motos/royal-enfield-continental-gt-650-2025-ficha-tecnica-precio-hero.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/royal-enfield-continental-gt-650-2025-ficha-tecnica-precio-hero.webp", alt: "Royal Enfield Continental GT 650 (foto: Kiranpawar3210 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 918, alto: 690 },
       {
         src: "/media/motos/royal-enfield-continental-gt-650-2025-ficha-tecnica-precio-oficial.webp",
         alt: "Royal Enfield Continental GT 650 2025, café racer en tres cuartos",
@@ -268,8 +270,9 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
       "El motor Sherpa se desarrolló probándolo en el rally de los Himalayas",
       "Lleva acelerador electrónico ride-by-wire, inédito en la marca",
     ],
-    imagen: "/media/motos/royal-enfield-himalayan-450-2026-ficha-tecnica-precio-hero.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/royal-enfield-himalayan-450-2026-ficha-tecnica-precio-hero.webp", alt: "Royal Enfield Himalayan 450 (foto: MotorideSA / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1050 },
       {
         src: "/media/motos/royal-enfield-himalayan-450-2026-ficha-tecnica-precio-oficial.webp",
         alt: "Royal Enfield Himalayan 450 2026, trail en tres cuartos",
@@ -339,8 +342,9 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
       "Es la Royal Enfield más cara del catálogo actual",
       "El chasis es específico, con el centro de gravedad muy bajo",
     ],
-    imagen: "/media/motos/royal-enfield-super-meteor-650-2025-ficha-tecnica-precio-hero.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/royal-enfield-super-meteor-650-2025-ficha-tecnica-precio-hero.webp", alt: "Royal Enfield Super Meteor 650 (foto: iMahesh / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1134, alto: 755 },
       {
         src: "/media/motos/royal-enfield-super-meteor-650-2025-ficha-tecnica-precio-oficial.webp",
         alt: "Royal Enfield Super Meteor 650 2025, cruiser en tres cuartos",

@@ -761,6 +761,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
+      { src: "/media/motos/bmw-r-18-2024-ficha-tecnica-precio-1.webp", alt: "BMW Motorrad R 18 (foto: AVMOTO / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1344 },
       { src: "/media/motos/bmw-r-18-2024-ficha-tecnica-precio-2.webp", alt: "BMW R 18 2024, vista lateral con el motor bóxer visto", ancho: 1200, alto: 800 },
       { src: "/media/motos/bmw-r-18-2024-ficha-tecnica-precio-3.webp", alt: "BMW R 18 2024 en una carretera costera", ancho: 1200, alto: 800 },
       { src: "/media/bmw-r-18-2024-ficha-tecnica-precio-hunt1.webp", alt: "R 18 (foto: BMW Group PressClub (prensa oficial BMW Motorrad, MY 2024), licencia desconocida)", ancho: 2121, alto: 1500 },
@@ -880,8 +881,9 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
       "La caja del filtro de aire va bajo el asiento",
       "Su motor bóxer es el de la anterior R nineT con nueva puesta a punto",
     ],
-    imagen: "/media/motos/bmw-r-12-2024-ficha-tecnica-precio-1.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/bmw-r-12-2024-ficha-tecnica-precio-1.webp", alt: "BMW Motorrad R 12 (foto: Franken-Guzzista / Wikimedia Commons, licencia CC0)", ancho: 1400, alto: 1050 },
       { src: "/media/motos/bmw-r-12-2024-ficha-tecnica-precio-2.webp", alt: "BMW R 12 2024, vista lateral cruiser", ancho: 1200, alto: 800 },
       { src: "/media/motos/bmw-r-12-2024-ficha-tecnica-precio-3.webp", alt: "BMW R 12 2024 en una avenida urbana", ancho: 1200, alto: 800 },
       { src: "/media/bmw-r-12-2024-ficha-tecnica-precio-hunt1.webp", alt: "R 12 (foto: Ultimate Motorcycling (foto de prensa BMW Motorrad), licencia desconocida)", ancho: 1620, alto: 1080 },
@@ -2266,8 +2268,9 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
       "Rival directa de la Indian Scout Sixty y la Triumph Bonneville Bobber",
       "Su etiqueta DGT es la C (crestanevada)",
     ],
-    imagen: "/media/motos/moto-guzzi-v9-bobber-2024-ficha-tecnica-precio-1.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/moto-guzzi-v9-bobber-2024-ficha-tecnica-precio-1.webp", alt: "Moto Guzzi V9 Bobber (foto: Corvettec6r / Wikimedia Commons, licencia CC BY 4.0)", ancho: 1400, alto: 1251 },
       { src: "/media/motos/moto-guzzi-v9-bobber-2024-ficha-tecnica-precio-2.webp", alt: "Moto Guzzi V9 Bobber 2024, vista lateral", ancho: 1200, alto: 800 },
       { src: "/media/motos/moto-guzzi-v9-bobber-2024-ficha-tecnica-precio-3.webp", alt: "Moto Guzzi V9 Bobber 2024 en carretera", ancho: 1200, alto: 800 },
       { src: "/media/moto-guzzi-v9-bobber-2024-ficha-tecnica-precio-hunt1.webp", alt: "V9 Bobber (foto: CrazyWheels.it — prueba Moto Guzzi V9 Bobber 2024, licencia desconocida)", ancho: 831, alto: 525 },
@@ -2392,8 +2395,9 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
       "Rivales: Kawasaki Vulcan S, MITT 808 y Royal Enfield Shotgun 650",
       "La instrumentación mezcla relojes analógicos con pantalla digital y USB",
     ],
-    imagen: "/media/motos/moto-morini-calibro-700-2024-ficha-tecnica-precio-1.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/moto-morini-calibro-700-2024-ficha-tecnica-precio-1.webp", alt: "Moto Morini Calibro 700 (foto: MotorideSA / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1234, alto: 1052 },
       { src: "/media/motos/moto-morini-calibro-700-2024-ficha-tecnica-precio-2.webp", alt: "Moto Morini Calibro 700 2024, vista lateral", ancho: 1200, alto: 800 },
       { src: "/media/fotos-reales/moto-morini-calibro-700-2024-ficha-tecnica-precio/moto-morini-calibro-700-2024-ficha-tecnica-precio-real-3.webp", alt: "Moto Morini Calibro 700 2024 en carretera", ancho: 1200, alto: 800 },
       { src: "/media/moto-morini-calibro-700-2024-ficha-tecnica-precio-hunt1.webp", alt: "Calibro 700 (foto: Ultimate Motorcycling / Moto Morini (prensa oficial), licencia desconocida)", ancho: 696, alto: 464 },
@@ -2514,8 +2518,9 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
       "La primera serie se agotó: solo 250 unidades con número de serie único",
       "Ver una Tesi H2 en la calle es 'lo más cercano a ver un unicornio' (motorpasionmoto)",
     ],
-    imagen: "/media/motos/bimota-tesi-h2-2024-ficha-tecnica-precio-1.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/bimota-tesi-h2-2024-ficha-tecnica-precio-1.webp", alt: "Bimota Tesi H2 (foto: Matthb1395 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1210 },
       { src: "/media/motos/bimota-tesi-h2-2024-ficha-tecnica-precio-2.webp", alt: "Bimota Tesi H2 2024, vista lateral", ancho: 1200, alto: 800 },
       { src: "/media/motos/bimota-tesi-h2-2024-ficha-tecnica-precio-3.webp", alt: "Bimota Tesi H2 2024 en circuito", ancho: 1200, alto: 800 },
       { src: "/media/bimota-tesi-h2-2024-ficha-tecnica-precio-hunt1.webp", alt: "Tesi H2 (foto: Bimota (foto de prensa) vía RevZilla, licencia desconocida)", ancho: 1000, alto: 733 },

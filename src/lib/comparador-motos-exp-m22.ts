@@ -47,8 +47,9 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
       "Con el escape de competición Akrapovič de titanio sube a 228 CV",
       "La 2025 estrena la plataforma inercial Ducati Vehicle Observer con más de 70 sensores",
     ],
-    imagen: "/media/motos/ducati-panigale-v4-s-2025-ficha-tecnica-precio-hero.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/ducati-panigale-v4-s-2025-ficha-tecnica-precio-hero.webp", alt: "Ducati Panigale V4 S (foto: TaurusEmerald / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1070 },
       {
         src: "/media/motos/ducati-panigale-v4-s-2025-ficha-tecnica-precio-oficial.webp",
         alt: "Ducati Panigale V4 S 2025, superbike roja en tres cuartos",
@@ -189,8 +190,9 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
       "En 2021 perdió el mítico chasis multitubular de acero por el Front Frame de aluminio",
       "La Monster 2025 es limitable a 35 kW, algo impensable en las Monster de los 90",
     ],
-    imagen: "/media/motos/ducati-monster-2025-ficha-tecnica-precio-hero.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/ducati-monster-2025-ficha-tecnica-precio-hero.webp", alt: "Ducati Monster (foto: AnotherLocalAuthor / Wikimedia Commons, licencia CC0)", ancho: 1020, alto: 765 },
       {
         src: "/media/motos/ducati-monster-2025-ficha-tecnica-precio-oficial.webp",
         alt: "Ducati Monster 2025, naked italiana en tres cuartos",
@@ -402,8 +404,9 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
       "La familia Scrambler tiene su propio festival: el Land of Joy",
       "En 2023 la Icon se renovó por completo: chasis, electrónica y estética",
     ],
-    imagen: "/media/motos/ducati-scrambler-icon-800-2025-ficha-tecnica-precio-hero.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/ducati-scrambler-icon-800-2025-ficha-tecnica-precio-hero.webp", alt: "Ducati Scrambler Icon 800 (foto: MotorideSA / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1132 },
       {
         src: "/media/motos/ducati-scrambler-icon-800-2025-ficha-tecnica-precio-oficial.webp",
         alt: "Ducati Scrambler Icon 800 2025 amarilla en tres cuartos",
@@ -473,8 +476,9 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
       "La primera Diavel (2011) ya ganó el premio de diseño más bonito del EICMA",
       "Existe una edición limitada Diavel for Bentley de 500 unidades",
     ],
-    imagen: "/media/motos/ducati-diavel-v4-2025-ficha-tecnica-precio-hero.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/ducati-diavel-v4-2025-ficha-tecnica-precio-hero.webp", alt: "Ducati Diavel V4 (foto: XDVRACE / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1050 },
       {
         src: "/media/motos/ducati-diavel-v4-2025-ficha-tecnica-precio-oficial.webp",
         alt: "Ducati Diavel V4 2025 negra, muscle cruiser en tres cuartos",
@@ -545,8 +549,9 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
       "La Street Triple nació en 2007 como la hermana pequeña de la Speed Triple",
       "La versión 2025 incorpora IMU y electrónica heredada de la Speed Triple 1200",
     ],
-    imagen: "/media/motos/triumph-street-triple-765-2025-ficha-tecnica-precio-hero.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/triumph-street-triple-765-2025-ficha-tecnica-precio-hero.webp", alt: "Triumph Street Triple 765 (foto: Darktiger0512 / Wikimedia Commons, licencia CC BY 4.0)", ancho: 826, alto: 1101 },
       {
         src: "/media/motos/triumph-street-triple-765-2025-ficha-tecnica-precio-oficial.webp",
         alt: "Triumph Street Triple 765 2025, naked tricilíndrica en tres cuartos",
@@ -758,8 +763,9 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
       "El escape alto con doble silenciador es seña de identidad desde los 60",
       "Comparte la base del motor Bonneville T100 pero con puesta a punto scrambler",
     ],
-    imagen: "/media/motos/triumph-scrambler-900-2025-ficha-tecnica-precio-hero.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/triumph-scrambler-900-2025-ficha-tecnica-precio-hero.webp", alt: "Triumph Scrambler 900 (foto: MotorideSA / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1114 },
       {
         src: "/media/motos/triumph-scrambler-900-2025-ficha-tecnica-precio-oficial.webp",
         alt: "Triumph Scrambler 900 2025 con escape alto en tres cuartos",

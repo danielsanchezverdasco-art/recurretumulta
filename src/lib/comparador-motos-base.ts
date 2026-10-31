@@ -2433,7 +2433,9 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Es la V-Strom más campera de la historia, con rueda delantera de 21 pulgadas",
     ],
     imagen: null,
-    galeria: [],
+    galeria: [
+      { src: "/media/motos/suzuki-v-strom-800de-2024-ficha-tecnica-precio.webp", alt: "Suzuki V-Strom 800DE (foto: GIM - Giri in Moto / Wikimedia Commons, licencia CC BY 3.0)", ancho: 1400, alto: 934 },
+    ],
     videoId: "v8QuV9VKrKs",
     videoCanal: "autoX",
     fuenteNombre: "Motos.net",
@@ -4838,7 +4840,9 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Mantiene el Telelever delante y el Paralever detrás, señas de identidad BMW",
     ],
     imagen: null,
-    galeria: [],
+    galeria: [
+      { src: "/media/motos/bmw-r-1300-gs-2024-ficha-tecnica-precio.webp", alt: "BMW Motorrad R 1300 GS (foto: Corvettec6r / Wikimedia Commons, licencia CC BY 4.0)", ancho: 1400, alto: 1589 },
+    ],
     videoId: "FUYXSsNr0u0",
     videoCanal: "Motorbike Magazine",
     fuenteNombre: "moteo.es",

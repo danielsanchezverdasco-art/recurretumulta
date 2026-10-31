@@ -5208,8 +5208,9 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "Es la primera Royal Enfield con acelerador electrónico ride-by-wire",
       "Su motor Sherpa 450 entrega 40 Nm, récord entre los monocilíndricos A2",
     ],
-    imagen: "/media/motos/royal-enfield-himalayan-450-2024-ficha-tecnica-precio-oficial.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/royal-enfield-himalayan-450-2024-ficha-tecnica-precio-oficial.webp", alt: "Royal Enfield Himalayan 450 (foto: Rouv1505 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1020, alto: 730 },
       {
         src: "/media/motos/royal-enfield-himalayan-450-2024-ficha-tecnica-precio-oficial-2.webp",
         alt: "Royal Enfield Himalayan 450 2024 negra y amarilla",
@@ -5474,8 +5475,9 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "Su motor deriva del mítico monocilíndrico de la Husqvarna TE630",
       "La versión X añade llantas de radios y protecciones para el campo",
     ],
-    imagen: "/media/motos/swm-superdual-650-2025-ficha-tecnica-precio-oficial.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/swm-superdual-650-2025-ficha-tecnica-precio-oficial.webp", alt: "SWM Motorcycles Superdual 650 (foto: AVMOTO / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1034, alto: 1269 },
       {
         src: "/media/motos/swm-superdual-650-2025-ficha-tecnica-precio-oficial-2.webp",
         alt: "SWM Superdual 650 X 2025 roja con maleta",
@@ -5892,8 +5894,9 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "La versión Dark Horse elimina todo el cromo: es la respuesta de Indian a la estética blacked-out de Harley",
       "El sistema Ride Command incluye localizador de la moto y alertas de mantenimiento desde el móvil",
     ],
-    imagen: "/media/motos/indian-chieftain-powerplus-dark-horse-2025-ficha-tecnica-precio-oficial.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/indian-chieftain-powerplus-dark-horse-2025-ficha-tecnica-precio-oficial.webp", alt: "Indian Motorcycle Chieftain PowerPlus Dark Horse (foto: Chris Woodrich / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1082 },
       {
         src: "/media/motos/indian-chieftain-powerplus-dark-horse-2025-ficha-tecnica-precio-oficial-2.webp",
         alt: "Indian Chieftain PowerPlus Dark Horse 2025 en negro con piloto",
@@ -5974,8 +5977,9 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "Su sistema de audio y conectividad permite controlar música y llamadas desde la piña izquierda",
       "BMW ofrece la K 1600 GTL con marcha atrás eléctrica opcional para mover sus 358 kg en parado",
     ],
-    imagen: "/media/motos/bmw-k-1600-gtl-2025-ficha-tecnica-precio-oficial.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/bmw-k-1600-gtl-2025-ficha-tecnica-precio-oficial.webp", alt: "BMW Motorrad K 1600 GTL (foto: Cjp24 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1134, alto: 1009 },
       {
         src: "/media/motos/bmw-k-1600-gtl-2025-ficha-tecnica-precio-oficial-2.webp",
         alt: "BMW K 1600 GTL 2025 en negro, vista lateral con top case",

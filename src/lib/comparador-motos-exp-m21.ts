@@ -57,8 +57,9 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       "El motor LC8c tiene un desfase de 435º entre explosiones para más tracción",
       "La versión L de 70 kW es la que permite limitarla al A2",
     ],
-    imagen: "/media/motos/ktm-790-duke-2025-ficha-tecnica-precio-hero.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/ktm-790-duke-2025-ficha-tecnica-precio-hero.webp", alt: "KTM 790 Duke (foto: Cjp24 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 866 },
       {
         src: "/media/motos/ktm-790-duke-2025-ficha-tecnica-precio-oficial.webp",
         alt: "KTM 790 Duke 2025, naked naranja en tres cuartos",
@@ -341,8 +342,9 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       "El depósito en forma de 'alforjas' bajas es su seña de identidad desde 2019",
       "Comparte el LC8c de 799 cc con la 790 Duke, con mapeado más rutero",
     ],
-    imagen: "/media/motos/ktm-790-adventure-2025-ficha-tecnica-precio-hero.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/ktm-790-adventure-2025-ficha-tecnica-precio-hero.webp", alt: "KTM 790 Adventure (foto: Cjp24 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1050 },
       {
         src: "/media/motos/ktm-790-adventure-2025-ficha-tecnica-precio-oficial.webp",
         alt: "KTM 790 Adventure 2025, trail con depósito bajo en dunas",
@@ -1373,8 +1375,9 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     pros: ["En el semáforo no hay discusión: 42 CV y ese 0 a 50 km/h en 2,6 s dejan atrás a cualquier scooter de gasolina que se le ponga al lado en ciudad.", "Los 130 km declarados con la batería de 8,9 kWh cubren varios días de trayectos urbanos en Madrid sin pensar en el enchufe cada noche.", "Lleva etiqueta Cero de la DGT, así que en la CE 04 2025 las ZBE y las restricciones por episodios de contaminación dejan de ser un problema diario.", "También vale para salir del casco urbano: con 120 km/h de punta sostiene un tramo corto de autovía sin ir forzada ni quedarte vendido entre camiones."],
     contras: ["Los 12.260 € aproximados duelen: por ese dinero hay maxiscooters de gasolina muy completos, y aquí pagas sobre todo el planteamiento eléctrico premium de BMW.", "Pesa 231 kg, una cifra de moto grande en un scooter pensado para ciudad; maniobrando en parado o en un garaje estrecho se nota en cada apoyo.", "El hueco bajo el asiento es justo para un casco, poco generoso si pretendes llevar además la compra o la mochila del trabajo sin top case.", "Si tu ruta diaria incluye mucha autovía a ritmo sostenido, la autonomía real se queda corta frente a la declarada y la carga se vuelve rutina frecuente."],
     curiosidades: ["El «04» no es la cilindrada: BMW lo usa para situar a la CE 04 frente al segmento de los scooters de gasolina de unos 400 cc.", "Antes de ser moto de serie fue dos veces prototipo: el Concept Link de 2017 ya anticipaba el asiento flotante y el hueco de carga bajo el piloto que luego heredó esta CE 04."],
-    imagen: "/media/motos/bmw-ce-04-2025-ficha-tecnica-precio-hero.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/bmw-ce-04-2025-ficha-tecnica-precio-hero.webp", alt: "BMW Motorrad CE 04 (foto: Wikisympathisant / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 924 },
       {
         src: "/media/motos/bmw-ce-04-2025-ficha-tecnica-precio-oficial.webp",
         alt: "BMW CE 04 2025, scooter eléctrico en ciudad",

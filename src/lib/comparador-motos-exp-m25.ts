@@ -2604,6 +2604,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     curiosidades: ["Nació como evolución natural tras la buena acogida de su versión pequeña para el carné B", "El pico de potencia llega muy arriba, a 9.500 vueltas, y el mejor empuje aparece a 8.000", "Su silenciador tipo megáfono parece sacado de una preparación artesanal más que venir de serie", "Al caer la tarde la pantalla cambia su presentación para resultar más amable a la vista", "Detrás del proyecto está una empresa valenciana que también vende toda su gama por internet"],
     imagen: "/media/fotos-reales/wottan-rebbe-401-2025-ficha-tecnica-precio/wottan-rebbe-401-2025-ficha-tecnica-precio-real-1.webp",
     galeria: [
+      { src: "/media/wottan-rebbe-401-2025-ficha-tecnica-precio-oficial.webp", alt: "Wottan Rebbe 401 (foto: AVMOTO / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1009 },
       {
         src: "/media/fotos-reales/wottan-rebbe-401-2025-ficha-tecnica-precio/wottan-rebbe-401-2025-ficha-tecnica-precio-real-2.webp",
         alt: "Wottan Rebbe 401 2025, vista tres cuartos",

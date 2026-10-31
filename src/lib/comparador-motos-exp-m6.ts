@@ -2790,8 +2790,9 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Es la trail media más asequible con look rally",
       "Rieju la desarrolló para acercar el estilo raid a todos los públicos"
     ],
-    imagen: "/media/motos/rieju-aventura-rally-307-2026-ficha-tecnica-precio-1.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/rieju-aventura-rally-307-2026-ficha-tecnica-precio-1.webp", alt: "Rieju Aventura Rally 307 (foto: MotorideSA / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1050 },
       { src: "/media/motos/rieju-aventura-rally-307-2026-ficha-tecnica-precio-2.webp", alt: "Frontal rally de la Rieju Aventura Rally 307 2026", ancho: 1200, alto: 800 },
       { src: "/media/motos/rieju-aventura-rally-307-2026-ficha-tecnica-precio-3.webp", alt: "Rieju Aventura Rally 307 2026 en una pista de tierra", ancho: 1200, alto: 800 }
     ],

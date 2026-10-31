@@ -1331,8 +1331,9 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
       "El S01+ comparte base con el S01 pero añade suspensión trasera regulable y más equipamiento",
       "El motor rinde 7 kW nominales y 9 kW de pico, con 0-50 km/h en 3 segundos",
     ],
-    imagen: "/media/motos/silence-s01-plus-2026-ficha-tecnica-precio-oficial.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/silence-s01-plus-2026-ficha-tecnica-precio-oficial.webp", alt: "Silence S01+ (foto: Herodotptlomeu / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 999 },
       {
         src: "/media/motos/silence-s01-plus-2026-ficha-tecnica-precio-oficial-2.webp",
         alt: "Silence S01+ 2026, vista frontal tres cuartos",
