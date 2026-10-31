@@ -40,12 +40,14 @@ export default function CocheSemana() {
       </div>
 
       <div className="grid gap-5 p-5 sm:grid-cols-2 sm:items-center">
-        <img
-          src={coche.imagenOficial ?? ""}
-          alt={`Foto oficial del ${coche.marca} ${coche.modelo}`}
-          className="aspect-[16/10] w-full rounded-2xl object-cover"
-          loading="lazy"
-        />
+        {coche.imagenOficial ? (
+          <img
+            src={coche.imagenOficial}
+            alt={`Foto oficial del ${coche.marca} ${coche.modelo}`}
+            className="aspect-[16/10] w-full rounded-2xl object-cover"
+            loading="lazy"
+          />
+        ) : null}
         <div className="space-y-3">
           <div>
             <p className="text-xs font-bold uppercase tracking-widest text-red-600">

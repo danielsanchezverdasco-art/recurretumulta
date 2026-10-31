@@ -56,12 +56,14 @@ export default function FichaDestacada({ coche }: { coche: CocheComparador }) {
       {/* Cabecera con foto y precio */}
       <div className="grid sm:grid-cols-2">
         <div className="relative min-h-[200px]">
-          <img
-            src={coche.imagenOficial}
-            alt={`${coche.marca} ${coche.modelo}`}
-            className="absolute inset-0 h-full w-full object-cover"
-            loading="eager"
-          />
+          {coche.imagenOficial ? (
+            <img
+              src={coche.imagenOficial}
+              alt={`${coche.marca} ${coche.modelo}`}
+              className="absolute inset-0 h-full w-full object-cover"
+              loading="eager"
+            />
+          ) : null}
           <span className="absolute left-3 top-3 rounded-full bg-red-600 px-3 py-1 text-xs font-black uppercase tracking-wider text-white shadow">
             Ficha técnica
           </span>

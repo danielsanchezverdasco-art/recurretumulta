@@ -368,6 +368,7 @@ def f_build(c):
                 ["python3", "scripts/fix-redirects.py"], ["python3", "../scripts/fix-chains.py"], ["python3", "scripts/postproceso-seo-20261019.py", "dist"],
                 ["python3", "scripts/deploy/fotos-hotfix/fotos_hotfix.py", "dist/media", "--bajar-origenes", "--lista-salida", os.path.join(c.work, "media-forzar.txt")],
                 ["python3", "scripts/fix-variantes-placeholder.py", "dist"],  # 31/10: variantes -card/-480w... que eran el recuadro placeholder -> desde la foto real
+                ["python3", "scripts/fix-img-sin-src.py", "dist"],  # 31/10: red de seguridad, fichas sin foto no dejan <img> sin src
                 ["python3", "scripts/postfix-foto-pendiente.py", "dist"],
                 ["python3", "scripts/fix-contenido-final.py", "dist"],  # 31/10: texto interno, Merlín, viabilidad, enlaces del comparador (sin 301 nuevos)
                 ["python3", "scripts/politica-noindex.py", "dist"],  # 31/10: regla de Daniel, sin noindex salvo scripts/noindex-permitidos.txt
@@ -376,7 +377,7 @@ def f_build(c):
         cmd = [sys.executable if x == "python3" else x for x in cmd]
         c.say("  paso: " + " ".join(os.path.basename(x) if i == 0 else x for i, x in enumerate(cmd[:3])))
         c.run(cmd, cwd=cwd, quiet=True)
-    c.ok("postproceso (18 pasos) OK")
+    c.ok("postproceso (19 pasos) OK")
     dirty = [l for l in c.git("status", "--porcelain").splitlines() if l.strip()]
     malos = [l for l in dirty if not DIRT_OK.search(l[3:].strip().strip('"'))]
     if malos: c.abort("El build ha modificado ficheros fuente inesperados: " + "; ".join(malos[:6]))
