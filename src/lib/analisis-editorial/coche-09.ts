@@ -251,8 +251,8 @@ export const ANALISIS_COCHE_09: MapaAnalisis = {
   },
   "haval-jolion-pro-2025-precio-ficha-tecnica": {
     parrafos: [
-      "El Jolion Pro es el Haval tangible en España: desde 27.500 €, 177 CV con 270 Nm en la versión S Ultra (los demás Pro rinden 143 CV), 0-100 en 7,9 segundos —entre lo mejor del segmento— y diseño exterior agresivo de aires premium. Sus 7,9 segundos de 0 a 100 lo colocan entre los SUV compactos más rápidos de su precio en España, y el diseño agresivo le da una presencia que sus rivales generalistas no ofrecen por 27.500 €. El compacto chino que discute prestaciones con los generalistas europeos, con marca en expansión y concesionarios en crecimiento.",
-      "Aquí solo en gasolina —el híbrido vive en otros mercados—, 381 litros justos de maletero ante europeos, 7,5 l/100 km mejorables frente a híbridos, imagen por consolidar y talleres más escasos que los tradicionales. Los 270 Nm de la S Ultra explican su nervio. Producto competitivo con marca en despliegue: la apuesta española de Haval. Pesa 1.595 kg, una cifra contenida para su tamaño y equipamiento."
+      "El Jolion Pro es el Haval tangible en España: desde 27.500 €, 177 CV con 270 Nm, 0-100 en 7,9 segundos —entre lo mejor del segmento— y diseño exterior agresivo de aires premium. Sus 7,9 segundos de 0 a 100 lo colocan entre los SUV compactos más rápidos de su precio en España, y el diseño agresivo le da una presencia que sus rivales generalistas no ofrecen por 27.500 €. El compacto chino que discute prestaciones con los generalistas europeos, con marca en expansión y concesionarios en crecimiento.",
+      "Aquí solo en gasolina —el híbrido vive en otros mercados—, 381 litros justos de maletero ante europeos, 7,4 l/100 km mejorables frente a híbridos, imagen por consolidar y talleres más escasos que los tradicionales. Los 270 Nm desde bajo régimen explican su nervio. Producto competitivo con marca en despliegue: la apuesta española de Haval. Pesa 1.595 kg, una cifra contenida para su tamaño y equipamiento."
     ],
     veredicto: "Para quien quiera prestaciones a buen precio confiando en la marca; no para maletero o hibridación.",
   },

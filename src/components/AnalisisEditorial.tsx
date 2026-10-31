@@ -5,7 +5,6 @@
 import { useEffect, useState } from "react";
 import type { AnalisisEditorial as Analisis } from "@/lib/analisis-editorial-tipos";
 import { cargarAnalisisEditorial } from "@/lib/analisis-editorial/cargar";
-import DatosVerificados from "@/components/DatosVerificados";
 
 // 31/10/2026 (velocidad): el análisis llega de un shard diferido (~100 KB) en vez de un chunk
 // estático de 5,4 MB. Mientras carga se pinta un marcador oculto (data-editorial-cargando) que
@@ -23,9 +22,8 @@ export default function AnalisisEditorial({ slug }: { slug: string }) {
   }, [slug]);
   if (!res || res.slug !== slug) return <span data-editorial-cargando="" hidden />;
   const analisis = res.a;
-  if (!analisis || analisis.parrafos.length === 0) return <DatosVerificados slug={slug} />;
+  if (!analisis || analisis.parrafos.length === 0) return null;
   return (
-    <>
     <section
       className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
       aria-label="Análisis editorial"
@@ -44,7 +42,5 @@ export default function AnalisisEditorial({ slug }: { slug: string }) {
         </p>
       ) : null}
     </section>
-    <DatosVerificados slug={slug} />
-    </>
   );
 }

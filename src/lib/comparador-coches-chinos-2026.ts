@@ -291,7 +291,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     precioDesde: 102100, // 766.000 CNY (Premium, tarifa oficial China, CnEVPost 05/08/2026) ÷ 7,4991 (BCE 19/10/2026), redondeado a la centena; sin precio en España
     potenciaCv: 523,
     autonomiaKm: 340, // CLTC, versión Premium (330 km en Executive y Flagship)
-    maleteroL: 758,
+    maleteroL: null,
     ceroCien: 5.7,
     velocidadMax: 200,
     bateriaKwh: 65,
@@ -312,10 +312,10 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde"],
     pros: [
-      "Segunda fila con asientos de masaje de 20 puntos y pantalla de proyección de 41,6 pulgadas",
+      "Lujo de primera clase: asientos capitán, cielo estrellado y cafetera a bordo",
       "523 CV eléctricos con 1.300-1.335 km combinados (CLTC)",
       "Huawei ADS 5 con seis LiDAR (asistencia a la conducción)",
-      "Rivales declarados: Toyota Alphard y Lexus LM, de los que se diferencia por tamaño y por la tecnología de Huawei",
+      "Rival declarado de Rolls-Royce y Maybach",
     ],
     contras: [
       "Solo se vende en China; para Europa no hay precio ni fecha",

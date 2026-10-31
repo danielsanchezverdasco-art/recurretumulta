@@ -36,7 +36,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
     etiquetaDgt: "C",
     pros: [
       "Precio de partida competitivo en España: desde 27.500 €",
-      "177 CV y 270 Nm en la versión 1.5T S Ultra; el resto de acabados Pro rinde 143 CV y 210 Nm",
+      "177 CV con 270 Nm: prestaciones sobradas para un SUV compacto",
       "0-100 km/h en 7,9 segundos, de lo mejor de su segmento",
       "Diseño exterior agresivo y reconocible, estilo premium",
       "Marca en expansión europea con red de concesionarios en crecimiento",
@@ -44,7 +44,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
     contras: [
       "En España se vende en gasolina; el híbrido solo en otros mercados",
       "Maletero de 381 litros, justo frente a rivales europeos",
-      "Consumo de 7,5 l/100 km en la S Ultra, mejorable frente a híbridos",
+      "Consumo de 7,4 l/100 km, mejorable frente a híbridos",
       "Marca con imagen aún por consolidar en España",
       "Red de talleres más reducida que las marcas tradicionales",
     ],
@@ -52,7 +52,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
     anchoMm: 1898,
     altoMm: 1625,
     pesoKg: 1595,
-    consumo: 7.5,
+    consumo: 7.4,
     consumoUnidad: "l/100 km",
     plazas: 5,
     parNm: 270,

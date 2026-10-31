@@ -383,7 +383,7 @@ export const ANALISIS_COCHE_05: MapaAnalisis = {
   },
   "dacia-bigster-2026-hybrid-155-precio-ficha-tecnica": {
     parrafos: [
-      "El familiar grande electrificado más barato con automática: Bigster Hybrid 155 desde 29.290 €, con 155 caballos y 4,6 l/100 km. La acumulador de 1,4 kilovatios hora se recarga en cada deceleración y posibilita moverse en a baterías por la urbe, en silencio y sin consumir. En carretera el gasto sigue contenido y los 155 caballos mejoran la respuesta frente al TCe. Ningún otro C-todocamino electrificado con cambio automática baja de los 30.000 €. Es el Bigster para la familiares que hace muchos kilómetros urbanos y quiere olvidar el tercer pedal para siempre.",
+      "El familiar grande electrificado más barato con automática: Bigster Hybrid 155 desde 29.290 €, con 155 caballos y 4,6 l/100 km. La acumulador de 1,7 kilovatios hora se recarga en cada deceleración y posibilita moverse en a baterías por la urbe, en silencio y sin consumir. En carretera el gasto sigue contenido y los 155 caballos mejoran la respuesta frente al TCe. Ningún otro C-todocamino electrificado con cambio automática baja de los 30.000 €. Es el Bigster para la familiares que hace muchos kilómetros urbanos y quiere olvidar el tercer pedal para siempre.",
       "La acumulador deja la carga en 546 litros frente a los 667 del TCe, el cambio sin tercer pedal pide un periodo de acostumbramiento y no hay opción de tracción total. Para rendimiento familiar sin complicaciones es la óptima versión; para máximo portaequipajes o campo, otras versiones. Con 29.290 € y 546 litros de carga, es el C-todocamino familiar electrificado para quien prioriza el gasto contenido sobre las prestaciones."
     ],
     veredicto: "electrificado familiar automática por 29.290 €; 121 litros menos de carga."
@@ -523,7 +523,7 @@ export const ANALISIS_COCHE_05: MapaAnalisis = {
   },
   "dacia-jogger-tce-110-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El familiar de 4,55 metros más barato del mercado cuesta 18.542 €: Jogger TCe 110 con 110 CV, 200 Nm y un maletero de 708 dm³ VDA que, abatiendo asientos, crece hasta 1.819. Esa cifra lo convierte en furgoneta ocasional: mudanzas, bricolaje y escapadas con material voluminoso sin alquilar nada. El 1.0 turbo de 110 CV mueve el conjunto con dignidad en uso tranquilo y homologa 6,0 l/100 km, contenido para un familiar de este tamaño. A 18.542 €, ningún familiar nuevo de 4,55 metros se acerca. La propuesta más honesta para presupuestos ajustados que necesitan espacio de verdad.",
+      "El familiar de 4,55 metros más barato del mercado cuesta 18.542 €: Jogger TCe 110 con 110 CV, 200 Nm y un maletero de 607 litros que, abatiendo asientos, crece hasta 1.819. Esa cifra lo convierte en furgoneta ocasional: mudanzas, bricolaje y escapadas con material voluminoso sin alquilar nada. El 1.0 turbo de 110 CV mueve el conjunto con dignidad en uso tranquilo y homologa 5,7 l/100 km, contenido para un familiar de este tamaño. A 18.542 €, ningún familiar nuevo de 4,55 metros se acerca. La propuesta más honesta para presupuestos ajustados que necesitan espacio de verdad.",
       "Los 110 CV firman 10,5 segundos hasta 100, así que la paciencia viene de serie; la etiqueta es C, porque la ECO vive en el Hybrid y el ECO-G; y el acabado básico es espartano. Conductor tranquilo de familia con presupuesto mínimo y necesidad de carga: sin rival. Más desahogo o ECO: el ECO-G 120."
     ],
     veredicto: "Familiar enorme por 18.542 €; exige calma y conformarse con la etiqueta C."
@@ -531,7 +531,7 @@ export const ANALISIS_COCHE_05: MapaAnalisis = {
   "dacia-jogger-tce-110-7-plazas-2026-precio-ficha-tecnica": {
     parrafos: [
       "El familiar de siete más económico del mercado: 19.252 € por el Jogger TCe 110 de siete asientos, apenas 710 € por encima del cinco plazas. La tercera fila se extrae en minutos y el coche pasa de transportar siete personas a ofrecer un volumen de furgoneta, una versatilidad inédita a este precio. El 1.0 turbo de 110 CV con 200 Nm y 5,7 l/100 km mueve el conjunto con dignidad en el uso diario. Siete asientos nuevos por el precio de un utilitario: la propuesta más sincera para la familia numerosa con el presupuesto justo.",
-      "Con las siete ocupadas quedan 160 litros de carga; los 11,2 segundos hasta 100 exigen tranquilidad; y la etiqueta C limita el acceso futuro a algunas zonas. Para la familia numerosa urbana con presupuesto mínimo no hay opción nueva; para viajar mucho por carretera, el Hybrid 140. Para la familia numerosa urbana con presupuesto mínimo no hay opción nueva; para viajar mucho por carretera, el Hybrid 140."
+      "Con las siete ocupadas quedan 160 litros de carga; los 10,5 segundos hasta 100 exigen tranquilidad; y la etiqueta C limita el acceso futuro a algunas zonas. Para la familia numerosa urbana con presupuesto mínimo no hay opción nueva; para viajar mucho por carretera, el Hybrid 140. Para la familia numerosa urbana con presupuesto mínimo no hay opción nueva; para viajar mucho por carretera, el Hybrid 140."
     ],
     veredicto: "Siete asientos nuevos por 19.252 €; 710 € separan el 5 del 7 plazas."
   },
@@ -586,10 +586,10 @@ export const ANALISIS_COCHE_05: MapaAnalisis = {
   },
   "dacia-jogger-eco-g-120-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El familiar que menos gasta por kilómetro: Jogger ECO-G 120 desde 18.940 € con un 1.2 turbo de 122 CV, 21 más que el antiguo ECO-G 100, y dos depósitos de 50 litros, uno de gasolina y otro de gas. El resultado son más de 1.400 km de alcance combinado, una cifra que permite olvidarse del surtidor durante semanas. El GLP cuesta cerca de la mitad que la gasolina, así que los kilómetros salen notablemente más baratos, y la etiqueta ECO facilita el acceso a las zonas restringidas. Los 197 Nm dan soltura para viajar cargado y los 10,9 segundos hasta 100 son correctos.",
+      "El familiar que menos gasta por kilómetro: Jogger ECO-G 120 desde 18.940 € con un 1.2 turbo de 122 CV, 21 más que el antiguo ECO-G 100, y dos depósitos que suman 50 litros de gasolina y 28 kg de gas. El resultado son hasta 1.480 km de alcance combinado, una cifra que permite olvidarse del surtidor durante semanas. El GLP cuesta cerca de la mitad que la gasolina, así que los kilómetros salen notablemente más baratos, y la etiqueta ECO facilita el acceso a las zonas restringidas. Los 197 Nm dan soltura para viajar cargado y los 11,0 segundos hasta 100 son correctos.",
       "Es la variante de cinco plazas y la capacidad exacta de carga no está publicada para 2026; la red de estaciones de gas es menor que la de gasolina; y el automático EDC solo se ofrece en el acabado Extreme. Existe también con siete asientos por 723 € más. Para la familia que suma kilómetros, la aritmética del GLP no tiene rival."
     ],
-    veredicto: "Más de 1.400 km sin repostar por 18.940 €; la familia kilometrera, aquí."
+    veredicto: "1.480 km sin repostar por 18.940 €; la familia kilometrera, aquí."
   },
   "dacia-jogger-hybrid-140-7-plazas-2025-precio-ficha-tecnica": {
     parrafos: [
@@ -600,7 +600,7 @@ export const ANALISIS_COCHE_05: MapaAnalisis = {
   },
   "dacia-jogger-hybrid-155-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El familiar híbrido de siete plazas más barato se renueva: Jogger Hybrid 155 desde 24.450 € con un nuevo 1.8 «made in Spain», 155 CV, 4,6 l/100 km y 104 g/km con etiqueta ECO. El motor fabricado en España aporta tecnología híbrida probada y 15 caballos más que el Hybrid 140, con un consumo que baja a 4,6 litros. En versión de cinco plazas ofrece 607 litros de maletero, sin renuncias de espacio. A 24.450 €, ningún familiar híbrido se acerca: con 104 g/km, está entre los familiares menos contaminantes del mercado. La hibridación completa más barata para familias, ahora con motor español.",
+      "El familiar híbrido de siete plazas más barato se renueva: Jogger Hybrid 155 desde 24.450 € con un nuevo 1.8 «made in Spain», 155 CV, 4,5 l/100 km y 103 g/km con etiqueta ECO. El motor fabricado en España aporta tecnología híbrida probada y 15 caballos más que el Hybrid 140, con un consumo que baja a 4,5 litros. En versión de cinco plazas ofrece 607 litros de maletero, sin renuncias de espacio. A 24.450 €, ningún familiar híbrido se acerca: con 103 g/km, está entre los familiares menos contaminantes del mercado. La hibridación completa más barata para familias, ahora con motor español.",
       "La caja multimodo tiene un tacto peculiar que exige un periodo de adaptación, con siete plazas el maletero se reduce mucho y los acabados son los sencillos propios de Dacia. Sin versión enchufable para quien busque más alcance eléctrico. A 24.450 € con ECO, sin rival: la referencia híbrida familiar de 2026."
     ],
     veredicto: "Híbrido familiar con motor español por 24.450 €; el cambio pide adaptación."

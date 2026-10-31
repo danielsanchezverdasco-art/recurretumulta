@@ -1479,7 +1479,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     consumo: 18.3,
     consumoUnidad: "kWh/100 km",
     plazas: 5,
-    parNm: 270,
+    parNm: 260,
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: [],
