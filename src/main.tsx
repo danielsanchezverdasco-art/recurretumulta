@@ -47,8 +47,8 @@ function retirarPorTrozos(raiz: HTMLElement) {
   raiz.style.display = "none";
   raiz.setAttribute("aria-hidden", "true");
   // Contenedor con más hijos directos (la rejilla de tarjetas): se vacía por trozos y luego se quita el resto.
-  let grande: Element = raiz;
-  raiz.querySelectorAll("*").forEach((el) => { if (el.childElementCount > grande.childElementCount) grande = el; });
+  let grande: Element = raiz, maxHijos = raiz.childElementCount; // (childElementCount es O(n): se cachea el máximo)
+  raiz.querySelectorAll("*").forEach((el) => { const h = el.childElementCount; if (h > maxHijos) { maxHijos = h; grande = el; } });
   const paso = () => {
     const fin = performance.now() + 8;
     while (grande.lastElementChild && performance.now() < fin) {

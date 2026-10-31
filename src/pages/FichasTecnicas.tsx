@@ -354,7 +354,7 @@ function TarjetaFicha({ ficha, compacta = false }: { ficha: FichaCard; compacta?
   // el HTML de /fichas-tecnicas/ pasa de ~13 MB y 2.400 imágenes a una fracción.
   if (compacta) {
     return (
-      <article className="rounded-xl border border-gray-200 bg-white p-3 shadow-sm">
+      <article className="rounded-xl border border-gray-200 bg-white p-3 shadow-sm [content-visibility:auto] [contain-intrinsic-size:auto_96px]">
         <p className="truncate text-[10px] font-semibold uppercase tracking-wider text-gray-500">{ficha.marca}</p>
         <h3 className="line-clamp-2 text-sm font-extrabold leading-tight text-gray-900">
           <Link to={ficha.ruta}>{ficha.modelo}</Link>
