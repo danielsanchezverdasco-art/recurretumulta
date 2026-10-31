@@ -1804,5 +1804,345 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "Omoda (foto de prensa oficial; URL exacta de origen no registrada)",
 "licencia": "prensa",
 "url": "https://www.omodajaecoo.es/"
+},
+"/media/forthing-friday-ev-2025-precio-ficha-tecnica-hero-real.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Forthing_Friday_EV_IAA_2023_1X7A0251.jpg"
+},
+"/media/geely-e5-2026-precio-ficha-tecnica-hero-real.webp": {
+"autor": "LuvsMG481 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2025_Geely_EX5_Inspire_rear.jpg"
+},
+"/media/zeekr-x-2025-precio-ficha-tecnica-hero-real.webp": {
+"autor": "Elizbeth smith · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Zeekr_X_007.jpg"
+},
+"/media/aion-s-max-2024-precio-ficha-tecnica-hero-real.webp": {
+"autor": "User3204 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2023_GAC_Aion_S_Max_rear.jpg"
+},
+"/media/aion-s-max-2024-precio-ficha-tecnica-oficial-real.webp": {
+"autor": "User3204 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2023_GAC_Aion_S_Max_front.jpg"
+},
+"/media/aion-s-plus-2024-precio-ficha-tecnica-hero-real.webp": {
+"autor": "User3204 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2021_GAC_Aion_S_Plus_(rear).jpg"
+},
+"/media/aion-s-plus-2024-precio-ficha-tecnica-oficial-real.webp": {
+"autor": "User3204 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2021_GAC_Aion_S_Plus_(front).jpg"
+},
+"/media/aion-y-plus-2024-precio-ficha-tecnica-oficial-real.webp": {
+"autor": "User3204 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2022_GAC_Aion_Y_Plus.jpg"
+},
+"/media/aion-s-max-2024-precio-ficha-tecnica-hero.webp": {
+"autor": "User3204 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2023_GAC_Aion_S_Max_rear.jpg"
+},
+"/media/aion-s-plus-2024-precio-ficha-tecnica-hero.webp": {
+"autor": "User3204 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2021_GAC_Aion_S_Plus_(rear).jpg"
+},
+"/media/forthing-friday-ev-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Forthing_Friday_EV_IAA_2023_1X7A0251.jpg"
+},
+"/media/geely-e5-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "LuvsMG481 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2025_Geely_EX5_Inspire_rear.jpg"
+},
+"/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "© M 93 vía Wikimedia Commons",
+"licencia": "CC BY-SA 3.0 de",
+"url": "https://commons.wikimedia.org/wiki/File:Leapmotor_B10_Design_Pro_Max_%E2%80%93_f_25012026.jpg"
+},
+"/media/aito-m7-ultra-2024-precio-ficha-tecnica-hero.webp": {
+"autor": "Zoerides · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Aito_M7_001.jpg"
+},
+"/media/citroen-c4-x-12-puretech-130-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_e-C4_X_1X7A7279.jpg"
+},
+"/media/ford-capri-electrico-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Ford_Capri_(2024)_Auto_Zuerich_2024_DSC_6382.jpg"
+},
+"/media/ford-e-transit-courier-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Charles from Port Chester, New York · Wikimedia Commons",
+"licencia": "CC BY 2.0",
+"url": "https://commons.wikimedia.org/wiki/File:Ford_Transit_Courier_1.5_EcoBlue_(2024)_(53939198914).jpg"
+},
+"/media/ford-ranger-phev-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Ford_Ranger_MS-RT_PHEV_IAA_2025_DSC_2053.jpg"
+},
+"/media/ford-tourneo-connect-phev-150-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Ford_Tourneo_Connect_Active_(3rd_generation)_Leonberg_2022_1X7A0445.jpg"
+},
+"/media/forthing-t5-evo-hev-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Zotyefan · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Forthing_T5_Evo_IMG005.jpg"
+},
+"/media/forthing-u-tour-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:DFM_Forthing_4_U-Tour_AMA_Marbach_2025_DSC_8602.jpg"
+},
+"/media/forthing-u-tour-hev-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:DFSK_Forthing_4_U-Tour_IMG_8159.jpg"
+},
+"/media/ford-puma-st-line-x-mhev-155-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Damian B Oh · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Ford_Puma_1.0_Ecoboost_Hybrid_ST_Line_Fantastic_Red_(1).jpg"
+},
+"/media/geely-galaxy-l7-em-i-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "JustAnotherCarDesigner · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Geely_Galaxy_L7_001.jpg"
+},
+"/media/haval-chitu-2024-precio-ficha-tecnica-hero.webp": {
+"autor": "JustAnotherCarDesigner · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Haval_Chitu_001.jpg"
+},
+"/media/haval-h6-phev-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Chanokchon · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2025_Haval_H6_PHEV_Ultra.jpg"
+},
+"/media/haval-jolion-pro-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Elcondelvp · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2025_Haval_Jolion_Pro_HEV_Supreme_in_Argentina.png"
+},
+"/media/haval-xiaolong-2024-precio-ficha-tecnica-hero.webp": {
+"autor": "iMoD Official · Wikimedia Commons",
+"licencia": "CC BY 3.0",
+"url": "https://commons.wikimedia.org/wiki/File:2024_Haval_Xiaolong_BEV_front_view.png"
+},
+"/media/honda-civic-type-r-ultimate-edition-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Calreyn88 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Honda_Civic_Type_R_Ultimate_Edition_2025.jpg"
+},
+"/media/honda-cr-v-ephev-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Honda_CR-V_(6th_generation)_e-PHEV_Auto_Zuerich_2023_1X7A1066.jpg"
+},
+"/media/honda-jazz-crosstar-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2023_Honda_Jazz_Crosstar_(4th_generation)_hybrid_IMG_4612.jpg"
+},
+"/media/honda-zr-v-ehev-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Honda_ZR-V_e-HEV_IAA_2023_1X7A0542.jpg"
+},
+"/media/hongqi-eh7-2024-precio-ficha-tecnica-hero.webp": {
+"autor": "Calreyn88 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2024_Hongqi_EH7_4.jpg"
+},
+"/media/hongqi-h5-2023-precio-ficha-tecnica-hero.webp": {
+"autor": "Quzhouliulian · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Hongqi_H5_II_005.jpg"
+},
+"/media/hongqi-h5-hev-2024-precio-ficha-tecnica-hero.webp": {
+"autor": "Quzhouliulian · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Hongqi_H5_II_004.jpg"
+},
+"/media/hongqi-h6-2023-precio-ficha-tecnica-hero.webp": {
+"autor": "JustAnotherCarDesigner · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Hongqi_H6_001.jpg"
+},
+"/media/hongqi-h9-2024-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2024_Hongqi_H9_DSC_1251.jpg"
+},
+"/media/hongqi-hq9-2023-precio-ficha-tecnica-hero.webp": {
+"autor": "User3204 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2022_Hongqi_HQ9_(front).jpg"
+},
+"/media/hongqi-hs5-2023-precio-ficha-tecnica-hero.webp": {
+"autor": "Quzhouliulian · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Hongqi_HS5_facelift_005.jpg"
+},
+"/media/hongqi-hs5-phev-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Hongqi_HS5_DSC_1240.jpg"
+},
+"/media/hongqi-tiangong-05-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Hongqi_Tiangong_05_IAA_2025_DSC_1650.jpg"
+},
+"/media/hyptec-gt-2024-precio-ficha-tecnica-hero.webp": {
+"autor": "Ethan Llamas · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2024_Aion_Hyptec_GT,_front_right.jpg"
+},
+"/media/hyptec-s600-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "User3204 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2026_GAC_Aion_Hyptec_S600_(front).jpg"
+},
+"/media/hyptec-ssr-2024-precio-ficha-tecnica-hero.webp": {
+"autor": "WikiGenesis · Wikimedia Commons",
+"licencia": "CC BY 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:MAP_2024_Aion_Hyper_SSR.jpg"
+},
+"/media/im-l7-2024-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:IM_L7_GIMS_2024_1X7A2240.jpg"
+},
+"/media/im-ls7-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:IM_LS7_GIMS_2024_1X7A2396.jpg"
+},
+"/media/jac-j7-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Peżot · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:JAC_J7_Plus_Pozna%C5%84_Motor_Show_2026.jpg"
+},
+"/media/jac-js4-2025-precio-ficha-tecnica-oficial.webp": {
+"autor": "RL GNZLZ · Wikimedia Commons",
+"licencia": "CC BY-SA 2.0",
+"url": "https://commons.wikimedia.org/wiki/File:2021_JAC_JS4_1.6_Comfort.jpg"
+},
+"/media/jac-qx-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "JustAnotherCarDesigner · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Sehol_QX_001.jpg"
+},
+"/media/jac-qx-phev-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "JustAnotherCarDesigner · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:JAC_QX_PHEV_001.jpg"
+},
+"/media/jaecoo-7-shs-hibrido-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Jaecoo_7_SHS_IMG_8113.jpg"
+},
+"/media/jeep-avenger-gasolina-100-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Jeep_Avenger_1.2_1X7A1600.jpg"
+},
+"/media/leapmotor-c01-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "Quzhouliulian · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Leapmotor_C01_006.jpg"
+},
+"/media/mazda-mx-5-rf-15-skyactiv-g-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Mazda_MX-5_RF_IMG_7340.jpg"
+},
+"/media/porsche-911-turbo-s-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "Oleg Yunakov · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2024_Porsche_911_Turbo_S.jpg"
+},
+"/media/porsche-cayenne-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Porsche_Cayenne_(2023%E2%80%93)_IMG_5392.jpg"
+},
+"/media/volkswagen-california-t7-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Volkswagen_T7_California_Auto_Zuerich_2024_DSC_6634.jpg"
+},
+"/media/volkswagen-tayron-ehybrid-204-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Volkswagen_Tayron_II_eHybrid_DSC_7824.jpg"
+},
+"/media/motos/harley-davidson-street-glide-2025-ficha-tecnica-precio-1.webp": {
+"autor": "Chris Woodrich · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Harley-Davidson_Street_Glide,_Petrolia,_Ontario,_2026-05-17_02.jpg"
+},
+"/media/motos/rieju-aventura-500-2024-ficha-tecnica-precio-1.webp": {
+"autor": "ADVrache155 · Wikimedia Commons",
+"licencia": "CC BY 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Rieju_Aventura_500.jpg"
+},
+"/media/motos/rieju-aventura-rally-307-2026-ficha-tecnica-precio-1.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Rieju_Aventura_Rally_307.jpg"
+},
+"/media/motos/royal-enfield-continental-gt-650-2024-ficha-tecnica-precio.webp": {
+"autor": "Cjp24 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_Continental_GT_650_(1).jpg"
+},
+"/media/motos/royal-enfield-himalayan-450-2025-ficha-tecnica-precio-1.webp": {
+"autor": "Rouv1505 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Royal-Enfield-Himalayan-450.jpg"
+},
+"/media/volkswagen-golf-8-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "Thomas doerfer · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:VW_Golf_VIII_Life_1.5_TSI.jpg"
+},
+"/media/jaecoo-5-shs-hibrido-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "CarsofGlasgow · Wikimedia Commons",
+"licencia": "CC BY 3.0",
+"url": "https://commons.wikimedia.org/wiki/File:2025_Jaecoo_5_1.6_Luxury_(United_Kingdom)_front_view.jpg"
+},
+"/media/swm-superdual-650-2024-precio-hero.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:SWM_Superdual_650_2025.jpg"
+},
+"/media/motos/vespa-gts-310-2025-ficha-tecnica-precio-1.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Vespa_GTS_310_2025.jpg"
+},
+"/media/vespa-elettrica-ficha-tecnica-precio-oficial.webp": {
+"autor": "FDV · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Vespa-Elettrica-Madrid-070219.jpg"
 }
 };
