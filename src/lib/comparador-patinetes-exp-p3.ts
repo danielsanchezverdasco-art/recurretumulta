@@ -2464,7 +2464,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     videoCanal: "Movelectrics",
     marca: "KuKirin",
     modelo: "M5 Pro",
-    precioEur: 729,
+    precioEur: 799,
     potenciaNominalW: 1000,
     potenciaPicoW: 1200,
     autonomiaKm: 70,
@@ -2475,53 +2475,113 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     tiempoCargaH: 8.5,
     bateriaWh: 960,
     frenos: "Disco de 140 mm delantero y trasero",
-    neumaticos: '11" delantero / 10" trasero neumáticos',
+    neumaticos: "11\" delantero / 10\" trasero neumáticos",
     certificadoDgt: null,
-    foto: "/media/patinetes/kukirin-m5-pro-1.webp",
+    foto: "/media/patinetes/kukirin-m5-pro-oficial.webp",
     galeria: [
       {
-        src: "/media/patinetes/kukirin-m5-pro-2.webp",
-        alt: "Detalle del sillín del KuKirin M5 Pro",
-        ancho: 1200,
-        alto: 800,
+        "src": "/media/patinetes/kukirin-m5-pro-2.webp",
+        "alt": "Detalle del sillín del KuKirin M5 Pro",
+        "ancho": 1200,
+        "alto": 800
       },
       {
-        src: "/media/patinetes/kukirin-m5-pro-3.webp",
-        alt: "KuKirin M5 Pro con sillín en ruta",
-        ancho: 1200,
-        alto: 800,
-      },
+        "src": "/media/patinetes/kukirin-m5-pro-3.webp",
+        "alt": "KuKirin M5 Pro con sillín en ruta",
+        "ancho": 1200,
+        "alto": 800
+      }
     ],
-    aprox: ["tiempoCargaH", "autonomiaRealKm"],
+    aprox: [
+      "tiempoCargaH",
+      "autonomiaRealKm"
+    ],
     pros: [
       "1.000 W (1.200 W de pico) con sillín incluido",
       "960 Wh (48V 20Ah): 70 km declarados",
       "Suspensión de cuatro brazos: muy cómodo",
       "120 kg de carga máxima",
-      "52 km/h: buen ritmo para su concepto",
+      "52 km/h: buen ritmo para su concepto"
     ],
     contras: [
       "36,2 kg: el más pesado de esta lista de KuKirin",
       "8-9 horas de carga",
       "Con sillín no es para todos los gustos ni usos",
       "A 52 km/h no es VMP legal en España",
-      "El plegado con sillín es voluminoso",
+      "El plegado con sillín es voluminoso"
     ],
-    veredicto:
-      "El KuKirin rutero con sillín: cómodo y con autonomía para ir sentado a todas partes. Si te gusta el concepto, no tiene rival en precio.",
-    fuenteNombre: "KuKirin EU (eu-kukirin.com)",
-    fuenteUrl: "https://eu-kukirin.com/",
+    veredicto: "El KuKirin rutero con sillín: cómodo y con autonomía para ir sentado a todas partes. Si te gusta el concepto, no tiene rival en precio.",
+    fuenteNombre: "KuKirin.es (tienda oficial en España)",
+    fuenteUrl: "https://kukirin.es/producto/patinete-electrico-kukirin-m5-pro/",
     mantenimientoDIY: {
-      presionNeumaticos:
-        "Mantener la presión indicada en el flanco del neumático (según el manual oficial KuKirin)",
-      aprieteTornilleria:
-        "Revisar periódicamente que todos los tornillos estén apretados (manual oficial)",
-      trucos: [
+      "presionNeumaticos": "Mantener la presión indicada en el flanco del neumático (según el manual oficial KuKirin)",
+      "aprieteTornilleria": "Revisar periódicamente que todos los tornillos estén apretados (manual oficial)",
+      "trucos": [
         "Limpiar con paño húmedo: nada de agua a presión ni sumergirlo",
         "Para guardarlo mucho tiempo, dejar la batería al 50-70 % y recargarla cada 30-60 días",
-        "Revisar periódicamente pastillas y cables de freno",
-      ],
+        "Revisar periódicamente pastillas y cables de freno"
+      ]
     },
+    fuentesExtra: [
+      {
+        "nombre": "KuKirin.es: ficha del M5 Pro (799 €, antes 999 €; 1.000 W, 48 V 20 Ah, hasta 70 km, IP54, 120 kg)",
+        "url": "https://kukirin.es/producto/patinete-electrico-kukirin-m5-pro/",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "kukirin-g3",
+        "nombre": "KuKirin G3",
+        "precioEur": 699,
+        "autonomiaKm": 70,
+        "potenciaW": 1200,
+        "pesoKg": 31,
+        "nota": "Sin sillín; Alphascootz.eu"
+      },
+      {
+        "id": "kukirin-g2-master",
+        "nombre": "KuKirin G2 Master",
+        "precioEur": 849,
+        "autonomiaKm": 70,
+        "potenciaW": 2000,
+        "pesoKg": 33.1,
+        "nota": "EZ Bikes"
+      },
+      {
+        "id": "kukirin-g4",
+        "nombre": "KuKirin G4",
+        "precioEur": 859,
+        "autonomiaKm": 75,
+        "potenciaW": 2000,
+        "pesoKg": 34.5,
+        "nota": "KuKirin EU"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuánto cuesta el KuKirin M5 Pro en la tienda española?",
+        "a": "KuKirin.es lo anuncia a 799 € con impuestos incluidos, rebajado desde 999 €, y estima la entrega en 3-5 días laborables. Precio consultado el 31/10/2026; en la misma consulta la web mostraba la etiqueta «Sold out», así que confirma el stock antes de pagar."
+      },
+      {
+        "q": "¿Se puede limitar el M5 Pro a 25 km/h?",
+        "a": "Sí: la tienda indica que alcanza hasta 52 km/h y que se puede limitar a 25 km/h. Un VMP legal tiene una velocidad máxima de construcción de 25 km/h (Reglamento General de Vehículos, modificado por el Real Decreto 970/2020). Sin el limitador, a 52 km/h no es un VMP y no puede circular por vías urbanas como tal. Además, la web no menciona certificado DGT para este modelo."
+      },
+      {
+        "q": "¿Para qué sirve el baúl trasero del M5 Pro?",
+        "a": "KuKirin lo describe como un anclaje trasero desmontable con un pequeño baúl, pensado como base para bolsa o maleta de reparto. Con sillín y baúl el patinete pesa 36,2 kg según nuestra ficha, algo a tener en cuenta si hay que subirlo a pulso."
+      },
+      {
+        "q": "¿Qué exige la ley para usarlo en la ciudad?",
+        "a": "Casco homologado o certificado y abrochado (artículo 118.3 del Reglamento General de Circulación) y 15 años cumplidos (artículo 155.3), según el Real Decreto 518/2026 en vigor desde el 1 de octubre de 2026."
+      }
+    ]
   },
   // ─────────────────────────── JOYOR (6) ──────────────────────────
   {

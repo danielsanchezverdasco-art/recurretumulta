@@ -4460,3 +4460,8 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/smart-1-pulse-2025-precio-ficha-tecnica-oficial.webp | https://content.presspage.com/uploads/2751/53d5a409-f87e-4ba5-834a-ecdb9c3471e7/hashtag1-pulse-still-16x9-launch-press-release-quantum-blue-exterior-4.png | smart (media.smart.com, prensa oficial) | Foto de prensa oficial; licencia no indicada en la fuente |
 | /media/patinetes/segway-zt3-max-e-oficial.webp | https://www.segwayfrance.com/products/segway-zt3-max-e | Segway France (foto de producto oficial) | prensa |
 | /media/patinetes/segway-ninebot-max-g3-pro-e-oficial.webp | https://www.segwayfrance.com/products/ninebot-max-g3-pro-e | Segway France (foto de producto oficial) | prensa |
+| /media/patinetes/vsett-9-oficial.webp | https://vsett-shop.com/wp-content/uploads/2021/02/VSETT-9-BIG-DISPLAY-4.jpg | Vsett Shop Europe (foto de producto oficial) | prensa |
+| /media/patinetes/vsett-8-plus-oficial.webp | https://vsett-shop.com/wp-content/uploads/2021/04/VSETT-8-FRONT-BIG-DISPLAY-.jpeg | Vsett Shop Europe (foto de producto oficial) | prensa |
+| /media/patinetes/vsett-10-plus-apex-oficial.webp | https://vsett-shop.com/wp-content/uploads/2024/07/VSETT-10-APEX-1.jpeg | Vsett Shop Europe (foto de producto oficial) | prensa |
+| /media/patinetes/kukirin-m5-pro-oficial.webp | https://kukirin.es/wp-content/uploads/2023/02/KuKirin-M5-Pro_-patinete_electrico-PRINCIPAL.jpg | KuKirin.es (foto de producto oficial) | prensa |
+| /media/patinetes/pure-air-6-ultra-oficial.webp | https://www.pureelectric.com/cdn/shop/files/pure-scooter-air-ultra-suspension-1244805437.jpg | Pure Electric (foto de producto oficial) | prensa |

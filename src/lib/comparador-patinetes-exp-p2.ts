@@ -1990,7 +1990,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: null,
     marca: "Vsett",
     modelo: "8 Plus",
-    precioEur: null, // Sin precio oficial en EUR verificado el 21/10/2026: No publicado: VSETT no vende directamente ni publica tarifas oficiales; el 8+ solo se ofrece a través de distribuidores (en la UE ~1.091 € en retailer.
+    precioEur: null,
     potenciaNominalW: null,
     potenciaPicoW: null,
     autonomiaKm: 88,
@@ -2001,49 +2001,107 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     tiempoCargaH: 10.5,
     bateriaWh: null,
     frenos: "Frenos de tambor delanteros y traseros",
-    neumaticos: 'Neumáticos de 8,5"',
+    neumaticos: "Neumáticos de 8,5\"",
     certificadoDgt: null,
-    foto: "/media/patinetes/vsett-8-plus-1.webp",
+    foto: "/media/patinetes/vsett-8-plus-oficial.webp",
     galeria: [
       {
-        src: "/media/patinetes/vsett-8-plus-2.webp",
-        alt: "Detalle del Vsett 8 Plus",
-        ancho: 1200,
-        alto: 800,
+        "src": "/media/patinetes/vsett-8-plus-2.webp",
+        "alt": "Detalle del Vsett 8 Plus",
+        "ancho": 1200,
+        "alto": 800
       },
       {
-        src: "/media/patinetes/vsett-8-plus-3.webp",
-        alt: "Vsett 8 Plus en la ciudad",
-        ancho: 1200,
-        alto: 800,
-      },
+        "src": "/media/patinetes/vsett-8-plus-3.webp",
+        "alt": "Vsett 8 Plus en la ciudad",
+        "ancho": 1200,
+        "alto": 800
+      }
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: [
+      "autonomiaRealKm",
+      "tiempoCargaH"
+    ],
     pros: [
       "Batería LG de 21 Ah: 59-88 km declarados",
       "Doble freno de tambor: frenada sin mantenimiento",
       "Solo 20,8 kg: ligero para su autonomía",
       "Ruedas de 8,5 pulgadas",
-      "La gama 8 de Vsett, probada durante años",
+      "La gama 8 de Vsett, probada durante años"
     ],
     contras: [
       "Sin precio publicado en Europa",
       "Ficha parcial: potencia y velocidad sin publicar",
       "Los tambores frenan menos que un disco",
       "Sin certificado DGT verificado",
-      "Ruedas de 8,5 pulgadas: justas para baches",
+      "Ruedas de 8,5 pulgadas: justas para baches"
     ],
-    veredicto:
-      "El 8 Plus es el Vsett urbano ligero: 21 Ah LG y 20,8 kg. Para ciudad con mucha autonomía sin cargar kilos de más.",
-    fuenteNombre: "Vsett (oficial)",
-    fuenteUrl: "https://vsett.com/",
+    veredicto: "El 8 Plus es el Vsett urbano ligero: 21 Ah LG y 20,8 kg. Para ciudad con mucha autonomía sin cargar kilos de más.",
+    fuenteNombre: "Vsett Shop Europe (tienda oficial en español)",
+    fuenteUrl: "https://vsett-shop.com/es/producto/vsett-8/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
-      ajusteFrenosPasos: [
+      "aprieteTornilleria": "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
+      "ajusteFrenosPasos": [
         "Los frenos de tambor se tensan desde el tensor del cable en el manillar",
-        "Revisar el desgaste de las zapatas cada 1.000 km",
-      ],
+        "Revisar el desgaste de las zapatas cada 1.000 km"
+      ]
     },
+    fuentesExtra: [
+      {
+        "nombre": "Vsett Shop Europe: ficha del VSETT 8/8+ (solo disponible el 8 Lite, 949 €)",
+        "url": "https://vsett-shop.com/es/producto/vsett-8/",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "smartgyro-k2-pro",
+        "nombre": "SmartGyro K2 Pro",
+        "precioEur": 799,
+        "autonomiaKm": 60,
+        "potenciaW": 900,
+        "pesoKg": 22,
+        "nota": "SmartGyro / MediaMarkt"
+      },
+      {
+        "id": "niu-kqi3-max",
+        "nombre": "NIU KQi3 Max",
+        "precioEur": 899,
+        "autonomiaKm": 65,
+        "potenciaW": 450,
+        "pesoKg": 21,
+        "nota": "PcComponentes"
+      },
+      {
+        "id": "navee-gt3",
+        "nombre": "NAVEE GT3",
+        "precioEur": 600,
+        "autonomiaKm": 50,
+        "potenciaW": 500,
+        "pesoKg": 21,
+        "nota": "Nota de prensa oficial de Navee"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Se puede comprar hoy el Vsett 8 Plus en España?",
+        "a": "En la tienda oficial de Vsett en español solo figura a la venta el Vsett 8 Lite, con un motor trasero de 600 W, a 949 € (999 € sin la rebaja actual); la página avisa de que «actualmente sólo está disponible el VSETT 8 Lite». El 8 Plus que describe nuestra ficha ya no aparece como opción. Consultado el 31/10/2026."
+      },
+      {
+        "q": "¿Cuánto pesa el Vsett 8 frente al 8 Plus?",
+        "a": "Vsett Shop da 19 kg para el 8 Lite y un máximo de 24 kg para la gama 8/8+; nuestra ficha recoge 20,8 kg para el 8 Plus según la fuente indicada."
+      },
+      {
+        "q": "¿Qué exige la ley para circular con un Vsett 8?",
+        "a": "Casco homologado o certificado y abrochado (artículo 118.3 del Reglamento General de Circulación) y 15 años cumplidos (artículo 155.3), según el Real Decreto 518/2026 en vigor desde el 1 de octubre de 2026. Un VMP legal tiene una velocidad máxima de construcción de 25 km/h (Reglamento General de Vehículos, modificado por el Real Decreto 970/2020); los modos de más velocidad que anuncia Vsett solo valen en circuito cerrado o terreno privado."
+      }
+    ]
   },
   {
     id: "vsett-9",
@@ -2051,60 +2109,117 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: null,
     marca: "Vsett",
     modelo: "9",
-    precioEur: null, // Sin precio oficial en EUR verificado el 21/10/2026: Vsett no tiene tienda oficial directa con precios; el Vsett 9 solo aparece en distribuidores (Green220, Scooteroo, Rafplay, etc., con precios dispares.
+    precioEur: 949,
     potenciaNominalW: 650,
     potenciaPicoW: null,
-    autonomiaKm: 80,
+    autonomiaKm: 70,
     autonomiaRealKm: 54,
     velocidadMaxKmh: 45,
-    pesoKg: 26,
+    pesoKg: 24,
     cargaMaxKg: null,
     tiempoCargaH: null,
     bateriaWh: 910,
     frenos: "Freno de disco",
     neumaticos: null,
     certificadoDgt: null,
-    foto: "/media/patinetes/vsett-9-1.webp",
+    foto: "/media/patinetes/vsett-9-oficial.webp",
     galeria: [
       {
-        src: "/media/patinetes/vsett-9-2.webp",
-        alt: "Detalle del Vsett 9",
-        ancho: 1200,
-        alto: 800,
+        "src": "/media/patinetes/vsett-9-2.webp",
+        "alt": "Detalle del Vsett 9",
+        "ancho": 1200,
+        "alto": 800
       },
       {
-        src: "/media/patinetes/vsett-9-3.webp",
-        alt: "Vsett 9 en carretera",
-        ancho: 1200,
-        alto: 800,
-      },
+        "src": "/media/patinetes/vsett-9-3.webp",
+        "alt": "Vsett 9 en carretera",
+        "ancho": 1200,
+        "alto": 800
+      }
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: [
+      "autonomiaRealKm"
+    ],
     pros: [
       "Motor trasero de 650 W con batería LG de 52 V y 17,5 Ah (910 Wh)",
       "80 km declarados",
       "45 km/h de máxima",
       "26 kg: contenido para sus prestaciones",
-      "La base de la familia 9, la más popular de Vsett",
+      "La base de la familia 9, la más popular de Vsett"
     ],
     contras: [
       "Sin precio publicado",
       "No es un VMP legal tal cual (45 km/h)",
       "Freno de disco simple: justo para 45 km/h",
       "Sin certificado DGT verificado",
-      "El 9 Apex lo supera en casi todo",
+      "El 9 Apex lo supera en casi todo"
     ],
-    veredicto:
-      "El Vsett 9 es el clásico de la marca: 910 Wh LG y 80 km en 26 kg. Como base para tunear o limitar a 25, sigue siendo una referencia.",
-    fuenteNombre: "Freshly Charged",
-    fuenteUrl: "https://freshlycharged.com/",
+    veredicto: "El Vsett 9 es el clásico de la marca: 910 Wh LG y 80 km en 26 kg. Como base para tunear o limitar a 25, sigue siendo una referencia.",
+    fuenteNombre: "Vsett Shop Europe (tienda oficial en español)",
+    fuenteUrl: "https://vsett-shop.com/es/producto/vsett-9/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
-      ajusteFrenosPasos: [
+      "aprieteTornilleria": "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
+      "ajusteFrenosPasos": [
         "El freno de disco es mecánico: tensar el cable desde el tensor del manillar",
-        "Centrar la pinza aflojando sus dos tornillos, apretar la maneta y volver a apretar",
-      ],
+        "Centrar la pinza aflojando sus dos tornillos, apretar la maneta y volver a apretar"
+      ]
     },
+    fuentesExtra: [
+      {
+        "nombre": "Vsett Shop Europe: ficha del VSETT 9/9+ (9 Lite 949 €, 9+ Super 1.449 €, 9+ Pro 1.599 €)",
+        "url": "https://vsett-shop.com/es/producto/vsett-9/",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "vsett-9-plus-r",
+        "nombre": "Vsett 9+ R",
+        "precioEur": 1400,
+        "autonomiaKm": 60,
+        "potenciaW": 1300,
+        "pesoKg": 25,
+        "nota": "La variante de doble motor (LOCO Scooters)"
+      },
+      {
+        "id": "kaabo-mantis-gt",
+        "nombre": "Kaabo Mantis GT",
+        "precioEur": 999,
+        "autonomiaKm": 80,
+        "potenciaW": 2000,
+        "pesoKg": 29,
+        "nota": "Más potencia por menos dinero (Max Blinker)"
+      },
+      {
+        "id": "kingsong-n12-pro",
+        "nombre": "Kingsong N12 Pro",
+        "precioEur": 999,
+        "autonomiaKm": 80,
+        "potenciaW": 1000,
+        "pesoKg": 29.3,
+        "nota": "Kingsong (oficial)"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuánto cuesta el Vsett 9 en la tienda oficial española?",
+        "a": "En Vsett Shop Europe (versión en español), el 9 Lite de un solo motor de 650 W cuesta 949 €; las variantes de doble motor 9+ Super y 9+ Pro suben a 1.449 € y 1.599 €. Precios consultados el 31/10/2026 y sin gastos de envío."
+      },
+      {
+        "q": "¿Pesa de verdad solo 24 kg el Vsett 9?",
+        "a": "Es la cifra que da Vsett Shop para el 9 de un solo motor; la versión 9+ de doble motor sube a unos 27 kg. En nuestra ficha figuraba antes 26 kg de una prueba externa (Freshly Charged)."
+      },
+      {
+        "q": "¿Puedo circular con el Vsett 9 por la ciudad a 45 km/h?",
+        "a": "No. Un VMP legal tiene una velocidad máxima de construcción de 25 km/h (Reglamento General de Vehículos, modificado por el Real Decreto 970/2020); los modos de más velocidad que anuncia Vsett solo valen en circuito cerrado o terreno privado. Además debes llevar casco homologado o certificado (artículo 118.3 del Reglamento General de Circulación) y tener 15 años cumplidos (artículo 155.3), según el Real Decreto 518/2026."
+      }
+    ]
   },
   {
     id: "vsett-9-apex",
@@ -2167,61 +2282,116 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: null,
     marca: "Vsett",
     modelo: "10+ Apex",
-    precioEur: null, // Sin precio oficial en EUR verificado el 21/10/2026: Vsett no tiene tienda oficial directa con precios; el 10+ Apex solo se vende a través de distribuidores (p.
+    precioEur: 1799,
     potenciaNominalW: 3000,
     potenciaPicoW: null,
-    autonomiaKm: null,
+    autonomiaKm: 90,
     autonomiaRealKm: null,
     velocidadMaxKmh: 80,
     pesoKg: 40,
     cargaMaxKg: 130,
     tiempoCargaH: null,
-    bateriaWh: null,
+    bateriaWh: 1248,
     frenos: "Frenos hidráulicos de 4 pistones",
     neumaticos: null,
     certificadoDgt: null,
-    foto: "/media/patinetes/vsett-10-plus-apex-1.webp",
+    foto: "/media/patinetes/vsett-10-plus-apex-oficial.webp",
     galeria: [
       {
-        src: "/media/patinetes/vsett-10-plus-apex-2.webp",
-        alt: "Frenos del Vsett 10+ Apex",
-        ancho: 1200,
-        alto: 800,
+        "src": "/media/patinetes/vsett-10-plus-apex-2.webp",
+        "alt": "Frenos del Vsett 10+ Apex",
+        "ancho": 1200,
+        "alto": 800
       },
       {
-        src: "/media/patinetes/vsett-10-plus-apex-3.webp",
-        alt: "Vsett 10+ Apex, doble motor",
-        ancho: 1200,
-        alto: 800,
-      },
+        "src": "/media/patinetes/vsett-10-plus-apex-3.webp",
+        "alt": "Vsett 10+ Apex, doble motor",
+        "ancho": 1200,
+        "alto": 800
+      }
     ],
-    aprox: ["potenciaNominalW"],
+    aprox: [],
     pros: [
       "Doble motor de 1500 W (3000 W combinados)",
       "80 km/h de velocidad máxima",
       "Frenos hidráulicos de 4 pistones",
       "Suspensión hidráulica",
       "130 kg de carga máxima",
-      "Dos baterías a elegir (20,8 o 25,6 Ah)",
+      "Dos baterías a elegir (20,8 o 25,6 Ah)"
     ],
     contras: [
       "Pesa 40 kg",
       "Sin precio ni autonomía publicados",
       "No es un VMP legal: solo circuito privado",
       "1.248 o 1.536 Wh según la batería elegida (20,8 o 25,6 Ah)",
-      "El 10+ R ofrece más autonomía",
+      "El 10+ R ofrece más autonomía"
     ],
-    veredicto:
-      "El 10+ Apex es el Vsett prestacional puro: 3000 W, 4 pistones y 80 km/h. Para circuito; en la calle, ni lo intentes.",
-    fuenteNombre: "eBike Super Shop",
-    fuenteUrl: "https://ebikesupershop.com/",
+    veredicto: "El 10+ Apex es el Vsett prestacional puro: 3000 W, 4 pistones y 80 km/h. Para circuito; en la calle, ni lo intentes.",
+    fuenteNombre: "Vsett Shop Europe (tienda oficial en español)",
+    fuenteUrl: "https://vsett-shop.com/es/producto/vsett-10-apex-2/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar los anclajes de la suspensión hidráulica, la potencia del manillar y los ejes de ambas ruedas motrices",
-      ajusteFrenosPasos: [
+      "aprieteTornilleria": "Revisar los anclajes de la suspensión hidráulica, la potencia del manillar y los ejes de ambas ruedas motrices",
+      "ajusteFrenosPasos": [
         "Frenos hidráulicos de 4 pistones: purgar el circuito en taller si la maneta se hunde",
-        "Revisar las pastillas cada 1.000 km",
-      ],
+        "Revisar las pastillas cada 1.000 km"
+      ]
     },
+    fuentesExtra: [
+      {
+        "nombre": "Vsett Shop Europe: ficha del VSETT 10 APEX (1.799 € con 20,8 Ah; 2.099 € con 25,6 Ah)",
+        "url": "https://vsett-shop.com/es/producto/vsett-10-apex-2/",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "vsett-10-plus",
+        "nombre": "Vsett 10+",
+        "precioEur": 2000,
+        "autonomiaKm": 130,
+        "potenciaW": 2800,
+        "pesoKg": 36,
+        "nota": "El modelo del que parte el Apex (ElectricalThingSpain)"
+      },
+      {
+        "id": "teverun-fighter-11",
+        "nombre": "Teverun Fighter 11",
+        "precioEur": 2250,
+        "autonomiaKm": 80,
+        "potenciaW": 2400,
+        "pesoKg": 35,
+        "nota": "Distribuidor UE Maz Rider"
+      },
+      {
+        "id": "minimotors-dualtron-city-2024",
+        "nombre": "Minimotors Dualtron City 2024",
+        "precioEur": 1890,
+        "autonomiaKm": 90,
+        "potenciaW": 2400,
+        "pesoKg": 41.9,
+        "nota": "Manual oficial de Minimotors"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuánto cuesta el Vsett 10+ Apex en la tienda oficial?",
+        "a": "Vsett Shop Europe lo vende como «VSETT 10 APEX» a 1.799 € con batería de 60 V y 20,8 Ah (1.248 Wh, hasta 90 km) y a 2.099 € con 60 V y 25,6 Ah (hasta 110 km en modo de un motor). Precios consultados el 31/10/2026."
+      },
+      {
+        "q": "¿El Vsett 10+ Apex es legal para circular en España?",
+        "a": "No a 80 km/h. Vsett anuncia 3.000 W nominales (2 × 1.500 W) y hasta 80 km/h «donde esté permitido». Un VMP legal tiene una velocidad máxima de construcción de 25 km/h (Reglamento General de Vehículos, modificado por el Real Decreto 970/2020); los modos de más velocidad que anuncia Vsett solo valen en circuito cerrado o terreno privado. No consta certificado de circulación verificado en nuestra ficha."
+      },
+      {
+        "q": "¿Qué casco y qué edad exige el Real Decreto 518/2026 con un patinete así?",
+        "a": "Casco homologado o certificado y abrochado (artículo 118.3) y 15 años cumplidos (artículo 155.3), desde el 1 de octubre de 2026. Con 40 kg y 80 km/h de punta, lo razonable es un casco integral aunque la norma no lo imponga."
+      }
+    ]
   },
   {
     id: "vsett-10-plus-r",
