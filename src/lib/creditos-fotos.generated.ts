@@ -1804,5 +1804,15 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "Omoda (foto de prensa oficial; URL exacta de origen no registrada)",
 "licencia": "prensa",
 "url": "https://www.omodajaecoo.es/"
+},
+"/media/patinetes/segway-zt3-max-e-oficial.webp": {
+"autor": "Segway France (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://www.segwayfrance.com/products/segway-zt3-max-e"
+},
+"/media/patinetes/segway-ninebot-max-g3-pro-e-oficial.webp": {
+"autor": "Segway France (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://www.segwayfrance.com/products/ninebot-max-g3-pro-e"
 }
 };
