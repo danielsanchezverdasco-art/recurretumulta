@@ -22,18 +22,22 @@ import CosaEnBanner from "@/components/CosaEnBanner.tsx";
 const fmtNum = (n: number) => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ".");
 
 const MULTAS_COMUNES: [string, string, string][] = [
-  ["Exceso de velocidad leve", "100 €", "0"],
-  ["Exceso de velocidad grave", "300 €", "2"],
-  ["Exceso de velocidad muy grave", "400 €", "4"],
-  ["Exceso de más de 60 km/h sobre el límite", "600 €", "6"],
+  ["Exceso de velocidad captado por cinemómetro (cuadro del anexo IV)", "100 a 600 €", "0 a 6"],
+  ["Sujetar el móvil con la mano al conducir", "200 €", "6"],
+  ["No usar cinturón, casco u otro elemento de protección obligatorio", "200 €", "4"],
   ["Saltarse un semáforo en rojo", "200 €", "4"],
-  ["Usar el móvil al volante", "200 €", "6"],
-  ["No usar el cinturón de seguridad", "200 €", "4"],
-  ["Alcohol: 0,25–0,50 mg/l", "500 €", "4"],
-  ["Alcohol: más de 0,60 mg/l", "1.000 €", "6"],
-  ["Aparcar en lugar prohibido", "200 €", "0"],
-  ["Circular sin la ITV en vigor", "200 €", "0"],
+  ["Alcohol, conductores en general: más de 0,25 y hasta 0,50 mg/l en aire espirado", "500 €", "4"],
+  ["Alcohol, conductores en general: por encima de 0,50 mg/l en aire espirado", "1.000 €", "6"],
+  ["Parar o estacionar en un lugar peligroso o que obstaculice gravemente", "200 €", "0"],
+  ["Infracciones relativas a la inspección técnica de vehículos", "200 €", "0"],
 ];
+
+// Nombre del órgano sancionador que se muestra en el cuerpo de la página.
+function orgVisible(c: { organismo: string; organismoNombre: string }): string {
+  if (c.organismo === "PF") return "Gobierno de Navarra";
+  if (c.organismo === "ERT") return "Dirección de Tráfico del Gobierno Vasco";
+  return c.organismoNombre;
+}
 
 export default function ComunidadPage() {
   const { ccaa: slug } = useParams<{ ccaa: string }>();
@@ -158,7 +162,7 @@ export default function ComunidadPage() {
             <p
               className="text-white/80 text-sm md:text-base leading-relaxed max-w-xl"
             >
-              Guía autonómica: quién tramita tu multa ({c.organismoNombre}), cómo recurrirla paso a paso y qué zonas de bajas emisiones te pueden sancionar. Análisis con IA gratis.
+              Guía autonómica: quién tramita tu multa ({orgVisible(c)}), cómo recurrirla paso a paso y qué zonas de bajas emisiones te pueden sancionar. Análisis con IA gratis.
             </p>
             <div
               className="flex items-center gap-2 text-xs text-white/60 pt-1"
@@ -298,7 +302,7 @@ export default function ComunidadPage() {
                 },
                 {
                   n: "4",
-                  title: `Presenta ante ${c.organismoNombre}`,
+                  title: c.organismo === "DGT" || c.organismo === "SCT" ? `Presenta ante ${c.organismoNombre}` : "Presenta ante el órgano competente",
                   desc: c.organismo === "DGT"
                     ? "Envíalo por correo certificado o en sede.dgt.gob.es. Plazo: 1 mes desde la notificación."
                     : `Envíalo según el procedimiento de ${c.organismoNombre} (${c.organismoWeb}). Plazo: 1 mes desde la notificación.`,
@@ -329,22 +333,22 @@ export default function ComunidadPage() {
                     <Landmark className="w-4 h-4 text-red-600" />
                   </div>
                   <div>
-                    <p className="text-sm font-black text-gray-900">{c.organismoNombre}</p>
+                    <p className="text-sm font-black text-gray-900">{orgVisible(c)}</p>
                     <p className="text-[10px] text-gray-400 uppercase tracking-wide font-semibold">Organismo competente en {c.nombre}</p>
                   </div>
                 </div>
                 <p className="text-xs text-gray-600 leading-relaxed">
                   {c.organismo === "DGT" && (
-                    <>En {c.nombre} las multas interurbanas las tramita la Dirección General de Tráfico. Los recursos de reposición se presentan ante la Jefatura Provincial de Tráfico correspondiente o telemáticamente.</>
+                    <>En {c.nombre} las multas interurbanas las tramita la Dirección General de Tráfico. La reposición se interpone ante el órgano que dictó la resolución, que es quien la resuelve (art. 96.2 del texto refundido de la Ley de Tráfico), también por vía electrónica en la sede de la DGT.</>
                   )}
                   {c.organismo === "SCT" && (
                     <>Cataluña tiene competencia propia en tráfico. El Servei Català de Trànsit tramita las sanciones en vías interurbanas catalanas y los Mossos d'Esquadra ejercen como policía de tráfico. Los recursos se presentan ante el Servei Català de Trànsit, no ante la DGT.</>
                   )}
                   {c.organismo === "ERT" && (
-                    <>El País Vasco tiene competencia propia en tráfico. La Ertzaintza denuncia en las vías vascas y el Gobierno Vasco tramita las sanciones. Los recursos se presentan ante el Gobierno Vasco (Departamento de Seguridad).</>
+                    <>El País Vasco tiene competencia propia en tráfico. La Ertzaintza colabora en la vigilancia; sancionar es competencia de la Dirección de Tráfico vasca. Los recursos se presentan ante el órgano que dictó la resolución.</>
                   )}
                   {c.organismo === "PF" && (
-                    <>Navarra tiene competencia propia en tráfico. La Policía Foral denuncia en las vías forales y el Gobierno de Navarra tramita las sanciones con procedimiento foral propio. Los recursos se presentan ante el Gobierno de Navarra.</>
+                    <>Navarra tiene competencia propia en tráfico. Con efectos del 1/07/2026, el Gobierno de Navarra tramita, resuelve y recauda las sanciones de tráfico, con denuncias de la Policía Foral, la Guardia Civil y las policías locales. Los recursos se presentan ante el Gobierno de Navarra.</>
                   )}
                 </p>
                 <a
@@ -378,7 +382,7 @@ export default function ComunidadPage() {
                       </li>
                     ))}
                   </ul>
-                  <p className="text-xs text-amber-700">Las multas de ZBE se anulan frecuentemente por falta de señalización o error en la etiqueta ambiental del vehículo.</p>
+                  <p className="text-xs text-amber-700">Cada ayuntamiento define en su ordenanza el perímetro, los horarios y la fecha desde la que sanciona, y las restricciones dependen de la etiqueta ambiental del vehículo (definición de la Ley 7/2021 que recoge el Ministerio para la Transición Ecológica). Los municipios listados figuran en el NAP de la DGT según la consulta del 31/10/2026; el listado no pretende ser exhaustivo.</p>
                 </CardContent>
               </Card>
             </div>
@@ -481,7 +485,7 @@ export default function ComunidadPage() {
                 </tbody>
               </table>
             </div>
-            <p className="text-xs text-gray-500">Si pagas dentro de los primeros 20 días naturales obtienes un 50% de descuento por pronto pago, pero renuncias a recurrir la sanción.</p>
+            <p className="text-xs text-gray-500">Importes y puntos según los artículos 76, 77 y 80 y los anexos II y IV del Real Decreto Legislativo 6/2015, en la versión consolidada del BOE actualizada el 26/06/2026. Si se paga en los primeros veinte días naturales desde la notificación, la sanción baja un 50 %, se renuncia a formular alegaciones y solo queda la vía contencioso-administrativa (artículo 94).</p>
           </section>
 
           {/* FAQ */}
@@ -507,7 +511,7 @@ export default function ComunidadPage() {
             <h2 className="text-lg md:text-xl font-black text-gray-900">Fuentes oficiales</h2>
             <ul className="space-y-2 text-sm">
               <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722" target="_blank" rel="noopener noreferrer" className="text-red-700 underline">Real Decreto Legislativo 6/2015 — Ley sobre Tráfico (BOE)</a></li>
-              <li><a href={c.organismoWeb} target="_blank" rel="noopener noreferrer" className="text-red-700 underline">{c.organismoNombre} — {c.organismoWeb.replace("https://", "")}</a></li>
+              <li><a href={c.organismoWeb} target="_blank" rel="noopener noreferrer" className="text-red-700 underline">{orgVisible(c)} — {c.organismoWeb.replace("https://", "")}</a></li>
               <li><a href="https://www.dgt.es" target="_blank" rel="noopener noreferrer" className="text-red-700 underline">Dirección General de Tráfico (DGT)</a></li>
             </ul>
           </section>
