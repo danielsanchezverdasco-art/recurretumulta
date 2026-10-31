@@ -4564,3 +4564,4 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/swm-superdual-650-2024-precio-hero.webp | https://commons.wikimedia.org/wiki/File:SWM_Superdual_650_2025.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
 | /media/motos/vespa-gts-310-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Vespa_GTS_310_2025.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
 | /media/vespa-elettrica-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Vespa-Elettrica-Madrid-070219.jpg | FDV · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/forthing-t5-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Forthing_T5_001.jpg | Jengtingchen · Wikimedia Commons | CC BY-SA 4.0 |

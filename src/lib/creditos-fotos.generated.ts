@@ -2144,5 +2144,10 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "FDV · Wikimedia Commons",
 "licencia": "CC BY-SA 4.0",
 "url": "https://commons.wikimedia.org/wiki/File:Vespa-Elettrica-Madrid-070219.jpg"
+},
+"/media/forthing-t5-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Jengtingchen · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Forthing_T5_001.jpg"
 }
 };
