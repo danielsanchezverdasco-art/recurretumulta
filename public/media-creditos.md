@@ -4501,3 +4501,23 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/geely-galaxy-l6-em-i-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Geely_Galaxy_L6_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
 | /media/ford-puma-st-line-x-mhev-155-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Ford_Puma_1.0_Ecoboost_Hybrid_ST_Line_Fantastic_Red_(1).jpg | Damian B Oh · Wikimedia Commons | CC BY-SA 4.0 |
 | /media/aito-m6-ev-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:AITO_M6_003.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/geely-galaxy-l7-em-i-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Geely_Galaxy_L7_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/geely-galaxy-m9-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Geely_Galaxy_M9_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/geely-galaxy-xingyuan-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Geely_Xingyuan_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/haval-chitu-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Haval_Chitu_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/haval-dargo-x-2024-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:2025_Haval_Dargo_X_2.0_GDIT_DCT_AWD_grey_front.jpg | Throwawayacc222 · Wikimedia Commons | CC0 |
+| /media/haval-h6-phev-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2025_Haval_H6_PHEV_Ultra.jpg | Chanokchon · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/haval-h9-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Haval_H9_with_Dubai_plate_(54958605646)_-_cropped.jpg | Abdulla Al Muhairi from Abu Dhabi, UAE · Wikimedia Commons | CC0 |
+| /media/haval-jolion-pro-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2025_Haval_Jolion_Pro_HEV_Supreme_in_Argentina.png | Elcondelvp · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/haval-xiaolong-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2024_Haval_Xiaolong_BEV_front_view.png | iMoD Official · Wikimedia Commons | CC BY 3.0 |
+| /media/haval-xiaolong-max-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Haval_Xiaolong_Max_005.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/honda-civic-type-r-ultimate-edition-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Honda_Civic_Type_R_Ultimate_Edition_2025.jpg | Calreyn88 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/honda-cr-v-ephev-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Honda_CR-V_(6th_generation)_e-PHEV_Auto_Zuerich_2023_1X7A1066.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/honda-jazz-crosstar-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2023_Honda_Jazz_Crosstar_(4th_generation)_hybrid_IMG_4612.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/honda-zr-v-ehev-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Honda_ZR-V_e-HEV_IAA_2023_1X7A0542.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-e-qm5-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_E-QM5_facelift_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hongqi-eh7-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2024_Hongqi_EH7_4.jpg | Calreyn88 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-guoya-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_Guoya_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hongqi-h5-2023-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_H5_II_005.jpg | Quzhouliulian · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-h5-hev-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_H5_II_004.jpg | Quzhouliulian · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-h6-2023-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_H6_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |

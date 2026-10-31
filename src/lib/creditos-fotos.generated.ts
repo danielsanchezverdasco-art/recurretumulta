@@ -1919,5 +1919,70 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "Damian B Oh · Wikimedia Commons",
 "licencia": "CC BY-SA 4.0",
 "url": "https://commons.wikimedia.org/wiki/File:Ford_Puma_1.0_Ecoboost_Hybrid_ST_Line_Fantastic_Red_(1).jpg"
+},
+"/media/geely-galaxy-l7-em-i-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "JustAnotherCarDesigner · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Geely_Galaxy_L7_001.jpg"
+},
+"/media/haval-chitu-2024-precio-ficha-tecnica-hero.webp": {
+"autor": "JustAnotherCarDesigner · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Haval_Chitu_001.jpg"
+},
+"/media/haval-h6-phev-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Chanokchon · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2025_Haval_H6_PHEV_Ultra.jpg"
+},
+"/media/haval-jolion-pro-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Elcondelvp · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2025_Haval_Jolion_Pro_HEV_Supreme_in_Argentina.png"
+},
+"/media/haval-xiaolong-2024-precio-ficha-tecnica-hero.webp": {
+"autor": "iMoD Official · Wikimedia Commons",
+"licencia": "CC BY 3.0",
+"url": "https://commons.wikimedia.org/wiki/File:2024_Haval_Xiaolong_BEV_front_view.png"
+},
+"/media/honda-civic-type-r-ultimate-edition-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Calreyn88 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Honda_Civic_Type_R_Ultimate_Edition_2025.jpg"
+},
+"/media/honda-cr-v-ephev-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Honda_CR-V_(6th_generation)_e-PHEV_Auto_Zuerich_2023_1X7A1066.jpg"
+},
+"/media/honda-jazz-crosstar-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2023_Honda_Jazz_Crosstar_(4th_generation)_hybrid_IMG_4612.jpg"
+},
+"/media/honda-zr-v-ehev-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Honda_ZR-V_e-HEV_IAA_2023_1X7A0542.jpg"
+},
+"/media/hongqi-eh7-2024-precio-ficha-tecnica-hero.webp": {
+"autor": "Calreyn88 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2024_Hongqi_EH7_4.jpg"
+},
+"/media/hongqi-h5-2023-precio-ficha-tecnica-hero.webp": {
+"autor": "Quzhouliulian · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Hongqi_H5_II_005.jpg"
+},
+"/media/hongqi-h5-hev-2024-precio-ficha-tecnica-hero.webp": {
+"autor": "Quzhouliulian · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Hongqi_H5_II_004.jpg"
+},
+"/media/hongqi-h6-2023-precio-ficha-tecnica-hero.webp": {
+"autor": "JustAnotherCarDesigner · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Hongqi_H6_001.jpg"
 }
 };
