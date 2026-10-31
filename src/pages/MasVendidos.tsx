@@ -46,7 +46,7 @@ const lideresPorModelo = (ps: PeriodoVentas[]) => {
   return Object.entries(cuenta).sort((x, y) => y[1] - x[1]);
 };
 const mes = (p: PeriodoVentas) => p.etiqueta.split(" ")[0].toLowerCase();
-const pct1 = (n: number) => n.toLocaleString("es-ES", { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+const pct1 = (n: number) => (Math.round(n * 10) / 10).toFixed(1).replace(".", ",");
 
 const MEDALLAS = ["🥇", "🥈", "🥉"];
 
