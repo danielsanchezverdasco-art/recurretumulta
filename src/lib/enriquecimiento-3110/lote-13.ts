@@ -22,7 +22,7 @@ export const LOTE_13: MapaEnriquecimiento = {
       { etiqueta: "Pares", valor: "170 Nm del térmico a 3.500 rpm; 205 Nm del eléctrico de 0 a 1.630 rpm", ...SRC1 },
       { etiqueta: "Motor de gasolina", valor: "1.789 cm³, 4 cilindros, 16 válvulas, gasolina E10", ...SRC1 },
       { etiqueta: "Acumulador", valor: "Iones de litio, 1,4 kWh, 280 V", ...SRC1 },
-      { etiqueta: "Prestaciones (Renault)", valor: "0-100 km/h en 8,9 s; 80-120 km/h en 7,7 s; 1.000 m en 30,9 s; 180 km/h", ...SRC1 },
+      { etiqueta: "Prestaciones (Renault)", valor: "0-100 km/h: 8,9 s; 80-120 km/h: 7,7 s; 1.000 m: 30,9 s; punta de 180 km/h", ...SRC1 },
       { etiqueta: "Homologación WLTP", valor: "4,4-4,5 l/100 km; 99-100 g/km; Euro 6 E bis; depósito de 48 l", ...SRC1 },
       { etiqueta: "Masas y remolque", valor: "En orden de marcha 1.366 kg; MMAC 1.890 kg; MTR 2.890 kg; remolque frenado 1.000 kg", ...SRC1 },
       { etiqueta: "Neumáticos disponibles", valor: "215/60 R17, 215/55 R18 y 225/45 R19", ...SRC1 },

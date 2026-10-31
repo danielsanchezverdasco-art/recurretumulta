@@ -21,7 +21,7 @@ export const LOTE_16: MapaEnriquecimiento = {
       { etiqueta: "Adultos y niños", valor: "Adultos 87 %; niños 83 %", fuente: "Euro NCAP, ocupantes del Renault Rafale", url: RAF, anio: "2024" },
       { etiqueta: "Peatones, ciclistas y asistencias", valor: "Usuarios vulnerables 69 %; asistencias 87 %", fuente: "Euro NCAP, apartados de usuarios vulnerables y asistencias del Rafale", url: RAF, anio: "2024" },
       { etiqueta: "Variante ensayada", valor: "1.2 Tce E-Tech 200 híbrido, 4x2 (asterisco en la tabla)", ...SRC1 },
-      { etiqueta: "Variante cubierta", valor: "1.2 Tce E-Tech 230 híbrido enchufable, 4x4", ...SRC1 },
+      { etiqueta: "Variante cubierta", valor: "Híbrido enchufable 1.2 Tce E-Tech 230, 4x4", ...SRC1 },
       { etiqueta: "Pecho del conductor", valor: "Marginal en el frontal desplazado y en el poste lateral", fuente: "Euro NCAP, descripción de ocupantes adultos del Rafale", url: RAF, anio: "2024" },
       { etiqueta: "Plaza trasera central", valor: "El manual excluye las sillas infantiles universales", fuente: "Euro NCAP, descripción de ocupantes infantiles del Rafale", url: RAF, anio: "2024" },
     ],

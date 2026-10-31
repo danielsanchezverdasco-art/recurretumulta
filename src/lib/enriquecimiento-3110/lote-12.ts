@@ -1,4 +1,4 @@
-// Lote 12 — Xiaomi SU7 / SU7 Pro / SU7 Max (cuadro oficial de Xiaomi, marzo de 2024, mercado chino, ciclo CLTC).
+// Lote 12 — Xiaomi SU7 / SU7 Pro / SU7 Max (tabla oficial de la marca de marzo 2024; China; CLTC).
 import type { MapaEnriquecimiento } from "./tipos";
 
 const XM = "https://web.archive.org/web/20240329062834/https://www.xiaomiev.com/car-config";
@@ -22,7 +22,7 @@ export const LOTE_12: MapaEnriquecimiento = {
       { etiqueta: "Motor trasero", valor: "220 kW (299 PS); par de 400 Nm; síncrono de imanes permanentes", ...SRC1 },
       { etiqueta: "Batería de acceso", valor: "73,6 kWh LFP, celdas «Blade» de FinDreams (BYD)", ...SRC1 },
       { etiqueta: "Autonomía anunciada (CLTC)", valor: "700 km con Michelin e·Primacy; 628 km con el neumático Pilot Sport EV de 20\"", ...SRC1 },
-      { etiqueta: "Aceleración y punta", valor: "5,28 s de 0 a 100 km/h; 210 km/h", ...SRC1 },
+      { etiqueta: "Aceleración y punta", valor: "0–100 km/h: 5,28 s; punta de 210 km/h", ...SRC1 },
       { etiqueta: "Recarga rápida (10-80 %)", valor: "25 min en cargador propio de Xiaomi, a temperatura ambiente", ...SRC1 },
       { etiqueta: "Medidas y giro", valor: "4.997 × 1.963 × 1.455 mm; batalla de 3.000 mm; giro mínimo de 5,7 m; Cd 0,195", ...SRC1 },
       { etiqueta: "Capacidad de carga", valor: "Maletero 517 L; hueco delantero 105 L", ...SRC1 },
@@ -33,7 +33,7 @@ export const LOTE_12: MapaEnriquecimiento = {
   "xiaomi-su7-pro-2026-precio-ficha-tecnica": {
     titulo: "SU7 Pro: batería, autonomía y carga según Xiaomi",
     parrafos: [
-      "El escalón intermedio del cuadro oficial de Xiaomi (marzo de 2024, mercado chino) se llama Pro y cuesta 245.900 yuanes. Conserva el motor trasero de la versión de acceso, con 299 PS y 400 Nm, pero cambia la batería por una de 94,3 kWh con celdas Shenxing de CATL, y con ella la autonomía CLTC pasa de 700 a 830 km (758 km con el neumático de 20 pulgadas).",
+      "El escalón intermedio del cuadro oficial de Xiaomi (marzo de 2024, mercado chino) se llama Pro y cuesta 245.900 yuanes. Conserva el motor trasero de la versión de acceso, con 299 PS y 400 Nm, pero sustituye la batería por un paquete de 94,3 kWh (celdas Shenxing de CATL) y la autonomía CLTC sube de 700 a 830 km, que con llantas de 20 pulgadas se queda en 758.",
       "Con ese acumulador mayor, Xiaomi anuncia 5,7 segundos para llegar de parado a los cien por hora, más lentos que los 5,28 s del acceso, y una punta de 210 km/h. La recarga de 10 a 80 % tarda 30 minutos en cargadores de la marca. El motor eléctrico es el mismo que en el acceso, así que la potencia oficial es de 299 PS, la misma cifra de la ficha de arriba.",
       "Las medidas son las del acceso (4.997 × 1.963 × 1.455 mm y 3.000 mm de batalla), con 517 litros de maletero (la ficha de arriba da esa misma cifra) y delantero de 105. El Pro equipa dos chips NVIDIA Orin (508 TOPS), un lidar y tres radares de ondas milimétricas, frente al chip y al radar únicos del acceso.",
     ],

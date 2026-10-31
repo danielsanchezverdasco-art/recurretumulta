@@ -22,8 +22,8 @@ export const LOTE_09: MapaEnriquecimiento = {
     filas: [
       { etiqueta: "Motor con GLP", valor: "1.199 cm³, 3 cilindros; 90 kW (≈122 CV); 197 Nm de 1.750 a 3.750 rpm", ...SRC1 },
       { etiqueta: "Motor con gasolina", valor: "84 kW (≈114 CV); 190 Nm de 2.000 a 4.000 rpm", ...SRC1 },
-      { etiqueta: "Consumo y CO₂ (GLP)", valor: "7,4 litros cada 100 km y 121 g de CO₂ por km (WLTP, manual)", ...SRC2 },
-      { etiqueta: "Consumo y CO₂ (gasolina)", valor: "5,9 litros cada 100 km y 134 g de CO₂ por km (WLTP, manual)", ...SRC2 },
+      { etiqueta: "Consumo y CO₂ (GLP)", valor: "GLP: 7,4 l/100 km; 121 g/km de CO₂ (WLTP, manual)", ...SRC2 },
+      { etiqueta: "Consumo y CO₂ (gasolina)", valor: "Gasolina: 5,9 l/100 km; 134 g/km de CO₂ (WLTP, manual)", ...SRC2 },
       { etiqueta: "Depósitos", valor: "Gasolina 50 l; GLP 50 l totales y 40 l de llenado", ...SRC2 },
       { etiqueta: "Autonomía anunciada", valor: "Más de 1.400 km combinados", fuente: "Dacia España, página de motores del Jogger", url: MOT, anio: "2025" },
       { etiqueta: "Aceleración hasta 100 km/h (5 plazas, manual)", valor: "10,9 s con GLP; 11,9 s con gasolina", fuente: "Folleto Dacia PT Eco-G 120, prestaciones", url: BRO, anio: "2025" },
@@ -33,7 +33,7 @@ export const LOTE_09: MapaEnriquecimiento = {
   "dacia-jogger-hybrid-155-2026-precio-ficha-tecnica": {
     titulo: "Jogger Hybrid 155: datos del sistema híbrido según Dacia",
     parrafos: [
-      "El Jogger Hybrid 155 combina un 1.8 de gasolina de 1.789 cm³ y cuatro cilindros con dos motores eléctricos y un cambio automático multimodo. Dacia España indica una potencia combinada de 158 CV, aunque el modelo se vende con el nombre 155. El folleto de Dacia Portugal da 172 Nm para el motor térmico entre 3.000 y 4.000 rpm y 205 Nm para el eléctrico.",
+      "El Jogger Hybrid 155 reúne un 1.8 de gasolina de 1.789 cm³ y cuatro cilindros, dos motores eléctricos y un cambio automático multimodo. Dacia España indica una potencia combinada de 158 CV, aunque el modelo se vende con el nombre 155. El folleto de Dacia Portugal da 172 Nm para el motor térmico entre 3.000 y 4.000 rpm y 205 Nm para el eléctrico.",
       "La batería de tracción es de iones de litio, de 230 V y 1,4 kWh, es decir, 1,4 kWh y no los 1,7 kWh que se citan en algunas descripciones antiguas. Dacia no recarga este híbrido por enchufe: la batería se regenera con la frenada y las deceleraciones, y la marca asegura que hasta un 80 % de la marcha urbana puede hacerse sin gasolina.",
       "El folleto homologa 4,6 litros cada 100 km y 104 g de CO₂ por kilómetro, las mismas cifras que muestra ahora la ficha de arriba. Con cinco plazas, el sprint hasta 100 km/h cuesta 8,9 s y con siete 9,0 s; en cuarta, pasar de 80 a 120 km/h cuesta 6,4 s y 6,5 s. Sin carga pero listo para rodar, pesa entre 1.359 y 1.373 kg con cinco plazas y entre 1.388 y 1.405 kg con siete.",
       "Son cifras del folleto portugués y no del catálogo español. Puede arrastrar un remolque con frenos de 1.200 kg con cinco plazas y de 1.000 kg con siete. Esta versión comparte con el resto de la gama los neumáticos 205/60 R16 92H, un diámetro de giro entre aceras de 11,39 m, tren delantero pseudo-MacPherson y eje trasero semirrígido, y un depósito de 50 l.",
@@ -41,8 +41,8 @@ export const LOTE_09: MapaEnriquecimiento = {
     filas: [
       { etiqueta: "Sistema híbrido", valor: "1.8 de 1.789 cm³ y 4 cilindros; 2 motores eléctricos; potencia combinada de 158 CV según Dacia España", fuente: "Dacia España, página de motores del Jogger Hybrid 155", url: MOT, anio: "2025" },
       { etiqueta: "Par motor", valor: "172 Nm térmico (3.000–4.000 rpm) y 205 Nm eléctrico", fuente: "Folleto Dacia PT Hybrid 155, motorizaciones", url: BRO, anio: "2025" },
-      { etiqueta: "Batería de tracción", valor: "Iones de litio, 230 V, 1,4 kWh", fuente: "Folleto Dacia PT Hybrid 155, batería", url: BRO, anio: "2025" },
-      { etiqueta: "Consumo y CO₂", valor: "4,6 litros cada 100 km y 104 g de CO₂ por km (WLTP)", fuente: "Folleto Dacia PT Hybrid 155, consumos", url: BRO, anio: "2025" },
+      { etiqueta: "Batería de tracción", valor: "Celdas de iones de litio de 1,4 kWh y 230 V", fuente: "Folleto Dacia PT Hybrid 155, batería", url: BRO, anio: "2025" },
+      { etiqueta: "Consumo y CO₂", valor: "4,6 l/100 km; 104 g/km de CO₂ (WLTP)", fuente: "Folleto Dacia PT Hybrid 155, consumos", url: BRO, anio: "2025" },
       { etiqueta: "Aceleración hasta 100 km/h", valor: "8,9 s con 5 plazas; 9,0 s con 7 plazas", fuente: "Folleto Dacia PT Hybrid 155, prestaciones", url: BRO, anio: "2025" },
       { etiqueta: "Tara del Hybrid 155", valor: "1.359–1.373 kg (5 plazas); 1.388–1.405 kg (7 plazas)", ...SRC3 },
       { etiqueta: "Masa remolcable frenada (Hybrid 155)", valor: "1.200 kg (5 plazas); 1.000 kg (7 plazas)", ...SRC3 },
@@ -59,7 +59,7 @@ export const LOTE_09: MapaEnriquecimiento = {
     ],
     filas: [
       { etiqueta: "Motor TCe 110", valor: "999 cm³, 3 cilindros, turbo, inyección directa; 81 kW (110 CV); 200 Nm", fuente: "Folleto Dacia PT TCe 110 5 pl., motorizaciones", url: BRO, anio: "2025" },
-      { etiqueta: "Consumo y CO₂", valor: "6,0 litros cada 100 km y 136 g de CO₂ por km (WLTP)", fuente: "Folleto Dacia PT TCe 110 5 pl., consumos", url: BRO, anio: "2025" },
+      { etiqueta: "Consumo y CO₂", valor: "6,0 l/100 km; 136 g/km de CO₂ (WLTP)", fuente: "Folleto Dacia PT TCe 110 5 pl., consumos", url: BRO, anio: "2025" },
       { etiqueta: "Aceleración (5 plazas)", valor: "10,5 s hasta 100 km/h", fuente: "Folleto Dacia PT TCe 110 5 pl., prestaciones", url: BRO, anio: "2025" },
       { etiqueta: "Masa en vacío (TCe 110, 5 plazas)", valor: "1.193–1.230 kg", fuente: "Folleto Dacia PT TCe 110 5 pl., pesos", url: BRO, anio: "2025" },
       { etiqueta: "Maletero (5 plazas)", valor: "708 dm³ VDA (829 l) mínimo; 1.819 dm³ VDA (2.094 l) máximo", fuente: "Folleto Dacia PT TCe 110 5 pl., volúmenes", url: BRO, anio: "2025" },
@@ -77,7 +77,7 @@ export const LOTE_09: MapaEnriquecimiento = {
     filas: [
       { etiqueta: "Maletero con 7 asientos", valor: "160 dm³ VDA (212 l) con 3 filas; 565 dm³ (699 l) con la 3.ª plegada; 696 dm³ (820 l) con la 3.ª desmontada", ...SRC4 },
       { etiqueta: "Maletero máximo con 7 plazas", valor: "1.807 dm³ VDA (2.085 l)", ...SRC4 },
-      { etiqueta: "Aceleración (7 plazas)", valor: "11,2 s hasta 100 km/h", fuente: "Folleto Dacia PT 7 pl., prestaciones", url: BRO, anio: "2025" },
+      { etiqueta: "Aceleración (7 plazas)", valor: "11,2 s de 0 a 100 km/h", fuente: "Folleto Dacia PT 7 pl., prestaciones", url: BRO, anio: "2025" },
       { etiqueta: "Masa en vacío (TCe 110, 7 plazas)", valor: "1.221–1.261 kg", ...SRC5 },
       { etiqueta: "Peso total rodante autorizado", valor: "3.055 kg", ...SRC5 },
       { etiqueta: "Masa remolcable frenada (7 plazas)", valor: "1.200 kg", ...SRC5 },

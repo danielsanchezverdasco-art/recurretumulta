@@ -195,7 +195,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "673 CV y 0-100 en 2,78 s (sin tiempo de reacción): prestaciones de superdeportivo",
-      "800 km CLTC con batería de 101 kWh y celdas Qilin de CATL",
+      "Autonomía de 800 km CLTC; batería de 101 kWh con celdas Qilin de CATL",
       "Arquitectura de 897 V: 670 km de autonomía en 15 minutos",
       "Tracción total y suspensión neumática adaptativa",
       "Precio de lanzamiento en China de 299.900 yuanes",

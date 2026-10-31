@@ -33,7 +33,7 @@ export const LOTE_20: MapaEnriquecimiento = {
       { etiqueta: "Porcentajes del Spring", valor: "49 % adultos; 56 % niños; 39 % vulnerables; 32 % asistencias", fuente: "Euro NCAP, cuadro de resultados del Spring", url: SPRING, anio: "2021" },
       { etiqueta: "Spring ensayado", valor: "Eléctrico de 33 kW, volante a la izquierda; 970 kg", fuente: "Euro NCAP, modelo probado del Spring", url: SPRING, anio: "2021" },
       { etiqueta: "Única fila de la lista del Spring", valor: "E2 Comfort Plus, 33 kW, 4x2", fuente: "Euro NCAP, variantes cubiertas del Spring", url: SPRING, anio: "2021" },
-      { etiqueta: "Equipo ausente en el Spring", valor: "Sin airbag central, sin alerta de fatiga ni mantenimiento de carril, sin i-Size", fuente: "Euro NCAP, comentarios sobre equipamiento del Spring", url: SPRING, anio: "2021" },
+      { etiqueta: "Equipo ausente en el Spring", valor: "Sin airbag central, sin aviso de cansancio ni asistente de carril, sin i-Size", fuente: "Euro NCAP, comentarios sobre equipamiento del Spring", url: SPRING, anio: "2021" },
     ],
   },
   "toyota-corolla-cross-2026": {

@@ -3,7 +3,7 @@ import type { MapaEnriquecimiento } from "./tipos";
 
 const P2 = "https://www.euroncap.com/assessments/polestar/2/0855/";
 
-const SRC1 = { fuente: "Euro NCAP, tabla de variantes del Polestar 2", url: P2, anio: "2021" };
+const SRC1 = { fuente: "Euro NCAP, variantes del Polestar 2 (tabla)", url: P2, anio: "2021" };
 
 export const LOTE_17: MapaEnriquecimiento = {
   "polestar-2-precio-ficha-tecnica": {

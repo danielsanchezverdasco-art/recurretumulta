@@ -17,8 +17,8 @@ export const LOTE_06: MapaEnriquecimiento = {
       "Sobre el espacio, Škoda da 1.503 mm de ancho de codos delante y 1.492 mm detrás con cinco plazas, y 1.497 mm con 1.272 mm en la tercera fila de la versión de siete. La altura interior es de 1.063 mm delante y de 1.015 mm en la segunda fila. El maletero con asientos traseros abatidos es de 910 a 2.105 l en cinco plazas y de 340 a 845 l en siete, y para la versión de siete plazas la ficha cita 340 l. El umbral de carga está a 763 mm. Todo esto es de Alemania y puede variar en España.",
     ],
     filas: [
-      { etiqueta: "Motor", valor: "2.0 TSI de 1.984 cm³, 82,5 × 92,8 mm, compresión 9,6:1; 195 kW (265 PS) y 400 Nm", ...SRC1 },
-      { etiqueta: "Combustible", valor: "Gasolina sin plomo de 95 octanos o más; Euro 6 EB", ...SRC1 },
+      { etiqueta: "Motor", valor: "Gasolina turbo 2.0 TSI: cilindrada 1.984 cm³; diámetro × carrera 82,5 × 92,8 mm; relación 9,6:1; 195 kW (265 PS), 400 Nm", ...SRC1 },
+      { etiqueta: "Combustible", valor: "Sin plomo de 95 octanos como mínimo; Euro 6 EB", ...SRC1 },
       { etiqueta: "Transmisión", valor: "DSG de 7 marchas; tracción integral con embrague multidisco viscoso", ...SRC1 },
       { etiqueta: "Aceleración y velocidad", valor: "6,3 s hasta 100 km/h (6,4 s con 7 plazas); máxima de 231 km/h", ...SRC1 },
       { etiqueta: "Consumo y CO₂ (Alemania)", valor: "8,2–8,5 l/100 km; 186–192 g/km; clase G; depósito de 58 l", ...SRC1 },
