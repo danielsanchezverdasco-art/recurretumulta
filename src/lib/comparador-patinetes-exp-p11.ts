@@ -31,6 +31,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     certificadoDgt: null,
     foto: "/media/patinetes/ienyrid-m4-pro-s-plus.webp",
     galeria: [{ alt: "iENYRID M4 Pro S+ con los accesorios incluidos: sillín, cargador y kit de herramientas", alto: 1024, ancho: 1024, src: "/media/patinetes/ienyrid-m4-pro-s-plus-2.webp" },
+      { src: "/media/ienyrid-m4-pro-s-plus-hunt1.webp", alt: "M4 Pro S+ (foto: iENYRID (web oficial, página de producto M4 Pro S+), licencia desconocida)", ancho: 1500, alto: 1500 },
+      { src: "/media/ienyrid-m4-pro-s-plus-hunt2.webp", alt: "M4 Pro S+ (foto: Rapid Scooter UK (retailer iENYRID), licencia desconocida)", ancho: 1500, alto: 1500 },
+      { src: "/media/ienyrid-m4-pro-s-plus-hunt3.webp", alt: "M4 Pro S+ (foto: iENYRID (web oficial, página de producto M4 Pro S+), licencia desconocida)", ancho: 1200, alto: 450 },
     ],
     aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: ["Sillín extraíble incluido de serie para ir sentado o de pie", "Doble freno de disco más freno electrónico: frenada contundente", 'Ruedas todoterreno de 10" con cámara para pistas y ciudad', "Manillar regulable en altura según el conductor", "Pantalla a color e iluminación LED completa", "Plegable y con certificación IP54"],
@@ -63,6 +66,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     galeria: [
       { alt: "Motor de 800 W del iENYRID M4 Pro S+ Max", alto: 400, ancho: 1024, src: "/media/patinetes/ienyrid-m4-pro-s-plus-max-2.webp" },
       { alt: "iENYRID M4 Pro S+ Max visto desde arriba con la iluminación LED", alto: 400, ancho: 1024, src: "/media/patinetes/ienyrid-m4-pro-s-plus-max-3.webp" },
+      { src: "/media/ienyrid-m4-pro-s-plus-max-hunt1.webp", alt: "M4 Pro S+ Max (foto: iENYRID (foto de producto) vía Banggood (anuncio M4 Pro S+ MAX 48V 20Ah), licencia desconocida)", ancho: 1500, alto: 1500 },
+      { src: "/media/ienyrid-m4-pro-s-plus-max-hunt2.webp", alt: "M4 Pro S+ Max (foto: iENYRID (foto de producto) vía BuyBestGear (M4 Pro S+ Max 960 Wh 48V 20Ah), licencia desconocida)", ancho: 1500, alto: 1500 },
     ],
     aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: ["Batería de 960 Wh: hasta 60 km de autonomía declarada", "Intermitentes y luz de freno, raro en su rango de precio", "Sillín extraíble incluido", "Doble suspensión delantera y trasera", "Doble disco con E-ABS", "PVP oficial en Europa de 410 €"],
@@ -95,6 +100,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     galeria: [
       { alt: "iENYRID ES60 con la iluminación ambiental encendida", alto: 506, ancho: 900, src: "/media/patinetes/ienyrid-es60-2.webp" },
       { alt: "Piloto con casco conduciendo el iENYRID ES60 por una pista de tierra", alto: 1024, ancho: 1024, src: "/media/patinetes/ienyrid-es60-3.webp" },
+      { src: "/media/ienyrid-es60-hunt1.webp", alt: "ES60 (foto: iENYRID (tienda oficial EU), licencia desconocida)", ancho: 900, alto: 506 },
+      { src: "/media/ienyrid-es60-hunt2.webp", alt: "ES60 (foto: iENYRID (tienda oficial EU), licencia desconocida)", ancho: 1200, alto: 1200 },
     ],
     aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: ["Doble motor de 1200 W por rueda: 2400 W combinados", "Batería extraíble de 1104 Wh para cargarla en casa", "Frenos hidráulicos con corte de motor", "Suspensión hidráulica de doble brazo delante y detrás", "Iluminación completa con intermitentes y luces de colores", "Doble puerto de carga para carga rápida con dos cargadores"],
@@ -127,6 +134,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     galeria: [
       { alt: "Detalle del motor del iENYRID ES1", alto: 400, ancho: 1024, src: "/media/patinetes/ienyrid-es1-2.webp" },
       { alt: "Piloto conduciendo el iENYRID ES1 por el campo", alto: 1024, ancho: 1024, src: "/media/patinetes/ienyrid-es1-3.webp" },
+      { src: "/media/ienyrid-es1-hunt1.webp", alt: "ES1 (foto: Pogo Cycles / iENYRID, licencia desconocida)", ancho: 1080, alto: 1080 },
+      { src: "/media/ienyrid-es1-hunt2.webp", alt: "ES1 (foto: WheelyShop / iENYRID, licencia desconocida)", ancho: 1500, alto: 1500 },
     ],
     aprox: ["precioEur", "autonomiaRealKm", "tiempoCargaH"],
     pros: ["Tracción total con dos motores de 1200 W", "Suspensión de cuatro brazos para campo y ciudad", "Pantalla con desbloqueo por contraseña", "Intermitentes y sistema de iluminación completo", "Modos de uno o dos motores para ahorrar batería", "Certificación UL 2272 del sistema eléctrico"],
@@ -159,6 +168,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     galeria: [
       { alt: "iENYRID S1 visto desde el lateral trasero", alto: 1024, ancho: 1024, src: "/media/patinetes/ienyrid-s1-2.webp" },
       { alt: "iENYRID S1 de perfil con la marca visible en la plataforma", alto: 1024, ancho: 1024, src: "/media/patinetes/ienyrid-s1-3.webp" },
+      { src: "/media/ienyrid-s1-hunt1.webp", alt: "S1 (foto: iENYRID (tienda oficial Reino Unido), licencia desconocida)", ancho: 1200, alto: 1200 },
+      { src: "/media/ienyrid-s1-hunt2.webp", alt: "S1 (foto: iENYRID (tienda oficial Reino Unido), licencia desconocida)", ancho: 1200, alto: 1200 },
     ],
     aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: ["PVP oficial en Europa de 439 € con stock", "Motor de 700 W con buena aceleración", "Suspensión de cuatro brazos en este precio", "Intermitentes, claxon integrado y luces laterales", "Manillar regulable en tres alturas", "Chasis plegable de aleación de aluminio"],
@@ -191,6 +202,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     galeria: [
       { alt: "Manillar del SXT Light GT con display y luz delantera", alto: 1024, ancho: 1024, src: "/media/patinetes/sxt-light-gt-2.webp" },
       { alt: "Rueda trasera del SXT Light GT con guardabarros", alto: 1024, ancho: 1024, src: "/media/patinetes/sxt-light-gt-3.webp" },
+      { src: "/media/sxt-light-gt-hunt1.webp", alt: "Light GT (foto: SXT (web oficial sxt-scooters.de), licencia desconocida)", ancho: 1500, alto: 745 },
+      { src: "/media/sxt-light-gt-hunt2.webp", alt: "Light GT (foto: SXT (web oficial sxt-scooters.de), licencia desconocida)", ancho: 1500, alto: 1500 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: ["Solo 11,9 kg: se sube a pulso a cualquier sitio", "Ruedas macizas imposibles de pinchar", "Suspensión delantera y trasera en un peso pluma", "Hasta 50 km de autonomía declarada", "Carga completa en 4,5 horas", "Manillar regulable en tres alturas"],
@@ -223,6 +236,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     galeria: [
       { alt: "Mandos del manillar del SXT Quick 4", alto: 1024, ancho: 1024, src: "/media/patinetes/sxt-quick-4-2.webp" },
       { alt: "SXT Quick 4 de perfil", alto: 822, ancho: 1000, src: "/media/patinetes/sxt-quick-4-3.webp" },
+      { src: "/media/sxt-quick-4-hunt1.webp", alt: "Quick 4 (foto: SXT Scooters (tienda oficial sxt-scooters.de) / Inokim, licencia desconocida)", ancho: 1500, alto: 1500 },
+      { src: "/media/sxt-quick-4-hunt2.webp", alt: "Quick 4 (foto: SXT Scooters (tienda oficial sxt-scooters.de) / Inokim, licencia desconocida)", ancho: 660, alto: 660 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: ["Batería de 806 Wh con hasta 70 km declarados", "Frenos de tambor: cero mantenimiento y aguantan la lluvia", "Suspensión delante y detrás", 'Ruedas neumáticas de 10" cómodas', "Manillar regulable entre 102 y 122 cm", "Calidad de construcción Inokim a precio SXT"],
@@ -255,6 +270,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     galeria: [
       { alt: "SXT H20 eKFV plegado visto de perfil", alto: 1024, ancho: 1024, src: "/media/patinetes/sxt-h20-ekfv-2.webp" },
       { alt: "Detalle del mecanismo de plegado del SXT H20 eKFV", alto: 1024, ancho: 1024, src: "/media/patinetes/sxt-h20-ekfv-3.webp" },
+      { src: "/media/sxt-h20-ekfv-hunt1.webp", alt: "H20 eKFV (foto: SXT Scooters (tienda oficial sxt-scooters.de), licencia desconocida)", ancho: 1500, alto: 1500 },
+      { src: "/media/sxt-h20-ekfv-hunt2.webp", alt: "H20 eKFV (foto: SXT Scooters (foto oficial de producto) / esomoto-olten.com, licencia desconocida)", ancho: 713, alto: 713 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: ["Homologación alemana eKFV para circular allí legalmente", "Chasis de magnesio de una sola pieza: rígido y ligero", "Horquilla de suspensión delantera y doble amortiguador trasero", "Plataforma ancha de 18,5 cm", "Display LED grande y legible", "Manillar alto (121 cm), cómodo para gente alta"],
@@ -287,6 +304,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     galeria: [
       { alt: "SXT H10 eKFV plegado", alto: 472, ancho: 1024, src: "/media/patinetes/sxt-h10-ekfv-2.webp" },
       { alt: "Detalle del cierre de plegado del SXT H10 eKFV", alto: 1024, ancho: 412, src: "/media/patinetes/sxt-h10-ekfv-3.webp" },
+      { src: "/media/sxt-h10-ekfv-hunt1.webp", alt: "H10 eKFV (foto: SXT Scooters / Scotex (foto oficial), licencia desconocida)", ancho: 1500, alto: 691 },
+      { src: "/media/sxt-h10-ekfv-hunt2.webp", alt: "H10 eKFV (foto: SXT Scooters / Scotex (foto oficial), licencia desconocida)", ancho: 603, alto: 1500 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: ["Solo 14,8 kg: el más ligero de la gama Scotex", "Carga completa en 3,5 horas", "Homologación alemana eKFV", "Precio contenido: 395 €", "Tres modos de velocidad (6/12/20 km/h)", "Chasis de magnesio"],
@@ -319,6 +338,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     galeria: [
       { alt: "Plataforma del SXT Buddy Pro eKFV", alto: 1024, ancho: 1024, src: "/media/patinetes/sxt-buddy-pro-ekfv-2.webp" },
       { alt: "Manillar con display del SXT Buddy Pro eKFV", alto: 1024, ancho: 1024, src: "/media/patinetes/sxt-buddy-pro-ekfv-3.webp" },
+      { src: "/media/sxt-buddy-pro-ekfv-hunt1.webp", alt: "Buddy Pro eKFV (foto: SXT Scooters (web oficial), licencia desconocida)", ancho: 1500, alto: 1500 },
+      { src: "/media/sxt-buddy-pro-ekfv-hunt2.webp", alt: "Buddy Pro eKFV (foto: SXT Scooters (web oficial), licencia desconocida)", ancho: 1500, alto: 1500 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: ["Batería de 676 Wh con 65 km declarados", "Homologación alemana eKFV con número de type approval", "Par de 25 Nm para cuestas urbanas", "Suspensión delantera y trasera", "Frenos de tambor sin mantenimiento", "Manillar regulable en altura"],
@@ -351,6 +372,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     galeria: [
       { alt: "Detalle de la suspensión regulable del SXT Beast Pro", alto: 1024, ancho: 1024, src: "/media/patinetes/sxt-beast-pro-2.webp" },
       { alt: "SXT Beast Pro de perfil", alto: 1024, ancho: 1024, src: "/media/patinetes/sxt-beast-pro-3.webp" },
+      { src: "/media/sxt-beast-pro-hunt1.webp", alt: "Beast Pro (foto: SXT Scooters (oficial), licencia desconocida)", ancho: 1600, alto: 611 },
+      { src: "/media/sxt-beast-pro-hunt2.webp", alt: "Beast Pro (foto: SXT Scooters (oficial) vía Maxblinker, licencia desconocida)", ancho: 1307, alto: 1342 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: ["Tracción total con dos motores: 4800 W de pico", "85 km/h y 0-50 en menos de 6 segundos", "Batería LG de 1728 Wh", "Suspensión hidráulica regulable y amortiguador de dirección", "Frenos de disco hidráulicos", "Intermitentes e iluminación ambiental LED"],
@@ -383,6 +406,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     galeria: [
       { alt: "Emove Cruiser V2 verde army visto de perfil", alto: 1000, ancho: 1000, src: "/media/patinetes/emove-cruiser-v2-2.webp" },
       { alt: "Emove Cruiser V2 negro de tres cuartos", alto: 1000, ancho: 1000, src: "/media/patinetes/emove-cruiser-v2-3.webp" },
+      { src: "/media/emove-cruiser-v2-hunt1.webp", alt: "Cruiser V2 (foto: VoroMotors (web oficial), licencia desconocida)", ancho: 1000, alto: 1000 },
+      { src: "/media/emove-cruiser-v2-hunt2.webp", alt: "Cruiser V2 (foto: VoroMotors (web oficial), licencia desconocida)", ancho: 1000, alto: 1000 },
     ],
     aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: ["Autonomía legendaria: hasta 100 km declarados", "Suspensión de cuatro puntos que filtra baches de verdad", "Neumáticos tubeless autosellantes: adiós pinchazos", "Celdas LG 21700 con certificación UL2849", 'Pantalla LCD a color de 3,5"', "Plegado con autobloqueo y triple seguridad"],
@@ -444,6 +469,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     galeria: [
       { alt: "Velocifero MiniMad+ vista cenital y de perfil", alto: 1024, ancho: 1024, src: "/media/patinetes/velocifero-minimad-plus-2.webp" },
       { alt: "Velocifero MiniMad+ de frente y de espaldas", alto: 1024, ancho: 1024, src: "/media/patinetes/velocifero-minimad-plus-3.webp" },
+      { src: "/media/velocifero-minimad-plus-hunt1.webp", alt: "MiniMad+ 500W (foto: Velocifero / Elektro-Mall (ficha MiniMad Plus 500W City azul), licencia desconocida)", ancho: 1000, alto: 1000 },
+      { src: "/media/velocifero-minimad-plus-hunt2.webp", alt: "MiniMad+ 500W (foto: Velocifero / Elektro-Mall (ficha MiniMad Plus 500W City amarillo), licencia desconocida)", ancho: 1000, alto: 1000 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: ["Silueta de minimoto italiana con sillín: se conduce sentado, con una postura relajada imposible sobre una tabla estrecha", "Las ruedas gordas con tacos le dan agarre y presencia, a medio camino entre skate motorizado y ciclomotor pequeño", "Su propulsor de 500 W mueve el conjunto con soltura sin disparar el consumo ni complicar la mecánica", "Frenada repartida entre dos discos, un planteamiento bastante más serio que el disco único habitual en esta franja", "Declara 45 km por carga y, aun descontando hasta los 30 km reales que recoge esta ficha, sobra para el trayecto diario típico", "Cuesta 1.199 € en España y su punta de 25 km/h no sobrepasa el techo fijado para un vehículo de movilidad personal"],
@@ -476,6 +503,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     galeria: [
       { alt: "Velocifero VLF Mad 1000W vista cenital y de perfil", alto: 1024, ancho: 1024, src: "/media/patinetes/velocifero-vlf-mad-1000w-2.webp" },
       { alt: "Velocifero VLF Mad 1000W de frente y de espaldas", alto: 1024, ancho: 1024, src: "/media/patinetes/velocifero-vlf-mad-1000w-3.webp" },
+      { src: "/media/velocifero-vlf-mad-1000w-hunt1.webp", alt: "VLF Mad 1000W (foto: Velocifero (web oficial), licencia desconocida)", ancho: 1920, alto: 1920 },
+      { src: "/media/velocifero-vlf-mad-1000w-hunt2.webp", alt: "VLF Mad 1000W (foto: Velocifero (web oficial), licencia desconocida)", ancho: 1920, alto: 1920 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: ["Estética agresiva entre patinete y minimoto", "Ruedas gordas tubeless de 135/65-8 con llantas de aluminio", "Sillín incluido para ir sentado", "1000 W para subidas y campo", "Diseño italiano de Alessandro Tartarini", "Fotos y ficha en la web oficial de la marca"],
@@ -506,6 +535,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     certificadoDgt: null,
     foto: "/media/patinetes/ducati-pro-ii-evo.webp",
     galeria: [{ alt: "Ducati Pro-II Evo, detalle de la plataforma con marca Pro-II Evo", alto: 583, ancho: 1024, src: "/media/patinetes/ducati-pro-ii-evo-2.webp" },
+      { src: "/media/ducati-pro-ii-evo-hunt1.webp", alt: "Pro-II Evo (foto: Ducati Urban e-Mobility (producto) vía INYDY, licencia desconocida)", ancho: 901, alto: 1024 },
+      { src: "/media/ducati-pro-ii-evo-hunt2.webp", alt: "Pro-II Evo (foto: Ducati / Fresh Mobile Concepts (asset oficial de producto) vía Poczta Polska, licencia desconocida)", ancho: 800, alto: 533 },
     ],
     aprox: ["autonomiaRealKm", "potenciaPicoW"],
     pros: [
@@ -551,6 +582,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     certificadoDgt: true,
     foto: "/media/patinetes/ducati-pro-ii-evo-advanced-safety.webp",
     galeria: [{ alt: "Ducati Pro-II Evo Advanced Safety en rojo y negro, vista tres cuartos", alto: 1024, ancho: 652, src: "/media/patinetes/ducati-pro-ii-evo-advanced-safety-2.webp" },
+      { src: "/media/ducati-pro-ii-evo-advanced-safety-hunt1.webp", alt: "Pro-II Evo Advanced Safety (foto: Datart (foto de producto de la variante Advanced Safety), licencia desconocida)", ancho: 1000, alto: 570 },
+      { src: "/media/ducati-pro-ii-evo-advanced-safety-hunt2.webp", alt: "Pro-II Evo Advanced Safety (foto: Robocleaners (foto de producto de la variante Advanced Safety), licencia desconocida)", ancho: 955, alto: 1500 },
     ],
     aprox: ["autonomiaRealKm", "potenciaPicoW"],
     pros: [
@@ -596,6 +629,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     certificadoDgt: null,
     foto: "/media/patinetes/ducati-city-cross-e.webp",
     galeria: [{ alt: "Ducati City Cross-E X en vista tres cuartos con ruedas todoterreno", alto: 1024, ancho: 673, src: "/media/patinetes/ducati-city-cross-e-2.webp" },
+      { src: "/media/ducati-city-cross-e-hunt1.webp", alt: "City Cross-E X Off-Road Edition (foto: MT Distribution / Ducati Urban e-Mobility (foto de producto) vía MediaExpert, licencia desconocida)", ancho: 1524, alto: 2000 },
+      { src: "/media/ducati-city-cross-e-hunt2.webp", alt: "City Cross-E X Off-Road Edition (foto: MT Distribution / Ducati Urban e-Mobility (foto de producto) vía MediaExpert, licencia desconocida)", ancho: 1315, alto: 2000 },
     ],
     aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: [
@@ -641,6 +676,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     certificadoDgt: null,
     foto: "/media/patinetes/aprilia-esr1.webp",
     galeria: [{ alt: "Aprilia eSR1 con decoración Aprilia Racing, vista tres cuartos", alto: 683, ancho: 1024, src: "/media/patinetes/aprilia-esr1-2.webp" },
+      { src: "/media/aprilia-esr1-hunt1.webp", alt: "eSR1 (foto: Aprilia / Piaggio Group (flyer oficial eSR1), licencia desconocida)", ancho: 1124, alto: 902 },
+      { src: "/media/aprilia-esr1-hunt2.webp", alt: "eSR1 (foto: Aprilia / Piaggio Group (flyer oficial eSR1), licencia desconocida)", ancho: 784, alto: 966 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -686,6 +723,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     certificadoDgt: null,
     foto: "/media/patinetes/aprilia-esrz.webp",
     galeria: [{ alt: "Aprilia eSRz plegado, vista lateral con decoración de competición", alto: 750, ancho: 1000, src: "/media/patinetes/aprilia-esrz-2.webp" },
+      { src: "/media/aprilia-esrz-hunt1.webp", alt: "eSRz (foto: Aprilia (foto de producto oficial) vía MediaGalaxy, licencia desconocida)", ancho: 1000, alto: 1000 },
+      { src: "/media/aprilia-esrz-hunt2.webp", alt: "eSRz (foto: Aprilia (foto de producto oficial) vía Datart, licencia desconocida)", ancho: 1000, alto: 750 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -731,6 +770,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     certificadoDgt: null,
     foto: "/media/patinetes/jeep-2xe-adventurer.webp",
     galeria: [{ alt: "Jeep 2XE Adventurer verde militar, vista trasera tres cuartos", alto: 683, ancho: 1024, src: "/media/patinetes/jeep-2xe-adventurer-2.webp" },
+      { src: "/media/jeep-2xe-adventurer-hunt1.webp", alt: "2XE Adventurer (foto: Media Expert (galería de producto Jeep 2xe Adventurer), licencia desconocida)", ancho: 1200, alto: 1159 },
+      { src: "/media/jeep-2xe-adventurer-hunt2.webp", alt: "2XE Adventurer (foto: Pie Technologie (ficha de producto Jeep 2xe Adventurer), licencia desconocida)", ancho: 1080, alto: 720 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -776,6 +817,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     certificadoDgt: null,
     foto: "/media/patinetes/lamborghini-al1.webp",
     galeria: [{ alt: "Lamborghini AL1 negro con escudo en la columna de dirección", alto: 1000, ancho: 1000, src: "/media/patinetes/lamborghini-al1-2.webp" },
+      { src: "/media/lamborghini-al1-hunt1.webp", alt: "AL1 (foto: e-patinetes.es / Automobili Lamborghini (foto de producto), licencia desconocida)", ancho: 1700, alto: 1700 },
+      { src: "/media/lamborghini-al1-hunt2.webp", alt: "AL1 (foto: e-patinetes.es / Automobili Lamborghini (foto de producto), licencia desconocida)", ancho: 1700, alto: 1700 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -821,6 +864,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     certificadoDgt: null,
     foto: "/media/patinetes/acer-es-series-3-advance.webp",
     galeria: [{ alt: "Acer ES Series 3 Advance negro con detalles verdes, vista lateral", alto: 800, ancho: 800, src: "/media/patinetes/acer-es-series-3-advance-2.webp" },
+      { src: "/media/acer-es-series-3-advance-hunt1.webp", alt: "ES Series 3 Advance (foto: Acer / TraficBank (ficha de producto AES023), licencia desconocida)", ancho: 1024, alto: 1024 },
+      { src: "/media/acer-es-series-3-advance-hunt2.webp", alt: "ES Series 3 Advance (foto: Acer / TraficBank (ficha de producto AES023), licencia desconocida)", ancho: 1024, alto: 1024 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -866,6 +911,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     certificadoDgt: null,
     foto: "/media/patinetes/ducati-pro-i-evo.webp",
     galeria: [{ alt: "Ducati Pro-I Evo negro y gris, vista lateral con marca Pro-I", alto: 1000, ancho: 1000, src: "/media/patinetes/ducati-pro-i-evo-2.webp" },
+      { src: "/media/ducati-pro-i-evo-hunt1.webp", alt: "Pro-I Evo (foto: Mobileciti / Ducati Urban e-Mobility, licencia desconocida)", ancho: 1100, alto: 1100 },
+      { src: "/media/ducati-pro-i-evo-hunt2.webp", alt: "Pro-I Evo (foto: Euronics Italia / Ducati Urban e-Mobility, licencia desconocida)", ancho: 1000, alto: 649 },
+      { src: "/media/ducati-pro-i-evo-hunt3.webp", alt: "Pro-I Evo (foto: Zigwheels / Carbay, licencia desconocida)", ancho: 852, alto: 568 },
     ],
     aprox: ["autonomiaRealKm", "autonomiaKm", "tiempoCargaH"],
     pros: [
@@ -911,6 +959,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     certificadoDgt: null,
     foto: "/media/patinetes/ducati-pro-ii-plus.webp",
     galeria: [{ alt: "Ducati Pro-II Plus negro con marca Pro-II Plus en la plataforma", alto: 800, ancho: 800, src: "/media/patinetes/ducati-pro-ii-plus-2.webp" },
+      { src: "/media/ducati-pro-ii-plus-hunt1.webp", alt: "Pro-II Plus (foto: Ducati Urban e-Mobility / MT Distribution (foto oficial de producto, vía Amazon), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/ducati-pro-ii-plus-hunt2.webp", alt: "Pro-II Plus (foto: Ducati Urban e-Mobility / MT Distribution (foto oficial de producto, vía Rafplay), licencia desconocida)", ancho: 1024, alto: 1024 },
     ],
     aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: [
@@ -962,6 +1012,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
         ancho: 576,
         src: "/media/patinetes/currus-nf11-2.webp",
       },
+      { src: "/media/currus-nf11-hunt1.webp", alt: "NF11 Panther (foto: scooter.guide (review del Currus Panther), licencia desconocida)", ancho: 600, alto: 800 },
+      { src: "/media/currus-nf11-hunt2.webp", alt: "NF11 Panther (foto: scooter.guide (review del Currus Panther), licencia desconocida)", ancho: 800, alto: 600 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -1019,6 +1071,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
         ancho: 1024,
         src: "/media/patinetes/yadea-elite-prime-3.webp",
       },
+      { src: "/media/yadea-elite-prime-hunt1.webp", alt: "Elite Prime Pro (foto: The Gadgeteer (análisis del Yadea ElitePrime), licencia desconocida)", ancho: 800, alto: 600 },
+      { src: "/media/yadea-elite-prime-hunt2.webp", alt: "Elite Prime Pro (foto: The Gadgeteer (análisis del Yadea ElitePrime), licencia desconocida)", ancho: 800, alto: 600 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -1076,6 +1130,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
         ancho: 1000,
         src: "/media/patinetes/zero-11x-3.webp",
       },
+      { src: "/media/zero-11x-hunt1.webp", alt: "11X (foto: Zero / eBikeScooter (tienda distribuidora), licencia desconocida)", ancho: 1000, alto: 1405 },
+      { src: "/media/zero-11x-hunt2.webp", alt: "11X (foto: Zero (foto oficial de producto) vía Ride Electric Australia, licencia desconocida)", ancho: 1000, alto: 1000 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -1127,6 +1183,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
         ancho: 1000,
         src: "/media/patinetes/bronco-xtreme-sport-2.webp",
       },
+      { src: "/media/bronco-xtreme-sport-hunt1.webp", alt: "Xtreme Sport 72V (foto: Eko-Motion / Bronco Motors, licencia desconocida)", ancho: 1000, alto: 1000 },
+      { src: "/media/bronco-xtreme-sport-hunt2.webp", alt: "Xtreme Sport 72V (foto: Eko-Motion / Bronco Motors, licencia desconocida)", ancho: 1000, alto: 1000 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -1178,6 +1236,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
         ancho: 1024,
         src: "/media/patinetes/soflow-so4-pro-2.webp",
       },
+      { src: "/media/soflow-so4-pro-hunt1.webp", alt: "SO4 Pro (foto: SoFlow (render oficial de producto) vía CDON / Nordic Pictures, licencia desconocida)", ancho: 800, alto: 800 },
+      { src: "/media/soflow-so4-pro-hunt2.webp", alt: "SO4 Pro (foto: SoFlow (render oficial de producto) vía Akku-Alle, licencia desconocida)", ancho: 1200, alto: 1200 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -1234,6 +1294,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
         ancho: 1020,
         src: "/media/patinetes/segway-gt1e-2.webp",
       },
+      { src: "/media/segway-gt1e-hunt1.webp", alt: "KickScooter GT1E (foto: Segway (render oficial de producto) vía Deporvillage, licencia desconocida)", ancho: 1511, alto: 1890 },
+      { src: "/media/segway-gt1e-hunt2.webp", alt: "KickScooter GT1E (foto: Segway (render oficial de producto) vía Deporvillage, licencia desconocida)", ancho: 1800, alto: 2250 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -1285,6 +1347,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
         ancho: 1024,
         src: "/media/patinetes/segway-gt1-2.webp",
       },
+      { src: "/media/segway-gt1-hunt1.webp", alt: "SuperScooter GT1 (foto: Segway / Panmi (distribuidor oficial Segway en Australia) — render oficial de producto, licencia desconocida)", ancho: 1024, alto: 1024 },
+      { src: "/media/segway-gt1-hunt2.webp", alt: "SuperScooter GT1 (foto: Segway (imagen oficial de producto) vía Electrify News, licencia desconocida)", ancho: 1125, alto: 633 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -1335,6 +1399,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
         ancho: 1024,
         src: "/media/patinetes/segway-f65-2.webp",
       },
+      { src: "/media/segway-f65-hunt1.webp", alt: "KickScooter F65 (foto: Segway (render oficial de producto, CDN Segway), licencia desconocida)", ancho: 1400, alto: 1400 },
+      { src: "/media/segway-f65-hunt2.webp", alt: "KickScooter F65 (foto: Segway (render oficial de producto, CDN Segway Ninebot), licencia desconocida)", ancho: 600, alto: 540 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -1386,6 +1452,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
         ancho: 1024,
         src: "/media/patinetes/iscooter-i12-2.webp",
       },
+      { src: "/media/iscooter-i12-hunt1.webp", alt: "i12 (foto: iScooter (render oficial, tienda oficial iScooter EU), licencia desconocida)", ancho: 1600, alto: 1600 },
+      { src: "/media/iscooter-i12-hunt2.webp", alt: "i12 (foto: iScooter (render oficial de dimensiones, tienda oficial iScooter EU), licencia desconocida)", ancho: 632, alto: 453 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -1437,6 +1505,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
         ancho: 1000,
         src: "/media/patinetes/iscooter-dx5-2.webp",
       },
+      { src: "/media/iscooter-dx5-hunt1.webp", alt: "DX5 (foto: iScooter (render oficial de producto), licencia desconocida)", ancho: 1000, alto: 1000 },
+      { src: "/media/iscooter-dx5-hunt2.webp", alt: "DX5 (foto: iScooter (render oficial de detalle, tienda oficial UK), licencia desconocida)", ancho: 1500, alto: 762 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -1488,6 +1558,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
         ancho: 1024,
         src: "/media/patinetes/joyor-a5-2.webp",
       },
+      { src: "/media/joyor-a5-hunt1.webp", alt: "A5 (foto: Urban Rider (tienda Joyor) / Joyor — foto de producto oficial, licencia desconocida)", ancho: 1200, alto: 1200 },
+      { src: "/media/joyor-a5-hunt2.webp", alt: "A5 (foto: Urban Rider (tienda Joyor) / Joyor — foto de producto oficial, licencia desconocida)", ancho: 1000, alto: 1000 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -1539,6 +1611,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
         ancho: 800,
         src: "/media/patinetes/joyor-y5s-2.webp",
       },
+      { src: "/media/joyor-y5s-hunt1.webp", alt: "Y5S (foto: Joyor (tienda oficial UE), licencia desconocida)", ancho: 700, alto: 700 },
+      { src: "/media/joyor-y5s-hunt2.webp", alt: "Y5S (foto: Holaty (distribuidor Joyor), licencia desconocida)", ancho: 800, alto: 800 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -1577,6 +1651,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
         ancho: 500,
         src: "/media/patinetes/joyor-g3-2.webp",
       },
+      { src: "/media/joyor-g3-hunt1.webp", alt: "G3 (foto: Joyor / FactoryPure, licencia desconocida)", ancho: 1280, alto: 1280 },
+      { src: "/media/joyor-g3-hunt2.webp", alt: "G3 (foto: Joyor / FactoryPure, licencia desconocida)", ancho: 1280, alto: 1280 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -1628,6 +1704,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
         ancho: 1024,
         src: "/media/patinetes/joyor-y6s-2.webp",
       },
+      { src: "/media/joyor-y6s-hunt1.webp", alt: "Y6-S (foto: Joyor (tienda oficial) — render oficial de producto, licencia desconocida)", ancho: 1080, alto: 1080 },
+      { src: "/media/joyor-y6s-hunt2.webp", alt: "Y6-S (foto: Joyor (tienda oficial) — render oficial de producto, licencia desconocida)", ancho: 1080, alto: 1080 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -1673,6 +1751,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
         ancho: 500,
         src: "/media/patinetes/cecotec-bongo-g40-xxl-connected-2.webp",
       },
+      { src: "/media/cecotec-bongo-g40-xxl-connected-hunt1.webp", alt: "Bongo G40 XXL Connected (foto: Cecotec (foto oficial de producto, vía Electyum), licencia desconocida)", ancho: 1280, alto: 1280 },
+      { src: "/media/cecotec-bongo-g40-xxl-connected-hunt2.webp", alt: "Bongo G40 XXL Connected (foto: Cecotec (foto oficial de producto, vía Electyum), licencia desconocida)", ancho: 1280, alto: 1280 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -1720,6 +1800,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     galeria: [
       { alt: "NIU KQi Air X, detalle del manillar y faro", alto: 1024, ancho: 1024, src: "/media/patinetes/niu-kqi-air-x-2.webp" },
       { alt: "NIU KQi Air X plegado, transportado a mano", alto: 1024, ancho: 1024, src: "/media/patinetes/niu-kqi-air-x-3.webp" },
+      { src: "/media/niu-kqi-air-x-hunt1.webp", alt: "KQi Air X (foto: NIU (tienda oficial, página del KQi Air X), licencia desconocida)", ancho: 1500, alto: 1500 },
+      { src: "/media/niu-kqi-air-x-hunt2.webp", alt: "KQi Air X (foto: NIU (tienda oficial, página del KQi Air X), licencia desconocida)", ancho: 1500, alto: 1500 },
+      { src: "/media/niu-kqi-air-x-hunt3.webp", alt: "KQi Air X (foto: NIU (tienda oficial, página del KQi Air X), licencia desconocida)", ancho: 1500, alto: 1500 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -1766,6 +1849,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     galeria: [
       { alt: "Smartgyro Ryder Evo en acción, vista lateral", alto: 587, ancho: 786, src: "/media/patinetes/smartgyro-ryder-evo-2.webp" },
       { alt: "Smartgyro Ryder Evo circulando por un parque", alto: 587, ancho: 786, src: "/media/patinetes/smartgyro-ryder-evo-3.webp" },
+      { src: "/media/smartgyro-ryder-evo-hunt1.webp", alt: "Ryder Evo (foto: Smartgyro (web oficial, galería del Ryder 2 certificado), licencia desconocida)", ancho: 1500, alto: 1500 },
+      { src: "/media/smartgyro-ryder-evo-hunt2.webp", alt: "Ryder Evo (foto: Smartgyro (web oficial, galería del Ryder 2 certificado), licencia desconocida)", ancho: 1500, alto: 1500 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -1811,6 +1896,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     foto: "/media/patinetes/smartgyro-raptor-evo-lr.webp",
     galeria: [
       { alt: "Smartgyro Raptor Evo LR circulando por una pasarela", alto: 1024, ancho: 1024, src: "/media/patinetes/smartgyro-raptor-evo-lr-2.webp" },
+      { src: "/media/smartgyro-raptor-evo-lr-hunt1.webp", alt: "Raptor Evo LR (foto: Monorim Spain / Smartgyro, licencia desconocida)", ancho: 1500, alto: 1500 },
+      { src: "/media/smartgyro-raptor-evo-lr-hunt2.webp", alt: "Raptor Evo LR (foto: Decathlon / Smartgyro, licencia desconocida)", ancho: 800, alto: 800 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -1857,6 +1944,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     galeria: [
       { alt: "Kaabo Skywalker 10C, detalle de la rueda delantera y freno de disco", alto: 1000, ancho: 1000, src: "/media/patinetes/kaabo-skywalker-10c-2.webp" },
       { alt: "Kaabo Skywalker 10C, detalle de la rueda trasera y suspensión", alto: 1000, ancho: 1000, src: "/media/patinetes/kaabo-skywalker-10c-3.webp" },
+      { src: "/media/kaabo-skywalker-10c-hunt1.webp", alt: "Skywalker 10C (foto: Kaabo (tienda oficial UE, kaabomantis.com), licencia desconocida)", ancho: 1000, alto: 1000 },
+      { src: "/media/kaabo-skywalker-10c-hunt2.webp", alt: "Skywalker 10C (foto: Kaabo (tienda oficial UE, kaabomantis.com), licencia desconocida)", ancho: 1000, alto: 1000 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -1902,6 +1991,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     foto: "/media/patinetes/kaabo-mantis-x.webp",
     galeria: [
       { alt: "Kaabo Mantis X, vista trasera", alto: 1024, ancho: 711, src: "/media/patinetes/kaabo-mantis-x-2.webp" },
+      { src: "/media/kaabo-mantis-x-hunt1.webp", alt: "Mantis X (foto: Storm Rides NZ (distribuidor oficial Kaabo), licencia desconocida)", ancho: 1050, alto: 700 },
+      { src: "/media/kaabo-mantis-x-hunt2.webp", alt: "Mantis X (foto: Storm Rides NZ (distribuidor oficial Kaabo), licencia desconocida)", ancho: 1200, alto: 800 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -1947,6 +2038,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     foto: "/media/patinetes/pure-flex.webp",
     galeria: [
       { alt: "Pure Flex, vista lateral con la postura de conducción frontal", alto: 1024, ancho: 1024, src: "/media/patinetes/pure-flex-2.webp" },
+      { src: "/media/pure-flex-hunt1.webp", alt: "Flex (foto: Pure Electric (foto oficial de producto) vía Scooter Hut, licencia desconocida)", ancho: 1000, alto: 1000 },
+      { src: "/media/pure-flex-hunt2.webp", alt: "Flex (foto: Move Electric (galería Pure Advance Flex), licencia desconocida)", ancho: 1600, alto: 900 },
     ],
     aprox: ["autonomiaRealKm", "bateriaWh"],
     pros: [
@@ -1993,6 +2086,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     galeria: [
       { alt: "Zwheel ZLion X Max plegado, vista lateral", alto: 1000, ancho: 1000, src: "/media/patinetes/zwheel-zlion-x-max-2.webp" },
       { alt: "Zwheel ZLion X Max, detalle de la rueda trasera", alto: 1000, ancho: 1000, src: "/media/patinetes/zwheel-zlion-x-max-3.webp" },
+      { src: "/media/zwheel-zlion-x-max-hunt1.webp", alt: "ZLion X Max (foto: La Casa del Outlet (fotos del producto Zwheel), licencia desconocida)", ancho: 1422, alto: 1422 },
+      { src: "/media/zwheel-zlion-x-max-hunt2.webp", alt: "ZLion X Max (foto: Territorio Eléctrico (anuncio del producto), licencia desconocida)", ancho: 792, alto: 1024 },
     ],
     aprox: ["autonomiaRealKm", "potenciaPicoW"],
     pros: [
@@ -2038,6 +2133,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     foto: "/media/patinetes/hiley-tiger-10-v5.webp",
     galeria: [
       { alt: "Hiley Tiger 10 V5, detalle del manillar y display con lector NFC", alto: 600, ancho: 600, src: "/media/patinetes/hiley-tiger-10-v5-2.webp" },
+      { src: "/media/hiley-tiger-10-v5-hunt1.webp", alt: "Tiger 10 V5 (foto: Hiley (tienda oficial Europa), licencia desconocida)", ancho: 1400, alto: 1400 },
+      { src: "/media/hiley-tiger-10-v5-hunt2.webp", alt: "Tiger 10 V5 (foto: Hiley (tienda oficial Europa), licencia desconocida)", ancho: 1400, alto: 1400 },
     ],
     aprox: ["autonomiaRealKm", "pesoKg", "cargaMaxKg", "tiempoCargaH"],
     pros: ["Dos motores de 1.000 W cada uno suman 2.000 W nominales y 3.000 W de pico en este Tiger 10 V5", "Su pack de 52 V y 27 Ah acumula 1.404 Wh, la cifra que sostiene los 95 km teóricos y los 62 km reales estimados en esta ficha", "Discos hidráulicos NUTT delante y detrás, acompañados de freno eléctrico, para detener un conjunto que desbloqueado roza los 70 km/h", "Suspensión hidráulica en ambos ejes con regulación mediante pomo, según describe el manual del T10V5", "El display UKS6 se desbloquea acercando la tarjeta NFC, sin llave física que girar en cada arranque", "Luces RGB laterales en la base controlables desde la app duoCo Strip, además de faro con claxon e intermitentes"],
@@ -2067,7 +2164,10 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     neumaticos: 'Neumáticos de 10"',
     certificadoDgt: null,
     foto: "/media/patinetes/hiley-tiger-evo-gt.webp",
-    galeria: [],
+    galeria: [
+      { src: "/media/hiley-tiger-evo-gt-hunt1.webp", alt: "Tiger EVO GT (foto: Hiley (imagen oficial de producto) vía HND Electric, licencia desconocida)", ancho: 1600, alto: 1600 },
+      { src: "/media/hiley-tiger-evo-gt-hunt2.webp", alt: "Tiger EVO GT (foto: Hiley (imagen oficial de producto) vía HND Electric, licencia desconocida)", ancho: 1600, alto: 1600 },
+    ],
     aprox: ["autonomiaRealKm", "pesoKg", "cargaMaxKg", "tiempoCargaH"],
     pros: ["Un único motor de 1.000 W nominales que sube a 1.470 W de pico, suficiente para mover con soltura los 85 km declarados", "Batería de 52 V y 22,5 Ah (1.170 Wh): es la grande de la serie EVO y sostiene la autonomía oficial de 85 km", "Estanqueidad IPX7 según la ficha europea: lluvia intensa sin que la electrónica quede tan expuesta como en un IPX5 urbano", "Frena con disco en los dos ejes más el apoyo eléctrico, combinación que Hiley monta completa en esta familia Tiger EVO", "Muelles regulables con herramienta delante y detrás, montados sobre tubeless anchos de 10×3.0-6", "Suma intermitentes, faro con claxon y bandas RGB laterales que cambian de color desde la app, todo en el azul Midnight Blue propio del GT"],
     contras: ["Liberado alcanza 55 km/h sin que ningún certificado DGT lo respalde: así configurado queda fuera de la circulación como VMP en España", "Hiley no publica cuánto cuesta en su tienda para Europa, y sin esa cifra el GT no se puede comparar en precio con nadie", "Peso del conjunto y carga admisible quedan en blanco incluso en el manual del Tiger EVO, donde la casilla N.W./G.W. viene vacía", "Llenar los 1.170 Wh exige 11,2 horas con el cargador de 2 A citado en el manual: es patinete de dejar cargando de noche", "Al ser monomotor empuja menos que los Tiger de doble propulsor de la propia marca, y en cuestas con carga esa diferencia manda", "La marca carece de red comercial visible en España, así que compra y postventa dependen por completo de su canal europeo en línea"],
@@ -2098,6 +2198,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     foto: "/media/patinetes/urbanglide-100-evo.webp",
     galeria: [
       { alt: "UrbanGlide 100 EVO, ficha con sus características principales", alto: 800, ancho: 800, src: "/media/patinetes/urbanglide-100-evo-2.webp" },
+      { src: "/media/urbanglide-100-evo-hunt1.webp", alt: "100 EVO (foto: UrbanGlide (web oficial del fabricante), licencia desconocida)", ancho: 1000, alto: 1000 },
+      { src: "/media/urbanglide-100-evo-hunt2.webp", alt: "100 EVO (foto: Rádio Popular (ficha de producto Ride 100 EVO), licencia desconocida)", ancho: 750, alto: 750 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -2144,6 +2246,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     galeria: [
       { alt: "Razor C35, vista lateral del patinete completo", alto: 1024, ancho: 1024, src: "/media/patinetes/razor-c35-2.webp" },
       { alt: "Razor C35 en uso, foto de estilo de vida", alto: 683, ancho: 1024, src: "/media/patinetes/razor-c35-3.webp" },
+      { src: "/media/razor-c35-hunt1.webp", alt: "C35 (foto: Razor (foto oficial de producto), licencia desconocida)", ancho: 1200, alto: 1200 },
+      { src: "/media/razor-c35-hunt2.webp", alt: "C35 (foto: Razor (foto oficial de estilo de vida), licencia desconocida)", ancho: 1200, alto: 800 },
     ],
     aprox: ["autonomiaRealKm", "potenciaPicoW", "bateriaWh", "tiempoCargaH"],
     pros: [

@@ -40,6 +40,8 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 1024,
         src: "/media/patinetes/teverun-blade-mini-ultra-3.webp",
       },
+      { src: "/media/teverun-blade-mini-ultra-hunt1.webp", alt: "Blade Mini Ultra (foto: Teverun (foto de producto) vía WheelyShop, licencia desconocida)", ancho: 1600, alto: 1441 },
+      { src: "/media/teverun-blade-mini-ultra-hunt2.webp", alt: "Blade Mini Ultra (foto: Teverun USA (tienda oficial), licencia desconocida)", ancho: 1024, alto: 1024 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -94,6 +96,8 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 1000,
         src: "/media/patinetes/teverun-tetra-2.webp",
       },
+      { src: "/media/teverun-tetra-hunt1.webp", alt: "Tetra (foto: Teverun (web oficial), licencia desconocida)", ancho: 1000, alto: 650 },
+      { src: "/media/teverun-tetra-hunt2.webp", alt: "Tetra (foto: Teverun (web oficial), licencia desconocida)", ancho: 1000, alto: 650 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -155,6 +159,8 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 680,
         src: "/media/patinetes/kingsong-n12-pro-3.webp",
       },
+      { src: "/media/kingsong-n12-pro-hunt1.webp", alt: "N12 Pro (foto: KingSong (tienda oficial EU), licencia desconocida)", ancho: 1400, alto: 788 },
+      { src: "/media/kingsong-n12-pro-hunt2.webp", alt: "N12 Pro (foto: KingSong (tienda oficial EU), licencia desconocida)", ancho: 1400, alto: 634 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -216,6 +222,8 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 1100,
         src: "/media/patinetes/vmax-vx2-pro-3.webp",
       },
+      { src: "/media/vmax-vx2-pro-hunt1.webp", alt: "VX2 Pro (foto: Electric Scooter Guide, licencia desconocida)", ancho: 1024, alto: 771 },
+      { src: "/media/vmax-vx2-pro-hunt2.webp", alt: "VX2 Pro (foto: Electric Scooter Guide, licencia desconocida)", ancho: 1024, alto: 771 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -269,6 +277,8 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 800,
         src: "/media/patinetes/nami-burn-e-2-2.webp",
       },
+      { src: "/media/nami-burn-e-2-hunt1.webp", alt: "Burn-E 2 Max Viper (foto: Nami (foto de producto) vía Bike Scooter City, licencia desconocida)", ancho: 1600, alto: 1600 },
+      { src: "/media/nami-burn-e-2-hunt2.webp", alt: "Burn-E 2 Max Viper (foto: Nami (foto de producto) vía PedL E-Bikes & E-Scooters, licencia desconocida)", ancho: 1000, alto: 1000 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -315,6 +325,8 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 600,
         src: "/media/patinetes/kaabo-mantis-10-lite-3.webp",
       },
+      { src: "/media/kaabo-mantis-10-lite-hunt1.webp", alt: "Mantis 10 Lite (foto: Kaabo USA / EZE Ryders, licencia desconocida)", ancho: 1280, alto: 1280 },
+      { src: "/media/kaabo-mantis-10-lite-hunt2.webp", alt: "Mantis 10 Lite (foto: Kaabo / VMtehnika, licencia desconocida)", ancho: 1060, alto: 920 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -375,6 +387,8 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 500,
         src: "/media/patinetes/kaabo-mantis-gt-3.webp",
       },
+      { src: "/media/kaabo-mantis-gt-hunt1.webp", alt: "Mantis GT (foto: Kaabo / MaxBlinker (Voltride, distribuidor autorizado Kaabo), licencia desconocida)", ancho: 275, alto: 500 },
+      { src: "/media/kaabo-mantis-gt-hunt2.webp", alt: "Mantis GT (foto: Kaabo / MaxBlinker (Voltride, distribuidor autorizado Kaabo), licencia desconocida)", ancho: 500, alto: 466 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -434,6 +448,8 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 690,
         src: "/media/patinetes/vmax-vx4-3.webp",
       },
+      { src: "/media/vmax-vx4-hunt1.webp", alt: "VX4 (foto: Fahrradblog.de (test VMAX VX4 en Noruega), licencia desconocida)", ancho: 1280, alto: 754 },
+      { src: "/media/vmax-vx4-hunt2.webp", alt: "VX4 (foto: Freshly Charged (review VMAX VX4), licencia desconocida)", ancho: 1400, alto: 1045 },
     ],
     aprox: [],
     pros: [
@@ -491,6 +507,8 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 400,
         src: "/media/fotos-reales/vmax-vx5-pro/vmax-vx5-pro-real-2.webp",
       },
+      { src: "/media/vmax-vx5-pro-hunt1.webp", alt: "VX5 Pro (foto: Notebookcheck (noticia del VMAX VX5 Pro), licencia desconocida)", ancho: 1600, alto: 1200 },
+      { src: "/media/vmax-vx5-pro-hunt2.webp", alt: "VX5 Pro (foto: Stelfia (ficha de producto VMAX VX5 Pro), licencia desconocida)", ancho: 700, alto: 702 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -544,6 +562,8 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 1024,
         src: "/media/patinetes/iscooter-i10-max-3.webp",
       },
+      { src: "/media/iscooter-i10-max-hunt1.webp", alt: "i10 Max (foto: Ebikes Discount (tienda, imagen de producto iScooter), licencia desconocida)", ancho: 1024, alto: 1024 },
+      { src: "/media/iscooter-i10-max-hunt2.webp", alt: "i10 Max (foto: iScooter / Ebikes Discount (imagen oficial de producto, fichero denominado para el i10 Max), licencia desconocida)", ancho: 700, alto: 700 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -608,6 +628,8 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 1000,
         src: "/media/patinetes/zwheel-zlion-pro-3.webp",
       },
+      { src: "/media/zwheel-zlion-pro-hunt1.webp", alt: "ZLion Pro (foto: ZWheel (foto de producto) vía Sabway Santa Perpètua, licencia desconocida)", ancho: 1000, alto: 1300 },
+      { src: "/media/zwheel-zlion-pro-hunt2.webp", alt: "ZLion Pro (foto: ZWheel (foto de producto) vía Sabway Santa Perpètua, licencia desconocida)", ancho: 1000, alto: 1300 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -665,6 +687,9 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 500,
         src: "/media/patinetes/cecotec-bongo-serie-a-plus-max-45-connected-2.webp",
       },
+      { src: "/media/cecotec-bongo-serie-a-plus-max-45-connected-hunt1.webp", alt: "Bongo Serie A+ Max 45 Connected (foto: Cecotec Innovaciones (web oficial, ref. 07303), licencia desconocida)", ancho: 2048, alto: 2049 },
+      { src: "/media/cecotec-bongo-serie-a-plus-max-45-connected-hunt2.webp", alt: "Bongo Serie A+ Max 45 Connected (foto: Cecotec (vía Ocasionia, producto 07303), licencia desconocida)", ancho: 530, alto: 530 },
+      { src: "/media/cecotec-bongo-serie-a-plus-max-45-connected-hunt3.webp", alt: "Bongo Serie A+ Max 45 Connected (foto: Cecotec (vía Amazon / Shoptize), licencia desconocida)", ancho: 500, alto: 500 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -729,6 +754,8 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 500,
         src: "/media/patinetes/zwheel-zrino-se-3.webp",
       },
+      { src: "/media/zwheel-zrino-se-hunt1.webp", alt: "Zrido SE (foto: ElectroChollo (galería del producto ZRino SE), licencia desconocida)", ancho: 600, alto: 600 },
+      { src: "/media/zwheel-zrino-se-hunt2.webp", alt: "Zrido SE (foto: ElectroChollo (galería del producto ZRino SE), licencia desconocida)", ancho: 600, alto: 600 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -792,6 +819,8 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 600,
         src: "/media/patinetes/zwheel-zcougar-3.webp",
       },
+      { src: "/media/zwheel-zcougar-hunt1.webp", alt: "ZCougar (foto: Electrical Things Spain (fotografía de producto ZWheel), licencia desconocida)", ancho: 1024, alto: 1024 },
+      { src: "/media/zwheel-zcougar-hunt2.webp", alt: "ZCougar (foto: Electrical Things Spain (fotografía de producto ZWheel), licencia desconocida)", ancho: 1422, alto: 1422 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -856,6 +885,8 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 1000,
         src: "/media/patinetes/navee-g5-3.webp",
       },
+      { src: "/media/navee-g5-hunt1.webp", alt: "G5 (foto: NAVEE (foto de producto) vía TopDek Informática, licencia desconocida)", ancho: 1000, alto: 1000 },
+      { src: "/media/navee-g5-hunt2.webp", alt: "G5 (foto: NAVEE (foto de producto) vía Prisjakt, licencia desconocida)", ancho: 640, alto: 640 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -921,6 +952,8 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 1024,
         src: "/media/patinetes/navee-xt5-pro-3.webp",
       },
+      { src: "/media/navee-xt5-pro-hunt1.webp", alt: "XT5 Pro (foto: Navee (tienda oficial EU, imagen oficial de producto), licencia desconocida)", ancho: 1600, alto: 1600 },
+      { src: "/media/navee-xt5-pro-hunt2.webp", alt: "XT5 Pro (foto: Navee (tienda oficial EU, foto oficial de presentación XT5 Pro), licencia desconocida)", ancho: 800, alto: 800 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -987,6 +1020,8 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 500,
         src: "/media/patinetes/zwheel-zrino-duo-3.webp",
       },
+      { src: "/media/zwheel-zrino-duo-hunt1.webp", alt: "Zrido Duo (foto: Sabway Santa Perpètua (galería del producto ZRino Duo), licencia desconocida)", ancho: 1000, alto: 1300 },
+      { src: "/media/zwheel-zrino-duo-hunt2.webp", alt: "Zrido Duo (foto: Sabway Santa Perpètua (galería del producto ZRino Duo), licencia desconocida)", ancho: 1000, alto: 1300 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -1051,6 +1086,8 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 1024,
         src: "/media/patinetes/ducati-pro-3-3.webp",
       },
+      { src: "/media/ducati-pro-3-hunt1.webp", alt: "Pro-III (foto: LiebreNaranja / foto de producto MT Distribution, licencia desconocida)", ancho: 1600, alto: 1600 },
+      { src: "/media/ducati-pro-3-hunt2.webp", alt: "Pro-III (foto: Garagem360 / MT Distribution, licencia desconocida)", ancho: 1200, alto: 675 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -1110,6 +1147,9 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 1110,
         src: "/media/patinetes/aprilia-esr2-evo-3.webp",
       },
+      { src: "/media/aprilia-esr2-evo-hunt1.webp", alt: "eSR2 EVO (foto: Aprilia / MT Distribution (foto oficial de producto) vía Sporilek, licencia desconocida)", ancho: 1000, alto: 1000 },
+      { src: "/media/aprilia-esr2-evo-hunt2.webp", alt: "eSR2 EVO (foto: Aprilia / MT Distribution (foto de prensa, feb. 2022) vía ePaddock, licencia desconocida)", ancho: 800, alto: 543 },
+      { src: "/media/aprilia-esr2-evo-hunt3.webp", alt: "eSR2 EVO (foto: Aprilia / MT Distribution (galería oficial de producto) vía Alza, licencia desconocida)", ancho: 600, alto: 600 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -1170,6 +1210,8 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 1000,
         src: "/media/patinetes/jeep-2xe-urban-camou-3.webp",
       },
+      { src: "/media/jeep-2xe-urban-camou-hunt1.webp", alt: "Jeep 2xe Urban Camou (foto: Jeep / Media Expert, licencia desconocida)", ancho: 1449, alto: 2000 },
+      { src: "/media/jeep-2xe-urban-camou-hunt2.webp", alt: "Jeep 2xe Urban Camou (foto: Jeep / Media Expert, licencia desconocida)", ancho: 1820, alto: 2000 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -1230,6 +1272,9 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 1600,
         src: "/media/patinetes/fiat-500-iride-3.webp",
       },
+      { src: "/media/fiat-500-iride-hunt1.webp", alt: "500 Iride (foto: Mopar / Stellantis (prensa) vía MoparInsiders, licencia desconocida)", ancho: 2224, alto: 1252 },
+      { src: "/media/fiat-500-iride-hunt2.webp", alt: "500 Iride (foto: Mopar / Stellantis (prensa) vía Revista Gadget, licencia desconocida)", ancho: 1024, alto: 683 },
+      { src: "/media/fiat-500-iride-hunt3.webp", alt: "500 Iride (foto: Mopar / Stellantis (prensa) vía Nueva Movilidad, licencia desconocida)", ancho: 1200, alto: 675 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -1289,6 +1334,9 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 1000,
         src: "/media/patinetes/lamborghini-al-ext-3.webp",
       },
+      { src: "/media/lamborghini-al-ext-hunt1.webp", alt: "Lamborghini AL-EXT (foto: MT Distribution (imagen oficial de producto) vía Media Expert, licencia desconocida)", ancho: 1438, alto: 2075 },
+      { src: "/media/lamborghini-al-ext-hunt2.webp", alt: "Lamborghini AL-EXT (foto: MT Distribution (imagen oficial de producto) vía Fixwheel, licencia desconocida)", ancho: 720, alto: 720 },
+      { src: "/media/lamborghini-al-ext-hunt3.webp", alt: "Lamborghini AL-EXT (foto: MT Distribution (imagen oficial de producto) vía iPort, licencia desconocida)", ancho: 880, alto: 880 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -1349,6 +1397,8 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 1200,
         src: "/media/patinetes/mv-agusta-rapido-serie-oro-3.webp",
       },
+      { src: "/media/mv-agusta-rapido-serie-oro-hunt1.webp", alt: "MV Agusta Rapido Serie Oro (foto: MV Agusta (foto oficial de producto) vía Media Expert, licencia desconocida)", ancho: 1463, alto: 2000 },
+      { src: "/media/mv-agusta-rapido-serie-oro-hunt2.webp", alt: "MV Agusta Rapido Serie Oro (foto: MV Agusta e-Mobility (tienda oficial e-MV Agusta), licencia desconocida)", ancho: 2200, alto: 1260 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -1403,6 +1453,9 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 1060,
         src: "/media/patinetes/acer-es-series-5-advance-2.webp",
       },
+      { src: "/media/acer-es-series-5-advance-hunt1.webp", alt: "ES Series 5 Advance (foto: Acer (imagen oficial del fabricante, modelo AES025), licencia desconocida)", ancho: 1433, alto: 1061 },
+      { src: "/media/acer-es-series-5-advance-hunt2.webp", alt: "ES Series 5 Advance (foto: Root-Nation (foto real de su análisis del Acer Predator ES Series 5 Advance), licencia desconocida)", ancho: 1500, alto: 1125 },
+      { src: "/media/acer-es-series-5-advance-hunt3.webp", alt: "ES Series 5 Advance (foto: Root-Nation (foto real de su análisis del Acer Predator ES Series 5 Advance), licencia desconocida)", ancho: 1500, alto: 1125 },
     ],
     aprox: [
       "autonomiaRealKm",
@@ -1462,6 +1515,9 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
         ancho: 1000,
         src: "/media/patinetes/jeep-jad-advanced-safety-3.webp",
       },
+      { src: "/media/jeep-jad-advanced-safety-hunt1.webp", alt: "Jeep JAD Advanced Safety (foto: Jeep vía Smadshop, licencia desconocida)", ancho: 750, alto: 750 },
+      { src: "/media/jeep-jad-advanced-safety-hunt2.webp", alt: "Jeep JAD Advanced Safety (foto: Jeep vía Ipon, licencia desconocida)", ancho: 1000, alto: 1000 },
+      { src: "/media/jeep-jad-advanced-safety-hunt3.webp", alt: "Jeep JAD Advanced Safety (foto: Jeep / Platum vía Patinete Eléctrico Homologado, licencia desconocida)", ancho: 680, alto: 836 },
     ],
     aprox: [
       "autonomiaRealKm",
