@@ -103,7 +103,7 @@ export default function HeroCosaJungla() {
 
       <img aria-hidden="true" className="hj-bg" alt=""
         src="/media/hero-jungla-selva-mobile-opt.webp"
-        srcSet="/media/hero-jungla-selva-mobile-opt.webp 640w, /media/hero-jungla-selva-4k.webp 1280w"
+        srcSet="/media/hero-jungla-selva-mobile-opt.webp 640w, /media/hero-jungla-selva-828w.webp 828w, /media/hero-jungla-selva-4k.webp 1280w"
         sizes="100vw" fetchPriority="high" decoding="sync"
         width="640" height="960" />
       <div aria-hidden="true" className="hj-shade" />
@@ -129,7 +129,7 @@ export default function HeroCosaJungla() {
       <div aria-hidden="true" className="hj-glow" />
       <div className="hj-cosa">
         <img className="hj-cuerpo" src="/media/cosa-jungla-apoyado-sm.webp"
-          srcSet="/media/cosa-jungla-apoyado-sm.webp 400w, /media/cosa-jungla-apoyado.webp 735w"
+          srcSet="/media/cosa-jungla-apoyado-sm.webp 240w, /media/cosa-jungla-apoyado-300w.webp 300w, /media/cosa-jungla-apoyado.webp 735w"
           sizes="170px" fetchPriority="high" alt="Cosa, el mono robot, apoyado en el botón de análisis" />
         {OJOS.map((o, i) => (
           <div key={i} aria-hidden="true" className="hj-parpado"
@@ -142,7 +142,7 @@ export default function HeroCosaJungla() {
         <div className="hj-ticks"><span>✓ Gratis</span><i>·</i><span>✓ Sin registro</span><i>·</i><span>✓ 2 min</span></div>
       </div>
       <img className="hj-manos" src="/media/cosa-jungla-manos-sm.webp"
-        srcSet="/media/cosa-jungla-manos-sm.webp 400w, /media/cosa-jungla-manos.webp 735w"
+        srcSet="/media/cosa-jungla-manos-sm.webp 240w, /media/cosa-jungla-manos-300w.webp 300w, /media/cosa-jungla-manos.webp 735w"
         sizes="170px" alt="" aria-hidden="true" />
     </section>
   );
