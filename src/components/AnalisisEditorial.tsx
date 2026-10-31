@@ -5,6 +5,7 @@
 import { useEffect, useState } from "react";
 import type { AnalisisEditorial as Analisis } from "@/lib/analisis-editorial-tipos";
 import { cargarAnalisisEditorial } from "@/lib/analisis-editorial/cargar";
+import DatosVerificados from "@/components/DatosVerificados";
 
 // 31/10/2026 (velocidad): el análisis llega de un shard diferido (~100 KB) en vez de un chunk
 // estático de 5,4 MB. Mientras carga se pinta un marcador oculto (data-editorial-cargando) que
