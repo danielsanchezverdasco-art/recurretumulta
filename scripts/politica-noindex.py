@@ -2,9 +2,15 @@
 """31/10/2026 — REGLA DE DANIEL: nunca se añade noindex ni se quita una página del índice. Este paso se ejecuta DESPUÉS de todos
 los postprocesos y ANTES de sitemap-final.py: quita todo noindex de dist/**/index.html salvo las rutas de
 scripts/noindex-permitidos.txt (páginas de utilidad/legales que ya eran noindex en vivo antes del 25/10), y quita data-fijo.
-Uso: politica-noindex.py dist [--comprobar]  (--comprobar no escribe: sale 1 si hay noindex fuera de la lista)"""
+31/10/2026 (decisión de Cosa): --cambios <cambios.json> limita el --comprobar a páginas nuevas/cambiadas respecto a vivo (las copias de vivo
+sin cambios bajo 301!, que no se suben, se omiten). Sin --cambios, comportamiento igual que antes.
+Uso: politica-noindex.py dist [--comprobar] [--cambios cambios.json]  (--comprobar no escribe: sale 1 si hay noindex fuera de la lista)"""
 import os, re, sys
 D = sys.argv[1] if len(sys.argv) > 1 else "dist"; CHECK = "--comprobar" in sys.argv
+SUBIR = None
+if "--cambios" in sys.argv:
+    import json
+    _c = json.load(open(sys.argv[sys.argv.index("--cambios") + 1])); SUBIR = set(_c.get("new", [])) | set(_c.get("chg", []))
 AQUI = os.path.dirname(os.path.abspath(__file__))
 OK = {l.split("#")[0].strip() for l in open(os.path.join(AQUI, "noindex-permitidos.txt")) if l.split("#")[0].strip()}
 ROB = re.compile(r'<meta\b[^>]*\bname=["\']robots["\'][^>]*>', re.I)
@@ -14,7 +20,9 @@ for raiz, dirs, fs in os.walk(D):
     dirs[:] = [d for d in dirs if d != "assets"]
     for f in fs:
         if not f.endswith(".html"): continue
-        p = os.path.join(raiz, f); s = open(p, encoding="utf-8", errors="ignore").read()
+        p = os.path.join(raiz, f)
+        if CHECK and SUBIR is not None and "/" + os.path.relpath(p, D).replace(os.sep, "/") not in SUBIR: continue
+        s = open(p, encoding="utf-8", errors="ignore").read()
         tags = ROB.findall(s)
         if not any("noindex" in t.lower() for t in tags): continue
         rel = "/" + os.path.relpath(raiz, D).replace(os.sep, "/") + "/"
