@@ -2,7 +2,7 @@
 // - MG 3 (septiembre de 2025, 4 estrellas, 74/73/81/69; el 74 % de adultos es el de la entrada hermana mg3-gasolina), Peugeot 5008 (mayo de 2025, 4 estrellas, 80/85/79/62, base 3008) y
 //   Honda Jazz Crosstar (noviembre de 2020, 5 estrellas, 87/83/80/76): datos de euroncap.com ya citados en los lotes 15, 22 y 23 de enriquecimiento-3110.
 // - Zeekr 7GT: valoración publicada el 8 de julio de 2026, cinco estrellas con el protocolo 2026
-//   (conducción segura 79 %, evitación de la colisión 89 %, protección 93 %, seguridad posterior 95 %).
+//   (subnotas: conducción segura 79, evitación 89, protección 93, post-choque 95).
 //   Ensayado el Privilege AWD de 2.405 kg; cubre también Core RWD y Long Range RWD.
 //   Fuente: https://www.euroncap.com/assessments/zeekr/7gt/1229/
 import type { SeguridadEuroNCAP } from "./seguridad-euroncap.ts";

@@ -2509,7 +2509,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     pros: [
       "Nuevo híbrido de 155 CV con motor 1.8 'made in Spain'",
       "Desde 24.450 €: el familiar híbrido de 7 plazas más barato",
-      "Consumo de 4,6 l/100 km y 104 g/km de CO2",
+      "Gasto homologado de 4,6 l/100 km, con 104 g/km de CO2",
       "Maletero de 607 litros en versión de 5 plazas",
       "Hasta un 80 % del tiempo en eléctrico en ciudad",
     ],

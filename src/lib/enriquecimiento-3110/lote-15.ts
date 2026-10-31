@@ -4,16 +4,19 @@ import type { MapaEnriquecimiento } from "./tipos";
 const SUP = "https://www.euroncap.com/assessments/skoda/superb/1022/";
 const MG3 = "https://www.euroncap.com/assessments/mg/3/1057/";
 
+const SRC1 = { fuente: "Euro NCAP, descripción de asistencias", url: SUP, anio: "2024" };
+const SRC2 = { fuente: "Euro NCAP MG 3: ocupantes adultos (descripción)", url: MG3, anio: "2025" };
+
 export const LOTE_15: MapaEnriquecimiento = {
   "skoda-superb-20-tdi-2026-precio-ficha-tecnica": {
     titulo: "Superb TDI: cómo se comportó en los choques de Euro NCAP",
     parrafos: [
       "Euro NCAP concedió cinco estrellas al Superb de 2024, con un 93 % en protección de los ocupantes adultos. Según el organismo, el Superb es gemelo del Volkswagen Passat: las pruebas se hicieron sobre el Volkswagen y la nota vale igual para el Škoda. Entre las variantes que cubre la evaluación figura el 2.0 TDI de tracción delantera, que aparece marcado con asterisco en la tabla de variantes.",
       "En la prueba frontal con barrera deformable, la cabina conservó su estructura y la protección fue buena en todas las zonas críticas, tanto del conductor como del acompañante, con la puntuación completa en los resultados dinámicos. Škoda demostró además que rodillas y fémures reciben la misma protección con ocupantes de distinta talla o sentados en otra posición. En el ensayo de barrera rígida de ancho completo, las zonas críticas del conductor y del pasajero trasero quedaron entre buenas y adecuadas.",
-      "En los impactos lateral y contra poste la protección fue buena en todas las zonas y el coche logró el máximo de puntos. El control de la excursión lateral se calificó de adecuado, y el airbag que evita el choque entre ocupantes protegió bien las cabezas delanteras. Los asientos delanteros y los reposacabezas dieron buena protección ante el latigazo cervical, y el Superb incorpora eCall avanzado.",
+      "En los impactos lateral y contra poste las zonas evaluadas obtuvieron buena protección y el coche logró el máximo de puntos. El control de la excursión lateral se calificó de adecuado, y el airbag que evita el choque entre ocupantes protegió bien las cabezas delanteras. Los asientos delanteros y los reposacabezas dieron buena protección ante el latigazo cervical, y el Superb incorpora eCall avanzado.",
     ],
     filas: [
-      { etiqueta: "Protección de adultos", valor: "93 % de la puntuación posible", fuente: "Euro NCAP, apartado de ocupantes adultos del Škoda Superb", url: SUP, anio: "2024" },
+      { etiqueta: "Protección de adultos", valor: "93 % de los puntos posibles", fuente: "Euro NCAP Superb: ocupantes adultos (apartado)", url: SUP, anio: "2024" },
       { etiqueta: "Calificación global", valor: "Cinco estrellas, publicadas el 10 de julio de 2024", fuente: "Euro NCAP, historial de la ficha del Superb", url: SUP, anio: "2024" },
       { etiqueta: "Motor 2.0 TDI en la evaluación", valor: "Figura como 2.0 diésel de tracción delantera (4x2), con asterisco de variante ensayada", fuente: "Euro NCAP, líneas TDI de la tabla del Superb", url: SUP, anio: "2024" },
       { etiqueta: "Coche sobre el que se hicieron los choques", valor: "Volkswagen Passat, gemelo del Superb", fuente: "Euro NCAP, texto introductorio de la valoración", url: SUP, anio: "2024" },
@@ -28,8 +31,8 @@ export const LOTE_15: MapaEnriquecimiento = {
       "Ante un atropello, la cabeza de la persona golpeada quedó protegida de forma mayormente adecuada, con resultados pobres en los montantes rígidos del parabrisas y en la base del cristal. Pelvis y fémur puntuaron al máximo, y rodilla y tibia fueron mayormente buenas. El frenado automático respondió bien ante peatones, rindió al máximo ante ciclistas y casi al máximo en el caso de una puerta abierta ante un ciclista que llega por detrás. Ante motoristas puntuó entero en el frenado y bien en el mantenimiento de carril.",
     ],
     filas: [
-      { etiqueta: "Protección de niños", valor: "87 % de la puntuación posible", fuente: "Euro NCAP, apartado de ocupantes infantiles del Škoda Superb", url: SUP, anio: "2024" },
-      { etiqueta: "Usuarios vulnerables de la vía", valor: "82 % de la puntuación posible", fuente: "Euro NCAP, apartado de peatones y ciclistas del Superb", url: SUP, anio: "2024" },
+      { etiqueta: "Protección de niños", valor: "87 % de la puntuación posible", fuente: "Euro NCAP Superb: ocupantes infantiles (apartado)", url: SUP, anio: "2024" },
+      { etiqueta: "Usuarios vulnerables de la vía", valor: "82 % de los puntos en juego", fuente: "Euro NCAP Superb: peatones y ciclistas (apartado)", url: SUP, anio: "2024" },
       { etiqueta: "Motor 2.0 TSI en la evaluación", valor: "Listado con tracción total (4x4) y con tracción delantera (4x2)", fuente: "Euro NCAP, líneas de gasolina TSI en el cuadro del Superb", url: SUP, anio: "2024" },
       { etiqueta: "Detección de niños olvidados", valor: "No disponible en el Superb", fuente: "Euro NCAP, descripción de ocupantes infantiles", url: SUP, anio: "2024" },
       { etiqueta: "Punto débil en atropellos", valor: "Montantes del parabrisas y base del cristal: resultados pobres", fuente: "Euro NCAP, descripción de usuarios vulnerables", url: SUP, anio: "2024" },
@@ -43,11 +46,11 @@ export const LOTE_15: MapaEnriquecimiento = {
       "Euro NCAP señala además que el eCall avanzado avisa a los servicios de emergencia tras un accidente y que existe un sistema contra impactos secundarios. Para el resto de la nota, el organismo se basa en los ensayos hechos sobre el Volkswagen Passat, gemelo del Superb.",
     ],
     filas: [
-      { etiqueta: "Asistencias a la seguridad", valor: "80 % de la puntuación posible", fuente: "Euro NCAP, apartado de asistencias del Škoda Superb", url: SUP, anio: "2024" },
+      { etiqueta: "Asistencias a la seguridad", valor: "80 % del máximo posible", fuente: "Euro NCAP Superb: asistencias (apartado)", url: SUP, anio: "2024" },
       { etiqueta: "Fecha de la calificación", valor: "10 de julio de 2024, cinco estrellas", fuente: "Euro NCAP, revisiones anuales del Superb", url: SUP, anio: "2024" },
       { etiqueta: "Híbrido enchufable en la evaluación", valor: "1.5 TSI iV con tracción delantera, listado en dos carrocerías", fuente: "Euro NCAP, renglón del PHEV en el listado del Superb", url: SUP, anio: "2024" },
-      { etiqueta: "Vigilancia del conductor", valor: "Indirecta, de serie; detecta fatiga", fuente: "Euro NCAP, descripción de asistencias", url: SUP, anio: "2024" },
-      { etiqueta: "Aviso de cinturón", valor: "De serie en plazas delanteras y traseras", fuente: "Euro NCAP, descripción de asistencias", url: SUP, anio: "2024" },
+      { etiqueta: "Vigilancia del conductor", valor: "Indirecta, de serie; detecta fatiga", ...SRC1 },
+      { etiqueta: "Aviso de cinturón", valor: "De serie en plazas delanteras y traseras", ...SRC1 },
     ],
   },
   "mg3-gasolina-2025-precio-ficha-tecnica": {
@@ -58,11 +61,11 @@ export const LOTE_15: MapaEnriquecimiento = {
       "El organismo explica que, tras la prueba, MG modificó el mecanismo del asiento en producción y que los coches ya vendidos son objeto de una retirada para instalar piezas que eviten ese fallo. Euro NCAP confirma que la corrección es eficaz y anima a los propietarios a hacer que se la instalen cuando MG los contacte. Si tienes un MG 3, conviene confirmar con el concesionario que la retirada se ha hecho.",
     ],
     filas: [
-      { etiqueta: "Protección de adultos", valor: "74 % de la puntuación posible; cuatro estrellas globales", fuente: "Euro NCAP, apartado de ocupantes adultos del MG 3", url: MG3, anio: "2025" },
+      { etiqueta: "Protección de adultos", valor: "74 % de la puntuación posible; cuatro estrellas globales", fuente: "Euro NCAP MG 3: ocupantes adultos (apartado)", url: MG3, anio: "2025" },
       { etiqueta: "Fecha de publicación", valor: "10 de septiembre de 2025", fuente: "Euro NCAP, historial de la ficha del MG 3", url: MG3, anio: "2025" },
       { etiqueta: "Variante ensayada", valor: "1.5 híbrido GS62 H (MG 3 Hybrid), 4x2; la tabla lista también el 1.5 de gasolina GS62", fuente: "Euro NCAP, tabla de variantes del MG 3", url: MG3, anio: "2025" },
-      { etiqueta: "Fallo en el choque frontal", valor: "Rotura del ajuste derecho del asiento del conductor; pierna derecha con protección pobre", fuente: "Euro NCAP, descripción de ocupantes adultos del MG 3", url: MG3, anio: "2025" },
-      { etiqueta: "Medida correctora", valor: "Asiento modificado en producción y retirada de los coches ya vendidos", fuente: "Euro NCAP, descripción de ocupantes adultos del MG 3", url: MG3, anio: "2025" },
+      { etiqueta: "Fallo en el choque frontal", valor: "Rotura del ajuste derecho del asiento del conductor; pierna derecha con protección pobre", ...SRC2 },
+      { etiqueta: "Medida correctora", valor: "Asiento modificado en producción y retirada de los coches ya vendidos", ...SRC2 },
     ],
   },
   "mg-3-2025-precio-ficha-tecnica": {
@@ -73,12 +76,12 @@ export const LOTE_15: MapaEnriquecimiento = {
       "En peatones y ciclistas, el frenado automático respondió bien, aunque no actúa ante personas que están detrás del coche, y carece de protección contra la apertura de puertas sobre un ciclista que viene por detrás. Ante motoristas, la respuesta fue buena. El MG 3 lleva vigilancia directa del conductor que detecta cansancio pero no distracción.",
     ],
     filas: [
-      { etiqueta: "Protección de niños", valor: "73 % de la puntuación posible", fuente: "Euro NCAP, apartado de ocupantes infantiles del MG 3", url: MG3, anio: "2025" },
-      { etiqueta: "Usuarios vulnerables", valor: "81 % de la puntuación posible", fuente: "Euro NCAP, valoración de peatones y ciclistas, MG 3", url: MG3, anio: "2025" },
-      { etiqueta: "Asistencias a la seguridad", valor: "69 % de la puntuación posible", fuente: "Euro NCAP, apartado de asistencias del MG 3", url: MG3, anio: "2025" },
-      { etiqueta: "Maniquí de 10 años en el lateral", valor: "Airbag contra el montante trasero; cero puntos en ese ensayo", fuente: "Euro NCAP, descripción de ocupantes infantiles del MG 3", url: MG3, anio: "2025" },
+      { etiqueta: "Protección de niños", valor: "73 % de los puntos posibles", fuente: "Euro NCAP MG 3: ocupantes infantiles (apartado)", url: MG3, anio: "2025" },
+      { etiqueta: "Usuarios vulnerables", valor: "81 % de los puntos posibles", fuente: "Euro NCAP, valoración de peatones y ciclistas, MG 3", url: MG3, anio: "2025" },
+      { etiqueta: "Asistencias a la seguridad", valor: "69 % del máximo posible", fuente: "Euro NCAP MG 3: asistencias (apartado)", url: MG3, anio: "2025" },
+      { etiqueta: "Maniquí de 10 años en el lateral", valor: "Airbag contra el montante trasero; cero puntos en ese ensayo", fuente: "Euro NCAP MG 3: ocupantes infantiles (descripción)", url: MG3, anio: "2025" },
       { etiqueta: "Pasajero trasero en choque frontal", valor: "Cabeza: protección pobre; pecho: marginal", fuente: "Euro NCAP, texto sobre el pasajero trasero del MG 3", url: MG3, anio: "2025" },
-      { etiqueta: "Vigilancia del conductor", valor: "Directa, de serie; detecta fatiga pero no distracción", fuente: "Euro NCAP, descripción de asistencias del MG 3", url: MG3, anio: "2025" },
+      { etiqueta: "Vigilancia del conductor", valor: "Directa, de serie; detecta fatiga pero no distracción", fuente: "Euro NCAP MG 3: asistencias (descripción)", url: MG3, anio: "2025" },
     ],
   },
 };
