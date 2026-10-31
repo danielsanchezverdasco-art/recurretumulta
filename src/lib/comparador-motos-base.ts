@@ -6862,7 +6862,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     bateriaKwh: null,
     velocidadMax: 160,
     ceroCincuenta: null,
-    pesoKg: 214.5,
+    pesoKg: 227, // 31/10/2026: 227 kg en vacío según manual SYM España (antes 214,5)
     plazas: 2,
     carnet: "A2",
     carga: null,
@@ -6878,7 +6878,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     ],
     contras: [
       "Precio de 8.999 €, alto frente a maxiscooters monocilíndricos",
-      "Peso de 214,5 kg, que exige destreza en maniobras en parado",
+      "Peso de 227 kg en vacío, que exige destreza en maniobras en parado",
       "Depósito de 12,5 litros: obliga a visitas frecuentes a la gasolinera",
       "El seguro gratuito de SYM España solo es válido a partir de los 21 años",
       "La transmisión por cadena requiere más mantenimiento que la correa de sus rivales",

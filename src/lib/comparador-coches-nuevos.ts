@@ -6945,6 +6945,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "renault-austral-2024-precio-ficha-tecnica",
+    textosPropios: {
+      precio: "La tarifa oficial del Renault Austral de marzo de 2026 es de 34.235 € (150 CV mild hybrid Evolution) y 38.054 € (Full Hybrid 200 CV Evolution), según Motor.es. En la tienda online de Renault España (31/10/2026) hay unidades de stock del Full Hybrid Evolution entre 34.992 € y 35.361 € con IVA incluido. El precio de la ficha, 35.815 €, es el de referencia con el que catalogamos el modelo.",
+    },
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de cambio de aceite",
         resetAceitePasos: ["Enciende el cuadro de instrumentos sin arrancar el motor.", "Con las teclas direccionales del volante, navega por el menú hasta la pantalla relativa al cambio de aceite motor.", "Mantén pulsado el botón OK hasta que la pantalla deje de parpadear.", "Suelta el botón OK y apaga el cuadro."],
@@ -7260,6 +7263,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "dacia-bigster-2025-precio-ficha-tecnica",
+    textosPropios: {
+      precio: "El Dacia Bigster Essential mild hybrid-G 140 (GLP) cuesta 25.020 € al contado en la oferta de octubre de 2026 de Dacia España, con IVA, matriculación, transporte y descuentos promocionales incluidos; financiado con Preference parte de 23.051,31 €. El precio de la ficha, 24.990 €, es el de referencia con el que catalogamos el modelo.",
+    },
     analisisSlug: "dacia-bigster-2025-precio-ficha-tecnica",
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de cambio de aceite",
