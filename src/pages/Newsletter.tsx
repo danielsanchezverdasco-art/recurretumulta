@@ -176,7 +176,7 @@ export default function Newsletter() {
           <div className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm space-y-1">
             <p className="text-sm font-bold text-gray-900">Zonas de bajas emisiones</p>
             <p className="text-xs text-gray-600 leading-relaxed">
-              La Ley 7/2021 de cambio climático obliga a los municipios de más de 50.000 habitantes, y a los territorios insulares, a incluir una zona de bajas emisiones en su plan de movilidad urbana sostenible. El Real Decreto 1052/2022 fija los requisitos mínimos: delimitación, control de accesos y seguimiento. Cada ayuntamiento decide qué etiqueta ambiental puede entrar, así que la norma local es la que manda al circular.{" "}
+              Según la Ley 7/2021, las ciudades que superan los 50.000 vecinos y los territorios insulares tienen que prever una zona de bajas emisiones dentro de su plan de movilidad urbana sostenible. El Real Decreto 1052/2022 fija los requisitos mínimos: delimitación, control de accesos y seguimiento. Cada ayuntamiento decide qué etiqueta ambiental puede entrar, así que la norma local es la que manda al circular.{" "}
               <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2022-22689" target="_blank" rel="noopener noreferrer" className="text-red-600 font-semibold hover:underline">Real Decreto 1052/2022 en el BOE</a>.
             </p>
           </div>

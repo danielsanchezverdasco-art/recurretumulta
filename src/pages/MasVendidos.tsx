@@ -32,18 +32,18 @@ const sumaMercado = (ps: PeriodoVentas[]) =>
   ps.reduce((a, p) => a + (p.totalMercado ?? 0), 0);
 const mesesConTotal = (ps: PeriodoVentas[]) => ps.filter((p) => p.totalMercado != null);
 const extremos = (ps: PeriodoVentas[]) => {
-  const c = mesesConTotal(ps);
-  const alto = c.reduce((a, b) => ((b.totalMercado ?? 0) > (a.totalMercado ?? 0) ? b : a));
-  const bajo = c.reduce((a, b) => ((b.totalMercado ?? 0) < (a.totalMercado ?? 0) ? b : a));
-  return { alto, bajo };
+  const ordenados = [...mesesConTotal(ps)].sort(
+    (x, y) => (y.totalMercado ?? 0) - (x.totalMercado ?? 0)
+  );
+  return { alto: ordenados[0], bajo: ordenados[ordenados.length - 1] };
 };
 const lideresPorModelo = (ps: PeriodoVentas[]) => {
-  const m = new Map<string, number>();
-  ps.forEach((p) => {
+  const cuenta: Record<string, number> = {};
+  for (const p of ps) {
     const l = p.ranking[0]?.modelo;
-    if (l) m.set(l, (m.get(l) ?? 0) + 1);
-  });
-  return [...m.entries()].sort((a, b) => b[1] - a[1]);
+    if (l) cuenta[l] = (cuenta[l] ?? 0) + 1;
+  }
+  return Object.entries(cuenta).sort((x, y) => y[1] - x[1]);
 };
 const mes = (p: PeriodoVentas) => p.etiqueta.split(" ")[0].toLowerCase();
 const pct1 = (n: number) => n.toLocaleString("es-ES", { minimumFractionDigits: 1, maximumFractionDigits: 1 });
