@@ -180,7 +180,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaKm", "autonomiaRealKm", "pesoKg"],
+    aprox: ["precioEur", "autonomiaKm", "autonomiaRealKm", "pesoKg"],
     pros: [
       "Lo mejor del Burn-e en formato compacto: 38 kg frente a 47 del grande",
       "5.360 W de pico: prestaciones serias con mejor manejabilidad",
@@ -343,7 +343,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaKm", "autonomiaRealKm", "pesoKg"],
+    aprox: ["precioEur", "autonomiaKm", "autonomiaRealKm", "pesoKg"],
     pros: [
       "Doble motor de 1.500 W (8.400 W de pico): potencia de Burn-e en chasis Blast",
       "Batería de 2.400 Wh (60V 40Ah): 100 km declarados",
@@ -584,7 +584,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaKm", "autonomiaRealKm", "bateriaWh"],
+    aprox: ["precioEur", "autonomiaKm", "autonomiaRealKm", "bateriaWh"],
     pros: [
       "Doble motor de 1.600 W (5.000 W de pico) con tres capacidades de batería",
       "Hasta 2.100 Wh (60V 35Ah): 80-140 km declarados según versión",
@@ -717,7 +717,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["precioEur", "autonomiaRealKm"],
     pros: [
       "La puerta de entrada a Teverun: precio contenido",
       "24 kg: manejable para el día a día",
@@ -784,7 +784,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["velocidadMaxKmh", "autonomiaRealKm"],
+    aprox: ["precioEur", "velocidadMaxKmh", "autonomiaRealKm"],
     pros: [
       "Doble motor de 350 W: tracción total en formato ligero",
       "Batería de 720 Wh (48V 15Ah): 40 km declarados",
@@ -852,7 +852,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["precioEur", "autonomiaRealKm"],
     pros: [
       "Con 15,6 kg, está entre los más ligeros que montan ruedas de 10 pulgadas",
       "Sus 720 W de pico le permiten subir pendientes del 18 % sin apuros",
@@ -1161,7 +1161,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "velocidadMaxKmh"],
+    aprox: ["precioEur", "autonomiaRealKm", "velocidadMaxKmh"],
     pros: [
       "675 Wh: 95 km declarados, autonomía top en su clase",
       "500 W (1.000 W de pico): bien resuelto en ciudad",
@@ -1354,7 +1354,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["precioEur", "autonomiaRealKm"],
     pros: [
       "Motor Bosch de 750 W (1.200 W de pico): sello de calidad alemán",
       "864 Wh (48V 18Ah): 74 km declarados",
@@ -1419,7 +1419,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["precioEur", "autonomiaRealKm"],
     pros: [
       "Sillín y cesta incluidos: pensado para recados y compra",
       "Ruedas de 14 pulgadas: más estables y cómodas que las de 10",
@@ -1825,7 +1825,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaKm", "autonomiaRealKm"],
+    aprox: ["precioEur", "autonomiaKm", "autonomiaRealKm"],
     pros: [
       "800 W con enfoque off-road",
       "720 Wh (48V 15Ah): buena batería para su precio (~449 £)",
@@ -1968,7 +1968,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["pesoKg", "bateriaWh", "autonomiaRealKm"],
+    aprox: ["precioEur", "pesoKg", "bateriaWh", "autonomiaRealKm"],
     pros: [
       "Doble motor de 1.000 W: tracción total por ~709 £",
       "80 km declarados: autonomía generosa",
@@ -2558,7 +2558,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["pesoKg", "bateriaWh", "autonomiaRealKm"],
+    aprox: ["precioEur", "pesoKg", "bateriaWh", "autonomiaRealKm"],
     pros: [
       "Batería enorme (1.253 Wh): 72 km declarados",
       "Ruedas de 14\": las más grandes de su rango, muy cómodas",
@@ -2629,7 +2629,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["precioEur", "autonomiaRealKm"],
     pros: [
       "Doble motor de 1.000 W: tracción total",
       "1.080 Wh (60V 18Ah): 92 km declarados",

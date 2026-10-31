@@ -798,7 +798,7 @@ function $() {
             name: `¿Qué garantías tengo? ¿Y si no funciona?`,
             acceptedAnswer: {
               "@type": `Answer`,
-              text: `Si el análisis no detecta ningún error legal en tu multa, te lo decimos con total honestidad — no te cobramos nada. Si compras el PDF y la DGT no acepta el recurso por un error en nuestro documento, te devolvemos el importe íntegro.`,
+              text: `Si el análisis no detecta ningún error legal en tu multa, te lo decimos con total honestidad — no te cobramos nada. Si compras el PDF, ofrecemos reembolso completo si el análisis no detecta ningún defecto ni genera ningún argumento útil; puedes solicitarlo en los 14 días posteriores a la compra escribiendo a soporte@recurretumulta.online. El reembolso no aplica si el recurso generado fue descargado y presentado.`,
             },
           },
           {
@@ -1821,11 +1821,11 @@ function $() {
                     },
                     {
                       q: `¿Qué garantías tengo? ¿Y si no funciona?`,
-                      a: `Si el análisis no detecta ningún error legal en tu multa, te lo decimos con total honestidad — no te cobramos nada. Si compras el PDF y la DGT no acepta el recurso por un error en nuestro documento, te devolvemos el importe íntegro. Nuestro compromiso es la transparencia.`,
+                      a: `Si el análisis no detecta ningún error legal en tu multa, te lo decimos con total honestidad — no te cobramos nada. Si compras el PDF, ofrecemos reembolso completo si el análisis no detecta ningún defecto ni genera ningún argumento útil; puedes solicitarlo en los 14 días posteriores a la compra escribiendo a soporte@recurretumulta.online. El reembolso no aplica si el recurso generado fue descargado y presentado.`,
                     },
                     {
                       q: `¿Qué hacéis con mis datos y la imagen de mi multa?`,
-                      a: `Solo usamos los datos de tu multa para generar el recurso. No los compartimos con terceros, no los vendemos, no los usamos para publicidad. Cumplimos con el RGPD. Puedes solicitar la eliminación de tus datos en cualquier momento enviando un email a soporte@recurretumulta.online.`,
+                      a: `Solo usamos los datos de tu multa para generar el recurso. Solo acceden a ellos los proveedores estrictamente necesarios para prestarte el servicio (pagos, envío de emails, base de datos e inteligencia artificial), como detalla nuestra Política de Privacidad. No los vendemos ni los usamos para publicidad. Cumplimos con el RGPD. Puedes solicitar la eliminación de tus datos en cualquier momento enviando un email a soporte@recurretumulta.online.`,
                     },
                     {
                       q: `¿Es esto legal? ¿Puedo hacerlo yo mismo?`,
@@ -1957,7 +1957,7 @@ function $() {
                       {
                         icon: v,
                         title: `Datos protegidos (RGPD)`,
-                        desc: `Tus documentos se procesan solo para generar el recurso y no se comparten con terceros.`,
+                        desc: `Tus documentos se procesan solo para generar el recurso; solo acceden a ellos los proveedores estrictamente necesarios para prestarte el servicio.`,
                       },
                       {
                         icon: y,
