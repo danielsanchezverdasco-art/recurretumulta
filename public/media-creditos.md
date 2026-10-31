@@ -4565,3 +4565,9 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/motos/vespa-gts-310-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Vespa_GTS_310_2025.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
 | /media/vespa-elettrica-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Vespa-Elettrica-Madrid-070219.jpg | FDV · Wikimedia Commons | CC BY-SA 4.0 |
 | /media/forthing-t5-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Forthing_T5_001.jpg | Jengtingchen · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/patinetes/hiboy-u2-pro-1.webp | https://www.hiboy.com/products/hiboy-u2-pro-electric-scooter-with-16-inch-fat-tires | Hiboy (web oficial) | prensa |
+| /media/patinetes/hiboy-ve1-pro-1.webp | https://www.hiboy.com/products/hiboy-ve1-pro-electric-scooter-amazon | Hiboy (web oficial) | prensa |
+| /media/patinetes/kukirin-m4-max-1.webp | https://kukirinofficial.com/products/kukirin-m4-max-electric-scooter | KuKirin (web oficial) | prensa |
+| /media/patinetes/kukirin-m5-pro-1.webp | https://kukirinofficial.com/products/kukirin-m5-pro-electric-scooter | KuKirin (web oficial) | prensa |
+| /media/patinetes/kaabo-mantis-8-eco-800-1.webp | https://kaabomantis.com/shop/kaabo-mantis-8-eco-800/ | Kaabo Mantis (web oficial) | prensa |
+| /media/patinetes/bogist-m5-pro-plus-1.webp | https://bogistshop.com/products/bogist-m5-pro-15ah-version-500w-48v-15ah-battery-pnoumatic-tires-150-kg-maximum-landing-foldable-scooter-for-commute-and-travel | BOGIST (tienda oficial) | prensa |

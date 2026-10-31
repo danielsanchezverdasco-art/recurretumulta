@@ -2149,5 +2149,35 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "Jengtingchen · Wikimedia Commons",
 "licencia": "CC BY-SA 4.0",
 "url": "https://commons.wikimedia.org/wiki/File:Forthing_T5_001.jpg"
+},
+"/media/patinetes/hiboy-u2-pro-1.webp": {
+"autor": "Hiboy (web oficial)",
+"licencia": "prensa",
+"url": "https://www.hiboy.com/products/hiboy-u2-pro-electric-scooter-with-16-inch-fat-tires"
+},
+"/media/patinetes/hiboy-ve1-pro-1.webp": {
+"autor": "Hiboy (web oficial)",
+"licencia": "prensa",
+"url": "https://www.hiboy.com/products/hiboy-ve1-pro-electric-scooter-amazon"
+},
+"/media/patinetes/kukirin-m4-max-1.webp": {
+"autor": "KuKirin (web oficial)",
+"licencia": "prensa",
+"url": "https://kukirinofficial.com/products/kukirin-m4-max-electric-scooter"
+},
+"/media/patinetes/kukirin-m5-pro-1.webp": {
+"autor": "KuKirin (web oficial)",
+"licencia": "prensa",
+"url": "https://kukirinofficial.com/products/kukirin-m5-pro-electric-scooter"
+},
+"/media/patinetes/kaabo-mantis-8-eco-800-1.webp": {
+"autor": "Kaabo Mantis (web oficial)",
+"licencia": "prensa",
+"url": "https://kaabomantis.com/shop/kaabo-mantis-8-eco-800/"
+},
+"/media/patinetes/bogist-m5-pro-plus-1.webp": {
+"autor": "BOGIST (tienda oficial)",
+"licencia": "prensa",
+"url": "https://bogistshop.com/products/bogist-m5-pro-15ah-version-500w-48v-15ah-battery-pnoumatic-tires-150-kg-maximum-landing-foldable-scooter-for-commute-and-travel"
 }
 };
