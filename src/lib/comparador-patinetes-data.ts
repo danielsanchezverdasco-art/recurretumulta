@@ -80,6 +80,14 @@ export interface PatineteComparador {
   avisoCategoria?: string;
   /** 24/10/2026 (Grok decisión 2): fuera del comparador y de los listados de patinetes. La ficha sigue existiendo en su URL. */
   fueraDeComparador?: boolean;
+  /** 31/10/2026 (enriquecimiento): FAQs propias del modelo (se suman a las generadas y al JSON-LD). */
+  faqExtra?: { q: string; a: string }[];
+  /** 31/10/2026: rivales con cifras reales (tabla «frente a sus rivales»). Solo ids que existan como ficha. */
+  rivalesTabla?: { id: string; nombre: string; precioEur: number | null; autonomiaKm?: number | null; potenciaW?: number | null; pesoKg?: number | null; nota?: string }[];
+  /** 31/10/2026: fuentes consultadas con fecha (AAAA-MM-DD). */
+  fuentesExtra?: { nombre: string; url: string; fecha?: string }[];
+  /** 31/10/2026: fecha (AAAA-MM-DD) en que se contrastaron los datos de la ficha. */
+  datosVerificadosEl?: string;
 }
 
 /** Normaliza texto para comparar marcas/modelos: minúsculas, sin tildes. */

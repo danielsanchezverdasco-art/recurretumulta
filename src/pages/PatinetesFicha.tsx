@@ -28,6 +28,7 @@ import BarraInferiorFicha from "@/components/ficha/BarraInferiorFicha.tsx";
 import ProsContras from "@/components/ficha/ProsContras.tsx";
 import VideoYoutube from "@/components/ficha/VideoYoutube.tsx";
 import TablaVersiones from "@/components/ficha/TablaVersiones.tsx";
+import DatosContrastados from "@/components/ficha/DatosContrastados.tsx";
 import RivalesCarrusel from "@/components/ficha/RivalesCarrusel.tsx";
 import FraseRivales from "@/components/ficha/FraseRivales.tsx";
 import DescargarFichaPDF from "@/components/DescargarFichaPDF.tsx";
@@ -191,6 +192,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
       q: `¿Necesito seguro para el ${nombre}?`,
       a: `Sí, obligatorio desde 2026 (Ley 5/2025).`,
     },
+    ...(patinete.faqExtra ?? []),
   ];
 
   // ORD-20261027-1035: sin Offer (sin precio real o sin imagen) no se emite el
@@ -674,6 +676,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
 
         {/* 20/10/2026 (fix plantilla): sin sección «Seguridad EuroNCAP» en patinetes — Euro NCAP no prueba patinetes. */}
 
+        <DatosContrastados nombre={nombre} fuentes={patinete.fuentesExtra} rivales={patinete.rivalesTabla} verificadoEl={patinete.datosVerificadosEl} />
         <RivalesCarrusel tipo="patinetes" id={patinete.id} nombre={nombre} rivales={extra.r} />
         <FraseRivales id={patinete.id} nombre={nombre} precio={patinete.precioEur} rivales={extra.r} />
 

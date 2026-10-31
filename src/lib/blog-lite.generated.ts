@@ -70481,12 +70481,12 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "segway-ninebot-zt3-max",
     "title": "Segway ZT3 Max: el todoterreno premiado en la IFA",
-    "excerpt": "El Segway ZT3 Max ganó el oro en la IFA 2026 antes de salir: el nuevo todoterreno llega a Europa en octubre. Todo lo que se sabe.",
+    "excerpt": "Segway ZT3 Max E: 999 €, 2.200 W, 717 Wh y 60 km medidos a 25 km/h con TÜV Rheinland. Llega en noviembre; ficha, rivales y normativa de casco y edad.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/segway-ninebot-zt3-max-1.webp",
-    "heroAlt": "Segway Ninebot ZT3 Max en camino de tierra",
+    "heroSrc": "/media/patinetes/segway-zt3-max-e-oficial.webp",
+    "heroAlt": "Segway ZT3 Max E visto de perfil, patinete todoterreno negro con detalles rojos, suspensión hidráulica delantera y trasera y ruedas de 12 y 11 pulgadas",
     "keywords": [
       "segway zt3 max",
       "ninebot zt3 max precio",
@@ -70496,17 +70496,17 @@ export const BLOG_LITE: BlogLitePost[] = [
       "segway ifa 2026",
       "patinete offroad eléctrico"
     ],
-    "readTime": 3
+    "readTime": 5
   },
   {
     "slug": "segway-ninebot-max-g3-pro",
     "title": "Segway Max G3 Pro: el largo alcance premiado en IFA",
-    "excerpt": "El Segway Max G3 Pro ganó el oro en la IFA 2026 por su tecnología de largo alcance. Llega a Europa en octubre: todo lo anunciado.",
+    "excerpt": "Segway Ninebot Max G3 Pro E: 1.099 €, 899 Wh, 80 km medidos a 25 km/h con TÜV Rheinland y 24,9 kg. Llega en noviembre: ficha, rivales y normativa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/segway-ninebot-max-g3-pro-1.webp",
-    "heroAlt": "Segway Ninebot Max G3 Pro en calle urbana",
+    "heroSrc": "/media/patinetes/segway-ninebot-max-g3-pro-e-oficial.webp",
+    "heroAlt": "Segway Ninebot Max G3 Pro E visto de perfil, patinete negro con acentos rojos, doble suspensión y ruedas tubeless de 12 y 11 pulgadas",
     "keywords": [
       "segway max g3 pro",
       "ninebot max g3 pro precio",
@@ -70516,7 +70516,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "segway ifa 2026",
       "patinete 80 km autonomía"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "navee-gt3-pro",
