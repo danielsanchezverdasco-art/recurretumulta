@@ -256,9 +256,47 @@
          de abajo cuando Google apruebe el sitio.
     ════════════════════════════════════════════════════════ -->
     <!-- 25/10/2026: CMP certificado de Google (Funding Choices) para pub-4234009516943468 -->
-    <script async src="https://fundingchoicesmessages.google.com/i/pub-4234009516943468?ers=1"></script>
+    <!-- 31/10/2026 (velocidad): CMP (Funding Choices) y AdSense siguen en el HTML con su src (revisión de AdSense / ads.txt),
+         pero NO se ejecutan en el camino crítico (type="text/plain"): el cargador de abajo los activa en la primera
+         interacción o en reposo tras el load. Orden de cumplimiento: primero el CMP y, cuando carga (o a los 2,5 s), AdSense. -->
+    <meta name="google-adsense-account" content="ca-pub-4234009516943468" />
+    <script async type="text/plain" data-rtm-ads="fc" src="https://fundingchoicesmessages.google.com/i/pub-4234009516943468?ers=1"></script>
     <script>(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4234009516943468" crossorigin="anonymous"></script>
+    <script async type="text/plain" data-rtm-ads="ad" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4234009516943468" crossorigin="anonymous"></script>
+    <script>
+      (function () {
+        if (window.__PRERENDER__) return;
+        var hecho = false, adsHecho = false;
+        var EV = ["pointerdown", "keydown", "scroll", "touchstart"];
+        function activar(el, cb) {
+          if (!el) { if (cb) cb(); return; }
+          var n = document.createElement("script");
+          n.async = true; n.src = el.src;
+          if (el.getAttribute("crossorigin")) n.crossOrigin = el.getAttribute("crossorigin");
+          if (cb) { n.onload = cb; n.onerror = cb; }
+          document.head.appendChild(n);
+        }
+        function ads() {
+          if (adsHecho) return; adsHecho = true;
+          activar(document.querySelector('script[data-rtm-ads="ad"]'));
+        }
+        function iniciar() {
+          if (hecho) return; hecho = true;
+          EV.forEach(function (e) { window.removeEventListener(e, iniciar); });
+          var fc = document.querySelector('script[data-rtm-ads="fc"]');
+          // CMP primero: AdSense solo se activa cuando el CMP ha cargado (o a los 2,5 s si no responde).
+          activar(fc, function () { window.__rtmFcListo = true; setTimeout(ads, 300); });
+          setTimeout(ads, 2500);
+        }
+        EV.forEach(function (e) { window.addEventListener(e, iniciar, { once: true, passive: true }); });
+        window.addEventListener("load", function () {
+          setTimeout(function () {
+            if (window.requestIdleCallback) window.requestIdleCallback(iniciar, { timeout: 2500 }); else iniciar();
+          }, 1500);
+        });
+        window.__rtmIniciarCmp = iniciar;
+      })();
+    </script>
   <script src="/js/enlaces-301.js" defer></script>
   <script src="/js/rtm-consent.js" defer></script></head>
   <body>
