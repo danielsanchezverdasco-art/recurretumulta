@@ -65,7 +65,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.seat.es",
     analisisSlug: "seat-mo-50-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -142,7 +142,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.segway.com",
     analisisSlug: "segway-e125s-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -219,7 +219,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.segway.com",
     analisisSlug: "segway-e110s-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -296,7 +296,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.segway.com",
     analisisSlug: "segway-e150s-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -373,7 +373,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.velcamotor.com/velca-calima-s",
     analisisSlug: "velca-calima-s-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -450,7 +450,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.velcamotor.com",
     analisisSlug: "velca-tramontana-s-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -527,7 +527,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.niu.com",
     analisisSlug: "niu-mqi-plus-sport-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -604,7 +604,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.niu.com",
     analisisSlug: "niu-fqix-150-2026-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -681,7 +681,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.vmoto.com",
     analisisSlug: "vmoto-vs2-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -758,7 +758,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.vmoto.com",
     analisisSlug: "vmoto-cpx-explorer-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -835,7 +835,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.supersoco.com",
     analisisSlug: "super-soco-tsx-50-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -912,7 +912,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.zeeho.com",
     analisisSlug: "zeeho-ae8-s-plus-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -989,7 +989,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.yadea.es",
     analisisSlug: "yadea-e8s-pro-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1066,7 +1066,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.nerva.eco",
     analisisSlug: "nerva-exe-ii-2026-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1143,7 +1143,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.nerva.eco",
     analisisSlug: "nerva-lift-2026-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1220,7 +1220,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.piaggio.com",
     analisisSlug: "piaggio-1-active-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1297,7 +1297,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.vespa.com",
     analisisSlug: "vespa-elettrica-70-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1374,7 +1374,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.ebroh.com",
     analisisSlug: "ebroh-veracruz-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1451,7 +1451,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.ebroh.com",
     analisisSlug: "ebroh-bravo-cr-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1528,7 +1528,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.askoll.com",
     analisisSlug: "askoll-es3-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1605,7 +1605,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.blueshark.com",
     analisisSlug: "blueshark-r80-lite-hs-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1682,7 +1682,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.efunmotos.com",
     analisisSlug: "efun-tiger-my25-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1759,7 +1759,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.sunra.com",
     analisisSlug: "sunra-hawk-49e-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1836,7 +1836,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.sunra.com",
     analisisSlug: "sunra-anger-125e-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1913,7 +1913,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     fuenteUrl: "https://www.keeway.com",
     analisisSlug: "e-zi-miniscooter-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",

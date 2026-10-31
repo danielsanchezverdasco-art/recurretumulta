@@ -107,7 +107,7 @@ export const MOTOS_EXP_M10: MotoComparador[] = [
     ],
     contras: [
       "19.599 €: entra en territorio de maxitrail premium como la BMW R 1300 GS",
-      "220 kg en orden de marcha: se notan en parado y en maniobras lentas",
+      "220 kg en orden de marcha: se además notan en parado y en maniobras lentas",
       "El radar encarece cualquier reparación del frontal en caso de caída",
       "La protección aerodinámica es mejorable para su enfoque viajero",
       "El cambio Y-AMT no está disponible en la GT+: solo manual",

@@ -869,7 +869,7 @@ export const PROVINCIAS: Provincia[] = [
     telefonoDgt: "967 210 800",
     direccionDgt: "C/ Alcalde José María de Miguel, 1, 02001 Albacete",
     codigoPostal: "02001",
-    descripcionLocal: "Albacete cruza tres autovías: la A-30 hacia Murcia, la A-31 hacia Alicante y la A-43. Ese tráfico de paso, entre Madrid y el Levante, deja radares en los ejes principales. En la capital, la zona azul concentra las sanciones urbanas, y la velocidad es el motivo más frecuente de multa.",
+    descripcionLocal: "Albacete cruza tres autovías: la A-30 hacia Murcia, la A-31 hacia Alicante y la A-43. En la capital, la zona azul concentra las sanciones urbanas, y la velocidad es el motivo más frecuente de multa.",
     multas: {
       tiposMasFrecuentes: ["Velocidad A-30", "Aparcamiento", "Cinturón"],
       radares: ["A-30 Albacete-Murcia", "A-31 Albacete-Alicante"],

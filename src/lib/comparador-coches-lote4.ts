@@ -297,18 +297,18 @@ export const COCHES_LOTE4: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["ceroCien"],
     pros: [
-      "V12 biturbo AMG de 864 CV con cambio manual de 7 marchas: analógico puro",
-      "1.280 kg: ligereza de otra época con chasis de carbo-titanio",
-      "Artesanía de Módena: cada tornillo es una joya",
-      "Solo 130 unidades, todas vendidas",
-      "Sin pantallas: relojes y aluminio a la vista",
+      "Un V12 biturbo firmado por AMG entrega 864 CV y se gestiona con una palanca manual de siete relaciones, sin filtro digital entre conductor y máquina",
+      "La báscula se queda en 1.280 kg gracias a un monocasco de carbo-titanio, una cifra impropia de un hiperdeportivo descapotable actual",
+      "Cada ejemplar sale del taller de Módena con un nivel de acabado manual que convierte hasta el tornillo más pequeño en pieza de orfebrería",
+      "La producción quedó cerrada en 130 ejemplares y la lista de compradores se completó antes de que terminara la fabricación",
+      "Delante del conductor no hay pantallas: relojes analógicos y aluminio mecanizado ocupan todo el campo visual"
     ],
     contras: [
-      "3,1 millones de euros antes de impuestos",
-      "Todas las unidades asignadas: solo mercado de segunda mano",
-      "Sin hibridación ni ayudas electrónicas de potencia",
-      "Maletero testimonial y practicidad nula",
-      "Mantenimiento artesanal con costes de órbita alta",
+      "El precio de partida roza los 3,1 millones de euros y todavía faltan los impuestos de cada mercado",
+      "Como todas las unidades ya tienen dueño, solo queda esperar a que alguna aparezca en el mercado de ocasión",
+      "No hay motor eléctrico de apoyo ni electrónica que añada potencia: todo depende del V12 y del pie derecho",
+      "El hueco para equipaje es casi simbólico y la vida diaria con él exige renunciar a cualquier pretensión práctica",
+      "Mantenerlo pasa por manos artesanas y por facturas que juegan en otra liga respecto a cualquier deportivo de serie"
     ],
     imagen: "/media/pagani-utopia-roadster-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/pagani-utopia-roadster-2026-precio-ficha-tecnica-oficial.webp",

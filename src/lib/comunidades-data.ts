@@ -36,9 +36,6 @@ export const COMUNIDADES: Comunidad[] = [
       { pregunta: "¿Dónde presento el recurso de una multa de la DGT en Andalucía?", respuesta: "El recurso de reposición se presenta ante la Jefatura Provincial de Tráfico de tu provincia o telemáticamente en sede.dgt.gob.es. El plazo es de 1 mes desde la notificación." },
       { pregunta: "¿Cómo recurro una multa de zona de bajas emisiones en Andalucía?", respuesta: "Las multas ZBE las impone el ayuntamiento correspondiente (Sevilla (Isla de la Cartuja), Málaga (centro)). Revisa antes de pagar: ¿tu vehículo tenía la etiqueta ambiental correcta en el registro de la DGT? ¿La señalización era visible y reglamentaria? ¿La foto identifica tu matrícula? Muchas se anulan por señalización defectuosa." },
       { pregunta: "¿Las multas del ayuntamiento se recurren igual que las de tráfico en Andalucía?", respuesta: "No. Las interurbanas (carreteras) se recurren ante el organismo competente de tráfico con recurso de reposición (1 mes). Las urbanas (estacionamiento, semáforos, ZBE) se recurren ante el ayuntamiento, normalmente con 20 días naturales para alegaciones. Comprueba quién firma tu multa." },
-      { pregunta: "¿Cuánto tiempo tengo para recurrir una multa de tráfico?", respuesta: "Dispones de 20 días naturales desde la notificación para presentar alegaciones o pagar con el 50% de descuento por pronto pago. Pasado ese plazo, la sanción se vuelve firme en vía administrativa." },
-      { pregunta: "¿Puedo recurrir una multa si ya la he pagado?", respuesta: "Si pagaste con el descuento del 50% por pronto pago, implica reconocer la infracción y renunciar al recurso. Si pagaste sin descuento, puedes seguir recurriendo." },
-      { pregunta: "¿Qué pasa si no pago ni recurro la multa?", respuesta: "La multa pasa a vía ejecutiva con un recargo del 20% y la Agencia Tributaria puede embargar cuentas o nómina para cobrarla." },
     ],
   },
   {
@@ -58,9 +55,6 @@ export const COMUNIDADES: Comunidad[] = [
       { pregunta: "¿Dónde presento el recurso de una multa de la DGT en Aragón?", respuesta: "El recurso de reposición se presenta ante la Jefatura Provincial de Tráfico de tu provincia o telemáticamente en sede.dgt.gob.es. El plazo es de 1 mes desde la notificación." },
       { pregunta: "¿Cómo recurro una multa de zona de bajas emisiones en Aragón?", respuesta: "Las multas ZBE las impone el ayuntamiento correspondiente (Zaragoza (casco histórico)). Revisa antes de pagar: ¿tu vehículo tenía la etiqueta ambiental correcta en el registro de la DGT? ¿La señalización era visible y reglamentaria? ¿La foto identifica tu matrícula? Muchas se anulan por señalización defectuosa." },
       { pregunta: "¿Las multas del ayuntamiento se recurren igual que las de tráfico en Aragón?", respuesta: "No. Las interurbanas (carreteras) se recurren ante el organismo competente de tráfico con recurso de reposición (1 mes). Las urbanas (estacionamiento, semáforos, ZBE) se recurren ante el ayuntamiento, normalmente con 20 días naturales para alegaciones. Comprueba quién firma tu multa." },
-      { pregunta: "¿Cuánto tiempo tengo para recurrir una multa de tráfico?", respuesta: "Dispones de 20 días naturales desde la notificación para presentar alegaciones o pagar con el 50% de descuento por pronto pago. Pasado ese plazo, la sanción se vuelve firme en vía administrativa." },
-      { pregunta: "¿Puedo recurrir una multa si ya la he pagado?", respuesta: "Si pagaste con el descuento del 50% por pronto pago, implica reconocer la infracción y renunciar al recurso. Si pagaste sin descuento, puedes seguir recurriendo." },
-      { pregunta: "¿Qué pasa si no pago ni recurro la multa?", respuesta: "La multa pasa a vía ejecutiva con un recargo del 20% y la Agencia Tributaria puede embargar cuentas o nómina para cobrarla." },
     ],
   },
   {
@@ -80,9 +74,6 @@ export const COMUNIDADES: Comunidad[] = [
       { pregunta: "¿Dónde presento el recurso de una multa de la DGT en Asturias?", respuesta: "El recurso de reposición se presenta ante la Jefatura Provincial de Tráfico de tu provincia o telemáticamente en sede.dgt.gob.es. El plazo es de 1 mes desde la notificación." },
       { pregunta: "¿Cómo recurro una multa de zona de bajas emisiones en Asturias?", respuesta: "Las multas ZBE las impone el ayuntamiento correspondiente (Gijón, Oviedo (casco histórico)). Revisa antes de pagar: ¿tu vehículo tenía la etiqueta ambiental correcta en el registro de la DGT? ¿La señalización era visible y reglamentaria? ¿La foto identifica tu matrícula? Muchas se anulan por señalización defectuosa." },
       { pregunta: "¿Las multas del ayuntamiento se recurren igual que las de tráfico en Asturias?", respuesta: "No. Las interurbanas (carreteras) se recurren ante el organismo competente de tráfico con recurso de reposición (1 mes). Las urbanas (estacionamiento, semáforos, ZBE) se recurren ante el ayuntamiento, normalmente con 20 días naturales para alegaciones. Comprueba quién firma tu multa." },
-      { pregunta: "¿Cuánto tiempo tengo para recurrir una multa de tráfico?", respuesta: "Dispones de 20 días naturales desde la notificación para presentar alegaciones o pagar con el 50% de descuento por pronto pago. Pasado ese plazo, la sanción se vuelve firme en vía administrativa." },
-      { pregunta: "¿Puedo recurrir una multa si ya la he pagado?", respuesta: "Si pagaste con el descuento del 50% por pronto pago, implica reconocer la infracción y renunciar al recurso. Si pagaste sin descuento, puedes seguir recurriendo." },
-      { pregunta: "¿Qué pasa si no pago ni recurro la multa?", respuesta: "La multa pasa a vía ejecutiva con un recargo del 20% y la Agencia Tributaria puede embargar cuentas o nómina para cobrarla." },
     ],
   },
   {
@@ -102,9 +93,6 @@ export const COMUNIDADES: Comunidad[] = [
       { pregunta: "¿Dónde presento el recurso de una multa de la DGT en Islas Baleares?", respuesta: "El recurso de reposición se presenta ante la Jefatura Provincial de Tráfico de tu provincia o telemáticamente en sede.dgt.gob.es. El plazo es de 1 mes desde la notificación." },
       { pregunta: "¿Cómo recurro una multa de zona de bajas emisiones en Islas Baleares?", respuesta: "Las multas ZBE las impone el ayuntamiento correspondiente (Palma (centro)). Revisa antes de pagar: ¿tu vehículo tenía la etiqueta ambiental correcta en el registro de la DGT? ¿La señalización era visible y reglamentaria? ¿La foto identifica tu matrícula? Muchas se anulan por señalización defectuosa." },
       { pregunta: "¿Las multas del ayuntamiento se recurren igual que las de tráfico en Islas Baleares?", respuesta: "No. Las interurbanas (carreteras) se recurren ante el organismo competente de tráfico con recurso de reposición (1 mes). Las urbanas (estacionamiento, semáforos, ZBE) se recurren ante el ayuntamiento, normalmente con 20 días naturales para alegaciones. Comprueba quién firma tu multa." },
-      { pregunta: "¿Cuánto tiempo tengo para recurrir una multa de tráfico?", respuesta: "Dispones de 20 días naturales desde la notificación para presentar alegaciones o pagar con el 50% de descuento por pronto pago. Pasado ese plazo, la sanción se vuelve firme en vía administrativa." },
-      { pregunta: "¿Puedo recurrir una multa si ya la he pagado?", respuesta: "Si pagaste con el descuento del 50% por pronto pago, implica reconocer la infracción y renunciar al recurso. Si pagaste sin descuento, puedes seguir recurriendo." },
-      { pregunta: "¿Qué pasa si no pago ni recurro la multa?", respuesta: "La multa pasa a vía ejecutiva con un recargo del 20% y la Agencia Tributaria puede embargar cuentas o nómina para cobrarla." },
     ],
   },
   {
@@ -124,9 +112,6 @@ export const COMUNIDADES: Comunidad[] = [
       { pregunta: "¿Dónde presento el recurso de una multa de la DGT en Canarias?", respuesta: "El recurso de reposición se presenta ante la Jefatura Provincial de Tráfico de tu provincia o telemáticamente en sede.dgt.gob.es. El plazo es de 1 mes desde la notificación." },
       { pregunta: "¿Cómo recurro una multa de zona de bajas emisiones en Canarias?", respuesta: "Las multas ZBE las impone el ayuntamiento correspondiente (Las Palmas de Gran Canaria, Santa Cruz de Tenerife). Revisa antes de pagar: ¿tu vehículo tenía la etiqueta ambiental correcta en el registro de la DGT? ¿La señalización era visible y reglamentaria? ¿La foto identifica tu matrícula? Muchas se anulan por señalización defectuosa." },
       { pregunta: "¿Las multas del ayuntamiento se recurren igual que las de tráfico en Canarias?", respuesta: "No. Las interurbanas (carreteras) se recurren ante el organismo competente de tráfico con recurso de reposición (1 mes). Las urbanas (estacionamiento, semáforos, ZBE) se recurren ante el ayuntamiento, normalmente con 20 días naturales para alegaciones. Comprueba quién firma tu multa." },
-      { pregunta: "¿Cuánto tiempo tengo para recurrir una multa de tráfico?", respuesta: "Dispones de 20 días naturales desde la notificación para presentar alegaciones o pagar con el 50% de descuento por pronto pago. Pasado ese plazo, la sanción se vuelve firme en vía administrativa." },
-      { pregunta: "¿Puedo recurrir una multa si ya la he pagado?", respuesta: "Si pagaste con el descuento del 50% por pronto pago, implica reconocer la infracción y renunciar al recurso. Si pagaste sin descuento, puedes seguir recurriendo." },
-      { pregunta: "¿Qué pasa si no pago ni recurro la multa?", respuesta: "La multa pasa a vía ejecutiva con un recargo del 20% y la Agencia Tributaria puede embargar cuentas o nómina para cobrarla." },
     ],
   },
   {
@@ -146,9 +131,6 @@ export const COMUNIDADES: Comunidad[] = [
       { pregunta: "¿Dónde presento el recurso de una multa de la DGT en Cantabria?", respuesta: "El recurso de reposición se presenta ante la Jefatura Provincial de Tráfico de tu provincia o telemáticamente en sede.dgt.gob.es. El plazo es de 1 mes desde la notificación." },
       { pregunta: "¿Cómo recurro una multa de zona de bajas emisiones en Cantabria?", respuesta: "Las multas ZBE las impone el ayuntamiento correspondiente (Santander (centro)). Revisa antes de pagar: ¿tu vehículo tenía la etiqueta ambiental correcta en el registro de la DGT? ¿La señalización era visible y reglamentaria? ¿La foto identifica tu matrícula? Muchas se anulan por señalización defectuosa." },
       { pregunta: "¿Las multas del ayuntamiento se recurren igual que las de tráfico en Cantabria?", respuesta: "No. Las interurbanas (carreteras) se recurren ante el organismo competente de tráfico con recurso de reposición (1 mes). Las urbanas (estacionamiento, semáforos, ZBE) se recurren ante el ayuntamiento, normalmente con 20 días naturales para alegaciones. Comprueba quién firma tu multa." },
-      { pregunta: "¿Cuánto tiempo tengo para recurrir una multa de tráfico?", respuesta: "Dispones de 20 días naturales desde la notificación para presentar alegaciones o pagar con el 50% de descuento por pronto pago. Pasado ese plazo, la sanción se vuelve firme en vía administrativa." },
-      { pregunta: "¿Puedo recurrir una multa si ya la he pagado?", respuesta: "Si pagaste con el descuento del 50% por pronto pago, implica reconocer la infracción y renunciar al recurso. Si pagaste sin descuento, puedes seguir recurriendo." },
-      { pregunta: "¿Qué pasa si no pago ni recurro la multa?", respuesta: "La multa pasa a vía ejecutiva con un recargo del 20% y la Agencia Tributaria puede embargar cuentas o nómina para cobrarla." },
     ],
   },
   {
@@ -168,9 +150,6 @@ export const COMUNIDADES: Comunidad[] = [
       { pregunta: "¿Dónde presento el recurso de una multa de la DGT en Castilla-La Mancha?", respuesta: "El recurso de reposición se presenta ante la Jefatura Provincial de Tráfico de tu provincia o telemáticamente en sede.dgt.gob.es. El plazo es de 1 mes desde la notificación." },
       { pregunta: "¿Cómo recurro una multa de zona de bajas emisiones en Castilla-La Mancha?", respuesta: "Las multas ZBE las impone el ayuntamiento correspondiente (Toledo (casco histórico), Guadalajara). Revisa antes de pagar: ¿tu vehículo tenía la etiqueta ambiental correcta en el registro de la DGT? ¿La señalización era visible y reglamentaria? ¿La foto identifica tu matrícula? Muchas se anulan por señalización defectuosa." },
       { pregunta: "¿Las multas del ayuntamiento se recurren igual que las de tráfico en Castilla-La Mancha?", respuesta: "No. Las interurbanas (carreteras) se recurren ante el organismo competente de tráfico con recurso de reposición (1 mes). Las urbanas (estacionamiento, semáforos, ZBE) se recurren ante el ayuntamiento, normalmente con 20 días naturales para alegaciones. Comprueba quién firma tu multa." },
-      { pregunta: "¿Cuánto tiempo tengo para recurrir una multa de tráfico?", respuesta: "Dispones de 20 días naturales desde la notificación para presentar alegaciones o pagar con el 50% de descuento por pronto pago. Pasado ese plazo, la sanción se vuelve firme en vía administrativa." },
-      { pregunta: "¿Puedo recurrir una multa si ya la he pagado?", respuesta: "Si pagaste con el descuento del 50% por pronto pago, implica reconocer la infracción y renunciar al recurso. Si pagaste sin descuento, puedes seguir recurriendo." },
-      { pregunta: "¿Qué pasa si no pago ni recurro la multa?", respuesta: "La multa pasa a vía ejecutiva con un recargo del 20% y la Agencia Tributaria puede embargar cuentas o nómina para cobrarla." },
     ],
   },
   {
@@ -190,9 +169,6 @@ export const COMUNIDADES: Comunidad[] = [
       { pregunta: "¿Dónde presento el recurso de una multa de la DGT en Castilla y León?", respuesta: "El recurso de reposición se presenta ante la Jefatura Provincial de Tráfico de tu provincia o telemáticamente en sede.dgt.gob.es. El plazo es de 1 mes desde la notificación." },
       { pregunta: "¿Cómo recurro una multa de zona de bajas emisiones en Castilla y León?", respuesta: "Las multas ZBE las impone el ayuntamiento correspondiente (Valladolid, Burgos (centro), León (centro)). Revisa antes de pagar: ¿tu vehículo tenía la etiqueta ambiental correcta en el registro de la DGT? ¿La señalización era visible y reglamentaria? ¿La foto identifica tu matrícula? Muchas se anulan por señalización defectuosa." },
       { pregunta: "¿Las multas del ayuntamiento se recurren igual que las de tráfico en Castilla y León?", respuesta: "No. Las interurbanas (carreteras) se recurren ante el organismo competente de tráfico con recurso de reposición (1 mes). Las urbanas (estacionamiento, semáforos, ZBE) se recurren ante el ayuntamiento, normalmente con 20 días naturales para alegaciones. Comprueba quién firma tu multa." },
-      { pregunta: "¿Cuánto tiempo tengo para recurrir una multa de tráfico?", respuesta: "Dispones de 20 días naturales desde la notificación para presentar alegaciones o pagar con el 50% de descuento por pronto pago. Pasado ese plazo, la sanción se vuelve firme en vía administrativa." },
-      { pregunta: "¿Puedo recurrir una multa si ya la he pagado?", respuesta: "Si pagaste con el descuento del 50% por pronto pago, implica reconocer la infracción y renunciar al recurso. Si pagaste sin descuento, puedes seguir recurriendo." },
-      { pregunta: "¿Qué pasa si no pago ni recurro la multa?", respuesta: "La multa pasa a vía ejecutiva con un recargo del 20% y la Agencia Tributaria puede embargar cuentas o nómina para cobrarla." },
     ],
   },
   {
@@ -213,9 +189,6 @@ export const COMUNIDADES: Comunidad[] = [
       { pregunta: "¿Los Mossos d'Esquadra pueden multarme?", respuesta: "Sí. Los Mossos d'Esquadra son la policía de tráfico en Cataluña y sus denuncias tienen el mismo valor que las de la Guardia Civil en el resto de España." },
       { pregunta: "¿Cómo recurro una multa de zona de bajas emisiones en Cataluña?", respuesta: "Las multas ZBE las impone el ayuntamiento correspondiente (Barcelona (ZBE Rondes), Sant Adrià, Hospitalet). Revisa antes de pagar: ¿tu vehículo tenía la etiqueta ambiental correcta en el registro de la DGT? ¿La señalización era visible y reglamentaria? ¿La foto identifica tu matrícula? Muchas se anulan por señalización defectuosa." },
       { pregunta: "¿Las multas del ayuntamiento se recurren igual que las de tráfico en Cataluña?", respuesta: "No. Las interurbanas (carreteras) se recurren ante el organismo competente de tráfico con recurso de reposición (1 mes). Las urbanas (estacionamiento, semáforos, ZBE) se recurren ante el ayuntamiento, normalmente con 20 días naturales para alegaciones. Comprueba quién firma tu multa." },
-      { pregunta: "¿Cuánto tiempo tengo para recurrir una multa de tráfico?", respuesta: "Dispones de 20 días naturales desde la notificación para presentar alegaciones o pagar con el 50% de descuento por pronto pago. Pasado ese plazo, la sanción se vuelve firme en vía administrativa." },
-      { pregunta: "¿Puedo recurrir una multa si ya la he pagado?", respuesta: "Si pagaste con el descuento del 50% por pronto pago, implica reconocer la infracción y renunciar al recurso. Si pagaste sin descuento, puedes seguir recurriendo." },
-      { pregunta: "¿Qué pasa si no pago ni recurro la multa?", respuesta: "La multa pasa a vía ejecutiva con un recargo del 20% y la Agencia Tributaria puede embargar cuentas o nómina para cobrarla." },
     ],
   },
   {
@@ -235,9 +208,6 @@ export const COMUNIDADES: Comunidad[] = [
       { pregunta: "¿Dónde presento el recurso de una multa de la DGT en Extremadura?", respuesta: "El recurso de reposición se presenta ante la Jefatura Provincial de Tráfico de tu provincia o telemáticamente en sede.dgt.gob.es. El plazo es de 1 mes desde la notificación." },
       { pregunta: "¿Cómo recurro una multa de zona de bajas emisiones en Extremadura?", respuesta: "Las multas ZBE las impone el ayuntamiento correspondiente (Badajoz (centro), Cáceres (casco histórico)). Revisa antes de pagar: ¿tu vehículo tenía la etiqueta ambiental correcta en el registro de la DGT? ¿La señalización era visible y reglamentaria? ¿La foto identifica tu matrícula? Muchas se anulan por señalización defectuosa." },
       { pregunta: "¿Las multas del ayuntamiento se recurren igual que las de tráfico en Extremadura?", respuesta: "No. Las interurbanas (carreteras) se recurren ante el organismo competente de tráfico con recurso de reposición (1 mes). Las urbanas (estacionamiento, semáforos, ZBE) se recurren ante el ayuntamiento, normalmente con 20 días naturales para alegaciones. Comprueba quién firma tu multa." },
-      { pregunta: "¿Cuánto tiempo tengo para recurrir una multa de tráfico?", respuesta: "Dispones de 20 días naturales desde la notificación para presentar alegaciones o pagar con el 50% de descuento por pronto pago. Pasado ese plazo, la sanción se vuelve firme en vía administrativa." },
-      { pregunta: "¿Puedo recurrir una multa si ya la he pagado?", respuesta: "Si pagaste con el descuento del 50% por pronto pago, implica reconocer la infracción y renunciar al recurso. Si pagaste sin descuento, puedes seguir recurriendo." },
-      { pregunta: "¿Qué pasa si no pago ni recurro la multa?", respuesta: "La multa pasa a vía ejecutiva con un recargo del 20% y la Agencia Tributaria puede embargar cuentas o nómina para cobrarla." },
     ],
   },
   {
@@ -257,9 +227,6 @@ export const COMUNIDADES: Comunidad[] = [
       { pregunta: "¿Dónde presento el recurso de una multa de la DGT en Galicia?", respuesta: "El recurso de reposición se presenta ante la Jefatura Provincial de Tráfico de tu provincia o telemáticamente en sede.dgt.gob.es. El plazo es de 1 mes desde la notificación." },
       { pregunta: "¿Cómo recurro una multa de zona de bajas emisiones en Galicia?", respuesta: "Las multas ZBE las impone el ayuntamiento correspondiente (Vigo, A Coruña, Santiago de Compostela). Revisa antes de pagar: ¿tu vehículo tenía la etiqueta ambiental correcta en el registro de la DGT? ¿La señalización era visible y reglamentaria? ¿La foto identifica tu matrícula? Muchas se anulan por señalización defectuosa." },
       { pregunta: "¿Las multas del ayuntamiento se recurren igual que las de tráfico en Galicia?", respuesta: "No. Las interurbanas (carreteras) se recurren ante el organismo competente de tráfico con recurso de reposición (1 mes). Las urbanas (estacionamiento, semáforos, ZBE) se recurren ante el ayuntamiento, normalmente con 20 días naturales para alegaciones. Comprueba quién firma tu multa." },
-      { pregunta: "¿Cuánto tiempo tengo para recurrir una multa de tráfico?", respuesta: "Dispones de 20 días naturales desde la notificación para presentar alegaciones o pagar con el 50% de descuento por pronto pago. Pasado ese plazo, la sanción se vuelve firme en vía administrativa." },
-      { pregunta: "¿Puedo recurrir una multa si ya la he pagado?", respuesta: "Si pagaste con el descuento del 50% por pronto pago, implica reconocer la infracción y renunciar al recurso. Si pagaste sin descuento, puedes seguir recurriendo." },
-      { pregunta: "¿Qué pasa si no pago ni recurro la multa?", respuesta: "La multa pasa a vía ejecutiva con un recargo del 20% y la Agencia Tributaria puede embargar cuentas o nómina para cobrarla." },
     ],
   },
   {
@@ -279,9 +246,6 @@ export const COMUNIDADES: Comunidad[] = [
       { pregunta: "¿Dónde presento el recurso de una multa de la DGT en Comunidad de Madrid?", respuesta: "El recurso de reposición se presenta ante la Jefatura Provincial de Tráfico de tu provincia o telemáticamente en sede.dgt.gob.es. El plazo es de 1 mes desde la notificación." },
       { pregunta: "¿Cómo recurro una multa de zona de bajas emisiones en Comunidad de Madrid?", respuesta: "Las multas ZBE las impone el ayuntamiento correspondiente (Madrid (ZBE Distrito Centro)). Revisa antes de pagar: ¿tu vehículo tenía la etiqueta ambiental correcta en el registro de la DGT? ¿La señalización era visible y reglamentaria? ¿La foto identifica tu matrícula? Muchas se anulan por señalización defectuosa." },
       { pregunta: "¿Las multas del ayuntamiento se recurren igual que las de tráfico en Comunidad de Madrid?", respuesta: "No. Las interurbanas (carreteras) se recurren ante el organismo competente de tráfico con recurso de reposición (1 mes). Las urbanas (estacionamiento, semáforos, ZBE) se recurren ante el ayuntamiento, normalmente con 20 días naturales para alegaciones. Comprueba quién firma tu multa." },
-      { pregunta: "¿Cuánto tiempo tengo para recurrir una multa de tráfico?", respuesta: "Dispones de 20 días naturales desde la notificación para presentar alegaciones o pagar con el 50% de descuento por pronto pago. Pasado ese plazo, la sanción se vuelve firme en vía administrativa." },
-      { pregunta: "¿Puedo recurrir una multa si ya la he pagado?", respuesta: "Si pagaste con el descuento del 50% por pronto pago, implica reconocer la infracción y renunciar al recurso. Si pagaste sin descuento, puedes seguir recurriendo." },
-      { pregunta: "¿Qué pasa si no pago ni recurro la multa?", respuesta: "La multa pasa a vía ejecutiva con un recargo del 20% y la Agencia Tributaria puede embargar cuentas o nómina para cobrarla." },
     ],
   },
   {
@@ -301,9 +265,6 @@ export const COMUNIDADES: Comunidad[] = [
       { pregunta: "¿Dónde presento el recurso de una multa de la DGT en Región de Murcia?", respuesta: "El recurso de reposición se presenta ante la Jefatura Provincial de Tráfico de tu provincia o telemáticamente en sede.dgt.gob.es. El plazo es de 1 mes desde la notificación." },
       { pregunta: "¿Cómo recurro una multa de zona de bajas emisiones en Región de Murcia?", respuesta: "Las multas ZBE las impone el ayuntamiento correspondiente (Murcia (centro)). Revisa antes de pagar: ¿tu vehículo tenía la etiqueta ambiental correcta en el registro de la DGT? ¿La señalización era visible y reglamentaria? ¿La foto identifica tu matrícula? Muchas se anulan por señalización defectuosa." },
       { pregunta: "¿Las multas del ayuntamiento se recurren igual que las de tráfico en Región de Murcia?", respuesta: "No. Las interurbanas (carreteras) se recurren ante el organismo competente de tráfico con recurso de reposición (1 mes). Las urbanas (estacionamiento, semáforos, ZBE) se recurren ante el ayuntamiento, normalmente con 20 días naturales para alegaciones. Comprueba quién firma tu multa." },
-      { pregunta: "¿Cuánto tiempo tengo para recurrir una multa de tráfico?", respuesta: "Dispones de 20 días naturales desde la notificación para presentar alegaciones o pagar con el 50% de descuento por pronto pago. Pasado ese plazo, la sanción se vuelve firme en vía administrativa." },
-      { pregunta: "¿Puedo recurrir una multa si ya la he pagado?", respuesta: "Si pagaste con el descuento del 50% por pronto pago, implica reconocer la infracción y renunciar al recurso. Si pagaste sin descuento, puedes seguir recurriendo." },
-      { pregunta: "¿Qué pasa si no pago ni recurro la multa?", respuesta: "La multa pasa a vía ejecutiva con un recargo del 20% y la Agencia Tributaria puede embargar cuentas o nómina para cobrarla." },
     ],
   },
   {
@@ -324,9 +285,6 @@ export const COMUNIDADES: Comunidad[] = [
       { pregunta: "¿La Policía Foral puede multarme por velocidad?", respuesta: "Sí. La Policía Foral tiene competencia en tráfico en Navarra y gestiona denuncias con cinemómetros en vías forales." },
       { pregunta: "¿Cómo recurro una multa de zona de bajas emisiones en Comunidad Foral de Navarra?", respuesta: "Las multas ZBE las impone el ayuntamiento correspondiente (Pamplona (centro)). Revisa antes de pagar: ¿tu vehículo tenía la etiqueta ambiental correcta en el registro de la DGT? ¿La señalización era visible y reglamentaria? ¿La foto identifica tu matrícula? Muchas se anulan por señalización defectuosa." },
       { pregunta: "¿Las multas del ayuntamiento se recurren igual que las de tráfico en Comunidad Foral de Navarra?", respuesta: "No. Las interurbanas (carreteras) se recurren ante el organismo competente de tráfico con recurso de reposición (1 mes). Las urbanas (estacionamiento, semáforos, ZBE) se recurren ante el ayuntamiento, normalmente con 20 días naturales para alegaciones. Comprueba quién firma tu multa." },
-      { pregunta: "¿Cuánto tiempo tengo para recurrir una multa de tráfico?", respuesta: "Dispones de 20 días naturales desde la notificación para presentar alegaciones o pagar con el 50% de descuento por pronto pago. Pasado ese plazo, la sanción se vuelve firme en vía administrativa." },
-      { pregunta: "¿Puedo recurrir una multa si ya la he pagado?", respuesta: "Si pagaste con el descuento del 50% por pronto pago, implica reconocer la infracción y renunciar al recurso. Si pagaste sin descuento, puedes seguir recurriendo." },
-      { pregunta: "¿Qué pasa si no pago ni recurro la multa?", respuesta: "La multa pasa a vía ejecutiva con un recargo del 20% y la Agencia Tributaria puede embargar cuentas o nómina para cobrarla." },
     ],
   },
   {
@@ -347,9 +305,6 @@ export const COMUNIDADES: Comunidad[] = [
       { pregunta: "¿La Ertzaintza puede ponerme una multa de tráfico?", respuesta: "Sí. La Ertzaintza tiene competencia plena en tráfico en Euskadi y sus denuncias en vías vascas se tramitan por el Gobierno Vasco." },
       { pregunta: "¿Cómo recurro una multa de zona de bajas emisiones en País Vasco?", respuesta: "Las multas ZBE las impone el ayuntamiento correspondiente (Bilbao, Donostia-San Sebastián (centro), Vitoria-Gasteiz (centro)). Revisa antes de pagar: ¿tu vehículo tenía la etiqueta ambiental correcta en el registro de la DGT? ¿La señalización era visible y reglamentaria? ¿La foto identifica tu matrícula? Muchas se anulan por señalización defectuosa." },
       { pregunta: "¿Las multas del ayuntamiento se recurren igual que las de tráfico en País Vasco?", respuesta: "No. Las interurbanas (carreteras) se recurren ante el organismo competente de tráfico con recurso de reposición (1 mes). Las urbanas (estacionamiento, semáforos, ZBE) se recurren ante el ayuntamiento, normalmente con 20 días naturales para alegaciones. Comprueba quién firma tu multa." },
-      { pregunta: "¿Cuánto tiempo tengo para recurrir una multa de tráfico?", respuesta: "Dispones de 20 días naturales desde la notificación para presentar alegaciones o pagar con el 50% de descuento por pronto pago. Pasado ese plazo, la sanción se vuelve firme en vía administrativa." },
-      { pregunta: "¿Puedo recurrir una multa si ya la he pagado?", respuesta: "Si pagaste con el descuento del 50% por pronto pago, implica reconocer la infracción y renunciar al recurso. Si pagaste sin descuento, puedes seguir recurriendo." },
-      { pregunta: "¿Qué pasa si no pago ni recurro la multa?", respuesta: "La multa pasa a vía ejecutiva con un recargo del 20% y la Agencia Tributaria puede embargar cuentas o nómina para cobrarla." },
     ],
   },
   {
@@ -369,9 +324,6 @@ export const COMUNIDADES: Comunidad[] = [
       { pregunta: "¿Dónde presento el recurso de una multa de la DGT en La Rioja?", respuesta: "El recurso de reposición se presenta ante la Jefatura Provincial de Tráfico de tu provincia o telemáticamente en sede.dgt.gob.es. El plazo es de 1 mes desde la notificación." },
       { pregunta: "¿Cómo recurro una multa de zona de bajas emisiones en La Rioja?", respuesta: "Las multas ZBE las impone el ayuntamiento correspondiente (Logroño (centro)). Revisa antes de pagar: ¿tu vehículo tenía la etiqueta ambiental correcta en el registro de la DGT? ¿La señalización era visible y reglamentaria? ¿La foto identifica tu matrícula? Muchas se anulan por señalización defectuosa." },
       { pregunta: "¿Las multas del ayuntamiento se recurren igual que las de tráfico en La Rioja?", respuesta: "No. Las interurbanas (carreteras) se recurren ante el organismo competente de tráfico con recurso de reposición (1 mes). Las urbanas (estacionamiento, semáforos, ZBE) se recurren ante el ayuntamiento, normalmente con 20 días naturales para alegaciones. Comprueba quién firma tu multa." },
-      { pregunta: "¿Cuánto tiempo tengo para recurrir una multa de tráfico?", respuesta: "Dispones de 20 días naturales desde la notificación para presentar alegaciones o pagar con el 50% de descuento por pronto pago. Pasado ese plazo, la sanción se vuelve firme en vía administrativa." },
-      { pregunta: "¿Puedo recurrir una multa si ya la he pagado?", respuesta: "Si pagaste con el descuento del 50% por pronto pago, implica reconocer la infracción y renunciar al recurso. Si pagaste sin descuento, puedes seguir recurriendo." },
-      { pregunta: "¿Qué pasa si no pago ni recurro la multa?", respuesta: "La multa pasa a vía ejecutiva con un recargo del 20% y la Agencia Tributaria puede embargar cuentas o nómina para cobrarla." },
     ],
   },
   {
@@ -391,9 +343,6 @@ export const COMUNIDADES: Comunidad[] = [
       { pregunta: "¿Dónde presento el recurso de una multa de la DGT en Comunitat Valenciana?", respuesta: "El recurso de reposición se presenta ante la Jefatura Provincial de Tráfico de tu provincia o telemáticamente en sede.dgt.gob.es. El plazo es de 1 mes desde la notificación." },
       { pregunta: "¿Cómo recurro una multa de zona de bajas emisiones en Comunitat Valenciana?", respuesta: "Las multas ZBE las impone el ayuntamiento correspondiente (Valencia, Alicante (centro), Castellón (centro)). Revisa antes de pagar: ¿tu vehículo tenía la etiqueta ambiental correcta en el registro de la DGT? ¿La señalización era visible y reglamentaria? ¿La foto identifica tu matrícula? Muchas se anulan por señalización defectuosa." },
       { pregunta: "¿Las multas del ayuntamiento se recurren igual que las de tráfico en Comunitat Valenciana?", respuesta: "No. Las interurbanas (carreteras) se recurren ante el organismo competente de tráfico con recurso de reposición (1 mes). Las urbanas (estacionamiento, semáforos, ZBE) se recurren ante el ayuntamiento, normalmente con 20 días naturales para alegaciones. Comprueba quién firma tu multa." },
-      { pregunta: "¿Cuánto tiempo tengo para recurrir una multa de tráfico?", respuesta: "Dispones de 20 días naturales desde la notificación para presentar alegaciones o pagar con el 50% de descuento por pronto pago. Pasado ese plazo, la sanción se vuelve firme en vía administrativa." },
-      { pregunta: "¿Puedo recurrir una multa si ya la he pagado?", respuesta: "Si pagaste con el descuento del 50% por pronto pago, implica reconocer la infracción y renunciar al recurso. Si pagaste sin descuento, puedes seguir recurriendo." },
-      { pregunta: "¿Qué pasa si no pago ni recurro la multa?", respuesta: "La multa pasa a vía ejecutiva con un recargo del 20% y la Agencia Tributaria puede embargar cuentas o nómina para cobrarla." },
     ],
   },
   {
@@ -412,9 +361,6 @@ export const COMUNIDADES: Comunidad[] = [
     faq: [
       { pregunta: "¿Dónde presento el recurso de una multa de la DGT en Ceuta?", respuesta: "El recurso de reposición se presenta ante la Jefatura Provincial de Tráfico de tu provincia o telemáticamente en sede.dgt.gob.es. El plazo es de 1 mes desde la notificación." },
       { pregunta: "¿Las multas del ayuntamiento se recurren igual que las de tráfico en Ceuta?", respuesta: "No. Las interurbanas (carreteras) se recurren ante el organismo competente de tráfico con recurso de reposición (1 mes). Las urbanas (estacionamiento, semáforos, ZBE) se recurren ante el ayuntamiento, normalmente con 20 días naturales para alegaciones. Comprueba quién firma tu multa." },
-      { pregunta: "¿Cuánto tiempo tengo para recurrir una multa de tráfico?", respuesta: "Dispones de 20 días naturales desde la notificación para presentar alegaciones o pagar con el 50% de descuento por pronto pago. Pasado ese plazo, la sanción se vuelve firme en vía administrativa." },
-      { pregunta: "¿Puedo recurrir una multa si ya la he pagado?", respuesta: "Si pagaste con el descuento del 50% por pronto pago, implica reconocer la infracción y renunciar al recurso. Si pagaste sin descuento, puedes seguir recurriendo." },
-      { pregunta: "¿Qué pasa si no pago ni recurro la multa?", respuesta: "La multa pasa a vía ejecutiva con un recargo del 20% y la Agencia Tributaria puede embargar cuentas o nómina para cobrarla." },
     ],
   },
   {
@@ -433,9 +379,6 @@ export const COMUNIDADES: Comunidad[] = [
     faq: [
       { pregunta: "¿Dónde presento el recurso de una multa de la DGT en Melilla?", respuesta: "El recurso de reposición se presenta ante la Jefatura Provincial de Tráfico de tu provincia o telemáticamente en sede.dgt.gob.es. El plazo es de 1 mes desde la notificación." },
       { pregunta: "¿Las multas del ayuntamiento se recurren igual que las de tráfico en Melilla?", respuesta: "No. Las interurbanas (carreteras) se recurren ante el organismo competente de tráfico con recurso de reposición (1 mes). Las urbanas (estacionamiento, semáforos, ZBE) se recurren ante el ayuntamiento, normalmente con 20 días naturales para alegaciones. Comprueba quién firma tu multa." },
-      { pregunta: "¿Cuánto tiempo tengo para recurrir una multa de tráfico?", respuesta: "Dispones de 20 días naturales desde la notificación para presentar alegaciones o pagar con el 50% de descuento por pronto pago. Pasado ese plazo, la sanción se vuelve firme en vía administrativa." },
-      { pregunta: "¿Puedo recurrir una multa si ya la he pagado?", respuesta: "Si pagaste con el descuento del 50% por pronto pago, implica reconocer la infracción y renunciar al recurso. Si pagaste sin descuento, puedes seguir recurriendo." },
-      { pregunta: "¿Qué pasa si no pago ni recurro la multa?", respuesta: "La multa pasa a vía ejecutiva con un recargo del 20% y la Agencia Tributaria puede embargar cuentas o nómina para cobrarla." },
     ],
   },
 ];

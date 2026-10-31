@@ -91,7 +91,7 @@ export const AUTOCARAVANAS_MOBILVETTA_M1: Autocaravana[] = [
     analisisSlug: "mobilvetta-k-yacht-tekno-line-86-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat Professional)",
+        "Fiat Ducato: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",

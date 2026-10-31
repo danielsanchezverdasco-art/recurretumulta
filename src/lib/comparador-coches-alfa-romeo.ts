@@ -1528,7 +1528,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "costeMensualTotal": 508,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Coche de colección; cifras orientativas: 5.000 km/año; recarga doméstica a 0,18 €/kWh",
+      "notas": "Coche de colección; cifras orientativas: 5.000 km/año; 0,18 €/kWh (doméstica)",
       "estimado": true
     },
     "galeria": [

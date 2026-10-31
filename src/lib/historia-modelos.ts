@@ -23,6 +23,7 @@ import { HISTORIA_EXP18 } from "./historia-exp18.ts";
 import { HISTORIA_EXP19 } from "./historia-exp19.ts";
 import { HISTORIA_EXP20 } from "./historia-exp20.ts";
 import { HISTORIA_EXP21 } from "./historia-exp21.ts";
+import { HISTORIA_ENRIQUECER_T8 } from "./historia-enriquecer-t8.ts";
 import { HISTORIA_M10 } from "./historia-m10.ts";
 import { HISTORIA_M11 } from "./historia-m11.ts";
 import { HISTORIA_M12 } from "./historia-m12.ts";
@@ -1753,6 +1754,7 @@ export const HISTORIA_MODELOS: Record<string, HistoriaModelo> = {
   ...HISTORIA_EXP12,
   ...HISTORIA_EXP13,
   ...HISTORIA_EXP14, ...HISTORIA_EXP15, ...HISTORIA_EXP16, ...HISTORIA_EXP17, ...HISTORIA_EXP18, ...HISTORIA_EXP19, ...HISTORIA_EXP20, ...HISTORIA_EXP21,
+  ...HISTORIA_ENRIQUECER_T8,
   ...HISTORIA_M10,
   ...HISTORIA_M11,
   ...HISTORIA_M12,

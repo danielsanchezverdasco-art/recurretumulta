@@ -79,7 +79,7 @@ export const COCHES_DEEPAL: CocheComparador[] = [
       "costeMensualTotal": 136,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP oficial 15,9 kWh/100 km; coste energético con 0,18 €/kWh (carga en casa); 15.000 km/año; seguro y mantenimiento estimados por segmento; estimado",
+      "notas": "consumo WLTP oficial 15,9 kWh/100 km; coste energético con 0,18 €/kWh (carga en casa); 15.000 km/año; seguro, en concreto, y mantenimiento estimados por, a tener en cuenta, segmento; estimado",
       "estimado": true
     },
     galeria: [
@@ -173,7 +173,7 @@ export const COCHES_DEEPAL: CocheComparador[] = [
       "costeMensualTotal": 144,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP oficial 17,5 kWh/100 km; coste energético con 0,18 €/kWh (carga en casa); 15.000 km/año; seguro y mantenimiento estimados por segmento; estimado",
+      "notas": "consumo WLTP oficial 17,5 kWh/100 km; coste energético con 0,18 €/kWh (carga en casa); 15.000 km/año; seguro, como referencia, y mantenimiento estimados por, para situarnos, segmento; estimado",
       "estimado": true
     },
     galeria: [

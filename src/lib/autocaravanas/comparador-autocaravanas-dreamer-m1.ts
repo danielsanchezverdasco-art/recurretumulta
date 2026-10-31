@@ -127,7 +127,7 @@ Para quién es: el Dreamer D55 UP es para la pareja que viaja con dos niños o c
     analisisSlug: "dreamer-d55-fun-up-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2 / Peugeot Boxer 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes)",
+        "Fiat Ducato 2.2 / Peugeot Boxer 2.2: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Ducato/Boxer (2 años / 40.000 km)",

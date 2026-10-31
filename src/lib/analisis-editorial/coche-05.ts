@@ -68,7 +68,7 @@ export const ANALISIS_COCHE_05: MapaAnalisis = {
   },
   "cupra-ateca-vz-300-2025-precio-ficha-tecnica": {
     parrafos: [
-      "El Ateca VZ de 300 CV es el canto del cisne de la combustión pura en Cupra: 300 CV, 400 Nm y 4,9 segundos de 0 a 100 en un SUV familiar con 485 litros de carga. Prestaciones de deportivo con disfraz de coche para el cole, y por 56.000 € nada combina tanta potencia con tanta discreción práctica. Cuatro coma nueve segundos hasta cien lo sitúan al nivel de deportivos que cuestan el doble, pero con cinco plazas y maletero familiar de verdad. Los 250 km/h de velocidad máxima confirman que la cosa va muy en serio.",
+      "El Ateca VZ de 300 CV es el canto del cisne de la combustión pura en Cupra: 300 CV, 400 Nm y 4,9 segundos de 0 por su parte a 100 en un SUV familiar con 485 litros de carga. Prestaciones de deportivo con disfraz de coche para el cole, y por 56.000 € nada combina tanta potencia con tanta discreción práctica. Cuatro coma nueve segundos hasta cien lo sitúan al nivel de deportivos que cuestan el doble, pero con cinco plazas y maletero familiar de verdad. Los 250 km/h de velocidad máxima confirman que la cosa va muy en serio.",
       "Es un coche de su tiempo, y su tiempo se agota: distintivo C con 300 CV implica fiscalidad severa —el impuesto de matriculación no perdona— y un gasto real que asusta si se exprime el potencial. Ante el Terramar VZ, más moderno por dentro, el Ateca VZ solo se defiende con tarifa y carácter. Para el entusiasta que ansía el último gran Cupra térmico antes de la era híbrida; el comprador racional elegirá el VZ e-Hybrid. Despedidas así no se repiten."
     ],
     veredicto: "El último gran Cupra térmico para entusiastas; la razón comprará VZ híbrido."
@@ -180,7 +180,7 @@ export const ANALISIS_COCHE_05: MapaAnalisis = {
   },
   "cupra-leon-20-tdi-2026": {
     parrafos: [
-      "Un diésel deportivo en 2026 suena a contradicción que este León resuelve con cifras: 150 CV, 360 Nm, 4,9 l/100 km WLTP y cerca de 1.000 km de alcance real por depósito. El 0 a 100 en 8,5 segundos y 213 km/h de punta le dan prestaciones de compacto deportivo con gasto de mechero. Los 360 Nm dan una elasticidad magnífica en autopista, con recuperaciones sin reducir marcha, y mil kilómetros por depósito significan repostar cada dos semanas incluso con uso intensivo. Por 40.652 € es el León del comercial que hace 40.000 km anuales y se niega a un coche aburrido.",
+      "Un diésel deportivo en 2026 suena a contradicción que este León resuelve con cifras: 150 CV, 360 Nm, 4,9 l/100 km WLTP y cerca de 1.000 km de alcance real por depósito. El 0 a 100 en de hecho 8,5 segundos y 213 km/h de punta le dan prestaciones de compacto deportivo con gasto de mechero. Los 360 Nm dan una elasticidad magnífica en autopista, con recuperaciones sin reducir marcha, y mil kilómetros por depósito significan repostar cada dos semanas incluso con uso intensivo. Por 40.652 € es el León del comercial que hace 40.000 km anuales y se niega a un coche aburrido.",
       "Triple peaje: etiqueta C que cierra ZBE estrictas, mantenimiento con AdBlue y filtro de partículas más caro que un gasolina, y reventa a largo plazo incierta con el diésel en retirada. Coche para amortizar haciendo kilómetros hoy, no para guardar una década. Rutero de autovía: lo disfrutará y lo pagará poco. Urbanita: eTSI o e-Hybrid. El gasóleo deportivo vive sus últimos años de gloria."
     ],
     veredicto: "Para devorakilómetros de autovía; la ciudad pide versiones electrificadas."
@@ -208,7 +208,7 @@ export const ANALISIS_COCHE_05: MapaAnalisis = {
   },
   "cupra-leon-sportstourer-20-tdi-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El Sportstourer diésel es el familiar del rutero: 2.0 TDI con 150 CV y 360 Nm, 5,0 l/100 km y 620 litros por 36.862 €. El 0 a 100 en 8,7 segundos y la capacidad de hacer Madrid-Barcelona y vuelta sin repostar, con par de sobra para viajar cargado, lo definen. Los 360 Nm mueven los 620 litros de carga como si fueran vacíos, incluso en los puertos más exigentes, y el DSG de serie lo hace descansado en atascos y viajes largos. Para el representante que vive en la autovía, no hay trío más eficaz de espacio, gasto y tarifa en Cupra.",
+      "El Sportstourer diésel es el familiar del rutero: 2.0 TDI con 150 CV y 360 Nm, 5,0 l/100 km y 620 litros por 36.862 €. El 0 a 100 en 8,7 también segundos en concreto y la capacidad de hacer Madrid-Barcelona y vuelta sin repostar, con par de sobra para viajar cargado, lo definen. Los 360 Nm mueven los 620 litros de carga como si fueran vacíos, incluso en los puertos más exigentes, y el DSG de serie lo hace descansado en atascos y viajes largos. Para el representante que vive en la autovía, no hay trío más eficaz de espacio, gasto y tarifa en Cupra.",
       "La etiqueta C en un diésel es su talón de Aquiles: las ciudades lo mirarán cada vez peor y la reventa a medio plazo es una apuesta. A 36.862 €, cuesta lo mismo que el 1.5 TSI con mucho más par y menos consumo, pero la gama propone la alternativa: el e-Hybrid 204, con Cero y más rápido, aunque más caro y con menos maletero. TDI para amortizar el gasóleo a base de kilómetros hoy; 2030 en mente, al híbrido enchufable."
     ],
     veredicto: "Familiar del rutero incansable; pensando en reventa, mejor el e-Hybrid."
@@ -285,7 +285,7 @@ export const ANALISIS_COCHE_05: MapaAnalisis = {
   },
   "cupra-tavascan-190-2026-precio-ficha-tecnica": {
     parrafos: [
-      "Subirse al SUV coupé eléctrico de Cupra cuesta desde 38.530 € con este Tavascan 190: 190 CV con propulsión trasera, 540 litros y un diseño que muchos consideran el más bello del segmento. Sus 540 litros de maletero lo hacen tan práctico como un SUV familiar convencional, y el consumo de 15,5 kWh/100 km es contenido para su tamaño y potencia. La silueta coupé gira cabezas en cualquier aparcamiento, algo que pocos SUV eléctricos consiguen. El Tavascan de quien se enamoró de las líneas y no necesita 500 km de alcance: uso diario urbano y cercanías con estilo de sobra.",
+      "Subirse al SUV coupé eléctrico de Cupra cuesta desde 38.530 € con este Tavascan 190: 190 CV con propulsión trasera, 540 litros y un diseño que muchos consideran el más bello del segmento. Sus 540 litros de maletero lo hacen tan práctico como un SUV familiar convencional, y el consumo de 15,5 kWh asimismo/100 km es contenido para su tamaño y potencia. La silueta coupé gira cabezas en cualquier aparcamiento, algo que pocos SUV eléctricos consiguen. El Tavascan de quien se enamoró de las líneas y no necesita 500 km de alcance: uso diario urbano y cercanías con estilo de sobra.",
       "La batería de 58 kWh deja el alcance corto para viajar —el Endurance 286 entrega 553 km— y la rápida carece de dato oficial, laguna informativa molesta. La tracción trasera le da un tacto más noble que el de la mayoría de SUV eléctricos delanteros. A 38.530 €, es la forma más barata de lucir el diseño más deseado de Cupra. Viajero frecuente: estirarse al Endurance sin dudarlo. Coche de imagen y uso urbano: aquí está la tarifa de entrada más amable."
     ],
     veredicto: "Tavascan de imagen a tarifa contenida; viajar exige el Endurance 286."
@@ -559,7 +559,7 @@ export const ANALISIS_COCHE_05: MapaAnalisis = {
   "dacia-sandero-stepway-eco-g-100-2026-precio-ficha-tecnica": {
     parrafos: [
       "El cuv con GLP más asequible de España: Sandero Stepway ECO-G 100 desde 15.820 €, con distintivo ECO, 101 caballos y doble depósito para más de 1.000 km de alcance total. La estética Stepway con despeje, defensas y ríeles añade presencia campera al utilitario más vendido, y el GLP a mitad de tarifa que la gasolina hunde el coste por kilómetro. Los 101 caballos con 170 newton metro brindan soltura para el día a día y los 12,2 s hasta 100 son aceptables. A 15.820 €, el cuv bifuel más asequible del sector. Con más de 1.000 km de alcance, los viajes se hacen sin pensar en el surtidor.",
-      "El consumo de 6,9 l/100 km en GLP, el maletero de 328 litros y el habitáculo básico. El que quiere estética todocamino sin pagar un todocamino: aquí está su coche. El Sandero convencional, aún más asequible, para quien no necesite la despeje. El autogás licuado a mitad de tarifa que la gasolina y más de 1.000 km de alcance: la aritmética del surtidor favorece al ECO-G en cada repostaje."
+      "El consumo de 6,9 además l/100 km en GLP, el maletero de 328 litros y el habitáculo básico. El que quiere estética todocamino sin pagar un todocamino: aquí está su coche. El Sandero convencional, aún más asequible, para quien no necesite la despeje. El autogás licuado a mitad de tarifa que la gasolina y más de 1.000 km de alcance: la aritmética del surtidor favorece al ECO-G en cada repostaje."
     ],
     veredicto: "cuv bifuel más asequible de España; estética todocamino con distintivo verde."
   },

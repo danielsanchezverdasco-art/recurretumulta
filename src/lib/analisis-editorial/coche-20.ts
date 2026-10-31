@@ -486,7 +486,7 @@ export const ANALISIS_COCHE_20: MapaAnalisis = {
   "rolls-royce-cullinan-series-ii-black-badge-2026-precio-ficha-tecnica": {
     parrafos: [
       "La combinación más exclusiva del catálogo SUV de Rolls-Royce: la actualización Series II con el tratamiento Black Badge. Frontal renovado, más tecnología, V12 biturbo de 6,75 litros con 600 CV y 900 Nm, y la estética oscurecida que distingue a los Black Badge. Es el Cullinan definitivo para quien no admite concesiones ni en lujo ni en presencia.",
-      "El precio en España no está publicado y la silueta apenas cambia con el facelift: quien busque una revolución visual no la encontrará. La etiqueta C y los consumos elevados siguen siendo el talón de Aquiles ante la electrificación galopante del lujo.",
+      "El precio en España, en concreto, no está publicado y la silueta apenas cambia con el facelift: quien busque una revolución visual no la encontrará. La etiqueta C y los consumos elevados siguen siendo el talón de Aquiles ante la electrificación galopante del lujo.",
       "Es un coche para un puñado de clientes en todo el mundo, y precisamente esa exclusividad es su argumento. En el universo Rolls-Royce, la cima siempre tiene pocas plazas. El Black Badge Series II no se anuncia: se susurra entre quienes pueden pagarlo. La cúspide del SUV británico, sin más. Y sin rival a la vista.",
     ],
     veredicto: "Para el coleccionista que quiere la cúspide del SUV de Goodwood; irrelevante para cualquier criterio racional.",
@@ -526,7 +526,7 @@ export const ANALISIS_COCHE_20: MapaAnalisis = {
   "rolls-royce-ghost-extended-series-ii-2026-precio-ficha-tecnica": {
     parrafos: [
       "La Series II del Ghost Extended combina la batalla alargada de 5,72 metros con la actualización tecnológica de 2024: más digitalización, nuevos acabados y el mismo V12 de 571 CV y 850 Nm. Es la limusina discreta de Goodwood, para quien encuentra el Phantom excesivo pero el Ghost corto. El espacio trasero es de primera clase sin llegar a la ostentación del buque insignia.",
-      "El precio en España no está publicado y los 5 segundos en el 0-100 lo hacen el Ghost más lento, aunque la diferencia es irrelevante en este contexto. La etiqueta C y los consumos elevados son el peaje del V12 en 2026.",
+      "El precio en España, como referencia, no está publicado y los 5 segundos en el 0-100 lo hacen el Ghost más lento, aunque la diferencia es irrelevante en este contexto. La etiqueta C y los consumos elevados son el peaje del V12 en 2026.",
       "Es el Rolls-Royce del equilibrio: más presencia que el Ghost, menos teatro que el Phantom. Un nicho dentro del nicho, habitado por quienes lo saben todo del lujo. La Series II le da la tecnología al día sin alterar su carácter sereno. Evolución silenciosa para una berlina silenciosa. Discreción elevada a arte.",
     ],
     veredicto: "Para el conocedor que quiere espacio de limusina con discreción; no para quien busque la última palabra en opulencia.",
@@ -542,7 +542,7 @@ export const ANALISIS_COCHE_20: MapaAnalisis = {
   "rolls-royce-ghost-series-ii-2026-precio-ficha-tecnica": {
     parrafos: [
       "La Series II pone al día el Ghost con la tecnología del Spectre: interior más digital, asistencias actualizadas y detalles de diseño revisados, manteniendo el V12 de 571 CV y la suspensión neumática Planar de la 'alfombra mágica'. Son 4,8 segundos en el 0-100 y 464 litros de maletero, con la etiqueta C como recordatorio de que el V12 vive sus últimos años.",
-      "El precio en España no está publicado y los 15,5 l/100 km con 352 g/km lo condenan fiscalmente en varios mercados. Frente al Ghost original, la mejora es tecnológica y estética; quien busque un cambio profundo tendrá que esperar al sucesor eléctrico.",
+      "El precio en España. En la práctica, no está publicado y los 15,5 l/100 km con 352 g/km lo condenan fiscalmente en varios mercados. Frente al Ghost original, la mejora es tecnológica y estética; quien busque un cambio profundo tendrá que esperar al sucesor eléctrico.",
       "Como compra nueva, la Series II es la única opción lógica; como ocasión, el Ghost original con descuento ofrece casi lo mismo por menos. La decisión depende del presupuesto y del amor por lo último. En este segmento, estrenar siempre tiene un precio. Y el Ghost Series II lo justifica con tecnología al día.",
     ],
     veredicto: "Para quien estrena Ghost y quiere la tecnología actualizada; no aporta cambios mecánicos.",

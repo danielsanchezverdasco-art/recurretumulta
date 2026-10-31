@@ -78,7 +78,7 @@ export const CAMPERS_FORD: CocheComparador[] = [
     ],
     analisisSlug: "ford-nugget-active-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "12 meses o 30.000 km (mecánica Transit Custom)",
+      intervalo: "Cada 12 meses o 30.000 km (mecánica Transit Custom)",
       revisiones: [
         {
           nombre: "Revisión mecánica anual / 30.000 km",

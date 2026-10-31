@@ -741,7 +741,7 @@ export const COCHES_KGM: CocheComparador[] = [
       "costeMensualTotal": 148,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 18,1 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento orientativos",
+      "notas": "15.000 km/año, consumo WLTP 18,1 kWh/100 km y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -824,7 +824,7 @@ export const COCHES_KGM: CocheComparador[] = [
       "costeMensualTotal": 244,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 7,2 l/100 km y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km/año, consumo WLTP 7,2 l/100 km y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
