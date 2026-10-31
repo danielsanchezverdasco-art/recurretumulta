@@ -4838,3 +4838,29 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/renault-scenic-e-tech-60-kwh-2024-precio-autonomia-hero.webp | https://commons.wikimedia.org/wiki/File:2024_Renault_Scenic_Esprit_Alpine_E-Tech.jpg | Calreyn88 · Wikimedia Commons | CC BY-SA 4.0 |
 | /media/skoda-enyaq-85-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2025_%C5%A0koda_Enyaq_DSC_8029.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
 | /media/skoda-kodiaq-rs-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:%C5%A0koda_Kodiaq_II_RS_DSC_2663.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+
+<!-- cosecha: merlin-heroes-blog-lote10 — foto real verificada contra la imagen original de Wikimedia Commons (comparación visual) -->
+| /media/avatr-desconocidos-hero.webp | https://commons.wikimedia.org/wiki/File:Avatr_06_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/byd-tang-l-dron-dji-techo.webp | https://commons.wikimedia.org/wiki/File:BYD_Tang_L_EV_IAA_2025_DSC_2306.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/chery-icaur-v27-2027-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2026_iCaur_V27_Prestige_AWD.jpg | Chanokchon · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/coches-mas-seguros-2026-euroncap-hero.webp | https://commons.wikimedia.org/wiki/File:EuroNCAP_FRONTAL_IMPACT_(left-hand_drive_veicles).png | Pava · Wikimedia Commons | Public domain |
+| /media/denza-z9s-lanzamiento-2026-hero.webp | https://commons.wikimedia.org/wiki/File:Denza_Z9_GT_IAA_2025_DSC_2124.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/ds-n7-nueva-generacion-salon-paris-2026-hero.webp | https://commons.wikimedia.org/wiki/File:DS_No8,_Auto_2025,_Zurich_(20251029-P1073674).jpg | Matti Blume · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/fangchengbao-desconocidos-hero.webp | https://commons.wikimedia.org/wiki/File:2024_Fangchengbao_Bao_5.jpg | User3204 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/geely-galaxy-tt-desconocidos-hero.webp | https://commons.wikimedia.org/wiki/File:Geely_Galaxy_TT_005.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/icaur-v23-chery-hero.webp | https://commons.wikimedia.org/wiki/File:2025_Chery_V23_4WD_Peak.jpg | Chanokchon · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/jetour-g700-zongheng-hero.webp | https://commons.wikimedia.org/wiki/File:Jetour_Zongheng_G700_009.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/leapmotor-paris-2026-b03-d19-debut.webp | https://commons.wikimedia.org/wiki/File:Leapmotor_D19_005.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/lotus-eletre-r-plus.webp | https://commons.wikimedia.org/wiki/File:Lotus_Eletre_IAA_2023_1X7A0668.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/multa-saltarse-stop.webp | https://commons.wikimedia.org/wiki/File:Stop_sign-Dubai3052.JPG | Diego Delso · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/onvo-l60-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Onvo_L60_005.jpg | Zoerides · Wikimedia Commons | CC0 |
+| /media/onvo-l80-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Onvo_L80_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/onvo-l90-nio-suv-familiar.webp | https://commons.wikimedia.org/wiki/File:Onvo_L90_006.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/polestar-4-suv-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Polestar_4.jpg | ArildV · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/renault-scenic-e-tech-lfp-67-kwh-2026-hero.webp | https://commons.wikimedia.org/wiki/File:Renault_Sc%C3%A9nic_E-Tech_IAA_2023_1X7A0344.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/rising-r7-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Rising_Auto_R7_IMG001.jpg | Zotyefan · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/rising-rc7-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Rising_Auto_RC7_prototype_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/rox-01-desconocidos-hero.webp | https://commons.wikimedia.org/wiki/File:Rox_01_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/tesla-roadster-2026-hero.webp | https://commons.wikimedia.org/wiki/File:Tesla_roadster_2020_prototype.jpg | Smnt · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/volkswagen-id-unyx-09-electrico-china-755-km-hero.webp | https://commons.wikimedia.org/wiki/File:Volkswagen_ID.UNYX_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/xiaomi-skynomad-lanzamiento-ventas-china-1705-km-hero.webp | https://commons.wikimedia.org/wiki/File:Xiaomi_YU7_GT_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |

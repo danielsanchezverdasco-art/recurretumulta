@@ -3219,5 +3219,65 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "Alexander Migl · Wikimedia Commons",
 "licencia": "CC BY-SA 4.0",
 "url": "https://commons.wikimedia.org/wiki/File:%C5%A0koda_Kodiaq_II_RS_DSC_2663.jpg"
+},
+"/media/byd-tang-l-dron-dji-techo.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:BYD_Tang_L_EV_IAA_2025_DSC_2306.jpg"
+},
+"/media/chery-icaur-v27-2027-precio-ficha-tecnica-hero.webp": {
+"autor": "Chanokchon · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2026_iCaur_V27_Prestige_AWD.jpg"
+},
+"/media/denza-z9s-lanzamiento-2026-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Denza_Z9_GT_IAA_2025_DSC_2124.jpg"
+},
+"/media/ds-n7-nueva-generacion-salon-paris-2026-hero.webp": {
+"autor": "Matti Blume · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:DS_No8,_Auto_2025,_Zurich_(20251029-P1073674).jpg"
+},
+"/media/fangchengbao-desconocidos-hero.webp": {
+"autor": "User3204 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2024_Fangchengbao_Bao_5.jpg"
+},
+"/media/icaur-v23-chery-hero.webp": {
+"autor": "Chanokchon · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2025_Chery_V23_4WD_Peak.jpg"
+},
+"/media/lotus-eletre-r-plus.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Lotus_Eletre_IAA_2023_1X7A0668.jpg"
+},
+"/media/multa-saltarse-stop.webp": {
+"autor": "Diego Delso · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Stop_sign-Dubai3052.JPG"
+},
+"/media/polestar-4-suv-precio-ficha-tecnica-hero.webp": {
+"autor": "ArildV · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Polestar_4.jpg"
+},
+"/media/renault-scenic-e-tech-lfp-67-kwh-2026-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Renault_Sc%C3%A9nic_E-Tech_IAA_2023_1X7A0344.jpg"
+},
+"/media/rising-r7-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Zotyefan · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Rising_Auto_R7_IMG001.jpg"
+},
+"/media/tesla-roadster-2026-hero.webp": {
+"autor": "Smnt · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Tesla_roadster_2020_prototype.jpg"
 }
 };
