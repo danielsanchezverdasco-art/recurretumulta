@@ -3662,7 +3662,7 @@ export const MEDIA_DIMENSIONS: Record<string, [number, number]> = {
   "forthing-s7-reev-2026-precio-ficha-tecnica-hero.webp": [1920, 1280],
   "forthing-s7-reev-2026-precio-ficha-tecnica-interior.webp": [1920, 1280],
   "forthing-s7-reev-2026-precio-ficha-tecnica-oficial.webp": [1920, 1280],
-  "forthing-t5-2025-precio-ficha-tecnica-hero.webp": [1920, 1280],
+  "forthing-t5-2025-precio-ficha-tecnica-hero.webp": [1600, 1200],
   "forthing-t5-2025-precio-ficha-tecnica-interior.webp": [1920, 1280],
   "forthing-t5-2025-precio-ficha-tecnica-oficial.webp": [1920, 1280],
   "forthing-t5-evo-2025-precio-ficha-tecnica-hero.webp": [1600, 1200],
