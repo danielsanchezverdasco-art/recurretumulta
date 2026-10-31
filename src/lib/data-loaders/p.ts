@@ -54,6 +54,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "peugeot-expert-15-bluehdi-120-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp20.ts"),
     "peugeot-expert-20-bluehdi-180-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp8.ts"),
     "peugeot-partner-15-bluehdi-130-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp20.ts"),
+    "peugeot-pulsion-evo-125-2026-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m8.ts"),
     "peugeot-rcz-vision-concept-paris-2026": () => import("../blog-posts-prioridad-20261014.ts"),
     "peugeot-rifter-15-bluehdi-130-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp8.ts"),
     "peugeot-rifter-long-15-bluehdi-130-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp20.ts"),

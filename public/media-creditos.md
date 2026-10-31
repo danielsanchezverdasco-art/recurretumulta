@@ -5001,3 +5001,49 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/vespa-primavera-elettrica-70-2025-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Vespa_RED_Elettrica_2025_Eicma_2024.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
 | /media/motos/ktm-390-adventure-r-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Ktm-390-adventure-2024.png | KTM AG · Wikimedia Commons | CC BY-SA 4.0 |
 | /media/motos/royal-enfield-classic-650-2026-ficha-tecnica-precio-hero.webp | https://commons.wikimedia.org/wiki/File:Royal_Enfield_(39759).jpg | Al*from*Lig · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/avatr-07-2024-precio-ficha-tecnica-commons-1.webp | https://commons.wikimedia.org/wiki/File:Avatr_07_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/avatr-07-2024-precio-ficha-tecnica-commons-2.webp | https://commons.wikimedia.org/wiki/File:Avatr_07_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/avatr-07-2024-precio-ficha-tecnica-commons-3.webp | https://commons.wikimedia.org/wiki/File:Avatr_07_005.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/avatr-07-2024-precio-ficha-tecnica-commons-4.webp | https://commons.wikimedia.org/wiki/File:Avatr_07_006.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/avatr-07-2024-precio-ficha-tecnica-commons-5.webp | https://commons.wikimedia.org/wiki/File:Avatr_07_007.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/benda-lfc700-2025-ficha-tecnica-precio-commons-1.webp | https://commons.wikimedia.org/wiki/File:Benda_700_LFC_2025.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/benda-lfc700-2025-ficha-tecnica-precio-commons-2.webp | https://commons.wikimedia.org/wiki/File:Benda_700_LFC_EICMA_2024.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/benda-napoleon-bob-500-2025-ficha-tecnica-precio-commons-1.webp | https://commons.wikimedia.org/wiki/File:Benda_Napoleonbob_2025.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/benelli-leoncino-500-2026-ficha-tecnica-precio-commons-1.webp | https://commons.wikimedia.org/wiki/File:Leoncino_500.jpg | Valter Panaroni · Wikimedia Commons | CC0 |
+| /media/benelli-leoncino-500-2026-ficha-tecnica-precio-commons-2.webp | https://commons.wikimedia.org/wiki/File:Benelli_Leoncino_500_in_Avellino.jpg | Corvettec6r · Wikimedia Commons | CC BY 4.0 |
+| /media/benelli-tnt-125-2025-ficha-tecnica-precio-commons-1.webp | https://commons.wikimedia.org/wiki/File:Benelli_TNT_125_2025.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/cfmoto-500sr-voom-2026-ficha-tecnica-precio-commons-1.webp | https://commons.wikimedia.org/wiki/File:CFMoto_500SR.jpg | Hernest555 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/honda-cbr500r-2026-ficha-tecnica-precio-commons-1.webp | https://commons.wikimedia.org/wiki/File:Honda_CBR500R_e-clutch.jpg | MotorideSA · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/kawasaki-versys-x-300-2025-ficha-tecnica-precio-commons-1.webp | https://commons.wikimedia.org/wiki/File:Kawasaki_Versys-X_300.jpg | Sgroey · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/kove-800x-gt-2026-ficha-tecnica-precio-commons-1.webp | https://commons.wikimedia.org/wiki/File:Kove_800X_GT.jpg | MotorideSA · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/kove-800x-rally-2026-ficha-tecnica-precio-commons-1.webp | https://commons.wikimedia.org/wiki/File:Kove_800X_Rally_2026.jpg | MotorideSA · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/kymco-skytown-125-2025-ficha-tecnica-precio-commons-1.webp | https://commons.wikimedia.org/wiki/File:Kymco_Skytown_125_2025.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/kymco-skytown-125-2025-ficha-tecnica-precio-commons-2.webp | https://commons.wikimedia.org/wiki/File:Kymco_SkyTown_125.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/niu-fqix-150-2026-ficha-tecnica-precio-commons-1.webp | https://commons.wikimedia.org/wiki/File:NIU_FQiX_2026.jpg | MotorideSA · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/peugeot-tweet-125-2025-ficha-tecnica-precio-commons-1.webp | https://commons.wikimedia.org/wiki/File:Peugeot_Tweet_GT_125_2024.jpg | AXMaccess · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/piaggio-1-active-2025-ficha-tecnica-precio-commons-1.webp | https://commons.wikimedia.org/wiki/File:Piaggio_1_Active_2022.jpg | Laura Buononome · Wikimedia Commons | CC BY 2.0 |
+| /media/piaggio-1-active-2025-ficha-tecnica-precio-commons-2.webp | https://commons.wikimedia.org/wiki/File:Piaggio_1_Active.jpg | Corvettec6r · Wikimedia Commons | CC BY 4.0 |
+| /media/qjmotor-sq-350-2025-ficha-tecnica-precio-commons-1.webp | https://commons.wikimedia.org/wiki/File:QJMotor_SQ350.jpg | XDVRACE · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/suzuki-sv-7gx-2026-ficha-tecnica-precio-commons-1.webp | https://commons.wikimedia.org/wiki/File:Suzuki_SV-7_GX_EICMA_2025.jpg | MotorideSA · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/suzuki-v-strom-250sx-2025-ficha-tecnica-precio-commons-1.webp | https://commons.wikimedia.org/wiki/File:2023_Suzuki_V-Strom_SX_250_front.jpg | Haysnawri10 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/suzuki-v-strom-250sx-2025-ficha-tecnica-precio-commons-2.webp | https://commons.wikimedia.org/wiki/File:2023_Suzuki_V-Strom_SX_250_rear.jpg | Haysnawri10 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/voge-900-dsx-2026-ficha-tecnica-precio-commons-1.webp | https://commons.wikimedia.org/wiki/File:Voge_DS900X.jpg | MotorideSA · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/voge-rr660s-2026-ficha-tecnica-precio-commons-1.webp | https://commons.wikimedia.org/wiki/File:Voge_RR660S.jpg | MotorideSA · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/zontes-125d-2026-ficha-tecnica-precio-commons-1.webp | https://commons.wikimedia.org/wiki/File:Zontes_125D.jpg | ADXTurbo66 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/zontes-125m-2026-ficha-tecnica-precio-commons-1.webp | https://commons.wikimedia.org/wiki/File:Zontes_125M.jpg | ADXTurbo66 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/zontes-368e-commons-1.webp | https://commons.wikimedia.org/wiki/File:Zontes_368E_2025.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/zontes-368e-commons-2.webp | https://commons.wikimedia.org/wiki/File:Zontes_368E_EICMA_2024.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/zontes-703r-2026-ficha-tecnica-precio-commons-1.webp | https://commons.wikimedia.org/wiki/File:Zontes_703R_2025.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/voge-sr450x-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Voge_SR450X_2026.jpg | MotorideSA · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/kymco-cv3-575-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Kymco_CV3_2025_EICMA_2024.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/kymco-cv3-575-2026-ficha-tecnica-precio-2.webp | https://commons.wikimedia.org/wiki/File:Kymco_CV3_2025.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/voge-125rs-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Voge_R125S_2026.jpg | MotorideSA · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/peugeot-pulsion-evo-125-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Peugeot_Pulsion_Evo_125_2026.jpg | MotorideSA · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/peugeot-pulsion-evo-125-2026-ficha-tecnica-precio-2.webp | https://commons.wikimedia.org/wiki/File:Peugeot_Pulsion_Evo_125.jpg | MotorideSA · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/keeway-terrafina-350i-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Keeway_Terrafina_350.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/keeway-terrafina-350i-2026-ficha-tecnica-precio-2.webp | https://commons.wikimedia.org/wiki/File:Keeway_Terrafina_350_EICMA_2024.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/voge-rr500s-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Voge_RR500S.jpg | MotorideSA · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/voge-300rr-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Moscow,_Voge_300RR_motorcycle,_Sept_2025_01.jpg | Retired electrician · Wikimedia Commons | CC0 |
+| /media/motos/voge-300rr-2025-ficha-tecnica-precio-2.webp | https://commons.wikimedia.org/wiki/File:Moscow,_Voge_300RR_motorcycle,_Sept_2025_02.jpg | Retired electrician · Wikimedia Commons | CC0 |
+| /media/motos/verge-ts-pro-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Verge_TS_Pro,_2025-05-03.jpg | An-d · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/kove-321rr-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Kove_321_RR_-_EICMA_2024.jpg | Saggittarius A · Wikimedia Commons | CC BY 4.0 |

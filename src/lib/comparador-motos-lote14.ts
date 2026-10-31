@@ -1512,6 +1512,8 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         ancho: 951,
         alto: 634,
       },
+      { src: "/media/zontes-368e-commons-1.webp", alt: "Zontes 368E 2025 azul en un expositor", ancho: 1600, alto: 1264 },
+      { src: "/media/zontes-368e-commons-2.webp", alt: "Zontes 368E presentado en EICMA 2024, vista frontal", ancho: 1200, alto: 1600 },
     ],
     videoId: null,
     videoCanal: null,

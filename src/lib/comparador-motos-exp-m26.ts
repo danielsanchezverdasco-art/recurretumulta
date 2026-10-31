@@ -1310,6 +1310,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       { src: "/media/qjmotor-sq-350-2025-ficha-tecnica-precio-hunt1.webp", alt: "Primera revisión (1.000 km) (foto: QJMotor España, licencia desconocida)", ancho: 967, alto: 645 },
       { src: "/media/qjmotor-sq-350-2025-ficha-tecnica-precio-hunt2.webp", alt: "Primera revisión (1.000 km) (foto: QJMotor España, licencia desconocida)", ancho: 2560, alto: 1717 },
       { src: "/media/qjmotor-sq-350-2025-ficha-tecnica-precio-hunt3.webp", alt: "Primera revisión (1.000 km) (foto: QJMotor España, licencia desconocida)", ancho: 2560, alto: 1717 },
+      { src: "/media/qjmotor-sq-350-2025-ficha-tecnica-precio-commons-1.webp", alt: "QJMotor SQ350 gris en un stand de feria", ancho: 1200, alto: 1669 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1786,6 +1787,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         ancho: 1200,
         alto: 800,
       }, // DIMS zontes-703r-2026-ficha-tecnica-precio-oficial-3.webp
+      { src: "/media/zontes-703r-2026-ficha-tecnica-precio-commons-1.webp", alt: "Zontes 703R 2025 gris con llantas rojas en un expositor", ancho: 1600, alto: 1200 },
     ],
     videoId: "jvLe0qFDzn4",
     videoCanal: "MotorbikeMag",
@@ -1864,6 +1866,8 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       { src: "/media/benda-lfc700-2025-ficha-tecnica-precio-hunt1.webp", alt: "LFC700 (foto: Benda (foto oficial de producto) / Salamon Motor, licencia desconocida)", ancho: 1024, alto: 768 },
       { src: "/media/benda-lfc700-2025-ficha-tecnica-precio-hunt2.webp", alt: "LFC700 (foto: Benda (foto oficial) / Rider Magazine, licencia desconocida)", ancho: 696, alto: 464 },
       { src: "/media/benda-lfc700-2025-ficha-tecnica-precio-hunt3.webp", alt: "LFC700 (foto: 1000PS / concesionario Hartmannsdorf (anuncio de venta LFC 700), licencia desconocida)", ancho: 920, alto: 566 },
+      { src: "/media/benda-lfc700-2025-ficha-tecnica-precio-commons-1.webp", alt: "Benda LFC700 2025 en un expositor, vista tres cuartos", ancho: 1600, alto: 1200 },
+      { src: "/media/benda-lfc700-2025-ficha-tecnica-precio-commons-2.webp", alt: "Benda LFC700 de perfil, presentada en EICMA 2024", ancho: 1600, alto: 1200 },
     ],
     videoId: "PPPOdn3voS8",
     videoCanal: "MotorbikeMag",
@@ -2071,6 +2075,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         ancho: 1200,
         alto: 773,
       }, // DIMS benda-napoleon-bob-500-2025-ficha-tecnica-precio-oficial-3.webp
+      { src: "/media/benda-napoleon-bob-500-2025-ficha-tecnica-precio-commons-1.webp", alt: "Benda Napoleonbob 500 2025 con escape cromado en una feria", ancho: 1600, alto: 1200 },
     ],
     videoId: "P_Gm-y7mu-M",
     videoCanal: "MotorbikeMag",

@@ -3674,5 +3674,355 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "Thesupermat · Wikimedia Commons",
 "licencia": "CC BY-SA 4.0",
 "url": "https://commons.wikimedia.org/wiki/File:Kawasaki_Vulcan_S_-_MRS_Oficina_-_Mondial_de_l%27Automobile_de_Paris_2018_-_001.jpg"
+},
+"/media/motos/suzuki-v-strom-800de-2024-ficha-tecnica-precio.webp": {
+"autor": "GIM - Giri in Moto · Wikimedia Commons",
+"licencia": "CC BY 3.0",
+"url": "https://commons.wikimedia.org/wiki/File:Suzuki_V-Strom_800DE_(3).jpg"
+},
+"/media/motos/bmw-r-1300-gs-2024-ficha-tecnica-precio.webp": {
+"autor": "Corvettec6r · Wikimedia Commons",
+"licencia": "CC BY 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:BMW_R1300_GS_Option_719_Tramuntana.jpg"
+},
+"/media/motos/bmw-r-18-2024-ficha-tecnica-precio-1.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:BMW_R18_2025.jpg"
+},
+"/media/motos/moto-guzzi-v9-bobber-2024-ficha-tecnica-precio-1.webp": {
+"autor": "Corvettec6r · Wikimedia Commons",
+"licencia": "CC BY 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Moto_Guzzi_V9_Bobber.jpg"
+},
+"/media/motos/bimota-tesi-h2-2024-ficha-tecnica-precio-1.webp": {
+"autor": "Matthb1395 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Bimota_Tesi_H2_(2020).jpg"
+},
+"/media/motos/lambretta-elettra-s-2026-ficha-tecnica-precio-1.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Lambretta_Elettra_S.jpg"
+},
+"/media/motos/suzuki-burgman-400-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Suzuki_Burgman_400_2025.jpg"
+},
+"/media/motos/ktm-790-duke-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "Cjp24 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:KTM_790_Duke_(1).jpg"
+},
+"/media/motos/ktm-790-adventure-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "Cjp24 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:KTM_790_Adventure,_topcase.jpg"
+},
+"/media/motos/ducati-panigale-v4-s-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "TaurusEmerald · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Ducati_Panigale_V4_S_Corse.jpg"
+},
+"/media/motos/bmw-ce-04-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "Wikisympathisant · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2024-06_BMW_CE_04.jpg"
+},
+"/media/motos/ducati-diavel-v4-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "XDVRACE · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Ducati_Diavel_V4.jpg"
+},
+"/media/motos/triumph-street-triple-765-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "Darktiger0512 · Wikimedia Commons",
+"licencia": "CC BY 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Triumph_Street_Triple_765_RS_(2022).jpg"
+},
+"/media/motos/triumph-scrambler-900-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Triumph_Scrambler_900_2026.jpg"
+},
+"/media/motos/royal-enfield-continental-gt-650-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "Kiranpawar3210 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_Continental_GT_650.jpg"
+},
+"/media/motos/royal-enfield-super-meteor-650-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "iMahesh · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_Super_Meteor_650_(02).jpg"
+},
+"/media/motos/royal-enfield-interceptor-650-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "Andrzej Otrębski · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Wien_Royal_Enfield_Interceptor_650.jpg"
+},
+"/media/motos/royal-enfield-himalayan-450-2026-ficha-tecnica-precio-hero.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_Himalayan_450_Mana_Black.jpg"
+},
+"/media/motos/royal-enfield-himalayan-450-2024-ficha-tecnica-precio-oficial.webp": {
+"autor": "Rouv1505 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Royal-Enfield-Himalayan-450.jpg"
+},
+"/media/vespa-gts-310-2026-ficha-tecnica-precio-oficial.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Vespa_GTS_310_2025.jpg"
+},
+"/media/motos/swm-superdual-650-2025-ficha-tecnica-precio-oficial.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:SWM_Superdual_650_2025.jpg"
+},
+"/media/motos/bmw-k-1600-gtl-2025-ficha-tecnica-precio-oficial.webp": {
+"autor": "Cjp24 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:BMW_K_1600_GTL,_white.jpg"
+},
+"/media/motos/silence-s01-plus-2026-ficha-tecnica-precio-oficial.webp": {
+"autor": "Herodotptlomeu · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Silence_S01_-_Seat_M%C3%B3.jpg"
+},
+"/media/motos/ducati-scrambler-icon-800-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Ducati_Scrambler_800_Icon.jpg"
+},
+"/media/wottan-rebbe-401-2025-ficha-tecnica-precio-oficial.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Wottan_Rebbe_2025.jpg"
+},
+"/media/motos/benelli-trk-502x-2024-ficha-tecnica-precio-1.webp": {
+"autor": "Herodotptlomeu · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Benelli_TRK_502X_-_groc.jpg"
+},
+"/media/motos/moto-morini-calibro-700-2024-ficha-tecnica-precio-1.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Moto_Morini_Calibro_2026.jpg"
+},
+"/media/motos/indian-chieftain-powerplus-dark-horse-2025-ficha-tecnica-precio-oficial.webp": {
+"autor": "Chris Woodrich · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Indian_Chieftain_parked_at_Hogs_for_Hospice,_Leamington,_Ontario,_2025-08-02.jpg"
+},
+"/media/zero-fxe-ficha-tecnica-precio-oficial.webp": {
+"autor": "Matti Blume · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Zero,_BAS_24,_Brussels_(P1170326-RR).jpg"
+},
+"/media/vespa-primavera-elettrica-70-2025-ficha-tecnica-precio-oficial.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Vespa_RED_Elettrica_2025_Eicma_2024.jpg"
+},
+"/media/motos/ktm-390-adventure-r-2025-ficha-tecnica-precio-1.webp": {
+"autor": "KTM AG · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Ktm-390-adventure-2024.png"
+},
+"/media/motos/royal-enfield-classic-650-2026-ficha-tecnica-precio-hero.webp": {
+"autor": "Al*from*Lig · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Royal_Enfield_(39759).jpg"
+},
+"/media/benda-lfc700-2025-ficha-tecnica-precio-commons-1.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Benda_700_LFC_2025.jpg"
+},
+"/media/benda-lfc700-2025-ficha-tecnica-precio-commons-2.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Benda_700_LFC_EICMA_2024.jpg"
+},
+"/media/benda-napoleon-bob-500-2025-ficha-tecnica-precio-commons-1.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Benda_Napoleonbob_2025.jpg"
+},
+"/media/benelli-leoncino-500-2026-ficha-tecnica-precio-commons-2.webp": {
+"autor": "Corvettec6r · Wikimedia Commons",
+"licencia": "CC BY 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Benelli_Leoncino_500_in_Avellino.jpg"
+},
+"/media/benelli-tnt-125-2025-ficha-tecnica-precio-commons-1.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Benelli_TNT_125_2025.jpg"
+},
+"/media/cfmoto-500sr-voom-2026-ficha-tecnica-precio-commons-1.webp": {
+"autor": "Hernest555 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:CFMoto_500SR.jpg"
+},
+"/media/honda-cbr500r-2026-ficha-tecnica-precio-commons-1.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Honda_CBR500R_e-clutch.jpg"
+},
+"/media/kawasaki-versys-x-300-2025-ficha-tecnica-precio-commons-1.webp": {
+"autor": "Sgroey · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Kawasaki_Versys-X_300.jpg"
+},
+"/media/kove-800x-gt-2026-ficha-tecnica-precio-commons-1.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Kove_800X_GT.jpg"
+},
+"/media/kove-800x-rally-2026-ficha-tecnica-precio-commons-1.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Kove_800X_Rally_2026.jpg"
+},
+"/media/kymco-skytown-125-2025-ficha-tecnica-precio-commons-1.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Kymco_Skytown_125_2025.jpg"
+},
+"/media/kymco-skytown-125-2025-ficha-tecnica-precio-commons-2.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Kymco_SkyTown_125.jpg"
+},
+"/media/niu-fqix-150-2026-ficha-tecnica-precio-commons-1.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:NIU_FQiX_2026.jpg"
+},
+"/media/peugeot-tweet-125-2025-ficha-tecnica-precio-commons-1.webp": {
+"autor": "AXMaccess · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Peugeot_Tweet_GT_125_2024.jpg"
+},
+"/media/piaggio-1-active-2025-ficha-tecnica-precio-commons-1.webp": {
+"autor": "Laura Buononome · Wikimedia Commons",
+"licencia": "CC BY 2.0",
+"url": "https://commons.wikimedia.org/wiki/File:Piaggio_1_Active_2022.jpg"
+},
+"/media/piaggio-1-active-2025-ficha-tecnica-precio-commons-2.webp": {
+"autor": "Corvettec6r · Wikimedia Commons",
+"licencia": "CC BY 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Piaggio_1_Active.jpg"
+},
+"/media/qjmotor-sq-350-2025-ficha-tecnica-precio-commons-1.webp": {
+"autor": "XDVRACE · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:QJMotor_SQ350.jpg"
+},
+"/media/suzuki-sv-7gx-2026-ficha-tecnica-precio-commons-1.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Suzuki_SV-7_GX_EICMA_2025.jpg"
+},
+"/media/suzuki-v-strom-250sx-2025-ficha-tecnica-precio-commons-1.webp": {
+"autor": "Haysnawri10 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2023_Suzuki_V-Strom_SX_250_front.jpg"
+},
+"/media/suzuki-v-strom-250sx-2025-ficha-tecnica-precio-commons-2.webp": {
+"autor": "Haysnawri10 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2023_Suzuki_V-Strom_SX_250_rear.jpg"
+},
+"/media/voge-900-dsx-2026-ficha-tecnica-precio-commons-1.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Voge_DS900X.jpg"
+},
+"/media/voge-rr660s-2026-ficha-tecnica-precio-commons-1.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Voge_RR660S.jpg"
+},
+"/media/zontes-125d-2026-ficha-tecnica-precio-commons-1.webp": {
+"autor": "ADXTurbo66 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Zontes_125D.jpg"
+},
+"/media/zontes-125m-2026-ficha-tecnica-precio-commons-1.webp": {
+"autor": "ADXTurbo66 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Zontes_125M.jpg"
+},
+"/media/zontes-368e-commons-1.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Zontes_368E_2025.jpg"
+},
+"/media/zontes-368e-commons-2.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Zontes_368E_EICMA_2024.jpg"
+},
+"/media/zontes-703r-2026-ficha-tecnica-precio-commons-1.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Zontes_703R_2025.jpg"
+},
+"/media/motos/voge-sr450x-2026-ficha-tecnica-precio-1.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Voge_SR450X_2026.jpg"
+},
+"/media/motos/kymco-cv3-575-2026-ficha-tecnica-precio-1.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Kymco_CV3_2025_EICMA_2024.jpg"
+},
+"/media/motos/kymco-cv3-575-2026-ficha-tecnica-precio-2.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Kymco_CV3_2025.jpg"
+},
+"/media/motos/voge-125rs-2026-ficha-tecnica-precio-1.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Voge_R125S_2026.jpg"
+},
+"/media/motos/peugeot-pulsion-evo-125-2026-ficha-tecnica-precio-1.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Peugeot_Pulsion_Evo_125_2026.jpg"
+},
+"/media/motos/peugeot-pulsion-evo-125-2026-ficha-tecnica-precio-2.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Peugeot_Pulsion_Evo_125.jpg"
+},
+"/media/motos/keeway-terrafina-350i-2026-ficha-tecnica-precio-1.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Keeway_Terrafina_350.jpg"
+},
+"/media/motos/keeway-terrafina-350i-2026-ficha-tecnica-precio-2.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Keeway_Terrafina_350_EICMA_2024.jpg"
+},
+"/media/motos/voge-rr500s-2026-ficha-tecnica-precio-1.webp": {
+"autor": "MotorideSA · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Voge_RR500S.jpg"
+},
+"/media/motos/verge-ts-pro-2026-ficha-tecnica-precio-1.webp": {
+"autor": "An-d · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Verge_TS_Pro,_2025-05-03.jpg"
+},
+"/media/motos/kove-321rr-2025-ficha-tecnica-precio-1.webp": {
+"autor": "Saggittarius A · Wikimedia Commons",
+"licencia": "CC BY 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Kove_321_RR_-_EICMA_2024.jpg"
 }
 };

@@ -442,6 +442,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/suzuki-sv-7gx-2026-ficha-tecnica-precio-commons-1.webp", alt: "Suzuki SV-7GX azul y negra, presentada en EICMA 2025", ancho: 1152, alto: 1432 },
     ],
     videoId: null,
     videoCanal: null,
