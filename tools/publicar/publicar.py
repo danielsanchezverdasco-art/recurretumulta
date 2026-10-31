@@ -345,6 +345,15 @@ def f_build(c):
             rutas = ["/"] + lines_of(modo)
         rf = os.path.join(c.work, "rutas-prerender.txt"); open(rf, "w").write("\n".join(rutas) + "\n")
         env["PRERENDER_ONLY_FILE"] = rf
+    # Rutas con 301! en public/_redirects: Netlify las redirige aunque exista fichero; no se prerenderizan (cada una gastaba 30-70 s en timeout de canonical).
+    redir301 = set()
+    for ln in open(os.path.join(c.repo, "public", "_redirects"), encoding="utf8"):
+        pp = ln.split()
+        if len(pp) >= 3 and pp[0].startswith("/") and pp[2].startswith("301") and "*" not in pp[0] and ":" not in pp[0]: redir301.add(pp[0].rstrip("/") or "/")
+    n0 = len(rutas); rutas = [r for r in rutas if r == "/" or r not in redir301]
+    if n0 != len(rutas):
+        rf = os.path.join(c.work, "rutas-prerender.txt"); open(rf, "w").write("\n".join(rutas) + "\n"); env["PRERENDER_ONLY_FILE"] = rf
+        c.say("  (%d rutas con 301 en _redirects no se prerenderizan)" % (n0 - len(rutas)))
     c.say("  prerender de %d rutas (modo %s)" % (len(rutas), modo))
     rc, t = c.run(["node", "scripts/prerender.mjs"], env=env, check=False, quiet=True)
     c.say("    " + (t.strip().splitlines() or [""])[-1])
