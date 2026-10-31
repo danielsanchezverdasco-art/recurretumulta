@@ -104,7 +104,7 @@ Conviene leer estos precios con la prudencia que merecen: son precios chinos, si
 
 El lanzamiento llega en un momento delicado para la familia Qin. Según Híbridos y Eléctricos, las ventas de la familia han caído un 54,71 % durante el presente 2026, así que la responsabilidad de esta tercera generación es doble: recuperar volumen y demostrar que el Qin Plus sigue siendo la puerta de entrada a la hibridación enchufable de BYD. El contexto chino ayuda a entenderlo: la competencia interna es feroz, con marcas que lanzan modelos nuevos cada pocos meses, y un modelo que no se renueva pierde fuelle en cuestión de trimestres. La respuesta de BYD es crecer en tamaño, en batería y en autonomía sin subir el precio de acceso, que se mantiene en el entorno de los 80.000 yuanes.
 
-Para España, la lectura es indirecta pero útil. BYD sí vende aquí berlinas híbridas enchufables, y la más parecida en concepto es el <a href=/coches/byd-seal-6-dm-i-2025-precio-ficha-tecnica/>BYD Seal 6 DM-i</a>, la berlina que la marca trae a Europa con el mismo sistema DM-i adaptado a nuestro mercado, con homologación WLTP, garantía europea y red de servicio. Si el Qin Plus de tercera generación llegara algún día a Europa, probablemente lo haría con otro nombre o como parte de otra gama, como ya ocurrió con otros modelos chinos de BYD, y con un precio muy superior al chino. Por ahora, BYD no ha anunciado planes en ese sentido, ni para España ni para el resto de Europa, y este artículo no especula con fechas: cuando haya un anuncio oficial, lo contaremos y actualizaremos la ficha.
+Para España, la lectura es indirecta pero útil. BYD sí vende aquí berlinas híbridas enchufables, y la más parecida en concepto es el <a href=/coches/byd-seal-6-dm-i-2025-precio-ficha-tecnica/>BYD Seal 6 DM-i</a>, el sedán que BYD comercializa en Europa con el mismo sistema DM-i adaptado a nuestro mercado, con homologación WLTP, garantía europea y red de servicio. Si el Qin Plus de tercera generación llegara algún día a Europa, probablemente lo haría con otro nombre o como parte de otra gama, como ya ocurrió con otros modelos chinos de BYD, y con un precio muy superior al chino. Por ahora, BYD no ha anunciado planes en ese sentido, ni para España ni para el resto de Europa, y este artículo no especula con fechas: cuando haya un anuncio oficial, lo contaremos y actualizaremos la ficha.
 
 <img src=/media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-oficial.webp alt=BYD Qin Plus DM-i 2026 azul, vista trasera tres cuartos con pilotos unidos por franja luminosa>
 
@@ -144,7 +144,7 @@ El motor de gasolina de 1.5 litros ronda los 100 CV y el eléctrico entrega 163 
 
 ### ¿Se vende el Qin Plus DM-i 2026 en España?
 
-No. BYD no ha anunciado planes para comercializar esta tercera generación ni en España ni en el resto de Europa. Aquí, la berlina híbrida enchufable equivalente de BYD es el Seal 6 DM-i.
+No. BYD no ha anunciado planes para comercializar esta tercera generación ni aquí ni en ningún otro país europeo. En España, la berlina híbrida enchufable equivalente de BYD es el Seal 6 DM-i.
 
 ### ¿En qué mejora al Qin Plus DM-i anterior?
 

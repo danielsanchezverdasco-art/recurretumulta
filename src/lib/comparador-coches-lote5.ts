@@ -414,7 +414,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan orientativo: misma familia DM-i (generación anterior); BYD no ha publicado el plan específico de la 3ª generación",
+      fuente: "Plan orientativo: misma familia DM-i (generación anterior); el plan propio de la 3ª generación aún no figura en las fuentes de BYD",
     },
     versiones: [
       { nombre: "Leading", precio: 10735, autonomiaKm: 140, aprox: true },
