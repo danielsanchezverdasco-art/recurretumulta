@@ -13,6 +13,8 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 // OUT_DIR permite escribir el HTML en un outDir distinto (p. ej. dist-new).
 const DIST = join(ROOT, (process.env.PREVIEW_DIR || "").trim() || "dist");
 const PORT = Number(process.env.PRERENDER_PORT || 4317);
+// 24/10/2026: carpeta de media de respaldo para el prerender (ver page.route de /media/).
+const MEDIA_DIR = (process.env.PRERENDER_MEDIA_DIR || "/workspace/codigo-original/limpio/public/media").trim();
 const EXPANDIR_RUTAS = new Set((process.env.PRERENDER_EXPANDIR ?? "/fichas-tecnicas").split(",").filter(Boolean));
 
 // ÚNICA FUENTE DE VERDAD DE RUTAS: scripts/routes.json (diseño 11/10/2026).
@@ -192,6 +194,24 @@ async function main() {
     // que queda baked en el HTML estático → GA se cargaba 2 veces en producción
     // (el loader diferido + el script capturado). Con esto, el HTML prerenderizado
     // solo lleva el loader diferido.
+    // 24/10/2026 (velocidad/ficha): si una imagen de /media/ no está en DIST (la media
+    // vive en Netlify, no en el build), el prerender horneaba «Foto pendiente de
+    // verificación» en vez de la foto hero (LCP y SEO). Se sirve desde PRERENDER_MEDIA_DIR
+    // y, si falta la variante -480w/-828w, se sirve la base (solo afecta a la captura).
+    await page.route(
+      (u) => /^https?:\/\/localhost[:/]/.test(u.href) && u.pathname.startsWith("/media/"),
+      async (r) => {
+        const rel = decodeURIComponent(new URL(r.request().url()).pathname);
+        const candidatos = [join(DIST, rel), join(MEDIA_DIR, rel.replace(/^\/media\//, ""))];
+        const base = rel.replace(/-(480|828)w\.webp$/, ".webp");
+        if (base !== rel) candidatos.push(join(DIST, base), join(MEDIA_DIR, base.replace(/^\/media\//, "")));
+        const f = candidatos.find((c) => existsSync(c));
+        if (!f) return r.continue();
+        const ext = f.split(".").pop().toLowerCase();
+        const tipos = { webp: "image/webp", png: "image/png", jpg: "image/jpeg", jpeg: "image/jpeg", svg: "image/svg+xml", avif: "image/avif", gif: "image/gif" };
+        return r.fulfill({ status: 200, body: readFileSync(f), headers: { "content-type": tipos[ext] || "application/octet-stream" } });
+      },
+    );
     await page.route("**/googletagmanager.com/**", (r) => r.abort());
     await page.route("**/google-analytics.com/**", (r) => r.abort());
     // El juego de los monos no se pinta en el prerender: no aporta SEO y sus
