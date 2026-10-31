@@ -278,6 +278,11 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
   },
   {
     id: "maextro-v800-huawei-precio-ficha-tecnica",
+    textosPropios: {
+      precio: "El Maextro V800 se vende solo en China desde el 5 de agosto de 2026, con tres acabados: Premium a 766.000 yuanes, Executive a 866.000 y Flagship a 1.016.000 (tarifa oficial publicada por CnEVPost el 5/08/2026). Al cambio del Banco Central Europeo del 19/10/2026 (7,4991 yuanes por euro) equivalen a unos 102.100, 115.500 y 135.500 €, sin impuestos ni gastos de importación, y por eso la cifra es orientativa: Maextro no tiene red ni tarifa en España.",
+      faqPrecio: "En China, entre 766.000 yuanes (Premium) y 1.016.000 (Flagship), según la tarifa oficial de agosto de 2026; equivalen a unos 102.100-135.500 € con la cotización del BCE del 19 de octubre de 2026. No se comercializa en España y no existe precio oficial en euros.",
+      faqAutonomia: "340 km eléctricos en ciclo chino CLTC en la Premium y 330 km en la Executive y la Flagship; con el depósito de 62 litros llena el alcance sube a 1.335 y 1.300 km CLTC (1.158 y 1.128 km en WLTC).",
+    },
     marca: "Maextro",
     modelo: "V800",
     tipo: "Híbrido de autonomía extendida",

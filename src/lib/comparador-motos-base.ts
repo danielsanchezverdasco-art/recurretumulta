@@ -3492,6 +3492,9 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "honda-forza-350-2024-ficha-tecnica-precio",
+    textosPropios: {
+      precio: "Moteo da 6.380 € como precio de salida del Forza 350 en 2024. Honda España lista hoy el modelo 2026 desde 6.550 €, o 6.675 € con la edición especial (honda.es, 31/10/2026). La cifra de la ficha corresponde al lanzamiento de 2024 y no incluye campañas ni gastos de matriculación.",
+    },
     marca: "Honda",
     modelo: "Forza 350",
     version: "Forza 350 2024",
@@ -3503,7 +3506,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     autonomiaKm: null,
     autonomiaCiclo: null,
     bateriaKwh: null,
-    velocidadMax: 145,
+    velocidadMax: 137, // 31/10/2026: 137 km/h según Honda España (antes 145)
     ceroCincuenta: null,
     pesoKg: 184,
     plazas: 2,
@@ -3523,7 +3526,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "184 kilos en orden de marcha: pesado para un 350 de uso urbano",
       "Motor de 330 cc reales: menos cilindrada de la que sugiere su nombre",
       "Instrumentación mixta analógica-digital, sin pantalla TFT a color",
-      "Depósito de 11,5 L: menor que el del XMAX 300 (13,2 L)",
+      "Depósito de 11,7 L: menor que el del XMAX 300 (13,2 L)",
       "29 Caballos se quedan escasos en autopista con pasajero y equipaje",
       "Diseño continuista: la versión 2024 solo estrenó colores nuevos",
     ],
@@ -6710,6 +6713,9 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "piaggio-beverly-400-2024-ficha-tecnica-precio",
+    textosPropios: {
+      precio: "Referencia de esta ficha: 6.799 € (tarifa del modelo 2024). En enero de 2024 el Beverly 400 HPE se anunciaba desde 6.099 € con 500 € de descuento de campaña, es decir, 6.599 € de tarifa (Diariomotor, 27/12/2023). Piaggio no publicó una tarifa actual accesible el 31/10/2026: confirma el precio final con el concesionario.",
+    },
     marca: "Piaggio",
     modelo: "Beverly 400",
     version: "Beverly 400 2024",
@@ -6730,7 +6736,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Motor HPE monocilíndrico de 399 cc con 35,4 CV: justo en el límite del carnet A2",
+      "Motor HPE monocilíndrico de 399 cc con 35,4 CV (26 kW): cabe en el carnet A2 sin limitar",
       "Ruedas altas de 16\" delante y 14\" detrás, que aportan estabilidad en baches y rondas",
       "ABS y control de tracción ASR incluido de fábrica",
       "Sistema keyless y cuadro digital LCD de 5,5\" con conectividad Piaggio MIA por Bluetooth",
@@ -6859,7 +6865,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     bateriaKwh: null,
     velocidadMax: 160,
     ceroCincuenta: null,
-    pesoKg: 214.5,
+    pesoKg: 227, // 31/10/2026: 227 kg en vacío según manual SYM España (antes 214,5)
     plazas: 2,
     carnet: "A2",
     carga: null,
@@ -6875,7 +6881,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     ],
     contras: [
       "Precio de 8.999 €, alto frente a maxiscooters monocilíndricos",
-      "Peso de 214,5 kg, que exige destreza en maniobras en parado",
+      "Peso de 227 kg en vacío, que exige destreza en maniobras en parado",
       "Depósito de 12,5 litros: obliga a visitas frecuentes a la gasolinera",
       "El seguro gratuito de SYM España solo es válido a partir de los 21 años",
       "La transmisión por cadena requiere más mantenimiento que la correa de sus rivales",

@@ -369,13 +369,13 @@ export const CARAVANAS_BURSTNER: CocheComparador[] = [
     aprox: ["pesoKg", "mmaKg", "cargaUtilKg"],
     pros: [
       "20.070 € de precio oficial (catálogo Bürstner Países Bajos): la Premio más asequible",
-      "El B basta con casi cualquier coche: 1.100 kg de masa máxima",
-      "950 kg de peso en vacío: ligera y fácil de remolcar",
-      "150 kg de margen de carga declarado (1.100 kg de masa máxima)",
+      "El B basta con casi cualquier coche: 1.360 kg de masa máxima",
+      "1.023 kg de peso en vacío: ligera y fácil de remolcar",
+      "337 kg de margen de carga declarado (1.360 kg de masa máxima)",
       "Literas y cama doble: 4-5 plazas en 6,22 m",
     ],
     contras: [
-      "150 kg de margen de carga: pocos si viajan cinco",
+      "337 kg de margen de carga: justos si viajan cinco",
       "Con 2,12 m entre paredes es la Bürstner más estrecha",
       "Remates sencillos de entrada",
     ],

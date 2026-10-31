@@ -106,6 +106,10 @@ export const COCHES_XPENG: CocheComparador[] = [
   },
   {
     id: "xpeng-p7-2024-precio-ficha-tecnica",
+    textosPropios: {
+      precio: "51.990 € es la tarifa de enero de 2025 que recoge km77 para el RWD Long Range, sin rebaja oficial; equivale a 42.967 € más 21 % de IVA, y al ser eléctrico no paga matriculación. Se trata del P7 de 2024; su relevo, el P7+, empieza en 45.990 € según Motor1 (mayo de 2026).",
+      faqPrecio: "El RWD Long Range cuesta 51.990 € de tarifa (km77, 01/2025) y el P7+ posterior parte de 45.990 € (Motor1).",
+    },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
