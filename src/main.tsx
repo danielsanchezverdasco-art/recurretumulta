@@ -41,6 +41,24 @@ if (rootEl.innerHTML.trim().length > 200) {
 // 24/10/2026 (velocidad): antes se excluía con navigator.webdriver, que también es true
 // en Lighthouse/PageSpeed (Chrome headless): allí React borraba el HTML prerenderizado y
 // el LCP esperaba a todo el JS. Ahora solo se excluye el prerender (window.__PRERENDER__).
+// Desmonta un árbol grande en trozos de ~8 ms (sin tareas largas). Primero se oculta (display:none).
+function retirarPorTrozos(raiz: HTMLElement) {
+  raiz.removeAttribute("id");
+  raiz.style.display = "none";
+  raiz.setAttribute("aria-hidden", "true");
+  // Contenedor con más hijos directos (la rejilla de tarjetas): se vacía por trozos y luego se quita el resto.
+  let grande: Element = raiz;
+  raiz.querySelectorAll("*").forEach((el) => { if (el.childElementCount > grande.childElementCount) grande = el; });
+  const paso = () => {
+    const fin = performance.now() + 8;
+    while (grande.lastElementChild && performance.now() < fin) {
+      for (let i = 0; i < 40 && grande.lastElementChild; i++) grande.lastElementChild.remove();
+    }
+    if (grande.childElementCount > 0) setTimeout(paso, 0);
+    else raiz.remove();
+  };
+  paso();
+}
 const esPrerender = !!(window as unknown as { __PRERENDER__?: boolean }).__PRERENDER__;
 const prerender = rootEl.innerHTML.trim().length > 200 && !esPrerender && !/[?&]sinswap\b/.test(location.search);
 let destino = rootEl;
@@ -53,7 +71,10 @@ if (prerender) {
   let hecho = false;
   const intercambiar = () => {
     if (hecho) return; hecho = true; obs.disconnect(); clearTimeout(t);
-    rootEl.remove();
+    // 31/10/2026 (velocidad): en páginas con HTML enorme (/fichas-tecnicas/: miles de nodos) quitar #root de golpe
+    // era una tarea de ~1 s (TBT). Se oculta y se desmonta por trozos en reposo; en el resto, como siempre.
+    if (rootEl.getElementsByTagName("*").length > 3000) retirarPorTrozos(rootEl);
+    else rootEl.remove();
     destino.removeAttribute("aria-hidden"); destino.removeAttribute("style"); destino.id = "root";
   };
   const listo = () => (destino.textContent ?? "").replace(/\s+/g, "").length >= objetivo;

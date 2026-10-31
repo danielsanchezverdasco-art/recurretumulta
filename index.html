@@ -36,6 +36,12 @@
       if (!t || t.tagName !== "IMG") return;
       if (window.__PRERENDER__) return; // 31/10/2026: en el prerender NO se hornea el fallback OG (parpadeo de imagen al cargar)
       var s = t.getAttribute("src") || "";
+      // 31/10/2026: las imágenes del hero de la portada (hj-*) NUNCA caen al logo OG (salía una caja blanca con el logo
+      // encima del H1): si falla una variante del srcset se reintenta con el src base y, si falla, se deja tal cual.
+      if (/(^|\s)hj-/.test(t.className || "")) {
+        if (t.getAttribute("srcset")) { t.removeAttribute("srcset"); t.removeAttribute("sizes"); t.src = s; }
+        return;
+      }
       if (s.indexOf("/media/") < 0 || s.indexOf("/media/og-") >= 0 || t.dataset.fb === "og") return;
       // 24/10/2026: si falla una variante -480w/-828w del srcset, primero se reintenta con el src base.
       if (!t.dataset.fbVar && t.getAttribute("srcset") && /-(480|828)w\.webp/.test(t.currentSrc || "")) {
