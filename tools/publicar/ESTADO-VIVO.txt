@@ -2,8 +2,8 @@
 # deploy_id        = deploy publicado en Netlify (tu ROLLBACK en la siguiente subida)
 # commit_codigo    = commit de git del que salió ese deploy (base para rev3, no-tocar, títulos)
 # redirects_sha1   = sha1 del _redirects en vivo (la copia está en tools/publicar/redirects-vivo.txt)
-deploy_id=6ae1bcc3c48834aace39500b
-deploy_anterior=6ae178ea98b86aa55cdf386c
-commit_codigo=864f848462d263845f5f29d7bc225405c00e8963
-redirects_sha1=1b2f6a0e059ae758e666d749e0fe9bb17797a965
-publicado=2026-10-28 10:15 Madrid (Cosa, rama radar-integ-2810, subida parcial --solo de 103 rutas)
+deploy_id=6ae6345726474962ee611953
+deploy_anterior=6ae1bcc3c48834aace39500b
+commit_codigo=4bfad5b85ad1884349bc335ca348a4c9b8449a16
+redirects_sha1=745db003c67d4f5deb25d8e0ac9989b319fd3b4c
+publicado=2026-10-31 20:42 (Merlín con publicar.py; sí de Daniel: 31/10 13:07 (llamada) Daniel autoriza a Cosa una subida tras pasar todas las comprobaciones)
