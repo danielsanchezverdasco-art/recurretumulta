@@ -10,7 +10,7 @@ export const createPendingPayment = internalMutation({
   args: {
     userId: v.id("users"),
     stripeSessionId: v.string(),
-    producto: v.union(v.literal("pdf_unico"), v.literal("pdf_pack_10"), v.literal("vip_vitalicio")),
+    producto: v.union(v.literal("pdf_unico"), v.literal("pdf_pack_10"), v.literal("vip_vitalicio"), v.literal("suscripcion_anual")),
     importe: v.number(),
     recursoId: v.optional(v.id("recursos")),
   },
@@ -67,8 +67,8 @@ export const createPendingPaymentSinRegistro = internalMutation({
   handler: async (ctx, args): Promise<void> => {
     await ctx.db.insert("payments", {
       stripeSessionId: args.stripeSessionId,
-      producto: "pdf_unico",
-      importe: 499,
+      producto: "suscripcion_anual",
+      importe: 799,
       status: "pending",
       createdAt: new Date().toISOString(),
       sinRegistro: true,
@@ -93,8 +93,8 @@ export const createPendingPaymentSinRegistro = internalMutation({
         stripeSessionId: args.stripeSessionId,
         to: args.email,
         nombre: args.nombre,
-        producto: "pdf_unico",
-        importe: 499,
+        producto: "suscripcion_anual",
+        importe: 799,
       },
     );
   },

@@ -38,6 +38,7 @@ function viabilidadBar(pct: number, color: string): string {
 }
 
 function productoLabel(producto: string): string {
+  if (producto === "suscripcion_anual") return "Asistente de multas (suscripción anual) — 7,99 €/año";
   if (producto === "pdf_unico") return "PDF de recurso (1 multa) — 4,99€";
   if (producto === "pdf_pack_10") return "Pack 10 recursos PDF — 9,99€";
   if (producto === "vip_vitalicio") return "Acceso VIP vitalicio — 14,99€";
@@ -219,7 +220,7 @@ export const sendAbandonoCarrito = internalAction({
     stripeSessionId: v.string(),
     to: v.string(),
     nombre: v.optional(v.string()),
-    producto: v.union(v.literal("pdf_unico"), v.literal("pdf_pack_10"), v.literal("vip_vitalicio")),
+    producto: v.union(v.literal("pdf_unico"), v.literal("pdf_pack_10"), v.literal("vip_vitalicio"), v.literal("suscripcion_anual")),
     importe: v.number(),
   },
   handler: async (ctx, args) => {

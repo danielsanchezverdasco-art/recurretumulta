@@ -43,7 +43,7 @@ export default defineSchema({
     // Opcional: en el flujo sin registro no hay usuario
     userId: v.optional(v.id("users")),
     stripeSessionId: v.string(),
-    producto: v.union(v.literal("pdf_unico"), v.literal("pdf_pack_10"), v.literal("vip_vitalicio")),
+    producto: v.union(v.literal("pdf_unico"), v.literal("pdf_pack_10"), v.literal("vip_vitalicio"), v.literal("suscripcion_anual")),
     importe: v.number(),
     status: v.union(v.literal("pending"), v.literal("completed"), v.literal("failed")),
     createdAt: v.string(),

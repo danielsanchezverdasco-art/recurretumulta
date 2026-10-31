@@ -11,7 +11,9 @@ import { requireUser } from "./authSimple";
 const getStripe = () =>
   new Stripe(process.env.STRIPE_SECRET_KEY!, { apiVersion: "2026-08-26.dahlia" });
 
-// ── Crear sesión de checkout SIN REGISTRO (4,99€) ─────────────────────────────
+// ── Crear sesión de checkout SIN REGISTRO: SUSCRIPCIÓN ANUAL 7,99 € ───────────
+// 31/10/2026 (rama suscripcion-multas-mvp): se elimina el pago suelto por PDF.
+// El análisis sigue gratis; el PDF solo se entrega con la suscripción anual.
 // Flujo: analizar gratis sin cuenta → al pagar se piden nombre, DNI, domicilio
 // y email → tras el pago el PDF se envía por email (webhook → sendRecursoPdfEmail).
 // No requiere sesión ni usuario.
@@ -42,13 +44,13 @@ export const createCheckoutSinRegistro = action({
     const origin = process.env.FRONTEND_URL ?? "https://recurretumulta.pages.dev";
 
     const session = await stripe.checkout.sessions.create({
-      mode: "payment",
-      line_items: [{ price: process.env.STRIPE_PRICE_PDF_UNICO!, quantity: 1 }],
+      mode: "subscription",
+      line_items: [{ price: process.env.STRIPE_PRICE_SUSCRIPCION_ANUAL!, quantity: 1 }],
       customer_email: email,
-      success_url: `${origin}/?pago=ok&producto=pdf_unico&session_id={CHECKOUT_SESSION_ID}`,
+      success_url: `${origin}/?pago=ok&producto=suscripcion_anual&session_id={CHECKOUT_SESSION_ID}`,
       cancel_url: `${origin}/?pago=cancelado`,
       metadata: {
-        producto: "pdf_unico",
+        producto: "suscripcion_anual",
         sinRegistro: "true",
         email,
       },

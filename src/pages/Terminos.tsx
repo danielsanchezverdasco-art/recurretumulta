@@ -56,7 +56,7 @@ export default function TerminosPage() {
             <h2 className="text-xl font-black text-gray-900">3. Precios y pagos</h2>
             <ul className="list-disc pl-5 space-y-1">
               <li><strong>Análisis con IA:</strong> Siempre gratuito. Incluye viabilidad %, defectos detectados y resumen.</li>
-              <li><strong>Recurso PDF único:</strong> 4,99 € por documento. Pago único, no recurrente.</li>
+              <li><strong>Asistente de multas (suscripción anual):</strong> 7,99 € al año, IVA incluido. Incluye vigilancia, avisos, análisis y los recursos en PDF del año. Se renueva cada año salvo que la canceles antes de la renovación. El análisis de una multa sigue siendo gratis.</li>
             </ul>
             <p>Los pagos se procesan de forma segura a través de Stripe. Emitimos factura por cada compra.</p>
           </section>
