@@ -199,7 +199,7 @@ const COCHES_LOTE12_A: CocheComparador[] = [
       url: null,
       nota: "5 estrellas EuroNCAP en la prueba de 2022.",
     },
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Verificado el 22/10/2026. Volkswagen Canarias (página oficial de mantenimiento de vehículos eléctricos) y Plan de Mantenimiento Volkswagen gama ID.: inspección a los dos años sin límite de kilómetros, incluyendo líquido de frenos y filtro interior.", "intervalo": "Cada 2 años como máximo, sin límite de kilómetros (plan oficial Volkswagen para los modelos ID.)", "revisiones": [{"costeAproxEur": null, "nombre": "Servicio de inspección bienal gama ID.", "queSeCambia": "Inspección completa del vehículo eléctrico con cambio del líquido de frenos y del filtro interior de habitáculo, según el plan oficial de Volkswagen para la gama ID."}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Volkswagen Canarias (página oficial de mantenimiento de vehículos eléctricos) y Plan de Mantenimiento Volkswagen gama ID.: inspección a los dos años sin límite de kilómetros, incluyendo líquido de frenos y filtro interior. Verificado el 22/10/2026.", "intervalo": "Cada 2 años como máximo, sin límite de kilómetros (plan oficial Volkswagen para los modelos ID.)", "revisiones": [{"costeAproxEur": null, "nombre": "Servicio de inspección bienal gama ID.", "queSeCambia": "Inspección completa del vehículo eléctrico con cambio del líquido de frenos y del filtro interior de habitáculo, según el plan oficial de Volkswagen para la gama ID."}]},
   },
   {
     id: "volkswagen-id7-gtx-2025-precio-ficha-tecnica",

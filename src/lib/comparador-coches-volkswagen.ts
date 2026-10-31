@@ -155,7 +155,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 1280
       }
     ],
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Verificado el 22/10/2026. Volkswagen Canarias (red oficial Volkswagen), página de mantenimiento de vehículos eléctricos: para los ID. europeos no hay distinción entre inspección pequeña y completa y la inspección toca tras dos años como máximo sin límite de kilómetros, incluyendo líquido de frenos y filtro interior.", "intervalo": "Cada 2 años como máximo, sin límite de kilómetros (plan de inspección Volkswagen para los modelos ID. en Europa)", "revisiones": [{"costeAproxEur": null, "nombre": "Inspección bienal de los modelos ID.", "queSeCambia": "Revisión de electrónica, motor eléctrico y carrocería, con sustitución del líquido de frenos y del filtro del habitáculo, según publica la red oficial de Volkswagen"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Volkswagen Canarias (red oficial Volkswagen), página de mantenimiento de vehículos eléctricos: para los ID. europeos no hay distinción entre inspección pequeña y completa y la inspección toca tras dos años como máximo sin límite de kilómetros, incluyendo líquido de frenos y filtro interior. Verificado el 22/10/2026.", "intervalo": "Cada 2 años como máximo, sin límite de kilómetros (plan de inspección Volkswagen para los modelos ID. en Europa)", "revisiones": [{"costeAproxEur": null, "nombre": "Inspección bienal de los modelos ID.", "queSeCambia": "Revisión de electrónica, motor eléctrico y carrocería, con sustitución del líquido de frenos y del filtro del habitáculo, según publica la red oficial de Volkswagen"}]},
   },
   {
     id: "volkswagen-id7-tourer-2026-precio-ficha-tecnica",
