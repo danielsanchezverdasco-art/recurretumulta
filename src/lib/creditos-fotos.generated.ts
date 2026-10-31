@@ -3389,5 +3389,15 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "CecilT77 · Wikimedia Commons",
 "licencia": "CC BY-SA 4.0",
 "url": "https://commons.wikimedia.org/wiki/File:2014_Zero_Motorcycles_Zero_S.JPG"
+},
+"/media/aprilia-rs-457-2025-ficha-tecnica-precio-hero.webp": {
+"autor": "NicoWmann · Wikimedia Commons",
+"licencia": "CC BY 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Aprilia_RS_457.jpg"
+},
+"/media/aprilia-rs-660-2026-ficha-tecnica-precio-hero.webp": {
+"autor": "Cjp24 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Aprilia_RS_660_(1).jpg"
 }
 };

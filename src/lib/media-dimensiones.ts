@@ -8809,4 +8809,6 @@ export const MEDIA_DIMENSIONS: Record<string, [number, number]> = {
   "ds-n7-nueva-generacion-salon-paris-2026-hero.webp": [1600, 1066],
   "jetour-g700-zongheng-hero.webp": [1600, 1200],
   "xiaomi-skynomad-lanzamiento-ventas-china-1705-km-hero.webp": [1600, 1200],
+  "aprilia-rs-457-2025-ficha-tecnica-precio-hero.webp": [1600, 1168],
+  "aprilia-rs-660-2026-ficha-tecnica-precio-hero.webp": [1600, 1152],
 };

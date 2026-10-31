@@ -4889,3 +4889,7 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/toyota-corolla-touring-sports-baja-precio-octubre-2026-hero.webp | https://commons.wikimedia.org/wiki/File:2023_Toyota_Corolla_Touring_Sports_Hybrid_(E210)_IMG_7679.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
 | /media/toyota-yaris-baja-precio-octubre-2026-hero.webp | https://commons.wikimedia.org/wiki/File:Toyota_GR_Yaris_RZ_1X7A0252.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
 | /media/zero-s-baja-precio-octubre-2026-hero.webp | https://commons.wikimedia.org/wiki/File:2014_Zero_Motorcycles_Zero_S.JPG | CecilT77 · Wikimedia Commons | CC BY-SA 4.0 |
+
+<!-- cosecha: caza-media-parte-02 — foto real verificada contra la imagen original de Wikimedia Commons (comparación visual) -->
+| /media/aprilia-rs-457-2025-ficha-tecnica-precio-hero.webp | https://commons.wikimedia.org/wiki/File:Aprilia_RS_457.jpg | NicoWmann · Wikimedia Commons | CC BY 4.0 |
+| /media/aprilia-rs-660-2026-ficha-tecnica-precio-hero.webp | https://commons.wikimedia.org/wiki/File:Aprilia_RS_660_(1).jpg | Cjp24 · Wikimedia Commons | CC BY-SA 4.0 |
