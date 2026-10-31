@@ -91,7 +91,7 @@ export const GARANTIAS_MARCAS: GarantiaMarca[] = [
   { marca: "Audi", categoria: "coches", anios: 3, km: null, nota: null, fuente: "https://sportsweek.org/es/auto-racing/news/407330139/" },
   { marca: "Baojun", categoria: "coches", anios: null, km: null, nota: "sin datos oficiales", fuente: null },
   { marca: "BAIC", categoria: "coches", anios: 5, km: 100000, nota: null, fuente: "https://autohebdosport.com/coches/noticias/el-baic-x75-aterriza-en-espana-como-una-opcion-competitiva-y-bien-equipada" },
-  { marca: "Bentley", categoria: "coches", anios: 3, km: null, nota: "3 años sin límite de km; asistencia en carretera incluida; ampliación opcional de 2 años", fuente: "https://www.bentleynewportbeach.com/warranty.htm" },
+  { marca: "Bentley", categoria: "coches", anios: 3, km: null, nota: "Tres años sin límite de km; asistencia en carretera incluida; ampliación opcional de 2 años", fuente: "https://www.bentleynewportbeach.com/warranty.htm" },
   { marca: "Bestune", categoria: "coches", anios: 5, km: null, nota: "5 años (60 meses) de garantía oficial según red de concesionarios", fuente: "https://www.coches.net/bestune-b70-15t-dct-exclusive-5p-gasolina-2025-en-girona-62337433-covo.aspx" },
   { marca: "BMW", categoria: "coches", anios: 3, km: null, nota: null, fuente: "https://sportsweek.org/es/auto-racing/news/407330139/" },
   { marca: "BYD", categoria: "coches", anios: 6, km: 150000, nota: "batería Blade 8 años/250.000 km; motor 8 años/150.000 km", fuente: "https://www.byd.com/es-es" },
