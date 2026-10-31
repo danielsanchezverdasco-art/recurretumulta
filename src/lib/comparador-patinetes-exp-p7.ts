@@ -62,52 +62,50 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     videoId: null,
     videoCanal: null,
     marca: "Segway",
-    modelo: "Ninebot E2 II",
-    precioEur: null, // sin tarifa oficial publicada en ningún mercado (verificado 20/10/2026)
+    modelo: "Ninebot E2 E II",
+    precioEur: 279,
     potenciaNominalW: 250,
     potenciaPicoW: 450,
     autonomiaKm: 25,
     autonomiaRealKm: null,
     velocidadMaxKmh: 20,
-    pesoKg: 16.2,
+    pesoKg: 14.2,
     cargaMaxKg: 90,
     tiempoCargaH: 7.5,
     bateriaWh: 220,
     frenos: "Freno electrónico delantero + freno de tambor trasero",
-    neumaticos: 'Neumáticos huecos de 8,1" (sin mantenimiento)',
+    neumaticos: "Neumáticos huecos de 8,1\" sin mantenimiento",
     certificadoDgt: null,
-    foto: "/media/patinetes/segway-ninebot-e2-ii-1.webp",
-    galeria: [
-      {
-        src: "/media/patinetes/segway-ninebot-e2-ii-2.webp",
-        alt: "Detalle del manillar del Segway Ninebot E2 II",
-        ancho: 1200,
-        alto: 800,
-      },
+    foto: "/media/patinetes/segway-ninebot-e2-ii-e-oficial.webp",
+    galeria: [],
+    aprox: [
+      "pesoKg"
     ],
-    aprox: ["autonomiaKm"],
     pros: [
-      "Segunda generación del E2 con suspensión delantera de muelle, más cómodo que el original",
-      "Intermitentes integrados, un extra de seguridad poco común en la gama de entrada",
-      "Neumáticos huecos de 8,1\": cero pinchazos y cero mantenimiento",
-      "Batería de 220 Wh con 25 km declarados para un uso urbano básico",
-      "App Segway-Ninebot con bloqueo, estadísticas y actualizaciones de firmware",
+      "279 € es el precio normal de la ficha de Segway España; el 31/10/2026 la tienda lo ofrecía a 229 €",
+      "Suspensión delantera de muelle con 27 mm de recorrido, según la web europea de Segway",
+      "Intermitentes delanteros y traseros integrados, más luz de freno trasera",
+      "Las ruedas son huecas, de 8,1 pulgadas: no hay pinchazos ni presión que revisar",
+      "Pantalla LED de 2,8 pulgadas, cuerpo IPX4 con batería IPX6 y tres modos de marcha más modo a pie"
     ],
     contras: [
-      "Velocidad máxima de 20 km/h en la versión europea (límite alemán)",
-      "Carga máxima de 90 kg, la más baja de la comparativa",
-      "Sin precio oficial confirmado en España",
-      "Carga lenta: 7,5 horas para 220 Wh",
-      "Neumáticos pequeños de 8,1\": en asfalto roto se nota",
+      "La autonomía de 25 km corresponde al modo Eco (15 km/h, 75 kg); rodando a 20 km/h en Sport Segway da 20 km",
+      "Solo admite 90 kg de conductor y su batería es de 220 Wh",
+      "Según la web europea de Segway, la carga completa tarda unas 7,5 horas",
+      "Discrepancia oficial de peso: la tienda de España indica 14,2 kg y la web europea de Segway 16 kg",
+      "Ninguna ficha oficial cita el certificado de la DGT: pídelo antes de pagar",
+      "En la tienda de España Segway-Ninebot lo aconseja desde los 14 años, y desde los 16 en su web europea",
+      "Por el RD 518/2026 el E2 E II requiere casco y haber cumplido los 15 años; las aceras están vetadas"
     ],
-    veredicto:
-      "El E2 II es el Segway de entrada renovado: suspensión delantera e intermitentes por poco dinero. Sus 20 km/h y 90 kg de carga lo orientan a usuarios ligeros y trayectos cortos. Si buscas el Segway más barato con lo esencial, cumple.",
-    fuenteNombre: "Manual oficial Segway-Ninebot (manuals.plus)",
-    fuenteUrl: "https://manuals.plus/m/e6f88eff7ce2d2c3dfc4e35a646aba26f4cae74e325e690658833b6966240571.pdf",
+    veredicto: "El E2 E II es el Segway de entrada con suspensión delantera e intermitentes: 279 €, 220 Wh y 20 km/h de velocidad máxima. Con 90 kg de carga máxima y 25 km declarados, está pensado para trayectos cortos y personas ligeras.",
+    fuenteNombre: "Segway-Ninebot España: ficha oficial del Ninebot E2 E II (279 €, 220 Wh, 25 km, 90 kg); potencia y tiempo de carga de la web europea de Segway",
+    fuenteUrl: "https://shop.segway.com/es_es/ninebot-kickscooter-e2-e-ii-powered-by-segway.html",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la, en concreto, app oficial Segway-Ninebot (a tener en cuenta) (iOS/Android)",
-      trucos: ["Los neumáticos huecos no se pinchan, pero revisa el desgaste: con 8,1\" se gastan antes"],
-    },
+      actualizacionFirmware: "A través de la app oficial Segway Mobility (iOS/Android)",
+      trucos: [
+        "Los neumáticos huecos no se pinchan, pero revisa el desgaste: con 8,1\" se gastan antes"
+      ]
+    }
   },
   {
     id: "segway-ninebot-gt3-pro-e",
