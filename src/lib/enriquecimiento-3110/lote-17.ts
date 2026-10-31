@@ -3,6 +3,8 @@ import type { MapaEnriquecimiento } from "./tipos";
 
 const P2 = "https://www.euroncap.com/assessments/polestar/2/0855/";
 
+const SRC1 = { fuente: "Euro NCAP, tabla de variantes del Polestar 2", url: P2, anio: "2021" };
+
 export const LOTE_17: MapaEnriquecimiento = {
   "polestar-2-precio-ficha-tecnica": {
     titulo: "Polestar 2: los cinco estrellas de Euro NCAP y qué cambió después",
@@ -15,8 +17,8 @@ export const LOTE_17: MapaEnriquecimiento = {
     filas: [
       { etiqueta: "Calificación global", valor: "Cinco estrellas; publicada el 3 de marzo de 2021", fuente: "Euro NCAP, ficha del Polestar 2", url: P2, anio: "2021" },
       { etiqueta: "Porcentajes por área", valor: "Adultos 93 %; niños 89 %; usuarios vulnerables 80 %; asistencias 83 %", fuente: "Euro NCAP, desglose del Polestar 2", url: P2, anio: "2021" },
-      { etiqueta: "Variante ensayada", valor: "Long Range de doble motor eléctrico, 4x4", fuente: "Euro NCAP, tabla de variantes del Polestar 2", url: P2, anio: "2021" },
-      { etiqueta: "Variantes cubiertas de un motor", valor: "Long Range y Standard Range de un solo motor eléctrico, ambas 4x2", fuente: "Euro NCAP, tabla de variantes del Polestar 2", url: P2, anio: "2021" },
+      { etiqueta: "Variante ensayada", valor: "Long Range de doble motor eléctrico, 4x4", ...SRC1 },
+      { etiqueta: "Variantes cubiertas de un motor", valor: "Long Range y Standard Range de un solo motor eléctrico, ambas 4x2", ...SRC1 },
       { etiqueta: "Revisiones de la ficha", valor: "22/02/2022: variante añadida; 23/05/2023: revisión anual", fuente: "Euro NCAP, historial del Polestar 2", url: P2, anio: "2023" },
       { etiqueta: "Detector de ángulo muerto", valor: "De serie en el lanzamiento; hoy dentro del Pilot Pack opcional y sin puntuar", fuente: "Euro NCAP, nota previa del Polestar 2", url: P2, anio: "2021" },
     ],

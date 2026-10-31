@@ -3,6 +3,8 @@ import type { MapaEnriquecimiento } from "./tipos";
 
 const NCT = "https://www.euroncap.com/assessments/volkswagen/tiguan/1033/";
 
+const SRC1 = { fuente: "Euro NCAP, veredicto del Volkswagen Tiguan", url: NCT, anio: "2024" };
+
 export const LOTE_11: MapaEnriquecimiento = {
   "volkswagen-tiguan-20-tsi-2026-precio-ficha-tecnica": {
     titulo: "Tiguan: resultados detallados de la prueba Euro NCAP de 2024",
@@ -16,8 +18,8 @@ export const LOTE_11: MapaEnriquecimiento = {
       { etiqueta: "Euro NCAP (5 estrellas)", valor: "Adultos 83 %; niños 88 %; usuarios vulnerables 84 %; asistencias 78 %", fuente: "Euro NCAP, evaluación del Volkswagen Tiguan 2024", url: NCT, anio: "2024" },
       { etiqueta: "Fecha de publicación", valor: "29 de mayo de 2024", fuente: "Euro NCAP, ficha del Tiguan: historial de revisiones", url: NCT, anio: "2024" },
       { etiqueta: "Variante ensayada y cobertura", valor: "2.0 TDI 4x2 ensayado; vale también para 1.5 eTSI, 1.5 eHybrid, 2.0 TDI 4Motion y 2.0 TFSI 4x4", fuente: "Euro NCAP, ficha del Tiguan: variantes cubiertas", url: NCT, anio: "2024" },
-      { etiqueta: "Puntos fuertes", valor: "Niños con máxima puntuación; airbag central entre asientos delanteros; frenado automático casi perfecto ante ciclistas", fuente: "Euro NCAP, veredicto del Volkswagen Tiguan", url: NCT, anio: "2024" },
-      { etiqueta: "Puntos mejorables", valor: "Pelvis trasera con «submarining» (pobre); pecho trasero marginal; desgarro de 30 mm en el airbag de cortina", fuente: "Euro NCAP, veredicto del Volkswagen Tiguan", url: NCT, anio: "2024" },
+      { etiqueta: "Puntos fuertes", valor: "Niños con máxima puntuación; airbag central entre asientos delanteros; frenado automático casi perfecto ante ciclistas", ...SRC1 },
+      { etiqueta: "Puntos mejorables", valor: "Pelvis trasera con «submarining» (pobre); pecho trasero marginal; desgarro de 30 mm en el airbag de cortina", ...SRC1 },
     ],
   },
 };

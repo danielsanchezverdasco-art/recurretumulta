@@ -5,6 +5,12 @@ const BRO = "https://e-brochure.dacia.pt/jogger/mobile/m_ebro_dacia_jogger_pt_no
 const MOT = "https://www.dacia.es/modelos/jogger/motores.html";
 const FT = "https://www.dacia.es/modelos/jogger/ficha-tecnica.html";
 
+const SRC1 = { fuente: "Dacia Portugal, folleto Jogger Eco-G 120, tabla de motorizaciones", url: BRO, anio: "2025" };
+const SRC2 = { fuente: "Dacia Portugal, folleto Jogger Eco-G 120, apartado de consumos", url: BRO, anio: "2025" };
+const SRC3 = { fuente: "Dacia Portugal, folleto Jogger Hybrid 155, apartado de pesos", url: BRO, anio: "2025" };
+const SRC4 = { fuente: "Dacia Portugal, folleto Jogger de 7 plazas, tabla de volúmenes de carga", url: BRO, anio: "2025" };
+const SRC5 = { fuente: "Dacia Portugal, folleto Jogger de 7 plazas, tabla de pesos", url: BRO, anio: "2025" };
+
 export const LOTE_09: MapaEnriquecimiento = {
   "dacia-jogger-eco-g-120-2026-precio-ficha-tecnica": {
     titulo: "Jogger Eco-G 120: motor, depósitos y homologación según Dacia",
@@ -14,11 +20,11 @@ export const LOTE_09: MapaEnriquecimiento = {
       "En la versión de cinco plazas con cambio manual, el sprint hasta 100 km/h lleva 10,9 s en modo GLP y 11,9 s en gasolina, y la elasticidad en cuarta entre 80 y 120 km/h es de 8,1 s y 9,1 s respectivamente. La tara va de 1.292 a 1.312 kg, y un remolque con frenos puede pesar hasta 1.200 kg.",
     ],
     filas: [
-      { etiqueta: "Motor con GLP", valor: "1.199 cm³, 3 cilindros; 90 kW (≈122 CV); 197 Nm de 1.750 a 3.750 rpm", fuente: "Dacia Portugal, folleto Jogger Eco-G 120, tabla de motorizaciones", url: BRO, anio: "2025" },
-      { etiqueta: "Motor con gasolina", valor: "84 kW (≈114 CV); 190 Nm de 2.000 a 4.000 rpm", fuente: "Dacia Portugal, folleto Jogger Eco-G 120, tabla de motorizaciones", url: BRO, anio: "2025" },
-      { etiqueta: "Consumo y CO₂ (GLP)", valor: "7,4 litros cada 100 km y 121 g de CO₂ por km (WLTP, manual)", fuente: "Dacia Portugal, folleto Jogger Eco-G 120, apartado de consumos", url: BRO, anio: "2025" },
-      { etiqueta: "Consumo y CO₂ (gasolina)", valor: "5,9 litros cada 100 km y 134 g de CO₂ por km (WLTP, manual)", fuente: "Dacia Portugal, folleto Jogger Eco-G 120, apartado de consumos", url: BRO, anio: "2025" },
-      { etiqueta: "Depósitos", valor: "Gasolina 50 l; GLP 50 l totales y 40 l de llenado", fuente: "Dacia Portugal, folleto Jogger Eco-G 120, apartado de consumos", url: BRO, anio: "2025" },
+      { etiqueta: "Motor con GLP", valor: "1.199 cm³, 3 cilindros; 90 kW (≈122 CV); 197 Nm de 1.750 a 3.750 rpm", ...SRC1 },
+      { etiqueta: "Motor con gasolina", valor: "84 kW (≈114 CV); 190 Nm de 2.000 a 4.000 rpm", ...SRC1 },
+      { etiqueta: "Consumo y CO₂ (GLP)", valor: "7,4 litros cada 100 km y 121 g de CO₂ por km (WLTP, manual)", ...SRC2 },
+      { etiqueta: "Consumo y CO₂ (gasolina)", valor: "5,9 litros cada 100 km y 134 g de CO₂ por km (WLTP, manual)", ...SRC2 },
+      { etiqueta: "Depósitos", valor: "Gasolina 50 l; GLP 50 l totales y 40 l de llenado", ...SRC2 },
       { etiqueta: "Autonomía anunciada", valor: "Más de 1.400 km combinados", fuente: "Dacia España, página de motores del Jogger", url: MOT, anio: "2025" },
       { etiqueta: "Aceleración hasta 100 km/h (5 plazas, manual)", valor: "10,9 s con GLP; 11,9 s con gasolina", fuente: "Dacia Portugal, folleto Jogger Eco-G 120, apartado de prestaciones", url: BRO, anio: "2025" },
       { etiqueta: "Masa remolcable frenada (Eco-G 120)", valor: "1.200 kg", fuente: "Dacia Portugal, folleto Jogger Eco-G 120, apartado de pesos", url: BRO, anio: "2025" },
@@ -38,8 +44,8 @@ export const LOTE_09: MapaEnriquecimiento = {
       { etiqueta: "Batería de tracción", valor: "Iones de litio, 230 V, 1,4 kWh", fuente: "Dacia Portugal, folleto Jogger Hybrid 155, apartado de batería", url: BRO, anio: "2025" },
       { etiqueta: "Consumo y CO₂", valor: "4,6 litros cada 100 km y 104 g de CO₂ por km (WLTP)", fuente: "Dacia Portugal, folleto Jogger Hybrid 155, apartado de consumos", url: BRO, anio: "2025" },
       { etiqueta: "Aceleración hasta 100 km/h", valor: "8,9 s con 5 plazas; 9,0 s con 7 plazas", fuente: "Dacia Portugal, folleto Jogger Hybrid 155, apartado de prestaciones", url: BRO, anio: "2025" },
-      { etiqueta: "Tara del Hybrid 155", valor: "1.359–1.373 kg (5 plazas); 1.388–1.405 kg (7 plazas)", fuente: "Dacia Portugal, folleto Jogger Hybrid 155, apartado de pesos", url: BRO, anio: "2025" },
-      { etiqueta: "Masa remolcable frenada (Hybrid 155)", valor: "1.200 kg (5 plazas); 1.000 kg (7 plazas)", fuente: "Dacia Portugal, folleto Jogger Hybrid 155, apartado de pesos", url: BRO, anio: "2025" },
+      { etiqueta: "Tara del Hybrid 155", valor: "1.359–1.373 kg (5 plazas); 1.388–1.405 kg (7 plazas)", ...SRC3 },
+      { etiqueta: "Masa remolcable frenada (Hybrid 155)", valor: "1.200 kg (5 plazas); 1.000 kg (7 plazas)", ...SRC3 },
       { etiqueta: "Neumáticos y giro", valor: "205/60 R16 92H; 11,39 m entre aceras", fuente: "Dacia Portugal, folleto Jogger Hybrid 155, apartado de chasis", url: BRO, anio: "2025" },
     ],
   },
@@ -69,12 +75,12 @@ export const LOTE_09: MapaEnriquecimiento = {
       "El folleto anota además 3.055 kg de peso total rodante autorizado para esta variante. Es una cifra del folleto portugués que no hemos podido contrastar con el catálogo español, y las cifras españolas pueden variar algo.",
     ],
     filas: [
-      { etiqueta: "Maletero con 7 asientos", valor: "160 dm³ VDA (212 l) con 3 filas; 565 dm³ (699 l) con la 3.ª plegada; 696 dm³ (820 l) con la 3.ª desmontada", fuente: "Dacia Portugal, folleto Jogger de 7 plazas, tabla de volúmenes de carga", url: BRO, anio: "2025" },
-      { etiqueta: "Maletero máximo con 7 plazas", valor: "1.807 dm³ VDA (2.085 l)", fuente: "Dacia Portugal, folleto Jogger de 7 plazas, tabla de volúmenes de carga", url: BRO, anio: "2025" },
+      { etiqueta: "Maletero con 7 asientos", valor: "160 dm³ VDA (212 l) con 3 filas; 565 dm³ (699 l) con la 3.ª plegada; 696 dm³ (820 l) con la 3.ª desmontada", ...SRC4 },
+      { etiqueta: "Maletero máximo con 7 plazas", valor: "1.807 dm³ VDA (2.085 l)", ...SRC4 },
       { etiqueta: "Aceleración (7 plazas)", valor: "11,2 s hasta 100 km/h", fuente: "Dacia Portugal, folleto Jogger de 7 plazas, tabla de prestaciones", url: BRO, anio: "2025" },
-      { etiqueta: "Masa en vacío (TCe 110, 7 plazas)", valor: "1.221–1.261 kg", fuente: "Dacia Portugal, folleto Jogger de 7 plazas, tabla de pesos", url: BRO, anio: "2025" },
-      { etiqueta: "Peso total rodante autorizado", valor: "3.055 kg", fuente: "Dacia Portugal, folleto Jogger de 7 plazas, tabla de pesos", url: BRO, anio: "2025" },
-      { etiqueta: "Masa remolcable frenada (7 plazas)", valor: "1.200 kg", fuente: "Dacia Portugal, folleto Jogger de 7 plazas, tabla de pesos", url: BRO, anio: "2025" },
+      { etiqueta: "Masa en vacío (TCe 110, 7 plazas)", valor: "1.221–1.261 kg", ...SRC5 },
+      { etiqueta: "Peso total rodante autorizado", valor: "3.055 kg", ...SRC5 },
+      { etiqueta: "Masa remolcable frenada (7 plazas)", valor: "1.200 kg", ...SRC5 },
     ],
   },
 };

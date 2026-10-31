@@ -4,6 +4,8 @@ import type { MapaEnriquecimiento } from "./tipos";
 const DA_PDF = "https://media.dacia.com/wp-content/uploads/2025/04/b3e0c681657af5e1839ccc4fc06c962d.pdf";
 const FUENTE = "Dacia, características técnicas Bigster";
 
+const SRC1 = { fuente: FUENTE, url: DA_PDF, anio: "2025" };
+
 export const LOTE_04: MapaEnriquecimiento = {
   "dacia-bigster-2026-hybrid-155-precio-ficha-tecnica": {
     titulo: "Bigster hybrid 155: datos de la tabla técnica de Dacia (motor 1.8, batería y maletero)",
@@ -14,15 +16,15 @@ export const LOTE_04: MapaEnriquecimiento = {
       "Dacia fija 1.487 kg como masa máxima en vacío y 1.940 kg como masa autorizada, con 2.940 kg permitidos para el coche más un remolque. En el acabado más sencillo, la carga útil oscila entre 453 y 521 kg, y un remolque sin frenos puede pesar 745 kg. Respecto a la altura, la ficha de arriba recoge los 1.662 mm de carrocería desnuda que da Dacia, y 1.712 mm con barras longitudinales.",
     ],
     filas: [
-      { etiqueta: "Motor", valor: "1.793 cc, 4 cilindros, 16 válvulas, inyección directa; 115 kW (155 CV) combinados a 5.300 rpm; 172 Nm a 3.000 rpm", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Transmisión", valor: "Automática multimodo de 4+2 marchas; tracción delantera", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Batería", valor: "Iones de litio; 230 V; 1,4 kWh", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Prestaciones", valor: "0–100 km/h en 9,7 s; máxima de 180 km/h", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Consumo y CO₂", valor: "4,6–4,7 l/100 km; 104–105 g/km (WLTP); depósito 50 l", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Maletero bajo bandeja", valor: "546 dm³ VDA con kit antipinchazos (488 con repuesto); 612 l / 566 l ISO 3832", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Maletero abatido", valor: "1.851 dm³ VDA (1.791 con repuesto); 1.912 l / 1.866 l ISO 3832", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Pesos", valor: "Vacío máx. 1.487 kg; autorizado 1.940 kg; tren 2.940 kg; carga útil 453–521 kg; remolque sin frenos 745 kg", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Altura", valor: "1.662 mm sin barras; 1.712 mm con barras longitudinales", fuente: FUENTE, url: DA_PDF, anio: "2025" },
+      { etiqueta: "Motor", valor: "1.793 cc, 4 cilindros, 16 válvulas, inyección directa; 115 kW (155 CV) combinados a 5.300 rpm; 172 Nm a 3.000 rpm", ...SRC1 },
+      { etiqueta: "Transmisión", valor: "Automática multimodo de 4+2 marchas; tracción delantera", ...SRC1 },
+      { etiqueta: "Batería", valor: "Iones de litio; 230 V; 1,4 kWh", ...SRC1 },
+      { etiqueta: "Prestaciones", valor: "0–100 km/h en 9,7 s; máxima de 180 km/h", ...SRC1 },
+      { etiqueta: "Consumo y CO₂", valor: "4,6–4,7 l/100 km; 104–105 g/km (WLTP); depósito 50 l", ...SRC1 },
+      { etiqueta: "Maletero bajo bandeja", valor: "546 dm³ VDA con kit antipinchazos (488 con repuesto); 612 l / 566 l ISO 3832", ...SRC1 },
+      { etiqueta: "Maletero abatido", valor: "1.851 dm³ VDA (1.791 con repuesto); 1.912 l / 1.866 l ISO 3832", ...SRC1 },
+      { etiqueta: "Pesos", valor: "Vacío máx. 1.487 kg; autorizado 1.940 kg; tren 2.940 kg; carga útil 453–521 kg; remolque sin frenos 745 kg", ...SRC1 },
+      { etiqueta: "Altura", valor: "1.662 mm sin barras; 1.712 mm con barras longitudinales", ...SRC1 },
     ],
   },
   "dacia-bigster-2026-tce-140-precio-ficha-tecnica": {
@@ -34,14 +36,14 @@ export const LOTE_04: MapaEnriquecimiento = {
       "La misma tabla incluye una versión de GLP, el mild hybrid-G 140, con 1.478 kg de peso máximo en vacío, 609 dm³ de maletero y depósito doble de 50 litros de gasolina y de GLP. Dacia marcaba entonces sus cifras de consumo y de emisiones como «homologación en curso», y 0 a 100 km/h como pendiente de confirmar.",
     ],
     filas: [
-      { etiqueta: "Anchura interior", valor: "Codos 1.443 mm delante / 1.432 mm detrás; hombros 1.396 / 1.378 mm", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Espacio rodillas, 2.ª fila", valor: "243 mm; longitud interior 1.742 mm", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Frenos", valor: "Discos delanteros ventilados de 296 × 26 mm; trasero de tambor de 9 pulgadas (mano manual) o disco macizo de 280 mm (automático)", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Neumáticos", valor: "215/65 R17 (6,5 J), 215/60 R18 (6,5 J), 205/55 R19 (7 J)", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Normativa y equipo", valor: "E06X; filtro de partículas; Stop & Start; inyección directa", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Pesos autorizados", valor: "Autorizado 1.890 kg; coche más remolque 3.390 kg", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Ángulos a plena carga", valor: "Ataque 24°; ventral 21°; salida 25°; altura libre 194 mm", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Variante GLP en la misma tabla", valor: "mild hybrid-G 140: 1.478 kg en vacío; 609 dm³ de maletero; consumo y CO₂ en homologación", fuente: FUENTE, url: DA_PDF, anio: "2025" },
+      { etiqueta: "Anchura interior", valor: "Codos 1.443 mm delante / 1.432 mm detrás; hombros 1.396 / 1.378 mm", ...SRC1 },
+      { etiqueta: "Espacio rodillas, 2.ª fila", valor: "243 mm; longitud interior 1.742 mm", ...SRC1 },
+      { etiqueta: "Frenos", valor: "Discos delanteros ventilados de 296 × 26 mm; trasero de tambor de 9 pulgadas (mano manual) o disco macizo de 280 mm (automático)", ...SRC1 },
+      { etiqueta: "Neumáticos", valor: "215/65 R17 (6,5 J), 215/60 R18 (6,5 J), 205/55 R19 (7 J)", ...SRC1 },
+      { etiqueta: "Normativa y equipo", valor: "E06X; filtro de partículas; Stop & Start; inyección directa", ...SRC1 },
+      { etiqueta: "Pesos autorizados", valor: "Autorizado 1.890 kg; coche más remolque 3.390 kg", ...SRC1 },
+      { etiqueta: "Ángulos a plena carga", valor: "Ataque 24°; ventral 21°; salida 25°; altura libre 194 mm", ...SRC1 },
+      { etiqueta: "Variante GLP en la misma tabla", valor: "mild hybrid-G 140: 1.478 kg en vacío; 609 dm³ de maletero; consumo y CO₂ en homologación", ...SRC1 },
     ],
   },
   "dacia-bigster-tce-130-4x4-2025-precio-ficha-tecnica": {
@@ -53,16 +55,16 @@ export const LOTE_04: MapaEnriquecimiento = {
       "Su maletero baja a 550 dm³ VDA con kit de reparación y a 510 con rueda de repuesto, y a 1.853 o 1.813 dm³ abatido. En litros según ISO 3832 son 629 o 556 bajo la bandeja y 1.929 o 1.856 abatido. Es decir, la pérdida respecto al 4x2 de 140 CV, de 667 dm³, es de 117 dm³ por el eje trasero motriz.",
     ],
     filas: [
-      { etiqueta: "Motor", valor: "1.199 cc, 3 cilindros; 96 kW (130 CV) a 4.500 rpm; 230 Nm a 2.250 rpm; 48 V de 0,84 kWh; norma E06W", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Transmisión", valor: "Manual de 6 marchas; tracción total (4x4)", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Prestaciones", valor: "Tiempo de 0 a 100 km/h: 11,2 s; tope de 180 km/h", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Consumo y CO₂", valor: "6,0–6,1 l/100 km; 134–137 g/km (WLTP); depósito 55 l", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Altura libre", valor: "219 mm en vacío; 193 mm con carga máxima; elevación 785 mm", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Ángulos en vacío", valor: "Ataque 24,2°; salida 28,7°", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Ángulos con carga máxima", valor: "Ataque 23,9°; ventral 20,1°; salida 25,8°", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Altura total", valor: "1.657 mm sin barras; 1.706 mm con barras longitudinales", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Pesos", valor: "En vacío máx. 1.515 kg; MMA 1.970 kg; conjunto 3.470 kg; carga útil 455–542 kg; remolque sin freno 750 kg", fuente: FUENTE, url: DA_PDF, anio: "2025" },
-      { etiqueta: "Maletero", valor: "550 dm³ VDA (510 con repuesto); 1.853 / 1.813 dm³ abatido; 629 l / 556 l y 1.929 l / 1.856 l ISO 3832", fuente: FUENTE, url: DA_PDF, anio: "2025" },
+      { etiqueta: "Motor", valor: "1.199 cc, 3 cilindros; 96 kW (130 CV) a 4.500 rpm; 230 Nm a 2.250 rpm; 48 V de 0,84 kWh; norma E06W", ...SRC1 },
+      { etiqueta: "Transmisión", valor: "Manual de 6 marchas; tracción total (4x4)", ...SRC1 },
+      { etiqueta: "Prestaciones", valor: "Tiempo de 0 a 100 km/h: 11,2 s; tope de 180 km/h", ...SRC1 },
+      { etiqueta: "Consumo y CO₂", valor: "6,0–6,1 l/100 km; 134–137 g/km (WLTP); depósito 55 l", ...SRC1 },
+      { etiqueta: "Altura libre", valor: "219 mm en vacío; 193 mm con carga máxima; elevación 785 mm", ...SRC1 },
+      { etiqueta: "Ángulos en vacío", valor: "Ataque 24,2°; salida 28,7°", ...SRC1 },
+      { etiqueta: "Ángulos con carga máxima", valor: "Ataque 23,9°; ventral 20,1°; salida 25,8°", ...SRC1 },
+      { etiqueta: "Altura total", valor: "1.657 mm sin barras; 1.706 mm con barras longitudinales", ...SRC1 },
+      { etiqueta: "Pesos", valor: "En vacío máx. 1.515 kg; MMA 1.970 kg; conjunto 3.470 kg; carga útil 455–542 kg; remolque sin freno 750 kg", ...SRC1 },
+      { etiqueta: "Maletero", valor: "550 dm³ VDA (510 con repuesto); 1.853 / 1.813 dm³ abatido; 629 l / 556 l y 1.929 l / 1.856 l ISO 3832", ...SRC1 },
     ],
   },
 };

@@ -7,6 +7,10 @@ const F_EU = "Lexus Europa, especificaciones de la gama LC (coupé)";
 const F_EUC = "Lexus Europe, LC Series specifications, columna Convertible";
 const F_UK = "Lexus UK, dossier de prensa LC (febrero de 2024)";
 
+const SRC1 = { fuente: F_EU, url: LEX_EU, anio: "2020" };
+const SRC2 = { fuente: F_UK, url: LEX_UK, anio: "2024" };
+const SRC3 = { fuente: F_EUC, url: LEX_EU, anio: "2020" };
+
 export const LOTE_05: MapaEnriquecimiento = {
   "lexus-lc-500-2024-precio-ficha-tecnica": {
     titulo: "LC 500 coupé según Lexus: dos potencias oficiales, cotas interiores y homologación",
@@ -17,14 +21,14 @@ export const LOTE_05: MapaEnriquecimiento = {
       "Las cotas exteriores son 4.770 mm de largo, 1.345 mm de alto y 2.870 mm de batalla. La anchura es de 1.920 mm sin retrovisores y de 2.168 mm con ellos, y la vía es de 1.630 mm delante y 1.635 mm detrás. En el habitáculo, la altura efectiva sobre la cabeza es de 943,8 mm delante y 818,2 mm detrás, con 933,4 mm delante si lleva techo de fibra de carbono; el espacio para las piernas es de 1.066,9 mm y 825,7 mm. La altura libre mínima al suelo es de 133 mm y el coeficiente de arrastre de 0,33.",
     ],
     filas: [
-      { etiqueta: "Motor", valor: "V8 2UR-GSE de 4.969 cc, 32 válvulas, D-4S; compresión 12,3:1; gasolina de 98 octanos o más", fuente: F_EU, url: LEX_EU, anio: "2020" },
-      { etiqueta: "Potencia y par", valor: "351 kW (477 PS) y 540 Nm; con filtro de partículas, 341 kW (464 PS) y 530 Nm", fuente: F_EU, url: LEX_EU, anio: "2020" },
-      { etiqueta: "Potencia (UK)", valor: "457 bhp / 341 kW a 7.100 rpm; 530 Nm a 4.800 rpm", fuente: F_UK, url: LEX_UK, anio: "2024" },
-      { etiqueta: "Prestaciones", valor: "0–100 km/h en 4,7 s; 270 km/h (medidos por Toyota)", fuente: F_EU, url: LEX_EU, anio: "2020" },
-      { etiqueta: "Consumo y CO₂", valor: "WLTP 11,55 l/100 km y 262,31 g/km; NEDC 11,60 l/100 km y 265,30 g/km", fuente: F_EU, url: LEX_EU, anio: "2020" },
-      { etiqueta: "Dimensiones", valor: "4.770 × 1.920 (2.168 con retrovisores) × 1.345 mm; batalla 2.870 mm; Cd 0,33", fuente: F_UK, url: LEX_UK, anio: "2024" },
-      { etiqueta: "Masas, maletero y depósito", valor: "Vacío 1.930–1.965 kg; autorizada 2.375 kg; maletero 197 l VDA; depósito 82 l", fuente: F_EU, url: LEX_EU, anio: "2020" },
-      { etiqueta: "Altura efectiva a la cabeza", valor: "943,8 mm delante (933,4 con techo de carbono) y 818,2 mm detrás", fuente: F_EU, url: LEX_EU, anio: "2020" },
+      { etiqueta: "Motor", valor: "V8 2UR-GSE de 4.969 cc, 32 válvulas, D-4S; compresión 12,3:1; gasolina de 98 octanos o más", ...SRC1 },
+      { etiqueta: "Potencia y par", valor: "351 kW (477 PS) y 540 Nm; con filtro de partículas, 341 kW (464 PS) y 530 Nm", ...SRC1 },
+      { etiqueta: "Potencia (UK)", valor: "457 bhp / 341 kW a 7.100 rpm; 530 Nm a 4.800 rpm", ...SRC2 },
+      { etiqueta: "Prestaciones", valor: "0–100 km/h en 4,7 s; 270 km/h (medidos por Toyota)", ...SRC1 },
+      { etiqueta: "Consumo y CO₂", valor: "WLTP 11,55 l/100 km y 262,31 g/km; NEDC 11,60 l/100 km y 265,30 g/km", ...SRC1 },
+      { etiqueta: "Dimensiones", valor: "4.770 × 1.920 (2.168 con retrovisores) × 1.345 mm; batalla 2.870 mm; Cd 0,33", ...SRC2 },
+      { etiqueta: "Masas, maletero y depósito", valor: "Vacío 1.930–1.965 kg; autorizada 2.375 kg; maletero 197 l VDA; depósito 82 l", ...SRC1 },
+      { etiqueta: "Altura efectiva a la cabeza", valor: "943,8 mm delante (933,4 con techo de carbono) y 818,2 mm detrás", ...SRC1 },
     ],
   },
   "lexus-lc-500-cabrio-2025-precio-ficha-tecnica": {
@@ -36,14 +40,14 @@ export const LOTE_05: MapaEnriquecimiento = {
       "Detrás se pierde sitio: la distancia entre filas es de 704 mm, frente a 850 mm en el coupé, y las plazas traseras ofrecen 712,2 mm para las piernas, frente a 825,7 mm. La altura efectiva delante es de 932,8 mm y detrás de 814,6 mm, con anchos de hombros de 1.438,6 mm y 1.172,4 mm. La hoja es de 2020 y el modelo ha cambiado desde entonces, así que conviene confirmar con el concesionario.",
     ],
     filas: [
-      { etiqueta: "Motor", valor: "V8 de 4.969 cc, igual que el coupé; 477 PS y 540 Nm, o 464 PS y 530 Nm con filtro de partículas", fuente: F_EUC, url: LEX_EU, anio: "2020" },
-      { etiqueta: "Prestaciones", valor: "0–100 km/h en 5,0 s; 270 km/h", fuente: F_EUC, url: LEX_EU, anio: "2020" },
-      { etiqueta: "Masas", valor: "Vacío 2.035–2.055 kg; autorizada 2.450 kg", fuente: F_EUC, url: LEX_EU, anio: "2020" },
-      { etiqueta: "Maletero y altura", valor: "149 l VDA; altura 1.350 mm; altura libre mínima 131 mm", fuente: F_EUC, url: LEX_EU, anio: "2020" },
-      { etiqueta: "Consumo y CO₂", valor: "WLTP 11,72 l/100 km y 275,17 g/km; NEDC 12,63 l/100 km y 288,32 g/km", fuente: F_EUC, url: LEX_EU, anio: "2020" },
-      { etiqueta: "Coeficiente de arrastre", valor: "0,33 con llantas fundidas; 0,34 con llantas forjadas", fuente: F_EUC, url: LEX_EU, anio: "2020" },
-      { etiqueta: "Espacio trasero", valor: "Piernas 712,2 mm; altura efectiva 814,6 mm; distancia entre filas 704 mm", fuente: F_EUC, url: LEX_EU, anio: "2020" },
-      { etiqueta: "Neumáticos", valor: "245/45 RF20 y 275/40 RF20 (de serie); 245/40 RF21 y 275/35 RF21 (opcional)", fuente: F_EUC, url: LEX_EU, anio: "2020" },
+      { etiqueta: "Motor", valor: "V8 de 4.969 cc, igual que el coupé; 477 PS y 540 Nm, o 464 PS y 530 Nm con filtro de partículas", ...SRC3 },
+      { etiqueta: "Prestaciones", valor: "0–100 km/h en 5,0 s; 270 km/h", ...SRC3 },
+      { etiqueta: "Masas", valor: "Vacío 2.035–2.055 kg; autorizada 2.450 kg", ...SRC3 },
+      { etiqueta: "Maletero y altura", valor: "149 l VDA; altura 1.350 mm; altura libre mínima 131 mm", ...SRC3 },
+      { etiqueta: "Consumo y CO₂", valor: "WLTP 11,72 l/100 km y 275,17 g/km; NEDC 12,63 l/100 km y 288,32 g/km", ...SRC3 },
+      { etiqueta: "Coeficiente de arrastre", valor: "0,33 con llantas fundidas; 0,34 con llantas forjadas", ...SRC3 },
+      { etiqueta: "Espacio trasero", valor: "Piernas 712,2 mm; altura efectiva 814,6 mm; distancia entre filas 704 mm", ...SRC3 },
+      { etiqueta: "Neumáticos", valor: "245/45 RF20 y 275/40 RF20 (de serie); 245/40 RF21 y 275/35 RF21 (opcional)", ...SRC3 },
     ],
   },
 };

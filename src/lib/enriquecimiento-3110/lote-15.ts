@@ -4,6 +4,9 @@ import type { MapaEnriquecimiento } from "./tipos";
 const SUP = "https://www.euroncap.com/assessments/skoda/superb/1022/";
 const MG3 = "https://www.euroncap.com/assessments/mg/3/1057/";
 
+const SRC1 = { fuente: "Euro NCAP, descripción de asistencias", url: SUP, anio: "2024" };
+const SRC2 = { fuente: "Euro NCAP, descripción de ocupantes adultos del MG 3", url: MG3, anio: "2025" };
+
 export const LOTE_15: MapaEnriquecimiento = {
   "skoda-superb-20-tdi-2026-precio-ficha-tecnica": {
     titulo: "Superb TDI: cómo se comportó en los choques de Euro NCAP",
@@ -46,8 +49,8 @@ export const LOTE_15: MapaEnriquecimiento = {
       { etiqueta: "Asistencias a la seguridad", valor: "80 % de la puntuación posible", fuente: "Euro NCAP, apartado de asistencias del Škoda Superb", url: SUP, anio: "2024" },
       { etiqueta: "Fecha de la calificación", valor: "10 de julio de 2024, cinco estrellas", fuente: "Euro NCAP, revisiones anuales del Superb", url: SUP, anio: "2024" },
       { etiqueta: "Híbrido enchufable en la evaluación", valor: "1.5 TSI iV con tracción delantera, listado en dos carrocerías", fuente: "Euro NCAP, renglón del PHEV en el listado del Superb", url: SUP, anio: "2024" },
-      { etiqueta: "Vigilancia del conductor", valor: "Indirecta, de serie; detecta fatiga", fuente: "Euro NCAP, descripción de asistencias", url: SUP, anio: "2024" },
-      { etiqueta: "Aviso de cinturón", valor: "De serie en plazas delanteras y traseras", fuente: "Euro NCAP, descripción de asistencias", url: SUP, anio: "2024" },
+      { etiqueta: "Vigilancia del conductor", valor: "Indirecta, de serie; detecta fatiga", ...SRC1 },
+      { etiqueta: "Aviso de cinturón", valor: "De serie en plazas delanteras y traseras", ...SRC1 },
     ],
   },
   "mg3-gasolina-2025-precio-ficha-tecnica": {
@@ -61,8 +64,8 @@ export const LOTE_15: MapaEnriquecimiento = {
       { etiqueta: "Protección de adultos", valor: "74 % de la puntuación posible; cuatro estrellas globales", fuente: "Euro NCAP, apartado de ocupantes adultos del MG 3", url: MG3, anio: "2025" },
       { etiqueta: "Fecha de publicación", valor: "10 de septiembre de 2025", fuente: "Euro NCAP, historial de la ficha del MG 3", url: MG3, anio: "2025" },
       { etiqueta: "Variante ensayada", valor: "1.5 híbrido GS62 H (MG 3 Hybrid), 4x2; la tabla lista también el 1.5 de gasolina GS62", fuente: "Euro NCAP, tabla de variantes del MG 3", url: MG3, anio: "2025" },
-      { etiqueta: "Fallo en el choque frontal", valor: "Rotura del ajuste derecho del asiento del conductor; pierna derecha con protección pobre", fuente: "Euro NCAP, descripción de ocupantes adultos del MG 3", url: MG3, anio: "2025" },
-      { etiqueta: "Medida correctora", valor: "Asiento modificado en producción y retirada de los coches ya vendidos", fuente: "Euro NCAP, descripción de ocupantes adultos del MG 3", url: MG3, anio: "2025" },
+      { etiqueta: "Fallo en el choque frontal", valor: "Rotura del ajuste derecho del asiento del conductor; pierna derecha con protección pobre", ...SRC2 },
+      { etiqueta: "Medida correctora", valor: "Asiento modificado en producción y retirada de los coches ya vendidos", ...SRC2 },
     ],
   },
   "mg-3-2025-precio-ficha-tecnica": {

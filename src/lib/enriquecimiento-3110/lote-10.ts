@@ -5,6 +5,9 @@ const ST = "https://www.media.stellantis.com/uploads/pt/attachment/peugeot3008_t
 const NC3 = "https://www.euroncap.com/assessments/peugeot/3008/1141/";
 const NCS = "https://www.euroncap.com/assessments/suzuki/swift/1036/";
 
+const SRC1 = { fuente: "Stellantis Media, características técnicas del Peugeot 3008 (mayo 2025)", url: ST, anio: "2025" };
+const SRC2 = { fuente: "Euro NCAP, veredicto del Suzuki Swift", url: NCS, anio: "2024" };
+
 export const LOTE_10: MapaEnriquecimiento = {
   "peugeot-3008-hibrido-145-2026-precio-ficha-tecnica": {
     titulo: "3008 Hybrid 145: cifras de la ficha técnica de Stellantis y nota Euro NCAP",
@@ -15,8 +18,8 @@ export const LOTE_10: MapaEnriquecimiento = {
       "Euro NCAP evaluó el 3008 en 2025 y le dio cuatro estrellas, con estas notas: adultos 80 %, niños 85 %, peatones y ciclistas 79 %, y asistencias a la conducción 62 %. La nota se aplica a la variante Hybrid 145 e-DCS6, aunque el modelo ensayado fue el eléctrico de 73 kWh. El organismo valora que el habitáculo se mantuvo estable, que el airbag del acompañante se puede desconectar y que las protecciones de niños y de golpes laterales fueron muy buenas. Como puntos débiles, cita que el control del desplazamiento en impactos del lado contrario fue marginal, que no hay detección de niños olvidados y que los asientos traseros no tienen detector de ocupantes para el recordatorio del cinturón.",
     ],
     filas: [
-      { etiqueta: "Motor térmico", valor: "1.199 cm³, 3 cilindros, inyección directa; 100 kW (136 CV); 230 Nm desde 1.750 rpm; régimen de potencia máxima 5.500 rpm", fuente: "Stellantis Media, características técnicas del Peugeot 3008 (mayo 2025)", url: ST, anio: "2025" },
-      { etiqueta: "Motor eléctrico y batería", valor: "21 kW (28 CV), 51 Nm; batería de 48 V y 0,43 kWh útiles (12,1 kg); combinado 107 kW (145 CV)", fuente: "Stellantis Media, características técnicas del Peugeot 3008 (mayo 2025)", url: ST, anio: "2025" },
+      { etiqueta: "Motor térmico", valor: "1.199 cm³, 3 cilindros, inyección directa; 100 kW (136 CV); 230 Nm desde 1.750 rpm; régimen de potencia máxima 5.500 rpm", ...SRC1 },
+      { etiqueta: "Motor eléctrico y batería", valor: "21 kW (28 CV), 51 Nm; batería de 48 V y 0,43 kWh útiles (12,1 kg); combinado 107 kW (145 CV)", ...SRC1 },
       { etiqueta: "Prestaciones (solo conductor)", valor: "0–100 km/h en 10,2 s; 1.000 m en 32,5 s; 80–120 km/h en 6,9 s; 201 km/h", fuente: "Stellantis Media, tabla de prestaciones del 3008 Hybrid 145", url: ST, anio: "2025" },
       { etiqueta: "Consumo y emisiones WLTP", valor: "5,4–5,6 l/100 km; 123–126 g/km de CO₂", fuente: "Stellantis Media, tabla de consumos del 3008 Hybrid 145", url: ST, anio: "2025" },
       { etiqueta: "Pesos y remolque", valor: "En orden de marcha 1.648 kg; MMA 2.080 kg; remolque con frenos 1.000 kg (1.200 kg con gancho opcional)", fuente: "Stellantis Media, tabla de pesos del 3008 Hybrid 145", url: ST, anio: "2025" },
@@ -36,8 +39,8 @@ export const LOTE_10: MapaEnriquecimiento = {
       { etiqueta: "Euro NCAP (3 estrellas)", valor: "Adultos 67 %; niños 65 %; usuarios vulnerables 76 %; asistencias 62 %", fuente: "Euro NCAP, evaluación del Suzuki Swift 2024", url: NCS, anio: "2024" },
       { etiqueta: "Publicación de la nota", valor: "10 de julio de 2024", fuente: "Ficha del Swift en Euro NCAP: historial de revisiones", url: NCS, anio: "2024" },
       { etiqueta: "Variante ensayada", valor: "1.2 gasolina GL+ 4x2; la nota aplica también al 4x4 y a GL y GLX", fuente: "Euro NCAP, ficha del Swift: variantes cubiertas", url: NCS, anio: "2024" },
-      { etiqueta: "Fortalezas", valor: "Poste lateral con máxima puntuación; frenado automático con ciclistas bueno; asientos con buena protección contra latigazo", fuente: "Euro NCAP, veredicto del Suzuki Swift", url: NCS, anio: "2024" },
-      { etiqueta: "Puntos débiles", valor: "Pecho del conductor débil en el frontal; golpe del lado contrario pobre; sin detección de niños olvidados", fuente: "Euro NCAP, veredicto del Suzuki Swift", url: NCS, anio: "2024" },
+      { etiqueta: "Fortalezas", valor: "Poste lateral con máxima puntuación; frenado automático con ciclistas bueno; asientos con buena protección contra latigazo", ...SRC2 },
+      { etiqueta: "Puntos débiles", valor: "Pecho del conductor débil en el frontal; golpe del lado contrario pobre; sin detección de niños olvidados", ...SRC2 },
     ],
   },
 };

@@ -4,6 +4,9 @@ import type { MapaEnriquecimiento } from "./tipos";
 const RAF = "https://www.euroncap.com/assessments/renault/rafale/0943pm/";
 const GRA = "https://www.euroncap.com/assessments/opel-vauxhall/grandland/1196/";
 
+const SRC1 = { fuente: "Euro NCAP, tabla de variantes del Rafale", url: RAF, anio: "2024" };
+const SRC2 = { fuente: "Euro NCAP, tabla de variantes del Grandland", url: GRA, anio: "2025" };
+
 export const LOTE_16: MapaEnriquecimiento = {
   "renault-rafale-2024-precio-ficha-tecnica": {
     titulo: "Rafale: la evaluación de seguridad de Euro NCAP, punto por punto",
@@ -17,8 +20,8 @@ export const LOTE_16: MapaEnriquecimiento = {
       { etiqueta: "Calificación global", valor: "Cinco estrellas; protocolo de 2022; publicada el 10 de julio de 2024", fuente: "Ficha del Renault Rafale en Euro NCAP", url: RAF, anio: "2024" },
       { etiqueta: "Adultos y niños", valor: "Adultos 87 %; niños 83 %", fuente: "Euro NCAP, ocupantes del Renault Rafale", url: RAF, anio: "2024" },
       { etiqueta: "Peatones, ciclistas y asistencias", valor: "Usuarios vulnerables 69 %; asistencias 87 %", fuente: "Euro NCAP, apartados de usuarios vulnerables y asistencias del Rafale", url: RAF, anio: "2024" },
-      { etiqueta: "Variante ensayada", valor: "1.2 Tce E-Tech 200 híbrido, 4x2 (asterisco en la tabla)", fuente: "Euro NCAP, tabla de variantes del Rafale", url: RAF, anio: "2024" },
-      { etiqueta: "Variante cubierta", valor: "1.2 Tce E-Tech 230 híbrido enchufable, 4x4", fuente: "Euro NCAP, tabla de variantes del Rafale", url: RAF, anio: "2024" },
+      { etiqueta: "Variante ensayada", valor: "1.2 Tce E-Tech 200 híbrido, 4x2 (asterisco en la tabla)", ...SRC1 },
+      { etiqueta: "Variante cubierta", valor: "1.2 Tce E-Tech 230 híbrido enchufable, 4x4", ...SRC1 },
       { etiqueta: "Pecho del conductor", valor: "Marginal en el frontal desplazado y en el poste lateral", fuente: "Euro NCAP, descripción de ocupantes adultos del Rafale", url: RAF, anio: "2024" },
       { etiqueta: "Plaza trasera central", valor: "El manual excluye las sillas infantiles universales", fuente: "Euro NCAP, descripción de ocupantes infantiles del Rafale", url: RAF, anio: "2024" },
     ],
@@ -35,8 +38,8 @@ export const LOTE_16: MapaEnriquecimiento = {
       { etiqueta: "Calificación y fecha", valor: "Cuatro estrellas; publicada el 21 de mayo de 2025", fuente: "Euro NCAP, ficha del Opel/Vauxhall Grandland", url: GRA, anio: "2025" },
       { etiqueta: "Porcentajes por área", valor: "80 % para adultos, 85 % para niños, 79 % para peatones y ciclistas, 62 % para asistencias", fuente: "Euro NCAP, desglose del Grandland", url: GRA, anio: "2025" },
       { etiqueta: "Modelo base de la nota", valor: "Peugeot 3008, gemelo corporativo con equipamiento de seguridad idéntico", fuente: "Euro NCAP, texto introductorio del Grandland", url: GRA, anio: "2025" },
-      { etiqueta: "Variante ensayada", valor: "Plug-in Hybrid 195 e-DSC7, 4x2", fuente: "Euro NCAP, tabla de variantes del Grandland", url: GRA, anio: "2025" },
-      { etiqueta: "Otras variantes cubiertas", valor: "Hybrid 145 e-DSC6; Electric 73 kWh 325 (4x4); Electric 97 kWh 230; Electric 73 kWh 210", fuente: "Euro NCAP, tabla de variantes del Grandland", url: GRA, anio: "2025" },
+      { etiqueta: "Variante ensayada", valor: "Plug-in Hybrid 195 e-DSC7, 4x2", ...SRC2 },
+      { etiqueta: "Otras variantes cubiertas", valor: "Hybrid 145 e-DSC6; Electric 73 kWh 325 (4x4); Electric 97 kWh 230; Electric 73 kWh 210", ...SRC2 },
       { etiqueta: "Airbag entre ocupantes delanteros", valor: "No disponible; contención lateral marginal", fuente: "Euro NCAP, descripción de ocupantes adultos del Grandland", url: GRA, anio: "2025" },
     ],
   },

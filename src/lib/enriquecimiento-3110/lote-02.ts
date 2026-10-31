@@ -8,6 +8,10 @@ const DA_PDF = "https://media.dacia.com/wp-content/uploads/2025/04/b3e0c681657af
 const NC_BIG = "https://www.euroncap.com/assessments/dacia/bigster/1144/";
 const NC_BIG_N = "https://news.euroncap.com/images/dacia-bigster---euro-ncap-2024-results---3-stars/s/b34fb983-368d-41ed-84fa-1e49ed6ddae9";
 
+const SRC1 = { fuente: "Renault UK, especificaciones", url: RN_UK, anio: "2025" };
+const SRC2 = { fuente: "Euro NCAP, Renault Austral", url: NC_AUS, anio: "2022" };
+const SRC3 = { fuente: "Dacia, características técnicas Bigster", url: DA_PDF, anio: "2025" };
+
 export const LOTE_02: MapaEnriquecimiento = {
   "renault-austral-2024-precio-ficha-tecnica": {
     titulo: "Datos del Austral E-Tech con fuente: medidas, maletero y ensayo de seguridad",
@@ -20,13 +24,13 @@ export const LOTE_02: MapaEnriquecimiento = {
     ],
     filas: [
       { etiqueta: "Motor", valor: "1.2 turbo de 3 cilindros (1.199 cc) + 2 motores eléctricos; 146 kW (200 CV); 205 Nm; caja automática", fuente: "Renault UK, especificaciones Austral full hybrid E-Tech 200", url: RN_UK, anio: "2025" },
-      { etiqueta: "Dimensiones", valor: "4.533 × 1.843 × 1.621 mm; batalla 2.667 mm; altura libre 180 mm", fuente: "Renault UK, especificaciones", url: RN_UK, anio: "2025" },
-      { etiqueta: "Maletero", valor: "527–657 l (mínimo) y 1.525 l (máximo)", fuente: "Renault UK, especificaciones", url: RN_UK, anio: "2025" },
-      { etiqueta: "Pesos", valor: "En vacío 1.543 kg; MMA 2.090 kg; carga útil 529 kg; conjunto 3.690 kg", fuente: "Renault UK, especificaciones", url: RN_UK, anio: "2025" },
-      { etiqueta: "Remolque", valor: "1.500 kg con freno; 750 kg sin freno", fuente: "Renault UK, especificaciones", url: RN_UK, anio: "2025" },
-      { etiqueta: "Depósito y giro", valor: "55 l; 11,4 m entre aceras", fuente: "Renault UK, especificaciones", url: RN_UK, anio: "2025" },
-      { etiqueta: "Euro NCAP", valor: "Adulto 88 %, niño 83 %, vulnerables 69 %, asistencias 87 %; ensayado con 1.3 TCe de 1.502 kg", fuente: "Euro NCAP, Renault Austral", url: NC_AUS, anio: "2022" },
-      { etiqueta: "Euro NCAP, desglose", valor: "Frontal 13,3/16; lateral 16/16; trasero 3,3/4; rescate 1/2", fuente: "Euro NCAP, Renault Austral", url: NC_AUS, anio: "2022" },
+      { etiqueta: "Dimensiones", valor: "4.533 × 1.843 × 1.621 mm; batalla 2.667 mm; altura libre 180 mm", ...SRC1 },
+      { etiqueta: "Maletero", valor: "527–657 l (mínimo) y 1.525 l (máximo)", ...SRC1 },
+      { etiqueta: "Pesos", valor: "En vacío 1.543 kg; MMA 2.090 kg; carga útil 529 kg; conjunto 3.690 kg", ...SRC1 },
+      { etiqueta: "Remolque", valor: "1.500 kg con freno; 750 kg sin freno", ...SRC1 },
+      { etiqueta: "Depósito y giro", valor: "55 l; 11,4 m entre aceras", ...SRC1 },
+      { etiqueta: "Euro NCAP", valor: "Adulto 88 %, niño 83 %, vulnerables 69 %, asistencias 87 %; ensayado con 1.3 TCe de 1.502 kg", ...SRC2 },
+      { etiqueta: "Euro NCAP, desglose", valor: "Frontal 13,3/16; lateral 16/16; trasero 3,3/4; rescate 1/2", ...SRC2 },
       { etiqueta: "Euro NCAP, variantes cubiertas", valor: "E-Tech hybrid, 1.3 TCe 117 kW, 1.3 TCe 103 kW y 1.2 TCe 96 kW (4x2, volante a la izquierda)", fuente: "Euro NCAP, Renault Austral", url: NC_AUS, anio: "2023" },
     ],
   },
@@ -40,14 +44,14 @@ export const LOTE_02: MapaEnriquecimiento = {
       "El informe es duro con el pecho del conductor, valorado como «débil» en el choque frontal, y como «marginal» en el de ancho completo para conductor y pasajero trasero. La protección ante el lado contrario fue «pobre» porque el Bigster no lleva contramedida contra el choque cabeza con cabeza. Los niños obtuvieron 24 de 24 puntos en los ensayos, pero no hay detector de niños olvidados. En asistencias, el aviso de cinturón trasero no puntuó por falta de detección de ocupantes.",
     ],
     filas: [
-      { etiqueta: "Motor mild hybrid 140", valor: "1.199 cc, 3 cilindros, 103 kW (140 CV) a 5.500 rpm, 230 Nm a 2.100 rpm; caja manual de seis velocidades", fuente: "Dacia, características técnicas Bigster", url: DA_PDF, anio: "2025" },
-      { etiqueta: "Batería", valor: "Iones de litio; 48 V; 0,84 kWh de capacidad", fuente: "Dacia, características técnicas Bigster", url: DA_PDF, anio: "2025" },
-      { etiqueta: "Prestaciones", valor: "9,8 s hasta 100 km/h; punta de 180 km/h", fuente: "Dacia, características técnicas Bigster", url: DA_PDF, anio: "2025" },
-      { etiqueta: "Consumo y CO₂", valor: "5,4–5,5 l/100 km; 122–124 g/km (WLTP)", fuente: "Dacia, características técnicas Bigster", url: DA_PDF, anio: "2025" },
-      { etiqueta: "Dimensiones", valor: "4.570 × 1.813 × 1.662 mm (1.712 con barras); batalla 2.702 mm; altura libre 220 mm", fuente: "Dacia, características técnicas Bigster", url: DA_PDF, anio: "2025" },
-      { etiqueta: "Maletero", valor: "667 dm³ VDA (702 l ISO 3832) y 1.937 dm³ (2.002 l) abatido; con rueda de repuesto 624 y 1.894 dm³", fuente: "Dacia, características técnicas Bigster", url: DA_PDF, anio: "2025" },
-      { etiqueta: "Pesos", valor: "En vacío máximo 1.439 kg; carga útil 451–540 kg; remolque 1.500 kg con freno y 710 kg sin freno", fuente: "Dacia, características técnicas Bigster", url: DA_PDF, anio: "2025" },
-      { etiqueta: "Depósito y giro", valor: "50 l de gasolina; giro de 10,97 m entre aceras", fuente: "Dacia, características técnicas Bigster", url: DA_PDF, anio: "2025" },
+      { etiqueta: "Motor mild hybrid 140", valor: "1.199 cc, 3 cilindros, 103 kW (140 CV) a 5.500 rpm, 230 Nm a 2.100 rpm; caja manual de seis velocidades", ...SRC3 },
+      { etiqueta: "Batería", valor: "Iones de litio; 48 V; 0,84 kWh de capacidad", ...SRC3 },
+      { etiqueta: "Prestaciones", valor: "9,8 s hasta 100 km/h; punta de 180 km/h", ...SRC3 },
+      { etiqueta: "Consumo y CO₂", valor: "5,4–5,5 l/100 km; 122–124 g/km (WLTP)", ...SRC3 },
+      { etiqueta: "Dimensiones", valor: "4.570 × 1.813 × 1.662 mm (1.712 con barras); batalla 2.702 mm; altura libre 220 mm", ...SRC3 },
+      { etiqueta: "Maletero", valor: "667 dm³ VDA (702 l ISO 3832) y 1.937 dm³ (2.002 l) abatido; con rueda de repuesto 624 y 1.894 dm³", ...SRC3 },
+      { etiqueta: "Pesos", valor: "En vacío máximo 1.439 kg; carga útil 451–540 kg; remolque 1.500 kg con freno y 710 kg sin freno", ...SRC3 },
+      { etiqueta: "Depósito y giro", valor: "50 l de gasolina; giro de 10,97 m entre aceras", ...SRC3 },
       { etiqueta: "Euro NCAP", valor: "3 estrellas: adulto 69 % (27,7/40), niño 85 % (42/49), vulnerables 60 %, asistencias 57 %", fuente: "Euro NCAP, Dacia Bigster y nota de prensa", url: NC_BIG_N, anio: "2025" },
       { etiqueta: "Euro NCAP, ensayo", valor: "1.8 HEV de 1.513 kg; aplica a 1.2 mild hybrid 140 (4x2 y 4x4) y 1.8 hybrid 155; publicado el 21/05/2025", fuente: "Euro NCAP, Dacia Bigster", url: NC_BIG, anio: "2025" },
     ],
