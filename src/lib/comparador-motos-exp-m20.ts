@@ -758,8 +758,9 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       "Burgman viene de 'Burgman': contracción de burgués y man",
       "La versión 2025 cumple la Euro5+ sin perder potencia",
     ],
-    imagen: "/media/motos/suzuki-burgman-400-2025-ficha-tecnica-precio-hero.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/suzuki-burgman-400-2025-ficha-tecnica-precio-hero.webp", alt: "Suzuki Burgman 400 (foto: AVMOTO / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1867 },
       {
         src: "/media/motos/suzuki-burgman-400-2025-ficha-tecnica-precio-oficial.webp",
         alt: "Suzuki Burgman 400 2025, maxiscooter en ciudad",

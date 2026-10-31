@@ -810,17 +810,12 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
       "El modo Eco estira la autonomía hasta los 120 km declarados",
       "Comparte filosofía con la Vespa Elettrica, su gran rival italiana",
     ],
-    imagen: "/media/motos/lambretta-elettra-s-2026-ficha-tecnica-precio-1.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/lambretta-elettra-s-2026-ficha-tecnica-precio-1.webp", alt: "Lambretta Elettra S (foto: MotorideSA / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1370, alto: 915 },
       {
         src: "/media/motos/lambretta-elettra-s-2026-ficha-tecnica-precio-2.webp",
         alt: "Lambretta Elettra S 2026, detalle",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/motos/lambretta-elettra-s-2026-ficha-tecnica-precio-1.webp",
-        alt: "Lambretta Elettra S 2026, vista tres cuartos",
         ancho: 1200,
         alto: 800,
       },

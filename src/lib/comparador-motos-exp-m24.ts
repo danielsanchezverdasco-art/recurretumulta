@@ -4089,6 +4089,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     ],
     imagen: null,
     galeria: [
+      { src: "/media/vespa-gts-310-2026-ficha-tecnica-precio-oficial.webp", alt: "Vespa GTS 310 (foto: AVMOTO / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1050 },
       {
         src: "/media/vespa-gts-310-2026-ficha-tecnica-precio-oficial-2.webp",
         alt: "Vespa GTS 310 2026, vista lateral del scooter",

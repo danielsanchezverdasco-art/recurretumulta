@@ -1456,8 +1456,9 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     pros: ["Formato adventure auténtico gracias a su llanta delantera de radios de 19 pulgadas, pensada para alternar asfalto con pistas sencillas", "De serie incorpora caballete central y un escape en posición alta, dos detalles muy prácticos cuando toca viajar cargado", "Con 20 L de capacidad, su depósito permite enlazar etapas largas sin parar a repostar cada poco tiempo", "Su bicilíndrico de 502 cc entrega 47,6 CV con una respuesta dócil, perfecta para quien estrena el carnet A2", "Sus 6.290 € la colocan como puerta de entrada al mundo trail frente a rivales como la Honda NX500, la CFMoto 450MT o la Voge 500DS", "La pantalla y el carenado desvían bien el aire en carretera, algo que se agradece en desplazamientos largos"],
     contras: ["Sus 235 kg en orden de marcha lastran cualquier maniobra fuera del asfalto y también al moverla en parado", "Aunque gana recorrido respecto a la versión asfáltica, el conjunto de suspensiones mantiene un planteamiento sencillo y poco regulable", "En autovía, esos 47,6 CV deben empujar mucho peso, por lo que los adelantamientos exigen planificación y paciencia", "No existe modo de desconectar el ABS, una limitación clara si pretendes adentrarte en tierra con cierta soltura", "Con el asiento situado a 840 mm del suelo, los pilotos de menor estatura llegarán al suelo con dificultad"],
     curiosidades: ["Frente a la TRK 502 de carretera, esta variante X cambia el enfoque con radios, escape elevado y rueda grande delante", "La cifra pasa de 213 kg en vacío hasta alcanzar 235 kg cuando está lista para circular", "Convertida en una superventas dentro de Benelli, marca integrada en QJMotor, es la elección viajera habitual entre motoristas con permiso A2", "Esos 20 L de combustible estiran la autonomía más allá de los 400 km si mantienes un ritmo tranquilo"],
-    imagen: "/media/motos/benelli-trk-502x-2024-ficha-tecnica-precio-1.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/benelli-trk-502x-2024-ficha-tecnica-precio-1.webp", alt: "Benelli TRK 502 X (foto: Herodotptlomeu / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1131 },
       {
         src: "/media/motos/benelli-trk-502x-2024-ficha-tecnica-precio-2.webp",
         alt: "Benelli TRK 502 X 2024, vista lateral adventure",
@@ -2262,14 +2263,9 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
       "Con 40 L puede superar los 800 km de autonomía",
       "Es la trail más grande fabricada por Rieju",
     ],
-    imagen: "/media/motos/rieju-aventura-500-2024-ficha-tecnica-precio-1.webp",
+    imagen: null,
     galeria: [
-      {
-        src: "/media/motos/rieju-aventura-500-2024-ficha-tecnica-precio-2.webp",
-        alt: "Rieju Aventura 500 2024, vista lateral adventure",
-        ancho: 1200,
-        alto: 800,
-      },
+      { src: "/media/motos/rieju-aventura-500-2024-ficha-tecnica-precio-1.webp", alt: "Rieju Aventura 500 (foto: ADVrache155 / Wikimedia Commons, licencia CC BY 4.0)", ancho: 1400, alto: 1011 },
       {
         src: "/media/motos/rieju-aventura-500-2024-ficha-tecnica-precio-3.webp",
         alt: "Rieju Aventura 500 2024 en ruta de viaje",
