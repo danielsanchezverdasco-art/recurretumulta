@@ -5082,3 +5082,5 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/patinetes/xiaomi-electric-scooter-6-ultra-oficial.webp | https://i05.appmifile.com/622_item_es/24/02/2026/0bbdc0de25669bbb7faab2262e40ebc0.png | Xiaomi (foto de producto oficial, mi.com/es) | prensa |
 | /media/patinetes/xiaomi-electric-scooter-6-max-oficial.webp | https://i05.appmifile.com/495_item_es/04/03/2026/ff783b67501c9a63a301cfb36c7ca2d7.png | Xiaomi (foto de producto oficial, mi.com/es) | prensa |
 | /media/patinetes/xiaomi-electric-scooter-6-lite-oficial.webp | https://i05.appmifile.com/621_item_es/25/02/2026/6e8eedeb23ac21d531d2601c75216687.png | Xiaomi (foto de producto oficial, mi.com/es) | prensa |
+| /media/patinetes/segway-ninebot-e2-ii-e-oficial.webp | https://shop.segway.com/media/catalog/product/e/2/e2.png | Segway-Ninebot (foto de producto de la tienda oficial de España) | prensa |
+| /media/patinetes/segway-ninebot-f2-pro-ii-e-oficial.webp | https://shop.segway.com/media/catalog/product/2/_/2_12.png | Segway-Ninebot (foto de producto de la tienda oficial de España) | prensa |

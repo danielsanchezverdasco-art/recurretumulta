@@ -281,7 +281,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
       "Tres modos de marcha (6, 15 y 25 km/h) y plegado en tres pasos"
     ],
     contras: [
-      "El importe de 329,99 € viene de la prensa: la ficha oficial de Xiaomi España no lo muestra",
+      "329,99 € es un importe aproximado que cita la prensa (Mundo Xiaomi) y que puede variar",
       "Autonomía de solo 25 km a 15 km/h y de 20 km a 25 km/h, lejos de los modelos Pro y Max de la serie",
       "La ficha oficial no da el tiempo de carga ni el peso, y la capacidad de 216 Wh es un dato de prensa",
       "Soporta un máximo de 100 kg y solo tiene protección IPX4 contra salpicaduras",
@@ -289,7 +289,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
       "Ligero o no, el 6 Lite pide casco y 15 años cumplidos según el RD 518/2026"
     ],
     veredicto: "El 6 Lite es el Xiaomi más sencillo de la serie: 500 W de pico, 25 mm de suspensión delantera y 25 km de autonomía declarada. A 25 km/h baja a 20 km, así que solo encaja en trayectos urbanos muy cortos.",
-    fuenteNombre: "Web oficial de Xiaomi en España, página del 6 Lite (potencia, autonomía, carga y protección IPX4)",
+    fuenteNombre: "Web oficial de Xiaomi en España, página del 6 Lite (potencia, autonomía, carga y protección IPX4); precio aproximado: Mundo Xiaomi",
     fuenteUrl: "https://www.mi.com/es/product/xiaomi-electric-scooter-6-lite/",
     mantenimientoDIY: {
       actualizacionFirmware: "A través de la app oficial Xiaomi Home (iOS/Android)"
@@ -330,15 +330,15 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
       "Protección IPX5, TCS opcional desde la app y recuperación de energía que puedes quitar"
     ],
     contras: [
-      "El precio de 549,99 € procede de la prensa especializada: la ficha oficial de Xiaomi España no muestra importe",
+      "El precio de 549,99 € es aproximado: lo cita un artículo de Mundo Xiaomi y puede cambiar con ofertas",
       "Los 70 km de portada son a 15 km/h; yendo a 25 km/h Xiaomi reconoce 45 km",
       "TCS y recuperación de energía vienen desactivados de fábrica y hay que encenderlos en la app Xiaomi Home",
       "En la web de Xiaomi faltan el peso y el certificado DGT; pregunta ambos antes de pagar",
-      "Solo tiene freno de disco delante; detrás frena con el sistema electrónico E-ABS",
+      "Frena con disco solo en la rueda delantera; la trasera depende del E-ABS electrónico",
       "Aunque sea un todoterreno, el 6 Pro se rige por el RD 518/2026: casco puesto y 15 años cumplidos"
     ],
     veredicto: "Con 468 Wh, 1000 W de pico y suspensión en las dos ruedas, el 6 Pro de Xiaomi está pensado para caminos de tierra y asfalto roto, no para el trayecto corto. Su autonomía real a 25 km/h ronda los 45 km y el precio hay que contrastarlo en tienda.",
-    fuenteNombre: "Xiaomi España, página oficial del 6 Pro (468 Wh, motor de 1000 W, 70 km, hasta 120 kg)",
+    fuenteNombre: "Xiaomi España, página oficial del 6 Pro (468 Wh, motor de 1000 W, 70 km, hasta 120 kg); precio aproximado: Mundo Xiaomi",
     fuenteUrl: "https://www.mi.com/es/product/xiaomi-electric-scooter-6-pro/",
     mantenimientoDIY: {
       actualizacionFirmware: "A través de la app oficial Xiaomi Home (iOS/Android)"
@@ -377,7 +377,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
       "Plataforma de 600 x 190 mm, manillar de 606,6 mm y pantalla TFT en color de 3 pulgadas"
     ],
     contras: [
-      "El precio de 649,99 € lo da la prensa especializada: en la ficha oficial de Xiaomi no aparece",
+      "La cifra de 649,99 € es orientativa: la publica Mundo Xiaomi y puede moverse con las promociones",
       "El cargador rápido se compra por separado, y la ficha oficial no indica el tiempo con el cargador de serie",
       "TCS y recuperación de energía llegan apagados y se conectan desde la aplicación Xiaomi Home",
       "El peso y el certificado de la DGT no se mencionan en la ficha oficial: confírmalos con el vendedor",
@@ -385,7 +385,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
       "En la calle, el 6 Max exige casco abrochado y 15 años por el RD 518/2026, y está vetado en las aceras"
     ],
     veredicto: "El 6 Max reúne ruedas de 12 pulgadas sin cámara, discos en ambos ejes y 468 Wh por unos 650 €. Sus 70 km de autonomía solo valen a ritmo tranquilo: a velocidad máxima son 45 km, que es la cifra útil para planificar.",
-    fuenteNombre: "Xiaomi España, página oficial del 6 Max (468 Wh, motor de 1100 W, 70 km, hasta 130 kg)",
+    fuenteNombre: "Xiaomi España, página oficial del 6 Max (468 Wh, motor de 1100 W, 70 km, hasta 130 kg); precio aproximado: Mundo Xiaomi",
     fuenteUrl: "https://www.mi.com/es/product/xiaomi-electric-scooter-6-max/",
     mantenimientoDIY: {
       actualizacionFirmware: "A través de la app oficial Xiaomi Home (iOS/Android)"
@@ -425,7 +425,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
       "Pantalla TFT de 3 pulgadas, IPX6 en todo el conjunto y localización con Apple Find My"
     ],
     contras: [
-      "El precio de 799,99 € es el de la prensa: la web oficial de Xiaomi España no lo publica en la ficha",
+      "Su precio de 799,99 € es aproximado y viene de Mundo Xiaomi, en su artículo sobre los nuevos Scooter 6; puede variar",
       "Con el cargador de serie tarda unas 10,5 horas en cargar; el cargador rápido (3 h 20 min) se vende aparte",
       "Boost, TCS y E-ABS hay que activarlos en la app, porque salen desactivados de fábrica",
       "Ni el peso ni el certificado de la DGT figuran en la ficha oficial: pide ambos datos al vendedor",
@@ -433,7 +433,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
       "Con 1200 W de pico, la norma (RD 518/2026) sigue pidiendo casco homologado y tener 15 años, sin excepciones"
     ],
     veredicto: "El Ultra reúne 585 Wh, 1200 W y 140 kg de carga máxima en un Xiaomi que cuesta unos 800 €. A 25 km/h Xiaomi anuncia 55 km, y lo más difícil de justificar es su tiempo de carga con el cargador estándar.",
-    fuenteNombre: "Xiaomi España, página oficial del 6 Ultra (585 Wh, motor de 1200 W, 75 km, hasta 140 kg)",
+    fuenteNombre: "Xiaomi España, página oficial del 6 Ultra (585 Wh, motor de 1200 W, 75 km, hasta 140 kg); precio aproximado: Mundo Xiaomi",
     fuenteUrl: "https://www.mi.com/es/product/xiaomi-electric-scooter-6-ultra/",
     mantenimientoDIY: {
       actualizacionFirmware: "A través de la app oficial Xiaomi Home (iOS/Android)"
@@ -600,7 +600,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
       "Acepta como máximo 100 kg de peso del conductor, menos que otros Segway de este precio",
       "La ficha de la tienda no menciona el certificado de la DGT: pide la documentación antes de pagar",
       "Freno delantero de tambor y trasero solo electrónico: sin disco para las bajadas largas",
-      "Segway lo recomienda desde los 14 años, edad por debajo del mínimo legal en España",
+      "Segway-Ninebot recomienda que lo use quien tenga 14 años o más, según la ficha de su tienda oficial",
       "Con el E3 Pro E toca casco abrochado y 15 años cumplidos (RD 518/2026), y nada de aceras"
     ],
     veredicto: "El E3 Pro E cuesta 449 € en Segway España y reúne doble suspensión, 368 Wh y 17,9 kg. Su carga máxima de 100 kg y la ausencia de dato sobre el certificado de la DGT piden revisar bien la ficha antes de comprarlo.",
@@ -638,7 +638,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
       "autonomiaRealKm"
     ],
     pros: [
-      "329 € de precio normal en la tienda oficial de Segway España; en la sección de outlet figuraba a 299 € el 31/10/2026",
+      "329 € es el precio normal que figura en la ficha de la tienda oficial de Segway España",
       "Neumáticos tubeless de 10 pulgadas a prueba de fugas de aire, sin cámara que cambiar",
       "Intermitentes delanteros y traseros integrados y sistema de control de tracción (TCS)",
       "La tecnología RideyLONG de Segway-Ninebot promete un 20 % más de alcance sin sumar batería",
@@ -649,10 +649,10 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
       "Con 275 Wh, la batería es la más corta de la gama E de Segway",
       "Pesa 18,8 kg y admite 100 kg de conductor: pensado para personas ligeras",
       "La web oficial omite el certificado DGT y el índice IP: pregunta en la tienda",
-      "Segway marca 16 años como edad recomendada; la ley exige 15 cumplidos, pero el fabricante pide más",
+      "El fabricante, Segway-Ninebot, aconseja conducirlo desde los 16 años según su ficha oficial",
       "Para llevar el E2 Pro E por la calle, la ley pide casco y 15 años (RD 518/2026)"
     ],
-    veredicto: "El E2 Pro E cuesta 329 € en Segway España y lleva ruedas tubeless de 10 pulgadas, intermitentes y control de tracción. Con 275 Wh y 100 kg de carga máxima encaja en trayectos urbanos cortos y conductores ligeros.",
+    veredicto: "El E2 Pro E cuesta 329 € en Segway España y lleva ruedas tubeless de 10 pulgadas, intermitentes y control de tracción. Con solo 275 Wh y 100 kg de carga máxima, sirve para recorridos cortos por la ciudad y para personas ligeras.",
     fuenteNombre: "Segway-Ninebot España: ficha oficial del Ninebot KickScooter E2 Pro E (329 €, 275 Wh, 35 km, 18,8 kg)",
     fuenteUrl: "https://shop.segway.com/es_es/ninebot-kickscooter-e2-pro-e.html",
     mantenimientoDIY: {

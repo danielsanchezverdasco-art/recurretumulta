@@ -4199,5 +4199,15 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "Xiaomi (foto de producto oficial, mi.com/es)",
 "licencia": "prensa",
 "url": "https://i05.appmifile.com/621_item_es/25/02/2026/6e8eedeb23ac21d531d2601c75216687.png"
+},
+"/media/patinetes/segway-ninebot-e2-ii-e-oficial.webp": {
+"autor": "Segway-Ninebot (foto de producto de la tienda oficial de España)",
+"licencia": "prensa",
+"url": "https://shop.segway.com/media/catalog/product/e/2/e2.png"
+},
+"/media/patinetes/segway-ninebot-f2-pro-ii-e-oficial.webp": {
+"autor": "Segway-Ninebot (foto de producto de la tienda oficial de España)",
+"licencia": "prensa",
+"url": "https://shop.segway.com/media/catalog/product/2/_/2_12.png"
 }
 };

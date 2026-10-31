@@ -1831,7 +1831,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Los 65 km son en modo Confort con 80 kg y en llano; los 44 km de este comparador son un cálculo propio",
       "El manual indica 100 kg de peso máximo, mientras otras tiendas anuncian 120 kg",
       "Carga lenta: el manual da entre 6 y 8 horas con el cargador de 2 A",
-      "El manual pide más de 16 años, un año por encima del mínimo legal de 15",
+      "Edad recomendada por el fabricante: Cecotec pide 16+ años en el manual de usuario oficial",
       "Un X65 de 1000 W de pico exige casco y mayoría de 15 años por el RD 518/2026, además de circular lejos de las aceras"
     ],
     veredicto: "El Bongo X65 Connected cuesta 499 € en Cecotec y ofrece 576 Wh, 500 W y doble disco con e-ABS. Ahora figura sin stock en la web oficial y su manual fija 100 kg de peso máximo, un dato que conviene comparar con lo que anuncian otras tiendas.",
@@ -2309,31 +2309,43 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot KickScooter F2 Pro II",
-    precioEur: 499, // tarifa oficial Europa (verificado 20/10/2026)
+    precioEur: 599,
     potenciaNominalW: 450,
     potenciaPicoW: 900,
     autonomiaKm: 65,
-    autonomiaRealKm: 44,
+    autonomiaRealKm: 45,
     velocidadMaxKmh: 25,
     pesoKg: 17.8,
     cargaMaxKg: 120,
     tiempoCargaH: 8,
     bateriaWh: 460,
-    frenos: "Disco + freno eléctrico",
-    neumaticos: "10\" tubeless",
-    certificadoDgt: true,
-    foto: "/media/patinetes/segway-ninebot-f2-pro-ii-1.webp",
-    galeria: [
-      { src: "/media/patinetes/segway-ninebot-f2-pro-ii-2.webp", alt: "Detalle del Segway Ninebot F2 Pro II", ancho: 1200, alto: 800 },
-      { src: "/media/patinetes/segway-ninebot-f2-pro-ii-3.webp", alt: "Segway Ninebot F2 Pro II en marcha", ancho: 1200, alto: 800 },
+    frenos: "Freno de disco delantero + E-ABS trasero",
+    neumaticos: "Neumáticos autorreparables tubeless de 10\" y 60 mm de ancho",
+    certificadoDgt: null,
+    foto: "/media/patinetes/segway-ninebot-f2-pro-ii-e-oficial.webp",
+    galeria: [],
+    aprox: [
+      "potenciaNominalW",
+      "tiempoCargaH"
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
-    pros: ["Con sus 460 Wh firma 65 km en modo ECO y unos 44 km reales estimados: margen para encadenar dos o tres jornadas urbanas de 15-20 km sin buscar un enchufe", "Llega con certificado DGT para circular como VMP en España a 25 km/h, intermitentes integrados y reflectores con certificación e-Mark delante, detrás y en los laterales", "Sus 450 W nominales escalan a 900 W de pico y Segway le atribuye pendientes del 22 %: en rampas de garaje y cuestas de barrio no se arrastra como su hermano F2 II de 400 W", "La suspensión delantera de doble muelle con 30 mm de recorrido y los neumáticos de 10 pulgadas autorreparables con capa de gel cubren los dos frentes del asfalto urbano: los baches y los pinchazos"],
-    contras: ["Reponer los 460 Wh lleva unas 8 horas de enchufe: si una noche se te olvida conectarlo, al día siguiente no hay carga rápida que te rescate la jornada", "La cifra bonita exige contexto: los 65 km se miden en ECO a 15 km/h con 75 kg de carga, en modo Sport la propia Segway ya anuncia 45 km y la estimación real de la ficha baja a 44 km", "Solo amortigua el eje delantero; detrás manda la rueda de 10 pulgadas, así que los adoquines y las juntas seguidas acaban notándose en los pies en trayectos largos", "Pagar 628 € solo compensa si vas a exprimir esos 460 Wh a diario; para recorridos de menos de 25 km el sobreprecio frente al F2 II no se traduce en nada que vayas a notar"],
-    veredicto:
-      "El F2 Pro II es el F2 pensado para distancias serias: 460 Wh, 65 km declarados en modo ECO —44 km reales estimados en esta ficha— y certificado DGT por 628 €. Encaja si recorres 25-40 km al día y puedes dejarlo cargando sus 8 horas cada noche; si tus trayectos son cortos o tienes que subirlo a pulso por escaleras a diario, sus 17,8 kg y ese precio juegan en tu contra y con el F2 II vas servido.",
-    fuenteNombre: "Segway (ficha oficial)",
-    fuenteUrl: "https://ap-en.segway.com/ekickscooter/products/f2-pro-ii.html",
+    pros: [
+      "599 € es el precio normal en Segway España; con la oferta vigente el 31/10/2026 baja a 499 €",
+      "Batería de 460 Wh: 65 km en Eco a 15 km/h y 45 km en Sport a 25 km/h, medidos con 75 kg",
+      "Motor de 900 W de pico, subida del 22 % y suspensión delantera de doble muelle con 30 mm de recorrido",
+      "Neumáticos de 10 pulgadas con gel interior: tras un pinchazo permiten seguir sin parar",
+      "Control de tracción TCS, intermitentes integrados, faro de 2,1 W con 16 m de alcance, IPX5 y Apple Find My"
+    ],
+    contras: [
+      "Los 65 km se logran a 15 km/h; a 25 km/h, Segway da 45 km",
+      "Sus 17,8 kg se notan al cargarlo por escaleras si no hay ascensor",
+      "La ficha de la tienda no cita ni el certificado de la DGT ni el tiempo de carga: pregunta antes de comprar",
+      "Un solo disco, el delantero; el freno trasero es electrónico (E-ABS) y no lleva pastillas",
+      "Segway-Ninebot sugiere los 16 años como edad de uso, según la tienda oficial de España",
+      "Con el F2 Pro II E a 25 km/h, la norma (RD 518/2026) exige casco y una edad mínima de 15 años"
+    ],
+    veredicto: "El F2 Pro II E reúne 460 Wh, 900 W de pico y doble muelle delantero por 599 € de precio normal. Sus 65 km valen a ritmo tranquilo: a 25 km/h bajan a 45 km, la cifra útil para planificar un trayecto diario largo.",
+    fuenteNombre: "Segway-Ninebot España: ficha oficial del F2 Pro II E (599 €, 460 Wh, 65 km, 17,8 kg); motor y suspensión de la web europea de Segway",
+    fuenteUrl: "https://shop.segway.com/es_es/f2-pro-ii-e.html",
     mantenimientoDIY: {
       intervaloRevision: "Cada 3 meses o 500 km; revisión completa cada 6 meses; revisión mayor a los 5.000 km o 2 años (plan del manual Ninebot)",
       presionNeumaticos: "42–48 PSI en ambos neumáticos, inflados por igual (manual Ninebot)",
@@ -2344,9 +2356,9 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
         "Verificar que el acelerador vuelve solo a su posición al soltarlo",
         "Neumáticos autorreparables (self-sealing): ante un pinchazo grave, llevar a un centro autorizado en vez de repararlo en casa",
         "Si lo guardas mucho tiempo: batería al 50-80 % y lugar fresco (10-30 °C), según el manual",
-        "Guardar en un lugar fresco y seco, lejos de la luz solar directa",
-      ],
-    },
+        "Guardar en un lugar fresco y seco, lejos de la luz solar directa"
+      ]
+    }
   },
   {
     id: "navee-v40i",
