@@ -85,7 +85,7 @@ function faqComun(c: Omit<Comunidad, "faq">): Comunidad["faq"] {
           {
             pregunta: `¿Quién puede denunciarme en las carreteras de ${n}?`,
             respuesta:
-              "Según la DGT, pueden multar la propia DGT, los ayuntamientos y las comunidades con competencia en tráfico: Cataluña a través del Servei Català de Trànsit, el País Vasco a través de su Dirección de Tráfico y Navarra. En Navarra, la Guardia Civil conserva la facultad de denunciar y sus denuncias se tramitan en la plataforma foral.",
+              "Según la DGT, pueden multar la propia DGT, los ayuntamientos y las comunidades con competencia en tráfico: el SCT en Cataluña, la Dirección de Tráfico en el País Vasco y el Gobierno foral en Navarra. En Navarra, la Guardia Civil conserva la facultad de denunciar y sus denuncias se tramitan en la plataforma foral.",
           },
         ]
       : [];
