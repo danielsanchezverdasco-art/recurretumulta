@@ -4481,3 +4481,23 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/geely-starray-em-i-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Geely_Galaxy_Starship_7_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
 | /media/jac-t9-ev-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:JAC_Hunter_EV_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
 | /media/leapmotor-b10-reev-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Leapmotor_B10_Design_Pro_Max_%E2%80%93_f_25012026.jpg | © M 93 vía Wikimedia Commons | CC BY-SA 3.0 de |
+| /media/aito-m6-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:AITO_M6_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/aito-m7-ultra-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Aito_M7_001.jpg | Zoerides · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/aito-m8-ev-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:AITO_M8_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/chery-eq7-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Chery_eQ7_004.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/citroen-c4-x-12-puretech-130-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_e-C4_X_1X7A7279.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/ford-capri-electrico-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Ford_Capri_(2024)_Auto_Zuerich_2024_DSC_6382.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/ford-e-transit-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2025_Ford_E-Transit_au_SIAM_2025.jpg | Bull-Doser · Wikimedia Commons | dominio público (PD) |
+| /media/ford-e-transit-courier-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Ford_Transit_Courier_1.5_EcoBlue_(2024)_(53939198914).jpg | Charles from Port Chester, New York · Wikimedia Commons | CC BY 2.0 |
+| /media/ford-ranger-phev-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Ford_Ranger_MS-RT_PHEV_IAA_2025_DSC_2053.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/ford-tourneo-connect-phev-150-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Ford_Tourneo_Connect_Active_(3rd_generation)_Leonberg_2022_1X7A0445.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/forthing-s7-ev-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Forthing_Xinghai_S7_014.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/forthing-t5-evo-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Forthing_T5_Evo_003.jpg | Quzhouliulian · Wikimedia Commons | CC0 |
+| /media/forthing-t5-evo-hev-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Forthing_T5_Evo_IMG005.jpg | Zotyefan · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/forthing-u-tour-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:DFM_Forthing_4_U-Tour_AMA_Marbach_2025_DSC_8602.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/forthing-u-tour-hev-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:DFSK_Forthing_4_U-Tour_IMG_8159.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/forthing-v9-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Forthing_Xinghai_V9_007.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/geely-galaxy-a7-em-i-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Geely_Galaxy_A7_001.jpg | KitsuneDP · Wikimedia Commons | CC0 |
+| /media/geely-galaxy-l6-em-i-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Geely_Galaxy_L6_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/ford-puma-st-line-x-mhev-155-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Ford_Puma_1.0_Ecoboost_Hybrid_ST_Line_Fantastic_Red_(1).jpg | Damian B Oh · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/aito-m6-ev-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:AITO_M6_003.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |

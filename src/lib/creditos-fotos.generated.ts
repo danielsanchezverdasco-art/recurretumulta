@@ -1869,5 +1869,55 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "© M 93 vía Wikimedia Commons",
 "licencia": "CC BY-SA 3.0 de",
 "url": "https://commons.wikimedia.org/wiki/File:Leapmotor_B10_Design_Pro_Max_%E2%80%93_f_25012026.jpg"
+},
+"/media/aito-m7-ultra-2024-precio-ficha-tecnica-hero.webp": {
+"autor": "Zoerides · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Aito_M7_001.jpg"
+},
+"/media/citroen-c4-x-12-puretech-130-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_e-C4_X_1X7A7279.jpg"
+},
+"/media/ford-capri-electrico-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Ford_Capri_(2024)_Auto_Zuerich_2024_DSC_6382.jpg"
+},
+"/media/ford-e-transit-courier-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Charles from Port Chester, New York · Wikimedia Commons",
+"licencia": "CC BY 2.0",
+"url": "https://commons.wikimedia.org/wiki/File:Ford_Transit_Courier_1.5_EcoBlue_(2024)_(53939198914).jpg"
+},
+"/media/ford-ranger-phev-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Ford_Ranger_MS-RT_PHEV_IAA_2025_DSC_2053.jpg"
+},
+"/media/ford-tourneo-connect-phev-150-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Ford_Tourneo_Connect_Active_(3rd_generation)_Leonberg_2022_1X7A0445.jpg"
+},
+"/media/forthing-t5-evo-hev-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Zotyefan · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Forthing_T5_Evo_IMG005.jpg"
+},
+"/media/forthing-u-tour-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:DFM_Forthing_4_U-Tour_AMA_Marbach_2025_DSC_8602.jpg"
+},
+"/media/forthing-u-tour-hev-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:DFSK_Forthing_4_U-Tour_IMG_8159.jpg"
+},
+"/media/ford-puma-st-line-x-mhev-155-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Damian B Oh · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Ford_Puma_1.0_Ecoboost_Hybrid_ST_Line_Fantastic_Red_(1).jpg"
 }
 };
