@@ -10,7 +10,7 @@ export const LOTE_18: MapaEnriquecimiento = {
   "seat-leon-15-etsi-115-2026-precio-ficha-tecnica": {
     titulo: "SEAT León: la nota de Euro NCAP de noviembre de 2025 y qué motores recoge",
     parrafos: [
-      "Euro NCAP publicó el 19 de noviembre de 2025 su valoración del SEAT León, que obtuvo cinco estrellas. Las puntuaciones fueron un 88 % en protección de adultos, un 86 % en niños, un 81 % en usuarios vulnerables y un 77 % en asistencias a la seguridad. La variante que se estrelló en el laboratorio fue el 2.0 TDI de 110 kW.",
+      "Euro NCAP publicó el 19 de noviembre de 2025 su valoración del SEAT León, que obtuvo cinco estrellas. Las puntuaciones fueron el 88 % en protección de adultos, el 86 % en niños, 81 puntos entre peatones y ciclistas y 77 en asistencias a la seguridad. La variante que se estrelló en el laboratorio fue el 2.0 TDI de 110 kW.",
       "Sobre la versión de esta página, conviene leer la tabla de variantes con cuidado. Euro NCAP incluye un 1.5 eTSI de 110 kW, es decir, unos 150 CV, mientras que la ficha de arriba habla de 115 CV, que equivalen a unos 85 kW. Esa potencia no aparece como fila propia en la lista del organismo, así que la nota se atribuye al León en general y no se puede afirmar que figure con esa motorización concreta.",
       "La lista cubre también el 1.5 TSI de 110 kW, el 2.0 TSI de 150 kW con tracción total, el VZ de 221 kW y el de 245 kW con 4Drive, y dos híbridos enchufables 1.5 TSI e-Hybrid de 150 y 200 kW. Todas son de tracción delantera salvo las marcadas con 4Drive.",
     ],
@@ -18,7 +18,7 @@ export const LOTE_18: MapaEnriquecimiento = {
       { etiqueta: "Calificación Euro NCAP del León", valor: "Cinco estrellas; publicada el 19/11/2025", fuente: "Euro NCAP, ficha del SEAT León (noviembre de 2025)", url: LEON, anio: "2025" },
       { etiqueta: "Puntuación por apartados (León)", valor: "88 % adultos; 86 % niños; 81 % usuarios vulnerables; 77 % asistencias", fuente: "Euro NCAP, apartados de puntuación del SEAT León", url: LEON, anio: "2025" },
       { etiqueta: "Variante ensayada (León)", valor: "2.0 TDI de 110 kW, tracción delantera", fuente: "Euro NCAP, variantes del León: fila ensayada", url: LEON, anio: "2025" },
-      { etiqueta: "Motor eTSI en la lista", valor: "1.5 eTSI de 110 kW (aprox. 150 CV); no hay fila de unos 85 kW", fuente: "Euro NCAP, variantes del León: filas eTSI", url: LEON, anio: "2025" },
+      { etiqueta: "Motor eTSI en la lista", valor: "1.5 eTSI de 110 kW (aprox. 150 CV); falta la fila de unos 85 kW", fuente: "Euro NCAP, variantes del León: filas eTSI", url: LEON, anio: "2025" },
       { etiqueta: "Híbridos enchufables cubiertos (León)", valor: "1.5 TSI e-Hybrid de 150 kW y de 200 kW", fuente: "Euro NCAP, variantes del León: filas e-Hybrid", url: LEON, anio: "2025" },
     ],
   },
@@ -26,7 +26,7 @@ export const LOTE_18: MapaEnriquecimiento = {
     titulo: "SEAT Ibiza: valoración de Euro NCAP de 2022 y qué dice de un 1.5 TSI",
     parrafos: [
       "La nota de seguridad del SEAT Ibiza la fijó Euro NCAP el 12 de octubre de 2022: cinco estrellas, con un 83 % en adultos, un 82 % en niños, un 66 % en usuarios vulnerables y un 70 % en asistencias. Se ensayó un 1.0 de gasolina de 70 kW (EcoTSI) de tracción delantera. La ficha recoge además tres revisiones anuales, el 7 de diciembre de 2022 y el 4 de octubre y el 6 de diciembre de 2023.",
-      "Aquí hay un matiz importante: esta página trata del restyling de 2026 con el 1.5 TSI de 150 CV. La tabla de variantes de Euro NCAP no contiene ningún motor de 1,5 litros; sus filas son todas 1.0 (59, 66 en GNC, 81, 110 y 70 kW). La nota de 2022 es, por tanto, la del Ibiza de entonces, y la ficha del organismo no recoge expresamente esta versión ni el cambio de imagen de 2026.",
+      "Aquí hay un matiz importante: esta página se ocupa del restyling de 2026, que estrena un 1.5 TSI de 150 CV. La tabla de variantes de Euro NCAP no contiene ningún motor de 1,5 litros; sus filas son todas 1.0 (59, 66 en GNC, 81, 110 y 70 kW). La nota de 2022 es, por tanto, la del Ibiza de entonces, y la ficha del organismo no recoge expresamente esta versión ni el cambio de imagen de 2026.",
     ],
     filas: [
       { etiqueta: "Estrellas del Ibiza", valor: "Cinco; publicadas el 12/10/2022", fuente: "Euro NCAP, ficha del SEAT Ibiza (2022)", url: IBIZA, anio: "2022" },
@@ -45,13 +45,13 @@ export const LOTE_18: MapaEnriquecimiento = {
     filas: [
       { etiqueta: "Calificación del Ibiza 1.0", valor: "5 estrellas (octubre de 2022)", fuente: "Euro NCAP, nota global del Ibiza para los 1.0", url: IBIZA, anio: "2022" },
       { etiqueta: "Motor probado en el Ibiza 1.0", valor: "70 kW, aproximadamente 95 CV", fuente: "Euro NCAP, fila asterisco de las variantes del Ibiza 1.0", url: IBIZA, anio: "2022" },
-      { etiqueta: "Filas de 81 y 110 kW", valor: "Presentes en la lista; no hay fila de unos 85 kW", fuente: "Euro NCAP, filas EcoTSI del Ibiza 1.0", url: IBIZA, anio: "2022" },
+      { etiqueta: "Filas de 81 y 110 kW", valor: "Presentes en la lista; ninguna fila de unos 85 kW", fuente: "Euro NCAP, filas EcoTSI del Ibiza 1.0", url: IBIZA, anio: "2022" },
     ],
   },
   "byd-seal-2024-precio-ficha-tecnica": {
     titulo: "BYD Seal Design: la valoración de Euro NCAP de octubre de 2023",
     parrafos: [
-      "El BYD Seal pasó por Euro NCAP el 25 de octubre de 2023 y consiguió cinco estrellas. Sus porcentajes fueron un 89 % en adultos, un 87 % en niños, un 82 % en usuarios vulnerables y un 76 % en asistencias. La variante analizada es precisamente la Design de tracción trasera, la misma que describe esta página.",
+      "La calificación de cinco estrellas del BYD Seal lleva fecha de 25-10-2023 en Euro NCAP. Cosechó 89 puntos sobre 100 en ocupantes adultos, 87 en niños, 82 en peatones y ciclistas y 76 en asistencias. La variante analizada es precisamente la Design de tracción trasera, la misma que describe esta página.",
       "La calificación se publicó en el mismo acto que la del Dolphin, y en la ficha del organismo el Seal figura como berlina de cuatro puertas con dos entradas: la Design y la Excellence de tracción total.",
     ],
     filas: [
