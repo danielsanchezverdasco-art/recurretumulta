@@ -46,7 +46,7 @@ export const LOTE_02: MapaEnriquecimiento = {
     filas: [
       { etiqueta: "Motor mild hybrid 140", valor: "1.199 cc, 3 cilindros, 103 kW (140 CV) a 5.500 rpm, 230 Nm a 2.100 rpm; caja manual de seis velocidades", ...SRC3 },
       { etiqueta: "Batería", valor: "Iones de litio; 48 V; 0,84 kWh de capacidad", ...SRC3 },
-      { etiqueta: "Prestaciones", valor: "9,8 s hasta 100 km/h; techo de 180 km/h", ...SRC3 },
+      { etiqueta: "Prestaciones", valor: "9,8 s hasta 100 km/h; máxima de 180 km/h", ...SRC3 },
       { etiqueta: "Consumo y CO₂", valor: "5,4–5,5 l/100 km; 122–124 g/km (WLTP)", ...SRC3 },
       { etiqueta: "Dimensiones", valor: "4.570 × 1.813 × 1.662 mm (1.712 con barras); batalla 2.702 mm; altura libre 220 mm", ...SRC3 },
       { etiqueta: "Maletero", valor: "667 dm³ VDA (702 l ISO 3832) y 1.937 dm³ (2.002 l) abatido; con rueda de repuesto 624 y 1.894 dm³", ...SRC3 },
