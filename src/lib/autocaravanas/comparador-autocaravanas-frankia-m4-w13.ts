@@ -59,7 +59,7 @@ export const AUTOCARAVANAS_FRANKIA_M4: Autocaravana[] = [
       "depósito diésel 90 L, agua limpia 150 L / residuales 130 L: exposés de " +
       "caraworld.de y alpacacamping.de de unidades del modelo. Sin precio aplicado: " +
       "Frankia no publica tarifa oficial en España. Hace falta el carnet C1 por la MMA " +
-      "de 5.000 kg. La carga útil no está publicada por la marca. sin tarifa oficial vigente verificable para esta designación." +
+      "de 5.000 kg. La carga útil no está publicada por la marca. Frankia no ofrece tarifa oficial vigente comprobable para esta designación." +
       "del folleto Frankia Titan 2023.",
     curiosidades:
       "Frankia es una empresa del grupo Pilote, el gigante francés de las " +

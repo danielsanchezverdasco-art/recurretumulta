@@ -111,7 +111,7 @@ export const AUTOCARAVANAS_NIESMANNBISCHOFF_M1: Autocaravana[] = [
     },
     euroncap: null,
     notas:
-      "«dato no oficial · en revisión»: las plazas de viaje (4) son consenso de distribuidores del modelo exacto; el fabricante no las publica. La marca tampoco publica página dedicada a la implantación 6.9 E (la fuente es la página oficial del modelo iSmove) ni las plazas para dormir. La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante. sin tarifa oficial en abierto.",
+      "«dato no oficial · en revisión»: las plazas de viaje (4) son consenso de distribuidores del modelo exacto; el fabricante no las publica. La marca tampoco publica página dedicada a la implantación 6.9 E (la fuente es la página oficial del modelo iSmove) ni las plazas para dormir. La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante. Niesmann+Bischoff no ofrece tarifa oficial pública.",
     curiosidades:
       "En los premios Promobil readers' choice 2026 —votados por los lectores de la revista alemana—, Niesmann+Bischoff logró un triplete: el iSmove quedó segundo en la categoría premium, acompañando al Arto, que ganó la suya. Fuente: Niesmann+Bischoff (nota de prensa oficial): https://www.niesmann-bischoff.com/en/presse/promobil-readers-choice-awards-2026/",
     fuenteNombre: "Niesmann+Bischoff (web oficial) («no oficial»: plazas, dato de distribuidores; el fabricante no lo publica)",

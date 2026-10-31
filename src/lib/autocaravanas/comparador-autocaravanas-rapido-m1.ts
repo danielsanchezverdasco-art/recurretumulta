@@ -111,7 +111,7 @@ De tarifa oficial no hay nada que difundir: Rapido no publica PVP por modelo y c
     },
     euroncap: null,
     notas:
-      "«dato no oficial · en revisión»: todos los valores numéricos proceden de fichas coincidentes de concesionarios franceses del modelo exacto; la web oficial de Rapido solo confirma la pertenencia a la serie especial OPTIMUM LINE y el sistema patentado MODUL'SPACE®, sin publicar ficha técnica del V55. La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante. sin tarifa oficial abierta verificable.",
+      "«dato no oficial · en revisión»: todos los valores numéricos proceden de fichas coincidentes de concesionarios franceses del modelo exacto; la web oficial de Rapido solo confirma la pertenencia a la serie especial OPTIMUM LINE y el sistema patentado MODUL'SPACE®, sin publicar ficha técnica del V55. La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante. Rapido no publica tarifa oficial abierta verificable.",
     curiosidades:
       "El V55 monta el MODUL'SPACE®, un sistema patentado por el grupo Rapido: un armario que pivota sobre su eje y convierte el aseo en una ducha privada e independiente dentro de un van de menos de 6 metros. Fuente: https://www.rapido-camping-car.fr/inc/rapido_nouveautes_les-fourgons_camping-car-serie-vans.phtml",
     fuenteNombre:

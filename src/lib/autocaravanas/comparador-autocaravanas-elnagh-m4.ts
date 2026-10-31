@@ -271,7 +271,7 @@ export const AUTOCARAVANAS_ELNAGH_M4: Autocaravana[] = [
       independientes, cocina en L) se contrastó con elnagh.com/en/gamma/baron-en/ y
       con la ficha del Baron 573 en camperis.com; la curiosidad sobre el aseo
       articulado procede del artículo de CamperOnLine «Anteprime 2020: Elnagh rinnova
-      la gamma Baron» (2019). El precio aplicado es el del Listino oficial Elnagh Italia 2026 (71.380 €, «aprox»), porque Elnagh no publica tarifa
+      la gamma Baron» (2019). El precio aplicado procede del Listino oficial italiano de Elnagh para 2026 (71.380 €, «aprox»), porque Elnagh no publica tarifa
       oficial en España; la referencia de £69.995 OTR corresponde al mercado británico.
 
       Para quién es: el Baron 573 encaja con parejas que viajan con hijos o amigos y

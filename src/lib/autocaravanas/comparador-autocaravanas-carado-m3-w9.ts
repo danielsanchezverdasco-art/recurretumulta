@@ -211,7 +211,7 @@ kilo cuenta.`,
       "camas traseras de 200x70 / 195x80 (ampliables a 200-195x194 como opción); " +
       "frigorífico de 78 l con 11 l de congelador; calefacción Combi 4 de gas; 116/20 l " +
       "de agua; 92 l de grises; cuatro tomas de 230 V; dos USB; gas en 2x11 kg. " +
-      "Permanecen sin dato: carga útil (no publicada), consumo, par y emisiones (sin " +
+      "Quedan sin dato la carga útil (no publicada), el consumo, el par y las emisiones (sin " +
       "dato oficial).",
     curiosidades:
       "El V 337 milita en la gama «Van» de Carado: perfiladas estrechas de tan solo " +
