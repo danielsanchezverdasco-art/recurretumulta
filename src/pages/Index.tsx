@@ -169,7 +169,7 @@ function q() {
           className: `hj-bg`,
           alt: ``,
           src: `/media/hero-jungla-selva-mobile-opt.webp`,
-          srcSet: `/media/hero-jungla-selva-mobile-opt.webp 640w, /media/hero-jungla-selva-4k.webp 1280w`,
+          srcSet: `/media/hero-jungla-selva-mobile-opt.webp 640w, /media/hero-jungla-selva-828w.webp 828w, /media/hero-jungla-selva-4k.webp 1280w`,
           sizes: `100vw`,
           fetchPriority: `high`,
           decoding: `sync`,
@@ -262,7 +262,7 @@ function q() {
             (0, B.jsx)(`img`, {
               className: `hj-cuerpo`,
               src: `/media/cosa-jungla-apoyado-sm.webp`,
-              srcSet: `/media/cosa-jungla-apoyado-sm.webp 240w, /media/cosa-jungla-apoyado.webp 735w`,
+              srcSet: `/media/cosa-jungla-apoyado-sm.webp 240w, /media/cosa-jungla-apoyado-300w.webp 300w, /media/cosa-jungla-apoyado.webp 735w`,
               sizes: `170px`,
               width: `240`,
               height: `326`,
@@ -300,7 +300,7 @@ function q() {
         (0, B.jsx)(`img`, {
           className: `hj-manos`,
           src: `/media/cosa-jungla-manos-sm.webp`,
-          srcSet: `/media/cosa-jungla-manos-sm.webp 240w, /media/cosa-jungla-manos.webp 735w`,
+          srcSet: `/media/cosa-jungla-manos-sm.webp 240w, /media/cosa-jungla-manos-300w.webp 300w, /media/cosa-jungla-manos.webp 735w`,
           sizes: `170px`,
           width: `240`,
           height: `326`,
