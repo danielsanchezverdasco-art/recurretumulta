@@ -130,7 +130,7 @@ export const CARAVANAS_DIFERENCIAL: Record<string, { titulo: string; parrafos: s
     parrafos: [
       "La Imperial 630 TDL abre la serie Imperial, la cumbre de Kabe: 87.050 € de tarifa finlandesa, 11.000 € más que la Royal 600 CXL y 17.300 € menos que la Imperial 780 TDL. Su largo de 8,50 m supera en 70 cm a las Royal 560.",
       "Lo más visible es la anchura King Size de 2,50 m, 20 cm más que las Royal y las Ametist, y que da el habitáculo más amplio de esta clase. El peso lo acompaña: 1.855 kg en orden de marcha, 2.000 kg de masa máxima y 145 kg de carga útil declarada, la menor de la serie Imperial.",
-      "Sus 2.000 kg de masa máxima se mantienen en el B96, aunque con un todoterreno pesado como tractor podría pedirse el BE. A cambio, es la Imperial más manejable: la 780 TDL pasa a 9,40 m y a doble eje. Se notan los 2,50 m de ancho en carreteras estrechas y hace falta sitio donde guardarla. La ficha calcula 220 € de revisión anual.",
+      "Sus 2.000 kg de masa máxima se mantienen en el B96, aunque con un todoterreno pesado como tractor podría pedirse el BE. A cambio, es la Imperial más manejable: la 780 TDL pasa a 9,40 m y a doble eje. Los 2,50 m de anchura se notan en las carreteras estrechas y hace falta sitio donde guardarla. La ficha calcula 220 € de revisión anual.",
     ],
   },
   "kabe-imperial-780-tdl-2026-precio-ficha-tecnica": {
