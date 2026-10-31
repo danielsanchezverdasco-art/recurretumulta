@@ -4164,5 +4164,40 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "Voltride (foto de producto de tienda)",
 "licencia": "prensa",
 "url": "https://voltride.com/wp-content/uploads/2025/04/electric-scooter-speedway-leger-pro-main-product-image.jpg"
+},
+"/media/patinetes/segway-ninebot-e3-pro-e-oficial.webp": {
+"autor": "Segway-Ninebot (foto de producto de la tienda oficial de España)",
+"licencia": "prensa",
+"url": "https://shop.segway.com/media/catalog/product/2/_/2_12_4.png"
+},
+"/media/patinetes/segway-ninebot-e2-pro-e-oficial.webp": {
+"autor": "Segway-Ninebot (foto de producto de la tienda oficial de España)",
+"licencia": "prensa",
+"url": "https://shop.segway.com/media/catalog/product/e/2/e2_pro_e.png"
+},
+"/media/patinetes/cecotec-bongo-x65-connected-oficial.webp": {
+"autor": "Cecotec (foto de producto oficial)",
+"licencia": "prensa",
+"url": "https://media.cecotec.cloud/07109/bongo-x65-connected_hpog7c_1.png"
+},
+"/media/patinetes/xiaomi-electric-scooter-6-pro-oficial.webp": {
+"autor": "Xiaomi (foto de producto oficial, mi.com/es)",
+"licencia": "prensa",
+"url": "https://i05.appmifile.com/884_item_es/04/03/2026/bf1c2d3743b4a2a443252f8c7737606c.png"
+},
+"/media/patinetes/xiaomi-electric-scooter-6-ultra-oficial.webp": {
+"autor": "Xiaomi (foto de producto oficial, mi.com/es)",
+"licencia": "prensa",
+"url": "https://i05.appmifile.com/622_item_es/24/02/2026/0bbdc0de25669bbb7faab2262e40ebc0.png"
+},
+"/media/patinetes/xiaomi-electric-scooter-6-max-oficial.webp": {
+"autor": "Xiaomi (foto de producto oficial, mi.com/es)",
+"licencia": "prensa",
+"url": "https://i05.appmifile.com/495_item_es/04/03/2026/ff783b67501c9a63a301cfb36c7ca2d7.png"
+},
+"/media/patinetes/xiaomi-electric-scooter-6-lite-oficial.webp": {
+"autor": "Xiaomi (foto de producto oficial, mi.com/es)",
+"licencia": "prensa",
+"url": "https://i05.appmifile.com/621_item_es/25/02/2026/6e8eedeb23ac21d531d2601c75216687.png"
 }
 };
