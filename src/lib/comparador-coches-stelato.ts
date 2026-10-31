@@ -7,7 +7,7 @@
 // en comparador-coches-chinos-2026.ts; aquí solo las 5 motorizaciones nuevas.
 // Stelato (享界, BAIC + Huawei, alianza HIMA) solo tiene 3 modelos reales:
 // S9 (berlina), S9T (familiar) y G9 (SUV), cada uno en versión eléctrica y EREV.
-// Todos los precios son de China convertidos con el cambio del BCE del 19/10/2026 (7,4991 CNY por euro, ≈0,133 €/CNY) (ver "aprox").
+// Precios chinos pasados a euros con la cotización BCE de 19/10/2026: 7,4991 CNY por euro (≈0,133 €/CNY); ver "aprox".
 import type { CocheComparador } from "./comparador-coches-data.ts";
 
 export const COCHES_STELATO: CocheComparador[] = [
@@ -466,10 +466,10 @@ export const COCHES_STELATO: CocheComparador[] = [
     versiones: [
       { nombre: "Max+ 5 plazas (429.800 ¥ en China)", precio: 57300, aprox: true },
       { nombre: "Max+ 6 plazas (439.800 ¥ en China)", precio: 58600, aprox: true },
-      { nombre: "Ultra 5 plazas (479.800 ¥ en China)", precio: 64000, aprox: true },
-      { nombre: "Ultra 6 plazas (499.800 ¥ en China)", precio: 66600, aprox: true },
-      { nombre: "Ultra+ 5 plazas (529.800 ¥ en China)", precio: 70600, aprox: true },
-      { nombre: "Ultra+ 6 plazas (549.800 ¥ en China)", precio: 73300, aprox: true },
+      { nombre: "Ultra EREV, 5 plazas, a 479.800 ¥ en el mercado chino", precio: 64000, aprox: true },
+      { nombre: "Ultra EREV, 6 plazas, a 499.800 ¥ en el mercado chino", precio: 66600, aprox: true },
+      { nombre: "Ultra+ EREV, 5 plazas, a 529.800 ¥ en el mercado chino", precio: 70600, aprox: true },
+      { nombre: "Ultra+ EREV, 6 plazas, a 549.800 ¥ en el mercado chino", precio: 73300, aprox: true },
     ]
   },
 ];

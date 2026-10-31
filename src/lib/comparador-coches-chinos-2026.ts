@@ -313,8 +313,8 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
       "Rival declarado de Rolls-Royce y Maybach",
     ],
     contras: [
-      "Solo en China; sin precio ni fecha para Europa",
-      "Autonomía en ciclo chino CLTC, más optimista que el WLTP",
+      "Solo se vende en China; para Europa no hay precio ni fecha",
+      "Cifra de autonomía medida en CLTC, un ciclo chino más benévolo que el europeo",
       "3.120 kg: un peso descomunal",
     ],
     imagen: "/media/maextro-v800-huawei-precio-ficha-tecnica-hero.webp",
@@ -343,7 +343,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     analisisSlug: "maextro-v800-huawei-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
-    fuenteNombre: "CnEVPost, lanzamiento del 05/08/2026 (precios, plazas, autonomía CLTC y potencia por versión)",
+    fuenteNombre: "CnEVPost y HIMA: ficha de lanzamiento, 5 de agosto de 2026",
     fuenteUrl: "https://cnevpost.com/2026/08/05/maextro-launches-v680-v800-mpvs/",
     versiones: [
       { nombre: "Premium (766.000 ¥ en China)", precio: 102100, aprox: true },
