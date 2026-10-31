@@ -2026,7 +2026,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
       "El Vsett 8+ rebasa los 25 km/h de un VMP legal, y cualquier uso exige casco y 15 años cumplidos"
     ],
     veredicto: "El 8 Plus es el Vsett urbano ligero: 21 Ah LG y 20,8 kg. Para ciudad con mucha autonomía sin cargar kilos de más.",
-    fuenteNombre: "Vsett Shop Europe (tienda oficial en español)",
+    fuenteNombre: "fuente: distribuidor europeo",
     fuenteUrl: "https://vsett-shop.com/es/producto/vsett-8/",
     mantenimientoDIY: {
       aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
@@ -2089,7 +2089,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
       "A 45 km/h no es un VMP; en vía pública solo cabe un patinete de 25 km/h, con casco y 15 años"
     ],
     veredicto: "El Vsett 9 es el clásico de la marca: 910 Wh LG y 80 km en 26 kg. Como base para tunear o limitar a 25, sigue siendo una referencia.",
-    fuenteNombre: "Vsett Shop Europe (tienda oficial en español)",
+    fuenteNombre: "fuente: distribuidor europeo",
     fuenteUrl: "https://vsett-shop.com/es/producto/vsett-9/",
     mantenimientoDIY: {
       aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
@@ -2206,7 +2206,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
       "Para el Apex hay que ponerse casco y tener 15 años; sin certificado de VMP, además, queda fuera de la vía pública"
     ],
     veredicto: "El 10+ Apex es el Vsett prestacional puro: 3000 W, 4 pistones y 80 km/h. Para circuito; en la calle, ni lo intentes.",
-    fuenteNombre: "Vsett Shop Europe (tienda oficial en español)",
+    fuenteNombre: "fuente: distribuidor europeo",
     fuenteUrl: "https://vsett-shop.com/es/producto/vsett-10-apex-2/",
     mantenimientoDIY: {
       aprieteTornilleria: "Revisar los anclajes de la suspensión hidráulica, la potencia del manillar y los ejes de ambas ruedas motrices",
@@ -2371,7 +2371,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
       "Aunque su velocidad lo deja fuera de la norma de VMP, quien lo use en un recinto privado debería llevar casco y tener 15 años"
     ],
     veredicto: "El Vsett 11+ es un patinete de prestaciones extremas: 3.000 W, 80-85 km/h y 58 kg. Sus datos oficiales no encajan con ninguna norma de vía pública española y la web oficial no da precio.",
-    fuenteNombre: "Vsett (web oficial del 11+)",
+    fuenteNombre: "fuente: distribuidor europeo",
     fuenteUrl: "https://vsettscooters.com/pages/vsett-11-plus",
     mantenimientoDIY: {
       presionNeumaticos: "Comprobar antes de salir y ajustar al valor grabado en el flanco del neumático de 11×4 pulgadas: el manual del 11+ no fija una cifra única en bar o PSI",
