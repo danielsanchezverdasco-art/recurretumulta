@@ -1,5 +1,6 @@
 /patinetes/bogist-c1-pro/
 /patinetes/bogist-m1-elite/
+/patinetes/bogist-m3-pro/
 /patinetes/bronco-xtreme-11/
 /patinetes/bronco-xtreme-vnom-11/
 /patinetes/cecotec-bongo-d20-xl-connected/
