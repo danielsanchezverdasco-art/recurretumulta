@@ -76,7 +76,12 @@ export default function GaleriaFicha({
   }, [grande, n]);
 
   // 31/10/2026: solo hay hueco si la ficha no tiene NINGUNA foto (marcador data-foto-pendiente solo para informe; nunca noindex).
-  if (n === 0) return <div data-foto-pendiente="1">{vacio}</div>;
+  // 31/10/2026 (orden de Daniel): sin foto NO se pinta ningún texto de relleno («Foto pendiente…»): ficha sin imagen, solo la
+  // maquetación (cabecera, datos, tabla), indexada. `vacio` se ignora a propósito (los .tsx de ficha están en no-tocar.txt).
+  if (n === 0) {
+    void vacio;
+    return <div data-foto-pendiente="1" aria-hidden="true" />;
+  }
   const fit = ajuste === "cover" ? "object-cover" : "object-contain bg-white";
 
   return (
