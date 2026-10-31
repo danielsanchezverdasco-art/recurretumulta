@@ -26,12 +26,12 @@ const MANTENIMIENTO_CARAVELAIR = {
     {
       nombre: "Revisión anual de la caravana",
       queSeCambia:
-        "Estanqueidad (obligatoria para la garantía de 7 años), instalación de gas, electricidad y estado de frenos y neumáticos",
+        "Estanqueidad (exigida para la garantía de 7 años), instalación del gas, electricidad y estado de frenos y neumáticos",
       costeAproxEur: 200,
     },
   ],
   costeAnualAproxEur: 200,
-  fuente: "Red oficial Caravelair / Trigano (control anual de estanqueidad)",
+  fuente: "Red oficial Caravelair y Trigano (control anual de estanqueidad)",
 };
 
 export const CARAVANAS_CARAVELAIR: CocheComparador[] = [

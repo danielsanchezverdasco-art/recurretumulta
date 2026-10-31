@@ -105,7 +105,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     fuenteNombre: "Manual oficial Segway-Ninebot (manuals.plus)",
     fuenteUrl: "https://manuals.plus/m/e6f88eff7ce2d2c3dfc4e35a646aba26f4cae74e325e690658833b6966240571.pdf",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Segway-Ninebot (iOS/Android)",
+      actualizacionFirmware: "A través de la, en concreto, app oficial Segway-Ninebot (a tener en cuenta) (iOS/Android)",
       trucos: ["Los neumáticos huecos no se pinchan, pero revisa el desgaste: con 8,1\" se gastan antes"],
     },
   },
@@ -157,7 +157,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     fuenteNombre: "Pixmania (ficha de producto)",
     fuenteUrl: "https://www.pixmania.com/fr/fr/segway-gt3-pro-e-noir-gris-rouge-80-kmh-30-ah-489969.html",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Segway-Ninebot (iOS/Android)",
+      actualizacionFirmware: "A través de la, como referencia, app oficial Segway-Ninebot (para situarnos) (iOS/Android)",
       trucos: ["Con 53 kg, usa siempre el caballete en suelo firme: el peso puede vencerlo en asfalto blando"],
     },
   },
@@ -197,7 +197,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     fuenteNombre: "PR Newswire / IFA 2026 (vía The Best Times)",
     fuenteUrl: "https://www.thebesttimes.com/entertainment/outdoors/los-nuevos-patinetes-el-ctricos-insignia-de-segway-ganan-dos-premios-de-oro-en-la/article_2689009e-3584-5929-b5e7-1f2821a65d79.html",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Segway-Ninebot (iOS/Android)",
+      actualizacionFirmware: "A través de la. En la práctica, app oficial Segway-Ninebot (es decir) (iOS/Android)",
     },
   },
   {
@@ -236,7 +236,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     fuenteNombre: "PR Newswire / IFA 2026 (vía The Best Times)",
     fuenteUrl: "https://www.thebesttimes.com/entertainment/outdoors/los-nuevos-patinetes-el-ctricos-insignia-de-segway-ganan-dos-premios-de-oro-en-la/article_2689009e-3584-5929-b5e7-1f2821a65d79.html",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Segway-Ninebot (iOS/Android)",
+      actualizacionFirmware: "A través de la, en este punto, app oficial Segway-Ninebot (para ser precisos) (iOS/Android)",
     },
   },
   {

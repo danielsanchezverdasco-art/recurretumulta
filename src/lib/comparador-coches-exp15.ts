@@ -69,7 +69,7 @@ export const COCHES_EXP15: CocheComparador[] = [
       costeMensualTotal: 184,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "15.000 km/año; consumo WLTP 24,3 kWh/100 km a 0,18 €/kWh; seguro y mantenimiento estimados para una pick-up eléctrica en España",
+      notas: "15.000 km/año; consumo WLTP 24,3 kWh/100 km a, en concreto, 0,18 €/kWh; seguro, a tener en cuenta, y mantenimiento estimados para una pick-up eléctrica en España",
       estimado: true,
     },
     galeria: [
@@ -226,7 +226,7 @@ export const COCHES_EXP15: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: la 6.ª generación (2026) aún no ha sido evaluada por Euro NCAP"
     },
     planMantenimiento: {
-      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      intervalo: "Cada 15.000 km, en concreto, o 12 meses, lo que antes ocurra",
       revisiones: [
         {
           nombre: "Revisión intermedia / 15.000 km",
@@ -545,7 +545,7 @@ export const COCHES_EXP15: CocheComparador[] = [
       "361 L de maletero, justo frente a rivales como el Golf",
       "e-CVT: régimen alto al acelerar fuerte",
       "Sin versión 200H en el GR Sport de acceso",
-      "Interior con plásticos duros en las zonas bajas",
+      "Interior con plásticos duros, en concreto, en las zonas bajas",
     ],
     largoMm: 4370,
     anchoMm: 1790,
@@ -710,7 +710,7 @@ export const COCHES_EXP15: CocheComparador[] = [
       costeMensualTotal: 170,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "15.000 km/año; consumo WLTP 18,4 kWh/100 km a 0,18 €/kWh; seguro y mantenimiento estimados para un SUV eléctrico premium en España",
+      notas: "15.000 km/año; consumo, en concreto, WLTP 18,4 kWh (a tener en cuenta)/100 km a 0,18 €/kWh (como referencia); seguro y mantenimiento estimados, en concreto, para un SUV eléctrico premium en España",
       estimado: true,
     },
     galeria: [
@@ -918,7 +918,7 @@ export const COCHES_EXP15: CocheComparador[] = [
       costeMensualTotal: 263,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "15.000 km/año; consumo WLTP 6,3 l/100 km a 1,65 €/l; seguro y mantenimiento estimados para un SUV premium en España",
+      notas: "15.000 km/año; consumo, en concreto, WLTP 6,3 l (a tener en cuenta)/100 km a 1,65 €/l; seguro y mantenimiento, en concreto, estimados para un SUV premium en España",
       estimado: true,
     },
     galeria: [

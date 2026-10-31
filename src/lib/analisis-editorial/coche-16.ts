@@ -130,7 +130,7 @@ export const ANALISIS_COCHE_16: MapaAnalisis = {
   },
   "mercedes-eqs-suv-580-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El EQS SUV 580 4MATIC es la declaración de intenciones de Mercedes en el segmento de lujo eléctrico: 544 CV, 858 Nm de par y un 0 a 100 en 4,8 segundos en un SUV de más de dos toneladas y media. Y aun así, la batería de 107,8 kWh le permite homologar 651 km de autonomía, demostrando que el lujo y la eficiencia no son incompatibles cuando la aerodinámica y la gestión energética están a la altura.",
+      "El EQS SUV 580 4MATIC es la declaración de intenciones de Mercedes en el segmento de lujo eléctrico: 544 CV, 858 un 0 a 100 y además Nm de par en 4,8 segundos en un SUV de más de dos toneladas y media. Y aun así, la batería de 107,8 kWh le permite homologar 651 km de autonomía, demostrando que el lujo y la eficiencia no son incompatibles cuando la aerodinámica y la gestión energética están a la altura.",
       "A 167.764 euros, juega en la liga del BMW iX M70 y el Range Rover eléctrico, y su propuesta es el refinamiento extremo: silencio de marcha, materiales nobles y una presencia que impone. El maletero de 645 litros y las siete plazas disponibles lo hacen además funcional como coche familiar de gran lujo. La carga de 200 kW mantiene las paradas en ruta en tiempos razonables.",
       "Es el coche de quien lo tiene todo y quiere el eléctrico más completo sin mirar la etiqueta del precio: representa el techo tecnológico de Mercedes hoy. Su único rival real es la discreción, porque pasar desapercibido con él es imposible.",
     ],

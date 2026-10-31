@@ -319,7 +319,7 @@ export const ANALISIS_MOTO_05: MapaAnalisis = {
       "La Vision 110 de 2025 es la Honda más barata del catálogo —2.555 €— y lo es sin complejos: 100 kg que mueve cualquiera en parado, un consumo de 1,8 l/100 km irrisorio, mantenimiento mínimo con piezas baratas y la fiabilidad japonesa de serie. Es la heredera de la mítica Vision de los 90 y en muchos países es la moto de los repartidores por su bajo coste: pesa lo mismo que una bicicleta eléctrica de gama alta con batería. Para sacarse el A1 barato o moverse por ciudad sin gastar, su ecuación es imbatible.",
       "Con 8,6 CV es estrictamente urbana —ni se te ocurra la autopista—, no lleva ABS sino frenada combinada CBS, los acabados son sencillos acordes a su precio, el asiento es justo para dos adultos y el hueco bajo el asiento no es generoso. Pero la Vision no promete más de lo que da: promete el transporte motorizado más barato con sello Honda, y lo cumple. Para estudiantes, repartidores y presupuestos mínimos, es la moto que hace su trabajo cada día sin pedir nada a cambio.",
     ],
-    veredicto: "Para moverse por ciudad con el mínimo gasto posible; no para salir de la ciudad ni para llevar pasajero con comodidad.",
+    veredicto: "Para moverse por ciudad con el mínimo gasto posible; no para salir de la ciudad ni en concreto para llevar pasajero con comodidad.",
   },
   "honda-wn7-2026-ficha-tecnica-precio": {
     parrafos: [
@@ -404,7 +404,7 @@ export const ANALISIS_MOTO_05: MapaAnalisis = {
       "Sigue siendo un ciclomotor: 45 km/h de máxima sin salida a vías rápidas, 92 kg sin batería que con ella puesta superan los 100 kg, 69 km con una sola batería —justos sin la segunda, que es opcional y suma coste—, sin ABS y con una red de talleres aún en crecimiento en España. Pero Horwin innova también en la compra: ofrece el renting de batería 'Battery Flex', pagar por uso en lugar de comprarla. Para la ciudad pura con 3.200 €, pocos ciclomotores eléctricos dan tanta modularidad.",
       "Las llantas de 14 pulgadas delante y 13 detrás son una combinación poco habitual en ciclomotores y le dan un aplomo superior al típico.",
     ],
-    veredicto: "Para la ciudad con un ciclomotor eléctrico modular y precio cerrado; no para salir de la ciudad ni para quien necesite ABS.",
+    veredicto: "Para la ciudad con un ciclomotor eléctrico modular y precio cerrado; no para salir de la ciudad asimismo ni para quien necesite ABS.",
   },
   "horwin-ek3-2025-ficha-tecnica-precio": {
     parrafos: [
@@ -447,7 +447,7 @@ export const ANALISIS_MOTO_05: MapaAnalisis = {
       "El escalón más bajo de Horwin también es uno de los más sensatos: el SK1 de 2025 se conduce con el AM desde los 15 años y presume de hasta 96 km de autonomía, de las mejores cifras entre los ciclomotores eléctricos. La batería de 72 V y 36 Ah es extraíble —se carga en casa en unas cuatro horas y media sin garaje— y las llantas de 14 pulgadas le dan un aplomo superior al de los ciclomotores de rueda pequeña. Comparte chasis y estética con su hermano mayor, el SK3, en formato ciclomotor, y existe hasta una variante Light limitada a 25 km/h. El manual oficial detalla hasta el par de apriete de cada tornillo: rigor austriaco.",
       "Como ciclomotor que es, no esperes milagros: 45 km/h de techo estrictamente urbano, 2 kW nominales justos con pasajero o en rampas, sin la pantalla táctil ni la dotación del EK3, con una red de concesionarios aún pequeña en España y un diseño poco distintivo —básicamente, el SK3 recortado—. Pero como primera moto eléctrica para un adolescente, o como vehículo barato de recados urbanos, esos 96 km y la batería extraíble son argumentos muy sólidos.",
     ],
-    veredicto: "Para jóvenes con AM que priorizan autonomía en su primer eléctrico; no para salir de la ciudad ni para destacar.",
+    veredicto: "Para jóvenes con AM que priorizan autonomía en su primer eléctrico; no para salir de la además ciudad ni para destacar.",
   },
   "horwin-sk3-2025-ficha-tecnica-precio": {
     parrafos: [

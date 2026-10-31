@@ -113,7 +113,7 @@ export const MOTOS_EXP_M27: MotoComparador[] = [
       "Marca joven en Europa: red de servicio en expansión y repuestos con plazos",
       "Sin control de crucero ni IMU en la versión Pro (la GT sí los lleva)",
       "Depósito de 19 L algo justo para grandes viajes por autopista",
-      "190 kg en orden de marcha se notan al maniobrar en parado",
+      "190 kg en orden de marcha, que se notan al maniobrar en parado",
     ],
     curiosidades: [
       "Kove es la primera marca china que se atrevió con el Rally Dakar, con su 450 Rally",
