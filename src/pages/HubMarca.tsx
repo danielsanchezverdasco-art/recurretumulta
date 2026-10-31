@@ -8,7 +8,7 @@ import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import { useUltimaActualizacion } from "@/hooks/use-ficha-fechas.ts";
 
-type Datos = { p: string; cat: string; catNombre: string; h1: string; title: string; description: string; intro: string; items: [string, string][]; tabla?: [string, string, string, string][] | null; resumen?: string | null; nombre?: string; editorial?: { historia?: string[]; gama?: string; destacados?: string; faq?: { q: string; a: string }[]; cifras?: string[]; destacadosModelos?: { s: string; n: string; t: string }[]; parecidos?: { ref: { s: string; n: string }; pre: string; items: { s: string; n: string; v: string }[] }[]; fuentes?: { nombre: string; url: string }[] } };
+type Datos = { p: string; cat: string; catNombre: string; h1: string; title: string; description: string; intro: string; items: [string, string][]; tabla?: [string, string, string, string][] | null; resumen?: string | null; nombre?: string; editorial?: { historia?: string[]; gama?: string; destacados?: string; faq?: { q: string; a: string }[]; cifras?: string[]; modelos?: { s: string; n: string; y: string; chips: string[] }[]; destacadosModelos?: { s: string; n: string; t: string }[]; parecidos?: { ref: { s: string; n: string }; pre: string; items: { s: string; n: string; v: string }[] }[]; fuentes?: { nombre: string; url: string }[] } };
 const leer = (doc: Document, p: string): Datos | null => {
   try { const d = JSON.parse(doc.getElementById("hub-marca-data")?.textContent || "null") as Datos | null; return d && d.p === p ? d : null; } catch { return null; }
 };
@@ -65,6 +65,18 @@ export default function HubMarca() {
               {ed.cifras.map((c, i) => <p key={i} className="text-sm text-gray-700 leading-relaxed">{c}</p>)}
             </section>
           )}
+          {ed?.modelos && ed.modelos.length > 0 && (
+            <section className="space-y-2" data-marca-modelos>
+              <h2 className="text-lg font-black text-gray-900">Ficha a ficha de {d.nombre}</h2>
+              <ul className="list-disc pl-5 space-y-1">
+                {ed.modelos.map((m) => (
+                  <li key={m.s} className="text-sm text-gray-700 leading-relaxed"><Link to={`/${d.cat}/${m.s}/`} className="text-red-600 hover:underline">{m.n}</Link>{m.y}
+                    <ul className="mt-1 flex flex-wrap gap-1">{m.chips.map((k, i) => <li key={i} className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-700">{k}</li>)}</ul>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
           <ul className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-1">
             {d.items.map(([s, n]) => <li key={s}><Link to={`/${d.cat}/${s}/`} className="text-sm text-gray-700 hover:text-red-600">{n}</Link></li>)}
           </ul>
@@ -73,7 +85,7 @@ export default function HubMarca() {
               <h2 className="text-lg font-black text-gray-900">Comparativa rápida de {d.nombre}</h2>
               {d.resumen && <p className="text-sm text-gray-700 max-w-3xl leading-relaxed">{d.resumen}</p>}
               <div className="overflow-x-auto"><table className="text-sm text-gray-700"><thead><tr className="text-left text-xs text-gray-500"><th className="pr-3">Modelo</th><th className="pr-3">Precio desde</th><th>Dato clave</th></tr></thead><tbody>
-                {d.tabla.map(([s, n, pr, dt]) => <tr key={s}><td className="py-1 pr-3"><Link to={`/${d.cat}/${s}/`} className="text-red-600 hover:underline">{n}</Link></td><td className="py-1 pr-3 whitespace-nowrap">{pr || "Sin precio oficial"}</td><td className="py-1">{dt || "—"}</td></tr>)}
+                {d.tabla.map(([s, n, pr, dt]) => <tr key={s}><td className="py-1 pr-3"><Link to={`/${d.cat}/${s}/`} className="text-red-600 hover:underline">{n}</Link></td><td className="py-1 pr-3 whitespace-nowrap">{pr || "Sin precio oficial"}</td><td className="py-1">{ed?.modelos?.length && dt ? <ul className="flex flex-wrap gap-1">{dt.split(", ").map((k, i) => <li key={i} className="rounded bg-gray-100 px-1.5 py-0.5 text-xs">{k}</li>)}</ul> : dt || "—"}</td></tr>)}
               </tbody></table></div>
             </section>
           )}
@@ -89,8 +101,12 @@ export default function HubMarca() {
             <section className="space-y-2" data-marca-parecidos>
               <h2 className="text-lg font-black text-gray-900">Alternativas de otras marcas</h2>
               {ed.parecidos.map((x) => (
-                <p key={x.ref.s} className="text-sm text-gray-700 leading-relaxed">{x.pre}{" "}
-                  {x.items.map((m, i) => <span key={m.s}>{i > 0 ? (i === x.items.length - 1 ? " y " : ", ") : ""}<Link to={`/${d.cat}/${m.s}/`} className="text-red-600 hover:underline">{m.n}</Link> ({m.v})</span>)}.</p>
+                <div key={x.ref.s} className="space-y-2">
+                  <p className="text-sm text-gray-700 leading-relaxed">{x.pre}</p>
+                  <ul className="list-disc pl-5 space-y-1">
+                    {x.items.map((m) => <li key={m.s} className="text-sm text-gray-700"><Link to={`/${d.cat}/${m.s}/`} className="text-red-600 hover:underline">{m.n}</Link> ({m.v})</li>)}
+                  </ul>
+                </div>
               ))}
             </section>
           )}

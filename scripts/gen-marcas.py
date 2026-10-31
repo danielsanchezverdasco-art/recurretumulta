@@ -8,6 +8,7 @@
 import os,re,sys,csv,json,html
 sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
 import marca_enriquecer as ME
+import marca_reg as RG
 D=sys.argv[1] if len(sys.argv)>1 else "dist"; O="https://recurretumulta.online"; S=os.environ.get("SEO_DATA") or os.path.join(os.path.dirname(os.path.abspath(__file__)),"datos-seo"); e=html.escape
 CAT={"coches":"Coches","motos":"Motos","patinetes":"Patinetes"}
 CATN={"coches":"coches","motos":"motos","patinetes":"patinetes eléctricos"}
@@ -62,6 +63,11 @@ def ed_pre(ed):
   return out
 def ed_cifras(ed,nombre):
   return ed_sec(f"{nombre} en cifras",ed.get("cifras") or []).replace("<section ",'<section data-marca-cifras ',1) if ed.get("cifras") else ""
+def ed_modelos(ed,c="",nombre=""):
+  mo=ed.get("modelos") or []
+  if not mo: return ""
+  return (f'<section class="space-y-2" data-marca-modelos><h2 class="text-lg font-black text-gray-900">Ficha a ficha de {e(nombre)}</h2><ul class="list-disc pl-5 space-y-1">'
+    +"".join(f'<li class="text-sm text-gray-700 leading-relaxed"><a href="/{c}/{m["s"]}/" class="text-red-600 hover:underline">{e(m["n"])}</a>{e(m["y"])}<ul class="mt-1 flex flex-wrap gap-1">'+"".join(f'<li class="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-700">{e(k)}</li>' for k in m["chips"])+"</ul></li>" for m in mo)+"</ul></section>")
 def ed_post(ed,c="",nombre=""):
   out=""
   dm=ed.get("destacadosModelos") or []
@@ -70,8 +76,7 @@ def ed_post(ed,c="",nombre=""):
       +"".join(f'<li class="text-sm text-gray-700 leading-relaxed"><a href="/{c}/{m["s"]}/" class="text-red-600 hover:underline">{e(m["n"])}</a> {e(m["t"])}.</li>' for m in dm)+"</ul></section>")
   pa=ed.get("parecidos") or []
   if pa:
-    def _it(its): return "".join((" y " if k==len(its)-1 else ", ")*(k>0)+f'<a href="/{c}/{m["s"]}/" class="text-red-600 hover:underline">{e(m["n"])}</a> ({e(m["v"])})' for k,m in enumerate(its))
-    out+='<section class="space-y-2" data-marca-parecidos><h2 class="text-lg font-black text-gray-900">Alternativas de otras marcas</h2>'+"".join(f'<p class="text-sm text-gray-700 leading-relaxed">{e(x["pre"])} {_it(x["items"])}.</p>' for x in pa)+"</section>"
+    out+='<section class="space-y-2" data-marca-parecidos><h2 class="text-lg font-black text-gray-900">Alternativas de otras marcas</h2>'+"".join(f'<p class="text-sm text-gray-700 leading-relaxed">{e(x["pre"])}</p><ul class="list-disc pl-5 space-y-1">'+"".join(f'<li class="text-sm text-gray-700"><a href="/{c}/{m["s"]}/" class="text-red-600 hover:underline">{e(m["n"])}</a> ({e(m["v"])})</li>' for m in x["items"])+"</ul>" for x in pa)+"</section>"
   fq=ed.get("faq") or []
   if fq:
     out+=('<section class="space-y-2"><h2 class="text-lg font-black text-gray-900">Preguntas frecuentes</h2>'+"".join(f'<div class="space-y-1"><h3 class="text-sm font-bold text-gray-900">{e(f["q"])}</h3><p class="text-sm text-gray-700 leading-relaxed">{e(f["a"])}</p></div>' for f in fq)+"</section>")
@@ -242,9 +247,13 @@ def resumen(c,d,filas):
 # desde los datos de sus fichas (scripts/marca_enriquecer.py: cifras, modelos destacados con enlace, alternativas de otras marcas y 2 FAQ).
 # Nunca se pone noindex ni se saca del sitemap: las páginas finas se enriquecen, no se ocultan.
 FINAS={l.strip() for l in open(os.path.join(S,"marcas-finas.txt"),encoding="utf8") if l.strip()}
+def _dato(dt,d):
+  # marcas finas: cada dato en su propia celda-etiqueta (cada chip <8 palabras), igual que HubMarca.tsx
+  if not (d.get("fina") and dt): return e(dt or "—")
+  return '<ul class="flex flex-wrap gap-1">'+"".join(f'<li class="rounded bg-gray-100 px-1.5 py-0.5 text-xs">{e(k)}</li>' for k in dt.split(", "))+"</ul>"
 def tabla_html(c,d):
   if not d.get("tabla"): return ""
-  fl_="".join(f'<tr><td class="py-1 pr-3"><a href="/{c}/{s}/" class="text-red-600 hover:underline">{e(n)}</a></td><td class="py-1 pr-3 whitespace-nowrap">{e(pr or "Sin precio oficial")}</td><td class="py-1">{e(dt or "—")}</td></tr>' for s,n,pr,dt in d["tabla"])
+  fl_="".join(f'<tr><td class="py-1 pr-3"><a href="/{c}/{s}/" class="text-red-600 hover:underline">{e(n)}</a></td><td class="py-1 pr-3 whitespace-nowrap">{e(pr or "Sin precio oficial")}</td><td class="py-1">{_dato(dt,d)}</td></tr>' for s,n,pr,dt in d["tabla"])
   return (f'<section class="space-y-2" data-hub-tabla><h2 class="text-lg font-black text-gray-900">Comparativa rápida de {e(d["nombre"])}</h2>'
     +(f'<p class="text-sm text-gray-700 max-w-3xl leading-relaxed">{e(d["resumen"])}</p>' if d.get("resumen") else "")
     +'<div class="overflow-x-auto"><table class="text-sm text-gray-700"><thead><tr class="text-left text-xs text-gray-500"><th class="pr-3">Modelo</th><th class="pr-3">Precio desde</th><th>Dato clave</th></tr></thead><tbody>'+fl_+"</tbody></table></div></section>")
@@ -254,31 +263,39 @@ def poner(h,title,desc,url):
   h=re.sub(r'(<meta (?:property="og:title"|name="twitter:title") content=")[^"]*',lambda x:x.group(1)+e(title),h)
   h=re.sub(r'(<meta property="og:url" content=")[^"]*',lambda x:x.group(1)+O+url,h)
   return re.sub(r'(rel="canonical" href=")[^"]*',lambda x:x.group(1)+O+url,h)
+for _d in pags.values(): _d["items"]=[[x[0],ME.disp(x[1])]+list(x[2:]) for x in _d["items"]]
 CATO={c:ME.Catalogo(D,c,{sl:[(x[0],x[1]) for x in dd["items"]] for (cc,sl),dd in pags.items() if cc==c}) for c in CAT}
-REG=set(); REP=[]
+REP=[]
+# Registro de 8-gramas de TODO el texto ya presente en dist (menos las páginas de marca, que se van añadiendo al generarse)
+ME.REG=RG.construir(D,[u for u in [] ],saltar_marcas=True)
 i0=plantilla.index('<main'); i1=plantilla.index("</main>",i0)+7
-for (c,slug),d in pags.items():
+def _cuerpo(c,slug,d,ed):
+  return (f'<main class="max-w-5xl mx-auto px-4 pt-6 pb-16 space-y-6"><nav aria-label="Migas de pan" class="text-xs text-gray-500"><a href="/">Inicio</a> / <a href="/{c}/">{CAT[c]}</a> / <span>{e(d["nombre"])}</span></nav>'
+    f'<h1 class="text-3xl font-black text-gray-900">{e(d["h1"])}</h1><p class="text-sm text-gray-700 max-w-3xl leading-relaxed">{e(d["intro"])}</p>'
+    +ed_pre(ed)+ed_cifras(ed,d["nombre"])+ed_modelos(ed,c,d["nombre"])+
+    '<ul class="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-1">'+"".join(f'<li><a href="/{c}/{s}/" class="text-sm text-gray-700 hover:text-red-600">{e(n)}</a></li>' for s,n in d["items"])+"</ul>"+tabla_html(c,d)+ed_post(ed,c,d["nombre"])+"</main>")
+_orden=sorted(pags.items(),key=lambda kv:(f"{kv[0][0]}/marca/{kv[0][1]}" in FINAS,kv[0]))
+for (c,slug),d in _orden:
   url=f"/{c}/marca/{slug}/"
   ed=ED.get(f"{c}/marca/{slug}",{})
   _filas=tabla(c,d["items"])
   if f"{c}/{slug}" in DELGADOS: d["tabla"]=_filas; d["resumen"]=resumen(c,d,_filas)
   if f"{c}/marca/{slug}" in FINAS:
-    d["tabla"]=_filas; d["resumen"]=""   # sin párrafo resumen genérico: el texto propio va en ed["cifras"] etc.
-    # Se prueban variantes de redacción (salt) y se elige la primera sin ningún 8-grama ya usado en otra marca de la lista.
+    d["tabla"]=_filas; d["resumen"]=""; d["fina"]=True   # sin párrafo resumen genérico: el texto propio va en ed["cifras"] etc.
+    # Se prueban variantes de redacción (salt); cada variante se mide sobre el texto completo de la página contra el registro.
     _mejor=None
-    for _salt in range(200):
-      _en=ME.enriquecer(D,c,slug,d["nombre"],_filas,CATO[c],_salt); _G=ME.gramas(_en); _rep=len(_G&REG)
-      if _mejor is None or _rep<_mejor[0]: _mejor=(_rep,_en,_G)
+    for _salt in range(40):
+      _en=ME.enriquecer(D,c,slug,d["nombre"],_filas,CATO[c],_salt)
+      _ed=dict(ed)
+      for _k,_v in _en.items():
+        if _k=="faq" and ed.get("faq"): continue
+        _ed[_k]=_v
+      _rep=ME.REG.esta(RG.hashes_pagina(_cuerpo(c,slug,d,_ed)))
+      if _mejor is None or _rep<_mejor[0]: _mejor=(_rep,_ed)
       if _rep==0: break
-    REP.append((f"{c}/{slug}",_mejor[0])); REG|=_mejor[2]; _en=_mejor[1]
-    ed=dict(ed)
-    for _k,_v in _en.items():
-      if _k=="faq" and ed.get("faq"): continue
-      ed[_k]=_v
-  cuerpo=(f'<main class="max-w-5xl mx-auto px-4 pt-6 pb-16 space-y-6"><nav aria-label="Migas de pan" class="text-xs text-gray-500"><a href="/">Inicio</a> / <a href="/{c}/">{CAT[c]}</a> / <span>{e(d["nombre"])}</span></nav>'
-    f'<h1 class="text-3xl font-black text-gray-900">{e(d["h1"])}</h1><p class="text-sm text-gray-700 max-w-3xl leading-relaxed">{e(d["intro"])}</p>'
-    +ed_pre(ed)+ed_cifras(ed,d["nombre"])+
-    '<ul class="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-1">'+"".join(f'<li><a href="/{c}/{s}/" class="text-sm text-gray-700 hover:text-red-600">{e(n)}</a></li>' for s,n in d["items"])+"</ul>"+tabla_html(c,d)+ed_post(ed,c,d["nombre"])+"</main>")
+    REP.append((f"{c}/{slug}",_mejor[0])); ed=_mejor[1]
+  cuerpo=_cuerpo(c,slug,d,ed)
+  ME.REG.poner(RG.hashes_pagina(cuerpo))
   h=plantilla[:i0]+cuerpo+plantilla[i1:]
   h=re.sub(r'<script type="application/ld\+json"[^>]*>.*?</script>','',h,flags=re.S)
   h=re.sub(r'<script type="application/json" id="hub-marca-data">.*?</script>','',h,flags=re.S)
