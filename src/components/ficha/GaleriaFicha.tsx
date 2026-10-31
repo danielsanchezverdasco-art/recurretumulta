@@ -33,21 +33,15 @@ export default function GaleriaFicha({
   /** Qué mostrar si no hay ninguna foto válida. */
   vacio: React.ReactNode;
 }) {
-  const [rotas, setRotas] = useState<Set<string>>(() => new Set());
-  const lista = fotos.filter((f) => f.src && !rotas.has(f.src));
+  // 31/10/2026 (orden de Daniel): este componente NUNCA oculta una foto que existe. Solo se descartan items sin src.
+  // Antes, un fallo de carga puntual (p. ej. una variante -480w/-828w ausente) marcaba la foto como «rota», la quitaba y
+  // pintaba «Foto pendiente» + noindex. Ahora, si falla una variante se carga el original y la foto se queda siempre.
+  const lista = fotos.filter((f) => f.src);
   const n = lista.length;
   const trackRef = useRef<HTMLDivElement>(null);
   const [idx, setIdx] = useState(0);
   const [grande, setGrande] = useState<number | null>(null);
   const down = useRef<{ x: number; y: number } | null>(null);
-
-  const marcarRota = (src: string) =>
-    setRotas((s) => {
-      if (s.has(src)) return s;
-      const c = new Set(s);
-      c.add(src);
-      return c;
-    });
 
   const irA = useCallback(
     (i: number) => {
@@ -81,7 +75,7 @@ export default function GaleriaFicha({
     };
   }, [grande, n]);
 
-  // 31/10/2026: marcador para scripts/postfix-foto-pendiente.py (ficha sin foto real = noindex + fuera del sitemap).
+  // 31/10/2026: solo hay hueco si la ficha no tiene NINGUNA foto (marcador data-foto-pendiente solo para informe; nunca noindex).
   if (n === 0) return <div data-foto-pendiente="1">{vacio}</div>;
   const fit = ajuste === "cover" ? "object-cover" : "object-contain bg-white";
 
@@ -136,9 +130,7 @@ export default function GaleriaFicha({
                     im.removeAttribute("srcset");
                     im.removeAttribute("sizes");
                     im.src = f.src;
-                    return;
                   }
-                  marcarRota(f.src);
                 }}
                 className={`aspect-video w-full select-none ${fit}`}
               />

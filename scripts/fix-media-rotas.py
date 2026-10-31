@@ -49,13 +49,10 @@ for raiz, _, fs in os.walk(D):
         if "/media/" not in s: continue
         o = s
         rel = "/" + os.path.relpath(raiz, D).replace(os.sep, "/") + "/"
-        INDEXABLE = not NOIDX.search(s)
-        if INDEXABLE and FICHA.match(rel):
+        # 31/10/2026 (regla de Daniel): NUNCA se añade noindex. Una ficha cuyo og:image es placeholder solo se informa.
+        if FICHA.match(rel):
             og = re.search(r'og:image"\s+content="(?:https://recurretumulta\.online)?(/media/[^"?]+)', s)
-            if og and es_ph(urllib.parse.unquote(og.group(1))):
-                NOI = '<meta name="robots" content="noindex,follow">'
-                s = ROBOTS.sub(NOI, s, 1) if ROBOTS.search(s) else s.replace("</head>", NOI + "</head>", 1)
-                INDEXABLE = False; noidx_f.append(rel)
+            if og and es_ph(urllib.parse.unquote(og.group(1))): noidx_f.append(rel)
         def img(m):
             global n_img
             if any(mala(u) for u in re.findall(URL, m.group(0))): n_img += 1; return ""
@@ -81,14 +78,5 @@ for raiz, _, fs in os.walk(D):
         s = re.sub(r'"(?:https://recurretumulta\.online)?(/media/[^"\\]+\.(?:webp|jpg|jpeg|png))"', lambda m: js(m) if '"image"' in s[max(0, m.start()-40):m.start()] or '"url"' in s[max(0, m.start()-12):m.start()] or '"contentUrl"' in s[max(0, m.start()-20):m.start()] else m.group(0), s)
         s = s.replace('<p class="text-sm text-gray-700 leading-relaxed my-2"></p>', "") if s != o else s
         if s != o: open(fp, "w", encoding="utf8").write(s); pag += 1
-if noidx_f:
-    sm = os.path.join(D, "sitemap.xml")
-    if os.path.exists(sm):
-        x = open(sm, encoding="utf-8").read()
-        for r in noidx_f: x = re.sub(r"<url>\s*<loc>https://recurretumulta\.online" + re.escape(r) + r"</loc>.*?</url>\s*", "", x, flags=re.S)
-        open(sm, "w", encoding="utf-8").write(x)
-    lst = os.path.join(AQUI, "noindex-foto-pendiente.txt")
-    cur = set(open(lst).read().split()) if os.path.exists(lst) else set()
-    open(lst, "w").write("".join(u + "\n" for u in sorted(cur | {"https://recurretumulta.online" + r for r in noidx_f})))
-print(f"fix-media-rotas: fichas con foto principal placeholder -> noindex {len(noidx_f)} |", end=" ")
+print(f"fix-media-rotas: fichas con foto principal placeholder (solo informe, sin noindex) {len(noidx_f)} |", end=" ")
 print(f"fix-media-rotas: {pag} páginas | img quitadas {n_img} | video {n_vid} | og/twitter/JSON-LD -> por defecto {n_meta}")

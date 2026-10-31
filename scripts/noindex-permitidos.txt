@@ -1,0 +1,12 @@
+# Únicas páginas que pueden llevar noindex (regla de Daniel 31/10/2026). Todo lo demás: index + sitemap.
+/contacto/
+/cookies/
+/juego-monos/            # juego en pausa; noindex en vivo desde el 14/10
+/juego-monos/bases/
+/newsletter/baja/
+/alertas/baja/
+/reportar-carretera/gracias/
+# Legales: ya eran noindex EN VIVO antes del 25/10 (routes.json sitemapExclude desde el 12/10). Quitar estas 3 líneas si Daniel las quiere indexables.
+/privacidad/
+/aviso-legal/
+/terminos/

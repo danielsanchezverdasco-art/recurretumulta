@@ -15,7 +15,7 @@ PROD = "https://recurretumulta.online"
 SECRETOS = ["NETLIFY_AUTH_TOKEN", "CF_API_TOKEN", "CLOUDFLARE_API_TOKEN", "CF_ZONE_ID"]
 FASES = ["entorno", "candado", "vivo", "git", "src", "rev3", "build", "dist", "publicar"]
 # Ficheros que `npm run build` y el postproceso regeneran y dejan "modificados" en git: es normal.
-DIRT_OK = re.compile(r"(\.generated\.|__pycache__|^sitemap-final-informe\.json$|^scripts/noindex-vacios\.txt$|^scripts/noindex-foto-pendiente\.txt$|"
+DIRT_OK = re.compile(r"(\.generated\.|__pycache__|^sitemap-final-informe\.json$|^scripts/noindex-vacios\.txt$|"
                      r"^src/lib/(data-loaders|historial-precios-gen|ficha-extra-gen|fichas-fechas-eeat|audiencia)/|"
                      r"^tools/publicar/(\.env$|\.deploy-work)|^\.deploy-work)")
 # Cambios que solo tocan datos/contenido: permiten prerender parcial. Cualquier otro cambio de src/ exige prerender TOTAL.
@@ -364,17 +364,17 @@ def f_build(c):
     c.ok("todas las rutas tienen página en dist")
     for cmd in [["python3", "scripts/gen-hero-variantes.py", "dist"], ["python3", "scripts/gen-hubs.py", "dist"], ["python3", "scripts/seo-dist.py", "dist"],
                 ["python3", "scripts/gen-marcas.py", "dist"], ["node", "scripts/apply-seo.mjs", "dist"], ["python3", "scripts/fix-jsonld-fichas.py", "dist"],
-                ["python3", "scripts/fix-jsonld-global.py", "dist"], ["python3", "scripts/adsense-dist.py", "dist", "blog"], ["python3", "scripts/adsense-dist.py", "dist", "noindex"],
-                ["node", "scripts/apply-seo.mjs", "dist"], ["python3", "scripts/postfix-dist.py", "dist"], ["python3", "scripts/postfix-vacios.py", "dist"],
+                ["python3", "scripts/fix-jsonld-global.py", "dist"], ["python3", "scripts/adsense-dist.py", "dist", "blog"], ["node", "scripts/apply-seo.mjs", "dist"], ["python3", "scripts/postfix-dist.py", "dist"], ["python3", "scripts/postfix-vacios.py", "dist"],
                 ["python3", "scripts/fix-redirects.py"], ["python3", "../scripts/fix-chains.py"], ["python3", "scripts/postproceso-seo-20261019.py", "dist"],
                 ["python3", "scripts/deploy/fotos-hotfix/fotos_hotfix.py", "dist/media", "--bajar-origenes", "--lista-salida", os.path.join(c.work, "media-forzar.txt")],
                 ["python3", "scripts/postfix-foto-pendiente.py", "dist"],
+                ["python3", "scripts/politica-noindex.py", "dist"],  # 31/10: regla de Daniel, sin noindex salvo scripts/noindex-permitidos.txt
                 ["python3", "scripts/sitemap-final.py", "dist"]]:
         cwd = os.path.join(c.repo, "dist") if cmd[1] == "../scripts/fix-chains.py" else c.repo
         cmd = [sys.executable if x == "python3" else x for x in cmd]
         c.say("  paso: " + " ".join(os.path.basename(x) if i == 0 else x for i, x in enumerate(cmd[:3])))
         c.run(cmd, cwd=cwd, quiet=True)
-    c.ok("postproceso (18 pasos) OK")
+    c.ok("postproceso (17 pasos) OK")
     dirty = [l for l in c.git("status", "--porcelain").splitlines() if l.strip()]
     malos = [l for l in dirty if not DIRT_OK.search(l[3:].strip().strip('"'))]
     if malos: c.abort("El build ha modificado ficheros fuente inesperados: " + "; ".join(malos[:6]))
@@ -446,10 +446,17 @@ def f_dist(c):
     c.ok("0 fotos rotas nuevas (%d ya estaban rotas en vivo)" % len(rotas))
     c.py("chequeo_fotos.py", "--dist", c.dist, "--cambios", os.path.join(c.work, "cambios.json"), quiet=True)
     c.ok("chequeo_fotos.py OK (sin fotos IA, fotos nuevas con URL de fuente)")
-    # 31/10/2026: BLOQUEANTE — ninguna página indexable con foto placeholder, <img src vacío> ni texto interno (null, precioDesde, Grok 22:15...).
+    # 31/10/2026 (orden de Daniel): las comprobaciones de FOTOS solo INFORMAN (no abortan). Lo que sí aborta: noindex fuera de lista.
     rc, t = c.run([sys.executable, os.path.join(c.repo, "scripts", "validar-dist-publicable.py"), c.dist, "--informe", os.path.join(c.work, "validar-dist.txt")], check=False, quiet=True)
-    if rc != 0: c.abort("validar-dist-publicable.py: páginas indexables con foto placeholder / texto interno. Informe: %s. %s" % (os.path.join(c.work, "validar-dist.txt"), "; ".join(t.strip().splitlines()[:4])[:400]))
-    c.ok("validar-dist-publicable.py OK (0 placeholders ni texto interno en páginas indexables)")
+    if rc != 0: c.warn("validar-dist-publicable.py (solo informe): %s. Informe: %s" % ("; ".join(t.strip().splitlines()[:2])[:300], os.path.join(c.work, "validar-dist.txt")))
+    else: c.ok("validar-dist-publicable.py OK")
+    rc, t = c.run([sys.executable, os.path.join(HERE, "verificar_fotos_fichas.py"), c.dist, "--informe", os.path.join(c.work, "verificar-fotos-fichas.txt")], check=False, quiet=True)
+    c.say("    " + (t.strip().splitlines() or ["(sin salida)"])[0][:300])
+    if rc != 0: c.warn("verificar_fotos_fichas.py (solo informe): fichas con foto que no se pinta / imágenes sin 200. Informe: %s" % os.path.join(c.work, "verificar-fotos-fichas.txt"))
+    # REGLA DE DANIEL: nunca noindex salvo scripts/noindex-permitidos.txt (BLOQUEANTE)
+    rc, t = c.run([sys.executable, os.path.join(c.repo, "scripts", "politica-noindex.py"), c.dist, "--comprobar"], check=False, quiet=True)
+    if rc != 0: c.abort("Hay páginas con noindex fuera de scripts/noindex-permitidos.txt: %s" % t.strip()[:400])
+    c.ok("0 noindex fuera de la lista permitida (scripts/noindex-permitidos.txt)")
     # títulos congelados en el HTML real: muestra de páginas cambiadas vs vivo
     exist = [p for p in cam["chg"] if p.endswith(".html")]
     random.seed(1); muestra = random.sample(exist, min(len(exist), c.a.muestra_titulos))

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""AdSense (25/10/2026): fichas sin foto real -> noindex,follow (y fuera del sitemap).
+"""31/10/2026: SOLO INFORME de fichas sin foto real (ya no se pone noindex ni se quita del sitemap; orden de Daniel).
+Antes (AdSense 25/10): fichas sin foto real -> noindex,follow (y fuera del sitemap).
 Detecta en el HTML prerenderizado el hueco de GaleriaFicha («Foto [oficial] pendiente de
 verificación», marcado con data-foto-pendiente). Se recalcula en cada build: cuando la ficha
 tiene foto real el hueco no se pinta y la página vuelve sola al índice y al sitemap
@@ -23,15 +24,8 @@ for root, _, files in os.walk(D):
     # 31/10/2026: el hueco solo se pinta cuando GaleriaFicha no tiene NINGUNA foto: ficha sin foto real = noindex siempre
     # (antes se salvaba si había cualquier /media/coches/... en la página, p. ej. en una tarjeta de «relacionados»).
     lista.append(rel)
-    if SOLO: continue
-    n = ROBOTS.sub(NOI, s, 1) if ROBOTS.search(s) else s.replace("</head>", NOI + "</head>", 1)
-    if n != s: open(p, "w", encoding="utf-8").write(n)
-sm = os.path.join(D, "sitemap.xml")
-if lista and os.path.exists(sm) and not SOLO:
-    x = open(sm, encoding="utf-8").read()
-    for r in lista:
-        x = re.sub(r'<url>\s*<loc>https://recurretumulta\.online' + re.escape(r) + r'</loc>.*?</url>\s*', '', x, flags=re.S)
-    open(sm, "w", encoding="utf-8").write(x)
-out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "noindex-foto-pendiente.txt")
+# 31/10/2026 (regla de Daniel): NUNCA noindex ni sacar URLs del sitemap. Este script solo INFORMA de las fichas sin foto.
+out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", ".deploy-work", "fichas-sin-foto-informe.txt")
+os.makedirs(os.path.dirname(out), exist_ok=True)
 open(out, "w").write("".join("https://recurretumulta.online" + r + "\n" for r in sorted(lista)))
-print("fichas con foto pendiente -> noindex:", len(lista))
+print("fichas sin foto real (solo informe, siguen indexables):", len(lista))

@@ -1,4 +1,6 @@
-import NOINDEX from "@/lib/noindex.generated.json";
+import NOINDEX_JSON from "@/lib/noindex.generated.json";
+// 31/10/2026: regla de Daniel, sin noindex añadido por nosotros; la lista queda vacía.
+const NOINDEX: string[] = NOINDEX_JSON as string[];
 // 14/10/2026: noindex fijado en el HTML estático (data-fijo, scripts/adsense-dist.py) para la URL de entrada.
 const NOINDEX_FIJO: string | null =
   typeof document !== "undefined" && document.querySelector('meta[name="robots"][data-fijo]')
