@@ -38,9 +38,6 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
         ancho: 1200,
         alto: 800,
       },
-      { src: "/media/xiaomi-electric-scooter-5-max-hunt1.webp", alt: "Electric Scooter 5 Max (foto: Xiaomi / Multitronic, licencia desconocida)", ancho: 3198, alto: 4828 },
-      { src: "/media/xiaomi-electric-scooter-5-max-hunt2.webp", alt: "Electric Scooter 5 Max (foto: Xiaomi / IMTEST, licencia desconocida)", ancho: 1200, alto: 800 },
-      { src: "/media/xiaomi-electric-scooter-5-max-hunt3.webp", alt: "Electric Scooter 5 Max (foto: Digital.bg, licencia desconocida)", ancho: 1200, alto: 800 },
     ],
     aprox: ["tiempoCargaH", "autonomiaRealKm"],
     pros: [
@@ -99,9 +96,6 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
         ancho: 1200,
         alto: 800,
       },
-      { src: "/media/xiaomi-electric-scooter-4-pro-2nd-gen-hunt1.webp", alt: "Electric Scooter 4 Pro (2nd Gen) (foto: Xiaomi (imagen oficial de producto, CGI del fabricante), licencia desconocida)", ancho: 1920, alto: 983 },
-      { src: "/media/xiaomi-electric-scooter-4-pro-2nd-gen-hunt2.webp", alt: "Electric Scooter 4 Pro (2nd Gen) (foto: Xiaomi (imagen oficial de producto, CGI del fabricante), licencia desconocida)", ancho: 1920, alto: 953 },
-      { src: "/media/xiaomi-electric-scooter-4-pro-2nd-gen-hunt3.webp", alt: "Electric Scooter 4 Pro (2nd Gen) (foto: Xiaomi (imagen oficial de producto), licencia desconocida)", ancho: 1920, alto: 953 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -159,9 +153,6 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
         ancho: 1200,
         alto: 800,
       },
-      { src: "/media/xiaomi-electric-scooter-4-lite-2nd-gen-hunt1.webp", alt: "Electric Scooter 4 Lite (2nd Gen) (foto: Xiaomi (imagen oficial de producto, appmifile), licencia desconocida)", ancho: 1600, alto: 1600 },
-      { src: "/media/xiaomi-electric-scooter-4-lite-2nd-gen-hunt2.webp", alt: "Electric Scooter 4 Lite (2nd Gen) (foto: Xiaomi / iSpace.cz, licencia desconocida)", ancho: 1000, alto: 1000 },
-      { src: "/media/xiaomi-electric-scooter-4-lite-2nd-gen-hunt3.webp", alt: "Electric Scooter 4 Lite (2nd Gen) (foto: Xiaomi / Mi-Home.lv, licencia desconocida)", ancho: 2560, alto: 976 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -219,9 +210,6 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
         ancho: 1200,
         alto: 800,
       },
-      { src: "/media/xiaomi-electric-scooter-6-hunt1.webp", alt: "Electric Scooter 6 (foto: Xiaomi (imagen oficial de producto, CGI del fabricante), licencia desconocida)", ancho: 1600, alto: 1600 },
-      { src: "/media/xiaomi-electric-scooter-6-hunt2.webp", alt: "Electric Scooter 6 (foto: Xiaomi (imagen oficial de producto, CGI del fabricante), licencia desconocida)", ancho: 1600, alto: 1600 },
-      { src: "/media/xiaomi-electric-scooter-6-hunt3.webp", alt: "Electric Scooter 6 (foto: Xiaomi vía ShopIntertec (página de producto del Scooter 6), licencia desconocida)", ancho: 2500, alto: 2500 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -468,9 +456,6 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
         ancho: 1200,
         alto: 800,
       },
-      { src: "/media/segway-ninebot-max-g3-hunt1.webp", alt: "KickScooter MAX G3 E (foto: Segway (tienda oficial), licencia desconocida)", ancho: 1208, alto: 1118 },
-      { src: "/media/segway-ninebot-max-g3-hunt2.webp", alt: "KickScooter MAX G3 E (foto: Segway-Ninebot (imagen de producto) vía Beytech, licencia desconocida)", ancho: 800, alto: 800 },
-      { src: "/media/segway-ninebot-max-g3-hunt3.webp", alt: "KickScooter MAX G3 E (foto: Presse-Citron (prueba del MAX G3 E), licencia desconocida)", ancho: 1632, alto: 1088 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -516,26 +501,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     neumaticos: "Neumáticos autorreparables tubeless de 10\"",
     certificadoDgt: null,
     foto: "/media/patinetes/segway-ninebot-f3-pro-e-oficial.webp",
-    galeria: [
-      {
-        src: "/media/segway-ninebot-f3-pro-hunt1.webp",
-        alt: "KickScooter F3 Pro E (foto: Segway-Ninebot (imagen oficial de producto) vía Vodafone CZ / Wee-Bot, licencia desconocida)",
-        ancho: 1024,
-        alto: 1024
-      },
-      {
-        src: "/media/segway-ninebot-f3-pro-hunt2.webp",
-        alt: "KickScooter F3 Pro E (foto: Segway-Ninebot (imagen oficial de producto) vía Voltride, licencia desconocida)",
-        ancho: 630,
-        alto: 520
-      },
-      {
-        src: "/media/segway-ninebot-f3-pro-hunt3.webp",
-        alt: "KickScooter F3 Pro E (foto: Segway-Ninebot (imagen oficial de producto) vía Voltride, licencia desconocida)",
-        ancho: 630,
-        alto: 520
-      }
-    ],
+    galeria: [],
     aprox: [
       "potenciaNominalW",
       "tiempoCargaH",
@@ -683,26 +649,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     neumaticos: "Neumáticos autosellantes de 11\"",
     certificadoDgt: null,
     foto: "/media/patinetes/segway-ninebot-gt3-e-oficial.webp",
-    galeria: [
-      {
-        src: "/media/segway-ninebot-gt3-e-hunt1.webp",
-        alt: "KickScooter GT3 E (foto: Segway-Ninebot (foto de producto) vía Merlin Dinamarca, licencia desconocida)",
-        ancho: 1600,
-        alto: 1200
-      },
-      {
-        src: "/media/segway-ninebot-gt3-e-hunt2.webp",
-        alt: "KickScooter GT3 E (foto: Segway-Ninebot (foto de producto) vía IQ Mobile, licencia desconocida)",
-        ancho: 1000,
-        alto: 1000
-      },
-      {
-        src: "/media/segway-ninebot-gt3-e-hunt3.webp",
-        alt: "KickScooter GT3 E (foto: Segway-Ninebot (foto de producto) vía i-Phonik, licencia desconocida)",
-        ancho: 800,
-        alto: 800
-      }
-    ],
+    galeria: [],
     aprox: [
       "potenciaNominalW",
       "tiempoCargaH",
@@ -764,9 +711,6 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
         ancho: 1200,
         alto: 800,
       },
-      { src: "/media/niu-kqi-300p-hunt1.webp", alt: "KQi 300P (foto: NIU (tienda oficial), licencia desconocida)", ancho: 1500, alto: 1500 },
-      { src: "/media/niu-kqi-300p-hunt2.webp", alt: "KQi 300P (foto: NIU (tienda oficial), licencia desconocida)", ancho: 1500, alto: 1500 },
-      { src: "/media/niu-kqi-300p-hunt3.webp", alt: "KQi 300P (foto: NIU (tienda oficial), licencia desconocida)", ancho: 1500, alto: 1500 },
     ],
     aprox: ["bateriaWh", "autonomiaRealKm"],
     pros: [
@@ -825,9 +769,6 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
         ancho: 1200,
         alto: 800,
       },
-      { src: "/media/niu-kqi-200p-hunt1.webp", alt: "KQi 200P (foto: NIU (imagen oficial de producto, tienda NIU), licencia desconocida (imagen oficial de producto NIU; la tienda canadiense la nombra 'Basic-Render'))", ancho: 713, alto: 713 },
-      { src: "/media/niu-kqi-200p-hunt2.webp", alt: "KQi 200P (foto: JAR Computers (foto de producto del KQi 200P), licencia desconocida)", ancho: 680, alto: 680 },
-      { src: "/media/niu-kqi-200p-hunt3.webp", alt: "KQi 200P (foto: Comfy.ua (foto de catálogo, código KDP32EG1E11), licencia desconocida)", ancho: 431, alto: 677 },
     ],
     aprox: ["precioEur", "tiempoCargaH", "autonomiaRealKm"],
     pros: ["Figura con certificado DGT, así que puede circular legalmente a 25 km/h por la ciudad", "54 km declarados con una batería contenida de 365 Wh y 7,8 Ah, sin castigar el peso", "Doble tubo delantero con 32 mm de recorrido y cubiertas neumáticas anchas de 58 mm para el asfalto roto", "Motor de 350 W nominales y 22 Nm de par, con rampas del 20 % entre sus cifras oficiales", "Manillar fijo de 54,1 cm, sin bisagra: no hereda la posible holgura del plegable del 200F"],
@@ -871,9 +812,6 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
         ancho: 1200,
         alto: 800,
       },
-      { src: "/media/niu-kqi-200f-hunt1.webp", alt: "KQi 200F (foto: NIU (tienda oficial), licencia desconocida)", ancho: 1500, alto: 1500 },
-      { src: "/media/niu-kqi-200f-hunt2.webp", alt: "KQi 200F (foto: NIU (tienda oficial), licencia desconocida)", ancho: 750, alto: 443 },
-      { src: "/media/niu-kqi-200f-hunt3.webp", alt: "KQi 200F (foto: Electrek, licencia desconocida)", ancho: 1600, alto: 800 },
     ],
     aprox: ["precioEur", "tiempoCargaH", "autonomiaRealKm"],
     pros: ["Su manillar se pliega hasta dejar solo 17,4 cm de ancho (1150 × 174 × 546 mm plegado) y entra en huecos donde el 200P, de manillar fijo, no cabe", "Desplegado, el manillar mide 60,7 cm: es el más ancho de la serie 200 y da más palanca que los 54,1 cm fijos del 200P", "Horquilla de muelle con 32 mm de recorrido y neumáticos tubeless de 254 × 58 mm para tragarse los adoquines sin perder la trazada", "Motor de 350 W con picos de 700 W y 22 Nm de par: ataca rampas del 20 % sin quedarse clavado a mitad de cuesta", "Homologado para circular en España con certificado DGT, intermitentes y luces LED delante y detrás más reflectores laterales"],
@@ -917,9 +855,6 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
         ancho: 1200,
         alto: 800,
       },
-      { src: "/media/niu-kqi-100p-hunt1.webp", alt: "KQi 100P (foto: Best Buy / NIU (foto de producto del KQi 100P en calle), licencia desconocida)", ancho: 1500, alto: 1500 },
-      { src: "/media/niu-kqi-100p-hunt2.webp", alt: "KQi 100P (foto: Comfy.ua (foto de producto del NIU KQi 100P Gray, ref. KCP34GG1E11), licencia desconocida)", ancho: 557, alto: 823 },
-      { src: "/media/niu-kqi-100p-hunt3.webp", alt: "KQi 100P (foto: Touch.com.ua (foto de producto del NIU KQi 100P Gray), licencia desconocida)", ancho: 500, alto: 500 },
     ],
     aprox: ["precioEur", "autonomiaRealKm"],
     pros: [
@@ -979,9 +914,6 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
         ancho: 1200,
         alto: 800,
       },
-      { src: "/media/navee-s40-hunt1.webp", alt: "S40 (foto: NAVEE (tienda oficial naveetech.us), licencia desconocida)", ancho: 2200, alto: 2322 },
-      { src: "/media/navee-s40-hunt2.webp", alt: "S40 (foto: NAVEE (producto oficial, vía Sunwheel USA), licencia desconocida)", ancho: 974, alto: 1028 },
-      { src: "/media/navee-s40-hunt3.webp", alt: "S40 (foto: NAVEE (producto oficial, vía Cosmocal), licencia desconocida)", ancho: 1000, alto: 1000 },
     ],
     aprox: ["potenciaPicoW", "pesoKg", "frenos", "autonomiaRealKm"],
     pros: [
@@ -1040,9 +972,6 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
         ancho: 1200,
         alto: 800,
       },
-      { src: "/media/navee-gt3-max-hunt1.webp", alt: "GT3 Max (foto: NAVEE (foto oficial de producto, vía Electric Kicks), licencia desconocida)", ancho: 823, alto: 823 },
-      { src: "/media/navee-gt3-max-hunt2.webp", alt: "GT3 Max (foto: Smartzone.de (prueba real del Navee GT3 Max), licencia desconocida)", ancho: 1600, alto: 1200 },
-      { src: "/media/navee-gt3-max-hunt3.webp", alt: "GT3 Max (foto: Smartzone.de (prueba real del Navee GT3 Max), licencia desconocida)", ancho: 970, alto: 728 },
     ],
     aprox: ["precioEur", "bateriaWh", "autonomiaRealKm"],
     pros: [
@@ -1100,9 +1029,6 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
         ancho: 1200,
         alto: 800,
       },
-      { src: "/media/navee-st3-pro-hunt1.webp", alt: "ST3 Pro (foto: NAVEE (tienda oficial Canadá), licencia desconocida)", ancho: 1100, alto: 1100 },
-      { src: "/media/navee-st3-pro-hunt2.webp", alt: "ST3 Pro (foto: NAVEE vía Robocleaners, licencia desconocida)", ancho: 920, alto: 1206 },
-      { src: "/media/navee-st3-pro-hunt3.webp", alt: "ST3 Pro (foto: RV.com (review del Navee ST3 Pro), licencia desconocida)", ancho: 1200, alto: 600 },
     ],
     aprox: ["precioEur", "bateriaWh", "autonomiaRealKm"],
     pros: [
@@ -1160,9 +1086,6 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
         ancho: 1200,
         alto: 800,
       },
-      { src: "/media/pure-air-5-hunt1.webp", alt: "Air 5 (foto: eScooter Clinic (ficha de producto del Pure Air 5, código PURE-AIR5-710W), licencia desconocida)", ancho: 2560, alto: 2560 },
-      { src: "/media/pure-air-5-hunt2.webp", alt: "Air 5 (foto: PB Tech (ficha de producto del Pure Air 5, SCPURZ140-00001), licencia desconocida)", ancho: 600, alto: 489 },
-      { src: "/media/pure-air-5-hunt3.webp", alt: "Air 5 (foto: GoodBuyz Australia (ficha de producto del Pure Air 5 Black), licencia desconocida)", ancho: 794, alto: 794 },
     ],
     aprox: ["autonomiaKm", "bateriaWh", "autonomiaRealKm"],
     pros: [
