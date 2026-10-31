@@ -4521,3 +4521,23 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/hongqi-h5-2023-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_H5_II_005.jpg | Quzhouliulian · Wikimedia Commons | CC BY-SA 4.0 |
 | /media/hongqi-h5-hev-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_H5_II_004.jpg | Quzhouliulian · Wikimedia Commons | CC BY-SA 4.0 |
 | /media/hongqi-h6-2023-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_H6_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-h7-phev-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_H7_II_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hongqi-h9-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2024_Hongqi_H9_DSC_1251.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-hq9-2023-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2022_Hongqi_HQ9_(front).jpg | User3204 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-hq9-phev-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_HQ9_010.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hongqi-hs5-2023-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_HS5_facelift_005.jpg | Quzhouliulian · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-hs5-phev-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_HS5_DSC_1240.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-hs6-phev-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_HS6_PHEV_003.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hongqi-hs7-2023-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_HS7_II_005.jpg | Zoerides · Wikimedia Commons | CC0 |
+| /media/hongqi-hs7-phev-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_HS7_II_PHEV_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hongqi-tiangong-05-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_Tiangong_05_IAA_2025_DSC_1650.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-tiangong-06-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_Tiangong_06_004.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hyptec-a800-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hyptec_A800_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hyptec-gt-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2024_Aion_Hyptec_GT,_front_right.jpg | Ethan Llamas · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hyptec-ht-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hyptec_HT_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hyptec-s600-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2026_GAC_Aion_Hyptec_S600_(front).jpg | User3204 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hyptec-ssr-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:MAP_2024_Aion_Hyper_SSR.jpg | WikiGenesis · Wikimedia Commons | CC BY 4.0 |
+| /media/im-l7-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:IM_L7_GIMS_2024_1X7A2240.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/im-ls7-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:IM_LS7_GIMS_2024_1X7A2396.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/jac-j7-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:JAC_J7_Plus_Pozna%C5%84_Motor_Show_2026.jpg | Peżot · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/jac-js4-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2021_JAC_JS4_1.6_Comfort.jpg | RL GNZLZ · Wikimedia Commons | CC BY-SA 2.0 |

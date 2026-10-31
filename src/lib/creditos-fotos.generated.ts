@@ -1984,5 +1984,65 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "JustAnotherCarDesigner · Wikimedia Commons",
 "licencia": "CC BY-SA 4.0",
 "url": "https://commons.wikimedia.org/wiki/File:Hongqi_H6_001.jpg"
+},
+"/media/hongqi-h9-2024-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2024_Hongqi_H9_DSC_1251.jpg"
+},
+"/media/hongqi-hq9-2023-precio-ficha-tecnica-hero.webp": {
+"autor": "User3204 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2022_Hongqi_HQ9_(front).jpg"
+},
+"/media/hongqi-hs5-2023-precio-ficha-tecnica-hero.webp": {
+"autor": "Quzhouliulian · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Hongqi_HS5_facelift_005.jpg"
+},
+"/media/hongqi-hs5-phev-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Hongqi_HS5_DSC_1240.jpg"
+},
+"/media/hongqi-tiangong-05-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Hongqi_Tiangong_05_IAA_2025_DSC_1650.jpg"
+},
+"/media/hyptec-gt-2024-precio-ficha-tecnica-hero.webp": {
+"autor": "Ethan Llamas · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2024_Aion_Hyptec_GT,_front_right.jpg"
+},
+"/media/hyptec-s600-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "User3204 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2026_GAC_Aion_Hyptec_S600_(front).jpg"
+},
+"/media/hyptec-ssr-2024-precio-ficha-tecnica-hero.webp": {
+"autor": "WikiGenesis · Wikimedia Commons",
+"licencia": "CC BY 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:MAP_2024_Aion_Hyper_SSR.jpg"
+},
+"/media/im-l7-2024-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:IM_L7_GIMS_2024_1X7A2240.jpg"
+},
+"/media/im-ls7-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:IM_LS7_GIMS_2024_1X7A2396.jpg"
+},
+"/media/jac-j7-2025-precio-ficha-tecnica-hero.webp": {
+"autor": "Peżot · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:JAC_J7_Plus_Pozna%C5%84_Motor_Show_2026.jpg"
+},
+"/media/jac-js4-2025-precio-ficha-tecnica-oficial.webp": {
+"autor": "RL GNZLZ · Wikimedia Commons",
+"licencia": "CC BY-SA 2.0",
+"url": "https://commons.wikimedia.org/wiki/File:2021_JAC_JS4_1.6_Comfort.jpg"
 }
 };
