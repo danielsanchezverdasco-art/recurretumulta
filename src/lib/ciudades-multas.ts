@@ -190,7 +190,7 @@ export const CIUDADES_MULTAS: Record<string, CiudadMultas> = {
   },
 
   vigo: {
-    altHero: "Recurrir multas de tráfico en Vigo: radares de la A-55, AP-9 y AP-9V y multas del Concello",
+    altHero: "Recurrir multas de tráfico en Vigo: radares de la DGT y multas del Concello",
     municipal: "Una denuncia de la Policía Local viguesa se contesta ante el Concello.",
     radaresIntro: "Radares fijos oficiales dentro del municipio de Vigo:",
     radaresMunicipio: "Vigo",
