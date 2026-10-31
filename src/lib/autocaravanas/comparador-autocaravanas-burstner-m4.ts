@@ -75,7 +75,7 @@ export const AUTOCARAVANAS_BURSTNER_M4: Autocaravana[] = [
       "cm, 4.400 kg, 4 plazas, 4-5 camas, frigorífico 142 l, agua 105 l, residuales " +
       "90 l). Precio: Bürstner no publica tarifa para España. MRO: la tabla " +
       "oficial da 3.315 kg para el 736 G, pero no se atribuye a la denominación  Precio: precio recomendado oficial (no vinculante) publicado por Bürstner en su web oficial de Bürstner (buerstner.com), ficha técnica del Lyseo I 726 G, basado en los precios de venta de Alemania; no hay tarifa oficial para España." +
-      "726 G. Consumo y carga útil: no los publica la marca.",
+      "726 G.",
     curiosidades:
       "La gama Lyseo I nació en 2023 como la integral 'media' de Bürstner sobre base " +
       "Fiat Ducato, por debajo de la Elegance en tamaño y precio, con cinco " +

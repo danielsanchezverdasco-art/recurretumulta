@@ -177,7 +177,7 @@ Para quién es: familias de cuatro que buscan una perfilada con camas gemelas y 
       "transporte e impuestos. Medidas oficiales: 738 x 232 x 276 cm, batalla 403,5 cm, MMA 3.500 kg. " +
       "Camas traseras individuales de 202 x 74 / 202 x 74,5 cm, convertibles en doble. " +
       "Motor Fiat Ducato 103 kW (140 CV) automático Euro 6E de serie; opcional 132 kW (180 CV) con chasis Maxi " +
-      "y elevación de MMA a 3,65/4,25/4,4 t. Sin dato publicado: carga útil (la marca no la publica como tal), consumo, " +
+      "y elevación de MMA a 3,65/4,25/4,4 t." +
       "emisiones CO2, par motor y autonomía (ninguno publicado en la ficha oficial).",
     curiosidades:
       "A diferencia de la inmensa mayoría de perfiladas, el Cruiser sale de fábrica con calefacción de gasóleo " +

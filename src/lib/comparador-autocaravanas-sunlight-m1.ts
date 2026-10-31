@@ -355,7 +355,7 @@ Otro punto a favor del Cliff es la red del grupo Hymer detrás: concesionarios e
     },
     euroncap: null,
     notas:
-      "La carga útil no consta: la marca no la publica para este modelo (los 218 kg de su documentación son masa máxima de equipamiento opcional, otro concepto) y no la calculamos restando masas. Plazas para dormir: 2 de serie (4 con cama central opcional o techo elevable). La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante: dato no oficial · en revisión.",
+      "Plazas para dormir: 2 de serie (4 con cama central opcional o techo elevable). La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante: dato no oficial · en revisión.",
     fuenteNombre: "Sunlight (web oficial)",
     fuenteUrl:
       "https://www.sunlight.de/es/modelos/camper-vans/cliff-adventure/cliff-640-adventure/",

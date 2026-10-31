@@ -253,7 +253,7 @@ export const AUTOCARAVANAS_FRANKIA_M4: Autocaravana[] = [
       "y listados de unidades nuevas 2026 de Reisemobile Dülmen en truckscout24 " +
       "(exposé de caraworld.de: masa en orden de marcha 4.753 kg, 747 kg de carga). " +
       "" +
-      "hace falta el carnet C1 por la MMA de 5.500 kg. La carga útil no está publicada " +
+      "La carga útil no está publicada" +
       "por la marca. Fotos: 4 oficiales del catálogo Frankia Platin 2022, incluidas  Precio: PVP de Alemania de la Preisliste oficial de Frankia 2026 (Alemania) (precios base, IVA 19% incl.), I 8400 QD Platin = 208.900 €; no hay tarifa oficial para España." +
       "dos de la sección dedicada al I 8400 QD.",
     curiosidades:

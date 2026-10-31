@@ -162,7 +162,7 @@ Para quién es: para familias de cuatro (dos adultos y dos niños como máximo, 
       "convertible), ducha independiente, Truma Combi diésel 4000 W, frigorífico " +
       "compresor 150 l, aguas 105/105 l, pack UP (solar 200 W MPPT, Smart TV 22', " +
       "toldo 4,5 m, ISOFIX): autocaravanasnavarro.com. Precio: Benimar no publica " +
-      "tarifa para España. MRO, consumo y carga útil: la marca no los publica.",
+      "tarifa para España.",
     curiosidades:
       "El acabado UP de la Sport 363 incluye de serie un panel solar de 200 W con " +
       "regulador MPPT y una Smart TV de 22 pulgadas, además de ISOFIX en los asientos " +

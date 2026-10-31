@@ -341,7 +341,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       "2.290 km de autonomía total combinada, según BYD",
       "Hasta 220 km eléctricos CLTC con la batería de 24,3 kWh",
       "Desde ~10.735 € en China: berlina de 4,84 m a precio de utilitario",
-      "Consumo declarado de 2,58 l/100 km con la batería descargada",
+      "",
       "Baterías LFP Blade de 16,2 o 24,3 kWh, recarga del 30 al 80 % en un mínimo de 20 minutos",
     ],
     contras: [

@@ -153,7 +153,7 @@ export const AUTOCARAVANAS_BENIMAR_M3: Autocaravana[] = [
     notas:
       "Medidas de 6340 x 2320 x 2890 mm según el catálogo oficial Benimar (agosto 2026), que presenta la T440 UP como «perfilada de 6,34 m». MMA de 3500 kg. " +
       "Monta el Ford Transit 2.0 de 165 CV, con 4 plazas de viaje y 4 de noche, cama eléctrica basculante, ducha separada y frigorífico de 150 l (publicación oficial de Benimar en Instagram). " +
-      "Modelo encuadrado en la gama oficial benimar.es 2027 (T440UP). Precio sin dato (Benimar no publica tarifa ES); como referencia, el concesionario roulot anuncia una unidad por 75.595 €. " +
+      "Modelo encuadrado en la gama oficial benimar.es 2027 (T440UP). como referencia, el concesionario roulot anuncia una unidad por 75.595 €." +
       "Carga útil y consumo sin dato (sin dato oficial).",
     curiosidades:
       "La Tessoro 440 UP, con 6,34 metros, es la benjamina de la gama UP: la familia Benimar que se reconoce por la cama basculante eléctrica sobre el salón y por el garaje trasero de volumen regulable. Fuente: catálogo oficial Benimar (agosto 2026) y web oficial benimar.es.",

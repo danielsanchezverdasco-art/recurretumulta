@@ -451,7 +451,7 @@ export const COCHES_LIAUTO: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "Año modelo 2026: batería propia Lianshan de 96 kWh, sin CATL, y 640 km WLTP en tracción trasera",
-      "Carga 5C: unos 500 km en 10 minutos y del 10 al 80 % en 10 minutos en la versión europea",
+      "",
       "Chip Mach M100 propio de 1.280 TOPS de serie, casi el doble que el Nvidia Thor-U del 2025",
       "El primer Li Auto para Europa: se llamará Li 6 y llegará a Noruega y Países Bajos en el Q1 2027",
       "Mismo precio en China que el 2025: 249.800 yuanes, con promoción de 239.800 hasta el 30 de noviembre",

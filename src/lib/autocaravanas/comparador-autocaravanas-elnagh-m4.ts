@@ -62,7 +62,7 @@ export const AUTOCARAVANAS_ELNAGH_M4: Autocaravana[] = [
       "(20/120/90 L): ficha técnica oficial elnagh.com (PDF del modelo). MMA (3500 kg) y MRO " +
       "(2785 kg): concesionarios fricamping.dk (unidad 2026, 1.053.000 DKK) y camperis.com " +
       "(ficha del modelo); la marca no los publica en su ficha. Precio: Elnagh no publica PVP " +
-      "para España → se aplica el Listino oficial Elnagh Italia 2026 (74.490 €, «aprox»). Sin dato publicado: carga útil (no publicada), consumo, par, " +
+      "para España → se aplica el Listino oficial Elnagh Italia 2026 (74.490 €, «aprox»)." +
       "tracción y emisiones (no publicados). Fotos: interiores y plano oficiales de elnagh.com; " +
       "el exterior es la foto de estudio oficial del modelo exacto en elnagh.com (fondo blanco,  Precio: PVP de Italia del Listino oficial Elnagh Italia 2026 (precios recomendados, IVA 22% incl., válido desde 10/09/2025), T-Loft 532 = 74.490 €; no hay tarifa oficial para España." +
       "insignia «T-LOFT 532», sin marcas de agua ni rótulos).",
