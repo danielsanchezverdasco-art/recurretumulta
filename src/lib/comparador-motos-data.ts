@@ -43,6 +43,7 @@ import { MOTOS_LOTE16 } from "./comparador-motos-lote16.ts";
 import { MOTOS_NUEVOS_M4 } from "./comparador-motos-nuevos-m4.ts";
 import { MOTOS_NUEVOS_M5 } from "./comparador-motos-nuevos-m5.ts";
 import { MOTOS_NUEVOS_M7 } from "./comparador-motos-nuevos-m7.ts";
+import { MOTOS_NUEVOS_M8 } from "./comparador-motos-nuevos-m8.ts";
 import { MOTOS_NUEVOS_M6 } from "./comparador-motos-nuevos-m6.ts"; // 18/10/2026: reincluido (26 fichas publicadas sin datos en el comparador)
 import FICHAS_REDIRIGIDAS from "./fichas-redirigidas.generated.json";
 import { MOTOS_NUEVOS_M3 } from "./comparador-motos-nuevos-m3.ts";
@@ -162,6 +163,7 @@ export const MOTOS_COMPARADOR: MotoComparador[] = [
   ...MOTOS_LOTE16,
   ...MOTOS_PRIORIDAD_20261014,
   ...MOTOS_NUEVOS_M6,
+  ...MOTOS_NUEVOS_M8,
 ].map(sanearMoto);
 /** 18/10/2026: ids de datos sin ficha propia publicada. No se cuentan ni se enlazan.
  *  (18/10 tarde: cyclone-battlo, keeway-k-light-250v, zontes-368e, zontes-e125 y ktm-1390-super-adventure-s-2026
