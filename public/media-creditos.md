@@ -4561,3 +4561,6 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/motos/royal-enfield-himalayan-450-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Royal-Enfield-Himalayan-450.jpg | Rouv1505 · Wikimedia Commons | CC BY-SA 4.0 |
 | /media/volkswagen-golf-8-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:VW_Golf_VIII_Life_1.5_TSI.jpg | Thomas doerfer · Wikimedia Commons | CC BY-SA 4.0 |
 | /media/jaecoo-5-shs-hibrido-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2025_Jaecoo_5_1.6_Luxury_(United_Kingdom)_front_view.jpg | CarsofGlasgow · Wikimedia Commons | CC BY 3.0 |
+| /media/swm-superdual-650-2024-precio-hero.webp | https://commons.wikimedia.org/wiki/File:SWM_Superdual_650_2025.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/vespa-gts-310-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Vespa_GTS_310_2025.jpg | AVMOTO · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/vespa-elettrica-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Vespa-Elettrica-Madrid-070219.jpg | FDV · Wikimedia Commons | CC BY-SA 4.0 |

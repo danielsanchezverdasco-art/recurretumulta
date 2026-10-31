@@ -8163,7 +8163,7 @@ export const MEDIA_DIMENSIONS: Record<string, [number, number]> = {
   "venucia-vx6-2024-precio-ficha-tecnica-3.webp": [1600, 800],
   "vespa-elettrica-ficha-tecnica-precio-oficial-2.webp": [1200, 800],
   "vespa-elettrica-ficha-tecnica-precio-oficial-3.webp": [750, 500],
-  "vespa-elettrica-ficha-tecnica-precio-oficial.webp": [1000, 572],
+  "vespa-elettrica-ficha-tecnica-precio-oficial.webp": [1600, 1200],
   "vespa-elettrica-piaggio-1-duelo-cuerpo.webp": [1920, 1280],
   "vespa-gts-125-2026-ficha-tecnica-precio-oficial-2.webp": [1200, 800],
   "vespa-gts-125-2026-ficha-tecnica-precio-oficial-3.webp": [1200, 800],

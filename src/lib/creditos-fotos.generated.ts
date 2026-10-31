@@ -2129,5 +2129,20 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "CarsofGlasgow · Wikimedia Commons",
 "licencia": "CC BY 3.0",
 "url": "https://commons.wikimedia.org/wiki/File:2025_Jaecoo_5_1.6_Luxury_(United_Kingdom)_front_view.jpg"
+},
+"/media/swm-superdual-650-2024-precio-hero.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:SWM_Superdual_650_2025.jpg"
+},
+"/media/motos/vespa-gts-310-2025-ficha-tecnica-precio-1.webp": {
+"autor": "AVMOTO · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Vespa_GTS_310_2025.jpg"
+},
+"/media/vespa-elettrica-ficha-tecnica-precio-oficial.webp": {
+"autor": "FDV · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Vespa-Elettrica-Madrid-070219.jpg"
 }
 };
