@@ -365,13 +365,13 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
     "pesoKg": 235,
     "plazas": 2,
     "carnet": "A",
-    "carga": "Recarga CCS de hasta 100 kW (batería de 20,2 kWh); Verge anuncia 200 km de autonomía en 10 minutos; en AC, cargador a bordo",
+    "carga": "Rápida en CCS (potencia máxima de 100 kW, batería pequeña); lenta en AC con cargador a bordo",
     "etiquetaDgt": "Cero",
     "aprox": [],
     "pros": [
-      "Anuncia 102 kW y 1.000 Nm; de 0 a 100 km/h en 3,5 segundos",
+      "Cifras de la marca: 102 kW, 1.000 Nm y 3,5 s de 0 a 100",
       "Motor sin buje: no hay cadena ni correa que cuidar",
-      "Recarga rápida CCS de hasta 100 kW en la batería de 20,2 kWh",
+      "Admite recarga CCS a 100 kW con el paquete de 20,2 kWh",
       "Brembo y Öhlins/Wilbers de serie",
       "Garantía de dos años y de cinco para el acumulador"
     ],
