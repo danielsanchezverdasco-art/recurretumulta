@@ -199,8 +199,9 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
       "La 650 usa el mismo motor que la Interceptor, con otra puesta a punto",
       "El guardabarros delantero sigue siendo de acero, como en 1950",
     ],
-    imagen: "/media/motos/royal-enfield-classic-650-2026-ficha-tecnica-precio-hero.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/royal-enfield-classic-650-2026-ficha-tecnica-precio-hero.webp", alt: "Royal Enfield Classic 650 (foto: Al*from*Lig / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1100, alto: 825 },
       {
         src: "/media/motos/royal-enfield-classic-650-2026-ficha-tecnica-precio-oficial.webp",
         alt: "Royal Enfield Classic 650 2026, vista lateral clásica con doble escape",

@@ -93,8 +93,9 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
       "Comparte la base mecánica con la 390 Enduro R, pero con enfoque viajero",
       "KTM ofrece un catálogo PowerParts específico para equiparla de aventura",
     ],
-    imagen: "/media/motos/ktm-390-adventure-r-2025-ficha-tecnica-precio-1.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/motos/ktm-390-adventure-r-2025-ficha-tecnica-precio-1.webp", alt: "KTM 390 Adventure (generación 2024) (foto: KTM AG / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 918, alto: 629 },
       { src: "/media/motos/ktm-390-adventure-r-2025-ficha-tecnica-precio-2.webp", alt: "KTM 390 Adventure R 2025, vista lateral con maletas de aventura", ancho: 1200, alto: 800 },
       { src: "/media/motos/ktm-390-adventure-r-2025-ficha-tecnica-precio-3.webp", alt: "KTM 390 Adventure R 2025 en una pista de tierra", ancho: 1200, alto: 800 },
       { src: "/media/ktm-390-adventure-r-2025-ficha-tecnica-precio-hunt1.webp", alt: "390 Adventure R (foto: KTM (prensa oficial) / Cycle News, licencia desconocida)", ancho: 1000, alto: 667 },

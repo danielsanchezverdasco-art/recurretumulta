@@ -197,8 +197,9 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Existe la versión Elettrica X híbrida con generador de gasolina y 200 km de autonomía",
       "Vespa la comercializa ahora como 'Primavera Elettrica', pero mantiene la base técnica de la Elettrica original",
     ],
-    imagen: "/media/vespa-elettrica-ficha-tecnica-precio-oficial.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/vespa-elettrica-ficha-tecnica-precio-oficial.webp", alt: "Vespa Elettrica (foto: AVMOTO / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1440, alto: 1080 },
       
       {
         src: "/media/vespa-elettrica-ficha-tecnica-precio-oficial-3.webp",
@@ -537,8 +538,9 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Zero nació en 2006 de la mano de Neal Saiki, exingeniero de la NASA",
       "moto125.cc midió 126,1 km/h de velocidad máxima real con su equipo de telemetría",
     ],
-    imagen: "/media/zero-fxe-ficha-tecnica-precio-oficial.webp",
+    imagen: null,
     galeria: [
+      { src: "/media/zero-fxe-ficha-tecnica-precio-oficial.webp", alt: "Zero FXE (foto: Matti Blume / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1400, alto: 1050 },
       {
         src: "/media/zero-fxe-ficha-tecnica-precio-oficial-2.webp",
         alt: "Zero FXE, vista frontal",
