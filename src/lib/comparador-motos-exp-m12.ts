@@ -871,6 +871,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
     curiosidades: [
       "La saga Dragster nació en 1995 y revolucionó el concepto de scooter deportivo",
       "El sistema SmartShift permite cambiar de marcha sin embrague",
+      "Velocidad máxima: sin dato oficial, porque Italjet solo publica los 35 kW de potencia y no una cifra de km/h",
       "Su basculante monobrazo trasero es una rareza en el mundo scooter",
       "El depósito va bajo el asiento para centralizar las masas",
     ],

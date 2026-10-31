@@ -486,9 +486,9 @@ export const ANALISIS_COCHE_14: MapaAnalisis = {
   },
   "maextro-v800-huawei-precio-ficha-tecnica": {
     parrafos: [
-      "El Maextro V800 es el monovolumen de lujo de Huawei: híbrido de autonomía extendida con 523 CV, 65 kWh para 300 km eléctricos y seis plazas. El formato familiar llevado al extremo del lujo.",
-      "Seis plazas en lugar de siete —más espacio por pasajero— y 300 km de autonomía eléctrica para el día a día silencioso. Sin precio en la ficha, pero por formato y exclusividad se sitúa en lo más alto de la marca. El V800 es para quien viaja en familia sin renunciar a nada: el Maybach de los monovolúmenes.",
-      "El monovolumen de lujo con seis plazas es el formato del poder en Asia: directivos que trabajan mientras viajan. El V800 electrifica ese concepto con 300 km eléctricos y 523 CV. Sin precio en la ficha, pero su cliente no pregunta el precio: pregunta la disponibilidad. El lujo extremo tiene sus propias reglas. Seis plazas de lujo con 300 km eléctricos: el poder, en silencio.",
+      "El Maextro V800 es el monovolumen de lujo de Huawei: híbrido de autonomía extendida con 523 CV, 65 kWh para 340 km eléctricos (ciclo chino CLTC) y siete plazas. En China cuesta desde 766.000 ¥, unos 102.100 € al cambio del BCE del 19/10/2026.",
+      "Siete plazas, segunda fila con asientos de masaje y pantalla de proyección de 41,6 pulgadas, y 340 km eléctricos CLTC para el día a día silencioso. Se vende en tres acabados en China: Premium (766.000 ¥), Executive (866.000 ¥) y Flagship (1.016.000 ¥), sin tarifa ni fecha para España. Es para quien viaja en familia sin renunciar a nada: el Maybach de los monovolúmenes.",
+      "El monovolumen de lujo es el formato del poder en Asia: directivos que trabajan mientras viajan. El V800 electrifica ese concepto con 340 km eléctricos CLTC, 1.335 km combinados y 523 CV. Su cliente no pregunta el precio, pregunta la disponibilidad. Siete plazas de lujo con carga 6C: el poder, en silencio.",
     ],
     veredicto: "Para familias adineradas que viajen con chófer; el monovolumen más lujoso del ecosistema Huawei.",
   },

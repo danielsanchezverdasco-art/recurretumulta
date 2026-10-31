@@ -7,7 +7,7 @@
 // en comparador-coches-chinos-2026.ts; aquí solo las 5 motorizaciones nuevas.
 // Stelato (享界, BAIC + Huawei, alianza HIMA) solo tiene 3 modelos reales:
 // S9 (berlina), S9T (familiar) y G9 (SUV), cada uno en versión eléctrica y EREV.
-// Todos los precios son de China convertidos a ≈0,13 €/CNY (ver "aprox").
+// Todos los precios son de China convertidos con el cambio del BCE del 19/10/2026 (7,4991 CNY por euro, ≈0,133 €/CNY) (ver "aprox").
 import type { CocheComparador } from "./comparador-coches-data.ts";
 
 export const COCHES_STELATO: CocheComparador[] = [
@@ -297,7 +297,7 @@ export const COCHES_STELATO: CocheComparador[] = [
       "Solo en China; sin precio ni fecha para Europa",
       "Casi 5,4 m y ~3 toneladas: un mastodonte para la ciudad",
       "Homologación CLTC, más optimista que el WLTP",
-      "La gama llega hasta ~71.500 € al cambio: ya no es un chollo",
+      "La gama llega hasta ~73.300 € al cambio: ya no es un chollo",
     ],
     opiniones: [],
     costeMensual: {
@@ -350,9 +350,9 @@ export const COCHES_STELATO: CocheComparador[] = [
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin prueba EuroNCAP: solo se vende en China" },
     versiones: [
       { nombre: "Ultra 5 plazas (479.800 ¥ en China)", precio: 64000, aprox: true },
-      { nombre: "Ultra 6 plazas (499.800 ¥ en China)", precio: 65000, aprox: true },
-      { nombre: "Ultra+ 5 plazas (529.800 ¥ en China)", precio: 68900, aprox: true },
-      { nombre: "Ultra+ 6 plazas (549.800 ¥ en China)", precio: 71500, aprox: true },
+      { nombre: "Ultra 6 plazas (499.800 ¥ en China)", precio: 66600, aprox: true },
+      { nombre: "Ultra+ 5 plazas (529.800 ¥ en China)", precio: 70600, aprox: true },
+      { nombre: "Ultra+ 6 plazas (549.800 ¥ en China)", precio: 73300, aprox: true },
     ]
   },
   {
@@ -370,7 +370,7 @@ export const COCHES_STELATO: CocheComparador[] = [
       "preguntaBateria": "¿Qué garantía dará Stelato a la batería CATL de 75 kWh?",
       "preguntaConsumo": "¿Cuántos km eléctricos reales salen de 405 CLTC?",
       "preguntaZbe": "¿En qué ZBE entraría con el distintivo CERO?",
-      "faqPrecio": "No tiene precio español. Pasando a euros la tarifa china, el Ultra 5 plazas sale por unos 62.400 € y el Ultra+ 6 plazas por unos 71.500 €; nuestra referencia de partida es de ≈57.300 €.",
+      "faqPrecio": "No tiene precio español. Pasando a euros la tarifa china, el Ultra 5 plazas sale por unos 64.000 € y el Ultra+ 6 plazas por unos 73.300 €; nuestra referencia de partida es de ≈57.300 €.",
       "faqAutonomia": "405 km sin gastar gasolina según el ciclo chino CLTC; en un WLTP europeo la cifra bajaría. Con el extensor encendido el alcance total supera los 1.300 km.",
       "faqMaletero": "Cubica 978 litros, una cifra de furgoneta para un SUV de 5,38 m.",
       "faqEtiqueta": "Todavía ninguna: sin matricular en España no tiene distintivo. Por autonomía eléctrica le tocaría el CERO.",
@@ -424,7 +424,7 @@ export const COCHES_STELATO: CocheComparador[] = [
       "Ni Stelato ni Huawei han anunciado su venta en Europa",
       "En modo extensor el 1.5T trabaja a régimen fijo: sube el consumo",
       "Casi 5,4 m y ~3 toneladas: poco urbano",
-      "Las 10 versiones complican elegir; la tope llega a ~71.500 €",
+      "Las 10 versiones complican elegir; la tope llega a ~73.300 €",
     ],
     opiniones: [],
     costeMensual: {
@@ -464,12 +464,12 @@ export const COCHES_STELATO: CocheComparador[] = [
     fuenteUrl: "https://cnevpost.com/2026/08/20/stelato-launches-g9/",
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin prueba EuroNCAP: solo se vende en China" },
     versiones: [
-      { nombre: "Max+ 5 plazas (429.800 ¥ en China)", precio: 55900, aprox: true },
-      { nombre: "Max+ 6 plazas (439.800 ¥ en China)", precio: 57200, aprox: true },
-      { nombre: "Ultra 5 plazas (479.800 ¥ en China)", precio: 62400, aprox: true },
-      { nombre: "Ultra 6 plazas (499.800 ¥ en China)", precio: 65000, aprox: true },
-      { nombre: "Ultra+ 5 plazas (529.800 ¥ en China)", precio: 68900, aprox: true },
-      { nombre: "Ultra+ 6 plazas (549.800 ¥ en China)", precio: 71500, aprox: true },
+      { nombre: "Max+ 5 plazas (429.800 ¥ en China)", precio: 57300, aprox: true },
+      { nombre: "Max+ 6 plazas (439.800 ¥ en China)", precio: 58600, aprox: true },
+      { nombre: "Ultra 5 plazas (479.800 ¥ en China)", precio: 64000, aprox: true },
+      { nombre: "Ultra 6 plazas (499.800 ¥ en China)", precio: 66600, aprox: true },
+      { nombre: "Ultra+ 5 plazas (529.800 ¥ en China)", precio: 70600, aprox: true },
+      { nombre: "Ultra+ 6 plazas (549.800 ¥ en China)", precio: 73300, aprox: true },
     ]
   },
 ];

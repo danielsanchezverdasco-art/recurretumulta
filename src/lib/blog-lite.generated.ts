@@ -77860,7 +77860,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "eléctrico barato China 2026",
       "BYD Dolphin Surf 2027"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "lexus-tz-electrico-2026-precio-6-plazas",
@@ -77881,7 +77881,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Lexus TZ autonomía",
       "Lexus TZ ficha técnica"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "radical-sr1-xxr-2025-precio-ficha-tecnica",

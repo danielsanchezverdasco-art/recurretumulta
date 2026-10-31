@@ -797,7 +797,7 @@ Fuente oficial: <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722>Le
 
 
 
-## Dudas frecuentes sobre el semáforo
+## Preguntas frecuentes sobre el semáforo
 
 ### ¿Qué importe y cuántos puntos supone cruzar en rojo?
 La sanción es de 200 euros y resta 4 puntos, conforme al Anexo II de la vigente Ley de Tráfico, el RDL 6/2015. Si abonas dentro de los 20 días naturales del pronto pago, el importe baja a 100 euros, aunque los 4 puntos se pierden de todos modos.
