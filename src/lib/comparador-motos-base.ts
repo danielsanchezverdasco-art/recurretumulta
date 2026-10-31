@@ -3439,7 +3439,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "183 kg con todos los líquidos (wet weight) y asiento a 795 mm",
       "Depósito de 13,2 litros; Yamaha declara 3,0 l/100 km en una ficha y 3,3 l/100 km en otra, según el país",
       "Control de tracción TCS de intervención suave y ABS, con cuadro LCD de 4,3 pulgadas y conexión MyRide",
-      "Llantas de 15 pulgadas delante (120/70) y 14 detrás (140/70), con distancia entre ejes de 1.540 mm",
+      "Llanta delantera de 15\" con goma 120/70 y trasera de 14\" con 140/70; distancia entre ejes de 1.540 mm",
       "Cofre bajo el asiento para dos cascos, según la talla y la forma, y conector USB tipo C",
       "Smart Key y faros full LED con el característico faro en X",
     ],
