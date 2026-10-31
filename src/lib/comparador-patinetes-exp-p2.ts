@@ -2365,12 +2365,12 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     contras: [
       "58 kg: imposible subirlo por una escalera o llevarlo en el transporte público",
       "Entre 70 km/h en modo dual y 80 a 85 km/h en Sport, queda fuera de la categoría VMP y no puede ir por vía pública",
-      "La web oficial no publica precio en euros",
+      "La fuente consultada no publica precio en euros",
       "Con los dos motores la autonomía baja a 80 km (110 km con la batería grande)",
       "La carga completa tarda 8 horas o más con dos cargadores y 16 horas o más con uno",
       "Aunque su velocidad lo deja fuera de la norma de VMP, quien lo use en un recinto privado debería llevar casco y tener 15 años"
     ],
-    veredicto: "El Vsett 11+ es un patinete de prestaciones extremas: 3.000 W, 80-85 km/h y 58 kg. Sus datos oficiales no encajan con ninguna norma de vía pública española y la web oficial no da precio.",
+    veredicto: "El Vsett 11+ es un patinete de prestaciones extremas: 3.000 W, 80-85 km/h y 58 kg. Sus datos oficiales no encajan con ninguna norma de vía pública española y la fuente consultada no da precio.",
     fuenteNombre: "fuente: distribuidor europeo",
     fuenteUrl: "https://vsettscooters.com/pages/vsett-11-plus",
     mantenimientoDIY: {

@@ -3916,7 +3916,7 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "url": "https://zeroelectricscooter.com/cdn/shop/products/zero-9_1024x1024.png"
 },
 "/media/patinetes/vsett-11-plus-oficial.webp": {
-"autor": "Vsett (foto de producto oficial)",
+"autor": "Vsett (foto de producto del distribuidor)",
 "licencia": "prensa",
 "url": "https://cdn.shopify.com/s/files/1/0210/2694/files/vsett-11-p-01.jpg"
 },

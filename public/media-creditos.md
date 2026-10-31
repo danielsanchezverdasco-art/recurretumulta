@@ -5017,7 +5017,7 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/patinetes/hiley-tiger-10-pro-oficial.webp | https://www.hileyrider.com/cdn/shop/products/hiley-T10P-1_e84bc599-9b0b-4379-b6e0-d008752e400b.png | Hiley Rider (foto de producto oficial) | prensa |
 | /media/patinetes/gotrax-g-pro-oficial.webp | https://gotrax.com/cdn/shop/products/g-pro-3-wheel-electric-scooter-189232.jpg | GOTRAX (foto de producto oficial) | prensa |
 | /media/patinetes/zero-9-oficial.webp | https://zeroelectricscooter.com/cdn/shop/products/zero-9_1024x1024.png | Zero Electric Scooter (foto de producto oficial) | prensa |
-| /media/patinetes/vsett-11-plus-oficial.webp | https://cdn.shopify.com/s/files/1/0210/2694/files/vsett-11-p-01.jpg | Vsett (foto de producto oficial) | prensa |
+| /media/patinetes/vsett-11-plus-oficial.webp | https://cdn.shopify.com/s/files/1/0210/2694/files/vsett-11-p-01.jpg | Vsett (foto de producto del distribuidor) | prensa |
 | /media/patinetes/segway-superscooter-gt3-pro-oficial.webp | https://www.ninebot.com/content/dam/segway-ninebot/ap/en/content-import/product-image/ekickscooter-GT3Pro.png | Segway-Ninebot (foto de producto oficial) | prensa |
 | /media/patinetes/segway-ninebot-f30-oficial.webp | https://s7ap1.scene7.com/is/image/ninebotstage/assets_segway_cdn_com_Product-Pictures__product_full_F30D-F30E_Product-pictures_360-side-view-12 | Segway-Ninebot (foto de producto oficial) | prensa |
 | /media/patinetes/segway-ninebot-f40e-oficial.webp | https://s7ap1.scene7.com/is/image/ninebotstage/assets_segway_cdn_com_Product-Pictures__product_full_F40D-F40E_Product-picture_360-side-view-6 | Segway-Ninebot (foto de producto oficial) | prensa |
