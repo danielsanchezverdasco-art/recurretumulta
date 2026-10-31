@@ -78,7 +78,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (estándar del segmento; consultar manual oficial)",
@@ -166,7 +166,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (estándar del segmento; consultar manual oficial)",
@@ -252,7 +252,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (estándar del segmento; consultar manual oficial)",
@@ -339,7 +339,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (estándar del segmento; consultar manual oficial)",
@@ -425,7 +425,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (estándar del segmento; consultar manual oficial)",
@@ -511,7 +511,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (estándar del segmento; consultar manual oficial)",
@@ -598,7 +598,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (estándar del segmento; consultar manual oficial)",
@@ -683,7 +683,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (estándar del segmento; consultar manual oficial)",
@@ -769,7 +769,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (estándar del segmento; consultar manual oficial)",
@@ -856,7 +856,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (estándar del segmento; consultar manual oficial)",
@@ -942,7 +942,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (estándar del segmento; consultar manual oficial)",
@@ -1018,7 +1018,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (estándar del segmento; consultar manual oficial)",
@@ -1094,7 +1094,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (estándar del segmento; consultar manual oficial)",
@@ -1180,7 +1180,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "6 meses o 5.000 km en uso off-road (estándar de todoterrenos; consultar manual oficial)",
@@ -1256,7 +1256,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (estándar del segmento; consultar manual oficial)",
@@ -1342,7 +1342,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (estándar del segmento; consultar manual oficial)",
@@ -1418,7 +1418,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (estándar del segmento; consultar manual oficial)",
@@ -1505,7 +1505,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (estándar del segmento; consultar manual oficial)",
@@ -1591,7 +1591,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (estándar del segmento; consultar manual oficial)",
@@ -1677,7 +1677,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (estándar del segmento; consultar manual oficial)",
@@ -1764,7 +1764,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (estándar del segmento; consultar manual oficial)",
@@ -1850,7 +1850,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (estándar del segmento; consultar manual oficial)",
@@ -1936,7 +1936,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (estándar del segmento; consultar manual oficial)",
@@ -2023,7 +2023,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado (5 estrellas C-NCAP en China)",
+      nota: "Sin test EuroNCAP (5 estrellas C-NCAP en China)",
     },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (estándar del segmento; consultar manual oficial)",

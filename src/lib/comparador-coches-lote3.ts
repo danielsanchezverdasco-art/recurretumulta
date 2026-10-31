@@ -87,7 +87,7 @@ export const COCHES_LOTE3: CocheComparador[] = [
       nota: "4 estrellas en la ronda de noviembre de 2022: penalizado en la prueba de desplazamiento frontal por ser un socio de impacto agresivo con otros vehículos.",
     },
     planMantenimiento: {
-      intervalo: "20.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "20.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -177,7 +177,7 @@ export const COCHES_LOTE3: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado (lanzamiento otoño 2026).",
+      nota: "Sin test EuroNCAP (lanzamiento otoño 2026).",
     },
     planMantenimiento: {
       intervalo: "2 años sin límite de kilometraje",
@@ -265,7 +265,7 @@ export const COCHES_LOTE3: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado (lanzamiento 2026).",
+      nota: "Sin test EuroNCAP (lanzamiento 2026).",
     },
     planMantenimiento: {
       intervalo: "Según Condition Based Service (aprox. cada 2 años)",
@@ -355,10 +355,10 @@ export const COCHES_LOTE3: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -443,10 +443,10 @@ export const COCHES_LOTE3: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado (solo mercado chino).",
+      nota: "Sin test EuroNCAP (solo mercado chino).",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 20.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 20.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -533,7 +533,7 @@ export const COCHES_LOTE3: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "2 años sin límite de kilometraje",
@@ -621,10 +621,10 @@ export const COCHES_LOTE3: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 20.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 20.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -709,10 +709,10 @@ export const COCHES_LOTE3: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -797,10 +797,10 @@ export const COCHES_LOTE3: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -885,10 +885,10 @@ export const COCHES_LOTE3: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1061,10 +1061,10 @@ export const COCHES_LOTE3: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 20.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 20.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1149,10 +1149,10 @@ export const COCHES_LOTE3: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -1237,10 +1237,10 @@ export const COCHES_LOTE3: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado (solo Latinoamérica).",
+      nota: "Sin test EuroNCAP (solo Latinoamérica).",
     },
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1501,7 +1501,7 @@ export const COCHES_LOTE3: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "12 meses (inspección anual)",
@@ -1589,7 +1589,7 @@ export const COCHES_LOTE3: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "12 meses (inspección anual)",
@@ -1634,8 +1634,8 @@ export const COCHES_LOTE3: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: [],
     pros: [
-      "Desde 35.550 € en Europa: precio muy competitivo",
-      "Garantía de 7 años o 160.000 km",
+      "Precio europeo desde 35.550 €, muy competitivo dentro de su segmento",
+      "Cobertura de 7 años o 160.000 km incluida",
       "Versión Plus de 204 CV con 379-410 km de autonomía",
       "Carga rápida de 100 kW",
       "Diseño Pininfarina",
@@ -1677,10 +1677,10 @@ export const COCHES_LOTE3: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1722,10 +1722,10 @@ export const COCHES_LOTE3: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: ["precioDesde", "cargaRapidaKw"],
     pros: [
-      "Versión Eco de 204 CV con 450 km de autonomía",
-      "Versión Plus AWD de 354 CV y 500 Nm",
+      "La Eco rinde 204 CV y homologa 450 km de autonomía",
+      "La Plus AWD entrega 354 CV y 500 Nm de par",
       "Batería de 75,3 kWh",
-      "Garantía de 7 años o 160.000 km",
+      "Siete años o 160.000 kilómetros de garantía en toda la gama",
       "Precio europeo estimado desde ~35.000 €",
     ],
     contras: [
@@ -1765,10 +1765,10 @@ export const COCHES_LOTE3: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1856,7 +1856,7 @@ export const COCHES_LOTE3: CocheComparador[] = [
       nota: "5 estrellas en la evaluación EuroNCAP (anunciado en el IAA Mobility 2025 con la entrada de Togg en Alemania).",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 20.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 20.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",

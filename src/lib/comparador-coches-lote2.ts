@@ -52,7 +52,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km (plan estándar BAIC para todoterrenos)",
@@ -116,7 +116,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 20.000 km (plan estándar BAIC para eléctricos)",
@@ -180,7 +180,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 15.000 km (plan estándar de la red oficial en España)",
@@ -244,7 +244,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin plan publicado para Europa; en China, revisión anual para las versiones eléctricas",
@@ -308,7 +308,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 24 meses o 30.000 km (plan oficial BYD Europa para eléctricos)",
@@ -372,7 +372,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 24 meses o 30.000 km (plan oficial BYD Europa para eléctricos)",
@@ -438,7 +438,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin plan publicado; al ser eléctrico solo requiere inspección anual",
@@ -502,7 +502,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km (plan estándar Dongfeng)",
@@ -566,7 +566,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 24 meses o 30.000 km (plan oficial BYD Europa para eléctricos)",
@@ -630,7 +630,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km (plan estándar Foton)",
@@ -694,7 +694,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 20.000 km (plan estándar GAC para eléctricos)",
@@ -758,7 +758,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km (plan estándar GAC)",
@@ -822,7 +822,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km (plan GAC para híbridos enchufables en mercados de exportación)",
@@ -886,7 +886,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km (plan estándar Geely para PHEV)",
@@ -950,7 +950,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 20.000 km (plan estándar)",
@@ -1014,7 +1014,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km (plan estándar del grupo Chery)",
@@ -1078,7 +1078,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km (plan estándar del grupo Chery)",
@@ -1142,7 +1142,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Según plan del importador (consultar red oficial MHERO en España)",
@@ -1206,7 +1206,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin plan publicado para Europa; en China, revisión anual para eléctricos",
@@ -1270,7 +1270,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km (plan estándar JAC)",
@@ -1334,7 +1334,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 24 meses o 30.000 km (plan estándar para eléctricos)",
@@ -1379,7 +1379,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: ["precioDesde"],
     pros: ["Su truco familiar es tumbar los respaldos delanteros y traseros hasta dejar el habitáculo convertido en una cama plana para dormir dentro, algo que ni un BYD Atto 3 ni un MG ZS EV ofrecen de serie", "Por unos 14.700 euros en China junta 217 CV, 275 Nm y tracción delantera: cifras que en Europa obligarían a pagar mucho más por un SUV eléctrico de cinco plazas", "Con 62 kWh para anunciar 520 km en ciclo CLTC y 490 litros de maletero, encaja en el viaje largo en familia sin renunciar a cargar equipaje voluminoso", "Detrás no hay una startup improvisada: Venucia es la enseña de Dongfeng-Nissan, así que comparte ingeniería y fábrica con un socio japonés con décadas haciendo coches", "El paquete de baterías apuesta por química LFP, menos propensa a sustos térmicos y más tolerante a cargar al completo a diario que una batería ternaria convencional"],
-    contras: ["En España no existe concesionario Venucia donde comprarlo, mantenerlo o reclamar una avería: cualquier unidad llegaría por importación paralela y quedaría huérfana de posventa oficial", "Esos 520 km son homologación china CLTC, bastante más generosa que la WLTP europea, así que en autopista española la autonomía útil caerá de forma clara", "Pese a declarar 217 CV, firma el 0 a 100 km/h en 8 segundos y solo mueve las ruedas delanteras, sin versión de tracción total como la de algunos rivales coreanos", "Euro NCAP jamás lo ha estrellado en sus ensayos, por lo que quien lo importe no tendrá una nota independiente que respalde cómo protege a ocupantes y peatones", "Fuera de su mercado doméstico es un completo desconocido frente a BYD o MG, y esa invisibilidad penaliza tanto la confianza del comprador como un futuro precio de reventa"],
+    contras: ["En España no existe concesionario Venucia donde comprarlo, mantenerlo o reclamar una avería: cualquier unidad llegaría por importación paralela y quedaría huérfana de posventa oficial", "Esos 520 km son homologación china CLTC, bastante más generosa que la WLTP europea, así que en autopista española la autonomía útil caerá de forma clara", "Aunque declara 217 CV, necesita 8 segundos para el 0 a 100 km/h y solo mueve las ruedas delanteras, sin variante de tracción total como la que ofrecen algunos rivales coreanos", "Euro NCAP jamás lo ha estrellado en sus ensayos, por lo que quien lo importe no tendrá una nota independiente que respalde cómo protege a ocupantes y peatones", "Fuera de su mercado doméstico es un completo desconocido frente a BYD o MG, y esa invisibilidad penaliza tanto la confianza del comprador como un futuro precio de reventa"],
     imagen: "/media/venucia-vx6-2024-precio-ficha-tecnica-1.webp",
     imagenOficial: "/media/venucia-vx6-2024-precio-ficha-tecnica-2.webp",
     imagenInteriorOficial: "/media/venucia-vx6-2024-precio-ficha-tecnica-3.webp",
@@ -1398,7 +1398,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 20.000 km (plan estándar)",
@@ -1462,7 +1462,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin plan publicado para Europa; en China, revisión anual para eléctricos",
@@ -1526,7 +1526,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 20.000 km (plan estándar)",
@@ -1590,7 +1590,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin plan de mantenimiento publicado: al ser eléctrico solo requiere inspección anual de frenos, neumáticos y batería",

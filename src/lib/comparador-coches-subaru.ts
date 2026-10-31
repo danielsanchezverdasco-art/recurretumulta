@@ -625,7 +625,7 @@ export const COCHES_SUBARU: CocheComparador[] = [
       "costeMensualTotal": 96,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "EV 227 CV: consumo estimado ~15 kWh/100 km (dato oficial pendiente); recarga doméstica a 0,18 €/kWh; 15.000 km/año; seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
+      "notas": "EV 227 CV: consumo estimado ~15 kWh/100 km (dato oficial pendiente); 0,18 €/kWh (doméstica); 15.000 km/año; seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
       "estimado": true
     },
     galeria: [
@@ -708,6 +708,6 @@ export const COCHES_SUBARU: CocheComparador[] = [
       }
     ],
     euroncap: {"ano": 2025, "estrellas": 5, "nota": "5 estrellas Euro NCAP 2025: 88 % en ocupante adulto, 85 % en infantil, 80 % en usuarios vulnerables y 79 % en asistentes a la seguridad (Subaru Europe; la imagen de la prueba corresponde a su gemelo Toyota C-HR+)", "url": "https://www.euroncap.com/assessments/subaru/uncharted/1230/"},
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Programa oficial Subaru para el Uncharted MY2026 (servicios A-E cada 15.000 km/12 meses, Capped Price Servicing de Subaru) y tabla de mantenimiento del libro oficial 2026 Subaru EV Warranty & Maintenance, p. 26; sin precios en euros publicados para España", "intervalo": "Cada 15.000 km o 12 meses, lo que ocurra antes", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión A / 15.000 km o 12 meses", "queSeCambia": "Inspección programada del eléctrico según la tabla oficial de Subaru: pastillas y discos de freno, latiguillos, dirección, suspensión y fuelles, rotación de neumáticos y control del filtro de habitáculo y de los refrigerantes de calefacción y de la batería de tracción"}, {"costeAproxEur": null, "nombre": "Revisión B / 30.000 km o 24 meses", "queSeCambia": "Nueva inspección programada con el alcance de la revisión A y control adicional del líquido del transeje eléctrico (e-Transaxle), previsto en la tabla a los 24 meses; el refrigerante de la batería de tracción solo se sustituye por primera vez a los 192.000 km según esa misma tabla"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Programa oficial Subaru para el Uncharted MY2026 (servicios A-E cada 15.000 km/12 meses, Capped Price Servicing de Subaru) y tabla de mantenimiento del libro oficial 2026 Subaru EV Warranty & Maintenance, p. 26; sin precios en euros publicados para España", "intervalo": "Cada 15.000 km o 12 meses", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión A / 15.000 km o 12 meses", "queSeCambia": "Inspección programada del eléctrico según la tabla oficial de Subaru: pastillas y discos de freno, latiguillos, dirección, suspensión y fuelles, rotación de neumáticos y control del filtro de habitáculo y de los refrigerantes de calefacción y de la batería de tracción"}, {"costeAproxEur": null, "nombre": "Revisión B / 30.000 km o 24 meses", "queSeCambia": "Nueva inspección programada con el alcance de la revisión A y control adicional del líquido del transeje eléctrico (e-Transaxle), previsto en la tabla a los 24 meses; el refrigerante de la batería de tracción solo se sustituye por primera vez a los 192.000 km según esa misma tabla"}]},
   },
 ];

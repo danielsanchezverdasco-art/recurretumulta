@@ -92,7 +92,7 @@ export const CAMPERS_VOLKSWAGEN: CocheComparador[] = [
     ],
     analisisSlug: "volkswagen-grand-california-600-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Según el plan oficial de Volkswagen: revisión anual o por kilometraje, lo que ocurra antes",
+      intervalo: "Según el plan oficial de Volkswagen: revisión anual o por kilometraje",
       revisiones: [
         {
           nombre: "Mantenimiento anual",
@@ -211,7 +211,7 @@ export const CAMPERS_VOLKSWAGEN: CocheComparador[] = [
     ],
     analisisSlug: "volkswagen-grand-california-680-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Según el plan oficial de Volkswagen: revisión anual o por kilometraje, lo que ocurra antes",
+      intervalo: "Según el plan oficial de Volkswagen: revisión anual o por kilometraje",
       revisiones: [
         {
           nombre: "Mantenimiento anual",
