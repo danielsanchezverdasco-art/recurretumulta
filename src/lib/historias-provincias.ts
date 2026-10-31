@@ -472,7 +472,7 @@ export const HISTORIAS_PROVINCIA: Record<string, HistoriaProvincia[]> = {
   "melilla": [
     {
       titulo: "Melilla activa el sistema de Foto Rojo, con multas de 200 euros y retirada de cuatro puntos",
-      resumen: "El sistema Foto Rojo de Melilla se activó el 16/06/2026 en los cruces de General Polavieja con Alfonso Gurrea y de Álvaro de Bazán con General Ordóñez; saltarse el semáforo en rojo supone 200 euros y 4 puntos.",
+      resumen: "La Ciudad Autónoma puso en marcha el 16/06/2026 su sistema de cámaras para sancionar a quienes cruzan con semáforo rojo; la infracción cuesta 200 euros y 4 puntos del carné.",
       fuente: "El Faro de Melilla",
       url: "https://elfarodemelilla.es/melilla-activa-el-sistema-de-foto-rojo-con-multas-de-200-euros-y-retirada-de-cuatro-puntos/",
       fecha: "2026-06-16",

@@ -22,21 +22,18 @@ import { CIUDADES_MULTAS } from "@/lib/ciudades-multas";
 
 // Cumplimiento 18/10/2026 (A2): en Cataluña y País Vasco las multas de las vías
 // interurbanas NO las tramita la DGT. Webs oficiales verificadas el 18/10/2026.
-const AUTONOMICO: Record<string, { art: string; nombre: string; url: string; urlTexto: string; texto: string }> = (() => {
-  const sct = { art: "el", nombre: "Servei Català de Trànsit (SCT)", url: "https://transit.gencat.cat/ca/inici/", urlTexto: "transit.gencat.cat",
-    texto: "Cataluña tiene competencia propia en tráfico: las denuncias en carreteras y autopistas catalanas las formulan los Mossos d'Esquadra y las tramita el Servei Català de Trànsit, no la DGT. Las alegaciones y recursos de esas multas se dirigen al SCT. Las multas urbanas (zona azul, semáforos, ZBE) son del ayuntamiento." };
-  const gv = { art: "la", nombre: "Dirección de Tráfico del Gobierno Vasco (Trafikoa)", url: "https://www.trafikoa.euskadi.eus/inicio/", urlTexto: "trafikoa.euskadi.eus",
-    texto: "Euskadi tiene competencia propia en tráfico: la Ertzaintza denuncia en las carreteras vascas y la Dirección de Tráfico del Gobierno Vasco (Trafikoa) tramita esas sanciones, no la DGT. Las alegaciones y recursos de multas interurbanas se dirigen al Gobierno Vasco. Las multas urbanas (OTA, ZBE, semáforos) son del ayuntamiento." };
+const AUTONOMICO: Record<string, { nombre: string; url: string; urlTexto: string; texto: string; art: string }> = (() => {
+  const sct = { nombre: "Servei Català de Trànsit (SCT)", url: "https://transit.gencat.cat/ca/inici/", urlTexto: "transit.gencat.cat",
+    texto: "Cataluña tiene competencia propia en tráfico: las denuncias en carreteras y autopistas catalanas las formulan los Mossos d'Esquadra y las tramita el Servei Català de Trànsit, no la DGT. Las alegaciones y recursos de esas multas se dirigen al SCT. Las multas urbanas (zona azul, semáforos, ZBE) son del ayuntamiento.", art: "el" };
+  const gv = { nombre: "Dirección de Tráfico del Gobierno Vasco (Trafikoa)", url: "https://www.trafikoa.euskadi.eus/inicio/", urlTexto: "trafikoa.euskadi.eus",
+    texto: "Euskadi tiene competencia propia en tráfico: la Ertzaintza denuncia en las carreteras vascas y la Dirección de Tráfico del Gobierno Vasco (Trafikoa) tramita esas sanciones, no la DGT. Las alegaciones y recursos de multas interurbanas se dirigen al Gobierno Vasco. Las multas urbanas (OTA, ZBE, semáforos) son del ayuntamiento.", art: "la" };
   return { barcelona: sct, girona: sct, lleida: sct, tarragona: sct, bilbao: gv, "san-sebastian": gv, vitoria: gv };
 })();
 // Vigo y Santiago comparten datos de radares con su provincia (Pontevedra y A Coruña);
 // en sus fichas solo se muestran los radares de su propio municipio.
 const CIUDAD_A_PROVINCIA: Record<string, string> = { vigo: "pontevedra", "santiago-compostela": "a-coruna" };
-// 24/10/2026 (fusión radares↔provincias): organismo que publica el listado
-// oficial de radares fijos de cada provincia (verificado el 24/10/2026). En
-// Cataluña es el Servei Català de Trànsit; en Euskadi, la Dirección de Tráfico
-// del Gobierno Vasco (su listado público no detalla radares fijos por
-// provincia: las fichas vascas quedan a 0 declarado, sin inventar); en el
+// Organismo que publica el listado oficial de radares fijos: en Cataluña, el
+// Servei Català de Trànsit; en Euskadi, Trafikoa (revisado el 31/10/2026); en el
 // resto, la DGT.
 const FUENTE_RADARES: Record<string, { art: string; nombre: string; url: string; urlTexto: string }> = (() => {
   const sct = { art: "El", nombre: "Servei Català de Trànsit", url: "https://transit.gencat.cat/ca/inici/", urlTexto: "transit.gencat.cat" };
@@ -263,7 +260,7 @@ export default function MultaProvinciaPage() {
                   {cm && (
                     <tr>
                       <td className="py-2 pr-3 font-semibold text-gray-700 align-top whitespace-nowrap">Pronto pago</td>
-                      <td className="py-2 text-gray-600">Reducción del 50 % si pagas en los 20 días naturales siguientes a la notificación (art. 94 del RDL 6/2015). Pagar supone renunciar a las alegaciones y cierra la vía administrativa: solo queda el recurso contencioso-administrativo.</td>
+                      <td className="py-2 text-gray-600">Si abonas la multa dentro de los 20 días naturales posteriores a la notificación, se rebaja a la mitad. Es el artículo 94 del RDL 6/2015. Al pagar renuncias a alegar y terminas el expediente: después solo cabe acudir a los juzgados.</td>
                     </tr>
                   )}
                   <tr>

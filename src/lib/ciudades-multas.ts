@@ -25,12 +25,12 @@ export type CiudadMultas = {
 };
 
 const TRAFIKOA = {
-  texto: "listado oficial de cabinas de radar fijo de Trafikoa (Gobierno Vasco), comprobado el 31/10/2026; la ausencia de un radar en la lista no implica que no exista. Los controles móviles no aparecen en ningún listado público",
+  texto: "listado oficial de cabinas de radar fijo de Trafikoa (Gobierno Vasco), comprobado el 31/10/2026; la ausencia de un radar en la lista no implica que no exista. Los controles móviles tampoco figuran en un listado público",
   url: "https://apps.trafikoa.euskadi.eus/lfr/web/trafikoa/cabinas-de-radar-fijo",
   urlTexto: "apps.trafikoa.euskadi.eus",
 };
 const DGT_LISTADO = {
-  texto: "listado oficial de radares fijos de la DGT, datos verificados el 31/10/2026; la ausencia de un radar en la lista no implica que no exista. Los controles móviles no aparecen en ningún listado público",
+  texto: "listado oficial de radares fijos de la DGT, datos verificados el 31/10/2026; que un punto falte en el listado no demuestra que no haya control. Los móviles, además, carecen de lista pública",
   url: "https://www.dgt.es/inicio/",
   urlTexto: "dgt.es",
 };
@@ -39,7 +39,7 @@ const INTRO_TRAFIKOA = "Carreteras donde Trafikoa (Gobierno Vasco) tiene cabinas
 export const CIUDADES_MULTAS: Record<string, CiudadMultas> = {
   bilbao: {
     altHero: "Recurrir multas de tráfico en Bilbao: OTA, ZBE y radares de la A-8",
-    municipal: "Si es de la OTA o de la Policía Municipal de Bilbao, ante el Ayuntamiento, por su sede electrónica.",
+    municipal: "Si procede de la OTA o de la Policía Municipal, el escrito va al Ayuntamiento de Bilbao.",
     radaresIntro: INTRO_TRAFIKOA,
     radaresFuente: TRAFIKOA,
     radares: [
@@ -74,7 +74,7 @@ export const CIUDADES_MULTAS: Record<string, CiudadMultas> = {
 
   "san-sebastian": {
     altHero: "Recurrir multas de tráfico en San Sebastián: ZBE de Donostia, GI-20 y A-15",
-    municipal: "Si es de la Policía Municipal de Donostia-San Sebastián, ante el Ayuntamiento, por su sede electrónica o en Recaudación.",
+    municipal: "Si la firma la Policía Municipal, se resuelve en el Ayuntamiento donostiarra.",
     radaresIntro: INTRO_TRAFIKOA,
     radaresFuente: TRAFIKOA,
     radares: [
@@ -108,7 +108,7 @@ export const CIUDADES_MULTAS: Record<string, CiudadMultas> = {
 
   vitoria: {
     altHero: "Recurrir multas de tráfico en Vitoria-Gasteiz: ZBE del Casco Medieval y radares de Álava",
-    municipal: "Si es de la Policía Local de Vitoria-Gasteiz, ante el Ayuntamiento, por su sede electrónica o en las Oficinas de Atención Ciudadana.",
+    municipal: "Cuando la denuncia viene de la Policía Local vitoriana, contesta el Ayuntamiento.",
     radaresIntro: INTRO_TRAFIKOA,
     radaresFuente: TRAFIKOA,
     radares: [
@@ -153,7 +153,7 @@ export const CIUDADES_MULTAS: Record<string, CiudadMultas> = {
 
   ceuta: {
     altHero: "Recurrir multas de tráfico en Ceuta: Ciudad Autónoma, Policía Local y Jefatura de Tráfico",
-    municipal: "Si es de la Policía Local, ante la Ciudad Autónoma de Ceuta, por la sede electrónica sede.ceuta.es o en una oficina de registro.",
+    municipal: "Las denuncias de la Policía Local de Ceuta las resuelve la Ciudad Autónoma.",
     bloques: [
       {
         titulo: "Multas de la Ciudad Autónoma de Ceuta",
@@ -170,7 +170,7 @@ export const CIUDADES_MULTAS: Record<string, CiudadMultas> = {
 
   melilla: {
     altHero: "Recurrir multas de tráfico en Melilla: Ciudad Autónoma, Foto Rojo y Jefatura de Tráfico",
-    municipal: "Si es de la Policía Local, ante la Ciudad Autónoma de Melilla, por la sede electrónica sede.melilla.es.",
+    municipal: "Las sanciones urbanas de Melilla las gestiona la Ciudad Autónoma, no un ayuntamiento.",
     bloques: [
       {
         titulo: "Multas de la Ciudad Autónoma de Melilla",
@@ -191,7 +191,7 @@ export const CIUDADES_MULTAS: Record<string, CiudadMultas> = {
 
   vigo: {
     altHero: "Recurrir multas de tráfico en Vigo: radares de la A-55, AP-9 y AP-9V y multas del Concello",
-    municipal: "Si es de la Policía Local, ante el Concello de Vigo, por su sede electrónica o en el Registro General.",
+    municipal: "Una denuncia de la Policía Local viguesa se contesta ante el Concello.",
     radaresIntro: "Radares fijos oficiales dentro del municipio de Vigo:",
     radaresMunicipio: "Vigo",
     radaresFuente: DGT_LISTADO,
@@ -212,7 +212,7 @@ export const CIUDADES_MULTAS: Record<string, CiudadMultas> = {
 
   "santiago-compostela": {
     altHero: "Recurrir multas de tráfico en Santiago de Compostela: casco histórico, zona ORA y radares de la N-550",
-    municipal: "Si es de la Policía Local, ante el Concello de Santiago, en el Registro de sus oficinas o por la sede electrónica.",
+    municipal: "En una sanción municipal compostelana, el destinatario es el Concello.",
     radaresIntro: "Radares fijos oficiales dentro del municipio de Santiago de Compostela:",
     radaresMunicipio: "Santiago de Compostela",
     radaresFuente: DGT_LISTADO,
