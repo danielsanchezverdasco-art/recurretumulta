@@ -4458,3 +4458,345 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/skoda-superb-combi-20-tsi-2026-precio-ficha-tecnica-oficial.webp | https://www.skoda-storyboard.com/en/skoda-superb-combi-general-photos/ | Škoda Storyboard (prensa oficial Škoda) | Foto de prensa oficial; licencia no indicada en la fuente |
 | /media/smart-1-pulse-2025-precio-ficha-tecnica-hero.webp | https://content.presspage.com/uploads/2751/53d5a409-f87e-4ba5-834a-ecdb9c3471e7/hashtag1-pulse-still-16x9-launch-press-release-quantum-blue-exterior-4.png | smart (media.smart.com, prensa oficial) | Foto de prensa oficial; licencia no indicada en la fuente |
 | /media/smart-1-pulse-2025-precio-ficha-tecnica-oficial.webp | https://content.presspage.com/uploads/2751/53d5a409-f87e-4ba5-834a-ecdb9c3471e7/hashtag1-pulse-still-16x9-launch-press-release-quantum-blue-exterior-4.png | smart (media.smart.com, prensa oficial) | Foto de prensa oficial; licencia no indicada en la fuente |
+
+<!-- cosecha: sincronizacion-main-v453 — foto real verificada contra la imagen original de Wikimedia Commons (comparación visual) -->
+| /media/bmw-serie-2-active-tourer-225e-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:BMW_U06_1X7A0186.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/bmw-serie-2-coupe-220i-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2022_BMW_220i_M_Sport_Automatic_2.0_Rear.jpg | Vauxford · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/bmw-serie-2-coupe-220i-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2022_BMW_220i_M_Sport_Automatic_2.0_Front.jpg | Vauxford · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/bmw-serie-4-420i-coupe-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:BMW_4-Series_Coup%C3%A9_(G22)_420i_(2021)_(52172142912).jpg | Charles from Port Chester, New York · Wikimedia Commons | CC BY 2.0 |
+| /media/bmw-serie-4-420i-coupe-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2021_BMW_420i_M_Sport_Automatic_2.0.jpg | Vauxford · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/bmw-serie-8-840i-gc-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:BMW_840i_Gran_Coupe_(G16)_Washington_DC_Metro_Area,_USA.jpg | OWS Photography · Wikimedia Commons | CC BY 4.0 |
+| /media/bmw-x1-xdrive25e-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:BMW_X1_xDrive25e_(U11,_2025)_(54812600570).jpg | Charles from Port Chester, New York · Wikimedia Commons | CC0 |
+| /media/bmw-x3-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:BMW_G45_X3_M50_DSC_7047.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/bmw-x3-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:BMW_G45_20_DSC_7119.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/byd-atto-3-evo-2026-precio-espana-hero.webp | https://commons.wikimedia.org/wiki/File:BYD_Atto_3_Evo_IMG_7851.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/byd-dolphin-surf-my26-5-plazas-precio-espana-hero.webp | https://commons.wikimedia.org/wiki/File:BYD_Dolphin_Surf_IAA_2025_DSC_2031.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/changan-uni-z-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Changan_UNI-Z_004.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/chery-eq7-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Chery_eQ7_004.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/chery-eq7-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2023_Chery_EQ7.jpg | User3204 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/chery-tiggo-4-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Chery_Tiggo_4_IMG002.jpg | Zotyefan · Wikimedia Commons | CC0 |
+| /media/chery-tiggo-4-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Chery_Tiggo_4_IMG001.jpg | Zotyefan · Wikimedia Commons | CC0 |
+| /media/cupra-raval-electrico-precio-espana-2026-hero.webp | https://commons.wikimedia.org/wiki/File:Cupra_Raval_VZ_IMG_8811.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/dacia-striker-2026-precio-ficha-hero.webp | https://commons.wikimedia.org/wiki/File:Dacia_Striker_01.jpg | Y.Leclercq · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/denza-n7-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Denza_N7_EV_GIMS_2024_1X7A2384.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/denza-n7-2025-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:DEnza_N7,_GIMS_24,_Le_Grand-Saconnex_(GIMS0074).jpg | Matti Blume · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/denza-n7-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2023_Denza_N7_(front).jpg | User3204 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/denza-z-superdeportivo-electrico-2026-hero.webp | https://commons.wikimedia.org/wiki/File:Denza_Z_concept_front_view.png | iMoD Official · Wikimedia Commons | CC BY 3.0 |
+| /media/denza-z9-dm-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Denza_Z9_GT_IAA_2025_DSC_2251.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/denza-z9-dm-2025-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:2025_Denza_Z9_GT_interior.png | iMoD Official · Wikimedia Commons | CC BY 3.0 |
+| /media/denza-z9-dm-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Denza_Z9_GT_IAA_2025_DSC_2034.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/dfsk-500-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:DFSK_Fengon_500_Automesse_Ludwigsburg_2022_1X7A5922.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/dfsk-500-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:DFSK_Fengon_500_IMG_8162.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/evo-5-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Evo_5_rear.jpg | Corvettec6r · Wikimedia Commons | CC BY 4.0 |
+| /media/evo-5-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:EVO_5_2024.jpg | Corvettec6r · Wikimedia Commons | CC BY 4.0 |
+| /media/evo-7-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:EVO_7_1.5_Turbo_DCT.jpg | AbacRiot · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/ferrari-12cilindri-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2025_Ferrari_12Cilindri_5.jpg | Calreyn88 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/ferrari-12cilindri-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2025_Ferrari_12Cilindri.jpg | Oleg Yunakov · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/ferrari-12cilindri-manuale-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Ferrari_12Cilindri_gfos25.jpg | Calreyn88 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/ferrari-296-gts-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2024_Ferrari_296_GTS_7.jpg | Calreyn88 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/ferrari-296-gts-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2024_Ferrari_296_GTS_1.jpg | Calreyn88 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/ferrari-296-speciale-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Ferrari_296_Speciale_Piloti.jpg | Turning67 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/ferrari-296-speciale-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2025_Ferrari_296_Speciale.jpg | Calreyn88 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/ferrari-296-speciale-piloti-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2025_Ferrari_296_Speciale.jpg | Calreyn88 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/ferrari-812-gts-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Ferrari_812_GTS_8.jpg | Calreyn88 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/ferrari-daytona-sp3-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2024_Ferrari_Daytona_SP3_rear.jpg | TTTNIS · Wikimedia Commons | CC0 |
+| /media/ferrari-daytona-sp3-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2023_Ferrari_Daytona_SP3_1.jpg | Calreyn88 · Wikimedia Commons | CC0 |
+| /media/ferrari-roma-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Ferrari_Roma_IMG_9627.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/ferrari-sf90-spider-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2023_Ferrari_SF90_Spider_2.jpg | Calreyn88 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/ferrari-sf90-spider-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2023_Ferrari_SF90_Spider.jpg | Calreyn88 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/ferrari-sf90-xx-spider-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Ferrari_SF90_XX_Spider_(54869986092).jpg | Alexandre Prevot from Nancy, France · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/ferrari-sf90-xx-spider-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2024_Ferrari_SF90_XX_Spider_2.jpg | Calreyn88 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/ferrari-sf90-xx-stradale-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2025_Ferrari_SF90XX_Stradale,_rear_right.jpg | Mr.choppers · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/ferrari-sf90-xx-stradale-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2025_Ferrari_SF90XX_Stradale,_front_left.jpg | Mr.choppers · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/fiat-600-hybrid-110-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Fiat_600_(2023)_Automesse_Ludwigsburg_2024_IMG_1584.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/fiat-doblo-12-puretech-110-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Fiat_E-Dobl%C3%B2_1X7A6788.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/fiat-grande-panda-ev-113-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Fiat_Grande_Panda_E_DSC_8696.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/ford-puma-st-line-x-mhev-155-2025-precio-ficha-tecnica-interior-oficial.webp | https://commons.wikimedia.org/wiki/File:2019_Ford_Puma_ST-Line_X_First_Edition_EcoBoost_1.0_Interior.jpg | Vauxford · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/forthing-friday-ev-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Forthing_Friday_EV_IAA_2023_1X7A0172.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/forthing-s7-ev-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Forthing_Xinghai_S7_010.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/forthing-s7-ev-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Forthing_Xinghai_S7_009.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/forthing-t5-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Forthing_T5_2023_facelift_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/forthing-t5-2025-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:Forthing_T5_2023_facelift_004.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/forthing-t5-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Forthing_T5_2023_facelift_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/forthing-t5-evo-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Forthing_T5_Evo_facelift_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/forthing-t5-evo-2025-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:Forthing_T5_EVO_009.jpg | Jengtingchen · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/forthing-t5-evo-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Forthing_T5_Evo_facelift_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/forthing-t5-evo-hev-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Forthing_5_HEV_IAA_2023_1X7A0160.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/forthing-u-tour-hev-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Forthing_Yacht_011.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/forthing-u-tour-hev-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Forthing_Yacht_010.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/forthing-v9-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Forthing_Xinghai_V9_004.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/forthing-v9-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Forthing_Xinghai_V9_003.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/geely-coolray-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Geely_Binyue_Cool_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/geely-coolray-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Geely_Binyue_Cool_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/geely-e5-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2025_Geely_EX5_Inspire_front.jpg | LuvsMG481 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/geely-galaxy-a7-em-i-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Geely_Galaxy_A7_010.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/geely-galaxy-a7-em-i-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Geely_Galaxy_A7_007.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/geely-galaxy-e8-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Geely_Galaxy_E8_006.jpg | Quzhouliulian · Wikimedia Commons | CC0 |
+| /media/geely-galaxy-l7-em-i-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Geely_Galaxy_L7_011.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/geely-galaxy-l7-em-i-2025-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:2023_Geely_Galaxy_L7_interior.jpg | User3204 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/geely-galaxy-l7-em-i-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Geely_Galaxy_L7_EM-i_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/geely-galaxy-m9-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Geely_Galaxy_M9_007.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/geely-galaxy-m9-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Geely_Galaxy_M9_006.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/geely-galaxy-starshine-8-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Geely_Galaxy_Xingyao_8_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/geely-galaxy-starshine-8-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Geely_Galaxy_Xingyao_8_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/geely-galaxy-xingyuan-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Geely_Xingyuan_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/geely-galaxy-xingyuan-2024-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:2025_Geely_Xingyuan_interior.jpg | Andra Febrian · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/geely-galaxy-xingyuan-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Geely_Xingyuan_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/geely-galaxy-zhanjian-700-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Geely_Galaxy_Cruiser_700.jpg | Navigli890 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/geely-starray-em-i-2026-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:Geely_EX5_EM-i_Max_interior.jpg | Ethan Llamas · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/geely-starray-em-i-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Geely_Galaxy_Starship_7_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/haval-chitu-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Haval_Chitu_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/haval-chitu-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Haval_Chitu_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/haval-dargo-x-2024-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:2025_Haval_Dargo_Premium_4WD_interior.jpg | Throwawayacc222 · Wikimedia Commons | CC0 |
+| /media/haval-dargo-x-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2025_Haval_Dargo_X_2.0_GDIT_DCT_AWD_grey_front.jpg | Throwawayacc222 · Wikimedia Commons | CC0 |
+| /media/haval-h6-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2024_Haval_H6_rear_view.png | iMoD Official · Wikimedia Commons | CC BY 3.0 |
+| /media/haval-h6-2024-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:2024_Haval_H6_HEV_Interior_in_TSM_Bandung.jpg | MoCars · Wikimedia Commons | CC0 |
+| /media/haval-h6-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2024_Haval_H6_front_view.png | iMoD Official · Wikimedia Commons | CC BY 3.0 |
+| /media/haval-h6-phev-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Haval_H6_III_facelift_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/haval-h6-phev-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Haval_H6_III_facelift_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/haval-h9-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Haval_H9_II_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/haval-h9-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Haval_H9_II_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/haval-jolion-pro-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2024_Haval_Jolion_Pro_rear_view.png | iMoD Official · Wikimedia Commons | CC BY 3.0 |
+| /media/haval-jolion-pro-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2024_Haval_Jolion_Pro_front_view.png | iMoD Official · Wikimedia Commons | CC BY 3.0 |
+| /media/haval-xiaolong-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Haval_Xiaolong_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/haval-xiaolong-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Haval_Xiaolong_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/haval-xiaolong-max-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Haval_Xiaolong_Max_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/haval-xiaolong-max-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Haval_Xiaolong_Max_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/honda-civic-type-r-ultimate-edition-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Honda_Civic_Type_R_Ultimate_Edition_2025.jpg | Calreyn88 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/honda-civic-type-r-ultimate-edition-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Honda_Civic_Type_R_Ultimate_Edition_2025_4.jpg | Calreyn88 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/honda-cr-v-ephev-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Honda_CR-V_(6th_generation)_hybrid_1X7A0866.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/honda-cr-v-ephev-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Honda_CR-V_(6th_generation)_e-PHEV_Auto_Zuerich_2023_1X7A1066.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/honda-jazz-crosstar-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Honda_Jazz_e-HEV_Crosstar_Advance_(IV)_%E2%80%93_h_31122024.jpg | © M 93 · Wikimedia Commons | CC BY-SA 3.0 de |
+| /media/honda-jazz-crosstar-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Honda_Jazz_e-HEV_Crosstar_Advance_(IV)_%E2%80%93_f_31122024.jpg | © M 93 · Wikimedia Commons | CC BY-SA 3.0 de |
+| /media/honda-zr-v-ehev-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Honda_ZR-V_e-HEV_Auto_Zuerich_2023_1X7A1059.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/honda-zr-v-ehev-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Honda_ZR-V_e-HEV_1X7A1679.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-e-qm5-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_E-QM5_facelift_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hongqi-e-qm5-2025-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:2021_Hongqi_E-QM5_interior.jpg | User3204 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-e-qm5-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Hongqi_E-QM5_facelift_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hongqi-eh7-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_EH7_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hongqi-eh7-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Hongqi_EH7_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hongqi-guoya-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_Guoya_20240819_004.jpg | 毕明明 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-guoya-2024-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:Hongqi_Guoya_(L1)_20240627_007.jpg | 毕明明 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-guoya-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Hongqi_Guoya_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hongqi-h5-2023-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_H5_II_004.jpg | Quzhouliulian · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-h5-2023-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:Hongqi_H5_II_on_display_7.jpg | Woshifongge2006 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-h5-2023-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Hongqi_H5_2023.jpg | Milhouse35 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-h5-hev-2024-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:Hongqi_H5_II_on_display_6.jpg | Woshifongge2006 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-h5-hev-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Hongqi_H5_II_003.jpg | Quzhouliulian · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-h6-2023-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_H6_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-h6-2023-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:2023_Hongqi_H6_interior.jpg | User3204 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-h6-2023-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Hongqi_H6_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-h7-phev-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_H7_II_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hongqi-h7-phev-2026-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:Hongqi_H7_II_005.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hongqi-h7-phev-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Hongqi_H7_II_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hongqi-h9-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_H9_facelift_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hongqi-h9-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Hongqi_H9_facelift_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hongqi-hq9-2023-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2022_Hongqi_HQ9_(rear).jpg | User3204 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-hq9-2023-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2022_Hongqi_HQ9_(front).jpg | User3204 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-hq9-phev-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Hongqi_HQ9_008.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hongqi-hs5-2023-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_HS5_facelift_003.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-hs5-2023-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Hongqi_HS5_facelift_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-hs6-phev-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_HS6_PHEV_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hongqi-hs6-phev-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Hongqi_HS6_PHEV_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hongqi-hs7-2023-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_HS7_II_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-hs7-2023-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:Hongqi_HS7_II_008.jpg | Zoerides · Wikimedia Commons | CC0 |
+| /media/hongqi-hs7-2023-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Hongqi_HS7_II_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-hs7-phev-2024-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:Hongqi_HS7_II_008.jpg | Zoerides · Wikimedia Commons | CC0 |
+| /media/hongqi-hs7-phev-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Hongqi_HS7_II_PHEV_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hongqi-tiangong-05-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_Tiangong_05_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hongqi-tiangong-05-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Hongqi_Tiangong_05_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hongqi-tiangong-06-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hongqi_Tiangong_06_004.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hongqi-tiangong-06-2025-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:Hongqi_EHS5_IAA_2025_DSC_2271.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hongqi-tiangong-06-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Hongqi_Tiangong_06_003.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hyptec-a800-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hyptec_A800_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hyptec-a800-2026-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:Hyptec_A800_004.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hyptec-a800-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Hyptec_A800_003.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hyptec-ht-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Hyptec_HT_004.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hyptec-ht-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Hyptec_HT_003.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hyptec-s600-2026-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:Hyptec_S600_003.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hyundai-ioniq-3-precio-espana-2026-hero.webp | https://commons.wikimedia.org/wiki/File:2026_Hyundai_Ioniq_3_N_Line_(Europe)_front_view_01.png | AutoGids · Wikimedia Commons | CC BY 3.0 |
+| /media/hyundai-kona-n-line-2026-precio-ficha-tecnica-interior-oficial.webp | https://commons.wikimedia.org/wiki/File:Hyundai_Kona_Electric_N_Line_SX2_EV_Black_Monotone_N_Line_(1).jpg | Damian B Oh · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/im-ls7-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:IM_LS7_GIMS_2024_1X7A2398.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/im-ls7-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:IM_LS7_GIMS_2024_1X7A2396.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/im-motors-l6-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:IM_L6_GIMS_2024_1X7A2395.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/im-motors-l6-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:IM_L6_GIMS_2024_1X7A2393.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/jac-e30x-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:JAC_Yiwei_3_005.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/jac-e30x-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:JAC_Yiwei_3_006.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/jac-qx-phev-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:JAC_QX_PHEV_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/jac-qx-phev-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:JAC_QX_PHEV_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/jac-t9-ev-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:JAC_Hunter_EV_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/jeep-compass-13-t-130-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:JEEP_COMPASS_(MP)_China_(6).jpg | Dinkun Chen · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/jeep-compass-13-t-130-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Jeep_Compass_(MP)_Facelift_IMG_5813.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/jeep-compass-15-e-hybrid-130-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2025_Jeep_Compass_Sport_in_Bright_White,_front_right,_2025-09-07.jpg | Elise240SX · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/jeep-compass-16-mjt-130-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Jeep_Compass_(MP)_Washington_DC_Metro_Area,_USA_(1).jpg | OWS Photography · Wikimedia Commons | CC BY 4.0 |
+| /media/jeep-compass-16-mjt-130-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:JEEP_COMPASS_(MP)_China_(7).jpg | Dinkun Chen · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/jeep-compass-4xe-240-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Jeep_Compass_(MP)_PHEV_Facelift_1X7A0140.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/jeep-compass-4xe-240-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Jeep_Compass_(MP)_PHEV_Facelift_1X7A0139.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/jeep-compass-4xe-phev-195-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Jeep_Compass_e_(J4U)_Auto_Zuerich_2025_DSC_3002.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/jeep-compass-4xe-phev-195-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Jeep_Compass_(J4U)_IMG_5656.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/jeep-renegade-10-t3-120-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Jeep_Renegade_Sanming_01_2022-08-23.jpg | JamesYoung8167 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/jeep-renegade-10-t3-120-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Jeep_Renegade,_GIMS_2019,_Le_Grand-Saconnex_(GIMS0538).jpg | Matti Blume · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/jeep-renegade-16-multijet-130-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2019_Jeep_Renegade_Trailhawk_white.jpg | Throwawayacc222 · Wikimedia Commons | CC0 |
+| /media/kia-pv5-furgoneta-electrica-espana-hero.webp | https://commons.wikimedia.org/wiki/File:Kia_PV5_Cargo_IMG_7825.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-defender-110-d300-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:0_Land_Rover_Defender_110_(L663)_1.jpg | Benespit · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-defender-110-d350-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Defender_110_L663_Pangea_Green_(3).jpg | Damian B Oh · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-defender-110-d350-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Defender_(L663)_Auto_Zuerich_2021_IMG_0432.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-defender-110-p400e-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Defender_110_L663_Pangea_Green_(4).jpg | Damian B Oh · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-defender-110-p400e-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Defender_110_(L663)_1X7A1919.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-defender-110-p525-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Defender_(L663)_V8_IMG_6604.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-defender-130-d300-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Defender_130_L663_Santorini_Black_(1).jpg | Damian B Oh · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-defender-130-d300-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Defender_130_(L663)_IMG_9445.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-defender-130-p400-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Defender_130_L663_Santorini_Black_(2).jpg | Damian B Oh · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-defender-130-p400-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Defender_130_(L663)_Washington_DC_Metro_Area,_USA.jpg | OWS Photography · Wikimedia Commons | CC BY 4.0 |
+| /media/land-rover-defender-90-p400-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Defender_90_V8_L663_Santorini_Black_(16).jpg | Damian B Oh · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-defender-90-p400-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Defender_90_(L663)_IMG_9441.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-discovery-p360-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Discovery_SE_L462_FL_Santorini_Black_(1).jpg | Damian B Oh · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-discovery-p360-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Discovery_Dynamic_HSE_L462_FL_Fuji_White_(1).jpg | Damian B Oh · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-discovery-sport-d200-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Discovery_Sport_Dynamic_SE_P250_(2024)_(side)_in_Osaka.jpg | Aos.1905 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-discovery-sport-d200-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Discovery_Sport_Dynamic_SE_P250_(2024)_(front)_in_Osaka.jpg | Aos.1905 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-discovery-sport-p270e-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:20_Land_Rover_Discovery_Sport_P250_SE_R-Dynamic.jpg | HJUdall · Wikimedia Commons | CC0 |
+| /media/land-rover-range-rover-evoque-d200-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Range_Rover_Evoque_(L551)_1X7A7459.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-range-rover-evoque-d200-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Range_Rover_Evoque_(L551)_IMG_2660.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-range-rover-evoque-p270e-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_RANGE_ROVER_EVOQUE_DYNAMIC_HSE_PHEV_(L551)_rear.jpg | Tokumeigakarinoaoshima · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-range-rover-evoque-p270e-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_RANGE_ROVER_EVOQUE_DYNAMIC_HSE_PHEV_(L551)_front.jpg | Tokumeigakarinoaoshima · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-range-rover-p400-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Range_Rover_L460_HSE_Belgravia_Green_Metallic_-_front.jpg | Ethan Llamas · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-range-rover-p400-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Range_Rover_L460_HSE_Sunset_Gold_01.jpg | Ethan Llamas · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-range-rover-p530-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Range_Rover_P530_Autobiography_L460_Fuji_White_(4).jpg | Damian B Oh · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-range-rover-p530-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Range_Rover_P530_Autobiography_L460_Fuji_White_(2).jpg | Damian B Oh · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-range-rover-sport-d350-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Range_Rover_Sport_L461_Varesine_Blue_(12).jpg | Damian B Oh · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-range-rover-sport-d350-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Range_Rover_Sport_L461_Varesine_Blue_(10).jpg | Damian B Oh · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-range-rover-sport-p550e-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Range_Rover_Sport_P400_Autobiography_L461_Santorini_Black_(3).jpg | Damian B Oh · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-range-rover-sport-p550e-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Range_Rover_Sport_P400_Autobiography_L461_Fuji_White_(11).jpg | Damian B Oh · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/land-rover-range-rover-sport-sv-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Range_Rover_Sport_SV_Edition_One_L461_Carbon_Bronze_Matte_(28).jpg | Damian B Oh · Wikimedia Commons | CC BY 4.0 |
+| /media/land-rover-range-rover-sport-sv-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Range_Rover_Sport_SV_Edition_One_L461_Carbon_Bronze_Matte_(24).jpg | Damian B Oh · Wikimedia Commons | CC BY 4.0 |
+| /media/land-rover-range-rover-velar-d300-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Range_Rover_Velar_D300_(2024)_(54732316186).jpg | Charles from Port Chester, New York · Wikimedia Commons | CC0 |
+| /media/land-rover-range-rover-velar-d300-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Range_Rover_Velar_(Facelift)_1X7A5817.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/leapmotor-a10-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Leapmotor_A10_002_China_2026-04-16.jpg | Navigator84 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/leapmotor-a10-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Leapmotor_A10_001_China_2026-04-16.jpg | Navigator84 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/leapmotor-b03x-suv-electrico-barato-europa-hero.webp | https://commons.wikimedia.org/wiki/File:Leapmotor_A10_007.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/leapmotor-b10-reev-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Leapmotor_B10_IAA_2025_DSC_2067.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/leapmotor-c01-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Leapmotor_C01_003.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/leapmotor-c16-erev-280-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Leapmotor_C16_012.jpg | Quzhouliulian · Wikimedia Commons | CC0 |
+| /media/leapmotor-c16-erev-280-2026-precio-ficha-tecnica-interior-oficial.webp | https://commons.wikimedia.org/wiki/File:Leapmotor_C16_Auto_Zuerich_2024_DSC_6841.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/leapmotor-c16-erev-280-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Leapmotor_C16_006.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/li-auto-i6-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Li_Auto_i6_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/lujo-chino-coches-2026-yangwang-denza-hongqi-maextro-hero.webp | https://commons.wikimedia.org/wiki/File:2024_Yangwang_U8_(front).jpg | User3204 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/lynk-co-07-gt-debut-europa-paris-2026-hero.webp | https://commons.wikimedia.org/wiki/File:Lynk_%26_Co_07_EM-P_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/mazda-mx-5-rf-15-skyactiv-g-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:MAZDA_MX-5_RF_China_(2).jpg | Dinkun Chen · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mercedes-amg-cla-45-s-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Mercedes-AMG_CLA_45_S_4MATIC%2B_(C118)_1X7A1741.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mercedes-amg-cla-45-s-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Mercedes-AMG_CLA_45_S_4MATIC%2B_(C118)_1X7A1736.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mercedes-amg-cle-53-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2024_Mercedes-AMG_CLE_53_4MATIC%2B_Coup%C3%A9.jpg | Chanokchon · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mercedes-amg-glc-63-s-e-performance-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Mercedes-AMG_GLC_63S_E_Performance_(55060804363).jpg | Alexandre Prevot from Nancy, France · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mercedes-amg-s-63-e-performance-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Mercedes-AMG_S_63_E_PERFORMANCE_(W223)_front.jpg | Tokumeigakarinoaoshima · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mercedes-gle-450-e-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Mercedes-Benz_GLE-Klasse_(V167)_GLE_350_4MATIC_(2023)_(53651855136).jpg | Charles from Port Chester, New York · Wikimedia Commons | CC BY 2.0 |
+| /media/mercedes-gle-450-e-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2024_Mercedes-Benz_GLE-Class_GLE300d_4MATIC_AMG_Line.jpg | Chanokchon · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mg-hs-hybrid-plus-225-cv-precio-espana-hero.webp | https://commons.wikimedia.org/wiki/File:MG_HS_PHEV_(second_generation)_Auto_Zuerich_2024_DSC_6110.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mini-cooper-c-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Mini_Hatch_(F66)_IMG_8785.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mini-cooper-c-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Mini_Hatch_(F66)_IMG_8765.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mini-cooper-cabrio-c-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:MINI_F67_Cooper_Convertible_C_Classic_Midnight_Black_II_Metallic_(3).jpg | Damian B Oh · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mini-cooper-cabrio-c-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:MINI_F67_Cooper_Convertible_C_Classic_Midnight_Black_II_Metallic_(12).jpg | Damian B Oh · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mini-cooper-cabrio-s-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Mini_Cabrio_(F67)_JCW-Trim_DSC_7524.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mini-cooper-cabrio-s-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Mini_Cabrio_(F67)_JCW-Trim_DSC_7514.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mini-cooper-jcw-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Mini_Hatch_(F66)_John_Cooper_Works_DSC_9315.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mini-cooper-jcw-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Mini_Hatch_(F66)_John_Cooper_Works_DSC_9313.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mini-cooper-jcw-e-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Mini_Hatch_(J01)_John_Cooper_Works_DSC_9705.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mini-cooper-jcw-e-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Mini_Hatch_(J01)_John_Cooper_Works_DSC_9696.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mini-cooper-s-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:MINI_F66_Hatch_Cooper_S_Favoured_Ocean_Wave_Green_(2).jpg | Damian B Oh · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mini-cooper-s-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:MINI_F66_Hatch_Cooper_S_Favoured_Ocean_Wave_Green_(1).jpg | Damian B Oh · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mini-cooper-se-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Mini_Hatch_(J01)_Cooper_S_IAA_2023_1X7A0728.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mini-cooper-se-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Mini_Hatch_(J01)_Cooper_S_IAA_2023_1X7A0724.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2024_Mitsubishi_ASX_Leonberg_2024_IMG_0810.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2024_Mitsubishi_ASX_Leonberg_2024_IMG_0808.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mitsubishi-colt-hev-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Mitsubishi_Colt_(2023)_1X7A1658.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mitsubishi-colt-hev-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Mitsubishi_Colt_(2023)_1X7A1657.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mitsubishi-grandis-hev-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Mitsubishi_Grandis_Hybrid_Auto_Zuerich_2025_DSC_3288.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mitsubishi-grandis-hev-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Mitsubishi_Grandis_Hybrid_Auto_Zuerich_2025_DSC_3286.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mitsubishi-outlander-phev-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2025_Mitsubishi_Outlander_PHEV_(fourth_generation)_Auto_Zuerich_2024_DSC_6653.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mitsubishi-outlander-phev-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2025_Mitsubishi_Outlander_PHEV_(fourth_generation)_Auto_Zuerich_2024_DSC_6652.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/bmw-k-1600-gtl-2025-ficha-tecnica-precio-oficial-2.webp | https://commons.wikimedia.org/wiki/File:BMW_K_1600_GTL_left.JPG | Pierotreruote · Wikimedia Commons | CC BY-SA 3.0 |
+| /media/motos/bmw-k-1600-gtl-2025-ficha-tecnica-precio-oficial-3.webp | https://commons.wikimedia.org/wiki/File:BMW_K_1600_GTL_Engine_left.JPG | Pierotreruote · Wikimedia Commons | CC BY-SA 3.0 |
+| /media/motos/bmw-r-1300-gs-adventure-2025-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:BMW_R_1300_GS_Adventure_Triple_Black_(1).jpg | Cjp24 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/bmw-r-18-b-2025-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:R18_Bagger_im_bayrischen_Wald_(enger_Ausschnitt).jpg | Bayahusa · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/ducati-desertx-2025-ficha-tecnica-precio-hero.webp | https://commons.wikimedia.org/wiki/File:Ducati_DesertX_in_Barcelona.jpg | Artem Lepesin · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/ducati-desertx-2025-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Ducati_DesertX.jpg | Artem Lepesin · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/ducati-monster-2025-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Monster%2B_937_b.jpg | AnotherLocalAuthor · Wikimedia Commons | CC0 |
+| /media/motos/ducati-multistrada-v4-s-2025-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Ducati_Multistrada_V4_S_%2725.jpg | Oq10pass · Wikimedia Commons | CC0 |
+| /media/motos/ducati-panigale-v4-s-2025-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Ducati-Panigale-V4-clarkintlspeedwayph-californiasuperbike-trackday-7285-2025.jpg | Monkinvideos · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/moto-guzzi-stelvio-2026-ficha-tecnica-precio-oficial-2.webp | https://commons.wikimedia.org/wiki/File:Moto_Guzzi_Stelvio_2024_Cockpit2.jpg | CheminduCret · Wikimedia Commons | CC0 |
+| /media/motos/moto-guzzi-stelvio-2026-ficha-tecnica-precio-oficial-3.webp | https://commons.wikimedia.org/wiki/File:Moto_Guzzi_Stelvio_2024_Cockpit1.jpg | CheminduCret · Wikimedia Commons | CC0 |
+| /media/motos/moto-guzzi-v7-stone-2025-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Moto_Guzzi_V7_Stone_2022.jpg | CheminduCret · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/royal-enfield-continental-gt-650-2025-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Royal_Enfield_Continental_GT_650.jpg | Kiranpawar3210 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/royal-enfield-himalayan-450-2024-ficha-tecnica-precio-oficial-2.webp | https://commons.wikimedia.org/wiki/File:Royal_Enfield_Himalayan_450_Mana_Black.jpg | MotorideSA · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/royal-enfield-himalayan-450-2026-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Royal_Enfield_Himalayan_450_Mana_Black.jpg | MotorideSA · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/royal-enfield-super-meteor-650-2025-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Royal_Enfield_Super_Meteor_650_(01).jpg | iMahesh · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/triumph-bonneville-speedmaster-2025-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Triumph_Bonneville_Speedmaster_2026.jpg | MotorideSA · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/triumph-bonneville-t120-2025-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Triumph_Bonneville_T120_(1967)_-_14520805093.jpg | SG2012 · Wikimedia Commons | CC BY 2.0 |
+| /media/motos/triumph-scrambler-400-x-2025-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Triumph-Scrambler-400X.jpg | Rouv1505 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/triumph-scrambler-400-x-2026-ficha-tecnica-precio-oficial-2.webp | https://commons.wikimedia.org/wiki/File:Triumph-Scrambler-400X.jpg | Rouv1505 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/triumph-scrambler-400-x-2026-ficha-tecnica-precio-oficial-3.webp | https://commons.wikimedia.org/wiki/File:Triumph_Scrambler_400_X,_M-M25.jpg | Cjp24 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/triumph-scrambler-900-2025-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Triumph_Scrambler_900.JPG | TR001 · Wikimedia Commons | CC BY 3.0 |
+| /media/motos/triumph-speed-400-2026-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Triumph_Speed_400.jpg | Corvettec6r · Wikimedia Commons | CC BY 4.0 |
+| /media/motos/triumph-street-triple-765-r-2025-ficha-tecnica-precio-oficial-2.webp | https://commons.wikimedia.org/wiki/File:Triumph_Street_Triple_765_RS_(2022).jpg | Darktiger0512 · Wikimedia Commons | CC BY 4.0 |
+| /media/motos/triumph-street-triple-765-r-2025-ficha-tecnica-precio-oficial-3.webp | https://commons.wikimedia.org/wiki/File:TRIUMPH_STREET_TRIPLE_765_MOTO2_EDITION_at_50th_Tokyo_Motorcycle_Show_(2023).jpg | Ohgud.kibn7ewyu2 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/triumph-street-triple-765-rx-2026-ficha-tecnica-precio-oficial-2.webp | https://commons.wikimedia.org/wiki/File:Triumph_Street_Triple_765_RS_(2022).jpg | Darktiger0512 · Wikimedia Commons | CC BY 4.0 |
+| /media/motos/triumph-street-triple-765-rx-2026-ficha-tecnica-precio-oficial-3.webp | https://commons.wikimedia.org/wiki/File:TRIUMPH_STREET_TRIPLE_765_MOTO2_EDITION_at_50th_Tokyo_Motorcycle_Show_(2023).jpg | Ohgud.kibn7ewyu2 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/triumph-tiger-900-2025-ficha-tecnica-precio-oficial.webp | https://commons.wikimedia.org/wiki/File:Triumph_Tiger_900.jpg | Corvettec6r · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/triumph-trident-800-2026-ficha-tecnica-precio-oficial-2.webp | https://commons.wikimedia.org/wiki/File:Triumph_Trident_800_2026.jpg | MotorideSA · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/motos/triumph-trident-800-2026-ficha-tecnica-precio-oficial-3.webp | https://commons.wikimedia.org/wiki/File:Triumph_Trident_800.jpg | MotorideSA · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/neta-l-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Neta_L_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/neta-l-2024-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:Neta_L_003.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/neta-l-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Neta_L_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/neta-s-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Neta_S_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/neta-s-2024-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:Neta_S_IMG003.jpg | Zotyefan · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/neta-s-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Neta_S_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/neta-s-shooting-brake-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Neta_S_Hunting_Edition_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/neta-s-shooting-brake-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Neta_S_Hunting_Edition_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/nevo-a05-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Nevo_A05_006.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/nevo-a05-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Nevo_A05_005.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/nevo-a07-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Nevo_A07_007.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/nevo-a07-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Nevo_A07_006.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/nevo-e07-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Nevo_E07_008.jpg | KitsuneDP · Wikimedia Commons | CC0 |
+| /media/nevo-e07-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Nevo_E07_007.jpg | KitsuneDP · Wikimedia Commons | CC0 |
+| /media/nevo-q06-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Nevo_Q06_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/nevo-q06-2026-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:Nevo_Q06_004.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/nevo-q06-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Nevo_Q06_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/nio-ec7-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:NIO_EC7_002.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/nio-ec7-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:NIO_EC7_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/nio-el7-2024-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:NIO_EL7_1X7A0879.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/nio-el7-2024-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:NIO_EL7_IMG_8264.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/nio-et5-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:NIO_ET5_1X7A7326.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/nio-et5-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:NIO_ET5_1X7A7325.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/noble-m500-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Noble_M500.jpg | Lyon84 · Wikimedia Commons | CC0 |
+| /media/opel-vivaro-20-diesel-180-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Opel_Vivaro,_ILA_2024,_Schoenefeld_(ILA45499)_(cropped).jpg | Matti Blume · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/porsche-911-carrera-cabriolet-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2025_Porsche_992_Carrera_convertible_DSC_7024.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/porsche-911-carrera-cabriolet-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2025_Porsche_992_Carrera_convertible_DSC_7026.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/porsche-911-turbo-s-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2025_Porsche_992_Turbo_S_coupes_IAA_2025_DSC_1840.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/porsche-911-turbo-s-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2025_Porsche_992_Turbo_S_coupes_IAA_2025_DSC_1835.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/porsche-cayenne-gts-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2024_Porsche_Cayenne_GTS_Auto.jpg | Calreyn88 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/porsche-cayenne-gts-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Porsche_Cayenne_(PO536)_GTS_IMG_3953.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/porsche-macan-4s-electric-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Porsche_Macan_Electric_XAB_Jet_Black_Metallic_02.jpg | Ethan Llamas · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/porsche-macan-4s-electric-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Porsche_Macan_Electric_XAB_Jet_Black_Metallic_01.jpg | Ethan Llamas · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/porsche-macan-electric-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Porsche_Macan_II_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/porsche-macan-electric-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Porsche_Macan_(XAB)_IMG_2421.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/porsche-panamera-gts-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Porsche_972_Panamera_GTS_Auto_Zuerich_2025_DSC_3703.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/porsche-panamera-gts-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Porsche_972_Panamera_GTS_Auto_Zuerich_2025_DSC_3704.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/renault-600-millones-electricos-espana-hero.webp | https://commons.wikimedia.org/wiki/File:Renault_5_E-Tech_Electric_DSC_7168.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/skoda-elroq-50-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:%C5%A0koda_Elroq_DSC_2716.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/skoda-elroq-50-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:%C5%A0koda_Elroq_-_01.jpg | Y.Leclercq · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/skoda-elroq-60-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Skoda_Elroq_85_%E2%80%93_h_09022025.jpg | © M 93 · Wikimedia Commons | CC BY-SA 3.0 de |
+| /media/skoda-elroq-60-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Skoda_Elroq_85_%E2%80%93_f_09022025.jpg | © M 93 · Wikimedia Commons | CC BY-SA 3.0 de |
+| /media/skoda-epiq-electrico-barato-precio-espana-hero.webp | https://commons.wikimedia.org/wiki/File:Skoda_Epiq_front_quarter_view.jpg | Oil151kv · Wikimedia Commons | CC BY 4.0 |
+| /media/skoda-kamiq-15-tsi-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:%C5%A0koda_Kamiq_(2024)_(53984500853).jpg | Charles from Port Chester, New York · Wikimedia Commons | CC BY 2.0 |
+| /media/skoda-octavia-20-tdi-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:2024_Skoda_Octavia_110TSI_Select_rear.jpg | LuvsMG481 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/skoda-scala-monte-carlo-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:%C5%A0koda_Scala_Monte_Carlo_Auto_Zuerich_2023_1X7A1432.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/swm-g01f-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2024_SWM_G01F_white_front.jpg | gleb · Wikimedia Commons | CC BY 4.0 |
+| /media/swm-g03f-2025-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:SWM_Tiger_in_green_rear_quarter.jpg | Great Wall Motors Shalong · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/swm-g03f-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:SWM_Tiger_front_quarter.jpg | Great Wall Motors Shalong · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/volkswagen-id-polo-electrico-precio-espana-2026-hero.webp | https://commons.wikimedia.org/wiki/File:Volkswagen_ID._Polo_2026-08-19_(1).jpg | Brewster239 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/volkswagen-id-polo-gti-electrico-2026-precio-hero.webp | https://commons.wikimedia.org/wiki/File:Volkswagen_ID._Polo_GTI_2026-08-19_(1).jpg | Brewster239 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/xpeng-g9l-debut-paris-2026-hero.webp | https://commons.wikimedia.org/wiki/File:XPeng_G9_(2025)_IAA_2025_DSC_2054.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/zeekr-007-2026-precio-ficha-tecnica-hero.webp | https://commons.wikimedia.org/wiki/File:Zeekr_007_electric_sedan_05.jpg | Nuo Nuo cars · Wikimedia Commons | CC0 |
+| /media/zeekr-007-2026-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:Zeekr_007_electric_sedan_07.jpg | Nuo Nuo cars · Wikimedia Commons | CC0 |
+| /media/zeekr-007-2026-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:Zeekr_007_006_(cropped).jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/zeekr-x-2025-precio-ficha-tecnica-interior.webp | https://commons.wikimedia.org/wiki/File:Zeekr_X_006.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/zeekr-x-2025-precio-ficha-tecnica-oficial.webp | https://commons.wikimedia.org/wiki/File:2023_Zeekr_X_(front).jpg | User3204 · Wikimedia Commons | CC BY-SA 4.0 |
