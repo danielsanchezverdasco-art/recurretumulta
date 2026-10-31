@@ -4893,3 +4893,6 @@ Licencia desconocida; fotos reales del modelo exacto.
 <!-- cosecha: caza-media-parte-02 — foto real verificada contra la imagen original de Wikimedia Commons (comparación visual) -->
 | /media/aprilia-rs-457-2025-ficha-tecnica-precio-hero.webp | https://commons.wikimedia.org/wiki/File:Aprilia_RS_457.jpg | NicoWmann · Wikimedia Commons | CC BY 4.0 |
 | /media/aprilia-rs-660-2026-ficha-tecnica-precio-hero.webp | https://commons.wikimedia.org/wiki/File:Aprilia_RS_660_(1).jpg | Cjp24 · Wikimedia Commons | CC BY-SA 4.0 |
+
+<!-- cosecha: merlin-heroes-blog-lote06 — foto real verificada contra la imagen original de Wikimedia Commons (comparación visual) -->
+| /media/motos/kawasaki-vulcan-s-2024-ficha-tecnica-precio.webp | https://commons.wikimedia.org/wiki/File:Kawasaki_Vulcan_S_-_MRS_Oficina_-_Mondial_de_l%27Automobile_de_Paris_2018_-_001.jpg | Thesupermat · Wikimedia Commons | CC BY-SA 4.0 |

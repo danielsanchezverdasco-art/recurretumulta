@@ -8811,4 +8811,5 @@ export const MEDIA_DIMENSIONS: Record<string, [number, number]> = {
   "xiaomi-skynomad-lanzamiento-ventas-china-1705-km-hero.webp": [1600, 1200],
   "aprilia-rs-457-2025-ficha-tecnica-precio-hero.webp": [1600, 1168],
   "aprilia-rs-660-2026-ficha-tecnica-precio-hero.webp": [1600, 1152],
+  "motos/kawasaki-vulcan-s-2024-ficha-tecnica-precio.webp": [1600, 1066],
 };

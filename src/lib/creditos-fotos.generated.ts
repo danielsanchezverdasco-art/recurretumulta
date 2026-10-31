@@ -3399,5 +3399,10 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "Cjp24 · Wikimedia Commons",
 "licencia": "CC BY-SA 4.0",
 "url": "https://commons.wikimedia.org/wiki/File:Aprilia_RS_660_(1).jpg"
+},
+"/media/motos/kawasaki-vulcan-s-2024-ficha-tecnica-precio.webp": {
+"autor": "Thesupermat · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Kawasaki_Vulcan_S_-_MRS_Oficina_-_Mondial_de_l%27Automobile_de_Paris_2018_-_001.jpg"
 }
 };
