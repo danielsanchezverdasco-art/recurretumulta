@@ -3279,5 +3279,115 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "Smnt · Wikimedia Commons",
 "licencia": "CC BY-SA 4.0",
 "url": "https://commons.wikimedia.org/wiki/File:Tesla_roadster_2020_prototype.jpg"
+},
+"/media/byd-seal-u-ev-baja-precio-octubre-2026-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:BYD_Seal_U_IAA_2023_1X7A0045.jpg"
+},
+"/media/cupra-tavascan-baja-precio-octubre-2026-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Cupra_Tavascan_at_IAA_2019_IMG_0790.jpg"
+},
+"/media/dacia-spring-baja-precio-octubre-2026-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Dacia_Spring_IAA_2021_1X7A0215.jpg"
+},
+"/media/distancia-seguridad-multa-hero.webp": {
+"autor": "DanTD · Wikimedia Commons",
+"licencia": "CC BY 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:EB_FL_24;_2-Line_Distance_Sign;_Otter_Creek,_FL.jpg"
+},
+"/media/electricos-baratos-record-europa-2026.webp": {
+"autor": "Mtaylor848 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Electric_car_charging_point,_Cluster_of_Nuts_car_park,_Wetherby_(8th_April_2020).jpg"
+},
+"/media/file_II6qQ1S8OB3yoN8lhl9acX1X.webp": {
+"autor": "DanTD · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:W_End_FL_238_@_US_41-441.jpg"
+},
+"/media/ford-puma-gen-e-baja-precio-octubre-2026-hero.webp": {
+"autor": "Vauxford · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2020_Ford_Puma_Titanium_EcoBoost_Hybrid_1.0_Front.jpg"
+},
+"/media/ford-puma-st-baja-precio-octubre-2026-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Ford_Puma_ST_1X7A0331.jpg"
+},
+"/media/kia-ev3-baja-precio-octubre-2026-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Kia_EV3_GT-Line_Automesse_Ludwigsburg_2024_IMG_1674.jpg"
+},
+"/media/leapmotor-c10-baja-precio-octubre-2026-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Leapmotor_C10_IAA_2023_1X7A0247.jpg"
+},
+"/media/leapmotor-t03-baja-precio-octubre-2026-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Leapmotor_T03_DSC_8024.jpg"
+},
+"/media/nissan-qashqai-baja-precio-octubre-2026-hero.webp": {
+"autor": "Oq10pass · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Nissan_Qashqai_(J12)_Auto_Zuerich_2021_IMG_0485_(edited).jpg"
+},
+"/media/nuevo-hyundai-tucson-2027-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Hyundai_Tucson_(NX4,_SWB)_PHEV_1X7A1858.jpg"
+},
+"/media/nuevo-radar-fijo-a67-torrelavega-hero.webp": {
+"autor": "Adbar · Wikimedia Commons",
+"licencia": "CC BY-SA 3.0",
+"url": "https://commons.wikimedia.org/wiki/File:A-8_highway_in_Solares,_Cantabria,_Spain.jpg"
+},
+"/media/opel-frontera-electric-baja-precio-octubre-2026-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Opel_Frontera_C_Electric_Auto_Zuerich_2024_DSC_6234.jpg"
+},
+"/media/peugeot-salon-paris-2026-stand-hero.webp": {
+"autor": "Alexandre Prevot from Nancy, France · Wikimedia Commons",
+"licencia": "CC BY-SA 2.0",
+"url": "https://commons.wikimedia.org/wiki/File:Peugeot_e-Legend_(51823301907).jpg"
+},
+"/media/seat-ibiza-baja-precio-octubre-2026-hero.webp": {
+"autor": "Calreyn88 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2021_Seat_Ibiza_FR.jpg"
+},
+"/media/silence-s01-plus-baja-precio-octubre-2026-hero.webp": {
+"autor": "Herodotptlomeu · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Silence_S01_-_Barcelona.jpg"
+},
+"/media/toyota-corolla-baja-precio-octubre-2026-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Toyota_Corolla_GR_Sport_Hybrid_Genf_2019_1Y7A5579.jpg"
+},
+"/media/toyota-corolla-touring-sports-baja-precio-octubre-2026-hero.webp": {
+"autor": "Alexander-93 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2023_Toyota_Corolla_Touring_Sports_Hybrid_(E210)_IMG_7679.jpg"
+},
+"/media/toyota-yaris-baja-precio-octubre-2026-hero.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Toyota_GR_Yaris_RZ_1X7A0252.jpg"
+},
+"/media/zero-s-baja-precio-octubre-2026-hero.webp": {
+"autor": "CecilT77 · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2014_Zero_Motorcycles_Zero_S.JPG"
 }
 };
