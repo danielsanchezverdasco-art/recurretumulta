@@ -44,7 +44,7 @@ Duración: el dry-run completo con build y prerender tarda bastante (decenas de 
 | git | HEAD contiene el commit en vivo; árbol limpio (solo ficheros generados por el build) |
 | src | 0 ficheros de `no-tocar.txt` cambiados; títulos de `titulos.csv` sin cambios (hasta 1/11); tienda fuera de rutas/navbar/embudo |
 | rev3 | `rev3b.py`: **0** frases de 8+ palabras nuevas repetidas frente a lo vivo (mismo medidor que `tools/rev3/rev3.py`) |
-| build | `npm run build` + Convex de prod + `bajar_vivo --rellenar` + prerender + 17 pasos de postproceso; toda ruta con página |
+| build | `npm run build` + Convex de prod + `bajar_vivo --rellenar` + prerender + 18 pasos de postproceso; toda ruta con página |
 | dist | `mkdraft --check`: **0 eliminaciones** y **0 reglas de `_redirects` perdidas** (`_redirects` completo); ninguna página con enlace a /tienda, «Algo salió mal» o localhost; **0 fotos rotas nuevas**; `chequeo_fotos.py` (sin fotos IA, fuente en fotos nuevas); **`validar-dist-publicable.py` (BLOQUEANTE, 31/10/2026): 0 páginas indexables con «Foto pendiente / Foto real próximamente», imagen placeholder (md5 en `scripts/placeholder-md5.txt`), `<img src="">` ni texto interno (`null`, `undefined`, `precioDesde`, `cargaUtilKg`, `Grok 22:15`…)**; títulos del HTML = los de vivo (muestra); sitemap ≥97 % del vivo y con todas sus URLs con página |
 | publicar | borrador sobre el vivo actual → espera `ready` → portada, páginas nuevas y muestra dan 200 + `qa.py` → publica (`restoreSiteDeploy`) → **purga Cloudflare** → verifica producción (portada, nuevas, muestra, sitemap, `/tienda` igual que antes, `qa.py`) |
 
