@@ -426,6 +426,14 @@ def f_dist(c):
     if vacias: c.abort("%d páginas con «Algo salió mal» o URLs localhost (p.ej. %s)." % (len(vacias), vacias[:3]))
     c.ok("sin «Algo salió mal» ni localhost en las páginas cambiadas")
     # fotos rotas: solo cuenta si la versión en vivo de la página NO tiene ya la misma foto rota
+    # 31/10/2026: el listado de ficheros de vivo es incompleto -> una foto ausente del listado cuenta como existente si vivo la sirve (HTTP 200).
+    _ok_vivo = {}
+    for ms_ in rotas.values():
+        for m_ in ms_:
+            if m_ not in _ok_vivo:
+                _ok_vivo[m_] = http("https://%s--%s.netlify.app%s" % (c.live, comun.site_name(), urllib.parse.quote(m_)), follow=False)[0] == 200
+    rotas = {p_: [m_ for m_ in ms_ if not _ok_vivo.get(m_)] for p_, ms_ in rotas.items()}
+    rotas = {p_: ms_ for p_, ms_ in rotas.items() if ms_}
     nuevas_rotas = {}
     for p, ms in rotas.items():
         base_url = "https://%s--%s.netlify.app%s" % (c.live, comun.site_name(), path_of_html(p))
