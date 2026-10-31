@@ -3492,6 +3492,9 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "honda-forza-350-2024-ficha-tecnica-precio",
+    textosPropios: {
+      precio: "El Honda Forza 350 de 2024 salió a 6.380 € en España, según Moteo; la gama 2026 que vende ahora Honda España cuesta desde 6.550 € (6.675 € la Special Edition, honda.es a 31/10/2026). El precio de la ficha es el de lanzamiento del modelo 2024, sin campañas ni gastos de matriculación.",
+    },
     marca: "Honda",
     modelo: "Forza 350",
     version: "Forza 350 2024",
@@ -3503,7 +3506,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     autonomiaKm: null,
     autonomiaCiclo: null,
     bateriaKwh: null,
-    velocidadMax: 145,
+    velocidadMax: 137, // 31/10/2026: 137 km/h según Honda España (antes 145)
     ceroCincuenta: null,
     pesoKg: 184,
     plazas: 2,
@@ -3523,7 +3526,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "184 kilos en orden de marcha: pesado para un 350 de uso urbano",
       "Motor de 330 cc reales: menos cilindrada de la que sugiere su nombre",
       "Instrumentación mixta analógica-digital, sin pantalla TFT a color",
-      "Depósito de 11,5 L: menor que el del XMAX 300 (13,2 L)",
+      "Depósito de 11,7 L: menor que el del XMAX 300 (13,2 L)",
       "29 Caballos se quedan escasos en autopista con pasajero y equipaje",
       "Diseño continuista: la versión 2024 solo estrenó colores nuevos",
     ],

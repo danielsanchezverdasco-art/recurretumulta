@@ -38,6 +38,7 @@ import { ANALISIS_COCHE_24 } from "./coche-24";
 import { ANALISIS_COCHE_25 } from "./coche-25";
 import { ANALISIS_COCHE_26 } from "./coche-26";
 import { ANALISIS_COCHE_27 } from "./coche-27";
+import { ANALISIS_MOTO_16 } from "./moto-16";
 import { ANALISIS_MOTO_00 } from "./moto-00";
 import { ANALISIS_MOTO_01 } from "./moto-01";
 import { ANALISIS_MOTO_02 } from "./moto-02";
@@ -139,6 +140,7 @@ export const ANALISIS_EDITORIAL: Record<string, AnalisisEditorial> = fusionar(
   ANALISIS_PATINETE_04,
   ANALISIS_PATINETE_05,
   ANALISIS_PATINETE_06,
+  ANALISIS_MOTO_16,
   ANALISIS_COCHE_27, // 31/10/2026: reescrituras con datos de fuente; va el último para sustituir al análisis anterior
 );
 
