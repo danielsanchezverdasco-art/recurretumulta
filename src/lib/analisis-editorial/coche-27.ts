@@ -14,4 +14,22 @@ export const ANALISIS_COCHE_27: MapaAnalisis = {
     ],
     veredicto: "Para quien quiera saber qué ofrece hoy el monovolumen eléctrico de autonomía extendida más lujoso del mercado chino; no es una opción de compra en España, donde no se vende.",
   },
+  "skoda-kodiaq-iv-hibrido-enchufable-2026-precio-ficha-tecnica": {
+    parrafos: [
+      "El Kodiaq iV es la variante híbrida enchufable del SUV grande de Škoda: un 1.5 TSI de 150 CV y un motor eléctrico de 85 kW (116 CV) que juntos dan 204 CV y 350 Nm, siempre con cambio DSG de seis marchas y tracción delantera. Acelera de 0 a 100 km/h en 8,4 segundos y llega a 210 km/h. Mide 4,76 m de largo, 1,86 m de ancho y 1,68 m de alto, y se vende solo con cinco plazas, sin la tercera fila que sí ofrecen otros Kodiaq.",
+      "Lo importante de un enchufable es la batería, y aquí son 25,7 kWh brutos. Škoda anuncia hasta 121 km en modo eléctrico; la homologación que cita Autopista para España es de 119 km WLTP y otras pruebas hablan de 123 km, una dispersión normal entre versiones y fechas de tarifa. La recarga en corriente alterna llega a 11 kW (unas 2,5 horas para llenar) y, algo poco común en un PHEV grande, admite corriente continua de 50 kW: del 10 al 80 % en torno a 26 minutos. Con esa autonomía la etiqueta es la Cero de la DGT.",
+      "El precio exige contexto. La tarifa oficial del Selection PHEV de 204 CV es de 51.800 €; el Plus cuesta 53.800 € y el Sportline 56.300 € (Top Ventas Coches con datos oficiales, 19 de octubre de 2026). Las cifras de 38.375 o 38.800 € que circulan son precios de campaña con financiación: Autopista recogía en abril un descuento promocional de hasta 13.000 €. Es decir, la diferencia entre tarifa y precio real puede superar el 25 %, y compensa pedir oferta a varios concesionarios antes de decidir.",
+      "Frente a la gama de combustión del propio Kodiaq (mHEV de 150 CV desde 46.800 € y diésel TDI desde 49.790 € en tarifa), el enchufable cuesta unos 5.000 € más en tarifa y solo tiene sentido si se enchufa a diario: sin recargas, arrastra una batería de 25,7 kWh con el motor de gasolina. Con trayectos diarios de menos de 100 km y una toma en casa o en el trabajo, la mayor parte del uso se hace en eléctrico y se conserva el alcance de un gasolina para viajar.",
+    ],
+    veredicto: "Para quien pueda enchufarlo a diario y necesite un SUV familiar de cinco plazas con etiqueta Cero; si no vas a cargarlo, el Kodiaq mHEV de 150 CV sale más barato de tarifa.",
+  },
+  "xpeng-p7-2024-precio-ficha-tecnica": {
+    parrafos: [
+      "El XPeng P7 de 2024 es la berlina que presentó a la marca china en España: un motor trasero de 203 kW (276 CV) y 440 Nm, tracción trasera, 0 a 100 km/h en 6,7 segundos y 200 km/h de punta. Mide unos 4,89 metros y su batería de 86,2 kWh brutos (82,7 kWh útiles) homologa 576 km WLTP en la versión RWD Long Range, con un consumo de 16,8 kWh/100 km.",
+      "Su punto menos moderno es la electrónica: trabaja a 400 V, así que la carga en continua se queda en 175 kW (10 a 80 % en 29 minutos) y 11 kW en alterna. Es correcta, pero la mitad de rápida que la del P7+ que lo sustituye, que usa 800 V. Por dentro mantiene una doble pantalla (10,25 y 14,96 pulgadas) y techo panorámico, con casi todos los mandos pasando por la pantalla. La garantía de batería es de 8 años o 160.000 km.",
+      "El precio de 51.990 € es el de la tarifa de enero de 2025 según km77, sin descuento oficial: 42.967 € antes del 21 % de IVA y sin impuesto de matriculación por ser eléctrico. Llegó compitiendo con el BYD Seal, el Hyundai Ioniq 6 y el Volkswagen ID.7. Aquí la comparación ha cambiado: XPeng vende ahora en España el P7+, desde 45.990 € (245 CV y 455 km WLTP), 49.990 € el Long Range (313 CV, 530 km) y 55.990 € el Performance de 503 CV (Motor1, mayo de 2026), de modo que el P7 original queda como un coche de stock o de ocasión.",
+      "Conviene no confundirlo con el nuevo P7 que XPeng ha confirmado para Europa. Ese modelo, ya a la venta en China con baterías de 74,9 y 92,2 kWh y autonomías de 702 a 820 km, se mide en ciclo chino CLTC; la marca no ha dado precios ni fechas europeas, y las cifras WLTP serán menores. Las cifras de la ficha de aquí son las del P7 de 2024, homologadas en Europa.",
+    ],
+    veredicto: "Para quien encuentre un P7 de 2024 con buen descuento y valore la autonomía de 576 km; si cargas mucho en ruta, el P7+ de 800 V gana en recarga.",
+  },
 };
