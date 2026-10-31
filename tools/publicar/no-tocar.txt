@@ -1,5 +1,4 @@
 scripts/gen-radares-html.mjs
-scripts/motos-slugs.txt
 src/components/Cosa.tsx
 src/components/NewsletterSignup.tsx
 src/components/SeguridadEuroNCAP.tsx
