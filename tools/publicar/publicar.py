@@ -454,6 +454,10 @@ def f_dist(c):
     rc, t = c.run([sys.executable, os.path.join(HERE, "verificar_fotos_fichas.py"), c.dist, "--informe", os.path.join(c.work, "verificar-fotos-fichas.txt")], check=False, quiet=True)
     c.say("    " + (t.strip().splitlines() or ["(sin salida)"])[0][:300])
     if rc != 0: c.warn("verificar_fotos_fichas.py (solo informe): fichas con foto que no se pinta / imágenes sin 200. Informe: %s" % os.path.join(c.work, "verificar-fotos-fichas.txt"))
+    # 31/10 (diag G9/data-fb): integridad de <img> en TODO dist (BLOQUEANTE): 0 data-fb, 0 <img> sin src, 0 <img src=og-…png>, galería G9 completa
+    rc, t = c.run([sys.executable, os.path.join(HERE, "chequeo_img_dist.py"), c.dist], check=False, quiet=True)
+    if rc != 0: c.abort("chequeo_img_dist.py: data-fb / <img> sin src / og-fallback / galería G9 incompleta: %s" % " | ".join(t.strip().splitlines()[:6])[:600])
+    c.ok("0 data-fb, 0 <img> sin src, galería G9 completa (%s)" % (t.strip().splitlines() or [""])[0][:200])
     # REGLA DE DANIEL: nunca noindex salvo scripts/noindex-permitidos.txt (BLOQUEANTE)
     rc, t = c.run([sys.executable, os.path.join(c.repo, "scripts", "politica-noindex.py"), c.dist, "--comprobar"], check=False, quiet=True)
     if rc != 0: c.abort("Hay páginas con noindex fuera de scripts/noindex-permitidos.txt: %s" % t.strip()[:400])

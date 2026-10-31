@@ -55,6 +55,10 @@ export function productoFicha(d: ProductoFichaIn): Record<string, unknown> {
   };
   if (!conImagen) {
     offers = null;
+  } else if (d.precioOrigen && ok(d.precioOrigen.price) && d.precioOrigen.priceCurrency !== "EUR") {
+    // 31/10/2026: sin Offer en moneda no-EUR (CNY): no hay oferta real en España y un Offer en yuanes sobre un
+    // Car induce a error en Merchant listings. El precio de origen sigue en el texto visible, con su conversión.
+    offers = null;
   } else if (d.precioOrigen && ok(d.precioOrigen.price)) {
     offers = {
       ...base,
