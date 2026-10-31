@@ -1353,52 +1353,108 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Careless Kingdom",
     marca: "Hiley",
     modelo: "Tiger 10 Pro",
-    precioEur: null, // Hiley no publica PVP oficial de este modelo (verificado 20/10/2026)
+    precioEur: null,
     potenciaNominalW: 2400,
-    potenciaPicoW: null,
-    autonomiaKm: 60,
-    autonomiaRealKm: 41,
-    velocidadMaxKmh: 25,
-    pesoKg: null,
-    cargaMaxKg: null,
-    tiempoCargaH: null,
-    bateriaWh: null,
-    frenos: "Doble freno de disco",
-    neumaticos: "10\"",
+    autonomiaKm: 76,
+    autonomiaRealKm: 53,
+    velocidadMaxKmh: 64,
+    pesoKg: 32.7,
+    cargaMaxKg: 163,
+    tiempoCargaH: 11,
+    bateriaWh: 1248,
+    frenos: "Doble freno hidráulico + EBS",
+    neumaticos: "Neumáticos de aire de 10×3 pulgadas",
     certificadoDgt: null,
-    foto: "/media/patinetes/hiley-tiger-10-pro-1.webp",
-    galeria: [
-      { src: "/media/patinetes/hiley-tiger-10-pro-2.webp", alt: "Detalle de la suspensión del Hiley Tiger 10 Pro", ancho: 1200, alto: 800 },
-      { src: "/media/patinetes/hiley-tiger-10-pro-3.webp", alt: "Hiley Tiger 10 Pro en Amazon España", ancho: 1200, alto: 800 },
+    foto: "/media/patinetes/hiley-tiger-10-pro-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm"
     ],
-    aprox: ["potenciaNominalW", "autonomiaRealKm"],
     pros: [
-      "Doble motor de 1.200 W: 2.400 W nominales de tracción total",
-      "Vendido limitado a 25 km/h en Amazon España: usable como VMP",
-      "Suspensión hidráulica: comodidad de gama alta",
-      "60 km declarados",
-      "Doble disco para detener tanta potencia",
-      "Disponible en Amazon España con garantía local",
+      "Dos motores de buje de 1.200 W (2.400 W en total) y pendiente declarada superior a 30°",
+      "Batería de 60 V 20,8 Ah (1.248 Wh) y 47 millas (unos 76 km) de autonomía máxima declarada",
+      "Suspensión hidráulica doble, delantera y trasera independiente, y frenos hidráulicos con EBS",
+      "Carga máxima de 360 libras (163 kg)",
+      "Cuadro de aluminio 6061 y luces RGB controladas desde una app"
     ],
     contras: [
-      "Batería en Wh no publicada",
-      "Peso no publicado; con doble motor será pesado",
-      "Tiempo de carga no publicado",
-      "Sin certificación DGT verificada",
-      "Sin precio oficial en Europa: Hiley no publica PVP del Tiger 10 Pro",
-      "Excesivo si solo vas a hacer ciudad tranquila",
+      "72 libras (32,7 kg): es un patinete de planta baja o de garaje",
+      "40 mph (64 km/h): casi tres veces el límite legal de 25 km/h",
+      "Hiley lo vende en dólares (1.299 $ con un precio de lista de 1.599 $); sin precio oficial en euros en la ficha",
+      "Carga de 10 a 12 horas con un cargador y de 5 a 6 con dos",
+      "Sin certificado DGT ni marcado CE en la ficha"
     ],
-    veredicto:
-      "El Tiger 10 Pro es el doble motor 'civilizado' de Hiley: 2.400 W limitados a 25 km/h y suspensión hidráulica. Para quien quiere prestaciones de hyper-scooter sin salir del marco VMP, es una de las opciones más serias.",
-    fuenteNombre: "Hiley",
-    fuenteUrl: "https://www.hiley.es",
+    veredicto: "El Tiger T10 Pro es un patinete de rendimiento, no de ciudad: 2.400 W, 64 km/h y 32,7 kg. En vía pública española no puede circular así; sus datos sirven para quien lo quiera para circuito o terreno privado.",
+    fuenteNombre: "Hiley Rider (ficha oficial del Tiger T10 Pro)",
+    fuenteUrl: "https://www.hileyrider.com/products/hiley-tiger-t10-pro-dual-motor-electric-scooter",
     mantenimientoDIY: {
-      intervaloRevision: "Inspección periódica de los consumibles: suspensión, neumáticos, cámaras, ruedas, rodamientos, discos, pastillas de freno, cables y piezas de plegado",
-      trucos: [
+      "intervaloRevision": "Inspección periódica de los consumibles: suspensión, neumáticos, cámaras, ruedas, rodamientos, discos, pastillas de freno, cables y piezas de plegado",
+      "trucos": [
         "Detener la marcha de inmediato si: el motor se calienta de forma anormal, hay error de frenada, aparecen mensajes de error en el panel, ruido anormal, humo u olor",
-        "Las piezas que superan su vida útil pueden provocar accidentes: respetar el plan de sustitución de cada componente",
-      ],
+        "Las piezas que superan su vida útil pueden provocar accidentes: respetar el plan de sustitución de cada componente"
+      ]
     },
+    fuentesExtra: [
+      {
+        "nombre": "Hiley Rider: ficha oficial del Tiger T10 Pro (2 × 1.200 W, 60 V 20,8 Ah, 47 millas, 40 mph, 72 libras, 360 libras de carga, 1.299 $)",
+        "url": "https://www.hileyrider.com/products/hiley-tiger-t10-pro-dual-motor-electric-scooter",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "hiley-tiger-10-v5-performance",
+        "nombre": "Hiley Tiger 10 V5 Performance",
+        "precioEur": 879,
+        "autonomiaKm": 95,
+        "potenciaW": 2400,
+        "pesoKg": 30,
+        "nota": "Hiley Europa (oficial)"
+      },
+      {
+        "id": "hiley-tiger-10-lite",
+        "nombre": "Hiley Tiger 10 Lite",
+        "precioEur": null,
+        "autonomiaKm": 100,
+        "potenciaW": 2000,
+        "pesoKg": null,
+        "nota": "Hiley"
+      },
+      {
+        "id": "kukirin-g3-pro",
+        "nombre": "KuKirin G3 Pro",
+        "precioEur": 1100,
+        "autonomiaKm": 80,
+        "potenciaW": 2400,
+        "pesoKg": 39.6,
+        "nota": "Autoevolution (KuKirin G3 Pro)"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuánto cuesta el Hiley Tiger T10 Pro?",
+        "a": "1.299 $ en la web de Hiley Rider, con un precio de lista de 1.599 $ y envío gratis desde un almacén de EE. UU. o de la UE (consulta del 31/10/2026). No hemos encontrado precio oficial en euros."
+      },
+      {
+        "q": "¿Cuántos kilómetros declara?",
+        "a": "Hiley declara 47 millas (unos 76 km) de autonomía máxima estimada."
+      },
+      {
+        "q": "¿Se puede usar en la calle en España?",
+        "a": "No con esa potencia y velocidad: el límite de un VMP es de 25 km/h. Casco homologado o certificado y abrochado (artículo 118.3 del Reglamento General de Circulación) y 15 años cumplidos (artículo 155.3), según el Real Decreto 518/2026 en vigor desde el 1 de octubre de 2026. Está prohibido circular por aceras (artículo 152.1)."
+      },
+      {
+        "q": "¿Qué suspensión lleva?",
+        "a": "Suspensión hidráulica doble, delantera y trasera independiente, según Hiley."
+      }
+    ],
+    potenciaPicoW: null
   },
   {
     id: "hiley-tiger-10-lite",

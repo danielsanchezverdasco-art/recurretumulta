@@ -1885,61 +1885,108 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "Electrek Revolution",
     marca: "Kaabo",
     modelo: "Mantis 8 Eco 800",
-    precioEur: null, // Sin precio oficial en EUR verificado el 21/10/2026: No publicado en EUR: la variante Eco 800 (monomotor 800W) no consta en la tienda oficial de Kaabo, que solo publica precios en USD de la gama Mantis 8.
+    precioEur: 1399,
     potenciaNominalW: 800,
     potenciaPicoW: null,
     autonomiaKm: 60,
     autonomiaRealKm: 41,
-    velocidadMaxKmh: 25,
+    velocidadMaxKmh: 45,
     pesoKg: 23,
     cargaMaxKg: 120,
-    tiempoCargaH: 9,
+    tiempoCargaH: null,
     bateriaWh: 874,
-    frenos: "Freno de disco delantero + disco trasero + EABS",
-    neumaticos: 'Neumáticos anchos de 8x3" sin cámara',
+    frenos: "Discos delantero y trasero de 120 mm más freno electrónico EABS",
+    neumaticos: "Neumáticos de aire de 8×3\"",
     certificadoDgt: null,
-    foto: "/media/patinetes/kaabo-mantis-8-eco-800-1.webp",
-    galeria: [
-      {
-        src: "/media/patinetes/kaabo-mantis-8-eco-800-2.webp",
-        alt: "Detalle del Kaabo Mantis 8 Eco 800",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/patinetes/kaabo-mantis-8-eco-800-3.webp",
-        alt: "Kaabo Mantis 8 Eco 800 en la ciudad",
-        ancho: 1200,
-        alto: 800,
-      },
+    foto: "/media/patinetes/kaabo-mantis-8-eco-800-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm"
     ],
-    aprox: ["autonomiaRealKm"],
     pros: [
-      "800 W con batería de 48 V y 18,2 Ah (874 Wh): 60 km declarados",
-      "Doble disco (delantero y trasero) más EABS",
-      "Neumáticos anchos de 8x3 sin cámara",
-      "Suspensión de muelle delantera y trasera",
-      "23 kg con 120 kg de carga: robusto y manejable",
-      "Chasis de aluminio 6061/6082",
+      "Un solo motor de 800 W en la rueda trasera, con subida declarada del 25 % (30 % en otro apartado de la web)",
+      "Batería DMEGC de 48 V 18,2 Ah (874 Wh) y 60 km declarados en modo eco con un solo motor",
+      "Doble disco de 120 mm con frenado electrónico EABS",
+      "Suspensión de brazos con muelles delante y detrás",
+      "23 kg y plegado con una sola pieza de 116 × 56 × 47,8 cm"
     ],
     contras: [
-      "Sin precio publicado en España",
-      "Carga de hasta 9 horas",
-      "Sin certificado DGT verificado",
-      "Ruedas de 8 pulgadas: menos rodadura que un 10",
-      "El Mantis 8 dual (1600 W) lo supera en potencia",
+      "La web oficial da 45 km/h en la descripción y 50 km/h en la tabla de especificaciones",
+      "Los 60 km se miden en modo «eco / single drive», no a velocidad de crucero",
+      "Ruedas de 8×3 pulgadas: menos volumen de aire que en los Mantis de 10 pulgadas",
+      "El precio de lista es de 1.599 € y está rebajado a 1.399 €: conviene comprobar que sigue así",
+      "La web de Kaabo no publica el certificado de la DGT"
     ],
-    veredicto:
-      "El Mantis 8 Eco 800 es el monomotor sensato de Kaabo: 874 Wh, doble disco y 60 km en 23 kg. Para quien no necesita el doble motor del Mantis 8.",
-    fuenteNombre: "Ecoscooter",
-    fuenteUrl: "https://ecoscooter.ee/",
+    veredicto: "El ECO 800 es el Mantis 8 de un solo motor con la batería grande de la gama: 874 Wh y 23 kg por 1.399 €. Es una opción coherente si quieres la suspensión de brazos de Kaabo con un solo motor; antes de comprarlo, compara con rivales de 800 W de otras marcas.",
+    fuenteNombre: "Kaabo Mantis (tienda oficial)",
+    fuenteUrl: "https://kaabomantis.com/shop/kaabo-mantis-8-eco-800/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar, los ejes de las ruedas y los anclajes de la suspensión",
-      ajusteFrenosPasos: [
+      "aprieteTornilleria": "Revisar el mecanismo de plegado, la potencia del manillar, los ejes de las ruedas y los anclajes de la suspensión",
+      "ajusteFrenosPasos": [
         "Los discos son mecánicos: tensar el cable desde el tensor del manillar",
-        "Centrar la pinza aflojando sus dos tornillos, apretar la maneta y volver a apretar",
-      ],
+        "Centrar la pinza aflojando sus dos tornillos, apretar la maneta y volver a apretar"
+      ]
     },
+    fuentesExtra: [
+      {
+        "nombre": "Kaabo Mantis: ficha oficial del Mantis 8 ECO 800 (1.399 € rebajado desde 1.599 €, 800 W, 48 V 18,2 Ah, 23 kg, 120 kg)",
+        "url": "https://kaabomantis.com/shop/kaabo-mantis-8-eco-800/",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "kaabo-mantis-8",
+        "nombre": "Kaabo Mantis 8 Lite",
+        "precioEur": 900,
+        "autonomiaKm": 50,
+        "potenciaW": 800,
+        "pesoKg": 26.5,
+        "nota": "EcoPlanetWay"
+      },
+      {
+        "id": "kaabo-mantis-8-plus",
+        "nombre": "Kaabo Mantis 8 Plus",
+        "precioEur": 1330,
+        "autonomiaKm": 80,
+        "potenciaW": 1600,
+        "pesoKg": 27.5,
+        "nota": "Monorim Spain (tienda española) + ficha del fabricante"
+      },
+      {
+        "id": "kukirin-m4-max",
+        "nombre": "KuKirin M4 Max",
+        "precioEur": null,
+        "autonomiaKm": 64,
+        "potenciaW": 800,
+        "pesoKg": 24,
+        "nota": "KuKirin EU (eu-kukirin.com)"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuánto cuesta el Kaabo Mantis 8 ECO 800?",
+        "a": "1.399 € en la tienda oficial de Kaabo Mantis, rebajado desde un precio de lista de 1.599 € (consulta del 31/10/2026)."
+      },
+      {
+        "q": "¿Qué velocidad máxima tiene el Mantis 8 ECO 800?",
+        "a": "Kaabo no da una cifra única: el texto habla de 45 km/h y la tabla técnica de 50 km/h. Para circular por la calle un VMP no puede superar los 25 km/h, así que tendrías que limitarlo."
+      },
+      {
+        "q": "¿Qué diferencia hay entre ECO 800 y el Mantis 8 de doble motor?",
+        "a": "El ECO 800 lleva un único motor trasero de 800 W y 48 V 18,2 Ah. Kaabo precisa que los 60 km son en modo eco con un solo motor."
+      },
+      {
+        "q": "¿Qué exige la ley para circular con él?",
+        "a": "Casco homologado o certificado y abrochado (artículo 118.3 del Reglamento General de Circulación) y 15 años cumplidos (artículo 155.3), según el Real Decreto 518/2026 en vigor desde el 1 de octubre de 2026. Está prohibido circular por aceras (artículo 152.1)."
+      }
+    ]
   },
   {
     id: "kaabo-wolf-king-gtr-max",
@@ -2515,42 +2562,114 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "Thing Adventures",
     marca: "Vsett",
     modelo: "11+",
-    precioEur: 4200,
-    potenciaNominalW: null,
+    potenciaNominalW: 3000,
     potenciaPicoW: null,
     autonomiaKm: 160,
     autonomiaRealKm: 109,
-    velocidadMaxKmh: null,
+    velocidadMaxKmh: 85,
     pesoKg: 58,
     cargaMaxKg: 150,
     tiempoCargaH: null,
     bateriaWh: 1872,
-    frenos: "Frenos hidráulicos en ambos ejes + freno eléctrico con corte de potencia",
-    neumaticos: 'Neumáticos de 11×4"',
+    frenos: "Freno de disco hidráulico delante y detrás + ABS eléctrico",
+    neumaticos: "Neumáticos de aire de 11×4\"",
     certificadoDgt: null,
-    foto: "/media/patinetes/vsett-11-plus-1.webp",
-    galeria: [
-      {
-        src: "/media/patinetes/vsett-11-plus-2.webp",
-        alt: "Detalle del Vsett 11+",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/patinetes/vsett-11-plus-3.webp",
-        alt: "Vsett 11+, el buque insignia",
-        ancho: 1200,
-        alto: 800,
-      },
+    foto: "/media/patinetes/vsett-11-plus-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm"
     ],
-    aprox: ["autonomiaRealKm", "bateriaWh"],
-    pros: ["Dos motores brushless de 60 V y 1.500 W, uno por rueda, con modo Sport de 2 minutos", "Batería de 60 V y 31,2 Ah (1.872 Wh): la versión contenida del 11+, frente a la variante de 42 Ah", "Hasta 135 km con un solo motor según el manual; con los dos en marcha la cifra cae a 70 km", "Frenos hidráulicos en ambas ruedas, con freno eléctrico y corte de alimentación al frenar", "Sucesor del Zero 11X: plataforma de 11 pulgadas con bloqueo NFC y suspensión hidráulica delantera y trasera"],
-    contras: ["58 kg: aunque se pliegue, ese peso descarta escaleras y transporte público en el día a día", "Sin PVP publicado por Vsett para este modelo: cada tienda extranjera pone el suyo y toca comparar una a una", "Con 70-85 km/h según el manual, queda fuera de la definición de VMP en España: su sitio es un recinto cerrado, no la calzada urbana", "El manual también lista una versión de 42 Ah: en segunda mano hay que exigir la factura que acredite qué batería lleva", "Su propio hermano, el 11+ Super 72V, le roba el titular: 72 V y 2.520 Wh frente a sus 60 V y 1.872 Wh"],
-    veredicto:
-      "El 11+ de 60 V es el Vsett grande original, anterior al salto a 72 V del Super: 3.000 W sumando sus dos motores, 1.872 Wh y una promesa de 135 km que solo se acerca rodando con un motor. A cambio, 58 kg y un uso real limitado a recintos privados.",
-    fuenteNombre: "Vsett (oficial)",
-    fuenteUrl: "https://vsett.com/",
-    mantenimientoDIY: {"presionNeumaticos": "Comprobar antes de salir y ajustar al valor grabado en el flanco del neumático de 11×4 pulgadas: el manual del 11+ no fija una cifra única en bar o PSI", "ajusteFrenosPasos": ["Antes de cada salida, comprobar que ninguna pinza hidráulica roza la rueda y que ambas giran libres, como pide la revisión previa del manual", "Si una maneta pierde tacto o falta alguna pieza, el manual manda acudir al distribuidor autorizado en lugar de seguir rodando con un solo freno"], "aprieteTornilleria": "Inspección visual de toda la tornillería antes de cada uso, según el manual: con dos motores de 1.500 W empujando 58 kg, un tornillo flojo en la dirección, en el plegado o en las ruedas de 11 pulgadas se nota enseguida", "trucos": ["La autonomía depende del modo elegido: 135 km declarados con un motor y 70 km con los dos, así que la ruta se planifica antes de salir, no sobre la marcha", "Si salta la protección térmica de los controladores —a los 100 °C en el 11+, según su tabla del manual—, para y deja que se enfríen: insistir activa la segunda protección, de 2 a 3 minutos sin poder rodar", "Con 1.872 Wh por llenar, deja la recarga para la noche y con el patinete apagado y desconectado al terminar"]},
+    pros: [
+      "Dos motores de 1.500 W (3.000 W en total) y pendiente declarada de unos 45°",
+      "Batería de 60 V 31,2 Ah (1.872 Wh) o de 42 Ah según la versión, con hasta 160 km (220 km con la grande) usando un solo motor",
+      "Suspensión hidráulica patentada delante y detrás, frenos de disco hidráulicos con ABS eléctrico",
+      "Bloqueo NFC con llave, intermitentes, claxon y luces LED delanteras y traseras",
+      "Carga máxima de 150 kg en llano y 120 kg en montaña"
+    ],
+    contras: [
+      "58 kg: no es un patinete que se suba a una escalera ni al transporte público",
+      "De 70 km/h en modo dual y de 80 a 85 km/h en Sport: no es un VMP y no puede circular por vía pública",
+      "La web oficial no publica precio en euros",
+      "Con los dos motores la autonomía baja a 80 km (110 km con la batería grande)",
+      "La carga completa tarda 8 horas o más con dos cargadores y 16 horas o más con uno"
+    ],
+    veredicto: "El Vsett 11+ es un patinete de prestaciones extremas: 3.000 W, 80-85 km/h y 58 kg. Sus datos oficiales no encajan con ninguna norma de vía pública española y la web oficial no da precio.",
+    fuenteNombre: "Vsett (web oficial del 11+)",
+    fuenteUrl: "https://vsettscooters.com/pages/vsett-11-plus",
+    mantenimientoDIY: {
+      "presionNeumaticos": "Comprobar antes de salir y ajustar al valor grabado en el flanco del neumático de 11×4 pulgadas: el manual del 11+ no fija una cifra única en bar o PSI",
+      "ajusteFrenosPasos": [
+        "Antes de cada salida, comprobar que ninguna pinza hidráulica roza la rueda y que ambas giran libres, como pide la revisión previa del manual",
+        "Si una maneta pierde tacto o falta alguna pieza, el manual manda acudir al distribuidor autorizado en lugar de seguir rodando con un solo freno"
+      ],
+      "aprieteTornilleria": "Inspección visual de toda la tornillería antes de cada uso, según el manual: con dos motores de 1.500 W empujando 58 kg, un tornillo flojo en la dirección, en el plegado o en las ruedas de 11 pulgadas se nota enseguida",
+      "trucos": [
+        "La autonomía depende del modo elegido: 135 km declarados con un motor y 70 km con los dos, así que la ruta se planifica antes de salir, no sobre la marcha",
+        "Si salta la protección térmica de los controladores —a los 100 °C en el 11+, según su tabla del manual—, para y deja que se enfríen: insistir activa la segunda protección, de 2 a 3 minutos sin poder rodar",
+        "Con 1.872 Wh por llenar, deja la recarga para la noche y con el patinete apagado y desconectado al terminar"
+      ]
+    },
+    fuentesExtra: [
+      {
+        "nombre": "Vsett: ficha oficial del 11+ (2 × 1.500 W, 60 V 31,2 Ah / 42 Ah, 58 kg, 80-85 km/h en modo Sport, frenos hidráulicos, neumáticos 11×4\")",
+        "url": "https://vsettscooters.com/pages/vsett-11-plus",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "vsett-10-plus",
+        "nombre": "Vsett 10+",
+        "precioEur": 2000,
+        "autonomiaKm": 130,
+        "potenciaW": 2800,
+        "pesoKg": 36,
+        "nota": "ElectricalThingSpain"
+      },
+      {
+        "id": "vsett-11-plus-super",
+        "nombre": "Vsett 11+ Super",
+        "precioEur": 2700,
+        "autonomiaKm": 90,
+        "potenciaW": 4000,
+        "pesoKg": 65,
+        "nota": "eVOLT (evolt.eu)"
+      },
+      {
+        "id": "dualtron-victor",
+        "nombre": "Dualtron Victor",
+        "precioEur": 2400,
+        "autonomiaKm": 100,
+        "potenciaW": 2400,
+        "pesoKg": 33,
+        "nota": "Dualtron España (dualtron.com.es)"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuánto cuesta el Vsett 11+?",
+        "a": "La web oficial de Vsett (31/10/2026) invita a reservarlo pero no publica precio. La cifra de 4.200 € que mostraba esta ficha no tenía fuente y se ha retirado."
+      },
+      {
+        "q": "¿Qué autonomía tiene?",
+        "a": "Según Vsett, de 160 km (batería de 31,2 Ah) o de 220 km (42 Ah) con un solo motor, y de 80 o 110 km con los dos motores."
+      },
+      {
+        "q": "¿Puede circular por la calle en España?",
+        "a": "No: de 70 a 85 km/h supera con mucho los 25 km/h de un VMP. Casco homologado o certificado y abrochado (artículo 118.3 del Reglamento General de Circulación) y 15 años cumplidos (artículo 155.3), según el Real Decreto 518/2026 en vigor desde el 1 de octubre de 2026. Está prohibido circular por aceras (artículo 152.1)."
+      },
+      {
+        "q": "¿Cuánto tarda en cargar?",
+        "a": "Con dos cargadores de 2 A, 8 horas o más (batería de 31,2 Ah) o 10,5 horas o más (42 Ah); con uno solo, 16 o 21 horas o más, según Vsett."
+      }
+    ],
+    precioEur: null
   },
   {
     id: "vsett-11-plus-super-72",

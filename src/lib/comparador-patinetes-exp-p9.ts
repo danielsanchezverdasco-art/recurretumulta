@@ -1282,36 +1282,109 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "GOTRAX",
     modelo: "G Pro",
-    precioEur: null, // la marca no publica tarifa oficial en su tienda oficial (verificado 20/10/2026)
-    potenciaNominalW: 350,
-    potenciaPicoW: null,
+    precioEur: null,
+    potenciaNominalW: 300,
     bateriaWh: 378,
     autonomiaKm: 39,
-    autonomiaRealKm: 26,
+    autonomiaRealKm: 27,
     velocidadMaxKmh: 25,
-    pesoKg: 23.6,
-    cargaMaxKg: 100,
-    tiempoCargaH: null,
-    frenos: "EABS",
-    neumaticos: 'Delantera 10" + traseras 8.5" de aire',
+    pesoKg: 23.8,
+    cargaMaxKg: 120,
+    tiempoCargaH: 5.5,
+    frenos: "Doble freno, delantero y trasero",
+    neumaticos: "Neumático delantero de 10\" y dos traseros de 8,5\"",
     certificadoDgt: null,
-    foto: "/media/patinetes/gotrax-g-pro-1.webp",
-    galeria: [
-      {
-        src: "/media/patinetes/gotrax-g-pro-2.webp",
-        alt: "Gotrax G Pro de tres ruedas",
-        ancho: 1200,
-        alto: 800,
-      },
+    foto: "/media/patinetes/gotrax-g-pro-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm"
     ],
-    aprox: ["autonomiaRealKm"],
-    pros: ["Su eje trasero se inclina en las curvas en vez de quedarse rígido como un triciclo, así gira parecido a un biplaza pero se sostiene solo al detenerte en un semáforo", "El pack LG de 36 V y 10,5 Ah suma 378 Wh y deja unos 26 km útiles, margen suficiente para ida y vuelta urbana sin cargar a diario", "Combina bloqueo por código de tres dígitos en la pantalla, con aviso sonoro si lo mueven sin PIN, y cable de acero integrado en la columna", "La plataforma es más ancha por la doble rueda trasera de 8,5\" y cada una lleva su propia suspensión, mientras la delantera neumática de 10\" filtra los baches grandes"],
-    contras: ["Los 23,6 kg y la anchura del tren trasero lo penalizan en escaleras, maleteros pequeños y al plegarlo para entrar en tren o autobús", "En la ficha no consta certificado DGT verificado y su planteamiento de tres ruedas no encaja con el patinete VMP habitual de dos ruedas", "Delante no hay suspensión: el confort depende del neumático de 10\", mientras detrás sí hay muelles independientes", "La carga máxima se queda en 100 kg y con 350 W nominales las rampas exigentes se le atragantan antes que a un modelo de dos ruedas de similar precio"],
-    veredicto:
-      "Con 350 W, batería LG de 378 Wh y unos 26 km reales frente a los 39 km anunciados, el G Pro sacrifica ligereza a cambio de poder pararse sin bajar el pie gracias a su tren trasero basculante. Es para quien desconfía del equilibrio de un patinete de dos ruedas y hace trayectos llanos y cortos; no es para quien deba cargarlo a pulso, meterlo en un transporte abarrotado o necesite un VMP con certificado DGT verificado en España.",
-    fuenteNombre: "ValueWalk (review Gotrax G Pro)",
-    fuenteUrl: "https://www.valuewalk.com/gotrax-g-pro-this-3-wheel-electric-scooter-can-prove-your-primary-transportation-mode/",
-    mantenimientoDIY: {"actualizacionFirmware": "No documentada por el fabricante", "trucos": ["Mantén las tres ruedas a 50 PSI como indica el manual: con la trasera baja el tren basculante trabaja torcido y la autonomía de los 378 Wh cae en picado", "Revisa por separado las pastillas y la tensión de cable de los frenos de disco traseros: al ser dos ruedas independientes, un desgaste desigual hace que tire hacia un lado al frenar", "Si lo guardas semanas, deja la batería LG entre el 50 y el 70 % y recárgala cada 30-60 días; cambia además el código digital por defecto 000 y el del cable antes de dejarlo atado en la calle"]},
+    pros: [
+      "Tres ruedas (una delantera de 10\" y dos traseras de 8,5\") y GOTRAX destaca su estabilidad mejorada",
+      "Suspensión trasera doble y plegado de un toque",
+      "Batería de 36 V 10,5 Ah (378 Wh), con 24 millas (39 km) máximas declaradas",
+      "Carga máxima de 265 libras (120 kg) y 23,8 kg de peso",
+      "Cumple UL 2272 según la ficha y 2 años de garantía en el texto de la web"
+    ],
+    contras: [
+      "Agotado en la web de GOTRAX EE. UU. (619 $ con un precio de lista de 899 $)",
+      "Solo 300 W: es un motor modesto para 23,8 kg más el conductor",
+      "La web da 15,5 mph (25 km/h) en la cabecera y 20 mph (32 km/h) en la tabla completa: la velocidad real no está clara",
+      "Sin certificado DGT ni marcado CE en la ficha; el UL 2272 es una norma estadounidense",
+      "GOTRAX indica 1 año de garantía limitada en la tabla técnica y 2 años en el texto de la web"
+    ],
+    veredicto: "El G Pro es una rareza: un patinete de tres ruedas que busca estabilidad para quien no se siente seguro sobre dos. Pero está agotado, es de EE. UU. y sus 300 W y 378 Wh son modestos y la web no aclara si la velocidad máxima es de 15,5 o de 20 mph; en España habría que comprobar si el vendedor ofrece certificado de características.",
+    fuenteNombre: "GOTRAX (ficha oficial del G Pro de 3 ruedas)",
+    fuenteUrl: "https://gotrax.com/products/g-pro-3-wheel-electric-scooter",
+    mantenimientoDIY: {
+      "actualizacionFirmware": "No documentada por el fabricante",
+      "trucos": [
+        "Mantén las tres ruedas a 50 PSI como indica el manual: con la trasera baja el tren basculante trabaja torcido y la autonomía de los 378 Wh cae en picado",
+        "Revisa por separado las pastillas y la tensión de cable de los frenos de disco traseros: al ser dos ruedas independientes, un desgaste desigual hace que tire hacia un lado al frenar",
+        "Si lo guardas semanas, deja la batería LG entre el 50 y el 70 % y recárgala cada 30-60 días; cambia además el código digital por defecto 000 y el del cable antes de dejarlo atado en la calle"
+      ]
+    },
+    fuentesExtra: [
+      {
+        "nombre": "GOTRAX: ficha oficial del G Pro de 3 ruedas (300 W, 36 V 10,5 Ah / 378 Wh, 24 millas, 20 mph, 52,4 libras, 265 libras, 619 $, agotado)",
+        "url": "https://gotrax.com/products/g-pro-3-wheel-electric-scooter",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "gotrax-g4",
+        "nombre": "GOTRAX G4",
+        "precioEur": 500,
+        "autonomiaKm": 40,
+        "potenciaW": 500,
+        "pesoKg": 17,
+        "nota": "Gotrax (datos vía distribuidores oficiales)"
+      },
+      {
+        "id": "gotrax-g6",
+        "nombre": "GOTRAX G6",
+        "precioEur": 600,
+        "autonomiaKm": 56,
+        "potenciaW": 500,
+        "pesoKg": 20.4,
+        "nota": "Gotrax / Energy Group Canada"
+      },
+      {
+        "id": "segway-ninebot-max-g2",
+        "nombre": "Segway-Ninebot Max G2 E",
+        "precioEur": 399,
+        "autonomiaKm": 70,
+        "potenciaW": 450,
+        "pesoKg": 24.3,
+        "nota": "Segway-Ninebot (segway.com)"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuánto cuesta el GOTRAX G Pro de tres ruedas?",
+        "a": "619 $ en la web de GOTRAX EE. UU. con un precio de lista de 899 $, y figura como agotado (consulta del 31/10/2026). No hemos encontrado precio oficial en euros."
+      },
+      {
+        "q": "¿Qué velocidad máxima tiene?",
+        "a": "La web de GOTRAX no es coherente: la cabecera y la tabla técnica dan 15,5 mph (unos 25 km/h) y la tabla de «especificaciones completas» da 20 mph (unos 32 km/h). El límite de un VMP en vía pública española es de 25 km/h."
+      },
+      {
+        "q": "¿Por qué tiene tres ruedas?",
+        "a": "GOTRAX lo presenta como «el primer patinete eléctrico de tres ruedas» de la marca y destaca la estabilidad mejorada; es además su primer modelo con suspensión doble en las ruedas traseras."
+      },
+      {
+        "q": "¿Tiene certificado europeo?",
+        "a": "La ficha de GOTRAX declara certificación UL 2272, una norma de seguridad eléctrica de EE. UU. No menciona el marcado CE ni un certificado de la DGT. Casco homologado o certificado y abrochado (artículo 118.3 del Reglamento General de Circulación) y 15 años cumplidos (artículo 155.3), según el Real Decreto 518/2026 en vigor desde el 1 de octubre de 2026. Está prohibido circular por aceras (artículo 152.1)."
+      }
+    ],
+    potenciaPicoW: null
   },
   {
     id: "gotrax-xr-ultra",
@@ -1705,49 +1778,108 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Zero",
     modelo: "9",
-    precioEur: null, // sin tarifa oficial del fabricante; solo distribuidores (verificado 20/10/2026)
+    precioEur: null,
     potenciaNominalW: 600,
-    potenciaPicoW: 1200,
     bateriaWh: 624,
     autonomiaKm: 45,
-    autonomiaRealKm: 32,
-    velocidadMaxKmh: 45,
-    pesoKg: 18.5,
-    cargaMaxKg: 120,
-    tiempoCargaH: 8,
-    frenos: "Disco delantero + tambor trasero",
-    neumaticos: 'Neumáticos de aire de 9"',
+    autonomiaRealKm: 31,
+    velocidadMaxKmh: 47,
+    pesoKg: 18,
+    cargaMaxKg: 100,
+    tiempoCargaH: null,
+    frenos: "Disco delantero y tambor trasero",
+    neumaticos: "Neumáticos de aire de 9\"",
     certificadoDgt: null,
-    foto: "/media/patinetes/zero-9-1.webp",
-    galeria: [
-      {
-        src: "/media/patinetes/zero-9-2.webp",
-        alt: "Zero 9 con manillar plegable",
-        ancho: 1200,
-        alto: 800,
-      },
+    foto: "/media/patinetes/zero-9-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm"
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: [
-      "624 Wh LG en 18,5 kg",
-      "Suspensión trasera de doble amortiguador de aire",
-      "Manillar plegable y tija telescópica",
-      "45 km declarados",
+      "18 kg y plegado de 100 × 20 × 39 cm",
+      "Motor de 600 W, batería de 48 V 13 Ah (624 Wh) y unos 45 km declarados",
+      "Muelles de suspensión delante y detrás",
+      "Freno de disco delante y de tambor detrás",
+      "La ficha indica una versión limitada a 25 km/h, la conforme en Singapur"
     ],
     contras: [
-      "45 km/h: muy por encima del límite VMP",
-      "Carga de 8 horas",
-      "Ruedas de 9\": a medio camino",
-      "Sin certificado DGT verificado",
+      "La versión internacional llega a 47 km/h, casi el doble del límite español de 25 km/h",
+      "Carga máxima de 100 kg, inferior a la de muchos rivales",
+      "Garantía de 6 meses, según la ficha",
+      "Sin precio en euros ni certificado DGT en la ficha oficial",
+      "La ficha no indica tiempo de carga"
     ],
-    veredicto:
-      "El Zero 9 es el todo-terreno urbano de la marca: 600 W, 624 Wh LG y suspensión de aire trasera en 18,5 kg. El hermano pequeño del Zero 10 con la misma filosofía.",
-    fuenteNombre: "FalconGo (distribuidor oficial Zero)",
-    fuenteUrl: "https://www.falcongo.co.th/products/zero-9",
+    veredicto: "El Zero 9 es un patinete ligero (18 kg) con 600 W y 624 Wh, que la marca presenta como un Zero 8 con más potencia. En España habría que buscar la versión limitada a 25 km/h y el certificado de características: los 47 km/h de la versión internacional no se pueden usar en vía pública.",
+    fuenteNombre: "Zero Electric Scooter (ficha oficial del Zero 9)",
+    fuenteUrl: "https://zeroelectricscooter.com/products/zero-9",
     mantenimientoDIY: {
-      actualizacionFirmware: "No documentada por el fabricante",
-      trucos: ["Trasera de aire: revisar presión de los amortiguadores", "Manillar plegable: reapretar tras rutas largas"],
+      "actualizacionFirmware": "No documentada por el fabricante",
+      "trucos": [
+        "Trasera de aire: revisar presión de los amortiguadores",
+        "Manillar plegable: reapretar tras rutas largas"
+      ]
     },
+    fuentesExtra: [
+      {
+        "nombre": "Zero Electric Scooter: ficha oficial del Zero 9 (600 W, 48 V 13 Ah, ~45 km, 100 kg, 18 kg, limitado a 25 km/h en Singapur y 47 km/h internacional)",
+        "url": "https://zeroelectricscooter.com/products/zero-9",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "zero-10",
+        "nombre": "Zero 10",
+        "precioEur": null,
+        "autonomiaKm": 70,
+        "potenciaW": 1000,
+        "pesoKg": 24,
+        "nota": "ZERO Electric Scooters (ficha oficial)"
+      },
+      {
+        "id": "zero-8x",
+        "nombre": "Zero 8X",
+        "precioEur": 549,
+        "autonomiaKm": 75,
+        "potenciaW": 1600,
+        "pesoKg": 33,
+        "nota": "Falcon PEV (distribuidor oficial Zero)"
+      },
+      {
+        "id": "segway-ninebot-f2-plus",
+        "nombre": "Segway-Ninebot F2 Plus E",
+        "precioEur": 549,
+        "autonomiaKm": 55,
+        "potenciaW": 400,
+        "pesoKg": 17.7,
+        "nota": "Ficha técnica oficial Ninebot"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuál es la velocidad máxima del Zero 9?",
+        "a": "La ficha dice que la velocidad está limitada a 25 km/h (para uso en Singapur) y que la versión internacional alcanza 47 km/h."
+      },
+      {
+        "q": "¿Cuánto pesa?",
+        "a": "18 kg, según la ficha oficial de Zero Electric Scooter. Plegado mide 100 × 20 × 39 cm."
+      },
+      {
+        "q": "¿Qué suspensión lleva?",
+        "a": "Muelles amortiguadores delante y detrás, según Zero."
+      },
+      {
+        "q": "¿Qué exige la ley para usarlo en España?",
+        "a": "Casco homologado o certificado y abrochado (artículo 118.3 del Reglamento General de Circulación) y 15 años cumplidos (artículo 155.3), según el Real Decreto 518/2026 en vigor desde el 1 de octubre de 2026. Está prohibido circular por aceras (artículo 152.1)."
+      }
+    ],
+    potenciaPicoW: null
   },
   {
     id: "gotrax-g3",

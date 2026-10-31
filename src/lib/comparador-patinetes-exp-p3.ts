@@ -689,66 +689,127 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     videoCanal: null,
     marca: "Teverun",
     modelo: "Blade Q",
-    precioEur: 2449,
+    precioEur: null,
     potenciaNominalW: null,
-    potenciaPicoW: null,
+    potenciaPicoW: 670,
     autonomiaKm: 30,
-    autonomiaRealKm: 20,
     velocidadMaxKmh: 33,
-    pesoKg: 24,
-    cargaMaxKg: null,
+    pesoKg: 20,
+    cargaMaxKg: 120,
     tiempoCargaH: null,
-    bateriaWh: 624,
-    frenos: null,
+    bateriaWh: 360,
+    frenos: "Freno de tambor",
     neumaticos: null,
     certificadoDgt: null,
     foto: "/media/patinetes/teverun-blade-q-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/teverun-blade-q-2.webp",
-        alt: "Detalle del Teverun Blade Q plegado",
-        ancho: 1200,
-        alto: 800,
+        "src": "/media/patinetes/teverun-blade-q-2.webp",
+        "alt": "Detalle del Teverun Blade Q plegado",
+        "ancho": 1200,
+        "alto": 800
       },
       {
-        src: "/media/patinetes/teverun-blade-q-3.webp",
-        alt: "Teverun Blade Q en la ciudad",
-        ancho: 1200,
-        alto: 800,
-      },
+        "src": "/media/patinetes/teverun-blade-q-3.webp",
+        "alt": "Teverun Blade Q en la ciudad",
+        "ancho": 1200,
+        "alto": 800
+      }
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: [
+      "potenciaPicoW",
+      "autonomiaKm",
+      "velocidadMaxKmh",
+      "pesoKg",
+      "bateriaWh",
+      "frenos"
+    ],
     pros: [
-      "La puerta de entrada a Teverun: precio contenido",
-      "24 kg: manejable para el día a día",
-      "Batería de 624 Wh (48V 13Ah): suficiente para ciudad",
-      "Diseño compacto y fácil de plegar",
-      "Buena opción como segundo patinete",
+      "Es el Blade Q básico de un solo motor, más ligero (20 kg según el distribuidor) que el Blade Q Pro",
+      "Suspensión de muelles delante y detrás",
+      "Plegado compacto, pensado como segundo patinete o para llevar en el maletero",
+      "Los 120 kg de carga máxima coinciden con la ficha del Blade Q Pro"
     ],
     contras: [
-      "Sin precio oficial: Teverun no publica una tarifa oficial verificable del Blade Q",
-      "30 km declarados se quedan cortos para commuters largos",
-      "Potencia del motor no publicada por la marca",
-      "A 33 km/h no es legal en vía pública española sin limitar",
-      "Acabados por debajo de sus hermanos mayores",
-      "La reventa de la gama baja Teverun es floja",
+      "Teverun no lo vende hoy como modelo propio: sus tiendas oficiales solo ofrecen el Blade Q Pro, así que no hay precio oficial en euros",
+      "Las cifras de esta ficha proceden de un distribuidor: Dato orientativo, no oficial: puede contener errores",
+      "30 km declarados con una batería de unos 360 Wh: queda corto para trayectos largos",
+      "33 km/h no es legal en vía pública española sin limitar a 25 km/h"
     ],
-    veredicto:
-      "El Teverun para probar la marca sin arruinarse: cumple en ciudad, pero la autonomía limita su uso a trayectos cortos.",
-    fuenteNombre: "Teverun (teverun.com)",
-    fuenteUrl: "https://www.teverun.com/",
+    veredicto: "Antes de comprar un Blade Q conviene confirmar con el vendedor qué versión es, porque Teverun solo documenta oficialmente el Blade Q Pro (doble motor, 540 Wh, 639 €). Si te interesa la gama, mira primero la ficha del Blade Q Pro, que sí tiene datos del fabricante.",
+    fuenteNombre: "Wilson eBikes (distribuidor; sin ficha oficial del fabricante)",
+    fuenteUrl: "https://www.wilsonebikes.com/product/teverun-blade-q-electric-scooter/",
     mantenimientoDIY: {
-      actualizacionFirmware:
-        "App oficial Teverun por Bluetooth: modos de conducción, ajustes del TFT y bloqueo NFC",
-      aprieteTornilleria:
-        "Revisar periódicamente el apriete de todos los tornillos y tuercas (manual oficial)",
-      intervaloRevision:
-        "Revisar periódicamente la presión de los neumáticos y el sistema de frenos hidráulicos",
-      trucos: [
+      "actualizacionFirmware": "App oficial Teverun por Bluetooth: modos de conducción, ajustes del TFT y bloqueo NFC",
+      "aprieteTornilleria": "Revisar periódicamente el apriete de todos los tornillos y tuercas (manual oficial)",
+      "intervaloRevision": "Revisar periódicamente la presión de los neumáticos y el sistema de frenos hidráulicos",
+      "trucos": [
         "Para guardarlo mucho tiempo, dejar la batería al 50-70 % y recargarla cada 1-2 meses",
-        "Limpiar con paño húmedo, sin agua a presión sobre la electrónica",
-      ],
+        "Limpiar con paño húmedo, sin agua a presión sobre la electrónica"
+      ]
     },
+    fuentesExtra: [
+      {
+        "nombre": "Wilson eBikes (distribuidor): Blade Q de un motor, 36 V 10 Ah, 670 W máximos, 33 km/h, 30 km, 20 kg, freno de tambor. Dato orientativo, no oficial: puede contener errores",
+        "url": "https://www.wilsonebikes.com/product/teverun-blade-q-electric-scooter/",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "Teverun Alemania: el modelo que vende como Blade Q Pro (2×350 W, 540 Wh, 639 €)",
+        "url": "https://teverun-official.de/produkt/teverun-blade-q-pro-36-v-15-ah-2x350-w-1-848-w/",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "teverun-blade-q-pro",
+        "nombre": "Teverun Blade Q Pro",
+        "precioEur": 639,
+        "autonomiaKm": 40,
+        "potenciaW": 700,
+        "pesoKg": 26,
+        "nota": "Teverun Alemania (oficial)"
+      },
+      {
+        "id": "navee-gt3",
+        "nombre": "NAVEE GT3",
+        "precioEur": 600,
+        "autonomiaKm": 50,
+        "potenciaW": 500,
+        "pesoKg": 21,
+        "nota": "Nota de prensa oficial de Navee"
+      },
+      {
+        "id": "smartgyro-k2-pro",
+        "nombre": "SmartGyro K2 Pro",
+        "precioEur": 799,
+        "autonomiaKm": 60,
+        "potenciaW": 900,
+        "pesoKg": 22,
+        "nota": "SmartGyro / MediaMarkt"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Qué diferencia hay entre el Teverun Blade Q y el Blade Q Pro?",
+        "a": "En las tiendas oficiales de Teverun (Alemania y Chequia) solo encontramos a la venta el Blade Q Pro, con dos motores de 350 W y batería de 36 V 15 Ah (540 Wh). El Blade Q de un motor, con batería de 36 V 10 Ah, aparece en distribuidores como Wilson eBikes. Los datos de esta ficha son de ese distribuidor y no están confirmados por el fabricante."
+      },
+      {
+        "q": "¿Por qué esta ficha no muestra precio?",
+        "a": "Teverun no publica un precio oficial en euros del Blade Q de un motor. El importe de 2.449 € que figuraba antes no se puede sostener con ninguna fuente y lo hemos retirado. Para el Blade Q Pro, Teverun Alemania indica 639 €."
+      },
+      {
+        "q": "¿Puede circular el Blade Q por la ciudad?",
+        "a": "Solo si la velocidad está limitada a 25 km/h (Reglamento General de Vehículos, modificado por el Real Decreto 970/2020) y dispones de certificado de características. Los 33 km/h que anuncia el distribuidor solo valen en terreno privado. Casco homologado o certificado y abrochado (artículo 118.3 del Reglamento General de Circulación) y 15 años cumplidos (artículo 155.3), según el Real Decreto 518/2026 en vigor desde el 1 de octubre de 2026."
+      }
+    ],
+    autonomiaRealKm: null
   },
   {
     id: "teverun-blade-q-pro",
@@ -756,66 +817,127 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     videoCanal: "Lando Cycle",
     marca: "Teverun",
     modelo: "Blade Q Pro",
-    precioEur: 2299,
+    precioEur: 639,
     potenciaNominalW: 700,
-    potenciaPicoW: null,
+    potenciaPicoW: 1848,
     autonomiaKm: 40,
     autonomiaRealKm: 27,
-    velocidadMaxKmh: 50,
-    pesoKg: 24,
+    velocidadMaxKmh: 25,
+    pesoKg: 26,
     cargaMaxKg: 120,
     tiempoCargaH: null,
-    bateriaWh: 720,
-    frenos: null,
-    neumaticos: null,
+    bateriaWh: 540,
+    frenos: "Discos mecánicos",
+    neumaticos: "Tubeless de 8,5\"",
     certificadoDgt: null,
-    foto: "/media/patinetes/teverun-blade-q-pro-1.webp",
+    foto: "/media/patinetes/teverun-blade-q-pro-oficial.webp",
     galeria: [
       {
-        src: "/media/patinetes/teverun-blade-q-pro-2.webp",
-        alt: "Detalle de la plataforma del Teverun Blade Q Pro",
-        ancho: 1200,
-        alto: 800,
+        "src": "/media/patinetes/teverun-blade-q-pro-2.webp",
+        "alt": "Detalle de la plataforma del Teverun Blade Q Pro",
+        "ancho": 1200,
+        "alto": 800
       },
       {
-        src: "/media/patinetes/teverun-blade-q-pro-3.webp",
-        alt: "Teverun Blade Q Pro en ruta urbana",
-        ancho: 1200,
-        alto: 800,
-      },
+        "src": "/media/patinetes/teverun-blade-q-pro-3.webp",
+        "alt": "Teverun Blade Q Pro en ruta urbana",
+        "ancho": 1200,
+        "alto": 800
+      }
     ],
-    aprox: ["precioEur", "velocidadMaxKmh", "autonomiaRealKm"],
+    aprox: [
+      "autonomiaRealKm"
+    ],
     pros: [
-      "Doble motor de 350 W: tracción total en formato ligero",
-      "Batería de 720 Wh (48V 15Ah): 40 km declarados",
-      "24 kg y 120 kg de carga máxima: buen ratio",
-      "40-50 km/h: alegre para su tamaño",
-      "Precio de acceso a la tracción total",
+      "Dos motores de 350 W (hasta 1.848 W de pico según Teverun) en un patinete de 26 kg",
+      "Selector SINGLE/DUAL: se puede rodar solo con el motor trasero para estirar la batería",
+      "Frenos de disco mecánicos y neumáticos tubeless de 8,5 pulgadas con suspensión de muelles",
+      "639 € en la tienda oficial alemana: tracción total a precio de gama media",
+      "Garantía oficial de 2 años en el patinete y en la batería"
     ],
     contras: [
-      "Sin precio oficial: Teverun no publica una tarifa oficial verificable del Blade Q Pro",
-      "La potencia pico no está publicada",
-      "A 50 km/h no es un VMP legal en España",
-      "La autonomía real con los dos motores cae rápido",
-      "Componentes de gama de entrada",
-      "Poca información oficial: la marca lo tiene en segundo plano",
+      "Batería de 36 V 15 Ah (540 Wh): los 40 km son el máximo declarado, no el uso real",
+      "Teverun lo vende para uso privado fuera de vías públicas; a 25 km/h limitado necesita su certificado para circular",
+      "Versiones de 48 V 15 Ah que venden otras tiendas no coinciden con la ficha oficial europea",
+      "Tienda oficial sin stock en la consulta del 31/10/2026",
+      "Peso: 26 kg en la web alemana y 24 kg en otras tiendas, sin cifra única oficial"
     ],
-    veredicto:
-      "Tracción total en miniatura: divertido y ligero, pero ni la marca parece tomárselo muy en serio. Para ciudad, el Blade Q normal basta.",
-    fuenteNombre: "Teverun (teverun.com)",
-    fuenteUrl: "https://www.teverun.com/",
+    veredicto: "Por 639 € ofrece doble motor, discos y suspensión en un formato compacto. Es un patinete para trayectos cortos: la batería de 540 Wh y el límite de 25 km/h marcan su alcance, y antes de usarlo en la calle hay que comprobar su certificado DGT, que la marca no menciona.",
+    fuenteNombre: "Teverun Alemania (tienda oficial)",
+    fuenteUrl: "https://teverun-official.de/produkt/teverun-blade-q-pro-36-v-15-ah-2x350-w-1-848-w/",
     mantenimientoDIY: {
-      actualizacionFirmware:
-        "App oficial Teverun por Bluetooth: modos de conducción, ajustes del TFT y bloqueo NFC",
-      aprieteTornilleria:
-        "Revisar periódicamente el apriete de todos los tornillos y tuercas (manual oficial)",
-      intervaloRevision:
-        "Revisar periódicamente la presión de los neumáticos y el sistema de frenos hidráulicos",
-      trucos: [
+      "actualizacionFirmware": "App oficial Teverun por Bluetooth: modos de conducción, ajustes del TFT y bloqueo NFC",
+      "aprieteTornilleria": "Revisar periódicamente el apriete de todos los tornillos y tuercas (manual oficial)",
+      "intervaloRevision": "Revisar periódicamente la presión de los neumáticos y el sistema de frenos hidráulicos",
+      "trucos": [
         "Para guardarlo mucho tiempo, dejar la batería al 50-70 % y recargarla cada 1-2 meses",
-        "Limpiar con paño húmedo, sin agua a presión sobre la electrónica",
-      ],
+        "Limpiar con paño húmedo, sin agua a presión sobre la electrónica"
+      ]
     },
+    fuentesExtra: [
+      {
+        "nombre": "Teverun Alemania: ficha oficial del Blade Q Pro (2×350 W, 36 V 15 Ah / 540 Wh, 25 km/h limitado, 639 €; en la consulta figuraba agotado)",
+        "url": "https://teverun-official.de/produkt/teverun-blade-q-pro-36-v-15-ah-2x350-w-1-848-w/",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "Teverun: manual oficial del Blade Q (selector ECO/TURBO y SINGLE/DUAL, 120 kg)",
+        "url": "https://teverun.cz/manual/cz_BLADE-Q-manual.pdf"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "teverun-blade-mini-pro",
+        "nombre": "Teverun Blade Mini Pro",
+        "precioEur": 990,
+        "autonomiaKm": 55,
+        "potenciaW": 1000,
+        "pesoKg": 29,
+        "nota": "Liontec"
+      },
+      {
+        "id": "kukirin-g2-max",
+        "nombre": "KuKirin G2 Max",
+        "precioEur": 684,
+        "autonomiaKm": 80,
+        "potenciaW": 1000,
+        "pesoKg": 31,
+        "nota": "KuKirin EU"
+      },
+      {
+        "id": "smartgyro-k2-pro",
+        "nombre": "SmartGyro K2 Pro",
+        "precioEur": 799,
+        "autonomiaKm": 60,
+        "potenciaW": 900,
+        "pesoKg": 22,
+        "nota": "SmartGyro / MediaMarkt"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuánto cuesta el Teverun Blade Q Pro?",
+        "a": "Teverun Alemania lo anuncia a 639 € (consulta del 31/10/2026, con el producto agotado en ese momento). Otras tiendas fuera de la UE lo venden con batería de 48 V, así que compara siempre que el modelo sea la versión europea de 36 V 15 Ah."
+      },
+      {
+        "q": "¿Es el Blade Q Pro un patinete para circular por la calle en España?",
+        "a": "Teverun lo describe como «para uso privado fuera de las vías públicas» y limita de fábrica la velocidad a 25 km/h, que es el límite de construcción de un VMP (Reglamento General de Vehículos, modificado por el Real Decreto 970/2020). El modo de 40 km/h tras desbloquear solo vale en terreno privado. La marca no publica certificado de la DGT."
+      },
+      {
+        "q": "¿Qué hace el interruptor SINGLE/DUAL?",
+        "a": "Según el manual oficial, SINGLE mueve el patinete solo con el motor trasero y DUAL activa los dos motores. Teverun recomienda usar los dos con regularidad para repartir la carga eléctrica."
+      },
+      {
+        "q": "¿Qué exige la ley para usarlo?",
+        "a": "Casco homologado o certificado y abrochado (artículo 118.3 del Reglamento General de Circulación) y 15 años cumplidos (artículo 155.3), según el Real Decreto 518/2026 en vigor desde el 1 de octubre de 2026."
+      }
+    ]
   },
   // ────────────────────────── INMOTION (6) ─────────────────────────
   {
@@ -1461,64 +1583,109 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     videoCanal: null,
     marca: "Hiboy",
     modelo: "VE1 Pro",
-    precioEur: null, // Sin precio oficial en EUR verificado el 21/10/2026: Sin precio oficial en EUR: la tienda oficial hiboy.com lista el VE1 Pro con tarifa de 999,99 USD (precio de venta 799,99 USD).
+    precioEur: null,
     potenciaNominalW: 350,
     potenciaPicoW: 500,
     autonomiaKm: 50,
     autonomiaRealKm: 34,
     velocidadMaxKmh: 37,
     pesoKg: 22.2,
-    cargaMaxKg: null,
-    tiempoCargaH: null,
+    cargaMaxKg: 100,
+    tiempoCargaH: 6,
     bateriaWh: 480,
-    frenos: null,
-    neumaticos: null,
+    frenos: "Frenos de disco",
+    neumaticos: "Neumáticos de aire de 16\" (cámara)",
     certificadoDgt: null,
-    foto: "/media/patinetes/hiboy-ve1-pro-1.webp",
-    galeria: [
-      {
-        src: "/media/patinetes/hiboy-ve1-pro-2.webp",
-        alt: "Detalle del Hiboy VE1 Pro",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/patinetes/hiboy-ve1-pro-3.webp",
-        alt: "Hiboy VE1 Pro en la ciudad",
-        ancho: 1200,
-        alto: 800,
-      },
+    foto: "/media/patinetes/hiboy-ve1-pro-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm"
     ],
-    aprox: ["autonomiaRealKm"],
     pros: [
-      "22,2 kg: ligero para llevar 480 Wh encima",
-      "50 km declarados: buena autonomía urbana",
-      "350 W (500 W de pico): suficiente para ciudad",
-      "Diseño compacto y discreto",
-      "Precio habitualmente agresivo",
+      "Ruedas de 16 pulgadas: el patinete se mueve más estable que uno de 8,5 o 10 pulgadas",
+      "Batería de 48 V 10 Ah (480 Wh) con 31 millas (50 km) de autonomía máxima declarada",
+      "350 W nominales y 500 W de pico con pendiente máxima de 15°",
+      "Frenos de disco y una cubierta de 16,7 × 9,1 pulgadas",
+      "22,2 kg para una rueda tan grande"
     ],
     contras: [
-      "Sin precio oficial: no se ha verificado tarifa oficial vigente de Hiboy para el VE1 Pro nuevo",
-      "A 37 km/h no es VMP legal en España",
-      "Acabados básicos",
-      "La autonomía real en modo rápido baja a 30 km",
-      "Sin suspensión destacable",
-      "La marca lo promociona poco: puede descatalogarse",
+      "Hiboy lo vende en dólares para EE. UU.: la ficha actual es la reacondicionada, a 419,99 $ y agotada; no consta venta oficial en España",
+      "Sin certificado de la DGT ni marcado europeo en la ficha",
+      "Los 23 mph (37 km/h) superan el límite de 25 km/h de un VMP",
+      "Sin suspensión: las ruedas neumáticas de 16 pulgadas hacen casi todo el trabajo",
+      "Hiboy recomienda su uso entre 16 y 50 años y hasta 100 kg"
     ],
-    veredicto:
-      "Un urbano honesto y ligero con buena batería: si lo encuentras en oferta, es una compra redonda para ciudad.",
-    fuenteNombre: "Hiboy (hiboy.com)",
-    fuenteUrl: "https://www.hiboy.com/",
+    veredicto: "El VE1 Pro es un patinete poco habitual por sus ruedas de 16 pulgadas, que dan estabilidad a bajo coste. Pero Hiboy lo vende para EE. UU., a 37 km/h y sin certificado europeo: en España solo podría ser un VMP si se limita a 25 km/h y se homologa.",
+    fuenteNombre: "Hiboy (ficha oficial del VE1 Pro)",
+    fuenteUrl: "https://www.hiboy.com/products/hiboy-ve1-pro-refurbished-electric-scooter",
     mantenimientoDIY: {
-      actualizacionFirmware:
-        "App oficial Hiboy por Bluetooth: estadísticas, bloqueo, control de crucero y autodiagnóstico",
-      aprieteTornilleria:
-        "Comprobar antes de cada salida que tornillos, tuercas y fijaciones estén seguros (manual oficial Hiboy)",
-      trucos: [
+      "actualizacionFirmware": "App oficial Hiboy por Bluetooth: estadísticas, bloqueo, control de crucero y autodiagnóstico",
+      "aprieteTornilleria": "Comprobar antes de cada salida que tornillos, tuercas y fijaciones estén seguros (manual oficial Hiboy)",
+      "trucos": [
         "Limpiar con paño húmedo: nada de agua a presión ni productos agresivos",
-        "Revisar periódicamente el desgaste de frenos y pastillas",
-      ],
+        "Revisar periódicamente el desgaste de frenos y pastillas"
+      ]
     },
+    fuentesExtra: [
+      {
+        "nombre": "Hiboy: ficha oficial del VE1 Pro (versión reacondicionada: 350 W nominales y 500 W de pico, 48 V 10 Ah, 23 mph, 31 millas, 22,2 kg, 419,99 $, agotada)",
+        "url": "https://www.hiboy.com/products/hiboy-ve1-pro-refurbished-electric-scooter",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "hiboy-u2-pro",
+        "nombre": "Hiboy U2 Pro",
+        "precioEur": null,
+        "autonomiaKm": 55,
+        "potenciaW": 750,
+        "pesoKg": 36.6,
+        "nota": "Hiboy (hiboy.com)"
+      },
+      {
+        "id": "segway-ninebot-f3",
+        "nombre": "Segway Ninebot F3",
+        "precioEur": 549,
+        "autonomiaKm": 70,
+        "potenciaW": 450,
+        "pesoKg": 19,
+        "nota": "PcComponentes"
+      },
+      {
+        "id": "navee-v50",
+        "nombre": "NAVEE V50",
+        "precioEur": 549,
+        "autonomiaKm": 50,
+        "potenciaW": 350,
+        "pesoKg": 17,
+        "nota": "EZBikes"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuánto cuesta el Hiboy VE1 Pro?",
+        "a": "La única ficha activa en la web de Hiboy EE. UU. es la versión reacondicionada: 419,99 $ con un precio de lista de 999,99 $, y figura como agotada (consulta del 31/10/2026). No hemos encontrado precio oficial en euros, por eso la ficha no muestra uno."
+      },
+      {
+        "q": "¿Qué ventaja tienen sus ruedas de 16 pulgadas?",
+        "a": "Según Hiboy, los neumáticos de 16 pulgadas dan más tracción y absorben mejor los golpes que los de un patinete pequeño. El VE1 Pro no lleva suspensión."
+      },
+      {
+        "q": "¿Qué velocidad alcanza?",
+        "a": "23 mph, unos 37 km/h, según Hiboy. En vía pública española el límite es de 25 km/h."
+      },
+      {
+        "q": "¿Qué exige la ley para usarlo en España?",
+        "a": "Casco homologado o certificado y abrochado (artículo 118.3 del Reglamento General de Circulación) y 15 años cumplidos (artículo 155.3), según el Real Decreto 518/2026 en vigor desde el 1 de octubre de 2026. Está prohibido circular por aceras (artículo 152.1)."
+      }
+    ]
   },
   {
     id: "hiboy-u2-pro",
@@ -1533,57 +1700,101 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     autonomiaRealKm: 37,
     velocidadMaxKmh: 40,
     pesoKg: 36.6,
-    cargaMaxKg: null,
-    tiempoCargaH: null,
+    cargaMaxKg: 120,
+    tiempoCargaH: 7,
     bateriaWh: 624,
-    frenos: null,
-    neumaticos: null,
+    frenos: "Discos delantero y trasero de 160 mm",
+    neumaticos: "Neumáticos de aire de 16×4\" todoterreno, con suspensión trasera",
     certificadoDgt: null,
-    foto: "/media/patinetes/hiboy-u2-pro-1.webp",
-    galeria: [
-      {
-        src: "/media/patinetes/hiboy-u2-pro-2.webp",
-        alt: "Detalle del sillín del Hiboy U2 Pro",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/patinetes/hiboy-u2-pro-3.webp",
-        alt: "Hiboy U2 Pro con cesta en ruta",
-        ancho: 1200,
-        alto: 800,
-      },
+    foto: "/media/patinetes/hiboy-u2-pro-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm"
     ],
-    aprox: ["autonomiaRealKm"],
     pros: [
-      "750 W: el Hiboy con sillín más potente",
-      "624 Wh (48V 13Ah): 55 km declarados",
-      "Sillín y cesta: comodidad y practicidad",
-      "40 km/h: ritmo alegre",
-      "Buena opción para repartidores urbanos",
+      "Sillín de espuma con memoria de 3,5 pulgadas, cesta trasera desmontable y cubierta de 17,3 × 10,2 pulgadas",
+      "Motor de 750 W nominales y 810 W de pico, con subida declarada del 20 %",
+      "Neumáticos todoterreno de 16×4 pulgadas y suspensión trasera de 125 mm",
+      "Batería de 48 V 13 Ah (624 Wh) y 34 millas (55 km) de autonomía máxima declarada",
+      "Doble freno de disco de 160 mm y faro LED de 70 lux con luz trasera activada con el freno"
     ],
     contras: [
-      "Sin precio oficial: Hiboy no publica una tarifa oficial verificable del U2 Pro",
-      "36,6 kg: un armario con ruedas",
-      "A 40 km/h no es legal en vía pública española",
-      "El sillín penaliza el plegado",
-      "810 W de pico se quedan cortos frente a los 750 nominales",
-      "Nicho muy específico",
+      "36,6 kg: es un vehículo para guardar en planta baja, no para subir escaleras",
+      "Se vende en dólares en EE. UU. (1.059,99 $ en la consulta); sin precio oficial en euros",
+      "Sin certificado DGT en la ficha de Hiboy",
+      "Con sillín no encaja en la imagen habitual de un VMP: consulta con el vendedor y la DGT antes de circular"
     ],
-    veredicto:
-      "El ECOM 14 con más motor: si necesitas sillín y potencia para moverte cargado, el U2 Pro es su hermano mayor.",
-    fuenteNombre: "Hiboy (hiboy.com)",
-    fuenteUrl: "https://www.hiboy.com/",
+    veredicto: "El U2 Pro es un patinete con sillín, cesta y ruedas anchas pensado para llevar peso y recorrer distancias cortas con comodidad. Es un producto de EE. UU. a 40 km/h: en España no encaja como VMP sin limitar y certificar, y su peso lo hace poco práctico en vivienda sin ascensor.",
+    fuenteNombre: "Hiboy (ficha oficial del U2 Pro)",
+    fuenteUrl: "https://www.hiboy.com/products/hiboy-u2-pro-electric-scooter-with-16-inch-fat-tires",
     mantenimientoDIY: {
-      actualizacionFirmware:
-        "App oficial Hiboy por Bluetooth: estadísticas, bloqueo, control de crucero y autodiagnóstico",
-      aprieteTornilleria:
-        "Comprobar antes de cada salida que tornillos, tuercas y fijaciones estén seguros (manual oficial Hiboy)",
-      trucos: [
+      "actualizacionFirmware": "App oficial Hiboy por Bluetooth: estadísticas, bloqueo, control de crucero y autodiagnóstico",
+      "aprieteTornilleria": "Comprobar antes de cada salida que tornillos, tuercas y fijaciones estén seguros (manual oficial Hiboy)",
+      "trucos": [
         "Limpiar con paño húmedo: nada de agua a presión ni productos agresivos",
-        "Revisar periódicamente el desgaste de frenos y pastillas",
-      ],
+        "Revisar periódicamente el desgaste de frenos y pastillas"
+      ]
     },
+    fuentesExtra: [
+      {
+        "nombre": "Hiboy: ficha oficial del U2 Pro (750 W nominales, 810 W de pico, 48 V 13 Ah, 25 mph, 34 millas, 36,6 kg, 1.059,99 $ en la consulta)",
+        "url": "https://www.hiboy.com/products/hiboy-u2-pro-electric-scooter-with-16-inch-fat-tires",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "hiboy-ve1-pro",
+        "nombre": "Hiboy VE1 Pro",
+        "precioEur": null,
+        "autonomiaKm": 50,
+        "potenciaW": 350,
+        "pesoKg": 22.2,
+        "nota": "Hiboy (hiboy.com)"
+      },
+      {
+        "id": "gotrax-g-pro",
+        "nombre": "GOTRAX G Pro",
+        "precioEur": null,
+        "autonomiaKm": 39,
+        "potenciaW": 350,
+        "pesoKg": 23.6,
+        "nota": "ValueWalk (review Gotrax G Pro)"
+      },
+      {
+        "id": "segway-ninebot-max-g2",
+        "nombre": "Segway-Ninebot Max G2 E",
+        "precioEur": 399,
+        "autonomiaKm": 70,
+        "potenciaW": 450,
+        "pesoKg": 24.3,
+        "nota": "Segway-Ninebot (segway.com)"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuánto cuesta el Hiboy U2 Pro?",
+        "a": "En Hiboy EE. UU. figuraba a 1.059,99 $ (precio tachado de 1.499,98 $), consulta del 31/10/2026. No hemos encontrado precio oficial en euros."
+      },
+      {
+        "q": "¿Qué velocidad alcanza?",
+        "a": "25 mph, unos 40 km/h, según la ficha de Hiboy EE. UU. Para circular en vía pública española, el límite de un VMP es de 25 km/h."
+      },
+      {
+        "q": "¿Qué lleva de serie además del sillín?",
+        "a": "Una cesta trasera desmontable, una pantalla de 7 pulgadas y un faro LED de 70 lux, según Hiboy. Hiboy recomienda su uso entre 16 y 60 años."
+      },
+      {
+        "q": "¿Se puede usar en vía pública en España?",
+        "a": "Como patinete de pie, solo si se limita a 25 km/h y tiene certificado de características. Con sillín y esos pesos, consulta antes con el vendedor y la DGT. Casco homologado o certificado y abrochado (artículo 118.3 del Reglamento General de Circulación) y 15 años cumplidos (artículo 155.3), según el Real Decreto 518/2026 en vigor desde el 1 de octubre de 2026. Está prohibido circular por aceras (artículo 152.1)."
+      }
+    ]
   },
   {
     id: "hiboy-ks4",
@@ -1655,69 +1866,118 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     modelo: "i8",
     precioEur: null,
     potenciaNominalW: 350,
-    potenciaPicoW: 500,
+    potenciaPicoW: null,
     autonomiaKm: 20,
     autonomiaRealKm: 13,
     velocidadMaxKmh: 30,
     pesoKg: 12,
-    cargaMaxKg: null,
-    tiempoCargaH: null,
+    cargaMaxKg: 100,
+    tiempoCargaH: 5.5,
     bateriaWh: 187,
-    frenos: null,
-    neumaticos: null,
+    frenos: "Freno electrónico delantero y freno trasero (de buje en la web británica, de disco en la global)",
+    neumaticos: "Neumáticos de aire de 8,5\"",
     certificadoDgt: null,
-    foto: "/media/patinetes/iscooter-i8-1.webp",
-    galeria: [
-      {
-        src: "/media/patinetes/iscooter-i8-2.webp",
-        alt: "Detalle del iScooter i8 plegado",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/patinetes/iscooter-i8-3.webp",
-        alt: "iScooter i8 en la mano de su dueño",
-        ancho: 1200,
-        alto: 800,
-      },
+    foto: "/media/patinetes/iscooter-i8-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm"
     ],
-    aprox: ["autonomiaRealKm"],
     pros: [
-      "12 kg: se lleva con una mano",
-      "Precio de entrada (~189 £): de los más baratos con marca",
-      "350 W (500 W de pico): digno para su peso",
-      "Ideal para estudiantes y últimos kilómetros",
-      "Plegado ultracompacto",
+      "10,4 kg de peso de producto en iScooter UK y 12 kg (26,4 libras) en la web global",
+      "Neumáticos de aire de 8,5 pulgadas y plegado de 105 × 45 × 49 cm",
+      "Tres modos de 6, 15 y 25 km/h antes de desbloquear, y control de crucero",
+      "Precio de entrada: 188,99 £ en iScooter UK y 229,99 $ en la web global",
+      "Freno electrónico delantero y freno trasero, con palanca"
     ],
     contras: [
-      "Sin precio oficial: iScooter no publica una tarifa oficial verificable del i8",
-      "20 km declarados: solo para trayectos muy cortos",
-      "Batería de 187 Wh: se agota rápido",
-      "A 30 km/h hay que limitarlo para España",
-      "Ruedas pequeñas: incómodo en firmes malos",
-      "Acabados muy básicos",
+      "Batería de 187 Wh (36 V 5,2 Ah): los 20 km declarados son el máximo",
+      "Sin suspensión: no se indica ninguna en la ficha",
+      "Pendiente máxima declarada de 15° con motor delantero de 350 W",
+      "La web global da 29 km/h y la británica, 30 km/h tras desbloquear",
+      "iScooter recomienda una edad de 12 años, por debajo de los 15 que exige la ley en España"
     ],
-    veredicto:
-      "El mechero de iScooter: barato y ligero para 3-4 km al día. No le pidas más y no te defraudará.",
-    fuenteNombre: "iScooter UK (iscooterglobal.co.uk)",
-    fuenteUrl: "https://www.iscooterglobal.co.uk/",
+    veredicto: "El i8 es un patinete de poco más de 10 kg con una batería pequeña: sirve para tramos de 3 o 4 km y para llevarlo a pulso. No tiene suspensión ni app, y la carga máxima de 100 kg lo limita para adultos pesados.",
+    fuenteNombre: "iScooter (ficha oficial del i8)",
+    fuenteUrl: "https://www.iscooterglobal.com/products/i8-electric-scooter-350w-for-adults-and-teens",
     mantenimientoDIY: {
-      presionNeumaticos:
-        "La presión recomendada viene indicada en el flanco del neumático (manual oficial)",
-      actualizacionFirmware:
-        "App oficial iScooter por Bluetooth (iOS/Android): permite actualizaciones de firmware y ajustes",
-      aprieteTornilleria:
-        "Revisar el apriete de todos los tornillos antes de cada salida (manual oficial)",
-      ajusteFrenosPasos: [
+      "presionNeumaticos": "La presión recomendada viene indicada en el flanco del neumático (manual oficial)",
+      "actualizacionFirmware": "App oficial iScooter por Bluetooth (iOS/Android): permite actualizaciones de firmware y ajustes",
+      "aprieteTornilleria": "Revisar el apriete de todos los tornillos antes de cada salida (manual oficial)",
+      "ajusteFrenosPasos": [
         "Revisar periódicamente manetas, cables y pastillas de freno",
-        "Si el freno se nota flojo o demasiado tenso, ajustar la tensión del cable o consultar a un técnico",
+        "Si el freno se nota flojo o demasiado tenso, ajustar la tensión del cable o consultar a un técnico"
       ],
-      trucos: [
+      "trucos": [
         "Para guardarlo mucho tiempo, dejar la batería al 50-70 % y recargarla cada 30-60 días",
         "Limpiar con paño húmedo: nada de agua a presión ni sumergirlo",
-        "Usar siempre el cargador original",
-      ],
+        "Usar siempre el cargador original"
+      ]
     },
+    fuentesExtra: [
+      {
+        "nombre": "iScooter: ficha oficial del i8 (350 W, 36 V 5,2 Ah, 18 mph / 29 km/h, 12 millas / 20 km, 26,4 libras, 229,99 $ en la consulta)",
+        "url": "https://www.iscooterglobal.com/products/i8-electric-scooter-350w-for-adults-and-teens",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "iScooter UK: ficha del i8 (187 Wh, 10,4 kg, 188,99 £, EBAS delante y freno de buje detrás, 30 km/h tras desbloquear)",
+        "url": "https://www.iscooterglobal.co.uk/pages/i8",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "segway-ninebot-e2-ii",
+        "nombre": "Segway Ninebot E2 II",
+        "precioEur": null,
+        "autonomiaKm": 25,
+        "potenciaW": 250,
+        "pesoKg": 16.2,
+        "nota": "Manual oficial Segway-Ninebot (manuals.plus)"
+      },
+      {
+        "id": "xiaomi-electric-scooter-4-lite",
+        "nombre": "Xiaomi Electric Scooter 4 Lite (2.ª Gen)",
+        "precioEur": 299.99,
+        "autonomiaKm": 25,
+        "potenciaW": 300,
+        "pesoKg": 16.2,
+        "nota": "PcComponentes"
+      },
+      {
+        "id": "cecotec-bongo-serie-a",
+        "nombre": "Cecotec Bongo Serie A",
+        "precioEur": 299,
+        "autonomiaKm": 25,
+        "potenciaW": 350,
+        "pesoKg": 13.5,
+        "nota": "Cecotec (cecotec.es)"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuánto cuesta el iScooter i8?",
+        "a": "229,99 $ en la web global de iScooter y 188,99 £ en la británica (consultas del 31/10/2026). No hemos encontrado precio oficial en euros."
+      },
+      {
+        "q": "¿Cuánto pesa realmente?",
+        "a": "La web global de iScooter indica 26,4 libras (12 kg); la británica, 10,4 kg de peso del producto y 12,85 kg de peso bruto con embalaje."
+      },
+      {
+        "q": "¿Qué velocidades tiene?",
+        "a": "Según iScooter UK, 6, 15 y 25 km/h antes de desbloquear y 10, 20 y 30 km/h después. En vía pública española, 25 km/h como máximo."
+      },
+      {
+        "q": "¿Qué exige la ley para usarlo en España?",
+        "a": "Casco homologado o certificado y abrochado (artículo 118.3 del Reglamento General de Circulación) y 15 años cumplidos (artículo 155.3), según el Real Decreto 518/2026 en vigor desde el 1 de octubre de 2026. Está prohibido circular por aceras (artículo 152.1)."
+      }
+    ]
   },
   {
     id: "iscooter-i10-plus",
@@ -2206,68 +2466,114 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     videoCanal: "GSMaholic",
     marca: "KuKirin",
     modelo: "M4 Max",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: 479,
     potenciaNominalW: 800,
-    potenciaPicoW: 1000,
     autonomiaKm: 64,
-    autonomiaRealKm: 43,
+    autonomiaRealKm: 45,
     velocidadMaxKmh: 45,
     pesoKg: 24,
-    cargaMaxKg: null,
+    cargaMaxKg: 120,
     tiempoCargaH: null,
     bateriaWh: 874,
-    frenos: null,
-    neumaticos: null,
+    frenos: "Freno de disco y freno electrónico",
+    neumaticos: "Neumáticos de 10 pulgadas",
     certificadoDgt: null,
-    foto: "/media/patinetes/kukirin-m4-max-1.webp",
-    galeria: [
-      {
-        src: "/media/patinetes/kukirin-m4-max-2.webp",
-        alt: "Detalle del KuKirin M4 Max",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/patinetes/kukirin-m4-max-3.webp",
-        alt: "KuKirin M4 Max en ciudad",
-        ancho: 1200,
-        alto: 800,
-      },
+    foto: "/media/patinetes/kukirin-m4-max-oficial.webp",
+    galeria: [],
+    aprox: [
+      "autonomiaRealKm"
     ],
-    aprox: ["autonomiaRealKm"],
     pros: [
-      "800 W (1.000 W de pico) por ~524 €: difícil de batir",
-      "874 Wh (48V 18,2Ah): 64 km declarados",
-      "24 kg: ligero para su batería",
-      "45 km/h: alegre sin llegar a la locura",
-      "Buena base para iniciarse en KuKirin",
+      "Tres niveles de velocidad limitada de 15, 20 y 25 km/h que KuKirin anuncia como «límite de velocidad»",
+      "Batería de 48 V 18,2 Ah (874 Wh) y 64 km de autonomía declarada",
+      "Suspensión delantera de doble horquilla y trasera de doble resorte",
+      "Pedal de 450 × 175 mm y plegado con una sola tecla",
+      "Certificado CE indicado en la ficha, 479 € frente a un precio habitual de 689 €"
     ],
     contras: [
-      "Sin precio oficial: KuKirin no publica un PVP oficial verificable del M4 Max en España",
-      "A 45 km/h no es VMP legal en España",
-      "Acabados de gama de entrada",
-      "La suspensión es básica",
-      "El display es pequeño y poco legible al sol",
-      "El M4 Pro ofrece más por poco más",
+      "Ficha en modo reserva: KuKirin prevé el envío para mediados de noviembre, sujeto a su llegada al almacén",
+      "Sin modo limitado, KuKirin da niveles de 15, 25 y 45 km/h con 65 kg de carga: 45 km/h no es legal en vía pública",
+      "La ficha no dice cuánto tarda en cargar ni qué protección IP tiene",
+      "Los 64 km se declaran sin indicar la velocidad ni el peso del conductor",
+      "La ficha no menciona certificado de características de la DGT; el CE no lo sustituye"
     ],
-    veredicto:
-      "El KuKirin calidad-precio: si el G2 Max se te va de precio, el M4 Max da el 80 % por bastante menos.",
-    fuenteNombre: "KuKirin EU (eu-kukirin.com)",
-    fuenteUrl: "https://eu-kukirin.com/",
+    veredicto: "El M4 Max es un patinete de 800 W y 874 Wh por 479 €, con modos que se pueden limitar a 25 km/h. Es una oferta con letra pequeña: el envío es de reserva, los 45 km/h no se pueden usar en vía pública y hay que mirar el certificado de la DGT.",
+    fuenteNombre: "KuKirin España (tienda oficial)",
+    fuenteUrl: "https://kukirin.com.es/products/kukirin-m4-max-electric-scooter",
     mantenimientoDIY: {
-      aprieteTornilleria:
-        "Revisar regularmente el apriete de todos los tornillos y tuercas (manual oficial)",
-      ajusteFrenosPasos: [
+      "aprieteTornilleria": "Revisar regularmente el apriete de todos los tornillos y tuercas (manual oficial)",
+      "ajusteFrenosPasos": [
         "Si el freno va demasiado tenso: aflojar la tuerca del brazo de freno con una llave, alargar ligeramente el cable y volver a apretar",
-        "Si la frenada es débil: aflojar la tuerca, alargar más el cable y probar el freno",
+        "Si la frenada es débil: aflojar la tuerca, alargar más el cable y probar el freno"
       ],
-      trucos: [
+      "trucos": [
         "Revisar la presión de los neumáticos regularmente (manual oficial)",
         "Para guardarlo mucho tiempo, mantener la batería por encima del 50 % y cargarla al menos cada 3 meses",
         "Limpiar con paño húmedo y suave: prohibido alcohol, gasolina o agua a presión",
-        "Cargar siempre con el cargador original y con el patinete apagado",
-      ],
+        "Cargar siempre con el cargador original y con el patinete apagado"
+      ]
     },
+    fuentesExtra: [
+      {
+        "nombre": "KuKirin España: ficha del M4 Max (479 € con precio habitual de 689 €, 800 W, 48 V 18,2 Ah, 64 km, 45 km/h, 24 kg, 120 kg, certificado CE)",
+        "url": "https://kukirin.com.es/products/kukirin-m4-max-electric-scooter",
+        "fecha": "2026-10-31"
+      },
+      {
+        "nombre": "BOE: Real Decreto 518/2026 (casco y edad mínima de 15 años en VMP)",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889",
+        "fecha": "2026-06-26"
+      }
+    ],
+    datosVerificadosEl: "2026-10-31",
+    rivalesTabla: [
+      {
+        "id": "kaabo-mantis-8-eco-800",
+        "nombre": "Kaabo Mantis 8 Eco 800",
+        "precioEur": null,
+        "autonomiaKm": 60,
+        "potenciaW": 800,
+        "pesoKg": 23,
+        "nota": "Ecoscooter"
+      },
+      {
+        "id": "kukirin-m5-pro",
+        "nombre": "KuKirin M5 Pro",
+        "precioEur": 799,
+        "autonomiaKm": 70,
+        "potenciaW": 1000,
+        "pesoKg": 36.2,
+        "nota": "KuKirin.es (tienda oficial en España)"
+      },
+      {
+        "id": "kukirin-g2-max",
+        "nombre": "KuKirin G2 Max",
+        "precioEur": 684,
+        "autonomiaKm": 80,
+        "potenciaW": 1000,
+        "pesoKg": 31,
+        "nota": "KuKirin EU (eu-kukirin.com)"
+      }
+    ],
+    faqExtra: [
+      {
+        "q": "¿Cuánto cuesta el KuKirin M4 Max?",
+        "a": "479 € en la tienda de KuKirin España, con un precio habitual tachado de 689 €. La ficha indica que es una reserva con envío previsto a mediados de noviembre (consulta del 31/10/2026)."
+      },
+      {
+        "q": "¿Se puede limitar a 25 km/h?",
+        "a": "KuKirin indica tres niveles de «límite de velocidad» de 15, 20 y 25 km/h. Sin límite y con 65 kg de carga, los niveles son de 15, 25 y 45 km/h."
+      },
+      {
+        "q": "¿Tiene suspensión?",
+        "a": "Sí: doble horquilla delante y doble resorte rojo detrás, según la ficha de KuKirin."
+      },
+      {
+        "q": "¿Qué exige la ley para circular con él?",
+        "a": "Casco homologado o certificado y abrochado (artículo 118.3 del Reglamento General de Circulación) y 15 años cumplidos (artículo 155.3), según el Real Decreto 518/2026 en vigor desde el 1 de octubre de 2026. Está prohibido circular por aceras (artículo 152.1)."
+      }
+    ],
+    potenciaPicoW: null
   },
   {
     id: "kukirin-a1",

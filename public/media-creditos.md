@@ -4465,3 +4465,13 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/patinetes/vsett-10-plus-apex-oficial.webp | https://vsett-shop.com/wp-content/uploads/2024/07/VSETT-10-APEX-1.jpeg | Vsett Shop Europe (foto de producto oficial) | prensa |
 | /media/patinetes/kukirin-m5-pro-oficial.webp | https://kukirin.es/wp-content/uploads/2023/02/KuKirin-M5-Pro_-patinete_electrico-PRINCIPAL.jpg | KuKirin.es (foto de producto oficial) | prensa |
 | /media/patinetes/pure-air-6-ultra-oficial.webp | https://www.pureelectric.com/cdn/shop/files/pure-scooter-air-ultra-suspension-1244805437.jpg | Pure Electric (foto de producto oficial) | prensa |
+| /media/patinetes/teverun-blade-q-pro-oficial.webp | https://teverun-official.de/wp-content/uploads/2024/04/12fe57a9c05463cef2b4dcf8826e8806.jpg | Teverun Alemania (foto de producto oficial) | prensa |
+| /media/patinetes/kaabo-mantis-8-eco-800-oficial.webp | https://kaabomantis.com/wp-content/uploads/2022/07/Offroad-Kaabo-Mantis-8-ECO-800-single-motor-800W-EU-warehouse-free-shipping-fast-delivery-buy-now-kaabomantis.webp | Kaabo Mantis (foto de producto oficial) | prensa |
+| /media/patinetes/hiboy-ve1-pro-oficial.webp | https://www.hiboy.com/cdn/shop/products/VE1-PRO_614fbc68-7176-46ce-9acd-e3707779505e.jpg | Hiboy (foto de producto oficial) | prensa |
+| /media/patinetes/hiboy-u2-pro-oficial.webp | https://www.hiboy.com/cdn/shop/files/1_821fba6e-92b0-4edd-850d-5411b9f30f85.jpg | Hiboy (foto de producto oficial) | prensa |
+| /media/patinetes/iscooter-i8-oficial.webp | https://www.iscooterglobal.com/cdn/shop/files/1_1f833738-712c-4e6d-ac3d-f18122a1f135.jpg | iScooter (foto de producto oficial) | prensa |
+| /media/patinetes/kukirin-m4-max-oficial.webp | https://kukirin.com.es/cdn/shop/files/eu-kukirin-m4-max-main-image_01.webp | KuKirin España (foto de producto oficial) | prensa |
+| /media/patinetes/hiley-tiger-10-pro-oficial.webp | https://www.hileyrider.com/cdn/shop/products/hiley-T10P-1_e84bc599-9b0b-4379-b6e0-d008752e400b.png | Hiley Rider (foto de producto oficial) | prensa |
+| /media/patinetes/gotrax-g-pro-oficial.webp | https://gotrax.com/cdn/shop/products/g-pro-3-wheel-electric-scooter-189232.jpg | GOTRAX (foto de producto oficial) | prensa |
+| /media/patinetes/zero-9-oficial.webp | https://zeroelectricscooter.com/cdn/shop/products/zero-9_1024x1024.png | Zero Electric Scooter (foto de producto oficial) | prensa |
+| /media/patinetes/vsett-11-plus-oficial.webp | https://cdn.shopify.com/s/files/1/0210/2694/files/vsett-11-p-01.jpg | Vsett (foto de producto oficial) | prensa |
