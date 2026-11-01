@@ -1,0 +1,22 @@
+Censo AdSense 2610 — resumen ejecución 01/11/2026 (Niky, solo lectura, sin push)
+Secciones cerradas (sin repetir páginas, de checkpoints previos):
+  coches 2.302, marcas 105, multas 48, caravanas 73, campers 51, herramientas 21
+  Total secciones: 2.600 páginas.
+Pase global de duplicados: CERRADO el 30/10 (2.599 páginas 200; 0 duplicados reales).
+Pase global de enlaces (curl HEAD, 1,5 s de pausa, chunk máximo 600):
+  Hoy: PARADA DE SEGURIDAD del script (20 fallos 503 consecutivos) a los 20 HEADs.
+  Las 20 URLs dieron 503, y la comprobación posterior dio 503 también en la HOME
+  (https://recurretumulta.online/) y en una de las URLs fallidas: es un 503
+  general del vivo en este momento/entorno, NO 20 enlaces rotos.
+  Sin reintentos agresivos, conforme a la regla del censo.
+  Las 20 líneas 503 se RETIRARON de links-status.jsonl para que el próximo
+  chunk las vuelva a comprobar en primer lugar (no quedan marcadas como hechas).
+  Acumulado pase global SIN CAMBIOS: 1.248/17.544 URLs distintas verificadas
+  (1.247x200 + 1x0 transitorio del 30/10, re-verificado 200 entonces);
+  pendientes 16.296. 0 enlaces rotos reales acumulados; 0 tienda_a_portada
+  (salvo la propia home, artefacto del registro).
+Hallazgos nuevos hoy: 0. docs/adsense-2610/niky-censo.csv SIN CAMBIOS (377 hallazgos).
+CENSO NO COMPLETO: falta el resto del pase global de enlaces (16.296 HEADs)
+  más la re-verificación de las 20 URLs del chunk interrumpido.
+  ALERTA para el agente principal: verificar si el 503 del vivo persiste
+  fuera de este entorno antes del próximo chunk.
