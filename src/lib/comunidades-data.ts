@@ -381,9 +381,9 @@ const BASE: Omit<Comunidad, "faq">[] = [
     local: {
       titulo: "Cómo funcionan las multas en Ceuta",
       parrafos: [
-        "En Ceuta una sola administración, la Ciudad Autónoma, hace de ayuntamiento y de gobierno regional, así que no hay un consistorio al que dirigirse. Las denuncias que levanta la Policía Local en la calle pasan por su Unidad de Sanciones; los descargos y recursos llegan al Negociado de Circulación de la Consejería de Presidencia y Gobernación.",
+        "En Ceuta una sola administración, la Ciudad Autónoma, hace de ayuntamiento y de gobierno regional, así que no hay un consistorio al que dirigirse. Las denuncias que levanta la Policía Local en la calle pasan por su Unidad de Sanciones; los descargos y recursos los gestiona el Negociado de Circulación, dentro de la consejería que lleva Presidencia y Gobernación.",
         "Por la sede electrónica sede.ceuta.es se puede presentar el trámite de alegaciones, comparecencias, pliegos de descargo y recursos de sanciones de tráfico, con certificado electrónico o Cl@ve, o bien llevar el escrito a una oficina de registro. Para alegar tienes 20 días naturales; el recurso de reposición se plantea en el plazo de un mes.",
-        "Si la multa viene de la DGT y no se logró notificarla en mano, puede aparecer en el Tablón Edictal Único del BOE. La Jefatura Local de Tráfico está en el Paseo de las Palmeras, 8 (51001), y también se puede tramitar desde sede.dgt.gob.es. Fuente: sede.ceuta.es y El Faro de Ceuta, 13/05/2026.",
+        "Si la multa viene de la DGT y no se logró notificarla en mano, puede aparecer en el Tablón Edictal Único del BOE. La Jefatura Local de Tráfico atiende en el Paseo de las Palmeras (nº 8, CP 51001) y los trámites también se hacen desde sede.dgt.gob.es. Datos tomados de sede.ceuta.es y del diario El Faro de Ceuta del 13 de mayo de 2026.",
       ],
     },
     zbe: [],
