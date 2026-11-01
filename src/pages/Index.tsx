@@ -1245,15 +1245,7 @@ function $() {
                                           ((n.dataset.fb = `1`), (n.src = t));
                                       },
                                     })
-                                  : (0, B.jsx)(`div`, {
-                                      className: `flex h-full w-full items-center justify-center bg-gradient-to-br from-gray-100 to-gray-200`,
-                                      children: (0, B.jsx)(`img`, {
-                                        src: `/media/logo-recurretumulta.webp`,
-                                        alt: `RecurreTuMulta.online`,
-                                        loading: `lazy`,
-                                        className: `h-10 w-auto opacity-70`,
-                                      }),
-                                    }),
+                                  : null,
                               }),
                               (0, B.jsxs)(`div`, {
                                 className: `p-4 space-y-1.5`,

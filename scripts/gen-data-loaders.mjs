@@ -3,6 +3,7 @@
 // - src/lib/blog-lite-cat/*.generated.ts: metadatos lite por categoría
 // - src/lib/comparador-lite.generated.ts: COCHES_LITE para listados/componentes
 // Ejecutar antes de cada build: node scripts/gen-data-loaders.mjs
+import { fotoRealPorSlug, fotoValida } from "./foto-portada-fallback.mjs";
 import { readFileSync, readdirSync, writeFileSync, mkdirSync, unlinkSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -155,7 +156,9 @@ for (const f of blogFiles) {
     // hero en las tarjetas por categoría, a diferencia del lite principal.
     // El desescape de \" lo hace postHeroImage (desescaparComillas).
     const contentStr = contentTpl ? null : block.match(/"?(content)"?:\s*"((?:[^"\\]|\\.)*)"/);
-    const hero = postHeroImage(contentTpl ? contentTpl[2] : contentStr ? contentStr[2] : "");
+    // 01/11/2026: misma regla que gen-blog-lite.mjs (sin foto propia => foto real con fuente; nunca logo).
+    const hero0 = postHeroImage(contentTpl ? contentTpl[2] : contentStr ? contentStr[2] : "");
+    const hero = hero0 && fotoValida(hero0.src) ? hero0 : fotoRealPorSlug(slugs[i].slug, title);
     const words = contentTpl ? contentTpl[2].split(/\s+/).length : 0;
     const readTime = Math.max(1, Math.round(words / 200));
     const arr = byCategory.get(category) ?? [];

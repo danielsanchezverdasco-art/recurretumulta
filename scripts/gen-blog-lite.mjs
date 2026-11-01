@@ -12,6 +12,7 @@ const SRC = join(__dirname, "..", "src", "lib");
 // Importar los posts usando tsx o compilación directa. Como los ficheros son .ts con
 // tipos simples, los leemos y extraemos los metadatos con regex (más rápido y sin dependencias).
 import { readFileSync, readdirSync } from "fs";
+import { fotoRealPorSlug } from "./foto-portada-fallback.mjs";
 
 // Los posts en formato JSON guardan el contenido como string TS con las
 // comillas escapadas (alt=\"...\") y algunos con doble escape (alt=\\\"...\\\").
@@ -80,7 +81,8 @@ function extractPostsFromFile(filePath) {
     // se quedaba con las \" literales en heroAlt (y algún heroSrc roto).
     // title/excerpt/keywords ya desescapaban \" en este mismo fichero; la
     // imagen hero no. Se desescapa content igual que haría el parser de JS.
-    const hero = postHeroImage(content.replace(/\\"/g, '"'));
+    // 01/11/2026: sin <img> propia (o foto placeholder) => foto real con fuente de la ficha del mismo modelo; si no hay, "" (sin recuadro, nunca logo).
+    const hero = postHeroImage(content.replace(/\\"/g, '"')) ?? fotoRealPorSlug(slugs[i].slug, title.replace(/\\"/g, '"'));
     const words = content ? content.split(/\s+/).length : 0;
     const readTime = Math.max(1, Math.round(words / 200));
     const kwM = block.match(/"?(keywords)"?:\s*\[([\s\S]*?)\]/);

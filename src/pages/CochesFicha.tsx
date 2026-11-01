@@ -309,7 +309,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
   const datosClave: DatoClave[] = [
     coche.potenciaCv != null && { icono: <Zap className="h-5 w-5" />, valor: fmtCv(coche.potenciaCv), label: "Potencia" },
     coche.autonomiaKm != null && esPhevOEv
-      ? { icono: <BatteryCharging className="h-5 w-5" />, valor: fmtKm(coche.autonomiaKm), label: /enchufable/i.test(coche.tipo) ? "Autonomía eléctrica" : "Autonomía WLTP" }
+      ? { icono: <BatteryCharging className="h-5 w-5" />, valor: fmtKm(coche.autonomiaKm), label: /enchufable/i.test(coche.tipo) ? "Autonomía eléctrica" : coche.cicloAutonomia === "CLTC" ? "Autonomía CLTC" : "Autonomía WLTP" }
       : coche.consumo != null && { icono: <Fuel className="h-5 w-5" />, valor: fmtConsumo(coche), label: "Consumo WLTP" },
     coche.ceroCien != null && { icono: <Timer className="h-5 w-5" />, valor: fmtS(coche.ceroCien), label: "0-100 km/h" },
     coche.maleteroL != null && { icono: <Package className="h-5 w-5" />, valor: fmtL(coche.maleteroL), label: "Maletero" },
@@ -687,7 +687,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
                 return (
                   <tr key={f.label} className="border-t border-gray-200/70">
                     <th className="py-2.5 pr-2 text-left font-medium text-gray-500">
-                      {f.label}
+                      {f.campo === "autonomiaKm" && coche.cicloAutonomia === "CLTC" ? f.label.replace("(WLTP)", "(CLTC)") : f.label}
                     </th>
                     <td className="py-2.5 text-right font-semibold text-gray-900">
                       <span className="inline-flex items-center gap-1">

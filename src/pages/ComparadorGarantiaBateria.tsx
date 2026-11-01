@@ -82,7 +82,8 @@ export default function ComparadorGarantiaBateriaPage() {
         "@type": "ItemList",
         name: TITULO,
         description: DESCRIPCION,
-        itemListElement: conDato.map((c, i) => ({
+        // 01/11/2026: el ItemList del JSON-LD se limita al top 100 (antes ~2.400 elementos = 147 KB de JSON en el HTML).
+        itemListElement: conDato.slice(0, 100).map((c, i) => ({
           "@type": "ListItem",
           position: i + 1,
           name: `${c.marca} ${c.modelo} — ${c.garantiaBateriaAnos} años / ${fmtKm(c.garantiaBateriaKm)}`,
@@ -185,7 +186,18 @@ export default function ComparadorGarantiaBateriaPage() {
         <section aria-label="Tabla completa" className="mt-10">
           <h2 className="text-xl font-extrabold text-gray-900">Tabla completa</h2>
           <ul className="mt-4 grid gap-3 md:grid-cols-2">
-            {resto.map((c, i) => (
+            {resto.map((c, i) =>
+              i >= 60 ? (
+                // 01/11/2026: pasadas las 60 primeras filas, fila compacta (texto + enlace) para que el HTML baje de 1 MB sin quitar ningún enlace.
+                <li key={c.id} className="fila-mini">
+                  <Link to={`/coches/${c.id}/`}>
+                    {c.marca} {c.modelo}
+                  </Link>{" "}
+                  {c.tieneDato
+                    ? `${c.garantiaBateriaAnos} años / ${fmtKm(c.garantiaBateriaKm)}${c.garantiaBateriaDegradacionPct != null ? ` · mín. ${c.garantiaBateriaDegradacionPct} %` : ""}`
+                    : "garantía de batería no publicada"}
+                </li>
+              ) : (
               <li key={c.id}>
                 <Link
                   to={`/coches/${c.id}/`}
@@ -224,7 +236,8 @@ export default function ComparadorGarantiaBateriaPage() {
                   <BadgeCheck size={18} className="shrink-0 text-red-600" />
                 </Link>
               </li>
-            ))}
+              ),
+            )}
           </ul>
           <p className="mt-4 text-xs text-gray-500">
             «No publicado» significa que la marca no difunde oficialmente la garantía de

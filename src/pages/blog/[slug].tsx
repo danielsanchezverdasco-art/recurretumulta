@@ -31,6 +31,7 @@ import { LazyConvexProvider } from "@/components/providers/convex-lazy.tsx";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import { AUTOR_DANIEL, PUBLISHER } from "@/lib/eeat.ts";
 import { EnlacesHerramientas } from "@/components/eeat/FirmaEditorial.tsx";
+import { esPostDeMultas, puntosCajaSinPorcentaje } from "@/lib/blog-es-multas";
 import SharedFooter from "@/components/shared-footer.tsx";
 import NewsletterSignup from "@/components/NewsletterSignup.tsx";
 import CarruselFotos from "@/components/CarruselFotos.tsx";
@@ -490,6 +491,10 @@ function BlogPostPage() {
       : post && ["Novedades Motor", "Motor", "Coches", "Modelos desconocidos"].includes(post.category)
         ? "coches"
         : "multas";
+  // 01/11/2026: el CTA/caja del analizador de multas solo en artículos de multas (y sin «% de viabilidad», riesgo YMYL).
+  const mostrarCtaMultas = post
+    ? esPostDeMultas({ slug: post.slug, title: post.title, category: post.category, textosPropios: tpBlog })
+    : true;
   useSeo(isLoading
         ? {
               title: "Cargando artículo",
@@ -706,7 +711,8 @@ function BlogPostPage() {
         </div>
 
         <div className="max-w-3xl mx-auto px-4 py-8 space-y-8">
-          {/* Inline CTA (26/10: <aside>, caja complementaria común a todos los posts) */}
+          {/* Inline CTA (26/10: <aside>; 01/11: solo en artículos de multas) */}
+          {mostrarCtaMultas && (
           <aside
             aria-label="Analizador de multas"
             className="bg-gradient-to-r from-red-600 to-rose-600 rounded-2xl p-5 text-white space-y-3"
@@ -727,6 +733,7 @@ function BlogPostPage() {
               </Button>
             </Link>
           </aside>
+          )}
 
           {/* Ficha del modelo primero: la atracción fuerte, antes de la historia */}
           {cocheDestacado && (
@@ -804,6 +811,7 @@ function BlogPostPage() {
             </Suspense>
           )}
 
+          {mostrarCtaMultas && (
           <aside aria-label="Analizador de multas">
           {/* Bottom CTA */}
           <Card className="border-2 border-red-200 overflow-hidden">
@@ -822,7 +830,7 @@ function BlogPostPage() {
                 </div>
               </div>
               <ul className="space-y-1.5">
-                {(tpBlog?.cajaPuntos ?? [
+                {puntosCajaSinPorcentaje(tpBlog?.cajaPuntos ?? [
                   "Análisis con IA en menos de 60 segundos",
                   "% de viabilidad del recurso",
                   "Argumentos legales específicos de tu multa",
@@ -843,6 +851,7 @@ function BlogPostPage() {
             </CardContent>
           </Card>
           </aside>
+          )}
 
           {/* Newsletter semanal: solo en artículos de motor */}
           {post.category === "Novedades Motor" && (

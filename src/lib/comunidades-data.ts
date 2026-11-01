@@ -13,6 +13,8 @@ export type Comunidad = {
   foto: string;
   descripcion: string;
   particularidades: string[];
+  /** 01/11/2026: bloque local con datos propios de la ciudad (solo Ceuta y Melilla, para no repetir texto entre ambas páginas). */
+  local?: { titulo: string; parrafos: string[] };
   zbe: string[];
   keywords: string[];
   faq: { pregunta: string; respuesta: string }[];
@@ -376,6 +378,14 @@ const BASE: Omit<Comunidad, "faq">[] = [
     foto: "/media/blog-indice-guias-multas.webp",
     descripcion: "Ceuta es una ciudad autónoma en el norte de África. Las multas de sus calles las sanciona la propia administración local y las de tráfico de competencia estatal, la DGT.",
     particularidades: [...PART_CIUDAD],
+    local: {
+      titulo: "Cómo funcionan las multas en Ceuta",
+      parrafos: [
+        "En Ceuta una sola administración, la Ciudad Autónoma, hace de ayuntamiento y de gobierno regional, así que no hay un consistorio al que dirigirse. Las denuncias que levanta la Policía Local en la calle pasan por su Unidad de Sanciones; los descargos y recursos llegan al Negociado de Circulación de la Consejería de Presidencia y Gobernación.",
+        "Por la sede electrónica sede.ceuta.es se puede presentar el trámite de alegaciones, comparecencias, pliegos de descargo y recursos de sanciones de tráfico, con certificado electrónico o Cl@ve, o bien llevar el escrito a una oficina de registro. Para alegar tienes 20 días naturales; el recurso de reposición se plantea en el plazo de un mes.",
+        "Si la multa viene de la DGT y no se logró notificarla en mano, puede aparecer en el Tablón Edictal Único del BOE. La Jefatura Local de Tráfico está en el Paseo de las Palmeras, 8 (51001), y también se puede tramitar desde sede.dgt.gob.es. Fuente: sede.ceuta.es y El Faro de Ceuta, 13/05/2026.",
+      ],
+    },
     zbe: [],
     keywords: ["multas de tráfico en Ceuta", "cómo recurrir una multa en Ceuta", "recurso multa Ceuta"],
   },
@@ -390,6 +400,14 @@ const BASE: Omit<Comunidad, "faq">[] = [
     foto: "/media/blog-indice-guias-multas.webp",
     descripcion: "Melilla es una ciudad autónoma situada en el norte de África. En ella, las calles las sanciona el ámbito local y las infracciones de competencia estatal, la DGT.",
     particularidades: [...PART_CIUDAD],
+    local: {
+      titulo: "Cómo funcionan las multas en Melilla",
+      parrafos: [
+        "Melilla, igual que Ceuta, es Ciudad Autónoma, pero sus sanciones urbanas se apoyan en la ordenanza de tráfico propia. En sede.melilla.es el trámite «Multas» pide Cl@ve o certificado. El plazo para alegar es de 20 días naturales, con un 50 % de descuento si abonas dentro de él, y después cabe recurso de reposición contra la resolución.",
+        "Foto Rojo es el sistema que más conviene conocer: según El Faro de Melilla (16/06/2026) vigila los cruces de General Polavieja con Alfonso Gurrea y de Álvaro de Bazán con General Ordóñez. Cruzar en rojo cuesta 200 euros y 4 puntos del carnet. En la fase de pruebas se contaron entre 800 y 900 infracciones por semana.",
+        "Las fuentes oficiales no coinciden del todo en qué consejería gestiona las multas de la Policía Local; el escrito que recibas dice cuál es, y a ese órgano debes dirigirte. Para las multas de la DGT, la Jefatura está en Pablo Vallescá, 9 (52071).",
+      ],
+    },
     zbe: [],
     keywords: ["multas de tráfico en Melilla", "cómo recurrir una multa en Melilla", "recurso multa Melilla"],
   },

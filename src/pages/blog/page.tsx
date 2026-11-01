@@ -271,8 +271,8 @@ function BlogPage() {
                 >
                   <Link to={hrefDesdeBlog(post.slug)} className="block h-full group">
                     <div className="border border-gray-200 rounded-2xl overflow-hidden h-full hover:border-red-200 hover:shadow-md hover:shadow-red-50 transition-all duration-200 bg-white flex flex-col">
+                      {heroSrc ? (
                       <div className="aspect-video w-full overflow-hidden bg-gray-100 shrink-0">
-                        {heroSrc ? (
                           <img
                             src={cardThumb(heroSrc)}
                             alt={heroAlt}
@@ -287,17 +287,8 @@ function BlogPage() {
                               }
                             }}
                           />
-                        ) : (
-                          <div className="flex h-full w-full items-center justify-center bg-gradient-to-br from-gray-100 to-gray-200">
-                            <img
-                              src="/media/logo-recurretumulta.webp"
-                              alt="RecurreTuMulta.online"
-                              loading="lazy"
-                              className="h-10 w-auto opacity-70"
-                            />
-                          </div>
-                        )}
                       </div>
+                      ) : null}
                       <div className="p-5 space-y-3 flex-1">
                       <div className="flex items-center justify-between">
                         <Badge className="bg-red-50 text-red-600 border-0 text-xs font-semibold">

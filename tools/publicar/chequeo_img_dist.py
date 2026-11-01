@@ -50,4 +50,31 @@ for slug in ("stelato-g9-2026-precio-ficha-tecnica", "stelato-g9-erev-2026-preci
     objetivo = min(6, len(esp))  # G9: 6 fotos en la galería (el 28/10 salían 4)
     print("  galería %s: %d fotos distintas en el HTML (objetivo %d de %d en repo)" % (slug, len(en), objetivo, len(esp)))
     if len(en) < objetivo: mal = 1
+# ── 01/11/2026 (Daniel): AVISO si una tarjeta o hero usa el LOGO (o una imagen genérica) como foto de portada ──────────────
+# 1) HTML prerenderizado: <img> con logo-recurretumulta.webp / og-recurretumulta-online.png fuera de cabecera y pie (el logo de la
+#    navbar/footer es -sm.webp y no cuenta). 2) Datos de tarjetas (blog-lite): post sin heroSrc, o con heroSrc cuyo fichero no existe en dist/.
+# Es un AVISO (no cambia el código de salida): la tarjeta sin foto se pinta sin recuadro, pero conviene darle su foto real con fuente.
+LOGO_IMG = re.compile(r"logo-recurretumulta\.webp|og-recurretumulta-online\.png")
+logo_pag = collections.Counter()
+for root, _, fs in os.walk(D):
+    for f in fs:
+        if not f.endswith(".html"): continue
+        p_ = os.path.join(root, f); rel = "/" + os.path.relpath(p_, D)
+        if SUBIR is not None and rel not in SUBIR: continue
+        t = open(p_, encoding="utf8", errors="ignore").read()
+        t = re.sub(r"<(header|footer|nav)\b.*?</\1>", "", t, flags=re.S | re.I)
+        for i in IMG.findall(t):
+            m_ = re.search(r"\ssrc=[\"']?([^\"'\s>]+)", i)
+            if m_ and LOGO_IMG.search(m_.group(1)): logo_pag[rel] += 1
+print("AVISO tarjetas/heroes con LOGO o imagen genérica como foto: %d páginas (%d imgs)" % (len(logo_pag), sum(logo_pag.values())))
+for k, v in list(logo_pag.items())[:8]: print("  logo-como-foto: %s (%d)" % (k, v))
+try:
+    _lite = open(os.path.join(repo, "src/lib/blog-lite.generated.ts"), encoding="utf8").read()
+    _src = re.findall(r'"heroSrc": "([^"]*)"', _lite)
+    _sin = sum(1 for s in _src if not s)
+    _rotas = [s for s in set(_src) if s.startswith("/media/") and not os.path.exists(os.path.join(D, s.lstrip("/")))]
+    print("AVISO blog-lite: %d de %d tarjetas sin foto (sin recuadro, sin logo) | %d heroSrc ausentes de dist (acabarían en el og/logo)" % (_sin, len(_src), len(_rotas)))
+    for s in _rotas[:8]: print("  heroSrc ausente de dist: " + s)
+except Exception as e:
+    print("AVISO blog-lite: no se pudo comprobar (%s)" % e)
 sys.exit(mal)

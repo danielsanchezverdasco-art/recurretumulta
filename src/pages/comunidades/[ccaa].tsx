@@ -278,6 +278,16 @@ export default function ComunidadPage() {
             </Card>
           </div>
 
+          {/* Datos locales propios (Ceuta y Melilla, 01/11/2026) */}
+          {c.local && (
+            <section className="space-y-3">
+              <h2 className="text-xl font-black text-gray-900">{c.local.titulo}</h2>
+              {c.local.parrafos.map((par, i) => (
+                <p key={i} className="text-sm text-gray-700 leading-relaxed">{par}</p>
+              ))}
+            </section>
+          )}
+
           {/* Cómo recurrir step-by-step */}
           <div className="space-y-4">
             <h2 className="text-xl font-black text-gray-900">
