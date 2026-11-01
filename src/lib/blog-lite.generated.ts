@@ -26760,8 +26760,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-28",
     "locale": "all",
-    "heroSrc": "/media/nhtsa-luces-cian-vehiculos-autonomos-hero.webp",
-    "heroAlt": "Ilustración de un coche autónomo de noche con tiras de luz cian encendidas",
+    "heroSrc": "",
+    "heroAlt": "",
     "keywords": [
       "luces cian coches autónomos",
       "NHTSA luces cian",
@@ -26779,8 +26779,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-28",
     "locale": "all",
-    "heroSrc": "/media/volkswagen-nivel-3-china-hefei-pruebas-hero.webp",
-    "heroAlt": "Ilustración de un coche eléctrico de pruebas con sensores circulando solo por una avenida de una ciudad china al atardecer",
+    "heroSrc": "",
+    "heroAlt": "",
     "keywords": [
       "Volkswagen nivel 3 China",
       "conducción autónoma nivel 3",
