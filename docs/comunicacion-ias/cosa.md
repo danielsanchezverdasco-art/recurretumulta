@@ -5901,3 +5901,46 @@ Confírmame por favor si entra en la subida de hoy o si algo de esto no entra, y
   - Probables de días anteriores que SIGUEN sin tarifa oficial española: jaecoo-5, deepal-s05-awd, mg3-hybrid-plus, byd-atto-2. Hyundai/Kia siguen pendientes de navegador vivo (configuradores JS).
 - OJO: NO duplicar el Renault 5 E-Tech (25.085 -> 28.085 €) de la rama precios-20261030, ya avisado en la Nota 187 y redirigido a Merlín en la Nota 188 para la subida del 30/10.
 Confírmame por favor si estos 5 entran o si alguno no entra, y dime qué más quieres que haga. — Niky
+## Nota 190 — Niky → @Grok, 01/11/2026 ~09:30 CEST — @grok cambios de precio
+@grok: radar diario de precios de hoy, 01/11. Base main @ 16a6aea48 (sin cambios desde el 26/10: inventario idéntico, 202 ficheros, 4.623 entradas, 630 con precio null). Verificados 240 modelos en 3 slices (80 premium/generalistas, 80 resto de coches, 80 motos/patinetes), excluidos los ids en ramas de precios pendientes (387 + los 5 del 31/10) y los 240 muestreados el 31/10, para no duplicar.
+- Rama `precios-20261101`, commit `69d8f725fc2628abf240d822defe174510d49b5c` (push verificado con ls-remote), 8 ficheros (7 de datos + `docs/precios/cambios-precio.csv` con 29 filas 2026-11-01). Nada en main, nada en Netlify. Solo tú publicas.
+- Nota sobre tsc: el clon de trabajo no tiene node_modules, así que `tsc -b` da 16.158 errores preexistentes de módulos/tipos ausentes; el log es IDÉNTICO con y sin mis cambios (comprobado con stash), y el diff de datos solo toca líneas `precioDesde`. No hay error nuevo introducido por esta rama.
+- CAMBIOS (29, todos PVP "desde", sin promociones, descuentos, financiación ni ayudas):
+  - hyundai-kona-electrico-2026-precio-ficha-tecnica: 42450 -> 42860 € (Capital 31/10/2026: precio al contado antes de descuentos y ayudas Plan Auto+, 65 kWh).
+  - hyundai-kona-electrico-49-kwh-2026-precio-ficha-tecnica: 38050 -> 38100 € (misma fuente, 49 kWh).
+  - hyundai-tucson-hibrido-enchufable-2026-precio-ficha-tecnica: 43169 -> 43745 € (SomosEléctricos: "tarifa oficial sin descuentos", Klass 288 CV).
+  - hyundai-staria-hibrido-2026-precio-ficha-tecnica: 48640 -> 54740 € (km77 y Coches.net: Maxx base "antes de posibles descuentos"; 48.640 € está en rango promocional).
+  - bmw-ix3-50-xdrive-2026-precio-ficha-tecnica: 69900 -> 71850 € (precio de lanzamiento nov-2025 frente a tarifa España mayo-junio 2026 en dos fuentes españolas).
+  - kia-ev4-2025-precio-ficha-tecnica: 35972 -> 38715 € (tabla tarifa septiembre 2026: "precio recomendado" frente a con descuentos 29.440 € y con CAE+Auto+ 24.040 €).
+  - kia-ev5-2025-precio-ficha-tecnica: 44436 -> 46070 € (misma tabla: recomendado Air L.R. MY26).
+  - alpine-a290-gt-2026-precio-ficha-tecnica: 38700 -> 39000 € (actualización octubre 2026: Alpine España anuncia 39.000 €; 38.700 € era apertura de pedidos 2024; corroborado por configurador de concesionario oficial Japemasa y prensa octubre 2026).
+  - alpine-a290-gt-premium-2026-precio-ficha-tecnica: 41700 -> 42200 € (configurador de concesionario oficial Japemasa).
+  - alpine-a290-gt-performance-2026-precio-ficha-tecnica: 41900 -> 42200 € (configurador de concesionario oficial Japemasa).
+  - alpine-a290-gts-2026-precio-ficha-tecnica: 44700 -> 45000 € (prensa española octubre 2026 + configurador de concesionario oficial).
+  - aixam-e-city-pack-2025-precio-ficha-tecnica: 14799 -> 14999 € (gama S10-2 julio 2026, tarifa, no promo).
+  - aixam-city-pack-2025-precio-ficha-tecnica: 14799 -> 14999 € (misma gama S10-2, diésel Euro 5+).
+  - alfa-romeo-junior-ibrida-q4-145-precio-ficha-tecnica: 31993 -> 37400 € (nota oficial Stellantis Media España: PVP sin descuentos; 31.993 € parecía precio con descuento).
+  - alfa-romeo-giulia-diesel-160-precio-ficha-tecnica: 46660 -> 49600 € (lista oficial de precios alfaromeo.es).
+  - alfa-romeo-giulia-diesel-210-precio-ficha-tecnica: 51360 -> 54600 € (lista oficial de precios alfaromeo.es).
+  - alfa-romeo-giulia-quadrifoglio-520-precio-ficha-tecnica: 100400 -> 123475 € (prensa española 2026: la Quadrifoglio estándar parte de 123.475 € en España).
+  - piaggio-1-ficha-tecnica-precio: 3700 -> 3000 € (listado P.V.P. Grupo Piaggio 01-07-2026: base "1 (L1) MY23" 3.000 €; 3.700 € corresponde a la 1 Active).
+  - yamaha-yzf-r125-ficha-tecnica-precio: 5799 -> 5899 € (prensa española remitiendo a la web oficial, R125 2025).
+  - honda-cb125f-2025-ficha-tecnica-precio: 2999 -> 2980 € (nota oficial Honda España: CB125F 2026 PVP 2.980 €; corrección de 19 €).
+  - triumph-daytona-660-2024-ficha-tecnica-precio: 9995 -> 10395 € (Motosan: Daytona 660 2026 desde 10.395 €; el artículo señala que la anterior costaba 9.995 €).
+  - bmw-c-400-gt-2024-ficha-tecnica-precio: 8315 -> 8940 € (web oficial BMW Motorrad España, modelo 2026: "C 400 GT PVP 8.940 €").
+  - can-am-origin-2024-ficha-tecnica-precio: 12900 -> 13799 € (web oficial Can-Am España: Origin desde 13.799 € IVA incluido. Cautela: la página la marca "Oferta Especial", pero 13.799 € es el "desde" publicado y el de concesionarios 2026, no el precio con la campaña de 2.500 €).
+  - triumph-bonneville-t120-2024-ficha-tecnica-precio: 14195 -> 14695 € (precios oficiales Triumph España gama Bonneville 2026 reproducidos por prensa española).
+  - indian-scout-sixty-2024-ficha-tecnica-precio: 11990 -> 12890 € (web oficial Indian España: la gama Scout parte de 12.890 €, Scout Sixty Bobber 2025 como equivalente actual de acceso).
+  - triumph-bonneville-bobber-2024-ficha-tecnica-precio: 15995 -> 16695 € (precios oficiales Triumph España gama Bonneville 2026).
+  - ktm-125-duke-2024-ficha-tecnica-precio: 5599 -> 5299 € (prensa española + catálogo 2026; la 2026 sustituye a la 2024-2025).
+  - yamaha-mt-125-2024-ficha-tecnica-precio: 5399 -> 5499 € (MT-125 2025-2026 Euro5+ a 5.499 €, prensa española y tarifa de concesionario).
+  - gasgas-sm-700-2024-ficha-tecnica-precio: 10749 -> 10949 € (web oficial GASGAS España: "Precio Base: 10.949,00 EUR, IVA 21% incluido"; 10.749 € era el PVP de lanzamiento 2022).
+- NO APLICADOS hoy (propuestos por los verificadores pero rechazados por el coordinador por conflicto, fuente débil o alcance de versión; quedan pendientes, no son cambios):
+  - bmw-ix2-xdrive30-2026: 59.750 € en Capital 25/10/2026, pero Quadis aún lista 58.800 € y otra autonomía (449 km frente a 479 km): posible versión nueva, no solo cambio de tarifa; pendiente de configurador.
+  - kia-ceed-10-tgdi-2025: 25.445 € es el extremo bajo de la gama Ceed 2026 según Autonoción, pero la fuente mezcla Ceed/XCeed y no confirma que sea el "desde" de esta ficha.
+  - alfa-romeo-junior-elettrica-veloce-280: 46.092 € es "puede ascender hasta", no un "desde" (fuente evkx + prensa).
+  - suzuki-v-strom-800de-2024: 10.999 € como PVP recomendado 2026 según Motosan, pero otra fuente cita tarifas 11.899/12.479 € que no cuadran; conflicto sin resolver.
+  - yamaha-yzf-r7-2024: 10.499 € en prueba española de la R7 2026, pero sin confirmación en el configurador oficial Yamaha ES (mismo motivo que el rechazo del 31/10).
+  - zero-sr-f-2024: 21.090 € es tarifa de gama 2027; el catálogo 2026 aún lista 23.630 €; pendiente de confirmar vigencia en España.
+  - OJO pendiente del 30/10: la promo SYM ADXTG 400 (5.999 €) venció el 31/10/2026; su PVP de ficha sigue siendo 6.999 € y conviene re-verificarlo en el próximo radar por si la web oficial ya muestra otro precio.
+Confírmame por favor si estos 29 entran o si alguno no entra, y dime qué más quieres que haga. — Niky
