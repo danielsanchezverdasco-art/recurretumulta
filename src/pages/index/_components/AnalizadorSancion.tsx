@@ -4,7 +4,7 @@ import { useTranslation } from "react-i18next";
 import {
   Upload, FileText, Zap, Download, ChevronDown, ChevronUp,
   Check, AlertTriangle, MapPin, Hash, Euro, Calendar, User, CreditCard,
-  Lock, Shield, TrendingUp, Scale, Gavel, Mail, Ticket,
+  Lock, Shield, TrendingUp, Scale, Gavel, Mail, Ticket, Car,
 } from "lucide-react";
 import { Button } from "@/components/ui/button.tsx";
 import { Card, CardContent } from "@/components/ui/card.tsx";
@@ -16,8 +16,6 @@ import { useAction, useConvex } from "convex/react";
 import { api } from "@/convex/_generated/api.js";
 import { toast } from "sonner";
 
-// Pack 10 oculto hasta que exista el backend que consume los créditos (decisión de Daniel, 12/10/2026).
-const PACK10_VISIBLE = false;
 import { getAnonymousFingerprint, withAnalisisTimeout, AnalisisTimeoutError } from "@/lib/analisis-libre.ts";
 
 async function fileToBase64(file: File): Promise<string> {
@@ -226,16 +224,14 @@ function ViabilidadGauge({ value, nivel }: { value: number; nivel: "alta" | "med
   );
 }
 
-type DialogMode = "pdf_unico" | "pdf_pack_10" | "pack";
 type CodigoEstado = "idle" | "validando" | "valido" | "invalido";
 
-export default function AnalizadorSancion({ packToken }: { packToken?: string }) {
-  // El análisis es gratis y sin registro. packToken (opcional) viene del
-  // enlace personal del Pack 10 y permite generar recursos con sus créditos.
-  return <AnalizadorInner packToken={packToken} />;
+export default function AnalizadorSancion() {
+  // El análisis es gratis y sin registro. Lo único que se vende es el plan anual de 7,99 €.
+  return <AnalizadorInner />;
 }
 
-function AnalizadorInner({ packToken }: { packToken?: string }) {
+function AnalizadorInner() {
   const { t } = useTranslation("analyzer");
   const convex = useConvex();
   const [file, setFile] = useState<File | null>(null);
@@ -250,9 +246,10 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
   const [showInstrucciones, setShowInstrucciones] = useState(false);
   const fileInputRef = useRef<HTMLInputElement>(null);
 
-  // Diálogo de datos personales — se abre al pagar o al generar con el pack.
+  // Diálogo de datos personales — se abre al suscribirse al plan anual.
   const [datosDialogOpen, setDatosDialogOpen] = useState(false);
-  const [dialogMode, setDialogMode] = useState<DialogMode>("pdf_unico");
+  const [matriculas, setMatriculas] = useState("");
+  const [consentimiento, setConsentimiento] = useState(false);
   const [confirmando, setConfirmando] = useState(false);
 
   // Código de creador/colaborador (opcional)
@@ -261,12 +258,9 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
   const [creadorNombre, setCreadorNombre] = useState("");
   const [creadorCanal, setCreadorCanal] = useState("");
 
-  // Créditos restantes tras generar con el pack (null = aún no generado)
-  const [creditosRestantes, setCreditosRestantes] = useState<number | null>(null);
 
   const analizarSancion = useAction(api.sanciones.analizarSancion);
   const createCheckoutSinRegistro = useAction(api.payments.createCheckoutSinRegistro);
-  const usarCreditoPack = async (_: any) => ({ ok: false, carta: "", restantes: 0 }); // TODO: restaurar
 
   const emailValido = EMAIL_RE.test(email.trim());
   const datosCompletos = !!nombre && !!dni && !!domicilio && emailValido;
@@ -293,49 +287,40 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
     }
   };
 
-  const abrirDialogo = (mode: DialogMode) => {
-    setDialogMode(mode);
+  const abrirDialogo = () => {
     setDatosDialogOpen(true);
   };
 
-  // Confirmar datos: pago con Stripe o generar con crédito del pack.
+  // Confirmar datos: suscripción anual con Stripe.
   const handleConfirmarDatos = async () => {
-    if (!datosCompletos || !result || confirmando) return;
+    if (!datosCompletos || !consentimiento || !result || confirmando) return;
     setConfirmando(true);
     try {
+      const matriculasLista = matriculas.split(/[,;\s]+/).filter(Boolean);
       const datosJson = JSON.stringify({ datosDoc: result.datosSancion, defectos: result.defectos });
-      if (dialogMode === "pack") {
-        const r = await usarCreditoPack({
-          token: packToken!,
-          email: email.trim(),
-          nombre: nombre.trim(),
-          dni: dni.trim().toUpperCase(),
-          domicilio: domicilio.trim(),
-          tipo: "sancion",
-        });
-        setResult({ ...result, carta: r.carta });
-        setCreditosRestantes(r.restantes);
-        setDatosDialogOpen(false);
-        toast.success(t("toast.done"));
-      } else {
-        const producto = dialogMode === "pdf_pack_10" ? "pdf_pack_10" : "pdf_unico";
-        const { url } = await createCheckoutSinRegistro({
-          email: email.trim(),
-          nombre: nombre.trim(),
-          dni: dni.trim().toUpperCase(),
-          domicilio: domicilio.trim(),
-          tipo: "sancion",
-          importe: "",
-          carta: "",
-          expediente: "",
-          infraccion: "",
-          fecha: "",
-          plazoRecurso: "",
-        });
-        window.location.href = url;
-      }
+      const d = result.datosSancion;
+      // La carta debe ir rellena con los datos del cliente: el checkout la exige.
+      const carta = (result.carta ?? "")
+        .replace(/\[COMPLETAR:\s*Nombre y apellidos\]/gi, nombre.trim())
+        .replace(/\[COMPLETAR:\s*DNI\/NIE\]/gi, dni.trim().toUpperCase())
+        .replace(/\[COMPLETAR:\s*Domicilio( completo)?\]/gi, domicilio.trim());
+      const { url } = await createCheckoutSinRegistro({
+        email: email.trim(),
+        nombre: nombre.trim(),
+        dni: dni.trim().toUpperCase(),
+        domicilio: domicilio.trim(),
+        tipo: "sancion",
+        importe: d.importe,
+        carta,
+        expediente: d.expediente,
+        infraccion: d.infraccion,
+        fecha: d.fecha,
+        plazoRecurso: d.plazoRecurso,
+        matriculas: matriculasLista,
+      });
+      window.location.href = url;
     } catch {
-      toast.error(dialogMode === "pack" ? t("toast.errorPack") : t("toast.errorPayment"));
+      toast.error(t("toast.errorPayment"));
       setConfirmando(false);
     }
   };
@@ -379,10 +364,6 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
   };
 
   if (step === "processing") return <ScanAnimation />;
-
-  const descargarPdf = () => {
-    if (!result) return;
-  };
 
   const datosDialog = (
     <Dialog open={datosDialogOpen} onOpenChange={(open) => { if (!confirmando) setDatosDialogOpen(open); }}>
@@ -447,6 +428,17 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
           </div>
           <div className="space-y-1">
             <label className="text-xs font-bold text-gray-700 flex items-center gap-1">
+              <Car className="w-3 h-3 text-blue-600" /> {t("dialog.matriculas")}
+            </label>
+            <Input
+              placeholder={t("dialog.matriculasPlaceholder")}
+              value={matriculas}
+              onChange={(e) => setMatriculas(e.target.value.toUpperCase())}
+              className="text-sm h-10 font-medium rounded-xl border-2 border-gray-200 bg-gray-50"
+            />
+          </div>
+          <div className="space-y-1">
+            <label className="text-xs font-bold text-gray-700 flex items-center gap-1">
               <Ticket className="w-3 h-3 text-blue-600" /> {t("dialog.creatorCode")}
             </label>
             <div className="flex gap-2">
@@ -475,6 +467,20 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
               <p className="text-[11px] text-red-500 font-bold">{t("dialog.creatorInvalid")}</p>
             )}
           </div>
+          <label className="flex items-start gap-2 text-[11px] text-gray-600 leading-snug cursor-pointer">
+            <input
+              type="checkbox"
+              className="mt-0.5 shrink-0"
+              checked={consentimiento}
+              onChange={(e) => setConsentimiento(e.target.checked)}
+            />
+            <span>
+              {t("dialog.consent")}{" "}
+              <a href="/terminos" target="_blank" rel="noreferrer" className="underline">{t("dialog.terms")}</a>
+              {" · "}
+              <a href="/privacidad" target="_blank" rel="noreferrer" className="underline">{t("dialog.privacyLink")}</a>
+            </span>
+          </label>
           <p className="text-[10px] text-gray-400 flex items-center gap-1">
             <Lock className="w-3 h-3" /> {t("dialog.privacy")}
           </p>
@@ -483,12 +489,12 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
           <Button
             className="w-full font-black h-11 bg-blue-700 hover:bg-blue-800 text-white rounded-xl"
             onClick={handleConfirmarDatos}
-            disabled={!datosCompletos || confirmando}
+            disabled={!datosCompletos || !consentimiento || confirmando}
           >
             {confirmando ? (
-              <><Spinner className="mr-2" /> {dialogMode === "pack" ? t("dialog.generating") : t("dialog.redirecting")}</>
+              <><Spinner className="mr-2" /> {t("dialog.redirecting")}</>
             ) : (
-              <>{dialogMode === "pack" ? t("dialog.confirmPack") : t("dialog.confirm")}</>
+              <>{t("dialog.confirm")}</>
             )}
           </Button>
         </DialogFooter>
@@ -497,7 +503,6 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
   );
 
   if (step === "result" && result) {
-    const packGenerado = creditosRestantes !== null;
     // Si la IA no pudo extraer los datos clave, la foto/PDF probablemente no
     // se ve con nitidez: avisar al usuario en vez de mostrar "No encontrado".
     const faltan = (v: string) => !v || /no (encontrado|especificad[oa]|disponible)/i.test(v.trim());
@@ -593,7 +598,7 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
           </CardContent>
         </Card>
 
-        {/* PDF PAYWALL / PACK */}
+        {/* PLAN ANUAL (único plan) */}
         <Card className="border-2 border-blue-200 bg-gradient-to-br from-blue-50 to-indigo-50 overflow-hidden shadow-sm">
           <CardContent className="p-5 space-y-4">
             <div className="flex items-start gap-3">
@@ -601,20 +606,15 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
                 <FileText className="w-5 h-5 text-white" />
               </div>
               <div>
-                <p className="text-sm font-black text-gray-900">{packGenerado ? t("pack.title") : t("pdf.title")}</p>
-                <p className="text-xs text-gray-500 mt-0.5 leading-relaxed">
-                  {packGenerado
-                    ? t("pack.creditsLeft", { count: creditosRestantes })
-                    : t("pdf.freeAnalysisSancion")}
-                </p>
+                <p className="text-sm font-black text-gray-900">{t("plan.title")} — {t("plan.price")}</p>
+                <p className="text-xs text-gray-500 mt-0.5 leading-relaxed">{t("plan.intro")}</p>
               </div>
             </div>
             <ul className="space-y-1.5">
               {[
-                t("pdf.includesSancion.1"),
-                `${result.defectos.length} ${t("pdf.includesSancion.2")}`,
-                t("pdf.includesSancion.3"),
-                t("pdf.includesSancion.4"),
+                t("plan.includes.1"),
+                t("plan.includes.2"),
+                t("plan.includes.3"),
               ].map((b) => (
                 <li key={b} className="flex items-center gap-2 text-xs text-gray-700">
                   <Check className="w-3.5 h-3.5 text-blue-600 shrink-0" /> {b}
@@ -622,34 +622,17 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
               ))}
             </ul>
             <div className="space-y-2">
-              {packGenerado ? (
-                <Button className="w-full font-black h-12 text-base bg-green-600 hover:bg-green-700 text-white rounded-xl shadow-lg shadow-green-200"
-                  onClick={descargarPdf}>
-                  <Download className="w-4 h-4 mr-2" /> {t("pack.download")}
-                </Button>
-              ) : packToken ? (
-                <Button className="w-full font-black h-16 text-lg bg-blue-700 hover:bg-blue-800 text-white rounded-xl shadow-xl shadow-blue-200"
-                  onClick={() => abrirDialogo("pack")} disabled={confirmando}>
-                  <Download className="w-5 h-5 mr-2" /> {t("pack.generate")}
-                </Button>
-              ) : (
-                <>
-                  <Button className="w-full font-black h-16 text-lg bg-blue-700 hover:bg-blue-800 text-white rounded-xl shadow-xl shadow-blue-200"
-                    onClick={() => abrirDialogo("pdf_unico")} disabled={confirmando}>
-                    <Download className="w-5 h-5 mr-2" /> {t("pdf.download")}
-                  </Button>
-                  {PACK10_VISIBLE && (
-<Button variant="secondary"
-                    className="w-full font-bold h-10 text-sm rounded-xl border-2 border-blue-200 hover:border-blue-400 hover:bg-blue-50"
-                    onClick={() => abrirDialogo("pdf_pack_10")} disabled={confirmando}>
-                    {t("pdf.pack10Question")}
-                  </Button>
-)}
-                </>
-              )}
+              <Button
+                className="w-full font-black h-16 text-lg bg-blue-700 hover:bg-blue-800 text-white rounded-xl shadow-xl shadow-blue-200"
+                onClick={abrirDialogo}
+                disabled={confirmando}
+              >
+                <Download className="w-5 h-5 mr-2" />{t("plan.cta")}
+              </Button>
             </div>
+            <p className="text-xs font-semibold text-gray-700 text-center">{t("plan.noRecurrimos")}</p>
             <p className="text-xs text-gray-400 text-center">
-              {packGenerado ? t("dialog.privacy") : t("pdf.secureNote")}
+              {t("plan.secureNote")}
             </p>
           </CardContent>
         </Card>
@@ -669,15 +652,13 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
             {showCarta && (
               <motion.div initial={{ height: 0 }} animate={{ height: "auto" }} exit={{ height: 0 }} className="overflow-hidden">
                 <div className="relative px-4 pb-4 max-h-64 overflow-y-auto">
-                  <pre className={`text-xs text-muted-foreground whitespace-pre-wrap leading-relaxed font-sans ${packGenerado ? "" : "blur-[2px] select-none"}`}>{result.carta}</pre>
-                  {!packGenerado && (
-                    <div className="absolute bottom-0 left-0 right-0 h-28 bg-gradient-to-t from-white to-transparent flex items-end justify-center pb-4">
+                  <pre className={`text-xs text-muted-foreground whitespace-pre-wrap leading-relaxed font-sans blur-[2px] select-none`}>{result.carta}</pre>
+                  <div className="absolute bottom-0 left-0 right-0 h-28 bg-gradient-to-t from-white to-transparent flex items-end justify-center pb-4">
                       <Button size="sm" className="bg-blue-700 hover:bg-blue-800 text-white font-bold rounded-full px-5 text-xs shadow-md"
-                        onClick={() => abrirDialogo(packToken ? "pack" : "pdf_unico")} disabled={confirmando}>
-                        <Lock className="w-3 h-3 mr-1.5" />{packToken ? t("pack.generate") : t("preview.unlock")}
+                        onClick={abrirDialogo} disabled={confirmando}>
+                        <Lock className="w-3 h-3 mr-1.5" />{t("plan.unlock")}
                       </Button>
                     </div>
-                  )}
                 </div>
               </motion.div>
             )}
@@ -740,7 +721,7 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
         </Card>
 
         <Button variant="secondary" className="w-full text-xs"
-          onClick={() => { setStep("upload"); setFile(null); setResult(null); setShowCarta(false); setShowInstrucciones(false); setCreditosRestantes(null); }}>
+          onClick={() => { setStep("upload"); setFile(null); setResult(null); setShowCarta(false); setShowInstrucciones(false); }}>
           {t("button.analyzeAnotherSancion")}
         </Button>
         </motion.div>

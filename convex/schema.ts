@@ -43,6 +43,8 @@ export default defineSchema({
     // Opcional: en el flujo sin registro no hay usuario
     userId: v.optional(v.id("users")),
     stripeSessionId: v.string(),
+    // pdf_unico / pdf_pack_10 / vip_vitalicio: SOLO pagos históricos ya guardados (ya no se venden).
+    // Único producto a la venta: suscripcion_anual (7,99 €/año).
     producto: v.union(v.literal("pdf_unico"), v.literal("pdf_pack_10"), v.literal("vip_vitalicio"), v.literal("suscripcion_anual")),
     importe: v.number(),
     status: v.union(v.literal("pending"), v.literal("completed"), v.literal("failed")),
@@ -66,10 +68,42 @@ export default defineSchema({
     fecha: v.optional(v.string()),
     plazoRecurso: v.optional(v.string()),
     tipo: v.optional(v.union(v.literal("multa"), v.literal("sancion"))),
+    // Matrículas que el cliente quiere vigilar con el plan anual (opcional).
+    matriculas: v.optional(v.array(v.string())),
   })
     .index("by_user", ["userId"])
     .index("by_session", ["stripeSessionId"])
     .index("by_creador", ["codigoCreador"]),
+
+  // ── Suscriptores del plan anual de vigilancia de multas (7,99 €/año) ──
+  // Una fila por suscripción de Stripe. El estado lo mantienen los webhooks.
+  suscriptores: defineTable({
+    email: v.string(),
+    nombre: v.optional(v.string()),
+    // DNI/NIE y domicilio tal como los dio el cliente al contratar (para cruzar con el TEU del BOE).
+    // PENDIENTE antes de modo real: cifrar en reposo.
+    dni: v.optional(v.string()),
+    domicilio: v.optional(v.string()),
+    whatsapp: v.optional(v.string()),
+    matriculas: v.array(v.string()),
+    estado: v.union(v.literal("pendiente"), v.literal("activa"), v.literal("impagada"), v.literal("cancelada")),
+    // true = el cliente ha cancelado pero el servicio sigue hasta periodoHasta
+    cancelaAlFinal: v.boolean(),
+    periodoHasta: v.optional(v.number()),
+    canceladaEn: v.optional(v.number()),
+    stripeCustomerId: v.optional(v.string()),
+    stripeSubscriptionId: v.optional(v.string()),
+    stripeSessionId: v.optional(v.string()),
+    // Marca de tiempo (ms) del último evento Stripe aplicado: ignora eventos viejos fuera de orden.
+    ultimoEvento: v.number(),
+    livemode: v.optional(v.boolean()),
+    createdAt: v.string(),
+    updatedAt: v.string(),
+  })
+    .index("by_email", ["email"])
+    .index("by_subscription", ["stripeSubscriptionId"])
+    .index("by_session", ["stripeSessionId"])
+    .index("by_estado", ["estado"]),
 
   recursos: defineTable({
     userId: v.id("users"),

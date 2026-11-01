@@ -557,7 +557,7 @@ Las empresas titulares de flotas están obligadas a identificar al conductor en 
 
 ## Cómo presentar el recurso
 
-Sube la notificación a RecurreTuMulta.online, obtén el análisis gratuito con los argumentos específicos aplicables a tu caso y decide si quieres el PDF del recurso completo.
+Sube la notificación a RecurreTuMulta.online, obtén el análisis gratuito con los argumentos específicos aplicables a tu caso y decide si quieres el plan anual de 7,99 €/año (recurso preparado con guía paso a paso).
 
 ## Resumen de argumentos para recurrir
 
@@ -1959,7 +1959,7 @@ Las infracciones leves prescriben a los **3 meses**, las graves a los **6 meses*
 1. Sube el PDF o foto de tu boletín de denuncia
 2. La IA analiza todos los campos y detecta posibles vicios
 3. Recibes un informe gratuito con los argumentos de nulidad encontrados
-4. Si quieres presentar el recurso, generamos el PDF completo por **4,99 €**
+4. Si quieres presentar el recurso, te preparamos el recurso con guía paso a paso con el plan anual de **7,99 €/año** (no recurrimos en tu nombre)
 
 > Con una sola multa anulada te ahorras el equivalente a varios meses de gasolina.
 
@@ -2298,10 +2298,10 @@ Absolutamente. La relación coste-beneficio del recurso mejora cuanto mayor es l
 
 | Multa | Coste del recurso (RecurreTuMulta.online) | Ahorro si se anula | ROI |
 |---|---|---|---|
-| 100 € | 4,99 € (PDF) o 0 € (análisis) | 100 € | 2.000% |
-| 300 € | 4,99 € | 300 € | 6.012% |
-| 600 € | 4,99 € | 600 € | 12.024% |
-| 800 € | 4,99 € | 800 € | 16.032% |
+| 100 € | 7,99 €/año (plan anual) o 0 € (análisis) | 100 € | 1.251% |
+| 300 € | 7,99 €/año | 300 € | 3.754% |
+| 600 € | 7,99 €/año | 600 € | 7.509% |
+| 800 € | 7,99 €/año | 800 € | 10.013% |
 
 ### Los vicios de forma más frecuentes en 2026
 
@@ -2313,7 +2313,7 @@ Los mismos que en 2020, pero ahora con más peso porque las multas son más cara
 4. **Notificación fuera de plazo** — las administraciones locales son las más lentas
 5. **Error en la identificación del vehículo** — un dígito erróneo en la matrícula puede anular la multa
 
-> **RecurreTuMulta.online** analiza multas de España, Francia, Alemania y Portugal. El análisis de vicios de forma es gratuito. Solo pagas 4,99 € si quieres el PDF del recurso listo para presentar.
+> **RecurreTuMulta.online** analiza multas de España, Francia, Alemania y Portugal. El análisis de vicios de forma es gratuito. Solo pagas si quieres el plan anual de 7,99 €/año (recurso preparado con guía paso a paso).
 
 ---
 

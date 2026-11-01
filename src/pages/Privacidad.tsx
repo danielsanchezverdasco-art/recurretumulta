@@ -70,7 +70,7 @@ export default function PrivacidadPage() {
 
           <section>
             <h2 className="text-xl font-black text-gray-900">4. Finalidades del tratamiento</h2>
-            <p>Usamos tus datos para: (1) Prestarte el servicio de análisis de multas con IA. (2) Redactar tu recurso y enviártelo por email, junto con tu enlace personal de acceso al pack. (3) Gestionar tus pagos. (4) Enviarte comunicaciones sobre el servicio. (5) Cumplir nuestras obligaciones legales.</p>
+            <p>Usamos tus datos para: (1) Prestarte el servicio de análisis de multas con IA. (2) Preparar tu recurso y enviártelo por email, y avisarte de multas nuevas a tu nombre o matrícula con el plan anual. (3) Gestionar tus pagos y tu suscripción anual (renovación y cancelación). (4) Enviarte comunicaciones sobre el servicio. (5) Cumplir nuestras obligaciones legales.</p>
           </section>
 
           <section>

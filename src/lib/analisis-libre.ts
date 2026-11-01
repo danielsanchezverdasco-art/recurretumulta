@@ -25,7 +25,7 @@ export type PendingDownload = {
   nombre: string;
   dni: string;
   domicilio: string;
-  action: "pdf" | "pack10" | "gratis";
+  action: "suscripcion" | "gratis";
 };
 export function savePendingDownload(p: PendingDownload) {
   try { localStorage.setItem(PENDING_KEY, JSON.stringify(p)); } catch { /* noop */ }

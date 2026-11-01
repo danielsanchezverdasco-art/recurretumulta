@@ -163,9 +163,20 @@ export const sendRecursoPdfEmail = internalAction({
     const text = `
 ${saludo}
 
-Gracias por tu compra. Adjunto encontrarás el PDF de tu recurso de reposición, listo para firmar y presentar en la DGT o tu Ayuntamiento.
+Gracias por suscribirte al plan anual (7,99 €/año). Adjunto encontrarás el recurso preparado para tu multa.
 
 Expediente: ${args.expediente}
+
+GUÍA PASO A PASO PARA PRESENTARLO TÚ
+1. Revisa que tus datos y los de la multa son correctos.
+2. Imprime el PDF y fírmalo (o fírmalo con certificado digital).
+3. Preséntalo en la sede electrónica de la DGT, en el registro de tu Ayuntamiento o en una oficina de Correos (con acuse de recibo).
+4. Guarda el justificante de presentación.
+Comprueba el plazo que figura en la notificación de la multa.
+
+NO RECURRIMOS EN TU NOMBRE: dejamos todo listo para que tú solo tengas que enviarlo.
+
+Además, tu suscripción incluye alertas de multas nuevas a tu nombre o matrícula y el análisis de cada multa antes de que te llegue.
 
 RecurreTuMulta.online
 `.trim();
@@ -176,7 +187,7 @@ RecurreTuMulta.online
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Tu recurso PDF está listo</title>
+  <title>Tu recurso está listo</title>
 </head>
 <body style="margin:0;padding:0;background:#f4f4f5;font-family:system-ui,-apple-system,sans-serif;">
   <table width="100%" cellpadding="0" cellspacing="0" style="background:#f4f4f5;padding:32px 16px;">
@@ -186,17 +197,30 @@ RecurreTuMulta.online
           <td style="background:#dc2626;padding:24px 32px;text-align:center;">
             <p style="margin:0;font-size:11px;font-weight:700;letter-spacing:2px;color:rgba(255,255,255,0.7);text-transform:uppercase;">RecurreTuMulta.online</p>
             <h1 style="margin:8px 0 0;font-size:22px;font-weight:900;color:#ffffff;line-height:1.2;">¡Pago confirmado!</h1>
-            <p style="margin:6px 0 0;font-size:13px;color:rgba(255,255,255,0.85);">Tu recurso PDF va adjunto en este correo</p>
+            <p style="margin:6px 0 0;font-size:13px;color:rgba(255,255,255,0.85);">Tu recurso preparado va adjunto</p>
           </td>
         </tr>
         <tr>
           <td style="padding:28px 32px;">
             <p style="margin:0;font-size:15px;color:#111827;font-weight:700;">${saludo},</p>
-            <p style="margin:10px 0 0;font-size:14px;color:#374151;line-height:1.7;">Gracias por tu compra. Hemos adjuntado el PDF de tu recurso de reposición, ya redactado y listo para firmar y presentar en la DGT o tu Ayuntamiento.</p>
+            <p style="margin:10px 0 0;font-size:14px;color:#374151;line-height:1.7;">Gracias por suscribirte al plan anual (7,99 €/año). Hemos adjuntado el recurso preparado para tu multa.</p>
             <div style="margin-top:16px;background:#fafafa;border:1px solid #f3f4f6;border-radius:12px;padding:12px 16px;">
               <p style="margin:0;font-size:12px;color:#6b7280;font-weight:600;">Expediente</p>
               <p style="margin:2px 0 0;font-size:14px;color:#111827;font-weight:700;">${expediente}</p>
             </div>
+            <p style="margin:18px 0 6px;font-size:13px;font-weight:800;color:#111827;">Guía paso a paso para presentarlo tú</p>
+            <ol style="margin:0;padding-left:20px;font-size:13px;color:#374151;line-height:1.7;">
+              <li>Revisa que tus datos y los de la multa son correctos.</li>
+              <li>Imprime el PDF y fírmalo (o fírmalo con certificado digital).</li>
+              <li>Preséntalo en la sede electrónica de la DGT, en el registro de tu Ayuntamiento o en una oficina de Correos (con acuse de recibo).</li>
+              <li>Guarda el justificante de presentación.</li>
+            </ol>
+            <p style="margin:8px 0 0;font-size:12px;color:#6b7280;line-height:1.6;">Comprueba el plazo que figura en la notificación de la multa.</p>
+            <div style="margin-top:16px;background:#fff7ed;border:1px solid #fed7aa;border-radius:12px;padding:12px 16px;">
+              <p style="margin:0;font-size:13px;font-weight:800;color:#9a3412;">No recurrimos en tu nombre</p>
+              <p style="margin:4px 0 0;font-size:12px;color:#7c2d12;line-height:1.5;">Dejamos todo listo para que tú solo tengas que enviarlo.</p>
+            </div>
+            <p style="margin:16px 0 0;font-size:12px;color:#6b7280;line-height:1.6;">Tu suscripción también incluye alertas de multas nuevas a tu nombre o matrícula y el análisis de cada multa antes de que te llegue.</p>
           </td>
         </tr>
         <tr>
@@ -215,7 +239,7 @@ RecurreTuMulta.online
       await getResend().emails.send({
         from: FROM,
         to: args.to,
-        subject: `Tu recurso PDF está listo — RecurreTuMulta.online`,
+        subject: `Tu recurso está listo — suscripción anual — RecurreTuMulta.online`,
         html,
         text,
         attachments: [

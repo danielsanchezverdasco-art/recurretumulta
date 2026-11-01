@@ -20,7 +20,7 @@ export default function VerificadorPago() {
       verifySessionSinRegistro({ sessionId }).
       then((result) => {
         if (result.ok) {
-          toast.success("¡Pago completado! Te hemos enviado el PDF a tu email.", { duration: 8000 });
+          toast.success("¡Suscripción activada! Te hemos enviado tu recurso por email.", { duration: 8000 });
         }
       }).
       catch(() => {

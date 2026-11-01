@@ -49,21 +49,21 @@ export default function TerminosPage() {
 
           <section>
             <h2 className="text-xl font-black text-gray-900">2. Sin registro: acceso al servicio</h2>
-            <p>RecurreTuMulta.online no requiere crear una cuenta ni usar contraseñas. El análisis de tu multa con IA es gratuito y no necesitas registrarte. Cuando adquieres el recurso PDF (4,99 €), te pedimos los datos necesarios para redactarlo (nombre completo, DNI/NIE y domicilio) y una dirección de correo electrónico a la que enviártelo. El acceso a tu pack de recursos se realiza mediante el enlace personal que te enviamos por email.</p>
+            <p>RecurreTuMulta.online no requiere crear una cuenta ni usar contraseñas. El análisis de tu multa con IA es gratuito y no necesitas registrarte. Cuando te suscribes al plan anual (7,99 €/año), te pedimos los datos necesarios para preparar tu recurso (nombre completo, DNI/NIE y domicilio), una dirección de correo electrónico a la que enviártelo y, si quieres, las matrículas que quieres vigilar. Te enviamos el recurso por email.</p>
           </section>
 
           <section>
             <h2 className="text-xl font-black text-gray-900">3. Precios y pagos</h2>
             <ul className="list-disc pl-5 space-y-1">
               <li><strong>Análisis con IA:</strong> Siempre gratuito. Incluye viabilidad %, defectos detectados y resumen.</li>
-              <li><strong>Asistente de multas (suscripción anual):</strong> 7,99 € al año, IVA incluido. Incluye vigilancia, avisos, análisis y los recursos en PDF del año. Se renueva cada año salvo que la canceles antes de la renovación. El análisis de una multa sigue siendo gratis.</li>
+              <li><strong>Plan anual de vigilancia de multas (único plan de pago):</strong> 7,99 € al año, IVA incluido. Incluye (a) alertas de multas nuevas a tu nombre o matrícula, (b) el análisis de cada multa antes de que te llegue, para no perder ni un día de plazo, y (c) el recurso preparado con una guía paso a paso para que lo envíes tú mismo. No recurrimos en tu nombre: lo dejamos todo listo para que tú solo tengas que enviarlo. Se renueva automáticamente cada año salvo que canceles antes de la renovación. El análisis de una multa sigue siendo gratis.</li>
             </ul>
-            <p>Los pagos se procesan de forma segura a través de Stripe. Emitimos factura por cada compra.</p>
+            <p>Los pagos se procesan de forma segura a través de Stripe. Emitimos factura por cada cobro.</p>
           </section>
 
           <section>
             <h2 className="text-xl font-black text-gray-900">4. Política de reembolso</h2>
-            <p>Ofrecemos reembolso completo si el análisis de tu multa no detecta ningún defecto ni genera ningún argumento útil. Puedes solicitarlo en los 14 días posteriores a la compra escribiendo a <a href="mailto:soporte@recurretumulta.online" className="text-red-600 underline">soporte@recurretumulta.online</a>. El reembolso no aplica si el recurso generado fue descargado y presentado.</p>
+            <p>Ofrecemos reembolso completo si el análisis de tu multa no detecta ningún defecto ni genera ningún argumento útil. Puedes solicitarlo en los 14 días posteriores a la compra escribiendo a <a href="mailto:soporte@recurretumulta.online" className="text-red-600 underline">soporte@recurretumulta.online</a>. El reembolso no aplica si ya has presentado el recurso preparado.</p>
           </section>
 
           <section>

@@ -22,7 +22,7 @@ const FAQS = [
   },
   {
     q: "¿Puedo analizar gratis y luego decidir?",
-    a: "Sí, y es lo que recomendamos: analiza tu multa gratis con la IA, mira la viabilidad que detecta, y con esa información decides si generas el recurso (4,99 €), si vas a un abogado, o si te compensa pagar con descuento. La información primero, el dinero después.",
+    a: "Sí, y es lo que recomendamos: analiza tu multa gratis con la IA, mira la viabilidad que detecta, y con esa información decides si te suscribes al plan anual de 7,99 €/año para tener el recurso preparado con su guía, si vas a un abogado, o si te compensa pagar con descuento. La información primero, el dinero después.",
   },
   {
     q: "¿Cuánto cobra un abogado o un gestor por recurrir una multa?",
@@ -33,7 +33,7 @@ const FAQS = [
 const COMPARATIVA = [
   {
     aspecto: "Coste",
-    ia: "Análisis gratis · Recurso 4,99 €",
+    ia: "Análisis gratis · Plan anual 7,99 €/año",
     abogado: "Presupuesto variable según el profesional y la complejidad del caso",
     gestor: "Presupuesto variable según el profesional y la complejidad del caso",
   },
@@ -72,7 +72,7 @@ const COMPARATIVA = [
 const POR_CASO = [
   {
     caso: "Multa de 200 € con posible defecto de forma",
-    recomendacion: "Analiza gratis con IA. Si detecta viabilidad, genera el recurso por 4,99 €.",
+    recomendacion: "Analiza gratis con IA. Si detecta viabilidad, suscríbete al plan anual de 7,99 €/año y te dejamos el recurso preparado para que lo envíes tú.",
   },
   {
     caso: "No sabes si la multa es recurrible",
@@ -99,7 +99,7 @@ const jsonLd = {
       "@type": "WebPage",
       "name": "Analizar tu multa con IA vs abogado vs gestor: comparativa honesta",
       "url": "https://recurretumulta.online/comparativa",
-      "description": "Comparativa honesta: cuándo compensa analizar tu multa con IA (4,99 €), cuándo necesitas un abogado y cuándo un gestor. Costes, tiempos y casos reales.",
+      "description": "Comparativa honesta: cuándo compensa analizar tu multa con IA (gratis; plan anual 7,99 €/año), cuándo necesitas un abogado y cuándo un gestor. Costes, tiempos y casos reales.",
       "inLanguage": "es-ES",
     },
     {

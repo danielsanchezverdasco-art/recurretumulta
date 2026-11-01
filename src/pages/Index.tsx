@@ -418,7 +418,7 @@ function re() {
                         className: `mt-2 inline-flex items-center gap-1.5 text-xs font-semibold text-red-700`,
                         children: [
                           (0, B.jsx)(L, { className: `w-3.5 h-3.5` }),
-                          `Analizar la mía gratis (PDF 4,99 €)`,
+                          `Analizar la mía gratis`,
                         ],
                       }),
                     ],
@@ -544,7 +544,7 @@ var X = (0, z.lazy)(() =>
     },
     {
       title: `Cómo recurrir una multa DGT paso a paso`,
-      content: `1. Recibes la notificación de la multa. 2. Tienes 20 días naturales para pagar con el 50% de descuento O para presentar alegaciones — son incompatibles. 3. Sube la multa a RecurreTuMulta.online y obtén el análisis gratuito con los argumentos legales. 4. Si quieres el PDF listo para firmar, genéralo por 4,99€. 5. Firma el documento y envíalo al órgano que impuso la sanción: por la Sede Electrónica de la DGT (sede.dgt.gob.es) con certificado digital o Cl@ve, por correo certificado o presencialmente. 6. La DGT tiene 1 mes para resolver. Si no contesta, se entiende desestimado (silencio administrativo negativo). 7. Si se desestima, puedes acudir a la vía contencioso-administrativa.`,
+      content: `1. Recibes la notificación de la multa. 2. Tienes 20 días naturales para pagar con el 50% de descuento O para presentar alegaciones — son incompatibles. 3. Sube la multa a RecurreTuMulta.online y obtén el análisis gratuito con los argumentos legales. 4. Si quieres el recurso preparado, con una guía paso a paso, y que vigilemos tus multas nuevas, suscríbete al plan anual de 7,99 €/año (no recurrimos en tu nombre: te lo dejamos listo). 5. Firma el documento y envíalo al órgano que impuso la sanción: por la Sede Electrónica de la DGT (sede.dgt.gob.es) con certificado digital o Cl@ve, por correo certificado o presencialmente. 6. La DGT tiene 1 mes para resolver. Si no contesta, se entiende desestimado (silencio administrativo negativo). 7. Si se desestima, puedes acudir a la vía contencioso-administrativa.`,
     },
     {
       title: `Recurrir multa de radar: argumentos clave`,
@@ -732,7 +732,7 @@ function $() {
         applicationCategory: `LegalService`,
         operatingSystem: `Web`,
         url: `https://recurretumulta.online/`,
-        description: `Herramienta de inteligencia artificial para recurrir multas de tráfico DGT gratis en España. Análisis gratuito, recurso PDF por 4,99€.`,
+        description: `Herramienta de inteligencia artificial para recurrir multas de tráfico DGT en España. Análisis gratuito y plan anual de vigilancia de multas por 7,99 €/año.`,
         offers: [
           {
             "@type": `Offer`,
@@ -744,11 +744,18 @@ function $() {
           },
           {
             "@type": `Offer`,
-            name: `Recurso PDF`,
-            price: `4.99`,
+            name: `Plan anual de vigilancia de multas`,
+            price: `7.99`,
             priceCurrency: `EUR`,
             availability: "https://schema.org/InStock",
-            description: `PDF del recurso de reposición listo para firmar y presentar`,
+            priceSpecification: {
+              "@type": `UnitPriceSpecification`,
+              price: `7.99`,
+              priceCurrency: `EUR`,
+              billingDuration: `P1Y`,
+              unitCode: `ANN`,
+            },
+            description: `Suscripción anual: alertas de multas nuevas, análisis de cada multa antes de que llegue y recurso preparado con guía paso a paso. No recurrimos en nombre del cliente.`,
           },
         ],
       },
@@ -761,7 +768,7 @@ function $() {
             name: `¿Es realmente gratis el análisis?`,
             acceptedAnswer: {
               "@type": `Answer`,
-              text: `Sí, 100% gratis y sin trampa. Subes tu multa, la IA la analiza y te dice qué argumentos tienes, qué probabilidad de éxito hay y cómo presentar el recurso. Sin registrarte, sin tarjeta bancaria. Solo pagas si quieres el PDF listo para firmar (4,99€) — y eso es completamente opcional.`,
+              text: `Sí, 100% gratis y sin trampa. Subes tu multa, la IA la analiza y te dice qué argumentos tienes, qué probabilidad de éxito hay y cómo presentar el recurso. Sin registrarte, sin tarjeta bancaria. Solo pagas si quieres el plan anual de 7,99 €/año (alertas de multas nuevas, análisis previo y recurso preparado con guía paso a paso); es completamente opcional y no recurrimos en tu nombre.`,
             },
           },
           {
@@ -1023,7 +1030,7 @@ function $() {
                     }),
                   (0, B.jsx)(`p`, {
                     className: `text-xs text-gray-600 bg-amber-50 border border-amber-200 rounded-xl p-3 text-center mt-2`,
-                    children: `Aviso: el analizador es una herramienta informativa con IA. No es asesoramiento jurídico ni garantiza que la multa se anule; consulta con un abogado si tu caso lo requiere. El análisis es gratis; el recurso en PDF cuesta 4,99 € (opcional).`,
+                    children: `Aviso: el analizador es una herramienta informativa con IA. No es asesoramiento jurídico ni garantiza que la multa se anule; consulta con un abogado si tu caso lo requiere. El análisis es gratis; el plan anual cuesta 7,99 €/año (opcional).`,
                   }),
                 ],
               }),
@@ -1423,31 +1430,30 @@ function $() {
                               children: [
                                 (0, B.jsx)(`span`, {
                                   className: `font-black text-gray-900`,
-                                  children: e(`pricing.pdf.title`),
+                                  children: e(`pricing.plan.title`),
                                 }),
                                 (0, B.jsx)(A, {
                                   className: `bg-gray-100 text-gray-600 border-0 text-xs font-bold`,
-                                  children: e(`pricing.pdf.badge`),
+                                  children: e(`pricing.plan.badge`),
                                 }),
                               ],
                             }),
                             (0, B.jsxs)(`p`, {
                               className: `text-3xl font-black text-gray-900`,
                               children: [
-                                `4,99€ `,
+                                `7,99€ `,
                                 (0, B.jsx)(`span`, {
                                   className: `text-base font-normal text-gray-400`,
-                                  children: e(`pricing.pdf.perUnit`),
+                                  children: e(`pricing.plan.perUnit`),
                                 }),
                               ],
                             }),
                             (0, B.jsx)(`ul`, {
                               className: `space-y-2 text-xs text-gray-500`,
                               children: [
-                                e(`pricing.pdf.f1`),
-                                e(`pricing.pdf.f2`),
-                                e(`pricing.pdf.f3`),
-                                e(`pricing.pdf.f4`),
+                                e(`pricing.plan.f1`),
+                                e(`pricing.plan.f2`),
+                                e(`pricing.plan.f3`),
                               ].map((e) =>
                                 (0, B.jsxs)(
                                   `li`,
@@ -1464,61 +1470,15 @@ function $() {
                                 ),
                               ),
                             }),
+                            (0, B.jsx)(`p`, {
+                              className: `text-xs font-bold text-gray-800`,
+                              children: e(`pricing.plan.noRecurrimos`),
+                            }),
+                            (0, B.jsx)(`p`, {
+                              className: `text-[11px] text-gray-400`,
+                              children: e(`pricing.plan.renewal`),
+                            }),
                           ],
-                        }),
-                      }),
-                      (0, B.jsx)(S, {
-                        to: `/empresas`,
-                        children: (0, B.jsx)(O, {
-                          className: `border-2 border-gray-800 shadow-sm hover:shadow-md transition-shadow cursor-pointer`,
-                          children: (0, B.jsxs)(D, {
-                            className: `p-5 flex items-center justify-between gap-4`,
-                            children: [
-                              (0, B.jsxs)(`div`, {
-                                className: `space-y-0.5`,
-                                children: [
-                                  (0, B.jsxs)(`div`, {
-                                    className: `flex items-center gap-2`,
-                                    children: [
-                                      (0, B.jsx)(l, {
-                                        className: `w-4 h-4 text-gray-700`,
-                                      }),
-                                      (0, B.jsx)(`span`, {
-                                        className: `font-black text-gray-900 text-sm`,
-                                        children: `Plan Empresas`,
-                                      }),
-                                      (0, B.jsx)(A, {
-                                        className: `bg-gray-900 text-white border-0 text-[10px] font-bold`,
-                                        children: `FLOTA`,
-                                      }),
-                                    ],
-                                  }),
-                                  (0, B.jsx)(`p`, {
-                                    className: `text-xs text-gray-500`,
-                                    children: `Recursos ilimitados · Asistencia prioritaria · Sin colas`,
-                                  }),
-                                ],
-                              }),
-                              (0, B.jsxs)(`div`, {
-                                className: `text-right shrink-0`,
-                                children: [
-                                  (0, B.jsxs)(`p`, {
-                                    className: `text-xl font-black text-gray-900`,
-                                    children: [
-                                      `70€`,
-                                      (0, B.jsx)(`span`, {
-                                        className: `text-xs font-normal text-gray-400`,
-                                        children: `/mes`,
-                                      }),
-                                    ],
-                                  }),
-                                  (0, B.jsx)(o, {
-                                    className: `w-4 h-4 text-gray-400 ml-auto mt-1`,
-                                  }),
-                                ],
-                              }),
-                            ],
-                          }),
                         }),
                       }),
                     ],
@@ -1787,7 +1747,7 @@ function $() {
                   [
                     {
                       q: `¿Es realmente gratis el análisis?`,
-                      a: `Sí, 100% gratis y sin trampa. Subes tu multa, la IA la analiza y te dice qué argumentos tienes, qué probabilidad de éxito hay y cómo presentar el recurso. Sin registrarte, sin tarjeta bancaria. Solo pagas si quieres el PDF listo para firmar (4,99€) — y eso es completamente opcional.`,
+                      a: `Sí, 100% gratis y sin trampa. Subes tu multa, la IA la analiza y te dice qué argumentos tienes, qué probabilidad de éxito hay y cómo presentar el recurso. Sin registrarte, sin tarjeta bancaria. Solo pagas si quieres el plan anual de 7,99 €/año (alertas de multas nuevas, análisis previo y recurso preparado con guía paso a paso); es completamente opcional y no recurrimos en tu nombre.`,
                     },
                     {
                       q: `¿Qué pasa si mi multa no se puede recurrir?`,

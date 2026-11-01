@@ -16,8 +16,6 @@ import { useAction, useConvex, useQuery } from "convex/react";
 import { api } from "@/convex/_generated/api.js";
 import { toast } from "sonner";
 
-// Pack 10 oculto hasta que exista el backend que consume los créditos (decisión de Daniel, 12/10/2026).
-const PACK10_VISIBLE = false;
 import { getAnonymousFingerprint, withAnalisisTimeout, AnalisisTimeoutError } from "@/lib/analisis-libre.ts";
 
 // Convierte un File a base64 puro (sin prefijo data:...)
@@ -143,10 +141,9 @@ function gravedadStyle(g: "alta" | "media" | "baja") {
   return map[g];
 }
 
-export default function AnalizadorMulta({ packToken }: { packToken?: string }) {
-  // El análisis es gratis y sin registro. packToken (opcional) viene del
-  // enlace personal del Pack 10 y permite generar recursos con sus créditos.
-  return <AnalizadorInner packToken={packToken} />;
+export default function AnalizadorMulta() {
+  // El análisis es gratis y sin registro. Lo único que se vende es el plan anual de 7,99 €.
+  return <AnalizadorInner />;
 }
 
 function ViabilidadGauge({ value, nivel }: { value: number; nivel: "alta" | "media" | "baja" }) {
@@ -438,10 +435,9 @@ function ScanAnimation({ progresoId, conPruebas }: { progresoId: string; conPrue
   );
 }
 
-type DialogMode = "pdf_unico" | "pdf_pack_10" | "pack";
 type CodigoEstado = "idle" | "validando" | "valido" | "invalido";
 
-function AnalizadorInner({ packToken }: { packToken?: string }) {
+function AnalizadorInner() {
   const { t } = useTranslation("analyzer");
   const convex = useConvex();
   const [file, setFile] = useState<File | null>(null);
@@ -461,9 +457,10 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
   const [showInstrucciones, setShowInstrucciones] = useState(false);
   const fileInputRef = useRef<HTMLInputElement>(null);
 
-  // Diálogo de datos personales — se abre al pagar o al generar con el pack.
+  // Diálogo de datos personales — se abre al suscribirse al plan anual.
   const [datosDialogOpen, setDatosDialogOpen] = useState(false);
-  const [dialogMode, setDialogMode] = useState<DialogMode>("pdf_unico");
+  const [matriculas, setMatriculas] = useState("");
+  const [consentimiento, setConsentimiento] = useState(false);
   const [confirmando, setConfirmando] = useState(false);
 
   // Código de creador/colaborador (opcional)
@@ -472,13 +469,10 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
   const [creadorNombre, setCreadorNombre] = useState("");
   const [creadorCanal, setCreadorCanal] = useState("");
 
-  // Créditos restantes tras generar con el pack (null = aún no generado)
-  const [creditosRestantes, setCreditosRestantes] = useState<number | null>(null);
 
   const analizarMulta = useAction(api.multas.analizarMulta);
   const regenerarCarta = useAction(api.multas.regenerarCartaMulta);
   const createCheckoutSinRegistro = useAction(api.payments.createCheckoutSinRegistro);
-  const usarCreditoPack = async (_: any) => ({ ok: false, carta: "", restantes: 0 }); // TODO: restaurar
 
   const emailValido = EMAIL_RE.test(email.trim());
   const datosCompletos = !!nombre && !!dni && !!domicilio && emailValido;
@@ -505,67 +499,52 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
     }
   };
 
-  const abrirDialogo = (mode: DialogMode) => {
-    setDialogMode(mode);
+  const abrirDialogo = () => {
     setDatosDialogOpen(true);
   };
 
-  // Confirmar datos: pago con Stripe o generar con crédito del pack.
+  // Confirmar datos: suscripción anual con Stripe.
   const handleConfirmarDatos = async () => {
-    if (!datosCompletos || !result || confirmando) return;
+    if (!datosCompletos || !consentimiento || !result || confirmando) return;
     setConfirmando(true);
     try {
+      const matriculasLista = matriculas.split(/[,;\s]+/).filter(Boolean);
       const datosJson = JSON.stringify({ datosDoc: result.datosMulta, defectos: result.defectos });
-      if (dialogMode === "pack") {
-        const r = await usarCreditoPack({
-          token: packToken!,
-          email: email.trim(),
-          nombre: nombre.trim(),
-          dni: dni.trim().toUpperCase(),
-          domicilio: domicilio.trim(),
-          tipo: "multa",
-        });
-        setResult({ ...result, carta: conAnexo(r.carta, result.anexoPruebas) });
-        setCreditosRestantes(r.restantes);
-        setDatosDialogOpen(false);
-        toast.success(t("toast.done"));
-      } else {
-        const producto = dialogMode === "pdf_pack_10" ? "pdf_pack_10" : "pdf_unico";
-        // 13/10/2026: el checkout exige la carta (antes se mandaba vacía y el pago fallaba siempre).
-        const d = result.datosMulta;
-        const cartaBase = result.carta ?? "";
-        let carta: string;
-        try {
-          ({ carta } = await regenerarCarta({
-            provincia: d.provincia, expediente: d.expediente, importe: d.importe, infraccion: d.infraccion, fecha: d.fecha,
-            defectos: result.defectos.map((x) => ({ titulo: x.titulo, descripcion: x.descripcion, gravedad: x.gravedad })),
-            nombreRecurrente: nombre.trim(), dniRecurrente: dni.trim().toUpperCase(), domicilioRecurrente: domicilio.trim(),
-            cartaBase,
-          }));
-        } catch {
-          carta = cartaBase
-            .replace(/\[COMPLETAR:\s*Nombre y apellidos\]/gi, nombre.trim())
-            .replace(/\[COMPLETAR:\s*DNI\/NIE\]/gi, dni.trim().toUpperCase())
-            .replace(/\[COMPLETAR:\s*Domicilio( completo)?\]/gi, domicilio.trim());
-        }
-        carta = conAnexo(carta, result.anexoPruebas);
-        const { url } = await createCheckoutSinRegistro({
-          email: email.trim(),
-          nombre: nombre.trim(),
-          dni: dni.trim().toUpperCase(),
-          domicilio: domicilio.trim(),
-          tipo: "multa",
-          importe: d.importe,
-          carta,
-          expediente: d.expediente,
-          infraccion: d.infraccion,
-          fecha: d.fecha,
-          plazoRecurso: d.plazoRecurso,
-        });
-        window.location.href = url;
+      // 13/10/2026: el checkout exige la carta (antes se mandaba vacía y el pago fallaba siempre).
+      const d = result.datosMulta;
+      const cartaBase = result.carta ?? "";
+      let carta: string;
+      try {
+        ({ carta } = await regenerarCarta({
+          provincia: d.provincia, expediente: d.expediente, importe: d.importe, infraccion: d.infraccion, fecha: d.fecha,
+          defectos: result.defectos.map((x) => ({ titulo: x.titulo, descripcion: x.descripcion, gravedad: x.gravedad })),
+          nombreRecurrente: nombre.trim(), dniRecurrente: dni.trim().toUpperCase(), domicilioRecurrente: domicilio.trim(),
+          cartaBase,
+        }));
+      } catch {
+        carta = cartaBase
+          .replace(/\[COMPLETAR:\s*Nombre y apellidos\]/gi, nombre.trim())
+          .replace(/\[COMPLETAR:\s*DNI\/NIE\]/gi, dni.trim().toUpperCase())
+          .replace(/\[COMPLETAR:\s*Domicilio( completo)?\]/gi, domicilio.trim());
       }
+      carta = conAnexo(carta, result.anexoPruebas);
+      const { url } = await createCheckoutSinRegistro({
+        email: email.trim(),
+        nombre: nombre.trim(),
+        dni: dni.trim().toUpperCase(),
+        domicilio: domicilio.trim(),
+        tipo: "multa",
+        matriculas: matriculasLista,
+        importe: d.importe,
+        carta,
+        expediente: d.expediente,
+        infraccion: d.infraccion,
+        fecha: d.fecha,
+        plazoRecurso: d.plazoRecurso,
+      });
+      window.location.href = url;
     } catch {
-      toast.error(dialogMode === "pack" ? t("toast.errorPack") : t("toast.errorPayment"));
+      toast.error(t("toast.errorPayment"));
       setConfirmando(false);
     }
   };
@@ -639,26 +618,6 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
     return <ScanAnimation progresoId={progresoId} conPruebas={pruebas.length > 0} />;
   }
 
-  const descargarPdf = async () => {
-    if (!result?.carta) return;
-    // jsPDF se carga solo al pulsar (no pesa en la carga inicial).
-    const { jsPDF } = await import("jspdf");
-    const doc = new jsPDF({ unit: "mm", format: "a4" });
-    const margen = 20, ancho = 170, alto = 297, linea = 5.2;
-    doc.setFont("helvetica", "normal");
-    doc.setFontSize(10.5);
-    let y = margen;
-    for (const parrafo of result.carta.replace(/\r/g, "").split("\n")) {
-      const lineas = parrafo.trim() ? doc.splitTextToSize(parrafo, ancho) : [""];
-      for (const l of lineas) {
-        if (y > alto - margen) { doc.addPage(); y = margen; }
-        doc.text(l, margen, y);
-        y += linea;
-      }
-    }
-    doc.save("recurso-multa.pdf");
-  };
-
   const datosDialog = (
     <Dialog open={datosDialogOpen} onOpenChange={(open) => { if (!confirmando) setDatosDialogOpen(open); }}>
       <DialogContent>
@@ -722,6 +681,17 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
           </div>
           <div className="space-y-1">
             <label className="text-xs font-bold text-gray-700 flex items-center gap-1">
+              <Car className="w-3 h-3 text-red-500" /> {t("dialog.matriculas")}
+            </label>
+            <Input
+              placeholder={t("dialog.matriculasPlaceholder")}
+              value={matriculas}
+              onChange={(e) => setMatriculas(e.target.value.toUpperCase())}
+              className="text-sm h-10 font-medium rounded-xl border-2 border-gray-200 bg-gray-50"
+            />
+          </div>
+          <div className="space-y-1">
+            <label className="text-xs font-bold text-gray-700 flex items-center gap-1">
               <Ticket className="w-3 h-3 text-red-500" /> {t("dialog.creatorCode")}
             </label>
             <div className="flex gap-2">
@@ -750,6 +720,20 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
               <p className="text-[11px] text-red-500 font-bold">{t("dialog.creatorInvalid")}</p>
             )}
           </div>
+          <label className="flex items-start gap-2 text-[11px] text-gray-600 leading-snug cursor-pointer">
+            <input
+              type="checkbox"
+              className="mt-0.5 shrink-0"
+              checked={consentimiento}
+              onChange={(e) => setConsentimiento(e.target.checked)}
+            />
+            <span>
+              {t("dialog.consent")}{" "}
+              <a href="/terminos" target="_blank" rel="noreferrer" className="underline">{t("dialog.terms")}</a>
+              {" · "}
+              <a href="/privacidad" target="_blank" rel="noreferrer" className="underline">{t("dialog.privacyLink")}</a>
+            </span>
+          </label>
           <p className="text-[10px] text-gray-400 flex items-center gap-1">
             <Lock className="w-3 h-3" /> {t("dialog.privacy")}
           </p>
@@ -758,12 +742,12 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
           <Button
             className="w-full font-black h-11 bg-red-600 hover:bg-red-700 text-white rounded-xl"
             onClick={handleConfirmarDatos}
-            disabled={!datosCompletos || confirmando}
+            disabled={!datosCompletos || !consentimiento || confirmando}
           >
             {confirmando ? (
-              <><Spinner className="mr-2" /> {dialogMode === "pack" ? t("dialog.generating") : t("dialog.redirecting")}</>
+              <><Spinner className="mr-2" /> {t("dialog.redirecting")}</>
             ) : (
-              <>{dialogMode === "pack" ? t("dialog.confirmPack") : t("dialog.confirm")}</>
+              <>{t("dialog.confirm")}</>
             )}
           </Button>
         </DialogFooter>
@@ -772,7 +756,6 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
   );
 
   if (step === "result" && result) {
-    const packGenerado = creditosRestantes !== null;
     // Si la IA no pudo extraer los datos clave, la foto/PDF probablemente no
     // se ve con nitidez: avisar al usuario en vez de mostrar "No encontrado".
     const faltan = (v: string) => !v || /no (encontrado|especificad[oa]|disponible)/i.test(v.trim());
@@ -888,7 +871,7 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
           </CardContent>
         </Card>
 
-        {/* ── PDF PAYWALL / PACK ── */}
+        {/* ── PLAN ANUAL (único plan) ── */}
         <Card className="border-2 border-red-200 bg-gradient-to-br from-red-50 to-orange-50 overflow-hidden shadow-sm">
           <CardContent className="p-5 space-y-4">
             <div className="flex items-start gap-3">
@@ -896,22 +879,17 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
                 <FileText className="w-5 h-5 text-white" />
               </div>
               <div>
-                <p className="text-sm font-black text-gray-900">{packGenerado ? t("pack.title") : t("pdf.title")}</p>
-                <p className="text-xs text-gray-500 mt-0.5 leading-relaxed">
-                  {packGenerado
-                    ? t("pack.creditsLeft", { count: creditosRestantes })
-                    : t("pdf.freeAnalysisMulta")}
-                </p>
+                <p className="text-sm font-black text-gray-900">{t("plan.title")} — {t("plan.price")}</p>
+                <p className="text-xs text-gray-500 mt-0.5 leading-relaxed">{t("plan.intro")}</p>
               </div>
             </div>
 
             {/* What's included */}
             <ul className="space-y-1.5">
               {[
-                t("pdf.includesMulta.1"),
-                `${result.defectos.length} ${t("pdf.includesMulta.2")}`,
-                t("pdf.includesMulta.3"),
-                t("pdf.includesMulta.4"),
+                t("plan.includes.1"),
+                t("plan.includes.2"),
+                t("plan.includes.3"),
               ].map((b) => (
                 <li key={b} className="flex items-center gap-2 text-xs text-gray-700">
                   <Check className="w-3.5 h-3.5 text-red-500 shrink-0" /> {b}
@@ -920,49 +898,17 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
             </ul>
 
             <div className="space-y-2">
-              {packGenerado ? (
-                <Button
-                  className="w-full font-black h-12 text-base bg-green-600 hover:bg-green-700 text-white rounded-xl shadow-lg shadow-green-200"
-                  onClick={descargarPdf}
-                >
-                  <Download className="w-4 h-4 mr-2" />
-                  {t("pack.download")}
-                </Button>
-              ) : packToken ? (
-                <Button
-                  className="w-full font-black h-16 text-lg bg-red-600 hover:bg-red-700 text-white rounded-xl shadow-xl shadow-red-200"
-                  onClick={() => abrirDialogo("pack")}
-                  disabled={confirmando}
-                >
-                  <Download className="w-5 h-5 mr-2" />
-                  {t("pack.generate")}
-                </Button>
-              ) : (
-                <>
-                  {/* Botón principal de pago PDF */}
-                  <Button
-                    className="w-full font-black h-16 text-lg bg-red-600 hover:bg-red-700 text-white rounded-xl shadow-xl shadow-red-200"
-                    onClick={() => abrirDialogo("pdf_unico")}
-                    disabled={confirmando}
-                  >
-                    <Download className="w-5 h-5 mr-2" />{t("pdf.download")}
-                  </Button>
-                  {/* Pack 10 — opción multimulta */}
-                  {PACK10_VISIBLE && (
-<Button
-                    variant="secondary"
-                    className="w-full font-bold h-10 text-sm rounded-xl border-2 border-red-200 hover:border-red-400 hover:bg-red-50"
-                    onClick={() => abrirDialogo("pdf_pack_10")}
-                    disabled={confirmando}
-                  >
-                    {t("pdf.pack10Question")}
-                  </Button>
-)}
-                </>
-              )}
+              <Button
+                className="w-full font-black h-16 text-lg bg-red-600 hover:bg-red-700 text-white rounded-xl shadow-xl shadow-red-200"
+                onClick={abrirDialogo}
+                disabled={confirmando}
+              >
+                <Download className="w-5 h-5 mr-2" />{t("plan.cta")}
+              </Button>
             </div>
+            <p className="text-xs font-semibold text-gray-700 text-center">{t("plan.noRecurrimos")}</p>
             <p className="text-xs text-gray-400 text-center">
-              {packGenerado ? t("dialog.privacy") : t("pdf.secureNote")}
+              {t("plan.secureNote")}
             </p>
           </CardContent>
         </Card>
@@ -987,23 +933,21 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
                 className="overflow-hidden"
               >
                 <div className="relative px-4 pb-4 max-h-64 overflow-y-auto">
-                  <pre className={`text-xs text-muted-foreground whitespace-pre-wrap leading-relaxed font-sans ${packGenerado ? "" : "blur-[2px] select-none"}`}>
+                  <pre className={`text-xs text-muted-foreground whitespace-pre-wrap leading-relaxed font-sans blur-[2px] select-none`}>
                     {result.carta}
                   </pre>
                   {/* Blur overlay with CTA */}
-                  {!packGenerado && (
-                    <div className="absolute bottom-0 left-0 right-0 h-28 bg-gradient-to-t from-white to-transparent flex items-end justify-center pb-4">
+                  <div className="absolute bottom-0 left-0 right-0 h-28 bg-gradient-to-t from-white to-transparent flex items-end justify-center pb-4">
                       <Button
                         size="sm"
                         className="bg-red-600 hover:bg-red-700 text-white font-bold rounded-full px-5 text-xs shadow-md"
-                        onClick={() => abrirDialogo(packToken ? "pack" : "pdf_unico")}
+                        onClick={abrirDialogo}
                         disabled={confirmando}
                       >
                         <Lock className="w-3 h-3 mr-1.5" />
-                        {packToken ? t("pack.generate") : t("preview.unlock")}
+                        {t("plan.unlock")}
                       </Button>
                     </div>
-                  )}
                 </div>
               </motion.div>
             )}
@@ -1100,7 +1044,7 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
         <Button
           variant="secondary"
           className="w-full text-xs"
-          onClick={() => { setStep("upload"); setFile(null); setResult(null); setShowCarta(false); setShowInstrucciones(false); setCreditosRestantes(null); }}
+          onClick={() => { setStep("upload"); setFile(null); setResult(null); setShowCarta(false); setShowInstrucciones(false); }}
         >
           {t("button.analyzeAnotherMulta")}
         </Button>

@@ -39,9 +39,6 @@ function viabilidadBar(pct: number, color: string): string {
 
 function productoLabel(producto: string): string {
   if (producto === "suscripcion_anual") return "Asistente de multas (suscripción anual) — 7,99 €/año";
-  if (producto === "pdf_unico") return "PDF de recurso (1 multa) — 4,99€";
-  if (producto === "pdf_pack_10") return "Pack 10 recursos PDF — 9,99€";
-  if (producto === "vip_vitalicio") return "Acceso VIP vitalicio — 14,99€";
   return producto;
 }
 
@@ -84,12 +81,10 @@ DATOS DE LA MULTA:
 
 ⚠️ IMPORTANTE: Tienes ${args.plazoRecurso} para presentar el recurso.
 
-Para descargar el PDF del recurso completo listo para presentar, visita:
+Con la suscripción anual (7,99 €/año) recibes el recurso preparado, con una guía paso a paso para presentarlo tú mismo en la DGT o tu Ayuntamiento. No recurrimos en tu nombre: lo dejamos todo listo y solo tienes que enviarlo.
 ${APP_URL}/?utm_source=email&utm_medium=resultados
 
-El PDF incluye todos los argumentos jurídicos adaptados a tu multa, listo para presentar en DGT o Ayuntamiento.
-
-RecurreTuMulta.online — Recurre gratis, paga solo si quieres el PDF.
+RecurreTuMulta.online — Analiza tu multa gratis.
 Este correo es informativo y no sustituye asesoramiento jurídico profesional.
 `.trim();
 
@@ -173,11 +168,11 @@ Este correo es informativo y no sustituye asesoramiento jurídico profesional.
         <!-- CTA -->
         <tr>
           <td style="padding:28px 32px;">
-            <p style="margin:0 0 12px;font-size:13px;color:#374151;line-height:1.6;">El recurso completo con todos los argumentos jurídicos adaptados a tu multa está listo para descargar. Presenta el PDF en la DGT o tu Ayuntamiento.</p>
+            <p style="margin:0 0 12px;font-size:13px;color:#374151;line-height:1.6;">Con la suscripción anual recibes el recurso preparado para tu multa, con una guía paso a paso para presentarlo tú mismo en la DGT o tu Ayuntamiento. No recurrimos en tu nombre: lo dejamos todo listo y solo tienes que enviarlo.</p>
             <a href="${APP_URL}/?utm_source=email&utm_medium=resultados" style="display:block;text-align:center;background:#dc2626;color:#ffffff;font-size:15px;font-weight:900;padding:15px 32px;border-radius:12px;text-decoration:none;letter-spacing:0.3px;">
-              Descargar recurso PDF — 4,99€ →
+              Suscribirme — 7,99 €/año →
             </a>
-            <p style="margin:12px 0 0;text-align:center;font-size:11px;color:#9ca3af;">Pago seguro con Stripe · Garantía de devolución</p>
+            <p style="margin:12px 0 0;text-align:center;font-size:11px;color:#9ca3af;">Pago seguro con Stripe · Suscripción anual de 7,99 € · Cancela cuando quieras</p>
           </td>
         </tr>
 
@@ -220,7 +215,7 @@ export const sendAbandonoCarrito = internalAction({
     stripeSessionId: v.string(),
     to: v.string(),
     nombre: v.optional(v.string()),
-    producto: v.union(v.literal("pdf_unico"), v.literal("pdf_pack_10"), v.literal("vip_vitalicio"), v.literal("suscripcion_anual")),
+    producto: v.literal("suscripcion_anual"),
     importe: v.number(),
   },
   handler: async (ctx, args) => {
@@ -248,7 +243,7 @@ export const sendAbandonoCarrito = internalAction({
     const text = `
 ${saludo}
 
-Has dejado tu recurso a medias. Tu documento está listo pero falta completar el pago.
+Has dejado tu suscripción a medias. Tu recurso está preparado, pero falta completar el pago.
 
 Producto: ${productoLabel(args.producto)}
 Precio: ${importeStr}€
@@ -314,13 +309,13 @@ RecurreTuMulta.online
         <!-- Lo que incluye -->
         <tr>
           <td style="padding:20px 32px 0;">
-            <p style="margin:0 0 10px;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:1px;color:#9ca3af;">Tu PDF incluye</p>
+            <p style="margin:0 0 10px;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:1px;color:#9ca3af;">Tu suscripción anual incluye</p>
             <table cellpadding="0" cellspacing="0">
               ${[
-                "Recurso redactado con tus datos personales",
-                "Argumentos jurídicos específicos a tu multa",
-                "Referencias exactas a la LTSV y Ley 39/2015",
-                "Listo para presentar en DGT o Ayuntamiento",
+                "Alertas de multas nuevas a tu nombre o matrícula",
+                "Análisis de cada multa antes de que te llegue",
+                "Recurso preparado con guía paso a paso para enviarlo tú",
+                "No recurrimos en tu nombre: lo dejamos todo listo",
               ].map((b) => `
               <tr>
                 <td style="padding:4px 0;">
@@ -350,9 +345,9 @@ RecurreTuMulta.online
         <tr>
           <td style="padding:24px 32px 28px;">
             <a href="${APP_URL}/?utm_source=email&utm_medium=abandono&utm_campaign=carrito" style="display:block;text-align:center;background:#dc2626;color:#ffffff;font-size:15px;font-weight:900;padding:15px 32px;border-radius:12px;text-decoration:none;">
-              Completar pago y descargar PDF →
+              Completar mi suscripción anual →
             </a>
-            <p style="margin:12px 0 0;text-align:center;font-size:11px;color:#9ca3af;">Pago seguro con Stripe · 4,99€ · Sin suscripción</p>
+            <p style="margin:12px 0 0;text-align:center;font-size:11px;color:#9ca3af;">Pago seguro con Stripe · 7,99 €/año · Cancela cuando quieras</p>
           </td>
         </tr>
 

@@ -36,6 +36,7 @@ import type * as http from "../http.js";
 import type * as lanzamientos from "../lanzamientos.js";
 import type * as lib_normativaTrafico from "../lib/normativaTrafico.js";
 import type * as lib_pdfToImage from "../lib/pdfToImage.js";
+import type * as lib_suscripcion from "../lib/suscripcion.js";
 import type * as misPagos from "../misPagos.js";
 import type * as multas from "../multas.js";
 import type * as multasInterno from "../multasInterno.js";
@@ -50,6 +51,7 @@ import type * as recursos from "../recursos.js";
 import type * as resenasVehiculos from "../resenasVehiculos.js";
 import type * as sanciones from "../sanciones.js";
 import type * as stripeNode from "../stripeNode.js";
+import type * as suscripciones from "../suscripciones.js";
 import type * as users from "../users.js";
 import type * as valoraciones from "../valoraciones.js";
 
@@ -88,6 +90,7 @@ declare const fullApi: ApiFromModules<{
   lanzamientos: typeof lanzamientos;
   "lib/normativaTrafico": typeof lib_normativaTrafico;
   "lib/pdfToImage": typeof lib_pdfToImage;
+  "lib/suscripcion": typeof lib_suscripcion;
   misPagos: typeof misPagos;
   multas: typeof multas;
   multasInterno: typeof multasInterno;
@@ -102,6 +105,7 @@ declare const fullApi: ApiFromModules<{
   resenasVehiculos: typeof resenasVehiculos;
   sanciones: typeof sanciones;
   stripeNode: typeof stripeNode;
+  suscripciones: typeof suscripciones;
   users: typeof users;
   valoraciones: typeof valoraciones;
 }>;

@@ -20376,7 +20376,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "cuanto-cuesta-multa-espana-pagar-descuento-recurrir",
     "title": "Cuánto cuesta una multa: pagar con descuento o recurrir",
-    "excerpt": "Una multa de 200 € se queda en 100 € con pronto pago; recurrirla puede anularla por 4,99 €. Importes oficiales y las cuentas claras para decidir.",
+    "excerpt": "Una multa de 200 € se queda en 100 € con pronto pago; recurrirla puede anularla con el plan anual de 7,99 €/año. Importes oficiales y las cuentas claras para decidir.",
     "category": "Estudios",
     "date": "2026-10-04",
     "locale": "es",
