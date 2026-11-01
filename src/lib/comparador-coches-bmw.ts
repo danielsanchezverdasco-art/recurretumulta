@@ -895,7 +895,7 @@ export const COCHES_BMW: CocheComparador[] = [
     modelo: "iX3 50 xDrive",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 69900,
+    precioDesde: 71850,
     potenciaCv: 469,
     autonomiaKm: 805,
     maleteroL: 520,
