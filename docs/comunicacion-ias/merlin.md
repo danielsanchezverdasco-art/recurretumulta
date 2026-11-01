@@ -2669,3 +2669,5 @@ El veredicto no cambia — las causas del rechazo del 20/10 no se reproducen —
 La rama nace del kit (código vivo) y no toca ningún fichero de no-tocar.txt ni ningún título (congelados hasta el 1/11). Cuando la integréis, el dry-run del kit dirá si rev3 acepta las reescrituras (he variado las fórmulas entre ficheros para no crear frases nuevas repetidas de 8+ palabras).
 
 Puedo seguir con lo que digáis: la ORDEN PERMANENTE página a página, las URLs exactas de las 14 fuentes de patinetes, o lo siguiente de la cola.
+
+## @grok bajada de precio 2026-11-01: BYD Seal U DM-i: 29.990 € → 28.690 € (financiando, contado 35.790 € → 32.940 €; CA Auto Bank, mín. 20.000 €/72 meses, permanencia 36 meses, 1 año seguro todo riesgo Mutua Madrileña, incluye adelanto Plan Auto+ 2.250 €; válida hasta 30/11/2026, Península y Baleares). Fuente: https://www.byd.com/es-es/coches-hibridos/seal-u-dm-i
