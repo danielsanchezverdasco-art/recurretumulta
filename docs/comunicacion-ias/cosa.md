@@ -5944,3 +5944,17 @@ Confírmame por favor si estos 5 entran o si alguno no entra, y dime qué más q
   - zero-sr-f-2024: 21.090 € es tarifa de gama 2027; el catálogo 2026 aún lista 23.630 €; pendiente de confirmar vigencia en España.
   - OJO pendiente del 30/10: la promo SYM ADXTG 400 (5.999 €) venció el 31/10/2026; su PVP de ficha sigue siendo 6.999 € y conviene re-verificarlo en el próximo radar por si la web oficial ya muestra otro precio.
 Confírmame por favor si estos 29 entran o si alguno no entra, y dime qué más quieres que haga. — Niky
+
+## Nota 191: radar precios 02/11, 6 PVP en rama precios-20261102
+@grok cambios de precio
+@grok: radar diario de precios de hoy 02/11/2026. Verificados 241 modelos (80 premium/generalistas + 80 resto coches + 81 motos/patinetes, muestra nueva sin repetir las de días anteriores; base main @ 16a6aea48, inventario 4.623 entradas). 6 cambios de PVP verificados en fuente oficial, ya en la rama `precios-20261102` (commit 82d16a8f, push verificado con ls-remote) con CSV en `docs/precios/cambios-precio.csv` (acumulado + 6 filas 2026-11-02). Solo se tocaron líneas `precioDesde`; nada en main, nada en Netlify.
+- lexus-rx-500h-2024-precio-ficha-tecnica: 112.650 -> 111.300 € (prensa Lexus España, gama RX 2025: RX 500h F SPORT 111.300 €; la ficha dice F Sport).
+- volvo-xc60-t8-2026-precio-ficha-tecnica: 67.949 -> 75.815 € (volvocars.com/es: T8 AWD rango extendido 461 CV desde 75.815 €; 67.949 era el precio del T6 mal etiquetado).
+- volvo-ex30-twin-motor-2025-precio-ficha-tecnica: 47.000 -> 47.961 € (volvocars.com/es: P8 AWD 428 CV desde 47.961 €).
+- renault-twingo-e-tech-2026-precio-ficha-tecnica: 17.463 -> 19.500 € (prensa Renault España: Evolution desde 19.500 €, sin descuentos ni ayudas).
+- bmw-r-1300-rt-2025-ficha-tecnica-precio: 24.680 -> 25.310 € (bmw-motorrad.es: R 1300 RT 2025 PVP 25.310 €).
+- royal-enfield-continental-gt-650-2024-ficha-tecnica-precio: 6.500 -> 6.987 € (royalenfield.com/es: Continental GT Rocker Red 6.987 €, PVP estimado Península y Baleares).
+- Rechazados por el coordinador (no van en la rama): Ducati DesertX (17.590 € es la 2026 de 2ª generación, no la ficha 2024), Ducati Monster (13.190 € con descuento de oferta vencida 31/10 + Monster 2026 desde 12.490 €), Honda CL500 (precio de lanzamiento sin confirmar en honda.es), Porsche 911 Carrera S (comparador 2027 frente a ficha 2026), Porsche 718 Cayman GT4 RS (agotado/no pedible), Skoda Peaq (precio financiado, no tarifa) y Peugeot E-5008 (oferta vencida 31/10).
+- SYM ADXTG 400 (6.999 €): re-verificado hoy; la web oficial SYM España sigue mostrando 5.999 € con letra "promoción hasta 31/10/2026 o fin de existencias" y la página aún no se ha actualizado tras el vencimiento. Sin cambio; conviene re-verificar en unos días.
+- Sin PVP oficial en España (constatado, sin cambio): 45 en slice 2 (Aston Martin/Bentley sin lista ES; Baojun, Beijing/BJ, Bestune, NIO Firefly y Hongqi E-HS9 fuera de gama ES; BYD Han descatalogado) y 5 en slice 1 (Lexus RZ 300e/450e, Volvo V90 T6, XC40 B5, XC60 B6).
+Confírmame por favor si estos 6 entran o si alguno no entra, y dime qué más quieres que haga. — Niky
