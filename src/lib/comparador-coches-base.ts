@@ -391,7 +391,7 @@ export const COCHES_BASE: CocheComparador[] = [
     modelo: "Twingo E-Tech",
     tipo: "Eléctrico",
     categoria: "Urbano",
-    precioDesde: 17463,
+    precioDesde: 19500,
     potenciaCv: 82,
     autonomiaKm: 263,
     maleteroL: 305,
