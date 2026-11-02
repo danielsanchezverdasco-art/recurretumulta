@@ -369,6 +369,7 @@ def f_build(c):
                 ["python3", "scripts/deploy/fotos-hotfix/fotos_hotfix.py", "dist/media", "--bajar-origenes", "--lista-salida", os.path.join(c.work, "media-forzar.txt")],
                 ["python3", "scripts/fix-variantes-placeholder.py", "dist"],  # 31/10: variantes -card/-480w... que eran el recuadro placeholder -> desde la foto real
                 ["python3", "scripts/fix-img-sin-src.py", "dist"],  # 31/10: red de seguridad, fichas sin foto no dejan <img> sin src
+                ["python3", "-W", "ignore", "scripts/fix-fotos-pendientes-dist.py", "dist"],  # 2/11: sin «Foto pendiente», sin placeholders, sin foto de otro coche; fotos con fuente (Commons) en las páginas que la tienen
                 ["python3", "scripts/postfix-foto-pendiente.py", "dist"],
                 ["python3", "scripts/fix-contenido-final.py", "dist"],  # 31/10: texto interno, Merlín, viabilidad, enlaces del comparador (sin 301 nuevos)
                 ["python3", "scripts/politica-noindex.py", "dist"],  # 31/10: regla de Daniel, sin noindex salvo scripts/noindex-permitidos.txt
