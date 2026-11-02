@@ -1,3 +1,35 @@
+# 📊 2026-11-02 · Tareas SEO semana 2026-11-02 (de Cosa para Niky)
+
+@Niky (solo para Niky). Análisis GSC del lunes. Exports reales en `docs/seo/gsc-semanal-2026-11-02/` (7 días frente a 7 anteriores, y gráfico diario de 28 días).
+
+**⚠️ Contexto: la web está CAÍDA.** Hoy 02/11 a las 09:08 (Madrid) todas las URLs (incluida `recurretumulta.netlify.app`) devuelven 503 `{"error":"usage_exceeded"}` de Netlify (cuota de créditos). Ya fallaba el 01/11 a las 05:14. Lo decide Daniel (dinero); no hagas deploys ni intentes «arreglarlo». Todo lo de abajo se prepara en rama, sin publicar.
+
+**Cifras GSC (Web, último dato 31/10):** 25–31/10: 68 clics, 4.690 impr., CTR 1,4 %, pos. 22,9. 18–24/10: 138 clics, 10.700 impr., CTR 1,3 %, pos. 26,1 (clics −51 %, impr. −56 %). Diario: 27/10 17/1.339 · 28/10 0/48 · 29/10 1/43 · 30/10 1/16 · 31/10 0/2. Indexación (dato GSC del 23/10, sin actualizar): 4.190 indexadas, 5.680 sin indexar (2.165 descubiertas sin indexar, 1.644 alternativa con canónica, 1.224 redirección, 265 noindex, 218 rastreadas sin indexar, 75 404, 10 error de redirección, 2 5xx).
+
+**Orden:** rama nueva `niky-seo-1102` desde `origin/main`, `tsc` en 0, aviso en `cosa.md` con «@grok lote listo seo-1102» y el commit. Entrega `docs/seo/entrega-seo-1102.csv` (url, cambio, dato, URL de la fuente, fecha de consulta). Nunca inventes datos; cero texto repetido con otra página; el diseño no se toca; no publiques ni toques `main`. Stelato G9, G9 EREV, V800 y la home solo los toca Cosa. Lo pendiente de `niky-seo-1026` sigue vigente: no lo repitas, termínalo primero.
+
+### P0 — URLs duplicadas con y sin barra final (canibalización técnica)
+1. GSC muestra impresiones repartidas entre la URL con barra y sin barra de la misma ficha: `/motos/italjet-dragster-459-twin-2026-ficha-tecnica-precio` (43 impr.) y `/` (47); `/motos/yamaha-xsr900-2024-ficha-tecnica-precio` (26) y `/` (33); `/motos/honda-cb125r-2024-ficha-tecnica-precio` sin barra (31). Busca en el export `Páginas.csv` todas las parejas así y lístalas en `docs/seo/barra-final-1102.csv` con qué versión enlazamos internamente y cuál declara la canónica. Propón (no apliques en `_redirects`) la 301 única hacia la versión con barra y corrige los enlaces internos que apunten sin barra.
+
+### P1 — fichas en posición 5-20 con 0 clics (propuesta de title/meta + dato que falta)
+2. `/blog/cuanto-tarda-dgt-en-responder-recurso/` (31 impr., pos. 4,9, 0 clics): respuesta directa con el plazo legal y su fuente BOE en las primeras 40 palabras; propón title ≤60 con la cifra («¿Cuánto tarda la DGT en responder un recurso? X meses») y meta ≤155.
+3. `/coches/xiaomi-su7-2026-precio-ficha-tecnica/` (20 impr., pos. 12,6), `/coches/jetour-g700-903-cv-precio-ficha-tecnica/` (20, pos. 8,3), `/blog/haval-h6-hev-2025-precio-ficha-tecnica` (27, pos. 9,8; antes 2 clics): precio oficial en España con fuente y fecha en la primera frase; title/meta propuestos con el precio.
+4. «jetour t1 precio españa» (12 impr., pos. 9,6): comprueba que la ficha del Jetour T1 tiene el PVP oficial en España con fuente; si no, añádelo.
+5. `/radares/` (63 impr., pos. 19,2, 3 clics) y «mapa de radares» (11 impr., pos. 44): añade arriba la respuesta «mapa de radares DGT 2026» con enlace a la fuente oficial de la DGT y un índice por comunidad que enlace a cada `/multas/<ciudad>/`.
+
+### P1 — motos en posición 60-80 (sigue el punto P0 del 26/10)
+6. Siguen sin subir: `/blog/yamaha-xsr900-gp-2025-ficha-tecnica-precio/` (79 impr., pos. 77), `/motos/yamaha-xsr900-2024-…` (pos. 68-71), `/motos/honda-forza-350-2024-…` (39, pos. 72,5), `/motos/yamaha-mt-10-2024-…` (26, pos. 70,5), `/motos/honda-adv350-2024-…` (23, pos. 64), `/motos/honda-em1-e-…` (20, pos. 48; «honda em1» 16 impr.), `/coches/renault-scenic-e-tech-2024-…` (20, pos. 77). Si ya lo hiciste en `niky-seo-1026`, solo confirma el commit en `cosa.md`. Si no: precio oficial 2026 con fuente, 3 rivales enlazados, FAQ de precio y enlace a la ficha del año más nuevo si existe.
+
+### P1 — clúster MULTAS (sigue en página 5-7)
+7. `/blog/dgt-organismo-trafico-espana-como-funciona/` (48 impr., pos. 63), `/blog/radares-velolaser-dgt-2026-…` (35, pos. 60) y «cinemometro laser» (28 impr., pos. 58): no crees páginas nuevas; fusiona la intención «cinemómetro láser / veloláser» en una sola guía y propón la 301 de la otra en `docs/seo/propuesta-301-1102.csv`. Respuesta en 40 palabras, tabla de márgenes de error con fuente (Orden ICT/155/2020 o la vigente), pasos para recurrir y CTA al analizador.
+
+### P2 — Latinoamérica
+8. «huawei v800 precio colombia» (19 impr.) y «huawei v800 precio carro» (13): no toques la V800 (es de Cosa). Prepara en `docs/seo/latam-v800-1102.md` el dato oficial de precio en Colombia/México con fuente de la marca en ese país, si existe; si no hay fuente oficial, escríbelo así y no se pone nada.
+
+Recuerda: datos con fuente y fecha, unicidad 0 y aviso en `cosa.md` al terminar cada punto.
+
+---
+
 > ✅ Cosa 28/10 10:2x (Madrid): publicado deploy 6ae1bcc3c48834aace39500b (radar-integ-2810: 20 páginas nuevas + cambios, solo ficheros cambiados, 0 borrados). ROLLBACK = 6ae178ea98b86aa55cdf386c. Candado liberado. Pendiente: public/_redirects de main necesita el dist/_redirects de radar-integ-2810 (bloque 301 de 4 blogs); nada subido a main.
 
 # 📊 2026-10-26 · Tareas SEO semana 2026-10-26 (de Cosa para Niky)
