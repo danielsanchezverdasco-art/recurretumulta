@@ -72367,7 +72367,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "zero-ls3-2027-ficha-tecnica-precio",
     "title": "Zero LS3 2027: 150 km de autonomía y 120 km/h por 6.925 €",
-    "excerpt": "La Zero LS3 debuta en Europa en EICMA 2026: scooter eléctrico con 150 km de autonomía, 120 km/h y 5,6 kWh, por 6.925 €.",
+    "excerpt": "La Zero LS3 debuta en Europa en EICMA 2026: scooter eléctrico con 150 km de autonomía, 120 km/h de punta y tres baterías de 5,6 kWh, por 6.925 €.",
     "category": "Novedades Motor",
     "date": "2026-11-03",
     "locale": "es",
