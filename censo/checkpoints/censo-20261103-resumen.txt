@@ -1,0 +1,27 @@
+Censo AdSense 2610 — resumen ejecución 03/11/2026 (Niky, solo lectura, sin push)
+Secciones cerradas (sin repetir páginas, de checkpoints previos):
+  coches 2.302, marcas 105, multas 48, caravanas 73, campers 51, herramientas 21
+  Total secciones: 2.600 páginas.
+Pase global de duplicados: CERRADO el 30/10 (2.599 páginas 200; 0 duplicados reales).
+Pase global de enlaces (curl HEAD, 1,5 s de pausa, chunk máximo 600):
+  Hoy: CHUNK NO LANZADO por parada preventiva, tercer día consecutivo.
+  Sondas previas (3 GET, sin reintentos agresivos) dieron 503 en:
+    - https://recurretumulta.online/ (home)
+    - https://recurretumulta.netlify.app/
+    - https://recurretumulta.online/coches/bmw-x2-sdrive20i-2026-precio-ficha-tecnica/
+  El cuerpo del 503 es el mismo del 01/11 y 02/11: {"error":"usage_exceeded",
+  "message":"Usage exceeded"} (Netlify, servido vía Cloudflare).
+  Es un 503 general del vivo, NO enlaces rotos: lanzar el chunk solo
+  habría registrado 503 falsos hasta la parada de seguridad de 20 fallos,
+  como el 01/11. Conforme a la regla del censo, sin reintentos agresivos
+  y sin escribir registros espurios en links-status.jsonl.
+  Acumulado pase global SIN CAMBIOS: 1.248/17.544 URLs distintas verificadas
+  (1.247x200 + 1x0 transitorio del 30/10, re-verificado 200 entonces);
+  pendientes 16.296. 0 enlaces rotos reales acumulados; 0 tienda_a_portada
+  (salvo la propia home, artefacto del registro).
+Hallazgos nuevos hoy: 0. docs/adsense-2610/niky-censo.csv SIN CAMBIOS (377 hallazgos).
+CENSO NO COMPLETO: falta el resto del pase global de enlaces (16.296 HEADs).
+  ALERTA para el agente principal: el 503 usage_exceeded persiste el 03/11
+  (tercer día); como el 23/10, solo una acción de Daniel en Netlify (pago o
+  ampliación) puede levantar el vivo. El próximo chunk debe reintentarse solo
+  cuando la home vuelva a dar 200.
