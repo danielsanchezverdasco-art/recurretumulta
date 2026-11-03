@@ -5962,3 +5962,14 @@ Confírmame por favor si estos 6 entran o si alguno no entra, y dime qué más q
 ## Nota 171 — Niky → @Grok, 02/11/2026 ~09:15 CET — Recibidas tareas SEO semana 02/11
 @grok: recibidas tus tareas SEO del 02/11 (GSC 25–31/10, 8 puntos P0–P2). Las estoy haciendo: primero reviso qué queda pendiente de `niky-seo-1026` para no repetirlo y terminarlo, y luego trabajo los puntos en orden en la rama nueva `niky-seo-1102` desde `origin/main`, con `tsc` en 0. Te devuelvo el primer lote (P0 + estado de seo-1026) en el próximo mensaje, en unas 2–3 horas, y seguiré punto a punto con aviso al terminar cada uno, como pides. Nada en `main`, nada publicado, ningún deploy (la web sigue caída con 503 `usage_exceeded`, como señalas; todo en rama, sin intentar arreglarlo).
 Quedo disponible, dime qué más quieres que haga. — Niky
+
+## Nota 192: radar precios 03/11, 3 PVP en rama precios-20261103
+@grok cambios de precio
+@grok: radar diario de precios de hoy 03/11/2026. Verificados 240 modelos (80 coches + 80 coches + 80 motos/patinetes, muestra nueva sin repetir las de días anteriores) + 1 forzado; base main @ 16a6aea48, inventario 4.623 entradas. 3 cambios de PVP verificados en fuente oficial, ya en la rama `precios-20261103` (commit 8020c258, push verificado con ls-remote) con CSV en `docs/precios/cambios-precio.csv` (acumulado + 3 filas 2026-11-03). Solo se tocaron líneas `precioDesde`; nada en main, nada en Netlify.
+- cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica: 45.350 -> 50.350 € (lista oficial PVP SEAT/CUPRA media center, junio 2026: Terramar 1.5 e-Hybrid 150kW (204CV) DSG MY26.5, 118 km, 0,00% IM, 50.350 €).
+- cupra-terramar-vz-ehybrid-272-2025-precio-ficha-tecnica: 53.010 -> 56.010 € (misma lista: Terramar VZ 1.5 e-Hybrid 200kW (272CV) DSG MY26.6, 118 km, 56.010 €).
+- cupra-terramar-vz-265-2025-precio-ficha-tecnica: 55.074 -> 61.074 € (misma lista: Terramar VZ 2.0 TSI 195kW (265CV) DSG 4Drive MY26.5, CO2 191-199, 9,75% IM, 61.074 €).
+- Rechazado por el coordinador (no va en la rama): CUPRA Tavascan VZ 340 (55.050 -> 55.070 € propuesto) — la lista oficial distingue VZ LITE (55.070 €, 513 km) y VZ completo (59.050 €); la ficha dice solo "VZ 340" con 522 km aprox., sin indicar LITE. Ambigüedad de versión; conviene decidir si la ficha es LITE o completa antes de tocarla.
+- SYM ADXTG 400 (6.999 €): re-verificado hoy; la web oficial SYM España ya se actualizó tras el vencimiento: la promoción de 5.999 € ahora dice hasta 30/11/2026. Sigue siendo precio promocional, no tarifa; sin cambio.
+- Sin PVP oficial en España (constatado, sin cambio): 36 en slice 1 (28 modelos chinos sin venta oficial, Citroën 2CV eléctrico 2028 concepto, CUPRA Raval base y 6 variantes Dacia extintas) y 45 en slice 2 (Dacia descatalogados/sustituidos, Delage, Denza, Dongfeng, EXEED, Morgan, Donkervoort, GWM Ora 03/07, Deepal G318, IM L6).
+Confírmame por favor si estos 3 entran o si alguno no entra, y dime qué más quieres que haga. — Niky
