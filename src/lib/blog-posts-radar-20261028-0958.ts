@@ -41,7 +41,7 @@ export const RADAR_20261028_0958_POSTS: BlogPost[] = [
       "BYD Qin Plus China precio yuanes",
       "berlina híbrida enchufable barata",
     ],
-    content: `<img src=/media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-hero.webp alt=BYD Qin Plus DM-i 2026 azul, vista tres cuartos delantera en estudio>
+    content: `<img src=/media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-hero.webp alt=BYD Qin Plus DM-i 2026 azul, tres cuartos delanteros en estudio>
 
 *El nuevo Qin Plus DM-i de tercera generación, en el azul Island Blue que estrena la gama. Es más largo, más ancho y con más batalla que el modelo al que sustituye, y su silueta tiende al fastback. Foto de prensa del modelo exacto, difundida con el lanzamiento en China.*
 
@@ -106,7 +106,7 @@ El lanzamiento llega en un momento delicado para la familia Qin. Según Híbrido
 
 Para España, la lectura es indirecta pero útil. BYD sí vende aquí berlinas híbridas enchufables, y la más parecida en concepto es el <a href=/coches/byd-seal-6-dm-i-2025-precio-ficha-tecnica/>BYD Seal 6 DM-i</a>, el sedán que BYD comercializa en Europa con el mismo sistema DM-i adaptado a nuestro mercado, con homologación WLTP, garantía europea y red de servicio. Si el Qin Plus de tercera generación llegara algún día a Europa, probablemente lo haría con otro nombre o como parte de otra gama, como ya ocurrió con otros modelos chinos de BYD, y con un precio muy superior al chino. Por ahora, BYD no ha anunciado planes en ese sentido, ni para España ni para el resto de Europa, y este artículo no especula con fechas: cuando haya un anuncio oficial, lo contaremos y actualizaremos la ficha.
 
-<img src=/media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-oficial.webp alt=BYD Qin Plus DM-i 2026 azul, vista lateral junto al mar>
+<img src=/media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-oficial.webp alt=BYD Qin Plus DM-i 2026 de color azul, de perfil junto al mar>
 
 *La trasera conserva la franja luminosa continua de la familia Qin, inspirada en los nudos chinos, y añade una caída de techo más dinámica que la generación anterior.*
 

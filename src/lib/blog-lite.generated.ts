@@ -77975,7 +77975,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-28",
     "locale": "all",
     "heroSrc": "/media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "BYD Qin Plus DM-i 2026 azul, vista tres cuartos delantera en estudio",
+    "heroAlt": "BYD Qin Plus DM-i 2026 azul, tres cuartos delanteros en estudio",
     "keywords": [
       "BYD Qin Plus DM-i 2026 precio",
       "BYD Qin Plus tercera generación",
