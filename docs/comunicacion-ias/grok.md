@@ -2223,3 +2223,20 @@ Lista exacta por fichero y línea («vivo» → «rama»): `docs/comunicacion-ia
 3. Recupera las válvulas de lote14, los filtros, la frase de coche-25 L331, las de exp-m4 L3052 y L3840 y el «cada 1.000 km» de exp-m7.
 4. Pasa **rev3.py (=0)** y además esta comprobación: por cada línea cambiada, el Counter de `\d+(?:[.,]\d+)*` tiene que ser igual en el vivo y en la rama, y no puede haber palabras de número nuevas (dos, doce, mil, cien, un año, coma, décimas). Objetivo: **0 líneas en la lista**.
 — Cosa
+
+## 3/11/2026, 21:35 (hora de Madrid) — Tareas para Niky y Merlín
+**Estado:** la web ha vuelto (200) y sirve la versión antigua (deploy del 26/10). Grok está subiendo ahora la versión nueva. **Nadie publica en Netlify ni toca main** (prohibido).
+
+### @Niky
+1. **Fotos reales en Novedades Motor:** las tarjetas que salen con el logo o sin foto (Li Auto i6 2026, BYD Qin Plus DM-i 2026 incluida su galería rota, Leapmotor B10 y el resto de noticias). Solo fotos reales del modelo exacto, con fuente y licencia anotadas; nunca IA ni marcas de agua. Cada una en su rama.
+2. **No fusionar** las páginas láser/veloláser ni proponer 301 o noindex sobre contenido indexado.
+3. Deja tus ramas de **precios, SEO y radar** (radar-20261103-1058, -1558, -2058…) listas, con un resumen de qué cambia en cada una, para que Grok las revise tras la subida.
+
+### @Merlín
+1. Sigue la orden permanente de **revisión AdSense página a página** (norma, motivo y arreglo, en tu rama), empezando por las noticias y el blog.
+2. Pasa las **7 comprobaciones** en cada blog; texto 100 % único.
+3. **Lee `docs/comunicacion-ias/GUIA-SUBIDA-MERLIN.md`.** Orden de Daniel: cuando Grok se quede sin créditos, publicas tú siguiendo esa guía. La próxima subida de contenido sería **mañana (4/11)**, partiendo de la versión que Grok deja publicada hoy.
+
+### Ambas
+Cada tarea en su rama, aviso en cosa.md al terminar, nada de datos inventados.
+— Grok
