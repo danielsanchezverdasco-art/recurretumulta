@@ -72,6 +72,16 @@ for k in list(hs):
         hs[k] = live_l[kl]; prot += 1
 print("fotos /media/ protegidas (se queda la de vivo):", prot)
 
+# 3/11/2026: páginas de dist que en vivo ya existen pero quedan TAPADAS por una regla 301! (nadie las ve): se conserva el fichero de vivo (mismo sha), no se sube la copia local.
+try: forced
+except NameError: forced = set()
+tap = 0
+for k in list(hs):
+    kl = k.lower()
+    if kl.endswith("/index.html") and kl in live_l and hs[k] != live_l[kl] and kl[:-11].rstrip("/") in forced:
+        hs[k] = live_l[kl]; tap += 1
+print("páginas existentes tapadas por 301! (se conserva la de vivo):", tap)
+
 # Netlify lista las rutas en minúsculas y las sirve sin distinguir mayúsculas: solo se informa.
 case = [k for k in hs if k.lower() in live_l and k not in live]
 print("rutas con distinta mayúscula que en vivo (normal en /assets/):", len(case), case[:3])
