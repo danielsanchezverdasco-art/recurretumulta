@@ -380,13 +380,13 @@ export const COCHES_LOTE5: CocheComparador[] = [
     galeria: [
       {
         src: "/media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-hero.webp",
-        alt: "BYD Qin Plus DM-i 2026 azul Island Blue, vista lateral en estudio",
+        alt: "BYD Qin Plus DM-i 2026 azul, vista tres cuartos delantera en estudio",
         ancho: 659,
         alto: 371,
       },
       {
         src: "/media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "BYD Qin Plus DM-i 2026 azul, vista trasera tres cuartos con pilotos unidos",
+        alt: "BYD Qin Plus DM-i 2026 azul, vista lateral junto al mar",
         ancho: 659,
         alto: 371,
       },

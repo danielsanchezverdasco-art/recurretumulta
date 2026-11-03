@@ -50578,8 +50578,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "/media/motos/ktm-990-duke-2025-ficha-tecnica-precio-hero.webp",
-    "heroAlt": "KTM 990 Duke 2025 con faro de escalpelo",
+    "heroSrc": "",
+    "heroAlt": "",
     "keywords": [
       "ktm 990 duke 2025 precio",
       "990 duke 2025 ficha técnica",
@@ -50725,8 +50725,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "/media/motos/ktm-990-duke-r-2026-ficha-tecnica-precio-hero.webp",
-    "heroAlt": "KTM 990 Duke R 2026 en curvas",
+    "heroSrc": "",
+    "heroAlt": "",
     "keywords": [
       "ktm 990 duke r 2026 precio",
       "990 duke r ficha técnica",
@@ -50746,8 +50746,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "/media/motos/ktm-390-duke-2026-ficha-tecnica-precio-hero.webp",
-    "heroAlt": "KTM 390 Duke 2026 naranja en carretera",
+    "heroSrc": "",
+    "heroAlt": "",
     "keywords": [
       "ktm 390 duke 2026 precio",
       "390 duke 2026 ficha técnica",
@@ -77975,7 +77975,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-28",
     "locale": "all",
     "heroSrc": "/media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "BYD Qin Plus DM-i 2026 azul Island Blue, vista lateral en estudio",
+    "heroAlt": "BYD Qin Plus DM-i 2026 azul, vista tres cuartos delantera en estudio",
     "keywords": [
       "BYD Qin Plus DM-i 2026 precio",
       "BYD Qin Plus tercera generación",

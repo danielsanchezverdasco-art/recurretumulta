@@ -5086,3 +5086,11 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/patinetes/segway-ninebot-f2-pro-ii-e-oficial.webp | https://shop.segway.com/media/catalog/product/2/_/2_12.png | Segway-Ninebot (foto de producto de la tienda oficial de España) | prensa |
 | /media/patinetes/segway-ninebot-f3-pro-e-oficial.webp | https://shop.segway.com/media/catalog/product/u/n/untitled_design_9__1.png | Segway-Ninebot (foto de producto de la tienda oficial de España) | prensa |
 | /media/patinetes/segway-ninebot-gt3-e-oficial.webp | https://shop.segway.com/media/catalog/product/u/n/untitled_design_5_.png | Segway-Ninebot (foto de producto de la tienda oficial de España) | prensa |
+| /media/li-auto-i6-2026-precio-ficha-tecnica-hero.webp | https://cnevpost.com/wp-content/uploads/2026/10/2026102813160047.jpg | Li Auto (foto de prensa) · CnEVPost | prensa |
+| /media/li-auto-i6-2026-precio-ficha-tecnica-oficial.webp | https://carnewschina.com/wp-content/uploads/2026/10/e59bbee78987-114.png | Li Auto (foto de prensa) · CarNewsChina | prensa |
+| /media/li-auto-i6-2026-precio-ficha-tecnica-interior.webp | https://q0.itc.cn/images01/20261009/d0f8eb76b036406a86f9765bef9b36a2.jpeg | Li Auto (foto de prensa) · vía CarNewsChina | prensa |
+| /media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-hero.webp | https://cnevpost.com/wp-content/uploads/2026/10/2026102706370769.jpg | BYD (foto de prensa) · CnEVPost | prensa |
+| /media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-oficial.webp | https://carnewschina.com/wp-content/uploads/2026/10/byd_qin_plus_dm-i_new-3.jpg | BYD (foto de prensa) · CarNewsChina | prensa |
+| /media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-interior.webp | https://cnevpost.com/wp-content/uploads/2026/10/2026102706371216.jpg | BYD (foto de prensa) · CnEVPost | prensa |
+| /media/cosa-jungla-apoyado-300w.webp | https://recurretumulta.online/media/cosa-jungla-apoyado.webp | Cosa (mascota de recurretumulta.online, ilustración propia) | propia |
+| /media/cosa-jungla-manos-300w.webp | https://recurretumulta.online/media/cosa-jungla-manos.webp | Cosa (mascota de recurretumulta.online, ilustración propia) | propia |

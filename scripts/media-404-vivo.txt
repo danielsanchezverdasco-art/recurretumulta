@@ -439,8 +439,6 @@
 /media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-oficial-480w.webp
 /media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-oficial-828w.webp
 /media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-oficial.webp
-/media/cosa-jungla-apoyado-300w.webp
-/media/cosa-jungla-manos-300w.webp
 /media/ebro-q-2027-oficial-2.webp
 /media/ebro-q-2027-oficial-480w.webp
 /media/ebro-q-2027-oficial-828w.webp
@@ -606,3 +604,15 @@
 /media/waymo-jaguar-i-pace-madrid-hero.webp
 /media/yadea-c1s-pro-2026-ficha-tecnica-precio-oficial-2.webp
 /media/yadea-g5-s-2026-ficha-tecnica-precio-oficial-2.webp
+/media/bimota-tesi-h2-2024-ficha-tecnica-precio-commons.webp
+/media/bmw-ce-04-2025-ficha-tecnica-precio-commons.webp
+/media/bmw-r-1300-gs-2024-ficha-tecnica-precio-commons.webp
+/media/ducati-desertx-2025-ficha-tecnica-precio-commons.webp
+/media/ducati-monster-2025-ficha-tecnica-precio-commons.webp
+/media/moto-guzzi-v9-bobber-2024-ficha-tecnica-precio-commons.webp
+/media/royal-enfield-himalayan-450-2025-ficha-tecnica-precio-commons.webp
+/media/suzuki-burgman-400-2025-ficha-tecnica-precio-commons.webp
+/media/suzuki-v-strom-800de-2024-ficha-tecnica-precio-commons.webp
+/media/triumph-scrambler-400-x-2024-ficha-tecnica-precio-commons.webp
+/media/triumph-scrambler-400-x-2025-ficha-tecnica-precio-commons.webp
+/media/vespa-gts-310-2025-ficha-tecnica-precio-commons.webp
