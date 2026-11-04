@@ -72384,6 +72384,25 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 11
   },
   {
+    "slug": "bmw-m-1000-rs-2027-ficha-tecnica-precio",
+    "title": "BMW M 1000 RS 2027: 218 CV y 1.000 unidades por 40.000 €",
+    "excerpt": "La BMW M 1000 RS 2027 llega en marzo con 218 CV de la M 1000 RR, 196 kg y solo 1.000 unidades: precio alemán de 40.000 €, España pendiente.",
+    "category": "Novedades Motor",
+    "date": "2026-11-04",
+    "locale": "es",
+    "heroSrc": "/media/motos/bmw-m-1000-rs-2027-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "BMW M 1000 RS 2027, hyper naked negra con depósito de aluminio cepillado y escape de titanio",
+    "keywords": [
+      "bmw m 1000 rs 2027 precio",
+      "bmw m 1000 rs ficha tecnica",
+      "bmw m 1000 rs 218 cv",
+      "bmw m 1000 rs 1000 unidades",
+      "bmw m 1000 rs españa",
+      "bmw m 1000 rs vs m 1000 r"
+    ],
+    "readTime": 12
+  },
+  {
     "slug": "radical-sr1-xxr-2025-precio-ficha-tecnica",
     "title": "Radical SR1 XXR: 188 CV y 510 kg por 76.600 €",
     "excerpt": "Precio y ficha técnica del Radical SR1 XXR: 188 CV, 510 kg, motor RPE Gen5 de 1.340 cc y 0-100 en 3,0 s. El coche de carreras de entrada, desde 76.600 €.",
