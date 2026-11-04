@@ -174,7 +174,7 @@ export default function GuiasIndexPage() {
             <p className="text-sm text-slate-600 leading-relaxed">
               Cada guía indica sus fuentes oficiales (DGT, normativa estatal y ordenanzas municipales)
               y su fecha de revisión. Este índice recoge únicamente las guías publicadas en la web:
-              las 9 que existen hoy, ni una más.
+              las 12 que existen hoy, ni una más.
             </p>
           </section>
         </main>

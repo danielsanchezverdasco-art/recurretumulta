@@ -495,7 +495,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
                 >
                   <img
                     src={f.src}
-                    alt={f.alt}
+                    alt={f.alt || `Foto del ${nombre}`}
                     width={f.ancho}
                     height={f.alto}
                     loading="lazy"
