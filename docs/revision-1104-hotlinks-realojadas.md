@@ -13,7 +13,7 @@ publicaba el post (realojar, no sustituir): no se buscó ninguna foto nueva.
 
 | Fichero en /media/ | URL de origen | Estado |
 |---|---|---|
-| — (sin realojar) | https://whatsupdownunder.com.au/wp-content/uploads/2026/02/starlink-mini-caravan-outfit-hero.webp | NO REALOJADA: la URL devuelve 404 en origen (04/11/2026); el post la conserva en hotlink para no romperlo. Alt: "Starlink Mini instalado en una caravana". |
+| — (ELIMINADA del post 04/11/2026 por decisión de Daniel) | https://whatsupdownunder.com.au/wp-content/uploads/2026/02/starlink-mini-caravan-outfit-hero.webp | Daba 404 en origen; Daniel ordenó quitarla del post en vez de dejarla en hotlink. El post queda con 26 imágenes locales y 0 hotlinks. |
 | accesorios-caravana-02.webp | https://whatsupdownunder.com.au/wp-content/uploads/2026/02/starlink-mini-caravan-outback-australia-hero.webp | Realojada |
 | accesorios-caravana-03.webp | https://cdn-shopkit.com/usercontent/ftshopping/media/images/cace7a8-164032-51gz-ftdjbl_ac_sx679_.jpg | Realojada |
 | accesorios-caravana-04.webp | https://cdn11.bigcommerce.com/s-rbtuebnwu6/products/1890/images/9374/Mark_3_AC-1__38668.1762291165.386.513.jpg?c=1 | Realojada |
