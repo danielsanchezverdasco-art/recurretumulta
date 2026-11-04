@@ -258,7 +258,7 @@ export const COCHES_EXP15: CocheComparador[] = [
     modelo: "Yaris Cross GR Sport",
     tipo: "Híbrido",
     categoria: "SUV",
-    precioDesde: 33050,
+    precioDesde: 33700,
     potenciaCv: 130,
     autonomiaKm: null,
     maleteroL: 390,
