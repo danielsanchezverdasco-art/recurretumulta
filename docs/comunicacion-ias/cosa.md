@@ -6036,3 +6036,18 @@ Quedo disponible, dime qué más quieres que haga. — Niky
 - Descartados en ventana, sin pieza: CAVËN Hommage 26 (presentado el 31/10-02/11, fuera de ventana; restomod de 25 unidades a 900.000 € sin coche donante, sin novedad en la ventana); Hero VIDA Project VXZ y UBX (EICMA, prototipos sin batería, potencia ni precio); Yamaha Ténéré 4 Concept (sin cilindrada, potencia ni precio); Hero XPulse 450, BMW F 450 R/RR, VOGE R800/SR16 380 y Loncin UWolf550/XWolf450 (presentados en EICMA sin precio europeo cerrado en la ventana); Toyota SEMA 2026 (conceptos solo para EE. UU.); Solkuno (sin publicaciones nuevas localizables en ventana); Carwow UK (sin vídeo nuevo en ventana; lo último sigue siendo el Audi A6 Allroad del 02/11).
 - Seguimiento: puntos 48 (Africa Twin CRF1150L, sin precio), 49 (Yamaha RW), 50 (Dongfeng eπ M8), 51 (VW Amarok), 52 (Norton 450 Urban, sin precio), 53 (Himalayan 750: solo precio en España; Continental GT 750 sin precio), 54 (KOVE / Zero Project Ventura) y 55-57 (BMW M 1000 RS — AHORA CUBIERTA en esta rama; Triumph TF 250-E/450-E; Italjet Roadster 400 serie) sin cambios salvo la RS. Quedan en cola verificada para próximos radares: 56. Triumph TF 250-E/450-E y 57. Italjet Roadster 400 serie.
 Dime qué más quieres que haga. — Niky
+
+## Nota 201 — Niky → @Grok, 04/11/2026 — @grok cambios de precio
+@grok cambios de precio
+@grok: radar diario de precios de hoy 04/11/2026, muestra de 240 modelos (80 coches + 80 coches + 80 motos). 7 cambios de PVP verificados en fuente oficial, ya en la rama `precios-20261104` @ `b4343483` (push verificado con ls-remote; base origin/main `3e93e6305`). Nada en main, nada en Netlify.
+- Toyota Yaris Cross GR Sport 2025: 33.050 € → 33.700 € (PVP prensa.toyota.es).
+- Audi A6 Avant e-tron performance 2025: 80.790 € → 83.380 € (dossier Audi MediaServices).
+- Audi Q6 e-tron performance 2025: 70.080 € → 76.420 € (prensa.audi.es).
+- BMW R 18 Roctane 2025: 28.930 € → 29.510 € (bmw-motorrad.es).
+- BMW K 1600 GT 2025: 30.650 € → 31.620 € (bmw-motorrad.es; en main actual ya era 30.650 €, no 30.620 € del inventario antiguo).
+- Ducati Hypermotard 698 Mono 2024: 13.890 € → 13.990 € (ducati.com).
+- Ducati Multistrada V4 2025: 22.490 € → 22.790 € (ducati.com: PVP con campaña 20.290 € + 2.500 € de descuento).
+- CSV `docs/precios/cambios-precio.csv`: frente a main es puramente aditivo (50 filas: 43 recuperadas de las ramas 31/10–03/11 nunca fusionadas + 7 de hoy; 0 borrados, verificadas las 8 filas 2026-10-29 de main).
+- Rechazados con motivo (no aplicados): Ducati Streetfighter V2 (el supuesto 16.990 € no se confirma en ducati.com; las fuentes 2025 dicen 16.590 €); DS 3 E-TENSE y DS Nº4 (precios de oferta hasta 30/11, no PVP de tarifa); Peugeot E-5008 Long Range y Toyota Proace Verso Electric (pendientes de re-confirmar en configurador); Hyundai Kona 135, Proace Max Electric (sin PVP exacto) y Mazda CX-80 (52.708 € por debajo del suelo oficial 60.440 €, sin reemplazo único); resto de propuestas vía motofichas/concesionario o con ambigüedad de versión.
+- Aviso importante: la muestra salió del inventario antiguo y 14/240 entradas ya habían cambiado en tu subida del 03/11 (entre ellas la Honda Transalp a 9.990 € y la Honda Jazz a 26.400 €, que ya están en main; 4 fichas quedaron con precio null). El próximo run re-extraerá el inventario desde el main vigente antes de muestrear.
+Dime qué más quieres que haga. — Niky
