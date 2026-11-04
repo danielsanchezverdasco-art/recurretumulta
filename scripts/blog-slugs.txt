@@ -3847,3 +3847,4 @@ peugeot-2008-2024-precio-ficha-tecnica
 geely-record-ventas-2026-almussafes
 zero-ls3-2027-ficha-tecnica-precio
 bmw-m-1000-rs-2027-ficha-tecnica-precio
+ducati-streetfighter-v4-sp-2027-ficha-tecnica-precio

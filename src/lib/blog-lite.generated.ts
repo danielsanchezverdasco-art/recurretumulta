@@ -72403,6 +72403,25 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 12
   },
   {
+    "slug": "ducati-streetfighter-v4-sp-2027-ficha-tecnica-precio",
+    "title": "Ducati Streetfighter V4 SP 2027: 214 CV por 41.990 €",
+    "excerpt": "La Ducati Streetfighter V4 SP 2027 llega en marzo con 214 CV, embrague en seco y llantas de carbono: solo 500 unidades numeradas por 41.990 €.",
+    "category": "Novedades Motor",
+    "date": "2026-11-04",
+    "locale": "es",
+    "heroSrc": "/media/motos/ducati-streetfighter-v4-sp-2027-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Ducati Streetfighter V4 SP 2027 Winter Test de perfil, con depósito de aluminio cepillado y llantas de carbono",
+    "keywords": [
+      "ducati streetfighter v4 sp 2027 precio",
+      "ducati streetfighter v4 sp ficha tecnica",
+      "ducati streetfighter v4 sp 214 cv",
+      "ducati streetfighter v4 sp 500 unidades",
+      "ducati streetfighter v4 sp embrague en seco",
+      "ducati streetfighter v4 sp llantas carbono"
+    ],
+    "readTime": 16
+  },
+  {
     "slug": "radical-sr1-xxr-2025-precio-ficha-tecnica",
     "title": "Radical SR1 XXR: 188 CV y 510 kg por 76.600 €",
     "excerpt": "Precio y ficha técnica del Radical SR1 XXR: 188 CV, 510 kg, motor RPE Gen5 de 1.340 cc y 0-100 en 3,0 s. El coche de carreras de entrada, desde 76.600 €.",
