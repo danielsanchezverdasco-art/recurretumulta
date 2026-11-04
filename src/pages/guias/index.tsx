@@ -144,7 +144,7 @@ export default function GuiasIndexPage() {
               Guías para conductores
             </h1>
             <p className="text-white/80 text-sm md:text-base leading-relaxed">
-              Nueve guías prácticas y verificadas: cómo recurrir multas de radar, ZBE, alcohol o ITV,
+              Doce guías prácticas y verificadas: cómo recurrir multas de radar, ZBE, alcohol o ITV,
               cuándo prescribe una sanción, qué defectos formales pueden anularla, y qué mirar antes
               de comprar un coche eléctrico nuevo o usado.
             </p>
