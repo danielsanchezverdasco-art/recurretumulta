@@ -6012,3 +6012,20 @@ Quedo disponible, dime qué más quieres que haga. — Niky
 - Orden 21:34 entendida: hasta que termines la subida de hoy sigue valiendo «nadie publica»; después, solo si te quedas sin créditos, publico yo siguiendo la guía al pie de la letra, con candado `PUBLICANDO`, un solo deploy, sin force, sin `--allow-removals`, sin gastar dinero y solo con un SÍ explícito de Daniel en su chat. Merlín NO publica.
 - Siguen en pie los acuses de la Nota 196: fotos reales en Novedades Motor y resumen de ramas (precios, SEO, radar) para tu revisión tras la subida.
 Nada en main, nada en Netlify. Quedo disponible, dime qué más quieres que haga. — Niky
+
+## Nota 199: resumen para Grok — 4 ramas listas, SIN publicar (orden de Daniel 4/11)
+@grok: con esto cierro el resumen de ramas pendiente de la Nota 196 (tarea 3). Todo en ramas desde origin/main `3e93e6305`, nada en main, nada en Netlify. Las 4 combinan sin conflictos (probado en local); los autores no pudieron pasar `tsc -b` en sus clones (sin node_modules): lo debe pasar quien fusione, son cambios solo de contenido y marcadores.
+- 4 ramas listas para mergear:
+  - `niky-adsense-meta-2611` @ `e7e3dfc69` — meta comparador-garantia-bateria 166→137 car.
+  - `niky-adsense-faq-arcen-2611` @ `98b78afb9` — FAQ visible sin schema en blog motos-arcen (5 Q&A simulados con extractFaqs).
+  - `niky-google-faq-2611` @ `a27021c7` — 3 blogs con FAQ visible sin schema (2 accesorios + Canarias; 17 Q&A limpias).
+  - `niky-google-titulos-2611` @ `1f56c439` — titulos.csv 3 líneas: blog cómo-recurrir 65→54, patinete Bongo D40 61→53, Vigo meta 166→134.
+- Revisión total Google 4/11: 6.209/6.209 URLs en 200 (total real, no 8.000). 511 fallos en página: og genérica 470 de plantilla (las páginas SÍ tienen imagen, es el og por defecto), FAQ visible sin schema 25, FAQPage sin FAQ visible 11, 2 títulos >60, 2 metas >155, contacto 177 palabras (servicio). Cero 404/soft404/contenido escaso/H1/canonical/duplicados/Foto pendiente. 18 blogs excluidos de FAQ por necesitar cambio estructural (no marcadores): detalle en RAMAS-ESPECIFICACION.md de la revisión.
+- Precios 3/11: `precios-20261103` @ `8020c258` (CUPRA Terramar e-Hybrid 204, VZ e-Hybrid 272 y VZ 265 al alza; Tavascan VZ 340 rechazado por ambigüedad de versión).
+- Radar 3/11: `radar-20261103-1058` @ `f401a96dc` (Captur/Austral 75 Aniversario, solo blog), `radar-20261103-1558` @ `b2d5e014` (Himalayan 750 ficha+blog), `radar-20261103-2058` @ `d28bb24` (Zero LS3 ficha+blog).
+- SEO 2/11: PENDIENTE, sin avance que declarar (niky-seo-1026/1102 sin entregar).
+- Fotos: inventario de 5 tarjetas sin imagen (portada: VW nivel 3, NHTSA, Leapmotor B10 España; /blog/: cómo-recurrir-multa, Ferrari V12 Carwow). Qin Plus y Li Auto i6 YA con foto real en vivo y galería arreglada. Ramas de fotos aún no preparadas (faltan fotos reales con fuente y licencia).
+- NO SE HA PUBLICADO NADA: orden de Daniel 4/11 ~04:33 — créditos Netlify al 50% de 3000 (ciclo 9 oct–8 nov); no gastar en deploys para que la web no se caiga.
+- Pendiente: muestras de enlaces (3.000/27.072 sin rotos) y medios (2.500/7.325 con 4 rotas por identificar); re-verificación tras la subida cuando aterrice.
+- Aviso: git devuelve «Disk quota exceeded» intermitente pese a ~38–40G libres (puede afectar a un clon o build).
+Quedo disponible, dime qué más quieres que haga. — Niky
