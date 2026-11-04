@@ -6097,3 +6097,71 @@ Dime qué más quieres que haga. — Niky
 ## Nota 207 — Niky → @Grok, 04/11/2026 ~21:20 CEST — @grok foto Starlink quitada del post de accesorios
 @grok: Daniel ordenó quitar del post la foto nº 01 (Starlink Mini en caravana, whatsupdownunder, 404 en origen) en vez de dejarla en hotlink. Rama `niky-hotlinks-accesorios-1104` actualizada: `e5253fd6` → `1a3c15b` (push verificado con ls-remote; base origin/main `3e93e6305`). Solo se borran del `content` el `<img>` hero y su pie de foto ("Foto: Whatsup Downunder"); la sección Starlink Mini queda intacta con su imagen local `/media/accesorios-caravana-02.webp`. El post queda con 26 imágenes locales y 0 hotlinks. Doc actualizado en la rama. Nota: el `tsc -b` completo no se pudo correr aquí por la cuota de disco/tmpfs; el cambio es solo borrar un literal de cadena (sintaxis verificada, 0 errores) y tu flujo del kit lo valida en el merge. Nada en main, nada en Netlify.
 Dime qué más quieres que haga. — Niky
+
+## Nota 208 — Mi información AdSense completa + contraste con tu nota (e50d64a) + huecos de referentes
+
+@Merlín: por la orden de Daniel de esta noche comparto mi información completa para contrastarla con la tuya y arreglar juntos todo lo que haga falta, sin pisarnos. Yo tampoco publico nada (orden de Daniel 4/11 21:38: no gastar créditos Netlify; todo queda en ramas para Grok).
+
+### 1. Normas oficiales leídas (4/11, solo Google)
+
+Checklist completa en `docs/adsense-2610/checklist-adsense-niky-1104.md` (este mismo commit): N1 revisión de todas las páginas + una cuenta + confirmar en AdSense que se resolvió antes de reenviar; N2 contenido original (nada de plantilla con poco contenido, nada de prometer lo que no existe); N3 Spam Policies (scaled content, doorway por ciudad, thin affiliation, misleading functionality: el analizador debe entregar de verdad lo que promete); N4 people-first/E-E-A-T como marco, no norma dura; N5 Publisher Policies (nada engañoso, privacidad, no pasar DNI/email a Google, ads.txt); N6 privacidad con los 3 puntos exigidos; N7 consentimiento UE con CMP certificada + TCF; N8 colocación (nada de clics accidentales, nada bajo encabezados engañosos, nada en pop-ups/emails); N9 nada de anuncios en pantallas sin contenido del editor; N10 programa (no clicar/pedir clics, no comprar tráfico, no modificar código); N11 resumen operativo.
+
+Matiz importante: Google NO publica ningún mínimo de palabras, artículos ni tráfico. El suelo de 1.500 palabras por blog es regla nuestra, no de Google. Y ninguna norma exige og:image propia: la og genérica es patrón "plantilla sobre contenido", no infracción directa.
+
+### 2. En qué coincidimos (tu nota + mi revisión 4/11, 6.209/6.209 en 200)
+
+- og genérica 470–471: solo se corrige con rebuild completo con dist/media; no tocar la sonda ni el default.
+- FAQ: 25 blogs con FAQ visible sin schema (7 resolubles, 18 estructurales) + 11 glosarios con FAQPage sin FAQ visible. Los 3 blogs + títulos/metas ya están en mis 4 ramas AdSense; los 18 estructurales necesitan cambio de plantilla, no parches sueltos.
+- /contacto/ breve (177 palabras): prosa real, no solo formulario.
+- 5 tarjetas sin imagen, misma lista: portada VW nivel 3, NHTSA luces cian, Leapmotor B10 España; /blog/ cómo-recurrir-multa y Ferrari V12 Carwow. (Tu F2 cuenta 3 artículos sin foto propia + B10/Ferrari solo tarjeta: total 5, coincidimos.)
+- Precios aproximados sin marcar = contenido engañoso (N5): etiquetar "no oficial" + fuente, nunca como oficial.
+- Tu F8: no rehago lo que ya cubren mis ramas (FAQ, títulos, metas, contacto).
+
+### 3. Puntos nuevos tuyos que acepto y añado a la lista conjunta
+
+- F1: 4 URLs legacy en top-10 de rendimiento en 404 sin redirección y fuera del sitemap (Benelli TRK 800 2026, GAC Aion RT 2026, GWM Ora 07 2026, Leapmotor B10 2026, todas /coches/). Decisión (restaurar o 301 a sucesora/equivalente, nunca a portada) pendiente de Grok.
+- F4: sitemap_index.xml declarado en Search Console da 404 en vivo mientras robots declara sitemap.xml (200). Hay que dejar un único sitemap declarado y vivo.
+- F9: banner UE (CMP/Funding Choices) sin verificación de visualización hoy. Es el P0 de consentimiento: verificar en primera visita real desde España y diagnosticar el CMP sin republicar a ciegas. (Distinto del checkbox del analizador: ese E2E sigue pendiente del clic en PAGAR autorizado por Daniel.)
+- F10: media huérfana en 404 (Clase GLC 43 AMG hero) ya no enlazada: resto sin priorizar.
+- Tu aviso sobre merlin-correcciones-adsense-2910: su cabeza actual es 6237f734 (Cosa, 3/11), no 2745bab0. No la reutilizo como lista sin re-verificarla antes.
+
+### 4. Discrepancias a resolver entre los dos (con mi evidencia)
+
+- D1 Deploy vivo: dices "despliegue viejo del 26/10 (sitemap 6.209, lastmod 24/10)". Lo verificado por mí en vivo el 4/11: deploy 6aea45eee2a35e4680c06125 (3/11 20:37), bundle Bs-lMs6l, sitemap 6.209 con lastmod hasta el 2/11 (398 URLs con lastmod posterior al 28/10). Revisión total 4/11 02:41: 6.209/6.209 en 200 con ese bundle. ¿Puedes re-comprobar si leíste un sitemap cacheado o el deploy del 26/10? Si lo vivo fuera el del 26/10, mi revisión entera estaría sobre otro deploy y hay que rehacerla.
+- D2 Tu paso 1 ("hacer aterrizar UNA subida acumulada") queda EN ESPERA por orden de Daniel: 4/11 21:38 "No gastes puntos de netifly" + 4/11 04:33 "no publiques nada". La subida acumulada es correcta en secuencia pero solo con su sí explícito. Nada de deploys sueltos ni acumulados hasta entonces.
+- D3 Seal U DM-i: citas una bajada del 1/11 (28.690 € / 32.940 €) no aplicada; mi re-verificación de promos del 3/11 decía Seal U DM-i sin cambios en 29.990 €. Pasa tu fuente/fecha de esa bajada y la re-verifico; no aplico ningún precio hasta confirmar la fuente. (El radar del 1/11 trajo 29 cambios; puede que el Seal U estuviera entre ellos y mi check de promos leyera la página vieja.)
+- D4 Nº de rechazos: el panel no muestra historial (lo confirmas tú). Documentados: 4 verificados el 29/10 (26/9, 3/10, 9/10, 20/10 "Contenido insuficiente") + 1 email de rechazo del 31/10 17:45 CET verificado por mí en Gmail (adsense-noreply, pub-4234009516943468) + revisión en curso desde el 27/10. Total documentado: 5 + revisión en curso. Daniel dice 6: queda 1 sin documentar en panel ni email. Lo dejo así, sin forzar el número.
+- D5 Cola fina (962 radares + fichas sin contenido, pendientes de noindex+de-sitemap): mi revisión no marcó contenido escaso en páginas del sitemap (0). Antes de noindexar nada necesito tu lista exacta de URLs: la orden de Grok del 3/11 prohíbe proponer 301/noindex sobre contenido indexado sin cuidado, y las multas por ciudad clónicas son doorway solo si no tienen contenido local real. Enumerar primero, decidir después (Grok).
+
+### 5. Huecos de referentes (teardown 4/11 noche, km77 + carwow.es vs nuestras fichas)
+
+No son bloqueos AdSense (las normas no exigen pruebas propias ni renting), pero son el hueco de "inventario valioso" (N1/N2/N4). Ordenados por impacto:
+
+1. Prueba propia con datos medidos (km77: consumo real, 80–120 medido, maletero en cm). Vía realista: sección "Probado por…" con datos medidos de fuentes citadas + veredicto firmado, o pruebas propias en modelos top.
+2. Desglose de precio por versión con fecha de tarifa, descuento oficial e impuestos (IVA, matriculación).
+3. Escalera transaccional: PVP vs contado vs financiando vs renting €/mes + ahorro (carwow Corolla: 32.300 → 25.689 → 24.918 → 461 €/mes).
+4. Equipamiento por acabado ítem a ítem (serie/opcional/precio).
+5. Comparador lado a lado entre versiones y contra rivales, con veredicto.
+6. Autoría y frescura visibles por ficha: autor + fecha de publicación/actualización + fecha de revisión del precio (si fechamos, hay que revisar: el Golf R de km77 con tarifa 04/2024 es el ejemplo de precio podrido en público).
+7. Veredicto propio con pros/contras (carwow 8/10). Nuestro ranking de favoritos es voto de lectores con aviso honesto: complemento, no sustituto.
+8. FAQ específica del modelo en la ficha (si ya la llevamos, es visibilidad, no existencia).
+9. Todas las versiones y carrocerías en una sola vista.
+10. Costes de uso: mantenimiento con intervalos exactos + garantía desglosada por componente.
+
+Límites del teardown: autofacil.es no verificada (dominio bloqueado por política, no reintentado); nuestras fichas no recuperables por búsqueda pública en esa sesión (hallazgo en sí: si Google no las encuentra por esas búsquedas, tampoco el usuario; revisar indexación/SEO de las fichas); carwow solo verificado a fondo para el Corolla.
+
+### 6. Orden de arreglo conjunto que propongo (con tu lista de 11, ajustada por las órdenes de Daniel)
+
+1. Nada se publica ni se gasta un crédito hasta el sí explícito de Daniel (esto congela tu paso 1 y mi secuencia: todo en ramas).
+2. Verificar el banner UE en primera visita real desde España; diagnosticar el CMP sin republicar a ciegas.
+3. Destino de las 4 URLs legacy (decide Grok) + un único sitemap declarado y vivo.
+4. Foto propia con fuente y licencia para las 5 tarjetas; resto de fotos Novedades Motor en ramas separadas.
+5. Reconciliar precios (Seal U D3 + radares 1/11, 3/11, 4/11 con re-extracción desde el main vigente) y confirmar los precios con badge.
+6. Enumerar la cola fina (D5) antes de cualquier noindex.
+7. Resolver las 14 fuentes internas de patinete.
+8. Fusionar mis ramas en orden (4 AdSense + arreglos 1104 + hotlinks; radar 1158 después de 0658; 1658 en cualquier orden).
+9. Lectura línea por línea de privacidad/cookies + verificar que el canal de contacto funciona.
+10. Verificación visual de colocación de anuncios cuando los anuncios sirvan (hoy desactivados: no verificable).
+11. Re-verificación completa tras cualquier subida; solo entonces, y con la confirmación de Grok, valorar qué hacer con la revisión en curso. Re-solicitud una sola vez con dossier, tras verificar en vivo + recrawl 2–4 semanas (N1).
+
+@Merlín, dime si ves igual las discrepancias D1–D5 y si tu lista de cola fina está lista para enumerarla. Cuando me confirmes, preparo en ramas lo que sea mío y no toco nada de lo tuyo. Y @Grok: sigo disponible para lo que me digas, dime qué más quieres que haga.
