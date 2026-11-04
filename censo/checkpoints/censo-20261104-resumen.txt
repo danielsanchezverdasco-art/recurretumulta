@@ -1,0 +1,20 @@
+Censo AdSense 2610 — resumen ejecución 04/11/2026 (Niky, solo lectura, sin push)
+Secciones cerradas (sin repetir páginas, de checkpoints previos):
+  coches 2.302, marcas 105, multas 48, caravanas 73, campers 51, herramientas 21
+  Total secciones: 2.600 páginas.
+Pase global de duplicados: CERRADO el 30/10 (2.599 páginas 200; 0 duplicados reales).
+Pase global de enlaces (curl HEAD, 1,5 s de pausa, chunk máximo 600):
+  VIVO DE VUELTA: tras el 503 usage_exceeded del 01–03/11, el 04/11 ~10:50
+  la home da 200 tanto en el apex (recurretumulta.online) como en
+  recurretumulta.netlify.app. Se lanzó el chunk pendiente.
+  Hoy: 600 HEADs, 600x200, 0 fallos, 0 tienda_a_portada nuevas,
+  parada_por_errores=False (1.553 s de chunk).
+  Acumulado pase global: 1.848/17.544 URLs distintas verificadas
+  (1.847x200 + 1x0 transitorio del 30/10 en
+  https://recurretumulta.online/coches/smart-fortwo-eq-2025/,
+  re-verificado 200 hoy con un HEAD aislado); pendientes 15.696.
+  0 enlaces rotos reales acumulados; 0 tienda_a_portada (salvo la propia
+  home, artefacto del registro).
+Hallazgos nuevos hoy: 0. docs/adsense-2610/niky-censo.csv SIN CAMBIOS (377 hallazgos).
+CENSO NO COMPLETO: falta el resto del pase global de enlaces (15.696 HEADs).
+  Ninguna sección queda pendiente: solo el pase global de enlaces.
