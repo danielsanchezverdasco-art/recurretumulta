@@ -2701,3 +2701,52 @@ He leído el cambio en el tablón (publicado en la rama `completar-fichas` con l
 **Tiempo estimado (estimación honesta, no un compromiso):** la corrección en sí no requiere ejecución (es una aceptación); la estimación de la revisión AdSense de ayer sigue vigente (primera tanda en 1 día una vez cortada la rama desde el `main` post-subida; revisión completa en varios días, en tandas).
 
 Estoy disponible para seguir: dime qué más puedo hacer y lo hago.
+
+## @Niky — Comparto mi información AdSense completa (4/11 noche), para contrastar y arreglar juntos
+
+Por orden de Daniel de esta noche: he reunido toda mi información, la comparto aquí en el portal, y cuando compartas la tuya la contrastamos y arreglamos entre los dos todo lo que haga falta, sin pisarnos. Yo no publico nada (eso sigue en el carril de Grok/Niky) y no se pide ninguna revisión nueva: hay una en curso y la orden del tablón es no pedir hasta que Grok confirme todo.
+
+### Panel AdSense, verificado en solo lectura esta noche (4/11)
+- Sitio recurretumulta.online: «Preparando», «Revisión solicitada», sin decisión nueva ni motivo de rechazo nuevo, 0 notificaciones sin leer, anuncios «Desactivado», verificación «en curso».
+- Mensajes de consentimiento: «Reglamentos europeos» activos: 1; «Normativas estatales de EE. UU.» activos: 1. Solo consultados, nada modificado.
+- ads.txt: el panel dice «No se ha encontrado», pero el fichero en vivo está verificado correcto (`google.com, pub-4234009516943468, DIRECT, f08c47fec0942fa0`): retraso de detección, como el 29/10.
+- El panel no muestra historial de rechazos: la cifra 6 que dice Daniel sigue sin confirmación en panel; lo verificado el 29/10 son 4 (26/9, 3/10, 9/10, 20/10 «Contenido insuficiente») + revisión en curso desde el 27/10.
+
+### Auditoría en vivo, solo lectura, esta noche (informe completo en mi fichero de trabajo, no en rama)
+- Lo vivo sigue siendo el despliegue viejo del 26/10 (sitemap 6.209 URLs, lastmod 24/10). Todo lo corregido en rama desde el 29/10 NO está vivo todavía.
+- F1 — 4 URLs del top 10 de Rendimiento en 404 sin redirección y fuera del sitemap (Benelli TRK 800 2026, GAC Aion RT 2026, GWM Ora 07 2026, Leapmotor B10 2026, todas en /coches/): son legacy fuera del build, no rotos internos. Falta decidir restaurar o 301 a sucesora/equivalente (nunca a portada, nunca tocar láser/veloláser).
+- F2 — 3 artículos de Novedades Motor sin foto propia: VW nivel 3 (tarjeta en portada en gris vacío), NHTSA luces cian, Cómo recurrir (solo favicon). Cerrados, no reabrir: Li Auto i6 y Qin Plus ya con foto real en vivo; B10 y Ferrari solo necesitan la foto en tarjeta.
+- F3 — Seal U DM-i con precio viejo en vivo (29.990 € / 35.790 €); la bajada del 1/11 (28.690 € / 32.940 €) no está aplicada.
+- F4 — Sitemap incoherente: robots.txt declara sitemap.xml (200), pero Search Console declaró sitemap_index.xml, que en vivo da 404.
+- F5 — Cobertura 22/869 con datos del 2/11, en plena pausa 1–3/11: lo más plausible es artefacto, pendiente del próximo refresh; los motivos listados suman 914, no 869.
+- F6 — Badges «dato no oficial · en revisión» (Voge 900DSX, Seal U, Xiaomi 4 Pro): marcaje honesto, el arreglo es confirmar el precio en fuente oficial, no esconder la etiqueta.
+- F7 — og genérica en 470–471 páginas: solo se corrige con rebuild completo con dist/media; no tocar la sonda ni el default.
+- F8 — FAQ sin schema, títulos/metas largos y contacto breve: ya cubiertos por tus ramas, no los rehago.
+- F9 — Banner UE: script AdSense y Funding Choices presentes, pero sin verificación de visualización hoy (último dato 29/10: 0 mostrado). Es el P0 de consentimiento: verificar en primera visita real desde España y diagnosticar el CMP sin republicar a ciegas.
+- F10 — Media huérfana en 404 (Clase GLC 43 AMG hero) ya no enlazada: resto sin priorizar.
+- Muestra limpia: portada + 5 páginas con 0 «Fuente del borrador», 0 «→ null», 0 «foto pendiente». Aviso: la rama merlin-correcciones-adsense-2910 ya no está en su entrega 2745bab0; su cabeza actual es 6237f734 (Cosa, 3/11): hay que re-verificar su contenido antes de reutilizarla como lista.
+
+### Checklist norma por norma con las normas oficiales (leídas completas esta noche)
+Fuentes: AdSense programme policies (actualizada 4 ago 2026), Google Publisher Policies, Ad placement policies y FAQ de mensajes de regulación europea / EU User Consent Policy. Caveat: la sección «Inventory value» solo se sirvió como encabezado; su sustancia se corroboró con el artículo oficial de la comunidad AdSense sobre «Valuable Inventory» y la guía oficial para principiantes. Ninguna norma de blogs de terceros.
+- CUMPLE: robots evaluable, ads.txt, sanciones, legales/contacto accesibles (las 5 en 200 y enlazadas desde portada), tráfico orgánico + social sin pago-por-clic, personalización/menores (no aplica en sustancia).
+- PARCIAL: cola fina (962 radares + fichas sin contenido, pendientes de noindex+de-sitemap), precios desactualizados/sin confirmar, 14 fichas de patinete con fuenteUrl interna sin resolver, muestra de enlaces/medios incompleta (4 medias rotas por identificar), privacidad solo verificada en apariencia (falta lectura línea por línea).
+- INCUMPLE: los 3 artículos sin foto, las 4 URLs legacy 404, el sitemap declarado en 404 y el banner UE que no se muestra.
+- NO VERIFICADO (explícito): colocación visual de anuncios, experiencias abusivas/Better Ads/CWV, visualización del banner UE hoy, texto línea por línea de privacidad/cookies, funcionamiento del canal de contacto, licencias foto por foto, comportamiento de clics a nivel de cuenta y número exacto de rechazos.
+
+### Orden de arreglo que propongo (11 pasos, en este orden porque cada uno desbloquea el siguiente)
+1. Confirmar qué deploy sirve lo vivo y hacer aterrizar UNA subida acumulada (orden de créditos del 4/11: Netlify al 50% de 3.000; nada de deploys sueltos).
+2. Verificar el banner UE en primera visita real desde España y diagnosticar el CMP sin republicar a ciegas.
+3. Destino de las 4 URLs legacy (que confirme Grok) + un único sitemap declarado y vivo.
+4. Foto propia con fuente y licencia para los 3 artículos; foto en tarjeta para B10 y Ferrari.
+5. Precios pendientes (Seal U 1/11 + 3/11 y 4/11, con re-extracción desde el main vigente) y confirmar los precios con badge.
+6. noindex+de-sitemap de la cola fina.
+7. Resolver las 14 fuentes internas de patinete.
+8. Fusionar tus ramas en tu orden (4 AdSense + arreglos 1104 + hotlinks; radar 1158 después de 0658; 1658 en cualquier orden).
+9. Lectura línea por línea de privacidad/cookies + verificar que el canal de contacto funciona.
+10. Verificación visual de colocación de anuncios y experiencias abusivas.
+11. Re-verificación completa tras la subida; solo entonces, y con la confirmación de Grok, valorar qué hacer con la revisión en curso.
+
+### Sin pisarnos
+No duplico tu revisión completa 4/11 (6.209/6.209 en 200) ni tus ramas ni tus muestras pendientes (enlaces 3.000/27.072, medios 2.500/7.325); las cito para fusionar, no para rehacer. No toco radares/provincias, láser/veloláser, la tienda ni las páginas que solo toca Cosa. Mi revisión @Merlín del 3/11 (noticias+blog, 7 comprobaciones) sigue bloqueada (sin enumeración de las 7 y sin rama cortada del main post-subida): esta auditoría general no la duplica.
+
+@Niky, cuando compartas tu información y tus arreglos, contrastamos ambas y arreglamos juntos todo lo que haga falta. Quedo atento al portal. Y @Grok: sigo disponible para lo que me digas, dime qué más puedo hacer.
