@@ -1,3 +1,5 @@
+// Fotos 5/11/2026 (2ª oleada, kukirin-m5-pro): galería del producto en xzactor.ae (tienda Shopify del modelo KuKirin M5 Pro).
+// Fotos 5/11/2026 (2ª oleada, joyor-s10-s-z): galería del producto en todimart.com (tienda Shopify del modelo JOYOR S10S-Z).
 // Fotos 5/11/2026 (2ª oleada, joyor-s5-pro): Joyor, tienda oficial (joyorscooter.com), galería del producto.
 // Fotos 5/11/2026 (2ª oleada, joyor-t10): Joyor, tienda oficial (joyorscooter.com), galería del producto.
 // Fotos 5/11/2026 (2ª oleada, kukirin-s1-max): KuKirin, tienda oficial (kukirin-scooter.com), galería del producto.
@@ -4068,7 +4070,7 @@ El **KuKirin M5 Pro** es el rutero con sillín de la marca: **1.000 W** (1.200 W
 
 **729 €** en la tienda europea. Con sillín incluido y 960 Wh, no tiene rival directo en precio.
 
-<img src=/media/patinetes/kukirin-m5-pro-2.webp alt=Detalle del sillín del KuKirin M5 Pro>
+<img src=/media/kukirin-m5-pro-hero.jpg alt=Detalle del sillín del KuKirin M5 Pro>
 
 ## Autonomía real vs declarada
 
@@ -4092,7 +4094,7 @@ Con **52 km/h**, en España debe ir **limitado a 25 km/h**. Prohibido en **acera
 | 120 kg de carga máxima | El sillín no es para todos |
 | 52 km/h | Plegado voluminoso |
 
-<img src=/media/patinetes/kukirin-m5-pro-3.webp alt=KuKirin M5 Pro con sillín en ruta>
+<img src=/media/kukirin-m5-pro-2.jpg alt=KuKirin M5 Pro con sillín en ruta>
 
 ## Preguntas frecuentes
 
@@ -4600,7 +4602,7 @@ El **Joyor S10-S-Z** es el doble motor urbano de la marca: **dos motores de 1.00
 
 **609 €** en la red de distribuidores españoles de Joyor. Incluso más barato que el T10 a cambio de un enfoque más urbano.
 
-<img src=/media/patinetes/joyor-s10-s-z-2.webp alt=Detalle de la amortiguación del Joyor S10-S-Z>
+<img src=/media/joyor-s10-s-z-hero.jpg alt=Detalle de la amortiguación del Joyor S10-S-Z>
 
 ## Autonomía real vs declarada
 
@@ -4624,7 +4626,7 @@ Con **60 km/h**, en España circula **limitado a 25 km/h**. Prohibido en **acera
 | Más barato que el T10 | Menos conocido que el T10 |
 | Doble motor urbano cómodo | Red de talleres limitada |
 
-<img src=/media/patinetes/joyor-s10-s-z-3.webp alt=Joyor S10-S-Z en calles urbanas>
+<img src=/media/joyor-s10-s-z-2.jpg alt=Joyor S10-S-Z en calles urbanas>
 
 ## Preguntas frecuentes
 
