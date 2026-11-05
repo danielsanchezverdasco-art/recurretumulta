@@ -1,51 +1,9 @@
 // Mutations y queries de pagos — V8 runtime (sin "use node")
 import { v } from "convex/values";
 import { ConvexError } from "convex/values";
-import { internalMutation, internalQuery, mutation, query } from "./_generated/server";
+import { internalMutation, internalQuery, query } from "./_generated/server";
 import { internal } from "./_generated/api";
 import { requireUser } from "./authSimple";
-
-// ── Mutation interna: registrar pago pendiente ────────────────────────────────
-export const createPendingPayment = internalMutation({
-  args: {
-    userId: v.id("users"),
-    stripeSessionId: v.string(),
-    producto: v.union(v.literal("pdf_unico"), v.literal("pdf_pack_10"), v.literal("vip_vitalicio")),
-    importe: v.number(),
-    recursoId: v.optional(v.id("recursos")),
-  },
-  handler: async (ctx, args): Promise<void> => {
-    const user = await ctx.db.get("users", args.userId);
-    if (!user) throw new ConvexError({ code: "NOT_FOUND", message: "Usuario no encontrado" });
-
-    await ctx.db.insert("payments", {
-      userId: user._id,
-      stripeSessionId: args.stripeSessionId,
-      producto: args.producto,
-      importe: args.importe,
-      status: "pending",
-      createdAt: new Date().toISOString(),
-      // Guardar el código del creador que el usuario tenía aplicado
-      codigoCreador: user.codigoCreadorUsado,
-      recursoId: args.recursoId,
-    });
-
-    // Programar email de carrito abandonado a los 15 minutos
-    if (user.email) {
-      await ctx.scheduler.runAfter(
-        15 * 60 * 1000, // 15 minutos
-        internal.emails.sendAbandonoCarrito,
-        {
-          stripeSessionId: args.stripeSessionId,
-          to: user.email,
-          nombre: user.name,
-          producto: args.producto,
-          importe: args.importe,
-        },
-      );
-    }
-  },
-});
 
 // ── Mutation interna: registrar pago pendiente SIN REGISTRO ───────────────────
 // Guarda todos los datos necesarios para generar y enviar el PDF tras el pago.
@@ -63,12 +21,13 @@ export const createPendingPaymentSinRegistro = internalMutation({
     fecha: v.string(),
     plazoRecurso: v.string(),
     tipo: v.union(v.literal("multa"), v.literal("sancion")),
+    matriculas: v.optional(v.array(v.string())),
   },
   handler: async (ctx, args): Promise<void> => {
     await ctx.db.insert("payments", {
       stripeSessionId: args.stripeSessionId,
-      producto: "pdf_unico",
-      importe: 499,
+      producto: "suscripcion_anual",
+      importe: 799,
       status: "pending",
       createdAt: new Date().toISOString(),
       sinRegistro: true,
@@ -83,6 +42,7 @@ export const createPendingPaymentSinRegistro = internalMutation({
       fecha: args.fecha,
       plazoRecurso: args.plazoRecurso,
       tipo: args.tipo,
+      matriculas: args.matriculas,
     });
 
     // Programar email de carrito abandonado a los 15 minutos
@@ -93,14 +53,15 @@ export const createPendingPaymentSinRegistro = internalMutation({
         stripeSessionId: args.stripeSessionId,
         to: args.email,
         nombre: args.nombre,
-        producto: "pdf_unico",
-        importe: 499,
+        producto: "suscripcion_anual",
+        importe: 799,
       },
     );
   },
 });
 
-// ── Mutation interna: confirmar pago completado (desde webhook) ───────────────
+// ── Mutation interna: confirmar pago completado (webhook o verificación al volver de Stripe) ──
+// Envía por email el recurso preparado (PDF + guía paso a paso) de la multa analizada.
 export const confirmPayment = internalMutation({
   args: {
     stripeSessionId: v.string(),
@@ -136,63 +97,8 @@ export const confirmPayment = internalMutation({
       return;
     }
 
-    const user = await ctx.db.get("users", payment.userId);
-    if (!user) {
-      console.error("[payments] confirmPayment: user not found for payment", payment._id, "session", args.stripeSessionId);
-      return;
-    }
-
-    const updates: {
-      plan?: "premium" | "vip";
-      pdfCredits?: number;
-      stripeCustomerId?: string;
-    } = {};
-
-    if (args.stripeCustomerId) updates.stripeCustomerId = args.stripeCustomerId;
-
-    if (payment.producto === "vip_vitalicio") {
-      updates.plan = "vip";
-    } else if (payment.producto === "pdf_pack_10") {
-      updates.plan = user.plan === "vip" ? "vip" : "premium";
-      updates.pdfCredits = (user.pdfCredits ?? 0) + 10;
-    } else {
-      updates.plan = user.plan === "vip" ? "vip" : "premium";
-      updates.pdfCredits = (user.pdfCredits ?? 0) + 1;
-    }
-
-    await ctx.db.patch("users", user._id, updates);
-
-    console.log("[payments] confirmPayment: success", {
-      sessionId: args.stripeSessionId,
-      userId: user._id,
-      producto: payment.producto,
-      importe: payment.importe,
-    });
-
-    // Si el usuario tenía un código de creador aplicado, registrar la comisión
-    if (payment.codigoCreador) {
-      await ctx.runMutation(internal.creadores.registrarVentaCreador, {
-        codigo: payment.codigoCreador,
-        importeCentimos: payment.importe,
-      });
-    }
-
-    // Enviar el PDF del recurso comprado por email, si tenemos el recurso y el email del usuario
-    if (payment.recursoId && user.email) {
-      const recurso = await ctx.db.get("recursos", payment.recursoId);
-      if (recurso && recurso.carta) {
-        await ctx.scheduler.runAfter(0, internal.pdfEmail.sendRecursoPdfEmail, {
-          to: user.email,
-          nombre: user.name,
-          carta: recurso.carta,
-          expediente: recurso.expediente ?? "No encontrado",
-          importe: recurso.importe ?? "No especificado",
-          infraccion: recurso.infraccion ?? "Infracción DGT",
-          fecha: recurso.fecha ?? "No especificada",
-          plazoRecurso: recurso.plazo ?? "20 días hábiles",
-        });
-      }
-    }
+    // Pagos históricos con usuario (PDF único, Pack 10, VIP): ya no se venden y su
+    // lógica de créditos se ha retirado. Solo quedan marcados como completados.
   },
 });
 

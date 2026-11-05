@@ -1,7 +1,9 @@
 "use node";
 
-// Verificación de firma Stripe — Node.js runtime
-// Esta acción interna hace la verificación criptográfica que requiere Node crypto
+// Webhook de Stripe — Node.js runtime (verificación criptográfica de la firma).
+// Eventos del plan anual: checkout.session.completed, customer.subscription.updated,
+// customer.subscription.deleted. La lógica de base de datos vive en
+// suscripciones.procesarEvento (V8) para poder probarla sin red.
 import { v } from "convex/values";
 import Stripe from "stripe";
 import { internalAction } from "./_generated/server";
@@ -30,13 +32,23 @@ export const verifyAndProcessWebhook = internalAction({
       return { ok: false, error: message };
     }
 
+    // En el alta consultamos la suscripción para guardar estado y fin de periodo reales.
+    // Si la consulta falla no se pierde nada: customer.subscription.updated lo completa.
+    let suscripcion: Stripe.Subscription | undefined;
     if (event.type === "checkout.session.completed") {
       const session = event.data.object as Stripe.Checkout.Session;
-      await ctx.runMutation(internal.paymentsDb.confirmPayment, {
-        stripeSessionId: session.id,
-        stripeCustomerId: (session.customer as string) ?? undefined,
-      });
+      const subId = typeof session.subscription === "string" ? session.subscription : session.subscription?.id;
+      if (session.mode === "subscription" && subId) {
+        try {
+          suscripcion = await stripe.subscriptions.retrieve(subId);
+        } catch (err) {
+          console.error("[stripe-webhook] no se pudo consultar la suscripción", subId, err);
+        }
+      }
     }
+
+    // Si esta mutation lanza error, el webhook responde 500 y Stripe reintenta.
+    await ctx.runMutation(internal.suscripciones.procesarEvento, { event, suscripcion });
 
     return { ok: true };
   },

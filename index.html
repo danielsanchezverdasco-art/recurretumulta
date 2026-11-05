@@ -152,8 +152,6 @@
       @layer base{img{max-width:100%;height:auto}}
       .hj-root{min-height:378px;background:#0d0f0a}
     </style>
-    <!-- OJO: este <noscript> es el que hace que Vite emita el CSS PROCESADO de Tailwind
-         (24/10: quitado el <link media=print> sin procesar: emitía @import "tailwindcss"/"tw-animate-css" = 404 en consola). No quitarlo. -->
     <noscript><link href="/src/index.css" rel="stylesheet" /></noscript>
 
     <!-- ═══════════════════════════════════════════════════════
@@ -234,22 +232,6 @@
             },
             "datePublished": "2026-01-01",
             "dateModified": "2026-09-12"
-          },
-          {
-            "@type": "SoftwareApplication",
-            "@id": "https://recurretumulta.online/#app",
-            "name": "RecurreTuMulta.online",
-            "applicationCategory": "LegalApplication",
-            "operatingSystem": "Web",
-            "url": "https://recurretumulta.online/",
-            "description": "IA que analiza multas DGT, detecta vicios de forma y genera recursos de reposición en segundos.",
-            "featureList": [
-              "Análisis IA de multas DGT",
-              "Detección de vicios de forma",
-              "Generación de recurso de reposición en PDF",
-              "Análisis OCR de foto de multa",
-              "Guías por provincia"
-            ]
           }
         ]
       }
@@ -262,47 +244,13 @@
          de abajo cuando Google apruebe el sitio.
     ════════════════════════════════════════════════════════ -->
     <!-- 25/10/2026: CMP certificado de Google (Funding Choices) para pub-4234009516943468 -->
-    <!-- 31/10/2026 (velocidad): CMP (Funding Choices) y AdSense siguen en el HTML con su src (revisión de AdSense / ads.txt),
-         pero NO se ejecutan en el camino crítico (type="text/plain"): el cargador de abajo los activa en la primera
-         interacción o en reposo tras el load. Orden de cumplimiento: primero el CMP y, cuando carga (o a los 2,5 s), AdSense. -->
+    <!-- 05/11/2026: restaurado el snippet oficial ejecutable tal como estaba el 29/10. El experimento «de velocidad»
+         del 31/10 (etiqueta inerte + activación diferida tras interacción/reposo) impedía que el mensaje europeo
+         de Funding Choices se mostrara («Mensajes mostrados: 0»): el CMP debe ejecutarse al cargar la página. -->
     <meta name="google-adsense-account" content="ca-pub-4234009516943468" />
-    <script async type="text/plain" data-rtm-ads="fc" src="https://fundingchoicesmessages.google.com/i/pub-4234009516943468?ers=1"></script>
+    <script async src="https://fundingchoicesmessages.google.com/i/pub-4234009516943468?ers=1"></script>
     <script>(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
-    <script async type="text/plain" data-rtm-ads="ad" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4234009516943468" crossorigin="anonymous"></script>
-    <script>
-      (function () {
-        if (window.__PRERENDER__) return;
-        var hecho = false, adsHecho = false;
-        var EV = ["pointerdown", "keydown", "scroll", "touchstart"];
-        function activar(el, cb) {
-          if (!el) { if (cb) cb(); return; }
-          var n = document.createElement("script");
-          n.async = true; n.src = el.src;
-          if (el.getAttribute("crossorigin")) n.crossOrigin = el.getAttribute("crossorigin");
-          if (cb) { n.onload = cb; n.onerror = cb; }
-          document.head.appendChild(n);
-        }
-        function ads() {
-          if (adsHecho) return; adsHecho = true;
-          activar(document.querySelector('script[data-rtm-ads="ad"]'));
-        }
-        function iniciar() {
-          if (hecho) return; hecho = true;
-          EV.forEach(function (e) { window.removeEventListener(e, iniciar); });
-          var fc = document.querySelector('script[data-rtm-ads="fc"]');
-          // CMP primero: AdSense solo se activa cuando el CMP ha cargado (o a los 2,5 s si no responde).
-          activar(fc, function () { window.__rtmFcListo = true; setTimeout(ads, 300); });
-          setTimeout(ads, 2500);
-        }
-        EV.forEach(function (e) { window.addEventListener(e, iniciar, { once: true, passive: true }); });
-        window.addEventListener("load", function () {
-          setTimeout(function () {
-            if (window.requestIdleCallback) window.requestIdleCallback(iniciar, { timeout: 2500 }); else iniciar();
-          }, 1500);
-        });
-        window.__rtmIniciarCmp = iniciar;
-      })();
-    </script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4234009516943468" crossorigin="anonymous"></script>
   <script src="/js/enlaces-301.js" defer></script>
   <script src="/js/rtm-consent.js" defer></script></head>
   <body>

@@ -68,8 +68,6 @@
 
 ## Fotos oficiales de prensa / web oficial del fabricante
 
-| Archivo | Fuente | Autor | Licencia |
-|---|---|---|---|
 | /media/cupra-leon-20-tdi-2026-1.webp | https://www.cupraofficial.es/coches/leon | CUPRA | prensa |
 | /media/cupra-leon-20-tdi-2026-1-card.webp | https://www.cupraofficial.es/coches/leon | CUPRA | prensa |
 | /media/skoda-elroq-85x-2026-1.webp | https://www.skoda-storyboard.com/en/press-kits/skoda-elroq-press-kit/images-2/ | Škoda | prensa |
@@ -189,8 +187,6 @@
 
 ## Fotos de prensa distribuidas por medios terceros (no descargadas del media site oficial; licencia desconocida)
 
-| Archivo | Fuente | Autor | Licencia |
-|---|---|---|---|
 | /media/fangchengbao-ti-9-2026-hero.webp | https://www.hibridosyelectricos.com/coches/byd-prepara-gigantesco-suv-hibrido-527-metros-con-2300-km-autonomia-bateria-se-recarga-en-solo-9-minutos_89828_102.html | Fang Cheng Bao (prensa) / Híbridos y Eléctricos (distribución; licencia desconocida) | prensa |
 | /media/fangchengbao-ti-9-2026-oficial.webp | https://www.hibridosyelectricos.com/coches/byd-prepara-gigantesco-suv-hibrido-527-metros-con-2300-km-autonomia-bateria-se-recarga-en-solo-9-minutos_89828_102.html | Fang Cheng Bao (prensa) / Híbridos y Eléctricos (distribución; licencia desconocida) | prensa |
 | /media/fangchengbao-ti-9-2026-interior.webp | https://www.hibridosyelectricos.com/coches/byd-prepara-gigantesco-suv-hibrido-527-metros-con-2300-km-autonomia-bateria-se-recarga-en-solo-9-minutos_89828_102.html | Fang Cheng Bao (prensa) / Híbridos y Eléctricos (distribución; licencia desconocida) | prensa |
@@ -257,24 +253,18 @@
 | /media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-interior-2.webp | https://www.hymer.com/es/ (kit de prensa oficial) |
 
 ### La Strada Regent S 2026 (fotos oficiales La Strada)
-| /media/fichero | URL |
-|---|---|
 | /media/la-strada-regent-s-2026-precio-ficha-tecnica.webp | https://www.la-strada.de/ (prensa oficial) |
 | /media/la-strada-regent-s-2026-precio-ficha-tecnica-2.webp | https://www.la-strada.de/ (prensa oficial) |
 | /media/la-strada-regent-s-2026-precio-ficha-tecnica-interior.webp | https://www.la-strada.de/ (prensa oficial) |
 | /media/la-strada-regent-s-2026-precio-ficha-tecnica-interior-2.webp | https://www.la-strada.de/ (prensa oficial) |
 
 ### Nissan NV200 Camper (fotos oficiales prensa Nissan, 2018)
-| /media/fichero | URL |
-|---|---|
 | /media/nissan-nv200-camper-2026-precio-ficha-tecnica.webp | Nota de prensa oficial Nissan Europa 19/09/2018 (archivo EXIF «Camper», mayo 2018) |
 | /media/nissan-nv200-camper-2026-precio-ficha-tecnica-2.webp | Nota de prensa oficial Nissan Europa 19/09/2018 |
 | /media/nissan-nv200-camper-2026-precio-ficha-tecnica-interior.webp | Nota de prensa oficial Nissan Europa 19/09/2018 (mobiliario BRAM) |
 | /media/nissan-nv200-camper-2026-precio-ficha-tecnica-interior-2.webp | Nota de prensa oficial Nissan Europa 19/09/2018 (mobiliario BRAM) |
 
 ### Volkswagen Grand California 600/680 2026 (fotos oficiales VW)
-| /media/fichero | URL |
-|---|---|
 | /media/volkswagen-grand-california-600-2026-precio-ficha-tecnica.webp | https://www.volkswagen-comerciales.es/ (kit de prensa oficial) |
 | /media/volkswagen-grand-california-600-2026-precio-ficha-tecnica-2.webp | https://www.volkswagen-comerciales.es/ (kit de prensa oficial) |
 | /media/volkswagen-grand-california-600-2026-precio-ficha-tecnica-interior.webp | https://www.volkswagen-comerciales.es/ (kit de prensa oficial) |
@@ -286,8 +276,6 @@
 
 ### Westfalia Sven Hedin sobre MAN TGE 2026 (fotos oficiales Westfalia)
 Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exactas.
-| /media/fichero | URL |
-|---|---|
 | /media/westfalia-sven-hedin-man-tge-2026-precio-ficha-tecnica.webp | https://westfalia-mobil.com/en/motorhomes/sven-hedin/ (prensa oficial) |
 | /media/westfalia-sven-hedin-man-tge-2026-precio-ficha-tecnica-2.webp | https://westfalia-mobil.com/en/motorhomes/sven-hedin/ (prensa oficial) |
 | /media/westfalia-sven-hedin-man-tge-2026-precio-ficha-tecnica-interior.webp | https://westfalia-mobil.com/en/motorhomes/sven-hedin/ (prensa oficial) |
@@ -4423,7 +4411,6 @@ Licencia desconocida; fotos reales del modelo exacto.
 ## Radar integ 28/10/2026 — origen de las fotos nuevas (artículo o web citados en la propia página)
 
 | Foto | Origen | Crédito | Licencia |
-|---|---|---|---|
 | /media/avatr-espana-2027-paris-hero.webp | https://www.nosolomotor.es/novedades-toma-contacto/avatr-llega-espana-06t-07l-2027/20261021100500002727.html | No Sólo Motor (Concept T09 en París) | desconocida |
 | /media/avatr-espana-2027-06-interior.webp | https://www.nosolomotor.es/novedades-toma-contacto/avatr-llega-espana-06t-07l-2027/20261021100500002727.html | No Sólo Motor (interior AVATR 06) | desconocida |
 | /media/byd-seagull-2026-oficial.webp | https://cnevpost.com/2026/10/20/byd-launches-second-gen-seagull/ | BYD, vía CnEVPost | desconocida |

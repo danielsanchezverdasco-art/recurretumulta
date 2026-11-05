@@ -6,14 +6,17 @@ import Stripe from "stripe";
 import { action } from "./_generated/server";
 import { ConvexError } from "convex/values";
 import { internal } from "./_generated/api";
-import { requireUser } from "./authSimple";
+import { buildSuscripcionSessionParams, normalizarMatriculas } from "./lib/suscripcion";
 
 const getStripe = () =>
   new Stripe(process.env.STRIPE_SECRET_KEY!, { apiVersion: "2026-08-26.dahlia" });
 
-// ── Crear sesión de checkout SIN REGISTRO (4,99€) ─────────────────────────────
+// ── Crear sesión de checkout SIN REGISTRO: SUSCRIPCIÓN ANUAL 7,99 € ───────────
+// 31/10/2026 (rama suscripcion-multas-mvp): se elimina el pago suelto por PDF.
+// El análisis sigue gratis; el PDF solo se entrega con la suscripción anual.
 // Flujo: analizar gratis sin cuenta → al pagar se piden nombre, DNI, domicilio
-// y email → tras el pago el PDF se envía por email (webhook → sendRecursoPdfEmail).
+// y email → tras el pago el recurso preparado se envía por email y el cliente queda
+// en la tabla `suscriptores` (webhook checkout.session.completed).
 // No requiere sesión ni usuario.
 export const createCheckoutSinRegistro = action({
   args: {
@@ -28,6 +31,8 @@ export const createCheckoutSinRegistro = action({
     fecha: v.string(),
     plazoRecurso: v.string(),
     tipo: v.union(v.literal("multa"), v.literal("sancion")),
+    // Matrículas a vigilar (opcional, máx. 5).
+    matriculas: v.optional(v.array(v.string())),
   },
   handler: async (ctx, args): Promise<{ url: string }> => {
     const email = args.email.toLowerCase().trim();
@@ -38,23 +43,22 @@ export const createCheckoutSinRegistro = action({
       throw new ConvexError({ code: "INVALID_DATA", message: "Faltan datos para generar el recurso" });
     }
 
+    const priceId = process.env.STRIPE_PRICE_SUSCRIPCION_ANUAL;
+    if (!priceId) {
+      throw new ConvexError({ code: "SIN_PRECIO", message: "Falta STRIPE_PRICE_SUSCRIPCION_ANUAL en la configuración" });
+    }
+    const matriculas = normalizarMatriculas(args.matriculas ?? []);
+
     const stripe = getStripe();
     const origin = process.env.FRONTEND_URL ?? "https://recurretumulta.pages.dev";
 
-    const session = await stripe.checkout.sessions.create({
-      mode: "payment",
-      line_items: [{ price: process.env.STRIPE_PRICE_PDF_UNICO!, quantity: 1 }],
-      customer_email: email,
-      success_url: `${origin}/?pago=ok&producto=pdf_unico&session_id={CHECKOUT_SESSION_ID}`,
-      cancel_url: `${origin}/?pago=cancelado`,
-      metadata: {
-        producto: "pdf_unico",
-        sinRegistro: "true",
+    const session = await stripe.checkout.sessions.create(
+      buildSuscripcionSessionParams({
         email,
-      },
-      locale: "es",
-      allow_promotion_codes: true,
-    });
+        origin,
+        priceId,
+      }),
+    );
 
     await ctx.runMutation(internal.paymentsDb.createPendingPaymentSinRegistro, {
       stripeSessionId: session.id,
@@ -69,6 +73,7 @@ export const createCheckoutSinRegistro = action({
       fecha: args.fecha,
       plazoRecurso: args.plazoRecurso,
       tipo: args.tipo,
+      matriculas,
     });
 
     return { url: session.url! };
@@ -81,149 +86,23 @@ export const verifySessionSinRegistro = action({
   args: { sessionId: v.string() },
   handler: async (ctx, args): Promise<{ ok: boolean }> => {
     const stripe = getStripe();
-    const session = await stripe.checkout.sessions.retrieve(args.sessionId);
+    const session = await stripe.checkout.sessions.retrieve(args.sessionId, { expand: ["subscription"] });
 
     if (session.payment_status !== "paid") return { ok: false };
     if (session.metadata?.sinRegistro !== "true") return { ok: false };
 
-    await ctx.runMutation(internal.paymentsDb.confirmPayment, {
-      stripeSessionId: session.id,
-      stripeCustomerId: (session.customer as string) ?? undefined,
+    // Mismo camino que el webhook (idempotente): recurso por email + alta del suscriptor.
+    await ctx.runMutation(internal.suscripciones.procesarEvento, {
+      event: {
+        id: `verify_${session.id}`,
+        type: "checkout.session.completed",
+        created: Math.floor(Date.now() / 1000),
+        livemode: session.livemode,
+        data: { object: { ...session, subscription: typeof session.subscription === "string" ? session.subscription : session.subscription?.id } },
+      },
+      suscripcion: typeof session.subscription === "object" ? session.subscription ?? undefined : undefined,
     });
 
     return { ok: true };
-  },
-});
-
-// ── Crear sesión de checkout para PDF único (4,99€) ───────────────────────────
-export const createCheckoutPdfUnico = action({
-  args: { sessionToken: v.optional(v.string()), recursoId: v.optional(v.id("recursos")) },
-  handler: async (ctx, args): Promise<{ url: string }> => {
-    const user = await requireUser(ctx, args.sessionToken);
-
-    const stripe = getStripe();
-    const origin = process.env.FRONTEND_URL ?? "https://recurretumulta.pages.dev";
-
-    const session = await stripe.checkout.sessions.create({
-      mode: "payment",
-      line_items: [{ price: process.env.STRIPE_PRICE_PDF_UNICO!, quantity: 1 }],
-      success_url: `${origin}/?pago=ok&producto=pdf_unico&session_id={CHECKOUT_SESSION_ID}`,
-      cancel_url: `${origin}/?pago=cancelado`,
-      metadata: {
-        userId: user._id,
-        producto: "pdf_unico",
-        recursoId: args.recursoId ?? "",
-      },
-      locale: "es",
-      allow_promotion_codes: true,
-    });
-
-    await ctx.runMutation(internal.paymentsDb.createPendingPayment, {
-      userId: user._id,
-      stripeSessionId: session.id,
-      producto: "pdf_unico",
-      importe: 499,
-      recursoId: args.recursoId,
-    });
-
-    return { url: session.url! };
-  },
-});
-
-// ── Crear sesión de checkout para Pack 10 multas (9,99€) ─────────────────────
-export const createCheckoutPack10 = action({
-  args: { sessionToken: v.optional(v.string()) },
-  handler: async (ctx, args): Promise<{ url: string }> => {
-    const user = await requireUser(ctx, args.sessionToken);
-
-    const stripe = getStripe();
-    const origin = process.env.FRONTEND_URL ?? "https://recurretumulta.pages.dev";
-
-    const session = await stripe.checkout.sessions.create({
-      mode: "payment",
-      line_items: [{
-        price_data: {
-          currency: "eur",
-          unit_amount: 999,
-          product_data: {
-            name: "Pack 10 Recursos PDF",
-            description: "Analiza y recurre hasta 10 multas — PDFs listos para firmar",
-          },
-        },
-        quantity: 1,
-      }],
-      success_url: `${origin}/?pago=ok&producto=pdf_pack_10&session_id={CHECKOUT_SESSION_ID}`,
-      cancel_url: `${origin}/?pago=cancelado`,
-      metadata: {
-        userId: user._id,
-        producto: "pdf_pack_10",
-      },
-      locale: "es",
-      allow_promotion_codes: true,
-    });
-
-    await ctx.runMutation(internal.paymentsDb.createPendingPayment, {
-      userId: user._id,
-      stripeSessionId: session.id,
-      producto: "pdf_pack_10",
-      importe: 999,
-    });
-
-    return { url: session.url! };
-  },
-});
-
-
-export const createCheckoutVip = action({
-  args: { sessionToken: v.optional(v.string()) },
-  handler: async (ctx, args): Promise<{ url: string }> => {
-    const user = await requireUser(ctx, args.sessionToken);
-
-    const stripe = getStripe();
-    const origin = process.env.FRONTEND_URL ?? "https://recurretumulta.pages.dev";
-
-    const session = await stripe.checkout.sessions.create({
-      mode: "payment",
-      line_items: [{ price: process.env.STRIPE_PRICE_VIP_VITALICIO!, quantity: 1 }],
-      success_url: `${origin}/?pago=ok&producto=vip_vitalicio&session_id={CHECKOUT_SESSION_ID}`,
-      cancel_url: `${origin}/?pago=cancelado`,
-      metadata: {
-        userId: user._id,
-        producto: "vip_vitalicio",
-      },
-      locale: "es",
-      allow_promotion_codes: true,
-    });
-
-    await ctx.runMutation(internal.paymentsDb.createPendingPayment, {
-      userId: user._id,
-      stripeSessionId: session.id,
-      producto: "vip_vitalicio",
-      importe: 1499,
-    });
-
-    return { url: session.url! };
-  },
-});
-
-// ── Verificar sesión de Stripe manualmente (fallback sin webhook) ─────────────
-// Llamado cuando el usuario vuelve a la app tras pagar, por si el webhook no llegó
-export const verifySessionAndConfirm = action({
-  args: { sessionToken: v.optional(v.string()), sessionId: v.string() },
-  handler: async (ctx, args): Promise<{ ok: boolean; producto?: string }> => {
-    await requireUser(ctx, args.sessionToken);
-
-    const stripe = getStripe();
-    const session = await stripe.checkout.sessions.retrieve(args.sessionId);
-
-    if (session.payment_status !== "paid") return { ok: false };
-
-    // Confirmar el pago en base de datos (idempotente — no hace nada si ya está completed)
-    await ctx.runMutation(internal.paymentsDb.confirmPayment, {
-      stripeSessionId: session.id,
-      stripeCustomerId: (session.customer as string) ?? undefined,
-    });
-
-    return { ok: true, producto: session.metadata?.producto };
   },
 });
