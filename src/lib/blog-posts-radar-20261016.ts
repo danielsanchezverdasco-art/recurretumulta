@@ -84,7 +84,7 @@ Más allá de los 612 CV, el dato que más importa en el día a día: **754 km d
 
 ## El precio: el dato que falta
 
-BMW **no ha comunicado el precio del iX3 M60 xDrive**. Los pedidos se abren a finales de enero de 2027 y hasta entonces cualquier cifra sería inventada. Como referencia de la gama, tienes la <a href=/coches/bmw-ix3-50-xdrive-2026-precio-ficha-tecnica/>ficha técnica del BMW iX3 50 xDrive</a> con su precio y datos. Si buscas alternativas eléctricas premium, compáralo con el resto de SUV eléctricos en el <a href=/coches/>comparador de coches eléctricos</a>.
+BMW **no ha comunicado el precio del iX3 M60 xDrive**. Los pedidos se abren a finales de enero de 2027 y hasta entonces cualquier cifra sería inventada. Como referencia de la gama, tienes la <a href=/coches/bmw-ix3-50-xdrive-2026-precio-ficha-tecnica/>ficha técnica del BMW iX3 50 xDrive</a> con su precio y datos. Si buscas alternativas eléctricas premium, compáralo con el resto de SUV eléctricos en el <a href=/coches/>comparador de coches eléctricos</a>.<img src=/media/bmw-ix3-40-2026-precio-ficha-tecnica-hero.webp alt=bmw ix3 m60 xdrive 2026 — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -312,7 +312,7 @@ BMW España anunciará las tarifas oficiales durante las semanas previas al lanz
 | Carrocería | SUV coupé | SUV |
 | Precio de partida | 75.900 € (Alemania) | 69.900 € |
 
-El iX4 funciona como la alternativa emocional al iX3: comparte base técnica, ofrece 23 km más de autonomía por su aerodinámica y cuesta unos 5.000 euros más en Alemania. Aquí tienes el análisis del <a href=/blog/bmw-ix3-m60-xdrive-2026/>iX3 M60 xDrive de 612 CV</a>, que se publicó esta misma semana.
+El iX4 funciona como la alternativa emocional al iX3: comparte base técnica, ofrece 23 km más de autonomía por su aerodinámica y cuesta unos 5.000 euros más en Alemania. Aquí tienes el análisis del <a href=/blog/bmw-ix3-m60-xdrive-2026/>iX3 M60 xDrive de 612 CV</a>, que se publicó esta misma semana.<img src=/media/bmw-ix4-electrico-2026-galeria-2.webp alt=bmw ix4 2027 presentacion oficial — fotografía del modelo>
 
 ## Preguntas y respuestas
 

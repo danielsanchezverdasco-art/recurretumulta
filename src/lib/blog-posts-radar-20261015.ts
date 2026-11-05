@@ -81,7 +81,7 @@ Si te interesa el modelo base, tienes la <a href=/coches/skoda-epiq-2026-precio-
 | Aceleración 0–100 del Epiq 40 | No publicada |
 | Consumo WLTP por versión | No publicado |
 | EuroNCAP | Sin datos de prueba del Epiq — nunca inventar estrellas |
-| Garantía | La oficial de Skoda en España para sus eléctricos (ver ficha del modelo) |
+| Garantía | La oficial de Skoda en España para sus eléctricos (ver ficha del modelo) |<img src=/media/skoda-epiq-2026-precio-ficha-tecnica-hero.webp alt=skoda epiq sportline 2026 paris — fotografía del modelo>
 
 ## Preguntas frecuentes
 
