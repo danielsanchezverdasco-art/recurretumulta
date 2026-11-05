@@ -15,6 +15,10 @@ import type { CocheComparador } from "./comparador-coches-data.ts";
 export const COCHES_EXP19: CocheComparador[] = [
   {
     id: "renault-austral-2026-e-tech-200-precio-ficha-tecnica",
+    textosPropios: {
+      "otrasVersiones": "El Austral E-Tech 200 de 2026: misma carrocería y motores que el restyling de 2025, con Qi2, Airnity, Gemini por OTA y modo Smart. Aquí van sus otras versiones, incluida la E-Tech 200 de 2025, esencialmente el mismo coche.",
+      "precio": "El Austral E-Tech 200 de 2026 parte de 38.054 € en acabado Evolution, la misma tarifa que el de 2025, según Renault España (octubre de 2026). Diferencias entre acabados, en el análisis:",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -30,7 +34,7 @@ export const COCHES_EXP19: CocheComparador[] = [
     modelo: "Austral E-Tech 200",
     tipo: "Híbrido",
     categoria: "SUV",
-    precioDesde: 36909,
+    precioDesde: 38054, // tarifa Renault España oct-2026: Evolution E-Tech 200, misma que la 2025 (verificado 05/11/2026)
     potenciaCv: 200,
     autonomiaKm: null,
     maleteroL: 555,
@@ -41,13 +45,13 @@ export const COCHES_EXP19: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "Con 200 CV y 4,7 l/100 km, es el híbrido del segmento C-SUV con mejor equilibrio",
-      "El restyling de 2026 estrena frontal y ofrece el acabado esprit Alpine para quien busque un toque deportivo",
+      "Mantiene la carrocería del restyling de 2025 y suma carga inalámbrica Qi2, Airnity, Google Gemini por OTA y modo de conducción Smart, con el acabado esprit Alpine para quien busque un toque deportivo",
       "El maletero de 555 litros, con banqueta trasera deslizante, se adapta a pasajeros o a carga según el día",
       "Fabricado en España, en Palencia, lo que garantiza disponibilidad de recambios y de servicio",
       "Hasta 1.100 km de autonomía con un depósito: un viajero que pasa poco por la gasolinera"
     ],
     contras: [
-      "Desde 36.909 €, el salto al E-Tech 200 cuesta unos 3.900 € más que el mild hybrid",
+      "Desde 38.054 €, el salto al E-Tech 200 cuesta unos 3.800 € más que el mild hybrid",
       "El cambio multimodo puede dar tirones en maniobras a baja velocidad, como aparcar",
       "No hay versión 4x4 ni etiqueta Cero: se queda en ECO, con lo que eso implica en las ZBE",
       "La banqueta deslizante es opcional según el acabado, así que conviene revisar la dotación real",
