@@ -36,7 +36,7 @@ El Omoda 9 se vende en España con una única motorización (1.5 TGDI SHS de 537
 
 <img src=/media/omoda-9-shs-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del omoda 9 shs>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.<img src=/media/omoda-9-shs-precio-ficha-tecnica-galeria-4.webp alt=Omoda 9 SHS: 537 CV — fotografía del modelo>
 
 ## Curiosidades que quizá no sabías
 
@@ -430,7 +430,7 @@ La garantía es de **7 años o 150.000 km** (8 años/160.000 km para la batería
 
 <img src=/media/ebro-s700-precio-ficha-tecnica-oficial.webp alt=Ebro S700, SUV fabricado en Barcelona, vista lateral>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.<img src=/media/ebro-s700-precio-ficha-tecnica-interior-oficial-2.webp alt=Ebro S700: desde 24.990 € — interior>
 
 ## Curiosidades que quizá no sabías
 

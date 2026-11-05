@@ -1,3 +1,6 @@
+// Fotos 5/11/2026 (2ª oleada, renault-600-millones-elect): foto de eléctrico Renault ya presente en el pool del sitio (ficha del modelo).
+// Fotos 5/11/2026 (2ª oleada, jaguar-type-01-electrico-1): Jaguar Land Rover, foto oficial de prensa (vía Infopits).
+// Fotos 5/11/2026 (2ª oleada, ue-bruselas-cuotas-hibrido): Wikimedia Commons, CC BY 4.0, acediscovery (File:Berlaymont EU Building-Brussels.jpg); Wikimedia Commons, CC0, Jai79 (File:European Commission in Brussels.jpg); Wikimedia Commons, CC0, almathias (File:Berlaymont building in Brussels.jpg).
 // Artículos de novedades del motor (lote diario 2026-10-08, lote L).
 // 4 artículos: Bruselas vs híbridos chinos (fondo), Renault 600 M€ en España
 // (fondo), Jaguar Type 01 (flash) y Volkswagen ID.Tiguan (flash).
@@ -19,7 +22,7 @@ export const MOTOR_2026_L_POSTS: BlogPost[] = [
     "BYD Salón de París 2026",
     "coches chinos aranceles Europa",
   ],
-  content: `<img src=/media/ue-bruselas-cuotas-hibridos-chinos-hero.webp alt=Buque portacoches descargando SUVs en un puerto europeo al atardecer, imagen editorial>
+  content: `<img src=/media/ue-bruselas-cuotas-hibridos-chinos-hero.jpg alt=Buque portacoches descargando SUVs en un puerto europeo al atardecer, imagen editorial>
 
 **Bruselas** ha decidido que el truco ya no cuela: después de que **Pekín rechazara el 7 de octubre** limitar de forma voluntaria sus exportaciones de coches híbridos enchufables a Europa, la Comisión Europea prepara **cuotas de importación unilaterales con aranceles** para todo lo que entre por encima del cupo. En juego están los precios de los PHEV chinos que hoy se venden en España —Omoda, Jaecoo, MG y BYD— y la estrategia con la que las marcas chinas esquivaban los aranceles a los eléctricos puros de 2024.
 
@@ -35,7 +38,7 @@ export const MOTOR_2026_L_POSTS: BlogPost[] = [
 
 Cuando la UE impuso aranceles compensatorios a los eléctricos chinos en 2024, las marcas del gigante asiático encontraron el atajo perfecto: el **híbrido enchufable**. Sin aranceles extra y con etiqueta Cero de la DGT en España, los PHEV chinos inundaron el mercado europeo a precios que los fabricantes tradicionales no podían igualar. Ahora Bruselas quiere cerrar también esa puerta: un contingente arancelario encarecería justo la vía que Omoda, Jaecoo, MG y BYD usaban para crecer en Europa sin pagar los aranceles de los EV.
 
-<img src=/media/ue-bruselas-cuotas-hibridos-chinos-galeria-1.webp alt=SUV híbrido enchufable en el stand de un salón del automóvil, imagen editorial>
+<img src=/media/ue-bruselas-cuotas-hibridos-chinos-2.jpg alt=SUV híbrido enchufable en el stand de un salón del automóvil, imagen editorial>
 
 ## BYD contraataca en el Salón de París
 
@@ -50,7 +53,7 @@ Y mientras Bruselas afila las cuotas, **BYD** mueve ficha en el escaparate: del 
 | BYD Seal U DM-i | Híbrido enchufable | Cero | <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica/>Ver ficha</a> |
 | MG HS Hybrid+ | Híbrido (HEV) | ECO | <a href=/blog/mg-hs-hybrid-plus-225-cv-precio-espana/>Ver análisis</a> |
 
-<img src=/media/ue-bruselas-cuotas-hibridos-chinos-galeria-2.webp alt=Banderas de la Unión Europea ondeando frente a un edificio institucional, imagen editorial>
+<img src=/media/ue-bruselas-cuotas-hibridos-chinos-3.jpg alt=Banderas de la Unión Europea ondeando frente a un edificio institucional, imagen editorial>
 
 ## Qué significa para tu bolsillo
 
@@ -103,7 +106,7 @@ Renault Group producirá coches eléctricos en España por primera vez en sus 75
 
 El eje del proyecto, la RGEV Medium 2.0, llegará a Palencia como arquitectura de nueva generación estrenada en España. Renault anuncia para ella eléctricos con una autonomía de hasta 750 km WLTP, variantes de autonomía extendida hasta 1.400 km, una arquitectura de 800 voltios y cargas rápidas en torno a diez minutos. Se trata de cifras de plataforma: los modelos concretos se comunicarán más adelante.
 
-<img src=/media/renault-600-millones-electricos-espana-galeria-1.webp alt=SUV eléctrico compacto rojo en una nave industrial de automoción, imagen editorial>
+<img src=/media/renault-5-e-tech-40-kwh-2025-precio-ficha-tecnica-hero.webp alt=SUV eléctrico compacto rojo en una nave industrial de automoción, imagen editorial>
 
 ## Consecuencias para España
 
@@ -118,7 +121,7 @@ En primer lugar, trabajo industrial: 6.000 empleos directos, a los que se suma l
 | Autonomía objetivo | Hasta 750 km WLTP |
 | Empleos directos | +6.000 asegurados |
 
-<img src=/media/renault-600-millones-electricos-espana-galeria-2.webp alt=Baterías de coche eléctrico en una línea de producción moderna, imagen editorial>
+<img src=/media/renault-4-e-tech-40-kwh-2025-precio-ficha-tecnica-hero.webp alt=Baterías de coche eléctrico en una línea de producción moderna, imagen editorial>
 
 Los eléctricos que Renault ya comercializa en España, desde el <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>Renault 5 E-Tech</a> hasta el <a href=/coches/renault-megane-e-tech-2026-lfp-67-kwh-precio-ficha-tecnica/>Mégane E-Tech con batería LFP</a>, anticipan la producción palentina a gran escala. <a href=/comparador-coches/>Compáralos en nuestro comparador de coches eléctricos</a> y <a href=/guias/ayudas-compra-coche-electrico-2026/>revisa las ayudas vigentes para comprar un eléctrico en 2026</a>.
 
@@ -151,7 +154,7 @@ La cuantía es de 600 millones de euros para 2026-2030, con fondos propios del g
     "GT eléctrico 1000 CV",
     "Jaguar Type 01 España",
   ],
-  content: `<img src=/media/jaguar-type-01-electrico-1030-cv-hero.webp alt=Gran turismo eléctrico de lujo color champán en una avenida de Nueva York de noche, imagen editorial>
+  content: `<img src=/media/jaguar-type-01-electrico-1030-cv-hero.jpg alt=Gran turismo eléctrico de lujo color champán en una avenida de Nueva York de noche, imagen editorial>
 
 **Jaguar** ha vuelto. Dos años después de dejar de vender coches y de una de las campañas de reposicionamiento más polémicas de la industria, la marca británica ha desvelado en **Nueva York** el **Type 01**: un gran turismo eléctrico de cuatro puertas con **1.030 CV**, **720 km de autonomía WLTP** y carga de 350 kW. Es el Jaguar de producción más potente de la historia y la primera piedra de su renacer como marca 100 % eléctrica de lujo.
 
@@ -184,7 +187,7 @@ La cuantía es de 600 millones de euros para 2026-2030, con fondos propios del g
 | Cx | 0,23 |
 | Garantía de la batería | 8 años o 160.000 km |
 
-<img src=/media/jaguar-type-01-electrico-1030-cv-galeria-1.webp alt=Vista trasera de un GT eléctrico de lujo con firma luminosa a todo el ancho, imagen editorial>
+<img src=/media/jaguar-type-01-electrico-1030-cv-2.jpg alt=Vista trasera de un GT eléctrico de lujo con firma luminosa a todo el ancho, imagen editorial>
 
 ## El todo o nada de Jaguar
 
@@ -194,7 +197,7 @@ El Type 01 no es un coche más: es **la apuesta existencial de Jaguar**. La marc
 
 Vídeo oficial de Jaguar con la presentación del Type 01.
 
-<img src=/media/jaguar-type-01-electrico-1030-cv-galeria-2.webp alt=Interior minimalista de un GT eléctrico con pantalla OLED panorámica, imagen editorial>
+<img src=/media/jaguar-type-01-electrico-1030-cv-3.jpg alt=Interior minimalista de un GT eléctrico con pantalla OLED panorámica, imagen editorial>
 
 ## Preguntas frecuentes
 
@@ -370,7 +373,7 @@ La marca no se conforma con añadir unas siglas al portón: este Polo GTI debuta
 
 En Alemania la reserva anticipada se abrió en 39.995 €, y la compañía comunicó que la preventa otoñal se situaría «ligeramente inferior a 39.000 €». El cálculo para España, en torno a ≈39.000 €, descansa en ese comunicado oficial y no en un cambio de moneda, y aparece señalado como NO oficial en cada lugar donde figura. Cuando Volkswagen difunda la tarifa española, lo actualizaremos. <a href=/comparador-coches/>Compáralos con sus rivales en el comparador</a>.
 
-<img src=/media/volkswagen-id-polo-gti-electrico-2026-precio-galeria-2.webp alt=Interior deportivo de un hot hatch eléctrico con costuras rojas, imagen editorial>
+<img src=/media/volkswagen-id-polo-gti-electrico-2026-precio-galeria-2.webp alt=Interior deportivo de un hot hatch eléctrico con costuras rojas, imagen editorial><img src=/media/volkswagen-id-polo-2026-precio-ficha-tecnica-hero.webp alt=VW ID. Polo GTI eléctrico: 226 CV y ≈39.000 € — fotografía del modelo><img src=/media/volkswagen-id-polo-2026-precio-ficha-tecnica-hunt1.webp alt=VW ID. Polo GTI eléctrico: 226 CV y ≈39.000 € — fotografía del modelo>
 
 ## Dudas habituales
 
@@ -430,7 +433,7 @@ Primera toma de contacto con el Dacia Striker, por <a href=https://www.youtube.c
 
 Con 4,62 m y 600 litros de maletero, el Striker juega en la liga del Skoda Octavia Combi pero a precio Dacia: por debajo de 25.000 € no hay rival familiar híbrido que se le acerque. En casa compite con su hermano mayor, el <a href=/coches/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica/>Bigster Hybrid 155</a>. <a href=/comparador-coches/>Compáralos en nuestro comparador de coches</a> cuando Dacia publique la tarifa española.
 
-<img src=/media/dacia-striker-2026-precio-ficha-galeria-2.webp alt=Maletero amplio de un crossover familiar con maletas, imagen editorial>
+<img src=/media/dacia-striker-2026-precio-ficha-galeria-2.webp alt=Maletero amplio de un crossover familiar con maletas, imagen editorial><img src=/media/dacia-striker-hybrid-155-2026-precio-ficha-tecnica-hero.webp alt=Dacia Striker 2026: familiar híbrido por menos de 25.000 € — fotografía del modelo><img src=/media/dacia-striker-hybrid-155-2026-precio-ficha-tecnica-hunt1.webp alt=Dacia Striker 2026: familiar híbrido por menos de 25.000 € — fotografía del modelo>
 
 ## Preguntas frecuentes
 

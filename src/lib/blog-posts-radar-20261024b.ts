@@ -1,3 +1,4 @@
+// Fotos 5/11/2026 (2ª oleada, spotify-app-nativa-audi-47): Wikimedia Commons, CC BY-SA 2.0, doommeer (File:Audi A1 clubsport quattro dashboard and steering wheel 2011-06-02.jpg); Wikimedia Commons, CC BY-SA 4.0, Metrix98 (File:Audi A8 interior.jpg).
 // Radar de noticias 24/10/2026 06:58 (cron recurretumulta-radar-noticias-5h).
 // - Renault Clio Rally5 2027: ficha + blog (desvelo en las próximas semanas, debut en
 //   Francia en 2027 con dos copas monomarca; AutoHebdo 24/10/2026). Precio y
@@ -118,7 +119,7 @@ La lista de incógnitas es corta pero importante. La primera es el **precio**: e
 
 La segunda es la **mecánica concreta**: qué motor, con qué potencia y con qué peso mínimo. La tercera, el **calendario exacto** de las dos copas: cuántas pruebas, en qué rallyes, con qué formato. Y la cuarta, los planes de la **expansión internacional**: qué países, en qué año, con qué estructura.
 
-Actualizaremos la ficha en cuanto Renault publique los datos. Mientras tanto, lo sensato es no especular: todo lo que no esté en la tabla de confirmados de arriba, aún no existe oficialmente.
+Actualizaremos la ficha en cuanto Renault publique los datos. Mientras tanto, lo sensato es no especular: todo lo que no esté en la tabla de confirmados de arriba, aún no existe oficialmente.<img src=/media/fotos-reales/renault-clio-vi-tce-115-2025-precio-ficha-tecnica alt=renault clio rally5 2027 anuncio copa rallyes — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -168,7 +169,7 @@ Dos copas monomarca en Francia durante su primera temporada: una sobre asfalto y
       "Spotify Jam coche",
       "Car Thing Spotify",
     ],
-    content: `<img src=/media/spotify-app-nativa-audi-47-paises-hero.webp alt=App nativa de Spotify funcionando en el MMI de un Audi, con la pantalla central mostrando la interfaz del reproductor>
+    content: `<img src=/media/spotify-app-nativa-audi-47-paises-hero.webp alt=App nativa de Spotify funcionando en el MMI de un Audi, con la pantalla central mostrando la interfaz del reproductor><img src="/media/spotify-app-nativa-audi-47-paises-hero.jpg" alt="spotify-app-nativa-audi-47-paises — fotografía del modelo"><img src="/media/spotify-app-nativa-audi-47-paises-2.jpg" alt="spotify-app-nativa-audi-47-paises — fotografía del modelo">
 
 *Foto: Audi / Spotify (prensa; licencia desconocida). La app nativa de Spotify instalada desde el Audi Application Store, integrada en la pantalla central del MMI.*
 

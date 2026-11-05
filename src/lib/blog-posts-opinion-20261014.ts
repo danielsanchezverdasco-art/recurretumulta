@@ -1,3 +1,4 @@
+// Fotos 5/11/2026 (2ª oleada, europa-retrasa-coche-auton): Wikimedia Commons, CC BY-SA 4.0, Alexander Migl (File:Mobileye Autonomous Shuttle IAA 2021 1X7A0213.jpg); Wikimedia Commons, CC BY-SA 4.0, Damian B Oh (File:42dot autonomous-DRT Shuttle (5).jpg).
 // Blog de opinión 14/10/2026 (integración en src, sin publicar).
 // «Europa retrasa el coche autónomo, España prueba nivel 4».
 // Artículo de OPINIÓN: la queja es opinión; los hechos están verificados en
@@ -27,7 +28,7 @@ export const OPINION_20261014_POSTS: BlogPost[] = [
       "nivel 4",
       "DGT vehículos autónomos",
     ],
-    content: `<img src=/media/tesla-cybercab-2026-precio-ficha-tecnica-1.webp alt=Tesla Cybercab, robotaxi biplaza sin volante>
+    content: `<img src=/media/tesla-cybercab-2026-precio-ficha-tecnica-1.webp alt=Tesla Cybercab, robotaxi biplaza sin volante><img src="/media/europa-retrasa-coche-autonomo-espana-pruebas-hero.jpg" alt="europa-retrasa-coche-autonomo-espana-pruebas — fotografía del modelo"><img src="/media/europa-retrasa-coche-autonomo-espana-pruebas-2.jpg" alt="europa-retrasa-coche-autonomo-espana-pruebas — fotografía del modelo">
 
 *Foto: material de archivo de recurretumulta.online, sin origen documentado en el repositorio. La imagen muestra el Tesla Cybercab, un prototipo de robotaxi biplaza y sin volante: no se trata de una furgoneta de WeRide ni de un modelo que pueda comprarse en España.*
 

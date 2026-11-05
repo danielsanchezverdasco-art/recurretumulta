@@ -1,3 +1,4 @@
+// Fotos 5/11/2026 (2ª oleada, renault-10000-millones-ele): Wikimedia Commons, CC BY-SA 4.0, Alexander Migl (File:Renault 5 E-Tech Electric DSC 7279.jpg); Wikimedia Commons, CC BY-SA 4.0, Alexander-93 (File:Renault 5 E-Tech Electric Auto Zuerich 2024 DSC 6501.jpg); Wikimedia Commons, CC BY-SA 4.0, Alexander-93 (File:Renault 5 E-Tech Electric DSC 7168.jpg).
 // Artículos de novedades del motor (lote diario 2026-10-09, lote M).
 // 2 artículos: BYD Great Han (flash, lanzamiento China 13/10) y plan de
 // inversión de Renault de 10.000 M€ + ofensiva del Salón de París 2026 (fondo).
@@ -19,7 +20,7 @@ export const MOTOR_2026_M_POSTS: BlogPost[] = [
     "berlina eléctrica china 1000 km autonomía",
     "BYD Da Han precio",
   ],
-  content: `<img src=/media/byd-great-han-1008-km-autonomia-carga-9-minutos-hero.webp alt=Gran berlina eléctrica azul oscuro en una avenida de ciudad china al atardecer, imagen editorial>
+  content: `<img src=/media/byd-great-tang-2026-precio-ficha-tecnica-hero.webp alt=BYD Great Han: 1.008 km y carga en 9 minutos — fotografía del modelo>
 
 **BYD** ha puesto fecha a su mayor golpe en el segmento premium: el **Great Han** (Da Han en China) se lanza comercialmente el **13 de octubre de 2026** en China. Es la primera berlina insignia del segmento D de la familia Dynasty: **5,26 metros** de largo, hasta **1.008 km de autonomía CLTC** y una carga ultrarrápida que recupera del **10 al 97 % en 9 minutos**. La preventa, abierta en el Salón de Chengdu en agosto, parte de **249.900 yuanes** (unos 30.000 € al cambio, no oficial como PVP europeo).
 
@@ -53,7 +54,7 @@ De serie en toda la gama: suspensión neumática de doble cámara (DiSus-A), dir
 
 ## ¿Lo veremos en Europa?
 
-**De momento no hay plan confirmado de venta en Europa.** Es un modelo pensado para el mercado chino, donde se medirá con los premium locales y europeos. Si BYD decidiera traerlo, sería el buque insignia de la marca junto al <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica/>Seal U DM-i</a> que ya se vende en España. <a href=/comparador-coches/>Compáralos en nuestro comparador</a> para ver cuánto falta para que China iguale a Europa en el segmento premium.
+**De momento no hay plan confirmado de venta en Europa.** Es un modelo pensado para el mercado chino, donde se medirá con los premium locales y europeos. Si BYD decidiera traerlo, sería el buque insignia de la marca junto al <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica/>Seal U DM-i</a> que ya se vende en España. <a href=/comparador-coches/>Compáralos en nuestro comparador</a> para ver cuánto falta para que China iguale a Europa en el segmento premium.<img src=/media/byd-great-tang-2026-precio-ficha-tecnica-hunt1.webp alt=BYD Great Han: 1.008 km y carga en 9 minutos — fotografía del modelo><img src=/media/byd-great-tang-2026-precio-ficha-tecnica-hunt2.webp alt=BYD Great Han: 1.008 km y carga en 9 minutos — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -83,7 +84,7 @@ En preventa china, de **249.900 a 299.900 yuanes**. No hay precio para España p
     "Renault Salón de París 2026 novedades",
     "Renault eléctricos 2030 futuREady",
   ],
-  content: `<img src=/media/renault-10000-millones-electricos-paris-2026-plan-hero.webp alt=Prototipo eléctrico de color rubí oscuro en una plataforma giratoria en un salón del automóvil, imagen editorial>
+  content: `<img src=/media/renault-10000-millones-electricos-paris-2026-p-hero.jpg alt=Prototipo eléctrico de color rubí oscuro en una plataforma giratoria en un salón del automóvil, imagen editorial><img src="/media/renault-10000-millones-electricos-paris-2026-p-3.jpg" alt="renault-10000-millones-electricos-paris-2026-plan — fotografía del modelo">
 
 **Renault** pisa el acelerador: su consejero delegado, **François Provost**, comunicó el 3 de octubre en France Inter que la compañía destinará **más de 10.000 millones de euros a Francia en los próximos cinco años**, con el foco puesto en los vehículos eléctricos y en los coches más asequibles. La cifra prolonga la transformación industrial ya acometida en el país, tras **13.000 M€** invertidos en Francia durante el lustro anterior. El gran escaparate de esa estrategia será la cita parisina (12-18 de octubre), con una gama prácticamente renovada en exposición.
 
@@ -110,7 +111,7 @@ La gran atracción será el **E-Space Concept**, que se estrena en todo el mundo
 | R4 JP4x4 Concept | 4x4 lúdico heredero del 4 Plein Air y el JP4 |
 | Twingo E-Tech | Nuevo techo panorámico Twingobay (0,7 m², filtra el 99,9 % de UV) |
 
-<img src=/media/renault-10000-millones-electricos-paris-2026-plan-galeria-1.webp alt=Coche eléctrico compacto cargando en una estación de carga rápida ante una fábrica francesa al atardecer, imagen editorial>
+<img src=/media/renault-10000-millones-electricos-paris-2026-p-2.jpg alt=Coche eléctrico compacto cargando en una estación de carga rápida ante una fábrica francesa al atardecer, imagen editorial>
 
 ## Por qué el LFP lo cambia todo
 

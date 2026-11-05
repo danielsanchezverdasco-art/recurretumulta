@@ -100,7 +100,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     "moto eléctrica Honda",
     "Honda WN7 autonomía",
   ],
-  content: `<img src=/media/honda-wn7-electrica-precio-espana-15000-hero.webp alt=Moto naked eléctrica roja y negra de estilo moderno en una calle de Madrid al amanecer>
+  content: `<img src=/media/honda-wn7-electrica-precio-espana-15000-oficial-2.webp alt=Honda WN7 eléctrica por 15.000 € — fotografía del modelo>
 
 Honda por fin se ha tomado en serio la moto eléctrica grande. La **WN7** no es un scooter urbano con aspiraciones: es una **naked eléctrica de 68 CV y 100 Nm**, heredera directa del prototipo EV Fun que la marca enseñó en el EICMA 2024, y ya está a la venta en España por **15.000 €**. Los pedidos están abiertos y las primeras unidades llegan a los concesionarios este mismo octubre.
 
@@ -123,7 +123,7 @@ La WN7 juega en una liga donde casi no hay rivales japoneses. Su baza es la **ca
 
 El equipamiento es de moto grande de verdad: **ABS en curva con IMU**, control de tracción HSTC, **4 modos de conducción** (Sport, Standard, Rain, Econ), **4 niveles de frenada regenerativa** regulables con levas en el manillar, pantalla TFT de 5 pulgadas con conectividad **RoadSync**, Smart Key, USB-C y el modo *Walking Speed* que mueve la moto a paso de peatón para maniobrar sus 217 kg.
 
-<img src=/media/honda-wn7-electrica-precio-espana-15000-cuerpo.webp alt=Moto eléctrica naked junto a un punto de carga rápida en una ciudad europea>
+<img src=/media/honda-wn7-electrica-precio-espana-15000-cuerpo.webp alt=Moto eléctrica naked junto a un punto de carga rápida en una ciudad europea><img src=/media/honda-wn7-electrica-precio-espana-15000-oficial-3.webp alt=Honda WN7 eléctrica por 15.000 € — fotografía del modelo>
 
 ## Ficha técnica (datos oficiales de Honda España)
 
@@ -140,7 +140,7 @@ El equipamiento es de moto grande de verdad: **ABS en curva con IMU**, control d
 | Carga doméstica | Type 2: 0-100% en < 2 h 30 min |
 | Peso en orden de marcha | 217 kg |
 | Frenos | Doble disco delantero 296 mm + ABS con IMU |
-| Pantalla | TFT 5" con RoadSync |
+| Pantalla | TFT 5" con RoadSync |<img src=/media/honda-wn7-electrica-precio-espana-15000-oficial-4.webp alt=Honda WN7 eléctrica por 15.000 € — fotografía del modelo>
 
 ## ¿Dónde se coloca frente a sus rivales?
 

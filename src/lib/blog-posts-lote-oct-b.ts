@@ -88,7 +88,7 @@ No es el coche para quien haga viajes largos cada fin de semana: con 345 km WLTP
 
 Vídeo: <a href=https://www.youtube.com/watch?v=fRPebu_L1SE>carwow.es</a> en YouTube
 
-Si estás comparando urbanos eléctricos asequibles, no te pierdas el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf</a>, el <a href=/blog/volkswagen-id-polo-electrico-precio-espana-2026/>Volkswagen ID. Polo</a> y el <a href=/blog/leapmotor-b03x-suv-electrico-barato-europa/>Leapmotor B03X</a>.
+Si estás comparando urbanos eléctricos asequibles, no te pierdas el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf</a>, el <a href=/blog/volkswagen-id-polo-electrico-precio-espana-2026/>Volkswagen ID. Polo</a> y el <a href=/blog/leapmotor-b03x-suv-electrico-barato-europa/>Leapmotor B03X</a>.<img src=/media/geely-e2-electrico-espana-13990-euros-ficha-hunt1.webp alt=Geely E2: desde 20.990 € — fotografía del modelo><img src=/media/geely-e2-electrico-espana-13990-euros-ficha-hunt2.webp alt=Geely E2: desde 20.990 € — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -197,7 +197,7 @@ El consumo homologado (15,5-15,7 kWh/100 km) también juega a su favor en el cos
 
 Vídeo: <a href=https://www.youtube.com/watch?v=_9M-W8wSFbY>Ricardo Torres</a> en YouTube
 
-Otros eléctricos asequibles que hemos analizado: el <a href=/blog/geely-e2-electrico-barato-precio-espana/>Geely E2</a>, el <a href=/blog/skoda-epiq-electrico-barato-precio-espana/>Skoda Epiq</a> y el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf</a>.
+Otros eléctricos asequibles que hemos analizado: el <a href=/blog/geely-e2-electrico-barato-precio-espana/>Geely E2</a>, el <a href=/blog/skoda-epiq-electrico-barato-precio-espana/>Skoda Epiq</a> y el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf</a>.<img src=/media/leapmotor-b03x-2026-precio-ficha-tecnica-hero.webp alt=Leapmotor B03X: SUV eléctrico desde 24.264 € en España — fotografía del modelo><img src=/media/leapmotor-b03x-2026-precio-ficha-tecnica-hunt1.webp alt=Leapmotor B03X: SUV eléctrico desde 24.264 € en España — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -312,7 +312,7 @@ Nuestro consejo honesto: si tu presupuesto está en los 30.000 euros, espera a l
 
 Vídeo: <a href=https://www.youtube.com/watch?v=wbjUokbtE70>Hyundai España</a> en YouTube
 
-Sus duelos directos, ya analizados: el <a href=/blog/cupra-raval-electrico-precio-espana-2026/>Cupra Raval</a>, el <a href=/blog/volkswagen-id-polo-electrico-precio-espana-2026/>Volkswagen ID. Polo</a> y el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf</a>.
+Sus duelos directos, ya analizados: el <a href=/blog/cupra-raval-electrico-precio-espana-2026/>Cupra Raval</a>, el <a href=/blog/volkswagen-id-polo-electrico-precio-espana-2026/>Volkswagen ID. Polo</a> y el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf</a>.<img src=/media/hyundai-ioniq-3-2026-ficha-1.webp alt=Hyundai Ioniq 3: 497 km — fotografía del modelo><img src=/media/hyundai-ioniq-3-2026-ficha-2.webp alt=Hyundai Ioniq 3: 497 km — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -425,7 +425,7 @@ Conviene mirar el precio con lupa: entre los 42.990 € de tarifa y los 29.455 �
 
 Vídeo: <a href=https://www.youtube.com/watch?v=i8hd6_KIx6s>Loading Cars</a> en YouTube
 
-Dentro del mismo segmento, también merece un vistazo el <a href=/blog/deepal-s05-precio-espana-2026/>Deepal S05</a>, el modelo chino eléctrico con más ventas en España, y el <a href=/blog/xpeng-g9l-debut-paris-2026/>XPeng G9L</a> que se presenta en el Salón de París.
+Dentro del mismo segmento, también merece un vistazo el <a href=/blog/deepal-s05-precio-espana-2026/>Deepal S05</a>, el modelo chino eléctrico con más ventas en España, y el <a href=/blog/xpeng-g9l-debut-paris-2026/>XPeng G9L</a> que se presenta en el Salón de París.<img src=/media/byd-atto-3-evo-2025-precio-ficha-tecnica-hero.webp alt=BYD Atto 3 Evo 2026: 800 V y 449 CV desde 29.455 € — fotografía del modelo><img src=/media/byd-atto-3-evo-2025-precio-ficha-tecnica-hunt1.webp alt=BYD Atto 3 Evo 2026: 800 V y 449 CV desde 29.455 € — fotografía del modelo>
 
 ## Preguntas frecuentes
 

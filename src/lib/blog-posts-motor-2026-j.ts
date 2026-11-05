@@ -1,3 +1,4 @@
+// Fotos 5/11/2026 (2ª oleada, liux-big-salon-paris-2026): Wikimedia Commons, CC BY-SA 4.0, Matiasfernandezliux (File:Frontal escenario-0001.jpg).
 // Artículos de novedades del motor (lote diario 2026-10-06, lote J).
 // 2 artículos: Liux BIG (startup española, debut en el Salón de París 2026)
 // y Velca Nude/Eon (marca española, naked y maxiscooter eléctricas,
@@ -21,7 +22,7 @@ export const MOTOR_2026_J_POSTS: BlogPost[] = [
     "Salón de París 2026 novedades",
     "Liux BIG autonomía",
   ],
-  content: `<img src=/media/liux-big-salon-paris-2026-hero.webp alt=Pequeño coche eléctrico español sobre el escenario de un salón del automóvil en París, con focos y público>
+  content: `<img src=/media/liux-big-salon-paris-2026-hero.jpg alt=Pequeño coche eléctrico español sobre el escenario de un salón del automóvil en París, con focos y público>
 
 La española **Liux** se presenta en el **Salón del Automóvil de París** (12-18 de octubre) con la versión de producción de su **BIG**: un cuadriciclo pesado eléctrico (L7e) con carrocería de **fibra de lino**, precio prometido por **debajo de 18.000 euros** y hasta **270 km de autonomía**. Antes incluso de su puesta de largo, la marca ya acumula unos **7.500 interesados** en su lista de espera.
 
@@ -122,7 +123,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     "Velca Nude Lite precio",
     "moto eléctrica equivalente 125",
   ],
-  content: `<img src=/media/velca-nude-eon-naked-maxiscooter-electricas-hero.webp alt=Moto naked eléctrica gris oscuro aparcada en una calle de Madrid al atardecer>
+  content: `<img src=/media/motos/velca-nude-lite-2026-ficha-1.webp alt=Velca Nude y Eon: made in Spain — fotografía del modelo>
 
 La marca española **Velca** ya está entregando sus dos apuestas grandes: la naked **Nude** (desde **5.990 €** con dos baterías) y la maxiscooter **Eon** (desde **6.790 €** en promoción de lanzamiento). Entre medias, la **Nude Lite** baja la barrera de entrada a **3.990 €**. Las tres son eléctricas, las tres se venden y mantienen en España, y la Eon presume de una cifra que pocas maxiscooters tocan: **290 km de autonomía**.
 

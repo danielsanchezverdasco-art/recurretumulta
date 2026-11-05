@@ -1,3 +1,4 @@
+// Fotos 5/11/2026 (2ª oleada, icaur-v27-defender-chino-p): Wikimedia Commons, CC BY-SA 4.0, User3204 (File:2026 iCar V27.jpg); Wikimedia Commons, CC0, JustAnotherCarDesigner (File:ICar V27 002.jpg).
 // Artículos de novedades del motor (lote diario 2026-10-07, lote K).
 // 6 artículos: iCAUR V27 (análisis + ficha /coches), BMW F 450 R (análisis +
 // ficha /motos), Ducati Monster 2026 (análisis + ficha /motos),
@@ -47,7 +48,7 @@ Chery ya ha fijado la tarifa europea de su asalto al territorio del Defender: el
 | **Autonomía eléctrica** | ~145 km WLTP | ~145 km WLTP |
 | **Autonomía combinada** | 900 km WLTP | 900 km WLTP |
 
-<img src=/media/icaur-v27-defender-chino-precio-espana-2027-galeria-1.webp alt=Todoterreno azul de silueta cuadrada circulando por una carretera de montaña al atardecer>
+<img src=/media/icaur-v27-defender-chino-precio-espana-2027-hero.jpg alt=Todoterreno azul de silueta cuadrada circulando por una carretera de montaña al atardecer>
 
 ## China frente a Europa: el precio se multiplica
 
@@ -57,7 +58,7 @@ La duda lógica es la de cualquier marca recién llegada: Chery ya ocupa el segu
 
 Consulta la ficha completa, el comparador y el artículo de la marca: <a href=/coches/icaur-v27-erev-2027-precio-ficha-tecnica/>iCAUR V27: ficha técnica y precio</a> · <a href=/comparador-coches/>Comparador de coches</a> · <a href=/blog/icaur-chery-marca-aventura-europa-espana-2027/>iCAUR, la marca aventura de Chery</a>
 
-<img src=/media/icaur-v27-defender-chino-precio-espana-2027-galeria-2.webp alt=Interior de un todoterreno premium con gran pantalla táctil central y cuero marrón>
+<img src=/media/icaur-v27-defender-chino-precio-espana-2027-2.jpg alt=Interior de un todoterreno premium con gran pantalla táctil central y cuero marrón>
 
 ## iCAUR: la aventura electrificada de Chery
 
@@ -135,7 +136,7 @@ Sí: iCAUR es la denominación europea de la marca; en China se comercializa com
     "BMW F 450 R vs Honda CB500 Hornet",
     "BMW F 450 R autonomía",
   ],
-  content: `<img src=/media/bmw-f-450-r-naked-a2-precio-espana-2026-hero.webp alt=Moto naked blanca con detalles azules y rojos trazando una curva en circuito al atardecer>
+  content: `<img src=/media/bmw-f-450-gs-2026-ficha-tecnica-precio-1-480w.webp alt=BMW F 450 R: naked A2 por 6.799 € — fotografía del modelo>
 
 **BMW Motorrad** ha presentado la **F 450 R**, su nueva naked para el carnet A2: un bicilíndrico en paralelo de **420 cc** con **48 CV** al límite legal, **175 kg** en orden de marcha y una electrónica impropia de su segmento (ABS Pro en curva, control de tracción y 3 modos de serie). Llega en cuatro versiones **desde 6.799 €** y es la segunda moto de la familia F 450 tras la trail F 450 GS. Su objetivo declarado: la **Honda CB500 Hornet** y la **Kawasaki Z500**.
 
@@ -216,7 +217,7 @@ Con los datos de las fichas del sitio:
 
 La Hornet cuesta casi lo mismo, pesa 13 kg más y, según su ficha, sin quickshifter ni control de tracción. La Z500 es más barata y ligera, pero con menos potencia. La BMW gana en electrónica.
 
-**Veredicto:** merece la pena si estrenas el A2 y quieres la naked más completa en seguridad y tecnología dentro del límite legal. No es para ti si manda el precio mínimo —ahí gana la Z500—, si haces mucha autopista o si planeas saltar pronto a más potencia: ya nace en su techo.
+**Veredicto:** merece la pena si estrenas el A2 y quieres la naked más completa en seguridad y tecnología dentro del límite legal. No es para ti si manda el precio mínimo —ahí gana la Z500—, si haces mucha autopista o si planeas saltar pronto a más potencia: ya nace en su techo.<img src=/media/bmw-f-450-gs-2026-ficha-tecnica-precio-1-828w.webp alt=BMW F 450 R: naked A2 por 6.799 € — fotografía del modelo><img src=/media/bmw-f-450-gs-2026-ficha-tecnica-precio-1.webp alt=BMW F 450 R: naked A2 por 6.799 € — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -251,7 +252,7 @@ Sí: con 48 CV cumple el límite del **carnet A2** europeo sin necesidad de limi
     "Monster 2026 vs Street Triple",
     "nueva Ducati Monster 2026",
   ],
-  content: `<img src=/media/ducati-monster-2026-quinta-generacion-precio-espana-hero.webp alt=Moto naked roja italiana en estudio oscuro con iluminación dramática>
+  content: `<img src=/media/ducati-monster-2026-ficha-tecnica-precio-1-480w.webp alt=Monster 2026: 111 CV, 12.990 € — fotografía del modelo>
 
 La **Monster** cumple más de 30 años y **Ducati** la renueva por quinta vez: la **Monster 2026** estrena el motor **V2 de 890 cc** con **111 CV** y 91,1 Nm, pierde **4 kg** (175 kg sin gasolina) y mantiene la fórmula del icono —depósito musculoso, faro redondo y minimalismo—. El precio base ronda los **12.990 €** en el mercado europeo. Jubila al Testastretta 937 de la generación anterior.
 
@@ -284,7 +285,7 @@ El debate inevitable es el precio: ~12.990 € son unos 6.000 € más que una Y
 
 Ficha completa: <a href=/motos/ducati-monster-2026-ficha-tecnica-precio/>Ducati Monster 2026: ficha técnica y precio</a> · <a href=/comparador-motos/>Comparador de motos</a>
 
-<img src=/media/ducati-monster-2026-quinta-generacion-precio-espana-galeria-2.webp alt=Detalle del faro LED redondo de una moto naked roja>
+<img src=/media/ducati-monster-2026-quinta-generacion-precio-espana-galeria-2.webp alt=Detalle del faro LED redondo de una moto naked roja><img src=/media/ducati-monster-2026-ficha-tecnica-precio-1-828w.webp alt=Monster 2026: 111 CV, 12.990 € — fotografía del modelo><img src=/media/ducati-monster-2026-ficha-tecnica-precio-1.webp alt=Monster 2026: 111 CV, 12.990 € — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -316,7 +317,7 @@ No de forma natural: con 111 CV es una moto de **carnet A**. Para el A2 habría 
     "monovolumen eléctrico",
     "Espace eléctrico",
   ],
-  content: `<img src=/media/renault-e-space-concept-paris-2026-hero.webp alt=Concept car monovolumen eléctrico futurista en el escenario del Salón de París con focos azules>
+  content: `<img src=/media/renault-espace-2024-precio-ficha-tecnica-hero.webp alt=Renault E-Space: Espace eléctrico — fotografía del modelo>
 
 **Renault** ha desvelado el **E-Space Concept** días antes del **Salón del Automóvil de París** (12-18 de octubre): una reinterpretación **100% eléctrica** del Espace original de 1984, el coche que inventó el monovolumen en Europa. El estreno mundial será el **12 de octubre a las 8:30h** en el pabellón 6. Mide **4,7 metros** y recupera guiños al original (carrocería roja, bajos grises, pilar D característico) bajo el lema de las "voitures à vivre".
 
@@ -360,7 +361,7 @@ Si el concept derivara en un modelo de serie eléctrico, en España llevaría **
 
 El hueco que Renault explora lo ocupa hoy, casi en solitario, el Volkswagen ID. Buzz, el otro gran intento de resucitar el monovolumen en clave eléctrica. Y dentro de la propia casa, el Espace actual es un SUV híbrido de 7 plazas: el concept sugiere que Renault no da el formato por cerrado. Puedes repasar todos los estrenos del salón en nuestra <a href=/blog/salon-paris-2026-estrenos-electricos-guia/>guía de los eléctricos del Salón de París 2026</a>, comparar los familiares que ya se venden en el <a href=/comparador-coches/>comparador de coches</a>.
 
-**¿Merece la pena?** Como coche, no se puede comprar; como idea, es la declaración más coherente de Renault en años. **Para quién sí:** para familias que echan de menos el monovolumen de verdad y pueden esperar a ver qué llega a producción. **Para quién no:** para quien necesite un 7 plazas eléctrico este año: hoy la respuesta sigue estando en un concesionario, no en un stand.
+**¿Merece la pena?** Como coche, no se puede comprar; como idea, es la declaración más coherente de Renault en años. **Para quién sí:** para familias que echan de menos el monovolumen de verdad y pueden esperar a ver qué llega a producción. **Para quién no:** para quien necesite un 7 plazas eléctrico este año: hoy la respuesta sigue estando en un concesionario, no en un stand.<img src=/media/renault-espace-2024-precio-ficha-tecnica-hunt1.webp alt=Renault E-Space: Espace eléctrico — fotografía del modelo><img src=/media/renault-espace-2024-precio-ficha-tecnica-hunt2.webp alt=Renault E-Space: Espace eléctrico — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -452,7 +453,7 @@ Como eléctrica pura, la PV5 lleva **etiqueta Cero de la DGT**, con acceso libre
 
 El post original sitúa bien el hueco: las furgonetas eléctricas de Stellantis —Berlingo y e-Partner— dominan el segmento por precio y red, y la Volkswagen ID. Buzz Cargo juega en una liga de precio superior, más de imagen que de reparto puro. La PV5 ataca el centro con argumentos de eléctrica nativa: plataforma dedicada, carga rápida de 30 minutos y modularidad PBV. Puedes comparar las alternativas que ya se venden en el <a href=/comparador-coches/>comparador de coches</a>, repasar la gama eléctrica de la marca con el <a href=/coches/kia-ev9-2024-precio-ficha-tecnica/>Kia EV9</a> como referencia de su tecnología.
 
-**¿Merece la pena?** Sobre el papel, es la candidata más seria a furgoneta eléctrica de referencia del reparto urbano en cuanto tenga precio español. **Para quién sí:** para autónomos y flotas con rutas urbanas o periurbanas diarias y acceso a carga en base. **Para quién no:** para quien haga rutas largas diarias sin infraestructura de carga, o necesite comprar ya con un precio cerrado: la PV5 aún debe publicar el suyo en España.
+**¿Merece la pena?** Sobre el papel, es la candidata más seria a furgoneta eléctrica de referencia del reparto urbano en cuanto tenga precio español. **Para quién sí:** para autónomos y flotas con rutas urbanas o periurbanas diarias y acceso a carga en base. **Para quién no:** para quien haga rutas largas diarias sin infraestructura de carga, o necesite comprar ya con un precio cerrado: la PV5 aún debe publicar el suyo en España.<img src=/media/kia-pv5-2025-precio-ficha-tecnica-hero.webp alt=Kia PV5: furgoneta eléctrica modular PBV para España — fotografía del modelo><img src=/media/kia-pv5-2025-precio-ficha-tecnica-hunt1.webp alt=Kia PV5: furgoneta eléctrica modular PBV para España — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -485,7 +486,7 @@ Kia la ha presentado en Canarias en octubre de 2026; el calendario comercial par
     "Mondial Auto 2026",
     "novedades salón parís eléctricos",
   ],
-  content: `<img src=/media/salon-paris-2026-estrenos-electricos-guia-hero.webp alt=Pabellón del Salón del Automóvil de París 2026 con coches eléctricos en stands iluminados y público>
+  content: `<img src=/media/byd-sealion-7-salon-paris-2024.webp alt=París 2026: todos los eléctricos — fotografía del modelo>
 
 El **Salón del Automóvil de París** (12-18 de octubre, Paris Expo Porte de Versailles) se ha convertido en el campo de batalla del coche eléctrico en Europa: **20 marcas chinas** con **7 estrenos mundiales** frente a una industria europea que responde con eléctricos baratos hechos en casa. Esta es la guía con todos los estrenos eléctricos confirmados y qué mirar el día de prensa (12/10).
 
@@ -560,7 +561,7 @@ Ninguna marca presenta esta avalancha por casualidad. La normativa europea de CO
 
 El seguimiento se hace modelo a modelo. Consulta la <a href=/coches/volkswagen-id-polo-2026-precio-ficha-tecnica/>ficha del Volkswagen ID.Polo</a>, la <a href=/coches/cupra-raval-2026-precio-ficha-tecnica/>ficha del Cupra Raval</a> y la <a href=/coches/skoda-epiq-2026-precio-ficha-tecnica/>ficha del Skoda Epiq</a> para comparar los tres compactos. Si te interesa la ofensiva china, tienes la <a href=/coches/leapmotor-b03-2026-precio-ficha-tecnica/>ficha del Leapmotor B03</a> y la <a href=/coches/leapmotor-d19-2026-precio-ficha-tecnica/>ficha del Leapmotor D19</a>; si buscas el urbano, la <a href=/coches/citroen-2cv-electrico-2028/>ficha del Citroën 2CV eléctrico</a>, y si miras al premium, la <a href=/coches/lancia-gamma-2026-precio-ficha-tecnica/>ficha del Lancia Gamma</a> y la <a href=/coches/smart-2-2026-precio-autonomia-paris/>ficha del smart #2</a>. 
 
-**Veredicto:** París 2026 merece la pena como mapa, no como lista de la compra. Lo sólido son los compactos y urbanos con precio y autonomía ya anunciados —Raval, Epiq e ID.Polo— y la presión real de las marcas chinas. Lo que todavía es promesa debe leerse como declaración de intenciones. La decisión acertada es esperar a los precios finales en España, comparar las fichas que encajen y no pagar hoy por un titular de salón.
+**Veredicto:** París 2026 merece la pena como mapa, no como lista de la compra. Lo sólido son los compactos y urbanos con precio y autonomía ya anunciados —Raval, Epiq e ID.Polo— y la presión real de las marcas chinas. Lo que todavía es promesa debe leerse como declaración de intenciones. La decisión acertada es esperar a los precios finales en España, comparar las fichas que encajen y no pagar hoy por un titular de salón.<img src=/media/ds-n7-nueva-generacion-salon-paris-2026-hero.webp alt=París 2026: todos los eléctricos — fotografía del modelo><img src=/media/peugeot-salon-paris-2026-stand-hero.webp alt=París 2026: todos los eléctricos — fotografía del modelo>
 
 ## Preguntas frecuentes
 

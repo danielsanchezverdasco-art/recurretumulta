@@ -1,3 +1,4 @@
+// Fotos 5/11/2026 (2ª oleada, anfac-septiembre-2026-reco): Wikimedia Commons, CC BY-SA 4.0, Chanokchon (File:2023 Tesla Model 3 Highland Long Range AWD (Rear).jpg); Wikimedia Commons, CC BY-SA 4.0, Chanokchon (File:2023 Tesla Model 3 Highland Long Range AWD.jpg); Wikimedia Commons, CC BY-SA 4.0, Chanokchon (File:2024 Tesla Model 3 Highland Performance AWD.jpg).
 // Artículos de novedades del motor (lote diario 2026-10-04, preparado 03/10/2026).
 // 3 artículos: análisis ANFAC septiembre 2026, NIU gama 2026 (NQi Sport) y
 // Flying Flea C6 (primera eléctrica de Royal Enfield). Descartados por
@@ -21,7 +22,7 @@ export const MOTOR_2026_G_POSTS: BlogPost[] = [
       "Tesla Model 3 ventas España récord",
       "matriculaciones coches eléctricos septiembre 2026",
     ],
-    content: `<img src=/media/anfac-septiembre-2026-record-electrificacion-model-3-lider-hero.webp alt=Concesionario español con varios coches eléctricos aparcados en fila durante septiembre de 2026>
+    content: `<img src=/media/anfac-septiembre-2026-record-electrificacion-m-hero.jpg alt=Concesionario español con varios coches eléctricos aparcados en fila durante septiembre de 2026><img src="/media/anfac-septiembre-2026-record-electrificacion-m-3.jpg" alt="anfac-septiembre-2026-record-electrificacion-model-3-lider — fotografía del modelo">
 
 Septiembre de 2026 ya es historia del motor eléctrico en España: los turismos electrificados (eléctricos puros e híbridos enchufables) sumaron **31.945 matriculaciones, un 56% más** que un año antes, y alcanzaron el **34% del mercado total**, diez puntos más que en septiembre de 2025. Y el dato que lo cambia todo: por primera vez, el coche más vendido de España en un mes es 100% eléctrico — el **Tesla Model 3, con 2.528 unidades**.
 
@@ -48,7 +49,7 @@ Septiembre de 2026 ya es historia del motor eléctrico en España: los turismos 
 
 El Model 3 no solo lidera: septiembre fue **su mejor mes histórico en España**. Y no es un espejismo local: <a href=https://www.tesla.com>Tesla</a> anunció 486.532 entregas en el tercer trimestre de 2026, por encima del consenso, y en Europa sus matriculaciones de enero a agosto subieron cerca de dos tercios interanual según ACEA. El bache europeo de Tesla, al menos en ventas, empieza a quedar atrás.
 
-<img src=/media/anfac-septiembre-2026-record-electrificacion-model-3-lider-cuerpo.webp alt=Coches eléctricos enchufados a puntos de recarga rápida en un concesionario español moderno>
+<img src=/media/anfac-septiembre-2026-record-electrificacion-m-2.jpg alt=Coches eléctricos enchufados a puntos de recarga rápida en un concesionario español moderno>
 
 Pero el dato más español de la tabla está en los puestos 4 y 5 del acumulado: **Kia EV3** (3.828) y **Toyota C-HR+** (3.359). Corea y Japón ya colocan dos modelos entre los cinco eléctricos más vendidos del país, mientras el **BYD Dolphin Surf** (4.334, tercero) confirma que el urbano barato chino es mainstream. El **<a href=/coches/renault-5-e-tech-2026-precio-autonomia/>Renault 5 E-Tech</a>** (2.570) cierra el pelotón de cabeza: el eléctrico europeo "asequible" aún tiene que remontar.
 
@@ -98,7 +99,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "NIU FQiX 150 precio España",
       "mejor scooter eléctrico ciudad",
     ],
-    content: `<img src=/media/niu-nqi-sport-scooter-electrico-1999-euros-gama-2026-hero.webp alt=Scooter eléctrico NIU NQi Sport de color naranja aparcado en una calle de Barcelona>
+    content: `<img src=/media/niu-nqi-sport-2026-ficha-tecnica-precio-1.webp alt=NIU NQi Sport: scooter eléctrico con 130 km por 1.999 € — fotografía del modelo>
 
 NIU ha movido ficha: renovación completa de su gama de scooters eléctricos para Europa con las familias **NQi** (Sport y GTS renovadas), **FQiX** (nueva plataforma de diseño) y **NQiX**, todas con navegación integrada, radar trasero, ABS y la interfaz NIU Link Crown. El golpe de efecto: el **NQi Sport** parte de **1.999 €**, el precio de entrada más bajo en la historia de la marca.
 
@@ -139,7 +140,7 @@ Hasta ahora, el scooter eléctrico urbano en España era cosa de **Silence** (l�
 
 <iframe src=https://www.youtube.com/embed/yVQCH7cf36g title="Vídeo: NIU NQi Sport: el scooter eléctrico urbano" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=yVQCH7cf36g>NIU</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=yVQCH7cf36g>NIU</a> en YouTube<img src=/media/niu-nqi-sport-2026-ficha-tecnica-precio-2.webp alt=NIU NQi Sport: scooter eléctrico con 130 km por 1.999 € — fotografía del modelo><img src=/media/niu-nqi-sport-2026-ficha-tecnica-precio-3.webp alt=NIU NQi Sport: scooter eléctrico con 130 km por 1.999 € — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -179,7 +180,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "Flying Flea C6 ficha técnica",
       "moto eléctrica 6000 euros",
     ],
-    content: `<img src=/media/flying-flea-c6-moto-electrica-royal-enfield-5990-euros-hero.webp alt=Moto eléctrica Flying Flea C6 verde de estilo clásico aparcada frente a un edificio modernista de Barcelona>
+    content: `<img src=/media/fotos-reales/flying-flea-c6-moto-electrica-royal-enfield-5990-euros alt=Flying Flea C6: la eléctrica de Royal Enfield por 5.990 € — fotografía del modelo>
 
 Royal Enfield, la marca de las motos clásicas por excelencia, acaba de hacer lo impensable: lanzar su **primera moto eléctrica de producción**. La **Flying Flea C6** —bajo la nueva marca Flying Flea— cuesta **5.990 €** en Europa y las primeras entregas arrancan en **octubre de 2026** en cinco ciudades europeas, con **Barcelona** entre ellas.
 
@@ -224,7 +225,7 @@ El "pero" es la autonomía fuera de ciudad: 81 km en uso exurbano la limitan a c
 
 <iframe src=https://www.youtube.com/embed/g1961QvuLx0 title="Vídeo: Royal Enfield Electric: presentación oficial global en directo desde Milán" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=g1961QvuLx0>Royal Enfield</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=g1961QvuLx0>Royal Enfield</a> en YouTube<img src=/media/fotos-reales/flying-flea-c6-moto-electrica-royal-enfield-5990-euros/flying-flea-c6-moto-electrica-royal-enfield-5990-euros-1.webp alt=Flying Flea C6: la eléctrica de Royal Enfield por 5.990 € — fotografía del modelo><img src=/media/fotos-reales/flying-flea-c6-moto-electrica-royal-enfield-5990-euros/flying-flea-c6-moto-electrica-royal-enfield-5990-euros-2.webp alt=Flying Flea C6: la eléctrica de Royal Enfield por 5.990 € — fotografía del modelo>
 
 ## Preguntas frecuentes
 

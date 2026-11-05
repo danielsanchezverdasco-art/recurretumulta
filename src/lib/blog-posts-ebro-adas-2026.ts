@@ -21,7 +21,7 @@ export const EBRO_ADAS_POSTS: BlogPost[] = [
       "My Safety Ebro",
       "centro de control Ebro s800"
     ],
-    "content": `<img src=/media/ebro-s800-phev-2027-perfiles-adas-hero.webp alt=Ebro s800 PHEV 2027 gris oscuro en una carretera española al amanecer>
+    "content": `<img src=/media/ebro-s800-phev-precio-ficha-tecnica-hero.webp alt=Ebro s800 PHEV 2027: tus ADAS, guardados al arrancar — fotografía del modelo>
 
 Si conduces un coche nuevo, conoces el ritual: arrancas, sales del garaje y empieza el concierto. Pitido del aviso de velocidad, vibración del mantenimiento de carril, alertas que no pediste... y tú, uno por uno, desactivando menús antes de salir a la carretera. La culpa no es del coche: la **normativa europea obliga a que buena parte de los ADAS se reactiven en cada arranque**. El **Ebro s800 PHEV MY2027** ha decidido plantarle cara con **perfiles personales**: configuras una vez qué ayudas quieres y cómo, y el coche lo recuerda.
 
@@ -70,7 +70,7 @@ La función llega con la evolución del modelo para el año 2027, que también r
 
 ## Menos menús, menos distracciones (y menos multas)
 
-Hay un ángulo que nos toca de cerca: trastear con la pantalla en marcha para silenciar ayudas es una **distracción**, y las distracciones salen caras. Un perfil que deja el coche a tu gusto antes de salir reduce toqueteos en marcha. Y recuerda: si el aviso de velocidad te pilla un día con el pie pesado y te cae una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar: muchos avisos de radar tienen defectos recurribles.
+Hay un ángulo que nos toca de cerca: trastear con la pantalla en marcha para silenciar ayudas es una **distracción**, y las distracciones salen caras. Un perfil que deja el coche a tu gusto antes de salir reduce toqueteos en marcha. Y recuerda: si el aviso de velocidad te pilla un día con el pie pesado y te cae una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar: muchos avisos de radar tienen defectos recurribles.<img src=/media/ebro-s800-phev-precio-ficha-tecnica-hunt1.webp alt=Ebro s800 PHEV 2027: tus ADAS, guardados al arrancar — fotografía del modelo><img src=/media/ebro-s800-phev-precio-ficha-tecnica-hunt2.webp alt=Ebro s800 PHEV 2027: tus ADAS, guardados al arrancar — fotografía del modelo>
 
 ## Preguntas frecuentes
 

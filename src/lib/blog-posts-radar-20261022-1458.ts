@@ -1,3 +1,4 @@
+// Fotos 5/11/2026 (2ª oleada, lexus-lfa-ev-espia-espana-): foto del Lexus LFA EV concept ya presente en el pool del sitio.
 // Radar de noticias 22/10/2026 14:58 (ventana 09:58 → 14:58 CEST).
 // - BMW Serie 7 2027: ficha + blog (vídeo Carwow UK 21/10, precios España verificados).
 // - Lexus TZ: ficha + blog (a la venta en España desde 88.000 €, noticia 22/10 13:30).
@@ -63,7 +64,7 @@ Por fuera, el frontal gana una parrilla de gran tamaño con iluminación **Iconi
 
 BMW quiere mantener viva la berlina de representación frente al avance de los SUV premium. Es un coche pensado tanto para quien conduce como para quien viaja detrás: chófer privado, directivos y familias que hacen muchos kilómetros de autopista. Sus rivales directos son el **Mercedes Clase S**, el **Audi A8** y el **Lexus LS**.
 
-<a href=/coches/bmw-serie-7-2027-precio-ficha-tecnica/>Ver la ficha técnica completa del BMW Serie 7 2027</a> con todas las versiones, precios, consumos y garantía.
+<a href=/coches/bmw-serie-7-2027-precio-ficha-tecnica/>Ver la ficha técnica completa del BMW Serie 7 2027</a> con todas las versiones, precios, consumos y garantía.<img src=/media/bmw-serie-1-120-2026-precio-ficha-tecnica-hero.webp alt=bmw serie 7 2027 precio autonomia carwow — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -148,7 +149,7 @@ Con las seis plazas en uso, el maletero se queda en **257 litros**; abatiendo la
 
 *Foto: Lexus UK (media.lexus.co.uk). Imagen oficial de prensa; licencia desconocida.*
 
-<a href=/coches/lexus-tz-2026-precio-ficha-tecnica/>Ver la ficha técnica completa del Lexus TZ</a> con versiones, precios, consumos y garantía.
+<a href=/coches/lexus-tz-2026-precio-ficha-tecnica/>Ver la ficha técnica completa del Lexus TZ</a> con versiones, precios, consumos y garantía.<img src=/media/lexus-tz-2026-precio-ficha-tecnica-hero.webp alt=lexus tz espana precio 88 000 euros 2026 — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -231,7 +232,7 @@ Por dentro, el sistema **SIAS** usa inteligencia artificial para una comunicaci�
 
 ## ¿Dónde se coloca el Omoda X?
 
-Con sus casi 5 metros, se sitúa un peldaño por encima de los conocidos <a href=/coches/omoda-4-2026-precio-ficha-tecnica/>Omoda 4</a> y <a href=/coches/omoda-5-gasolina-2026-precio-ficha-tecnica/>Omoda 5</a>, más cerca del <a href=/coches/omoda-7-shs-2026-precio-ficha-tecnica/>Omoda 7</a>. Es, en la práctica, el SUV más aspiracional de la marca hasta la fecha. Cuando Omoda publique la ficha de la versión de producción, prepararemos su ficha técnica completa: de momento, lo honesto es no inventar ni un solo dato.
+Con sus casi 5 metros, se sitúa un peldaño por encima de los conocidos <a href=/coches/omoda-4-2026-precio-ficha-tecnica/>Omoda 4</a> y <a href=/coches/omoda-5-gasolina-2026-precio-ficha-tecnica/>Omoda 5</a>, más cerca del <a href=/coches/omoda-7-shs-2026-precio-ficha-tecnica/>Omoda 7</a>. Es, en la práctica, el SUV más aspiracional de la marca hasta la fecha. Cuando Omoda publique la ficha de la versión de producción, prepararemos su ficha técnica completa: de momento, lo honesto es no inventar ni un solo dato.<img src=/media/omoda-x-2027-precio-ficha-tecnica-hero.webp alt=omoda x prototipo presentacion wuhu 2026 — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -279,7 +280,7 @@ Omoda lo define como un **producto global**, así que es probable que llegue a E
       "Lexus LFA fotos espía",
       "Lexus deportivo eléctrico",
     ],
-    content: `<img src=/media/lexus-lfa-ev-concept-trasera.webp alt=Lexus Electrified Sport concept, vista trasera con tira LED>
+    content: `<img src=/media/lexus-lfa-ev-concept-trasera.webp alt=Lexus Electrified Sport concept, vista trasera con tira LED><img src="/media/lexus-lfa-ev-concept-trasera.webp" alt="lexus-lfa-ev-espia-espana-prototipo-2027 — fotografía del modelo">
 
 *Foto: concept Lexus Electrified Sport (imagen de referencia; el prototipo cazado en España circulaba con fuerte camuflaje). Fuente: thesupercarblog.com. Licencia desconocida.*
 

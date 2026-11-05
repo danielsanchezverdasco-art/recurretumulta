@@ -1,3 +1,4 @@
+// Fotos 5/11/2026 (2ª oleada, alpine-a310-vision-concept): Wikimedia Commons, CC BY-SA 4.0, Bagnole55 (File:Alpine A310 Vision.jpg); Wikimedia Commons, CC BY-SA 4.0, Y.Leclercq (File:Alpine A310 Vision 01.jpg).
 // Radar de noticias 15/10/2026 (cron recurretumulta-radar-noticias-5h).
 // - Skoda Epiq Sportline: presentado en el Salón de París 2026 (noticia del día).
 //   Blog + enlace a la ficha existente del Epiq (trim nuevo, no modelo nuevo).
@@ -81,7 +82,7 @@ Si te interesa el modelo base, tienes la <a href=/coches/skoda-epiq-2026-precio-
 | Aceleración 0–100 del Epiq 40 | No publicada |
 | Consumo WLTP por versión | No publicado |
 | EuroNCAP | Sin datos de prueba del Epiq — nunca inventar estrellas |
-| Garantía | La oficial de Skoda en España para sus eléctricos (ver ficha del modelo) |
+| Garantía | La oficial de Skoda en España para sus eléctricos (ver ficha del modelo) |<img src=/media/skoda-epiq-2026-precio-ficha-tecnica-hero.webp alt=skoda epiq sportline 2026 paris — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -129,7 +130,7 @@ No: es un acabado (versión) del Skoda Epiq, que ya está a la venta. La ficha t
       "Alpine concept retrofuturista",
       "Alpine plataforma APP",
     ],
-    content: `<img src=/media/alpine-a310-vision-2026-hero.webp alt=Alpine A310 Vision, concept retrofuturista expuesto en el Salón de París 2026>
+    content: `<img src=/media/alpine-a310-vision-2026-hero.webp alt=Alpine A310 Vision, concept retrofuturista expuesto en el Salón de París 2026><img src="/media/alpine-a310-vision-concept-paris-2026-hero.jpg" alt="alpine-a310-vision-concept-paris-2026 — fotografía del modelo"><img src="/media/alpine-a310-vision-concept-paris-2026-2.jpg" alt="alpine-a310-vision-concept-paris-2026 — fotografía del modelo">
 
 *Foto: Alpine (prensa) / Autonocion (distribución). Imagen de prensa distribuida por un medio tercero; no es una foto descargada del media site oficial de Alpine/Renault. Licencia desconocida.*
 

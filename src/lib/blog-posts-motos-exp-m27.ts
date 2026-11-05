@@ -1,3 +1,5 @@
+// Fotos 5/11/2026 (2ª oleada, kove-450rr-2024-precio): Kove Motorcycles UK (MotoGB), galería oficial del modelo (bikes.motobank.co.uk).
+// Fotos 5/11/2026 (2ª oleada, morbidelli-c1002v-2025-pre): Morbidelli UK (MotoGB), galería oficial del modelo (bikes.motobank.co.uk); Wikimedia Commons, CC BY-SA 4.0, AVMOTO (File:Morbidelli C1002V 2025.jpg).
 // Lote M27 — 5 artículos de motos (Kove 450RR, Kove 800X, Morbidelli T502X,
 // Morbidelli C1002V, Macbor Montana XR5). Datos verificados el 2026-10-08.
 // Cada artículo enlaza su ficha /motos/<data-id> (regla dura 04/10/2026).
@@ -24,7 +26,7 @@ export const MOTOS_EXP_M27_POSTS: BlogPost[] = [
       "kove 450rr españa",
       "tetracilindrica 450 precio",
     ],
-    content: `<img src=/media/kove-450rr-2024-precio-hero.webp alt=Kove 450RR 2024 blanca y negra con carenado integral y winglets>
+    content: `<img src=/media/kove-450rr-2024-precio-hero.jpg alt=Kove 450RR 2024 blanca y negra con carenado integral y winglets>
 
 **¿Buscas solo los datos?** <a href=/motos/kove-450rr-2024-ficha-tecnica-precio/>Ver ficha técnica de la Kove 450RR</a>: precio, tetracilíndrico de 66,6 CV, suspensiones KYB y etiqueta DGT. <a href=/comparador-motos/>Compárala cara a cara con sus rivales</a>.
 
@@ -51,7 +53,7 @@ No es una moto lógica: es una moto para quien disfruta llevando un tetracilínd
 
 La Kove 450RR se vende en España desde **unos 6.297 €** con IVA y transporte incluidos para Península y Baleares (sin matriculación). Hay dos versiones: la estándar y la **Pro**, que añade horquilla y amortiguador KYB multirregulables con depósito de gas separado, pinzas radiales de 4 pistones y pantalla TFT de 5 pulgadas con mirroring. Dos colores disponibles: blanco y negro.
 
-<img src=/media/kove-450rr-2024-precio-galeria-1.webp alt=Kove 450RR 2024, detalle del frontal afilado con winglets integrados>
+<img src=/media/kove-450rr-2024-precio-2.jpg alt=Kove 450RR 2024, detalle del frontal afilado con winglets integrados>
 
 ## Motor: un cuatro cilindros donde nadie lo esperaba
 
@@ -70,7 +72,7 @@ Chasis multitubular de acero de alta resistencia, **horquilla invertida Kayaba d
 - **2024**: llega la **450RR**, la deportiva tetracilíndrica que pone a Kove en el mapa de las sport medias.
 - **2025**: la gama se consolida en España con red de concesionarios en expansión y 3 años de garantía.
 
-<img src=/media/kove-450rr-2024-precio-galeria-2.webp alt=Kove 450RR 2024 rodando en circuito, vista lateral en curva>
+<img src=/media/kove-450rr-2024-precio-3.jpg alt=Kove 450RR 2024 rodando en circuito, vista lateral en curva>
 
 ## Pros y contras
 
@@ -125,7 +127,7 @@ En circuito, un despiste con el puño sale caro: si te ha llegado una denuncia p
       "trail china 94 cv",
       "kove 800x españa",
     ],
-    content: `<img src=/media/kove-800x-2025-precio-hero.webp alt=Kove 800X Pro 2025 en pista de tierra, vista tres cuartos>
+    content: `<img src=/media/kove-800x-gt-2026-ficha-tecnica-precio-1.webp alt=Kove 800X 2025: precio, ficha y prueba — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/motos/kove-800x-2025-ficha-tecnica-precio/>Ver ficha técnica de la Kove 800X</a>: precio, motor de 94,5 CV, suspensiones KYB de 240 mm y etiqueta DGT. <a href=/comparador-motos/>Compárala cara a cara con sus rivales</a>.
 
@@ -180,7 +182,7 @@ Chasis tubular de acero de doble viga, **horquilla invertida KYB de 48 mm** y mo
 | KYB 240 mm totalmente regulables | Sin control de crucero en la Pro |
 | ABS de 3 modos y tracción configurable | Red de servicio en expansión |
 | TFT 7" con mirroring, TPMS y USB | Depósito de 19 L justo para viajar |
-| 1.900 € menos que la KTM 790 Adventure | 190 kg se notan en parado |
+| 1.900 € menos que la KTM 790 Adventure | 190 kg se notan en parado |<img src=/media/kove-800x-gt-2026-ficha-tecnica-precio-2.webp alt=Kove 800X 2025: precio, ficha y prueba — fotografía del modelo><img src=/media/kove-800x-gt-2026-ficha-tecnica-precio-3.webp alt=Kove 800X 2025: precio, ficha y prueba — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -225,7 +227,7 @@ Con 94 CV bajo el puño, un radar despistado sale caro: si te ha llegado una den
       "trail 500 47 cv precio",
       "morbidelli españa",
     ],
-    content: `<img src=/media/morbidelli-t502x-2025-precio-hero.webp alt=Morbidelli T502X 2025 azul en camino de tierra, vista tres cuartos>
+    content: `<img src=/media/morbidelli-t502x-2026-ficha-tecnica-precio-1.webp alt=Morbidelli T502X 2025: precio y ficha técnica — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/motos/morbidelli-t502x-2025-ficha-tecnica-precio/>Ver ficha técnica de la Morbidelli T502X</a>: precio, motor de 47 CV, TFT de 7" con GPS y etiqueta DGT. <a href=/comparador-motos/>Compárala cara a cara con sus rivales</a>.
 
@@ -278,7 +280,7 @@ La parte ciclo monta **horquilla invertida de 43 mm** con 180 mm de recorrido, m
 | TFT 7" vertical con GPS y conectividad | 209 kg, no es ligera |
 | Equipamiento de serie de maxitrail | 47 CV justos en autopista cargada |
 | ABS Bosch off-road y control de tracción | Sin quickshifter |
-| 5 años de garantía | Red de concesionarios pequeña |
+| 5 años de garantía | Red de concesionarios pequeña |<img src=/media/morbidelli-t502x-2026-ficha-tecnica-precio-2.webp alt=Morbidelli T502X 2025: precio y ficha técnica — fotografía del modelo><img src=/media/morbidelli-t502x-2026-ficha-tecnica-precio-3.webp alt=Morbidelli T502X 2025: precio y ficha técnica — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -323,7 +325,7 @@ Si estrenas el A2 con ella, recuerda que los radares no perdonan a los novatos: 
       "morbidelli custom precio españa",
       "power cruiser 2025",
     ],
-    content: `<img src=/media/morbidelli-c1002v-2025-precio-hero.webp alt=Morbidelli C1002V 2025 negra, custom V-twin vista lateral>
+    content: `<img src=/media/morbidelli-c1002v-2025-precio-hero.jpg alt=Morbidelli C1002V 2025 negra, custom V-twin vista lateral>
 
 **¿Buscas solo los datos?** <a href=/motos/morbidelli-c1002v-2025-ficha-tecnica-precio/>Ver ficha técnica de la Morbidelli C1002V</a>: precio, V-twin de 88,4 CV, rueda de 240 y etiqueta DGT. <a href=/comparador-motos/>Compárala cara a cara con sus rivales</a>.
 
@@ -351,7 +353,7 @@ Es la moto para quien quiere presencia, par motor y viajes tranquilos sin el man
 
 La C1002V se vende en España desde **9.990 €**, un precio sin competencia: ninguna custom de 1000 cc baja de esa cifra. De serie incluye **control de crucero**, pantalla **TFT de 5 pulgadas**, **TPMS**, puerto USB, **2 modos de conducción**, iluminación full LED con DRL y **5 años de garantía**. Algunos concesionarios la ofrecen con kit de maletas y respaldo de regalo en campaña.
 
-<img src=/media/morbidelli-c1002v-2025-precio-galeria-1.webp alt=Morbidelli C1002V 2025, detalle del motor V-twin de 997 cc>
+<img src=/media/morbidelli-c1002v-2025-precio-2.jpg alt=Morbidelli C1002V 2025, detalle del motor V-twin de 997 cc>
 
 ## Motor: un V-twin de los de verdad
 
@@ -368,7 +370,7 @@ Chasis de doble cuna de acero, **horquilla invertida KYB** con 137 mm de recorri
 - **2024**: debuta la **C1002V**, la custom V-twin que comparte plataforma con la maxitrail T1002VX.
 - **2025**: se consolida como la custom de 1000 cc más asequible del mercado europeo.
 
-<img src=/media/morbidelli-c1002v-2025-precio-galeria-2.webp alt=Morbidelli C1002V 2025 rodando al atardecer por carretera>
+<img src=/media/morbidelli-c1002v-2025-precio-3.jpg alt=Morbidelli C1002V 2025 rodando al atardecer por carretera>
 
 ## Pros y contras
 
@@ -423,7 +425,7 @@ Una custom así invita a disfrutar la carretera, no a correr: pero si un radar t
       "macbor xr5 500 precio españa",
       "trail 47 cv 2024",
     ],
-    content: `<img src=/media/macbor-xr5-2024-precio-hero.webp alt=Macbor Montana XR5 2024 roja y gris en pista, vista tres cuartos>
+    content: `<img src=/media/macbor-xr5-500-2025-ficha-tecnica-precio-1-480w.webp alt=Macbor XR5 2024: precio y ficha técnica — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/motos/macbor-xr5-2024-ficha-tecnica-precio/>Ver ficha técnica de la Macbor Montana XR5</a>: precio, motor de 47 CV, 178 kg y etiqueta DGT. <a href=/comparador-motos/>Compárala cara a cara con sus rivales</a>.
 
@@ -478,7 +480,7 @@ Macbor obsesionó con el peso: manillar, tijas, llantas, bujes, basculante, estr
 | KYB multirregulable en ambos trenes | Vibraciones en el carenado |
 | ABS de 3 modos, pensado para off-road | 47 CV justos en autopista cargada |
 | Llantas Akront tubeless + Metzeler | Asiento a 840 mm, alto para algunos |
-| Equipada de serie, marca española | Red de concesionarios pequeña |
+| Equipada de serie, marca española | Red de concesionarios pequeña |<img src=/media/macbor-xr5-500-2025-ficha-tecnica-precio-1-828w.webp alt=Macbor XR5 2024: precio y ficha técnica — fotografía del modelo><img src=/media/macbor-xr5-500-2025-ficha-tecnica-precio-1.webp alt=Macbor XR5 2024: precio y ficha técnica — fotografía del modelo>
 
 ## Preguntas frecuentes
 

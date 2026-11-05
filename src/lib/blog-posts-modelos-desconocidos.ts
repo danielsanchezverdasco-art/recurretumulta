@@ -1,3 +1,10 @@
+// Fotos 5/11/2026 (2ª oleada, avatr-changan-huawei-catl-): Wikimedia Commons, CC0, JustAnotherCarDesigner (File:Avatr 06T 001.jpg); Wikimedia Commons, CC0, JustAnotherCarDesigner (File:Avatr 06T 002.jpg).
+// Fotos 5/11/2026 (2ª oleada, jetour-zongheng-g700-903-c): Wikimedia Commons, CC0, JustAnotherCarDesigner (File:Jetour Zongheng G700 003.jpg); Wikimedia Commons, CC0, JustAnotherCarDesigner (File:Jetour Zongheng G700 004.jpg).
+// Fotos 5/11/2026 (2ª oleada, hongqi-g919-4x4-electrico-): Wikimedia Commons, CC0, JustAnotherCarDesigner (File:Hongqi G919 003.jpg).
+// Fotos 5/11/2026 (2ª oleada, icaur-chery-marca-aventura): foto iCaur ya presente en el pool del sitio.
+// Fotos 5/11/2026 (2ª oleada, fangchengbao-byd-marca-des): foto del Bao 5 (Fangchengbao/Denza Bao 5) ya presente en el pool del sitio (ficha del modelo).
+// Fotos 5/11/2026 (2ª oleada, rox-01-erev-pininfarina-au): foto del mismo modelo ya presente en el pool del sitio (ficha u otro post del modelo).
+// Fotos 5/11/2026 (2ª oleada, evoke-nrgy-moto-electrica-): Evoke Motorcycles, galería oficial del modelo (evokemotorcycles.com).
 // Sección "Modelos desconocidos" (03/10/2026) — marcas chinas poco conocidas en Europa.
 // El coche chino es el futuro: Fangchengbao, Yangwang, Avatr, Rox Motor, IM Motors.
 // Datos verificados en prensa especializada; lo no confirmado se marca como pendiente.
@@ -20,7 +27,7 @@ export const MODELOS_DESCONOCIDOS_POSTS: BlogPost[] = [
       "marcas chinas desconocidas",
       "BYD marcas"
     ],
-    "content": `<img src=/media/fangchengbao-desconocidos-hero.webp alt=Todoterreno híbrido enchufable chino de estilo robusto circulando por una pista de montaña al atardecer>
+    "content": `<img src=/media/fangchengbao-desconocidos-hero.webp alt=Todoterreno híbrido enchufable chino de estilo robusto circulando por una pista de montaña al atardecer><img src="/media/denza-bao-5-2026-precio-ficha-tecnica-oficial.webp" alt="fangchengbao-byd-marca-desconocida-formula-s-bao-5 — fotografía del modelo">
 
 Probablemente nunca has oído hablar de **Fang Cheng Bao**. Y sin embargo es la marca de coches que más rápido ha crecido en la historia reciente de China: **casi 500.000 coches fabricados en apenas tres años de vida**. Es la benjamina del imperio **BYD**, nació para fabricar todoterrenos híbridos enchufables con estética aventurera, y su desembarco en Europa ya ha empezado, aunque con otro nombre en el portón.
 
@@ -32,7 +39,7 @@ Fang Cheng Bao (FCB) es una de las submarcas de BYD, lanzada para cubrir el huec
 
 El dato que resume su trayectoria: según la prensa especializada, la marca ha fabricado **cerca de 500.000 coches en sus casi tres años de existencia**. Para ponerlo en contexto, muchas marcas europeas centenarias no llegan a esas cifras anuales en todo el continente.
 
-<img src=/media/fangchengbao-bao-5-cuerpo.webp alt=Fang Cheng Bao Bao 5, el todoterreno híbrido enchufable de BYD>
+<img src=/media/denza-bao-5-2026-precio-ficha-tecnica-hero.webp alt=Fang Cheng Bao Bao 5, el todoterreno híbrido enchufable de BYD>
 
 ## El Bao 5: el primer Fang Cheng Bao que pisará Europa
 
@@ -133,7 +140,7 @@ El **U8** es un todoterreno de **rango extendido (EREV)** de 5,32 metros (5,41 e
 - **Flota en el agua**: en caso de emergencia puede flotar y navegar a **3 km/h**, con las ruedas actuando como hélices.
 - **Giro de tanque**: cada rueda gira de forma independiente, así que puede **rotar 360° sobre su propio eje**.
 
-En China cuesta el equivalente a unos **150.000 €**, lo que lo convirtió en uno de los coches de producción en serie más caros del país. La versión larga U8L, con llantas de estilo Rolls-Royce y configuración de seis plazas, se presentó en el **Festival de la Velocidad de Goodwood 2026**, donde BYD montó un stand de unos dos millones de euros.
+En China cuesta el equivalente a unos **150.000 €**, lo que lo convirtió en uno de los coches de producción en serie más caros del país. La versión larga U8L, con llantas de estilo Rolls-Royce y configuración de seis plazas, se presentó en el **Festival de la Velocidad de Goodwood 2026**, donde BYD montó un stand de unos dos millones de euros.<img src=/media/yangwang-byd-u8-u9-europa-2027-hunt1.webp alt=Yangwang U8: 1.197 CV, flota en agua, llega a Europa — fotografía del modelo>
 
 ## Yangwang U9: el superdeportivo que salta
 
@@ -204,7 +211,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "marcas chinas premium",
       "familiar eléctrico chino"
     ],
-    "content": `<img src=/media/avatr-desconocidos-hero.webp alt=Familiar eléctrico deportivo chino de color gris circulando por una carretera de costa al atardecer>
+    "content": `<img src=/media/avatr-desconocidos-hero.webp alt=Familiar eléctrico deportivo chino de color gris circulando por una carretera de costa al atardecer><img src="/media/avatr-changan-huawei-catl-06t-t09-2.jpg" alt="avatr-changan-huawei-catl-06t-t09 — fotografía del modelo">
 
 Imagina un familiar con **prestaciones de Ferrari SF90** y espacio de **Audi A6 Avant** por el precio de un **Toyota Corolla**. No es un ejercicio de imaginación: se llama **Avatr 06T**, ya se vende en China, y es obra de una alianza que ningún fabricante europeo puede replicar: **Changan** (el coche), **Huawei** (el software y la conducción autónoma) y **CATL** (las baterías).
 
@@ -214,7 +221,7 @@ Avatr es probablemente la marca china premium con más músculo tecnológico del
 
 La fórmula es única en la industria: el fabricante tradicional **Changan** pone la plataforma y la producción, **CATL** —el mayor fabricante de baterías del mundo— pone la energía, y **Huawei** pone el cerebro: software de cabina, conducción asistida y electrónica. Tres líderes mundiales, cada uno en lo suyo, en una sola marca.
 
-<img src=/media/avatr-06t-familiar-cuerpo.webp alt=Avatr 06T, el familiar eléctrico de altas prestaciones>
+<img src=/media/avatr-changan-huawei-catl-06t-t09-hero.jpg alt=Avatr 06T, el familiar eléctrico de altas prestaciones>
 
 ## Avatr 06T: el familiar de 955 CV que rompe la baraja
 
@@ -299,7 +306,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "EREV autonomía",
       "marcas chinas desconocidas"
     ],
-    "content": `<img src=/media/rox-01-desconocidos-hero.webp alt=SUV premium chino de color blanco con techo panorámico aparcado en un mirador de montaña al amanecer>
+    "content": `<img src=/media/rox-01-desconocidos-hero.webp alt=SUV premium chino de color blanco con techo panorámico aparcado en un mirador de montaña al amanecer><img src="/media/rox-01-2024-precio-ficha-tecnica-oficial.webp" alt="rox-01-erev-pininfarina-autonomia-1115-km — fotografía del modelo">
 
 Hay una marca china que ha contratado a **Pininfarina** —el estudio italiano que dibujó los Ferrari más bellos de la historia— para diseñar su coche, y que propone una categoría nueva: **"Global Luxury Outdoor"**. Se llama **Rox Motor**, su modelo es el **Rox 01**, y su argumento es demoledor: **1.115 km de autonomía combinada** sin renunciar al lujo ni a las capacidades todoterreno.
 
@@ -309,7 +316,7 @@ El Rox 01 no es un híbrido convencional. Usa una arquitectura de **rango extend
 
 El diseño exterior e interior se desarrolló **junto a Pininfarina**, y se nota: líneas limpias, proporciones de SUV premium americano y un interior de tres filas con aspiraciones de salón rodante.
 
-<img src=/media/rox-01-suv-pininfarina-cuerpo.webp alt=Rox 01, el SUV de autonomía extendida diseñado por Pininfarina>
+<img src=/media/rox-01-2024-precio-ficha-tecnica-hero.webp alt=Rox 01, el SUV de autonomía extendida diseñado por Pininfarina>
 
 ## Cifras del Rox 01
 
@@ -402,7 +409,7 @@ IM Motors (IM = Intelligence in Motion) es la división premium de **SAIC Motor*
 
 La marca anunció su llegada a Europa a principios de 2024 y por ahora opera en el **Reino Unido** (donde algunos modelos se venden bajo la marca MG) y Australia, además de Oriente Medio. La expansión al resto del continente es cuestión de tiempo.
 
-<img src=/media/im-motors-ls6-suv-cuerpo.webp alt=IM LS6, el SUV eléctrico de IM Motors>
+<img src=/media/im-motors-ls6-suv-cuerpo.webp alt=IM LS6, el SUV eléctrico de IM Motors><img src=/media/im-motors-ls6-nuevo-suv-electrico-model-y-hunt1.webp alt=IM Motors LS6: el SUV chino rival del Tesla Model Y — fotografía del modelo>
 
 ## El nuevo IM LS6: chasis de avión en un SUV familiar
 
@@ -485,7 +492,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "iCaur España",
       "marcas chinas desconocidas"
     ],
-    "content": `<img src=/media/icaur-v23-chery-hero.webp alt=SUV eléctrico chino de estilo retro y robusto con faros redondos circulando por una pista de montaña>
+    "content": `<img src=/media/icaur-v23-chery-hero.webp alt=SUV eléctrico chino de estilo retro y robusto con faros redondos circulando por una pista de montaña><img src="/media/icaur-03t-2026-hero.webp" alt="icaur-chery-marca-aventura-europa-espana-2027 — fotografía del modelo">
 
 Probablemente no has oído hablar de **iCaur**. Es la marca más aventurera del gigante **Chery** (el dueño de Omoda y Jaecoo), y tiene un plan que te afecta directamente: **desembarcar en Europa en 2027, con España en la hoja de ruta**. La noticia saltó esta misma semana: Austria será el banco de pruebas este otoño y el anuncio oficial llegará antes de que termine 2026.
 
@@ -524,7 +531,7 @@ El **V25** combina un motor de gasolina 1.5 con un motor eléctrico y una bater�
 
 El **V27** es el buque insignia: un SUV de cinco metros con estética de Land Rover Defender, unos **450 CV** en su versión 4x4 y hasta **1.000 km de autonomía combinada**. Su maletero de 715 litros (1.818 con asientos abatidos) lo pone en la liga de los grandes SUV familiares.
 
-<img src=/media/icaur-v27-rex.webp alt=iCaur V27, el SUV de autonomía extendida de cinco metros y 450 CV>
+<img src=/media/chery-icaur-v27-2027-precio-ficha-tecnica-hero.webp alt=iCaur V27, el SUV de autonomía extendida de cinco metros y 450 CV>
 
 ## El V23 en detalle: el Jimny eléctrico por 13.000 €
 
@@ -592,7 +599,7 @@ Te contamos qué es el i8, por qué no despega y qué significa para ti su llega
 
 ## Qué es el Li Auto i8
 
-El i8 es el **SUV eléctrico puro** de Li Auto (Li Xiang), la marca china famosa por sus SUV de autonomía extendida. Presentado en julio de 2025 y a la venta desde agosto, es un familiar grande de **5,09 metros** y tres filas de asientos, con un diseño de líneas suaves inspirado en un yate y un coeficiente aerodinámico de **0,218**, digno de un superdeportivo.
+El i8 es el **SUV eléctrico puro** de Li Auto (Li Xiang), la marca china famosa por sus SUV de autonomía extendida. Presentado en julio de 2025 y a la venta desde agosto, es un familiar grande de **5,09 metros** y tres filas de asientos, con un diseño de líneas suaves inspirado en un yate y un coeficiente aerodinámico de **0,218**, digno de un superdeportivo.<img src=/media/li-auto-i8-suv-electrico-6-plazas-precio-2026-hunt1.webp alt=Li Auto i8: SUV eléctrico 6 plazas, 780 km, carga 5C — fotografía del modelo>
 
 ## Ficha técnica: la gama 2026
 
@@ -718,7 +725,7 @@ Antes de soñar con un coche de 5 metros y 755 km por 26.000 €, la realidad: e
 
 ¿Y si Volkswagen cambiara de idea? Los rumores apuntan a que los alemanes estudian **traer a Europa varios de sus eléctricos chinos**, y el UNYX 09 encajaría como un hipotético **ID.9** entre el ID.7 y el segmento premium. Con un posicionamiento lógico en torno a los 60.000 €, tendría rivales como el Tesla Model 3, el BYD Seal o el Hyundai IONIQ 6 temblando. Pero hoy por hoy es solo un rumor: **no hay plan oficial**.
 
-Puedes comparar lo que sí se vende aquí en el <a href=/comparador-coches/>comparador de coches eléctricos</a>.
+Puedes comparar lo que sí se vende aquí en el <a href=/comparador-coches/>comparador de coches eléctricos</a>.<img src=/media/fotos-reales/volkswagen-id-aura-t6-xpeng-china alt=ID. UNYX 09: 755 km solo para China — fotografía del modelo><img src=/media/fotos-reales/volkswagen-id-aura-t6-xpeng-china/volkswagen-id-aura-t6-xpeng-china-1.webp alt=ID. UNYX 09: 755 km solo para China — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -813,7 +820,7 @@ Para verlo en detalle, esta prueba del creador <a href=https://www.youtube.com/w
 
 **De momento, no.** El Galaxy TT solo se vende en China y, a septiembre de 2026, Geely **no ha confirmado ningún plan de exportación** de esta generación. Es el mismo caso que el de otros eléctricos desarrollados solo para China, como el <a href=/blog/volkswagen-id-unyx-09-electrico-china-755-km/>Volkswagen ID. UNYX 09, la berlina china de 755 km que VW no trae a Europa</a>.
 
-La estrategia de Geely en Europa pasa por sus marcas occidentales —**Volvo, Polestar, Lotus, smart o Zeekr**—, así que el TT quedará, por ahora, como una de esas rarezas chinas que solo se pueden ver en vídeo. Si buscas una berlina eléctrica que sí se venda aquí, <a href=/comparador-coches/>pásate por el comparador de coches eléctricos</a>. Y si te va la tecnología china de Huawei y CATL, aquí te contamos el caso de <a href=/blog/avatr-changan-huawei-catl-06t-t09/>Avatr, el familiar chino de 955 CV con Huawei dentro</a>.
+La estrategia de Geely en Europa pasa por sus marcas occidentales —**Volvo, Polestar, Lotus, smart o Zeekr**—, así que el TT quedará, por ahora, como una de esas rarezas chinas que solo se pueden ver en vídeo. Si buscas una berlina eléctrica que sí se venda aquí, <a href=/comparador-coches/>pásate por el comparador de coches eléctricos</a>. Y si te va la tecnología china de Huawei y CATL, aquí te contamos el caso de <a href=/blog/avatr-changan-huawei-catl-06t-t09/>Avatr, el familiar chino de 955 CV con Huawei dentro</a>.<img src=/media/geely-galaxy-a7-em-i-2025-precio-ficha-tecnica-hero.webp alt=Geely Galaxy TT: berlina eléctrica china con 725 km — fotografía del modelo><img src=/media/geely-galaxy-a7-em-i-2025-precio-ficha-tecnica-interior.webp alt=Geely Galaxy TT: berlina eléctrica china con 725 km — interior>
 
 ## Preguntas frecuentes
 
@@ -906,7 +913,7 @@ Que una marca oculte las cifras técnicas en la presentación no es raro en Chin
 
 **De momento, no hay anuncio oficial.** Pero el gesto es elocuente: una marca china de cuatro meses eligiendo **París para su debut mundial** no lo hace por casualidad. Si AIVA cumple su plan de vender en mercados internacionales, Europa estará en la hoja de ruta tarde o temprano.
 
-Mientras tanto, aquí puedes <a href=/comparador-coches/>comparar los SUV eléctricos que sí se venden en España</a>, y si te va la tecnología china con Huawei y CATL dentro, echa un ojo a <a href=/blog/avatr-changan-huawei-catl-06t-t09/>Avatr, la alianza de Changan, Huawei y CATL</a>. La <a href=/coches/aiva-me7-2026-precio-ficha-tecnica/>ficha técnica del AIVA ME7</a> recoge todos los datos confirmados hasta hoy, sin relleno.
+Mientras tanto, aquí puedes <a href=/comparador-coches/>comparar los SUV eléctricos que sí se venden en España</a>, y si te va la tecnología china con Huawei y CATL dentro, echa un ojo a <a href=/blog/avatr-changan-huawei-catl-06t-t09/>Avatr, la alianza de Changan, Huawei y CATL</a>. La <a href=/coches/aiva-me7-2026-precio-ficha-tecnica/>ficha técnica del AIVA ME7</a> recoge todos los datos confirmados hasta hoy, sin relleno.<img src=/media/aiva-me7-2026-ficha-tecnica-precio.webp alt=AIVA ME7: el SUV de Seres, CATL y TikTok — fotografía del modelo><img src=/media/aiva-me7-2026-precio-ficha-tecnica-hunt1.webp alt=AIVA ME7: el SUV de Seres, CATL y TikTok — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -1002,7 +1009,7 @@ La apuesta tiene lógica: en septiembre de 2026, Geely, Lynk & Co y Zeekr supera
 
 Su <a href=/coches/geely-galaxy-battleship-700-2026-precio-ficha-tecnica/>ficha técnica completa está aquí</a>, y si te van los 4x4 chinos con estética aventurera, no te pierdas <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5/>Fangchengbao, la marca secreta de BYD</a>.
 
-*Fuentes: <a href=https://carnewschina.com/2026/10/13/geely-battleship-700-will-arrive-in-europe-in-h2-2027/>CarNewsChina</a>, <a href=https://www.thesupercarblog.com/geely-battleship-700-suv-europe-paris-auto-show/>The Supercar Blog</a>, <a href=https://www.hibridosyelectricos.com/coches/10000-pedidos-en-12-minutos-43900-en-1-hora-todoterreno-hibrido-geely-1113-cv-confirma-su-venta-en-europa-en-2027_89876_102.html>Híbridos y Eléctricos</a>.*
+*Fuentes: <a href=https://carnewschina.com/2026/10/13/geely-battleship-700-will-arrive-in-europe-in-h2-2027/>CarNewsChina</a>, <a href=https://www.thesupercarblog.com/geely-battleship-700-suv-europe-paris-auto-show/>The Supercar Blog</a>, <a href=https://www.hibridosyelectricos.com/coches/10000-pedidos-en-12-minutos-43900-en-1-hora-todoterreno-hibrido-geely-1113-cv-confirma-su-venta-en-europa-en-2027_89876_102.html>Híbridos y Eléctricos</a>.*<img src=/media/geely-galaxy-battleship-700-2026-precio-ficha-tecnica-hunt1.webp alt=Battleship 700: 4x4 de 1.113 CV que flota — fotografía del modelo><img src=/media/geely-galaxy-battleship-700-2026-precio-ficha-tecnica-hunt2.webp alt=Battleship 700: 4x4 de 1.113 CV que flota — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -1044,7 +1051,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "motos eléctricas chinas",
       "marcas chinas desconocidas",
     ],
-    content: `<img src=/media/evoke-nrgy-moto-electrica-china-120-kmh-hero.webp alt=Moto eléctrica naked oscura aparcada en una calle urbana al atardecer, imagen editorial>
+    content: `<img src=/media/evoke-nrgy-moto-electrica-china-120-kmh-hero.jpg alt=Moto eléctrica naked oscura aparcada en una calle urbana al atardecer, imagen editorial><img src="/media/evoke-nrgy-moto-electrica-china-120-kmh-3.jpg" alt="evoke-nrgy-moto-electrica-china-120-kmh — fotografía del modelo">
 
 El gran problema de la moto eléctrica siempre ha sido el mismo: o pagas un pastizal por una moto de verdad, o te conformas con un ciclomotor glorificado que se rinde a 45 km/h. **Evoke Motorcycles** quiere romper ese dilema con la **Nrgy**, una naked eléctrica ligera presentada el 7 de septiembre de 2026 que promete **120 km/h de velocidad punta** desde un precio objetivo de **4.995 dólares**. Autopista de verdad, precio de utilitario.
 
@@ -1069,7 +1076,7 @@ El gran problema de la moto eléctrica siempre ha sido el mismo: o pagas un past
 
 La Nrgy 6 es la puerta de entrada: batería más pequeña, 156 kg y el precio rompedor. La Nrgy 8 añade 2 kWh más, 15 kW de pico y 182 kg para quien quiera más autonomía real. Ambas comparten chasis propio (arquitectura Twin Plate patentada por Evoke), horquilla invertida de 43 mm y doble amortiguador trasero. Nada de piezas genéricas de catálogo: es una moto diseñada como moto, no como electrodoméstico.
 
-<img src=/media/evoke-nrgy-moto-electrica-china-120-kmh-galeria-1.webp alt=Moto eléctrica oscura rodando por una carretera de costa al amanecer con piloto con casco oscuro, imagen editorial>
+<img src=/media/evoke-nrgy-moto-electrica-china-120-kmh-2.jpg alt=Moto eléctrica oscura rodando por una carretera de costa al amanecer con piloto con casco oscuro, imagen editorial>
 
 ## Quién es Evoke (y por qué no es una marca fantasma)
 
@@ -1121,7 +1128,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "Jetour G700 Huawei",
       "coches chinos desconocidos"
     ],
-    "content": `<img src=/media/jetour-g700-zongheng-hero.webp alt=Todoterreno híbrido enchufable chino de color verde oscuro con rueda de repuesto en el portón subiendo una pista de montaña al atardecer>
+    "content": `<img src=/media/jetour-g700-zongheng-hero.webp alt=Todoterreno híbrido enchufable chino de color verde oscuro con rueda de repuesto en el portón subiendo una pista de montaña al atardecer><img src="/media/jetour-zongheng-g700-903-cv-2.jpg" alt="jetour-zongheng-g700-903-cv — fotografía del modelo">
 
 **903 CV. Conducción autónoma de Huawei. Y puede flotar.** El **Jetour Zongheng G700** es el todoterreno más bestial que ha salido de Chery, y su versión 2027 acaba de salir a la venta en China el **30 de septiembre de 2026**. Es un híbrido enchufable de **665 kW (903 CV)**, con bloqueos de diferencial delantero y trasero, suspensión neumática y un modo anfibio que le permite navegar por el agua. Apunta directamente al Mercedes Clase G y al Land Rover Defender... por menos de la mitad de precio.
 
@@ -1151,7 +1158,7 @@ La arquitectura eléctrica es de **800 V** con carga rápida en continua de **17
 
 Por dentro es un salón rodante: pantalla panorámica **"Horizon" de 35,4 pulgadas** más central de 15,6" 2.5K con chip **Snapdragon 8255**, doble cargador inalámbrico de 50 W, **nevera a bordo**, equipo de sonido **Lexicon**, asientos delanteros con calefacción, ventilación y masaje, y segunda fila con **asientos de gravedad cero** en la versión de 6 plazas.
 
-<img src=/media/jetour-g700-flotando-agua.webp alt=Todoterreno chino de color gris vadeando un río profundo con el agua salpicando a su alrededor>
+<img src=/media/jetour-zongheng-g700-903-cv-hero.jpg alt=Todoterreno chino de color gris vadeando un río profundo con el agua salpicando a su alrededor>
 
 ## Un anfibio con matrícula: flota de verdad
 
@@ -1211,7 +1218,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "4x4 chino EREV",
       "coches chinos desconocidos"
     ],
-    "content": `<img src=/media/hongqi-g919-hero.webp alt=Todoterreno de lujo chino con enorme parrilla cromada vertical y franja roja en el capó en dunas del desierto al atardecer>
+    "content": `<img src=/media/hongqi-g919-hero.webp alt=Todoterreno de lujo chino con enorme parrilla cromada vertical y franja roja en el capó en dunas del desierto al atardecer><img src="/media/hongqi-g919-4x4-electrico-831-cv-hero.jpg" alt="hongqi-g919-4x4-electrico-831-cv — fotografía del modelo">
 
 **La marca que lleva a los presidentes de China se mete en el barro.** **Hongqi** ("bandera roja"), la firma de lujo de FAW que desde 1958 fabrica las limusinas oficiales del Estado chino, presenta su **primer todoterreno de verdad**: el **G919**. Y no viene de paseo: es un **eléctrico de autonomía extendida (EREV) con cuatro motores** (uno por rueda), **620 kW (831 CV)**, chasis de largueros y tres bloqueos de diferencial. La preventa abrió en China el **22 de septiembre de 2026**.
 

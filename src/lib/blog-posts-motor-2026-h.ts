@@ -1,3 +1,4 @@
+// Fotos 5/11/2026 (2ª oleada, omoda-jaecoo-record-ventas): Wikimedia Commons, CC BY-SA 4.0, Calreyn88 (File:2024 Omoda 5 Comfort 290T 3.jpg); Wikimedia Commons, CC BY-SA 4.0, Calreyn88 (File:2024 Omoda 5 Comfort 290T.jpg); Wikimedia Commons, CC0, JustAnotherCarDesigner (File:Chery Omoda 5 006.jpg).
 // Artículos de novedades del motor (lote diario 2026-10-04, lote H).
 // 4 artículos: récord de ventas Omoda & Jaecoo septiembre 2026, MG HS Hybrid+
 // 225 CV (precio y pedidos abiertos), BYD Dolphin Surf MY26 con 5 plazas y
@@ -20,7 +21,7 @@ export const MOTOR_2026_H_POSTS: BlogPost[] = [
     "Jaecoo 5 Omoda 5 ventas",
     "matriculaciones Omoda Jaecoo récord",
   ],
-  content: `<img src=/media/omoda-jaecoo-record-ventas-septiembre-2026-hero.webp alt=Concesionario español con varios SUV Omoda y Jaecoo aparcados en fila>
+  content: `<img src=/media/omoda-jaecoo-record-ventas-septiembre-2026-hero.jpg alt=Concesionario español con varios SUV Omoda y Jaecoo aparcados en fila><img src="/media/omoda-jaecoo-record-ventas-septiembre-2026-3.jpg" alt="omoda-jaecoo-record-ventas-septiembre-2026 — fotografía del modelo">
 
 Omoda y Jaecoo acaban de firmar su **tercer mejor mes histórico en España**: **4.010 matriculaciones en septiembre de 2026**, un **91,5% más** que un año antes, según la nota de prensa oficial de la marca publicada el 2 de octubre. Es la tercera vez que superan la barrera de las 4.000 unidades mensuales, tras mayo y junio, y lo hacen con un dato que debería hacer reflexionar a las marcas tradicionales: el **98% de lo que venden ya es electrificado**.
 
@@ -44,7 +45,7 @@ Omoda y Jaecoo acaban de firmar su **tercer mejor mes histórico en España**: *
 
 La lectura es directa: Omoda y Jaecoo no venden "coches chinos baratos", venden **electrificación a precio de generalista**. Más de la mitad de sus ventas son híbridos convencionales —el segmento que más crece en España— y casi cuatro de cada diez son enchufables. Solo 78 clientes de 4.010 eligieron gasolina pura.
 
-<img src=/media/omoda-jaecoo-record-ventas-septiembre-2026-cuerpo.webp alt=Comercial entregando las llaves de un SUV a un cliente en un concesionario español>
+<img src=/media/omoda-jaecoo-record-ventas-septiembre-2026-2.jpg alt=Comercial entregando las llaves de un SUV a un cliente en un concesionario español>
 
 ## El contexto europeo: ya no es solo España
 
@@ -132,7 +133,7 @@ El "pero" honesto: con la campaña de lanzamiento, el precio real de acceso pued
 
 Vídeo: <a href=https://www.youtube.com/watch?v=5uB2nHqFUqg>PruebaTuCoche</a> en YouTube
 
-El HS Hybrid+ se suma a la ofensiva de los híbridos chinos en España que contamos en <a href=/blog/omoda-jaecoo-record-ventas-septiembre-2026/>el récord de ventas de Omoda y Jaecoo</a>; con su etiqueta ECO, además, circula sin restricciones por las <a href=/blog/zbe-espana-2026-ciudades-multan-cuanto-multa/>Zonas de Bajas Emisiones</a>. Y si dudas entre híbrido y eléctrico, mira <a href=/blog/anfac-septiembre-2026-record-electrificacion-model-3-lider/>el récord de electrificación de septiembre de 2026</a>.
+El HS Hybrid+ se suma a la ofensiva de los híbridos chinos en España que contamos en <a href=/blog/omoda-jaecoo-record-ventas-septiembre-2026/>el récord de ventas de Omoda y Jaecoo</a>; con su etiqueta ECO, además, circula sin restricciones por las <a href=/blog/zbe-espana-2026-ciudades-multan-cuanto-multa/>Zonas de Bajas Emisiones</a>. Y si dudas entre híbrido y eléctrico, mira <a href=/blog/anfac-septiembre-2026-record-electrificacion-model-3-lider/>el récord de electrificación de septiembre de 2026</a>.<img src=/media/mg-hs-hybrid-plus-2025-precio-ficha-tecnica-hero.webp alt=MG HS Hybrid+: 225 CV con etiqueta ECO desde 29.990 € — fotografía del modelo><img src=/media/mg-hs-hybrid-plus-2025-precio-ficha-tecnica-hunt1.webp alt=MG HS Hybrid+: 225 CV con etiqueta ECO desde 29.990 € — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -209,7 +210,7 @@ Su rival natural sigue siendo el <a href=/coches/renault-5-e-tech-2026-precio-au
 
 <iframe src=https://www.youtube.com/embed/D3R0WgU5p7g title="Vídeo: Prueba del BYD Dolphin Surf en vídeo" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=D3R0WgU5p7g>Actualidad Motor</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=D3R0WgU5p7g>Actualidad Motor</a> en YouTube<img src=/media/byd-dolphin-surf-2027-hero.webp alt=BYD Dolphin Surf 2026: ahora con 5 plazas por 350 € más — fotografía del modelo><img src=/media/byd-dolphin-surf-2027-lateral.webp alt=BYD Dolphin Surf 2026: ahora con 5 plazas por 350 € más — vista lateral>
 
 ## Preguntas frecuentes
 
@@ -294,7 +295,7 @@ El **Mage** juega otra liga: 299 CV y 89 km eléctricos lo colocan frente a los 
 
 <iframe src=https://www.youtube.com/embed/dqGNyX9snSw title="Vídeo: Dongfeng MAGE: máxima potencia" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=dqGNyX9snSw>Dongfeng Motor Perú</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=dqGNyX9snSw>Dongfeng Motor Perú</a> en YouTube<img src=/media/dongfeng-vigo-electrico-precio-espana-ficha-oficial-2.webp alt=Dongfeng Vigo y Mage: eléctricos desde 26.615 € en España — fotografía del modelo><img src=/media/dongfeng-vigo-electrico-precio-espana-ficha-oficial-3.webp alt=Dongfeng Vigo y Mage: eléctricos desde 26.615 € en España — fotografía del modelo>
 
 ## Preguntas frecuentes
 

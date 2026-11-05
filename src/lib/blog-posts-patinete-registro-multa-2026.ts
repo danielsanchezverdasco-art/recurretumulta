@@ -1,6 +1,7 @@
 // Noticia 05/10/2026: multa de hasta 1.220 € por circular en patinete sin registro ni seguro.
 // Datos verificados: OCU (140.000 de 4M registrados), Real Decreto 52/2026 (BOE-A-2026-2140),
 // Ley 5/2025 (seguro obligatorio VMP). Importes de sanciones según OCU; base legal en BOE.
+// Fotos 5/11/2026 (2ª oleada, multa-patinete-sin-registro-1220-euros): Wikimedia Commons, CC BY-SA 4.0, Spacc67 (File:Italian electric kick scooter registration plate.jpg); Wikimedia Commons, CC BY-SA 4.0, TeWeBs (File:BS HBf E-Scooter-Parken.JPG); Wikimedia Commons, CC BY-SA 4.0, Jörg Fuhrmann (Intermerker) (File:E-Scooter im Regierungsviertel.jpg).
 import type { BlogPost } from "./blog-data.ts";
 
 export const PATINETE_REGISTRO_MULTA_2026_POSTS: BlogPost[] = [
@@ -19,7 +20,7 @@ export const PATINETE_REGISTRO_MULTA_2026_POSTS: BlogPost[] = [
       "1220 euros patinete",
       "Registro Vehículos Personales Ligeros"
     ],
-    "content": `<img src=/media/patinete-registro-dgt-multa-2026.webp alt=Agente de la Guardia Civil de Tráfico inspeccionando un patinete eléctrico en un control en una calle de España>
+    "content": `<img src=/media/multa-patinete-sin-registro-1220-euros-hero.jpg alt=Agente de la Guardia Civil de Tráfico inspeccionando un patinete eléctrico en un control en una calle de España>\n\n<img src=/media/multa-patinete-sin-registro-1220-euros-3.jpg alt="multa patinete sin registro 1220 euros">
 
 La Organización de Consumidores y Usuarios (OCU) ha lanzado una advertencia que debería leer todo el que se mueva en patinete eléctrico: circular sin haber inscrito el vehículo en el **Registro de la DGT** y sin **seguro obligatorio** puede salir por **hasta 1.220 euros** en sanciones acumuladas, además de la **inmovilización del patinete** y su posible retirada al depósito municipal.
 
@@ -57,7 +58,7 @@ La obligación no es nueva de ayer, viene de dos normas encadenadas:
 
 El seguro de un patinete cuesta, de forma orientativa, **entre 60 y 160 € al año** según comparativas del sector. Compáralo con los 1.220 € de la doble multa: registrarse (8,67 €) y asegurarse sale infinitamente más barato que la sanción.
 
-<img src=/media/patinete-registro-dgt-etiqueta-2026.webp alt=Patinete eléctrico con etiqueta identificativa de registro en una acera de una ciudad española>
+<img src=/media/multa-patinete-sin-registro-1220-euros-2.jpg alt=Patinete eléctrico con etiqueta identificativa de registro en una acera de una ciudad española>
 
 ## El otro riesgo: tu patrimonio si causas un accidente
 

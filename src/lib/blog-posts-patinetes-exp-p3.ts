@@ -1,3 +1,21 @@
+// Fotos 5/11/2026 (2ª oleada, kukirin-m5-pro): galería del producto en xzactor.ae (tienda Shopify del modelo KuKirin M5 Pro).
+// Fotos 5/11/2026 (2ª oleada, joyor-s10-s-z): galería del producto en todimart.com (tienda Shopify del modelo JOYOR S10S-Z).
+// Fotos 5/11/2026 (2ª oleada, joyor-s5-pro): Joyor, tienda oficial (joyorscooter.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, joyor-t10): Joyor, tienda oficial (joyorscooter.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, kukirin-s1-max): KuKirin, tienda oficial (kukirin-scooter.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, kukirin-m4-max): KuKirin, tienda oficial (kukirin-scooter.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, iscooter-ix8): iScooter, tienda oficial (iscooterglobal.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, iscooter-ix7-pro): iScooter, tienda oficial (iscooterglobal.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, iscooter-ix4): iScooter, tienda oficial (iscooterglobal.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, hiboy-u2-pro): Hiboy, tienda oficial (hiboy.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, hiboy-ve1-pro): Hiboy, tienda oficial (hiboy.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, hiboy-ecom-14): Hiboy, tienda oficial (hiboy.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, teverun-fighter-supreme): TEVERUN, página oficial del Fighter Supreme 7260R (teverun.com).
+// Fotos 5/11/2026 (2ª oleada, iscooter-ix5s): iScooter, tienda oficial (iscooterglobal.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, iscooter-i8): iScooter, tienda oficial (iscooterglobal.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, inmotion-s1f): INMOTION, tienda oficial (inmotionworld.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, inmotion-air-pro): INMOTION, tienda oficial (inmotionworld.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, inmotion-air): INMOTION, tienda oficial (inmotionworld.com), galería del producto.
 // Artículos del blog — Lote P3 patinetes (2026-10-05).
 // Un artículo por modelo, con su ficha en comparador-patinetes-exp-p3.ts
 // enlazada como <a href=/patinetes/<id>>. Datos verificados el 2026-10-04.
@@ -26,7 +44,7 @@ export const PATINETES_EXP_P3_POSTS: BlogPost[] = [
       "nami burn-e 3 max opiniones",
       "patinete eléctrico más potente",
     ],
-    content: `<img src=/media/patinetes/nami-burn-e-3-max-1.webp alt=Nami Burn-e 3 Max negro, vista lateral completa del hiperpatinete>
+    content: `<img src=/media/fotos-reales/nami-burn-e-2-max alt=nami burn e 3 max — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/nami-burn-e-3-max/>Ver ficha técnica del Nami Burn-e 3 Max</a>: precio, autonomía, motor y potencia pico. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -74,7 +92,7 @@ El Burn-e 3 Max **no es un VMP legal** para circular por España a su velocidad 
 | Suspensión ajustable de largo recorrido | Recambios caros y poco comunes |
 | Pantalla TFT con NFC | Carga lentísima al 100 % |
 
-<img src=/media/patinetes/nami-burn-e-3-max-3.webp alt=Nami Burn-e 3 Max circulando por ciudad>
+<img src=/media/patinetes/nami-burn-e-3-max-3.webp alt=Nami Burn-e 3 Max circulando por ciudad><img src=/media/fotos-reales/nami-burn-e-2-max/nami-burn-e-2-max-1.webp alt=nami burn e 3 max — fotografía del modelo><img src=/media/fotos-reales/nami-burn-e-3 alt=nami burn e 3 max — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -121,7 +139,7 @@ Si quieres lo máximo, sí: más batería (40Ah frente a 30Ah) y más pico (8.40
       "hyper scooter 72v",
       "nami burn-e 3 españa",
     ],
-    content: `<img src=/media/patinetes/nami-burn-e-3-1.webp alt=Nami Burn-e 3, vista lateral del hiperpatinete en negro>
+    content: `<img src=/media/fotos-reales/nami-burn-e-2-max alt=nami burn e 3 — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/nami-burn-e-3/>Ver ficha técnica del Nami Burn-e 3</a>: precio, autonomía, motor y batería. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -207,7 +225,7 @@ Un VMP legal en España está limitado a **25 km/h** y el Burn-e 3 declara **72 
 
 Frente al Max, ahorra 350 € renunciando a 3.360 W de pico y unos 20 km reales: con el mismo chasis, el ahorro tiene sentido. Frente al <a href=/patinetes/nami-klima-max/>Nami Klima Max</a>, paga 1.650 € más por batería y plataforma mayores, pero suma 9 kg que se notan a diario. 
 
-**Veredicto:** merece la pena solo para un perfil concreto: conductor experimentado, con garaje, que lo usará en circuito o finca privada y quiere la plataforma Burn-e sin pagar el Max. No como transporte urbano legal —a 25 km/h, un VMP certificado hace mejor ese trabajo— ni con presupuesto ajustado. Si encajas, parte de la <a href=/patinetes/nami-burn-e-3/>ficha técnica completa del Nami Burn-e 3</a> y confirma por escrito limitación, certificado y garantía.
+**Veredicto:** merece la pena solo para un perfil concreto: conductor experimentado, con garaje, que lo usará en circuito o finca privada y quiere la plataforma Burn-e sin pagar el Max. No como transporte urbano legal —a 25 km/h, un VMP certificado hace mejor ese trabajo— ni con presupuesto ajustado. Si encajas, parte de la <a href=/patinetes/nami-burn-e-3/>ficha técnica completa del Nami Burn-e 3</a> y confirma por escrito limitación, certificado y garantía.<img src=/media/fotos-reales/nami-burn-e-2-max/nami-burn-e-2-max-1.webp alt=nami burn e 3 — fotografía del modelo><img src=/media/fotos-reales/nami-burn-e-3 alt=nami burn e 3 — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -251,7 +269,7 @@ Unos **47 kg**: piénsatelo si vives en un tercero sin ascensor.
       "nami electric klima",
       "hyper scooter compacto",
     ],
-    content: `<img src=/media/patinetes/nami-klima-1.webp alt=Nami Klima, vista lateral del patinete de doble motor>
+    content: `<img src=/media/fotos-reales/nami-klima alt=nami klima — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/nami-klima/>Ver ficha técnica del Nami Klima</a>: precio, autonomía y potencia. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -332,7 +350,7 @@ Su hermano mayor, el <a href=/patinetes/nami-burn-e-3/>Nami Burn-e 3</a>, ofrece
 
 ## Plegado, maletero y escaleras: los 38 kilos en la práctica
 
-El Klima se pliega por el manillar para caber en el maletero de un coche mediano, y esa es la foto amable. La realidad completa incluye levantar 38 kilos hasta la altura de la cadera, buscarle un rincón donde no estorbe en casa y asumir que bajarlo por unas escaleras es una operación de dos manos y algo de maña. Frente a los patinetes urbanos de 15 kilos pierde por goleada en portabilidad; frente a su hermano Burn-e gana justo lo suficiente para que un adulto entrenado lo mueva sin ayuda. Es, en resumen, transportable a ratos, no portable a diario.
+El Klima se pliega por el manillar para caber en el maletero de un coche mediano, y esa es la foto amable. La realidad completa incluye levantar 38 kilos hasta la altura de la cadera, buscarle un rincón donde no estorbe en casa y asumir que bajarlo por unas escaleras es una operación de dos manos y algo de maña. Frente a los patinetes urbanos de 15 kilos pierde por goleada en portabilidad; frente a su hermano Burn-e gana justo lo suficiente para que un adulto entrenado lo mueva sin ayuda. Es, en resumen, transportable a ratos, no portable a diario.<img src=/media/fotos-reales/nami-klima-max alt=nami klima — fotografía del modelo><img src=/media/fotos-reales/nami-klima-max/nami-klima-max-real-0.webp alt=nami klima — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -376,7 +394,7 @@ Solo **limitado a 25 km/h** según la normativa VMP.
       "patinete eléctrico 90 km autonomía",
       "nami electric max",
     ],
-    content: `<img src=/media/patinetes/nami-klima-max-1.webp alt=Nami Klima Max, vista lateral completa>
+    content: `<img src=/media/fotos-reales/nami-klima-max alt=nami klima max — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/nami-klima-max/>Ver ficha técnica del Nami Klima Max</a>: precio, batería LG y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -453,7 +471,7 @@ El mantenimiento se centra en frenos (pastillas y purgado del circuito hidráuli
 
 ## Rivales y veredicto: ¿merece la pena?
 
-Dentro de casa, el <a href=/patinetes/nami-klima/>Klima estándar</a> ahorra dinero si no necesitas la batería grande; fuera, el <a href=/patinetes/dualtron-city/>Dualtron City</a> juega la carta de la marca coreana con red más asentada, a otro precio. **Veredicto:** el Klima Max merece la pena para quien hace rutas largas y quiere doble motor con celdas LG por 2.449 €, una combinación difícil de igualar; no es para quien busque un patinete ligero para combinar con transporte público ni para quien necesite homologación DGT plena. 
+Dentro de casa, el <a href=/patinetes/nami-klima/>Klima estándar</a> ahorra dinero si no necesitas la batería grande; fuera, el <a href=/patinetes/dualtron-city/>Dualtron City</a> juega la carta de la marca coreana con red más asentada, a otro precio. **Veredicto:** el Klima Max merece la pena para quien hace rutas largas y quiere doble motor con celdas LG por 2.449 €, una combinación difícil de igualar; no es para quien busque un patinete ligero para combinar con transporte público ni para quien necesite homologación DGT plena. <img src=/media/fotos-reales/nami-klima-max/nami-klima-max-real-0.webp alt=nami klima max — fotografía del modelo><img src=/media/fotos-reales/nami-klima-max/nami-klima-max-real-1.webp alt=nami klima max — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -497,7 +515,7 @@ Solo **limitado a 25 km/h** según normativa VMP.
       "nami electric blast",
       "patinete tracción total",
     ],
-    content: `<img src=/media/patinetes/nami-blast-1.webp alt=Nami Blast, vista lateral del patinete>
+    content: `<img src=/media/fotos-reales/nami-blast alt=nami blast — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/nami-blast/>Ver ficha técnica del Nami Blast</a>: precio, motor y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -581,7 +599,7 @@ El Blast **no está homologado por la DGT** como VMP, y el post original lo dice
 
 Sus hermanos tienen ficha en esta casa y marcan el escalón siguiente: el <a href=/patinetes/nami-blast-max/>Nami Blast Max</a> sube a 3.000 W nominales con 8.400 W de pico, batería de 2.400 Wh, 100 km declarados (67 reales) y 80 km/h, con 45 kg. El <a href=/patinetes/nami-burn-e-3-max/>Nami Burn-e 3 Max</a> cuesta 4.449 € con la misma potencia de pico, 2.880 Wh, 135 km declarados (90 reales) y 105 km/h. El Blast base conserva lo esencial (doble motor y chasis Nami) por bastante menos dinero que ambos.
 
-**¿Merece la pena?** Como entrada a los patinetes de tracción total de autor, el Blast es el Nami con más sentido por euro. **Para quién sí:** para el aficionado que busque doble motor y estabilidad, con espacio privado donde explotarlo y garaje a pie de calle. **Para quién no:** para quien necesite un VMP legal, ligero y certificable para el día a día: eso es otra categoría de producto.
+**¿Merece la pena?** Como entrada a los patinetes de tracción total de autor, el Blast es el Nami con más sentido por euro. **Para quién sí:** para el aficionado que busque doble motor y estabilidad, con espacio privado donde explotarlo y garaje a pie de calle. **Para quién no:** para quien necesite un VMP legal, ligero y certificable para el día a día: eso es otra categoría de producto.<img src=/media/fotos-reales/nami-blast-max alt=nami blast — fotografía del modelo><img src=/media/fotos-reales/nami-blast-max/nami-blast-max-real-0.webp alt=nami blast — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -625,7 +643,7 @@ Unos **46 kg**: no apto para subir por escaleras.
       "hyper scooter 80 km/h",
       "nami electric",
     ],
-    content: `<img src=/media/patinetes/nami-blast-max-1.webp alt=Nami Blast Max, vista lateral del patinete>
+    content: `<img src=/media/fotos-reales/nami-blast-max alt=nami blast max — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/nami-blast-max/>Ver ficha técnica del Nami Blast Max</a>: potencia, batería y velocidad. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -706,7 +724,7 @@ El cara a cara natural es con su hermano <a href=/patinetes/nami-burn-e-3-max/>N
 
 ## ¿Y si lo limito a 25 km/h por la pantalla?
 
-Es la pregunta que todo comprador se hace, y la respuesta legal es incómoda: limitar electrónicamente un vehículo capaz de 80 km/h no lo convierte en un vehículo de movilidad personal a ojos de la normativa española. La categoría se define por la velocidad máxima de construcción y exige además cumplir el manual de características técnicas de la DGT con su certificado de circulación correspondiente. Un Blast Max limitado por software sigue siendo, administrativamente, un vehículo sin categoría para la vía pública. La única vía honesta de usarlo a diario sería una versión nacida y certificada como VMP, que es otro producto distinto.
+Es la pregunta que todo comprador se hace, y la respuesta legal es incómoda: limitar electrónicamente un vehículo capaz de 80 km/h no lo convierte en un vehículo de movilidad personal a ojos de la normativa española. La categoría se define por la velocidad máxima de construcción y exige además cumplir el manual de características técnicas de la DGT con su certificado de circulación correspondiente. Un Blast Max limitado por software sigue siendo, administrativamente, un vehículo sin categoría para la vía pública. La única vía honesta de usarlo a diario sería una versión nacida y certificada como VMP, que es otro producto distinto.<img src=/media/fotos-reales/nami-blast-max/nami-blast-max-real-0.webp alt=nami blast max — fotografía del modelo><img src=/media/fotos-reales/nami-blast-max/nami-blast-max-real-1.webp alt=nami blast max — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -751,7 +769,7 @@ Prestaciones casi idénticas; el Burn-e 3 tiene más nombre y mercado de segunda
       "patinete doble motor 1200w",
       "teverun fighter homologación",
     ],
-    content: `<img src=/media/patinetes/teverun-fighter-11-1.webp alt=Teverun Fighter 11, vista lateral del patinete de doble motor>
+    content: `<img src=/media/patinetes/teverun-fighter-mini-pro.webp alt=teverun fighter 11 — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/teverun-fighter-11/>Ver ficha técnica del Teverun Fighter 11</a>: precio, batería LG y potencia. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -799,7 +817,7 @@ El distribuidor lo deja claro: **no homologado DGT**. En España, los VMP están
 | Pantalla TFT de 3,5" con NFC | Tubeless de 11": caros de cambiar |
 | 35 kg: contenido para su potencia | Se devalúa con cada versión nueva |
 
-<img src=/media/patinetes/teverun-fighter-11-3.webp alt=Teverun Fighter 11 en circuito privado>
+<img src=/media/patinetes/teverun-fighter-11-3.webp alt=Teverun Fighter 11 en circuito privado><img src=/media/patinetes/teverun-fighter-mini.webp alt=teverun fighter 11 — fotografía del modelo><img src=/media/patinetes/teverun-fighter-supreme-7260r.webp alt=teverun fighter 11 — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -843,7 +861,7 @@ El 11+ añade pantalla de 4" con GPS, frenos de 4 pistones y más batería, pero
       "fighter 11 plus opiniones",
       "teverun 2026",
     ],
-    content: `<img src=/media/patinetes/teverun-fighter-11-plus-1.webp alt=Teverun Fighter 11+ V2026, vista lateral>
+    content: `<img src=/media/patinetes/teverun-fighter-mini-pro.webp alt=teverun fighter 11 plus — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/teverun-fighter-11-plus/>Ver ficha técnica del Teverun Fighter 11+</a>: batería, frenos y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -879,7 +897,7 @@ Aquí está su gran argumento: **frenos hidráulicos de 4 pistones** delante y d
 
 ## Certificado DGT y normativa VMP
 
-Sin homologación DGT como VMP: en España, **25 km/h máximo**, **aceras prohibidas** y carriles bici o calzada permitida. El GPS integrado y la app de Teverun permiten configurarlo, pero deslimitarlo en vía pública es sancionable.
+No cuenta con homologación DGT como VMP: el tope en España es de 25 km/h, las aceras están prohibidas y solo se puede circular por carriles bici o por la calzada. El GPS integrado y la aplicación de Teverun permiten ajustarlo, pero circular deslimitado por la vía pública puede sancionarse. Y una aclaración: ese organismo no evalúa patinetes, así que esta variante no tiene estrellas suyas.
 
 ## Puntos fuertes y débiles
 
@@ -891,7 +909,7 @@ Sin homologación DGT como VMP: en España, **25 km/h máximo**, **aceras prohib
 | Amortiguador de dirección | Sin homologación DGT |
 | Cargador rápido incluido | El GPS implica telemetría de tus rutas |
 
-<img src=/media/patinetes/teverun-fighter-11-plus-3.webp alt=Teverun Fighter 11+ V2026 en carretera>
+<img src=/media/patinetes/teverun-fighter-11-plus-3.webp alt=Teverun Fighter 11+ V2026 en carretera><img src=/media/patinetes/teverun-fighter-mini.webp alt=teverun fighter 11 plus — fotografía del modelo><img src=/media/patinetes/teverun-fighter-supreme-7260r.webp alt=teverun fighter 11 plus — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -935,7 +953,7 @@ Como VMP **limitado a 25 km/h**. Sin homologación DGT para más velocidad.
       "teverun 7260r opiniones",
       "hyper scooter 72v 60ah",
     ],
-    content: `<img src=/media/patinetes/teverun-fighter-supreme-1.webp alt=Teverun Fighter Supreme 7260R, vista lateral del hiperpatinete>
+    content: `<img src=/media/teverun-fighter-supreme-hero.jpg alt=Teverun Fighter Supreme 7260R, vista lateral del hiperpatinete>
 
 **¿Buscas solo los datos?** <a href=/patinetes/teverun-fighter-supreme/>Ver ficha técnica del Teverun Fighter Supreme</a>: 10.000 W, batería y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -959,7 +977,7 @@ El **Teverun Fighter Supreme 7260R** juega en otra liga: **dos motores de 2.500 
 
 **4.499,90 €** en distribuidores europeos como <a href=https://www.evolt.eu/products/electric-scooter-teverun-fighter-supreme-7260-ultra/>Evolt</a>. A ese precio compite con motos eléctricas de 125 cc con matrícula, ITV y seguro normal: plantéatelo en serio antes de decidir.
 
-<img src=/media/patinetes/teverun-fighter-supreme-2.webp alt=Detalle de la rueda de 13 pulgadas del Teverun Fighter Supreme>
+<img src=/media/teverun-fighter-supreme-2.jpg alt=Detalle de la rueda de 13 pulgadas del Teverun Fighter Supreme>
 
 ## Autonomía real vs declarada
 
@@ -983,7 +1001,7 @@ Ni lo intentes en vía pública: con 120 km/h de máxima, el Supreme **no es un 
 | 120 km/h de máxima | Equipación de moto obligatoria |
 | App con BMS inteligente | Seguro complicado y caro |
 
-<img src=/media/patinetes/teverun-fighter-supreme-3.webp alt=Teverun Fighter Supreme 7260R en circuito>
+<img src=/media/teverun-fighter-supreme-3.jpg alt=Teverun Fighter Supreme 7260R en circuito>
 
 ## Preguntas frecuentes
 
@@ -1118,7 +1136,7 @@ Solo **limitado a 25 km/h** como VMP.
       "blade gt plus vs fighter 11",
       "teverun 2349",
     ],
-    content: `<img src=/media/patinetes/teverun-blade-gt-plus-1.webp alt=Teverun Blade GT+ II, vista lateral completa>
+    content: `<img src=/media/teverun-blade-gt-hunt1.webp alt=teverun blade gt plus — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/teverun-blade-gt-plus/>Ver ficha técnica del Teverun Blade GT+ II</a>: precio, batería y potencia. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -1168,7 +1186,7 @@ Como VMP no tiene homologación DGT: en España toca circular a 25 km/h, sin ace
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/JXUVGMbarXg title=\"Prueba del Teverun Blade GT+ II\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
-<img src=/media/patinetes/teverun-blade-gt-plus-3.webp alt=Teverun Blade GT+ II circulando>
+<img src=/media/patinetes/teverun-blade-gt-plus-3.webp alt=Teverun Blade GT+ II circulando><img src=/media/teverun-blade-gt-hunt2.webp alt=teverun blade gt plus — fotografía del modelo><img src=/media/teverun-blade-gt-hunt3.webp alt=teverun blade gt plus — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -1390,7 +1408,7 @@ Solo **limitado a 25 km/h** como VMP.
       "inmotion app",
       "patinete urbano ligero",
     ],
-    content: `<img src=/media/patinetes/inmotion-air-1.webp alt=InMotion Air negro, vista lateral completa>
+    content: `<img src=/media/inmotion-air-hero.jpg alt=InMotion Air negro, vista lateral completa>
 
 **¿Buscas solo los datos?** <a href=/patinetes/inmotion-air/>Ver ficha técnica del InMotion Air</a>: peso, motor y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -1414,7 +1432,7 @@ El **InMotion Air** demuestra que ligero no tiene que significar frágil: **15,6
 
 **Sin PVP oficial estable publicado** en España: se vende a través de distribuidores y su precio varía. Como referencia, en otros mercados ronda el segmento de los 500-600 €.
 
-<img src=/media/patinetes/inmotion-air-2.webp alt=Detalle del manillar y display del InMotion Air>
+<img src=/media/inmotion-air-2.jpg alt=Detalle del manillar y display del InMotion Air>
 
 ## Autonomía real vs declarada
 
@@ -1438,7 +1456,7 @@ A **25 km/h** y con su equipamiento, es un VMP de manual: circula por **carril b
 | App InMotion con bloqueo | Precio en España inestable |
 | Plegado en un clic | En Sport baja de 25 km reales |
 
-<img src=/media/patinetes/inmotion-air-3.webp alt=InMotion Air plegado junto a una mochila>
+<img src=/media/inmotion-air-3.jpg alt=InMotion Air plegado junto a una mochila>
 
 ## Preguntas frecuentes
 
@@ -1482,7 +1500,7 @@ El Air si priorizas ligereza y precio; el Pro si necesitas sus 48 km de autonom�
       "patinete 750w pico",
       "inmotion air pro españa",
     ],
-    content: `<img src=/media/patinetes/inmotion-air-pro-1.webp alt=InMotion Air Pro, vista lateral completa>
+    content: `<img src=/media/inmotion-air-pro-hero.jpg alt=InMotion Air Pro, vista lateral completa>
 
 **¿Buscas solo los datos?** <a href=/patinetes/inmotion-air-pro/>Ver ficha técnica del InMotion Air Pro</a>: batería, motor y peso. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -1506,7 +1524,7 @@ El **InMotion Air Pro** es el Air con la autonomía que le faltaba: batería de 
 
 Sin PVP oficial estable: se mueve por distribuidores. En segunda mano europea se ve por unos 500 €, lo que da una pista de su posicionamiento nuevo.
 
-<img src=/media/patinetes/inmotion-air-pro-2.webp alt=Detalle de la rueda trasera del InMotion Air Pro>
+<img src=/media/inmotion-air-pro-2.jpg alt=Detalle de la rueda trasera del InMotion Air Pro>
 
 ## Autonomía real vs declarada
 
@@ -1530,7 +1548,7 @@ Ojo: declara **35 km/h** de máxima, así que en España debe circular **limitad
 | IP55/IP67 | Sin suspensión ni intermitentes |
 | Rueda trasera sin pinchazos | Precio oficial difícil de encontrar |
 
-<img src=/media/patinetes/inmotion-air-pro-3.webp alt=InMotion Air Pro en un carril bici>
+<img src=/media/inmotion-air-pro-3.jpg alt=InMotion Air Pro en un carril bici>
 
 ## Preguntas frecuentes
 
@@ -1574,7 +1592,7 @@ Sí: **trasera maciza** (sin pinchazos) y delantera neumática.
       "inmotion rs lite 120 km",
       "patinete 72v 30ah",
     ],
-    content: `<img src=/media/patinetes/inmotion-rs-lite-1.webp alt=InMotion RS Lite, vista lateral del hyper-scooter>
+    content: `<img src=/media/inmotion-rs-hunt1.webp alt=inmotion rs lite — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/inmotion-rs-lite/>Ver ficha técnica del InMotion RS Lite</a>: potencia y batería. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -1658,7 +1676,7 @@ La normativa de la <a href=https://www.dgt.es>DGT</a> define el VMP con una velo
 
 Dentro de la casa, el <a href=/patinetes/inmotion-rs-midnight/>InMotion RS Midnight</a> figura en su ficha con 58 kg y los motores de 2x2.000 W que ya compara el análisis original: más prestaciones por más dinero y más peso. El <a href=/patinetes/kaabo-wolf-king-gt-pro/>Kaabo Wolf King GT Pro</a> declara en su ficha 180 km de autonomía y 52 kg, la alternativa hyper de Kaabo. El RS Lite se defiende con el chasis y la electrónica que el post destaca como referentes, y con ser el RS más asequible de la familia.
 
-**¿Merece la pena?** Como hyper-scooter de circuito, el Lite es el punto de entrada sensato a la familia RS. **Para quién sí:** para quien ruede en recinto privado y valore estabilidad y electrónica fiable. **Para quién no:** para cualquier uso en vía pública española, donde es ilegal sin matices, y para quien no pueda mover 52,6 kg.
+**¿Merece la pena?** Como hyper-scooter de circuito, el Lite es el punto de entrada sensato a la familia RS. **Para quién sí:** para quien ruede en recinto privado y valore estabilidad y electrónica fiable. **Para quién no:** para cualquier uso en vía pública española, donde es ilegal sin matices, y para quien no pueda mover 52,6 kg.<img src=/media/patinetes/inmotion-rs-2.webp alt=inmotion rs lite — fotografía del modelo><img src=/media/patinetes/inmotion-rs-480w.webp alt=inmotion rs lite — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -1682,7 +1700,7 @@ El Midnight tiene más motor (2×2.000 W) y batería (40Ah). El Lite es más bar
     slug: "inmotion-rs-midnight",
     title: "InMotion RS Midnight: 96 km/h",
     excerpt:
-      "El InMotion RS Midnight es la bestia de la marca: doble motor de 2.000 W, 8.400 W de pico, 2.880 Wh y 96 km/h. Ficha técnica y precio.",
+      "96 km/h, pico de 8.400 W y batería de 2.880 Wh: el RS Midnight es un hiperpatinete de circuito, ilegal en vía pública en España. Precio y ficha.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -1699,7 +1717,7 @@ El Midnight tiene más motor (2×2.000 W) y batería (40Ah). El Lite es más bar
       "hyper scooter 4000w",
       "inmotion rs midnight autonomía",
     ],
-    content: `<img src=/media/patinetes/inmotion-rs-midnight-1.webp alt=InMotion RS Midnight negro, vista lateral>
+    content: `<img src=/media/inmotion-rs-hunt1.webp alt=inmotion rs midnight — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/inmotion-rs-midnight/>Ver ficha técnica del InMotion RS Midnight</a>: potencia máxima y batería. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -1777,13 +1795,13 @@ InMotion no publica tarifas de mantenimiento aplicables en España, y no las inv
 
 ## Normativa: fuera de la categoría VMP, sin matices
 
-La normativa española de vehículos de movilidad personal, consultable en la <a href=https://www.dgt.es>DGT</a>, define los VMP con velocidades máximas de 25 km/h y exige certificación para circular. Un aparato de 96 km/h y 58 kg **no es un VMP** ni puede convertirse en uno limitándolo con un modo de la pantalla: en vía pública sería tratado como un vehículo sin autorización para circular, con las sanciones y la responsabilidad que ello implica en caso de accidente. El post original lo dice sin rodeos y este análisis lo repite: circuito privado o nada.
+En España, la norma de los vehículos de movilidad personal, que puede consultarse en la <a href=https://www.dgt.es>DGT</a>, fija el tope en 25 km/h y reclama certificación para rodar por la calle. Con 96 km/h y 58 kg, este modelo no encaja en esa figura ni se transforma en VMP activando un modo limitado en pantalla: si circulara por vía pública, se consideraría un vehículo sin autorización, con sanciones y responsabilidad añadida ante un accidente. Dicho sin rodeos: circuito privado o nada.
 
 ## Frente a Nami Burn-e 3 Max y Teverun Blade GT II: veredicto
 
 Sus dos rivales naturales tienen ficha en esta casa: el <a href=/patinetes/nami-burn-e-3-max/>Nami Burn-e 3 Max</a> iguala los 8.400 W de pico y la batería de 2.880 Wh, declara 105 km/h y 135 km de autonomía (90 reales) y cuesta 4.449 € con 47,5 kg; el <a href=/patinetes/teverun-blade-gt-2/>Teverun Blade GT II</a> se queda en 5.000 W de pico y 85 km/h con 2.100 Wh. Los tres comparten la misma sentencia legal en España. El InMotion gana al Teverun en cifras y pierde con el Nami en velocidad punta declarada y peso.
 
-**¿Merece la pena?** Como máquina de circuito y objeto de colección de los hiperpatinetes, el RS Midnight es de lo más extremo que se vende. **Para quién sí:** para el aficionado con espacio privado donde rodarlo y presupuesto para mantenerlo. **Para quién no:** para absolutamente cualquiera que piense en usarlo en la calle: ahí no es caro o barato, es simplemente ilegal.
+**¿Merece la pena?** Como máquina de circuito y objeto de colección de los hiperpatinetes, el RS Midnight es de lo más extremo que se vende. **Para quién sí:** para el aficionado con espacio privado donde rodarlo y presupuesto para mantenerlo. **Para quién no:** para absolutamente cualquiera que piense en usarlo en la calle: ahí no es caro o barato, es simplemente ilegal.<img src=/media/patinetes/inmotion-rs-2.webp alt=inmotion rs midnight — fotografía del modelo><img src=/media/patinetes/inmotion-rs-480w.webp alt=inmotion rs midnight — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -1824,7 +1842,7 @@ Está entre los más rápidos de serie, junto al Teverun Supreme y el Nami Burn-
       "patinete barato gran autonomía",
       "inmotion s1f 625",
     ],
-    content: `<img src=/media/patinetes/inmotion-s1f-1.webp alt=InMotion S1F, vista lateral del patinete>
+    content: `<img src=/media/inmotion-s1f-hero.jpg alt=InMotion S1F, vista lateral del patinete>
 
 **¿Buscas solo los datos?** <a href=/patinetes/inmotion-s1f/>Ver ficha técnica del InMotion S1F</a>: autonomía, precio y motor. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -1848,7 +1866,7 @@ El **InMotion S1F** es de esos patinetes que rompen la tabla de precios: **675 W
 
 **625 €**: por ese dinero, la competencia ofrece la mitad de batería. Es su gran argumento y no tiene rival directo en euros por Wh.
 
-<img src=/media/patinetes/inmotion-s1f-2.webp alt=Detalle del display del InMotion S1F>
+<img src=/media/inmotion-s1f-2.jpg alt=Detalle del display del InMotion S1F>
 
 ## Autonomía real vs declarada
 
@@ -1872,7 +1890,7 @@ Atención: declara hasta **40 km/h**, así que en España debe usarse **limitado
 | 24 kg: peso razonable | Distribución mejorable en España |
 | Marca fiable | Sin extras destacables |
 
-<img src=/media/patinetes/inmotion-s1f-3.webp alt=InMotion S1F en ciudad>
+<img src=/media/inmotion-s1f-3.jpg alt=InMotion S1F en ciudad>
 
 ## InMotion: del monociclo eléctrico al patinete de gran autonomía
 
@@ -2080,7 +2098,7 @@ Sí, como VMP **limitado a 25 km/h**.
       "hiboy barato",
       "patinete plegable ligero",
     ],
-    content: `<img src=/media/patinetes/hiboy-s2-lite-1.webp alt=Hiboy S2 Lite, vista lateral del patinete ultraligero>
+    content: `<img src=/media/fotos-reales/hiboy-s2 alt=hiboy s2 lite — fotografía del modelo>
 
 **¿Quieres solo las cifras?** <a href=/patinetes/hiboy-s2-lite/>Ficha técnica del Hiboy S2 Lite</a>: 9,9 kg, 250 W y 17 km declarados. Y si dudas entre varios, <a href=/comparador-patinetes/>míralo frente a sus rivales</a>.
 
@@ -2200,7 +2218,7 @@ Con un patinete tan básico, los accesorios cuentan: un **candado en U ligero** 
 
 ## Para quién NO es, sin matices
 
-Repitámoslo claro porque es importante: si pesas **más de 80 kg**, sus 250 W y su carga máxima de 81 kg lo dejan fuera. Si tu trayecto incluye una cuesta seria a diario, también. Y si solo vas a tener un patinete y quieres que sirva para todo —ciudad, ocio, escapadas—, necesitas más batería. El S2 Lite es un especialista, y los especialistas no sirven para todo uso.
+Repitámoslo claro porque es importante: si pesas **más de 80 kg**, sus 250 W y su carga máxima de 81 kg lo dejan fuera. Si tu trayecto incluye una cuesta seria a diario, también. Y si solo vas a tener un patinete y quieres que sirva para todo —ciudad, ocio, escapadas—, necesitas más batería. El S2 Lite es un especialista, y los especialistas no sirven para todo uso.<img src=/media/fotos-reales/hiboy-s2-max alt=hiboy s2 lite — fotografía del modelo><img src=/media/fotos-reales/hiboy-s2-max/hiboy-s2-max-real-1.webp alt=hiboy s2 lite — fotografía del modelo>
 
 ## Preguntas frecuentes sobre el Hiboy S2 Lite
 
@@ -2302,7 +2320,7 @@ Ojo: declara **35 km/h**, así que en España debe circular **limitado a 25 km/h
 | 35 km/h en privado | Acabados sin lujos |
 | Buenos repuestos | App mejorable |
 
-<img src=/media/patinetes/hiboy-max-pro-3.webp alt=Hiboy Max Pro en carril bici>
+<img src=/media/patinetes/hiboy-max-pro-3.webp alt=Hiboy Max Pro en carril bici><img src=/media/fotos-reales/hiboy-max3 alt=hiboy max pro — fotografía del modelo><img src=/media/fotos-reales/hiboy-max3/hiboy-max3-real-1.webp alt=hiboy max pro — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -2391,7 +2409,7 @@ Con **45 km/h** de máxima, en España debe ir **limitado a 25 km/h** para circu
 | Mejor soporte que genéricos | Recambios Bosch más caros |
 | Chasis robusto | Para 25 km/h sobra potencia |
 
-<img src=/media/patinetes/hiboy-titan-3.webp alt=Hiboy Titan 2026 en carretera>
+<img src=/media/patinetes/hiboy-titan-3.webp alt=Hiboy Titan 2026 en carretera><img src=/media/fotos-reales/hiboy-titan-pro alt=hiboy titan — fotografía del modelo><img src=/media/fotos-reales/hiboy-titan-pro/hiboy-titan-pro-real-1.webp alt=hiboy titan — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -2432,7 +2450,7 @@ Si valoras la **fiabilidad del motor** y el soporte a largo plazo, sí. Si solo 
       "patinete 14 pulgadas",
       "hiboy ecom 14 autonomía",
     ],
-    content: `<img src=/media/patinetes/hiboy-ecom-14-1.webp alt=Hiboy ECOM 14 con sillín y cesta, vista lateral>
+    content: `<img src=/media/patinetes/hiboy-ecom-14-1.webp alt=Hiboy ECOM 14 con sillín y cesta, vista lateral><img src="/media/hiboy-ecom-14-3.jpg" alt="hiboy-ecom-14 — fotografía del modelo">
 
 **¿Buscas solo los datos?** <a href=/patinetes/hiboy-ecom-14/>Ver ficha técnica del Hiboy ECOM 14</a>: sillín, cesta y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -2456,7 +2474,7 @@ El **Hiboy ECOM 14** no quiere ser un patinete más: trae **sillín y cesta de s
 
 Gama media de Hiboy. Su valor está en el concepto: sillín + cesta incluidos, algo que la competencia cobra aparte.
 
-<img src=/media/patinetes/hiboy-ecom-14-2.webp alt=Detalle del sillín y la cesta del Hiboy ECOM 14>
+<img src=/media/hiboy-ecom-14-hero.jpg alt=Detalle del sillín y la cesta del Hiboy ECOM 14>
 
 ## Autonomía real vs declarada
 
@@ -2482,7 +2500,7 @@ Declara **35 km/h**: en España, **limitado a 25 km/h** para circular legalmente
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/jinWIpJxhaM title=\"Presentación del Hiboy ECOM 14\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
-<img src=/media/patinetes/hiboy-ecom-14-3.webp alt=Hiboy ECOM 14 con cesta haciendo la compra>
+<img src=/media/hiboy-ecom-14-2.jpg alt=Hiboy ECOM 14 con cesta haciendo la compra>
 
 ## Preguntas frecuentes
 
@@ -2526,7 +2544,7 @@ Para quien hace **recados urbanos** y prefiere ir sentado. Si buscas deportivida
       "hiboy ve1",
       "patinete ligero 50 km",
     ],
-    content: `<img src=/media/patinetes/hiboy-ve1-pro-1.webp alt=Hiboy VE1 Pro, vista lateral>
+    content: `<img src=/media/patinetes/hiboy-ve1-pro-1.webp alt=Hiboy VE1 Pro, vista lateral><img src="/media/hiboy-ve1-pro-3.jpg" alt="hiboy-ve1-pro — fotografía del modelo">
 
 **¿Buscas solo los datos?** <a href=/patinetes/hiboy-ve1-pro/>Ver ficha técnica del Hiboy VE1 Pro</a>: peso, batería y motor. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -2550,7 +2568,7 @@ El **Hiboy VE1 Pro** apuesta por la ligereza: **22,2 kg** con **480 Wh** (48V 10
 
 Precio agresivo en ofertas, en la gama media-baja de Hiboy. Bueno para quien busca ligereza sin pagar de más.
 
-<img src=/media/patinetes/hiboy-ve1-pro-2.webp alt=Detalle del Hiboy VE1 Pro>
+<img src=/media/hiboy-ve1-pro-hero.jpg alt=Detalle del Hiboy VE1 Pro>
 
 ## Autonomía real vs declarada
 
@@ -2574,7 +2592,7 @@ Con **37 km/h** de máxima, en España circula **limitado a 25 km/h**. Aceras pr
 | Compacto y discreto | Sin suspensión destacable |
 | Precio agresivo | Puede descatalogarse |
 
-<img src=/media/patinetes/hiboy-ve1-pro-3.webp alt=Hiboy VE1 Pro en la ciudad>
+<img src=/media/hiboy-ve1-pro-2.jpg alt=Hiboy VE1 Pro en la ciudad>
 
 ## Preguntas frecuentes
 
@@ -2615,7 +2633,7 @@ El VE1 Pro es más ligero y moderno; el S2 tiene más mercado de repuestos. Para
       "patinete 624wh",
       "hiboy u2",
     ],
-    content: `<img src=/media/patinetes/hiboy-u2-pro-1.webp alt=Hiboy U2 Pro con sillín, vista lateral>
+    content: `<img src=/media/patinetes/hiboy-u2-pro-1.webp alt=Hiboy U2 Pro con sillín, vista lateral><img src="/media/hiboy-u2-pro-3.jpg" alt="hiboy-u2-pro — fotografía del modelo">
 
 **¿Buscas solo los datos?** <a href=/patinetes/hiboy-u2-pro/>Ver ficha técnica del Hiboy U2 Pro</a>: motor, sillín y batería. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -2639,7 +2657,7 @@ El **Hiboy U2 Pro** es el ECOM 14 con más motor: **sillín y cesta**, **750 W**
 
 Gama media de Hiboy. Interesante para repartidores urbanos por su combinación de sillín, potencia y cesta.
 
-<img src=/media/patinetes/hiboy-u2-pro-2.webp alt=Detalle del sillín del Hiboy U2 Pro>
+<img src=/media/hiboy-u2-pro-hero.jpg alt=Detalle del sillín del Hiboy U2 Pro>
 
 ## Autonomía real vs declarada
 
@@ -2663,7 +2681,7 @@ A **40 km/h** no es VMP legal sin limitar: en España, **25 km/h máximo** y **a
 | 40 km/h | 810 W de pico, justos |
 | Ideal repartidores | Nicho específico |
 
-<img src=/media/patinetes/hiboy-u2-pro-3.webp alt=Hiboy U2 Pro con cesta en ruta>
+<img src=/media/hiboy-u2-pro-2.jpg alt=Hiboy U2 Pro con cesta en ruta>
 
 ## Preguntas frecuentes
 
@@ -2704,7 +2722,7 @@ Sí: **sillín, cesta, 750 W y 55 km** lo hacen apto para reparto urbano ligero.
       "patinete sin pinchazos",
       "hiboy ks4 14 kg",
     ],
-    content: `<img src=/media/patinetes/hiboy-ks4-1.webp alt=Hiboy KS4, vista lateral del patinete ligero>
+    content: `<img src=/media/fotos-reales/hiboy-ks4-pro alt=hiboy ks4 — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/hiboy-ks4/>Ver ficha técnica del Hiboy KS4</a>: peso, ruedas macizas y app. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -2740,7 +2758,7 @@ Se vende por **280-350 $** en EE. UU.; en Europa llega vía importadores. Su riv
 
 ## Certificado DGT y normativa VMP
 
-Con **31 km/h** de máxima, en España debe ir **limitado a 25 km/h**. Prohibido en **aceras**, como todo VMP.
+En Estados Unidos se comercializa por 280-350 $, mientras que a Europa llega mediante importadores y no hay un PVP oficial en euros publicado. Su velocidad máxima es de 31 km/h, de modo que para circular por España conviene caparlo a 25 km/h. Como cualquier VMP, no puede circular por las aceras. En materia de seguridad, no existe una valoración Euro NCAP para este modelo, porque Euro NCAP no evalúa patinetes.
 
 ## Mantenimiento en casa
 
@@ -2758,7 +2776,7 @@ Con **31 km/h** de máxima, en España debe ir **limitado a 25 km/h**. Prohibido
 | 350 W suficientes en llano | El KS4 Pro da más por poco más |
 | IPX4 | A 31 km/h hay que limitarlo |
 
-<img src=/media/patinetes/hiboy-ks4-3.webp alt=Hiboy KS4 en un campus universitario>
+<img src=/media/patinetes/hiboy-ks4-3.webp alt=Hiboy KS4 en un campus universitario><img src=/media/fotos-reales/hiboy-ks4-pro/hiboy-ks4-pro-real-1.webp alt=hiboy ks4 — fotografía del modelo><img src=/media/patinetes/hiboy-ks4-pro.webp alt=hiboy ks4 — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -2774,10 +2792,13 @@ El Pro lleva **500 W, 40 km y doble suspensión trasera**. Si el presupuesto lo 
 ### ¿Cómo se actualiza?
 Desde la **app oficial Hiboy** por Bluetooth.
 
-### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
+### ¿Se puede usar legalmente en España?
+Sí, con el limitador puesto en 25 km/h.
 
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
+### ¿Tiene nota Euro NCAP?
+No: ese organismo no evalúa patinetes, así que este patinete no cuenta con una valoración suya.
+
+¿Te han puesto una multa con el patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
 *Fuentes: <a href=https://www.hiboy.com/>Hiboy</a> y <a href=https://www.levyelectric.com/resources/hiboy-electric-scooter-complete-guide>Levy Electric</a>.*`,
   },
@@ -2803,7 +2824,7 @@ Desde la **app oficial Hiboy** por Bluetooth.
       "iscooter gama de entrada",
       "patinete plegable barato",
     ],
-    content: `<img src=/media/patinetes/iscooter-i8-1.webp alt=iScooter i8, vista lateral del patinete ultraligero>
+    content: `<img src=/media/iscooter-i8-hero.jpg alt=iScooter i8, vista lateral del patinete ultraligero>
 
 **¿Buscas solo los datos?** <a href=/patinetes/iscooter-i8/>Ver ficha técnica del iScooter i8</a>: peso, precio y motor. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -2827,7 +2848,7 @@ El **iScooter i8** es el mechero de la marca: **12 kg**, **~189 £**, motor de *
 
 Unas **189 libras** en Reino Unido; en España llega vía distribuidores europeos. Es de los patinetes con marca más baratos del mercado.
 
-<img src=/media/patinetes/iscooter-i8-2.webp alt=Detalle del iScooter i8 plegado>
+<img src=/media/iscooter-i8-2.jpg alt=Detalle del iScooter i8 plegado>
 
 ## Autonomía real vs declarada
 
@@ -2851,7 +2872,7 @@ Con **30 km/h** de máxima, en España debe ir **limitado a 25 km/h**. Prohibido
 | Ideal estudiantes | Ruedas pequeñas |
 | Plegado compacto | Acabados básicos |
 
-<img src=/media/patinetes/iscooter-i8-3.webp alt=iScooter i8 en la mano de su dueño>
+<img src=/media/iscooter-i8-3.jpg alt=iScooter i8 en la mano de su dueño>
 
 ## Preguntas frecuentes
 
@@ -2940,7 +2961,7 @@ Con **40 km/h** de máxima, en España debe circular **limitado a 25 km/h**. Pro
 | Equilibrio precio/prestaciones | App limitada |
 | Marca con distribución europea | El iX4 da más por poco más |
 
-<img src=/media/patinetes/iscooter-i10-plus-3.webp alt=iScooter i10 Plus en ciudad>
+<img src=/media/patinetes/iscooter-i10-plus-3.webp alt=iScooter i10 Plus en ciudad><img src=/media/iscooter-i10-max-hunt1.webp alt=iscooter i10 plus — fotografía del modelo><img src=/media/iscooter-i10-max-hunt2.webp alt=iscooter i10 plus — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -2981,7 +3002,7 @@ El iX4 tiene enfoque off-road y más batería (48V); el i10 Plus es más urbano 
       "patinete 45 km/h",
       "iscooter trail",
     ],
-    content: `<img src=/media/patinetes/iscooter-ix4-1.webp alt=iScooter iX4, vista lateral del patinete off-road>
+    content: `<img src=/media/patinetes/iscooter-ix4-1.webp alt=iScooter iX4, vista lateral del patinete off-road><img src="/media/iscooter-ix4-3.jpg" alt="iscooter-ix4 — fotografía del modelo">
 
 **¿Buscas solo los datos?** <a href=/patinetes/iscooter-ix4/>Ver ficha técnica del iScooter iX4</a>: motor, batería y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -3004,7 +3025,7 @@ El **iScooter iX4** es el aventurero de acceso de la marca: **800 W**, **720 Wh*
 
 Unas **449 libras** en Reino Unido. Por ese dinero, pocos off-road ofrecen 48V y 15Ah.
 
-<img src=/media/patinetes/iscooter-ix4-2.webp alt=Detalle del iScooter iX4>
+<img src=/media/iscooter-ix4-hero.jpg alt=Detalle del iScooter iX4>
 
 ## Autonomía real vs declarada
 
@@ -3028,7 +3049,7 @@ Con **45 km/h**, en España debe ir **limitado a 25 km/h** en vía pública. Y r
 | Neumáticos mixtos | Suspensión básica |
 | Chasis reforzado | Poca info oficial |
 
-<img src=/media/patinetes/iscooter-ix4-3.webp alt=iScooter iX4 en camino de tierra>
+<img src=/media/iscooter-ix4-2.jpg alt=iScooter iX4 en camino de tierra>
 
 ## Preguntas frecuentes
 
@@ -3069,7 +3090,7 @@ El iX5S tiene más motor (1.000 W), más carga máxima y mejor suspensión. Si e
       "patinete robusto",
       "iscooter 486",
     ],
-    content: `<img src=/media/patinetes/iscooter-ix5s-1.webp alt=iScooter iX5S, vista lateral del patinete robusto>
+    content: `<img src=/media/iscooter-ix5s-hero.jpg alt=iScooter iX5S, vista lateral del patinete robusto>
 
 **¿Solo quieres los números?** <a href=/patinetes/iscooter-ix5s/>Ficha técnica del iScooter iX5S</a>: 1.000 W, 720 Wh, 150 kg de carga. <a href=/comparador-patinetes/>Enfréntalo a sus rivales aquí</a>.
 
@@ -3114,7 +3135,7 @@ Los **neumáticos de 11" con taco** son otra rareza a este precio. En asfalto ag
 
 Aquí el iX5S juega en otra liga: **150 kg de carga máxima** cuando la mayoría de patinetes se queda en 100–120 kg. Para riders corpulentos o para quien lleva mochila pesada a diario, es un argumento de peso (nunca mejor dicho). El chasis de 27,3 kg no es ligero, pero es el precio de la robustez.
 
-<img src=/media/patinetes/iscooter-ix5s-2.webp alt=Detalle de la suspensión del iScooter iX5S>
+<img src=/media/iscooter-ix5s-2.jpg alt=Detalle de la suspensión del iScooter iX5S>
 
 ## Precio del iScooter iX5S: qué pagas y dónde
 
@@ -3143,7 +3164,7 @@ El iX5S declara **45 km/h** de máxima. La norma española es tajante: ningún V
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/tmP9ZAsrqXw title=\\"Prueba del iScooter iX5S\\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
-<img src=/media/patinetes/iscooter-ix5s-3.webp alt=iScooter iX5S en pista forestal>
+<img src=/media/iscooter-ix5s-3.jpg alt=iScooter iX5S en pista forestal>
 
 ## Veredicto: el patinete de los que pesan y suben cuestas
 
@@ -3254,7 +3275,7 @@ La tienda europea oficial ofrece **12 meses** de garantía y 30 días de devoluc
       "patinete 60 km/h",
       "iscooter ix7",
     ],
-    content: `<img src=/media/patinetes/iscooter-ix7-pro-1.webp alt=iScooter iX7 Pro, vista lateral del doble motor>
+    content: `<img src=/media/patinetes/iscooter-ix7-pro-1.webp alt=iScooter iX7 Pro, vista lateral del doble motor><img src="/media/iscooter-ix7-pro-3.jpg" alt="iscooter-ix7-pro — fotografía del modelo">
 
 **¿Buscas solo los datos?** <a href=/patinetes/iscooter-ix7-pro/>Ver ficha técnica del iScooter iX7 Pro</a>: doble motor y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -3278,7 +3299,7 @@ El **iScooter iX7 Pro** democratiza el doble motor: **2×1.000 W**, **80 km decl
 
 Unas **709 libras** en Reino Unido. En España, vía distribuidores: sigue siendo el doble motor más barato del mercado europeo.
 
-<img src=/media/patinetes/iscooter-ix7-pro-2.webp alt=Detalle del doble motor del iScooter iX7 Pro>
+<img src=/media/iscooter-ix7-pro-hero.jpg alt=Detalle del doble motor del iScooter iX7 Pro>
 
 ## Autonomía real vs declarada
 
@@ -3304,7 +3325,7 @@ Con **60 km/h**, ni se plantea en vía pública española sin limitar: **25 km/h
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/oJUqK9DHOhg title=\"Prueba del iScooter iX7 Pro\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
-<img src=/media/patinetes/iscooter-ix7-pro-3.webp alt=iScooter iX7 Pro en acción>
+<img src=/media/iscooter-ix7-pro-2.jpg alt=iScooter iX7 Pro en acción>
 
 ## Preguntas frecuentes
 
@@ -3348,7 +3369,7 @@ Si quieres **tracción total gastando poco**, sí. Si buscas acabados, mira más
       "iscooter ix8 video",
       "iscooter tope de gama",
     ],
-    content: `<img src=/media/patinetes/iscooter-ix8-1.webp alt=iScooter iX8, vista lateral con sus ruedas de 12 pulgadas>
+    content: `<img src=/media/patinetes/iscooter-ix8-1.webp alt=iScooter iX8, vista lateral con sus ruedas de 12 pulgadas><img src="/media/iscooter-ix8-3.jpg" alt="iscooter-ix8 — fotografía del modelo">
 
 **¿Buscas solo los datos?** <a href=/patinetes/iscooter-ix8/>Ver ficha técnica del iScooter iX8</a>: 2.400 W, 12" y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -3372,7 +3393,7 @@ El **iScooter iX8** es el tope de gama de la marca: **doble motor de 1.200 W** (
 
 **769,99 €** en la tienda oficial europea (<a href=https://www.iscooterglobal.eu/products/iscooter-ix8-2400w-off-road-electric-scooter>iscooterglobal.eu</a>). A ese precio ya compite con marcas más prestigiosas: la baza del iX8 son las ruedas de 12" y el equipamiento.
 
-<img src=/media/patinetes/iscooter-ix8-2.webp alt=Detalle de los frenos hidráulicos del iScooter iX8>
+<img src=/media/iscooter-ix8-hero.jpg alt=Detalle de los frenos hidráulicos del iScooter iX8>
 
 ## Autonomía real vs declarada
 
@@ -3398,7 +3419,7 @@ Con **60 km/h**, en España debe ir **limitado a 25 km/h** en vía pública. Pro
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/heS1cCROABo title=\"Prueba del iScooter iX8\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
-<img src=/media/patinetes/iscooter-ix8-3.webp alt=iScooter iX8 con sus ruedas de 12 pulgadas en el campo>
+<img src=/media/iscooter-ix8-2.jpg alt=iScooter iX8 con sus ruedas de 12 pulgadas en el campo>
 
 ## Preguntas frecuentes
 
@@ -3493,7 +3514,7 @@ Con **55 km/h**, en España debe ir **limitado a 25 km/h** en vía pública. Pro
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/GbJByObfUe4 title=\"Prueba del KuKirin G2 Max\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
-<img src=/media/patinetes/kukirin-g2-max-3.webp alt=KuKirin G2 Max en carretera secundaria>
+<img src=/media/patinetes/kukirin-g2-max-3.webp alt=KuKirin G2 Max en carretera secundaria><img src=/media/kukirin-g2-hunt1.webp alt=kukirin g2 max — fotografía del modelo><img src=/media/kukirin-g2-hunt2.webp alt=kukirin g2 max — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -3537,7 +3558,7 @@ El Max tiene más batería (20Ah); el Pro es más ligero. Para autonomía, Max.
       "kukirin g4 vs g2 max",
       "patinete potente barato",
     ],
-    content: `<img src=/media/patinetes/kukirin-g4-1.webp alt=KuKirin G4, vista lateral del patinete de 2000 W>
+    content: `<img src=/media/kukirin-g4-max-hunt1.webp alt=kukirin g4 — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/kukirin-g4/>Ver ficha técnica del KuKirin G4</a>: potencia, batería y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -3561,11 +3582,11 @@ El **KuKirin G4** es potencia bruta a precio de risa: **2.000 W** (2.400 W de pi
 
 **859 €** en la tienda europea. Por ese dinero no hay nada con 2.000 W y 1.200 Wh: esa es toda su filosofía.
 
-<img src=/media/patinetes/kukirin-g4-2.webp alt=Detalle de la rueda del KuKirin G4>
+<img src=/media/patinetes/kukirin-g4-2.webp alt=Detalle de la rueda del KuKirin G4><img src=/media/kukirin-g4-max-hunt2.webp alt=kukirin g4 — fotografía del modelo>
 
 ## Autonomía real vs declarada
 
-**75 km declarados**; a ritmo normal, **unos 50 km reales**. A fondo, mucho menos: 2.000 W beben de lo lindo.
+**75 km declarados**; a ritmo normal, **unos 50 km reales**. A fondo, mucho menos: 2.000 W beben de lo lindo.<img src=/media/kukirin-g4-max-hunt3.webp alt=kukirin g4 — fotografía del modelo>
 
 ## Frenos y neumáticos
 
@@ -3635,7 +3656,7 @@ El G4 es más potente y rápido; el G2 Max tiene más autonomía y es más barat
       "patinete 64 km",
       "kukirin barato",
     ],
-    content: `<img src=/media/patinetes/kukirin-m4-max-1.webp alt=KuKirin M4 Max, vista lateral>
+    content: `<img src=/media/patinetes/kukirin-m4-max-1.webp alt=KuKirin M4 Max, vista lateral><img src="/media/kukirin-m4-max-3.jpg" alt="kukirin-m4-max — fotografía del modelo">
 
 **¿Buscas solo los datos?** <a href=/patinetes/kukirin-m4-max/>Ver ficha técnica del KuKirin M4 Max</a>: motor, batería y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -3659,7 +3680,7 @@ El **KuKirin M4 Max** es el rey de la relación calidad-precio: **800 W** (1.000
 
 Unos **524 €** (entre 499 y 549 € según la tienda europea). Da el 80 % del G2 Max por bastante menos dinero.
 
-<img src=/media/patinetes/kukirin-m4-max-2.webp alt=Detalle del KuKirin M4 Max>
+<img src=/media/kukirin-m4-max-hero.jpg alt=Detalle del KuKirin M4 Max>
 
 ## Autonomía real vs declarada
 
@@ -3683,7 +3704,7 @@ Con **45 km/h**, en España debe ir **limitado a 25 km/h**. Prohibido en **acera
 | 45 km/h | Display pequeño |
 | Ideal para iniciarse | El M4 Pro da más por poco más |
 
-<img src=/media/patinetes/kukirin-m4-max-3.webp alt=KuKirin M4 Max en ciudad>
+<img src=/media/kukirin-m4-max-2.jpg alt=KuKirin M4 Max en ciudad>
 
 ## Preguntas frecuentes
 
@@ -3845,7 +3866,7 @@ El M4 Max tiene más batería (874 Wh) y cuesta poco más. Si haces más de 15 k
       "patinete ruedas macizas 8",
       "kukirin barato ciudad",
     ],
-    content: `<img src=/media/patinetes/kukirin-s1-max-1.webp alt=KuKirin S1 Max, vista lateral del patinete urbano>
+    content: `<img src=/media/patinetes/kukirin-s1-max-1.webp alt=KuKirin S1 Max, vista lateral del patinete urbano><img src="/media/kukirin-s1-max-3.jpg" alt="kukirin-s1-max — fotografía del modelo">
 
 **¿Buscas solo los datos?** <a href=/patinetes/kukirin-s1-max/>Ver ficha técnica del KuKirin S1 Max</a>: 25 km/h, peso y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -3869,7 +3890,7 @@ El **KuKirin S1 Max** es el KuKirin urbano y legal: **25 km/h**, **350 W** (500 
 
 Unos **294 €** (entre 259 y 329 € según tienda). El KuKirin más barato y ligero: imbatible para ciudad.
 
-<img src=/media/patinetes/kukirin-s1-max-2.webp alt=Detalle del KuKirin S1 Max plegado>
+<img src=/media/kukirin-s1-max-hero.jpg alt=Detalle del KuKirin S1 Max plegado>
 
 ## Autonomía real vs declarada
 
@@ -3893,7 +3914,7 @@ A **25 km/h** es un VMP de manual: legal en España sin limitar, **prohibido en 
 | 39 km declarados | 350 W: cuestas justas |
 | Ideal estudiantes | Freno de pie poco progresivo |
 
-<img src=/media/patinetes/kukirin-s1-max-3.webp alt=KuKirin S1 Max en el transporte público>
+<img src=/media/kukirin-s1-max-2.jpg alt=KuKirin S1 Max en el transporte público>
 
 ## Preguntas frecuentes
 
@@ -3934,7 +3955,7 @@ Para **ciudad llana y trayectos cortos**: estudiantes y commuters ligeros.
       "patinete smart display",
       "kukirin 2x800w",
     ],
-    content: `<img src=/media/patinetes/kukirin-g2-ultra-1.webp alt=KuKirin G2 Ultra, vista lateral del doble motor>
+    content: `<img src=/media/kukirin-g2-hunt1.webp alt=kukirin g2 ultra — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/kukirin-g2-ultra/>Ver ficha técnica del KuKirin G2 Ultra</a>: doble motor y pantalla. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -3987,7 +4008,7 @@ Con **50 km/h**, en España debe ir **limitado a 25 km/h**. Prohibido en **acera
 | 120 kg de carga máxima | 31 kg: pesado |
 | 50 km/h sin locuras | A 50 km/h hay que limitarlo |
 
-<img src=/media/patinetes/kukirin-g2-ultra-3.webp alt=KuKirin G2 Ultra de noche en la ciudad>
+<img src=/media/patinetes/kukirin-g2-ultra-3.webp alt=KuKirin G2 Ultra de noche en la ciudad><img src=/media/kukirin-g2-hunt2.webp alt=kukirin g2 ultra — fotografía del modelo><img src=/media/kukirin-g2-hunt3.webp alt=kukirin g2 ultra — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -4052,7 +4073,7 @@ El **KuKirin M5 Pro** es el rutero con sillín de la marca: **1.000 W** (1.200 W
 
 **729 €** en la tienda europea. Con sillín incluido y 960 Wh, no tiene rival directo en precio.
 
-<img src=/media/patinetes/kukirin-m5-pro-2.webp alt=Detalle del sillín del KuKirin M5 Pro>
+<img src=/media/kukirin-m5-pro-hero.jpg alt=Detalle del sillín del KuKirin M5 Pro>
 
 ## Autonomía real vs declarada
 
@@ -4076,7 +4097,7 @@ Con **52 km/h**, en España debe ir **limitado a 25 km/h**. Prohibido en **acera
 | 120 kg de carga máxima | El sillín no es para todos |
 | 52 km/h | Plegado voluminoso |
 
-<img src=/media/patinetes/kukirin-m5-pro-3.webp alt=KuKirin M5 Pro con sillín en ruta>
+<img src=/media/kukirin-m5-pro-2.jpg alt=KuKirin M5 Pro con sillín en ruta>
 
 ## Preguntas frecuentes
 
@@ -4402,7 +4423,7 @@ El **Joyor S5 Pro** es el rutero con sello alemán: **homologación ABE**, **500
 
 **529 €** en la red de distribuidores españoles de Joyor. Más barato que el Y10 a cambio de no llevar certificado DGT.
 
-<img src=/media/patinetes/joyor-s5-pro-2.webp alt=Detalle del Joyor S5 Pro>
+<img src=/media/joyor-s5-pro-hero.jpg alt=Detalle del Joyor S5 Pro>
 
 ## Autonomía real vs declarada
 
@@ -4426,7 +4447,7 @@ El S5 Pro lleva **homologación ABE** (alemana), pensada para los 20 km/h legale
 | 90 km declarados | Carga larga (8-9 h) |
 | Precio muy competitivo | El Y10 es mejor opción en España |
 
-<img src=/media/patinetes/joyor-s5-pro-3.webp alt=Joyor S5 Pro en ciudad>
+<img src=/media/joyor-s5-pro-2.jpg alt=Joyor S5 Pro en ciudad>
 
 ## Preguntas frecuentes
 
@@ -4467,7 +4488,7 @@ Es el **límite legal alemán** (ABE): Joyor lo diseñó para ese mercado.
       "joyor t10 669",
       "patinete 60v",
     ],
-    content: `<img src=/media/patinetes/joyor-t10-1.webp alt=Joyor T10, vista lateral del doble motor>
+    content: `<img src=/media/patinetes/joyor-t10-1.webp alt=Joyor T10, vista lateral del doble motor><img src="/media/joyor-t10-3.jpg" alt="joyor-t10 — fotografía del modelo">
 
 **¿Buscas solo los datos?** <a href=/patinetes/joyor-t10/>Ver ficha técnica del Joyor T10</a>: doble motor y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -4491,7 +4512,7 @@ El **Joyor T10** es la puerta de entrada a la tracción total: **dos motores de 
 
 **669 €** en la red de distribuidores españoles de Joyor. Es el doble motor más barato que se vende con red española.
 
-<img src=/media/patinetes/joyor-t10-2.webp alt=Detalle del Joyor T10>
+<img src=/media/joyor-t10-hero.jpg alt=Detalle del Joyor T10>
 
 ## Autonomía real vs declarada
 
@@ -4517,7 +4538,7 @@ Con **60 km/h**, en España debe ir **limitado a 25 km/h** en vía pública. Tod
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/3kMYdgS49pY title=\"Prueba del Joyor T10\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
-<img src=/media/patinetes/joyor-t10-3.webp alt=Joyor T10 en acción>
+<img src=/media/joyor-t10-2.jpg alt=Joyor T10 en acción>
 
 ## Preguntas frecuentes
 
@@ -4584,7 +4605,7 @@ El **Joyor S10-S-Z** es el doble motor urbano de la marca: **dos motores de 1.00
 
 **609 €** en la red de distribuidores españoles de Joyor. Incluso más barato que el T10 a cambio de un enfoque más urbano.
 
-<img src=/media/patinetes/joyor-s10-s-z-2.webp alt=Detalle de la amortiguación del Joyor S10-S-Z>
+<img src=/media/joyor-s10-s-z-hero.jpg alt=Detalle de la amortiguación del Joyor S10-S-Z>
 
 ## Autonomía real vs declarada
 
@@ -4608,7 +4629,7 @@ Con **60 km/h**, en España circula **limitado a 25 km/h**. Prohibido en **acera
 | Más barato que el T10 | Menos conocido que el T10 |
 | Doble motor urbano cómodo | Red de talleres limitada |
 
-<img src=/media/patinetes/joyor-s10-s-z-3.webp alt=Joyor S10-S-Z en calles urbanas>
+<img src=/media/joyor-s10-s-z-2.jpg alt=Joyor S10-S-Z en calles urbanas>
 
 ## Preguntas frecuentes
 

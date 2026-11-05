@@ -1,3 +1,4 @@
+// Fotos 5/11/2026 (2ª oleada, volkswagen-mission-efficie): Wikimedia Commons, CC BY-SA 4.0, Alexander-93 (File:Volkswagen ID.7 1X7A1779.jpg); Wikimedia Commons, CC BY-SA 4.0, Alexander-93 (File:Volkswagen ID.7 IAA 2023 1X7A0307.jpg).
 // Artículos de novedades del motor (lote diario 2026-10-12, lote O).
 // Salón de París 2026 (jornada de prensa 12/10): Renault 8 Gordini Concept
 // (nota oficial Renault España), Leapmotor B03 (km77 + etiqueta0),
@@ -34,7 +35,7 @@ El **Renault 8 Gordini** vuelve. 62 años después del mito de 1964, Renault lo 
 - **Llantas:** 19 pulgadas delante y 20 detrás, como un rally actual
 - **Color:** Bleu de France reinterpretado en una construcción tricapa con nácar
 - **Doble franja blanca:** ya no es decoración, es un elemento estructural que entra hasta el salpicadero
-- **Fuente:** <a href=https://prensa.renault.es/?p=64172>Nota de prensa oficial de Renault España</a>
+- **Fuente:** <a href=https://prensa.renault.es/?p=64172>Nota de prensa oficial de Renault España</a><img src=/media/renault-8-gordini-concept-paris-2026-2.webp alt=R8 Gordini eléctrico: 270 CV de nostalgia en París — fotografía del modelo>
 
 ## El original: por qué el R8 Gordini es un mito
 
@@ -132,7 +133,7 @@ Ojo con la letra pequeña: los **392 km están medidos en ciclo chino WLTC** y p
 
 ## Por qué importa para España
 
-Leapmotor es la prueba de que la ofensiva china ya no es futuro: es presente. Con el B03X vendiéndose, el <a href=/coches/leapmotor-b05-2026-precio-ficha-tecnica/>B05</a> y el <a href=/coches/leapmotor-c10-reev-2026-precio-ficha-tecnica/>C10 REEV</a> completando la gama, y la actividad industrial en marcha dentro del grupo Stellantis, el B03 llegaría con **etiqueta Cero de la DGT** automática y una red de distribución que ya existe. El segmento de los compactos eléctricos asequibles —R5, ID. Polo, B03— va a ser la batalla del año en España. <a href=/comparador-coches/>Compáralos en el comparador de coches</a>.
+Leapmotor es la prueba de que la ofensiva china ya no es futuro: es presente. Con el B03X vendiéndose, el <a href=/coches/leapmotor-b05-2026-precio-ficha-tecnica/>B05</a> y el <a href=/coches/leapmotor-c10-reev-2026-precio-ficha-tecnica/>C10 REEV</a> completando la gama, y la actividad industrial en marcha dentro del grupo Stellantis, el B03 llegaría con **etiqueta Cero de la DGT** automática y una red de distribución que ya existe. El segmento de los compactos eléctricos asequibles —R5, ID. Polo, B03— va a ser la batalla del año en España. <a href=/comparador-coches/>Compáralos en el comparador de coches</a>.<img src=/media/fotos-reales/leapmotor-b03-2026-precio-ficha-tecnica alt=Leapmotor B03: el compacto que reta al R5 en París — fotografía del modelo><img src=/media/fotos-reales/leapmotor-b03-2026-precio-ficha-tecnica/leapmotor-b03-2026-precio-ficha-tecnica-hero.webp alt=Leapmotor B03: el compacto que reta al R5 en París — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -186,7 +187,7 @@ París acoge el estreno ante el público de dos todocaminos familiares de Fiat: 
 - **Eléctrico:** 44 o 54 kWh de batería y autonomía máxima cercana a 400 km, según la prensa y sin confirmación oficial todavía
 - **Precio:** arranque aproximado en 20.000 € según la prensa especializada, cifra que Fiat no ha confirmado
 - **Venta en Europa:** tres últimos meses de 2026
-- **Fuentes:** <a href=https://elperiodicodelaenergia.com/el-salon-del-automovil-de-paris-concentrara-mas-de-60-estrenos-entre-las-marcas-europeas-y-asiaticas/>elperiodicodelaenergia.com</a> y <a href=https://automedia.mx/salon-de-paris-2026-novedades-y-coches-nuevos/>automedia.mx</a>
+- **Fuentes:** <a href=https://elperiodicodelaenergia.com/el-salon-del-automovil-de-paris-concentrara-mas-de-60-estrenos-entre-las-marcas-europeas-y-asiaticas/>elperiodicodelaenergia.com</a> y <a href=https://automedia.mx/salon-de-paris-2026-novedades-y-coches-nuevos/>automedia.mx</a><img src=/media/fiat-grizzly-fastback-paris-2026-2.webp alt=Fiat Grizzly: el SUV familiar que vuelve a lo esencial — fotografía del modelo>
 
 ## Grizzly frente a Grizzly Fastback
 
@@ -246,7 +247,7 @@ No de forma directa: abre para Fiat un segmento inédito, el de los C-SUV famili
     "Volkswagen récord consumo 6,89",
     "ID. Polo MEB+ eficiencia"
   ],
-  "content": `<img src=/media/volkswagen-mission-efficiency-concept-paris-2026-oficial.webp alt=Volkswagen Mission Efficiency, vista frontal en foto oficial de Volkswagen>
+  "content": `<img src=/media/volkswagen-mission-efficiency-concept-paris-2026-oficial.webp alt=Volkswagen Mission Efficiency, vista frontal en foto oficial de Volkswagen><img src="/media/volkswagen-mission-efficiency-record-1278-km-2.jpg" alt="volkswagen-mission-efficiency-record-1278-km — fotografía del modelo">
 
 **1.278 kilómetros con una sola recarga.** No es una promesa de laboratorio: es la distancia que el prototipo **Volkswagen Mission Efficiency** recorrió entre Wolfsburgo y Viena con un consumo real de **6,89 kWh/100 km**, muy por debajo de lo habitual en un eléctrico compacto actual. Presentado en septiembre, es la respuesta de Volkswagen a la pregunta que más hacen los conductores españoles: ¿y si el problema no fuera la batería, sino el consumo?
 
@@ -269,7 +270,7 @@ Homologados por el instituto alemán de récords (RID) en la categoría de eléc
 
 La batería del Mission Efficiency (54,9 kWh) es la que lleva cualquier compacto eléctrico normal. La diferencia está en la **aerodinámica**: carrocería con forma de lágrima, superficie frontal de solo **2,08 m²**, bajos carenados, ruedas traseras revestidas y hasta **paneles solares de 370 W** en techo y portón (hasta 30 km extra al día, según la prensa especializada).
 
-<img src=/media/volkswagen-mission-efficiency-concept-paris-2026-oficial-2.webp alt=Volkswagen Mission Efficiency en foto oficial de Volkswagen>
+<img src=/media/volkswagen-mission-efficiency-record-1278-km-hero.jpg alt=Volkswagen Mission Efficiency en foto oficial de Volkswagen>
 
 ## Traducido a España: Madrid–Barcelona sin parar
 
@@ -357,7 +358,7 @@ Aquí la EDS se desmarca de las puras de cross: **aceite y filtro cada 2.500 km,
 
 Directa a la **KTM 450 EXC-F** y la **Honda CRF450RX**: el mismo precio (~13.000 €), el mismo concepto. La baza de Ducati es el **desmodrómico** —ninguna rival lo ofrece— y una electrónica más completa de serie. Su hándicap: una red de concesionarios mucho más pequeña en el mundo del off-road y una fiabilidad a largo plazo por demostrar en este segmento. Tienes la ficha completa en nuestra <a href=/motos/ducati-desmo450-eds-2026-precio-ficha-tecnica/>ficha de la Desmo450 EDS</a> y puedes compararla en el <a href=/comparador-motos/>comparador de motos</a>.
 
-Si buscas algo más rutero de la marca, mira la <a href=/motos/ducati-desertx-2025-ficha-tecnica-precio/>DesertX</a>; y si lo tuyo es el asfalto con una sola rueda en el aire, la <a href=/motos/ducati-hypermotard-698-mono-2024-ficha-tecnica-precio/>Hypermotard 698 Mono</a> es su prima.
+Si buscas algo más rutero de la marca, mira la <a href=/motos/ducati-desertx-2025-ficha-tecnica-precio/>DesertX</a>; y si lo tuyo es el asfalto con una sola rueda en el aire, la <a href=/motos/ducati-hypermotard-698-mono-2024-ficha-tecnica-precio/>Hypermotard 698 Mono</a> es su prima.<img src=/media/ducati-desmo450-eds-2026-1.webp alt=Desmo450 EDS: la primera enduro de Ducati por 12.990 € — fotografía del modelo><img src=/media/fotos-reales/ducati-desmo450-eds-2026 alt=Desmo450 EDS: la primera enduro de Ducati por 12.990 € — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -473,7 +474,7 @@ En normativa no hay ambigüedad. Con **63,5 CV** supera el techo del permiso A2,
 
 Su espejo natural sigue siendo la KTM 450 SMR citada al principio, referencia histórica del supermotard de competición. En clave más callejera, dos contrastes útiles tienen ficha propia: la <a href=/motos/husqvarna-701-supermoto-2024-ficha-tecnica-precio/>Husqvarna 701 Supermoto</a>, monocilíndrica grande para carretera abierta, y la <a href=/motos/ducati-hypermotard-698-mono-2024-ficha-tecnica-precio/>Ducati Hypermotard 698 Mono</a>, también de un cilindro pero con vocación cotidiana distinta. Si prefieres tierra, la hermana <a href=/motos/ducati-desmo450-eds-2026-precio-ficha-tecnica/>Desmo450 EDS</a> mantiene la base con 6 marchas para el campo.
 
-**Veredicto:** ¿merece la pena por **13.990 €**? Sí, si buscas la supermotard de serie más cercana a una moto de carreras, con desmodrómico, Stylema y electrónica que mide la derrapada de verdad, aceptando pagar su mantenimiento por horas. No, si esperas una Ducati polivalente para viajar, moverte a diario o aprender tras sacarte el carnet. Es un capricho informado, no un error si sabes dónde te metes.
+**Veredicto:** ¿merece la pena por **13.990 €**? Sí, si buscas la supermotard de serie más cercana a una moto de carreras, con desmodrómico, Stylema y electrónica que mide la derrapada de verdad, aceptando pagar su mantenimiento por horas. No, si esperas una Ducati polivalente para viajar, moverte a diario o aprender tras sacarte el carnet. Es un capricho informado, no un error si sabes dónde te metes.<img src=/media/ducati-desmo450-sm-2026-1.webp alt=Desmo450 SM: ¿la supermotard definitiva por 13.990 €? — fotografía del modelo><img src=/media/fotos-reales/ducati-desmo450-sm-2026 alt=Desmo450 SM: ¿la supermotard definitiva por 13.990 €? — fotografía del modelo>
 
 ## Preguntas frecuentes
 

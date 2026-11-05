@@ -477,7 +477,7 @@ Para ponerlo en contexto: un Hyundai Tucson o un Toyota RAV4 híbridos equivalen
 
 <img src=/media/dacia-bigster-hybrid-precio-espana-oficial.webp alt=Dacia Bigster Hybrid, SUV familiar, vista lateral>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.<img src=/media/dacia-bigster-hybrid-precio-espana-interior-oficial-2.webp alt=Bigster Hybrid 155: precio, versiones y consumo en España — interior>
 
 ## Curiosidades que quizá no sabías
 

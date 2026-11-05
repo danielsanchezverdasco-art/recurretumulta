@@ -24,7 +24,7 @@ export const MOTOR_2026_N_POSTS: BlogPost[] = [
     "salon paris 2026 entradas",
     "25 marcas chinas paris",
   ],
-  "content": `<img src=/media/salon-paris-2026-20-marcas-chinas-aranceles-hero.webp alt=Salón del Automóvil de París de noche con coches eléctricos expuestos y la Torre Eiffel al fondo>
+  "content": `<img src=/media/byd-sealion-7-salon-paris-2024.webp alt=París 2026: 25 marcas chinas y la guerra de los aranceles — fotografía del modelo>
 
 El **Salón del Automóvil de París** abre mañana sus puertas (12-18 de octubre) y lo hace en plena guerra comercial: **25 marcas chinas** acuden a la cita, un récord que **duplica** la delegación china del salón de 2024. No es una anécdota: es la prueba de que el centro de gravedad de la industria ya no está donde estaba.
 
@@ -101,7 +101,7 @@ El mensaje es claro: los salones que Europa abandonó, China los está ocupando.
 3. **Fabricado en Europa = blindado.** Los chinos que se fabrican aquí (el <a href=/coches/leapmotor-b05-2026-precio-ficha-tecnica/>Leapmotor B05</a> se hará en Figueruelas, Zaragoza) esquivan los aranceles por definición. Es un argumento más para mirar qué modelo viene de qué fábrica.
 4. **Las marcas nuevas necesitan red.** Aito quiere que el 20 % de sus ventas sean fuera de China en tres años (hoy es menos del 1 %) y presenta en París cuatro SUV eléctricos de gama alta. Ojo con comprar una marca sin red de servicio en España: el precio es tentador, pero la posventa manda.
 
-Consulta la <a href=/blog/salon-paris-2026-estrenos-electricos-guia/>guía de estrenos eléctricos del Salón de París 2026</a> para ver qué modelos se presentan, y <a href=/comparador-coches/>compáralos cara a cara en el comparador de coches</a>.
+Consulta la <a href=/blog/salon-paris-2026-estrenos-electricos-guia/>guía de estrenos eléctricos del Salón de París 2026</a> para ver qué modelos se presentan, y <a href=/comparador-coches/>compáralos cara a cara en el comparador de coches</a>.<img src=/media/ds-n7-nueva-generacion-salon-paris-2026-hero.webp alt=París 2026: 25 marcas chinas y la guerra de los aranceles — fotografía del modelo><img src=/media/peugeot-salon-paris-2026-stand-hero.webp alt=París 2026: 25 marcas chinas y la guerra de los aranceles — fotografía del modelo>
 
 ## Preguntas frecuentes
 

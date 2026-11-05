@@ -27,7 +27,7 @@ La <a href=/motos/zero-sr-s-2025-ficha-tecnica-precio/>Zero SR/S 2025</a> es la 
 | Velocidad máxima | 200 km/h |
 | Carga | Doméstica (~11 h); rápida opcional 6 kW (~2 h) |
 | Carnet | A |
-| Garantía | 5 años, km ilimitado (batería incluida) |
+| Garantía | 5 años, km ilimitado (batería incluida) |<img src=/media/zero-sr-s-2025-ficha-tecnica-precio-1-480w.webp alt=Zero SR/S 2025: 111 CV eléctricos — fotografía del modelo>
 
 ## Una deportiva sin marchas ni ruido
 
@@ -97,7 +97,7 @@ La <a href=/motos/zero-dsr-x-2025-ficha-tecnica-precio/>Zero DSR/X 2025</a> es l
 | Velocidad máxima | 180 km/h |
 | Peso | 247 kg |
 | Precio | 23.895 € |
-| Carnet | A |
+| Carnet | A |<img src=/media/zero-dsr-x-2025-ficha-tecnica-precio-1-480w.webp alt=Zero DSR/X 2025: la trail eléctrica — fotografía del modelo>
 
 ## Pensada para el trail de verdad
 
@@ -166,7 +166,7 @@ El <a href=/motos/niu-fqi-500-2025-ficha-tecnica-precio/>NIU FQi 500 2025</a> es
 | Autonomía | 100 km (declarada) |
 | Peso | 127 kg |
 | Precio | 3.799 € |
-| Carnet | A1 (válido con B +3 años) |
+| Carnet | A1 (válido con B +3 años) |<img src=/media/niu-fqi-500-2025-ficha-tecnica-precio-1-480w.webp alt=NIU FQi 500: scooter eléctrico 2025 — fotografía del modelo>
 
 ## Dos baterías que se cargan en casa
 
@@ -273,7 +273,7 @@ El <a href=/motos/niu-mqi-gt-evo-2025-ficha-tecnica-precio/>NIU MQi GT Evo 2025<
 | Peso | 128 kg |
 | Carga útil | 275 kg |
 | Precio | 4.999 € |
-| Carnet | A1 (válido con B +3 años) |
+| Carnet | A1 (válido con B +3 años) |<img src=/media/niu-mqi-gt-evo-2025-ficha-tecnica-precio-1-480w.webp alt=NIU MQi GT Evo: 100 km/h eléctricos — fotografía del modelo>
 
 ## El más rutero de los NIU clásicos
 
@@ -379,7 +379,7 @@ El <a href=/motos/niu-nqix-500-2025-ficha-tecnica-precio/>NIU NQiX 500 2025</a> 
 | Batería | 2 × 72 V 28 Ah (4,03 kWh) |
 | Autonomía | 95 km (declarada) |
 | Peso | 128 kg |
-| Carnet | A1 (válido con B +3 años) |
+| Carnet | A1 (válido con B +3 años) |<img src=/media/niu-nqix-500-2025-ficha-tecnica-precio-1-480w.webp alt=NIU NQiX 500: el scooter más rápido — fotografía del modelo>
 
 ## El modo Boost lo cambia todo
 
@@ -480,7 +480,7 @@ La <a href=/motos/silence-s02-ls-2025-ficha-tecnica-precio/>Silence S02 LS 2025<
 | Batería | 2 kWh extraíble tipo trolley |
 | Autonomía | 55 km (declarada) |
 | Marcha atrás | Sí, de serie |
-| Carnet | AM |
+| Carnet | AM |<img src=/media/silence-s02-ls-2025-ficha-tecnica-precio-1-480w.webp alt=Silence S02 LS: ciclomotor eléctrico — fotografía del modelo>
 
 ## La batería trolley que inventó una categoría
 
@@ -549,7 +549,7 @@ La <a href=/motos/silence-s01-plus-2025-ficha-tecnica-precio/>Silence S01+ 2025<
 | Autonomía | 133 km (declarada) |
 | Peso | 152 kg |
 | Precio | 4.990 € |
-| Carnet | A1 (válido con B +3 años) |
+| Carnet | A1 (válido con B +3 años) |<img src=/media/silence-s01-plus-2025-ficha-tecnica-precio-1-480w.webp alt=Silence S01+: 133 km de autonomía — fotografía del modelo>
 
 ## 133 km que cambian el uso
 
@@ -617,7 +617,7 @@ El <a href=/motos/horwin-sk1-2025-ficha-tecnica-precio/>Horwin SK1 2025</a> es l
 | Batería | 72 V 36 Ah extraíble (2,59 kWh) |
 | Autonomía | 96 km (declarada) |
 | Carga | Unas 4,5 h en enchufe doméstico |
-| Carnet | AM |
+| Carnet | AM |<img src=/media/horwin-sk1-2025-ficha-tecnica-precio-1-480w.webp alt=Horwin SK1: el ciclomotor eléctrico — fotografía del modelo>
 
 ## El SK3, pero para el AM
 
@@ -686,7 +686,7 @@ El <a href=/motos/horwin-ek3-2025-ficha-tecnica-precio/>Horwin EK3 2025</a> es e
 | Autonomía | 90 km (200 km con 2ª batería) |
 | Carga | 4 h por batería |
 | Precio | 4.490 € |
-| Carnet | A1 (válido con B +3 años) |
+| Carnet | A1 (válido con B +3 años) |<img src=/media/horwin-ek3-2025-ficha-tecnica-precio-1-480w.webp alt=Horwin EK3: diseño y 95 km/h — fotografía del modelo>
 
 ## Un Red Dot sobre dos ruedas
 
@@ -755,7 +755,7 @@ La <a href=/motos/horwin-cr6-2025-ficha-tecnica-precio/>Horwin CR6 2025</a> es l
 | Autonomía | 150 km a 45 km/h (declarada) |
 | Peso | 134 kg |
 | Precio | 5.890 € |
-| Carnet | A1 (válido con B +3 años) |
+| Carnet | A1 (válido con B +3 años) |<img src=/media/horwin-cr6-2025-ficha-tecnica-precio-1-480w.webp alt=Horwin CR6: café racer eléctrica — fotografía del modelo>
 
 ## Retro por fuera, eléctrica por dentro
 
@@ -825,7 +825,7 @@ La <a href=/motos/can-am-pulse-2025-ficha-tecnica-precio/>Can-Am Pulse 2025</a> 
 | Velocidad máxima | 129 km/h |
 | 0-100 km/h | 3,8 s |
 | Peso | 177 kg |
-| Carnet | A2 (versión 11 kW: A1) |
+| Carnet | A2 (versión 11 kW: A1) |<img src=/media/can-am-pulse-2025-ficha-tecnica-precio-1-480w.webp alt=Can-Am Pulse: naked eléctrica A2 — fotografía del modelo>
 
 ## Tecnología de coche en una naked
 
@@ -934,7 +934,7 @@ La <a href=/motos/can-am-origin-2025-ficha-tecnica-precio/>Can-Am Origin 2025</a
 | 0-100 km/h | 4,3 s |
 | Peso | 187 kg |
 | Altura de asiento | 865 mm |
-| Carnet | A2 (versión 11 kW: A1) |
+| Carnet | A2 (versión 11 kW: A1) |<img src=/media/can-am-origin-2025-ficha-tecnica-precio-1-480w.webp alt=Can-Am Origin: trail eléctrica A2 — fotografía del modelo>
 
 ## Una trail de verdad, no una naked alta
 
@@ -1040,7 +1040,7 @@ La <a href=/motos/super-soco-tc-max-2025-ficha-tecnica-precio/>Super Soco TC Max
 | Autonomía | 110 km (declarada) |
 | Peso | 101 kg |
 | Transmisión | Correa dentada |
-| Carnet | A1 (válido con B +3 años) |
+| Carnet | A1 (válido con B +3 años) |<img src=/media/super-soco-tc-max-2025-ficha-tecnica-precio-1-480w.webp alt=Super Soco TC Max: café racer A1 — fotografía del modelo>
 
 ## Estilo clásico, mecánica eléctrica
 
@@ -1147,7 +1147,7 @@ El <a href=/motos/super-soco-cpx-pro-2025-ficha-tecnica-precio/>Super Soco CPx P
 | Autonomía | 100 km (declarada) |
 | Peso | 143 kg |
 | Ruedas | 16\" delantera / 14\" trasera |
-| Carnet | A1 (válido con B +3 años) |
+| Carnet | A1 (válido con B +3 años) |<img src=/media/super-soco-cpx-pro-2025-ficha-tecnica-precio-1-480w.webp alt=Super Soco CPx Pro: 115 km/h — fotografía del modelo>
 
 ## El doble de todo
 
@@ -1253,7 +1253,7 @@ La <a href=/motos/maeving-rm1-2025-ficha-tecnica-precio/>Maeving RM1 2025</a> es
 | Autonomía | 64 km (128 km con 2ª batería) |
 | Peso | 111 kg |
 | Plazas | 1 |
-| Carnet | A1 |
+| Carnet | A1 |<img src=/media/maeving-rm1-2025-ficha-tecnica-precio-1-480w.webp alt=Maeving RM1: la retro eléctrica — fotografía del modelo>
 
 ## Como cargar un portátil
 
@@ -1323,7 +1323,7 @@ La <a href=/motos/livewire-s2-del-mar-2025-ficha-tecnica-precio/>LiveWire S2 Del
 | Velocidad máxima | 166 km/h |
 | 0-100 km/h | 3,1 s |
 | Carga | Nivel 1 (8,4 h) / Nivel 2 (20-80% en 78 min) |
-| Carnet | A |
+| Carnet | A |<img src=/media/livewire-s2-del-mar-2025-ficha-tecnica-precio-1-480w.webp alt=LiveWire S2 Del Mar: 82 CV — fotografía del modelo>
 
 ## Flat track electrificado
 
@@ -1391,7 +1391,7 @@ La <a href=/motos/yadea-keeness-2025-ficha-tecnica-precio/>Yadea Keeness 2025</a
 | Velocidad máxima | 100 km/h |
 | Batería | 2 × 72 V 32 Ah (4,6 kWh) |
 | Autonomía | 129 km EEC (declarada) |
-| Carnet | A1 (válido con B +3 años) |
+| Carnet | A1 (válido con B +3 años) |<img src=/media/yadea-keeness-2025-ficha-tecnica-precio-1-480w.webp alt=Yadea Keeness: naked eléctrica A1 — fotografía del modelo>
 
 ## El mayor fabricante se pone serio
 
@@ -1460,7 +1460,7 @@ El <a href=/motos/yadea-fierider-2025-ficha-tecnica-precio/>Yadea Fierider 2025<
 | Batería | 2 × 72 V 27 Ah (3,9 kWh) |
 | Autonomía | 148 km (declarada) |
 | Precio | 5.995 € (Europa) |
-| Carnet | A1 (válido con B +3 años) |
+| Carnet | A1 (válido con B +3 años) |<img src=/media/yadea-fierider-2025-ficha-tecnica-precio-1-480w.webp alt=Yadea Fierider: scooter de 15 CV — fotografía del modelo>
 
 ## El más rápido de su clase
 
