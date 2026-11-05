@@ -1,0 +1,9 @@
+[links-chunk] distintos=17544 hechos=1848 pendientes=15696 chunk=600 pace=1.5
+[links-chunk] 100/600 ultimo=https://recurretumulta.online/coches/toyota-prius-phev-2025-precio-ficha-tecnica/ status=200
+[links-chunk] 200/600 ultimo=https://recurretumulta.online/coches/skoda-fabia-10-tsi-95-2026-precio-ficha-tecnica/ status=200
+[links-chunk] 300/600 ultimo=https://recurretumulta.online/coches/dr-3-0-2025-precio-ficha-tecnica/ status=200
+[links-chunk] 400/600 ultimo=https://recurretumulta.online/coches/delage-d12-club-2025-precio-ficha-tecnica/ status=200
+[links-chunk] 500/600 ultimo=https://recurretumulta.online/coches/nio-et9-2026-precio-ficha-tecnica/ status=200
+[links-chunk] 600/600 ultimo=https://recurretumulta.online/coches/marca/volkswagen/ status=200
+[links-chunk] hecho: 600 HEADs en 1710s; total_hechos=2448 pendientes_restantes=15096 parada_por_errores=False
+EXIT=0
