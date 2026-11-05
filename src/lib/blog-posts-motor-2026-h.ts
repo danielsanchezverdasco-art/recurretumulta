@@ -1,3 +1,4 @@
+// Fotos 5/11/2026 (2ª oleada, omoda-jaecoo-record-ventas): Wikimedia Commons, CC BY-SA 4.0, Calreyn88 (File:2024 Omoda 5 Comfort 290T 3.jpg); Wikimedia Commons, CC BY-SA 4.0, Calreyn88 (File:2024 Omoda 5 Comfort 290T.jpg); Wikimedia Commons, CC0, JustAnotherCarDesigner (File:Chery Omoda 5 006.jpg).
 // Artículos de novedades del motor (lote diario 2026-10-04, lote H).
 // 4 artículos: récord de ventas Omoda & Jaecoo septiembre 2026, MG HS Hybrid+
 // 225 CV (precio y pedidos abiertos), BYD Dolphin Surf MY26 con 5 plazas y
@@ -20,7 +21,7 @@ export const MOTOR_2026_H_POSTS: BlogPost[] = [
     "Jaecoo 5 Omoda 5 ventas",
     "matriculaciones Omoda Jaecoo récord",
   ],
-  content: `<img src=/media/omoda-jaecoo-record-ventas-septiembre-2026-hero.webp alt=Concesionario español con varios SUV Omoda y Jaecoo aparcados en fila>
+  content: `<img src=/media/omoda-jaecoo-record-ventas-septiembre-2026-hero.jpg alt=Concesionario español con varios SUV Omoda y Jaecoo aparcados en fila><img src="/media/omoda-jaecoo-record-ventas-septiembre-2026-3.jpg" alt="omoda-jaecoo-record-ventas-septiembre-2026 — fotografía del modelo">
 
 Omoda y Jaecoo acaban de firmar su **tercer mejor mes histórico en España**: **4.010 matriculaciones en septiembre de 2026**, un **91,5% más** que un año antes, según la nota de prensa oficial de la marca publicada el 2 de octubre. Es la tercera vez que superan la barrera de las 4.000 unidades mensuales, tras mayo y junio, y lo hacen con un dato que debería hacer reflexionar a las marcas tradicionales: el **98% de lo que venden ya es electrificado**.
 
@@ -44,7 +45,7 @@ Omoda y Jaecoo acaban de firmar su **tercer mejor mes histórico en España**: *
 
 La lectura es directa: Omoda y Jaecoo no venden "coches chinos baratos", venden **electrificación a precio de generalista**. Más de la mitad de sus ventas son híbridos convencionales —el segmento que más crece en España— y casi cuatro de cada diez son enchufables. Solo 78 clientes de 4.010 eligieron gasolina pura.
 
-<img src=/media/omoda-jaecoo-record-ventas-septiembre-2026-cuerpo.webp alt=Comercial entregando las llaves de un SUV a un cliente en un concesionario español>
+<img src=/media/omoda-jaecoo-record-ventas-septiembre-2026-2.jpg alt=Comercial entregando las llaves de un SUV a un cliente en un concesionario español>
 
 ## El contexto europeo: ya no es solo España
 
