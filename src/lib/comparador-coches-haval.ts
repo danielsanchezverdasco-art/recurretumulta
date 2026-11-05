@@ -84,9 +84,9 @@ export const COCHES_HAVAL: CocheComparador[] = [
     id: "haval-h6-hev-2025-precio-ficha-tecnica",
     textosPropios: {
       "faqPreguntaAnalisis": "¿Hay un análisis más extenso del H6 HEV?",
-      "notaCosa": "Puntúa alto por dar 243 CV por 33.800 € y gastar 5,9 l/100 km.",
+      "notaCosa": "Puntúa alto por dar 243 CV y gastar 5,9 l/100 km (precio de referencia colombiano: unos 33.800 € al cambio; sin PVP en España).",
       "zbe": "Sí. Al ser híbrido sin enchufe, el H6 HEV lleva el distintivo ECO y circula por la ZBE de Madrid a diario. La excepción son los escenarios de alta contaminación del protocolo municipal, cuando el Ayuntamiento puede cerrar zonas a los ECO.",
-      "precio": "El Haval H6 HEV parte de 33.800 €, con el sistema DHT de 243 CV y 530 Nm de serie. Qué cambia entre acabados, en el análisis:",
+      "precio": "No se vende en España y no tiene PVP español: GWM vende aquí el Ora 5, el Haval H7, el Jolion Max y el Tank 300, pero el H6 no figura en su gama. Como referencia, en Colombia parte de 139.900.000 COP (unos 33.800 € al cambio). No confundir con el Haval H7. Qué cambia entre acabados, en el análisis:",
       "fotos": "Imágenes del dossier de prensa de Haval (Great Wall Motor).",
       "costeNota": "Cálculo de octubre de 2026 para un H6 HEV con 15.000 km anuales, los 5,9 l/100 km homologados, gasolina 95 a 1,60 €/l, póliza ampliada y revisiones en la red Haval. Conduciendo mucho por autovía el gasto en combustible sube; en ciudad el híbrido rinde mejor.",
       "rivalesIntro": "SUV familiares híbridos alrededor de los 34.000 €.",
@@ -94,7 +94,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       "preguntaBateria": "¿Cuánto cubre la garantía de la batería híbrida?",
       "preguntaConsumo": "¿Se acerca el consumo real a 5,9 l/100 km?",
       "preguntaZbe": "¿Qué ZBE limitan a los ECO?",
-      "faqPrecio": "33.800 € de tarifa, el mismo precio que tenía el 14/10/2026, cuando empezamos a seguirlo. Las ayudas por versión, si las hay, van en el análisis.",
+      "faqPrecio": "Sin PVP en España: el H6 HEV no se vende aquí. Como referencia, en Colombia parte de 139.900.000 COP (unos 33.800 € al cambio). Las ayudas por versión, si las hay, van en el análisis.",
       "faqAutonomia": "Como híbrido no enchufable no homologa km eléctricos. Con depósito de 61 litros y 5,9 l/100 km, el alcance teórico ronda los 1.000 km.",
       "faqMaletero": "560 litros con cinco plazas y 1.445 abatiendo la segunda fila.",
       "faqEtiqueta": "ECO, por ser híbrido. Entra en las ZBE salvo en episodios de contaminación o normas locales más duras.",
@@ -129,7 +129,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       "Depósito de 61 litros: gran autonomía total",
     ],
     contras: [
-      "Precio de 33.800 €, en la parte alta del segmento generalista",
+      "Sin venta ni PVP en España: los 33.800 € son la conversión del precio colombiano (desde 139.900.000 COP)",
       "Cambio DHT con respuesta mejorable a ritmo fuerte",
       "Interior muy digital: casi todo se controla desde la pantalla",
       "Marca aún construyendo su imagen en España",
@@ -145,7 +145,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
     parNm: 530,
     traccion: "Delantera",
     emisionesCo2: 134,
-    aprox: [],
+    aprox: ["precio"],
     imagen: "/media/haval-h6-hev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

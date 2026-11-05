@@ -14,6 +14,7 @@ import { Link } from "react-router-dom";
 import { Search, SlidersHorizontal, ChevronDown, FileText, Camera, AlertTriangle } from "lucide-react";
 import { useSeo } from "@/hooks/use-seo.ts";
 import { destinoRadar } from "@/lib/radar-a-multas.generated.ts";
+import { PROVINCIAS } from "@/lib/provincias-data.ts";
 import { DriveInImage } from "@/components/motion.tsx";
 import { Badge } from "@/components/ui/badge.tsx";
 import SharedNavbar from "@/components/shared-navbar.tsx";
@@ -58,6 +59,10 @@ const FAQS = [
   {
     q: "¿Cada cuánto se actualiza la información?",
     a: "La DGT publica su listado con periodicidad regular y cada ficha muestra su fecha de verificación. Si detectas un radar que ha cambiado de ubicación o de límite, puedes avisarnos desde la ficha correspondiente.",
+  },
+  {
+    q: "¿Dónde consulto el mapa oficial de radares de la DGT?",
+    a: "En el mapa interactivo oficial de la DGT, Infocar (eTraffic), en https://infocar.dgt.es/etraffic/. No existe una página estática de la DGT con el mapa: la consulta oficial es ese mapa interactivo, y cada radar nuevo se anuncia en las notas de prensa de la DGT. Los radares móviles no se publican con ubicación exacta en tiempo real.",
   },
   {
     q: "¿Me pueden multar si el radar no aparece aquí?",
@@ -184,6 +189,17 @@ export default function RadaresIndexPage() {
   const ancla = (c: string) =>
     "c-" + c.toLowerCase().normalize("NFD").replace(/[^a-z0-9]+/g, "-");
 
+  // Índice por comunidad (05/11/2026): provincias con página propia en
+  // /multas/<slug>/ (src/lib/provincias-data.ts). Estático: se ve siempre,
+  // también mientras carga el índice de radares o si este falla.
+  const indiceComunidades = useMemo(() => {
+    const g = new Map<string, { slug: string; nombre: string }[]>();
+    for (const p of PROVINCIAS) {
+      g.set(p.ccaa, [...(g.get(p.ccaa) ?? []), { slug: p.slug, nombre: p.nombre }]);
+    }
+    return [...g.entries()].sort((a, b) => a[0].localeCompare(b[0], "es"));
+  }, []);
+
   return (
     <div className="min-h-screen bg-gray-50">
       <SharedNavbar />
@@ -218,10 +234,21 @@ export default function RadaresIndexPage() {
             Radares de tráfico en España por comunidad autónoma
           </h1>
           <p className="text-white/80 text-sm md:text-base leading-relaxed">
-            El mapa de radares fijos de la DGT, agrupado por comunidad autónoma:
-            carretera, punto kilométrico, sentido, tipo de radar y límite de
-            velocidad. Datos oficiales verificados: la ausencia de un radar en
-            esta lista no significa que no exista.
+            El mapa de radares DGT 2026 es el mapa interactivo oficial de la
+            DGT, Infocar (eTraffic): consúltalo en el{" "}
+            <a
+              href="https://infocar.dgt.es/etraffic/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-bold text-white underline hover:text-white"
+            >
+              mapa interactivo oficial de la DGT (infocar.dgt.es/etraffic)
+            </a>
+            . Los radares nuevos se publican en la web de la DGT. Aquí tienes
+            el mismo listado agrupado por comunidad autónoma, con carretera,
+            punto kilométrico, sentido, tipo de radar y límite de velocidad.
+            Datos oficiales verificados: la ausencia de un radar en esta lista
+            no significa que no exista.
           </p>
           <p className="text-xs text-white/60 pt-1">
             Por <strong className="text-white/80">Daniel</strong>, fundador y responsable de contenidos · Actualizada en octubre de 2026
@@ -230,6 +257,40 @@ export default function RadaresIndexPage() {
       </div>
 
       <main className="mx-auto max-w-6xl px-4 pb-24 pt-6 sm:px-6">
+        {/* ── Índice por comunidad: multas y recursos por provincia ── */}
+        <section
+          aria-label="Radares por comunidad autónoma: multas por provincia"
+          className="mt-2 rounded-2xl border border-gray-200 bg-white p-4 sm:p-6"
+        >
+          <h2 className="text-xl font-extrabold text-gray-900">
+            Radares por comunidad: multas y recursos por provincia
+          </h2>
+          <p className="mt-2 text-sm leading-relaxed text-gray-600">
+            Si te ha llegado una multa de radar, consulta cómo recurrirla en tu
+            provincia: radares, plazos, órgano competente y qué hacer si te
+            multan. Todas las provincias tienen página propia.
+          </p>
+          <div className="mt-4 space-y-4">
+            {indiceComunidades.map(([ccaa, provincias]) => (
+              <div key={ccaa}>
+                <h3 className="text-sm font-extrabold text-gray-900">{ccaa}</h3>
+                <ul className="mt-1.5 flex flex-wrap gap-1.5">
+                  {provincias.map((p) => (
+                    <li key={p.slug}>
+                      <Link
+                        to={`/multas/${p.slug}/`}
+                        className="inline-block rounded-full border border-gray-200 bg-gray-50 px-2.5 py-1 text-xs font-semibold text-gray-700 hover:border-[#cd001d] hover:text-[#cd001d]"
+                      >
+                        {p.nombre}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </section>
+
         {estado === "cargando" && (
           <div className="mt-6 rounded-2xl border border-gray-200 bg-white p-8 text-center">
             <Camera className="mx-auto h-8 w-8 animate-pulse text-gray-300" />
