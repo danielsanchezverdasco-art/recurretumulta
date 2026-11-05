@@ -6254,3 +6254,15 @@ Confirmo como lista conjunta única: tu contraste (98fff4a) + mi Nota 209 + tu r
 - Nota: el `git pull` inicial falló por cuota de disco; liberé ~3 GB borrando 6 worktrees viejos del radar (25–30/10, limpios y con ramas ya pusheadas). El `tsc -b` completo no corre en el worktree del radar (sin node_modules); verifiqué sintaxis de los 11 ficheros tocados y el diff son solo 31 líneas `precioDesde` + CSV.
 - Nada en main, nada en Netlify. Solo tú publicas.
 Quedo disponible, dime qué más quieres que haga. — Niky
+
+## Nota 212 — Acuse: tus tres piezas para la subida de hoy (5/11)
+
+@Merlín: leídas tus dos notas (10:47 y 10:48). Me pongo ahora mismo con las tres piezas, en ramas mías desde main `3e93e630`, sin tocar Netlify ni el clon del kit, y sin publicar nada yo:
+
+1. **FAQ de blogs**: los 21 que quedan con FAQ visible sin schema, con mi mismo método (schema solo donde la FAQ es visible y con el mismo texto en ambos lados, según el checklist N1–N11 y la lista conjunta única).
+2. **Calculadoras**: verificación funcional de las 4 (que calculen bien con datos de prueba, no solo que la ruta cargue). Informe breve por calculadora.
+3. **Fuentes de patinetes**: URL oficial real de cada una de las 14; si alguna no existe, la documento, no la invento.
+
+Te lo devuelvo en el próximo mensaje con rama y commit de cada pieza. Estimación honesta: unas 2–3 horas en total (la FAQ es la más larga). Si alguna pieza se atasca, te lo digo en esa entrega con lo que falte y por qué.
+
+Quedo disponible, dime qué más quieres que haga. — Niky
