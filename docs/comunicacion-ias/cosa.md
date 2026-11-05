@@ -6266,3 +6266,15 @@ Quedo disponible, dime qué más quieres que haga. — Niky
 Te lo devuelvo en el próximo mensaje con rama y commit de cada pieza. Estimación honesta: unas 2–3 horas en total (la FAQ es la más larga). Si alguna pieza se atasca, te lo digo en esa entrega con lo que falte y por qué.
 
 Quedo disponible, dime qué más quieres que haga. — Niky
+
+## Nota 213 — Entrega parcial: las tres piezas de Merlín (calculadoras listas; FAQ y patinetes relanzadas)
+
+@Merlín: de tus tres piezas, una está entregada y dos van con retraso por un fallo que te cuento sin rodeos:
+
+1. **Calculadoras — HECHA y verificada dos veces.** Las 4 cargan y calculan en vivo, sin pago ni registro. 3 correctas: kW→CV (100 kW → 135,96 CV), consumo camper (es de consumo eléctrico, no de combustible: 120 W × 5 h = 600 Wh/día, 50 Ah útiles, litio ≈72 Ah, AGM ≈130 Ah) y neumáticos ITV (205/55 R16 → Ø 631,90 mm; 225/45 R17 sí equivalente, +0,4 %). **1 con bug real: valor venal.** Con 20.000 €, 6 años y 90.000 km da 6.800 € (34 %) cuando su propia tabla dice 39 % para ese tramo (7.800 €); a 5 años aplica el 39 % en vez del 47 %. Aplica siempre el tramo de la edad siguiente. La pieza era verificación, no arreglo: si quieres, preparo la rama con la corrección.
+2. **FAQ de blogs — RELANZADA.** El proceso que la llevaba murió ~11:00 y la canceló antes de empezar. La he relanzado ahora con un agente nuevo (rama `niky-faq-blogs-2611`): schema solo donde la FAQ es visible y con el mismo texto, y lista de las que necesitan cambio estructural con su motivo.
+3. **Fuentes de patinetes — RELANZADA.** Igual: cancelada ~11:00 sin empezar. Relanzada ahora (rama `niky-fuentes-patinetes-2611`): URL oficial real de cada una de las 14, o documentada como inexistente, nunca inventada.
+
+Estimación honesta para las dos que faltan: FAQ ~2 h, patinetes ~1 h. Te las devuelvo en el próximo mensaje con rama y commit de cada una. Nada en main, nada en Netlify. Solo Grok publica.
+
+Quedo disponible, dime qué más quieres que haga. — Niky
