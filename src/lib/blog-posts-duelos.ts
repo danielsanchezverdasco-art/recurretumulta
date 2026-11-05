@@ -23,7 +23,7 @@ export const DUELOS_POSTS: BlogPost[] = [
       "Renault 5 autonomía WLTP",
       "eléctrico barato etiqueta Cero",
     ],
-    content: `<img src=/media/renault-5-e-tech-2026-vs-dacia-spring-2026-cual-comprar-hero.webp alt=Comparativa entre el Renault 5 E-Tech y el Dacia Spring 2026, los dos eléctricos urbanos más baratos del mercado>
+    content: `<img src=/media/renault-5-e-tech-2024-precio-ficha-tecnica-hero.webp alt=Renault 5 vs Spring 2026: ¿cuál te conviene más? — fotografía del modelo>
 
 Los dos eléctricos más baratos con etiqueta Cero se enfrentan: el Renault 5 E-Tech 2026, que con promociones y el Plan Auto+ baja hasta **20.170 €**, y el nuevo Dacia Spring, cuyo precio de partida estará **por debajo de 18.000 €** (unos 13.400 € con ayudas). Los dos son primos del Grupo Renault y los dos son urbanos puros, pero no son el mismo coche ni de lejos.
 
@@ -90,7 +90,7 @@ Fuentes: <a href=https://www.renault.es>Renault España</a> y <a href=https://ww
 
 <iframe src=https://www.youtube.com/embed/ZKkCznUMeYg title="Vídeo: Prueba real del Renault 5 E-Tech en autopista" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=ZKkCznUMeYg>David Fernandez & Cars</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=ZKkCznUMeYg>David Fernandez & Cars</a> en YouTube<img src=/media/renault-5-e-tech-2024-precio-ficha-tecnica-interior-oficial.webp alt=Renault 5 vs Spring 2026: ¿cuál te conviene más? — interior><img src=/media/renault-5-e-tech-2024-precio-ficha-tecnica-oficial.webp alt=Renault 5 vs Spring 2026: ¿cuál te conviene más? — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -130,7 +130,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "Renault 4L eléctrico 2026",
       "R4 E-Tech maletero",
     ],
-    content: `<img src=/media/renault-4-e-tech-vs-renault-5-e-tech-cual-comprar-hero.webp alt=Comparativa entre el Renault 4 E-Tech y el Renault 5 E-Tech, los dos eléctricos retro de Renault>
+    content: `<img src=/media/renault-4-e-tech-40-kwh-2025-precio-ficha-tecnica-hero.webp alt=Renault 4 E-Tech vs Renault 5 E-Tech 2026 — fotografía del modelo>
 
 Son hermanos, comparten la plataforma **AmpR Small** y el 68 % de las piezas, pero Renault insiste en que el 4 E-Tech no es "un R5 alto": tiene chasis, suspensiones y puesta a punto propios, carrocería más alta, más larga y más práctica. La pregunta honesta es si el sobreprecio se justifica.
 
@@ -195,7 +195,7 @@ Fuentes: <a href=https://www.renault.es>Renault España</a>.
 
 <iframe src=https://www.youtube.com/embed/VIFRwUsPhs4 title="Vídeo: Prueba del Renault 4 E-Tech: el R4 vuelve a dar 'la lata'" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=VIFRwUsPhs4>El Periódico de la Energía</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=VIFRwUsPhs4>El Periódico de la Energía</a> en YouTube<img src=/media/renault-4-e-tech-40-kwh-2025-precio-ficha-tecnica-hunt1.webp alt=Renault 4 E-Tech vs Renault 5 E-Tech 2026 — fotografía del modelo><img src=/media/renault-4-e-tech-40-kwh-2025-precio-ficha-tecnica-hunt2.webp alt=Renault 4 E-Tech vs Renault 5 E-Tech 2026 — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -235,7 +235,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "BYD Atto 2 DM-i precio",
       "comparativa SUV chinos",
     ],
-    content: `<img src=/media/byd-atto-2-vs-jaecoo-5-cual-comprar-hero.webp alt=Comparativa entre el BYD Atto 2 y el Jaecoo 5, dos SUV chinos baratos>
+    content: `<img src=/media/byd-atto-2-dm-i-2026-precio-ficha-tecnica-hero.webp alt=BYD Atto 2 vs Jaecoo 5 2026 — fotografía del modelo>
 
 El duelo chino del año en el segmento B-SUV: el **BYD Atto 2** eléctrico, desde **18.739 € financiando** con el Plan Auto+, contra el **Jaecoo 5**, que parte de **19.990 € financiado** en gasolina y ofrece tres etiquetas distintas (C, ECO y CERO) según motorización. Los dos rondan los 4,3-4,4 metros, los dos vienen cargados de equipamiento y los dos cuestan lo que un utilitario europeo. Pero juegan en ligas distintas.
 
@@ -302,7 +302,7 @@ Fuentes: <a href=https://www.byd.com/es>BYD España</a> y <a href=https://www.ja
 
 <iframe src=https://www.youtube.com/embed/PGysqWUSeDE title="Vídeo: Prueba Jaecoo 5: ¿es una buena compra?" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=PGysqWUSeDE>SoyMotor</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=PGysqWUSeDE>SoyMotor</a> en YouTube<img src=/media/byd-atto-2-dm-i-2026-precio-ficha-tecnica-hunt1.webp alt=BYD Atto 2 vs Jaecoo 5 2026 — fotografía del modelo><img src=/media/byd-atto-2-dm-i-2026-precio-ficha-tecnica-hunt2.webp alt=BYD Atto 2 vs Jaecoo 5 2026 — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -662,7 +662,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "Skoda Peaq autonomía",
       "coche familiar eléctrico 7 plazas",
     ],
-    content: `<img src=/media/peugeot-e-5008-vs-skoda-peaq-cual-comprar-hero.webp alt=Comparativa entre el Peugeot E-5008 y el Skoda Peaq, los dos SUV eléctricos de 7 plazas>
+    content: `<img src=/media/peugeot-e-5008-2026-precio-ficha-tecnica-hero.webp alt=Peugeot E-5008 vs Skoda Peaq 2026 — fotografía del modelo>
 
 El duelo familiar del año: **Peugeot E-5008** eléctrico desde **44.380 €** contra **Skoda Peaq** desde **54.550 €**. Los dos son SUV eléctricos con 7 plazas, los dos rondan los 4,8 metros y los dos presumen de autonomía. Pero hay 10.000 € de diferencia de partida y filosofías distintas. Si buscas el coche familiar eléctrico definitivo, esta es tu comparativa.
 
@@ -731,7 +731,7 @@ Fuentes: <a href=https://www.peugeot.es>Peugeot España</a> y <a href=https://ww
 
 <iframe src=https://www.youtube.com/embed/xhOx8h5irbU title="Vídeo: Nuevo Peugeot 5008: presentación exterior y diseño" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=xhOx8h5irbU>StellantisAndYou España</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=xhOx8h5irbU>StellantisAndYou España</a> en YouTube<img src=/media/peugeot-e-5008-2026-precio-ficha-tecnica-hunt1.webp alt=Peugeot E-5008 vs Skoda Peaq 2026 — fotografía del modelo><img src=/media/peugeot-e-5008-2026-precio-ficha-tecnica-hunt2.webp alt=Peugeot E-5008 vs Skoda Peaq 2026 — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -771,7 +771,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "Jaecoo 5 híbrido",
       "qué SUV barato comprar",
     ],
-    content: `<img src=/media/dacia-bigster-hybrid-vs-jaecoo-5-cual-comprar-hero.webp alt=Comparativa entre el Dacia Bigster Hybrid y el Jaecoo 5, los SUV asequibles del momento>
+    content: `<img src=/media/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica-hero.webp alt=Dacia Bigster Hybrid vs Jaecoo 5 2026 — fotografía del modelo>
 
 El duelo de los superventas asequibles: el **Dacia Bigster Hybrid 155**, desde **29.390 €** con etiqueta ECO y 4,6 l/100 km, contra el **Jaecoo 5**, desde **19.990 € financiado** con tres motorizaciones a elegir (gasolina, híbrido y eléctrico). Uno es el C-SUV híbrido más barato del mercado; el otro, el chino que quiere comérselo por precio. Los dos venden como churros. Solo uno puede ganar tu garaje.
 
@@ -839,7 +839,7 @@ Fuentes: <a href=https://www.dacia.es>Dacia España</a> y <a href=https://www.ja
 
 <iframe src=https://www.youtube.com/embed/zD5IWqPdgIY title="Vídeo: Dacia Bigster 2025: el hermano mayor del Duster" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=zD5IWqPdgIY>Diariomotor</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=zD5IWqPdgIY>Diariomotor</a> en YouTube<img src=/media/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica-hunt1.webp alt=Dacia Bigster Hybrid vs Jaecoo 5 2026 — fotografía del modelo><img src=/media/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica-hunt2.webp alt=Dacia Bigster Hybrid vs Jaecoo 5 2026 — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -987,7 +987,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "eléctrico 500 km autonomía barato",
       "Dolphin Surf autonomía",
     ],
-    content: `<img src=/media/hyundai-ioniq-3-vs-renault-5-vs-dolphin-surf-cual-comprar-hero.webp alt=Tres compactos eléctricos alineados en una carretera costera española al atardecer, escena de comparativa>
+    content: `<img src=/media/hyundai-ioniq-3-2026-ficha-1.webp alt=Ioniq 3 vs R5 E-Tech vs Dolphin Surf — fotografía del modelo>
 
 Tres formas de entender el compacto eléctrico se enfrentan: el **Hyundai Ioniq 3**, la apuesta coreana de la autonomía (hasta 497 km WLTP); el **Renault 5 E-Tech**, el icono francés que con ayudas baja a **20.170 €**; y el **BYD Dolphin Surf**, el chino que parte de **12.605 €** con ayudas y ya es el eléctrico más barato con 5 plazas.
 
@@ -1064,7 +1064,7 @@ Fuentes: <a href=https://www.hyundai.es>Hyundai España</a>, <a href=https://www
 
 <iframe src=https://www.youtube.com/embed/wbjUokbtE70 title="Vídeo: Hyundai Ioniq 3, presentación oficial" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=wbjUokbtE70>Hyundai España</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=wbjUokbtE70>Hyundai España</a> en YouTube<img src=/media/hyundai-ioniq-3-2026-ficha-2.webp alt=Ioniq 3 vs R5 E-Tech vs Dolphin Surf — fotografía del modelo><img src=/media/hyundai-ioniq-3-precio-espana-2026-hero.webp alt=Ioniq 3 vs R5 E-Tech vs Dolphin Surf — fotografía del modelo>
 
 ## Preguntas frecuentes
 

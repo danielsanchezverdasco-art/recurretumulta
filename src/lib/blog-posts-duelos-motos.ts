@@ -124,7 +124,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "Zero FXE opiniones",
       "maxi scooter eléctrico",
     ],
-    content: `<img src=/media/bmw-ce-04-vs-zero-fxe-cual-comprar-hero.webp alt=Comparativa entre el BMW CE 04 y la Zero FXE, el maxi-scooter premium frente a la supermotard eléctrica>
+    content: `<img src=/media/bmw-ce-04-2025-ficha-tecnica-precio-hero-480w.webp alt=BMW CE 04 vs Zero FXE 2026 — fotografía del modelo>
 
 Dos formas opuestas de entender la moto eléctrica premium: el BMW CE 04, un maxi-scooter futurista con pantalla de 10,25" y electrónica de moto grande, frente a la Zero FXE, una supermotard de 140 kg y 106 Nm diseñada por Huge Design que se conduce con el carnet de coche convalidado.
 
@@ -184,7 +184,7 @@ La respuesta corta: **el CE 04 es para quien quiere el scooter definitivo para c
 
 <iframe src=https://www.youtube.com/embed/9ZJcX4AfEHE title="Vídeo: Vídeo-prueba BMW CE 04, el nuevo scooter 100% eléctrico" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=9ZJcX4AfEHE>Motorbike Magazine</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=9ZJcX4AfEHE>Motorbike Magazine</a> en YouTube<img src=/media/bmw-ce-04-2025-ficha-tecnica-precio-hero-828w.webp alt=BMW CE 04 vs Zero FXE 2026 — fotografía del modelo><img src=/media/bmw-ce-04-2025-ficha-tecnica-precio-hero.webp alt=BMW CE 04 vs Zero FXE 2026 — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -323,7 +323,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "Yamaha NEO's autonomía",
       "ciclomotor eléctrico 45 km/h",
     ],
-    content: `<img src=/media/honda-em1-e-vs-yamaha-neos-cual-comprar-hero.webp alt=Comparativa entre la Honda EM1 e: y la Yamaha NEO's, los dos ciclomotores eléctricos japoneses>
+    content: `<img src=/media/honda-em1-e-2024-ficha-tecnica-precio-hero.webp alt=Honda EM1 e 2026 — fotografía del modelo>
 
 Duelo japonés en el segmento de los ciclomotores: la Honda EM1 e:, el primer dos ruedas eléctrico de Honda en Europa, frente a la Yamaha NEO's, que recupera el mítico nombre de los 2000 con baterías de solo 8 kg. Las dos son AM (desde los 15 años), las dos llevan baterías extraíbles y las dos son estrictamente urbanas.
 
@@ -382,7 +382,7 @@ La respuesta corta: **la NEO's es la más barata y ligera de usar a diario; la E
 
 <iframe src=https://www.youtube.com/embed/FEAygP2l1KE title="Vídeo: Prueba en español de la Yamaha Neo´s 2023 eléctrica" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=FEAygP2l1KE>Movidasenmoto</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=FEAygP2l1KE>Movidasenmoto</a> en YouTube<img src=/media/honda-em1-e-2024-ficha-tecnica-precio-hunt1.webp alt=Honda EM1 e 2026 — fotografía del modelo><img src=/media/honda-em1-e-2024-ficha-tecnica-precio-hunt2.webp alt=Honda EM1 e 2026 — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -422,7 +422,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "Super Soco CPx opiniones",
       "moto eléctrica carnet B",
     ],
-    content: `<img src=/media/bmw-ce-02-vs-super-soco-cpx-cual-comprar-hero.webp alt=Comparativa entre la BMW CE 02 y la Super Soco CPx, el e-parkourer alemán frente al scooter eléctrico de rueda alta>
+    content: `<img src=/media/bmw-ce-02-2025-ficha-tecnica-precio-hunt1.webp alt=BMW CE 02 vs Super Soco CPx 2026 — fotografía del modelo>
 
 Dos urbanas eléctricas con carnet de coche convalidado y filosofías opuestas: la BMW CE 02, el "e-parkourer" alemán que no se parece a nada (ni scooter ni moto), frente a la Super Soco CPx 125 Pro, el scooter de rueda alta con dos baterías extraíbles y 137 km de autonomía WMTC.
 
@@ -482,7 +482,7 @@ La respuesta corta: **la CE 02 es para quien quiere diseño y diversión urbana;
 
 <iframe src=https://www.youtube.com/embed/WQ9DX15YNSA title="Vídeo: SUPER SOCO CPX: prueba, test y review" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=WQ9DX15YNSA>Caballero Motorista</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=WQ9DX15YNSA>Caballero Motorista</a> en YouTube<img src=/media/bmw-ce-02-2025-ficha-tecnica-precio-hunt2.webp alt=BMW CE 02 vs Super Soco CPx 2026 — fotografía del modelo><img src=/media/bmw-ce-02-2025-ficha-tecnica-precio-hunt3.webp alt=BMW CE 02 vs Super Soco CPx 2026 — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -618,7 +618,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "F 450 R vs Z500",
       "naked A2 comparativa precio",
     ],
-    content: `<img src=/media/bmw-f-450-r-vs-honda-cb500-hornet-vs-kawasaki-z500-hero.webp alt=Tres motos naked aparcadas en fila en una carretera de montaña al atardecer>
+    content: `<img src=/media/bmw-f-450-gs-2026-ficha-tecnica-precio-1-480w.webp alt=F 450 R vs Hornet vs Z500: ¿cuál? — fotografía del modelo>
 
 La **BMW F 450 R** acaba de aterrizar en el segmento más disputado del carnet A2: las naked de 47-48 CV. Con **6.799 €** de precio de partida, 48 CV y 175 kg, la alemana se coloca justo entre la **Honda CB500 Hornet** (6.850 €) y la **Kawasaki Z500** (6.450 €). Tres motos, tres filosofías y apenas 400 € de diferencia entre la más cara y la más barata. Vamos al grano.
 
@@ -680,7 +680,7 @@ Honda y Kawasaki piden revisión cada 12.000 km o 12 meses —la Kawasaki añade
 
 Las tres nacen para el mismo permiso: el A2 limita a 35 kW, y por eso la BMW declara exactamente 35 kW, la Honda 34,6 kW y la Kawasaki 33,4 kW. Ninguna necesita limitación adicional. Con la potencia topada por norma, la diferencia real la ponen el peso, la electrónica, el precio y el coste de mantenerla.
 
-**Veredicto:** no hay una ganadora única, hay una ganadora por perfil. Si estrenas A2 y quieres la moto más completa y tecnológica, la **BMW F 450 R**, asumiendo revisiones más caras y una base sin extras. Si buscas equilibrio, reventa fácil y gastos contenidos durante años, la **Honda CB500 Hornet**. Si el presupuesto es el factor decisivo y prefieres gastar la diferencia en equipamiento o en el seguro, la **Kawasaki Z500**. 
+**Veredicto:** no hay una ganadora única, hay una ganadora por perfil. Si estrenas A2 y quieres la moto más completa y tecnológica, la **BMW F 450 R**, asumiendo revisiones más caras y una base sin extras. Si buscas equilibrio, reventa fácil y gastos contenidos durante años, la **Honda CB500 Hornet**. Si el presupuesto es el factor decisivo y prefieres gastar la diferencia en equipamiento o en el seguro, la **Kawasaki Z500**. <img src=/media/bmw-f-450-gs-2026-ficha-tecnica-precio-1-828w.webp alt=F 450 R vs Hornet vs Z500: ¿cuál? — fotografía del modelo><img src=/media/bmw-f-450-gs-2026-ficha-tecnica-precio-1.webp alt=F 450 R vs Hornet vs Z500: ¿cuál? — fotografía del modelo>
 
 ## Preguntas frecuentes
 
