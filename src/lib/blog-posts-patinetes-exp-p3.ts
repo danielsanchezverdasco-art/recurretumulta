@@ -1,3 +1,13 @@
+// Fotos 5/11/2026 (2ª oleada, joyor-s5-pro): Joyor, tienda oficial (joyorscooter.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, joyor-t10): Joyor, tienda oficial (joyorscooter.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, kukirin-s1-max): KuKirin, tienda oficial (kukirin-scooter.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, kukirin-m4-max): KuKirin, tienda oficial (kukirin-scooter.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, iscooter-ix8): iScooter, tienda oficial (iscooterglobal.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, iscooter-ix7-pro): iScooter, tienda oficial (iscooterglobal.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, iscooter-ix4): iScooter, tienda oficial (iscooterglobal.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, hiboy-u2-pro): Hiboy, tienda oficial (hiboy.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, hiboy-ve1-pro): Hiboy, tienda oficial (hiboy.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, hiboy-ecom-14): Hiboy, tienda oficial (hiboy.com), galería del producto.
 // Fotos 5/11/2026 (2ª oleada, teverun-fighter-supreme): TEVERUN, página oficial del Fighter Supreme 7260R (teverun.com).
 // Fotos 5/11/2026 (2ª oleada, iscooter-ix5s): iScooter, tienda oficial (iscooterglobal.com), galería del producto.
 // Fotos 5/11/2026 (2ª oleada, iscooter-i8): iScooter, tienda oficial (iscooterglobal.com), galería del producto.
@@ -2438,7 +2448,7 @@ Si valoras la **fiabilidad del motor** y el soporte a largo plazo, sí. Si solo 
       "patinete 14 pulgadas",
       "hiboy ecom 14 autonomía",
     ],
-    content: `<img src=/media/patinetes/hiboy-ecom-14-1.webp alt=Hiboy ECOM 14 con sillín y cesta, vista lateral>
+    content: `<img src=/media/patinetes/hiboy-ecom-14-1.webp alt=Hiboy ECOM 14 con sillín y cesta, vista lateral><img src="/media/hiboy-ecom-14-3.jpg" alt="hiboy-ecom-14 — fotografía del modelo">
 
 **¿Buscas solo los datos?** <a href=/patinetes/hiboy-ecom-14/>Ver ficha técnica del Hiboy ECOM 14</a>: sillín, cesta y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -2462,7 +2472,7 @@ El **Hiboy ECOM 14** no quiere ser un patinete más: trae **sillín y cesta de s
 
 Gama media de Hiboy. Su valor está en el concepto: sillín + cesta incluidos, algo que la competencia cobra aparte.
 
-<img src=/media/patinetes/hiboy-ecom-14-2.webp alt=Detalle del sillín y la cesta del Hiboy ECOM 14>
+<img src=/media/hiboy-ecom-14-hero.jpg alt=Detalle del sillín y la cesta del Hiboy ECOM 14>
 
 ## Autonomía real vs declarada
 
@@ -2488,7 +2498,7 @@ Declara **35 km/h**: en España, **limitado a 25 km/h** para circular legalmente
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/jinWIpJxhaM title=\"Presentación del Hiboy ECOM 14\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
-<img src=/media/patinetes/hiboy-ecom-14-3.webp alt=Hiboy ECOM 14 con cesta haciendo la compra>
+<img src=/media/hiboy-ecom-14-2.jpg alt=Hiboy ECOM 14 con cesta haciendo la compra>
 
 ## Preguntas frecuentes
 
@@ -2532,7 +2542,7 @@ Para quien hace **recados urbanos** y prefiere ir sentado. Si buscas deportivida
       "hiboy ve1",
       "patinete ligero 50 km",
     ],
-    content: `<img src=/media/patinetes/hiboy-ve1-pro-1.webp alt=Hiboy VE1 Pro, vista lateral>
+    content: `<img src=/media/patinetes/hiboy-ve1-pro-1.webp alt=Hiboy VE1 Pro, vista lateral><img src="/media/hiboy-ve1-pro-3.jpg" alt="hiboy-ve1-pro — fotografía del modelo">
 
 **¿Buscas solo los datos?** <a href=/patinetes/hiboy-ve1-pro/>Ver ficha técnica del Hiboy VE1 Pro</a>: peso, batería y motor. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -2556,7 +2566,7 @@ El **Hiboy VE1 Pro** apuesta por la ligereza: **22,2 kg** con **480 Wh** (48V 10
 
 Precio agresivo en ofertas, en la gama media-baja de Hiboy. Bueno para quien busca ligereza sin pagar de más.
 
-<img src=/media/patinetes/hiboy-ve1-pro-2.webp alt=Detalle del Hiboy VE1 Pro>
+<img src=/media/hiboy-ve1-pro-hero.jpg alt=Detalle del Hiboy VE1 Pro>
 
 ## Autonomía real vs declarada
 
@@ -2580,7 +2590,7 @@ Con **37 km/h** de máxima, en España circula **limitado a 25 km/h**. Aceras pr
 | Compacto y discreto | Sin suspensión destacable |
 | Precio agresivo | Puede descatalogarse |
 
-<img src=/media/patinetes/hiboy-ve1-pro-3.webp alt=Hiboy VE1 Pro en la ciudad>
+<img src=/media/hiboy-ve1-pro-2.jpg alt=Hiboy VE1 Pro en la ciudad>
 
 ## Preguntas frecuentes
 
@@ -2621,7 +2631,7 @@ El VE1 Pro es más ligero y moderno; el S2 tiene más mercado de repuestos. Para
       "patinete 624wh",
       "hiboy u2",
     ],
-    content: `<img src=/media/patinetes/hiboy-u2-pro-1.webp alt=Hiboy U2 Pro con sillín, vista lateral>
+    content: `<img src=/media/patinetes/hiboy-u2-pro-1.webp alt=Hiboy U2 Pro con sillín, vista lateral><img src="/media/hiboy-u2-pro-3.jpg" alt="hiboy-u2-pro — fotografía del modelo">
 
 **¿Buscas solo los datos?** <a href=/patinetes/hiboy-u2-pro/>Ver ficha técnica del Hiboy U2 Pro</a>: motor, sillín y batería. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -2645,7 +2655,7 @@ El **Hiboy U2 Pro** es el ECOM 14 con más motor: **sillín y cesta**, **750 W**
 
 Gama media de Hiboy. Interesante para repartidores urbanos por su combinación de sillín, potencia y cesta.
 
-<img src=/media/patinetes/hiboy-u2-pro-2.webp alt=Detalle del sillín del Hiboy U2 Pro>
+<img src=/media/hiboy-u2-pro-hero.jpg alt=Detalle del sillín del Hiboy U2 Pro>
 
 ## Autonomía real vs declarada
 
@@ -2669,7 +2679,7 @@ A **40 km/h** no es VMP legal sin limitar: en España, **25 km/h máximo** y **a
 | 40 km/h | 810 W de pico, justos |
 | Ideal repartidores | Nicho específico |
 
-<img src=/media/patinetes/hiboy-u2-pro-3.webp alt=Hiboy U2 Pro con cesta en ruta>
+<img src=/media/hiboy-u2-pro-2.jpg alt=Hiboy U2 Pro con cesta en ruta>
 
 ## Preguntas frecuentes
 
@@ -2987,7 +2997,7 @@ El iX4 tiene enfoque off-road y más batería (48V); el i10 Plus es más urbano 
       "patinete 45 km/h",
       "iscooter trail",
     ],
-    content: `<img src=/media/patinetes/iscooter-ix4-1.webp alt=iScooter iX4, vista lateral del patinete off-road>
+    content: `<img src=/media/patinetes/iscooter-ix4-1.webp alt=iScooter iX4, vista lateral del patinete off-road><img src="/media/iscooter-ix4-3.jpg" alt="iscooter-ix4 — fotografía del modelo">
 
 **¿Buscas solo los datos?** <a href=/patinetes/iscooter-ix4/>Ver ficha técnica del iScooter iX4</a>: motor, batería y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -3010,7 +3020,7 @@ El **iScooter iX4** es el aventurero de acceso de la marca: **800 W**, **720 Wh*
 
 Unas **449 libras** en Reino Unido. Por ese dinero, pocos off-road ofrecen 48V y 15Ah.
 
-<img src=/media/patinetes/iscooter-ix4-2.webp alt=Detalle del iScooter iX4>
+<img src=/media/iscooter-ix4-hero.jpg alt=Detalle del iScooter iX4>
 
 ## Autonomía real vs declarada
 
@@ -3034,7 +3044,7 @@ Con **45 km/h**, en España debe ir **limitado a 25 km/h** en vía pública. Y r
 | Neumáticos mixtos | Suspensión básica |
 | Chasis reforzado | Poca info oficial |
 
-<img src=/media/patinetes/iscooter-ix4-3.webp alt=iScooter iX4 en camino de tierra>
+<img src=/media/iscooter-ix4-2.jpg alt=iScooter iX4 en camino de tierra>
 
 ## Preguntas frecuentes
 
@@ -3260,7 +3270,7 @@ La tienda europea oficial ofrece **12 meses** de garantía y 30 días de devoluc
       "patinete 60 km/h",
       "iscooter ix7",
     ],
-    content: `<img src=/media/patinetes/iscooter-ix7-pro-1.webp alt=iScooter iX7 Pro, vista lateral del doble motor>
+    content: `<img src=/media/patinetes/iscooter-ix7-pro-1.webp alt=iScooter iX7 Pro, vista lateral del doble motor><img src="/media/iscooter-ix7-pro-3.jpg" alt="iscooter-ix7-pro — fotografía del modelo">
 
 **¿Buscas solo los datos?** <a href=/patinetes/iscooter-ix7-pro/>Ver ficha técnica del iScooter iX7 Pro</a>: doble motor y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -3284,7 +3294,7 @@ El **iScooter iX7 Pro** democratiza el doble motor: **2×1.000 W**, **80 km decl
 
 Unas **709 libras** en Reino Unido. En España, vía distribuidores: sigue siendo el doble motor más barato del mercado europeo.
 
-<img src=/media/patinetes/iscooter-ix7-pro-2.webp alt=Detalle del doble motor del iScooter iX7 Pro>
+<img src=/media/iscooter-ix7-pro-hero.jpg alt=Detalle del doble motor del iScooter iX7 Pro>
 
 ## Autonomía real vs declarada
 
@@ -3310,7 +3320,7 @@ Con **60 km/h**, ni se plantea en vía pública española sin limitar: **25 km/h
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/oJUqK9DHOhg title=\"Prueba del iScooter iX7 Pro\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
-<img src=/media/patinetes/iscooter-ix7-pro-3.webp alt=iScooter iX7 Pro en acción>
+<img src=/media/iscooter-ix7-pro-2.jpg alt=iScooter iX7 Pro en acción>
 
 ## Preguntas frecuentes
 
@@ -3354,7 +3364,7 @@ Si quieres **tracción total gastando poco**, sí. Si buscas acabados, mira más
       "iscooter ix8 video",
       "iscooter tope de gama",
     ],
-    content: `<img src=/media/patinetes/iscooter-ix8-1.webp alt=iScooter iX8, vista lateral con sus ruedas de 12 pulgadas>
+    content: `<img src=/media/patinetes/iscooter-ix8-1.webp alt=iScooter iX8, vista lateral con sus ruedas de 12 pulgadas><img src="/media/iscooter-ix8-3.jpg" alt="iscooter-ix8 — fotografía del modelo">
 
 **¿Buscas solo los datos?** <a href=/patinetes/iscooter-ix8/>Ver ficha técnica del iScooter iX8</a>: 2.400 W, 12" y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -3378,7 +3388,7 @@ El **iScooter iX8** es el tope de gama de la marca: **doble motor de 1.200 W** (
 
 **769,99 €** en la tienda oficial europea (<a href=https://www.iscooterglobal.eu/products/iscooter-ix8-2400w-off-road-electric-scooter>iscooterglobal.eu</a>). A ese precio ya compite con marcas más prestigiosas: la baza del iX8 son las ruedas de 12" y el equipamiento.
 
-<img src=/media/patinetes/iscooter-ix8-2.webp alt=Detalle de los frenos hidráulicos del iScooter iX8>
+<img src=/media/iscooter-ix8-hero.jpg alt=Detalle de los frenos hidráulicos del iScooter iX8>
 
 ## Autonomía real vs declarada
 
@@ -3404,7 +3414,7 @@ Con **60 km/h**, en España debe ir **limitado a 25 km/h** en vía pública. Pro
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/heS1cCROABo title=\"Prueba del iScooter iX8\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
-<img src=/media/patinetes/iscooter-ix8-3.webp alt=iScooter iX8 con sus ruedas de 12 pulgadas en el campo>
+<img src=/media/iscooter-ix8-2.jpg alt=iScooter iX8 con sus ruedas de 12 pulgadas en el campo>
 
 ## Preguntas frecuentes
 
@@ -3641,7 +3651,7 @@ El G4 es más potente y rápido; el G2 Max tiene más autonomía y es más barat
       "patinete 64 km",
       "kukirin barato",
     ],
-    content: `<img src=/media/patinetes/kukirin-m4-max-1.webp alt=KuKirin M4 Max, vista lateral>
+    content: `<img src=/media/patinetes/kukirin-m4-max-1.webp alt=KuKirin M4 Max, vista lateral><img src="/media/kukirin-m4-max-3.jpg" alt="kukirin-m4-max — fotografía del modelo">
 
 **¿Buscas solo los datos?** <a href=/patinetes/kukirin-m4-max/>Ver ficha técnica del KuKirin M4 Max</a>: motor, batería y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -3665,7 +3675,7 @@ El **KuKirin M4 Max** es el rey de la relación calidad-precio: **800 W** (1.000
 
 Unos **524 €** (entre 499 y 549 € según la tienda europea). Da el 80 % del G2 Max por bastante menos dinero.
 
-<img src=/media/patinetes/kukirin-m4-max-2.webp alt=Detalle del KuKirin M4 Max>
+<img src=/media/kukirin-m4-max-hero.jpg alt=Detalle del KuKirin M4 Max>
 
 ## Autonomía real vs declarada
 
@@ -3689,7 +3699,7 @@ Con **45 km/h**, en España debe ir **limitado a 25 km/h**. Prohibido en **acera
 | 45 km/h | Display pequeño |
 | Ideal para iniciarse | El M4 Pro da más por poco más |
 
-<img src=/media/patinetes/kukirin-m4-max-3.webp alt=KuKirin M4 Max en ciudad>
+<img src=/media/kukirin-m4-max-2.jpg alt=KuKirin M4 Max en ciudad>
 
 ## Preguntas frecuentes
 
@@ -3851,7 +3861,7 @@ El M4 Max tiene más batería (874 Wh) y cuesta poco más. Si haces más de 15 k
       "patinete ruedas macizas 8",
       "kukirin barato ciudad",
     ],
-    content: `<img src=/media/patinetes/kukirin-s1-max-1.webp alt=KuKirin S1 Max, vista lateral del patinete urbano>
+    content: `<img src=/media/patinetes/kukirin-s1-max-1.webp alt=KuKirin S1 Max, vista lateral del patinete urbano><img src="/media/kukirin-s1-max-3.jpg" alt="kukirin-s1-max — fotografía del modelo">
 
 **¿Buscas solo los datos?** <a href=/patinetes/kukirin-s1-max/>Ver ficha técnica del KuKirin S1 Max</a>: 25 km/h, peso y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -3875,7 +3885,7 @@ El **KuKirin S1 Max** es el KuKirin urbano y legal: **25 km/h**, **350 W** (500 
 
 Unos **294 €** (entre 259 y 329 € según tienda). El KuKirin más barato y ligero: imbatible para ciudad.
 
-<img src=/media/patinetes/kukirin-s1-max-2.webp alt=Detalle del KuKirin S1 Max plegado>
+<img src=/media/kukirin-s1-max-hero.jpg alt=Detalle del KuKirin S1 Max plegado>
 
 ## Autonomía real vs declarada
 
@@ -3899,7 +3909,7 @@ A **25 km/h** es un VMP de manual: legal en España sin limitar, **prohibido en 
 | 39 km declarados | 350 W: cuestas justas |
 | Ideal estudiantes | Freno de pie poco progresivo |
 
-<img src=/media/patinetes/kukirin-s1-max-3.webp alt=KuKirin S1 Max en el transporte público>
+<img src=/media/kukirin-s1-max-2.jpg alt=KuKirin S1 Max en el transporte público>
 
 ## Preguntas frecuentes
 
@@ -4408,7 +4418,7 @@ El **Joyor S5 Pro** es el rutero con sello alemán: **homologación ABE**, **500
 
 **529 €** en la red de distribuidores españoles de Joyor. Más barato que el Y10 a cambio de no llevar certificado DGT.
 
-<img src=/media/patinetes/joyor-s5-pro-2.webp alt=Detalle del Joyor S5 Pro>
+<img src=/media/joyor-s5-pro-hero.jpg alt=Detalle del Joyor S5 Pro>
 
 ## Autonomía real vs declarada
 
@@ -4432,7 +4442,7 @@ El S5 Pro lleva **homologación ABE** (alemana), pensada para los 20 km/h legale
 | 90 km declarados | Carga larga (8-9 h) |
 | Precio muy competitivo | El Y10 es mejor opción en España |
 
-<img src=/media/patinetes/joyor-s5-pro-3.webp alt=Joyor S5 Pro en ciudad>
+<img src=/media/joyor-s5-pro-2.jpg alt=Joyor S5 Pro en ciudad>
 
 ## Preguntas frecuentes
 
@@ -4473,7 +4483,7 @@ Es el **límite legal alemán** (ABE): Joyor lo diseñó para ese mercado.
       "joyor t10 669",
       "patinete 60v",
     ],
-    content: `<img src=/media/patinetes/joyor-t10-1.webp alt=Joyor T10, vista lateral del doble motor>
+    content: `<img src=/media/patinetes/joyor-t10-1.webp alt=Joyor T10, vista lateral del doble motor><img src="/media/joyor-t10-3.jpg" alt="joyor-t10 — fotografía del modelo">
 
 **¿Buscas solo los datos?** <a href=/patinetes/joyor-t10/>Ver ficha técnica del Joyor T10</a>: doble motor y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -4497,7 +4507,7 @@ El **Joyor T10** es la puerta de entrada a la tracción total: **dos motores de 
 
 **669 €** en la red de distribuidores españoles de Joyor. Es el doble motor más barato que se vende con red española.
 
-<img src=/media/patinetes/joyor-t10-2.webp alt=Detalle del Joyor T10>
+<img src=/media/joyor-t10-hero.jpg alt=Detalle del Joyor T10>
 
 ## Autonomía real vs declarada
 
@@ -4523,7 +4533,7 @@ Con **60 km/h**, en España debe ir **limitado a 25 km/h** en vía pública. Tod
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/3kMYdgS49pY title=\"Prueba del Joyor T10\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
-<img src=/media/patinetes/joyor-t10-3.webp alt=Joyor T10 en acción>
+<img src=/media/joyor-t10-2.jpg alt=Joyor T10 en acción>
 
 ## Preguntas frecuentes
 
