@@ -370,7 +370,7 @@ La marca no se conforma con añadir unas siglas al portón: este Polo GTI debuta
 
 En Alemania la reserva anticipada se abrió en 39.995 €, y la compañía comunicó que la preventa otoñal se situaría «ligeramente inferior a 39.000 €». El cálculo para España, en torno a ≈39.000 €, descansa en ese comunicado oficial y no en un cambio de moneda, y aparece señalado como NO oficial en cada lugar donde figura. Cuando Volkswagen difunda la tarifa española, lo actualizaremos. <a href=/comparador-coches/>Compáralos con sus rivales en el comparador</a>.
 
-<img src=/media/volkswagen-id-polo-gti-electrico-2026-precio-galeria-2.webp alt=Interior deportivo de un hot hatch eléctrico con costuras rojas, imagen editorial>
+<img src=/media/volkswagen-id-polo-gti-electrico-2026-precio-galeria-2.webp alt=Interior deportivo de un hot hatch eléctrico con costuras rojas, imagen editorial><img src=/media/volkswagen-id-polo-2026-precio-ficha-tecnica-hero.webp alt=VW ID. Polo GTI eléctrico: 226 CV y ≈39.000 € — fotografía del modelo><img src=/media/volkswagen-id-polo-2026-precio-ficha-tecnica-hunt1.webp alt=VW ID. Polo GTI eléctrico: 226 CV y ≈39.000 € — fotografía del modelo>
 
 ## Dudas habituales
 

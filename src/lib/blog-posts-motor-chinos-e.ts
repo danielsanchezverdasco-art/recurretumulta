@@ -434,7 +434,7 @@ Urbano, ligero y barato: el Spring es perfecto para la <a href=https://recurretu
 
 Seres nació en 2016 a partir de **DFSK** (conocida en Europa por sus comerciales) y es hoy el tercer fabricante de eléctricos en China, por detrás de BYD y Tesla. Pertenece al mismo grupo que **Aito**, la marca que desarrolla coches junto a **Huawei**. El Seres 5 es su buque insignia en Europa: un SUV de 4,71 metros con aspiraciones premium y un equipamiento de serie que avergüenza a rivales más caros.
 
-Se vende en dos versiones: tracción trasera de 299 CV y tracción total de 585 CV, ambas con batería LFP de 80 kWh.
+Se vende en dos versiones: tracción trasera de 299 CV y tracción total de 585 CV, ambas con batería LFP de 80 kWh.<img src=/media/seres-5-electrico-precio-ficha-tecnica-interior-oficial-2.webp alt=Seres 5: 585 CV y 500 km de autonomía desde 54.450 € — interior>
 
 ## Precio y versiones en España
 

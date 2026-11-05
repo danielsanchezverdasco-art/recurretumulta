@@ -34,7 +34,7 @@ El **Renault 8 Gordini** vuelve. 62 años después del mito de 1964, Renault lo 
 - **Llantas:** 19 pulgadas delante y 20 detrás, como un rally actual
 - **Color:** Bleu de France reinterpretado en una construcción tricapa con nácar
 - **Doble franja blanca:** ya no es decoración, es un elemento estructural que entra hasta el salpicadero
-- **Fuente:** <a href=https://prensa.renault.es/?p=64172>Nota de prensa oficial de Renault España</a>
+- **Fuente:** <a href=https://prensa.renault.es/?p=64172>Nota de prensa oficial de Renault España</a><img src=/media/renault-8-gordini-concept-paris-2026-2.webp alt=R8 Gordini eléctrico: 270 CV de nostalgia en París — fotografía del modelo>
 
 ## El original: por qué el R8 Gordini es un mito
 
@@ -186,7 +186,7 @@ París acoge el estreno ante el público de dos todocaminos familiares de Fiat: 
 - **Eléctrico:** 44 o 54 kWh de batería y autonomía máxima cercana a 400 km, según la prensa y sin confirmación oficial todavía
 - **Precio:** arranque aproximado en 20.000 € según la prensa especializada, cifra que Fiat no ha confirmado
 - **Venta en Europa:** tres últimos meses de 2026
-- **Fuentes:** <a href=https://elperiodicodelaenergia.com/el-salon-del-automovil-de-paris-concentrara-mas-de-60-estrenos-entre-las-marcas-europeas-y-asiaticas/>elperiodicodelaenergia.com</a> y <a href=https://automedia.mx/salon-de-paris-2026-novedades-y-coches-nuevos/>automedia.mx</a>
+- **Fuentes:** <a href=https://elperiodicodelaenergia.com/el-salon-del-automovil-de-paris-concentrara-mas-de-60-estrenos-entre-las-marcas-europeas-y-asiaticas/>elperiodicodelaenergia.com</a> y <a href=https://automedia.mx/salon-de-paris-2026-novedades-y-coches-nuevos/>automedia.mx</a><img src=/media/fiat-grizzly-fastback-paris-2026-2.webp alt=Fiat Grizzly: el SUV familiar que vuelve a lo esencial — fotografía del modelo>
 
 ## Grizzly frente a Grizzly Fastback
 

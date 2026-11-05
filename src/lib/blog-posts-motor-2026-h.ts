@@ -132,7 +132,7 @@ El "pero" honesto: con la campaña de lanzamiento, el precio real de acceso pued
 
 Vídeo: <a href=https://www.youtube.com/watch?v=5uB2nHqFUqg>PruebaTuCoche</a> en YouTube
 
-El HS Hybrid+ se suma a la ofensiva de los híbridos chinos en España que contamos en <a href=/blog/omoda-jaecoo-record-ventas-septiembre-2026/>el récord de ventas de Omoda y Jaecoo</a>; con su etiqueta ECO, además, circula sin restricciones por las <a href=/blog/zbe-espana-2026-ciudades-multan-cuanto-multa/>Zonas de Bajas Emisiones</a>. Y si dudas entre híbrido y eléctrico, mira <a href=/blog/anfac-septiembre-2026-record-electrificacion-model-3-lider/>el récord de electrificación de septiembre de 2026</a>.
+El HS Hybrid+ se suma a la ofensiva de los híbridos chinos en España que contamos en <a href=/blog/omoda-jaecoo-record-ventas-septiembre-2026/>el récord de ventas de Omoda y Jaecoo</a>; con su etiqueta ECO, además, circula sin restricciones por las <a href=/blog/zbe-espana-2026-ciudades-multan-cuanto-multa/>Zonas de Bajas Emisiones</a>. Y si dudas entre híbrido y eléctrico, mira <a href=/blog/anfac-septiembre-2026-record-electrificacion-model-3-lider/>el récord de electrificación de septiembre de 2026</a>.<img src=/media/mg-hs-hybrid-plus-2025-precio-ficha-tecnica-hero.webp alt=MG HS Hybrid+: 225 CV con etiqueta ECO desde 29.990 € — fotografía del modelo><img src=/media/mg-hs-hybrid-plus-2025-precio-ficha-tecnica-hunt1.webp alt=MG HS Hybrid+: 225 CV con etiqueta ECO desde 29.990 € — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -209,7 +209,7 @@ Su rival natural sigue siendo el <a href=/coches/renault-5-e-tech-2026-precio-au
 
 <iframe src=https://www.youtube.com/embed/D3R0WgU5p7g title="Vídeo: Prueba del BYD Dolphin Surf en vídeo" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=D3R0WgU5p7g>Actualidad Motor</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=D3R0WgU5p7g>Actualidad Motor</a> en YouTube<img src=/media/byd-dolphin-surf-2027-hero.webp alt=BYD Dolphin Surf 2026: ahora con 5 plazas por 350 € más — fotografía del modelo><img src=/media/byd-dolphin-surf-2027-lateral.webp alt=BYD Dolphin Surf 2026: ahora con 5 plazas por 350 € más — vista lateral>
 
 ## Preguntas frecuentes
 

@@ -834,7 +834,7 @@ La campaña lo deja más de 7.000 € por debajo de tarifa: a ese precio no hay 
 
 <img src=/media/ebro-s400-hibrido-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del ebro s400 hibrido>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.<img src=/media/ebro-s400-hibrido-precio-ficha-tecnica-galeria-4.webp alt=Ebro S400 HEV: 211 CV — fotografía del modelo>
 
 ## Curiosidades que quizá no sabías
 
@@ -1795,7 +1795,7 @@ Jetour ya vende en España el **T2**, y la estrategia es clara: primero los mode
 
 <img src=/media/jetour-g700-903-cv-precio-ficha-tecnica-interior-oficial.webp alt=Interior oficial del jetour g700 903 cv>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.<img src=/media/jetour-g700-903-cv-precio-ficha-tecnica-hunt1.webp alt=Jetour G700: el SUV chino de 903 CV que vadea 970 mm — fotografía del modelo>
 
 ## Ficha técnica del Jetour G700
 
@@ -1817,7 +1817,7 @@ Jetour ya vende en España el **T2**, y la estrategia es clara: primero los mode
 | **Vadeo** | 970 mm |
 | **Plazas** | 5 o 6 |
 | **Tracción** | Total con reductora |
-| **Etiqueta DGT** | Cero |
+| **Etiqueta DGT** | Cero |<img src=/media/jetour-g700-903-cv-precio-ficha-tecnica-hunt2.webp alt=Jetour G700: el SUV chino de 903 CV que vadea 970 mm — fotografía del modelo>
 
 ## Curiosidades que quizá no sabías
 

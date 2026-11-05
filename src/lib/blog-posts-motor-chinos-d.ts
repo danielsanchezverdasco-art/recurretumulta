@@ -418,7 +418,7 @@ La gama completa se mueve entre **53.150 y 63.660 €** según km77, con el desc
 
 <img src=/media/smart-5-electrico-ficha-tecnica-precio-oficial.webp alt=Smart #5 eléctrico, SUV compacto, vista lateral>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.<img src=/media/smart-5-electrico-ficha-tecnica-precio-interior-oficial-2.webp alt=Smart #5: 590 km — interior>
 
 ## Curiosidades que quizá no sabías
 

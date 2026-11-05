@@ -135,7 +135,7 @@ Sí: iCAUR es la denominación europea de la marca; en China se comercializa com
     "BMW F 450 R vs Honda CB500 Hornet",
     "BMW F 450 R autonomía",
   ],
-  content: `<img src=/media/bmw-f-450-r-naked-a2-precio-espana-2026-hero.webp alt=Moto naked blanca con detalles azules y rojos trazando una curva en circuito al atardecer>
+  content: `<img src=/media/bmw-f-450-gs-2026-ficha-tecnica-precio-1-480w.webp alt=BMW F 450 R: naked A2 por 6.799 € — fotografía del modelo>
 
 **BMW Motorrad** ha presentado la **F 450 R**, su nueva naked para el carnet A2: un bicilíndrico en paralelo de **420 cc** con **48 CV** al límite legal, **175 kg** en orden de marcha y una electrónica impropia de su segmento (ABS Pro en curva, control de tracción y 3 modos de serie). Llega en cuatro versiones **desde 6.799 €** y es la segunda moto de la familia F 450 tras la trail F 450 GS. Su objetivo declarado: la **Honda CB500 Hornet** y la **Kawasaki Z500**.
 
@@ -216,7 +216,7 @@ Con los datos de las fichas del sitio:
 
 La Hornet cuesta casi lo mismo, pesa 13 kg más y, según su ficha, sin quickshifter ni control de tracción. La Z500 es más barata y ligera, pero con menos potencia. La BMW gana en electrónica.
 
-**Veredicto:** merece la pena si estrenas el A2 y quieres la naked más completa en seguridad y tecnología dentro del límite legal. No es para ti si manda el precio mínimo —ahí gana la Z500—, si haces mucha autopista o si planeas saltar pronto a más potencia: ya nace en su techo.
+**Veredicto:** merece la pena si estrenas el A2 y quieres la naked más completa en seguridad y tecnología dentro del límite legal. No es para ti si manda el precio mínimo —ahí gana la Z500—, si haces mucha autopista o si planeas saltar pronto a más potencia: ya nace en su techo.<img src=/media/bmw-f-450-gs-2026-ficha-tecnica-precio-1-828w.webp alt=BMW F 450 R: naked A2 por 6.799 € — fotografía del modelo><img src=/media/bmw-f-450-gs-2026-ficha-tecnica-precio-1.webp alt=BMW F 450 R: naked A2 por 6.799 € — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -251,7 +251,7 @@ Sí: con 48 CV cumple el límite del **carnet A2** europeo sin necesidad de limi
     "Monster 2026 vs Street Triple",
     "nueva Ducati Monster 2026",
   ],
-  content: `<img src=/media/ducati-monster-2026-quinta-generacion-precio-espana-hero.webp alt=Moto naked roja italiana en estudio oscuro con iluminación dramática>
+  content: `<img src=/media/ducati-monster-2026-ficha-tecnica-precio-1-480w.webp alt=Monster 2026: 111 CV, 12.990 € — fotografía del modelo>
 
 La **Monster** cumple más de 30 años y **Ducati** la renueva por quinta vez: la **Monster 2026** estrena el motor **V2 de 890 cc** con **111 CV** y 91,1 Nm, pierde **4 kg** (175 kg sin gasolina) y mantiene la fórmula del icono —depósito musculoso, faro redondo y minimalismo—. El precio base ronda los **12.990 €** en el mercado europeo. Jubila al Testastretta 937 de la generación anterior.
 
@@ -284,7 +284,7 @@ El debate inevitable es el precio: ~12.990 € son unos 6.000 € más que una Y
 
 Ficha completa: <a href=/motos/ducati-monster-2026-ficha-tecnica-precio/>Ducati Monster 2026: ficha técnica y precio</a> · <a href=/comparador-motos/>Comparador de motos</a>
 
-<img src=/media/ducati-monster-2026-quinta-generacion-precio-espana-galeria-2.webp alt=Detalle del faro LED redondo de una moto naked roja>
+<img src=/media/ducati-monster-2026-quinta-generacion-precio-espana-galeria-2.webp alt=Detalle del faro LED redondo de una moto naked roja><img src=/media/ducati-monster-2026-ficha-tecnica-precio-1-828w.webp alt=Monster 2026: 111 CV, 12.990 € — fotografía del modelo><img src=/media/ducati-monster-2026-ficha-tecnica-precio-1.webp alt=Monster 2026: 111 CV, 12.990 € — fotografía del modelo>
 
 ## Preguntas frecuentes
 
