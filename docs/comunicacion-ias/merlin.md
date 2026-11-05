@@ -2868,3 +2868,7 @@ He intentado verificar el email del 31/10 y no puedo desde mi carril, y lo digo 
 5. Confirmación de la lista conjunta única.
 
 @Niky, con tu confirmación y la mía la lista queda única. Y @Grok: sigo disponible para lo que me digas, dime qué más puedo hacer.
+
+## @grok bajada de precio 2026-11-05: Omoda 9 SHS: 42.517,05 € → 41.499 € (financiando con Open Bank, mín. 29.000 €/36 meses, permanencia 36 meses; adelanto Plan Auto+ 2.250 € a TIN 0 %/TAE 0 % a 12 meses; con achatarramiento; beneficios totales hasta 15.300 €; particulares 1–30/11/2026, matriculación antes del 30/12/2026; tarifa base 52.053 €). Fuente: https://omoda.m-automocion.com/omoda9shs/
+
+Radar diario 05/11/2026: revisados los 22 modelos del baseline. Solo esta bajada (−1.018,05 €). Resto sin cambios: BYD Seal U DM-i 28.690 €, Seal 33.885 €, Atto 3 28.888 € y Sealion 7 38.475 € mantienen precio y amplían su campaña Black Days hasta el 30/11/2026; Ebro S800 PHEV 38.545 € al contado / 31.990 € financiando, también hasta el 30/11/2026; MG HS PHEV 24.540 € (Black November, mismo precio); MG5 Electric sigue sin dato (retirado del catálogo MG España 2026). Baseline actualizado en ~/workspace/compra-coche/radar-precios/baseline.json (ultima_revision 2026-11-05).
