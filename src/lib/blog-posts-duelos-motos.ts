@@ -23,7 +23,7 @@ export const DUELOS_MOTOS_POSTS: BlogPost[] = [
       "Silence S01 autonomía",
       "NIU MQi GT Evo opiniones",
     ],
-    content: `<img src=/media/silence-s01-vs-niu-mqi-gt-evo-cual-comprar-hero.webp alt=Comparativa entre la Silence S01 y la NIU MQi GT Evo, los dos scooters eléctricos equivalentes a 125 más vendidos>
+    content: `<img src=/media/motos/silence-s01-plus-2025-ficha-tecnica-precio-1.webp alt=Silence S01 o NIU MQi GT Evo: duelo eléctrico 125 — fotografía del modelo>
 
 El duelo español contra el chino: la Silence S01, fabricada en Barcelona y el scooter eléctrico más vendido en España a particulares, frente a la NIU MQi GT Evo, la apuesta del gigante chino que diseñó su scooter pensando en Europa. Las dos son equivalentes a 125 (carnet A1, o B con más de 3 años), las dos llevan baterías extraíbles y las dos prometen moverse por la ciudad sin gastar un euro en gasolina.
 
@@ -84,7 +84,7 @@ La respuesta corta: **la S01 es para quien prioriza la autonomía y la red de se
 
 <iframe src=https://www.youtube.com/embed/67XmxCcgusk title="Vídeo: Prueba NIU MQi GT Evo, el eléctrico más honesto del mercado" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=67XmxCcgusk>Canariasenmoto</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=67XmxCcgusk>Canariasenmoto</a> en YouTube<img src=/media/motos/silence-s01-plus-2025-ficha-tecnica-precio-2.webp alt=Silence S01 o NIU MQi GT Evo: duelo eléctrico 125 — fotografía del modelo><img src=/media/motos/silence-s01-plus-2026-ficha-tecnica-precio-oficial.webp alt=Silence S01 o NIU MQi GT Evo: duelo eléctrico 125 — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -224,7 +224,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "scooter eléctrico ciudad",
       "Vespa Elettrica 45",
     ],
-    content: `<img src=/media/vespa-elettrica-vs-piaggio-1-cual-comprar-hero.webp alt=Comparativa entre la Vespa Elettrica y el Piaggio 1, los dos scooters eléctricos italianos para la ciudad>
+    content: `<img src=/media/motos/vespa-elettrica-70-2025-ficha-tecnica-precio-oficial-2.webp alt=Vespa Elettrica o Piaggio 1: ¿cuál te conviene más? — fotografía del modelo>
 
 Duelo italiano en la ciudad: la Vespa Elettrica, el icono con chasis de chapa de acero y 200 Nm de par, frente al Piaggio 1 Active, el eléctrico práctico de la misma casa con batería extraíble y precio mucho más terrenal. Las dos son urbanas puras, pero apuntan a bolsillos (y carnets) distintos.
 
@@ -283,7 +283,7 @@ La respuesta corta: **la Elettrica es para quien compra una Vespa ante todo; el 
 
 <iframe src=https://www.youtube.com/embed/uErx0CgDr54 title="Vídeo: Vespa Elettrica: prueba del scooter eléctrico italiano" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=uErx0CgDr54>Mujeres Moteras</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=uErx0CgDr54>Mujeres Moteras</a> en YouTube<img src=/media/motos/vespa-elettrica-70-2025-ficha-tecnica-precio-oficial-3.webp alt=Vespa Elettrica o Piaggio 1: ¿cuál te conviene más? — fotografía del modelo><img src=/media/motos/vespa-elettrica-70-2025-ficha-tecnica-precio-oficial.webp alt=Vespa Elettrica o Piaggio 1: ¿cuál te conviene más? — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -522,7 +522,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "Can-Am Pulse opiniones",
       "moto eléctrica A2",
     ],
-    content: `<img src=/media/zero-s-vs-can-am-pulse-cual-comprar-hero.webp alt=Comparativa entre la Zero S y la Can-Am Pulse, las dos naked eléctricas más serias del mercado>
+    content: `<img src=/media/fotos-reales/zero-s-2025-ficha-tecnica-precio alt=Zero S vs Can-Am Pulse 2026 — fotografía del modelo>
 
 El duelo de las naked eléctricas serias: la Zero S ZF15.6 (2026), con 262 km declarados y la posibilidad de llevarla con el carnet de coche convalidado, frente a la Can-Am Pulse, la vuelta de la marca canadiense a las motos tras 38 años, con carga del 20 al 80 % en 50 minutos y pantalla táctil de 10,25".
 
@@ -582,7 +582,7 @@ La respuesta corta: **la Zero S es para quien quiere la máxima autonomía eléc
 
 <iframe src=https://www.youtube.com/embed/M-1TgydlZAY title="Vídeo: Zero S, probamos la moto eléctrica de Zero" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=M-1TgydlZAY>ComputerHoy</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=M-1TgydlZAY>ComputerHoy</a> en YouTube<img src=/media/fotos-reales/zero-s-2025-ficha-tecnica-precio/zero-s-2025-ficha-tecnica-precio-real-1.webp alt=Zero S vs Can-Am Pulse 2026 — fotografía del modelo><img src=/media/fotos-reales/zero-s-2025-ficha-tecnica-precio/zero-s-2025-ficha-tecnica-precio-real-2.webp alt=Zero S vs Can-Am Pulse 2026 — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -715,7 +715,7 @@ La **BMW F 450 R** (175 kg en orden de marcha), 13 kg menos que la Honda CB500 H
       "moto eléctrica 6000 euros",
       "scooter eléctrico baterías extraíbles",
     ],
-    content: `<img src=/media/flying-flea-c6-vs-honda-cuv-e-vs-niu-nqi-sport-cual-comprar-hero.webp alt=Tres motos eléctricas urbanas aparcadas en una calle de Barcelona al atardecer, escena de comparativa>
+    content: `<img src=/media/fotos-reales/flying-flea-c6-moto-electrica-royal-enfield-5990-euros alt=C6 vs CUV e: vs NQi Sport: la eléctrica urbana ideal — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/motos/royal-enfield-flying-flea-c6-2026-ficha-tecnica-precio/>Ver ficha de la Flying Flea C6</a> · <a href=/motos/honda-cuv-e-2025-ficha-tecnica-precio/>Ver ficha de la Honda CUV e:</a> · <a href=/motos/niu-nqi-sport-scooter-electrico-1999-euros-gama-2026/>Ver ficha de la NIU NQi Sport</a> · <a href=/comparador-motos/>Compararlas cara a cara</a>.
 
@@ -758,7 +758,7 @@ El carnet manda más que el precio:
 
 El matiz: si tienes el A2 y dudas entre la C6 y la CUV e:, pregúntate dónde aparcas. Sin garaje con enchufe, las baterías extraíbles de la Honda valen oro; con garaje, la C6 es mucho más moto. <a href=/comparador-motos/>Pásate por el comparador de motos</a> y míralas cara a cara.
 
-Y un recordatorio de la casa: también en eléctrico, los límites de velocidad aplican. Si te llega una multa, <a href=/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
+Y un recordatorio de la casa: también en eléctrico, los límites de velocidad aplican. Si te llega una multa, <a href=/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.<img src=/media/fotos-reales/flying-flea-c6-moto-electrica-royal-enfield-5990-euros/flying-flea-c6-moto-electrica-royal-enfield-5990-euros-1.webp alt=C6 vs CUV e: vs NQi Sport: la eléctrica urbana ideal — fotografía del modelo><img src=/media/fotos-reales/flying-flea-c6-moto-electrica-royal-enfield-5990-euros/flying-flea-c6-moto-electrica-royal-enfield-5990-euros-2.webp alt=C6 vs CUV e: vs NQi Sport: la eléctrica urbana ideal — fotografía del modelo>
 
 ## Preguntas frecuentes
 

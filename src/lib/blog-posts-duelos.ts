@@ -342,7 +342,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "Model Y o XPeng G6",
       "carga ultrarrápida eléctrico",
     ],
-    content: `<img src=/media/xpeng-g6-vs-tesla-model-y-cual-comprar-hero.webp alt=Comparativa entre el XPeng G6 2026 y el Tesla Model Y, los dos SUV eléctricos de referencia>
+    content: `<img src=/media/fotos-reales/xpeng-g6-2025-precio-espana alt=XPeng G6 2026 vs Tesla Model Y — fotografía del modelo>
 
 Es el duelo que todo el mundo quiere ver: el **XPeng G6 2026** restyling, desde **43.083 €**, con la carga más rápida de su segmento (10-80 % en 12 minutos), contra el **Tesla Model Y**, el SUV eléctrico más vendido del mundo. Nota honesta: el Model Y no está en nuestra base de datos de fichas, así que para él usamos únicamente los datos publicados en nuestro propio análisis del G6 (versión Standard RWD) y afirmaciones generales bien conocidas. Sin inventar nada.
 
@@ -408,7 +408,7 @@ Tienes el duelo técnico en nuestro <a href=/comparador-coches/?a=xpeng-g6-2026-
 
 <iframe src=https://www.youtube.com/embed/ddQMfQgWVH4 title="Vídeo: Prueba XPeng G6: ¿el mejor SUV eléctrico calidad-precio?" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=ddQMfQgWVH4>ElecTrips</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=ddQMfQgWVH4>ElecTrips</a> en YouTube<img src=/media/fotos-reales/xpeng-g6-2025-precio-espana/xpeng-g6-2025-precio-espana-1.webp alt=XPeng G6 2026 vs Tesla Model Y — fotografía del modelo><img src=/media/fotos-reales/xpeng-g6-2025-precio-espana/xpeng-g6-2025-precio-espana-2.webp alt=XPeng G6 2026 vs Tesla Model Y — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -448,7 +448,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "BYD Atto 2 autonomía",
       "comparativa SUV eléctricos baratos",
     ],
-    content: `<img src=/media/leapmotor-b10-vs-byd-atto-2-cual-comprar-hero.webp alt=Comparativa entre el Leapmotor B10 y el BYD Atto 2, dos SUV eléctricos chinos>
+    content: `<img src=/media/leapmotor-b10-electrico-precio-espana-hero.webp alt=Leapmotor B10 vs BYD Atto 2 2026 — fotografía del modelo>
 
 Duelo 100 % eléctrico y 100 % chino entre los dos SUV que están rompiendo el mercado por precio: el **Leapmotor B10**, desde **27.000 €** con 218 CV y tracción trasera, contra el **BYD Atto 2**, desde **18.739 € financiando** con el Plan Auto+. Uno apuesta por la potencia y la tecnología; el otro, por el precio más bajo con etiqueta Cero.
 
@@ -514,7 +514,7 @@ Fuentes: <a href=https://www.leapmotor.net>Leapmotor</a> y <a href=https://www.b
 
 <iframe src=https://www.youtube.com/embed/NyyL6J9vPeo title="Vídeo: Probamos el Leapmotor B10" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=NyyL6J9vPeo>SoyMotor</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=NyyL6J9vPeo>SoyMotor</a> en YouTube<img src=/media/leapmotor-b10-electrico-precio-espana-interior-oficial-2.webp alt=Leapmotor B10 vs BYD Atto 2 2026 — interior><img src=/media/leapmotor-b10-electrico-precio-espana-interior-oficial.webp alt=Leapmotor B10 vs BYD Atto 2 2026 — interior>
 
 ## Preguntas frecuentes
 
@@ -554,7 +554,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "Skoda Peaq autonomía",
       "qué SUV eléctrico grande comprar",
     ],
-    content: `<img src=/media/alpine-a390-vs-skoda-peaq-cual-comprar-hero.webp alt=Comparativa entre el Alpine A390 y el Skoda Peaq, deportividad francesa frente a practicidad checa>
+    content: `<img src=/media/alpine-a390-gt-2026-precio-ficha-tecnica-hero.webp alt=Alpine A390 vs Skoda Peaq 2026 — fotografía del modelo>
 
 Este duelo es deliberadamente injusto: el **Alpine A390** es un fastback deportivo francés de 400 CV desde **67.500 €**; el **Skoda Peaq** es un SUV familiar checo de 7 plazas desde **54.550 €**. No compiten entre sí... pero es exactamente la duda que tienen muchos compradores con 60.000 € en el bolsillo: ¿capricho o razón? Vamos a poner los números sobre la mesa.
 
@@ -622,7 +622,7 @@ Fuentes: <a href=https://www.alpinecars.com>Alpine</a> y <a href=https://www.sko
 
 <iframe src=https://www.youtube.com/embed/ZL1HImc92a8 title="Vídeo: Prueba del Alpine A390: a la caza del Porsche Macan" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=ZL1HImc92a8>Diariomotor</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=ZL1HImc92a8>Diariomotor</a> en YouTube<img src=/media/alpine-a390-gt-2026-precio-ficha-tecnica-interior-oficial.webp alt=Alpine A390 vs Skoda Peaq 2026 — interior><img src=/media/alpine-a390-gt-2026-precio-ficha-tecnica-oficial.webp alt=Alpine A390 vs Skoda Peaq 2026 — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -879,7 +879,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "eléctrico chino barato",
       "MG4 o Dolphin cuál comprar",
     ],
-    content: `<img src=/media/mg4-electric-vs-byd-dolphin-2025-cual-comprar-hero.webp alt=Comparativa entre el MG4 Electric y el BYD Dolphin 2025, los compactos eléctricos chinos más vendidos>
+    content: `<img src=/media/mg4-electric-comfort-2025-precio-ficha-tecnica-hero.webp alt=MG4 Electric vs BYD Dolphin 2025 — fotografía del modelo>
 
 El duelo de los compactos eléctricos chinos: el **MG4 Electric Standard**, desde **30.690 €**, contra el **BYD Dolphin**, desde **36.690 €**. Los dos son 100 % eléctricos, los dos llevan etiqueta Cero, los dos miden 4,29 m y los dos compiten por ser el eléctrico "generalista" que sustituya a tu compacto de gasolina. Pero juegan en posiciones distintas: el MG4 es el más barato y el más divertido de conducir; el Dolphin es el que más autonomía ofrece.
 
@@ -944,7 +944,7 @@ Fichas técnicas: <a href=/coches/mg4-electric-standard-2025-precio-ficha-tecnic
 
 Compáralos en nuestro <a href=/comparador-coches/?a=mg4-electric-standard-2025-precio-ficha-tecnica&b=byd-dolphin-2025-precio-ficha-tecnica>comparador del MG4 Electric y el BYD Dolphin</a>, y lee el <a href=/coches/mg4-electric-standard-2025-precio-ficha-tecnica/>análisis completo del MG4 Electric</a> y el <a href=/coches/byd-dolphin-2025-precio-ficha-tecnica/>análisis completo del BYD Dolphin</a>. Fichas en <a href=/coches/mg4-electric-standard-2025-precio-ficha-tecnica/>ficha del MG4 Electric</a> y <a href=/coches/byd-dolphin-2025-precio-ficha-tecnica/>ficha del BYD Dolphin</a>. Los dos llevan etiqueta Cero y entran en todas las ZBE: repasa nuestra <a href=/guias/zbe/>guía de etiquetas y ZBE</a> si tienes dudas.
 
-Fuentes: <a href=https://www.mgmotor.eu>MG Europa</a> y <a href=https://www.byd.com>BYD</a>.
+Fuentes: <a href=https://www.mgmotor.eu>MG Europa</a> y <a href=https://www.byd.com>BYD</a>.<img src=/media/mg4-electric-comfort-2025-precio-ficha-tecnica-hunt1.webp alt=MG4 Electric vs BYD Dolphin 2025 — fotografía del modelo><img src=/media/mg4-electric-comfort-2025-precio-ficha-tecnica-hunt2.webp alt=MG4 Electric vs BYD Dolphin 2025 — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -1102,7 +1102,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "GAC AION UT precio España",
       "eléctrico compacto barato cual comprar",
     ],
-    content: `<img src=/media/leapmotor-b05-vs-gac-aion-ut-cual-comprar-hero.webp alt=Dos compactos eléctricos chinos aparcados lado a lado en una carretera costera española al atardecer, escena de comparativa>
+    content: `<img src=/media/leapmotor-b05-2026-precio-ficha-tecnica-hero.webp alt=Leapmotor B05 vs GAC AION UT: el duelo chino barato — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/coches/leapmotor-b05-2026-precio-ficha-tecnica/>Ver ficha del Leapmotor B05</a> · <a href=/coches/aion-ut-2025-precio-ficha-tecnica/>Ver ficha del GAC AION UT</a> · <a href=/comparador-coches/>Compararlos cara a cara</a>.
 
@@ -1147,7 +1147,7 @@ Si necesitas **maletero y red europea**, el AION UT: 440 litros, fabricado por M
 
 El matiz que decide: ninguno de los dos es un error. Los dos tienen 5 estrellas Euro NCAP y etiqueta Cero. Elige el B05 si el precio manda; el UT si el maletero y la red mandan. Puedes <a href=/comparador-coches/>compararlos con el MG4 y el ID.3 en el comparador</a>.
 
-Y un recordatorio de la casa: estrenar coche no te libra de los radares. Si te llega una multa, <a href=/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
+Y un recordatorio de la casa: estrenar coche no te libra de los radares. Si te llega una multa, <a href=/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.<img src=/media/leapmotor-b05-2026-precio-ficha-tecnica-hunt1.webp alt=Leapmotor B05 vs GAC AION UT: el duelo chino barato — fotografía del modelo><img src=/media/leapmotor-b05-2026-precio-ficha-tecnica-hunt2.webp alt=Leapmotor B05 vs GAC AION UT: el duelo chino barato — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -1251,7 +1251,7 @@ Y un recordatorio de la casa: estrenar coche no te libra de los radares. Si te l
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/3RL03XWPaFQ title="Primera prueba del Deepal S05 en España por SoyMotor" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=3RL03XWPaFQ>SoyMotor</a> en YouTube — primera prueba del Deepal S05 en España.
+Vídeo: <a href=https://www.youtube.com/watch?v=3RL03XWPaFQ>SoyMotor</a> en YouTube — primera prueba del Deepal S05 en España.<img src=/media/aion-v-2025-precio-ficha-tecnica-hero.webp alt=GAC Aion V vs Deepal S05: cuál comprar — fotografía del modelo>
 
 ## Preguntas frecuentes
 

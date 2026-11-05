@@ -197,7 +197,7 @@ El consumo homologado (15,5-15,7 kWh/100 km) también juega a su favor en el cos
 
 Vídeo: <a href=https://www.youtube.com/watch?v=_9M-W8wSFbY>Ricardo Torres</a> en YouTube
 
-Otros eléctricos asequibles que hemos analizado: el <a href=/blog/geely-e2-electrico-barato-precio-espana/>Geely E2</a>, el <a href=/blog/skoda-epiq-electrico-barato-precio-espana/>Skoda Epiq</a> y el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf</a>.
+Otros eléctricos asequibles que hemos analizado: el <a href=/blog/geely-e2-electrico-barato-precio-espana/>Geely E2</a>, el <a href=/blog/skoda-epiq-electrico-barato-precio-espana/>Skoda Epiq</a> y el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf</a>.<img src=/media/leapmotor-b03x-2026-precio-ficha-tecnica-hero.webp alt=Leapmotor B03X: SUV eléctrico desde 24.264 € en España — fotografía del modelo><img src=/media/leapmotor-b03x-2026-precio-ficha-tecnica-hunt1.webp alt=Leapmotor B03X: SUV eléctrico desde 24.264 € en España — fotografía del modelo>
 
 ## Preguntas frecuentes
 
