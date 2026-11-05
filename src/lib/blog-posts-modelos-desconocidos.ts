@@ -133,7 +133,7 @@ El **U8** es un todoterreno de **rango extendido (EREV)** de 5,32 metros (5,41 e
 - **Flota en el agua**: en caso de emergencia puede flotar y navegar a **3 km/h**, con las ruedas actuando como hélices.
 - **Giro de tanque**: cada rueda gira de forma independiente, así que puede **rotar 360° sobre su propio eje**.
 
-En China cuesta el equivalente a unos **150.000 €**, lo que lo convirtió en uno de los coches de producción en serie más caros del país. La versión larga U8L, con llantas de estilo Rolls-Royce y configuración de seis plazas, se presentó en el **Festival de la Velocidad de Goodwood 2026**, donde BYD montó un stand de unos dos millones de euros.
+En China cuesta el equivalente a unos **150.000 €**, lo que lo convirtió en uno de los coches de producción en serie más caros del país. La versión larga U8L, con llantas de estilo Rolls-Royce y configuración de seis plazas, se presentó en el **Festival de la Velocidad de Goodwood 2026**, donde BYD montó un stand de unos dos millones de euros.<img src=/media/yangwang-byd-u8-u9-europa-2027-hunt1.webp alt=Yangwang U8: 1.197 CV, flota en agua, llega a Europa — fotografía del modelo>
 
 ## Yangwang U9: el superdeportivo que salta
 
@@ -402,7 +402,7 @@ IM Motors (IM = Intelligence in Motion) es la división premium de **SAIC Motor*
 
 La marca anunció su llegada a Europa a principios de 2024 y por ahora opera en el **Reino Unido** (donde algunos modelos se venden bajo la marca MG) y Australia, además de Oriente Medio. La expansión al resto del continente es cuestión de tiempo.
 
-<img src=/media/im-motors-ls6-suv-cuerpo.webp alt=IM LS6, el SUV eléctrico de IM Motors>
+<img src=/media/im-motors-ls6-suv-cuerpo.webp alt=IM LS6, el SUV eléctrico de IM Motors><img src=/media/im-motors-ls6-nuevo-suv-electrico-model-y-hunt1.webp alt=IM Motors LS6: el SUV chino rival del Tesla Model Y — fotografía del modelo>
 
 ## El nuevo IM LS6: chasis de avión en un SUV familiar
 
@@ -592,7 +592,7 @@ Te contamos qué es el i8, por qué no despega y qué significa para ti su llega
 
 ## Qué es el Li Auto i8
 
-El i8 es el **SUV eléctrico puro** de Li Auto (Li Xiang), la marca china famosa por sus SUV de autonomía extendida. Presentado en julio de 2025 y a la venta desde agosto, es un familiar grande de **5,09 metros** y tres filas de asientos, con un diseño de líneas suaves inspirado en un yate y un coeficiente aerodinámico de **0,218**, digno de un superdeportivo.
+El i8 es el **SUV eléctrico puro** de Li Auto (Li Xiang), la marca china famosa por sus SUV de autonomía extendida. Presentado en julio de 2025 y a la venta desde agosto, es un familiar grande de **5,09 metros** y tres filas de asientos, con un diseño de líneas suaves inspirado en un yate y un coeficiente aerodinámico de **0,218**, digno de un superdeportivo.<img src=/media/li-auto-i8-suv-electrico-6-plazas-precio-2026-hunt1.webp alt=Li Auto i8: SUV eléctrico 6 plazas, 780 km, carga 5C — fotografía del modelo>
 
 ## Ficha técnica: la gama 2026
 
@@ -1002,7 +1002,7 @@ La apuesta tiene lógica: en septiembre de 2026, Geely, Lynk & Co y Zeekr supera
 
 Su <a href=/coches/geely-galaxy-battleship-700-2026-precio-ficha-tecnica/>ficha técnica completa está aquí</a>, y si te van los 4x4 chinos con estética aventurera, no te pierdas <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5/>Fangchengbao, la marca secreta de BYD</a>.
 
-*Fuentes: <a href=https://carnewschina.com/2026/10/13/geely-battleship-700-will-arrive-in-europe-in-h2-2027/>CarNewsChina</a>, <a href=https://www.thesupercarblog.com/geely-battleship-700-suv-europe-paris-auto-show/>The Supercar Blog</a>, <a href=https://www.hibridosyelectricos.com/coches/10000-pedidos-en-12-minutos-43900-en-1-hora-todoterreno-hibrido-geely-1113-cv-confirma-su-venta-en-europa-en-2027_89876_102.html>Híbridos y Eléctricos</a>.*
+*Fuentes: <a href=https://carnewschina.com/2026/10/13/geely-battleship-700-will-arrive-in-europe-in-h2-2027/>CarNewsChina</a>, <a href=https://www.thesupercarblog.com/geely-battleship-700-suv-europe-paris-auto-show/>The Supercar Blog</a>, <a href=https://www.hibridosyelectricos.com/coches/10000-pedidos-en-12-minutos-43900-en-1-hora-todoterreno-hibrido-geely-1113-cv-confirma-su-venta-en-europa-en-2027_89876_102.html>Híbridos y Eléctricos</a>.*<img src=/media/geely-galaxy-battleship-700-2026-precio-ficha-tecnica-hunt1.webp alt=Battleship 700: 4x4 de 1.113 CV que flota — fotografía del modelo><img src=/media/geely-galaxy-battleship-700-2026-precio-ficha-tecnica-hunt2.webp alt=Battleship 700: 4x4 de 1.113 CV que flota — fotografía del modelo>
 
 ## Preguntas frecuentes
 

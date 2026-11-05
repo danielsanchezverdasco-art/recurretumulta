@@ -98,7 +98,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "NIU FQiX 150 precio España",
       "mejor scooter eléctrico ciudad",
     ],
-    content: `<img src=/media/niu-nqi-sport-scooter-electrico-1999-euros-gama-2026-hero.webp alt=Scooter eléctrico NIU NQi Sport de color naranja aparcado en una calle de Barcelona>
+    content: `<img src=/media/niu-nqi-sport-2026-ficha-tecnica-precio-1.webp alt=NIU NQi Sport: scooter eléctrico con 130 km por 1.999 € — fotografía del modelo>
 
 NIU ha movido ficha: renovación completa de su gama de scooters eléctricos para Europa con las familias **NQi** (Sport y GTS renovadas), **FQiX** (nueva plataforma de diseño) y **NQiX**, todas con navegación integrada, radar trasero, ABS y la interfaz NIU Link Crown. El golpe de efecto: el **NQi Sport** parte de **1.999 €**, el precio de entrada más bajo en la historia de la marca.
 
@@ -139,7 +139,7 @@ Hasta ahora, el scooter eléctrico urbano en España era cosa de **Silence** (l�
 
 <iframe src=https://www.youtube.com/embed/yVQCH7cf36g title="Vídeo: NIU NQi Sport: el scooter eléctrico urbano" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=yVQCH7cf36g>NIU</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=yVQCH7cf36g>NIU</a> en YouTube<img src=/media/niu-nqi-sport-2026-ficha-tecnica-precio-2.webp alt=NIU NQi Sport: scooter eléctrico con 130 km por 1.999 € — fotografía del modelo><img src=/media/niu-nqi-sport-2026-ficha-tecnica-precio-3.webp alt=NIU NQi Sport: scooter eléctrico con 130 km por 1.999 € — fotografía del modelo>
 
 ## Preguntas frecuentes
 
