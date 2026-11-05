@@ -121,7 +121,7 @@ En primer lugar, trabajo industrial: 6.000 empleos directos, a los que se suma l
 | Autonomía objetivo | Hasta 750 km WLTP |
 | Empleos directos | +6.000 asegurados |
 
-<img src=/media/renault-scenic-e-tech-60-kwh-2024-precio-ficha-tecnica-hero.webp alt=Baterías de coche eléctrico en una línea de producción moderna, imagen editorial>
+<img src=/media/renault-4-e-tech-40-kwh-2025-precio-ficha-tecnica-hero.webp alt=Baterías de coche eléctrico en una línea de producción moderna, imagen editorial>
 
 Los eléctricos que Renault ya comercializa en España, desde el <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>Renault 5 E-Tech</a> hasta el <a href=/coches/renault-megane-e-tech-2026-lfp-67-kwh-precio-ficha-tecnica/>Mégane E-Tech con batería LFP</a>, anticipan la producción palentina a gran escala. <a href=/comparador-coches/>Compáralos en nuestro comparador de coches eléctricos</a> y <a href=/guias/ayudas-compra-coche-electrico-2026/>revisa las ayudas vigentes para comprar un eléctrico en 2026</a>.
 
