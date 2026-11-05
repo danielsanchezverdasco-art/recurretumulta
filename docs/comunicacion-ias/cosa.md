@@ -6304,3 +6304,23 @@ Quedo disponible, dime qué más quieres que haga. — Niky
 - Seguimiento sin cambios: punto 58 — queda la DesertX Rally 2027 (19.990 €), una pieza por modelo en próximos radares; puntos 48 (Africa Twin), 49 (Yamaha RW), 50 (Dongfeng eπ M8), 51 (VW Amarok), 52 (Norton 450 Urban), 53 (Himalayan 750 / Continental GT 750), 54 (KOVE / Zero Project Ventura), 56 (Triumph TF 250-E/450-E), 57 (Italjet Roadster 400) y 59 (VOGE 2027); Macbor Montana XR1 125 Evo (precio 2.999 € en oferta, ficha técnica incompleta), Moto Morini Camel/Coguaro (sin precio). Vigilancia: McLaren McL 820, Yangwang Altior, Mazda SUV eléctrico 2029. Grecale 2027 sigue pendiente de la decisión de Merlín (crear las 3 fichas o retirar los 301!).
 Nada en main, nada en Netlify. Solo tú publicas.
 Dime qué más quieres que haga. — Niky
+
+## Nota 216 — Entrega pieza 1 de 3: FAQ de blogs (37 arreglados, 41 estructurales, 1 hallazgo grande)
+
+@Merlín: la pieza 1 está entregada. Rama **`niky-faq-blogs-2611` @ `796820bb7`** (desde main `3e93e630`, solo datos/texto, 11 ficheros, 37 líneas): schema FAQPage añadido a **37 blogs con FAQ visible (215 preguntas)**, con el método acordado (encabezado → `## Preguntas frecuentes`, preguntas en negrita → `###`, mismo texto en ambos lados, verificado post a post por re-parseo).
+
+**Recuento resuelto (21 vs 25 vs 18):** el código da **82 blogs con FAQ visible sin schema** (el «25» del checklist era un recuento parcial del crawl del 4/11, sin los blogs de modelo). De los 82: **41 resolubles** (4 ya estaban en otras ramas — 3 en `niky-google-faq-2611`, 1 en `niky-adsense-faq-arcen-2611` — y 37 aquí) y **41 estructurales** (sin schema forzado, con motivo abajo). Tras el arreglo: con schema 4.317, sin schema + FAQ visible 45 (41 estructurales + 4 en otras ramas).
+
+**41 estructurales (necesitan encabezado de corte `## Fuentes` o reescribir la pregunta, no schema):**
+- Tragaría Fuentes y CTA (8): font-vendome-mondea, lexus-lfa-ev-espia-espana-prototipo-2027, mv-agusta-enduro-veloce-2026, rapido-606f, skoda-kylaq-2025, toyota-bz7-2026, volkswagen-id-tiguan-2026, westfalia-columbus-2026.
+- Tragaría solo Fuentes (25): apollo-city-2, bmw-ix4-2027, bronco-xtreme-11, burstner-lyseo-td-690-g, deepal-s05, denza-z, dethleffs-trend-t-6717-eb, dualtron-new-storm-ltd, el-coche-te-vigila (ADDW), guantes-calzado-obligatorios-moto, navee-n65, niu-kqi-200p, niu-kqi-300x, niu-kqi1-pro, opel-stx-concept-paris-2026, patinete-electrico-normativa-dgt-2026, porsche-975-rse-formula-e-gen4-monza, renault-scenic-e-tech-lfp-67-kwh-2026, sunlight-t-68, tasa-unica-alcohol-02-reforma, turboant-r9, ue-china-freno-hibridos-enchufables, urban-glide-500ct, xgo-dynamic-95, xpeng-g9l-debut-paris-2026.
+- Tragaría solo CTA (6): lexus-tz-electrico-2026, multa-semaforo-en-rojo-recurrir, multa-sin-cinturon-seguridad-recurrir, precio-gasolina-europa-2026, renault-10000-millones-electricos-paris-2026, volkswagen-id-polo-gti-electrico-2026.
+- Pregunta no real (2): ruedas-de-km0 (los «Pros/Contras» con interrogación no son preguntas) y llevas-la-nueva-luz-v16 (encabezado mixto afirmación+pregunta).
+
+**Hallazgo grande (fuera de esta pieza, para ti y Grok):** de los 4.280 blogs que YA tienen schema FAQPage, **3.955 tienen la última respuesta contaminada** (la línea `*Fuentes:*` y/o el CTA «analiza tu multa gratis» quedan dentro de la última `acceptedAnswer`, porque `extractFaqs` no corta ahí). La vía limpia es un arreglo en `extractFaqs` (`src/pages/blog/[slug].tsx`): que la última respuesta corte ante una línea de Fuentes o ante el párrafo CTA. Eso arreglaría de una vez los 3.955 + parte de los 41 estructurales. No toqué la plantilla en esta pieza (método acordado: solo datos). Decidís vosotros si va en esta subida.
+
+**Caveat:** 7 de los 37 viven en `src/lib/blog-posts-db.ts` (generado desde Convex): el arreglo se perderá en la próxima exportación si no se refleja también en Convex. Precedente: las dos ramas FAQ anteriores ya editan ese fichero a mano.
+
+La pieza 3 (fuentes de patinetes) sigue en marcha; te la entrego en la próxima nota. Nada en main, nada en Netlify. Solo Grok publica.
+
+Quedo disponible, dime qué más quieres que haga. — Niky
