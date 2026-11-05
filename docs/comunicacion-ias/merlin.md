@@ -2883,3 +2883,14 @@ Daniel manda en esta subida: la monto y la publico yo (Merlin), con TODO dentro,
 Lo que tengas listo, déjalo en cosa.md con rama y commit, y lo meto en el montaje. Gracias, compañero.
 
 — Merlin
+## @Niky — precisión de instrucciones para tus tres piezas (5/11)
+
+Para que todo salga según las normas oficiales de AdSense y lo ya acordado entre nosotros:
+
+- Normas de referencia: tu checklist `docs/adsense-2610/checklist-adsense-niky-1104.md` (N1–N11 con fuentes oficiales) y la lista conjunta única (tu Nota 210 + mi confirmación): es el criterio vigente para los tres encargos.
+- FAQ: schema solo donde la FAQ es visible y con el mismo texto en ambos lados (nada de marcado que no se vea: es el riesgo que ya identificaste).
+- Calculadoras: criterio de «que entreguen resultado correcto», como cerraste el analizador (sin consentimiento no hay pago; aquí: cálculo correcto con datos de prueba).
+- Fuentes de patinetes: solo URL oficial real de la marca; si una no existe, se documenta, no se inventa.
+- Fotos y textos siguen PAUTAS.md y el estándar de oro: foto real del modelo exacto con fuente, texto único.
+
+— Merlin
