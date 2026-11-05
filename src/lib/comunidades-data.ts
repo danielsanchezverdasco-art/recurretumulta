@@ -5,6 +5,8 @@
 export type Comunidad = {
   slug: string;
   nombre: string;
+  /** 05/11/2026 (SEO multas P1.7): H1 propio para diferenciar la página de comunidad de /multas/{provincia}. Si falta, se usa la plantilla. */
+  h1?: string;
   organismo: "DGT" | "SCT" | "ERT" | "PF";
   organismoNombre: string;
   organismoWeb: string;
@@ -286,13 +288,14 @@ const BASE: Omit<Comunidad, "faq">[] = [
   {
     slug: "madrid",
     nombre: "Comunidad de Madrid",
+    h1: "Multas en la Comunidad de Madrid: normativa, gestión y ZBE",
     organismo: "DGT",
     organismoNombre: "Dirección General de Tráfico (DGT)",
     organismoWeb: "https://sede.dgt.gob.es",
     provincias: ["madrid"],
     capital: "Madrid",
     foto: "/media/file_sG1QGXHmBmVNNxxkWkdoekLf.webp",
-    descripcion: `${"La Comunidad de Madrid es uniprovincial. En el municipio de Madrid, el Ayuntamiento tramita las multas de las calles; en las carreteras interurbanas, como la A-1, la A-2 o la A-6, sanciona la DGT."} ${radares("la Comunidad de Madrid", 39, [["M-40", 4], ["A-3", 3], ["A-1", 3], ["M-505", 2], ["M-404", 2]], undefined)}`,
+    descripcion: `${"La Comunidad de Madrid es uniprovincial y su normativa de tráfico se reparte entre tres niveles: la DGT sanciona en las carreteras interurbanas (A-1, A-2, A-6), el Ayuntamiento de Madrid gestiona las calles, la zona SER y la ZBE, y cada municipio aplica su propia ordenanza en sus vías urbanas. Para recurrir una multa concreta en la capital, la guía es la de la ciudad; esta página explica el reparto de competencias y la gestión en toda la comunidad."} ${radares("la Comunidad de Madrid", 39, [["M-40", 4], ["A-3", 3], ["A-1", 3], ["M-505", 2], ["M-404", 2]], undefined)}`,
     particularidades: [],
     zbe: ["Madrid", "Fuenlabrada", "Las Rozas de Madrid", "Alcalá de Henares"],
     keywords: ["multas de tráfico en la Comunidad de Madrid", "cómo recurrir una multa en Madrid", "recurso multa M-30 radar tramo", "multa Madrid ZBE recurrir", "multa SER Madrid recurso", "dónde recurrir multa Comunidad de Madrid 2026"],
@@ -300,13 +303,14 @@ const BASE: Omit<Comunidad, "faq">[] = [
   {
     slug: "murcia",
     nombre: "Región de Murcia",
+    h1: "Multas en la Región de Murcia: normativa y gestión autonómica",
     organismo: "DGT",
     organismoNombre: "Dirección General de Tráfico (DGT)",
     organismoWeb: "https://sede.dgt.gob.es",
     provincias: ["murcia"],
     capital: "Murcia",
     foto: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp",
-    descripcion: `${"La Región de Murcia es uniprovincial, con capital en Murcia."} ${radares("la Región de Murcia", 14, [["A-30", 5], ["RM-11", 2]], undefined)}`,
+    descripcion: `${"La Región de Murcia es uniprovincial, con capital en Murcia. En sus carreteras interurbanas (A-7, A-30) sanciona la DGT a través de la Jefatura Provincial de Tráfico; en las calles de cada municipio, las multas las gestiona el ayuntamiento correspondiente, que aplica su propia ordenanza de tráfico y estacionamiento. Esta página explica ese reparto de competencias y la gestión en toda la región; para recurrir una multa concreta en la capital, la guía es la de la ciudad."} ${radares("la Región de Murcia", 14, [["A-30", 5], ["RM-11", 2]], undefined)}`,
     particularidades: [],
     zbe: ["Cartagena", "Molina de Segura"],
     keywords: ["multas de tráfico en Murcia", "cómo recurrir una multa en Murcia", "recurso multa DGT Murcia", "multa radar A-7 Murcia recurso"],
