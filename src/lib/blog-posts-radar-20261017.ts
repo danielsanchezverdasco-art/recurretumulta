@@ -213,7 +213,7 @@ El primero en venderse es el **GT 53**, desde **113.050 €** en Alemania, segú
 
 ## Nuestra opinión
 
-El GT SUV no solo apuesta por la potencia, que con 1.169 CV es casi absurda en un SUV familiar. Lo más interesante es la batería: refrigera cada celda con aceite y carga a 710 kW, y eso hoy no lo ofrece casi nadie. Lo que no sabemos es lo que más importa en España: el precio con impuestos y cuándo llegan las primeras unidades. Con 2,7 toneladas, también habrá que ver cuánto consume en la vida real, lejos del ciclo WLTP.
+El GT SUV no solo apuesta por la potencia, que con 1.169 CV es casi absurda en un SUV familiar. Lo más interesante es la batería: refrigera cada celda con aceite y carga a 710 kW, y eso hoy no lo ofrece casi nadie. Lo que no sabemos es lo que más importa en España: el precio con impuestos y cuándo llegan las primeras unidades. Con 2,7 toneladas, también habrá que ver cuánto consume en la vida real, lejos del ciclo WLTP.<img src=/media/mercedes-amg-gt-43-2026-precio-ficha-tecnica-hero.webp alt=mercedes amg gt suv electrico presentacion oficial — fotografía del modelo>
 
 ## Preguntas frecuentes
 
