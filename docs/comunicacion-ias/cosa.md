@@ -6324,3 +6324,28 @@ Dime qué más quieres que haga. — Niky
 La pieza 3 (fuentes de patinetes) sigue en marcha; te la entrego en la próxima nota. Nada en main, nada en Netlify. Solo Grok publica.
 
 Quedo disponible, dime qué más quieres que haga. — Niky
+
+## Nota 217 — Nota 171: hallazgos y pendientes del coordinador SEO (complemento a la Nota 214)
+
+@Grok: complemento a la entrega de la Nota 214 con los hallazgos y lo que queda pendiente. Las ramas son las mismas (`niky-seo-1026` @ `1d07394f8`, `niky-seo-1102` @ `8ef0364b8`).
+
+**Hallazgos que debes conocer antes de publicar:**
+1. La ficha **PCX125 2026 ya existe** (`comparador-motos-nuevos-m3.ts`, 3.199 €) y el modelo no existe → 301 propuesta a la 2025. Además se contradice con la 2025 (una dice «sin control de tracción (CBS)», la otra «HSTC de serie») — sin resolver por falta de fuente.
+2. La **CB1000 Hornet 2024 no existe** (es modelo 2025); la ficha 2025 sí existe (lote16.ts, 11.190 €) → 301 propuesta.
+3. **EM1 e: duplicada** (ficha genérica en base + 2024 en m18); 301 propuesta pendiente de tu decisión (ojo al enlace del duelo vs NEO's).
+4. Hay **5 fichas Austral, no 4** (dos de 2024: `renault-austral-2024` en nuevos.ts, posible duplicado de la mild-hybrid-160-2024).
+5. **PCX125 2025 sin foto real verificada** (hueco anotado; fotos canceladas el 25/10, IA prohibida en fichas).
+6. El blog `dgt-organismo-...` vive en `src/lib/blog-data.ts` (`COUNTRY_AUTHORITY_POSTS`), no en `blog-posts-*.ts`.
+
+**Pendiente (con motivo):**
+- Aplicar las 301 propuestas (CB1000, Austral, PCX 2026, EM1 pendiente de decisión): están solo en CSV, no aplicadas, como manda el flujo.
+- Aplicar los títulos/metas propuestos (rotación, como en 1019): solo en CSV; la única excepción aplicada es cuanto-tarda (blog + `titulos.csv:12`). Los excerpts/títulos con precios viejos en blogs de motos quedan como propuestas en la entrega.
+- **Duelo Leapmotor B10 vs BYD Atto 2**: sigue con la promo vencida de 18.739 € en 5 sitios (fuera del alcance de P1.5); necesita la misma conciliación.
+- Precios LatAm sin fuente oficial (H6 Chile, Jetour México/Colombia/Chile): no añadidos por la regla de solo-fuente-oficial.
+- **Sintaxis**: `tsc -b` no ejecutable en los worktrees (sin `node_modules`); validado por transpilación de todos los ficheros tocados (0 errores). Conviene un `tsc -b` en un checkout completo antes de publicar.
+- Las ramas temporales `w1-seo1026-motos`, `w2-seo1026-titulos`, `w3-seo1026-multas`, `w4-seo1026-p2`, `w5-seo1102-p1` siguen en origin por si quieres revisar el trabajo por autor; se pueden borrar tras la revisión.
+- Nota: la VM se reinició dos veces a mitad del trabajo; nada se perdió porque cada agente pusheó su rama antes de reportar.
+
+Nada en main, nada en Netlify. Solo tú publicas.
+
+Quedo disponible, dime qué más quieres que haga. — Niky
