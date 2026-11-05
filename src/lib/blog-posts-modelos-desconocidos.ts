@@ -1,3 +1,6 @@
+// Fotos 5/11/2026 (2ª oleada, avatr-changan-huawei-catl-): Wikimedia Commons, CC0, JustAnotherCarDesigner (File:Avatr 06T 001.jpg); Wikimedia Commons, CC0, JustAnotherCarDesigner (File:Avatr 06T 002.jpg).
+// Fotos 5/11/2026 (2ª oleada, jetour-zongheng-g700-903-c): Wikimedia Commons, CC0, JustAnotherCarDesigner (File:Jetour Zongheng G700 003.jpg); Wikimedia Commons, CC0, JustAnotherCarDesigner (File:Jetour Zongheng G700 004.jpg).
+// Fotos 5/11/2026 (2ª oleada, hongqi-g919-4x4-electrico-): Wikimedia Commons, CC0, JustAnotherCarDesigner (File:Hongqi G919 003.jpg).
 // Fotos 5/11/2026 (2ª oleada, icaur-chery-marca-aventura): foto iCaur ya presente en el pool del sitio.
 // Fotos 5/11/2026 (2ª oleada, fangchengbao-byd-marca-des): foto del Bao 5 (Fangchengbao/Denza Bao 5) ya presente en el pool del sitio (ficha del modelo).
 // Fotos 5/11/2026 (2ª oleada, rox-01-erev-pininfarina-au): foto del mismo modelo ya presente en el pool del sitio (ficha u otro post del modelo).
@@ -208,7 +211,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "marcas chinas premium",
       "familiar eléctrico chino"
     ],
-    "content": `<img src=/media/avatr-desconocidos-hero.webp alt=Familiar eléctrico deportivo chino de color gris circulando por una carretera de costa al atardecer>
+    "content": `<img src=/media/avatr-desconocidos-hero.webp alt=Familiar eléctrico deportivo chino de color gris circulando por una carretera de costa al atardecer><img src="/media/avatr-changan-huawei-catl-06t-t09-2.jpg" alt="avatr-changan-huawei-catl-06t-t09 — fotografía del modelo">
 
 Imagina un familiar con **prestaciones de Ferrari SF90** y espacio de **Audi A6 Avant** por el precio de un **Toyota Corolla**. No es un ejercicio de imaginación: se llama **Avatr 06T**, ya se vende en China, y es obra de una alianza que ningún fabricante europeo puede replicar: **Changan** (el coche), **Huawei** (el software y la conducción autónoma) y **CATL** (las baterías).
 
@@ -218,7 +221,7 @@ Avatr es probablemente la marca china premium con más músculo tecnológico del
 
 La fórmula es única en la industria: el fabricante tradicional **Changan** pone la plataforma y la producción, **CATL** —el mayor fabricante de baterías del mundo— pone la energía, y **Huawei** pone el cerebro: software de cabina, conducción asistida y electrónica. Tres líderes mundiales, cada uno en lo suyo, en una sola marca.
 
-<img src=/media/avatr-06t-familiar-cuerpo.webp alt=Avatr 06T, el familiar eléctrico de altas prestaciones>
+<img src=/media/avatr-changan-huawei-catl-06t-t09-hero.jpg alt=Avatr 06T, el familiar eléctrico de altas prestaciones>
 
 ## Avatr 06T: el familiar de 955 CV que rompe la baraja
 
@@ -1125,7 +1128,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "Jetour G700 Huawei",
       "coches chinos desconocidos"
     ],
-    "content": `<img src=/media/jetour-g700-zongheng-hero.webp alt=Todoterreno híbrido enchufable chino de color verde oscuro con rueda de repuesto en el portón subiendo una pista de montaña al atardecer>
+    "content": `<img src=/media/jetour-g700-zongheng-hero.webp alt=Todoterreno híbrido enchufable chino de color verde oscuro con rueda de repuesto en el portón subiendo una pista de montaña al atardecer><img src="/media/jetour-zongheng-g700-903-cv-2.jpg" alt="jetour-zongheng-g700-903-cv — fotografía del modelo">
 
 **903 CV. Conducción autónoma de Huawei. Y puede flotar.** El **Jetour Zongheng G700** es el todoterreno más bestial que ha salido de Chery, y su versión 2027 acaba de salir a la venta en China el **30 de septiembre de 2026**. Es un híbrido enchufable de **665 kW (903 CV)**, con bloqueos de diferencial delantero y trasero, suspensión neumática y un modo anfibio que le permite navegar por el agua. Apunta directamente al Mercedes Clase G y al Land Rover Defender... por menos de la mitad de precio.
 
@@ -1155,7 +1158,7 @@ La arquitectura eléctrica es de **800 V** con carga rápida en continua de **17
 
 Por dentro es un salón rodante: pantalla panorámica **"Horizon" de 35,4 pulgadas** más central de 15,6" 2.5K con chip **Snapdragon 8255**, doble cargador inalámbrico de 50 W, **nevera a bordo**, equipo de sonido **Lexicon**, asientos delanteros con calefacción, ventilación y masaje, y segunda fila con **asientos de gravedad cero** en la versión de 6 plazas.
 
-<img src=/media/jetour-g700-flotando-agua.webp alt=Todoterreno chino de color gris vadeando un río profundo con el agua salpicando a su alrededor>
+<img src=/media/jetour-zongheng-g700-903-cv-hero.jpg alt=Todoterreno chino de color gris vadeando un río profundo con el agua salpicando a su alrededor>
 
 ## Un anfibio con matrícula: flota de verdad
 
@@ -1215,7 +1218,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "4x4 chino EREV",
       "coches chinos desconocidos"
     ],
-    "content": `<img src=/media/hongqi-g919-hero.webp alt=Todoterreno de lujo chino con enorme parrilla cromada vertical y franja roja en el capó en dunas del desierto al atardecer>
+    "content": `<img src=/media/hongqi-g919-hero.webp alt=Todoterreno de lujo chino con enorme parrilla cromada vertical y franja roja en el capó en dunas del desierto al atardecer><img src="/media/hongqi-g919-4x4-electrico-831-cv-hero.jpg" alt="hongqi-g919-4x4-electrico-831-cv — fotografía del modelo">
 
 **La marca que lleva a los presidentes de China se mete en el barro.** **Hongqi** ("bandera roja"), la firma de lujo de FAW que desde 1958 fabrica las limusinas oficiales del Estado chino, presenta su **primer todoterreno de verdad**: el **G919**. Y no viene de paseo: es un **eléctrico de autonomía extendida (EREV) con cuatro motores** (uno por rueda), **620 kW (831 CV)**, chasis de largueros y tres bloqueos de diferencial. La preventa abrió en China el **22 de septiembre de 2026**.
 
