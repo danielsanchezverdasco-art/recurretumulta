@@ -716,14 +716,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800
       }
     ],
-    aprox: [
-      "potenciaPicoW",
-      "autonomiaKm",
-      "velocidadMaxKmh",
-      "pesoKg",
-      "bateriaWh",
-      "frenos"
-    ],
+    aprox: ["precioEur", "autonomiaRealKm", "potenciaPicoW", "autonomiaKm", "velocidadMaxKmh", "pesoKg", "bateriaWh", "frenos"],
     pros: [
       "Es el Blade Q básico de un solo motor, más ligero (20 kg según el distribuidor) que el Blade Q Pro",
       "Suspensión de muelles delante y detrás",
@@ -785,9 +778,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800
       }
     ],
-    aprox: [
-      "autonomiaRealKm"
-    ],
+    aprox: ["precioEur", "velocidadMaxKmh", "autonomiaRealKm"],
     pros: [
       "Dos motores de 350 W (hasta 1.848 W de pico según Teverun) en un patinete de 26 kg",
       "Selector SINGLE/DUAL: se puede rodar solo con el motor trasero para estirar la batería",

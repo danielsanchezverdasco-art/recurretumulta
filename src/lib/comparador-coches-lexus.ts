@@ -439,7 +439,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     modelo: "RX 500h",
     tipo: "Híbrido",
     categoria: "SUV",
-    precioDesde: 112650,
+    precioDesde: 111300,
     potenciaCv: 371,
     autonomiaKm: null,
     maleteroL: 461,

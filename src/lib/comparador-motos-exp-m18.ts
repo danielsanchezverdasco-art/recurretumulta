@@ -184,7 +184,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 1802,
     categoria: "Custom",
-    precioDesde: 28930, // tarifa oficial España (verificado 20/10/2026)
+    precioDesde: 29510, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 67,
     potenciaCv: 91,
     autonomiaKm: null,
@@ -242,7 +242,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 1649,
     categoria: "Turismo",
-    precioDesde: 30650, // tarifa oficial España (verificado 20/10/2026)
+    precioDesde: 31620, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 118,
     potenciaCv: 160,
     autonomiaKm: null,
@@ -475,7 +475,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 803,
     categoria: "Scrambler",
-    precioDesde: 12990, // tarifa oficial España (verificado 20/10/2026)
+    precioDesde: 13290, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 53.69,
     potenciaCv: 73,
     autonomiaKm: null,

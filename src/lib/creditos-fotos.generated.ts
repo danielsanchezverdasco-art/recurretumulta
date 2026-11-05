@@ -4219,5 +4219,35 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "Segway-Ninebot (foto de producto de la tienda oficial de España)",
 "licencia": "prensa",
 "url": "https://shop.segway.com/media/catalog/product/u/n/untitled_design_5_.png"
+},
+"/media/li-auto-i6-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "Li Auto (foto de prensa) · CnEVPost",
+"licencia": "prensa",
+"url": "https://cnevpost.com/wp-content/uploads/2026/10/2026102813160047.jpg"
+},
+"/media/li-auto-i6-2026-precio-ficha-tecnica-oficial.webp": {
+"autor": "Li Auto (foto de prensa) · CarNewsChina",
+"licencia": "prensa",
+"url": "https://carnewschina.com/wp-content/uploads/2026/10/e59bbee78987-114.png"
+},
+"/media/li-auto-i6-2026-precio-ficha-tecnica-interior.webp": {
+"autor": "Li Auto (foto de prensa) · vía CarNewsChina",
+"licencia": "prensa",
+"url": "https://q0.itc.cn/images01/20261009/d0f8eb76b036406a86f9765bef9b36a2.jpeg"
+},
+"/media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "BYD (foto de prensa) · CnEVPost",
+"licencia": "prensa",
+"url": "https://cnevpost.com/wp-content/uploads/2026/10/2026102706370769.jpg"
+},
+"/media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-oficial.webp": {
+"autor": "BYD (foto de prensa) · CarNewsChina",
+"licencia": "prensa",
+"url": "https://carnewschina.com/wp-content/uploads/2026/10/byd_qin_plus_dm-i_new-3.jpg"
+},
+"/media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-interior.webp": {
+"autor": "BYD (foto de prensa) · CnEVPost",
+"licencia": "prensa",
+"url": "https://cnevpost.com/wp-content/uploads/2026/10/2026102706371216.jpg"
 }
 };

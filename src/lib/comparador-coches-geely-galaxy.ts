@@ -17,7 +17,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
   {
     id: "geely-galaxy-e8-2024-precio-ficha-tecnica",
     marca: "Geely Galaxy",
-    modelo: "Galaxy E8",
+    modelo: "E8",
     tipo: "Eléctrico",
     categoria: "Berlina",
     precioDesde: 21550,
@@ -94,7 +94,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
   {
     id: "geely-galaxy-l6-em-i-2025-precio-ficha-tecnica",
     marca: "Geely Galaxy",
-    modelo: "Galaxy L6 EM-i",
+    modelo: "L6 EM-i",
     tipo: "Híbrido enchufable",
     categoria: "Berlina",
     precioDesde: 11700,
@@ -163,7 +163,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
   {
     id: "geely-galaxy-l7-em-i-2025-precio-ficha-tecnica",
     marca: "Geely Galaxy",
-    modelo: "Galaxy L7 EM-i",
+    modelo: "L7 EM-i",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
     precioDesde: 15000,
@@ -232,7 +232,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
   {
     id: "geely-galaxy-xingyuan-2024-precio-ficha-tecnica",
     marca: "Geely Galaxy",
-    modelo: "Galaxy Xingyuan",
+    modelo: "Xingyuan",
     tipo: "Eléctrico",
     categoria: "Urbano",
     precioDesde: 9100,
@@ -309,7 +309,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
   {
     id: "geely-galaxy-starshine-8-2025-precio-ficha-tecnica",
     marca: "Geely Galaxy",
-    modelo: "Galaxy Starshine 8",
+    modelo: "Starshine 8",
     tipo: "Híbrido enchufable",
     categoria: "Berlina",
     precioDesde: 16350,
@@ -387,7 +387,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
   {
     id: "geely-galaxy-a7-em-i-2025-precio-ficha-tecnica",
     marca: "Geely Galaxy",
-    modelo: "Galaxy A7 EM-i",
+    modelo: "A7 EM-i",
     tipo: "Híbrido enchufable",
     categoria: "Berlina",
     precioDesde: 10250,
@@ -464,7 +464,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
   {
     id: "geely-galaxy-m9-2025-precio-ficha-tecnica",
     marca: "Geely Galaxy",
-    modelo: "Galaxy M9",
+    modelo: "M9",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
     precioDesde: 23900,
@@ -541,7 +541,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
   {
     id: "geely-galaxy-zhanjian-700-2026-precio-ficha-tecnica",
     marca: "Geely Galaxy",
-    modelo: "Galaxy Zhanjian 700",
+    modelo: "Zhanjian 700",
     tipo: "Híbrido enchufable",
     categoria: "Todoterreno",
     precioDesde: 26000,

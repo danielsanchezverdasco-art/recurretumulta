@@ -82,7 +82,7 @@ Para recorridos habituales por debajo de 300 km seguidos, la opción lógica es 
 | 165 kW de carga: la más rápida de la gama | El precio promo exige apilar ayudas |
 | Batería LFP más duradera ante ciclos completos | La 89 kWh tiene menos pico de carga (150 kW) |
 | 220 CV de serie en toda la gama | Sin cambios en maletero (545 L) ni plazas (5) |
-| Etiqueta Cero (<a href=https://www.dgt.es>DGT</a>) | |
+| Etiqueta Cero (<a href=https://www.dgt.es>DGT</a>) | |<img src=/media/renault-scenic-e-tech-2024-precio-ficha-tecnica-hero.webp alt=Scénic E-Tech LFP 2026: 467 km desde 39.900 € — fotografía del modelo><img src=/media/renault-scenic-e-tech-2024-precio-ficha-tecnica-interior-oficial.webp alt=Scénic E-Tech LFP 2026: 467 km desde 39.900 € — interior>
 
 ## Dudas habituales
 

@@ -139,7 +139,7 @@ Puedes <a href=/coches/deepal-s09-2026-precio-ficha-tecnica/>ver la ficha técni
 | Autonomía combinada | Hasta 1.210 km (CLTC) |
 | Carga rápida | 117 kW (30-80 % en 15 min) |
 | Suspensión | Neumática ajustable con amortiguadores CDC |
-| Precio en China | 239.900 - 309.900 yuanes (~31.860 - 41.155 €) |
+| Precio en China | 239.900 - 309.900 yuanes (~31.860 - 41.155 €) |<img src=/media/deepal-s09-2026-precio-ficha-tecnica-1.webp alt=Deepal S09: 220 km eléctricos y 6 plazas — fotografía del modelo>
 
 ## Curiosidades
 

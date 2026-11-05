@@ -30,7 +30,7 @@ const COCHES_LOTE1_A: CocheComparador[] = [
     modelo: "Gamma",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 45900,
+    precioDesde: 39900,
     potenciaCv: 230,
     autonomiaKm: 540,
     maleteroL: 560,

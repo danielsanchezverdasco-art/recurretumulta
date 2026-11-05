@@ -100,6 +100,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       { src: "/media/teverun-tetra-hunt2.webp", alt: "Tetra (foto: Teverun (web oficial), licencia desconocida)", ancho: 1000, alto: 650 },
     ],
     aprox: [
+      "precioEur",
       "autonomiaRealKm",
     ],
     pros: [
@@ -226,6 +227,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       { src: "/media/vmax-vx2-pro-hunt2.webp", alt: "VX2 Pro (foto: Electric Scooter Guide, licencia desconocida)", ancho: 1024, alto: 771 },
     ],
     aprox: [
+      "precioEur",
       "autonomiaRealKm",
     ],
     pros: [
@@ -451,7 +453,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       { src: "/media/vmax-vx4-hunt1.webp", alt: "VX4 (foto: Fahrradblog.de (test VMAX VX4 en Noruega), licencia desconocida)", ancho: 1280, alto: 754 },
       { src: "/media/vmax-vx4-hunt2.webp", alt: "VX4 (foto: Freshly Charged (review VMAX VX4), licencia desconocida)", ancho: 1400, alto: 1045 },
     ],
-    aprox: [],
+    aprox: ["precioEur"],
     pros: [
       "Certificado DGT VMP A1177 (versión ST): legal en España",
       'Batería de 874 Wh con neumáticos tubeless off-road de 10"',
@@ -511,6 +513,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       { src: "/media/vmax-vx5-pro-hunt2.webp", alt: "VX5 Pro (foto: Stelfia (ficha de producto VMAX VX5 Pro), licencia desconocida)", ancho: 700, alto: 702 },
     ],
     aprox: [
+      "precioEur",
       "autonomiaRealKm",
       "tiempoCargaH",
     ],
@@ -1182,7 +1185,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     videoId: null,
     videoCanal: null,
     marca: "Jeep",
-    modelo: "Jeep 2xe Urban Camou",
+    modelo: "2xe Urban Camou",
     precioEur: 600,
     potenciaNominalW: 500,
     potenciaPicoW: 700,
@@ -1306,7 +1309,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     videoId: null,
     videoCanal: null,
     marca: "Lamborghini",
-    modelo: "Lamborghini AL-EXT",
+    modelo: "AL-EXT",
     precioEur: 753.34,
     potenciaNominalW: 500,
     potenciaPicoW: null,
@@ -1369,7 +1372,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     videoId: "0iZqRbT5j0s",
     videoCanal: null,
     marca: "MV Agusta",
-    modelo: "MV Agusta Rapido Serie Oro",
+    modelo: "Rapido Serie Oro",
     precioEur: 999,
     potenciaNominalW: 500,
     potenciaPicoW: null,
@@ -1487,7 +1490,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     videoId: null,
     videoCanal: null,
     marca: "Jeep",
-    modelo: "Jeep JAD Advanced Safety",
+    modelo: "JAD Advanced Safety",
     precioEur: 799,
     potenciaNominalW: 350,
     potenciaPicoW: 515,

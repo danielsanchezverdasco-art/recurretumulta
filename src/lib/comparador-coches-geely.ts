@@ -120,7 +120,7 @@ export const COCHES_GEELY: CocheComparador[] = [
     modelo: "Starray EM-i",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 33490,
+    precioDesde: 30490,
     potenciaCv: 262,
     autonomiaKm: 136, // eléctrica WLTP con batería de 29,8 kWh (83 km con la de 18,4 kWh); 1.055 km totales
     maleteroL: 528,

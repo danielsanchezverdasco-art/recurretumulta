@@ -540,7 +540,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "E-Cross Pro Boost 2",
-    precioEur: 649.99, // tarifa oficial Europa (verificado 20/10/2026)
+    precioEur: 749.99, // tarifa en urbanglide.com (verificado 30/10/2026)
     potenciaNominalW: 1200,
     potenciaPicoW: 1600,
     autonomiaKm: 60,

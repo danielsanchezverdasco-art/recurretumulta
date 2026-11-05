@@ -682,7 +682,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     modelo: "XC60 T8",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 67949,
+    precioDesde: 75815,
     potenciaCv: 461,
     autonomiaKm: 189,
     maleteroL: 483,

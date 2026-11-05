@@ -1573,7 +1573,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     videoCanal: "ERideHero",
     marca: "E-Twow",
     modelo: "GT SE",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: 1190, // tarifa en etwow.net (verificado 30/10/2026),
     potenciaNominalW: 500,
     potenciaPicoW: 700,
     autonomiaKm: 50,

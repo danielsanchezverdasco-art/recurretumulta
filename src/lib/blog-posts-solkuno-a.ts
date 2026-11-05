@@ -45,7 +45,7 @@ No es un coche normal: es el SUV que el creador @solkuno llama **"El Emperador d
 | Autonomía (CLTC) | 600 km (AWD) / 670 km (2WD) |
 | Motor trasero | 580 kW (789 CV), hasta 30.000 rpm |
 | LiDAR | Sí, en el techo |
-| Dron integrado | Sí, sistema Ling Yuan (DJI) |
+| Dron integrado | Sí, sistema Ling Yuan (DJI) |<img src=/media/byd-tang-l-2026-precio-ficha-tecnica-hero.webp alt=BYD Tang L: 1.102 CV, dron DJI y 400 km de carga — fotografía del modelo>
 
 ## Precio
 
@@ -145,7 +145,7 @@ No es un SUV... es otro nivel. Así presenta @solkuno al **NIO ES9**, el buque i
 | Plazas | 6 |
 | Cambio de batería | ~3 minutos en estación automática |
 | Precio en China | 498.000 yuanes (~66.130 €); 390.000 yuanes (~51.790 €) con BaaS |
-| Conducción asistida | 2 chips propios Shenji NX9031, suspensión activa SkyRide (versiones top) |
+| Conducción asistida | 2 chips propios Shenji NX9031, suspensión activa SkyRide (versiones top) |<img src=/media/nio-es9-2026-precio-ficha-tecnica-hunt1.webp alt=NIO ES9: 697 CV que ponen en jaque — fotografía del modelo>
 
 ## Precio
 
@@ -264,7 +264,7 @@ Puedes <a href=/coches/lotus-eletre-r-plus-2026-precio-ficha-tecnica/>ver la fic
 | Longitud / batalla | 5.103 mm / 3.019 mm |
 | Maletero | 688 / 1.532 litros (+ 46 l delanteros) |
 | Neumáticos | 275/40 R22 delante, 315/35 R22 detrás |
-| Distintivo ambiental DGT | 0 emisiones |
+| Distintivo ambiental DGT | 0 emisiones |<img src=/media/lotus-eletre-r-plus-2026-precio-ficha-tecnica-hero.webp alt=Lotus Eletre R+: 918 CV que humillan al Lamborghini — fotografía del modelo>
 
 ## Precio
 

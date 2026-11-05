@@ -358,7 +358,7 @@ export const COCHES_EXP11: CocheComparador[] = [
     modelo: "S07 2025",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 46990,
+    precioDesde: 45990,
     potenciaCv: 218,
     autonomiaKm: 467,
     maleteroL: 510,
