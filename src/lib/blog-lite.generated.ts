@@ -78006,6 +78006,25 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 12
   },
   {
+    "slug": "renault-4-e-tech-2027-415-km-roland-garros-precio",
+    "title": "Renault 4 e-Tech 2027: 415 km, Roland Garros y 30.305 €",
+    "excerpt": "El Renault 4 E-Tech 2027 gana autonomía hasta 415 km, estrena la edición Roland Garros y ya admite pedidos en España desde 30.305 €.",
+    "category": "Novedades Motor",
+    "date": "2026-11-05",
+    "locale": "es",
+    "heroSrc": "/media/renault-4-e-tech-2027-415-km-roland-garros-precio-hero.webp",
+    "heroAlt": "Renault 4 E-Tech Roland Garros 2027 blanco con techo negro sobre una pista de tierra batida cubierta de pelotas de tenis",
+    "keywords": [
+      "renault 4 e-tech 2027",
+      "renault 4 415 km autonomia",
+      "renault 4 roland garros precio",
+      "renault 4 e-tech precio espana",
+      "renault 4 plein sud 2027",
+      "renault 4 e-tech 30.305 euros"
+    ],
+    "readTime": 16
+  },
+  {
     "slug": "byd-seagull-2026-segunda-generacion-precio",
     "title": "BYD Seagull 2026: precios oficiales y carga en 5 minutos",
     "excerpt": "Así es el BYD Seagull de segunda generación: tarifas oficiales desde 65.900 yuanes, 420 km en ciclo CLTC y carga flash del 10 al 70 % en solo 5 minutos. Todas las versiones.",

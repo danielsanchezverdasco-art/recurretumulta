@@ -33,6 +33,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "recurrir-multa-radar-velocidad": () => import("../blog-data.ts"),
     "recurso-reposicion-multa-modelo-2026": () => import("../blog-data.ts"),
     "renault-10000-millones-electricos-paris-2026-plan": () => import("../blog-posts-motor-2026-m.ts"),
+    "renault-4-e-tech-2027-415-km-roland-garros-precio": () => import("../blog-posts-radar-20261105-2258.ts"),
     "renault-4-e-tech-40-kwh-2025-precio-ficha-tecnica": () => import("../blog-posts-renault-a.ts"),
     "renault-4-e-tech-52-kwh-2025-precio-autonomia": () => import("../blog-posts-renault-a.ts"),
     "renault-4-e-tech-52-kwh-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp19.ts"),
