@@ -1,3 +1,4 @@
+// Fotos 5/11/2026 (2ª oleada, volkswagen-mission-efficie): Wikimedia Commons, CC BY-SA 4.0, Alexander-93 (File:Volkswagen ID.7 1X7A1779.jpg); Wikimedia Commons, CC BY-SA 4.0, Alexander-93 (File:Volkswagen ID.7 IAA 2023 1X7A0307.jpg).
 // Artículos de novedades del motor (lote diario 2026-10-12, lote O).
 // Salón de París 2026 (jornada de prensa 12/10): Renault 8 Gordini Concept
 // (nota oficial Renault España), Leapmotor B03 (km77 + etiqueta0),
@@ -246,7 +247,7 @@ No de forma directa: abre para Fiat un segmento inédito, el de los C-SUV famili
     "Volkswagen récord consumo 6,89",
     "ID. Polo MEB+ eficiencia"
   ],
-  "content": `<img src=/media/volkswagen-mission-efficiency-concept-paris-2026-oficial.webp alt=Volkswagen Mission Efficiency, vista frontal en foto oficial de Volkswagen>
+  "content": `<img src=/media/volkswagen-mission-efficiency-concept-paris-2026-oficial.webp alt=Volkswagen Mission Efficiency, vista frontal en foto oficial de Volkswagen><img src="/media/volkswagen-mission-efficiency-record-1278-km-2.jpg" alt="volkswagen-mission-efficiency-record-1278-km — fotografía del modelo">
 
 **1.278 kilómetros con una sola recarga.** No es una promesa de laboratorio: es la distancia que el prototipo **Volkswagen Mission Efficiency** recorrió entre Wolfsburgo y Viena con un consumo real de **6,89 kWh/100 km**, muy por debajo de lo habitual en un eléctrico compacto actual. Presentado en septiembre, es la respuesta de Volkswagen a la pregunta que más hacen los conductores españoles: ¿y si el problema no fuera la batería, sino el consumo?
 
@@ -269,7 +270,7 @@ Homologados por el instituto alemán de récords (RID) en la categoría de eléc
 
 La batería del Mission Efficiency (54,9 kWh) es la que lleva cualquier compacto eléctrico normal. La diferencia está en la **aerodinámica**: carrocería con forma de lágrima, superficie frontal de solo **2,08 m²**, bajos carenados, ruedas traseras revestidas y hasta **paneles solares de 370 W** en techo y portón (hasta 30 km extra al día, según la prensa especializada).
 
-<img src=/media/volkswagen-mission-efficiency-concept-paris-2026-oficial-2.webp alt=Volkswagen Mission Efficiency en foto oficial de Volkswagen>
+<img src=/media/volkswagen-mission-efficiency-record-1278-km-hero.jpg alt=Volkswagen Mission Efficiency en foto oficial de Volkswagen>
 
 ## Traducido a España: Madrid–Barcelona sin parar
 
