@@ -237,7 +237,23 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     content: `<img src=/media/byd-atto-2-vs-jaecoo-5-cual-comprar-hero.webp alt=Comparativa entre el BYD Atto 2 y el Jaecoo 5, dos SUV chinos baratos>
 
+**Veredicto rápido:** Atto 2 Active, 29.990 € y 312 km; Jaecoo 5 EV, 34.895 € y 402 km. El eléctrico de BYD es más barato, el de Jaecoo llega más lejos y carga más (480 L frente a 400 L).
+
 El duelo chino del año en el segmento B-SUV: el **BYD Atto 2** eléctrico, desde **18.739 € financiando** con el Plan Auto+, contra el **Jaecoo 5**, que parte de **19.990 € financiado** en gasolina y ofrece tres etiquetas distintas (C, ECO y CERO) según motorización. Los dos rondan los 4,3-4,4 metros, los dos vienen cargados de equipamiento y los dos cuestan lo que un utilitario europeo. Pero juegan en ligas distintas.
+
+## Tabla comparativa verificada (05/11/2026)
+
+| Dato | BYD Atto 2 | Jaecoo 5 |
+|---|---|---|
+| **Precio de tarifa desde** | 29.990 € (Active) | 26.871 € (gasolina Pure) |
+| **Eléctrico de tarifa desde** | 29.990 € (Active) | 34.895 € (EV Pure) |
+| **Autonomía WLTP (eléctrico base)** | 312 km (45,1 kWh) | 402 km (61 kWh, 211 CV) |
+| **Autonomía WLTP (tope eléctrico)** | 430 km (Comfort, 64,8 kWh) | 402 km |
+| **Maletero** | 400 L (Active/Boost); 450 L (Comfort) | 480 L (1.284 L abatido) |
+| **Híbrido** | No existe (solo eléctrico) | SHS Pure desde 29.395 €, 5,3 l/100 km, más de 800 km |
+| **Fuentes** | BYD España, tarifa oficial (PDF en media.byd.com) | Autonoción y Híbridos y Eléctricos (prensa); sin web oficial del modelo localizada |
+
+*La promoción con ayudas que dejaba el Atto 2 desde 15.040 € venció el 30/11/2025 según el propio documento de BYD: no es un precio vigente.*
 
 Fichas técnicas: <a href=/coches/byd-atto-2-precio-ficha-tecnica/>ver ficha técnica completa del BYD Atto 2</a> · <a href=/coches/jaecoo-5-precio-ficha-tecnica/>ver ficha técnica completa del Jaecoo 5</a>.
 
@@ -773,7 +789,21 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     content: `<img src=/media/dacia-bigster-hybrid-vs-jaecoo-5-cual-comprar-hero.webp alt=Comparativa entre el Dacia Bigster Hybrid y el Jaecoo 5, los SUV asequibles del momento>
 
+**Veredicto rápido:** Bigster Hybrid 155 y Jaecoo 5 SHS empatan en tarifa (29.390 € frente a 29.395 €), pero el Dacia gasta menos (4,6 l/100 frente a 5,3) y carga mucho más (667 L frente a 480 L).
+
 El duelo de los superventas asequibles: el **Dacia Bigster Hybrid 155**, desde **29.390 €** con etiqueta ECO y 4,6 l/100 km, contra el **Jaecoo 5**, desde **19.990 € financiado** con tres motorizaciones a elegir (gasolina, híbrido y eléctrico). Uno es el C-SUV híbrido más barato del mercado; el otro, el chino que quiere comérselo por precio. Los dos venden como churros. Solo uno puede ganar tu garaje.
+
+## Tabla comparativa verificada (05/11/2026)
+
+| Dato | Dacia Bigster Hybrid 155 | Jaecoo 5 |
+|---|---|---|
+| **Precio de tarifa desde** | 29.390 € (Hybrid 155, según tarifa citada por prensa; gama desde 23.051 €) | 29.395 € (SHS Pure) |
+| **Consumo WLTP** | 4,6 l/100 km | 5,3 l/100 km (SHS) |
+| **Autonomía** | — | Más de 800 km (SHS) |
+| **Maletero** | 667 L VDA | 480 L (1.284 L abatido) |
+| **Potencia** | 155 CV | SHS (híbrido); EV de 211 CV |
+| **Versión eléctrica** | No existe | EV Pure por 34.895 €, con 402 km WLTP |
+| **Fuentes** | Dacia España (dacia.es, tarifa oficial); consumo según prensa | Prensa especializada (Autonoción, Híbridos y Eléctricos); no se localizó web oficial del modelo |
 
 Fichas técnicas: <a href=/coches/dacia-bigster-hybrid-precio-espana/>ver ficha técnica completa del Dacia Bigster Hybrid</a> · <a href=/coches/jaecoo-5-precio-ficha-tecnica/>ver ficha técnica completa del Jaecoo 5</a>.
 
