@@ -78006,6 +78006,44 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 12
   },
   {
+    "slug": "omoda-9-shs-black-edition-200-unidades-precio",
+    "title": "Omoda 9 SHS Black Edition: 200 unidades, 537 CV, 54.400 €",
+    "excerpt": "El Omoda 9 SHS estrena chasis revisado, frenos mayores y asistentes recalibrados, y suma la Black Edition: 200 unidades en España desde 54.400 € con 537 CV y 145 km eléctricos.",
+    "category": "Novedades Motor",
+    "date": "2026-11-05",
+    "locale": "es",
+    "heroSrc": "/media/omoda-9-shs-black-edition-200-unidades-precio-hero.webp",
+    "heroAlt": "Omoda 9 SHS Black Edition negro mate de tres cuartos delantera, con llantas negras y parrilla oscurecida",
+    "keywords": [
+      "omoda 9 shs black edition",
+      "omoda 9 shs precio",
+      "omoda 9 shs 2026",
+      "omoda 9 shs black edition 200 unidades",
+      "omoda 9 shs 537 cv",
+      "omoda 9 shs autonomia 145 km"
+    ],
+    "readTime": 15
+  },
+  {
+    "slug": "omoda-5-ev-2027-renovacion-precio-autonomia",
+    "title": "Omoda 5 EV 2027: crece a 4,55 m, 442 litros y 211 CV",
+    "excerpt": "El Omoda 5 EV 2027 se renueva a fondo: 4,55 metros, maletero de 442 litros, pantalla de 15,6 pulgadas, 211 CV y 430 km WLTP. Llega en el primer semestre de 2027.",
+    "category": "Novedades Motor",
+    "date": "2026-11-05",
+    "locale": "es",
+    "heroSrc": "/media/omoda-5-ev-2027-renovacion-precio-autonomia-hero.webp",
+    "heroAlt": "Omoda 5 EV 2027 renovado de perfil, con el nuevo frontal y llantas negras",
+    "keywords": [
+      "omoda 5 ev 2027",
+      "omoda 5 ev renovacion",
+      "omoda 5 ev precio",
+      "omoda 5 ev autonomia 430",
+      "omoda 5 ev maletero 442",
+      "omoda 5 ev 211 cv"
+    ],
+    "readTime": 13
+  },
+  {
     "slug": "byd-seagull-2026-segunda-generacion-precio",
     "title": "BYD Seagull 2026: precios oficiales y carga en 5 minutos",
     "excerpt": "Así es el BYD Seagull de segunda generación: tarifas oficiales desde 65.900 yuanes, 420 km en ciclo CLTC y carga flash del 10 al 70 % en solo 5 minutos. Todas las versiones.",
