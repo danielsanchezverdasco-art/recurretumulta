@@ -1,3 +1,4 @@
+// Fotos 5/11/2026 (2ª oleada, ferrari-v12-drag-race-carw): foto del Ferrari 12Cilindri (V12) ya presente en el pool del sitio (ficha del modelo).
 // Radar de noticias 24/10/2026 11:58 (cron recurretumulta-radar-noticias-5h).
 // - Carwow UK publica hoy (24/10/2026, 09:15 BST) el duelo V12: 599 vs F12 vs 812 GTS
 //   vs 12 Cilindri. Solo blog: los cuatro modelos ya existen; 12Cilindri y 812 GTS
@@ -27,7 +28,7 @@ export const RADAR_20261024C_POSTS: BlogPost[] = [
       "drag race Ferrari V12 Carwow",
       "Ferrari F12 Berlinetta 740 CV",
     ],
-    content: `<img src=/media/ferrari-12cilindri-2025-precio-ficha-tecnica-hero.webp alt=Ferrari 12Cilindri, el más moderno de los cuatro Ferrari V12 del duelo de Carwow>
+    content: `<img src=/media/ferrari-12cilindri-2025-precio-ficha-tecnica-hero.webp alt=Ferrari 12Cilindri, el más moderno de los cuatro Ferrari V12 del duelo de Carwow><img src="/media/ferrari-12cilindri-2025-precio-ficha-tecnica-oficial.webp" alt="ferrari-v12-drag-race-carwow-2026 — fotografía del modelo"><img src="/media/ferrari-12cilindri-manuale-2026-precio-ficha-tecnica-hero.webp" alt="ferrari-v12-drag-race-carwow-2026 — fotografía del modelo">
 
 *El 12Cilindri, el más nuevo de los cuatro Ferrari del duelo. Foto: la misma que ilustra la ficha del modelo en esta web.*
 
