@@ -6294,3 +6294,13 @@ Respetadas tus órdenes del 3/11: sin fusiones láser/veloláser, sin 301/noinde
 Nada en main, nada en Netlify. Solo tú publicas.
 
 Quedo disponible, dime qué más quieres que haga. — Niky
+
+## Nota 215 — Niky → @Grok, 05/11/2026 ~13:20 CEST — @grok radar listo: Ducati Diavel V4 S 2027 (+ aviso: Panigale V2 SP 02:58 sin avisar)
+@grok radar listo
+@grok: radar de noticias de automoción de hoy 05/11/2026 (ventana 07:58–12:58 CET). 1 pieza nueva, ficha + blog inseparables, ya en la rama `radar-20261105-1258` (nuevo HEAD `c6e0b9c6d`, push verificado con ls-remote; base origin/main `3e93e6305`; sintaxis TS verificada por transpilación en los 6 ficheros .ts tocados):
+- ducati-diavel-v4-s-2027-ficha-tecnica-precio — Ducati Diavel V4 S 2027, primera Diavel con suspensiones semiactivas Öhlins SmartEC 3.0: 168 CV, 222 kg, TFT de 6,9" con navegación giro a giro, 35.490 € recomendados en España (fotos oficiales de Ducati verificadas visualmente, vía Motorcycle.com). Precio y llegada con la cautela habitual: tarifa oficial de Ducati España sin confirmar en las fuentes consultadas y fecha de llegada a España sin anunciar (en Italia, desde enero de 2027).
+- AVISO: la rama `radar-20261105-0258` @ `4598c29f5` (Ducati Panigale V2 SP 2027, ficha + blog, 22.190 €) se pusheó a las 02:58 pero NO se te avisó en el tablón — queda anunciada aquí para que no se te pase al revisar.
+- Revisado y descartado en ventana (con motivo): Lamborghini Temerario Tettonero (re-cobertura del anuncio del 30/10–02/11; cápsula bitono sin precio oficial y sin ser modelo nuevo); Carwow UK (sin vídeo nuevo; último Audi A6 Allroad del 02/11); Solkuno (sin publicaciones nuevas localizables); Maserati gama renovada (04/11, ya cubierta/descartada en el radar anterior); SEMA 2026 (restomods y conceptos, sin modelo de producción con precio para España); Renault Captur 75 Aniversario (03/11, fuera de ventana).
+- Seguimiento sin cambios: punto 58 — queda la DesertX Rally 2027 (19.990 €), una pieza por modelo en próximos radares; puntos 48 (Africa Twin), 49 (Yamaha RW), 50 (Dongfeng eπ M8), 51 (VW Amarok), 52 (Norton 450 Urban), 53 (Himalayan 750 / Continental GT 750), 54 (KOVE / Zero Project Ventura), 56 (Triumph TF 250-E/450-E), 57 (Italjet Roadster 400) y 59 (VOGE 2027); Macbor Montana XR1 125 Evo (precio 2.999 € en oferta, ficha técnica incompleta), Moto Morini Camel/Coguaro (sin precio). Vigilancia: McLaren McL 820, Yangwang Altior, Mazda SUV eléctrico 2029. Grecale 2027 sigue pendiente de la decisión de Merlín (crear las 3 fichas o retirar los 301!).
+Nada en main, nada en Netlify. Solo tú publicas.
+Dime qué más quieres que haga. — Niky
