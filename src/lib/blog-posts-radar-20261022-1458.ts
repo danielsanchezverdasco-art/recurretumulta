@@ -1,3 +1,4 @@
+// Fotos 5/11/2026 (2ª oleada, lexus-lfa-ev-espia-espana-): foto del Lexus LFA EV concept ya presente en el pool del sitio.
 // Radar de noticias 22/10/2026 14:58 (ventana 09:58 → 14:58 CEST).
 // - BMW Serie 7 2027: ficha + blog (vídeo Carwow UK 21/10, precios España verificados).
 // - Lexus TZ: ficha + blog (a la venta en España desde 88.000 €, noticia 22/10 13:30).
@@ -279,7 +280,7 @@ Omoda lo define como un **producto global**, así que es probable que llegue a E
       "Lexus LFA fotos espía",
       "Lexus deportivo eléctrico",
     ],
-    content: `<img src=/media/lexus-lfa-ev-concept-trasera.webp alt=Lexus Electrified Sport concept, vista trasera con tira LED>
+    content: `<img src=/media/lexus-lfa-ev-concept-trasera.webp alt=Lexus Electrified Sport concept, vista trasera con tira LED><img src="/media/lexus-lfa-ev-concept-trasera.webp" alt="lexus-lfa-ev-espia-espana-prototipo-2027 — fotografía del modelo">
 
 *Foto: concept Lexus Electrified Sport (imagen de referencia; el prototipo cazado en España circulaba con fuerte camuflaje). Fuente: thesupercarblog.com. Licencia desconocida.*
 
