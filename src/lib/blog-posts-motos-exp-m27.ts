@@ -125,7 +125,7 @@ En circuito, un despiste con el puño sale caro: si te ha llegado una denuncia p
       "trail china 94 cv",
       "kove 800x españa",
     ],
-    content: `<img src=/media/kove-800x-2025-precio-hero.webp alt=Kove 800X Pro 2025 en pista de tierra, vista tres cuartos>
+    content: `<img src=/media/kove-800x-gt-2026-ficha-tecnica-precio-1.webp alt=Kove 800X 2025: precio, ficha y prueba — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/motos/kove-800x-2025-ficha-tecnica-precio/>Ver ficha técnica de la Kove 800X</a>: precio, motor de 94,5 CV, suspensiones KYB de 240 mm y etiqueta DGT. <a href=/comparador-motos/>Compárala cara a cara con sus rivales</a>.
 
@@ -180,7 +180,7 @@ Chasis tubular de acero de doble viga, **horquilla invertida KYB de 48 mm** y mo
 | KYB 240 mm totalmente regulables | Sin control de crucero en la Pro |
 | ABS de 3 modos y tracción configurable | Red de servicio en expansión |
 | TFT 7" con mirroring, TPMS y USB | Depósito de 19 L justo para viajar |
-| 1.900 € menos que la KTM 790 Adventure | 190 kg se notan en parado |
+| 1.900 € menos que la KTM 790 Adventure | 190 kg se notan en parado |<img src=/media/kove-800x-gt-2026-ficha-tecnica-precio-2.webp alt=Kove 800X 2025: precio, ficha y prueba — fotografía del modelo><img src=/media/kove-800x-gt-2026-ficha-tecnica-precio-3.webp alt=Kove 800X 2025: precio, ficha y prueba — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -225,7 +225,7 @@ Con 94 CV bajo el puño, un radar despistado sale caro: si te ha llegado una den
       "trail 500 47 cv precio",
       "morbidelli españa",
     ],
-    content: `<img src=/media/morbidelli-t502x-2025-precio-hero.webp alt=Morbidelli T502X 2025 azul en camino de tierra, vista tres cuartos>
+    content: `<img src=/media/morbidelli-t502x-2026-ficha-tecnica-precio-1.webp alt=Morbidelli T502X 2025: precio y ficha técnica — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/motos/morbidelli-t502x-2025-ficha-tecnica-precio/>Ver ficha técnica de la Morbidelli T502X</a>: precio, motor de 47 CV, TFT de 7" con GPS y etiqueta DGT. <a href=/comparador-motos/>Compárala cara a cara con sus rivales</a>.
 
@@ -278,7 +278,7 @@ La parte ciclo monta **horquilla invertida de 43 mm** con 180 mm de recorrido, m
 | TFT 7" vertical con GPS y conectividad | 209 kg, no es ligera |
 | Equipamiento de serie de maxitrail | 47 CV justos en autopista cargada |
 | ABS Bosch off-road y control de tracción | Sin quickshifter |
-| 5 años de garantía | Red de concesionarios pequeña |
+| 5 años de garantía | Red de concesionarios pequeña |<img src=/media/morbidelli-t502x-2026-ficha-tecnica-precio-2.webp alt=Morbidelli T502X 2025: precio y ficha técnica — fotografía del modelo><img src=/media/morbidelli-t502x-2026-ficha-tecnica-precio-3.webp alt=Morbidelli T502X 2025: precio y ficha técnica — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -423,7 +423,7 @@ Una custom así invita a disfrutar la carretera, no a correr: pero si un radar t
       "macbor xr5 500 precio españa",
       "trail 47 cv 2024",
     ],
-    content: `<img src=/media/macbor-xr5-2024-precio-hero.webp alt=Macbor Montana XR5 2024 roja y gris en pista, vista tres cuartos>
+    content: `<img src=/media/macbor-xr5-500-2025-ficha-tecnica-precio-1-480w.webp alt=Macbor XR5 2024: precio y ficha técnica — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/motos/macbor-xr5-2024-ficha-tecnica-precio/>Ver ficha técnica de la Macbor Montana XR5</a>: precio, motor de 47 CV, 178 kg y etiqueta DGT. <a href=/comparador-motos/>Compárala cara a cara con sus rivales</a>.
 
@@ -478,7 +478,7 @@ Macbor obsesionó con el peso: manillar, tijas, llantas, bujes, basculante, estr
 | KYB multirregulable en ambos trenes | Vibraciones en el carenado |
 | ABS de 3 modos, pensado para off-road | 47 CV justos en autopista cargada |
 | Llantas Akront tubeless + Metzeler | Asiento a 840 mm, alto para algunos |
-| Equipada de serie, marca española | Red de concesionarios pequeña |
+| Equipada de serie, marca española | Red de concesionarios pequeña |<img src=/media/macbor-xr5-500-2025-ficha-tecnica-precio-1-828w.webp alt=Macbor XR5 2024: precio y ficha técnica — fotografía del modelo><img src=/media/macbor-xr5-500-2025-ficha-tecnica-precio-1.webp alt=Macbor XR5 2024: precio y ficha técnica — fotografía del modelo>
 
 ## Preguntas frecuentes
 
