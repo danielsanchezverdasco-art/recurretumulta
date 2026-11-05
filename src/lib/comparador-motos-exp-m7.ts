@@ -460,8 +460,8 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     ],
     videoId: null,
     videoCanal: null,
-    fuenteNombre: "Mundomotero",
-    fuenteUrl: "https://www.mundomotero.com/motos/honda/adv-350",
+    fuenteNombre: "Honda (hondanews.eu)",
+    fuenteUrl: "https://hondanews.eu",
     analisisSlug: "honda-adv350-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
