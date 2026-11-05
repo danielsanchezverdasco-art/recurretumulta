@@ -1,3 +1,8 @@
+// Fotos 5/11/2026 (2ª oleada, iscooter-ix5s): iScooter, tienda oficial (iscooterglobal.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, iscooter-i8): iScooter, tienda oficial (iscooterglobal.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, inmotion-s1f): INMOTION, tienda oficial (inmotionworld.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, inmotion-air-pro): INMOTION, tienda oficial (inmotionworld.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, inmotion-air): INMOTION, tienda oficial (inmotionworld.com), galería del producto.
 // Artículos del blog — Lote P3 patinetes (2026-10-05).
 // Un artículo por modelo, con su ficha en comparador-patinetes-exp-p3.ts
 // enlazada como <a href=/patinetes/<id>>. Datos verificados el 2026-10-04.
@@ -1390,7 +1395,7 @@ Solo **limitado a 25 km/h** como VMP.
       "inmotion app",
       "patinete urbano ligero",
     ],
-    content: `<img src=/media/patinetes/inmotion-air-1.webp alt=InMotion Air negro, vista lateral completa>
+    content: `<img src=/media/inmotion-air-hero.jpg alt=InMotion Air negro, vista lateral completa>
 
 **¿Buscas solo los datos?** <a href=/patinetes/inmotion-air/>Ver ficha técnica del InMotion Air</a>: peso, motor y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -1414,7 +1419,7 @@ El **InMotion Air** demuestra que ligero no tiene que significar frágil: **15,6
 
 **Sin PVP oficial estable publicado** en España: se vende a través de distribuidores y su precio varía. Como referencia, en otros mercados ronda el segmento de los 500-600 €.
 
-<img src=/media/patinetes/inmotion-air-2.webp alt=Detalle del manillar y display del InMotion Air>
+<img src=/media/inmotion-air-2.jpg alt=Detalle del manillar y display del InMotion Air>
 
 ## Autonomía real vs declarada
 
@@ -1438,7 +1443,7 @@ A **25 km/h** y con su equipamiento, es un VMP de manual: circula por **carril b
 | App InMotion con bloqueo | Precio en España inestable |
 | Plegado en un clic | En Sport baja de 25 km reales |
 
-<img src=/media/patinetes/inmotion-air-3.webp alt=InMotion Air plegado junto a una mochila>
+<img src=/media/inmotion-air-3.jpg alt=InMotion Air plegado junto a una mochila>
 
 ## Preguntas frecuentes
 
@@ -1482,7 +1487,7 @@ El Air si priorizas ligereza y precio; el Pro si necesitas sus 48 km de autonom�
       "patinete 750w pico",
       "inmotion air pro españa",
     ],
-    content: `<img src=/media/patinetes/inmotion-air-pro-1.webp alt=InMotion Air Pro, vista lateral completa>
+    content: `<img src=/media/inmotion-air-pro-hero.jpg alt=InMotion Air Pro, vista lateral completa>
 
 **¿Buscas solo los datos?** <a href=/patinetes/inmotion-air-pro/>Ver ficha técnica del InMotion Air Pro</a>: batería, motor y peso. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -1506,7 +1511,7 @@ El **InMotion Air Pro** es el Air con la autonomía que le faltaba: batería de 
 
 Sin PVP oficial estable: se mueve por distribuidores. En segunda mano europea se ve por unos 500 €, lo que da una pista de su posicionamiento nuevo.
 
-<img src=/media/patinetes/inmotion-air-pro-2.webp alt=Detalle de la rueda trasera del InMotion Air Pro>
+<img src=/media/inmotion-air-pro-2.jpg alt=Detalle de la rueda trasera del InMotion Air Pro>
 
 ## Autonomía real vs declarada
 
@@ -1530,7 +1535,7 @@ Ojo: declara **35 km/h** de máxima, así que en España debe circular **limitad
 | IP55/IP67 | Sin suspensión ni intermitentes |
 | Rueda trasera sin pinchazos | Precio oficial difícil de encontrar |
 
-<img src=/media/patinetes/inmotion-air-pro-3.webp alt=InMotion Air Pro en un carril bici>
+<img src=/media/inmotion-air-pro-3.jpg alt=InMotion Air Pro en un carril bici>
 
 ## Preguntas frecuentes
 
@@ -1824,7 +1829,7 @@ Está entre los más rápidos de serie, junto al Teverun Supreme y el Nami Burn-
       "patinete barato gran autonomía",
       "inmotion s1f 625",
     ],
-    content: `<img src=/media/patinetes/inmotion-s1f-1.webp alt=InMotion S1F, vista lateral del patinete>
+    content: `<img src=/media/inmotion-s1f-hero.jpg alt=InMotion S1F, vista lateral del patinete>
 
 **¿Buscas solo los datos?** <a href=/patinetes/inmotion-s1f/>Ver ficha técnica del InMotion S1F</a>: autonomía, precio y motor. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -1848,7 +1853,7 @@ El **InMotion S1F** es de esos patinetes que rompen la tabla de precios: **675 W
 
 **625 €**: por ese dinero, la competencia ofrece la mitad de batería. Es su gran argumento y no tiene rival directo en euros por Wh.
 
-<img src=/media/patinetes/inmotion-s1f-2.webp alt=Detalle del display del InMotion S1F>
+<img src=/media/inmotion-s1f-2.jpg alt=Detalle del display del InMotion S1F>
 
 ## Autonomía real vs declarada
 
@@ -1872,7 +1877,7 @@ Atención: declara hasta **40 km/h**, así que en España debe usarse **limitado
 | 24 kg: peso razonable | Distribución mejorable en España |
 | Marca fiable | Sin extras destacables |
 
-<img src=/media/patinetes/inmotion-s1f-3.webp alt=InMotion S1F en ciudad>
+<img src=/media/inmotion-s1f-3.jpg alt=InMotion S1F en ciudad>
 
 ## InMotion: del monociclo eléctrico al patinete de gran autonomía
 
@@ -2803,7 +2808,7 @@ Desde la **app oficial Hiboy** por Bluetooth.
       "iscooter gama de entrada",
       "patinete plegable barato",
     ],
-    content: `<img src=/media/patinetes/iscooter-i8-1.webp alt=iScooter i8, vista lateral del patinete ultraligero>
+    content: `<img src=/media/iscooter-i8-hero.jpg alt=iScooter i8, vista lateral del patinete ultraligero>
 
 **¿Buscas solo los datos?** <a href=/patinetes/iscooter-i8/>Ver ficha técnica del iScooter i8</a>: peso, precio y motor. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -2827,7 +2832,7 @@ El **iScooter i8** es el mechero de la marca: **12 kg**, **~189 £**, motor de *
 
 Unas **189 libras** en Reino Unido; en España llega vía distribuidores europeos. Es de los patinetes con marca más baratos del mercado.
 
-<img src=/media/patinetes/iscooter-i8-2.webp alt=Detalle del iScooter i8 plegado>
+<img src=/media/iscooter-i8-2.jpg alt=Detalle del iScooter i8 plegado>
 
 ## Autonomía real vs declarada
 
@@ -2851,7 +2856,7 @@ Con **30 km/h** de máxima, en España debe ir **limitado a 25 km/h**. Prohibido
 | Ideal estudiantes | Ruedas pequeñas |
 | Plegado compacto | Acabados básicos |
 
-<img src=/media/patinetes/iscooter-i8-3.webp alt=iScooter i8 en la mano de su dueño>
+<img src=/media/iscooter-i8-3.jpg alt=iScooter i8 en la mano de su dueño>
 
 ## Preguntas frecuentes
 
@@ -3069,7 +3074,7 @@ El iX5S tiene más motor (1.000 W), más carga máxima y mejor suspensión. Si e
       "patinete robusto",
       "iscooter 486",
     ],
-    content: `<img src=/media/patinetes/iscooter-ix5s-1.webp alt=iScooter iX5S, vista lateral del patinete robusto>
+    content: `<img src=/media/iscooter-ix5s-hero.jpg alt=iScooter iX5S, vista lateral del patinete robusto>
 
 **¿Solo quieres los números?** <a href=/patinetes/iscooter-ix5s/>Ficha técnica del iScooter iX5S</a>: 1.000 W, 720 Wh, 150 kg de carga. <a href=/comparador-patinetes/>Enfréntalo a sus rivales aquí</a>.
 
@@ -3114,7 +3119,7 @@ Los **neumáticos de 11" con taco** son otra rareza a este precio. En asfalto ag
 
 Aquí el iX5S juega en otra liga: **150 kg de carga máxima** cuando la mayoría de patinetes se queda en 100–120 kg. Para riders corpulentos o para quien lleva mochila pesada a diario, es un argumento de peso (nunca mejor dicho). El chasis de 27,3 kg no es ligero, pero es el precio de la robustez.
 
-<img src=/media/patinetes/iscooter-ix5s-2.webp alt=Detalle de la suspensión del iScooter iX5S>
+<img src=/media/iscooter-ix5s-2.jpg alt=Detalle de la suspensión del iScooter iX5S>
 
 ## Precio del iScooter iX5S: qué pagas y dónde
 
@@ -3143,7 +3148,7 @@ El iX5S declara **45 km/h** de máxima. La norma española es tajante: ningún V
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/tmP9ZAsrqXw title=\\"Prueba del iScooter iX5S\\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
-<img src=/media/patinetes/iscooter-ix5s-3.webp alt=iScooter iX5S en pista forestal>
+<img src=/media/iscooter-ix5s-3.jpg alt=iScooter iX5S en pista forestal>
 
 ## Veredicto: el patinete de los que pesan y suben cuestas
 
