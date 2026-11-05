@@ -18,6 +18,7 @@ import { EURONCAP_EXP19 } from "./euroncap-exp19.ts";
 import { EURONCAP_EXP20 } from "./euroncap-exp20.ts";
 import { EURONCAP_EXP21 } from "./euroncap-exp21.ts";
 import { EURONCAP_ENRIQUECER_T8 } from "./euroncap-enriquecer-t8.ts";
+import { EURONCAP_ENRIQUECER_FN4 } from "./euroncap-enriquecer-fn4.ts";
 import { EURONCAP_ENRIQUECER_T4 } from "./euroncap-enriquecer-t4.ts";
 import { EURONCAP_ENRIQUECER_T2 } from "./euroncap-enriquecer-t2.ts";
 import { EURONCAP_ENRIQUECER_T10 } from "./euroncap-enriquecer-t10.ts";
@@ -5920,4 +5921,5 @@ export const SEGURIDAD_EURONCAP: Record<string, SeguridadEuroNCAP> = {
   ...EURONCAP_ENRIQUECER_T8,
   ...EURONCAP_ENRIQUECER_T10,
   ...EURONCAP_ENRIQUECER_3110,
+  ...EURONCAP_ENRIQUECER_FN4,
 };

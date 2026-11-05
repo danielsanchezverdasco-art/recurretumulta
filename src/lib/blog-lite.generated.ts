@@ -1499,6 +1499,24 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 4
   },
   {
+    "slug": "alpine-a110-precio-ficha-tecnica",
+    "title": "Alpine A110: precio, 252 CV, 1.178 kg y motor central",
+    "excerpt": "El Alpine A110 pesa 1.178 kg y con 252 CV acelera en 4,5 s gastando 6,7 l/100 km desde 67.800 €. La lección francesa de ligereza, a fondo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/alpine-a110.webp",
+    "heroAlt": "Alpine A110 azul en una carretera de curvas",
+    "keywords": [
+      "alpine a110 precio españa",
+      "alpine a110 252 cv peso",
+      "a110 ficha técnica",
+      "deportivo ligero motor central",
+      "alpine a110 consumo"
+    ],
+    "readTime": 4
+  },
+  {
     "slug": "aston-martin-db12-2024-precio-ficha-tecnica",
     "title": "Aston Martin DB12: 680 CV desde 260.000 €",
     "excerpt": "El DB12 se vende en España desde 260.000 €: V8 biturbo de 680 CV, 0-100 en 3,6 s, 325 km/h y un interior por fin a la altura. Ficha, opiniones y rivales.",
@@ -2333,6 +2351,348 @@ export const BLOG_LITE: BlogLitePost[] = [
       "audi rs3 vs mercedes amg a45"
     ],
     "readTime": 3
+  },
+  {
+    "slug": "benimar-tessoro-463-up-2026-precio-ficha-tecnica",
+    "title": "Benimar Tessoro 463 UP 2026: precio, ficha técnica y 5 plazas",
+    "excerpt": "Precio y ficha de la Benimar Tessoro 463 UP 2026: la autocaravana más vendida de España, 5 plazas, carnet B, 7,48 m y chasis Ford Transit desde ~66.000 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/benimar-tessoro-463-up-2026-precio-ficha-tecnica-2.webp",
+    "heroAlt": "Benimar Tessoro 463 UP 2026, autocaravana perfilada",
+    "keywords": [
+      "Benimar Tessoro 463 UP 2026",
+      "Tessoro 463 precio",
+      "Benimar Tessoro 463 ficha técnica",
+      "autocaravana más vendida España",
+      "Tessoro 463 UP plazas",
+      "perfilada 5 plazas carnet B"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "adria-matrix-plus-670-sl-2026-precio-ficha-tecnica",
+    "title": "Adria Matrix Plus 670 SL 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Adria Matrix Plus 670 SL 2026: perfilada eslovena de 7,49 m, 4 plazas, camas gemelas, Fiat Ducato 140 CV y carnet B desde ~79.000 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/adria-matrix-plus-670-sl-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Adria Matrix Plus 670 SL 2026, autocaravana perfilada",
+    "keywords": [
+      "Adria Matrix Plus 670 SL 2026",
+      "Matrix Plus 670 SL precio",
+      "Adria Matrix ficha técnica",
+      "perfilada Adria 4 plazas",
+      "Matrix Plus vs Tessoro",
+      "autocaravana eslovena precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "dethleffs-trend-t-7057-eb-2026-precio-ficha-tecnica",
+    "title": "Dethleffs Trend T 7057 EB 2026: precio, ficha técnica y 5 plazas",
+    "excerpt": "Precio y ficha de la Dethleffs Trend T 7057 EB: perfilada alemana de 7,41 m, 5 plazas, camas gemelas, Fiat Ducato 140 CV y carnet B desde ~75.000 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/dethleffs-trend-t-7057-eb-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Dethleffs Trend T 7057 EB, autocaravana perfilada",
+    "keywords": [
+      "Dethleffs Trend T 7057 EB",
+      "Trend T 7057 precio",
+      "Dethleffs Trend ficha técnica",
+      "perfilada alemana 5 plazas",
+      "Dethleffs vs Benimar",
+      "autocaravana alemana carnet B"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "hymer-b-mc-i-580-2026-precio-ficha-tecnica",
+    "title": "Hymer B-Class ModernComfort I 580 2026: precio y ficha técnica",
+    "excerpt": "Precio y ficha de la Hymer B-Class ModernComfort I 580: integral premium sobre Mercedes Sprinter 150 CV, 5 plazas y carnet B por 138.990 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/hymer-b-mc-i-580-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "Hymer B-Class ModernComfort I 580, autocaravana integral",
+    "keywords": [
+      "Hymer B-Class ModernComfort I 580",
+      "Hymer B-MC I 580 precio",
+      "Hymer integral ficha técnica",
+      "autocaravana integral Mercedes",
+      "Hymer 580 5 plazas",
+      "integral premium carnet B"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "knaus-boxstar-600-dq-2026-precio-ficha-tecnica",
+    "title": "Knaus BoxStar 600 DQ 2026: precio, ficha técnica y camper 6 m",
+    "excerpt": "Precio y ficha de la Knaus BoxStar 600 DQ: camper de 5,99 m sobre Fiat Ducato 140 CV, cama transversal, baño con ducha y carnet B desde ~77.000 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/knaus-boxstar-600-dq-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "Knaus BoxStar 600 DQ, furgoneta camper",
+    "keywords": [
+      "Knaus BoxStar 600 DQ",
+      "BoxStar 600 precio",
+      "Knaus camper ficha técnica",
+      "furgoneta camper 6 metros",
+      "BoxStar vs Pössl",
+      "camper 2 plazas baño ducha"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "burstner-lyseo-td-594-2026-precio-ficha-tecnica",
+    "title": "Bürstner Lyseo TD 594 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Bürstner Lyseo TD 594: perfilada compacta de 5,99 m, 4 plazas, cama abatible, Fiat Ducato 140 CV y carnet B desde ~85.000 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/burstner-lyseo-td-594-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "Bürstner Lyseo TD 594, autocaravana perfilada",
+    "keywords": [
+      "Bürstner Lyseo TD 594",
+      "Lyseo TD 594 precio",
+      "Bürstner Lyseo ficha técnica",
+      "perfilada compacta 6 metros",
+      "Lyseo TD vs Matrix",
+      "autocaravana 4 plazas carnet B"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "volkswagen-california-ocean-2026-precio-ficha-tecnica",
+    "title": "Volkswagen California Ocean 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del Volkswagen California Ocean T7 2026: la camper original, 4 plazas, techo elevable, 2.0 TDI 150 CV DSG y carnet B desde ~75.500 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/volkswagen-california-ocean-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "Volkswagen California Ocean T7 2026, camper con techo elevable",
+    "keywords": [
+      "Volkswagen California Ocean 2026",
+      "California Ocean precio",
+      "VW California ficha técnica",
+      "California Ocean T7 TDI",
+      "camper Volkswagen 4 plazas",
+      "California vs Nugget"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "ford-nugget-plus-2026-precio-ficha-tecnica",
+    "title": "Ford Nugget Plus 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del Ford Nugget Plus 2026: camper Westfalia sobre Tourneo Custom, 4 plazas, techo elevable, diésel o PHEV de 233 CV y carnet B desde ~75.000 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/ford-nugget-plus-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Ford Nugget Plus 2026, camper Westfalia",
+    "keywords": [
+      "Ford Nugget Plus 2026",
+      "Nugget Plus precio",
+      "Ford Nugget ficha técnica",
+      "Nugget Plus PHEV",
+      "camper Ford 4 plazas",
+      "Nugget vs California"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "adria-coral-xl-670-dk-2026-precio-ficha-tecnica",
+    "title": "Adria Coral XL 670 DK 2026: precio, ficha y 7 plazas",
+    "excerpt": "Precio y ficha de la Adria Coral XL 670 DK 2026: capuchina familiar de 7,79 m, 7 plazas, literas traseras, Fiat Ducato 140 CV y carnet B desde ~85.000 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/adria-coral-xl-670-dk-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "Adria Coral XL 670 DK 2026, autocaravana capuchina",
+    "keywords": [
+      "Adria Coral XL 670 DK 2026",
+      "Coral XL 670 DK precio",
+      "Adria Coral XL ficha técnica",
+      "capuchina 7 plazas Adria",
+      "Coral XL vs Matrix",
+      "autocaravana familiar 7 plazas"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "dethleffs-globebus-t-6-2026-precio-ficha-tecnica",
+    "title": "Dethleffs Globebus T 6 2026: precio, ficha y 4 plazas",
+    "excerpt": "Precio y ficha de la Dethleffs Globebus T 6 2026: perfilada compacta alemana de 6,98 m, camas gemelas, Fiat Ducato 140 CV y carnet B desde ~77.000 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/dethleffs-globebus-t-6-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "Dethleffs Globebus T 6 2026, autocaravana perfilada",
+    "keywords": [
+      "Dethleffs Globebus T 6 2026",
+      "Globebus T 6 precio",
+      "Dethleffs Globebus ficha técnica",
+      "perfilada compacta alemana",
+      "Globebus T 6 vs Trend",
+      "autocaravana 7 metros carnet B"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "rapido-666f-2026-precio-ficha-tecnica",
+    "title": "Rapido 666F 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha del Rapido 666F 2026: perfilada francesa de 7,49 m, camas gemelas, techo SKYVIEW, Fiat Ducato 140 CV y carnet B desde ~76.500 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/rapido-666f-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "Rapido 666F 2026, autocaravana perfilada",
+    "keywords": [
+      "Rapido 666F 2026",
+      "666F precio",
+      "Rapido 666F ficha técnica",
+      "perfilada francesa Rapido",
+      "Rapido 65 ans",
+      "666F vs Matrix"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "hymer-ml-t-570-crossover-2026-precio-ficha-tecnica",
+    "title": "Autocaravana 190 CV con tracción 4x4: precio y ficha técnica",
+    "excerpt": "Precio y ficha del Hymer ML-T 570 CrossOver 2026: perfilada Mercedes Sprinter 190 CV, 4.100 kg de MMA, 4x4 opcional y camas gemelas desde ~162.740 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/hymer-ml-t-570-crossover-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "Hymer ML-T 570 CrossOver 2026, perfilada sobre Mercedes Sprinter",
+    "keywords": [
+      "Hymer ML-T 570 CrossOver 2026",
+      "ML-T 570 CrossOver precio",
+      "Hymer ML-T 570 ficha técnica",
+      "perfilada Mercedes Sprinter 4x4",
+      "Hymer CrossOver carnet C1",
+      "autocaravana expedition 190 CV"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "knaus-sky-wave-650-meg-2026-precio-ficha-tecnica",
+    "title": "Perfilada 4 plazas con cama abatible: precio y ficha técnica",
+    "excerpt": "Precio y ficha del Knaus Sky Wave 650 MEG 2026: perfilada Fiat Ducato 140 CV, camas gemelas, cama abatible, 4 plazas y carnet B desde ~75.000 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/knaus-sky-wave-650-meg-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "Knaus Sky Wave 650 MEG 2026, autocaravana perfilada",
+    "keywords": [
+      "Knaus Sky Wave 650 MEG 2026",
+      "Sky Wave 650 MEG precio",
+      "Knaus Sky Wave ficha técnica",
+      "perfilada 4 plazas carnet B",
+      "Knaus Live Wave 650 MEG",
+      "autocaravana cama abatible"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "burstner-nexxo-van-t-569-2026-precio-ficha-tecnica",
+    "title": "Perfilada compacta de 5,99 m: precio y ficha técnica",
+    "excerpt": "Precio y ficha del Bürstner Nexxo Van T 569 2026: perfilada compacta de 5,99 m, camas gemelas de 200 cm, 140 CV y carnet B desde 61.980 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/burstner-nexxo-van-t-569-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "Bürstner Nexxo Van T 569 2026, perfilada compacta",
+    "keywords": [
+      "Bürstner Nexxo Van T 569 2026",
+      "Nexxo Van T 569 precio",
+      "Bürstner Nexxo Van ficha técnica",
+      "perfilada compacta 6 metros",
+      "autocaravana barata carnet B",
+      "Nexxo Van camper o perfilada"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "pilote-p-696-gj-2026-precio-ficha-tecnica",
+    "title": "Perfilada 5 plazas con camas gemelas: precio y ficha técnica",
+    "excerpt": "Precio y ficha del Pilote P 696 GJ 2026: perfilada francesa de 6,99 m, camas gemelas, 5 plazas, Fiat Ducato 140 CV y carnet B desde ~75.000 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/pilote-p-696-gj-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "Pilote P 696 GJ 2026, autocaravana perfilada Pacific",
+    "keywords": [
+      "Pilote P 696 GJ 2026",
+      "Pilote P696GJ precio",
+      "Pilote P690GJ ficha técnica",
+      "Pilote Pacific perfilada",
+      "perfilada francesa 5 plazas",
+      "autocaravana camas gemelas carnet B"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "benimar-mileo-282-2026-precio-ficha-tecnica",
+    "title": "Benimar Mileo 282 2026: precio, ficha técnica y salón en U",
+    "excerpt": "Precio y ficha de la Benimar Mileo 282 2026: perfilada de 7,39 m con salón en U, cama basculante eléctrica y Fiat Ducato 140 CV desde ~70.000 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/benimar-mileo-282-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "Benimar Mileo 282 2026, autocaravana perfilada",
+    "keywords": [
+      "Benimar Mileo 282 2026",
+      "Mileo 282 precio",
+      "Benimar Mileo 282 ficha técnica",
+      "perfilada salón en U",
+      "Mileo 282 plazas",
+      "autocaravana 7,39 metros"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "challenger-v-217-2026-precio-ficha-tecnica",
+    "title": "Challenger V 217 2026: precio, ficha técnica y camas gemelas",
+    "excerpt": "Precio y ficha del Challenger V 217 2026: furgoneta camper de 6,36 m con camas individuales traseras, Fiat Ducato 140 CV y 4 plazas desde ~65.000 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/challenger-v-217-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "Challenger V 217 2026, furgoneta camper",
+    "keywords": [
+      "Challenger V 217 2026",
+      "Challenger V217 precio",
+      "Challenger V 217 ficha técnica",
+      "furgoneta camper camas gemelas",
+      "Challenger van 2026",
+      "camper 6,36 metros"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "mclouis-menfys-3-s-line-2026-precio-ficha-tecnica",
+    "title": "McLouis Menfys 3 S-Line 2026: precio, ficha y 4 plazas",
+    "excerpt": "Precio y ficha del McLouis Menfys 3 S-Line 2026: camper de 5,99 m con 4 plazas homologadas, calefacción diésel y Fiat Ducato 140 CV desde ~55.490 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/mclouis-menfys-3-s-line-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "McLouis Menfys 3 S-Line 2026, furgoneta camper",
+    "keywords": [
+      "McLouis Menfys 3 S-Line 2026",
+      "Menfys 3 precio",
+      "McLouis Menfys ficha técnica",
+      "camper 4 plazas 6 metros",
+      "Menfys S-Line plazas",
+      "furgoneta camper Fiat Ducato"
+    ],
+    "readTime": 4
   },
   {
     "slug": "adria-coral-plus-670-sl-precio-ficha-tecnica",
@@ -14384,6 +14744,78 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 3
   },
   {
+    "slug": "bmw-serie-3-318-precio-ficha-tecnica",
+    "title": "BMW Serie 3 318: precio, 156 CV y tracción trasera",
+    "excerpt": "El BMW Serie 3 318 abre la gama de la berlina deportiva: 156 CV, tracción trasera y chasis de referencia desde 49.100 €. Ficha completa y análisis.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/bmw-serie-3-318.webp",
+    "heroAlt": "BMW Serie 3 318 en una carretera secundaria",
+    "keywords": [
+      "bmw serie 3 318 precio",
+      "bmw 318 156 cv ficha técnica",
+      "serie 3 tracción trasera",
+      "bmw 318 consumo",
+      "berlina premium acceso"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "bmw-m2-coupe-precio-ficha-tecnica",
+    "title": "BMW M2 Coupé: precio, 480 CV, 550 Nm y cambio manual",
+    "excerpt": "El BMW M2 Coupé reúne 480 CV, seis cilindros, tracción trasera y cambio manual opcional desde 98.500 €. El M más divertido de la gama, analizado.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/bmw-m2-coupe.webp",
+    "heroAlt": "BMW M2 Coupé en un circuito al atardecer",
+    "keywords": [
+      "bmw m2 coupé precio",
+      "bmw m2 480 cv ficha técnica",
+      "m2 cambio manual",
+      "bmw m2 consumo prestaciones",
+      "coupé deportivo seis cilindros"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "bmw-m4-competition-precio-ficha-tecnica",
+    "title": "BMW M4 Competition: precio, 510 CV, 650 Nm y 3,9 s",
+    "excerpt": "El BMW M4 Competition entrega 510 CV y 650 Nm con un 0-100 en 3,9 s desde 100.000 €. La referencia del coupé deportivo, a fondo en esta ficha-blog.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/bmw-m4-competition.webp",
+    "heroAlt": "BMW M4 Competition en una carretera de montaña",
+    "keywords": [
+      "bmw m4 competition precio",
+      "m4 competition 510 cv ficha técnica",
+      "bmw m4 0-100 3,9",
+      "m4 competition consumo",
+      "coupé deportivo 2026"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "bmw-z4-sdrive20i-precio-ficha-tecnica",
+    "title": "BMW Z4 sDrive20i: precio, 197 CV, 320 Nm y capota de lona",
+    "excerpt": "El BMW Z4 sDrive20i ofrece 197 CV, tracción trasera, el mejor maletero entre roadsters y 5 estrellas Euro NCAP desde 60.500 €. Análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/bmw-z4-sdrive20i.webp",
+    "heroAlt": "BMW Z4 sDrive20i descapotado en una carretera de curvas",
+    "keywords": [
+      "bmw z4 sdrive20i precio",
+      "z4 197 cv ficha técnica",
+      "bmw z4 roadster capota lona",
+      "z4 maletero 281",
+      "descapotable premium españa"
+    ],
+    "readTime": 4
+  },
+  {
     "slug": "byd-dolphin-2025-precio-ficha-tecnica",
     "title": "BYD Dolphin: 427 km de autonomía por 36.690 €",
     "excerpt": "Precio, ficha técnica y autonomía del BYD Dolphin Comfort: 204 CV, 427 km WLTP, carga de 88 kW y etiqueta Cero desde 36.690 €.",
@@ -15707,6 +16139,766 @@ export const BLOG_LITE: BlogLitePost[] = [
       "caravana compacta premium"
     ],
     "readTime": 2
+  },
+  {
+    "slug": "lmc-sassino-430-d-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "LMC Sassino 430 D 2026: precio, ficha técnica y 3 plazas",
+    "excerpt": "La LMC Sassino 430 D 2026 cuesta desde 18.300 €: 3 plazas, 6,26 m, 927 kg y carnet B. Precio de tarifa austriaca, ficha técnica y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/lmc-sassino-430-d-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "LMC Sassino 430 D 2026, vista lateral",
+    "keywords": [
+      "LMC Sassino 430 D 2026",
+      "Sassino 430 D precio",
+      "LMC Sassino ficha técnica",
+      "caravana 3 plazas barata",
+      "caravana ligera carnet B",
+      "LMC Sassino vs Style"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "lmc-sassino-470-k-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "LMC Sassino 470 K 2026: precio, ficha técnica y 6 plazas",
+    "excerpt": "La LMC Sassino 470 K 2026 cuesta desde 20.400 €: 6 plazas con literas, 7,15 m, 1.360 kg de MMA y carnet B. Ficha técnica y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/lmc-sassino-470-k-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "LMC Sassino 470 K 2026, vista lateral",
+    "keywords": [
+      "LMC Sassino 470 K 2026",
+      "Sassino 470 K precio",
+      "LMC Sassino ficha técnica",
+      "caravana 6 plazas literas",
+      "caravana familiar barata",
+      "Sassino 470 K vs 430 D"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "lmc-style-450-d-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "LMC Style 450 D 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "La LMC Style 450 D 2026 cuesta desde 22.900 €: 4 plazas, 7,35 m, diseño escandinavo y carnet B. Precio de tarifa austriaca y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/lmc-style-450-d-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "LMC Style 450 D 2026, vista trasera",
+    "keywords": [
+      "LMC Style 450 D 2026",
+      "Style 450 D precio",
+      "LMC Style ficha técnica",
+      "caravana diseño escandinavo",
+      "caravana 4 plazas",
+      "LMC Style vs Sassino"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "lmc-style-lift-500-k-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "LMC Style Lift 500 K 2026: precio, ficha y 7 plazas",
+    "excerpt": "LMC Style Lift 500 K 2026 desde 26.800 €: 7 plazas con cama elevable, 7,58 m y carnet B. Ficha técnica, precio de tarifa austriaca y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/lmc-style-lift-500-k-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "LMC Style Lift 500 K 2026, vista lateral",
+    "keywords": [
+      "LMC Style Lift 500 K 2026",
+      "Style Lift 500 K precio",
+      "LMC cama elevable",
+      "caravana 7 plazas",
+      "caravana familiar numerosa",
+      "Style Lift vs Sassino"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "lmc-videro-580-d-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "LMC Videro 580 D 2026: precio, ficha técnica y carnet B96",
+    "excerpt": "La LMC Videro 580 D 2026 cuesta desde 37.900 €: 3 plazas, 7,87 m, 1.800 kg de MMA y carnet B96. La gama alta de LMC, ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/lmc-videro-580-d-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "LMC Videro 580 D 2026, vista lateral",
+    "keywords": [
+      "LMC Videro 580 D 2026",
+      "Videro 580 D precio",
+      "LMC Videro ficha técnica",
+      "caravana gama alta",
+      "caravana diseño Japandi",
+      "LMC Videro vs Style"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "kabe-ametist-560-gle-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Kabe Ametist 560 GLE 2026: precio, ficha y 4 plazas",
+    "excerpt": "La Kabe Ametist 560 GLE 2026 cuesta desde 53.550 €: 4 plazas, 7,80 m, 1.640 kg de MMA y carnet B96. Precio de tarifa finlandesa y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/kabe-ametist-560-gle-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Kabe Ametist 560 GLE 2026, vista lateral",
+    "keywords": [
+      "Kabe Ametist 560 GLE 2026",
+      "Ametist 560 GLE precio",
+      "Kabe caravana ficha técnica",
+      "caravana sueca",
+      "Kabe Ametist vs Royal",
+      "caravana 4 plazas premium"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "kabe-royal-560-gle-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Kabe Royal 560 GLE 2026: precio, ficha técnica, 4 plazas",
+    "excerpt": "La Kabe Royal 560 GLE 2026 cuesta desde 64.000 €: 4 plazas, 7,80 m, 200 kg de carga útil y carnet B96. Ficha técnica, precio y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/kabe-royal-560-gle-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Kabe Royal 560 GLE 2026, vista lateral",
+    "keywords": [
+      "Kabe Royal 560 GLE 2026",
+      "Royal 560 GLE precio",
+      "Kabe Royal ficha técnica",
+      "caravana sueca 4 plazas",
+      "Kabe Royal vs Ametist",
+      "caravana premium carnet B96"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "kabe-royal-600-cxl-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Kabe Royal 600 CXL 2026: precio, ficha técnica, 2 plazas",
+    "excerpt": "La Kabe Royal 600 CXL 2026 cuesta desde 76.050 €: 2 plazas para parejas, 8,20 m y carnet B96. Precio de tarifa finlandesa, ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/kabe-royal-600-cxl-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Kabe Royal 600 CXL 2026, vista lateral",
+    "keywords": [
+      "Kabe Royal 600 CXL 2026",
+      "Royal 600 CXL precio",
+      "Kabe caravana 2 plazas",
+      "caravana para parejas",
+      "Kabe Royal ficha técnica",
+      "caravana grande 2 personas"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "kabe-imperial-630-tdl-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Kabe Imperial 630 TDL 2026: precio y ficha técnica",
+    "excerpt": "La Kabe Imperial 630 TDL 2026 cuesta desde 87.050 €: 4 plazas, 8,50 m, 2,50 m de ancho y carnet B96. La gama alta sueca, ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/kabe-imperial-630-tdl-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Kabe Imperial 630 TDL 2026, vista lateral",
+    "keywords": [
+      "Kabe Imperial 630 TDL 2026",
+      "Imperial 630 TDL precio",
+      "Kabe Imperial ficha técnica",
+      "caravana gama alta",
+      "caravana 250 cm ancho",
+      "Kabe Imperial vs Royal"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "kabe-imperial-780-tdl-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Kabe Imperial 780 TDL 2026: precio, ficha y carnet BE",
+    "excerpt": "La Kabe Imperial 780 TDL 2026 cuesta desde 104.350 €: 4 plazas, 9,40 m, tándem y carnet BE. La insignia de Kabe, ficha técnica y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/kabe-imperial-780-tdl-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Kabe Imperial 780 TDL 2026, vista lateral",
+    "keywords": [
+      "Kabe Imperial 780 TDL 2026",
+      "Imperial 780 TDL precio",
+      "Kabe caravana tándem",
+      "caravana 9 metros",
+      "caravana carnet BE",
+      "Kabe insignia"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "bailey-phoenix-black-420-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Bailey Phoenix Black 420 2026: precio, 2 plazas y 1.186 kg",
+    "excerpt": "La Bailey Phoenix Black 420 2026 cuesta 24.999 £ (~29.669 €, tarifa Reino Unido), pesa 1.186 kg de MMA y ofrece 2 plazas con baño completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/bailey-phoenix-black-420-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Bailey Phoenix Black 420 2026, vista exterior",
+    "keywords": [
+      "Bailey Phoenix Black 420",
+      "precio caravana Bailey",
+      "caravana 2 plazas ligera",
+      "Bailey Phoenix 2026",
+      "MMA 1186 kg",
+      "carnet B caravana"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "bailey-phoenix-black-644-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Bailey Phoenix Black 644 2026: precio, 4 plazas y 1.437 kg",
+    "excerpt": "La Bailey Phoenix Black 644 2026 cuesta 27.499 £ (~32.636 €, tarifa Reino Unido), con cama isla retráctil, 4 plazas y 1.437 kg de MMA.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/bailey-phoenix-black-644-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Bailey Phoenix Black 644 2026, vista exterior",
+    "keywords": [
+      "Bailey Phoenix Black 644",
+      "caravana cama isla retractil",
+      "precio Bailey Phoenix 644",
+      "caravana 4 plazas 1437 kg",
+      "Bailey 2026",
+      "caravana un eje familiar"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "bailey-pegasus-black-brindisi-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Bailey Pegasus Black Brindisi 2026: precio, 8 ft y 4 plazas",
+    "excerpt": "La Bailey Pegasus Black Brindisi 2026 cuesta 31.499 £ (~37.383 €, tarifa Reino Unido): 4 plazas, 2,43 m de ancho, un solo eje y 1.546 kg.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/bailey-pegasus-black-brindisi-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Bailey Pegasus Black Brindisi 2026, vista exterior",
+    "keywords": [
+      "Bailey Pegasus Black Brindisi",
+      "caravana 8 pies",
+      "precio Pegasus Brindisi",
+      "caravana 1546 kg",
+      "Bailey Pegasus 2026",
+      "caravana ancha un eje"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "bailey-pegasus-black-messina-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Bailey Pegasus Black Messina 2026: precio, 2 ejes, 1.712 kg",
+    "excerpt": "La Bailey Pegasus Black Messina 2026 cuesta 34.499 £ (~40.942 €, tarifa Reino Unido): doble eje, 1.712 kg, 4 plazas y cama isla king.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/bailey-pegasus-black-messina-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Bailey Pegasus Black Messina 2026, vista exterior",
+    "keywords": [
+      "Bailey Pegasus Black Messina",
+      "caravana doble eje",
+      "precio Pegasus Messina",
+      "caravana 1712 kg",
+      "Bailey doble eje 2026",
+      "caravana cama isla king"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "bailey-unicorn-deluxe-cabrera-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Bailey Unicorn Deluxe Cabrera 2026: 1.600 kg y precio",
+    "excerpt": "La Bailey Unicorn Deluxe Cabrera 2026 cuesta 33.399 £ (~39.637 €, tarifa Reino Unido): 4 plazas, 1.600 kg de MMA y cama isla. El icono premium de Bailey.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/bailey-unicorn-deluxe-cabrera-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Bailey Unicorn Deluxe Cabrera 2026, vista exterior",
+    "keywords": [
+      "Bailey Unicorn Deluxe Cabrera",
+      "precio Unicorn Cabrera",
+      "caravana cama isla 1600 kg",
+      "Bailey Unicorn 2026",
+      "caravana premium britanica",
+      "caravana 4 plazas lujo"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "swift-sprite-alpine-4-db-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Swift Sprite Alpine 4 DB 2026: precio, 4 plazas y 1.263 kg",
+    "excerpt": "La Swift Sprite Alpine 4 DB 2026 cuesta desde 21.495 £ (~25.510 €, tarifa Reino Unido): 4 plazas, literas traseras y 1.263 kg de MMA.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/swift-sprite-alpine-4-db-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Swift Sprite Alpine 4 DB 2026, vista exterior",
+    "keywords": [
+      "Swift Sprite Alpine 4 DB",
+      "caravana con literas",
+      "precio Sprite Alpine",
+      "caravana ligera 4 plazas",
+      "Swift Sprite 2026",
+      "caravana familiar barata"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "swift-sprite-major-4-eb-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Swift Sprite Major 4 EB 2026: precio, 1.378 kg y cama isla",
+    "excerpt": "La Swift Sprite Major 4 EB 2026 cuesta 23.685 £ (~28.109 €, tarifa Reino Unido): 4 plazas con cama isla trasera y 1.378 kg de MMA.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/swift-sprite-major-4-eb-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Swift Sprite Major 4 EB 2026, vista exterior",
+    "keywords": [
+      "Swift Sprite Major 4 EB",
+      "caravana cama isla barata",
+      "precio Sprite Major",
+      "caravana 1378 kg",
+      "Swift 2026 cama isla",
+      "caravana 4 plazas economica"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "swift-challenger-390-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Swift Challenger 390 2026: precio, 2 plazas y solo 1.118 kg",
+    "excerpt": "La Swift Challenger 390 2026 cuesta desde 25.195 £ (~29.901 €, tarifa Reino Unido): 2 plazas, 1.118 kg, 2,03 m de ancho y la nueva Truma CombiNeo de serie.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/swift-challenger-390-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Swift Challenger 390 2026, vista exterior",
+    "keywords": [
+      "Swift Challenger 390",
+      "Truma CombiNeo",
+      "caravana estrecha 2 plazas",
+      "precio Challenger 390",
+      "caravana ligera 1118 kg",
+      "Swift Challenger 2026"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "swift-challenger-580-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Swift Challenger 580 2026: precio, cama isla y 1.510 kg",
+    "excerpt": "La Swift Challenger 580 2026 cuesta 30.095 £ (~35.717 €, tarifa Reino Unido): 4 plazas con cama isla transversal, 1.510 kg y Truma CombiNeo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/swift-challenger-580-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Swift Challenger 580 2026, vista exterior",
+    "keywords": [
+      "Swift Challenger 580",
+      "caravana cama isla transversal",
+      "precio Challenger 580",
+      "caravana 1510 kg",
+      "Swift 4 plazas familiar",
+      "Truma CombiNeo caravana"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "swift-elegance-grande-860-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Swift Elegance Grande 860 2026: precio, lujo y 2.055 kg",
+    "excerpt": "La Swift Elegance Grande 860 2026 cuesta desde 48.215 £ (~57.222 €, tarifa Reino Unido): doble eje, 2.055 kg, 8 pies de ancho y calefacción Alde.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/swift-elegance-grande-860-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Swift Elegance Grande 860 2026, vista exterior",
+    "keywords": [
+      "Swift Elegance Grande 860",
+      "caravana lujo Alde",
+      "precio Elegance Grande",
+      "caravana doble eje lujo",
+      "caravana 2055 kg",
+      "suelo radiante caravana"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "sterckeman-easy-350-cp-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Sterckeman Easy 350 CP 2026: precio, 3 plazas y 850 kg",
+    "excerpt": "La Sterckeman Easy 350 CP 2026 parte de 14.990 €: 3 plazas, 764 kg y PTAC de 850 kg. Análisis completo con ficha técnica, carnet B y opinión honesta.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/sterckeman-easy-350-cp-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Sterckeman Easy 350 CP 2026, vista lateral",
+    "keywords": [
+      "Sterckeman Easy 350 CP",
+      "Easy 350 CP 2026 precio",
+      "caravana ligera 850 kg",
+      "caravana 3 plazas",
+      "Sterckeman Easy 2026",
+      "caravana barata nueva"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "sterckeman-easy-460-cp-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Sterckeman Easy 460 CP 2026: precio y cama central XL",
+    "excerpt": "La Sterckeman Easy 460 CP 2026 cuesta desde 19.490 € con cama central, 4 plazas y PTAC de 1.100 kg. Ficha técnica, medidas, carnet y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/sterckeman-easy-460-cp-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Sterckeman Easy 460 CP 2026, vista lateral",
+    "keywords": [
+      "Sterckeman Easy 460 CP",
+      "Easy 460 CP 2026 precio",
+      "caravana cama central",
+      "caravana 4 plazas",
+      "Sterckeman Easy 2026",
+      "caravana familiar ligera"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "sterckeman-easy-462-lj-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Sterckeman Easy 462 LJ 2026: precio y camas gemelas",
+    "excerpt": "La Sterckeman Easy 462 LJ 2026 parte de 19.490 €: camas gemelas convertibles en king size, 4 plazas y 1.050 kg de PTAC. Análisis y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/sterckeman-easy-462-lj-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Sterckeman Easy 462 LJ 2026, vista lateral",
+    "keywords": [
+      "Sterckeman Easy 462 LJ",
+      "Easy 462 LJ 2026 precio",
+      "caravana camas gemelas",
+      "caravana 4 plazas",
+      "Sterckeman Easy 2026",
+      "caravana lit jumeaux"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "sterckeman-easy-470-pe-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Sterckeman Easy 470 PE 2026: precio y 6 plazas reales",
+    "excerpt": "La Sterckeman Easy 470 PE 2026 cuesta desde 19.990 €: 6 plazas con literas, cama fija, 2,30 m de ancho y PTAC de 1.150 kg. Ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/sterckeman-easy-470-pe-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Sterckeman Easy 470 PE 2026, vista lateral",
+    "keywords": [
+      "Sterckeman Easy 470 PE",
+      "Easy 470 PE 2026 precio",
+      "caravana 6 plazas",
+      "caravana con literas",
+      "Sterckeman Easy 2026",
+      "caravana familiar barata"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "sterckeman-easy-487-pe-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Sterckeman Easy 487 PE 2026: precio y 7 plazas, única",
+    "excerpt": "La Sterckeman Easy 487 PE 2026, desde 21.990 €, es la única caravana de 7 plazas: triple litera, cama fija y dinette. Ficha técnica y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/sterckeman-easy-487-pe-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Sterckeman Easy 487 PE 2026, vista lateral",
+    "keywords": [
+      "Sterckeman Easy 487 PE",
+      "Easy 487 PE 2026 precio",
+      "caravana 7 plazas",
+      "caravana triple litera",
+      "Sterckeman Easy 2026",
+      "caravana familia numerosa"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "caravelair-alba-366-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Caravelair Alba 366 2026: precio, 750 kg y 4 plazas",
+    "excerpt": "La Caravelair Alba 366 2026 parte de 15.990 € con PTAC de 750 kg, 679 kg en orden de marcha y 4 plazas. Ficha técnica completa y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/caravelair-alba-366-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Caravelair Alba 366 2026, vista lateral",
+    "keywords": [
+      "Caravelair Alba 366",
+      "Alba 366 2026 precio",
+      "caravana 750 kg",
+      "caravana ligera 4 plazas",
+      "Caravelair Alba 2026",
+      "caravana sin carnet especial"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "caravelair-alba-400-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Caravelair Alba 400 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "La Caravelair Alba 400 2026 cuesta desde 17.490 €: 4 plazas, PTAC de 950 kg ampliable a 1.300 kg y WC de cassette. Ficha técnica y análisis.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/caravelair-alba-400-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Caravelair Alba 400 2026, vista lateral",
+    "keywords": [
+      "Caravelair Alba 400",
+      "Alba 400 2026 precio",
+      "caravana 4 plazas",
+      "caravana PTAC 950",
+      "Caravelair Alba 2026",
+      "caravana familiar ligera"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "caravelair-alba-460-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Caravelair Alba 460 2026: precio y 6,95 m de caravana",
+    "excerpt": "La Caravelair Alba 460 2026, desde 19.490 €, es la Alba más grande: 6,95 m, 5 m interiores, 4 plazas y PTAC de 1.100 kg. Ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/caravelair-alba-460-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Caravelair Alba 460 2026, vista lateral",
+    "keywords": [
+      "Caravelair Alba 460",
+      "Alba 460 2026 precio",
+      "caravana grande 4 plazas",
+      "caravana 6,95 metros",
+      "Caravelair Alba 2026",
+      "caravana familiar espaciosa"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "caravelair-sport-line-410-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Caravelair Sport Line 410 2026: precio y cama francesa",
+    "excerpt": "La Caravelair Sport Line 410 2026 parte de 21.990 € con cama francesa de 198 cm, diseño Campovolo, 3 plazas y PTAC de 1.100 kg. Análisis.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/caravelair-sport-line-410-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Caravelair Sport Line 410 2026, vista lateral",
+    "keywords": [
+      "Caravelair Sport Line 410",
+      "Sport Line 410 2026 precio",
+      "caravana cama francesa",
+      "caravana 3 plazas",
+      "Caravelair Sport Line 2026",
+      "caravana diseño deportivo"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "caravelair-sport-line-476-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Caravelair Sport Line 476 2026: precio, 5 plazas y garaje",
+    "excerpt": "La Caravelair Sport Line 476 2026 cuesta desde 24.490 €: 5 plazas, literas de 73x212, garaje para bicis y PTAC de 1.250 kg. Ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/caravelair-sport-line-476-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Caravelair Sport Line 476 2026, vista lateral",
+    "keywords": [
+      "Caravelair Sport Line 476",
+      "Sport Line 476 2026 precio",
+      "caravana con garaje",
+      "caravana 5 plazas",
+      "Caravelair Sport Line 2026",
+      "caravana familiar bicis"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "fendt-bianco-activ-560-skm-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Fendt Bianco Activ 560 SKM 2026: precio, 5 plazas y 1.800 kg",
+    "excerpt": "La Fendt Bianco Activ 560 SKM 2026 parte de 36.090 €: 5 plazas, literas traseras, 1.800 kg de MMA y carnet B. Análisis completo con ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/fendt-bianco-activ-560-skm-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Fendt Bianco Activ 560 SKM 2026, vista lateral",
+    "keywords": [
+      "Fendt Bianco Activ 560 SKM",
+      "Bianco Activ 560 SKM 2026 precio",
+      "caravana 5 plazas",
+      "caravana con literas",
+      "Fendt Bianco Activ 2026",
+      "caravana familiar 1800 kg"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "fendt-bianco-activ-465-sge-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Fendt Bianco Activ 465 SGE 2026: precio y camas individuales",
+    "excerpt": "La Fendt Bianco Activ 465 SGE 2026 cuesta desde 30.870 €: camas individuales de 85x200, 2 plazas y 1.600 kg. Ficha técnica, carnet B y análisis honesto.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/fendt-bianco-activ-465-sge-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Fendt Bianco Activ 465 SGE 2026, vista trasera lateral",
+    "keywords": [
+      "Fendt Bianco Activ 465 SGE",
+      "Bianco Activ 465 SGE 2026 precio",
+      "caravana 2 plazas",
+      "caravana camas individuales",
+      "Fendt Bianco Activ 2026",
+      "caravana pareja 1600 kg"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "fendt-tendenza-560-sfdw-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Fendt Tendenza 560 SFDW 2026: precio y calefacción por agua",
+    "excerpt": "La Fendt Tendenza 560 SFDW 2026 parte de 44.470 € con calefacción por agua caliente ALDE de serie, cama francesa y 4 plazas. Análisis y ficha completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/fendt-tendenza-560-sfdw-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Fendt Tendenza 560 SFDW 2026, vista delantera",
+    "keywords": [
+      "Fendt Tendenza 560 SFDW",
+      "Tendenza 560 SFDW 2026 precio",
+      "caravana calefacción ALDE",
+      "caravana 4 estaciones",
+      "Fendt Tendenza 2026",
+      "caravana cama francesa"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "fendt-diamant-650-gdw-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Fendt Diamant 650 GDW 2026: precio, doble eje y lujo total",
+    "excerpt": "La Fendt Diamant 650 GDW 2026 parte de 59.370 €: doble eje, 8,60 m, ALDE y 4 plazas de lujo. Análisis completo con ficha técnica y carnet necesario.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/fendt-diamant-650-gdw-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Fendt Diamant 650 GDW 2026, vista trasera",
+    "keywords": [
+      "Fendt Diamant 650 GDW",
+      "Diamant 650 GDW 2026 precio",
+      "caravana doble eje",
+      "caravana lujo",
+      "Fendt Diamant 2026",
+      "caravana 8600 mm"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "tabbert-pantiga-490-e-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Tabbert Pantiga 490 E 2026: precio, 2 plazas y 2.000 kg",
+    "excerpt": "La Tabbert Pantiga 490 E 2026 ronda los 34.900 € en Alemania: 2 plazas, MMA de 2.000 kg y diseño renovado. Análisis con ficha técnica y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/tabbert-pantiga-490-e-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Tabbert Pantiga 490 E 2026, vista delantera",
+    "keywords": [
+      "Tabbert Pantiga 490 E",
+      "Pantiga 490 E 2026 precio",
+      "caravana Tabbert 2 plazas",
+      "Tabbert Pantiga 2026",
+      "caravana pareja premium",
+      "Tabbert Finest Edition"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "tabbert-cazadora-460-e-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Tabbert Cazadora 460 E 2026: precio, 4 plazas y 1.400 kg",
+    "excerpt": "La Tabbert Cazadora 460 E 2026 parte de 27.365 € en Alemania: 4 plazas, 6,97 m y MMA de 1.400 kg con carnet B. Análisis completo y ficha técnica.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/tabbert-cazadora-460-e-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Tabbert Cazadora 460 E 2026, vista frontal",
+    "keywords": [
+      "Tabbert Cazadora 460 E",
+      "Cazadora 460 E 2026 precio",
+      "caravana barata 4 plazas",
+      "Tabbert Cazadora 2026",
+      "caravana iniciación",
+      "caravana 1400 kg"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "tabbert-senara-550-dmk-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Tabbert Senara 550 DMK 2026: precio y 5 plazas familiares",
+    "excerpt": "La Tabbert Senara 550 DMK 2026 parte de 28.990 € en Alemania: literas, 4-5 plazas y 2,50 m de ancho. Análisis familiar con ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/tabbert-senara-550-dmk-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Tabbert Senara 550 DMK 2026, vista trasera lateral",
+    "keywords": [
+      "Tabbert Senara 550 DMK",
+      "Senara 550 DMK 2026 precio",
+      "caravana familiar literas",
+      "Tabbert Senara 2026",
+      "caravana 5 plazas",
+      "caravana 250 ancho"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "tabbert-da-vinci-495-he-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Tabbert Da Vinci 495 HE 2026: precio UPE y 4 plazas",
+    "excerpt": "La Tabbert Da Vinci 495 HE 2026 tiene un UPE de 39.220 € en Alemania: 4 plazas, 7,30 m y MMA de 1.700 kg. Análisis con ficha técnica y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/tabbert-da-vinci-495-he-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Tabbert Da Vinci 495 HE 2026, vista trasera",
+    "keywords": [
+      "Tabbert Da Vinci 495 HE",
+      "Da Vinci 495 HE 2026 precio",
+      "caravana Tabbert gama media",
+      "Tabbert Da Vinci 2026",
+      "caravana 4 plazas premium",
+      "Tabbert 730 cm"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "dethleffs-nomad-520-elt-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Dethleffs Nomad 520 ELT 2026: precio y camas individuales",
+    "excerpt": "La Dethleffs Nomad 520 ELT 2026 parte de 33.499 €: camas individuales, 3 plazas y 2.000 kg de MMA. Análisis completo con ficha técnica y carnet.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/dethleffs-nomad-520-elt-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Dethleffs Nomad 520 ELT 2026, vista lateral",
+    "keywords": [
+      "Dethleffs Nomad 520 ELT",
+      "Nomad 520 ELT 2026 precio",
+      "caravana Dethleffs 3 plazas",
+      "Dethleffs Nomad 2026",
+      "caravana camas individuales",
+      "caravana 2000 kg"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "dethleffs-beduin-scandinavia-690-bqt-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Dethleffs Beduin Scandinavia 690 BQT: precio y cama queen",
+    "excerpt": "La Dethleffs Beduin Scandinavia 690 BQT 2026 parte de 56.190 €: cama queen, doble eje, calefacción por agua y 4 plazas nórdicas. Análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "/media/dethleffs-beduin-scandinavia-690-bqt-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Dethleffs Beduin Scandinavia 690 BQT 2026, vista lateral",
+    "keywords": [
+      "Dethleffs Beduin Scandinavia 690 BQT",
+      "Beduin Scandinavia 690 BQT precio",
+      "caravana nórdica",
+      "caravana cama queen",
+      "Dethleffs Beduin 2026",
+      "caravana invierno"
+    ],
+    "readTime": 5
   },
   {
     "slug": "changan-e06-2026-precio-ficha-tecnica",
@@ -24284,6 +25476,42 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 3
   },
   {
+    "slug": "dacia-duster-hybrid-2024-precio-y-opinion",
+    "title": "Dacia Duster Hybrid 140: precio, 140 CV, 5,0 l y ECO",
+    "excerpt": "El Dacia Duster Hybrid 140 es el SUV híbrido más barato de su tamaño: 140 CV, 5,0 l/100 km y etiqueta ECO desde 26.290 €. Análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/dacia-duster-hybrid-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Dacia Duster Hybrid 140 en un camino de tierra",
+    "keywords": [
+      "dacia duster hybrid 140 precio",
+      "duster híbrido consumo 5,0",
+      "duster hybrid ficha técnica",
+      "suv híbrido barato españa",
+      "dacia duster 2024"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "dacia-jogger-hybrid-2024-precio-y-opinion",
+    "title": "Dacia Jogger Hybrid 140: precio, 7 plazas, 4,7 l y ECO",
+    "excerpt": "El Dacia Jogger Hybrid 140 ofrece 7 plazas híbridas, 4,7 l/100 km y 607 l de maletero desde 25.050 €. El familiar imbatible en precio, a fondo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/dacia-jogger-hybrid-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Dacia Jogger Hybrid 140 familiar en carretera",
+    "keywords": [
+      "dacia jogger hybrid 140 precio",
+      "jogger 7 plazas híbrido",
+      "jogger hybrid consumo 4,7",
+      "jogger ficha técnica",
+      "familiar 7 plazas barato"
+    ],
+    "readTime": 4
+  },
+  {
     "slug": "tasa-unica-alcohol-02-reforma",
     "title": "Tasa 0,2 de alcohol: multa de 200 € desde 0,10",
     "excerpt": "El PSOE propone un tope único de 0,2 g/l: 200 € y 2 puntos entre 0,10 y 0,25 mg/l, aún en tramitación en el Congreso.",
@@ -28594,6 +29822,24 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 3
   },
   {
+    "slug": "ford-mustang-gt-convertible-precio-ficha-tecnica",
+    "title": "Ford Mustang GT Convertible: precio y V8 de 446 CV",
+    "excerpt": "El Ford Mustang GT Convertible mantiene el V8 atmosférico de 446 CV y capota de lona desde 70.128 €. El último pony car descapotable, a fondo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/ford-mustang-gt-convertible.webp",
+    "heroAlt": "Ford Mustang GT Convertible descapotado en una carretera costera",
+    "keywords": [
+      "ford mustang gt convertible precio",
+      "mustang v8 446 cv ficha técnica",
+      "mustang convertible españa",
+      "mustang gt consumo",
+      "descapotable v8"
+    ],
+    "readTime": 4
+  },
+  {
     "slug": "forthing-t5-evo-2025-precio-ficha-tecnica",
     "title": "Forthing T5 EVO: 177 CV por 30.180 €",
     "excerpt": "Precio y ficha técnica del Forthing T5 EVO: SUV chino de 177 CV con motor Mitsubishi 1.5 turbo, cambio DCT y equipamiento premium desde 30.180 €.",
@@ -29388,6 +30634,42 @@ export const BLOG_LITE: BlogLitePost[] = [
       "prelude s+ shift",
       "coupé híbrido 2026",
       "prelude vs civic"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "honda-jazz-ehev-precio-ficha-tecnica",
+    "title": "Honda Jazz e:HEV: precio, 122 CV, 4,6 l y Magic Seats",
+    "excerpt": "El Honda Jazz e:HEV ofrece 122 CV híbridos, 4,6 l/100 km y los asientos Magic Seats más prácticos del segmento desde 24.600 € con etiqueta ECO.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/honda-jazz-e-hev.webp",
+    "heroAlt": "Honda Jazz e:HEV gris aparcado en ciudad",
+    "keywords": [
+      "honda jazz e:hev precio",
+      "jazz híbrido 122 cv consumo",
+      "honda jazz magic seats",
+      "jazz e:hev ficha técnica",
+      "urbano híbrido etiqueta eco"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "honda-civic-ehev-precio-ficha-tecnica",
+    "title": "Honda Civic e:HEV 2026: precio, 184 CV y 4,7 l/100 km",
+    "excerpt": "El Honda Civic e:HEV combina 184 CV y 315 Nm con un consumo de 4,7 l/100 km y 5 estrellas Euro NCAP desde 33.400 €. El híbrido rápido que no gasta.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/honda-civic-e-hev.webp",
+    "heroAlt": "Honda Civic e:HEV azul en carretera",
+    "keywords": [
+      "honda civic e:hev precio",
+      "civic híbrido 184 cv consumo",
+      "honda civic e:hev ficha técnica",
+      "civic e:hev euroncap",
+      "compacto híbrido 2026"
     ],
     "readTime": 4
   },
@@ -30296,6 +31578,24 @@ export const BLOG_LITE: BlogLitePost[] = [
       "tucson 2025 precio"
     ],
     "readTime": 3
+  },
+  {
+    "slug": "hyundai-kona-hybrid-138-precio-ficha-tecnica",
+    "title": "Hyundai Kona Hybrid 138: precio y 466 l de maletero",
+    "excerpt": "El Hyundai Kona Hybrid 138 CV lidera su clase en maletero (466 l) con 4,6 l/100 km y etiqueta ECO desde 34.290 €. Análisis completo y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/hyundai-kona-hybrid-138.webp",
+    "heroAlt": "Hyundai Kona Hybrid 138 en una calle de ciudad",
+    "keywords": [
+      "hyundai kona hybrid 138 precio",
+      "kona híbrido maletero 466",
+      "hyundai kona hybrid consumo",
+      "kona hybrid ficha técnica",
+      "b-suv híbrido etiqueta eco"
+    ],
+    "readTime": 4
   },
   {
     "slug": "im-l6-2025-precio-ficha-tecnica",
@@ -31997,6 +33297,42 @@ export const BLOG_LITE: BlogLitePost[] = [
       "suv electrico 36930"
     ],
     "readTime": 6
+  },
+  {
+    "slug": "kia-niro-hev-129-precio-ficha-tecnica",
+    "title": "Kia Niro HEV 129: precio, 4,4 l/100 km y maletero 451 l",
+    "excerpt": "El Kia Niro HEV 129 homologa 4,4 l/100 km, hasta 1.000 km de autonomía y 451 l de maletero desde 33.175 €. El SUV híbrido más racional de Kia.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/kia-niro-hev-129.webp",
+    "heroAlt": "Kia Niro HEV 129 blanco en un aparcamiento urbano",
+    "keywords": [
+      "kia niro hev 129 precio",
+      "niro híbrido consumo 4,4",
+      "kia niro hev ficha técnica",
+      "niro híbrido autonomía 1000 km",
+      "suv híbrido eficiente españa"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "kia-sportage-hev-239-precio-ficha-tecnica",
+    "title": "Kia Sportage HEV 239: precio, 239 CV y maletero de 587 l",
+    "excerpt": "El Kia Sportage HEV es el híbrido más potente de su segmento: 239 CV, 0-100 en 7,9 s y 587 l de maletero desde 35.131 € con 5 estrellas Euro NCAP.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/kia-sportage-hev-239.webp",
+    "heroAlt": "Kia Sportage HEV 239 en carretera abierta",
+    "keywords": [
+      "kia sportage hev 239 precio",
+      "sportage híbrido 239 cv",
+      "kia sportage hev ficha técnica",
+      "sportage híbrido maletero 587",
+      "suv híbrido potente españa"
+    ],
+    "readTime": 4
   },
   {
     "slug": "lamborghini-revuelto-2024-precio-ficha-tecnica",
@@ -42090,6 +43426,24 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 6
   },
   {
+    "slug": "mazda-3-sedan-e-skyactiv-g-precio-ficha-tecnica",
+    "title": "Mazda3 Sedán 2.5 e-SKYACTIV G: precio, 140 CV y ECO",
+    "excerpt": "El Mazda3 Sedán 2.5 e-SKYACTIV G apuesta por un atmosférico de 140 CV sin turbo, diseño premium y etiqueta ECO desde 26.765 €. Ficha y análisis.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/mazda-3-sedan-e-skyactiv-g.webp",
+    "heroAlt": "Mazda3 Sedán e-SKYACTIV G rojo Soul en carretera",
+    "keywords": [
+      "mazda3 sedán e-skyactiv g precio",
+      "mazda 3 2.5 140 cv",
+      "mazda3 sedán ficha técnica",
+      "mazda3 atmosférico etiqueta eco",
+      "berlina compacta premium"
+    ],
+    "readTime": 4
+  },
+  {
     "slug": "mclaren-750s-2025-precio-ficha-tecnica",
     "title": "McLaren 750S: 750 CV y 332 km/h por 322.400 €",
     "excerpt": "El McLaren 750S se vende en España por 322.400 €: V8 biturbo de 750 CV, 0-100 en 2,8 s y 332 km/h de punta. Ficha técnica, pros y contras.",
@@ -42772,6 +44126,24 @@ export const BLOG_LITE: BlogLitePost[] = [
       "mercedes g63 etiqueta eco"
     ],
     "readTime": 3
+  },
+  {
+    "slug": "mercedes-clase-c-200-precio-ficha-tecnica",
+    "title": "Mercedes Clase C 200: precio, 204 CV y etiqueta ECO",
+    "excerpt": "El Mercedes Clase C 200 ofrece 204 CV suaves, etiqueta ECO, interior de referencia y 5 estrellas Euro NCAP desde 53.878 €. Análisis y ficha completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/mercedes-clase-c-200.webp",
+    "heroAlt": "Mercedes Clase C 200 plateado en ciudad al anochecer",
+    "keywords": [
+      "mercedes clase c 200 precio",
+      "clase c 200 204 cv ficha técnica",
+      "mercedes c200 eq boost etiqueta eco",
+      "clase c 200 consumo",
+      "berlina premium confort"
+    ],
+    "readTime": 4
   },
   {
     "slug": "mg3-hybrid-2025-precio-ficha-tecnica",
@@ -65791,6 +67163,114 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 7
   },
   {
+    "slug": "yamaha-yzf-r1-2026-precio-ficha-tecnica",
+    "title": "Yamaha YZF-R1 2026: 200 CV y solo para circuito en Europa",
+    "excerpt": "La Yamaha YZF-R1 2026: 998 cc y 200 CV. En Europa solo como modelo de circuito (Race) desde ~21.000 €; en EE. UU. sigue siendo matriculable. Precio, ficha y novedades.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "",
+    "heroAlt": "",
+    "keywords": [
+      "Yamaha YZF-R1 2026",
+      "R1 2026 precio",
+      "Yamaha R1 2026 ficha técnica",
+      "R1 Race 2026",
+      "superdeportiva 200 CV"
+    ],
+    "readTime": 1
+  },
+  {
+    "slug": "yamaha-mt-10-2026-precio-ficha-tecnica",
+    "title": "Yamaha MT-10 2026: 166 CV naked con motor de R1",
+    "excerpt": "Yamaha MT-10 2026: la hyper naked con motor CP4 de 998 cc y 166 CV, IMU de 6 ejes y electrónica heredada de la R1. Precio en EE. UU.: 14.999 $. Ficha técnica.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "",
+    "heroAlt": "",
+    "keywords": [
+      "Yamaha MT-10 2026",
+      "MT-10 2026 precio",
+      "Yamaha MT-10 ficha técnica",
+      "naked 1000 2026",
+      "MT-10 SP 2026"
+    ],
+    "readTime": 1
+  },
+  {
+    "slug": "mitsubishi-colt-2026-precio-ficha-tecnica",
+    "title": "Mitsubishi Colt 2026: desde 18.938 €, el Clio japonés",
+    "excerpt": "Mitsubishi Colt 2026: el utilitario gemelo del Renault Clio desde 18.938 € en España. Gasolina, GLP e híbrido, 5 años de garantía. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "",
+    "heroAlt": "",
+    "keywords": [
+      "Mitsubishi Colt 2026",
+      "Colt 2026 precio",
+      "Mitsubishi Colt ficha técnica",
+      "Colt híbrido precio",
+      "Colt GLP"
+    ],
+    "readTime": 1
+  },
+  {
+    "slug": "honda-gold-wing-2026-precio-ficha-tecnica",
+    "title": "Honda Gold Wing 2026: la touring definitiva, 1.833 cc",
+    "excerpt": "Honda Gold Wing 2026: el mito touring con bóxer de 1.833 cc y 126 CV. Continúa la gama 2025-2027 sin cambios mecánicos. Ficha técnica y precio.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "",
+    "heroAlt": "",
+    "keywords": [
+      "Honda Gold Wing 2026",
+      "Gold Wing 2026 precio",
+      "Gold Wing ficha técnica",
+      "GL1800 2026",
+      "moto touring Honda"
+    ],
+    "readTime": 1
+  },
+  {
+    "slug": "denza-b8-2026-precio-ficha-tecnica",
+    "title": "Denza B8: el 4x4 híbrido enchufable de 578 CV",
+    "excerpt": "Denza B8: el todoterreno híbrido enchufable de BYD (gemelo del Fangchengbao Bao 8) con 578 CV y 100 km eléctricos. No se vende en España. Ficha y precio.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "",
+    "heroAlt": "",
+    "keywords": [
+      "Denza B8",
+      "Denza B8 precio",
+      "Denza B8 ficha técnica",
+      "Fangchengbao Bao 8",
+      "BYD todoterreno híbrido"
+    ],
+    "readTime": 1
+  },
+  {
+    "slug": "kymco-downtown-350-gt-2024-precio-ficha-tecnica",
+    "title": "Kymco Downtown 350 GT: 28,5 CV por 5.999 €",
+    "excerpt": "Kymco Downtown 350 GT: maxiscooter de 321 cc y 28,5 CV con TFT de 7\", control de tracción y hueco para dos cascos por 5.999 €. Ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-19",
+    "locale": "all",
+    "heroSrc": "",
+    "heroAlt": "",
+    "keywords": [
+      "Kymco Downtown 350 GT",
+      "Downtown 350 GT precio",
+      "Kymco Downtown 350 ficha",
+      "maxiscooter 350 2024",
+      "Downtown 350 GT opiniones"
+    ],
+    "readTime": 1
+  },
+  {
     "slug": "multa-patinete-sin-registro-1220-euros",
     "title": "Patinete sin registro ni seguro: multa de 1.220 €",
     "excerpt": "Multa de hasta 1.220 € por ir en patinete sin registro DGT ni seguro, más inmovilización. La OCU avisa: solo 140.000 de 4 millones están registrados.",
@@ -73889,6 +75369,24 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 4
   },
   {
+    "slug": "porsche-911-carrera-4s-precio-ficha-tecnica",
+    "title": "Porsche 911 Carrera 4S: precio, 480 CV, 4x4 y 308 km/h",
+    "excerpt": "El Porsche 911 Carrera 4S combina 480 CV, tracción total y un 0-100 en 3,5 s desde 189.745 €. El icono en su punto de equilibrio, analizado a fondo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/porsche-911-carrera-4s.webp",
+    "heroAlt": "Porsche 911 Carrera 4S en una carretera de costa",
+    "keywords": [
+      "porsche 911 carrera 4s precio",
+      "911 carrera 4s 480 cv ficha técnica",
+      "porsche 992 4s prestaciones",
+      "911 carrera 4s consumo",
+      "deportivo tracción total"
+    ],
+    "readTime": 4
+  },
+  {
     "slug": "yamaha-xsr900-2024-ficha-tecnica-precio",
     "title": "Yamaha XSR900 2024: 119 CV neo-retro desde 11.999 €",
     "excerpt": "Precio y ficha de la Yamaha XSR900 2024: 119 CV del tricilíndrico CP3, electrónica con IMU de 6 ejes, 193 kg y limitable al A2 por 11.999 €.",
@@ -79820,6 +81318,24 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 5
   },
   {
+    "slug": "seat-ateca-2024-precio-y-opinion",
+    "title": "SEAT Ateca 1.0 TSI: precio, 115 CV, 510 l y mecánica VW",
+    "excerpt": "El SEAT Ateca 1.0 TSI ofrece 510 l de maletero y mecánica VW probada desde 26.041 €. Su deuda: etiqueta C sin híbridos. Análisis completo y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/seat-ateca-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "SEAT Ateca en una calle de barrio",
+    "keywords": [
+      "seat ateca 1.0 tsi precio",
+      "ateca maletero 510 litros",
+      "seat ateca ficha técnica",
+      "ateca consumo 6,1",
+      "suv familiar barato españa"
+    ],
+    "readTime": 4
+  },
+  {
     "slug": "skoda-elroq-85-2026-precio-ficha-tecnica",
     "title": "Skoda Elroq 85: 581 km por 35.250 €",
     "excerpt": "El Skoda Elroq 85 ya está en España desde 35.250 €: 286 CV, 581 km de autonomía WLTP y carga rápida de 175 kW. Precio, ficha y rivales.",
@@ -80286,6 +81802,42 @@ export const BLOG_LITE: BlogLitePost[] = [
       "suv coupe eléctrico familiar"
     ],
     "readTime": 3
+  },
+  {
+    "slug": "skoda-octavia-15-tsi-mhev-precio-ficha-tecnica",
+    "title": "Skoda Octavia 1.5 TSI mHEV: precio, 600 l y 5,0 l/100",
+    "excerpt": "El Skoda Octavia 1.5 TSI mHEV ofrece 600 l de maletero, 5,0 l/100 km, etiqueta ECO y 5 estrellas Euro NCAP desde 35.200 €. Análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/skoda-octavia-15-tsi-mhev.webp",
+    "heroAlt": "Skoda Octavia 1.5 TSI mHEV en autopista",
+    "keywords": [
+      "skoda octavia 1.5 tsi mhev precio",
+      "octavia mhev maletero 600",
+      "skoda octavia consumo 5,0",
+      "octavia ficha técnica 2026",
+      "berlina familiar etiqueta eco"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "skoda-superb-15-tsi-mhev-precio-ficha-tecnica",
+    "title": "Skoda Superb 1.5 TSI mHEV: precio, 150 CV, 645 l y ECO",
+    "excerpt": "El Skoda Superb 1.5 TSI mHEV ofrece 150 CV, 645 l de maletero, espacio de limusina y 5,2 l/100 km desde 47.000 €. La berlina grande sensata.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/skoda-superb-15-tsi-mhev.webp",
+    "heroAlt": "Skoda Superb 1.5 TSI mHEV gris en carretera",
+    "keywords": [
+      "skoda superb 1.5 tsi mhev precio",
+      "superb mhev maletero 645",
+      "skoda superb consumo 5,2",
+      "superb ficha técnica euroncap",
+      "berlina grande etiqueta eco"
+    ],
+    "readTime": 4
   },
   {
     "slug": "smart-2-2026-precio-autonomia-paris",
@@ -81063,6 +82615,24 @@ export const BLOG_LITE: BlogLitePost[] = [
       "subaru uncharted tope de gama"
     ],
     "readTime": 3
+  },
+  {
+    "slug": "subaru-brz-24-precio-ficha-tecnica",
+    "title": "Subaru BRZ 2.4: precio, 234 CV, manual y tracción trasera",
+    "excerpt": "El Subaru BRZ 2.4 ofrece bóxer atmosférico de 234 CV, cambio manual y 1.289 kg desde 39.500 €. El gemelo del GR86 en despedida, analizado a fondo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/subaru-brz-24.webp",
+    "heroAlt": "Subaru BRZ 2.4 azul en un puerto de montaña",
+    "keywords": [
+      "subaru brz precio españa",
+      "subaru brz 2.4 234 cv",
+      "brz ficha técnica",
+      "subaru brz tracción trasera",
+      "deportivo atmosférico manual"
+    ],
+    "readTime": 4
   },
   {
     "slug": "suzuki-vitara-strong-hybrid-2025-precio-ficha-tecnica",
@@ -82089,6 +83659,60 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 4
   },
   {
+    "slug": "toyota-rav4-hybrid-2026-precio-ficha-tecnica",
+    "title": "Toyota RAV4 Hybrid 2026: precio, 185 CV y 4,9 l/100 km",
+    "excerpt": "El Toyota RAV4 Hybrid 2026 estrena generación híbrida: 185 CV, 4,9 l/100 km, 1.120 km de autonomía y maletero de 580 l desde 43.500 € con etiqueta ECO.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/toyota-rav4-hybrid-2026.webp",
+    "heroAlt": "Toyota RAV4 Hybrid 2026 verde en carretera de montaña",
+    "keywords": [
+      "toyota rav4 hybrid 2026 precio",
+      "rav4 hybrid 185 cv consumo",
+      "toyota rav4 2026 ficha técnica",
+      "rav4 hybrid etiqueta eco",
+      "suv híbrido familiar precio"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "toyota-gr86-24-boxer-precio-ficha-tecnica",
+    "title": "Toyota GR86 2.4 Boxer: precio, 234 CV, manual y trasera",
+    "excerpt": "El Toyota GR86 2.4 Boxer ofrece 234 CV atmosféricos, cambio manual y tracción trasera con 1.289 kg desde 32.900 €. El deportivo puro que queda.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/toyota-gr86-24-boxer.webp",
+    "heroAlt": "Toyota GR86 2.4 Boxer en un puerto de montaña",
+    "keywords": [
+      "toyota gr86 precio españa",
+      "gr86 2.4 boxer 234 cv",
+      "toyota gr86 ficha técnica",
+      "gr86 manual tracción trasera",
+      "deportivo atmosférico barato"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "toyota-yaris-cross-hybrid-2024-precio-y-opinion",
+    "title": "Toyota Yaris Cross Hybrid 130: precio, 131 CV y ECO",
+    "excerpt": "El Toyota Yaris Cross Hybrid 130 consume 4,8 l/100 km, tiene etiqueta ECO y versión AWD-i desde 27.300 €. El B-SUV racional de Toyota, a fondo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/toyota-yaris-cross-hybrid-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Toyota Yaris Cross Hybrid en ciudad",
+    "keywords": [
+      "toyota yaris cross hybrid 130 precio",
+      "yaris cross consumo 4,8",
+      "yaris cross hybrid ficha técnica",
+      "yaris cross awd-i",
+      "b-suv híbrido etiqueta eco"
+    ],
+    "readTime": 4
+  },
+  {
     "slug": "ue-china-freno-hibridos-enchufables",
     "title": "UE y China: freno a los híbridos chinos en Europa",
     "excerpt": "Pekín contendrá sus envíos de híbridos a Europa: qué cambia en oferta, precios y plazos para quien busque un PHEV chino en España.",
@@ -82637,6 +84261,42 @@ export const BLOG_LITE: BlogLitePost[] = [
       "suv híbrido enchufable"
     ],
     "readTime": 3
+  },
+  {
+    "slug": "volkswagen-passat-variant-15-etsi-precio-ficha-tecnica",
+    "title": "Volkswagen Passat Variant 1.5 eTSI: precio y 690 l",
+    "excerpt": "El Volkswagen Passat Variant 1.5 eTSI ofrece 690 l de maletero, 150 CV, 5,3 l/100 km y etiqueta ECO desde 46.330 €. El familiar de referencia.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/volkswagen-passat-variant-15-etsi.webp",
+    "heroAlt": "Volkswagen Passat Variant 1.5 eTSI en una carretera de viajes",
+    "keywords": [
+      "volkswagen passat variant 1.5 etsi precio",
+      "passat variant maletero 690",
+      "passat etsi consumo 5,3",
+      "passat variant ficha técnica",
+      "familiar grande etiqueta eco"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "volkswagen-t-roc-2024-precio-y-opinion",
+    "title": "Volkswagen T-Roc 1.0 TSI: precio, 116 CV y 445 litros",
+    "excerpt": "El Volkswagen T-Roc 1.0 TSI ofrece 116 CV, 445 l de maletero, 5 estrellas Euro NCAP y tacto de Golf desde 26.825 €. Sin híbrido: etiqueta C.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/volkswagen-t-roc-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Volkswagen T-Roc en carretera",
+    "keywords": [
+      "volkswagen t-roc precio españa",
+      "t-roc 1.0 tsi 116 cv",
+      "t-roc ficha técnica maletero",
+      "t-roc consumo 5,8",
+      "suv compacto volkswagen"
+    ],
+    "readTime": 4
   },
   {
     "slug": "volkswagen-id-tiguan-2026-precio-ficha-tecnica",

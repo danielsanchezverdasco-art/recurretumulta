@@ -16,6 +16,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "range-rover-electric-2025-precio-ficha-tecnica": () => import("../blog-posts-batch2b-3.ts"),
     "rapido-606f-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin5.ts"),
     "rapido-606f-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-lote125-g03.ts"),
+    "rapido-666f-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-lote1.ts"),
     "rapido-666f-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-lote125-g04.ts"),
     "rapido-896f-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-lote3.ts"),
     "rapido-c55-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-lote3.ts"),

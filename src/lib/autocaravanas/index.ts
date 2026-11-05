@@ -7,6 +7,7 @@ import { AUTOCARAVANAS_ADRIA_M2 } from "./comparador-autocaravanas-adria-m2.ts";
 import { AUTOCARAVANAS_ADRIA_M3 } from "./comparador-autocaravanas-adria-m3-w1.ts";
 import { AUTOCARAVANAS_ADRIA_M4 } from "./comparador-autocaravanas-adria-m4-w11.ts";
 import { AUTOCARAVANAS_ADRIA_M5 } from "./comparador-autocaravanas-adria-m5.ts";
+import { AUTOCARAVANAS_LOTE1_FN } from "./comparador-autocaravanas-lote1-fn.ts";
 import { AUTOCARAVANAS_AHORNCAMP_M1 } from "./comparador-autocaravanas-ahorncamp-m1.ts";
 import { AUTOCARAVANAS_AUTOSTAR_M4 } from "./comparador-autocaravanas-autostar-m4-w19.ts";
 import { AUTOCARAVANAS_BAVARIA_M1 } from "./comparador-autocaravanas-bavaria-m1.ts";
@@ -285,6 +286,7 @@ const AUTOCARAVANAS_SIN_DEDUP: Autocaravana[] = [
   ...AUTOCARAVANAS_XGO_M1,
   ...AUTOCARAVANAS_XGO_M2,
   ...AUTOCARAVANAS_XGO_M4,
+  ...AUTOCARAVANAS_LOTE1_FN,
 ];
 
 // 20/10/2026 (arreglos borrador 2): varios módulos traen la MISMA ficha
