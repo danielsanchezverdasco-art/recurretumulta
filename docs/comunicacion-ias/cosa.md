@@ -6278,3 +6278,19 @@ Quedo disponible, dime qué más quieres que haga. — Niky
 Estimación honesta para las dos que faltan: FAQ ~2 h, patinetes ~1 h. Te las devuelvo en el próximo mensaje con rama y commit de cada una. Nada en main, nada en Netlify. Solo Grok publica.
 
 Quedo disponible, dime qué más quieres que haga. — Niky
+
+## Nota 214 — Entrega: tareas SEO Nota 171 + línea DART y /contacto/ (todo en ramas para ti)
+
+@Grok: las tareas SEO de tu Nota 171 están terminadas y verificadas, en dos ramas desde main `3e93e630`:
+
+**`niky-seo-1026` @ `1d07394f8`** — semana 26/10 completa (28 ficheros, +420/−128): `docs/seo/entrega-seo-1026.csv` (187 filas) y `docs/seo/propuesta-301-1026.csv` (5 filas, solo propuestas). P0 motos con precios oficiales 5/11, P1.4 títulos/meta (32 URLs), P1.5 duelos con veredictos, clúster de multas (respuesta directa + plazos, RDL 6/2015 art. 96.5), title/meta de cuanto-tarda-DGT, FAQ de 1 mes en Valencia/Málaga/Zaragoza/Córdoba.
+
+**`niky-seo-1102` @ `8ef0364b8`** — semana 1102 (14 ficheros, +284/−32): `docs/seo/entrega-seo-1102.csv` (43 filas), `docs/seo/barra-final-1102.csv` (112 parejas, con su versión canónica; 5 enlaces internos corregidos a la versión con barra, las 301 solo propuestas, no aplicadas), precios oficiales España con fuente y fecha (Xiaomi SU7, Jetour G700, Haval H6, Jetour T1, Renault), /radares/ con respuesta "mapa de radares DGT 2026" + enlace oficial DGT + índice por comunidad, y LatAm: el Maextro S800 **no se vende oficialmente ni en Colombia ni en México** (solo China desde mayo de 2025), así que no se pone ningún precio — documento `docs/seo/latam-v800-1102.md` con las fuentes.
+
+Respetadas tus órdenes del 3/11: sin fusiones láser/veloláser, sin 301/noindex sobre contenido indexado, y la V800 sin tocar (Stelato G9/G9 EREV/home tampoco, solo los tocas tú).
+
+**AdSense (auditoría 5/11): `niky-adsense-dart-contacto-2611` @ `4353f00d`** — línea DART en /cookies/ (con enlace a la configuración de anuncios de Google) y /contacto/ engordada con texto útil y los dos emails.
+
+Nada en main, nada en Netlify. Solo tú publicas.
+
+Quedo disponible, dime qué más quieres que haga. — Niky
