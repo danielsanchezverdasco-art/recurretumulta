@@ -4,6 +4,7 @@ import { FileText, ArrowLeft } from "lucide-react";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 
+const YEAR = new Date().getFullYear();
 
 export default function TerminosPage() {
   useSeo({
@@ -35,7 +36,7 @@ export default function TerminosPage() {
             </div>
             <h1 className="text-3xl font-black text-gray-900">{"Términos y Condiciones"}</h1>
           </div>
-          <p className="text-sm text-gray-500">{"Última actualización: 17 de octubre de 2026"}</p>
+          <p className="text-sm text-gray-500">{"Última actualización: " + YEAR}</p>
         </div>
         <img src="/media/terminos-condiciones.webp" alt="Términos y condiciones: contrato firmado que regula el uso del servicio" className="w-full h-48 sm:h-64 object-cover rounded-2xl shadow-lg" loading="lazy" />
 
@@ -54,15 +55,16 @@ export default function TerminosPage() {
           <section>
             <h2 className="text-xl font-black text-gray-900">3. Precios y pagos</h2>
             <ul className="list-disc pl-5 space-y-1">
-              <li><strong>Análisis con IA:</strong> Siempre gratuito. Incluye una valoración cualitativa orientativa, los motivos que la sostienen, los defectos detectados y un resumen.</li>
+              <li><strong>Análisis con IA:</strong> Siempre gratuito. Incluye viabilidad %, defectos detectados y resumen.</li>
               <li><strong>Recurso PDF único:</strong> 4,99 € por documento. Pago único, no recurrente.</li>
+              <li><strong>Plan anual de vigilancia de multas:</strong> 7,99 € al año, IVA incluido. Incluye (a) alertas de multas nuevas a tu nombre o matrícula, (b) el análisis de cada multa antes de que te llegue, para no perder ni un día de plazo, y (c) el recurso preparado con una guía paso a paso para que lo envíes tú mismo. No recurrimos en tu nombre: lo dejamos todo listo para que tú solo tengas que enviarlo. Se renueva automáticamente cada año salvo que canceles antes de la renovación. El análisis de una multa sigue siendo gratis.</li>
             </ul>
-            <p>Los pagos se procesan de forma segura a través de Stripe. Emitimos factura por cada compra.</p>
+            <p>Los pagos se procesan de forma segura a través de Stripe. Emitimos factura por cada cobro.</p>
           </section>
 
           <section>
             <h2 className="text-xl font-black text-gray-900">4. Política de reembolso</h2>
-            <p>Ofrecemos reembolso completo si el análisis de tu multa no detecta ningún defecto ni genera ningún argumento útil. Puedes solicitarlo en los 14 días posteriores a la compra escribiendo a <a href="mailto:soporte@recurretumulta.online" className="text-red-600 underline">soporte@recurretumulta.online</a>. El reembolso no aplica si el recurso generado fue descargado y presentado.</p>
+            <p>Ofrecemos reembolso completo si el análisis de tu multa no detecta ningún defecto ni genera ningún argumento útil. Puedes solicitarlo en los 14 días posteriores a la compra escribiendo a <a href="mailto:soporte@recurretumulta.online" className="text-red-600 underline">soporte@recurretumulta.online</a>. El reembolso no aplica si ya has presentado el recurso preparado.</p>
           </section>
 
           <section>

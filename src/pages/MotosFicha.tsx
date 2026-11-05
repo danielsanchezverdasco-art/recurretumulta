@@ -510,7 +510,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
                 >
                   <img
                     src={f.src}
-                    alt={f.alt}
+                    alt={f.alt || `Foto del ${nombre}`}
                     width={f.ancho}
                     height={f.alto}
                     loading="lazy"

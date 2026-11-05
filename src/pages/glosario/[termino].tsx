@@ -128,6 +128,19 @@ function TerminoPage({
 
         <article className="bg-white rounded-2xl border border-slate-200 p-5 sm:p-8 mb-8">
           <h2 className="text-lg font-bold flex items-center gap-2 mb-4">
+            <BookOpen className="h-5 w-5 text-red-600 shrink-0" />
+            Preguntas frecuentes
+          </h2>
+          <h3 className="font-bold text-slate-800 mb-2">¿Qué es {t.nombre}?</h3>
+          <div className="space-y-3 text-slate-600">
+            {t.definicion.map((p, i) => (
+              <p key={i}>{p}</p>
+            ))}
+          </div>
+        </article>
+
+        <article className="bg-white rounded-2xl border border-slate-200 p-5 sm:p-8 mb-8">
+          <h2 className="text-lg font-bold flex items-center gap-2 mb-4">
             <Car className="h-5 w-5 text-red-600 shrink-0" />
             Ejemplo con coches reales
           </h2>
