@@ -127,6 +127,24 @@ export default function GlosarioMotorIndexPage() {
           <Gauge className="h-5 w-5" /> Comparar los 26 coches eléctricos <ArrowRight className="h-5 w-5" />
         </Link>
 
+        <section className="mb-12">
+          <h2 className="text-2xl font-bold mt-10 mb-4">Preguntas frecuentes</h2>
+          <div className="space-y-4">
+            <div className="bg-white rounded-2xl border border-slate-200 p-5 sm:p-6">
+              <h3 className="font-bold text-slate-800 mb-2">¿Qué significa kWh en un coche eléctrico?</h3>
+              <p className="text-slate-600">El kWh (kilovatio-hora) mide la energía que almacena la batería: es el «tamaño del depósito» del eléctrico. No lo confundas con el kW, que mide potencia.</p>
+            </div>
+            <div className="bg-white rounded-2xl border border-slate-200 p-5 sm:p-6">
+              <h3 className="font-bold text-slate-800 mb-2">¿Qué diferencia hay entre WLTP y CLTC?</h3>
+              <p className="text-slate-600">WLTP es el protocolo europeo de homologación de autonomía; CLTC es el chino, con un ciclo más benévolo. Las cifras CLTC son siempre más altas y no son comparables con las WLTP.</p>
+            </div>
+            <div className="bg-white rounded-2xl border border-slate-200 p-5 sm:p-6">
+              <h3 className="font-bold text-slate-800 mb-2">¿Qué etiqueta DGT lleva un coche eléctrico?</h3>
+              <p className="text-slate-600">Todos los eléctricos puros llevan la etiqueta CERO de la DGT, y también los híbridos enchufables con suficiente autonomía eléctrica. La etiqueta CERO permite entrar en las ZBE y acceder a las ayudas del Plan Auto+.</p>
+            </div>
+          </div>
+        </section>
+
         <div className="bg-slate-900 text-white rounded-3xl p-8 text-center">
           <h2 className="text-2xl font-bold mb-3">¿Y si el coche que te interesa es el que ya tienes?</h2>
           <p className="text-slate-300 mb-6">Antes de cambiar de coche, revisa las multas que tengas pendientes: analiza tu denuncia gratis.</p>
