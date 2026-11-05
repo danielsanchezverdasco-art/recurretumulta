@@ -78006,6 +78006,25 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 12
   },
   {
+    "slug": "ducati-diavel-v4-s-2027-ficha-tecnica-precio",
+    "title": "Ducati Diavel V4 S 2027: 168 CV, Öhlins, desde 35.490 €",
+    "excerpt": "La Ducati Diavel V4 S 2027 estrena suspensiones Öhlins SmartEC 3.0: 168 CV, 222 kg, puños calefactables y 35.490 € recomendados en España.",
+    "category": "Novedades Motor",
+    "date": "2026-11-05",
+    "locale": "es",
+    "heroSrc": "/media/motos/ducati-diavel-v4-s-2027-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Ducati Diavel V4 S 2027 roja de tres cuartos delantera, con horquilla Öhlins dorada y depósito rojo sobre fondo oscuro",
+    "keywords": [
+      "ducati diavel v4 s 2027 precio",
+      "ducati diavel v4 s ficha tecnica",
+      "ducati diavel v4 s 168 cv",
+      "ducati diavel v4 s ohlins smartec",
+      "ducati diavel v4 s 35490 euros",
+      "ducati diavel v4 s vs diavel v4"
+    ],
+    "readTime": 17
+  },
+  {
     "slug": "byd-seagull-2026-segunda-generacion-precio",
     "title": "BYD Seagull 2026: precios oficiales y carga en 5 minutos",
     "excerpt": "Así es el BYD Seagull de segunda generación: tarifas oficiales desde 65.900 yuanes, 420 km en ciclo CLTC y carga flash del 10 al 70 % en solo 5 minutos. Todas las versiones.",
