@@ -1,3 +1,4 @@
+// Fotos 5/11/2026 (2ª oleada, teverun-fighter-supreme): TEVERUN, página oficial del Fighter Supreme 7260R (teverun.com).
 // Fotos 5/11/2026 (2ª oleada, iscooter-ix5s): iScooter, tienda oficial (iscooterglobal.com), galería del producto.
 // Fotos 5/11/2026 (2ª oleada, iscooter-i8): iScooter, tienda oficial (iscooterglobal.com), galería del producto.
 // Fotos 5/11/2026 (2ª oleada, inmotion-s1f): INMOTION, tienda oficial (inmotionworld.com), galería del producto.
@@ -940,7 +941,7 @@ Como VMP **limitado a 25 km/h**. Sin homologación DGT para más velocidad.
       "teverun 7260r opiniones",
       "hyper scooter 72v 60ah",
     ],
-    content: `<img src=/media/patinetes/teverun-fighter-supreme-1.webp alt=Teverun Fighter Supreme 7260R, vista lateral del hiperpatinete>
+    content: `<img src=/media/teverun-fighter-supreme-hero.jpg alt=Teverun Fighter Supreme 7260R, vista lateral del hiperpatinete>
 
 **¿Buscas solo los datos?** <a href=/patinetes/teverun-fighter-supreme/>Ver ficha técnica del Teverun Fighter Supreme</a>: 10.000 W, batería y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -964,7 +965,7 @@ El **Teverun Fighter Supreme 7260R** juega en otra liga: **dos motores de 2.500 
 
 **4.499,90 €** en distribuidores europeos como <a href=https://www.evolt.eu/products/electric-scooter-teverun-fighter-supreme-7260-ultra/>Evolt</a>. A ese precio compite con motos eléctricas de 125 cc con matrícula, ITV y seguro normal: plantéatelo en serio antes de decidir.
 
-<img src=/media/patinetes/teverun-fighter-supreme-2.webp alt=Detalle de la rueda de 13 pulgadas del Teverun Fighter Supreme>
+<img src=/media/teverun-fighter-supreme-2.jpg alt=Detalle de la rueda de 13 pulgadas del Teverun Fighter Supreme>
 
 ## Autonomía real vs declarada
 
@@ -988,7 +989,7 @@ Ni lo intentes en vía pública: con 120 km/h de máxima, el Supreme **no es un 
 | 120 km/h de máxima | Equipación de moto obligatoria |
 | App con BMS inteligente | Seguro complicado y caro |
 
-<img src=/media/patinetes/teverun-fighter-supreme-3.webp alt=Teverun Fighter Supreme 7260R en circuito>
+<img src=/media/teverun-fighter-supreme-3.jpg alt=Teverun Fighter Supreme 7260R en circuito>
 
 ## Preguntas frecuentes
 
