@@ -1,3 +1,10 @@
+// Fotos 5/11/2026 (2ª oleada, fiat-multiplay-concept-par): Wikimedia Commons, CC BY-SA 4.0, 2cv2026 (File:Fiat Multiplay Concept.jpg); Wikimedia Commons, CC BY-SA 4.0, Ftonview (File:Fiat Multiplay Concept 2026.jpg).
+// Fotos 5/11/2026 (2ª oleada, ds-f3ver-concept-paris-202): Wikimedia Commons, CC BY-SA 4.0, 2cv2026 (File:DS F3VER.jpg).
+// Fotos 5/11/2026 (2ª oleada, dacia-lodgy-2025-precio-op): Wikimedia Commons, CC BY-SA 4.0, A1AA1A (File:Dacia Lodgy Stepway.jpg).
+// Fotos 5/11/2026 (2ª oleada, cuotas-hibridos-chinos-ue-): Wikimedia Commons, CC BY 4.0, Trougnouf (File:Tunnel Belliard, coming out on Rue de la Loi.jpg); Wikimedia Commons, CC BY-SA 4.0, Maximilian Greger (File:Außenansicht Europäisches Parlament Brüssel.jpg).
+// Fotos 5/11/2026 (2ª oleada, opel-stx-concept-paris-202): Wikimedia Commons, CC BY-SA 4.0, 2cv2026 (File:Opel STX Concept.jpg).
+// Fotos 5/11/2026 (2ª oleada, lexus-lm-350h-precio-opini): Wikimedia Commons, CC BY-SA 4.0, Dinkun Chen (File:LEXUS LM 350 China.jpg); Wikimedia Commons, CC BY-SA 4.0, JustAnotherCarDesigner (File:Lexus LM II 001.jpg).
+// Fotos 5/11/2026 (2ª oleada, genesis-g70-precio-ficha-t): Wikimedia Commons, CC BY-SA 4.0, Calreyn88 (File:2021 Genesis G70 Sport Line T-GDi.jpg).
 // Lote prioritario 14/10/2026 (integración en src, sin publicar).
 // - Fang Cheng Bao Ti 9: blog + ficha (fusión Ti 9 / Tai 9: UNA sola página,
 //   nombre principal Ti 9, «Tai 9» como alias). Sustituye al blog
@@ -132,7 +139,7 @@ Sin datos EuroNCAP. No hay prueba publicada para este modelo.
       "concept DS eléctrico",
       "DS Nº 3 futuro",
     ],
-    content: `<img src=/media/ds-f3ver-concept-paris-2026-hero.webp alt=DS F3VER Concept, frontal con emblema DS iluminado y firma luminosa en Y>
+    content: `<img src=/media/ds-f3ver-concept-paris-2026-hero.webp alt=DS F3VER Concept, frontal con emblema DS iluminado y firma luminosa en Y><img src="/media/ds-f3ver-concept-paris-2026-hero.jpg" alt="ds-f3ver-concept-paris-2026 — fotografía del modelo">
 
 *Foto: DS Automobiles (prensa) / MoparInsiders (distribución). Imagen de prensa distribuida por un medio tercero; no es una foto descargada del media site oficial de Stellantis/DS. Licencia desconocida.*
 
@@ -287,7 +294,7 @@ No. Es un concept de salón, sin versión comercial. Si buscas un DS compacto co
       "Multipla nuevo",
       "FIAT concept pick-up",
     ],
-    content: `<img src=/media/fiat-multiplay-concept-paris-2026-hero.webp alt=FIAT Multiplay Concept, frontal tres cuartos en verde sandía con parrilla pixelada>
+    content: `<img src=/media/fiat-multiplay-concept-paris-2026-hero.webp alt=FIAT Multiplay Concept, frontal tres cuartos en verde sandía con parrilla pixelada><img src="/media/fiat-multiplay-concept-paris-2026-hero.jpg" alt="fiat-multiplay-concept-paris-2026 — fotografía del modelo"><img src="/media/fiat-multiplay-concept-paris-2026-2.jpg" alt="fiat-multiplay-concept-paris-2026 — fotografía del modelo">
 
 *Foto: FIAT (prensa) / designboom (distribución). La página de origen indica «all images courtesy of Fiat». Imagen de prensa distribuida por un medio tercero; no es una foto descargada del media site oficial de Stellantis/FIAT. Licencia desconocida.*
 
@@ -441,7 +448,7 @@ Ninguno anunciado. FIAT no ha publicado motor, potencia, batería, autonomía, c
       "Opel STX París 2026",
       "Opel Vizor nuevo",
     ],
-    content: `<img src=/media/opel-stx-concept-paris-2026-hero.webp alt=Opel STX Concept, frontal tres cuartos con Vizor de lamelas, Blitz iluminado y detalles azules>
+    content: `<img src=/media/opel-stx-concept-paris-2026-hero.webp alt=Opel STX Concept, frontal tres cuartos con Vizor de lamelas, Blitz iluminado y detalles azules><img src="/media/opel-stx-concept-paris-2026-hero.jpg" alt="opel-stx-concept-paris-2026 — fotografía del modelo">
 
 *Crédito de la foto: material de prensa de Opel y Stellantis distribuido por Carscoops; no procede de una descarga directa del sitio oficial de medios de Stellantis u Opel. Licencia sin confirmar.*
 
@@ -775,7 +782,7 @@ Es su sucesor conceptual: recupera el nombre y los rasgos icónicos del cupé RC
       "Leapmotor Zaragoza",
       "BYD Szeged",
     ],
-    content: `<img src=/media/cuotas-hibridos-chinos-ue-china-2026-hero.webp alt=Buques portacoches en el puerto europeo de Bremerhaven, por donde llegan los coches importados>
+    content: `<img src=/media/cuotas-hibridos-chinos-ue-china-2026-hero.webp alt=Buques portacoches en el puerto europeo de Bremerhaven, por donde llegan los coches importados><img src="/media/cuotas-hibridos-chinos-ue-china-2026-hero.jpg" alt="cuotas-hibridos-chinos-ue-china-2026 — fotografía del modelo"><img src="/media/cuotas-hibridos-chinos-ue-china-2026-2.jpg" alt="cuotas-hibridos-chinos-ue-china-2026 — fotografía del modelo">
 
 *Foto: Dietmar Rabich / Wikimedia Commons / CC BY-SA 4.0. Imagen temática: portacoches genéricos en un puerto europeo, no híbridos chinos en concreto.*
 
@@ -1841,7 +1848,7 @@ El Citroën C4 y el C3 Aircross actuales.<img src=/media/citroen-c4-cactus-2025-
     readTime: 3,
     keywords: ["Dacia Lodgy", "Lodgy precio", "Lodgy ficha técnica", "Dacia Lodgy opiniones", "Lodgy", "comprar Lodgy"],
     locale: "es",
-    content: `<img src=/media/dacia-lodgy-2025-hero.webp alt=Dacia Lodgy — vista exterior>
+    content: `<img src=/media/dacia-lodgy-2025-hero.webp alt=Dacia Lodgy — vista exterior><img src="/media/dacia-lodgy-2025-precio-opiniones-hero.jpg" alt="dacia-lodgy-2025-precio-opiniones — fotografía del modelo">
 
 *Imagen no oficial; licencia desconocida.*
 
@@ -2828,7 +2835,7 @@ Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 
     readTime: 3,
     keywords: ["Genesis G70", "G70 precio", "G70 ficha técnica", "Genesis G70 opiniones", "G70", "comprar G70"],
     locale: "all",
-    content: `<img src=/media/genesis-g70-2025-hero.webp alt=Genesis G70 — 2025>
+    content: `<img src=/media/genesis-g70-2025-hero.webp alt=Genesis G70 — 2025><img src="/media/genesis-g70-precio-ficha-tecnica-hero.jpg" alt="genesis-g70-precio-ficha-tecnica — fotografía del modelo">
 
 *Foto: genesisofschaumburg.com / vehq.com. Imagen no oficial; licencia desconocida.*
 
@@ -5843,7 +5850,7 @@ Mantenimiento: revisión anual o cada 15.000 km. Fuente: Lexus España (programa
       "híbrido"
     ],
     locale: "es",
-    content: `<img src=/media/lexus-lm-350h-hero.webp alt=Lexus LM 350h 2024 — vista exterior>
+    content: `<img src=/media/lexus-lm-350h-hero.webp alt=Lexus LM 350h 2024 — vista exterior><img src="/media/lexus-lm-350h-precio-opiniones-hero.jpg" alt="lexus-lm-350h-precio-opiniones — fotografía del modelo"><img src="/media/lexus-lm-350h-precio-opiniones-2.jpg" alt="lexus-lm-350h-precio-opiniones — fotografía del modelo">
 
 *Foto: carexplore.com.au. Imagen no oficial del fabricante; licencia desconocida.*
 
