@@ -20,7 +20,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
-    "heroSrc": "https://whatsupdownunder.com.au/wp-content/uploads/2026/02/starlink-mini-caravan-outfit-hero.webp",
+    "heroSrc": "/media/accesorios-caravana-autocaravana-virales-gadge-hero.jpg",
     "heroAlt": "Starlink Mini instalado en una caravana",
     "keywords": [
       "accesorios caravana",
@@ -41,7 +41,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
-    "heroSrc": "https://www.bfgcdn.com/600_600_90/870-2965/m-wave-atlas-k-11-usb-set-fietslampenset.jpg",
+    "heroSrc": "/media/accesorios-patinete-electrico-silla-bebe-gadge-hero.jpg",
     "heroAlt": "Juego de luces LED M-Wave Atlas para patinete",
     "keywords": [
       "accesorios patinete electrico",
@@ -1059,7 +1059,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "suv híbrido premium ocasión",
       "alfa romeo tonale opiniones"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "alfa-romeo-tonale-ibrida-175-precio-ficha-tecnica",
@@ -1097,7 +1097,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "tonale diésel vs híbrido",
       "alfa romeo tonale 1.6 diésel"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "alfa-romeo-tonale-phev-q4-270-precio-ficha-tecnica",
@@ -2408,7 +2408,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "autocaravana 4x4 tracción total",
       "Dethleffs España"
     ],
-    "readTime": 8
+    "readTime": 7
   },
   {
     "slug": "font-vendome-mondea-precio-ficha-tecnica",
@@ -2897,7 +2897,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "adria-twin-supreme-640-sgx-precio-ficha-tecnica",
     "title": "Adria Twin Supreme 640 SGX 2026: ficha técnica, cama-garaje elevable y precio",
-    "excerpt": "Precio orientativo de concesionario (67.490 €, no oficial): la Adria Twin Supreme 640 SGX 2026 es la camper gran volumen de 6,36 m con cama trasera elevable eléctrica, baño Duplex, techo Skyroof, Fiat",
+    "excerpt": "Adria Twin Supreme 640 SGX 2026: furgón camper de 6,36 m, cama trasera elevable con motor eléctrico, baño Duplex, Skyroof y Ducato de 140 CV, válido con el permiso B.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -2911,7 +2911,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "camper Adria cama elevable",
       "camper gran volumen 636"
     ],
-    "readTime": 8
+    "readTime": 9
   },
   {
     "slug": "burstner-lyseo-td-744-precio-ficha-tecnica",
@@ -3519,11 +3519,11 @@ export const BLOG_LITE: BlogLitePost[] = [
       "perfilada Hobby camas gemelas",
       "Hobby V65 GE opiniones"
     ],
-    "readTime": 9
+    "readTime": 8
   },
   {
     "slug": "laika-ecovip-600-precio-ficha-tecnica",
-    "title": "Laika Ecovip 600 2026: la camper de 5,99 m con doble suelo por 71.314 €, ficha y opinión",
+    "title": "Laika Ecovip 600 2026: furgón camper de 5,99 m con doble suelo",
     "excerpt": "Precio oficial 71.314 € (tarifa Francia): ficha de la Laika Ecovip 600 2026, camper toscana de 5,99 m con doble suelo real, baño Vario con maxi-ducha separable y cama de 196x150 cm. La transparencia t",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
@@ -3576,7 +3576,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "perfilada familiar 6 plazas",
       "Rimor Sarus gama"
     ],
-    "readTime": 8
+    "readTime": 9
   },
   {
     "slug": "sunlight-t-68-precio-ficha-tecnica",
@@ -4070,7 +4070,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "camper 6 metros cama fija",
       "furgoneta camper Pilote"
     ],
-    "readTime": 7
+    "readTime": 8
   },
   {
     "slug": "rimor-superbrig-687-tc-precio-ficha-tecnica",
@@ -4398,7 +4398,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "possl-2win-plus-precio-ficha-tecnica",
     "title": "Pössl 2Win Plus 2026: ficha técnica del camper familiar de 5,99 m",
-    "excerpt": "Ficha del Pössl 2Win Plus 2026: camper alemán de 5,99 m sobre Citroën Jumper de 140 CV, cama transversal de 196 cm y 4 plazas con carnet B. La web oficial no publica ficha del modelo: datos no oficial",
+    "excerpt": "Furgón camper alemán de 5,99 m sobre Citroën Jumper de 140 CV, con cama de 196 cm y 4 plazas con carnet B. Sin ficha ni PVP oficiales: datos no oficiales de ADAC.",
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
@@ -4716,7 +4716,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "perfilada Chausson 4 plazas",
       "autocaravana menos de 7 metros"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "chausson-720-etapa-precio-ficha-tecnica",
@@ -5210,7 +5210,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Pilote Evidence opiniones",
       "autocaravana francesa cambio automático"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "pilote-vega-v630j-precio-ficha-tecnica",
@@ -5438,7 +5438,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Adria Compact opiniones",
       "autocaravana carnet B España"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "autostar-passion-p730lc-lift-precio-ficha-tecnica",
@@ -5538,7 +5538,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "burstner-lyseo-i-726-g-precio-ficha-tecnica",
     "title": "Bürstner Lyseo I 726 G 2026: ficha técnica, 180 CV y carnet C1",
-    "excerpt": "Precio no publicado oficialmente: la Bürstner Lyseo I 726 G 2026 es una integral alemana de 7,36 m y 180 CV con MMA de 4.400 kg —exige el carnet C1— y 4 plazas.",
+    "excerpt": "Sin tarifa oficial en España: integral alemana de 7,36 m y 180 CV, con MMA de 4.400 kg —por eso pide el carnet C1—, 4 plazas en marcha y 4 para dormir.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -5552,7 +5552,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Lyseo I 726 G plazas",
       "autocaravana integral alemana 180 CV"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "burstner-campeo-td-690-g-precio-ficha-tecnica",
@@ -5932,7 +5932,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Hymer Xperience opiniones",
       "autocaravana perfilada carnet B"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "hymer-tramp-s-585-precio-ficha-tecnica",
@@ -6483,7 +6483,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "C-Tourer I 148 LE plazas",
       "autocaravana integral lujo"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "roller-team-auto-roller-746-2026-precio-ficha-tecnica",
@@ -6521,7 +6521,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Benimar Mileo 243 opiniones",
       "autocaravana española Fiat Ducato"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "dethleffs-trend-t-6717-eb-2026-precio-ficha-tecnica",
@@ -6540,7 +6540,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Dethleffs Trend T 6717 plazas",
       "autocaravana alemana garantía"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "knaus-boxlife-600-mq-2026-precio-ficha-tecnica",
@@ -6559,7 +6559,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "BoxLife 600 MQ plazas",
       "furgoneta camper Knaus"
     ],
-    "readTime": 7
+    "readTime": 8
   },
   {
     "slug": "possl-2win-plus-2026-precio-ficha-tecnica",
@@ -7709,7 +7709,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-12",
     "locale": "all",
     "heroSrc": "/media/baic-bj30-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "BAIC BJ30 (foto: BAIC Ecuador (importador oficial))",
+    "heroAlt": "BAIC BJ30: SUV híbrido con tracción total — fotografía del modelo",
     "keywords": [
       "baic bj30 precio",
       "baic bj30 ficha técnica",
@@ -7728,7 +7728,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-12",
     "locale": "all",
     "heroSrc": "/media/baic-bj40-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "BAIC BJ40 (foto: Autonoticias.cl)",
+    "heroAlt": "BAIC BJ40: todoterreno puro con techo desmontable — fotografía del modelo",
     "keywords": [
       "baic bj40 precio",
       "baic bj40 ficha técnica",
@@ -7737,7 +7737,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "etiqueta c baic bj40",
       "suv gasolina baic"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "bmw-m2-cs-2025-precio-ficha-tecnica",
@@ -7823,7 +7823,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-12",
     "locale": "all",
     "heroSrc": "/media/bmw-x5-m60i-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "BMW X5 M60i (foto: BMW Group (foto de prensa) vía Brian Jessel BMW)",
+    "heroAlt": "BMW X5 M60i: V8 de 530 CV con etiqueta ECO — fotografía del modelo",
     "keywords": [
       "bmw x5 m60i precio",
       "bmw x5 m60i ficha técnica",
@@ -8098,7 +8098,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "etiqueta c chery tiggo 4",
       "suv gasolina chery"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "chevrolet-corvette-c8-2025-precio-ficha-tecnica",
@@ -8174,7 +8174,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "etiqueta c dfsk 500",
       "suv gasolina dfsk"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "dongfeng-aeolus-l7-2025-precio-ficha-tecnica",
@@ -8412,7 +8412,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-12",
     "locale": "all",
     "heroSrc": "/media/evo-4-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "EVO 4 (foto: Auto Salone Internazionale / prensa DR Automobiles)",
+    "heroAlt": "EVO 4: el SUV de 4,32 m con GLP y etiqueta ECO — fotografía del modelo",
     "keywords": [
       "evo 4 precio",
       "evo 4 ficha técnica",
@@ -8450,7 +8450,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-12",
     "locale": "all",
     "heroSrc": "/media/evo-6-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "EVO 6 (foto: Automobili EVO (web oficial auto-evo.com))",
+    "heroAlt": "EVO 6: SUV de 4,5 m con cambio automático — fotografía del modelo",
     "keywords": [
       "evo 6 precio",
       "evo 6 ficha técnica",
@@ -8488,7 +8488,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-12",
     "locale": "all",
     "heroSrc": "/media/evo-cross-4-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "EVO Cross 4 (foto: EVO España (landing oficial) / DR Automobiles)",
+    "heroAlt": "EVO Cross 4: estética campera con GLP — fotografía del modelo",
     "keywords": [
       "evo cross 4 precio",
       "evo cross 4 ficha técnica",
@@ -8677,8 +8677,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/hongqi-g919-2026-precio-ficha-tecnica-hero.jpg",
+    "heroAlt": "hongqi-g919-2026-precio-ficha-tecnica — fotografía del modelo",
     "keywords": [
       "hongqi g919 precio",
       "hongqi g919 ficha técnica",
@@ -9010,7 +9010,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "land rover 4x4",
       "land rover defender 110 p400e opiniones"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "land-rover-defender-110-p525-2025-precio-ficha-tecnica",
@@ -9019,8 +9019,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
-    "heroSrc": "/media/land-rover-defender-110-p525-2025-precio-ficha-tecnica-oficial.webp",
-    "heroAlt": "Land Rover Defender 110 P525, detalle",
+    "heroSrc": "/media/land-rover-defender-110-p525-2025-precio-ficha-tecnica-hunt1.webp",
+    "heroAlt": "Defender 110 P525: el V8 de 525 CV — fotografía del modelo",
     "keywords": [
       "land rover defender 110 p525 precio",
       "land rover defender 110 p525 ficha técnica",
@@ -9152,8 +9152,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
-    "heroSrc": "/media/land-rover-discovery-sport-p270e-2025-precio-ficha-tecnica-oficial.webp",
-    "heroAlt": "Land Rover Discovery Sport P270e, detalle",
+    "heroSrc": "/media/land-rover-discovery-sport-p270e-2025-precio-ficha-tecnica-hunt1.webp",
+    "heroAlt": "Discovery Sport P270e: 7 plazas con Cero — fotografía del modelo",
     "keywords": [
       "land rover discovery sport p270e precio",
       "land rover discovery sport p270e ficha técnica",
@@ -9466,7 +9466,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "pick-up eléctrica españa",
       "maxus eterron 9 euroncap"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "maxus-mifa-9-2025-precio-ficha-tecnica",
@@ -9542,7 +9542,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "compacto deportivo 400 cv",
       "amg cla 45 s opiniones"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "mercedes-amg-cle-53-2025-precio-ficha-tecnica",
@@ -9551,8 +9551,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
-    "heroSrc": "/media/mercedes-amg-cle-53-2025-precio-ficha-tecnica-oficial.webp",
-    "heroAlt": "Mercedes-AMG CLE 53, detalle del frontal del coupé",
+    "heroSrc": "/media/mercedes-amg-cle-53-2025-precio-ficha-tecnica-hunt1.webp",
+    "heroAlt": "AMG CLE 53: 449 CV con etiqueta ECO — fotografía del modelo",
     "keywords": [
       "mercedes amg cle 53 precio",
       "amg cle 53 ficha técnica",
@@ -9570,8 +9570,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
-    "heroSrc": "/media/mercedes-amg-glc-63-s-e-performance-2025-precio-ficha-tecnica-oficial.webp",
-    "heroAlt": "Mercedes-AMG GLC 63 S, vista trasera del SUV híbrido",
+    "heroSrc": "/media/mercedes-amg-glc-63-s-e-performance-2025-precio-ficha-tecnica-hunt1.webp",
+    "heroAlt": "AMG GLC 63 S: 680 CV híbridos con etiqueta ECO — fotografía del modelo",
     "keywords": [
       "amg glc 63 s precio",
       "amg glc 63 s ficha técnica",
@@ -9589,8 +9589,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
-    "heroSrc": "/media/mercedes-amg-s-63-e-performance-2026-precio-ficha-tecnica-oficial.webp",
-    "heroAlt": "Mercedes-AMG S 63, detalle lateral de la berlina",
+    "heroSrc": "/media/mercedes-amg-s-63-e-performance-2026-precio-ficha-tecnica-hunt1.webp",
+    "heroAlt": "AMG S 63: 802 CV, la berlina más brutal — fotografía del modelo",
     "keywords": [
       "mercedes amg s 63 precio",
       "amg s 63 ficha técnica",
@@ -9666,7 +9666,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-12",
     "locale": "all",
     "heroSrc": "/media/mercedes-clase-g-450-d-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Clase G 450 d (foto: Team-BHP (prueba del G 450 d W465))",
+    "heroAlt": "Clase G 450 d: 750 Nm de diésel con etiqueta ECO — fotografía del modelo",
     "keywords": [
       "mercedes clase g 450 d precio",
       "clase g 450 d ficha técnica",
@@ -9675,7 +9675,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "clase g 2026 opiniones",
       "todoterreno premium diésel"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "mercedes-eqe-suv-2025-precio-ficha-tecnica",
@@ -9723,7 +9723,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-12",
     "locale": "all",
     "heroSrc": "/media/mg-3-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "MG 3 (foto: DivexMotor)",
+    "heroAlt": "MG 3: el utilitario desde 17.173 € — fotografía del modelo",
     "keywords": [
       "mg 3 precio españa",
       "mg 3 ficha técnica",
@@ -9856,7 +9856,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-12",
     "locale": "all",
     "heroSrc": "/media/mini-aceman-se-2024-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Mini Aceman SE (foto: BMW Group Press / MINI)",
+    "heroAlt": "Mini Aceman SE: 405 km de autonomía eléctrica — fotografía del modelo",
     "keywords": [
       "mini aceman se precio",
       "mini aceman se ficha técnica",
@@ -9932,7 +9932,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-12",
     "locale": "all",
     "heroSrc": "/media/mini-cooper-e-2024-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Mini Cooper E (foto: BMW Group Press / MINI)",
+    "heroAlt": "Mini Cooper E: eléctrico desde 28.150 € — fotografía del modelo",
     "keywords": [
       "mini cooper e precio",
       "mini cooper eléctrico ficha técnica",
@@ -10074,7 +10074,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "moke issigonis historia",
       "moke eléctrico opiniones"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "nio-et7-2025-precio-ficha-tecnica",
@@ -10207,7 +10207,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "suv eléctrico premium 2025",
       "cayenne electric vs eqs suv"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "range-rover-electric-2025-precio-ficha-tecnica",
@@ -10302,7 +10302,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "urbano barato etiqueta eco",
       "suzuki ignis opiniones"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "swm-g01-2025-precio-ficha-tecnica",
@@ -10330,8 +10330,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
-    "heroSrc": "/media/swm-g01f-2025-precio-ficha-tecnica-oficial.webp",
-    "heroAlt": "SWM G01F, vista interior",
+    "heroSrc": "/media/swm-g01f-2025-precio-ficha-tecnica-hunt1.webp",
+    "heroAlt": "SWM G01F: la versión con más carácter del SUV — fotografía del modelo",
     "keywords": [
       "swm g01f precio españa",
       "swm g01f ficha técnica",
@@ -10416,7 +10416,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Monovolumen eléctrico 2026",
       "volkswagen gama españa"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "volkswagen-id-polo-gti-2026-precio-ficha-tecnica",
@@ -10568,7 +10568,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Microcar eléctrico 2026",
       "mobilize gama españa"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "mobilize-duo-80-2025-precio-ficha-tecnica",
@@ -10587,7 +10587,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Microcar eléctrico 2026",
       "mobilize gama españa"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "mobilize-bento-2025-precio-ficha-tecnica",
@@ -10663,7 +10663,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Microcar eléctrico 2026",
       "nissan gama españa"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "silence-s04-l6e-2025-precio-ficha-tecnica",
@@ -11100,7 +11100,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Berlina eléctrico 2026",
       "bmw gama españa"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "mercedes-cla-350-4matic-2025-precio-ficha-tecnica",
@@ -11347,7 +11347,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "etiqueta eco porsche 911 carrera 4 gts",
       "deportivo híbrido porsche"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "land-rover-range-rover-electrico-2026-precio-ficha-tecnica",
@@ -11461,7 +11461,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "etiqueta c dr 5 stilnovo",
       "suv gasolina dr"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "morgan-supersport-2025-precio-ficha-tecnica",
@@ -11917,7 +11917,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "etiqueta cero polestar 6 roadster",
       "descapotable eléctrico polestar"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "mg-u9-ev-2026-precio-ficha-tecnica",
@@ -12088,7 +12088,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "etiqueta cero jaguar gt (type 00)",
       "berlina eléctrico jaguar"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "tvr-griffith-2026-precio-ficha-tecnica",
@@ -12107,7 +12107,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "etiqueta c tvr griffith",
       "deportivo gasolina tvr"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "rivian-r2-2026-precio-ficha-tecnica",
@@ -12145,7 +12145,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "etiqueta cero lucid gravity",
       "suv eléctrico lucid"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "vinfast-vf-6-2026-precio-ficha-tecnica",
@@ -12183,7 +12183,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "etiqueta cero vinfast vf 7",
       "suv eléctrico vinfast"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "togg-t10x-2026-precio-ficha-tecnica",
@@ -12202,7 +12202,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "etiqueta cero togg t10x",
       "suv eléctrico togg"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "volkswagen-id-tiguan",
@@ -12244,22 +12244,22 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "xpeng-p7-2025-nueva-generacion-precio-ficha-tecnica",
-    "title": "650 km de autonomía por 30.000 €: el P7 lo rompe",
-    "excerpt": "La nueva generación del XPeng P7 parte de 30.000 € con 367 CV y 650 km de autonomía: la berlina eléctrica que pone contra las cuerdas al Tesla Model 3.",
+    "title": "Nuevo XPeng P7: carga en 11 minutos y llega a Europa",
+    "excerpt": "XPeng confirma que el nuevo P7 llegará a Europa: 367 CV, 800 V y carga del 10 al 80 % en 11 minutos. Sin fecha, precio ni países confirmados.",
     "category": "Novedades Motor",
-    "date": "2026-10-12",
+    "date": "2026-10-26",
     "locale": "all",
     "heroSrc": "/media/xpeng-p7-2025-nueva-generacion-hero.webp",
     "heroAlt": "XPeng P7, vista exterior",
     "keywords": [
-      "xpeng p7 precio españa",
-      "p7 ficha técnica",
-      "xpeng p7 opiniones",
-      "p7 características",
-      "comprar xpeng p7",
-      "p7 vs rivales"
+      "xpeng p7 nuevo europa",
+      "xpeng p7 2025 precio",
+      "xpeng p7 carga 11 minutos",
+      "xpeng p7 vs p7+",
+      "xpeng p7 españa cuando llega",
+      "berlina eléctrica china 2026"
     ],
-    "readTime": 3
+    "readTime": 11
   },
   {
     "slug": "mg-4-urban-ev-2026-precio-ficha-tecnica",
@@ -12544,7 +12544,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "comprar changan x5 plus",
       "x5 plus vs rivales"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "bestune-yueyi-07-2025-precio-ficha-tecnica",
@@ -12620,7 +12620,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "comprar haval h6l",
       "h6l vs rivales"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "volvo-em90-2024-precio-ficha-tecnica",
@@ -12848,7 +12848,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "comprar bmw serie 3",
       "serie 3 vs rivales"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "bmw-serie-4-2025-precio-ficha-tecnica",
@@ -13703,7 +13703,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "bentley mulliner convertible",
       "descapotable más potente bentley"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "bentley-bentayga-s-2024-precio-ficha-tecnica",
@@ -14093,7 +14093,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "suv eléctrico premium 2026",
       "bmw ix1 vs audi q4"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "bmw-ix2-xdrive30-2026-precio-ficha-tecnica",
@@ -14686,7 +14686,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
-    "heroSrc": "/media/byd-ti7-2026-precio-ficha-tecnica-hero.webp",
+    "heroSrc": "/media/byd-ti7-2026-precio-ficha-tecnica-hero.jpg",
     "heroAlt": "BYD Ti7 2026, vista frontal del SUV híbrido",
     "keywords": [
       "BYD Ti7 precio",
@@ -14939,8 +14939,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/possl-trenta-640-2026-oficial-ext.webp",
+    "heroAlt": "Pössl Trenta 640 2026: precio, ficha técnica y opinión — vista exterior",
     "keywords": [
       "Pössl Trenta 640",
       "Trenta precio",
@@ -14962,7 +14962,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Kepler precio",
       "Westfalia camper"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "westfalia-columbus-2026-analisis-opinion",
@@ -14987,8 +14987,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/westfalia-amundsen-2026-oficial-ext.webp",
+    "heroAlt": "Westfalia Amundsen 2026: precio, ficha técnica y opinión — vista exterior",
     "keywords": [
       "Westfalia Amundsen 2026",
       "Amundsen precio",
@@ -15010,7 +15010,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Sven Hedin precio",
       "Westfalia techo alto"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "peugeot-traveller-camper-2026-analisis-opinion",
@@ -15402,7 +15402,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Hobby Prestige 560 plazas",
       "caravana 7,57 metros"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica",
@@ -16869,7 +16869,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "utilitario híbrido 2025",
       "Ypsilon ECO"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "lancia-ypsilon-electric-2025-precio-ficha-tecnica",
@@ -18881,7 +18881,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Honda e:Ny1 ficha técnica",
       "Honda eléctrico España"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "mazda-3-25-e-skyactiv-g-sedan-2026-precio-ficha-tecnica",
@@ -19640,7 +19640,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Mégane LFP ficha técnica",
       "compacto eléctrico 2026"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "renault-espace-2026-e-tech-200-precio-ficha-tecnica",
@@ -19754,7 +19754,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Duster etiqueta ECO",
       "Duster 2026 motores nuevos"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "dacia-duster-2026-hybrid-155-precio-ficha-tecnica",
@@ -19849,7 +19849,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "FIA eRally5",
       "A290 Trophy"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "peugeot-boxer-22-bluehdi-180-2026-precio-ficha-tecnica",
@@ -19887,7 +19887,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Peugeot Partner 2026",
       "Partner consumo 4.4"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "peugeot-2008-12-puretech-100-2026-precio-ficha-tecnica",
@@ -19906,7 +19906,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "SUV barato gasolina",
       "2008 EuroNCAP"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "peugeot-308-hibrido-145-2026-precio-ficha-tecnica",
@@ -20614,7 +20614,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/volkswagen-passat-variant-20-tsi-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "VW Passat 2.0 TSI 265 CV (foto: M 93 / Wikimedia Commons)",
+    "heroAlt": "VW Passat 2.0 TSI 265 CV: ficha — fotografía del modelo",
     "keywords": [
       "volkswagen passat variant 2.0 tsi precio",
       "passat variant 265 cv ficha técnica",
@@ -20633,7 +20633,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/volkswagen-passat-variant-ehybrid-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Passat eHybrid (foto: Volkswagen Newsroom (prensa oficial Volkswagen))",
+    "heroAlt": "Passat eHybrid: 133 km eléctricos — fotografía del modelo",
     "keywords": [
       "volkswagen passat ehybrid precio",
       "passat variant híbrido enchufable 2026",
@@ -20652,7 +20652,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/volkswagen-tayron-20-tdi-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "VW Tayron 2.0 TDI (foto: Autocritica.ro)",
+    "heroAlt": "VW Tayron 2.0 TDI: ficha y precio — fotografía del modelo",
     "keywords": [
       "volkswagen tayron 2.0 tdi precio",
       "tayron diesel 150 cv ficha",
@@ -20671,7 +20671,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/volkswagen-tayron-ehybrid-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Tayron eHybrid 2026 (foto: Electrifying.com (prueba del Tayron eHybrid R-Line))",
+    "heroAlt": "Tayron eHybrid 2026: 123 km eléctricos — fotografía del modelo",
     "keywords": [
       "volkswagen tayron ehybrid precio",
       "tayron híbrido enchufable 204 cv",
@@ -20690,7 +20690,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/volkswagen-tiguan-15-etsi-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "VW Tiguan 1.5 eTSI (foto: Volkswagen (prensa oficial) vía Sportal / Blic)",
+    "heroAlt": "VW Tiguan 1.5 eTSI: ficha y precio — fotografía del modelo",
     "keywords": [
       "volkswagen tiguan 1.5 etsi precio",
       "tiguan 150 cv ficha técnica",
@@ -20709,7 +20709,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/volkswagen-tiguan-20-tdi-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "VW Tiguan 2.0 TDI (foto: Wyborkierowcow.pl (prueba del Tiguan III 2.0 TDI SCR DSG))",
+    "heroAlt": "VW Tiguan 2.0 TDI: ficha y precio — fotografía del modelo",
     "keywords": [
       "volkswagen tiguan 2.0 tdi precio",
       "tiguan diesel 150 cv ficha",
@@ -20728,7 +20728,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/volkswagen-golf-variant-20-tdi-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "VW Golf Variant 2.0 TDI (foto: Bidcar (anuncio Golf Variant 2.0 TDI Life DSG 2023, unidad real en estudio))",
+    "heroAlt": "VW Golf Variant 2.0 TDI: ficha — fotografía del modelo",
     "keywords": [
       "volkswagen golf variant 2.0 tdi precio",
       "golf variant diesel 150 cv ficha",
@@ -20747,7 +20747,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/volkswagen-t-roc-20-tdi-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "VW T-Roc 2.0 TDI (foto: Autonoción (prueba Volkswagen T-Roc TDI 150 CV DSG R-Line 2022))",
+    "heroAlt": "VW T-Roc 2.0 TDI: ficha y precio — fotografía del modelo",
     "keywords": [
       "volkswagen t-roc 2.0 tdi precio",
       "t-roc diesel 150 cv ficha",
@@ -20766,7 +20766,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/volkswagen-golf-gti-clubsport-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Golf GTI Clubsport 300 CV (foto: Volkswagen (foto de prensa) vía Cars.co.za)",
+    "heroAlt": "Golf GTI Clubsport 300 CV: ficha — fotografía del modelo",
     "keywords": [
       "golf gti clubsport precio",
       "golf gti 300 cv ficha",
@@ -20785,7 +20785,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/volkswagen-id4-gtx-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "VW ID.4 GTX 340 CV (foto: Volkswagen (foto de prensa) vía AA Lease)",
+    "heroAlt": "VW ID.4 GTX 340 CV: ficha y precio — fotografía del modelo",
     "keywords": [
       "volkswagen id.4 gtx precio",
       "id.4 gtx 340 cv ficha",
@@ -20804,7 +20804,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/volkswagen-id7-gtx-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "VW ID.7 GTX (foto: Volkswagen Newsroom (foto de prensa oficial, DB2024AU00373))",
+    "heroAlt": "VW ID.7 GTX: 588 km de autonomía — fotografía del modelo",
     "keywords": [
       "volkswagen id.7 gtx precio",
       "id.7 gtx 340 cv ficha",
@@ -20823,7 +20823,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/volkswagen-touareg-r-ehybrid-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "VW Touareg R eHybrid (foto: Volkswagen Newsroom / Volkswagen AG)",
+    "heroAlt": "VW Touareg R eHybrid: 462 CV — fotografía del modelo",
     "keywords": [
       "volkswagen touareg r ehybrid precio",
       "touareg r 462 cv ficha",
@@ -20832,7 +20832,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "touareg r vs cayenne",
       "volkswagen más potente"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "audi-a5-avant-e-hybrid-2026-precio-ficha-tecnica",
@@ -20917,8 +20917,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/audi-q3-e-hybrid-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Audi Q3 e-hybrid (foto: Audi AG (foto de prensa oficial, vía GoNews))",
+    "heroSrc": "/media/audi-q3-e-hybrid-2026-precio-ficha-tecnica-foto1.webp",
+    "heroAlt": "Audi Q3 e-hybrid: 120 km eléctricos — fotografía del modelo",
     "keywords": [
       "audi q3 e-hybrid precio",
       "q3 e-hybrid 272 cv",
@@ -20927,7 +20927,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "q3 e-hybrid vs x1 xdrive30e",
       "q3 e-hybrid opiniones"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "audi-sq8-2026-precio-ficha-tecnica",
@@ -21051,7 +21051,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/skoda-octavia-combi-rs-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Skoda Octavia Combi RS 265 CV (foto: Skoda Auto (foto de prensa oficial, coche de prensa 5SN 4374) vía concesionario Skoda Autovalas)",
+    "heroAlt": "Skoda Octavia Combi RS 265 CV — fotografía del modelo",
     "keywords": [
       "skoda octavia combi rs precio",
       "octavia combi rs 265 cv",
@@ -21070,7 +21070,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/skoda-superb-combi-iv-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Skoda Superb Combi iV (foto: Skoda Auto (prensa, vía Presspage))",
+    "heroAlt": "Skoda Superb Combi iV: 137 km — fotografía del modelo",
     "keywords": [
       "skoda superb combi iv precio",
       "superb combi iv 204 cv",
@@ -21165,7 +21165,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/skoda-kamiq-monte-carlo-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Skoda Kamiq Monte Carlo 150 CV (foto: Carscoops (imagen de prensa Skoda))",
+    "heroAlt": "Skoda Kamiq Monte Carlo 150 CV — fotografía del modelo",
     "keywords": [
       "skoda kamiq monte carlo precio",
       "kamiq monte carlo 150 cv",
@@ -21469,7 +21469,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/porsche-taycan-turbo-s-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Porsche Taycan Turbo S (foto: Porsche (prensa oficial) vía TFLcar)",
+    "heroAlt": "Porsche Taycan Turbo S: 952 CV y 2,4 s — fotografía del modelo",
     "keywords": [
       "porsche taycan turbo s precio",
       "taycan turbo s 952 cv",
@@ -21488,7 +21488,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/porsche-cayenne-s-e-hybrid-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Porsche Cayenne S E-Hybrid (foto: Porsche AG (foto oficial de prensa))",
+    "heroAlt": "Porsche Cayenne S E-Hybrid: 519 CV y ECO — fotografía del modelo",
     "keywords": [
       "porsche cayenne s e-hybrid precio",
       "cayenne s ehybrid 519 cv",
@@ -21564,7 +21564,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/peugeot-e-3008-dual-motor-325-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Peugeot E-3008 Dual Motor (foto: Actu-Automobile (ensayo del E-3008 Dual Motor))",
+    "heroAlt": "Peugeot E-3008 Dual Motor: 325 CV y 497 km WLTP — fotografía del modelo",
     "keywords": [
       "Peugeot E-3008 Dual Motor precio",
       "E-3008 Dual Motor 325 autonomía",
@@ -21583,7 +21583,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/peugeot-e-5008-320-dual-motor-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Peugeot E-5008 Dual Motor (foto: Actu-Automobile (ensayo del E-5008 Dual Motor))",
+    "heroAlt": "Peugeot E-5008 Dual Motor: 322 CV y 7 plazas — fotografía del modelo",
     "keywords": [
       "Peugeot E-5008 Dual Motor precio",
       "E-5008 2026 autonomía",
@@ -21602,7 +21602,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/peugeot-e-308-sw-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Peugeot E-308 SW (foto: Peugeot (foto oficial de prensa, vía ArenaEV))",
+    "heroAlt": "Peugeot E-308 SW: 410 km de autonomía eléctrica — fotografía del modelo",
     "keywords": [
       "Peugeot E-308 SW precio",
       "E-308 SW autonomía",
@@ -21640,7 +21640,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/peugeot-e-boxer-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Peugeot E-Boxer (foto: Peugeot / Stellantis (foto de prensa oficial) vía Walkers Motor Group)",
+    "heroAlt": "Peugeot E-Boxer: 424 km eléctricos para tu negocio — fotografía del modelo",
     "keywords": [
       "Peugeot E-Boxer",
       "E-Boxer 2026 autonomía",
@@ -21659,7 +21659,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/peugeot-rifter-15-bluehdi-130-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Peugeot Rifter BlueHDi 130 (foto: Peugeot / Stellantis (prensa) vía Auto-Data.net)",
+    "heroAlt": "Peugeot Rifter BlueHDi 130: la ludospace diésel — fotografía del modelo",
     "keywords": [
       "Peugeot Rifter BlueHDi 130",
       "Rifter diésel 2026",
@@ -21678,7 +21678,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/peugeot-expert-20-bluehdi-180-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Peugeot Expert BlueHDi 180 (foto: Peugeot (prensa oficial) vía Autoblog Uruguay)",
+    "heroAlt": "Peugeot Expert BlueHDi 180: furgón diésel eficiente — fotografía del modelo",
     "keywords": [
       "Peugeot Expert BlueHDi 180",
       "Expert diésel 2026",
@@ -21697,7 +21697,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/peugeot-3008-12-hybrid-136-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Peugeot 3008 Hybrid 136 (foto: Peugeot (prensa oficial) / Driving Enthusiast)",
+    "heroAlt": "Peugeot 3008 Hybrid 136: el SUV híbrido — fotografía del modelo",
     "keywords": [
       "Peugeot 3008 Hybrid 136",
       "3008 híbrido 2025",
@@ -21716,7 +21716,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/peugeot-5008-12-hybrid-136-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Peugeot 5008 Hybrid 136 (foto: CompleteCar.ie (ensayo del Peugeot 5008 Hybrid 2025))",
+    "heroAlt": "Peugeot 5008 Hybrid 136: 7 plazas con etiqueta ECO — fotografía del modelo",
     "keywords": [
       "Peugeot 5008 Hybrid 136",
       "5008 híbrido 7 plazas",
@@ -21754,7 +21754,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/citroen-c4-12-puretech-130-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Citroën C4 PureTech 130 (foto: AutoMagazin.sk)",
+    "heroAlt": "Citroën C4 PureTech 130: confort y estilo — fotografía del modelo",
     "keywords": [
       "Citroën C4 PureTech 130",
       "C4 2025 ficha técnica",
@@ -21792,7 +21792,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/citroen-c5-aircross-12-puretech-130-2024-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Citroën C5 Aircross PureTech 130 (foto: CarExpert / Citroën (prensa))",
+    "heroAlt": "Citroën C5 Aircross PureTech 130: el SUV confort — fotografía del modelo",
     "keywords": [
       "Citroën C5 Aircross PureTech 130",
       "C5 Aircross 2024",
@@ -21811,7 +21811,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/citroen-ami-cargo-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Citroën Ami Cargo (foto: Van Reviewer / Citroën UK (foto de prensa en prueba))",
+    "heroAlt": "Citroën Ami Cargo: el microfurgón eléctrico urbano — fotografía del modelo",
     "keywords": [
       "Citroën Ami Cargo",
       "Ami Cargo 2026",
@@ -21830,7 +21830,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/opel-rocks-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Opel Rocks (foto: Opel / Stellantis (prensa oficial, vía Infomotori))",
+    "heroAlt": "Opel Rocks: el cuadriciclo eléctrico para ciudad — fotografía del modelo",
     "keywords": [
       "Opel Rocks 2026",
       "Rocks eléctrico precio",
@@ -21849,7 +21849,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/opel-astra-12-turbo-130-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Opel Astra 1.2 Turbo 130 (foto: Opel / Stellantis (foto de prensa, vía CarChecker.pro))",
+    "heroAlt": "Opel Astra 1.2 Turbo 130: el compacto alemán — fotografía del modelo",
     "keywords": [
       "Opel Astra 1.2 Turbo 130",
       "Astra 2025 ficha técnica",
@@ -21868,7 +21868,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/opel-astra-sports-tourer-12-turbo-130-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Opel Astra Sports Tourer (foto: Moniteur Automobile / Opel (foto de prensa))",
+    "heroAlt": "Opel Astra Sports Tourer: el familiar Turbo 130 — fotografía del modelo",
     "keywords": [
       "Opel Astra Sports Tourer",
       "Astra familiar Turbo 130",
@@ -21906,7 +21906,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/opel-grandland-12-turbo-130-2024-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Opel Grandland 1.2 Turbo 130 (foto: Opel (foto de prensa) vía Mycamelleva)",
+    "heroAlt": "Opel Grandland 1.2 Turbo 130: SUV familiar — fotografía del modelo",
     "keywords": [
       "Opel Grandland 1.2 Turbo 130",
       "Grandland 2024 ficha",
@@ -21925,7 +21925,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/opel-combo-15-diesel-130-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Opel Combo 1.5 Diesel 130 (foto: Arnold Chatz Cars / Cars.co.za)",
+    "heroAlt": "Opel Combo 1.5 Diesel 130: furgón versátil — fotografía del modelo",
     "keywords": [
       "Opel Combo 1.5 Diesel 130",
       "Combo diésel 2025",
@@ -21963,7 +21963,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/opel-movano-22-diesel-180-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Opel Movano 2.2 Diesel 180 (foto: Opel / Wiveda (concesionario))",
+    "heroAlt": "Opel Movano 2.2 Diesel 180: el furgón grande — fotografía del modelo",
     "keywords": [
       "Opel Movano 2.2 Diesel 180",
       "Movano diésel 2025",
@@ -21982,7 +21982,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/fiat-e-scudo-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Fiat E-Scudo (foto: Fiat Professional (foto de prensa oficial, E-Scudo Primo gris Artense, oct-2024) vía EV Powered)",
+    "heroAlt": "Fiat E-Scudo: 352 km eléctricos con 6,6 m³ — fotografía del modelo",
     "keywords": [
       "Fiat E-Scudo",
       "E-Scudo 2026 autonomía",
@@ -22001,7 +22001,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/fiat-e-ducato-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Fiat E-Ducato (foto: Fiat Professional / Car and Driving)",
+    "heroAlt": "Fiat E-Ducato: 424 km y 17 m³ eléctricos — fotografía del modelo",
     "keywords": [
       "Fiat E-Ducato",
       "E-Ducato 2026 autonomía",
@@ -22020,7 +22020,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/fiat-scudo-20-mjt-180-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Fiat Scudo MultiJet 180 (foto: Fiat Professional (foto de prensa oficial del Scudo facelift, furgón blanco matrícula CV 024FI; EXIF © Simona Alampi) vía Rivervale)",
+    "heroAlt": "Fiat Scudo MultiJet 180: furgón diésel eficiente — fotografía del modelo",
     "keywords": [
       "Fiat Scudo MultiJet 180",
       "Scudo diésel 2026",
@@ -22039,7 +22039,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/fiat-ducato-22-mjt-180-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Fiat Ducato MultiJet 180 (foto: Fiat Professional / CarExpert)",
+    "heroAlt": "Fiat Ducato MultiJet 180: el furgón más vendido — fotografía del modelo",
     "keywords": [
       "Fiat Ducato MultiJet 180",
       "Ducato diésel 2026",
@@ -22058,7 +22058,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/fiat-600-12-turbo-100-2024-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Fiat 600 Turbo 100 (foto: CompleteCar.ie (prueba del Fiat 600 1.2 Hybrid 2024))",
+    "heroAlt": "Fiat 600 Turbo 100: el SUV italiano de acceso — fotografía del modelo",
     "keywords": [
       "Fiat 600 Turbo 100",
       "600 2024 ficha técnica",
@@ -22077,7 +22077,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/fiat-tipo-16-mjt-130-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Fiat Tipo MultiJet 130 (foto: Corvettec6r / Wikimedia Commons)",
+    "heroAlt": "Fiat Tipo MultiJet 130: el compacto diésel barato — fotografía del modelo",
     "keywords": [
       "Fiat Tipo MultiJet 130",
       "Tipo diésel 2025",
@@ -22096,7 +22096,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/fiat-500e-cabrio-118-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Fiat 500e Cabrio (foto: Fiat (foto de prensa oficial) vía EV Database)",
+    "heroAlt": "Fiat 500e Cabrio: el descapotable eléctrico — fotografía del modelo",
     "keywords": [
       "Fiat 500e Cabrio",
       "500e descapotable",
@@ -22133,8 +22133,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/jeep-compass-15-e-hybrid-130-2025-precio-ficha-tecnica-oficial.webp",
-    "heroAlt": "Jeep Compass e-Hybrid, vista lateral",
+    "heroSrc": "/media/jeep-compass-15-e-hybrid-130-2025-precio-ficha-tecnica-hunt1.webp",
+    "heroAlt": "Jeep Compass e-Hybrid 130: etiqueta ECO — fotografía del modelo",
     "keywords": [
       "Jeep Compass e-Hybrid 130",
       "Compass híbrido 2025",
@@ -22248,7 +22248,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/renault-5-turbo-3e-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Renault 5 Turbo 3E (foto: Renault (imagen oficial de prensa del modelo de producción) vía Uncrate)",
+    "heroAlt": "Renault 5 Turbo 3E: 540 CV eléctricos de locura — fotografía del modelo",
     "keywords": [
       "Renault 5 Turbo 3E",
       "5 Turbo 3E precio",
@@ -22286,7 +22286,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/renault-trafic-e-tech-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Renault Trafic E-Tech (foto: Renault Communications / AutoMais TV)",
+    "heroAlt": "Renault Trafic E-Tech: 297 km eléctricos — fotografía del modelo",
     "keywords": [
       "Renault Trafic E-Tech",
       "Trafic eléctrico 2026",
@@ -22305,7 +22305,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/renault-master-e-tech-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Renault Master E-Tech (foto: Renault (prensa oficial) vía Sustainable Truck & Van)",
+    "heroAlt": "Renault Master E-Tech: 460 km eléctricos — fotografía del modelo",
     "keywords": [
       "Renault Master E-Tech",
       "Master eléctrico 2026",
@@ -22324,7 +22324,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/renault-captur-2026-e-tech-160-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Renault Captur E-Tech 160 (foto: Renault (foto de prensa) vía Carsales)",
+    "heroAlt": "Renault Captur E-Tech 160: 4,4 l/100 km — fotografía del modelo",
     "keywords": [
       "Renault Captur E-Tech 160",
       "Captur híbrido 2026 precio",
@@ -22343,7 +22343,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/renault-arkana-2026-e-tech-145-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Renault Arkana E-Tech 145 (foto: Renault (foto de prensa oficial) vía CarExpert)",
+    "heroAlt": "Renault Arkana E-Tech 145: coupé híbrido — fotografía del modelo",
     "keywords": [
       "Renault Arkana E-Tech 145",
       "Arkana híbrido 2026 precio",
@@ -22362,7 +22362,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/renault-grand-kangoo-e-tech-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Renault Grand Kangoo E-Tech (foto: Renault (prensa oficial))",
+    "heroAlt": "Renault Grand Kangoo E-Tech: 7 plazas eléctricas — fotografía del modelo",
     "keywords": [
       "Renault Grand Kangoo E-Tech",
       "Grand Kangoo eléctrico",
@@ -22381,7 +22381,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/renault-trafic-20-dci-170-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Renault Trafic dCi 170 (foto: Renault (prensa) vía Carwow España)",
+    "heroAlt": "Renault Trafic dCi 170: el furgón diésel — fotografía del modelo",
     "keywords": [
       "Renault Trafic dCi 170",
       "Trafic diésel 2026",
@@ -22400,7 +22400,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/renault-master-23-dci-180-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Renault Master dCi 180 (foto: Renault (foto de prensa) vía AutoData1)",
+    "heroAlt": "Renault Master dCi 180: furgón grande diésel — fotografía del modelo",
     "keywords": [
       "Renault Master dCi 180",
       "Master diésel 2026",
@@ -22409,7 +22409,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Master 400 Nm",
       "Master carga útil"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "renault-captur-2026-tce-90-precio-ficha-tecnica",
@@ -22571,7 +22571,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/nissan-qashqai-e-power-190-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Nissan Qashqai e-POWER 2025 (foto: CompleteCar.ie (prueba del Qashqai e-Power 2025))",
+    "heroAlt": "Nissan Qashqai e-POWER 2025: 190 CV y 4,3 l/100 km — fotografía del modelo",
     "keywords": [
       "Nissan Qashqai e-POWER 2025",
       "Qashqai e-POWER precio",
@@ -22609,7 +22609,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/ford-puma-mhev-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Ford Puma mHEV 2025 (foto: Ford (foto de prensa oficial, vía Ford Authority))",
+    "heroAlt": "Ford Puma mHEV 2025: 155 CV con etiqueta ECO — fotografía del modelo",
     "keywords": [
       "Ford Puma mHEV 2025 precio",
       "Ford Puma 155 CV",
@@ -22704,7 +22704,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/bmw-i5-edrive40-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "BMW i5 eDrive40 2025 (foto: BMW Group (foto de prensa) vía CarExpert)",
+    "heroAlt": "BMW i5 eDrive40 2025: 627 km de autonomía eléctrica — fotografía del modelo",
     "keywords": [
       "BMW i5 eDrive40 precio",
       "BMW i5 autonomía 627 km",
@@ -22761,7 +22761,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/bmw-m440i-xdrive-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "BMW M440i xDrive 2025 (foto: BMW Group (foto de prensa) vía MotorTrend)",
+    "heroAlt": "BMW M440i xDrive 2025: 392 CV con etiqueta ECO — fotografía del modelo",
     "keywords": [
       "BMW M440i precio",
       "M440i xDrive 392 CV",
@@ -22799,7 +22799,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/toyota-land-cruiser-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Toyota Land Cruiser 2026 (foto: Toyota Europa (foto de prensa) vía NepalDrives)",
+    "heroAlt": "Toyota Land Cruiser 2026: el todoterreno híbrido — fotografía del modelo",
     "keywords": [
       "Toyota Land Cruiser 2026 precio",
       "Land Cruiser 250 ficha técnica",
@@ -22818,7 +22818,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/toyota-bz4x-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Toyota bZ4X 2025 (foto: Toyota Europe (prensa) / Hybrid.cz)",
+    "heroAlt": "Toyota bZ4X 2025: 569 km de autonomía eléctrica — fotografía del modelo",
     "keywords": [
       "Toyota bZ4X 2025 precio",
       "bZ4X autonomía",
@@ -22856,7 +22856,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/honda-civic-ehev-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Honda Civic e (foto: ZaVolantem.cz (prueba del facelift))",
+    "heroAlt": "Honda Civic e:HEV 2025: 184 CV híbridos eficientes — fotografía del modelo",
     "keywords": [
       "Honda Civic e:HEV 2025 precio",
       "Civic híbrido ficha técnica",
@@ -22875,7 +22875,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/toyota-corolla-5p-140h-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Toyota Corolla 140H 2025 (foto: Toyota (foto de prensa) / Autodevot)",
+    "heroAlt": "Toyota Corolla 140H 2025: el híbrido que todo — fotografía del modelo",
     "keywords": [
       "Toyota Corolla 140H 2025 precio",
       "Corolla híbrido ficha técnica",
@@ -22894,7 +22894,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/honda-hr-v-ehev-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Honda HR-V e (foto: Honda (prensa) / Auto Online Magazin)",
+    "heroAlt": "Honda HR-V e:HEV 2025: SUV híbrido práctico — fotografía del modelo",
     "keywords": [
       "Honda HR-V e:HEV 2025 precio",
       "HR-V híbrido ficha técnica",
@@ -22913,7 +22913,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/honda-e-ny1-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Honda e (foto: Honda (foto de prensa europea) / AutoTrader NZ)",
+    "heroAlt": "Honda e:Ny1 2025: el SUV eléctrico de Honda, 412 km — fotografía del modelo",
     "keywords": [
       "Honda e:Ny1 2025 precio",
       "e:Ny1 autonomía",
@@ -22932,7 +22932,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/honda-jazz-ehev-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Honda Jazz e (foto: M 93 / Wikimedia Commons)",
+    "heroAlt": "Honda Jazz e:HEV 2025: el urbano híbrido — fotografía del modelo",
     "keywords": [
       "Honda Jazz e:HEV 2025 precio",
       "Jazz híbrido ficha técnica",
@@ -22951,7 +22951,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/nissan-micra-ev-52kwh-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Nissan Micra EV 2026 (foto: Nissan (foto de prensa) vía Actualidad Motor)",
+    "heroAlt": "Nissan Micra EV 2026: 150 CV y 408 km de autonomía — fotografía del modelo",
     "keywords": [
       "Nissan Micra EV 2026 precio",
       "Micra eléctrico autonomía",
@@ -22970,7 +22970,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/ford-capri-ev-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Ford Capri EV 2025 (foto: Ford (press kit de lanzamiento, vía Automotive Daily))",
+    "heroAlt": "Ford Capri EV 2025: el mito vuelve con 627 km — fotografía del modelo",
     "keywords": [
       "Ford Capri EV 2025 precio",
       "Capri eléctrico autonomía",
@@ -22989,7 +22989,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/toyota-camry-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Toyota Camry 2025 (foto: Android.com.pl (prueba en Polonia))",
+    "heroAlt": "Toyota Camry 2025: la berlina híbrida de 231 CV — fotografía del modelo",
     "keywords": [
       "Toyota Camry 2025",
       "Camry híbrido ficha técnica",
@@ -23121,8 +23121,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/bmw-serie-8-840i-gc-2026-precio-ficha-tecnica-oficial.webp",
-    "heroAlt": "BMW Serie 8 840i Gran Coupé 2026, vista lateral",
+    "heroSrc": "/media/bmw-serie-8-840i-gc-2026-precio-ficha-tecnica-hunt1.webp",
+    "heroAlt": "BMW Serie 8 840i Gran Coupé 2026: lujo de 333 CV — fotografía del modelo",
     "keywords": [
       "BMW Serie 8 840i 2026 precio",
       "840i Gran Coupé ficha técnica",
@@ -23777,7 +23777,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Cupra Ateca ficha",
       "Ateca 2.0 TSI 190"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "cupra-ateca-vz-300-2025-precio-ficha-tecnica",
@@ -23831,7 +23831,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Cupra Raval autonomía",
       "Raval Endurance precio"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "cupra-raval-vz-226-2026-precio-ficha-tecnica",
@@ -24290,7 +24290,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-09-28",
     "locale": "es",
-    "heroSrc": "/media/file_lH36sq52hwtB62b5mG5PTiN0.webp",
+    "heroSrc": "/media/tasa-unica-alcohol-02-reforma-hero.jpg",
     "heroAlt": "Control de alcoholemia nocturno en carretera española",
     "keywords": [
       "tasa única alcohol 0",
@@ -24300,7 +24300,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "límite alcohol DGT",
       "recurrir multa alcoholemia"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "descubre-las-nuevas-medidas-de-la-dgt-para-octubre-uso-obligatorio-de-guantes-y-calzado-para-motoristas-fin-de-exenciones-del-cinturon-y-como-recurrir-multas",
@@ -24309,7 +24309,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-14",
     "locale": "es",
-    "heroSrc": "/media/file_OpUts9ah6esIitoCimDpGfoD.webp",
+    "heroSrc": "/media/descubre-las-nuevas-medidas-de-la-dgt-para-oct-hero.jpg",
     "heroAlt": "Guantes obligatorios moto 2026",
     "keywords": [
       "nuevas restricciones dgt octubre motoristas guantes",
@@ -24327,7 +24327,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-09-30",
     "locale": "es",
-    "heroSrc": "/media/file_zC1X95ScWnv8CV8Vg87CX8Z3.webp",
+    "heroSrc": "/media/guantes-calzado-obligatorios-moto-octubre-hero.jpg",
     "heroAlt": "Motorista con guantes de protección, casco homologado y calzado cerrado",
     "keywords": [
       "guantes obligatorios moto",
@@ -24345,7 +24345,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-15",
     "locale": "es",
-    "heroSrc": "/media/file_Rg3lNWCmuJFceYG5fnr5GxkV.jpg",
+    "heroSrc": "/media/como-recurrir-multa-de-patinete-electrico-vmp-hero.jpg",
     "heroAlt": "Patinete eléctrico aparcado en un carril bici de ciudad",
     "keywords": [
       "como recurrir multa patinete electrico vmp",
@@ -24363,7 +24363,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-15",
     "locale": "es",
-    "heroSrc": "/media/file_HXsc74ugJdRcrD6OUbWw6UYq.webp",
+    "heroSrc": "/media/multas-a-patinetes-electricos-vmp-en-espana-20-hero.jpg",
     "heroAlt": "Multas a patinetes eléctricos",
     "keywords": [
       "vmp certificado dgt",
@@ -24382,7 +24382,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-14",
     "locale": "es",
-    "heroSrc": "/media/file_WssTD2LL45WN2edIRTqJafQK.webp",
+    "heroSrc": "/media/como-recurrir-multas-de-la-zbe-en-madrid-barce-hero.jpg",
     "heroAlt": "Recurrir multas ZBE Madrid",
     "keywords": [
       "ZBE Madrid 2026",
@@ -24400,7 +24400,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-15",
     "locale": "es",
-    "heroSrc": "/media/file_4Gs93taXVql5TCAhTiPRXcmV.jpg",
+    "heroSrc": "/media/margenes-de-error-de-los-radares-de-la-dgt-te-hero.jpg",
     "heroAlt": "Pórtico con cámaras de control de velocidad sobre una autopista",
     "keywords": [
       "margenes de error radares dgt velocidad",
@@ -24418,7 +24418,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-09-30",
     "locale": "es",
-    "heroSrc": "/media/file_fgdgudOvVKs0aUhgTfCneTcC.webp",
+    "heroSrc": "/media/autocaravanas-aparcar-norma-octubre-hero.jpg",
     "heroAlt": "Autocaravana blanca aparcada correctamente en batería en una calle de España",
     "keywords": [
       "aparcar autocaravana multa",
@@ -24437,7 +24437,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-14",
     "locale": "es",
-    "heroSrc": "/media/file_VXXdoXUOkY5Ok4EJcLQC3Rwb.webp",
+    "heroSrc": "/media/el-coche-te-vigila-obligatoriedad-del-sistema-hero.jpg",
     "heroAlt": "Conductor al volante con cámara",
     "keywords": [
       "sistema addw vigilancia conductor coches nuevos",
@@ -24455,7 +24455,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-09-27",
     "locale": "es",
-    "heroSrc": "/media/file_F5pOIfRNbW2zwMuYBxtqNVJp.webp",
+    "heroSrc": "/media/patinete-electrico-normativa-dgt-2026-multas-hero.jpg",
     "heroAlt": "Agente de policía local junto a un patinete eléctrico en una calle de una ciudad española",
     "keywords": [
       "multa patinete eléctrico",
@@ -24473,7 +24473,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-09-30",
     "locale": "es",
-    "heroSrc": "/media/file_BgIXd1FXf5rDAxTesOs8u5UA.webp",
+    "heroSrc": "/media/plataforma-unica-prioridad-peaton-hero.jpg",
     "heroAlt": "Calle de casco histórico español con plataforma única, peatón cruzando y coche detenido",
     "keywords": [
       "plataforma única peatones",
@@ -24492,7 +24492,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Radares y Velocidad",
     "date": "2026-09-29",
     "locale": "es",
-    "heroSrc": "/media/file_LbTIcL2qqVQAhrzxPbrOcH97.webp",
+    "heroSrc": "/media/radares-velolaser-dgt-2026-que-son-donde-los-c-hero.jpg",
     "heroAlt": "Radar láser Veloláser de la DGT sobre un trípode junto al quitamiedos de una autovía al atardecer",
     "keywords": [
       "radares velolaser",
@@ -24510,7 +24510,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-09-28",
     "locale": "es",
-    "heroSrc": "/media/file_G1WwUcEv8jWczz67F5KQR1xp.webp",
+    "heroSrc": "/media/casco-obligatorio-bicicleta-carretera-octubre-hero.jpg",
     "heroAlt": "Ciclistas con casco circulando por una carretera secundaria al atardecer",
     "keywords": [
       "casco obligatorio bicicleta",
@@ -24528,7 +24528,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-09-29",
     "locale": "es",
-    "heroSrc": "/media/file_wx3IAH46m8dZsFDO5XWwSaRH.webp",
+    "heroSrc": "/media/adelantar-ciclistas-nueva-norma-octubre-hero.jpg",
     "heroAlt": "Coche adelantando a ciclistas con separación lateral en carretera al atardecer",
     "keywords": [
       "nueva norma adelantar ciclistas",
@@ -24548,7 +24548,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-18",
     "locale": "es",
-    "heroSrc": "/media/file_426BI0BW97IGaLdej25Up3d2.jpg",
+    "heroSrc": "/media/nuevas-marcas-viales-en-forma-de-circulo-que-s-hero.jpg",
     "heroAlt": "Motocicleta tumbando en una curva al atardecer sobre marcas viales en forma de círculo",
     "keywords": [
       "nuevas marcas viales circulos carreteras",
@@ -24586,7 +24586,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-14",
     "locale": "es",
-    "heroSrc": "/media/file_FLa7XV3eZhvDBCsZHP59jp9c.webp",
+    "heroSrc": "/media/el-nuevo-carril-de-emergencia-obligatorio-en-r-hero.jpg",
     "heroAlt": "Atasco en autopista con los coches apartados dejando libre el carril central para una ambulancia",
     "keywords": [
       "carril de emergencia obligatorio retenciones dgt",
@@ -24604,7 +24604,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-15",
     "locale": "es",
-    "heroSrc": "/media/file_771tEknqCBqh15FElxO3a1Og.jpg",
+    "heroSrc": "/media/prescripcion-y-caducidad-de-las-multas-de-traf-hero.jpg",
     "heroAlt": "multa DGT reclamada",
     "keywords": [
       "cuando prescribe una multa de trafico dgt",
@@ -24622,7 +24622,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-15",
     "locale": "es",
-    "heroSrc": "/media/file_Pr2wQ26s58BlQLCUs1Ys8aJN.jpg",
+    "heroSrc": "/media/te-van-a-multar-por-llevar-los-cristales-delan-hero.jpg",
     "heroAlt": "tintar lunas multas homologar",
     "keywords": [
       "cristales delanteros tintados legal dgt",
@@ -24641,7 +24641,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-14",
     "locale": "es",
-    "heroSrc": "/media/file_ztymn5quGBdk7TkEhb6Fwd4B.webp",
+    "heroSrc": "/media/multas-absurdas-de-la-dgt-tabla-oficial-de-san-hero.jpg",
     "heroAlt": "Multas absurdas de la DGT",
     "keywords": [
       "multas dgt poco conocidas",
@@ -24660,7 +24660,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-15",
     "locale": "es",
-    "heroSrc": "/media/file_mbybwsrf6KVGj8pgcLVYo12P.jpg",
+    "heroSrc": "/media/atropello-de-jabali-o-animal-en-la-carretera-q-hero.jpg",
     "heroAlt": "Jabalí cruzando el arcén de noche junto a un coche detenido y un vehículo de la Guardia Civil",
     "keywords": [
       "atropellar jabali quien paga daños coche",
@@ -24678,7 +24678,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-14",
     "locale": "es",
-    "heroSrc": "/media/file_DYWTcDVsS8FZ9cH5hJfSHKqm.webp",
+    "heroSrc": "/media/normas-de-trafico-mas-raras-y-estrictas-en-eur-hero.jpg",
     "heroAlt": "Normas de tráfico raras en Europa",
     "keywords": [
       "normas de trafico raras europa",
@@ -24696,7 +24696,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-15",
     "locale": "es",
-    "heroSrc": "/media/file_kbZyyCrxi4nUKUC0U207Sk99.jpg",
+    "heroSrc": "/media/itv-cada-cuanto-me-toca-tabla-por-anos-multas-hero.jpg",
     "heroAlt": "ITV madrid",
     "keywords": [
       "cada cuanto pasar itv coche",
@@ -24715,7 +24715,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-20",
     "locale": "es",
-    "heroSrc": "/media/file_WSebgBwttreXq13QaKisyzA7.webp",
+    "heroSrc": "/media/como-recurrir-multas-de-trafico-en-ceuta-y-mel-hero.jpg",
     "heroAlt": "recurrir multa Ceuta y melilla",
     "keywords": [
       "recurrir multas de trafico ceuta y melilla",
@@ -24732,7 +24732,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-14",
     "locale": "es",
-    "heroSrc": "/media/file_C9GYItbbYrI9gA2GpM1x0TIC.webp",
+    "heroSrc": "/media/balizas-v16-vs-triangulos-el-gran-debate-nacio-hero.jpg",
     "heroAlt": "Baliza V16 obligatoria encendida",
     "keywords": [
       "baliza V16 obligatoria",
@@ -24750,7 +24750,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-09-19",
     "locale": "es",
-    "heroSrc": "/media/file_i6WEHDBAS6oxpaoF4BCyzZ84.jpg",
+    "heroSrc": "/media/coches-autonomos-de-nivel-3-y-4-en-espana-quie-hero.jpg",
     "heroAlt": "Interior de un coche autónomo con pantalla de conducción automatizada y el conductor sin tocar el volante",
     "keywords": [],
     "readTime": 5
@@ -24762,7 +24762,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-14",
     "locale": "es",
-    "heroSrc": "/media/file_9vbnKlcgkwRO4a6NCLrf5uMQ.webp",
+    "heroSrc": "/media/preinstalacion-obligatoria-de-alcoholimetros-a-hero.jpg",
     "heroAlt": "Alcoholímetro Alcolock obligatorio",
     "keywords": [
       "alcolock",
@@ -24781,7 +24781,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-09-29",
     "locale": "es",
-    "heroSrc": "/media/file_yyeNxONrPfytpAPLwjOOfePi.webp",
+    "heroSrc": "/media/motos-arcen-atascos-nueva-norma-hero.jpg",
     "heroAlt": "Motos circulando por el arcén en un atasco en autopista",
     "keywords": [
       "motos circular por el arcén atascos",
@@ -24799,7 +24799,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-09-29",
     "locale": "es",
-    "heroSrc": "/media/file_ryjetwBYSxXVQObcJtfdJB9X.webp",
+    "heroSrc": "/media/entornos-escolares-seguros-octubre-hero.jpg",
     "heroAlt": "Entrada de un colegio en España por la mañana con señal de restricción de tráfico en primer plano",
     "keywords": [
       "entornos escolares seguros",
@@ -24818,7 +24818,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-19",
     "locale": "es",
-    "heroSrc": "/media/file_9sIxG51YwHguMGfBzrlTt4VF.jpg",
+    "heroSrc": "/media/homologacion-camper-y-caravanas-en-espana-vaci-hero.jpg",
     "heroAlt": "Furgoneta camper al atardecer en la montaña con anotaciones de homologación",
     "keywords": [
       "homologar furgoneta camper vacios legales espana",
@@ -24835,7 +24835,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-15",
     "locale": "es",
-    "heroSrc": "/media/file_cvJ7JCB8yWCnOhtHMAvNgcRr.jpg",
+    "heroSrc": "/media/ruedas-de-km0-chollo-o-timo-pros-contras-preci-hero.jpg",
     "heroAlt": "neumáticos de ocasion",
     "keywords": [
       "neumaticos km0 opiniones",
@@ -24854,7 +24854,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-09-30",
     "locale": "es",
-    "heroSrc": "/media/file_ZQpmn5eiriITOvWig4WfBdJH.webp",
+    "heroSrc": "/media/patinetes-15-anos-casco-obligatorio-hero.jpg",
     "heroAlt": "Joven con casco circulando en patinete eléctrico por la ciudad",
     "keywords": [
       "patinete eléctrico edad mínima 15 años",
@@ -24873,7 +24873,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-13",
     "locale": "es",
-    "heroSrc": "/media/file_3Vfla3ZGND2Uk7vEE3E2SS1f.webp",
+    "heroSrc": "/media/multas-de-trafico-en-barcelona-y-la-zbe-como-r-hero.jpg",
     "heroAlt": "Multas de tráfico en Barcelona y ZBE",
     "keywords": [
       "ZBE Barcelona",
@@ -24891,7 +24891,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Procedimiento",
     "date": "2026-09-15",
     "locale": "es",
-    "heroSrc": "/media/file_okJhFDtFUaQsQ4wtq34TS40P.jpg",
+    "heroSrc": "/media/multas-dgt-hero.jpg",
     "heroAlt": "multas por escape",
     "keywords": [],
     "readTime": 5
@@ -24903,7 +24903,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-13",
     "locale": "es",
-    "heroSrc": "/media/file_7rL5w9IdWEI27UmmT1XKZsHv.webp",
+    "heroSrc": "/media/multas-de-aparcamiento-y-grua-en-madrid-como-r-hero.jpg",
     "heroAlt": "Grúa y multas de aparcamiento en Madrid",
     "keywords": [
       "recurrir multa grua Madrid",
@@ -24912,7 +24912,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "analisis automatico de multas",
       "sancion mal estacionamiento Ayuntamiento"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "me-ha-llegado-una-multa-de-la-dgt-pero-el-conductor-no-era-yo-quien-paga-como-identificarlo-y-plazos-para-evitar-multas-triplicadas",
@@ -24921,7 +24921,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-15",
     "locale": "es",
-    "heroSrc": "/media/file_voXiZi4ClJrQAer1k09aIzba.jpg",
+    "heroSrc": "/media/me-ha-llegado-una-multa-de-la-dgt-pero-el-cond-hero.jpg",
     "heroAlt": "Multa a tu nombre pero conducía otro",
     "keywords": [
       "multa dgt el conductor no era yo identificar",
@@ -24939,7 +24939,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-13",
     "locale": "es",
-    "heroSrc": "/media/file_hsdOOLGHlAjFDivjDV42U8TJ.webp",
+    "heroSrc": "/media/revolucion-al-volante-nuevas-normativas-de-la-hero.jpg",
     "heroAlt": "Fin del semáforo ámbar",
     "keywords": [
       "semaforo ambar dgt",
@@ -24958,7 +24958,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-09-29",
     "locale": "es",
-    "heroSrc": "/media/file_7Ud5oyjmlKLYJhwprkUGQt2D.webp",
+    "heroSrc": "/media/codigo-78-carnet-automatico-manual-curso-7-hor-hero.jpg",
     "heroAlt": "Alumno de autoescuela conduciendo un coche con cambio manual",
     "keywords": [
       "código 78 carnet",
@@ -24976,7 +24976,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-09-30",
     "locale": "es",
-    "heroSrc": "/media/file_s04r78hSIBj4idcUCn4f1Asp.webp",
+    "heroSrc": "/media/nieve-prohibido-adelantar-octubre-hero.jpg",
     "heroAlt": "Coches circulando por el carril derecho de una autopista con nieve mientras una máquina quitanieves trabaja en el carril izquierdo",
     "keywords": [
       "prohibido adelantar con nieve",
@@ -24994,7 +24994,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-09-30",
     "locale": "es",
-    "heroSrc": "/media/file_YzeQb0jkGvlYor09qKKewgYu.webp",
+    "heroSrc": "/media/dgt-anuncia-reforma-entra-en-vigor-1-octubre-hero.jpg",
     "heroAlt": "Autovía española con tráfico denso de coches y motos al atardecer",
     "keywords": [
       "reforma DGT 1 octubre",
@@ -25012,7 +25012,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-15",
     "locale": "es",
-    "heroSrc": "/media/file_x6EXgMpFV0gywPgTGKZ4lWqI.webp",
+    "heroSrc": "/media/camaras-ocultas-de-la-dgt-para-movil-y-cinturo-hero.jpg",
     "heroAlt": "Cámaras ocultas de la DGT",
     "keywords": [
       "camaras dgt",
@@ -25032,7 +25032,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-14",
     "locale": "es",
-    "heroSrc": "/media/file_7BZGaqdCfXMfpOoI5wtzHIk6.webp",
+    "heroSrc": "/media/te-ha-llegado-una-multa-de-la-dgt-o-de-un-pais-hero.jpg",
     "heroAlt": "Multa de la DGT o de otro país europeo",
     "keywords": [
       "multa del extranjero",
@@ -25050,7 +25050,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-14",
     "locale": "es",
-    "heroSrc": "/media/file_YP2T4AC5bKp1T69G1WRrXvAR.webp",
+    "heroSrc": "/media/multa-fantasma-testra-dgt-que-hacer-hero.jpg",
     "heroAlt": "Multa fantasma en TESTRA",
     "keywords": [
       "consultar TESTRA",
@@ -25068,7 +25068,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-20",
     "locale": "es",
-    "heroSrc": "/media/file_cnV5G0LW63m7mAjJdhTEbRlM.webp",
+    "heroSrc": "/media/como-recurrir-multas-de-trafico-en-canarias-gu-hero.jpg",
     "heroAlt": "multas canarias",
     "keywords": [
       "recurrir multas de trafico canarias",
@@ -25085,7 +25085,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-13",
     "locale": "es",
-    "heroSrc": "/media/file_UTN3jdCM2nFjdob0KvJgrdAM.webp",
+    "heroSrc": "/media/multas-en-la-m-30-y-madrid-central-como-evitar-hero.jpg",
     "heroAlt": "Multas en la M-30 de Madrid",
     "keywords": [
       "radares M-30",
@@ -25103,7 +25103,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-04",
     "locale": "es",
-    "heroSrc": "/media/file_USFcUag8X3yXCoK2Rs6n5sUg.webp",
+    "heroSrc": "/media/falsa-multa-dgt-sms-correo-phishing-hero.jpg",
     "heroAlt": "Falsa multa de la DGT por SMS y correo: alerta de phishing de INCIBE",
     "keywords": [
       "falsa multa DGT",
@@ -25122,7 +25122,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-09-29",
     "locale": "es",
-    "heroSrc": "/media/file_EXDBMY29PDnPM92z8eFmcnSj.webp",
+    "heroSrc": "/media/robar-romper-radar-dgt-consecuencias-hero.jpg",
     "heroAlt": "Radar móvil de la DGT sobre trípode en el arcén de una carretera española al atardecer",
     "keywords": [
       "robar radar dgt",
@@ -25141,7 +25141,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-14",
     "locale": "es",
-    "heroSrc": "/media/file_OTKoFSlvOttXyPp6ho66za2U.webp",
+    "heroSrc": "/media/multas-de-trafico-en-el-extranjero-francia-por-hero.jpg",
     "heroAlt": "Coche circulando por una autopista",
     "keywords": [
       "conductor extranjero multado España",
@@ -25159,7 +25159,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-09-13",
     "locale": "es",
-    "heroSrc": "/media/file_29AfMZtT37ffgxzKahnqeUub.webp",
+    "heroSrc": "/media/llevas-la-nueva-luz-v16-conectada-en-el-coche-hero.jpg",
     "heroAlt": "Coche detenido en el arcén con la baliza V16 encendida",
     "keywords": [
       "multa por no llevar baliza V16",
@@ -25176,7 +25176,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-01",
     "locale": "es",
-    "heroSrc": "/media/file_deca-digital-2026.webp",
+    "heroSrc": "/media/deca-digital-obligatorio-5-octubre-2026-hero.jpg",
     "heroAlt": "Camión blanco en autovía al amanecer",
     "keywords": [
       "deca digital obligatorio",
@@ -25194,8 +25194,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-10-25",
     "locale": "es",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/como-recurrir-multa-radar-fijo-hero.jpg",
+    "heroAlt": "Radar fijo de control de velocidad junto a una carretera",
     "keywords": [
       "recurrir multa tráfico",
       "plazos alegaciones multa",
@@ -25223,7 +25223,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "suv eléctrico chino barato 2026",
       "deepal s05 vs byd atto 3"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "deepal-s05-awd-2026-precio-ficha-tecnica",
@@ -25306,7 +25306,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-10-02",
     "locale": "all",
-    "heroSrc": "/media/pagar-multa-descuento-hero.webp",
+    "heroSrc": "/media/pagar-multa-con-descuento-y-recurrir-hero.jpg",
     "heroAlt": "Manos sosteniendo una tarjeta de crédito junto a una multa de tráfico dentro del coche",
     "keywords": [
       "pagar multa con descuento y recurrir",
@@ -25325,7 +25325,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-10-02",
     "locale": "all",
-    "heroSrc": "/media/testra-multas-pendientes-hero.webp",
+    "heroSrc": "/media/como-saber-si-tengo-multas-pendientes-hero.jpg",
     "heroAlt": "Conductor consultando el móvil y el portátil para comprobar si tiene multas pendientes",
     "keywords": [
       "cómo saber si tengo multas pendientes",
@@ -25344,7 +25344,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-10-02",
     "locale": "all",
-    "heroSrc": "/media/plazos-dgt-recurso-hero.webp",
+    "heroSrc": "/media/cuanto-tarda-dgt-en-responder-recurso-hero.jpg",
     "heroAlt": "Reloj antiguo junto a un calendario y un buzón con cartas oficiales",
     "keywords": [
       "cuánto tarda la DGT en responder recurso",
@@ -25933,8 +25933,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
-    "heroSrc": "/media/silence-s01-vs-niu-mqi-gt-evo-cual-comprar-hero.webp",
-    "heroAlt": "Comparativa entre la Silence S01 y la NIU MQi GT Evo, los dos scooters eléctricos equivalentes a 125 más vendidos",
+    "heroSrc": "/media/motos/silence-s01-plus-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Silence S01 o NIU MQi GT Evo: duelo eléctrico 125 — fotografía del modelo",
     "keywords": [
       "Silence S01 vs NIU MQi GT Evo",
       "qué scooter eléctrico comprar 2026",
@@ -25954,8 +25954,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
-    "heroSrc": "/media/bmw-ce-04-vs-zero-fxe-cual-comprar-hero.webp",
-    "heroAlt": "Comparativa entre el BMW CE 04 y la Zero FXE, el maxi-scooter premium frente a la supermotard eléctrica",
+    "heroSrc": "/media/bmw-ce-04-2025-ficha-tecnica-precio-hero-480w.webp",
+    "heroAlt": "BMW CE 04 vs Zero FXE 2026 — fotografía del modelo",
     "keywords": [
       "BMW CE 04 vs Zero FXE",
       "qué moto eléctrica premium comprar",
@@ -25975,8 +25975,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
-    "heroSrc": "/media/vespa-elettrica-vs-piaggio-1-cual-comprar-hero.webp",
-    "heroAlt": "Comparativa entre la Vespa Elettrica y el Piaggio 1, los dos scooters eléctricos italianos para la ciudad",
+    "heroSrc": "/media/motos/vespa-elettrica-70-2025-ficha-tecnica-precio-oficial-2.webp",
+    "heroAlt": "Vespa Elettrica o Piaggio 1: ¿cuál te conviene más? — fotografía del modelo",
     "keywords": [
       "Vespa Elettrica vs Piaggio 1",
       "qué scooter eléctrico italiano comprar",
@@ -25996,8 +25996,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
-    "heroSrc": "/media/honda-em1-e-vs-yamaha-neos-cual-comprar-hero.webp",
-    "heroAlt": "Comparativa entre la Honda EM1 e: y la Yamaha NEO's, los dos ciclomotores eléctricos japoneses",
+    "heroSrc": "/media/honda-em1-e-2024-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Honda EM1 e 2026 — fotografía del modelo",
     "keywords": [
       "Honda EM1 e vs Yamaha NEO's",
       "qué ciclomotor eléctrico comprar",
@@ -26017,8 +26017,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
-    "heroSrc": "/media/bmw-ce-02-vs-super-soco-cpx-cual-comprar-hero.webp",
-    "heroAlt": "Comparativa entre la BMW CE 02 y la Super Soco CPx, el e-parkourer alemán frente al scooter eléctrico de rueda alta",
+    "heroSrc": "/media/bmw-ce-02-2025-ficha-tecnica-precio-hunt1.webp",
+    "heroAlt": "BMW CE 02 vs Super Soco CPx 2026 — fotografía del modelo",
     "keywords": [
       "BMW CE 02 vs Super Soco CPx",
       "qué moto eléctrica A1 comprar",
@@ -26038,8 +26038,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
-    "heroSrc": "/media/zero-s-vs-can-am-pulse-cual-comprar-hero.webp",
-    "heroAlt": "Comparativa entre la Zero S y la Can-Am Pulse, las dos naked eléctricas más serias del mercado",
+    "heroSrc": "/media/fotos-reales/zero-s-2025-ficha-tecnica-precio",
+    "heroAlt": "Zero S vs Can-Am Pulse 2026 — fotografía del modelo",
     "keywords": [
       "Zero S vs Can-Am Pulse",
       "qué naked eléctrica comprar",
@@ -26050,7 +26050,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Can-Am Pulse opiniones",
       "moto eléctrica A2"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "bmw-f-450-r-vs-honda-cb500-hornet-vs-kawasaki-z500",
@@ -26059,8 +26059,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "/media/bmw-f-450-r-vs-honda-cb500-hornet-vs-kawasaki-z500-hero.webp",
-    "heroAlt": "Tres motos naked aparcadas en fila en una carretera de montaña al atardecer",
+    "heroSrc": "/media/bmw-f-450-gs-2026-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "F 450 R vs Hornet vs Z500: ¿cuál? — fotografía del modelo",
     "keywords": [
       "BMW F 450 R vs Honda CB500 Hornet",
       "mejor naked A2 2026",
@@ -26076,8 +26076,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
-    "heroSrc": "/media/flying-flea-c6-vs-honda-cuv-e-vs-niu-nqi-sport-cual-comprar-hero.webp",
-    "heroAlt": "Tres motos eléctricas urbanas aparcadas en una calle de Barcelona al atardecer, escena de comparativa",
+    "heroSrc": "/media/fotos-reales/flying-flea-c6-moto-electrica-royal-enfield-5990-euros",
+    "heroAlt": "C6 vs CUV e: vs NQi Sport: la eléctrica urbana ideal — fotografía del modelo",
     "keywords": [
       "moto eléctrica urbana cual comprar",
       "Flying Flea C6 vs Honda CUV e:",
@@ -26094,8 +26094,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
-    "heroSrc": "/media/renault-5-e-tech-2026-vs-dacia-spring-2026-cual-comprar-hero.webp",
-    "heroAlt": "Comparativa entre el Renault 5 E-Tech y el Dacia Spring 2026, los dos eléctricos urbanos más baratos del mercado",
+    "heroSrc": "/media/renault-5-e-tech-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Renault 5 vs Spring 2026: ¿cuál te conviene más? — fotografía del modelo",
     "keywords": [
       "Renault 5 vs Dacia Spring",
       "qué eléctrico barato comprar 2026",
@@ -26115,8 +26115,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
-    "heroSrc": "/media/renault-4-e-tech-vs-renault-5-e-tech-cual-comprar-hero.webp",
-    "heroAlt": "Comparativa entre el Renault 4 E-Tech y el Renault 5 E-Tech, los dos eléctricos retro de Renault",
+    "heroSrc": "/media/renault-4-e-tech-40-kwh-2025-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Renault 4 E-Tech vs Renault 5 E-Tech 2026 — fotografía del modelo",
     "keywords": [
       "Renault 4 vs Renault 5 eléctrico",
       "Renault 4 E-Tech precio",
@@ -26136,8 +26136,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
-    "heroSrc": "/media/byd-atto-2-vs-jaecoo-5-cual-comprar-hero.webp",
-    "heroAlt": "Comparativa entre el BYD Atto 2 y el Jaecoo 5, dos SUV chinos baratos",
+    "heroSrc": "/media/byd-atto-2-dm-i-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "BYD Atto 2 vs Jaecoo 5 2026 — fotografía del modelo",
     "keywords": [
       "BYD Atto 2 vs Jaecoo 5",
       "SUV chino barato 2026",
@@ -26157,8 +26157,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
-    "heroSrc": "/media/xpeng-g6-vs-tesla-model-y-cual-comprar-hero.webp",
-    "heroAlt": "Comparativa entre el XPeng G6 2026 y el Tesla Model Y, los dos SUV eléctricos de referencia",
+    "heroSrc": "/media/fotos-reales/xpeng-g6-2025-precio-espana",
+    "heroAlt": "XPeng G6 2026 vs Tesla Model Y — fotografía del modelo",
     "keywords": [
       "XPeng G6 vs Tesla Model Y",
       "XPeng G6 precio España",
@@ -26169,7 +26169,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Model Y o XPeng G6",
       "carga ultrarrápida eléctrico"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "leapmotor-b10-vs-byd-atto-2-cual-comprar",
@@ -26178,8 +26178,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
-    "heroSrc": "/media/leapmotor-b10-vs-byd-atto-2-cual-comprar-hero.webp",
-    "heroAlt": "Comparativa entre el Leapmotor B10 y el BYD Atto 2, dos SUV eléctricos chinos",
+    "heroSrc": "/media/leapmotor-b10-electrico-precio-espana-hero.webp",
+    "heroAlt": "Leapmotor B10 vs BYD Atto 2 2026 — fotografía del modelo",
     "keywords": [
       "Leapmotor B10 vs BYD Atto 2",
       "Leapmotor B10 precio España",
@@ -26199,8 +26199,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
-    "heroSrc": "/media/alpine-a390-vs-skoda-peaq-cual-comprar-hero.webp",
-    "heroAlt": "Comparativa entre el Alpine A390 y el Skoda Peaq, deportividad francesa frente a practicidad checa",
+    "heroSrc": "/media/alpine-a390-gt-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Alpine A390 vs Skoda Peaq 2026 — fotografía del modelo",
     "keywords": [
       "Alpine A390 vs Skoda Peaq",
       "Alpine A390 precio España",
@@ -26220,8 +26220,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
-    "heroSrc": "/media/peugeot-e-5008-vs-skoda-peaq-cual-comprar-hero.webp",
-    "heroAlt": "Comparativa entre el Peugeot E-5008 y el Skoda Peaq, los dos SUV eléctricos de 7 plazas",
+    "heroSrc": "/media/peugeot-e-5008-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Peugeot E-5008 vs Skoda Peaq 2026 — fotografía del modelo",
     "keywords": [
       "Peugeot E-5008 vs Skoda Peaq",
       "Peugeot E-5008 precio",
@@ -26232,7 +26232,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Skoda Peaq autonomía",
       "coche familiar eléctrico 7 plazas"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "dacia-bigster-hybrid-vs-jaecoo-5-cual-comprar",
@@ -26241,8 +26241,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
-    "heroSrc": "/media/dacia-bigster-hybrid-vs-jaecoo-5-cual-comprar-hero.webp",
-    "heroAlt": "Comparativa entre el Dacia Bigster Hybrid y el Jaecoo 5, los SUV asequibles del momento",
+    "heroSrc": "/media/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Dacia Bigster Hybrid vs Jaecoo 5 2026 — fotografía del modelo",
     "keywords": [
       "Dacia Bigster vs Jaecoo 5",
       "Dacia Bigster Hybrid precio",
@@ -26262,8 +26262,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/mg4-electric-vs-byd-dolphin-2025-cual-comprar-hero.webp",
-    "heroAlt": "Comparativa entre el MG4 Electric y el BYD Dolphin 2025, los compactos eléctricos chinos más vendidos",
+    "heroSrc": "/media/mg4-electric-comfort-2025-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "MG4 Electric vs BYD Dolphin 2025 — fotografía del modelo",
     "keywords": [
       "MG4 vs BYD Dolphin",
       "MG4 Electric precio España",
@@ -26283,8 +26283,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-06",
     "locale": "all",
-    "heroSrc": "/media/hyundai-ioniq-3-vs-renault-5-vs-dolphin-surf-cual-comprar-hero.webp",
-    "heroAlt": "Tres compactos eléctricos alineados en una carretera costera española al atardecer, escena de comparativa",
+    "heroSrc": "/media/hyundai-ioniq-3-2026-ficha-1.webp",
+    "heroAlt": "Ioniq 3 vs R5 E-Tech vs Dolphin Surf — fotografía del modelo",
     "keywords": [
       "Ioniq 3 vs Renault 5 vs Dolphin Surf",
       "qué compacto eléctrico comprar 2026",
@@ -26295,7 +26295,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "eléctrico 500 km autonomía barato",
       "Dolphin Surf autonomía"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "leapmotor-b05-vs-gac-aion-ut-cual-comprar",
@@ -26304,8 +26304,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
-    "heroSrc": "/media/leapmotor-b05-vs-gac-aion-ut-cual-comprar-hero.webp",
-    "heroAlt": "Dos compactos eléctricos chinos aparcados lado a lado en una carretera costera española al atardecer, escena de comparativa",
+    "heroSrc": "/media/leapmotor-b05-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Leapmotor B05 vs GAC AION UT: el duelo chino barato — fotografía del modelo",
     "keywords": [
       "Leapmotor B05 vs GAC AION UT",
       "coche eléctrico chino barato 2026",
@@ -26313,7 +26313,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "GAC AION UT precio España",
       "eléctrico compacto barato cual comprar"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "aion-v-vs-deepal-s05-cual-comprar",
@@ -26334,7 +26334,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "comparativa SUV eléctricos chinos",
       "mejor SUV eléctrico chino 2026"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "ebro-s700-hibrido-2026-precio-ficha-tecnica",
@@ -26400,8 +26400,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/ebro-s800-phev-2027-perfiles-adas-hero.webp",
-    "heroAlt": "Ebro s800 PHEV 2027 gris oscuro en una carretera española al amanecer",
+    "heroSrc": "/media/ebro-s800-phev-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Ebro s800 PHEV 2027: tus ADAS, guardados al arrancar — fotografía del modelo",
     "keywords": [
       "Ebro s800 PHEV 2027",
       "Ebro s800 perfiles ADAS",
@@ -26419,7 +26419,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Estudios",
     "date": "2026-10-04",
     "locale": "es",
-    "heroSrc": "/media/caso-radar-madrid.jpg",
+    "heroSrc": "/media/radares-que-mas-multan-espana-2024-mapa-datos-hero.jpg",
     "heroAlt": "Radar de velocidad en la M-40 de Madrid, el cinemómetro que más multas pone en España",
     "keywords": [
       "radares que más multan España",
@@ -26437,7 +26437,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Estudios",
     "date": "2026-10-04",
     "locale": "es",
-    "heroSrc": "/media/como-pagar-multa-dgt.webp",
+    "heroSrc": "/media/cuanto-cuesta-multa-espana-pagar-descuento-rec-hero.jpg",
     "heroAlt": "Persona pagando una multa de tráfico de la DGT en el ordenador",
     "keywords": [
       "cuánto cuesta una multa España",
@@ -26455,7 +26455,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Estudios",
     "date": "2026-10-04",
     "locale": "es",
-    "heroSrc": "/media/pilar-zbe.webp",
+    "heroSrc": "/media/zbe-espana-2026-ciudades-multan-cuanto-multa-hero.jpg",
     "heroAlt": "Señal de Zona de Bajas Emisiones en una calle de Madrid",
     "keywords": [
       "ZBE España 2026 ciudades",
@@ -26751,7 +26751,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Xiaomi híbrido autonomía extendida",
       "SkyNomad precio Europa"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "nhtsa-luces-cian-vehiculos-autonomos-2026",
@@ -26760,8 +26760,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-28",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/mercedes-eqs-drive-pilot-luces-turquesa-hero.jpg",
+    "heroAlt": "Mercedes-Benz EQS con Drive Pilot y las luces turquesa de conducción automatizada encendidas",
     "keywords": [
       "luces cian coches autónomos",
       "NHTSA luces cian",
@@ -26779,8 +26779,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-28",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/volkswagen-nivel-3-china-hefei-pruebas-hero.jpg",
+    "heroAlt": "Volkswagen ID. Unyx, el eléctrico de Volkswagen Anhui fabricado en Hefei, circulando en China",
     "keywords": [
       "Volkswagen nivel 3 China",
       "conducción autónoma nivel 3",
@@ -27008,7 +27008,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/ferrari-roma-spider-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Ferrari Roma Spider (foto: Ferrari (foto de prensa oficial) vía Bauer Media / Carwow)",
+    "heroAlt": "Ferrari Roma Spider: la dolce vita con V8 — fotografía del modelo",
     "keywords": [
       "ferrari roma spider precio españa",
       "ferrari roma spider ficha técnica",
@@ -27103,7 +27103,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/ferrari-amalfi-spider-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Ferrari Amalfi Spider (foto: Ferrari S.p.A. / ferrari.com (prensa oficial))",
+    "heroAlt": "Ferrari Amalfi Spider: 640 CV descapotables de lona — fotografía del modelo",
     "keywords": [
       "ferrari amalfi spider precio",
       "ferrari amalfi spider ficha técnica",
@@ -27440,7 +27440,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/fiat-ulysse-20-bluehdi-180-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Fiat Ulysse BlueHDi 180 CV (foto: Fiat (foto de prensa oficial, republicada por Tuttosprint con crédito «Credit: Fiat»))",
+    "heroAlt": "Fiat Ulysse BlueHDi 180 CV: precio del monovolumen — fotografía del modelo",
     "keywords": [
       "fiat ulysse",
       "ulysse bluehdi precio",
@@ -27535,7 +27535,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Spring 16.245 euros",
       "Dacia Spring autonomía"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "dacia-sandero-baja-precio-octubre-2026",
@@ -27617,7 +27617,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-03",
     "locale": "all",
-    "heroSrc": "/media/plan-auto-ayudas-autonomos-empresas-coche-electrico.webp",
+    "heroSrc": "/media/plan-auto-ayudas-autonomos-empresas-coche-elec-hero.jpg",
     "heroAlt": "Furgoneta eléctrica blanca cargando su batería junto a un pequeño negocio en un polígono industrial español",
     "keywords": [
       "Plan Auto+ 2026",
@@ -27689,8 +27689,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Motor",
     "date": "2026-10-04",
     "locale": "all",
-    "heroSrc": "/media/citroen-e-c3-aircross-baja-precio-octubre-2026-hero.webp",
-    "heroAlt": "Citroën e-C3 Aircross blanco aparcado en una plaza de un pueblo español",
+    "heroSrc": "/media/citroen-e-c3-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "El Citroën e-C3 Aircross baja a 25.690 €: 2.500 € — fotografía del modelo",
     "keywords": [
       "Citroën e-C3 Aircross precio",
       "e-C3 Aircross 2026 precio España",
@@ -27761,7 +27761,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/robotaxis-madrid-furgonetas-mapeo-octubre-2026-hero.webp",
+    "heroSrc": "/media/robotaxis-madrid-furgonetas-mapeo-octubre-2026-hero.jpg",
     "heroAlt": "Furgoneta negra con sensores LiDAR y cámaras mapeando una autopista de Madrid al atardecer width=1920 height=1280",
     "keywords": [
       "robotaxis Madrid",
@@ -27779,7 +27779,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/zbe-vitoria-multas-6000-euros-octubre-2026-hero.webp",
+    "heroSrc": "/media/zbe-vitoria-multas-6000-euros-octubre-2026-hero.jpg",
     "heroAlt": "Calle de Vitoria-Gasteiz con señal de Zona de Bajas Emisiones y cámara de control de tráfico",
     "keywords": [
       "multas Vitoria 2026",
@@ -27906,8 +27906,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "/media/niu-mqi-gt-evo-baja-precio-octubre-2026-hero.webp",
-    "heroAlt": "Scooter eléctrico NIU MQi GT Evo negro mate aparcado en una calle de Madrid al atardecer",
+    "heroSrc": "/media/niu-mqi-gt-2026-ficha-tecnica-precio-hunt1.webp",
+    "heroAlt": "NIU MQi GT Evo: baja a 4.599 € en España — fotografía del modelo",
     "keywords": [
       "NIU MQi GT Evo precio",
       "MQi GT Evo 4.599 euros",
@@ -27943,7 +27943,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-08",
     "locale": "all",
-    "heroSrc": "/media/cumbre-motos-zaragoza-hero.webp",
+    "heroSrc": "/media/cumbre-mundial-motos-seguras-zaragoza-2026-hero.jpg",
     "heroAlt": "Grupo de motoristas con casco circulando por una autopista española al amanecer",
     "keywords": [
       "cumbre motos Zaragoza 2026",
@@ -27980,7 +27980,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-08",
     "locale": "all",
-    "heroSrc": "/media/puente-pilar-2026-operativo-dgt-hero.webp",
+    "heroSrc": "/media/operativo-dgt-puente-pilar-2026-57-millones-hero.jpg",
     "heroAlt": "Vista aérea de una autopista española con tráfico denso al atardecer, salida de una gran ciudad",
     "keywords": [
       "operativo DGT puente del Pilar",
@@ -27999,7 +27999,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-08",
     "locale": "all",
-    "heroSrc": "/media/francia-movil-carnet-hero.webp",
+    "heroSrc": "/media/francia-retira-carnet-movil-al-volante-hero.jpg",
     "heroAlt": "Conductor con el móvil en la mano junto al volante circulando por una autopista francesa al atardecer",
     "keywords": [
       "retirada carnet móvil Francia",
@@ -28120,7 +28120,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Audi A5 110 km eléctricos",
       "A5 e-hybrid ficha técnica"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "ford-puma-gen-e-2025-precio-ficha-tecnica",
@@ -30043,7 +30043,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "suv gasolina etiqueta eco",
       "hyundai tucson 2025 precio"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "hyundai-kona-16-tgdi-2025-precio-ficha-tecnica",
@@ -30969,7 +30969,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "suv eléctrico 4x4 2026",
       "compass 4xe eléctrico autonomía"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "jeep-wrangler-4xe-380-2026-precio-ficha-tecnica",
@@ -31005,7 +31005,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "grand cherokee 4xe opiniones",
       "suv premium híbrido enchufable 2026"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "jeep-avenger-electric-156-2026-precio-ficha-tecnica",
@@ -33469,7 +33469,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-10-02",
     "locale": "es",
-    "heroSrc": "/media/como-recuperar-puntos-carnet.webp",
+    "heroSrc": "/media/como-recuperar-puntos-carnet-hero.jpg",
     "heroAlt": "Conductor con su permiso de conducir en un curso de recuperación de puntos",
     "keywords": [
       "como recuperar puntos carnet",
@@ -33488,7 +33488,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Tipos de Multa",
     "date": "2026-10-02",
     "locale": "es",
-    "heroSrc": "/media/multa-conducir-sin-seguro.webp",
+    "heroSrc": "/media/multa-conducir-sin-seguro-hero.jpg",
     "heroAlt": "Agente de tráfico pidiendo la documentación a un conductor en un control de carretera",
     "keywords": [
       "multa conducir sin seguro",
@@ -33506,7 +33506,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Radares y Velocidad",
     "date": "2026-10-02",
     "locale": "es",
-    "heroSrc": "/media/tabla-multas-exceso-velocidad-2026.webp",
+    "heroSrc": "/media/tabla-multas-exceso-velocidad-2026-hero.jpg",
     "heroAlt": "Radar de velocidad sobre una autopista española al atardecer con señal de límite 120 km/h",
     "keywords": [
       "tabla multas exceso velocidad 2026",
@@ -33525,7 +33525,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Procedimiento",
     "date": "2026-10-02",
     "locale": "es",
-    "heroSrc": "/media/como-pagar-multa-dgt.webp",
+    "heroSrc": "/media/como-pagar-multa-dgt-hero.jpg",
     "heroAlt": "Persona pagando una multa de tráfico con el móvil junto a la notificación de la sanción",
     "keywords": [
       "como pagar multa dgt",
@@ -33544,7 +33544,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Procedimiento",
     "date": "2026-10-02",
     "locale": "es",
-    "heroSrc": "/media/que-pasa-si-no-pagas-una-multa.webp",
+    "heroSrc": "/media/que-pasa-si-no-pagas-una-multa-hero.jpg",
     "heroAlt": "Grúa retirando un coche en una calle española al atardecer con policías municipales",
     "keywords": [
       "que pasa si no pagas una multa",
@@ -33563,7 +33563,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Tipos de Multa",
     "date": "2026-10-02",
     "locale": "es",
-    "heroSrc": "/media/multa-drogas-al-volante.webp",
+    "heroSrc": "/media/multa-drogas-al-volante-hero.jpg",
     "heroAlt": "Control policial nocturno con prueba de drogas por saliva a un conductor",
     "keywords": [
       "multa drogas al volante",
@@ -33582,7 +33582,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Procedimiento",
     "date": "2026-10-02",
     "locale": "es",
-    "heroSrc": "/media/cuanto-tarda-en-llegar-una-multa-de-radar.webp",
+    "heroSrc": "/media/cuanto-tarda-en-llegar-una-multa-de-radar-hero.jpg",
     "heroAlt": "Radar de velocidad en una carretera española y mano sosteniendo una notificación oficial",
     "keywords": [
       "cuanto tarda en llegar una multa de radar",
@@ -33619,7 +33619,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Radares y Velocidad",
     "date": "2026-10-04",
     "locale": "es",
-    "heroSrc": "/media/cinemometro-laser-velolaser.webp",
+    "heroSrc": "/media/cinemometro-laser-como-funciona-multa-hero.jpg",
     "heroAlt": "Agente de la Guardia Civil de Tráfico apuntando con una pistola láser a los coches en una autovía española width=1920 height=1280",
     "keywords": [
       "cinemometro laser",
@@ -33638,7 +33638,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Procedimiento",
     "date": "2026-10-04",
     "locale": "es",
-    "heroSrc": "/media/testra-dgt-consultar-multas-publicadas.webp",
+    "heroSrc": "/media/testra-dgt-consultar-multas-publicadas-hero.jpg",
     "heroAlt": "Conductora consultando en el móvil el tablón edictal de la DGT con una notificación de denuncia de tráfico sobre la mesa",
     "keywords": [
       "consultar testra",
@@ -33657,7 +33657,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-10-07",
     "locale": "es",
-    "heroSrc": "/media/chatgpt-vs-analizador-multas-hero.webp",
+    "heroSrc": "/media/chatgpt-vs-analizador-multas-hero.jpg",
     "heroAlt": "Conductor comparando una notificación de multa de tráfico con su teléfono móvil",
     "keywords": [
       "chatgpt multa trafico",
@@ -33686,7 +33686,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Maextro S800",
       "coches chinos premium 2026"
     ],
-    "readTime": 9
+    "readTime": 10
   },
   {
     "slug": "volkswagen-id-polo-electrico-precio-espana-2026",
@@ -33724,7 +33724,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Plan Auto+ Skoda Epiq",
       "Skoda Epiq vs Cupra Raval"
     ],
-    "readTime": 8
+    "readTime": 9
   },
   {
     "slug": "cupra-raval-electrico-precio-espana-2026",
@@ -33743,7 +33743,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "cupra raval vs id polo",
       "coches eléctricos españa"
     ],
-    "readTime": 10
+    "readTime": 11
   },
   {
     "slug": "geely-e2-electrico-barato-precio-espana",
@@ -33817,7 +33817,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Atto 3 Evo vs Design Excellence",
       "SUV eléctrico 500 km autonomía"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "deepal-s05-precio-espana-2026",
@@ -33826,8 +33826,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-03",
     "locale": "all",
-    "heroSrc": "/media/deepal-s05-precio-espana-2026-galeria-3.webp",
-    "heroAlt": "Deepal S05 en tres cuartos trasero mostrando su firma lumínica, imagen editorial",
+    "heroSrc": "/media/aion-v-vs-deepal-s05-cual-comprar-cuerpo.webp",
+    "heroAlt": "Deepal S05: SUV eléctrico desde 37.390 € en España — fotografía del modelo",
     "keywords": [
       "Deepal S05 precio España",
       "Deepal S05 autonomía 485 km",
@@ -34398,7 +34398,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "scooter 125 deportivo",
       "fb mondial imola prueba"
     ],
-    "readTime": 9
+    "readTime": 10
   },
   {
     "slug": "bsa-bantam-350-2026-precio-ficha-tecnica",
@@ -39536,7 +39536,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
-    "heroSrc": "/media/kove-625x-pro-2026-ficha-tecnica-precio-1.webp",
+    "heroSrc": "/media/kove-625x-pro-2026-ficha-tecnica-precio-hero.jpg",
     "heroAlt": "Kove 625X Pro 2026 de perfil",
     "keywords": [
       "kove 625x pro precio",
@@ -41265,7 +41265,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/electricos-mas-vendidos-espana-septiembre-2026-hero.webp",
+    "heroSrc": "/media/electricos-mas-vendidos-espana-septiembre-2026-hero.jpg",
     "heroAlt": "Coche eléctrico cargando en una estación de carga rápida en España al atardecer",
     "keywords": [
       "coches eléctricos más vendidos",
@@ -41312,7 +41312,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "grecale modena vs trofeo",
       "suv v6 premium precio"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "maserati-grecale-trofeo-2027-precio-ficha-tecnica",
@@ -41638,7 +41638,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "maserati quattroporte 430 cv",
       "quattroporte traccion total"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "maserati-quattroporte-trofeo-2024-precio-ficha-tecnica",
@@ -42277,7 +42277,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "artura 10 unidades",
       "mso artura 2026"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "mclaren-750s-mcl38-celebration-2025-precio-ficha-tecnica",
@@ -43214,7 +43214,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Mitsubishi Eclipse Cross eléctrico (foto: Mitsubishi Motors / Car2Day)",
+    "heroAlt": "Mitsubishi Eclipse Cross eléctrico: 626 km — fotografía del modelo",
     "keywords": [
       "mitsubishi eclipse cross eléctrico precio",
       "eclipse cross ev autonomía 626 km",
@@ -43582,7 +43582,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "coches chinos desconocidos",
       "Aiva ME7 precio"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "geely-galaxy-battleship-700-zhanjian-700",
@@ -43610,7 +43610,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Modelos desconocidos",
     "date": "2026-10-09",
     "locale": "all",
-    "heroSrc": "/media/evoke-nrgy-moto-electrica-china-120-kmh-hero.webp",
+    "heroSrc": "/media/evoke-nrgy-moto-electrica-china-120-kmh-hero.jpg",
     "heroAlt": "Moto eléctrica naked oscura aparcada en una calle urbana al atardecer, imagen editorial",
     "keywords": [
       "Evoke Nrgy",
@@ -43648,8 +43648,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Modelos desconocidos",
     "date": "2026-10-09",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/hongqi-g919-4x4-electrico-831-cv-hero.jpg",
+    "heroAlt": "hongqi-g919-4x4-electrico-831-cv — fotografía del modelo",
     "keywords": [
       "Hongqi G919",
       "G919 precio",
@@ -43667,7 +43667,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-04",
     "locale": "all",
-    "heroSrc": "/media/anfac-septiembre-2026-record-electrificacion-model-3-lider-hero.webp",
+    "heroSrc": "/media/anfac-septiembre-2026-record-electrificacion-m-hero.jpg",
     "heroAlt": "Concesionario español con varios coches eléctricos aparcados en fila durante septiembre de 2026",
     "keywords": [
       "ventas coches eléctricos España septiembre 2026",
@@ -43684,8 +43684,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-04",
     "locale": "all",
-    "heroSrc": "/media/niu-nqi-sport-scooter-electrico-1999-euros-gama-2026-hero.webp",
-    "heroAlt": "Scooter eléctrico NIU NQi Sport de color naranja aparcado en una calle de Barcelona",
+    "heroSrc": "/media/niu-nqi-sport-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "NIU NQi Sport: scooter eléctrico con 130 km por 1.999 € — fotografía del modelo",
     "keywords": [
       "NIU NQi Sport precio",
       "scooter eléctrico barato 2026",
@@ -43701,15 +43701,15 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-04",
     "locale": "all",
-    "heroSrc": "/media/flying-flea-c6-moto-electrica-royal-enfield-5990-euros-hero.webp",
-    "heroAlt": "Moto eléctrica Flying Flea C6 verde de estilo clásico aparcada frente a un edificio modernista de Barcelona",
+    "heroSrc": "/media/fotos-reales/flying-flea-c6-moto-electrica-royal-enfield-5990-euros",
+    "heroAlt": "Flying Flea C6: la eléctrica de Royal Enfield por 5.990 € — fotografía del modelo",
     "keywords": [
       "Flying Flea C6 precio España",
       "moto eléctrica Royal Enfield",
       "Flying Flea C6 ficha técnica",
       "moto eléctrica 6000 euros"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "omoda-jaecoo-record-ventas-septiembre-2026",
@@ -43718,7 +43718,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-04",
     "locale": "all",
-    "heroSrc": "/media/omoda-jaecoo-record-ventas-septiembre-2026-hero.webp",
+    "heroSrc": "/media/omoda-jaecoo-record-ventas-septiembre-2026-hero.jpg",
     "heroAlt": "Concesionario español con varios SUV Omoda y Jaecoo aparcados en fila",
     "keywords": [
       "Omoda Jaecoo ventas septiembre 2026",
@@ -43743,7 +43743,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "SUV híbrido etiqueta ECO",
       "MG HS Hybrid+ ficha técnica"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "byd-dolphin-surf-my26-5-plazas-precio-espana",
@@ -43803,8 +43803,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/honda-wn7-electrica-precio-espana-15000-hero.webp",
-    "heroAlt": "Moto naked eléctrica roja y negra de estilo moderno en una calle de Madrid al amanecer",
+    "heroSrc": "/media/honda-wn7-electrica-precio-espana-15000-oficial-2.webp",
+    "heroAlt": "Honda WN7 eléctrica por 15.000 € — fotografía del modelo",
     "keywords": [
       "Honda WN7 precio",
       "Honda WN7 ficha técnica",
@@ -43820,7 +43820,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-06",
     "locale": "all",
-    "heroSrc": "/media/liux-big-salon-paris-2026-hero.webp",
+    "heroSrc": "/media/liux-big-salon-paris-2026-hero.jpg",
     "heroAlt": "Pequeño coche eléctrico español sobre el escenario de un salón del automóvil en París, con focos y público",
     "keywords": [
       "Liux BIG",
@@ -43839,8 +43839,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-06",
     "locale": "all",
-    "heroSrc": "/media/velca-nude-eon-naked-maxiscooter-electricas-hero.webp",
-    "heroAlt": "Moto naked eléctrica gris oscuro aparcada en una calle de Madrid al atardecer",
+    "heroSrc": "/media/motos/velca-nude-lite-2026-ficha-1.webp",
+    "heroAlt": "Velca Nude y Eon: made in Spain — fotografía del modelo",
     "keywords": [
       "Velca Nude precio",
       "Velca Eon ficha técnica",
@@ -43876,8 +43876,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "/media/bmw-f-450-r-naked-a2-precio-espana-2026-hero.webp",
-    "heroAlt": "Moto naked blanca con detalles azules y rojos trazando una curva en circuito al atardecer",
+    "heroSrc": "/media/bmw-f-450-gs-2026-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "BMW F 450 R: naked A2 por 6.799 € — fotografía del modelo",
     "keywords": [
       "BMW F 450 R precio España",
       "BMW F 450 R ficha técnica",
@@ -43885,7 +43885,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "BMW F 450 R vs Honda CB500 Hornet",
       "BMW F 450 R autonomía"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "ducati-monster-2026-quinta-generacion-precio-espana",
@@ -43894,8 +43894,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "/media/ducati-monster-2026-quinta-generacion-precio-espana-hero.webp",
-    "heroAlt": "Moto naked roja italiana en estudio oscuro con iluminación dramática",
+    "heroSrc": "/media/ducati-monster-2026-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Monster 2026: 111 CV, 12.990 € — fotografía del modelo",
     "keywords": [
       "Ducati Monster 2026 precio",
       "Ducati Monster 890 ficha técnica",
@@ -43911,8 +43911,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/renault-espace-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Renault E-Space: Espace eléctrico — fotografía del modelo",
     "keywords": [
       "Renault E-Space",
       "E-Space Concept",
@@ -43947,8 +43947,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "/media/salon-paris-2026-estrenos-electricos-guia-hero.webp",
-    "heroAlt": "Pabellón del Salón del Automóvil de París 2026 con coches eléctricos en stands iluminados y público",
+    "heroSrc": "/media/byd-sealion-7-salon-paris-2024.webp",
+    "heroAlt": "París 2026: todos los eléctricos — fotografía del modelo",
     "keywords": [
       "Salón París 2026",
       "estrenos París 2026",
@@ -43965,8 +43965,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/ue-bruselas-cuotas-hibridos-chinos-hero.jpg",
+    "heroAlt": "Buque portacoches descargando SUVs en un puerto europeo al atardecer, imagen editorial",
     "keywords": [
       "aranceles híbridos chinos",
       "UE cuotas coches chinos",
@@ -44001,8 +44001,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/jaguar-type-01-electrico-1030-cv-hero.jpg",
+    "heroAlt": "Gran turismo eléctrico de lujo color champán en una avenida de Nueva York de noche, imagen editorial",
     "keywords": [
       "Jaguar Type 01 precio",
       "Jaguar Type 01 autonomía",
@@ -44064,7 +44064,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Dacia Striker híbrido",
       "Dacia Salón de París 2026"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "byd-great-han-1008-km-autonomia-carga-9-minutos",
@@ -44073,8 +44073,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-09",
     "locale": "all",
-    "heroSrc": "/media/byd-great-han-1008-km-autonomia-carga-9-minutos-hero.webp",
-    "heroAlt": "Gran berlina eléctrica azul oscuro en una avenida de ciudad china al atardecer, imagen editorial",
+    "heroSrc": "/media/byd-great-tang-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "BYD Great Han: 1.008 km y carga en 9 minutos — fotografía del modelo",
     "keywords": [
       "BYD Great Han",
       "BYD Great Han 1008 km",
@@ -44091,7 +44091,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-09",
     "locale": "all",
-    "heroSrc": "/media/renault-10000-millones-electricos-paris-2026-plan-hero.webp",
+    "heroSrc": "/media/renault-10000-millones-electricos-paris-2026-p-hero.jpg",
     "heroAlt": "Prototipo eléctrico de color rubí oscuro en una plataforma giratoria en un salón del automóvil, imagen editorial",
     "keywords": [
       "Renault 10.000 millones inversión eléctricos",
@@ -44108,8 +44108,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
-    "heroSrc": "/media/salon-paris-2026-20-marcas-chinas-aranceles-hero.webp",
-    "heroAlt": "Salón del Automóvil de París de noche con coches eléctricos expuestos y la Torre Eiffel al fondo",
+    "heroSrc": "/media/byd-sealion-7-salon-paris-2024.webp",
+    "heroAlt": "París 2026: 25 marcas chinas y la guerra de los aranceles — fotografía del modelo",
     "keywords": [
       "salón París 2026 coches chinos",
       "aranceles coches chinos 2026",
@@ -44173,7 +44173,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Fiat Grizzly eléctrico autonomía",
       "SUV familiar barato 2026"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "volkswagen-mission-efficiency-record-1278-km",
@@ -44654,12 +44654,12 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "maextro-v800-huawei-precio-ficha-tecnica",
     "title": "Maextro V800 Huawei: precio, 523 CV y 1.200 km",
-    "excerpt": "Maextro V800: el monovolumen de lujo de Huawei con 523 CV, 1.200 km de autonomía y cafetera a bordo. Ficha técnica, curiosidades y precio.",
+    "excerpt": "Maextro V800: monovolumen de lujo de siete plazas de Huawei y JAC con 523 CV, hasta 1.335 km CLTC y precio desde 766.000 yuanes en China. Versiones y datos con fuente.",
     "category": "Novedades Motor",
     "date": "2026-10-04",
     "locale": "all",
     "heroSrc": "/media/maextro-v800-huawei-interior-lujo.webp",
-    "heroAlt": "Interior de lujo del Maextro V800 de Huawei con asientos capitán burdeos y dispensador de café",
+    "heroAlt": "Interior de lujo del Maextro V800 de Huawei con asientos capitán burdeos",
     "keywords": [
       "maextro v800 precio",
       "huawei v800 ficha técnica",
@@ -46026,8 +46026,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/suzuki-sv650-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Suzuki SV650 2025 azul en tres cuartos",
+    "heroSrc": "/media/suzuki-sv650-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Suzuki SV650 2025: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "suzuki sv650 precio",
       "sv650 2025 ficha técnica",
@@ -46221,7 +46221,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Multistrada V4 RS opiniones",
       "Ducati V4 RS vs Pikes Peak"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "ducati-monster-sp-2025-ficha-tecnica-precio",
@@ -46506,7 +46506,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "125d vs",
       "moto 125 potente"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "benelli-trk-251-2025-ficha-tecnica-precio",
@@ -46620,7 +46620,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "125 scrambler española",
       "moto estilo 70"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "macbor-xr5-500-2025-ficha-tecnica-precio",
@@ -47351,8 +47351,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/gasgas-sm-700-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "GasGas SM 700 2025 en carretera de montaña",
+    "heroSrc": "/media/gasgas-sm-700-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "GasGas SM 700 2025: precio y ficha — fotografía del modelo",
     "keywords": [
       "gasgas sm 700 2025",
       "gasgas sm 700 precio",
@@ -47418,7 +47418,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "husqvarna enduro opiniones",
       "fe 350 vs exc"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "husqvarna-701-enduro-2026-ficha-tecnica-precio",
@@ -47456,7 +47456,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "honda crf opiniones",
       "trail ligera 2025"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "honda-crf450rx-2025-ficha-tecnica-precio",
@@ -47627,7 +47627,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ficha técnica Zero DSR/X",
       "motos eléctricas carnet A"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "niu-fqi-500-2025-ficha-tecnica-precio",
@@ -48582,8 +48582,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "/media/bmw-g-310-r-2024-ficha-tecnica-precio-hero.webp",
-    "heroAlt": "BMW G 310 R 2024 negra con detalles azules en tres cuartos",
+    "heroSrc": "/media/bmw-g-310-r-2024-ficha-tecnica-precio-hunt1.webp",
+    "heroAlt": "BMW G 310 R 2024: precio y ficha — fotografía del modelo",
     "keywords": [
       "bmw g 310 r precio",
       "g 310 r 2024 ficha técnica",
@@ -48603,8 +48603,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "/media/bmw-r-18-roctane-2025-ficha-tecnica-precio-hero.webp",
-    "heroAlt": "BMW R 18 Roctane 2025 gris en tres cuartos con maletas",
+    "heroSrc": "/media/bmw-r-18-roctane-2025-ficha-tecnica-precio-hunt1.webp",
+    "heroAlt": "BMW R 18 Roctane 2025: precio y ficha — fotografía del modelo",
     "keywords": [
       "bmw r 18 roctane precio",
       "r 18 roctane 2025 ficha técnica",
@@ -48624,8 +48624,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "/media/bmw-k-1600-gt-2025-ficha-tecnica-precio-hero.webp",
-    "heroAlt": "BMW K 1600 GT 2025 negra en tres cuartos",
+    "heroSrc": "/media/bmw-k-1600-gt-2025-ficha-tecnica-precio-hunt1.webp",
+    "heroAlt": "BMW K 1600 GT 2025: precio y ficha — fotografía del modelo",
     "keywords": [
       "bmw k 1600 gt precio",
       "k 1600 gt 2025 ficha técnica",
@@ -48645,8 +48645,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "/media/ducati-streetfighter-v2-2025-ficha-tecnica-precio-hero.webp",
-    "heroAlt": "Ducati Streetfighter V2 2025 roja en tres cuartos",
+    "heroSrc": "/media/ducati-streetfighter-v2-2025-ficha-tecnica-precio-hunt1.webp",
+    "heroAlt": "Ducati Streetfighter V2 2025: precio — fotografía del modelo",
     "keywords": [
       "ducati streetfighter v2 precio",
       "streetfighter v2 2025 ficha técnica",
@@ -48666,8 +48666,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "/media/ducati-panigale-v4-r-2025-ficha-tecnica-precio-hero.webp",
-    "heroAlt": "Ducati Panigale V4 R 2025 roja en tres cuartos",
+    "heroSrc": "/media/ducati-panigale-v4-r-2025-ficha-tecnica-precio-hunt1.webp",
+    "heroAlt": "Ducati Panigale V4 R 2025: precio — fotografía del modelo",
     "keywords": [
       "ducati panigale v4 r precio",
       "panigale v4 r 2025 ficha técnica",
@@ -48687,8 +48687,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "/media/ducati-multistrada-v4-s-grand-tour-2025-ficha-tecnica-precio-hero.webp",
-    "heroAlt": "Ducati Multistrada V4 S Grand Tour 2025 gris en tres cuartos",
+    "heroSrc": "/media/ducati-multistrada-v4-s-grand-tour-2025-ficha-tecnica-precio-hunt1.webp",
+    "heroAlt": "Multistrada V4 S Grand Tour: precio — fotografía del modelo",
     "keywords": [
       "ducati multistrada v4 s grand tour precio",
       "multistrada v4 grand tour ficha técnica",
@@ -48708,8 +48708,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "/media/ducati-scrambler-800-full-throttle-2025-ficha-tecnica-precio-hero.webp",
-    "heroAlt": "Ducati Scrambler 800 Full Throttle 2025 negra y amarilla en tres cuartos",
+    "heroSrc": "/media/ducati-scrambler-800-full-throttle-2025-ficha-tecnica-precio-hunt1.webp",
+    "heroAlt": "Ducati Scrambler Full Throttle: precio — fotografía del modelo",
     "keywords": [
       "ducati scrambler full throttle precio",
       "scrambler 800 full throttle ficha técnica",
@@ -48729,8 +48729,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "/media/ducati-hypermotard-v2-2026-ficha-tecnica-precio-hero.webp",
-    "heroAlt": "Ducati Hypermotard V2 2026 roja en tres cuartos",
+    "heroSrc": "/media/ducati-hypermotard-v2-2026-ficha-tecnica-precio-hunt1.webp",
+    "heroAlt": "Ducati Hypermotard V2 2026: precio — fotografía del modelo",
     "keywords": [
       "ducati hypermotard v2 precio",
       "hypermotard v2 2026 ficha técnica",
@@ -48834,8 +48834,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "/media/segway-e300se-2025-ficha-tecnica-precio-hero.webp",
-    "heroAlt": "Segway E300SE 2025 gris en tres cuartos",
+    "heroSrc": "/media/segway-e300se-2025-ficha-tecnica-precio-hunt1.webp",
+    "heroAlt": "Segway E300SE 2025: precio y ficha — fotografía del modelo",
     "keywords": [
       "segway e300se precio",
       "segway e300se ficha técnica",
@@ -48846,7 +48846,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "scooter eléctrico 130 km autonomía",
       "segway e300se vs"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "honda-cb500-hornet-2024-ficha-tecnica-precio",
@@ -49077,7 +49077,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "tracer 9 gt matrix led",
       "tracer 9 gt suspensión electrónica"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "yamaha-nmax-155-2025-ficha-tecnica-precio",
@@ -49275,8 +49275,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/ktm-390-duke-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "KTM 390 Duke 2024 naranja y negra en vista tres cuartos",
+    "heroSrc": "/media/ktm-390-duke-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "KTM 390 Duke 2024: precio, ficha técnica y prueba — fotografía del modelo",
     "keywords": [
       "ktm 390 duke 2024 precio",
       "ktm 390 duke ficha técnica",
@@ -49294,8 +49294,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/ktm-390-adventure-r-2025-ficha-tecnica-precio-hunt1.webp",
-    "heroAlt": "KTM 390 Adventure R 2025 (foto: KTM (prensa oficial) / Cycle News)",
+    "heroSrc": "/media/ktm-390-adventure-r-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "KTM 390 Adventure R 2025: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "ktm 390 adventure r 2025 precio",
       "ktm 390 adventure r ficha técnica",
@@ -49313,8 +49313,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/ktm-1390-super-duke-r-2024-ficha-tecnica-precio-2.webp",
-    "heroAlt": "KTM 1390 Super Duke R 2024, detalle del faro delantero LED",
+    "heroSrc": "/media/ktm-1390-super-duke-r-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "KTM 1390 Super Duke R 2024: precio y 190 CV — fotografía del modelo",
     "keywords": [
       "ktm 1390 super duke r 2024 precio",
       "1390 super duke r ficha técnica",
@@ -49332,8 +49332,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/ktm-990-duke-r-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "KTM 990 Duke R 2025 blanca y naranja en vista tres cuartos",
+    "heroSrc": "/media/ktm-990-duke-r-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "KTM 990 Duke R 2025: precio, ficha y  — fotografía del modelo",
     "keywords": [
       "ktm 990 duke r 2025 precio",
       "990 duke r ficha técnica",
@@ -49342,7 +49342,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ktm the punisher",
       "990 duke r vs mt-09"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "ktm-rc-390-2024-ficha-tecnica-precio",
@@ -49351,8 +49351,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/ktm-rc-390-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "KTM RC 390 2024 naranja con carenado deportivo en vista tres cuartos",
+    "heroSrc": "/media/ktm-rc-390-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "KTM RC 390 2024: precio y ficha de la supersport A2 — fotografía del modelo",
     "keywords": [
       "ktm rc 390 2024 precio",
       "ktm rc 390 ficha técnica",
@@ -49370,8 +49370,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/husqvarna-svartpilen-401-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Husqvarna Svartpilen 401 2024 negra con faro redondo en vista tres cuartos",
+    "heroSrc": "/media/husqvarna-svartpilen-401-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Husqvarna Svartpilen 401 2024: ficha técnica — fotografía del modelo",
     "keywords": [
       "husqvarna svartpilen 401 2024",
       "svartpilen 401 ficha técnica",
@@ -49389,8 +49389,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/husqvarna-vitpilen-401-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Husqvarna Vitpilen 401 2024 blanca minimalista en vista tres cuartos",
+    "heroSrc": "/media/husqvarna-vitpilen-401-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Husqvarna Vitpilen 401 2024: ficha técnica y precio — fotografía del modelo",
     "keywords": [
       "husqvarna vitpilen 401 2024",
       "vitpilen 401 ficha técnica",
@@ -49408,8 +49408,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/husqvarna-vitpilen-801-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Husqvarna Vitpilen 801 2025 amarilla en vista tres cuartos",
+    "heroSrc": "/media/husqvarna-vitpilen-801-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Husqvarna Vitpilen 801 2025: 105 CV con estilo sueco — fotografía del modelo",
     "keywords": [
       "husqvarna vitpilen 801 2025",
       "vitpilen 801 ficha técnica",
@@ -49427,8 +49427,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/husqvarna-norden-901-expedition-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Husqvarna Norden 901 Expedition 2024 con defensas en vista tres cuartos",
+    "heroSrc": "/media/husqvarna-norden-901-expedition-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Husqvarna Norden 901 Expedition 2024: ficha técnica — fotografía del modelo",
     "keywords": [
       "husqvarna norden 901 expedition 2024",
       "norden 901 expedition ficha técnica",
@@ -49465,8 +49465,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/bmw-f-900-gs-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "BMW F 900 GS 2024 en vista tres cuartos con rueda de 21 pulgadas",
+    "heroSrc": "/media/bmw-f-900-gs-2024-ficha-tecnica-precio-hunt1.webp",
+    "heroAlt": "BMW F 900 GS 2024: precio, ficha técnica y prueba — fotografía del modelo",
     "keywords": [
       "bmw f 900 gs 2024",
       "f 900 gs precio españa",
@@ -49484,8 +49484,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/bmw-s-1000-xr-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "BMW S 1000 XR 2024 en vista tres cuartos",
+    "heroSrc": "/media/bmw-s-1000-xr-2024-ficha-tecnica-precio-hunt1.webp",
+    "heroAlt": "BMW S 1000 XR 2024: 170 CV, precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "bmw s 1000 xr 2024",
       "s 1000 xr precio españa",
@@ -49522,8 +49522,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/bmw-g-310-gs-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "BMW G 310 GS 2024 en vista tres cuartos",
+    "heroSrc": "/media/bmw-g-310-gs-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "BMW G 310 GS 2024: precio, ficha técnica y prueba — fotografía del modelo",
     "keywords": [
       "bmw g 310 gs 2024",
       "g 310 gs precio españa",
@@ -49560,8 +49560,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/ducati-multistrada-v4-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Ducati Multistrada V4 2025 roja en vista tres cuartos",
+    "heroSrc": "/media/ducati-multistrada-v4-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Ducati Multistrada V4 2025: precio, ficha y prueba — fotografía del modelo",
     "keywords": [
       "ducati multistrada v4 2025",
       "multistrada v4 precio españa",
@@ -49570,7 +49570,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "maxitrail 2025 comparativa",
       "multistrada v4 vs gs 1300"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "ducati-diavel-v4-2024-ficha-tecnica-precio",
@@ -49579,8 +49579,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/ducati-diavel-v4-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Ducati Diavel V4 2024 en vista tres cuartos",
+    "heroSrc": "/media/ducati-diavel-v4-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Ducati Diavel V4 2024: precio — fotografía del modelo",
     "keywords": [
       "ducati diavel v4 2024",
       "diavel v4 precio españa",
@@ -49598,8 +49598,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/ducati-hypermotard-698-mono-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Ducati Hypermotard 698 Mono 2024 roja en vista tres cuartos",
+    "heroSrc": "/media/ducati-hypermotard-698-mono-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Ducati Hypermotard 698 Mono 2024: precio y prueba — fotografía del modelo",
     "keywords": [
       "ducati hypermotard 698 mono 2024",
       "hypermotard 698 precio españa",
@@ -49608,7 +49608,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "hypermotard 698 prueba",
       "ducati monocilindrica"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "ducati-desertx-rally-2024-ficha-tecnica-precio",
@@ -49617,8 +49617,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/ducati-desertx-rally-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Ducati DesertX Rally 2024 blanca y roja en vista tres cuartos",
+    "heroSrc": "/media/ducati-desertx-rally-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Ducati DesertX Rally 2024: precio, ficha y prueba — fotografía del modelo",
     "keywords": [
       "ducati desertx rally 2024",
       "desertx rally precio españa",
@@ -49636,8 +49636,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/ducati-supersport-950-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Ducati SuperSport 950 2024 roja en vista tres cuartos",
+    "heroSrc": "/media/ducati-supersport-950-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Ducati SuperSport 950 2024: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "ducati supersport 950 2024",
       "supersport 950 precio españa",
@@ -49655,8 +49655,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/ducati-xdiavel-v4-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Ducati XDiavel V4 2025 en vista tres cuartos",
+    "heroSrc": "/media/ducati-xdiavel-v4-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Ducati XDiavel V4 2025: precio, ficha y 168 CV — fotografía del modelo",
     "keywords": [
       "ducati xdiavel v4 2025",
       "xdiavel v4 precio españa",
@@ -49674,8 +49674,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/triumph-speed-400-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Triumph Speed 400 2024 roja en vista tres cuartos",
+    "heroSrc": "/media/triumph-speed-400-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Triumph Speed 400 2024: precio, ficha y prueba — fotografía del modelo",
     "keywords": [
       "triumph speed 400 2024",
       "speed 400 precio españa",
@@ -49693,8 +49693,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/triumph-scrambler-400-x-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Triumph Scrambler 400 X 2024 verde en vista tres cuartos",
+    "heroSrc": "/media/triumph-scrambler-400-x-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Triumph Scrambler 400 X 2024: precio, ficha y prueba — fotografía del modelo",
     "keywords": [
       "triumph scrambler 400 x 2024",
       "scrambler 400 x precio",
@@ -49712,8 +49712,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/triumph-trident-660-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Triumph Trident 660 2025 amarilla en vista tres cuartos",
+    "heroSrc": "/media/triumph-trident-660-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Triumph Trident 660 2025: precio, ficha y novedades — fotografía del modelo",
     "keywords": [
       "triumph trident 660 2025",
       "trident 660 precio españa",
@@ -49722,7 +49722,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "triumph trident prueba",
       "trident 660 opiniones"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "triumph-speed-twin-900-2024-ficha-tecnica-precio",
@@ -49731,8 +49731,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/triumph-speed-twin-900-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Triumph Speed Twin 900 2024 en vista tres cuartos",
+    "heroSrc": "/media/triumph-speed-twin-900-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Triumph Speed Twin 900 2024: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "triumph speed twin 900 2024",
       "speed twin 900 precio",
@@ -49750,8 +49750,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/triumph-speed-twin-1200-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Triumph Speed Twin 1200 2025 en vista tres cuartos",
+    "heroSrc": "/media/triumph-speed-twin-1200-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Triumph Speed Twin 1200 2025: precio, ficha y prueba — fotografía del modelo",
     "keywords": [
       "triumph speed twin 1200 2025",
       "speed twin 1200 precio",
@@ -49760,7 +49760,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "speed twin 1200 rs",
       "triumph modern classic"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "triumph-tiger-sport-660-2025-ficha-tecnica-precio",
@@ -49769,8 +49769,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/triumph-tiger-sport-660-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Triumph Tiger Sport 660 2025 azul en vista tres cuartos",
+    "heroSrc": "/media/triumph-tiger-sport-660-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Triumph Tiger Sport 660 2025: precio, ficha y prueba — fotografía del modelo",
     "keywords": [
       "triumph tiger sport 660 2025",
       "tiger sport 660 precio",
@@ -49864,8 +49864,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/mv-agusta-brutale-1000-rr-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "MV Agusta Brutale 1000 RR 2024 en vista tres cuartos",
+    "heroSrc": "/media/mv-agusta-brutale-1000-rr-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "MV Agusta Brutale 1000 RR 2024: precio — fotografía del modelo",
     "keywords": [
       "mv agusta brutale 1000 rr 2024",
       "brutale 1000 rr precio",
@@ -49885,8 +49885,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/mv-agusta-superveloce-800-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "MV Agusta Superveloce 800 2024 en vista tres cuartos",
+    "heroSrc": "/media/mv-agusta-superveloce-800-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "MV Agusta Superveloce 800 2024: precio — fotografía del modelo",
     "keywords": [
       "mv agusta superveloce 800 2024",
       "superveloce 800 precio",
@@ -49906,8 +49906,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/mv-agusta-turismo-veloce-800-r-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "MV Agusta Turismo Veloce 800 R 2024 en vista tres cuartos",
+    "heroSrc": "/media/mv-agusta-turismo-veloce-800-r-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "MV Agusta Turismo Veloce 800 R: precio y ficha 2024 — fotografía del modelo",
     "keywords": [
       "mv agusta turismo veloce 800 r",
       "turismo veloce 800 precio",
@@ -49927,8 +49927,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/moto-guzzi-v85-tt-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Moto Guzzi V85 TT 2024 en vista tres cuartos",
+    "heroSrc": "/media/moto-guzzi-v85-tt-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Moto Guzzi V85 TT 2024: precio, ficha y prueba — fotografía del modelo",
     "keywords": [
       "moto guzzi v85 tt 2024",
       "v85 tt precio",
@@ -49948,8 +49948,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/moto-guzzi-v100-mandello-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Moto Guzzi V100 Mandello 2024 en vista tres cuartos",
+    "heroSrc": "/media/moto-guzzi-v100-mandello-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Moto Guzzi V100 Mandello 2024: precio — fotografía del modelo",
     "keywords": [
       "moto guzzi v100 mandello 2024",
       "v100 mandello precio",
@@ -49969,8 +49969,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/moto-guzzi-v7-special-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Moto Guzzi V7 Special 2024 en vista tres cuartos",
+    "heroSrc": "/media/moto-guzzi-v7-special-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Moto Guzzi V7 Special 2024: precio, ficha y vídeo — fotografía del modelo",
     "keywords": [
       "moto guzzi v7 special 2024",
       "v7 special precio",
@@ -50002,7 +50002,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "bobber 65 cv",
       "moto guzzi custom"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "moto-morini-x-cape-650-2024-ficha-tecnica-precio",
@@ -50011,8 +50011,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/moto-morini-x-cape-650-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Moto Morini X-Cape 650 2024 en vista tres cuartos",
+    "heroSrc": "/media/moto-morini-x-cape-650-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Moto Morini X-Cape 650 2024: precio, ficha y vídeo — fotografía del modelo",
     "keywords": [
       "moto morini x-cape 650 2024",
       "x-cape 650 precio",
@@ -50053,8 +50053,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/moto-morini-seiemmezzo-scr-650-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Moto Morini Seiemmezzo SCR 650 2024 en vista tres cuartos",
+    "heroSrc": "/media/moto-morini-seiemmezzo-scr-650-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Moto Morini Seiemmezzo SCR 650 2024: precio y ficha — fotografía del modelo",
     "keywords": [
       "moto morini seiemmezzo scr 650",
       "seiemmezzo scr precio",
@@ -50095,8 +50095,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/bimota-kb4-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Bimota KB4 2024 en vista tres cuartos",
+    "heroSrc": "/media/bimota-kb4-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Bimota KB4 2024: precio, ficha y vídeo — fotografía del modelo",
     "keywords": [
       "bimota kb4 2024",
       "bimota kb4 precio",
@@ -50116,8 +50116,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/bimota-tesi-h2-tera-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Bimota Tesi H2 Tera 2024 en vista tres cuartos",
+    "heroSrc": "/media/bimota-tesi-h2-tera-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Bimota Tesi H2 Tera 2024: precio — fotografía del modelo",
     "keywords": [
       "bimota tesi h2 tera 2024",
       "bimota tera precio",
@@ -50494,8 +50494,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "/media/motos/suzuki-v-strom-650xt-2024-ficha-tecnica-precio-hero.webp",
-    "heroAlt": "Suzuki V-Strom 650XT 2024 amarilla en pista",
+    "heroSrc": "/media/suzuki-v-strom-650xt-2024-ficha-tecnica-precio-hero-480w.webp",
+    "heroAlt": "V-Strom 650XT 2024: precio y ficha — fotografía del modelo",
     "keywords": [
       "suzuki v-strom 650xt 2024 precio",
       "v-strom 650xt 2024 ficha técnica",
@@ -50578,8 +50578,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-990-duke-2025-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 990 Duke 2025 con faro de escalpelo",
     "keywords": [
       "ktm 990 duke 2025 precio",
       "990 duke 2025 ficha técnica",
@@ -50599,8 +50599,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "/media/ktm-1390-super-duke-r-2025-ficha-tecnica-precio-hunt1.webp",
-    "heroAlt": "KTM 1390 Super Duke R 2025 (foto: KTM (foto de prensa) vía catálogo 1000PS del modelo base R 2025)",
+    "heroSrc": "/media/ktm-1390-super-duke-r-2025-ficha-tecnica-precio-hero-480w.webp",
+    "heroAlt": "KTM 1390 Super Duke R 2025: precio — fotografía del modelo",
     "keywords": [
       "ktm 1390 super duke r 2025 precio",
       "1390 super duke r ficha técnica",
@@ -50662,8 +50662,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "/media/motos/ktm-1390-super-adventure-r-2025-ficha-tecnica-precio-hero.webp",
-    "heroAlt": "KTM 1390 Super Adventure R 2025 en pista de tierra",
+    "heroSrc": "/media/ktm-1390-super-adventure-r-2025-ficha-tecnica-precio-hero-480w.webp",
+    "heroAlt": "KTM 1390 Super Adv R 2025: precio — fotografía del modelo",
     "keywords": [
       "ktm 1390 super adventure r 2025 precio",
       "1390 super adventure r ficha técnica",
@@ -50725,8 +50725,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-990-duke-r-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 990 Duke R 2026 en curvas",
     "keywords": [
       "ktm 990 duke r 2026 precio",
       "990 duke r ficha técnica",
@@ -50737,7 +50737,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "990 duke r peso",
       "ktm 990 rc r"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "ktm-390-duke-2026-ficha-tecnica-precio",
@@ -50746,8 +50746,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-390-duke-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 390 Duke 2026 naranja en carretera",
     "keywords": [
       "ktm 390 duke 2026 precio",
       "390 duke 2026 ficha técnica",
@@ -50914,8 +50914,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "/media/motos/bmw-s-1000-r-2025-ficha-tecnica-precio-hero.webp",
-    "heroAlt": "BMW S 1000 R 2025 en circuito",
+    "heroSrc": "/media/bmw-s-1000-r-2025-ficha-tecnica-precio-hero-480w.webp",
+    "heroAlt": "BMW S 1000 R 2025: precio y ficha — fotografía del modelo",
     "keywords": [
       "bmw s 1000 r 2025 precio",
       "s 1000 r ficha técnica",
@@ -50947,7 +50947,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "r 12 95 cv",
       "bmw boxer barata"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "bmw-ce-04-2025-ficha-tecnica-precio",
@@ -51817,7 +51817,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
-    "heroSrc": "/media/kove-450rr-2024-precio-hero.webp",
+    "heroSrc": "/media/kove-450rr-2024-precio-hero.jpg",
     "heroAlt": "Kove 450RR 2024 blanca y negra con carenado integral y winglets",
     "keywords": [
       "kove 450rr precio",
@@ -51838,8 +51838,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
-    "heroSrc": "/media/kove-800x-2025-precio-hero.webp",
-    "heroAlt": "Kove 800X Pro 2025 en pista de tierra, vista tres cuartos",
+    "heroSrc": "/media/kove-800x-gt-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Kove 800X 2025: precio, ficha y prueba — fotografía del modelo",
     "keywords": [
       "kove 800x precio",
       "kove 800x 2025 ficha técnica",
@@ -51859,8 +51859,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
-    "heroSrc": "/media/morbidelli-t502x-2025-precio-hero.webp",
-    "heroAlt": "Morbidelli T502X 2025 azul en camino de tierra, vista tres cuartos",
+    "heroSrc": "/media/morbidelli-t502x-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Morbidelli T502X 2025: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "morbidelli t502x precio",
       "morbidelli t502x 2025 ficha técnica",
@@ -51880,7 +51880,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
-    "heroSrc": "/media/morbidelli-c1002v-2025-precio-hero.webp",
+    "heroSrc": "/media/morbidelli-c1002v-2025-precio-hero.jpg",
     "heroAlt": "Morbidelli C1002V 2025 negra, custom V-twin vista lateral",
     "keywords": [
       "morbidelli c1002v precio",
@@ -51901,8 +51901,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
-    "heroSrc": "/media/macbor-xr5-2024-precio-hero.webp",
-    "heroAlt": "Macbor Montana XR5 2024 roja y gris en pista, vista tres cuartos",
+    "heroSrc": "/media/macbor-xr5-500-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Macbor XR5 2024: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "macbor xr5 precio",
       "macbor montana xr5 2024 ficha técnica",
@@ -52390,8 +52390,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/benelli-trk-702-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Benelli TRK 702 2024 en color verde, vista tres cuartos de la trail",
+    "heroSrc": "/media/benelli-trk-702-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Benelli TRK 702 2024: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "benelli trk 702 precio españa",
       "benelli trk 702 2024 ficha técnica",
@@ -52411,8 +52411,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/benelli-trk-702x-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Benelli TRK 702 X 2024 en color arena, vista tres cuartos adventure",
+    "heroSrc": "/media/benelli-trk-702x-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Benelli TRK 702 X 2024: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "benelli trk 702 x precio",
       "trk 702 x 2024 ficha técnica",
@@ -52495,8 +52495,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/macbor-eight-mile-500-street-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Macbor Eight Mile 500 Street 2024 en color negro, vista lateral custom",
+    "heroSrc": "/media/macbor-eight-mile-500-street-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Macbor Eight Mile 500 Street: precio y ficha — fotografía del modelo",
     "keywords": [
       "macbor eight mile 500 precio",
       "eight mile 500 street 2024 ficha",
@@ -52516,8 +52516,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/macbor-montana-xr5-510-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Macbor Montana XR5 510 2025 en color rojo, vista tres cuartos de la trail",
+    "heroSrc": "/media/macbor-montana-xr5-510-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Macbor Montana XR5 510 2025: precio y ficha — fotografía del modelo",
     "keywords": [
       "macbor montana xr5 precio",
       "montana xr5 510 2025 ficha",
@@ -52528,7 +52528,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "montana xr5 vs trk 502 x",
       "macbor trail 2025"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "macbor-eight-mile-125-lc-2024-ficha-tecnica-precio",
@@ -52600,8 +52600,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/keeway-vieste-300-xdv-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Keeway Vieste 300 XDV 2024: precio y ficha — fotografía del modelo",
     "keywords": [
       "keeway vieste 300 precio",
       "vieste 300 xdv 2024 ficha",
@@ -52663,8 +52663,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/brixton-crossfire-500-x-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Brixton Crossfire 500 X 2024 en color verde, vista tres cuartos de la scrambler",
+    "heroSrc": "/media/brixton-crossfire-500-x-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Brixton Crossfire 500 X 2024: precio y ficha — fotografía del modelo",
     "keywords": [
       "brixton crossfire 500 x precio",
       "crossfire 500 x 2024 ficha",
@@ -52726,8 +52726,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/brixton-cromwell-250-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Brixton Cromwell 250 2024 en color negro, vista lateral clásica",
+    "heroSrc": "/media/brixton-cromwell-250-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Brixton Cromwell 250 2024: precio y ficha — fotografía del modelo",
     "keywords": [
       "brixton cromwell 250 precio",
       "cromwell 250 2024 ficha",
@@ -52831,8 +52831,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/mitt-tt-530-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Mitt TT 530 2024 en color negro, vista tres cuartos de la trail",
+    "heroSrc": "/media/mitt-tt-530-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Mitt TT 530 2024: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "mitt tt 530 precio",
       "mitt tt 530 2024 ficha",
@@ -52915,8 +52915,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/wottan-rebbe-401-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Wottan Rebbe 401 2024 en color rojo burdeos, vista tres cuartos de la naked neo-retro",
+    "heroSrc": "/media/wottan-rebbe-401-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Wottan Rebbe 401 2024: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "wottan rebbe 401 precio",
       "wottan rebbe 401 2024 ficha",
@@ -52936,8 +52936,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/swm-hoku-400-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "SWM Hoku 400 2024 en color rojo, vista tres cuartos de la naked",
+    "heroSrc": "/media/swm-hoku-400-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "SWM Hoku 400 2024: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "swm hoku 400 precio",
       "swm hoku 400 2024 ficha",
@@ -52957,8 +52957,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/swm-sm-500-r-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "SWM SM 500 R 2024 en color rojo, vista lateral supermotard",
+    "heroSrc": "/media/swm-sm-500-r-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "SWM SM 500 R 2024: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "swm sm 500 r precio",
       "swm sm 500 r 2024 ficha",
@@ -52978,8 +52978,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/swm-six-days-500-2024-ficha-tecnica-precio-1.webp",
-    "heroAlt": "SWM Six Days 500 2024 en color rojo, vista lateral scrambler clásica",
+    "heroSrc": "/media/swm-six-days-500-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "SWM Six Days 500 2024: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "swm six days 500 precio",
       "six days 500 2024 ficha",
@@ -53155,8 +53155,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/royal-enfield-classic-350-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Royal Enfield Classic 350 verde en una carretera rural",
+    "heroSrc": "/media/royal-enfield-classic-350-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Royal Enfield Classic 350 2025: precio — fotografía del modelo",
     "keywords": [
       "royal enfield classic 350 2025 precio",
       "classic 350 ficha técnica",
@@ -53174,8 +53174,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/royal-enfield-guerrilla-450-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Royal Enfield Guerrilla 450 amarilla en carretera de curvas",
+    "heroSrc": "/media/royal-enfield-guerrilla-450-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Royal Enfield Guerrilla 450 2025: precio — fotografía del modelo",
     "keywords": [
       "royal enfield guerrilla 450 2025 precio",
       "guerrilla 450 ficha técnica",
@@ -53193,8 +53193,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/royal-enfield-hunter-350-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Royal Enfield Hunter 350 en ciudad",
+    "heroSrc": "/media/royal-enfield-hunter-350-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Royal Enfield Hunter 350 2025: precio — fotografía del modelo",
     "keywords": [
       "royal enfield hunter 350 2025 precio",
       "hunter 350 ficha técnica",
@@ -53212,8 +53212,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/royal-enfield-meteor-350-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Royal Enfield Meteor 350 granate en ruta",
+    "heroSrc": "/media/royal-enfield-meteor-350-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Royal Enfield Meteor 350 2025: precio — fotografía del modelo",
     "keywords": [
       "royal enfield meteor 350 2025 precio",
       "meteor 350 ficha técnica",
@@ -53250,8 +53250,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/harley-davidson-low-rider-st-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Harley-Davidson Low Rider S 2025: precio — fotografía del modelo",
     "keywords": [
       "harley davidson low rider s 2025 precio",
       "low rider s ficha técnica",
@@ -53269,8 +53269,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/harley-davidson-breakout-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Harley-Davidson Breakout cromada en una avenida",
+    "heroSrc": "/media/harley-davidson-breakout-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Harley-Davidson Breakout 2025: precio — fotografía del modelo",
     "keywords": [
       "harley davidson breakout 2025 precio",
       "breakout ficha técnica",
@@ -53288,8 +53288,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/harley-davidson-heritage-classic-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Harley-Davidson Heritage Classic con maletas",
+    "heroSrc": "/media/harley-davidson-heritage-classic-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Harley-Davidson Heritage Classic 2025: precio — fotografía del modelo",
     "keywords": [
       "harley davidson heritage classic 2025 precio",
       "heritage classic ficha técnica",
@@ -53326,8 +53326,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/harley-davidson-fat-boy-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Harley-Davidson Fat Boy cromada al atardecer",
+    "heroSrc": "/media/harley-davidson-fat-boy-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Harley-Davidson Fat Boy 2025: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "harley davidson fat boy 2025 precio",
       "fat boy ficha técnica",
@@ -53345,8 +53345,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/indian-scout-bobber-2026-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Indian Scout Bobber negra mate en carretera americana",
+    "heroSrc": "/media/indian-scout-bobber-2026-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Indian Scout Bobber 2026: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "indian scout bobber 2026 precio",
       "scout bobber ficha técnica",
@@ -53364,8 +53364,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/indian-sport-scout-2026-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Indian Sport Scout en carretera secundaria",
+    "heroSrc": "/media/indian-sport-scout-2026-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Indian Sport Scout 2026: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "indian sport scout 2026 precio",
       "sport scout ficha técnica",
@@ -53383,8 +53383,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/indian-scout-classic-2026-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Indian Scout Classic cromada en pueblo americano",
+    "heroSrc": "/media/indian-scout-classic-2026-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Indian Scout Classic 2026: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "indian scout classic 2026 precio",
       "scout classic ficha técnica",
@@ -53402,8 +53402,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/indian-101-scout-2026-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Indian 101 Scout en carretera de curvas",
+    "heroSrc": "/media/indian-101-scout-2026-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Indian 101 Scout 2026: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "indian 101 scout 2026 precio",
       "101 scout ficha técnica",
@@ -53421,8 +53421,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/indian-chief-bobber-dark-horse-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Indian Chief Bobber Dark Horse negra en ruta",
+    "heroSrc": "/media/indian-chief-bobber-dark-horse-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Indian Chief Bobber Dark Horse 2025: precio y ficha — fotografía del modelo",
     "keywords": [
       "indian chief bobber dark horse precio",
       "chief bobber dark horse ficha técnica",
@@ -53431,7 +53431,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "bobber gran cilindrada",
       "indian chief vs harley"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "piaggio-beverly-310-2025-ficha-tecnica-precio",
@@ -53440,8 +53440,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/piaggio-beverly-310-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Piaggio Beverly 310 azul en la ciudad",
+    "heroSrc": "/media/piaggio-beverly-310-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Piaggio Beverly 310 2025: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "piaggio beverly 310 2025 precio",
       "beverly 310 ficha técnica",
@@ -53516,8 +53516,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/piaggio-mp3-400-sport-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Piaggio MP3 400 Sport en rotonda urbana",
+    "heroSrc": "/media/piaggio-mp3-400-sport-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Piaggio MP3 400 Sport 2025: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "piaggio mp3 400 2025 precio",
       "mp3 400 sport ficha técnica",
@@ -53554,8 +53554,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/vespa-gtv-310-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Vespa GTV 310 en calle histórica",
+    "heroSrc": "/media/vespa-gtv-310-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Vespa GTV 310 2025: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "vespa gtv 310 2025 precio",
       "gtv 310 ficha técnica",
@@ -53649,8 +53649,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/italjet-dragster-200-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Italjet Dragster 200 en ciudad",
+    "heroSrc": "/media/italjet-dragster-200-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Italjet Dragster 200 2025: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "italjet dragster 200 2025 precio",
       "dragster 200 ficha técnica",
@@ -53668,8 +53668,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/italjet-dragster-300-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Italjet Dragster 300 rojo en carretera de curvas",
+    "heroSrc": "/media/italjet-dragster-300-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Italjet Dragster 300 2025: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "italjet dragster 300 2025 precio",
       "dragster 300 ficha técnica",
@@ -53687,8 +53687,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/italjet-dragster-700-twin-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Italjet Dragster 700 Twin en circuito",
+    "heroSrc": "/media/italjet-dragster-700-twin-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Italjet Dragster 700 Twin 2025: precio — fotografía del modelo",
     "keywords": [
       "italjet dragster 700 twin precio",
       "dragster 700 ficha técnica",
@@ -53929,8 +53929,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "sym-adxtg-400-2025-ficha-tecnica-precio",
-    "title": "SYM ADXTG 400: el scooter trail de 35 CV por 5.999 €",
-    "excerpt": "El SYM ADXTG 400 2025 por 5.999 €: 399 cc, 35 CV y el crossover más potente de SYM. Ficha técnica completa.",
+    "title": "SYM ADXTG 400: ficha, cadena y precio oficial de 6.999 €",
+    "excerpt": "SYM ADXTG 400: 399 cc, 35 CV, transmisión por cadena y 32 litros de cofre. PVP oficial de 6.999 €, diferencia con las ofertas y qué dice el manual.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -54818,8 +54818,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/gasgas-ec-300-2t-2025-ficha-tecnica-precio-2.webp",
-    "heroAlt": "Detalle del motor 2T de 293 cc de la GasGas EC 300 2025",
+    "heroSrc": "/media/gasgas-ec-300-2t-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "GasGas EC 300 2025: la enduro 2T de 293 cc por 10.315 € — fotografía del modelo",
     "keywords": [
       "gasgas ec 300 2025 precio",
       "gasgas ec 300 ficha técnica",
@@ -54860,8 +54860,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/gasgas-ec-250f-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "GasGas EC 250F 2025 roja en una crono de enduro",
+    "heroSrc": "/media/gasgas-ec-250f-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "GasGas EC 250F 2025: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "gasgas ec 250f 2025 precio",
       "gasgas ec 250f ficha técnica",
@@ -55049,8 +55049,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/fantic-caballero-500-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Fantic Caballero 500 2025 en una carretera secundaria",
+    "heroSrc": "/media/fantic-caballero-500-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Fantic Caballero 500 2025: precio y ficha A2 — fotografía del modelo",
     "keywords": [
       "fantic caballero 500 2025 precio",
       "fantic caballero 500 ficha técnica",
@@ -55061,7 +55061,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "scrambler italiana precio",
       "mejor scrambler a2"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "fantic-caballero-700-2025-ficha-tecnica-precio",
@@ -55070,8 +55070,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/fantic-caballero-700-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Fantic Caballero 700 2025 en una ruta por montaña",
+    "heroSrc": "/media/fantic-caballero-700-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Fantic Caballero 700: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "fantic caballero 700 precio",
       "fantic caballero 700 ficha técnica",
@@ -55082,7 +55082,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "scrambler italiana 700",
       "mejor scrambler media"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "sherco-300-se-factory-2026-ficha-tecnica-precio",
@@ -55385,8 +55385,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/beta-rr-2t-200-race-2026-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Beta RR 2T 200 Race 2026 en competición",
+    "heroSrc": "/media/beta-rr-2t-200-race-2026-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Beta RR 200 Race 2026: precio y ficha 2T — fotografía del modelo",
     "keywords": [
       "beta rr 200 race 2026 precio",
       "beta rr 200 ficha técnica",
@@ -55532,8 +55532,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/trs-one-r-250-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "TRS One R 250 2025: precio y ficha de trial — fotografía del modelo",
     "keywords": [
       "trs one r 250 2025 precio",
       "trs one r 250 ficha técnica",
@@ -55574,8 +55574,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/trs-xtrack-250-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "TRS Xtrack 250 2025: trial-excursión y precio — fotografía del modelo",
     "keywords": [
       "trs xtrack 250 2025 precio",
       "trs xtrack ficha técnica",
@@ -55595,8 +55595,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/trs-one-r-electric-start-300-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "TRS One R 300 arranque eléctrico: precio — fotografía del modelo",
     "keywords": [
       "trs one r arranque eléctrico precio",
       "trs electric start 300",
@@ -55616,8 +55616,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/vertigo-nitro-rs3-300-2026-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Vertigo Nitro RS3 300 2026: precio y ficha — fotografía del modelo",
     "keywords": [
       "vertigo nitro rs3 300 2026 precio",
       "vertigo nitro ficha técnica",
@@ -55637,8 +55637,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/vertigo-nitro-rs3-250-2026-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Vertigo Nitro RS3 250 2026: precio y ficha — fotografía del modelo",
     "keywords": [
       "vertigo nitro rs3 250 2026 precio",
       "vertigo nitro 250 ficha",
@@ -55649,7 +55649,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "mejor trial 250 2026",
       "vertigo motors 250"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "vertigo-combat-camo-300-2025-ficha-tecnica-precio",
@@ -55658,8 +55658,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/vertigo-combat-camo-300-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Vertigo Combat Camo 300: precio y ficha — fotografía del modelo",
     "keywords": [
       "vertigo combat camo 300 precio",
       "vertigo combat ficha técnica",
@@ -55670,7 +55670,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "mejor trial calidad precio",
       "vertigo motors combat"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "vertigo-nitro-dl12-300-2026-ficha-tecnica-precio",
@@ -55679,8 +55679,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/vertigo-nitro-dl12-300-2026-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Vertigo Nitro DL12 300: edición Lampkin — fotografía del modelo",
     "keywords": [
       "vertigo nitro dl12 300 precio",
       "dougie lampkin vertigo",
@@ -55691,7 +55691,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "moto trial exclusiva",
       "lampkin 12 mundiales"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "mecatecno-dragonfly-e-2025-ficha-tecnica-precio",
@@ -56645,8 +56645,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/suzuki-gsx-8r-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Suzuki GSX-8R 2025 azul con carenado completo en curva",
+    "heroSrc": "/media/suzuki-gsx-8r-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Suzuki GSX-8R 2025: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "suzuki gsx-8r 2025 precio",
       "gsx-8r 2025 ficha técnica",
@@ -57044,8 +57044,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/ktm-1390-super-duke-gt-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "KTM 1390 Super Duke GT 2025: ficha técnica — fotografía del modelo",
     "keywords": [
       "ktm 1390 super duke gt 2025",
       "ktm 1390 super duke gt ficha técnica",
@@ -57056,7 +57056,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "the long distance beast",
       "ktm 1390 gt prueba"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "ktm-990-rc-r-2025-ficha-tecnica-precio",
@@ -57065,8 +57065,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/ktm-990-rc-r-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "KTM 990 RC R 2025 naranja en circuito",
+    "heroSrc": "/media/ktm-990-rc-r-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "KTM 990 RC R 2025: la vuelta de KTM a las R — fotografía del modelo",
     "keywords": [
       "ktm 990 rc r 2025",
       "ktm 990 rc r ficha técnica",
@@ -57077,7 +57077,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ktm 990 rc r vs panigale v2",
       "ktm rc8 sucesora"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "ktm-890-smt-2026-ficha-tecnica-precio",
@@ -57464,8 +57464,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/ducati-hypermotard-v2-sp-2026-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Ducati Hypermotard V2 SP 2026 en circuito",
+    "heroSrc": "/media/ducati-hypermotard-v2-sp-2026-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Ducati Hypermotard V2 SP 2026: precio y ficha — fotografía del modelo",
     "keywords": [
       "ducati hypermotard v2 sp precio",
       "hypermotard v2 sp 2026 ficha técnica",
@@ -58022,7 +58022,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "naked china a2",
       "450nk prueba"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "cfmoto-675sr-r-2025-ficha-tecnica-precio",
@@ -58148,7 +58148,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "trail china a2 600",
       "srt 600sx prueba"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "qjmotor-srk-125j-2025-ficha-tecnica-precio",
@@ -58274,7 +58274,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "scooter con radar",
       "sr4 max prueba"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "voge-300ac-2025-ficha-tecnica-precio",
@@ -58504,7 +58504,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "NIU España",
       "etiqueta Cero"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "cfmoto-675nk-2025-ficha-tecnica-precio",
@@ -58738,7 +58738,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "moto custom media",
       "macbor 410"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "macbor-eight-mile-500-scr-2025-ficha-tecnica-precio",
@@ -58843,7 +58843,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "neo retro 800",
       "benelli 754"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "benelli-trk-902-stradale-2025-ficha-tecnica-precio",
@@ -58894,8 +58894,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/zontes-368g-2025-ficha-tecnica-precio-2.webp",
-    "heroAlt": "Zontes 368G 2025, lateral con llantas de radios",
+    "heroSrc": "/media/zontes-368g-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Zontes 368G 2025: el scooter más vendido por 5.592 € — fotografía del modelo",
     "keywords": [
       "zontes 368g precio",
       "368g 2025 ficha técnica",
@@ -59158,7 +59158,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "maxsym tl 508 vs dragster 459",
       "comprar maxiscooter"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "yamaha-tenere-700-2024-analisis-opinion",
@@ -59200,7 +59200,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "sport heritage yamaha",
       "moto ligera 188 kg"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "piaggio-beverly-400-2024-analisis-opinion",
@@ -59377,8 +59377,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/yamaha-tmax-560-2024-ficha-tecnica-precio-480w.webp",
+    "heroAlt": "yamaha tmax 560 2024 analisis opinion — fotografía del modelo",
     "keywords": [
       "yamaha tmax 560",
       "tmax 560 2024 precio",
@@ -59431,7 +59431,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "sym adx 300 autonomía",
       "scooter 300 barato"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "benelli-trk-902-stradale-2025-analisis-opinion",
@@ -59566,7 +59566,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "locale": "all",
-    "heroSrc": "/media/ktm-1390-super-duke-r-2024-ficha-tecnica-precio-1.webp",
+    "heroSrc": "/media/ktm-1390-super-duke-r-2024-analisis-opinion-hero.jpg",
     "heroAlt": "KTM 1390 Super Duke R 2024, hypernaked",
     "keywords": [
       "ktm 1390 super duke r 2024",
@@ -59620,7 +59620,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "leoncino 800 opiniones",
       "leoncino 800 opiniones prueba"
     ],
-    "readTime": 7
+    "readTime": 8
   },
   {
     "slug": "bmw-r-12-ninet-2024-analisis-opinion",
@@ -60115,7 +60115,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "nio et5 battery swap",
       "nio et5 vs tesla model 3"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "nio-et5-touring-2025-precio-ficha-tecnica",
@@ -60125,7 +60125,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/nio-et5-touring-2025-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Nio ET5 Touring (foto: NIO (foto oficial de prensa) vía Auto Express)",
+    "heroAlt": "Nio ET5 Touring: el familiar eléctrico de 490 CV — fotografía del modelo",
     "keywords": [
       "nio et5 touring precio",
       "familiar eléctrico premium 2025",
@@ -60144,7 +60144,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/nio-et7-2024-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Nio ET7 (foto: NIO (web oficial, carpeta ET7 2024))",
+    "heroAlt": "Nio ET7: 653 CV y 580 km, la berlina china total — fotografía del modelo",
     "keywords": [
       "nio et7 precio alemania",
       "nio et7 653 cv",
@@ -60163,7 +60163,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/nio-el6-2024-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Nio EL6 (foto: NIO (web oficial))",
+    "heroAlt": "Nio EL6: 490 CV y 529 km por 65.500 € — fotografía del modelo",
     "keywords": [
       "nio el6 precio alemania",
       "nio el6 490 cv",
@@ -60201,7 +60201,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/nio-el8-2024-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Nio EL8 (foto: Nio (foto de prensa oficial) vía Carwow)",
+    "heroAlt": "Nio EL8: 6 plazas y 510 km por 82.900 € — fotografía del modelo",
     "keywords": [
       "nio el8 precio alemania",
       "nio el8 6 plazas",
@@ -60220,7 +60220,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/nio-ec6-2024-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Nio EC6 2024 (foto: NIO (web oficial))",
+    "heroAlt": "Nio EC6 2024: el SUV coupé que no llega a Europa — fotografía del modelo",
     "keywords": [
       "nio ec6 2024",
       "nio ec6 precio china",
@@ -60229,7 +60229,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "nio ec6 europa",
       "nio ec6 nt 2.0"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "nio-ec7-2024-precio-ficha-tecnica",
@@ -60385,7 +60385,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/nissan-juke-10-dig-t-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Nissan Juke DIG-T 114 CV (foto: CarExpert / Nissan)",
+    "heroAlt": "Nissan Juke DIG-T 114 CV: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "nissan juke dig-t 114 precio",
       "juke gasolina 114 cv opiniones",
@@ -60421,7 +60421,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/nissan-x-trail-e-4orce-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Nissan X-Trail e-4ORCE 213 CV (foto: Driven Car Guide (foto de prensa Nissan))",
+    "heroAlt": "Nissan X-Trail e-4ORCE 213 CV: precio y ficha 2026 — fotografía del modelo",
     "keywords": [
       "nissan x-trail e-4orce precio",
       "x-trail 213 cv traccion total",
@@ -60439,7 +60439,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/nissan-leaf-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Nuevo Nissan Leaf 2026 (foto: Nissan (foto oficial de prensa) vía RPMWeb)",
+    "heroAlt": "Nuevo Nissan Leaf 2026: 622 km de autonomía y precio — fotografía del modelo",
     "keywords": [
       "nissan leaf 2026 precio",
       "nuevo leaf 622 km autonomia",
@@ -60457,7 +60457,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/nissan-ariya-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Nissan Ariya 2026 (foto: MotorWatt EV Database (imagen de estudio Nissan))",
+    "heroAlt": "Nissan Ariya 2026: 525 km de autonomía y precio — fotografía del modelo",
     "keywords": [
       "nissan ariya precio españa",
       "ariya 87 kwh autonomia",
@@ -60493,7 +60493,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/nissan-townstar-combi-13g-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Nissan Townstar Combi 2026 (foto: Nissan (prensa oficial) / CochesyConcesionarios)",
+    "heroAlt": "Nissan Townstar Combi 2026: 7 plazas desde 31.928 € — fotografía del modelo",
     "keywords": [
       "nissan townstar combi precio",
       "townstar 7 plazas evalia",
@@ -60511,7 +60511,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/nissan-townstar-ev-2026-precio-ficha-tecnica-hunt1.webp",
-    "heroAlt": "Nissan Townstar eléctrica (foto: Nissan (prensa oficial) / Sicilia Motori)",
+    "heroAlt": "Nissan Townstar eléctrica: 287 km y precio 2026 — fotografía del modelo",
     "keywords": [
       "nissan townstar electrica precio",
       "townstar ev autonomia 287",
@@ -63568,8 +63568,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "yamaha-nmax-125-2026-ficha-tecnica-precio",
-    "title": "Yamaha NMAX 125 2026: precio y ficha",
-    "excerpt": "Yamaha NMAX 125 2026 desde 3.599 €: scooter urbano premium con 12,2 CV, distribución variable VVA, control de tracción y solo 132 kg.",
+    "title": "Yamaha NMAX 125 2026: precio y ficha con datos de Yamaha",
+    "excerpt": "Yamaha NMAX 125 2026: 12,2 CV con VVA, 2,2 l/100 km, TCS y Smart Key por 3.599 € recomendados. Datos de Yamaha y qué comprobar antes de comprar.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -63583,7 +63583,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "nmax 125 2026 vva",
       "scooter 125 premium"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "yamaha-rayzr-125-2025-ficha-tecnica-precio",
@@ -63797,7 +63797,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "honda-cb300r-2026-ficha-tecnica-precio",
     "title": "Honda CB300R 2026: precio y ficha",
-    "excerpt": "Honda CB300R 2026 desde 5.700 €: naked A2 con 31 CV, 286 cc y 144 kg. Diseño Neo Sports Café y diversión ligera para el carnet A2.",
+    "excerpt": "Honda CB300R: 23,1 kW (31,4 CV), 27,5 Nm, ABS con IMU y carnet A2. Datos de Honda España; ya no se comercializa en España y no hay PVP oficial vigente.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -63811,7 +63811,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "cb300r 31 cv",
       "moto a2 ligera"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "yamaha-mt-125-2026-ficha-tecnica-precio",
@@ -64067,8 +64067,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
-    "heroSrc": "/media/suzuki-v-strom-250sx-2025-ficha-tecnica-precio-oficial.webp",
-    "heroAlt": "Suzuki V-Strom 250SX 2025, vista oficial",
+    "heroSrc": "/media/suzuki-v-strom-1050-de-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Suzuki V-Strom 250SX: ficha y precio — fotografía del modelo",
     "keywords": [
       "suzuki v-strom 250sx precio",
       "v-strom 250sx ficha técnica",
@@ -64153,7 +64153,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "cbr500r vs ninja 500",
       "moto deportiva carnet a2"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "kawasaki-ninja-zx-4rr-2025-precio",
@@ -64200,8 +64200,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
-    "heroSrc": "/media/ktm-rc-390-2025-ficha-tecnica-precio-oficial.webp",
-    "heroAlt": "KTM RC 390 2025, vista oficial",
+    "heroSrc": "/media/ktm-rc-390-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "KTM RC 390 2025: precio y ficha — fotografía del modelo",
     "keywords": [
       "ktm rc 390 2025 precio",
       "ktm rc 390 ficha técnica",
@@ -64295,8 +64295,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
-    "heroSrc": "/media/triumph-bonneville-t100-2026-ficha-tecnica-precio-oficial.webp",
-    "heroAlt": "Triumph Bonneville T100 2026, vista oficial",
+    "heroSrc": "/media/triumph-bonneville-t100-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Triumph Bonneville T100: precio 2026 — fotografía del modelo",
     "keywords": [
       "triumph bonneville t100 2026 precio",
       "bonneville t100 ficha técnica",
@@ -64314,8 +64314,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
-    "heroSrc": "/media/royal-enfield-classic-350-2026-ficha-tecnica-precio-oficial.webp",
-    "heroAlt": "Royal Enfield Classic 350 2026, vista oficial",
+    "heroSrc": "/media/royal-enfield-classic-350-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Royal Enfield Classic 350: precio 2026 — fotografía del modelo",
     "keywords": [
       "royal enfield classic 350 precio",
       "classic 350 2026 ficha",
@@ -64333,8 +64333,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
-    "heroSrc": "/media/royal-enfield-meteor-350-2026-ficha-tecnica-precio-oficial.webp",
-    "heroAlt": "Royal Enfield Meteor 350 2026, vista oficial",
+    "heroSrc": "/media/royal-enfield-meteor-350-2025-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Royal Enfield Meteor 350: precio 2026 — fotografía del modelo",
     "keywords": [
       "royal enfield meteor 350 precio",
       "meteor 350 2026 ficha",
@@ -64371,8 +64371,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
-    "heroSrc": "/media/ducati-scrambler-800-nightshift-2025-ficha-tecnica-precio-oficial.webp",
-    "heroAlt": "Ducati Scrambler 800 Nightshift 2025, vista oficial",
+    "heroSrc": "/media/ducati-scrambler-800-full-throttle-2025-ficha-tecnica-precio-hunt1.webp",
+    "heroAlt": "Ducati Scrambler Nightshift: precio — fotografía del modelo",
     "keywords": [
       "ducati scrambler nightshift precio",
       "scrambler 800 nightshift ficha",
@@ -64409,8 +64409,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
-    "heroSrc": "/media/macbor-eight-mile-500-scr-2026-ficha-tecnica-precio-oficial.webp",
-    "heroAlt": "Macbor Eight Mile 500 SCR 2026, vista oficial",
+    "heroSrc": "/media/macbor-eight-mile-125-lc-2024-ficha-tecnica-precio-1-480w.webp",
+    "heroAlt": "Macbor Eight Mile 500: precio 2026 — fotografía del modelo",
     "keywords": [
       "macbor eight mile 500 precio",
       "eight mile 500 scr ficha",
@@ -64438,7 +64438,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "moto chopper 125",
       "custom carnet b"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "piaggio-1-plus-2025-ficha-tecnica-precio",
@@ -64447,8 +64447,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
-    "heroSrc": "/media/motos/piaggio-1-plus-2025-ficha-tecnica-precio-oficial.webp",
-    "heroAlt": "Piaggio 1+ 2025, scooter eléctrico ciclomotor en blanco",
+    "heroSrc": "/media/piaggio-1-plus-2025-ficha-tecnica-precio-hunt1.webp",
+    "heroAlt": "Piaggio 1+ 2025: precio y ficha — fotografía del modelo",
     "keywords": [
       "piaggio 1+ precio",
       "piaggio 1 plus ficha técnica",
@@ -64685,7 +64685,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-02",
     "locale": "es",
-    "heroSrc": "/media/patinete-multa-octubre-2026.webp",
+    "heroSrc": "/media/multa-patinete-octubre-2026-que-hacer-como-rec-hero.jpg",
     "heroAlt": "Agente de policía junto a un patinete eléctrico en una acera de una ciudad española",
     "keywords": [
       "multa patinete eléctrico 2026",
@@ -64704,7 +64704,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-02",
     "locale": "es",
-    "heroSrc": "/media/intercomunicador-casco-octubre-2026.webp",
+    "heroSrc": "/media/intercomunicador-casco-moto-legal-octubre-2026-hero.jpg",
     "heroAlt": "Motorista con casco integral e intercomunicador integrado circulando por una carretera española",
     "keywords": [
       "intercomunicador casco moto legal 2026",
@@ -64739,7 +64739,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-02",
     "locale": "es",
-    "heroSrc": "/media/campana-dgt-distracciones-octubre-2026.webp",
+    "heroSrc": "/media/campana-dgt-distracciones-octubre-2026-hero.jpg",
     "heroAlt": "Conductor distraído mirando el móvil al volante mientras un agente de la Guardia Civil vigila la carretera",
     "keywords": [
       "campaña DGT distracciones octubre 2026",
@@ -64757,7 +64757,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Radares y Velocidad",
     "date": "2026-10-02",
     "locale": "es",
-    "heroSrc": "/media/velocidad-variable-ap7-ap2-paneles.webp",
+    "heroSrc": "/media/velocidad-variable-ap7-ap2-limites-paneles-hero.jpg",
     "heroAlt": "Pórtico con panel luminoso de velocidad variable mostrando 100 km/h sobre la autopista al atardecer",
     "keywords": [
       "límite velocidad variable AP-7",
@@ -64775,7 +64775,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-02",
     "locale": "es",
-    "heroSrc": "/media/balance-siniestralidad-septiembre-2026-dgt.webp",
+    "heroSrc": "/media/balance-siniestralidad-septiembre-2026-dgt-hero.jpg",
     "heroAlt": "Carretera convencional española al atardecer con coches y una moto circulando",
     "keywords": [
       "balance siniestralidad septiembre 2026",
@@ -64784,7 +64784,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "DGT 87 fallecidos septiembre",
       "causas accidentes tráfico septiembre 2026"
     ],
-    "readTime": 8
+    "readTime": 9
   },
   {
     "slug": "radares-tramo-bidireccionales-dgt-2026-ubicaciones",
@@ -64793,7 +64793,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Radares y Velocidad",
     "date": "2026-10-03",
     "locale": "es",
-    "heroSrc": "/media/radares-tramo-bidireccionales-2026-hero.webp",
+    "heroSrc": "/media/radares-tramo-bidireccionales-dgt-2026-ubicaci-hero.jpg",
     "heroAlt": "Pórtico con cámaras de radar de tramo sobre una autovía española al atardecer",
     "keywords": [
       "radares de tramo bidireccionales",
@@ -64811,7 +64811,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-03",
     "locale": "es",
-    "heroSrc": "/media/multas-pernoctar-autocaravana-2026-hero.webp",
+    "heroSrc": "/media/multas-pernoctar-autocaravana-2026-como-recurr-hero.jpg",
     "heroAlt": "Autocaravana blanca aparcada junto a la costa cantábrica al atardecer",
     "keywords": [
       "multa pernoctar autocaravana",
@@ -64847,8 +64847,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-03",
     "locale": "es",
-    "heroSrc": "/media/alfa-romeo-cuorerosso-concept-paris-2026-hero.webp",
-    "heroAlt": "Recreación del concept Alfa Romeo Cuorerosso bajo una lona en el Salón de París 2026",
+    "heroSrc": "/media/alfa-romeo-33-stradale-elettrica-750-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Alfa Romeo Cuorerosso: el concept de París 2026 — fotografía del modelo",
     "keywords": [
       "alfa romeo cuorerosso",
       "alfa romeo concept parís 2026",
@@ -64865,7 +64865,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-10-04",
     "locale": "es",
-    "heroSrc": "/media/multa-no-ceder-paso-glorieta-200-euros-4-puntos-hero.webp",
+    "heroSrc": "/media/multa-no-ceder-paso-glorieta-200-euros-4-punto-hero.jpg",
     "heroAlt": "Coches circulando por una glorieta en una ciudad española vista desde arriba",
     "keywords": [
       "multa no ceder paso glorieta",
@@ -64883,7 +64883,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-10-04",
     "locale": "es",
-    "heroSrc": "/media/multa-tirar-colilla-coche-500-euros-6-puntos-hero.webp",
+    "heroSrc": "/media/multa-tirar-colilla-coche-500-euros-6-puntos-hero.jpg",
     "heroAlt": "Patrulla de Tráfico de la Guardia Civil en el arcén de una autopista española al atardecer",
     "keywords": [
       "multa tirar colilla coche",
@@ -64919,7 +64919,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-05",
     "locale": "es",
-    "heroSrc": "/media/dron-dgt-multas-hero.webp",
+    "heroSrc": "/media/multa-dron-dgt-que-infracciones-cazan-hero.jpg",
     "heroAlt": "Dron de vigilancia de la DGT sobrevolando una autovía española al atardecer",
     "keywords": [
       "multa dron dgt",
@@ -64937,7 +64937,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-10-05",
     "locale": "es",
-    "heroSrc": "/media/detector-radar-gps-coche.webp",
+    "heroSrc": "/media/detector-radar-vs-avisador-legal-multa-hero.jpg",
     "heroAlt": "GPS del coche avisando de un radar de velocidad en una autovía española",
     "keywords": [
       "detector radar legal españa",
@@ -64955,7 +64955,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-05",
     "locale": "es",
-    "heroSrc": "/media/marcas-coche-mas-garantia-2026-portada.webp",
+    "heroSrc": "/media/marcas-coche-mas-garantia-2026-hero.jpg",
     "heroAlt": "Varias marcas de coche en un concesionario con un escudo de garantía extendida",
     "keywords": [
       "marcas coche más garantía 2026",
@@ -64991,7 +64991,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-06",
     "locale": "es",
-    "heroSrc": "/media/airbag-moto-dgt-ayudas.webp",
+    "heroSrc": "/media/dgt-ayudas-airbag-moto-21-por-ciento-hero.jpg",
     "heroAlt": "Motorista con chaleco airbag de moto desplegado sobre la chaqueta en una carretera española al atardecer",
     "keywords": [
       "airbag moto dgt",
@@ -65009,7 +65009,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-10-06",
     "locale": "es",
-    "heroSrc": "/media/multa-itv-caducada-2026.webp",
+    "heroSrc": "/media/multa-itv-caducada-200-500-euros-recurrir-hero.jpg",
     "heroAlt": "Coche entrando en una estación de ITV española con un técnico en el foso de inspección",
     "keywords": [
       "multa itv caducada",
@@ -65027,7 +65027,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-07",
     "locale": "es",
-    "heroSrc": "/media/irlanda-norte-noveles-restriccion-nocturna.webp",
+    "heroSrc": "/media/irlanda-norte-noveles-restriccion-nocturna-mul-hero.jpg",
     "heroAlt": "Conductor joven de noche con tres amigos riendo en los asientos traseros del coche",
     "keywords": [
       "restricciones conductores noveles",
@@ -65045,7 +65045,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-07",
     "locale": "es",
-    "heroSrc": "/media/carnet-caducado-multa-hero.webp",
+    "heroSrc": "/media/multa-carnet-caducado-200-euros-hero.jpg",
     "heroAlt": "Mano sujetando un permiso de conducir europeo dentro de un coche",
     "keywords": [
       "multa carnet caducado",
@@ -65081,7 +65081,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Radares y Velocidad",
     "date": "2026-10-08",
     "locale": "es",
-    "heroSrc": "/media/radar-senal-falsa-hero.webp",
+    "heroSrc": "/media/radar-senal-falsa-400-multas-como-recurrir-hero.jpg",
     "heroAlt": "Radar de velocidad en una carretera española al atardecer junto a una señal de límite de velocidad",
     "keywords": [
       "recurrir multa radar señalización defectuosa",
@@ -65099,7 +65099,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Radares y Velocidad",
     "date": "2026-10-08",
     "locale": "es",
-    "heroSrc": "/media/frenazo-antes-radar-hero.webp",
+    "heroSrc": "/media/frenar-antes-radar-multa-200-euros-hero.jpg",
     "heroAlt": "Coche frenando bruscamente en una autovía española con las luces de freno encendidas ante un pórtico de radar",
     "keywords": [
       "multa frenar antes del radar",
@@ -65117,7 +65117,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-09",
     "locale": "es",
-    "heroSrc": "/media/carril-emergencia-atasco-hero.webp",
+    "heroSrc": "/media/carril-emergencia-atascos-multa-200-euros-hero.jpg",
     "heroAlt": "Vista aérea de un atasco en una autopista española con los coches apartados a los lados dejando un pasillo de emergencia central para una ambulancia",
     "keywords": [
       "carril de emergencia atasco multa",
@@ -65135,7 +65135,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-09",
     "locale": "es",
-    "heroSrc": "/media/motos-arcen-30kmh-hero.webp",
+    "heroSrc": "/media/motos-arcen-30-kmh-atascos-norma-dgt-hero.jpg",
     "heroAlt": "Motorista con casco circulando despacio por el arcén derecho de una autopista española junto a coches parados en un atasco",
     "keywords": [
       "motos arcén 30 km/h",
@@ -65797,7 +65797,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-05",
     "locale": "es",
-    "heroSrc": "/media/patinete-registro-dgt-multa-2026.webp",
+    "heroSrc": "/media/multa-patinete-sin-registro-1220-euros-hero.jpg",
     "heroAlt": "Agente de la Guardia Civil de Tráfico inspeccionando un patinete eléctrico en un control en una calle de España",
     "keywords": [
       "multa patinete sin registro",
@@ -66089,8 +66089,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/niu-kqi-300p-1.webp",
-    "heroAlt": "NIU KQi 300P negro en ciudad",
+    "heroSrc": "/media/niu-kqi-300p-hunt1.webp",
+    "heroAlt": "NIU KQi 300P: doble disco y 5 h de carga — fotografía del modelo",
     "keywords": [
       "niu kqi 300p precio",
       "niu kqi 300p ficha técnica",
@@ -66110,8 +66110,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/niu-kqi-200p-1.webp",
-    "heroAlt": "NIU KQi 200P negro en calle urbana",
+    "heroSrc": "/media/niu-kqi-200p-hunt1.webp",
+    "heroAlt": "NIU KQi 200P: autonomía urbana por menos de 500 € — fotografía del modelo",
     "keywords": [
       "niu kqi 200p precio",
       "niu kqi 200p ficha técnica",
@@ -66131,8 +66131,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/niu-kqi-200f-1.webp",
-    "heroAlt": "NIU KQi 200F negro en ciudad",
+    "heroSrc": "/media/niu-kqi-200f-hunt1.webp",
+    "heroAlt": "NIU KQi 200F: el 200P con manillar plegable — fotografía del modelo",
     "keywords": [
       "niu kqi 200f precio",
       "niu kqi 200f ficha técnica",
@@ -66152,8 +66152,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/niu-kqi-100p-1.webp",
-    "heroAlt": "NIU KQi 100P gris en ciudad",
+    "heroSrc": "/media/niu-kqi-100p-hunt1.webp",
+    "heroAlt": "NIU KQi 100P: el NIU barato que sí merece la pena — fotografía del modelo",
     "keywords": [
       "niu kqi 100p precio",
       "niu kqi 100p ficha técnica",
@@ -66173,8 +66173,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/navee-s40-1.webp",
-    "heroAlt": "Navee S40 gris en carril bici",
+    "heroSrc": "/media/navee-s40-hunt1.webp",
+    "heroAlt": "Navee S40: suspensión ShockMaster por 500 € — fotografía del modelo",
     "keywords": [
       "navee s40 precio",
       "navee s40 ficha técnica",
@@ -66194,8 +66194,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/navee-gt3-max-1.webp",
-    "heroAlt": "Navee GT3 Max gris en ruta interurbana",
+    "heroSrc": "/media/navee-gt3-max-hunt1.webp",
+    "heroAlt": "Navee GT3 Max: 75 km y certificado DGT — fotografía del modelo",
     "keywords": [
       "navee gt3 max precio",
       "navee gt3 max ficha técnica",
@@ -66215,8 +66215,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/navee-st3-pro-1.webp",
-    "heroAlt": "Navee ST3 Pro negro en ciudad",
+    "heroSrc": "/media/navee-st3-pro-hunt1.webp",
+    "heroAlt": "Navee ST3 Pro: triple freno y 1350 W — fotografía del modelo",
     "keywords": [
       "navee st3 pro precio",
       "navee st3 pro ficha técnica",
@@ -66236,8 +66236,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/pure-air-5-1.webp",
-    "heroAlt": "Pure Air 5 negro en ciudad",
+    "heroSrc": "/media/pure-air-5-hunt1.webp",
+    "heroAlt": "Pure Air 5: ligero, IP65 y 400 € — fotografía del modelo",
     "keywords": [
       "pure air 5 precio",
       "pure air 5 ficha técnica",
@@ -66299,8 +66299,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
-    "heroSrc": "/media/patinetes/cecotec-bongo-serie-a-plus-max-45-connected.webp",
-    "heroAlt": "Cecotec Bongo Serie A+ Max 45 Connected patinete eléctrico",
+    "heroSrc": "/media/cecotec-bongo-serie-a-plus-max-45-connected-hunt1.webp",
+    "heroAlt": "Cecotec Bongo Serie A+ Max 45: batería extraíble — fotografía del modelo",
     "keywords": [
       "cecotec bongo serie a+ max 45 precio",
       "bongo serie a+ max 45 ficha técnica",
@@ -66320,8 +66320,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
-    "heroSrc": "/media/patinetes/ducati-pro-3.webp",
-    "heroAlt": "Ducati Pro-III patinete eléctrico",
+    "heroSrc": "/media/ducati-pro-3-hunt1.webp",
+    "heroAlt": "Ducati Pro-III: NFC, magnesio y 50 km — fotografía del modelo",
     "keywords": [
       "ducati pro-iii precio",
       "ducati pro 3 ficha técnica",
@@ -66341,8 +66341,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
-    "heroSrc": "/media/patinetes/fiat-500-iride.webp",
-    "heroAlt": "Fiat 500 Iride patinete eléctrico",
+    "heroSrc": "/media/fiat-500-iride-hunt1.webp",
+    "heroAlt": "Fiat 500 Iride: diseño italiano sobre ruedas — fotografía del modelo",
     "keywords": [
       "fiat 500 iride precio",
       "fiat 500 iride ficha técnica",
@@ -66362,8 +66362,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/cecotec-bongo-d40-xl-connected-1.webp",
-    "heroAlt": "Cecotec Bongo D40 XL Connected negro en calle urbana",
+    "heroSrc": "/media/cecotec-bongo-d20e-connected-hunt1.webp",
+    "heroAlt": "Bongo D40 XL Connected: 40 km y app por ~458 € — fotografía del modelo",
     "keywords": [
       "cecotec bongo d40 xl connected precio",
       "bongo d40 xl connected ficha técnica",
@@ -66383,8 +66383,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/cecotec-bongo-d20-xl-connected-1.webp",
-    "heroAlt": "Cecotec Bongo D20 XL Connected en calle",
+    "heroSrc": "/media/cecotec-bongo-d20e-connected-hunt1.webp",
+    "heroAlt": "Cecotec Bongo D20 XL Connected: precio y datos — fotografía del modelo",
     "keywords": [
       "cecotec bongo d20 xl connected precio",
       "bongo d20 xl ficha",
@@ -66395,7 +66395,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "cecotec patinete barato 2025",
       "patinete con app barato"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "cecotec-bongo-d20-mobile",
@@ -66404,8 +66404,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/cecotec-bongo-d20-mobile-1.webp",
-    "heroAlt": "Cecotec Bongo D20 Mobile en ciudad",
+    "heroSrc": "/media/cecotec-bongo-d20e-connected-hunt1.webp",
+    "heroAlt": "Cecotec Bongo D20 Mobile: el acceso más simple — fotografía del modelo",
     "keywords": [
       "cecotec bongo d20 mobile",
       "bongo d20 mobile ficha técnica",
@@ -66416,7 +66416,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete último kilómetro",
       "patinete eléctrico ligero barato"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "cecotec-bongo-serie-s-infinity",
@@ -66425,8 +66425,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/cecotec-bongo-serie-s-infinity-1.webp",
-    "heroAlt": "Cecotec Bongo Serie S Infinity en calle urbana",
+    "heroSrc": "/media/cecotec-bongo-serie-a-plus-max-45-connected-hunt1.webp",
+    "heroAlt": "Cecotec Bongo Serie S Infinity: ficha y precio — fotografía del modelo",
     "keywords": [
       "cecotec bongo serie s infinity",
       "bongo s infinity ficha técnica",
@@ -66446,8 +66446,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/cecotec-bongo-gs50-xxl-connected-1.webp",
-    "heroAlt": "Cecotec Bongo GS50 XXL Connected en calle",
+    "heroSrc": "/media/cecotec-bongo-d20e-connected-hunt1.webp",
+    "heroAlt": "Cecotec Bongo GS50 XXL: 50 km por 369 € — fotografía del modelo",
     "keywords": [
       "cecotec bongo gs50 xxl precio",
       "bongo gs50 xxl ficha técnica",
@@ -66467,8 +66467,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/cecotec-bongo-serie-a-advance-connected-max-1.webp",
-    "heroAlt": "Cecotec Bongo Serie A Advance Connected Max en ciudad",
+    "heroSrc": "/media/cecotec-bongo-serie-a-plus-max-45-connected-hunt1.webp",
+    "heroAlt": "Cecotec Bongo A Advance Connected Max: 45 km — fotografía del modelo",
     "keywords": [
       "cecotec bongo advance connected max",
       "bongo serie a advance max ficha",
@@ -66488,8 +66488,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/cecotec-bongo-d40-xl-suspension-connected-1.webp",
-    "heroAlt": "Cecotec Bongo D40 XL Suspension Connected",
+    "heroSrc": "/media/cecotec-bongo-d20e-connected-hunt1.webp",
+    "heroAlt": "Cecotec Bongo D40 XL Suspension: precio — fotografía del modelo",
     "keywords": [
       "cecotec bongo d40 xl suspension",
       "bongo d40 suspension precio",
@@ -66509,8 +66509,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/cecotec-bongo-z-plus-1.webp",
-    "heroAlt": "Cecotec Bongo Z+ en calle urbana",
+    "heroSrc": "/media/cecotec-bongo-z-mountain-hunt1.webp",
+    "heroAlt": "Cecotec Bongo Z+: 500 W y 50 km, ficha técnica — fotografía del modelo",
     "keywords": [
       "cecotec bongo z+",
       "bongo z plus ficha técnica",
@@ -66530,8 +66530,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/cecotec-bongo-serie-a-advance-connected-1.webp",
-    "heroAlt": "Cecotec Bongo Serie A Advance Connected en ciudad",
+    "heroSrc": "/media/cecotec-bongo-serie-a-plus-max-45-connected-hunt1.webp",
+    "heroAlt": "Cecotec Bongo A Advance Connected: 35 km — fotografía del modelo",
     "keywords": [
       "cecotec bongo advance connected",
       "bongo serie a advance 35 km",
@@ -66551,8 +66551,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/smartgyro-rockway-evo-1.webp",
-    "heroAlt": "Smartgyro Rockway Evo en calle urbana",
+    "heroSrc": "/media/patinetes/smartgyro-rockway-gl.webp",
+    "heroAlt": "Smartgyro Rockway Evo: precio y ficha técnica — fotografía del modelo",
     "keywords": [
       "smartgyro rockway evo precio",
       "rockway evo ficha técnica",
@@ -66572,7 +66572,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/smartgyro-rockway-pro-evo-1.webp",
+    "heroSrc": "/media/smartgyro-rockway-pro-evo-3.jpg",
     "heroAlt": "Smartgyro Rockway Pro Evo en calle",
     "keywords": [
       "smartgyro rockway pro evo precio",
@@ -66593,8 +66593,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/patinetes/smartgyro-rockway-gl.webp",
+    "heroAlt": "Smartgyro Rockway GT: precio y autonomía — fotografía del modelo",
     "keywords": [
       "smartgyro rockway gt precio",
       "rockway gt ficha técnica",
@@ -66614,8 +66614,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/patinetes/smartgyro-rockway-gl.webp",
+    "heroAlt": "Smartgyro Rockway GT Dual: doble motor — fotografía del modelo",
     "keywords": [
       "smartgyro rockway gt dual",
       "rockway gt dual precio",
@@ -66635,8 +66635,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/smartgyro-rockway-gts-1.webp",
-    "heroAlt": "Smartgyro Rockway GTS en ciudad",
+    "heroSrc": "/media/patinetes/smartgyro-rockway-gl.webp",
+    "heroAlt": "Smartgyro Rockway GTS: rutero español con 60 km — fotografía del modelo",
     "keywords": [
       "smartgyro rockway gts",
       "rockway gts precio",
@@ -66929,8 +66929,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/kaabo-mantis-x-pro-1.webp",
-    "heroAlt": "Kaabo Mantis X Pro, novedad 2025",
+    "heroSrc": "/media/kaabo-mantis-x-hunt1.webp",
+    "heroAlt": "Kaabo Mantis X Pro: doble motor y hasta 75 km — fotografía del modelo",
     "keywords": [
       "kaabo mantis x pro",
       "mantis x pro ficha",
@@ -66950,8 +66950,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/kaabo-mantis-10-eco-1.webp",
-    "heroAlt": "Kaabo Mantis 10 Eco en uso",
+    "heroSrc": "/media/kaabo-mantis-10-lite-hunt1.webp",
+    "heroAlt": "Kaabo Mantis 10 Eco: 624 Wh en 21,8 kg — fotografía del modelo",
     "keywords": [
       "kaabo mantis 10 eco",
       "mantis 10 eco ficha",
@@ -66962,7 +66962,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "kaabo 50 km eco",
       "patinete 10 pulgadas ligero"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "kaabo-wolf-king-gtr",
@@ -66992,8 +66992,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/kaabo-wolf-warrior-x-gt-1.webp",
-    "heroAlt": "Kaabo Wolf Warrior X GT en ruta",
+    "heroSrc": "/media/kaabo-wolf-warrior-11-max-hunt1.webp",
+    "heroAlt": "Kaabo Wolf Warrior X GT: 110 km con doble motor — fotografía del modelo",
     "keywords": [
       "kaabo wolf warrior x gt",
       "wolf warrior x gt ficha",
@@ -67004,7 +67004,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "kaabo hidráulicos 140mm",
       "patinete 38 kg"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "kaabo-skywalker-8s",
@@ -67013,8 +67013,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/kaabo-skywalker-8s-1.webp",
-    "heroAlt": "Kaabo Skywalker 8S en la ciudad",
+    "heroSrc": "/media/kaabo-skywalker-10-hunt1.webp",
+    "heroAlt": "Kaabo Skywalker 8S: 800 W en 22 kg — fotografía del modelo",
     "keywords": [
       "kaabo skywalker 8s",
       "skywalker 8s ficha",
@@ -67076,8 +67076,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/vsett-8-plus-hero.jpg",
+    "heroAlt": "Vsett 8 Plus en la ciudad",
     "keywords": [
       "vsett 8 plus",
       "vsett 8+ ficha técnica",
@@ -67097,8 +67097,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/vsett-9-hero.jpg",
+    "heroAlt": "Vsett 9 en carretera",
     "keywords": [
       "vsett 9",
       "vsett 9 ficha técnica",
@@ -67118,7 +67118,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/vsett-9-apex-1.webp",
+    "heroSrc": "/media/vsett-9-apex-hero.jpg",
     "heroAlt": "Vsett 9 Apex en la ciudad",
     "keywords": [
       "vsett 9 apex",
@@ -67139,8 +67139,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/vsett-10-plus-apex-hero.jpg",
+    "heroAlt": "Vsett 10+ Apex, doble motor",
     "keywords": [
       "vsett 10 plus apex",
       "vsett 10+ apex ficha",
@@ -67160,8 +67160,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/vsett-10-plus-r-hero.jpg",
+    "heroAlt": "Vsett 10+ R en ruta larga",
     "keywords": [
       "vsett 10 plus r",
       "vsett 10+ r ficha",
@@ -67202,8 +67202,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/vsett-11-plus-hero.jpg",
+    "heroAlt": "Vsett 11+, el buque insignia",
     "keywords": [
       "vsett 11 plus",
       "vsett 11+ ficha",
@@ -67223,8 +67223,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/vsett-11-plus-super-72-hero.jpg",
+    "heroAlt": "Vsett 11+ Super 72V, el más extremo",
     "keywords": [
       "vsett 11 super 72v",
       "vsett 11+ super 72v precio",
@@ -67244,8 +67244,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/nami-burn-e-3-max-1.webp",
-    "heroAlt": "Nami Burn-e 3 Max negro, vista lateral completa del hiperpatinete",
+    "heroSrc": "/media/fotos-reales/nami-burn-e-2-max",
+    "heroAlt": "nami burn e 3 max — fotografía del modelo",
     "keywords": [
       "nami burn-e 3 max",
       "nami burn-e 3 max precio",
@@ -67267,8 +67267,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/nami-burn-e-3-1.webp",
-    "heroAlt": "Nami Burn-e 3, vista lateral del hiperpatinete en negro",
+    "heroSrc": "/media/fotos-reales/nami-burn-e-2-max",
+    "heroAlt": "nami burn e 3 — fotografía del modelo",
     "keywords": [
       "nami burn-e 3",
       "nami burn-e 3 precio",
@@ -67281,7 +67281,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "hyper scooter 72v",
       "nami burn-e 3 españa"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "nami-klima",
@@ -67290,8 +67290,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/nami-klima-1.webp",
-    "heroAlt": "Nami Klima, vista lateral del patinete de doble motor",
+    "heroSrc": "/media/fotos-reales/nami-klima",
+    "heroAlt": "nami klima — fotografía del modelo",
     "keywords": [
       "nami klima",
       "nami klima precio",
@@ -67313,8 +67313,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/nami-klima-max-1.webp",
-    "heroAlt": "Nami Klima Max, vista lateral completa",
+    "heroSrc": "/media/fotos-reales/nami-klima-max",
+    "heroAlt": "nami klima max — fotografía del modelo",
     "keywords": [
       "nami klima max",
       "nami klima max precio",
@@ -67336,8 +67336,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/nami-blast-1.webp",
-    "heroAlt": "Nami Blast, vista lateral del patinete",
+    "heroSrc": "/media/fotos-reales/nami-blast",
+    "heroAlt": "nami blast — fotografía del modelo",
     "keywords": [
       "nami blast",
       "nami blast precio",
@@ -67359,8 +67359,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/nami-blast-max-1.webp",
-    "heroAlt": "Nami Blast Max, vista lateral del patinete",
+    "heroSrc": "/media/fotos-reales/nami-blast-max",
+    "heroAlt": "nami blast max — fotografía del modelo",
     "keywords": [
       "nami blast max",
       "nami blast max precio",
@@ -67382,8 +67382,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/teverun-fighter-11-1.webp",
-    "heroAlt": "Teverun Fighter 11, vista lateral del patinete de doble motor",
+    "heroSrc": "/media/patinetes/teverun-fighter-mini-pro.webp",
+    "heroAlt": "teverun fighter 11 — fotografía del modelo",
     "keywords": [
       "teverun fighter 11",
       "teverun fighter 11 precio",
@@ -67405,8 +67405,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/teverun-fighter-11-plus-1.webp",
-    "heroAlt": "Teverun Fighter 11+ V2026, vista lateral",
+    "heroSrc": "/media/patinetes/teverun-fighter-mini-pro.webp",
+    "heroAlt": "teverun fighter 11 plus — fotografía del modelo",
     "keywords": [
       "teverun fighter 11+",
       "teverun fighter 11 plus precio",
@@ -67428,7 +67428,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/teverun-fighter-supreme-1.webp",
+    "heroSrc": "/media/teverun-fighter-supreme-hero.jpg",
     "heroAlt": "Teverun Fighter Supreme 7260R, vista lateral del hiperpatinete",
     "keywords": [
       "teverun fighter supreme",
@@ -67474,8 +67474,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/teverun-blade-gt-plus-1.webp",
-    "heroAlt": "Teverun Blade GT+ II, vista lateral completa",
+    "heroSrc": "/media/teverun-blade-gt-hunt1.webp",
+    "heroAlt": "teverun blade gt plus — fotografía del modelo",
     "keywords": [
       "teverun blade gt+ ii",
       "teverun blade gt plus",
@@ -67543,7 +67543,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/inmotion-air-1.webp",
+    "heroSrc": "/media/inmotion-air-hero.jpg",
     "heroAlt": "InMotion Air negro, vista lateral completa",
     "keywords": [
       "inmotion air",
@@ -67566,7 +67566,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/inmotion-air-pro-1.webp",
+    "heroSrc": "/media/inmotion-air-pro-hero.jpg",
     "heroAlt": "InMotion Air Pro, vista lateral completa",
     "keywords": [
       "inmotion air pro",
@@ -67589,8 +67589,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/inmotion-rs-lite-1.webp",
-    "heroAlt": "InMotion RS Lite, vista lateral del hyper-scooter",
+    "heroSrc": "/media/inmotion-rs-hunt1.webp",
+    "heroAlt": "inmotion rs lite — fotografía del modelo",
     "keywords": [
       "inmotion rs lite",
       "inmotion rs lite precio",
@@ -67608,12 +67608,12 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "inmotion-rs-midnight",
     "title": "InMotion RS Midnight: 96 km/h",
-    "excerpt": "El InMotion RS Midnight es la bestia de la marca: doble motor de 2.000 W, 8.400 W de pico, 2.880 Wh y 96 km/h. Ficha técnica y precio.",
+    "excerpt": "96 km/h, pico de 8.400 W y batería de 2.880 Wh: el RS Midnight es un hiperpatinete de circuito, ilegal en vía pública en España. Precio y ficha.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/inmotion-rs-midnight-1.webp",
-    "heroAlt": "InMotion RS Midnight negro, vista lateral",
+    "heroSrc": "/media/inmotion-rs-hunt1.webp",
+    "heroAlt": "inmotion rs midnight — fotografía del modelo",
     "keywords": [
       "inmotion rs midnight",
       "inmotion rs midnight precio",
@@ -67635,7 +67635,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/inmotion-s1f-1.webp",
+    "heroSrc": "/media/inmotion-s1f-hero.jpg",
     "heroAlt": "InMotion S1F, vista lateral del patinete",
     "keywords": [
       "inmotion s1f",
@@ -67681,8 +67681,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/hiboy-s2-lite-1.webp",
-    "heroAlt": "Hiboy S2 Lite, vista lateral del patinete ultraligero",
+    "heroSrc": "/media/fotos-reales/hiboy-s2",
+    "heroAlt": "hiboy s2 lite — fotografía del modelo",
     "keywords": [
       "hiboy s2 lite",
       "hiboy s2 lite precio",
@@ -67819,8 +67819,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/hiboy-ks4-1.webp",
-    "heroAlt": "Hiboy KS4, vista lateral del patinete ligero",
+    "heroSrc": "/media/fotos-reales/hiboy-ks4-pro",
+    "heroAlt": "hiboy ks4 — fotografía del modelo",
     "keywords": [
       "hiboy ks4",
       "hiboy ks4 precio",
@@ -67833,7 +67833,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete sin pinchazos",
       "hiboy ks4 14 kg"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "iscooter-i8",
@@ -67842,8 +67842,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/iscooter-i8-hero.jpg",
+    "heroAlt": "iScooter i8, vista lateral del patinete ultraligero",
     "keywords": [
       "iscooter i8",
       "iscooter i8 precio",
@@ -67911,7 +67911,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/iscooter-ix5s-1.webp",
+    "heroSrc": "/media/iscooter-ix5s-hero.jpg",
     "heroAlt": "iScooter iX5S, vista lateral del patinete robusto",
     "keywords": [
       "iscooter ix5s",
@@ -68003,8 +68003,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/kukirin-g4-1.webp",
-    "heroAlt": "KuKirin G4, vista lateral del patinete de 2000 W",
+    "heroSrc": "/media/kukirin-g4-max-hunt1.webp",
+    "heroAlt": "kukirin g4 — fotografía del modelo",
     "keywords": [
       "kukirin g4",
       "kukirin g4 precio",
@@ -68095,8 +68095,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/kukirin-g2-ultra-1.webp",
-    "heroAlt": "KuKirin G2 Ultra, vista lateral del doble motor",
+    "heroSrc": "/media/kukirin-g2-hunt1.webp",
+    "heroAlt": "kukirin g2 ultra — fotografía del modelo",
     "keywords": [
       "kukirin g2 ultra",
       "kukirin g2 ultra precio",
@@ -68508,7 +68508,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/evercross-ev10k-pro-1.webp",
+    "heroSrc": "/media/evercross-ev10k-pro-hero.jpg",
     "heroAlt": "Evercross EV10K Pro negro, vista lateral completa del patinete",
     "keywords": [
       "evercross ev10k pro",
@@ -68529,7 +68529,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/evercross-ev85f-1.webp",
+    "heroSrc": "/media/evercross-ev85f-hero.jpg",
     "heroAlt": "Evercross EV85F negro, vista lateral completa del patinete",
     "keywords": [
       "evercross ev85f",
@@ -68592,7 +68592,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/minimotors-dualtron-city-2024-1.webp",
+    "heroSrc": "/media/minimotors-dualtron-city-2024-hero.jpg",
     "heroAlt": "Dualtron City 2024 negro, vista lateral completa con ruedas de 15 pulgadas",
     "keywords": [
       "dualtron city 2024",
@@ -68613,7 +68613,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/minimotors-dualtron-victor-luxury-plus-1.webp",
+    "heroSrc": "/media/minimotors-dualtron-victor-luxury-plus-hero.jpg",
     "heroAlt": "Dualtron Victor Luxury Plus negro, vista lateral completa",
     "keywords": [
       "dualtron victor luxury plus",
@@ -69054,8 +69054,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/walberg-egret-pro-1.webp",
-    "heroAlt": "Egret Pro negro de Walberg Urban Electrics en ciudad",
+    "heroSrc": "/media/patinetes/walberg-egret-ey-1-1.webp",
+    "heroAlt": "Egret Pro: 80 km y frenos hidráulicos alemanes — fotografía del modelo",
     "keywords": [
       "egret pro",
       "egret pro precio",
@@ -69159,7 +69159,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/isinwheel-s10pro-1.webp",
+    "heroSrc": "/media/isinwheel-s10pro-hero.jpg",
     "heroAlt": "iSinwheel S10Pro en carril bici",
     "keywords": [
       "isinwheel s10pro",
@@ -69705,8 +69705,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/urban-glide-e-cross-one-1.webp",
-    "heroAlt": "Urban Glide E-Cross One en estudio",
+    "heroSrc": "/media/urban-glide-e-cross-pro-2-hunt1.webp",
+    "heroAlt": "Urban Glide E-Cross One: 22 kg y doble disco — fotografía del modelo",
     "keywords": [
       "urban glide e-cross one",
       "e-cross one ficha técnica",
@@ -69852,8 +69852,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/urban-glide-100-shark-1.webp",
-    "heroAlt": "Urban Glide 100 Shark en estudio",
+    "heroSrc": "/media/patinetes/urban-glide-1000gt-2x2-1.webp",
+    "heroAlt": "Urban Glide 100 Shark: 700 W y 10 Ah por unos 300 € — fotografía del modelo",
     "keywords": [
       "urban glide 100 shark",
       "100 shark precio",
@@ -70041,8 +70041,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/hiley-tiger-10-gtr-hunt1.webp",
+    "heroAlt": "Hiley Tiger 10 Pro: doble motor a 25 km/h — fotografía del modelo",
     "keywords": [
       "hiley tiger 10 pro",
       "tiger 10 pro ficha",
@@ -70062,8 +70062,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/hiley-tiger-10-lite-1.webp",
-    "heroAlt": "Hiley Tiger 10 Lite en estudio",
+    "heroSrc": "/media/hiley-tiger-10-gtr-hunt1.webp",
+    "heroAlt": "Hiley Tiger 10 Lite: 3.600 W de pico y 100 km — fotografía del modelo",
     "keywords": [
       "hiley tiger 10 lite",
       "tiger 10 lite ficha",
@@ -70188,8 +70188,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/cecotec-bongo-serie-z-off-road-1.webp",
-    "heroAlt": "Cecotec Bongo Serie Z Off Road con plataforma de bambú",
+    "heroSrc": "/media/cecotec-bongo-serie-a-plus-max-45-connected-hunt1.webp",
+    "heroAlt": "Cecotec Bongo Z Off Road: bambú y ruedas de 12 pulgadas — fotografía del modelo",
     "keywords": [
       "cecotec bongo z off road",
       "bongo z off road precio",
@@ -70293,8 +70293,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/speedway-leger-1.webp",
-    "heroAlt": "Speedway Leger en estudio",
+    "heroSrc": "/media/speedway-leger-pro-hunt1.webp",
+    "heroAlt": "Speedway Leger: 748 Wh en 20,5 kg, ficha 2026 — fotografía del modelo",
     "keywords": [
       "speedway leger",
       "leger ficha técnica",
@@ -70524,7 +70524,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/niu-kqi1-pro-1.webp",
+    "heroSrc": "/media/niu-kqi1-pro-hero.jpg",
     "heroAlt": "NIU KQi1 Pro en estudio",
     "keywords": [
       "niu kqi1 pro",
@@ -70827,8 +70827,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/niu-kqi3-sport-1.webp",
-    "heroAlt": "NIU KQi3 Sport negro en la ciudad",
+    "heroSrc": "/media/patinetes/niu-kqi3-max.webp",
+    "heroAlt": "NIU KQi3 Sport: el más cómodo por 600 € — fotografía del modelo",
     "keywords": [
       "niu kqi3 sport precio",
       "niu kqi3 sport ficha técnica",
@@ -70847,8 +70847,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/niu-kqi1-sport-1.webp",
-    "heroAlt": "NIU KQi1 Sport gris en la ciudad",
+    "heroSrc": "/media/fotos-reales/niu-kqi1-pro",
+    "heroAlt": "NIU KQi1 Sport: 14,6 kg con calidad NIU — fotografía del modelo",
     "keywords": [
       "niu kqi1 sport precio",
       "niu kqi1 sport ficha técnica",
@@ -70888,8 +70888,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/pure-advance-flex-1.webp",
-    "heroAlt": "Pure Advance Flex gris plegado y desplegado",
+    "heroSrc": "/media/patinetes/pure-advance-1.webp",
+    "heroAlt": "Pure Advance Flex: el plegable más compacto — fotografía del modelo",
     "keywords": [
       "pure advance flex precio",
       "pure advance flex ficha técnica",
@@ -71035,8 +71035,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/pure-air-6-ultra-max-hunt1.webp",
+    "heroAlt": "Pure Air 6 Ultra: 90 km de autonomía, ficha técnica — fotografía del modelo",
     "keywords": [
       "pure air 6 ultra precio",
       "pure air 6 ultra ficha técnica",
@@ -71299,7 +71299,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "dualtron 2025",
       "dualtron eagle ficha"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "dualtron-victory",
@@ -71488,7 +71488,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "kaabo españa",
       "wolf warrior ficha técnica"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "kaabo-wolf-warrior-gt-pro",
@@ -71551,7 +71551,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "kaabo españa tienda",
       "kaabo mantis 8 ficha"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "kaabo-skywalker-10s",
@@ -71623,8 +71623,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/kaabo-wolf-warrior-x-1.webp",
-    "heroAlt": "Kaabo Wolf Warrior X",
+    "heroSrc": "/media/kaabo-wolf-warrior-x-max-hunt1.webp",
+    "heroAlt": "kaabo wolf warrior x — fotografía del modelo",
     "keywords": [
       "kaabo wolf warrior x",
       "kaabo warrior x precio",
@@ -71934,8 +71934,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/inokim-light-3-1.webp",
-    "heroAlt": "Inokim Light 3 2026 con pantalla inteligente",
+    "heroSrc": "/media/inokim-light-2-max-hunt1.webp",
+    "heroAlt": "Inokim Light 3: pantalla inteligente y GPS en 2026 — fotografía del modelo",
     "keywords": [
       "Inokim Light 3",
       "patinete pantalla inteligente",
@@ -72029,7 +72029,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/gotrax-g5-1.webp",
+    "heroSrc": "/media/gotrax-g5-hero.jpg",
     "heroAlt": "Gotrax G5 en ciudad",
     "keywords": [
       "Gotrax G5",
@@ -72195,7 +72195,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "kugoo-kirin-s4",
-    "title": "Kugoo Kirin S4: 360 Wh y ruedas de 10\\\\\"",
+    "title": "Kugoo Kirin S4: 360 Wh y ruedas de 10\"",
     "excerpt": "El Kugoo Kirin S4 monta 350 W, 360 Wh, 40 km declarados y neumáticos de aire de 10\\\\\" con recuperación de energía. El urbano equilibrado: lo analizamos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
@@ -72495,7 +72495,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete 65 km",
       "Ninebot Max killer"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "inokim-quick-4-super",
@@ -73909,13 +73909,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "honda-forza-350-2024-ficha-tecnica-precio",
-    "title": "Honda Forza 350 2024: el scooter premium por 6.380 €",
-    "excerpt": "Precio y ficha del Honda Forza 350 2024: 29 CV, parabrisas eléctrico, cofre para 2 cascos, control de tracción y 3,4 l/100 km por 6.380 €.",
+    "title": "Honda Forza 350 2024: ficha técnica, A2 y precio orientativo",
+    "excerpt": "Honda Forza 350 2024: 29 CV (21,5 kW), 31,5 Nm, 186 kg, 3,4 l/100 km y carnet A2. Ficha de prensa de Honda Europe, novedades de color y precio orientativo.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
     "heroSrc": "/media/honda-forza-350-2024-ficha-tecnica-precio-hero.webp",
-    "heroAlt": "Honda Forza 350 2024, scooter GT de rueda alta",
+    "heroAlt": "Honda Forza 350 2024, gama de colores del scooter GT de Honda",
     "keywords": [
       "Honda Forza 350 2024",
       "Forza 350 precio",
@@ -73923,7 +73923,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "scooter 350 Honda",
       "Forza 350 vs XMAX 300"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "yamaha-yzf-r1-2024-ficha-tecnica-precio",
@@ -74400,8 +74400,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "piaggio-beverly-400-2024-ficha-tecnica-precio",
-    "title": "Piaggio Beverly 400: el GT de rueda alta",
-    "excerpt": "Precio y ficha técnica del Piaggio Beverly 400 2024: scooter GT de 35,4 CV, rueda alta y keyless. El maxiscooter rutero desde 6.799 €.",
+    "title": "Piaggio Beverly 400: ficha técnica y precio de lista",
+    "excerpt": "Piaggio Beverly 400: 35 CV, 37,7 Nm y ruedas de 16 y 14 pulgadas. Precio de lista de Piaggio España (6.350 y 6.850 €), qué es oficial y qué no.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -74415,7 +74415,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Beverly 400 vs XMAX 300",
       "maxiscooter A2"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "byd-seal-u-dm-i-precio-ficha-tecnica",
@@ -76112,7 +76112,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "CFMoto 650NK opiniones",
       "motos CFMoto 2025"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "cfmoto-675sr-r-2026-precio-ficha-tecnica",
@@ -76628,7 +76628,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Hiboy MAX V2 velocidad máxima",
       "Hiboy MAX V2 peso"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "inmotion-rs-precio-ficha-tecnica",
@@ -77273,7 +77273,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Tesla Roadster Waco presentación",
       "Tesla Roadster reserva 50.000"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "bmw-ix4-2027-presentacion-oficial",
@@ -78006,6 +78006,139 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 12
   },
   {
+    "slug": "royal-enfield-himalayan-750-2027-ficha-tecnica-precio",
+    "title": "Royal Enfield Himalayan 750: 55 CV desde 7.390 € en Europa",
+    "excerpt": "La Himalayan 750 debuta en EICMA con un bicilíndrico de 743 cc y 55 CV: reservas abiertas en Europa desde 7.390 € en Italia, sin precio aún en España.",
+    "category": "Novedades Motor",
+    "date": "2026-11-03",
+    "locale": "es",
+    "heroSrc": "/media/motos/royal-enfield-himalayan-750-2027-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Royal Enfield Himalayan 750 2027, trail bicilíndrica en estudio",
+    "keywords": [
+      "royal enfield himalayan 750 precio",
+      "himalayan 750 ficha tecnica",
+      "royal enfield himalayan 750 2027",
+      "himalayan 750 vs himalayan 450",
+      "himalayan 750 reservas europa",
+      "royal enfield himalayan 750 españa"
+    ],
+    "readTime": 10
+  },
+  {
+    "slug": "zero-ls3-2027-ficha-tecnica-precio",
+    "title": "Zero LS3 2027: 150 km de autonomía y 120 km/h por 6.925 €",
+    "excerpt": "La Zero LS3 debuta en Europa en EICMA 2026: scooter eléctrico con 150 km de autonomía, 120 km/h de punta y tres baterías de 5,6 kWh, por 6.925 €.",
+    "category": "Novedades Motor",
+    "date": "2026-11-03",
+    "locale": "es",
+    "heroSrc": "/media/motos/zero-ls3-2027-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Zero LS3 2027, scooter eléctrico en color Midnight Blue con baúl trasero",
+    "keywords": [
+      "zero ls3 2027 precio",
+      "zero ls3 ficha tecnica",
+      "zero ls3 autonomia",
+      "scooter electrico zero ls3",
+      "zero ls3 vs ls1",
+      "zero ls3 españa"
+    ],
+    "readTime": 11
+  },
+  {
+    "slug": "renault-captur-austral-75-aniversario-ediciones-limitadas",
+    "title": "Renault Captur y Austral 75 Aniversario: desde 19.900 €",
+    "excerpt": "Captur ECO-G 120 desde 19.900 € y Austral E-Tech 200 desde 29.460 €: las ediciones 75 Aniversario, limitadas, numeradas y hechas en España.",
+    "category": "Novedades Motor",
+    "date": "2026-11-03",
+    "locale": "es",
+    "heroSrc": "/media/renault-austral-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Renault Austral, SUV híbrido familiar, vista tres cuartos delantera",
+    "keywords": [
+      "renault captur 75 aniversario precio",
+      "renault austral 75 aniversario precio",
+      "captur eco-g 120 edicion limitada",
+      "austral e-tech 200 75 aniversario",
+      "renault 75 años españa",
+      "ediciones limitadas renault españa"
+    ],
+    "readTime": 9
+  },
+  {
+    "slug": "bmw-m-1000-rs-2027-ficha-tecnica-precio",
+    "title": "BMW M 1000 RS 2027: 218 CV y 1.000 unidades por 40.000 €",
+    "excerpt": "La BMW M 1000 RS 2027 llega en marzo con 218 CV de la M 1000 RR, 196 kg y solo 1.000 unidades: precio alemán de 40.000 €, España pendiente.",
+    "category": "Novedades Motor",
+    "date": "2026-11-04",
+    "locale": "es",
+    "heroSrc": "/media/motos/bmw-m-1000-rs-2027-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "BMW M 1000 RS 2027, hyper naked negra con depósito de aluminio cepillado y escape de titanio",
+    "keywords": [
+      "bmw m 1000 rs 2027 precio",
+      "bmw m 1000 rs ficha tecnica",
+      "bmw m 1000 rs 218 cv",
+      "bmw m 1000 rs 1000 unidades",
+      "bmw m 1000 rs españa",
+      "bmw m 1000 rs vs m 1000 r"
+    ],
+    "readTime": 12
+  },
+  {
+    "slug": "ducati-streetfighter-v4-sp-2027-ficha-tecnica-precio",
+    "title": "Ducati Streetfighter V4 SP 2027: 214 CV por 41.990 €",
+    "excerpt": "La Ducati Streetfighter V4 SP 2027 llega en marzo con 214 CV, embrague en seco y llantas de carbono: solo 500 unidades numeradas por 41.990 €.",
+    "category": "Novedades Motor",
+    "date": "2026-11-04",
+    "locale": "es",
+    "heroSrc": "/media/motos/ducati-streetfighter-v4-sp-2027-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Ducati Streetfighter V4 SP 2027 Winter Test de perfil, con depósito de aluminio cepillado y llantas de carbono",
+    "keywords": [
+      "ducati streetfighter v4 sp 2027 precio",
+      "ducati streetfighter v4 sp ficha tecnica",
+      "ducati streetfighter v4 sp 214 cv",
+      "ducati streetfighter v4 sp 500 unidades",
+      "ducati streetfighter v4 sp embrague en seco",
+      "ducati streetfighter v4 sp llantas carbono"
+    ],
+    "readTime": 16
+  },
+  {
+    "slug": "ducati-panigale-v4-sp-2027-ficha-tecnica-precio",
+    "title": "Ducati Panigale V4 SP 2027: 218 CV por 47.890 € en marzo",
+    "excerpt": "La Ducati Panigale V4 SP 2027 llega en marzo con 218 CV, cambio de carreras, embrague en seco y llantas de carbono: serie numerada por 47.890 €.",
+    "category": "Novedades Motor",
+    "date": "2026-11-04",
+    "locale": "es",
+    "heroSrc": "/media/motos/ducati-panigale-v4-sp-2027-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Ducati Panigale V4 SP 2027 Winter Test de perfil, con depósito de aluminio cepillado, asiento rojo y llantas de carbono",
+    "keywords": [
+      "ducati panigale v4 sp 2027 precio",
+      "ducati panigale v4 sp ficha tecnica",
+      "ducati panigale v4 sp 218 cv",
+      "ducati panigale v4 sp cambio carreras",
+      "ducati panigale v4 sp llantas carbono",
+      "ducati panigale v4 sp marzo 2027"
+    ],
+    "readTime": 18
+  },
+  {
+    "slug": "ducati-panigale-v2-sp-2027-ficha-tecnica-precio",
+    "title": "Ducati Panigale V2 SP 2027: 120 CV, 176 kg, 22.190 €",
+    "excerpt": "La Ducati Panigale V2 SP 2027 es la base de homologación para WorldSSP: 120 CV, 176 kg, embrague en seco y 22.190 € recomendados en España.",
+    "category": "Novedades Motor",
+    "date": "2026-11-05",
+    "locale": "es",
+    "heroSrc": "/media/motos/ducati-panigale-v2-sp-2027-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Ducati Panigale V2 SP 2027 Winter Test de tres cuartos delantera, con carenado negro mate, llantas blancas y horquilla Öhlins dorada",
+    "keywords": [
+      "ducati panigale v2 sp 2027 precio",
+      "ducati panigale v2 sp ficha tecnica",
+      "ducati panigale v2 sp 120 cv",
+      "ducati panigale v2 sp worldssp",
+      "ducati panigale v2 sp embrague en seco",
+      "ducati panigale v2 sp winter test"
+    ],
+    "readTime": 15
+  },
+  {
     "slug": "byd-seagull-2026-segunda-generacion-precio",
     "title": "BYD Seagull 2026: precios oficiales y carga en 5 minutos",
     "excerpt": "Así es el BYD Seagull de segunda generación: tarifas oficiales desde 65.900 yuanes, 420 km en ciclo CLTC y carga flash del 10 al 70 % en solo 5 minutos. Todas las versiones.",
@@ -78022,7 +78155,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "eléctrico barato China 2026",
       "BYD Dolphin Surf 2027"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "lexus-tz-electrico-2026-precio-6-plazas",
@@ -78043,7 +78176,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Lexus TZ autonomía",
       "Lexus TZ ficha técnica"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "radical-sr1-xxr-2025-precio-ficha-tecnica",
@@ -79286,7 +79419,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-09",
     "locale": "all",
-    "heroSrc": "/media/salon-paris-2026-20-marcas-chinas-aranceles-hero.webp",
+    "heroSrc": "/media/ofensiva-china-salon-paris-2026-20-marcas-hero.jpg",
     "heroAlt": "Salón del Automóvil de París 2026: la ofensiva de las marcas chinas",
     "keywords": [
       "salon paris 2026",
@@ -79392,7 +79525,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "leon etsi vs tsi",
       "compacto etiqueta eco barato"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "seat-leon-20-tdi-2026-precio-ficha-tecnica",
@@ -79411,7 +79544,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "leon tdi consumo",
       "seat leon dsg diesel"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "seat-leon-15-ehybrid-2026-precio-ficha-tecnica",
@@ -80461,7 +80594,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "smart #5 off-road",
       "smart #5 edición limitada"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "smart-5-brabus-2025-precio-ficha-tecnica",
@@ -80564,8 +80697,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-04",
     "locale": "es",
-    "heroSrc": "/media/luxeed-r7-huawei-suv-coupe.webp",
-    "heroAlt": "SUV coupé eléctrico Luxeed R7 de Huawei y Chery en azul metalizado en una carretera de montaña al atardecer",
+    "heroSrc": "/media/luxeed-r7-huawei-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Luxeed R7: el SUV coupé de Huawei con 802 km — fotografía del modelo",
     "keywords": [
       "Luxeed R7 precio",
       "Luxeed R7 ficha técnica",
@@ -81962,7 +82095,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-11",
     "locale": "all",
-    "heroSrc": "/media/ue-china-hibridos-acuerdo-hero.webp",
+    "heroSrc": "/media/ue-china-freno-hibridos-enchufables-hero.jpg",
     "heroAlt": "Barco carguero descargando cientos de coches híbridos nuevos en un puerto europeo al amanecer",
     "keywords": [
       "acuerdo UE China híbridos enchufables",
@@ -84031,8 +84164,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-04",
     "locale": "all",
-    "heroSrc": "/media/yangwang-hu-berlina-lujo-camouflaje.webp",
-    "heroAlt": "Prototipo camuflado de la berlina ultra lujo Yangwang HU de BYD con puertas suicidas",
+    "heroSrc": "/media/yangwang-byd-berlina-260000-euros-rolls-royce-hero.webp",
+    "heroAlt": "Yangwang HU de BYD: berlina de 260.000 € — fotografía del modelo",
     "keywords": [
       "yangwang hu",
       "yangwang berlina 260000 euros",

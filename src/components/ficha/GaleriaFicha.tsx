@@ -36,7 +36,14 @@ export default function GaleriaFicha({
   // 31/10/2026 (orden de Daniel): este componente NUNCA oculta una foto que existe. Solo se descartan items sin src.
   // Antes, un fallo de carga puntual (p. ej. una variante -480w/-828w ausente) marcaba la foto como «rota», la quitaba y
   // pintaba «Foto pendiente» + noindex. Ahora, si falla una variante se carga el original y la foto se queda siempre.
-  const lista = fotos.filter((f) => f.src);
+  // 04/11/2026 (revisión en vivo): las entradas de galería de los datos a veces
+  // traen alt vacío y la ficha quedaba con <img> sin texto alternativo. El
+  // fallback usa el nombre del modelo + posición: describe la foto sin inventar
+  // qué muestra (la vista exacta no siempre consta en los datos). Las
+  // miniaturas mantienen alt="" a propósito: su botón ya lleva aria-label.
+  const lista = fotos
+    .filter((f) => f.src)
+    .map((f, i) => ({ ...f, alt: f.alt || `Foto ${i + 1} del ${nombre}` }));
   const n = lista.length;
   const trackRef = useRef<HTMLDivElement>(null);
   const [idx, setIdx] = useState(0);
