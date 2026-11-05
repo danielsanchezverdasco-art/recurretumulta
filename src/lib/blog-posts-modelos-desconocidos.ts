@@ -1,3 +1,6 @@
+// Fotos 5/11/2026 (2ª oleada, icaur-chery-marca-aventura): foto iCaur ya presente en el pool del sitio.
+// Fotos 5/11/2026 (2ª oleada, fangchengbao-byd-marca-des): foto del Bao 5 (Fangchengbao/Denza Bao 5) ya presente en el pool del sitio (ficha del modelo).
+// Fotos 5/11/2026 (2ª oleada, rox-01-erev-pininfarina-au): foto del mismo modelo ya presente en el pool del sitio (ficha u otro post del modelo).
 // Fotos 5/11/2026 (2ª oleada, evoke-nrgy-moto-electrica-): Evoke Motorcycles, galería oficial del modelo (evokemotorcycles.com).
 // Sección "Modelos desconocidos" (03/10/2026) — marcas chinas poco conocidas en Europa.
 // El coche chino es el futuro: Fangchengbao, Yangwang, Avatr, Rox Motor, IM Motors.
@@ -21,7 +24,7 @@ export const MODELOS_DESCONOCIDOS_POSTS: BlogPost[] = [
       "marcas chinas desconocidas",
       "BYD marcas"
     ],
-    "content": `<img src=/media/fangchengbao-desconocidos-hero.webp alt=Todoterreno híbrido enchufable chino de estilo robusto circulando por una pista de montaña al atardecer>
+    "content": `<img src=/media/fangchengbao-desconocidos-hero.webp alt=Todoterreno híbrido enchufable chino de estilo robusto circulando por una pista de montaña al atardecer><img src="/media/denza-bao-5-2026-precio-ficha-tecnica-oficial.webp" alt="fangchengbao-byd-marca-desconocida-formula-s-bao-5 — fotografía del modelo">
 
 Probablemente nunca has oído hablar de **Fang Cheng Bao**. Y sin embargo es la marca de coches que más rápido ha crecido en la historia reciente de China: **casi 500.000 coches fabricados en apenas tres años de vida**. Es la benjamina del imperio **BYD**, nació para fabricar todoterrenos híbridos enchufables con estética aventurera, y su desembarco en Europa ya ha empezado, aunque con otro nombre en el portón.
 
@@ -33,7 +36,7 @@ Fang Cheng Bao (FCB) es una de las submarcas de BYD, lanzada para cubrir el huec
 
 El dato que resume su trayectoria: según la prensa especializada, la marca ha fabricado **cerca de 500.000 coches en sus casi tres años de existencia**. Para ponerlo en contexto, muchas marcas europeas centenarias no llegan a esas cifras anuales en todo el continente.
 
-<img src=/media/fangchengbao-bao-5-cuerpo.webp alt=Fang Cheng Bao Bao 5, el todoterreno híbrido enchufable de BYD>
+<img src=/media/denza-bao-5-2026-precio-ficha-tecnica-hero.webp alt=Fang Cheng Bao Bao 5, el todoterreno híbrido enchufable de BYD>
 
 ## El Bao 5: el primer Fang Cheng Bao que pisará Europa
 
@@ -300,7 +303,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "EREV autonomía",
       "marcas chinas desconocidas"
     ],
-    "content": `<img src=/media/rox-01-desconocidos-hero.webp alt=SUV premium chino de color blanco con techo panorámico aparcado en un mirador de montaña al amanecer>
+    "content": `<img src=/media/rox-01-desconocidos-hero.webp alt=SUV premium chino de color blanco con techo panorámico aparcado en un mirador de montaña al amanecer><img src="/media/rox-01-2024-precio-ficha-tecnica-oficial.webp" alt="rox-01-erev-pininfarina-autonomia-1115-km — fotografía del modelo">
 
 Hay una marca china que ha contratado a **Pininfarina** —el estudio italiano que dibujó los Ferrari más bellos de la historia— para diseñar su coche, y que propone una categoría nueva: **"Global Luxury Outdoor"**. Se llama **Rox Motor**, su modelo es el **Rox 01**, y su argumento es demoledor: **1.115 km de autonomía combinada** sin renunciar al lujo ni a las capacidades todoterreno.
 
@@ -310,7 +313,7 @@ El Rox 01 no es un híbrido convencional. Usa una arquitectura de **rango extend
 
 El diseño exterior e interior se desarrolló **junto a Pininfarina**, y se nota: líneas limpias, proporciones de SUV premium americano y un interior de tres filas con aspiraciones de salón rodante.
 
-<img src=/media/rox-01-suv-pininfarina-cuerpo.webp alt=Rox 01, el SUV de autonomía extendida diseñado por Pininfarina>
+<img src=/media/rox-01-2024-precio-ficha-tecnica-hero.webp alt=Rox 01, el SUV de autonomía extendida diseñado por Pininfarina>
 
 ## Cifras del Rox 01
 
@@ -486,7 +489,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "iCaur España",
       "marcas chinas desconocidas"
     ],
-    "content": `<img src=/media/icaur-v23-chery-hero.webp alt=SUV eléctrico chino de estilo retro y robusto con faros redondos circulando por una pista de montaña>
+    "content": `<img src=/media/icaur-v23-chery-hero.webp alt=SUV eléctrico chino de estilo retro y robusto con faros redondos circulando por una pista de montaña><img src="/media/icaur-03t-2026-hero.webp" alt="icaur-chery-marca-aventura-europa-espana-2027 — fotografía del modelo">
 
 Probablemente no has oído hablar de **iCaur**. Es la marca más aventurera del gigante **Chery** (el dueño de Omoda y Jaecoo), y tiene un plan que te afecta directamente: **desembarcar en Europa en 2027, con España en la hoja de ruta**. La noticia saltó esta misma semana: Austria será el banco de pruebas este otoño y el anuncio oficial llegará antes de que termine 2026.
 
@@ -525,7 +528,7 @@ El **V25** combina un motor de gasolina 1.5 con un motor eléctrico y una bater�
 
 El **V27** es el buque insignia: un SUV de cinco metros con estética de Land Rover Defender, unos **450 CV** en su versión 4x4 y hasta **1.000 km de autonomía combinada**. Su maletero de 715 litros (1.818 con asientos abatidos) lo pone en la liga de los grandes SUV familiares.
 
-<img src=/media/icaur-v27-rex.webp alt=iCaur V27, el SUV de autonomía extendida de cinco metros y 450 CV>
+<img src=/media/chery-icaur-v27-2027-precio-ficha-tecnica-hero.webp alt=iCaur V27, el SUV de autonomía extendida de cinco metros y 450 CV>
 
 ## El V23 en detalle: el Jimny eléctrico por 13.000 €
 
