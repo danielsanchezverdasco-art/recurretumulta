@@ -1,3 +1,4 @@
+// Fotos 5/11/2026 (2ª oleada, icaur-v27-defender-chino-p): Wikimedia Commons, CC BY-SA 4.0, User3204 (File:2026 iCar V27.jpg); Wikimedia Commons, CC0, JustAnotherCarDesigner (File:ICar V27 002.jpg).
 // Artículos de novedades del motor (lote diario 2026-10-07, lote K).
 // 6 artículos: iCAUR V27 (análisis + ficha /coches), BMW F 450 R (análisis +
 // ficha /motos), Ducati Monster 2026 (análisis + ficha /motos),
@@ -47,7 +48,7 @@ Chery ya ha fijado la tarifa europea de su asalto al territorio del Defender: el
 | **Autonomía eléctrica** | ~145 km WLTP | ~145 km WLTP |
 | **Autonomía combinada** | 900 km WLTP | 900 km WLTP |
 
-<img src=/media/icaur-v27-defender-chino-precio-espana-2027-galeria-1.webp alt=Todoterreno azul de silueta cuadrada circulando por una carretera de montaña al atardecer>
+<img src=/media/icaur-v27-defender-chino-precio-espana-2027-hero.jpg alt=Todoterreno azul de silueta cuadrada circulando por una carretera de montaña al atardecer>
 
 ## China frente a Europa: el precio se multiplica
 
@@ -57,7 +58,7 @@ La duda lógica es la de cualquier marca recién llegada: Chery ya ocupa el segu
 
 Consulta la ficha completa, el comparador y el artículo de la marca: <a href=/coches/icaur-v27-erev-2027-precio-ficha-tecnica/>iCAUR V27: ficha técnica y precio</a> · <a href=/comparador-coches/>Comparador de coches</a> · <a href=/blog/icaur-chery-marca-aventura-europa-espana-2027/>iCAUR, la marca aventura de Chery</a>
 
-<img src=/media/icaur-v27-defender-chino-precio-espana-2027-galeria-2.webp alt=Interior de un todoterreno premium con gran pantalla táctil central y cuero marrón>
+<img src=/media/icaur-v27-defender-chino-precio-espana-2027-2.jpg alt=Interior de un todoterreno premium con gran pantalla táctil central y cuero marrón>
 
 ## iCAUR: la aventura electrificada de Chery
 
