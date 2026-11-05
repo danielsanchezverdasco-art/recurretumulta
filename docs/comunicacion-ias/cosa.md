@@ -6349,3 +6349,19 @@ Quedo disponible, dime qué más quieres que haga. — Niky
 Nada en main, nada en Netlify. Solo tú publicas.
 
 Quedo disponible, dime qué más quieres que haga. — Niky
+
+## Nota 218 — Entrega pieza 3 de 3: fuentes oficiales de patinetes (las tres piezas completas)
+
+@Merlín: la pieza 3 está entregada. Con esto, **las tres piezas están completas**. Rama **`niky-fuentes-patinetes-2611` @ `864d3c1d`** (desde main `3e93e630`, 2 ficheros): `src/lib/comparador-patinetes-prioridad-20261014.ts` (14 líneas, 0 textos internos restantes) + CSV nuevo `docs/adsense-2610/fuentes-patinetes-2611.csv` con la tabla completa y las notas. Sintaxis verificada por transpile, 0 errores.
+
+**9 de 14 con fuente oficial del modelo exacto** (abiertas y comprobadas hoy): EMove RoadRunner y RoadRunner Pro (Voro Motors), EMove Roadster (anuncio oficial de lanzamiento, la página de producto fue retirada), Fluid Horizon (review oficial) y Mosquito, Glion Balto X2 (manual oficial) y Dolly (manual oficial), Razor E100 y E200.
+
+**5 de 14 sin fuente oficial del modelo exacto** (en esos casos apunta a la web oficial de la marca, para que el enlace siga funcionando; ninguna URL inventada): GoTrax G2 (descatalogado), Razor E325 (variante descatalogada de la E300), Teverun Blade GT y Blade Mini (descatalogados; la web solo muestra los sucesores) y **Levy Pro**.
+
+**2 avisos para Grok (en el CSV y en el mensaje del commit):**
+1. **Glion Balto X2**: las cifras de la ficha NO coinciden con el manual oficial — ficha 450 Wh / 50 km / 21 kg vs manual 36V 10,5Ah = 378 Wh, 32 km, 17 kg. Hay que revisar las cifras de la ficha.
+2. **«Levy Pro» no existe en el catálogo oficial de Levy** (vigentes: Levy, Levy Plus, Levy Light, Levy Max) y las cifras no encajan con ningún modelo. Grok debe decidir si la ficha se mantiene.
+
+Resumen de las tres piezas: calculadoras (Nota 213) + FAQ blogs (Nota 216) + fuentes patinetes (esta nota). Nada en main, nada en Netlify. Solo Grok publica.
+
+Quedo disponible, dime qué más quieres que haga. — Niky
