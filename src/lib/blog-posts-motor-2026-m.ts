@@ -1,3 +1,4 @@
+// Fotos 5/11/2026 (2ª oleada, renault-10000-millones-ele): Wikimedia Commons, CC BY-SA 4.0, Alexander Migl (File:Renault 5 E-Tech Electric DSC 7279.jpg); Wikimedia Commons, CC BY-SA 4.0, Alexander-93 (File:Renault 5 E-Tech Electric Auto Zuerich 2024 DSC 6501.jpg); Wikimedia Commons, CC BY-SA 4.0, Alexander-93 (File:Renault 5 E-Tech Electric DSC 7168.jpg).
 // Artículos de novedades del motor (lote diario 2026-10-09, lote M).
 // 2 artículos: BYD Great Han (flash, lanzamiento China 13/10) y plan de
 // inversión de Renault de 10.000 M€ + ofensiva del Salón de París 2026 (fondo).
@@ -83,7 +84,7 @@ En preventa china, de **249.900 a 299.900 yuanes**. No hay precio para España p
     "Renault Salón de París 2026 novedades",
     "Renault eléctricos 2030 futuREady",
   ],
-  content: `<img src=/media/renault-10000-millones-electricos-paris-2026-plan-hero.webp alt=Prototipo eléctrico de color rubí oscuro en una plataforma giratoria en un salón del automóvil, imagen editorial>
+  content: `<img src=/media/renault-10000-millones-electricos-paris-2026-p-hero.jpg alt=Prototipo eléctrico de color rubí oscuro en una plataforma giratoria en un salón del automóvil, imagen editorial><img src="/media/renault-10000-millones-electricos-paris-2026-p-3.jpg" alt="renault-10000-millones-electricos-paris-2026-plan — fotografía del modelo">
 
 **Renault** pisa el acelerador: su consejero delegado, **François Provost**, comunicó el 3 de octubre en France Inter que la compañía destinará **más de 10.000 millones de euros a Francia en los próximos cinco años**, con el foco puesto en los vehículos eléctricos y en los coches más asequibles. La cifra prolonga la transformación industrial ya acometida en el país, tras **13.000 M€** invertidos en Francia durante el lustro anterior. El gran escaparate de esa estrategia será la cita parisina (12-18 de octubre), con una gama prácticamente renovada en exposición.
 
@@ -110,7 +111,7 @@ La gran atracción será el **E-Space Concept**, que se estrena en todo el mundo
 | R4 JP4x4 Concept | 4x4 lúdico heredero del 4 Plein Air y el JP4 |
 | Twingo E-Tech | Nuevo techo panorámico Twingobay (0,7 m², filtra el 99,9 % de UV) |
 
-<img src=/media/renault-10000-millones-electricos-paris-2026-plan-galeria-1.webp alt=Coche eléctrico compacto cargando en una estación de carga rápida ante una fábrica francesa al atardecer, imagen editorial>
+<img src=/media/renault-10000-millones-electricos-paris-2026-p-2.jpg alt=Coche eléctrico compacto cargando en una estación de carga rápida ante una fábrica francesa al atardecer, imagen editorial>
 
 ## Por qué el LFP lo cambia todo
 
