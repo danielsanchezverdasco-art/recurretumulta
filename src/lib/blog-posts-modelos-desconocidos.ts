@@ -1,3 +1,4 @@
+// Fotos 5/11/2026 (2ª oleada, evoke-nrgy-moto-electrica-): Evoke Motorcycles, galería oficial del modelo (evokemotorcycles.com).
 // Sección "Modelos desconocidos" (03/10/2026) — marcas chinas poco conocidas en Europa.
 // El coche chino es el futuro: Fangchengbao, Yangwang, Avatr, Rox Motor, IM Motors.
 // Datos verificados en prensa especializada; lo no confirmado se marca como pendiente.
@@ -1044,7 +1045,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "motos eléctricas chinas",
       "marcas chinas desconocidas",
     ],
-    content: `<img src=/media/evoke-nrgy-moto-electrica-china-120-kmh-hero.webp alt=Moto eléctrica naked oscura aparcada en una calle urbana al atardecer, imagen editorial>
+    content: `<img src=/media/evoke-nrgy-moto-electrica-china-120-kmh-hero.jpg alt=Moto eléctrica naked oscura aparcada en una calle urbana al atardecer, imagen editorial><img src="/media/evoke-nrgy-moto-electrica-china-120-kmh-3.jpg" alt="evoke-nrgy-moto-electrica-china-120-kmh — fotografía del modelo">
 
 El gran problema de la moto eléctrica siempre ha sido el mismo: o pagas un pastizal por una moto de verdad, o te conformas con un ciclomotor glorificado que se rinde a 45 km/h. **Evoke Motorcycles** quiere romper ese dilema con la **Nrgy**, una naked eléctrica ligera presentada el 7 de septiembre de 2026 que promete **120 km/h de velocidad punta** desde un precio objetivo de **4.995 dólares**. Autopista de verdad, precio de utilitario.
 
@@ -1069,7 +1070,7 @@ El gran problema de la moto eléctrica siempre ha sido el mismo: o pagas un past
 
 La Nrgy 6 es la puerta de entrada: batería más pequeña, 156 kg y el precio rompedor. La Nrgy 8 añade 2 kWh más, 15 kW de pico y 182 kg para quien quiera más autonomía real. Ambas comparten chasis propio (arquitectura Twin Plate patentada por Evoke), horquilla invertida de 43 mm y doble amortiguador trasero. Nada de piezas genéricas de catálogo: es una moto diseñada como moto, no como electrodoméstico.
 
-<img src=/media/evoke-nrgy-moto-electrica-china-120-kmh-galeria-1.webp alt=Moto eléctrica oscura rodando por una carretera de costa al amanecer con piloto con casco oscuro, imagen editorial>
+<img src=/media/evoke-nrgy-moto-electrica-china-120-kmh-2.jpg alt=Moto eléctrica oscura rodando por una carretera de costa al amanecer con piloto con casco oscuro, imagen editorial>
 
 ## Quién es Evoke (y por qué no es una marca fantasma)
 
