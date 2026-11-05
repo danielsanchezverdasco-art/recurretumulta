@@ -1118,7 +1118,7 @@ Solo **limitado a 25 km/h** como VMP.
       "blade gt plus vs fighter 11",
       "teverun 2349",
     ],
-    content: `<img src=/media/patinetes/teverun-blade-gt-plus-1.webp alt=Teverun Blade GT+ II, vista lateral completa>
+    content: `<img src=/media/teverun-blade-gt-hunt1.webp alt=teverun blade gt plus — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/teverun-blade-gt-plus/>Ver ficha técnica del Teverun Blade GT+ II</a>: precio, batería y potencia. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -1168,7 +1168,7 @@ Como VMP no tiene homologación DGT: en España toca circular a 25 km/h, sin ace
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/JXUVGMbarXg title=\"Prueba del Teverun Blade GT+ II\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
-<img src=/media/patinetes/teverun-blade-gt-plus-3.webp alt=Teverun Blade GT+ II circulando>
+<img src=/media/patinetes/teverun-blade-gt-plus-3.webp alt=Teverun Blade GT+ II circulando><img src=/media/teverun-blade-gt-hunt2.webp alt=teverun blade gt plus — fotografía del modelo><img src=/media/teverun-blade-gt-hunt3.webp alt=teverun blade gt plus — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -3537,7 +3537,7 @@ El Max tiene más batería (20Ah); el Pro es más ligero. Para autonomía, Max.
       "kukirin g4 vs g2 max",
       "patinete potente barato",
     ],
-    content: `<img src=/media/patinetes/kukirin-g4-1.webp alt=KuKirin G4, vista lateral del patinete de 2000 W>
+    content: `<img src=/media/kukirin-g4-max-hunt1.webp alt=kukirin g4 — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/kukirin-g4/>Ver ficha técnica del KuKirin G4</a>: potencia, batería y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -3561,11 +3561,11 @@ El **KuKirin G4** es potencia bruta a precio de risa: **2.000 W** (2.400 W de pi
 
 **859 €** en la tienda europea. Por ese dinero no hay nada con 2.000 W y 1.200 Wh: esa es toda su filosofía.
 
-<img src=/media/patinetes/kukirin-g4-2.webp alt=Detalle de la rueda del KuKirin G4>
+<img src=/media/patinetes/kukirin-g4-2.webp alt=Detalle de la rueda del KuKirin G4><img src=/media/kukirin-g4-max-hunt2.webp alt=kukirin g4 — fotografía del modelo>
 
 ## Autonomía real vs declarada
 
-**75 km declarados**; a ritmo normal, **unos 50 km reales**. A fondo, mucho menos: 2.000 W beben de lo lindo.
+**75 km declarados**; a ritmo normal, **unos 50 km reales**. A fondo, mucho menos: 2.000 W beben de lo lindo.<img src=/media/kukirin-g4-max-hunt3.webp alt=kukirin g4 — fotografía del modelo>
 
 ## Frenos y neumáticos
 

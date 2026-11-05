@@ -2994,7 +2994,7 @@ Revisar tornillería cada 1.000 km y tensar el cable del tambor cuando la maneta
       "etwow gt se sport españa",
       "e-twow 12 kg 1000w",
     ],
-    content: `<img src=/media/patinetes/etwow-gt-se-sport-1.webp alt=E-TWOW GT SE Sport negro, vista lateral completa del patinete>
+    content: `<img src=/media/etwow-gt-se-hunt1.webp alt=etwow gt se sport — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/etwow-gt-se-sport/>Ver ficha técnica del E-TWOW GT SE Sport</a>: precio, potencia, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -3045,7 +3045,7 @@ Sin certificado DGT verificado. Se vende **limitado a 25 km/h**; deslimitado no 
 | A la venta en España | Sin carga máxima publicada |
 | Chasis de aluminio plegable | Sin tiempo de carga oficial |
 
-<img src=/media/patinetes/etwow-gt-se-sport-3.webp alt=E-TWOW GT SE Sport en una calle europea>
+<img src=/media/patinetes/etwow-gt-se-sport-3.webp alt=E-TWOW GT SE Sport en una calle europea><img src=/media/etwow-gt-se-hunt2.webp alt=etwow gt se sport — fotografía del modelo><img src=/media/etwow-gt-se-hunt3.webp alt=etwow gt se sport — fotografía del modelo>
 
 ## Preguntas frecuentes
 
