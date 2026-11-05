@@ -294,7 +294,7 @@ El **Mage** juega otra liga: 299 CV y 89 km eléctricos lo colocan frente a los 
 
 <iframe src=https://www.youtube.com/embed/dqGNyX9snSw title="Vídeo: Dongfeng MAGE: máxima potencia" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=dqGNyX9snSw>Dongfeng Motor Perú</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=dqGNyX9snSw>Dongfeng Motor Perú</a> en YouTube<img src=/media/dongfeng-vigo-electrico-precio-espana-ficha-oficial-2.webp alt=Dongfeng Vigo y Mage: eléctricos desde 26.615 € en España — fotografía del modelo><img src=/media/dongfeng-vigo-electrico-precio-espana-ficha-oficial-3.webp alt=Dongfeng Vigo y Mage: eléctricos desde 26.615 € en España — fotografía del modelo>
 
 ## Preguntas frecuentes
 

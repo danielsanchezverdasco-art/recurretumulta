@@ -718,7 +718,7 @@ Antes de soñar con un coche de 5 metros y 755 km por 26.000 €, la realidad: e
 
 ¿Y si Volkswagen cambiara de idea? Los rumores apuntan a que los alemanes estudian **traer a Europa varios de sus eléctricos chinos**, y el UNYX 09 encajaría como un hipotético **ID.9** entre el ID.7 y el segmento premium. Con un posicionamiento lógico en torno a los 60.000 €, tendría rivales como el Tesla Model 3, el BYD Seal o el Hyundai IONIQ 6 temblando. Pero hoy por hoy es solo un rumor: **no hay plan oficial**.
 
-Puedes comparar lo que sí se vende aquí en el <a href=/comparador-coches/>comparador de coches eléctricos</a>.
+Puedes comparar lo que sí se vende aquí en el <a href=/comparador-coches/>comparador de coches eléctricos</a>.<img src=/media/fotos-reales/volkswagen-id-aura-t6-xpeng-china alt=ID. UNYX 09: 755 km solo para China — fotografía del modelo><img src=/media/fotos-reales/volkswagen-id-aura-t6-xpeng-china/volkswagen-id-aura-t6-xpeng-china-1.webp alt=ID. UNYX 09: 755 km solo para China — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -813,7 +813,7 @@ Para verlo en detalle, esta prueba del creador <a href=https://www.youtube.com/w
 
 **De momento, no.** El Galaxy TT solo se vende en China y, a septiembre de 2026, Geely **no ha confirmado ningún plan de exportación** de esta generación. Es el mismo caso que el de otros eléctricos desarrollados solo para China, como el <a href=/blog/volkswagen-id-unyx-09-electrico-china-755-km/>Volkswagen ID. UNYX 09, la berlina china de 755 km que VW no trae a Europa</a>.
 
-La estrategia de Geely en Europa pasa por sus marcas occidentales —**Volvo, Polestar, Lotus, smart o Zeekr**—, así que el TT quedará, por ahora, como una de esas rarezas chinas que solo se pueden ver en vídeo. Si buscas una berlina eléctrica que sí se venda aquí, <a href=/comparador-coches/>pásate por el comparador de coches eléctricos</a>. Y si te va la tecnología china de Huawei y CATL, aquí te contamos el caso de <a href=/blog/avatr-changan-huawei-catl-06t-t09/>Avatr, el familiar chino de 955 CV con Huawei dentro</a>.
+La estrategia de Geely en Europa pasa por sus marcas occidentales —**Volvo, Polestar, Lotus, smart o Zeekr**—, así que el TT quedará, por ahora, como una de esas rarezas chinas que solo se pueden ver en vídeo. Si buscas una berlina eléctrica que sí se venda aquí, <a href=/comparador-coches/>pásate por el comparador de coches eléctricos</a>. Y si te va la tecnología china de Huawei y CATL, aquí te contamos el caso de <a href=/blog/avatr-changan-huawei-catl-06t-t09/>Avatr, el familiar chino de 955 CV con Huawei dentro</a>.<img src=/media/geely-galaxy-a7-em-i-2025-precio-ficha-tecnica-hero.webp alt=Geely Galaxy TT: berlina eléctrica china con 725 km — fotografía del modelo><img src=/media/geely-galaxy-a7-em-i-2025-precio-ficha-tecnica-interior.webp alt=Geely Galaxy TT: berlina eléctrica china con 725 km — interior>
 
 ## Preguntas frecuentes
 
@@ -906,7 +906,7 @@ Que una marca oculte las cifras técnicas en la presentación no es raro en Chin
 
 **De momento, no hay anuncio oficial.** Pero el gesto es elocuente: una marca china de cuatro meses eligiendo **París para su debut mundial** no lo hace por casualidad. Si AIVA cumple su plan de vender en mercados internacionales, Europa estará en la hoja de ruta tarde o temprano.
 
-Mientras tanto, aquí puedes <a href=/comparador-coches/>comparar los SUV eléctricos que sí se venden en España</a>, y si te va la tecnología china con Huawei y CATL dentro, echa un ojo a <a href=/blog/avatr-changan-huawei-catl-06t-t09/>Avatr, la alianza de Changan, Huawei y CATL</a>. La <a href=/coches/aiva-me7-2026-precio-ficha-tecnica/>ficha técnica del AIVA ME7</a> recoge todos los datos confirmados hasta hoy, sin relleno.
+Mientras tanto, aquí puedes <a href=/comparador-coches/>comparar los SUV eléctricos que sí se venden en España</a>, y si te va la tecnología china con Huawei y CATL dentro, echa un ojo a <a href=/blog/avatr-changan-huawei-catl-06t-t09/>Avatr, la alianza de Changan, Huawei y CATL</a>. La <a href=/coches/aiva-me7-2026-precio-ficha-tecnica/>ficha técnica del AIVA ME7</a> recoge todos los datos confirmados hasta hoy, sin relleno.<img src=/media/aiva-me7-2026-ficha-tecnica-precio.webp alt=AIVA ME7: el SUV de Seres, CATL y TikTok — fotografía del modelo><img src=/media/aiva-me7-2026-precio-ficha-tecnica-hunt1.webp alt=AIVA ME7: el SUV de Seres, CATL y TikTok — fotografía del modelo>
 
 ## Preguntas frecuentes
 

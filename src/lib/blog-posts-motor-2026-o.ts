@@ -132,7 +132,7 @@ Ojo con la letra pequeña: los **392 km están medidos en ciclo chino WLTC** y p
 
 ## Por qué importa para España
 
-Leapmotor es la prueba de que la ofensiva china ya no es futuro: es presente. Con el B03X vendiéndose, el <a href=/coches/leapmotor-b05-2026-precio-ficha-tecnica/>B05</a> y el <a href=/coches/leapmotor-c10-reev-2026-precio-ficha-tecnica/>C10 REEV</a> completando la gama, y la actividad industrial en marcha dentro del grupo Stellantis, el B03 llegaría con **etiqueta Cero de la DGT** automática y una red de distribución que ya existe. El segmento de los compactos eléctricos asequibles —R5, ID. Polo, B03— va a ser la batalla del año en España. <a href=/comparador-coches/>Compáralos en el comparador de coches</a>.
+Leapmotor es la prueba de que la ofensiva china ya no es futuro: es presente. Con el B03X vendiéndose, el <a href=/coches/leapmotor-b05-2026-precio-ficha-tecnica/>B05</a> y el <a href=/coches/leapmotor-c10-reev-2026-precio-ficha-tecnica/>C10 REEV</a> completando la gama, y la actividad industrial en marcha dentro del grupo Stellantis, el B03 llegaría con **etiqueta Cero de la DGT** automática y una red de distribución que ya existe. El segmento de los compactos eléctricos asequibles —R5, ID. Polo, B03— va a ser la batalla del año en España. <a href=/comparador-coches/>Compáralos en el comparador de coches</a>.<img src=/media/fotos-reales/leapmotor-b03-2026-precio-ficha-tecnica alt=Leapmotor B03: el compacto que reta al R5 en París — fotografía del modelo><img src=/media/fotos-reales/leapmotor-b03-2026-precio-ficha-tecnica/leapmotor-b03-2026-precio-ficha-tecnica-hero.webp alt=Leapmotor B03: el compacto que reta al R5 en París — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -357,7 +357,7 @@ Aquí la EDS se desmarca de las puras de cross: **aceite y filtro cada 2.500 km,
 
 Directa a la **KTM 450 EXC-F** y la **Honda CRF450RX**: el mismo precio (~13.000 €), el mismo concepto. La baza de Ducati es el **desmodrómico** —ninguna rival lo ofrece— y una electrónica más completa de serie. Su hándicap: una red de concesionarios mucho más pequeña en el mundo del off-road y una fiabilidad a largo plazo por demostrar en este segmento. Tienes la ficha completa en nuestra <a href=/motos/ducati-desmo450-eds-2026-precio-ficha-tecnica/>ficha de la Desmo450 EDS</a> y puedes compararla en el <a href=/comparador-motos/>comparador de motos</a>.
 
-Si buscas algo más rutero de la marca, mira la <a href=/motos/ducati-desertx-2025-ficha-tecnica-precio/>DesertX</a>; y si lo tuyo es el asfalto con una sola rueda en el aire, la <a href=/motos/ducati-hypermotard-698-mono-2024-ficha-tecnica-precio/>Hypermotard 698 Mono</a> es su prima.
+Si buscas algo más rutero de la marca, mira la <a href=/motos/ducati-desertx-2025-ficha-tecnica-precio/>DesertX</a>; y si lo tuyo es el asfalto con una sola rueda en el aire, la <a href=/motos/ducati-hypermotard-698-mono-2024-ficha-tecnica-precio/>Hypermotard 698 Mono</a> es su prima.<img src=/media/ducati-desmo450-eds-2026-1.webp alt=Desmo450 EDS: la primera enduro de Ducati por 12.990 € — fotografía del modelo><img src=/media/fotos-reales/ducati-desmo450-eds-2026 alt=Desmo450 EDS: la primera enduro de Ducati por 12.990 € — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -473,7 +473,7 @@ En normativa no hay ambigüedad. Con **63,5 CV** supera el techo del permiso A2,
 
 Su espejo natural sigue siendo la KTM 450 SMR citada al principio, referencia histórica del supermotard de competición. En clave más callejera, dos contrastes útiles tienen ficha propia: la <a href=/motos/husqvarna-701-supermoto-2024-ficha-tecnica-precio/>Husqvarna 701 Supermoto</a>, monocilíndrica grande para carretera abierta, y la <a href=/motos/ducati-hypermotard-698-mono-2024-ficha-tecnica-precio/>Ducati Hypermotard 698 Mono</a>, también de un cilindro pero con vocación cotidiana distinta. Si prefieres tierra, la hermana <a href=/motos/ducati-desmo450-eds-2026-precio-ficha-tecnica/>Desmo450 EDS</a> mantiene la base con 6 marchas para el campo.
 
-**Veredicto:** ¿merece la pena por **13.990 €**? Sí, si buscas la supermotard de serie más cercana a una moto de carreras, con desmodrómico, Stylema y electrónica que mide la derrapada de verdad, aceptando pagar su mantenimiento por horas. No, si esperas una Ducati polivalente para viajar, moverte a diario o aprender tras sacarte el carnet. Es un capricho informado, no un error si sabes dónde te metes.
+**Veredicto:** ¿merece la pena por **13.990 €**? Sí, si buscas la supermotard de serie más cercana a una moto de carreras, con desmodrómico, Stylema y electrónica que mide la derrapada de verdad, aceptando pagar su mantenimiento por horas. No, si esperas una Ducati polivalente para viajar, moverte a diario o aprender tras sacarte el carnet. Es un capricho informado, no un error si sabes dónde te metes.<img src=/media/ducati-desmo450-sm-2026-1.webp alt=Desmo450 SM: ¿la supermotard definitiva por 13.990 €? — fotografía del modelo><img src=/media/fotos-reales/ducati-desmo450-sm-2026 alt=Desmo450 SM: ¿la supermotard definitiva por 13.990 €? — fotografía del modelo>
 
 ## Preguntas frecuentes
 

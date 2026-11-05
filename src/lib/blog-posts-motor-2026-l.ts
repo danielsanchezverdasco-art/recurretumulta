@@ -430,7 +430,7 @@ Primera toma de contacto con el Dacia Striker, por <a href=https://www.youtube.c
 
 Con 4,62 m y 600 litros de maletero, el Striker juega en la liga del Skoda Octavia Combi pero a precio Dacia: por debajo de 25.000 € no hay rival familiar híbrido que se le acerque. En casa compite con su hermano mayor, el <a href=/coches/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica/>Bigster Hybrid 155</a>. <a href=/comparador-coches/>Compáralos en nuestro comparador de coches</a> cuando Dacia publique la tarifa española.
 
-<img src=/media/dacia-striker-2026-precio-ficha-galeria-2.webp alt=Maletero amplio de un crossover familiar con maletas, imagen editorial>
+<img src=/media/dacia-striker-2026-precio-ficha-galeria-2.webp alt=Maletero amplio de un crossover familiar con maletas, imagen editorial><img src=/media/dacia-striker-hybrid-155-2026-precio-ficha-tecnica-hero.webp alt=Dacia Striker 2026: familiar híbrido por menos de 25.000 € — fotografía del modelo><img src=/media/dacia-striker-hybrid-155-2026-precio-ficha-tecnica-hunt1.webp alt=Dacia Striker 2026: familiar híbrido por menos de 25.000 € — fotografía del modelo>
 
 ## Preguntas frecuentes
 

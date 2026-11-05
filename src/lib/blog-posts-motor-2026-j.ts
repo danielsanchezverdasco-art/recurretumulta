@@ -122,7 +122,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     "Velca Nude Lite precio",
     "moto eléctrica equivalente 125",
   ],
-  content: `<img src=/media/velca-nude-eon-naked-maxiscooter-electricas-hero.webp alt=Moto naked eléctrica gris oscuro aparcada en una calle de Madrid al atardecer>
+  content: `<img src=/media/motos/velca-nude-lite-2026-ficha-1.webp alt=Velca Nude y Eon: made in Spain — fotografía del modelo>
 
 La marca española **Velca** ya está entregando sus dos apuestas grandes: la naked **Nude** (desde **5.990 €** con dos baterías) y la maxiscooter **Eon** (desde **6.790 €** en promoción de lanzamiento). Entre medias, la **Nude Lite** baja la barrera de entrada a **3.990 €**. Las tres son eléctricas, las tres se venden y mantienen en España, y la Eon presume de una cifra que pocas maxiscooters tocan: **290 km de autonomía**.
 

@@ -19,7 +19,7 @@ export const MOTOR_2026_M_POSTS: BlogPost[] = [
     "berlina eléctrica china 1000 km autonomía",
     "BYD Da Han precio",
   ],
-  content: `<img src=/media/byd-great-han-1008-km-autonomia-carga-9-minutos-hero.webp alt=Gran berlina eléctrica azul oscuro en una avenida de ciudad china al atardecer, imagen editorial>
+  content: `<img src=/media/byd-great-tang-2026-precio-ficha-tecnica-hero.webp alt=BYD Great Han: 1.008 km y carga en 9 minutos — fotografía del modelo>
 
 **BYD** ha puesto fecha a su mayor golpe en el segmento premium: el **Great Han** (Da Han en China) se lanza comercialmente el **13 de octubre de 2026** en China. Es la primera berlina insignia del segmento D de la familia Dynasty: **5,26 metros** de largo, hasta **1.008 km de autonomía CLTC** y una carga ultrarrápida que recupera del **10 al 97 % en 9 minutos**. La preventa, abierta en el Salón de Chengdu en agosto, parte de **249.900 yuanes** (unos 30.000 € al cambio, no oficial como PVP europeo).
 
@@ -53,7 +53,7 @@ De serie en toda la gama: suspensión neumática de doble cámara (DiSus-A), dir
 
 ## ¿Lo veremos en Europa?
 
-**De momento no hay plan confirmado de venta en Europa.** Es un modelo pensado para el mercado chino, donde se medirá con los premium locales y europeos. Si BYD decidiera traerlo, sería el buque insignia de la marca junto al <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica/>Seal U DM-i</a> que ya se vende en España. <a href=/comparador-coches/>Compáralos en nuestro comparador</a> para ver cuánto falta para que China iguale a Europa en el segmento premium.
+**De momento no hay plan confirmado de venta en Europa.** Es un modelo pensado para el mercado chino, donde se medirá con los premium locales y europeos. Si BYD decidiera traerlo, sería el buque insignia de la marca junto al <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica/>Seal U DM-i</a> que ya se vende en España. <a href=/comparador-coches/>Compáralos en nuestro comparador</a> para ver cuánto falta para que China iguale a Europa en el segmento premium.<img src=/media/byd-great-tang-2026-precio-ficha-tecnica-hunt1.webp alt=BYD Great Han: 1.008 km y carga en 9 minutos — fotografía del modelo><img src=/media/byd-great-tang-2026-precio-ficha-tecnica-hunt2.webp alt=BYD Great Han: 1.008 km y carga en 9 minutos — fotografía del modelo>
 
 ## Preguntas frecuentes
 

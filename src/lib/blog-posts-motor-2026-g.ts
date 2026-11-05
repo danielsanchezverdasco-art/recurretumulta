@@ -179,7 +179,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "Flying Flea C6 ficha técnica",
       "moto eléctrica 6000 euros",
     ],
-    content: `<img src=/media/flying-flea-c6-moto-electrica-royal-enfield-5990-euros-hero.webp alt=Moto eléctrica Flying Flea C6 verde de estilo clásico aparcada frente a un edificio modernista de Barcelona>
+    content: `<img src=/media/fotos-reales/flying-flea-c6-moto-electrica-royal-enfield-5990-euros alt=Flying Flea C6: la eléctrica de Royal Enfield por 5.990 € — fotografía del modelo>
 
 Royal Enfield, la marca de las motos clásicas por excelencia, acaba de hacer lo impensable: lanzar su **primera moto eléctrica de producción**. La **Flying Flea C6** —bajo la nueva marca Flying Flea— cuesta **5.990 €** en Europa y las primeras entregas arrancan en **octubre de 2026** en cinco ciudades europeas, con **Barcelona** entre ellas.
 
@@ -224,7 +224,7 @@ El "pero" es la autonomía fuera de ciudad: 81 km en uso exurbano la limitan a c
 
 <iframe src=https://www.youtube.com/embed/g1961QvuLx0 title="Vídeo: Royal Enfield Electric: presentación oficial global en directo desde Milán" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=g1961QvuLx0>Royal Enfield</a> en YouTube
+Vídeo: <a href=https://www.youtube.com/watch?v=g1961QvuLx0>Royal Enfield</a> en YouTube<img src=/media/fotos-reales/flying-flea-c6-moto-electrica-royal-enfield-5990-euros/flying-flea-c6-moto-electrica-royal-enfield-5990-euros-1.webp alt=Flying Flea C6: la eléctrica de Royal Enfield por 5.990 € — fotografía del modelo><img src=/media/fotos-reales/flying-flea-c6-moto-electrica-royal-enfield-5990-euros/flying-flea-c6-moto-electrica-royal-enfield-5990-euros-2.webp alt=Flying Flea C6: la eléctrica de Royal Enfield por 5.990 € — fotografía del modelo>
 
 ## Preguntas frecuentes
 

@@ -316,7 +316,7 @@ No de forma natural: con 111 CV es una moto de **carnet A**. Para el A2 habría 
     "monovolumen eléctrico",
     "Espace eléctrico",
   ],
-  content: `<img src=/media/renault-e-space-concept-paris-2026-hero.webp alt=Concept car monovolumen eléctrico futurista en el escenario del Salón de París con focos azules>
+  content: `<img src=/media/renault-espace-2024-precio-ficha-tecnica-hero.webp alt=Renault E-Space: Espace eléctrico — fotografía del modelo>
 
 **Renault** ha desvelado el **E-Space Concept** días antes del **Salón del Automóvil de París** (12-18 de octubre): una reinterpretación **100% eléctrica** del Espace original de 1984, el coche que inventó el monovolumen en Europa. El estreno mundial será el **12 de octubre a las 8:30h** en el pabellón 6. Mide **4,7 metros** y recupera guiños al original (carrocería roja, bajos grises, pilar D característico) bajo el lema de las "voitures à vivre".
 
@@ -360,7 +360,7 @@ Si el concept derivara en un modelo de serie eléctrico, en España llevaría **
 
 El hueco que Renault explora lo ocupa hoy, casi en solitario, el Volkswagen ID. Buzz, el otro gran intento de resucitar el monovolumen en clave eléctrica. Y dentro de la propia casa, el Espace actual es un SUV híbrido de 7 plazas: el concept sugiere que Renault no da el formato por cerrado. Puedes repasar todos los estrenos del salón en nuestra <a href=/blog/salon-paris-2026-estrenos-electricos-guia/>guía de los eléctricos del Salón de París 2026</a>, comparar los familiares que ya se venden en el <a href=/comparador-coches/>comparador de coches</a>.
 
-**¿Merece la pena?** Como coche, no se puede comprar; como idea, es la declaración más coherente de Renault en años. **Para quién sí:** para familias que echan de menos el monovolumen de verdad y pueden esperar a ver qué llega a producción. **Para quién no:** para quien necesite un 7 plazas eléctrico este año: hoy la respuesta sigue estando en un concesionario, no en un stand.
+**¿Merece la pena?** Como coche, no se puede comprar; como idea, es la declaración más coherente de Renault en años. **Para quién sí:** para familias que echan de menos el monovolumen de verdad y pueden esperar a ver qué llega a producción. **Para quién no:** para quien necesite un 7 plazas eléctrico este año: hoy la respuesta sigue estando en un concesionario, no en un stand.<img src=/media/renault-espace-2024-precio-ficha-tecnica-hunt1.webp alt=Renault E-Space: Espace eléctrico — fotografía del modelo><img src=/media/renault-espace-2024-precio-ficha-tecnica-hunt2.webp alt=Renault E-Space: Espace eléctrico — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -452,7 +452,7 @@ Como eléctrica pura, la PV5 lleva **etiqueta Cero de la DGT**, con acceso libre
 
 El post original sitúa bien el hueco: las furgonetas eléctricas de Stellantis —Berlingo y e-Partner— dominan el segmento por precio y red, y la Volkswagen ID. Buzz Cargo juega en una liga de precio superior, más de imagen que de reparto puro. La PV5 ataca el centro con argumentos de eléctrica nativa: plataforma dedicada, carga rápida de 30 minutos y modularidad PBV. Puedes comparar las alternativas que ya se venden en el <a href=/comparador-coches/>comparador de coches</a>, repasar la gama eléctrica de la marca con el <a href=/coches/kia-ev9-2024-precio-ficha-tecnica/>Kia EV9</a> como referencia de su tecnología.
 
-**¿Merece la pena?** Sobre el papel, es la candidata más seria a furgoneta eléctrica de referencia del reparto urbano en cuanto tenga precio español. **Para quién sí:** para autónomos y flotas con rutas urbanas o periurbanas diarias y acceso a carga en base. **Para quién no:** para quien haga rutas largas diarias sin infraestructura de carga, o necesite comprar ya con un precio cerrado: la PV5 aún debe publicar el suyo en España.
+**¿Merece la pena?** Sobre el papel, es la candidata más seria a furgoneta eléctrica de referencia del reparto urbano en cuanto tenga precio español. **Para quién sí:** para autónomos y flotas con rutas urbanas o periurbanas diarias y acceso a carga en base. **Para quién no:** para quien haga rutas largas diarias sin infraestructura de carga, o necesite comprar ya con un precio cerrado: la PV5 aún debe publicar el suyo en España.<img src=/media/kia-pv5-2025-precio-ficha-tecnica-hero.webp alt=Kia PV5: furgoneta eléctrica modular PBV para España — fotografía del modelo><img src=/media/kia-pv5-2025-precio-ficha-tecnica-hunt1.webp alt=Kia PV5: furgoneta eléctrica modular PBV para España — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -485,7 +485,7 @@ Kia la ha presentado en Canarias en octubre de 2026; el calendario comercial par
     "Mondial Auto 2026",
     "novedades salón parís eléctricos",
   ],
-  content: `<img src=/media/salon-paris-2026-estrenos-electricos-guia-hero.webp alt=Pabellón del Salón del Automóvil de París 2026 con coches eléctricos en stands iluminados y público>
+  content: `<img src=/media/byd-sealion-7-salon-paris-2024.webp alt=París 2026: todos los eléctricos — fotografía del modelo>
 
 El **Salón del Automóvil de París** (12-18 de octubre, Paris Expo Porte de Versailles) se ha convertido en el campo de batalla del coche eléctrico en Europa: **20 marcas chinas** con **7 estrenos mundiales** frente a una industria europea que responde con eléctricos baratos hechos en casa. Esta es la guía con todos los estrenos eléctricos confirmados y qué mirar el día de prensa (12/10).
 
@@ -560,7 +560,7 @@ Ninguna marca presenta esta avalancha por casualidad. La normativa europea de CO
 
 El seguimiento se hace modelo a modelo. Consulta la <a href=/coches/volkswagen-id-polo-2026-precio-ficha-tecnica/>ficha del Volkswagen ID.Polo</a>, la <a href=/coches/cupra-raval-2026-precio-ficha-tecnica/>ficha del Cupra Raval</a> y la <a href=/coches/skoda-epiq-2026-precio-ficha-tecnica/>ficha del Skoda Epiq</a> para comparar los tres compactos. Si te interesa la ofensiva china, tienes la <a href=/coches/leapmotor-b03-2026-precio-ficha-tecnica/>ficha del Leapmotor B03</a> y la <a href=/coches/leapmotor-d19-2026-precio-ficha-tecnica/>ficha del Leapmotor D19</a>; si buscas el urbano, la <a href=/coches/citroen-2cv-electrico-2028/>ficha del Citroën 2CV eléctrico</a>, y si miras al premium, la <a href=/coches/lancia-gamma-2026-precio-ficha-tecnica/>ficha del Lancia Gamma</a> y la <a href=/coches/smart-2-2026-precio-autonomia-paris/>ficha del smart #2</a>. 
 
-**Veredicto:** París 2026 merece la pena como mapa, no como lista de la compra. Lo sólido son los compactos y urbanos con precio y autonomía ya anunciados —Raval, Epiq e ID.Polo— y la presión real de las marcas chinas. Lo que todavía es promesa debe leerse como declaración de intenciones. La decisión acertada es esperar a los precios finales en España, comparar las fichas que encajen y no pagar hoy por un titular de salón.
+**Veredicto:** París 2026 merece la pena como mapa, no como lista de la compra. Lo sólido son los compactos y urbanos con precio y autonomía ya anunciados —Raval, Epiq e ID.Polo— y la presión real de las marcas chinas. Lo que todavía es promesa debe leerse como declaración de intenciones. La decisión acertada es esperar a los precios finales en España, comparar las fichas que encajen y no pagar hoy por un titular de salón.<img src=/media/ds-n7-nueva-generacion-salon-paris-2026-hero.webp alt=París 2026: todos los eléctricos — fotografía del modelo><img src=/media/peugeot-salon-paris-2026-stand-hero.webp alt=París 2026: todos los eléctricos — fotografía del modelo>
 
 ## Preguntas frecuentes
 
