@@ -1628,7 +1628,7 @@ export const COCHES_BMW: CocheComparador[] = [
     modelo: "XM 50e",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 134100,
+    precioDesde: 138150,
     potenciaCv: 476,
     autonomiaKm: 83,
     maleteroL: 527,

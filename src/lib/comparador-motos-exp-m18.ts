@@ -475,7 +475,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 803,
     categoria: "Scrambler",
-    precioDesde: 12990, // tarifa oficial España (verificado 20/10/2026)
+    precioDesde: 13290, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 53.69,
     potenciaCv: 73,
     autonomiaKm: null,

@@ -515,7 +515,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Scooter",
-    precioDesde: 3499, // tarifa oficial España (verificado 20/10/2026)
+    precioDesde: 4400, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: 317,
