@@ -78006,6 +78006,25 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 12
   },
   {
+    "slug": "ducati-panigale-v2-sp-2027-ficha-tecnica-precio",
+    "title": "Ducati Panigale V2 SP 2027: 120 CV, 176 kg, 22.190 €",
+    "excerpt": "La Ducati Panigale V2 SP 2027 es la base de homologación para WorldSSP: 120 CV, 176 kg, embrague en seco y 22.190 € recomendados en España.",
+    "category": "Novedades Motor",
+    "date": "2026-11-05",
+    "locale": "es",
+    "heroSrc": "/media/motos/ducati-panigale-v2-sp-2027-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Ducati Panigale V2 SP 2027 Winter Test de tres cuartos delantera, con carenado negro mate, llantas blancas y horquilla Öhlins dorada",
+    "keywords": [
+      "ducati panigale v2 sp 2027 precio",
+      "ducati panigale v2 sp ficha tecnica",
+      "ducati panigale v2 sp 120 cv",
+      "ducati panigale v2 sp worldssp",
+      "ducati panigale v2 sp embrague en seco",
+      "ducati panigale v2 sp winter test"
+    ],
+    "readTime": 15
+  },
+  {
     "slug": "byd-seagull-2026-segunda-generacion-precio",
     "title": "BYD Seagull 2026: precios oficiales y carga en 5 minutos",
     "excerpt": "Así es el BYD Seagull de segunda generación: tarifas oficiales desde 65.900 yuanes, 420 km en ciclo CLTC y carga flash del 10 al 70 % en solo 5 minutos. Todas las versiones.",
