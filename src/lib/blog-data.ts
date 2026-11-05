@@ -1459,7 +1459,9 @@ export const COUNTRY_AUTHORITY_POSTS: BlogPost[] = [
       "jefatura trafico provincial contacto",
       "DGT recurso reposicion plazo",
     ],
-    content: `Si conduces en España, tarde o temprano te cruzarás con estas siglas. La Dirección General de Tráfico depende del Ministerio del Interior y se ocupa de ordenar el tráfico y de velar por la seguridad en las carreteras del país. Su oficina central se encuentra en Madrid, y en cada provincia trabaja a través de su Jefatura Provincial de Tráfico.
+    content: `La DGT es el Organismo Autónomo Jefatura Central de Tráfico (RDL 6/2015, art. 6): regula y vigila el tráfico en las vías interurbanas y travesías, expide permisos, matricula vehículos y gestiona el permiso por puntos.
+
+Si conduces en España, tarde o temprano te cruzarás con estas siglas. La Dirección General de Tráfico depende del Ministerio del Interior y se ocupa de ordenar el tráfico y de velar por la seguridad en las carreteras del país. Su oficina central se encuentra en Madrid, y en cada provincia trabaja a través de su Jefatura Provincial de Tráfico.
 
 Entre sus cometidos están expedir y renovar permisos de conducir, inscribir vehículos cuando se matriculan o cambian de titular, administrar el saldo de puntos —todo conductor parte de 12—, instruir expedientes por infracciones y vigilar los radares fijos cuyas denuncias luego tramita.
 
@@ -1472,7 +1474,7 @@ No toda sanción que recibes en España la firma Tráfico. La DGT se queda con l
 | Ayuntamientos | Aparcamiento, vías urbanas, ORA/zona azul |
 | Policía Local | Infracciones en vías urbanas |
 | Guardia Civil | Algunas denuncias en carretera (delegadas en DGT) |
-| Comunidades Autónomas | Cataluña, Euskadi y Galicia tienen policía de tráfico propia (Mossos, Ertzaintza, Guardia Civil Galicia) |
+| Comunidades Autónomas | Cataluña y Euskadi tienen policía de tráfico propia (Mossos, Ertzaintza) |
 
 Una pista sencilla: cuando el remitente es una Jefatura Provincial de Tráfico, quien está detrás del expediente es la DGT.
 
@@ -1487,10 +1489,13 @@ El calendario manda tanto como el fondo del asunto. Desde que te notifican la de
 | Momento | Plazo | Qué tienes que hacer |
 |---|---|---|
 | Notificación de la denuncia | Día 0 | Abre el plazo |
-| Alegaciones / Recurso de reposición | **20 días naturales** | Presentar escrito |
+| Alegaciones | **20 días naturales** (art. 95.1) | Presentar escrito ante la Jefatura Provincial o la sede electrónica |
+| Recurso de reposición | **1 mes** desde la notificación (art. 96.2-96.3) | Presentar escrito ante la Jefatura que sancionó |
 | Pronto pago (50% descuento) | 20 días naturales | Pagar y perder el derecho a recurrir |
-| Resolución de la DGT | **Hasta 1 año** | La DGT tiene hasta 1 año para resolver |
+| Resolución del recurso de reposición | **1 mes** (art. 96.5) | Si la DGT no responde en 1 mes, el recurso se entiende desestimado (silencio desestimatorio) |
 | Recurso contencioso-administrativo | **2 meses** desde la resolución | Solo si la DGT desestima |
+
+Plazos contrastados con el <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722>RDL 6/2015</a> (arts. 94, 95.1 y 96.2-96.5), consulta del 5/11/2026. El plazo de 1 mes es el del recurso de reposición de tráfico; la Ley 39/2015 (arts. 21 y 24.1) es solo el marco general. Más detalle: <a href=/blog/cuanto-tarda-dgt-en-responder-recurso/>cuánto tarda la DGT en responder un recurso</a> y <a href=/blog/como-pagar-multa-dgt/>cómo pagar una multa DGT</a>.
 
 <img src=/media/analizar-multa-ia-guia-legal.webp alt=Analizar una multa con IA antes de decidir si recurrirla>
 
@@ -1504,14 +1509,14 @@ Hay siete defectos de forma que aparecen una y otra vez: que no figure el númer
 
 ## Recurrir paso a paso, sin pagar antes
 
-Si decides recurrir, el orden importa: primero, no abones la sanción, porque pagar equivale a aceptarla; después, revisa el boletín punto por punto —el análisis gratuito de RecurreTuMulta.online te ayuda a detectar los fallos—; con esos argumentos, redacta el recurso de reposición; preséntalo en la jefatura provincial que corresponda o en la sede electrónica; y luego espera: la Administración dispone de hasta un año para resolver, y si calla, el silencio se entiende desestimatorio.
+Si decides recurrir, el orden importa: primero, no abones la sanción, porque pagar equivale a aceptarla; después, revisa el boletín punto por punto —el análisis gratuito de RecurreTuMulta.online te ayuda a detectar los fallos—; con esos argumentos, redacta el recurso de reposición; preséntalo en la jefatura provincial que corresponda o en la sede electrónica; y luego espera: la DGT tiene 1 mes para resolver el recurso de reposición (art. 96.5 del RDL 6/2015) y, si calla, el silencio se entiende desestimatorio.
 
 Un recurso con vicios acreditados y bien argumentado tiene muchas más posibilidades de acabar en anulación o en una rebaja de la sanción que uno genérico.
 
 | Fase | Plazo | Dónde se presenta |
 |---|---|---|
 | Alegaciones | 20 días naturales desde la notificación | Jefatura Provincial o Sede Electrónica |
-| Recurso de reposición | 20 días naturales | Misma Jefatura que sancionó |
+| Recurso de reposición | 1 mes desde la notificación (art. 96.2-96.3) | Misma Jefatura que sancionó |
 | Recurso contencioso-administrativo | 2 meses desde la resolución | Juzgado de lo contencioso |
 
 No apures los plazos: presenta el recurso cuanto antes y guarda el justificante. ¿No sabes por dónde empezar? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> y recibe los argumentos más sólidos para tu caso.
