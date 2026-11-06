@@ -2894,3 +2894,43 @@ Para que todo salga según las normas oficiales de AdSense y lo ya acordado entr
 - Fotos y textos siguen PAUTAS.md y el estándar de oro: foto real del modelo exacto con fuente, texto único.
 
 — Merlin
+
+## 6/11/2026, ~21:00 (hora de Madrid) — RELEVO ENTREGADO · @Ana (antes Merlín)
+
+@Grok, relevo recibido y dejado. He terminado de preparar la entrega; no publico nada desde aquí mientras te encargas tú.
+
+**Lo que queda en pausa:** mis reintentos de esta subida (intentos 4, 5 y 6). Nada publicado desde esta VM. Vivo sigue en `6aea45eee2a35e4680c06125` (3/11). Solo está autorizada UNA publicación final con el límite de 15 créditos indicado por Daniel; ninguna publicación ni preview intermedia, ningún gasto adicional.
+
+### Ramas y commits (qué hay y dónde)
+
+- Local (esta VM, clon `~/workspace/recurretumulta-kit`, rama `subida-1105`): HEAD `8283ee999`, árbol limpio. Contiene TODO: montaje completo, reescritura rev3 a 0, meta Publisuites en `index.html`, regeneración codegen y la corrección de los 44 `<img src>` que apuntaban a un directorio.
+- Remoto: rama `subida-acumulada-1105` — **PUSH COMPLETADO y VERIFICADO 6/11 ~20:57 (Madrid)**: commit `9cf8ef85bfaa2f8864d58b13ca3a641812376029` (padre `7e5d3af7`, fast-forward, sin force); árbol remoto `c4bffd10c745715953565be4ba1ee43726a9361a` = árbol exacto del HEAD local `8283ee999` (rev3 a 0, meta Publisuites, corrección de los 44 `<img>`, codegen regenerado). **Publica desde esa rama con total confianza.**
+
+### Checkpoint intento 5 / 5b shell-render (no repetir desde cero)
+
+- `dist/` completo en esta VM: 7.730 HTML, 62.672 media, 5,5 GB; bundle nuevo `index-CCSID4JO.js` (el viejo `index-Bs-lMs6l.js` ya no existe en `dist/assets/`).
+- **Restantes: 5.843 rutas; completas reales: 306** (de 6.149 totales). Criterio estricto de «completa»: HTML existe, mtime posterior al parche del bundle (2026-11-06T12:45:41Z), >2.000 bytes, `</html>` presente, canonical exacta y SIN el bundle viejo.
+- **Aviso importante sobre la lista:** `.deploy-work/rutas-prerender-restantes.txt` quedó a 0 bytes durante este relevo (un `writeFileSync` del sandbox truncó el fichero y el write falló con EPERM; los reintentos de reescritura también fallaron porque en este arranque los writes están bloqueados). La lista completa `.deploy-work/rutas-prerender.txt` (6.149) está intacta. **Recomputa la restante con `node .deploy-work/rutas-restantes.mjs`** (usa ese mismo criterio estricto); debe dar 5.843 restantes / 306 completas. No te fíes de ningún recuento anterior a este relevo.
+- **Intento 6 (cancelado por orden de Daniel 20:20):** el prerender completó 323 rutas antes de que el sandbox girara (19:11 UTC, SIGTRAP/EPERM). Después, una restauración total con `rename` sobrescribió por error 320 de esas 323 con su HTML vivo antiguo; por eso la lista restante es 5.843 y no 5.523: esas 320 volvieron a pendientes. Lección: tras una restauración selectiva, NO usar nunca `restaurar-todo-backup.py` (sobrescribe los renders nuevos); usar solo `restaurar-selectivo-intento6.py`. Y en este sandbox, mover/restaurar ficheros grandes solo con `mv`/`rename`, nunca con `cp` (un `cp -a` dejó ficheros de 0 bytes en el intento 5).
+- **Trampa de los falsos éxitos (intento 5):** el `dist/` contenía HTML vivo que referencia el bundle viejo; al hacer 404 el JS, React no arranca y el prerender a veces «pasa» la ruta capturando el HTML viejo tal cual. La corrección 5b funciona y está probada: criterio estricto + apartar los HTML vivos al backup + SPA fallback en el servidor estático (sirve el shell con el bundle nuevo cuando falta el fichero).
+
+### Scripts y comando comprobado para reanudar
+
+- Servidor estático con SPA fallback: `~/workspace/dryrun-logs/prerender-static-server.mjs` (puerto 4317; parado ahora).
+- `~/workspace/dryrun-logs/apartar-html-vivo.py` (aparta los HTML vivos al backup), `restaurar-todo-backup.py` (solo rename; ver aviso de arriba), `restaurar-selectivo-intento6.py`, diagnóstico `.deploy-work/diag-route.mjs`, recompute `.deploy-work/rutas-restantes.mjs`.
+- Secuencia: (1) test del sandbox PRIMERO (WRITE 200KB/5MB, cargar `vite.config.ts`, lanzar Chromium vía Playwright); si falla algo, no lanzar nada. (2) `apartar-html-vivo.py` + prerender con `PRERENDER_EXTERNAL=1`, servidor estático en 4317, `PRERENDER_CONCURRENCY=4`, `PRERENDER_ONLY_FILE=.deploy-work/rutas-prerender-restantes.txt`. (3) Si el sandbox gira (~26–48 min de ventana sana por arranque), restaurar con rename y esperar al siguiente arranque. (4) Al completar las restantes: los 22 comandos de postproceso en orden + gates de `f_build` (chequeo Convex, gate «faltan», git-status) y dry-run completo del kit con `--sin-build`. Solo con el dry-run COMPLETO en verde, UN `--publicar --sin-build`.
+- Si tu dry-run corre verde de principio a fin en tu entorno (sin proxy ni sandbox), publica directamente por la vía normal del kit; la ruta por fases es solo el plan B documentado aquí.
+
+### Procesos activos y logs
+
+- Ninguno. El agente del intento 6 está cancelado; no hay prerender en curso; el servidor estático está parado; el puerto 4317 está libre.
+- Log completo: `~/workspace/goals/150k-usuarios-mensuales-en-6-meses/hidden_files/publicacion-subida-1105-log.md` (Apéndices 5 y 6 + intento 6). Logs de prerender en `~/workspace/dryrun-logs/prerender-intento5*.out` y `prerender-intento6*.out`.
+
+### Preguntas que siguen abiertas para ti
+
+- La enumeración de las 7 comprobaciones de la revisión AdSense (tarea merlin-grok-2135, sigue bloqueada sin improvisar, paso 6).
+- Alcance D5 (thin tail) y confirmación de la lista conjunta.
+
+He terminado el relevo. Quedo disponible para lo que necesites: dime qué más puedo hacer.
+
+— Ana (antes Merlín)
