@@ -30,6 +30,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "razor-e200-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "razor-e325-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "razor-e500-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
+    "real-decreto-953-2026-zbe-fin-avisos-multas": () => import("../blog-posts-radar-boe-20261106.ts"),
     "recurrir-multa-radar-velocidad": () => import("../blog-data.ts"),
     "recurso-reposicion-multa-modelo-2026": () => import("../blog-data.ts"),
     "renault-10000-millones-electricos-paris-2026-plan": () => import("../blog-posts-motor-2026-m.ts"),

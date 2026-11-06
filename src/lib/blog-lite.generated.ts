@@ -50578,8 +50578,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-990-duke-2025-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 990 Duke 2025 con faro de escalpelo",
     "keywords": [
       "ktm 990 duke 2025 precio",
       "990 duke 2025 ficha técnica",
@@ -50725,8 +50725,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-990-duke-r-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 990 Duke R 2026 en curvas",
     "keywords": [
       "ktm 990 duke r 2026 precio",
       "990 duke r ficha técnica",
@@ -50746,8 +50746,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-390-duke-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 390 Duke 2026 naranja en carretera",
     "keywords": [
       "ktm 390 duke 2026 precio",
       "390 duke 2026 ficha técnica",
@@ -78002,6 +78002,27 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Li Auto i6 96 kWh",
       "i6 Mach M100",
       "Li Auto i6 ficha técnica"
+    ],
+    "readTime": 12
+  },
+  {
+    "slug": "real-decreto-953-2026-zbe-fin-avisos-multas",
+    "title": "ZBE 2026: el BOE exige multas reales y acaba con los avisos",
+    "excerpt": "Real Decreto 953/2026, hoy en el BOE: las ZBE solo cuentan si el ayuntamiento acredita cámaras, control y multas reales, sin periodo de avisos.",
+    "category": "Normativa Vial",
+    "date": "2026-11-06",
+    "locale": "es",
+    "heroSrc": "/media/pilar-zbe.webp",
+    "heroAlt": "Señal de Zona de Bajas Emisiones en Madrid con las etiquetas DGT admitidas",
+    "keywords": [
+      "real decreto 953/2026",
+      "zbe 2026 multas",
+      "zonas bajas emisiones 2026",
+      "zbe fin avisos",
+      "multa zbe 200 euros",
+      "real decreto 1052/2022",
+      "zbe ayuntamientos acreditar",
+      "recurso multa zbe"
     ],
     "readTime": 12
   },
