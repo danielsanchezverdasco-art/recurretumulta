@@ -1,4 +1,4 @@
-// Fotos 5/11/2026 (2ª oleada, kove-625x-pro-2026-ficha-t): Kove Motorcycles UK (MotoGB), galería oficial del modelo (bikes.motobank.co.uk).
+// Fotos 5/11/2026 (2ª oleada, kove-625x-pro-2026-ficha-t): imágenes de la galería que Kove Motorcycles UK (MotoGB) dedica al modelo en su web, bikes.motobank.co.uk.
 // LOTE 7 — 21 artículos de motos trail/adventure chinas (uno por ficha de comparador-motos-lote7.ts).
 // Títulos V800: "[Modelo]: [dato impactante] por [precio]", ≤60 car., sin marca de la web.
 // Cada artículo enlaza a su ficha con <a href=/motos/<id>> (filtro 10).

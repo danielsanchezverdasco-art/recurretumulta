@@ -1,7 +1,7 @@
 // Feed 28/10/2026 — NHTSA: luces cian para vehículos automatizados.
 // Fuente verificada: propuesta NHTSA de modificación de la FMVSS 108 (foro3d.com, 26/10/2026).
 // Es una propuesta, no una norma final; adopción voluntaria. Sin cifras inventadas.
-// Fotos 5/11/2026: fotos de prensa de Mercedes-Benz (serie 23c0434, luces turquesa de Drive Pilot; originales en group.mercedes-benz.com) reproducidas vía auto.pub, autosrodando.com y autoua.net. Sustituyen a la ilustración que nunca llegó a subirse.
+// Fotos 5/11/2026: fotos de prensa de Mercedes-Benz (serie 23c0434, luces turquesa de Drive Pilot; originales en group.mercedes-benz.com) reproducidas vía auto.pub, autosrodando.com y autoua.net. Ocupan el lugar de la ilustración que no llegó a subirse nunca.
 import type { BlogPost } from "./blog-data.ts";
 
 export const FEED_NHTSA_CIAN_POSTS: BlogPost[] = [

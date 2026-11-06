@@ -473,7 +473,7 @@ export const COCHES_BASE: CocheComparador[] = [
     modelo: "9 SHS",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 41499, // Campaña financiando con Open Bank (mín. 29.000 € a 36 meses, permanencia 36 meses) + anticipo Plan Auto+ de 2.250 € (préstamo TIN 0 %/TAE 0 % a 12 meses) con achatarramiento, verificado 05/11/2026 en omoda.m-automocion.com/omoda9shs/; particulares del 1 al 30/11/2026, matriculación antes del 30/12/2026; PVP sin campaña 52.053 €,
+    precioDesde: 41499, // PVP sin campaña: 52.053 €. Este importe exige campaña financiando vía Open Bank (mín. 29.000 € a 36 meses, permanencia 36 meses) y anticipo Plan Auto+ de 2.250 € (préstamo TIN 0 %/TAE 0 % a 12 meses) con achatarramiento; solo particulares, del 1 al 30/11/2026, y matriculación antes del 30/12/2026. Fuente verificada el 05/11/2026: omoda.m-automocion.com/omoda9shs/,
     potenciaCv: 537,
     autonomiaKm: 145,
     maleteroL: 471,

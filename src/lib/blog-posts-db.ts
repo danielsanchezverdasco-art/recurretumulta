@@ -1,45 +1,111 @@
-// Fotos 5/11/2026 (2ª oleada, como-adelantar-ahora-a-cic): Wikimedia Commons, CC BY-SA 3.0, Noah Wulf (File:Cyclist on North Jones Blvd.jpg).
+// Fotos 5/11/2026 (2ª oleada, como-adelantar-ahora-a-cic): Noah Wulf (CC BY-SA 3.0) (File:Cyclist on North Jones Blvd.jpg), Wikimedia Commons.
 // ⚠️ ARCHIVO GENERADO — no editar a mano.
 // Generado por scripts/export-blog-static.mjs desde Convex (posts publicados).
 // Regenerar tras publicar/despublicar artículos y antes de cada despliegue.
-// Fotos 5/11/2026 («como-recurrir-una-multa»): radar fijo en carretera, Wikimedia Commons CC BY 4.0 Horacio Cambeiro (File:Jardín_América_-_Km_1437_·_Radar_de_velocidad_en_RN12_(fijo,_sentido_Posadas-Iguazú)_frente_a_Estación_Shell.jpg); cinemómetros Traffipax, CC BY-SA 4.0 Malopez 21 (File:TRAFFIPAX_IV,_Radar_de_tráfico,_01.jpg y _02.jpg).
-// Fotos 5/11/2026 (2ª oleada, tasa-unica-alcohol-02-reforma): Wikimedia Commons, Public domain, Unknown authorUnknown author or not provided (File:Transportation Systems Center Staff Member Demonstrates Alcohol Breath Analyzer - NARA - 6882631.jpg); Wikimedia Commons, Public domain, Unknown authorUnknown author or not provided (File:Simulation of Motorist Blood-Alcohol Level Test - NARA - 6925433.jpg); Wikimedia Commons, CC BY-SA 4.0, Chris Olszewski (File:Random breath testing in Brisbane, Queensland, 2025, 01.jpg).
-// Fotos 5/11/2026 (2ª oleada, descubre-las-nuevas-medidas-de-la-dgt-pa): Wikimedia Commons, Public domain, Capt. Anthony Clas (File:Easy riding into motorcycle season the Army way! 140306-A-AC351-001.jpg); Wikimedia Commons, Public domain, U.S. Space Force photo by Airman 1st Class Olga Houtsma (File:Vandenberg Hosts a Motorcycle Safety Training Course (8404797).jpg); Wikimedia Commons, Public domain, U.S. Navy photo by Mass Communication Specialist 3rd Class Casey H. Kyhl (File:US Navy 100513-N-5538K-001 Chief Master-at-Arms Aaron Mitchem, assigned to the security department at Fleet Activities Sasebo, discusses the turning capabilities of different motorcycles.jpg).
-// Fotos 5/11/2026 (2ª oleada, guantes-calzado-obligatorios-moto-octubr): Wikimedia Commons, CC BY-SA 4.0, サフィル (File:MotoEqipments HelmetBootsJacketAndGloves.jpg); Wikimedia Commons, CC BY-SA 4.0, Thermos (File:MotorcycleRacingGlove.jpg); Wikimedia Commons, CC BY-SA 3.0, Ocdp (File:Alpinestars S-MX Motorcycle boots.jpg).
-// Fotos 5/11/2026 (2ª oleada, como-recurrir-multa-de-patinete-electric): Wikimedia Commons, CC BY-SA 4.0, Alex Genz (File:Female rider on Egret One eScooter.jpg); Wikimedia Commons, CC0, KAMEI SZE 2620M (File:SZ 深圳 Shenzhen 光明新區 Guangming KeYu Road motorbikes n electric motor scooter riders with umbrellas July 2026 N13P 01.jpg); Wikimedia Commons, CC BY-SA 4.0, Singaporeriders (File:An electric kick scooter in Germany .jpg).
-// Fotos 5/11/2026 (2ª oleada, multas-a-patinetes-electricos-vmp-en-esp): Wikimedia Commons, CC BY-SA 4.0, Siarhei Besarab (File:BMW CE 04 electric scooter parked on a city street at night.jpg); Wikimedia Commons, CC BY-SA 2.0, Pierre Marshall (File:E-scooter hire spot - geograph.org.uk - 6998466.jpg); Wikimedia Commons, CC BY-SA 4.0, Dietmar Rabich (File:Seattle (WA, USA), Pike Street, E-Scooter -- 2022 -- 1462.jpg).
-// Fotos 5/11/2026 (2ª oleada, como-recurrir-multas-de-la-zbe-en-madrid): Wikimedia Commons, CC BY 4.0, Diario de Madrid (File:Este viernes arranca la zona de bajas emisiones Madrid Central 02.jpg); Wikimedia Commons, CC BY 4.0, Diario de Madrid (File:Este viernes arranca la zona de bajas emisiones Madrid Central 03.jpg); Wikimedia Commons, CC BY 4.0, Diario de Madrid (File:Este viernes arranca la zona de bajas emisiones Madrid Central 04.jpg).
-// Fotos 5/11/2026 (2ª oleada, patinete-electrico-normativa-dgt-2026-mu): Wikimedia Commons, CC BY-SA 4.0, John Robert McPherson (File:Lime scooter helmet 344 Turbot St Spring Hill P1060399.jpg); Wikimedia Commons, CC BY-SA 4.0, John Robert McPherson (File:Lime scooter helmet 344 Turbot St Spring Hill P1060400.jpg); Wikimedia Commons, CC BY-SA 4.0, John Robert McPherson (File:Limes scooters with City Cycle helmet George St and Ann St Brisbane P1050316.jpg).
-// Fotos 5/11/2026 (2ª oleada, plataforma-unica-prioridad-peaton): Wikimedia Commons, CC BY 4.0, Luke Stewart (File:Shared zone in Sydney.jpg); Wikimedia Commons, CC BY-SA 4.0, Nick-D (File:Shared zone on Kingsley Street Acton June 2026.jpg); Wikimedia Commons, CC BY-SA 4.0, GenAv (File:Volterrani Shared Space.jpg).
-// Fotos 5/11/2026 (2ª oleada, casco-obligatorio-bicicleta-carretera-oc): Wikimedia Commons, CC0, JFVelasquez Floro (File:0328Rear views of road cyclists with bicycle helmets during the COVID-19 pandemic 02.jpg); Wikimedia Commons, CC0, JFVelasquez Floro (File:0328Rear views of road cyclists with bicycle helmets during the COVID-19 pandemic 05.jpg); Wikimedia Commons, CC0, JFVelasquez Floro (File:0328Rear views of road cyclists with bicycle helmets during the COVID-19 pandemic 06.jpg).
-// Fotos 5/11/2026 (2ª oleada, el-nuevo-carril-de-emergencia-obligatori): Wikimedia Commons, CC BY-SA 3.0, Linie29 (File:Rettungsgasse Emergency corridor Display.JPG); Wikimedia Commons, CC BY-SA 4.0, TypeZero (File:Rettungsgasse-001.jpg); Wikimedia Commons, CC BY 3.0, Hubert Berberich (HubiB) (File:Rettungsgasse A 6 Mannheim-Rheinau.jpg).
-// Fotos 5/11/2026 (2ª oleada, multas-absurdas-de-la-dgt-tabla-oficial-): Wikimedia Commons, CC BY-SA 3.0, Outisnn (File:Alfa Romeo 156 Guardia Civil Tráfico.JPG); Wikimedia Commons, CC BY-SA 4.0, Dorieo (File:Automóvil de la Guardia Civil de Tráfico 01.jpg); Wikimedia Commons, CC BY-SA 4.0, Dorieo (File:Automóvil y motociclista de la Guardia Civil de Tráfico.jpg).
-// Fotos 5/11/2026 (2ª oleada, atropello-de-jabali-o-animal-en-la-carre): Wikimedia Commons, CC BY-SA 3.0, Pere López (File:Senglar a carretera de les Aigües P1470915.JPG); Wikimedia Commons, CC BY-SA 3.0, Pere López (File:Senglar a carretera de les Aigües P1470916.JPG); Wikimedia Commons, CC BY-SA 4.0, Sillerkiil (File:Metssea emis poegadega maanteed ületamas. Kõrvemaa, 2016. a. aprill..jpg).
-// Fotos 5/11/2026 (2ª oleada, normas-de-trafico-mas-raras-y-estrictas-): Wikimedia Commons, CC BY-SA 4.0, Antonio Kless (File:Bus stop road sign in Europe.jpg); Wikimedia Commons, CC BY 4.0, Maps.interlude (File:Color of Highway signs in Europe.jpg); Wikimedia Commons, CC BY 3.0, Hebyby (File:Road signs in Minsk, Belarus, near Grand Hotel Europe.jpg).
-// Fotos 5/11/2026 (2ª oleada, itv-cada-cuanto-me-toca-tabla-por-anos-m): Wikimedia Commons, CC BY 4.0, Juan Emilio Prades Bel (File:Inspección técnica de vehículos (ITV).jpg); Wikimedia Commons, CC BY-SA 4.0, La fabrica de nubes (File:ITV (Inspección Técnica de Vehículos) en Nigrán.jpg); Wikimedia Commons, Public domain, U.S. Army National Guard Photo/ Sgt. 1st Class Benjamin M. Cossel/ Released (File:Motor Vehicle Inspection System 140115-Z-YQ616-026.jpg).
-// Fotos 5/11/2026 (2ª oleada, balizas-v16-vs-triangulos-el-gran-debate): Wikimedia Commons, CC BY-SA 4.0, HelpFlash Photos (File:V16 - Help-Flash 3 modelos sobre techo auto.jpg); Wikimedia Commons, CC BY-SA 4.0, HelpFlash Photos (File:Help Flash Piccolo con pack, 2009.jpg); Wikimedia Commons, CC BY-SA 4.0, HelpFlash Photos (File:Help Flash 2001, Prototipo de ensayo de potencia luminosa, climático, y mejora de la inducción magnética.jpg).
-// Fotos 5/11/2026 (2ª oleada, coches-autonomos-de-nivel-3-y-4-en-espan): Wikimedia Commons, CC0, Retired electrician (File:Moscow, Yandex self-driving Hyundai Sonata, Aug 2025 02.jpg); Wikimedia Commons, CC0, Retired electrician (File:Moscow, Yandex self-driving Hyundai Sonata, Aug 2025 roof unit 02.jpg); Wikimedia Commons, CC0, Retired electrician (File:Moscow, Yandex self-driving Hyundai Sonata, Aug 2025 06.jpg).
-// Fotos 5/11/2026 (2ª oleada, preinstalacion-obligatoria-de-alcoholime): Wikimedia Commons, CC BY-SA 4.0, Ninapayan (File:Draeger Interlock 7000.jpg); Wikimedia Commons, CC0, Spielvogel
+// Fotos 5/11/2026 («como-recurrir-una-multa»): radar fijo en carretera, Wikimedia Commons: Horacio Cambeiro (CC BY 4.0) (File:Jardín_América_-_Km_1437_·_Radar_de_velocidad_en_RN12_(fijo,_sentido_Posadas-Iguazú)_frente_a_Estación_Shell.jpg); cinemómetros Traffipax, CC BY-SA 4.0 Malopez 21 (File:TRAFFIPAX_IV,_Radar_de_tráfico,_01.jpg y _02.jpg).
+// Fotos del 5/11/2026 (2ª oleada, tasa-unica-alcohol-02-reforma): Unknown authorUnknown author or not provided (Public domain), (File:Transportation Systems Center Staff Member Demonstrates Alcohol Breath Analyzer - NARA - 6882631.jpg) — Wikimedia Commons; (File:Simulation of Motorist Blood-Alcohol Level Test - NARA - 6925433.jpg) de Unknown authorUnknown author or not provided (Public domain), en Wikimedia Commons; Chris Olszewski — (File:Random breath testing in Brisbane, Queensland, 2025, 01.jpg) (CC BY-SA 4.0) [Wikimedia Commons].
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/descubre-las-nuevas-medidas-de-la-dgt-para-octubre-uso-obligatorio-de-guantes-y-calzado-para-motoristas-fin-de-exenciones-del-cinturon-y-como-recurrir-multas/
+//   Capt. Anthony Clas (Public domain) (File:Easy riding into motorcycle season the Army way! 140306-A-AC351-001.jpg), Wikimedia Commons.
+//   U.S. Space Force photo by Airman 1st Class Olga Houtsma — (File:Vandenberg Hosts a Motorcycle Safety Training Course (8404797) (Wikimedia Commons).jpg) (Public domain)
+//   U.S. Navy (File:US Navy 100513-N-5538K-001 Chief Master-at-Arms Aaron Mitchem, assigned to the security department at Fleet Activities Sasebo, discusses the turning capabilities of different motorcycles.jpg) — Mass Communication Specialist 3rd Class Casey H. Kyhl, en . (Public domain), en Wikimedia Commons.
+// Fotos (2ª oleada, 5/11/2026, guantes-calzado-obligatorios-moto-octubr): サフィル (CC BY-SA 4.0) (File:MotoEqipments HelmetBootsJacketAndGloves.jpg), Wikimedia Commons; Wikimedia Commons: Thermos (CC BY-SA 4.0) (File:MotorcycleRacingGlove.jpg); Ocdp (CC BY-SA 3.0), (File:Alpinestars S-MX Motorcycle boots.jpg) — Wikimedia Commons.
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/como-recurrir-multa-de-patinete-electrico-vmp-modelo-gratis/
+//   Alex Genz (CC BY-SA 4.0) (File:Female rider on Egret One eScooter.jpg), Wikimedia Commons.
+//   KAMEI SZE 2620M (CC0) (File:SZ 深圳 Shenzhen 光明新區 Guangming KeYu Road motorbikes n electric motor scooter riders with umbrellas July 2026 N13P 01.jpg), Wikimedia Commons.
+//   Singaporeriders — en . (CC BY-SA 4.0) (File:An electric kick scooter in Germany .jpg), Wikimedia Commons.
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/multas-a-patinetes-electricos-vmp-en-espana-2027-millones-en-recaudacion-normativa-de-seguros-preguntas-callejeras-y-como-recurrir/
+//   Siarhei Besarab (CC BY-SA 4.0) (File:BMW CE 04 electric scooter parked on a city street at night.jpg), Wikimedia Commons.
+//   Pierre Marshall (CC BY-SA 2.0) (File:E-scooter hire spot - geograph.org.uk - 6998466.jpg), Wikimedia Commons.
+//   Dietmar Rabich . (CC BY-SA 4.0) (File:Seattle (WA, USA), Wikimedia Commons, Pike Street, E-Scooter -- 2022 -- 1462.jpg)
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/como-recurrir-multas-de-la-zbe-en-madrid-barcelona-y-toda-espana-guia-definitiva-y-modelos-con-ia/
+//   Diario de Madrid — (File:Este viernes arranca la zona de bajas emisiones Madrid Central 02.jpg) (CC BY 4.0) [Wikimedia Commons]
+//   Diario de Madrid (CC BY 4.0), en Wikimedia Commons.
+//   Diario de Madrid , en . (CC BY 4.0), en Wikimedia Commons.
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/patinete-electrico-normativa-dgt-2026-multas/
+//   John Robert McPherson — (File:Lime scooter helmet 344 Turbot St Spring Hill P1060399.jpg) (CC BY-SA 4.0) [Wikimedia Commons]
+//   Wikimedia Commons: John Robert McPherson (CC BY-SA 4.0)
+//   John Robert McPherson . — (File:Limes scooters with City Cycle helmet George St and Ann St Brisbane P1050316.jpg) (CC BY-SA 4.0) [Wikimedia Commons]
+// Fotos (2ª oleada, 5/11/2026, plataforma-unica-prioridad-peaton): (File:Shared zone in Sydney.jpg) (CC BY 4.0), de Luke Stewart, en Wikimedia Commons; Nick-D (CC BY-SA 4.0) (File:Shared zone on Kingsley Street Acton June 2026.jpg), Wikimedia Commons; Wikimedia Commons: GenAv (CC BY-SA 4.0) (File:Volterrani Shared Space.jpg).
+// Fotos 5/11/2026 — 2ª oleada (casco-obligatorio-bicicleta-carretera-oc): JFVelasquez Floro (CC0), (File:0328Rear views of road cyclists with bicycle helmets during the COVID-19 pandemic 02.jpg) — Wikimedia Commons; de JFVelasquez Floro (CC0), en Wikimedia Commons; JFVelasquez Floro — (CC0) [Wikimedia Commons].
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/el-nuevo-carril-de-emergencia-obligatorio-en-retenciones-como-abrir-pasillo-a-ambulancias-y-bomberos-para-evitar-multas-de-la-dgt/
+//   Linie29 (CC BY-SA 3.0) (File:Rettungsgasse Emergency corridor Display.JPG), Wikimedia Commons.
+//   TypeZero (CC BY-SA 4.0) (File:Rettungsgasse-001.jpg), Wikimedia Commons.
+//   Hubert Berberich (HubiB) . (CC BY 3.0) (File:Rettungsgasse A 6 Mannheim-Rheinau.jpg), Wikimedia Commons.
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/multas-absurdas-de-la-dgt-tabla-oficial-de-sanciones-y-los-casos-mas-raros-que-te-costaran-puntos-y-dinero/
+//   Outisnn (CC BY-SA 3.0) (File:Alfa Romeo 156 Guardia Civil Tráfico.JPG), Wikimedia Commons.
+//   Dorieo (CC BY-SA 4.0) (File:Automóvil de la Guardia Civil de Tráfico 01.jpg), Wikimedia Commons.
+//   Dorieo . — (File:Automóvil y motociclista de la Guardia Civil de Tráfico.jpg) (CC BY-SA 4.0) [Wikimedia Commons]
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/atropello-de-jabali-o-animal-en-la-carretera-quien-paga-los-danos-del-coche-segun-la-ley-en-2024-guia-definitiva-para-reclamar/
+//   Pere López (CC BY-SA 3.0) (File:Senglar a carretera de les Aigües P1470915.JPG), Wikimedia Commons.
+//   Pere López (CC BY-SA 3.0), en Wikimedia Commons.
+//   Sillerkiil — . (CC BY-SA 4.0) (File:Metssea emis poegadega maanteed ületamas. Kõrvemaa, 2016. a. aprill..jpg), Wikimedia Commons.
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/normas-de-trafico-mas-raras-y-estrictas-en-europa-delito-penal-en-francia-prohibicion-del-movil-en-semaforos-y-multas-absurdas-al-volante/
+//   Antonio Kless (CC BY-SA 4.0) (File:Bus stop road sign in Europe.jpg), Wikimedia Commons.
+//   Maps.interlude (CC BY 4.0) (File:Color of Highway signs in Europe.jpg), Wikimedia Commons.
+//   Hebyby, en . (CC BY 3.0) (File:Road signs in Minsk, Belarus, near Grand Hotel Europe.jpg), Wikimedia Commons.
+// Fotos 5/11/2026 — 2ª oleada (itv-cada-cuanto-me-toca-tabla-por-anos-m): Juan Emilio Prades Bel (CC BY 4.0) (File:Inspección técnica de vehículos (ITV), Wikimedia Commons.jpg); Wikimedia Commons: La fabrica de nubes (CC BY-SA 4.0) (File:ITV (Inspección Técnica de Vehículos) en Nigrán.jpg); U.S. Army National Guard Photo/ Sgt. 1st Class Benjamin M. Cossel/ Released (Public domain), (File:Motor Vehicle Inspection System 140115-Z-YQ616-026.jpg) — Wikimedia Commons.
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/balizas-v16-vs-triangulos-el-gran-debate-nacional-estadisticas-de-atropellos-y-la-multa-por-no-llevar-la-luz-conectada/
+//   HelpFlash Photos (CC BY-SA 4.0) (File:V16 - Help-Flash 3 modelos sobre techo auto.jpg), Wikimedia Commons.
+//   HelpFlash Photos — (File:Help Flash Piccolo con pack, 2009.jpg) (CC BY-SA 4.0) [Wikimedia Commons]
+//   HelpFlash Photos — en . (CC BY-SA 4.0) (File:Help Flash 2001, Prototipo de ensayo de potencia luminosa, climático, y mejora de la inducción magnética.jpg), Wikimedia Commons.
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/coches-autonomos-de-nivel-3-y-4-en-espana-quien-asume-la-responsabilidad-legal-en-caso-de-accidente/
+//   Retired electrician (CC0) (File:Moscow, Yandex self-driving Hyundai Sonata, Aug 2025 02.jpg), Wikimedia Commons.
+//   Retired electrician (CC0), en Wikimedia Commons.
+//   Retired electrician , . (CC0), en Wikimedia Commons.
+// 2ª oleada (5/11/2026, preinstalacion-obligatoria-de-alcoholime): fotos: Wikimedia Commons: Ninapayan (CC BY-SA 4.0) (File:Draeger Interlock 7000.jpg); Wikimedia Commons, CC0, Spielvogel
 
 // For a gallery of some more of my uploaded pictures see: here.
-// All im (File:Ignition interlock device on Scania Postbus. Spielvogel.jpg); Wikimedia Commons, CC BY-SA 3.0, Rsheram (File:Guardian Interlock AMS2000 1.jpg).
-// Fotos 5/11/2026 (2ª oleada, homologacion-camper-y-caravanas-en-espan): Wikimedia Commons, CC BY-SA 4.0, Danny6060 (File:Bespoke Volkswagen campervan interior built by The Wee Camper Co..jpg); Wikimedia Commons, CC BY-SA 3.0, France64160 (File:Panneau espagnol indiquant l'aire de Mirandaola en Espagne (Pays Basque).JPG); Wikimedia Commons, CC BY-SA 4.0, Dietmar Rabich (File:Dülmen, Hausdülmen, Wohnmobilstellplatz am Heubach -- 2011 -- 1787.jpg).
-// Fotos 5/11/2026 (2ª oleada, multas-de-trafico-en-barcelona-y-la-zbe-): Wikimedia Commons, CC BY-SA 4.0, Alvaro Vidal-Abarca (File:ZBE Barcelona, Sant Adrià, Torrassa-Ramon Viñas.jpg); Wikimedia Commons, CC BY-SA 4.0, Alvaro Vidal-Abarca (File:ZBE Barcelona, Sant Adrià (Av Eduard Maristany) - Badalona (Av Maresme).jpg); Wikimedia Commons, CC BY 2.0, Craig Sunter from Manchester, UK (File:Barcelona Street Life (7852391410).jpg).
-// Fotos 5/11/2026 (2ª oleada, revolucion-al-volante-nuevas-normativas-): Wikimedia Commons, CC BY-SA 2.0, Gary (File:UK Amber Traffic Light Signal - geograph.org.uk - 5114929.jpg); Wikimedia Commons, CC BY-SA 2.0, Gary (File:UK Amber Traffic Light Signal - geograph.org.uk - 5114935.jpg); Wikimedia Commons, CC BY-SA 2.0, Gary (File:UK Amber Traffic Light Signal - geograph.org.uk - 5116420.jpg).
-// Fotos 5/11/2026 (2ª oleada, codigo-78-carnet-automatico-manual-curso): Wikimedia Commons, CC BY-SA 4.0, عمرو (File:Driving school automobile.jpg); Wikimedia Commons, Public domain, Bull-Doser (File:'98-'00 Toyota Corolla Driving School Car.JPG); Wikimedia Commons, CC0, Tokumeigakarinoaoshima (File:2nd generation Mazda Axela sedan used as instruction car of Hanna Driving School.JPG).
-// Fotos 5/11/2026 (2ª oleada, nieve-prohibido-adelantar-octubre): Wikimedia Commons, CC BY-SA 3.0, Daniel Case (File:Cars driving through blowing snow on NY 211 outside Montgomery.jpg); Wikimedia Commons, CC BY-SA 3.0, Steve Morgan (File:Cable chains on car tire.jpg); Wikimedia Commons, CC BY-SA 4.0, Matthew T Rader (File:Dallas snow 2021.jpg).
-// Fotos 5/11/2026 (2ª oleada, dgt-anuncia-reforma-entra-en-vigor-1-oct): Wikimedia Commons, CC0, Zarateman (File:Madrid - Sede de la Dirección General de Tráfico (DGT) 2.JPG); Wikimedia Commons, CC0, Zarateman (File:Madrid - Sede de la Dirección General de Tráfico (DGT) 3.JPG); Wikimedia Commons, CC BY 4.0, Diario de Madrid (File:Los vehículos sin etiqueta ambiental de la DGT no podrán circular por M-30 y centro de Madrid 01.jpg).
-// Fotos 5/11/2026 (2ª oleada, camaras-ocultas-de-la-dgt-para-movil-y-c): Wikimedia Commons, Public domain, Ingolfson (File:Traffic Lights And Surveillance Camera.jpg); Wikimedia Commons, CC BY-SA 4.0, Ymblanter (File:Delft Voorhofdreef speed camera.jpg); Wikimedia Commons, CC BY-SA 4.0, ItzANormalFioko (File:Orange Italian Speed Camera.jpg).
-// Fotos 5/11/2026 (2ª oleada, multa-fantasma-testra-dgt-que-hacer): Wikimedia Commons, CC0, Zarateman (File:Madrid - Sede del Boletín Oficial del Estado (BOE) 1.JPG); Wikimedia Commons, CC0, Zarateman (File:Madrid - Sede del Boletín Oficial del Estado (BOE) 4.JPG); Wikimedia Commons, CC0, Zarateman (File:Madrid - Sede del Boletín Oficial del Estado (BOE) 5.JPG).
-// Fotos 5/11/2026 (2ª oleada, como-recurrir-multas-de-trafico-en-canar): Wikimedia Commons, CC BY 3.0, Marek Ślusarczyk (Tupungato) Photo portfolio (File:004 Masca road spectacular landscape in Tenerife, Canary Islands, Spain.jpg); Wikimedia Commons, CC BY 3.0, vitsoft (File:Gran Canaria, road to Pico Bandama - panoramio.jpg); Wikimedia Commons, CC BY 3.0, Marek Ślusarczyk (Tupungato) Photo portfolio (File:003 Tenerife road - volcanic landscape road in Teide National Park, Tenerife.jpg).
-// Fotos 5/11/2026 (2ª oleada, multas-en-la-m-30-y-madrid-central-como-): Wikimedia Commons, CC BY-SA 4.0, Américo Toledano (File:Madrid M-30 - 005.jpg); Wikimedia Commons, CC BY-SA 4.0, LBM1948 (File:Madrid, M-30 1981.jpg); Wikimedia Commons, CC BY-SA 4.0, María Sacristán (File:Madrid Río Obras15 Puente de Segovia mjsm 06.jpg).
-// Fotos 5/11/2026 (2ª oleada, robar-romper-radar-dgt-consecuencias): Wikimedia Commons, CC BY-SA 4.0, François GOGLINS (File:Pont-sur-Yonne-FR-89-cinémomètre RN6 vandalisé-01.jpg); Wikimedia Commons, CC BY-SA 4.0, Marc Mongenet (File:Radar vandalisé smiley.jpg); Wikimedia Commons, CC BY-SA 4.0, François GOGLINS (File:Sens-FR-89-cinémomètre RN6 vandalisé-01.jpg).
-// Fotos 5/11/2026 (2ª oleada, multas-de-trafico-en-el-extranjero-franc): Wikimedia Commons, CC BY-SA 4.0, Chabe01 (File:Radar Vitesse Autoroute A1 - Saint-Denis (FR93) - 2026-09-15 - 1.jpg); Wikimedia Commons, CC BY-SA 4.0, Marc Mongenet (File:Radar de Clarafond-Arcine autoroute A40.jpg); Wikimedia Commons, CC0, Lucas Gallone lucasgallone (File:Autoroute A7, Lyon, France (Unsplash).jpg).
-// Fotos 5/11/2026 (2ª oleada, llevas-la-nueva-luz-v16-conectada-en-el-): Wikimedia Commons, CC BY-SA 4.0, HelpFlash Photos (File:V16 - Help-Flash encendido sobre techo auto.jpg); Wikimedia Commons, CC BY-SA 4.0, HelpFlash Photos (File:Help Flash 1998, Prototipo de ensayo funcional inicial.jpg); Wikimedia Commons, CC BY-SA 4.0, HelpFlash Photos (File:Help Flash Piccolo 2009.jpg).
-// Fotos 5/11/2026 (2ª oleada, autocaravanas-aparcar-norma-octubre): Wikimedia Commons, CC BY-SA 3.0, Hubert Berberich (HubiB) (File:Wohnmobilstellplatz Bad Mergentheim.jpg); Wikimedia Commons, CC BY-SA 3.0, Hubert Berberich (HubiB) (File:Wohnmobilstellplatz Bad Mergentheim - Mehrere parkende Wohnmobile.jpg); Wikimedia Commons, CC BY-SA 4.0, Elgaard (File:WoMo stellplatz Scheßlitz pitch.jpg).
-// Fotos 5/11/2026 (2ª oleada, como-recurrir-multas-de-trafico-en-ceuta): Wikimedia Commons, CC BY-SA 4.0, This file is a work by Takashi kurita.Please, credit this: Álvaro C.E.
-//  I would  (File:Ceuta-20140923-00998.jpg); Wikimedia Commons, CC BY-SA 4.0, Diego Delso (File:Fortaleza del Monte Hacho, Ceuta, España, 2015-12-10, DD 39.jpg); Wikimedia Commons, CC BY-SA 2.0, Mario Sánchez Bueno from Ceuta, España (File:Fuerte del Hacho, Ceuta.jpg).
-// Fotos 5/11/2026 (2ª oleada, deca-digital-obligatorio-5-octubre-2026): Wikimedia Commons, Public domain, Semi Sam
+// All im (File:Ignition interlock device on Scania Postbus. Spielvogel.jpg); Rsheram (CC BY-SA 3.0), (File:Guardian Interlock AMS2000 1.jpg) — Wikimedia Commons.
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/homologacion-camper-y-caravanas-en-espana-vacios-legales-itv-y-como-evitar-multas-de-la-dgt/
+//   Danny6060 (CC BY-SA 4.0) (File:Bespoke Volkswagen campervan interior built by The Wee Camper Co..jpg), Wikimedia Commons.
+//   France64160 — (File:Panneau espagnol indiquant l'aire de Mirandaola en Espagne (Pays Basque) (CC BY-SA 3.0) [Wikimedia Commons].JPG)
+//   Dietmar Rabich — en . (CC BY-SA 4.0) (File:Dülmen, Hausdülmen, Wohnmobilstellplatz am Heubach -- 2011 -- 1787.jpg), Wikimedia Commons.
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/multas-de-trafico-en-barcelona-y-la-zbe-como-recurrir-sanciones-de-la-dgt-y-el-ayuntamiento-al-instante/
+//   Alvaro Vidal-Abarca (CC BY-SA 4.0) (File:ZBE Barcelona, Sant Adrià, Torrassa-Ramon Viñas.jpg), Wikimedia Commons.
+//   (File:ZBE Barcelona, Sant Adrià (Av Eduard Maristany) (CC BY-SA 4.0), de Alvaro Vidal-Abarca, en Wikimedia Commons - Badalona (Av Maresme).jpg)
+//   Craig Sunter from Manchester, UK . (CC BY 2.0) (File:Barcelona Street Life (7852391410), Wikimedia Commons.jpg)
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/revolucion-al-volante-nuevas-normativas-de-la-dgt-el-fin-del-semaforo-ambar-y-multas-en-la-a-2/
+//   En Wikimedia Commons, (File:UK Amber Traffic Light Signal - geograph.org.uk - 5114929.jpg): Gary (CC BY-SA 2.0)
+//   Wikimedia Commons: Gary (CC BY-SA 2.0)
+//   Wikimedia Commons: Gary , en . (CC BY-SA 2.0)
+// Fotos del 5/11/2026 (2ª oleada, codigo-78-carnet-automatico-manual-curso): عمرو — (File:Driving school automobile.jpg) (CC BY-SA 4.0) [Wikimedia Commons]; (File:'98-'00 Toyota Corolla Driving School Car.JPG): Bull-Doser (Public domain) — en Wikimedia Commons; Tokumeigakarinoaoshima (CC0) (File:2nd generation Mazda Axela sedan used as instruction car of Hanna Driving School.JPG) (Wikimedia Commons).
+// 2ª oleada (5/11/2026, nieve-prohibido-adelantar-octubre): fotos: (File:Cars driving through blowing snow on NY 211 outside Montgomery.jpg) (CC BY-SA 3.0), de Daniel Case, en Wikimedia Commons; Steve Morgan (CC BY-SA 3.0) (File:Cable chains on car tire.jpg), Wikimedia Commons; Wikimedia Commons: Matthew T Rader (CC BY-SA 4.0) (File:Dallas snow 2021.jpg).
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/dgt-anuncia-reforma-entra-en-vigor-1-octubre/
+//   Zarateman (CC0) (File:Madrid - Sede de la Dirección General de Tráfico (DGT) — Wikimedia Commons 2.JPG)
+//   Zarateman , en 3.JPG) (CC0), en Wikimedia Commons.
+//   Diario de Madrid — . (CC BY 4.0) (File:Los vehículos sin etiqueta ambiental de la DGT no podrán circular por M-30 y centro de Madrid 01.jpg), Wikimedia Commons.
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/camaras-ocultas-de-la-dgt-para-movil-y-cinturon-como-funciona-el-gran-ojo-invisible-multas-de-200-euros-y-trucos-legales-para-recurrirlas-con-exito/
+//   Ingolfson (Public domain) (File:Traffic Lights And Surveillance Camera.jpg), Wikimedia Commons.
+//   Ymblanter (CC BY-SA 4.0) (File:Delft Voorhofdreef speed camera.jpg), Wikimedia Commons.
+//   ItzANormalFioko, en . (CC BY-SA 4.0) (File:Orange Italian Speed Camera.jpg), Wikimedia Commons.
+// Fotos 5/11/2026 (2ª oleada, multa-fantasma-testra-dgt-que-hacer): Zarateman (CC0) (File:Madrid - Sede del Boletín Oficial del Estado (BOE), Wikimedia Commons 1.JPG); Wikimedia Commons: Zarateman (CC0) 4.JPG); Zarateman (CC0), — Wikimedia Commons 5.JPG).
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/como-recurrir-multas-de-trafico-en-canarias-guia-legal-especifica-peculiaridades-insulares-plazos-y-recursos-en-las-islas/
+//   Marek Ślusarczyk (Tupungato) Photo portfolio (CC BY 3.0) (File:004 Masca road spectacular landscape in Tenerife, Canary Islands, Spain.jpg), Wikimedia Commons.
+//   vitsoft (CC BY 3.0) (File:Gran Canaria, road to Pico Bandama - panoramio.jpg), Wikimedia Commons.
+//   Marek Ślusarczyk (Tupungato) Photo portfolio . — (File:003 Tenerife road - volcanic landscape road in Teide National Park, Tenerife.jpg) (CC BY 3.0) [Wikimedia Commons]
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/multas-en-la-m-30-y-madrid-central-como-evitar-sanciones-y-recurrirlas-si-te-desplazas-por-la-capital/
+//   Américo Toledano — (File:Madrid M-30 - 005.jpg) (CC BY-SA 4.0) [Wikimedia Commons]
+//   LBM1948 (CC BY-SA 4.0) (File:Madrid, M-30 1981.jpg), Wikimedia Commons.
+//   María Sacristán . (CC BY-SA 4.0) (File:Madrid Río Obras15 Puente de Segovia mjsm 06.jpg), Wikimedia Commons.
+// Fotos (2ª oleada, 5/11/2026, robar-romper-radar-dgt-consecuencias): (File:Pont-sur-Yonne-FR-89-cinémomètre RN6 vandalisé-01.jpg) (CC BY-SA 4.0), de François GOGLINS, en Wikimedia Commons; Marc Mongenet (CC BY-SA 4.0) (File:Radar vandalisé smiley.jpg), Wikimedia Commons; Wikimedia Commons: François GOGLINS (CC BY-SA 4.0) (File:Sens-FR-89-cinémomètre RN6 vandalisé-01.jpg).
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/multas-de-trafico-en-el-extranjero-francia-portugal-italia-alemania-como-recurrir-multa-radar-extranjero-en-espana-conductor-extranjero-multado-en-espana-dgt-anular-multa-ztl-italia-antai-francia-convenio-intercambio-datos-trafico-union-europea/
+//   Chabe01 (CC BY-SA 4.0) (File:Radar Vitesse Autoroute A1 - Saint-Denis (FR93) — Wikimedia Commons - 2026-09-15 - 1.jpg)
+//   Marc Mongenet — (File:Radar de Clarafond-Arcine autoroute A40.jpg) (CC BY-SA 4.0) [Wikimedia Commons]
+//   Lucas Gallone lucasgallone — (File:Autoroute A7, Lyon, France (Unsplash) (CC0) [Wikimedia Commons].jpg).
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/llevas-la-nueva-luz-v16-conectada-en-el-coche-descubre-la-normativa-oficial-de-la-dgt-el-importe-de-las-multas-y-como-evitar-sanciones/
+//   HelpFlash Photos — (File:V16 - Help-Flash encendido sobre techo auto.jpg) (CC BY-SA 4.0) [Wikimedia Commons]
+//   HelpFlash Photos — (File:Help Flash 1998, Prototipo de ensayo funcional inicial.jpg) (CC BY-SA 4.0) [Wikimedia Commons]
+//   HelpFlash Photos, en . — (File:Help Flash Piccolo 2009.jpg) (CC BY-SA 4.0) [Wikimedia Commons]
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/autocaravanas-aparcar-norma-octubre/
+//   Hubert Berberich (HubiB) (CC BY-SA 3.0) (File:Wohnmobilstellplatz Bad Mergentheim.jpg), Wikimedia Commons.
+//   Hubert Berberich (HubiB) — (File:Wohnmobilstellplatz Bad Mergentheim - Mehrere parkende Wohnmobile.jpg) (CC BY-SA 3.0) [Wikimedia Commons]
+//   Elgaard , . (CC BY-SA 4.0) (File:WoMo stellplatz Scheßlitz pitch.jpg), Wikimedia Commons.
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/como-recurrir-multas-de-trafico-en-ceuta-y-melilla-guia-legal-especifica-plazos-peculiaridades-fronterizas-y-recursos-eficaces/
+//   Wikimedia Commons: This file is a work by Takashi kurita.Please, credit this: Álvaro C.E. (CC BY-SA 4.0)
+//   I would (File:Ceuta-20140923-00998.jpg)
+//   Diego Delso (CC BY-SA 4.0) (File:Fortaleza del Monte Hacho, Ceuta, España, 2015-12-10, DD 39.jpg), Wikimedia Commons.
+//   Mario Sánchez Bueno from Ceuta, España , — . (CC BY-SA 2.0) (File:Fuerte del Hacho, Ceuta.jpg), Wikimedia Commons.
+// Fotos (2ª oleada, 5/11/2026, deca-digital-obligatorio-5-octubre-2026): Wikimedia Commons, Public domain, Semi Sam
 
 
 
@@ -49,24 +115,56 @@
 
 
 
-// This work has been release (File:Qualcomm EOBR model MCP110 September 2011.png); Wikimedia Commons, Public domain, ErgoSum88 (File:Truck cab.JPG); Wikimedia Commons, CC BY-SA 4.0, Randy549 (File:Rand McNally TPC7600.JPG).
-// Fotos 5/11/2026 (2ª oleada, adelantar-ciclistas-nueva-norma-octubre): Wikimedia Commons, CC BY-SA 2.0, Rob Purvis (File:Car passing a cyclist on the A487, heading east - geograph.org.uk - 7218431.jpg); Wikimedia Commons, CC0, Markus Spiske markusspiske (File:Two cyclists race on road (Unsplash).jpg); Wikimedia Commons, CC BY-SA 2.0, Robert Lamb (File:View of a car and cyclist long exposure on Lambeth Bridge - geograph.org.uk - 4113277.jpg).
-// Fotos 5/11/2026 (2ª oleada, multas-de-aparcamiento-y-grua-en-madrid-): Wikimedia Commons, CC0, Retired electrician (File:Moscow, MAN TGL tow truck, June 2025 01.jpg); Wikimedia Commons, CC0, Retired electrician (File:Moscow, MAN TGL tow truck, June 2025 02.jpg); Wikimedia Commons, CC BY 4.0, Antti Leppänen (File:Scania tow truck Hinaus Haapanen.jpg).
-// Fotos 5/11/2026 (2ª oleada, falsa-multa-dgt-sms-correo-phishing): Wikimedia Commons, Public domain, Phó Nháy (File:Mobile phone spam Vi.jpg); Wikimedia Commons, CC0, POLANWOK Shingua (File:HK blue male uniform Linde Group n close up hand holding smartphone with gold chain September 2025 N13P.jpg); Wikimedia Commons, Public domain, Sgconlaw (File:Skewed screenshot from an iPhone.png).
-// Fotos 5/11/2026 (2ª oleada, te-ha-llegado-una-multa-de-la-dgt-o-de-u): Wikimedia Commons, CC BY-SA 4.0, Radom1967 (File:Vehicle registration plates in Europe.jpg); Wikimedia Commons, CC BY-SA 4.0, Lalpino (File:Mapa-euproplates.jpg); Wikimedia Commons, Public domain, MZaplotnik (File:Slovenian License Plates CoA CUT.png).
-// Fotos 5/11/2026 (2ª oleada, me-ha-llegado-una-multa-de-la-dgt-pero-e): Wikimedia Commons, CC BY 3.0, Arriva436 (File:Southern Vectis 593 R810 NUD and traffic warden 2.JPG); Wikimedia Commons, CC0, Jeromi Mikhael (File:Traffic warden in Jakarta 01.jpg); Wikimedia Commons, CC0, Jeromi Mikhael (File:Traffic warden in Jakarta 02.jpg).
-// Fotos 5/11/2026 (2ª oleada, ruedas-de-km0-chollo-o-timo-pros-contras): Wikimedia Commons, CC BY 2.0, Shixart1985 (File:Close view of worn tire showing tread patterns and dirt in a garage setting.jpg); Wikimedia Commons, CC BY-SA 4.0, Santeri Viinamäki (File:Car tire stack 20170516.jpg); Wikimedia Commons, CC BY 2.0, Shixart1985 (File:Old car with stacked tires in a junkyard.jpg).
-// Fotos 5/11/2026 (2ª oleada, entornos-escolares-seguros-octubre): Wikimedia Commons, CC BY-SA 4.0, Donald Trung (File:Elementary school crossing sign, Blijham (2018).jpg); Wikimedia Commons, CC BY-SA 4.0, DrStew82 (File:Deer Isle Maine deer crossing and school crossing sign.jpg); Wikimedia Commons, CC BY-SA 4.0, Wainuio (File:Sign-1110809, Wainuiomata, Wellington, New Zealand.jpg).
-// Fotos 5/11/2026 (2ª oleada, motos-arcen-atascos-nueva-norma): Wikimedia Commons, CC BY-SA 4.0, Ehimze Nathanael Chinedum (File:Lagos traffic pacification.jpg); Wikimedia Commons, CC BY 2.0, Mike (File:Motorbike jam Saigon Vietnam.jpg); Wikimedia Commons, CC BY-SA 2.0, David Hawgood (File:Motor cyclists arrive in Penzance car park - geograph.org.uk - 4057293.jpg).
-// Fotos 5/11/2026 (2ª oleada, multas-dgt): Wikimedia Commons, CC BY-SA 4.0, Dorieo (File:Automóvil de la Guardia Civil de Tráfico 02.jpg); Wikimedia Commons, CC0, Zarateman (File:Madrid - Sede de la Dirección General de Tráfico (DGT) 1.JPG); Wikimedia Commons, CC0, Zarateman (File:Madrid - Sede de la Dirección General de Tráfico (DGT) 4.JPG).
-// Fotos 5/11/2026 (2ª oleada, margenes-de-error-de-los-radares-de-la-d): Wikimedia Commons, CC BY-SA 3.0, 2008dago21 (File:Radar de inogés - panoramio.jpg); Wikimedia Commons, CC BY-SA 4.0, Asurnipal (File:Lingenau-L205-Speed camera-01ASD.jpg); Wikimedia Commons, CC BY-SA 4.0, Triplec85 (File:Speed camera in Bad Mergentheim.jpg).
-// Fotos 5/11/2026 (2ª oleada, prescripcion-y-caducidad-de-las-multas-d): Wikimedia Commons, CC BY-SA 4.0, CFA1877 (File:Furgoneta de Correos, Puente Genil.jpg); Wikimedia Commons, CC BY-SA 4.0, Mutney (File:Postman delivering to Greenbank, Helston, Cornwall - August 2022.jpg); Wikimedia Commons, CC BY-SA 2.0, michael ely (File:The postman delivering to Diglee - geograph.org.uk - 3989186.jpg).
-// Fotos 5/11/2026 (2ª oleada, nuevas-marcas-viales-en-forma-de-circulo): Wikimedia Commons, CC BY 4.0, -wuppertaler (File:ESP Tenerife, Adeje, Costa Adeje, Calle Agando 0001.jpg); Wikimedia Commons, CC BY-SA 4.0, Fry72 (Karel Frydrýšek) (File:Carretera Órzola (silnice Órzola), Haría, Lanzarote, Kanárské ostrovy 01.jpg); Wikimedia Commons, CC BY 4.0, -wuppertaler (File:ESP Tenerife, Adeje, Costa Adeje, Calle Agando 0002.jpg).
-// Fotos 5/11/2026 (2ª oleada, el-coche-te-vigila-obligatoriedad-del-si): Wikimedia Commons, CC0, Nathan Anderson nathananderson (File:Driving past a forest (Unsplash).jpg); Wikimedia Commons, CC BY 2.0, Shixart1985 (File:Gray car driving on a rainy day through a blurred windshield.jpg); Wikimedia Commons, CC BY 4.0, Everestnc (File:2019 Tesla Model 3 Performance Steering wheel and pedals.jpg).
-// Fotos 5/11/2026 (2ª oleada, patinetes-15-anos-casco-obligatorio): Wikimedia Commons, CC BY-SA 2.0, originallittlehellraiser (File:Little boy on mini micro 4731291463 806be59606 o.jpg); Wikimedia Commons, CC BY-SA 2.0, originallittlehellraiser (File:Little boy on mini micro 4731934680 937b344743 o.jpg); Wikimedia Commons, CC BY-SA 4.0, John Robert McPherson (File:Neuron e-scooter helmet The Domain QUT Gardens Point Rd Brisbane L1000442.jpg).
-// Fotos 5/11/2026 (2ª oleada, radares-velolaser-dgt-2026-que-son-donde): Wikimedia Commons, CC BY-SA 3.0, Laveaux (File:Pocket Radar Photo.jpg); Wikimedia Commons, CC BY-SA 2.0, Original work: Dennis van Zuijlekom from Ermelo, The Netherlands
-// Derivative work (File:Radar speed gun internal works.jpg); Wikimedia Commons, Public domain, Sergeev Pavel (File:USSR Radar gun 65.JPG).
-// Fotos 5/11/2026 (2ª oleada, te-van-a-multar-por-llevar-los-cristales): Wikimedia Commons, CC BY 2.5, The original uploader was Steevven1 at English Wikipedia. (File:Window tint car.jpg); Wikimedia Commons, CC BY-SA 3.0, User Adriano on it.wikipedia (File:Ferrari F40 with tinted glass.jpg).
+// This work has been release (File:Qualcomm EOBR model MCP110 September 2011.png); (File:Truck cab.JPG) de ErgoSum88 (Public domain), en Wikimedia Commons; Randy549 — (File:Rand McNally TPC7600.JPG) (CC BY-SA 4.0) [Wikimedia Commons].
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/adelantar-ciclistas-nueva-norma-octubre/
+//   Rob Purvis (CC BY-SA 2.0) (File:Car passing a cyclist on the A487, heading east - geograph.org.uk - 7218431.jpg), Wikimedia Commons.
+//   Markus Spiske markusspiske (CC0) (File:Two cyclists race on road (Unsplash) (Wikimedia Commons).jpg)
+//   Robert Lamb, en . (CC BY-SA 2.0) (File:View of a car and cyclist long exposure on Lambeth Bridge - geograph.org.uk - 4113277.jpg), Wikimedia Commons.
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/multas-de-aparcamiento-y-grua-en-madrid-como-recuperar-tu-coche-y-recurrir-la-sancion-con-exito/
+//   Retired electrician (CC0) (File:Moscow, MAN TGL tow truck, June 2025 01.jpg), Wikimedia Commons.
+//   Retired electrician (CC0), en Wikimedia Commons.
+//   Antti Leppänen , — . (CC BY 4.0) (File:Scania tow truck Hinaus Haapanen.jpg), Wikimedia Commons.
+// Fotos del 5/11/2026 (2ª oleada, falsa-multa-dgt-sms-correo-phishing): (File:Mobile phone spam Vi.jpg) de Phó Nháy (Public domain), en Wikimedia Commons; POLANWOK Shingua — (File:HK blue male uniform Linde Group n close up hand holding smartphone with gold chain September 2025 N13P.jpg) (CC0) [Wikimedia Commons]; (File:Skewed screenshot from an iPhone.png): Sgconlaw (Public domain) — en Wikimedia Commons.
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/te-ha-llegado-una-multa-de-la-dgt-o-de-un-pais-europeo-como-francia-alemania-italia-o-portugal/
+//   Radom1967 (CC BY-SA 4.0) (File:Vehicle registration plates in Europe.jpg), Wikimedia Commons.
+//   Wikimedia Commons: Lalpino (CC BY-SA 4.0) (File:Mapa-euproplates.jpg)
+//   MZaplotnik , . (Public domain) (File:Slovenian License Plates CoA CUT.png), Wikimedia Commons.
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/me-ha-llegado-una-multa-de-la-dgt-pero-el-conductor-no-era-yo-quien-paga-como-identificarlo-y-plazos-para-evitar-multas-triplicadas/
+//   Arriva436 (CC BY 3.0) (File:Southern Vectis 593 R810 NUD and traffic warden 2.JPG), Wikimedia Commons.
+//   Jeromi Mikhael (CC0) (File:Traffic warden in Jakarta 01.jpg), Wikimedia Commons.
+//   Wikimedia Commons: Jeromi Mikhael , en . (CC0) (File:Traffic warden in Jakarta 02.jpg)
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/ruedas-de-km0-chollo-o-timo-pros-contras-precios-reales-y-multas-por-neumaticos-caducados-o-gastados/
+//   Shixart1985 (CC BY 2.0) (File:Close view of worn tire showing tread patterns and dirt in a garage setting.jpg), Wikimedia Commons.
+//   Santeri Viinamäki (CC BY-SA 4.0) (File:Car tire stack 20170516.jpg), Wikimedia Commons.
+//   Shixart1985 . (CC BY 2.0) (File:Old car with stacked tires in a junkyard.jpg), Wikimedia Commons.
+// Fotos 5/11/2026 (2ª oleada, entornos-escolares-seguros-octubre): (File:Elementary school crossing sign, Blijham (2018) (CC BY-SA 4.0), de Donald Trung, en Wikimedia Commons.jpg); DrStew82 (CC BY-SA 4.0) (File:Deer Isle Maine deer crossing and school crossing sign.jpg), Wikimedia Commons; Wikimedia Commons: Wainuio (CC BY-SA 4.0) (File:Sign-1110809, Wainuiomata, Wellington, New Zealand.jpg).
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/motos-arcen-atascos-nueva-norma/
+//   Ehimze Nathanael Chinedum (CC BY-SA 4.0) (File:Lagos traffic pacification.jpg), Wikimedia Commons.
+//   Mike (CC BY 2.0) (File:Motorbike jam Saigon Vietnam.jpg), Wikimedia Commons.
+//   David Hawgood — . (CC BY-SA 2.0) (File:Motor cyclists arrive in Penzance car park - geograph.org.uk - 4057293.jpg), Wikimedia Commons.
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/multas-dgt/
+//   Wikimedia Commons: Dorieo (CC BY-SA 4.0)
+//   Zarateman 1.JPG) (CC0), en Wikimedia Commons.
+//   Zarateman, en 4.JPG). (CC0), en Wikimedia Commons.
+// Fotos (2ª oleada, 5/11/2026, margenes-de-error-de-los-radares-de-la-d): 2008dago21 (CC BY-SA 3.0) (File:Radar de inogés - panoramio.jpg), Wikimedia Commons; Wikimedia Commons: Asurnipal (CC BY-SA 4.0) (File:Lingenau-L205-Speed camera-01ASD.jpg); Triplec85 (CC BY-SA 4.0), (File:Speed camera in Bad Mergentheim.jpg) — Wikimedia Commons.
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/prescripcion-y-caducidad-de-las-multas-de-trafico-cuando-expira-una-sancion-de-la-dgt-plazos-legales-mitos-y-como-anular-expedientes-fuera-de-plazo/
+//   CFA1877 (CC BY-SA 4.0) (File:Furgoneta de Correos, Puente Genil.jpg), Wikimedia Commons.
+//   Mutney (CC BY-SA 4.0) (File:Postman delivering to Greenbank, Helston, Cornwall - August 2022.jpg), Wikimedia Commons.
+//   michael ely — en . (CC BY-SA 2.0) (File:The postman delivering to Diglee - geograph.org.uk - 3989186.jpg), Wikimedia Commons.
+// Fotos 5/11/2026 (2ª oleada, nuevas-marcas-viales-en-forma-de-circulo): -wuppertaler (CC BY 4.0) (File:ESP Tenerife, Adeje, Costa Adeje, Calle Agando 0001.jpg) (Wikimedia Commons); Wikimedia Commons, CC BY-SA 4.0, Fry72 (Karel Frydrýšek) (File:Carretera Órzola (silnice Órzola), Haría, Lanzarote, Kanárské ostrovy 01.jpg); (CC BY 4.0), de -wuppertaler, en Wikimedia Commons.
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/el-coche-te-vigila-obligatoriedad-del-sistema-addw-antidistracciones-camaras-de-control-de-mirada-y-multas-de-la-dgt/
+//   Nathan Anderson nathananderson (CC0) (File:Driving past a forest (Unsplash), Wikimedia Commons.jpg)
+//   Shixart1985 (CC BY 2.0) (File:Gray car driving on a rainy day through a blurred windshield.jpg), Wikimedia Commons.
+//   Everestnc , — . (CC BY 4.0) (File:2019 Tesla Model 3 Performance Steering wheel and pedals.jpg), Wikimedia Commons.
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/patinetes-15-anos-casco-obligatorio/
+//   originallittlehellraiser (CC BY-SA 2.0) (File:Little boy on mini micro 4731291463 806be59606 o.jpg), Wikimedia Commons.
+//   Wikimedia Commons: originallittlehellraiser (CC BY-SA 2.0)
+//   John Robert McPherson — en . (CC BY-SA 4.0) (File:Neuron e-scooter helmet The Domain QUT Gardens Point Rd Brisbane L1000442.jpg), Wikimedia Commons.
+// Fotos (2ª oleada, 5/11/2026, radares-velolaser-dgt-2026-que-son-donde): Laveaux (CC BY-SA 3.0) (File:Pocket Radar Photo.jpg) (Wikimedia Commons); Wikimedia Commons, CC BY-SA 2.0, Original work: Dennis van Zuijlekom from Ermelo, The Netherlands
+// Derivative work (File:Radar speed gun internal works.jpg); (File:USSR Radar gun 65.JPG) (Public domain), de Sergeev Pavel, en Wikimedia Commons.
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/te-van-a-multar-por-llevar-los-cristales-delanteros-tintados-lo-que-la-dgt-no-te-cuenta-multas-de-infarto-y-por-que-te-tiran-en-la-itv/
+//   The original uploader was Steevven1 at English Wikipedia. (CC BY 2.5) (File:Window tint car.jpg), Wikimedia Commons.
+//   User Adriano on it.wikipedia . (CC BY-SA 3.0) (File:Ferrari F40 with tinted glass.jpg), Wikimedia Commons.
 import type { BlogPost } from "./blog-data.ts";
 
 export const DB_POSTS: BlogPost[] = [

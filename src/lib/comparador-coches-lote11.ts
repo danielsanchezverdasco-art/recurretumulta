@@ -152,7 +152,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
     pros: [
       "367 CV traseros (595 CV el AWD): la berlina china que mira al Tesla Model 3",
       "Hasta 820 km CLTC con la batería de 92,2 kWh y arquitectura de 800 V",
-      "Carga ultrarrápida 5C: del 10 al 80 % en unos 11 minutos (anuncio de octubre de 2026)",
+      "Carga ultrarrápida 5C: pasa del 10 al 80 % en aproximadamente 11 minutos (anuncio de octubre de 2026)",
       "10.000 pedidos en 7 minutos en China: el lanzamiento eléctrico del año",
       "5,02 metros con batalla de 3,01 m: habitabilidad de berlina grande",
     ],

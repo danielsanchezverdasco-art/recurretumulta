@@ -2355,7 +2355,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "benimar-tessoro-463-up-2026-precio-ficha-tecnica",
     "title": "Benimar Tessoro 463 UP 2026: precio, ficha técnica y 5 plazas",
-    "excerpt": "Precio y ficha de la Benimar Tessoro 463 UP 2026: la autocaravana más vendida de España, 5 plazas, carnet B, 7,48 m y chasis Ford Transit desde ~66.000 €.",
+    "excerpt": "La Benimar Tessoro 463 UP 2026, la autocaravana más vendida de España: 5 plazas, carnet B, 7,48 m y chasis Ford Transit desde ~66.000 €. Precio y ficha completa.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -2373,8 +2373,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "adria-matrix-plus-670-sl-2026-precio-ficha-tecnica",
-    "title": "Adria Matrix Plus 670 SL 2026: precio, ficha técnica y 4 plazas",
-    "excerpt": "Precio y ficha de la Adria Matrix Plus 670 SL 2026: perfilada eslovena de 7,49 m, 4 plazas, camas gemelas, Fiat Ducato 140 CV y carnet B desde ~79.000 €.",
+    "title": "Adria Matrix Plus 670 SL 2026: precio, ficha técnica y plazas para 4",
+    "excerpt": "Adria Matrix Plus 670 SL 2026: la perfilada de Adria (Eslovenia) mide 7,49 m, tiene 4 plazas, camas gemelas y Fiat Ducato de 140 CV. Basta el carnet B para conducirla y parte de ~79.000 €. Ficha y pre",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -2393,7 +2393,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "dethleffs-trend-t-7057-eb-2026-precio-ficha-tecnica",
     "title": "Dethleffs Trend T 7057 EB 2026: precio, ficha técnica y 5 plazas",
-    "excerpt": "Precio y ficha de la Dethleffs Trend T 7057 EB: perfilada alemana de 7,41 m, 5 plazas, camas gemelas, Fiat Ducato 140 CV y carnet B desde ~75.000 €.",
+    "excerpt": "Dethleffs Trend T 7057 EB: perfilada alemana de 7,41 m y 5 plazas con camas gemelas, sobre Fiat Ducato 140 CV. Para conducirla basta el carnet B y parte de unos ~75.000 €: míralo en su ficha.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -2407,12 +2407,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Dethleffs vs Benimar",
       "autocaravana alemana carnet B"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "hymer-b-mc-i-580-2026-precio-ficha-tecnica",
     "title": "Hymer B-Class ModernComfort I 580 2026: precio y ficha técnica",
-    "excerpt": "Precio y ficha de la Hymer B-Class ModernComfort I 580: integral premium sobre Mercedes Sprinter 150 CV, 5 plazas y carnet B por 138.990 €.",
+    "excerpt": "Hymer B-Class ModernComfort I 580: integral premium sobre Mercedes Sprinter de 150 CV, con 5 plazas y carnet B, por 138.990 €. Precio y ficha.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -2431,7 +2431,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "knaus-boxstar-600-dq-2026-precio-ficha-tecnica",
     "title": "Knaus BoxStar 600 DQ 2026: precio, ficha técnica y camper 6 m",
-    "excerpt": "Precio y ficha de la Knaus BoxStar 600 DQ: camper de 5,99 m sobre Fiat Ducato 140 CV, cama transversal, baño con ducha y carnet B desde ~77.000 €.",
+    "excerpt": "Knaus BoxStar 600 DQ: camper de 5,99 m con el Fiat Ducato de 140 CV, cama transversal y baño con ducha; carnet B, desde ~77.000 €. Su precio y su ficha.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -2445,12 +2445,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "BoxStar vs Pössl",
       "camper 2 plazas baño ducha"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "burstner-lyseo-td-594-2026-precio-ficha-tecnica",
     "title": "Bürstner Lyseo TD 594 2026: precio, ficha técnica y 4 plazas",
-    "excerpt": "Precio y ficha de la Bürstner Lyseo TD 594: perfilada compacta de 5,99 m, 4 plazas, cama abatible, Fiat Ducato 140 CV y carnet B desde ~85.000 €.",
+    "excerpt": "Bürstner Lyseo TD 594: perfilada compacta de 5,99 m y 4 plazas con cama abatible, sobre Fiat Ducato 140 CV. Desde ~85.000 € con el carnet B: ficha y precio.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -2469,7 +2469,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "volkswagen-california-ocean-2026-precio-ficha-tecnica",
     "title": "Volkswagen California Ocean 2026: precio, ficha técnica y 4 plazas",
-    "excerpt": "Precio y ficha del Volkswagen California Ocean T7 2026: la camper original, 4 plazas, techo elevable, 2.0 TDI 150 CV DSG y carnet B desde ~75.500 €.",
+    "excerpt": "Volkswagen California Ocean T7 2026: la camper original, con 4 plazas, techo elevable y 2.0 TDI 150 CV DSG; carnet B, desde ~75.500 €. Precio y ficha.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -2488,7 +2488,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "ford-nugget-plus-2026-precio-ficha-tecnica",
     "title": "Ford Nugget Plus 2026: precio, ficha técnica y 4 plazas",
-    "excerpt": "Precio y ficha del Ford Nugget Plus 2026: camper Westfalia sobre Tourneo Custom, 4 plazas, techo elevable, diésel o PHEV de 233 CV y carnet B desde ~75.000 €.",
+    "excerpt": "Ford Nugget Plus 2026: camper Westfalia sobre Tourneo Custom, 4 plazas y techo elevable, en diésel o PHEV de 233 CV. Carnet B y precios desde ~75.000 € en la ficha.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -2507,7 +2507,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "adria-coral-xl-670-dk-2026-precio-ficha-tecnica",
     "title": "Adria Coral XL 670 DK 2026: precio, ficha y 7 plazas",
-    "excerpt": "Precio y ficha de la Adria Coral XL 670 DK 2026: capuchina familiar de 7,79 m, 7 plazas, literas traseras, Fiat Ducato 140 CV y carnet B desde ~85.000 €.",
+    "excerpt": "Adria Coral XL 670 DK 2026: capuchina familiar de 7,79 m con 7 plazas y literas traseras, sobre Fiat Ducato 140 CV; carnet B, desde ~85.000 €. Ficha y precio.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -2526,7 +2526,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "dethleffs-globebus-t-6-2026-precio-ficha-tecnica",
     "title": "Dethleffs Globebus T 6 2026: precio, ficha y 4 plazas",
-    "excerpt": "Precio y ficha de la Dethleffs Globebus T 6 2026: perfilada compacta alemana de 6,98 m, camas gemelas, Fiat Ducato 140 CV y carnet B desde ~77.000 €.",
+    "excerpt": "Dethleffs Globebus T 6 2026: perfilada compacta alemana de 6,98 m con camas gemelas y Fiat Ducato 140 CV; se lleva con el carnet B desde ~77.000 €. Precio y ficha.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -2540,12 +2540,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Globebus T 6 vs Trend",
       "autocaravana 7 metros carnet B"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "rapido-666f-2026-precio-ficha-tecnica",
     "title": "Rapido 666F 2026: precio, ficha técnica y 4 plazas",
-    "excerpt": "Precio y ficha del Rapido 666F 2026: perfilada francesa de 7,49 m, camas gemelas, techo SKYVIEW, Fiat Ducato 140 CV y carnet B desde ~76.500 €.",
+    "excerpt": "Rapido 666F 2026: perfilada francesa de 7,49 m con camas gemelas y techo SKYVIEW, sobre Fiat Ducato 140 CV, con carnet B y precios desde ~76.500 €. Su ficha y su precio.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -2564,7 +2564,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "hymer-ml-t-570-crossover-2026-precio-ficha-tecnica",
     "title": "Autocaravana 190 CV con tracción 4x4: precio y ficha técnica",
-    "excerpt": "Precio y ficha del Hymer ML-T 570 CrossOver 2026: perfilada Mercedes Sprinter 190 CV, 4.100 kg de MMA, 4x4 opcional y camas gemelas desde ~162.740 €.",
+    "excerpt": "Hymer ML-T 570 CrossOver 2026: perfilada sobre Mercedes Sprinter de 190 CV, con 4.100 kg de MMA, 4x4 opcional y camas gemelas, desde ~162.740 €. Ficha y precio.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -2583,7 +2583,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "knaus-sky-wave-650-meg-2026-precio-ficha-tecnica",
     "title": "Perfilada 4 plazas con cama abatible: precio y ficha técnica",
-    "excerpt": "Precio y ficha del Knaus Sky Wave 650 MEG 2026: perfilada Fiat Ducato 140 CV, camas gemelas, cama abatible, 4 plazas y carnet B desde ~75.000 €.",
+    "excerpt": "Knaus Sky Wave 650 MEG 2026: perfilada con Fiat Ducato 140 CV, camas gemelas, cama abatible y 4 plazas; carnet B, desde ~75.000 €. Precio y ficha completa.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -2602,7 +2602,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "burstner-nexxo-van-t-569-2026-precio-ficha-tecnica",
     "title": "Perfilada compacta de 5,99 m: precio y ficha técnica",
-    "excerpt": "Precio y ficha del Bürstner Nexxo Van T 569 2026: perfilada compacta de 5,99 m, camas gemelas de 200 cm, 140 CV y carnet B desde 61.980 €.",
+    "excerpt": "Bürstner Nexxo Van T 569 2026: la perfilada más compacta de Bürstner mide 5,99 m, lleva camas gemelas de 200 cm y 140 CV; carnet B, desde 61.980 €. Su precio y su ficha.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -2616,12 +2616,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "autocaravana barata carnet B",
       "Nexxo Van camper o perfilada"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "pilote-p-696-gj-2026-precio-ficha-tecnica",
     "title": "Perfilada 5 plazas con camas gemelas: precio y ficha técnica",
-    "excerpt": "Precio y ficha del Pilote P 696 GJ 2026: perfilada francesa de 6,99 m, camas gemelas, 5 plazas, Fiat Ducato 140 CV y carnet B desde ~75.000 €.",
+    "excerpt": "Pilote P 696 GJ 2026: la perfilada de Pilote (Francia) mide 6,99 m, lleva camas gemelas y 5 plazas, con Fiat Ducato 140 CV. Con el carnet B, desde ~75.000 €. Ficha y precio.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -2640,7 +2640,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "benimar-mileo-282-2026-precio-ficha-tecnica",
     "title": "Benimar Mileo 282 2026: precio, ficha técnica y salón en U",
-    "excerpt": "Precio y ficha de la Benimar Mileo 282 2026: perfilada de 7,39 m con salón en U, cama basculante eléctrica y Fiat Ducato 140 CV desde ~70.000 €.",
+    "excerpt": "Benimar Mileo 282 2026: la perfilada de Benimar mide 7,39 m y presume de salón en U y cama basculante eléctrica, con el Fiat Ducato 140 CV, desde ~70.000 €. Precio y ficha.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -2659,7 +2659,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "challenger-v-217-2026-precio-ficha-tecnica",
     "title": "Challenger V 217 2026: precio, ficha técnica y camas gemelas",
-    "excerpt": "Precio y ficha del Challenger V 217 2026: furgoneta camper de 6,36 m con camas individuales traseras, Fiat Ducato 140 CV y 4 plazas desde ~65.000 €.",
+    "excerpt": "Challenger V 217 2026: furgoneta camper de 6,36 m con camas individuales traseras y Fiat Ducato 140 CV; 4 plazas desde ~65.000 €. Ficha y precio.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -2678,7 +2678,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "mclouis-menfys-3-s-line-2026-precio-ficha-tecnica",
     "title": "McLouis Menfys 3 S-Line 2026: precio, ficha y 4 plazas",
-    "excerpt": "Precio y ficha del McLouis Menfys 3 S-Line 2026: camper de 5,99 m con 4 plazas homologadas, calefacción diésel y Fiat Ducato 140 CV desde ~55.490 €.",
+    "excerpt": "McLouis Menfys 3 S-Line 2026: la camper de McLouis mide 5,99 m, homologa 4 plazas y lleva calefacción diésel y el Fiat Ducato 140 CV, desde ~55.490 €. Precio y ficha.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
@@ -2692,7 +2692,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Menfys S-Line plazas",
       "furgoneta camper Fiat Ducato"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "adria-coral-plus-670-sl-precio-ficha-tecnica",
@@ -12605,7 +12605,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "xpeng-p7-2025-nueva-generacion-precio-ficha-tecnica",
     "title": "Nuevo XPeng P7: carga en 11 minutos y llega a Europa",
-    "excerpt": "XPeng confirma que el nuevo P7 llegará a Europa: 367 CV, 800 V y carga del 10 al 80 % en 11 minutos. Sin fecha, precio ni países confirmados.",
+    "excerpt": "El nuevo P7 llegará a Europa, según confirma XPeng: 367 CV, 800 V y una carga que pasa del 10 al 80 % en 11 minutos. Sin fecha, precio ni países confirmados.",
     "category": "Novedades Motor",
     "date": "2026-10-26",
     "locale": "all",
@@ -14782,7 +14782,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "bmw-m4-competition-precio-ficha-tecnica",
     "title": "BMW M4 Competition: precio, 510 CV, 650 Nm y 3,9 s",
-    "excerpt": "El BMW M4 Competition entrega 510 CV y 650 Nm con un 0-100 en 3,9 s desde 100.000 €. La referencia del coupé deportivo, a fondo en esta ficha-blog.",
+    "excerpt": "El BMW M4 Competition entrega 510 CV y 650 Nm: el 0-100 lo despacha en 3,9 s y parte de 100.000 €. La referencia del coupé deportivo, a fondo en esta ficha-blog.",
     "category": "Novedades Motor",
     "date": "2026-10-20",
     "locale": "all",
@@ -16176,7 +16176,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "caravana familiar barata",
       "Sassino 470 K vs 430 D"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "lmc-style-450-d-2026-precio-ficha-tecnica-analisis-opinion",
@@ -16347,7 +16347,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "MMA 1186 kg",
       "carnet B caravana"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "bailey-phoenix-black-644-2026-precio-ficha-tecnica-analisis-opinion",
@@ -16385,7 +16385,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Bailey Pegasus 2026",
       "caravana ancha un eje"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "bailey-pegasus-black-messina-2026-precio-ficha-tecnica-analisis-opinion",
@@ -16485,7 +16485,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "swift-challenger-580-2026-precio-ficha-tecnica-analisis-opinion",
     "title": "Swift Challenger 580 2026: precio, cama isla y 1.510 kg",
-    "excerpt": "La Swift Challenger 580 2026 cuesta 30.095 £ (~35.717 €, tarifa Reino Unido): 4 plazas con cama isla transversal, 1.510 kg y Truma CombiNeo.",
+    "excerpt": "La Swift Challenger 580 2026 cuesta 30.095 £ (~35.717 €, tarifa Reino Unido): con 4 plazas y cama isla transversal, 1.510 kg y Truma CombiNeo.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -16632,12 +16632,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Caravelair Alba 2026",
       "caravana sin carnet especial"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "caravelair-alba-400-2026-precio-ficha-tecnica-analisis-opinion",
     "title": "Caravelair Alba 400 2026: precio, ficha técnica y 4 plazas",
-    "excerpt": "La Caravelair Alba 400 2026 cuesta desde 17.490 €: 4 plazas, PTAC de 950 kg ampliable a 1.300 kg y WC de cassette. Ficha técnica y análisis.",
+    "excerpt": "La Caravelair Alba 400 2026 cuesta desde 17.490 €: PTAC de 950 kg (ampliable a 1.300 kg), 4 plazas y WC de cassette. Ficha técnica y análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -16651,12 +16651,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Caravelair Alba 2026",
       "caravana familiar ligera"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "caravelair-alba-460-2026-precio-ficha-tecnica-analisis-opinion",
     "title": "Caravelair Alba 460 2026: precio y 6,95 m de caravana",
-    "excerpt": "La Caravelair Alba 460 2026, desde 19.490 €, es la Alba más grande: 6,95 m, 5 m interiores, 4 plazas y PTAC de 1.100 kg. Ficha y opinión.",
+    "excerpt": "La Caravelair Alba 460 2026, desde 19.490 €, es la Alba más grande: 6,95 m, 5 m interiores, PTAC de 1.100 kg y 4 plazas. Ficha y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -16713,7 +16713,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "fendt-bianco-activ-560-skm-2026-precio-ficha-tecnica-analisis-opinion",
     "title": "Fendt Bianco Activ 560 SKM 2026: precio, 5 plazas y 1.800 kg",
-    "excerpt": "La Fendt Bianco Activ 560 SKM 2026 parte de 36.090 €: 5 plazas, literas traseras, 1.800 kg de MMA y carnet B. Análisis completo con ficha y opinión.",
+    "excerpt": "Desde 36.090 €, la Fendt Bianco Activ 560 SKM 2026 ofrece 5 plazas con literas traseras, 1.800 kg de MMA y carnet B: cifras, ficha y nuestra opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
     "locale": "all",
@@ -16765,7 +16765,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Fendt Tendenza 2026",
       "caravana cama francesa"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "fendt-diamant-650-gdw-2026-precio-ficha-tecnica-analisis-opinion",
@@ -16898,7 +16898,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Dethleffs Beduin 2026",
       "caravana invierno"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "changan-e06-2026-precio-ficha-tecnica",
@@ -25478,7 +25478,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "dacia-duster-hybrid-2024-precio-y-opinion",
     "title": "Dacia Duster Hybrid 140: precio, 140 CV, 5,0 l y ECO",
-    "excerpt": "El Dacia Duster Hybrid 140 es el SUV híbrido más barato de su tamaño: 140 CV, 5,0 l/100 km y etiqueta ECO desde 26.290 €. Análisis completo.",
+    "excerpt": "El Dacia Duster Hybrid 140, a fondo: el SUV híbrido con el precio más bajo de su tamaño, 140 CV, 5,0 l/100 km y etiqueta ECO desde 26.290 €.",
     "category": "Novedades Motor",
     "date": "2026-10-20",
     "locale": "all",
@@ -25496,7 +25496,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "dacia-jogger-hybrid-2024-precio-y-opinion",
     "title": "Dacia Jogger Hybrid 140: precio, 7 plazas, 4,7 l y ECO",
-    "excerpt": "El Dacia Jogger Hybrid 140 ofrece 7 plazas híbridas, 4,7 l/100 km y 607 l de maletero desde 25.050 €. El familiar imbatible en precio, a fondo.",
+    "excerpt": "El Dacia Jogger Hybrid 140 ofrece 7 plazas híbridas y un maletero de 607 l, con 4,7 l/100 km, desde 25.050 €. El familiar imbatible en precio, a fondo.",
     "category": "Novedades Motor",
     "date": "2026-10-20",
     "locale": "all",
@@ -27266,7 +27266,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
-    "heroSrc": "/media/fotos-reales/zero-s-2025-ficha-tecnica-precio",
+    "heroSrc": "/media/fotos-reales/zero-s-2025-ficha-tecnica-precio/zero-s-2025-ficha-tecnica-precio-real-1.webp",
     "heroAlt": "Zero S vs Can-Am Pulse 2026 — fotografía del modelo",
     "keywords": [
       "Zero S vs Can-Am Pulse",
@@ -27304,7 +27304,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
-    "heroSrc": "/media/fotos-reales/flying-flea-c6-moto-electrica-royal-enfield-5990-euros",
+    "heroSrc": "/media/fotos-reales/flying-flea-c6-moto-electrica-royal-enfield-5990-euros/flying-flea-c6-moto-electrica-royal-enfield-5990-euros-1.webp",
     "heroAlt": "C6 vs CUV e: vs NQi Sport: la eléctrica urbana ideal — fotografía del modelo",
     "keywords": [
       "moto eléctrica urbana cual comprar",
@@ -27385,7 +27385,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
-    "heroSrc": "/media/fotos-reales/xpeng-g6-2025-precio-espana",
+    "heroSrc": "/media/fotos-reales/xpeng-g6-2025-precio-espana/xpeng-g6-2025-precio-espana-1.webp",
     "heroAlt": "XPeng G6 2026 vs Tesla Model Y — fotografía del modelo",
     "keywords": [
       "XPeng G6 vs Tesla Model Y",
@@ -30640,7 +30640,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "honda-jazz-ehev-precio-ficha-tecnica",
     "title": "Honda Jazz e:HEV: precio, 122 CV, 4,6 l y Magic Seats",
-    "excerpt": "El Honda Jazz e:HEV ofrece 122 CV híbridos, 4,6 l/100 km y los asientos Magic Seats más prácticos del segmento desde 24.600 € con etiqueta ECO.",
+    "excerpt": "El Honda Jazz e:HEV ofrece un sistema híbrido de 122 CV, los asientos Magic Seats más prácticos del segmento y 4,6 l/100 km desde 24.600 € con etiqueta ECO.",
     "category": "Novedades Motor",
     "date": "2026-10-20",
     "locale": "all",
@@ -30658,7 +30658,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "honda-civic-ehev-precio-ficha-tecnica",
     "title": "Honda Civic e:HEV 2026: precio, 184 CV y 4,7 l/100 km",
-    "excerpt": "El Honda Civic e:HEV combina 184 CV y 315 Nm con un consumo de 4,7 l/100 km y 5 estrellas Euro NCAP desde 33.400 €. El híbrido rápido que no gasta.",
+    "excerpt": "El Honda Civic e:HEV combina 184 CV y 315 Nm, gasta 4,7 l/100 km y suma 5 estrellas Euro NCAP desde 33.400 €. El híbrido rápido que no gasta.",
     "category": "Novedades Motor",
     "date": "2026-10-20",
     "locale": "all",
@@ -31582,7 +31582,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "hyundai-kona-hybrid-138-precio-ficha-tecnica",
     "title": "Hyundai Kona Hybrid 138: precio y 466 l de maletero",
-    "excerpt": "El Hyundai Kona Hybrid 138 CV lidera su clase en maletero (466 l) con 4,6 l/100 km y etiqueta ECO desde 34.290 €. Análisis completo y ficha.",
+    "excerpt": "El Hyundai Kona Hybrid 138 CV lidera su clase en maletero (466 l) con un consumo de 4,6 l/100 km y etiqueta ECO desde 34.290 €. Análisis completo y ficha.",
     "category": "Novedades Motor",
     "date": "2026-10-20",
     "locale": "all",
@@ -33319,7 +33319,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "kia-sportage-hev-239-precio-ficha-tecnica",
     "title": "Kia Sportage HEV 239: precio, 239 CV y maletero de 587 l",
-    "excerpt": "El Kia Sportage HEV es el híbrido más potente de su segmento: 239 CV, 0-100 en 7,9 s y 587 l de maletero desde 35.131 € con 5 estrellas Euro NCAP.",
+    "excerpt": "El Kia Sportage HEV manda entre los híbridos de su segmento: 239 CV, 0-100 en 7,9 s y 587 l de maletero desde 35.131 € con 5 estrellas Euro NCAP.",
     "category": "Novedades Motor",
     "date": "2026-10-20",
     "locale": "all",
@@ -42666,7 +42666,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "suv 530 cv precio españa",
       "grecale trofeo prueba video"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "maserati-grecale-folgore-2027-precio-ficha-tecnica",
@@ -45073,7 +45073,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-04",
     "locale": "all",
-    "heroSrc": "/media/fotos-reales/flying-flea-c6-moto-electrica-royal-enfield-5990-euros",
+    "heroSrc": "/media/fotos-reales/flying-flea-c6-moto-electrica-royal-enfield-5990-euros/flying-flea-c6-moto-electrica-royal-enfield-5990-euros-1.webp",
     "heroAlt": "Flying Flea C6: la eléctrica de Royal Enfield por 5.990 € — fotografía del modelo",
     "keywords": [
       "Flying Flea C6 precio España",
@@ -61047,8 +61047,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "heroAlt": "Kymco Downtown 350 GT 2024, scooter GT de 321 cc",
     "keywords": [
       "kymco downtown 350 gt",
-      "downtown 350 gt precio",
       "kymco downtown 350 gt 2024",
+      "downtown 350 gt precio",
       "scooter gt 350",
       "downtown 350 gt consumo",
       "kymco 350 españa",
@@ -65169,7 +65169,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "honda-cb300r-2026-ficha-tecnica-precio",
     "title": "Honda CB300R 2026: precio y ficha",
-    "excerpt": "Honda CB300R: 23,1 kW (31,4 CV), 27,5 Nm, ABS con IMU y carnet A2. Datos de Honda España; ya no se comercializa en España y no hay PVP oficial vigente.",
+    "excerpt": "Honda CB300R: 23,1 kW (31,4 CV), 27,5 Nm, ABS con IMU y carnet A2. Datos de Honda España; ya no se vende en España ni hay PVP oficial vigente.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
@@ -67262,11 +67262,11 @@ export const BLOG_LITE: BlogLitePost[] = [
     "heroSrc": "",
     "heroAlt": "",
     "keywords": [
-      "Kymco Downtown 350 GT",
-      "Downtown 350 GT precio",
-      "Kymco Downtown 350 ficha",
+      "Downtown 350 GT opiniones",
       "maxiscooter 350 2024",
-      "Downtown 350 GT opiniones"
+      "Kymco Downtown 350 GT",
+      "Kymco Downtown 350 ficha",
+      "Downtown 350 GT precio"
     ],
     "readTime": 1
   },
@@ -68724,7 +68724,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/fotos-reales/nami-burn-e-2-max",
+    "heroSrc": "/media/fotos-reales/nami-burn-e-2-max/nami-burn-e-2-max-1.webp",
     "heroAlt": "nami burn e 3 max — fotografía del modelo",
     "keywords": [
       "nami burn-e 3 max",
@@ -68747,7 +68747,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/fotos-reales/nami-burn-e-2-max",
+    "heroSrc": "/media/fotos-reales/nami-burn-e-2-max/nami-burn-e-2-max-1.webp",
     "heroAlt": "nami burn e 3 — fotografía del modelo",
     "keywords": [
       "nami burn-e 3",
@@ -68770,7 +68770,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/fotos-reales/nami-klima",
+    "heroSrc": "/media/fotos-reales/nami-klima/nami-klima-real-0.webp",
     "heroAlt": "nami klima — fotografía del modelo",
     "keywords": [
       "nami klima",
@@ -68793,7 +68793,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/fotos-reales/nami-klima-max",
+    "heroSrc": "/media/fotos-reales/nami-klima-max/nami-klima-max-real-0.webp",
     "heroAlt": "nami klima max — fotografía del modelo",
     "keywords": [
       "nami klima max",
@@ -68816,7 +68816,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/fotos-reales/nami-blast",
+    "heroSrc": "/media/fotos-reales/nami-blast/nami-blast-real-0.webp",
     "heroAlt": "nami blast — fotografía del modelo",
     "keywords": [
       "nami blast",
@@ -68839,7 +68839,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/fotos-reales/nami-blast-max",
+    "heroSrc": "/media/fotos-reales/nami-blast-max/nami-blast-max-real-0.webp",
     "heroAlt": "nami blast max — fotografía del modelo",
     "keywords": [
       "nami blast max",
@@ -69161,7 +69161,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/fotos-reales/hiboy-s2",
+    "heroSrc": "/media/fotos-reales/hiboy-s2/hiboy-s2-real-1.webp",
     "heroAlt": "hiboy s2 lite — fotografía del modelo",
     "keywords": [
       "hiboy s2 lite",
@@ -69299,7 +69299,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/fotos-reales/hiboy-ks4-pro",
+    "heroSrc": "/media/fotos-reales/hiboy-ks4-pro/hiboy-ks4-pro-real-1.webp",
     "heroAlt": "hiboy ks4 — fotografía del modelo",
     "keywords": [
       "hiboy ks4",
@@ -72327,7 +72327,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/fotos-reales/niu-kqi1-pro",
+    "heroSrc": "/media/fotos-reales/niu-kqi1-pro/niu-kqi1-pro-real-1.webp",
     "heroAlt": "NIU KQi1 Sport: 14,6 kg con calidad NIU — fotografía del modelo",
     "keywords": [
       "niu kqi1 sport precio",
@@ -79520,11 +79520,11 @@ export const BLOG_LITE: BlogLitePost[] = [
       "himalayan 750 reservas europa",
       "royal enfield himalayan 750 españa"
     ],
-    "readTime": 10
+    "readTime": 11
   },
   {
     "slug": "zero-ls3-2027-ficha-tecnica-precio",
-    "title": "Zero LS3 2027: 150 km de autonomía y 120 km/h por 6.925 €",
+    "title": "Zero LS3 2027 por 6.925 €: 150 km de autonomía y 120 km/h",
     "excerpt": "La Zero LS3 debuta en Europa en EICMA 2026: scooter eléctrico con 150 km de autonomía, 120 km/h de punta y tres baterías de 5,6 kWh, por 6.925 €.",
     "category": "Novedades Motor",
     "date": "2026-11-03",
@@ -79558,7 +79558,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "renault 75 años españa",
       "ediciones limitadas renault españa"
     ],
-    "readTime": 9
+    "readTime": 10
   },
   {
     "slug": "bmw-m-1000-rs-2027-ficha-tecnica-precio",
@@ -79601,7 +79601,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "ducati-panigale-v4-sp-2027-ficha-tecnica-precio",
     "title": "Ducati Panigale V4 SP 2027: 218 CV por 47.890 € en marzo",
-    "excerpt": "La Ducati Panigale V4 SP 2027 llega en marzo con 218 CV, cambio de carreras, embrague en seco y llantas de carbono: serie numerada por 47.890 €.",
+    "excerpt": "Serie numerada por 47.890 €: la Ducati Panigale V4 SP 2027 llega en marzo con 218 CV, cambio de carreras y llantas de carbono, con embrague en seco.",
     "category": "Novedades Motor",
     "date": "2026-11-04",
     "locale": "es",
@@ -79615,7 +79615,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ducati panigale v4 sp llantas carbono",
       "ducati panigale v4 sp marzo 2027"
     ],
-    "readTime": 18
+    "readTime": 17
   },
   {
     "slug": "ducati-panigale-v2-sp-2027-ficha-tecnica-precio",
@@ -79634,7 +79634,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ducati panigale v2 sp embrague en seco",
       "ducati panigale v2 sp winter test"
     ],
-    "readTime": 15
+    "readTime": 16
   },
   {
     "slug": "byd-seagull-2026-segunda-generacion-precio",
@@ -81806,7 +81806,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "skoda-octavia-15-tsi-mhev-precio-ficha-tecnica",
     "title": "Skoda Octavia 1.5 TSI mHEV: precio, 600 l y 5,0 l/100",
-    "excerpt": "El Skoda Octavia 1.5 TSI mHEV ofrece 600 l de maletero, 5,0 l/100 km, etiqueta ECO y 5 estrellas Euro NCAP desde 35.200 €. Análisis completo.",
+    "excerpt": "A fondo: el Skoda Octavia 1.5 TSI mHEV ofrece 600 l de maletero, un consumo de 5,0 l/100 km y 5 estrellas Euro NCAP con etiqueta ECO desde 35.200 €.",
     "category": "Novedades Motor",
     "date": "2026-10-20",
     "locale": "all",
@@ -81824,7 +81824,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "skoda-superb-15-tsi-mhev-precio-ficha-tecnica",
     "title": "Skoda Superb 1.5 TSI mHEV: precio, 150 CV, 645 l y ECO",
-    "excerpt": "El Skoda Superb 1.5 TSI mHEV ofrece 150 CV, 645 l de maletero, espacio de limusina y 5,2 l/100 km desde 47.000 €. La berlina grande sensata.",
+    "excerpt": "Berlina grande y sensata: el Skoda Superb 1.5 TSI mHEV ofrece 150 CV, 645 l de maletero, espacio de limusina y 5,2 l/100 km desde 47.000 €.",
     "category": "Novedades Motor",
     "date": "2026-10-20",
     "locale": "all",
@@ -84270,7 +84270,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-20",
     "locale": "all",
     "heroSrc": "/media/volkswagen-passat-variant-15-etsi.webp",
-    "heroAlt": "Volkswagen Passat Variant 1.5 eTSI en una carretera de viajes",
+    "heroAlt": "Volkswagen Passat Variant 1.5 eTSI de viaje por carretera",
     "keywords": [
       "volkswagen passat variant 1.5 etsi precio",
       "passat variant maletero 690",
@@ -84288,7 +84288,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-20",
     "locale": "all",
     "heroSrc": "/media/volkswagen-t-roc-2024-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Volkswagen T-Roc en carretera",
+    "heroAlt": "El Volkswagen T-Roc, en marcha",
     "keywords": [
       "volkswagen t-roc precio españa",
       "t-roc 1.0 tsi 116 cv",

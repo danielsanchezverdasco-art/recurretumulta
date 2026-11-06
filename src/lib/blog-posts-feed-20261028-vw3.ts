@@ -1,7 +1,7 @@
 // Feed 28/10/2026 — Volkswagen: permiso de pruebas de nivel 3 en Hefei (China).
 // Fuente verificada: somoselectricos.com, 27/10/2026 (permiso anunciado 26/10/2026).
 // Solo blog, sin ficha: es un permiso de pruebas, no un modelo nuevo ni una comercialización.
-// Fotos 5/11/2026: portada y tercera = Volkswagen ID. Unyx (Wikimedia Commons, CC0, JustAnotherCarDesigner): https://commons.wikimedia.org/wiki/File:Volkswagen_ID._Unyx_06_001.jpg y https://commons.wikimedia.org/wiki/File:Volkswagen_ID._Unyx_08_004.jpg — Segunda: foto de prensa de Volkswagen del ID. Unyx vía somoselectricos.com (fuente del post). Sustituyen a la ilustración que nunca llegó a subirse.
+// Fotos 5/11/2026: portada y tercera = Volkswagen ID. Unyx (Wikimedia Commons, CC0, JustAnotherCarDesigner): https://commons.wikimedia.org/wiki/File:Volkswagen_ID._Unyx_06_001.jpg y https://commons.wikimedia.org/wiki/File:Volkswagen_ID._Unyx_08_004.jpg — Segunda: foto de prensa de Volkswagen del ID. Unyx vía somoselectricos.com (fuente del post). Reemplazan la ilustración prevista, que no llegó a subirse.
 import type { BlogPost } from "./blog-data.ts";
 
 export const FEED_VW_NIVEL3_CHINA_POSTS: BlogPost[] = [

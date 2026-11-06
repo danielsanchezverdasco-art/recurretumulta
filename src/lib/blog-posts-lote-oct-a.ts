@@ -1,7 +1,7 @@
-// Fotos 5/11/2026 (2ª oleada, lujo-chino-coches-2026-yan): foto del mismo modelo ya presente en el pool del sitio (ficha u otro post del modelo).
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/lujo-chino-coches-2026-yangwang-denza-hongqi-maextro/
+//   la foto, del mismo modelo, ya figura en el pool del sitio: es la de la ficha o de otro post del modelo.
+// Publicación conjunta en un único despliegue. Datos contrastados en medios especializados de España; lo no confirmado queda marcado de forma explícita.
 // Lote A de artículos Motor (octubre 2026): escritos el 03/10/2026 para
-// publicación conjunta en un único despliegue. Datos verificados en medios
-// especializados españoles; lo no confirmado se marca explícitamente.
 import type { BlogPost } from "./blog-data.ts";
 
 export const LOTE_OCT_A_POSTS: BlogPost[] = [

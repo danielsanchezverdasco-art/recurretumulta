@@ -1,10 +1,8 @@
-// Fotos 5/11/2026 (2ª oleada, icaur-v27-defender-chino-p): Wikimedia Commons, CC BY-SA 4.0, User3204 (File:2026 iCar V27.jpg); Wikimedia Commons, CC0, JustAnotherCarDesigner (File:ICar V27 002.jpg).
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/icaur-v27-defender-chino-precio-espana-2027/
+//   User3204 (CC BY-SA 4.0) (File:2026 iCar V27.jpg), Wikimedia Commons.
+//   JustAnotherCarDesigner (CC0) (File:ICar V27 002.jpg), Wikimedia Commons.
+//   6 artículos: iCAUR V27 (análisis + ficha /coches), BMW F 450 R (análisis + ficha /motos), Ducati Monster 2026 (análisis + ficha /motos), Renault E-Space Concept (flash), Kia PV5 (flash) y la guía de estrenos eléctricos del Salón parisino de 2026 (fondo). El duelo entre la F 450 R, la Hornet y la Z500 va en blog-posts-duelos-motos.ts.
 // Artículos de novedades del motor (lote diario 2026-10-07, lote K).
-// 6 artículos: iCAUR V27 (análisis + ficha /coches), BMW F 450 R (análisis +
-// ficha /motos), Ducati Monster 2026 (análisis + ficha /motos),
-// Renault E-Space Concept (flash), Kia PV5 (flash) y guía de estrenos
-// eléctricos del Salón de París 2026 (fondo). El duelo F 450 R vs Hornet vs
-// Z500 va en blog-posts-duelos-motos.ts.
 import type { BlogPost } from "./blog-data.ts";
 
 export const MOTOR_2026_K_POSTS: BlogPost[] = [
@@ -167,7 +165,7 @@ Hasta ahora, las naked A2 eran territorio japonés con electrónica justa. La F 
 
 El pero: la versión base viene justa de equipamiento y la que de verdad brilla (M Sport Innovation) se va a 7.550 €, donde ya asoman rivales con más cilindrada. Y la red BMW no es precisamente barata de mantener. Aun así, es la naked A2 más completa del momento sobre el papel.
 
-Ficha completa: <a href=/motos/bmw-f-450-r-2026-ficha-tecnica-precio/>BMW F 450 R: ficha técnica y precio</a> · Duelo: <a href=/blog/bmw-f-450-r-vs-honda-cb500-hornet-vs-kawasaki-z500/>F 450 R vs Hornet vs Z500</a> · <a href=/comparador-motos/>Comparador de motos</a>
+Ficha completa: <a href=/motos/bmw-f-450-r-2026-ficha-tecnica-precio/>BMW F 450 R: ficha técnica y precio</a> · Duelo: <a href=/blog/bmw-f-450-r-vs-honda-cb500-hornet-vs-kawasaki-z500/>La F 450 R frente a la Hornet y la Z500</a> · <a href=/comparador-motos/>Comparador de motos</a>
 
 <img src=/media/bmw-f-450-r-naked-a2-precio-espana-2026-galeria-2.webp alt=Salpicadero TFT de una moto naked visto desde el puesto del piloto en carretera>
 

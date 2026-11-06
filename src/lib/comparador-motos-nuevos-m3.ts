@@ -369,15 +369,15 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Motor Blue Core de 125 cc con distribución variable VVA: 12,2 CV a 8.000 rpm y 11,2 Nm a 6.000 rpm",
-      "Control de tracción TCS, Start&Stop y arranque sin llave Smart Key de serie",
-      "Consumo homologado de 2,2 l/100 km y 52 g/km de CO2",
-      "132 kg en orden de marcha y asiento a 770 mm",
+      "El Blue Core de 125 cc, con distribución variable VVA, da 12,2 CV a 8.000 rpm y un par de 11,2 Nm a 6.000 rpm",
+      "De serie: TCS (control de tracción), Start&Stop y arranque Smart Key sin llave",
+      "Homologa 2,2 l/100 km de consumo y 52 g/km de CO2",
+      "Asiento a 770 mm y 132 kg en orden de marcha",
       "Pantalla LCD de 4,2 pulgadas con conexión al móvil mediante la app MyRide y USB-C",
     ],
     contras: [
       "3.599 €: no es de los 125 más baratos del mercado",
-      "Depósito de 7,1 litros: unos 320 km teóricos con el consumo homologado (cálculo propio)",
+      "Con 7,1 litros de depósito y el consumo homologado, la autonomía teórica ronda los 320 km (cálculo propio)",
       "La versión Tech MAX, con TFT y navegación Garmin, sube el precio (3.899 € según Carwow)",
       "Matriculación no incluida en el precio recomendado",
     ],
@@ -1345,7 +1345,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["pesoKg"],
     pros: [
-      "23,1 kW (31,4 CV) a 9.000 rpm y 27,5 Nm a 7.550 rpm, según Honda España",
+      "23,1 kW, es decir, 31,4 CV, a 9.000 rpm, con 27,5 Nm a 7.550 rpm (según datos de Honda España)",
       "ABS de dos canales gestionado por IMU",
       "Embrague antirrebote asistido y cambio de 6 velocidades",
       "Horquilla invertida Showa SFF-BP de 41 mm y disco delantero flotante de 296 mm",
@@ -1360,7 +1360,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     curiosidades: [
       "El estilo Neo Sports Café comparte filosofía con la CB650R, según Honda",
       "Cumple la norma Euro 5",
-      "Consumo WMTC de 3,31 l/100 km según un distribuidor (dato orientativo, no oficial: puede contener errores)",
+      "Consumo WMTC de 3,31 l/100 km según un distribuidor: dato no oficial y solo orientativo, puede contener errores",
     ],
     imagen: "/media/honda-cb300r-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [

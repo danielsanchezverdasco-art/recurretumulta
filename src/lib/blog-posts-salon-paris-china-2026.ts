@@ -1,8 +1,11 @@
-// Fotos 5/11/2026 (2ª oleada, ofensiva-china-salon-paris): Wikimedia Commons, CC BY-SA 4.0, Ftonview (File:Chery Tiggo 9 CSH 2027.jpg); Wikimedia Commons, CC BY-SA 4.0, Y.Leclercq (File:Leapmotor B03 - Arrière.jpg); Wikimedia Commons, CC BY-SA 4.0, Y.Leclercq (File:Leapmotor B03 - Avant.jpg).
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/ofensiva-china-salon-paris-2026-20-marcas/
+//   Ftonview (CC BY-SA 4.0) (File:Chery Tiggo 9 CSH 2027.jpg), Wikimedia Commons
+//   (File:Leapmotor B03 - Arrière.jpg) de Y.Leclercq (CC BY-SA 4.0) — Wikimedia Commons
+//   Y.Leclercq — (File:Leapmotor B03 - Avant.jpg) (CC BY-SA 4.0) [Wikimedia Commons]
+//   autotest.com.ar, veomotor.com, formula1rd.com.
 // Salón de París 2026 — ofensiva china (artículo de actualidad).
 // Fecha de publicación: 2026-10-09. Verificación de datos: 09/10/2026.
 // Fuentes: reuters.com, autoanalitica.com.mx, somoselectricos.com,
-// autotest.com.ar, veomotor.com, formula1rd.com.
 import type { BlogPost } from "./blog-meta.ts";
 
 export const SALON_PARIS_CHINA_2026_POSTS: BlogPost[] = [

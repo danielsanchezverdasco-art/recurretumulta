@@ -1305,23 +1305,23 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["precioDesde"],
     pros: [
-      "Motor nuevo de 743 cc con 55 CV y 63 Nm, el 90 % del par desde 3.500 rpm",
-      "Electrónica seria: IMU de 6 ejes, ABS en curva, control de tracción sensible a la inclinación y control de crucero",
+      "Estrena motor de 743 cc: 55 CV y 63 Nm, con el 90 % del par desde 3.500 rpm",
+      "Electrónica seria: IMU de 6 ejes, control de crucero, ABS en curva, con control de tracción sensible a la inclinación",
       "Suspensiones Showa totalmente ajustables delante y monoamortiguador con precarga remota detrás",
       "Enfoque viajero real: depósito de 17,8 l, parabrisas ajustable, 195 kg de carga útil y asientos independientes",
       "Precio europeo de acceso: desde 7.390 € en Italia con reservas abiertas en Europa",
     ],
     contras: [
       "Precio en España aún sin anunciar: los 7.390 € son la tarifa italiana",
-      "223 kg en orden de marcha: no es una trail ligera para campo exigente",
+      "Pesa 223 kg en orden de marcha y no es, precisamente, una trail ligera para campo exigente",
       "55 CV: potencia comedida frente a rivales de 800 cc que superan los 90 CV",
-      "Sin datos oficiales de velocidad máxima, aceleración ni consumo WLTP todavía",
+      "Todavía no hay datos oficiales de consumo WLTP, velocidad máxima ni aceleración",
       "Intervalo de mantenimiento oficial de la 750 aún sin publicar",
     ],
     curiosidades: [
       "Es la primera Royal Enfield de 750 cc y la Himalayan de mayor cilindrada de la historia",
       "El motor deriva del concepto del bicilíndrico de 650 cc, pero es un bloque nuevo de 743 cc",
-      "Se presenta en el año del 125 aniversario de Royal Enfield, junto a la Continental GT 750",
+      "Llega junto a la Continental GT 750 en el año en que Royal Enfield cumple 125 años",
     ],
     imagen: "/media/motos/royal-enfield-himalayan-750-2027-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -1339,10 +1339,10 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     analisisSlug: "royal-enfield-himalayan-750-2027-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Orientativo (según Himalayan 450): cada 10.000 km o 12 meses, primera revisión a los 500 km; intervalo oficial de la 750 pendiente de publicar",
-      aceiteTipo: "10W-50 totalmente sintético API SL / JASO MA2 (según ficha oficial de la 750)",
+      aceiteTipo: "API SL / JASO MA2, 10W-50 totalmente sintético (según ficha oficial de la 750)",
       cadenaPasos: [
-        "Tras cada salida por tierra, limpia la cadena con desengrasante específico.",
-        "Engrasa con lubricante adherente para no salpicar la llanta.",
+        "Después de rodar por tierra, la cadena se limpia con desengrasante específico.",
+        "El engrase se hace con lubricante adherente, para que no salpique la llanta.",
         "Revisa la holgura con la moto vertical: el recorrido largo la hace sensible a los cambios.",
       ],
       trucos: [

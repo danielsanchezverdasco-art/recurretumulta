@@ -1,12 +1,11 @@
-// Fotos 5/11/2026 (2ª oleada, alpine-a310-vision-concept): Wikimedia Commons, CC BY-SA 4.0, Bagnole55 (File:Alpine A310 Vision.jpg); Wikimedia Commons, CC BY-SA 4.0, Y.Leclercq (File:Alpine A310 Vision 01.jpg).
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/alpine-a310-vision-concept-paris-2026/
+//   Bagnole55 (CC BY-SA 4.0) (File:Alpine A310 Vision.jpg), Wikimedia Commons
+//   (File:Alpine A310 Vision 01.jpg) (CC BY-SA 4.0), de Y.Leclercq, en Wikimedia Commons
+//   Fotos oficiales del kit de prensa Skoda (modelo exacto: Epiq). - Alpine A310 Vision: concept del Salón de París 2026. Solo blog (concept sin specs de serie; sin ficha). Fotos de prensa distribuidas por Autonocion (concept exacto), con origen real + crédito + aviso de no oficial. Regla: cero cifras inventadas.
+//   lo no confirmado se marca como tal.
 // Radar de noticias 15/10/2026 (cron recurretumulta-radar-noticias-5h).
 // - Skoda Epiq Sportline: presentado en el Salón de París 2026 (noticia del día).
 //   Blog + enlace a la ficha existente del Epiq (trim nuevo, no modelo nuevo).
-//   Fotos oficiales del kit de prensa Skoda (modelo exacto: Epiq).
-// - Alpine A310 Vision: concept del Salón de París 2026. Solo blog (concept sin
-//   specs de serie; sin ficha). Fotos de prensa distribuidas por Autonocion
-//   (concept exacto), con origen real + crédito + aviso de no oficial.
-// Regla: cero cifras inventadas; lo no confirmado se marca como tal.
 import type { BlogPost } from "./blog-meta.ts";
 
 export const RADAR_20261015_POSTS: BlogPost[] = [

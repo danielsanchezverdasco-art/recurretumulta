@@ -1,20 +1,20 @@
 // Fotos 5/11/2026 (2ª oleada, kukirin-m5-pro): galería del producto en xzactor.ae (tienda Shopify del modelo KuKirin M5 Pro).
 // Fotos 5/11/2026 (2ª oleada, joyor-s10-s-z): galería del producto en todimart.com (tienda Shopify del modelo JOYOR S10S-Z).
-// Fotos 5/11/2026 (2ª oleada, joyor-s5-pro): Joyor, tienda oficial (joyorscooter.com), galería del producto.
-// Fotos 5/11/2026 (2ª oleada, joyor-t10): Joyor, tienda oficial (joyorscooter.com), galería del producto.
-// Fotos 5/11/2026 (2ª oleada, kukirin-s1-max): KuKirin, tienda oficial (kukirin-scooter.com), galería del producto.
-// Fotos 5/11/2026 (2ª oleada, kukirin-m4-max): KuKirin, tienda oficial (kukirin-scooter.com), galería del producto.
-// Fotos 5/11/2026 (2ª oleada, iscooter-ix8): iScooter, tienda oficial (iscooterglobal.com), galería del producto.
-// Fotos 5/11/2026 (2ª oleada, iscooter-ix7-pro): iScooter, tienda oficial (iscooterglobal.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, joyor-s5-pro): galería del producto de Joyor, tienda oficial (joyorscooter.com).
+// 2ª oleada de fotos (5/11/2026; joyor-t10): Joyor, tienda oficial (joyorscooter.com), y su galería del producto.
+// Fotos de la 2ª oleada, 5/11/2026 (kukirin-s1-max): KuKirin, tienda oficial (kukirin-scooter.com); imágenes de la galería del producto.
+// Fotos 5/11/2026 (2ª oleada, kukirin-m4-max): de la galería del producto de KuKirin, tienda oficial (kukirin-scooter.com).
+// Fotos 5/11/2026 (2ª oleada, iscooter-ix8): iScooter (tienda oficial: iscooterglobal.com), galería comercial del producto.
+// 2ª oleada (fotos del 5/11/2026; iscooter-ix7-pro): galería del producto de iScooter, tienda oficial (iscooterglobal.com).
 // Fotos 5/11/2026 (2ª oleada, iscooter-ix4): iScooter, tienda oficial (iscooterglobal.com), galería del producto.
-// Fotos 5/11/2026 (2ª oleada, hiboy-u2-pro): Hiboy, tienda oficial (hiboy.com), galería del producto.
-// Fotos 5/11/2026 (2ª oleada, hiboy-ve1-pro): Hiboy, tienda oficial (hiboy.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, hiboy-u2-pro): galería del producto de Hiboy, tienda oficial (hiboy.com).
+// 2ª oleada de fotos (5/11/2026; hiboy-ve1-pro): Hiboy, tienda oficial (hiboy.com), con su galería del producto.
 // Fotos 5/11/2026 (2ª oleada, hiboy-ecom-14): Hiboy, tienda oficial (hiboy.com), galería del producto.
 // Fotos 5/11/2026 (2ª oleada, teverun-fighter-supreme): TEVERUN, página oficial del Fighter Supreme 7260R (teverun.com).
-// Fotos 5/11/2026 (2ª oleada, iscooter-ix5s): iScooter, tienda oficial (iscooterglobal.com), galería del producto.
-// Fotos 5/11/2026 (2ª oleada, iscooter-i8): iScooter, tienda oficial (iscooterglobal.com), galería del producto.
-// Fotos 5/11/2026 (2ª oleada, inmotion-s1f): INMOTION, tienda oficial (inmotionworld.com), galería del producto.
-// Fotos 5/11/2026 (2ª oleada, inmotion-air-pro): INMOTION, tienda oficial (inmotionworld.com), galería del producto.
+// Fotos 5/11/2026 (2ª oleada, iscooter-ix5s): galería del producto en la tienda oficial de iScooter (iscooterglobal.com).
+// Fotos 5/11/2026 (2ª oleada, iscooter-i8): iScooter, su tienda oficial (iscooterglobal.com) y la galería del producto.
+// Fotos 5/11/2026 (2ª oleada, inmotion-s1f): galería del producto de INMOTION, tienda oficial (inmotionworld.com).
+// 2ª oleada de fotos (5/11/2026; inmotion-air-pro): INMOTION, tienda oficial (inmotionworld.com), y su galería del producto.
 // Fotos 5/11/2026 (2ª oleada, inmotion-air): INMOTION, tienda oficial (inmotionworld.com), galería del producto.
 // Artículos del blog — Lote P3 patinetes (2026-10-05).
 // Un artículo por modelo, con su ficha en comparador-patinetes-exp-p3.ts
@@ -44,7 +44,7 @@ export const PATINETES_EXP_P3_POSTS: BlogPost[] = [
       "nami burn-e 3 max opiniones",
       "patinete eléctrico más potente",
     ],
-    content: `<img src=/media/fotos-reales/nami-burn-e-2-max alt=nami burn e 3 max — fotografía del modelo>
+    content: `<img src=/media/fotos-reales/nami-burn-e-2-max/nami-burn-e-2-max-1.webp alt=nami burn e 3 max — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/nami-burn-e-3-max/>Ver ficha técnica del Nami Burn-e 3 Max</a>: precio, autonomía, motor y potencia pico. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -92,7 +92,7 @@ El Burn-e 3 Max **no es un VMP legal** para circular por España a su velocidad 
 | Suspensión ajustable de largo recorrido | Recambios caros y poco comunes |
 | Pantalla TFT con NFC | Carga lentísima al 100 % |
 
-<img src=/media/patinetes/nami-burn-e-3-max-3.webp alt=Nami Burn-e 3 Max circulando por ciudad><img src=/media/fotos-reales/nami-burn-e-2-max/nami-burn-e-2-max-1.webp alt=nami burn e 3 max — fotografía del modelo><img src=/media/fotos-reales/nami-burn-e-3 alt=nami burn e 3 max — fotografía del modelo>
+<img src=/media/patinetes/nami-burn-e-3-max-3.webp alt=Nami Burn-e 3 Max circulando por ciudad><img src=/media/fotos-reales/nami-burn-e-2-max/nami-burn-e-2-max-1.webp alt=nami burn e 3 max — fotografía del modelo><img src=/media/fotos-reales/nami-burn-e-3/nami-burn-e-3-real-0.webp alt=nami burn e 3 max — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -139,7 +139,7 @@ Si quieres lo máximo, sí: más batería (40Ah frente a 30Ah) y más pico (8.40
       "hyper scooter 72v",
       "nami burn-e 3 españa",
     ],
-    content: `<img src=/media/fotos-reales/nami-burn-e-2-max alt=nami burn e 3 — fotografía del modelo>
+    content: `<img src=/media/fotos-reales/nami-burn-e-2-max/nami-burn-e-2-max-1.webp alt=nami burn e 3 — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/nami-burn-e-3/>Ver ficha técnica del Nami Burn-e 3</a>: precio, autonomía, motor y batería. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -225,7 +225,7 @@ Un VMP legal en España está limitado a **25 km/h** y el Burn-e 3 declara **72 
 
 Frente al Max, ahorra 350 € renunciando a 3.360 W de pico y unos 20 km reales: con el mismo chasis, el ahorro tiene sentido. Frente al <a href=/patinetes/nami-klima-max/>Nami Klima Max</a>, paga 1.650 € más por batería y plataforma mayores, pero suma 9 kg que se notan a diario. 
 
-**Veredicto:** merece la pena solo para un perfil concreto: conductor experimentado, con garaje, que lo usará en circuito o finca privada y quiere la plataforma Burn-e sin pagar el Max. No como transporte urbano legal —a 25 km/h, un VMP certificado hace mejor ese trabajo— ni con presupuesto ajustado. Si encajas, parte de la <a href=/patinetes/nami-burn-e-3/>ficha técnica completa del Nami Burn-e 3</a> y confirma por escrito limitación, certificado y garantía.<img src=/media/fotos-reales/nami-burn-e-2-max/nami-burn-e-2-max-1.webp alt=nami burn e 3 — fotografía del modelo><img src=/media/fotos-reales/nami-burn-e-3 alt=nami burn e 3 — fotografía del modelo>
+**Veredicto:** merece la pena solo para un perfil concreto: conductor experimentado, con garaje, que lo usará en circuito o finca privada y quiere la plataforma Burn-e sin pagar el Max. No como transporte urbano legal —a 25 km/h, un VMP certificado hace mejor ese trabajo— ni con presupuesto ajustado. Si encajas, parte de la <a href=/patinetes/nami-burn-e-3/>ficha técnica completa del Nami Burn-e 3</a> y confirma por escrito limitación, certificado y garantía.<img src=/media/fotos-reales/nami-burn-e-2-max/nami-burn-e-2-max-1.webp alt=nami burn e 3 — fotografía del modelo><img src=/media/fotos-reales/nami-burn-e-3/nami-burn-e-3-real-0.webp alt=nami burn e 3 — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -269,7 +269,7 @@ Unos **47 kg**: piénsatelo si vives en un tercero sin ascensor.
       "nami electric klima",
       "hyper scooter compacto",
     ],
-    content: `<img src=/media/fotos-reales/nami-klima alt=nami klima — fotografía del modelo>
+    content: `<img src=/media/fotos-reales/nami-klima/nami-klima-real-0.webp alt=nami klima — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/nami-klima/>Ver ficha técnica del Nami Klima</a>: precio, autonomía y potencia. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -350,7 +350,7 @@ Su hermano mayor, el <a href=/patinetes/nami-burn-e-3/>Nami Burn-e 3</a>, ofrece
 
 ## Plegado, maletero y escaleras: los 38 kilos en la práctica
 
-El Klima se pliega por el manillar para caber en el maletero de un coche mediano, y esa es la foto amable. La realidad completa incluye levantar 38 kilos hasta la altura de la cadera, buscarle un rincón donde no estorbe en casa y asumir que bajarlo por unas escaleras es una operación de dos manos y algo de maña. Frente a los patinetes urbanos de 15 kilos pierde por goleada en portabilidad; frente a su hermano Burn-e gana justo lo suficiente para que un adulto entrenado lo mueva sin ayuda. Es, en resumen, transportable a ratos, no portable a diario.<img src=/media/fotos-reales/nami-klima-max alt=nami klima — fotografía del modelo><img src=/media/fotos-reales/nami-klima-max/nami-klima-max-real-0.webp alt=nami klima — fotografía del modelo>
+El Klima se pliega por el manillar para caber en el maletero de un coche mediano, y esa es la foto amable. La realidad completa incluye levantar 38 kilos hasta la altura de la cadera, buscarle un rincón donde no estorbe en casa y asumir que bajarlo por unas escaleras es una operación de dos manos y algo de maña. Frente a los patinetes urbanos de 15 kilos pierde por goleada en portabilidad; frente a su hermano Burn-e gana justo lo suficiente para que un adulto entrenado lo mueva sin ayuda. Es, en resumen, transportable a ratos, no portable a diario.<img src=/media/fotos-reales/nami-klima-max/nami-klima-max-real-0.webp alt=nami klima — fotografía del modelo><img src=/media/fotos-reales/nami-klima-max/nami-klima-max-real-0.webp alt=nami klima — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -394,7 +394,7 @@ Solo **limitado a 25 km/h** según la normativa VMP.
       "patinete eléctrico 90 km autonomía",
       "nami electric max",
     ],
-    content: `<img src=/media/fotos-reales/nami-klima-max alt=nami klima max — fotografía del modelo>
+    content: `<img src=/media/fotos-reales/nami-klima-max/nami-klima-max-real-0.webp alt=nami klima max — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/nami-klima-max/>Ver ficha técnica del Nami Klima Max</a>: precio, batería LG y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -515,7 +515,7 @@ Solo **limitado a 25 km/h** según normativa VMP.
       "nami electric blast",
       "patinete tracción total",
     ],
-    content: `<img src=/media/fotos-reales/nami-blast alt=nami blast — fotografía del modelo>
+    content: `<img src=/media/fotos-reales/nami-blast/nami-blast-real-0.webp alt=nami blast — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/nami-blast/>Ver ficha técnica del Nami Blast</a>: precio, motor y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -599,7 +599,7 @@ El Blast **no está homologado por la DGT** como VMP, y el post original lo dice
 
 Sus hermanos tienen ficha en esta casa y marcan el escalón siguiente: el <a href=/patinetes/nami-blast-max/>Nami Blast Max</a> sube a 3.000 W nominales con 8.400 W de pico, batería de 2.400 Wh, 100 km declarados (67 reales) y 80 km/h, con 45 kg. El <a href=/patinetes/nami-burn-e-3-max/>Nami Burn-e 3 Max</a> cuesta 4.449 € con la misma potencia de pico, 2.880 Wh, 135 km declarados (90 reales) y 105 km/h. El Blast base conserva lo esencial (doble motor y chasis Nami) por bastante menos dinero que ambos.
 
-**¿Merece la pena?** Como entrada a los patinetes de tracción total de autor, el Blast es el Nami con más sentido por euro. **Para quién sí:** para el aficionado que busque doble motor y estabilidad, con espacio privado donde explotarlo y garaje a pie de calle. **Para quién no:** para quien necesite un VMP legal, ligero y certificable para el día a día: eso es otra categoría de producto.<img src=/media/fotos-reales/nami-blast-max alt=nami blast — fotografía del modelo><img src=/media/fotos-reales/nami-blast-max/nami-blast-max-real-0.webp alt=nami blast — fotografía del modelo>
+**¿Merece la pena?** Como entrada a los patinetes de tracción total de autor, el Blast es el Nami con más sentido por euro. **Para quién sí:** para el aficionado que busque doble motor y estabilidad, con espacio privado donde explotarlo y garaje a pie de calle. **Para quién no:** para quien necesite un VMP legal, ligero y certificable para el día a día: eso es otra categoría de producto.<img src=/media/fotos-reales/nami-blast-max/nami-blast-max-real-0.webp alt=nami blast — fotografía del modelo><img src=/media/fotos-reales/nami-blast-max/nami-blast-max-real-0.webp alt=nami blast — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -643,7 +643,7 @@ Unos **46 kg**: no apto para subir por escaleras.
       "hyper scooter 80 km/h",
       "nami electric",
     ],
-    content: `<img src=/media/fotos-reales/nami-blast-max alt=nami blast max — fotografía del modelo>
+    content: `<img src=/media/fotos-reales/nami-blast-max/nami-blast-max-real-0.webp alt=nami blast max — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/nami-blast-max/>Ver ficha técnica del Nami Blast Max</a>: potencia, batería y velocidad. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -2098,7 +2098,7 @@ Sí, como VMP **limitado a 25 km/h**.
       "hiboy barato",
       "patinete plegable ligero",
     ],
-    content: `<img src=/media/fotos-reales/hiboy-s2 alt=hiboy s2 lite — fotografía del modelo>
+    content: `<img src=/media/fotos-reales/hiboy-s2/hiboy-s2-real-1.webp alt=hiboy s2 lite — fotografía del modelo>
 
 **¿Quieres solo las cifras?** <a href=/patinetes/hiboy-s2-lite/>Ficha técnica del Hiboy S2 Lite</a>: 9,9 kg, 250 W y 17 km declarados. Y si dudas entre varios, <a href=/comparador-patinetes/>míralo frente a sus rivales</a>.
 
@@ -2218,7 +2218,7 @@ Con un patinete tan básico, los accesorios cuentan: un **candado en U ligero** 
 
 ## Para quién NO es, sin matices
 
-Repitámoslo claro porque es importante: si pesas **más de 80 kg**, sus 250 W y su carga máxima de 81 kg lo dejan fuera. Si tu trayecto incluye una cuesta seria a diario, también. Y si solo vas a tener un patinete y quieres que sirva para todo —ciudad, ocio, escapadas—, necesitas más batería. El S2 Lite es un especialista, y los especialistas no sirven para todo uso.<img src=/media/fotos-reales/hiboy-s2-max alt=hiboy s2 lite — fotografía del modelo><img src=/media/fotos-reales/hiboy-s2-max/hiboy-s2-max-real-1.webp alt=hiboy s2 lite — fotografía del modelo>
+Repitámoslo claro porque es importante: si pesas **más de 80 kg**, sus 250 W y su carga máxima de 81 kg lo dejan fuera. Si tu trayecto incluye una cuesta seria a diario, también. Y si solo vas a tener un patinete y quieres que sirva para todo —ciudad, ocio, escapadas—, necesitas más batería. El S2 Lite es un especialista, y los especialistas no sirven para todo uso.<img src=/media/fotos-reales/hiboy-s2-max/hiboy-s2-max-real-1.webp alt=hiboy s2 lite — fotografía del modelo><img src=/media/fotos-reales/hiboy-s2-max/hiboy-s2-max-real-1.webp alt=hiboy s2 lite — fotografía del modelo>
 
 ## Preguntas frecuentes sobre el Hiboy S2 Lite
 
@@ -2320,7 +2320,7 @@ Ojo: declara **35 km/h**, así que en España debe circular **limitado a 25 km/h
 | 35 km/h en privado | Acabados sin lujos |
 | Buenos repuestos | App mejorable |
 
-<img src=/media/patinetes/hiboy-max-pro-3.webp alt=Hiboy Max Pro en carril bici><img src=/media/fotos-reales/hiboy-max3 alt=hiboy max pro — fotografía del modelo><img src=/media/fotos-reales/hiboy-max3/hiboy-max3-real-1.webp alt=hiboy max pro — fotografía del modelo>
+<img src=/media/patinetes/hiboy-max-pro-3.webp alt=Hiboy Max Pro en carril bici><img src=/media/fotos-reales/hiboy-max3/hiboy-max3-real-1.webp alt=hiboy max pro — fotografía del modelo><img src=/media/fotos-reales/hiboy-max3/hiboy-max3-real-1.webp alt=hiboy max pro — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -2409,7 +2409,7 @@ Con **45 km/h** de máxima, en España debe ir **limitado a 25 km/h** para circu
 | Mejor soporte que genéricos | Recambios Bosch más caros |
 | Chasis robusto | Para 25 km/h sobra potencia |
 
-<img src=/media/patinetes/hiboy-titan-3.webp alt=Hiboy Titan 2026 en carretera><img src=/media/fotos-reales/hiboy-titan-pro alt=hiboy titan — fotografía del modelo><img src=/media/fotos-reales/hiboy-titan-pro/hiboy-titan-pro-real-1.webp alt=hiboy titan — fotografía del modelo>
+<img src=/media/patinetes/hiboy-titan-3.webp alt=Hiboy Titan 2026 en carretera><img src=/media/fotos-reales/hiboy-titan-pro/hiboy-titan-pro-real-1.webp alt=hiboy titan — fotografía del modelo><img src=/media/fotos-reales/hiboy-titan-pro/hiboy-titan-pro-real-1.webp alt=hiboy titan — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -2722,7 +2722,7 @@ Sí: **sillín, cesta, 750 W y 55 km** lo hacen apto para reparto urbano ligero.
       "patinete sin pinchazos",
       "hiboy ks4 14 kg",
     ],
-    content: `<img src=/media/fotos-reales/hiboy-ks4-pro alt=hiboy ks4 — fotografía del modelo>
+    content: `<img src=/media/fotos-reales/hiboy-ks4-pro/hiboy-ks4-pro-real-1.webp alt=hiboy ks4 — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/hiboy-ks4/>Ver ficha técnica del Hiboy KS4</a>: peso, ruedas macizas y app. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 

@@ -342,7 +342,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "Model Y o XPeng G6",
       "carga ultrarrápida eléctrico",
     ],
-    content: `<img src=/media/fotos-reales/xpeng-g6-2025-precio-espana alt=XPeng G6 2026 vs Tesla Model Y — fotografía del modelo>
+    content: `<img src=/media/fotos-reales/xpeng-g6-2025-precio-espana/xpeng-g6-2025-precio-espana-1.webp alt=XPeng G6 2026 vs Tesla Model Y — fotografía del modelo>
 
 Es el duelo que todo el mundo quiere ver: el **XPeng G6 2026** restyling, desde **43.083 €**, con la carga más rápida de su segmento (10-80 % en 12 minutos), contra el **Tesla Model Y**, el SUV eléctrico más vendido del mundo. Nota honesta: el Model Y no está en nuestra base de datos de fichas, así que para él usamos únicamente los datos publicados en nuestro propio análisis del G6 (versión Standard RWD) y afirmaciones generales bien conocidas. Sin inventar nada.
 

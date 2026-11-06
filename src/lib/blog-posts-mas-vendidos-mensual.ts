@@ -1,4 +1,4 @@
-// Fotos 5/11/2026 (2ª oleada, electricos-mas-vendidos-es): Wikimedia Commons, CC BY-SA 4.0, Calreyn88 (File:2020 Tesla Model 3 Performance AWD (97454).jpg); Wikimedia Commons, CC BY-SA 4.0, Chuq (File:Tesla Model 3 at Tesla supercharger, Euroa, Victoria.jpg); Wikimedia Commons, CC BY-SA 4.0, Matti Blume (File:Tesla Model 3, EMS 2024, Essen (P1032260).jpg).
+// Fotos 5/11/2026 (2ª oleada, electricos-mas-vendidos-es): Tres fotos de Wikimedia Commons: (File:2020 Tesla Model 3 Performance AWD (97454).jpg), de Calreyn88; (File:Tesla Model 3 at Tesla supercharger, Euroa, Victoria.jpg), de Chuq; y (File:Tesla Model 3, EMS 2024, Essen (P1032260).jpg), de Matti Blume — las tres con licencia CC BY-SA 4.0.
 // Artículo mensual "los eléctricos más vendidos" con datos de matriculaciones de ANFAC.
 // Cron: recurretumulta-mas-vendidos-mensual (día 5 de cada mes). Se prepara en local,
 // NO despliega (publica el cron diario de Netlify).

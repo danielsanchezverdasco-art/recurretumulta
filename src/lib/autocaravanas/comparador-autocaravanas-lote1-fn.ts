@@ -49,13 +49,13 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
     aprox: ["precioDesde"],
     pros: [
       "Capuchina para 7: cama sobre cabina 210x140 + literas traseras + cama convertible, la familiar grande de Adria",
-      "Chasis Fiat Ducato 2.2 de 140 CV con opción de MMA ampliada a 4.500 kg para viajar cargado legal",
+      "Adria permite, sobre el Ducato de 140 CV (2.2), subir la MMA hasta 4.500 kg: margen extra para viajar cargado sin salir de la legalidad",
       "Construcción Comprex de Adria con 10 años de garantía de estanqueidad",
       "Calefacción Truma Combi 6E y frigorífico de 167 l: apta para las cuatro estaciones",
       "La capuchina con mejor valor de reventa de su segmento en Europa",
     ],
     contras: [
-      "Con 7,79 m y 3,10 m de alto, es la menos ágil de las Adria: exige planificación en ciudad",
+      "Con 7,79 m de longitud y una altura de 3,10 m resulta la Adria menos ágil: en ciudad toca planificar cada maniobra",
       "Precio orientativo alto: la capuchina familiar siempre cuesta más que la perfilada equivalente",
       "El motor base de 140 CV es justo con 7 plazas y equipaje a tope",
       "Las literas traseras son perfectas para niños, justas para adolescentes altos",
@@ -71,7 +71,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
       mantenimientoAnual: 650,
       costeMensualTotal: 490,
       notas:
-        "Estimación con 12.000 km/año, consumo medio ~11 l/100 km de gasóleo y seguro a todo riesgo.",
+        "Cálculo orientativo para 12.000 km al año: se asume un gasto medio de gasóleo cercano a 11 l/100 km e incluye la póliza a todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -97,7 +97,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
     analisisSlug: "adria-coral-xl-670-dk-2026-precio-ficha-tecnica",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato: revisión cada 2 años o 48.000 km según plan Fiat Professional",
+        "Base Fiat Ducato: toca revisión al cumplir 2 años o 48.000 km, según lo previsto por Fiat Professional",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",
@@ -167,11 +167,11 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
       "Fabricada en España por Benimar: red de servicio y recambios en todo el país",
     ],
     contras: [
-      "Con 7,48 m de largo no es la más ágil en pueblos y parkings ajustados",
+      "Los 7,48 m de longitud se notan en pueblos y en aparcamientos estrechos: ágil, precisamente, no es",
       "El motor base de 130 CV se queda justo con la autocaravana cargada a tope",
       "La quinta plaza para dormir es el salón convertible: menos cómoda que las camas fijas",
       "El precio real con opcionales (Pack Plus, 165 CV, automático) se acerca a los 75.000 €",
-      "La carga útil con 5 ocupantes obliga a vigilar el peso si se equipa mucho",
+      "Con 5 ocupantes, la carga útil manda: si se monta mucho equipamiento hay que vigilar el peso total",
     ],
     opiniones: [],
     costeMensual: {
@@ -183,7 +183,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
       mantenimientoAnual: 600,
       costeMensualTotal: 420,
       notas:
-        "Estimación con 12.000 km/año, consumo medio ~10 l/100 km de gasóleo y seguro a todo riesgo. Coste real muy dependiente del uso.",
+        "Recorrer 12.000 km anuales con unos 10 l/100 km de media en gasóleo, sumando el seguro a todo riesgo, da esta estimación; el desembolso real varía mucho según el uso.",
       estimado: true,
     },
     galeria: [
@@ -271,7 +271,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
     emisionesCo2: null,
     aprox: ["precioDesde"],
     pros: [
-      "Perfilada de 7,39 m con salón en U: el espacio de estar más amplio de la gama Mileo",
+      "Salón en U dentro de una perfilada de 7,39 m: ningún otro Mileo ofrece tanto espacio de estar",
       "Fiat Ducato 2.2 de 140 CV con ESP de serie (160 CV opcional): mecánica probada y barata de mantener",
       "Cama basculante eléctrica + salón en U convertible: 4 plazas reales para dormir sin capuchina",
       "Benimar, líder de ventas en España: red de más de 140 concesionarios en 25 países",
@@ -281,7 +281,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
       "Con 7,39 m de largo y 2,89 m de alto, aparcar en ciudad es misión imposible",
       "El precio orientativo (~70.000 €) la acerca a integrales de la competencia",
       "La cama basculante baja reduce la altura libre del salón cuando está desplegada",
-      "3.500 kg de MMA: con 4 ocupantes y equipaje completo, ojo con la carga útil",
+      "La MMA se queda en 3.500 kg, así que entre 4 ocupantes y todo el equipaje la carga útil se agota pronto",
       "El salón en U prima el estar sobre el dormir: no hay cama fija trasera independiente",
     ],
     opiniones: [],
@@ -294,7 +294,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
       mantenimientoAnual: 600,
       costeMensualTotal: 420,
       notas:
-        "Estimación con 12.000 km/año, consumo medio ~10 l/100 km de gasóleo y seguro a todo riesgo. Coste real muy dependiente del uso.",
+        "Con la hipótesis de 12.000 km cada año, un consumo en torno a 10 l/100 km de gasóleo y la póliza a todo riesgo se obtiene este coste aproximado, muy sensible al uso concreto.",
       estimado: true,
     },
     galeria: [
@@ -406,7 +406,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
       mantenimientoAnual: 600,
       costeMensualTotal: 450,
       notas:
-        "Estimación con 12.000 km/año, consumo medio ~10 l/100 km de gasóleo y seguro a todo riesgo.",
+        "Base del cálculo: 12.000 km/año, media de 10 l/100 km quemando gasóleo y prima de seguro con cobertura total.",
       estimado: true,
     },
     galeria: [
@@ -432,7 +432,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
     analisisSlug: "burstner-lyseo-td-594-2026-precio-ficha-tecnica",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato: revisión cada 2 años o 48.000 km según plan Fiat Professional",
+        "Plan Fiat Professional para el Ducato: revisiones separadas por 2 años o 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",
@@ -495,8 +495,8 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
     aprox: ["precioDesde", "pesoKg"],
     pros: [
       "5,99 m de perfilada compacta: la más manejable de Bürstner, ideal como primera autocaravana",
-      "Precio base oficial de 61.980 €: de las perfiladas nuevas más asequibles del mercado",
-      "Camas gemelas longitudinales de 200 x 132 cm: se duerme de verdad en 6 metros",
+      "61.980 € de precio base oficial la sitúan entre las perfiladas nuevas con tarifa más baja",
+      "En solo 6 metros caben dos camas gemelas de 200 x 132 cm en longitudinal donde se duerme de verdad",
       "MMA de 3.500 kg y motor 2.2 de 140 CV: carnet B y mecánica probada",
       "Ancho de solo 2,20 m: entra y maniobra donde otras perfiladas no caben",
     ],
@@ -517,7 +517,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
       mantenimientoAnual: 550,
       costeMensualTotal: 440,
       notas:
-        "Estimación con 12.000 km/año, consumo medio ~10 l/100 km de gasóleo y seguro a todo riesgo.",
+        "Se han estimado 12.000 km por ejercicio, un gasto de gasóleo próximo a 10 l/100 km y el todo riesgo; de ahí sale la cifra.",
       estimado: true,
     },
     galeria: [
@@ -608,14 +608,14 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
       "Furgoneta camper de 6,36 m: se aparca casi como un coche y pasa por parkings de 2,65 m",
       "Camas individuales traseras de 195/187x186 cm: dos camas siempre hechas, sin montar nada",
       "Fiat Ducato 2.2 de 140 CV (180 CV opcional): la mecánica más extendida y barata de mantener del sector",
-      "Pack Connect y Pack Arctic disponibles: equipamiento de serie por encima de su precio",
+      "Puede montar los Pack Connect y Pack Arctic: el equipamiento disponible supera lo habitual en su franja de precio",
       "Solo 2,05 m de ancho: maniobrable en pueblos, parkings y carreteras estrechas",
     ],
     contras: [
       "2 camas fijas de serie: para dormir 4 hay que convertir el salón lateral",
       "Baño compacto de furgoneta: la ducha es justa para personas altas",
       "Aislamiento térmico inferior al de una perfilada: peor comportamiento en invierno",
-      "El precio orientativo (~65.000 €) compite con perfiladas básicas más espaciosas",
+      "Por unos 65.000 € orientativos, la alternativa son perfiladas básicas que ofrecen más espacio",
       "Maletero limitado: las camas gemelas ocupan toda la trasera",
     ],
     opiniones: [],
@@ -628,7 +628,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
       mantenimientoAnual: 550,
       costeMensualTotal: 390,
       notas:
-        "Estimación con 12.000 km/año, consumo medio ~9,5 l/100 km de gasóleo y seguro a todo riesgo. Coste real muy dependiente del uso.",
+        "La estimación supone 12.000 km anuales, alrededor de 9,5 l/100 km de consumo de gasóleo y la contratación de un seguro a todo riesgo, aunque el gasto efectivo queda muy condicionado por el uso.",
       estimado: true,
     },
     galeria: [
@@ -718,17 +718,17 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
     aprox: ["precioDesde"],
     pros: [
       "Tecnología Lifetime Smart: suelo sin costillaje de madera, a prueba de corrosión",
-      "Camas gemelas traseras de 214x80 cm convertibles en cama doble de 211x201",
+      "Atrás, dos camas de 214x80 cm que se unen formando una doble de 211x201",
       "Masa en orden de marcha oficial de 2.955 kg: buena carga útil hasta los 3.499 kg",
       "Calefacción Truma Combi 6 y frigorífico de 137 l de serie",
       "Marca alemana con fama de durabilidad: aguanta bien el paso de los años",
     ],
     contras: [
       "Precio orientativo superior al de la Benimar Tessoro equivalente",
-      "El motor base de 140 CV es suficiente pero no sobrado con carga máxima",
+      "Los 140 CV del motor base cumplen, aunque a plena carga no sobra potencia",
       "Diseño interior más sobrio que el de Adria o Bürstner",
       "La quinta plaza depende de la cama delantera opcional",
-      "Red de concesionarios Dethleffs más pequeña que la de Benimar en España",
+      "En España, Dethleffs tiene menos concesionarios que Benimar: la red es más reducida",
     ],
     opiniones: [],
     costeMensual: {
@@ -740,7 +740,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
       mantenimientoAnual: 600,
       costeMensualTotal: 450,
       notas:
-        "Estimación con 12.000 km/año, consumo medio ~10,5 l/100 km de gasóleo y seguro a todo riesgo.",
+        "Para unos 12.000 km al año y consumiendo de media unos 10,5 l/100 km de gasóleo, con seguro a todo riesgo incluido, el coste estimado es el indicado.",
       estimado: true,
     },
     galeria: [
@@ -766,7 +766,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
     analisisSlug: "dethleffs-trend-t-7057-eb-2026-precio-ficha-tecnica",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato: revisión cada 2 años o 48.000 km según plan Fiat Professional",
+        "En el Ducato, Fiat Professional fija la revisión cada 48.000 km o cada 2 años",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",
@@ -836,11 +836,11 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
       "Cocina de 3 fuegos y frigorífico AES de 142 l: equipamiento serio en formato compacto",
     ],
     contras: [
-      "3 plazas para dormir de serie: la cuarta depende de la cama central opcional",
-      "El motor base de 140 CV es suficiente pero no sobrado en puertos con carga",
+      "Son 3 las plazas para dormir de serie; la cuarta exige montar la cama central opcional",
+      "Con carga, los 140 CV de base se quedan justos al subir puertos: suficientes, pero sin margen",
       "Baño central compacto: funcional pero sin lujos",
       "Precio orientativo alto para una 7 metros: la compacidad se paga",
-      "Red de concesionarios Dethleffs más pequeña que la de Benimar en España",
+      "En España, Benimar cuenta con más concesionarios que Dethleffs",
     ],
     opiniones: [],
     costeMensual: {
@@ -852,7 +852,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
       mantenimientoAnual: 600,
       costeMensualTotal: 430,
       notas:
-        "Estimación con 12.000 km/año, consumo medio ~10 l/100 km de gasóleo y seguro a todo riesgo.",
+        "Cifra calculada suponiendo 12.000 km anuales, 10 l/100 km de media con gasóleo y póliza a todo riesgo contratada.",
       estimado: true,
     },
     galeria: [
@@ -878,7 +878,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
     analisisSlug: "dethleffs-globebus-t-6-2026-precio-ficha-tecnica",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato: revisión cada 2 años o 48.000 km según plan Fiat Professional",
+        "Revisión del Fiat Ducato programada a los 2 años o a los 48.000 km (criterio Fiat Professional)",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",
@@ -943,8 +943,8 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
     cargaUtilKg: 850, // 3.300 − 2.450 kg en orden de marcha (aprox.)
     aprox: ["precioDesde", "pesoKg"],
     pros: [
-      "Conversión Westfalia de fábrica: calidad alemana con garantía Ford",
-      "Versión PHEV de 233 CV con 50 km eléctricos: única camper híbrida enchufable",
+      "Westfalia firma la conversión desde fábrica, con estándares alemanes y la garantía de Ford detrás",
+      "El PHEV suma 233 CV y 50 km en modo eléctrico: no hay otra camper híbrida enchufable como esta",
       "Techo elevable + baño con WC y ducha: más equipada que la California",
       "5,45 m de largo: ágil para el día a día (con 2,06 m de alto, ojo con los parkings subterráneos)",
       "Precio desde ~75.000 €: más barata que la California Ocean",
@@ -966,7 +966,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
       mantenimientoAnual: 450,
       costeMensualTotal: 380,
       notas:
-        "Estimación con 12.000 km/año, consumo medio ~8 l/100 km de gasóleo y seguro a todo riesgo.",
+        "Hipótesis: 12.000 km recorridos al año, gasto medio de 8 l/100 km en gasóleo y cobertura de seguro máxima (a todo riesgo).",
       estimado: true,
     },
     galeria: [
@@ -986,7 +986,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
     analisisSlug: "ford-nugget-plus-2026-precio-ficha-tecnica",
     planMantenimiento: {
       intervalo:
-        "Ford: revisión según indicador (hasta 2 años o 30.000 km en diésel)",
+        "En la versión diésel de Ford, la revisión la marca el indicador: como máximo, 2 años o 30.000 km",
       revisiones: [
         {
           nombre: "Revisión Ford",
@@ -1060,7 +1060,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
       "138.990 € la sitúan en el segmento premium: el doble que una perfilada generalista",
       "Con 3.094 kg en orden de marcha, la carga útil hasta 3.500 kg es justa con 5 ocupantes",
       "El motor de 150 CV es correcto pero el salto a 170 CV se paga aparte",
-      "Mantenimiento Mercedes más caro que el de las bases Fiat/Ford",
+      "Mantener la base Mercedes sale más caro que mantener una Fiat o una Ford",
       "6,99 m de integral imponen respeto al aparcar en ciudad",
     ],
     opiniones: [],
@@ -1073,7 +1073,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
       mantenimientoAnual: 750,
       costeMensualTotal: 520,
       notas:
-        "Estimación con 12.000 km/año, consumo medio ~11 l/100 km de gasóleo y seguro a todo riesgo.",
+        "El cálculo toma 12.000 km/año como referencia, aplica con gasóleo un consumo medio que ronda los 11 l/100 km y suma el seguro a todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1085,13 +1085,13 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
       },
       {
         src: "/media/hymer-b-mc-i-580-2026-interior-oficial.webp",
-        alt: "Interior oficial de la Hymer B-Class ModernComfort I 580",
+        alt: "La Hymer B-Class ModernComfort I 580 por dentro, imagen oficial",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/hymer-b-mc-i-580-2026-interior-oficial-2.webp",
-        alt: "Salón de la Hymer B-Class ModernComfort I 580",
+        alt: "Zona de estar en la B-Class ModernComfort I 580 de Hymer",
         ancho: 1200,
         alto: 800,
       },
@@ -1162,14 +1162,14 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
     emisionesCo2: null,
     aprox: ["precioDesde"],
     pros: [
-      "Mercedes-Benz Sprinter 419 CDI de 190 CV incluido en la edición CrossOver: la base más capaz del segmento",
+      "La edición CrossOver incluye el Sprinter 419 CDI de Mercedes-Benz con 190 CV: la base mecánica más capaz del segmento",
       "MMA de 4.100 kg con 2.910 kg en orden de marcha: 1.190 kg de carga útil, la mejor de su clase",
       "Tracción 4x4 opcional y neumáticos todoterreno: la única perfilada pensada para pistas",
       "Premio 'Mejor Autocaravana para Vivir a Tiempo Completo' (Practical Motorhome 2025)",
       "Camas gemelas traseras + cama central convertible: hasta 3 plazas en solo 6,74 m",
     ],
     contras: [
-      "MMA de 4.100 kg: exige carnet C1, NO sirve el carnet B",
+      "Sus 4.100 kg de MMA obligan a llevar el C1: el permiso B no habilita a conducirla",
       "Precio orientativo de ~162.740 €: territorio premium absoluto",
       "2.910 kg en vacío la hacen pesada: consumo real de 11-12 l/100 km",
       "Mantenimiento Mercedes-Benz Sprinter, más caro que el de las bases Fiat",
@@ -1185,7 +1185,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
       mantenimientoAnual: 800,
       costeMensualTotal: 570,
       notas:
-        "Estimación con 12.000 km/año, consumo medio ~11,5 l/100 km de gasóleo y seguro a todo riesgo.",
+        "Estimación construida con 12.000 km por año, una media de 11,5 l/100 km de gasóleo y el coste del seguro a todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1298,7 +1298,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
       mantenimientoAnual: 550,
       costeMensualTotal: 400,
       notas:
-        "Estimación con 12.000 km/año, consumo medio ~9 l/100 km de gasóleo y seguro a todo riesgo.",
+        "Se parte de 12.000 km anuales y de un consumo medio en torno a 9 l/100 km de gasóleo, además del seguro a todo riesgo, para llegar a esta estimación.",
       estimado: true,
     },
     galeria: [
@@ -1324,7 +1324,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
     analisisSlug: "knaus-boxstar-600-dq-2026-precio-ficha-tecnica",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato: revisión cada 2 años o 48.000 km según plan Fiat Professional",
+        "Según Fiat Professional, el Ducato pasa revisión cuando se cumplen 2 años o 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",
@@ -1387,8 +1387,8 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
     aprox: ["precioDesde"],
     pros: [
       "Camas gemelas traseras (195 x 80 cm) + cama abatible delantera (194 x 123 cm): 4 plazas reales, 5 con el salón convertible",
-      "MMA de 3.500 kg: se conduce con carnet B",
-      "Fiat Ducato 2.2 de 140 CV Euro 6e-bis: la base más extendida y con más talleres",
+      "Con 3.500 kg de MMA basta el carnet B para conducirla",
+      "El Ducato 2.2 de 140 CV con normativa Euro 6e-bis es la base con más talleres disponibles y la más extendida",
       "6,94 m compactos para una 4 plazas con dos zonas de cama independientes",
       "Carga útil de 426 kg, correcta para su tamaño",
     ],
@@ -1409,7 +1409,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
       mantenimientoAnual: 600,
       costeMensualTotal: 480,
       notas:
-        "Estimación con 12.000 km/año, consumo medio ~10,5 l/100 km de gasóleo y seguro a todo riesgo.",
+        "Con 12.000 km al año, gasóleo a razón de unos 10,5 l/100 km de media y la póliza a todo riesgo, el resultado estimado es este.",
       estimado: true,
     },
     galeria: [
@@ -1520,7 +1520,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
       mantenimientoAnual: 500,
       costeMensualTotal: 360,
       notas:
-        "Estimación con 12.000 km/año, consumo medio ~9 l/100 km de gasóleo y seguro a todo riesgo. Coste real muy dependiente del uso.",
+        "La cifra asume un uso de 12.000 km anuales, consumo medio de gasóleo cercano a 9 l/100 km, más el seguro a todo riesgo; el importe real depende en gran parte de cómo se viaje.",
       estimado: true,
     },
     galeria: [
@@ -1610,7 +1610,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
     pros: [
       "Camas gemelas traseras + cama abatible + salón convertible: hasta 5 plazas en 6,99 m",
       "Fiat Ducato 2.2 MultiJet de 140 CV: base probada con la red de talleres más amplia",
-      "MMA de 3.500 kg: se conduce con carnet B",
+      "Los 3.500 kg de MMA quedan dentro de lo que permite el permiso B",
       "La gama Pacific es la perfilada familiar de referencia de Pilote en Europa",
       "Salón para 5 comensales y 4 plazas homologadas en circulación",
     ],
@@ -1631,7 +1631,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
       mantenimientoAnual: 600,
       costeMensualTotal: 480,
       notas:
-        "Estimación con 12.000 km/año, consumo medio ~10,5 l/100 km de gasóleo y seguro a todo riesgo.",
+        "Orientación anual: 12.000 km, unos 10,5 litros de gasóleo cada 100 km de media y seguro a todo riesgo ya incluido.",
       estimado: true,
     },
     galeria: [
@@ -1744,7 +1744,7 @@ export const AUTOCARAVANAS_LOTE1_FN: Autocaravana[] = [{
       mantenimientoAnual: 450,
       costeMensualTotal: 380,
       notas:
-        "Estimación con 12.000 km/año, consumo medio ~7,5 l/100 km de gasóleo y seguro a todo riesgo.",
+        "Calculado para 12.000 km/año con un consumo medio aproximado de 7,5 l/100 km de gasóleo y la prima del todo riesgo.",
       estimado: true,
     },
     galeria: [

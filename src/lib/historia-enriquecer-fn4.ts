@@ -1,7 +1,6 @@
-// HISTORIA_ENRIQUECER_FN4 — recuperado por la auditoría 3 (punto ciego, 05/11/2026):
-// entradas de historia/euroncap de las tandas enriquecer-fichas-niki y lotes
-// cuya clave NO existía en el sistema montado (verificación clave a clave).
-// Fuentes: t4, t6, t7, t9, t10, t11, t12, t13, lote-E-b, redo-e-c.
+// HISTORIA_ENRIQUECER_FN4 — recuperación del 05/11/2026 a raíz del punto ciego señalado por la auditoría 3:
+// hitos de historia cuyas claves aún no figuraban en el sistema montado (revisión clave a clave).
+// Material de t4, t6, t7, t9, t10, t11, t12, t13, lote-E-b y redo-e-c (tandas enriquecer-fichas-niki y lotes).
 import type { HistoriaModelo } from "./historia-modelos.ts";
 
 export const HISTORIA_ENRIQUECER_FN4: Record<string, HistoriaModelo> = {
@@ -11,7 +10,7 @@ export const HISTORIA_ENRIQUECER_FN4: Record<string, HistoriaModelo> = {
       {
         anio: 2024,
         tipo: "lanzamiento",
-        cambio: "Lanzamiento en China el 26 de marzo de 2024 como BYD Yuan Up eléctrico; en Europa se vende como BYD Atto 2",
+        cambio: "Estreno chino el 26 de marzo de 2024 con el nombre BYD Yuan Up eléctrico; el mercado europeo lo conoce como BYD Atto 2",
         foto: null,
       },
       {
@@ -28,7 +27,7 @@ export const HISTORIA_ENRIQUECER_FN4: Record<string, HistoriaModelo> = {
       {
         anio: 2026,
         tipo: "lanzamiento",
-        cambio: "Lanzamiento en China en 2026 de la segunda generación del BYD Seagull (en Europa, Dolphin Surf): pasa a tracción trasera, crece hasta 4.205 mm, monta baterías Blade de 30,1 y 39,2 kWh y estrena la carga Flash de BYD (del 10 al 97 % en 9 minutos, según la marca)",
+        cambio: "La segunda generación del BYD Seagull debuta en China en 2026 (en Europa, Dolphin Surf): ahora con tracción trasera, longitud de hasta 4.205 mm, baterías Blade de 30,1 kWh y de 39,2 kWh y la nueva carga Flash de BYD, que según la marca pasa del 10 al 97 % en 9 minutos",
         foto: null,
       },
     ],
@@ -89,7 +88,7 @@ export const HISTORIA_ENRIQUECER_FN4: Record<string, HistoriaModelo> = {
       {
         anio: 2023,
         tipo: "lanzamiento",
-        cambio: "Lanzamiento en China el 15 de diciembre de 2023, SUV eléctrico sobre la e-Platform 3.0 Evo con arquitectura de 800 V",
+        cambio: "Estreno en China el 15 de diciembre de 2023: SUV eléctrico con arquitectura de 800 V sobre la e-Platform 3.0 Evo",
         foto: null,
       },
     ],
@@ -111,7 +110,7 @@ export const HISTORIA_ENRIQUECER_FN4: Record<string, HistoriaModelo> = {
       {
         anio: 2024,
         tipo: "lanzamiento",
-        cambio: "Lanzamiento en China el 26 de marzo de 2024 como BYD Yuan Up eléctrico; en Europa se vende como BYD Atto 2",
+        cambio: "El 26 de marzo de 2024 debuta en China el BYD Yuan Up eléctrico, comercializado en Europa bajo el nombre BYD Atto 2",
         foto: null,
       },
     ],
@@ -200,7 +199,7 @@ export const HISTORIA_ENRIQUECER_FN4: Record<string, HistoriaModelo> = {
     lanzamiento: 2019,
     hitos: [
       { anio: 2019, tipo: "lanzamiento", cambio: null, foto: null },
-      { anio: 2020, tipo: "restyling", cambio: "Actualización de la gama i30 N: motor 2.0 T-GDi de 280 CV y nuevo cambio automático N DCT de 8 velocidades", foto: null },
+      { anio: 2020, tipo: "restyling", cambio: "Actualización de la gama i30 N: el 2.0 T-GDi pasa a 280 CV y estrena cambio automático N DCT de 8 velocidades", foto: null },
     ],
   },
   "hyundai-kona-n-2023": {
@@ -249,7 +248,7 @@ export const HISTORIA_ENRIQUECER_FN4: Record<string, HistoriaModelo> = {
       {
         anio: 2024,
         tipo: "lanzamiento",
-        cambio: "Presentación mundial del Kia EV3 (mayo de 2024) y lanzamiento del SUV eléctrico compacto",
+        cambio: "El Kia EV3 se presenta a nivel mundial en mayo de 2024 y se lanza como SUV eléctrico compacto",
         foto: null,
       },
     ],
@@ -260,7 +259,7 @@ export const HISTORIA_ENRIQUECER_FN4: Record<string, HistoriaModelo> = {
       {
         anio: 2024,
         tipo: "lanzamiento",
-        cambio: "Presentación mundial del Kia EV3 (mayo de 2024) y lanzamiento del SUV eléctrico compacto",
+        cambio: "Presentación mundial en mayo de 2024 del Kia EV3, un SUV eléctrico compacto que se lanza ese año",
         foto: null,
       },
     ],
@@ -402,7 +401,7 @@ export const HISTORIA_ENRIQUECER_FN4: Record<string, HistoriaModelo> = {
       {
         anio: 2024,
         tipo: "lanzamiento",
-        cambio: "Segunda generación del MG3 presentada en el Salón de Ginebra (febrero de 2024)",
+        cambio: "El MG3 estrena su segunda generación en el Salón de Ginebra en febrero de 2024",
         foto: null,
       },
     ],
@@ -413,7 +412,7 @@ export const HISTORIA_ENRIQUECER_FN4: Record<string, HistoriaModelo> = {
       {
         anio: 2024,
         tipo: "lanzamiento",
-        cambio: "Segunda generación del MG3 presentada en el Salón de Ginebra (febrero de 2024) con el sistema híbrido Hybrid+",
+        cambio: "La segunda generación del MG3 se presenta en el Salón de Ginebra (febrero de 2024) con el sistema híbrido Hybrid+",
         foto: null,
       },
     ],

@@ -119,7 +119,7 @@ La lista de incógnitas es corta pero importante. La primera es el **precio**: e
 
 La segunda es la **mecánica concreta**: qué motor, con qué potencia y con qué peso mínimo. La tercera, el **calendario exacto** de las dos copas: cuántas pruebas, en qué rallyes, con qué formato. Y la cuarta, los planes de la **expansión internacional**: qué países, en qué año, con qué estructura.
 
-Actualizaremos la ficha en cuanto Renault publique los datos. Mientras tanto, lo sensato es no especular: todo lo que no esté en la tabla de confirmados de arriba, aún no existe oficialmente.<img src=/media/fotos-reales/renault-clio-vi-tce-115-2025-precio-ficha-tecnica alt=renault clio rally5 2027 anuncio copa rallyes — fotografía del modelo>
+Actualizaremos la ficha en cuanto Renault publique los datos. Mientras tanto, lo sensato es no especular: todo lo que no esté en la tabla de confirmados de arriba, aún no existe oficialmente.<img src=/media/fotos-reales/renault-clio-vi-tce-115-2025-precio-ficha-tecnica/renault-clio-vi-tce-115-2025-precio-ficha-tecnica-1.webp alt=renault clio rally5 2027 anuncio copa rallyes — fotografía del modelo>
 
 ## Preguntas frecuentes
 

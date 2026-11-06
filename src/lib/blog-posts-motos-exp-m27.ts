@@ -1,9 +1,8 @@
-// Fotos 5/11/2026 (2ª oleada, kove-450rr-2024-precio): Kove Motorcycles UK (MotoGB), galería oficial del modelo (bikes.motobank.co.uk).
-// Fotos 5/11/2026 (2ª oleada, morbidelli-c1002v-2025-pre): Morbidelli UK (MotoGB), galería oficial del modelo (bikes.motobank.co.uk); Wikimedia Commons, CC BY-SA 4.0, AVMOTO (File:Morbidelli C1002V 2025.jpg).
+// Fotos 5/11/2026 (2ª oleada, kove-450rr-2024-precio): galería oficial de Kove Motorcycles UK (MotoGB) para este modelo, en bikes.motobank.co.uk.
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/morbidelli-c1002v-2025-precio/
+//   la galería oficial de Morbidelli UK (MotoGB) para el modelo, en bikes.motobank.co.uk, y , de AVMOTO, en bajo (CC BY-SA 4.0.) (File:Morbidelli C1002V 2025.jpg), Wikimedia Commons.
+//   Morbidelli C1002V, Macbor Montana XR5). Datos verificados el 2026-10-08. Cada artículo enlaza su ficha /motos/<data-id> (regla dura 04/10/2026). Formato BlogPost idéntico a blog-posts-motos-exp-m1.ts.
 // Lote M27 — 5 artículos de motos (Kove 450RR, Kove 800X, Morbidelli T502X,
-// Morbidelli C1002V, Macbor Montana XR5). Datos verificados el 2026-10-08.
-// Cada artículo enlaza su ficha /motos/<data-id> (regla dura 04/10/2026).
-// Formato BlogPost idéntico a blog-posts-motos-exp-m1.ts.
 import type { BlogPost } from "./blog-data.ts";
 
 export const MOTOS_EXP_M27_POSTS: BlogPost[] = [

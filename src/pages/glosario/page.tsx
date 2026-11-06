@@ -8,38 +8,35 @@ import SharedFooter from "@/components/shared-footer.tsx";
 import { TERMINOS } from "@/lib/glosario-motor-data.ts";
 import CosaEnBanner from "@/components/CosaEnBanner.tsx";
 
+const FAQS = [
+  {
+    pregunta: "¿Qué significa kWh en un coche eléctrico?",
+    respuesta: "El kWh (kilovatio-hora) mide la energía que almacena la batería: es el «tamaño del depósito» del eléctrico. No lo confundas con el kW, que mide potencia.",
+  },
+  {
+    pregunta: "¿Qué diferencia hay entre WLTP y CLTC?",
+    respuesta: "WLTP es el protocolo europeo de homologación de autonomía; CLTC es el chino, con un ciclo más benévolo. Las cifras CLTC son siempre más altas y no son comparables con las WLTP.",
+  },
+  {
+    pregunta: "¿Qué etiqueta DGT lleva un coche eléctrico?",
+    respuesta: "Todos los eléctricos puros llevan la etiqueta CERO de la DGT, y también los híbridos enchufables con suficiente autonomía eléctrica. La etiqueta CERO permite entrar en las ZBE y acceder a las ayudas del Plan Auto+.",
+  },
+];
+
 const FAQ_SCHEMA = {
   "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "FAQPage",
       "@id": "https://recurretumulta.online/glosario#faq",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "¿Qué significa kWh en un coche eléctrico?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "El kWh (kilovatio-hora) mide la energía que almacena la batería: es el «tamaño del depósito» del eléctrico. No lo confundas con el kW, que mide potencia.",
-          },
+      "mainEntity": FAQS.map((f) => ({
+        "@type": "Question",
+        "name": f.pregunta,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": f.respuesta,
         },
-        {
-          "@type": "Question",
-          "name": "¿Qué diferencia hay entre WLTP y CLTC?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "WLTP es el protocolo europeo de homologación de autonomía; CLTC es el chino, con un ciclo más benévolo. Las cifras CLTC son siempre más altas y no son comparables con las WLTP.",
-          },
-        },
-        {
-          "@type": "Question",
-          "name": "¿Qué etiqueta DGT lleva un coche eléctrico?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Todos los eléctricos puros llevan la etiqueta CERO de la DGT, y también los híbridos enchufables con suficiente autonomía eléctrica. La etiqueta CERO permite entrar en las ZBE y acceder a las ayudas del Plan Auto+.",
-          },
-        },
-      ],
+      })),
     },
     {
       "@type": "BreadcrumbList",
@@ -130,18 +127,12 @@ export default function GlosarioMotorIndexPage() {
         <section className="mb-12">
           <h2 className="text-2xl font-bold mt-10 mb-4">Preguntas frecuentes</h2>
           <div className="space-y-4">
-            <div className="bg-white rounded-2xl border border-slate-200 p-5 sm:p-6">
-              <h3 className="font-bold text-slate-800 mb-2">¿Qué significa kWh en un coche eléctrico?</h3>
-              <p className="text-slate-600">El kWh (kilovatio-hora) mide la energía que almacena la batería: es el «tamaño del depósito» del eléctrico. No lo confundas con el kW, que mide potencia.</p>
-            </div>
-            <div className="bg-white rounded-2xl border border-slate-200 p-5 sm:p-6">
-              <h3 className="font-bold text-slate-800 mb-2">¿Qué diferencia hay entre WLTP y CLTC?</h3>
-              <p className="text-slate-600">WLTP es el protocolo europeo de homologación de autonomía; CLTC es el chino, con un ciclo más benévolo. Las cifras CLTC son siempre más altas y no son comparables con las WLTP.</p>
-            </div>
-            <div className="bg-white rounded-2xl border border-slate-200 p-5 sm:p-6">
-              <h3 className="font-bold text-slate-800 mb-2">¿Qué etiqueta DGT lleva un coche eléctrico?</h3>
-              <p className="text-slate-600">Todos los eléctricos puros llevan la etiqueta CERO de la DGT, y también los híbridos enchufables con suficiente autonomía eléctrica. La etiqueta CERO permite entrar en las ZBE y acceder a las ayudas del Plan Auto+.</p>
-            </div>
+            {FAQS.map((f) => (
+              <div key={f.pregunta} className="bg-white rounded-2xl border border-slate-200 p-5 sm:p-6">
+                <h3 className="font-bold text-slate-800 mb-2">{f.pregunta}</h3>
+                <p className="text-slate-600">{f.respuesta}</p>
+              </div>
+            ))}
           </div>
         </section>
 

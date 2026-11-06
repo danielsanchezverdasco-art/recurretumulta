@@ -1,9 +1,12 @@
 // Fotos 5/11/2026 (2ª oleada, avatr-changan-huawei-catl-): Wikimedia Commons, CC0, JustAnotherCarDesigner (File:Avatr 06T 001.jpg); Wikimedia Commons, CC0, JustAnotherCarDesigner (File:Avatr 06T 002.jpg).
 // Fotos 5/11/2026 (2ª oleada, jetour-zongheng-g700-903-c): Wikimedia Commons, CC0, JustAnotherCarDesigner (File:Jetour Zongheng G700 003.jpg); Wikimedia Commons, CC0, JustAnotherCarDesigner (File:Jetour Zongheng G700 004.jpg).
-// Fotos 5/11/2026 (2ª oleada, hongqi-g919-4x4-electrico-): Wikimedia Commons, CC0, JustAnotherCarDesigner (File:Hongqi G919 003.jpg).
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/hongqi-g919-4x4-electrico-831-cv/
+//   JustAnotherCarDesigner . (CC0) (File:Hongqi G919 003.jpg), Wikimedia Commons.
 // Fotos 5/11/2026 (2ª oleada, icaur-chery-marca-aventura): foto iCaur ya presente en el pool del sitio.
-// Fotos 5/11/2026 (2ª oleada, fangchengbao-byd-marca-des): foto del Bao 5 (Fangchengbao/Denza Bao 5) ya presente en el pool del sitio (ficha del modelo).
-// Fotos 5/11/2026 (2ª oleada, rox-01-erev-pininfarina-au): foto del mismo modelo ya presente en el pool del sitio (ficha u otro post del modelo).
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5/
+//   la foto de Bao 5 (Fangchengbao/Denza Bao 5) ya estaba en el pool del sitio (ficha del modelo)
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/rox-01-erev-pininfarina-autonomia-1115-km/
+//   foto de mismo modelo tomada del pool del sitio (en la ficha o en otro post del modelo)
 // Fotos 5/11/2026 (2ª oleada, evoke-nrgy-moto-electrica-): Evoke Motorcycles, galería oficial del modelo (evokemotorcycles.com).
 // Sección "Modelos desconocidos" (03/10/2026) — marcas chinas poco conocidas en Europa.
 // El coche chino es el futuro: Fangchengbao, Yangwang, Avatr, Rox Motor, IM Motors.
@@ -725,7 +728,7 @@ Antes de soñar con un coche de 5 metros y 755 km por 26.000 €, la realidad: e
 
 ¿Y si Volkswagen cambiara de idea? Los rumores apuntan a que los alemanes estudian **traer a Europa varios de sus eléctricos chinos**, y el UNYX 09 encajaría como un hipotético **ID.9** entre el ID.7 y el segmento premium. Con un posicionamiento lógico en torno a los 60.000 €, tendría rivales como el Tesla Model 3, el BYD Seal o el Hyundai IONIQ 6 temblando. Pero hoy por hoy es solo un rumor: **no hay plan oficial**.
 
-Puedes comparar lo que sí se vende aquí en el <a href=/comparador-coches/>comparador de coches eléctricos</a>.<img src=/media/fotos-reales/volkswagen-id-aura-t6-xpeng-china alt=ID. UNYX 09: 755 km solo para China — fotografía del modelo><img src=/media/fotos-reales/volkswagen-id-aura-t6-xpeng-china/volkswagen-id-aura-t6-xpeng-china-1.webp alt=ID. UNYX 09: 755 km solo para China — fotografía del modelo>
+Puedes comparar lo que sí se vende aquí en el <a href=/comparador-coches/>comparador de coches eléctricos</a>.<img src=/media/fotos-reales/volkswagen-id-aura-t6-xpeng-china/volkswagen-id-aura-t6-xpeng-china-1.webp alt=ID. UNYX 09: 755 km solo para China — fotografía del modelo><img src=/media/fotos-reales/volkswagen-id-aura-t6-xpeng-china/volkswagen-id-aura-t6-xpeng-china-1.webp alt=ID. UNYX 09: 755 km solo para China — fotografía del modelo>
 
 ## Preguntas frecuentes
 

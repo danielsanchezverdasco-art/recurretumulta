@@ -1,4 +1,4 @@
-// Fotos 5/11/2026 (2ª oleada, renault-10000-millones-ele): Wikimedia Commons, CC BY-SA 4.0, Alexander Migl (File:Renault 5 E-Tech Electric DSC 7279.jpg); Wikimedia Commons, CC BY-SA 4.0, Alexander-93 (File:Renault 5 E-Tech Electric Auto Zuerich 2024 DSC 6501.jpg); Wikimedia Commons, CC BY-SA 4.0, Alexander-93 (File:Renault 5 E-Tech Electric DSC 7168.jpg).
+// Fotos 5/11/2026 (2ª oleada, renault-10000-millones-ele): Alexander Migl firma (File:Renault 5 E-Tech Electric DSC 7279.jpg), imagen de Wikimedia Commons publicada bajo CC BY-SA 4.0; Alexander-93 firma (File:Renault 5 E-Tech Electric Auto Zuerich 2024 DSC 6501.jpg) y también (File:Renault 5 E-Tech Electric DSC 7168.jpg), ambas en Wikimedia Commons bajo la misma licencia, CC BY-SA 4.0.
 // Artículos de novedades del motor (lote diario 2026-10-09, lote M).
 // 2 artículos: BYD Great Han (flash, lanzamiento China 13/10) y plan de
 // inversión de Renault de 10.000 M€ + ofensiva del Salón de París 2026 (fondo).
