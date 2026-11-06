@@ -2007,7 +2007,7 @@ const COCHES_LOTE12_E: CocheComparador[] = [
     modelo: "GLS",
     tipo: "Híbrido ligero",
     categoria: "SUV",
-    precioDesde: 125018,
+    precioDesde: 127050,
     potenciaCv: 381,
     autonomiaKm: null,
     maleteroL: 355,

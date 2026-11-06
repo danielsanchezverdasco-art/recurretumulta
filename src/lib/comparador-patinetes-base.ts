@@ -1349,7 +1349,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie M20",
-    precioEur: 330, // tarifa oficial España (verificado 20/10/2026)
+    precioEur: 279, // tarifa oficial España (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 500,
     autonomiaKm: 20,
@@ -1385,7 +1385,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie M30 Connected",
-    precioEur: 339, // tarifa oficial España (verificado 20/10/2026)
+    precioEur: 319, // tarifa oficial España (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 30,
@@ -2258,7 +2258,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Niu",
   modelo: "KQi1 Pro",
-  precioEur: 199,
+  precioEur: 399,
   potenciaNominalW: 250,
   potenciaPicoW: 450,
   autonomiaKm: 25,
@@ -2546,7 +2546,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Kaabo",
   modelo: "Wolf Warrior X Plus",
-  precioEur: 4449,
+  precioEur: 1799,
   potenciaNominalW: 2200,
   potenciaPicoW: 4000,
   autonomiaKm: 70,
@@ -2867,7 +2867,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Xiaomi",
   modelo: "Electric Scooter 5 Plus",
-  precioEur: 549.99, // tarifa oficial España (verificado 20/10/2026)
+  precioEur: 599.99, // tarifa oficial España (verificado 20/10/2026)
   potenciaNominalW: 400,
   potenciaPicoW: 900,
   autonomiaKm: 60,
@@ -3108,7 +3108,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Cecotec",
   modelo: "Bongo D30",
-  precioEur: 449, // tarifa oficial España (verificado 20/10/2026)
+  precioEur: 269, // tarifa oficial España (verificado 20/10/2026)
   potenciaNominalW: 350,
   potenciaPicoW: 650,
   autonomiaKm: 30,
@@ -3257,7 +3257,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Dualtron",
   modelo: "Victor",
-  precioEur: 2400, // 2.699 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
+  precioEur: 1899, // 2.699 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 2400,
   potenciaPicoW: 4000,
   autonomiaKm: 100,
@@ -3367,7 +3367,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Wolf King GT Pro",
-    precioEur: 3599,
+    precioEur: 3299,
     potenciaNominalW: 4000,
     potenciaPicoW: 8400,
     autonomiaKm: 180,
@@ -4401,7 +4401,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Zwheel",
   modelo: "ZFox Max",
-  precioEur: 499,
+  precioEur: 549.99,
   potenciaNominalW: 400,
   potenciaPicoW: 800,
   autonomiaKm: 50,
