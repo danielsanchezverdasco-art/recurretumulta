@@ -642,11 +642,11 @@ function BlogPostPage() {
           {fotoVisible(heroSrc) ? (
             <>
               <DriveInImage
-                src={heroSrc!}
+                src={heroSrc as string}
                 alt={heroAlt}
                 eager={true}
-                width={dims[heroSrc.split("/").pop() ?? ""]?.[0]}
-                height={dims[heroSrc.split("/").pop() ?? ""]?.[1]}
+                width={dims[(heroSrc as string).split("/").pop() ?? ""]?.[0]}
+                height={dims[(heroSrc as string).split("/").pop() ?? ""]?.[1]}
                 className="absolute inset-0"
                 imgClassName="w-full h-full object-cover"
               />
