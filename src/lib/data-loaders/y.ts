@@ -87,6 +87,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "yangwang-u8l-2025-precio-ficha-tecnica": () => import("../blog-posts-yangwang-a.ts"),
     "yangwang-u9-2024-precio-ficha-tecnica": () => import("../blog-posts-yangwang-a.ts"),
     "yangwang-u9-xtreme-2025-precio-ficha-tecnica": () => import("../blog-posts-yangwang-a.ts"),
+    "yangwang-u9-xtreme-503-km-h-record-mundial-velocidad": () => import("../blog-posts-radar-20261106-1358.ts"),
   },
   coche: {
     "yangwang-byd-berlina-260000-euros-rolls-royce": () => import("../comparador-coches-chinos-2026.ts"),
