@@ -33,7 +33,7 @@ export const RADAR_20261106_1858_POSTS: BlogPost[] = [
     ],
     content: `<img src=/media/mazda-6e-2027-1.webp alt=Mazda 6e 2027, berlina eléctrica gris plata, vista tres cuartos delantera>
 
-**¿Buscas solo los datos?** <a href=/coches/mazda-6e-2027/>Ver ficha técnica del Mazda6e 2027</a>: precio, autonomía, carga y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+**¿Quieres la tabla?** <a href=/coches/mazda-6e-2027/>Ficha del Mazda6e 2027</a>: precio, autonomía, carga y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Mazda6e 2027** llega a los concesionarios españoles en noviembre con una idea muy clara: corregir lo que cojeaba del modelo original sin tocar lo que ya funcionaba. No es un lavado de cara ni un cambio de generación, es una actualización quirúrgica. Mazda cambia la batería, revisa el chasis, afina la dirección y el acelerador, mejora los asistentes y añade un acabado nuevo a la gama. El resultado, según las primeras pruebas publicadas esta semana, es un coche mejor en casi todo lo medible: más autonomía, una carga mucho más rápida y un consumo más bajo, por 1.000 euros más que la versión de acceso a la que sustituye. La marca anunció la actualización en septiembre, con nota oficial, y ahora que los medios han podido probarlo llega el momento de contarlo con calma: qué cambia de verdad, cuánto cuesta en España, qué se pierde por el camino y si merece la pena esperar al 2027 o cazar una unidad del 2025 con descuento.
 
@@ -45,7 +45,7 @@ El **Mazda6e 2027** llega a los concesionarios españoles en noviembre con una i
 | **Motor** | Eléctrico trasero, 258 CV (190 kW), 290 Nm |
 | **Batería** | LFP de 78 kWh |
 | **Autonomía WLTP** | 560 km |
-| **Carga rápida DC** | 200 kW; del 10 al 80 % en 24 min |
+| **Carga rápida DC** | 200 kW, y el 10-80 % cabe en 24 min |
 | **Carga AC** | 11 kW (completa en unas 7,9 h) |
 | **Consumo WLTP** | 16,1 kWh/100 km |
 | **0-100 km/h** | 7,3 s |
@@ -54,13 +54,13 @@ El **Mazda6e 2027** llega a los concesionarios españoles en noviembre con una i
 | **Largo** | 4,92 m |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/mazda-6e-2027/>Ficha técnica completa del Mazda6e 2027</a> con medidas y comparativas.
+¿Quieres el resto de cifras? <a href=/coches/mazda-6e-2027/>La ficha larga del Mazda6e 2027</a> con medidas y comparativas.
 
 ## Una sola batería: la LFP de 78 kWh lo cambia todo
 
 El problema del 6e original no era uno, eran dos, y ambos vivían en la gama. Mazda ofrecía dos baterías y ninguna era redonda. La de acceso, una LFP de 68,8 kWh con 258 CV, cargaba a 165 kW y homologaba 479 km: correcta, pero corta para una berlina de casi cinco metros que aspira a viajar. La Long Range, con una NMC de 80 kWh y 245 CV, llegaba a 552 km pero su carga rápida se quedaba en unos pobres 90 kW: en un viaje largo, el coche que más lejos llegaba era también el que más tardaba en repostar. Era una gama que obligaba a elegir entre autonomía o velocidad de carga, y esa es una elección que ningún rival obliga a hacer en 2026.
 
-El año modelo 2027 resuelve el dilema eliminándolo: una única batería de litio-ferrofosfato (LFP) de **78 kWh** para toda la gama, asociada siempre al motor trasero de 190 kW (**258 CV**). Homologa **560 km WLTP**, ocho más que el antiguo Long Range con 2 kWh menos de capacidad, porque el consumo combinado baja de 16,6 a **16,1 kWh/100 km**. Es la misma batería que ya monta el <a href=/coches/mazda-cx-6e-2026-precio-ficha-tecnica/>Mazda CX-6e</a>, el SUV hermano del 6e, así que no es un experimento: es hardware probado dentro de la casa. La química LFP, además, tiene dos ventajas que no salen en la ficha: admite cargas completas al 100 % sin degradarse como una NMC y su vida útil es más larga, algo que importa cuando el coche se compra para durar.
+El año modelo 2027 resuelve el dilema eliminándolo: una única batería de litio-ferrofosfato (LFP) de **78 kWh** para toda la gama, asociada siempre al motor trasero de 190 kW (**258 CV**). Homologa **560 km WLTP**, ocho por encima del Long Range anterior con 2 kWh menos de capacidad, porque el consumo combinado baja de 16,6 a **16,1 kWh/100 km**. Es la misma batería que ya monta el <a href=/coches/mazda-cx-6e-2026-precio-ficha-tecnica/>Mazda CX-6e</a>, el SUV hermano del 6e, así que no es un experimento: es hardware probado dentro de la casa. La química LFP, además, tiene dos ventajas que no salen en la ficha: admite cargas completas al 100 % sin degradarse como una NMC y su vida útil es más larga, algo que importa cuando el coche se compra para durar.
 
 Hay un matiz que conviene no esconder. El par máximo baja de 320 a **290 Nm**, según reconoce la propia documentación de Mazda. La marca asegura, a cambio, haber mejorado la aceleración y la capacidad de frenada regenerativa, y las pruebas lo confirman en parte: el 0 a 100 km/h queda en **7,3 segundos**, tres décimas menos que la versión de 68,8 kWh. No es un deportivo ni lo pretende, pero empuja con contundencia desde parado, como corresponde a un eléctrico de 258 CV con el motor en el eje trasero.
 
@@ -98,7 +98,7 @@ La gama española del Mazda6e 2027 queda en tres acabados con una única mecáni
 | **Takumi Plus** | 46.375 € |
 | **Homura Plus** (nuevo) | 46.375 € |
 
-Con las campañas de lanzamiento y el Plan Auto+, Mazda anuncia un **precio de acceso de 36.140 euros** para el Takumi y de **37.790 euros** para los acabados superiores, sin contar posibles descuentos adicionales por financiación o CAES. Las llantas son de 19 pulgadas en todos los acabados, y el nuevo Homura Plus pretende darle un toque todavía más prémium a unos acabados que ya desde el de acceso logran una elevada calidad percibida. El coche llega a los concesionarios durante este mes de noviembre de 2026.
+Sumando la campaña de lanzamiento y el Plan Auto+, Mazda comunica un **precio de acceso de 36.140 euros** para el Takumi y de **37.790 euros** para los acabados superiores, sin contar posibles descuentos adicionales por financiación o CAES. Las llantas son de 19 pulgadas en todos los acabados, y el nuevo Homura Plus pretende darle un toque todavía más prémium a unos acabados que ya desde el de acceso logran una elevada calidad percibida. El coche llega a los concesionarios durante este mes de noviembre de 2026.
 
 La comparación con lo anterior es instructiva. Frente al Takumi de 68,8 kWh, el nuevo cuesta **1.000 euros más** y a cambio suma 81 km de autonomía homologada y 35 kW más de pico de carga. Frente al Long Range, cuesta **600 euros menos**, tiene 13 CV más y tarda la mitad en el cargador. Es uno de esos pocos casos en los que la actualización es mejor en casi todo y apenas se paga: la subida de 1.000 euros se compensa con creces en autonomía y, sobre todo, en tiempo de carga.
 
@@ -123,8 +123,8 @@ La tabla lo resume todo: el 2027 se queda con lo mejor de cada versión anterior
 | ✅ Pros | ❌ Contras |
 |---|---|
 | 560 km WLTP con una sola batería LFP | El par baja a 290 Nm (antes 320 Nm) |
-| Carga de 200 kW: 10-80 % en 24 min | 1.000 € más caro que el acceso de 2025 |
-| Consumo de 16,1 kWh/100 km, el mejor de la gama | Una sola motorización: sin tracción total ni versión más potente |
+| Carga a 200 kW: el 10-80 % cabe en 24 min | 1.000 € más caro que el acceso de 2025 |
+| Consumo de 16,1 kWh/100 km, el mejor de la gama | Una sola mecánica: no hay tracción total ni un escalón más potente |
 | Chasis revisado para carreteras europeas | La dependencia de los controles táctiles sigue ahí |
 | Asistentes hasta 160 km/h | Maletero de 466 l, correcto sin sobrar |
 | 5 estrellas Euro NCAP (2025) y etiqueta Cero | Fabricado en China con Changan, no en Hiroshima |
@@ -181,7 +181,7 @@ El **Chevrolet Corvette** vuelve a España por la puerta grande. Tayre, grupo de
 
 La noticia se conoció esta semana, cuando Autonoción asistió a la presentación del Corvette en Madrid de la mano de **Tayre**, el grupo responsable de importar unidades europeas del modelo. Tayre no es un recién llegado al mundo del lujo: es un grupo de concesionarios premium con showroom en la capital, y su página de Corvette Madrid se presenta como **concesionario oficial y servicio técnico autorizado Corvette**, con recambios originales. El mensaje es claro: el Corvette se vende en España con la misma lógica que cualquier premium europeo, con un concesionario que responde y un taller que conoce el coche.
 
-Conviene poner la noticia en su sitio. El Corvette C8 ya tenía venta y servicio de marca en España a través de **Housin, en Sevilla**, como recoge nuestra <a href=/coches/chevrolet-corvette-c8-2025-precio-ficha-tecnica/>ficha del Corvette C8</a>, con homologación europea y COC. Lo que cambia ahora es la escala: Tayre suma Madrid a la red, presenta la gama completa de tres versiones y pone precios públicos sobre la mesa. De un canal único en Sevilla se pasa a una red con dos polos, Madrid y Sevilla, y con una presentación que deja claro que General Motors va en serio con el Corvette en Europa. Para el comprador, la diferencia es práctica: más cerca un concesionario, más fácil una prueba, una revisión o un recambio.
+Conviene poner la noticia en su sitio. El Corvette C8 ya tenía venta y servicio de marca en España a través de **Housin (Sevilla)**, como recoge nuestra <a href=/coches/chevrolet-corvette-c8-2025-precio-ficha-tecnica/>ficha del Corvette C8</a>, con homologación europea y COC. Lo que cambia ahora es la escala: Tayre suma Madrid a la red, presenta la gama completa de tres versiones y pone precios públicos sobre la mesa. De un canal único en Sevilla se pasa a una red con dos polos, Madrid y Sevilla, y con una presentación que deja claro que General Motors va en serio con el Corvette en Europa. Para el comprador, la diferencia es práctica: más cerca un concesionario, más fácil una prueba, una revisión o un recambio.
 
 ## Tres versiones: Stingray, Z06 y E-Ray
 
@@ -225,7 +225,7 @@ El salpicadero está orientado al conductor y queda cubierto por **cuero y ante*
 
 Tener un Corvette en España ya no depende de un importador gris ni de un viaje a Alemania para la revisión. Tayre anuncia **concesionarios oficiales y una red de talleres especializada** en Corvette en España, y su web de Corvette Madrid ofrece servicio oficial y recambios originales. A eso se suma la red que ya existía en Sevilla. En la práctica, el comprador español tiene ahora dónde probar el coche, dónde firmarlo, dónde revisarlo y a quién reclamar. Es la diferencia entre comprar un coche y comprar un coche con respaldo.
 
-Queda una pregunta lógica: la garantía. En Estados Unidos, Chevrolet ofrece **3 años o 60.000 km** de garantía. En Europa, la cobertura concreta depende del importador y del contrato de compraventa, así que el consejo es el mismo que damos siempre con los coches de importación oficial: antes de firmar, pide por escrito qué cubre el concesionario, durante cuánto tiempo y con qué condiciones, también respecto a la parte híbrida del E-Ray. Un V8 de 646 CV, unos frenos carbocerámicos y unos neumáticos de esa medida no se mantienen con presupuesto de utilitario, y mejor saberlo antes que después.
+Queda una pregunta lógica: la garantía. En Estados Unidos, Chevrolet ofrece **3 años o 60.000 km** de garantía. En Europa, la cobertura concreta depende del importador y del contrato de compraventa, así que repetimos lo que decimos con los coches de importación oficial: antes de firmar, pide por escrito qué cubre el concesionario, durante cuánto tiempo y con qué condiciones, también respecto a la parte híbrida del E-Ray. Un V8 de 646 CV, unos frenos carbocerámicos y unos neumáticos de esa medida no se mantienen con presupuesto de utilitario, y mejor saberlo antes que después.
 
 ## El Corvette en España: una historia de idas y venidas
 
@@ -250,7 +250,7 @@ Esa es la clave de todo el proyecto Corvette, y la razón por la que su regreso 
 En Tayre el Stingray arranca en **140.000 €**, con coches recién salidos de fábrica y casi todo el catálogo de extras. El Z06 se va por encima de 240.000 €. La cifra final la marca la configuración.
 
 ### ¿Dónde se puede comprar un Corvette en España?
-Hay dos puertas oficiales: **Tayre, en Madrid**, que es concesionario y taller autorizado, y **Housin, en Sevilla**, que ya entregaba el C8 con homologación europea. Los dos tienen recambio original.
+Hay dos puertas oficiales: **Tayre, en Madrid**, que es concesionario y taller autorizado, y **Housin (Sevilla)**, que ya entregaba el C8 con homologación europea. Los dos tienen recambio original.
 
 ### ¿Qué versiones del Corvette se venden en España?
 La oferta son tres: el **Stingray** con el V8 6.2 de 482 CV, el **Z06** con el V8 5.5 de 646 CV y el **E-Ray** híbrido de 643 CV y tracción a las cuatro ruedas. ZR1 y ZR1X no figuran en el encargo oficial.

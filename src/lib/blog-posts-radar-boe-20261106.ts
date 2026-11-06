@@ -20,19 +20,19 @@ La norma es breve: un solo artículo toca el punto 3 del artículo 10 en el RD 1
 
 ## Qué cambia exactamente: cinco papeles que cada ayuntamiento debe entregar
 
-El artículo único del Real Decreto 953/2026 cambia el punto 3 del artículo 10 en el RD 1052/2022, el que habla del seguimiento y de la comunicación de las zonas. Las entidades locales deben informar a la Subdirección General de calidad del aire y al órgano autonómico de medio ambiente sobre las ZBE de su territorio —delimitación y superficie, medidas adoptadas, calendario y resultado de los indicadores obligatorios— en el plazo máximo de un mes desde su establecimiento. Y, para que la implantación se considere debidamente acreditada, deben remitir además esta documentación:
+El artículo único del Real Decreto 953/2026 cambia el tercer apartado del artículo 10 del RD 1052/2022, el que habla del seguimiento y de la comunicación de las zonas. Las entidades locales deben informar a la Subdirección General de calidad del aire y al órgano autonómico de medio ambiente sobre las ZBE de su territorio —delimitación y superficie, medidas adoptadas, calendario y resultado de los indicadores obligatorios— en el plazo máximo de un mes desde su establecimiento. Y, para que la implantación se considere debidamente acreditada, deben remitir además esta documentación:
 
 | Documento que debe remitir el ayuntamiento | Plazo o condición |
 |---|---|
 | La normativa municipal vigente que establece el régimen de la ZBE | En el plazo de un mes desde su entrada en vigor |
 | La documentación que acredite la entrada en vigor efectiva de las prohibiciones o restricciones de acceso, circulación y estacionamiento según el potencial contaminante | Debe demostrar que las restricciones rigen de verdad, no solo en la ordenanza |
-| La documentación que acredite la aplicación efectiva del sistema de control de accesos, monitorización y seguimiento | Las cámaras y el seguimiento tienen que estar funcionando |
+| Los papeles que prueben la aplicación efectiva del sistema de control de accesos, monitorización y seguimiento | Las cámaras y el seguimiento tienen que estar funcionando |
 | La integración con el Punto de Acceso Nacional de Tráfico y Movilidad de la Dirección General de Tráfico | La ZBE debe estar conectada con el sistema nacional de la DGT |
 | La documentación que acredite la aplicación efectiva del régimen sancionador | Debe excluir cualquier sistema transitorio de avisos que se hubiera contemplado antes |
 
 El último punto es el que más cambia la vida del conductor. Muchas ciudades estrenaron su ZBE con un periodo de avisos: las cámaras leían las matrículas y, en lugar de multar, enviaban una carta informativa durante meses. Ese modelo queda fuera: el real decreto exige acreditar la aplicación efectiva del régimen sancionador y aclara que ese régimen **excluirá cualquier sistema transitorio de avisos que pudiera haberse contemplado previamente**. Dicho de forma directa: avisar sin multar ya no cuenta como tener una ZBE en marcha.
 
-## Desde cuándo se aplica el Real Decreto 953/2026
+## Qué día empieza a exigirse el decreto 953/2026
 
 El real decreto se aprobó en el Consejo de Ministros del 3 de noviembre de 2026, a propuesta de la Vicepresidenta Tercera del Gobierno y Ministra para la Transición Ecológica y el Reto Demográfico y del Ministro del Interior, de acuerdo con el Consejo de Estado, y se publicó en el BOE del 6 de noviembre de 2026 con la referencia BOE-A-2026-23268. El texto no fija una fecha de entrada en vigor distinta, así que se aplica la regla general del artículo 2.1 del Código Civil: las normas entran en vigor a los veinte días de su publicación completa en el BOE si no disponen otra cosa. Eso sitúa la entrada en vigor el **26 de noviembre de 2026**.
 
@@ -55,13 +55,13 @@ El tercer efecto es más sutil: la norma convierte la acreditación en condició
 | Implantación de la ZBE | Bastaba aprobar la ordenanza y delimitar el perímetro | Hay que acreditarla con documentación ante el Ministerio y la comunidad autónoma |
 | Periodo de avisos | Podía mantenerse como fase transitoria | Queda excluido: no cuenta como régimen sancionador |
 | Control de accesos | Sin obligación de acreditar que funcionaba | Hay que demostrar que el sistema de control, monitorización y seguimiento se aplica de verdad |
-| Información a la DGT | Sin integración exigida | Conexión obligatoria con el nodo nacional de tráfico de la DGT |
+| Información a la DGT | Sin integración exigida | Enlace obligatorio con el sistema nacional de tráfico de la DGT |
 | Si falta la documentación | La zona seguía considerándose implantada | La ZBE no se considera correctamente implantada |
 | Importe de la multa por entrar sin autorización | 200 € (100 € con pronto pago), 0 puntos | Sin cambios: 200 € (100 € con pronto pago), 0 puntos |
 
 ## ¿A qué ciudades afecta?
 
-La Ley 7/2021, la de cambio climático, obliga en su artículo 14.3 a crear una zona de bajas emisiones en cada municipio que supera los 50.000 habitantes. Son **más de 149 localidades** en las que concentran cerca de la mitad de la población del país, y el RD 1052/2022 (27 de diciembre), fija los requisitos mínimos que esas zonas deben cumplir. El Real Decreto 953/2026 no amplía ese mapa: lo que hace es exigir que cada una de esas zonas demuestre que existe de verdad.
+La Ley 7/2021, la de cambio climático, obliga en su artículo 14.3 a crear una zona de bajas emisiones en cada municipio que supera los 50.000 habitantes. Son **más de ciento cuarenta y nueve municipios** en las que concentran cerca de la mitad de la población del país, y el RD 1052/2022 (27 de diciembre), fija los requisitos mínimos que esas zonas deben cumplir. El Real Decreto 953/2026 no amplía ese mapa: lo que hace es exigir que cada una de esas zonas demuestre que existe de verdad.
 
 Las dos zonas más conocidas muestran lo distinto que puede ser el panorama. En Madrid rige la norma más severa del país, con los empadronados en moratoria hasta el 31 de diciembre de 2026. En Barcelona, la zona metropolitana funciona por franjas horarias y los coches con matrícula extranjera tienen que estar empadronados antes en el censo metropolitano. Sevilla, Valencia, Málaga y Zaragoza tienen cada una su propio calendario dentro del marco estatal. Con el nuevo real decreto, todas deben acreditar lo mismo: ordenanza vigente, restricciones en vigor, control funcionando, conexión con la DGT y sanciones aplicándose.
 
@@ -75,7 +75,7 @@ El real decreto no toca el sistema de distintivos ambientales: lo que decide si 
 |---|---|---|
 | Sin etiqueta (A) | Gasolina de antes de 2001 y diésel de antes de 2006 | Prohibido salvo excepciones |
 | B | Gasolina de 2001 a 2005, diésel de 2006 a 2013 | Limitado según la ciudad |
-| C | Gasolina desde 2006, diésel desde 2014 | Limitado según la ciudad |
+| C | Gasolina matriculada desde 2006 y diésel desde 2014 | Limitado según la ciudad |
 | ECO | Híbridos y gas | Sin restricciones |
 | Cero | Eléctricos | Sin restricciones |
 
@@ -95,7 +95,7 @@ El procedimiento completo, con los motivos más habituales y los pasos ante el a
 
 ## Preguntas frecuentes
 
-### ¿Desde cuándo se aplica el Real Decreto 953/2026?
+### ¿Qué día entra en vigor el decreto 953/2026?
 
 La publicación es la del BOE del 6 de noviembre de 2026 (BOE-A-2026-23268). Como el texto no dice otra cosa, cuenta el artículo 2.1 del Código Civil: veinte días después de esa publicación completa, el **26 de noviembre de 2026**.
 

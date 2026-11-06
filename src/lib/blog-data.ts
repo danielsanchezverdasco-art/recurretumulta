@@ -115,7 +115,7 @@ Antes de escribir nada, puedes <a href=https://recurretumulta.online/#analizador
 ## Preguntas frecuentes
 
 ### ¿Cuánto puede tardar la DGT en resolver un recurso de reposición?
-La DGT dispone de **1 mes** para resolver el recurso de reposición. Si no responde en ese plazo, se aplica el silencio administrativo negativo: se entiende desestimado y puedes ir a la vía contencioso-administrativa.
+La DGT tiene **un mes** para contestar el recurso de reposición. Si ese plazo se pasa en silencio, se aplica el silencio administrativo negativo: se entiende desestimado y puedes ir a la vía contencioso-administrativa.
 
 ### ¿Puedo recurrir si ya pagué con el descuento del 50%?
 No. Pagar con pronto pago supone **renunciar al derecho a recurrir** y agota la vía administrativa. Por eso la regla de oro es: si vas a recurrir, no pagues la multa antes.
@@ -1490,9 +1490,9 @@ El calendario manda tanto como el fondo del asunto. Desde que te notifican la de
 |---|---|---|
 | Notificación de la denuncia | Día 0 | Abre el plazo |
 | Alegaciones | **20 días naturales** (art. 95.1) | Presentar escrito ante la Jefatura Provincial o la sede electrónica |
-| Recurso de reposición | **1 mes** desde la notificación (art. 96.2-96.3) | Presentar escrito ante la Jefatura que sancionó |
+| Recurso de reposición | **un mes** contado desde que te notifican (art. 96.2 y 96.3) | Presentar escrito ante la Jefatura que sancionó |
 | Pronto pago (50% descuento) | 20 días naturales | Pagar y perder el derecho a recurrir |
-| Resolución del recurso de reposición | **1 mes** (art. 96.5) | Si la DGT no responde en 1 mes, el recurso se entiende desestimado (silencio desestimatorio) |
+| Resolución del recurso de reposición | **1 mes** (art. 96.5) | Si la DGT calla ese mes, el silencio desestima el recurso (silencio desestimatorio) |
 | Recurso contencioso-administrativo | **2 meses** desde la resolución | Solo si la DGT desestima |
 
 Plazos contrastados con el <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722>RDL 6/2015</a> (arts. 94, 95.1 y 96.2-96.5), consulta del 5/11/2026. El plazo de 1 mes es el del recurso de reposición de tráfico; la Ley 39/2015 (arts. 21 y 24.1) es solo el marco general. Más detalle: <a href=/blog/cuanto-tarda-dgt-en-responder-recurso/>cuánto tarda la DGT en responder un recurso</a> y <a href=/blog/como-pagar-multa-dgt/>cómo pagar una multa DGT</a>.

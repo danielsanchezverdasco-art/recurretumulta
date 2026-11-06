@@ -281,7 +281,7 @@ export const COCHES_YANGWANG: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "503,17 km/h en 2026: primer automóvil de serie que pasa de 500 km/h",
+      "503,17 km/h en 2026: primer coche de serie por encima de 500 km/h",
       "6:59.157 en Nürburgring: primer eléctrico bajo 7 minutos",
       "Más de 3.000 CV con cuatro motores a 30.000 rpm",
       "Arquitectura de 1.200 V, la primera en serie del mundo",

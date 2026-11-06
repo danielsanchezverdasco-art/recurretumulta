@@ -295,7 +295,7 @@ const BASE: Omit<Comunidad, "faq">[] = [
     provincias: ["madrid"],
     capital: "Madrid",
     foto: "/media/file_sG1QGXHmBmVNNxxkWkdoekLf.webp",
-    descripcion: `${"La Comunidad de Madrid es uniprovincial y su normativa de tráfico se reparte entre tres niveles: la DGT sanciona en las carreteras interurbanas (A-1, A-2, A-6), el Ayuntamiento de Madrid gestiona las calles, la zona SER y la ZBE, y cada municipio aplica su propia ordenanza en sus vías urbanas. Para recurrir una multa concreta en la capital, la guía es la de la ciudad; esta página explica el reparto de competencias y la gestión en toda la comunidad."} ${radares("la Comunidad de Madrid", 39, [["M-40", 4], ["A-3", 3], ["A-1", 3], ["M-505", 2], ["M-404", 2]], undefined)}`,
+    descripcion: `${"La Comunidad de Madrid es uniprovincial y su normativa de tráfico se reparte entre tres niveles: la DGT sanciona en las carreteras interurbanas (A-1, A-2, A-6), el Ayuntamiento de Madrid gestiona las calles, la zona SER y la ZBE, y cada municipio aplica su propia ordenanza en sus vías urbanas. Para recurrir una multa concreta en la capital, la guía es la de la ciudad; esta página cuenta quién tiene la competencia y cómo se gestiona en el conjunto de la comunidad."} ${radares("la Comunidad de Madrid", 39, [["M-40", 4], ["A-3", 3], ["A-1", 3], ["M-505", 2], ["M-404", 2]], undefined)}`,
     particularidades: [],
     zbe: ["Madrid", "Fuenlabrada", "Las Rozas de Madrid", "Alcalá de Henares"],
     keywords: ["multas de tráfico en la Comunidad de Madrid", "cómo recurrir una multa en Madrid", "recurso multa M-30 radar tramo", "multa Madrid ZBE recurrir", "multa SER Madrid recurso", "dónde recurrir multa Comunidad de Madrid 2026"],
