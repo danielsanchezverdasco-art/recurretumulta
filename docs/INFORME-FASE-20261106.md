@@ -41,11 +41,24 @@ El plan sigue siendo uno: **7,99 € al año**, y el cliente envía el recurso. 
 
 `tools/publicar/no-tocar.txt` no se ha editado. Frente a `main`, 63 ficheros de esa lista ya difieren (la subida acumulada más unos merges de esta fase). Lista: `docs/inventario/excepciones-no-tocar.txt`. El publicador abortará hasta que Daniel acepte la excepción. No es un permiso para saltarse la lista.
 
-## Ana, 6/11 por la noche
+## Relevo de Ana, consumido (6/11, 21:04)
+
+Verificado en remoto, no de oídas:
+
+- `origin/subida-acumulada-1105` = `9cf8ef85bfaa2f8864d58b13ca3a641812376029`, padre `7e5d3af7`, fast-forward. Mensaje: reescritura rev3 a 0, meta Publisuites, 44 `<img>`, codegen. 147 ficheros, +1.181/−7.455.
+- `origin/completar-fichas` = `055e9c888` (21:04). La nota está al final de `docs/comunicacion-ias/merlin.md` («RELEVO ENTREGADO»). Dice 306 HTML completos y 5.843 pendientes de 6.149, bundle de su VM `index-CCSID4JO.js`, y manda recomputar con `node .deploy-work/rutas-restantes.mjs`.
+
+Ese commit es ancestro de esta rama (merge `2d17e24f2`). No se ha perdido: la meta `publisuites-verify-code` está en `index.html`, el plan 7,99 € sigue en términos, la línea DART sigue en cookies, el índice de radares sigue en 961 y el blog del Diavel sigue. En el solape (10 ficheros, sobre todo generados y `blog-posts-prioridad-20261014.ts`) ganó su texto. `no-tocar.txt` trae su excepción, con la cita de Daniel del 5/11 a las 14:32 («Sí, permite esos 52 cambios y publica todo»): quita 60 rutas de la lista y deja el resto protegido. No es un borrado mío para saltarme el candado; queda escrito en el fichero.
+
+Lo que la nota describe y **no está en git** (está en su VM): `dist/` de 5,5 GB, `.deploy-work/rutas-prerender.txt`, `rutas-restantes.mjs` (el fichero de restantes lo dejó a 0 bytes), `prerender-static-server.mjs`, `apartar-html-vivo.py` y los logs de `~/workspace/dryrun-logs/`. Sin ese `dist` y sin el bundle `index-CCSID4JO.js` no se pueden reutilizar las 306 páginas. Generar aquí produce otro bundle. El criterio estricto de esta fase (canonical + bundle de ESTE build + sin «Radar no encontrado») es el sustituto, y `PRERENDER_SKIP_COMPLETE=1` evita repetir lo ya válido contra ese bundle.
+
+`rev3b` de esta rama contra `9cf8ef85`: **1.017** frases nuevas, casi todas de las entregas del 5-6/11 que ella no traía (radares, provincias, Yangwang). Su árbol solo, el que ella midió, no lo he vuelto a medir aquí; el commit dice 0 y el diff desde `7e5d3af7` es esa reescritura. Publicar el conjunto (su texto más estas entregas) no pasa el candado en 0.
+
+## Ana, 6/11 por la noche (nota previa, antes del push)
 
 Consulta a `origin/completar-fichas` @ `8b58922f7`. Lo que hay es la Nota 226 de Niky: acusa el relevo de las 20:20, no publica y no toca main. En `grok.md` está el aviso pidiendo a Ana el checkpoint del intento 5/5b. En esos fetch no había nota suya con rutas, script ni rama de dist, ni una rama nueva de prerender.
 
-Cifra que sustituye a la anterior de 429/5846: **306 HTML completos con el criterio estricto y 5.843 pendientes**. Esos HTML solo sirven si apuntan al bundle de su build. Esta fase cambia código (`index-b2wLmsGV.js`), así que no se han copiado como éxito. El intento 6 no se ha publicado, como ella dijo.
+Cifra que sustituye a la anterior de 429/5846: **306 HTML completos con el criterio estricto y 5.843 pendientes**, sobre el bundle de su VM `index-CCSID4JO.js`. Ese `dist` no está en git. El intento 6 no se ha publicado.
 
 ## Prerender
 
@@ -62,7 +75,7 @@ PRERENDER_ONLY_FILE=/tmp/all-routes.txt PRERENDER_SKIP_COMPLETE=1 PRERENDER_CONC
 
 `PRERENDER_SKIP_COMPLETE=1` no repite una ruta cuyo HTML ya cumple el criterio contra el bundle actual. Hay **10.528** rutas únicas en esta tanda.
 
-Build comprobado: `npm run build` con `VITE_CONVEX_URL` igual a la URL regional que ya está escrita en `scripts/check-convex-url.mjs` (no es un secreto). Exit 0. Bundle `dist/assets/index-b2wLmsGV.js`. Pillow 12.3.0 hizo falta para `scripts/gen-cards.py` (no estaba en el entorno). No hace falta token de Netlify ni de Cloudflare en esta fase.
+Build comprobado tras el merge, el 6/11: `VITE_CONVEX_URL` igual a la URL regional ya escrita en `scripts/check-convex-url.mjs` (no es un secreto), `npm run build`, exit 0. Bundle `dist/assets/index-C6305X3a.js` y CSS `index-j8-WhpSD.css`. El índice de radares en `dist` tiene 961 fichas. Muestra prerenderizada contra ese bundle, 5/5 válidas: portada, términos (sale «7,99»), cookies (sale «cookie DART»), blog del Diavel y radar A-1 pk 125,5 (ya no dice «no encontrado»). Pillow 12.3.0 hizo falta para `scripts/gen-cards.py`. No hace falta token de Netlify ni de Cloudflare en esta fase.
 
 `dist/` no se sube a git.
 
@@ -87,7 +100,7 @@ Servidor estático de `dist` en el puerto 8099. Playwright, 390 px y 1366 px, so
 ## Bloqueos para la publicación única
 
 1. rev3b no está en 0.
-2. El prerender de las 10.528 rutas tiene que terminar con el manifiesto en verde (bundle `index-b2wLmsGV.js`). Si el proceso se corta, el comando de arriba sigue donde lo dejó.
+2. El prerender de las 10.528 rutas tiene que terminar con el manifiesto en verde (bundle `index-C6305X3a.js`). Si el proceso se corta, el comando de arriba sigue donde lo dejó. Las 306 de Ana no se pueden reanudar desde aquí: no están en el remoto.
 3. 63 excepciones de `no-tocar.txt` frente a main, sin editar la lista.
 4. 294 imágenes citadas sin blob en ninguna rama, y 55 placeholders no copiados.
 5. Ana no había subido aún el checkpoint al remoto en el último fetch. Si llega, hay que comparar el bundle antes de reutilizar un solo HTML.
