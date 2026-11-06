@@ -17,6 +17,7 @@ import {
   Zap,
 } from "lucide-react";
 import { useSeo } from "@/hooks/use-seo.ts";
+import { fotoVisible } from "@/lib/fotos-ausentes.ts";
 import { useFichaFechas } from "@/hooks/use-ficha-fechas.ts";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
@@ -171,7 +172,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
   const dimDe = (src: string) => dims[src.split("/").pop() ?? ""];
   const fotosTop: FotoFicha[] = [
     ...(moto.imagen ? [{ src: moto.imagen, alt: `Foto oficial de la ${nombre}`, ancho: dimDe(moto.imagen)?.[0], alto: dimDe(moto.imagen)?.[1] }] : []),
-    ...moto.galeria.map((f) => ({ src: f.src, alt: f.alt, ancho: f.ancho, alto: f.alto })),
+    ...moto.galeria.filter((f) => fotoVisible(f.src)).map((f) => ({ src: f.src, alt: f.alt, ancho: f.ancho, alto: f.alto })),
   ].filter((f, i, a) => a.findIndex((g) => g.src === f.src) === i);
   const datosClave: DatoClave[] = [
     (moto.potenciaCv != null || moto.potenciaKw != null) && { icono: <Zap className="h-5 w-5" />, valor: moto.potenciaCv != null ? `${String(moto.potenciaCv).replace(".", ",")} CV` : `${String(moto.potenciaKw).replace(".", ",")} kW`, label: "Potencia" },
@@ -503,7 +504,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
           <section id="fotos" className="mt-8 scroll-mt-32" aria-label="Galería de fotos oficiales">
             <NightGallery label="Galería">
             <div className="mt-3 flex snap-x snap-mandatory gap-3 overflow-x-auto pb-2 sm:grid sm:grid-cols-3 sm:overflow-visible">
-              {moto.galeria.map((f) => (
+              {moto.galeria.filter((f) => fotoVisible(f.src)).map((f) => (
                 <figure
                   key={f.src}
                   className="rtm-card w-72 shrink-0 snap-center overflow-hidden rounded-2xl sm:w-auto"
