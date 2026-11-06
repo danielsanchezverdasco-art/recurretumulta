@@ -1,5 +1,7 @@
 # Diferencia del sitemap, URL a URL (6/11/2026)
 
+Resultado de esta pasada: `dist/sitemap.xml` tiene **6316** URLs. Las **6209** del vivo están todas. Hay **107** que el vivo no tiene: páginas de esta rama con canonical propio. Cero URLs del vivo fuera.
+
 Sitemap en vivo (`https://recurretumulta.online/sitemap.xml`): **6209** URLs.
 Sitemap de `dist` antes de esta recuperación (`sitemap-final.py` sobre el bundle `index-CIDNxUOl.js`): **5815**.
 Solo en vivo: **501**. Solo en el dist de entonces: **107**. Neta: 5815 − 6209 = **−394**.

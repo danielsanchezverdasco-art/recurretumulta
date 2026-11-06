@@ -148,3 +148,19 @@ No son el mismo censo y no se han creado páginas para igualarlos.
 3. El trozo `ComparadorPatinetes-B9tPrz40.js` se parcheó en `dist` para quitar «Foto pendiente» sin cambiar el nombre del bundle. El fuente ya no tiene esa frase. Un `npm run build` posterior cambiará el hash y habrá que prerenderizar otra vez.
 
 No se declara la fase terminada.
+
+## Pasada de sitemap y frases (6/11, noche)
+
+`rev3b` contra `9cf8ef85` baja de 524 a **201**. No es 0. El medidor y la base no se han tocado. Siguen siendo frases de los radares del 5-6/11, de Yangwang, de los duelos y de plazos del RDL que comparten ventana de 8 palabras con una ficha o una guía ya publicada. No se han cambiado cifras.
+
+El sitemap ya no pierde URLs del vivo. El `dist/sitemap.xml` de esta pasada tiene **6.316** URLs. Las **6.209** del sitemap en vivo están todas. Las 107 de más son páginas de esta rama con canonical propio. Inventario URL a URL: `docs/inventario/sitemap-diff-20261106.md`. La caída anterior a 5.815 venía de tres sitios, y se ha deshecho sin inventar páginas:
+
+- 369 URLs con canonical propio a las que el postproceso les ponía `noindex`. La lista de React está vacía desde el 31/10. `adsense-dist.py` y `postfix-vacios.py` ya no aplican ese noindex a una URL del sitemap vivo.
+- 128 fichas de autocaravana cuyo dato seguía en el fuente y cuyo slug se había quitado de `scripts/slugs-autocaravanas.txt`. El slug vuelve.
+- 3 fichas Zontes que ya estaban en el comparador y no en `scripts/motos-slugs.txt`. El slug vuelve.
+- 24 coches que seguían con `noindex` en el HTML y canonical propio: se les devuelve `index, follow`, que es lo que pinta React al arrancar.
+- `/blog/font-vendome-mondea-2026-precio-ficha-tecnica/` se había borrado al coincidir el slug con una ficha. La página del blog vuelve a existir. No se ha creado un 301 nuevo.
+
+Prerender de **10.690** rutas del bundle `index-CLxKXQdq.js`, 0 fallos, más las 3 Zontes. Manifiesto de 10.693 líneas, todas con ese JS. `chequeo_img_dist.py` a 0. `validar-dist-publicable.py` a 0 bloqueantes. Ninguna de las 328 rutas de foto ausente queda como `<img src>` en el HTML. La galería de motos y `DriveInImage` no las pintan, así que la hidratación no las repone.
+
+La fase no se cierra: quedan 201 frases.
