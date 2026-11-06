@@ -168,6 +168,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "chery-volt-dragon-carga-1440-kw": () => import("../blog-posts-radar-20261023d.ts"),
     "chevrolet-blazer-ev-2025-precio-autonomia": () => import("../blog-posts-lote13.ts"),
     "chevrolet-corvette-c8-2025-precio-ficha-tecnica": () => import("../blog-posts-batch2b-1.ts"),
+    "chevrolet-corvette-vuelve-espana-precios-2026": () => import("../blog-posts-radar-20261106.ts"),
     "chevrolet-corvette-zr1-2025-precio-ficha-tecnica": () => import("../blog-posts-lote4.ts"),
     "chevrolet-corvette-zr1x-2026-precio-ficha-tecnica": () => import("../blog-posts-lote4.ts"),
     "chevrolet-equinox-ev-2025-precio-ficha-tecnica": () => import("../blog-posts-lote5.ts"),
