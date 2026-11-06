@@ -2145,7 +2145,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 125,
     categoria: "Deportiva",
-    precioDesde: 4999,
+    precioDesde: 5899,
     potenciaKw: 11.0,
     potenciaCv: 15.0,
     autonomiaKm: null,
@@ -2168,7 +2168,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "123 km/h de velocidad máxima medida",
     ],
     contras: [
-      "4.999 €: de las 125 deportivas más caras",
+      "5.899 €: de las 125 deportivas más caras",
       "142 kg: no está entre las más ligeras de su clase",
       "Postura racing exigente para el día a día",
       "Depósito de 11,5 litros: autonomía justa",

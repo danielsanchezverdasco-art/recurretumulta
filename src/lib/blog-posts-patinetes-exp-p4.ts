@@ -2375,7 +2375,7 @@ Como pieza de coleccionista, sí. Como compra racional nueva, no hay unidades.
       "currus nf autonomía",
       "currus nf review",
     ],
-    content: `<img src=/media/patinetes/currus-nf-1.webp alt=Currus NF negro, vista lateral completa del patinete>
+    content: `<img src=/media/currus-nf11-hunt1.webp alt=currus nf — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/currus-nf/>Ver ficha técnica del Currus NF</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -2464,7 +2464,7 @@ Su rival más directo es su propio hermano, el <a href=/patinetes/currus-nf11/>C
 
 ## Un apunte final para coleccionistas
 
-Los patinetes extremos anteriores a la regulación actual empiezan a tener un valor de época: documentar el historial de la unidad, conservar su cargador original y mantener la batería con cargas parciales periódicas es lo que separará, dentro de unos años, una pieza cuidada de un simple trasto viejo.
+Los patinetes extremos anteriores a la regulación actual empiezan a tener un valor de época: documentar el historial de la unidad, conservar su cargador original y mantener la batería con cargas parciales periódicas es lo que separará, dentro de unos años, una pieza cuidada de un simple trasto viejo.<img src=/media/currus-nf11-hunt2.webp alt=currus nf — fotografía del modelo><img src=/media/patinetes/currus-nf11.webp alt=currus nf — fotografía del modelo>
 
 ## Preguntas frecuentes
 
@@ -2997,7 +2997,7 @@ Revisar tornillería cada 1.000 km y tensar el cable del tambor cuando la maneta
       "etwow gt se sport españa",
       "e-twow 12 kg 1000w",
     ],
-    content: `<img src=/media/patinetes/etwow-gt-se-sport-1.webp alt=E-TWOW GT SE Sport negro, vista lateral completa del patinete>
+    content: `<img src=/media/etwow-gt-se-hunt1.webp alt=etwow gt se sport — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/patinetes/etwow-gt-se-sport/>Ver ficha técnica del E-TWOW GT SE Sport</a>: precio, potencia, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -3048,7 +3048,7 @@ Sin certificado DGT verificado. Se vende **limitado a 25 km/h**; deslimitado no 
 | A la venta en España | Sin carga máxima publicada |
 | Chasis de aluminio plegable | Sin tiempo de carga oficial |
 
-<img src=/media/patinetes/etwow-gt-se-sport-3.webp alt=E-TWOW GT SE Sport en una calle europea>
+<img src=/media/patinetes/etwow-gt-se-sport-3.webp alt=E-TWOW GT SE Sport en una calle europea><img src=/media/etwow-gt-se-hunt2.webp alt=etwow gt se sport — fotografía del modelo><img src=/media/etwow-gt-se-hunt3.webp alt=etwow gt se sport — fotografía del modelo>
 
 ## Preguntas frecuentes
 

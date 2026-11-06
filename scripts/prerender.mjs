@@ -5,9 +5,10 @@
 // y dist/_redirects con fallback SPA para las rutas de cliente (/perfil, /admin/*).
 import { chromium } from "playwright";
 import { spawn, execSync } from "node:child_process";
-import { mkdirSync, writeFileSync, readFileSync, existsSync } from "node:fs";
+import { mkdirSync, writeFileSync, readFileSync, existsSync, appendFileSync, unlinkSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
+import { evaluateHtml, getTitle, readEntryAssets } from "./prerender-check.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 // OUT_DIR permite escribir el HTML en un outDir distinto (p. ej. dist-new).
@@ -155,11 +156,20 @@ function outPath(route) {
   return join(DIST, clean);
 }
 
+let ENTRY_ASSETS = [];
+const MANIFEST = join(ROOT, "scripts", ".safe-publish", "prerender-manifest.jsonl");
+
 async function main() {
   if (!existsSync(join(DIST, "index.html"))) {
     throw new Error("dist/ no existe: ejecuta 'pnpm build' antes del prerender");
   }
-  console.log(`Prerender de ${ROUTES_FINAL.length} rutas…`);
+  ENTRY_ASSETS = readEntryAssets(DIST);
+  if (!ENTRY_ASSETS.some((a) => a.endsWith(".js"))) {
+    throw new Error("el build no referencia un /assets/index-*.js; no se prerenderiza para no hornear un bundle inexistente");
+  }
+  mkdirSync(dirname(MANIFEST), { recursive: true });
+  writeFileSync(join(DIST, ".prerender-entry.json"), JSON.stringify({ assets: ENTRY_ASSETS }));
+  console.log(`Prerender de ${ROUTES_FINAL.length} rutas… bundle ${ENTRY_ASSETS.join(" ")}`);
 
   // PRERENDER_EXTERNAL=1: usar un servidor estático ya arrancado en PRERENDER_PORT
   // (p. ej. `npm run serve:dist`), mucho más rápido que vite preview.
@@ -214,6 +224,13 @@ async function main() {
     );
     await page.route("**/googletagmanager.com/**", (r) => r.abort());
     await page.route("**/google-analytics.com/**", (r) => r.abort());
+    // Las <img> ya van en el HTML de React. __PRERENDER__ impide el fallback OG.
+    // Abortar la descarga evita que el prerender espere cientos de fotos por ruta.
+    await page.route("**/*", (route) => {
+      const t = route.request().resourceType();
+      if (t === "image" || t === "media" || t === "font") return route.abort();
+      return route.fallback();
+    });
     // El juego de los monos no se pinta en el prerender: no aporta SEO y sus
     // imágenes/animaciones ralentizan la captura (05/10/2026: 6 rutas/min con
     // el juego vs 16 sin él). En producción el flag no existe y el juego va normal.
@@ -244,8 +261,28 @@ async function main() {
       }
     });
     try {
+      if (process.env.PRERENDER_SKIP_COMPLETE === "1") {
+        const prevPath = outPath(route);
+        if (existsSync(prevPath)) {
+          const prev = readFileSync(prevPath, "utf8");
+          const already = evaluateHtml({
+            html: prev,
+            route,
+            canonicalBase: "https://recurretumulta.online",
+            distDir: DIST,
+            shellTitle: getTitle(readFileSync(join(ROOT, "index.html"), "utf8")) || "",
+            entryAssets: ENTRY_ASSETS,
+          });
+          if (already.ok) {
+            ok++;
+            return;
+          }
+        }
+      }
       await page.goto(`http://localhost:${PORT}${route}`, {
-        waitUntil: "networkidle",
+        // networkidle esperaba a las fotos y se colgaba. La señal de éxito es
+        // canonical + React (__rootMutated, sin pageloader), no la red en silencio.
+        waitUntil: "domcontentloaded",
         timeout: 25000,
       });
       // Esperar a que useSeo haya fijado el canonical PROPIO de la ruta
@@ -335,9 +372,33 @@ async function main() {
       if (!/class="hj-bg"/.test(html)) {
         html = html.replace(/<link\s+rel="preload"\s+as="image"[^>]*hero-jungla-selva[^>]*>\s*/s, "");
       }
+      const shellTitle = getTitle(readFileSync(join(ROOT, "index.html"), "utf8")) || "";
+      const verdict = evaluateHtml({
+        html,
+        route,
+        canonicalBase: "https://recurretumulta.online",
+        distDir: DIST,
+        shellTitle,
+        entryAssets: ENTRY_ASSETS,
+      });
+      if (!verdict.ok) {
+        throw new Error(`html no válido: ${verdict.reasons.join(",")}`);
+      }
       const dest = outPath(route);
       mkdirSync(dirname(dest), { recursive: true });
       writeFileSync(dest, html);
+      appendFileSync(
+        MANIFEST,
+        JSON.stringify({
+          route,
+          ok: true,
+          sha256: verdict.sha256,
+          bytes: verdict.bytes,
+          canonical: verdict.canonical,
+          assets: verdict.assets,
+          at: new Date().toISOString(),
+        }) + "\n",
+      );
       ok++;
     } catch (err) {
       // Slugs de más de 255 caracteres no pueden existir como fichero

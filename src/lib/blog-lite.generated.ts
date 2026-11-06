@@ -1517,6 +1517,287 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 4
   },
   {
+    "slug": "aprilia-rsv4-factory-2024-ficha-tecnica-precio",
+    "title": "Aprilia RSV4 Factory 2024: 27.140 €, 217 CV y 202 kg",
+    "excerpt": "Superbike V4 de 1.099 cc y 217 CV con Öhlins semiactivas y frenos Brembo Stylema: 305 km/h, 202 kg, carnet A y etiqueta C por 27.140 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-21",
+    "locale": "all",
+    "heroSrc": "/media/motos/aprilia-rsv4-factory-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "Aprilia RSV4 Factory 2024",
+    "keywords": [
+      "aprilia rsv4 factory 2024 precio",
+      "aprilia rsv4 factory ficha tecnica",
+      "aprilia rsv4 2024 217 cv",
+      "aprilia rsv4 factory precio españa",
+      "aprilia rsv4 factory consumo",
+      "aprilia rsv4 factory carnet a",
+      "aprilia rsv4 factory opiniones"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "aprilia-tuareg-660-2024-ficha-tecnica-precio",
+    "title": "Aprilia Tuareg 660 2024: precio 11.999 €, 80 CV y 204 kg",
+    "excerpt": "La Aprilia Tuareg 660 2024 cuesta 11.999 € con 80 CV, 204 kg, carnet A y etiqueta C: trail de 660 cc, depósito de 18 litros y APRC completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-21",
+    "locale": "all",
+    "heroSrc": "/media/motos/aprilia-tuareg-660-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "Aprilia Tuareg 660 2024",
+    "keywords": [
+      "aprilia tuareg 660 2024 precio",
+      "aprilia tuareg 660 ficha tecnica",
+      "tuareg 660 80 cv",
+      "aprilia tuareg 660 carnet a",
+      "tuareg 660 peso 204 kg",
+      "aprilia tuareg 660 etiqueta c",
+      "tuareg 660 vs tenere 700"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "ducati-desertx-2024-ficha-tecnica-precio",
+    "title": "Ducati DesertX 2024: trail de 17.490 €, 110 CV y 937 cc",
+    "excerpt": "La trail italiana cuesta 17.490 € y ofrece 110 CV desde 937 cc, 210 kg en seco, sillín a 875 mm, distintivo C y seis modos, dos para tierra.",
+    "category": "Novedades Motor",
+    "date": "2026-10-21",
+    "locale": "all",
+    "heroSrc": "/media/motos/ducati-desertx-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "Ducati DesertX 2024",
+    "keywords": [
+      "ducati desertx 2024 precio",
+      "ducati desertx ficha tecnica",
+      "ducati desertx 2024 opiniones",
+      "ducati desertx carnet a",
+      "ducati desertx peso asiento",
+      "ducati desertx rally precio españa",
+      "ducati desertx mantenimiento"
+    ],
+    "readTime": 9
+  },
+  {
+    "slug": "ducati-monster-2024-ficha-tecnica-precio",
+    "title": "Ducati Monster 2024: 12.490 €, 111 CV y 937 cc desmo",
+    "excerpt": "Por 12.490 €, la Monster 2024 reúne 937 cc y 111 CV, 166 kg en seco, permiso A y distintivo C. Depósito de 14 litros y frenos Brembo completan su retrato.",
+    "category": "Novedades Motor",
+    "date": "2026-10-21",
+    "locale": "all",
+    "heroSrc": "/media/motos/ducati-monster-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "Ducati Monster 2024",
+    "keywords": [
+      "ducati monster 2024 precio",
+      "ducati monster 2024 ficha tecnica",
+      "ducati monster 937 precio españa",
+      "ducati monster 111 cv peso",
+      "ducati monster permiso a",
+      "ducati monster distintivo c",
+      "ducati monster testatretta 937"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "honda-nt1100-2024-ficha-tecnica-precio",
+    "title": "Honda NT1100 2024: 15.275 €, 102 CV, 400 km y carnet A",
+    "excerpt": "La Honda NT1100 2024 cuesta 15.275 € con 102 CV, 238 kg, depósito de 20,4 litros, carnet A, etiqueta C y maletas de serie para viajar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-21",
+    "locale": "all",
+    "heroSrc": "/media/motos/honda-nt1100-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "Honda NT1100 2024",
+    "keywords": [
+      "honda nt1100 2024 precio",
+      "honda nt1100 ficha tecnica",
+      "honda nt1100 102 cv",
+      "honda nt1100 carnet a",
+      "honda nt1100 peso",
+      "honda nt1100 autonomia",
+      "honda nt1100 dct precio",
+      "honda nt1100 opiniones"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "husqvarna-svartpilen-125-2024-ficha-tecnica-precio",
+    "title": "Husqvarna Svartpilen 125 2024: 5.599 €, 15 CV, 151 kg",
+    "excerpt": "Por 5.599 €, la Husqvarna de 125 cc ofrece 15 CV, 151 kg, distintivo C, depósito de 13 litros y suspensiones WP Apex con disco delantero de 320 mm.",
+    "category": "Novedades Motor",
+    "date": "2026-10-21",
+    "locale": "all",
+    "heroSrc": "/media/motos/husqvarna-svartpilen-125-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "Husqvarna Svartpilen 125 2024",
+    "keywords": [
+      "husqvarna svartpilen 125 2024 precio",
+      "husqvarna svartpilen 125 ficha tecnica",
+      "svartpilen 125 2024 15 cv",
+      "husqvarna svartpilen 125 carnet a1",
+      "svartpilen 125 precio españa",
+      "husqvarna 125 naked scrambler",
+      "svartpilen 125 peso etiqueta c"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "indian-chief-2024-ficha-tecnica-precio",
+    "title": "Indian Chief 2024: 19.990 €, 304 kg, carnet A y etiqueta C",
+    "excerpt": "Chief 2024 desde 19.990 €: Thunderstroke con 146 Nm de par, asiento a 662 mm, depósito de 15,1 litros, 304 kg, permiso A y distintivo C.",
+    "category": "Novedades Motor",
+    "date": "2026-10-21",
+    "locale": "all",
+    "heroSrc": "/media/motos/indian-chief-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "Indian Chief 2024 custom americana",
+    "keywords": [
+      "indian chief 2024 precio",
+      "indian chief 2024 ficha tecnica",
+      "indian chief thunderstroke 111",
+      "indian chief 2024 peso",
+      "indian chief 2024 carnet a",
+      "indian chief 2024 españa",
+      "indian chief asiento 662 mm"
+    ],
+    "readTime": 11
+  },
+  {
+    "slug": "kawasaki-ninja-h2-sx-2024-ficha-tecnica-precio",
+    "title": "Kawasaki Ninja H2 SX 2024: 27.750 €, 200 CV y 266 kg",
+    "excerpt": "La Kawasaki Ninja H2 SX 2024 cuesta 27.750 € y combina compresor, 200 CV, 266 kg, depósito de 19 litros y distintivo C para viajar muy rápido.",
+    "category": "Novedades Motor",
+    "date": "2026-10-21",
+    "locale": "all",
+    "heroSrc": "/media/motos/kawasaki-ninja-h2-sx-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "Kawasaki Ninja H2 SX 2024",
+    "keywords": [
+      "kawasaki ninja h2 sx 2024 precio",
+      "kawasaki ninja h2 sx ficha tecnica",
+      "ninja h2 sx 200 cv compresor",
+      "kawasaki ninja h2 sx se precio",
+      "ninja h2 sx peso asiento",
+      "kawasaki h2 sx carnet a",
+      "ninja h2 sx 2024 opiniones"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "kawasaki-zx-10r-2024-ficha-tecnica-precio",
+    "title": "Kawasaki Ninja ZX-10R 2024: desde 20.150 €, 203 CV",
+    "excerpt": "La superbike verde de 2024 parte de 20.150 € en España con 203 CV, 998 cc, 207 kg, permiso A, distintivo C y punta cercana a 299 km/h.",
+    "category": "Novedades Motor",
+    "date": "2026-10-21",
+    "locale": "all",
+    "heroSrc": "/media/motos/kawasaki-zx-10r-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "Kawasaki Ninja ZX-10R 2024",
+    "keywords": [
+      "kawasaki ninja zx-10r 2024 precio",
+      "kawasaki zx-10r 2024 ficha tecnica",
+      "ninja zx-10r 203 cv precio españa",
+      "kawasaki zx-10r carnet a",
+      "ninja zx-10r 2024 peso",
+      "kawasaki zx-10r ram air 213 cv",
+      "zx-10r 2024 etiqueta c"
+    ],
+    "readTime": 9
+  },
+  {
+    "slug": "ktm-125-duke-2024-ficha-tecnica-precio",
+    "title": "KTM 125 Duke 2024: 5.599 €, 15 CV, 154 kg y carnet A1",
+    "excerpt": "KTM 125 Duke 2024 por 5.599 €: rinde 15 CV al límite del A1, pesa 154 kg en seco, gasta 2,4 l/100 km y monta TFT de 5 pulgadas y ABS Bosch en curva.",
+    "category": "Novedades Motor",
+    "date": "2026-10-21",
+    "locale": "all",
+    "heroSrc": "/media/motos/ktm-125-duke-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "KTM 125 Duke 2024",
+    "keywords": [
+      "ktm 125 duke 2024 precio",
+      "ktm 125 duke 2024 ficha tecnica",
+      "ktm 125 duke 2024 15 cv",
+      "ktm 125 duke carnet a1",
+      "ktm 125 duke 2024 consumo",
+      "ktm 125 duke 2024 peso",
+      "ktm 125 duke etiqueta c"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "ktm-1290-super-duke-r-2024-ficha-tecnica-precio",
+    "title": "KTM 1290 Super Duke R 2024: 20.900 €, 180 CV y 200 kg",
+    "excerpt": "Por 20.900 €, la Super Duke R de 2024 monta un V2 LC8 de 1.301 cc con 180 CV y 140 Nm, pesa 200 kg y requiere el permiso A y lleva distintivo C.",
+    "category": "Novedades Motor",
+    "date": "2026-10-21",
+    "locale": "all",
+    "heroSrc": "/media/motos/ktm-1290-super-duke-r-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "KTM 1290 Super Duke R 2024",
+    "keywords": [
+      "ktm 1290 super duke r 2024 precio",
+      "ktm 1290 super duke r ficha tecnica",
+      "ktm 1290 super duke r 180 cv",
+      "ktm super duke r carnet a",
+      "ktm 1290 super duke r peso",
+      "ktm 1290 super duke r the beast",
+      "precio ktm 1290 super duke r españa"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "ktm-790-adventure-2024-ficha-tecnica-precio",
+    "title": "KTM 790 Adventure 2024: 11.799 €, 95 CV y etiqueta C",
+    "excerpt": "La KTM 790 Adventure 2024 cuesta 11.799 €: motor de 799 cc y 95 CV, 203 kg, depósito de 20 litros, etiqueta C, carnet A y modo Rally.",
+    "category": "Novedades Motor",
+    "date": "2026-10-21",
+    "locale": "all",
+    "heroSrc": "/media/motos/ktm-790-adventure-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "KTM 790 Adventure 2024",
+    "keywords": [
+      "ktm 790 adventure 2024 precio",
+      "ktm 790 adventure 2024 ficha tecnica",
+      "ktm 790 adventure 95 cv",
+      "ktm 790 adventure peso",
+      "ktm 790 adventure carnet a",
+      "ktm 790 adventure opiniones",
+      "ktm 790 adventure vs tenere 700"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "triumph-daytona-660-2024-ficha-tecnica-precio",
+    "title": "Triumph Daytona 660 2024: 9.995 € y 95 CV con carnet A",
+    "excerpt": "Por 9.995 € ofrece motor tricilíndrico de 660 cc, 69 Nm a 8.250 rpm, 201 kg y 216 km/h de punta, con distintivo C y opción de limitarla para el A2.",
+    "category": "Novedades Motor",
+    "date": "2026-10-21",
+    "locale": "all",
+    "heroSrc": "/media/motos/triumph-daytona-660-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "Triumph Daytona 660 2024 deportiva tricilíndrica",
+    "keywords": [
+      "triumph daytona 660 2024 precio",
+      "triumph daytona 660 ficha tecnica",
+      "daytona 660 95 cv tricilindrica",
+      "triumph daytona 660 carnet a2",
+      "daytona 660 peso velocidad maxima",
+      "triumph daytona 660 opiniones",
+      "daytona 660 vs aprilia rs 660"
+    ],
+    "readTime": 9
+  },
+  {
+    "slug": "triumph-thruxton-final-edition-2024-ficha-tecnica-precio",
+    "title": "Triumph Thruxton Final Edition 2024: 18.995 € y 105 CV",
+    "excerpt": "Thruxton Final Edition 2024 a fondo: 105 CV, 197 kg, 217 km/h, tanque de 14,5 litros, distintivo C y Öhlins detrás por 18.995 € en España.",
+    "category": "Novedades Motor",
+    "date": "2026-10-21",
+    "locale": "all",
+    "heroSrc": "/media/motos/triumph-thruxton-final-edition-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "Triumph Thruxton Final Edition 2024",
+    "keywords": [
+      "triumph thruxton final edition 2024 precio",
+      "thruxton final edition ficha tecnica",
+      "triumph thruxton 1200 105 cv precio",
+      "thruxton final edition 18995 euros",
+      "triumph thruxton final edition opiniones",
+      "thruxton final edition carnet a",
+      "triumph thruxton final edition peso"
+    ],
+    "readTime": 7
+  },
+  {
     "slug": "aston-martin-db12-2024-precio-ficha-tecnica",
     "title": "Aston Martin DB12: 680 CV desde 260.000 €",
     "excerpt": "El DB12 se vende en España desde 260.000 €: V8 biturbo de 680 CV, 0-100 en 3,6 s, 325 km/h y un interior por fin a la altura. Ficha, opiniones y rivales.",
@@ -2927,8 +3208,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/challenger-287-2026-precio-ficha-tecnica-detalle.webp",
+    "heroAlt": "Challenger 287 (2026): precio, ficha técnica y opinión honesta — detalle",
     "keywords": [
       "Challenger 287",
       "precio Challenger 287",
@@ -2954,7 +3235,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "camper VW Crafter 2026",
       "opinión Dethleffs Globetrail"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "frankia-neo-i-7-gdk-precio-ficha-tecnica",
@@ -3026,7 +3307,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "camper Pössl 2026",
       "opinión Pössl Summit Shine"
     ],
-    "readTime": 8
+    "readTime": 9
   },
   {
     "slug": "roller-team-zefiro-285-tl-precio-ficha-tecnica",
@@ -15571,6 +15852,168 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 8
   },
   {
+    "slug": "hymer-free-540-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Hymer Free 540 Campus: precio 79.400 €, 5,41 m y 140 CV",
+    "excerpt": "El Hymer Free 540 Campus 2026 cuesta 79.400 € de tarifa en Alemania: 5,41 m, techo elevable de serie, 140 CV, MMA de 3.500 kg y carnet B. Ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/hymer-free-540-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "Hymer Free 540 Campus, exterior con techo elevable abierto",
+    "keywords": [
+      "Hymer Free 540 Campus precio",
+      "Hymer Free 540 2026",
+      "camper 5,41 m",
+      "Hymer camper van",
+      "Free 540 ficha técnica"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "hymer-free-600-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Hymer Free 600 Campus: precio 80.900 €, cama ancha y 140 CV",
+    "excerpt": "El Hymer Free 600 Campus 2026 cuesta 80.900 € de tarifa en Alemania: cama trasera de 196 x 152 cm, nevera de 90 litros, 140 CV y carnet B. Ficha completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/hymer-free-600-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "Hymer Free 600 Campus, exterior con techo elevable y toldo",
+    "keywords": [
+      "Hymer Free 600 Campus precio",
+      "Hymer Free 600 2026",
+      "camper 5,99 m",
+      "Hymer camper van",
+      "Free 600 ficha técnica"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "hymer-free-s-600-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Hymer Free S 600: precio 91.500 €, Sprinter 170 CV y MBUX",
+    "excerpt": "El Hymer Free S 600 Campus 2026 cuesta 91.500 € de tarifa en Alemania: base Mercedes Sprinter de 170 CV, automático 9G-TRONIC, MBUX y carnet B. Análisis.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/hymer-free-s-600-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "Hymer Free S 600 Campus, exterior sobre Mercedes-Benz Sprinter con techo elevable",
+    "keywords": [
+      "Hymer Free S 600 precio",
+      "Hymer Sprinter camper",
+      "Free S 600 Campus",
+      "camper Mercedes 170 CV",
+      "Hymer Free S ficha"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "laika-ecovip-performance-600-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Laika Ecovip Performance 600: 77.990 €, 160 CV y litio",
+    "excerpt": "El Laika Ecovip Performance 600 parte de 77.990 € en tarifa Italia: Ducato de 160 CV con automático, litio de 150 Ah, calefacción diésel y carnet B.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/laika-ecovip-performance-600-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Laika Ecovip Performance 600, vista exterior",
+    "keywords": [
+      "Laika Ecovip Performance 600 precio",
+      "Laika Ecovip 600",
+      "camper Laika 160 CV",
+      "Ecovip Performance ficha",
+      "camper con litio de serie"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "sunlight-cliff-600-2026-precio-ficha-tecnica-analisis-opinion",
+    "title": "Sunlight Cliff 600: precio 47.749 €, 5,99 m y 140 CV",
+    "excerpt": "El Sunlight Cliff 600 cuesta 47.749 € en tarifa oficial: 5,99 m, Boxer de 140 CV, cama de 197 x 157 cm, 4 plazas, MMA de 3.500 kg y carnet B. Análisis.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/sunlight-cliff-600-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Sunlight Cliff 600, vista exterior",
+    "keywords": [
+      "Sunlight Cliff 600 precio",
+      "Sunlight Cliff 600 2026",
+      "camper 47.749 euros",
+      "camper barata 5,99 m",
+      "Cliff 600 ficha técnica"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "westfalia-sven-hedin-man-tge-2026-analisis-opinion",
+    "title": "Westfalia Sven Hedin MAN: 77.900 €, 163 CV y Pop-Out",
+    "excerpt": "El Westfalia Sven Hedin sobre MAN TGE parte de unos 77.900 €: 163 CV con automático, cama Pop-Out de 2,00 x 1,30 m, 498 kg de carga útil y carnet B.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/westfalia-sven-hedin-man-tge-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Westfalia Sven Hedin 2026, camper sobre base MAN TGE",
+    "keywords": [
+      "Westfalia Sven Hedin MAN precio",
+      "Sven Hedin TGE",
+      "Westfalia Pop-Out",
+      "camper MAN TGE 163 CV",
+      "Sven Hedin ficha técnica"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "la-strada-regent-s-2026-analisis-opinion",
+    "title": "La Strada Regent S: precio 115.471 €, Sprinter y 170 CV",
+    "excerpt": "El La Strada Regent S parte de unos 115.471 € de tarifa en Alemania: Sprinter de 170 CV, muebles macizos, cama con extensiones y carnet B en 5,93 m.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/la-strada-regent-s-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "La Strada Regent S 2026, vista exterior frontal",
+    "keywords": [
+      "La Strada Regent S precio",
+      "Regent S Sprinter",
+      "camper artesanal alemana",
+      "La Strada camper",
+      "Regent S ficha técnica"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "volkswagen-grand-california-600-2026-analisis-opinion",
+    "title": "Grand California 600: precio 91.720 €, baño y 163 CV",
+    "excerpt": "El Volkswagen Grand California 600 cuesta desde 91.720 €: 2.0 TDI de 163 CV con automático, baño completo de serie, 4 plazas y carnet B. Análisis 2026.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/volkswagen-grand-california-600-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Volkswagen Grand California 600, exterior en ruta",
+    "keywords": [
+      "Volkswagen Grand California 600 precio",
+      "Grand California 600 2026",
+      "camper VW con baño",
+      "Grand California ficha",
+      "Crafter camper precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "volkswagen-grand-california-680-2026-analisis-opinion",
+    "title": "Grand California 680: precio 91.520 € y cama de 2,00 m",
+    "excerpt": "El Volkswagen Grand California 680 cuesta desde 91.520 €: cama longitudinal de 2,00 x 1,67 m, 163 CV con automático, 6,80 m y carnet B. Análisis 2026.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/volkswagen-grand-california-680-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Volkswagen Grand California 680, exterior en ruta",
+    "keywords": [
+      "Volkswagen Grand California 680 precio",
+      "Grand California 680 2026",
+      "camper cama longitudinal",
+      "Grand California 680 ficha",
+      "camper 6,80 m VW"
+    ],
+    "readTime": 5
+  },
+  {
     "slug": "vw-california-beach-2026-analisis-opinion",
     "title": "Volkswagen California Beach 2026: camper desde 72.790 €",
     "excerpt": "Beach 2026: tarifa oficial, TDI de 150 CV, cinco plazas, cuatro camas, techo elevable y cocina extraíble en la California T7 asequible.",
@@ -16139,6 +16582,101 @@ export const BLOG_LITE: BlogLitePost[] = [
       "caravana compacta premium"
     ],
     "readTime": 2
+  },
+  {
+    "slug": "knaus-suedwind-500-fu-2026-precio-ficha-tecnica",
+    "title": "Knaus Südwind 500 FU 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Knaus Südwind 500 FU 2026: caravana familiar alemana con cama francesa, 4 plazas, 1.700 kg de MMA y carnet B96 desde ~34.000 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/knaus-suedwind-500-fu-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Knaus Südwind 500 FU 2026, caravana familiar",
+    "keywords": [
+      "Knaus Südwind 500 FU 2026",
+      "Südwind 500 FU precio",
+      "Knaus Südwind ficha técnica",
+      "caravana cama francesa",
+      "Knaus Südwind vs Sport",
+      "caravana familiar alemana"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "fendt-bianco-selection-515-sg-2026-precio-ficha-tecnica",
+    "title": "Fendt Bianco Selection 515 SG 2026: precio y ficha",
+    "excerpt": "Precio y ficha de la Fendt Bianco Selection 515 SG 2026: camas individuales, 4 plazas, 1.700 kg de MMA y carnet B desde ~32.000 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/fendt-bianco-selection-515-sg-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "Fendt Bianco Selection 515 SG 2026, salón",
+    "keywords": [
+      "Fendt Bianco Selection 515 SG",
+      "Bianco 515 SG precio",
+      "Fendt Bianco ficha técnica",
+      "caravana camas individuales",
+      "Fendt Bianco vs Knaus",
+      "caravana 4 plazas premium"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "hobby-ontour-390-sf-2026-precio-ficha-tecnica",
+    "title": "Hobby OnTour 390 SF 2026: precio, ficha y 4 plazas",
+    "excerpt": "Precio y ficha de la Hobby OnTour 390 SF 2026: la caravana más vendida para empezar, 4 plazas, 1.350 kg de MMA y carnet B desde ~21.980 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/hobby-ontour-390-sf-2026-precio-ficha-tecnica-tecnica.webp",
+    "heroAlt": "Hobby OnTour 390 SF 2026 en campa",
+    "keywords": [
+      "Hobby OnTour 390 SF 2026",
+      "OnTour 390 SF precio",
+      "Hobby OnTour ficha técnica",
+      "caravana barata 4 plazas",
+      "caravana para empezar",
+      "Hobby más vendida"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "adria-altea-542-pk-2026-precio-ficha-tecnica",
+    "title": "Adria Altea 542 PK 2026: precio, ficha técnica, 6 plazas",
+    "excerpt": "Precio y ficha de la Adria Altea 542 PK 2026: 6 plazas, 7,43 m, 1.500 kg de MMA y carnet B96 desde ~23.000 €. La familiar eslovena.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/adria-altea-542-pk-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Adria Altea 542 PK 2026 en concesionario",
+    "keywords": [
+      "Adria Altea 542 PK 2026",
+      "Altea 542 PK precio",
+      "Adria Altea ficha técnica",
+      "caravana 6 plazas",
+      "Altea 542 PK vs Aviva",
+      "caravana familiar Adria"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "tabbert-senara-490-td-2026-precio-ficha-tecnica",
+    "title": "Tabbert Senara 490 TD 2026: precio, ficha y 4 plazas",
+    "excerpt": "Precio y ficha de la Tabbert Senara 490 TD 2026: caravana premium con cama francesa, 4 plazas, 1.700 kg de MMA y carnet B96 desde ~29.490 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/tabbert-senara-490-td-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "Tabbert Senara 490 TD 2026, vista delantera",
+    "keywords": [
+      "Tabbert Senara 490 TD 2026",
+      "Senara 490 TD precio",
+      "Tabbert Senara ficha técnica",
+      "caravana premium Tabbert",
+      "Tabbert vs Fendt",
+      "caravana cama francesa 4 plazas"
+    ],
+    "readTime": 4
   },
   {
     "slug": "lmc-sassino-430-d-2026-precio-ficha-tecnica-analisis-opinion",
@@ -24573,6 +25111,456 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 4
   },
   {
+    "slug": "toyota-c-hr-140h",
+    "title": "Toyota C-HR 140H: desde 31.725 €, 140 CV, ECO y 4,7 l",
+    "excerpt": "El Toyota C-HR 140H parte de 31.725 € con 140 CV híbridos, 4,7 l/100 km, etiqueta ECO y 388 litros de maletero. Ficha, historia y costes reales.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/toyota-c-hr-140h.webp",
+    "heroAlt": "Toyota C-HR 140H en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "toyota c-hr 140h precio españa",
+      "toyota c-hr 140h ficha técnica",
+      "c-hr 140h consumo",
+      "c-hr 140h opiniones",
+      "suv híbrido precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "seat-arona-10-tsi",
+    "title": "SEAT Arona 1.0 TSI: desde 20.530 €, 116 CV y 400 litros",
+    "excerpt": "El SEAT Arona 1.0 TSI de 116 CV parte de 20.530 € con el mejor maletero de su categoría: 400 litros. Ficha técnica, historia y mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/seat-arona-10-tsi.webp",
+    "heroAlt": "SEAT Arona 1.0 TSI en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "seat arona 1.0 tsi precio españa",
+      "seat arona 1.0 tsi ficha técnica",
+      "arona 1.0 tsi consumo",
+      "arona 1.0 tsi opiniones",
+      "suv gasolina precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "ford-puma-10-ecoboost-mhev",
+    "title": "Ford Puma EcoBoost mHEV: 23.805 €, 125 CV y 456 litros",
+    "excerpt": "El Ford Puma 1.0 EcoBoost mHEV de 125 CV parte de 23.805 €: etiqueta ECO, 5,4 l/100 km y el MegaBox de 456 litros. Ficha, historia y costes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/ford-puma-10-ecoboost-mhev.webp",
+    "heroAlt": "Ford Puma 1.0 EcoBoost mHEV en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "ford puma 1.0 ecoboost mhev precio españa",
+      "ford puma 1.0 ecoboost mhev ficha técnica",
+      "puma ecoboost mhev consumo",
+      "puma ecoboost mhev opiniones",
+      "suv híbrido ligero precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "toyota-yaris-120h",
+    "title": "Toyota Yaris 120H: desde 21.500 €, 116 CV y 4,3 l/100 km",
+    "excerpt": "El Toyota Yaris 120H parte de 21.500 € con 116 CV híbridos, 4,3 l/100 km y etiqueta ECO. El urbano que menos gasta: ficha, historia y costes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/toyota-yaris-120h.webp",
+    "heroAlt": "Toyota Yaris 120H en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "toyota yaris 120h precio españa",
+      "toyota yaris 120h ficha técnica",
+      "yaris 120h consumo",
+      "yaris 120h opiniones",
+      "urbano híbrido precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "opel-corsa-12-turbo",
+    "title": "Opel Corsa 1.2 Turbo: desde 17.300 €, 101 CV y 309 litros",
+    "excerpt": "El Opel Corsa 1.2 Turbo de 101 CV parte de 17.300 €, fabricado en Zaragoza, con 5,2 l/100 km y 309 litros. Ficha técnica, historia y costes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/opel-corsa-12-turbo.webp",
+    "heroAlt": "Opel Corsa 1.2 Turbo en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "opel corsa 1.2 turbo precio españa",
+      "opel corsa 1.2 turbo ficha técnica",
+      "corsa 1.2 turbo consumo",
+      "corsa 1.2 turbo opiniones",
+      "urbano gasolina precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "peugeot-208-2026",
+    "title": "Peugeot 208 Turbo 100: 17.820 €, 100 CV, i-Cockpit",
+    "excerpt": "El Peugeot 208 Turbo 100 parte de 17.820 € con 100 CV, 5,2 l/100 km y el i-Cockpit de la casa. Ficha técnica, qué cambia en 2026 y costes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/peugeot-208-2026.webp",
+    "heroAlt": "Peugeot 208 Turbo 100 en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "peugeot 208 turbo 100 precio españa",
+      "peugeot 208 turbo 100 ficha técnica",
+      "208 turbo 100 consumo",
+      "208 turbo 100 opiniones",
+      "urbano gasolina precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "kia-stonic-2026",
+    "title": "Kia Stonic 2026: desde 19.190 € y 7 años de garantía",
+    "excerpt": "El Kia Stonic 2026 parte de 19.190 € con 100 CV, 352 litros y los 7 años de garantía de Kia. Ficha técnica, versiones MHEV y mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/kia-stonic-2026.webp",
+    "heroAlt": "Kia Stonic 1.0 T-GDi 100 en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "kia stonic 1.0 t-gdi 100 precio españa",
+      "kia stonic 1.0 t-gdi 100 ficha técnica",
+      "stonic 1.0 t-gdi consumo",
+      "stonic 1.0 t-gdi opiniones",
+      "urbano gasolina precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "skoda-fabia-2026",
+    "title": "Skoda Fabia 2026: desde 15.400 €, 80 CV y 380 litros",
+    "excerpt": "El Skoda Fabia 2026 parte de 15.400 € en la web oficial, con el maletero más grande del segmento: 380 litros. Ficha, versiones y mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/skoda-fabia-2026.webp",
+    "heroAlt": "Skoda Fabia 1.0 MPI 80 en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "skoda fabia 1.0 mpi 80 precio españa",
+      "skoda fabia 1.0 mpi 80 ficha técnica",
+      "fabia 1.0 mpi consumo",
+      "fabia 1.0 mpi opiniones",
+      "urbano gasolina precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "volkswagen-polo-2026",
+    "title": "Volkswagen Polo 2026: desde 21.135 €, 95 CV y 351 litros",
+    "excerpt": "El Volkswagen Polo 1.0 TSI de 95 CV parte de 21.135 € con 5,1 l/100 km y 351 litros. Ficha técnica del utilitario fabricado en Pamplona.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/volkswagen-polo-2026.webp",
+    "heroAlt": "Volkswagen Polo 1.0 TSI 95 en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "volkswagen polo 1.0 tsi 95 precio españa",
+      "volkswagen polo 1.0 tsi 95 ficha técnica",
+      "polo 1.0 tsi consumo",
+      "polo 1.0 tsi opiniones",
+      "urbano gasolina precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "tesla-model-3-electrico-precio-ficha-tecnica",
+    "title": "Tesla Model 3: desde 36.990 €, 534 km, 283 CV y Cero",
+    "excerpt": "El Tesla Model 3 de acceso parte de 36.990 € con 283 CV, 534 km WLTP y carga a 170 kW en la red de Supercargadores. Ficha e historia completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/tesla-model-3-electrico-precio-ficha-tecnica.webp",
+    "heroAlt": "Tesla Model 3 en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "tesla model 3 precio españa",
+      "tesla model 3 ficha técnica",
+      "model 3 consumo",
+      "model 3 opiniones",
+      "berlina eléctrico precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "tesla-model-y-electrico-precio-ficha-tecnica",
+    "title": "Tesla Model Y: desde 39.780 €, 534 km y 854 litros",
+    "excerpt": "El Tesla Model Y parte de 39.780 € con 299 CV, 534 km WLTP y 854 litros de maletero. El eléctrico más vendido del mundo, a fondo: ficha y costes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/tesla-model-y-electrico-precio-ficha-tecnica.webp",
+    "heroAlt": "Tesla Model Y en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "tesla model y precio españa",
+      "tesla model y ficha técnica",
+      "model y consumo",
+      "model y opiniones",
+      "suv eléctrico precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "bmw-i4-edrive40-electrico-precio-ficha-tecnica",
+    "title": "BMW i4 eDrive40: 65.550 €, 340 CV, 613 km y 470 litros",
+    "excerpt": "El BMW i4 eDrive40 parte de 65.550 € con 340 CV, 613 km de autonomía WLTP y carga a 210 kW. La berlina eléctrica para conductores, a fondo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/bmw-i4-edrive40-electrico-precio-ficha-tecnica.webp",
+    "heroAlt": "BMW i4 eDrive40 en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "bmw i4 edrive40 precio españa",
+      "bmw i4 edrive40 ficha técnica",
+      "i4 edrive40 consumo",
+      "i4 edrive40 opiniones",
+      "berlina eléctrico precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "mercedes-eqe-300-electrico-precio-ficha-tecnica",
+    "title": "Mercedes EQE 300: 72.815 €, 662 km, 245 CV y 89 kWh",
+    "excerpt": "El Mercedes EQE 300 parte de 72.815 € con la autonomía de referencia: 662 km WLTP y batería de 89 kWh. Ficha, confort y mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/mercedes-eqe-300-electrico-precio-ficha-tecnica.webp",
+    "heroAlt": "Mercedes-Benz EQE 300 en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "mercedes-benz eqe 300 precio españa",
+      "mercedes-benz eqe 300 ficha técnica",
+      "eqe 300 consumo",
+      "eqe 300 opiniones",
+      "berlina eléctrico precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "audi-q4-e-tron-45-electrico-precio-ficha-tecnica",
+    "title": "Audi Q4 e-tron 45: 58.710 €, 286 CV, 543 km y 520 litros",
+    "excerpt": "El Audi Q4 e-tron 45 parte de 58.710 € con 286 CV, 543 km WLTP, 520 litros y carga a 175 kW. El SUV eléctrico premium de acceso, a fondo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/audi-q4-e-tron-45-electrico-precio-ficha-tecnica.webp",
+    "heroAlt": "Audi Q4 e-tron 45 en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "audi q4 e-tron 45 precio españa",
+      "audi q4 e-tron 45 ficha técnica",
+      "q4 e-tron 45 consumo",
+      "q4 e-tron 45 opiniones",
+      "suv eléctrico precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "volkswagen-id4-pro-electrico-precio-ficha-tecnica",
+    "title": "Volkswagen ID.4 Pro: 41.420 €, 286 CV, 560 km y 543 l",
+    "excerpt": "El Volkswagen ID.4 Pro parte de 41.420 € con 286 CV, 560 km WLTP, 543 litros y carga a 175 kW. Ficha técnica del SUV eléctrico familiar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/volkswagen-id4-pro-electrico-precio-ficha-tecnica.webp",
+    "heroAlt": "Volkswagen ID.4 Pro en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "volkswagen id.4 pro precio españa",
+      "volkswagen id.4 pro ficha técnica",
+      "id.4 pro consumo",
+      "id.4 pro opiniones",
+      "suv eléctrico precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "skoda-enyaq-60-electrico-precio-ficha-tecnica",
+    "title": "Skoda Enyaq 60: desde 40.610 €, 204 CV y 585 litros",
+    "excerpt": "El Skoda Enyaq 60 parte de 40.610 € con 204 CV, 433 km WLTP y el maletero de referencia: 585 litros. Ficha, historia y mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/skoda-enyaq-60-electrico-precio-ficha-tecnica.webp",
+    "heroAlt": "Skoda Enyaq 60 en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "skoda enyaq 60 precio españa",
+      "skoda enyaq 60 ficha técnica",
+      "enyaq 60 consumo",
+      "enyaq 60 opiniones",
+      "suv eléctrico precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "hyundai-ioniq-5-electrico-precio-ficha-tecnica",
+    "title": "Hyundai Ioniq 5: 44.670 €, 440 km y carga de 800 V",
+    "excerpt": "El Hyundai Ioniq 5 de acceso parte de 44.670 € con 170 CV, 440 km WLTP y arquitectura de 800 V con carga a 220 kW. Ficha e historia completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/hyundai-ioniq-5-electrico-precio-ficha-tecnica.webp",
+    "heroAlt": "Hyundai Ioniq 5 en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "hyundai ioniq 5 precio españa",
+      "hyundai ioniq 5 ficha técnica",
+      "ioniq 5 consumo",
+      "ioniq 5 opiniones",
+      "suv eléctrico precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "kia-ev6-electrico-precio-ficha-tecnica",
+    "title": "Kia EV6: desde 48.975 €, 428 km, 800 V y 490 litros",
+    "excerpt": "El Kia EV6 de acceso parte de 48.975 € con 170 CV, 428 km WLTP y carga a 235 kW con arquitectura de 800 V. El Coche del Año 2022, a fondo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/kia-ev6-electrico-precio-ficha-tecnica.webp",
+    "heroAlt": "Kia EV6 en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "kia ev6 precio españa",
+      "kia ev6 ficha técnica",
+      "ev6 consumo",
+      "ev6 opiniones",
+      "crossover eléctrico precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "volkswagen-id-buzz-electrico-precio-ficha-tecnica",
+    "title": "Volkswagen ID. Buzz: 57.995 €, 286 CV y 1.121 litros",
+    "excerpt": "El Volkswagen ID. Buzz parte de 57.995 € con 286 CV, 448 km WLTP y 1.121 litros para hasta 6 plazas. La furgoneta eléctrica icono, a fondo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/volkswagen-id-buzz-electrico-precio-ficha-tecnica.webp",
+    "heroAlt": "Volkswagen ID. Buzz en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "volkswagen id. buzz precio españa",
+      "volkswagen id. buzz ficha técnica",
+      "id. buzz consumo",
+      "id. buzz opiniones",
+      "monovolumen eléctrico precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "nissan-qashqai-e-power-205",
+    "title": "Nissan Qashqai e-Power: 32.650 €, 205 CV, ECO y 479 l",
+    "excerpt": "El Nissan Qashqai e-Power de 205 CV parte de 32.650 € con 4,5 l/100 km, etiqueta ECO y tacto 100 % eléctrico sin enchufes. Ficha completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/nissan-qashqai-e-power-205.webp",
+    "heroAlt": "Nissan Qashqai e-Power 205 CV en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "nissan qashqai e-power 205 cv precio españa",
+      "nissan qashqai e-power 205 cv ficha técnica",
+      "qashqai e-power consumo",
+      "qashqai e-power opiniones",
+      "suv híbrido precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "nissan-juke-hybrid-143",
+    "title": "Nissan Juke Hybrid: desde 27.050 €, 143 CV, ECO y 4,7 l",
+    "excerpt": "El Nissan Juke Hybrid de 143 CV parte de 27.050 € con 4,7 l/100 km y etiqueta ECO. El B-SUV con personalidad propia: ficha e historia.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/nissan-juke-hybrid-143.webp",
+    "heroAlt": "Nissan Juke Hybrid 143 CV en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "nissan juke hybrid 143 cv precio españa",
+      "nissan juke hybrid 143 cv ficha técnica",
+      "juke hybrid consumo",
+      "juke hybrid opiniones",
+      "suv híbrido precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "honda-cr-v-full-hybrid",
+    "title": "Honda CR-V híbrido: 46.645 €, 184 CV, 596 litros y ECO",
+    "excerpt": "El Honda CR-V Full Hybrid de 184 CV parte de 46.645 € con 596 litros, etiqueta ECO y 7 años de garantía Honda. Ficha, historia y costes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/honda-cr-v-full-hybrid.webp",
+    "heroAlt": "Honda CR-V Full Hybrid en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "honda cr-v full hybrid precio españa",
+      "honda cr-v full hybrid ficha técnica",
+      "cr-v e:hev consumo",
+      "cr-v e:hev opiniones",
+      "suv híbrido precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "suzuki-vitara-14t-mild-hybrid",
+    "title": "Suzuki Vitara mild hybrid: 24.972 €, ECO y opción 4x4",
+    "excerpt": "El Suzuki Vitara 1.4T Mild Hybrid de 110 CV parte de 24.972 €: etiqueta ECO, 5,3 l/100 km y tracción total 4x4 real opcional. Ficha completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/suzuki-vitara-14t-mild-hybrid.webp",
+    "heroAlt": "Suzuki Vitara 1.4T Mild Hybrid en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "suzuki vitara 1.4t mild hybrid precio españa",
+      "suzuki vitara 1.4t mild hybrid ficha técnica",
+      "vitara 1.4t mhev consumo",
+      "vitara 1.4t mhev opiniones",
+      "suv híbrido ligero precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "mitsubishi-asx-180-hev",
+    "title": "Mitsubishi ASX HEV: 26.600 €, 160 CV y 8 años de garantía",
+    "excerpt": "El Mitsubishi ASX 180 HEV de 160 CV parte de 26.600 € con 4,3 l/100 km, etiqueta ECO y 8 años de garantía. Ficha, origen Captur y costes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/mitsubishi-asx-180-hev.webp",
+    "heroAlt": "Mitsubishi ASX 180 HEV en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "mitsubishi asx 180 hev precio españa",
+      "mitsubishi asx 180 hev ficha técnica",
+      "asx 180 hev consumo",
+      "asx 180 hev opiniones",
+      "suv híbrido precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "jeep-avenger-electrico-156",
+    "title": "Jeep Avenger eléctrico: 38.000 €, 156 CV, 400 km y Cero",
+    "excerpt": "El Jeep Avenger Eléctrico de 156 CV parte de 38.000 € con 400 km WLTP, batería de 54 kWh y etiqueta Cero. El Coche del Año 2023, a fondo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/jeep-avenger-electrico-156.webp",
+    "heroAlt": "Jeep Avenger Eléctrico 156 CV en detalle, foto del modelo exacto de la ficha",
+    "keywords": [
+      "jeep avenger eléctrico 156 cv precio españa",
+      "jeep avenger eléctrico 156 cv ficha técnica",
+      "avenger eléctrico consumo",
+      "avenger eléctrico opiniones",
+      "suv eléctrico precio"
+    ],
+    "readTime": 5
+  },
+  {
     "slug": "cupra-leon-2025-precio-ficha-tecnica",
     "title": "Cupra León 2025: el compacto español desde 31.752 €",
     "excerpt": "El Cupra León 2025 ya está a la venta: restyling con frontal 'nariz de tiburón', etiqueta ECO en el 1.5 eTSI y versiones hasta 325 CV. Precios y ficha.",
@@ -27360,7 +28348,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "byd-atto-2-vs-jaecoo-5-cual-comprar",
     "title": "BYD Atto 2 vs Jaecoo 5 2026",
-    "excerpt": "Dos SUV chinos por menos de 23.000 €: el BYD Atto 2 eléctrico desde 18.739 € financiado y el Jaecoo 5 con tres motorizaciones a elegir. Comparamos",
+    "excerpt": "El BYD Atto 2 eléctrico desde 29.990 € contra el Jaecoo 5 desde 26.871 €: precio, autonomía y maletero comparados.",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -27376,7 +28364,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "BYD Atto 2 DM-i precio",
       "comparativa SUV chinos"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "xpeng-g6-vs-tesla-model-y-cual-comprar",
@@ -27465,7 +28453,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "dacia-bigster-hybrid-vs-jaecoo-5-cual-comprar",
     "title": "Dacia Bigster Hybrid vs Jaecoo 5 2026",
-    "excerpt": "El Dacia Bigster Hybrid 155 (desde 29.390 €, etiqueta ECO) contra el Jaecoo 5 (desde 19.990 € financiado, con versiones C, ECO y CERO). El duelo de los",
+    "excerpt": "El Dacia Bigster Hybrid 155 (desde 29.390 €, etiqueta ECO) contra el Jaecoo 5 (desde 26.871 € de tarifa, con versiones C, ECO y CERO). El duelo de los",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -27481,7 +28469,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Jaecoo 5 híbrido",
       "qué SUV barato comprar"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "mg4-electric-vs-byd-dolphin-2025-cual-comprar",
@@ -46763,24 +47751,21 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "honda-pcx125-2025-ficha-tecnica-precio",
-    "title": "Honda PCX125 2025: precio y ficha técnica",
-    "excerpt": "La Honda PCX125 2025 desde 3.199 €: 12,5 CV, 98 km/h, 2,1 l/100 km, ficha técnica, etiqueta DGT y vídeo.",
+    "title": "PCX125 2025: 3.499 €, 12,3 CV, 385 km y versión DX nueva",
+    "excerpt": "La Honda PCX125 2025 desde 3.499 €: motor eSP+ de 12,3 CV, 385 km de autonomía y versión DX con pantalla TFT y RoadSync. Precio, ficha y opinión.",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
+    "date": "2026-11-05",
     "locale": "all",
     "heroSrc": "/media/motos/honda-pcx125-2025-ficha-tecnica-precio-1.webp",
     "heroAlt": "Honda PCX125 2025 azul en tres cuartos",
     "keywords": [
-      "honda pcx125 precio",
+      "honda pcx125 2025 precio",
       "pcx125 2025 ficha técnica",
-      "honda pcx125 opiniones",
-      "scooter 125 barato 2025 comparativa",
-      "pcx125 vs nmax 125",
-      "honda pcx125 12 cv precio españa",
-      "scooter 125 consumo bajo",
-      "pcx125 prueba"
+      "honda pcx125 dx precio",
+      "pcx125 2025 opiniones",
+      "scooter 125 honda 2025"
     ],
-    "readTime": 2
+    "readTime": 11
   },
   {
     "slug": "honda-vision-110-2025-ficha-tecnica-precio",
@@ -54521,6 +55506,1860 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 4
   },
   {
+    "slug": "bsa-scrambler-650-2025-ficha-tecnica-precio",
+    "title": "BSA Scrambler 650 2025: clásica A2, ¿vale 6.492 €?",
+    "excerpt": "La BSA Scrambler 650 2025 desde 6.492 €: monocilíndrico de 652 cc con 45 CV y 218 kg. La scrambler británica para el A2 con Pirelli mixtos. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/bsa-scrambler-650-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "BSA Scrambler 650 2025 - foto principal de la ficha técnica",
+    "keywords": [
+      "bsa scrambler 650 2025 precio",
+      "bsa scrambler 650 ficha técnica",
+      "scrambler 650 opiniones",
+      "moto scrambler a2 clásica",
+      "bsa scrambler 650 45 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "cfmoto-125nk-2024-ficha-tecnica-precio",
+    "title": "CFMoto 125NK 2024: naked A1 con TFT, ¿vale 3.895 €?",
+    "excerpt": "CFMoto 125NK 2024 desde 3.895 €: 15 CV, TFT de 5 pulgadas, control de tracción y horquilla invertida. La naked 125 que parece moto grande. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/cfmoto-125nk-2024-ficha-tecnica-precio.webp",
+    "heroAlt": "CFMoto 125NK 2024 - foto principal de la ficha técnica",
+    "keywords": [
+      "cfmoto 125nk 2024 precio",
+      "cfmoto 125nk ficha técnica",
+      "125nk opiniones",
+      "naked 125 a1 barata",
+      "cfmoto 125nk 15 cv"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "cfmoto-125nk-2026",
+    "title": "CFMoto 125NK 2026: la 125 más tech, ¿vale 3.395 €?",
+    "excerpt": "La CFMoto 125NK 2026 desde 3.395 €: 15 CV, TFT curva con Google Maps, control de tracción y OTA. La 125 A1 más conectada del mercado. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/cfmoto-125nk-2026-oficial.webp",
+    "heroAlt": "CFMoto 125NK 2026 - foto principal de la ficha técnica",
+    "keywords": [
+      "cfmoto 125nk 2026 precio",
+      "cfmoto 125nk 2026 ficha técnica",
+      "125nk 2026 opiniones",
+      "moto 125 a1 conectada",
+      "cfmoto 125nk google maps"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "cfmoto-300cl-x-2024-ficha-tecnica-precio",
+    "title": "CFMoto 300CL-X 2024: neoretro A2 barata, ¿vale 3.199 €?",
+    "excerpt": "CFMoto 300CL-X 2024 desde 3.199 €: motor de 292 cc con 28 CV, estética neoretro y depósito de 14,5 litros. La CL-X más barata para el A2. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/cfmoto-300cl-x-2024-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "CFMoto 300CL-X 2024 - foto principal de la ficha técnica",
+    "keywords": [
+      "cfmoto 300cl-x 2024 precio",
+      "cfmoto 300cl-x ficha técnica",
+      "300cl-x opiniones",
+      "moto neoretro a2 barata",
+      "cfmoto 300cl-x 28 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "cfmoto-450cl-c-2026-ficha-tecnica-precio",
+    "title": "CFMoto 450CL-C 2026: custom A2 real, ¿vale 6.269 €?",
+    "excerpt": "La CFMoto 450CL-C 2026 desde 6.269 €: bicilíndrico de 449 cc con 40 CV, asiento a 690 mm y correa. Una custom A2 auténtica y accesible. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/cfmoto-450cl-c-2026-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "CFMoto 450CL-C 2026 - foto principal de la ficha técnica",
+    "keywords": [
+      "cfmoto 450cl-c 2026 precio",
+      "cfmoto 450cl-c ficha técnica",
+      "450cl-c opiniones",
+      "custom a2 barata",
+      "cfmoto 450cl-c correa"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "cfmoto-450nk-2026-ficha-tecnica-precio",
+    "title": "CFMoto 450NK 2026: naked A2 bicilíndrica por 4.790 €",
+    "excerpt": "La CFMoto 450NK 2026 desde 4.790 €: bicilíndrico de 449 cc con 46,9 CV, 165 kg y frenos J.Juan. La naked A2 bicilíndrica más asequible. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/cfmoto-450nk-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "CFMoto 450NK 2026 - foto principal de la ficha técnica",
+    "keywords": [
+      "cfmoto 450nk 2026 precio",
+      "cfmoto 450nk ficha técnica",
+      "450nk opiniones",
+      "naked a2 bicilíndrica barata",
+      "cfmoto 450nk 47 cv"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "cfmoto-675nk-2026-ficha-tecnica-precio",
+    "title": "CFMoto 675NK 2026: tricilíndrica 90 CV por 6.495 €",
+    "excerpt": "La CFMoto 675NK 2026 desde 6.495 €: tricilíndrico de 675 cc con 90 CV, quickshifter y KYB regulable. 0 a 100 en 3,9 segundos. Precio, ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/cfmoto-675nk-2026-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "CFMoto 675NK 2026 - foto principal de la ficha técnica",
+    "keywords": [
+      "cfmoto 675nk 2026 precio",
+      "cfmoto 675nk ficha técnica",
+      "675nk opiniones",
+      "naked tricilíndrica barata",
+      "cfmoto 675nk 90 cv"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "cfmoto-700mt-2026-ficha-tecnica-precio",
+    "title": "CFMoto 700MT 2026: trail viajera A2 barata por 6.995 €",
+    "excerpt": "La CFMoto 700MT 2026 desde 6.995 €: bicilíndrico de 693 cc con 67 CV limitable al A2, TFT y ergonomía touring. La trail que cuesta la mitad.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/cfmoto-700mt-2026-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "CFMoto 700MT 2026 - foto principal de la ficha técnica",
+    "keywords": [
+      "cfmoto 700mt 2026 precio",
+      "cfmoto 700mt ficha técnica",
+      "700mt opiniones",
+      "trail a2 viajera barata",
+      "cfmoto 700mt 67 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "cfmoto-800mt-x-2026-ficha-tecnica-precio",
+    "title": "CFMoto 800MT-X 2026: trail 95 CV por 9.995 €, ¿qué tal?",
+    "excerpt": "La CFMoto 800MT-X 2026 desde 9.995 €: bicilíndrico de 799 cc con 95 CV, depósito de 22,5 litros y llantas 21/18. La trail china más aventurera. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/cfmoto-800mt-x-2026-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "CFMoto 800MT-X 2026 - foto principal de la ficha técnica",
+    "keywords": [
+      "cfmoto 800mt-x 2026 precio",
+      "cfmoto 800mt-x ficha técnica",
+      "800mt-x opiniones",
+      "trail aventura a2 limitable",
+      "cfmoto 800mt-x 95 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "cfmoto-800nk-2026-ficha-tecnica-precio",
+    "title": "CFMoto 800NK 2026: naked 94 CV y 186 kg por 7.495 €",
+    "excerpt": "La CFMoto 800NK 2026 desde 7.495 €: bicilíndrico de 799 cc con 94 CV, 186 kg, KYB y quickshifter. La naked media más afilada por su precio.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/cfmoto-800nk-2026-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "CFMoto 800NK 2026 - foto principal de la ficha técnica",
+    "keywords": [
+      "cfmoto 800nk 2026 precio",
+      "cfmoto 800nk ficha técnica",
+      "800nk opiniones",
+      "naked 94 cv barata",
+      "cfmoto 800nk sport advance"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "ducati-scrambler-800-icon-dark-2025-ficha-tecnica-precio",
+    "title": "Ducati Scrambler Icon Dark 2025: la Ducati por 10.890 €",
+    "excerpt": "La Ducati Scrambler 800 Icon Dark 2025 desde 10.890 €: Desmodue de 803 cc con 73 CV en 170 kg y negro mate. La Ducati nueva más accesible. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/ducati-scrambler-800-icon-dark-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Ducati Scrambler 800 Icon Dark 2025 - foto principal de la ficha técnica",
+    "keywords": [
+      "ducati scrambler icon dark 2025 precio",
+      "scrambler 800 icon dark ficha",
+      "icon dark opiniones",
+      "ducati nueva más barata",
+      "scrambler 800 73 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "ducati-scrambler-800-nightshift-2026-ficha-tecnica-precio",
+    "title": "Ducati Scrambler Nightshift 2026: café racer por 13.290 €",
+    "excerpt": "La Ducati Scrambler Nightshift 2026 desde 13.290 €: Desmodue de 803 cc con 73 CV, color Emerald Green y asiento café racer de cuero. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/ducati-scrambler-800-nightshift-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Ducati Scrambler 800 Nightshift 2026 - foto principal de la ficha técnica",
+    "keywords": [
+      "ducati scrambler nightshift 2026 precio",
+      "scrambler nightshift ficha técnica",
+      "nightshift emerald green",
+      "ducati café racer 800",
+      "scrambler 800 nightshift"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "felo-fw-03-ficha-tecnica-precio",
+    "title": "Felo FW-03 2025: monkey eléctrica 120 km por 4.995 €",
+    "excerpt": "La Felo FW-03 2025 desde 4.995 €: eléctrica de 6 kW, batería de 4,2 kWh con 120 km y solo 90 kg. Monkey retro con 5 años de garantía de batería. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/felo-fw-03-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Felo FW-03 2025 - foto principal de la ficha técnica",
+    "keywords": [
+      "felo fw-03 precio",
+      "felo fw-03 ficha técnica",
+      "fw-03 autonomía 120 km",
+      "monkey bike eléctrica a1",
+      "felo fw-03 sic58"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "harley-davidson-cvo-road-glide-2025-ficha-tecnica-precio",
+    "title": "Harley CVO Road Glide 2025: el tope touring por 53.950 €",
+    "excerpt": "La Harley CVO Road Glide 2025 desde 53.950 €: Milwaukee-Eight 121 VVT de 1.977 cc con 115 CV y 183 Nm y carenado Sharknose. El touring máximo. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/harley-davidson-cvo-road-glide-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Harley-Davidson CVO Road Glide 2025 - foto principal de la ficha técnica",
+    "keywords": [
+      "harley cvo road glide 2025 precio",
+      "cvo road glide ficha técnica",
+      "road glide 121 vvt",
+      "harley touring tope de gama",
+      "cvo road glide 115 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "harley-davidson-cvo-street-glide-2025-ficha-tecnica-precio",
+    "title": "Harley CVO Street Glide 2025: Batwing de lujo, 53.950 €",
+    "excerpt": "La Harley CVO Street Glide 2025 desde 53.950 €: Milwaukee-Eight 121 VVT con 115 CV y 183 Nm, carenado Batwing y acabados CVO. Precio, ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/harley-davidson-cvo-street-glide-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Harley-Davidson CVO Street Glide 2025 - foto principal de la ficha técnica",
+    "keywords": [
+      "harley cvo street glide 2025 precio",
+      "cvo street glide ficha técnica",
+      "street glide batwing 121",
+      "harley bagger tope gama",
+      "cvo street glide 53.950"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "harley-davidson-low-rider-st-2025-ficha-tecnica-precio",
+    "title": "Harley Low Rider ST 2025: club-style ágil por 26.900 €",
+    "excerpt": "La Harley Low Rider ST 2025 desde 26.900 €: Milwaukee-Eight 117 High Output con 114 CV, club-style y 304 kg. La custom deportiva accesible. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/harley-davidson-low-rider-st-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Harley-Davidson Low Rider ST 2025 - foto principal de la ficha técnica",
+    "keywords": [
+      "harley low rider st 2025 precio",
+      "low rider st ficha técnica",
+      "milwaukee-eight 117 high output",
+      "harley club-style",
+      "low rider st 114 cv"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "harley-davidson-nightster-special-2025-ficha-tecnica-precio",
+    "title": "Harley Nightster Special 2025: la Sport ligera, 15.100 €",
+    "excerpt": "La Harley Nightster Special 2025 desde 15.100 €: Revolution Max 975T de 90 CV y solo 221 kg. La Harley grande más ligera para empezar. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/harley-davidson-nightster-special-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Harley-Davidson Nightster Special 2025 - foto principal de la ficha técnica",
+    "keywords": [
+      "harley nightster special 2025 precio",
+      "nightster special ficha técnica",
+      "revolution max 975t",
+      "harley ligera primera grande",
+      "nightster special 90 cv"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "harley-davidson-pan-america-1250-special-2025-ficha-tecnica-precio",
+    "title": "Harley Pan America Special 2025: 150 CV por 22.400 €",
+    "excerpt": "La Harley Pan America Special 2025 desde 22.400 €: Revolution Max de 150 CV, altura adaptativa e IMU de 6 ejes. La maxitrail de Milwaukee. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/harley-davidson-pan-america-1250-special-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Harley-Davidson Pan America 1250 Special 2025 - foto principal de la ficha técnica",
+    "keywords": [
+      "harley pan america special 2025 precio",
+      "pan america 1250 special ficha",
+      "revolution max 150 cv",
+      "maxitrail harley altura adaptativa",
+      "pan america special 22.400"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "harley-davidson-pan-america-1250-st-2025-ficha-tecnica-precio",
+    "title": "Harley Pan America ST 2025: trail de asfalto, 21.900 €",
+    "excerpt": "La Harley Pan America ST 2025 desde 21.900 €: motor de 1.252 cc con 150 CV, llanta delantera de 17 pulgadas y asiento a 825 mm. Trail de asfalto. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/harley-davidson-pan-america-1250-st-2025-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Harley-Davidson Pan America 1250 ST 2025 - foto principal de la ficha técnica",
+    "keywords": [
+      "harley pan america st 2025 precio",
+      "pan america 1250 st ficha técnica",
+      "pan america st asfalto 17",
+      "harley trail carretera",
+      "pan america st 150 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "harley-davidson-sportster-s-2025-ficha-tecnica-precio",
+    "title": "Harley Sportster S 2025: 121 CV flat-track por 17.800 €",
+    "excerpt": "La Harley Sportster S 2025 desde 17.800 €: Revolution Max 1250T de 121 CV, estética flat-track y ABS en curva. La Sportster más potente de la historia.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/harley-davidson-sportster-s-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Harley-Davidson Sportster S 2025 - foto principal de la ficha técnica",
+    "keywords": [
+      "harley sportster s 2025 precio",
+      "sportster s ficha técnica",
+      "revolution max 1250t 121 cv",
+      "harley flat-track",
+      "sportster s opiniones"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "ktm-125-duke-2026-ficha-tecnica-precio",
+    "title": "KTM 125 Duke 2026: la naked A1 de 15 CV por 5.799 €",
+    "excerpt": "La KTM 125 Duke 2026 desde 5.799 €: 15 CV al límite del A1, chasis multitubular, horquilla WP y pantalla TFT. La naked 125 más deportiva. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/ktm-125-duke-2026-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "KTM 125 Duke 2026 naked naranja vista tres cuartos",
+    "keywords": [
+      "ktm 125 duke 2026 precio",
+      "ktm 125 duke ficha técnica",
+      "125 duke 2026 opiniones",
+      "mejor naked 125 a1 deportiva",
+      "ktm 125 duke 15 cv"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "aprilia-tuono-457-2026-ficha-tecnica-precio",
+    "title": "Aprilia Tuono 457 2026: naked A2 de 47 CV por 7.499 €",
+    "excerpt": "La Aprilia Tuono 457 2026 desde 7.499 €: bicilíndrico de 457 cc con 47 CV, chasis de aluminio y 175 kg. La RS 457 sin carenado para el A2. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/aprilia-tuono-457-2026-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Aprilia Tuono 457 2026 naked vista tres cuartos",
+    "keywords": [
+      "aprilia tuono 457 2026 precio",
+      "aprilia tuono 457 ficha técnica",
+      "tuono 457 opiniones a2",
+      "mejor naked a2 47 cv",
+      "aprilia tuono 457 47 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "kymco-skytown-125-2025-ficha-tecnica-precio",
+    "title": "Kymco SkyTown 125 2025: el 125 más ligero por 2.999 €",
+    "excerpt": "El Kymco SkyTown 125 2025 desde 2.999 €: solo 126 kg, asiento a 770 mm, ABS de doble canal y hueco para casco integral. El urbano de Kymco. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/kymco-skytown-125-2025-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Kymco SkyTown 125 2025 scooter urbano vista tres cuartos",
+    "keywords": [
+      "kymco skytown 125 2025 precio",
+      "kymco skytown 125 ficha técnica",
+      "skytown 125 opiniones",
+      "scooter 125 ligero ciudad",
+      "kymco skytown 126 kg"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "benelli-trk-502-2025-ficha-tecnica-precio",
+    "title": "Benelli TRK 502 2025: la trail A2 de 47,6 CV por 6.400 €",
+    "excerpt": "La Benelli TRK 502 2025 desde 6.400 €: bicilíndrico de 502 cc con 47,6 CV, depósito de 20 litros y 235 kg. La trail A2 superventas. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/benelli-trk-502-2025-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Benelli TRK 502 2025 trail vista tres cuartos",
+    "keywords": [
+      "benelli trk 502 2025 precio",
+      "benelli trk 502 ficha técnica",
+      "trk 502 opiniones a2",
+      "mejor trail a2 precio",
+      "benelli trk 502 47 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "benelli-imperiale-400-2025-ficha-tecnica-precio",
+    "title": "Benelli Imperiale 400 2025: clásica A2 por 4.450 €",
+    "excerpt": "La Benelli Imperiale 400 2025 desde 4.450 €: monocilíndrico de 374 cc con 21 CV y estética clásica británica. La custom retro más barata del A2. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/benelli-imperiale-400-2025-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Benelli Imperiale 400 2025 clásica retro vista tres cuartos",
+    "keywords": [
+      "benelli imperiale 400 2025 precio",
+      "benelli imperiale 400 ficha técnica",
+      "imperiale 400 opiniones",
+      "moto clasica a2 barata",
+      "benelli imperiale 21 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "benelli-502c-2025-ficha-tecnica-precio",
+    "title": "Benelli 502C 2025: power-cruiser A2 de 47,8 CV, 5.890 €",
+    "excerpt": "La Benelli 502C 2025 desde 5.890 €: bicilíndrico de 500 cc con 47,8 CV, depósito de 21 litros y asiento a 740 mm. La Diavel del A2. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/benelli-502c-2025-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Benelli 502C 2025 cruiser vista tres cuartos",
+    "keywords": [
+      "benelli 502c 2025 precio",
+      "benelli 502c ficha técnica",
+      "502c opiniones a2",
+      "cruiser a2 47 cv",
+      "benelli 502c deposito 21 litros"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "keeway-rkf-125-2025-ficha-tecnica-precio",
+    "title": "Keeway RKF 125 2025: naked 125 de 13 CV por 2.690 €",
+    "excerpt": "La Keeway RKF 125 2025 desde 2.690 €: naked de 125 cc con 13 CV, faro LED y cuadro digital. Entre las naked 125 más baratas. Precio, ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/keeway-rkf-125-2025-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Keeway RKF 125 2025 naked deportiva vista tres cuartos",
+    "keywords": [
+      "keeway rkf 125 2025 precio",
+      "keeway rkf 125 ficha técnica",
+      "rkf 125 opiniones",
+      "naked 125 barata marchas",
+      "keeway rkf 13 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "keeway-k-light-125-2025-ficha-tecnica-precio",
+    "title": "Keeway K-Light 125 2025: custom 125 por solo 2.490 €",
+    "excerpt": "La Keeway K-Light 125 2025 desde 2.490 €: custom de 125 cc con 10,6 CV, asiento bajo y mantenimiento baratísimo. La custom más barata. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/keeway-k-light-125-2025-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Keeway K-Light 125 2025 custom vista tres cuartos",
+    "keywords": [
+      "keeway k-light 125 2025 precio",
+      "keeway k-light 125 ficha técnica",
+      "k-light 125 opiniones",
+      "custom 125 barata a1",
+      "keeway k-light 10 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "keeway-rkv-125c-2025-ficha-tecnica-precio",
+    "title": "Keeway RKV 125C 2025: 14,5 CV y 15 litros por 3.790 €",
+    "excerpt": "La Keeway RKV 125C 2025 desde 3.790 €: naked de 125 cc con 14,5 CV, depósito de 15 litros y cuadro digital. La 125 grande de Keeway. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/keeway-rkv-125c-2025-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Keeway RKV 125C 2025 naked vista tres cuartos",
+    "keywords": [
+      "keeway rkv 125c 2025 precio",
+      "keeway rkv 125c ficha técnica",
+      "rkv 125c opiniones",
+      "naked 125 deposito 15 litros",
+      "keeway rkv 14 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "keeway-vieste-125-2025-ficha-tecnica-precio",
+    "title": "Keeway Vieste 125 2025: scooter GT con ABS por 2.190 €",
+    "excerpt": "El Keeway Vieste 125 2025 desde 2.190 €: scooter GT de 125 cc con 10 CV, ABS, suelo plano y 5 años de garantía. De los 125 más baratos. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/keeway-vieste-125-2025-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Keeway Vieste 125 2025 scooter GT vista tres cuartos",
+    "keywords": [
+      "keeway vieste 125 2025 precio",
+      "keeway vieste 125 ficha técnica",
+      "vieste 125 opiniones",
+      "scooter 125 barato abs",
+      "keeway vieste garantia 5 años"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "keeway-sixties-125-2025-ficha-tecnica-precio",
+    "title": "Keeway Sixties 125 2025: el retro de 10 CV por 2.390 €",
+    "excerpt": "El Keeway Sixties 125 2025 desde 2.390 €: scooter retro de 125 cc con 10 CV, 127 kg, frenada CBS y 5 años de garantía. Estilo sesentero. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/keeway-sixties-125-2025-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Keeway Sixties 125 2025 scooter retro vista tres cuartos",
+    "keywords": [
+      "keeway sixties 125 2025 precio",
+      "keeway sixties 125 ficha técnica",
+      "sixties 125 opiniones",
+      "scooter retro 125 barato",
+      "keeway sixties 127 kg"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "fantic-caballero-125-scrambler-2025-ficha-tecnica-precio",
+    "title": "Fantic Caballero 125 2025: scrambler de 15 CV, 5.590 €",
+    "excerpt": "La Fantic Caballero 125 Scrambler 2025 desde 5.590 €: 15 CV, motor Minarelli, horquilla invertida y 130 kg. La scrambler A1 premium. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/fantic-caballero-125-scrambler-2025-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Fantic Caballero 125 Scrambler 2025 vista tres cuartos",
+    "keywords": [
+      "fantic caballero 125 scrambler 2025 precio",
+      "fantic caballero 125 ficha técnica",
+      "caballero 125 opiniones",
+      "scrambler 125 a1 premium",
+      "fantic caballero minarelli 15 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "lifan-kpt-400",
+    "title": "Lifan KPT 400: trail A2 de 42 CV, ¿llegará por 6.700 €?",
+    "excerpt": "La Lifan KPT 400 con precio orientativo de 6.700 €: bicilíndrico de 378 cc con 42 CV, depósito de 18,5 litros y TFT. No se vende en España. Ficha completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/lifan-kpt-400-1.webp",
+    "heroAlt": "Lifan KPT 400 trail vista tres cuartos",
+    "keywords": [
+      "lifan kpt 400 precio",
+      "lifan kpt 400 ficha técnica",
+      "kpt 400 opiniones",
+      "trail china a2 42 cv",
+      "lifan kpt 400 españa"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "cyclone-rx1",
+    "title": "Cyclone RX1: la trail 125 con maletas de serie por 3.190 €",
+    "excerpt": "La Cyclone RX1 desde 3.190 €: trail 125 de 12,5 CV con maletas de serie, 6 marchas, depósito de 14 litros y 3 años de garantía oficial.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/cyclone-rx1-1.webp",
+    "heroAlt": "Cyclone RX1, trail de 12,5 CV",
+    "keywords": [
+      "cyclone rx1 precio",
+      "cyclone rx1 ficha técnica",
+      "cyclone rx1 opiniones",
+      "cyclone rx1 12,5 cv",
+      "moto trail a1"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "cyclone-ra2",
+    "title": "Cyclone RA2: la custom 125 clásica por solo 2.490 €",
+    "excerpt": "La Cyclone RA2 desde 2.490 €: custom 125 de 12,64 CV y solo 144 kg, con frenada CBS, LED y 3 años de garantía oficial del importador.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/cyclone-ra2-1.webp",
+    "heroAlt": "Cyclone RA2, custom de 12,64 CV",
+    "keywords": [
+      "cyclone ra2 precio",
+      "cyclone ra2 ficha técnica",
+      "cyclone ra2 opiniones",
+      "cyclone ra2 12,64 cv",
+      "moto custom a1"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "qjmotor-srk-400rs",
+    "title": "QJMotor SRK 400RS: tetracilíndrica de 77,6 CV, ~11.000 €",
+    "excerpt": "La QJMotor SRK 400RS por unos 11.000 € al cambio: naked tetracilíndrica de 399 cc con 77,6 CV, 176 kg y un motor que sube a 14.000 rpm.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/qjmotor-srk-400rs-1.webp",
+    "heroAlt": "QJMotor SRK 400RS, naked de 77,6 CV",
+    "keywords": [
+      "qjmotor srk 400rs precio",
+      "qjmotor srk 400rs ficha técnica",
+      "qjmotor srk 400rs opiniones",
+      "qjmotor srk 400rs 77,6 cv",
+      "moto naked a"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "cfmoto-250sr",
+    "title": "CFMoto 250SR: deportiva A2 de 27,4 CV por unos 3.600 €",
+    "excerpt": "La CFMoto 250SR por unos 3.600 € al cambio: deportiva de 249 cc con 27,4 CV, ABS de doble canal, modos Sport y Eco y 155 km/h de máxima.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/cfmoto-250sr-1.webp",
+    "heroAlt": "CFMoto 250SR, deportiva de 27,4 CV",
+    "keywords": [
+      "cfmoto 250sr precio",
+      "cfmoto 250sr ficha técnica",
+      "cfmoto 250sr opiniones",
+      "cfmoto 250sr 27,4 cv",
+      "moto deportiva a2"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "cfmoto-250cl-x",
+    "title": "CFMoto 250CL-X: neo-retro de 26,2 CV por unos 4.300 €",
+    "excerpt": "La CFMoto 250CL-X por unos 4.300 € al cambio: naked neo-retro de 249 cc con 26,2 CV, horquilla invertida, TFT de 5 pulgadas y 158 kg.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/cfmoto-250cl-x-1.webp",
+    "heroAlt": "CFMoto 250CL-X, naked de 26,2 CV",
+    "keywords": [
+      "cfmoto 250cl-x precio",
+      "cfmoto 250cl-x ficha técnica",
+      "cfmoto 250cl-x opiniones",
+      "cfmoto 250cl-x 26,2 cv",
+      "moto naked a2"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "voge-300acx",
+    "title": "Voge 300ACX: scrambler A2 de 28,5 CV por 4.069 € en España",
+    "excerpt": "La Voge 300ACX desde 4.069 €: scrambler de 292 cc con 28,5 CV, ABS de doble canal, neumáticos mixtos y 5 años de garantía oficial Voge.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/voge-300acx-1.webp",
+    "heroAlt": "Voge 300ACX, naked de 28,5 CV",
+    "keywords": [
+      "voge 300acx precio",
+      "voge 300acx ficha técnica",
+      "voge 300acx opiniones",
+      "voge 300acx 28,5 cv",
+      "moto naked a2"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "voge-625r",
+    "title": "Voge 625R: naked de 64 CV y TFT por solo 5.184 € en España",
+    "excerpt": "La Voge 625R desde 5.184 €: naked de 581 cc con 64 CV, pantalla TFT, control de tracción, horquilla Kayaba y 5 años de garantía oficial.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/voge-625r-1.webp",
+    "heroAlt": "Voge 625R, naked de 64 CV",
+    "keywords": [
+      "voge 625r precio",
+      "voge 625r ficha técnica",
+      "voge 625r opiniones",
+      "voge 625r 64 cv",
+      "moto naked a"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "cfmoto-150nk",
+    "title": "CFMoto 150NK: naked 150 de 11,8 CV por unos 2.300 €",
+    "excerpt": "La CFMoto 150NK por unos 2.300 € al cambio: naked de 149,4 cc con 11,8 CV, solo 142 kg, caja de 6 marchas y 126 km/h de velocidad máxima declarada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/cfmoto-150nk-1.webp",
+    "heroAlt": "CFMoto 150NK, naked de 11,8 CV",
+    "keywords": [
+      "cfmoto 150nk precio",
+      "cfmoto 150nk ficha técnica",
+      "cfmoto 150nk opiniones",
+      "cfmoto 150nk 11,8 cv",
+      "moto naked a1"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "voge-525r",
+    "title": "Voge 525R: naked A2 con 47,6 CV exactos por 5.287 €",
+    "excerpt": "La Voge 525R desde 5.287 €: naked A2 de 494 cc con 47,6 CV exactos, horquilla Kayaba, frenos Nissin y 5 años de garantía oficial Voge.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/voge-525r-1.webp",
+    "heroAlt": "Voge 525R, naked de 47,6 CV",
+    "keywords": [
+      "voge 525r precio",
+      "voge 525r ficha técnica",
+      "voge 525r opiniones",
+      "voge 525r 47,6 cv",
+      "moto naked a2"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "qjmotor-srk-921rr",
+    "title": "QJMotor SRK 921RR: 129,2 CV por unos 9.000 € en Europa",
+    "excerpt": "La QJMotor SRK 921RR por unos 9.000 € orientativos en Europa: deportiva tetracilíndrica de 921 cc con 129,2 CV, Brembo Stylema y 235 km/h de máxima.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/qjmotor-srk-921rr-1.webp",
+    "heroAlt": "QJMotor SRK 921RR, deportiva de 129,2 CV",
+    "keywords": [
+      "qjmotor srk 921rr precio",
+      "qjmotor srk 921rr ficha técnica",
+      "qjmotor srk 921rr opiniones",
+      "qjmotor srk 921rr 129,2 cv",
+      "moto deportiva a"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "qjmotor-srk-125s",
+    "title": "QJMotor SRK 125S: 15 CV y TFT por solo 2.999 € en España",
+    "excerpt": "La QJMotor SRK 125S desde 2.999 €: naked 125 de 15 CV con pantalla TFT de 5 pulgadas con mirroring y 6 años de garantía oficial QJMotor.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/qjmotor-srk-125s-1.webp",
+    "heroAlt": "QJMotor SRK 125S, naked de 15 CV",
+    "keywords": [
+      "qjmotor srk 125s precio",
+      "qjmotor srk 125s ficha técnica",
+      "qjmotor srk 125s opiniones",
+      "qjmotor srk 125s 15 cv",
+      "moto naked a1"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "cyclone-battlo",
+    "title": "Cyclone Battlo: naked 125 de 15 CV por solo 2.880 €",
+    "excerpt": "La Cyclone Battlo desde 2.880 €: naked 125 de 15 CV con motor de refrigeración líquida DOHC, ABS, 6 marchas y 3 años de garantía oficial.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/cyclone-battlo-1.webp",
+    "heroAlt": "Cyclone Battlo, naked de 15 CV",
+    "keywords": [
+      "cyclone battlo precio",
+      "cyclone battlo ficha técnica",
+      "cyclone battlo opiniones",
+      "cyclone battlo 15 cv",
+      "moto naked a1"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "morbidelli-t352x",
+    "title": "Morbidelli T352X: trail A2 de 40,9 CV por solo 4.790 €",
+    "excerpt": "La Morbidelli T352X desde 4.790 €: trail A2 de 349 cc con 40,9 CV, ABS Bosch off-road, pantalla TFT, depósito de 18 litros y 5 años de garantía.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/morbidelli-t352x-1.webp",
+    "heroAlt": "Morbidelli T352X, trail de 40,9 CV",
+    "keywords": [
+      "morbidelli t352x precio",
+      "morbidelli t352x ficha técnica",
+      "morbidelli t352x opiniones",
+      "morbidelli t352x 40,9 cv",
+      "moto trail a2"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "zontes-125c",
+    "title": "Zontes 125C: custom 125 con keyless por 3.087 € en España",
+    "excerpt": "La Zontes 125C desde 3.087 €: custom 125 de 14,7 CV con embrague antirrebote, ABS de doble canal, arranque sin llave y depósito de 16 litros.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/zontes-125c-1.webp",
+    "heroAlt": "Zontes 125C, custom de 14,7 CV",
+    "keywords": [
+      "zontes 125c precio",
+      "zontes 125c ficha técnica",
+      "zontes 125c opiniones",
+      "zontes 125c 14,7 cv",
+      "moto custom a1"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "zontes-e125",
+    "title": "Zontes E125: scooter GT de 14,55 CV por solo 3.887 €",
+    "excerpt": "La Zontes E125 desde 3.887 €: scooter GT de 125 cc con 14,55 CV, parabrisas eléctrico, arranque sin llave, TFT y depósito de 16 litros.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/zontes-e125-1.webp",
+    "heroAlt": "Zontes E125, scooter de 14,55 CV",
+    "keywords": [
+      "zontes e125 precio",
+      "zontes e125 ficha técnica",
+      "zontes e125 opiniones",
+      "zontes e125 14,55 cv",
+      "moto scooter a1"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "zontes-368e",
+    "title": "Zontes 368E: el maxiscooter de 38,8 CV por 4.592 €",
+    "excerpt": "El Zontes 368E desde 4.592 € en promoción: maxiscooter A2 de 367,6 cc con 38,8 CV, cámaras delantera y trasera, TCS y parabrisas eléctrico.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/zontes-368e-1.webp",
+    "heroAlt": "Zontes 368E, scooter de 38,8 CV",
+    "keywords": [
+      "zontes 368e precio",
+      "zontes 368e ficha técnica",
+      "zontes 368e opiniones",
+      "zontes 368e 38,8 cv",
+      "moto scooter a2"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "keeway-k-light-250v",
+    "title": "Keeway K-Light 250V: la custom en V por unos 3.200 €",
+    "excerpt": "La Keeway K-Light 250V por unos 3.200 € al cambio: custom A2 con bicilíndrico en V de 248,9 cc, 18,1 CV y estética cruiser clásica.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/keeway-k-light-250v-1.webp",
+    "heroAlt": "Keeway K Light 250V, custom de 18,1 CV",
+    "keywords": [
+      "keeway k light 250v precio",
+      "keeway k light 250v ficha técnica",
+      "keeway k light 250v opiniones",
+      "keeway k light 250v 18,1 cv",
+      "moto custom a2"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "keeway-v302c",
+    "title": "Keeway V302C: V-Twin con correa por solo 4.490 € en España",
+    "excerpt": "La Keeway V302C desde 4.490 €: custom A2 con V-Twin de 298 cc y 30 CV, transmisión por correa, ABS de doble canal y depósito de 15 litros.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/keeway-v302c-1.webp",
+    "heroAlt": "Keeway V302C, custom de 30 CV",
+    "keywords": [
+      "keeway v302c precio",
+      "keeway v302c ficha técnica",
+      "keeway v302c opiniones",
+      "keeway v302c 30 cv",
+      "moto custom a2"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "motron-x-nord-125",
+    "title": "Motron X-Nord 125: trail con 3 maletas por 3.599 €",
+    "excerpt": "La Motron X-Nord 125 desde 3.599 €: trail 125 de 12,5 CV con maletas laterales y top case incluidos, motor de refrigeración líquida y 6 marchas.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motron-x-nord-125-1.webp",
+    "heroAlt": "Motron X-Nord 125, trail de 12,5 CV",
+    "keywords": [
+      "motron x-nord 125 precio",
+      "motron x-nord 125 ficha técnica",
+      "motron x-nord 125 opiniones",
+      "motron x-nord 125 12,5 cv",
+      "moto trail a1"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "kove-510f",
+    "title": "Kove 510F: scrambler A2 de 47,6 CV por 5.990 € en España",
+    "excerpt": "La Kove 510F desde 5.990 €: scrambler neo-retro A2 de 498 cc con 47,6 CV, horquilla Kayaba, frenos Nissin, TFT y 3 años de garantía oficial.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/kove-510f-1.webp",
+    "heroAlt": "Kove 510F, naked de 47,6 CV",
+    "keywords": [
+      "kove 510f precio",
+      "kove 510f ficha técnica",
+      "kove 510f opiniones",
+      "kove 510f 47,6 cv",
+      "moto naked a2"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "ducati-panigale-v4-tricolore-2025-ficha-tecnica-precio",
+    "title": "Ducati Panigale V4 Tricolore 2025: 216 CV, unos 60.000 €",
+    "excerpt": "La Ducati Panigale V4 Tricolore 2025 por unos 60.000 €: edición limitada a 1.000 unidades con V4 de 1.103 cc, 216 CV e IMU de 6 ejes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/ducati-panigale-v4-tricolore-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Ducati Panigale V4 Tricolore, deportiva de 216 CV",
+    "keywords": [
+      "ducati panigale v4 tricolore precio",
+      "ducati panigale v4 tricolore ficha técnica",
+      "ducati panigale v4 tricolore opiniones",
+      "ducati panigale v4 tricolore 216 cv",
+      "moto deportiva a"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "ducati-multistrada-v4-2026-ficha-tecnica-precio",
+    "title": "Ducati Multistrada V4 2026: 170 CV y radar por 20.790 €",
+    "excerpt": "La Ducati Multistrada V4 2026 desde 20.790 € con campaña oficial: V4 Granturismo de 1.158 cc y 170 CV, radar delantero y trasero de serie.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/ducati-multistrada-v4-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Ducati Multistrada V4, trail de 170 CV",
+    "keywords": [
+      "ducati multistrada v4 precio",
+      "ducati multistrada v4 ficha técnica",
+      "ducati multistrada v4 opiniones",
+      "ducati multistrada v4 170 cv",
+      "moto trail a"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "aprilia-rs-457-2026-ficha-tecnica-precio",
+    "title": "Aprilia RS 457 2026: 47,6 CV de raza A2 por 7.300 €",
+    "excerpt": "La Aprilia RS 457 2026 desde 7.300 €: deportiva A2 de 457 cc con 47,6 CV, chasis de aluminio de doble viga, Ride-by-Wire y solo 175 kg.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/aprilia-rs-457-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Aprilia RS 457, deportiva de 47,6 CV",
+    "keywords": [
+      "aprilia rs 457 precio",
+      "aprilia rs 457 ficha técnica",
+      "aprilia rs 457 opiniones",
+      "aprilia rs 457 47,6 cv",
+      "moto deportiva a2"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "ducati-scrambler-icon-800-2026-ficha-tecnica-precio",
+    "title": "Ducati Scrambler Icon 2026: 74 CV neo-retro por 11.190 €",
+    "excerpt": "La Ducati Scrambler Icon 800 2026 desde 11.190 €: bicilíndrico en L de 803 cc con 74 CV, ABS en curva, modos de conducción y limitable al A2.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/ducati-scrambler-icon-800-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Ducati Scrambler Icon 800, scrambler de 74 CV",
+    "keywords": [
+      "ducati scrambler icon 800 precio",
+      "ducati scrambler icon 800 ficha técnica",
+      "ducati scrambler icon 800 opiniones",
+      "ducati scrambler icon 800 74 cv",
+      "moto scrambler a (limitable a a2)"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "moto-guzzi-v85-tt-2026-ficha-tecnica-precio",
+    "title": "Moto Guzzi V85 TT 2026: trail con cardán por 14.100 €",
+    "excerpt": "La Moto Guzzi V85 TT 2026 desde 14.100 €: V2 de 853 cc con 80 CV, cardán sin cadena y 230 kg. La trail neo-retro italiana, limitable al carnet A2.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/moto-guzzi-v85-tt-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Moto Guzzi V85 TT 2026 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "moto guzzi v85 tt 2026 precio",
+      "v85 tt ficha técnica",
+      "moto guzzi v85 tt opiniones",
+      "trail cardán 2026",
+      "v85 tt 80 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "mv-agusta-enduro-veloce-2026-ficha-tecnica-precio",
+    "title": "MV Agusta Enduro Veloce 2026: 124 CV por solo 21.399 €",
+    "excerpt": "La MV Agusta Enduro Veloce 2026 desde 21.399 €: tricilíndrico de 931 cc con 124 CV, Sachs electrónicas y 5 años de garantía. La primera trail de MV.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/mv-agusta-enduro-veloce-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "MV Agusta Enduro Veloce 2026 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "mv agusta enduro veloce 2026 precio",
+      "enduro veloce ficha técnica",
+      "mv agusta trail opiniones",
+      "enduro veloce 124 cv",
+      "mv agusta enduro veloce garantía"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "ktm-390-smc-r-2026-ficha-tecnica-precio",
+    "title": "KTM 390 SMC R 2026: supermotard A2 por solo 6.249 €",
+    "excerpt": "La KTM 390 SMC R 2026 desde 6.249 €: 399 cc con 44 CV, solo 154 kg y ABS con modo Supermoto. La supermotard nueva más barata para el carnet A2.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/ktm-390-smc-r-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "KTM 390 SMC R 2026 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "ktm 390 smc r 2026 precio",
+      "390 smc r ficha técnica",
+      "ktm supermotard a2 opiniones",
+      "390 smc r 44 cv",
+      "supermotard barata 2026"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "ktm-1390-super-duke-r-evo-2026-ficha-tecnica-precio",
+    "title": "KTM 1390 Super Duke R EVO 2026: 190 CV por 24.499 €",
+    "excerpt": "La KTM 1390 Super Duke R EVO 2026 desde 24.499 €: V2 de 1.350 cc con 190 CV, WP semi-activas y 4 años de garantía. La Bestia en su versión total.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/ktm-1390-super-duke-r-evo-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "KTM 1390 Super Duke R EVO 2026 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "ktm 1390 super duke r evo 2026 precio",
+      "1390 super duke r evo ficha técnica",
+      "super duke evo opiniones",
+      "1390 super duke 190 cv",
+      "hypernaked ktm 2026"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "ktm-1390-super-adventure-s-2026-ficha-tecnica-precio",
+    "title": "KTM 1390 Super Adventure S 2026: 173 CV por 21.899 €",
+    "excerpt": "La KTM 1390 Super Adventure S 2026 desde 21.899 €: V2 de 1.350 cc con 173 CV, radar Bosch y TFT de 8,8 pulgadas. La maxitrail más deportiva.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/ktm-1390-super-adventure-s-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "KTM 1390 Super Adventure S 2026 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "ktm 1390 super adventure s 2026 precio",
+      "1390 super adventure s ficha técnica",
+      "ktm maxitrail opiniones",
+      "super adventure s 173 cv",
+      "ktm trail radar 2026"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "husqvarna-svartpilen-801-2026-ficha-tecnica-precio",
+    "title": "Husqvarna Svartpilen 801 2026: 105 CV por 11.949 €",
+    "excerpt": "La Husqvarna Svartpilen 801 2026 desde 11.949 €: 799 cc con 105 CV, solo 181 kg y diseño escandinavo. La flecha negra, una naked distinta a todas.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/husqvarna-svartpilen-801-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Husqvarna Svartpilen 801 2026 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "husqvarna svartpilen 801 2026 precio",
+      "svartpilen 801 ficha técnica",
+      "svartpilen 801 opiniones",
+      "husqvarna naked 105 cv",
+      "svartpilen 801 2026"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "triumph-tiger-1200-gt-pro-2026-ficha-tecnica-precio",
+    "title": "Triumph Tiger 1200 GT Pro 2026: 150 CV por 20.195 €",
+    "excerpt": "La Triumph Tiger 1200 GT Pro 2026 desde 20.195 €: tricilíndrico de 1.160 cc con 150 CV, cardán y 4 años de garantía sin límite de kilometraje.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/triumph-tiger-1200-gt-pro-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Triumph Tiger 1200 GT Pro 2026 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "triumph tiger 1200 gt pro 2026 precio",
+      "tiger 1200 gt pro ficha técnica",
+      "tiger 1200 opiniones",
+      "triumph maxitrail cardán",
+      "tiger 1200 150 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "triumph-tiger-sport-800-2026-ficha-tecnica-precio",
+    "title": "Triumph Tiger Sport 800 2026: sus 115 CV por 12.445 €",
+    "excerpt": "La Triumph Tiger Sport 800 2026 desde 12.445 €: tricilíndrico de 798 cc con 115 CV, IMU, quickshifter y revisiones cada 16.000 km. Turismo total.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/triumph-tiger-sport-800-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Triumph Tiger Sport 800 2026 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "triumph tiger sport 800 2026 precio",
+      "tiger sport 800 ficha técnica",
+      "tiger sport 800 opiniones",
+      "sport turismo triumph 115 cv",
+      "tiger sport 800 tour 2026"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "triumph-daytona-660-2026-ficha-tecnica-precio",
+    "title": "Triumph Daytona 660 2026: 95 CV tricilíndricos, 10.395 €",
+    "excerpt": "La Triumph Daytona 660 2026 desde 10.395 €: tricilíndrico de 660 cc con 95 CV, quickshifter de serie y opción A2. La deportiva británica útil.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/triumph-daytona-660-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Triumph Daytona 660 2026 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "triumph daytona 660 2026 precio",
+      "daytona 660 ficha técnica",
+      "daytona 660 opiniones",
+      "deportiva triumph 95 cv",
+      "daytona 660 a2 limitable"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "bmw-r-12-gs-2026-ficha-tecnica-precio",
+    "title": "BMW R 12 G/S 2026: la GS retro con bóxer por 18.090 €",
+    "excerpt": "La BMW R 12 G/S 2026 desde 18.090 €: bóxer de 1.170 cc con 109 CV, llanta de 21 pulgadas y estética de la R 80 G/S de 1980. Heritage con campo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/bmw-r-12-gs-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "BMW R 12 G/S 2026 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "bmw r 12 gs 2026 precio",
+      "bmw r 12 g/s ficha técnica",
+      "r 12 g/s opiniones",
+      "bmw trail retro bóxer",
+      "r 12 g/s 109 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "bmw-f-900-gs-2026-ficha-tecnica-precio",
+    "title": "BMW F 900 GS 2026: trail media de 105 CV por 14.210 €",
+    "excerpt": "La BMW F 900 GS 2026 desde 14.210 €: bicilíndrico de 895 cc con 105 CV, solo 219 kg y modo Enduro. La trail media BMW con más vocación off-road.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/bmw-f-900-gs-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "BMW F 900 GS 2026 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "bmw f 900 gs 2026 precio",
+      "f 900 gs ficha técnica",
+      "bmw f 900 gs opiniones",
+      "trail media bmw 105 cv",
+      "f 900 gs 2026"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "honda-cb1000-hornet-sp-2026-ficha-tecnica-precio",
+    "title": "Honda CB1000 Hornet SP 2026: 157 CV por solo 13.450 €",
+    "excerpt": "La Honda CB1000 Hornet SP 2026 desde 13.450 €: 999 cc con 157 CV, Öhlins, Brembo Stylema y quickshifter. La naked grande con mejor equipo por euro.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/honda-cb1000-hornet-sp-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Honda CB1000 Hornet SP 2026 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "honda cb1000 hornet sp 2026 precio",
+      "cb1000 hornet sp ficha técnica",
+      "hornet sp opiniones",
+      "honda naked 157 cv ohlins",
+      "cb1000 hornet sp 2026"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "honda-cl500-2026-ficha-tecnica-precio",
+    "title": "Honda CL500 2026: scrambler A2 de 46 CV por 6.790 €",
+    "excerpt": "La Honda CL500 2026 desde 6.790 €: bicilíndrico de 471 cc con 46 CV en el límite del A2, escape alto y 191 kg. La scrambler ideal para empezar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/honda-cl500-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Honda CL500 2026 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "honda cl500 2026 precio",
+      "cl500 ficha técnica",
+      "honda cl500 opiniones",
+      "scrambler a2 honda",
+      "cl500 46 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "yamaha-mt-09-2026-ficha-tecnica-precio",
+    "title": "Yamaha MT-09 2026: 119 CV tricilíndricos por 11.299 €",
+    "excerpt": "La Yamaha MT-09 2026 desde 11.299 €: tricilíndrico CP3 de 890 cc con 119 CV, IMU de 6 ejes y 193 kg. La hypernaked media de referencia absoluta.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/yamaha-mt-09-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Yamaha MT-09 2026 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "yamaha mt-09 2026 precio",
+      "mt-09 ficha técnica",
+      "yamaha mt-09 opiniones",
+      "mt-09 119 cv cp3",
+      "mt-09 y-amt 2026"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "yamaha-tenere-700-rally-2026-ficha-tecnica-precio",
+    "title": "Yamaha Ténéré 700 Rally 2026: espíritu Dakar, 12.399 €",
+    "excerpt": "La Yamaha Ténéré 700 Rally 2026 desde 12.399 €: CP2 de 689 cc con 73 CV, ABS desconectable y 3 años de garantía. Espíritu Dakar, sin adornos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/yamaha-tenere-700-rally-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Yamaha Ténéré 700 Rally 2026 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "yamaha tenere 700 rally 2026 precio",
+      "tenere 700 rally ficha técnica",
+      "tenere rally opiniones",
+      "yamaha trail dakar 73 cv",
+      "tenere 700 rally 2026"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "kawasaki-z900-se-2026-ficha-tecnica-precio",
+    "title": "Kawasaki Z900 SE 2026: Öhlins y Brembo por 12.685 €",
+    "excerpt": "La Kawasaki Z900 SE 2026 desde 12.685 €: tetracilíndrico de 948 cc con 124 CV, Öhlins, Brembo y TFT Rideology. Premium a precio de naked media.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/kawasaki-z900-se-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Kawasaki Z900 SE 2026 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "kawasaki z900 se 2026 precio",
+      "z900 se ficha técnica",
+      "kawasaki z900 se opiniones",
+      "z900 se ohlins brembo",
+      "z900 se 124 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "kawasaki-ninja-500-se-2025-ficha-tecnica-precio",
+    "title": "Kawasaki Ninja 500 SE 2025: deportiva A2 por 7.450 €",
+    "excerpt": "La Kawasaki Ninja 500 SE 2025 desde 7.450 €: 451 cc con 45 CV, TFT con Rideology, arranque sin llave y 172 kg. La deportiva A2 más completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/kawasaki-ninja-500-se-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Kawasaki Ninja 500 SE 2025 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "kawasaki ninja 500 se 2025 precio",
+      "ninja 500 se ficha técnica",
+      "ninja 500 se opiniones",
+      "deportiva a2 kawasaki",
+      "ninja 500 se 45 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "suzuki-v-strom-800-2026-ficha-tecnica-precio",
+    "title": "Suzuki V-Strom 800 2026: trail rutera por 10.795 €",
+    "excerpt": "La Suzuki V-Strom 800 2026 desde 10.795 €: 776 cc con 83 CV, quickshifter y crucero de serie y 3 años de garantía. La trail rutera más equipada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/suzuki-v-strom-800-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Suzuki V-Strom 800 2026 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "suzuki v-strom 800 2026 precio",
+      "v-strom 800 ficha técnica",
+      "suzuki v-strom 800 opiniones",
+      "trail rutera 83 cv",
+      "v-strom 800 quickshifter crucero"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "triumph-scrambler-1200-xe-2026-ficha-tecnica-precio",
+    "title": "Triumph Scrambler 1200 XE 2026: 90 CV por 16.995 €",
+    "excerpt": "La Triumph Scrambler 1200 XE 2026 desde 16.995 €: 1.200 cc con 90 CV y 110 Nm, Öhlins y 250 mm de recorrido. La scrambler total, sin postureo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/triumph-scrambler-1200-xe-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Triumph Scrambler 1200 XE 2026 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "triumph scrambler 1200 xe 2026 precio",
+      "scrambler 1200 xe ficha técnica",
+      "scrambler 1200 xe opiniones",
+      "triumph scrambler 90 cv",
+      "scrambler 1200 xe off road"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "royal-enfield-guerrilla-450-2026-ficha-tecnica-precio",
+    "title": "Royal Enfield Guerrilla 450 2026: 40 CV por 5.387 €",
+    "excerpt": "La Royal Enfield Guerrilla 450 2026 desde 5.387 €: Sherpa de 452 cc con 40 CV, TFT con navegación y modos Eco y Sport. Carácter A2 a precio mini.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/royal-enfield-guerrilla-450-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Royal Enfield Guerrilla 450 2026 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "royal enfield guerrilla 450 2026 precio",
+      "guerrilla 450 ficha técnica",
+      "guerrilla 450 opiniones",
+      "naked a2 royal enfield",
+      "guerrilla 450 40 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "royal-enfield-interceptor-650-2026-ficha-tecnica-precio",
+    "title": "Royal Enfield Interceptor 650 2026: twin por 6.990 €",
+    "excerpt": "La Royal Enfield Interceptor 650 2026 desde 6.990 €: twin de 648 cc con 47 CV en el límite del A2 y estética sixties. La clásica más barata.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/royal-enfield-interceptor-650-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Royal Enfield Interceptor 650 2026 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "royal enfield interceptor 650 2026 precio",
+      "interceptor 650 ficha técnica",
+      "interceptor 650 opiniones",
+      "twin clásica a2 barata",
+      "interceptor 650 47 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "vespa-gtv-310-2026-ficha-tecnica-precio",
+    "title": "Vespa GTV 310 2026: el icono de 25 CV por solo 7.600 €",
+    "excerpt": "La Vespa GTV 310 2026 desde 7.600 €: motor HPE de 310 cc con 25 CV, faro bajo en el guardabarros, ASR y ABS doble canal. El icono más potente.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/vespa-gtv-310-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Vespa GTV 310 2026 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "vespa gtv 310 2026 precio",
+      "vespa gtv 310 ficha técnica",
+      "gtv 310 opiniones",
+      "vespa 310 25 cv",
+      "vespa gtv 2026"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "motron-ventura-125-2025-ficha-tecnica-precio",
+    "title": "Motron Ventura 125 2025: rueda alta por solo 2.399 €",
+    "excerpt": "La Motron Ventura 125 2025 desde 2.399 €: 125 cc con 10 CV, ruedas de 16 pulgadas, 120 kg y 2,6 L/100 km. Scooter barato para el B convalidado.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motron-ventura-125-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Motron Ventura 125 2025 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "motron ventura 125 2025 precio",
+      "ventura 125 ficha técnica",
+      "motron ventura opiniones",
+      "scooter 125 rueda alta barato",
+      "ventura 125 b convalidado"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "piaggio-medley-200-2026-ficha-tecnica-precio",
+    "title": "Piaggio Medley 200 2026: rueda alta GT por 4.100 €",
+    "excerpt": "La Piaggio Medley 200 2026 desde 4.100 € de tarifa: rueda alta de 16 pulgadas, hueco para dos cascos y posición erguida. El GT sin irse a un 300.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/piaggio-medley-200-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Piaggio Medley 200 2026 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "piaggio medley 200 2026 precio",
+      "medley 200 ficha técnica",
+      "piaggio medley 200 opiniones",
+      "scooter rueda alta piaggio",
+      "medley 200 tarifa oficial"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "sym-cruisym-alpha-125-2025-ficha-tecnica-precio",
+    "title": "SYM Cruisym Alpha 125 2025: GT de 14 CV por 4.299 €",
+    "excerpt": "El SYM Cruisym Alpha 125 2025 desde 4.299 €: 125 cc con 14 CV, depósito de 12 litros, ABS Bosch y 5 años de garantía. Un GT en formato 125.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/sym-cruisym-alpha-125-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "SYM Cruisym Alpha 125 2025 vista principal precio ficha técnica y opiniones",
+    "keywords": [
+      "sym cruisym alpha 125 2025 precio",
+      "cruisym alpha 125 ficha técnica",
+      "cruisym alpha opiniones",
+      "scooter gt 125 14 cv",
+      "sym cruisym alpha garantía"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "sym-symphony-sr-125-abs-2026-ficha-tecnica-precio",
+    "title": "SYM Symphony SR 125 ABS 2026: rueda alta por 2.599 €",
+    "excerpt": "La SYM Symphony SR 125 ABS 2026 desde 2.599 €: 11,4 CV, ruedas de 16 pulgadas, 125 kg y 5 años de garantía con seguro gratis. Precio, ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/sym-symphony-sr-125-abs-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "SYM Symphony SR 125 ABS 2026, scooter de rueda alta vista tres cuartos",
+    "keywords": [
+      "sym symphony sr 125 abs 2026 precio",
+      "symphony sr 125 ficha técnica",
+      "symphony sr opiniones",
+      "scooter 125 rueda alta barato",
+      "sym symphony sr 11 cv"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "kymco-dtx-360-2025-ficha-tecnica-precio",
+    "title": "Kymco DTX 360 2025: el crossover A2 por 4.090 € en España",
+    "excerpt": "El Kymco DTX 360 2025 desde 4.090 €: 321 cc con 28,6 CV, concepto adventure crossover, control de tracción y neumáticos mixtos. Precio, ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/kymco-dtx-360-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Kymco DTX 360 2025, scooter adventure crossover vista tres cuartos",
+    "keywords": [
+      "kymco dtx 360 2025 precio",
+      "kymco dtx 360 ficha técnica",
+      "dtx 360 opiniones",
+      "scooter adventure a2",
+      "kymco dtx 360 28 cv"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "sym-cruisym-400-2026-ficha-tecnica-precio",
+    "title": "SYM Cruisym 400 2026: GT de 34 CV por 5.499 € para viajar",
+    "excerpt": "El SYM Cruisym 400 2026 desde 5.499 €: 399 cc con 34 CV, planteamiento GT para viajar, gran hueco de carga y 5 años de garantía. Precio, ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/sym-cruisym-400-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "SYM Cruisym 400 2026, maxiscooter GT vista tres cuartos",
+    "keywords": [
+      "sym cruisym 400 2026 precio",
+      "cruisym 400 ficha técnica",
+      "cruisym 400 opiniones",
+      "maxiscooter gt a2 barato",
+      "sym cruisym 400 34 cv"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "sym-joymax-z-300-2026-ficha-tecnica-precio",
+    "title": "SYM Joymax Z 300 2026: GT de 26 CV por 4.599 € equilibrado",
+    "excerpt": "El SYM Joymax Z 300 2026 desde 4.599 €: motor de 278 cc con 26 CV, 190 kg, hueco para dos cascos y 5 años de garantía SYM. Precio, ficha técnica y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/sym-joymax-z-300-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "SYM Joymax Z 300 2026, scooter GT vista tres cuartos",
+    "keywords": [
+      "sym joymax z 300 2026 precio",
+      "joymax z 300 ficha técnica",
+      "joymax z 300 opiniones",
+      "scooter 300 gt barato",
+      "sym joymax 26 cv"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "sym-joymax-z-plus-125-2025-ficha-tecnica-precio",
+    "title": "SYM Joymax Z+ 125 2025: GT de 14,28 CV por 4.499 €",
+    "excerpt": "El SYM Joymax Z+ 125 2025 desde 4.499 €: 14,28 CV con refrigeración líquida, ABS Bosch de doble canal, dos cascos de hueco y 5 años de garantía. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/sym-joymax-z-plus-125-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "SYM Joymax Z+ 125 2025, scooter GT 125 vista tres cuartos",
+    "keywords": [
+      "sym joymax z+ 125 2025 precio",
+      "joymax z plus 125 ficha técnica",
+      "joymax z+ 125 opiniones",
+      "scooter 125 gt premium",
+      "sym joymax 14 cv"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "sym-bwt-125-2026-ficha-tecnica-precio",
+    "title": "SYM BWT 125 2026: el 125 más barato y ligero, por 1.999 €",
+    "excerpt": "La SYM BWT 125 2026 desde 1.999 €: solo 106 kg, 9,6 CV, mecánica sencilla de aire y 5 años de garantía SYM. El 125 de precio imbatible. Ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/sym-bwt-125-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "SYM BWT 125 2026, scooter urbano ligero vista tres cuartos",
+    "keywords": [
+      "sym bwt 125 2026 precio",
+      "bwt 125 ficha técnica",
+      "bwt 125 opiniones",
+      "scooter 125 más barato españa",
+      "sym bwt 106 kg"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "sym-symphony-cargo-125-2026-ficha-tecnica-precio",
+    "title": "SYM Symphony Cargo 125 2026: reparto urbano por 2.499 €",
+    "excerpt": "La SYM Symphony Cargo 125 2026 desde 2.499 €: plataforma de carga trasera, 11,2 CV y 126 kg para trabajar todo el día. Precio, ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/sym-symphony-cargo-125-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "SYM Symphony Cargo 125 2026 con plataforma de carga trasera",
+    "keywords": [
+      "sym symphony cargo 125 2026 precio",
+      "symphony cargo ficha técnica",
+      "scooter reparto 125",
+      "sym cargo opiniones",
+      "scooter delivery barato"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "honda-wn7-2026-ficha-tecnica-precio",
+    "title": "Honda WN7 2026: la eléctrica de 50 kW por 15.000 €",
+    "excerpt": "La Honda WN7 2026 por 15.000 €: primera eléctrica de Honda con carga CCS2 (20-80% en 30 min), 140 km y batería de 9,3 kWh. Precio, ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/honda-wn7-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Honda WN7 2026, primera motocicleta eléctrica de Honda",
+    "keywords": [
+      "honda wn7 2026 precio",
+      "honda wn7 ficha técnica",
+      "wn7 opiniones",
+      "moto eléctrica honda ccs2",
+      "honda wn7 autonomía 140 km"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "niu-nqi-sport-2026-ficha-tecnica-precio",
+    "title": "NIU NQi Sport 2026: ciclomotor eléctrico por 1.999 €",
+    "excerpt": "El NIU NQi Sport 2026 desde 1.999 €: ciclomotor L1e con carnet AM desde los 15 años y hasta 130 km con la segunda batería. Precio, ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/niu-nqi-sport-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "NIU NQi Sport 2026, scooter eléctrico urbano vista tres cuartos",
+    "keywords": [
+      "niu nqi sport 2026 precio",
+      "nqi sport ficha técnica",
+      "nqi sport opiniones",
+      "ciclomotor eléctrico carnet am",
+      "niu nqi sport autonomía"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "nmoto-nce-s-125-2024-ficha-tecnica-precio",
+    "title": "Nmoto NCE-S 125 2024: eléctrico de 120 km por 4.800 €",
+    "excerpt": "El Nmoto NCE-S 125 2024 desde 4.800 €: doble batería de 4,896 kWh con 120 km declarados, 90 km/h y tres modos de conducción. Precio, ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/nmoto-nce-s-125-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Nmoto NCE-S 125 2024, scooter eléctrico de diseño vanguardista",
+    "keywords": [
+      "nmoto nce-s 125 2024 precio",
+      "nce-s 125 ficha técnica",
+      "nmoto nce-s opiniones",
+      "scooter eléctrico 120 km autonomía",
+      "nmoto eléctrico a1"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "nmoto-nce-d-125-2024-ficha-tecnica-precio",
+    "title": "Nmoto NCE-D 125 2024: reparto eléctrico por 4.800 €",
+    "excerpt": "El Nmoto NCE-D 125 2024 desde 4.800 €: reparto eléctrico con baúl de 113 litros, doble batería y 120 km de autonomía declarada. Precio, ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/nmoto-nce-d-125-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Nmoto NCE-D 125 2024, scooter eléctrico de reparto con baúl",
+    "keywords": [
+      "nmoto nce-d 125 2024 precio",
+      "nce-d 125 ficha técnica",
+      "scooter eléctrico reparto baúl",
+      "nmoto flotas opiniones",
+      "scooter delivery eléctrico 120 km"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "nmoto-ncf-d-125-2024-ficha-tecnica-precio",
+    "title": "Nmoto NCF-D 125 2024: flotas eléctricas por 4.500 €",
+    "excerpt": "El Nmoto NCF-D 125 2024 desde 4.500 €: el acceso a las flotas de Nmoto, con batería de 4,31 kWh y unos 80 km de autonomía. Precio, ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/nmoto-ncf-d-125-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Nmoto NCF-D 125 2024, scooter eléctrico de flotas",
+    "keywords": [
+      "nmoto ncf-d 125 2024 precio",
+      "ncf-d 125 ficha técnica",
+      "scooter eléctrico flotas barato",
+      "nmoto ncf-d opiniones",
+      "scooter reparto eléctrico acceso"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "velca-one-2026-ficha-tecnica-precio",
+    "title": "La Velca ONE 2026: ¿220 km de autonomía por 6.490 €?",
+    "excerpt": "La Velca ONE 2026 desde 6.490 €: 220 km de autonomía declarada, batería CATL de 8,4 kWh y hasta 125 km/h, con paquete todo incluido. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/velca-one-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Velca ONE 2026, scooter eléctrico español de gran autonomía",
+    "keywords": [
+      "velca one 2026 precio",
+      "velca one ficha técnica",
+      "velca one opiniones",
+      "moto eléctrica 220 km autonomía",
+      "velca one batería catl"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "velca-vortex-2026-ficha-tecnica-precio",
+    "title": "Velca Vortex 2026: la custom eléctrica por 7.290 €",
+    "excerpt": "La Velca Vortex 2026 desde 7.290 €: la única custom eléctrica de España, con 180 km de autonomía, batería CATL de 8,2 kWh y ABS doble. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/velca-vortex-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Velca Vortex 2026, moto custom eléctrica estilo cruiser",
+    "keywords": [
+      "velca vortex 2026 precio",
+      "velca vortex ficha técnica",
+      "vortex opiniones",
+      "custom eléctrica españa",
+      "velca vortex autonomía 180"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "wellta-artica-2026-ficha-tecnica-precio",
+    "title": "Wellta Ártica 2026: retro eléctrica española por 4.295 €",
+    "excerpt": "La Wellta Ártica 2026 desde 4.295 €: diseño retro tipo Vespa, batería extraíble ATL de 72V/40Ah y 90 km/h de máxima. Precio, ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/wellta-artica-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Wellta Ártica 2026, scooter eléctrico de diseño retro",
+    "keywords": [
+      "wellta ártica 2026 precio",
+      "wellta ártica ficha técnica",
+      "ártica opiniones",
+      "scooter eléctrico retro vespa",
+      "wellta ártica batería extraíble"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "wellta-boreal-2026-ficha-tecnica-precio",
+    "title": "Wellta Boreal 2026: 140 km eléctricos por 4.850 € en ciudad",
+    "excerpt": "La Wellta Boreal 2026 desde 4.850 €: hasta 140 km con doble batería, 100 km/h, solo 124 kg y doble sistema de carga. Precio, ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/wellta-boreal-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Wellta Boreal 2026, scooter eléctrico urbano vista tres cuartos",
+    "keywords": [
+      "wellta boreal 2026 precio",
+      "wellta boreal ficha técnica",
+      "boreal opiniones",
+      "scooter eléctrico 140 km autonomía",
+      "wellta boreal doble batería"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "velca-bora-2025-ficha-tecnica-precio",
+    "title": "Velca Bora 2025: ciclomotor eléctrico por 1.490 € con Moves",
+    "excerpt": "La Velca Bora 2025 por 1.490 € con Moves IV (PVP 2.190 €): ciclomotor eléctrico AM desde los 15 años, 50 km de autonomía y diseño Vespa. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/velca-bora-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Velca Bora 2025, ciclomotor eléctrico de diseño clásico",
+    "keywords": [
+      "velca bora 2025 precio",
+      "velca bora ficha técnica",
+      "bora opiniones",
+      "ciclomotor eléctrico barato moves",
+      "velca bora 50 km autonomía"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "voge-525r-2024-ficha-tecnica-precio",
+    "title": "Voge 525R 2024 de Loncin: naked A2 de 47,6 CV por 5.287 €",
+    "excerpt": "La Voge 525R 2024 desde 5.287 €: bicilíndrico de 494 cc con 47,6 CV, el tope del A2, con Kayaba, Nissin y Pirelli Angel ST. Precio, ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/voge-525r-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Voge 525R 2024, naked A2 de 494 cc vista tres cuartos",
+    "keywords": [
+      "voge 525r 2024 precio",
+      "voge 525r ficha técnica",
+      "525r opiniones",
+      "naked a2 47 cv barata",
+      "voge 525r 494 cc"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "yamaha-mt-03-2024-ficha-tecnica-precio",
+    "title": "Yamaha MT-03 2024: naked A2 japonesa de 42 CV por 6.399 €",
+    "excerpt": "La Yamaha MT-03 2024 desde 6.399 €: bicilíndrico de 321 cc con 42 CV, horquilla invertida, 168 kg y revisiones cada 10.000 km. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/yamaha-mt-03-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Yamaha MT-03 2024, naked Hyper Naked vista tres cuartos",
+    "keywords": [
+      "yamaha mt-03 2024 precio",
+      "mt-03 ficha técnica",
+      "mt-03 opiniones",
+      "naked a2 yamaha 42 cv",
+      "yamaha mt-03 revisiones 10000 km"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "yamaha-yzf-r125-2024-ficha-tecnica-precio",
+    "title": "Yamaha YZF-R125 2024: deportiva A1 con VVA por 4.999 €",
+    "excerpt": "La Yamaha YZF-R125 2024 desde 4.999 €: 15 CV con distribución variable VVA, TFT de 5 pulgadas, control de tracción y 142 kg. Precio, ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/yamaha-yzf-r125-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Yamaha YZF-R125 2024, deportiva 125 con estética R1",
+    "keywords": [
+      "yamaha yzf-r125 2024 precio",
+      "yzf-r125 ficha técnica",
+      "r125 opiniones",
+      "deportiva 125 a1 vva",
+      "yamaha r125 15 cv"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "ktm-rc-390-2026-ficha-tecnica-precio",
+    "title": "KTM RC 390 2026: deportiva A2 de 44 CV por 6.919 €",
+    "excerpt": "La KTM RC 390 2026 desde 6.919 €: monocilíndrico de 373 cc con 44 CV, solo 155 kg, ABS en curva y suspensión WP APEX. Precio, ficha técnica y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/ktm-rc-390-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "KTM RC 390 2026, deportiva A2 de carenado completo",
+    "keywords": [
+      "ktm rc 390 2026 precio",
+      "rc 390 ficha técnica",
+      "rc 390 opiniones",
+      "deportiva a2 ligera 155 kg",
+      "ktm rc 390 44 cv"
+    ],
+    "readTime": 7
+  },
+  {
     "slug": "royal-enfield-classic-350-2025-ficha-tecnica-precio",
     "title": "Royal Enfield Classic 350 2025: precio",
     "excerpt": "La Royal Enfield Classic 350 2025 desde 4.887 €: motor de 349 cc y 20,2 CV, versiones Halcyon, Dark y Chrome, etiqueta DGT y ficha completa.",
@@ -55469,6 +58308,366 @@ export const BLOG_LITE: BlogLitePost[] = [
       "kymco adventure 125"
     ],
     "readTime": 2
+  },
+  {
+    "slug": "mash-x-ride-650-trail-2025-ficha-tecnica-precio",
+    "title": "Mash X-Ride 650 Trail 2025: 39 CV A2 por solo 5.899 €",
+    "excerpt": "La Mash X-Ride 650 Trail 2025 desde 5.899 €: monocilíndrico de 644 cc con 39,3 CV, solo 167 kg y rueda de 21 pulgadas. La trail A2 neo-retro más barata.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/mash-x-ride-650-trail-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Mash X-Ride 650 Trail 2025 vista principal",
+    "keywords": [
+      "mash x-ride 650 trail 2025 precio",
+      "mash x-ride 650 ficha técnica",
+      "x-ride 650 trail opiniones",
+      "trail a2 barata 650",
+      "mash 650 39 cv"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "triumph-scrambler-1200-x-2025-ficha-tecnica-precio",
+    "title": "Triumph Scrambler 1200 X 2025: 90 CV por 14.695 €, ¿vale?",
+    "excerpt": "La Triumph Scrambler 1200 X 2025 desde 14.695 €: bicilíndrico de 1.200 cc con 90 CV, rueda de 21 pulgadas y asiento a 820 mm. La scrambler accesible.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/triumph-scrambler-1200-x-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Triumph Scrambler 1200 X 2025 vista principal",
+    "keywords": [
+      "triumph scrambler 1200 x 2025 precio",
+      "scrambler 1200 x ficha técnica",
+      "scrambler 1200 x opiniones",
+      "scrambler grande 90 cv",
+      "triumph scrambler 1200 x vs xe"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "suzuki-v-strom-1050-de-2025-ficha-tecnica-precio",
+    "title": "Suzuki V-Strom 1050 DE 2025: 107 CV trail por 16.999 €",
+    "excerpt": "La Suzuki V-Strom 1050 DE 2025 desde 16.999 €: V-twin de 1.037 cc con 107 CV, rueda de 21 pulgadas, modo Gravel y quickshifter de serie. Ficha completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/suzuki-v-strom-1050-de-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Suzuki V-Strom 1050 DE 2025 vista principal",
+    "keywords": [
+      "suzuki v-strom 1050 de 2025 precio",
+      "v-strom 1050 de ficha técnica",
+      "v-strom 1050 de opiniones",
+      "maxitrail 107 cv suzuki",
+      "v-strom 1050 dual explorer"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "bmw-r-12-gs-2025-ficha-tecnica-precio",
+    "title": "BMW R 12 G/S 2025: el bóxer retro de 109 CV por 17.830 €",
+    "excerpt": "La BMW R 12 G/S 2025 desde 17.830 €: bóxer de 1.170 cc con 109 CV, rueda de 21 pulgadas y estética de la R 80 G/S de 1980. La trail neo-retro de BMW.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/bmw-r-12-gs-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "BMW R 12 GS 2025 vista principal",
+    "keywords": [
+      "bmw r 12 gs 2025 precio",
+      "bmw r 12 g/s ficha técnica",
+      "r 12 gs opiniones",
+      "bmw boxer trail retro 109 cv",
+      "bmw r 12 gs vs r 1300 gs"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "voge-900dsx-2025-ficha-tecnica-precio",
+    "title": "Voge 900DSX 2025: 95 CV con radar y cámara por 9.192 €",
+    "excerpt": "La Voge 900DSX 2025 desde 9.192 €: motor de 895 cc con 95 CV, radar de ángulo muerto, cámara frontal y 5 años de garantía. La trail china más equipada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/voge-900dsx-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Voge 900DSX 2025 vista principal",
+    "keywords": [
+      "voge 900dsx 2025 precio",
+      "voge 900dsx ficha técnica",
+      "900dsx opiniones",
+      "trail china 95 cv radar",
+      "voge 900dsx vs bmw f 900 gs"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "yamaha-tenere-700-rally-2025-ficha-tecnica-precio",
+    "title": "Yamaha Ténéré 700 Rally 2025: 72 CV Dakarianos, 12.399 €",
+    "excerpt": "La Yamaha Ténéré 700 Rally 2025 desde 12.399 €: CP2 de 689 cc con 72,4 CV, KYB de largo recorrido, Akrapovic de titanio y asiento a 910 mm.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/yamaha-tenere-700-rally-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Yamaha Ténéré 700 Rally 2025 vista principal",
+    "keywords": [
+      "yamaha tenere 700 rally 2025 precio",
+      "tenere 700 rally ficha técnica",
+      "tenere rally opiniones",
+      "tenere 700 rally vs estandar",
+      "yamaha cp2 72 cv trail"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "rieju-aventura-rally-307-2025-ficha-tecnica-precio",
+    "title": "Rieju Aventura Rally 307 2025: 137 kg y 21 l por 4.499 €",
+    "excerpt": "La Rieju Aventura Rally 307 2025 desde 4.499 €: solo 137 kg, depósito de 21 litros, llantas 21/18 y 33,5 CV para el A2. Más de 500 km de autonomía.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/rieju-aventura-rally-307-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Rieju Aventura Rally 307 2025 vista principal",
+    "keywords": [
+      "rieju aventura rally 307 precio",
+      "rieju 307 rally ficha técnica",
+      "aventura rally 307 opiniones",
+      "rally ligera a2 barata",
+      "rieju 307 autonomia 500 km"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "morbidelli-t502x-2026-ficha-tecnica-precio",
+    "title": "Morbidelli T502X 2026: trail A2 de 47,6 CV por 5.390 €",
+    "excerpt": "La Morbidelli T502X 2026 desde 5.390 €: bicilíndrico de 486 cc con 47,6 CV al límite del A2, TFT de 7 pulgadas y 198 kg. La trail italiana renacida.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/morbidelli-t502x-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Morbidelli T502X 2026 vista principal",
+    "keywords": [
+      "morbidelli t502x 2026 precio",
+      "morbidelli t502x ficha técnica",
+      "t502x opiniones",
+      "trail a2 47 cv barata",
+      "morbidelli t502x vs honda nx500"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "qjmotor-srt-900sx-2026-ficha-tecnica-precio",
+    "title": "QJMotor SRT 900SX 2026: 95 CV y maletas por solo 8.699 €",
+    "excerpt": "La QJMotor SRT 900SX 2026 desde 8.699 €: bicilíndrico de 904 cc con 95 CV, maletas de serie, Marzocchi, Brembo y 24 litros de depósito. Ficha completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/qjmotor-srt-900sx-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "QJMOTOR SRT 900SX 2026 vista principal",
+    "keywords": [
+      "qjmotor srt 900sx 2026 precio",
+      "srt 900sx ficha técnica",
+      "qjmotor 900 opiniones",
+      "trail 95 cv maletas serie barata",
+      "qjmotor srt 900sx vs voge 900dsx"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "bmw-s-1000-xr-2025-ficha-tecnica-precio",
+    "title": "BMW S 1000 XR 2025: 170 CV crossover por 21.780 €, ¿top?",
+    "excerpt": "La BMW S 1000 XR 2025 desde 21.780 €: cuatro cilindros de 999 cc con 170 CV, 227 kg y suspensión electrónica. La crossover deportiva de referencia.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/bmw-s-1000-xr-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "BMW S 1000 XR 2025 vista principal",
+    "keywords": [
+      "bmw s 1000 xr 2025 precio",
+      "s 1000 xr ficha técnica",
+      "s1000xr opiniones",
+      "crossover deportiva 170 cv",
+      "bmw s 1000 xr vs tiger 1200"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "triumph-tiger-1200-gt-pro-2025-ficha-tecnica-precio",
+    "title": "Triumph Tiger 1200 GT Pro 2025: 150 CV por 22.845 €",
+    "excerpt": "La Triumph Tiger 1200 GT Pro 2025 desde 22.845 €: triple de 1.160 cc con 150 CV, semiactiva Showa, revisiones cada 16.000 km y 4 años de garantía.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/triumph-tiger-1200-gt-pro-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Triumph Tiger 1200 GT Pro 2025 vista principal",
+    "keywords": [
+      "triumph tiger 1200 gt pro 2025 precio",
+      "tiger 1200 gt pro ficha técnica",
+      "tiger 1200 opiniones",
+      "maxitrail tricilindrica 150 cv",
+      "tiger 1200 gt pro vs bmw gs"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "triumph-speed-twin-900-2025-ficha-tecnica-precio",
+    "title": "Triumph Speed Twin 900 2025: 65 CV clásicos por 9.995 €",
+    "excerpt": "La Triumph Speed Twin 900 2025 desde 9.995 €: bicilíndrico de 900 cc con 65 CV y 80 Nm, IMU por primera vez y limitable para el A2. Ficha y opinión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/triumph-speed-twin-900-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Triumph Speed Twin 900 2025 vista principal",
+    "keywords": [
+      "triumph speed twin 900 2025 precio",
+      "speed twin 900 ficha técnica",
+      "speed twin 900 opiniones",
+      "neo retro 65 cv a2 limitable",
+      "triumph speed twin 900 2025 novedades"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "triumph-scrambler-400-xc-2025-ficha-tecnica-precio",
+    "title": "Triumph Scrambler 400 XC 2025: 40 CV A2 por 7.145 €, ¿sí?",
+    "excerpt": "La Triumph Scrambler 400 XC 2025 desde 7.145 €: monocilíndrico de 398 cc con 40 CV, rueda de 19 pulgadas y revisiones cada 16.000 km. Ficha completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/triumph-scrambler-400-xc-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Triumph Scrambler 400 XC 2025 vista principal",
+    "keywords": [
+      "triumph scrambler 400 xc 2025 precio",
+      "scrambler 400 xc ficha técnica",
+      "scrambler 400 xc opiniones",
+      "scrambler a2 40 cv triumph",
+      "scrambler 400 xc vs himalayan 450"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "zontes-350gk-2025-ficha-tecnica-precio",
+    "title": "Zontes 350GK 2025: café racer A2 de 39,4 CV por 4.587 €",
+    "excerpt": "La Zontes 350GK 2025 desde 4.587 €: monocilíndrico de 348 cc con 39,4 CV, depósito de 17 litros, TFT y ABS Bosch. La café racer A2 más asequible.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/zontes-350gk-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Zontes 350GK 2025 vista principal",
+    "keywords": [
+      "zontes 350gk 2025 precio",
+      "zontes 350gk ficha técnica",
+      "350gk opiniones",
+      "cafe racer a2 barata",
+      "zontes 350gk 39 cv"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "moto-guzzi-v9-bobber-2025-ficha-tecnica-precio",
+    "title": "Moto Guzzi V9 Bobber 2025: V-twin y cardán por 10.525 €",
+    "excerpt": "La Moto Guzzi V9 Bobber 2025 desde 10.525 €: V-twin transversal de 853 cc con 65 CV, cardán y fabricación en Mandello del Lario. La bobber italiana.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/moto-guzzi-v9-bobber-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Moto Guzzi V9 Bobber 2025 vista principal",
+    "keywords": [
+      "moto guzzi v9 bobber 2025 precio",
+      "v9 bobber ficha técnica",
+      "v9 bobber opiniones",
+      "bobber cardan 65 cv",
+      "moto guzzi v9 limitable a2"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "macbor-eight-mile-125-lc-2025-ficha-tecnica-precio",
+    "title": "Macbor Eight Mile 125 LC 2025: retro B por solo 3.299 €",
+    "excerpt": "La Macbor Eight Mile 125 LC 2025 desde 3.299 €: 125 cc con refrigeración líquida, 13 CV, 6 velocidades y válida con el carnet B. La retro española.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/macbor-eight-mile-125-lc-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Macbor Eight Mile 125 LC 2025 vista principal",
+    "keywords": [
+      "macbor eight mile 125 lc precio",
+      "eight mile 125 ficha técnica",
+      "macbor 125 opiniones",
+      "moto 125 retro carnet b",
+      "macbor eight mile refrigeracion liquida"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "moto-morini-seiemmezzo-scr-650-2025-ficha-tecnica-precio",
+    "title": "Moto Morini Seiemmezzo SCR 650: 61 CV por solo 6.140 €",
+    "excerpt": "La Moto Morini Seiemmezzo SCR 650 2025 desde 6.140 €: bicilíndrico de 649 cc con 61 CV, Brembo, Kayaba y Pirelli MT60RS. La scrambler asequible.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/moto-morini-seiemmezzo-scr-650-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Moto Morini Seiemmezzo SCR 650 2025 vista principal",
+    "keywords": [
+      "moto morini seiemmezzo scr 650 precio",
+      "seiemmezzo scr ficha técnica",
+      "moto morini 650 opiniones",
+      "scrambler bicilindrica barata",
+      "seiemmezzo scr vs str"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "triumph-bonneville-bobber-2025-ficha-tecnica-precio",
+    "title": "Triumph Bonneville Bobber 2025: 78 CV y 106 Nm, 16.595 €",
+    "excerpt": "La Triumph Bonneville Bobber 2025 desde 16.595 €: twin de 1.200 cc con 78 CV y 106 Nm, asiento flotante y frenos Brembo. La bobber británica.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/triumph-bonneville-bobber-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Triumph Bonneville Bobber 2025 vista principal",
+    "keywords": [
+      "triumph bonneville bobber 2025 precio",
+      "bonneville bobber ficha técnica",
+      "bobber opiniones",
+      "bobber 1200 78 cv triumph",
+      "bonneville bobber autonomia deposito"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "kymco-agility-125-2025-ficha-tecnica-precio",
+    "title": "Kymco Agility S 125 2025: rueda alta por solo 2.350 €",
+    "excerpt": "El Kymco Agility S 125 2025 desde 2.350 €: 11 CV, consumo de 2,1 l/100 km, rueda delantera de 16 pulgadas y más de 330 km de autonomía. Ficha completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/kymco-agility-125-2025-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Kymco Agility S 125 Agility S 125 2025 vista principal",
+    "keywords": [
+      "kymco agility s 125 2025 precio",
+      "agility 125 ficha técnica",
+      "kymco agility opiniones",
+      "scooter 125 rueda alta barato",
+      "agility s 125 consumo autonomia"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "keeway-vieste-125-2026-ficha-tecnica-precio",
+    "title": "Keeway Vieste 125 2026: GT de 11,1 CV por solo 2.190 €",
+    "excerpt": "El Keeway Vieste 125 2026 desde 2.190 €: 11,1 CV, depósito de 9,5 litros, 5 años de garantía oficial y válido con el carnet B. El scooter GT barato.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/keeway-vieste-125-2026-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Keeway Vieste 125 Vieste 125 2026 vista principal",
+    "keywords": [
+      "keeway vieste 125 2026 precio",
+      "vieste 125 ficha técnica",
+      "keeway vieste opiniones",
+      "scooter 125 gt barato garantia",
+      "vieste 125 vs agility 125"
+    ],
+    "readTime": 6
   },
   {
     "slug": "zero-ds-2026-ficha-tecnica-precio",
@@ -60342,6 +63541,632 @@ export const BLOG_LITE: BlogLitePost[] = [
       "moto 125 carnet b"
     ],
     "readTime": 3
+  },
+  {
+    "slug": "zontes-703r-2026-ficha-tecnica-precio",
+    "title": "Zontes 703R 2026: 95 CV por 6.488 €, análisis completo",
+    "excerpt": "La Zontes 703R 2026 desde 6.488 €: 95 CV. Ficha técnica, mantenimiento con costes, rivales directos y preguntas frecuentes antes de comprarla.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/zontes-703r-2026-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Zontes 703R 2026 vista principal de la naked de Zontes",
+    "keywords": [
+      "zontes 703r 2026 precio",
+      "zontes 703r ficha técnica",
+      "zontes 703r opiniones",
+      "comprar zontes 703r españa",
+      "moto naked A (limitable a A2)"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "benda-lfc700-2025-ficha-tecnica-precio",
+    "title": "Benda LFC700 2025: 78 CV por 11.990 €, ¿merece la pena?",
+    "excerpt": "La Benda LFC700 2025 cuesta 11.990 € y ofrece 78 CV. Guía completa con ficha técnica, mantenimiento oficial, pros, contras y rivales directos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/benda-lfc700-2025-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Benda LFC700 2025 vista principal de la custom de Benda",
+    "keywords": [
+      "benda lfc700 2025 precio",
+      "benda lfc700 ficha técnica",
+      "benda lfc700 opiniones",
+      "comprar benda lfc700 españa",
+      "moto custom A"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "benda-lfc700-pro-2026-ficha-tecnica-precio",
+    "title": "Benda LFC700 Pro: 77,78 CV por 13.940 €, ¿merece la pena?",
+    "excerpt": "Benda LFC700 Pro 2026 por 13.940 € con 77,78 CV. Todo lo que debes saber: ficha completa, mantenimiento, pros, contras y rivales de su categoría.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/benda-lfc700-pro-2026-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Benda LFC700 Pro 2026 vista principal de la custom de Benda",
+    "keywords": [
+      "benda lfc700 pro 2026 precio",
+      "benda lfc700 pro ficha técnica",
+      "benda lfc700 pro opiniones",
+      "comprar benda lfc700 pro españa",
+      "moto custom A"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "benda-chinchilla-500-2025-ficha-tecnica-precio",
+    "title": "Benda Chinchilla 500: 47 CV por 6.250 €, ¿merece la pena?",
+    "excerpt": "Benda Chinchilla 500 2025 por 6.250 € con 47 CV. Todo lo que debes saber: ficha completa, mantenimiento, pros, contras y rivales de su categoría.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/benda-chinchilla-500-2025-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Benda Chinchilla 500 2025 vista principal de la custom de Benda",
+    "keywords": [
+      "benda chinchilla 500 2025 precio",
+      "benda chinchilla 500 ficha técnica",
+      "benda chinchilla 500 opiniones",
+      "comprar benda chinchilla 500 españa",
+      "moto custom A2"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "benda-napoleon-bob-500-2025-ficha-tecnica-precio",
+    "title": "Benda Napoleon Bob 500 desde 6.750 € en España, a fondo",
+    "excerpt": "Benda Napoleon Bob 500 2025 por 6.750 € con 46,94 CV. Todo lo que debes saber: ficha completa, mantenimiento, pros, contras y rivales de su categoría.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/benda-napoleon-bob-500-2025-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Benda Napoleon Bob 500 2025 vista principal de la custom de Benda",
+    "keywords": [
+      "benda napoleon bob 500 2025 precio",
+      "benda napoleon bob 500 ficha técnica",
+      "benda napoleon bob 500 opiniones",
+      "comprar benda napoleon bob 500 españa",
+      "moto custom A2"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "benda-napoleon-bob-250-2026-ficha-tecnica-precio",
+    "title": "Benda Napoleon Bob 250 desde 5.250 € en España, a fondo",
+    "excerpt": "Benda Napoleon Bob 250 2026 por 5.250 € con 25,5 CV. Todo lo que debes saber: ficha completa, mantenimiento, pros, contras y rivales de su categoría.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/benda-napoleon-bob-250-2026-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Benda Napoleon Bob 250 2026 vista principal de la custom de Benda",
+    "keywords": [
+      "benda napoleon bob 250 2026 precio",
+      "benda napoleon bob 250 ficha técnica",
+      "benda napoleon bob 250 opiniones",
+      "comprar benda napoleon bob 250 españa",
+      "moto custom A2"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "benda-chinchilla-350-neo-2026-ficha-tecnica-precio",
+    "title": "Benda Chinchilla 350 Neo por 6.290 €, análisis completo",
+    "excerpt": "Benda Chinchilla 350 Neo 2026 por 6.290 € con 34 CV. Todo lo que debes saber: ficha completa, mantenimiento, pros, contras y rivales de su categoría.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/benda-chinchilla-350-neo-2026-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Benda Chinchilla 350 Neo 2026 vista principal de la custom de Benda",
+    "keywords": [
+      "benda chinchilla 350 neo 2026 precio",
+      "benda chinchilla 350 neo ficha técnica",
+      "benda chinchilla 350 neo opiniones",
+      "comprar benda chinchilla 350 neo españa",
+      "moto custom A2"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "benda-darkflag-500-2026-ficha-tecnica-precio",
+    "title": "Benda Darkflag 500: 46,94 CV por 8.790 €, ¿merece la pena?",
+    "excerpt": "Benda Darkflag 500 2026 por 8.790 € con 46,94 CV. Todo lo que debes saber: ficha completa, mantenimiento, pros, contras y rivales de su categoría.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/benda-darkflag-500-2026-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Benda Darkflag 500 2026 vista principal de la custom de Benda",
+    "keywords": [
+      "benda darkflag 500 2026 precio",
+      "benda darkflag 500 ficha técnica",
+      "benda darkflag 500 opiniones",
+      "comprar benda darkflag 500 españa",
+      "moto custom A2"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "benda-napoleon-bob-125-2026-ficha-tecnica-precio",
+    "title": "Benda Napoleon Bob 125 desde 4.790 € en España, a fondo",
+    "excerpt": "Benda Napoleon Bob 125 2026 por 4.790 € con 13,8 CV. Todo lo que debes saber: ficha completa, mantenimiento, pros, contras y rivales de su categoría.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/benda-napoleon-bob-125-2026-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Benda Napoleon Bob 125 2026 vista principal de la custom de Benda",
+    "keywords": [
+      "benda napoleon bob 125 2026 precio",
+      "benda napoleon bob 125 ficha técnica",
+      "benda napoleon bob 125 opiniones",
+      "comprar benda napoleon bob 125 españa",
+      "moto custom A1 (válido con B +3 años)"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "niu-nqi-cargo-2025-ficha-tecnica-precio",
+    "title": "Niu NQi Cargo 2025: 3,3 CV por 2.499 € · ficha y precio",
+    "excerpt": "La Niu NQi Cargo 2025 desde 2.499 €: 3,3 CV (2,4 kW), 80 km de autonomía, 95 kg, 45 km/h, carnet AM. Precio, ficha, mantenimiento y FAQ.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/niu-nqi-cargo-2025-oficial.webp",
+    "heroAlt": "Niu NQi Cargo 2025 en vista tres cuartos",
+    "keywords": [
+      "niu nqi cargo precio",
+      "niu nqi cargo ficha técnica",
+      "niu nqi cargo opiniones"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "peugeot-kisbee-m-125-2025-ficha-tecnica-precio",
+    "title": "Peugeot Kisbee M 125 2025: precio 2.249 €, 10 CV y ficha",
+    "excerpt": "La Peugeot Kisbee M 125 2025 desde 2.249 €: 10 CV (7,4 kW), 124 cc, 120 kg, carnet A1. Ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/peugeot-kisbee-m-125-2025-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Peugeot Kisbee M 125 2025 en vista tres cuartos",
+    "keywords": [
+      "peugeot kisbee m 125 precio",
+      "peugeot kisbee m 125 ficha técnica",
+      "peugeot kisbee m 125 opiniones"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "peugeot-speedfight-4-125-2025-ficha-tecnica-precio",
+    "title": "Peugeot Speedfight 4 125 2025: precio 2.599 €, 11 CV y ficha",
+    "excerpt": "La Peugeot Speedfight 4 125 2025 desde 2.599 €: 11 CV (8,1 kW), 125 cc, 120 kg, carnet A1. Ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/peugeot-speedfight-4-125-2025-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Peugeot Speedfight 4 125 2025 en vista tres cuartos",
+    "keywords": [
+      "peugeot speedfight 4 125 precio",
+      "peugeot speedfight 4 125 ficha técnica",
+      "peugeot speedfight 4 125 opiniones"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "hero-xoom-125r-2026-ficha-tecnica-precio",
+    "title": "Hero Xoom 125R 2026: 9,8 CV por 1.888 € · ficha y precio",
+    "excerpt": "La Hero Xoom 125R 2026 desde 1.888 €: 9,8 CV (7,2 kW), 125 cc, 250 km de autonomía, 121 kg, carnet A1. Precio, ficha, mantenimiento y FAQ.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/hero-xoom-125r-2026-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Hero Xoom 125R 2026 en vista tres cuartos",
+    "keywords": [
+      "hero xoom 125r precio",
+      "hero xoom 125r ficha técnica",
+      "hero xoom 125r opiniones"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "morbidelli-mbp-sc125re-2025-ficha-tecnica-precio",
+    "title": "Morbidelli SC125RE 2025: 11 CV por 2.690 € · ficha y precio",
+    "excerpt": "La Morbidelli SC125RE 2025 desde 2.690 €: 11 CV (8,1 kW), 125 cc, 139 kg, 92 km/h, carnet A1. Ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/morbidelli-mbp-sc125re-2025-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Morbidelli SC125RE 2025 en vista tres cuartos",
+    "keywords": [
+      "morbidelli sc125re precio",
+      "morbidelli sc125re ficha técnica",
+      "morbidelli sc125re opiniones"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "qjmotor-sq-16-2025-ficha-tecnica-precio",
+    "title": "QJMotor SQ 16 2025: 15 CV por 2.899 € · ficha y precio",
+    "excerpt": "La QJMotor SQ 16 2025 desde 2.899 €: 15 CV (11 kW), 125 cc, 134 kg, carnet A1. Precio, ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/qjmotor-sq-16-2025-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "QJMotor SQ 16 2025 en vista tres cuartos",
+    "keywords": [
+      "qjmotor sq 16 precio",
+      "qjmotor sq 16 ficha técnica",
+      "qjmotor sq 16 opiniones"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "qjmotor-ltr-125-2024-ficha-tecnica-precio",
+    "title": "QJMotor LTR 125 2024: 15 CV por 2.999 € · ficha y precio",
+    "excerpt": "La QJMotor LTR 125 2024 desde 2.999 €: 15 CV (11 kW), 125 cc, 118 kg, carnet A1. Precio, ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/qjmotor-ltr-125-2024-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "QJMotor LTR 125 2024 en vista tres cuartos",
+    "keywords": [
+      "qjmotor ltr 125 precio",
+      "qjmotor ltr 125 ficha técnica",
+      "qjmotor ltr 125 opiniones"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "qjmotor-mtx-125-2024-ficha-tecnica-precio",
+    "title": "QJMotor MTX 125 2024: 14,7 CV por 2.999 € · ficha y precio",
+    "excerpt": "La QJMotor MTX 125 2024 desde 2.999 €: 14,7 CV (10,8 kW), 125 cc, 138 kg, carnet A1. Precio, ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/qjmotor-mtx-125-2024-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "QJMotor MTX 125 2024 en vista tres cuartos",
+    "keywords": [
+      "qjmotor mtx 125 precio",
+      "qjmotor mtx 125 ficha técnica",
+      "qjmotor mtx 125 opiniones"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "voge-sr16-2024-ficha-tecnica-precio",
+    "title": "Voge SR16 2024: 11,5 CV por 2.688 € · ficha y precio",
+    "excerpt": "La Voge SR16 2024 desde 2.688 €: 11,5 CV (8,5 kW), 125 cc, 140 kg, carnet A1. Precio, ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/voge-sr16-2024-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Voge SR16 2024 en vista tres cuartos",
+    "keywords": [
+      "voge sr16 precio",
+      "voge sr16 ficha técnica",
+      "voge sr16 opiniones"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "keeway-icon-125-s-2025-ficha-tecnica-precio",
+    "title": "Keeway Icon 125 S 2025: 11 CV por 1.990 € · ficha y precio",
+    "excerpt": "La Keeway Icon 125 S 2025 desde 1.990 €: 11 CV (8,1 kW), 123 cc, carnet A1. Precio, ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/keeway-icon-125-s-2025-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Keeway Icon 125 S 2025 en vista tres cuartos",
+    "keywords": [
+      "keeway icon 125 s precio",
+      "keeway icon 125 s ficha técnica",
+      "keeway icon 125 s opiniones"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "keeway-gemma-125-2024-ficha-tecnica-precio",
+    "title": "Keeway Gemma 125 2024: precio 2.190 € y ficha técnica",
+    "excerpt": "La Keeway Gemma 125 2024 desde 2.190 €: 125 cc, carnet A1, etiqueta C. Precio, ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/keeway-gemma-125-2024-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Keeway Gemma 125 2024 en vista tres cuartos",
+    "keywords": [
+      "keeway gemma 125 precio",
+      "keeway gemma 125 ficha técnica",
+      "keeway gemma 125 opiniones"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "fb-mondial-imola-125-2024-ficha-tecnica-precio",
+    "title": "FB Mondial Imola 125 2024: 9 CV por 2.499 € · ficha y precio",
+    "excerpt": "La FB Mondial Imola 125 2024 desde 2.499 €: 9 CV (6,6 kW), 125 cc, 120 kg, carnet A1. Precio, ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/fb-mondial-imola-125-2024-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "FB Mondial Imola 125 2024 en vista tres cuartos",
+    "keywords": [
+      "fb mondial imola 125 precio",
+      "fb mondial imola 125 ficha técnica",
+      "fb mondial imola 125 opiniones"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "malaguti-spectre-gp-125-2024-ficha-tecnica-precio",
+    "title": "Malaguti Spectre GP 125 2024: precio 2.499 €, 9,7 CV y ficha",
+    "excerpt": "La Malaguti Spectre GP 125 2024 desde 2.499 €: 9,7 CV (7,1 kW), 125 cc, 123 kg, 94 km/h, carnet A1. Precio, ficha, mantenimiento y FAQ.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/malaguti-spectre-gp-125-2024-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Malaguti Spectre GP 125 2024 en vista tres cuartos",
+    "keywords": [
+      "malaguti spectre gp 125 precio",
+      "malaguti spectre gp 125 ficha técnica",
+      "malaguti spectre gp 125 opiniones"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "sym-jet-evo-125-abs-2024-ficha-tecnica-precio",
+    "title": "SYM Jet Evo 125 ABS 2024: precio 2.899 €, 12,6 CV y ficha",
+    "excerpt": "La SYM Jet Evo 125 ABS 2024 desde 2.899 €: 12,6 CV (9,3 kW), 125 cc, 136 kg, carnet A1. Ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/sym-jet-evo-125-abs-2024-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "SYM Jet Evo 125 ABS 2024 en vista tres cuartos",
+    "keywords": [
+      "sym jet evo 125 abs precio",
+      "sym jet evo 125 abs ficha técnica",
+      "sym jet evo 125 abs opiniones"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "keeway-xdv-125-evo-pro-2025-ficha-tecnica-precio",
+    "title": "Keeway XDV 125 EVO Pro 2025: precio 3.190 €, 12 CV y ficha",
+    "excerpt": "La Keeway XDV 125 EVO Pro 2025 desde 3.190 €: 12 CV (8,8 kW), 125 cc, carnet A1. Precio, ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/keeway-xdv-125-evo-pro-2025-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Keeway XDV 125 EVO Pro 2025 en vista tres cuartos",
+    "keywords": [
+      "keeway xdv 125 evo pro precio",
+      "keeway xdv 125 evo pro ficha técnica",
+      "keeway xdv 125 evo pro opiniones"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "linhai-adv-buck-125-2024-ficha-tecnica-precio",
+    "title": "Linhai ADV Buck 125 2024: 12 CV por 3.190 € · ficha y precio",
+    "excerpt": "La Linhai ADV Buck 125 2024 desde 3.190 €: 12 CV (8,8 kW), 124 cc, carnet A1. Precio, ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/linhai-adv-buck-125-2024-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Linhai ADV Buck 125 2024 en vista tres cuartos",
+    "keywords": [
+      "linhai adv buck 125 precio",
+      "linhai adv buck 125 ficha técnica",
+      "linhai adv buck 125 opiniones"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "letbe-island-125-2025-ficha-tecnica-precio",
+    "title": "Letbe Island 125 2025: 13,5 CV por 2.680 € · ficha y precio",
+    "excerpt": "La Letbe Island 125 2025 desde 2.680 €: 13,5 CV (9,9 kW), 125 cc, 137 kg, 115 km/h, carnet A1. Precio, ficha, mantenimiento y FAQ.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/letbe-island-125-2025-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Letbe Island 125 2025 en vista tres cuartos",
+    "keywords": [
+      "letbe island 125 precio",
+      "letbe island 125 ficha técnica",
+      "letbe island 125 opiniones"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "cyclone-rt1-2025-ficha-tecnica-precio",
+    "title": "Cyclone RT1 2025: 11,7 CV por 2.795 € · ficha y precio",
+    "excerpt": "La Cyclone RT1 2025 desde 2.795 €: 11,7 CV (8,6 kW), 125 cc, 142 kg, carnet A1. Precio, ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/cyclone-rt1-2025-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Cyclone RT1 2025 en vista tres cuartos",
+    "keywords": [
+      "cyclone rt1 precio",
+      "cyclone rt1 ficha técnica",
+      "cyclone rt1 opiniones"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "mitt-city-vision-125-2024-ficha-tecnica-precio",
+    "title": "MITT City Vision 125 2024: precio 2.695 €, 11 CV y ficha",
+    "excerpt": "La MITT City Vision 125 2024 desde 2.695 €: 11 CV (8,1 kW), 125 cc, 159 kg, carnet A1. Ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/mitt-city-vision-125-2024-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "MITT City Vision 125 2024 en vista tres cuartos",
+    "keywords": [
+      "mitt city vision 125 precio",
+      "mitt city vision 125 ficha técnica",
+      "mitt city vision 125 opiniones"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "benelli-bn-125-2026",
+    "title": "Benelli BN 125 2026: 11,1 CV por 2.490 € · ficha y precio",
+    "excerpt": "La Benelli BN 125 2026 desde 2.490 €: 11,1 CV (8,2 kW), 125 cc, 142 kg, 115 km/h, carnet A1. Ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/benelli-bn-125-2026-oficial.webp",
+    "heroAlt": "Benelli BN 125 2026 en vista tres cuartos",
+    "keywords": [
+      "benelli bn 125 precio",
+      "benelli bn 125 ficha técnica",
+      "benelli bn 125 opiniones"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "benelli-tornado-naked-t-125-2026",
+    "title": "Benelli Tornado Naked T 2026: 11,1 CV, precio desde 2.550 €",
+    "excerpt": "La Benelli Tornado Naked T 2026 desde 2.550 €: 11,1 CV (8,2 kW), 125 cc, 124 kg, carnet A1. Ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/benelli-tornado-naked-t-125-2026-oficial.webp",
+    "heroAlt": "Benelli Tornado Naked T 2026 en vista tres cuartos",
+    "keywords": [
+      "benelli tornado naked t precio",
+      "benelli tornado naked t ficha técnica",
+      "benelli tornado naked t opiniones"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "ktm-rc-125-2026",
+    "title": "KTM RC 125 2026: 15 CV por 5.899 € · ficha y precio",
+    "excerpt": "La KTM RC 125 2026 desde 5.899 €: 15 CV (11 kW), 125 cc, 147 kg, 120 km/h, carnet A1. Precio, ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/ktm-rc-125-2026-oficial.webp",
+    "heroAlt": "KTM RC 125 2026 en vista tres cuartos",
+    "keywords": [
+      "ktm rc 125 precio",
+      "ktm rc 125 ficha técnica",
+      "ktm rc 125 opiniones"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "aprilia-tuono-125-2026",
+    "title": "Aprilia Tuono 125 2026: 15 CV por 5.299 € · ficha y precio",
+    "excerpt": "La Aprilia Tuono 125 2026 desde 5.299 €: 15 CV (11 kW), 124 cc, 144 kg, 120 km/h, carnet A1. Ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/aprilia-tuono-125-2026-oficial.webp",
+    "heroAlt": "Aprilia Tuono 125 2026 en vista tres cuartos",
+    "keywords": [
+      "aprilia tuono 125 precio",
+      "aprilia tuono 125 ficha técnica",
+      "aprilia tuono 125 opiniones"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "honda-cb300r-2025",
+    "title": "Honda CB300R 2025: 31 CV por 5.700 € · ficha y precio",
+    "excerpt": "La Honda CB300R 2025 desde 5.700 €: 31 CV (23 kW), 286 cc, 144 kg, 130 km/h, carnet A2. Ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/honda-cb300r-2025-oficial.webp",
+    "heroAlt": "Honda CB300R 2025 en vista tres cuartos",
+    "keywords": [
+      "honda cb300r precio",
+      "honda cb300r ficha técnica",
+      "honda cb300r opiniones"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "kawasaki-z-125-2026",
+    "title": "Kawasaki Z 125 2026: 15 CV por 4.999 € · ficha y precio",
+    "excerpt": "La Kawasaki Z 125 2026 desde 4.999 €: 15 CV (11 kW), 125 cc, 148 kg, 112 km/h, carnet A1. Ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/kawasaki-z-125-2026-oficial.webp",
+    "heroAlt": "Kawasaki Z 125 2026 en vista tres cuartos",
+    "keywords": [
+      "kawasaki z 125 precio",
+      "kawasaki z 125 ficha técnica",
+      "kawasaki z 125 opiniones"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "honda-cbr500r-2026-ficha-tecnica-precio",
+    "title": "Honda CBR500R 2026: 47 CV por 7.250 € · ficha y precio",
+    "excerpt": "La Honda CBR500R 2026 desde 7.250 €: 47 CV (35 kW), 471 cc, 192 kg, carnet A2. Precio, ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/honda-cbr500r-2026-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Honda CBR500R 2026 en vista tres cuartos",
+    "keywords": [
+      "honda cbr500r precio",
+      "honda cbr500r ficha técnica",
+      "honda cbr500r opiniones"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "yamaha-xsr700-2026-ficha-tecnica-precio",
+    "title": "Yamaha XSR700 2026: 73,4 CV por 8.499 € · ficha y precio",
+    "excerpt": "La Yamaha XSR700 2026 desde 8.499 €: 73,4 CV (54 kW), 689 cc, 188 kg, carnet A. Precio, ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/yamaha-xsr700-2026-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Yamaha XSR700 2026 en vista tres cuartos",
+    "keywords": [
+      "yamaha xsr700 precio",
+      "yamaha xsr700 ficha técnica",
+      "yamaha xsr700 opiniones"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "moto-guzzi-stelvio-2026-ficha-tecnica-precio",
+    "title": "Moto Guzzi Stelvio 2026: precio 16.372 €, 115 CV y ficha",
+    "excerpt": "La Moto Guzzi Stelvio 2026 desde 16.372 €: 115 CV (84,6 kW), 1.042 cc, 246 kg, carnet A. Ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/moto-guzzi-stelvio-2026-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Moto Guzzi Stelvio 2026 en vista tres cuartos",
+    "keywords": [
+      "moto guzzi stelvio precio",
+      "moto guzzi stelvio ficha técnica",
+      "moto guzzi stelvio opiniones"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "husqvarna-svartpilen-125-2026-ficha-tecnica-precio",
+    "title": "Husqvarna Svartpilen 125 2026: precio 4.909 €, 15 CV y ficha",
+    "excerpt": "La Husqvarna Svartpilen 125 2026 desde 4.909 €: 15 CV (11 kW), 125 cc, 151 kg, carnet A1. Ficha técnica, mantenimiento, rivales y preguntas frecuentes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/motos/husqvarna-svartpilen-125-2026-ficha-tecnica-precio-oficial.webp",
+    "heroAlt": "Husqvarna Svartpilen 125 2026 en vista tres cuartos",
+    "keywords": [
+      "husqvarna svartpilen 125 precio",
+      "husqvarna svartpilen 125 ficha técnica",
+      "husqvarna svartpilen 125 opiniones"
+    ],
+    "readTime": 7
   },
   {
     "slug": "vmoto-off-r-2025-ficha-tecnica-precio",
@@ -67836,6 +71661,3722 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 4
   },
   {
+    "slug": "hiboy-max3",
+    "title": "Hiboy Max3: precio 449 €, 27 km y ruedas autorreparables",
+    "excerpt": "El Hiboy Max3 costaba 449 € con 350 W, 27 km declarados y neumáticos autorreparables de 10″. Está descatalogado: te contamos si compensa de segunda mano.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/hiboy-max3.webp",
+    "heroAlt": "Hiboy Max3 patinete eléctrico",
+    "keywords": [
+      "hiboy max3 precio",
+      "hiboy max3 ficha técnica",
+      "hiboy max3 autonomía",
+      "hiboy max3 opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "hiboy max3 comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "apollo-city-2024",
+    "title": "Apollo City 2024: doble motor, 2.000 W y 69 km por 949 €",
+    "excerpt": "El Apollo City 2024 monta doble motor con 2.000 W de pico, 960 Wh y 69 km declarados por 949 €. Premium canadiense que, ojo, no se vende en España.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/apollo-city-2024.webp",
+    "heroAlt": "Apollo City (2024) patinete eléctrico",
+    "keywords": [
+      "apollo city (2024) precio",
+      "apollo city (2024) ficha técnica",
+      "apollo city (2024) autonomía",
+      "apollo city (2024) opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "apollo city (2024) comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "apollo-air-2024",
+    "title": "Apollo Air 2024: 500 W, 50 km e intermitentes, 749 €",
+    "excerpt": "El Apollo Air 2024 ofrece 500 W, batería de 540 Wh, 50 km declarados e intermitentes por 749 € y solo 17,6 kg. Su problema: no se vende en España.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/apollo-air-2024.webp",
+    "heroAlt": "Apollo Air (2024) patinete eléctrico",
+    "keywords": [
+      "apollo air (2024) precio",
+      "apollo air (2024) ficha técnica",
+      "apollo air (2024) autonomía",
+      "apollo air (2024) opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "apollo air (2024) comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "niu-kqi1",
+    "title": "Niu KQi1 Pro en oferta: precio 199 €, 15,4 kg y 25 km",
+    "excerpt": "El Niu KQi1 Pro bajó a 199 € en oferta: 250 W, 15,4 kg, 25 km declarados y app NIU. El patinete de marca seria más barato, con letra pequeña incluida.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/niu-kqi1.webp",
+    "heroAlt": "Niu KQi1 Pro patinete eléctrico",
+    "keywords": [
+      "niu kqi1 pro precio",
+      "niu kqi1 pro ficha técnica",
+      "niu kqi1 pro autonomía",
+      "niu kqi1 pro opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "niu kqi1 pro comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "navee-n40",
+    "title": "Navee N40: precio 429 €, 40 km y ruedas 10″, freno dual",
+    "excerpt": "El Navee N40 promete 40 km declarados, motor de 350 W con 700 W de pico y ruedas de 10″ por 429 €. Buen papel, pero con stock irregular en España.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/navee-n40.webp",
+    "heroAlt": "Navee N40 patinete eléctrico",
+    "keywords": [
+      "navee n40 precio",
+      "navee n40 ficha técnica",
+      "navee n40 autonomía",
+      "navee n40 opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "navee n40 comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "segway-p65",
+    "title": "Segway KickScooter P65E: 929 €, 65 km y 980 W de pico",
+    "excerpt": "El Segway P65E cuesta 929 € con 65 km declarados, 980 W de pico, intermitentes y carga en 4 horas. Un urbano potente y pesado: 28 kg sin suspensión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/segway-p65.webp",
+    "heroAlt": "Segway KickScooter P65E patinete eléctrico",
+    "keywords": [
+      "segway kickscooter p65e precio",
+      "segway kickscooter p65e ficha técnica",
+      "segway kickscooter p65e autonomía",
+      "segway kickscooter p65e opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "segway kickscooter p65e comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "segway-p100s",
+    "title": "Segway P100SE: 100 km, 1.086 Wh y doble suspensión, 1.769 €",
+    "excerpt": "El Segway P100SE declara 100 km con batería de 1.086 Wh, doble suspensión y triple frenada por 1.769 €. El buque insignia de Segway pesa 32,9 kg.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/segway-p100s.webp",
+    "heroAlt": "Segway KickScooter P100SE patinete eléctrico",
+    "keywords": [
+      "segway kickscooter p100se precio",
+      "segway kickscooter p100se ficha técnica",
+      "segway kickscooter p100se autonomía",
+      "segway kickscooter p100se opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "segway kickscooter p100se comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "dualtron-mini",
+    "title": "Dualtron Mini: 1.450 W, 65 km y doble suspensión, 1.099 €",
+    "excerpt": "El Dualtron Mini estándar esconde 1.450 W de pico y batería de 1.092 Wh por 1.099 €, con doble suspensión. Sin certificado DGT: ojo a la fecha límite.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/dualtron-mini.webp",
+    "heroAlt": "Dualtron Mini patinete eléctrico",
+    "keywords": [
+      "dualtron mini precio",
+      "dualtron mini ficha técnica",
+      "dualtron mini autonomía",
+      "dualtron mini opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "dualtron mini comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "dualtron-spider",
+    "title": "Dualtron Spider II: 3.000 W y batería LG por 2.499 €",
+    "excerpt": "El Dualtron Spider II combina doble motor con 3.000 W de pico, batería LG de 1.470 Wh y chasis con carbono por 2.499 €. No está homologado DGT.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/dualtron-spider.webp",
+    "heroAlt": "Dualtron Spider II patinete eléctrico",
+    "keywords": [
+      "dualtron spider ii precio",
+      "dualtron spider ii ficha técnica",
+      "dualtron spider ii autonomía",
+      "dualtron spider ii opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "dualtron spider ii comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "kaabo-mantis-8",
+    "title": "Kaabo Mantis 8 Lite: 800 W y frenos hidráulicos, 1.099 €",
+    "excerpt": "El Kaabo Mantis 8 Lite ofrece motor de 800 W, batería de 874 Wh y frenos hidráulicos por 1.099 € y 26,5 kg. Se vende solo para áreas privadas.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/kaabo-mantis-8.webp",
+    "heroAlt": "Kaabo Mantis 8 Lite patinete eléctrico",
+    "keywords": [
+      "kaabo mantis 8 lite precio",
+      "kaabo mantis 8 lite ficha técnica",
+      "kaabo mantis 8 lite autonomía",
+      "kaabo mantis 8 lite opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "kaabo mantis 8 lite comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "kaabo-wolf-warrior-x-plus",
+    "title": "Kaabo Wolf Warrior X Plus: 4.000 W y ABS por 4.449 €",
+    "excerpt": "El Kaabo Wolf Warrior X Plus suma doble motor con 4.000 W de pico, frenos hidráulicos con ABS y 70 km declarados por 4.449 €. No homologado.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/kaabo-wolf-warrior-x-plus.webp",
+    "heroAlt": "Kaabo Wolf Warrior X Plus patinete eléctrico",
+    "keywords": [
+      "kaabo wolf warrior x plus precio",
+      "kaabo wolf warrior x plus ficha técnica",
+      "kaabo wolf warrior x plus autonomía",
+      "kaabo wolf warrior x plus opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "kaabo wolf warrior x plus comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "vsett-10-plus",
+    "title": "Vsett 10+: 4.200 W, 130 km y batería LG por 1.899 €",
+    "excerpt": "El Vsett 10+ declara 130 km con batería LG de 1.680 Wh y doble motor con 4.200 W de pico por 1.899 €. Una leyenda sin certificado DGT.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/vsett-10-plus.webp",
+    "heroAlt": "Vsett 10+ patinete eléctrico",
+    "keywords": [
+      "vsett 10+ precio",
+      "vsett 10+ ficha técnica",
+      "vsett 10+ autonomía",
+      "vsett 10+ opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "vsett 10+ comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "teverun-blade-mini-pro",
+    "title": "Teverun Blade Mini Pro: homologado DGT por 990 €, NFC",
+    "excerpt": "El Teverun Blade Mini Pro cuesta unos 990 € con doble motor de 2.400 W de pico, NFC y homologación DGT verificada. El mini potente que sí es legal.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/teverun-blade-mini-pro.webp",
+    "heroAlt": "Teverun Blade Mini Pro patinete eléctrico",
+    "keywords": [
+      "teverun blade mini pro precio",
+      "teverun blade mini pro ficha técnica",
+      "teverun blade mini pro autonomía",
+      "teverun blade mini pro opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "teverun blade mini pro comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "smartgyro-ziro-blue",
+    "title": "Smartgyro Ziro Blue: 500 W, ruedas 10″ y 120 kg, 399 €",
+    "excerpt": "El Smartgyro Ziro Blue ofrece motor brushless de 500 W, ruedas de 10″ y 120 kg de carga por unos 399 €. Un urbano honesto de marca española.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/smartgyro-ziro-blue.webp",
+    "heroAlt": "Smartgyro Ziro Blue patinete eléctrico",
+    "keywords": [
+      "smartgyro ziro blue precio",
+      "smartgyro ziro blue ficha técnica",
+      "smartgyro ziro blue autonomía",
+      "smartgyro ziro blue opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "smartgyro ziro blue comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "iscooter-ix5",
+    "title": "iScooter iX5: 1.000 W todoterreno y 150 kg por 416,99 €",
+    "excerpt": "El iScooter iX5 mete un motor de 1.000 W, batería de 720 Wh, 6 amortiguadores y carga de 150 kg por 416,99 €. Pero sus 45 km/h no son legales.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/iscooter-ix5.webp",
+    "heroAlt": "iScooter iX5 patinete eléctrico",
+    "keywords": [
+      "iscooter ix5 precio",
+      "iscooter ix5 ficha técnica",
+      "iscooter ix5 autonomía",
+      "iscooter ix5 opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "iscooter ix5 comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "cecotec-outsider-demigod-makalu",
+    "title": "Cecotec Outsider Makalu: 1.600 W y sillín por 899,01 €",
+    "excerpt": "El Cecotec Outsider DemiGod Makalu entrega 1.600 W, sillín y kit de ciclomotor L1eB por 899,01 €. Pesa 60 kg: no es un VMP, es otra categoría.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/cecotec-outsider-demigod-makalu.webp",
+    "heroAlt": "Cecotec Outsider DemiGod Makalu patinete eléctrico",
+    "keywords": [
+      "cecotec outsider demigod makalu precio",
+      "cecotec outsider demigod makalu ficha técnica",
+      "cecotec outsider demigod makalu autonomía",
+      "cecotec outsider demigod makalu opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "cecotec outsider demigod makalu comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "xiaomi-electric-scooter-4-lite",
+    "title": "Xiaomi Scooter 4 Lite 2.ª Gen: 255 € y solo 16,2 kg",
+    "excerpt": "El Xiaomi Electric Scooter 4 Lite de 2.ª generación cuesta unos 255 € con 300 W, 25 km declarados y solo 16,2 kg. El Xiaomi barato para ir ligero.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/xiaomi-electric-scooter-4-lite.webp",
+    "heroAlt": "Xiaomi Electric Scooter 4 Lite (2.ª Gen) patinete eléctrico",
+    "keywords": [
+      "xiaomi electric scooter 4 lite (2.ª gen) precio",
+      "xiaomi electric scooter 4 lite (2.ª gen) ficha técnica",
+      "xiaomi electric scooter 4 lite (2.ª gen) autonomía",
+      "xiaomi electric scooter 4 lite (2.ª gen) opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "xiaomi electric scooter 4 lite (2.ª gen) comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "xiaomi-electric-scooter-4-ultra",
+    "title": "Xiaomi Scooter 4 Ultra: 70 km y 940 W por 999,99 €",
+    "excerpt": "El Xiaomi Electric Scooter 4 Ultra declara 70 km, picos de 940 W y doble suspensión por 999,99 €. El tope de gama de la serie 4 pesa 25 kg.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/xiaomi-electric-scooter-4-ultra.webp",
+    "heroAlt": "Xiaomi Electric Scooter 4 Ultra patinete eléctrico",
+    "keywords": [
+      "xiaomi electric scooter 4 ultra precio",
+      "xiaomi electric scooter 4 ultra ficha técnica",
+      "xiaomi electric scooter 4 ultra autonomía",
+      "xiaomi electric scooter 4 ultra opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "xiaomi electric scooter 4 ultra comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "xiaomi-electric-scooter-5-plus",
+    "title": "Xiaomi Scooter 5 Plus: 60 km y ruedas 12″, 499,99 €",
+    "excerpt": "El Xiaomi Electric Scooter 5 Plus monta ruedas de 12″, 60 km declarados y suspensión completa por 499,99 €. El Xiaomi cómodo pesa 26,6 kg.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/xiaomi-electric-scooter-5-plus.webp",
+    "heroAlt": "Xiaomi Electric Scooter 5 Plus patinete eléctrico",
+    "keywords": [
+      "xiaomi electric scooter 5 plus precio",
+      "xiaomi electric scooter 5 plus ficha técnica",
+      "xiaomi electric scooter 5 plus autonomía",
+      "xiaomi electric scooter 5 plus opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "xiaomi electric scooter 5 plus comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "segway-ninebot-f2-pro",
+    "title": "Segway Ninebot F2 Pro E: 55 km y suspensión por 429 €",
+    "excerpt": "El Segway-Ninebot F2 Pro E suma suspensión delantera, 900 W de pico, 55 km declarados e intermitentes por unos 429 €. El F2 más redondo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/segway-ninebot-f2-pro.webp",
+    "heroAlt": "Segway-Ninebot KickScooter F2 Pro E patinete eléctrico",
+    "keywords": [
+      "segway-ninebot kickscooter f2 pro e precio",
+      "segway-ninebot kickscooter f2 pro e ficha técnica",
+      "segway-ninebot kickscooter f2 pro e autonomía",
+      "segway-ninebot kickscooter f2 pro e opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "segway-ninebot kickscooter f2 pro e comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "segway-ninebot-zt3-pro",
+    "title": "Segway ZT3 Pro E: 1.600 W y ruedas 11″ por 619,01 €",
+    "excerpt": "El Segway-Ninebot ZT3 Pro E despliega 1.600 W de pico en modo Boost, ruedas todoterreno de 11″ y carga en 4 horas por 619,01 € en oferta.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/segway-ninebot-zt3-pro.webp",
+    "heroAlt": "Segway-Ninebot KickScooter ZT3 Pro E patinete eléctrico",
+    "keywords": [
+      "segway-ninebot kickscooter zt3 pro e precio",
+      "segway-ninebot kickscooter zt3 pro e ficha técnica",
+      "segway-ninebot kickscooter zt3 pro e autonomía",
+      "segway-ninebot kickscooter zt3 pro e opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "segway-ninebot kickscooter zt3 pro e comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "navee-gt3",
+    "title": "Navee GT3: precio 949 €, 50 km, TCS y freno E-ABS regen.",
+    "excerpt": "El Navee GT3 es el acceso a la serie GT: 500 W, 50 km declarados, TCS y certificación TÜV por 949 € de referencia. Hoy no se vende en España.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/navee-gt3.webp",
+    "heroAlt": "Navee GT3 patinete eléctrico",
+    "keywords": [
+      "navee gt3 precio",
+      "navee gt3 ficha técnica",
+      "navee gt3 autonomía",
+      "navee gt3 opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "navee gt3 comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "navee-st3",
+    "title": "Navee ST3: precio 499 €, 60 km y triple frenada TCS",
+    "excerpt": "El Navee ST3 apuesta por la seguridad desde 499 €: triple frenada, intermitentes, TCS y 60 km declarados con batería de 477 Wh. Pesa 24,8 kg.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/navee-st3.webp",
+    "heroAlt": "Navee ST3 patinete eléctrico",
+    "keywords": [
+      "navee st3 precio",
+      "navee st3 ficha técnica",
+      "navee st3 autonomía",
+      "navee st3 opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "navee st3 comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "niu-kqi3-max",
+    "title": "NIU KQi3 Max: precio 899 €, 65 km y 900 W de pico máx.",
+    "excerpt": "El NIU KQi3 Max declara 65 km con batería de 608,4 Wh, motor de 900 W de pico y carga de 120 kg por 899 € (en oferta, unos 509 €). El SUV de NIU.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/niu-kqi3-max.webp",
+    "heroAlt": "NIU KQi3 Max patinete eléctrico",
+    "keywords": [
+      "niu kqi3 max precio",
+      "niu kqi3 max ficha técnica",
+      "niu kqi3 max autonomía",
+      "niu kqi3 max opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "niu kqi3 max comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "niu-kqi300x",
+    "title": "NIU KQi 300X: 559 €, 1.000 W y suspensión hidráulica",
+    "excerpt": "El NIU KQi 300X cuesta unos 559 € en oferta con suspensión hidráulica, 1.000 W de pico, ruedas de 10,5″ y 60 km declarados. El NIU más divertido.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/niu-kqi300x.webp",
+    "heroAlt": "NIU KQi 300X patinete eléctrico",
+    "keywords": [
+      "niu kqi 300x precio",
+      "niu kqi 300x ficha técnica",
+      "niu kqi 300x autonomía",
+      "niu kqi 300x opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "niu kqi 300x comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "segway-e2-plus-e",
+    "title": "Segway E2 Plus E por 300 €: certificado DGT y 25 km/h",
+    "excerpt": "El Segway Ninebot E2 Plus E por unos 300 €: 300 W, certificado DGT, 25 km/h legales y 220 Wh para trayectos cortos. Análisis y ficha completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/segway-e2-plus-e.webp",
+    "heroAlt": "Segway Ninebot KickScooter E2 Plus E patinete eléctrico",
+    "keywords": [
+      "segway e2 plus e precio",
+      "segway ninebot e2 plus e ficha técnica",
+      "segway e2 plus e autonomía",
+      "patinete segway certificado dgt",
+      "segway e2 plus e opiniones",
+      "patinete eléctrico 300 euros",
+      "ninebot e2 plus e españa",
+      "patinete segway 25 km"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "segway-e25",
+    "title": "Segway E25D por 399 €: el clásico Ninebot de 25 km",
+    "excerpt": "El Segway Ninebot E25D por unos 399 €: 300 W con 700 W de pico, ruedas macizas de 9 pulgadas y batería ampliable a E45. Historia, ficha y análisis.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/segway-e25.webp",
+    "heroAlt": "Segway Ninebot KickScooter E25D patinete eléctrico",
+    "keywords": [
+      "segway e25 precio",
+      "segway ninebot e25d ficha técnica",
+      "segway e25e autonomía",
+      "patinete ninebot e25 opiniones",
+      "segway e25 batería externa",
+      "patinete segway clásico",
+      "ninebot e25 españa",
+      "segway e25 vs e45"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "segway-e45",
+    "title": "Segway E45D por 499 €: 45 km de autonomía declarada",
+    "excerpt": "El Segway Ninebot E45D por unos 499 €: 368 Wh, 45 km declarados, ruedas macizas de 9 pulgadas y el chasis clásico de la serie E. Análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/segway-e45.webp",
+    "heroAlt": "Segway Ninebot KickScooter E45D patinete eléctrico",
+    "keywords": [
+      "segway e45 precio",
+      "segway ninebot e45d ficha técnica",
+      "segway e45 autonomía",
+      "patinete ninebot 45 km",
+      "segway e45 opiniones",
+      "segway e45 batería 368 wh",
+      "ninebot e45 españa",
+      "segway e45 vs e25"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "cecotec-bongo-serie-m20",
+    "title": "Cecotec Bongo M20 por 330 €: certificado DGT y disco",
+    "excerpt": "El Cecotec Bongo Serie M20 por unos 330 €: certificado DGT, freno de disco con e-ABS, 350 W y pantalla completa para la ciudad. Ficha y análisis.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/cecotec-bongo-serie-m20.webp",
+    "heroAlt": "Cecotec Bongo Serie M20 patinete eléctrico",
+    "keywords": [
+      "cecotec bongo serie m20 precio",
+      "bongo m20 ficha técnica",
+      "cecotec bongo m20 autonomía",
+      "patinete cecotec homologado dgt",
+      "bongo serie m20 opiniones",
+      "patinete cecotec 330 euros",
+      "bongo m20 vs m30",
+      "patinete eléctrico español"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "cecotec-bongo-serie-m30",
+    "title": "Cecotec Bongo M30 Connected por 339 €: 30 km y DGT",
+    "excerpt": "El Cecotec Bongo Serie M30 Connected por unos 339 €: certificado DGT, 30 km declarados, 270 Wh, app y carga en 3,5 horas. Análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/cecotec-bongo-serie-m30.webp",
+    "heroAlt": "Cecotec Bongo Serie M30 Connected patinete eléctrico",
+    "keywords": [
+      "cecotec bongo serie m30 precio",
+      "bongo m30 connected ficha técnica",
+      "cecotec bongo m30 autonomía",
+      "patinete cecotec homologado 339",
+      "bongo m30 opiniones",
+      "patinete eléctrico certificado dgt barato",
+      "bongo m30 vs m20",
+      "cecotec bongo connected"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "smartgyro-k2",
+    "title": "Smartgyro K2 por 510 €: 624 Wh, 45 km e intermitentes",
+    "excerpt": "El Smartgyro K2 por unos 510 €: batería de 624 Wh, 500 W, 45 km declarados, intermitentes y ruedas tubeless de 10 pulgadas. Análisis y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/smartgyro-k2.webp",
+    "heroAlt": "Smartgyro K2 patinete eléctrico",
+    "keywords": [
+      "smartgyro k2 precio",
+      "smartgyro k2 ficha técnica",
+      "smartgyro k2 autonomía",
+      "patinete smartgyro 500w",
+      "smartgyro k2 opiniones",
+      "patinete eléctrico 624 wh",
+      "smartgyro k2 certificado dgt",
+      "patinete español potente"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "smartgyro-crossover-dual-x2",
+    "title": "Smartgyro Crossover Dual X2 por 869 €: doble motor",
+    "excerpt": "El Smartgyro Crossover Dual X2 por unos 869 €: doble motor de 1.000 W, certificado DGT, 45 km declarados y doble disco. Análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/smartgyro-crossover-dual-x2.webp",
+    "heroAlt": "Smartgyro Crossover Dual X2 patinete eléctrico",
+    "keywords": [
+      "smartgyro crossover dual x2 precio",
+      "crossover dual x2 ficha técnica",
+      "smartgyro doble motor homologado",
+      "patinete doble motor dgt",
+      "crossover dual x2 opiniones",
+      "smartgyro x2 autonomía",
+      "patinete eléctrico 1000w legal",
+      "smartgyro crossover precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "smartgyro-crossover-dual-pro",
+    "title": "Smartgyro Crossover Dual Pro: 840 Wh y 60 km, 799 €",
+    "excerpt": "El Smartgyro Crossover Dual Pro por unos 799 €: 840 Wh, 60 km declarados, doble motor y certificado DGT. El rutero legal de Smartgyro, analizado.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/smartgyro-crossover-dual-pro.webp",
+    "heroAlt": "Smartgyro Crossover Dual Pro patinete eléctrico",
+    "keywords": [
+      "smartgyro crossover dual pro precio",
+      "crossover dual pro ficha técnica",
+      "smartgyro 840 wh autonomía",
+      "patinete doble motor 60 km",
+      "crossover dual pro opiniones",
+      "smartgyro homologado dgt",
+      "patinete eléctrico larga autonomía españa",
+      "dual pro vs dual x2"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "woxter-smartgyro-xtreme-pro",
+    "title": "Woxter SmartGyro Xtreme Pro por 449 €: urbano español",
+    "excerpt": "El Woxter SmartGyro Xtreme Pro por unos 449 €: 360 Wh, 25 km declarados, disco y mezcla de rueda neumática y maciza con red Smartgyro. Análisis.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/woxter-smartgyro-xtreme-pro.webp",
+    "heroAlt": "Woxter SmartGyro Xtreme Pro patinete eléctrico",
+    "keywords": [
+      "woxter smartgyro xtreme pro precio",
+      "woxter xtreme pro ficha técnica",
+      "patinete woxter opiniones",
+      "smartgyro xtreme pro autonomía",
+      "patinete eléctrico español 449",
+      "woxter patinete eléctrico",
+      "xtreme pro certificado dgt",
+      "patinete urbano woxter"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "denver-sel-1080",
+    "title": "Denver SEL-10800F por 349 €: 450 W y ruedas panal 10\"",
+    "excerpt": "El Denver SEL-10800F por unos 349 €: 450 W, batería de 48 V y 360 Wh, ruedas panal de 10 pulgadas sin pinchazos y carga en 4 horas. Análisis.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/denver-sel-1080.webp",
+    "heroAlt": "Denver SEL-10800F patinete eléctrico",
+    "keywords": [
+      "denver sel-10800f precio",
+      "denver sel 1080 ficha técnica",
+      "patinete denver opiniones",
+      "patinete 48v barato",
+      "denver sel-10800f autonomía",
+      "patinete ruedas panal antipinchazos",
+      "denver patinete eléctrico españa",
+      "patinete 450w 349 euros"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "pure-air-go",
+    "title": "Pure Air Go por 449 €: IP65 y acero para la lluvia",
+    "excerpt": "El Pure Air Go por unos 449 €: protección IP65, chasis de acero, ruedas de 10 pulgadas con sellante y 120 kg de carga. El británico duro, analizado.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/pure-air-go.webp",
+    "heroAlt": "Pure Air Go patinete eléctrico",
+    "keywords": [
+      "pure air go precio",
+      "pure air go ficha técnica",
+      "patinete pure opiniones españa",
+      "patinete ip65 lluvia",
+      "pure air go autonomía",
+      "patinete eléctrico acero",
+      "pure electric air go",
+      "patinete resistente agua"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "pure-air-pro",
+    "title": "Pure Air Pro por 649 €: 50 km declarados e IP65 real",
+    "excerpt": "El Pure Air Pro de 2.ª generación por unos 649 €: 500 W, 460,8 Wh, 50 km declarados y protección IP65 con ruedas tubeless de 10 pulgadas. Análisis.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/pure-air-pro.webp",
+    "heroAlt": "Pure Air Pro (2.ª gen) patinete eléctrico",
+    "keywords": [
+      "pure air pro precio",
+      "pure air pro ficha técnica",
+      "patinete pure air pro autonomía",
+      "pure electric air pro opiniones",
+      "patinete ip65 50 km",
+      "pure air pro vs air go",
+      "patinete británico eléctrico",
+      "pure air pro españa"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "etwow-gt-2024",
+    "title": "E-Twow GT 2024 por 799 €: 700 W y 504 Wh en 12,3 kg",
+    "excerpt": "El E-Twow GT 2024 Smart Edition por unos 799 €: 700 W, 504 Wh y 45 km declarados pesando solo 12,3 kg. El peso pluma potente, analizado.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/etwow-gt-2024.webp",
+    "heroAlt": "E-Twow GT 2024 (Smart Edition) patinete eléctrico",
+    "keywords": [
+      "etwow gt 2024 precio",
+      "etwow gt 2024 ficha técnica",
+      "patinete etwow 700w",
+      "patinete eléctrico ligero potente",
+      "etwow gt autonomía",
+      "patinete 12 kg 45 km",
+      "etwow españa opiniones",
+      "patinete plegable ligero"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "etwow-booster-v",
+    "title": "E-Twow Booster V por 899 €: 10,8 kg y carga en 2,5 h",
+    "excerpt": "El E-Twow Booster V por unos 899 €: solo 10,8 kg, 378 Wh, 40 km declarados y la carga más rápida, 2,5 horas. El minimalista definitivo, analizado.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/etwow-booster-v.webp",
+    "heroAlt": "E-Twow Booster V patinete eléctrico",
+    "keywords": [
+      "etwow booster v precio",
+      "etwow booster v ficha técnica",
+      "patinete eléctrico más ligero",
+      "patinete 10 kg",
+      "etwow booster v autonomía",
+      "patinete carga rápida 2,5 horas",
+      "etwow booster opiniones",
+      "patinete ultraligero adultos"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "inokim-light-2",
+    "title": "Inokim Light 2 por 949 €: premium ligero de 13,7 kg",
+    "excerpt": "El Inokim Light 2 por unos 949 €: 13,7 kg, diseño premium y doble tambor. Un clásico ligero sin certificado DGT con solo 75 kg de carga. Análisis.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/inokim-light-2.webp",
+    "heroAlt": "Inokim Light 2 patinete eléctrico",
+    "keywords": [
+      "inokim light 2 precio",
+      "inokim light 2 ficha técnica",
+      "patinete inokim opiniones",
+      "inokim light 2 autonomía",
+      "patinete premium ligero",
+      "inokim light 2 españa",
+      "inokim light 2 carga máxima",
+      "patinete diseño premium"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "inokim-ox-super",
+    "title": "Inokim Ox Super por 1.899 €: 110 km de autonomía total",
+    "excerpt": "El Inokim Ox Super por unos 1.899 €: 1.260 Wh, 110 km declarados, 1.000 W y doble suspensión. El larga distancia de Inokim, analizado a fondo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/inokim-ox-super.webp",
+    "heroAlt": "Inokim Ox Super patinete eléctrico",
+    "keywords": [
+      "inokim ox super precio",
+      "inokim ox super ficha técnica",
+      "patinete 110 km autonomía",
+      "inokim ox opiniones españa",
+      "patinete eléctrico larga distancia",
+      "inokim ox super batería",
+      "patinete 1260 wh",
+      "inokim ox super peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "egret-ten-v4",
+    "title": "Egret Ten V4 por 949 €: calidad alemana, doble disco",
+    "excerpt": "El Egret Ten V4 por unos 949 €: 500 W con 800 W de pico, 557 Wh, doble freno de disco y fabricación alemana Walberg. Análisis y ficha completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/egret-ten-v4.webp",
+    "heroAlt": "Egret Ten V4 patinete eléctrico",
+    "keywords": [
+      "egret ten v4 precio",
+      "egret ten v4 ficha técnica",
+      "patinete egret opiniones",
+      "walberg egret ten",
+      "patinete alemán eléctrico",
+      "egret ten v4 autonomía",
+      "patinete doble disco 949",
+      "egret ten españa"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "vsett-8",
+    "title": "Vsett 8 por 849 €: 748 Wh, 50 km y doble freno tambor",
+    "excerpt": "El Vsett 8 por unos 849 €: batería de 748 Wh, 50 km declarados, doble tambor y 500 W. El acceso serio al mundo Vsett, con ficha y análisis.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/vsett-8.webp",
+    "heroAlt": "Vsett 8 patinete eléctrico",
+    "keywords": [
+      "vsett 8 precio",
+      "vsett 8 ficha técnica",
+      "patinete vsett opiniones españa",
+      "vsett 8 autonomía 748 wh",
+      "patinete eléctrico 50 km",
+      "vsett 8 vs 9 plus",
+      "vsett españa comprar",
+      "patinete doble tambor"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "vsett-9-plus",
+    "title": "Vsett 9+ Lite por 750 €: doble motor de 1.300 W total",
+    "excerpt": "El Vsett 9+ Lite por unos 750 €: doble motor de 1.300 W, 748 Wh, 50 km declarados y doble disco. El doble motor con pedigrí, analizado.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/vsett-9-plus.webp",
+    "heroAlt": "Vsett 9+ Lite patinete eléctrico",
+    "keywords": [
+      "vsett 9+ lite precio",
+      "vsett 9 plus ficha técnica",
+      "patinete doble motor 750 euros",
+      "vsett 9+ autonomía",
+      "patinete 1300w",
+      "vsett 9 plus opiniones",
+      "vsett españa doble motor",
+      "vsett 9+ vs vsett 8"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "kaabo-skywalker-10h",
+    "title": "Kaabo Skywalker 10H por 949 €: 800 W y 65 km fuera",
+    "excerpt": "El Kaabo Skywalker 10H por unos 949 €: 800 W, 748 Wh, 65 km declarados, doble disco con E-ABS y ruedas de 10 pulgadas. El todoterreno urbano.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/kaabo-skywalker-10h.webp",
+    "heroAlt": "Kaabo Skywalker 10H patinete eléctrico",
+    "keywords": [
+      "kaabo skywalker 10h precio",
+      "skywalker 10h ficha técnica",
+      "patinete kaabo opiniones españa",
+      "kaabo 800w autonomía",
+      "patinete todoterreno 65 km",
+      "skywalker 10h vs mantis",
+      "kaabo españa comprar",
+      "patinete eléctrico potente"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "joyor-y10",
+    "title": "Joyor Y10 por 599 €: 100 km con certificado DGT total",
+    "excerpt": "El Joyor Y10 homologado por unos 599 €: certificado DGT, batería de 1.248 Wh, 100 km declarados y 500 W. El certificado con más batería, analizado.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/joyor-y10.webp",
+    "heroAlt": "Joyor Y10 patinete eléctrico",
+    "keywords": [
+      "joyor y10 precio",
+      "joyor y10 ficha técnica",
+      "patinete 100 km homologado dgt",
+      "joyor y10 opiniones",
+      "patinete eléctrico más autonomía legal",
+      "joyor y10 batería 26ah",
+      "patinete certificado dgt 599",
+      "joyor españa homologado"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "iscooter-i9",
+    "title": "iScooter i9 por 239 €: el chollo de 350 W analizado",
+    "excerpt": "El iScooter i9 por unos 239 €: 350 W, 315 Wh, 30 km declarados, 12,5 kg y ruedas panal antipinchazos. Qué da y qué no da el chollo, sin humo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/iscooter-i9.webp",
+    "heroAlt": "iScooter i9 patinete eléctrico",
+    "keywords": [
+      "iscooter i9 precio",
+      "iscooter i9 ficha técnica",
+      "patinete eléctrico barato 239",
+      "iscooter i9 opiniones españa",
+      "patinete carrefour barato",
+      "iscooter i9 autonomía",
+      "patinete eléctrico chollo",
+      "iscooter i9 certificado dgt"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "hiboy-s2",
+    "title": "Hiboy S2 por 299 €: ligero, barato y con motor de 350 W",
+    "excerpt": "El Hiboy S2 por unos 299 €: 350 W, 270 Wh, disco con eABS regenerativo y 25 km declarados. La puerta de entrada de Hiboy, analizada en detalle.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/hiboy-s2.webp",
+    "heroAlt": "Hiboy S2 patinete eléctrico",
+    "keywords": [
+      "hiboy s2 precio",
+      "hiboy s2 ficha técnica",
+      "patinete hiboy opiniones españa",
+      "hiboy s2 autonomía real",
+      "patinete eléctrico barato 299",
+      "hiboy s2 vs s2 pro",
+      "hiboy españa comprar",
+      "patinete ligero 350w"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "hiboy-s2-pro",
+    "title": "Hiboy S2 Pro por 469,99 €: 500 W y ruedas de 10 pulg",
+    "excerpt": "El Hiboy S2 Pro por unos 469,99 €: 500 W, 418 Wh, 40 km declarados, ruedas de 10 pulgadas y suspensión trasera. El Hiboy equilibrado, analizado.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/hiboy-s2-pro.webp",
+    "heroAlt": "Hiboy S2 Pro patinete eléctrico",
+    "keywords": [
+      "hiboy s2 pro precio",
+      "hiboy s2 pro ficha técnica",
+      "patinete hiboy 500w",
+      "hiboy s2 pro autonomía",
+      "hiboy s2 pro opiniones españa",
+      "patinete ruedas 10 pulgadas 500w",
+      "hiboy s2 pro vs s2",
+      "hiboy comprar españa"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "segway-e2-e",
+    "title": "Segway E2 E: precio 219 €, ficha y análisis completo",
+    "excerpt": "El Segway Ninebot KickScooter E2 E cuesta 219 €: 25 km declarados (17 km reales estimados), motor de 250 W y 450 W de pico, batería de 220 Wh. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/segway-e2-e.webp",
+    "heroAlt": "Segway Ninebot KickScooter E2 E patinete eléctrico",
+    "keywords": [
+      "segway ninebot kickscooter e2 e precio",
+      "segway ninebot kickscooter e2 e ficha técnica",
+      "segway ninebot kickscooter e2 e autonomía",
+      "segway ninebot kickscooter e2 e opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar segway ninebot kickscooter e2 e españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "xiaomi-electric-scooter-5",
+    "title": "Xiaomi Electric Scooter 5: 60 km por 400 €, análisis",
+    "excerpt": "El Xiaomi Electric Scooter 5 declara 60 km con 477 Wh y motor de 350 W por 400 €. Autonomía real, frenos, peso de 20,1 kg y si compensa frente al 5 Pro.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/xiaomi-electric-scooter-5.webp",
+    "heroAlt": "Xiaomi Electric Scooter 5 patinete eléctrico",
+    "keywords": [
+      "xiaomi electric scooter 5 precio",
+      "xiaomi electric scooter 5 ficha técnica",
+      "xiaomi electric scooter 5 autonomía",
+      "xiaomi electric scooter 5 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar xiaomi electric scooter 5 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "xiaomi-electric-scooter-4",
+    "title": "Xiaomi Electric Scooter 4: precio 299 € y 35 km, análisis",
+    "excerpt": "El Xiaomi Electric Scooter 4 cuesta 299 € con 35 km declarados, 275 Wh y solo 17,2 kg. Qué da y qué no da el Xiaomi más barato para trayectos cortos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/xiaomi-electric-scooter-4.webp",
+    "heroAlt": "Xiaomi Electric Scooter 4 patinete eléctrico",
+    "keywords": [
+      "xiaomi electric scooter 4 precio",
+      "xiaomi electric scooter 4 ficha técnica",
+      "xiaomi electric scooter 4 autonomía",
+      "xiaomi electric scooter 4 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar xiaomi electric scooter 4 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "xiaomi-electric-scooter-4-pro",
+    "title": "Xiaomi Electric Scooter 4 Pro: 55 km, 17 kg y 799 €",
+    "excerpt": "El Xiaomi Electric Scooter 4 Pro combina 55 km, 446 Wh y solo 17 kg por un PVP de 799 €. Pendientes del 20 %, disco de doble pastilla e IPX5 a examen.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/xiaomi-electric-scooter-4-pro.webp",
+    "heroAlt": "Xiaomi Electric Scooter 4 Pro patinete eléctrico",
+    "keywords": [
+      "xiaomi electric scooter 4 pro precio",
+      "xiaomi electric scooter 4 pro ficha técnica",
+      "xiaomi electric scooter 4 pro autonomía",
+      "xiaomi electric scooter 4 pro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar xiaomi electric scooter 4 pro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "segway-ninebot-max-g2",
+    "title": "Segway-Ninebot Max G2 E: 70 km por 399 € en España",
+    "excerpt": "El Segway-Ninebot Max G2 E declara 70 km con 551 Wh, intermitentes y ruedas autorreparables por 399 €. El rey de la larga distancia urbana, con 24,3 kg.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/segway-ninebot-max-g2.webp",
+    "heroAlt": "Segway-Ninebot Max G2 E patinete eléctrico",
+    "keywords": [
+      "segway-ninebot max g2 e precio",
+      "segway-ninebot max g2 e ficha técnica",
+      "segway-ninebot max g2 e autonomía",
+      "segway-ninebot max g2 e opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar segway-ninebot max g2 e españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "segway-ninebot-f2-plus",
+    "title": "Segway-Ninebot F2 Plus E: 55 km e intermitentes, 549 €",
+    "excerpt": "El Segway-Ninebot F2 Plus E ofrece 55 km, 460 Wh, intermitentes y 17,7 kg por 549 €. El Ninebot equilibrado frente al Xiaomi 4 Pro, analizado a fondo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/segway-ninebot-f2-plus.webp",
+    "heroAlt": "Segway-Ninebot F2 Plus E patinete eléctrico",
+    "keywords": [
+      "segway-ninebot f2 plus e precio",
+      "segway-ninebot f2 plus e ficha técnica",
+      "segway-ninebot f2 plus e autonomía",
+      "segway-ninebot f2 plus e opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar segway-ninebot f2 plus e españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "segway-ninebot-f2",
+    "title": "Segway-Ninebot F2 E: precio 341 €, 40 km e IPX5, análisis",
+    "excerpt": "El Segway-Ninebot F2 E es la puerta de entrada a Ninebot: 40 km, 367 Wh, IPX5 y 17,5 kg por 341 €. Qué recorta frente al F2 Plus y a quién le basta.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/segway-ninebot-f2.webp",
+    "heroAlt": "Segway-Ninebot F2 E patinete eléctrico",
+    "keywords": [
+      "segway-ninebot f2 e precio",
+      "segway-ninebot f2 e ficha técnica",
+      "segway-ninebot f2 e autonomía",
+      "segway-ninebot f2 e opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar segway-ninebot f2 e españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "cecotec-bongo-serie-a",
+    "title": "Cecotec Bongo Serie A: 13,5 kg y batería extraíble, 299 €",
+    "excerpt": "El Cecotec Bongo Serie A pesa solo 13,5 kg, tiene batería extraíble y triple freno por 299 €. El patinete de la última milla, con 25 km declarados.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/cecotec-bongo-serie-a.webp",
+    "heroAlt": "Cecotec Bongo Serie A patinete eléctrico",
+    "keywords": [
+      "cecotec bongo serie a precio",
+      "cecotec bongo serie a ficha técnica",
+      "cecotec bongo serie a autonomía",
+      "cecotec bongo serie a opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar cecotec bongo serie a españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "cecotec-bongo-serie-z-power-mountain",
+    "title": "Cecotec Bongo Z Power Mountain: 800 W y 60 km, 599 €",
+    "excerpt": "El Cecotec Bongo Serie Z Power Mountain monta 800 W nominales, ruedas off-road de 10,5 pulgadas y 60 km declarados por 599 €. Potencia bruta española.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/cecotec-bongo-serie-z-power-mountain.webp",
+    "heroAlt": "Cecotec Bongo Serie Z Power Mountain patinete eléctrico",
+    "keywords": [
+      "cecotec bongo serie z power mountain precio",
+      "cecotec bongo serie z power mountain ficha técnica",
+      "cecotec bongo serie z power mountain autonomía",
+      "cecotec bongo serie z power mountain opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar cecotec bongo serie z power mountain españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "niu-kqi3-pro",
+    "title": "NIU KQi3 Pro: precio 699 €, 50 km y doble disco, análisis",
+    "excerpt": "El NIU KQi3 Pro apuesta por diseño y frenada: doble disco, 50 km declarados y 486 Wh por 699 €. Dónde gana y dónde el Xiaomi Scooter 5 le supera.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/niu-kqi3-pro.webp",
+    "heroAlt": "NIU KQi3 Pro patinete eléctrico",
+    "keywords": [
+      "niu kqi3 pro precio",
+      "niu kqi3 pro ficha técnica",
+      "niu kqi3 pro autonomía",
+      "niu kqi3 pro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar niu kqi3 pro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "navee-s65",
+    "title": "Navee S65: precio 1.199 €, 65 km y doble suspensión",
+    "excerpt": "El Navee S65 es el premium de la tanda: doble suspensión, 65 km declarados, 597 Wh y 1.000 W de pico por 1.199 €. Comodidad máxima, precio máximo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/navee-s65.webp",
+    "heroAlt": "Navee S65 patinete eléctrico",
+    "keywords": [
+      "navee s65 precio",
+      "navee s65 ficha técnica",
+      "navee s65 autonomía",
+      "navee s65 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar navee s65 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "smartgyro-speedway-c",
+    "title": "SmartGyro Speedway C: 500 W y doble suspensión, 699 €",
+    "excerpt": "El SmartGyro Speedway C monta motor trasero de 500 W, doble suspensión, intermitentes y 624 Wh por unos 699 €. El clásico potente español, a examen.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/smartgyro-speedway-c.webp",
+    "heroAlt": "SmartGyro Speedway C patinete eléctrico",
+    "keywords": [
+      "smartgyro speedway c precio",
+      "smartgyro speedway c ficha técnica",
+      "smartgyro speedway c autonomía",
+      "smartgyro speedway c opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar smartgyro speedway c españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "smartgyro-k2-titan",
+    "title": "SmartGyro K2 Titan: 1.300 W de pico y 50 km por 599 €",
+    "excerpt": "El SmartGyro K2 Titan combina 500 W (1.300 W de pico), 624 Wh, triple frenada e intermitentes por 599 €, con garantía de 3 años y certificado DGT.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/smartgyro-k2-titan.webp",
+    "heroAlt": "SmartGyro K2 Titan patinete eléctrico",
+    "keywords": [
+      "smartgyro k2 titan precio",
+      "smartgyro k2 titan ficha técnica",
+      "smartgyro k2 titan autonomía",
+      "smartgyro k2 titan opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar smartgyro k2 titan españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "smartgyro-ziro2",
+    "title": "SmartGyro Ziro2: precio 399 € con certificado DGT oficial",
+    "excerpt": "El SmartGyro Ziro2 cuesta 399 € con doble suspensión, ruedas de 10 pulgadas, intermitentes y certificado DGT. Equipamiento serio para trayectos cortos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/smartgyro-ziro2.webp",
+    "heroAlt": "SmartGyro Ziro2 patinete eléctrico",
+    "keywords": [
+      "smartgyro ziro2 precio",
+      "smartgyro ziro2 ficha técnica",
+      "smartgyro ziro2 autonomía",
+      "smartgyro ziro2 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar smartgyro ziro2 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "aprilia-esr2",
+    "title": "Aprilia eSR2: precio 569 €, ligero y con doble suspensión",
+    "excerpt": "El Aprilia eSR2 pesa 16,5 kg, lleva doble suspensión y ruedas de 10 pulgadas por 569 €. Un veterano de 2021 con red Piaggio: qué ver antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/aprilia-esr2.webp",
+    "heroAlt": "Aprilia eSR2 patinete eléctrico",
+    "keywords": [
+      "aprilia esr2 precio",
+      "aprilia esr2 ficha técnica",
+      "aprilia esr2 autonomía",
+      "aprilia esr2 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar aprilia esr2 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "xiaomi-electric-scooter-5-pro",
+    "title": "Xiaomi Electric Scooter 5 Pro: 1.000 W y 60 km, 400 €",
+    "excerpt": "El Xiaomi Electric Scooter 5 Pro ofrece 1.000 W de pico, suspensión completa, intermitentes y 60 km declarados por unos 400 €. El chollo con letra pequeña.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/xiaomi-electric-scooter-5-pro.webp",
+    "heroAlt": "Xiaomi Electric Scooter 5 Pro patinete eléctrico",
+    "keywords": [
+      "xiaomi electric scooter 5 pro precio",
+      "xiaomi electric scooter 5 pro ficha técnica",
+      "xiaomi electric scooter 5 pro autonomía",
+      "xiaomi electric scooter 5 pro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar xiaomi electric scooter 5 pro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "segway-ninebot-e2-plus-e-ii",
+    "title": "Segway-Ninebot E2 Plus E II: 320 € y cero pinchazos",
+    "excerpt": "El Segway-Ninebot E2 Plus E II cuesta unos 320 € con ruedas macizas de 8,1 pulgadas, intermitentes y 16,8 kg. Cero pinchazos para trayectos muy cortos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/segway-ninebot-e2-plus-e-ii.webp",
+    "heroAlt": "Segway-Ninebot E2 Plus E II patinete eléctrico",
+    "keywords": [
+      "segway-ninebot e2 plus e ii precio",
+      "segway-ninebot e2 plus e ii ficha técnica",
+      "segway-ninebot e2 plus e ii autonomía",
+      "segway-ninebot e2 plus e ii opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar segway-ninebot e2 plus e ii españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "dualtron-mini-special-dual-motor",
+    "title": "Dualtron Mini Special Dual Motor: homologado, 1.179 €",
+    "excerpt": "El Dualtron Mini Special Dual Motor Long Body homologado DGT: doble motor, 65 km declarados y cuestas del 37 % por 1.179 €. Potencia legal urbana.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/dualtron-mini-special-dual-motor.webp",
+    "heroAlt": "Dualtron Mini Special Dual Motor Long Body patinete eléctrico",
+    "keywords": [
+      "dualtron mini special dual motor long body precio",
+      "dualtron mini special dual motor long body ficha técnica",
+      "dualtron mini special dual motor long body autonomía",
+      "dualtron mini special dual motor long body opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar dualtron mini special dual motor long body españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "kaabo-mantis-8-plus",
+    "title": "Kaabo Mantis 8 Plus: precio 1.330 €, 80 km y 1.600 W",
+    "excerpt": "El Kaabo Mantis 8 Plus declara 80 km con 874 Wh y doble motor de 1.600 W homologado DGT, por 1.330 €. La mayor batería de la tanda, a examen.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/kaabo-mantis-8-plus.webp",
+    "heroAlt": "Kaabo Mantis 8 Plus patinete eléctrico",
+    "keywords": [
+      "kaabo mantis 8 plus precio",
+      "kaabo mantis 8 plus ficha técnica",
+      "kaabo mantis 8 plus autonomía",
+      "kaabo mantis 8 plus opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar kaabo mantis 8 plus españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "cecotec-bongo-serie-z-city",
+    "title": "Cecotec Bongo Serie Z City: 55 km y 48 V por 550 €",
+    "excerpt": "El Cecotec Bongo Serie Z City declara 55 km con tecnología de 48 V, doble suspensión y doble disco por unos 550 €. El urbano equilibrado de Cecotec.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/cecotec-bongo-serie-z-city.webp",
+    "heroAlt": "Cecotec Bongo Serie Z City patinete eléctrico",
+    "keywords": [
+      "cecotec bongo serie z city precio",
+      "cecotec bongo serie z city ficha técnica",
+      "cecotec bongo serie z city autonomía",
+      "cecotec bongo serie z city opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar cecotec bongo serie z city españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "cecotec-bongo-serie-a-connected",
+    "title": "Cecotec Bongo A Connected: conectado por 299 €, a fondo",
+    "excerpt": "El Cecotec Bongo Serie A Connected suma conectividad al Serie A: batería extraíble, triple freno y unos 14 kg por 299 €. El superventas conectado.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/cecotec-bongo-serie-a-connected.webp",
+    "heroAlt": "Cecotec Bongo Serie A Connected patinete eléctrico",
+    "keywords": [
+      "cecotec bongo serie a connected precio",
+      "cecotec bongo serie a connected ficha técnica",
+      "cecotec bongo serie a connected autonomía",
+      "cecotec bongo serie a connected opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar cecotec bongo serie a connected españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "niu-kqi2-pro",
+    "title": "NIU KQi2 Pro: precio 499 € y 40 km declarados, análisis",
+    "excerpt": "El NIU KQi2 Pro ofrece 40 km, 365 Wh, tambor de bajo mantenimiento y la app de NIU por 499 €. El urbano honesto para ciudad llana, analizado a fondo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/niu-kqi2-pro.webp",
+    "heroAlt": "NIU KQi2 Pro patinete eléctrico",
+    "keywords": [
+      "niu kqi2 pro precio",
+      "niu kqi2 pro ficha técnica",
+      "niu kqi2 pro autonomía",
+      "niu kqi2 pro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar niu kqi2 pro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "navee-s60",
+    "title": "Navee S60: precio 699 €, 60 km y triple freno, análisis",
+    "excerpt": "El Navee S60 declara 60 km con 490 Wh, triple freno, intermitentes E-mark e IPX5 por 699 €. El SUV urbano de Navee para quien rueda mucho en ciudad.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/navee-s60.webp",
+    "heroAlt": "Navee S60 patinete eléctrico",
+    "keywords": [
+      "navee s60 precio",
+      "navee s60 ficha técnica",
+      "navee s60 autonomía",
+      "navee s60 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar navee s60 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "xiaomi-pro-2",
+    "title": "Xiaomi Mi Electric Scooter Pro 2 por 450 €: 45 km y 300 W",
+    "excerpt": "El Xiaomi Mi Electric Scooter Pro 2 cuesta 450 €: 45 km declarados (30 km reales estimados), motor de 300 W y 600 W de pico, batería de 474 Wh. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/xiaomi-pro-2.webp",
+    "heroAlt": "Xiaomi Mi Electric Scooter Pro 2 patinete eléctrico",
+    "keywords": [
+      "xiaomi mi electric scooter pro 2 precio",
+      "xiaomi mi electric scooter pro 2 ficha técnica",
+      "xiaomi mi electric scooter pro 2 autonomía",
+      "xiaomi mi electric scooter pro 2 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar xiaomi mi electric scooter pro 2 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "xiaomi-1s",
+    "title": "Xiaomi Mi Electric Scooter 1S: precio 450 €, 30 km y 250 W",
+    "excerpt": "El Xiaomi Mi Electric Scooter 1S cuesta 450 €: 30 km declarados (20 km reales estimados), motor de 250 W y 500 W de pico, batería de 280 Wh. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/xiaomi-1s.webp",
+    "heroAlt": "Xiaomi Mi Electric Scooter 1S patinete eléctrico",
+    "keywords": [
+      "xiaomi mi electric scooter 1s precio",
+      "xiaomi mi electric scooter 1s ficha técnica",
+      "xiaomi mi electric scooter 1s autonomía",
+      "xiaomi mi electric scooter 1s opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar xiaomi mi electric scooter 1s españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "xiaomi-essential",
+    "title": "Xiaomi Mi Electric Scooter Essential: precio 300 €",
+    "excerpt": "El Xiaomi Mi Electric Scooter Essential cuesta 300 €: 20 km declarados (13 km reales estimados), motor de 250 W y 500 W de pico, batería de 187 Wh. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/xiaomi-essential.webp",
+    "heroAlt": "Xiaomi Mi Electric Scooter Essential patinete eléctrico",
+    "keywords": [
+      "xiaomi mi electric scooter essential precio",
+      "xiaomi mi electric scooter essential ficha técnica",
+      "xiaomi mi electric scooter essential autonomía",
+      "xiaomi mi electric scooter essential opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar xiaomi mi electric scooter essential españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "cecotec-bongo-d30",
+    "title": "Cecotec Bongo D30: precio 279 €, ficha y análisis completo",
+    "excerpt": "El Cecotec Bongo D30 cuesta 279 €: 30 km declarados (20 km reales estimados), motor de 350 W y 650 W de pico, batería de 270 Wh. Ficha, mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/cecotec-bongo-d30.webp",
+    "heroAlt": "Cecotec Bongo D30 patinete eléctrico",
+    "keywords": [
+      "cecotec bongo d30 precio",
+      "cecotec bongo d30 ficha técnica",
+      "cecotec bongo d30 autonomía",
+      "cecotec bongo d30 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar cecotec bongo d30 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "smartgyro-speedway",
+    "title": "Smartgyro Speedway: 599 €, 50 km, 500 W y análisis",
+    "excerpt": "El Smartgyro Speedway cuesta 599 €: 50 km declarados (33 km reales estimados), motor de 500 W y 800 W de pico, batería de 624 Wh. Ficha, mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/smartgyro-speedway.webp",
+    "heroAlt": "Smartgyro Speedway patinete eléctrico",
+    "keywords": [
+      "smartgyro speedway precio",
+      "smartgyro speedway ficha técnica",
+      "smartgyro speedway autonomía",
+      "smartgyro speedway opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar smartgyro speedway españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "smartgyro-raptor-evo",
+    "title": "Smartgyro Raptor Evo: precio 999 €, 60 km y 1000 W",
+    "excerpt": "El Smartgyro Raptor Evo cuesta 999 €: 60 km declarados (40 km reales estimados), motor de 1000 W y 2000 W de pico, batería de 768 Wh. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/smartgyro-raptor-evo.webp",
+    "heroAlt": "Smartgyro Raptor Evo patinete eléctrico",
+    "keywords": [
+      "smartgyro raptor evo precio",
+      "smartgyro raptor evo ficha técnica",
+      "smartgyro raptor evo autonomía",
+      "smartgyro raptor evo opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar smartgyro raptor evo españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "smartgyro-k2-pro",
+    "title": "Smartgyro K2 Pro: precio 599 €, ficha y análisis completo",
+    "excerpt": "El Smartgyro K2 Pro cuesta 599 €: 60 km declarados (40 km reales estimados), motor de 900 W y 1000 W de pico, batería de 720 Wh. Ficha, mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/smartgyro-k2-pro.webp",
+    "heroAlt": "Smartgyro K2 Pro patinete eléctrico",
+    "keywords": [
+      "smartgyro k2 pro precio",
+      "smartgyro k2 pro ficha técnica",
+      "smartgyro k2 pro autonomía",
+      "smartgyro k2 pro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar smartgyro k2 pro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "dualtron-victor",
+    "title": "Dualtron Victor: 1.899 €, 100 km, 2400 W y análisis",
+    "excerpt": "El Dualtron Victor cuesta 1.899 €: 100 km declarados (65 km reales estimados), motor de 2400 W y 4000 W de pico, batería de 1800 Wh. Ficha, mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/dualtron-victor.webp",
+    "heroAlt": "Dualtron Victor patinete eléctrico",
+    "keywords": [
+      "dualtron victor precio",
+      "dualtron victor ficha técnica",
+      "dualtron victor autonomía",
+      "dualtron victor opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar dualtron victor españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "dualtron-thunder-2",
+    "title": "Dualtron Thunder 2: precio 3.599 €, 170 km y 1000 W",
+    "excerpt": "El Dualtron Thunder 2 cuesta 3.599 €: 170 km declarados (115 km reales estimados), motor de 1000 W y 10080 W de pico, batería de 2880 Wh. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/dualtron-thunder-2.webp",
+    "heroAlt": "Dualtron Thunder 2 patinete eléctrico",
+    "keywords": [
+      "dualtron thunder 2 precio",
+      "dualtron thunder 2 ficha técnica",
+      "dualtron thunder 2 autonomía",
+      "dualtron thunder 2 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar dualtron thunder 2 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "dualtron-achilleus-limited",
+    "title": "Dualtron Achilleus Limited: precio 2.599 €, 120 km y 1000 W",
+    "excerpt": "El Dualtron Achilleus Limited cuesta 2.599 €: 120 km declarados (80 km reales estimados), motor de 1000 W y 4648 W de pico, batería de 2100 Wh. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/dualtron-achilleus-limited.webp",
+    "heroAlt": "Dualtron Achilleus Limited patinete eléctrico",
+    "keywords": [
+      "dualtron achilleus limited precio",
+      "dualtron achilleus limited ficha técnica",
+      "dualtron achilleus limited autonomía",
+      "dualtron achilleus limited opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar dualtron achilleus limited españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "kaabo-wolf-king-gt-pro",
+    "title": "Kaabo Wolf King GT Pro: precio 3.699 €, 180 km y 4000 W",
+    "excerpt": "El Kaabo Wolf King GT Pro cuesta 3.699 €: 180 km declarados (120 km reales estimados), motor de 4000 W y 8400 W de pico, batería de 2520 Wh. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/kaabo-wolf-king-gt-pro.webp",
+    "heroAlt": "Kaabo Wolf King GT Pro patinete eléctrico",
+    "keywords": [
+      "kaabo wolf king gt pro precio",
+      "kaabo wolf king gt pro ficha técnica",
+      "kaabo wolf king gt pro autonomía",
+      "kaabo wolf king gt pro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar kaabo wolf king gt pro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "kaabo-wolf-warrior-11",
+    "title": "Kaabo Wolf Warrior 11: precio 2.699 €, 90 km y 2400 W",
+    "excerpt": "El Kaabo Wolf Warrior 11 cuesta 2.699 €: 90 km declarados (60 km reales estimados), motor de 2400 W y 5400 W de pico, batería de 1560 Wh. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/kaabo-wolf-warrior-11.webp",
+    "heroAlt": "Kaabo Wolf Warrior 11 patinete eléctrico",
+    "keywords": [
+      "kaabo wolf warrior 11 precio",
+      "kaabo wolf warrior 11 ficha técnica",
+      "kaabo wolf warrior 11 autonomía",
+      "kaabo wolf warrior 11 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar kaabo wolf warrior 11 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "vsett-11-plus-super",
+    "title": "Vsett 11+ Super: 2.599 €, 90 km, 4000 W y análisis",
+    "excerpt": "El Vsett 11+ Super cuesta 2.599 €: 90 km declarados (60 km reales estimados), motor de 4000 W y 6960 W de pico, batería de 2520 Wh. Ficha, mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/vsett-11-plus-super.webp",
+    "heroAlt": "Vsett 11+ Super patinete eléctrico",
+    "keywords": [
+      "vsett 11+ super precio",
+      "vsett 11+ super ficha técnica",
+      "vsett 11+ super autonomía",
+      "vsett 11+ super opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar vsett 11+ super españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "apollo-phantom-v3",
+    "title": "Apollo Phantom V3: 2.099 €, 64 km, 2400 W y análisis",
+    "excerpt": "El Apollo Phantom V3 cuesta 2.099 €: 64 km declarados (45 km reales estimados), motor de 2400 W y 3200 W de pico, batería de 1217 Wh. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/apollo-phantom-v3.webp",
+    "heroAlt": "Apollo Phantom V3 patinete eléctrico",
+    "keywords": [
+      "apollo phantom v3 precio",
+      "apollo phantom v3 ficha técnica",
+      "apollo phantom v3 autonomía",
+      "apollo phantom v3 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar apollo phantom v3 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "apollo-go-stellar",
+    "title": "Apollo Go Stellar: 649 €, 51 km, 1000 W y análisis",
+    "excerpt": "El Apollo Go Stellar cuesta 649 €: 51 km declarados (35 km reales estimados), motor de 1000 W y 2000 W de pico, batería de 646 Wh. Ficha, mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/apollo-go-stellar.webp",
+    "heroAlt": "Apollo Go Stellar patinete eléctrico",
+    "keywords": [
+      "apollo go stellar precio",
+      "apollo go stellar ficha técnica",
+      "apollo go stellar autonomía",
+      "apollo go stellar opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar apollo go stellar españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "inokim-oxo",
+    "title": "Inokim OXO: precio 2.599 €, ficha y análisis completo",
+    "excerpt": "El Inokim OXO cuesta 2.599 €: 110 km declarados (74 km reales estimados), motor de 2000 W y 2600 W de pico, batería de 1536 Wh. Ficha, mantenimiento, pros.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/inokim-oxo.webp",
+    "heroAlt": "Inokim OXO patinete eléctrico",
+    "keywords": [
+      "inokim oxo precio",
+      "inokim oxo ficha técnica",
+      "inokim oxo autonomía",
+      "inokim oxo opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar inokim oxo españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "inokim-quick-4",
+    "title": "Inokim Quick 4 Super: precio 1.699 €, 70 km y 600 W",
+    "excerpt": "El Inokim Quick 4 Super cuesta 1.699 €: 70 km declarados (47 km reales estimados), motor de 600 W y 1100 W de pico, batería de 832 Wh. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/inokim-quick-4.webp",
+    "heroAlt": "Inokim Quick 4 Super patinete eléctrico",
+    "keywords": [
+      "inokim quick 4 super precio",
+      "inokim quick 4 super ficha técnica",
+      "inokim quick 4 super autonomía",
+      "inokim quick 4 super opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar inokim quick 4 super españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "etwow-gt-sl",
+    "title": "E-Twow GT SL: precio 799 €, ficha y análisis completo",
+    "excerpt": "El E-Twow GT SL (Smart Edition) cuesta 799 €: 30 km declarados (20 km reales estimados), motor de 700 W y 700 W de pico, batería de 374 Wh. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/etwow-gt-sl.webp",
+    "heroAlt": "E-Twow GT SL (Smart Edition) patinete eléctrico",
+    "keywords": [
+      "e-twow gt sl (smart edition) precio",
+      "e-twow gt sl (smart edition) ficha técnica",
+      "e-twow gt sl (smart edition) autonomía",
+      "e-twow gt sl (smart edition) opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar e-twow gt sl (smart edition) españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "etwow-booster-s",
+    "title": "E-Twow Booster S: precio 799 €, ficha y análisis completo",
+    "excerpt": "El E-Twow Booster S cuesta 799 €: 22 km declarados (15 km reales estimados), motor de 500 W y 800 W de pico, batería de 313 Wh. Ficha, mantenimiento, pros.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/etwow-booster-s.webp",
+    "heroAlt": "E-Twow Booster S patinete eléctrico",
+    "keywords": [
+      "e-twow booster s precio",
+      "e-twow booster s ficha técnica",
+      "e-twow booster s autonomía",
+      "e-twow booster s opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar e-twow booster s españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "joyor-s5",
+    "title": "Joyor S5-Z: precio 519 €, ficha y análisis completo",
+    "excerpt": "El Joyor S5-Z cuesta 519 €: 45 km declarados (30 km reales estimados), motor de 600 W y 800 W de pico, batería de 624 Wh. Ficha, mantenimiento, pros y.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/joyor-s5.webp",
+    "heroAlt": "Joyor S5-Z patinete eléctrico",
+    "keywords": [
+      "joyor s5-z precio",
+      "joyor s5-z ficha técnica",
+      "joyor s5-z autonomía",
+      "joyor s5-z opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar joyor s5-z españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "joyor-y8s",
+    "title": "Joyor Y8-S: precio 529 €, ficha y análisis completo",
+    "excerpt": "El Joyor Y8-S cuesta 529 €: 90 km declarados (60 km reales estimados), motor de 500 W y 810 W de pico, batería de 1248 Wh. Ficha, mantenimiento, pros y.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/joyor-y8s.webp",
+    "heroAlt": "Joyor Y8-S patinete eléctrico",
+    "keywords": [
+      "joyor y8-s precio",
+      "joyor y8-s ficha técnica",
+      "joyor y8-s autonomía",
+      "joyor y8-s opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar joyor y8-s españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "iscooter-ix3",
+    "title": "iScooter iX3: precio 357 €, ficha y análisis completo",
+    "excerpt": "El iScooter iX3 cuesta 357 €: 40 km declarados (27 km reales estimados), motor de 800 W y 800 W de pico, batería de 480 Wh. Ficha, mantenimiento, pros y.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/iscooter-ix3.webp",
+    "heroAlt": "iScooter iX3 patinete eléctrico",
+    "keywords": [
+      "iscooter ix3 precio",
+      "iscooter ix3 ficha técnica",
+      "iscooter ix3 autonomía",
+      "iscooter ix3 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar iscooter ix3 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "iscooter-i10",
+    "title": "iScooter i10: precio 429 €, ficha y análisis completo",
+    "excerpt": "El iScooter i10 cuesta 429 €: 45 km declarados (30 km reales estimados), motor de 650 W y 750 W de pico, batería de 540 Wh. Ficha, mantenimiento, pros y.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/iscooter-i10.webp",
+    "heroAlt": "iScooter i10 patinete eléctrico",
+    "keywords": [
+      "iscooter i10 precio",
+      "iscooter i10 ficha técnica",
+      "iscooter i10 autonomía",
+      "iscooter i10 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar iscooter i10 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "hiboy-s2-max",
+    "title": "Hiboy S2 Max: precio 549 €, ficha y análisis completo",
+    "excerpt": "El Hiboy S2 Max cuesta 549 €: 65 km declarados (44 km reales estimados), motor de 500 W y 650 W de pico, batería de 557 Wh. Ficha, mantenimiento, pros y.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/hiboy-s2-max.webp",
+    "heroAlt": "Hiboy S2 Max patinete eléctrico",
+    "keywords": [
+      "hiboy s2 max precio",
+      "hiboy s2 max ficha técnica",
+      "hiboy s2 max autonomía",
+      "hiboy s2 max opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar hiboy s2 max españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "hiboy-titan-pro",
+    "title": "Hiboy Titan Pro: precio 649 €, ficha y análisis completo",
+    "excerpt": "El Hiboy Titan Pro cuesta 649 €: 129 km declarados (88 km reales estimados), motor de 1500 W y 2400 W de pico, batería de 1728 Wh. Ficha, mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/hiboy-titan-pro.webp",
+    "heroAlt": "Hiboy Titan Pro patinete eléctrico",
+    "keywords": [
+      "hiboy titan pro precio",
+      "hiboy titan pro ficha técnica",
+      "hiboy titan pro autonomía",
+      "hiboy titan pro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar hiboy titan pro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "turboant-x7-pro",
+    "title": "TurboAnt X7 Pro: precio 549 €, ficha y análisis completo",
+    "excerpt": "El TurboAnt X7 Pro cuesta 549 €: 48 km declarados (32 km reales estimados), motor de 350 W y 500 W de pico, batería de 360 Wh. Ficha, mantenimiento, pros.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/turboant-x7-pro.webp",
+    "heroAlt": "TurboAnt X7 Pro patinete eléctrico",
+    "keywords": [
+      "turboant x7 pro precio",
+      "turboant x7 pro ficha técnica",
+      "turboant x7 pro autonomía",
+      "turboant x7 pro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar turboant x7 pro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "turboant-v8",
+    "title": "TurboAnt V8: precio 499 €, ficha y análisis completo",
+    "excerpt": "El TurboAnt V8 cuesta 499 €: 80 km declarados (54 km reales estimados), motor de 450 W y 650 W de pico, batería de 540 Wh. Ficha, mantenimiento, pros y.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/turboant-v8.webp",
+    "heroAlt": "TurboAnt V8 patinete eléctrico",
+    "keywords": [
+      "turboant v8 precio",
+      "turboant v8 ficha técnica",
+      "turboant v8 autonomía",
+      "turboant v8 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar turboant v8 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "gotrax-g4",
+    "title": "Gotrax G4: precio 449 €, ficha y análisis completo",
+    "excerpt": "El Gotrax G4 cuesta 449 €: 40 km declarados (27 km reales estimados), motor de 500 W y 500 W de pico, batería de 374 Wh. Ficha, mantenimiento, pros y.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/gotrax-g4.webp",
+    "heroAlt": "Gotrax G4 patinete eléctrico",
+    "keywords": [
+      "gotrax g4 precio",
+      "gotrax g4 ficha técnica",
+      "gotrax g4 autonomía",
+      "gotrax g4 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar gotrax g4 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "razor-e300s",
+    "title": "Razor E300S con asiento: precio 399,91 € y análisis",
+    "excerpt": "Razor E300S por 399,91 € en España: asiento desmontable, chasis de acero, ruedas de 10 pulgadas y batería de plomo de 24 V. Análisis honesto.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/razor-e300s.webp",
+    "heroAlt": "Razor E300S patinete eléctrico con asiento",
+    "keywords": [
+      "razor e300s precio",
+      "razor e300s opiniones",
+      "patinete electrico con asiento",
+      "razor e300s ficha tecnica",
+      "patinete razor 399 euros",
+      "razor e300s autonomia"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "aovopro-es80",
+    "title": "Aovopro ES80: precio 196 €, 350 W y 35 km de autonomía",
+    "excerpt": "Aovopro ES80 por unos 196 €: 350 W, batería de 378 Wh, 35 km declarados, 12 kg y ruedas macizas antipinchazos. El patinete barato, sin humo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/aovopro-es80.webp",
+    "heroAlt": "Aovopro ES80 patinete eléctrico",
+    "keywords": [
+      "aovopro es80 precio",
+      "aovopro es80 opiniones",
+      "patinete electrico barato 200 euros",
+      "aovopro es80 autonomia",
+      "aovopro es80 ficha tecnica",
+      "patinete aovopro es80 aliexpress"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "isinwheel-s9",
+    "title": "iSinwheel S9 Max por 320 €: 500 W, 40 km y sin pinchazos",
+    "excerpt": "iSinwheel S9 Max por 319,99 € oficiales: 500 W, 437 Wh, 40 km declarados y ruedas de panal de 10 pulgadas. Equilibrio calidad-precio.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/isinwheel-s9.webp",
+    "heroAlt": "iSinwheel S9 Max patinete eléctrico",
+    "keywords": [
+      "isinwheel s9 max precio",
+      "isinwheel s9 opiniones",
+      "patinete isinwheel s9 max autonomia",
+      "isinwheel s9 max ficha tecnica",
+      "patinete 500w barato",
+      "isinwheel españa"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "smartgyro-speedway-pro",
+    "title": "Smartgyro Speedway Pro: 699 €, certificado y 60 km",
+    "excerpt": "Smartgyro Speedway Pro: certificado DGT A1060, 800 W, 720 Wh, 60 km declarados, doble suspensión e intermitentes por unos 699 €. Análisis.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/smartgyro-speedway-pro.webp",
+    "heroAlt": "Smartgyro Speedway Pro patinete eléctrico",
+    "keywords": [
+      "smartgyro speedway pro precio",
+      "smartgyro speedway pro opiniones",
+      "smartgyro speedway pro certificado dgt",
+      "smartgyro speedway pro autonomia",
+      "patinete smartgyro 800w",
+      "speedway pro ficha tecnica"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "segway-max-g2-e-cert",
+    "title": "Segway Max G2 E: 70 km y certificado DGT por 1.190 €",
+    "excerpt": "Segway Max G2 E certificado B1007: 70 km declarados, 551 Wh, suspensión hidráulica, intermitentes y Apple Find My por unos 1.190 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/segway-max-g2-e-cert.webp",
+    "heroAlt": "Segway-Ninebot KickScooter Max G2 E patinete eléctrico",
+    "keywords": [
+      "segway max g2 e precio",
+      "segway max g2 e certificado dgt",
+      "ninebot max g2 opiniones",
+      "segway max g2 autonomia",
+      "max g2 e ficha tecnica",
+      "patinete segway homologado"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "segway-zt3-pro-e-cert",
+    "title": "Segway ZT3 Pro E: 1.600 W de pico y DGT por solo 689 €",
+    "excerpt": "Segway ZT3 Pro E: 650 W y 1.600 W de pico, ruedas todoterreno de 11 pulgadas, doble suspensión y certificado B1078 por 689 €. Análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/segway-zt3-pro-e-cert.webp",
+    "heroAlt": "Segway-Ninebot KickScooter ZT3 Pro E patinete eléctrico",
+    "keywords": [
+      "segway zt3 pro e precio",
+      "segway zt3 pro opiniones",
+      "zt3 pro e certificado dgt",
+      "segway zt3 pro autonomia",
+      "patinete todoterreno homologado",
+      "zt3 pro ficha tecnica"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "cecotec-bongo-y65",
+    "title": "Cecotec Bongo Y65: 65 km y triple frenada por 515 €",
+    "excerpt": "Cecotec Bongo Y65 Connected: certificado A1056, 65 km declarados, 624 Wh, triple frenada, doble suspensión y app por 515 €. Análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/cecotec-bongo-y65.webp",
+    "heroAlt": "Cecotec Bongo Y65 Connected patinete eléctrico",
+    "keywords": [
+      "cecotec bongo y65 precio",
+      "cecotec bongo y65 opiniones",
+      "bongo y65 connected autonomia",
+      "bongo y65 certificado dgt",
+      "cecotec bongo y65 ficha tecnica",
+      "patinete cecotec 65 km"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "cecotec-bongo-y45",
+    "title": "Cecotec Bongo Y45 Connected: homologado por solo 469 €",
+    "excerpt": "Cecotec Bongo Y45 Connected: 469 € oficiales, certificado A1129, doble suspensión, doble disco y app con detección de caídas. Análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/cecotec-bongo-y45.webp",
+    "heroAlt": "Cecotec Bongo Y45 Connected patinete eléctrico",
+    "keywords": [
+      "cecotec bongo y45 precio",
+      "cecotec bongo y45 opiniones",
+      "bongo y45 connected certificado",
+      "bongo y45 autonomia",
+      "patinete homologado barato cecotec",
+      "bongo y45 ficha tecnica"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "zwheel-zfox-max",
+    "title": "Zwheel ZFox Max: 16,5 kg homologado por 499 €, análisis",
+    "excerpt": "Zwheel ZFox Max: 16,5 kg con certificado A1068, 540 Wh, 50 km declarados, intermitentes y doble suspensión por 499 €. Análisis completo y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/zwheel-zfox-max.webp",
+    "heroAlt": "Zwheel ZFox Max patinete eléctrico",
+    "keywords": [
+      "zwheel zfox max precio",
+      "zwheel zfox max opiniones",
+      "zfox max certificado dgt",
+      "patinete homologado ligero",
+      "zwheel zfox max autonomia",
+      "zfox max ficha tecnica"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "smartgyro-crossover-dual-max-2",
+    "title": "Smartgyro Crossover Dual Max 2: doble motor por 799 €",
+    "excerpt": "Smartgyro Crossover Dual Max 2: doble motor 2x500 W, tracción total, certificado A1176, 720 Wh e intermitentes por 799 €. Análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/smartgyro-crossover-dual-max-2.webp",
+    "heroAlt": "Smartgyro Crossover Dual Max 2 patinete eléctrico",
+    "keywords": [
+      "smartgyro crossover dual max 2 precio",
+      "crossover dual max 2 opiniones",
+      "patinete doble motor homologado",
+      "smartgyro crossover certificado dgt",
+      "dual max 2 autonomia",
+      "crossover dual max ficha tecnica"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "kukirin-g2-pro",
+    "title": "KuKirin G2 Pro VMP: 65 km homologados por solo 499 €",
+    "excerpt": "KuKirin G2 Pro VMP: certificado A1156, 65 km declarados, 720 Wh, doble suspensión y ruedas todoterreno de 9 pulgadas por 499 €. Análisis.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/kukirin-g2-pro.webp",
+    "heroAlt": "KuKirin G2 Pro patinete eléctrico",
+    "keywords": [
+      "kukirin g2 pro precio",
+      "kukirin g2 pro vmp opiniones",
+      "kugoo kirin g2 pro homologado",
+      "kukirin g2 pro autonomia",
+      "g2 pro certificado dgt",
+      "kukirin g2 pro ficha tecnica"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "iscooter-i9max",
+    "title": "iScooter i9Max: el homologado más barato, solo 265 €",
+    "excerpt": "iScooter i9Max por unos 265 €: certificado B1086, ruedas sólidas antipinchazos, doble suspensión y 16,3 kg. El homologado barato. Análisis.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/iscooter-i9max.webp",
+    "heroAlt": "iScooter i9Max patinete eléctrico",
+    "keywords": [
+      "iscooter i9max precio",
+      "iscooter i9max opiniones",
+      "iscooter i9max homologado dgt",
+      "patinete homologado mas barato",
+      "i9max autonomia",
+      "iscooter i9max ficha tecnica"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "dualtron-victor-60v",
+    "title": "Dualtron Victor 60V: 1.440 Wh, ABS y DGT por 1.799 €",
+    "excerpt": "Dualtron Victor 60V: 1.440 Wh, 80 km declarados, frenos hidráulicos con ABS, suspensión regulable y certificado B1058 por 1.799 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/dualtron-victor-60v.webp",
+    "heroAlt": "Dualtron Victor 60V patinete eléctrico",
+    "keywords": [
+      "dualtron victor 60v precio",
+      "dualtron victor opiniones",
+      "dualtron victor homologado dgt",
+      "dualtron victor autonomia",
+      "victor 60v ficha tecnica",
+      "patinete dualtron certificado"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "kaabo-mantis-king-gt",
+    "title": "Kaabo Mantis King GT: 90 km, 4.000 W y DGT, 2.695 €",
+    "excerpt": "Kaabo Mantis King GT: batería Samsung de 1.440 Wh, 90 km declarados, 4.000 W de pico y certificado A1098 por 2.695 €. Análisis completo y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/kaabo-mantis-king-gt.webp",
+    "heroAlt": "Kaabo Mantis King GT patinete eléctrico",
+    "keywords": [
+      "kaabo mantis king gt precio",
+      "kaabo mantis king gt opiniones",
+      "mantis king gt certificado dgt",
+      "kaabo mantis king gt autonomia",
+      "mantis king gt ficha tecnica",
+      "patinete kaabo homologado"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "gotrax-gmax-ultra",
+    "title": "Gotrax GMAX Ultra: precio 749 €, ficha y análisis completo",
+    "excerpt": "El Gotrax GMAX Ultra cuesta 749 €: 72 km declarados (49 km reales estimados), motor de 350 W y 500 W de pico, batería de 630 Wh. Ficha, mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/gotrax-gmax-ultra.webp",
+    "heroAlt": "Gotrax GMAX Ultra patinete eléctrico",
+    "keywords": [
+      "gotrax gmax ultra precio",
+      "gotrax gmax ultra ficha técnica",
+      "gotrax gmax ultra autonomía",
+      "gotrax gmax ultra opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar gotrax gmax ultra españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "razor-e-prime-iii",
+    "title": "Razor E Prime III: precio 329 €, ficha y análisis completo",
+    "excerpt": "El Razor E Prime III cuesta 329 €: 24 km declarados (16 km reales estimados), motor de 250 W y 350 W de pico, batería de 378 Wh. Ficha, mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/razor-e-prime-iii.webp",
+    "heroAlt": "Razor E Prime III patinete eléctrico",
+    "keywords": [
+      "razor e prime iii precio",
+      "razor e prime iii ficha técnica",
+      "razor e prime iii autonomía",
+      "razor e prime iii opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar razor e prime iii españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "inmotion-climber",
+    "title": "Inmotion Climber: precio 542 €, ficha y análisis completo",
+    "excerpt": "El Inmotion Climber cuesta 542 €: 55 km declarados (37 km reales estimados), motor de 900 W y 1500 W de pico, batería de 533 Wh. Ficha, mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/inmotion-climber.webp",
+    "heroAlt": "Inmotion Climber patinete eléctrico",
+    "keywords": [
+      "inmotion climber precio",
+      "inmotion climber ficha técnica",
+      "inmotion climber autonomía",
+      "inmotion climber opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar inmotion climber españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "xiaomi-5-elite",
+    "title": "Xiaomi Electric Scooter 5 Elite: precio 499 €, 45 km y 400 W",
+    "excerpt": "El Xiaomi Electric Scooter 5 Elite cuesta 499 €: 45 km declarados (29 km reales estimados), motor de 400 W y 700 W de pico, batería de 360 Wh. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/xiaomi-5-elite.webp",
+    "heroAlt": "Xiaomi Electric Scooter 5 Elite patinete eléctrico",
+    "keywords": [
+      "xiaomi electric scooter 5 elite precio",
+      "xiaomi electric scooter 5 elite ficha técnica",
+      "xiaomi electric scooter 5 elite autonomía",
+      "xiaomi electric scooter 5 elite opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar xiaomi electric scooter 5 elite españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 9
+  },
+  {
+    "slug": "segway-ninebot-e3",
+    "title": "Segway E3: precio 549 €, ficha y análisis completo",
+    "excerpt": "El Segway Ninebot E3 cuesta 549 €: 45 km declarados (29 km reales estimados), motor de 400 W y 800 W de pico, batería de 276 Wh. Ficha, mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/segway-ninebot-e3.webp",
+    "heroAlt": "Segway Ninebot E3 patinete eléctrico",
+    "keywords": [
+      "segway ninebot e3 precio",
+      "segway ninebot e3 ficha técnica",
+      "segway ninebot e3 autonomía",
+      "segway ninebot e3 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar segway ninebot e3 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "navee-s65c",
+    "title": "Navee S65C: precio 749 €, ficha y análisis completo",
+    "excerpt": "El Navee S65C cuesta 749 €: 65 km declarados (42 km reales estimados), motor de 450 W y 900 W de pico, batería de 540 Wh. Ficha, mantenimiento, pros y.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/navee-s65c.webp",
+    "heroAlt": "Navee S65C patinete eléctrico",
+    "keywords": [
+      "navee s65c precio",
+      "navee s65c ficha técnica",
+      "navee s65c autonomía",
+      "navee s65c opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar navee s65c españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 9
+  },
+  {
+    "slug": "niu-kqi-air",
+    "title": "Niu KQi Air: precio 779 €, ficha y análisis completo",
+    "excerpt": "El Niu KQi Air cuesta 779 €: 50 km declarados (33 km reales estimados), motor de 350 W y 700 W de pico, batería de 451 Wh. Ficha, mantenimiento, pros y.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/niu-kqi-air.webp",
+    "heroAlt": "Niu KQi Air patinete eléctrico",
+    "keywords": [
+      "niu kqi air precio",
+      "niu kqi air ficha técnica",
+      "niu kqi air autonomía",
+      "niu kqi air opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar niu kqi air españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 9
+  },
+  {
+    "slug": "cecotec-bongo-m40",
+    "title": "Cecotec Bongo M40 XL: 429 €, 40 km, 350 W y análisis",
+    "excerpt": "El Cecotec Bongo M40 XL cuesta 429 €: 40 km declarados (26 km reales estimados), motor de 350 W y 700 W de pico, batería de 360 Wh. Ficha, mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/cecotec-bongo-m40.webp",
+    "heroAlt": "Cecotec Bongo M40 XL patinete eléctrico",
+    "keywords": [
+      "cecotec bongo m40 xl precio",
+      "cecotec bongo m40 xl ficha técnica",
+      "cecotec bongo m40 xl autonomía",
+      "cecotec bongo m40 xl opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar cecotec bongo m40 xl españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "dualtron-popular",
+    "title": "Dualtron Popular: precio 949 €, ficha y análisis completo",
+    "excerpt": "El Dualtron Popular cuesta 949 €: 27 km declarados (18 km reales estimados), motor de 500 W, batería de 1040 Wh. Ficha, mantenimiento, pros y contras.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/dualtron-popular.webp",
+    "heroAlt": "Dualtron Popular patinete eléctrico",
+    "keywords": [
+      "dualtron popular precio",
+      "dualtron popular ficha técnica",
+      "dualtron popular autonomía",
+      "dualtron popular opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar dualtron popular españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "kaabo-skywalker-8h",
+    "title": "Kaabo Skywalker 8H: 749 €, 50 km, 500 W y análisis",
+    "excerpt": "El Kaabo Skywalker 8H cuesta 749 €: 50 km declarados (33 km reales estimados), motor de 500 W, batería de 624 Wh. Ficha, mantenimiento, pros y contras.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/kaabo-skywalker-8h.webp",
+    "heroAlt": "Kaabo Skywalker 8H patinete eléctrico",
+    "keywords": [
+      "kaabo skywalker 8h precio",
+      "kaabo skywalker 8h ficha técnica",
+      "kaabo skywalker 8h autonomía",
+      "kaabo skywalker 8h opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar kaabo skywalker 8h españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "vsett-9-plus-r",
+    "title": "Vsett 9+R: precio 1.299 €, ficha y análisis completo",
+    "excerpt": "El Vsett 9+R cuesta 1.299 €: 60 km declarados (30 km reales estimados), motor de 1300 W, batería de 749 Wh. Ficha, mantenimiento, pros y contras.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/vsett-9-plus-r.webp",
+    "heroAlt": "Vsett 9+R patinete eléctrico",
+    "keywords": [
+      "vsett 9+r precio",
+      "vsett 9+r ficha técnica",
+      "vsett 9+r autonomía",
+      "vsett 9+r opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar vsett 9+r españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "kukirin-g3-pro",
+    "title": "KuKirin G3 Pro: 2.400 W, 80 km y doble motor por 949 €",
+    "excerpt": "El KuKirin G3 Pro suma 2.400 W con doble motor, batería de 1.196 Wh y 80 km declarados por 949 € de referencia. Ojo: sus 65 km/h lo dejan fuera del VMP.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/kukirin-g3-pro.webp",
+    "heroAlt": "KuKirin G3 Pro patinete eléctrico",
+    "keywords": [
+      "kukirin g3 pro precio",
+      "kukirin g3 pro ficha técnica",
+      "kukirin g3 pro autonomía",
+      "kukirin g3 pro opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "kukirin g3 pro comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "isinwheel-gt2",
+    "title": "iSinwheel GT2: 800 W, ruedas de 11″ y 60 km por 589 €",
+    "excerpt": "El iSinwheel GT2 monta 800 W, batería de 720 Wh, ruedas off-road de 11″ y admite 150 kg por 589 € en la tienda europea. Su límite: 45 km/h sin limitar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/isinwheel-gt2.webp",
+    "heroAlt": "iSinwheel GT2 patinete eléctrico",
+    "keywords": [
+      "isinwheel gt2 precio",
+      "isinwheel gt2 ficha técnica",
+      "isinwheel gt2 autonomía",
+      "isinwheel gt2 opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "isinwheel gt2 comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "hiboy-s2r-plus",
+    "title": "Hiboy S2R Plus: batería extraíble y 14,3 kg por 449 €",
+    "excerpt": "El Hiboy S2R Plus apuesta por la batería extraíble de 313 Wh, solo 14,3 kg y ruedas hinchables de 9″ por 449 € de referencia. Sin venta oficial en España.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/hiboy-s2r-plus.webp",
+    "heroAlt": "Hiboy S2R Plus patinete eléctrico",
+    "keywords": [
+      "hiboy s2r plus precio",
+      "hiboy s2r plus ficha técnica",
+      "hiboy s2r plus autonomía",
+      "hiboy s2r plus opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "hiboy s2r plus comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "joyor-s10s",
+    "title": "Joyor S10-S: doble motor, 2.000 W y 85 km por 656 €",
+    "excerpt": "El Joyor S10-S junta doble motor de 2.000 W, batería de 1.080 Wh y 85 km declarados por 656 € en oferta. Aviso: 65 km/h, no es un VMP legal en España.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/joyor-s10s.webp",
+    "heroAlt": "Joyor S10-S patinete eléctrico",
+    "keywords": [
+      "joyor s10-s precio",
+      "joyor s10-s ficha técnica",
+      "joyor s10-s autonomía",
+      "joyor s10-s opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "joyor s10-s comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "etwow-gt-sport",
+    "title": "E-Twow GT Sport: 500 W, solo 13,2 kg y 45 km, 999 €",
+    "excerpt": "El E-Twow GT Sport presume de 500 W con batería Samsung de 504 Wh y solo 13,2 kg por 999 € en España. El ligero de plegado en 3 segundos, analizado.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/etwow-gt-sport.webp",
+    "heroAlt": "E-Twow GT Sport patinete eléctrico",
+    "keywords": [
+      "e-twow gt sport precio",
+      "e-twow gt sport ficha técnica",
+      "e-twow gt sport autonomía",
+      "e-twow gt sport opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "e-twow gt sport comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "inokim-ox-hero",
+    "title": "Inokim OX Hero: 1.000 W, 780 Wh y 60 km por 1.600 €",
+    "excerpt": "El Inokim OX Hero combina 1.000 W, batería LG de 780 Wh, suspensión ajustable y 60 km declarados por 1.600 € en Europa. El SUV de los patinetes, a fondo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/inokim-ox-hero.webp",
+    "heroAlt": "Inokim OX Hero patinete eléctrico",
+    "keywords": [
+      "inokim ox hero precio",
+      "inokim ox hero ficha técnica",
+      "inokim ox hero autonomía",
+      "inokim ox hero opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "inokim ox hero comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "segway-ninebot-f3",
+    "title": "Segway Ninebot F3: 70 km y doble suspensión por 549 €",
+    "excerpt": "El Segway Ninebot F3 declara 70 km con SegRange, doble suspensión y pantalla TFT con navegación por 549 € en España. El commuter redondo de Segway.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/segway-ninebot-f3.webp",
+    "heroAlt": "Segway Ninebot F3 patinete eléctrico",
+    "keywords": [
+      "segway ninebot f3 precio",
+      "segway ninebot f3 ficha técnica",
+      "segway ninebot f3 autonomía",
+      "segway ninebot f3 opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "segway ninebot f3 comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "navee-v50",
+    "title": "Navee V50: 50 km, plegado compacto y AirTag por 549 €",
+    "excerpt": "El Navee V50 declara 50 km, se pliega reduciendo su volumen un 66 % y esconde un hueco para AirTag por 549 €. Bien pensado, con un pero legal en España.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/navee-v50.webp",
+    "heroAlt": "Navee V50 patinete eléctrico",
+    "keywords": [
+      "navee v50 precio",
+      "navee v50 ficha técnica",
+      "navee v50 autonomía",
+      "navee v50 opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "navee v50 comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "niu-kqi-100f",
+    "title": "NIU KQi 100F: manillar plegable e intermitentes, 429 €",
+    "excerpt": "El NIU KQi 100F pliega hasta el manillar, que se estrecha a 18,4 cm, lleva intermitentes y suspensión por 429 € de referencia. Sin venta oficial en España.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/niu-kqi-100f.webp",
+    "heroAlt": "Niu KQi 100F patinete eléctrico",
+    "keywords": [
+      "niu kqi 100f precio",
+      "niu kqi 100f ficha técnica",
+      "niu kqi 100f autonomía",
+      "niu kqi 100f opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "niu kqi 100f comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "dualtron-dolphin",
+    "title": "Dualtron Dolphin: 540 Wh Samsung y 21 kg por 700 €",
+    "excerpt": "El Dualtron Dolphin es el MiniMotors ligero: batería Samsung de 540 Wh, doble suspensión y 21 kg por 700 €. ADN prestacional en formato urbano.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/dualtron-dolphin.webp",
+    "heroAlt": "Dualtron Dolphin patinete eléctrico",
+    "keywords": [
+      "dualtron dolphin precio",
+      "dualtron dolphin ficha técnica",
+      "dualtron dolphin autonomía",
+      "dualtron dolphin opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "dualtron dolphin comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "inokim-mini-2",
+    "title": "Inokim Mini 2: solo 10,4 kg y ruedas trolley por 649 €",
+    "excerpt": "El Inokim Mini 2 pesa 10,4 kg, se arrastra como una maleta con ruedas trolley y carga en 4 horas por 649 € de referencia. El rey ligero tiene límites.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/inokim-mini-2.webp",
+    "heroAlt": "Inokim Mini 2 patinete eléctrico",
+    "keywords": [
+      "inokim mini 2 precio",
+      "inokim mini 2 ficha técnica",
+      "inokim mini 2 autonomía",
+      "inokim mini 2 opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "inokim mini 2 comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "joyor-g5",
+    "title": "Joyor G5: 624 Wh y doble suspensión por solo 379 €",
+    "excerpt": "El Joyor G5 ofrece batería de 624 Wh, 500 W, doble suspensión y 55 km declarados por 379 €. Sobre el papel es un chollo; en España no es legal en la calle.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/joyor-g5.webp",
+    "heroAlt": "Joyor G5 patinete eléctrico",
+    "keywords": [
+      "joyor g5 precio",
+      "joyor g5 ficha técnica",
+      "joyor g5 autonomía",
+      "joyor g5 opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "joyor g5 comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "iscooter-ix6",
+    "title": "iScooter iX6: 1.000 W, 840 Wh y ruedas 11″ por 849 €",
+    "excerpt": "El iScooter iX6 junta 1.000 W, batería de 840 Wh, ruedas off-road de 11″ y subida del 35 % por 849 € de referencia. Potencia privada, no VMP español.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/iscooter-ix6.webp",
+    "heroAlt": "iScooter iX6 patinete eléctrico",
+    "keywords": [
+      "iscooter ix6 precio",
+      "iscooter ix6 ficha técnica",
+      "iscooter ix6 autonomía",
+      "iscooter ix6 opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "iscooter ix6 comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "hiboy-ks4-pro",
+    "title": "Hiboy KS4 Pro: 500 W y neumáticos antipinchazos, 599 €",
+    "excerpt": "El Hiboy KS4 Pro ofrece 500 W, 40 km declarados y neumáticos honeycomb de 10″ sin pinchazos por 599 € de referencia. Superventas americano que no es VMP.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/hiboy-ks4-pro.webp",
+    "heroAlt": "Hiboy KS4 Pro patinete eléctrico",
+    "keywords": [
+      "hiboy ks4 pro precio",
+      "hiboy ks4 pro ficha técnica",
+      "hiboy ks4 pro autonomía",
+      "hiboy ks4 pro opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "hiboy ks4 pro comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "kukirin-g2-master",
+    "title": "KuKirin G2 Master: doble motor, 2.000 W y 70 km, 749 €",
+    "excerpt": "El KuKirin G2 Master suma doble motor de 2.000 W, batería de 1.081 Wh y 70 km declarados por 749 € de referencia. Solo para uso privado en España.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/kukirin-g2-master.webp",
+    "heroAlt": "KuKirin G2 Master patinete eléctrico",
+    "keywords": [
+      "kukirin g2 master precio",
+      "kukirin g2 master ficha técnica",
+      "kukirin g2 master autonomía",
+      "kukirin g2 master opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "kukirin g2 master comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "isinwheel-s9max",
+    "title": "iSinwheel S9Max: 500 W y doble suspensión por 449 €",
+    "excerpt": "El iSinwheel S9Max ofrece 500 W con pico de 900 W, doble suspensión, app e intermitentes por 449 € de referencia. Su modo Sport lo deja fuera del VMP.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/isinwheel-s9max.webp",
+    "heroAlt": "iSinwheel S9Max patinete eléctrico",
+    "keywords": [
+      "isinwheel s9max precio",
+      "isinwheel s9max ficha técnica",
+      "isinwheel s9max autonomía",
+      "isinwheel s9max opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "isinwheel s9max comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "turboant-m10-pro",
+    "title": "TurboAnt M10 Pro: 48 km declarados y 375 Wh por 449 €",
+    "excerpt": "El TurboAnt M10 Pro presume de 48 km declarados con 375 Wh, un 57 % más que el Lite, por 449 € de referencia en EE. UU. En España no es VMP legal.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/turboant-m10-pro.webp",
+    "heroAlt": "TurboAnt M10 Pro patinete eléctrico",
+    "keywords": [
+      "turboant m10 pro precio",
+      "turboant m10 pro ficha técnica",
+      "turboant m10 pro autonomía",
+      "turboant m10 pro opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "turboant m10 pro comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "pure-air-pro-lr",
+    "title": "Pure Air Pro LR: 60 km y plataforma de madera, 749 €",
+    "excerpt": "El Pure Air Pro LR declara 60 km con 518 Wh y plataforma de madera de abedul y arce por 749 € de referencia. Premium británico sin encaje legal aquí.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/pure-air-pro-lr.webp",
+    "heroAlt": "Pure Air Pro LR patinete eléctrico",
+    "keywords": [
+      "pure air pro lr precio",
+      "pure air pro lr ficha técnica",
+      "pure air pro lr autonomía",
+      "pure air pro lr opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "pure air pro lr comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "egret-pro",
+    "title": "Egret Pro: 840 Wh Samsung y frenos hidráulicos, 1.299 €",
+    "excerpt": "El Egret Pro es ingeniería alemana: batería Samsung de 840 Wh, 80 km declarados, frenos hidráulicos de 120 mm y acabados premium por 1.299 € de referencia.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/egret-pro.webp",
+    "heroAlt": "Egret Pro patinete eléctrico",
+    "keywords": [
+      "egret pro precio",
+      "egret pro ficha técnica",
+      "egret pro autonomía",
+      "egret pro opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "egret pro comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "teverun-fighter-mini",
+    "title": "Teverun Fighter Mini: doble motor y 60 km por 1.299 €",
+    "excerpt": "El Teverun Fighter Mini mete doble motor de 2.000 W, 1.081 Wh, frenos hidráulicos y TFT en formato compacto por 1.299 € de referencia. No es VMP.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/teverun-fighter-mini.webp",
+    "heroAlt": "Teverun Fighter Mini patinete eléctrico",
+    "keywords": [
+      "teverun fighter mini precio",
+      "teverun fighter mini ficha técnica",
+      "teverun fighter mini autonomía",
+      "teverun fighter mini opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "teverun fighter mini comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "kugoo-kirin-m4-pro",
+    "title": "Kugoo Kirin M4 Pro: 600 Wh y 150 kg de carga por 549 €",
+    "excerpt": "El Kugoo Kirin M4 Pro ofrece batería de 600 Wh, hasta 60 km declarados, 150 kg de carga máxima y hasta sillín por 549 € de referencia. Un clásico privado.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/kugoo-kirin-m4-pro.webp",
+    "heroAlt": "Kugoo Kirin M4 Pro patinete eléctrico",
+    "keywords": [
+      "kugoo kirin m4 pro precio",
+      "kugoo kirin m4 pro ficha técnica",
+      "kugoo kirin m4 pro autonomía",
+      "kugoo kirin m4 pro opiniones",
+      "patinete eléctrico",
+      "patinete homologado dgt",
+      "kugoo kirin m4 pro comprar",
+      "comparador patinetes"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "apollo-city-pro-2024",
+    "title": "Apollo City Pro: 1.149 €, 61 km, 1000 W y análisis",
+    "excerpt": "El Apollo City Pro cuesta 1.149 €: 61 km declarados (40 km reales estimados), motor de 1000 W y 2000 W de pico, batería de 960 Wh. Ficha, mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/apollo-city-pro-2024.webp",
+    "heroAlt": "Apollo City Pro patinete eléctrico",
+    "keywords": [
+      "apollo city pro precio",
+      "apollo city pro ficha técnica",
+      "apollo city pro autonomía",
+      "apollo city pro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar apollo city pro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "apollo-phantom-v4",
+    "title": "Apollo Phantom V4: 2.599 €, 80 km, 2400 W y análisis",
+    "excerpt": "El Apollo Phantom V4 cuesta 2.599 €: 80 km declarados (52 km reales estimados), motor de 2400 W y 2400 W de pico, batería de 1217 Wh. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/apollo-phantom-v4.webp",
+    "heroAlt": "Apollo Phantom V4 patinete eléctrico",
+    "keywords": [
+      "apollo phantom v4 precio",
+      "apollo phantom v4 ficha técnica",
+      "apollo phantom v4 autonomía",
+      "apollo phantom v4 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar apollo phantom v4 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 9
+  },
+  {
+    "slug": "gotrax-apex",
+    "title": "Gotrax Apex: precio 399 €, ficha y análisis completo",
+    "excerpt": "El Gotrax Apex cuesta 399 €: 24 km declarados (16 km reales estimados), motor de 250 W y 300 W de pico, batería de 216 Wh. Ficha, mantenimiento, pros y.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/gotrax-apex.webp",
+    "heroAlt": "Gotrax Apex patinete eléctrico",
+    "keywords": [
+      "gotrax apex precio",
+      "gotrax apex ficha técnica",
+      "gotrax apex autonomía",
+      "gotrax apex opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar gotrax apex españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "xiaomi-electric-scooter-4-go",
+    "title": "Xiaomi Electric Scooter 4 Go: precio 299,99 €, 18 km y 250 W",
+    "excerpt": "El Xiaomi Electric Scooter 4 Go cuesta 299,99 €: 18 km declarados (12 km reales estimados), motor de 250 W y 450 W de pico, batería de 275 Wh. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/xiaomi-electric-scooter-4-go.webp",
+    "heroAlt": "Xiaomi Electric Scooter 4 Go patinete eléctrico",
+    "keywords": [
+      "xiaomi electric scooter 4 go precio",
+      "xiaomi electric scooter 4 go ficha técnica",
+      "xiaomi electric scooter 4 go autonomía",
+      "xiaomi electric scooter 4 go opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar xiaomi electric scooter 4 go españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "teverun-blade-mini-ultra",
+    "title": "Teverun Blade Mini Ultra: precio 1.499 €, 90 km y 2000 W",
+    "excerpt": "El Teverun Blade Mini Ultra cuesta 1.499 €: 90 km declarados (60 km reales estimados), motor de 2000 W y 3300 W de pico, batería de 1620 Wh. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/teverun-blade-mini-ultra.webp",
+    "heroAlt": "Teverun Blade Mini Ultra patinete eléctrico",
+    "keywords": [
+      "teverun blade mini ultra precio",
+      "teverun blade mini ultra ficha técnica",
+      "teverun blade mini ultra autonomía",
+      "teverun blade mini ultra opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar teverun blade mini ultra españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "kingsong-n12-pro",
+    "title": "Kingsong N12 Pro: precio 999 €, ficha y análisis completo",
+    "excerpt": "El Kingsong N12 Pro cuesta 999 €: 80 km declarados (54 km reales estimados), motor de 1000 W y 1400 W de pico, batería de 858 Wh. Ficha, mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/kingsong-n12-pro.webp",
+    "heroAlt": "Kingsong N12 Pro patinete eléctrico",
+    "keywords": [
+      "kingsong n12 pro precio",
+      "kingsong n12 pro ficha técnica",
+      "kingsong n12 pro autonomía",
+      "kingsong n12 pro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar kingsong n12 pro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "nami-burn-e-2",
+    "title": "Nami Burn-E 2 Max Viper: precio 3.681,80 €, 150 km y 3000 W",
+    "excerpt": "El Nami Burn-E 2 Max Viper cuesta 3.681,80 €: 150 km declarados (100 km reales estimados), motor de 3000 W y 8400 W de pico, batería de 2016 Wh. Ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/nami-burn-e-2.webp",
+    "heroAlt": "Nami Burn-E 2 Max Viper patinete eléctrico",
+    "keywords": [
+      "nami burn-e 2 max viper precio",
+      "nami burn-e 2 max viper ficha técnica",
+      "nami burn-e 2 max viper autonomía",
+      "nami burn-e 2 max viper opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar nami burn-e 2 max viper españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 9
+  },
+  {
+    "slug": "kaabo-mantis-10-lite",
+    "title": "Kaabo Mantis 10 Lite: precio 1.190 €, 50 km y 800 W",
+    "excerpt": "El Kaabo Mantis 10 Lite cuesta 1.190 €: 50 km declarados (33 km reales estimados), motor de 800 W, batería de 874 Wh. Ficha, mantenimiento, pros y contras.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/kaabo-mantis-10-lite.webp",
+    "heroAlt": "Kaabo Mantis 10 Lite patinete eléctrico",
+    "keywords": [
+      "kaabo mantis 10 lite precio",
+      "kaabo mantis 10 lite ficha técnica",
+      "kaabo mantis 10 lite autonomía",
+      "kaabo mantis 10 lite opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar kaabo mantis 10 lite españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "iscooter-i10-max",
+    "title": "iScooter i10 Max: precio 479 €, ficha y análisis completo",
+    "excerpt": "El iScooter i10 Max cuesta 479 €: 80 km declarados (54 km reales estimados), motor de 750 W, batería de 864 Wh. Ficha, mantenimiento, pros y contras.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/iscooter-i10-max.webp",
+    "heroAlt": "iScooter i10 Max patinete eléctrico",
+    "keywords": [
+      "iscooter i10 max precio",
+      "iscooter i10 max ficha técnica",
+      "iscooter i10 max autonomía",
+      "iscooter i10 max opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar iscooter i10 max españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "zwheel-zlion-pro",
+    "title": "ZWheel ZLion Pro: precio 400 €, ficha y análisis completo",
+    "excerpt": "El ZWheel ZLion Pro cuesta 400 €: 45 km declarados (31 km reales estimados), motor de 600 W y 1200 W de pico, batería de 600 Wh. Ficha, mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/zwheel-zlion-pro.webp",
+    "heroAlt": "ZWheel ZLion Pro patinete eléctrico",
+    "keywords": [
+      "zwheel zlion pro precio",
+      "zwheel zlion pro ficha técnica",
+      "zwheel zlion pro autonomía",
+      "zwheel zlion pro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar zwheel zlion pro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "zwheel-zrino-se",
+    "title": "ZWheel Zrido SE: precio 600 €, ficha y análisis completo",
+    "excerpt": "El ZWheel Zrido SE cuesta 600 €: 35 km declarados (24 km reales estimados), motor de 600 W y 1200 W de pico, batería de 480 Wh. Ficha, mantenimiento, pros.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/zwheel-zrino-se.webp",
+    "heroAlt": "ZWheel Zrido SE patinete eléctrico",
+    "keywords": [
+      "zwheel zrido se precio",
+      "zwheel zrido se ficha técnica",
+      "zwheel zrido se autonomía",
+      "zwheel zrido se opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar zwheel zrido se españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "zwheel-zcougar",
+    "title": "ZWheel ZCougar: precio 830 €, ficha y análisis completo",
+    "excerpt": "El ZWheel ZCougar cuesta 830 €: 35 km declarados (24 km reales estimados), motor de 800 W y 1600 W de pico, batería de 480 Wh. Ficha, mantenimiento, pros.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/zwheel-zcougar.webp",
+    "heroAlt": "ZWheel ZCougar patinete eléctrico",
+    "keywords": [
+      "zwheel zcougar precio",
+      "zwheel zcougar ficha técnica",
+      "zwheel zcougar autonomía",
+      "zwheel zcougar opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar zwheel zcougar españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "navee-g5",
+    "title": "Navee G5 por 438 €: precio, ficha técnica y opinión",
+    "excerpt": "El Navee G5 cuesta 438 €: 45 km declarados (31 km reales estimados), motor de 400 W y 800 W de pico, batería de 275 Wh. Ficha, mantenimiento, pros y.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/navee-g5.webp",
+    "heroAlt": "Navee G5 patinete eléctrico",
+    "keywords": [
+      "navee g5 precio",
+      "navee g5 ficha técnica",
+      "navee g5 autonomía",
+      "navee g5 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar navee g5 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "navee-xt5-pro",
+    "title": "Navee XT5 Pro: precio 900 €, ficha y análisis completo",
+    "excerpt": "El Navee XT5 Pro cuesta 900 €: 75 km declarados (51 km reales estimados), motor de 700 W y 2200 W de pico, batería de 596 Wh. Ficha, mantenimiento, pros y.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/navee-xt5-pro.webp",
+    "heroAlt": "Navee XT5 Pro patinete eléctrico",
+    "keywords": [
+      "navee xt5 pro precio",
+      "navee xt5 pro ficha técnica",
+      "navee xt5 pro autonomía",
+      "navee xt5 pro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar navee xt5 pro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "zwheel-zrino-duo",
+    "title": "ZWheel Zrido Duo: precio 660 €, ficha y análisis completo",
+    "excerpt": "El ZWheel Zrido Duo cuesta 660 €: 45 km declarados (31 km reales estimados), motor de 1000 W y 2000 W de pico, batería de 600 Wh. Ficha, mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/zwheel-zrino-duo.webp",
+    "heroAlt": "ZWheel Zrido Duo patinete eléctrico",
+    "keywords": [
+      "zwheel zrido duo precio",
+      "zwheel zrido duo ficha técnica",
+      "zwheel zrido duo autonomía",
+      "zwheel zrido duo opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar zwheel zrido duo españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "lamborghini-al-ext",
+    "title": "Lamborghini AL-EXT: precio 753,34 €, 45 km y 500 W",
+    "excerpt": "El Lamborghini AL-EXT cuesta 753,34 €: 45 km declarados (30 km reales estimados), motor de 500 W, batería de 600 Wh. Ficha, mantenimiento, pros y contras.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/lamborghini-al-ext.webp",
+    "heroAlt": "Lamborghini AL-EXT patinete eléctrico",
+    "keywords": [
+      "lamborghini al-ext precio",
+      "lamborghini al-ext ficha técnica",
+      "lamborghini al-ext autonomía",
+      "lamborghini al-ext opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar lamborghini al-ext españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "mv-agusta-rapido-serie-oro",
+    "title": "MV Agusta Rapido Serie Oro: precio 999 €, 50 km y 500 W",
+    "excerpt": "El MV Agusta Rapido Serie Oro cuesta 999 €: 50 km declarados (34 km reales estimados), motor de 500 W, batería de 480 Wh. Ficha, mantenimiento, pros y.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/mv-agusta-rapido-serie-oro.webp",
+    "heroAlt": "MV Agusta Rapido Serie Oro patinete eléctrico",
+    "keywords": [
+      "mv agusta rapido serie oro precio",
+      "mv agusta rapido serie oro ficha técnica",
+      "mv agusta rapido serie oro autonomía",
+      "mv agusta rapido serie oro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar mv agusta rapido serie oro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "ienyrid-m4-pro-s-plus-max",
+    "title": "iENYRID M4 Pro S+ Max: precio 410 €, 60 km y 800 W",
+    "excerpt": "El iENYRID M4 Pro S+ Max cuesta 410 €: 60 km declarados (40 km reales estimados), motor de 800 W, batería de 960 Wh. Ficha, mantenimiento, pros y contras.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/ienyrid-m4-pro-s-plus-max.webp",
+    "heroAlt": "iENYRID M4 Pro S+ Max patinete eléctrico",
+    "keywords": [
+      "ienyrid m4 pro s+ max precio",
+      "ienyrid m4 pro s+ max ficha técnica",
+      "ienyrid m4 pro s+ max autonomía",
+      "ienyrid m4 pro s+ max opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar ienyrid m4 pro s+ max españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "ienyrid-s1",
+    "title": "iENYRID S1: precio 439 €, ficha y análisis completo",
+    "excerpt": "El iENYRID S1 cuesta 439 €: 40 km declarados (26 km reales estimados), motor de 700 W, batería de 720 Wh. Ficha, mantenimiento, pros y contras.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/ienyrid-s1.webp",
+    "heroAlt": "iENYRID S1 patinete eléctrico",
+    "keywords": [
+      "ienyrid s1 precio",
+      "ienyrid s1 ficha técnica",
+      "ienyrid s1 autonomía",
+      "ienyrid s1 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar ienyrid s1 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "sxt-light-gt",
+    "title": "SXT Light GT: precio 1.145 € y solo 11,9 kg, a examen",
+    "excerpt": "El SXT Light GT cuesta 1.145 € con 50 km declarados, motor de 500 W, 11,9 kg de peso. Autonomía real estimada de 33 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/sxt-light-gt.webp",
+    "heroAlt": "SXT Light GT patinete eléctrico",
+    "keywords": [
+      "sxt light gt precio",
+      "sxt light gt ficha técnica",
+      "sxt light gt autonomía",
+      "sxt light gt opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar sxt light gt españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "sxt-quick-4",
+    "title": "SXT Quick 4: 70 km y precio de 695 € en España 2026",
+    "excerpt": "El SXT Quick 4 cuesta 695 € con 70 km declarados, motor de 600 W, 22,5 kg de peso. Autonomía real estimada de 46 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/sxt-quick-4.webp",
+    "heroAlt": "SXT Quick 4 patinete eléctrico",
+    "keywords": [
+      "sxt quick 4 precio",
+      "sxt quick 4 ficha técnica",
+      "sxt quick 4 autonomía",
+      "sxt quick 4 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar sxt quick 4 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "sxt-h20-ekfv",
+    "title": "SXT H20 eKFV: 42 km y precio de 695 € en España 2026",
+    "excerpt": "El SXT H20 eKFV cuesta 695 € con 42 km declarados, motor de 500 W, 20,5 kg de peso. Autonomía real estimada de 28 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/sxt-h20-ekfv.webp",
+    "heroAlt": "SXT H20 eKFV patinete eléctrico",
+    "keywords": [
+      "sxt h20 ekfv precio",
+      "sxt h20 ekfv ficha técnica",
+      "sxt h20 ekfv autonomía",
+      "sxt h20 ekfv opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar sxt h20 ekfv españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "sxt-h10-ekfv",
+    "title": "SXT H10 eKFV: 30 km y precio de 395 € en España 2026",
+    "excerpt": "El SXT H10 eKFV cuesta 395 € con 30 km declarados, motor de 340 W, 14,8 kg de peso. Autonomía real estimada de 20 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/sxt-h10-ekfv.webp",
+    "heroAlt": "SXT H10 eKFV patinete eléctrico",
+    "keywords": [
+      "sxt h10 ekfv precio",
+      "sxt h10 ekfv ficha técnica",
+      "sxt h10 ekfv autonomía",
+      "sxt h10 ekfv opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar sxt h10 ekfv españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "sxt-buddy-pro-ekfv",
+    "title": "SXT Buddy Pro eKFV: precio 1.195 € y 65 km, a examen",
+    "excerpt": "El SXT Buddy Pro eKFV cuesta 1.195 € con 65 km declarados, motor de 500 W, 21,8 kg de peso. Autonomía real estimada de 43 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/sxt-buddy-pro-ekfv.webp",
+    "heroAlt": "SXT Buddy Pro eKFV patinete eléctrico",
+    "keywords": [
+      "sxt buddy pro ekfv precio",
+      "sxt buddy pro ekfv ficha técnica",
+      "sxt buddy pro ekfv autonomía",
+      "sxt buddy pro ekfv opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar sxt buddy pro ekfv españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "sxt-beast-pro",
+    "title": "SXT Beast Pro: 60 km y precio de 2.895 € en España",
+    "excerpt": "El SXT Beast Pro cuesta 2.895 € con 60 km declarados, motor de 3.000 W, 39,9 kg de peso. Autonomía real estimada de 40 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/sxt-beast-pro.webp",
+    "heroAlt": "SXT Beast Pro patinete eléctrico",
+    "keywords": [
+      "sxt beast pro precio",
+      "sxt beast pro ficha técnica",
+      "sxt beast pro autonomía",
+      "sxt beast pro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar sxt beast pro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "velocifero-minimad-plus",
+    "title": "Velocifero MiniMad+ 500W: 45 km por 1.199 €, análisis",
+    "excerpt": "El Velocifero MiniMad+ 500W cuesta 1.199 € con 45 km declarados, motor de 500 W, 27 kg de peso. Autonomía real estimada de 30 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/velocifero-minimad-plus.webp",
+    "heroAlt": "Velocifero MiniMad+ 500W patinete eléctrico",
+    "keywords": [
+      "velocifero minimad+ 500w precio",
+      "velocifero minimad+ 500w ficha técnica",
+      "velocifero minimad+ 500w autonomía",
+      "velocifero minimad+ 500w opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar velocifero minimad+ 500w españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "ducati-pro-ii-evo",
+    "title": "Ducati Pro-II Evo por 699 €: 40 km y ficha completa",
+    "excerpt": "El Ducati Pro-II Evo cuesta 699 € con 40 km declarados, motor de 350 W, 16,7 kg de peso. Autonomía real estimada de 28 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/ducati-pro-ii-evo.webp",
+    "heroAlt": "Ducati Pro-II Evo patinete eléctrico",
+    "keywords": [
+      "ducati pro-ii evo precio",
+      "ducati pro-ii evo ficha técnica",
+      "ducati pro-ii evo autonomía",
+      "ducati pro-ii evo opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar ducati pro-ii evo españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "ducati-pro-iii",
+    "title": "Ducati Pro-III: 50 km y precio de 799 € en España 2026",
+    "excerpt": "El Ducati Pro-III cuesta 799 € con 50 km declarados, motor de 350 W, 17,5 kg de peso. Autonomía real estimada de 34 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/ducati-pro-iii.webp",
+    "heroAlt": "Ducati Pro-III patinete eléctrico",
+    "keywords": [
+      "ducati pro-iii precio",
+      "ducati pro-iii ficha técnica",
+      "ducati pro-iii autonomía",
+      "ducati pro-iii opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar ducati pro-iii españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "ducati-city-cross-e",
+    "title": "City Cross-E X Off-Road Edition: 45 km por 527 €, análisis",
+    "excerpt": "El City Cross-E X Off-Road Edition cuesta 527 € con 45 km declarados, motor de 350 W, 19 kg de peso. Autonomía real estimada de 30 km.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/ducati-city-cross-e.webp",
+    "heroAlt": "Ducati City Cross-E X Off-Road Edition patinete eléctrico",
+    "keywords": [
+      "ducati city cross-e x off-road edition precio",
+      "ducati city cross-e x off-road edition ficha técnica",
+      "ducati city cross-e x off-road edition autonomía",
+      "ducati city cross-e x off-road edition opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar ducati city cross-e x off-road edition españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "aprilia-esr1",
+    "title": "Aprilia eSR1: 25 km y precio de 499 € en España 2026",
+    "excerpt": "El Aprilia eSR1 cuesta 499 € con 25 km declarados, motor de 350 W, 15,6 kg de peso. Autonomía real estimada de 17 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/aprilia-esr1.webp",
+    "heroAlt": "Aprilia eSR1 patinete eléctrico",
+    "keywords": [
+      "aprilia esr1 precio",
+      "aprilia esr1 ficha técnica",
+      "aprilia esr1 autonomía",
+      "aprilia esr1 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar aprilia esr1 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "aprilia-esrz",
+    "title": "Aprilia eSRz por 634 €: solo 14 kg y ficha completa",
+    "excerpt": "El Aprilia eSRz cuesta 634 € con 25 km declarados, motor de 300 W, 14 kg de peso. Autonomía real estimada de 17 km y ficha técnica completa verificada con.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/aprilia-esrz.webp",
+    "heroAlt": "Aprilia eSRz patinete eléctrico",
+    "keywords": [
+      "aprilia esrz precio",
+      "aprilia esrz ficha técnica",
+      "aprilia esrz autonomía",
+      "aprilia esrz opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar aprilia esrz españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "jeep-2xe-adventurer",
+    "title": "Jeep 2XE Adventurer: precio 759 € y 40 km, a examen",
+    "excerpt": "El Jeep 2XE Adventurer cuesta 759 € con 40 km declarados, motor de 350 W. Autonomía real estimada de 27 km. Certificado DGT sin verificar en su ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/jeep-2xe-adventurer.webp",
+    "heroAlt": "Jeep 2XE Adventurer patinete eléctrico",
+    "keywords": [
+      "jeep 2xe adventurer precio",
+      "jeep 2xe adventurer ficha técnica",
+      "jeep 2xe adventurer autonomía",
+      "jeep 2xe adventurer opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar jeep 2xe adventurer españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "lamborghini-al1",
+    "title": "Lamborghini AL1: 30 km y precio de 499 € en España",
+    "excerpt": "El Lamborghini AL1 cuesta 499 € con 30 km declarados, motor de 350 W, 13 kg de peso. Autonomía real estimada de 20 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/lamborghini-al1.webp",
+    "heroAlt": "Lamborghini AL1 patinete eléctrico",
+    "keywords": [
+      "lamborghini al1 precio",
+      "lamborghini al1 ficha técnica",
+      "lamborghini al1 autonomía",
+      "lamborghini al1 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar lamborghini al1 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "ducati-pro-ii-plus",
+    "title": "Ducati Pro-II Plus: precio 822 € y 25 km, a examen",
+    "excerpt": "El Ducati Pro-II Plus cuesta 822 € con 25 km declarados, motor de 350 W. Autonomía real estimada de 17 km. Certificado DGT sin verificar en su ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/ducati-pro-ii-plus.webp",
+    "heroAlt": "Ducati Pro-II Plus patinete eléctrico",
+    "keywords": [
+      "ducati pro-ii plus precio",
+      "ducati pro-ii plus ficha técnica",
+      "ducati pro-ii plus autonomía",
+      "ducati pro-ii plus opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar ducati pro-ii plus españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "currus-nf11",
+    "title": "Currus NF11 Panther: precio 3.590 € y 110 km, a examen",
+    "excerpt": "El Currus NF11 Panther cuesta 3.590 € con 110 km declarados, motor de 2.400 W, 48 kg de peso. Autonomía real estimada de 72 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/currus-nf11.webp",
+    "heroAlt": "Currus NF11 Panther patinete eléctrico",
+    "keywords": [
+      "currus nf11 panther precio",
+      "currus nf11 panther ficha técnica",
+      "currus nf11 panther autonomía",
+      "currus nf11 panther opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar currus nf11 panther españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "zero-11x",
+    "title": "Zero 11X: 3.200 W y precio de 3.490 € en España 2026",
+    "excerpt": "El Zero 11X cuesta 3.490 € con 150 km declarados, motor de 3.200 W, 52 kg de peso. Autonomía real estimada de 100 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/zero-11x.webp",
+    "heroAlt": "Zero 11X patinete eléctrico",
+    "keywords": [
+      "zero 11x precio",
+      "zero 11x ficha técnica",
+      "zero 11x autonomía",
+      "zero 11x opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar zero 11x españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "bronco-xtreme-sport",
+    "title": "Bronco Xtreme Sport 72V: 120 km por 4.190 €, análisis",
+    "excerpt": "El Bronco Xtreme Sport 72V cuesta 4.190 € con 120 km declarados, 48 kg de peso. Autonomía real estimada de 80 km y ficha técnica completa verificada con.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/bronco-xtreme-sport.webp",
+    "heroAlt": "Bronco Xtreme Sport 72V patinete eléctrico",
+    "keywords": [
+      "bronco xtreme sport 72v precio",
+      "bronco xtreme sport 72v ficha técnica",
+      "bronco xtreme sport 72v autonomía",
+      "bronco xtreme sport 72v opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar bronco xtreme sport 72v españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
     "slug": "cecotec-bongo-d40-xl-connected",
     "title": "Bongo D40 XL Connected: 40 km y app por ~458 €",
     "excerpt": "El Cecotec Bongo D40 XL Connected por ~458 €: 40 km declarados, 360 Wh, ruedas de 10\" y app Connected. Ficha técnica y análisis.",
@@ -68716,6 +76257,386 @@ export const BLOG_LITE: BlogLitePost[] = [
       "vsett 2025"
     ],
     "readTime": 2
+  },
+  {
+    "slug": "joyor-c10",
+    "title": "Joyor C10: 40 km y precio de 549 € en España 2026 en España",
+    "excerpt": "El Joyor C10 cuesta 549 € con 40 km declarados, motor de 500 W, 19 kg de peso. Autonomía real estimada de 26 km. Certificado DGT verificado en su ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/joyor-c10.webp",
+    "heroAlt": "Joyor C10 patinete eléctrico",
+    "keywords": [
+      "joyor c10 precio",
+      "joyor c10 ficha técnica",
+      "joyor c10 autonomía",
+      "joyor c10 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar joyor c10 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "joyor-t-pro",
+    "title": "Joyor T-PRO: 1.000 W y precio de 749 € en España 2026",
+    "excerpt": "El Joyor T-PRO cuesta 749 € con 90 km declarados, motor de 1.000 W, 29,6 kg de peso. Autonomía real estimada de 60 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/joyor-t-pro.webp",
+    "heroAlt": "Joyor T-PRO patinete eléctrico",
+    "keywords": [
+      "joyor t-pro precio",
+      "joyor t-pro ficha técnica",
+      "joyor t-pro autonomía",
+      "joyor t-pro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar joyor t-pro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "joyor-luxerider",
+    "title": "Joyor LuxeRider: 60 km y precio de 849 € en España",
+    "excerpt": "El Joyor LuxeRider cuesta 849 € con 60 km declarados, motor de 2.400 W, 39 kg de peso. Autonomía real estimada de 40 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/joyor-luxerider.webp",
+    "heroAlt": "Joyor LuxeRider patinete eléctrico",
+    "keywords": [
+      "joyor luxerider precio",
+      "joyor luxerider ficha técnica",
+      "joyor luxerider autonomía",
+      "joyor luxerider opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar joyor luxerider españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "evercross-c3",
+    "title": "Evercross C3: 60 km y precio de 479,99 € en España",
+    "excerpt": "El Evercross C3 cuesta 479,99 € con 60 km declarados, motor de 800 W. Autonomía real estimada de 40 km. Certificado DGT sin verificar en su ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/evercross-c3.webp",
+    "heroAlt": "Evercross C3 patinete eléctrico",
+    "keywords": [
+      "evercross c3 precio",
+      "evercross c3 ficha técnica",
+      "evercross c3 autonomía",
+      "evercross c3 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar evercross c3 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "isinwheel-m2",
+    "title": "iSinwheel M2: 50 km y precio de 499,99 € en España",
+    "excerpt": "El iSinwheel M2 cuesta 499,99 € con 50 km declarados, motor de 800 W, 25,3 kg de peso. Autonomía real estimada de 33 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/isinwheel-m2.webp",
+    "heroAlt": "iSinwheel M2 patinete eléctrico",
+    "keywords": [
+      "isinwheel m2 precio",
+      "isinwheel m2 ficha técnica",
+      "isinwheel m2 autonomía",
+      "isinwheel m2 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar isinwheel m2 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "iscooter-if1",
+    "title": "iScooter iF1: 50 km y precio de 892,95 € en España",
+    "excerpt": "El iScooter iF1 cuesta 892,95 € con 50 km declarados, 22,7 kg de peso. Autonomía real estimada de 33 km y ficha técnica completa verificada con todos sus.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/iscooter-if1.webp",
+    "heroAlt": "iScooter iF1 patinete eléctrico",
+    "keywords": [
+      "iscooter if1 precio",
+      "iscooter if1 ficha técnica",
+      "iscooter if1 autonomía",
+      "iscooter if1 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar iscooter if1 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "joyor-s8-s",
+    "title": "Joyor S8-S: 1.200 W y precio de 879 € en España 2026",
+    "excerpt": "El Joyor S8-S cuesta 879 € con 90 km declarados, motor de 1.200 W, 28 kg de peso. Autonomía real estimada de 60 km y ficha técnica completa verificada con.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/joyor-s8-s.webp",
+    "heroAlt": "Joyor S8-S patinete eléctrico",
+    "keywords": [
+      "joyor s8-s precio",
+      "joyor s8-s ficha técnica",
+      "joyor s8-s autonomía",
+      "joyor s8-s opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar joyor s8-s españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "joyor-k4",
+    "title": "Joyor K4: 40 km y precio de 489 € en España 2026 en España",
+    "excerpt": "El Joyor K4 cuesta 489 € con 40 km declarados, motor de 500 W, 16,5 kg de peso. Autonomía real estimada de 26 km y ficha técnica completa verificada con.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/joyor-k4.webp",
+    "heroAlt": "Joyor K4 patinete eléctrico",
+    "keywords": [
+      "joyor k4 precio",
+      "joyor k4 ficha técnica",
+      "joyor k4 autonomía",
+      "joyor k4 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar joyor k4 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "joyor-e8-s",
+    "title": "Joyor E8-S: 3.200 W y precio de 1.699 € en España 2026",
+    "excerpt": "El Joyor E8-S cuesta 1.699 € con 100 km declarados, motor de 3.200 W, 50 kg de peso. Autonomía real estimada de 65 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/joyor-e8-s.webp",
+    "heroAlt": "Joyor E8-S patinete eléctrico",
+    "keywords": [
+      "joyor e8-s precio",
+      "joyor e8-s ficha técnica",
+      "joyor e8-s autonomía",
+      "joyor e8-s opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar joyor e8-s españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "joyor-e6-s",
+    "title": "Joyor E6-S: 3.200 W y precio de 1.589 € en España 2026",
+    "excerpt": "El Joyor E6-S cuesta 1.589 € con 85 km declarados, motor de 3.200 W. Autonomía real estimada de 55 km. Sin certificado DGT verificado: ojo a la legalidad.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/joyor-e6-s.webp",
+    "heroAlt": "Joyor E6-S patinete eléctrico",
+    "keywords": [
+      "joyor e6-s precio",
+      "joyor e6-s ficha técnica",
+      "joyor e6-s autonomía",
+      "joyor e6-s opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar joyor e6-s españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "yadea-ks3-lite",
+    "title": "Yadea KS3 Lite: precio 499 € y solo 14 kg, a examen",
+    "excerpt": "El Yadea KS3 Lite cuesta 499 € con 20 km declarados, motor de 300 W, 14 kg de peso. Autonomía real estimada de 13 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/yadea-ks3-lite.webp",
+    "heroAlt": "Yadea KS3 Lite patinete eléctrico",
+    "keywords": [
+      "yadea ks3 lite precio",
+      "yadea ks3 lite ficha técnica",
+      "yadea ks3 lite autonomía",
+      "yadea ks3 lite opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar yadea ks3 lite españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "aovopro-ap07",
+    "title": "AOVOPRO AP07 por 170 €: solo 12 kg y ficha completa",
+    "excerpt": "El AOVOPRO AP07 cuesta 170 € con 30 km declarados, motor de 350 W, 12 kg de peso. Autonomía real estimada de 20 km y ficha técnica completa verificada con.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/aovopro-ap07.webp",
+    "heroAlt": "AOVOPRO AP07 patinete eléctrico",
+    "keywords": [
+      "aovopro ap07 precio",
+      "aovopro ap07 ficha técnica",
+      "aovopro ap07 autonomía",
+      "aovopro ap07 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar aovopro ap07 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "hiley-maxspeed-x9",
+    "title": "Hiley Maxspeed X9 por 899 €: 40 km y ficha completa",
+    "excerpt": "El Hiley Maxspeed X9 cuesta 899 € con 40 km declarados, motor de 600 W, 23,7 kg de peso. Autonomía real estimada de 26 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/hiley-maxspeed-x9.webp",
+    "heroAlt": "Hiley Maxspeed X9 patinete eléctrico",
+    "keywords": [
+      "hiley maxspeed x9 precio",
+      "hiley maxspeed x9 ficha técnica",
+      "hiley maxspeed x9 autonomía",
+      "hiley maxspeed x9 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar hiley maxspeed x9 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "hiley-tiger-evo",
+    "title": "Hiley Tiger EVO: 60 km y precio de 899 € en España",
+    "excerpt": "El Hiley Tiger EVO cuesta 899 € con 60 km declarados, motor de 1.000 W. Autonomía real estimada de 39 km y ficha técnica completa verificada con todos sus.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/hiley-tiger-evo.webp",
+    "heroAlt": "Hiley Tiger EVO patinete eléctrico",
+    "keywords": [
+      "hiley tiger evo precio",
+      "hiley tiger evo ficha técnica",
+      "hiley tiger evo autonomía",
+      "hiley tiger evo opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar hiley tiger evo españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "hiley-tiger-evo-gtr",
+    "title": "Hiley Tiger EVO GTR: precio 1.299 € y 85 km, a examen",
+    "excerpt": "El Hiley Tiger EVO GTR cuesta 1.299 € con 85 km declarados, motor de 2.000 W, 28,5 kg de peso. Autonomía real estimada de 55 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/hiley-tiger-evo-gtr.webp",
+    "heroAlt": "Hiley Tiger EVO GTR patinete eléctrico",
+    "keywords": [
+      "hiley tiger evo gtr precio",
+      "hiley tiger evo gtr ficha técnica",
+      "hiley tiger evo gtr autonomía",
+      "hiley tiger evo gtr opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar hiley tiger evo gtr españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "hiley-tiger-king-rs",
+    "title": "Hiley Tiger KING RS: precio 2.899 € y 135 km, a examen",
+    "excerpt": "El Hiley Tiger KING RS cuesta 2.899 € con 135 km declarados, motor de 4.600 W. Autonomía real estimada de 88 km y ficha técnica completa verificada con.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/hiley-tiger-king-rs.webp",
+    "heroAlt": "Hiley Tiger KING RS patinete eléctrico",
+    "keywords": [
+      "hiley tiger king rs precio",
+      "hiley tiger king rs ficha técnica",
+      "hiley tiger king rs autonomía",
+      "hiley tiger king rs opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar hiley tiger king rs españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "kukirin-c1-pro",
+    "title": "KuKirin C1 Pro: 100 km y precio de 549 € en España",
+    "excerpt": "El KuKirin C1 Pro cuesta 549 € con 100 km declarados, motor de 500 W, 32,5 kg de peso. Autonomía real estimada de 65 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/kukirin-c1-pro.webp",
+    "heroAlt": "KuKirin C1 Pro patinete eléctrico",
+    "keywords": [
+      "kukirin c1 pro precio",
+      "kukirin c1 pro ficha técnica",
+      "kukirin c1 pro autonomía",
+      "kukirin c1 pro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar kukirin c1 pro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "nami-burn-e-2-max",
+    "title": "Nami Burn-E 2 Max: precio 3.950 € y 177 km, a examen",
+    "excerpt": "El Nami Burn-E 2 Max cuesta 3.950 € con 177 km declarados, motor de 3.000 W, 47 kg de peso. Autonomía real estimada de 80 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/nami-burn-e-2-max.webp",
+    "heroAlt": "Nami Burn-E 2 Max patinete eléctrico",
+    "keywords": [
+      "nami burn-e 2 max precio",
+      "nami burn-e 2 max ficha técnica",
+      "nami burn-e 2 max autonomía",
+      "nami burn-e 2 max opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar nami burn-e 2 max españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "teverun-fighter-mini-pro",
+    "title": "Teverun Fighter Mini Pro: 100 km por 1.999 €, análisis",
+    "excerpt": "El Teverun Fighter Mini Pro cuesta 1.999 € con 100 km declarados, motor de 2.000 W, 36 kg de peso. Autonomía real estimada de 65 km.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/teverun-fighter-mini-pro.webp",
+    "heroAlt": "Teverun Fighter Mini Pro patinete eléctrico",
+    "keywords": [
+      "teverun fighter mini pro precio",
+      "teverun fighter mini pro ficha técnica",
+      "teverun fighter mini pro autonomía",
+      "teverun fighter mini pro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar teverun fighter mini pro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 7
   },
   {
     "slug": "nami-burn-e-3-max",
@@ -70156,8 +78077,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/currus-nf-1.webp",
-    "heroAlt": "Currus NF negro, vista lateral completa del patinete",
+    "heroSrc": "/media/currus-nf11-hunt1.webp",
+    "heroAlt": "currus nf — fotografía del modelo",
     "keywords": [
       "currus nf",
       "currus nf precio",
@@ -70261,8 +78182,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/etwow-gt-se-sport-1.webp",
-    "heroAlt": "E-TWOW GT SE Sport negro, vista lateral completa del patinete",
+    "heroSrc": "/media/etwow-gt-se-hunt1.webp",
+    "heroAlt": "etwow gt se sport — fotografía del modelo",
     "keywords": [
       "e-twow gt se sport",
       "etwow gt se sport precio",
@@ -74225,6 +82146,986 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 2
   },
   {
+    "slug": "smartgyro-k5-pro",
+    "title": "Smartgyro K5 Pro por 679 €: 60 km y ficha completa",
+    "excerpt": "El Smartgyro K5 Pro cuesta 679 € con 60 km declarados, motor de 900 W. Autonomía real estimada de 40 km. Certificado DGT verificado en su ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/smartgyro-k5-pro.webp",
+    "heroAlt": "Smartgyro K5 Pro patinete eléctrico",
+    "keywords": [
+      "smartgyro k5 pro precio",
+      "smartgyro k5 pro ficha técnica",
+      "smartgyro k5 pro autonomía",
+      "smartgyro k5 pro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar smartgyro k5 pro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "cecotec-bongo-serie-s-plus-max-unlimited",
+    "title": "Bongo Serie S+ Max Unlimited: 40 km por 499 €, análisis",
+    "excerpt": "El Bongo Serie S+ Max Unlimited cuesta 499 € con 40 km declarados, motor de 350 W. Autonomía real estimada de 27 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/cecotec-bongo-serie-s-plus-max-unlimited.webp",
+    "heroAlt": "Cecotec Bongo Serie S+ Max Unlimited patinete eléctrico",
+    "keywords": [
+      "cecotec bongo serie s+ max unlimited precio",
+      "cecotec bongo serie s+ max unlimited ficha técnica",
+      "cecotec bongo serie s+ max unlimited autonomía",
+      "cecotec bongo serie s+ max unlimited opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar cecotec bongo serie s+ max unlimited españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "cecotec-bongo-x45-connected",
+    "title": "Cecotec Bongo X45 Connected: 45 km por 449 €, análisis",
+    "excerpt": "El Cecotec Bongo X45 Connected cuesta 449 € con 45 km declarados, motor de 350 W, 17,8 kg de peso. Autonomía real estimada de 30 km.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/cecotec-bongo-x45-connected.webp",
+    "heroAlt": "Cecotec Bongo X45 Connected patinete eléctrico",
+    "keywords": [
+      "cecotec bongo x45 connected precio",
+      "cecotec bongo x45 connected ficha técnica",
+      "cecotec bongo x45 connected autonomía",
+      "cecotec bongo x45 connected opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar cecotec bongo x45 connected españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "cecotec-bongo-v70-connected",
+    "title": "Cecotec Bongo V70 Connected: 70 km por 509 €, análisis",
+    "excerpt": "El Cecotec Bongo V70 Connected cuesta 509 € con 70 km declarados, motor de 800 W. Autonomía real estimada de 47 km. Certificado DGT verificado en su ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/cecotec-bongo-v70-connected.webp",
+    "heroAlt": "Cecotec Bongo V70 Connected patinete eléctrico",
+    "keywords": [
+      "cecotec bongo v70 connected precio",
+      "cecotec bongo v70 connected ficha técnica",
+      "cecotec bongo v70 connected autonomía",
+      "cecotec bongo v70 connected opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar cecotec bongo v70 connected españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "cecotec-bongo-z-mountain",
+    "title": "Cecotec Bongo Serie Z Mountain: 50 km por 523 €, análisis",
+    "excerpt": "El Cecotec Bongo Serie Z Mountain cuesta 523 € con 50 km declarados, motor de 500 W. Autonomía real estimada de 34 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/cecotec-bongo-z-mountain.webp",
+    "heroAlt": "Cecotec Bongo Serie Z Mountain patinete eléctrico",
+    "keywords": [
+      "cecotec bongo serie z mountain precio",
+      "cecotec bongo serie z mountain ficha técnica",
+      "cecotec bongo serie z mountain autonomía",
+      "cecotec bongo serie z mountain opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar cecotec bongo serie z mountain españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "cecotec-bongo-d20e-connected",
+    "title": "Cecotec Bongo D20E Connected: 20 km por 159 €, análisis",
+    "excerpt": "El Cecotec Bongo D20E Connected cuesta 159 € con 20 km declarados, motor de 250 W, 12,2 kg de peso. Autonomía real estimada de 13 km.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/cecotec-bongo-d20e-connected.webp",
+    "heroAlt": "Cecotec Bongo D20E Connected patinete eléctrico",
+    "keywords": [
+      "cecotec bongo d20e connected precio",
+      "cecotec bongo d20e connected ficha técnica",
+      "cecotec bongo d20e connected autonomía",
+      "cecotec bongo d20e connected opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar cecotec bongo d20e connected españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "cecotec-bongo-v55-2x2-connected",
+    "title": "Cecotec Bongo V55 2x2 Connected: 55 km por 559 €, análisis",
+    "excerpt": "El Cecotec Bongo V55 2x2 Connected cuesta 559 € con 55 km declarados, motor de 1.000 W, 31,4 kg de peso. Autonomía real estimada de 37 km.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/cecotec-bongo-v55-2x2-connected.webp",
+    "heroAlt": "Cecotec Bongo V55 2x2 Connected patinete eléctrico",
+    "keywords": [
+      "cecotec bongo v55 2x2 connected precio",
+      "cecotec bongo v55 2x2 connected ficha técnica",
+      "cecotec bongo v55 2x2 connected autonomía",
+      "cecotec bongo v55 2x2 connected opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar cecotec bongo v55 2x2 connected españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "cecotec-bongo-gs65-2x2-xxl-connected",
+    "title": "Bongo GS65 2x2 XXL Connected: 65 km por 449 €, análisis",
+    "excerpt": "El Bongo GS65 2x2 XXL Connected cuesta 449 € con 65 km declarados, motor de 750 W. Autonomía real estimada de 44 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/cecotec-bongo-gs65-2x2-xxl-connected.webp",
+    "heroAlt": "Cecotec Bongo GS65 2x2 XXL Connected patinete eléctrico",
+    "keywords": [
+      "cecotec bongo gs65 2x2 xxl connected precio",
+      "cecotec bongo gs65 2x2 xxl connected ficha técnica",
+      "cecotec bongo gs65 2x2 xxl connected autonomía",
+      "cecotec bongo gs65 2x2 xxl connected opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar cecotec bongo gs65 2x2 xxl connected españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "cecotec-bongo-serie-z-power-city",
+    "title": "Cecotec Bongo Serie Z Power City: 65 km por 629 €, análisis",
+    "excerpt": "El Cecotec Bongo Serie Z Power City cuesta 629 € con 65 km declarados, motor de 800 W. Autonomía real estimada de 44 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/cecotec-bongo-serie-z-power-city.webp",
+    "heroAlt": "Cecotec Bongo Serie Z Power City patinete eléctrico",
+    "keywords": [
+      "cecotec bongo serie z power city precio",
+      "cecotec bongo serie z power city ficha técnica",
+      "cecotec bongo serie z power city autonomía",
+      "cecotec bongo serie z power city opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar cecotec bongo serie z power city españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "navee-nt5-max",
+    "title": "NAVEE NT5 Max: 85 km y precio de 649 € en España 2026",
+    "excerpt": "El NAVEE NT5 Max cuesta 649 € con 85 km declarados, motor de 700 W, 33,5 kg de peso. Autonomía real estimada de 57 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/navee-nt5-max.webp",
+    "heroAlt": "NAVEE NT5 Max patinete eléctrico",
+    "keywords": [
+      "navee nt5 max precio",
+      "navee nt5 max ficha técnica",
+      "navee nt5 max autonomía",
+      "navee nt5 max opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar navee nt5 max españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "navee-gt5-max",
+    "title": "NAVEE GT5 Max: 90 km y precio de 549 € en España 2026",
+    "excerpt": "El NAVEE GT5 Max cuesta 549 € con 90 km declarados, motor de 600 W, 24,8 kg de peso. Autonomía real estimada de 60 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/navee-gt5-max.webp",
+    "heroAlt": "NAVEE GT5 Max patinete eléctrico",
+    "keywords": [
+      "navee gt5 max precio",
+      "navee gt5 max ficha técnica",
+      "navee gt5 max autonomía",
+      "navee gt5 max opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar navee gt5 max españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "navee-gt5-pro",
+    "title": "NAVEE GT5 Pro: 75 km y precio de 449 € en España 2026",
+    "excerpt": "El NAVEE GT5 Pro cuesta 449 € con 75 km declarados, motor de 600 W, 24,9 kg de peso. Autonomía real estimada de 50 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/navee-gt5-pro.webp",
+    "heroAlt": "NAVEE GT5 Pro patinete eléctrico",
+    "keywords": [
+      "navee gt5 pro precio",
+      "navee gt5 pro ficha técnica",
+      "navee gt5 pro autonomía",
+      "navee gt5 pro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar navee gt5 pro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "navee-st5-max",
+    "title": "NAVEE ST5 Max: 90 km y precio de 699 € en España 2026",
+    "excerpt": "El NAVEE ST5 Max cuesta 699 € con 90 km declarados, motor de 700 W, 25,4 kg de peso. Autonomía real estimada de 60 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/navee-st5-max.webp",
+    "heroAlt": "NAVEE ST5 Max patinete eléctrico",
+    "keywords": [
+      "navee st5 max precio",
+      "navee st5 max ficha técnica",
+      "navee st5 max autonomía",
+      "navee st5 max opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar navee st5 max españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "navee-st5-pro",
+    "title": "NAVEE ST5 Pro: 75 km y precio de 649 € en España 2026",
+    "excerpt": "El NAVEE ST5 Pro cuesta 649 € con 75 km declarados, motor de 600 W, 24,8 kg de peso. Autonomía real estimada de 50 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/navee-st5-pro.webp",
+    "heroAlt": "NAVEE ST5 Pro patinete eléctrico",
+    "keywords": [
+      "navee st5 pro precio",
+      "navee st5 pro ficha técnica",
+      "navee st5 pro autonomía",
+      "navee st5 pro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar navee st5 pro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "navee-g5-max",
+    "title": "NAVEE G5 Max: precio 429 € y 1.000 W de pico, a examen",
+    "excerpt": "El NAVEE G5 Max cuesta 429 € con 70 km declarados, 22,6 kg de peso. Autonomía real estimada de 47 km. Certificado DGT verificado en su ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/navee-g5-max.webp",
+    "heroAlt": "NAVEE G5 Max patinete eléctrico",
+    "keywords": [
+      "navee g5 max precio",
+      "navee g5 max ficha técnica",
+      "navee g5 max autonomía",
+      "navee g5 max opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar navee g5 max españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "navee-g5-pro",
+    "title": "NAVEE G5 Pro: 55 km y precio de 399 € en España 2026",
+    "excerpt": "El NAVEE G5 Pro cuesta 399 € con 55 km declarados, motor de 400 W, 21,2 kg de peso. Autonomía real estimada de 37 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/navee-g5-pro.webp",
+    "heroAlt": "NAVEE G5 Pro patinete eléctrico",
+    "keywords": [
+      "navee g5 pro precio",
+      "navee g5 pro ficha técnica",
+      "navee g5 pro autonomía",
+      "navee g5 pro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar navee g5 pro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "navee-n65i-ii",
+    "title": "NAVEE N65i II: 70 km y precio de 549 € en España 2026",
+    "excerpt": "El NAVEE N65i II cuesta 549 € con 70 km declarados, motor de 500 W, 23,6 kg de peso. Autonomía real estimada de 47 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/navee-n65i-ii.webp",
+    "heroAlt": "NAVEE N65i II patinete eléctrico",
+    "keywords": [
+      "navee n65i ii precio",
+      "navee n65i ii ficha técnica",
+      "navee n65i ii autonomía",
+      "navee n65i ii opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar navee n65i ii españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "navee-xt5-ultra",
+    "title": "NAVEE XT5 Ultra por 1.199 €: 90 km y ficha completa",
+    "excerpt": "El NAVEE XT5 Ultra cuesta 1.199 € con 90 km declarados, 38,6 kg de peso. Autonomía real estimada de 60 km. Certificado DGT verificado en su ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/navee-xt5-ultra.webp",
+    "heroAlt": "NAVEE XT5 Ultra patinete eléctrico",
+    "keywords": [
+      "navee xt5 ultra precio",
+      "navee xt5 ultra ficha técnica",
+      "navee xt5 ultra autonomía",
+      "navee xt5 ultra opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar navee xt5 ultra españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "navee-ut5-max",
+    "title": "NAVEE UT5 Max: 100 km y precio de 949 € en España 2026",
+    "excerpt": "El NAVEE UT5 Max cuesta 949 € con 100 km declarados, motor de 700 W, 34 kg de peso. Autonomía real estimada de 67 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/navee-ut5-max.webp",
+    "heroAlt": "NAVEE UT5 Max patinete eléctrico",
+    "keywords": [
+      "navee ut5 max precio",
+      "navee ut5 max ficha técnica",
+      "navee ut5 max autonomía",
+      "navee ut5 max opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar navee ut5 max españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "dualtron-togo-max",
+    "title": "Dualtron Togo Max 60V: 60 km por 1.099 €, análisis",
+    "excerpt": "El Dualtron Togo Max 60V cuesta 1.099 € con 60 km declarados, motor de 900 W, 25 kg de peso. Autonomía real estimada de 40 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/dualtron-togo-max.webp",
+    "heroAlt": "Dualtron Togo Max 60V patinete eléctrico",
+    "keywords": [
+      "dualtron togo max 60v precio",
+      "dualtron togo max 60v ficha técnica",
+      "dualtron togo max 60v autonomía",
+      "dualtron togo max 60v opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar dualtron togo max 60v españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "kaabo-mantis-x-plus",
+    "title": "Kaabo Mantis X Plus: precio 1.487 € y 76 km, a examen",
+    "excerpt": "El Kaabo Mantis X Plus cuesta 1.487 € con 76 km declarados, motor de 1.000 W, 29 kg de peso. Autonomía real estimada de 51 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/kaabo-mantis-x-plus.webp",
+    "heroAlt": "Kaabo Mantis X Plus patinete eléctrico",
+    "keywords": [
+      "kaabo mantis x plus precio",
+      "kaabo mantis x plus ficha técnica",
+      "kaabo mantis x plus autonomía",
+      "kaabo mantis x plus opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar kaabo mantis x plus españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "kaabo-wolf-warrior-11-max",
+    "title": "Kaabo Wolf Warrior 11 Max: 150 km por 2.974 €, análisis",
+    "excerpt": "El Kaabo Wolf Warrior 11 Max cuesta 2.974 € con 150 km declarados, motor de 3.000 W, 56 kg de peso. Autonomía real estimada de 100 km.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/kaabo-wolf-warrior-11-max.webp",
+    "heroAlt": "Kaabo Wolf Warrior 11 Max patinete eléctrico",
+    "keywords": [
+      "kaabo wolf warrior 11 max precio",
+      "kaabo wolf warrior 11 max ficha técnica",
+      "kaabo wolf warrior 11 max autonomía",
+      "kaabo wolf warrior 11 max opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar kaabo wolf warrior 11 max españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "kaabo-wolf-warrior-x-max",
+    "title": "Kaabo Wolf Warrior X Max: 90 km por 2.354 €, análisis",
+    "excerpt": "El Kaabo Wolf Warrior X Max cuesta 2.354 € con 90 km declarados, motor de 2.200 W, 37,6 kg de peso. Autonomía real estimada de 60 km.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/kaabo-wolf-warrior-x-max.webp",
+    "heroAlt": "Kaabo Wolf Warrior X Max patinete eléctrico",
+    "keywords": [
+      "kaabo wolf warrior x max precio",
+      "kaabo wolf warrior x max ficha técnica",
+      "kaabo wolf warrior x max autonomía",
+      "kaabo wolf warrior x max opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar kaabo wolf warrior x max españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "joyor-s-pro",
+    "title": "Joyor S-PRO: 1.000 W y precio de 749 € en España 2026",
+    "excerpt": "El Joyor S-PRO cuesta 749 € con 90 km declarados, motor de 1.000 W, 27,7 kg de peso. Autonomía real estimada de 60 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/joyor-s-pro.webp",
+    "heroAlt": "Joyor S-PRO patinete eléctrico",
+    "keywords": [
+      "joyor s-pro precio",
+      "joyor s-pro ficha técnica",
+      "joyor s-pro autonomía",
+      "joyor s-pro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar joyor s-pro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "joyor-litego",
+    "title": "Joyor LiteGo: 45 km y precio de 399 € en España 2026",
+    "excerpt": "El Joyor LiteGo cuesta 399 € con 45 km declarados, motor de 350 W, 18 kg de peso. Autonomía real estimada de 30 km. Certificado DGT verificado en su ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/joyor-litego.webp",
+    "heroAlt": "Joyor LiteGo patinete eléctrico",
+    "keywords": [
+      "joyor litego precio",
+      "joyor litego ficha técnica",
+      "joyor litego autonomía",
+      "joyor litego opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar joyor litego españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "teverun-fighter-supreme-7260r",
+    "title": "Teverun Fighter Supreme 7260R: 200 km por 4.390 €, análisis",
+    "excerpt": "El Teverun Fighter Supreme 7260R cuesta 4.390 € con 200 km declarados, motor de 5.000 W, 64 kg de peso. Autonomía real estimada de 130 km.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/teverun-fighter-supreme-7260r.webp",
+    "heroAlt": "Teverun Fighter Supreme 7260R patinete eléctrico",
+    "keywords": [
+      "teverun fighter supreme 7260r precio",
+      "teverun fighter supreme 7260r ficha técnica",
+      "teverun fighter supreme 7260r autonomía",
+      "teverun fighter supreme 7260r opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar teverun fighter supreme 7260r españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "velocifero-mad-2000w",
+    "title": "Velocifero MAD 2000W: precio 1.749 € y 40 km, a examen",
+    "excerpt": "El Velocifero MAD 2000W cuesta 1.749 € con 40 km declarados, motor de 2.000 W, 48 kg de peso. Autonomía real estimada de 26 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/velocifero-mad-2000w.webp",
+    "heroAlt": "Velocifero MAD 2000W patinete eléctrico",
+    "keywords": [
+      "velocifero mad 2000w precio",
+      "velocifero mad 2000w ficha técnica",
+      "velocifero mad 2000w autonomía",
+      "velocifero mad 2000w opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar velocifero mad 2000w españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "egret-gt",
+    "title": "Egret GT: 100 km y precio de 1.899 € en España 2026",
+    "excerpt": "El Egret GT cuesta 1.899 € con 100 km declarados, motor de 500 W, 33 kg de peso. Autonomía real estimada de 65 km y ficha técnica completa verificada con.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/egret-gt.webp",
+    "heroAlt": "Egret GT patinete eléctrico",
+    "keywords": [
+      "egret gt precio",
+      "egret gt ficha técnica",
+      "egret gt autonomía",
+      "egret gt opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar egret gt españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "inmotion-rs",
+    "title": "Inmotion RS: 4.000 W y precio de 3.699 € en España",
+    "excerpt": "El Inmotion RS cuesta 3.699 € con 160 km declarados, motor de 4.000 W, 56 kg de peso. Autonomía real estimada de 104 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/inmotion-rs.webp",
+    "heroAlt": "Inmotion RS patinete eléctrico",
+    "keywords": [
+      "inmotion rs precio",
+      "inmotion rs ficha técnica",
+      "inmotion rs autonomía",
+      "inmotion rs opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar inmotion rs españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "kugoo-kirin-g2-pro",
+    "title": "Kugoo Kirin G2 Pro: precio 770 € y 55 km, a examen",
+    "excerpt": "El Kugoo Kirin G2 Pro cuesta 770 € con 55 km declarados, motor de 600 W, 25 kg de peso. Autonomía real estimada de 35 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/kugoo-kirin-g2-pro.webp",
+    "heroAlt": "Kugoo Kirin G2 Pro patinete eléctrico",
+    "keywords": [
+      "kugoo kirin g2 pro precio",
+      "kugoo kirin g2 pro ficha técnica",
+      "kugoo kirin g2 pro autonomía",
+      "kugoo kirin g2 pro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar kugoo kirin g2 pro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "kukirin-g3",
+    "title": "KuKirin G3: 1.200 W y precio de 699 € en España 2026",
+    "excerpt": "El KuKirin G3 cuesta 699 € con 70 km declarados, motor de 1.200 W, 31 kg de peso. Autonomía real estimada de 45 km y ficha técnica completa verificada con.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/kukirin-g3.webp",
+    "heroAlt": "KuKirin G3 patinete eléctrico",
+    "keywords": [
+      "kukirin g3 precio",
+      "kukirin g3 ficha técnica",
+      "kukirin g3 autonomía",
+      "kukirin g3 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar kukirin g3 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "kukirin-g4-max",
+    "title": "KuKirin G4 Max por 2.149 €: 95 km y ficha completa",
+    "excerpt": "El KuKirin G4 Max cuesta 2.149 € con 95 km declarados, motor de 3.200 W, 64 kg de peso. Autonomía real estimada de 61 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/kukirin-g4-max.webp",
+    "heroAlt": "KuKirin G4 Max patinete eléctrico",
+    "keywords": [
+      "kukirin g4 max precio",
+      "kukirin g4 max ficha técnica",
+      "kukirin g4 max autonomía",
+      "kukirin g4 max opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar kukirin g4 max españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "soflow-so4-pro",
+    "title": "SoFlow SO4 Pro por 1.092 €: 40 km y ficha completa",
+    "excerpt": "El SoFlow SO4 Pro cuesta 1.092 € con 40 km declarados, motor de 500 W, 17 kg de peso. Autonomía real estimada de 27 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/soflow-so4-pro.webp",
+    "heroAlt": "SoFlow SO4 Pro patinete eléctrico",
+    "keywords": [
+      "soflow so4 pro precio",
+      "soflow so4 pro ficha técnica",
+      "soflow so4 pro autonomía",
+      "soflow so4 pro opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar soflow so4 pro españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "segway-gt1e",
+    "title": "Segway KickScooter GT1E: 70 km por 2.499 €, análisis",
+    "excerpt": "El Segway KickScooter GT1E cuesta 2.499 € con 70 km declarados, motor de 500 W, 47,6 kg de peso. Autonomía real estimada de 48 km.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/segway-gt1e.webp",
+    "heroAlt": "Segway KickScooter GT1E patinete eléctrico",
+    "keywords": [
+      "segway kickscooter gt1e precio",
+      "segway kickscooter gt1e ficha técnica",
+      "segway kickscooter gt1e autonomía",
+      "segway kickscooter gt1e opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar segway kickscooter gt1e españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "segway-f65",
+    "title": "Segway KickScooter F65: precio 999 € y 65 km, a examen",
+    "excerpt": "El Segway KickScooter F65 cuesta 999 € con 65 km declarados, motor de 400 W, 21,8 kg de peso. Autonomía real estimada de 45 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/segway-f65.webp",
+    "heroAlt": "Segway KickScooter F65 patinete eléctrico",
+    "keywords": [
+      "segway kickscooter f65 precio",
+      "segway kickscooter f65 ficha técnica",
+      "segway kickscooter f65 autonomía",
+      "segway kickscooter f65 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar segway kickscooter f65 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "iscooter-i12",
+    "title": "iScooter i12: 35 km y precio de 335 € en España 2026",
+    "excerpt": "El iScooter i12 cuesta 335 € con 35 km declarados, motor de 500 W. Autonomía real estimada de 23 km. Certificado DGT sin verificar en su ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/iscooter-i12.webp",
+    "heroAlt": "iScooter i12 patinete eléctrico",
+    "keywords": [
+      "iscooter i12 precio",
+      "iscooter i12 ficha técnica",
+      "iscooter i12 autonomía",
+      "iscooter i12 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar iscooter i12 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "iscooter-dx5",
+    "title": "iScooter DX5: 1.000 W y precio de 699 € en España 2026",
+    "excerpt": "El iScooter DX5 cuesta 699 € con 72 km declarados, motor de 1.000 W. Autonomía real estimada de 50 km. Sin certificado DGT verificado: ojo a la legalidad.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/iscooter-dx5.webp",
+    "heroAlt": "iScooter DX5 patinete eléctrico",
+    "keywords": [
+      "iscooter dx5 precio",
+      "iscooter dx5 ficha técnica",
+      "iscooter dx5 autonomía",
+      "iscooter dx5 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar iscooter dx5 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "joyor-a5",
+    "title": "Joyor A5: 35 km y precio de 499 € en España 2026 en España",
+    "excerpt": "El Joyor A5 cuesta 499 € con 35 km declarados, motor de 350 W. Autonomía real estimada de 23 km. Certificado DGT sin verificar en su ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/joyor-a5.webp",
+    "heroAlt": "Joyor A5 patinete eléctrico",
+    "keywords": [
+      "joyor a5 precio",
+      "joyor a5 ficha técnica",
+      "joyor a5 autonomía",
+      "joyor a5 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar joyor a5 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "joyor-y5s",
+    "title": "Joyor Y5S: 50 km y precio de 489 € en España 2026 en España",
+    "excerpt": "El Joyor Y5S cuesta 489 € con 50 km declarados, motor de 500 W, 20,5 kg de peso. Autonomía real estimada de 34 km y ficha técnica completa verificada con.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/joyor-y5s.webp",
+    "heroAlt": "Joyor Y5S patinete eléctrico",
+    "keywords": [
+      "joyor y5s precio",
+      "joyor y5s ficha técnica",
+      "joyor y5s autonomía",
+      "joyor y5s opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar joyor y5s españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "joyor-y6s",
+    "title": "Joyor Y6-S: 60 km y precio de 489 € en España 2026",
+    "excerpt": "El Joyor Y6-S cuesta 489 € con 60 km declarados, motor de 500 W. Autonomía real estimada de 41 km. Certificado DGT sin verificar en su ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/joyor-y6s.webp",
+    "heroAlt": "Joyor Y6-S patinete eléctrico",
+    "keywords": [
+      "joyor y6-s precio",
+      "joyor y6-s ficha técnica",
+      "joyor y6-s autonomía",
+      "joyor y6-s opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar joyor y6-s españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "cecotec-bongo-g40-xxl-connected",
+    "title": "Cecotec Bongo G40 XXL Connected: 40 km por 279 €, análisis",
+    "excerpt": "El Cecotec Bongo G40 XXL Connected cuesta 279 € con 40 km declarados, motor de 350 W. Autonomía real estimada de 27 km y ficha técnica completa verificada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/cecotec-bongo-g40-xxl-connected.webp",
+    "heroAlt": "Cecotec Bongo G40 XXL Connected patinete eléctrico",
+    "keywords": [
+      "cecotec bongo g40 xxl connected precio",
+      "cecotec bongo g40 xxl connected ficha técnica",
+      "cecotec bongo g40 xxl connected autonomía",
+      "cecotec bongo g40 xxl connected opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar cecotec bongo g40 xxl connected españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "niu-kqi-air-x",
+    "title": "NIU KQi Air X: 50 km y precio de 1.049 € en España",
+    "excerpt": "El NIU KQi Air X cuesta 1.049 € con 50 km declarados, motor de 350 W, 11,7 kg de peso. Autonomía real estimada de 33 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/niu-kqi-air-x.webp",
+    "heroAlt": "NIU KQi Air X patinete eléctrico",
+    "keywords": [
+      "niu kqi air x precio",
+      "niu kqi air x ficha técnica",
+      "niu kqi air x autonomía",
+      "niu kqi air x opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar niu kqi air x españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "smartgyro-raptor-evo-lr",
+    "title": "Smartgyro Raptor Evo LR: 75 km por 899 €, análisis",
+    "excerpt": "El Smartgyro Raptor Evo LR cuesta 899 € con 75 km declarados, motor de 1.000 W, 22 kg de peso. Autonomía real estimada de 49 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/smartgyro-raptor-evo-lr.webp",
+    "heroAlt": "Smartgyro Raptor Evo LR patinete eléctrico",
+    "keywords": [
+      "smartgyro raptor evo lr precio",
+      "smartgyro raptor evo lr ficha técnica",
+      "smartgyro raptor evo lr autonomía",
+      "smartgyro raptor evo lr opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar smartgyro raptor evo lr españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "kaabo-skywalker-10c",
+    "title": "Kaabo Skywalker 10C: precio 999 € y 55 km, a examen",
+    "excerpt": "El Kaabo Skywalker 10C cuesta 999 € con 55 km declarados, motor de 800 W, 22,7 kg de peso. Autonomía real estimada de 36 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/kaabo-skywalker-10c.webp",
+    "heroAlt": "Kaabo Skywalker 10C patinete eléctrico",
+    "keywords": [
+      "kaabo skywalker 10c precio",
+      "kaabo skywalker 10c ficha técnica",
+      "kaabo skywalker 10c autonomía",
+      "kaabo skywalker 10c opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar kaabo skywalker 10c españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "kaabo-mantis-x",
+    "title": "Kaabo Mantis X por 1.199 €: 75 km y ficha completa",
+    "excerpt": "El Kaabo Mantis X cuesta 1.199 € con 75 km declarados, motor de 1.000 W, 32 kg de peso. Autonomía real estimada de 49 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/kaabo-mantis-x.webp",
+    "heroAlt": "Kaabo Mantis X patinete eléctrico",
+    "keywords": [
+      "kaabo mantis x precio",
+      "kaabo mantis x ficha técnica",
+      "kaabo mantis x autonomía",
+      "kaabo mantis x opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar kaabo mantis x españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "zwheel-zlion-x-max",
+    "title": "Zwheel ZLion X Max: precio 370 € y 40 km, a examen",
+    "excerpt": "El Zwheel ZLion X Max cuesta 370 € con 40 km declarados, motor de 400 W, 16,5 kg de peso. Autonomía real estimada de 26 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/zwheel-zlion-x-max.webp",
+    "heroAlt": "Zwheel ZLion X Max patinete eléctrico",
+    "keywords": [
+      "zwheel zlion x max precio",
+      "zwheel zlion x max ficha técnica",
+      "zwheel zlion x max autonomía",
+      "zwheel zlion x max opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar zwheel zlion x max españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "xiaomi-electric-scooter-4-pro-max",
+    "title": "Xiaomi Electric Scooter 4 Pro Max: 60 km por 530 €, análisis",
+    "excerpt": "El Xiaomi Electric Scooter 4 Pro Max cuesta 530 € con 60 km declarados, motor de 400 W, 21,3 kg de peso. Autonomía real estimada de 40 km.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/xiaomi-electric-scooter-4-pro-max.webp",
+    "heroAlt": "Xiaomi Electric Scooter 4 Pro Max patinete eléctrico",
+    "keywords": [
+      "xiaomi electric scooter 4 pro max precio",
+      "xiaomi electric scooter 4 pro max ficha técnica",
+      "xiaomi electric scooter 4 pro max autonomía",
+      "xiaomi electric scooter 4 pro max opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar xiaomi electric scooter 4 pro max españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "smartgyro-ryder-2",
+    "title": "Smartgyro Ryder 2: precio 799,01 € y 60 km, a examen",
+    "excerpt": "El Smartgyro Ryder 2 cuesta 799,01 € con 60 km declarados, motor de 1.000 W, 23 kg de peso. Autonomía real estimada de 40 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/smartgyro-ryder-2.webp",
+    "heroAlt": "Smartgyro Ryder 2 patinete eléctrico",
+    "keywords": [
+      "smartgyro ryder 2 precio",
+      "smartgyro ryder 2 ficha técnica",
+      "smartgyro ryder 2 autonomía",
+      "smartgyro ryder 2 opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar smartgyro ryder 2 españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "smartgyro-rockway-gl",
+    "title": "Smartgyro Rockway GL: precio 599 € y 45 km, a examen",
+    "excerpt": "El Smartgyro Rockway GL cuesta 599 € con 45 km declarados, motor de 600 W, 28,65 kg de peso. Autonomía real estimada de 30 km y ficha técnica completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/patinetes/smartgyro-rockway-gl.webp",
+    "heroAlt": "Smartgyro Rockway GL patinete eléctrico",
+    "keywords": [
+      "smartgyro rockway gl precio",
+      "smartgyro rockway gl ficha técnica",
+      "smartgyro rockway gl autonomía",
+      "smartgyro rockway gl opiniones",
+      "patinete eléctrico homologado dgt",
+      "comprar smartgyro rockway gl españa",
+      "patinete eléctrico urbano"
+    ],
+    "readTime": 6
+  },
+  {
     "slug": "acer-es-series-3-advance",
     "title": "Acer ES Series 3 Advance: 25 km por 187 €",
     "excerpt": "El Acer ES Series 3 Advance (AES023) es el patinete barato de Acer: 350 W, 25 km declarados, 16 kg e intermitentes, por 187 € en PcComponentes. Sin certificado DGT verificado. Ficha y análisis complet",
@@ -75628,7 +84529,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "sport touring Yamaha",
       "Tracer 9 120 CV"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "yamaha-mt-09-2024-ficha-tecnica-precio",
@@ -79504,6 +88405,25 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 12
   },
   {
+    "slug": "xpeng-mona-l05-2026-precio-ficha-tecnica",
+    "title": "XPeng MONA L05 2026: 1.310 km, 635 km eléctricos y 18.500 €",
+    "excerpt": "El XPeng MONA L05 ya está a la venta en China desde 139.800 yuanes: SUV de 4,87 m con 635 km eléctricos o 1.310 km con extensor, y Europa en 2027.",
+    "category": "Novedades Motor",
+    "date": "2026-10-29",
+    "locale": "all",
+    "heroSrc": "/media/xpeng-mona-l05-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "XPeng MONA L05 plateado de perfil en una calle urbana",
+    "keywords": [
+      "XPeng MONA L05",
+      "XPeng MONA L05 precio",
+      "XPeng L05 Europa",
+      "XPeng MONA L05 ficha técnica",
+      "MONA L05 autonomía",
+      "XPeng L05 España"
+    ],
+    "readTime": 13
+  },
+  {
     "slug": "royal-enfield-himalayan-750-2027-ficha-tecnica-precio",
     "title": "Royal Enfield Himalayan 750: 55 CV desde 7.390 € en Europa",
     "excerpt": "La Himalayan 750 debuta en EICMA con un bicilíndrico de 743 cc y 55 CV: reservas abiertas en Europa desde 7.390 € en Italia, sin precio aún en España.",
@@ -79635,6 +88555,162 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ducati panigale v2 sp winter test"
     ],
     "readTime": 15
+  },
+  {
+    "slug": "ducati-diavel-v4-s-2027-ficha-tecnica-precio",
+    "title": "Ducati Diavel V4 S 2027: 168 CV, Öhlins, desde 35.490 €",
+    "excerpt": "La Ducati Diavel V4 S 2027 estrena suspensiones Öhlins SmartEC 3.0: 168 CV, 222 kg, puños calefactables y 35.490 € recomendados en España.",
+    "category": "Novedades Motor",
+    "date": "2026-11-05",
+    "locale": "es",
+    "heroSrc": "/media/motos/ducati-diavel-v4-s-2027-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Ducati Diavel V4 S 2027 roja de tres cuartos delantera, con horquilla Öhlins dorada y depósito rojo sobre fondo oscuro",
+    "keywords": [
+      "ducati diavel v4 s 2027 precio",
+      "ducati diavel v4 s ficha tecnica",
+      "ducati diavel v4 s 168 cv",
+      "ducati diavel v4 s ohlins smartec",
+      "ducati diavel v4 s 35490 euros",
+      "ducati diavel v4 s vs diavel v4"
+    ],
+    "readTime": 17
+  },
+  {
+    "slug": "omoda-9-shs-black-edition-200-unidades-precio",
+    "title": "Omoda 9 SHS Black Edition: 200 unidades, 537 CV, 54.400 €",
+    "excerpt": "El Omoda 9 SHS estrena chasis revisado, frenos mayores y asistentes recalibrados, y suma la Black Edition: 200 unidades en España desde 54.400 € con 537 CV y 145 km eléctricos.",
+    "category": "Novedades Motor",
+    "date": "2026-11-05",
+    "locale": "es",
+    "heroSrc": "/media/omoda-9-shs-black-edition-200-unidades-precio-hero.webp",
+    "heroAlt": "Omoda 9 SHS Black Edition negro mate de tres cuartos delantera, con llantas negras y parrilla oscurecida",
+    "keywords": [
+      "omoda 9 shs black edition",
+      "omoda 9 shs precio",
+      "omoda 9 shs 2026",
+      "omoda 9 shs black edition 200 unidades",
+      "omoda 9 shs 537 cv",
+      "omoda 9 shs autonomia 145 km"
+    ],
+    "readTime": 15
+  },
+  {
+    "slug": "omoda-5-ev-2027-renovacion-precio-autonomia",
+    "title": "Omoda 5 EV 2027: crece a 4,55 m, 442 litros y 211 CV",
+    "excerpt": "El Omoda 5 EV 2027 se renueva a fondo: 4,55 metros, maletero de 442 litros, pantalla de 15,6 pulgadas, 211 CV y 430 km WLTP. Llega en el primer semestre de 2027.",
+    "category": "Novedades Motor",
+    "date": "2026-11-05",
+    "locale": "es",
+    "heroSrc": "/media/omoda-5-ev-2027-renovacion-precio-autonomia-hero.webp",
+    "heroAlt": "Omoda 5 EV 2027 renovado de perfil, con el nuevo frontal y llantas negras",
+    "keywords": [
+      "omoda 5 ev 2027",
+      "omoda 5 ev renovacion",
+      "omoda 5 ev precio",
+      "omoda 5 ev autonomia 430",
+      "omoda 5 ev maletero 442",
+      "omoda 5 ev 211 cv"
+    ],
+    "readTime": 13
+  },
+  {
+    "slug": "renault-4-e-tech-2027-415-km-roland-garros-precio",
+    "title": "Renault 4 e-Tech 2027: 415 km, Roland Garros y 30.305 €",
+    "excerpt": "El Renault 4 E-Tech 2027 gana autonomía hasta 415 km, estrena la edición Roland Garros y ya admite pedidos en España desde 30.305 €.",
+    "category": "Novedades Motor",
+    "date": "2026-11-05",
+    "locale": "es",
+    "heroSrc": "/media/renault-4-e-tech-2027-415-km-roland-garros-precio-hero.webp",
+    "heroAlt": "Renault 4 E-Tech Roland Garros 2027 blanco con techo negro sobre una pista de tierra batida cubierta de pelotas de tenis",
+    "keywords": [
+      "renault 4 e-tech 2027",
+      "renault 4 415 km autonomia",
+      "renault 4 roland garros precio",
+      "renault 4 e-tech precio espana",
+      "renault 4 plein sud 2027",
+      "renault 4 e-tech 30.305 euros"
+    ],
+    "readTime": 16
+  },
+  {
+    "slug": "yangwang-u9-xtreme-503-km-h-record-mundial-velocidad",
+    "title": "Yangwang U9 Xtreme: 503,17 km/h, el más rápido del mundo",
+    "excerpt": "El Yangwang U9 Xtreme alcanza 503,17 km/h en Abu Dabi y se convierte en el primer coche de producción que supera los 500 km/h, con récord FIA y Guinness.",
+    "category": "Novedades Motor",
+    "date": "2026-11-06",
+    "locale": "es",
+    "heroSrc": "/media/yangwang-u9-xtreme-2025-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Yangwang U9 Xtreme a máxima velocidad en Papenburg",
+    "keywords": [
+      "yangwang u9 xtreme 503 km/h",
+      "coche mas rapido del mundo",
+      "record velocidad 500 km/h",
+      "BYD Yangwang record FIA",
+      "U9 Xtreme Abu Dabi",
+      "hiperdeportivo electrico mas rapido"
+    ],
+    "readTime": 16
+  },
+  {
+    "slug": "mazda-6e-2027-precio-bateria-lfp",
+    "title": "Mazda6e 2027: 560 km y carga de 200 kW desde 44.725 €",
+    "excerpt": "El Mazda6e 2027 cambia sus dos baterías por una sola LFP de 78 kWh: 560 km WLTP, carga de 200 kW y chasis revisado. Desde 44.725 € en España.",
+    "category": "Novedades Motor",
+    "date": "2026-11-06",
+    "locale": "all",
+    "heroSrc": "/media/mazda-6e-2027-1.webp",
+    "heroAlt": "Mazda 6e 2027, berlina eléctrica gris plata, vista tres cuartos delantera",
+    "keywords": [
+      "Mazda6e 2027 precio",
+      "Mazda6e 2027 autonomía",
+      "Mazda6e 2027 batería 78 kWh",
+      "Mazda6e 2027 ficha técnica",
+      "Mazda6e 2027 carga 200 kW",
+      "Mazda6e vs Tesla Model 3",
+      "berlina eléctrica 560 km"
+    ],
+    "readTime": 12
+  },
+  {
+    "slug": "chevrolet-corvette-vuelve-espana-precios-2026",
+    "title": "Corvette vuelve a España: V8 de 646 CV desde 140.000 €",
+    "excerpt": "Tayre presenta en Madrid la gama Corvette para España: Stingray V8 de 482 CV desde 140.000 €, Z06 de 646 CV y E-Ray híbrido, con red oficial.",
+    "category": "Novedades Motor",
+    "date": "2026-11-06",
+    "locale": "all",
+    "heroSrc": "/media/chevrolet-corvette-c8-2025-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Chevrolet Corvette C8 Stingray 2025 rojo, vista tres cuartos delantera",
+    "keywords": [
+      "Corvette España precio",
+      "Corvette Stingray 140.000",
+      "Corvette Z06 España",
+      "Corvette E-Ray híbrido",
+      "Tayre Corvette Madrid",
+      "comprar Corvette España",
+      "Corvette C8 oficial España"
+    ],
+    "readTime": 11
+  },
+  {
+    "slug": "real-decreto-953-2026-zbe-fin-avisos-multas",
+    "title": "ZBE 2026: el BOE exige multas reales y acaba con los avisos",
+    "excerpt": "Real Decreto 953/2026, hoy en el BOE: las ZBE solo cuentan si el ayuntamiento acredita cámaras, control y multas reales, sin periodo de avisos.",
+    "category": "Normativa Vial",
+    "date": "2026-11-06",
+    "locale": "es",
+    "heroSrc": "/media/pilar-zbe.webp",
+    "heroAlt": "Señal de Zona de Bajas Emisiones en Madrid con las etiquetas DGT admitidas",
+    "keywords": [
+      "real decreto 953/2026",
+      "zbe 2026 multas",
+      "zonas bajas emisiones 2026",
+      "zbe fin avisos",
+      "multa zbe 200 euros",
+      "real decreto 1052/2022",
+      "zbe ayuntamientos acreditar",
+      "recurso multa zbe"
+    ],
+    "readTime": 12
   },
   {
     "slug": "byd-seagull-2026-segunda-generacion-precio",
@@ -80236,6 +89312,431 @@ export const BLOG_LITE: BlogLitePost[] = [
       "suv medio híbrido ligero"
     ],
     "readTime": 3
+  },
+  {
+    "slug": "skoda-kamiq-2024-precio-ficha-tecnica",
+    "title": "Skoda Kamiq 1.0 TSI 116 CV: precio 25.595 €, suv gasolina",
+    "excerpt": "Precio y ficha del Skoda Kamiq 1.0 TSI 116 CV: desde 25.595 €, 116 CV, maletero de 400 L, consumo de 5.4 l/100 km, etiqueta C y 5 plazas. Datos...",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/skoda-kamiq-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Skoda Kamiq 1.0 TSI 116 CV, vista del modelo analizado",
+    "keywords": [
+      "Skoda Kamiq 1.0 TSI 116 CV precio",
+      "Kamiq 1.0 TSI 116 CV ficha técnica",
+      "Skoda Kamiq 1.0 TSI 116 CV",
+      "Kamiq 1.0 TSI 116 CV 116 CV"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "skoda-kodiaq-2024-precio-ficha-tecnica",
+    "title": "Skoda Kodiaq 1.5 TSI mHEV: precio 45.700 €, suv híbrido",
+    "excerpt": "Precio y ficha del Skoda Kodiaq 1.5 TSI mHEV: desde 45.700 €, 150 CV, maletero de 910 L, consumo de 5.9 l/100 km, etiqueta ECO y 5 plazas. Datos...",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/skoda-kodiaq-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Skoda Kodiaq 1.5 TSI mHEV, vista del modelo analizado",
+    "keywords": [
+      "Skoda Kodiaq 1.5 TSI mHEV precio",
+      "Kodiaq 1.5 TSI mHEV ficha técnica",
+      "Skoda Kodiaq 1.5 TSI mHEV",
+      "Kodiaq 1.5 TSI mHEV 150 CV"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "hyundai-ioniq-6-electrico-precio-ficha-tecnica",
+    "title": "Hyundai Ioniq 6 Light 170 CV 63 kWh: precio 44.650 €",
+    "excerpt": "Precio y ficha del Hyundai Ioniq 6 Light 170 CV 63 kWh: desde 44.650 €, 170 CV, 429 km de autonomía, maletero de 446 L, etiqueta Cero y 5 plazas. Datos...",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/hyundai-ioniq-6-electrico-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Hyundai Ioniq 6 Light 170 CV 63 kWh, vista del modelo analizado",
+    "keywords": [
+      "Hyundai Ioniq 6 Light 170 CV 63 kWh precio",
+      "Ioniq 6 Light 170 CV 63 kWh ficha técnica",
+      "Hyundai Ioniq 6 Light 170 CV 63 kWh",
+      "Ioniq 6 Light 170 CV 63 kWh 170 CV"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "hyundai-bayon-2024-precio-ficha-tecnica",
+    "title": "Hyundai Bayon 1.0 T-GDi 48V: precio 26.005 €, suv híbrido",
+    "excerpt": "Precio y ficha del Hyundai Bayon 1.0 T-GDi 48V: desde 26.005 €, 100 CV, maletero de 411 L, consumo de 5.2 l/100 km, etiqueta ECO y 5 plazas. Datos...",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/hyundai-bayon-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Hyundai Bayon 1.0 T-GDi 48V, vista del modelo analizado",
+    "keywords": [
+      "Hyundai Bayon 1.0 T-GDi 48V precio",
+      "Bayon 1.0 T-GDi 48V ficha técnica",
+      "Hyundai Bayon 1.0 T-GDi 48V",
+      "Bayon 1.0 T-GDi 48V 100 CV"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "hyundai-i30-2024-precio-ficha-tecnica",
+    "title": "Hyundai i30 1.5 DPI: precio 28.825 €, berlina gasolina",
+    "excerpt": "Precio y ficha del Hyundai i30 1.5 DPI: desde 28.825 €, 96 CV, maletero de 395 L, consumo de 6.4 l/100 km, etiqueta C y 5 plazas. Datos verificados de...",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/hyundai-i30-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Hyundai i30 1.5 DPI, vista del modelo analizado",
+    "keywords": [
+      "Hyundai i30 1.5 DPI precio",
+      "i30 1.5 DPI ficha técnica",
+      "Hyundai i30 1.5 DPI",
+      "i30 1.5 DPI 96 CV"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "kia-ceed-2024-precio-ficha-tecnica",
+    "title": "Kia Ceed 1.0 MHEV: precio 29.095 €, berlina híbrido",
+    "excerpt": "Precio y ficha del Kia Ceed 1.0 MHEV: desde 29.095 €, 100 CV, maletero de 357 L, consumo de 5.5 l/100 km, etiqueta ECO y 5 plazas. Datos verificados de...",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/kia-ceed-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Kia Ceed 1.0 MHEV, vista del modelo analizado",
+    "keywords": [
+      "Kia Ceed 1.0 MHEV precio",
+      "Ceed 1.0 MHEV ficha técnica",
+      "Kia Ceed 1.0 MHEV",
+      "Ceed 1.0 MHEV 100 CV"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "kia-xceed-2024-precio-ficha-tecnica",
+    "title": "Kia XCeed 1.0 T-GDi: precio 27.715 €, suv gasolina",
+    "excerpt": "Precio y ficha del Kia XCeed 1.0 T-GDi: desde 27.715 €, 100 CV, maletero de 426 L, consumo de 6.0 l/100 km, etiqueta C y 5 plazas. Datos verificados de...",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/kia-xceed-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Kia XCeed 1.0 T-GDi, vista del modelo analizado",
+    "keywords": [
+      "Kia XCeed 1.0 T-GDi precio",
+      "XCeed 1.0 T-GDi ficha técnica",
+      "Kia XCeed 1.0 T-GDi",
+      "XCeed 1.0 T-GDi 100 CV"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "kia-picanto-2024-precio-ficha-tecnica",
+    "title": "Kia Picanto 1.0 DPI: precio 17.365 €, urbano gasolina",
+    "excerpt": "Precio y ficha del Kia Picanto 1.0 DPI: desde 17.365 €, 63 CV, maletero de 255 L, consumo de 5.1 l/100 km, etiqueta C y 5 plazas. Datos verificados de...",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/kia-picanto-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Kia Picanto 1.0 DPI, vista del modelo analizado",
+    "keywords": [
+      "Kia Picanto 1.0 DPI precio",
+      "Picanto 1.0 DPI ficha técnica",
+      "Kia Picanto 1.0 DPI",
+      "Picanto 1.0 DPI 63 CV"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "ford-kuga-2024-precio-ficha-tecnica",
+    "title": "Ford Kuga 1.5 EcoBoost: precio 30.561 €, suv gasolina",
+    "excerpt": "Precio y ficha del Ford Kuga 1.5 EcoBoost: desde 30.561 €, 150 CV, maletero de 412 L, consumo de 6.4 l/100 km, etiqueta C y 5 plazas. Datos verificados...",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/ford-kuga-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Ford Kuga 1.5 EcoBoost, vista del modelo analizado",
+    "keywords": [
+      "Ford Kuga 1.5 EcoBoost precio",
+      "Kuga 1.5 EcoBoost ficha técnica",
+      "Ford Kuga 1.5 EcoBoost",
+      "Kuga 1.5 EcoBoost 150 CV"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "opel-mokka-2024-precio-ficha-tecnica",
+    "title": "Opel Mokka 1.2 Turbo: precio 22.200 €, suv gasolina",
+    "excerpt": "Precio y ficha del Opel Mokka 1.2 Turbo: desde 22.200 €, 136 CV, maletero de 350 L, consumo de 5.6 l/100 km, etiqueta C y 5 plazas. Datos verificados...",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/opel-mokka-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Opel Mokka 1.2 Turbo, vista del modelo analizado",
+    "keywords": [
+      "Opel Mokka 1.2 Turbo precio",
+      "Mokka 1.2 Turbo ficha técnica",
+      "Opel Mokka 1.2 Turbo",
+      "Mokka 1.2 Turbo 136 CV"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "opel-astra-2024-precio-ficha-tecnica",
+    "title": "Opel Astra 1.2 Turbo: precio 22.900 €, berlina gasolina",
+    "excerpt": "Precio y ficha del Opel Astra 1.2 Turbo: desde 22.900 €, 110 CV, maletero de 422 L, consumo de 5.5 l/100 km, etiqueta C y 5 plazas. Datos verificados...",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/opel-astra-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Opel Astra 1.2 Turbo, vista del modelo analizado",
+    "keywords": [
+      "Opel Astra 1.2 Turbo precio",
+      "Astra 1.2 Turbo ficha técnica",
+      "Opel Astra 1.2 Turbo",
+      "Astra 1.2 Turbo 110 CV"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "cupra-terramar-2024-precio-ficha-tecnica",
+    "title": "Cupra Terramar: precio 39.862 €, suv híbrido en España",
+    "excerpt": "Precio y ficha del Cupra Terramar: desde 39.862 €, 150 CV, maletero de 508 L, consumo de 6.1 l/100 km, etiqueta ECO y 5 plazas. Datos verificados de la...",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/cupra-terramar-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Cupra Terramar, vista del modelo analizado",
+    "keywords": [
+      "Cupra Terramar precio",
+      "Terramar ficha técnica",
+      "Cupra Terramar",
+      "Terramar 150 CV"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "cupra-born-2024-precio-ficha-tecnica",
+    "title": "Cupra Born: precio 35.430 €, compacto eléctrico en España",
+    "excerpt": "Precio y ficha del Cupra Born: desde 35.430 €, 231 CV, 425 km de autonomía, maletero de 385 L, etiqueta Cero y 5 plazas. Datos verificados de la ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/cupra-born-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Cupra Born, vista del modelo analizado",
+    "keywords": [
+      "Cupra Born precio",
+      "Born ficha técnica",
+      "Cupra Born",
+      "Born 231 CV"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "cupra-tavascan-2024-precio-ficha-tecnica",
+    "title": "Cupra Tavascan: precio 43.500 €, suv eléctrico en España",
+    "excerpt": "Precio y ficha del Cupra Tavascan: desde 43.500 €, 286 CV, 553 km de autonomía, maletero de 540 L, etiqueta Cero y 5 plazas. Datos verificados de la ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/cupra-tavascan-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Cupra Tavascan, vista del modelo analizado",
+    "keywords": [
+      "Cupra Tavascan precio",
+      "Tavascan ficha técnica",
+      "Cupra Tavascan",
+      "Tavascan 286 CV"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "fiat-600-2024-precio-ficha-tecnica",
+    "title": "Fiat 600: precio 21.986 €, suv híbrido en España y datos",
+    "excerpt": "Precio y ficha del Fiat 600: desde 21.986 €, 110 CV, maletero de 385 L, consumo de 4.8 l/100 km, etiqueta ECO y 5 plazas. Datos verificados de la ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/fiat-600-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Fiat 600, vista del modelo analizado",
+    "keywords": [
+      "Fiat 600 precio",
+      "600 ficha técnica",
+      "Fiat 600",
+      "600 110 CV"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "mitsubishi-colt-2024-precio-ficha-tecnica",
+    "title": "Mitsubishi Colt: precio 18.350 €, urbano gasolina en España",
+    "excerpt": "Precio y ficha del Mitsubishi Colt: desde 18.350 €, 91 CV, maletero de 340 L, consumo de 5.1 l/100 km, etiqueta C y 5 plazas. Datos verificados de la...",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/mitsubishi-colt-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Mitsubishi Colt, vista del modelo analizado",
+    "keywords": [
+      "Mitsubishi Colt precio",
+      "Colt ficha técnica",
+      "Mitsubishi Colt",
+      "Colt 91 CV"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "mg4-urban-electric-precio-ficha-tecnica",
+    "title": "MG MG4 Urban: precio 19.920 €, urbano eléctrico en España",
+    "excerpt": "Precio y ficha del MG MG4 Urban: desde 19.920 €, 160 CV, 416 km de autonomía, maletero de 500 L, etiqueta Cero y 5 plazas. Datos verificados de la ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/mg4-urban-electric-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "MG MG4 Urban, vista del modelo analizado",
+    "keywords": [
+      "MG MG4 Urban precio",
+      "MG4 Urban ficha técnica",
+      "MG MG4 Urban",
+      "MG4 Urban 160 CV"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "mg-hs-phev-2025-precio-ficha-tecnica",
+    "title": "MG HS: precio 30.832 €, suv híbrido enchufable en España",
+    "excerpt": "Precio y ficha del MG HS: desde 30.832 €, 272 CV, 100 km de autonomía, maletero de 441 L, etiqueta Cero y 5 plazas. Datos verificados de la ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/mg-hs-phev-2025-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "MG HS, vista del modelo analizado",
+    "keywords": [
+      "MG HS precio",
+      "HS ficha técnica",
+      "MG HS",
+      "HS 272 CV"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "byd-dolphin-surf-precio-ficha-tecnica",
+    "title": "BYD Dolphin Surf: precio 20.140 €, urbano eléctrico",
+    "excerpt": "Precio y ficha del BYD Dolphin Surf: desde 20.140 €, 88 CV, 220 km de autonomía, maletero de 308 L, etiqueta Cero y 4 plazas. Datos verificados de la...",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/byd-dolphin-surf-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "BYD Dolphin Surf, vista del modelo analizado",
+    "keywords": [
+      "BYD Dolphin Surf precio",
+      "Dolphin Surf ficha técnica",
+      "BYD Dolphin Surf",
+      "Dolphin Surf 88 CV"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "alpine-a290-precio-ficha-tecnica",
+    "title": "Alpine A290: precio 38.700 €, urbano eléctrico en España",
+    "excerpt": "Precio y ficha del Alpine A290: desde 38.700 €, 177 CV, 378 km de autonomía, maletero de 251 L, etiqueta Cero y 5 plazas. Datos verificados de la ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/alpine-a290-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Alpine A290, vista del modelo analizado",
+    "keywords": [
+      "Alpine A290 precio",
+      "A290 ficha técnica",
+      "Alpine A290",
+      "A290 177 CV"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "jeep-compass-2025-precio-ficha-tecnica",
+    "title": "Jeep Compass: precio 42.741 €, suv eléctrico en España",
+    "excerpt": "Precio y ficha del Jeep Compass: desde 42.741 €, 213 CV, 477 km de autonomía, maletero de 541 L, etiqueta Cero y 5 plazas. Datos verificados de la ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/jeep-compass-2025-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Jeep Compass, vista del modelo analizado",
+    "keywords": [
+      "Jeep Compass precio",
+      "Compass ficha técnica",
+      "Jeep Compass",
+      "Compass 213 CV"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "polestar-4-precio-ficha-tecnica",
+    "title": "Polestar 4: precio 49.900 €, suv eléctrico en España",
+    "excerpt": "Precio y ficha del Polestar 4: desde 49.900 €, 272 CV, 620 km de autonomía, maletero de 526 L, etiqueta Cero y 5 plazas. Datos verificados de la ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/polestar-4-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Polestar 4, vista del modelo analizado",
+    "keywords": [
+      "Polestar 4 precio",
+      "4 ficha técnica",
+      "Polestar 4",
+      "4 272 CV"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "smart-1-precio-ficha-tecnica",
+    "title": "smart #1: precio 29.690 €, suv eléctrico en España",
+    "excerpt": "Precio y ficha del smart #1: desde 29.690 €, 272 CV, 310 km de autonomía, maletero de 273 L, etiqueta Cero y 5 plazas. Datos verificados de la ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/smart-1-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "smart #1, vista del modelo analizado",
+    "keywords": [
+      "smart #1 precio",
+      "#1 ficha técnica",
+      "smart #1",
+      "#1 272 CV"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "hyundai-santa-fe-2024-precio-ficha-tecnica",
+    "title": "Hyundai Santa Fe: precio 56.020 €, suv híbrido en España",
+    "excerpt": "Precio y ficha del Hyundai Santa Fe: desde 56.020 €, 239 CV, maletero de 628 L, consumo de 6.4 l/100 km, etiqueta ECO y 7 plazas. Datos verificados de...",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/hyundai-santa-fe-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Hyundai Santa Fe, vista del modelo analizado",
+    "keywords": [
+      "Hyundai Santa Fe precio",
+      "Santa Fe ficha técnica",
+      "Hyundai Santa Fe",
+      "Santa Fe 239 CV"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "genesis-gv60-magma-2026-precio-suv-electrico-deportivo",
+    "title": "Genesis GV60 Magma: precio 87.100 €, suv eléctrico",
+    "excerpt": "Precio y ficha del Genesis GV60 Magma: desde 87.100 €, 650 CV, 448 km de autonomía, maletero de 432 L, etiqueta Cero y 5 plazas. Datos verificados de...",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/genesis-gv60-magma-2026-2.webp",
+    "heroAlt": "Genesis GV60 Magma, vista del modelo analizado",
+    "keywords": [
+      "Genesis GV60 Magma precio",
+      "GV60 Magma ficha técnica",
+      "Genesis GV60 Magma",
+      "GV60 Magma 650 CV"
+    ],
+    "readTime": 7
   },
   {
     "slug": "riddara-rd6-2025-precio-ficha-tecnica",
@@ -81334,6 +90835,258 @@ export const BLOG_LITE: BlogLitePost[] = [
       "suv familiar barato españa"
     ],
     "readTime": 4
+  },
+  {
+    "slug": "bmw-i5-m60-xdrive-touring-2025-precio-electrico",
+    "title": "BMW i5 M60 xDrive Touring: 601 CV y 506 km, 117.050 €",
+    "excerpt": "El BMW i5 M60 xDrive Touring cuesta 117.050 €: 601 CV, 506 km WLTP, maletero de 570 l y carga de 205 kW. Precio, ficha, costes y FAQ.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/bmw-i5-m60-xdrive-touring-2025-2.webp",
+    "heroAlt": "BMW i5 M60 xDrive Touring, vista lateral del familiar eléctrico",
+    "keywords": [
+      "bmw i5 m60 touring precio españa",
+      "bmw i5 m60 601 cv ficha técnica",
+      "serie 5 touring eléctrico opiniones",
+      "bmw i5 autonomía 506 km",
+      "familiar eléctrico premium 2025"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "bmw-m3-cs-touring-2025-precio-record",
+    "title": "BMW M3 CS Touring 2025: 550 CV y récord, 196.150 €",
+    "excerpt": "El BMW M3 CS Touring cuesta 196.150 €: 550 CV, récord en Nürburgring, 300 km/h y solo 50 unidades para España. Precio, ficha y costes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/bmw-m3-cs-touring-2025-2.webp",
+    "heroAlt": "BMW M3 CS Touring, vista exterior del familiar M",
+    "keywords": [
+      "bmw m3 cs touring precio españa",
+      "bmw m3 cs touring 550 cv",
+      "m3 touring récord nürburgring",
+      "familiar deportivo 2025",
+      "bmw m3 cs unidades españa"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "mini-countryman-s-all4-2025-precio-suv",
+    "title": "MINI Countryman S ALL4 2025: 218 CV ECO por 41.330 €",
+    "excerpt": "El MINI Countryman S ALL4 cuesta 41.330 €: 218 CV mild-hybrid, tracción total, etiqueta ECO y 5 estrellas Euro NCAP. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/mini-countryman-s-all4-2025-2.webp",
+    "heroAlt": "MINI Countryman S ALL4, vista dinámica del SUV",
+    "keywords": [
+      "mini countryman s all4 precio",
+      "countryman s 218 cv ficha técnica",
+      "mini countryman 2025 opiniones",
+      "suv compacto premium tracción total",
+      "countryman etiqueta eco"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "mini-countryman-e-2026-precio-electrico",
+    "title": "MINI Countryman E 2026: 204 CV y 462 km por 36.610 €",
+    "excerpt": "El MINI Countryman E cuesta 36.610 €: 204 CV, 462 km WLTP, batería de 64,7 kWh y carga de 130 kW. Más barato que el de gasolina. Ficha y costes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/mini-countryman-e-2026-2.webp",
+    "heroAlt": "MINI Countryman E, vista lateral del SUV eléctrico",
+    "keywords": [
+      "mini countryman e precio españa",
+      "countryman e autonomía 462 km",
+      "mini eléctrico suv ficha técnica",
+      "countryman e 204 cv",
+      "suv eléctrico etiqueta cero"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "mercedes-glb-250-eq-2026-precio-electrico",
+    "title": "Mercedes GLB 250+ EQ 2026: 272 CV y 629 km, 55.925 €",
+    "excerpt": "El Mercedes GLB 250+ EQ cuesta 55.925 €: 272 CV, 629 km WLTP, batería de 85 kWh, carga de 320 kW y 7 plazas opcionales. Ficha completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/mercedes-glb-250-eq-2026-2.webp",
+    "heroAlt": "Mercedes-Benz GLB 250+ EQ, vista exterior del SUV eléctrico",
+    "keywords": [
+      "mercedes glb 250 eq precio",
+      "glb eléctrico autonomía 629 km",
+      "mercedes glb eq 7 plazas",
+      "suv eléctrico premium 2026",
+      "glb 250 carga 320 kw"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "mercedes-glb-350-eq-2026-precio-electrico",
+    "title": "Mercedes GLB 350 EQ 2026: 354 CV y 613 km, 63.800 €",
+    "excerpt": "El Mercedes GLB 350 EQ cuesta 63.800 €: 354 CV con tracción total, 613 km WLTP, carga de 320 kW y 7 plazas. Precio, ficha y costes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/mercedes-glb-350-eq-2026-1.webp",
+    "heroAlt": "Mercedes-Benz GLB 350 EQ, SUV eléctrico en salón",
+    "keywords": [
+      "mercedes glb 350 eq precio",
+      "glb 350 4matic eléctrico",
+      "mercedes glb eq 354 cv",
+      "suv eléctrico 7 plazas tracción total",
+      "glb 350 autonomía 613 km"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "audi-a6-avant-2025-precio-familiar",
+    "title": "Audi A6 Avant 2025: 204 CV diésel ECO desde 65.570 €",
+    "excerpt": "El Audi A6 Avant 2025 cuesta 65.570 €: 2.0 TDI de 204 CV mild-hybrid, etiqueta ECO, 565 l de maletero y 5,8 l/100 km. Ficha y costes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/audi-a6-avant-2025-2.webp",
+    "heroAlt": "Audi A6 Avant, vista trasera del familiar",
+    "keywords": [
+      "audi a6 avant 2025 precio",
+      "a6 avant tdi 204 cv ficha",
+      "audi a6 c9 familiar opiniones",
+      "a6 avant etiqueta eco",
+      "familiar premium diésel 2025"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "audi-q5-sportback-2025-precio-suv",
+    "title": "Audi Q5 Sportback 2025: 204 CV ECO desde 65.370 € en España",
+    "excerpt": "El Audi Q5 Sportback 2025 cuesta 65.370 €: 2.0 TFSI de 204 CV mild-hybrid, etiqueta ECO, 5 estrellas Euro NCAP y 515 l. Ficha completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/audi-q5-sportback-2025-2.webp",
+    "heroAlt": "Audi Q5 Sportback, vista lateral del SUV coupé",
+    "keywords": [
+      "audi q5 sportback 2025 precio",
+      "q5 sportback 204 cv ficha",
+      "audi q5 2025 opiniones",
+      "suv coupé premium etiqueta eco",
+      "q5 sportback euro ncap"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "audi-a5-avant-2025-precio-familiar",
+    "title": "Audi A5 Avant 2025: 150 CV y 445 litros por 51.160 €",
+    "excerpt": "El Audi A5 Avant cuesta 51.160 €: 1.5 TFSI de 150 CV, 445 l de maletero, 5 estrellas Euro NCAP 2024 y 6,5 l/100 km. Ficha y costes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/audi-a5-avant-2025-2.webp",
+    "heroAlt": "Audi A5 Avant, vista lateral del familiar",
+    "keywords": [
+      "audi a5 avant 2025 precio",
+      "a5 avant 150 cv ficha técnica",
+      "audi a5 sustituto a4 avant",
+      "familiar premium 2025 opiniones",
+      "a5 avant euro ncap"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "audi-q3-sportback-e-hybrid-2026-precio-hibrido",
+    "title": "Audi Q3 Sportback e-hybrid 2026: 272 CV por 52.100 €",
+    "excerpt": "El Audi Q3 Sportback e-hybrid cuesta 52.100 €: 272 CV, 118 km eléctricos, batería de 25,7 kWh, carga a 50 kW y etiqueta 0. Ficha completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/audi-q3-sportback-e-hybrid-2026-2.webp",
+    "heroAlt": "Audi Q3 Sportback e-hybrid, cargando en punto de recarga",
+    "keywords": [
+      "audi q3 sportback e-hybrid precio",
+      "q3 e-hybrid 118 km eléctricos",
+      "audi q3 2026 híbrido enchufable",
+      "suv phev etiqueta cero",
+      "q3 sportback 272 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "audi-s5-avant-2025-precio-deportivo",
+    "title": "Audi S5 Avant 2025: V6 367 CV quattro desde 95.510 €",
+    "excerpt": "El Audi S5 Avant cuesta 95.510 €: V6 de 367 CV mild-hybrid, 0-100 en 4,5 s, tracción quattro, etiqueta ECO y 445 l. Precio y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/audi-s5-avant-2025-2.webp",
+    "heroAlt": "Audi S5 Avant, vista lateral del familiar deportivo",
+    "keywords": [
+      "audi s5 avant 2025 precio",
+      "s5 avant v6 367 cv",
+      "audi s5 opiniones ficha técnica",
+      "familiar deportivo quattro",
+      "s5 avant euro ncap"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "volkswagen-golf-gti-edition-50-2026-precio-edicion-50-aniversario",
+    "title": "VW Golf GTI Edition 50 2026: 325 CV desde 56.990 €",
+    "excerpt": "El Volkswagen Golf GTI Edition 50 cuesta 56.990 €: 325 CV, 270 km/h, 350 unidades para España y 5 estrellas Euro NCAP. Ficha y costes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/volkswagen-golf-gti-edition-50-2026-2.webp",
+    "heroAlt": "Golf GTI Edition 50 en circuito",
+    "keywords": [
+      "golf gti edition 50 precio",
+      "golf gti 325 cv ficha técnica",
+      "gti 50 aniversario unidades españa",
+      "golf gti más potente historia",
+      "compacto deportivo 2026"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "cupra-formentor-vz5-2026-precio-edicion-limitada-390-cv",
+    "title": "CUPRA Formentor VZ5 2026: 390 CV y 280 km/h, 77.416 €",
+    "excerpt": "El CUPRA Formentor VZ5 cuesta 77.416 €: 390 CV del cinco cilindros, 4,2 s en el 0-100, 280 km/h y solo 4.000 unidades. Ficha completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/cupra-formentor-vz5-2026-2.webp",
+    "heroAlt": "CUPRA Formentor VZ5, trasera de tres cuartos",
+    "keywords": [
+      "cupra formentor vz5 precio",
+      "formentor vz5 390 cv cinco cilindros",
+      "cupra vz5 edición limitada",
+      "suv deportivo 2026 opiniones",
+      "formentor vz5 ficha técnica"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "genesis-electrified-g80-2026-precio-berlina-electrica-lujo",
+    "title": "Genesis Electrified G80 2026: 370 CV desde 77.400 €",
+    "excerpt": "El Genesis Electrified G80 cuesta 77.400 €: 370 CV, 570 km WLTP, batería de 94,5 kWh, carga de 350 kW y pantalla OLED de 27 pulgadas.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/genesis-electrified-g80-2026-2.webp",
+    "heroAlt": "Genesis Electrified G80, berlina eléctrica de lujo",
+    "keywords": [
+      "genesis electrified g80 precio",
+      "genesis g80 eléctrico 570 km",
+      "berlina eléctrica lujo 2026",
+      "genesis g80 370 cv ficha",
+      "genesis españa opiniones"
+    ],
+    "readTime": 5
   },
   {
     "slug": "skoda-elroq-85-2026-precio-ficha-tecnica",
@@ -85762,8 +95515,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "yangwang-u9-xtreme-2025-precio-ficha-tecnica",
-    "title": "Yangwang U9 Xtreme: 496,22 km/h, récord mundial",
-    "excerpt": "El Yangwang U9 Xtreme: 496,22 km/h en Papenburg, 6:59.157 en Nürburgring y más de 3.000 CV. Solo 30 unidades. Ficha y vídeo del récord.",
+    "title": "Yangwang U9 Xtreme: 503,17 km/h, récord mundial",
+    "excerpt": "El Yangwang U9 Xtreme: 503,17 km/h en Abu Dabi, 6:59.157 en Nürburgring y más de 3.000 CV. Solo 30 unidades. Ficha y vídeo del récord.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -85771,7 +95524,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "heroAlt": "Yangwang U9 Xtreme a máxima velocidad",
     "keywords": [
       "Yangwang U9 Xtreme",
-      "U9 Xtreme 496 km/h",
+      "U9 Xtreme 503 km/h",
       "récord velocidad eléctrico",
       "Nürburgring 6:59",
       "hypercar 3000 CV",

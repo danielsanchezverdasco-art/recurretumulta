@@ -76,7 +76,7 @@ Sigue con: <a href=/coches/tesla-model-y-electrico-precio-ficha-tecnica/>Tesla M
 
 *Fuentes: <a href=https://www.reuters.com/es/negocio/EKGNAU6AEBKQDLOSXIM7PJBLXA-2026-09-11/>Reuters (autorización nivel 4)</a>, <a href=https://cadenaser.com/cmadrid/2026/10/05/una-ventana-de-furgonetas-mapean-madrid-y-alcobendas-para-la-llegada-de-los-primeros-taxis-autonomos-de-espana-ser-madrid-norte/>Cadena SER (mapeo Madrid y Alcobendas)</a>, <a href=https://www.softonic.com/articulos/tesla-renombra-desde-hoy-full-self-driving-en-europa-pasa-a-tesla-assisted-driving>Softonic (renombre FSD a Tesla Assisted Driving)</a>, <a href=https://www.camionactualidad.es/destacadas-noticias/item/11038-programa-es-av-espana-impulsa-la-regulacion-de-vehiculos-autonomos-y-de-conduccion-remota>Camión Actualidad (programa ES-AV)</a>.*
 
-## Dudas frecuentes
+## Preguntas frecuentes
 
 ### ¿Conduce solo Tesla Assisted Driving?
 
