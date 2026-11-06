@@ -73,7 +73,9 @@ node -e '/* regenerar /tmp/all-routes.txt como en esta fase, o usar prerender-re
 PRERENDER_ONLY_FILE=/tmp/all-routes.txt PRERENDER_SKIP_COMPLETE=1 PRERENDER_CONCURRENCY=6 node scripts/prerender.mjs
 ```
 
-`PRERENDER_SKIP_COMPLETE=1` no repite una ruta cuyo HTML ya cumple el criterio contra el bundle actual. Hay **10.528** rutas únicas en esta tanda.
+`PRERENDER_SKIP_COMPLETE=1` no repite una ruta cuyo HTML ya cumple el criterio contra el bundle actual. Hay **10.528** rutas únicas.
+
+Tanda terminada el 6/11 sobre `index-C6305X3a.js`: **10.528 ok, 0 fallos** (`EXIT:0` en `/tmp/prerender-full.log`). En disco hay 10.528 `index.html`. El manifiesto (`scripts/.safe-publish/prerender-manifest.jsonl`, 3,7 MB, fuera de git) tiene 10.274 líneas, todas con ese bundle; las otras ~254 ya estaban escritas y se saltaron al reanudar, sin volver a apuntarse. 3.022 de esas líneas declaran la canonical de otra URL (el post apunta a su ficha): el título no es el del shell y el HTML es el de la página.
 
 Build comprobado tras el merge, el 6/11: `VITE_CONVEX_URL` igual a la URL regional ya escrita en `scripts/check-convex-url.mjs` (no es un secreto), `npm run build`, exit 0. Bundle `dist/assets/index-C6305X3a.js` y CSS `index-j8-WhpSD.css`. El índice de radares en `dist` tiene 961 fichas. Muestra prerenderizada contra ese bundle, 5/5 válidas: portada, términos (sale «7,99»), cookies (sale «cookie DART»), blog del Diavel y radar A-1 pk 125,5 (ya no dice «no encontrado»). Pillow 12.3.0 hizo falta para `scripts/gen-cards.py`. No hace falta token de Netlify ni de Cloudflare en esta fase.
 
@@ -95,12 +97,12 @@ Servidor estático de `dist` en el puerto 8099. Playwright, 390 px y 1366 px, so
 - El radar A-1 pk 14,56 (Alcobendas) deja de decir «no encontrado» cuando el índice tiene las 961 fichas.
 - Scroll horizontal 0 en todas menos el radar a 390 px, que se pasa **53 px**. `RadarPage.tsx` está en `no-tocar.txt` y no se ha tocado. En escritorio ese desborde es 0.
 
-`chequeo_img_dist.py` y `validar-dist-publicable.py` piden el `dist` completo. No se dan por verdes con una muestra.
+`chequeo_img_dist.py dist` sobre las 10.528 páginas: **no está limpio**. 0 `data-fb`, 0 imágenes con el PNG genérico, galerías G9 completas (6 y 4). Fallan 3 rankings con `<img>` sin `src`: `mejores-electricos-baratos-2026` (6), `suv-electricos-mas-autonomia-2026` (21) y `mejores-hibridos-2026` (53). Aviso, no bloqueante del script: 18 de 4.515 tarjetas de blog sin foto y 1 `heroSrc` ausente (`/media/xpeng-mona-l05-2026-precio-ficha-tecnica-hero.webp`). `validar-dist-publicable.py` no se ha dado por verde.
 
 ## Bloqueos para la publicación única
 
 1. rev3b no está en 0.
-2. El prerender de las 10.528 rutas tiene que terminar con el manifiesto en verde (bundle `index-C6305X3a.js`). Si el proceso se corta, el comando de arriba sigue donde lo dejó. Las 306 de Ana no se pueden reanudar desde aquí: no están en el remoto.
+2. `chequeo_img_dist.py` no está a 0: 80 `<img>` sin `src` en 3 rankings. Las 306 HTML de Ana no están en el remoto; esta tanda es otra, con bundle `index-C6305X3a.js`.
 3. 63 excepciones de `no-tocar.txt` frente a main, sin editar la lista.
 4. 294 imágenes citadas sin blob en ninguna rama, y 55 placeholders no copiados.
 5. Ana no había subido aún el checkpoint al remoto en el último fetch. Si llega, hay que comparar el bundle antes de reutilizar un solo HTML.
