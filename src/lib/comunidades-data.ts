@@ -310,7 +310,7 @@ const BASE: Omit<Comunidad, "faq">[] = [
     provincias: ["murcia"],
     capital: "Murcia",
     foto: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp",
-    descripcion: `${"La Región de Murcia es uniprovincial, con capital en Murcia. En sus carreteras interurbanas (A-7, A-30) sanciona la DGT a través de la Jefatura Provincial de Tráfico; en las calles de cada municipio, las multas las gestiona el ayuntamiento correspondiente, que aplica su propia ordenanza de tráfico y estacionamiento. Esta página explica ese reparto de competencias y la gestión en toda la región; para recurrir una multa concreta en la capital, la guía es la de la ciudad."} ${radares("la Región de Murcia", 14, [["A-30", 5], ["RM-11", 2]], undefined)}`,
+    descripcion: `${"La Región de Murcia es uniprovincial, con capital en Murcia. En sus carreteras interurbanas (A-7, A-30) sanciona la DGT a través de la Jefatura Provincial de Tráfico; en las calles de cada municipio, las multas las gestiona el ayuntamiento correspondiente, que aplica su propia ordenanza de tráfico y estacionamiento. Esta página explica ese reparto de competencias y la gestión en toda la región; si la sanción es de la capital, usa la ficha de esa ciudad."} ${radares("la Región de Murcia", 14, [["A-30", 5], ["RM-11", 2]], undefined)}`,
     particularidades: [],
     zbe: ["Cartagena", "Molina de Segura"],
     keywords: ["multas de tráfico en Murcia", "cómo recurrir una multa en Murcia", "recurso multa DGT Murcia", "multa radar A-7 Murcia recurso"],

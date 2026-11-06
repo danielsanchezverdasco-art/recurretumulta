@@ -50,7 +50,13 @@
       }
       t.removeAttribute("srcset");
       if (/-card\.webp$/.test(s) && !t.dataset.fbFull) { t.dataset.fbFull = "1"; t.src = s.replace(/-card\.webp$/, ".webp"); return; }
-      t.dataset.fb = "og"; t.src = "/media/og-recurretumulta-online.png";
+      // 6/11/2026: si no existe ni la miniatura ni el original, no se pone el logo
+      // en el hueco (eso lo presentaba como foto del modelo). Se quita la imagen.
+      t.removeAttribute("src");
+      t.alt = "";
+      t.style.display = "none";
+      var fig = t.closest && t.closest("figure");
+      if (fig && !fig.querySelector("img[src]")) fig.style.display = "none";
     }, true);
   </script>
   <script>

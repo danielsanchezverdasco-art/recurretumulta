@@ -291,7 +291,7 @@ export const COCHES_YANGWANG: CocheComparador[] = [
       "Precio no anunciado; solo 30 unidades para todo el mundo",
       "No es un coche de calle normal: semislicks y setup de circuito",
       "Autonomía irrelevante: está hecho para récords, no para viajar",
-      "Récord en un solo sentido: la media de ida y vuelta sigue siendo del SSC Tuatara",
+      "Récord en un solo sentido: la media de el promedio de los dos sentidos lo conserva el SSC Tuatara",
       "Imposible de mantener fuera de China",
     ],
     largoMm: 4966,
