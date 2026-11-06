@@ -66,7 +66,7 @@ Hay un matiz que conviene no esconder. El par máximo baja de 320 a **290 Nm**, 
 
 ## Cargar ya no es el punto débil
 
-Si la autonomía era la mitad del problema, la carga era la otra mitad, y aquí el salto es el mayor de toda la actualización. La potencia máxima de carga en corriente continua sube hasta **200 kW**, frente a los 165 kW de la versión de acceso anterior y los 90 kW de la Long Range. Mazda declara **24 minutos para pasar del 10 al 80 %** en condiciones favorables, y las primeras pruebas lo corroboran como cifra realista. Es más del doble de rápido que el Long Range al que sustituye, y por fin el 6e puede parar a cargar lo que dura un café, no lo que dura una comida.
+Si la autonomía era la mitad del problema, la carga era la otra mitad, y aquí el salto es el mayor de toda la actualización. La potencia de la carga en continua sube hasta **200 kW**, frente a los 165 kW de la versión de acceso anterior y los 90 kW de la Long Range. Mazda declara **24 minutos para pasar del 10 al 80 %** en condiciones favorables, y las primeras pruebas lo corroboran como cifra realista. Es más del doble de rápido que el Long Range al que sustituye, y por fin el 6e puede parar a cargar lo que dura un café, no lo que dura una comida.
 
 En corriente alterna admite **11 kW**, con una carga completa en unas 7,9 horas: una noche en el garaje, sin más historia. No hay cifras oficiales de carga en frío extremo ni de curva de potencia sostenida, así que no las inventamos: lo que está verificado es el pico de 200 kW y los 24 minutos declarados. Para un uso real, un Madrid-Valencia o un Madrid-Alicante se hacen de una sola carga con margen, y un Madrid-Barcelona exige una única parada corta. Eso es exactamente lo que se le pedía a esta berlina desde el primer día.
 
@@ -98,7 +98,7 @@ La gama española del Mazda6e 2027 queda en tres acabados con una única mecáni
 | **Takumi Plus** | 46.375 € |
 | **Homura Plus** (nuevo) | 46.375 € |
 
-Sumando la campaña de lanzamiento y el Plan Auto+, Mazda comunica un **precio de acceso de 36.140 euros** para el Takumi y de **37.790 euros** para los acabados superiores, sin contar posibles descuentos adicionales por financiación o CAES. Las llantas son de 19 pulgadas en todos los acabados, y el nuevo Homura Plus pretende darle un toque todavía más prémium a unos acabados que ya desde el de acceso logran una elevada calidad percibida. El coche llega a los concesionarios durante este mes de noviembre de 2026.
+Con la campaña de salida y el Plan Auto+, Mazda comunica un **precio de acceso de 36.140 euros** para el Takumi y de **37.790 euros** para los acabados superiores, sin contar posibles descuentos adicionales por financiación o CAES. Las llantas son de 19 pulgadas en todos los acabados, y el nuevo Homura Plus pretende darle un toque todavía más prémium a unos acabados que ya desde el de acceso logran una elevada calidad percibida. El coche llega a los concesionarios durante este mes de noviembre de 2026.
 
 La comparación con lo anterior es instructiva. Frente al Takumi de 68,8 kWh, el nuevo cuesta **1.000 euros más** y a cambio suma 81 km de autonomía homologada y 35 kW más de pico de carga. Frente al Long Range, cuesta **600 euros menos**, tiene 13 CV más y tarda la mitad en el cargador. Es uno de esos pocos casos en los que la actualización es mejor en casi todo y apenas se paga: la subida de 1.000 euros se compensa con creces en autonomía y, sobre todo, en tiempo de carga.
 

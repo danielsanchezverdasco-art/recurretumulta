@@ -1857,7 +1857,7 @@ Vídeo: <a href=https://www.youtube.com/watch?v=iHb8P2byzqc>La Guarida del Mostr
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Jetour G700?
-En China parte de 329.900 yuanes (~39.800 €). En España no hay tarifa de marca, ni venta, ni preventa; la estimación ronda los 56.000 € con aranceles e impuestos.
+En China parte de 329.900 yuanes (~39.800 €). Aquí no hay precio oficial ni reservas abiertas; con aranceles e impuestos la cuenta ronda los 56.000 €.
 
 ### ¿Cuándo llega el Jetour G700 a España?
 La marca apunta a 2027 para su desembarco europeo y latinoamericano, tras su presentación en Argentina en octubre de 2026.

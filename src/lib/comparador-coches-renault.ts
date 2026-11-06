@@ -336,8 +336,8 @@ export const COCHES_RENAULT: CocheComparador[] = [
   {
     id: "renault-austral-2025-e-tech-200-precio-ficha-tecnica",
     textosPropios: {
-      "otrasVersiones": "El Austral restylizado de 2025 con el full hybrid E-Tech de 200 CV: aquí van sus otras versiones, la mild hybrid 150 del mismo restyling, la mild hybrid 160 de 2024 anterior al cambio de diseño y la E-Tech 200 de 2026 con los añadidos tecnológicos.",
-      "precio": "El Austral E-Tech 200 de 2025 abre en 38.054 € con el acabado Evolution. Esa cifra sale de la tarifa Renault España de octubre de 2026. El salto entre acabados está en el análisis:",
+      "otrasVersiones": "El Austral restylizado de 2025 con el híbrido E-Tech de 200 CV: al lado van el resto de versiones, la mild hybrid 150 del mismo restyling, la mild hybrid 160 anterior, de 2024, antes del cambio de diseño y la E-Tech 200 de 2026 con los añadidos tecnológicos.",
+      "precio": "El Austral E-Tech 200 de 2025 abre en 38.054 € con el acabado Evolution. Esa cifra es la lista de Renault España fechada en octubre de 2026. El salto entre acabados está en el análisis:",
     },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
@@ -421,7 +421,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
   {
     id: "renault-austral-2025-mild-hybrid-150-precio-ficha-tecnica",
     textosPropios: {
-      "otrasVersiones": "El Austral restylizado de 2025 con el mild hybrid de 150 CV: aquí van sus otras versiones, la E-Tech 200 del mismo año, la mild hybrid 160 de 2024 anterior al restyling y la E-Tech 200 de 2026.",
+      "otrasVersiones": "El Austral de 2025 ya restylizado, con el mild hybrid de 150 CV: aquí van sus otras versiones, la E-Tech 200 del mismo año, la mild hybrid 160 de 2024 anterior al restyling y la E-Tech 200 de 2026.",
       "precio": "El Austral mild hybrid 150 de 2025 parte de 34.235 € en acabado Evolution, según la tarifa Renault España de octubre de 2026. Diferencias entre acabados, en el análisis:",
     },
     garantiaBateriaAnos: null,
