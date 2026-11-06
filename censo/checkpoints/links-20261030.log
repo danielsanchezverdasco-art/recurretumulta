@@ -1,0 +1,11 @@
+[links-chunk] distintos=17544 hechos=48 pendientes=17496 chunk=600 pace=1.5
+[links-chunk] 100/600 ultimo=https://recurretumulta.online/coches/peugeot-5008-12-hybrid-136-2025-precio-ficha-tecnica/ status=200
+[links-chunk] 200/600 ultimo=https://recurretumulta.online/coches/renault-kangoo-2025-precio-ficha-tecnica/ status=200
+[links-chunk] distintos=17544 hechos=303 pendientes=17241 chunk=345 pace=1.5
+[links-chunk] 100/345 ultimo=https://recurretumulta.online/coches/bmw-i5-edrive40-2026-precio-ficha-tecnica/ status=200
+[links-chunk] 200/345 ultimo=https://recurretumulta.online/coches/jaecoo-j7-shs-2025-precio-ficha-tecnica/ status=200
+[links-chunk] 300/345 ultimo=https://recurretumulta.online/coches/wuling-cloud-ev-2024-precio-ficha-tecnica/ status=200
+[links-chunk] hecho: 345 HEADs en 859s; total_hechos=648 pendientes_restantes=16896 parada_por_errores=False
+[links-20261030] re-verificacion: https://recurretumulta.online/coches/smart-fortwo-eq-2025/ HEAD 200 y GET 200 (el unico status 0 del chunk fue transitorio; coincidio con la interrupcion externa del primer intento).
+[links-20261030] chunk hoy: 600 HEADs (255 primer intento + 345 reanudacion), 599x200 + 1x0 re-verificado 200 => 0 fallos reales, 0 tienda_a_portada. Total pase global: 648/17544, pendientes 16896.
+[links-20261030] nota: el primer intento murio tras 255 registros sin traza de error en el log (proceso ausente en ps, sesion exec desconocida); los checkpoints append+flush salvaron el progreso y la reanudacion completo el chunk sin duplicar (0 URLs duplicadas en links-status.jsonl).
