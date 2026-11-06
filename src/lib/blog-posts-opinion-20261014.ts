@@ -1,11 +1,14 @@
-// Fotos 5/11/2026 (2ª oleada, europa-retrasa-coche-auton): Wikimedia Commons, CC BY-SA 4.0, Alexander Migl (File:Mobileye Autonomous Shuttle IAA 2021 1X7A0213.jpg); Wikimedia Commons, CC BY-SA 4.0, Damian B Oh (File:42dot autonomous-DRT Shuttle (5).jpg).
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/europa-retrasa-coche-autonomo-espana-pruebas/
+//   (File:Mobileye Autonomous Shuttle IAA 2021 1X7A0213.jpg) de Alexander Migl, en Wikimedia Commons (CC BY-SA 4.0)
+//   (File:42dot autonomous-DRT Shuttle (5).jpg) de Damian B Oh (CC BY-SA 4.0) — Wikimedia Commons
+//   el repositorio.
+//   NO se presenta como foto de prensa ni se inventa crédito)
 // Blog de opinión 14/10/2026 (integración en src, sin publicar).
 // «Europa retrasa el coche autónomo, España prueba nivel 4».
 // Artículo de OPINIÓN: la queja es opinión; los hechos están verificados en
 // ~/workspace/fichas-pendientes-20261013/blog-europa-coche-autonomo-queja/fuentes.txt.
 // Revisión de 5 agentes + visto bueno SEO antes de integrar (correcciones aplicadas).
 // Foto: Tesla Cybercab reutilizada del archivo del sitio (origen no documentado
-// en el repositorio; NO se presenta como foto de prensa ni se inventa crédito).
 import type { BlogPost } from "./blog-meta.ts";
 
 export const OPINION_20261014_POSTS: BlogPost[] = [

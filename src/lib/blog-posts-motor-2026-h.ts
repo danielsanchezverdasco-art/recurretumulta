@@ -1,4 +1,4 @@
-// Fotos 5/11/2026 (2ª oleada, omoda-jaecoo-record-ventas): Wikimedia Commons, CC BY-SA 4.0, Calreyn88 (File:2024 Omoda 5 Comfort 290T 3.jpg); Wikimedia Commons, CC BY-SA 4.0, Calreyn88 (File:2024 Omoda 5 Comfort 290T.jpg); Wikimedia Commons, CC0, JustAnotherCarDesigner (File:Chery Omoda 5 006.jpg).
+// Fotos 5/11/2026 (2ª oleada, omoda-jaecoo-record-ventas): En Wikimedia Commons: Calreyn88, bajo CC BY-SA 4.0, (File:2024 Omoda 5 Comfort 290T 3.jpg) y (File:2024 Omoda 5 Comfort 290T.jpg); JustAnotherCarDesigner, en CC0, (File:Chery Omoda 5 006.jpg).
 // Artículos de novedades del motor (lote diario 2026-10-04, lote H).
 // 4 artículos: récord de ventas Omoda & Jaecoo septiembre 2026, MG HS Hybrid+
 // 225 CV (precio y pedidos abiertos), BYD Dolphin Surf MY26 con 5 plazas y

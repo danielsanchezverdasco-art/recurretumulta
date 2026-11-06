@@ -1,4 +1,4 @@
-// Fotos 5/11/2026 (2ª oleada, byd-seagull-2026-segunda-g): Wikimedia Commons, CC BY-SA 4.0, Alexander Migl (File:BYD Dolphin Surf IAA 2025 DSC 2031.jpg); Wikimedia Commons, CC BY-SA 4.0, User3204 (File:2023 BYD Seagull (front).jpg).
+// Fotos 5/11/2026 (2ª oleada, byd-seagull-2026-segunda-g): Alexander Migl es el autor de (File:BYD Dolphin Surf IAA 2025 DSC 2031.jpg) y User3204 el de (File:2023 BYD Seagull (front).jpg); ambas fotos proceden de Wikimedia Commons y comparten licencia, CC BY-SA 4.0.
 import type { BlogPost } from "./blog-meta.ts";
 
 // Radar 20/10/2026 — BYD lanza la segunda generación del Seagull en Zhengzhou con precios oficiales.

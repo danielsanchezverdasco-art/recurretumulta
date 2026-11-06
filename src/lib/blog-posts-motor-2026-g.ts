@@ -1,4 +1,4 @@
-// Fotos 5/11/2026 (2ª oleada, anfac-septiembre-2026-reco): Wikimedia Commons, CC BY-SA 4.0, Chanokchon (File:2023 Tesla Model 3 Highland Long Range AWD (Rear).jpg); Wikimedia Commons, CC BY-SA 4.0, Chanokchon (File:2023 Tesla Model 3 Highland Long Range AWD.jpg); Wikimedia Commons, CC BY-SA 4.0, Chanokchon (File:2024 Tesla Model 3 Highland Performance AWD.jpg).
+// Fotos 5/11/2026 (2ª oleada, anfac-septiembre-2026-reco): Chanokchon es el autor, en Wikimedia Commons y bajo CC BY-SA 4.0, de (File:2023 Tesla Model 3 Highland Long Range AWD (Rear).jpg), de (File:2023 Tesla Model 3 Highland Long Range AWD.jpg) y de (File:2024 Tesla Model 3 Highland Performance AWD.jpg).
 // Artículos de novedades del motor (lote diario 2026-10-04, preparado 03/10/2026).
 // 3 artículos: análisis ANFAC septiembre 2026, NIU gama 2026 (NQi Sport) y
 // Flying Flea C6 (primera eléctrica de Royal Enfield). Descartados por
@@ -180,7 +180,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "Flying Flea C6 ficha técnica",
       "moto eléctrica 6000 euros",
     ],
-    content: `<img src=/media/fotos-reales/flying-flea-c6-moto-electrica-royal-enfield-5990-euros alt=Flying Flea C6: la eléctrica de Royal Enfield por 5.990 € — fotografía del modelo>
+    content: `<img src=/media/fotos-reales/flying-flea-c6-moto-electrica-royal-enfield-5990-euros/flying-flea-c6-moto-electrica-royal-enfield-5990-euros-1.webp alt=Flying Flea C6: la eléctrica de Royal Enfield por 5.990 € — fotografía del modelo>
 
 Royal Enfield, la marca de las motos clásicas por excelencia, acaba de hacer lo impensable: lanzar su **primera moto eléctrica de producción**. La **Flying Flea C6** —bajo la nueva marca Flying Flea— cuesta **5.990 €** en Europa y las primeras entregas arrancan en **octubre de 2026** en cinco ciudades europeas, con **Barcelona** entre ellas.
 

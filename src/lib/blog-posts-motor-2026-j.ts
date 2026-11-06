@@ -1,4 +1,4 @@
-// Fotos 5/11/2026 (2ª oleada, liux-big-salon-paris-2026): Wikimedia Commons, CC BY-SA 4.0, Matiasfernandezliux (File:Frontal escenario-0001.jpg).
+// Fotos 5/11/2026 (2ª oleada, liux-big-salon-paris-2026): Matiasfernandezliux (File:Frontal escenario-0001.jpg), imagen con licencia CC BY-SA 4.0 alojada en Wikimedia Commons.
 // Artículos de novedades del motor (lote diario 2026-10-06, lote J).
 // 2 artículos: Liux BIG (startup española, debut en el Salón de París 2026)
 // y Velca Nude/Eon (marca española, naked y maxiscooter eléctricas,

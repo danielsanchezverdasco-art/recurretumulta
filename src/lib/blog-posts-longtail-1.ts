@@ -3,12 +3,26 @@
 // Añadidos manualmente al bundle estático porque no están en Convex.
 // Cifras verificadas en BOE (RDL 6/2015, RGC, CP, RDL 8/2004) y dgt.es.
 // Fotos IA en /media/.
-// Fotos 5/11/2026 (2ª oleada, multa-drogas-al-volante): Wikimedia Commons, CC BY-SA 4.0, Kgbo (File:Queensland Police Service (QPS) Roadside Drug Testing Unit (RDTU) in action.jpg); Wikimedia Commons, CC BY-SA 4.0, Kgbo (File:Queensland Police Service (QPS) Roadside Drug Testing Unit (RDTU) vehicle.jpg).
-// Fotos 5/11/2026 (2ª oleada, cuanto-tarda-en-llegar-una-multa-de-rada): Wikimedia Commons, CC BY-SA 2.0, Geographer (File:Gatso Speed Camera on Earls Colne Airfield Road - geograph.org.uk - 5861886.jpg); Wikimedia Commons, CC BY-SA 4.0, Zymurgy (File:Gatso speed camera, London July 2009.jpg); Wikimedia Commons, CC BY-SA 4.0, Ox141jf (File:Internals of a Gatso speed camera.jpg).
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/multa-drogas-al-volante/
+//   Kgbo (CC BY-SA 4.0) (File:Queensland Police Service (QPS) Roadside Drug Testing Unit (RDTU) in action.jpg), Wikimedia Commons.
+//   Wikimedia Commons: Kgbo . (CC BY-SA 4.0)
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/cuanto-tarda-en-llegar-una-multa-de-radar/
+//   Geographer (CC BY-SA 2.0) (File:Gatso Speed Camera on Earls Colne Airfield Road - geograph.org.uk - 5861886.jpg), Wikimedia Commons.
+//   Zymurgy (CC BY-SA 4.0) (File:Gatso speed camera, London July 2009.jpg), Wikimedia Commons.
+//   Ox141jf . (CC BY-SA 4.0) (File:Internals of a Gatso speed camera.jpg), Wikimedia Commons.
 // Fotos 5/11/2026 (2ª oleada, cinemometro-laser-como-funciona-multa): Wikimedia Commons, CC BY-SA 2.5, André Karwath aka Aka (File:Traffipax speedophot (aka).jpg); Wikimedia Commons, CC0, Dp8f6 (File:Vitronic Enforcement Trailer PoliScan Speed Blitzer LIDAR Infrarot 3.jpg); Wikimedia Commons, CC BY-SA 3.0, Globetrotter19 (File:Speed camera, Petőfi Sándor Street, 2020 Diósd.jpg).
-// Fotos 5/11/2026 (2ª oleada, tabla-multas-exceso-velocidad-2026): Wikimedia Commons, CC BY-SA 3.0, frankblacknoir (File:Radar Moratalaz - panoramio.jpg); Wikimedia Commons, CC BY-SA 4.0, Famartin (File:2023-03-31 18 28 46 Speed radar sign displaying the speed of a pedestrian along Mountain View Road in the Mountainview section of Ewing Township, New Jersey.jpg); Wikimedia Commons, CC BY-SA 2.0, Gary (File:UK Speed Camera Ahead Sign - geograph.org.uk - 5135157.jpg).
-// Fotos 5/11/2026 (2ª oleada, testra-dgt-consultar-multas-publicadas): Wikimedia Commons, CC BY 2.0, Shixart1985 (File:Person giving thumbs up gesture while using laptop against dark background in a home office setting.jpg); Wikimedia Commons, CC BY 2.0, Shixart1985 (File:Person stretching hands while sitting at a desk with a laptop open in a room.jpg); Wikimedia Commons, CC BY 2.0, Shixart1985 (File:Feeling discomfort at home while working on a laptop during the day.jpg).
-// Fotos 5/11/2026 (2ª oleada, chatgpt-vs-analizador-multas): Wikimedia Commons, CC BY 2.0, Shixart1985 (File:Person holding smartphone with camera app open while sitting outdoors on a sunny day, focused on taking a picture of the scene.jpg); Wikimedia Commons, CC BY-SA 4.0, Elexfedi (File:Fediverse smartphone apps (photo by Elena Rossini).jpg); Wikimedia Commons, CC0, Alejandro Escamilla alejandroescamilla (File:Man with smartphone and laptop (Unsplash).jpg).
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/tabla-multas-exceso-velocidad-2026/
+//   frankblacknoir (CC BY-SA 3.0) (File:Radar Moratalaz - panoramio.jpg), Wikimedia Commons.
+//   Famartin (CC BY-SA 4.0) (File:2023-03-31 18 28 46 Speed radar sign displaying the speed of a pedestrian along Mountain View Road in the Mountainview section of Ewing Township, New Jersey.jpg), Wikimedia Commons.
+//   Gary . — (File:UK Speed Camera Ahead Sign - geograph.org.uk - 5135157.jpg) (CC BY-SA 2.0) [Wikimedia Commons]
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/testra-dgt-consultar-multas-publicadas/
+//   Shixart1985 (CC BY 2.0) (File:Person giving thumbs up gesture while using laptop against dark background in a home office setting.jpg), Wikimedia Commons.
+//   Shixart1985 (CC BY 2.0) (File:Person stretching hands while sitting at a desk with a laptop open in a room.jpg), Wikimedia Commons.
+//   Shixart1985 . (CC BY 2.0) (File:Feeling discomfort at home while working on a laptop during the day.jpg), Wikimedia Commons.
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/chatgpt-vs-analizador-multas/
+//   Shixart1985 (CC BY 2.0) (File:Person holding smartphone with camera app open while sitting outdoors on a sunny day, focused on taking a picture of the scene.jpg), Wikimedia Commons.
+//   Elexfedi (CC BY-SA 4.0) (File:Fediverse smartphone apps (photo by Elena Rossini).jpg), Wikimedia Commons.
+//   Alejandro Escamilla alejandroescamilla . (CC0) (File:Man with smartphone and laptop (Unsplash).jpg), Wikimedia Commons.
 // Fotos 5/11/2026 (2ª oleada, multa-conducir-sin-seguro): Wikimedia Commons, CC BY 3.0, Guardia Civil (File:COVID 19. Detenidos los ocupantes de un vehículo que evadieron un control de confinamiento.png); Wikimedia Commons, CC BY-SA 4.0, Dickelbers (File:Guardia civil car 100.jpg); Wikimedia Commons, CC BY-SA 4.0, Dickelbers (File:Guardia civil car 101.jpg).
 // Fotos 5/11/2026 (2ª oleada, como-pagar-multa-dgt): Wikimedia Commons, Public domain, ThorRune (File:Parking ticket.JPG); Wikimedia Commons, CC BY-SA 4.0, Ildar Sagdejev (Specious) (File:2009-02-26 Red Hummer with parking citation.jpg); Wikimedia Commons, CC BY 2.0, David King (File:Parking officer at work.png).
 // Fotos 5/11/2026 (2ª oleada, que-pasa-si-no-pagas-una-multa): Wikimedia Commons, CC BY 3.0, Annette Teng (File:Letters in the Bike - panoramio.jpg); Wikimedia Commons, Public domain, Smithsonian Institution (File:Mailing Letters.jpg); Wikimedia Commons, CC BY-SA 4.0, John Charlton (File:Postman George Searle delivering mail, Greymouth, 1986. CC310.jpg).

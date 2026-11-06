@@ -1,31 +1,97 @@
-// Fotos 5/11/2026 (2ª oleada, multa-distancia-seguridad-): Wikimedia Commons, CC BY-SA 2.0, Chris Heaton (File:Traffic Jam on the M62 - geograph.org.uk - 7390393.jpg).
-// Fotos 5/11/2026 (2ª oleada, electricos-baratos-record-): Wikimedia Commons, CC BY-SA 4.0, Alexander Migl (File:2023 Dacia Spring 1X7A6325.jpg); foto del Dacia Spring ya presente en el pool del sitio (ficha del modelo).
-// Fotos 5/11/2026 (2ª oleada, cinturon-seguridad-reparti): Wikimedia Commons, CC BY-SA 4.0, Santeri Viinamäki (File:Car seat belt.jpg); Wikimedia Commons, CC BY-SA 4.0, ThomasYehYeh (File:2 food deliverymen waiting for the green light at Taipei Arena Station 20220819.jpg).
-// Fotos 5/11/2026 (2ª oleada, peugeot-salon-paris-2026-s): Wikimedia Commons, CC BY-SA 4.0, 2cv2026 (File:Peugeot E-T16 Concept 2026.jpg); Wikimedia Commons, CC BY-SA 4.0, Bagnole55 (File:Peugeot E-T16 interior.jpg).
+// Fotos 5/11/2026 (2ª oleada, multa-distancia-seguridad-):
+//   (File:Traffic Jam on the M62 - geograph.org.uk - 7390393.jpg) — Chris Heaton (CC BY-SA 2.0), Wikimedia Commons
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/electricos-baratos-record-europa-2026/
+//   Alexander Migl (CC BY-SA 4.0) (File:2023 Dacia Spring 1X7A6325.jpg), Wikimedia Commons.
+//   foto de Dacia Spring tomada del pool del sitio (ficha del modelo)
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/cinturon-seguridad-repartidores-pierden-exencion-octubre-2026/
+//   Santeri Viinamäki — (File:Car seat belt.jpg) (CC BY-SA 4.0) [Wikimedia Commons]
+//   ThomasYehYeh (CC BY-SA 4.0) (File:2 food deliverymen waiting for the green light at Taipei Arena Station 20220819.jpg), Wikimedia Commons.
+// Fotos 5/11/2026 (2ª oleada, peugeot-salon-paris-2026-s):
+//   (File:Peugeot E-T16 Concept 2026.jpg) — 2cv2026 (CC BY-SA 4.0), Wikimedia Commons
+//   (File:Peugeot E-T16 interior.jpg) — Bagnole55 (CC BY-SA 4.0), Wikimedia Commons
 // Artículos de octubre 2026 publicados el 02/10/2026.
 // Añadidos manualmente al bundle estático porque no están en Convex.
 // Contenido verificado con BOE (RD 518/2026) y fotos IA en /media/.
 // Artículos del 03/10/2026: radares de tramo bidireccionales + multas pernocta autocaravanas.
-// Fotos 5/11/2026 (2ª oleada, velocidad-variable-ap7-ap2-limites-panel): Wikimedia Commons, CC BY-SA 2.0, Jaggery (File:Variable speed limit signs alongside an M4 motorway entrance sliproad, Newport - geograph.org.uk - 6735270.jpg); Wikimedia Commons, Public domain, Pbech (File:Amsterdam Ringweg A10 matrixborden 20090516.jpg); Wikimedia Commons, Public domain, Pbech (File:Amsterdam Ringweg A10 matrixborden 20090516 (cropped).jpg).
-// Fotos 5/11/2026 (2ª oleada, balance-siniestralidad-septiembre-2026-d): Wikimedia Commons, CC BY-SA 4.0, Alextredz (File:Bike crash - road traffic accident.jpg); Wikimedia Commons, CC BY 3.0, Biswarup Ganguly (File:Crashed Taxi - Multiple Car Accident - Rabindra Sadan Area - Kolkata 2012-06-13 01323.jpg); Wikimedia Commons, CC BY 2.0, CGP Grey (File:2006-08-19 - Road Trip - Day 27 - United States - Utah - Car Crash - Police 4888917527.jpg).
-// Fotos 5/11/2026 (2ª oleada, radares-tramo-bidireccionales-dgt-2026-u): Wikimedia Commons, CC BY-SA 2.0, David Hawgood (File:Average speed check warning sign, A40 Western Avenue - geograph.org.uk - 4718319.jpg); Wikimedia Commons, CC BY-SA 2.5, DeFacto (File:SPECS speed cameras M1 south J11 - J10 roadworks.jpg); Wikimedia Commons, CC BY 4.0, Photo: Alexander Blum (www.alexanderblum.de) (File:Section Control Poland.jpg).
-// Fotos 5/11/2026 (2ª oleada, multa-no-ceder-paso-glorieta-200-euros-4): Wikimedia Commons, CC BY-SA 4.0, MiguelAlanCS (File:Rotonda Castralvo Teruel.jpg); Wikimedia Commons, CC BY-SA 2.0, Jonathan Billinger (File:A30, Long Rock roundabout - geograph.org.uk - 3383104.jpg).
-// Fotos 5/11/2026 (2ª oleada, marcas-coche-mas-garantia-2026): Wikimedia Commons, CC BY-SA 2.0, Eirian Evans (File:Lookers Car Showroom on Bury New Road - geograph.org.uk - 7694254.jpg); Wikimedia Commons, CC BY-SA 2.0, Derek Harper (File:New car showroom, Marsh Barton - geograph.org.uk - 5560101.jpg); Wikimedia Commons, CC BY-SA 2.0, Hugh Venables (File:Audi R8 and new car showroom (geograph 5415495).jpg).
-// Fotos 5/11/2026 (2ª oleada, multa-itv-caducada-200-500-euros-recurri): Wikimedia Commons, CC BY-SA 4.0, Estevoaei (File:Estación de ITV en Curro, Barro, xunto á estrada PO-531.jpg); Wikimedia Commons, CC BY-SA 4.0, Estevoaei (File:Polígono industrial do Espírito Santo - nave ITV.jpg).
-// Fotos 5/11/2026 (2ª oleada, irlanda-norte-noveles-restriccion-noctur): Wikimedia Commons, CC BY-SA 2.0, thejackrustles (File:Belfast by night - geograph.org.uk - 7444709.jpg); Wikimedia Commons, CC BY-SA 2.0, thejackrustles (File:Belfast by night - geograph.org.uk - 7453695.jpg); Wikimedia Commons, CC BY-SA 3.0, Ardfern (File:Dublin Road, Belfast, March 2010 (01).JPG).
-// Fotos 5/11/2026 (2ª oleada, radar-senal-falsa-400-multas-como-recurr): Wikimedia Commons, CC BY-SA 4.0, Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 Intern (File:Laan op Zuid Rotterdam-Rijnmond camera-controle sign, Feijenoord, Rotterdam (2020) 01.jpg); Wikimedia Commons, CC BY-SA 4.0, Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 Intern (File:Rotterdam-Rijnmond camera-controle sign, IJsselmonde, Rotterdam (2020) 01.jpg); Wikimedia Commons, CC BY-SA 4.0, Famartin (File:2023-03-31 18 27 23 Speed radar sign displaying the speed of a pedestrian along Mountain View Road in the Mountainview section of Ewing Township, New Jersey.jpg).
-// Fotos 5/11/2026 (2ª oleada, frenar-antes-radar-multa-200-euros): Wikimedia Commons, CC BY-SA 2.0, Gary (File:UK Police Speed Cameras Ahead Sign - geograph.org.uk - 5131356.jpg); Wikimedia Commons, CC BY-SA 2.0, Gary (File:UK Speed Camera Ahead Sign - geograph.org.uk - 5113142.jpg); Wikimedia Commons, CC BY-SA 2.0, Gary (File:UK Roundabout And Speed Camera Ahead Sign - geograph.org.uk - 5269698.jpg).
-// Fotos 5/11/2026 (2ª oleada, multa-patinete-octubre-2026-que-hacer-co): Wikimedia Commons, CC BY 4.0, 4300streetcar (File:Rider with scooter boarding route 111 bus at Haymarket September 2024.jpg); Wikimedia Commons, CC BY-SA 2.0, Pierre Marshall (File:E-scooter parking bay - geograph.org.uk - 7061381.jpg); Wikimedia Commons, CC0, KAMEI SZE 2620M (File:SZ 深圳 Shenzhen 光明新區 Guangming KeYu Road motorbikes n electric motor scooter riders with umbrellas July 2026 N13P 02.jpg).
-// Fotos 5/11/2026 (2ª oleada, campana-dgt-distracciones-octubre-2026): Wikimedia Commons, CC BY-SA 2.5, Ed Brown as Edbrown05 (File:Cell phone use while driving.jpg); Wikimedia Commons, CC BY 3.0, Kira Picabo (File:DON'T USE THE PHONE WHILE DRIVING. - panoramio.jpg); Wikimedia Commons, Public domain, WhisperToMe (File:NotextinganddrivingWestUTX.JPG).
-// Fotos 5/11/2026 (2ª oleada, multa-tirar-colilla-coche-500-euros-6-pu): Wikimedia Commons, CC BY-SA 3.0, Lamiot (File:Mégots2010 03.jpg); Wikimedia Commons, CC BY-SA 3.0 de, Túrelio (File:ZigarettenstummelNotfallzentrum 8506.jpg); Wikimedia Commons, CC BY-SA 3.0 de, Túrelio (File:NoSmokingPolicyHospitalBonn 8505.jpg).
-// Fotos 5/11/2026 (2ª oleada, multas-pernoctar-autocaravana-2026-como-): Wikimedia Commons, CC BY-SA 4.0, Elgaard (File:WoMo stellplatz Wasemweg - Mosbach.jpg); Wikimedia Commons, CC0, Elgaard (File:Besencon access way motorhome stopover.jpg); Wikimedia Commons, CC BY-SA 4.0, Elgaard (File:Womo stellplatz Bredstedt.jpg).
-// Fotos 5/11/2026 (2ª oleada, intercomunicador-casco-moto-legal-octubr): Wikimedia Commons, CC BY-SA 4.0, Asesorconsultor02 (File:Casco Integral.jpg); Wikimedia Commons, CC BY-SA 4.0, Anton Ehrola (File:2020-08 Jabra Handsfree headset.jpg); Wikimedia Commons, CC BY-SA 4.0, Anton Ehrola (File:2020-08 Handsfree Jabra 2nd-view.jpg).
-// Fotos 5/11/2026 (2ª oleada, detector-radar-vs-avisador-legal-multa): Wikimedia Commons, CC BY-SA 4.0, Raimond Spekking (File:Automotive navigation system Navigon NVG7100-1067.jpg); Wikimedia Commons, CC BY-SA 4.0, Raimond Spekking (File:Automotive navigation system Navigon NVG7100-1073.jpg); Wikimedia Commons, CC BY 2.0, Shixart1985 (File:Smartphone mounted on car dashboard during a drive in a modern vehicle with a focus on navigation use.jpg).
-// Fotos 5/11/2026 (2ª oleada, dgt-ayudas-airbag-moto-21-por-ciento): Wikimedia Commons, CC BY 2.0, The National Guard (File:Army National Guard motorcycle riders.jpg); Wikimedia Commons, CC BY-SA 4.0, Thermos (File:CrashedMotorcyclingRacingShoulderPanel.jpg); Wikimedia Commons, Public domain, U.S. Navy photo by Chief Journalist David Rush (File:US Navy 050804-N-0879R-001 A Sailor rides his motorcycle on board Naval Station Pearl Harbor.jpg).
-// Fotos 5/11/2026 (2ª oleada, multa-dron-dgt-que-infracciones-cazan): Wikimedia Commons, CC BY-SA 4.0, A.BourgeoisP (File:DJI Phantom 4 Pro - 03.jpg); Wikimedia Commons, CC0, Kevin Chow kevinchow (File:DJI Phantom (Unsplash).jpg); Wikimedia Commons, Public domain, BLM Oregon &amp; Washington (File:BLM drone training (34216006294).jpg).
-// Fotos 5/11/2026 (2ª oleada, carril-emergencia-atascos-multa-200-euro): Wikimedia Commons, CC BY 4.0, Lukas Beck (File:Berlin Rettungsgasse lub 2025-08-30 Missbrauch.jpg); Wikimedia Commons, CC BY-SA 3.0, Oxfordian Kissuth (File:A7 - traffic congestion.jpg); Wikimedia Commons, CC BY-SA 4.0, Asurnipal (File:Lauterach-Highway A14-traffic jam-01ASD.jpg).
-// Fotos 5/11/2026 (2ª oleada, multa-carnet-caducado-200-euros): Wikimedia Commons, Public domain, The Norwegian Government / Norwegian Public Roads Administration (Statens vegves (File:Norway driving licence front (2018).jpg); Wikimedia Commons, CC BY-SA 4.0, Otgermallafre (File:Domingo Gris 1967 RFME license.jpg); Wikimedia Commons, CC0, Judgefloro (File:International Driving Licence 1949 Convention Philippines 1.jpg).
-// Fotos 5/11/2026 (2ª oleada, motos-arcen-30-kmh-atascos-norma-dgt): Wikimedia Commons, CC BY 3.0, Marek Ślusarczyk (Tupungato) Photo portfolio (File:03 Gran Canaria adventure - motorcycle tour of Gran Canaria island, Spain.jpg); Wikimedia Commons, Public domain, U.S. Space Force photo by Airman 1st Class Olga Houtsma (File:Vandenberg Hosts a Motorcycle Safety Training Course (8404798).jpg); Wikimedia Commons, Public domain, U.S. Navy photo by Mass Communication Specialist 3rd Class Casey H. Kyhl (File:US Navy 100513-N-5538K-002 Chief Master-at-Arms Aaron Mitchem, assigned to the security department at Fleet Activities Sasebo, participates in a motorcycle safety class at the Akasaki Motorcycle Range.jpg).
+// Fotos 5/11/2026 (2ª oleada, velocidad-variable-ap7-ap2-limites-panel):
+//   (File:Variable speed limit signs alongside an M4 motorway entrance sliproad, Newport - geograph.org.uk - 6735270.jpg) — Jaggery (CC BY-SA 2.0), Wikimedia Commons
+//   (File:Amsterdam Ringweg A10 matrixborden 20090516.jpg) — Pbech (Public domain), Wikimedia Commons
+//   (File:Amsterdam Ringweg A10 matrixborden 20090516 (cropped) (Public domain), de Pbech, en Wikimedia Commons
+//   jpg)
+// Fotos 5/11/2026 (2ª oleada, balance-siniestralidad-septiembre-2026-d):
+//   (File:Bike crash - road traffic accident.jpg) — Alextredz (CC BY-SA 4.0), Wikimedia Commons
+//   (File:Crashed Taxi - Multiple Car Accident - Rabindra Sadan Area - Kolkata 2012-06-13 01323.jpg) — Biswarup Ganguly (CC BY 3.0), Wikimedia Commons
+//   (File:2006-08-19 - Road Trip - Day 27 - United States - Utah - Car Crash - Police 4888917527.jpg) — CGP Grey (CC BY 2.0), Wikimedia Commons
+// Fotos 5/11/2026 (2ª oleada, radares-tramo-bidireccionales-dgt-2026-u):
+//   (File:Average speed check warning sign, A40 Western Avenue - geograph.org.uk - 4718319.jpg) — David Hawgood (CC BY-SA 2.0), Wikimedia Commons
+//   (File:SPECS speed cameras M1 south J11 - J10 roadworks.jpg) — DeFacto (CC BY-SA 2.5), Wikimedia Commons
+//   Wikimedia Commons, CC BY 4.0, Photo: Alexander Blum (www.alexanderblum.de) (File:Section Control Poland.jpg)
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/multa-no-ceder-paso-glorieta-200-euros-4-puntos/
+//   MiguelAlanCS (CC BY-SA 4.0) (File:Rotonda Castralvo Teruel.jpg), Wikimedia Commons.
+//   Jonathan Billinger (CC BY-SA 2.0) (File:A30, Long Rock roundabout - geograph.org.uk - 3383104.jpg), Wikimedia Commons.
+// 2ª oleada (5/11/2026, marcas-coche-mas-garantia-2026): fotos:
+//   (File:Lookers Car Showroom on Bury New Road - geograph.org.uk - 7694254.jpg) — Eirian Evans (CC BY-SA 2.0), Wikimedia Commons
+//   (File:New car showroom, Marsh Barton - geograph.org.uk - 5560101.jpg) — Derek Harper (CC BY-SA 2.0), Wikimedia Commons
+//   (File:Audi R8 and new car showroom (geograph 5415495) — Hugh Venables (CC BY-SA 2.0), Wikimedia Commons
+//   jpg)
+// Fotos (2ª oleada, 5/11/2026, multa-itv-caducada-200-500-euros-recurri):
+//   (File:Estación de ITV en Curro, Barro, xunto á estrada PO-531.jpg) — Estevoaei (CC BY-SA 4.0), Wikimedia Commons
+//   (File:Polígono industrial do Espírito Santo - nave ITV.jpg) (CC BY-SA 4.0), de Estevoaei, en Wikimedia Commons
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/irlanda-norte-noveles-restriccion-nocturna-multas/
+//   thejackrustles (CC BY-SA 2.0) (File:Belfast by night - geograph.org.uk - 7444709.jpg), Wikimedia Commons.
+//   Wikimedia Commons: thejackrustles (CC BY-SA 2.0)
+//   (File:Dublin Road, Belfast, March 2010 (01).jpg) — Ardfern (CC BY-SA 3.0), Wikimedia Commons
+// Fotos del 5/11/2026 (2ª oleada, radar-senal-falsa-400-multas-como-recurr):
+//   Famartin (CC BY-SA 4.0), Wikimedia Commons
+//   Wikimedia Commons, CC BY-SA 4.0, Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 Intern (File:Laan op Zuid Rotterdam-Rijnmond camera-controle sign, Feijenoord, Rotterdam (2020) 01.jpg); Wikimedia Commons, CC BY-SA 4.0, Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 Intern (File:Rotterdam-Rijnmond camera-controle sign, IJsselmonde, Rotterdam (2020) 01.jpg)
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/frenar-antes-radar-multa-200-euros/
+//   Gary (CC BY-SA 2.0) (File:UK Police Speed Cameras Ahead Sign - geograph.org.uk - 5131356.jpg), Wikimedia Commons.
+//   Gary (CC BY-SA 2.0), en Wikimedia Commons.
+//   Wikimedia Commons, CC BY-SA 2.0, Gary (File:UK Roundabout And Speed Camera Ahead Sign - geograph.org.uk - 5269698.jpg)
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/multa-patinete-octubre-2026-que-hacer-como-recurrir/
+//   4300streetcar (CC BY 4.0) (File:Rider with scooter boarding route 111 bus at Haymarket September 2024.jpg), Wikimedia Commons.
+//   En Wikimedia Commons, (File:E-scooter parking bay - geograph.org.uk - 7061381.jpg): Pierre Marshall (CC BY-SA 2.0)
+//   KAMEI SZE 2620M (CC0), en Wikimedia Commons.
+// Fotos del 5/11/2026 (2ª oleada, campana-dgt-distracciones-octubre-2026):
+//   (File:Cell phone use while driving.jpg) — Ed Brown as Edbrown05 (CC BY-SA 2.5), Wikimedia Commons
+//   (File:DON'T USE THE PHONE WHILE DRIVING. - panoramio.jpg) — Kira Picabo (CC BY 3.0), Wikimedia Commons
+//   (File:NotextinganddrivingWestUTX.JPG) — WhisperToMe (Public domain), Wikimedia Commons
+// Fotos 5/11/2026 (2ª oleada, multa-tirar-colilla-coche-500-euros-6-pu):
+//   (File:Mégots2010 03.jpg) — Lamiot (CC BY-SA 3.0), Wikimedia Commons
+//   (File:ZigarettenstummelNotfallzentrum 8506.jpg) — de, Túrelio (CC BY-SA 3.0), Wikimedia Commons
+//   (File:NoSmokingPolicyHospitalBonn 8505.jpg) (CC BY-SA 3.0), de de, Túrelio, en Wikimedia Commons
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/multas-pernoctar-autocaravana-2026-como-recurrir/
+//   Elgaard — (File:WoMo stellplatz Wasemweg - Mosbach.jpg) (CC BY-SA 4.0) [Wikimedia Commons]
+//   Elgaard (CC0) (File:Besencon access way motorhome stopover.jpg), Wikimedia Commons.
+//   Elgaard — (File:Womo stellplatz Bredstedt.jpg) (CC BY-SA 4.0) [Wikimedia Commons]
+// Fotos del 5/11/2026 (2ª oleada, intercomunicador-casco-moto-legal-octubr):
+//   (File:Casco Integral.jpg) — Asesorconsultor02 (CC BY-SA 4.0), Wikimedia Commons
+//   (File:2020-08 Jabra Handsfree headset.jpg) — Anton Ehrola (CC BY-SA 4.0), Wikimedia Commons
+//   (File:2020-08 Handsfree Jabra 2nd-view.jpg) (CC BY-SA 4.0), de Anton Ehrola, en Wikimedia Commons
+// Fotos 5/11/2026 (2ª oleada, detector-radar-vs-avisador-legal-multa):
+//   (File:Automotive navigation system Navigon NVG7100-1067.jpg) — Raimond Spekking (CC BY-SA 4.0), Wikimedia Commons
+//   (File:Automotive navigation system Navigon NVG7100-1073.jpg) (CC BY-SA 4.0), de Raimond Spekking, en Wikimedia Commons
+//   (File:Smartphone mounted on car dashboard during a drive in a modern vehicle with a focus on navigation use.jpg) — Shixart1985 (CC BY 2.0), Wikimedia Commons
+// Fotos del 5/11/2026 (2ª oleada, dgt-ayudas-airbag-moto-21-por-ciento):
+//   (File:Army National Guard motorcycle riders.jpg) — The National Guard (CC BY 2.0), Wikimedia Commons
+//   (File:CrashedMotorcyclingRacingShoulderPanel.jpg) — Thermos (CC BY-SA 4.0), Wikimedia Commons
+//   (File:US Navy 050804-N-0879R-001 A Sailor rides his motorcycle on board Naval Station Pearl Harbor.jpg) — U.S. Navy photo by Chief Journalist David Rush (Public domain), Wikimedia Commons
+// 2ª oleada (5/11/2026, multa-dron-dgt-que-infracciones-cazan): fotos:
+//   (File:DJI Phantom 4 Pro - 03.jpg) — A.BourgeoisP (CC BY-SA 4.0), Wikimedia Commons
+//   (File:DJI Phantom (Unsplash) — Kevin Chow kevinchow (CC0), Wikimedia Commons
+//   jpg); Wikimedia Commons, Public domain, BLM Oregon &amp; Washington (File:BLM drone training (34216006294).jpg)
+// 2ª oleada (5/11/2026, carril-emergencia-atascos-multa-200-euro): fotos:
+//   (File:Berlin Rettungsgasse lub 2025-08-30 Missbrauch.jpg) — Lukas Beck (CC BY 4.0), Wikimedia Commons
+//   (File:A7 - traffic congestion.jpg) — Oxfordian Kissuth (CC BY-SA 3.0), Wikimedia Commons
+//   (File:Lauterach-Highway A14-traffic jam-01ASD.jpg) — Asurnipal (CC BY-SA 4.0), Wikimedia Commons
+// Fotos (2ª oleada, 5/11/2026, multa-carnet-caducado-200-euros):
+//   (File:Domingo Gris 1967 RFME license.jpg) — Otgermallafre (CC BY-SA 4.0), Wikimedia Commons
+//   (File:International Driving Licence 1949 Convention Philippines 1.jpg) — Judgefloro (CC0), Wikimedia Commons
+//   Wikimedia Commons, Public domain, The Norwegian Government / Norwegian Public Roads Administration (Statens vegves (File:Norway driving licence front (2018).jpg)
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/motos-arcen-30-kmh-atascos-norma-dgt/
+//   Foto de Airman 1st Class Olga Houtsma (Public domain), en Wikimedia Commons — U.S. Space Force
+//   Casey H. Kyhl, Mass Communication Specialist 3rd Class de la U.S. Navy (Public domain), en Wikimedia Commons
+//   (File:03 Gran Canaria adventure - motorcycle tour of Gran Canaria island, Spain.jpg) de Marek Ślusarczyk (Tupungato) Photo portfolio, en Wikimedia Commons (CC BY 3.0)
 import type { BlogPost } from "./blog-data.ts";
 
 export const OCTUBRE_2026_POSTS: BlogPost[] = [

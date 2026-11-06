@@ -1,4 +1,4 @@
-// Fotos 5/11/2026 (2ª oleada, accesorios-patinete-electr): foto ya enlazada en el propio post (Segway-Ninebot, cdn.shopify.com), rehostedada a /media; foto ya enlazada en el propio post (assets.mi.al), rehostedada a /media; foto ya enlazada en el propio post (bfgcdn.com), rehostedada a /media.
+// Fotos 5/11/2026 (2ª oleada, accesorios-patinete-electr): tres fotos que el propio post ya enlazaba (Segway-Ninebot, cdn.shopify.com; assets.mi.al; bfgcdn.com), ahora rehosteadas a /media.
 // Fotos 5/11/2026 (2ª oleada, accesorios-caravana-autoca): foto ya enlazada en el propio post (best-batteries.com), rehostedada a /media; foto ya enlazada en el propio post (whatsupdownunder.com.au), rehostedada a /media.
 // ACCESORIOS — 2 artículos de blog extensos (gadgets para caravana/autocaravana y para patinete eléctrico).
 // Fecha de publicación: 2026-10-19. Verificación de datos: 19/10/2026.

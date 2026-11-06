@@ -1,7 +1,7 @@
 // Noticia 05/10/2026: multa de hasta 1.220 € por circular en patinete sin registro ni seguro.
 // Datos verificados: OCU (140.000 de 4M registrados), Real Decreto 52/2026 (BOE-A-2026-2140),
 // Ley 5/2025 (seguro obligatorio VMP). Importes de sanciones según OCU; base legal en BOE.
-// Fotos 5/11/2026 (2ª oleada, multa-patinete-sin-registro-1220-euros): Wikimedia Commons, CC BY-SA 4.0, Spacc67 (File:Italian electric kick scooter registration plate.jpg); Wikimedia Commons, CC BY-SA 4.0, TeWeBs (File:BS HBf E-Scooter-Parken.JPG); Wikimedia Commons, CC BY-SA 4.0, Jörg Fuhrmann (Intermerker) (File:E-Scooter im Regierungsviertel.jpg).
+// 2ª oleada de fotos (5/11/2026; multa-patinete-sin-registro-1220-euros): Spacc67, Wikimedia Commons, licencia CC BY-SA 4.0 (File:Italian electric kick scooter registration plate.jpg); TeWeBs, Wikimedia Commons, licencia CC BY-SA 4.0 (File:BS HBf E-Scooter-Parken.JPG); Jörg Fuhrmann (Intermerker), Wikimedia Commons, licencia CC BY-SA 4.0 (File:E-Scooter im Regierungsviertel.jpg).
 import type { BlogPost } from "./blog-data.ts";
 
 export const PATINETE_REGISTRO_MULTA_2026_POSTS: BlogPost[] = [

@@ -1,4 +1,4 @@
-// Fotos 5/11/2026 (2ª oleada, avatr-espana-2027-06t-07l-): Wikimedia Commons, CC BY-SA 4.0, Y.Leclercq (File:Avatr 06T.jpg).
+// Fotos 5/11/2026 (2ª oleada, avatr-espana-2027-06t-07l-): (File:Avatr 06T.jpg), obra de Y.Leclercq publicada en Wikimedia Commons con la licencia CC BY-SA 4.0.
 import type { BlogPost } from "./blog-meta.ts";
 
 // Radar 21/10/2026 — AVATR desembarca en España (2027), Omoda X concept (China),

@@ -4,12 +4,15 @@
 // plazos de respuesta de la DGT. Contenido verificado con BOE (RDL 6/2015,
 // Ley 39/2015, Ley 29/1998). Añadidos manualmente al bundle estático.
 // Fotos 5/11/2026 (2ª oleada, pagar-multa-con-descuento-y-recurrir): Wikimedia Commons, CC BY-SA 4.0, ZICO (File:Euro Changeover Board of Ireland calculator 1.jpg); Wikimedia Commons, CC BY-SA 4.0, ZICO (File:Euro Changeover Board of Ireland calculator 2.jpg); Wikimedia Commons, CC BY-SA 4.0, ZICO (File:Euro Changeover Board of Ireland calculator 3.jpg).
-// Fotos 5/11/2026 (2ª oleada, cuanto-tarda-dgt-en-responder-recurso): Wikimedia Commons, CC BY-SA 3.0, Alan (File:Ayuntamiento de Bilbao, Oficinas.jpg); Wikimedia Commons, CC BY 4.0, Diario de Madrid (File:La alcaldesa pide ayuda a Interior para costear la atención a peticionarios de refugio 01.jpg).
-// Fotos 5/11/2026 (2ª oleada, como-saber-si-tengo-multas-pendientes): Wikimedia Commons, CC BY 2.0, Shixart1985 (File:A woman casually sits at a stylish outdoor table, holding a drink in one hand and checking her smartphone with the other.jpg); Wikimedia Commons, Public domain, NATO Training Mission-Afghanistan
-
-// Staff Sgt. Jeff Nevison/Photographic Technici (File:Pay-by-phone (4574165437).jpg); Wikimedia Commons, Public domain, NATO Training Mission-Afghanistan
-
-// Staff Sgt. Jeff Nevison/Photographic Technici (File:Pay-by-phone (4574794782).jpg).
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/cuanto-tarda-dgt-en-responder-recurso/
+//   Alan (CC BY-SA 3.0) (File:Ayuntamiento de Bilbao, Oficinas.jpg), Wikimedia Commons.
+//   Diario de Madrid . — (File:La alcaldesa pide ayuda a Interior para costear la atención a peticionarios de refugio 01.jpg) (CC BY 4.0) [Wikimedia Commons]
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/como-saber-si-tengo-multas-pendientes/
+//   Shixart1985 (CC BY 2.0) (File:A woman casually sits at a stylish outdoor table, holding a drink in one hand and checking her smartphone with the other.jpg), Wikimedia Commons.
+//   NATO Training Mission-Afghanistan (Public domain), en Wikimedia Commons.
+//   Staff Sgt. Jeff Nevison/Photographic Technici (File:Pay-by-phone (4574165437).jpg)
+//   Wikimedia Commons: NATO Training Mission-Afghanistan (Public domain)
+//   (File:Pay-by-phone (4574794782).jpg) de Staff Sgt. Jeff Nevison/Photographic Technici.
 import type { BlogPost } from "./blog-data.ts";
 
 export const DEMANDA_2026_POSTS: BlogPost[] = [

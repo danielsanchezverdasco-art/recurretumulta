@@ -1,4 +1,4 @@
-// Fotos 5/11/2026 (2ª oleada, renault-600-millones-elect): foto de eléctrico Renault ya presente en el pool del sitio (ficha del modelo).
+// Fotos 5/11/2026 (2ª oleada, renault-600-millones-elect): la foto del eléctrico de Renault ya estaba en el pool del sitio, en la ficha del modelo.
 // Fotos 5/11/2026 (2ª oleada, jaguar-type-01-electrico-1): Jaguar Land Rover, foto oficial de prensa (vía Infopits).
 // Fotos 5/11/2026 (2ª oleada, ue-bruselas-cuotas-hibrido): Wikimedia Commons, CC BY 4.0, acediscovery (File:Berlaymont EU Building-Brussels.jpg); Wikimedia Commons, CC0, Jai79 (File:European Commission in Brussels.jpg); Wikimedia Commons, CC0, almathias (File:Berlaymont building in Brussels.jpg).
 // Artículos de novedades del motor (lote diario 2026-10-08, lote L).

@@ -570,7 +570,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "honda-nx500-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Según el manual del propietario; intervalo no verificado",
+      intervalo: "Intervalo según el manual del propietario; no verificado",
       revisiones: [
         {
           nombre: "Revisión periódica",
@@ -945,21 +945,21 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["precioDesde", "pesoKg"],
     pros: [
-      "15 CV: se puede conducir con A1 o con B con tres años de antigüedad",
+      "15 CV: conducción con A1 o con el B (tres años de antigüedad)",
       "147 kg en seco, según la ficha de KTM (modelo 2024)",
       "Estética de la familia RC de KTM",
       "Precio de tarifa de 5.899 € en el modelo 2024 de ktm.com",
     ],
     contras: [
-      "Cifras de precio y peso tomadas de la página del modelo 2024 de KTM: pueden haber cambiado",
+      "Precio y peso tomados de la página KTM del modelo 2024: pueden haber cambiado",
       "5.899 €: más cara que otras 125 deportivas",
-      "Sin consumo ni velocidad máxima oficiales en esta ficha",
+      "Esta ficha no recoge consumo ni velocidad máxima oficiales",
       "Peso en seco: añade combustible y fluidos para el peso real",
     ],
     curiosidades: [
       "La RC 125 pertenece a la misma familia que la RC 390",
       "El permiso A1 admite hasta 11 kW; su potencia se sitúa en ese límite",
-      "Esta ficha usa la página del modelo 2024 como referencia al no localizar la tarifa de 2025",
+      "Al no localizar la tarifa de 2025, esta ficha toma como referencia la página del modelo 2024",
       "El peso de 147 kg es sin fluidos",
     ],
     imagen: "/media/ktm-rc-125-2025-ficha-tecnica-precio-oficial.webp",
@@ -987,7 +987,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "ktm-rc-125-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Según el manual del propietario; intervalo no verificado",
+      intervalo: "Lo indica el manual del propietario; intervalo no verificado",
       revisiones: [
         {
           nombre: "Revisión periódica",
@@ -1027,16 +1027,16 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "Asiento a 824 mm",
     ],
     contras: [
-      "Precio y peso tomados de las páginas del modelo 2024 de KTM: pueden haber cambiado",
+      "Las cifras de precio y peso salen de las páginas KTM del modelo 2024: pueden haber cambiado",
       "6.999 €: el precio de tarifa del modelo 2024",
       "Peso sin combustible: el real en orden de marcha es mayor",
-      "Sin consumo ni velocidad máxima oficiales en esta ficha",
+      "Consumo y velocidad máxima oficiales no figuran en esta ficha",
     ],
     curiosidades: [
       "Su motor es un monocilíndrico de 373 cc",
       "Comparte familia con la RC 125 de KTM",
-      "La ficha usa el modelo 2024 como referencia al no localizar la tarifa de 2025",
-      "Con 44 CV está por debajo del límite de 35 kW del A2",
+      "Sin tarifa de 2025 localizada, la referencia es el modelo 2024",
+      "Con 44 CV no alcanza el límite de 35 kW del A2",
     ],
     imagen: "/media/ktm-rc-390-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -1063,7 +1063,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "ktm-rc-390-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Según el manual del propietario; intervalo no verificado",
+      intervalo: "Manual del propietario; intervalo no verificado",
       revisiones: [
         {
           nombre: "Revisión periódica",
@@ -1097,7 +1097,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["precioDesde"],
     pros: [
-      "Chasis de doble viga de aluminio con horquilla invertida de 40 mm y 110 mm de recorrido",
+      "Horquilla invertida de 40 mm y 110 mm de recorrido en un chasis de doble viga de aluminio",
       "144 kg en orden de marcha y 820 mm de altura de asiento, según Piaggio",
       "Monocilíndrico de 124,2 cc con 15 CV a 10.500 rpm y 11,4 Nm a 8.500 rpm",
       "Disco delantero de 300 mm, ABS de doble canal con anti-rollover y control de tracción ATC",
@@ -1110,7 +1110,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "Un importador británico publica un depósito de 7 litros y 11,2 Nm: contrasta con tu concesionario",
     ],
     curiosidades: [
-      "El nombre RS recuerda a las Aprilia RS 125 y RS 250 de dos tiempos que corrieron en el Mundial en los noventa",
+      "El nombre RS evoca aquellas Aprilia de dos tiempos, las RS 125 y RS 250, que corrieron en el Mundial en los noventa",
       "La versión GP Replica cuesta 200 € más y cambia la decoración",
     ],
     imagen: "/media/aprilia-rs-125-2026-ficha-tecnica-precio-oficial.webp",
@@ -1264,11 +1264,11 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Motor de 125 cc con distribución variable VVA y 15 CV",
-      "Consumo homologado de 2,1 l/100 km con un depósito de 11 litros",
+      "Motor de 125 cc y 15 CV con distribución variable VVA",
+      "Con un depósito de 11 litros, el consumo homologado es de 2,1 l/100 km",
       "142 kg en orden de marcha, según Yamaha",
       "Horquilla invertida de 41 mm y chasis Deltabox",
-      "Se conduce con A1 o con B con tres años de antigüedad",
+      "Admite el A1 y también el B (este, con tres años de antigüedad)",
     ],
     contras: [
       "5.899 € (la versión Anniversary White sube a 6.099 €)",
@@ -1280,7 +1280,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "Yamaha ofrece la R125 en varias versiones de color, entre ellas la Anniversary White",
       "La autonomía teórica con el consumo homologado ronda los 520 km (cálculo propio, no oficial)",
       "El sistema VVA varía la elevación de las válvulas según el régimen",
-      "Su ficha oficial indica que la puedes conducir con A1 o con B con tres años",
+      "Su ficha oficial indica que la puedes conducir con el A1, o con el B cuando este cumple tres años",
     ],
     imagen: "/media/yamaha-yzf-r125-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -1307,7 +1307,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "yamaha-yzf-r125-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Según el manual del propietario; intervalo no verificado",
+      intervalo: "Según el manual del propietario, sin verificar el intervalo",
       revisiones: [
         {
           nombre: "Revisión periódica",
@@ -1341,7 +1341,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["precioDesde"],
     pros: [
-      "15 CV a 10.500 rpm y 11 Nm, con consumo declarado de 2,4 l/100 km",
+      "15 CV a 10.500 rpm y 11 Nm; consumo declarado: 2,4 l/100 km",
       "137 kg en orden de marcha y asiento a 785 mm",
       "Depósito de 11 litros",
       "Tarifa de 3.899 € en la web de Suzuki España (modelo 2027)",
@@ -1356,7 +1356,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "El consumo declarado es de 2,4 l/100 km",
       "La autonomía teórica con el consumo declarado ronda los 450 km (cálculo propio, no oficial)",
       "Su cilindrada real es de 124 cc",
-      "Se conduce con A1 o B con tres años de antigüedad",
+      "Carnet: A1; también el B, si suma tres años de antigüedad",
     ],
     imagen: "/media/suzuki-gsx-r125-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -1383,7 +1383,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "suzuki-gsx-r125-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Según el manual del propietario; intervalo no verificado",
+      intervalo: "Intervalo no verificado (manual del propietario)",
       revisiones: [
         {
           nombre: "Revisión periódica",
@@ -1630,7 +1630,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "royal-enfield-meteor-350-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Según el manual del propietario; intervalo no verificado",
+      intervalo: "Dato del manual del propietario; intervalo no verificado",
       revisiones: [
         {
           nombre: "Revisión periódica",

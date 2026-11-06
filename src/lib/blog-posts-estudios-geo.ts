@@ -1,8 +1,14 @@
 // Estudios originales con datos reales y verificables (GEO: contenido que las IAs citan).
 // Creados el 04/10/2026. Cero cifras inventadas: todos los datos llevan su fuente.
 // Cada estudio: 2+ imágenes, vídeo donde existe, tablas, FAQ y fuentes oficiales.
-// Fotos 5/11/2026 (2ª oleada, cuanto-cuesta-multa-espana-pagar-descuen): Wikimedia Commons, CC BY-SA 4.0, Santeri Viinamäki (File:Euro banknotes in wallet.jpg); Wikimedia Commons, CC BY-SA 4.0, Santeri Viinamäki (File:Wallet and money 20170827.jpg); Wikimedia Commons, CC BY 4.0, European Commission (File:Croatian euro coins (2).jpg).
-// Fotos 5/11/2026 (2ª oleada, radares-que-mas-multan-espana-2024-mapa-): Wikimedia Commons, CC BY-SA 2.0, Geographer (File:B1332 Norwich Road ^ Gatso Speed Camera - geograph.org.uk - 3489417.jpg); Wikimedia Commons, CC BY-SA 4.0, Tarcus2 (File:Sensy Gatso T-Series Mobile Speed Camera.jpg); Wikimedia Commons, CC BY-SA 4.0, Müllt-Renner (File:Gatso Hexentobel 02.jpg).
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/cuanto-cuesta-multa-espana-pagar-descuento-recurrir/
+//   Santeri Viinamäki — (File:Euro banknotes in wallet.jpg) (CC BY-SA 4.0) [Wikimedia Commons]
+//   Santeri Viinamäki — (File:Wallet and money 20170827.jpg) (CC BY-SA 4.0) [Wikimedia Commons]
+//   European Commission . (CC BY 4.0) (File:Croatian euro coins (2).jpg), Wikimedia Commons.
+// Fotos del 5/11/2026 (2ª oleada) — https://recurretumulta.online/blog/radares-que-mas-multan-espana-2024-mapa-datos/
+//   Geographer (CC BY-SA 2.0) (File:B1332 Norwich Road ^ Gatso Speed Camera - geograph.org.uk - 3489417.jpg), Wikimedia Commons.
+//   Tarcus2 (CC BY-SA 4.0) (File:Sensy Gatso T-Series Mobile Speed Camera.jpg), Wikimedia Commons.
+//   Müllt-Renner . (CC BY-SA 4.0) (File:Gatso Hexentobel 02.jpg), Wikimedia Commons.
 // Fotos 5/11/2026 (2ª oleada, zbe-espana-2026-ciudades-multan-cuanto-m): Wikimedia Commons, CC BY-SA 4.0, Thomas Holbach (File:2019-06-29 MadridCentralDemonstration 2.jpg); Wikimedia Commons, CC BY-SA 4.0, No Swan So Fine (File:LEZ ULEZ sign on the Holloway Road, August 2023.jpg); Wikimedia Commons, CC BY-SA 4.0, Robot8A (File:Umweltzone sign, Munich.jpg).
 import type { BlogPost } from "./blog-data.ts";
 

@@ -522,7 +522,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "Can-Am Pulse opiniones",
       "moto eléctrica A2",
     ],
-    content: `<img src=/media/fotos-reales/zero-s-2025-ficha-tecnica-precio alt=Zero S vs Can-Am Pulse 2026 — fotografía del modelo>
+    content: `<img src=/media/fotos-reales/zero-s-2025-ficha-tecnica-precio/zero-s-2025-ficha-tecnica-precio-real-1.webp alt=Zero S vs Can-Am Pulse 2026 — fotografía del modelo>
 
 El duelo de las naked eléctricas serias: la Zero S ZF15.6 (2026), con 262 km declarados y la posibilidad de llevarla con el carnet de coche convalidado, frente a la Can-Am Pulse, la vuelta de la marca canadiense a las motos tras 38 años, con carga del 20 al 80 % en 50 minutos y pantalla táctil de 10,25".
 
@@ -715,7 +715,7 @@ La **BMW F 450 R** (175 kg en orden de marcha), 13 kg menos que la Honda CB500 H
       "moto eléctrica 6000 euros",
       "scooter eléctrico baterías extraíbles",
     ],
-    content: `<img src=/media/fotos-reales/flying-flea-c6-moto-electrica-royal-enfield-5990-euros alt=C6 vs CUV e: vs NQi Sport: la eléctrica urbana ideal — fotografía del modelo>
+    content: `<img src=/media/fotos-reales/flying-flea-c6-moto-electrica-royal-enfield-5990-euros/flying-flea-c6-moto-electrica-royal-enfield-5990-euros-1.webp alt=C6 vs CUV e: vs NQi Sport: la eléctrica urbana ideal — fotografía del modelo>
 
 **¿Buscas solo los datos?** <a href=/motos/royal-enfield-flying-flea-c6-2026-ficha-tecnica-precio/>Ver ficha de la Flying Flea C6</a> · <a href=/motos/honda-cuv-e-2025-ficha-tecnica-precio/>Ver ficha de la Honda CUV e:</a> · <a href=/motos/niu-nqi-sport-scooter-electrico-1999-euros-gama-2026/>Ver ficha de la NIU NQi Sport</a> · <a href=/comparador-motos/>Compararlas cara a cara</a>.
 

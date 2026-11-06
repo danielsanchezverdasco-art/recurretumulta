@@ -1,4 +1,4 @@
-// Fotos 5/11/2026 (2ª oleada, ferrari-v12-drag-race-carw): foto del Ferrari 12Cilindri (V12) ya presente en el pool del sitio (ficha del modelo).
+// Fotos 5/11/2026 (2ª oleada, ferrari-v12-drag-race-carw): la imagen del Ferrari 12Cilindri (V12) sale del pool del sitio: es la de su ficha de modelo.
 // Radar de noticias 24/10/2026 11:58 (cron recurretumulta-radar-noticias-5h).
 // - Carwow UK publica hoy (24/10/2026, 09:15 BST) el duelo V12: 599 vs F12 vs 812 GTS
 //   vs 12 Cilindri. Solo blog: los cuatro modelos ya existen; 12Cilindri y 812 GTS

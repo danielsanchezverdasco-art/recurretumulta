@@ -505,8 +505,8 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "137 km/h de velocidad máxima y 29 CV (21,5 kW) a 7.500 rpm",
-      "Consumo homologado de 3,4 l/100 km con depósito de 11,7 litros",
+      "137 km/h de velocidad máxima y, a 7.500 rpm, 29 CV (21,5 kW)",
+      "Depósito de 11,7 litros y gasto homologado de 3,4 l/100 km",
       "Panel TFT de 5\" con RoadSync, Smart Key y USB-C",
       "Parabrisas eléctrico y control de par HSTC con tres niveles",
       "Tarifa de 6.550 € en Honda España, con transporte e IVA",

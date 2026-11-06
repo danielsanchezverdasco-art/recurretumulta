@@ -1,7 +1,6 @@
-// EURONCAP_ENRIQUECER_FN4 — recuperado por la auditoría 3 (punto ciego, 05/11/2026):
-// entradas de historia/euroncap de las tandas enriquecer-fichas-niki y lotes
-// cuya clave NO existía en el sistema montado (verificación clave a clave).
-// Fuentes: t6, t7, t9, t11, t12, t13, redo-e-c.
+// EURONCAP_ENRIQUECER_FN4 — fichero rescatado el 05/11/2026 tras detectar la auditoría 3 un punto ciego:
+// aquí van resultados de seguridad cuyas claves faltaban por completo en el sistema montado (comprobación clave a clave).
+// Entradas procedentes de t6, t7, t9, t11, t12, t13 y redo-e-c, tandas de enriquecer-fichas-niki y lotes.
 import type { SeguridadEuroNCAP } from "./seguridad-euroncap.ts";
 
 export const EURONCAP_ENRIQUECER_FN4: Record<string, SeguridadEuroNCAP> = {

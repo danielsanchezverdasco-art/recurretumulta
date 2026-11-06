@@ -4,7 +4,7 @@
 // fichas de coches (como ya ocurre con las autocaravanas), aunque el modelo es una moto.
 // Datos verificados: nota de prensa oficial de Benelli (EICMA 2021 y versión de
 // producción EICMA 2022) con la ficha técnica oficial: bicilíndrico 754 cc,
-// 76,2 CV a 8.500 rpm, 67 Nm a 6.500 rpm, 226 kg en seco, depósito 22 l,
+// 76,2 CV a 8.500 rpm y un par de 67 Nm a 6.500 rpm, 226 kg en seco, depósito 22 l,
 // asiento 834 mm, Marzocchi/Brembo, Euro 5. Fuente: bikereview.com.au
 // (transcripción de la nota oficial) y benelli.com.au. Sin tarifa oficial en
 // España (no se comercializó en la red española) → precioDesde null, no se inventa.
