@@ -168,6 +168,9 @@ async function main() {
     throw new Error("el build no referencia un /assets/index-*.js; no se prerenderiza para no hornear un bundle inexistente");
   }
   mkdirSync(dirname(MANIFEST), { recursive: true });
+  if (process.env.PRERENDER_SKIP_COMPLETE !== "1") {
+    writeFileSync(MANIFEST, "");
+  }
   writeFileSync(join(DIST, ".prerender-entry.json"), JSON.stringify({ assets: ENTRY_ASSETS }));
   console.log(`Prerender de ${ROUTES_FINAL.length} rutas… bundle ${ENTRY_ASSETS.join(" ")}`);
 
@@ -274,6 +277,19 @@ async function main() {
             entryAssets: ENTRY_ASSETS,
           });
           if (already.ok) {
+            appendFileSync(
+              MANIFEST,
+              JSON.stringify({
+                route,
+                ok: true,
+                skipped: true,
+                sha256: already.sha256,
+                bytes: already.bytes,
+                canonical: already.canonical,
+                assets: already.assets,
+                at: new Date().toISOString(),
+              }) + "\n",
+            );
             ok++;
             return;
           }

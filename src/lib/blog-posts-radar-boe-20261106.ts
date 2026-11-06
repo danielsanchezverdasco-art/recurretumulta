@@ -97,27 +97,27 @@ El procedimiento completo, con los motivos más habituales y los pasos ante el a
 
 ### ¿Desde cuándo se aplica el Real Decreto 953/2026?
 
-El real decreto se publicó en el BOE el 6 de noviembre de 2026 y no fija una fecha de entrada en vigor distinta, así que se aplica la regla general del artículo 2.1 del Código Civil: veinte días desde su publicación completa en el BOE, es decir, el **26 de noviembre de 2026**.
+La publicación es la del BOE del 6 de noviembre de 2026 (BOE-A-2026-23268). Como el texto no dice otra cosa, cuenta el artículo 2.1 del Código Civil: veinte días después de esa publicación completa, el **26 de noviembre de 2026**.
 
 ### ¿Sube la multa por entrar en una ZBE sin autorización?
 
-No. La sanción sigue siendo de **200 euros** como infracción grave, **100 euros con el pronto pago** de 20 días, y **sin pérdida de puntos**. Lo que cambia es que el ayuntamiento debe demostrar que sanciona de verdad.
+No cambia la cuantía. Sigue siendo una infracción grave de **200 euros**, que queda en **100 euros** si se abona dentro del plazo de pronto pago, y **no resta puntos**. La novedad es la prueba: el consistorio tiene que acreditar que sanciona, no solo que avisa.
 
 ### ¿Desaparecen los periodos de avisos en las ZBE?
 
-Los sistemas transitorios de avisos quedan excluidos del régimen sancionador: una ZBE que solo avisa y no multa no puede considerarse correctamente implantada. El real decreto exige acreditar la aplicación efectiva de las sanciones.
+Quedan fuera. Una zona que se limita a mandar cartas informativas y no impone sanciones no puede darse por implantada. El decreto pide prueba de que las multas se están poniendo.
 
 ### ¿Qué pasa si mi ciudad no envía la documentación exigida?
 
-Su ZBE no se considerará correctamente implantada mientras no se reciba la documentación. Eso no anula automáticamente las multas ya impuestas, pero es un argumento nuevo para valorar en un recurso dentro de los 20 días para alegar ante el ayuntamiento.
+Mientras el ministerio no reciba esos papeles, la zona no consta como implantada. Eso no borra por sí solo las denuncias ya notificadas, pero sí es un motivo que se puede llevar al recurso municipal, dentro del plazo de alegaciones.
 
 ### ¿Afecta el cambio a todas las ciudades?
 
-Afecta a todos los municipios que deben tener ZBE por la Ley 7/2021: los de **más de 50.000 habitantes**, más de 149 localidades en toda España. Cada ayuntamiento debe acreditar su zona con la misma documentación.
+Sí, a los municipios obligados por la Ley 7/2021, los que superan **50.000 habitantes** (más de 149 localidades). Todos tienen que enviar el mismo paquete de documentos.
 
 ### ¿Cómo sé si mi coche puede entrar en una ZBE?
 
-Por el distintivo ambiental de la DGT: sin etiqueta, el acceso está prohibido salvo excepciones; con B o C depende de cada ciudad; con ECO o Cero, sin restricciones. Compruébalo con la <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a>.
+Mira la pegatina. Sin distintivo, el paso está cerrado salvo las excepciones de la ordenanza. Con B o C, cada ciudad decide. Con ECO o Cero no hay veto por etiqueta. La <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a> lo resuelve con la matrícula.
 
 *Fuentes: <a href=https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23268>Real Decreto 953/2026, de 4 de noviembre (BOE-A-2026-23268)</a>, <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2022-22689>Real Decreto 1052/2022, de 27 de diciembre (BOE)</a>, <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2021-8447>Ley 7/2021, de cambio climático y transición energética (BOE)</a>, <a href=https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763>Código Civil, artículo 2.1 (BOE)</a>, <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722>Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial (BOE)</a>.*`
   }

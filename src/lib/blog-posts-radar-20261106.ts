@@ -132,22 +132,22 @@ La tabla lo resume todo: el 2027 se queda con lo mejor de cada versión anterior
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Mazda6e 2027 en España?
-Desde **44.725 €** con el acabado Takumi. Los Takumi Plus y Homura Plus cuestan 46.375 €. Con campañas de lanzamiento y el Plan Auto+, el precio de acceso baja hasta unos 36.140 €.
+El Takumi abre la gama en **44.725 €**. Takumi Plus y Homura Plus se van a 46.375 €. Si entran la campaña de lanzamiento y el Plan Auto+, el acceso puede quedar cerca de 36.140 €.
 
 ### ¿Qué autonomía tiene el Mazda6e 2027?
-**560 km en ciclo WLTP** con la batería LFP de 78 kWh. Son 8 km más que el antiguo Long Range y 81 km más que la versión de acceso de 68,8 kWh.
+La pila LFP de 78 kWh homologa **560 km WLTP**: ocho más que el Long Range que sustituye y 81 más que la de acceso de 68,8 kWh.
 
 ### ¿Cuánto tarda en cargar el Mazda6e 2027?
-En corriente continua carga a **200 kW**: del 10 al 80 % en unos 24 minutos. En alterna admite 11 kW, con la carga completa en unas 7,9 horas.
+La continua llega a **200 kW** y el tramo del 10 al 80 % ronda los 24 minutos. En casa, a 11 kW, el ciclo entero se va a unas 7,9 horas.
 
 ### ¿Qué cambia respecto al Mazda6e de 2025?
-La batería única LFP de 78 kWh sustituye a las dos anteriores (68,8 kWh y 80 kWh), la carga sube de 165/90 kW a 200 kW, el chasis lleva muelles más firmes y amortiguadores revisados, la dirección y el acelerador están recalibrados y los asistentes llegan hasta 160 km/h. El diseño no cambia.
+Desaparecen las dos pilas (68,8 y 80 kWh) y queda una LFP de 78 kWh. La potencia de carga pasa de 165/90 kW a 200 kW. Hay muelles más firmes, amortiguadores nuevos, dirección y acelerador recalibrados, y los asistentes trabajan hasta 160 km/h. La carrocería es la misma.
 
 ### ¿Cuándo llega a los concesionarios?
-Durante el mes de **noviembre de 2026**. Los pedidos ya están abiertos en la red española de Mazda.
+En **noviembre de 2026**. La red española de Mazda ya admite pedidos.
 
 ### ¿Sigue siendo un coche chino?
-La plataforma y la tecnología base vienen de **Changan**, socio de Mazda en China, y se fabrica allí. El diseño, la puesta a punto europea y la comercialización son de Mazda, y el modelo ha ganado el World Car Design of the Year 2026.
+La base técnica es de **Changan**, el socio chino de Mazda, y la fábrica está allí. El dibujo, el reglaje para Europa y la venta son de Mazda. Este curso se llevó el World Car Design of the Year 2026.
 
 El Mazda6e 2027 es lo que el 6e debería haber sido desde el primer día: una berlina eléctrica bonita, cómoda y ahora también rápida cargando. Y si te multan en silencio eléctrico, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
@@ -247,22 +247,22 @@ Esa es la clave de todo el proyecto Corvette, y la razón por la que su regreso 
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta un Corvette en España?
-El Stingray parte desde **140.000 €** en Tayre, con unidades recién fabricadas y con casi todos los extras. El Z06 asciende por encima de los 240.000 €. El precio final depende de la configuración elegida.
+En Tayre el Stingray arranca en **140.000 €**, con coches recién salidos de fábrica y casi todo el catálogo de extras. El Z06 se va por encima de 240.000 €. La cifra final la marca la configuración.
 
 ### ¿Dónde se puede comprar un Corvette en España?
-En la red oficial: **Tayre en Madrid**, concesionario oficial y servicio técnico autorizado, y **Housin en Sevilla**, que ya vendía el C8 con homologación europea. Ambos con talleres especializados y recambios originales.
+Hay dos puertas oficiales: **Tayre, en Madrid**, que es concesionario y taller autorizado, y **Housin, en Sevilla**, que ya entregaba el C8 con homologación europea. Los dos tienen recambio original.
 
 ### ¿Qué versiones del Corvette se venden en España?
-Tres: **Stingray** (V8 6.2 de 482 CV), **Z06** (V8 5.5 de 646 CV) y **E-Ray** (híbrido de 643 CV con tracción total). El ZR1 y el ZR1X no están en la oferta oficial.
+La oferta son tres: el **Stingray** con el V8 6.2 de 482 CV, el **Z06** con el V8 5.5 de 646 CV y el **E-Ray** híbrido de 643 CV y tracción a las cuatro ruedas. ZR1 y ZR1X no figuran en el encargo oficial.
 
 ### ¿El Corvette E-Ray lleva etiqueta ECO de la DGT?
-Probablemente, al ser híbrido, pero **falta comprobar el resultado de su homologación en España**. En Europa, como eléctrico puro no enchufable, no hay duda de su carácter electrificado; la etiqueta concreta depende de la homologación española.
+Lo esperable, por ser híbrido, es la ECO, pero **la pegatina española depende de la homologación** y todavía no está cerrada. En Europa nadie discute que es un coche electrificado; aquí hay que esperar el resultado del expediente.
 
 ### ¿Coupé o cabrio?
-Las dos carrocerías están disponibles. El **coupé** lleva techo rígido desmontable manual y una luna que muestra el V8. El **cabrio** tiene techo duro retráctil eléctrico que se abre en marcha.
+Se encargan las dos. En el **coupé** el techo rígido se quita a mano y una luna deja ver el V8. En el **cabrio** el techo duro se esconde solo, incluso en marcha.
 
 ### ¿Qué garantía tiene un Corvette comprado en España?
-En Estados Unidos, Chevrolet ofrece 3 años o 60.000 km. En España, la cobertura depende del concesionario oficial: pide por escrito qué cubre, durante cuánto tiempo y en qué condiciones antes de firmar, también para la parte híbrida del E-Ray.
+Chevrolet, en Estados Unidos, cubre 3 años o 60.000 km. Aquí manda el contrato del concesionario: hay que pedir por escrito qué entra, cuánto dura y qué pasa con la parte híbrida del E-Ray.
 
 El Corvette ha vuelto a España con red, con precios y con tres versiones que cubren del V8 de acceso al híbrido más rápido de su historia. Y si te multan con el V8 sonando, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 

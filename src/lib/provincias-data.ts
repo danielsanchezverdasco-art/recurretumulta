@@ -70,7 +70,7 @@ export const PROVINCIAS: Provincia[] = [
     telefonoDgt: "932 986 500",
     direccionDgt: "Avda. Gran Via de les Corts Catalanes, 184, 08071 Barcelona",
     codigoPostal: "08001",
-    descripcionLocal: "Barcelona combina las multas de la DGT en rondas y accesos con las del Ayuntamiento (zona azul/verde, superilles) y la ZBE metropolitana. Cada administración tiene su propio procedimiento de recurso. Las multas municipales las gestiona el Institut Municipal d'Hisenda (IMH) del Ayuntamiento de Barcelona: web ajuntament.barcelona.cat/hisenda, teléfono 010 (gratuito, de 7:00 a 23:00 h) y oficina en C. Llacuna, 63, 08005 Barcelona, con cita previa.",
+    descripcionLocal: "Barcelona combina las denuncias de rondas y accesos con las del consistorio (zona azul y verde, superilles) y la zona de bajas emisiones metropolitana. Cada administración abre su propio expediente. El teléfono, la web y la oficina del cobro municipal están en las preguntas de esta ficha.",
     multas: {
       tiposMasFrecuentes: ["Zona Azul/Verde", "Superilles", "Velocidad Ronda Litoral", "Semáforos"],
       radares: ["Ronda Litoral B-10", "Ronda de Dalt B-20", "C-31 Castelldefels", "AP-7 Barcelona"],
@@ -95,7 +95,7 @@ export const PROVINCIAS: Provincia[] = [
       { pregunta: "¿Cómo recurro una multa de zona restringida o de bajas emisiones en Barcelona?", respuesta: "Las multas de ZBE Zona Metropolitana Barcelona las impone el Ayuntamiento. No pagues a ciegas. Mira la etiqueta que constaba en la DGT, la visibilidad real del cartel de entrada y si la imagen identifica tu placa. Defecto de señal o fallo de lectura anulan con frecuencia estas denuncias de zona de bajas emisiones." },
       { pregunta: "¿Dónde están los radares fijos más conocidos de Barcelona?", respuesta: "Algunos tramos con controles habituales son: Ronda Litoral B-10, Ronda de Dalt B-20, C-31 Castelldefels. Si te ha llegado una multa de radar, puedes recurrirla si el cinemómetro no tenía la verificación metrológica en vigor, si la señalización del límite era incorrecta o si la foto no identifica tu vehículo con claridad." },
       { pregunta: "¿Quién gestiona las multas de tráfico en Barcelona?", respuesta: "Las multas municipales las gestiona el Institut Municipal d'Hisenda (IMH), organismo del Ayuntamiento de Barcelona. Su web es ajuntament.barcelona.cat/hisenda, el teléfono oficial es el 010 (gratuito, de 7:00 a 23:00 h; desde fuera del área metropolitana, 931 537 010) y la oficina está en C. Llacuna, 63, 08005 Barcelona, con cita previa. Las multas de carretera en Cataluña las tramita el Servei Català de Trànsit, no la DGT." },
-      { pregunta: "¿Cómo recurro una multa municipal en Barcelona?", respuesta: "Mira primero quién firma la notificación: si es el IMH, las alegaciones se presentan ante el Ayuntamiento de Barcelona en 20 días naturales y el recurso de reposición en 1 mes. Si es de carretera (SCT), el recurso va al Servei Català de Trànsit. Antes de pagar, analiza la multa gratis: pagar con el 50 % de descuento implica renunciar al recurso." },
+      { pregunta: "¿Cómo recurro una multa municipal en Barcelona?", respuesta: "Empieza por el membrete. Si firma el IMH, el escrito entra en el Ayuntamiento de Barcelona dentro de los veinte días naturales; la reposición, cuando ya hay resolución, cabe durante un mes. Si la denuncia es de carretera, el destinatario es el Servei Català de Trànsit. Abonar con la rebaja del 50 % cierra el expediente barcelonés: después no podrás alegar." },
       { pregunta: "¿Cuánto tarda en resolverse un recurso de multa en Barcelona?", respuesta: "Texto refundido de 2015, artículo 96 apartado 5: la Administración tiene un mes. Si calla, el recurso queda desestimado y la vía judicial dura dos meses. No esperes tres, ni doce." },
     ],
   },
@@ -385,7 +385,7 @@ export const PROVINCIAS: Provincia[] = [
       "multas tráfico Murcia",
       "DGT Murcia recurso",
     ],
-    faq: [{ pregunta: "¿Cuánto tarda la DGT en resolver un recurso en Murcia?", respuesta: "El plazo legal para resolver el recurso de reposición es de 1 mes desde su interposición (RDL 6/2015, art. 96.5): si la DGT no responde en ese mes, se entiende desestimado por silencio administrativo y queda abierta la vía contencioso-administrativa. No hay que esperar 3 meses." }],
+    faq: [{ pregunta: "¿Cuánto tarda la DGT en resolver un recurso en Murcia?", respuesta: "En Murcia el reloj de la reposición es el del artículo 96.5 del texto refundido de 2015: un mes desde que presentas el escrito. Si ese mes pasa en silencio, el recurso se tiene por desestimado y el contencioso queda abierto. No hace falta aguardar un trimestre." }],
   },
   {
     slug: "palma-mallorca",
@@ -1190,7 +1190,7 @@ export const PROVINCIAS: Provincia[] = [
     telefonoDgt: "974 221 700",
     direccionDgt: "Plaza Cervantes, 1, 22003 Huesca",
     codigoPostal: "22001",
-    descripcionLocal: "Huesca canaliza el tráfico pirenaico por la A-23 y la A-22, con radares en puertos y travesías. En invierno, los controles hacia las estaciones de esquí se intensifican. En la ciudad no hay organismo gestor aparte: las multas urbanas las gestiona directamente el Ayuntamiento de Huesca (la Policía Local instruye y la Tesorería cobra), web huesca.es y teléfono 974 292 100 (Plaza de la Catedral, 1, 22002 Huesca).",
+    descripcionLocal: "Huesca canaliza el tráfico pirenaico por la A-23 y la A-22, con radares en puertos y travesías. En invierno, los controles hacia las estaciones de esquí se intensifican. El teléfono, la sede y quién cobra en la ciudad están en las preguntas de esta ficha.",
     multas: {
       tiposMasFrecuentes: ["Velocidad A-23", "Aparcamiento ski", "Cinturón"],
       radares: ["A-23 Huesca-Zaragoza", "N-330 Pirinees"],
@@ -1198,8 +1198,8 @@ export const PROVINCIAS: Provincia[] = [
     },
     keywords: ["recurrir multa Huesca", "multas tráfico Huesca", "DGT Huesca recurso"],
     faq: [{ pregunta: "¿Cómo recurro una multa en zona de esquí en Huesca?", respuesta: "Las multas en zonas de estaciones de esquí de Huesca son habitualmente del Ayuntamiento o de la Guardia Civil. Verifica la competencia sancionadora antes de recurrir." },
-      { pregunta: "¿Quién gestiona las multas de tráfico en Huesca?", respuesta: "No existe un organismo gestor separado: las multas urbanas las gestiona directamente el Ayuntamiento de Huesca. La Policía Local instruye el expediente y la Tesorería (Servicio de Caja) cobra; la competencia sancionadora en vías urbanas es del alcalde (RDL 6/2015, arts. 84.4 y 7). Web: huesca.es. Teléfono oficial del Ayuntamiento: 974 292 100 (Plaza de la Catedral, 1, 22002 Huesca). Las multas de carretera van a la Jefatura Provincial de Tráfico de Huesca." },
-      { pregunta: "¿Cómo recurro una multa en Huesca?", respuesta: "Mira quién firma la notificación. Si es municipal, las alegaciones se presentan ante el Ayuntamiento de Huesca en 20 días naturales y el recurso de reposición en 1 mes. Si es de la DGT (carretera), el recurso va a la Jefatura Provincial de Tráfico de Huesca o a la sede electrónica de la DGT. Antes de pagar, analiza la multa gratis: pagar con el 50 % de descuento implica renunciar al recurso." }],
+      { pregunta: "¿Quién gestiona las multas de tráfico en Huesca?", respuesta: "No hay un ente recaudador distinto del consistorio. La Policía Local abre el expediente urbano y la Tesorería (Servicio de Caja) ingresa el dinero; en ciudad sanciona el alcalde (texto refundido de 2015, artículos 84.4 y 7). Web huesca.es. Teléfono 974 292 100, Plaza de la Catedral 1, 22002. Las denuncias de carretera salen de la Jefatura Provincial de Tráfico de Huesca." },
+      { pregunta: "¿Cómo recurro una multa en Huesca?", respuesta: "En Huesca la firma decide el trámite. Una denuncia municipal se discute ante el consistorio oscense en el plazo de veinte días naturales, y la reposición municipal dura un mes. Una de carretera se dirige a la Jefatura Provincial de Tráfico de Huesca o a la sede electrónica de la DGT. El pronto pago con descuento supone aceptar la sanción y dejar de discutirla." }],
   },
   {
     slug: "pontevedra",

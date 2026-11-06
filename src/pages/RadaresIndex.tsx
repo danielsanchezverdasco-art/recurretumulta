@@ -47,6 +47,10 @@ const fmtPk = (pk: string | number | null): string => {
   return `pk ${String(pk).trim()}`;
 };
 
+function ordenarPorClave<T>(pares: Iterable<[string, T]>): [string, T][] {
+  return [...pares].sort((a, b) => a[0].localeCompare(b[0], "es"));
+}
+
 const FAQS = [
   {
     q: "¿De dónde salen los datos de los radares?",
@@ -164,8 +168,7 @@ export default function RadaresIndexPage() {
         continue;
       g.set(r.comunidad, [...(g.get(r.comunidad) ?? []), r]);
     }
-    return [...g.entries()]
-      .sort((a, b) => a[0].localeCompare(b[0], "es"))
+    return ordenarPorClave(g.entries())
       .map(
         ([comunidad, items]) =>
           [
@@ -197,7 +200,7 @@ export default function RadaresIndexPage() {
     for (const p of PROVINCIAS) {
       g.set(p.ccaa, [...(g.get(p.ccaa) ?? []), { slug: p.slug, nombre: p.nombre }]);
     }
-    return [...g.entries()].sort((a, b) => a[0].localeCompare(b[0], "es"));
+    return ordenarPorClave(g.entries());
   }, []);
 
   return (
