@@ -108,3 +108,43 @@ Servidor estático de `dist` en el puerto 8099. Playwright, 390 px y 1366 px, so
 5. Ana no había subido aún el checkpoint al remoto en el último fetch. Si llega, hay que comparar el bundle antes de reutilizar un solo HTML.
 
 No se afirma que AdSense esté aprobado. No se promete que el sitio quede perfecto.
+
+## Estado al cerrar esta pasada (6/11, noche)
+
+Sigue sin publicarse. Bundle de esta pasada: `dist/assets/index-CIDNxUOl.js` y `index-D0IT8CSm.css`. `9cf8ef85` sigue siendo ancestro. `dist/` no entra en git.
+
+### Lo que ya no falla
+
+- Rankings. Las tres páginas (`mejores-electricos-baratos-2026`, `mejores-hibridos-2026`, `suv-electricos-mas-autonomia-2026`) ya no pintan `<img>` si `imagenOficial` no es una ruta `/media/`. `chequeo_img_dist.py` sobre el `dist` postprocesado: **0** `data-fb`, **0** `<img>` sin `src`, **0** logo como foto. Galerías G9, 6 y 4. En el HTML estático, a 390 px, el ranking de híbridos tiene 694 imágenes y ninguna sin `src`.
+- Radar. El desborde de 53 px a 390 px venía de un identificador y de la URL del XML de la DGT dentro de `.prose`, en `RadarPage.tsx`, que sigue en `no-tocar.txt` y no se ha editado. El corte está en `src/index.css` (`.prose :where(code, a, li, p)` con `overflow-wrap: anywhere`). Medido en el HTML estático de `/radares/a-1-14-56-creciente-cabina/`: scroll menos client = **0** a 390 px y a 1366 px.
+- `validar-dist-publicable.py`: 7.714 páginas, **0 bloqueantes** indexables, 0 avisos de noindex. El único bloqueo que salió (`/comparador-patinetes/`, texto «Foto pendiente») se quitó del componente y del HTML ya generado. Queda la inicial de la marca, sin frase de relleno. 18 rutas `/media` citadas y ausentes de `dist` (aviso, no bloqueo).
+- Prerender: **10.528** rutas, manifiesto `scripts/.safe-publish/prerender-manifest.jsonl` con 10.528 líneas, todas con `index-CIDNxUOl.js`. Una ruta (`/patinetes/ienyrid-m4-pro-s-plus`) salió `editorial_cargando` y se repitió sola: ok. El postproceso `adsense-dist.py` (fase blog) borra el HTML de los posts cuyo slug ya es una ficha y que ya tienen 301. 2.974 de esos borrados ya estaban en `_redirects`. **51** no tenían regla: se volvió a generar su HTML y no se ha creado ningún 301 nuevo. `public/_redirects` no ha cambiado (9.537 reglas).
+
+### rev3b del conjunto integrado
+
+Contra `9cf8ef85`, en el commit de esta pasada: **524** frases de 8 palabras nuevas y repetidas. Partía de 1.017. No es 0. No se ha movido la base ni se ha tocado el medidor. Se han reescrito las frases que de verdad se repetían (cierres de los radares del 5-6/11, preguntas que copiaban el cuerpo, Barcelona/Huesca, el orden duplicado de `RadaresIndex.tsx`). Siguen compartiendo ventanas de 8 palabras los posts largos con fichas y comparadores ya existentes (cifras de récord, plazos del RDL 6/2015, precios de tarifa). No se han cambiado las cifras para disimularlo.
+
+### Fotos
+
+Se recuperaron de git 60 rutas citadas. Las 55 que salieron son placeholders (md5 de `scripts/placeholder-md5.txt`) y se han borrado, no se commitean. Quedan **328** rutas `/media/` citadas en `src` que no están en ninguna rama. Lista: `docs/inventario/fotos-no-recuperables.txt`. No hay foto de IA, ni logo, ni foto de otro modelo puesta como oficial. El aviso del chequeo sigue: 18 de 4.515 tarjetas de blog sin foto y el hero `/media/xpeng-mona-l05-2026-precio-ficha-tecnica-hero.webp`, que está en esa lista.
+
+### 10.528, el sitemap de 6.209 y las 306+5.843
+
+No son el mismo censo y no se han creado páginas para igualarlos.
+
+- **10.528** es el conjunto único de `scripts/routes.json`: 68 estáticas (69 líneas, `comparador-motos` repetida), 54 `/multas/` + 54 `/provincias/`, 19 comunidades y los ficheros de slugs (blog 5.373, coches 2.553, motos 1.525, patinetes 651, radares 961, y el resto). La suma bruta es 11.481; el `Set` deja 10.528.
+- **6.209** es el `sitemap.xml` que sirve ahora mismo `https://recurretumulta.online/sitemap.xml` (medido el 6/11, HTTP 200). El de `main` en `3e93e630` tiene 6.021 `<loc>`. El de esta rama, en `public/sitemap.xml`, tiene 5.085. No se ha reescrito.
+- Tras el postproceso, `dist/sitemap.xml` queda en **5.815** URLs autocanónicas (`sitemap-final.py`: 375 noindex y 1.524 redirigidas con `301!` fuera; los posts cuyo canonical es la ficha no entran). No se han tocado los canonicals de las fichas para forzar la cifra.
+- **306 + 5.843 = 6.149** es la lista de prerender de Ana en su máquina, contra el bundle `index-CCSID4JO.js`, que no está en git. No es un inventario de páginas de este repositorio. Esas 306 HTML no se han reutilizado.
+
+### Cadena
+
+`npm run build` exit 0. Prerender 10.528 ok. Después, en `dist` y sin deploy: `gen-hero-variantes`, `gen-hubs`, `seo-dist`, `gen-marcas`, `apply-seo`, `fix-jsonld-fichas`, `fix-jsonld-global`, `adsense-dist` (blog y noindex), `postfix-dist`, `postfix-vacios`, `fix-redirects`, `fix-chains`, `postproceso-seo-20261019`, `postfix-foto-pendiente`, `sitemap-final`. Los generadores que reescribieron `src/lib/hub-*.json` y `blog-lite` se revirtieron: si no, el fuente dejaba de coincidir con el bundle ya prerenderizado. `adsense-dist` noindex marca el juego de los monos (ya previsto) y 32 fichas con nota 0,0 o datos vacíos; no se ha añadido otra excepción a mano.
+
+### Sigue abierto
+
+1. **rev3b = 524**, no 0. Con el candado actual no se publica.
+2. **328 fotos** citadas y no recuperables, listadas. El diseño no muestra la imagen rota; no hay sustituto inventado.
+3. El trozo `ComparadorPatinetes-B9tPrz40.js` se parcheó en `dist` para quitar «Foto pendiente» sin cambiar el nombre del bundle. El fuente ya no tiene esa frase. Un `npm run build` posterior cambiará el hash y habrá que prerenderizar otra vez.
+
+No se declara la fase terminada.
