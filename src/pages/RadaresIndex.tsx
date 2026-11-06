@@ -247,7 +247,7 @@ export default function RadaresIndexPage() {
             . Los radares nuevos se publican en la web de la DGT. Aquí tienes
             el mismo listado agrupado por comunidad autónoma, con carretera,
             punto kilométrico, sentido, tipo de radar y límite de velocidad.
-            Datos oficiales verificados: la ausencia de un radar en esta lista
+            Datos oficiales verificados: la ausencia de un radar en esta relación
             no significa que no exista.
           </p>
           <p className="text-xs text-white/60 pt-1">

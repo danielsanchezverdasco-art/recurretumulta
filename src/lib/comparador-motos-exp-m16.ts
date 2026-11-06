@@ -967,7 +967,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       "mantenimientoIntro": "Lo que puedes hacer tú en la XSR900 GP entre revisiones del concesionario.",
       "rivalesIntro": "Deportivas y sport-turismo de media cilindrada entre 12.000 y 16.000 €.",
       "fraseRivales": "Con 14.299 € de tarifa en España se coloca por encima de la Aprilia RS 660 y por debajo de la Ducati SuperSport 950, en la zona media-alta de las deportivas de su cilindrada.",
-      "faqPrecio": "14.299 € de tarifa en España para la versión full (13.999 € la versión A2 de 35 kW), consultada el 5/11/2026. Yamaha no publica PVP oficial y remite al concesionario.",
+      "faqPrecio": "14.299 € de tarifa en España para la versión full (13.999 € la versión A2 de 35 kW), consultada el 5/11/2026. Yamaha no publica PVP de marca y remite al concesionario.",
       "faqCarnet": "El A: sus 119 CV superan con creces los 35 kW (47,6 CV) que permite el A2.",
       "faqZbe": "No. Su tricilíndrico de gasolina le da la «C»; en las ZBE que limitan motos C, la GP queda sujeta a esas mismas reglas."
     },

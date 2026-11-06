@@ -2867,7 +2867,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Xiaomi",
   modelo: "Electric Scooter 5 Plus",
-  precioEur: 599.99, // tarifa oficial España (verificado 20/10/2026)
+  precioEur: 599.99, // tarifa de marca España (verificado 20/10/2026)
   potenciaNominalW: 400,
   potenciaPicoW: 900,
   autonomiaKm: 60,
