@@ -300,26 +300,26 @@ async function main() {
       // el esqueleto de carga.
       const needsReady = /^\/(blog|coches|motos|patinetes)\//.test(route);
       try {
+        const shellTitle = getTitle(readFileSync(join(ROOT, "index.html"), "utf8")) || "";
         await page.waitForFunction(
-          ({ exp, waitReady }) => {
-            const c = document.querySelector('link[rel="canonical"]');
-            if (!c || c.getAttribute("href") !== exp) return false;
+          ({ exp, waitReady, shellTitle }) => {
             // 06/10/2026: el canonical solo NO basta. El HTML servido por el
             // preview ya trae el canonical del prerender anterior, así que la
-            // espera se resolvía con el spinner del Suspense aún visible (la
-            // portada se capturaba sin el hero: el chunk lazy tarda ~3-4s).
-            // data-pageloader desaparece cuando el chunk lazy ya renderizó.
-            // 11/10/2026: ADEMÁS el wait necesita que React haya arrancado.
-            // En "/" el canonical del shell ya coincide en t=0 y data-pageloader
-            // no existe hasta el primer commit de React → sin __rootMutated el
-            // wait se resolvía antes del arranque y se bakeaba el spinner.
+            // espera se resolvía con el spinner del Suspense aún visible.
+            // 11/10/2026: en "/" el canonical del shell ya coincide en t=0.
             if (!window.__rootMutated) return false;
             if (document.querySelector("[data-pageloader]")) return false;
-            if (document.querySelector("[data-editorial-cargando]")) return false; // 31/10/2026: shard del análisis editorial
+            if (document.querySelector("[data-editorial-cargando]")) return false;
             if (waitReady && document.body.dataset.pageReady !== "1") return false;
-            return true;
+            const c = document.querySelector('link[rel="canonical"]');
+            const href = c && c.getAttribute("href");
+            if (!href || !href.startsWith("https://recurretumulta.online/")) return false;
+            if (href === exp) return true;
+            // Post que declara la canonical de su ficha. El título ya no es el del shell.
+            const title = document.title || "";
+            return title.length > 0 && title !== shellTitle;
           },
-          { exp: expectedCanon, waitReady: needsReady },
+          { exp: expectedCanon, waitReady: needsReady, shellTitle },
           { timeout: 30000 }
         );
       } catch {

@@ -67,7 +67,16 @@ export function evaluateHtml({ html, route, canonicalBase, distDir, shellTitle, 
   if (!text.includes("</html>")) reasons.push("sin_cierre");
   const canonical = getCanonical(text);
   const expected = expectedCanonical(canonicalBase, route);
-  if (canonical !== expected) reasons.push("canonical");
+  const title = getTitle(text);
+  const canonicalAjena =
+    !!canonical &&
+    canonical.startsWith(`${String(canonicalBase || "https://recurretumulta.online").replace(/\/+$/, "")}/`) &&
+    !!title &&
+    !!shellTitle &&
+    title !== shellTitle;
+  // La ruta tiene que haber pintado SU página. Algunos posts declaran a propósito
+  // la canonical de su ficha: eso no es el shell, y no se puede exigir que coincida.
+  if (canonical !== expected && !canonicalAjena) reasons.push("canonical");
   if (text.includes("data-pageloader")) reasons.push("pageloader");
   if (text.includes("data-editorial-cargando")) reasons.push("editorial_cargando");
   if (text.includes("Algo salió mal")) reasons.push("error_boundary");
