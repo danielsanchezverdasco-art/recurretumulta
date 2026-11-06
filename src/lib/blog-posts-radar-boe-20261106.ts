@@ -14,13 +14,13 @@ export const RADAR_BOE_20261106_POSTS: BlogPost[] = [
     "keywords": ["real decreto 953/2026", "zbe 2026 multas", "zonas bajas emisiones 2026", "zbe fin avisos", "multa zbe 200 euros", "real decreto 1052/2022", "zbe ayuntamientos acreditar", "recurso multa zbe"],
     "content": `<img src=/media/pilar-zbe.webp alt="Señal de Zona de Bajas Emisiones en Madrid con las etiquetas DGT admitidas">
 
-El BOE de hoy, 6 de noviembre de 2026, trae un cambio que afecta a todos los que conducen por ciudad: el **Real Decreto 953/2026, de 4 de noviembre**, modifica el régimen de las zonas de bajas emisiones y pone fin a las ZBE de papel. A partir de ahora, un ayuntamiento no puede limitarse a pintar la señal y colocar unas cámaras: para que su zona de bajas emisiones se considere correctamente implantada tiene que demostrar, con documentos, que las restricciones se aplican de verdad, que el control funciona y que las sanciones se imponen. Y lo más importante para el conductor: **los avisos transitorios ya no valen como régimen sancionador**.
+El BOE de hoy, 6 de noviembre de 2026, trae un cambio que afecta a todos los que conducen por ciudad: el **decreto 953/2026 (4 de noviembre)**, modifica el régimen de las zonas de bajas emisiones y pone fin a las ZBE de papel. A partir de ahora, un ayuntamiento no puede limitarse a pintar la señal y colocar unas cámaras: para que su zona de bajas emisiones se considere correctamente implantada tiene que demostrar, con documentos, que las restricciones se aplican de verdad, que el control funciona y que las sanciones se imponen. Y lo más importante para el conductor: **los avisos transitorios ya no valen como régimen sancionador**.
 
-La norma es breve: un solo artículo toca el apartado 3 del artículo 10 del Real Decreto 1052/2022, y con eso cambia el régimen entero. Hasta ahora, la implantación de una ZBE se daba por hecha cuando el ayuntamiento aprobaba su ordenanza y delimitaba el perímetro, y el propio preámbulo reconoce que eso no garantizaba su efectividad: había zonas aprobadas sobre el papel cuya aplicación real era desigual o meramente formal. El nuevo texto ata la validez de la implantación a la entrega de una documentación concreta al Ministerio para la Transición Ecológica y al órgano autonómico de medio ambiente. Sin esos papeles, la frase del real decreto es tajante: **"no se considerará correctamente implantada la ZBE"**.
+La norma es breve: un solo artículo toca el punto 3 del artículo 10 en el RD 1052/2022, y con eso cambia el régimen entero. Hasta ahora, la implantación de una ZBE se daba por hecha cuando el ayuntamiento aprobaba su ordenanza y delimitaba el perímetro, y el propio preámbulo reconoce que eso no garantizaba su efectividad: había zonas aprobadas sobre el papel cuya aplicación real era desigual o meramente formal. El nuevo texto ata la validez de la implantación a la entrega de una documentación concreta al Ministerio para la Transición Ecológica y al órgano autonómico de medio ambiente. Sin esos papeles, la frase del real decreto es tajante: **"no se considerará correctamente implantada la ZBE"**.
 
 ## Qué cambia exactamente: cinco papeles que cada ayuntamiento debe entregar
 
-El artículo único del Real Decreto 953/2026 cambia el apartado 3 del artículo 10 del Real Decreto 1052/2022, el que habla del seguimiento y de la comunicación de las zonas. Las entidades locales deben informar a la Subdirección General de calidad del aire y al órgano autonómico de medio ambiente sobre las ZBE de su territorio —delimitación y superficie, medidas adoptadas, calendario y resultado de los indicadores obligatorios— en el plazo máximo de un mes desde su establecimiento. Y, para que la implantación se considere debidamente acreditada, deben remitir además esta documentación:
+El artículo único del Real Decreto 953/2026 cambia el punto 3 del artículo 10 en el RD 1052/2022, el que habla del seguimiento y de la comunicación de las zonas. Las entidades locales deben informar a la Subdirección General de calidad del aire y al órgano autonómico de medio ambiente sobre las ZBE de su territorio —delimitación y superficie, medidas adoptadas, calendario y resultado de los indicadores obligatorios— en el plazo máximo de un mes desde su establecimiento. Y, para que la implantación se considere debidamente acreditada, deben remitir además esta documentación:
 
 | Documento que debe remitir el ayuntamiento | Plazo o condición |
 |---|---|
@@ -40,7 +40,7 @@ Esa fecha marca el momento en que las obligaciones documentales empiezan a ser e
 
 ## Qué significa para ti si conduces por ciudad
 
-Lo primero que hay que dejar claro es que el real decreto **no crea multas nuevas ni sube ninguna cuantía**. La sanción por acceder a una ZBE sin autorización sigue siendo la misma: infracción grave, **200 euros** —**100 euros si se paga en los 20 días del pronto pago**— y **sin pérdida de puntos**. Lo que cambia es la probabilidad de que esa multa llegue y la seriedad con la que cada ciudad tiene que tomarse su zona.
+Lo primero: el real decreto **no crea multas nuevas ni sube ninguna cuantía**. La sanción por acceder a una ZBE sin autorización sigue siendo la misma: infracción grave, **200 euros** —**100 euros si se paga en los 20 días del pronto pago**— y **sin pérdida de puntos**. Lo que cambia es la probabilidad de que esa multa llegue y la seriedad con la que cada ciudad tiene que tomarse su zona.
 
 Hasta ahora, un conductor podía encontrarse con tres realidades distintas según la ciudad: municipios que multaban desde el primer día, municipios que llevaban meses avisando sin sancionar y municipios con la ZBE aprobada pero sin control efectivo. El Real Decreto 953/2026 empuja a todos hacia el primer modelo: si tu ciudad tenía un periodo de avisos abierto, ese periodo ya no sirve para justificar la implantación, y si las cámaras o el sistema de control no estaban realmente operativos, el ayuntamiento debe acreditarlo.
 
@@ -61,11 +61,11 @@ El tercer efecto es más sutil: la norma convierte la acreditación en condició
 
 ## ¿A qué ciudades afecta?
 
-La Ley 7/2021, la de cambio climático, obliga en su artículo 14.3 a crear una zona de bajas emisiones en cada municipio que supera los 50.000 habitantes. Son **más de 149 localidades** en las que vive casi la mitad de la población española, y el Real Decreto 1052/2022, de 27 de diciembre, fija los requisitos mínimos que esas zonas deben cumplir. El Real Decreto 953/2026 no amplía ese mapa: lo que hace es exigir que cada una de esas zonas demuestre que existe de verdad.
+La Ley 7/2021, la de cambio climático, obliga en su artículo 14.3 a crear una zona de bajas emisiones en cada municipio que supera los 50.000 habitantes. Son **más de 149 localidades** en las que concentran cerca de la mitad de la población del país, y el RD 1052/2022 (27 de diciembre), fija los requisitos mínimos que esas zonas deben cumplir. El Real Decreto 953/2026 no amplía ese mapa: lo que hace es exigir que cada una de esas zonas demuestre que existe de verdad.
 
-Las dos zonas más conocidas muestran lo distinto que puede ser el panorama. En Madrid rige la norma más severa del país, con los empadronados en moratoria hasta el 31 de diciembre de 2026. En Barcelona, la zona metropolitana funciona por franjas horarias y los coches con matrícula extranjera deben inscribirse antes en el registro metropolitano. Sevilla, Valencia, Málaga y Zaragoza tienen cada una su propio calendario dentro del marco estatal. Con el nuevo real decreto, todas deben acreditar lo mismo: ordenanza vigente, restricciones en vigor, control funcionando, conexión con la DGT y sanciones aplicándose.
+Las dos zonas más conocidas muestran lo distinto que puede ser el panorama. En Madrid rige la norma más severa del país, con los empadronados en moratoria hasta el 31 de diciembre de 2026. En Barcelona, la zona metropolitana funciona por franjas horarias y los coches con matrícula extranjera tienen que estar empadronados antes en el censo metropolitano. Sevilla, Valencia, Málaga y Zaragoza tienen cada una su propio calendario dentro del marco estatal. Con el nuevo real decreto, todas deben acreditar lo mismo: ordenanza vigente, restricciones en vigor, control funcionando, conexión con la DGT y sanciones aplicándose.
 
-Si vives en un municipio de más de 50.000 habitantes y aún no sabes si tu ciudad tiene ZBE o en qué fase está, este es el momento de comprobarlo: la norma nueva obliga a los ayuntamientos a poner esa información sobre la mesa, con delimitación, superficie, medidas y calendario.
+Si vives en un municipio de por encima de 50.000 habitantes y aún no sabes si tu ciudad tiene ZBE o en qué fase está, este es el momento de comprobarlo: la norma nueva obliga a los ayuntamientos a poner esa información sobre la mesa, con delimitación, superficie, medidas y calendario.
 
 ## Tu etiqueta de la DGT sigue decidiendo si puedes entrar
 
@@ -79,7 +79,7 @@ El real decreto no toca el sistema de distintivos ambientales: lo que decide si 
 | ECO | Híbridos y gas | Sin restricciones |
 | Cero | Eléctricos | Sin restricciones |
 
-Si no tienes claro qué pegatina corresponde a tu coche, puedes resolverlo en medio minuto con la <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a>. Y si quieres el mapa completo de qué ciudades sancionan y cuánto cuesta en cada caso, lo tienes en <a href=/blog/zbe-espana-2026-ciudades-multan-cuanto-multa/>la guía de ZBE 2026: qué ciudades sancionan y cuánto cuesta</a>.
+Si no sabes qué distintivo lleva tu coche, puedes resolverlo en medio minuto con la <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a>. Y si quieres el mapa completo de qué ciudades sancionan y cuánto cuesta en cada caso, lo tienes en <a href=/blog/zbe-espana-2026-ciudades-multan-cuanto-multa/>la guía de 2026 sobre qué ciudades sancionan y cuánto piden</a>.
 
 ## Si te llega una multa de ZBE, qué revisar antes de pagar
 
@@ -91,7 +91,7 @@ Con las zonas obligadas a multar de verdad, lo sensato es revisar cada sanción 
 - **Que la ZBE estuviera debidamente implantada.** Es la novedad del Real Decreto 953/2026: si la zona no ha acreditado su implantación —ordenanza, restricciones en vigor, control funcionando y régimen sancionador aplicado—, esa falta de acreditación es un argumento nuevo que conviene valorar en el recurso.
 - **El plazo.** El escrito entra en el ayuntamiento que firmó la denuncia, dentro de los veinte días naturales que corren desde la notificación. No se dirige a la DGT.
 
-El procedimiento completo, con los motivos más habituales y los pasos ante el ayuntamiento, está en <a href=/blog/como-recurrir-multas-de-la-zbe-en-madrid-barcelona-y-toda-espana-guia-definitiva-y-modelos-con-ia/>la guía para recurrir multas de la ZBE en Madrid, Barcelona y toda España</a> y en <a href=/guias/zbe/>la guía completa sobre multas ZBE</a>. Y si no tienes claro si tu sanción tiene recorrido, en <a href=https://recurretumulta.online/#analizador>RecurreTuMulta.online</a> puedes **pasarla por el analizador**: sube el boletín y te marcamos qué conviene mirar antes de elegir entre alegar o abonar con la rebaja.
+El procedimiento completo, con los motivos más habituales y los pasos ante el ayuntamiento, está en <a href=/blog/como-recurrir-multas-de-la-zbe-en-madrid-barcelona-y-toda-espana-guia-definitiva-y-modelos-con-ia/>la guía para recurrir una multa de zona de bajas emisiones</a> y en <a href=/guias/zbe/>la guía completa sobre multas ZBE</a>. Y si no tienes claro si tu sanción tiene recorrido, en <a href=https://recurretumulta.online/#analizador>RecurreTuMulta.online</a> puedes **pasarla por el analizador**: sube el boletín y te marcamos qué conviene mirar antes de elegir entre alegar o abonar con la rebaja.
 
 ## Preguntas frecuentes
 
@@ -101,7 +101,7 @@ La publicación es la del BOE del 6 de noviembre de 2026 (BOE-A-2026-23268). Com
 
 ### ¿Sube la multa por entrar en una ZBE sin autorización?
 
-No cambia la cuantía. Sigue siendo una infracción grave de **200 euros**, que queda en **100 euros** si se abona dentro del plazo de pronto pago, y **no resta puntos**. La novedad es la prueba: el consistorio tiene que acreditar que sanciona, no solo que avisa.
+No cambia la cuantía. Sigue siendo una infracción grave de **200 euros**, que queda en **100 euros** si se paga dentro del plazo de la rebaja, y **no resta puntos**. La novedad es la prueba: el consistorio tiene que acreditar que sanciona, no solo que avisa.
 
 ### ¿Desaparecen los periodos de avisos en las ZBE?
 
@@ -119,6 +119,6 @@ Sí, a los municipios obligados por la Ley 7/2021, los que superan **50.000 habi
 
 Mira la pegatina. Sin distintivo, el paso está cerrado salvo las excepciones de la ordenanza. Con B o C, cada ciudad decide. Con ECO o Cero no hay veto por etiqueta. La <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a> lo resuelve con la matrícula.
 
-*Fuentes: <a href=https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23268>Real Decreto 953/2026, de 4 de noviembre (BOE-A-2026-23268)</a>, <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2022-22689>Real Decreto 1052/2022, de 27 de diciembre (BOE)</a>, <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2021-8447>Ley 7/2021, de cambio climático y transición energética (BOE)</a>, <a href=https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763>Código Civil, artículo 2.1 (BOE)</a>, <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722>Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial (BOE)</a>.*`
+*Fuentes: <a href=https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23268>decreto 953/2026 (4 de noviembre) (BOE-A-2026-23268)</a>, <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2022-22689>RD 1052/2022 (27 de diciembre) (BOE)</a>, <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2021-8447>Ley 7/2021, de cambio climático y transición energética (BOE)</a>, <a href=https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763>Código Civil, artículo 2.1 (BOE)</a>, <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722>Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial (BOE)</a>.*`
   }
 ];

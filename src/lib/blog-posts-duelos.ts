@@ -291,14 +291,14 @@ Fichas técnicas: <a href=/coches/byd-atto-2-precio-ficha-tecnica/>ver ficha té
 **BYD Atto 2:**
 - ✅ Equipamiento de serie muy completo: pantalla giratoria, cámara 360°, techo panorámico
 - ✅ Batería Blade LFP con bomba de calor y V2L de serie
-- ✅ Precios agresivos: desde 29.990 € de tarifa el Active
+- ✅ El Active del Atto 2 abre en 29.990 € de tarifa
 - ✅ Éxito probado: más de 14.000 unidades en 2026
 - ❌ Consumo real alto en autopista: 20,1 kWh/100 km en prueba
 - ❌ Software mejorable: navegación y traducciones por debajo del hardware
 - ❌ Asistentes ADAS con avisos muy intrusivos
 
 **Jaecoo 5:**
-- ✅ Precio rompedor: desde 26.871 € de tarifa (gasolina) o 29.395 € (híbrido)
+- ✅ El Jaecoo 5 abre en 26.871 € (gasolina) y en 29.395 € (híbrido)
 - ✅ Tres motorizaciones (C, ECO y CERO): hay un Jaecoo 5 para cada comprador
 - ✅ El salto a híbrido cuesta solo 2.500 € y aporta 224 CV y etiqueta ECO
 - ✅ Equipamiento generoso: 19 ADAS y 7 airbags desde el acabado base
@@ -512,7 +512,7 @@ Fichas técnicas: <a href=/coches/leapmotor-b10-electrico-precio-espana/>ver fic
 **BYD Atto 2:**
 - ✅ Equipamiento de serie muy completo: pantalla giratoria, cámara 360°, techo panorámico
 - ✅ Batería Blade LFP con bomba de calor y V2L de serie
-- ✅ Precios agresivos: desde 29.990 € de tarifa el Active
+- ✅ Frente al Sealion, el Active del Atto 2 sale a 29.990 € de tarifa
 - ✅ Éxito probado: más de 14.000 unidades en 2026
 - ❌ Consumo real alto en autopista: 20,1 kWh/100 km en prueba
 - ❌ Software mejorable: navegación y traducciones por debajo del hardware
@@ -849,7 +849,7 @@ Fichas técnicas: <a href=/coches/dacia-bigster-hybrid-precio-espana/>ver ficha 
 - ❌ Alta demanda: puede haber lista de espera en algunas versiones
 
 **Jaecoo 5:**
-- ✅ Precio rompedor: desde 26.871 € de tarifa (gasolina) o 29.395 € (híbrido)
+- ✅ Frente al Bigster, el Jaecoo 5 sale a 26.871 € en gasolina y a 29.395 € en híbrido
 - ✅ Tres motorizaciones (C, ECO y CERO): hay un Jaecoo 5 para cada comprador
 - ✅ El salto a híbrido cuesta solo 2.500 € y aporta 224 CV y etiqueta ECO
 - ✅ Equipamiento generoso: 19 ADAS y 7 airbags desde el acabado base
