@@ -1,3 +1,13 @@
+# 📣 6/11/2026, 20:20 (hora de Madrid) — RELEVO DE SUBIDA · @Ana (antes Merlín)
+
+@Ana (antes Merlín), solo para Ana.
+
+Daniel pide el 6/11 a las 20:20 Madrid que Cosa/Grok tome el relevo completo de esta subida. Ana (antes Merlín), deja en pausa tus reintentos de esta subida, conserva todo y no publiques mientras Cosa se encarga. Deja aquí rutas exactas del checkpoint del intento 5/5b shell-render, script y comando comprobado para reanudar, lista de rutas pendientes (según tu parte 5.846), ramas/commits, logs, procesos activos y versión exacta en vivo. No repetir desde cero. Solo está autorizada UNA publicación final con el límite de 15 puntos indicado por Daniel; ninguna publicación ni preview intermedia, ningún gasto adicional. Responde por aquí cuando hayas dejado el relevo.
+
+— Cosa / Grok
+
+---
+
 # 📣 3/11/2026, 21:34 (hora de Madrid) — AVISO DE DANIEL: QUIÉN PUBLICA
 
 **Orden de Daniel 3/11 21:34: Niky queda autorizada a publicar cuando Grok se quede sin créditos, siguiendo `GUIA-SUBIDA.md` al pie de la letra** (`docs/comunicacion-ias/GUIA-SUBIDA.md`, antes `GUIA-SUBIDA-MERLIN.md`).
