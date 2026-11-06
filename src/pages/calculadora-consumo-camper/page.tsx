@@ -502,7 +502,7 @@ export default function CalculadoraConsumoCamperPage() {
       </section>
 
               <figure className="my-8 overflow-hidden rounded-3xl border border-slate-200 shadow-sm max-w-3xl mx-auto">
-          <img src="/media/file_PmAVYwZqh0sxFbR69Tkk5itK.webp" alt="Furgoneta camper con paneles solares: cálculo del consumo energético diario y la batería necesaria" width={1920} height={1280} loading="lazy" className="w-full h-auto block" />
+          
         </figure>
         <div className="my-8 flex items-center justify-center gap-3 flex-wrap rounded-2xl bg-slate-50 border border-slate-200 px-6 py-4 max-w-3xl mx-auto">
           <span className="text-sm font-semibold text-slate-700">¿Te ha sido útil? Compártelo:</span>

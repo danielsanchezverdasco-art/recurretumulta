@@ -114,7 +114,7 @@ NIU ha movido ficha: renovación completa de su gama de scooters eléctricos par
 - **Presencia en España:** NIU declara unas 300 unidades a particulares en España y Portugal en 2026 (6,5% de cuota) y 25 puntos de venta
 - **Fuente:** <a href=https://global.niu.com/product/FQiX-150>NIU (web oficial)</a>
 
-<img src=/media/niu-nqi-sport-scooter-electrico-1999-euros-gama-2026-cuerpo.webp alt=Detalle del manillar con pantalla TFT y navegación integrada de un scooter eléctrico NIU naranja en una calle de Barcelona>
+
 
 ## La gama 2026 de un vistazo
 
@@ -198,7 +198,7 @@ Royal Enfield, la marca de las motos clásicas por excelencia, acaba de hacer lo
 - **Carnet:** A2 (etiqueta 0 de la DGT)
 - **Fuente:** <a href=https://flyingflea.royalenfield.com/in/en/product/c6/>Flying Flea (web oficial de Royal Enfield)</a>
 
-<img src=/media/flying-flea-c6-moto-electrica-royal-enfield-5990-euros-cuerpo.webp alt=Detalle de la horquilla Girder de aluminio forjado de la moto eléctrica Flying Flea C6 verde clásica>
+
 
 ## Ficha técnica rápida
 

@@ -1,4 +1,4 @@
-// Radar 06/11/2026 (13:58 CET) — Yangwang U9 Xtreme: 503,17 km/h en Abu Dabi, primer coche de producción por encima de los 500 km/h (FIA + Guinness, anunciado 06/11/2026). La ficha del modelo ya existe en la web y se actualiza en esta misma rama.
+// Radar 06/11/2026 (13:58 CET). Crónica del U9 Xtreme en Abu Dabi. La ficha del modelo ya existe y se actualiza en esta misma rama.
 // Fuentes: FIA (06/11/2026), InsideEVs (06/11/2026), electrek (06/11/2026), evo (06/11/2026), Carwow (lista de los más rápidos actualizada 06/11/2026), carsauce.
 import type { BlogPost } from "./blog-meta.ts";
 

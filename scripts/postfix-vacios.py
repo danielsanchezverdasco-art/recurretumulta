@@ -16,6 +16,9 @@ REPL = [('aparece como «—» en vez de inventarlo', 'no lo mostramos en vez de
         ('aparece como «—» en la ficha', 'no la mostramos en la ficha'),
         ('aparece como «—»: preferimos', 'no lo mostramos: preferimos')]
 ROBOTS = re.compile(r'<meta name="robots" content="[^"]*">')
+# 6/11/2026: una URL que ya está en el sitemap en vivo no se saca por esta heurística.
+_sv = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "docs", "inventario", "sitemap-vivo-20261106.txt")
+CONSERVAR = set(l.strip() for l in open(_sv, encoding="utf8") if l.startswith("/")) if os.path.isfile(_sv) else set()
 filas = paginas = 0; noidx = []
 for root, _, files in os.walk(D):
     for fn in files:
@@ -38,7 +41,7 @@ for root, _, files in os.walk(D):
         s = TR.sub(sub, s)
         rel = '/' + os.path.relpath(root, D).replace('.', '') + '/'
         rel = rel.replace('//', '/')
-        if nonlocal_claves[0] > 3 and re.match(r'^/(coches|motos|patinetes)/[^/]+/$', rel):
+        if nonlocal_claves[0] > 3 and re.match(r'^/(coches|motos|patinetes)/[^/]+/$', rel) and rel not in CONSERVAR:
             s = ROBOTS.sub('<meta name="robots" content="noindex, follow">', s, 1); noidx.append(rel)
         if s != o:
             open(p, 'w', encoding='utf-8').write(s); paginas += 1

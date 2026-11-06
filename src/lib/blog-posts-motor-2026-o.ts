@@ -129,7 +129,7 @@ Ojo con la letra pequeña: los **392 km están medidos en ciclo chino WLTC** y p
 | **Autonomía** | 392 km (WLTC, pendiente) | 292 km | 312 km |
 | **Potencia** | Sin confirmar | 176 CV | 122 CV |
 
-<img src=/media/leapmotor-b03-electrico-paris-2026-oficial-2.webp alt=Leapmotor B03, vista lateral en foto oficial de Leapmotor>
+
 
 ## Por qué importa para España
 

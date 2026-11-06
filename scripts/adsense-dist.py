@@ -21,6 +21,12 @@ if FASE in("blog","todo"):
   open(rp,"w",encoding="utf8").write(blq+R)
   INF["blog_301"]=len(reglas); INF["blog_sin_ficha"]=sin
 if FASE in("noindex","todo"):
+  # 6/11/2026: las URLs del sitemap en vivo no se pasan a noindex. Quitarlas
+  # del sitemap (5.815 frente a 6.209) era la regresión. El juego sigue en pausa.
+  conservar=set()
+  _sv=os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "docs", "inventario", "sitemap-vivo-20261106.txt")
+  if os.path.isfile(_sv):
+    conservar=set(l.strip() for l in open(_sv, encoding="utf8") if l.startswith("/"))
   marcar=["/juego-monos/","/juego-monos/bases/"]; fichas=[]  # juego en pausa (14/10, decisión final Daniel)
   # 19/10: sin patinetes. La heurística de <dd> vacíos ponía noindex en 142 patinetes que Daniel devolvió a index
   # (14:00 18/10); los patinetes se gobiernan solo con noindex.generated.json y noindex-calidad-p2.txt.
@@ -34,6 +40,7 @@ if FASE in("noindex","todo"):
       if (m and m.group(1)=="0,0") or (len(dd)>=6 and vac/len(dd)>=0.6): fichas.append((p,m.group(1) if m else None,len(dd),vac))
   marcar+= [x[0] for x in fichas]
   marcar+= [l.strip() for l in open(os.path.join(os.path.dirname(os.path.abspath(__file__)),'noindex-calidad-p2.txt')) if l.startswith('/')]
+  marcar=[p for p in marcar if p not in conservar]
   for p in marcar:
     f=f"{D}{p}index.html"
     if not os.path.isfile(f): continue

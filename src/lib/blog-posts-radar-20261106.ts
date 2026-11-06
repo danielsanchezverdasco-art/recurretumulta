@@ -1,7 +1,7 @@
 // Radar de noticias 06/11/2026 (18:58 CET) — cron recurretumulta-radar-noticias-5h.
 // - Mazda6e 2027 (pruebas publicadas 05-06/11/2026: hibridosyelectricos,
 //   coches.net, autonocion, formula1rd; nota oficial Mazda 16/09/2026):
-//   batería única LFP de 78 kWh, 560 km WLTP, carga de 200 kW, chasis
+//   pila LFP de 78 kWh, 560 km WLTP y carga a 200 kW; chasis
 //   revisado, Takumi desde 44.725 €. La ficha (mazda-6e-2027) ya existe
 //   en comparador-coches-lote17.ts con analisisSlug a este blog; en esta
 //   rama se corrigen además 0-100 (7,6 -> 7,3 s) y par (320 -> 290 Nm).
@@ -17,7 +17,7 @@ export const RADAR_20261106_1858_POSTS: BlogPost[] = [
     slug: "mazda-6e-2027-precio-bateria-lfp",
     title: "Mazda6e 2027: 560 km y carga de 200 kW desde 44.725 €",
     excerpt:
-      "El Mazda6e 2027 cambia sus dos baterías por una sola LFP de 78 kWh: 560 km WLTP, carga de 200 kW y chasis revisado. Desde 44.725 € en España.",
+      "El Mazda6e 2027 deja las dos pilas y se queda con una LFP de 78 kWh: 560 km WLTP, carga a 200 kW y chasis revisado. Desde 44.725 € en España.",
     category: "Novedades Motor",
     date: "2026-11-06",
     readTime: 8,
@@ -45,7 +45,7 @@ El **Mazda6e 2027** llega a los concesionarios españoles en noviembre con una i
 | **Motor** | Eléctrico trasero, 258 CV (190 kW), 290 Nm |
 | **Batería** | LFP de 78 kWh |
 | **Autonomía WLTP** | 560 km |
-| **Carga rápida DC** | 200 kW (10-80 % en 24 min) |
+| **Carga rápida DC** | 200 kW; del 10 al 80 % en 24 min |
 | **Carga AC** | 11 kW (completa en unas 7,9 h) |
 | **Consumo WLTP** | 16,1 kWh/100 km |
 | **0-100 km/h** | 7,3 s |
@@ -86,7 +86,7 @@ La actualización también toca los sistemas de asistencia, y aquí hay un dato 
 
 El diseño exterior apenas cambia, y tiene sentido: el 6e venía de ganar el premio **World Car Design of the Year 2026** como el coche más bonito del mundo, y no había nada que arreglar. Mantiene sus **4,92 metros** de longitud, la práctica carrocería de cinco puertas con portón tipo liftback y el atractivo **alerón trasero retráctil**, que se despliega de forma manual o automática a partir de 90 km/h. El maletero anuncia **466 litros medidos hasta el techo**, complementados por **72 litros bajo el capó delantero**, un frunk útil para los cables de carga.
 
-Dentro conserva la pantalla central de **14,6 pulgadas** y un habitáculo amplio, bien presentado y con buenos materiales. Su principal aspecto mejorable sigue siendo el mismo que en el modelo original: la excesiva dependencia de los controles táctiles para manejar numerosas funciones. No es un defecto exclusivo de Mazda, pero en un coche que presume de filosofía centrada en el conductor, sigue siendo la asignatura pendiente. La plataforma y la tecnología base vienen de **Changan**, socio de Mazda en China, pero el diseño, la puesta a punto y la comercialización en Europa son de Mazda, como ya contamos en el <a href=/blog/mazda-6e-2025-precio-ficha-tecnica/>análisis del 6e original</a>.
+Dentro conserva la pantalla central de **14,6 pulgadas** y un habitáculo amplio, bien presentado y con buenos materiales. Su principal aspecto mejorable sigue siendo el mismo que en el modelo original: la excesiva dependencia de los controles táctiles para manejar numerosas funciones. No es un defecto exclusivo de Mazda, pero en un coche que presume de filosofía centrada en el conductor, sigue siendo la asignatura pendiente. Quien pone la base es **Changan**, socio de Mazda en China, y el coche sale de esa planta. El dibujo, el reglaje europeo y la venta los firma Mazda. El detalle del 6e anterior está en el <a href=/blog/mazda-6e-2025-precio-ficha-tecnica/>análisis de 2025</a>.
 
 ## Precios y acabados en España
 
@@ -147,9 +147,9 @@ Desaparecen las dos pilas (68,8 y 80 kWh) y queda una LFP de 78 kWh. La potencia
 En **noviembre de 2026**. La red española de Mazda ya admite pedidos.
 
 ### ¿Sigue siendo un coche chino?
-La base técnica es de **Changan**, el socio chino de Mazda, y la fábrica está allí. El dibujo, el reglaje para Europa y la venta son de Mazda. Este curso se llevó el World Car Design of the Year 2026.
+La plataforma sale de **Changan**, el socio chino, y se fabrica allí. El diseño, el ajuste para Europa y la comercialización son de Mazda. Este curso se llevó el World Car Design of the Year 2026.
 
-El Mazda6e 2027 es lo que el 6e debería haber sido desde el primer día: una berlina eléctrica bonita, cómoda y ahora también rápida cargando. Y si te multan en silencio eléctrico, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+El Mazda6e 2027 es lo que el 6e debería haber sido desde el primer día: una berlina eléctrica bonita, cómoda y ahora también rápida cargando. Si llega una denuncia mientras esperas el Mazda6e, <a href=https://recurretumulta.online/#analizador>revísala en el analizador</a> antes de abonar.
 
 *Fuentes: <a href=http://www.mazda-press.com/api/assets/download/52798295-ca2a-4cfe-93d1-5fd2dcaa6954_Default?isDownload=false>nota oficial de Mazda (Mazda Motor Europe, 16/09/2026)</a>, <a href=https://www.hibridosyelectricos.com/coches/pruebas-coches/probamos-nuevo-mazda6e-ahora-con-bateria-unica-78-kwh-560-km-autonomia-cambios-mejorar-comportamiento_90376_102.html>prueba en hibridosyelectricos.com</a>, <a href=https://www.coches.net/noticias/prueba-mazda-6e-2027-presentacion>prueba en coches.net</a>, <a href=https://testcoches.es/pruebas/mazda-ha-arreglado-el-6e-su-nueva-bateria-unica-carga-mas-rapido-y-llega-mas-lejos-que-las-dos-anteriores/>análisis en testcoches.es</a> y <a href=https://formula1rd.com/probamos-el-nuevo-mazda6e-ahora-con-bateria-unica-de-78-kwh-560-km-de-autonomia-y-cambios-para-mejorar-el-comportamiento/>prueba en formula1rd.com</a>.*`
   },
@@ -193,7 +193,7 @@ La gama que Tayre comercializa en España se articula en tres versiones, todas c
 | **<a href=/coches/chevrolet-corvette-z06-2025/>Z06</a>** | V8 5.5 de cigüeñal plano | 646 CV / 8.600 rpm | 3,1 s |
 | **<a href=/coches/chevrolet-corvette-e-ray-2025/>E-Ray</a>** | V8 6.2 + motor eléctrico delantero | 643 CV (Europa) | 2,9 s |
 
-El **Stingray** es la puerta de entrada: un V8 atmosférico de 6,2 litros con 482 CV y 637 Nm de par, que pasa de 0 a 100 km/h en 3,5 segundos. Para reducir el consumo, puede desconectar la mitad de sus cilindros y circular solo con cuatro. Como opcional ofrece el **paquete Z51 Performance**, con suspensión específica, escape Performance, diferencial electrónico de deslizamiento limitado, neumáticos Michelin Pilot Sport 4S, splitter delantero y alerón trasero propio, refrigeración de mayor capacidad y frenos Brembo de alto rendimiento. Es el Corvette para quien quiere el V8 y el motor central sin pagar el sobreprecio de las versiones radicales.
+El **Stingray** abre la gama. Lleva un V8 atmosférico de 6,2 litros, 482 CV y 637 Nm, y cubre el 0-100 en 3,5 segundos. Para reducir el consumo, puede desconectar la mitad de sus cilindros y circular solo con cuatro. Como opcional ofrece el **paquete Z51 Performance**, con suspensión específica, escape Performance, diferencial electrónico de deslizamiento limitado, neumáticos Michelin Pilot Sport 4S, splitter delantero y alerón trasero propio, refrigeración de mayor capacidad y frenos Brembo de alto rendimiento. Es el Corvette para quien quiere el V8 y el motor central sin pagar el sobreprecio de las versiones radicales.
 
 El **Z06** es la versión de circuito. No comparte motor con el Stingray: monta un V8 más compacto, de 5,5 litros, con **cigüeñal plano** pensado para girar alto, hasta las **8.600 rpm**, y **646 CV**. Es el Corvette atmosférico más extremo que Chevrolet ha fabricado, y el que mejor encarna la idea original del modelo: un deportivo americano capaz de mirar de frente a los europeos en su propio terreno.
 

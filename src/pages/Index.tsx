@@ -13,6 +13,7 @@ import u from "@/components/shared-navbar.tsx";
 import te from "@/components/shared-footer.tsx";
 import { useTranslation as d } from "react-i18next";
 import { cn as b } from "@/lib/utils.ts";
+import { fotoVisible } from "@/lib/fotos-ausentes.ts";
 import { Button as ne } from "@/components/ui/button.tsx";
 import { Link as S } from "react-router-dom";
 import w from "@/components/caza-monos/MonoEscondido.tsx";
@@ -1218,7 +1219,7 @@ function $() {
                   (0, B.jsx)(`div`, {
                     className: `grid gap-3 sm:grid-cols-2`,
                     children: de.map((e) => {
-                      let t = e.heroSrc,
+                      let t = fotoVisible(e.heroSrc),
                         n = e.heroAlt || e.title;
                       return (0, B.jsx)(
                         S,

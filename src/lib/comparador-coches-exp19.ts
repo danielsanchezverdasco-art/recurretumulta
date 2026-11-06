@@ -34,7 +34,7 @@ export const COCHES_EXP19: CocheComparador[] = [
     modelo: "Austral E-Tech 200",
     tipo: "Híbrido",
     categoria: "SUV",
-    precioDesde: 38054, // tarifa Renault España oct-2026: Evolution E-Tech 200, misma que la 2025 (verificado 05/11/2026)
+    precioDesde: 38054, // misma cifra Evolution E-Tech 200 que en 2025; tarifa de octubre 2026 revisada el 05/11/2026
     potenciaCv: 200,
     autonomiaKm: null,
     maleteroL: 555,

@@ -363,7 +363,7 @@ Cincuenta años después de que el Golf GTI original estrenara unas siglas hoy l
 | Peso | 1.540 kg |
 | Etiqueta DGT | Cero |
 
-<img src=/media/volkswagen-id-polo-gti-electrico-2026-precio-galeria-1.webp alt=Hot hatch eléctrico rojo de tres cuartos trasero en un circuito al amanecer, imagen editorial>
+
 
 ## Un GTI auténtico, ahora sin gasolina
 
@@ -373,7 +373,7 @@ La marca no se conforma con añadir unas siglas al portón: este Polo GTI debuta
 
 En Alemania la reserva anticipada se abrió en 39.995 €, y la compañía comunicó que la preventa otoñal se situaría «ligeramente inferior a 39.000 €». El cálculo para España, en torno a ≈39.000 €, descansa en ese comunicado oficial y no en un cambio de moneda, y aparece señalado como NO oficial en cada lugar donde figura. Cuando Volkswagen difunda la tarifa española, lo actualizaremos. <a href=/comparador-coches/>Compáralos con sus rivales en el comparador</a>.
 
-<img src=/media/volkswagen-id-polo-gti-electrico-2026-precio-galeria-2.webp alt=Interior deportivo de un hot hatch eléctrico con costuras rojas, imagen editorial><img src=/media/volkswagen-id-polo-2026-precio-ficha-tecnica-hero.webp alt=VW ID. Polo GTI eléctrico: 226 CV y ≈39.000 € — fotografía del modelo><img src=/media/volkswagen-id-polo-2026-precio-ficha-tecnica-hunt1.webp alt=VW ID. Polo GTI eléctrico: 226 CV y ≈39.000 € — fotografía del modelo>
+<img src=/media/volkswagen-id-polo-2026-precio-ficha-tecnica-hero.webp alt=VW ID. Polo GTI eléctrico: 226 CV y ≈39.000 € — fotografía del modelo><img src=/media/volkswagen-id-polo-2026-precio-ficha-tecnica-hunt1.webp alt=VW ID. Polo GTI eléctrico: 226 CV y ≈39.000 € — fotografía del modelo>
 
 ## Dudas habituales
 
@@ -427,13 +427,13 @@ El Striker no apuesta por una sola tecnología: el **Hybrid 155** es el familiar
 
 Primera toma de contacto con el Dacia Striker, por <a href=https://www.youtube.com/watch?v=FwGLIUtMroU>carwow España</a>.
 
-<img src=/media/dacia-striker-2026-precio-ficha-galeria-1.webp alt=Crossover familiar verde oscuro de perfil en un concesionario, imagen editorial>
+
 
 ## Dónde se coloca
 
 Con 4,62 m y 600 litros de maletero, el Striker juega en la liga del Skoda Octavia Combi pero a precio Dacia: por debajo de 25.000 € no hay rival familiar híbrido que se le acerque. En casa compite con su hermano mayor, el <a href=/coches/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica/>Bigster Hybrid 155</a>. <a href=/comparador-coches/>Compáralos en nuestro comparador de coches</a> cuando Dacia publique la tarifa española.
 
-<img src=/media/dacia-striker-2026-precio-ficha-galeria-2.webp alt=Maletero amplio de un crossover familiar con maletas, imagen editorial><img src=/media/dacia-striker-hybrid-155-2026-precio-ficha-tecnica-hero.webp alt=Dacia Striker 2026: familiar híbrido por menos de 25.000 € — fotografía del modelo><img src=/media/dacia-striker-hybrid-155-2026-precio-ficha-tecnica-hunt1.webp alt=Dacia Striker 2026: familiar híbrido por menos de 25.000 € — fotografía del modelo>
+<img src=/media/dacia-striker-hybrid-155-2026-precio-ficha-tecnica-hero.webp alt=Dacia Striker 2026: familiar híbrido por menos de 25.000 € — fotografía del modelo><img src=/media/dacia-striker-hybrid-155-2026-precio-ficha-tecnica-hunt1.webp alt=Dacia Striker 2026: familiar híbrido por menos de 25.000 € — fotografía del modelo>
 
 ## Preguntas frecuentes
 

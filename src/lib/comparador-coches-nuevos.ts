@@ -3323,7 +3323,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       "Interior premium con pantalla panorámica de 35,4 pulgadas",
     ],
     contras: [
-      "Sin venta ni PVP oficial en España: el precio de esta ficha (56.000 €) es una estimación con aranceles; en China el Zongheng G700 parte de 329.900 yuanes (unos 39.800 €)",
+      "Sin venta ni PVP oficial en España: el precio de esta ficha (56.000 €) es una estimación con aranceles; en China el Zongheng G700 abre la gama en 329.900 yuanes (unos 39.800 €)",
       "Llegada a Europa prevista para 2027",
       "Pesa más de 3.000 kg: atención al carnet necesario",
       "Red de talleres Jetour aún pequeña en España",

@@ -965,7 +965,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       "Ligera (133 kg) y muy manejable en ciudad",
       "Bajo el asiento queda sitio para un casco integral",
       "Sistema Idle Stop que apaga el motor en semáforos",
-      "Versión DX nueva por 3.810 €: TFT de 5 pulgadas con Honda RoadSync y amortiguadores traseros de depósito separado",
+      "Versión DX, 3.810 €: pantalla de 5 pulgadas con RoadSync y amortiguador trasero de depósito separado",
     ],
     contras: [
       "12,3 CV: de las 125 menos potentes, justa en cuestas con pasajero",

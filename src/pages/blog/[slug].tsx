@@ -23,6 +23,7 @@ const ResenasVehiculoLazy = lazy(() => import("@/components/ResenasVehiculo.tsx"
 const ReaccionesPostLazy = lazy(() => import("@/components/audiencia/ReaccionesPost.tsx"));
 import { Diferido } from "@/components/audiencia/Diferido.tsx";
 import { useSeo } from "@/hooks/use-seo.ts";
+import { fotoVisible } from "@/lib/fotos-ausentes.ts";
 import AdBanner, { AD_SLOTS } from "@/components/ads/AdBanner.tsx";
 import { useQuery } from "convex/react";
 import { api } from "@/convex/_generated/api.js";
@@ -629,8 +630,8 @@ function BlogPostPage() {
     <div className="min-h-screen bg-white">
       {/* LCP 05/10/2026: preload de la hero del artículo (React 19 la eleva al <head>;
           el prerender la captura en el HTML estático). */}
-      {heroSrc ? (
-        <link rel="preload" as="image" href={heroSrc} fetchPriority="high" />
+      {fotoVisible(heroSrc) ? (
+        <link rel="preload" as="image" href={heroSrc!} fetchPriority="high" />
       ) : null}
       <ReadingProgress />
       <SharedNavbar />
@@ -638,10 +639,10 @@ function BlogPostPage() {
       <main className="pt-[57px]">
         {/* Hero con imagen de fondo y animación de entrada */}
         <div className="relative overflow-hidden">
-          {heroSrc ? (
+          {fotoVisible(heroSrc) ? (
             <>
               <DriveInImage
-                src={heroSrc}
+                src={heroSrc!}
                 alt={heroAlt}
                 eager={true}
                 width={dims[heroSrc.split("/").pop() ?? ""]?.[0]}
@@ -817,11 +818,7 @@ function BlogPostPage() {
           <Card className="border-2 border-red-200 overflow-hidden">
             <CardContent className="p-5 space-y-4">
               <div className="flex items-start gap-3">
-                <img
-                  src="/media/file_JCUW0M5ZDov5VKrmqbwPmQSz.png"
-                  alt="RecurreTuMulta.online"
-                  className="w-10 h-10 rounded-2xl object-contain shrink-0 bg-white p-1 shadow-md shadow-red-200"
-                />
+                
                 <div>
                   <p className="font-black text-gray-900">{tpBlog?.cajaTitulo ?? "¿Tu multa encaja con alguno de estos casos?"}</p>
                   <p className="text-xs text-gray-500 mt-0.5">
