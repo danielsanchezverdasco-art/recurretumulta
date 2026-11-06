@@ -3639,6 +3639,7 @@ te-ha-llegado-una-multa-de-la-dgt-o-de-un-pais-europeo-como-francia-alemania-ita
 te-van-a-multar-por-llevar-los-cristales-delanteros-tintados-lo-que-la-dgt-no-te-cuenta-multas-de-infarto-y-por-que-te-tiran-en-la-itv
 tesla-cybercab-2026-precio-ficha
 tesla-cybertruck-2026-precio-ficha-tecnica
+tesla-cybertruck-fin-produccion-2027
 tesla-model-3-gran-autonomia-traccion-total-2026-precio-ficha-tecnica
 tesla-model-3-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica
 tesla-model-3-performance-2025-precio-ficha-tecnica
