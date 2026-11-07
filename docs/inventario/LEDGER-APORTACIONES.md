@@ -42,15 +42,17 @@ Los cinco slugs que no coincidían letra por letra ya apuntan, en el botón de l
 
 Los `href=/blog/` que aún usan esos cinco slugs están en «También te puede interesar» y el texto del enlace es el título del artículo. Abren el artículo, no una ficha inventada.
 
-## Pendiente, con referencia
+## Carrusel, comprobado en las 124 fichas
 
-Sigue sin lectura frase a frase el resto de conflictos de texto de autocaravanas (matriz en `/tmp/audit738/grupos.jsonl`, HEAD de aquella pasada `15c4b6b04`). Los módulos `blog-posts-autocaravanas-lote125.ts` y `lote125-g02.ts`, más `blog-data.ts`, siguen protegidos.
+En `6b6202d77` cada diapositiva mide el ancho del carrusel y se desplaza dentro. Las pestañas quedan en una tira con scroll. Las URLs largas de la ficha parten. Tras hidratar, las 124 fichas a 1366 y a 390 no ensanchan el documento, la primera foto se ve y no es un logo, el carrusel se desplaza si hay más de una, hay contador y botón de ampliar, y a 1366 se ve la flecha siguiente.
+
+## Pendiente, con referencia
 
 Sigue sin lectura frase a frase el resto de conflictos de texto de autocaravanas (matriz en `/tmp/audit738/grupos.jsonl`, HEAD de aquella pasada `15c4b6b04`). Los módulos `blog-posts-autocaravanas-lote125.ts` y `lote125-g02.ts`, más `blog-data.ts`, siguen protegidos.
 
 Otras áreas, sin cerrar:
 
-- Coches: `AREA-COMPARADORES-COCHES-20261107.md` y el residual. Una muestra del residual (Cupra León 1.5 TSI y Sandero TCe 90) ya tiene en la ficha el bloque que el jsonl daba por ausente. No se vuelve a pegar. Las 632 cifras en desacuerdo siguen sin fuente abierta por par.
+- Coches, revisado de nuevo contra el candidato actual (no contra el jsonl viejo). De los 126 bloques, 34 ya están en el id (`docs/inventario/BLOQUES-COCHES-126-20261107.jsonl`, estado `absorbido`, con ruta y bloque). Los otros 92 no se integran: el plan cita un programa de marca, no una página de ese modelo, o la nota de Euro NCAP no trae la ficha de resultado. De las 632 cifras, 616 siguen con el número del candidato y la rama trae otro, sin fuente nueva. Las 16 restantes eran un falso «candidato» (el json había guardado una frase, no el campo); el campo vivo ya es el de la ficha.
 - Patinetes: Ninebot por código de fábrica, Raptor Dual, K2 a secas y precios solo de retailer. Fotos Cecotec en `LOTE-CECOTEC-P2-20261107.md`.
 - 111 portadas de blog revertidas: `BLOG-FOTOS-PORTADA-20261107.md`.
 - Dist del candidato: no generado. El dist viejo no corresponde a este HEAD.
