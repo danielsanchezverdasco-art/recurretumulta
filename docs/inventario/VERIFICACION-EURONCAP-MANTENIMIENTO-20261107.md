@@ -2,6 +2,8 @@
 
 Fecha de la consulta: 7 de noviembre de 2026. Se abrió la ficha de resultado o el comunicado de Euro NCAP, no bastó con que el dominio fuera euroncap.com. Donde la variante no está en la tabla, o la ficha está caducada, las estrellas quedan vacías.
 
+En la ficha del coche la nota es corta y el enlace apunta a la página consultada. El detalle de variante, fecha y porcentajes está en esta verificación, para no repetir el mismo párrafo en cada acabado.
+
 ## Estrellas que se mantienen, con la ficha
 
 | Modelo | Estrellas | Qué se comprobó |
