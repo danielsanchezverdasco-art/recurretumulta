@@ -1,6 +1,8 @@
 # Diferencia del sitemap, URL a URL (6/11/2026)
 
-Resultado de esta pasada: `dist/sitemap.xml` tiene **6316** URLs. Las **6209** del vivo están todas. Hay **107** que el vivo no tiene: páginas de esta rama con canonical propio. Cero URLs del vivo fuera.
+Nota del 7/11, tras el bundle `index-C31lVF6x.js`: el sitemap de dist pasa a **6367**. Contra el sitemap de 6316 de la pasada anterior no se pierde ninguna URL. Las 51 de más son 50 posts que `adsense-dist.py` había borrado sin una regla previa en `public/_redirects` (se han vuelto a generar, sin 301 nuevo) y la ficha `/coches/benelli-trk-800-2026-precio-ficha-tecnica/`, que `politica-noindex.py` devolvió a index. Las 6209 del vivo siguen todas.
+
+Resultado de la pasada anterior: `dist/sitemap.xml` tenía **6316** URLs. Las **6209** del vivo estaban todas. Hay **107** que el vivo no tiene: páginas de esta rama con canonical propio. Cero URLs del vivo fuera.
 
 Sitemap en vivo (`https://recurretumulta.online/sitemap.xml`): **6209** URLs.
 Sitemap de `dist` antes de esta recuperación (`sitemap-final.py` sobre el bundle `index-CIDNxUOl.js`): **5815**.

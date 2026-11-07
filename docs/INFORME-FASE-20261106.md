@@ -163,4 +163,25 @@ El sitemap ya no pierde URLs del vivo. El `dist/sitemap.xml` de esta pasada tien
 
 Prerender de **10.690** rutas del bundle `index-CLxKXQdq.js`, 0 fallos, más las 3 Zontes. Manifiesto de 10.693 líneas, todas con ese JS. `chequeo_img_dist.py` a 0. `validar-dist-publicable.py` a 0 bloqueantes. Ninguna de las 328 rutas de foto ausente queda como `<img src>` en el HTML. La galería de motos y `DriveInImage` no las pintan, así que la hidratación no las repone.
 
-La fase no se cierra: quedan 201 frases.
+La fase no se cierra en ese momento: quedan 201 frases.
+
+## Cierre de frases y dist del bundle nuevo (7/11)
+
+`rev3b` contra `9cf8ef85`, leído de git y no del árbol de trabajo: **0**. El medidor y la base no se han tocado. Las últimas cinco ventanas estaban en el enlace repetido de `src/lib/blog-posts-motos-exp-m12.ts` («con galería de fotos: ficha y fotos»). El enlace y el nombre del modelo se quedan; se quita la cola compartida.
+
+Ese texto entra en un build nuevo. `npm run build` con la URL regional ya escrita en `scripts/check-convex-url.mjs` sale 0. Bundle `dist/assets/index-C31lVF6x.js`, CSS `index-eSpRw-t6.css`. Prerender de las **10.693** rutas del listado: **10.693 ok, 0 fallos**. Manifiesto `scripts/.safe-publish/prerender-manifest.jsonl`, una línea por ruta, todas con ese JS.
+
+La cadena es `scripts/cadena-dist.sh`. Al final `politica-noindex.py` deja noindex solo en la lista permitida (el juego de los monos y las bajas). `sitemap-final.py` da **6.367** URLs. Las **6.209** del vivo están. Contra el sitemap de 6.316 del bundle anterior no se pierde ninguna URL: se suman 50 posts que la fase blog había borrado sin 301 previo en `public/_redirects`, y la ficha Benelli TRK 800 2026. Esos 51 HTML se vuelven a generar. No hay 301 nuevo. `public/_redirects` no cambia de hash: 9.537 reglas, y las mismas 9.537 están en `dist/_redirects`.
+
+Comprobaciones de este dist, todas a 0 fallos:
+
+- `scripts/comprobar-cierre.py`: 0 URLs del vivo fuera, 0 reglas perdidas, 7.929 HTML citan el bundle, 0 `<img>` hacia las 328 fotos ausentes, 39.550 ficheros de media con el mismo sha256 que el manifiesto.
+- `chequeo_img_dist.py`: 0 imágenes sin `src`, 0 logo como foto. Sigue el aviso de 19 tarjetas de blog sin foto.
+- `validar-dist-publicable.py`: 0 bloqueantes indexables, 0 avisos de noindex, 0 `/media` citadas y ausentes.
+- `npm test`: 12 ficheros, 78 pruebas, y el parser del monitor, exit 0.
+- A 390 px y a 1.366 px, desborde 0 en el radar A-1 pk 14,56, en los tres rankings y en el comparador de patinetes. Ningún `<img>` sin `src`. El comparador no dice «Foto pendiente».
+- Toda referencia local `/assets/...` del HTML existe en `dist/assets`.
+
+El `dist` de 5,2 GB no cabe en un artefacto. La documentación de Cloud Agents describe artefactos de uno en uno (listar y descargar cada fichero) y no un protocolo de subida por partes. En este entorno un fichero de 96 MiB se cierra y uno de 112 MiB falla con `Invalid argument`. El HTML y los assets, sin la carpeta `media`, están en diez partes de 90 MiB o menos. Receta, hashes y lo que no está en git: `docs/inventario/PAQUETE-RECONSTRUCCION.md`. No se ha borrado el dist ni el tar anterior.
+
+`tools/publicar/publicar.py` sigue abortando si un fichero de `no-tocar.txt` difiere de lo vivo. Frente a `main` (`3e93e630`) hay 5, y dos no estaban en `docs/inventario/excepciones-no-tocar.txt`: `src/components/ficha/RivalesCarrusel.tsx` (no pinta la foto que no existe) y `src/lib/blog-posts-zontes-552g.ts` (se quitó una imagen marcada como recreación). No se ha editado `no-tocar.txt`. Sin la aceptación de Daniel el publicador no arranca. No se ha hecho deploy, ni preview, ni merge a `main`. No se afirma que AdSense esté aprobado.
