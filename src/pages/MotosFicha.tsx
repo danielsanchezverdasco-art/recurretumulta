@@ -597,7 +597,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
             const g = garantiaDeMarca(moto.marca, "motos");
             return g && g.anios != null ? (
               <p className="mt-3 text-sm text-gray-500">
-                {`🛡️ Garantía oficial ${moto.marca}: `}<strong className="text-gray-800">{`${g.anios} años${g.km ? ` / ${fmtMiles(g.km)} km` : ""}`}</strong>
+                {`🛡️ En la ${nombre}, garantía oficial ${moto.marca}: `}<strong className="text-gray-800">{`${g.anios} años${g.km ? ` / ${fmtMiles(g.km)} km` : ""}`}</strong>
                 {tp?.garantiaNota ? <span className="text-gray-400"> ({tp.garantiaNota})</span> : g.nota ? <span className="text-gray-400"> ({g.nota.split(".")[0]})</span> : null}
               </p>
             ) : null;

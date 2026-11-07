@@ -558,7 +558,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
             const g = garantiaDeMarca(patinete.marca, "patinetes");
             return g && g.anios != null ? (
               <p className="mt-3 text-sm text-gray-500">
-                {`🛡️ Garantía oficial ${patinete.marca}: `}<strong className="text-gray-800">{`${g.anios} años${g.km ? ` / ${fmtMiles(g.km)} km` : ""}`}</strong>
+                {`🛡️ En el ${nombre}, garantía oficial ${patinete.marca}: `}<strong className="text-gray-800">{`${g.anios} años${g.km ? ` / ${fmtMiles(g.km)} km` : ""}`}</strong>
                 {g.nota ? <span className="text-gray-400"> ({g.nota.split(".")[0]})</span> : null}
               </p>
             ) : null;

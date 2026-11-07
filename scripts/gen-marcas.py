@@ -321,15 +321,9 @@ for c in CAT:
   h=h[:k]+blq+h[k:]
   h=h.replace("</head>",ld(bc([("Inicio","/"),(CAT[c],f"/{c}/")]),"bc-static")+"</head>",1)
   open(f,"w",encoding="utf8").write(h)
-# noindex,follow en fichas pobres
+# 31/10/2026: las fichas pobres no pasan a noindex. Lo decide politica-noindex.py
+# y solo para scripts/noindex-permitidos.txt. NOIDX se conserva como lista, no se aplica.
 nn=0
-for p in NOIDX:
-  f=f"{D}{p}index.html"
-  if not os.path.isfile(f): print("NOINDEX sin HTML",p); continue
-  h=open(f,encoding="utf8").read()
-  h2=re.sub(r'<meta name="robots" content="[^"]*">','<meta name="robots" content="noindex, follow">',h)
-  if h2==h and 'content="noindex, follow"' not in h: h2=h.replace("</head>",'<meta name="robots" content="noindex, follow"></head>',1)
-  open(f,"w",encoding="utf8").write(h2); nn+=1
 # _redirects (al principio, 301 directo)
 rp=f"{D}/_redirects"; R=open(rp,encoding="utf8").read()
 R="\n".join(l for l in R.split("\n") if "/marca/" not in l.split(" ")[0])

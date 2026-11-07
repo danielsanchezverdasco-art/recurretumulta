@@ -791,7 +791,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             const g = garantiaDeMarca(coche.marca, "coches");
             return g && g.anios != null ? (
               <p className="mt-2 text-sm text-gray-500">
-                {`🛡️ Garantía oficial ${coche.marca}: `}<strong className="text-gray-800">{`${g.anios} años${g.km ? ` / ${fmtMiles(g.km)} km` : ""}`}</strong>
+                {`🛡️ En el ${nombre}, garantía oficial ${coche.marca}: `}<strong className="text-gray-800">{`${g.anios} años${g.km ? ` / ${fmtMiles(g.km)} km` : ""}`}</strong>
                 {/* 20/10/2026: cortar solo en fin de frase (". "), no en cualquier
                     punto: el split(".") truncaba «100.000 km» a «100» (Toyota). */}
                 {g.nota ? <span className="text-gray-400"> ({g.nota.split(". ")[0]})</span> : null}

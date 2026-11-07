@@ -51,10 +51,12 @@ function fraseVerificacion({
   modelo?: string;
   fuente?: Fuente | null;
 }): string {
-  if (!fuente?.nombre) return TEXTO_VERIFICACION[tipo];
-  if (modelo && tipo === "ficha")
+  // Sin fuente nombrada no se repite el mismo ensayo en cada ficha: el enlace
+  // a la política editorial es la explicación metodológica. Con fuente y modelo,
+  // la frase cita esos dos datos, que son los de esta página.
+  if (fuente?.nombre && modelo && tipo === "ficha")
     return `Los datos de la ficha del ${modelo} se contrastaron con ${fuente.nombre}: solo se publica lo que esa fuente confirma; lo demás queda marcado como no verificado, nunca inventado.`;
-  return TEXTO_VERIFICACION[tipo];
+  return "";
 }
 
 export default function FirmaEditorial({
