@@ -1,8 +1,8 @@
 {
-"tanda": "2026-11-07-visual-6",
-"miradas": 315,
+"tanda": "2026-11-07-visual-7",
+"miradas": 323,
 "modelo_visible": 5,
-"pendientes": 228,
+"pendientes": 236,
 "dependencias_24": "Quedan fuera de las fotos mostradas. La plantilla de portada no las pide: ningún id está en el ranking. No se declaran validadas.",
 "entradas": [
 {
@@ -3726,13 +3726,109 @@
 "bytes": 157588,
 "metodo": "Lectura del fichero que la página renderizada usa. La variante exacta solo se anota si está escrita o es su insignia. El nombre del archivo no cuenta.",
 "tanda": "2026-11-07-visual-6"
+},
+{
+"ruta": "/media/adria-coral-xl-670-dk-2026-precio-ficha-tecnica-interior-oficial.webp",
+"modelo": "Adria Coral XL 670 DK",
+"resultado": "pendiente",
+"visto": "Cocina y sofá. No se lee Adria, Coral, 670 ni DK.",
+"fundamento": "Sin nombre no hay planta ni error.",
+"limite": "No confirma la planta.",
+"sha256": "ba2d9fe630e63cdce6cae912dadce52b8fa8867aad457d21eac91600da08a514",
+"bytes": 177112,
+"metodo": "Lectura del fichero que la página renderizada usa. La variante exacta solo se anota si está escrita o es su insignia. El nombre del archivo no cuenta.",
+"tanda": "2026-11-07-visual-7"
+},
+{
+"ruta": "/media/benimar-mileo-282-2026-precio-ficha-tecnica-interior-oficial.webp",
+"modelo": "Benimar Mileo 282",
+"resultado": "pendiente",
+"visto": "Salón y cocina. No se lee Benimar, Mileo ni 282.",
+"fundamento": "La placa exterior no se hereda.",
+"limite": "No confirma el modelo.",
+"sha256": "996656d4bb3620c83fbf04d96448b515fd9d26fa4c71f7cfa39cb7c2c23b6d79",
+"bytes": 131672,
+"metodo": "Lectura del fichero que la página renderizada usa. La variante exacta solo se anota si está escrita o es su insignia. El nombre del archivo no cuenta.",
+"tanda": "2026-11-07-visual-7"
+},
+{
+"ruta": "/media/benimar-tessoro-463-up-2026-precio-ficha-tecnica-interior.webp",
+"modelo": "Benimar Tessoro 463 UP",
+"resultado": "pendiente",
+"visto": "Cocina. No se lee Benimar, Tessoro ni 463.",
+"fundamento": "Sin nombre no hay modelo ni error.",
+"limite": "No confirma la planta.",
+"sha256": "6cf7e2ded415b71e0b0a99d6ba6c5b2717afda19fa82b2e4f9f527599b70a4ad",
+"bytes": 80576,
+"metodo": "Lectura del fichero que la página renderizada usa. La variante exacta solo se anota si está escrita o es su insignia. El nombre del archivo no cuenta.",
+"tanda": "2026-11-07-visual-7"
+},
+{
+"ruta": "/media/burstner-lyseo-td-594-2026-interior-oficial.webp",
+"modelo": "Bürstner Lyseo TD 594",
+"resultado": "pendiente",
+"visto": "Comedor. No se lee Lyseo, TD ni 594.",
+"fundamento": "Sin nombre no hay planta ni error.",
+"limite": "No confirma el modelo.",
+"sha256": "0c2f55afdf5f981a00be325c400e7dd0680f70a26a028bcab3488b50fa461cf3",
+"bytes": 102950,
+"metodo": "Lectura del fichero que la página renderizada usa. La variante exacta solo se anota si está escrita o es su insignia. El nombre del archivo no cuenta.",
+"tanda": "2026-11-07-visual-7"
+},
+{
+"ruta": "/media/burstner-nexxo-van-t-569-2026-interior-oficial.webp",
+"modelo": "Bürstner Nexxo Van T 569",
+"resultado": "modelo-sin-variante",
+"visto": "El cabezal del asiento lee ACTIVE.",
+"fundamento": "No se lee Nexxo ni T 569. ACTIVE no se da por otra planta.",
+"limite": "No confirma la planta.",
+"sha256": "8a63f8fbbaa122459cc0c206485eda29240633e8895ee72b21c8d6743e2f8b12",
+"bytes": 91418,
+"metodo": "Lectura del fichero que la página renderizada usa. La variante exacta solo se anota si está escrita o es su insignia. El nombre del archivo no cuenta.",
+"tanda": "2026-11-07-visual-7"
+},
+{
+"ruta": "/media/burstner-nexxo-van-t-569-2026-interior-oficial-2.webp",
+"modelo": "Bürstner Nexxo Van T 569",
+"resultado": "modelo-sin-variante",
+"visto": "Los asientos delanteros leen ACTIVE.",
+"fundamento": "No se lee Nexxo ni T 569.",
+"limite": "No confirma la planta.",
+"sha256": "dc7ba03b629870007a16295174f39145a4f6f0d815fd3d2668c2566d85719871",
+"bytes": 64484,
+"metodo": "Lectura del fichero que la página renderizada usa. La variante exacta solo se anota si está escrita o es su insignia. El nombre del archivo no cuenta.",
+"tanda": "2026-11-07-visual-7"
+},
+{
+"ruta": "/media/challenger-v-217-2026-precio-ficha-tecnica-interior-oficial.webp",
+"modelo": "Challenger V217",
+"resultado": "pendiente",
+"visto": "Camas traseras. No se lee Challenger ni V217.",
+"fundamento": "Sin nombre no hay planta ni error.",
+"limite": "No confirma el modelo.",
+"sha256": "82b08adbcf5f58108cfabeb3da65ac3ff3a5408b594db502cce48093809a4962",
+"bytes": 47114,
+"metodo": "Lectura del fichero que la página renderizada usa. La variante exacta solo se anota si está escrita o es su insignia. El nombre del archivo no cuenta.",
+"tanda": "2026-11-07-visual-7"
+},
+{
+"ruta": "/media/dethleffs-globebus-t-6-2026-precio-ficha-tecnica-interior-oficial.webp",
+"modelo": "Dethleffs Globebus T6",
+"resultado": "pendiente",
+"visto": "Cocina y literas. No se lee Dethleffs, Globebus ni T6.",
+"fundamento": "Sin nombre no hay planta ni error.",
+"limite": "No confirma el modelo.",
+"sha256": "2c153ff5a71583737c9100347e7110d3a568c607510490979a508730b37d35fc",
+"bytes": 55162,
+"metodo": "Lectura del fichero que la página renderizada usa. La variante exacta solo se anota si está escrita o es su insignia. El nombre del archivo no cuenta.",
+"tanda": "2026-11-07-visual-7"
 }
 ],
 "no_modelo": 2,
 "hashes_duplicados_en_1390": "1383 hashes distintos en 1390 filas. Solo 7 pares idénticos. Esta tanda no comparte hash entre sí.",
 "variante_cubierta": 75,
 "tanda_4": "41 lecturas nuevas. No repite las 59 de visual-3. Cubierta solo si la variante o el modelo está escrito en la foto.",
-"modelo_sin_variante": 128,
+"modelo_sin_variante": 130,
 "variante_exacta": 75,
 "contradicciones": 5,
 "tanda_5": "100 héroes renderizados que no estaban en las 100 lecturas anteriores, más las fotos del Pursang y del Golf que esas páginas sí usan. variante_cubierta cuenta solo la variante escrita. modelo-sin-variante no confirma motor, potencia ni año. Este commit es posterior a 132fa5c6b y no está en ese bundle.",
@@ -3743,7 +3839,7 @@
 },
 {
 "resultado": "modelo-sin-variante",
-"n": 128
+"n": 130
 },
 {
 "resultado": "contradiccion",
@@ -3759,7 +3855,7 @@
 },
 {
 "resultado": "pendiente",
-"n": 48
+"n": 54
 },
 {
 "resultado": "pendiente-variante",
@@ -3778,8 +3874,9 @@
 "n": 2
 }
 ],
-"desglose_nota": "315 lecturas. 75+128+5 suman 208. El resto, 107, es modelo-visible 5, pendiente 48, pendiente-variante 43, pendiente-marca 8, pendiente-anio 1 y no-es-modelo 2. variante_cubierta cuenta solo el nombre escrito. La ficha del Q9 ya no usa el encuadre Q5/Q9. La Streetfighter V4 sigue en contradicción. Avatr 12 no se cierra como error.",
-"cobertura": "315 lecturas de foto. 209 pertenecen al inventario 1390 y 106 no. La cola de ese inventario queda en 1181. No son 1390 ni un recuento nuevo de las referencias /media/. 397 grupos de bytes idénticos siguen siendo la medida ya hecha, no releída.",
+"desglose_nota": "323 lecturas. 75+130+5 suman 210. El resto, 113, es modelo-visible 5, pendiente 54, pendiente-variante 43, pendiente-marca 8, pendiente-anio 1 y no-es-modelo 2. variante_cubierta cuenta solo el nombre escrito.",
+"cobertura": "323 lecturas de foto. 217 pertenecen al inventario 1390 y 106 no. La cola de ese inventario queda en 1173. No son 1390 ni un recuento nuevo de las referencias /media/. 397 grupos de bytes idénticos siguen siendo la medida ya hecha, no releída.",
 "tanda_6": "109 lecturas nuevas de ficheros que el HTML renderizado usa y que no estaban entre las 206. No repite la investigación del Sportstourer. No hay escaneo nuevo del conjunto de referencias /media/. La ausencia de leyenda no es un error. El mismo hash no aprueba ni rechaza el modelo. El dist del sello 64b7fc873 no cambia. Este commit no está en el bundle 132fa5c6b. Hashes repetidos dentro de la tanda: 0. Hashes ya presentes en las 206: 0.",
-"solape_1390": "El inventario 1390 es la cola de ab29c3811: 1156 sin validación, 24 de uso potencial y 210 de solo asociación. 1383 hashes y 7 pares, medidos entonces, no rehechos. De las 315 lecturas, 209 están en ese inventario y 106 no. Por eso 1390-315 no es la cola. Tras retirar las 58 lecturas que seguían en la cola, quedan 1181 rutas del inventario sin leer. 1181+209=1390. Las 106 lecturas de fuera no se restan del inventario."
+"solape_1390": "El inventario 1390 es la cola de ab29c3811: 1156 sin validación, 24 de uso potencial y 210 de solo asociación. 1383 hashes y 7 pares, medidos entonces, no rehechos. De las 323 lecturas, 217 están en ese inventario y 106 no. La cola restante es 1173. 1173+217=1390. Las 106 lecturas de fuera no se restan del inventario.",
+"tanda_7": "8 interiores de fichas ya miradas por fuera. Ninguno escribe la planta. No cambia el dist del sello 61ada1ac3."
 }
