@@ -31,7 +31,7 @@ import json as _json
 _cred = {}
 for _l in open("public/media-creditos.md", encoding="utf8"):
     _c = [x.strip() for x in _l.strip().strip("|").split("|")]
-    if len(_c) >= 4 and _c[0].startswith("/media/") and (re.match(r"CC BY", _c[3]) or _c[3] == "prensa"):
+    if len(_c) >= 4 and _c[0].startswith("/media/") and (re.match(r"CC BY", _c[3]) or _c[3] in ("prensa", "CC0") or _c[3].lower().startswith("dominio público") or _c[3].lower().startswith("public domain")):
         _cred[_c[0]] = {"autor": re.sub(r"\s+", " ", _c[2]), "licencia": _c[3], "url": _c[1]}
 open("src/lib/creditos-fotos.generated.ts", "w", encoding="utf8").write(
     "// GENERADO por scripts/gen-cards.py desde public/media-creditos.md. No editar.\n"

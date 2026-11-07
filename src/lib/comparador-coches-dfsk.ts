@@ -13,7 +13,7 @@ export const COCHES_DFSK: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial:
-      "/media/dfsk-600-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/dfsk-fengon-600-commons.webp",
     imagenInteriorOficial:
       "",
     videoId: null,
@@ -56,7 +56,7 @@ export const COCHES_DFSK: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 197,
     aprox: ["pesoKg"],
-    imagen: "/media/dfsk-600-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "/media/dfsk-fengon-600-commons.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 15.9,
@@ -179,7 +179,7 @@ export const COCHES_DFSK: CocheComparador[] = [
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial:
-      "/media/dfsk-seres-3-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/seres-3-iaa2023-commons.webp",
     imagenInteriorOficial:
       "",
     videoId: "uRb_7I7b3ls",
@@ -222,7 +222,7 @@ export const COCHES_DFSK: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["consumo"],
-    imagen: "/media/dfsk-seres-3-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "/media/seres-3-iaa2023-commons.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.2,

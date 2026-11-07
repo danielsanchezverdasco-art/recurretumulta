@@ -480,7 +480,7 @@ export const COCHES_LIVAN: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/livan-maple-60s-2024-precio-ficha-tecnica-hero-card.webp",
+    imagenOficial: "/media/maple-60s-commons.webp",
     imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,

@@ -51,7 +51,7 @@ export const COCHES_EXP8: CocheComparador[] = [
       "Maletero de 520 litros, correcto sin más para su tamaño",
     ],
     imagen: "",
-    imagenOficial: "/media/peugeot-e-3008-dual-motor-325-2026-precio-ficha-tecnica-hero.webp",
+    imagenOficial: "/media/peugeot-3008-c-commons.webp",
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/peugeot-e-3008-dual-motor-325-2026-precio-ficha-tecnica-hunt1.webp", alt: "E-3008 Dual Motor (foto: Actu-Automobile (ensayo del E-3008 Dual Motor), licencia desconocida)", ancho: 1024, alto: 683 },
@@ -94,7 +94,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     pros: ["Frente a Kia EV9 o Mercedes-Benz EQB, ofrece siete asientos reales en solo 4,79 metros", "Tercera fila escamoteable y segunda corredera: en cinco plazas libera 862 litros para equipaje familiar voluminoso", "Dos motores y tracción total: acelera hasta 100 km/h en 6,5 segundos incluso viajando siete personas", "Homologa 467 kilómetros WLTP con 73 kWh, cifra válida para escapadas largas sin obsesionarse con enchufes", "Admite 160 kW en continua, así las paradas en ruta se acortan aunque vayas con toda la familia"],
     contras: ["Desplegar los siete asientos deja un maletero muy justo para las maletas de siete viajeros", "Parte de 57.010 euros en Launch Edition, precio elevado para un generalista pensado para familias numerosas", "Sus 2.406 kilos se notan frenando, girando y gastando neumático en el uso intensivo diario", "Quien priorice alcance elegirá el Long Range: homologa 660 kilómetros frente a estos 467 kilómetros", "Se queda en cuatro estrellas Euro NCAP de 2025 mientras varios rivales directos presumen de cinco"],
     imagen: "",
-    imagenOficial: "/media/peugeot-e-5008-320-dual-motor-2026-precio-ficha-tecnica-hero.webp",
+    imagenOficial: "/media/peugeot-5008-c-commons.webp",
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/peugeot-e-5008-320-dual-motor-2026-precio-ficha-tecnica-hunt1.webp", alt: "E-5008 Dual Motor (foto: Actu-Automobile (ensayo del E-5008 Dual Motor), licencia desconocida)", ancho: 1024, alto: 684 },
@@ -417,7 +417,7 @@ export const COCHES_EXP8: CocheComparador[] = [
       "El E-3008 de 213 CV ofrece mucho más por un salto de precio moderado",
     ],
     imagen: "",
-    imagenOficial: "/media/peugeot-3008-12-hybrid-136-2025-precio-ficha-tecnica-hero.webp",
+    imagenOficial: "/media/peugeot-3008-c-commons.webp",
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/peugeot-3008-12-hybrid-136-2025-precio-ficha-tecnica-hunt1.webp", alt: "3008 Hybrid 136 (foto: Peugeot (prensa oficial) / Driving Enthusiast, licencia desconocida)", ancho: 1920, alto: 1191 },
@@ -472,7 +472,7 @@ export const COCHES_EXP8: CocheComparador[] = [
       "El PHEV de 195 CV es mucho más capaz por más dinero",
     ],
     imagen: "",
-    imagenOficial: "/media/peugeot-5008-12-hybrid-136-2025-precio-ficha-tecnica-hero.webp",
+    imagenOficial: "/media/peugeot-5008-c-commons.webp",
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/peugeot-5008-12-hybrid-136-2025-precio-ficha-tecnica-hunt1.webp", alt: "5008 Hybrid 136 (foto: CompleteCar.ie (ensayo del Peugeot 5008 Hybrid 2025), licencia desconocida)", ancho: 1500, alto: 1000 },
@@ -573,7 +573,7 @@ export const COCHES_EXP8: CocheComparador[] = [
       "Sin versión con tracción total",
     ],
     imagen: "",
-    imagenOficial: "/media/citroen-c4-12-puretech-130-2025-precio-ficha-tecnica-hero.webp",
+    imagenOficial: "/media/citroen-c4-2025-commons.webp",
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/citroen-c4-12-puretech-130-2025-precio-ficha-tecnica-hunt1.webp", alt: "C4 PureTech 130 (foto: AutoMagazin.sk, licencia desconocida)", ancho: 900, alto: 600 },
@@ -1000,7 +1000,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     pros: ["Lanzado en 2017 como Grandland X sobre la base EMP2 que comparte con el Peugeot 3008 y el Citroën C5 Aircross", "La unidad de 2024 ya es el Grandland sin X del rediseño de 2021: frontal Vizor, habitáculo Pure Panel y faros IntelliLux LED Pixel", "Con 4,48 m de largo y 514 litros de maletero se mantiene en la talla del segmento C sin crecer a los 4,65 m de su sustituto", "Los asientos ergonómicos con sello AGR, pensados para cuidar la espalda en trayectos largos, son un argumento de confort poco común entre los generalistas", "Cinco estrellas Euro NCAP en el ensayo de 2017, con un 87 % en protección de ocupantes infantiles cuando aún se llamaba Grandland X"],
     contras: ["Su 1.2 es el PureTech de correa bañada en aceite: Stellantis ha reconocido degradación prematura en esta familia de motores, así que el historial de cambios de aceite manda al comprarlo de ocasión", "Gasolina puro con etiqueta C y 135 g/km de CO2: la propia gama Grandland tuvo híbrido enchufable, pero esta versión se queda sin ventajas ECO o Cero en las ZBE", "Mover 1.450 kg con 130 CV y 230 Nm se paga al acelerar: necesita 10,2 segundos para llegar a 100 km/h, y cargado en pendiente el cambio trabaja sin descanso", "Es la generación de despedida: el Grandland presentado en 2024 es más grande y solo se vende electrificado, y ese relevo presiona su valor de reventa", "Comparte base con el C5 Aircross, pero carga 514 litros frente a los 580 del Citroën y renuncia a sus tres asientos traseros individuales deslizantes"],
     imagen: "",
-    imagenOficial: "/media/opel-grandland-12-turbo-130-2024-precio-ficha-tecnica-hero.webp",
+    imagenOficial: "/media/opel-grandland-b-commons.webp",
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/opel-grandland-12-turbo-130-2024-precio-ficha-tecnica-hunt1.webp", alt: "Grandland 1.2 Turbo 130 (foto: Opel (foto de prensa) vía Mycamelleva, licencia desconocida)", ancho: 1600, alto: 685 },
@@ -1431,7 +1431,7 @@ export const COCHES_EXP8: CocheComparador[] = [
       "Acabados básicos en la versión de acceso",
     ],
     imagen: "",
-    imagenOficial: "/media/fiat-600-12-turbo-100-2024-precio-ficha-tecnica-hero.webp",
+    imagenOficial: "/media/fiat-600-2023-commons.webp",
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/fiat-600-12-turbo-100-2024-precio-ficha-tecnica-hunt1.webp", alt: "600 1.2 Turbo 100 (foto: CompleteCar.ie (prueba del Fiat 600 1.2 Hybrid 2024), licencia desconocida)", ancho: 1500, alto: 1000 },

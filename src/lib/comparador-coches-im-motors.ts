@@ -16,7 +16,7 @@ export const COCHES_IM_MOTORS: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/im-l6-2025-precio-ficha-tecnica-hero-card.webp",
+    imagenOficial: "/media/im-l6-commons.webp",
     imagenInteriorOficial: "",
     videoId: "yf98eWBboFI",
     videoCanal: "Out of Spec Reviews",

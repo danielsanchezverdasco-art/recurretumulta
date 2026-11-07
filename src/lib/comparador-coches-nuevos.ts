@@ -2737,7 +2737,7 @@ euroncap: {
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["autonomiaKm", "bateriaKwh", "cargaRapidaKw", "pesoKg", "precioDesde"],
-    imagen: "/media/yangwang-desconocidos-hero.webp",
+    imagen: "/media/yangwang-u8-commons.webp",
     opiniones: [],
   },
   {

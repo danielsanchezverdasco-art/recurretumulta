@@ -90,7 +90,7 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nio-et5-touring-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/nio-et5-touring-commons.webp",
     imagenInteriorOficial: "/media/nio-et5-touring-2025-precio-ficha-tecnica-interior-oficial.webp",
     videoId: null,
     videoCanal: null,

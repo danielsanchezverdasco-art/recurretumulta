@@ -46,7 +46,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       "Precio elevado para un urbano de 3,86 metros",
     ],
     imagen: "",
-    imagenOficial: "/media/mini-cooper-e-2024-precio-ficha-tecnica-hero.webp",
+    imagenOficial: "/media/mini-cooper-e-j01-commons.webp",
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/mini-cooper-e-2024-precio-ficha-tecnica-hunt1.webp", alt: "Revisión básica (foto: BMW Group Press / MINI, licencia desconocida)", ancho: 2249, alto: 1500 },
@@ -744,7 +744,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     pros: ["Cinco puertas y cinco plazas aprovechables en solo 4.079 mm: el salto práctico frente al Cooper SE, que se queda en cuatro asientos", "Batería de 54,2 kWh y 405 km WLTP declarados para encadenar semana laboral y escapadas sin depender cada noche del enchufe", "330 Nm disponibles desde parado y 7,1 segundos hasta 100 km/h, con un consumo oficial contenido de 14,8 kWh/100 km", "Maletero ampliable de 300 a 1.005 litros abatiendo la banqueta trasera en proporción 60:40, según datos publicados por MINI", "Pantalla OLED circular de 24 cm con MINI Operating System 9 que agrupa navegación, climatización, multimedia y ajustes del vehículo"],
     contras: ["Con las cinco plazas ocupadas quedan 300 litros para equipaje, cifra corta si la familia viaja cargada en vacaciones", "La carga en corriente continua toca techo en 95 kW: recuperar del 10 al 80 % exige algo menos de media hora", "No hay alternativa de gasolina ni híbrida en la gama Aceman: sin recarga habitual en casa o trabajo, todo depende de la red pública", "Frente a Volvo EX30, Smart #1 o Jeep Avenger eléctrico juega la carta premium de MINI, no la de la compra más barata", "Velocidad punta limitada a 170 km/h y únicamente tracción delantera: la gama Aceman no contempla ninguna versión con tracción total"],
     imagen: "",
-    imagenOficial: "/media/mini-aceman-se-2024-precio-ficha-tecnica-hero.webp",
+    imagenOficial: "/media/mini-aceman-commons.webp",
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/mini-aceman-se-2024-precio-ficha-tecnica-hunt1.webp", alt: "Revisión básica (foto: BMW Group Press / MINI, licencia desconocida)", ancho: 1600, alto: 1066 },
@@ -1228,7 +1228,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       "En campo, el diésel es más sensato",
     ],
     imagen: "",
-    imagenOficial: "/media/land-rover-defender-110-p525-2025-precio-ficha-tecnica-hero.webp",
+    imagenOficial: "/media/defender-110-l663-commons.webp",
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/land-rover-defender-110-p525-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio intermedio (foto: CarExpert (prueba del Defender 110 P525 V8), licencia desconocida)", ancho: 960, alto: 640 },
@@ -3438,7 +3438,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       "El X5 xDrive50e ofrece etiqueta Cero",
     ],
     imagen: "",
-    imagenOficial: "/media/bmw-x5-m60i-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/bmw-x5-g05-2026-commons.webp",
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/bmw-x5-m60i-2026-precio-ficha-tecnica-hunt1.webp", alt: "Cambio de aceite (foto: BMW Group (foto de prensa) vía Brian Jessel BMW, licencia desconocida)", ancho: 1000, alto: 640 },
@@ -3573,7 +3573,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     pros: ["Hereda la receta del Clase G nacido en 1979: chasis de largueros, bloqueos en los tres diferenciales, reductora de 2,93 a 1 y 70 cm de vadeo", "Su seis cilindros diésel firma 367 CV y 750 Nm entre 1.350 y 2.800 rpm, con hasta 20 CV y 200 Nm eléctricos extra en aceleraciones puntuales", "Gracias al sistema de 48 V obtiene el distintivo ECO de la DGT, un salto frente al Clase G diésel saliente, que se quedaba con la C", "Los amortiguadores adaptativos vienen de serie en esta renovación; en el Clase G de 2018 eran un opcional según la versión"],
     contras: ["Homologa 8,8 l/100 km, pero esta ficha ya presupuesta 10,0 l/100 km aproximados para sus costes: su silueta vertical no perdona en autopista", "Con 1,93 m de ancho y 1,99 m de alto, la puerta y el gálibo de muchos garajes urbanos le quedan justos", "Elegir diésel hoy es apostar contra el calendario de las ZBE: el G 580 eléctrico de la misma gama no sufrirá esas restricciones", "Es el Clase G de acceso y aun así se lanzó en España a 148.675 €, antes de una lista de opciones de personalización especialmente cara"],
     imagen: "",
-    imagenOficial: "/media/mercedes-clase-g-450-d-2026-precio-ficha-tecnica-hero.webp",
+    imagenOficial: "/media/mercedes-g450d-w465-commons.webp",
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/mercedes-clase-g-450-d-2026-precio-ficha-tecnica-hunt1.webp", alt: "Clase G 450 d (foto: Team-BHP (prueba del G 450 d W465), licencia desconocida)", ancho: 800, alto: 694 },

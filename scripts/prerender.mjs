@@ -231,7 +231,14 @@ async function main() {
     // Abortar la descarga evita que el prerender espere cientos de fotos por ruta.
     await page.route("**/*", (route) => {
       const t = route.request().resourceType();
-      if (t === "image" || t === "media" || t === "font") return route.abort();
+      if (t === "image" || t === "media" || t === "font") {
+        // Las fotos de /media/ las sirve el manejador anterior desde disco.
+        // Abortarlas disparaba onerror y el prerender horneaba data-foto-pendiente
+        // en fichas que sí tienen foto. Lo externo sigue abortado.
+        const u = route.request().url();
+        if (/\/media\//.test(u)) return route.fallback();
+        return route.abort();
+      }
       return route.fallback();
     });
     // El juego de los monos no se pinta en el prerender: no aporta SEO y sus
